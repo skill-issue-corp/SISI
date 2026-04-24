@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: Silverfur-underscore
-  changes:
-  - message: The Mime Job Lizard plushie no longer breaks its vow when being thrown
-      against something or eaten.
-    type: Fix
-  id: 9150
-  time: '2025-10-24T00:02:31.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/41063
 - author: MDuch369
   changes:
   - message: Added guidebook entry for gas recycler.
@@ -4075,3 +4067,10 @@
   id: 9661
   time: '2026-04-24T09:31:53.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/38691
+- author: K-Dynamic
+  changes:
+  - message: Detectives can now choose to start the shift in a winter coat.
+    type: Tweak
+  id: 9662
+  time: '2026-04-24T10:07:05.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/39044
