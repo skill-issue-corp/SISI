@@ -118,7 +118,7 @@ public abstract partial class SharedGunSystem
     {
         // inky - kill skills
         return 1;
-        // /inky
+        /*
 
         if (userUid is not {} user || !HasComp<KnowledgeHolderComponent>(user))
             return 1;
@@ -133,6 +133,8 @@ public abstract partial class SharedGunSystem
         return level < 26
             ? 3.0f - level / 26.0f - _knowledge.SharpCurve(shooting)
             : (float) Math.Max(1.0f - Math.Pow((level - 50) / 50.0f, 2), 0.2f);
+
+        */ // /inky
     }
 
     public (float, float) GetBatteryShotsFloat(Entity<BatteryAmmoProviderComponent> ent)
