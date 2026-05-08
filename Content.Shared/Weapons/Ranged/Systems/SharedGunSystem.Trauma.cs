@@ -22,7 +22,7 @@ namespace Content.Shared.Weapons.Ranged.Systems;
 public abstract partial class SharedGunSystem
 {
     [Dependency] private readonly SharedMapSystem _map = default!;
-    [Dependency] private readonly CommonKnowledgeSystem _knowledge = default!;
+    // [Dependency] private readonly CommonKnowledgeSystem _knowledge = default!; // inky
 
     private static readonly EntProtoId ShootingKnowledge = "ShootingKnowledge";
     private static readonly EntProtoId WeaponsKnowledge = "WeaponsKnowledge";
