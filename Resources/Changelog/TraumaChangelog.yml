@@ -8504,3 +8504,10 @@ Entries:
   id: 974
   time: '2026-05-15T13:38:48.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2633
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed floor goblins getting doxxed by vision cones.
+  id: 975
+  time: '2026-05-15T14:15:25.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2644
