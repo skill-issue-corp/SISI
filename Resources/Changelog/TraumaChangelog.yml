@@ -8785,6 +8785,10 @@ Entries:
   changes:
   - type: Add
     message: Added 18 new classes to the Reinforcement Callers
+  - type: Add
+    message: Added an instrument beacon for musicians
+  - type: Add
+    message: Added space mirage pills to psychologist gear
   id: 1004
   time: '2026-05-20T16:52:36.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2657
