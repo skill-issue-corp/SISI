@@ -8870,3 +8870,10 @@ Entries:
   id: 1010
   time: '2026-05-21T23:09:20.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2721
+- author: TechnicFighter
+  changes:
+  - type: Tweak
+    message: Buffed Morph. More HP, More Damage, More resistances.
+  id: 1011
+  time: '2026-05-21T23:32:00.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2718
