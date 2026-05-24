@@ -5,10 +5,7 @@ using Content.Shared.Dataset; // inky
 using Content.Shared.GameTicking;
 using Content.Shared.Random.Helpers;
 using Content.Trauma.Common.CCVar;
-using Robust.Client.Graphics;
 using Robust.Client.ResourceManagement;
-using Robust.Client.UserInterface;
-using Robust.Client.UserInterface.Controls;
 using Robust.Shared;
 using Robust.Shared.Configuration;
 using Robust.Shared.Random;
