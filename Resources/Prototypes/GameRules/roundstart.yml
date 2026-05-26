@@ -244,7 +244,7 @@
   id: Traitor
   components:
   - type: GameRule
-    minPlayers: 1 # Trauma - was 5
+    minPlayers: 5
   - type: AntagSelection
     lateJoinAdditional: true
     antags:

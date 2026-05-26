@@ -1,5 +1,6 @@
 // <Trauma>
 using Content.Server.Chat.Systems;
+using Robust.Shared.Timing;
 // </Trauma>
 using Content.Server.Antag;
 using Content.Server.Communications;
@@ -252,11 +253,15 @@ public sealed partial class NukeopsRuleSystem : GameRuleSystem<NukeopsRuleCompon
             {
                 nukeops.WinConditions.Add(WinCondition.NukeExplodedOnIncorrectLocation);
             }
-
-            // <Trauma> - replace shitcode, nuke exploding means round ended
-            _roundEndSystem.EndRound();
-            // </Trauma>
         }
+
+        // <Trauma> - replace gamerule-specific shitcode, nuke exploding means round ended
+        // Timer.Spawn is evil but round ending shitcode is worse
+        Timer.Spawn(TimeSpan.FromSeconds(10), () =>
+        {
+            _roundEndSystem.EndRound();
+        });
+        // </Trauma>
     }
 
     private void OnRunLevelChanged(GameRunLevelChangedEvent ev)

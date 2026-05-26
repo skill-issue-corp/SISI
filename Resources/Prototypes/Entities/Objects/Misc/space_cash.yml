@@ -21,6 +21,7 @@
     normalState: fire
   - type: Damageable
     damageModifierSet: Wood
+  - type: Injurable
   - type: Destructible
     thresholds:
     - trigger:
@@ -39,6 +40,7 @@
     - paper
   - type: BadFood
   - type: Solution
+    id: food
     solution:
       maxVol: 1
       reagents:

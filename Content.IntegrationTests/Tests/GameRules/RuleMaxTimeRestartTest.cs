@@ -11,6 +11,7 @@ namespace Content.IntegrationTests.Tests.GameRules
 {
     [TestFixture]
     [TestOf(typeof(MaxTimeRestartRuleSystem))]
+    [Category("GameRuleTests")] // Trauma
     public sealed class RuleMaxTimeRestartTest : GameTest
     {
         public override PoolSettings PoolSettings => new() { InLobby = true };

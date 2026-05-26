@@ -85,3 +85,4 @@
     text: abductor-victim-role-greeting
     color: Red
     sound: /Audio/_Shitmed/Misc/abducted.ogg
+  pickPlayer: false # manually assigned

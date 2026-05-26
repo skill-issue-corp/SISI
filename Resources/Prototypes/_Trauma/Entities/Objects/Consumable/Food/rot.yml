@@ -48,6 +48,8 @@
       - ReagentId: RobustHarvest
         Quantity: 10
   - type: Damageable
+  - type: Injurable
+    damageContainer: Biological
   - type: DamageOverTime
     damage:
       types:

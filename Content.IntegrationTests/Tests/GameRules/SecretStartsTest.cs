@@ -7,6 +7,7 @@ using Robust.Shared.Prototypes;
 namespace Content.IntegrationTests.Tests.GameRules;
 
 [TestFixture]
+[Category("GameRuleTests")] // Trauma
 public sealed class SecretStartsTest : GameTest
 {
     public override PoolSettings PoolSettings => new PoolSettings { Dirty = true };

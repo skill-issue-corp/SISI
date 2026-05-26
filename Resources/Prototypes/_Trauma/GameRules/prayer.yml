@@ -8,6 +8,7 @@
     giveBriefing: false # slop?
   - type: AntagSelection
     selectionTime: Never # directly assigned by code
+    assignmentHandled: true
     antags:
-    - !type:LinearAntagCount
+    - !type:FixedAntagCount
       proto: Traitor

@@ -171,7 +171,6 @@
       - ReagentId: Omnizine
         Quantity: 30
   - type: SolutionRegeneration
-    solution: drink
     duration: 10
     generated:
       reagents:

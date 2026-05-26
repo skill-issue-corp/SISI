@@ -3,14 +3,14 @@
   id: BasePaper
   abstract: true
   components:
-  # <Goob>
+  # <Trauma>
   - type: EmitSoundOnPickup
     sound:
       path: /Audio/_Goobstation/Items/handling/paper_pickup.ogg
       params:
         volume: -6
   - type: EmitSoundOnDrop
-    sound:
+    sound: &drop_sound
       path: /Audio/_Goobstation/Items/handling/paper_drop.ogg
       params:
         volume: -6
@@ -21,16 +21,13 @@
       params:
         volume: -6
   - type: EmitSoundOnCollide
-    sound:
-      path: /Audio/_Goobstation/Items/handling/paper_drop.ogg
-      params:
-        volume: -6
+    sound: *drop_sound
   - type: EmitSoundOnThrow
     sound:
       path: /Audio/_Goobstation/Items/handling/paper_throw.ogg
       params:
         volume: -6
-  # </Goob>
+  # </Trauma>
   - type: Tag
     tags:
     - Document

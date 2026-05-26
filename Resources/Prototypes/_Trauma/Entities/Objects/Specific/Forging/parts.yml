@@ -54,6 +54,8 @@
   description: A newly made wet brick, leave it out to dry for a while.
   components:
   - type: Damageable
+  - type: Injurable
+    damageContainer: Inorganic
   - type: Destructible
     thresholds:
     - trigger:

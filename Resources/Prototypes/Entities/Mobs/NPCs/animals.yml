@@ -1831,7 +1831,6 @@
     eggLayAction: MouseMultiply
     hungerRequired: true
   - type: SolutionRegeneration
-    solution: melee
     generated:
       reagents:
       - ReagentId: MouseBites

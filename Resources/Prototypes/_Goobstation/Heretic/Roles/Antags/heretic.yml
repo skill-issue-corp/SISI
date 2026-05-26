@@ -45,7 +45,6 @@
   id: Heretic
   prefRoles: [ Heretic ]
   jobBlacklist: [ Chaplain ]
-  mindRoles: [ MindRoleHeretic ]
 
 - type: antagSpecifier
   parent: Heretic

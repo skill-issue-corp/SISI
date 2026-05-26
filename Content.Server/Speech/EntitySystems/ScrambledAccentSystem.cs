@@ -10,7 +10,7 @@ public sealed partial class ScrambledAccentSystem : RelayAccentSystem<ScrambledA
 {
     private static readonly Regex RegexLoneI = new(@"(?<=\ )i(?=[\ \.\?]|$)");
 
-    [Dependency] private readonly IRobustRandom _random = default!;
+    [Dependency] private IRobustRandom _random = default!;
 
     protected override string AccentuateInternal(EntityUid uid, ScrambledAccentComponent comp, string message)
     {

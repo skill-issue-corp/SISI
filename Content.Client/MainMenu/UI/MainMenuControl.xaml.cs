@@ -23,7 +23,7 @@ public sealed partial class MainMenuControl : Control
     [
         "Wizard",
         "TrainStation",
-        "PlasmaStation",
+        //"PlasmaStation", // Trauma - hardcoding a bunch of ids instead of using a prototype field award
         "AmberStation",
         "FastSpace",
         "AspidParallax",
@@ -32,7 +32,7 @@ public sealed partial class MainMenuControl : Control
         "Sky",
         "KettleStation",
         "BagelStation",
-        "ExoStation",
+        //"ExoStation", // Trauma
     ];
 
     public MainMenuControl(IResourceCache resCache, IConfigurationManager configMan)

@@ -523,7 +523,7 @@
   components:
   - type: Wieldable
     wieldSound: !type:SoundPathSpecifier
-      path: /Audio/Weapons/chainsawwield.ogg
+      path: /Audio/Weapons/chainsaw_pull.ogg
       params:
         volume: 1
   - type: MeleeRequiresWield
@@ -551,7 +551,7 @@
         Structural: 20
         Holy: 3
     soundHit:
-      path: /Audio/Weapons/chainsaw.ogg
+      path: /Audio/Weapons/chainsaw_rev.ogg
       params:
         volume: -3
   - type: Item
@@ -561,9 +561,9 @@
     speed: 0.65
   - type: SurgeryTool # Shitmed
     startSound:
-      path: /Audio/Weapons/chainsawwield.ogg
+      path: /Audio/Weapons/chainsaw_pull.ogg
     endSound:
-      path: /Audio/Weapons/chainsaw.ogg
+      path: /Audio/Weapons/chainsaw_rev.ogg
   - type: Tag
     tags:
       - HolyChainsaw

@@ -399,6 +399,10 @@ public sealed partial class GameTicker
         var query = EntityQueryEnumerator<GameRuleComponent>();
         while (query.MoveNext(out var uid, out var gameRule))
         {
+            // <Trauma> - ignore previous gamerules from failed preset starts
+            if (!IsGameRuleAdded(uid, gameRule))
+                continue;
+            // </Trauma>
             var minPlayers = gameRule.MinPlayers;
             var name = ToPrettyString(uid);
 

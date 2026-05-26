@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using Content.IntegrationTests.Fixtures;
 using Content.IntegrationTests.Fixtures.Attributes;
 using Content.Server.Antag;
@@ -14,6 +14,7 @@ namespace Content.IntegrationTests.Tests.GameRules;
 /// <summary>
 /// An abstract test fixture which is setup specifically for tests involving antag definitions, to ensure they work correctly!
 /// </summary>
+[Category("GameRuleTests"), Explicit] // Trauma - explicit since the antag tests use 16gb of ram actual dogshit learn to code
 public abstract partial class AntagTest : GameTest
 {
     public override PoolSettings PoolSettings => new()
@@ -70,7 +71,7 @@ public abstract partial class AntagTest : GameTest
                 {
                     Assert.That(mindComp!.MindRoleContainer.ContainedEntities,
                         Has.Exactly(1).Matches<EntityUid>(x => SComp<MetaDataComponent>(x).EntityPrototype?.ID == role),
-                        $"{SToPrettyString(mindEnt)} owned by {session}, failed to acquire role {role} for antagonist {antag}");
+                        $"{SToPrettyString(mindEnt)} owned by {session}, failed to acquire role {role} for antagonist {antag.ID}"); // Trauma - use antag.ID
                 }
             });
         }

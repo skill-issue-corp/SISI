@@ -49,7 +49,6 @@
     distance: 0.3
     speed: 1
   - type: SolutionRegeneration
-    solution: melee
     generated:
       reagents:
       - ReagentId: MuteToxin

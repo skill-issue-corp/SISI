@@ -26,12 +26,12 @@ public sealed partial class FleshmendEffectSystem : EntitySystem
 
         foreach (var (_, effect, _) in effects)
         {
-            if (effect.EffectState != null && effect.ResPath != ResPath.Empty)
-            {
-                ent.Comp.EffectState = effect.EffectState;
-                ent.Comp.ResPath = effect.ResPath;
-                break;
-            }
+            if (effect.EffectState is { } state)
+                ent.Comp.EffectState = state;
+            if (effect.ResPath is { } path)
+                ent.Comp.ResPath = path;
+
+            break;
         }
 
         AddLayer(ent);

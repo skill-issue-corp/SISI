@@ -19,6 +19,8 @@
   - type: SolutionContainerVisuals
     maxFillLevels: 2
     fillBaseName: packet-solid-
+  - type: StaticPrice
+    price: 15
 
 - type: entity
   name: block of freedom cheese

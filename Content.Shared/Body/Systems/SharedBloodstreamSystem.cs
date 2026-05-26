@@ -467,7 +467,7 @@ public abstract partial class SharedBloodstreamSystem : EntitySystem
         foreach (var (referenceReagent, referenceQuantity) in ent.Comp.BloodReferenceSolution)
         {
             var error = referenceQuantity * referenceFactor - bloodSolution.GetTotalPrototypeQuantity(referenceReagent.Prototype);
-            var adjustedAmount = referenceQuantity * amount / ent.Comp.BloodReferenceSolution.Volume; // Trauma - unroll ratio since fp2 cant represent 1/300
+            var adjustedAmount = referenceQuantity * ratio;
 
             if (error > 0)
             {

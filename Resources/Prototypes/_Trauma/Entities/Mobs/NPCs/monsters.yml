@@ -572,7 +572,7 @@
     - CrabFaction # This is crabtually insane
   - type: ZombieImmune
   - type: MobPrice
-    price: 10
+    price: 15
   - type: MeleeWeapon
     altDisarm: false
     angle: 0

@@ -1,6 +1,5 @@
 // <Trauma>
 using Content.Goobstation.Common.Speech;
-using Content.Shared.Speech.Components;
 // </Trauma>
 using System.Linq;
 using System.Numerics;

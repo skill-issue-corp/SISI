@@ -282,7 +282,7 @@ namespace Content.Shared.Interaction
             {
                 if (TryComp<EnsnareableComponent>(uid, out var ensnareable) && _snare.IsEnsnared((uid, ensnareable)))
                 {
-                    foreach (var bola in ensnareable.Container.ContainedEntities.ToList())
+                    foreach (var bola in ensnareable.Container!.ContainedEntities.ToList())
                     {
                         if (TryComp<EnsnaringComponent>(bola, out var ensnaring))
                         {

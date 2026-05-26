@@ -424,7 +424,7 @@ public sealed partial class AntagSelectionSystem
     /// Then attempts to ticket an existing antag slot to our player, forcing one if there are no open slots.
     /// You shouldn't be using this basically ever except for debug and admin stuff.
     /// </summary>
-    [Obsolete]
+    //[Obsolete] // Trauma - nothing wrong with it
     public void ForceMakeAntag<T>(ICommonSession player, EntProtoId defaultRule) where T : Component
     {
         var rule = ForceGetGameRuleEnt<T>(defaultRule);

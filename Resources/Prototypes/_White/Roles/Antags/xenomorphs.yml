@@ -9,7 +9,6 @@
   id: Xenomorph
   prefRoles: [ XenomorphsInfestationRoundstart ]
   spawnerPrototype: SpawnPointGhostXenomorph
-  mindRoles: [ MindRoleXenomorph ]
   briefing:
     text: xenomorph-role-greeting
     color: "#8c3986"

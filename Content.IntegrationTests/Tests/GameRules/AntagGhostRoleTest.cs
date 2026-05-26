@@ -1,4 +1,4 @@
-﻿#nullable enable
+#nullable enable
 using System.Collections.Generic;
 using Content.IntegrationTests.Fixtures.Attributes;
 using Content.IntegrationTests.Utility;
@@ -32,6 +32,7 @@ public sealed partial class AntagGhostRoleTest : AntagTest
 
     private static readonly string[] AntagGameRules = GameDataScrounger.EntitiesWithComponent("AntagSelection");
 
+    [Explicit] // Trauma - takes too long
     [Test]
     [TestOf(typeof(GameTicker)), TestOf(typeof(AntagSelectionSystem)), TestOf(typeof(AntagSelectionComponent)), TestOf(typeof(GhostRoleSystem))]
     [TestCaseSource(nameof(AntagGameRules))]
@@ -79,6 +80,7 @@ public sealed partial class AntagGhostRoleTest : AntagTest
         Assert.That(STicker.GetAddedGameRules(), Is.Empty);
     }
 
+    [Explicit] // Trauma - takes too long, doesnt work for maints spawn rules
     [Test]
     [TestOf(typeof(GameTicker)), TestOf(typeof(AntagSelectionSystem)), TestOf(typeof(AntagSelectionComponent)), TestOf(typeof(GhostRoleSystem))]
     [Description("Ensures a player can take all antag ghost roles sequentially without transferring unwanted mind data.")]

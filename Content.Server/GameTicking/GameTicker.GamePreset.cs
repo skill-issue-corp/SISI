@@ -78,7 +78,7 @@ public sealed partial class GameTicker
                     _chatManager.SendAdminAnnouncement(
                         Loc.GetString("game-ticker-start-round-cannot-start-game-mode-fallback",
                             ("failedGameMode", presetTitle),
-                            ("fallbackMode", Loc.GetString(preset))));
+                            ("fallbackMode", preset))); // Trauma - no loc string it's a protoid
                     RefreshLateJoinAllowed();
                     startFailed = false;
                     break;

@@ -1,5 +1,5 @@
 - type: entity
-  parent: BaseItem
+  parent: FoodBase
   id: PlushieGore
   name: plushie gore
   description: Harden your heart...

@@ -11,11 +11,11 @@
     sprite: _Goobstation/Objects/Medical/medical_patch.rsi
     state: GenericPatch
   - type: Solution
-    id: patch
+    id: drink # chemmaster is hardcoded to check for this solution
     solution:
       maxVol: 30
   - type: ExaminableSolution
-    solution: patch
+    solution: drink
   - type: Sticky
     stickDelay: 3
     unstickDelay: 2
@@ -32,7 +32,7 @@
   - type: StickyVisualizer
   - type: Appearance
   - type: MixableSolution
-    solution: patch
+    solution: drink
   - type: MedicalPatch
   - type: Tag
     tags:

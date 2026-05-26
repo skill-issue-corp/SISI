@@ -1121,7 +1121,7 @@ public abstract partial class SharedSolutionContainerSystem : EntitySystem
 
         // Don't add a solution entity with the same id as this entity's solution if it exists!
         DebugTools.Assert(!TryComp<SolutionComponent>(entity, out var sol) || sol.Id != solution.Id,
-            $"Tried to add a solution {MetaData(args.Entity).EntityPrototype} {solution.Id} to {ToPrettyString(entity)} but it itself was a solution with a matching id!");
+            $"Tried to add a solution {solution.Id} ({Prototype(args.Entity)?.ID}) to {ToPrettyString(entity)} but it itself was a solution with that id!"); // Trauma - better message
 
         EnsureComp<ContainedSolutionComponent>(args.Entity, out var contained);
         contained.Container = entity.Owner;

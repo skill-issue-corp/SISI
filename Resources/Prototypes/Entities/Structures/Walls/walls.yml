@@ -1564,65 +1564,69 @@
   id: WallForce
   name: force wall
   components:
-    - type: TimedDespawn
-      lifetime: 15 # Goob edit
-    - type: Tag
-      tags:
-        - Wall
-        - BlockLightning # Goobstation
-    - type: Physics
-      bodyType: Static
-    - type: Fixtures
-      fixtures:
-        fix1:
-          shape:
-            !type:PhysShapeAabb
-            bounds: "-0.5,-0.5,0.5,0.5"
-          mask:
-            - SpecialWallLayer
-          layer:
-            - SpecialWallLayer
-    - type: Airtight
-    - type: Sprite
-      sprite: Structures/Magic/forcewall.rsi
-      layers:
-      - state: forcewall
-        map: [ "base" ]
-    - type: Icon
-      sprite: Structures/Magic/forcewall.rsi
-      state: forcewallspawn
-    # Goobstation start
-    - type: SpawnAnimation
-      animationLength: 1
-    - type: Appearance
-    - type: GenericVisualizer
-      visuals:
-        enum.SpawnAnimationVisuals.Spawned:
-          base:
-            True: { state: forcewall }
-            False: { state: forcewallspawn }
-    - type: RustRequiresPathStage
-      pathStage: 11 # Can't rust
-    - type: PreventCollide
-      whitelist:
-        components:
-        - Wizard
-        - Apprentice
-        - BibleUser
-    - type: Damageable
-    - type: Clickable
-    - type: Destructible
-      thresholds:
-      - trigger:
-          !type:DamageTrigger
-          damage: 350
-        behaviors:
-        - !type:PlaySoundBehavior
-          sound:
-            collection: WindowShatter
-        - !type:DoActsBehavior
-          acts: [ "Destruction" ]
-    # Goobstation end
+  # <Trauma>
+  - type: SpawnAnimation
+    animationLength: 1
+  - type: Appearance
+  - type: GenericVisualizer
+    visuals:
+      enum.SpawnAnimationVisuals.Spawned:
+        base:
+          True: { state: forcewall }
+          False: { state: forcewallspawn }
+  - type: RustRequiresPathStage
+    pathStage: 11 # Can't rust
+  - type: PreventCollide
+    whitelist:
+      components:
+      - Wizard
+      - Apprentice
+      - BibleUser
+  - type: Damageable
+  - type: Injurable
+    damageContainer: Inorganic
+  - type: Clickable
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 350
+      behaviors:
+      - !type:PlaySoundBehavior
+        sound:
+          collection: WindowShatter
+      - !type:DoActsBehavior
+        acts: [ "Destruction" ]
+  # </Trauma>
+  - type: TimedDespawn
+    lifetime: 15 # Trauma - was 10
+  - type: Tag
+    tags:
+    - BlockLightning # Trauma
+    - Wall
+  - type: Physics
+    bodyType: Static
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.5,-0.5,0.5,0.5"
+        mask:
+        - SpecialWallLayer
+        layer:
+        - SpecialWallLayer
+  - type: Airtight
+  - type: Sprite
+    sprite: Structures/Magic/forcewall.rsi
+    # <Trauma> - replace single state with a mapped layer, for animation to work
+    layers:
+    - state: forcewall
+      map: [ "base" ]
+    # </Trauma>
+  - type: Icon
+    sprite: Structures/Magic/forcewall.rsi
+    state: forcewallspawn # Trauma - was forcewall
 
 - type: entity
   parent: BaseWall

@@ -2,4 +2,3 @@
   parent: RestrictedAntag
   id: Shadowling
   prefRoles: [ Shadowling ]
-  mindRoles: [ MindRoleShadowling ]

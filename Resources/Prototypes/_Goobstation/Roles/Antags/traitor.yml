@@ -9,7 +9,6 @@
   guides: [ CorporateAgents ]
 
 - type: antagSpecifier
-  abstract: true
   id: CorporateAgent
   jobBlacklist: [ NanotrasenRepresentative ] # thats it, command can roll it
   prefRoles: [ CorporateAgent ]

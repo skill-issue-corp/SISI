@@ -17,6 +17,8 @@
   parent: BaseAntagGhostRoleRule
   id: PiratesSpawn
   components:
+  - type: GameRule
+    minPlayers: 10
   - type: ActivePirateRule
   - type: RuleGrids
   - type: LoadMapRule

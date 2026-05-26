@@ -1,7 +1,6 @@
 // <Trauma>
 using Content.Trauma.Common.Mindshield;
-using Content.Shared.Revolutionary; // GoobStation
-using Content.Server.Revolutionary.Components; // GoobStation
+using Content.Server.Revolutionary.Components;
 // </Trauma>
 using Content.Server.Administration.Logs;
 using Content.Server.Mind;

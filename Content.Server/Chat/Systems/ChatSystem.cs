@@ -1112,7 +1112,7 @@ public sealed partial class ChatSystem : SharedChatSystem
 
         var verbId = language.SpeechOverride.SpeechVerbOverrides is { } verbsOverride
             ? _random.Pick(verbsOverride).ToString()
-            : (speech is null ? string.Empty : _random.Pick(speech.SpeechVerbStrings));
+            : (speech is null ? "chat-speech-verb-default" : _random.Pick(speech.SpeechVerbStrings));
         var color = DefaultSpeakColor;
         colorOverride ??= language.SpeechOverride.Color;
         if (colorOverride != null)

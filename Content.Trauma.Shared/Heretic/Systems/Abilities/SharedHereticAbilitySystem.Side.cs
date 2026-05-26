@@ -84,7 +84,7 @@ public abstract partial class SharedHereticAbilitySystem
 
         if (TryComp(ent, out EnsnareableComponent? ensnareable) && _snare.IsEnsnared((ent, ensnareable)))
         {
-            var bola = ensnareable.Container.ContainedEntities[0];
+            var bola = ensnareable.Container!.ContainedEntities[0];
             _snare.ForceFree(bola);
         }
 

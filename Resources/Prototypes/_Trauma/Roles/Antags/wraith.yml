@@ -7,7 +7,7 @@
   guides: [ Wraith ]
   requirements:
   - !type:OverallPlaytimeRequirement
-    time: 36000
+    time: 10h
 
 - type: antagSpecifier
   id: Wraith
