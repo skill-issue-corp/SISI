@@ -9402,3 +9402,12 @@ Entries:
   id: 1067
   time: '2026-05-31T09:49:43.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2933
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Fixed holoparasite being disconnected from you when you get polymorphed by
+      wizard, genetics, etc.
+  id: 1068
+  time: '2026-05-31T10:19:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2934
