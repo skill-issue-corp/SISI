@@ -9490,3 +9490,14 @@ Entries:
   id: 1077
   time: '2026-06-01T17:05:25.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/2971
+- author: deltanedas
+  changes:
+  - type: Add
+    message: >-
+      Added the RFID access scanner, you can craft it from door electronics and
+      some materials.
+  - type: Tweak
+    message: Logic gates and other similar items can now be hidden under floor tiles.
+  id: 1078
+  time: '2026-06-01T17:08:03.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/2969
