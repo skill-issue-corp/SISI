@@ -9811,3 +9811,10 @@ Entries:
   id: 1112
   time: '2026-06-05T12:02:24.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3055
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed RD not getting roboticist and geneticist skillchips in their locker.
+  id: 1113
+  time: '2026-06-05T12:59:42.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3057
