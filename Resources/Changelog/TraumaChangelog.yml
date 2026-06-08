@@ -9923,3 +9923,12 @@ Entries:
   id: 1125
   time: '2026-06-08T12:43:33.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3103
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Fixed pipes and cables flickering with t-ray scanner. Engis are no longer
+      on suicide watch.
+  id: 1126
+  time: '2026-06-08T13:34:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3104
