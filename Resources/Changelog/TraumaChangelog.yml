@@ -9979,3 +9979,12 @@ Entries:
   id: 1129
   time: '2026-06-08T18:51:53.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3110
+- author: GoidaYAMLWarrior
+  changes:
+  - type: Tweak
+    message: >-
+      Buffed skill profiles for a few species, dwarves are actually good at
+      forging.
+  id: 1130
+  time: '2026-06-08T23:21:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3116
