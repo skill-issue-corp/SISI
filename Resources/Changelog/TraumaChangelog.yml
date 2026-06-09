@@ -9995,3 +9995,10 @@ Entries:
   id: 1131
   time: '2026-06-09T11:06:09.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3120
+- author: TurboTrackerss14
+  changes:
+  - type: Fix
+    message: IPC and Plasmamen now use their species knowledge.
+  id: 1132
+  time: '2026-06-09T13:43:16.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3124
