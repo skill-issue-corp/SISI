@@ -62,7 +62,7 @@
     - BasicRoundstartVariation
     # <Trauma>
     - Thief
-    - Heretic
+    - HereticRoundstart # inky edit - trauma fuckup
     - BlobGameMode
     - LoneAbductorSpawn
     - Changeling
