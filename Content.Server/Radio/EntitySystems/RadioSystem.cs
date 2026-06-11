@@ -37,7 +37,7 @@ public sealed partial class RadioSystem : EntitySystem
     [Dependency] private IReplayRecordingManager _replay = default!;
     [Dependency] private IAdminLogManager _adminLogger = default!;
     [Dependency] private IPrototypeManager _prototype = default!;
-    [Dependency] private IRobustRandom _random = default!;
+    // [Dependency] private IRobustRandom _random = default!; // inky edit TRAUMA FUCKUP
     [Dependency] private ChatSystem _chat = default!;
     [Dependency] private EntityQuery<TelecomExemptComponent> _exemptQuery = default!;
 

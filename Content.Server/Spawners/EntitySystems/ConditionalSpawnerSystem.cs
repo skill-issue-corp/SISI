@@ -19,7 +19,7 @@ namespace Content.Server.Spawners.EntitySystems
     public sealed partial class ConditionalSpawnerSystem : EntitySystem
     {
         // <Trauma>
-        [Dependency] private SharedTransformSystem _transform = default!;
+        // [Dependency] private SharedTransformSystem _transform = default!; // inky edit TRAUMA FUCKUP
         // </Trauma>
         [Dependency] private IRobustRandom _robustRandom = default!;
         [Dependency] private GameTicker _ticker = default!;
