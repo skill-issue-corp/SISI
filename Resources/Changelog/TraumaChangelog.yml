@@ -10141,3 +10141,10 @@ Entries:
   id: 1148
   time: '2026-06-13T15:29:42.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3166
+- author: Sanyati
+  changes:
+  - type: Add
+    message: Added Reptilian stealth suit sprites.
+  id: 1149
+  time: '2026-06-13T16:48:47.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3159
