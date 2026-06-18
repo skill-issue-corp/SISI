@@ -655,7 +655,7 @@
   icon: { sprite: /Textures/Objects/Misc/pens.rsi, state: pen }
   productEntity: HypopenBox
   cost:
-    Telecrystal: 10 # Trauma - was 6, 5x and less expensive to promote abusing people that have hypoports
+    Telecrystal: 30 # inky - ok just kys
   categories:
   - UplinkChemicals
 
@@ -667,7 +667,7 @@
   icon: { sprite: /Textures/Objects/Fun/Darts/dart_red.rsi, state: icon }
   productEntity: HypoDartBox
   cost:
-    Telecrystal: 25 # Trauma - was 5, 5x with hypoports existing this is much stronger
+    Telecrystal: 5 # Trauma - was 5, with hypoports existing this is much stronger # inky - kys
   categories:
   - UplinkChemicals
 
