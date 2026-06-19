@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 - type: entity
   parent: BaseSkillChip
   id: SkillChipPassenger
@@ -117,7 +119,7 @@
     skills:
       ToysKnowledge: 25
       FabricationKnowledge: 25
-  - type: OrganComponents
+  - type: OrganChipComponents
     onAdd:
     - type: MimePowers # merci
       preventWriting: true

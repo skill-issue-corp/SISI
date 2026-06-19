@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 - type: entity
   abstract: true
   parent: [ MobSpaceBasic, MobCombat ]
@@ -47,6 +49,7 @@
       - ReagentId: Sulfur
         Quantity: 100
     bleedReductionAmount: 1
+  - type: ZombieImmune # gibs on death so its not possible to become a zombie
   - type: Prying
     speedModifier: 5
     pryPowered: true
