@@ -785,22 +785,22 @@
     - HEAD
   - type: EmitSoundOnUse
     sound:
-      path: /Audio/_Goobstation/Voice/Moth/moth_flap.ogg
+      path: /Audio/Voice/Moth/moth_flap.ogg
   - type: EmitSoundOnLand
     sound:
-      path: /Audio/_Goobstation/Voice/Moth/moth_flap.ogg
+      path: /Audio/Voice/Moth/moth_flap.ogg
   - type: EmitSoundOnActivate
     sound:
-      path: /Audio/_Goobstation/Voice/Moth/moth_flap.ogg
+      path: /Audio/Voice/Moth/moth_flap.ogg
   - type: EmitSoundOnTrigger
     sound:
-      path: /Audio/_Goobstation/Voice/Moth/moth_flap.ogg
+      path: /Audio/Voice/Moth/moth_flap.ogg
   - type: EmitSoundOnCollide
     sound:
-      path: /Audio/_Goobstation/Voice/Moth/moth_flap.ogg
+      path: /Audio/Voice/Moth/moth_flap.ogg
   - type: MeleeWeapon
     damage:
       types:
         Blunt: 0
     soundHit:
-      path: /Audio/_Goobstation/Voice/Moth/moth_flap.ogg
+      path: /Audio/Voice/Moth/moth_flap.ogg
