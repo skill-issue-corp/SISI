@@ -93,7 +93,7 @@
   id: UraniumMunitions
   name: research-technology-uranium-munitions
   icon:
-    sprite: _Trauma/Objects/Materials/Sheets/other.rsi # Trauma
+    sprite: Objects/Materials/Sheets/other.rsi #inky
     state: uranium
   discipline: Arsenal
   tier: 1
