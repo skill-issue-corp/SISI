@@ -768,7 +768,6 @@
     - type: MaterialStorage
       # <Trauma>
       ignoreMaterialWhiteList: true
-      disallowOreEjection: false
       # </Trauma>
       ignoreColor: true
       whitelist:
