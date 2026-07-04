@@ -22,6 +22,7 @@
       Hard: 0.7
   # /inky
   # <Trauma>
+  - type: BagAccess
   - type: Targeting
   - type: BodyStatus
   - type: Carriable
