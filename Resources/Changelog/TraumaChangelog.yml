@@ -11001,3 +11001,10 @@ Entries:
   id: 1228
   time: '2026-07-01T20:37:11.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/3396
+- author: assripper.
+  changes:
+  - type: Tweak
+    message: xeno shove stun has been removed in favor of instant hardgrab
+  id: 1229
+  time: '2026-07-04T00:19:40.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3340
