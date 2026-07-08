@@ -63,6 +63,11 @@
   <Project Path="Content.Inky.Server\Content.Inky.Server.csproj" />
   <Project Path="Content.Inky.Shared\Content.Inky.Shared.csproj" />
   <!-- Inky -->
+  <!-- <SIS> -->
+  <Project Path="Content.SIS.Client/Content.SIS.Client.csproj" />
+  <Project Path="Content.SIS.Server/Content.SIS.Server.csproj" />
+  <Project Path="Content.SIS.Shared/Content.SIS.Shared.csproj" />
+  <!-- </SIS> -->
   <Project Path="Content.Tests/Content.Tests.csproj" />
   <Project Path="Content.Tools/Content.Tools.csproj" />
   <Project Path="Content.YAMLLinter/Content.YAMLLinter.csproj" />
