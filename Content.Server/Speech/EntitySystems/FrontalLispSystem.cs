@@ -17,16 +17,16 @@ public sealed class FrontalLispSystem : EntitySystem
     // @formatter:on
 
     // Corvax-Localization Start
-    private static readonly Regex _regexLowerC = new Regex("с");// для "с" на "ш"/"с"
-    private static readonly Regex _regexUpperC = new Regex("С");// для "С" на "Ш"/"С"
-    private static readonly Regex _regexLowerCh = new Regex("ч");// для "ч" на "ш"/"ч"
-    private static readonly Regex _regexUpperCh = new Regex("Ч");// для "Ч" на "Ш"/"Ч"
-    private static readonly Regex _regexLowerTs = new Regex("ц");// для "ц" на "ч"/"ц"
-    private static readonly Regex _regexUpperTs = new Regex("Ц");// для "Ц" на "Ч"/"Ц"
-    private static readonly Regex _regexLowerT = new Regex(@"\B[т](?![АЕЁИОУЫЭЮЯаеёиоуыэюя])");
-    private static readonly Regex _regexUpperT = new Regex(@"\B[Т](?![АЕЁИОУЫЭЮЯаеёиоуыэюя])");
-    private static readonly Regex _regexLowerZ = new Regex("з");// для "з" на "ж"/"з"
-    private static readonly Regex _regexUpperZ = new Regex("З");// для "З" на "Ж"/"З"
+    private static readonly Regex RegexLowerC = new Regex("с");// для "с" на "ш"/"с"
+    private static readonly Regex RegexUpperC = new Regex("С");// для "С" на "Ш"/"С"
+    private static readonly Regex RegexLowerCh = new Regex("ч");// для "ч" на "ш"/"ч"
+    private static readonly Regex RegexUpperCh = new Regex("Ч");// для "Ч" на "Ш"/"Ч"
+    private static readonly Regex RegexLowerTs = new Regex("ц");// для "ц" на "ч"/"ц"
+    private static readonly Regex RegexUpperTs = new Regex("Ц");// для "Ц" на "Ч"/"Ц"
+    private static readonly Regex RegexLowerT = new Regex(@"\B[т](?![АЕЁИОУЫЭЮЯаеёиоуыэюя])");
+    private static readonly Regex RegexUpperT = new Regex(@"\B[Т](?![АЕЁИОУЫЭЮЯаеёиоуыэюя])");
+    private static readonly Regex RegexLowerZ = new Regex("з");// для "з" на "ж"/"з"
+    private static readonly Regex RegexUpperZ = new Regex("З");// для "З" на "Ж"/"З"
     // Corvax-Localization End
 
     public override void Initialize()
@@ -47,16 +47,16 @@ public sealed class FrontalLispSystem : EntitySystem
         message = RegexLowerEcks.Replace(message, "ekth");
 
         // RU-Localization Start
-        message = _regexLowerC.Replace(message, _random.Prob(0.90f) ? "ш" : "с");
-        message = _regexUpperC.Replace(message, _random.Prob(0.90f) ? "Ш" : "С");
-        message = _regexLowerCh.Replace(message, _random.Prob(0.90f) ? "ш" : "ч");
-        message = _regexUpperCh.Replace(message, _random.Prob(0.90f) ? "Ш" : "Ч");
-        message = _regexLowerTs.Replace(message, _random.Prob(0.90f) ? "ч" : "ц");
-        message = _regexUpperTs.Replace(message, _random.Prob(0.90f) ? "Ч" : "Ц");
-        message = _regexLowerT.Replace(message, _random.Prob(0.90f) ? "ч" : "т");
-        message = _regexUpperT.Replace(message, _random.Prob(0.90f) ? "Ч" : "Т");
-        message = _regexLowerZ.Replace(message, _random.Prob(0.90f) ? "ж" : "з");
-        message = _regexUpperZ.Replace(message, _random.Prob(0.90f) ? "Ж" : "З");
+        message = RegexLowerC.Replace(message, _random.Prob(0.90f) ? "ш" : "с");
+        message = RegexUpperC.Replace(message, _random.Prob(0.90f) ? "Ш" : "С");
+        message = RegexLowerCh.Replace(message, _random.Prob(0.90f) ? "ш" : "ч");
+        message = RegexUpperCh.Replace(message, _random.Prob(0.90f) ? "Ш" : "Ч");
+        message = RegexLowerTs.Replace(message, _random.Prob(0.90f) ? "ч" : "ц");
+        message = RegexUpperTs.Replace(message, _random.Prob(0.90f) ? "Ч" : "Ц");
+        message = RegexLowerT.Replace(message, _random.Prob(0.90f) ? "ч" : "т");
+        message = RegexUpperT.Replace(message, _random.Prob(0.90f) ? "Ч" : "Т");
+        message = RegexLowerZ.Replace(message, _random.Prob(0.90f) ? "ж" : "з");
+        message = RegexUpperZ.Replace(message, _random.Prob(0.90f) ? "Ж" : "З");
         // RU-Localization End
 
         args.Message = message;
