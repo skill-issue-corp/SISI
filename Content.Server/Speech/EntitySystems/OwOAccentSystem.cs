@@ -15,6 +15,7 @@ public sealed partial class OwOAccentSystem : RelayAccentSystem<OwOAccentCompone
     private static readonly IReadOnlyDictionary<string, string> SpecialWords = new Dictionary<string, string>()
         {
             { "you", "wu" },
+            { "ты", "ти" }, // RU-Localization
         };
 
     public string Accentuate(string message)
@@ -25,6 +26,10 @@ public sealed partial class OwOAccentSystem : RelayAccentSystem<OwOAccentCompone
         }
 
         return message.Replace("!", _random.Pick(Faces))
+            // RU-Localization Start
+            .Replace("р", "в").Replace("Р", "В")
+            .Replace("л", "в").Replace("Л", "В")
+            // RU-Localization End
             .Replace("r", "w").Replace("R", "W")
             .Replace("l", "w").Replace("L", "W");
     }

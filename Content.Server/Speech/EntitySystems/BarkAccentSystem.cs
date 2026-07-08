@@ -9,7 +9,7 @@ public sealed partial class BarkAccentSystem : RelayAccentSystem<BarkAccentCompo
     [Dependency] private IRobustRandom _random = default!;
 
     private static readonly IReadOnlyList<string> Barks = new List<string>{
-            " Woof!", " WOOF", " wof-wof"
+            " Гав!", " ГАВ", " вуф-вуф"  // RU-Localization
         }.AsReadOnly();
 
     private static readonly IReadOnlyDictionary<string, string> SpecialWords = new Dictionary<string, string>()
@@ -18,6 +18,12 @@ public sealed partial class BarkAccentSystem : RelayAccentSystem<BarkAccentCompo
             { "Ah", "Arf" },
             { "oh", "oof" },
             { "Oh", "Oof" },
+            // RU-Localization Start
+            { "га", "гаф" },
+            { "Га", "Гаф" },
+            { "угу", "вуф" },
+            { "Угу", "Вуф" },
+            // RU-Localization End
         };
 
     protected override string AccentuateInternal(EntityUid uid, BarkAccentComponent comp, string message)
