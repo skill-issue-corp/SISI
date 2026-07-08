@@ -28,15 +28,14 @@ namespace Content.Shared.Localizations
 
         public void Initialize()
         {
-            // RU-Localization Start
             var culture = new CultureInfo(Culture);
-            var fallbackCulture = new CultureInfo(FallbackCulture);
+            var fallbackCulture = new CultureInfo(FallbackCulture); // RU-Localization
 
             _loc.LoadCulture(culture);
-            _loc.LoadCulture(fallbackCulture);
-            _loc.SetFallbackCluture(fallbackCulture);
+            _loc.LoadCulture(fallbackCulture); // RU-Localization
+            _loc.SetFallbackCluture(fallbackCulture); // RU-Localization
 
-            _loc.AddFunction(culture, "MANY", FormatMany);
+            _loc.AddFunction(culture, "MANY", FormatMany); // RU-Localization
             _loc.AddFunction(culture, "PRESSURE", FormatPressure);
             _loc.AddFunction(culture, "POWERWATTS", FormatPowerWatts);
             _loc.AddFunction(culture, "POWERJOULES", FormatPowerJoules);
