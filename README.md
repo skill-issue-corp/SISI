@@ -1,47 +1,50 @@
-<p align="center"> <img alt="Space Station 14" width="1200" height="1300" src="https://github.com/Inky-Station/Inky-Station/blob/master/Resources/Textures/Logo/logo.png" /></p> 
+<div class="header" align="center">
+<img alt="Space Station 14" width="880" height="300" src="https://i.imgur.com/0gsjX0j.png">
+</div>
 
-This is a fork from the primary repo for Trauma Station called Inky Station. To prevent people forking RobustToolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server this is the content pack for Trauma Station.
+Space Station 14 это ремейк Space Station 13, который работает на собственном движке [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), написанном на C#.
 
-If you want to host or create content for SS14, go to the [Space Station 14 repository](https://github.com/space-wizards/space-station-14) as it contains both RobustToolbox and the content pack for development of new content packs and is the base for your fork.
+Skill Issue Station Inky - форк основанный на репозитории [Inky Station](https://github.com/Inky-Station/Inky-Station).
 
-## Links
+## Наши ссылки
 
-[Inky Station Discord Server](https://discord.gg/Tmjfu6Mt9p) | [Devbus Discord Server](https://discord.gg/f3rJaCuK) | [SS14 Forums](https://forum.spacestation14.com/) | [SS14 Website](https://spacestation14.com/)
+[Discord](https://discord.gg/ZU2wCTA7gt)
 
-## Documentation/Wiki
+## Ссылки оффициальных разработчиков
 
-Trauma itself has a non-technical wiki on its content [here](https://wiki.traumastation.com/wiki/Main_Page)
+<div class="header" align="center">
 
-SS14 Docs [docs site](https://docs.spacestation14.com/) has documentation on SS14's content, engine, game design, and more. It also has lots of resources for new contributors to the project.
+[Website](https://spacestation14.com/) | [Discord](https://discord.ss14.io/) | [Forum](https://forum.spacestation14.com/) | [Mastodon](https://mastodon.gamedev.place/@spacestation14) | [Patreon](https://www.patreon.com/spacestation14) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Download](https://spacestation14.com/about/nightlies/)
 
-## Contributing
+</div>
 
-We are happy to accept contributions from anybody. Get in [Development Discord Server](https://discord.gg/f3rJaCuK) if you want to help. Don't be afraid to ask for help either!
-While following the [Space Station 14 contribution guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html) is not mandatory for Inky Station, we recommend reviewing them for best practices.
+## Документация
 
-We are not currently accepting translations of the game on our main repository. If you would like to translate the game into another language consider creating a fork or contributing to a fork.
+На официальном сайте с [документацией](https://docs.spacestation14.com/) имеется вся необходимая информация о контенте SS14, движке, дизайне игры и многом другом.
+Кроме того, информацию о лицензиях и авторстве можно найти на этих ресурсах:
+- [Robust 	](https://docs.spacestation14.com/en/specifications/robust-generic-attribution.html)
+- [Robust Station Image](https://docs.spacestation14.com/en/specifications/robust-station-image.html)
 
-## AI-generated contributions disclaimer
-dont make it obvious
+Также имеется много информации для начинающих разработчиков.
 
-## Building
+## Контрибьютинг
 
-You probably know. If you don't, just run this in the terminal (on windows, right-click taskbar and select powershell). You'll need git and dotnet 10 sdk (google it).
+Если вы желаете помочь в улучшении репозитория, решением проблем или создания нового контента,
+мы рады принять вклад от любого человека. Присоединяйтесь в наше Discord сообщество, если хотите помочь.
+Не бойтесь просить о помощи!
 
-```
-git clone https://github.com/Inky-Station/Inky-Station
-dotnet build -c Release
-dotnet run --project Content.Server
-```
-
-And in another terminal, `dotnet run --project Content.Client`.
-
-Also check out Scripts/ directory and a [site with more detailed instructions on building the project.](https://docs.goobstation.com/en/general-development/setup.html)
+**Отправляя Pull Request, вы соглашаетесь лицензировать свой вклад под AGPL-3.0-or-later.**
 
 ## License
 
-All code in this codebase is released under the AGPL-3.0-or-later license. Each file includes REUSE Specification headers or separate .license files that specify a dual license option. This dual licensing is provided to simplify the process for projects that are not using AGPL, allowing them to adopt the relevant portions of the code under an alternative license. You can review the complete texts of these licenses in the LICENSES/ directory.
+Весь код в этом репозитории распространяется под лицензией AGPL-3.0-or-later.
+Каждый файл содержит заголовки согласно REUSE Specification либо отдельные файлы .license, указывающие вариант двойного лицензирования.
+Такое двойное лицензирование предусмотрено для упрощения работы проектов, не использующих AGPL, позволяя им применять соответствующие части кода по альтернативной лицензии.
+Полные тексты лицензий можно найти в директории LICENSES/.
 
-Most media assets are licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless stated otherwise. Assets have their license and the copyright in the metadata file. [Example](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
+Большинство медиаресурсов лицензированы под [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/), если не указано иное.
+Лицензия и данные об авторских правах ресурсов указаны в файле метаданных.
+[Пример](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
-Note that some assets are licensed under the non-commercial [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) or similar non-commercial licenses and will need to be removed if you wish to use this project commercially.
+Обратите внимание, что некоторые ресурсы лицензированы под некоммерческими лицензиями [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) или аналогичными,
+и их необходимо удалить, если вы хотите использовать этот проект в коммерческих целях.
