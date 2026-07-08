@@ -62,6 +62,12 @@ public sealed partial class SlurredSystem : SharedSlurredSystem
                     'a' => "ah",
                     'u' => "oo",
                     'c' => "k",
+                    // RU-Localization Start
+                    'о' => "а",
+                    'к' => "кх",
+                    'щ' => "шч",
+                    'ц' => "тс",
+                    // RU-Localization End
                     _ => $"{character}",
                 };
 
