@@ -5,7 +5,7 @@ using Robust.Shared.Random;
 
 namespace Content.Server.Speech.EntitySystems;
 
-public sealed class FrontalLispSystem : EntitySystem
+public sealed partial class FrontalLispSystem : EntitySystem
 {
     [Dependency] private IRobustRandom _random = default!; // RU-Localization
 
