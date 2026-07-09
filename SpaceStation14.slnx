@@ -15,6 +15,11 @@
   </Folder>
   <!-- Inky -->
   <Folder Name="/Content.Game/" />
+  <Folder Name="/Content.Game/SIS/">
+    <Project Path="Content.SIS.Client/Content.SIS.Client.csproj" />
+    <Project Path="Content.SIS.Server/Content.SIS.Server.csproj" />
+    <Project Path="Content.SIS.Shared/Content.SIS.Shared.csproj" />
+  </Folder>
   <Folder Name="/Content.Game/Inky/">
     <Project Path="Content.Inky.Client\Content.Inky.Client.csproj" />
     <Project Path="Content.Inky.Common\Content.Inky.Common.csproj" />
