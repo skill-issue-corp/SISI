@@ -3,7 +3,7 @@
 - type: radioChannel
   id: CosmicRadio
   name: chat-radio-cosmiccult
-  keycode: 'a'
+  keycode: 'ч' # RU-Localization
   frequency: 77777
   color: "#4cabb3"
   longRange: true
