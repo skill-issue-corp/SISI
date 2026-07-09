@@ -1,0 +1,2 @@
+ent-AlertLevelLock = { "" }
+    .desc = { "" }

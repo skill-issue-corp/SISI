@@ -1,0 +1,82 @@
+ent-BaseHypoInjector = { ent-SolutionHypospraySmall }
+    .desc = { ent-SolutionHypospraySmall.desc }
+
+ent-BaseHypospray = { ent-BaseHypoInjector }
+    .desc = { ent-BaseHypoInjector.desc }
+
+ent-SolutionHypospraySmall = { ent-SolutionHypospray }
+    .desc = { ent-SolutionHypospray.desc }
+
+ent-SolutionHyposprayTiny = { ent-SolutionHypospray }
+    .desc = { ent-SolutionHypospray.desc }
+
+ent-Hypospray = hypospray
+    .desc = A sterile injector for rapid administration of drugs to patients.
+
+ent-SyndiHypo = gorlex hypospray
+    .desc = A sterile injector for rapid administration of drugs. Reverse-engineered from Nanotrasen designs, Cybersun produces these in limited quantities for Gorlex Marauders' corpsmen.
+
+ent-BorgHypo = borghypo
+    .desc = A sterile injector for rapid administration of drugs to patients. This integrated model is specialized for use by medical borgs.
+
+ent-JetInjector = jet injector
+    .desc = A sterile injector for convenient administration of drugs to patients.
+
+ent-AdvancedJetInjector = advanced jet injector
+    .desc = A pristine, fashionable, high quality injector. Allows for a faster injection, with a slightly larger capacity.
+
+ent-AdminHypo = experimental hypospray
+    .desc = The ultimate application of bluespace technology and rapid chemical administration.
+    .suffix = Admeme
+
+ent-ChemicalMedipen = chemical medipen
+    .desc = A single-dose, non-refillable medipen.
+
+ent-EmergencyMedipen = emergency medipen
+    .desc = A rapid and safe way to heal minor damage, stop bleeding, and stabilize patients for personnel without advanced medical knowledge.
+
+ent-AntiPoisonMedipen = poison auto-injector
+    .desc = A rapid dose of anti-poison. Causes extreme stress when mixed with other medications.
+
+ent-BruteAutoInjector = brute auto-injector
+    .desc = A rapid dose of bicaridine, salicylic acid, tranexamic acid, and tramadol, intended for combat applications. Usage of multiple highly recommended against.
+
+ent-BurnAutoInjector = burn auto-injector
+    .desc = A rapid dose of oxandrolone, leporazine, and tramadol, intended for combat applications.
+
+ent-RadAutoInjector = rad auto-injector
+    .desc = A single-dose, non-refillable medipen containing arithrazine and bicaridine, used to quickly and easily treat radiation poisoning.
+
+ent-PunctAutoInjector = puncturase auto-injector
+    .desc = A single-dose, non-refillable medipen containing puncturase and tranexamic acid, used to quickly and easily treat puncture wounds. Commonly used as a combat medicine.
+
+ent-PyraAutoInjector = pyrazine auto-injector
+    .desc = A rapid dose of pyrazine and oxandrolone, intended for combat applications.
+
+ent-AirlossAutoInjector = airloss auto-injector
+    .desc = A single-dose, non-refillable medipen containing saline and dexalin plus, used to quickly and easily treat blood loss and asphyxiation.
+
+ent-SpaceMedipen = environmental stabilization medipen
+    .desc = Contains a mix of chemicals that will temporarily protect you from low pressure environments, and stabilizes your body temperature.
+
+ent-SyndicateMedipen = { ent-SolutionToolSmall }
+    .desc = { ent-SolutionToolSmall.desc }
+
+ent-Stimpack = hyperzine injector
+    .desc = A chemical injector containing a large shot of pure hyperzine. For when it's time to throw down. Effects last for about 60 seconds.
+
+ent-StimpackMini = hyperzine microinjector
+    .desc = A chemical microinjector containing a small shot of pure hyperzine. Effects last for about 30 seconds.
+
+ent-CombatMedipen = combat medipen
+    .desc = A single-dose, non-refillable medipen containing a chemical cocktail that treats most forms of damage.
+
+ent-Hypopen = { ent-Pen }
+    .desc = { ent-Pen.desc }
+    .suffix = Hypopen
+
+ent-HypopenBox = hypopen box
+    .desc = A small box containing a hypopen. Packaging disintegrates when opened, leaving no evidence behind.
+
+ent-WehMedipen = weh auto-injector
+    .desc = A non-refillable medipen containing multiple doses of weh.

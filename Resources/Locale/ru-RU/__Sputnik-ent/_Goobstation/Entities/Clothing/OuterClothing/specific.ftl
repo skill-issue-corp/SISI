@@ -1,0 +1,34 @@
+ent-ClothingOuterSuitHEV = H.E.V suit
+    .desc = Full-body hazardous suit designed to protect wearer from radiation, energy discarges, blunt-force trauma during the handling of hazardous material.
+
+ent-SurveillanceWirelessCameraBodyEntertainment = nopro camera
+    .desc = A body mounted camera. It's watching you.
+
+ent-WhiteRobes = robes of the chosen one
+    .desc = theses white robes are worn by only the finest of Nanotrasen's special operations department.
+    .suffix = chosen one
+
+ent-ClothingOuterSuitHotDog = hotdog costume
+    .desc = Hot-diggity-dog!
+
+ent-ClothingOuterSuitPickle = pickle suit
+    .desc = Smells horribly of vinegar.
+
+ent-ClothingOuterArmorHereticCostume = occult robes
+    .desc = A ragged, dusty set of robes. Strange smudgy eyes line the inside.
+
+ent-ClothingOuterArmorHereticVoidCostume = { ent-ClothingOuterArmorHereticCostume }
+    .desc = { ent-ClothingOuterArmorHereticCostume.desc }
+    .suffix = Void
+
+ent-ClothingOuterArmorHereticAshCostume = { ent-ClothingOuterArmorHereticCostume }
+    .desc = { ent-ClothingOuterArmorHereticCostume.desc }
+    .suffix = Ash
+
+ent-ClothingOuterArmorHereticFleshCostume = { ent-ClothingOuterArmorHereticCostume }
+    .desc = { ent-ClothingOuterArmorHereticCostume.desc }
+    .suffix = Flesh
+
+ent-ClothingOuterArmorHereticBladeCostume = { ent-ClothingOuterArmorHereticCostume }
+    .desc = { ent-ClothingOuterArmorHereticCostume.desc }
+    .suffix = Blade

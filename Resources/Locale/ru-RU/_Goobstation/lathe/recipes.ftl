@@ -1,0 +1,11 @@
+lathe-recipe-BaseTranslatorImplanter-name = translator implanter
+
+lathe-recipe-BasicGalaticCommonTranslatorImplanter-subname = basic common translator implant
+lathe-recipe-AdvancedGalaticCommonTranslatorImplanter-subname = advanced common translator implant
+lathe-recipe-BubblishTranslatorImplanter-subname = bubblish translator implant
+lathe-recipe-DraconicTranslatorImplanter-subname = draconic translator implant
+lathe-recipe-SolCommonTranslatorImplanter-subname = sol-common translator implant
+lathe-recipe-RootSpeakTranslatorImplanter-subname = root-speak translator implant
+lathe-recipe-MofficTranslatorImplanter-subname = moffic translator implant
+lathe-recipe-NewKinPidginTranslatorImplanter-subname = ka'rakk translator implant
+lathe-recipe-ChevalTranslatorImplanter-subname = cheval translator implant

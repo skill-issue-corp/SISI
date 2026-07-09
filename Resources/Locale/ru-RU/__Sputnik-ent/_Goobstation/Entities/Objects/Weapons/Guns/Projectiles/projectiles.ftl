@@ -1,0 +1,68 @@
+ent-BulletMic = MIC bolt
+    .desc = Not too bad, but you still don't want to get hit by it.
+
+ent-BulletPlasmaCutter = cutter bolt
+    .desc = Not too bad, but you still don't want to get hit by it.
+
+ent-BulletPlasmaCutterStrong = { ent-BulletPlasmaCutter }
+    .desc = { ent-BulletPlasmaCutter.desc }
+
+ent-BulletHighCaliber = bullet (.50 anti-materiel)
+    .desc = { ent-BaseBullet.desc }
+
+ent-BulletHighCaliberExplosive = bullet (.50 high-explosive incendiary)
+    .desc = { ent-BaseBulletTrigger.desc }
+
+ent-HeavyPulse = heavy pulse beam
+    .desc = { ent-BasicHitscan.desc }
+
+ent-LightPulse = light pulse beam
+    .desc = { ent-BasicHitscan.desc }
+
+ent-LaserSniper = laser sniper
+    .desc = { ent-BasicHitscan.desc }
+
+ent-RedMediumSplitLaser = red medium split laser
+    .desc = { ent-BasicHitscan.desc }
+
+ent-BulletLaserHeavy = heavy laser bolt
+    .desc = { ent-BulletLaser.desc }
+
+ent-BulletLaserHeavyStructural = heavy laser bolt
+    .desc = { ent-BulletLaserHeavy.desc }
+
+ent-BulletLaserSpreadHeavy = heavy laser barrage
+    .desc = { ent-BulletLaserHeavy.desc }
+
+ent-StunPulse = stun pulse
+    .desc = { ent-BasicHitscan.desc }
+
+ent-BulletTemperatureCold = cold temperature bolt
+    .desc = Chilling!
+
+ent-BulletTemperatureHot = hot temperature bolt
+    .desc = Burning!
+
+ent-BulletEnergyGunDisabler = disabler bolt
+    .desc = { ent-BulletDisabler.desc }
+
+ent-BulletSyndicateDisabler = disabler bolt
+    .desc = { ent-BulletDisabler.desc }
+
+ent-BulletGrenadeTeargas = tear gas grenade
+    .desc = { ent-BaseBulletTrigger.desc }
+
+ent-HolyBulletCharge = holy bolt
+    .desc = Marks a target for additional holy damage.
+
+ent-BulletPistolSilver = bullet (.45 silver)
+    .desc = { ent-BaseBullet.desc }
+
+ent-BulletFlock = stun bolt
+    .desc = { ent-BaseBullet.desc }
+
+ent-ProjectileMonkeyDart = monkey-thrown dart
+    .desc = { ent-BaseBullet.desc }
+
+ent-BulletMime = bullet (silent)
+    .desc = { ent-BaseBulletTrigger.desc }

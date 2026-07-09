@@ -1,0 +1,2 @@
+ent-BloodBeam = { "" }
+    .desc = { "" }

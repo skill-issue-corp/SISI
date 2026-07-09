@@ -1,0 +1,78 @@
+ent-AppearancePlasmaman = plasmaman appearance
+    .desc = { ent-BaseSpeciesAppearance.desc }
+
+ent-MobPlasmaman = Urist McPlasma
+    .desc = { ent-AppearancePlasmaman.desc }
+
+ent-OrganPlasmaman = { ent-OrganBaseFleshy }
+    .desc = { ent-OrganBaseFleshy.desc }
+    .suffix = plasmaman
+
+ent-OrganPlasmamanInternal = { ent-OrganPlasmaman }
+    .desc = { ent-OrganPlasmaman.desc }
+
+ent-OrganPlasmamanExternal = { ent-OrganPlasmaman }
+    .desc = { ent-OrganPlasmaman.desc }
+
+ent-OrganPlasmamanMetabolizer = { "" }
+    .desc = { "" }
+
+ent-OrganPlasmamanTorso = { ent-OrganBaseTorso }
+    .desc = { ent-OrganBaseTorso.desc }
+
+ent-OrganPlasmamanHead = { ent-OrganBaseHeadBald }
+    .desc = { ent-OrganBaseHeadBald.desc }
+
+ent-OrganPlasmamanArmLeft = { ent-OrganBaseArmLeft }
+    .desc = { ent-OrganBaseArmLeft.desc }
+
+ent-OrganPlasmamanArmRight = { ent-OrganBaseArmRight }
+    .desc = { ent-OrganBaseArmRight.desc }
+
+ent-OrganPlasmamanHandLeft = { ent-OrganBaseHandLeft }
+    .desc = { ent-OrganBaseHandLeft.desc }
+
+ent-OrganPlasmamanHandRight = { ent-OrganBaseHandRight }
+    .desc = { ent-OrganBaseHandRight.desc }
+
+ent-OrganPlasmamanLegLeft = { ent-OrganBaseLegLeft }
+    .desc = { ent-OrganBaseLegLeft.desc }
+
+ent-OrganPlasmamanLegRight = { ent-OrganBaseLegRight }
+    .desc = { ent-OrganBaseLegRight.desc }
+
+ent-OrganPlasmamanFootLeft = { ent-OrganBaseFootLeft }
+    .desc = { ent-OrganBaseFootLeft.desc }
+
+ent-OrganPlasmamanFootRight = { ent-OrganBaseFootRight }
+    .desc = { ent-OrganBaseFootRight.desc }
+
+ent-OrganPlasmamanBrain = { ent-OrganBaseBrain }
+    .desc = { ent-OrganBaseBrain.desc }
+
+ent-OrganPlasmamanEyes = { ent-OrganBaseEyes }
+    .desc = { ent-OrganBaseEyes.desc }
+
+ent-OrganPlasmamanTongue = { ent-OrganBaseTongue }
+    .desc = { ent-OrganBaseTongue.desc }
+
+ent-OrganPlasmamanAppendix = { ent-OrganBaseAppendix }
+    .desc = { ent-OrganBaseAppendix.desc }
+
+ent-OrganPlasmamanEars = { ent-OrganBaseEars }
+    .desc = { ent-OrganBaseEars.desc }
+
+ent-OrganPlasmamanLungs = { ent-OrganBaseLungs }
+    .desc = { ent-OrganBaseLungs.desc }
+
+ent-OrganPlasmamanHeart = { ent-OrganBaseHeart }
+    .desc = { ent-OrganBaseHeart.desc }
+
+ent-OrganPlasmamanStomach = { ent-OrganBaseStomach }
+    .desc = { ent-OrganBaseStomach.desc }
+
+ent-OrganPlasmamanLiver = { ent-OrganBaseLiver }
+    .desc = { ent-OrganBaseLiver.desc }
+
+ent-OrganPlasmamanKidneys = { ent-OrganBaseKidneys }
+    .desc = { ent-OrganBaseKidneys.desc }

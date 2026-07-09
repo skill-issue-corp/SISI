@@ -1,0 +1,20 @@
+ent-ClothingHeadHatHoodZeusHood = zeus hood
+    .desc = Guaranteed to not fly off when leaping from skyscraper to skyscraper.
+
+ent-ClothingHeadHatHoodWinterCapFancy = captain's fancy winter coat hood
+    .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
+
+ent-ClothingHeadHatHoodHereticCostume = occult hood
+    .desc = A torn, dust-caked hood. Smudgy eyes line the inside.
+
+ent-ClothingHeadHatHoodHereticVoidCostume = { ent-ClothingHeadHatHoodHereticCostume }
+    .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }
+
+ent-ClothingHeadHatHoodHereticAshCostume = { ent-ClothingHeadHatHoodHereticCostume }
+    .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }
+
+ent-ClothingHeadHatHoodHereticFleshCostume = { ent-ClothingHeadHatHoodHereticCostume }
+    .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }
+
+ent-ClothingHeadHatHoodHereticBladeCostume = { ent-ClothingHeadHatHoodHereticCostume }
+    .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }

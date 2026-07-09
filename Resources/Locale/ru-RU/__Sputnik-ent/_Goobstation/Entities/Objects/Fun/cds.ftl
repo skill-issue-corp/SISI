@@ -1,0 +1,74 @@
+ent-BaseCdDisk = cd disk
+    .desc = A cd disk, usually contains ads.
+
+ent-CdDiskDanitosBurritos = cd disk (Danitos Burritos)
+    .desc = { ent-BaseCdDisk.desc }
+
+ent-CdDiskBillMovie = cd disk (bill movie)
+    .desc = { ent-BaseCdDisk.desc }
+
+ent-CdDiskCapTraining = cd disk (captain training PSA)
+    .desc = { ent-BaseCdDisk.desc }
+
+ent-CdDiskCargonia = cd disk (Cargonia)
+    .desc = { ent-BaseCdDisk.desc }
+
+ent-CdDiskChemistry = cd disk (Chemistry)
+    .desc = { ent-BaseCdDisk.desc }
+
+ent-CdDiskCloningPsa = cd disk (cloning PSA)
+    .desc = { ent-BaseCdDisk.desc }
+
+ent-CdDiskDansTickets = cd disk (Dans Tickets)
+    .desc = { ent-BaseCdDisk.desc }
+
+ent-CdDiskGrones = cd disk (grones)
+    .desc = { ent-BaseCdDisk.desc }
+
+ent-CdDiskPopeCrunchCereal = cd disk (Pope Crunch Cereal)
+    .desc = { ent-BaseCdDisk.desc }
+
+ent-CdDiskQuikNoodles = cd disk (Quik Noodles)
+    .desc = { ent-BaseCdDisk.desc }
+
+ent-CdDiskRobotics = cd disk (robotics)
+    .desc = { ent-BaseCdDisk.desc }
+
+ent-CdDiskSecurityPsa = cd disk (security psa)
+    .desc = { ent-BaseCdDisk.desc }
+
+ent-CdDiskWeird = weird cd disk
+    .desc = A weird cd disk, something tells you that this one doesn't contain ads.
+
+ent-CdDiskCommanderAnnouncement = cd disk (commander announcement)
+    .desc = { ent-CdDiskWeird.desc }
+
+ent-CdDiskCommanderFigurines = cd disk (commander figurines)
+    .desc = { ent-CdDiskWeird.desc }
+
+ent-CdDiskCommanderResignation = cd disk (commander resignation)
+    .desc = { ent-CdDiskWeird.desc }
+
+ent-CdDiskCommanderSupport = cd disk (commander support)
+    .desc = { ent-CdDiskWeird.desc }
+
+ent-CdDiskHeisenbeeTrial = cd disk (trial of Heisenbee)
+    .desc = { ent-CdDiskWeird.desc }
+
+ent-CdDiskXgOnboarding1 = cd disk (xg onboarding 1)
+    .desc = { ent-CdDiskWeird.desc }
+
+ent-CdDiskXgOnboarding2 = cd disk (xg onboarding 2)
+    .desc = { ent-CdDiskWeird.desc }
+
+ent-CdDiskXgOnboarding3 = cd disk (xg onboarding 3)
+    .desc = { ent-CdDiskWeird.desc }
+
+ent-CdDiskXgOnboarding4 = cd disk (xg onboarding 4)
+    .desc = { ent-CdDiskWeird.desc }
+
+ent-SyndiCdDisk = { ent-BaseSyndicateContraband }
+    .desc = Get da disk!
+
+ent-CdDiskNumber = cd disk (Numbers)
+    .desc = Contact the nearest syndicate listening post for reinforcements!
