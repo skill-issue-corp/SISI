@@ -3,73 +3,73 @@
 - type: collectiveMind
   id: Dragonmind
   name: collective-mind-dragon
-  keycode: 'f'
+  keycode: 'д' # RU-Localization
   color: "#787878"
 
 - type: collectiveMind
   id: Lingmind
   name: collective-mind-lingmind
-  keycode: 'h'
+  keycode: 'г' # RU-Localization
   color: "#FFA000"
   showNames: false
 
 - type: collectiveMind
   id: Tidemind
   name: collective-mind-tidemind
-  keycode: 't'
+  keycode: 'т' # RU-Localization
   color: "#8C8C8C"
   showNames: false
 
 - type: collectiveMind
   id: Blobmind
   name: collective-mind-blobmind
-  keycode: 'e'
+  keycode: 'б' # RU-Localization
   color: "#637b19"
 
 - type: collectiveMind
   id: MansusLink
   name: collective-mind-mansus-link
-  keycode: 'm'
+  keycode: 'м' # RU-Localization
   color: "#237500"
 
 - type: collectiveMind
   id: Abductormind
   name: collective-mind-abductormind
-  keycode: 'a'
+  keycode: 'а' # RU-Localization
   color: "#d600bd"
 
 - type: collectiveMind
   id: Binary
   name: collective-mind-binary
-  keycode: 'b'
+  keycode: 'и' # RU-Localization
   color: "#5ed7aa"
 
 - type: collectiveMind
   id: Dronemind
   name: collective-mind-dronemind
-  keycode: 'd'
+  keycode: 'р' # RU-Localization
   color: "#6e979a" # like binary but more gray
 
 - type: collectiveMind
   id: Mousemind
   name: collective-mind-mousemind
-  keycode: 'p'
+  keycode: 'ы' # RU-Localization
   color: "#c18851"
 
 - type: collectiveMind
   id: Binglemind
   name: collective-mind-bingle
-  keycode: 'w'
+  keycode: 'н' # RU-Localization
   color: "#386a9b"
 
 - type: collectiveMind
   id: Shadowmind
   name: collective-mind-shadow-mind
-  keycode: 'q'
+  keycode: 'ш' # RU-Localization
   color: "#77698d"
 
 - type: collectiveMind
   id: Xenomorphivemind
   name: collective-mind-xeno
-  keycode: 'z'
+  keycode: 'п' # RU-Localization
   color: "#8c3986"
