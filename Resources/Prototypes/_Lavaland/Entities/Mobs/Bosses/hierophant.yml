@@ -87,7 +87,7 @@
       - id: CrusherUpgradeMainMarker
     deleteOnDeath: true
   - type: MegafaunaAi
-    actionDelay: 0.5
+    # actionDelay: 0.5 # SIS | YAML test WTF???
     selector: !type:NestedMegafaunaSelector
       id: Hierophant
   - type: AngerPlayerScaling

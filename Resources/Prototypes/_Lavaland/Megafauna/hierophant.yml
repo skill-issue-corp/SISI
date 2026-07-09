@@ -12,7 +12,7 @@
 - type: megafaunaSelector
   id: PickTargetSimple
   selector: !type:AggressivePickTargetSelector
-    delay: 0.0
+    # delay: 0.0 # SIS | YAML test WTF???
     priority: 10
     targetConditions:
     # Hit closer aggressors more often.
