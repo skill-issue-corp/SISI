@@ -1,0 +1,3 @@
+ent-GunMimic = flesh gun
+    .desc = Looks like the mimics launcher is still in tact...
+    .suffix = Unremoveable

@@ -1,0 +1,30 @@
+ent-AppearanceSlaughterDemon = slaughter demon appearance
+    .desc = { ent-BaseMobBody.desc }
+
+ent-OrganSlaughterDemon = { ent-OrganBase }
+    .desc = { ent-OrganBase.desc }
+    .suffix = slaughter demon
+
+ent-OrganSlaughterDemonInternal = { ent-OrganSlaughterDemon }
+    .desc = { ent-OrganSlaughterDemon.desc }
+
+ent-OrganSlaughterDemonExternal = { ent-OrganSlaughterDemon }
+    .desc = { ent-OrganSlaughterDemon.desc }
+
+ent-OrganSlaughterDemonTorso = { ent-OrganBaseTorso }
+    .desc = { ent-OrganBaseTorso.desc }
+
+ent-OrganSlaughterDemonArmLeft = { ent-OrganBaseArmLeft }
+    .desc = { ent-OrganBaseArmLeft.desc }
+
+ent-OrganSlaughterDemonArmRight = { ent-OrganBaseArmRight }
+    .desc = { ent-OrganBaseArmRight.desc }
+
+ent-OrganSlaughterDemonHandLeft = { ent-OrganBaseHandLeft }
+    .desc = { ent-OrganBaseHandLeft.desc }
+
+ent-OrganSlaughterDemonHandRight = { ent-OrganBaseHandRight }
+    .desc = { ent-OrganBaseHandRight.desc }
+
+ent-OrganSlaughterDemonHeart = demonic heart
+    .desc = { ent-OrganAnimalHeart.desc }

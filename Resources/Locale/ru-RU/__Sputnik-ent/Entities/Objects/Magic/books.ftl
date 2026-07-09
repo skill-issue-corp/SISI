@@ -1,0 +1,39 @@
+ent-BaseSpellbook = spellbook
+    .desc = { ent-BaseItem.desc }
+
+ent-WizardsGrimoire = wizard's grimoire
+    .desc = A heavy tome containing complicated arcane formulae for preparing magic spells and conjuring supernatural equipment. Decades of study went into researching this collection of mystical secrets; now go use them to ruin someone's day.
+    .suffix = Wizard
+
+ent-WizardsGrimoireGhost = ghostly grimoire
+    .desc = A modified wizard grimoire that can by used by more than one person and has more wizcoins, but can't buy certain spells.
+    .suffix = Wizard
+
+ent-WizardsGrimoireNoRefund = { ent-WizardsGrimoire }
+    .desc = { ent-WizardsGrimoire.desc }
+    .suffix = Wizard, no refunding
+
+ent-WizardsGrimoireDebug = { ent-WizardsGrimoire }
+    .desc = A heavy tome containing complicated arcane formulae for preparing magic spells and conjuring supernatural equipment. Someone wrote "FOR EXPERIMENTAL USE ONLY" on the inside cover.
+    .suffix = Wizard, DEBUG
+
+ent-SpawnSpellbook = spawn spellbook
+    .desc = { ent-BaseSpellbook.desc }
+
+ent-ForceWallSpellbook = force wall spellbook
+    .desc = { ent-BaseSpellbook.desc }
+
+ent-BlinkBook = blink spellbook
+    .desc = { ent-BaseSpellbook.desc }
+
+ent-SmiteBook = smite spellbook
+    .desc = { ent-BaseSpellbook.desc }
+
+ent-KnockSpellbook = knock spellbook
+    .desc = { ent-BaseSpellbook.desc }
+
+ent-FireballSpellbook = fireball spellbook
+    .desc = { ent-BaseSpellbook.desc }
+
+ent-ScrollRunes = scroll of traps
+    .desc = { ent-BaseSpellbook.desc }

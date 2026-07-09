@@ -1,0 +1,42 @@
+ent-AppearanceSkeletonPerson = skeletonperson appearance
+    .desc = { ent-BaseSpeciesAppearanceOrganless.desc }
+
+ent-MobSkeletonPerson = Urist McBones
+    .desc = { ent-AppearanceSkeletonPerson.desc }
+
+ent-OrganSkeletonPerson = { ent-OrganBase }
+    .desc = { ent-OrganBase.desc }
+    .suffix = SkeletonPerson
+
+ent-OrganSkeletonPersonExternal = { ent-OrganSkeletonPerson }
+    .desc = { ent-OrganSkeletonPerson.desc }
+
+ent-OrganSkeletonPersonTorso = { ent-OrganBaseTorsoSexed }
+    .desc = { ent-OrganBaseTorsoSexed.desc }
+
+ent-OrganSkeletonPersonHead = { ent-OrganBaseHead }
+    .desc = { ent-OrganBaseHead.desc }
+
+ent-OrganSkeletonPersonArmLeft = { ent-OrganBaseArmLeft }
+    .desc = { ent-OrganBaseArmLeft.desc }
+
+ent-OrganSkeletonPersonArmRight = { ent-OrganBaseArmRight }
+    .desc = { ent-OrganBaseArmRight.desc }
+
+ent-OrganSkeletonPersonHandLeft = { ent-OrganBaseHandLeft }
+    .desc = { ent-OrganBaseHandLeft.desc }
+
+ent-OrganSkeletonPersonHandRight = { ent-OrganBaseHandRight }
+    .desc = { ent-OrganBaseHandRight.desc }
+
+ent-OrganSkeletonPersonLegLeft = { ent-OrganBaseLegLeft }
+    .desc = { ent-OrganBaseLegLeft.desc }
+
+ent-OrganSkeletonPersonLegRight = { ent-OrganBaseLegRight }
+    .desc = { ent-OrganBaseLegRight.desc }
+
+ent-OrganSkeletonPersonFootLeft = { ent-OrganBaseFootLeft }
+    .desc = { ent-OrganBaseFootLeft.desc }
+
+ent-OrganSkeletonPersonFootRight = { ent-OrganBaseFootRight }
+    .desc = { ent-OrganBaseFootRight.desc }

@@ -1,0 +1,21 @@
+ent-CosmicShuttleCore = malign instrument
+    .desc = Its surface glows with a myriad of inscrutable glyphs that commmunicate a single word into your mind; "Flight".
+
+ent-CosmicChair = malign settee
+    .desc = { ent-SeatBase.desc }
+
+ent-CosmicObelisk = malign obelisk
+    .desc = A mysterious-yet-inert sturcture. Unsettling.
+
+ent-CosmicThruster = malign engine
+    .desc = { ent-BaseStructure.desc }
+
+ent-CosmicLamp = malign light
+    .desc = A mote of un-light shimmers within.
+    .suffix = Always Powered
+
+ent-AltarCosmic = cosmic altar
+    .desc = Altar of.. Something.
+
+ent-CosmicTable = malign table
+    .desc = Unfathomably, cosmically.. Square.

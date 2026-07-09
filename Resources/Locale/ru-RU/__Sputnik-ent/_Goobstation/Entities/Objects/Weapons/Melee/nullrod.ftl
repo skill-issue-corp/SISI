@@ -1,0 +1,47 @@
+ent-BaseNullrod = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+
+ent-Nullrod = Null Rod
+    .desc = The old classic. Does nothing special, really.
+
+ent-HolyClaymore = holy claymore
+    .desc = A weapon fit for a crusade! A sword capable of stealing life from evil-doers.
+
+ent-Rosary = rosary
+    .desc = Using these to pray near someone will heal them. They are surrounded by a holy aura.
+
+ent-GodHand = Hand of God
+    .desc = A holy, fiery gift from the gods. You won't drop this one.
+    .suffix = Unremoveable
+
+ent-ArrythmicKnife = arrythmic knife
+    .desc = They say fear is the true mind killer, but stabbing them in the head works too. Slows you down and speeds you up randomly.
+
+ent-MonkStaff = monk's staff
+    .desc = A long, tall staff made of polished wood. Traditionally used in ancient old-Earth martial arts, now used to harass the clown.
+
+ent-Bulwark = Bulwark
+    .desc = An absolutely enormous two handed shield, very difficult to use if not planted in place.
+
+ent-HonkmotherMaw = Honkmother's Maw
+    .desc = a-HEAD of you lies a path most hilarious.
+
+ent-UristHand = Grey Emperor's Glove
+    .desc = The tide beckons.
+    .suffix = Unremoveable
+
+ent-HolyChainsaw = his holy chainsaw
+    .desc = And because it's fuckin' FUN! AHAHA! AHAHAHA! AHAH-AAAAAAAA-MEN!
+    .suffix = Unremoveable
+
+ent-WeaponPistolCasul = casul
+    .desc = The first of two huge pistols, capable of firing regenerating silver bullets. Incapable of firing without its sister gun.
+
+ent-WeaponPistolJackal = jackal
+    .desc = The second of two huge pistols, capable of firing regenerating silver bullets. Incapable of firing without its sister gun.
+
+ent-BlessingOfTheReaper = blessing of the reaper
+    .desc = A special undroppable armblade nullrod, it's blessed by the dark gods.
+
+ent-RatvarianSpear = ancient spear
+    .desc = An ancient spear made of brass, I mean gold, I mean bronze. It looks highly mechanical.

@@ -1,0 +1,20 @@
+ent-SpawnMobXenomorphFaceHugger = xeno facehugger spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMobXenomorphLarva = xeno larva spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMobXenomorphDrone = xeno drone spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMobXenomorphHunter = xeno hunter spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMobXenomorphPraetorian = xeno praetorian spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMobXenomorphSentinel = xeno sentinel spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMobXenomorphQueen = xeno queen spawner
+    .desc = { ent-MarkerBase.desc }

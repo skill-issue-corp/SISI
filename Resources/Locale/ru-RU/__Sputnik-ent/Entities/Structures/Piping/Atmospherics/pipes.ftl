@@ -1,0 +1,34 @@
+ent-GasPipeSansLayers = gas pipe
+    .desc = Holds gas.
+
+ent-VentCrawlerHolder = vent craw holder
+    .desc = { "" }
+
+ent-GasPipeBase = { ent-GasPipeSansLayers }
+    .desc = { ent-GasPipeSansLayers.desc }
+
+ent-GasPipeHalf = { ent-GasPipeBase }
+    .desc = { ent-GasPipeBase.desc }
+    .suffix = Half
+
+ent-GasPipeStraight = { ent-GasPipeBase }
+    .desc = { ent-GasPipeBase.desc }
+    .suffix = Straight
+
+ent-GasPipeBend = { ent-GasPipeBase }
+    .desc = { ent-GasPipeBase.desc }
+    .suffix = Bend
+
+ent-GasPipeTJunction = { ent-GasPipeBase }
+    .desc = { ent-GasPipeBase.desc }
+    .suffix = TJunction
+
+ent-GasPipeFourway = { ent-GasPipeBase }
+    .desc = { ent-GasPipeBase.desc }
+    .suffix = Fourway
+
+ent-GasPipeBroken = broken pipe
+    .desc = It used to hold gas.
+
+ent-GasPipeManifold = gas pipe manifold
+    .desc = Allows gas pipes of different configurations to be connected together.

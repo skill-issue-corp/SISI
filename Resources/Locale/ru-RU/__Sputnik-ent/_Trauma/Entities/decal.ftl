@@ -1,0 +1,2 @@
+ent-Decal = decal
+    .desc = { "" }

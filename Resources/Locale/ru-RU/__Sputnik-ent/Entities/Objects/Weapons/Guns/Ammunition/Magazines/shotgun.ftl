@@ -1,0 +1,18 @@
+ent-BaseMagazineShotgun = ammo drum (12 Gauge shells)
+    .desc = { ent-BaseItem.desc }
+
+ent-MagazineShotgunEmpty = ammo drum (12 Gauge shells any)
+    .desc = A large drum magazine used by some military-grade automatic shotguns.
+    .suffix = empty
+
+ent-MagazineShotgun = ammo drum (12 Gauge pellet)
+    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold general-purpose kinetic ammunition.
+
+ent-MagazineShotgunBeanbag = ammo drum (12 Gauge beanbags)
+    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold less-than-lethal beanbag ammunition.
+
+ent-MagazineShotgunSlug = ammo drum (12 Gauge slug)
+    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold long-ranged slug ammunition.
+
+ent-MagazineShotgunIncendiary = ammo drum (12 Gauge incendiary)
+    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold self-igniting incendiary ammunition.

@@ -1,0 +1,2 @@
+ent-ClothingOuterArmorMonarchCoat = monarch coat
+    .desc = Straight from the wardrobe of Gorlex Entertainment's star human performer, this replica of their most iconic outfit utilizes reflective technology to shrug off energy blasts, while remaining flimsy against real damage.
