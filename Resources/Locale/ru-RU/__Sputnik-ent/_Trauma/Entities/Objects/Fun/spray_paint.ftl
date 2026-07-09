@@ -8,42 +8,42 @@ ent-SprayPaintFunnyYellow = { ent-SprayPaintFunny }
     .desc = { ent-SprayPaintFunny.desc }
     .suffix = Yellow
 
-ent-SprayPaintDeath = { ent-BaseSprayPaint }
+ent-SprayPaintDeath = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
     .suffix = Death
 
-ent-SprayPaintDeathTwo = { ent-BaseSprayPaint }
+ent-SprayPaintDeathTwo = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
     .suffix = Death 2
 
-ent-SprayPaintRed = { ent-BaseSprayPaint }
+ent-SprayPaintRed = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
     .suffix = Red
 
-ent-SprayPaintGreen = { ent-BaseSprayPaint }
+ent-SprayPaintGreen = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
     .suffix = Green
 
-ent-SprayPaintBlue = { ent-BaseSprayPaint }
+ent-SprayPaintBlue = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
     .suffix = Blue
 
-ent-SprayPaintBlack = { ent-BaseSprayPaint }
+ent-SprayPaintBlack = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
     .suffix = Black
 
-ent-SprayPaintOrange = { ent-BaseSprayPaint }
+ent-SprayPaintOrange = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
     .suffix = Orange
 
-ent-SprayPaintPurple = { ent-BaseSprayPaint }
+ent-SprayPaintPurple = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
     .suffix = Purple
 
-ent-SprayPaintWhite = { ent-BaseSprayPaint }
+ent-SprayPaintWhite = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
     .suffix = White
 
-ent-SprayPaintInvisible = { ent-BaseSprayPaint }
+ent-SprayPaintInvisible = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
     .suffix = Invisible, DO NOT MAP
