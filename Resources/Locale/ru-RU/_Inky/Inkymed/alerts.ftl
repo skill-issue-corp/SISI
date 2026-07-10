@@ -1,13 +1,13 @@
-alerts-fibr-name = Fibrillations
-alerts-fibr-desc = Your heart rate seems painfully weird. You should get medical treatment as soon as possible.
+alerts-fibr-name = Фибрилляция
+alerts-fibr-desc = Ваш сердечный ритм кажется мучительно странным. Вам следует как можно скорее получить медицинскую помощь.
 
-alerts-heartstop-name = Heart Stop
-alerts-heartstop-desc = You no longer feel the heart pounding in your chest, your condition is critical.
+alerts-heartstop-name = Остановка сердца
+alerts-heartstop-desc = Вы больше не чувствуете биения сердца в груди, ваше состояние критическое.
 
-alerts-joyfull-name = Autistic
-alerts-joyfull-desc = You fell so jolly and whimsical!
-admin-verbs-smite-autism-name = Make Jolly
-admin-verbs-smite-autism-desc = Makes the target jolly and whimsical by giving it autism. Does nothing other than displaying the alert to the target.
+alerts-joyfull-name = Аутист
+alerts-joyfull-desc = Вы чувствуете себя таким весёлым и причудливым!
+admin-verbs-smite-autism-name = Развеселить
+admin-verbs-smite-autism-desc = Делает цель весёлой и причудливой, дав ей аутизм. Не делает ничего, кроме отображения оповещения у цели.
 
-alerts-lobotomy-name = Lobotomised
-alerts-lobotomy-desc = Your head no longer hurts, you feel so... free... Like in fortnite...
+alerts-lobotomy-name = Лоботомированый
+alerts-lobotomy-desc = Ваша голова больше не болит, вы чувствуете себя таким... свободным... как в фортнайте...

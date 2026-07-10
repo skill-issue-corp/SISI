@@ -1,3 +1,3 @@
-self-renamer-confirm = Rename
-self-renamer-window-title = Rename yourself
-self-renamer-placeholder = John Robust
+self-renamer-confirm = Переименовать
+self-renamer-window-title = Переименуйте себя
+self-renamer-placeholder = Джон Робаст

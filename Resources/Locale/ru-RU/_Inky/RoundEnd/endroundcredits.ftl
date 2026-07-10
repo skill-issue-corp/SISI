@@ -1,79 +1,79 @@
-end-round-credits-inky-1 = Any resemblance of real life events is purely coincidental, even if it's not.
-end-round-credits-inky-2 = Comrade Ilya, hello. Please make it so that any mouse has a 65% chance to be blob.
-end-round-credits-inky-3 = Any stunts performed in the episode are not to be attempted, ever.
-end-round-credits-inky-4 = Hello, and thank you for your contribution!
-    At the moment maintainers are facing a high backlog and unfortunately can’t review every single pull request.
-    As this PR pertains to the addition of new content and/or balance changes deemed low-impact, we have opted to close it instead of leaving it open indefinitely.
-    PRs may be reopened in the future once the backlog has been reduced, and we encourage you to keep contributing in other areas of the codebase.
-end-round-credits-inky-5 = Any information about Dr. Fih is a hoax and you should not wake up.
-    you should not wake up.
+end-round-credits-inky-1 = Любое сходство с реальными событиями чисто случайно, даже если это не так.
+end-round-credits-inky-2 = Товарищ Илья, здравствуйте. Пожалуйста, сделайте так, чтобы у любой мыши был шанс 65% стать блобом.
+end-round-credits-inky-3 = Все трюки, показанные в этом эпизоде, никогда не должны повторяться.
+end-round-credits-inky-4 = Здравствуйте, и спасибо за ваш вклад!
+    На данный момент мейнтейнеры сталкиваются с большим количеством накопившихся заявок и, к сожалению, не могут рассмотреть каждый pull request.
+    Поскольку этот PR касается добавления нового контента и/или изменений баланса, признанных малозначимыми, мы решили закрыть его вместо того, чтобы оставлять открытым бесконечно.
+    PR могут быть открыты заново в будущем, когда очередь сократится, и мы призываем вас продолжать вносить вклад в другие части кодовой базы.
+end-round-credits-inky-5 = Любая информация о докторе Фи — мистификация, и вам не следует просыпаться.
+    вам не следует просыпаться.
 
-    you should not wake up.
+    вам не следует просыпаться.
 
-    you should not wake up.
-end-round-credits-inky-6 = @dtn36 Your mangos are MASSIVE
-end-round-credits-inky-7 = War crimes? ACK ACK! My favorite topic.
-    Nanotrasen stations are perfect targets for every single one.
-    Plasma flood, singulo release, tesloose, RDM... I've done them all.
+    вам не следует просыпаться.
+end-round-credits-inky-6 = @dtn36 Твои манго ОГРОМНЫЕ
+end-round-credits-inky-7 = Военные преступления? АК-АК! Моя любимая тема.
+    Станции Nanotrasen — идеальные мишени для каждого из них.
+    Разлив плазмы, выпуск синглулярности, теслосвобождение, RDM... я делал их все.
 
-    The Geneva Convention is just a checklist for me.
-    Especially satisfying when you get rid of those furry infestations.
-end-round-credits-inky-8 = Also Try Minecraft!
-end-round-credits-inky-9 = Also Try Terraria!
-end-round-credits-inky-10 = Also Try Funky!
-end-round-credits-inky-11 = Also Try Casualties: Unknown!
-end-round-credits-inky-12 = Also Try Ultrakill!
-end-round-credits-inky-13 = Russians are like Pokemon,
-    The funny words they say are actually their names.
-end-round-credits-inky-14 = Growing up with Space Station 14:
-    tg taught me to be 65
-    goon taught me 65 slurs are 65
-    lifeweb taught me to 65 65
-    goob taught me to hate 65
-    65 taught me 65
-    mrp taught me 65
-end-round-credits-inky-15 = @babel moth you stupid clown.
-    You are funded by RBB.
-    I gave you order but why you did not listen to me.
-end-round-credits-inky-16 = "your explanation fucking blows. costs way more than that to try and solo fund an antag company."
-end-round-credits-inky-17 = Hear my call, I'm chippin' in
-    Total war, I'm chippin' in
-    Casings fall, I'm chippin' in
-    Kill them all!
-end-round-credits-inky-18 = I tried to follow my passion for art
-    but now im 32 and unemployed
-end-round-credits-inky-19 = A Nanotrasen Data Center in my town caused a water drought killing 650565 tiders.
-    We never needed data centers before NT so why do we need them now?! Actually we dont!
-    NT sucks and no one uses it but you also shouldnt use it because its destroying the environment!!!
-end-round-credits-inky-20 = The Cake Is A Lie.
-    The Cake Is A Lie.
-    The Cake Is A Lie.
-    The Cake Is A Lie.
-    The Cake Is A Lie.
-end-round-credits-inky-21 = You see SOP and server rules,
-    I see a checklist.
-end-round-credits-inky-22 = Also Try Monolith!
-end-round-credits-inky-23 = WAR WITHOUT REASON
-end-round-credits-inky-24 = I love run
-    Then why are you fat?
-    Im not fat, youre just projecting, mom says im big boned
+    Женевская конвенция для меня — просто чек-лист.
+    Особенно приятно, когда избавляешься от этих пушистых нашествий.
+end-round-credits-inky-8 = Также Попробуйте Minecraft!
+end-round-credits-inky-9 = Также Попробуйте Terraria!
+end-round-credits-inky-10 = Также Попробуйте Funky!
+end-round-credits-inky-11 = Также Попробуйте Casualties: Unknown!
+end-round-credits-inky-12 = Также Попробуйте Ultrakill!
+end-round-credits-inky-13 = Русские как Покемоны,
+    Смешные слова, которые они говорят, на самом деле их имена.
+end-round-credits-inky-14 = Взросление со Space Station 14:
+    tg научил меня быть 65
+    goon научил меня, что 65 оскорблений — это 65
+    lifeweb научил меня 65 65
+    goob научил меня ненавидеть 65
+    65 научил меня 65
+    mrp научил меня 65
+end-round-credits-inky-15 = @babel moth, ты глупый клоун.
+    Тебя финансирует RBB.
+    Я дал тебе приказ, но почему ты меня не послушал.
+end-round-credits-inky-16 = "твоё объяснение просто отстой. Стоит намного больше, чем это, чтобы попытаться в одиночку финансировать компанию антагонистов."
+end-round-credits-inky-17 = Услышь мой зов, я подключаюсь
+    Тотальная война, я подключаюсь
+    Гильзы падают, я подключаюсь
+    Убейте их всех!
+end-round-credits-inky-18 = Я пытался следовать своей страсти к искусству,
+    но теперь мне 32 и я безработный
+end-round-credits-inky-19 = Дата-центр Nanotrasen в моём городе вызвал засуху, убившую 650565 тайдеров.
+    Нам никогда не были нужны дата-центры до NT, так почему они нужны сейчас?! На самом деле не нужны!
+    NT отстой, и никто им не пользуется, но вам тоже не стоит им пользоваться, потому что он разрушает окружающую среду!!!
+end-round-credits-inky-20 = Торт — это ложь.
+    Торт — это ложь.
+    Торт — это ложь.
+    Торт — это ложь.
+    Торт — это ложь.
+end-round-credits-inky-21 = Вы видите СОП и правила сервера,
+    а я вижу чек-лист.
+end-round-credits-inky-22 = Также Попробуйте Monolith!
+end-round-credits-inky-23 = ВОЙНА БЕЗ ПРИЧИНЫ
+end-round-credits-inky-24 = Я люблю бегать
+    Тогда почему ты толстый?
+    Я не толстый, это ты проецируешь, мама говорит, что у меня просто широкая кость
 
-    Your mom also called me big boned.
-end-round-credits-inky-25 = >Game set in middle ages
-    >currency is gold
-    >Game set in sci-fi
-    >currency is spesos
-end-round-credits-inky-26 = Inkymed ETA: 6.5 years
-    Werewolf ETA: 130 Days
-end-round-credits-inky-27 = Fun fact blindfolds can give you their special martial arts
-    Go try it and tell nobody.
-end-round-credits-inky-28 = The previous sentence is false, for now.
-end-round-credits-inky-29 = I hate those ads that have
-    small text in them so you click on them
-    and it opens up a tab of their shitty site
-end-round-credits-inky-30 = Also DONT Try Dota!
-end-round-credits-inky-31 = Congrats to whoever parried the nuke last shift.
-end-round-credits-inky-32 = Also Try Orbit Fight!
+    Твоя мама тоже говорила мне про широкую кость.
+end-round-credits-inky-25 = >Игра происходит в средние века
+    >валюта — золото
+    >Игра в сеттинге научной фантастики
+    >валюта — спесо
+end-round-credits-inky-26 = Inkymed ETA: 6.5 лет
+    Werewolf ETA: 130 дней
+end-round-credits-inky-27 = Забавный факт: повязки на глаза могут дать тебе их особые боевые искусства
+    Попробуй и никому не рассказывай.
+end-round-credits-inky-28 = Предыдущее предложение ложно, пока что.
+end-round-credits-inky-29 = Ненавижу ту рекламу, в которой
+    есть мелкий текст, чтобы ты на неё нажал
+    и открылась вкладка с их дерьмовым сайтом
+end-round-credits-inky-30 = Также НЕ Пробуйте Dota!
+end-round-credits-inky-31 = Поздравления тому, кто отпарировал нюк в прошлую смену.
+end-round-credits-inky-32 = Также Попробуйте Orbit Fight!
 
 end-round-credits-shoutout-inky-1 = Lebron James
 end-round-credits-shoutout-inky-2 = CopperCrow

@@ -1,6 +1,6 @@
-concussion-resistance-percent = [color=white]It reduces concussion by [/color][color=yellow]{$percent}%[/color].
+concussion-resistance-percent = [color=white]Уменьшает контузию на [/color][color=yellow]{$percent}%[/color].
 
-concussion-setting-noise = Flashbang/Explosion concussion noise.
+concussion-setting-noise = Звук контузии от световой гранаты/взрыва.
 
-alerts-conc-desc = You have a [color=white]concussion[/color], you can't understand people around you.
-alerts-conc-name = Concussion
+alerts-conc-desc = У вас [color=white]контузия[/color], вы не понимаете людей вокруг себя.
+alerts-conc-name = Контузия

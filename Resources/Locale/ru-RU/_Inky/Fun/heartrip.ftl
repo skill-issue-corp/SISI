@@ -1,4 +1,4 @@
-verb-heart-rip-fun = Rip out heart
+verb-heart-rip-fun = Вырвать сердце
 
-fun-popup-heart-rip-start = {THE($user)} begins to reach into {THE($target)}'s chest!
-fun-popup-heart-rip-success = {THE($user)} rips out {THE($target)}'s {$heart} with his bare hands!
+fun-popup-heart-rip-start = {$user} начинает засовывать руку в грудную клетку {$target}!
+fun-popup-heart-rip-success = {$user} голыми руками вырывает {$heart} из {$target}!
