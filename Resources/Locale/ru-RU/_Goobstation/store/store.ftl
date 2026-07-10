@@ -1,1 +1,1 @@
-store-preset-name-spellbook-ghost = Ghostly Spellshop
+store-preset-name-spellbook-ghost = Призрачная книга заклинаний

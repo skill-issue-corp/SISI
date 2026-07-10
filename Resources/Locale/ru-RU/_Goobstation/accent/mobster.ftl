@@ -1,2 +1,2 @@
-accent-mobster-suffix-boss-4 = , gabagool.
-accent-mobster-suffix-boss-5 = , how ya doin'?
+accent-mobster-suffix-boss-4 = , капикола.
+accent-mobster-suffix-boss-5 = , как оно ничего?

@@ -1,2 +1,2 @@
-cargo-console-cooldown-count = Cannot order more than one {$product} at a time.
-cargo-console-cooldown-active = Orders for {$product} cannot be placed for another {$timeCount} {$timeUnits}.
+cargo-console-cooldown-count = Нельзя заказать более одного товара «{$product}» за раз.
+cargo-console-cooldown-active = Заказ товара «{$product}» будет недоступен ещё {$timeCount} {$timeUnits}.

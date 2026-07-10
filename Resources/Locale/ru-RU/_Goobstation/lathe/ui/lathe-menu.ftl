@@ -1,3 +1,3 @@
-lathe-menu-queue-reset-title = Reset Queue
+lathe-menu-queue-reset-title = Сбросить очередь
 ## TODO: use the fucking entity name not autolathe
-lathe-menu-queue-reset-material-overflow = You notice that the autolathe is full.
+lathe-menu-queue-reset-material-overflow = Вы замечаете, что автолат переполнен.

@@ -1,18 +1,18 @@
-interactor-verb-toggle-alt-interact = Toggle Alt Interact Mode
+interactor-verb-toggle-alt-interact = Переключить режим альт-взаимодействия
 interactor-verb-toggled-alt-interact = {$enabled ->
-    [true]Enabled
-    *[false]Disabled
-} alt interact mode.
-interactor-verb-toggle-use-in-hand = Toggle Use In Hand Mode
+    [true]Включён
+    *[false]Отключён
+} режим альт-взаимодействия.
+interactor-verb-toggle-use-in-hand = Переключить режим использования в руке
 interactor-verb-toggled-use-in-hand = {$enabled ->
-    [true]Enabled
-    *[false]Disabled
-} use in hand mode.
-interactor-verb-toggle-harm-mode = Toggle Harm Mode
+    [true]Включён
+    *[false]Отключён
+} режим использования в руке.
+interactor-verb-toggle-harm-mode = Переключить режим вреда
 interactor-verb-toggled-harm-mode = {$enabled ->
-    [true]Enabled
-    *[false]Disabled
-} harm mode.
+    [true]Включён
+    *[false]Отключён
+} режим вреда.
 
 
-interactor-verb-no-screwdriver = You need a screwdriver
+interactor-verb-no-screwdriver = Вам нужна отвёртка
