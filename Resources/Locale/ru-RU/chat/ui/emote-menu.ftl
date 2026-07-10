@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-emote-menu-category-general = General
-emote-menu-category-vocal = Vocal
-emote-menu-category-hands = Hands
+emote-menu-category-general = Общее
+emote-menu-category-vocal = Голос
+emote-menu-category-hands = Руки
