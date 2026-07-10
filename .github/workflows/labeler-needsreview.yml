@@ -1,8 +1,9 @@
+# SIS-Vanila_Action Start
 name: "Labels: Review"
 
 on:
   pull_request_target:
-    types: [review_requested]
+    types: [review_requested, opened]
 
 jobs:
   add_label:
@@ -14,3 +15,4 @@ jobs:
     - uses: actions-ecosystem/action-remove-labels@v1
       with:
         labels: "S: Awaiting Changes"
+# SIS-Vanila_Action End

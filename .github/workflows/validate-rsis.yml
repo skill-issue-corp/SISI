@@ -1,3 +1,4 @@
+# SIS-Vanila_Action Start
 name: RSI Validator
 
 on:
@@ -5,29 +6,23 @@ on:
     branches: [ master, staging, stable ]
   merge_group:
   pull_request:
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+    paths:
+      - '**.rsi/**'
 
 jobs:
   validate_rsis:
     name: Validate RSIs
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4.2.2
-    - name: Setup Submodule
-      run: git submodule update --init
-    - name: Pull engine updates
-      uses: Trauma-Station/submodule-dependency@v0.2.2
-      with:
-        map: |
-          {
-            "QuietToolbox": "RobustToolbox"
-          }
-    - name: Install Python dependencies
-      run: |
-        pip3 install --ignore-installed --user pillow jsonschema
-    - name: Validate RSIs
-      run: |
-        python3 RobustToolbox/Schemas/validate_rsis.py Resources/
+      - uses: actions/checkout@v7
+      - name: Setup Submodule
+        run: git submodule update --init
+      - name: Pull engine updates
+        uses: space-wizards/submodule-dependency@v0.1.5
+      - name: Install Python dependencies
+        run: |
+          pip3 install --ignore-installed --user pillow jsonschema
+      - name: Validate RSIs
+        run: |
+          python3 RobustToolbox/Schemas/validate_rsis.py Resources/
+# SIS-Vanila_Action End
