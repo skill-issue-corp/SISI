@@ -1,69 +1,69 @@
 ### Examine
 
-gas-turbine-examine-stator-null = It seems to be missing a stator.
-gas-turbine-examine-stator = It has a stator.
+gas-turbine-examine-stator-null = Похоже, статор отсутствует.
+gas-turbine-examine-stator = Есть статор.
 
-gas-turbine-examine-blade-null = It seems to be missing a turbine blade.
-gas-turbine-examine-blade = It has a turbine blade.
+gas-turbine-examine-blade-null = Похоже, лопасть турбины отсутствует.
+gas-turbine-examine-blade = Есть лопасть турбины.
 
-turbine-damaged-0 = It appears to be in good condition.[/color]
-turbine-damaged-1 = The turbine looks a bit scuffed.[/color]
-turbine-damaged-2 = [color=yellow]The turbine looks badly damaged.[/color]
-turbine-damaged-3 = [color=orange]It's critically damaged![/color]
+turbine-damaged-0 = Похоже, в хорошем состоянии.[/color]
+turbine-damaged-1 = Турбина выглядит слегка потрёпанной.[/color]
+turbine-damaged-2 = [color=yellow]Турбина выглядит сильно повреждённой.[/color]
+turbine-damaged-3 = [color=orange]Она критически повреждена![/color]
 
-turbine-ruined = [color=red]It's completely broken![/color]
+turbine-ruined = [color=red]Она полностью сломана![/color]
 
 ### Popups
 
 # Shown when an event occurs
-turbine-overheat = {$owner} triggers the emergency overheat dump valve!
-turbine-explode = The {$owner} tears itself apart!
+turbine-overheat = {$owner} активирует аварийный клапан сброса перегрева!
+turbine-explode = {$owner} разрывается на части!
 
 # Shown when damage occurs
-turbine-spark = The {$owner} starts sparking!
-turbine-spark-stop = The {$owner} stops sparking.
-turbine-smoke = The {$owner} begins to smoke!
-turbine-smoke-stop = The {$owner} stops smoking.
+turbine-spark = {$owner} начинает искрить!
+turbine-spark-stop = {$owner} перестаёт искрить.
+turbine-smoke = {$owner} начинает дымиться!
+turbine-smoke-stop = {$owner} перестаёт дымиться.
 
 # Shown during repairs
-gas-turbine-repair-fail-blade = You need to replace the turbine blade before this can be repaired.
-gas-turbine-repair-fail-stator = You need to replace the stator before this can be repaired.
-turbine-repair-ruined = You repair the {$target}'s casing with the {$tool}.
-turbine-repair = You repair some of the damage to the {$target} using the {$tool}.
-turbine-no-damage = There is no damage to repair on the {$target} using the {$tool}.
+gas-turbine-repair-fail-blade = Вам нужно заменить лопасть турбины, прежде чем это можно будет отремонтировать.
+gas-turbine-repair-fail-stator = Вам нужно заменить статор, прежде чем это можно будет отремонтировать.
+turbine-repair-ruined = Вы ремонтируете корпус {$target} с помощью {$tool}.
+turbine-repair = Вы устраняете часть повреждений {$target} с помощью {$tool}.
+turbine-no-damage = На {$target} нет повреждений для устранения с помощью {$tool}.
 
 # Anchoring warnings
-turbine-unanchor-warning = You cannot unanchor the gas turbine while the turbine is spinning!
+turbine-unanchor-warning = Вы не можете открепить газовую турбину, пока она вращается!
 
-gas-turbine-eject-fail-speed = You cannot remove turbine parts while the turbine is spinning!
-gas-turbine-insert-fail-speed = You cannot insert turbine parts while the turbine is spinning!
+gas-turbine-eject-fail-speed = Вы не можете извлечь детали турбины, пока она вращается!
+gas-turbine-insert-fail-speed = Вы не можете вставить детали турбины, пока она вращается!
 
 ### UI
 
 # Shown when using the UI
-comp-turbine-ui-tab-main = Controls
-comp-turbine-ui-tab-parts = Parts
+comp-turbine-ui-tab-main = Управление
+comp-turbine-ui-tab-parts = Детали
 
-comp-turbine-ui-rpm = RPM
+comp-turbine-ui-rpm = Об/мин
 
-comp-turbine-ui-overspeed = OVERSPEED
-comp-turbine-ui-overtemp = OVERTEMP
-comp-turbine-ui-stalling = STALLING
-comp-turbine-ui-undertemp = UNDERTEMP
+comp-turbine-ui-overspeed = ПЕРЕГОН
+comp-turbine-ui-overtemp = ПЕРЕГРЕВ
+comp-turbine-ui-stalling = ЗАГЛОХАНИЕ
+comp-turbine-ui-undertemp = НЕДОГРЕВ
 
-comp-turbine-ui-flow-rate = Flow Rate
-comp-turbine-ui-stator-load = Stator Load
+comp-turbine-ui-flow-rate = Скорость потока
+comp-turbine-ui-stator-load = Нагрузка статора
 
-comp-turbine-ui-blade = Turbine Blade
-comp-turbine-ui-blade-integrity = Integrity
-comp-turbine-ui-blade-stress = Stress
+comp-turbine-ui-blade = Лопасть турбины
+comp-turbine-ui-blade-integrity = Целостность
+comp-turbine-ui-blade-stress = Напряжение
 
-comp-turbine-ui-stator = Turbine Stator
-comp-turbine-ui-stator-potential = Potential
-comp-turbine-ui-stator-supply = Supply
+comp-turbine-ui-stator = Статор турбины
+comp-turbine-ui-stator-potential = Потенциал
+comp-turbine-ui-stator-supply = Питание
 
 comp-turbine-ui-power = { POWERWATTS($power) }
 
-comp-turbine-ui-locked-message = Controls locked.
-comp-turbine-ui-footer-left = Danger: fast-moving machinery.
+comp-turbine-ui-locked-message = Управление заблокировано.
+comp-turbine-ui-footer-left = Опасность: быстро движущиеся механизмы.
 comp-turbine-ui-footer-right = 2.0 REV 1

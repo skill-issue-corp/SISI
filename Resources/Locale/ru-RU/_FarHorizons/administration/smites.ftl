@@ -1,7 +1,7 @@
 ## Smite names
 
-admin-smite-become-fuelrod-name = Become Fuel Rod
+admin-smite-become-fuelrod-name = Стать топливным стержнем
 
 ## Smite descriptions
 
-admin-smite-become-fuelrod-description =  They become a fuel rod. Maybe now they'll be useful.
+admin-smite-become-fuelrod-description = Они превращаются в топливный стержень. Может, теперь от них будет хоть какая-то польза.

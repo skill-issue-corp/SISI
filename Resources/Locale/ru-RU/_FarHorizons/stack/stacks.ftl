@@ -1,1 +1,1 @@
-stack-plutonium = plutonium
+stack-plutonium = плутоний

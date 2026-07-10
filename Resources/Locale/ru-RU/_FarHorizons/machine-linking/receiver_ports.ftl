@@ -1,14 +1,14 @@
-signal-port-name-nuclear-reactor-data-receiver = Reactor Monitor
-signal-port-description-nuclear-reactor-data-receiver = Receiving info about a nuclear reactor.
+signal-port-name-nuclear-reactor-data-receiver = Монитор реактора
+signal-port-description-nuclear-reactor-data-receiver = Получение данных о ядерном реакторе.
 
-signal-port-name-nuclear-reactor-control-rods = Control Rod Insertion
-signal-port-description-nuclear-reactor-control-rods = Circuit port that sets the target control rod insertion in percent to an integer.
+signal-port-name-nuclear-reactor-control-rods = Погружение стержней управления
+signal-port-description-nuclear-reactor-control-rods = Порт схемы, устанавливающий целевое погружение стержней управления в процентах в виде целого числа.
 
-signal-port-name-gas-turbine-stator-load = Stator Load
-signal-port-description-gas-turbine-stator-load = Circuit port that sets the stator load in Watts to an integer.
+signal-port-name-gas-turbine-stator-load = Нагрузка статора
+signal-port-description-gas-turbine-stator-load = Порт схемы, устанавливающий нагрузку статора в ваттах в виде целого числа.
 
-signal-port-name-gas-turbine-flow-rate = Flow Rate
-signal-port-description-gas-turbine-flow-rate = Circuit port that sets the flow rate in L/s to an integer.
+signal-port-name-gas-turbine-flow-rate = Скорость потока
+signal-port-description-gas-turbine-flow-rate = Порт схемы, устанавливающий скорость потока в л/с в виде целого числа.
 
-signal-port-name-gas-turbine-data-receiver = Turbine Monitor
-signal-port-description-gas-turbine-data-receiver = Receiving info about a gas turbine.
+signal-port-name-gas-turbine-data-receiver = Монитор турбины
+signal-port-description-gas-turbine-data-receiver = Получение данных о газовой турбине.

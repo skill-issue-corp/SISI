@@ -1,18 +1,18 @@
-comp-genericfield-turned-on = The Holographic Generator boots up.
-comp-genericfield-turned-off = The Holographic Generator shuts down.
+comp-genericfield-turned-on = Голографический генератор запускается.
+comp-genericfield-turned-off = Голографический генератор отключается.
 
-comp-genericfield-on = It's switched [color=green]on[/color].
-comp-genericfield-off = It's switched [color=red]off[/color].
+comp-genericfield-on = Он [color=green]включён[/color].
+comp-genericfield-off = Он [color=red]выключен[/color].
 
-comp-genericfield-connected = The Holographic Generator establishes a connection!
-comp-genericfield-disconnected = The Holographic Field fizzles out and vanishes!
+comp-genericfield-connected = Голографический генератор устанавливает соединение!
+comp-genericfield-disconnected = Голографическое поле шипит и исчезает!
 
-comp-genericfield-locked = It's locked!
-comp-genericfield-emag = Safety limiters disabled!
+comp-genericfield-locked = Он заблокирован!
+comp-genericfield-emag = Ограничители безопасности отключены!
 
-comp-genericfield-anchor-warning = You cannot unanchor the Holographic Generator while it's on or connected!
+comp-genericfield-anchor-warning = Вы не можете открепить голографический генератор, пока он включён или подключён!
 
-comp-genericfield-damaged-1 = It appears to be holding steady.
-comp-genericfield-damaged-2 = [color=yellow]The field is slightly distorted.[/color]
-comp-genericfield-damaged-3 = [color=orange]The field is badly distorted.[/color]
-comp-genericfield-damaged-4 = [color=red]The field looks like its about to fizzle out![/color]
+comp-genericfield-damaged-1 = Похоже, он стабилен.
+comp-genericfield-damaged-2 = [color=yellow]Поле слегка искажено.[/color]
+comp-genericfield-damaged-3 = [color=orange]Поле сильно искажено.[/color]
+comp-genericfield-damaged-4 = [color=red]Похоже, поле вот-вот исчезнет![/color]
