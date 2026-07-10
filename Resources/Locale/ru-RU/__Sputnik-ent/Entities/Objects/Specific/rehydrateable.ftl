@@ -19,8 +19,10 @@ ent-CowCube = cow cube
 ent-GoatCube = goat cube
     .desc = { ent-RehydratableAnimalCube.desc }
 
-ent-MothroachCube = mothroach cube
-    .desc = { ent-RehydratableAnimalCube.desc }
+# SIS-Start
+# ent-MothroachCube = mothroach cube
+#     .desc = { ent-RehydratableAnimalCube.desc }
+# SIS-End
 
 ent-MoproachCube = moproach cube
     .desc = { ent-RehydratableAnimalCube.desc }

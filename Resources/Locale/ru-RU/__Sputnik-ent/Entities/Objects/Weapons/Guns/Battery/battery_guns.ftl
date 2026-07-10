@@ -25,8 +25,10 @@ ent-WeaponMakeshiftLaser = makeshift laser pistol
 ent-WeaponTeslaGun = tesla gun
     .desc = The power of the primordial element of lightning in your hands.
 
-ent-WeaponLaserCarbine = laser gun
-    .desc = Favoured by Nanotrasen Security for being cheap and easy to use.
+# SIS-Start
+# ent-WeaponLaserCarbine = laser gun
+#     .desc = Favoured by Nanotrasen Security for being cheap and easy to use.
+# SIS-End
 
 ent-WeaponLaserCarbinePractice = practice laser gun
     .desc = This modified laser carbine fires nearly harmless beams in the 40-watt range, for target practice.
@@ -40,8 +42,10 @@ ent-WeaponPulseCarbine = pulse carbine
 ent-WeaponPulseRifle = pulse rifle
     .desc = A weapon almost as infamous as its users.
 
-ent-WeaponLaserCannon = laser cannon
-    .desc = A heavy duty, high powered laser weapon.
+# SIS-Start
+# ent-WeaponLaserCannon = laser cannon
+#     .desc = A heavy duty, high powered laser weapon.
+# SIS-End
 
 ent-WeaponParticleDecelerator = portable particle decelerator
     .desc = A portable particle decelerator capable of decomposing a tesla or singularity.

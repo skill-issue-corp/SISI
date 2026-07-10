@@ -16,8 +16,10 @@ ent-CrateArmoryLaser = lasers crate
 ent-CrateArmoryPistols = pistols crate
     .desc = Contains two standard NT pistols with four mags. Requires Armory access to open.
 
-ent-CrateSecurityRiot = swat crate
-    .desc = Contains two sets of riot armor, helmets, shields, and enforcers loaded with beanbags. Extra ammo is included. Requires Armory access to open.
+# SIS-Start
+# ent-CrateSecurityRiot = swat crate
+#     .desc = Contains two sets of riot armor, helmets, shields, and enforcers loaded with beanbags. Extra ammo is included. Requires Armory access to open.
+# SIS-End
 
 ent-CrateArmoryRifle = rifle crate
     .desc = Contains two high-powered assault rifles with four mags. Requires Armory access to open.

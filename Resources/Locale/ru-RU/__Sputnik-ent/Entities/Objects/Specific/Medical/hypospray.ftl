@@ -10,8 +10,10 @@ ent-SolutionHypospraySmall = { ent-SolutionHypospray }
 ent-SolutionHyposprayTiny = { ent-SolutionHypospray }
     .desc = { ent-SolutionHypospray.desc }
 
-ent-Hypospray = hypospray
-    .desc = A sterile injector for rapid administration of drugs to patients.
+# SIS-Start
+# ent-Hypospray = hypospray
+#     .desc = A sterile injector for rapid administration of drugs to patients.
+# SIS-End
 
 ent-SyndiHypo = gorlex hypospray
     .desc = A sterile injector for rapid administration of drugs. Reverse-engineered from Nanotrasen designs, Cybersun produces these in limited quantities for Gorlex Marauders' corpsmen.

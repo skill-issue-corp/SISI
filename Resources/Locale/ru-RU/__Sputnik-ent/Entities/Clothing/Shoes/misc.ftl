@@ -7,8 +7,10 @@ ent-ClothingShoesLeather = leather shoes
 ent-ClothingShoesSlippers = slippers
     .desc = Fluffy!
 
-ent-ClothingShoeSlippersDuck = ducky slippers
-    .desc = You wish these made quacking sounds as you walked. It's a good thing they don't, though.
+# SIS-Start
+# ent-ClothingShoeSlippersDuck = ducky slippers
+#     .desc = You wish these made quacking sounds as you walked. It's a good thing they don't, though.
+# SIS-End
 
 ent-ClothingShoeSlippersLizard = lizard plushie slippers
     .desc = An adorable pair of slippers that resemble a lizardperson. Combine this with some other green clothing and you'll be the coolest crewmember on the station!

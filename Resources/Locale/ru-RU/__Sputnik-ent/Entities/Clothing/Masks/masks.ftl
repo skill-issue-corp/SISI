@@ -59,8 +59,10 @@ ent-ClothingMaskCluwne = cluwne face and hair
     .desc = Cursed cluwne face and hair.
     .suffix = Unremoveable
 
-ent-ClothingMaskGasSwat = swat gas mask
-    .desc = A elite issue Security gas mask.
+# SIS-Start
+# ent-ClothingMaskGasSwat = swat gas mask
+#     .desc = A elite issue Security gas mask.
+# SIS-End
 
 ent-ClothingMaskGasMerc = mercenary gas mask
     .desc = Slightly outdated, but reliable military-style gas mask.
