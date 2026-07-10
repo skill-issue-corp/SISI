@@ -40,20 +40,22 @@ ent-ClothingOuterHardsuitRd = experimental research hardsuit
 ent-ClothingOuterHardsuitSecurityRed = head of security's hardsuit
     .desc = Lighter and more protective than the standard security hardsuit, but not by much.
 
-ent-ClothingOuterHardsuitLuxury = luxury mining hardsuit
-    .desc = A refurbished mining hardsuit, fashioned after the Quartermaster's colors. Graphene lining provides less protection, but is much easier to move.
-
-ent-ClothingOuterHardsuitSyndie = blood-red hardsuit
-    .desc = A heavily armored hardsuit designed for work in special operations. Property of Gorlex Marauders.
-
-ent-ClothingOuterHardsuitSyndieMedic = blood-red medic hardsuit
-    .desc = A heavily armored and agile advanced hardsuit specifically designed for field medic operations.
-
-ent-ClothingOuterHardsuitSyndieElite = syndicate elite hardsuit
-    .desc = An elite version of the blood-red hardsuit, with improved mobility, fireproofing and heat-resistant armor. Property of Gorlex Marauders.
-
-ent-ClothingOuterHardsuitSyndieCommander = syndicate commander hardsuit
-    .desc = A bulked up version of the blood-red hardsuit, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
+# SIS-Start
+# ent-ClothingOuterHardsuitLuxury = luxury mining hardsuit
+#     .desc = A refurbished mining hardsuit, fashioned after the Quartermaster's colors. Graphene lining provides less protection, but is much easier to move.
+#
+# ent-ClothingOuterHardsuitSyndie = blood-red hardsuit
+#     .desc = A heavily armored hardsuit designed for work in special operations. Property of Gorlex Marauders.
+#
+# ent-ClothingOuterHardsuitSyndieMedic = blood-red medic hardsuit
+#     .desc = A heavily armored and agile advanced hardsuit specifically designed for field medic operations.
+#
+# ent-ClothingOuterHardsuitSyndieElite = syndicate elite hardsuit
+#     .desc = An elite version of the blood-red hardsuit, with improved mobility, fireproofing and heat-resistant armor. Property of Gorlex Marauders.
+#
+# ent-ClothingOuterHardsuitSyndieCommander = syndicate commander hardsuit
+#     .desc = A bulked up version of the blood-red hardsuit, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
+# SIS-End
 
 ent-ClothingOuterHardsuitJuggernaut = cybersun juggernaut suit
     .desc = A suit made by the cutting edge R&D department at Cybersun to be hyper resilient.

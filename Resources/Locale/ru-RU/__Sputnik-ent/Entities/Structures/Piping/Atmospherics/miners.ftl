@@ -40,8 +40,10 @@ ent-GasMinerFrezon = frezon gas miner
 ent-GasMinerWaterVapor = water vapor gas miner
     .desc = { ent-GasMinerBase.desc }
 
-ent-GasMinerAmmonia = ammonia gas miner
-    .desc = { ent-GasMinerBase.desc }
+# SIS-Start
+# ent-GasMinerAmmonia = ammonia gas miner
+#     .desc = { ent-GasMinerBase.desc }
+# SIS-End
 
 ent-GasMinerNitrousOxide = nitrous oxide gas miner
     .desc = { ent-GasMinerBase.desc }

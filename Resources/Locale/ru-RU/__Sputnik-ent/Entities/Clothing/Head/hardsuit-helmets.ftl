@@ -43,11 +43,13 @@ ent-ClothingHeadHelmetHardsuitSecurityRed = head of security's hardsuit helmet
 ent-ClothingHeadHelmetHardsuitLuxury = luxury mining hardsuit helmet
     .desc = A refurbished mining hardsuit helmet, fitted with satin cushioning and an extra (non-functioning) antenna, because you're that extra.
 
-ent-ClothingHeadHelmetHardsuitSyndie = blood-red hardsuit helmet
-    .desc = A heavily armored helmet designed for work in special operations. Property of Gorlex Marauders.
-
-ent-ClothingHeadHelmetHardsuitSyndieMedic = blood-red medic hardsuit helmet
-    .desc = An advanced red hardsuit helmet specifically designed for field medic operations.
+# SIS-Start
+# ent-ClothingHeadHelmetHardsuitSyndie = blood-red hardsuit helmet
+#     .desc = A heavily armored helmet designed for work in special operations. Property of Gorlex Marauders.
+#
+# ent-ClothingHeadHelmetHardsuitSyndieMedic = blood-red medic hardsuit helmet
+#     .desc = An advanced red hardsuit helmet specifically designed for field medic operations.
+# SIS-End
 
 ent-ClothingHeadHelmetHardsuitSyndieElite = syndicate elite hardsuit helmet
     .desc = An elite version of the blood-red hardsuit's helmet, with heat-resistant armor and fireproofing. Property of Gorlex Marauders.
