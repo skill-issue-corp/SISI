@@ -1,1 +1,1 @@
-comp-pda-ui-current-date = Current date: [color=white]{ $date }[/color]
+comp-pda-ui-current-date = Текущая дата: [color=white]{ $date }[/color]
