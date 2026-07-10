@@ -1,33 +1,33 @@
 # Parts
-markings-organ-Butt = Butt
-markings-organ-Tail = Tail
-markings-organ-Wings = Wings
+markings-organ-Butt = Ягодицы
+markings-organ-Tail = Хвост
+markings-organ-Wings = Крылья
 
 # Basic organs
-markings-organ-Brain = Brain
-markings-organ-Tongue = Tongue
-markings-organ-Appendix = Appendix
-markings-organ-Ears = Ears
-markings-organ-Lungs = Lungs
-markings-organ-Heart = Heart
-markings-organ-Stomach = Stomach
-markings-organ-Liver = Liver
-markings-organ-Kidneys = Kidneys
+markings-organ-Brain = Мозг
+markings-organ-Tongue = Язык
+markings-organ-Appendix = Аппендикс
+markings-organ-Ears = Уши
+markings-organ-Lungs = Лёгкие
+markings-organ-Heart = Сердце
+markings-organ-Stomach = Желудок
+markings-organ-Liver = Печень
+markings-organ-Kidneys = Почки
 
 # IPC
-markings-organ-IPCBrain = Positronic Brain
-markings-organ-IPCPump = Micro Pump
+markings-organ-IPCBrain = Позитронный мозг
+markings-organ-IPCPump = Микронасос
 
 # Augments
-markings-organ-AugmentCharger = Augment Charger
-markings-organ-AugmentPowerCell = Augment Power cell
-markings-organ-ArmAugment = Arm Augment
+markings-organ-AugmentCharger = Зарядное устройство аугментации
+markings-organ-AugmentPowerCell = Батарея аугментации
+markings-organ-ArmAugment = Аугментация руки
 
 # Xeno
-markings-organ-AcidGland = Acid Gland
-markings-organ-EggSack = Egg Sack
-markings-organ-HiveNode = Hive Node
-markings-organ-NeurotoxinGland = Neurotoxin Gland
-markings-organ-PlasmaVessel = Plasma Vessel
-markings-organ-ResinSpinner = Resin Spinner
-markings-organ-XenomorphLarva = Xenomorph Larva
+markings-organ-AcidGland = Кислотная железа
+markings-organ-EggSack = Яйцевой мешок
+markings-organ-HiveNode = Узел улья
+markings-organ-NeurotoxinGland = Нейротоксиновая железа
+markings-organ-PlasmaVessel = Плазменный сосуд
+markings-organ-ResinSpinner = Смолопряд
+markings-organ-XenomorphLarva = Личинка ксеноморфа

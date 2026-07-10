@@ -1,4 +1,4 @@
-entity-category-name-surgeries = Surgeries
-entity-category-name-surgery-steps = Surgery Steps
-entity-category-name-wounds = Wounds
-entity-category-name-traumas = Traumas
+entity-category-name-surgeries = Операции
+entity-category-name-surgery-steps = Этапы операции
+entity-category-name-wounds = Раны
+entity-category-name-traumas = Травмы
