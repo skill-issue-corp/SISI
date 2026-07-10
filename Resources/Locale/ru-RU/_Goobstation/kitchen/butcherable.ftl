@@ -1,1 +1,1 @@
-butcherable-deny-absorbed = { CAPITALIZE(THE($victim)) } нечего больше разделывать.
+butcherable-deny-absorbed = { CAPITALIZE($victim) } нечего больше разделывать.

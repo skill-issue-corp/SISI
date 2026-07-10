@@ -1,5 +1,5 @@
 entity-effect-popup-crucified = {CAPITALIZE($entity)} распят!
-entity-effect-popup-mothmaggot-matured = {CAPITALIZE(THE($entity))} стремительно меняется и трансформируется!
+entity-effect-popup-mothmaggot-matured = {CAPITALIZE($entity)} стремительно меняется и трансформируется!
 entity-effect-popup-mothmaggot-maturing = Вы превратитесь в мотророча через {$delay} секунд...
 entity-effect-popup-make-felinid = {CAPITALIZE($entity)} превратился в отвратительного фелинида!
 entity-effect-popup-revert-felinid = {CAPITALIZE($entity)} вернулся в нормальное состояние...

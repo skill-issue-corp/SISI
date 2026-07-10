@@ -194,7 +194,7 @@ MutationTelepathy-window-placeholder = Я в ваших стенах
 
 MutationTongueSpike-mutated = Вы чувствуете, что можете бросать свой голос.
 MutationTongueSpike-popup-no-organ = У вас нет {$organ}, чтобы выстрелить!
-MutationTongueSpike-popup-revert = {CAPITALIZE(THE($child))} трещит и изгибается, меняя форму!
+MutationTongueSpike-popup-revert = {CAPITALIZE($child)} трещит и изгибается, меняя форму!
 
 MutationChemSpike-mutated = Вы чувствуете, что можете по-настоящему сближаться с людьми, бросая свой голос.
 MutationChemSpike-target-set = Связь установлена, используйте действие «Передать химикаты»!
