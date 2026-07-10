@@ -1,3 +1,4 @@
+# SIS-Vanila_Action Start
 name: Publish
 
 concurrency:
@@ -21,9 +22,13 @@ jobs:
     - name: Install dependencies
       run: sudo apt-get install -y python3-paramiko python3-lxml
 
-    - uses: actions/checkout@v4.2.2
+    - uses: actions/checkout@v7
       with:
         submodules: 'recursive'
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v5
+      with:
+        dotnet-version: 10.0.x
 
     - name: Get Engine Tag
       run: |
@@ -37,7 +42,7 @@ jobs:
       run: dotnet build Content.Packaging --configuration Release --no-restore /m
 
     - name: Package server
-      run: dotnet run --project Content.Packaging server --platform linux-x64 # inky
+      run: dotnet run --project Content.Packaging server --platform linux-x64
 
     - name: Package client
       run: dotnet run --project Content.Packaging client --no-wipe-release
@@ -60,3 +65,4 @@ jobs:
       run: Tools/actions_changelog_rss.py
       env:
         CHANGELOG_RSS_KEY: ${{ secrets.CHANGELOG_RSS_KEY }}
+# SIS-Vanila_Action End

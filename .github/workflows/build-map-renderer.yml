@@ -1,4 +1,5 @@
-﻿name: Build & Test Map Renderer
+﻿# SIS-Vanila_Action Start
+name: Build & Test Map Renderer
 
 on:
   push:
@@ -19,7 +20,7 @@ jobs:
 
     steps:
       - name: Checkout Master
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v7
 
       - name: Setup Submodule
         run: |
@@ -34,7 +35,7 @@ jobs:
           git submodule update --init --recursive
 
       - name: Setup .NET Core
-        uses: actions/setup-dotnet@v4.1.0
+        uses: actions/setup-dotnet@v5
         with:
           dotnet-version: 10.0.x
 
@@ -55,3 +56,4 @@ jobs:
     steps:
       - name: CI succeeded
         run: exit 0
+# SIS-Vanila_Action End
