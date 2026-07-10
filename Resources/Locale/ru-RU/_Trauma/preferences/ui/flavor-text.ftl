@@ -1,1 +1,1 @@
-flavor-text-placeholder-trauma = A short visual description of your characters outward appearance. Adding any information other than what could be seen at a first glance here gives both admins and players the right to abuse you in-character.
+flavor-text-placeholder-trauma = Краткое визуальное описание внешности вашего персонажа. Указание здесь любой информации, кроме той, что можно увидеть с первого взгляда, даёт как администрации, так и другим игрокам право использовать это против вас в ролевой игре.

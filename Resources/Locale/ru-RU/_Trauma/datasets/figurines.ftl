@@ -1,3 +1,3 @@
-figurines-tweaking-1 = tweaks!
-figurines-tweaking-2 = is tweaking!
-figurines-tweaking-3 = starts tweaking!
+figurines-tweaking-1 = дёргается!
+figurines-tweaking-2 = дёргается!
+figurines-tweaking-3 = начинает дёргаться!

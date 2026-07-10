@@ -1,5 +1,5 @@
-borg-slot-seeds-empty = Seeds slot
+borg-slot-seeds-empty = Слот для семян
 
-borg-slot-pka-empty = PKA slot
+borg-slot-pka-empty = Слот для ПКА
 
-borg-slot-organ-empty = Organ / limb slot
+borg-slot-organ-empty = Слот для органа / конечности

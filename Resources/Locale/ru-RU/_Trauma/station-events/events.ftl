@@ -1,1 +1,1 @@
-station-event-radiation-storm-announcement = High levels of radiation detected near the station. Maintenance is best shielded from radiation.
+station-event-radiation-storm-announcement = Вблизи станции обнаружен высокий уровень радиации. Технические помещения лучше всего защищены от радиации.

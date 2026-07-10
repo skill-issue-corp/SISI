@@ -1,8 +1,8 @@
-ghost-gui-pick-character-button = Pick Character
+ghost-gui-pick-character-button = Выбрать персонажа
 
-ghost-character-window-title = Ghost Role Characters
+ghost-character-window-title = Персонажи ролей призрака
 ghost-character-window-info =
-    For some ghost roles, you can choose a character
-    that you haven't played in this round.
-    This only affects crew reinforcements and ninjas.
-ghost-character-window-random-character = Generate random human
+    Для некоторых ролей призрака вы можете выбрать персонажа,
+    за которого ещё не играли в этом раунде.
+    Это влияет только на подкрепления экипажа и ниндзя.
+ghost-character-window-random-character = Сгенерировать случайного человека

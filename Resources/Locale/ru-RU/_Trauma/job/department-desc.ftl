@@ -1,1 +1,1 @@
-department-Service-description = Cater to the crew's food and drink needs.
+department-Service-description = Обеспечивайте потребности экипажа в еде и напитках.

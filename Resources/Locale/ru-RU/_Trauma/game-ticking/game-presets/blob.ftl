@@ -1,2 +1,2 @@
-blob-title = Blob
-blob-description = Defend the station from a growing alien mass.
+blob-title = Блоб
+blob-description = Защитите станцию от разрастающейся инопланетной массы.

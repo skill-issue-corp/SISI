@@ -1,2 +1,2 @@
-empty-scroll-prayer-answered = Alll-Mer answers your prayer!
-empty-scroll-prayer-failed = Alll-Mer did not answer your prayer.
+empty-scroll-prayer-answered = Алл-Мер отвечает на вашу молитву!
+empty-scroll-prayer-failed = Алл-Мер не ответил на вашу молитву.

@@ -1,5 +1,5 @@
-trait-no-hypoport-name = No Hypoport
-trait-no-hypoport-desc = Unlike most personnel, having a hypoport creeps you out too much. You won't have a hypoport installed.
+trait-no-hypoport-name = Без гипопорта
+trait-no-hypoport-desc = В отличие от большинства персонала, наличие гипопорта вызывает у вас слишком сильную неприязнь. Вам не будет установлен гипопорт.
 
-trait-swedish-name = Swedish
-trait-swedish-desc = A horrible mutation originating from the distant past. Makes you speak like a real svede.
+trait-swedish-name = Швед
+trait-swedish-desc = Ужасная мутация, зародившаяся в далёком прошлом. Заставляет вас говорить как настоящий швед.

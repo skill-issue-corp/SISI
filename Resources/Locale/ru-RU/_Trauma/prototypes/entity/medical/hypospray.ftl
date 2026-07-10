@@ -1,2 +1,2 @@
-ent-Hypospray = prototype hypospray
-    .desc = A sterile injector for rapid administration of drugs to patients. This advanced prototype has a large internal reservoir, which it can draw solutions into.
+ent-Hypospray = прототип гипоспрея
+    .desc = Стерильный инжектор для быстрого введения препаратов пациентам. Этот продвинутый прототип оснащён вместительным внутренним резервуаром, в который он способен набирать растворы.

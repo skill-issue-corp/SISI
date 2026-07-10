@@ -1,25 +1,25 @@
-round-end-credits-trauma-episode = EPISODE: {$roundid} : "{$title}!"
-round-end-credits-trauma-cast = CAST:
-round-end-credits-trauma-director = EPISODE DIRECTED BY: {$shoutout}
-round-end-credits-trauma-thankyou = Thanks for playing!
-round-end-credits-trauma-player-name-role = {$name}, {$role}, played by {$player}.
-round-end-credits-trauma-close = Close Credits
-round-end-credits-trauma-lastwords-title = Famous Last Words:
+round-end-credits-trauma-episode = ЭПИЗОД: {$roundid} : «{$title}!»
+round-end-credits-trauma-cast = В РОЛЯХ:
+round-end-credits-trauma-director = РЕЖИССЁР ЭПИЗОДА: {$shoutout}
+round-end-credits-trauma-thankyou = Спасибо за игру!
+round-end-credits-trauma-player-name-role = {$name}, {$role}, роль исполнил(а) {$player}.
+round-end-credits-trauma-close = Закрыть титры
+round-end-credits-trauma-lastwords-title = Знаменитые последние слова:
 round-end-credits-trauma-lastwords = {$words} - {$player}
 
-round-end-credits-trauma-show-credits = Show round end movie style credits
+round-end-credits-trauma-show-credits = Показывать титры в стиле финальных сцен фильма
 
-round-end-credits-trauma-created = Created and Directed by
-round-end-credits-trauma-kojima = Hideo Kojima
+round-end-credits-trauma-created = Создано и снято
+round-end-credits-trauma-kojima = Хидео Кодзима
 
-round-end-credits-trauma-jargon = Filmed on location at {$station}
+round-end-credits-trauma-jargon = Снято на станции {$station}
 
-    Filmed with Robust Technology ©
-    Outer space footage provided by NASA
+    Снято с использованием технологии Robust ©
+    Кадры космоса предоставлены NASA
 
-    Unofficially Sponsored By The United States Air Force
+    Неофициально спонсировано Военно-воздушными силами США
 
-    Any Stunts Peformed In This Epsiode Should Not Be Attempted, Ever
-    Nanotrasen Takes No Responsibility For Any Injuries Sustained While On Set
+    Никогда не пытайтесь повторить трюки, показанные в этом эпизоде
+    «Нанотрейзен» не несёт ответственности за любые травмы, полученные на съёмочной площадке
 
-    All Rights Not Reserved
+    Все права не защищены

@@ -1,113 +1,113 @@
 entity-effect-guidebook-delete-entity = {$chance ->
-    [1] deletes
-    *[other] delete
-} the target
-entity-effect-guidebook-force-equip-clothing = force {$chance ->
-    [1] equips
-    *[other] equip
-} {A($name)} to the target's {$slot}
+    [1] удаляет
+    *[other] удаляют
+} цель
+entity-effect-guidebook-force-equip-clothing = принудительно {$chance ->
+    [1] надевает
+    *[other] надевают
+} {A($name)} на {$slot} цели
 
 entity-effect-guidebook-part-add-slot = {$chance ->
-    [1] adds
-    *[other] add
-} a {$slot} slot to the target part
+    [1] добавляет
+    *[other] добавляют
+} слот {$slot} к части тела цели
 
 entity-effect-guidebook-insert-new-organ = {$chance ->
-    [1] inserts
-    *[other] insert
-} a {$organ} into the target part
+    [1] вставляет
+    *[other] вставляют
+} {$organ} в часть тела цели
 
 entity-effect-guidebook-add-to-chemicals = { $chance ->
     [1] { $deltasign ->
-            [1] Adds
-            *[-1] Removes
+            [1] Добавляет
+            *[-1] Удаляет
         }
     *[other]
         { $deltasign ->
-            [1] add
-            *[-1] remove
+            [1] добавляют
+            *[-1] удаляют
         }
-} {NATURALFIXED($amount, 2)}u of {$reagent} { $deltasign ->
-    [1] to
-    *[-1] from
-} the solution
-
-entity-effect-guidebook-make-traitor = { $chance ->
-    [1] makes
-    *[other] make
-} the target a traitor
-
-entity-effect-guidebook-infect-disease = { $chance ->
-    [1] infects
-    *[other] infect
-} the target with {$disease}
-
-entity-effect-guidebook-add-marking = { $chance ->
-    [1] adds
-    *[other] add
-} {$marking} to the target
-entity-effect-guidebook-remove-marking = { $chance ->
-    [1] removes
-    *[other] remove
-} {$marking} to the target
-
-entity-effect-guidebook-speak = Causes involuntary speech
-
-entity-effect-guidebook-scale-entity = Scales the target's size by ({$x}, {y})
-
-entity-effect-guidebook-attack-self = {$chance ->
-    [1] makes
-    *[other] make
-} the target {$canUse ->
-    [true] attack
-    *[false] punch
-} itself
-entity-effect-guidebook-attack-others = {$chance ->
-    [1] makes
-    *[other] make
-} the target attack a random nearby thing
-
-entity-effect-guidebook-start-use-delay = {$chance ->
-    [1] starts
-    *[other] start
-} the {$id} use delay on the target
-
-entity-effect-guidebook-part-remove-slot = {$chance ->
-    [1] removes
-    *[other] remove
-} a {$slot} slot from the target part
-
-entity-effect-guidebook-remove-part = {$chance ->
-    [1] detaches
-    *[other] detach
-} the body part from the body
-
-entity-effect-guidebook-set-standing = {$chance ->
-    [1] makes
-    *[other] make
-} the target {$standing ->
-    [true] stand up
-    *[other] get knocked down
+} {NATURALFIXED($amount, 2)}ед. {$reagent} { $deltasign ->
+    [1] в раствор
+    *[-1] из раствора
 }
 
-entity-effect-guidebook-relay-random-part = for a random part, {$effect}
+entity-effect-guidebook-make-traitor = { $chance ->
+    [1] делает
+    *[other] делают
+} цель предателем
 
-entity-effect-guidebook-nothing = nothing ever {$chance ->
-    [1] happens
-    *[other] happen
+entity-effect-guidebook-infect-disease = { $chance ->
+    [1] заражает
+    *[other] заражают
+} цель болезнью {$disease}
+
+entity-effect-guidebook-add-marking = { $chance ->
+    [1] добавляет
+    *[other] добавляют
+} цели {$marking}
+entity-effect-guidebook-remove-marking = { $chance ->
+    [1] убирает
+    *[other] убирают
+} у цели {$marking}
+
+entity-effect-guidebook-speak = Вызывает непроизвольную речь
+
+entity-effect-guidebook-scale-entity = Масштабирует размер цели на ({$x}, {y})
+
+entity-effect-guidebook-attack-self = {$chance ->
+    [1] заставляет
+    *[other] заставляют
+} цель {$canUse ->
+    [true] атаковать
+    *[false] ударить
+} саму себя
+entity-effect-guidebook-attack-others = {$chance ->
+    [1] заставляет
+    *[other] заставляют
+} цель атаковать случайный объект поблизости
+
+entity-effect-guidebook-start-use-delay = {$chance ->
+    [1] запускает
+    *[other] запускают
+} задержку использования {$id} у цели
+
+entity-effect-guidebook-part-remove-slot = {$chance ->
+    [1] удаляет
+    *[other] удаляют
+} слот {$slot} у части тела цели
+
+entity-effect-guidebook-remove-part = {$chance ->
+    [1] отделяет
+    *[other] отделяют
+} часть тела от тела
+
+entity-effect-guidebook-set-standing = {$chance ->
+    [1] заставляет
+    *[other] заставляют
+} цель {$standing ->
+    [true] встать
+    *[other] упасть
+}
+
+entity-effect-guidebook-relay-random-part = для случайной части тела, {$effect}
+
+entity-effect-guidebook-nothing = ничего никогда не {$chance ->
+    [1] происходит
+    *[other] происходят
 }
 
 entity-effect-guidebook-scramble-dna = {$chance ->
-    [1] scrambles
-    *[other] scramble
-} the target's mutations
+    [1] перемешивает
+    *[other] перемешивают
+} мутации цели
 
 entity-effect-guidebook-move-organ = {$chance ->
-    [1] moves
-    *[other] move
-} the target's {$organ} to its {$dest}
+    [1] перемещает
+    *[other] перемещают
+} {$organ} цели в {$dest}
 
 entity-effect-guidebook-heal-bone-damage = { $chance ->
-     [1] heals
-     *[other] heal
-} {NATURALFIXED($amount, 2)} bone damage
+     [1] исцеляет
+     *[other] исцеляют
+} {NATURALFIXED($amount, 2)} урона костям

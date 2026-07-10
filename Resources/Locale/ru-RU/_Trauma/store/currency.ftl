@@ -1,2 +1,2 @@
-store-currency-display-spesos = spesos
-store-currency-display-fake-spesos = counterfeit spesos
+store-currency-display-spesos = спесо
+store-currency-display-fake-spesos = поддельные спесо

@@ -1,1 +1,1 @@
-light-replacer-area-pickup-popups = You fill up your light replacer.
+light-replacer-area-pickup-popups = Вы заполнили заменитель ламп.

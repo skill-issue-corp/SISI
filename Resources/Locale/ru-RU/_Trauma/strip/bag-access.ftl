@@ -1,11 +1,11 @@
-trauma-bag-access-verb = Open { trauma-bag-access-slot }
+trauma-bag-access-verb = Открыть { trauma-bag-access-slot }
 
 trauma-bag-access-slot = { $slot ->
-    [back] Backpack
-    [belt] Belt
-    [outerClothing] Outer Clothing
+    [back] рюкзак
+    [belt] пояс
+    [outerClothing] верхнюю одежду
     *[other] { $slot }
 }
-trauma-bag-access-popup = { $user } is trying to open your { $slot }!
+trauma-bag-access-popup = { $user } пытается открыть ваш { $slot }!
 
-trauma-strip-jumpsuit-blocked = Remove their outer clothing first!
+trauma-strip-jumpsuit-blocked = Сначала снимите с них верхнюю одежду!

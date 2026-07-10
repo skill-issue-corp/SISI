@@ -1,8 +1,8 @@
-store-category-security = Security
-store-category-specialists = Specialist Officers
+store-category-security = Безопасность
+store-category-specialists = Спецназовцы
 
-store-category-service = Service
-store-category-engineering = Engineering
-store-category-science = Science
-store-category-medical = Medical
-store-category-cargo = Cargo
+store-category-service = Сервис
+store-category-engineering = Инженерия
+store-category-science = Наука
+store-category-medical = Медицина
+store-category-cargo = Снабжение

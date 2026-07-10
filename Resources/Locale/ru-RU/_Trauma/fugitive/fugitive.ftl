@@ -1,15 +1,15 @@
-fugitive-role-greeting = You are a Syndicate Escaped Convict. Your past has finally caught up to you, but you won't let it catch you. Not today.
+fugitive-role-greeting = Вы сбежавший заключённый Синдиката. Ваше прошлое наконец настигло вас, но вы не позволите ему схватить вас. Не сегодня.
 
-hunter-role-greeting = You are a Syndicate Recovery Agent disguised as a Space Police Officer. You have been tasked with catching the fugitives hiding out in this station. Do not get caught. Do not fail.
+hunter-role-greeting = Вы агент по возвращению беглецов Синдиката, замаскированный под офицера космической полиции. Вам поручено поймать беглецов, скрывающихся на этой станции. Не дайте себя поймать. Не подведите.
 
-fugitive-announcement-spacepol = SpacePol
+fugitive-announcement-spacepol = КосмоПол
 
-station-event-fugitive-hunt-announcement = Dangerous fugitives have been spotted aboard the station. Fugitive Hunters have been dispatched. Do not interfere.
+station-event-fugitive-hunt-announcement = На борту станции замечены опасные беглецы. Охотники за беглецами были отправлены на задание. Не мешайте.
 
-fugitive-objective-unknown = unknown fugitive
-fugitive-objective-age-young = young
-fugitive-objective-age-middle = middle-aged
-fugitive-objective-age-old = old
-fugitive-objective-identifier-dna = DNA: {$dna}
-fugitive-objective-identifier-prints = Fingerprint: {$prints}
+fugitive-objective-unknown = неизвестный беглец
+fugitive-objective-age-young = молодой
+fugitive-objective-age-middle = средних лет
+fugitive-objective-age-old = пожилой
+fugitive-objective-identifier-dna = ДНК: {$dna}
+fugitive-objective-identifier-prints = Отпечатки пальцев: {$prints}
 fugitive-objective-description = {$age} {$species} {$sex}

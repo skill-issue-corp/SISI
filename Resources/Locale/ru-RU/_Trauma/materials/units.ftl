@@ -1,2 +1,2 @@
-materials-unit-use = use
-materials-unit-ingot = ingot
+materials-unit-use = использование
+materials-unit-ingot = слиток

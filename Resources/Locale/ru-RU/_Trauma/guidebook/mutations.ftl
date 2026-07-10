@@ -1,5 +1,5 @@
-genetics-mutation-guidebook-difficulty = Difficulty: {$difficulty}
-genetics-mutation-guidebook-instability = Instability: {$instability}
-genetics-mutation-guidebook-recipe = This mutation can be combined from {$required}.
-genetics-mutation-guidebook-locked = This mutation cannot be found randomly on every species.
-genetics-mutation-guidebook-random = This mutation can be found randomly on any species.
+genetics-mutation-guidebook-difficulty = Сложность: {$difficulty}
+genetics-mutation-guidebook-instability = Нестабильность: {$instability}
+genetics-mutation-guidebook-recipe = Эту мутацию можно получить комбинацией из {$required}.
+genetics-mutation-guidebook-locked = Эту мутацию нельзя получить случайным образом у любого вида.
+genetics-mutation-guidebook-random = Эту мутацию можно получить случайным образом у любого вида.

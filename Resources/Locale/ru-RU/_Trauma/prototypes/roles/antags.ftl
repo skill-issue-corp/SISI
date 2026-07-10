@@ -1,17 +1,17 @@
-roles-antag-insurgent-name = Insurgent
-roles-antag-insurgent-objective = Work your way onto the station, cause trouble and try to take over!
+roles-antag-insurgent-name = повстанец
+roles-antag-insurgent-objective = Проберитесь на станцию, устройте хаос и попытайтесь захватить её!
 
-insurgent-round-end-agent-name = insurgent
+insurgent-round-end-agent-name = повстанец
 
-objective-issuer-insurgents = Insurgents
+objective-issuer-insurgents = повстанцы
 
-insurgency-title = Insurgency
-insurgency-description = Insurgents are among us...
+insurgency-title = мятеж
+insurgency-description = Повстанцы среди нас...
 
-roles-antag-shadow-demon-name = Shadow Demon
-roles-antag-shadow-demon-objective = The darkness needs a King, and you got summoned to wear that crown.
+roles-antag-shadow-demon-name = теневой демон
+roles-antag-shadow-demon-objective = Тьме нужен Король, и вас призвали, чтобы носить эту корону.
 
-roles-antag-mind-controlled-name = Mind Controlled
-roles-antag-mind-controlled-objective = Help your Master
+roles-antag-mind-controlled-name = под контролем разума
+roles-antag-mind-controlled-objective = Помогите своему Хозяину
 
 never-shown = !

@@ -1,10 +1,10 @@
-guide-entry-heretic-rituals = Rituals and Knowledge
-guide-entry-heretic-potions = Potions
+guide-entry-heretic-rituals = Ритуалы и знания
+guide-entry-heretic-potions = Зелья
 
-guide-entry-heretic-ash = Ashen Path
-guide-entry-heretic-void = Path of Void
-guide-entry-heretic-flesh = Path of Flesh
-guide-entry-heretic-lock = Path of Lock
-guide-entry-heretic-rust = Rusted Path
-guide-entry-heretic-blade = Path of Blade
-guide-entry-heretic-cosmos = Path of Cosmos
+guide-entry-heretic-ash = Пепельный путь
+guide-entry-heretic-void = Путь Пустоты
+guide-entry-heretic-flesh = Путь Плоти
+guide-entry-heretic-lock = Путь Замка
+guide-entry-heretic-rust = Ржавый путь
+guide-entry-heretic-blade = Путь Клинка
+guide-entry-heretic-cosmos = Путь Космоса

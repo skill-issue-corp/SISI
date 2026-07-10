@@ -1,2 +1,2 @@
-viewcone-modifier-examine-increase = Wearing this will increase your field of vision's angle by [color=green]{$percent}[/color]%.
-viewcone-modifier-examine-decrease = Wearing this will decrease your field of vision's angle by [color=crimson]{$percent}[/color]%.
+viewcone-modifier-examine-increase = Ношение этого увеличит угол вашего поля зрения на [color=green]{$percent}[/color]%.
+viewcone-modifier-examine-decrease = Ношение этого уменьшит угол вашего поля зрения на [color=crimson]{$percent}[/color]%.

@@ -1,5 +1,5 @@
-objective-condition-blood-title = The Hunger
-objective-condition-blood-description = Your hunger is immense. In order to satisfy it, you must drink {$count} blood, and reach your final form!
+objective-condition-blood-title = Голод
+objective-condition-blood-description = Ваш голод безмерен. Чтобы утолить его, вам нужно выпить {$count} крови и достичь своей окончательной формы!
 
-objective-condition-bloodsuck-title = The Hunt
-objective-condition-bloodsuck-description = You must hunt for blood. Suck {$count} different victims, and use their blood to your advantage!
+objective-condition-bloodsuck-title = Охота
+objective-condition-bloodsuck-description = Вам нужно охотиться за кровью. Укусите {$count} разных жертв и обратите их кровь себе на пользу!

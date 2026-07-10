@@ -1,1 +1,1 @@
-objective-salvage-mine-desc = Mine rock and break stones, the quota is {$quota} mining points!
+objective-salvage-mine-desc = Добывайте руду и разбивайте камни, норма — {$quota} очков добычи!

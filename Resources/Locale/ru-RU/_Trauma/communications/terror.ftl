@@ -1,5 +1,5 @@
 # alien 3 reference
-terror-xenomorphs = Attention crew, it appears that someone on your station has made an unexpected communication with a strange meteorite in nearby space.
-terror-bingle = Attention crew, it appears... bingle??
-terror-shadows = Attention crew, it appears that someone on your station has beckoned something from the shadows...
-terror-minor-antags = Attention crew, it appears that someone on your station has made an unexpected communication with a band of incoming hooligans and criminals.
+terror-xenomorphs = Внимание, экипаж, похоже, кто-то на вашей станции неожиданно вышел на связь со странным метеоритом в ближайшем космосе.
+terror-bingle = Внимание, экипаж, похоже... бингл??
+terror-shadows = Внимание, экипаж, похоже, кто-то на вашей станции призвал нечто из теней...
+terror-minor-antags = Внимание, экипаж, похоже, кто-то на вашей станции неожиданно вышел на связь с приближающейся бандой хулиганов и преступников.

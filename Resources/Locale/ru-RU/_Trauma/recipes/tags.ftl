@@ -1,69 +1,69 @@
 # revs
-construction-graph-tag-seccomms = secrity encryption key
-construction-graph-tag-turretboard = revolutionary turret circuit board
-construction-graph-tag-hand-teleporter = hand teleporter
-construction-graph-tag-RCD = RCD
-construction-graph-tag-encryption-revolutionary = revolutionary encryption key
-construction-graph-tag-techfabmachineboard = any techfab machine board
-construction-graph-tag-armorplate = an armor plate
-construction-graph-tag-reflectiveplate = a reflective plate
-construction-graph-tag-AdvancedMagboots = the Chief Engineer's magboots
-construction-graph-tag-RevID = a revolutionary ID card
-construction-graph-tag-RocketFrame = a rocket frame
-construction-graph-tag-FlamethrowerTank = an empty fuel tank
-construction-graph-tag-QMBoard = the requisition digi-board
-construction-graph-tag-fusion-core = a fusion core
+construction-graph-tag-seccomms = ключ шифрования службы безопасности
+construction-graph-tag-turretboard = плата революционной турели
+construction-graph-tag-hand-teleporter = ручной телепортер
+construction-graph-tag-RCD = БСУ
+construction-graph-tag-encryption-revolutionary = ключ шифрования революционеров
+construction-graph-tag-techfabmachineboard = любую плату машины техфаба
+construction-graph-tag-armorplate = бронеплиту
+construction-graph-tag-reflectiveplate = отражающую пластину
+construction-graph-tag-AdvancedMagboots = магнитные ботинки старшего инженера
+construction-graph-tag-RevID = ID-карту революционера
+construction-graph-tag-RocketFrame = каркас ракеты
+construction-graph-tag-FlamethrowerTank = пустой топливный бак
+construction-graph-tag-QMBoard = цифроплату снабжения
+construction-graph-tag-fusion-core = термоядерное ядро
 
 # tools
-construction-graph-tag-welder-experimental = an experimental welding tool
-construction-graph-tag-overridekeycomponents = override key components
+construction-graph-tag-welder-experimental = экспериментальный сварочный инструмент
+construction-graph-tag-overridekeycomponents = компоненты ключа переопределения
 
 # structures
-construction-graph-tag-nail = a nail
-construction-graph-tag-remotesignaller = any remote signaller
-construction-graph-tag-pipebomb = a pipebomb
-construction-graph-tag-signaltrigger = a signal trigger
+construction-graph-tag-nail = гвоздь
+construction-graph-tag-remotesignaller = любой удалённый сигнализатор
+construction-graph-tag-pipebomb = трубную бомбу
+construction-graph-tag-signaltrigger = сигнальный триггер
 
 # robots
-construction-graph-tag-butt = a butt
-construction-graph-tag-cyber-butt = an ipc groin
-construction-graph-tag-egg = any egg
+construction-graph-tag-butt = ягодицы
+construction-graph-tag-cyber-butt = пах КПЛ
+construction-graph-tag-egg = любое яйцо
 
 # weapons
-construction-graph-tag-improvised-bow = an improvised bow
-construction-graph-tag-any-spear = any spear
-construction-graph-tag-firebomb = a firebomb
-construction-graph-tag-woodensword = a wooden sword
+construction-graph-tag-improvised-bow = самодельный лук
+construction-graph-tag-any-spear = любое копьё
+construction-graph-tag-firebomb = зажигательную бомбу
+construction-graph-tag-woodensword = деревянный меч
 
 # food
-construction-graph-tag-CookedEgg = a cooked egg
+construction-graph-tag-CookedEgg = варёное яйцо
 
 # forging
-construction-graph-tag-brassscraps = brass scraps
-construction-graph-tag-plasteelscraps = plasteel scraps
-construction-graph-tag-steelscraps = steel scraps
-construction-graph-tag-anviltop = the top half of an anvil
-construction-graph-tag-ingotsteel = hot steel ingot
-construction-graph-tag-ingotbrass = hot brass ingot
-construction-graph-tag-ingotplasteel = hot plasteel ingot
-construction-graph-tag-cement = cement
-construction-graph-tag-brass = brass part
-construction-graph-tag-steel = steel part
-construction-graph-tag-plasteel = plasteel part
-construction-graph-tag-smallhandle = short handle
-construction-graph-tag-mediumhandle = medium handle
-construction-graph-tag-largehandle = wooden pole
-construction-graph-tag-arrow-shaft = an arrow shaft
+construction-graph-tag-brassscraps = обрезки латуни
+construction-graph-tag-plasteelscraps = обрезки пластали
+construction-graph-tag-steelscraps = обрезки стали
+construction-graph-tag-anviltop = верхнюю половину наковальни
+construction-graph-tag-ingotsteel = горячий слиток стали
+construction-graph-tag-ingotbrass = горячий слиток латуни
+construction-graph-tag-ingotplasteel = горячий слиток пластали
+construction-graph-tag-cement = цемент
+construction-graph-tag-brass = деталь из латуни
+construction-graph-tag-steel = деталь из стали
+construction-graph-tag-plasteel = деталь из пластали
+construction-graph-tag-smallhandle = короткую рукоять
+construction-graph-tag-mediumhandle = среднюю рукоять
+construction-graph-tag-largehandle = деревянный шест
+construction-graph-tag-arrow-shaft = древко стрелы
 
 # Crafting
-construction-graph-tag-recharging-board = any recharger circuit board
-construction-graph-tag-part-capacitor = a capacitor
-construction-graph-tag-part-metal-container = any metal container
+construction-graph-tag-recharging-board = любую плату зарядного устройства
+construction-graph-tag-part-capacitor = конденсатор
+construction-graph-tag-part-metal-container = любой металлический контейнер
 
 # Security
-construction-graph-tag-stun-baton = stun baton
+construction-graph-tag-stun-baton = электрошоковую дубинку
 
 # Demonology
-construction-graph-tag-bloodvial = a full blood vial
-construction-graph-tag-demonsoul = a demonic soul fragment
-construction-graph-tag-bible = any holy book
+construction-graph-tag-bloodvial = полную колбу крови
+construction-graph-tag-demonsoul = фрагмент демонической души
+construction-graph-tag-bible = любую священную книгу

@@ -1,8 +1,8 @@
-shadow-demon-round-end-agent-name = shadow demon
+shadow-demon-round-end-agent-name = теневой демон
 
 shadow-demon-role-greeting =
-    You are a shadow demon!
-    You are a lethal ambush predator who thrives in the darkness, calling upon the shadows to heal your injured form and increase your speed.
-    Light is however your worst enemy and being exposed for too long will be fatal.
-    Striking your victims with your shadow grapple extinguishes any light sources around them. Striking items silences any light within them.
-    You can wrap your dead victims into a shadow cocoon which provides a shroud of darkness that tears away any light near it.
+    Вы теневой демон!
+    Вы смертоносный хищник-засадник, процветающий во тьме, призывающий тени, чтобы исцелить свою раненую форму и увеличить скорость.
+    Однако свет — ваш злейший враг, и слишком долгое пребывание под ним будет для вас смертельным.
+    Поражая жертв своей теневой хваткой, вы гасите все источники света рядом с ними. Поражая предметы, вы заглушаете свет внутри них.
+    Вы можете завернуть тела своих жертв в теневой кокон, создающий покров тьмы, разрывающий любой свет поблизости.

@@ -1,13 +1,13 @@
-reagent-name-lab-grown-nutriment = lab grown nutriment
-reagent-desc-lab-grown-nutriment = You aren't really sure where this comes from...
-reagent-popup-lab-grown-nutriment = Your heart hurts after eating that.
+reagent-name-lab-grown-nutriment = лабораторный питательный концентрат
+reagent-desc-lab-grown-nutriment = Вы не совсем уверены, откуда это взялось...
+reagent-popup-lab-grown-nutriment = После употребления этого у вас болит сердце.
 
-reagent-name-full-fat-oils = full fried oils
-reagent-desc-full-fat-oils = 101% fat!
-reagent-popup-full-fat-oils = You can feel your cholesterol levels rising after eating that.
+reagent-name-full-fat-oils = сильно прожаренные масла
+reagent-desc-full-fat-oils = 101% жира!
+reagent-popup-full-fat-oils = Вы чувствуете, как после этого повышается уровень холестерина.
 
-reagent-name-nutrislime = nutrislime
-reagent-desc-nutrislime = Highly condensed superfood, specifically designed for slimes to eat.
+reagent-name-nutrislime = нутрислизь
+reagent-desc-nutrislime = Сильно концентрированный суперфуд, специально разработанный для питания слаймов.
 
-reagent-name-coconut-flesh = coconut flesh
-reagent-desc-coconut-flesh = The flesh of a coconut, which despite their name are not nuts.
+reagent-name-coconut-flesh = мякоть кокоса
+reagent-desc-coconut-flesh = Мякоть кокоса, который, несмотря на название, орехом не является.

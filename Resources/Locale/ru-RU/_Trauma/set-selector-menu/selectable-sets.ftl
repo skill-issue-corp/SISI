@@ -1,42 +1,42 @@
 # Syndicate
 
-selectable-set-syndicate-lawyer-name = Syndicate Lawyer Bundle
+selectable-set-syndicate-lawyer-name = Набор синдикатского адвоката
 selectable-set-syndicate-lawyer-description =
-    The law is on your side, this time.
-    Contains: red lawyer suit, syndicate sun glasses,
-    lawyer badge, lawyer PDA, chameleon headset, chameleon
-    backpack, syndicate encryption key, lawyer's stamp,
-    cybersun pen, space law book, syndicate cane, syndicate stamp,
-    dna scrambler implant, briefcase smg and three magazines.
+    На этот раз закон на вашей стороне.
+    Содержит: красный костюм адвоката, солнцезащитные очки синдиката,
+    значок адвоката, ПДА адвоката, хамелеон-гарнитуру, хамелеон-
+    рюкзак, ключ шифрования синдиката, печать адвоката,
+    ручку Кибер Солнца, книгу космического права, трость синдиката, штамп синдиката,
+    имплант ДНК-скремблера, пистолет-пулемёт в кейсе и три магазина.
 
-selectable-set-syndicate-no-russian-name = Syndicate Terrorist Bundle
+selectable-set-syndicate-no-russian-name = Набор синдикатского террориста
 selectable-set-no-russian-description =
-    Remember, No Russian.
-    Contains: black lawyer suit, chest rig, syndicate sun glasses,
-    syndicate encryption key, L6 SAW and 4 L6 SAW magazine box.
+    Помните, No Russian.
+    Содержит: чёрный костюм адвоката, разгрузочный жилет, солнцезащитные очки синдиката,
+    ключ шифрования синдиката, пулемёт L6 SAW и 4 коробки магазинов для L6 SAW.
 
-selectable-set-syndicate-pirate-captain-name = Syndicate Pirate Captain Bundle
+selectable-set-syndicate-pirate-captain-name = Набор синдикатского капитана пиратов
 selectable-set-syndicate-pirate-captain-description =
-    Yo ho, yo ho, A pirate's life for me!
-    Contains: pirate slops, pirate hat, pirate captain cloak,
-    syndicate magboots, explorer gas mask, pirate captain's hardsuit,
-    eyepatch, freelancer's over-ear headset, pirate PDA,
-    syndicate encryption key, pirate revolver, two speedloaders,
-    pirate cannon, two cannonballs, two grapeshot,
-    two glassshot, energy cutlass, and a microbomb implant.
+    Йо-хо, йо-хо, жизнь пирата по мне!
+    Содержит: пиратскую робу, пиратскую шляпу, плащ капитана пиратов,
+    магнитные ботинки синдиката, противогаз исследователя, скафандр капитана пиратов,
+    повязку на глаз, наушники фрилансера, ПДА пирата,
+    ключ шифрования синдиката, пиратский револьвер, два спидлоадера,
+    пиратскую пушку, два пушечных ядра, два заряда картечи,
+    два стеклянных заряда, энергетическую саблю и имплант микробомбы.
 
-selectable-set-syndicate-engineer-name = Syndicate Engineer Bundle
+selectable-set-syndicate-engineer-name = Набор синдикатского инженера
 selectable-set-syndicate-engineer-description =
-    This bundle has been engineered to cause maximum damage.
-    Contains: syndicate repairman jumpsuit, workboots, hi-viz vest,
-    armored hardhat, syndicate encryption key, acoustic guitar,
-    suspicious toolbox, power sink, two impact emp grenades,
-    two explosive grenades, and four turrets.
+    Этот набор спроектирован для причинения максимального ущерба.
+    Содержит: синдикатский комбинезон ремонтника, рабочие ботинки, сигнальный жилет,
+    бронированную каску, ключ шифрования синдиката, акустическую гитару,
+    подозрительный ящик с инструментами, поглотитель энергии, две импульсные ЭМИ-гранаты,
+    две осколочные гранаты и четыре турели.
 
-selectable-set-syndicate-door-kicker-name = Syndicate Door Kicker Bundle
+selectable-set-syndicate-door-kicker-name = Набор синдикатского взломщика дверей
 selectable-set-syndicate-door-kicker-description =
-    Kick, blast or shoot your way in with this bundle.
-    Contains: operative jumpsuit, combat gloves, thermal vision goggles,
-    syndicate operative pda, web vest, chest rig, syndicate gas mask,
-    syndicate jaws of death, 'bojevic' combat shotgun, shell box,
-    syndicate encryption key, and two C-4.
+    Выбивайте, взрывайте или отстреливайте себе путь с этим набором.
+    Содержит: комбинезон оперативника, боевые перчатки, очки теплового зрения,
+    ПДА синдикатского оперативника, тактический жилет, разгрузочный жилет, противогаз синдиката,
+    синдикатские "челюсти смерти", боевой дробовик "боевич", коробку патронов,
+    ключ шифрования синдиката и два C-4.

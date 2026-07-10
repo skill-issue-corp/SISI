@@ -1,11 +1,11 @@
-signal-port-name-circuit-1 = Circuit IO 1
-signal-port-name-circuit-2 = Circuit IO 2
-signal-port-name-circuit-3 = Circuit IO 3
-signal-port-name-circuit-4 = Circuit IO 4
-signal-port-name-circuit-5 = Circuit IO 5
-signal-port-name-circuit-6 = Circuit IO 6
-signal-port-name-circuit-7 = Circuit IO 7
-signal-port-name-circuit-8 = Circuit IO 8
+signal-port-name-circuit-1 = Ввод/вывод схемы 1
+signal-port-name-circuit-2 = Ввод/вывод схемы 2
+signal-port-name-circuit-3 = Ввод/вывод схемы 3
+signal-port-name-circuit-4 = Ввод/вывод схемы 4
+signal-port-name-circuit-5 = Ввод/вывод схемы 5
+signal-port-name-circuit-6 = Ввод/вывод схемы 6
+signal-port-name-circuit-7 = Ввод/вывод схемы 7
+signal-port-name-circuit-8 = Ввод/вывод схемы 8
 
-signal-port-description-circuit-input = A general purpose input that gets sent to the installed circuit.
-signal-port-description-circuit-output = A general purpose output that gets invoked by the installed circuit.
+signal-port-description-circuit-input = Универсальный вход, который передаётся в установленную схему.
+signal-port-description-circuit-output = Универсальный выход, который вызывается установленной схемой.

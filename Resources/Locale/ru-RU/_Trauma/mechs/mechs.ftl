@@ -1,2 +1,2 @@
-t45-construction-guide-string = Attach all parts of the T-45 armor to the frame.
-ripleymkii-construction-guide-string = Attach all the parts of the ripley mech and the upgrade kit to the frame.
+t45-construction-guide-string = Прикрепите все части брони T-45 к каркасу.
+ripleymkii-construction-guide-string = Прикрепите все части меха «Рипли» и комплект улучшения к каркасу.

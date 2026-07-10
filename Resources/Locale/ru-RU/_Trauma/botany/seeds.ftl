@@ -1,11 +1,11 @@
-seeds-lemonade-name = lemonade
-seeds-lemonade-display-name = lemonade trees
+seeds-lemonade-name = лимонад
+seeds-lemonade-display-name = лимонадные деревья
 
-seeds-cocaplant-name = coca leaf
-seeds-cocaplant-display-name = coca plant
+seeds-cocaplant-name = лист коки
+seeds-cocaplant-display-name = куст коки
 
-seeds-coconut-name = coconut
-seeds-coconut-display-name = coconut trees
+seeds-coconut-name = кокос
+seeds-coconut-display-name = кокосовые деревья
 
-seeds-cherrybomb-name = cherry bomb
-seeds-cherrybomb-display-name = cherry bomb trees
+seeds-cherrybomb-name = вишнёвая бомба
+seeds-cherrybomb-display-name = деревья вишнёвой бомбы

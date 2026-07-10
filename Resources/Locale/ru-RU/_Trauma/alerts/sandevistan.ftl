@@ -1,6 +1,6 @@
-alerts-sandevistan-load-name = [color=cyan]Cyberware Load[/color]
-alerts-sandevistan-load-desc = Current load level of your sandevistan implant. Higher values mean greater strain on your body.
-    At [color=yellow]{ SANDE_THRESHOLD("warning") }[/color] you will start receiving warnings.
-    At [color=orange]{ SANDE_THRESHOLD("shaking") }[/color] you will begin shaking uncontrollably.
-    At [color=red]{ SANDE_THRESHOLD("damage") }[/color] you will start taking physical damage.
-    At [color=darkred]{ SANDE_THRESHOLD("disable") }[/color] the implant will forcefully shut down.
+alerts-sandevistan-load-name = [color=cyan]Нагрузка кибермодуля[/color]
+alerts-sandevistan-load-desc = Текущий уровень нагрузки вашего импланта «сандевистан». Чем выше значение, тем сильнее нагрузка на ваше тело.
+    При [color=yellow]{ SANDE_THRESHOLD("warning") }[/color] вы начнёте получать предупреждения.
+    При [color=orange]{ SANDE_THRESHOLD("shaking") }[/color] вас начнёт неконтролируемо трясти.
+    При [color=red]{ SANDE_THRESHOLD("damage") }[/color] вы начнёте получать физический урон.
+    При [color=darkred]{ SANDE_THRESHOLD("disable") }[/color] имплант принудительно отключится.

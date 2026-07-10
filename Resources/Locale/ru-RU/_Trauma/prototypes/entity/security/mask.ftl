@@ -1,2 +1,2 @@
-ent-ClothingMaskGasSwat = swat gas mask
-    .desc = An elite issue Security gas mask.
+ent-ClothingMaskGasSwat = штурмовой противогаз
+    .desc = Элитный противогаз службы безопасности.

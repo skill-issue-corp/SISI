@@ -1,13 +1,13 @@
-roles-antag-vampire-name = Vampire
-roles-antag-vampire-objective = Suck the blood of the crew, and reach full power.
+roles-antag-vampire-name = Вампир
+roles-antag-vampire-objective = Пейте кровь экипажа и достигните полной силы.
 
-vampire-role-briefing = You are a Vampire! To bite someone, target the head and use harm intent with an empty hand. Drink blood to gain new powers.
-                        You are weak to holy things, starlight, and fire. Don't go into space and avoid the Chaplain, the chapel, and especially Holy Water.
+vampire-role-briefing = Вы вампир! Чтобы укусить кого-то, цельтесь в голову и используйте намерение навредить с пустой рукой. Пейте кровь, чтобы получать новые способности.
+                        Вы уязвимы к святым предметам, свету звёзд и огню. Не выходите в космос и избегайте капеллана, часовни и особенно святой воды.
 
-objective-issuer-vampire = [color=Red]Vampire[/color]
+objective-issuer-vampire = [color=Red]Вампир[/color]
 
-roles-antag-vampire-thrall-name = Vampire Thrall
-roles-antag-vampire-thrall-objective = Follow the directions of your master.
+roles-antag-vampire-thrall-name = Раб вампира
+roles-antag-vampire-thrall-objective = Следуйте указаниям своего хозяина.
 
-vampire-preset-title = Vampires
-vampire-preset-description = Hungry bloodsuckers hide among the crew.
+vampire-preset-title = Вампиры
+vampire-preset-description = Голодные кровопийцы прячутся среди экипажа.

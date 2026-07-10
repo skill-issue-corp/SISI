@@ -1,1 +1,1 @@
-sandbox-window-show-areas-button = Show Areas
+sandbox-window-show-areas-button = Показать зоны

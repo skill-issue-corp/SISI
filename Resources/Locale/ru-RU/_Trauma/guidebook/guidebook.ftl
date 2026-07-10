@@ -1,1 +1,1 @@
-guidebook-reagent-effects-group-conditions = The following effects only work when:
+guidebook-reagent-effects-group-conditions = Следующие эффекты работают только при следующих условиях:

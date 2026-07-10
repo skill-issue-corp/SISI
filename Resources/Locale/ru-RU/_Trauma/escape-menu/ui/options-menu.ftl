@@ -1,20 +1,20 @@
-ui-escape-source-code = Source Code
+ui-escape-source-code = Исходный код
 
-ui-options-streamer-mode = Streamer Mode
-ui-options-hear-self = Hear Self
+ui-options-streamer-mode = Режим стримера
+ui-options-hear-self = Слышать себя
 
-ui-options-function-tackle = Tackle
-ui-options-function-strafe = Strafe (Face cursor)
+ui-options-function-tackle = Захват
+ui-options-function-strafe = Страфинг (лицом к курсору)
 
-ui-options-show-skill-popups = Show Skill Popups
+ui-options-show-skill-popups = Показывать всплывающие окна навыков
 
-ui-options-function-open-mentor = Open admin and mentor help
-ui-options-function-open-martial-arts-menu = Pick Martial Arts
+ui-options-function-open-mentor = Открыть помощь администратора и наставника
+ui-options-function-open-martial-arts-menu = Выбрать боевые искусства
 
-ui-options-mouse-wheel-zoom = Can zoom using mouse wheel
-ui-options-mouse-wheel-rotate = Can rotate camera using mouse wheel
-ui-options-mouse-wheel-targeting = Can change target part using mouse wheel
+ui-options-mouse-wheel-zoom = Можно масштабировать колёсиком мыши
+ui-options-mouse-wheel-rotate = Можно вращать камеру колёсиком мыши
+ui-options-mouse-wheel-targeting = Можно менять целевую часть тела колёсиком мыши
 
-ui-options-function-targeting-mod = Targeting cycle mod key (Mouse Wheel)
-ui-options-function-zoom-mod = Camera zoom mod key (Mouse Wheel)
-ui-options-function-rotate-mod = Rotate mod key (Mouse Wheel)
+ui-options-function-targeting-mod = Клавиша-модификатор смены цели (колёсико мыши)
+ui-options-function-zoom-mod = Клавиша-модификатор масштабирования камеры (колёсико мыши)
+ui-options-function-rotate-mod = Клавиша-модификатор вращения (колёсико мыши)

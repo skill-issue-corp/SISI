@@ -1,3 +1,3 @@
-securitron-target-arrested = { THE($entity) } has been arrested near {$location}.
-petting-success-secbot = You pet {THE($target)} on {POSS-ADJ($target)} bloody metal head.
-petting-failure-secbot = You reach out to pet {THE($target)}, but {SUBJECT($target)} shocks you!
+securitron-target-arrested = { $entity } был(-а) арестован(-а) возле {$location}.
+petting-success-secbot = Вы гладите {$target} по окровавленной металлической голове.
+petting-failure-secbot = Вы тянетесь погладить {$target}, но {SUBJECT($target)} бьёт вас током!

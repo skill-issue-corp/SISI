@@ -1,6 +1,6 @@
-spellbook-bottle-shadow-name = Bottle of Shadows
+spellbook-bottle-shadow-name = Бутылка теней
 spellbook-bottle-shadow-desc =
-    A bottle of pure darkness, the smell of which will attract extradimensional beings when broken.
-    Be careful though, the kinds of creatures summoned from the shadows are indiscriminate in their killing,
-    and you yourself may become a victim.
-    You need to shatter the bottle to unleash the shadow demon.
+    Бутылка чистой тьмы, запах которой при разбитии привлечёт существ из иных измерений.
+    Однако будьте осторожны: твари, призванные из теней, убивают без разбора,
+    и вы сами можете стать их жертвой.
+    Чтобы выпустить теневого демона, бутылку нужно разбить.

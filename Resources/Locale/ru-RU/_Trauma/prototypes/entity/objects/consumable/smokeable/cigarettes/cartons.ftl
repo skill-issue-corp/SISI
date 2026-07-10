@@ -1,23 +1,23 @@
-ent-CigCartonGreen = Newstation Carton
-    .desc = A carton containing 6 packs of Newstations.
+ent-CigCartonGreen = Картонная упаковка Newstation
+    .desc = Картонная упаковка, содержащий 6 пачек Newstation.
 
-ent-CigCartonRed = Dromad Red 99 Carton
-    .desc = A carton containing 6 packs of Dromad Red 99s.
+ent-CigCartonRed = Картонная упаковка Dromad Red 99
+    .desc = Картонная упаковка, содержащий 6 пачек Dromad Red 99s.
 
-ent-CigCartonBlack = Solaria Carton
-    .desc = A carton containing 6 packs of Solaria.
+ent-CigCartonBlack = Картонная упаковка Solaria
+    .desc = Картонная упаковка, содержащий 6 пачек Solaria.
 
-ent-CigCartonBlue = Sodfield Blue Carton
-    .desc = A carton containing 6 packs of Sodfield Blues.
+ent-CigCartonBlue = Картонная упаковка Sodfield Blue
+    .desc = Картонная упаковка, содержащий 6 пачек Sodfield Blues.
 
-ent-CigCartonMixed = Dan's Soaked Smokes Carton
-    .desc = A carton containing 6 packs of Dan's Soaked Smokes.
+ent-CigCartonMixed = Картонная упаковка пропитанных сигарет Дэна
+    .desc = Картонная упаковка, содержащий 6 пачек пропитанных сигарет Дэна.
 
-ent-CigCartonSyndicate = Interdyne Herbals Carton
-    .desc = A carton containing 6 packs of Interdyne Herbals.
+ent-CigCartonSyndicate = Картонная упаковка Interdyne Herbals
+    .desc = Картонная упаковка, содержащий 6 пачек Interdyne Herbals.
 
-ent-CigCartonMedical = ChemLab Menthols Carton
-    .desc = A carton containing 6 packs of ChemLab Menthols.
+ent-CigCartonMedical = Картонная упаковка ChemLab Menthols
+    .desc = Картонная упаковка, содержащий 6 пачек ChemLab Menthols.
 
-ent-CigCartonBotany = Hydroponic Herbals Carton
-    .desc = A carton containing 6 packs of Hydroponic Herbals.
+ent-CigCartonBotany = Картонная упаковка Hydroponic Herbals
+    .desc = Картонная упаковка, содержащий 6 пачек Hydroponic Herbals.

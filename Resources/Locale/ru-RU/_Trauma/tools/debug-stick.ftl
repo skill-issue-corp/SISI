@@ -1,1 +1,1 @@
-debug-effect-stick-window-title = Debug Effect Stick
+debug-effect-stick-window-title = Debug палочка эффектов

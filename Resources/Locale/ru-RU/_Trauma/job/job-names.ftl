@@ -1,3 +1,3 @@
-job-name-d-class = Prisoner
+job-name-d-class = Заключённый
 
-job-name-spacepol = SpacePol Officer
+job-name-spacepol = Офицер СпейсПола

@@ -1,2 +1,2 @@
-ent-MothroachCube = mothmaggot cube
-    .desc = Just add water!
+ent-MothroachCube = кубик мотличинки
+    .desc = Просто добавь воды!

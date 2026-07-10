@@ -1,2 +1,2 @@
-zombie-cburn-call = We have detected that a majority of the crew is undead. A specialized response force has been dispatched.
-zombie-gamerule-started = Attention crew, trace amounts of a highly infectious disease have been detected in the station. Please prepare to shelter in place and avoid infected crew members.
+zombie-cburn-call = Мы обнаружили, что большая часть экипажа обратилась в нежить. К вам направлен специальный отряд реагирования.
+zombie-gamerule-started = Внимание, экипаж, на станции обнаружены следовые количества крайне заразного заболевания. Пожалуйста, приготовьтесь укрыться на месте и избегайте контакта с заражёнными членами экипажа.

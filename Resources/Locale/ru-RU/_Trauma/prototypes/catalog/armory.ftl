@@ -1,2 +1,2 @@
-ent-CrateSecurityRiot = swat crate
-    .desc = Contains two sets of riot armor, helmets, shields, and enforcers loaded with beanbags. Extra ammo is included, including special tear gas shells. Requires Armory access to open.
+ent-CrateSecurityRiot = ящик со штурмовым снаряжением
+    .desc = Содержит два комплекта бронежилетов для подавления беспорядков, шлемов, щитов и станнеров, заряженных мешочками с дробью. Дополнительно прилагаются боеприпасы, включая специальные патроны со слезоточивым газом. Для открытия требуется доступ к оружейной.

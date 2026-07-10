@@ -1,8 +1,8 @@
-enter-body-part-dead = {CAPITALIZE($target)} is dead!
-enter-body-part-entering-user = You start crawling up {$target}'s body...
-enter-body-part-entering-target = {CAPITALIZE(THE($user))} starts crawling up your body...
-enter-body-part-no-part = {CAPITALIZE($target)} has no {$part} to burrow into!
-enter-body-part-no-cavity = There's no cavity in that part?!
-enter-body-part-cavity-full = You try burrowing into the cavity, but it's full already!
-enter-body-part-entered-you = You enter {$target}'s mouth and burrow into {POSS-ADJ($target)} body to gestate!
-enter-body-part-entered-others = {CAPITALIZE(THE($user))} enters {$target}'s mouth and burrows into {POSS-ADJ($target)} body!
+enter-body-part-dead = {CAPITALIZE($target)} мёртв(а)!
+enter-body-part-entering-user = Вы начинаете вползать в тело {$target}...
+enter-body-part-entering-target = {CAPITALIZE($user)} начинает вползать в ваше тело...
+enter-body-part-no-part = У {$target} нет {$part}, чтобы туда закопаться!
+enter-body-part-no-cavity = В этой части нет полости?!
+enter-body-part-cavity-full = Вы пытаетесь закопаться в полость, но она уже занята!
+enter-body-part-entered-you = Вы входите в рот {$target} и закапываетесь в {POSS-ADJ($target)} тело, чтобы вынашивать потомство!
+enter-body-part-entered-others = {CAPITALIZE($user)} входит в рот {$target} и закапывается в {POSS-ADJ($target)} тело!

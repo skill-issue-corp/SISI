@@ -1,2 +1,2 @@
-shadow-cocoon-halluc-activated = The cocoon will now emit hallucinations.
-shadow-cocoon-halluc-deactivated = The cocoon will now stop emitting hallucinations.
+shadow-cocoon-halluc-activated = Теперь кокон будет вызывать галлюцинации.
+shadow-cocoon-halluc-deactivated = Теперь кокон перестанет вызывать галлюцинации.

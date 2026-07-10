@@ -1,1 +1,1 @@
-slowdown-resistance-component-examine-message = Grants wearer [color=green]{$reduction}%[/color] slowdown resistance.
+slowdown-resistance-component-examine-message = Даёт владельцу сопротивление замедлению [color=green]{$reduction}%[/color].

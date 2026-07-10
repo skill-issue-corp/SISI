@@ -1,2 +1,2 @@
-shadow-cocoon-activate-sounds-verb = Enable/Disable Hallucinations
-shadow-cocoon-verb = Make Shadow Cocoon
+shadow-cocoon-activate-sounds-verb = Включить/выключить галлюцинации
+shadow-cocoon-verb = Создать теневой кокон

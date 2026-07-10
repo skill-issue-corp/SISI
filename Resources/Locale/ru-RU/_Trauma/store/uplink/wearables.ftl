@@ -1,9 +1,9 @@
-uplink-guerrilla-name = Guerrilla Gloves
-uplink-guerrilla-desc = A special shock resistant pair of gloves that give you the tackle ability, with a higher skill modifier. They also allow you to hard grab on a perfect tackle.
+uplink-guerrilla-name = Партизанские перчатки
+uplink-guerrilla-desc = Особая пара ударостойких перчаток, дающих способность к захвату с повышенным модификатором навыка. Также позволяют выполнять жёсткий захват при идеальном захвате.
 
-uplink-monarch-name = Monarch Coat
-uplink-monarch-desc = Directly taken from the wardrobe of Gorlex Entertainment’s most iconic human operative, the Monarch Coat is a lightweight armor that uses stolen reflective technology to passively deflect energy blasts… but don't expect too much real protection from a prop.
+uplink-monarch-name = Пальто «Монарх»
+uplink-monarch-desc = Позаимствованное прямиком из гардероба самого знаменитого агента Gorlex Entertainment, пальто «Монарх» — это лёгкая броня, использующая украденную отражающую технологию для пассивного отклонения энергетических зарядов… но не стоит ждать от бутафории серьёзной защиты.
 
-uplink-hardsuit-traumasyndie-desc = Gorlex Entertainment's most well known hardsuit, capable of space walks and trauma-resistant.
+uplink-hardsuit-traumasyndie-desc = Самый известный скафандр Gorlex Entertainment, пригодный для выхода в открытый космос и устойчивый к травмам.
 
-uplink-hardsuit-traumaelite-desc = An elite version of the blood-red hardsuit, with improved mobility, fireproofing and heat-resistant armor, for those operatives who want to stand tall for the camera. Property of Gorlex Entertainment.
+uplink-hardsuit-traumaelite-desc = Элитная версия кроваво-красного скафандра с улучшенной подвижностью, огнестойкой и теплостойкой бронёй — для тех агентов, что хотят эффектно выглядеть на камеру. Собственность Gorlex Entertainment.

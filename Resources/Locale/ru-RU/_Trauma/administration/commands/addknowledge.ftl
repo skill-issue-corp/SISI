@@ -1,3 +1,3 @@
-command-description-knowledge-add = Adds a specific amount of experience to a knowledge prototype for a player.
-command-description-knowledge-list = Lists all knowledge levels currently held by an entity.
-command-description-knowledge-clear = Completely wipes all knowledge from an entity.
+command-description-knowledge-add = Добавляет игроку определённое количество опыта для прототипа знаний.
+command-description-knowledge-list = Выводит список всех уровней знаний, которыми в данный момент обладает сущность.
+command-description-knowledge-clear = Полностью стирает все знания у сущности.

@@ -1,8 +1,8 @@
-uplink-hypoport-secure-nukie-name = Secure Hypoport
-uplink-hypoport-secure-nukie-desc = A hypoport locked to nukie ID cards that can be surgically installed on any allies you recruit. Trained surgeon not included.
+uplink-hypoport-secure-nukie-name = Защищённый гипопорт
+uplink-hypoport-secure-nukie-desc = Гипопорт, привязанный к ID-картам нюкеров, который можно хирургически установить любому завербованному союзнику. Обученный хирург в комплект не входит.
 
-uplink-autosurgeon-statveka-sandevistan-name = Statveka Sandevistan Autosurgeon
-uplink-autosurgeon-statveka-sandevistan-desc = Replaces the user's heart with a statveka Sandevistan, a synthetic organ that drastically increases the user's speed and reflex at the cost of their endurance. Unlike their normal counterpart, this one seemingly slows down time near the user. comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-statveka-sandevistan-name = Автохирург «Статвека Сандевистан»
+uplink-autosurgeon-statveka-sandevistan-desc = Заменяет сердце пользователя на статвека Сандевистан — синтетический орган, резко повышающий скорость и реакцию пользователя ценой его выносливости. В отличие от обычного аналога, этот, судя по всему, замедляет время вокруг пользователя. Поставляется с одноразовым автохирургом для установки.
 
-uplink-deathrattle-implanter-name = Deathrattle Implant
-uplink-deathrattle-implanter-desc = Relays a message containing your position to the syndicate channel when you go into a critical state or die.
+uplink-deathrattle-implanter-name = Имплант «Предсмертный хрип»
+uplink-deathrattle-implanter-desc = Передаёт сообщение с вашими координатами на канал синдиката, когда вы впадаете в критическое состояние или погибаете.

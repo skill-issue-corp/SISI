@@ -1,35 +1,35 @@
-fugitive-set-hitman-name = Hitman's Kit
+fugitive-set-hitman-name = Набор наёмного убийцы
 fugitive-set-hitman-description =
-   You're no stranger to killing, you'll do it again if necessary.
-   Contains: viper, machine pistol magazine and an energy dagger.
+   Вам не привыкать убивать, вы сделаете это снова, если потребуется.
+   Содержит: viper, магазин для machine pistol и энергетический кинжал.
 
-fugitive-set-ghost-name = Ghost's Kit
+fugitive-set-ghost-name = Набор призрака
 fugitive-set-ghost-description =
-    Disappear like a ghost when it matters most.
-    Contains: scram implant and a smoke implant.
+    Исчезните как призрак, когда это будет важнее всего.
+    Содержит: имплант резкого ускорения и дымовой имплант.
 
-fugitive-set-saboteur-name = Saboteur's Kit
+fugitive-set-saboteur-name = Набор диверсанта
 fugitive-set-saboteur-description =
-    You really like explosions.
-    Contains: two c-4s, an explosive grenade, an incendiary grenade, a shrapnel grenade and an impact emp grenade.
+    Вы действительно любите взрывы.
+    Содержит: два c-4, осколочную гранату, зажигательную гранату, шрапнельную гранату и ударную эмп-гранату.
 
-fugitive-set-infiltrator-name = Infiltrator's Kit
+fugitive-set-infiltrator-name = Набор инфильтратора
 fugitive-set-infiltrator-description =
-    Truly infiltrate the station with this kit.
-    Contains: chameleon passenger PDA(agent id included), a fake mindshield implant and an identity mask implant.
+    По-настоящему проникните на станцию с этим набором.
+    Содержит: ПДА пассажира-хамелеона (агентское удостоверение прилагается), поддельный имплант ментального щита и имплант маски личности.
 
-fugitive-set-engineer-name = Engineer's Kit
+fugitive-set-engineer-name = Набор инженера
 fugitive-set-engineer-description =
-    Break into anywhere. No door will stop you.
-    Contains: combat gloves, syndicate gas mask, syndicate jaws of life and an emp implant.
+    Проникайте куда угодно. Ни одна дверь вас не остановит.
+    Содержит: боевые перчатки, синдикатный противогаз, синдикатные гидравлические ножницы и эмп-имплант.
 
-fugitive-set-contractor-name = Contractor's Kit
+fugitive-set-contractor-name = Набор контрактника
 fugitive-set-contractor-description =
-    Your past as a contractor is valuable. Use it to not get caught.
-    Contains: contractor baton and a freedom implant.
+    Ваше прошлое контрактника ценно. Используйте его, чтобы не попасться.
+    Содержит: дубинку контрактника и имплант свободы.
 
-fugitive-set-communicator-name = Communicator's Kit
+fugitive-set-communicator-name = Набор связиста
 fugitive-set-communicator-description =
-    Never get caught! Listen in on the station, on your hunters with this kit and potentially confuse them.
-    Contains: station master encryption key, a freelancer encryption key, a syndicate encryption key,
-    a chameleon voice mask and a chameleon headset.
+    Никогда не попадайтесь! Слушайте станцию, ваших охотников с помощью этого набора и потенциально сбивайте их с толку.
+    Содержит: ключ шифрования мастера станции, ключ шифрования фрилансера, ключ шифрования синдиката,
+    маску-хамелеон для голоса и гарнитуру-хамелеон.

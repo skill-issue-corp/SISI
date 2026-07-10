@@ -1,2 +1,2 @@
 # Announcement
-blob-alert-critical-cburn = Biohazard level critical, a specialized response force has been dispatched to your sector.
+blob-alert-critical-cburn = Уровень биологической опасности критический, в ваш сектор направлены специальные силы реагирования.

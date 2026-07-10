@@ -1,2 +1,2 @@
-wraith-title = Wraith
-wraith-description = The station is haunted by an evil spooky ghost.
+wraith-title = Дух
+wraith-description = Станцию преследует злой жуткий призрак.

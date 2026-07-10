@@ -1,1 +1,1 @@
-names-borg-dataset-46 = Clanker
+names-borg-dataset-46 = Кланкер

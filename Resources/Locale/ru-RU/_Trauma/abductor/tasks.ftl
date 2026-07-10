@@ -1,27 +1,27 @@
 # Special
 
-abductor-task-InstallGland = Replace the subject's heart with our special gland
+abductor-task-InstallGland = Заменить сердце субъекта нашей особой железой
 
 # Organs
 
-abductor-task-RemoveWings = Remove the subject's wings
-abductor-task-FixWings = Attach new wings to the subject
-abductor-task-RemoveTail = Remove the subject's tail
-abductor-task-EndRacism = Attach a reptilian's tail 👽 to the subject
-abductor-task-CyberEyes = Install cybernetic eyes in the subject's skull
-abductor-task-InsertCavity = Hide something 👽 inside the subject's chest cavity
+abductor-task-RemoveWings = Удалить крылья субъекта
+abductor-task-FixWings = Прикрепить субъекту новые крылья
+abductor-task-RemoveTail = Удалить хвост субъекта
+abductor-task-EndRacism = Прикрепить субъекту хвост рептилии 👽
+abductor-task-CyberEyes = Установить субъекту в череп кибернетические глаза
+abductor-task-InsertCavity = Спрятать что-то 👽 в грудной полости субъекта
 
 # Damage
 
-abductor-task-FullyHeal = Completely heal the subject
-abductor-task-Beating = Apply 30 blunt damage to the subject
-abductor-task-BurnMoth = Apply 30 burn damage to the fluffy subject 👽
+abductor-task-FullyHeal = Полностью излечить субъекта
+abductor-task-Beating = Нанести субъекту 30 тупого урона
+abductor-task-BurnMoth = Нанести пушистому субъекту 30 урона огнём 👽
 
 # Abuse
 
-abductor-task-RemoveArms = Sever the subject's arms
-abductor-task-RemoveLegs = Sever the subject's legs
-abductor-task-RemoveTongue = Extract the subject's tongue
-abductor-task-RemoveKidneys = Extract the subject's kidneys
-abductor-task-RemoveStomach = Extract the subject's stomach
-abductor-task-RemoveHair = Make the subject bald like us 👽👽, using our high-tech retractor 👽
+abductor-task-RemoveArms = Отрезать субъекту руки
+abductor-task-RemoveLegs = Отрезать субъекту ноги
+abductor-task-RemoveTongue = Извлечь язык субъекта
+abductor-task-RemoveKidneys = Извлечь почки субъекта
+abductor-task-RemoveStomach = Извлечь желудок субъекта
+abductor-task-RemoveHair = Сделать субъекта лысым, как мы 👽👽, используя наш высокотехнологичный экстрактор 👽

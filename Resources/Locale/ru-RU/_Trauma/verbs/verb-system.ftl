@@ -1,1 +1,1 @@
-verb-categories-organ-chips = Remove Chips
+verb-categories-organ-chips = Извлечь чипы

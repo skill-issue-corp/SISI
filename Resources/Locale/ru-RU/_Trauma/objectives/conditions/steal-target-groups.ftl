@@ -1,2 +1,2 @@
 # Thief structures
-steal-target-groups-soda-dispenser = soda dispenser
+steal-target-groups-soda-dispenser = автомат с газировкой

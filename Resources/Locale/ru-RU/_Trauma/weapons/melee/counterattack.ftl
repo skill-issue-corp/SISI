@@ -1,14 +1,14 @@
-counter-attack-verb = Counter attack
+counter-attack-verb = Контратака
 
-counter-attack-fail-npc-message = They are too unpredictable to counterattack!
-counter-attack-self-message = You prepare to counterattack {$target}...
-counter-attack-others-message = {$user} widens {POSS-ADJ($user)} stance, {POSS-ADJ($user)} hand hovering over {THE($sheath)}
+counter-attack-fail-npc-message = Они слишком непредсказуемы для контратаки!
+counter-attack-self-message = Вы готовитесь контратаковать {$target}...
+counter-attack-others-message = {$user} расширяет {POSS-ADJ($user)} стойку, {POSS-ADJ($user)} рука зависает над {$sheath}
 
-alerts-counter-attacking-name = Counter attacking
-alerts-counter-attacking-desc = You are ready to deliver counter attack...
+alerts-counter-attacking-name = Контратака
+alerts-counter-attacking-desc = Вы готовы нанести контратаку...
 
-alerts-counter-attacking-blocked-name = Counter attacking blocked
-alerts-counter-attacking-blocked-desc = You cannot counter attack for some time...
+alerts-counter-attacking-blocked-name = Контратака заблокирована
+alerts-counter-attacking-blocked-desc = Вы не можете контратаковать некоторое время...
 
-alerts-parry-exhaustion-name = Parry Exhaustion
-alerts-parry-exhaustion-desc = The more exhausted you are, the less attacks you are able to parry.
+alerts-parry-exhaustion-name = Истощение от парирования
+alerts-parry-exhaustion-desc = Чем больше вы истощены, тем меньше атак вы способны парировать.

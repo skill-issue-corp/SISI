@@ -1,11 +1,11 @@
-tourettes-swear-1 = SHIT
-tourettes-swear-2 = PISS
-tourettes-swear-3 = FUCK
-tourettes-swear-4 = CUNT
-tourettes-swear-5 = COCKSUCKER
-tourettes-swear-6 = MOTHERFUCKER
-tourettes-swear-7 = TITS
+tourettes-swear-1 = БЛЯТЬ
+tourettes-swear-2 = ССЫЛЬ
+tourettes-swear-3 = ЕБАТЬ
+tourettes-swear-4 = ПИЗДА
+tourettes-swear-5 = ХУЕСОС
+tourettes-swear-6 = ЁБАНЫЙ В РОТ
+tourettes-swear-7 = СИСЬКИ
 ## non parity
-tourettes-swear-8 = GOIDA
+tourettes-swear-8 = ГОЙДА
 
 tourettes-prefix-radio = ;

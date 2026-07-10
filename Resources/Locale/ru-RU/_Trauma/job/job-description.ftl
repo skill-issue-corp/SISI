@@ -1,5 +1,5 @@
-job-description-geneticist = Modify the genes of organisms, including your fellow crewmembers!
+job-description-geneticist = Изменяйте гены живых организмов, включая ваших коллег по экипажу!
 
 # upstream never made these lol
-job-description-cburn = Exterminate biological hazards onboard the station.
-job-description-deathsquad = Rip and tear, until it is done.
+job-description-cburn = Уничтожайте биологические угрозы на борту станции.
+job-description-deathsquad = Рвите и терзайте, пока не будет покончено.

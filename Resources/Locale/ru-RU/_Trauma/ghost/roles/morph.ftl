@@ -1,2 +1,2 @@
-ghost-role-information-morph-name = Morph
-ghost-role-information-morph-description = An alien lifeform from the netherworld, here to reproduce by consuming people and items.
+ghost-role-information-morph-name = Морф
+ghost-role-information-morph-description = Инопланетная форма жизни из потустороннего мира, размножающаяся, поглощая людей и предметы.

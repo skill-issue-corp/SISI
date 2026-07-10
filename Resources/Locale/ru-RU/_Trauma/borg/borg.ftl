@@ -1,4 +1,4 @@
-ed209-construction-guide-string = Attach the ED-209's legs, torso and head to the endoskeleton.
-construction-graph-tag-ed-ai-control-module = ED-209 AI core module
-construction-graph-tag-ed-iff-module = ED-209 IFF module
-construction-graph-tag-ed-weapon-control-module = ED-209 weapon control and targeting module
+ed209-construction-guide-string = Прикрепите ноги, торс и голову ED-209 к эндоскелету.
+construction-graph-tag-ed-ai-control-module = Модуль ИИ-ядра ED-209
+construction-graph-tag-ed-iff-module = Модуль системы «свой-чужой» ED-209
+construction-graph-tag-ed-weapon-control-module = Модуль управления оружием и наведения ED-209

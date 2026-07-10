@@ -1,2 +1,2 @@
-cmd-showareas-desc = Toggles visibility of areas.
-cmd-showareas-help = Usage: {$command}
+cmd-showareas-desc = Переключает видимость зон.
+cmd-showareas-help = Использование: {$command}

@@ -1,11 +1,11 @@
-guide-entry-martial-arts = Combat and Martial Arts
+guide-entry-martial-arts = Бой и боевые искусства
 
-guide-entry-cqc = Close Quarters Combat
-guide-entry-hell-rip = Hell Ripte
-guide-entry-sleeping-carp = Sleeping Carp
-guide-entry-krav-maga = Krav Maga
-guide-entry-corporate-judo = Corporate Judo
-guide-entry-capoeira = Capoeira
-guide-entry-ninjutsu = Ninjutsu
-guide-entry-dragon-kung-fu = Dragon Kung Fu
-guide-entry-armstrong-karate = Armstrong style Karate
+guide-entry-cqc = Рукопашный бой в ограниченном пространстве
+guide-entry-hell-rip = Адское потрошение
+guide-entry-sleeping-carp = Спящий Карп
+guide-entry-krav-maga = Крав-мага
+guide-entry-corporate-judo = Корпоративное дзюдо
+guide-entry-capoeira = Капоэйра
+guide-entry-ninjutsu = Ниндзюцу
+guide-entry-dragon-kung-fu = Кунг-фу Дракона
+guide-entry-armstrong-karate = Каратэ стиля Армстронга

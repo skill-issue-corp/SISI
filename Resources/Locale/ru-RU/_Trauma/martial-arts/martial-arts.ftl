@@ -1,77 +1,77 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cqc-fail-notself = You can't teach anyone with {CAPITALIZE(THE($manual))}.
+cqc-fail-notself = Вы не можете никого обучить с помощью {CAPITALIZE(THE($manual))}.
 
-cqc-fail-changeling = We are beyond using this.
-cqc-fail-knowanother = You already know another martial art.
-cqc-fail-already = You already know a martial art.
-cqc-success-unblocked = Your CQC skills are not bound to kitchen anymore.
-cqc-success-learned = You have learned CQC. The manual incinerates in your hands...
-capoeira-success-learned = You have learned Capoeira. The manual incinerates in your hands...
-dragon-success-learned = You have learned Dragon Kung Fu. The manual incinerates in your hands...
-ninjutsu-success-learned = You have learned Ninjutsu. The scroll incinerates in your hands...
+cqc-fail-changeling = Мы выше использования этого.
+cqc-fail-knowanother = Вы уже знаете другое боевое искусство.
+cqc-fail-already = Вы уже знаете боевое искусство.
+cqc-success-unblocked = Ваши навыки РБК больше не привязаны к кухне.
+cqc-success-learned = Вы изучили РБК. Учебник испепеляется в ваших руках...
+capoeira-success-learned = Вы изучили капоэйру. Учебник испепеляется в ваших руках...
+dragon-success-learned = Вы изучили кунг-фу Дракона. Учебник испепеляется в ваших руках...
+ninjutsu-success-learned = Вы изучили ниндзюцу. Свиток испепеляется в ваших руках...
 
-carp-scroll-waiting = The journey of a thousand miles begins with one step, and the path of wisdom is traveled slowly, one lesson at a time.
-carp-scroll-advance = You have taken one step closer to becoming a master of the Way of the Sleeping Carp.
-carp-scroll-complete = You are now a master of the Way of the Sleeping Carp.
+carp-scroll-waiting = Путь в тысячу ли начинается с одного шага, и путь мудрости проходят медленно, урок за уроком.
+carp-scroll-advance = Вы стали на один шаг ближе к тому, чтобы стать мастером Пути Спящего Карпа.
+carp-scroll-complete = Теперь вы мастер Пути Спящего Карпа.
 
-carp-saying-huah = HUAH!
-carv-vaying-hya = HYA!
-carp-saying-choo = CHOO!
-carp-saying-wuo = WUO!
-carp-saying-kya = KYA!
-carp-saying-huh = HUH!
-carp-saying-hiyoh = HIYOH!
-carp-saying-strike = CARP STRIKE!
-carp-saying-bite = CARP BITE!
+carp-saying-huah = ХУА!
+carv-vaying-hya = ХЬЯ!
+carp-saying-choo = ЧУУ!
+carp-saying-wuo = ВУО!
+carp-saying-kya = КЬЯ!
+carp-saying-huh = ХА!
+carp-saying-hiyoh = ХИЁ!
+carp-saying-strike = УДАР КАРПА!
+carp-saying-bite = УКУС КАРПА!
 
-carp-saying-banzai = BANZAIII!
-carp-saying-kiya = KIYAAAA!
-carp-saying-omae = OMAE WA MOU SHINDEIRU!
-carp-saying-see = YOU CAN'T SEE ME!
-carp-saying-time = MY TIME IS NOW!!
-carp-saying-cowabunga = COWABUNGA!
+carp-saying-banzai = БАНЗАААЙ!
+carp-saying-kiya = КИЯААА!
+carp-saying-omae = ОМАЕ ВА МОУ СИНДЕИРУ!
+carp-saying-see = ТЫ МЕНЯ НЕ ВИДИШЬ!
+carp-saying-time = МОЁ ВРЕМЯ ПРИШЛО!!
+carp-saying-cowabunga = КАВАБАНГА!
 
-judo-saying-gold = GOLD!
-judo-saying-en = EN!
-judo-saying-blast = BLAST!
+judo-saying-gold = ЗОЛОТО!
+judo-saying-en = ЭН!
+judo-saying-blast = ВЗРЫВ!
 
-martial-arts-saying-generic = HA!
+martial-arts-saying-generic = ХА!
 
-krav-maga-ready = You ready a {$action}
+krav-maga-ready = Вы готовите {$action}
 
-martial-arts-action-sender = You hit {$name} with {$move}
-martial-arts-action-receiver = {$name} hit you with {$move}
+martial-arts-action-sender = Вы ударили {$name} приёмом {$move}
+martial-arts-action-receiver = {$name} ударил вас приёмом {$move}
 
-martial-arts-fail-prone = You can't use this combo while lying down!
-martial-arts-fail-target-down = You can't use this combo on downed targets!
-martial-arts-fail-target-standing = You can't use this combo on standing targets!
-capoeira-fail-low-velocity = You are too slow to perform this combo!
-ninjutsu-fail-loss-of-surprise = Your intentions are known! Cannot perform this move!
+martial-arts-fail-prone = Вы не можете использовать это комбо лёжа!
+martial-arts-fail-target-down = Вы не можете использовать это комбо на упавших целях!
+martial-arts-fail-target-standing = Вы не можете использовать это комбо на стоящих целях!
+capoeira-fail-low-velocity = Вы слишком медлительны, чтобы выполнить это комбо!
+ninjutsu-fail-loss-of-surprise = Ваши намерения раскрыты! Невозможно выполнить этот приём!
 
-alerts-dragon-power-name = Dragon Power
-alerts-dragon-power-desc = You take a moment to reflect on battles past and to come. This insight will protect you from future harm.
+alerts-dragon-power-name = Сила Дракона
+alerts-dragon-power-desc = Вы на мгновение задумываетесь о прошлых и грядущих битвах. Это озарение защитит вас от будущего вреда.
 
-alerts-sneak-attack-name = Sneak Attack
-alerts-sneak-attack-desc = To a true shinobi, the first strike and the last strike are one and the same.
+alerts-sneak-attack-name = Внезапная атака
+alerts-sneak-attack-desc = Для истинного синоби первый удар и последний удар — это одно и то же.
 
-alerts-loss-of-surprise-name = Loss Of Surprise
-alerts-loss-of-surprise-desc = Your intentions are known! It will take you a few moments to sneak attack again.
+alerts-loss-of-surprise-name = Потеря внезапности
+alerts-loss-of-surprise-desc = Ваши намерения раскрыты! Вам потребуется некоторое время, прежде чем вы сможете снова напасть внезапно.
 
-cqc-slam = SLAM!
-cqc-kick = WHAM!
-cqc-restrain = Grab!
-cqc-pressure = Slap!
-cqc-consecutive = CONSECUTIVE! C! Q! C!
-spacebear-bearjaws = BITE!
-spacebear-pawslam = PAW SLAM!
-spacebear-smokey = SMOKEY!
-judo-discombobulate = DISCOMBOBULATE!
-judo-eyepoke = EYE POKE!
-judo-throw = THROW!
-judo-armbar = ARMBAR!
-judo-wheelthrow = WHEELTHROW!
+cqc-slam = БАБАХ!
+cqc-kick = БАМ!
+cqc-restrain = Захват!
+cqc-pressure = Шлёп!
+cqc-consecutive = ПОДРЯД! Р! Б! К!
+spacebear-bearjaws = УКУС!
+spacebear-pawslam = УДАР ЛАПОЙ!
+spacebear-smokey = СМОКИ!
+judo-discombobulate = СБИВАНИЕ С ТОЛКУ!
+judo-eyepoke = ТЫК В ГЛАЗ!
+judo-throw = БРОСОК!
+judo-armbar = БОЛЕВОЙ НА РУКУ!
+judo-wheelthrow = БРОСОК КОЛЕСОМ!
 
-no-martial-art = No Martial Art
+no-martial-art = Нет боевого искусства
 
-melee-clumsy-self-hit = You hit yourself!
+melee-clumsy-self-hit = Вы ударили сами себя!

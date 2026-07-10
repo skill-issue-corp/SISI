@@ -1,1 +1,1 @@
-circuit-item-slot-name = Integrated Circuit
+circuit-item-slot-name = Интегрированная Микросхема

@@ -1,1 +1,1 @@
-transform-blob-confirm-popup = THIS WILL TURN YOU INTO A BLOB RIGHT HERE! Use it again to confirm.
+transform-blob-confirm-popup = ЭТО ПРЕВРАТИТ ВАС В БЛОБА ПРЯМО ЗДЕСЬ! Используйте снова для подтверждения.

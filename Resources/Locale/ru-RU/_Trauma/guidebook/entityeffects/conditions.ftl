@@ -1,23 +1,23 @@
-entity-condition-guidebook-has-mob-name = the target's name contains { $name }
-entity-condition-guidebook-inventory-nested = the target is wearing anything where {$condition}
-entity-condition-guidebook-inside-area = the target is inside an area
-entity-condition-guidebook-has-marking = the target has a {$marking} marking
-entity-condition-guidebook-is-species = the target is a {$species}
+entity-condition-guidebook-has-mob-name = имя цели содержит { $name }
+entity-condition-guidebook-inventory-nested = на цели надето что-то, где {$condition}
+entity-condition-guidebook-inside-area = цель находится внутри области
+entity-condition-guidebook-has-marking = у цели есть метка {$marking}
+entity-condition-guidebook-is-species = цель принадлежит к виду {$species}
 
-entity-condition-guidebook-pressure-protection = the target is protected from pressure
-entity-condition-guidebook-cosmic-cultist = the target is a cosmic cultist
-entity-condition-shadowling-or-thrall = target is a shadowling or thrall
-entity-condition-not-shadowling-or-thrall = target is not a shadowling or thrall
-entity-condition-guidebook-is-humanoid = target is humanoid
-entity-condition-guidebook-hypoport-target = target can receive a hypoport
+entity-condition-guidebook-pressure-protection = цель защищена от давления
+entity-condition-guidebook-cosmic-cultist = цель — космический культист
+entity-condition-shadowling-or-thrall = цель — теневик или его раб
+entity-condition-not-shadowling-or-thrall = цель не является теневиком или его рабом
+entity-condition-guidebook-is-humanoid = цель гуманоид
+entity-condition-guidebook-hypoport-target = цель может получить гипопорт
 
-entity-condition-guidebook-cybernetics-blacklist = Is not a cybernetic limb
+entity-condition-guidebook-cybernetics-blacklist = Не является кибернетической конечностью
 
-entity-condition-guidebook-is-awake = the target is awake
+entity-condition-guidebook-is-awake = цель бодрствует
 
-entity-condition-guidebook-use-delay = the target has no active {$id} use delay
+entity-condition-guidebook-use-delay = у цели нет активной задержки использования {$id}
 
-entity-condition-guidebook-organ-slot = the target's {$part} {$inverted ->
-    [true] has no
-    *[false] has a
-} {$slot} slot
+entity-condition-guidebook-organ-slot = у {$part} цели {$inverted ->
+    [true] нет слота
+    *[false] есть слот
+} {$slot}

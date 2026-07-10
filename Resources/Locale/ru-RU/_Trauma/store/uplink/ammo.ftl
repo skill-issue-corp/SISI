@@ -1,5 +1,5 @@
-uplink-ammo-shotgun-name = ammunition box (12 gauge pellet)
-uplink-ammo-shotgun-desc = Ammunition box with 16 shells filled with pellets. Compatible with the all 12 gauge guns.
+uplink-ammo-shotgun-name = коробка патронов (12 калибр, картечь)
+uplink-ammo-shotgun-desc = Коробка патронов с 16 патронами, снаряжёнными картечью. Совместима со всем оружием 12 калибра.
 
-uplink-ammo-20rdmagazine-name = straight magazine (.30 rifle)
-uplink-ammo-20rdmagazine-desc = A straight 20-round double stack magazine, intended to hold 20 rounds of general-purpose kinetic .30 rifle ammunition.
+uplink-ammo-20rdmagazine-name = прямой магазин (.30 винтовочный)
+uplink-ammo-20rdmagazine-desc = Прямой двухрядный магазин на 20 патронов, предназначенный для стандартных кинетических патронов калибра .30.

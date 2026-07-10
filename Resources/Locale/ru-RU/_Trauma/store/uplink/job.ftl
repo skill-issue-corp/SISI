@@ -1,5 +1,5 @@
-uplink-foxdie-name = FOXDIE retrovirus
-uplink-foxdie-desc = A dna sampler for the legendary FOXDIE retrovirus. Scan something with your target's DNA and it will kill only them, while spreading harmlessly through everyone else.
+uplink-foxdie-name = Ретровирус FOXDIE
+uplink-foxdie-desc = Образец ДНК для легендарного ретровируса FOXDIE. Просканируйте что-нибудь с ДНК вашей цели, и вирус убьёт только её, безвредно распространяясь среди всех остальных.
 
-uplink-hyposhell-name = Box of hyposhells
-uplink-hyposhell-desc = A box containing four hyposhells, shotgun shells that can hold 7u of any chemical.
+uplink-hyposhell-name = коробка гипопатронов
+uplink-hyposhell-desc = Коробка, содержащая четыре гипопатрона — патроны для дробовика, способные вместить 7 ед. любого химиката.

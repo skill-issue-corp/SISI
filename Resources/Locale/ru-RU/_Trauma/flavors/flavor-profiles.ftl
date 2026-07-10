@@ -1,7 +1,7 @@
-flavor-base-deep-fried = deep fried
+flavor-base-deep-fried = жареное во фритюре
 
-flavor-complex-tiredness = like tiredness
+flavor-complex-tiredness = как усталость
 
-flavor-complex-blood = like blood
+flavor-complex-blood = как кровь
 
-flavor-complex-apotheosis = like apotheosis
+flavor-complex-apotheosis = как апофеоз

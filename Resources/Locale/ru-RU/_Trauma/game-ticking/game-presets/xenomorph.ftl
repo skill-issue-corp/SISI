@@ -1,2 +1,2 @@
-xenomorph-title = Xenomorphs
-xenomorph-description = Defend the station from invading xenomorphs.
+xenomorph-title = Ксеноморфы
+xenomorph-description = Защитите станцию от вторжения ксеноморфов.

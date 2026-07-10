@@ -1,6 +1,6 @@
-spray-paint-closed = Open {THE($can)} first!
-spray-paint-empty = {THE($can)} is empty.
-spray-paint-failure = You can't paint {$target}!
-spray-paint-success-user = You give {$target} a new coat of paint.
-spray-paint-success-others = {CAPITALIZE($user)} gives {$target} a new coat of paint.
-spray-paint-verb = Paint
+spray-paint-closed = Сначала откройте {$can}!
+spray-paint-empty = {$can} пуст.
+spray-paint-failure = Вы не можете покрасить {$target}!
+spray-paint-success-user = Вы наносите новый слой краски на {$target}.
+spray-paint-success-others = {CAPITALIZE($user)} наносит новый слой краски на {$target}.
+spray-paint-verb = Покрасить

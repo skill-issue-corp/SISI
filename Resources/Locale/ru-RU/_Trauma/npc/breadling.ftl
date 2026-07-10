@@ -1,1 +1,1 @@
-breadling-hurt-by-water-popup = You're becoming soggy!
+breadling-hurt-by-water-popup = Вы становитесь размокшим!

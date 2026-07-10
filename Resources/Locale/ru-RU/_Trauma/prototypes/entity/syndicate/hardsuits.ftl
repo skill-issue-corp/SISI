@@ -1,25 +1,25 @@
 # Hardsuits
-ent-ClothingOuterHardsuitSyndie = blood-red hardsuit
-    .desc = A heavily armored hardsuit designed for live-action stuntwork and terrorism alike, and is typically seen as the hardsuit of a "faceless grunt". Property of Gorlex Entertainment.
+ent-ClothingOuterHardsuitSyndie = кроваво-красный скафандр
+    .desc = Тяжелобронированный скафандр, созданный как для постановочных трюков, так и для терроризма, обычно воспринимается как скафандр «безликого рядового». Собственность Gorlex Entertainment.
 
-ent-ClothingOuterHardsuitSyndieMedic = blood-red medic hardsuit
-    .desc = A heavily armored and agile advanced hardsuit specifically so that the medic wearing it stands out among their fellow operatives as they heal their injuries. Property of Gorlex Entertainment.
+ent-ClothingOuterHardsuitSyndieMedic = кроваво-красный медицинский скафандр
+    .desc = Тяжелобронированный и манёвренный продвинутый скафандр, созданный специально для того, чтобы медик, лечащий раны, выделялся среди своих сослуживцев-оперативников. Собственность Gorlex Entertainment.
 
-ent-ClothingOuterHardsuitSyndieCommander = syndicate commander hardsuit
-    .desc = A luxury variant of the blood-red hardsuit, purposely-built for the commander of a syndicate operative squad to stand out and act like the villain that Gorlex wants them to be. Has slightly improved armor and greatly improved mobility.
+ent-ClothingOuterHardsuitSyndieCommander = скафандр командира синдиката
+    .desc = Роскошная версия кроваво-красного скафандра, специально созданная для того, чтобы командир отряда оперативников синдиката выделялся и вёл себя как злодей, каким его хочет видеть Gorlex. Обладает немного улучшенной бронёй и значительно улучшенной подвижностью.
 
-ent-ClothingOuterHardsuitSyndieElite = syndicate elite hardsuit
-    .desc = An elite version of the blood-red hardsuit, with improved mobility, fireproofing and heat-resistant armor, for those operatives who want to stand tall for the camera. Property of Gorlex Entertainment.
+ent-ClothingOuterHardsuitSyndieElite = элитный скафандр синдиката
+    .desc = Элитная версия кроваво-красного скафандра с улучшенной подвижностью, огнестойкостью и теплостойкой бронёй — для тех оперативников, что хотят красоваться перед камерой. Собственность Gorlex Entertainment.
 
 # Hardsuit Helmets
-ent-ClothingHeadHelmetHardsuitSyndie = blood-red hardsuit helmet
-    .desc = This is the most recognizable helmet in the known galaxy, known best for its tendency to be shot to ribbons on the galactic net. Property of Gorlex Entertainment.
+ent-ClothingHeadHelmetHardsuitSyndie = кроваво-красный шлем скафандра
+    .desc = Самый узнаваемый шлем в известной галактике, прославившийся тем, что его то и дело прошивают пулями в роликах галактической сети. Собственность Gorlex Entertainment.
 
-ent-ClothingHeadHelmetHardsuitSyndieMedic = blood-red medic hardsuit helmet
-    .desc = Legally distinct from the blood-red, this helmet is coveted by collectors and operatives alike for its rarity. Property of Gorlex Entertainment.
+ent-ClothingHeadHelmetHardsuitSyndieMedic = кроваво-красный медицинский шлем скафандра
+    .desc = Юридически отличающийся от кроваво-красного, этот шлем ценится коллекционерами и оперативниками за свою редкость. Собственность Gorlex Entertainment.
 
-ent-HeadHelmetHardsuitSyndieCommander = blood-red commander hardsuit helmet
-    .desc = The helmet belonging to the lead role of any Gorlex production, this luxury equipment is specially armored and is equipped with top-of-the-line cameras that feed everything back to the galactic net.
+ent-HeadHelmetHardsuitSyndieCommander = кроваво-красный командирский шлем скафандра
+    .desc = Шлем, принадлежащий главной роли любой постановки Gorlex, — это роскошное снаряжение со специальной бронёй и первоклассными камерами, транслирующими всё происходящее прямиком в галактическую сеть.
 
-ent-HeadHelmetHardsuitSyndieElite = syndicate elite hardsuit helmet
-    .desc = This helmet is employed by members of Gorlex Entertainment who consider themselves the star of their productions, but didn't manage to get the leading role.
+ent-HeadHelmetHardsuitSyndieElite = элитный шлем скафандра синдиката
+    .desc = Этот шлем носят те члены Gorlex Entertainment, кто считает себя звездой своих постановок, но кому не досталась главная роль.

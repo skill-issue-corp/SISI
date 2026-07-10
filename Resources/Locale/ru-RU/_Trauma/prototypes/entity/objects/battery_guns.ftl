@@ -1,2 +1,2 @@
-ent-WeaponLaserCarbine = laser rifle
-    .desc = The Type 5 Heat Delivery System, developed by Nanotrasen. The workhorse of Nanotrasen's security forces.
+ent-WeaponLaserCarbine = лазерная винтовка
+    .desc = Система доставки тепла Type 5, разработанная Nanotrasen. Основное оружие сил безопасности Nanotrasen.

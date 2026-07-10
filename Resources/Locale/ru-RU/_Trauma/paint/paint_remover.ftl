@@ -1,4 +1,4 @@
-paint-remover-verb = Remove Paint
-paint-remover-popup-user = You start scrubbing paint off of {$target}
-paint-remover-popup-others = {CAPITALIZE($user)} starts scrubbing paint off of {$target}
-paint-remover-guidebook-text = Removes paint from the target
+paint-remover-verb = Удалить краску
+paint-remover-popup-user = Вы начинаете счищать краску с {$target}
+paint-remover-popup-others = {CAPITALIZE($user)} начинает счищать краску с {$target}
+paint-remover-guidebook-text = Удаляет краску с цели

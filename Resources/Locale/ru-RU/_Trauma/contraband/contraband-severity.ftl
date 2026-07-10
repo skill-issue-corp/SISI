@@ -1,2 +1,2 @@
-contraband-examine-text-RevMinor = [color=red]This item is anti-nanotrasen Revolutionary propaganda![/color]
-contraband-examine-text-RevMajor = [color=red]This item is dangerous Revolutionary equipment![/color]
+contraband-examine-text-RevMinor = [color=red]Этот предмет — антинанотрейзеновская революционная пропаганда![/color]
+contraband-examine-text-RevMajor = [color=red]Этот предмет — опасное революционное снаряжение![/color]

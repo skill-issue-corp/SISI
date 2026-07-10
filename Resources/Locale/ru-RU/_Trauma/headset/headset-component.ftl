@@ -1,1 +1,1 @@
-chat-radio-revolutionary = Revolutionary
+chat-radio-revolutionary = Революционер

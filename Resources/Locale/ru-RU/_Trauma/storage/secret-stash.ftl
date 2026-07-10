@@ -1,1 +1,1 @@
-secret-stash-briefcase = briefcase
+secret-stash-briefcase = чемодан

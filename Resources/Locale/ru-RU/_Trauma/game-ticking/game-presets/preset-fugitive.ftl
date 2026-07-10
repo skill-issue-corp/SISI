@@ -1,1 +1,1 @@
-objective-issuer-spacepol = Space Police
+objective-issuer-spacepol = Космическая Полиция

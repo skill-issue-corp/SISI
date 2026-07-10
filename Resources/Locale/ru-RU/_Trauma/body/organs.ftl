@@ -1,1 +1,1 @@
-markings-organ-Hypoport = Hypoport
+markings-organ-Hypoport = Гипопорт

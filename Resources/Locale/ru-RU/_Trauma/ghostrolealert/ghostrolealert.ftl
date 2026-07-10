@@ -1,3 +1,3 @@
-ghost-role-spawned = A Major Antagonist has spawned
-ghost-role-spawned-text = A Major Antagonist role raffle is now available
-ghost-role-confirm = Got it!
+ghost-role-spawned = Появился крупный антагонист
+ghost-role-spawned-text = Доступна раздача роли крупного антагониста
+ghost-role-confirm = Понятно!

@@ -1,1 +1,1 @@
-ban-banned-by = You were banned by: "{$adminName}"
+ban-banned-by = Вы были забанены: "{$adminName}"

@@ -1,3 +1,3 @@
-tiles-bingle-floor = bingle flesh
-tiles-abductor-floor = abductor floor
-tiles-hierophant-arena-floor = hierophant arena floor
+tiles-bingle-floor = плоть бингла
+tiles-abductor-floor = пол похитителей
+tiles-hierophant-arena-floor = пол арены иерофанта

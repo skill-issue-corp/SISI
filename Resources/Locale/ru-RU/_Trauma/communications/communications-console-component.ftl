@@ -1,2 +1,2 @@
-comms-console-menu-level-unlocked-at = {CAPITALIZE($level)} alert will be unlocked in {$time}
-comms-console-menu-level-unlocked = {CAPITALIZE($level)} alert is now unlocked.
+comms-console-menu-level-unlocked-at = Уровень тревоги «{CAPITALIZE($level)}» будет разблокирован через {$time}
+comms-console-menu-level-unlocked = Уровень тревоги «{CAPITALIZE($level)}» теперь разблокирован.

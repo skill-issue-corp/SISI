@@ -1,11 +1,11 @@
-mail-capsule-verb-insert-mail = Put in Mail
-mail-capsule-verb-eject-mail = Take out Mail
-mail-capsule-slot-mail = Mail
+mail-capsule-verb-insert-mail = Положить письмо
+mail-capsule-verb-eject-mail = Достать письмо
+mail-capsule-slot-mail = Письмо
 
-mail-capsule-verb-insert-food = Put in Food
-mail-capsule-verb-eject-food = Take out Food
-mail-capsule-slot-food = Food
+mail-capsule-verb-insert-food = Положить еду
+mail-capsule-verb-eject-food = Достать еду
+mail-capsule-slot-food = Еда
 
-mail-capsule-verb-insert-cash = Put in Cash
-mail-capsule-verb-eject-cash = Take out Cash
-mail-capsule-slot-cash = Cash
+mail-capsule-verb-insert-cash = Положить наличные
+mail-capsule-verb-eject-cash = Достать наличные
+mail-capsule-slot-cash = Наличные

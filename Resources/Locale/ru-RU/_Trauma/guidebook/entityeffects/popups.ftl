@@ -1,19 +1,19 @@
-entity-effect-popup-crucified = {CAPITALIZE($entity)} has been crucified!
-entity-effect-popup-mothmaggot-matured = {CAPITALIZE(THE($entity))} rapidly shifts and changes!
-entity-effect-popup-mothmaggot-maturing = You will mature into a mothroach in {$delay} seconds...
-entity-effect-popup-make-felinid = {CAPITALIZE($entity)} turned into a disgusting felinid!
-entity-effect-popup-revert-felinid = {CAPITALIZE($entity)} turned back to normal...
-entity-effect-popup-heart-stops = Your heart stops beating!
-entity-effect-popup-convoke-void = {$entity} is dragged into the void, leaving a hole in {POSS-ADJ($entity)} place!
+entity-effect-popup-crucified = {CAPITALIZE($entity)} распят!
+entity-effect-popup-mothmaggot-matured = {CAPITALIZE(THE($entity))} стремительно меняется и трансформируется!
+entity-effect-popup-mothmaggot-maturing = Вы превратитесь в мотророча через {$delay} секунд...
+entity-effect-popup-make-felinid = {CAPITALIZE($entity)} превратился в отвратительного фелинида!
+entity-effect-popup-revert-felinid = {CAPITALIZE($entity)} вернулся в нормальное состояние...
+entity-effect-popup-heart-stops = Ваше сердце останавливается!
+entity-effect-popup-convoke-void = {$entity} затягивает в пустоту, оставляя дыру на {POSS-ADJ($entity)} месте!
 
 entity-condition-popup-not-vox-raider = {$self ->
-    [true] You aren't
-    *[false] {$target} isn't
-} a vox!
+    [true] Вы не
+    *[false] {$target} не
+} вокс!
 
-entity-effect-popup-blood-swells = Your blood swells...
-entity-effect-popup-blood-stops-swelling = Your blood stops swelling.
+entity-effect-popup-blood-swells = Ваша кровь вскипает...
+entity-effect-popup-blood-stops-swelling = Ваша кровь перестаёт вскипать.
 
-entity-effect-popup-vampire-light-1 = The sunlight burns you!
-entity-effect-popup-vampire-light-2 = You should go away from space...
-entity-effect-popup-vampire-light-3 = You look pale!
+entity-effect-popup-vampire-light-1 = Солнечный свет обжигает вас!
+entity-effect-popup-vampire-light-2 = Вам стоит держаться подальше от космоса...
+entity-effect-popup-vampire-light-3 = Вы выглядите бледным!
