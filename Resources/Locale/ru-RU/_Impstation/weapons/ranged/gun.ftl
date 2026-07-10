@@ -1,1 +1,1 @@
-gun-clumsy-decapoid = The gun slips out of your claws!
+gun-clumsy-decapoid = Оружие выскальзывает из ваших клешней!

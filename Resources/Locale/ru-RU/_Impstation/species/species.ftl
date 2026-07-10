@@ -1,1 +1,1 @@
-species-name-decapoid = Decapoid
+species-name-decapoid = Декапод
