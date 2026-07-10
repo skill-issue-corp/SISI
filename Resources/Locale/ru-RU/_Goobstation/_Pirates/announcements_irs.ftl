@@ -4,21 +4,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-pirates-announcer-irs = Space IRS Agents
+pirates-announcer-irs = Агенты КНС
 pirates-announcement-irs-threat =
-    TerraGov Here, We noticed that your station hasn't been paying your taxes.
-    Let's rectify that, Your missing tax dues amounts to a nice sum of credits.
-    Simply accept the order that we kindly placed in your cargo console.
-    We highly recommend paying your taxes stat, we don't need to send a team to your station to resolve the situation do we?
-
-pirates-announcement-irs-arrival =
-    This is the tax conflict resolution team, prepare for your assets to be liquidated and be charged with tax fraud!
-
-pirates-announcement-irs-paid =
-    Payment received, We salute you for being law-abiding tax-paying citizens!
-
-pirates-announcement-irs-cancelled =
-    We understand, I'm sending a team to your station to resolve the matter.
-
-pirates-announcement-irs-notenough =
-    You filed your taxes incorrectly, A team has been sent to assist in liquidating assets and arrest you for tax fraud.
+    Говорит TerraGov. Мы заметили, что ваша станция уклоняется от уплаты налогов.
+    Давайте это исправим. Сумма вашей задолженности — весьма приличная.
+    Просто примите заказ, который мы любезно разместили на вашем грузовом терминале.
+    Настоятельно рекомендуем уплатить налоги незамедлительно. Нам ведь не придётся посылать команду на станцию для урегулирования ситуации?
+pirates-announcement-irs-arrival = Это команда по урегулированию налоговых споров. Подготовьтесь к ликвидации активов и обвинению в налоговом мошенничестве!
+pirates-announcement-irs-paid = Платёж получен. Мы приветствуем вас, как законопослушных и налогоплатящих работников корпорации!
+pirates-announcement-irs-cancelled = Понимаем. Отправляем команду на вашу станцию для разрешения вопроса.
+pirates-announcement-irs-notenough = Вы неверно заполнили налоговую декларацию. Команда направлена для помощи в ликвидации активов и вашего ареста за налоговое мошенничество.

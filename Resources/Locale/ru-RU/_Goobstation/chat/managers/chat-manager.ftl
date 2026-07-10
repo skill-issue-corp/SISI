@@ -10,36 +10,34 @@
 
 ## Speech verbs for chat
 
-chat-speech-verb-name-gondola = Gondola
-chat-speech-verb-gondola-1 = stares
-chat-speech-verb-gondola-2 = breathes
-
-chat-speech-verb-name-dead = Dead
-chat-speech-verb-dead-1 = salts
-chat-speech-verb-dead-2 = malds
-chat-speech-verb-dead-3 = copes
-chat-speech-verb-dead-4 = seethes
-chat-speech-verb-dead-5 = laments
-chat-speech-verb-dead-6 = whines
-chat-speech-verb-dead-7 = moans
-chat-speech-verb-dead-8 = cries
-chat-speech-verb-dead-9 = wails
-
-chat-speech-verb-VoiceModulator-name = Voice Modulator
-chat-speech-verb-VoiceModulator-1 = modulates
-chat-speech-verb-VoiceModulator-2 = buzzes
-chat-speech-verb-VoiceModulator-3 = drones
-chat-speech-verb-VoiceModulator-4 = hums
-chat-speech-verb-VoiceModulator-5 = crackles
-
-chat-speech-verb-name-holier-than-thou = Holier Than Thou
-chat-speech-verb-holier-than-thou-1 = commands
-chat-speech-verb-holier-than-thou-2 = lectures
-chat-speech-verb-holier-than-thou-3 = articulates
-chat-speech-verb-holier-than-thou-4 = proclaims
-chat-speech-verb-holier-than-thou-5 = announces
-chat-speech-verb-holier-than-thou-6 = recites
-chat-speech-verb-holier-than-thou-7 = declares
-chat-speech-verb-holier-than-thou-8 = pronounces
-
-chat-manager-entity-say-bolded-language-wrap-message = [BubbleHeader][bold][Name]{$entityName}[/Name][/bold][/BubbleHeader] {$verb}, [font={$fontType} size={$fontSize}]"[BubbleContent][font="{$boldFontType}" size={$fontSize}][color={$color}]{$message}[/color][/font][/BubbleContent]"[/font]
+chat-speech-verb-name-gondola = Гондола
+chat-speech-verb-gondola-1 = пялится
+chat-speech-verb-gondola-2 = дует
+chat-speech-verb-name-dead = Мёртв
+chat-speech-verb-dead-1 = сопит
+chat-speech-verb-dead-2 = злится
+chat-speech-verb-dead-3 = кипит
+chat-speech-verb-dead-4 = бесится
+chat-speech-verb-dead-5 = скорбит
+chat-speech-verb-dead-6 = жалуется
+chat-speech-verb-dead-7 = стонет
+chat-speech-verb-dead-8 = плачет
+chat-speech-verb-dead-9 = рыдает
+chat-speech-verb-VoiceModulator-name = Модулятор голоса
+chat-speech-verb-VoiceModulator-1 = модулирует
+chat-speech-verb-VoiceModulator-2 = гудит
+chat-speech-verb-VoiceModulator-3 = жужжит
+chat-speech-verb-VoiceModulator-4 = напевает
+chat-speech-verb-VoiceModulator-5 = потрескивает
+chat-speech-verb-name-holier-than-thou = Благочестивый глас
+chat-speech-verb-holier-than-thou-1 = возглашает
+chat-speech-verb-holier-than-thou-2 = поучает
+chat-speech-verb-holier-than-thou-3 = изрекает
+chat-speech-verb-holier-than-thou-4 = провозглашает
+chat-speech-verb-holier-than-thou-5 = возвещает
+chat-speech-verb-holier-than-thou-6 = декламирует
+chat-speech-verb-holier-than-thou-7 = объявляет
+chat-speech-verb-holier-than-thou-8 = вещает
+chat-speech-verb-name-station-radio = Станционное радио
+chat-speech-verb-station-radio-1 = транслирует
+chat-manager-entity-say-bolded-language-wrap-message = [BubbleHeader][bold][Name]{ $entityName }[/Name][/bold][/BubbleHeader] { $verb }, [font={ $fontType } size={ $fontSize }]"[BubbleContent][font="{ $boldFontType }" size={ $fontSize }][color={ $color }]{ $message }[/color][/font][/BubbleContent]"[/font]

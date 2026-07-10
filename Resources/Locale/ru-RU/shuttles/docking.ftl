@@ -1,17 +1,9 @@
-# SPDX-FileCopyrightText: 2021 metalgearsloth <comedian_vs_clown@hotmail.com>
-# SPDX-FileCopyrightText: 2021 metalgearsloth <metalgearsloth@gmail.com>
-# SPDX-FileCopyrightText: 2021 mirrorcult <lunarautomaton6@gmail.com>
-# SPDX-FileCopyrightText: 2023 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
-docking-component-dock = Dock
-docking-component-undock = Undock
-
-cmd-dock-desc = Attempts to dock 2 airlocks together. Doesn't check whether it is valid.
+docking-component-dock = Пристыковать
+docking-component-undock = Отстыковать
+cmd-dock-desc = Попытаться состыковать 2 шлюза вместе. Не проверяется, является ли это допустимым.
 cmd-dock-help = dock <airlock entityuid1> <airlock entityuid2>
-
-cmd-dock-success = Successfully docked
-cmd-dock-fail = Unable to dock
+cmd-dock-args = Неверное число аргументов
+cmd-dock-invalid = Неверный EntityUid { $entity }
+cmd-dock-found = Не найден компонент стыковки у { $airlock }
+cmd-dock-success = Успешно состыковано
+cmd-dock-fail = Невозможно состыковать

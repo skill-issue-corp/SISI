@@ -1,4 +1,4 @@
-xenomorph-infection-stage-2 = Your chest hurts a little bit.
-xenomorph-infection-stage-3 = Your throat feels sore.
-xenomorph-infection-stage-4 = Your chest hurts badly.
-xenomorph-infection-stage-6 = You feel something crawling through your insides!
+xenomorph-infection-stage-2 = Ваша грудь немного болит.
+xenomorph-infection-stage-3 = В горле ощущается боль.
+xenomorph-infection-stage-4 = Ваша грудь сильно болит.
+xenomorph-infection-stage-6 = Вы чувствуете, как что-то ползает у вас внутри!

@@ -1,52 +1,27 @@
-# SPDX-FileCopyrightText: 2021 20kdc <asdd2808@gmail.com>
-# SPDX-FileCopyrightText: 2021 Paul Ritter <ritter.paul1@googlemail.com>
-# SPDX-FileCopyrightText: 2022 E F R <602406+Efruit@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 Whisper <121047731+QuietlyWhisper@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Aidenkrz <aiden@djkraz.com>
-# SPDX-FileCopyrightText: 2024 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
-# SPDX-FileCopyrightText: 2024 Repo <47093363+Titian3@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 ShadowCommander <10494922+ShadowCommander@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 deathride58 <deathride58@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 dffdff2423 <57052305+dffdff2423@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-# SPDX-FileCopyrightText: 2025 Winkarst <74284083+Winkarst-cpu@users.noreply.github.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
-bwoink-user-title = Admin Message
-bwoink-admin-title = Admin Help
-
-bwoink-system-starmute-message-no-other-users = *System: Nobody is available to receive your message. Try pinging Game Admins on Discord.
-
+bwoink-user-title = Сообщение от администратора
+bwoink-system-starmute-message-no-other-users = *Система: Никто не доступен для получения вашего сообщения. Попробуйте обратиться к администраторам игры в Discord.
 bwoink-system-messages-being-relayed-to-discord =
-    All messages are relayed to game administrators via Discord.
-    Issues may be handled without a response.
-
+    Все сообщения передаются администраторам игры через Discord.
+    Проблемы могут быть решены без ответа.
 bwoink-system-introductory-message =
-    Please describe the issue that you have encountered in detail. Assume that the game administrator who is resolving the problem does not have first-hand knowledge of what has occurred.
-    Please do not ask for special events or punishments for other players.
-    Any bugs and other related issues should be reported through Discord or Github.
-    Misuse of this message system may result in disciplinary action.
-
-bwoink-system-typing-indicator = {$players} {$count ->
-[one] is
-*[other] are
-} typing...
-
-admin-ahelp-admin-only = Admin Only
-admin-ahelp-admin-only-tooltip = If checked, then the message won't be visible for the player,
-    but will be visible for other admins and still will be Discord relayed.
-
-admin-bwoink-play-sound = Bwoink?
-
-bwoink-title-none-selected = None selected
-
-bwoink-system-rate-limited = System: you are sending messages too quickly.
-bwoink-system-player-disconnecting = has disconnected.
-bwoink-system-player-reconnecting = has reconnected.
-bwoink-system-player-banned = has been banned for: {$banReason}
-
-bwoink-message-admin-only = (Admin Only)
+    Пожалуйста, подробно опишите проблему, с которой вы столкнулись. Предположите, что игровой администратор, решающий проблему, не знает ничего о произошедшем.
+    Пожалуйста, не просите об особых событиях или наказаниях для других игроков.
+    О любых ошибках и других проблемах следует сообщать через Discord или Github.
+    Злоупотребление этим чатом может привести к дисциплинарным наказаниям.
+bwoink-system-typing-indicator =
+    { $players } { $count ->
+        [one] печатает
+       *[other] печатают
+    }...
+admin-ahelp-admin-only = Только Админ
+admin-ahelp-admin-only-tooltip =
+    Если отмечено, сообщение не будет видно игроку,
+    но будет видно админам и будет отправлено в Дискорд.
+admin-bwoink-play-sound = Бвоинк?
+bwoink-title-none-selected = Ничего не выбрано
+bwoink-system-rate-limited = Система: вы отправляете сообщения слишком быстро.
+bwoink-system-player-disconnecting = отключился.
+bwoink-system-player-reconnecting = переподключился.
+bwoink-system-player-banned = был забанен за: { $banReason }
+bwoink-message-admin-only = (Только Админ)
 bwoink-message-silent = (S)

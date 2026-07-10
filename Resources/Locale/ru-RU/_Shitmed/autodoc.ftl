@@ -1,81 +1,80 @@
-autodoc-program-step-surgery = perform surgery on {$part}: {$name}
-autodoc-program-step-grab-item = grab item: '{$name}'
-autodoc-program-step-grab-any = grab any: {$name}
-autodoc-item-organ = Organ
-autodoc-item-part = Body Part
-autodoc-program-step-store-item = store item
-autodoc-program-step-set-label = set label: '{$label}'
-autodoc-program-step-wait = wait {$length} seconds
+# SPDX-FileCopyrightText: 2024 deltanedas <39013340+deltanedas@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 deltanedas <@deltanedas:kde.org>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2025 JohnOakman <sremy2012@hotmail.fr>
+# SPDX-FileCopyrightText: 2025 Piras314 <p1r4s@proton.me>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
 
-autodoc-program-completed = PROGRAM COMPLETED
-autodoc-error = ERROR: {$error}
-autodoc-fatal-error = FATAL ERROR: {$error}
-autodoc-waiting = PROGRAM WAITING
-
-autodoc-error-missing-patient = MISSING PATIENT
-autodoc-error-body-part = BODY PART NOT DETECTED
-autodoc-error-surgery-impossible = SELECTED SURGERY IMPOSSIBLE
-autodoc-error-reality-breaking = REALITY BREAKING
-autodoc-error-step-invalid-None = SELECTED STEP IMPOSSIBLE
-autodoc-error-step-invalid-MissingSkills = UNIT IS MISSING SKILLS
-autodoc-error-step-invalid-NeedsOperatingTable = OPERATING TABLE MISSING
-autodoc-error-step-invalid-Armor = LIMB OBSTRUCTED BY CLOTHING
-autodoc-error-step-invalid-ToolInvalid = SELECTED TOOL UNUSABLE
-autodoc-error-step-invalid-SurgeryInvalid = PATIENT IS INOPERABLE
-autodoc-error-step-invalid-MissingPreviousSteps = PREVIOUS STEPS INCOMPLETE
-autodoc-error-step-invalid-StepCompleted = STEP ALREADY COMPLETED
-autodoc-error-step-invalid-MissingTool = MISSING CORRECT TOOL
-autodoc-error-step-invalid-DoAfterFailed = CANNOT DO BEFORE
-autodoc-error-item-unavailable = ITEM UNAVAILABLE
-autodoc-error-surgery-failed = SURGERY FAILED
-autodoc-error-hand-full = ITEM MANIPULATOR FULL
-autodoc-error-storage-full = ITEM TRAYS FULL
-autodoc-error-patient-unsedated = PATIENT REQUIRES SEDATION
-
-# These intentionally have russian alongside them for ostranauts-like aesthetic.
-# If you are a russian fork, these don't need translating :)
-# Если вы являетесь русскоязычным форком, то они не нуждаются в переводе :)
-autodoc-title = AUTODOC АВТОДОК MK.XIV
-autodoc-create-program = NEW PROGRAM НОВОЕ РАСПИСАНИЕ
-autodoc-program-title = PROGRAM TITLE ТИТУЛ РАСПИСАНИЯ
-autodoc-program-title-placeholder = Program {$number}
-autodoc-abort-program = ABORT PROGRAM АБОРТ РАСПИСАНИЯ
-
-autodoc-view-program-title = VIEW PROGRAM ПРОСМОТРИ
-autodoc-safety-enabled = SAFETY ON БЕЗОПАСНО НА
-autodoc-safety-disabled = SAFETY OFF В БЕЗОПАСНОСТИ
-autodoc-remove-program = REMOVE PROGRAM УДАЛИТЕ
-autodoc-add-step = ADD STEP ДОБАВЬ ШАГ
-autodoc-remove-step = REMOVE STEP УДАЛИ ШАГ
-autodoc-start-program = START PROGRAM НАЧНИ РАСПИСАНИЕ
-autodoc-import-program = IMPORT PROGRAM ИМПОРТА
-autodoc-export-program = EXPORT PROGRAM ЭКСПОРТНАЯ
-
-autodoc-add-step-surgery = PERFORM SURGERY РАЗЫГРАЙ ОПЕРАЦИЮ
-autodoc-add-step-grab-item = GRAB ITEM ВОЗЬМИ ОБЪЕКТ
-autodoc-add-step-grab-item-prompt = Item name
-autodoc-add-step-grab-item-placeholder = heart
-autodoc-add-step-grab-organ = GRAB ORGAN ВОЗЬМИ ОРГАН
-autodoc-add-step-grab-part = GRAB BODY PART ВОЗЬМИ ЧАСТЬ ТЕЛА
-autodoc-add-step-store-item = STORE ITEM МАГАЗИН ОБЪЕКТ
-autodoc-add-step-set-label = SET LABEL НАНЕСИТЕ ЯРЛЫК
-autodoc-add-step-set-label-prompt = Label
-autodoc-add-step-wait = WAIT ЖДАТЬ
-autodoc-add-step-wait-prompt = Seconds to wait
-
-autodoc-body-part-Other = Other
-autodoc-body-part-Torso = Torso
-autodoc-body-part-Head = Head
-autodoc-body-part-Arm = Arm
-autodoc-body-part-Hand = Hand
-autodoc-body-part-Leg = Leg
-autodoc-body-part-Foot = Foot
-autodoc-body-part-Tail = Tail
-autodoc-body-part-Wings = Wings
-
-autodoc-body-symmetry-ignored = Any
-autodoc-body-symmetry-None = None
-autodoc-body-symmetry-Left = Left
-autodoc-body-symmetry-Right = Right
-
-autodoc-submit = Submit
+autodoc-program-step-surgery = провести операцию на { $part }: { $name }
+autodoc-program-step-grab-item = взять предмет: '{ $name }'
+autodoc-program-step-grab-any = взять любой: { $name }
+autodoc-item-organ = Орган
+autodoc-item-part = Часть тела
+autodoc-program-step-store-item = положить предмет на хранение
+autodoc-program-step-set-label = установить метку: '{ $label }'
+autodoc-program-step-wait = ждать { $length } секунд
+autodoc-program-completed = ПРОГРАММА ЗАВЕРШЕНА
+autodoc-error = ОШИБКА: { $error }
+autodoc-fatal-error = ФАТАЛЬНАЯ ОШИБКА: { $error }
+autodoc-waiting = ОЖИДАНИЕ ПРОГРАММЫ
+autodoc-error-missing-patient = ПАЦИЕНТ ОТСУТСТВУЕТ
+autodoc-error-body-part = ЧАСТЬ ТЕЛА НЕ ОБНАРУЖЕНА
+autodoc-error-surgery-impossible = ВЫБРАННАЯ ОПЕРАЦИЯ НЕВОЗМОЖНА
+autodoc-error-reality-breaking = РАЗРЫВ РЕАЛЬНОСТИ
+autodoc-error-step-invalid-None = ВЫБРАННЫЙ ШАГ НЕВОЗМОЖЕН
+autodoc-error-step-invalid-MissingSkills = ОТСУТСТВУЕТ НАВЫК
+autodoc-error-step-invalid-NeedsOperatingTable = ОТСУТСТВУЕТ ОПЕРАЦИОННЫЙ СТОЛ
+autodoc-error-step-invalid-Armor = КОНЕЧНОСТЬ ЗАБЛОКИРОВАНА ОДЕЖДОЙ
+autodoc-error-step-invalid-ToolInvalid = ВЫБРАННЫЙ ИНСТРУМЕНТ НЕ ПРИГОДЕН
+autodoc-error-step-invalid-SurgeryInvalid = ПАЦИЕНТ НЕПРИГОДЕН ДЛЯ ОПЕРАЦИИ
+autodoc-error-step-invalid-MissingPreviousSteps = ПРЕДЫДУЩИЕ ШАГИ НЕ ЗАВЕРШЕНЫ
+autodoc-error-step-invalid-StepCompleted = ШАГ УЖЕ ВЫПОЛНЕН
+autodoc-error-step-invalid-MissingTool = ОТСУТСТВУЕТ ПРАВИЛЬНЫЙ ИНСТРУМЕНТ
+autodoc-error-step-invalid-DoAfterFailed = НЕЛЬЗЯ ВЫПОЛНИТЬ ДО
+autodoc-error-item-unavailable = ПРЕДМЕТ НЕДОСТУПЕН
+autodoc-error-surgery-failed = ОПЕРАЦИЯ НЕУДАЧНА
+autodoc-error-hand-full = МАНИПУЛЯТОР ПОЛОН
+autodoc-error-storage-full = ХРАНИЛИЩЕ ПРЕДМЕТОВ ЗАПОЛНЕНО
+autodoc-error-patient-unsedated = ПАЦИЕНТ ТРЕБУЕТ СЕДАЦИИ
+autodoc-title = АвтоДок 人民辉煌自动手术机 MK.XIV
+autodoc-create-program = НОВАЯ ПРОГРАММА 新计划
+autodoc-program-title = НАЗВАНИЕ ПРОГРАММЫ 计划标题
+autodoc-program-title-placeholder = Программа { $number }
+autodoc-abort-program = ОТМЕНИТЬ ПРОГРАММУ 退出
+autodoc-view-program-title = ПРОСМОТР ПРОГРАММЫ 查看计划
+autodoc-safety-enabled = БЕЗОПАСНОСТЬ ВКЛ. 确保安全
+autodoc-safety-disabled = БЕЗОПАСНОСТИ ВЫКЛ. 不确保安全
+autodoc-remove-program = УДАЛИТЬ ПРОГРАММУ 删除计划
+autodoc-add-step = ДОБАВИТЬ ШАГ 添加一步
+autodoc-remove-step = УДАЛИТЬ ШАГ 删除一步
+autodoc-start-program = ЗАПУСТИТЬ ПРОГРАММУ 发起光荣人民计划
+autodoc-import-program = ИМПОРТ ПРОГРАММЫ 进口计划
+autodoc-export-program = ЭКСПОРТ ПРОГРАММЫ 出口计划
+autodoc-add-step-surgery = НАЧАТЬ ОПЕРАЦИЮ 开始手术
+autodoc-add-step-grab-item = ВЗЯТЬ ПРЕДМЕТ 拿走物品
+autodoc-add-step-grab-item-prompt = Название предмета
+autodoc-add-step-grab-item-placeholder = сердце дворфа
+autodoc-add-step-grab-organ = ВЗЯТЬ ОРГАН 拿管风琴
+autodoc-add-step-grab-part = ВЗЯТЬ ЧАСТЬ ТЕЛА 拾起身体部位
+autodoc-add-step-store-item = ПОМЕСТИТЬ В ХРАНИЛИЩЕ 将物品放入存储空间
+autodoc-add-step-set-label = УСТАНОВИТЬ МЕТКУ 设置标签
+autodoc-add-step-set-label-prompt = Метка
+autodoc-add-step-wait = ЖДАТЬ 等
+autodoc-add-step-wait-prompt = Секунд ожидания
+autodoc-body-part-Other = Другое
+autodoc-body-part-Torso = Торс
+autodoc-body-part-Chest = Грудь
+autodoc-body-part-Groin = Пах
+autodoc-body-part-Head = Голова
+autodoc-body-part-Arm = Рука
+autodoc-body-part-Hand = Кисть
+autodoc-body-part-Leg = Нога
+autodoc-body-part-Foot = Стопа
+autodoc-body-part-Tail = Хвост
+autodoc-body-symmetry-ignored = Любая
+autodoc-body-symmetry-None = Нет
+autodoc-body-symmetry-Left = Левая
+autodoc-body-symmetry-Right = Правая
+autodoc-submit = Отправить

@@ -1,6 +1,6 @@
-escolorpicker-menu-title = Advanced color picker
-escolorpicker-color-pick = Select a color:
-escolorpicker-confirm = Confirm
-escolorpicker-menu-flavor-left-syndicate = Created in collaboration with «CyberSun» LLC.
-escolorpicker-menu-flavor-left-nanotrasen = Created by NanoTrasen corp. ©
-escolorpicker-menu-flavor-right = v2.6
+escolorpicker-menu-title = Палитра цвета энергомеча
+escolorpicker-color-pick = Выберите цвет:
+escolorpicker-confirm = Подтвердить
+escolorpicker-menu-flavor-left-syndicate = Создано в сотрудничестве с CyberSun LLC.
+escolorpicker-menu-flavor-left-nanotrasen = Создано корпорацией NanoTrasen ©
+escolorpicker-menu-flavor-right = v2.5

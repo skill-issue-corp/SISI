@@ -1,57 +1,24 @@
-# SPDX-FileCopyrightText: 2022 Alex Evgrashin <aevgrashin@yandex.ru>
-# SPDX-FileCopyrightText: 2022 metalgearsloth <comedian_vs_clown@hotmail.com>
-# SPDX-FileCopyrightText: 2023 Alekshhh <44923899+Alekshhh@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 CrigCrag <137215465+CrigCrag@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 LankLTE <135308300+LankLTE@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Aidenkrz <aiden@djkraz.com>
-# SPDX-FileCopyrightText: 2024 ArtisticRoomba <145879011+ArtisticRoomba@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Whisper <121047731+QuietlyWhisper@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 potato1234_x <79580518+potato1234x@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
-reagent-name-carpetium = carpetium
-reagent-desc-carpetium = A mystical chemical, usually outsourced from the Clown Planet, that covers everything it touches in carpet. Somehow filters out carpotoxin from the blood stream.
-
-reagent-name-fiber = fiber
-reagent-desc-fiber = A raw material, usually extracted from wool or other fabric products.
-
-reagent-name-buzzochloric-bees = buzzochloric bees
-reagent-desc-buzzochloric-bees = Liquid bees. Oh god it's LIQUID BEES NO-
-
-reagent-name-ground-bee = ground Bee
-reagent-desc-ground-bee = Bee grounds. Gross.
-
-reagent-name-brass = brass
-reagent-desc-brass = Smells like clockwork.
-
-reagent-name-licoxide = licoxide
-reagent-desc-licoxide = A synthetic battery acid. It looks... electrifying.
-
-reagent-name-razorium = razorium
-reagent-desc-razorium = A strange, non-newtonian chemical. It is produced when two conflicting brute medications are combined. When force is applied to it, it temporarily hardens creating millions of tiny, sharp edges. Very painful.
-
-reagent-name-fresium = Fresium
-reagent-desc-fresium = A mysterious compound that slows the vibration of atoms and molecules... somehow. In layman's terms, it makes things cold... REALLY cold. Can cause long-lasting movement issues if ingested.
-
-reagent-name-laughter = laughter
-reagent-desc-laughter = Some say that this is the best medicine, but recent studies have proven that to be untrue.
-
-reagent-name-weh = juice that makes you Weh
-reagent-desc-weh = Pure essence of lizard plush. Makes you Weh!
-
-reagent-name-hew = juice that makes you Hew
-reagent-desc-hew = Pure essence of inversed lizard plush. Makes you Hew!
-
-reagent-name-corgiessence = corgium
-reagent-desc-corgiessence = Tastes like dog food. Clearly an acquired taste.
-
-reagent-name-catessence = felinase
-reagent-desc-catessence = A type of carcinogenic enzyme known to break down proteins found within the vocal cords of most animals. Mixing is NOT recommended.
-
-reagent-name-canidessence = caninase
-reagent-desc-canidessence = A type of carcinogenic enzyme known to break down proteins found within the vocal cords of most animals. Mixing is NOT recommended.
+reagent-name-carpetium = ковриний
+reagent-desc-carpetium = Таинственный химикат, обычно поставляемый с планеты клоунов, который покрывает ковром всё, на что попадёт. Каким-то образом отфильтровывает карпотоксин из кровеносной системы.
+reagent-name-fiber = волокно
+reagent-desc-fiber = Сырьё, обычно извлекаемое из шерсти или других тканых изделий.
+reagent-name-buzzochloric-bees = жужжехлориновые пчёлы
+reagent-desc-buzzochloric-bees = Жидкие пчёлы. О боже, это ЖИДКИЕ ПЧЁЛЫ, нет...
+reagent-name-ground-bee = молотые пчёлы
+reagent-desc-ground-bee = Молотые пчёлы. Мерзость.
+reagent-name-saxoite = саксонит
+reagent-desc-saxoite = Отдаёт джазом.
+reagent-name-licoxide = ликоксид
+reagent-desc-licoxide = Синтетическая аккумуляторная кислота. Выглядит... электризующе.
+reagent-name-razorium = бритвиум
+reagent-desc-razorium = Странное неньютоновское химическое вещество. Оно образуется при смешивании двух противоречивых по природе лекарств от механических повреждения. Под влиянием силы оно временно затвердевает, образуя миллионы крохотных острых граней. Весьма болезненно.
+reagent-name-fresium = фризиум
+reagent-desc-fresium = Таинственное соединение, которое замедляет колебания атомов и молекул... каким-то образом. Проще говоря, оно делает вещи холодными... РЕАЛЬНО холодными. При попадании в организм респираторным путём может вызывать долговременные проблемы со способностью передвигаться.
+reagent-name-laughter = смех
+reagent-desc-laughter = Некоторые говорят, что это лучшее лекарство, но последние исследования доказали, что это не так.
+reagent-name-weh = сок, заставляющий говорить Вех
+reagent-desc-weh = Чистая сущность плюшевого унатха. Заставляет вас говорить Вех!
+reagent-name-hew = сок, заставляющий говорить Хев
+reagent-desc-hew = Чистая сущность инвертированного плюшевого унатха. Заставляет вас говорить Хев!
+reagent-name-corgiessence = коргиум
+reagent-desc-corgiessence = На вкус как собака. Очевидно, вкус приобретенный.

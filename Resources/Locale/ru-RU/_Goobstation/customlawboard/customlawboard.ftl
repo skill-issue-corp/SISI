@@ -1,6 +1,6 @@
-custom-lawboard-ui-title = freeform lawboard
-
+custom-lawboard-ui-title = экспериментальная плата законов синдиката
 custom-lawboard-up-arrow = ↑
 custom-lawboard-down-arrow = ↓
-
-custom-lawboard-updated = Lawboard updated
+custom-lawboard-updated = Плата законов обновлена
+custom-lawboard-import = Импорт
+custom-lawboard-export = Экспорт

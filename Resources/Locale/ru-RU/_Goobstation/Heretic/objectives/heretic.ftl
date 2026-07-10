@@ -6,10 +6,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-issuer-heretic = [color=#8e24aa]The Mansus[/color]
-
-objective-condition-knowledge-title = Research at least {$count} knowledge from the Mansus.
-objective-condition-sacrifice-title = Sacrifice at least {$count} crew members.
-objective-condition-sacrifice-head-title = Sacrifice at least {$count} head of staff.
-
-objective-condition-description-ascend = I must do this in order to ascend!
+objective-issuer-heretic = [color=#8e24aa]Мансус[/color]
+objective-condition-knowledge-title = Изучите как минимум { $count } знаний Мансуса.
+objective-condition-sacrifice-title = Принесите в жертву как минимум { $count } членов экипажа.
+objective-condition-sacrifice-head-title = Принесите в жертву как минимум { $count } глав отделов.
+objective-condition-description-ascend = Я должен сделать это, чтобы вознестись!

@@ -1,10 +1,7 @@
-cmd-addimplant-hint = Implant
-
-cmd-addimplant-desc = Adds an implant to a specified entity.
-cmd-addimplant-help = Usage: addimplant <target> <ProtoId>
-
-cmd-addimplant-args-error = Invalid arguments. { cmd-addimplant-help }
-cmd-addimplant-bad-target = Unable to find entity '{$target}'.
-
-cmd-addimplant-success = Added '{$implant}' to '{$target}'.
-cmd-addimplant-failure = Failed to add '{$implant}' to '{$target}'.
+cmd-addimplant-hint = Имплант
+cmd-addimplant-desc = Добавляет имплант указанной сущности.
+cmd-addimplant-help = Использование: addimplant <цель> <ProtoId>
+cmd-addimplant-args-error = Неверные аргументы. { cmd-addimplant-help }
+cmd-addimplant-bad-target = Не удалось найти сущность '{ $target }'.
+cmd-addimplant-success = Добавлен '{ $implant }' к '{ $target }'.
+cmd-addimplant-failure = Не удалось добавить '{ $implant }' к '{ $target }'.

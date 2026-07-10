@@ -1,3 +1,3 @@
-guide-entry-xenomorph = Xenomorphs
-guide-entry-xenomorph-how-to-play = How to play as a Xenomorph
-guide-entry-xenomorph-classes = The xenomorph life-cycle
+guide-entry-xenomorph = Ксеноморфы
+guide-entry-xenomorph-how-to-play = Как играть за Ксеноморфов
+guide-entry-xenomorph-classes = Жизненный цикл Ксеноморфов

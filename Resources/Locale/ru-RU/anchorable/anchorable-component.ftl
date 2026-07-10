@@ -1,10 +1,3 @@
-# SPDX-FileCopyrightText: 2022 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-#
-# SPDX-License-Identifier: MIT
-
-anchorable-anchored = Anchored
-anchorable-unanchored = Unanchored
-anchorable-occupied = Tile occupied
-
-anchorable-fail-not-on-station = This can only be anchored on a station!
+anchorable-anchored = Закреплено
+anchorable-unanchored = Не закреплено
+anchorable-occupied = Плитка уже занята

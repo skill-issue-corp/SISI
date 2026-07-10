@@ -1,9 +1,8 @@
 # Names
-chat-emote-name-bubble = Bubble
-chat-emote-name-pop = Pop
-chat-emote-name-crack = Crack Knuckles
-
+chat-emote-name-bubble = Пузырь
+chat-emote-name-pop = Поп
+chat-emote-name-crack = Хруст суставов
 # Message
-chat-emote-msg-bubble = bubbles.
-chat-emote-msg-pop = pops!
-chat-emote-msg-crack = cracks {POSS-ADJ($entity)} knuckles.
+chat-emote-msg-bubble = пускает пузыри.
+chat-emote-msg-pop = попс!
+chat-emote-msg-crack = хрустит { POSS-ADJ($entity) } суставами.

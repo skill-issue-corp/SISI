@@ -5,23 +5,17 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 antag-pirate-briefing =
-    The station refused to pay for your protection!
-
-    You must raid the station for valuables. Once you've gathered enough, sell it on your cargo pallet and insert the credits into the Data Siphon located on your ship.
-    Get as much loot as possible!
-
-    By activating the Data Siphon you will start draining the cargo department from their credits.
-    Beware, this will anchor your ship, alert and anger the entire crew, so get ready for a big fight!
-
+    Станция отказалась платить за вашу защиту!
+    
+    Вам нужно совершить налёт на станцию и забрать всё ценное. Как только вы соберёте достаточно, продайте добычу через грузовой поддон и вставьте кредиты в сифон данных на вашем корабле.
+    Захватите как можно больше добычи!
+    
+    При активации сифона данных вы начнёте высасывать кредиты из отдела снабжения станции.
+    Будьте осторожны — это заякорит ваш корабль, оповестит экипаж и приведёт его в ярость, так что готовьтесь к серьёзной битве!
 antag-pirate-briefing-short =
-    You are a pirate.
-    Protect the ship, siphon the credits from the station, and raid it for even more loot!
-
-pirate-roundend-append = The pirate crew plundered the station of it's valuables worth a total of [color=yellow]{$num}[/color] credits!
-
-pirate-roundend-append-siphon = [color=green]The pirate crew managed to siphon[/color] [color=yellow]{$num}[/color] [color=green]credits from the station![/color]
-
-pirate-roundend-append-lose = [color=red]The pirate crew lost their data bank![/color]
-
-pirate-roundend-list =
-    The pirates were:
+    Вы — пират.
+    Защищайте корабль, выкачивайте кредиты со станции и грабьте её ради ещё большей добычи!
+pirate-roundend-append = Пиратская команда ограбила станцию на сумму в [color=yellow]{ $num }[/color] кредитов!
+pirate-roundend-append-siphon = [color=green]Пиратам удалось выкачать[/color] [color=yellow]{ $num }[/color] [color=green]кредитов со станции![/color]
+pirate-roundend-append-lose = [color=red]Пираты потеряли свой банк данных![/color]
+pirate-roundend-list = Пиратами были:

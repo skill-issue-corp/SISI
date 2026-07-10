@@ -1,97 +1,84 @@
-knowledge-path-blade-passive-desc-1 =
-    Being attacked while wielding a Heretic Blade in either hand will deliver a riposte towards your attacker, knocking them down.
-    This effect can only trigger once every 20 seconds.
+# SPDX-FileCopyrightText: 2020 AJCM-git <60196617+AJCM-git@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2020 DamianX <DamianX@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2020 Visne <vincefvanwijk@gmail.com>
+# SPDX-FileCopyrightText: 2021 Acruid <shatter66@gmail.com>
+# SPDX-FileCopyrightText: 2021 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2021 Galactic Chimp <63882831+GalacticChimp@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2021 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
+# SPDX-FileCopyrightText: 2021 RemberBL <timmermanrembrandt@gmail.com>
+# SPDX-FileCopyrightText: 2021 Visne <39844191+Visne@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Flipp Syder <76629141+vulppine@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Leon Friedrich <60421075+ElectroJr@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Paul Ritter <ritter.paul1@googlemail.com>
+# SPDX-FileCopyrightText: 2022 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 mirrorcult <lunarautomaton6@gmail.com>
+# SPDX-FileCopyrightText: 2022 wrexbe <81056464+wrexbe@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Flareguy <78941145+Flareguy@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
+# SPDX-FileCopyrightText: 2024 username <113782077+whateverusername0@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 whateverusername0 <whateveremail>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
 
-knowledge-path-blade-passive-desc-2 =
-    Grants you immunity to having limbs dismembered.
-    Additionally, when damaged below 50% of your maximum health, you gain increased resistance to gaining wounds.
-
-knowledge-path-blade-passive-desc-3 = Riposte cooldown is halved.
-
-knowledge-path-blade-s1-name = The Cutting Edge
+knowledge-path-blade-s1-name = Острие клинка
 knowledge-path-blade-s1-desc =
-    Our great ancestors forged swords and practiced sparring on the eve of great battles.
-
-    Follow the path of blades.
-    Transmute two knives into a sundered blade.
-    You can create up to four at a time.
-
-knowledge-path-blade-s2-name = Grasp of the Blade
+    Наши великие предки ковали мечи и упражнялись в поединках накануне великих сражений.
+    
+    Следуй по Пути клинка.
+    Трансмутируй 2 ножа в Расколотый клинок.
+    Вы можете одновременно создать только 4.
+knowledge-path-blade-s2-name = Хват клинка
 knowledge-path-blade-s2-desc =
-    The story of the footsoldier has been told since antiquity. It is one of blood and valor, and is championed by sword, steel and silver.
-
-    Your Mansus Grasp will cause a short stun when used on someone lying down or facing away from you.
-
-knowledge-path-blade-s3-name = Mark of the Blade
+    История простого пехотинца уходит корнями в древность. Это история крови и доблести, воспетая мечом, сталью и серебром.
+    
+    Ваш Хват Мансуса оглушает цель на короткое время, если она стоит к вам спиной или лежит.
+knowledge-path-blade-s3-name = Танец клейма
 knowledge-path-blade-s3-desc =
-    The footsoldier was known to be a fearsome duelist. Their general quickly appointed them as their personal Champion.
-
-    Your Mansus Grasp now applies the Mark of the Blade.
-    Triggering the mark will summon a knife that will orbit you for a short time.
-    The knife will block any attack directed towards you, but is consumed on use.
-    Additionally, you can use throw key with an empty active hand to fire the knife, dealing heavy damage.
-
-knowledge-path-blade-s4-name = Champion Hook
+    Пехотинец был грозным дуэлянтом. Генерал быстро назначил его своим личным Чемпионом.
+    
+    При атаке по вам, если вы держите по Еретическому клинку в каждой руке, вы контратакуете, сбивая противника с ног.
+    Эффект срабатывает раз в 20 секунд.
+knowledge-path-blade-s4-name = Метка клинка
 knowledge-path-blade-s4-desc =
-    In the flurry of death, he found peace within himself. Despite insurmountable odds, he forged on.
-
-    Grants you Champion Hook, a combat ability, that makes your next blade light attack deal extra damage,
-    knockdown and hook your opponent, allowing you to drag them with you at increased speed while holding a blade.
-    You cannot attack with your blade that is actively hooking someone.
-    Hook gets broken when victim stands up.
-
-knowledge-path-blade-armor-name = Shattered Panoply
-knowledge-path-blade-armor-desc =
-    The echoing, directionless cacophony of violence reverberates about me.
-    Even as the Champion's steel panoply was torn from their form, each piece craves purpose still, seeking to intercept unseen or imagined attackers.
-
-    Allows you to transmute a table (or a suit), a mask and a bar of silver to create a Shattered Panoply.
-    Provides baton resistance and shock insulation while worn.
-    Acts as a focus while hooded.
-    Unlocks tier 2 passive ability upgrade when transmuted.
-
-knowledge-path-blade-s5-name = Sacraments of Power
+    Генерал мечтал о конце войны, но Чемпион знал — не будет жизни без смерти. Он сам убьёт труса и всех, кто попытается сбежать.
+    
+    Ваш Хват Мансуса теперь накладывает Метку клинка.
+    Активация метки призывает нож, который будет вращаться вокруг вас некоторое время.
+    Нож блокирует одну атаку и исчезает.
+knowledge-path-blade-s5-name = Перестройка
 knowledge-path-blade-s5-desc =
-    His general wished to end the war, but the Champion knew there could be no life without death. He would slay the coward himself, and anyone who tried to run.
-
-    Grants you Sacraments of Power, a spell that makes you immune to all incoming damage and stamina damage for 5 seconds, the portion of absorbed damage will be sent back to attackers.
-    Prevents you from shooting or attacking during the effect duration.
-    Takes about 1 second to activate.
-
-knowledge-path-blade-s6-name = Furious Steel
+    В водовороте смерти он обрёл внутренний покой. Несмотря на непреодолимые преграды, он продолжал идти вперёд.
+    
+    Даёт заклинание "Перестройка", которое на короткое время перестраивает ваше тело.
+    Во время действия заклинания вы быстро восстанавливаете выносливость и выходите из оглушения, но не можете атаковать.
+knowledge-path-blade-s6-name = Стойка чемпиона
 knowledge-path-blade-s6-desc =
-    Without thinking, I took the knife of a fallen soldier and threw with all my might. My aim was true! The Torn Champion smiled at their first taste of agony, and with a nod, their blades became my own.
-
-    Grants you Furious Steel, a targeted spell. Using it will summon three orbiting blades around you. These blades will protect you from all attacks, but are consumed on use.
-
-knowledge-path-blade-s7-name = Empowered Blades
+    В конце концов, он остался один среди тел своих товарищей, залитый кровью, но не своей. У него не осталось ни соперников, ни равных, ни цели.
+    
+    Даёт иммунитет к отрубанию конечностей, а также устойчивость к кровотечению и замедлению от урона.
+    При снижении здоровья ниже 50% вы получаете сопротивление к ранам и к дубинкам.
+knowledge-path-blade-s7-name = Усиленные клинки
 knowledge-path-blade-s7-desc =
-    I found him cleaved in twain, halves locked in a duel without end; a flurry of blades, neither hitting their mark, for the Champion was indomitable.
-
-    Attacking someone with a Sundered Blade in both hands will now deliver a blow with both at once, dealing two attacks in rapid succession.
-    The second blow will be slightly weaker.
-    You are able to infuse your mansus grasp directly into your blades, and your blades are more effective against structures.
-    Actively hooking a victim using Champion Hook ability will allow you to attack them at a quickened rate with your offhand blade.
-
-knowledge-path-blade-s8-name = Wolves Among Sheep
+    Я нашёл его рассечённым надвое, половины в вечном поединке; шквал клинков, ни один не достиг цели — Чемпион был неодолим.
+    
+    Атака с Расколотыми Клинками в обеих руках теперь наносит двойной урон, совершая две атаки подряд.
+    Второй удар немного слабее.
+    Вы можете влить Хват Мансуса прямо в клинки, делая их более эффективнее против сооружений.
+knowledge-path-blade-s8-name = Яростная сталь
 knowledge-path-blade-s8-desc =
-    Shadows crawl across the room, casting every chair,
-    table and console into the looming shape of another traitorous hand.
-    I have made an enemy of all, and peace will never be known to me again.
-    I have shattered bonds and severed all alliances. In this truth,
-    I know now the fragility of comradery. My enemies will be all, divided.
-
-    Alters the fabric of reality, conjuring a magical arena unpassable to outsiders,
-    all participants are trapped and immune to any form of crowd control or enviromental hazards;
-    trapped participants are granted a Blade and are unable to leave or jaunt until they score a critical hit.
-    Critical hits partially restore the Heretic's health.
-
-knowledge-path-blade-s9-name = Maelstrom of Silver
+    Не раздумывая, я взял нож павшего солдата и метнул изо всех сил. Я попал! Разорванный Чемпион впервые ощутил боль и улыбнулся. Он кивнул, и его клинки стали моими.
+    
+    Даёт направленное заклинание "Яростная сталь".
+    Вы призываете три вращающихся клинка, которые блокируют атаки, но исчезают при использовании.
+    Можно кликнуть по себе или по клинку, чтобы метнуть их в ближайшую цель, нанося серьёзный урон.
+knowledge-path-blade-s9-name = Вихрь серебра
 knowledge-path-blade-s9-desc =
-    The ascension ritual of the Path of Blades.
-    Bring 3 headless corpses to a transmutation rune to complete the ritual.
-    When completed, you will be surrounded in a constant, regenerating orbit of blades.
-    These blades will protect you from all attacks, but are consumed on use.
-    Your Furious Steel spell will also have a shorter cooldown.
-    Additionally, you become a master of combat, gaining immunity to disarms on knockdown, as well as reducing stun and knockdown time by half.
-    Your Sundered Blades will deal bonus damage and heal you on attack for a portion of the damage dealt.
+    Ритуал Вознесения Пути клинков.
+    Принесите 3 обезглавленных трупа к рунному кругу трансмутации, чтобы завершить ритуал.
+    После завершения вы будете окружены постоянно восстанавливающимся вихрем клинков.
+    Клинки защищают от атак, но исчезают после блокирования.
+    Заклинание "Яростная Сталь" будет перезаряжаться быстрее.
+    Вы также становитесь мастером боя, способным передвигаться даже по скользящей поверхности.
+    Ваши Расколотые клинки наносят дополнительный урон и лечат вас на часть от нанесённого урона.

@@ -1,22 +1,19 @@
-cult-glyph-target-dead = The glyph's influence has no effect on the deceased.
-cult-glyph-target-rotting = The glyph's influence has no effect on the rotting.
-cult-glyph-not-enough-cultists = Not enough cultists present to invoke glyph!
-cult-glyph-conditions-not-met = No suitable targets within range of glyph!
-cult-glyph-too-many-targets = Too many targets present on glyph!
-cult-glyph-target-mindshield = Mental shielding prevents the glyph's influence from taking hold!
-cult-glyph-target-chaplain = A spark of divine power prevents the glyph's influence from taking hold!
-
-cult-glyph-name-knowledge = Pact of Knowledge
-cult-glyph-description-knowledge = Knowledge. Instills the spark of indelible knowledge. Able to convert most to join our ranks.
-cult-glyph-name-projection = Pact of Projection
-cult-glyph-description-projection = Projection. Allows us to ascend in a temporary astral form to spy on those around us.
-
-cult-glyph-name-warding = Communion of Warding
-cult-glyph-description-warding = Warding. Transmutes pressure-resistant clothing into entropic garb.
-cult-glyph-name-blades = Communion of Blades
-cult-glyph-description-blades = Blades. Transmutes and extrudes sharp objects into more lethal weaponry.
-
-cult-glyph-name-cessation = Concord of Cessation
-cult-glyph-description-cessation = Cessation. Transmutes a portable atmospherics scrubber into a Vacuous Spire for our use.
-cult-glyph-name-truth = Concord of Truth
-cult-glyph-description-truth = Truth. Instills the pure, indelible truth. Able to convert absolutely anyone to join our ranks.
+cult-glyph-target-dead = Влияние глифа не действует на мёртвых.
+cult-glyph-target-rotting = Влияние глифа не действует на гниющих.
+cult-glyph-not-enough-cultists = Недостаточно культистов для активации глифа!
+cult-glyph-conditions-not-met = Нет подходящих целей в радиусе действия глифа!
+cult-glyph-too-many-targets = Слишком много целей на глифе!
+cult-glyph-target-mindshield = Защита разума предотвращает влияние глифа!
+cult-glyph-target-chaplain = Искра божественной силы предотвращает влияние глифа!
+cult-glyph-name-knowledge = Пакт знания
+cult-glyph-description-knowledge = Знание. Прививает искру несмываемого знания. Может обратить большинство в наши ряды.
+cult-glyph-name-projection = Пакт проекции
+cult-glyph-description-projection = Проекция. Позволяет нам вознестись во временной астральной форме, чтобы шпионить за окружающими.
+cult-glyph-name-warding = Причастие защиты
+cult-glyph-description-warding = Защита. Преобразует одежду, устойчивую к давлению, в энтропическое одеяние.
+cult-glyph-name-blades = Причастие клинков
+cult-glyph-description-blades = Клинки. Преобразует и вытягивает острые предметы в более смертоносное оружие.
+cult-glyph-name-cessation = Согласие прекращения
+cult-glyph-description-cessation = Прекращение. Преобразует переносной скруббер в Пустотный шпиль.
+cult-glyph-name-truth = Согласие истины
+cult-glyph-description-truth = Истина. Прививает чистейшую, несмываемую истину. Может обратить абсолютно любого в наши ряды.

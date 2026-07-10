@@ -1,4 +1,3 @@
-wraith-spiker-lash = { $user } lashes at { $target }!
-
-wraith-spiker-shuffle = You are shuffled!
-wraith-spiker-shuffle-removed = You are no longer shuffled!
+wraith-spiker-lash = { $user } хлещет по { $target }!
+wraith-spiker-shuffle = Вас дезориентировало!
+wraith-spiker-shuffle-removed = Вы больше не дезориентированы!

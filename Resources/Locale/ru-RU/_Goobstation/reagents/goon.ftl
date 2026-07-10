@@ -1,4 +1,5 @@
-reagent-name-formaldehyde = formaldehyde
+reagent-name-formaldehyde = формальдегид
 reagent-desc-formaldehyde =
-    A toxic chemical used in preserving corpses and manufacturing explosives.
-    Also prevents the wraith's absorption ability when the corpse has at least 25 units inside it.
+    Введите в труп, чтобы предотвратить разложение.
+    Высокий шанс распада на гистамин делает его особенно жестоким ядом, если использовать его таким образом.
+    Также предотвращает способность фантома к поглощению души, если в трупе содержится не менее 25 единиц вещества.

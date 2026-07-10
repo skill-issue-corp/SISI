@@ -1,29 +1,24 @@
 # Uplink
-store-category-debug = debug category
-store-category-debug2 = debug category 2
-store-category-weapons = Weaponry
-store-category-ammo = Ammo
-store-category-explosives = Explosives
-store-category-chemicals = Chemicals
-store-category-deception = Deception
-store-category-disruption = Disruption
-store-category-implants = Implants
-store-category-allies = Allies
-store-category-job = Job
-store-category-wearables = Wearables
-store-category-pointless = Pointless
-store-category-objective = Objective
-store-discounted-items = Discounts
-
+store-category-debug = Debug категория
+store-category-debug2 = Debug категория 2
+store-category-weapons = Вооружение
+store-category-ammo = Боеприпасы
+store-category-explosives = Взрывчатка
+store-category-chemicals = Химикаты
+store-category-deception = Обман
+store-category-disruption = Саботаж
+store-category-allies = Союзники
+store-category-wearables = Экипировка
+store-category-implants = Импланты
+store-category-job = Работа
+store-category-pointless = Безделушки
+store-category-contractor = Наёмник
+store-discounted-items = Скидки
 # Revenant
-store-category-abilities = Abilities
-
+store-category-abilities = Способности
 # Wizard
-store-caregory-spellbook-offensive = Offensive Spells
-store-caregory-spellbook-defensive = Defensive Spells
-store-caregory-spellbook-utility = Utility Spells
-store-caregory-spellbook-equipment = Wizard Equipment
-store-caregory-spellbook-events = Event Spells
-
-# Nukie Delivery
-store-category-nukie-delivery = Offers
+store-caregory-spellbook-offensive = Атакующие заклинания
+store-caregory-spellbook-defensive = Защитные заклинания
+store-caregory-spellbook-utility = Вспомогательные заклинания
+store-caregory-spellbook-equipment = Волшебное снаряжение
+store-caregory-spellbook-events = Заклинания событий

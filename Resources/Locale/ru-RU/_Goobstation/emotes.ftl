@@ -6,25 +6,22 @@
 # SPDX-FileCopyrightText: 2025 Ilya246 <57039557+Ilya246@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 MoutardOMiel <108993081+Moutardomiel@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Skippy <107330854+SkippyMcSkips@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 loltart <159829224+loltart@users.noreply.github.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-emote-menu-category-farts = Farts
-
-chat-emote-name-flip = Do a flip
-chat-emote-name-spin = Spin
-chat-emote-name-jump = Jump
-chat-emote-name-tweak = Tweak
-chat-emote-name-flex = Flex muscles
-chat-emote-name-gulp = Gulp
-chat-emote-name-surprised = look surprised
-chat-emote-name-bagawk = Bagawk
-
-chat-emote-msg-flip = does a flip!
-chat-emote-msg-spin = spins!
-chat-emote-msg-jump = jumps!
-chat-emote-msg-tweak = starts tweaking!
-chat-emote-msg-flex = flexes its muscles.
-chat-emote-msg-gulp = gulps.
-chat-emote-msg-surprised = looks surprised.
+emote-menu-category-farts = ...
+chat-emote-name-flip = Сделать сальто
+chat-emote-name-spin = Крутиться
+chat-emote-name-jump = Прыжок
+chat-emote-name-tweak = Дёргаться
+chat-emote-name-flex = Показать мышцы
+chat-emote-name-gulp = Глотать
+chat-emote-name-surprised = Выглядеть удивлённым
+chat-emote-name-bagawk = Багаукс!
+chat-emote-msg-flip = делает сальто!
+chat-emote-msg-spin = крутится!
+chat-emote-msg-jump = прыгает!
+chat-emote-msg-tweak = начинает дёргаться!
+chat-emote-msg-flex = демонстрирует мышцы.
+chat-emote-msg-gulp = глотает.
+chat-emote-msg-surprised = выглядит удивлённым.

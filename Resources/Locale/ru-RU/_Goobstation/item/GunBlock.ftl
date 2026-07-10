@@ -1,1 +1,1 @@
-gun-block = You are unable to use weapons.
+gun-block = Вы не способны использовать оружие.

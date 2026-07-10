@@ -1,88 +1,86 @@
-knowledge-path-void-passive-desc-1 = Grants you immunity to cold temperatures.
-knowledge-path-void-passive-desc-2 = You no longer need to breathe.
-knowledge-path-void-passive-desc-3 = Grants you partial resistance to all slowdowns.
+# SPDX-FileCopyrightText: 2020 AJCM-git <60196617+AJCM-git@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2020 DamianX <DamianX@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2020 Visne <vincefvanwijk@gmail.com>
+# SPDX-FileCopyrightText: 2021 Acruid <shatter66@gmail.com>
+# SPDX-FileCopyrightText: 2021 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2021 Galactic Chimp <63882831+GalacticChimp@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2021 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
+# SPDX-FileCopyrightText: 2021 RemberBL <timmermanrembrandt@gmail.com>
+# SPDX-FileCopyrightText: 2021 Visne <39844191+Visne@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Flipp Syder <76629141+vulppine@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Leon Friedrich <60421075+ElectroJr@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Paul Ritter <ritter.paul1@googlemail.com>
+# SPDX-FileCopyrightText: 2022 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 mirrorcult <lunarautomaton6@gmail.com>
+# SPDX-FileCopyrightText: 2022 wrexbe <81056464+wrexbe@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Flareguy <78941145+Flareguy@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
+# SPDX-FileCopyrightText: 2024 whateverusername0 <whateveremail>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2025 username <113782077+whateverusername0@users.noreply.github.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
 
-knowledge-path-void-s1-name = Glimmer of Winter
+knowledge-path-void-s1-name = Мерцание зимы
 knowledge-path-void-s1-desc =
-    I feel a shimmer in the air, the air around me gets colder.
-    I start to realize the emptiness of existence. Something's watching me.
-
-    Opens up the Path of Void to you.
-    Allows you to transmute a knife in sub-zero temperatures into a Void Blade.
-    You can only create two at a time.
-
-knowledge-path-void-s2-name = Grasp of Void
+    Я ощущаю мерцание в воздухе, вокруг становится холоднее.
+    Я начинаю осознавать пустоту бытия. Кто-то наблюдает за мной.
+    
+    Открывает для вас Путь Пустоты.
+    Позволяет преобразовать нож при отрицательной температуре в Клинок Пустоты.
+    Можно создать только два одновременно.
+knowledge-path-void-s2-name = Хват Пустоты
 knowledge-path-void-s2-desc =
-    I saw the cold watcher who observes me. The chill mounts within me.
-    They are quiet. This isn't the end of the mystery.
-
-    Your Mansus Grasp will temporarily mute and chill the victim.
-
-knowledge-path-void-s3-name = Mark of Void
+    Я увидел холодного наблюдателя, что следит за мной. Леденящий холод связал меня.
+    Они молчат. Тайна ещё не раскрыта.
+    
+    Ваша Хват Мансуса теперь временно лишает жертву голоса и охлаждает её.
+knowledge-path-void-s3-name = Фаза Пустоты
 knowledge-path-void-s3-desc =
-    A gust of wind? A shimmer in the air? The presence is overwhelming, my senses began to betray me. My mind is my own enemy.
-
-    Your Mansus Grasp now applies the Mark of Void. The mark is triggered from an attack with your Void Blade.
-    When triggered, gives the victim the Curse of Void, which will mute and slowly freeze them to death.
-
-knowledge-path-void-s4-name = Void Phase
+    Сущность называет себя Аристократом. Она легко шагает по воздуху, словно по земле, оставляя за собой холодный порыв.
+    Она исчезает, и я остаюсь один среди метели.
+    
+    Даёт вам Фазу Пустоты — заклинание телепортации на большое расстояние.
+    Кроме того, наносит урон неверным вокруг исходного и конечного местоположения.
+knowledge-path-void-s4-name = Знак Пустоты
 knowledge-path-void-s4-desc =
-    The entity calls themself the Aristocrat. They effortlessly walk through air like nothing - leaving a harsh, cold breeze in their wake.
-    They disappear, and I am left in the blizzard.
-
-    Grants you Void Phase, a long range targeted teleport spell.
-    Additionally causes damage to heathens around your original and target destination.
-
-knowledge-path-void-s5-name = Void Prison
+    Порыв ветра? Мерцание в воздухе? Присутствие ошеломляет, мои чувства предают меня. Мой разум — мой враг.
+    
+    Ваш Хват Мансуса теперь накладывает Знак Пустоты. Знак активируется при атаке Клинком Пустоты.
+    При активации накладывает на жертву Проклятие Пустоты, которое лишает её голоса и медленно замораживает до смерти.
+knowledge-path-void-s5-name = Тюрьма Пустоты
 knowledge-path-void-s5-desc =
-    At first, I see myself, waltzing along a snow-laden street.
-    I try to yell, grab hold of this fool and tell them to run.
-    But the only welts made are on my own beating fist.
-    My smiling face turns to regard me, reflecting back in glassy eyes the empty path I have been lead down.
-
-    Grants you Void Prison, a spell that places your victim into a ball, making them unable to do anything or speak. Applies void chill afterwards.
-
-knowledge-path-void-armor-name = Hollow Weave
-knowledge-path-void-armor-desc =
-    Stepping through the cold air, I am shocked by a new sensation.
-    Thousands of almost imperceivable threads cling to my form.
-    I am left adrift with every step.
-    Even as I hear the crunch of snow as I plant my foot to the ground, I feel nothing.
-
-    Allows you to transmute a table (or a suit) and a mask in sub-zero temperatures to create a Hollow Weave,
-    this armor grants protection from the hazards of space and will periodically nullify attacks and grant you a short stealth camouflage to reposition yourself.
-    Acts as a focus while hooded.
-    Unlocks tier 2 passive ability upgrade when transmuted.
-
-knowledge-path-void-s6-name = Void Pull
+    Сначала я вижу себя, кружащегося в вальсе на улице, занесённой снегом.
+    Я пытаюсь закричать, ударить этого глупца и сказать ему бежать.
+    Но удары отдаются лишь в моём собственном кулаке.
+    Моё улыбающееся лицо оборачивается ко мне, отражая в стеклянных глазах пустоту, по которой меня вели.
+    
+    Даёт вам Тюрьму Пустоты — заклинание, заключающее жертву в шар, делая её неспособной что-либо делать или говорить. После этого накладывая пустотный холод.
+knowledge-path-void-s6-name = Притяжение Пустоты
 knowledge-path-void-s6-desc =
-    All is fleeting, but what else stays? I'm close to ending what was started.
-    The Aristocrat reveals themselves to me again. They tell me I am late. Their pull is immense, I cannot turn back.
-
-    Grants you Void Pull, a spell that pulls all nearby heathens towards you, stunning them briefly.
-
-knowledge-path-void-s7-name = Seeking Blade
+    Всё мимолётно, но что остаётся? Я близок к завершению начатого.
+    Аристократ явился мне снова. Он сказал, что я опоздал. Его притяжение неотвратимо, назад пути нет.
+    
+    Даёт вам Притяжение Пустоты — заклинание, притягивающее всех неверных к вам и ненадолго оглушает их.
+knowledge-path-void-s7-name = Искатель клинка
 knowledge-path-void-s7-desc =
-    Fleeting memories, fleeting feet. I mark my way with frozen blood upon the snow. Covered and forgotten.
-
-    Your blade now freezes enemies. Additionally, you can now attack distant targets with your Void Blade, teleporting directly next to them.
-
-knowledge-path-void-s8-name = Void Conduit
+    Мимолётные воспоминания, мимолётные следы. Я отмечаю свой путь замёрзшей кровью на снегу. Скрытый и забытый.
+    
+    Ваш клинок теперь замораживает врагов. Кроме того, вы можете атаковать дальние цели Клинком Пустоты, мгновенно переносясь к ним.
+knowledge-path-void-s8-name = Проводник Пустоты
 knowledge-path-void-s8-desc =
-    The hum in the still, cold air turns to a cacophonous rattle.
-    Over the noise, there is no distinction to the clattering of window panes and the yawning knowledge that ricochets through my skull.
-    The doors won't close. I can't keep the cold out now.
-
-    Grants you Void Conduit, a spell which summons a pulsing gate to the Void itself. Every pulse breaks windows and airlocks, while afflicting Heathens with an eldritch chill and shielding Heretics against low pressure.
-
-knowledge-path-void-s9-name = Waltz at the End of Time
+    Гул в мёртвом, холодном воздухе превращается в ужасающую какафонию.
+    Сквозь этот шум невозможно различить, где стук оконных стёкол, а где зов знания, рикошетящий внутри моей черепной коробки.
+    Двери не закрываются. Я больше не могу удерживать холод снаружи.
+    
+    Даёт вам Проводник Пустоты — заклинание, призывающее пульсирующие врата в саму Пустоту. Каждый импульс разбивает окна и шлюзы, поражает неверных запредельным холодом и защищает еретиков от низкого давления.
+knowledge-path-void-s9-name = Вальс в конце времён
 knowledge-path-void-s9-desc =
-    The ascension ritual of the Path of Void.
-    Bring 3 corpses to a transmutation rune in sub-zero temperatures to complete the ritual.
-    When completed, grants you Aristocrat's Blessing.
-    A snowstorm is summoned, everything around you will be turned into snow and the air will constantly be frozen.
-    Lights will shatter when nearby.
-    Water, ice and slippery surfaces no longer slip you.
-    You will also become immune to flames, space, and similar environmental hazards.
-    You now waltz in the air, ignoring gravitation and moving at increased speed.
-    All your path specific abilities have their cooldowns halved.
+    Ритуал вознесения Пути Пустоты.
+    Принесите 3 трупа к руне трансмутации при отрицательной температуре, чтобы завершить ритуал.
+    После завершения вы получаете Благословение аристократа.
+    Поднимется снежная буря, всё вокруг обратится в снег, а воздух станет леденящим.
+    Находящиеся рядом будут неметь и замерзать ещё быстрее.
+    Окна и источники света будут разбиты.
+    Вы станете невосприимчивы к огню, вакууму и другим воздействиям среды. Также получите свободное перемещение в невесомости.

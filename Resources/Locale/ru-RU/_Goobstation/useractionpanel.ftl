@@ -1,6 +1,6 @@
-user-action-control-nothing = Nothing to display here yet.
-user-action-control-tab-status = Status
-user-action-control-tab-emote = Emotes
-user-action-control-tab-verbs = Verbs
-user-action-control-tab-actions = Actions
-user-action-control-tab-config = Config
+user-action-control-nothing = Пока здесь ничего не отображается.
+user-action-control-tab-status = Статус
+user-action-control-tab-emote = Эмоции
+user-action-control-tab-verbs = Глаголы
+user-action-control-tab-actions = Действия
+user-action-control-tab-config = Настройки

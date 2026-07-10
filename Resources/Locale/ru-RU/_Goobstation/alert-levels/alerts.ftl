@@ -8,14 +8,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-alerts-stasis-name = [color=cyan]Temporal stasis[/color]
-alerts-stasis-desc = You are placed in temporary stasis. You cannot interact with the world, nor can it interact with you.
+alerts-stasis-name = [color=cyan]Временный стазис[/color]
+alerts-stasis-desc = Вы помещены во временный стазис. Вы не можете взаимодействовать с окружающим миром, как и он с вами.
+alerts-knocked-down-name = [color=yellow]Сбит с ног[/color]
+alerts-knocked-down-desc = [color=yellow]Сбит с ног[/color]! Вы не можете подняться.
+alerts-modsuit-power-name = [color=yellow]Заряд MOD[/color]
+alerts-modsuit-power-desc = Показывает текущий уровень заряда вашего MOD. Низкий заряд может повлиять на работу костюма.
+alerts-centered-name = В равновесии
+alerts-centered-desc = Вы чувствуете связь с вашими корнями. В частности с теми, что удерживают вас в центре плитки.
 
-alerts-knocked-down-name = [color=yellow]Knocked down[/color]
-alerts-knocked-down-desc = [color=yellow]Knocked down[/color]! You can't get up.
+### Pain Alerts
 
-alerts-modsuit-power-name = [color=yellow]Modsuit Power[/color]
-alerts-modsuit-power-desc = Displays the current power level of your modsuit. Low power may affect suit functionality.
-
-alerts-centered-name = Centered
-alerts-centered-desc = You feel in touch with your roots. Specifically the roots that keep you centered on tiles.
+alerts-minor-pain-name = Лёгкая боль
+alerts-minor-pain-desc = Вы чувствуете лёгкую боль.
+alerts-moderate-pain-name = [color=yellow]Умеренная боль[/color]
+alerts-moderate-pain-desc = [color=yellow]Боль заметна и отвлекает.[/color]
+alerts-severe-pain-name = [color=red]Сильная боль[/color]
+alerts-severe-pain-desc = [color=red]Боль сильная и её трудно игнорировать.[/color]
+alerts-excruciating-pain-name = [color=red]Мучительная боль[/color]
+alerts-excruciating-pain-desc = [color=red]Боль невыносима и мешает вам сосредоточиться на чём-либо ещё.[/color]
+alerts-disgust-name = [color=yellow]Отвращение[/color]
+alerts-disgust-desc = Вам не очень хорошо...

@@ -1,2 +1,2 @@
-slaughter-demons-blood-devour = A strange force is blocking them from entering!
-slaughter-demons-kiss-devour = AAH! THEIR FLESH! IT BURNS!
+slaughter-demons-blood-devour = Странная сила не дает им войти!
+slaughter-demons-kiss-devour = ААА! ИХ ПЛОТЬ! ОНА ГОРИТ!

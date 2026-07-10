@@ -1,91 +1,85 @@
-knowledge-path-ash-passive-desc-1 =
-    Grants you immunity high temperatures.
-    Upon reaching 3 fire stacks on your body, your spells will become empowered.
+# SPDX-FileCopyrightText: 2020 AJCM-git <60196617+AJCM-git@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2020 DamianX <DamianX@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2020 Visne <vincefvanwijk@gmail.com>
+# SPDX-FileCopyrightText: 2021 Acruid <shatter66@gmail.com>
+# SPDX-FileCopyrightText: 2021 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2021 Galactic Chimp <63882831+GalacticChimp@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2021 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
+# SPDX-FileCopyrightText: 2021 RemberBL <timmermanrembrandt@gmail.com>
+# SPDX-FileCopyrightText: 2021 Visne <39844191+Visne@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Flipp Syder <76629141+vulppine@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Leon Friedrich <60421075+ElectroJr@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Paul Ritter <ritter.paul1@googlemail.com>
+# SPDX-FileCopyrightText: 2022 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 mirrorcult <lunarautomaton6@gmail.com>
+# SPDX-FileCopyrightText: 2022 wrexbe <81056464+wrexbe@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Flareguy <78941145+Flareguy@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
+# SPDX-FileCopyrightText: 2024 whateverusername0 <whateveremail>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2025 Aviu00 <93730715+Aviu00@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 username <113782077+whateverusername0@users.noreply.github.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
 
-knowledge-path-ash-passive-desc-2 = Being on fire speeds you up based on the amount of fire stacks.
-knowledge-path-ash-passive-desc-3 = Grants you immunity temporary blindness and vision blur.
-
-knowledge-path-ash-s1-name = Nightwatcher's Secret
+knowledge-path-ash-s1-name = Тайна ночного дозора
 knowledge-path-ash-s1-desc =
-    The City Guard know their watch. If you ask them at night, they may tell you about the ashy lantern.
-
-    Opens up the Path of Ash to you.
-    Allows you to transmute a match and a knife into an Ashen Blade.
-    You can only create two at a time.
-
-knowledge-path-ash-s2-name = Grasp of Ash
+    Городская стража знает свой дозор. Если ночью спросишь их, они расскажут о пепельном фонаре.
+    
+    Открывает вам Путь пепла.
+    Позволяет преобразовать спичку и нож в Пепельный клинок
+    Одновременно можно создать только два.
+knowledge-path-ash-s2-name = Хват пепла
 knowledge-path-ash-s2-desc =
-    The Nightwatcher was the first of them, his treason started it all. Their lantern, expired to ash - their watch, absent.
-
-    Your Mansus Grasp will burn the eyes of the victim, damaging them and blurring their vision.
-
-knowledge-path-ash-s3-name = Mark of Ash
+    Ночной дозорный был первым из них, его предательство положило всему начало. Их фонарь истлел в пепел — их дежурство закончилось.
+    
+    Ваш Хват Мансуса ослепит жертву, нанеся ей урон и затуманив глаза.
+knowledge-path-ash-s3-name = Пепельный сдвиг
 knowledge-path-ash-s3-desc =
-    He was a very particular man, always watching in the dead of night.
-    But in spite of his duty, he regularly tranced through the Manse with his blazing lantern held high.
-    He shone brightly in the darkness, until the blaze begin to die.
-
-    Your Mansus Grasp now applies the Mark of Ash. The mark is triggered from an attack with your Ashen Blade.
-    When triggered, all your spells have their cooldown slightly reduced, the victim takes additional burn damage, and the mark is transferred to a nearby heathen.
-    Damage dealt is decreased with each transfer.
-
-knowledge-path-ash-s4-name = Ashen Passsage
+    Он знал, как ходить между мирами.
+    
+    Даёт вам Пепельный Переход — заклинание, позволяющее выйти за пределы реальности и переместиться на короткое расстояние, проходя сквозь стены.
+knowledge-path-ash-s4-name = Метка пепла
 knowledge-path-ash-s4-desc =
-    He knew how to walk between the planes.
-
-    Grants you Ashen Passage, a spell that lets you phase out of reality, allowing you to traverse a short distance, passing though any walls.
-    When empowered, it will break you out of any stuns and restraints, and will have a longer range.
-
-knowledge-path-ash-s5-name = Volcano Blast
+    Он был очень особенным человеком, всегда наблюдавшим в мёртвую ночь.
+    Но несмотря на долг, он часто блуждал по Мансусу с горящим фонарём.
+    Он сиял во тьме, пока пламя не начало угасать.
+    
+    Ваш Хват Мансуса теперь накладывает Метку пепла. Метка срабатывает при атаке Пепельным клинком.
+    При активации жертва получает дополнительный урон выносливости и ожог, а метка передаётся ближайшему неверующему.
+    Наносимый урон снижается с каждой передачей метки.
+knowledge-path-ash-s5-name = Взрыв вулкана
 knowledge-path-ash-s5-desc =
-    No fire was hot enough to rekindle them. No fire was bright enough to save them. No fire is eternal.
-
-    Grants you Volcano Blast, a spell that - after a short charge - fires off a beam of energy at a nearby enemy,
-    setting them on fire and burning them.
-    If they do not extinguish themselves, the beam will continue to another target.
-    When empowered, lasts enemies with more flames.
-
-knowledge-path-ash-armor-name = Scorched Mantle
-knowledge-path-ash-armor-desc =
-    The Watch remain as they fell, crumbling away from sight.
-    Yet the winds blowing through the city call them back to service, dust kicked into the air, a drifting silhouette of the fallen.
-
-    Allows you to transmute a table (or a suit), a mask and a match to create a Scorched Mantle.
-    It provides completes protection from fire, and is able to produce more flames passively if you are already on fire.
-    Acts as a focus while hooded.
-    Unlocks tier 2 passive ability upgrade when transmuted.
-
-knowledge-path-ash-s6-name = Cracked Lantern
+    Не было огня, достаточно горячего, чтобы вернуть их. Не было огня, достаточно яркого, чтобы спасти их. Нет вечного огня.
+    
+    Даёт вам Взрыв вулкана — заклинание, которое после короткой зарядки выпускает огненный шар в ближайшего врага, обжигая и поджигая его.
+    Если жертва не потушит себя, шар продолжит движение к другой цели
+knowledge-path-ash-s6-name = Маска безумия
 knowledge-path-ash-s6-desc =
-    The Nightwatcher was lost. That's what the Watch believed. Yet he walked the world, unnoticed by the masses.
-
-    Allows you to transmute a lantern or a flashlight, a flare, a pile of ash and a lighter to create a Cracked Lantern.
-    The lantern works as a flash that also ignites victims.
-    It is a home to Hint, a creature that reveals itself when you hold lantern in your hand.
-    Hint follows behind you and attacks enemies when nearby.
-    You can hit a person with the lantern, which will force Hint to follow that person.
-    After taking enough damage or moving too far away from the lantern, hint will return to you.
-
-knowledge-path-ash-s7-name = Fiery Blade
+    Ночной дозорный пропал. Так думала стража. Но он всё ещё бродил по миру, незамеченный толпой.
+    
+    Позволяет Вам преобразовать любую маску, сигнальную ракету, лужу пепла, зажигалку, дубинку-шокер или печень в Маску безумия.
+    Маска внушает страх нечестивцам, которые её видят, нанося урон выносливости, вызывая галлюцинации и безумие.
+    Её также можно насильно надеть на неверующего, лишив возможности снять её...
+    Кроме того, маска защищает вас от огня и высоких температур при ношении.
+knowledge-path-ash-s7-name = Пылающий клинок
 knowledge-path-ash-s7-desc =
-    He returned, blade in hand, he swung and swung as the ash fell from the skies.
-    His city, the people he swore to watch... and watch he did, as they all burnt to cinders.
-
-    Your blade now lights enemies ablaze on attack.
-
-knowledge-path-ash-s8-name = Nightwatcher's Rebirth
+    Он вернулся, с клинком в руке, он размахивал им, пока пепел осыпался с небес.
+    Его город, люди, которых он клялся охранять… и он смотрел, как они сгорали дотла.
+    
+    Ваш клинок теперь поджигает врагов при атаке.
+knowledge-path-ash-s8-name = Возрождение дозорного
 knowledge-path-ash-s8-desc =
-    The fire was inescapable, and yet, life remained in his charred body. The Nightwatcher was a particular man, always watching.
-
-    Grants you Nightwatcher's Rebirth, a spell that extinguishes you and burns all nearby heathens who are currently on fire, healing you for every victim afflicted.
-    If any victims afflicted are in critical condition, they will also instantly die.
-    When empowered, damage and heal is increased.
-
-knowledge-path-ash-s9-name = Ashlord's Rite
+    Огонь был неизбежен, но жизнь всё ещё теплилась в обугленном теле. Ночной дозорный — человек, что всегда наблюдал.
+    
+    Даёт вам Возрождение дозорного — заклинание, сжигающее всех ближайших неверующих, уже охваченных огнём, исцеляя вас за каждого поражённого.
+    Умерщвляет всех, кто находится в критическом состоянии.
+knowledge-path-ash-s9-name = Ритуал повелителя пепла
 knowledge-path-ash-s9-desc =
-    The ascension ritual of the Path of Ash.
-    Bring 3 burning or husked corpses to a transmutation rune to complete the ritual.
-    When completed, you become a harbinger of flames, gaining two abilites.
-    Cascade, which causes a massive, growing ring of fire around you,
-    and Oath of Flame, causing you to passively create a ring of flames as you walk.
-    You will also become immune to flames, space, and similar environmental hazards.
+    Ритуал Вознесения Пути пепла.
+    Принесите 3 горящих или обугленных тела к руне трансмутации, чтобы завершить ритуал.
+    После завершения вы станете вестником пламени, получив две способности:
+    "Каскад", создающий огромную растущую волну огня вокруг вас,
+    и "Клятву Пламени", заставляющую вас оставлять за собой огненный след.
+    Вы также станете невосприимчивы к огню, космосу, и другим схожим опасностям окружающей среды.

@@ -1,35 +1,23 @@
-shadowling-condition-win = The shadowlings have successfully ascended into their final form!
-shadowling-condition-draw = Both parties took major losses, but crew managed to survive.
-shadowling-condition-failure = The crew have managed to stop the shadowlings from ascending!
-
-shadowling-list-start = The Shadowlings were:
-thrall-list-start = The Thralls were:
-
+shadowling-condition-win = Тенеморфы успешно вознеслись в свою финальную форму!
+shadowling-condition-draw = Обе стороны понесли тяжёлые потери, но экипажу удалось выжить.
+shadowling-condition-failure = Экипажу удалось помешать тенеморфам вознестись!
+shadowling-list-start = Тенеморфами были:
+thrall-list-start = Траллами были:
 shadowling-list-name = [color=#880808]{ $name }[/color] ([color=gray]{ $user }[/color])
-
-shadowling-title = Shadowlings
-shadowling-description = The shadow is the greatest teacher for how to come to the light.
-
-shadowling-round-end-name = shadowling
-
+shadowling-title = Тенеморфы
+shadowling-description = Тень — величайший учитель на пути к свету.
+shadowling-round-end-name = тенеморф
 shadowling-role-greeting =
-    Something stirs deep in your mind. A red light floods your vision, and slowly you remember. Though your human disguise has served you
-    well, the time is nigh to cast it off and enter your true form. You have disguised yourself amongst the humans, but you are not one of them.
-    You are a shadowling, and you are to ascend at all costs.
-    Check the guidebook for more information.
-
-shadowling-role-greeting-short =
-    You are a shadowling who has awakened in the body of {$name}.
-
+    Что-то пробуждается в глубинах вашего сознания. Красный свет заливает глаза, а воспоминания начинают возвращаться. Хоть человеческое обличье служило вам
+    верой и правдой, пришло время сбросить его и обрести свою истинную форму. Вы скрывались среди людей, но вы не один из них.
+    Вы — Тенеморф, и вы должны вознестись любой ценой.
+    Загляни в руководство, чтобы узнать больше.
+shadowling-role-greeting-short = Вы — Тенеморф, пробудившийся в теле { $name }.
 thrall-role-greeting =
-    You are a thrall.
-    Help your Shadowling ascend by any means necessary.
-
-shadowling-briefing =
-    Shed from this lesser form and start your path to ascension.
-
+    Вы — Тралл. Раб своего хозяина.
+    Помогите тенеморфу вознестись любыми средствами.
+shadowling-briefing = Отринь эту низшую форму и начни путь к вознесению.
 thrall-briefing =
-    You are no longer bound to your old beliefs.
-    Help your shadowling ascend at all costs.
-
-objective-issuer-shadowling = Shadowling
+    Вы больше не связаны своими прежними убеждениями.
+    Помогите своему тенеморфу вознестись любой ценой.
+objective-issuer-shadowling = Тенеморф

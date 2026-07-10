@@ -1,14 +1,16 @@
-language-SpaceItalian-name = Space Italian
-language-SpaceItalian-description =
-    The language of the kitchen. Mamma mia!
-
-language-Cheval-name = Cheval
-language-Cheval-description = The language of horses.
-
+language-SpaceItalian-name = Космо-итальянский
+language-SpaceItalian-description = Язык кухни. Mamma mia!
+language-Cheval-name = Парнокопытный
+language-Cheval-description = Лошадинный язык.
 language-Revolutionary-name = Liberé
 chat-language-Revolutionary-name = Liberé
-language-Revolutionary-description = The subtle and intricate secret language of the revolution. No one will suspect you.
-
-language-Carptongue-name = Carptongue
-chat-language-Carptongue-name = Carptongue
-language-Carptongue-description = The language of space carp and dragons, composed of throaty growling and sharp hissing through gills.
+language-Revolutionary-description = Утончённый и замысловатый тайный язык революционеров. Никто не заподозрит вас.
+language-Gruntish-name = Грунтич
+chat-language-Gruntish-name = Грунтич
+language-Gruntish-description = Для обычного слушателя этот язык — непостижимая солянка ворчащих звуков. Для Они этот хаос каким-то образом понятен.
+language-YowKriol-name = Йовикрол
+chat-language-YowKriol-name = Йовикрол
+language-YowKriol-description = Гибрид множества языков, некогда распространённых в Австралии, сохраняемый как первый язык многих Йови.
+language-Carptongue-name = Карпишь
+chat-language-Carptongue-name = Карпишь
+language-Carptongue-description = Язык космических карпов и драконов, состоящий из рычания и резкого шипения через жабры.

@@ -1,35 +1,28 @@
-automation-filter-examine-empty = [color=red]This filter isn't configured yet.[/color]
-automation-filter-examine-string = This filter is set to '{$name}'
-stack-filter-examine = This filter is set to a minimum of [color=green]{$size}[/color] items in a stack.
-combined-filter-examine = This filter is set to {INDEFINITE($gate)} [color=green]{$gate}[/color] comparison with its inputs.
-pressure-filter-examine = This filter is set to between [color=green]{$min}[/color] kPa and [color=green]{$max}[/color] kPa.
-
-label-filter-window-title = Edit Label Filter
-label-filter-placeholder = label to match against
-
-name-filter-window-title = Edit Name Filter
-name-filter-mode-Contain = Contain
-name-filter-mode-Start = Start with
-name-filter-mode-End = End with
-name-filter-mode-Match = Match exactly
-
-stack-filter-window-title = Edit Stack Filter
-stack-filter-min-stack-size = Min stack size
-stack-filter-stack-chunk-size = Out chunk size
-
-pressure-filter-window-title = Edit Pressure Filter
-pressure-filter-min-pressure = Min Pressure
-pressure-filter-max-pressure = Max Pressure
-
-anchor-filter-examine-enabled = It is set to only allow anchored, anchorable objects.
-anchor-filter-examine-disabled = It is set to only allow unanchored, anchorable objects.
-
-mob-filter-window-title = Edit Mob Filter
-mob-state-Alive = Alive
-mob-state-Dead = Dead
-mob-state-Critical = Critical
-mob-filter-examine-unset = No mob states are configured
-mob-filter-examine-set = It is configured to allow mobs in these states: {$states}
-
-cuff-filter-examine-enabled = It is set to only allow mobs that are handcuffed.
-cuff-filter-examine-disabled = It is set to only allow mobs that are uncuffed.
+automation-filter-examine-empty = [color=red]Этот фильтр ещё не настроен.[/color]
+automation-filter-examine-string = Этот фильтр настроен на '{ $name }'
+stack-filter-examine = Этот фильтр настроен на минимум [color=green]{ $size }[/color] предметов в стопке.
+combined-filter-examine = Этот фильтр настроен на { INDEFINITE($gate) } [color=green]{ $gate }[/color] сравнение со своими входами.
+pressure-filter-examine = Этот фильтр настроен на диапазон от [color=green]{ $min }[/color] кПа до [color=green]{ $max }[/color] кПа.
+label-filter-window-title = Редактировать этикетку фильтра
+label-filter-placeholder = этикетка для поиска
+name-filter-window-title = Редактировать имя фильтра
+name-filter-mode-Contain = Содержит
+name-filter-mode-Start = Начинается с
+name-filter-mode-End = Заканчивается на
+name-filter-mode-Match = Совпадает
+stack-filter-window-title = Редактировать фильтр стопки
+stack-filter-min-stack-size = Минимальный размер стопки
+stack-filter-stack-chunk-size = Размер пачки вывода
+pressure-filter-window-title = Настройка фильтра давления
+pressure-filter-min-pressure = Минимальное давление
+pressure-filter-max-pressure = Максимальное давление
+anchor-filter-examine-enabled = Настроено на пропуск только закреплённых или закрепляемых объектов.
+anchor-filter-examine-disabled = Настроено на пропуск только не закреплённых, но закрепляемых объектов.
+mob-filter-window-title = Редактировать фильтр существ
+mob-state-Alive = Живой
+mob-state-Dead = Мёртвый
+mob-state-Critical = Критическое состояние
+mob-filter-examine-unset = Состояния существ не настроены
+mob-filter-examine-set = Настроено на пропуск существ в состояниях: { $states }
+cuff-filter-examine-enabled = Настроено на пропуск существ только в наручниках.
+cuff-filter-examine-disabled = Настроено на пропуск существ только без наручников.

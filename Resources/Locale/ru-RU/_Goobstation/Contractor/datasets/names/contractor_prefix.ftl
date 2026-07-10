@@ -1,8 +1,8 @@
-names-contractor-prefix-1 = Hunter
-names-contractor-prefix-2 = Recovery Agent
-names-contractor-prefix-3 = Tracker
-names-contractor-prefix-4 = Venator
-names-contractor-prefix-5 = Infiltraitor
-names-contractor-prefix-6 = Handler
-names-contractor-prefix-7 = Contractor
-names-contractor-prefix-8 = Jaeger
+names-contractor-prefix-1 = Охотник
+names-contractor-prefix-2 = Коллектор
+names-contractor-prefix-3 = Следопыт
+names-contractor-prefix-4 = Свинопас
+names-contractor-prefix-5 = Лазутчик
+names-contractor-prefix-6 = Координатор
+names-contractor-prefix-7 = Наёмник
+names-contractor-prefix-8 = Егерь

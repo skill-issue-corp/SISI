@@ -5,5 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mindshield-implant-effect-removed = You feel an agonizing pain as your perspective changes and your vision widens near-instantly.
-nanite-mend-popup = You feel a vivid warmness spread throughout your body.
+mindshield-implant-effect-removed = Вы ощущаете мучительную боль, когда ваше восприятие меняется, а зрение мгновенно расширяется.
+nanite-mend-popup = Вы чувствуете, как по всему телу распространяется яркое тепло.
+deathrattle-implant-dead-message = Зафиксирована смерть { $user } { $position }.
+deathrattle-implant-critical-message = Жизненные показатели { $user } критические, требуется немедленная помощь: { $position }.

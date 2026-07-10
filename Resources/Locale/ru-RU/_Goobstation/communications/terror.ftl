@@ -1,7 +1,8 @@
-terror-slaughter-demon = Attention crew, it appears that someone on your station has made an unexpected communication with a bloody man-devourer in nearby space.
-terror-lone-operative = Attention crew, it appears that someone on your station has made an unexpected communication with a rival corporation in nearby space.
-terror-wraith = Attention crew, it appears that someone on your station has made an unexpected communication with a vengeful spirit in nearby space.
-terror-slasher = Attention crew, it appears that someone on your station has made an unexpected communication with a notorious serial killer in nearby space.
-terror-vox = Attention crew, it appears that someone on your station has made an unexpected communication with a group of raiders in nearby space.
-terror-blob = Attention crew, it appears that someone on your station has made an unexpected communication with a mad scientist in nearby space.
-terror-grey-tide = Attention crew, it appears that someone on your station has made an unexpected communication with a very robust individual in nearby space.
+terror-slaughter-demon = Внимание, экипаж! Похоже, что кто-то с вашей станции неожиданно вышел на связь с кровожадным пожирателем людей в ближнем космосе.
+terror-lone-operative = Внимание, экипаж! Похоже, что кто-то с вашей станции неожиданно вышел на связь с конкурирующей корпорацией в ближнем космосе.
+terror-wraith = Внимание, экипаж! Похоже, что кто-то с вашей станции неожиданно вышел на связь с мстительным духом в ближнем космосе.
+terror-slasher = Внимание, экипаж! Похоже, что кто-то с вашей станции неожиданно вышел на связь с печально известным серийным убийцей в ближнем космосе.
+terror-vox = Внимание, экипаж! Похоже, что кто-то с вашей станции неожиданно вышел на связь с группой мародёров в ближнем космосе.
+terror-blob = Внимание, экипаж! Похоже, что кто-то с вашей станции неожиданно вышел на связь с безумным учёным в ближнем космосе.
+terror-grey-tide = Внимание, экипаж! Похоже, что кто-то с вашей станции неожиданно вышел на связь с серым индивидуумом в ближнем космосе.
+terror-wizard = Внимание, экипаж! Похоже, что кто-то с вашей станции неожиданно вышел на связь с психически нестабильной персоной в ближнем космосе.

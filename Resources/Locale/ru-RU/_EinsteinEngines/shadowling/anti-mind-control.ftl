@@ -1,6 +1,4 @@
-mind-control-lesser-shadowling = You feel a strong force behind this person, making you unable to touch their mind.
-mind-control-thrall-done = You feel like you have gained control over your mind.
-
-anti-mind-max-charges-reached = The device has reached its initial limit.
-
-anti-mind-examine-charges = [color=#FF0000]It has {$charges} charges left.[/color]
+mind-control-lesser-shadowling = Ты ощущаешь мощную силу, стоящую за этим существом, не позволяющую прикоснуться к его разуму.
+mind-control-thrall-done = Ты чувствуешь, что вновь обрёл контроль над своим разумом.
+anti-mind-max-charges-reached = Устройство достигло своего изначального предела.
+anti-mind-examine-charges = [color=#FF0000]Осталось зарядов: { $charges }.[/color]

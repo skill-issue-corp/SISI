@@ -1,127 +1,105 @@
-# SPDX-FileCopyrightText: 2024 Errant <35878406+Errant-4@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Jeff <velcroboy333@hotmail.com>
-# SPDX-FileCopyrightText: 2024 Krunklehorn <42424291+Krunklehorn@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Southbridge <7013162+southbridge-fur@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Velcroboy <107660393+IamVelcroboy@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Velcroboy <velcroboy333@hotmail.com>
-# SPDX-FileCopyrightText: 2024 deltanedas <39013340+deltanedas@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 deltanedas <@deltanedas:kde.org>
-# SPDX-FileCopyrightText: 2024 joshepvodka <86210200+joshepvodka@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
-station-beacon-general = General
-
-station-beacon-command = Command
-station-beacon-bridge = Bridge
-station-beacon-vault = Vault
-station-beacon-gateway = Gateway
-station-beacon-captain = Captain
-station-beacon-hop = HOP
-
-station-beacon-security = Security
-station-beacon-brig = Brig
-station-beacon-brig-med = Brig Med
-station-beacon-warden = Warden
-station-beacon-hos = HOS
-station-beacon-armory = Armory
-station-beacon-perma-brig = Perma
-station-beacon-detective = Detective
-station-beacon-courtroom = Courtroom
-station-beacon-law = Law Office
-station-beacon-security-checkpoint = Checkpoint
-
-station-beacon-medical = Medical
-station-beacon-medbay = Medbay
-station-beacon-chemistry = Chem
-station-beacon-cryonics = Cryopods
-station-beacon-cmo = CMO
-station-beacon-morgue = Morgue
-station-beacon-surgery = Surgery
-station-beacon-psychology = Psychology
-station-beacon-clinic = Clinic
-station-beacon-paramedic = Paramedics
-
-station-beacon-science = Science
-station-beacon-research-and-development = Research
-station-beacon-research-server = Server
-station-beacon-research-director = RD
-station-beacon-robotics = Robotics
-station-beacon-artifact-lab = Artifact
-station-beacon-anomaly-gen = Anomaly
-
-station-beacon-supply = Supply
-station-beacon-cargo = Cargo
-station-beacon-cargo-bay = Cargo Bay
-station-beacon-qm = QM
-station-beacon-salvage = Salvage
-
-station-beacon-engineering = Engineering
-station-beacon-ce = CE
-station-beacon-ame = AME
-station-beacon-solars = Solars
-station-beacon-solars-N = Solars N
-station-beacon-solars-NE = Solars NE
-station-beacon-solars-E = Solars E
-station-beacon-solars-SE = Solars SE
-station-beacon-solars-S = Solars S
-station-beacon-solars-SW = Solars SW
-station-beacon-solars-W = Solars W
-station-beacon-solars-NW = Solars NW
-station-beacon-gravgen = Grav
-station-beacon-pa = PA Control
-station-beacon-smes = SMES
-station-beacon-telecoms = Telecoms
-station-beacon-atmos = Atmos
-station-beacon-teg = TEG
-station-beacon-tech-vault = Tech Vault
-station-beacon-anchor = Anchor
-
-station-beacon-service = Service
-station-beacon-kitchen = Kitchen
-station-beacon-bar = Bar
-station-beacon-botany = Botany
-station-beacon-janitor = Janitor
-
-station-beacon-ai = AI
-station-beacon-ai-sat = AI Sat
-station-beacon-ai-core = AI Core
-station-beacon-ai-upload = AI Upload
-station-beacon-ai-power = AI Power
-
-station-beacon-arrivals = Arrivals
-station-beacon-evac = Evac
-station-beacon-docking-arm = Docking Arm
-station-beacon-eva-storage = EVA Storage
-station-beacon-chapel = Chapel
-station-beacon-library = Library
-station-beacon-reporter = Reporter
-station-beacon-dorms = Dorms
-station-beacon-theater = Theater
-station-beacon-tools = Tools
-station-beacon-disposals = Disposals
-station-beacon-cryosleep = Cryosleep
-station-beacon-escape-pod = Escape Pod
-station-beacon-escape-pod-N = Escape Pod N
-station-beacon-escape-pod-NE = Escape Pod NE
-station-beacon-escape-pod-E = Escape Pod E
-station-beacon-escape-pod-SE = Escape Pod SE
-station-beacon-escape-pod-S = Escape Pod S
-station-beacon-escape-pod-SW = Escape Pod SW
-station-beacon-escape-pod-W = Escape Pod W
-station-beacon-escape-pod-NW = Escape Pod NW
-station-beacon-vox = Vox Break Room
-
-station-beacon-gorlex = Gorlex Barracks
-station-beacon-gorlex-office = Gorlex Office
-station-beacon-gorlex-breakroom = Gorlex Breakroom
-station-beacon-gorlex-hos = Gorlex Command
-station-beacon-cybersun-legal = Cybersun Legal Dept
-station-beacon-interdyne = Interdyne Triage
-station-beacon-interdyne-front = Interdyne Reception
-station-beacon-cybersun-rd = Cybersun R&D
-station-beacon-donk = DONK Co. Shipping
-station-beacon-donk-front = DONK Co. front
-station-beacon-shipyard = Shipyard
+station-beacon-general = Общий
+station-beacon-command = Командование
+station-beacon-bridge = Мостик
+station-beacon-vault = Хранилище
+station-beacon-gateway = Врата
+station-beacon-captain = Капитан
+station-beacon-hop = Кабинет ГП
+station-beacon-security = Служба безопасности
+station-beacon-brig = Бриг
+station-beacon-brig-med = Бригмед
+station-beacon-warden = Смотритель
+station-beacon-hos = Кабинет ГСБ
+station-beacon-armory = Оружейная
+station-beacon-perma-brig = Пермабриг
+station-beacon-detective = Детектив
+station-beacon-courtroom = Зал суда
+# Corvax-Localization-Start
+station-beacon-law = Офис адвоката
+# Corvax-Localization-End
+station-beacon-security-checkpoint = КПП СБ
+station-beacon-medical = Медицинский отдел
+station-beacon-medbay = Медотсек
+station-beacon-chemistry = Хим. лаборатория
+station-beacon-cryonics = Криокапсулы
+station-beacon-cmo = Кабинет главрача
+station-beacon-morgue = Морг
+station-beacon-surgery = Операционная
+station-beacon-psychology = Психолог
+station-beacon-clinic = Клиника
+station-beacon-science = Научный отдел
+station-beacon-paramedic = Парамедик
+station-beacon-research-and-development = НИО
+station-beacon-research-server = Серверная
+station-beacon-research-director = Кабинет НР
+station-beacon-robotics = Робототехника
+station-beacon-artifact-lab = Ксеноархеология
+station-beacon-anomaly-gen = Аномалистика
+station-beacon-supply = Отдел снабжения
+station-beacon-cargo = Карго
+station-beacon-cargo-bay = Док снабжения
+station-beacon-qm = Кабинет КМ
+station-beacon-salvage = Утилизаторская
+station-beacon-engineering = Инженерный отдел
+station-beacon-ce = Кабинет СИ
+station-beacon-ame = ДАМ
+station-beacon-solars = Солнечные панели
+station-beacon-gravgen = Генератор гравитации
+station-beacon-solars-N = Солнечные панели (Север)
+station-beacon-solars-NE = Солнечные панели (Северо-Восток)
+station-beacon-solars-E = Солнечные панели (Восток)
+station-beacon-solars-SE = Солнечные панели (Юго-Восток)
+station-beacon-solars-S = Солнечные панели (Юг)
+station-beacon-solars-SW = Солнечные панели (Юго-Запад)
+station-beacon-solars-W = Солнечные панели (Запад)
+station-beacon-solars-NW = Солнечные панели (Северо-Запад)
+station-beacon-pa = Контроль УЧ
+station-beacon-smes = СМЭС
+station-beacon-telecoms = Телекоммуникации
+station-beacon-atmos = Атмосферный отсек
+station-beacon-teg = ТЭГ
+station-beacon-tech-vault = Технологическое хранилище
+station-beacon-anchor = Якорь
+station-beacon-service = Сервисные помещения
+station-beacon-kitchen = Кухня
+station-beacon-bar = Бар
+station-beacon-botany = Гидропоника
+station-beacon-janitor = Коморка уборщика
+station-beacon-ai = ИИ
+station-beacon-ai-sat = ИИ Спутник
+station-beacon-ai-core = ИИ Ядро
+station-beacon-ai-upload = ИИ Загрузка
+station-beacon-ai-power = ИИ Энергопитание
+station-beacon-arrivals = Зал прибытия
+station-beacon-evac = Зал эвакуации
+station-beacon-docking-arm = Стыковочная зона
+station-beacon-eva-storage = Хранилище ВКД
+station-beacon-chapel = Храм
+station-beacon-library = Библиотека
+station-beacon-reporter = Репортёр
+station-beacon-dorms = Жилой отсек
+station-beacon-theater = Театр
+station-beacon-tools = Хранилище инструментов
+station-beacon-disposals = Мусоросброс
+station-beacon-cryosleep = Криосон
+station-beacon-escape-pod = Спасательная капсула
+station-beacon-vox = Вокс-комната
+station-beacon-escape-pod-N = Спасательная капсула (Север)
+station-beacon-escape-pod-NE = Спасательная капсула (Северо-Восток)
+station-beacon-escape-pod-E = Спасательная капсула (Восток)
+station-beacon-escape-pod-SE = Спасательная капсула (Юго-Восток)
+station-beacon-escape-pod-S = Спасательная капсула (Юг)
+station-beacon-escape-pod-SW = Спасательная капсула (Юго-Запад)
+station-beacon-escape-pod-W = Спасательная капсула (Запад)
+station-beacon-escape-pod-NW = Спасательная капсула (Северо-Запад)
+station-beacon-gorlex = Бараки Gorlex
+station-beacon-gorlex-office = Офис Gorlex
+station-beacon-gorlex-breakroom = Комната отдыха Gorlex
+station-beacon-gorlex-hos = Командование Gorlex
+station-beacon-cybersun-legal = Юридический отдел Cybersun
+station-beacon-interdyne = Триаж Interdyne
+station-beacon-interdyne-front = Приёмная Interdyne
+station-beacon-cybersun-rd = НИО Cybersun
+station-beacon-donk = Поставки DONK Co.
+station-beacon-donk-front = Приёмная DONK Co.
+station-beacon-shipyard = Верфь

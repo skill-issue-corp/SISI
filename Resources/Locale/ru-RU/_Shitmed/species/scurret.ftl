@@ -1,1 +1,1 @@
-species-name-scurret = Scurret
+species-name-scurret = Скюррет

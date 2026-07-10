@@ -1,1 +1,1 @@
-teleport-blocked-message = You cannot teleport right now!
+teleport-blocked-message = Вы не можете телепортироваться прямо сейчас!

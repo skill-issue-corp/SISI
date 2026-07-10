@@ -3,13 +3,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-RobotAntennaTv = Tv
-marking-RobotAntennaTesla = Tesla
-marking-RobotAntennaLightb = Light (alt)
-marking-RobotAntennaLight = Light
-marking-RobotAntennaCyberhead = Cyberhead
-marking-RobotAntennaSidelights = Sidelights
-marking-RobotAntennaAntlers = Antlers
-marking-RobotAntennaDroneeyes = Drone Eyes
-marking-RobotAntennaCrowned = Crowned
-marking-RobotAntennaTowers = Towers
+marking-RobotAntennaTv = Телевизор
+marking-RobotAntennaTesla = Тесла
+marking-RobotAntennaLightb = Свет альт.
+marking-RobotAntennaLight = Свет
+marking-RobotAntennaCyberhead = Кибер
+marking-RobotAntennaSidelights = Боковые огни
+marking-RobotAntennaAntlers = Рога
+marking-RobotAntennaDroneeyes = Дрон
+marking-RobotAntennaCrowned = Король
+marking-RobotAntennaTowers = Башни

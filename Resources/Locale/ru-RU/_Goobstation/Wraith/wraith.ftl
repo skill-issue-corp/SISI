@@ -1,10 +1,6 @@
-wraith-haunted-expiration = Expires in: { $minutes }m { $seconds }s
-wraith-already-haunted = { CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } been haunted.
-
-wraith-possess = Your essence takes over the object!
-
-wraith-banishment = I'm whole, for the final time.
-
-wraith-action-generic-fail = Not enough points to use this action!
-
-whitelist-action-generic-fail = You do not have the requirements to use this action.
+wraith-haunted-expiration = Истекает через: { $minutes }м. { $seconds }с.
+wraith-already-haunted = { CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } был преследован.
+wraith-possess = Ваша сущность овладевает объектом!
+wraith-banishment = Я цел, в последний раз.
+wraith-action-generic-fail = Недостаточно очков для использования этой способности!
+whitelist-action-generic-fail = У вас нет необходимых условий для использования этой способности.

@@ -5,14 +5,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lathe-category-mechs-vim = Vim
-lathe-category-mechs-honker = H.O.N.K.
-lathe-category-mechs-hamptr = H.A.M.P.T.R.
-lathe-category-mechs-ripley = Ripley
-lathe-category-mechs-ripleymkii = Ripley MK-II
-lathe-category-mechs-clarke = Clarke
-lathe-category-mechs-gygax = Gygax
-lathe-category-mechs-durand = Durand
-lathe-category-mechs-equipment = Mech equipment
-lathe-category-mechs-weapons = Mech weapons
-lathe-category-modsuit = MOD Suits
+lathe-category-mechs-vim = Вим
+lathe-category-mechs-honker = Х.О.Н.К.
+lathe-category-mechs-hamptr = Х.А.М.Я.К.
+lathe-category-mechs-ripley = Рипли
+lathe-category-mechs-ripleymkii = Рипли MK-II
+lathe-category-mechs-clarke = Кларк
+lathe-category-mechs-gygax = Гигакс
+lathe-category-mechs-durand = Дюранд
+lathe-category-mechs-equipment = Оборудование мехов
+lathe-category-mechs-weapons = Оружие мехов
+lathe-category-modsuit = MOD

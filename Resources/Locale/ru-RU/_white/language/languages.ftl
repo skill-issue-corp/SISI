@@ -1,2 +1,2 @@
-language-XenoHivemind-name = Hivemind
-language-XenoHivemind-description = This is not a language in the conventional sense, but a symphony of minds resonating with a psionic field through the hive node. It is a flow of sensations, images, emotions, and instincts, transmitted from one xenomorph to another, forming a unified collective consciousness.
+language-XenoHivemind-name = Разум улья
+language-XenoHivemind-description = Это не язык в привычном смысле, а симфония разумов, резонирующих с псионическим полем через узел улья. Это поток ощущений, образов, эмоций и инстинктов, передаваемых от одного ксеноморфа к другому и формирующих единое коллективное сознание.

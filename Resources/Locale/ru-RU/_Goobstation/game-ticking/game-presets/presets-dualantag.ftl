@@ -5,11 +5,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-traitorling-title = Traitorling
-traitorling-description = Attention. Known enemy signals and strange biosigns detected. Confirmed Syndicate Agents and Changelings on board.
-
-revtraitor-title = Revolutionary Traitors
-revtraitor-description = A revolution has been provoked by a member of the Syndicate, but not every agent got the hint...
-
-revling-title = Revolutionary Changelings
-revling-description = A revolution has been provoked by the Syndicate, and opportunistic changelings have come to feast on the carnage.
+traitorling-title = Генократель
+traitorling-description = Внимание. Обнаружены известные вражеские сигналы и странные биосигналы. Подтверждены агенты Синдиката и генокрады на борту.
+revtraitor-title = Революционеры-предатели
+revtraitor-description = Революция была спровоцирована членом Синдиката, но не все агенты поняли намёк...
+revling-title = Революционеры-генокрады
+revling-description = Революция была спровоцирована Синдикатом, и генокрады пришли поживиться на этом хаосе.

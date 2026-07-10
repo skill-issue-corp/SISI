@@ -1,39 +1,28 @@
-influence-type-active = Active
-influence-type-passive = Passive
+influence-type-active = Активные
+influence-type-passive = Пассивные
 
 ## ACTIVE INFLUENCES
-influence-name-lapse = Aberrant Lapse
-influence-description-lapse = Lapse an individual's form, rendering them temporarily imperceptible, unable to move or act. Cultists can exit the lapse at will.
 
-influence-name-glare = Null Glare
-influence-description-glare = Emit a horrific pulse of cosmic light, slowing and disorienting everyone around you, regardless of protection. Ignores other cultists.
-influence-description-glare-upgrade = When empowered, the range is amplified, and the light becomes so strong it knocks people down briefly.
-
-influence-name-shunt = Shunt Subjectivity
-influence-description-shunt = Shunt your target's mind out of their body and unto the cosmic dark, temporarily rendering their body mindless.
-
-influence-name-ingress = Force ingress
-influence-description-ingress = Use a concentrated effort of power to blast open any lock, be that a door, a closet, or anything else.
-influence-description-ingress-upgrade = When empowered, even bolted doors won't stand in your way.
-
-influence-name-nova = Astral Nova
-influence-description-nova = Hurl a large and disruptive blast of astral energy that damages, paralyzes, and draws in everything in its path.
-
-influence-name-imposition = Vacuous Imposition
-influence-description-imposition = For a short time, your corporeal form becomes a conduit of cosmic power - negating any incoming damage.
-influence-description-imposition-upgrade = If empowered, cosmic power would stay in your body for a little while longer.
-
-influence-name-conversion = Shatter Cognition
-influence-description-conversion = Instill true, indellible knowledge upon a wayward individual, leaving them no choice but to join your cause. Single use.
-
-influence-name-transmutation = Corrupt Matter
-influence-description-transmutation = Channel malign energy into an object in your palm, twisting it into something else.
-influence-description-transmutation-upgrade = If empowered, you may forge even more sophisticated items.
-
-influence-name-stride = Astral Stride
-influence-description-stride = Astral energy invigorates your every move, allowing you to move at incredible speed for a brief duration.
-influence-description-stride-upgrade = If empowered, cosmic power would stay in your body for a little while longer.
+influence-name-lapse = Искажённый провал
+influence-description-lapse = Искажает форму существа, временно парализуя его. Искажённые становятся неуязвимыми преградами.
+influence-name-glare = Взгляд пустоты
+influence-description-glare = Испускает ужасающий импульс космического света, замедляя и дезориентируя всех вокруг.
+influence-name-shunt = Сдвиг разума
+influence-description-shunt = Изгоняет разум существа из тела в космическую пустоту, временно оставляя тело без сознания.
+influence-name-ingress = Астральный вход
+influence-description-ingress = Сосредотачивает силу для вскрытия шлюза или запертой двери.
+influence-name-nova = Астральная звезда
+influence-description-nova = Выпускает мощный и разрушительный взрыв астральной энергии, который наносит урон, парализует и затягивает всё на своём пути.
+influence-name-imposition = Пустотная связь
+influence-description-imposition = На короткое время ваша телесная форма становится проводником космической силы — предотвращая любой входящий урон.
 
 ## PASSIVE INFLUENCES
-influence-name-step = Unbound Step
-influence-description-step = You move relative only to the starless black - your movement is no longer affected by gravity.
+
+influence-name-eschew = Отвержение метаболизма
+influence-description-eschew = Твои телесные нужды в пище и воде разорваны. Больше нет необходимости есть или пить.
+influence-name-step = Безграничный шаг
+influence-description-step = Вы двигаетесь, подчиняясь лишь пустоте — гравитация больше не влияет на ваши шаги.
+influence-name-stride = Астральный шаг
+influence-description-stride = Астральная энергия наполняет каждый ваш шаг, слегка ускоряя передвижение.
+influence-name-vitality = Пустотная живучесть
+influence-description-vitality = Беззвёздная пустота Монумента заполняет ваш разум и тело. Телесная форма медленно восстанавливается в его присутствии.

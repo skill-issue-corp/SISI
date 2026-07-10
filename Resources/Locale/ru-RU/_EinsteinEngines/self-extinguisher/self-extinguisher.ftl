@@ -1,18 +1,14 @@
-self-extinguisher-verb = Self-Extinguish
-
-self-extinguisher-examine-cooldown-ready = The self-extinguisher is ready to be used.
-self-extinguisher-examine-cooldown-recharging = The self-extinguisher is recharging for [color=teal]{$cooldown}[/color] seconds.
-self-extinguisher-examine-no-charges = The self-extinguisher is recharging for [color=teal]{$cooldown}[/color] seconds.
-
-self-extinguisher-no-charges = The {$item} has no charges left!
-self-extinguisher-on-cooldown = The {$item}'s extinguisher is recharging!
-self-extinguisher-not-on-fire-self = You are not on fire!
-self-extinguisher-not-on-fire-other = {$target} {CONJUGATE-BE($target)} not on fire!
-self-extinguisher-not-immune-to-fire-self = You are not insulated against fire!
-self-extinguisher-not-immune-to-fire-other = {$target} {CONJUGATE-BE($target)} not insulated against fire!
-
-self-extinguisher-extinguish-self = The {$item} extinguishes you!
-self-extinguisher-extinguish-other = The {$item} extinguishes {$target}!
-
-self-extinguisher-refill = You refill the suit's self-extinguisher, using up the cartridge.
-self-extinguisher-refill-full = The self-extinguisher is full.
+self-extinguisher-verb = Само-тушение
+self-extinguisher-examine-cooldown-ready = Само-тушитель готов к использованию.
+self-extinguisher-examine-cooldown-recharging = Само-тушитель перезаряжается в течение [color=teal]{ $cooldown }[/color] секунд.
+self-extinguisher-examine-no-charges = Само-тушитель перезаряжается в течение [color=teal]{ $cooldown }[/color] секунд.
+self-extinguisher-no-charges = У { $item } не осталось заряда!
+self-extinguisher-on-cooldown = Само-тушитель { $item } перезаряжается!
+self-extinguisher-not-on-fire-self = Вы не горите!
+self-extinguisher-not-on-fire-other = { $target } { CONJUGATE-BE($target) } не горит!
+self-extinguisher-not-immune-to-fire-self = Вы не защищены от огня!
+self-extinguisher-not-immune-to-fire-other = { $target } { CONJUGATE-BE($target) } не защищен от огня!
+self-extinguisher-extinguish-self = { $item } тушит вас!
+self-extinguisher-extinguish-other = { $item } тушит { $target }!
+self-extinguisher-refill = Вы заправляете само-тушитель костюма, используя картридж.
+self-extinguisher-refill-full = Само-тушитель полон.

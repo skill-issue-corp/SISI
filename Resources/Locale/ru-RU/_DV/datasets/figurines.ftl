@@ -1,8 +1,8 @@
-figurines-cosmiccultist-1 = This is the end.
-figurines-cosmiccultist-2 = It's lambda, not delta.
-figurines-cosmiccultist-3 = Nothing to see here.
-figurines-cosmiccultist-4 = I know, I'm simply breathtaking.
-figurines-cosmiccultist-5 = My cult so cosmic!
-figurines-cosmiccultist-6 = Wanna go stargazing?
-figurines-cosmiccultist-7 = No, I don't know where the rift went.
-figurines-cosmiccultist-8 = Join us. We've got lollypops.
+figurines-cosmiccultist-1 = Это конец.
+figurines-cosmiccultist-2 = Это лямбда, а не дельта.
+figurines-cosmiccultist-3 = Здесь не на что смотреть.
+figurines-cosmiccultist-4 = Знаю, я просто блестаю.
+figurines-cosmiccultist-5 = Мой культ такой космический!
+figurines-cosmiccultist-6 = Хочешь понаблюдать за звёздами?
+figurines-cosmiccultist-7 = Нет, я не знаю, куда делся разлом.
+figurines-cosmiccultist-8 = Присоединяйся. У нас есть леденцы.

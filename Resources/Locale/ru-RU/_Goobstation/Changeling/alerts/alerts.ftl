@@ -6,13 +6,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-alerts-changeling-chemicals-name = Chemicals
-alerts-changeling-chemicals-desc = Spend chemicals to use your abilities. Slowly regenerates.
-
-alerts-changeling-biomass-name = Biomass
-alerts-changeling-biomass-desc =
-    This is your health. If it reaches 0 - it's [color=red]game over[/color]. Absorb humanoids to recover some of it.
-
-alerts-changeling-fleshmend-name = Fleshmend
-alerts-changeling-fleshmend-desc =
-    Brute damage is being rapidly healed! Burn and asphyxiation damage is healed at a lower amount. [color=red]Healing will cease while on fire.[/color]
+alerts-changeling-chemicals-name = Химикаты
+alerts-changeling-chemicals-desc = Трать химикаты для использования способностей. Постепенно восстанавливаются.
+alerts-changeling-biomass-name = Биомасса
+alerts-changeling-biomass-desc = Это твоё здоровье. Если достигнет 0 — [color=red]конец игры[/color]. Поглощай гуманоидов, чтобы восстановить часть биомассы.
+alerts-changeling-fleshmend-name = Восстановить плоть
+alerts-changeling-fleshmend-desc = Ушибы быстро залечиваются! Ожоги и удушье лечатся медленнее. [color=red]Исцеление прекратится в случае поджога.[/color]
+alerts-changeling-adrenaline-name = Резерв адреналина
+alerts-changeling-adrenaline-desc = Иммунитет к оглушению, сбиванию с ног и большинству эффектов обездвиживания!
+alerts-changeling-panacea-name = Панацея
+alerts-changeling-panacea-desc = Нефизический урон исцеляется! Болезни, химикаты и воздействия наркотиков очищаются. [color=red]Эффекты прекратятся после контакта с огнём или смерти.[/color]
+alerts-changeling-voidadapt-name = Вакуумная адаптация
+alerts-changeling-voidadapt-desc = Происходит адаптация к экстремальным условиям. [color=yellow]Химическая регенерация остановлена[/color]. [color=red]Эффекты прекратятся после контакта с огнём.[/color]

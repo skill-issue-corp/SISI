@@ -1,25 +1,37 @@
+# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
+# SPDX-FileCopyrightText: 2024 lanse12 <cloudability.ez@gmail.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2025 BombasterDS2 <shvalovdenis.workmail@gmail.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 # Names
-chat-emote-name-fart = Fart
-chat-emote-name-fart-inhale = Breathe in a fart
-chat-emote-name-fart-super = Super Fart
-
+chat-emote-name-fart = ...
+chat-emote-name-fart-inhale = ...
+chat-emote-name-fart-super = ...
+chat-emote-name-flap = Взмахнуть
+chat-emote-name-trill = Дрожжать
+chat-emote-name-warble = Петь
+chat-emote-name-wurble = Журчать
+chat-emote-name-mars = Марс
 # Message
-chat-emote-msg-fart = farts.
-chat-emote-msg-fart-inhale = breathes in a big fart.
-chat-emote-msg-fart-super = super farts.
-chat-emote-msg-bagawk = bagawks!
-
-
+chat-emote-msg-fart = ...
+chat-emote-msg-fart-inhale = ...
+chat-emote-msg-fart-super = ...
+chat-emote-msg-flap = взмахивает { POSS-ADJ($entity) } крыльями.
+chat-emote-msg-trill = дрожжит!
+chat-emote-msg-warble = поёт!
+chat-emote-msg-wurble = журчит!
+chat-emote-msg-mars = марс.
+chat-emote-msg-bagawk = багаукс!
 # Misc
-emote-fart-not-loaded = You don't have a super fart loaded!
-emote-fart-already-loaded = You already have a fart loaded!
-emote-fart-ass-off = You don't have a butt to fart with!
-emote-fart-out-of-farts = You're all out of farts!
-emote-fart-super-fart = You (literally) fart your ass off!
-emote-fart-inhale-notice = You breathe in, arming a super fart.
-emote-fart-inhale-disarm-notice = You disarm your super fart.
-
-chat-emote-name-boop = Boop
-chat-emote-msg-boop = boops.
-chat-emote-name-whirr = Whirr
-chat-emote-msg-whirr = whirrs.
+emote-fart-not-loaded = ...
+emote-fart-already-loaded = ...
+emote-fart-ass-off = ...
+emote-fart-out-of-farts = ...
+emote-fart-super-fart = ...
+emote-fart-inhale-notice = ...
+emote-fart-inhale-disarm-notice = ...
+chat-emote-name-boop = Буп
+chat-emote-name-whirr = Жужжать

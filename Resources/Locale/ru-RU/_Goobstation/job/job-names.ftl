@@ -7,57 +7,56 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-job-name-futureagent = Future Agent
-job-name-salvagediver = Salvage Diver
-job-name-ntr = Nanotrasen Representative
-job-name-tider = Tider
-
-job-name-exec = Executive Access
-
-# event-resctricted jobs
-job-name-security-clown = Security Clown
-job-name-command-maid = Command Maid
-job-name-party-maker = Party Maker
+job-name-futureagent = агент будущего
+job-name-salvagediver = спасатель
+job-name-ntr = представитель NanoTrasen
+job-name-bs = офицер Синий Щит
+job-name-overall = общее
+job-name-tider = грейтайд
+job-name-exec = служебный доступ
 
 # Navy Stuff
 
-job-name-navy-officer = Navy Officer
-job-name-navy-officer-undercover = Undercover Navy Officer
-job-name-navy-captain = Navy Captain
-job-name-diplomat = Diplomat
-job-name-inspector = Central Command Auditor
+job-name-navy-officer = офицер ЦК
+job-name-navyofficer = офицер ЦК
+job-name-navy-captain = капитан ВКФ
+job-name-navy-officer-undercover = офицер под прикрытием
+job-name-navycaptain = капитан ВКФ
+job-name-diplomat = дипломат NanoTrasen
+job-name-outercommander = офицер ТСФ
+job-name-inspector = инспектор ЦК
+job-name-nct = наставник ЦК
+job-name-special-operations-officer = офицер спецопераций
 
 # Syndicate
 
-job-name-highcommander = High Commander
+job-name-highcommander = Офицер Синдиката
 
 # Half Life
 
-job-name-hecu = HECU Operative
-job-name-governmentman = The G-Man
+job-name-hecu = агент HECU
+job-name-governmentman = G-Man
+job-name-radiohost = радиоведущий
 
 # Misc
 
-job-name-conquest = Conquest
-job-name-mercenarycaptain = Mercenary Captain
-job-name-radiohost = Radio Host
-job-name-phonemerchant = Phone Merchant
+job-name-conquest = конквест
+job-name-mercenarycaptain = капитан Наёмников
 
 # Role timers - Make these alphabetical or I cut you (dont listen to upstream, i copied and pasted this, make it very un-alphabetical :godo:)
 
-JobCommandMaid = Command Maid
-JobNanotrasenRepresentative = Nanotrasen Representative
-JobHecuOperative = HECU Operative
-JobNavyOfficer = Navy Officer
-JobNavyOfficerUndercover = Undercover Navy Officer
-JobNavyCaptain = Navy Captain
-JobDiplomat = Diplomat
-JobGovernmentMan = The G-Man
-JobConquest = Conquest
-JobInspector = Central Command Auditor
-JobMercenaryCaptain = Mercenary Captain
-JobPartyMaker = Party Maker
-JobRoboticist = Roboticist
-JobRadioHost = Radio Host
-JobSecurityClown = Security Clown
-JobVirologist = Virologist
+JobBlueshieldOfficer = офицер "Синий Щит"
+JobNanotrasenRepresentative = представитель NanoTrasen
+JobNanotrasenCareerTrainer = наставник ЦК
+JobHecuOperative = агент HECU
+JobNavyOfficer = офицер ЦК
+JobNavyOfficerUndercover = офицер под прикрытием
+JobNavyCaptain = капитан ВКФ
+JobDiplomat = дипломат NanoTrasen
+JobRoboticist = робототехник
+JobGovernmentMan = G-Man
+JobRadioHost = радиоведущий
+JobVirologist = вирусолог
+JobConquest = конквест
+JobInspector = инспектор ЦК
+JobMercenaryCaptain = капитан наёмников

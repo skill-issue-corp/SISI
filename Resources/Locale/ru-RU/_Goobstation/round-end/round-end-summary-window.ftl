@@ -1,7 +1,7 @@
-round-end-summary-window-station-report-tab-title = Station Report
-no-station-report-summited = No station report submitted, central command has been informed about the NTR's negligence.
-round-end-summary-window-player-name-role = as the {$role}, played by {$player}.
-round-end-summary-window-player-name = played by {$player}.
-round-end-summary-window-last-words = [italic][color=gray]"{$lastWords}"[/color][/italic]
-round-end-summary-window-death = They died a {$severity} {$type} death.
-round-end-summary-window-death-unknown = Their body could not be found.
+round-end-summary-window-station-report-tab-title = Станционный отчёт
+no-station-report-summited = Не было получено станционных отчётов. ПNT вашей станции был оштрафован на 2000 кредитов.
+round-end-summary-window-player-name-role = в роли { $role }, играл { $player }.
+round-end-summary-window-player-name = сыграл { $player }.
+round-end-summary-window-last-words = [italic][color=gray]"{ $lastWords }"[/color][/italic]
+round-end-summary-window-death = Они погибли { $severity } { $type } смертью.
+round-end-summary-window-death-unknown = Их тела не были найдены.

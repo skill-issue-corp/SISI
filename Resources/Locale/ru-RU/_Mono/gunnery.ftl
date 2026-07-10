@@ -1,14 +1,14 @@
-gunnery-window-title = Gunnery Control
-gunnery-window-disconnected = DISCONNECTED
-gunnery-window-connected = CONNECTED
-gunnery-select-all = Select All
-gunnery-unselect-all = Unselect All
-gunnery-guns = Guns
-
-gunnery-server-examine-detail = The server is using [color={$valueColor}]{$usedProcessingPower}/{$processingPower}[/color] of its processing power.
-
-gunnery-select-ballistics = Ballistics
-gunnery-select-energy = Energy
-gunnery-select-missiles = Missiles
-gunnery-select-mining = Mining
-gunner-console-display-label = Display
+gunnery-window-title = Управление артиллерией
+gunnery-window-disconnected = ОТКЛЮЧЕНО
+gunnery-window-connected = ПОДКЛЮЧЕНО
+gunnery-select-all = Выбрать все
+gunnery-unselect-all = Снять выделение
+gunnery-guns = Орудия
+gunnery-server-examine-detail = Сервер использует [color={ $valueColor }]{ $usedProcessingPower }/{ $processingPower }[/color] своей вычислительной мощности.
+gunnery-select-ballistics = Баллистика
+gunnery-select-energy = Энергия
+gunnery-select-missiles = Ракеты
+gunnery-select-mining = Копание
+gunner-console-display-label = Дисплей
+# CorvaxGoob edit
+ship-gun-class-component-examine-detail = Это орудие требует [color=yellow]{ $processingPower }[/color] единиц вычислительной мощности сервера для управления.

@@ -1,56 +1,15 @@
-contraband-examine-text-Minor =
-    { $type ->
-        *[item] [color={$color}]This item is considered minor contraband.[/color]
-        [reagent] [color={$color}]This reagent is considered minor contraband.[/color]
-    }
-
-contraband-examine-text-Restricted =
-    { $type ->
-        *[item] [color={$color}]This item is departmentally restricted.[/color]
-        [reagent] [color={$color}]This reagent is departmentally restricted.[/color]
-    }
-
-contraband-examine-text-Restricted-department =
-    { $type ->
-        *[item] [color={$color}]This item is restricted to {$departments}, and may be considered contraband.[/color]
-        [reagent] [color={$color}]This reagent is restricted to {$departments}, and may be considered contraband.[/color]
-    }
-
-contraband-examine-text-Major =
-    { $type ->
-        *[item] [color={$color}]This item is considered major contraband.[/color]
-        [reagent] [color={$color}]This reagent is considered major contraband.[/color]
-    }
-
-contraband-examine-text-GrandTheft =
-    { $type ->
-        *[item] [color={$color}]This item is a highly valuable target for Syndicate agents![/color]
-        [reagent] [color={$color}]This reagent is a highly valuable target for Syndicate agents![/color]
-    }
-
-contraband-examine-text-Highly-Illegal =
-    { $type ->
-        *[item] [color={$color}]This item is highly illegal contraband![/color]
-        [reagent] [color={$color}]This reagent is highly illegal contraband![/color]
-    }
-
-contraband-examine-text-Syndicate =
-    { $type ->
-        *[item] [color={$color}]This item is highly illegal Syndicate contraband![/color]
-        [reagent] [color={$color}]This reagent is highly illegal Syndicate contraband![/color]
-    }
-
-contraband-examine-text-Magical =
-    { $type ->
-        *[item] [color={$color}]This item is highly illegal magical contraband![/color]
-        [reagent] [color={$color}]This reagent is highly illegal magical contraband![/color]
-    }
-
-contraband-examine-text-avoid-carrying-around = [color=red][italic]You probably want to avoid visibly carrying this around without a good reason.[/italic][/color]
-contraband-examine-text-in-the-clear = [color=green][italic]You should be in the clear to visibly carry this around.[/italic][/color]
-
-contraband-examinable-verb-text = Legality
-contraband-examinable-verb-message = Check legality of this item.
-
-contraband-department-plural = {$department}
-contraband-job-plural = {$job}
+contraband-examine-text-Minor = [color=yellow]Этот предмет считается мелкой контрабандой.[/color]
+contraband-examine-text-Restricted = [color=yellow]Этот предмет департаментно ограничен.[/color]
+contraband-examine-text-Restricted-department = [color=yellow]Этот предмет ограничен для { $departments }, и может считаться контрабандой.[/color]
+contraband-examine-text-Major = [color=red]Этот предмет считается крупной контрабандой.[/color]
+contraband-examine-text-GrandTheft = [color=red]Этот предмет является очень ценной целью для агентов Синдиката![/color]
+contraband-examine-text-Syndicate = [color=crimson]Этот предмет является крайне незаконной контрабандой Синдиката![/color]
+contraband-examine-text-Magical = [color=#b337b3]Этот предмет является крайне незаконной магической контрабандой![/color]
+contraband-examine-text-avoid-carrying-around = [color=red][italic]Вам, вероятно, не стоит носить его с собой без веской причины.[/italic][/color]
+contraband-examine-text-Clown = [color=yellow]Этот предмет принадлежит клоуну, верните его, прежде чем он расстроится.[/color]
+contraband-examine-text-in-the-clear = [color=green][italic]Вы должны быть чисты, чтобы носить этот предмет на виду.[/italic][/color]
+contraband-examinable-verb-text = Легальность
+contraband-examinable-verb-message = Проверить легальность этого предмета.
+contraband-department-plural = { $department }
+contraband-job-plural = { $job }
+comp-hands-examine-and = и

@@ -1,14 +1,10 @@
-marking-UnderwearDefault-boxers = Underwear
-marking-UnderwearDefault = Underwear (Default)
-
-marking-UnderwearBriefs-briefs = Underwear
-marking-UnderwearBriefs = Underwear (Briefs)
-
-marking-UnderwearLowriders-lowriders = Underwear
-marking-UnderwearLowriders = Underwear (Lowriders)
-
-marking-UnderwearSatin-satin = Underwear
-marking-UnderwearSatin = Underwear (Satin)
-
-marking-UnderwearTanga-tanga = Underwear
-marking-UnderwearTanga = Underwear (Tanga)
+marking-UnderwearDefault-boxers = Нижнее бельё
+marking-UnderwearDefault = Нижнее бельё (По умолчанию)
+marking-UnderwearBriefs-briefs = Нижнее бельё
+marking-UnderwearBriefs = Нижнее бельё (Трусы)
+marking-UnderwearLowriders-lowriders = Нижнее бельё
+marking-UnderwearLowriders = Нижнее бельё (Lowriders)
+marking-UnderwearSatin-satin = Нижнее бельё
+marking-UnderwearSatin = Нижнее бельё (Атласное)
+marking-UnderwearTanga-tanga = Нижнее бельё
+marking-UnderwearTanga = Нижнее бельё (Танга)

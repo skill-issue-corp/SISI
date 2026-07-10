@@ -5,84 +5,69 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-# Trauma - changed all Goob Coin to Evil Coin // inky - no
-server-currency-name-singular = Inky Coin
-server-currency-name-plural = Inky Coins
+server-currency-name-singular = Корвух Коин
+server-currency-name-plural = Корвух Коины
 
-## Commands
+## Команды
 
-server-currency-gift-command = gift
-server-currency-gift-command-description = Gifts some of your balance to another player.
-server-currency-gift-command-help = Usage: gift <player> <value>
-server-currency-gift-command-error-1 = You can't gift yourself!
-server-currency-gift-command-error-2 = You can not afford to gift this! You have a balance of {$balance}.
-server-currency-gift-command-giver = You gave {$player} {$amount}.
-server-currency-gift-command-reciever = {$player} gave you {$amount}.
+server-currency-gift-command = подарить
+server-currency-gift-command-description = Передать часть вашего баланса другому игроку.
+server-currency-gift-command-help = Использование: подарить <игрок> <сумма>
+server-currency-gift-command-error-1 = Вы не можете подарить себе!
+server-currency-gift-command-error-2 = У вас недостаточно средств для передачи! Ваш баланс: { $balance }.
+server-currency-gift-command-giver = Вы передали { $player } { $amount }.
+server-currency-gift-command-reciever = { $player } передал вам { $amount }.
+server-currency-balance-command = баланс
+server-currency-balance-command-description = Показывает ваш баланс.
+server-currency-balance-command-help = Использование: баланс
+server-currency-balance-command-return = У вас { $balance }.
+server-currency-add-command = баланс:добавить
+server-currency-add-command-description = Добавляет валюту на счет игрока.
+server-currency-add-command-help = Использование: баланс:добавить <игрок> <сумма>
+server-currency-remove-command = баланс:убрать
+server-currency-remove-command-description = Убирает валюту со счета игрока.
+server-currency-remove-command-help = Использование: баланс:убрать <игрок> <сумма>
+server-currency-set-command = баланс:установить
+server-currency-set-command-description = Устанавливает баланс игрока.
+server-currency-set-command-help = Использование: баланс:установить <игрок> <сумма>
+server-currency-get-command = баланс:узнать
+server-currency-get-command-description = Узнаёт баланс указанного игрока.
+server-currency-get-command-help = Использование: баланс:узнать <игрок>
+server-currency-command-completion-1 = Имя игрока
+server-currency-command-completion-2 = Значение
+server-currency-command-error-1 = Игрок с таким именем не найден.
+server-currency-command-error-2 = Значение должно быть целым числом.
+server-currency-command-return = У { $player } { $balance }.
 
-server-currency-balance-command = balance
-server-currency-balance-command-description = Returns your balance.
-server-currency-balance-command-help = Usage: balance
-server-currency-balance-command-return = You have {$balance}.
+# Обновление 65%
 
-server-currency-add-command = balance:add
-server-currency-add-command-description = Adds currency to a player's balance.
-server-currency-add-command-help = Usage: balance:add <player> <value>
-
-server-currency-remove-command = balance:rem
-server-currency-remove-command-description = Removes currency from a player's balance.
-server-currency-remove-command-help = Usage: balance:rem <player> <value>
-
-server-currency-set-command = balance:set
-server-currency-set-command-description = Sets a player's balance.
-server-currency-set-command-help = Usage: balance:set <player> <value>
-
-server-currency-get-command = balance:get
-server-currency-get-command-description = Gets the balance of a player.
-server-currency-get-command-help = Usage: balance:get <player>
-
-server-currency-command-completion-1 = Username
-server-currency-command-completion-2 = Value
-server-currency-command-error-1 = Unable to find a player by that name.
-server-currency-command-error-2 = Value must be an integer.
-server-currency-command-return = {$player} has {$balance}.
-
-# 65% Update
-
-gs-balanceui-title = Store
-gs-balanceui-confirm = Confirm
-
-gs-balanceui-gift-label = Transfer:
-gs-balanceui-gift-player = Player
-gs-balanceui-gift-player-tooltip = Insert the name of the player you want to send the money to
-gs-balanceui-gift-value = Value
-gs-balanceui-gift-value-tooltip = Amount of money to transfer
-
-gs-balanceui-shop-label = Tokens Store
-gs-balanceui-shop-empty = Out of stock!
-gs-balanceui-shop-buy = Buy
-gs-balanceui-shop-footer = ⚠ Ahelp to use your token. Only 1 use per day.
-
-gs-balanceui-shop-token-label = Tokens
-gs-balanceui-shop-tittle-label = Titles
-
-gs-balanceui-shop-buy-token-antag = Buy an Antag Token - {$price} Inky Coins
-gs-balanceui-shop-buy-token-admin-abuse = Buy an Admin Abuse Token - {$price} Inky Coins
-gs-balanceui-shop-buy-token-hat = Buy a Hat Token - {$price} Inky Coins
-
-gs-balanceui-shop-token-antag = High Tier Antag Token
-gs-balanceui-shop-token-admin-abuse = Admin Abuse Token
-gs-balanceui-shop-token-hat = Hat Token
-
-gs-balanceui-shop-buy-token-antag-desc = Allows you become any antag. (Excluding Wizards)
-gs-balanceui-shop-buy-token-admin-abuse-desc = Allows you to request an admin to abuse their powers against you. Admins are encouraged to go wild.
-gs-balanceui-shop-buy-token-hat-desc = An admin will give you a random hat.
-
-gs-balanceui-admin-add-label = Add (or subtract) money:
-gs-balanceui-admin-add-player = Player name
-gs-balanceui-admin-add-value = Value
-
-gs-balanceui-remark-token-antag = Bought an antag token.
-gs-balanceui-remark-token-admin-abuse = Bought an admin abuse token.
-gs-balanceui-remark-token-hat = Bought a hat token.
-gs-balanceui-shop-click-confirm = Click again to confirm
-gs-balanceui-shop-purchased = Purchased {$item}
+gs-balanceui-title = Магазин
+gs-balanceui-confirm = Подтвердить
+gs-balanceui-gift-label = Перевод:
+gs-balanceui-gift-player = Игрок
+gs-balanceui-gift-player-tooltip = Введите имя игрока, которому хотите отправить деньги
+gs-balanceui-gift-value = Сумма
+gs-balanceui-gift-value-tooltip = Количество денег для перевода
+gs-balanceui-shop-label = Магазин токенов
+gs-balanceui-shop-empty = Нет в наличии!
+gs-balanceui-shop-buy = Купить
+gs-balanceui-shop-footer = ⚠ Используйте ваш токен через Ahelp. Только 1 раз в день.
+gs-balanceui-shop-token-label = Токены
+gs-balanceui-shop-tittle-label = Титулы
+gs-balanceui-shop-buy-token-antag = Купить токен антага - { $price } Губ Коинов
+gs-balanceui-shop-buy-token-admin-abuse = Купить токен на злоупотребление админом - { $price } Губ Коинов
+gs-balanceui-shop-buy-token-hat = Купить токен на шляпу - { $price } Губ Коинов
+gs-balanceui-shop-token-antag = Токен высокого уровня антага
+gs-balanceui-shop-token-admin-abuse = Токен злоупотребления админом
+gs-balanceui-shop-token-hat = Токен шляпы
+gs-balanceui-shop-buy-token-antag-desc = Позволяет стать любым антагом (кроме волшебников).
+gs-balanceui-shop-buy-token-admin-abuse-desc = Позволяет попросить админа злоупотребить своими полномочиями по отношению к вам. Админам рекомендуется не сдерживаться.
+gs-balanceui-shop-buy-token-hat-desc = Админ выдаст вам случайную шляпу.
+gs-balanceui-admin-add-label = Добавить (или убрать) деньги:
+gs-balanceui-admin-add-player = Имя игрока
+gs-balanceui-admin-add-value = Сумма
+gs-balanceui-remark-token-antag = Куплен токен антага.
+gs-balanceui-remark-token-admin-abuse = Куплен токен злоупотребления админом.
+gs-balanceui-remark-token-hat = Куплен токен шляпы.
+gs-balanceui-shop-click-confirm = Нажмите ещё раз для подтверждения
+gs-balanceui-shop-purchased = Куплено { $item }

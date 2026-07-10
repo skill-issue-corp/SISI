@@ -1,17 +1,36 @@
-stack-artifact-fragment-ore = artifact fragment ore
-
-stack-unprocessed-gold-ore = unprocessed gold ore
-stack-unprocessed-diamond-ore = unprocessed diamond ore
-stack-unprocessed-steel-ore = unprocessed steel ore
-stack-unprocessed-plasma-ore = unprocessed plasma ore
-stack-unprocessed-silver-ore = unprocessed silver ore
-stack-unprocessed-quartz-ore = unprocessed quartz ore
-stack-unprocessed-uranium-ore = unprocessed uranium ore
-stack-unprocessed-bananium-ore = unprocessed bananium ore
-stack-unprocessed-coal = unprocessed coal
-stack-unprocessed-artifact-fragment-ore = unprocessed artifact fragment ore
-
-stack-watcher-wing = watcher wing
-stack-magma-wing = magma watcher wing
-stack-ice-wing = ice watcher wing
-stack-legion-skull = legion skull
+stack-artifact-fragment-ore = необработанный фрагмент артефакта
+stack-unprocessed-gold-ore = необработанная золотая руда
+stack-unprocessed-diamond-ore = необработанная алмазная руда
+stack-unprocessed-steel-ore = необработанная железная руда
+stack-unprocessed-plasma-ore = необработанная плазменная руда
+stack-unprocessed-silver-ore = необработанная серебряная руда
+stack-unprocessed-quartz-ore = необработанная кварцевая руда
+stack-unprocessed-uranium-ore = необработанная урановая руда
+stack-unprocessed-bananium-ore = необработанная бананиумная руда
+stack-unprocessed-coal = необработанный уголь
+stack-unprocessed-artifact-fragment-ore = незавершённый фрагмент артефакта
+stack-ashwood-plank =
+    { $amount ->
+        [1] доски пепельного дерева
+       *[other] досок пепельного дерева
+    }
+stack-watcher-wing =
+    { $amount ->
+        [1] крыло наблюдателя
+       *[other] крыльев наблюдателя
+    }
+stack-magma-wing =
+    { $amount ->
+        [1] крыло магматического наблюдателя
+       *[other] крыльев магматического наблюдателя
+    }
+stack-ice-wing =
+    { $amount ->
+        [1] крыло ледяного наблюдателя
+       *[other] крыльев ледяного наблюдателя
+    }
+stack-legion-skull =
+    { $amount ->
+        [1] череп легиона
+       *[other] черепов легиона
+    }

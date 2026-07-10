@@ -1,11 +1,9 @@
 # addaction
-cmd-addaction-desc = Adds an action to the target entity. The action will not work if the target requires an additional component on their entity (such as Dragon's Devour).
+cmd-addaction-desc = Добавляет действие к сущности. Действие не сработает, если сущность требует дополнительного компонента (например, Devour у Дракона).
 cmd-addaction-help = addaction <EntityUid> <ActionPrototype>
-
-cmd-addaction-invalid-args = Expected exactly 2 arguments.
-cmd-addaction-actions-not-found = Target entity cannot use actions.
-cmd-addaction-action-not-found = Can't find matching action prototype {$action}.
-cmd-addaction-adding-failed = Failed to add the action.
-
+cmd-addaction-invalid-args = Ожидалось 2 аргумента.
+cmd-addaction-actions-not-found = Сущность не может использовать действия.
+cmd-addaction-action-not-found = Не удалось найти прототип { $action }.
+cmd-addaction-adding-failed = Не удалось добавить действие.
 cmd-addaction-player-completion = <EntityUid>
 cmd-addaction-action-completion = <ActionProto>

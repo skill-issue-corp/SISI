@@ -1,2 +1,2 @@
-materials-artifact-fragment = artifact fragment
-materials-artifact-fragment-ore = raw artifact fragment
+materials-artifact-fragment = фрагмент артефакта
+materials-artifact-fragment-ore = необработанный фрагмент артефакта

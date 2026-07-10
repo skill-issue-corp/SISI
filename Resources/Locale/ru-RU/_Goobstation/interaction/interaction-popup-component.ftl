@@ -1,2 +1,2 @@
-petting-failure-gemini = You reach out to pet {THE($target)}, but {POSS-ADJ($target)} dissipates into tiny nanomachines infront of your hands.
-petting-success-gemini = You pet {THE($target)} on {POSS-ADJ($target)} nanomachine composed head.
+petting-failure-gemini = Вы попытались погладить { $target }, но { POSS-ADJ($target) } рассеивается в крошечные наномашины прямо перед вами.
+petting-success-gemini = Вы погладили { $target } по { POSS-ADJ($target) } голове из наномашин.

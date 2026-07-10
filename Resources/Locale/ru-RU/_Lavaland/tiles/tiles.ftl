@@ -1,2 +1,2 @@
-tiles-basalt-floor-planetmap = basalt floor [Planetmap]
-tiles-ash-planet-floor = ash floor
+tiles-basalt-floor-planetmap = пол базальт планеты
+tiles-ash-planet-floor = пол пепел

@@ -1,23 +1,20 @@
+# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-changeling-round-end-agent-name = changeling
-
-objective-issuer-hivemind = [color=orange]The Hive[/color]
+changeling-roundend-name = Генокрадов
+objective-issuer-hivemind = [color=orange]Улей[/color]
 objective-issuer-tiger = [color=crimson]Tiger Cooperative[/color]
-
-roundend-prepend-changeling-absorbed-named = [color=white]{$name}[/color] has absorbed a total of [color=red]{$number}[/color] organics.
-roundend-prepend-changeling-stolen-named = [color=white]{$name}[/color] has extracted a total of [color=orange]{$number}[/color] DNA samples.
-roundend-prepend-changeling-absorbed = Someone has absorbed a total of [color=red]{$number}[/color] organics.
-roundend-prepend-changeling-stolen = Someone had extracted a total of [color=orange]{$number}[/color] DNA samples.
-
-changeling-gamemode-title = Changelings
-changeling-gamemode-description =
-    The changeling hive has boarded the station, ready to take anything it desires - be it your equipment, your faces, or your lives!
-
+roundend-prepend-changeling-absorbed-named = [color=white]{ $name }[/color] поглотил всего [color=red]{ $number }[/color] организмов.
+roundend-prepend-changeling-stolen-named = [color=white]{ $name }[/color] извлёк всего [color=orange]{ $number }[/color] ДНК.
+roundend-prepend-changeling-absorbed = Кто-то поглотил всего [color=red]{ $number }[/color] организмов.
+roundend-prepend-changeling-stolen = Кто-то извлек всего [color=orange]{ $number }[/color] ДНК.
+changeling-gamemode-title = Генокрады
+changeling-gamemode-description = Улей Генокрадов захватил станцию, и готов забрать всё что только пожелает — ваше снаряжение, ваши лица, ваши жизни!
 changeling-role-greeting =
-    You are a changeling who has absorbed and taken the form of {$name}!
-    Your objectives are listed in the character menu.
-    Absorb, shapeshift and evolve to complete them!
-
-changeling-role-greeting-short =
-    You are a changeling who has absorbed and taken the initial form of {$name}.
+    Вы — генокрад, который поглотил и принял облик { $name }!
+    Ваши цели указаны в меню персонажа.
+    Поглощайте, меняйте форму и развивайтесь, чтобы выполнить их!
+changeling-role-greeting-short = Вы — генокрад, принявший облик { $name }.

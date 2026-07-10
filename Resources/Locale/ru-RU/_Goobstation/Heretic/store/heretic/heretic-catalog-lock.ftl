@@ -1,88 +1,87 @@
-knowledge-path-lock-passive-desc-1 = You get one free side knowlede for every tier.
-knowledge-path-lock-passive-desc-2 = Your grasp no longer goes on cooldown when used to open a door or locker.
-knowledge-path-lock-passive-desc-3 = Grants you x-ray vision.
+# SPDX-FileCopyrightText: 2020 AJCM-git <60196617+AJCM-git@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2020 DamianX <DamianX@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2020 Visne <vincefvanwijk@gmail.com>
+# SPDX-FileCopyrightText: 2021 Acruid <shatter66@gmail.com>
+# SPDX-FileCopyrightText: 2021 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2021 Galactic Chimp <63882831+GalacticChimp@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2021 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
+# SPDX-FileCopyrightText: 2021 RemberBL <timmermanrembrandt@gmail.com>
+# SPDX-FileCopyrightText: 2021 Visne <39844191+Visne@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Flipp Syder <76629141+vulppine@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Leon Friedrich <60421075+ElectroJr@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Paul Ritter <ritter.paul1@googlemail.com>
+# SPDX-FileCopyrightText: 2022 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 mirrorcult <lunarautomaton6@gmail.com>
+# SPDX-FileCopyrightText: 2022 wrexbe <81056464+wrexbe@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Flareguy <78941145+Flareguy@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
+# SPDX-FileCopyrightText: 2024 username <113782077+whateverusername0@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 whateverusername0 <whateveremail>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
 
-knowledge-path-lock-s1-name = A Steward's Secret
+knowledge-path-lock-s1-name = Тайна Смотрителя
 knowledge-path-lock-s1-desc =
-    The Locked Labyrinth leads to freedom. But only the trapped Stewards know the correct path.
-
-    Opens up the Path of Lock to you.
-    Allows you to transmute a knife and a crowbar into a Key Blade.
-    You can only create two at a time and they function as fast crowbars.
-    In addition, they can fit into utility belts.
-
-knowledge-path-lock-s2-name = Grasp of Lock
+    Запертый лабиринт ведёт к свободе. Но только заточённые Смотрители знают верный путь.
+    
+    Открывает Путь замка.
+    Позволяет преобразовать нож и монтировку в Ключевой клинок.
+    Можно создать только два одновременно. Работают как быстрыя монтировки.
+    Кроме того, их можно носить на поясе инструментов.
+knowledge-path-lock-s2-name = Хват замка
 knowledge-path-lock-s2-desc =
-    Nothing may remain closed from my touch.
-
-    Your mansus grasp allows you to access anything! Click on an airlock or a locker to force it open.
-    All locks will break. Any mech pilot will be instantly ejected. Consoles will break.
-    Makes a distinctive knocking sound on use.
-
-knowledge-path-lock-s3-name = Mark of Lock
+    Ничто не останется закрытым для моего прикосновения.
+    
+    Ваш Хват Мансуса позволяет получить доступ к чему угодно! ПКМ по шлюзу или шкафчику, и вы силой откроете его.
+    Все замки будут разрушены. Пилоты мехов будут мгновенно выброшены. Консоли выйдут из строя.
+    При использовании издаёт характерный стук.
+knowledge-path-lock-s3-name = Бремя Хранителя ключей
 knowledge-path-lock-s3-desc =
-    The Gatekeeper was a corrupt Steward. She hindered her fellows for her own twisted amusement.
-
-    Your Mansus Grasp now applies the Mark of Lock.
-    Attack a marked person to bar them from all passages for the duration of the mark.
-    This will make it so that they have no access whatsoever, even public access doors will reject them.
-
-knowledge-path-lock-s4-name = Key Keeper's Burden
+    Хранитель усмехнулся. Эти пластиковые прямоугольники — насмешка над ключами, и я проклинаю каждую дверь, что их требует.
+    
+    Позволяет использовать Хват Мансуса на ID-карте, превращая её в Элдрическую карту.
+    Ударьте по двум шлюзам этой картой — между ними появится пара порталов. Вы можете перемещаться между ними, но неверные будут телепортированы случайным образом.
+    Каждая карта может поддерживать только одну пару порталов одновременно.
+    Также она работает и выглядит как обычная ID-карта.
+    Атака обычной ID-карты этой картой поглощает её и добавляет её доступы.
+    Исходная карта при этом не сохраняется.
+knowledge-path-lock-s4-name = Метка замка
 knowledge-path-lock-s4-desc =
-    The Keeper sneered. "These plastic rectangles are a mockery of keys, and I curse every door that desires them."
-
-    Allows you to transmute a door, an iron rod, and an ID card to create an Eldritch Card.
-    Click on a pair of airlocks with it to create a pair of portals, which will teleport you between them, but teleport non-heretics randomly.
-    You can alt-click the card to invert this behavior for created portals.
-    Each card may only sustain a single pair of portals at the same time.
-    Click the existing portal using eldritch id to invert it, alt-click it to remove both links.
-    It also functions and appears the same as a regular ID Card.
-    Using it on a normal ID card consumes it and gains its access, and you can use it in-hand to change its appearance to a card you fused.
-
-knowledge-path-lock-s5-name = Concierge's Rite
-knowledge-path-lock-s5-desc =
-    The Concierge scribbled my name into the Handbook. "Welcome to your new home, fellow Steward."
-
-    Allows you to transmute a crayon, a wooden plank, and a multitool to create a Labyrinth Handbook.
-    It can materialize a barricade at range that noone can pass. Has 5 charges which regenerate over time.
-
-knowledge-path-lock-armor-name = Shifting Guise
-knowledge-path-lock-armor-desc =
-    While stewards are known to the Concierge,
-    they still consort between one another and with outsiders under shaded cloaks and drawn hoods.
-    Familiarity is treachery, even to oneself.
-
-    Allows you to transmute a table (or a suit), a mask and a crowbar to create a shifting guise.
-    It grants you camouflage from cameras, hides your voice and muffles your footsteps.
-    Acts as a focus while hooded.
-    Unlocks tier 2 passive ability upgrade when transmuted.
-
-knowledge-path-lock-s6-name = Burglar's Finesse
+    Вратница была падшей Смотрительницей. Она мешала своим собратьям ради собственного извращённого удовольствия.
+    
+    Ваш Хват Мансуса теперь накладывает Метку замка.
+    Атакуйте отмеченного, чтобы лишить его возможности проходить через любые двери на время действия метки.
+    Даже шлюзы с общим доступом перестанут его впускать.
+knowledge-path-lock-s6-name = Обряд консьержа
 knowledge-path-lock-s6-desc =
-    Consorting with Burglar spirits is frowned upon, but a Steward will always want to learn about new doors.
-
-    Grants you Burglar's Finesse, a single-target spell that puts a random item from the victims backpack into your hand.
-    Doesn't require focus to cast.
-
-knowledge-path-lock-s7-name = Opening Blade
+    Консьерж вписал моё имя в Справочник. Добро пожаловать домой, новый Смотритель.
+    
+    Позволяет преобразовать мелок, деревянную доску и мультитул в Справочник лабиринта.
+    Он может создавать преграды на расстоянии, через которую можете проходить только Вы и те, кто устойчив к магии. Имеет ограниченное количество использований.
+knowledge-path-lock-s7-name = Ловкость взломщика
 knowledge-path-lock-s7-desc =
-    The Pilgrim-Surgeon was not an Steward. Nonetheless, its blades and sutures proved a match for their keys.
-
-    Your blade has better wounding and a chance to cause a weeping avulsion on attack.
-
-knowledge-path-lock-s8-name = Caretaker's Last Refuge
+    Связи с духами взломщиков не одобряются, но любой Смотритель всегда стремиться узнать больше о новых дверях.
+    
+    Даёт вам заклинание "Ловкость Вора" — однократное, по цели.
+    Позволяет мгновенно забрать случайный предмет из рюкзака цели прямо к себе в руку.
+knowledge-path-lock-s8-name = Открывающий клинок
 knowledge-path-lock-s8-desc =
-    Jealously, the Guard and the Hound hunted me. But I unlocked my form, and was but a haze, untouchable.
-
-    Gives you a spell that makes you transparent and not dense. Cannot be used near living sentient beings.
-    While in refuge, you cannot use your hands or spells, and you are immune to slowdown.
-    You are invincible but unable to harm anything. Cancelled by being hit with an anti-magic item.
-
-knowledge-path-lock-s9-name = Unlock the Labyrinth
+    Паломник-хирург не был Смотрителем. Тем не менее, его клинки и швы могли соперничать с их ключами.
+    
+    Ваш клинок теперь имеет шанс удалить случайный орган при атаке.
+knowledge-path-lock-s9-name = Последнее убежище Смотрителя
 knowledge-path-lock-s9-desc =
-    The ascension ritual of the Path of Knock.
-    Bring 3 corpses without the heart to a transmutation rune to complete the ritual.
-    When completed, you gain the ability to transform into empowered eldritch creatures and your keyblades will become even deadlier.
-    In addition, you will create a tear to the Labyrinth's heart; a tear in reality located at the site of this ritual.
-    Eldritch creatures will endlessly pour from this rift who are bound to obey your instructions.
-    You also gain mansus link hivemind access as well as immunity to hazards of space.
+    Из зависти, Страж и Гончая охотились на меня. Но я раскрыл свою форму — и стал лишь неосязаемой дымкой.
+    
+    Даёт вам заклинание, делающее вас прозрачным и нематериальным. Не может быть использовано рядом с живыми разумными существами.
+    Пока вы в убежище, вы не можете использовать руки или заклинания, но невосприимчивы к замедлению.
+    Вы неуязвимы, но не способны причинить вред.
+    Эффект снимается, если вас ударят антимагическим предметом.
+knowledge-path-lock-s10-name = Открой лабиринт
+knowledge-path-lock-s10-desc =
+    Ритуал Вознесения Пути замка.
+    Принесите 3 трупа без органов в груди к руне трансмутации, чтобы завершить ритуал.
+    После завершения вы разрываете реальность, открывая путь к сердцу Лабиринта, расположенный в месте проведения ритуала.
+    Из этой бреши будут бесконечно выходить элдрические существа, обязанные подчиняться вашим приказам.

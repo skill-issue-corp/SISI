@@ -1,2 +1,2 @@
-stack-bluespace-tile = bluespace tile
-stack-sepia-tile = sepia tile
+stack-bluespace-tile = блюспейс ковёр
+stack-sepia-tile = сепия ковёр

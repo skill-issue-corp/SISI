@@ -4,17 +4,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-surgery-verb-text = Start surgery
-surgery-verb-message = Begin surgery on this entity.
-surgery-ui-window-title = Surgery
-surgery-ui-window-require = Requires
-surgery-ui-window-parts = < Parts
-surgery-ui-window-surgeries = < Surgeries
-surgery-ui-window-steps = < Steps
-surgery-ui-window-steps-error-skills = You have no surgical skills.
-surgery-ui-window-steps-error-table = You need an operating table for this.
-surgery-ui-window-steps-error-armor = You need to remove their armor!
-surgery-ui-window-steps-error-tools = Missing tools.
-surgery-error-laying = They need to be laying down!
-surgery-error-self-surgery = You can't perform surgery on yourself!
-surgery-part-damage-evaded = {$user} narrowly evaded!
+surgery-verb-text = Начать операцию
+surgery-verb-message = Начата операция над этим существом.
+surgery-ui-window-title = Операция
+surgery-ui-window-require = Требуется
+surgery-ui-window-parts = < Части
+surgery-ui-window-surgeries = < Операции
+surgery-ui-window-steps = < Этапы
+surgery-ui-window-steps-error-skills = У вас нет хирургических навыков.
+surgery-ui-window-steps-error-table = Для этого нужен операционный стол.
+surgery-ui-window-steps-error-armor = Необходимо снять обмурдирование!
+surgery-ui-window-steps-error-tools = Отсутствуют инструменты.
+surgery-error-laying = Пациент должен лежать!
+surgery-error-self-surgery = Вы не можете оперировать себя!
+surgery-part-damage-evaded = { $user } едва увернулся!

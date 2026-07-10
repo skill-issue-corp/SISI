@@ -1,7 +1,7 @@
-spook-create-smoke = Clouds of smoke start to emerge...
-spook-create-ectoplasm = Globs of ectoplasm appear out of nowhere...
-spook-apc-sap = A strange force is draining power from the APC
-spook-burn-lights = Lights start to burn at your presence
-spook-flip-lights = Boo!
-spook-on-cooldown = The current action can not be activated. Try again later!
-spook-on-create = The spook has emerged from the darkness.
+spook-create-smoke = Клубы дыма начинают подниматься...
+spook-create-ectoplasm = Сгустки эктоплазмы появляются из ниоткуда...
+spook-apc-sap = Странная сила высасывает энергию из ЛКП
+spook-burn-lights = Светильники начинают перегорать в вашем присутствии
+spook-flip-lights = Бу-у!
+spook-on-cooldown = Это действие сейчас недоступно. Попробуйте позже!
+spook-on-create = Призрак вышел из темноты.

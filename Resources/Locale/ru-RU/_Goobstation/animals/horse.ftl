@@ -1,10 +1,8 @@
-
-accent-words-horsemob-1 = Neigh!
-accent-words-horsemob-2 = Neeigh!
-accent-words-horsemob-3 = Neiiighhh!
-accent-words-horsemob-4 = Haw!
-accent-words-horsemob-5 = Haaww!
-
-chat-speech-verb-name-horse = Horse
-chat-speech-verb-horse-1 = stares
-chat-speech-verb-horse-2 = snorts
+accent-words-horsemob-1 = Иго-го!
+accent-words-horsemob-2 = Иии-го!
+accent-words-horsemob-3 = Иигооо!
+accent-words-horsemob-4 = Игого!
+accent-words-horsemob-5 = Иггооо!
+chat-speech-verb-name-horse = Лошадь
+chat-speech-verb-horse-1 = бурчит
+chat-speech-verb-horse-2 = фыркает

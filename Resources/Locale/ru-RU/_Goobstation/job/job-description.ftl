@@ -7,36 +7,30 @@
 
 # Navy
 
-job-description-navy-officer-undercover = Complete your assigned tasks, Terminate the given targets. Good luck.
-job-description-navy-captain = Classified.
-job-description-navy-officer = Answer faxes and radio communications directed at Central Command. Perform investigations on the station and it's crew.
-job-description-diplomat = Represent Central Command, managing relationships with other factions aboard the station. Cleanup the issues the captain has likely caused.
-job-description-inspector = Inspect the station.
+job-description-navy-officer-undercover = Выполняйте поставленные задачи, устраняйте назначенные цели. Удачи.
+job-description-navy-captain = Секретно.
+job-description-navy-officer = Отвечайте на факсы и радиосообщения, направленные в Центральное Командование. Проводите расследования на станции и среди экипажа.
+job-description-diplomat = Представляйте Центральное Командование, управляйте отношениями с другими фракциями на станции. Разбирайтесь с проблемами, которые, скорее всего, вызвал Капитан.
+job-description-navy-special-operations-officer = Отправляйте, инструктируйте и направляйте Отряды Быстрого Реагирования или другие силы Nanotrasen. Выдайте ядерные коды или не делайте этого.
+job-description-outercommander = Внешний наблюдатель, который инспектирует Центральное командование и оказывает бюрократическое давление, не обладая прямой властью.
+job-description-operations-officer = Отправляйте, инструктируйте и руководите Отрядами Быстрого Реагирования или другими силами NanoTrasen. Выпускайте ядерные коды — или нет.
 
 # Generic Nanotrasen
 
-job-description-ntr = Represent NT, Send reports back to them on the station's situation, Inform the heads of anything CentCom orders them to do.
-
-# Syndicate
-
-job-description-highcommander = You are an elite, high-ranking official within the Spinward Syndicate. It doesn't matter which faction, you're important to them all.
+job-description-nct = Обучайте новичков правильному выполнению их должностных обязанностей и следите, чтобы они не попадали в неприятности.
 
 # Half Life
 
-job-description-governmentman = Well, well, isn't this just like old times.
-job-description-hecu = Fufill the orders of your supervisor, no matter the morality.
+job-description-highcommander = Вы являетесь элитным высокопоставленным представителем в Синдикате Спинварда. Неважно, к какой фракции вы принадлежите — вы важны для всех.
+job-description-gman = Что ж, как в старые добрые времена.
+job-description-governmentman = Ну-ну, разве это не похоже на старые добрые времена?
+job-description-hecu = Выполняйте приказы вашего руководителя, независимо от своих моральных принципов.
 
 # Misc
 
-job-description-conquest = Stand ready for my arrival, worm.
-job-description-mercenarycaptain = Order other mercs around. Act as muscle for the highest bidder. Just because it's NT now, doesn't mean it won't change later.
-job-description-roboticist = Build and maintain borgs and mechs. Keep the AI in check.
-job-description-radiohost = Host the stations local radio station, play vinyls, interview the crew, take faxes and run ads to make the best radio show on the station.
-
+job-description-conquest = Будь готов к моему приходу, червь.
+job-description-roboticist = Создавайте и поддерживайте боргов и мехов. Держите ИИ под контролем.
+job-description-radiohost = Ведите местную радиостанцию: проигрывайте музыку с виниловых пластинок, берите интервью у экипажа, принимайте факсы и пускайте рекламу в эфир.
 # Viro
-job-description-virologist = Study spreading viruses, produce cures for ailing crewmembers, experiment in creating beneficial viruses. Make sure pandemics don't spread.
-
-# Event restricted
-job-description-command-maid = Clean the bridge, command rooms, and everything else that command tells you to.
-job-description-security-clown = Do security's job, but don't forget to do it with your clown spice.
-job-description-party-maker = Throw the biggest party ever at this station!
+job-description-virologist = Изучайте вирусы, создавайте лекарства для больных членов экипажа, экспериментируйте с созданием полезных вирусов.
+job-description-mercenarycaptain = Отдавайте приказы другим наёмникам. Служите мышцами самому щедрому заказчику. То, что сейчас это NanoTrasen, не значит, что позже это не изменится.

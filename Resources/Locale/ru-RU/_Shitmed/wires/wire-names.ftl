@@ -6,9 +6,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-wires-board-name-autodoc = Autodoc Mk.XIV
-wires-board-name-contraband-detector = Contraband Detector
-
-wire-name-autodoc-safety = SAFE
-wire-name-contraband-detector-chance = ACURCY
-wire-name-contraband-detector-fake-scan = SCAN
+wires-board-name-autodoc = АвтоДок Mk.XIV
+wires-board-name-contraband-detector = Детектор контрабанды
+wire-name-autodoc-safety = БЕЗОПАСНО
+wire-name-contraband-detector-chance = ТОЧНОСТЬ
+wire-name-contraband-detector-fake-scan = СКАНИРОВАНИЕ

@@ -1,5 +1,4 @@
-alerts-low-plasma-name = [color=red]Low Plasma[/color]
-alerts-low-plasma-desc = There is [color=red]not enough plasma[/color] in the air you are breathing. Put on [color=green]internals[/color].
-
-alerts-high-oxygen-name = [color=red]High Oxygen[/color]
-alerts-high-oxygen-desc = There is [color=red]too much oxygen[/color] in the air you are breathing. Put on [color=green]internals[/color].
+alerts-low-plasma-name = [color=red]Мало плазмы[/color]
+alerts-low-plasma-desc = В воздухе, которым вы дышите, [color=red]недостаточно плазмы[/color]. Наденьте [color=green]маску с баллоном[/color].
+alerts-high-oxygen-name = [color=red]Много кислорода[/color]
+alerts-high-oxygen-desc = В воздухе, которым вы дышите, [color=red]слишком много кислорода[/color]. Наденьте [color=green]маску с баллоном[/color].

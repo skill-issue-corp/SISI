@@ -1,8 +1,9 @@
-xenomorphs-queen-promotion-didnt-pass-whitelist = You may only use this with your adult, non-royal children!
-xenomorphs-queen-promotion-no-mind = Her mind can't support the promotion!
+xenomorphs-queen-promotion-didnt-pass-whitelist = Вы можете использовать это только на своих взрослых особях, не на королевских детях!
+xenomorphs-queen-promotion-no-mind = Её разум не способен выдержать возвышение!
 
 ### Goobstation
-xenomorphs-queen-not-enough-plasma = Not enough plasma. Need { $plasma } more.
-xenomorphs-queen-promotion-invalid-target = Can only target other xenomorphs for promotion.
-xenomorphs-queen-already-praetorian = This xenomorph is already a Praetorian!
-xenomorphs-queen-promotion-success = Promoted { $target } to Praetorian!
+
+xenomorphs-queen-not-enough-plasma = Недостаточно плазмы. Нужно ещё { $plasma }.
+xenomorphs-queen-promotion-invalid-target = Возвышение можно применить только на других ксеноморфах.
+xenomorphs-queen-already-praetorian = Этот ксеноморф уже является Преторианцем!
+xenomorphs-queen-promotion-success = { $target } был возвышен до Преторианца!

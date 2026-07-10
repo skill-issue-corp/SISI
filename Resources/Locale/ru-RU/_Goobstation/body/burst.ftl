@@ -1,2 +1,2 @@
-body-part-burst-starting = Something starts to dig its way out of {$victim}'s {$part}!
-body-part-burst-finished = {CAPITALIZE($burst)} bursts out of {$victim}'s body!
+body-part-burst-starting = Что-то начинает вырываться из { $part } { $victim } !
+body-part-burst-finished = { CAPITALIZE($burst) } вырывается из тела { $victim }!

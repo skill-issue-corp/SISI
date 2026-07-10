@@ -1,9 +1,6 @@
-wraith-plaguerat-blocked = There is something in the way!
-wraith-plaguerat-channel = You begin to channel power to summon a plague rat into this realm!
-
-wraith-poison-success = You successfully poisoned { CAPITALIZE(SUBJECT($target)) }.
-
-wraith-rot-hulk-too-clean = This place is much too clean to summon a rot hulk.
-wraith-rot-hulk-emerge = A rot hulk slowly rises up from the coalesced filth!
-
-wraith-plague-absorb-corpse = You absorbed the corpse, may the rot begin.
+wraith-plaguerat-blocked = Что-то блокирует путь!
+wraith-plaguerat-channel = Вы начинаете направлять силу, чтобы призвать чумную крысу в этот мир!
+wraith-poison-success = Вы успешно отравили { CAPITALIZE(SUBJECT($target)) }.
+wraith-rot-hulk-too-clean = Здесь слишком чисто для призыва гнилого гиганта.
+wraith-rot-hulk-emerge = Гнилой гигант медленно возвышается из слипшейся грязи!
+wraith-plague-absorb-corpse = Вы поглотили труп. Да начнется же гниение!

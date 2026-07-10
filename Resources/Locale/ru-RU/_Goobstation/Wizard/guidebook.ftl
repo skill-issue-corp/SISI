@@ -4,4 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-guide-entry-wizard-spells = Wizard Spells
+guide-entry-wizard = Маг
+guide-entry-wizard-spells = Заклинания мага

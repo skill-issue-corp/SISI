@@ -1,66 +1,47 @@
-# SPDX-FileCopyrightText: 2021 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2021 Galactic Chimp <63882831+GalacticChimp@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 deltanedas <39013340+deltanedas@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 deltanedas <@deltanedas:kde.org>
-# SPDX-FileCopyrightText: 2024 August Eymann <august.eymann@gmail.com>
-# SPDX-FileCopyrightText: 2024 chromiumboy <50505512+chromiumboy@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 marc-pelletier <113944176+marc-pelletier@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
-
 ### UI
 
-rcd-component-examine-mode-details = It's currently set to '{$mode}' mode.
-rcd-component-examine-build-details = It's currently set to build {$name}.
-
+rcd-component-examine-mode-details = Выбран режим: '{ $mode }'.
+rcd-component-examine-build-details = Выбран режим строительства: { $name }.
 
 ### Interaction Messages
 
 # Mode change
-rcd-component-change-mode = The RCD is now set to '{$mode}' mode.
-rcd-component-change-build-mode = The RCD is now set to build {$name}.
-
+rcd-component-change-mode = РСУ переключён в режим '{ $mode }'.
+rcd-component-change-build-mode = РСУ переключён в режим строительства. Строится { $name }.
 # Ammo count
-rcd-component-no-ammo-message = The RCD has run out of charges!
-rcd-component-insufficient-ammo-message = The RCD doesn't have enough charges left!
-
+rcd-component-no-ammo-message = В РСУ закончились заряды!
+rcd-component-insufficient-ammo-message = В РСУ не хватает зарядов!
 # Deconstruction
-rcd-component-tile-indestructible-message = That tile can't be destructed!
-rcd-component-deconstruct-target-not-on-whitelist-message = You can't deconstruct that!
-rcd-component-nothing-to-deconstruct-message = There's nothing to deconstruct!
-rcd-component-tile-obstructed-message = You can't deconstruct tiles when there's something on top of them!
-rcd-component-deconstruct-target-no-access = You don't have access to deconstruct that!
-rcd-component-deconstruct-target-is-bolted = Mechanism's bolts prevent deconstruction!
-
+rcd-component-tile-indestructible-message = Эта клетка не может быть демонтирова!
+rcd-component-deconstruct-target-not-on-whitelist-message = Вы не можете демонтировать это!
+rcd-component-nothing-to-deconstruct-message = Здесь нечего демонтировать!
+rcd-component-tile-obstructed-message = Вы не можете демонтировать клетку, на которой что-то находится!
 # Construction
-rcd-component-no-valid-grid = You're too far into open space to build here!
-rcd-component-must-build-on-empty-tile-message = A foundation already exists here!
-rcd-component-cannot-build-on-empty-tile-message = You can't build that without a foundation!
-rcd-component-must-build-on-subfloor-message = You can only build that on exposed subfloor!
-rcd-component-cannot-build-on-subfloor-message = You can't build that on exposed subfloor!
-rcd-component-cannot-build-on-occupied-tile-message = You can't build here, the space is already occupied!
-rcd-component-cannot-build-identical-tile = That tile already exists there!
-rcd-component-cannot-build-identical-entity = That already exists there!
-
+rcd-component-no-valid-grid = Вы слишком далеко в космосе, чтобы строить здесь!
+rcd-component-deconstruct-target-no-access = У вас нет доступа чтобы демонтировать это!
+rcd-component-deconstruct-target-is-bolted = Болты препятствуют демонтированию!
+rcd-component-must-build-on-empty-tile-message = Здесь уже имеется фундамент!
+rcd-component-cannot-build-on-empty-tile-message = Это не может быть построено без фундамента.
+rcd-component-must-build-on-subfloor-message = Это может быть построено только на покрытии!
+rcd-component-cannot-build-on-subfloor-message = Это не может быть построено на покрытии!
+rcd-component-cannot-build-on-occupied-tile-message = Здесь нельзя строить, место уже занято!
+rcd-component-cannot-build-identical-tile = Эта клетка уже тут имеется!
 
 ### Category names
 
-rcd-component-walls-and-flooring = Walls and flooring
-rcd-component-windows-and-grilles = Windows and grilles
-rcd-component-airlocks = Airlocks
-rcd-component-electrical = Electrical
-rcd-component-lighting = Lighting
-rcd-component-piping = Piping
-rcd-component-atmosphericutility = Atmospheric Utility
-rcd-component-pumps = Pumps & Valves
-rcd-component-vents = Vents
-
+rcd-component-walls-and-flooring = Стены и полы
+rcd-component-windows-and-grilles = Окна и решётки
+rcd-component-airlocks = Шлюзы
+rcd-component-electrical = Электроприборы
+rcd-component-lighting = Освещение
 
 ### Prototype names (note: constructable items will be puralized)
 
-rcd-component-deconstruct = deconstruct
-rcd-component-floor-steel = steel tile
-rcd-component-plating = hull plate
+rcd-component-piping = Трубы
+rcd-component-atmosphericutility = Атмос
+rcd-component-pumps = Насосы и клапаны
+rcd-component-vents = Вентиляция
+rcd-component-deconstruct = Демонтаж
+rcd-component-floor-steel = Стальной пол
+rcd-component-plating = Корпусное покрытие
+rcd-component-pumpsvalves = Контроль труб

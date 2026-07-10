@@ -1,3 +1,3 @@
-pai-system-role-name-gold = Golden Artificial Intelligence
-pai-system-role-description-gold = Be someone's electronic pal!
-                              (Memories *not* included.)
+pai-system-role-name-gold = Золотой пИИ
+pai-system-role-description-gold = Стань электронным другом для кого-нибудь!
+                                (Воспоминания *не* прилагаются.)

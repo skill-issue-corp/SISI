@@ -6,27 +6,33 @@
 
 reagent-effect-condition-guidebook-stamina-damage-threshold =
     { $max ->
-        [2147483648] the target has at least {NATURALFIXED($min, 2)} stamina damage
-        *[other] { $min ->
-                    [0] the target has at most {NATURALFIXED($max, 2)} stamina damage
-                    *[other] the target has between {NATURALFIXED($min, 2)} and {NATURALFIXED($max, 2)} stamina damage
-                 }
+        [2147483648] у цели как минимум { NATURALFIXED($min, 2) } урона выносливости
+       *[other]
+            { $min ->
+                [0] у цели максимум { NATURALFIXED($max, 2) } урона выносливости
+               *[other] у цели от { NATURALFIXED($min, 2) } до { NATURALFIXED($max, 2) } урона выносливости
+            }
     }
-
 reagent-effect-condition-guidebook-unique-bloodstream-chem-threshold =
     { $max ->
-        [2147483648] { $min ->
-                        [1] there's at least {$min} reagent
-                        *[other] there's at least {$min} reagents
-                     }
-        [1] { $min ->
-               [0] there's at most {$max} reagent
-               *[other] there's between {$min} and {$max} reagents
+        [2147483648]
+            { $min ->
+                [1] в организме как минимум { $min } реагент
+               *[other] в организме как минимум { $min } реагентов
             }
-        *[other] { $min ->
-                    [-1] there's at most {$max} reagents
-                    *[other] there's between {$min} and {$max} reagents
-                 }
+        [1]
+            { $min ->
+                [0] в организме максимум { $max } реагент
+               *[other] в организме от { $min } до { $max } реагентов
+            }
+       *[other]
+            { $min ->
+                [-1] в организме максимум { $max } реагентов
+               *[other] в организме от { $min } до { $max } реагентов
+            }
     }
-
-reagent-effect-condition-guidebook-typed-damage-threshold = the target has at most { $changes } damage
+reagent-effect-condition-guidebook-typed-damage-threshold =
+    { $inverse ->
+        [true] у цели максимум
+       *[false] у цели как минимум
+    } { $changes } урона

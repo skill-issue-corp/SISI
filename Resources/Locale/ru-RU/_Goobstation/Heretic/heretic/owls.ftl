@@ -1,8 +1,7 @@
-feast-of-owls-briefing = Your ambition is ravaged, but something powerful remains in its wake...
-
-feast-of-owls-knowledge-gaim-message = You feel something invisible tearing away at your very essence!
-
-feast-of-owls-title = Feast of Owls
-feast-of-owls-text = Do you really want to forsake your ascension? This action cannot be reverted.
-feast-of-owls-accept-button = Yes I'm sure
-feast-of-owls-deny-button = No
+feast-of-owls-eui-far-away = Руны нет или она слишком далеко!
+feast-of-owls-eui-briefing = Ваши амбиции разрушены, но нечто могущественное остаётся на их месте.
+feast-of-owls-knowledge-gaim-message = Ты чувствуешь, как что-то невидимое разрывает твою сущность!
+feast-of-owls-title = Совиный пир
+feast-of-owls-text = Вы действительно хотите отказаться от своего вознесения? Это действие нельзя отменить.
+feast-of-owls-accept-button = Да, я уверен
+feast-of-owls-deny-button = Нет

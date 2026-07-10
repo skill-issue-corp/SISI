@@ -1,29 +1,22 @@
-clone-projector-examined-status = { $cloneStatus ->
-[true] The clone is currently active.
-*[false] The clone is currently inactive.
-}
-clone-projector-examined-health = {$cloneHealth}% Integrity
-
-gemini-projector-clone-created = A swarm of nanites appears from {$user}'s projector.
-gemini-projector-clone-retrieved = The {$target} dematerializes.
-
-gemini-projector-clone-flavor-text = [color=cyan]It's composed of a swarm of nanomachines.[/color]
-gemini-projector-clone-name-suffix = - Gemini
-
-gemini-projector-installed = You feel a sharp pain in your lower back.
-gemini-projector-removed = You feel your vision widen, and an extremely sharp pain in your lower back.
-gemini-projector-clone-destroyed = Every muscle in your body aches as the projector malfunctions.
-
-gemini-projector-regenerate-verb = Regenerate Clone
-gemini-projector-regenerate-verb-text = Regenerate the current clone, keeping its mind but setting its body back to default.
-
-gemini-projector-reboot-verb = Recalibrate Personality
-gemini-projector-reboot-verb-text = Recalibrate the personality of the current clone, giving it a brand new mind. This cannot be undone.
-
-ghost-role-information-gemini-clone-name = Gemini Hologram
-ghost-role-information-gemini-clone-description = Assist the Research Director in any and all of their tasks. Maybe burn a city or two if they want.
-
-ghost-role-information-monozygotic-clone-name = Monozygotic Hologram
-ghost-role-information-monozygotic-clone-description = Assist Central Command in any and all of their tasks.
-
-monozygotic-projector-clone-name-suffix = - Zygote
+clone-projector-examined-status =
+    { $cloneStatus ->
+        [true] Клон в настоящее время активен.
+       *[false] Клон в настоящее время неактивен.
+    }
+clone-projector-examined-health = Целостность: { $cloneHealth }%
+gemini-projector-clone-created = Из проектора { $user } появляется рой нанитов.
+gemini-projector-clone-retrieved = { $target } дематериализуется.
+gemini-projector-clone-flavor-text = [color=cyan]Состоит из роя наномашин.[/color]
+gemini-projector-clone-name-suffix = - Близнец
+gemini-projector-installed = Вы чувствуете резкую боль в пояснице.
+gemini-projector-removed = Ваше зрение расширяется, сопровождаясь острой болью в пояснице.
+gemini-projector-clone-destroyed = Все мышцы тела пронзает боль при неисправности проектора.
+gemini-projector-regenerate-verb = Регенерировать клон
+gemini-projector-regenerate-verb-text = Восстановить текущего клона, сохранив его разум, но сбросив тело до стандартного состояния.
+gemini-projector-reboot-verb = Перекалибровать личность
+gemini-projector-reboot-verb-text = Перекалибровать личность текущего клона, создав совершенно новый разум. Это действие необратимо.
+ghost-role-information-gemini-clone-name = Голограмма Близнеца
+ghost-role-information-gemini-clone-description = Помогайте научному руководителю во всех его задачах. Может быть, сожгите пару городов, если он попросит.
+ghost-role-information-monozygotic-clone-name = Заготная голограмма
+ghost-role-information-monozygotic-clone-description = Помогай центральному командованию в выполнении любых задач.
+monozygotic-projector-clone-name-suffix = - Зигота

@@ -9,29 +9,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-trait-scottish-name = Scottish accent
-trait-scottish-desc = Your scottish pride is as strong as your accent!
-
-trait-wheelchair-bound-name = Wheelchair Bound
-trait-wheelchair-bound-desc = You cannot move without your wheelchair. Wheelchair included.
-
-trait-bogan-name = Bogan accent
-trait-bogan-desc = You learned this from a mythical creature.
-
-poor-vision-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} eyes are unfocused. It doesn't seem like {SUBJECT($target)} can see you very well without glasses..[/color]
-
-trait-medieval-accent-name = Medieval accent
-trait-medieval-accent-desc = Hark! Thy manner o' speech, 'tis most unusual!
-trait-tile-movement-name = Inner peace
-trait-tile-movement-desc = You are always in touch with your roots. And by your roots, I mean the center of the tile you're standing on.
-
-trait-movement-impaired-name = Movement Impaired
-trait-movement-impaired-desc = You can't quite seem to walk very well without some assistance. Cane included.
-
-movement-impaired-trait-examined = [color=yellow]{CAPITALIZE(SUBJECT($target))} seems to walk with a slight limp. It doesn't seem like {SUBJECT($target)} can walk very well without assistance[/color]
-
-trait-social-anxiety-name = Social Anxiety
-trait-social-anxiety-disc = You have crippling social anxiety, you're freaked out by affectionate things, such as hugs.
-
-trait-deaf-name = Deaf
-trait-deaf-disc =  You're completly deaf, you can't hear anything, including yourself!
+trait-scottish-name = Шотландский акцент
+trait-scottish-desc = Твоя шотландская гордость так же сильна, как и твой акцент!
+trait-wheelchair-bound-name = Прикован к инвалидному креслу
+trait-wheelchair-bound-desc = Ты не можешь двигаться без инвалидного кресла. Каталка в комплекте.
+trait-bogan-name = Акцент Богана
+trait-bogan-desc = Ты научился этому у мифического существа.
+poor-vision-trait-examined = [color=lightblue]{ CAPITALIZE(POSS-ADJ($target)) } глаза расфокусированы. Похоже, { SUBJECT($target) } плохо видит тебя без очков.[/color]
+trait-medieval-accent-name = Средневековый акцент
+trait-medieval-accent-desc = О, взирай! Манера твоя речи, поистине необычна!
+trait-tile-movement-name = Внутреннее спокойствие
+trait-tile-movement-desc = Ты всегда в гармонии со своими корнями. А под корнями я имею в виду центр плитки, на которой ты стоишь.
+trait-movement-impaired-name = Нарушение походки
+trait-movement-impaired-desc = Похоже, ты не можешь нормально ходить без посторонней помощи. Трость в комплекте.
+movement-impaired-trait-examined = [color=yellow]{ CAPITALIZE(SUBJECT($target)) } слегка хромает. Похоже, { SUBJECT($target) } с трудом передвигается без посторонней помощи[/color]
+trait-social-anxiety-name = Социофобия
+trait-social-anxiety-disc = У вас парализующая социальная тревожность. Вас пугают проявления привязанности, такие как объятия.
+trait-deaf-name = Глухой
+trait-deaf-disc = Вы полностью глухой. Не слышите ничего, даже самого себя!

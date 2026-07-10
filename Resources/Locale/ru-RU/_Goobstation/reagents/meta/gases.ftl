@@ -1,11 +1,8 @@
-reagent-name-bz = bz
-reagent-desc-bz = A potent hallucinogenic.
-
-reagent-name-healium = healium
-reagent-desc-healium = A powerful sleeping agent with regenerative properties.
-
-reagent-name-nitrium = nitrium
-reagent-desc-nitrium = An experimental performance enhancing gas. Nitrium can have amplified effects as more of it gets into your bloodstream.
-
-reagent-name-pluoxium = pluoxium
-reagent-desc-pluoxium = A gas that could supply even more oxygen to the bloodstream when inhaled, without being an oxidizer.
+reagent-name-bz = би-зет
+reagent-desc-bz = Мощный галлюциноген, который также погружает слаймолюдов в стазис.
+reagent-name-healium = хилиум
+reagent-desc-healium = Мощное снотворное с регенеративными свойствами.
+reagent-name-nitrium = нитриум
+reagent-desc-nitrium = Экспериментальный газ, усиливающий физические показатели. Эффект нитриума может усиливаться по мере его накопления в крови.
+reagent-name-pluoxium = плюоксиум
+reagent-desc-pluoxium = Газ, который при вдыхании может снабжать кровь ещё большим количеством кислорода, не будучи окислителем.

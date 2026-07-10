@@ -5,14 +5,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ghost-role-information-onestar-mecha-name = OneStar Mecha
-ghost-role-information-onestar-mecha-description = You are this station's end.
-
-ghost-role-information-drone-name = Maintenance Drone
+ghost-role-information-onestar-mecha-name = Мех OneStar
+ghost-role-information-onestar-mecha-description = Вы — конец этой станции.
+ghost-role-information-drone-name = Обслуживающий дрон
 # Goobstation
-ghost-role-information-drone-description = Maintain the station. Ignore other beings except drones. Use +/+d to talk in the Dronemind.
-ghost-role-information-drone-rules = You are bound by these laws both in-game and out-of-character:
-
-     1. You may not interfere with the affairs of any being except another drone, regardless of intent or circumstance.
-     2. Your goal is to maintain or improve the station to the best of your ability.
-     3. You may not take any action which causes damage or harm to the station or its inhabitants.
+ghost-role-information-drone-description = Поддерживай станцию. Игнорируй всех, кроме дронов. Используй + / +d для общения в Разуме Дронов.
+ghost-role-information-drone-rules =
+    Вы связаны этими законами как в игре, так и вне её:
+    
+    1. Вы не можете вмешиваться в дела других существ, кроме прочих дронов, независимо от намерений или обстоятельств.
+    2. Ваша единственная цель — поддерживать или улучшать станцию наилучшим образом.
+    3. Вы не можете предпринимать действия, которые могут причинить ущерб станции или её экипажу.

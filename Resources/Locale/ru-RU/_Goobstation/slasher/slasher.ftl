@@ -1,47 +1,43 @@
-slasher-role-greeting = You feel an unstoppable urge for vengeance... and synth music. The night is young, the fog is thick, and your machete gleams in the neon starlight. Time to show these spacemen why you're the legend of the midnight massacre!
-
-ghost-role-information-slasher-name = Slasher
-ghost-role-information-slasher-description = Slaughter and terrorize the living as the Slasher!
-
-slasher-round-end-agent-name = Slasher
-
-
-slasher-summon-meatspike-popup = A gruesome meat spike erupts from the ground!
-
-slasher-staggerarea-victim = A horrifying chill runs down your spine!
-slasher-staggerarea-popup = You unleash a wave of terror.
-
-slasher-regenerate-no-soul = You need a stolen soul to regenerate!
-
-slasher-soulsteal-success = You feel a dark energy course through you.
-slasher-soulsteal-start = You begin to siphon the life force of your victim...
-slasher-soulsteal-fail-not-down = Your target must be incapacitated.
-slasher-soulsteal-fail-no-mind = Your target has no soul to steal.
-slasher-soulsteal-start-victim = You feel your soul being drained...
-slasher-soulsteal-success-victim = You feel a piece of your soul dissipate.
-slasher-soulsteal-fail-not-valid = This is not a valid target!
-slasher-soulsteal-ascendance = CRITICAL ALERT: Massive psychic disturbance detected. An entity of unprecedented malevolent power has achieved critical mass. All personnel are advised to arm themselves and travel in groups.
-
-slasher-massacre-start = A surge of energy fills the air!
-slasher-massacre-end = The atmosphere returns to normal.
-slasher-massacre-target-change = The focus shifts to a new target.
-slasher-massacre-decap = A decisive blow is struck!
-slasher-massacre-limb = A powerful hit lands!
-
-slasher-incorporealize-fail-seen = You cannot incorporealize while being watched!
-slasher-corporealize-fail-camera = You cannot corporealize when there's a camera watching!
-slasher-corporealize-fail-nearby = You cannot corporealize while someone is nearby!
-slasher-corporealize-fail-inside-wall = You cannot corporealize while near a solid object!
-
-reagent-name-slasherium = Slasherium
-reagent-desc-slasherium = Used by the Slasher to heal themselves.
-
-objective-issuer-slasher = Slasher
-slasher-objective-absorb-souls-title = Absorb { $count } souls
-slasher-objective-absorb-souls-desc = The Crew has no need for such things.
-                                      You do.
-
-roles-antag-slasher-name = Slasher
-roles-antag-slasher-objectives = Slaughter and terrorize the living as the Slasher!
-
-slasher-cannot-use-guns = Your otherworldly form rejects firearms.
+slasher-role-greeting = Вы чувствуете непреодолимую жажду мести... и синтвейв. Ночь только начинается, туман густой, и ваше мачете сверкает в свете неоновых звезд. Пришло время показать этим космонавтикам, почему стоит боятся технических помещений.
+ghost-role-information-slasher-name = Мясник
+ghost-role-information-slasher-description = Убивайте и всячески терроризируйте простой экипаж!
+slasher-round-end-agent-name = Мясник
+slasher-summon-meatspike-popup = Прямо из земли появляется жуткий мясной крюк.
+slasher-staggerarea-victim = По вашей спине пробегает леденящий холод!
+slasher-staggerarea-popup = Вы вызываете волну ужаса.
+slasher-regenerate-no-soul = Вам нужна украденная душа для регенерации!
+slasher-soulsteal-success = Вы чувствуете, как темная энергия проходит через вас.
+slasher-soulsteal-start = Вы начинаете высасывать жизненную силу из своей жертвы...
+slasher-soulsteal-fail-not-down = Ваша цель должна быть ослаблена.
+slasher-soulsteal-fail-no-mind = У вашей цели нет души, которую возможно украсть.
+slasher-soulsteal-start-victim = Вы чувствуете, как ваша душа опустошается...
+slasher-soulsteal-success-victim = Вы чувствуете, как частичка вашей души рассеивается.
+slasher-soulsteal-fail-not-valid = Нельзя извлечь душу этой цели.
+slasher-soulsteal-ascendance = ВНИМАНИЕ: Обнаружено мощное псионическое воздействие. Сущность с беспрецедентным уровнем зловещей силы достигла критической массы. Всем сотрудникам рекомендуется вооружиться и передвигаться группами.
+slasher-massacre-start = Воздух наполняется жуткой энергией.
+slasher-massacre-end = Всё возвращается в норму...
+slasher-massacre-target-change = Внимание переключилось на новую цель!
+slasher-massacre-decap = Кажется, это был последний удар...
+slasher-massacre-limb = УМРИ!
+slasher-incorporealize-fail-seen = Вы не можете материализоваться, пока вас видят!
+slasher-corporealize-fail-camera = Вы не можете материализоваться, пока вас видят.
+slasher-corporealize-fail-nearby = Вы не можете материализоваться, пока кто-то рядом!
+slasher-corporealize-fail-inside-wall = Вы не можете материализоваться, пока находитесь в твёрдом объекте!
+reagent-name-slasherium = маньякиум
+reagent-desc-slasherium = Мощный химикат, используемый мясником для регенерации своего тела.
+objective-issuer-slasher = Мясник
+slasher-objective-absorb-souls-title = Поглотить { $count } душ
+slasher-objective-absorb-souls-desc =
+    Экипажу это уже не понадобится.
+    Ты поможешь...
+roles-antag-slasher-name = Мясник
+roles-antag-slasher-objectives = Убивайте и всячески терроризируйте простой экипаж!
+slasher-cannot-use-guns = Огнестрельное оружие нужно лишь тем, кто не ценит поножовщину...
+slasher-machete-no-hands = У вас нет рук!
+slasher-machete-hands-full = Ваши руки заняты!
+slasher-machete-already-holding = Вы уже держите своё мачете!
+slasher-soulsteal-unlock-possession = Ваша сила растёт. Теперь вы можете вселяться в других людей!
+slasher-massacre-already-activated = Бойня уже активна!
+slasher-relentless-grab-activate = Вы готовитесь схватить свою следующую жертву!
+alerts-slasher-seen-name = Статус наблюдения
+alerts-slasher-seen-desc = Показывает, наблюдают ли за вами в данный момент. Вы не можете входить в бестелесную форму или выходить из неё, пока за вами наблюдают.

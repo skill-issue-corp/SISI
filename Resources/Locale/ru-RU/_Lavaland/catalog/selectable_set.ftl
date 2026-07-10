@@ -1,25 +1,23 @@
-miner-weapon-selector-pka-name = Proto-kinetic Accelerator
+miner-weapon-selector-pka-name = Протокинетический ускоритель
 miner-weapon-selector-pka-description =
-    Classic short-ranged bolt accelerator that deals
-    constant damage with high accuracy.
-miner-weapon-selector-repeater-name = Proto-kinetic Repeater
+    Классический болтовый ускоритель с малой дальностью стрельбы,
+    наносящий стабильный урон и обладающий высокой точностью.
+miner-weapon-selector-repeater-name = Протокинетический повторитель
 miner-weapon-selector-repeater-description =
-    A middle-ranged burst weapon that shoots 3 bullets
-    in a row dealing high amounts of damage.
-miner-weapon-selector-pistols-name = Proto-kinetic Pistols
+    Оружие для средних расстояний, стреляющее очередями из трёх пуль,
+    нанося серьёзный урон.
+miner-weapon-selector-pistols-name = Протокинетические пистолеты
 miner-weapon-selector-pistols-description =
-    2 pistols that you can dualwield to look like from middle-west.
-    Deals decent amount of damage in exchange for good range.
-
-miner-weapon-selector-crusher-name = Crusher Axe
-miner-weapon-selector-crusher-description =
-    Classic melee weapon for slicing lavaland enemies.
-miner-weapon-selector-glaive-name = Crusher Glaive
+    Пара пистолетов, которые можно использовать для стрельбы с двух рук. Как на Диком Западе...
+    Наносят небольшой урон, но имеют хорошую дальность стрельбы.
+miner-weapon-selector-crusher-name = Топор-крушитель
+miner-weapon-selector-crusher-description = Классическое оружие ближнего боя для рубки порождений Лаваленда.
+miner-weapon-selector-glaive-name = Глефа-крушитель
 miner-weapon-selector-glaive-description =
-    A piercing weapon that has high range and attack speed
-    in exchange for lower damage. Great if you want to
-    attack enemies from safety.
-miner-weapon-selector-hammer-name = Crusher Hammer
+    Колющее оружие с большой дальностью и высокой скоростью атаки,
+    но наносящее меньшее количество урона. Отличный выбор, если вы хотите
+    атаковать врагов с безопасного расстояния.
+miner-weapon-selector-hammer-name = Молот-крушитель
 miner-weapon-selector-hammer-description =
-    A heavy blunt weapon that deals a lot of damage
-    in slow powerful hits. Can mine through rock unefficiently.
+    Монструозное оружие, наносящее огромное количество урона ушибами
+    своими медленными атаками. Неэффективен для раскопок.

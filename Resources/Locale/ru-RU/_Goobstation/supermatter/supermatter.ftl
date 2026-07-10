@@ -6,41 +6,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-supermatter-announcer = Automatic Supermatter Engine
-
-supermatter-examine-integrity =
-    It's integrity is [color=yellow]{$integrity}%[/color].
-
-supermatter-warning =
-    Warning! Crystal hyperstructure integrity faltering! Integrity: {$integrity}%.
-
-supermatter-emergency =
-    DANGER! Crystal hyperstructure integrity reaching critical levels! Integrity: {$integrity}%.
-
-supermatter-delam-explosion =
-    CRYSTAL DELAMINATION IMMINENT! The crystal has reached critical integrity failure! Emergency causality destabilization field has been engaged.
-
-supermatter-delam-overmass =
-    CRYSTAL DELAMINATION IMMINENT! Crystal hyperstructure integrity has reached critical mass failure! Singularity formation imminent!
-
-supermatter-delam-tesla =
-    CRYSTAL DELAMINATION IMMINENT! Crystal hyperstructure integrity has reached critical power surge failure! Energy ball formation imminent!
-
-supermatter-delam-cascade =
-    CRYSTAL DELAMINATION IMMINENT! Harmonic frequency limits exceeded, casualty destabilization field could not be engaged!
-
-supermatter-delam-cancel =
-    Crystalline hyperstructure returning to safe operating parameters. Failsafe has been Disengaged. Integrity: {$integrity}%.
-
-supermatter-seconds-before-delam =
-    Estimated time before delamination: {$seconds} seconds.
-
-supermatter-tamper-begin =
-    You begin carefully cutting a piece off the supermatter crystal...
-
-supermatter-tamper-end =
-    You feel the power of a thousand suns laying on your palms. Or is it all the radiation?
-
+supermatter-announcer = Автоматический двигатель Суперматерии
+supermatter-examine-integrity = Целостность: [color=yellow]{ $integrity }%[/color].
+supermatter-warning = Внимание! Целостность гиперструктуры кристалла нарушена! Целостность: { $integrity }%.
+supermatter-emergency = ОПАСНОСТЬ! Целостность гиперструктуры кристалла достигает критического уровня! Целостность: { $integrity }%.
+supermatter-delam-explosion = НЕИЗБЕЖНОЕ РАЗРУШЕНИЕ КРИСТАЛЛА! Гиперструктура достигла критического разрушения целостности! Включено аварийное поле дестабилизации.
+supermatter-delam-overmass = НЕИЗБЕЖНОЕ РАЗРУШЕНИЕ КРИСТАЛЛА! Целостность гиперструктуры достигла критической массы! Формирование сингулярности неизбежно!
+supermatter-delam-tesla = НЕИЗБЕЖНОЕ РАЗРУШЕНИЕ КРИСТАЛЛА! Целостность гиперструктуры достигла критического перенапряжения! Формирование энергетического шара неизбежно!
+supermatter-delam-cascade = НЕИЗБЕЖНОЕ РАЗРУШЕНИЕ КРИСТАЛЛА! Превышены пределы гармонических частот, поле дестабилизации не удалось активировать!
+supermatter-delam-cancel = Кристаллическая гиперструктура возвращается к безопасным рабочим параметрам. Защита отключена. Целостность: { $integrity }%.
+supermatter-seconds-before-delam = Расчётное время до разрушения: { $seconds } секунд.
+supermatter-tamper-begin = Вы начинаете осторожно отрезать кусок от кристалла Суперматерии...
+supermatter-tamper-end = Вы ощущаете силу тысячи солнц на своих ладонях. Или это всё радиация?
 supermatter-announcement-cc-tamper =
-    Our automatic casualty system has detected that the supermatter crystal structural integrity was compromised by an external force.
-    Engineering department, report to the supermatter engine immediately.
+    Автоматическая система обнаружила нарушение целостности кристалла Суперматерии.
+    Инженерному отделу немедленно явиться к кристаллу Суперматерии.

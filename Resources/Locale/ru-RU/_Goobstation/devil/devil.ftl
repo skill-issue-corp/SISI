@@ -1,42 +1,31 @@
-devil-roundend-name = Devil
-objective-issuer-devil = Devil
-
-roundend-prepend-devil-contracts = Someone has made [color=red]{$number}[/color] successful contracts.
-roundend-prepend-devil-contracts-named = [color=white]{$name}[/color] has made [color=red]{$number}[/color] successful contracts.
-
-devil-component-examined = [color=darkred]{CAPITALIZE(POSS-ADJ($target))} eyes glow a faint red.[/color]
-condemned-component-examined = [color=chartreuse]{CAPITALIZE($target)}'s eyes are hollow and soulless.[/color]
-
-devil-role-greeting = You are a devil from the depths of hell,
-  who has possessed the body of {$playerName}
-  Corrupt mortals and collect souls through the use of contracts.
-  It is not in your interest to do tasks unrelated to your deals, they are beneath you.
-  Your true name is {$trueName} - Try to keep it a secret, will you?
-
-devil-true-name-heard = The act of {$speaker} commanding {$target}'s true name compels {POSS-ADJ($target)} to stop.
-devil-true-name-heard-chaplain = The act of {$speaker}'s holy words commanding their true name burns away at {$target}'s very soul.
-
-objective-condition-contract-title = Collect Souls
-objective-condition-contract-description = Collect as many souls as possible.
-
-objective-condition-weight-title = Make profitable deals.
-objective-condition-weight-description = Ensure the deals benefit you as much as possible.
-
-hand-shake-prompt-verb = Offer handshake to {$target}
-hand-shake-accept-verb = Shake {$target}'s hand
-
-handshake-success = You feel slightly lighter as you shake {$user}'s hand.
-handshake-fail =  You shake {POSS-ADJ($user)} hand, but nothing happens!
-
-handshake-offer-popup = {$user} offers {POSS-ADJ($user)} hand to you, a sly grin on {POSS-ADJ($user)} face.
-handshake-offer-popup-self = You outstretch your hand to {$target}, a sly grin on your face.
-
-weaktoholy-component-bible-sizzle = {$target}'s skin is singed with the {$item}!
-devil-banish-begin = {$user} begins to perform an exorcism on {$target}!
-devil-exorcised = The ground cracks and splinters beneath {$target} as they are forcefully returned to hell!
-
-invalid-possession-target = You cannot possess this target!
-
-devil-power-level-increase-weak = Bits of flame flare out from your fingertips. Your connection with hell has strengthened.
-devil-power-level-increase-moderate = You feel your power surge. Your connection with hell has strengthened.
-devil-power-level-increase-powerful = You've almost completed your tasks here. Just a few more souls.
+devil-roundend-name = Дьявол
+objective-issuer-devil = Дьявол
+roundend-prepend-devil-contracts = Кто-то заключил [color=red]{ $number }[/color] успешных контрактов.
+roundend-prepend-devil-contracts-named = [color=white]{ $name }[/color] заключил [color=red]{ $number }[/color] успешных контрактов.
+devil-component-examined = [color=darkred]{ CAPITALIZE(POSS-ADJ($target)) } глаза светятся тускло-красным светом.[/color]
+condemned-component-examined = [color=chartreuse]Глаза { CAPITALIZE($target) } пусты и бездушны.[/color]
+devil-role-greeting =
+    Вы — дьявол из глубин ада,
+    овладевший телом { $playerName }.
+    Развращайте смертных и собирайте души при помощи контрактов.
+    Вам неинтересны задачи, не связанные со сделками — это ниже вашего достоинства.
+    Ваше истинное имя — { $trueName } — постарайтесь сохранить его в тайне.
+devil-true-name-heard = Произнесение { $speaker } истинного имени { $target } заставляет { POSS-ADJ($target) } замолчать.
+devil-true-name-heard-chaplain = Священные слова { $speaker }, произнесённые с истинным именем, жгут душу { $target }.
+objective-condition-contract-title = Собери души
+objective-condition-contract-description = Собери как можно больше душ.
+objective-condition-weight-title = Совершайте выгодные сделки.
+objective-condition-weight-description = Следите, чтобы сделки приносили вам как можно больше выгоды.
+hand-shake-prompt-verb = Предложить руку { $target }
+hand-shake-accept-verb = Пожать руку { $target }
+handshake-success = Пожав руку { $user }, вы чувствуете лёгкость в душе.
+handshake-fail = Вы пожимаете руку { POSS-ADJ($user) }, но ничего не происходит!
+handshake-offer-popup = { $user } протягивает вам руку, с хитрой улыбкой на лице.
+handshake-offer-popup-self = Вы протягиваете руку { $target }, хитро улыбаясь.
+weaktoholy-component-bible-sizzle = Кожа { $target } опалилась от { $item }!
+devil-banish-begin = { $user } начинает проводить обряд экзорцизма над { $target }!
+devil-exorcised = Земля трескается под { $target }, когда его насильно возвращают в ад!
+invalid-possession-target = Вы не можете овладеть этой целью!
+devil-power-level-increase-weak = Из пальцев вырываются искры пламени. Ваша связь с адом усиливается.
+devil-power-level-increase-moderate = Вы чувствуете прилив сил. Ваша связь с адом усиливается.
+devil-power-level-increase-powerful = Все цели почти готовы. Осталось собрать ещё немного душ.

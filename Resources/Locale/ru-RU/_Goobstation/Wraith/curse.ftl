@@ -1,31 +1,23 @@
-curse-weakness-slow = You suddenly feel very tired.
-curse-weakness-pale-1 = Your muscles tense up.
-curse-weakness-pale-2 = You feel light-headed.
-curse-weakness-pale-3 = Your legs almost give in.
-curse-weakness-drowsy-1 = Your conscience slips.
-curse-weakness-drowsy-2 = You feel awfully drowsy.
-
-curse-blood-1 = {CAPITALIZE(THE($entity))} vomits a lot of blood!
-
-curse-rot-cant-eat = You feel too sick to eat...
-
-curse-blindness-1 = A shadowy veil falls over your vision.
-curse-blindness-2 = You can't seem to be able to see things clearly anymore.
-curse-blindness-3 = You blink and notice that your vision is blurier than before.
-
-curse-death-1 = You feel netherworldly hands grasping at your soul!
-curse-death-2 = IT'S COMING FOR YOU!
-curse-death-3 = {CAPITALIZE(THE($entity))}'s flesh tears open before your very eyes!!
-
-curse-popup-weakness = Their strength crumbles under your will.
-curse-popup-blood = Their veins weep at your command.
-curse-popup-rot = Their hunger turns to ash in their mouth.
-curse-popup-blindness = Darkness swallows their sight.
-curse-popup-death = Their soul kneels before your final judgment.
-
-curse-fail-require-all = You must apply the four other curses first.
-
-curse-immune-fail = A strange force prevents you from cursing this being, your energy is wasted.
-curse-fail-robot = You cannot curse a machine.
-
-curse-not-anymore = You have been cured from the curses of an unknown spirit!
+curse-weakness-slow = Вы внезапно чувствуете сильную усталость.
+curse-weakness-pale-1 = Ваши мышцы напрягаются.
+curse-weakness-pale-2 = У вас кружится голова.
+curse-weakness-pale-3 = Ваши ноги почти отказывают.
+curse-weakness-drowsy-1 = Ваше сознание засыпает.
+curse-weakness-drowsy-2 = Вы чувствуете сильную сонливость.
+curse-blood-1 = { CAPITALIZE($entity) } изрыгает много крови!
+curse-rot-cant-eat = Вам слишком плохо чтобы есть...
+curse-blindness-1 = Ваше зрение застелает тенистой вуалью.
+curse-blindness-2 = Вы больше не можете ясно видеть вещи.
+curse-blindness-3 = Вы моргаете и замечаете, что зрение стало мутнее чем раньше.
+curse-death-1 = Вы чувствуете, как потусторонние руки утаскивают вашу душу!
+curse-death-2 = ОНО ИДЁТ ЗА ВАМИ!
+curse-death-3 = Плоть { CAPITALIZE($entity) } разрывается прямо на ваших глазах!!
+curse-popup-weakness = Их сила слабеет под вашей волей.
+curse-popup-blood = Их вены рыдают по вашему приказу.
+curse-popup-rot = Их голод превращается в прах.
+curse-popup-blindness = Тьма окутывает их очи.
+curse-popup-death = Их душа становится на колени после вашего приговора.
+curse-fail-require-all = Сначала вы должны наслать другие четыре проклятья.
+curse-immune-fail = Странная сила мешает вам проклясть это существо. Ваша энергия потрачена впустую.
+curse-fail-robot = Вы не можете проклясть машину.
+curse-not-anymore = Вы исцелились от проклятий неизвестного духа!

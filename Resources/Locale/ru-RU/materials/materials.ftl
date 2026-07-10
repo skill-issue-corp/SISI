@@ -1,58 +1,40 @@
-# SPDX-FileCopyrightText: 2022 Morb <14136326+Morb0@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 RiceMar1244 <138547931+RiceMar1244@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 Tunguso4ka <71643624+Tunguso4ka@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 Velcroboy <107660393+IamVelcroboy@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 brainfood1183 <113240905+brainfood1183@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 deltanedas <39013340+deltanedas@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Ed <96445749+TheShuEd@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Mr. 27 <45323883+Dutch-VanDerLinde@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Zadeon <loldude9000@gmail.com>
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
 # Glass
-materials-glass = glass
-materials-reinforced-glass = reinforced glass
-materials-plasma-glass = plasma glass
-materials-reinforced-plasma-glass = reinforced plasma glass
-materials-uranium-glass = uranium glass
-materials-reinforced-uranium-glass = reinforced uranium glass
-
+materials-glass = стекло
+materials-reinforced-glass = бронестекло
+materials-plasma-glass = плазменное стекло
+materials-reinforced-plasma-glass = плазменное бронестекло
 # Metals
-materials-steel = steel
-materials-gold = gold
-materials-silver = silver
-materials-plasteel = plasteel
-
+materials-steel = сталь
+materials-uranium-glass = урановое стекло
+materials-reinforced-uranium-glass = укреплённое урановое стекло
+materials-gold = золото
+materials-silver = серебро
+materials-plasteel = пласталь
 # Other
-materials-biomass = biomass
-materials-cardboard = cardboard
-materials-cloth = cloth
-materials-durathread = durathread
-materials-plasma = plasma
-materials-plastic = plastic
-materials-wood = wood
-materials-paper = paper
-materials-uranium = uranium
-materials-bananium = bananium
-materials-meat = meat
-materials-web = silk
-materials-bones = bone
-materials-coal = coal
-materials-diamond = diamond
-materials-gunpowder = gunpowder
-materials-cotton = cotton
-
+materials-biomass = биомасса
+materials-cardboard = картон
+materials-cloth = ткань
+materials-durathread = дюраткань
+materials-plasma = плазма
+materials-plastic = пластик
+materials-wood = дерево
+materials-paper = бумага
+materials-uranium = уран
+materials-bananium = бананиум
+materials-meat = мясо
+materials-web = шёлк
+materials-bones = кости
+materials-coal = уголь
+materials-diamond = алмазы
+materials-gunpowder = чёрный порох
 # Ores
-materials-raw-iron = raw iron
-materials-raw-quartz = raw quartz
-materials-raw-gold = raw gold
-materials-raw-silver = raw silver
-materials-raw-plasma = raw plasma
-materials-raw-uranium = raw uranium
-materials-raw-bananium = raw bananium
-materials-raw-salt = raw salt
-materials-raw-diamond = raw diamond
+materials-raw-iron = руда железа
+materials-cotton = шёлк
+materials-raw-quartz = руда кварца
+materials-raw-gold = руда золота
+materials-raw-silver = руда серебра
+materials-raw-plasma = руда плазмы
+materials-raw-uranium = руда урана
+materials-raw-bananium = руда бананиума
+materials-raw-salt = каменная соль
+materials-raw-diamond = необработанные алмазы

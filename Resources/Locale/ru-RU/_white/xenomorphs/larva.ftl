@@ -1,2 +1,2 @@
-xenomorphs-burst-victim = Your muscles seize up with cramps. You no longer control your body... It's vomiting something horrific!
-xenomorphs-burst-other = { $victim } is in agony! Something is bursting out of their chest!
+xenomorphs-burst-victim = Ваши мышцы сводит судорогой. Вы больше не контролируете своё тело... Оно извергает нечто ужасное!
+xenomorphs-burst-other = { $victim } корчится в агонии! Что-то вырывается из его груди!

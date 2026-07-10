@@ -1,21 +1,24 @@
 station-report-text =
-    {"["}color=#1b67a5]░░██░░ [head=2]Official Document[/head]
-        ▀████▀ [head=3]Subject: Station Report[/head]
-        ▄█▀▀█▄ [head=3]Reviewer: NanoTrasen Representative[/head]
-        {"["}/color]──────────────────────────────────────────
-        • [color=#9fed58][bold]General Report[/bold][/color]
-        >[mono][/mono]
-        • [color=#ff5c5c][bold]Security Department Report[/bold][/color]
-        >[mono][/mono]
-        • [color=#d28150][bold]Logistics Department Report[/bold][/color]
-        >[mono][/mono]
-        • [color=#f2e052][bold]Engineering Department Report[/bold][/color]
-        >[mono][/mono]
-        • [color=#5b97bc][bold]Medical Department Report[/bold][/color]
-        >[mono][/mono]
-        • [color=#c96dbf][bold]Research Department Report[/bold][/color]
-        >[mono][/mono]
-        Signed by: [color=Green]Nanotrasen Representative name here[/color]
-
-station-report-end-round-text = {$bodytext}
-                                {"["}italic]NTR station report of round: {$roundid}{"["}/italic]
+                                        СТАНЦИОННЫЙ ОТЧЁТ
+    ---------------------------------------------------------------------------------------------
+    ПNT, пожалуйста, заполните этот станционный отчёт. Невыполнение приведёт к штрафу.
+    Неудаление всего пояснительного текста также повлечёт за собой штраф.
+    ---------------------------------------------------------------------------------------------
+    • [bold]Командование[/bold]
+    >[mono][/mono]
+    • [bold]Служба Безопасности[/bold]
+    >[mono][/mono]
+    • [bold]Отдел Снабжения[/bold]
+    >[mono][/mono]
+    • [bold]Инженерный отдел[/bold]
+    >[mono][/mono]
+    • [bold]Медицинский отдел[/bold]
+    >[mono][/mono]
+    • [bold]Научный отдел[/bold]
+    >[mono][/mono]
+    • [bold]Сервисный отдел[/bold]
+    >[mono][/mono]
+    • [bold]Состояние ИИ[/bold]
+    >[mono][/mono]
+    подписан, [color=Green]<имя ПNT>[/color]
+    >[italic]Пожалуйста, не ставьте печати и подписи на этом документе, все подписи и печати фильтруются нашей системой, вместо этого впишите своё имя в указанное поле[/italic]

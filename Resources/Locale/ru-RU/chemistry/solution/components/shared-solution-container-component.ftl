@@ -1,37 +1,42 @@
-shared-solution-container-component-on-examine-main-text = It contains {INDEFINITE($desc)} [color={$color}]{$desc}[/color] { $chemCount ->
-    [1] chemical.
-   *[other] mixture of chemicals.
+shared-solution-container-component-on-examine-empty-container = Не содержит вещества.
+shared-solution-container-component-on-examine-main-text =
+    Содержит { INDEFINITE($desc) } [color={ $color }]{ $desc }[/color] { $chemCount ->
+        [1] вещество.
+       *[other] смесь химических веществ.
     }
-
-examinable-solution-has-recognizable-chemicals = You can recognize {$recognizedString} in the solution.
-examinable-solution-recognized = [color={$color}]{$chemical}[/color]
-
-examinable-solution-on-examine-volume = The contained solution is { $fillLevel ->
-    [exact] holding [color=white]{$current}/{$max}u[/color].
+shared-solution-container-component-on-examine-worded-amount-one-reagent = вещество.
+examinable-solution-recognized = [color={ $color }]{ $chemical }[/color]
+examinable-solution-on-examine-volume = Ёмкость { $fillLevel ->
+    [exact] содержит [color=white]{$current}/{$max}u[/color].
    *[other] [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
 }
 
-examinable-solution-on-examine-volume-no-max = The contained solution is { $fillLevel ->
-    [exact] holding [color=white]{$current}u[/color].
+examinable-solution-on-examine-volume-no-max = Содержимое раствора { $fillLevel ->
+    [exact] содержит [color=white]{$current}u[/color].
    *[other] [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
 }
 
-examinable-solution-on-examine-volume-puddle = The puddle is { $fillLevel ->
-    [exact] [color=white]{$current}u[/color].
-    [full] huge and overflowing!
-    [mostlyfull] huge and overflowing!
-    [halffull] deep and flowing.
-    [halfempty] very deep.
-   *[mostlyempty] pooling together.
-    [empty] forming multiple small pools.
-}
-
+examinable-solution-on-examine-volume-puddle =
+    Лужа { $fillLevel ->
+        [exact] содержит [color=white]{ $current }u[/color].
+        [full] огромная и льётся через край!
+        [mostlyfull] огромная и льётся через край!
+        [halffull] глубокая и растекается.
+        [halfempty] очень глубокая.
+       *[mostlyempty] скапливается в лужицы.
+        [empty] образует несколько маленьких луж.
+    }
 -solution-vague-fill-level =
     { $fillLevel ->
-        [full] [color=white]Full[/color]
-        [mostlyfull] [color=#DFDFDF]Mostly Full[/color]
-        [halffull] [color=#C8C8C8]Half Full[/color]
-        [halfempty] [color=#C8C8C8]Half Empty[/color]
-        [mostlyempty] [color=#A4A4A4]Mostly Empty[/color]
-       *[empty] [color=gray]Empty[/color]
+        [full] [color=white]заполнена[/color]
+        [mostlyfull] [color=#DFDFDF]почти заполнена[/color]
+        [halffull] [color=#C8C8C8]наполовину полная[/color]
+        [halfempty] [color=#C8C8C8]наполовину пустая[/color]
+        [mostlyempty] [color=#A4A4A4]почти пустая[/color]
+       *[empty] [color=gray]пустая[/color]
     }
+shared-solution-container-component-on-examine-worded-amount-multiple-reagents = смесь веществ.
+examinable-solution-has-recognizable-chemicals = В этом растворе вы можете распознать { $recognizedString }.
+examinable-solution-recognized-first = [color={ $color }]{ $chemical }[/color]
+examinable-solution-recognized-next = , [color={ $color }]{ $chemical }[/color]
+examinable-solution-recognized-last = и [color={ $color }]{ $chemical }[/color]

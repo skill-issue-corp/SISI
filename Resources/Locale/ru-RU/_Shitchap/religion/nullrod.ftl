@@ -1,17 +1,18 @@
-nullrod-untrained-usage-popup = The usually cold rod flashes with searing heat.
-nullrod-rosary-untrained-usage-popup = The beads constrict, digging painfully into your skin.
-nullrod-holyclaymore-untrained-usage-popup = The blade slips from your grasp, slicing into your arm.
-nullrod-godhand-untrained-usage-popup = The divine energy crackles, causing your arm to spasm uncontrollably.
-nullrod-arrythmicknife-untrained-usage-popup = The blade jerks out of control, inflicting a painful gash on your arm.
-nullrod-monkstaff-untrained-usage-popup = The staff slips from your grasp and hits you in the shoulder.
-nullrod-pistol-untrained-usage-popup = The silver grips heat painfully in your hands.
-nullrod-honkmother-untrained-usage-popup = You think you're funny, huh?
-nullrod-uristhand-untrained-usage-popup = Secure trespass.
-nullrod-chainsaw-untrained-usage-popup = Ahh, and look at what we have here — a bloody heathen!
-nullrod-bulwark-untrained-usage-popup = You cannot bear the weight of your own sins, let alone this hunk of steel.
-nullrod-spear-untrained-usage-popup = MALFUNCTION.
-
-alternate-pray-prompt = Pray to {$item}
-alternate-pray-start = {$user} begins to whisper to the {$item}...
-
-nullrod-spelldenial-popup = THE POWER OF GOD COMPELS YOU!
+nullrod-untrained-usage-popup = Обычно холодный жезл вспыхивает палящим жаром.
+nullrod-rosary-untrained-usage-popup = Чётки сжимаются, болезненно впиваясь в кожу.
+nullrod-holyclaymore-untrained-usage-popup = Клинок вырывается из рук и начинает резать ваше плечо.
+nullrod-godhand-untrained-usage-popup = Божественная энергия искрит, вызывая судороги в руке.
+nullrod-arrythmicknife-untrained-usage-popup = Клинок резко дёргается, нанося болезненный порез на руке.
+nullrod-monkstaff-untrained-usage-popup = Посох выскальзывает из рук и ударяет по плечу.
+nullrod-atheistfedora-untrained-usage-popup = Лезвие острого козырька начинает гудеть.
+nullrod-pistol-untrained-usage-popup = Серебряные рукояти обжигающе нагреваются в ваших руках.
+nullrod-honkmother-untrained-usage-popup = Думаешь, ты смешной, а?
+nullrod-uristhand-untrained-usage-popup = Незаконное проникновение пресечено.
+nullrod-chainsaw-untrained-usage-popup = Ага, посмотрите-ка, у нас здесь кровавый язычник!
+nullrod-bulwark-untrained-usage-popup = Вы не в силах нести тяжесть собственных грехов, не говоря уже об этом куске металла.
+nullrod-spear-untrained-usage-popup = НЕИСПРАВНОСТЬ.
+nullrod-dragontail-untrained-usage-popup = Хвост выходит из-под контроля и ударяет вас!
+nullrod-chainsword-untrained-usage-popup = ОН не принял вас.
+alternate-pray-prompt = Молиться { $item }
+alternate-pray-start = { $user } начинает шептать { $item }...
+nullrod-spelldenial-popup = БОЖЬЯ СИЛА ПРИНУЖДАЕТ ВАС!

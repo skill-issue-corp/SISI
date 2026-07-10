@@ -1,15 +1,13 @@
-cheat-death-component-examined = [color=red] Something tells you {SUBJECT($target)} has no fear of death. [/color]
-cheat-death-component-remaining-revives = { $amount ->
-[0] You have no revives left.
-[one] You have one revive left.
-*[other] You have {$amount} revives left.
-}
-
-cheat-death-component-remaining-revives-unlimited = You have an unlimited amount of revives.
-
-action-cheat-death-fail-no-lives = You aren't slipping away this time.
-action-cheat-death-fail-not-dead = You can't cheat death while alive!
-action-cheat-death-holy-damage = Divine intervention prevents your revival.
-
-action-cheated-death-dead = {$name} jerks awake. Bones mended, wounds sewn, organs arranged ever so perfectly.
-action-cheated-death-alive = {$name} violently shakes, all manners of wounds disappearing in a flash of flames.
+cheat-death-component-examined = [color=red] Что-то подсказывает вам, что { SUBJECT($target) } не боится смерти. [/color]
+cheat-death-component-remaining-revives =
+    { $amount ->
+        [0] У вас не осталось попыток воскрешения.
+        [one] У вас осталась одна попытка воскрешения.
+       *[other] У вас осталось { $amount } попыток воскрешения.
+    }
+cheat-death-component-remaining-revives-unlimited = У вас неограниченное количество попыток воскрешения. Разве это не здорово?
+action-cheat-death-fail-no-lives = На этот раз тебе не уйти...
+action-cheat-death-fail-not-dead = Ты не можешь обмануть смерть, пока жив!
+action-cheat-death-holy-damage = Божественное вмешательство предотвращает ваше воскрешение.
+action-cheated-death-dead = { $name } резко просыпается. Кости срастаются, раны закрываются, органы идеально встают на места.
+action-cheated-death-alive = { $name } яростно трясется, все раны исчезают в вспышке огня.

@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lathe-technology-recipes-update-message = Lathe database has been updated with {$count} new recipes
+lathe-technology-recipes-update-message = База данных лата обновлена: добавлено { $count } новых рецептов!

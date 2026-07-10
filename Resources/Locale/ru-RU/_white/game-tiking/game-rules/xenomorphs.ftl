@@ -1,27 +1,25 @@
-xenomorphs-announcement = Warning: Hostile bio-signatures detected. Unknown entities are moving through the station’s vents and maintenance shafts. All personnel, initiate lockdown protocols and avoid isolated areas.
-xenomorphs-no-more-threat-announcement = According to data from our long-range sensors, all xenomorphs have been eliminated.
+xenomorphs-announcement = Внимание: обнаружены враждебные биосигнатуры. Неизвестные сущности перемещаются по вентиляции и техническим туннелям станции. Всем сотрудникам немедленно инициировать протоколы изоляции и избегать одиночных зон.
+xenomorphs-no-more-threat-announcement = Согласно данным сенсоров дальнего действия, все Ксеноморфы были уничтожены.
 xenomorphs-win-announcement-shuttle-call =
-    ALERT: The station has been consumed by the Black Swarm. All remaining personnel are ordered to arm the nuclear fission explosive and proceed to the evacuation shuttle immediately.
-
-    Colonial Marines have been contacted and will arrive within two weeks.
-
-    The evacuation shuttle will arrive in {$time} {$units}.
+    ТРЕВОГА: Станция была поглощена Чёрным Роем. Всем оставшимся сотрудникам приказано привести в готовность ядерную боеголовку и немедленно проследовать к эвакуационному шаттлу.
+    
+    Установлен контакт с Колониальными Морпехами. Прибытие ожидается в течение двух недель.
+    
+    Эвакуационный шаттл прибудет через { $time } { $units }.
 xenomorphs-win-announcement =
-    ALERT: The station has been consumed by the Black Swarm. All remaining personnel are ordered to arm the nuclear fission explosive and proceed to the evacuation shuttle immediately.
-
-    Colonial Marines have been contacted and will arrive within two weeks.
-
-    An emergency shuttle is on its way.
-
-xenomorphs-xenomajor = Major xenomorph victory!
-xenomorphs-xenominor = Minor xenomorph victory!
-xenomorphs-neutral = Stalemate!
-xenomorphs-crewminor = Minor crew victory!
-xenomorphs-crewmajor = Decisive crew victory!
-
-xenomorphs-cond-nukeexplodedonstation = The crew destroyed the xenomorphs with the nuclear fission explosive.
-xenomorphs-cond-nukeactiveinstation = The crew left the armed nuclear fission explosive on the station.
-xenomorphs-cond-xenotakeoverstation = The xenomorphs managed to take over the station.
-xenomorphs-cond-xenoinfiltratedoncentcom = Xenomorphs infiltrated the Central Command station.
-xenomorphs-cond-allreproducexenodead = The crew eliminated all Xenomorphs capable of reproduction.
-xenomorphs-cond-allcrewdead = All crew members have died.
+    ТРЕВОГА: Станция была поглощена Чёрным Роем. Всем оставшимся сотрудникам приказано привести в готовность ядерную боеголовку и немедленно проследовать к эвакуационному шаттлу.
+    
+    Установлен контакт с Колониальными Морпехами. Прибытие ожидается в течение двух недель.
+    
+    Эвакуационный шаттл уже в пути.
+xenomorphs-xenomajor = [color=crimson]Крупная победа Ксеноморфов![/color]
+xenomorphs-xenominor = [color=crimson]Малая победа Ксеноморфов![/color]
+xenomorphs-neutral = [color=yellow]Ничейный исход![/color]
+xenomorphs-crewminor = [color=green]Малая победа экипажа![/color]
+xenomorphs-crewmajor = [color=green]Разгромная победа экипажа![/color]
+xenomorphs-cond-nukeexplodedonstation = Экипаж уничтожил Ксеноморфов при помощи ядерного взрыва.
+xenomorphs-cond-nukeactiveinstation = Экипаж оставил активированную ядерную боеголовку на станции.
+xenomorphs-cond-xenotakeoverstation = Ксеноморфам удалось захватить станцию.
+xenomorphs-cond-xenoinfiltratedoncentcom = Ксеноморфы проникли на станцию Центрального Командования.
+xenomorphs-cond-allreproducexenodead = Экипаж уничтожил всех ксеноморфов, способных к размножению.
+xenomorphs-cond-allcrewdead = Все члены экипажа погибли.

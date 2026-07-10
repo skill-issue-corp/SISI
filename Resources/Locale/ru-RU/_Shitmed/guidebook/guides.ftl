@@ -6,9 +6,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-guide-entry-surgery = Surgery
-guide-entry-partmanipulation = Part Manipulation
-guide-entry-organmanipulation = Organ Manipulation
-guide-entry-utilitysurgeries = Utility Surgeries
-guide-entry-autodoc = Autodoc
-guide-entry-abductors = Abductors
+guide-entry-surgery = Хирургия
+guide-entry-partmanipulation = Работа с частями тела
+guide-entry-organmanipulation = Работа с органами
+guide-entry-utilitysurgeries = Вспомогательные операции
+guide-entry-autodoc = АвтоДок
+guide-entry-abductors = Абдукторы

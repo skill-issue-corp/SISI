@@ -1,21 +1,17 @@
-sling-hatch-engage-popup = THIS ACTION WILL START THE HATCHING PROGRESS! Use it again to confirm.
-
-sling-hatch-first = You can barely hold yourself in this lesser form!
-sling-hatch-second = The urge to become something greater is overwhelming!
-sling-hatch-third = You feel a burning passion to hatch free of this shell and assume godhood!
-
-shadowling-ascension-not-empty = You feel a tremendous force inside this cocoon.
-shadowling-ascension-not-shadowling = You are not what it seeks for. Destroy it before it's too late!
-shadowling-ascension-not-creator = Only the creator of this cocoon can ascend in it.
-shadowling-ascension-ascending = Another shadowling is in the process of hatching. Help them out!
-shadowling-ascension-already-ascended = The ascension has already been completed.
-shadowling-ascension-start-warning = This is your cocoon. You should start the ascension as soon as possible.
-
+sling-hatch-engage-popup = ЭТО ДЕЙСТВИЕ ЗАПУСТИТ ПРОЦЕСС ВЫЛУПЛЕНИЯ! Используй снова, чтобы подтвердить.
+sling-hatch-first = Ты едва можешь удерживать себя в этой низшей форме!
+sling-hatch-second = Желание стать чем-то большим захлёстывает тебя!
+sling-hatch-third = Ты чувствуешь непреодолимое желание вырваться из этой оболочки и обрести богоподобность!
+shadowling-ascension-not-empty = Вы ощущаете колоссальную силу внутри этого кокона.
+shadowling-ascension-not-shadowling = Вы не тот, кого он ищет. Уничтожьте его, пока не стало слишком поздно!
+shadowling-ascension-not-creator = Только создатель этого кокона может вознестись в нём.
+shadowling-ascension-ascending = Другой тенеморф находится в процессе вылупления. Помогите ему!
+shadowling-ascension-already-ascended = Вознесение уже завершено.
+shadowling-ascension-start-warning = Это ваш кокон. Вам следует начать вознесение как можно скорее.
 shadowling-ascension-message =
-    An unidentified life-form is completing its evolution {$location}.
-    All remaining personnel are ordered to eliminate the source at any cost.
-    Failure to do so will result in total station collapse and absolute loss of all crew.
-
+    Неопознанная форма жизни завершает своё развитие на { $location }.
+    Всем оставшимся членам экипажа приказано устранить источник любой ценой.
+    Невыполнение приведёт к полному разрушению станции и гибели всего экипажа.
 shadowling-ascended-message =
-    The air turns to ash. The stars blink in fear. Something ancient has awakened beneath your feet — a will not born of man, but of shadow and hunger.
-    It has remembered its name. It has remembered you. There will be no dawn.
+    Воздух обращается в пепел. Звёзды меркнут от ужаса. Под твоими ногами пробуждается нечто древнее — воля, рождённая не человеком, а тенью и голодом.
+    Оно вспомнило своё имя. Оно вспомнило тебя. Рассвета больше не наступит.

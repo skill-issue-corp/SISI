@@ -1,3 +1,2 @@
-
-uplink-bribe-plasmaman-name = Lobbying Bundle
-uplink-bribe-plasmaman-desc = A heartfelt gift that can help you sway someone's opinion. Real or counterfeit? Yes. Includes a tacticool envirosuit for a tacticool plasmaman like you.
+uplink-bribe-plasmaman-name = Пак для лоботомирования
+uplink-bribe-plasmaman-desc = Подарок от всего сердца, который может помочь вам склонить чье-то мнение. Настоящий или поддельный? И то, и другое. Включает тактикульный экокостюм для крутых плазмалюдов вроде вас.

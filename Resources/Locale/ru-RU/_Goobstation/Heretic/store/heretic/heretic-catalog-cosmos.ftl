@@ -1,88 +1,69 @@
-knowledge-path-cosmos-passive-desc-1 = Cosmic fields speed you up and regenerate stamina.
-knowledge-path-cosmos-passive-desc-2 = Cosmic fields now block explosions, disrupt grenades or signalers from being activated and turn off already primed grenades.
-knowledge-path-cosmos-passive-desc-3 = Cosmic fields now slow projectiles down.
-
-knowledge-path-cosmos-s1-name = Eternal Gate
+knowledge-path-cosmos-s1-name = Вечные врата
 knowledge-path-cosmos-s1-desc =
-    A nebula appeared in the sky, its infernal birth shone upon me. This was the start of a great transcendence.
-
-    Opens up the Path of Cosmos to you.
-    Allows you to transmute a sheet of glass and a knife into an Cosmic Blade.
-    You can only create two at a time.
-
-knowledge-path-cosmos-s2-name = Grasp of Cosmos
+    В небе появилась туманность, её адское рождение озарило меня. Это было начало великого преображения.
+    
+    Открывает для вас Путь Космоса.
+    Позволяет преобразовать лист стекла и нож в космический клинок.
+    Можно создавать только два.
+knowledge-path-cosmos-s2-name = Хват космоса
 knowledge-path-cosmos-s2-desc =
-    Some stars dimmed, others' magnitude increased. With newfound strength I could channel the nebula's power into myself.
-
-    Your Mansus Grasp will give people a star mark (cosmic ring) and create a cosmic field where you stand.
-    People with a star mark can not pass cosmic fields.
-
-knowledge-path-cosmos-s3-name = Mark of Cosmos
+    Некоторые звезды потускнели, некоторые увеличились. С новой силой я мог направлять энергию туманности себе.
+    
+    Ваш Хват Мансуса даст людям звездную метку (космическое кольцо) и создаст космическое поле там, где вы стоите.
+    Люди со звездной меткой не могут проходить через космические поля.
+knowledge-path-cosmos-s3-name = Космические руны
 knowledge-path-cosmos-s3-desc =
-    The Beast now whispered to me occasionally, only small tidbits of their circumstances. I can help them, I have to help them.
-
-    Your Mansus Grasp now applies the Mark of Cosmos. The mark is triggered from an attack with your Cosmic Blade.
-    When triggered, the victim is returned to the location where the mark was originally applied to them, leaving a cosmic field in their place.
-    They will then be paralyzed for 2 seconds.
-
-knowledge-path-cosmos-s4-name = Cosmic Runes
+    Далекие звёзды проникли в мои сны, беспричинно рыча и вопя. Я говорил, и слышал, как мои слова отражались от них.
+    
+    Даёт вам Космические Руны, заклинание, создающее две связанные друг с другом руны для телепортации.
+    Только сущность, активировавшая руну, будет телепортирована, и она может быть использована любым человеком без звёздной метки.
+    Однако люди со звёздной меткой будут телепортированы вместе с другим человеком, использующим руну.
+    Язычники, пытающиеся телепортироваться при помощи руны, получат звёздную метку по прибытию.
+knowledge-path-cosmos-s4-name = Метка космоса
 knowledge-path-cosmos-s4-desc =
-    The distant stars crept into my dreams, roaring and screaming without reason. I spoke, and heard my own words echoed back.
-
-    Grants you Cosmic Runes, a spell that creates two runes linked with each other for easy teleportation.
-    Only the entity activating the rune will get transported, and it can be used by anyone without a star mark.
-    However, people with a star mark will get transported along with another person using the rune.
-    Heathens, who try to teleport using the runes, will be star marked on arrival.
-
-knowledge-path-cosmos-s5-name = Star Blast
+    Зверь иногда шепчет мне о своём положении. Я могу помочь, я должен помочь.
+    
+    Ваш Хват Мансуса теперь накладывает Метку космоса. Метка активируется атакой Космическим клинком.
+    При активации, жертва возвращается на место, где метка была применена, оставляя космическое поле.
+    После этого жертва будет парализована на 2 секунды.
+    Космические поля теперь ускоряют вас и восстанавливают выносливость.
+knowledge-path-cosmos-s5-name = Звёздное прикосновение
 knowledge-path-cosmos-s5-desc =
-    The Beast was behind me now at all times, with each sacrifice words of affirmation coursed through me.
-
-    Fires a projectile that moves very slowly, raising a short-lived wall of cosmic fields where it goes.
-    When recasted, you will be teleported to the projectile, and cosmic fields will generate from your current position and from teleport locations, pulling nearby heathens into it.
-
-knowledge-path-cosmos-armor-name = Starwoven Cloak
-knowledge-path-cosmos-armor-desc =
-    Like radiant cords, the stars shone in union across the silken shape of a billowing cloak, that at once does and does not drape my shoulders.
-    The eyes of the Beast rested upon me, and through me.
-
-    Allows you to transmute a table (or a suit), a mask and a sheet of plasma to create a Starwoven Cloak,
-    grants protection from the hazards of space while granting to the user the ability to move freely in no gravity.
-    Acts as a focus while hooded.
-    Unlocks tier 2 passive ability upgrade when transmuted.
-
-knowledge-path-cosmos-s6-name = Star Touch
+    Проснувшись в холодном поту, я почувствовал на себе ладонь. Она выжгла на мне знак. Мои вены теперь излучают странное пурпурное свечение. Зверь знает, что я превзойду его ожидания.
+    
+    Даёт заклинание Звёздное прикосновение, которое накладывает звёздную метку на цель и создаёт космическое поле в радиусе у ваших ног.
+    Цели с наложенной звёздной меткой будут связаны с вами космическим лучом, получая космический след и позволяя атаковать их на расстоянии вашим Космическим клинком.
+    Связанные жертвы не могут телепортироваться любыми средствами.
+    Если связь сохраняется 8 секунд, жертвы уснут и получат звездную метку, также телепортируются к вам.
+knowledge-path-cosmos-s6-name = Сверхновая
 knowledge-path-cosmos-s6-desc =
-    After waking in a cold sweat I felt a palm on my scalp, a sigil burned onto me. My veins now emitted a strange purple glow, the Beast knows I will surpass its expectations.
-
-    Grants you Star Touch, a spell which places a star mark upon your target and creates a cosmic field at your feet and to the turfs next to you.
-    Targets which already have a star mark will be connected to you with a cosmic ray, blinding them, giving them a cosmic trail and allowing you to hit them at range using your cosmic blade.
-    Tethered victims cannot teleport by any means.
-    If the tether remains unbroken for 8 seconds, they will be put to sleep, star marked and teleported to you.
-
-knowledge-path-cosmos-s7-name = Cosmic Blade
+    Зверь теперь всегда был со мной. С каждым жертвоприношением его слова поддержки проходили через меня.
+    
+    Выпускает очень медленный снаряд, создавая кратковременную стену из космических полей на своём пути.
+    При повторном использовании вы телепортируетесь к снаряду, и космические поля будут созданы с вашей текущей позиции и с мест телепортации, затягивая в них ближайших язычников.
+knowledge-path-cosmos-s7-name = Космический клинок
 knowledge-path-cosmos-s7-desc =
-    The Beast took my blades in their hand, I kneeled and felt a sharp pain. The blades now glistened with fragmented power. I fell to the ground and wept at the beast's feet.
-
-    Your blade now star marks your victims, and allows you to attack star marked heathens from further away.
-    Your attacks will chain bonus damage to up to two previous victims.
-    The combo is reset after two seconds without making an attack, or if you attack someone already marked.
-    If you combo more than two attacks you will receive a cosmic trail and increase your combo timer up to ten seconds.
-
-knowledge-path-cosmos-s8-name = Cosmic Expansion
+    Зверь взял мои клинки. Я опустился на колени и ощутил острую боль. Клинки теперь сияют фрагментированной силой. Я упал на землю и рыдал в его ногах.
+    
+    Ваш клинок теперь накладывает звёздные метки на жертв, позволяя атаковать отмеченных язычников на расстоянии.
+    Ваши атаки будут наносить дополнительный урон двум предыдущим жертвам.
+    Комбо сбрасывается через две секунды без атак, или если вы атакуете уже отмеченную цель.
+    Если комбо превышает две атаки, вы получите космический след и увеличите таймер для комбо до десяти секунд.
+    Космические поля теперь блокируют взрывы, нарушают работу гранат или сигналов, и отключают уже брошенные гранаты.
+knowledge-path-cosmos-s8-name = Космическая экспансия
 knowledge-path-cosmos-s8-desc =
-    The ground now shook beneath me. The Beast inhabited me, and their voice was intoxicating.
-
-    Grants you Cosmic Expansion, a spell that creates a 5x5 area of cosmic fields around you.
-    Nearby beings will also receive a star mark.
-
-knowledge-path-cosmos-s9-name = Creators's Gift
+    Земля теперь дрожала подо мной. Зверь вселился в меня, и его голос был опьяняющим.
+    
+    Даёт заклинание Космическая экспансия, создающее область 5x5 космических полей вокруг вас.
+    Ближайшие существа также получают звёздную метку.
+knowledge-path-cosmos-s9-name = Дар создателя
 knowledge-path-cosmos-s9-desc =
-    The ascension ritual of the Path of Cosmos.
-    Bring 3 corpses with a star mark to a transmutation rune to complete the ritual.
-    When completed, you become the owner of a Star Gazer.
-    The Star Gazer is a strong ally who can even break down reinforced walls.
-    The Star Gazer has an aura that will heal you.
-    Star Touch can now teleport you to the Star Gazer when activated in your hand.
-    Your cosmic expansion spell and your blades also become greatly empowered.
-    You gain x-ray vision as well as immunity to hazards of space.
+    Ритуал вознесения Пути Космоса.
+    Принесите 3 трупа с звёздной меткой к рунe, чтобы завершить ритуал.
+    После завершения вы становитесь владельцем Звёздного Наблюдателя.
+    Звёздный Наблюдатель — мощный союзник, способный разрушать даже укреплённые стены.
+    Звёздный Наблюдатель обладает аурой, которая способна исцелить вас и наносить урон противникам.
+    Звёздное прикосновение теперь позволяет телепортироваться к Звёздному Наблюдателю при активации.
+    Ваше заклинание Космическая экспансия и клинки также становятся значительно сильнее.
+    Вы получаете возможность видеть сквозь стены, и иммунитет к экстремальному давлению и температуре.
+    Космические поля теперь замедляют снаряды.

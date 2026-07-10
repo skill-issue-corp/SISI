@@ -1,6 +1,5 @@
-colossus-voice-1 = Judgment.
-colossus-voice-2 = Wrath.
-colossus-voice-3 = Retribution.
-colossus-voice-4 = Lament.
-
-colossus-summon = Your trial begins now.
+colossus-voice-1 = Приговор.
+colossus-voice-2 = Гнев.
+colossus-voice-3 = Возмездие.
+colossus-voice-4 = Плач.
+colossus-summon = Ваш суд начинается сейчас.

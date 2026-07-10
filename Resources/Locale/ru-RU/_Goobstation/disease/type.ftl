@@ -1,9 +1,9 @@
-disease-type-viral = Viral
-disease-type-bacterial = Bacterial
-disease-type-owncells = Cancerous
-disease-type-prion = Prion
-disease-type-parasite = Parasite
-disease-type-debug = Unknown
-disease-spread-aerial = Aerial
-disease-spread-blood = Blood
+disease-type-viral = Вирусное
+disease-type-bacterial = Бактериальное
+disease-type-owncells = Раковое
+disease-type-prion = Прионное
+disease-type-parasite = Паразитарное
+disease-type-debug = Неизвестное
+disease-spread-aerial = Воздушное
+disease-spread-blood = Кровяное
 disease-spread-debug = Debug

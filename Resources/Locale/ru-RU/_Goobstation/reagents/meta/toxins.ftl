@@ -5,26 +5,19 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-triclor = triclor
-reagent-desc-triclor = Replicates itself upon contact with blood, and causes the metabolizer to constantly vomit, quickly emptying their stomachs and more. Has relatively low potency, and needs high doses to kill. Ineffective in trace amounts.
-
-reagent-name-cyanide = cyanide
-reagent-desc-cyanide = Easy to make toxin, and with deadly potential at average doses. However constant difficulties with breathing will quickly alert any potential victim.
-
-reagent-name-anacea = anacea
-reagent-desc-anacea = Quickly flushes most medicines from bloodstream, making it an invaluable ingredient of any poison mix. Strong anti-poison medicines can vastly slow down that process.
-
-reagent-name-pendetide = pendetide
-reagent-desc-pendetide = While mostly neutral, it amplifies any existing radiation damage. Additionally flushes medicines from bloodstream, making healing difficult.
-
-reagent-name-aluite = aluite
-reagent-desc-aluite = Non-reactive molecule that binds with other chemicals at low temperatures to transport them and boost their efficiency. Bursts when in bloodstream, with overdoses causing organ ruptures.
-
-reagent-name-sarin = sarin
-reagent-desc-sarin = A brutal neurotoxin that creates nasty caustic burns on contact with the skin. Poisonous when breathed in, and causes paralysis.
-
-reagent-name-nevcottapowder = nevcotta powder
-reagent-desc-nevcottapowder = A highly toxic powder created from grinding the bark of the nevcotta tree. Used in the creation of a classified chemical.
-
-reagent-name-microplastics = microplastics
-reagent-desc-microplastics = A mildly toxic pollutant found in a lot of everyday objects. Its toxic effects do not seem to affect Vox.
+reagent-name-triclor = трихлор
+reagent-desc-triclor = Реплицируется при контакте с кровью и заставляет использовавшего постоянно блевать, быстро опустошая желудок и прочее. Относительно слаб, для убийства нужны высокие дозы. Неэффективен в малых количествах.
+reagent-name-cyanide = цианид
+reagent-desc-cyanide = Легкий в изготовлении токсин с летальным потенциалом при средних дозах. Однако постоянные трудности с дыханием быстро насторожат потенциальную жертву.
+reagent-name-anacea = анацея
+reagent-desc-anacea = Быстро выводит большинство лекарств из крови, делая её ценным ингредиентом для любых ядов. Сильные антидоты значительно замедляют этот процесс.
+reagent-name-pendetide = пендетид
+reagent-desc-pendetide = В основном нейтрален, но усиливает уже существующее радиационное повреждение. Также выводит лекарства из крови, затрудняя лечение.
+reagent-name-aluite = алюит
+reagent-desc-aluite = Нереактивная молекула, связывающаяся с другими химикатами при низких температурах для транспортировки и повышения эффективности. При попадании в кровь разрывается, передозировка вызывает разрыв органов.
+reagent-name-sarin = зарин
+reagent-desc-sarin = Жесткий нейротоксин, вызывающий ожоги при контакте с кожей. Ядовит при вдыхании и вызывает паралич.
+reagent-name-nevcottapowder = порошок невкотта
+reagent-desc-nevcottapowder = Очень токсичный порошок, получаемый измельчением коры дерева невкотта. Используется для создания секретного химического вещества.
+reagent-name-microplastics = микропластик
+reagent-desc-microplastics = Слаботоксичный загрязнитель, встречающийся во множестве повседневных вещах. Его токсичное воздействие, по-видимому, не оказывают эффекта на Воксов.

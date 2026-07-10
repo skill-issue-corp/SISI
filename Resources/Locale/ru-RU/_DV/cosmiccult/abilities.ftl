@@ -1,38 +1,38 @@
-cosmicability-generic-fail = Your influence fails to take hold..
+cosmicability-generic-fail = Ваше влияние не смогло проявиться...
 
-cosmicability-glare-confirm = Press again to activate Null Glare.
-cosmicability-hibernate-confirm = Press again to activate Slumber Shell.
+cosmicability-glare-confirm = Нажми ещё раз, чтобы активировать Взгляд пустоты.
+cosmicability-hibernate-confirm = Нажми ещё раз, чтобы активировать Спящая оболочку.
 
-cosmicability-siphon-cultist-success = Your attempts to draw entropy chill {CAPITALIZE(THE($target))}
-cosmicability-siphon-success = You silently draw Entropy from {CAPITALIZE(THE($target))}.
-cosmicability-siphon-fail = You can't seem to siphon Entropy from {CAPITALIZE(THE($target))}.
-cosmicability-siphon-full = You can't hold any more Entropy!
+cosmicability-siphon-cultist-success = Ваши попытки поглотить энтропию охлаждают {CAPITALIZE($target)}.
+cosmicability-siphon-success = Вы беззвучно поглощаете энтропию из { CAPITALIZE($target) }.
+cosmicability-siphon-fail = Вам не удаётся вытянуть энтропию из { CAPITALIZE($target) }.
+cosmicability-siphon-full = Вы не в силах вместить больше энтропии!
 
-cosmicability-blank-begin = {CAPITALIZE(THE($target))} attempts to grab hold of you!
-cosmicability-blank-success = You shunt {CAPITALIZE(THE($target))}'s mind unto the cosmic dark.
-cosmicability-blank-transfer = A cosmic power shunts your mind out of your body!
-cosmicability-blank-return = Your mind is drawn back to your body.
+cosmicability-blank-begin = { CAPITALIZE($target) } пытается схватить вас!
+cosmicability-blank-success = Вы изгоняете разум { CAPITALIZE($target) } во космическую пустоту.
+cosmicability-blank-transfer = Космическая сила вырывает ваш разум из тела!
+cosmicability-blank-return = Ваш разум возвращается в тело.
 
-cosmicability-lapse-success = You lapse {CAPITALIZE(THE($target))}'s corporeal form.
+cosmicability-lapse-success = Вы разрываете физическую оболочку { CAPITALIZE($target) }.
 
-cosmicability-monument-move-confirm = THIS ACTION CAN ONLY BE USED ONCE EVERY 10 MINUTES! Use it again to confirm.
-cosmicability-monument-spawn-confirm = THIS ACTION CAN ONLY BE USED ONCE! Use it again to confirm.
-cosmicability-monument-spawn-error-grid = Invalid location! The Monument must be beckoned upon a stable surface.
-cosmicability-monument-spawn-error-station = Invalid location! The Monument must be beckoned upon the station.
-cosmicability-monument-spawn-error-intersection = Too crowded! The Monument requires an empty 3x1 area to be beckoned.
-cosmicability-monument-spawn-error-space = Too close to space! The Monument must be be at least {$DISTANCE}m away.
+cosmicability-monument-move-confirm = ЭТО ДЕЙСТВИЕ МОЖНО ИСПОЛЬЗОВАТЬ ТОЛЬКО РАЗ В 10 МИНУТ! Используйте снова, чтобы подтвердить.
+cosmicability-monument-spawn-confirm = ЭТО ДЕЙСТВИЕ МОЖНО ИСПОЛЬЗОВАТЬ ТОЛЬКО ОДИН РАЗ! Используйте снова, чтобы подтвердить.
+cosmicability-monument-spawn-error-grid = Недопустимое место! Монумент может быть призван только на устойчивой поверхности.
+cosmicability-monument-spawn-error-station = Недопустимое место! Монумент может быть призван только на станции.
+cosmicability-monument-spawn-error-intersection = Слишком тесно! Для призыва Монумента требуется свободная область 3x1.
+cosmicability-monument-spawn-error-space = Слишком близко к космосу! Монумент должен находиться как минимум в { $DISTANCE } м. отсюда.
 
-cosmicability-chantry-active = You cannot start a chantry ritual while one is already active!
+cosmicability-chantry-active = Вы не можете начать ритуал молельни, пока другой уже активен!
 
-cosmicability-ingress-bolted = The airlock's bolts prevent it from being forced!
-cosmicability-ingress-not-empowered-door = You must be empowered to open bolted doors!
+cosmicability-ingress-bolted = Засовы шлюза не дают его взломать!
+cosmicability-ingress-not-empowered-door = Вам необходимо получить силу, чтобы открывать закрытые на засов двери!
 
-cosmicability-transmute-not-empowered = You must be empowered to transmute this.
-cosmicability-transmute-not-transmutable = This item cannot be transmuted.
-cosmicability-transmute-type-mismatch = You must improve your transmutation ability to transmute this item.
-cosmicability-transmute-no-item = You must hold an item to transform it.
+cosmicability-transmute-not-empowered = Вам необходимо получить силу, чтобы трансмутировать это.
+cosmicability-transmute-not-transmutable = Этот предмет нельзя трансмутировать.
+cosmicability-transmute-type-mismatch = Вам нужно улучшить способность трансмутации, чтобы преобразовать этот предмет.
+cosmicability-transmute-no-item = Вам нужно держать предмет, чтобы преобразовать его.
 
-cosmicability-convert-mindshield = Mental shielding prevents the influence from taking hold!
-cosmicability-convert-chaplain = A spark of divine light prevents the influence from taking hold!
-cosmicability-convert-mindless = The target has no mind, the power would be wasted.
-cosmicability-convert-rotten = The influence has no effect on rotting corpses!
+cosmicability-convert-mindshield = Ментальная защита не позволяет влиянию подействовать!
+cosmicability-convert-chaplain = Искра божественного света не позволяет влиянию подействовать!
+cosmicability-convert-mindless = У цели нет разума, сила будет потрачена впустую.
+cosmicability-convert-rotten = Влияние не действует на разлагающиеся трупы!

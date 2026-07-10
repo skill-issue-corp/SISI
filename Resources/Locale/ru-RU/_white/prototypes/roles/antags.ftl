@@ -1,2 +1,2 @@
-roles-antag-xenomorph-name = Xenomorph
-roles-antag-xenomorph-objective = There should only be one species left on the space station, and it's definitely not humanoid.
+roles-antag-xenomorph-name = Ксеноморф
+roles-antag-xenomorph-objective = На станции должен остаться только один вид, и это точно не гуманоиды.

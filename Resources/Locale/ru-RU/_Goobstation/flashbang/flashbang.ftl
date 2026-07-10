@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-flash-sound-suppression-examine = This piece of equipment suppresses flashbang sounds, reducing their effective range down to [color=yellow]{$range}[/color]
-flash-sound-suppression-fully-examine = This piece of equipment suppresses flashbang sounds [color=yellow]completely[/color]
+flash-sound-suppression-examine = Это устройство подавляет звук светошумовых гранат, снижая их эффективный радиус до [color=yellow]{ $range }[/color]
+flash-sound-suppression-fully-examine = Это устройство [color=yellow]полностью[/color] подавляет звук светошумовых гранат

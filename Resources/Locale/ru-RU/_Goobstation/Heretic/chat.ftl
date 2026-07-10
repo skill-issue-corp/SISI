@@ -1,89 +1,67 @@
-blade-arena-crit-message = The mansus is pleased with your performance, you may leave now.
-blade-arena-crit-message-heretic = You have done well, you may leave now.
+# influence gain and fracture examine messages must have newlimes because otherwise they wouldn't fit
 
-# influence gain and fracture examine messages must have newlines because otherwise they wouldn't fit in chat window
-
-influence-base-message = [textshader="{$text}" font="DefaultBold" size={$size} shader="Eldritch"]
-
+influence-base-message = [textshader="{ $text }" font="DefaultBold" size={ $size } shader="Eldritch"]
 influence-gain-message-1 =
-    A SHIMMER...
-    POTENTIAL...
-    POWER.
-influence-gain-message-2 =
-    A WHISPER.
-influence-gain-message-3 =
-    COVERED AND FORGOTTEN.
+    МЕРЦАНИЕ...
+    ПОТЕНЦИАЛ...
+    СИЛА.
+influence-gain-message-2 = ШЁПОТ.
+influence-gain-message-3 = СОКРЫТО И ЗАБЫТО.
 influence-gain-message-4 =
-    CURSED LAND,
-    CURSED MAN,
-    CURSED MIND.
-influence-gain-message-5 =
-    GREATER HEIGHTS.
+    ПРОКЛЯТАЯ ЗЕМЛЯ,
+    ПРОКЛЯТЫЙ ЧЕЛОВЕК,
+    ПРОКЛЯТЫЙ РАЗУМ.
+influence-gain-message-5 = ВЫШЕ И ВЫШЕ.
 influence-gain-message-6 =
-    I AM BEING WATCHED...
-    FROM WHERE? FROM WHAT?
-influence-gain-message-7 =
-    I AM LATE FOR MY DESTINY.
+    ЗА МНОЙ НАБЛЮДАЮТ...
+    ОТКУДА? КТО?
+influence-gain-message-7 = Я ОПАЗДЫВАЮ К СВОЕЙ СУДЬБЕ.
 influence-gain-message-8 =
-    LIFE IS FLEETING,
-    BUT WHAT YET STAYS?
+    ЖИЗНЬ МИМОЛЁТНА,
+    НО ЧТО ОСТАЁТСЯ?
 influence-gain-message-9 =
-    RAIN OF BLOOD.
-    REIGN OF BLOOD.
+    КРОВАВЫЙ ДОЖДЬ.
+    ЦАРСТВИЕ КРОВИ.
 influence-gain-message-10 =
-    STRENGTH...
-    UNPARALLELED. UNNATURAL.
+    СИЛА...
+    НЕПРЕВЗОЙДЁННАЯ. НЕЕСТЕСТВЕННАЯ.
 influence-gain-message-11 =
-    THE GATES OF THE MANSUS
-    IS HERE, IS OPEN.
+    ВРАТА МАНСУСА
+    ЗДЕСЬ, ОТКРЫТЫ.
 influence-gain-message-12 =
-    THE HIGHER I RISE,
-    THE MORE I SEE.
-influence-gain-message-13 =
-    THE VEIL IS SHATTERED.
-influence-gain-message-14 =
-    THEIR HAND IS AT MY SIDE.
+    ЧЕМ Я ВЫШЕ,
+    ТЕМ БОЛЬШЕ ВИЖУ.
+influence-gain-message-13 = СОСУД РАЗБИТ.
+influence-gain-message-14 = ИХ РУКА НА МОЕЙ СТОРОНЕ.
 influence-gain-message-15 =
-    THEY WALK THE WORLD.
-    UNNOTICED.
-influence-gain-message-16 =
-    TO WALK BETWEEN PLANES
-
-fracture-examine-message-1 =
-    Is our reality so fragile?
+    ОНИ ХОДЯТ ПО МИРУ.
+    НЕЗАМЕЧЕННЫЕ.
+influence-gain-message-16 = ХОДИТЬ МЕЖ ПЛОСКОСТЯМИ
+fracture-examine-message-1 = Настолько ли хрупка наша реальность?
 fracture-examine-message-2 =
-    What did I see
-    on the other side?
-fracture-examine-message-3 =
-    Is this right?
-fracture-examine-message-4 =
-    This is wrong.
-fracture-examine-message-5 =
-    I feel a hand at my throat.
-fracture-examine-message-6 =
-    I weep, yet no tears fall.
-fracture-examine-message-7 =
-    We are not alone.
-fracture-examine-message-8 =
-    Am I alone?
+    Что я увидел
+    по ту сторону?
+fracture-examine-message-3 = Это правильно?
+fracture-examine-message-4 = Это неправильно.
+fracture-examine-message-5 = Я чувствую руку на своём горле.
+fracture-examine-message-6 = Я плачу, но слёз нет.
+fracture-examine-message-7 = Мы не одиноки.
+fracture-examine-message-8 = Я одинок?
 fracture-examine-message-9 =
-    Is this the end?
-    Or the beginning?
+    Это конец?
+    Или начало?
 fracture-examine-message-10 =
-    What's out there?
-    What's through there?
-fracture-examine-message-11 =
-    What power is this?
+    Что там?
+    По ту сторону?
+fracture-examine-message-11 = Что это за сила?
 fracture-examine-message-12 =
-    Is this what we are?
-    Is this what we can be?
-fracture-examine-message-13 =
-    Is this what we wanted?
+    Это то, что мы есть?
+    Это то, чем мы можем стать?
+fracture-examine-message-13 = Это то, что мы хотели?
 fracture-examine-message-14 =
-    We don't deserve this...
-    do we?
-fracture-examine-message-15 =
-    Are we prepared for this?
+    Мы не заслуживаем этого...
+    или заслуживаем?
+fracture-examine-message-15 = Мы готовились к этому?
 fracture-examine-message-16 =
-    We thought we were predators,
-    but we are prey
+    Мы думали, что мы хищники,
+    но мы лишь добыча

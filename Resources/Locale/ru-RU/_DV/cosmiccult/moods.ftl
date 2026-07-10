@@ -1,41 +1,28 @@
-thaven-mood-cosmic-nihilism-name = Astral Nihilism
-thaven-mood-cosmic-nihilism-desc = Life doesn't mean anything to you anymore. Nothing does. Nothing brings you joy, and nothing matters.
-
-thaven-mood-cosmic-insignificance-name = Astral insignificance
-thaven-mood-cosmic-insignificance-desc = You are at all times painfully aware of your insignificance within the great scope of the universe.
-
-thaven-mood-cosmic-unfamiliarity-name = Vacuous Unfamiliarity
-thaven-mood-cosmic-unfamiliarity-desc = The world around you is strange and unfamiliar, and everyone you meet is unrecognizable to you. You can't bring yourself to trust anything they say.
-
-thaven-mood-cosmic-fakemonument-name = Malign Monument
-thaven-mood-cosmic-fakemonument-desc = A great shadow fills your minds' eye, the silhouette of a looming structure. A Monument. You must find it or make one yourself, at all costs.
-
-thaven-mood-cosmic-wakingdream-name = Cosmic Dream
-thaven-mood-cosmic-wakingdream-desc = This reality is an illusion, a great dream that you share from beyond the veil of nothing, for all things have long since ended. Rejoice!
-
-thaven-mood-cosmic-livingnightmare-name = Entropic Nightmare
-thaven-mood-cosmic-livingnightmare-desc = This isn't reality, it's a waking nightmare that you and everyone around you is trapped in. You need to survive this nightmare at all costs.
-
-thaven-mood-cosmic-grotesqueworld-name = Grotesquerie
-thaven-mood-cosmic-grotesqueworld-desc = The world around you is disgusting and vile. The sights of the station nauseate you, and your coworkers have been replaced with grotesque monsters.
-
-thaven-mood-cosmic-voiceoftheend-name = Cosmic Harbinger
-thaven-mood-cosmic-voiceoftheend-desc = The end of all things is coming! You must spread the word and ensure as many people as possible are prepared for the end.
-
-thaven-mood-cosmic-worshipoftheend-name = Cosmic Faith
-thaven-mood-cosmic-worshipoftheend-desc = You are infatuated with the notion of the end of all things. It ought to be worshipped! By you, and as many as you can convince to join you.
-
-thaven-mood-cosmic-disregardoftheliving-name = Disregard Of The Living
-thaven-mood-cosmic-disregardoftheliving-desc = You have no care for the needs of the living around you, no matter how dire. They're all going to die anyway.
-
-thaven-mood-cosmic-disregardoftheself-name = Disregard Of The Self
-thaven-mood-cosmic-disregardoftheself-desc = You have no care for your own needs, no matter how dire. You're going to die, anyway.
-
-thaven-mood-cosmic-fearofbeingforgotten-name = Lethophobia
-thaven-mood-cosmic-fearofbeingforgotten-desc = You have an intense and irrational fear of forgetting: Being forgotten, forgetting something, and forgetting someone. You must do everything you can to be remembered.
-
-thaven-mood-cosmic-fearofendings-name = Apeirophobia
-thaven-mood-cosmic-fearofendings-desc = You have an intense and irrational fear of eternities: Afterlives, oblivion, and infinity.
-
-thaven-mood-cosmic-painlessendings-name = Euthanasia
-thaven-mood-cosmic-painlessendings-desc = You have seen the imminent end, and it is far worse than you could ever imagine. It would be a kindness to keep creatures of lesser intelligence from living to see it. You don't want animals to suffer; keep your methods as painless as you can.
+thaven-mood-cosmic-nihilism-name = Астральный нигилизм
+thaven-mood-cosmic-nihilism-desc = Жизнь больше ничего не значит для вас, как и всё остальное. Ничто не приносит радости, и ничто не имеет значения.
+thaven-mood-cosmic-insignificance-name = Астральная ничтожность
+thaven-mood-cosmic-insignificance-desc = Вы постоянно осознаёте свою ничтожность в грандиозных масштабах вселенной.
+thaven-mood-cosmic-unfamiliarity-name = Пустотная чуждость
+thaven-mood-cosmic-unfamiliarity-desc = Мир вокруг вас странен и чужд, а все, кого вы встречаете, кажутся незнакомыми. Вы не можете заставить себя доверять ни единому их слову.
+thaven-mood-cosmic-fakemonument-name = Зловещий Монумент
+thaven-mood-cosmic-fakemonument-desc = Ваш разум затмевает тень колоссального сооружения ­— Монумент. Вы должны любой ценой найти его или создать свой.
+thaven-mood-cosmic-wakingdream-name = Космический сон
+thaven-mood-cosmic-wakingdream-desc = Эта реальность — лишь иллюзия, великий сон, что вы разделяете из-за завесы небытия, ведь всё уже давно кончилось. Ликуйте!
+thaven-mood-cosmic-livingnightmare-name = Энтропический кошмар
+thaven-mood-cosmic-livingnightmare-desc = Это не реальность — это кошмар наяву, в котором вы, и все остальные вокруг, оказались в ловушке. Вы должны выжить любой ценой.
+thaven-mood-cosmic-grotesqueworld-name = Гротеск
+thaven-mood-cosmic-grotesqueworld-desc = Мир вокруг отвратителен и мерзок. Вид станции вызывает тошноту, а ваши коллеги кажутся заменёнными чудовищными существами.
+thaven-mood-cosmic-voiceoftheend-name = Глашатай конца
+thaven-mood-cosmic-voiceoftheend-desc = Конец всего близок! Вы должны сообщить о нём и подготовить как можно больше людей.
+thaven-mood-cosmic-worshipoftheend-name = Космическая вера
+thaven-mood-cosmic-worshipoftheend-desc = Вас захватила идея конца всего сущего. Это должно быть объектом поклонения, вашего и всех, кого вы сможете убедить присоединиться.
+thaven-mood-cosmic-disregardoftheliving-name = Безразличие к живым
+thaven-mood-cosmic-disregardoftheliving-desc = Вам безразличны нужды живых вокруг, какими бы отчаянными они ни были. Всё-равно они все скоро умрут.
+thaven-mood-cosmic-disregardoftheself-name = Безразличие к себе
+thaven-mood-cosmic-disregardoftheself-desc = Вам безразличны собственные нужды, какими бы отчаянными они ни были. Всё-равно вы умрёте.
+thaven-mood-cosmic-fearofbeingforgotten-name = Летофобия
+thaven-mood-cosmic-fearofbeingforgotten-desc = У Вас сильный, иррациональный страх забвения: быть забытым, забыть что-то или кого-то. Вы должны сделать всё, чтобы вас запомнили.
+thaven-mood-cosmic-fearofendings-name = Апейрофобия
+thaven-mood-cosmic-fearofendings-desc = У Вас сильный, иррациональный страх вечности: загробной жизни, небытия и бесконечности.
+thaven-mood-cosmic-painlessendings-name = Эвтаназия
+thaven-mood-cosmic-painlessendings-desc = Вы увидели неизбежный конец, и он куда ужаснее, чем вы могли себе представить. Было бы доброй волей избавить существ с меньшим разумом от необходимости видеть его. Вы не хотите, чтобы животные страдали. Пусть их конец будет безболезненным.

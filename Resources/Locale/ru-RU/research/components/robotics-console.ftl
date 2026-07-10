@@ -1,26 +1,16 @@
-# SPDX-FileCopyrightText: 2024 deltanedas <39013340+deltanedas@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
-robotics-console-window-title = Robotics Console
-robotics-console-no-cyborgs = No Cyborgs!
-
-robotics-console-select-cyborg = Select a cyborg above.
-robotics-console-model = [color=gray]Model:[/color] {$name}
+robotics-console-window-title = Роботехническая консоль
+robotics-console-no-cyborgs = Борги отсутствуют!
+robotics-console-select-cyborg = Выберите борга из списка выше.
+robotics-console-model = [color=gray]Модель:[/color] { $name }
 # name is not formatted to prevent players trolling
-robotics-console-designation = [color=gray]Designation:[/color]
-robotics-console-battery = [color=gray]Battery charge:[/color] [color={$color}]{$charge}[/color]%
-robotics-console-hp = [color=gray]Integrity:[/color] [color={$color}]{$hp}[/color]%
-robotics-console-modules = [color=gray]Modules installed:[/color] {$count}
-robotics-console-brain = [color=gray]Brain installed:[/color] [color={$brain ->
-    [true] green]Yes
-    *[false] red]No
-}[/color]
-
-robotics-console-locked-message = Controls locked, swipe ID.
-robotics-console-disable = Disable
-robotics-console-destroy = Destroy
-
-robotics-console-cyborg-destroying = {$name} is being remotely detonated!
+robotics-console-designation = [color=gray]Назначение:[/color]
+robotics-console-battery = [color=gray]Заряд батареи:[/color] [color={ $color }]{ $charge }[/color]%
+robotics-console-modules = [color=gray]Установленные модули:[/color] { $count }
+robotics-console-brain = [color=gray]Мозг установлен:[/color] [color={ $brain ->
+        [true] green]Да
+       *[false] red]Нет
+    }[/color]
+robotics-console-locked-message = Управление заблокировано, проведите ID-картой.
+robotics-console-disable = Отключить
+robotics-console-destroy = Уничтожить
+robotics-console-cyborg-destroying = Запущен процесс дистанционного уничтожения { $name }!

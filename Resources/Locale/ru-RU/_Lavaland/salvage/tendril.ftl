@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tendril-destroyed-warning-message = The ground under the tendril is collapsing! RUN!!!
+tendril-destroyed-warning-message = Земля рушится под натиском щупалец! БЕГИ!!!

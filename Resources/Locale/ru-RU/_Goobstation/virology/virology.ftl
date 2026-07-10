@@ -1,17 +1,15 @@
-disease-swab-unclean = This swab looks unclean.
-disease-swab-cant-swab = You can't swab {$target}.
-disease-swab-swabbed = You take a sample from {$target}.
-disease-swab-swabbed-by = {$user} swabs you.
-disease-swab-yourself = yourself
-
-disease-analyzer-report-title = Disease Analysis Report
-disease-analyzer-report-genotype = Genotype: {$genotype}
-disease-analyzer-report-type = Type: {$type}
-disease-analyzer-report-infection-rate = Infection Rate: {NATURALFIXED($rate, 4)}
-disease-analyzer-report-immunity-gain = Immunity Gain Rate: {NATURALFIXED($rate, 2)}
-disease-analyzer-report-mutation-rate = Mutation Rate: {NATURALFIXED($rate, 3)}
-disease-analyzer-report-complexity = Complexity: {NATURALFIXED($complexity, 1)}
-disease-analyzer-report-effects-header = Detected Effects:
-disease-analyzer-report-effect-line = - {$effect} (Severity {NATURALFIXED($severity, 2)}): {$description}
-
-disease-analyzer-unknown-effect = Unknown
+disease-swab-unclean = Стерильная палочка использована.
+disease-swab-cant-swab = Вы не можете взять мазок с { $target }.
+disease-swab-swabbed = Вы взяли мазок с { $target }.
+disease-swab-swabbed-by = { $user } взял мазок с вас.
+disease-swab-yourself = самого себя
+disease-analyzer-report-title = Отчет об анализе заболеваний
+disease-analyzer-report-genotype = Генотип: { $genotype }
+disease-analyzer-report-type = Тип болезни: { $type }
+disease-analyzer-report-infection-rate = Частота заболевания: { NATURALFIXED($rate, 4) }
+disease-analyzer-report-immunity-gain = Скорость усиления иммунитета: { NATURALFIXED($rate, 2) }
+disease-analyzer-report-mutation-rate = Частота мутаций: { NATURALFIXED($rate, 3) }
+disease-analyzer-report-complexity = Сложность: { NATURALFIXED($complexity, 1) }
+disease-analyzer-report-effects-header = Обнаруженные эффекты:
+disease-analyzer-report-effect-line = - { $effect } (Тяжесть { NATURALFIXED($severity, 2) }): { $description }
+disease-analyzer-unknown-effect = НЕИЗВЕСТНО

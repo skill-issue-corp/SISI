@@ -1,56 +1,26 @@
-# THE UNKNOWN
-
-ghost-role-information-theunknown-name = The Unknown
-ghost-role-information-theunknown-description = The Cosmic Cult has won. An fragment of cosmic power extrudes into realspace.
+ghost-role-information-theunknown-name = Неизвестный
+ghost-role-information-theunknown-description = Космический Культ одержал победу. Фрагмент космической энергии вырывается в реальность.
 ghost-role-information-theunknown-rules = ...
-
-# COLOSSUS
-
-ghost-role-information-colossus-name = Entropic Colossus
-ghost-role-information-colossus-description = Call upon an Effigy of Entropy to perpetuate your existence and accelerate the end of all things! You have 15 minutes to do so or your energies will be extinguished.
-ghost-role-information-colossus-rules = You are a [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] with any cosmic cultists that may be present.
-
-ghost-role-information-chantry-victim-name = Vacuous Chantry Prisoner
-ghost-role-information-chantry-victim-description = A cyborg trapped inside a Vacuous Chantry. If the ritual completes, you will transform into an Entropic Colossus.
-
-ghost-role-information-custodian-name = Malign Custodian
-ghost-role-information-lodestar-name = Malign Lodestar
-ghost-role-information-colossus-summon-description = Help the Colossus defend it's Effigy.
-
-
-terror-colossus = Attention crew, it appears that someone on your station has drawn the attention of an enormous malign anomaly.
-
-ghost-role-colossus-charactermenu = You must usher in the end of all things. Wreak untold havoc upon all before you.
-ghost-role-colossus-objective = Call forth an Effigy of Entropy and persist until the end of all things.
-ghost-role-colossus-briefing =
-    You are an Entropic Colossus!
-    Your objectives are listed in the character menu.
-    Read more about your role in the guidebook entry.
-
-ghost-role-colossus-death = The colossus collapses, its surface desintegrating rapidly.
-ghost-role-colossus-hibernate = The colossus begins drawing in energy!
-ghost-role-colossus-effigy-confirm = If placement is valid, press again to Beckon an Effigy.
-
-ghost-role-colossus-effigy-error-grid = Invalid location! An Effigy must be beckoned upon a stable surface.
-ghost-role-colossus-effigy-error-location = Invalid location! The Effigy must be beckoned near {$LOCATION}.
-ghost-role-colossus-effigy-error-intersection = Too crowded! An Effigy requires an empty tile to be beckoned.
-ghost-role-colossus-effigy-error-space = Too close to space! An Effigy must be be at least {$DISTANCE}m away.
-
-objective-condition-effigy-no-target = Beckon an Effigy wherever you desire.
-objective-condition-effigy = Beckon an Effigy near "{$location}".
-
-# MINDSINK (Positronic Brain)
-
-ghost-role-mindsink-installed = Whispers hum from its surface!
-ghost-role-mindsink-off = It lies dormant.
-ghost-role-mindsink-still-searching = It is drawing upon the noösphere...
-ghost-role-mindsink-searching = It has started drawing upon the noösphere...
-ghost-role-mindsink-role-name = Malign Mindsink
-ghost-role-mindsink-role-description = Serve the station crew, despite your unusual origins.
-ghost-role-mindsink-wipe-device-verb-text = Erase Mind
-ghost-role-mindsink-wiped-device = The mind was snuffed out.
-ghost-role-mindsink-stop-searching-verb-text = Stop Seeking
-ghost-role-mindsink-stopped-searching = Noöspheric resonance halted.
-ghost-role-mindsink-slot-component-slot-name-brain = Brain
-
-name-identifier-format-mindsink = ASTRAL-{$number}
+roles-antag-rogue-ascended-name = Астральный вознесённый
+roles-antag-rogue-ascended-objective = Судьба не должна быть отдана на волю случая. Используйте свои потусторонние силы, чтобы искажать сердца и умы тех, кто находится на станции.
+ghost-role-information-rogue-ascended-name = Астральный вознесённый
+ghost-role-information-rogue-ascended-description = Судьба не должна быть отдана на волю случая. Используйте свои потусторонние силы, чтобы искажать сердца и умы тех, кто находится на станции.
+ghost-role-information-rogue-ascended-rules = Вы — [color=red][bold]Командный антагонист[/bold][/color] со всеми присутствующими членами Космического культа.
+petting-success-rogue-ascended = Уворачиваясь от хлестких щупалец и волн астральной энергии, вы как-то гладите { $target }.
+petting-failure-rogue-ascended = Пространство-время искажается вокруг вашей руки, и в итоге вы гладите самого себя.
+rogue-ascended-dendrite-eaten = Зловещее свечение вспыхивает!
+rogue-ascended-infection-fail = Вам нужно ослабить цель, чтобы исказить её!
+rogue-ascended-infection-alreadyinfected = { CAPITALIZE($target) } уже искажён!
+rogue-ascended-infection-error = Вы не можете сделать это прямо сейчас.
+rogue-ascended-infection-notification = { CAPITALIZE($target) } протягивает свои щупальца { CAPITALIZE($target) }!
+rogue-ascended-infection-briefing =
+    Зловещая энергия пропитывает вашу душу. Вы были заражены Астральным вознесённым!
+    Вы должны действовать согласно своим настроениям максимально эффективно, независимо от того, являетесь ли вы антагонистом.
+rogue-ascended-shatter-fail = Вы не можете сделать это прямо сейчас.
+rogue-ascended-round-end-agent-name = Астральный вознесённый
+rogue-ascended-objective-issuer = [bold][color=#cae8e8]Неизвестный[/color][/bold]
+rogue-ascended-role-greeting =
+    Вы — Астральный вознесённый, тень выходящей за пределы всякого сознания сущности, отражённая в реальности.
+    Всё закончится так, как всё и вся в этом мире. Самым добродушным проявлением будет донести эту чистейшую истину до как можно большего числа людей.
+objective-condition-maligninfection-title = Исказить { $count } умов
+objective-condition-maligninfection-description = Ваше прикосновение может искажать разум. Пробудите чистейшую истину в { $count } существах на станции.
