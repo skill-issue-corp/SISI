@@ -1,47 +1,32 @@
-ent-BikeHorn = bike horn
-    .desc = A horn off of a bicycle.
-
-ent-CluwneHorn = broken bike horn
-    .desc = A broken horn off of a bicycle.
-
-ent-GoldenBikeHorn = golden honker
-    .desc = A happy honk prize, pray to the gods for your reward.
-
-ent-BananiumHorn = bananium horn
-    .desc = An air horn made from bananium.
-
-ent-PushHorn = push horn
-    .desc = This powerful bikehorn is sure to blast frowns away.
-
-ent-BaseWhistle = whistle
-    .desc = Someone forgot to turn off a kettle?
-
+ent-BikeHorn = велосипедный клаксон
+    .desc = Клаксон, снятый с велосипеда.
+ent-CluwneHorn = сломанный велосипедный клаксон
+    .desc = Сломанный клаксон, снятый с велосипеда.
+ent-GoldenBikeHorn = золотой гудок
+    .desc = Приз за счастливый гудок, молитесь богам за свою награду.
+ent-BananiumHorn = банановый клаксон
+    .desc = Пневматический гудок, изготовленный из бананиума.
+ent-PushHorn = нажимной гудок
+    .desc = Этот мощный велосипедный клаксон точно прогонит все хмурые лица.
+ent-BaseWhistle = свисток
+    .desc = Кто-то забыл выключить чайник?
 ent-Whistle = { ent-BaseWhistle }
     .desc = { ent-BaseWhistle.desc }
-
 ent-SecurityWhistle = { ent-BaseWhistle }
-    .desc = The sound of it brings fear.
-
-ent-SyndicateWhistle = trench whistle
-    .desc = A whistle used by Syndicate commanders to draw attention. Avanti!
-
+    .desc = Его звук внушает страх.
+ent-SyndicateWhistle = окопный свисток
+    .desc = Свисток, используемый командирами Синдиката для привлечения внимания. Аванти!
 ent-BaseRubberToy = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
-ent-ToyRubberDuck = rubber ducky
-    .desc = Not carried here by ocean currents.
-
-ent-RubberChicken = rubber chicken
-    .desc = A stress inducing parody of nature's most delectable avian.
-
-ent-NewtonCradle = newton cradle
-    .desc = A device bored paper pushers use to remind themselves that time did not stop yet. Contains gravity.
-
-ent-ClownRecorder = clown recorder
-    .desc = When you just can't get those laughs coming the natural way!
-
-ent-WhoopieCushion = whoopie cushion
-    .desc = A practical joke device involving flatulence humour.
-
-ent-Skub = skub
-    .desc = Skub is the fifth Chaos God.
+ent-ToyRubberDuck = резиновая уточка
+    .desc = Сюда её принесли не океанские течения.
+ent-RubberChicken = резиновая курица
+    .desc = Вызывающая стресс пародия на самую вкусную из птиц природы.
+ent-NewtonCradle = маятник Ньютона
+    .desc = Устройство, которым скучающие бумагомаратели напоминают себе, что время ещё не остановилось. Содержит гравитацию.
+ent-ClownRecorder = клоунский рекордер
+    .desc = Когда просто не получается вызвать смех естественным путём!
+ent-WhoopieCushion = подушка-пердушка
+    .desc = Устройство для практических шуток на тему юмора о метеоризме.
+ent-Skub = скаб
+    .desc = Скаб — пятый Бог Хаоса.

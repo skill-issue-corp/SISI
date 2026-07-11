@@ -1,77 +1,52 @@
-ent-OrganBase = organ
+ent-OrganBase = орган
     .desc = { ent-BaseItem.desc }
-
-ent-OrganBaseTorso = torso
+ent-OrganBaseTorso = торс
     .desc = { ent-OrganBaseExternal.desc }
-
-ent-OrganBaseHead = head
+ent-OrganBaseHead = голова
     .desc = { ent-OrganBaseExternal.desc }
-
-ent-OrganBaseArmLeft = left arm
+ent-OrganBaseArmLeft = левая рука
     .desc = { ent-OrganBaseArm.desc }
-
-ent-OrganBaseArmRight = right arm
+ent-OrganBaseArmRight = правая рука
     .desc = { ent-OrganBaseArm.desc }
-
-ent-OrganBaseHandLeft = left hand
+ent-OrganBaseHandLeft = левая кисть
     .desc = { ent-OrganBaseHand.desc }
-
-ent-OrganBaseHandRight = right hand
+ent-OrganBaseHandRight = правая кисть
     .desc = { ent-OrganBaseHand.desc }
-
-ent-OrganBaseLegLeft = left leg
+ent-OrganBaseLegLeft = левая нога
     .desc = { ent-OrganBaseLeg.desc }
-
-ent-OrganBaseLegRight = right leg
+ent-OrganBaseLegRight = правая нога
     .desc = { ent-OrganBaseLeg.desc }
-
-ent-OrganBaseFootLeft = left foot
+ent-OrganBaseFootLeft = левая ступня
     .desc = { ent-OrganBaseFoot.desc }
-
-ent-OrganBaseFootRight = right foot
+ent-OrganBaseFootRight = правая ступня
     .desc = { ent-OrganBaseFoot.desc }
-
-ent-OrganBaseBrain = brain
+ent-OrganBaseBrain = мозг
     .desc = { ent-OrganBaseInternal.desc }
-
-ent-OrganBaseEyes = eyes
+ent-OrganBaseEyes = глаза
     .desc = { ent-OrganBaseInternal.desc }
-
-ent-OrganBaseTongue = tongue
+ent-OrganBaseTongue = язык
     .desc = { ent-OrganBaseInternal.desc }
-
-ent-OrganBaseAppendix = appendix
+ent-OrganBaseAppendix = аппендикс
     .desc = { ent-OrganBaseInternal.desc }
-
-ent-OrganBaseEars = ears
+ent-OrganBaseEars = уши
     .desc = { ent-OrganBaseInternal.desc }
-
-ent-OrganBaseLungs = lungs
+ent-OrganBaseLungs = лёгкие
     .desc = { ent-OrganBaseInternal.desc }
-
 ent-SolutionLungGas = { ent-Solution }
     .desc = { ent-Solution.desc }
-
-ent-OrganBaseHeart = heart
+ent-OrganBaseHeart = сердце
     .desc = { ent-OrganBaseInternal.desc }
-
-ent-OrganBaseStomach = stomach
+ent-OrganBaseStomach = желудок
     .desc = { ent-OrganBaseInternal.desc }
-
 ent-SolutionStomach = { ent-Solution }
     .desc = { ent-Solution.desc }
-
-ent-OrganBaseLiver = liver
+ent-OrganBaseLiver = печень
     .desc = { ent-OrganBaseInternal.desc }
-
-ent-OrganBaseKidneys = kidneys
+ent-OrganBaseKidneys = почки
     .desc = { ent-OrganBaseInternal.desc }
-
 ent-OrganSpriteHumanInternal = { "" }
     .desc = { "" }
-
 ent-OrganBaseHeadSexed = { "" }
     .desc = { "" }
-
 ent-OrganBaseTorsoSexed = { "" }
     .desc = { "" }

@@ -1,26 +1,18 @@
-ent-StatusEffectSlowdown = slowdown
+ent-StatusEffectSlowdown = замедление
     .desc = { ent-MobStatusEffectDebuff.desc }
-
-ent-StatusEffectSpeed = speed
+ent-StatusEffectSpeed = скорость
     .desc = { ent-MobStatusEffectBase.desc }
-
-ent-ReagentSpeedStatusEffect = reagent speed
+ent-ReagentSpeedStatusEffect = скорость от реагента
     .desc = { ent-StatusEffectSpeed.desc }
-
-ent-VomitingSlowdownStatusEffect = vomiting slowdown
+ent-VomitingSlowdownStatusEffect = замедление от рвоты
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-TaserSlowdownStatusEffect = shot by taser slowdown
+ent-TaserSlowdownStatusEffect = замедление от выстрела тазером
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-FlashSlowdownStatusEffect = affected by flash slowdown
+ent-FlashSlowdownStatusEffect = замедление от воздействия вспышки
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-StatusEffectStaminaLow = stamina low
+ent-StatusEffectStaminaLow = низкая выносливость
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-StatusEffectFriction = friction
+ent-StatusEffectFriction = трение
     .desc = { ent-MobStatusEffectDebuff.desc }
-
-ent-StatusEffectStunned = stunned
+ent-StatusEffectStunned = оглушение
     .desc = { ent-MobStatusEffectDebuff.desc }

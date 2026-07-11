@@ -1,2 +1,2 @@
-ent-voicesensor = voice sensor
-    .desc = This microphone, invented by Micheal Phone during his time working at Michealsoft, sends signals when a prerecorded code phrase is uttered!
+ent-voicesensor = голосовой датчик
+    .desc = Этот микрофон, изобретённый Майклом Фоном во время его работы в «Майклософте», отправляет сигналы, когда произносится заранее заданная кодовая фраза!

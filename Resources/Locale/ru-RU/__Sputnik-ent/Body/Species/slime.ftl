@@ -1,54 +1,37 @@
-ent-AppearanceSlimePerson = SlimePerson appearance
+ent-AppearanceSlimePerson = внешний вид слаймолюда
     .desc = { ent-BaseSpeciesAppearance.desc }
-
-ent-MobSlimePerson = Urist McWobble
+ent-MobSlimePerson = Урист МакВоббл
     .desc = { ent-AppearanceSlimePerson.desc }
-
 ent-OrganSlimePerson = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = slime person
-
+    .suffix = Слаймолюд
 ent-OrganSlimePersonMetabolizer = { "" }
     .desc = { "" }
-
 ent-OrganSlimePersonInternal = { ent-OrganSlimePerson }
     .desc = { ent-OrganSlimePerson.desc }
-
 ent-OrganSlimePersonExternal = { ent-OrganSlimePerson }
     .desc = { ent-OrganSlimePerson.desc }
-
 ent-OrganSlimePersonTorso = { ent-OrganBaseTorsoSexed }
     .desc = { ent-OrganBaseTorsoSexed.desc }
-
 ent-OrganSlimePersonHead = { ent-OrganBaseHead }
     .desc = { ent-OrganBaseHead.desc }
-
 ent-OrganSlimePersonArmLeft = { ent-OrganBaseArmLeft }
     .desc = { ent-OrganBaseArmLeft.desc }
-
 ent-OrganSlimePersonArmRight = { ent-OrganBaseArmRight }
     .desc = { ent-OrganBaseArmRight.desc }
-
 ent-OrganSlimePersonHandLeft = { ent-OrganBaseHandLeft }
     .desc = { ent-OrganBaseHandLeft.desc }
-
 ent-OrganSlimePersonHandRight = { ent-OrganBaseHandRight }
     .desc = { ent-OrganBaseHandRight.desc }
-
 ent-OrganSlimePersonLegLeft = { ent-OrganBaseLegLeft }
     .desc = { ent-OrganBaseLegLeft.desc }
-
 ent-OrganSlimePersonLegRight = { ent-OrganBaseLegRight }
     .desc = { ent-OrganBaseLegRight.desc }
-
 ent-OrganSlimePersonFootLeft = { ent-OrganBaseFootLeft }
     .desc = { ent-OrganBaseFootLeft.desc }
-
 ent-OrganSlimePersonFootRight = { ent-OrganBaseFootRight }
     .desc = { ent-OrganBaseFootRight.desc }
-
-ent-OrganSlimePersonCore = sentient slime core
+ent-OrganSlimePersonCore = разумное ядро слайма
     .desc = { ent-OrganBaseBrain.desc }
-
-ent-OrganSlimePersonLungs = gas sacs
+ent-OrganSlimePersonLungs = газовые мешки
     .desc = { ent-OrganBaseLungs.desc }

@@ -1,38 +1,26 @@
 ent-BaseFigurineMech = { ent-BaseFigurine }
     .desc = { ent-BaseFigurine.desc }
-
-ent-ToyRipley = ripley toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 1/12' is written on the back.
-
-ent-ToyFireRipley = fire ripley
-    .desc = Mini-Mecha action figure! 'Mecha No. 2/12' is written on the back.
-
-ent-ToyDeathRipley = deathripley toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 3/12' is written on the back.
-
-ent-ToyGygax = gygax toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 4/12' is written on the back.
-
-ent-ToyDurand = durand toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 5/12' is written on the back.
-
-ent-ToyHonk = H.O.N.K. toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 6/12' is written on the back.
-
-ent-ToyMarauder = marauder toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 7/12' is written on the back.
-
-ent-ToySeraph = seraph toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 8/12' is written on the back.
-
-ent-ToyMauler = mauler toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 9/12' is written on the back.
-
-ent-ToyOdysseus = odysseus toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 10/12' is written on the back.
-
-ent-ToyPhazon = phazon toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 11/12' is written on the back.
-
-ent-ToyReticence = reticence toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 12/12' is written on the back.
+ent-ToyRipley = игрушечный рипли
+    .desc = Фигурка мини-меха! На обороте написано 'Меха №1/12'.
+ent-ToyFireRipley = игрушечный пожарный рипли
+    .desc = Фигурка мини-меха! На обороте написано 'Меха №2/12'.
+ent-ToyDeathRipley = игрушечный смерть-рипли
+    .desc = Фигурка мини-меха! На обороте написано 'Меха №3/12'.
+ent-ToyGygax = игрушечный гайгакс
+    .desc = Фигурка мини-меха! На обороте написано 'Меха №4/12'.
+ent-ToyDurand = игрушечный дюранд
+    .desc = Фигурка мини-меха! На обороте написано 'Меха №5/12'.
+ent-ToyHonk = игрушечный Х.О.Н.К.
+    .desc = Фигурка мини-меха! На обороте написано 'Меха №6/12'.
+ent-ToyMarauder = игрушечный мародёр
+    .desc = Фигурка мини-меха! На обороте написано 'Меха №7/12'.
+ent-ToySeraph = игрушечный серафим
+    .desc = Фигурка мини-меха! На обороте написано 'Меха №8/12'.
+ent-ToyMauler = игрушечный маулер
+    .desc = Фигурка мини-меха! На обороте написано 'Меха №9/12'.
+ent-ToyOdysseus = игрушечный одиссей
+    .desc = Фигурка мини-меха! На обороте написано 'Меха №10/12'.
+ent-ToyPhazon = игрушечный фазон
+    .desc = Фигурка мини-меха! На обороте написано 'Меха №11/12'.
+ent-ToyReticence = игрушечный ретиценс
+    .desc = Фигурка мини-меха! На обороте написано 'Меха №12/12'.

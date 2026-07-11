@@ -1,46 +1,33 @@
-ent-ImmovableRod = immovable rod
-    .desc = You can sense that it's hungry. That's usually a bad sign.
-
+ent-ImmovableRod = неподвижный стержень
+    .desc = Вы чувствуете, что он голоден. Обычно это плохой знак.
 ent-ImmovableRodDespawn = { ent-ImmovableRod }
     .desc = { ent-ImmovableRod.desc }
-    .suffix = Despawn
-
+    .suffix = Исчезающий
 ent-ImmovableRodSlow = { ent-ImmovableRodDespawn }
     .desc = { ent-ImmovableRodDespawn.desc }
-    .suffix = Slow
-
+    .suffix = Медленный
 ent-ImmovableRodKeepTiles = { ent-ImmovableRodDespawn }
     .desc = { ent-ImmovableRodDespawn.desc }
-    .suffix = Keep Tiles
-
+    .suffix = Сохраняет плитку
 ent-ImmovableRodWizard = { ent-ImmovableRod }
     .desc = { ent-ImmovableRod.desc }
-    .suffix = Wizard
-
+    .suffix = Волшебный
 ent-ImmovableRodKeepTilesStill = { ent-ImmovableRodKeepTiles }
     .desc = { ent-ImmovableRodKeepTiles.desc }
-    .suffix = Keep Tiles, Still
-
-ent-ImmovableRodMop = immovable mop
-    .desc = Hurled like a javelin, with the power of a thousand furious janitors.
-
-ent-ImmovableRodShark = immovable shark
-    .desc = SHARK TORNADO!
-
-ent-ImmovableRodClown = immovable clown
-    .desc = Ejected from the neighbouring station one solar system over. HONK!
-
-ent-ImmovableRodBanana = immovable banana
-    .desc = At least you won't slip on it.
-
-ent-ImmovableRodHammer = immovable hammer
-    .desc = Bwoink.
-
-ent-ImmovableRodThrongler = immovable throngler
-    .desc = If you catch it, you can keep it.
-
-ent-ImmovableRodGibstick = immovable gibstick
-    .desc = What did you expect?
-
-ent-ImmovableRodWeh = immovable weh
-    .desc = WEH!
+    .suffix = Сохраняет плитку, неподвижный
+ent-ImmovableRodMop = неподвижная швабра
+    .desc = Метается, словно копьё, с силой тысячи разъярённых уборщиков.
+ent-ImmovableRodShark = неподвижная акула
+    .desc = АКУЛЬИЙ ТОРНАДО!
+ent-ImmovableRodClown = неподвижный клоун
+    .desc = Выброшен с соседней станции, расположенной в одной солнечной системе отсюда. ХОНК!
+ent-ImmovableRodBanana = неподвижный банан
+    .desc = По крайней мере, на нём вы не поскользнётесь.
+ent-ImmovableRodHammer = неподвижный молоток
+    .desc = Бвойнк.
+ent-ImmovableRodThrongler = неподвижный чамблер
+    .desc = Если поймаете его, можете оставить себе.
+ent-ImmovableRodGibstick = неподвижная гибстик
+    .desc = А чего вы ожидали?
+ent-ImmovableRodWeh = неподвижный вех
+    .desc = ВЕХ!

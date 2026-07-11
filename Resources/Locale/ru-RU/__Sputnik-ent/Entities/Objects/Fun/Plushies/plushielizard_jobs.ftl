@@ -1,119 +1,119 @@
 ent-BasePlushieLizardJob = { ent-PlushieLizard }
     .desc = { ent-PlushieLizard.desc }
 
-ent-PlushieLizardJobAtmospherictechnician = atmospheric technician lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as an atmospheric technician. Smells faintly of frezon.
+ent-PlushieLizardJobAtmospherictechnician = плюшевый ящеролюд-атмосферный техник
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли атмосферного техника. Слабо пахнет фрезоном.
 
-ent-PlushieLizardJobBartender = bartender lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a bartender. Its tongue has alcohol stains on it.
+ent-PlushieLizardJobBartender = плюшевый ящеролюд-бармен
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли бармена. На его языке пятна от алкоголя.
 
-ent-PlushieLizardJobBotanist = botanist lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a botanist. There's prickly bits on its feet and it smells faintly of plant fertilizer.
+ent-PlushieLizardJobBotanist = плюшевый ящеролюд-ботаник
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли ботаника. На лапках есть колючие частицы, и она слабо пахнет удобрениями для растений.
 
-ent-PlushieLizardJobBoxer = boxer lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a boxer. The threads on its gloves are starting to come loose.
+ent-PlushieLizardJobBoxer = плюшевый ящеролюд-боксёр
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли боксёра. Нитки на его перчатках начинают распускаться.
 
-ent-PlushieLizardJobCaptain = captain lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as the captain. There's bits of pie on its face.
+ent-PlushieLizardJobCaptain = плюшевый ящеролюд-капитан
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли капитана. На его морде есть кусочки пирога.
 
-ent-PlushieLizardJobCargotechnician = cargo technician lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a cargo technician. Crumbs of packing peanuts are stuck to its scales.
+ent-PlushieLizardJobCargotechnician = плюшевый ящеролюд-грузовой техник
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли грузового техника. К его чешуе прилипли крошки упаковочного пенопласта.
 
-ent-PlushieLizardJobChaplain = chaplain lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a chaplain. It smells faintly of incense.
+ent-PlushieLizardJobChaplain = плюшевый ящеролюд-капеллан
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли капеллана. Слабо пахнет благовониями.
 
-ent-PlushieLizardJobChef = chef lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a chef. It smells faintly of spices, with spots of oil on its apron.
+ent-PlushieLizardJobChef = плюшевый ящеролюд-повар
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли повара. Слабо пахнет специями, на фартуке пятна масла.
 
-ent-PlushieLizardJobChemist = chemist lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a chemist. Parts of the plushie are stained with chemicals.
+ent-PlushieLizardJobChemist = плюшевый ящеролюд-химик
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли химика. Некоторые части игрушки испачканы химикатами.
 
-ent-PlushieLizardJobChiefengineer = chief engineer lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as the chief engineer. It's covered in metal shavings and welding splatter.
+ent-PlushieLizardJobChiefengineer = плюшевый ящеролюд-старший инженер
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли старшего инженера. Она покрыта металлической стружкой и брызгами от сварки.
 
-ent-PlushieLizardJobChiefmedicalofficer = chief medical officer lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as the chief medical officer. The plushie's tail has been sewn off and on again, probably from practicing surgery.
+ent-PlushieLizardJobChiefmedicalofficer = плюшевый ящеролюд-старший врач
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли старшего врача. Хвост игрушки неоднократно пришивали заново, вероятно, во время тренировок по хирургии.
 
-ent-PlushieLizardJobClown = clown lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a clown. Its nose squeaks when you press it.
+ent-PlushieLizardJobClown = плюшевый ящеролюд-клоун
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли клоуна. Его нос пищит при нажатии.
 
-ent-PlushieLizardJobDetective = detective lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a detective. Seems ready for a mystery.
+ent-PlushieLizardJobDetective = плюшевый ящеролюд-детектив
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли детектива. Кажется, готова к раскрытию тайны.
 
-ent-PlushieLizardJobHeadofpersonnel = head of personnel lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as the head of personnel. While it seems thrilled on the outside, it's probably just as bored as you are.
+ent-PlushieLizardJobHeadofpersonnel = плюшевый ящеролюд-глава персонала
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли главы персонала. Хоть внешне она и выглядит воодушевлённой, наверняка ей так же скучно, как и вам.
 
-ent-PlushieLizardJobHeadofsecurity = head of security lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as the head of security. It seems to have been ripped and re-stitched a few times.
+ent-PlushieLizardJobHeadofsecurity = плюшевый ящеролюд-глава службы безопасности
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли главы службы безопасности. Кажется, её несколько раз рвали и зашивали заново.
 
-ent-PlushieLizardJobJanitor = janitor lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a janitor. It smells faintly of cleaning supplies.
+ent-PlushieLizardJobJanitor = плюшевый ящеролюд-уборщик
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли уборщика. Слабо пахнет чистящими средствами.
 
-ent-PlushieLizardJobLawyer = lawyer lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a lawyer. Its lawyer pin is barely hanging on from hours of fidgeting.
+ent-PlushieLizardJobLawyer = плюшевый ящеролюд-юрист
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли юриста. Его значок юриста едва держится после часов ёрзания.
 
-ent-PlushieLizardJobLibrarian = librarian lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a librarian. The color of the plushie has faded from years of desk-watching.
+ent-PlushieLizardJobLibrarian = плюшевый ящеролюд-библиотекарь
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли библиотекаря. Цвет игрушки поблек за годы дежурства за столом.
 
-ent-PlushieLizardJobMedicaldoctor = medical doctor lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a medical doctor. Seems to be well-washed.
+ent-PlushieLizardJobMedicaldoctor = плюшевый ящеролюд-врач
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли врача. Кажется, её часто стирали.
 
-ent-PlushieLizardJobMedicalintern = medical intern lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a medical intern. It smells faintly of antiseptic.
+ent-PlushieLizardJobMedicalintern = плюшевый ящеролюд-практикант-медик
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли практиканта-медика. Слабо пахнет антисептиком.
 
-ent-PlushieLizardJobMime = mime lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a mime. It stares at you silently, its motives unknown.
+ent-PlushieLizardJobMime = плюшевый ящеролюд-мим
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли мима. Она молча смотрит на вас, её мотивы неизвестны.
 
-ent-PlushieLizardJobMusician = musician lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a musician. It smells faintly of sweat and has a few strings coming loose.
+ent-PlushieLizardJobMusician = плюшевый ящеролюд-музыкант
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли музыканта. Слабо пахнет потом, несколько струн распущены.
 
-ent-PlushieLizardJobParamedic = paramedic lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a paramedic. The plushie has a few little bandages sewn on it.
+ent-PlushieLizardJobParamedic = плюшевый ящеролюд-парамедик
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли парамедика. На игрушке пришито несколько маленьких пластырей.
 
-ent-PlushieLizardJobPassenger = passenger lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a passenger. Its eyes look at you, a little bit more beady than the rest.
+ent-PlushieLizardJobPassenger = плюшевый ящеролюд-пассажир
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли пассажира. Его глаза смотрят на вас, чуть более бусинками, чем у остальных.
 
-ent-PlushieLizardJobPsychologist = psychologist lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a psychologist. It seems to like to quietly listen to you.
+ent-PlushieLizardJobPsychologist = плюшевый ящеролюд-психолог
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли психолога. Кажется, ей нравится молча вас слушать.
 
-ent-PlushieLizardJobQuartermaster = quartermaster lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as the quartermaster. Its covered in sticky residue left behind from thousands of shipment invoices.
+ent-PlushieLizardJobQuartermaster = плюшевый ящеролюд-квартирмейстер
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли квартирмейстера. Она покрыта липким налётом, оставшимся от тысяч грузовых накладных.
 
-ent-PlushieLizardJobReporter = reporter lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a reporter. It smells faintly of ink.
+ent-PlushieLizardJobReporter = плюшевый ящеролюд-репортёр
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли репортёра. Слабо пахнет чернилами.
 
-ent-PlushieLizardJobResearchassistant = research assistant lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a research assistant. It smells faintly of burnt paper.
+ent-PlushieLizardJobResearchassistant = плюшевый ящеролюд-научный ассистент
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли научного ассистента. Слабо пахнет палёной бумагой.
 
-ent-PlushieLizardJobResearchdirector = research director lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as the research director. There's a few burn marks on the plushie.
+ent-PlushieLizardJobResearchdirector = плюшевый ящеролюд-директор по науке
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли директора по науке. На игрушке несколько следов от ожогов.
 
-ent-PlushieLizardJobSalvagespecialist = salvage specialist lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a salvage specialist. Seems like it's seen the coldness of space for a while.
+ent-PlushieLizardJobSalvagespecialist = плюшевый ящеролюд-специалист по утилизации
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли специалиста по утилизации. Похоже, она уже давно ощутила холод космоса.
 
-ent-PlushieLizardJobScientist = scientist lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a scientist. There's a few bite marks on the plushie, probably from a curious monkey.
+ent-PlushieLizardJobScientist = плюшевый ящеролюд-учёный
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли учёного. На игрушке есть несколько следов укусов, вероятно, от любопытной обезьяны.
 
-ent-PlushieLizardJobSecuritycadet = security cadet lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a security cadet. Seems to have shock marks across the plushie.
+ent-PlushieLizardJobSecuritycadet = плюшевый ящеролюд-кадет службы безопасности
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли кадета службы безопасности. Кажется, на игрушке есть следы от электрошока.
 
-ent-PlushieLizardJobSecurityofficer = security officer lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a security officer. The stuffing has been padded down from a lot of punching.
+ent-PlushieLizardJobSecurityofficer = плюшевый ящеролюд-офицер службы безопасности
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли офицера службы безопасности. Набивка примялась от множества ударов.
 
-ent-PlushieLizardJobServiceworker = service worker lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a service worker. Smells like a mix of cleaning supplies and food.
+ent-PlushieLizardJobServiceworker = плюшевый ящеролюд-работник сервиса
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли работника сервиса. Пахнет смесью чистящих средств и еды.
 
-ent-PlushieLizardJobStationengineer = station engineer lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a station engineer. It has oil stains on its hands.
+ent-PlushieLizardJobStationengineer = плюшевый ящеролюд-станционный инженер
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли станционного инженера. На его лапках масляные пятна.
 
-ent-PlushieLizardJobTechnicalassistant = technical assistant lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a technical assistant. It smells faintly of burnt wires.
+ent-PlushieLizardJobTechnicalassistant = плюшевый ящеролюд-технический ассистент
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли технического ассистента. Слабо пахнет горелой проводкой.
 
-ent-PlushieLizardJobWarden = warden lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a warden. Smells like black powder and gun oil.
+ent-PlushieLizardJobWarden = плюшевый ящеролюд-надзиратель
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли надзирателя. Пахнет порохом и оружейным маслом.
 
-ent-PlushieLizardJobZookeeper = zookeeper lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as a zookeeper. It has some gorilla fur stuck to it.
+ent-PlushieLizardJobZookeeper = плюшевый ящеролюд-смотритель зоопарка
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда в роли смотрителя зоопарка. К ней прилипло немного шерсти гориллы.
 
-ent-PlushieLizardJobMultiweh = multiweh lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson as every job! It's a plushie of many talents. You can hear a HoP crying in the distance.
+ent-PlushieLizardJobMultiweh = плюшевый ящеролюд-мультивеч
+    .desc = Очаровательная мягкая игрушка, изображающая ящеролюда сразу во всех профессиях! Эта игрушка на все руки мастер. Где-то вдалеке слышен плач главы персонала.

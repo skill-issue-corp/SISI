@@ -3,155 +3,155 @@ ent-DrinkBottleGlassBase = { ent-DrinkBaseMaterialGlass }
 
 ent-DrinkBottleGlassBaseFull = { ent-DrinkBottleGlassBase }
     .desc = { ent-DrinkBottleGlassBase.desc }
-    .suffix = Full
+    .suffix = Полная
 
 ent-DrinkBottleGlassSmallBase = { ent-SolutionSmall }
     .desc = { ent-SolutionSmall.desc }
 
 ent-DrinkBottleGlassSmallBaseFull = { ent-DrinkBottleGlassSmallBase }
     .desc = { ent-DrinkBottleGlassSmallBase.desc }
-    .suffix = Full
+    .suffix = Полная
 
 ent-DrinkBottleGlassLargeBaseFull = { ent-SolutionLarge }
     .desc = { ent-SolutionLarge.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleAbsinthe = Jailbreaker Verte
-    .desc = One sip of this and you just know you're gonna have a good time.
+ent-DrinkBottleAbsinthe = «Джейлбрейкер Верт»
+    .desc = Один глоток этого — и вы точно знаете, что вас ждёт хорошее время.
 
 ent-DrinkAbsintheBottleFull = { ent-DrinkBottleAbsinthe }
     .desc = { ent-DrinkBottleAbsinthe.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleAlcoClear = Miss Blue Curaçao
-    .desc = A fruity, exceptionally azure drink. Does not allow the imbiber to use the fifth magic.
+ent-DrinkBottleAlcoClear = «Мисс Блю Кюрасао»
+    .desc = Фруктовый, исключительно лазурный напиток. Не позволяет пьющему использовать пятую магию.
 
 ent-DrinkBlueCuracaoBottleFull = { ent-DrinkBottleAlcoClear }
     .desc = { ent-DrinkBottleAlcoClear.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleOfNothingFull = bottle of nothing
-    .desc = A bottle filled with nothing.
+ent-DrinkBottleOfNothingFull = бутылка ничего
+    .desc = Бутылка, наполненная ничем.
 
-ent-DrinkChampagneBottleFull = champagne bottle
-    .desc = Only people devoid of imagination can't find an excuse for champagne.
+ent-DrinkChampagneBottleFull = бутылка шампанского
+    .desc = Только люди, лишённые воображения, не могут найти повод для шампанского.
 
-ent-DrinkBottleCognac = cognac bottle
-    .desc = A sweet and strongly alcoholic drink, made after numerous distillations and years of maturing. You might as well not scream 'SHITCURITY' this time.
+ent-DrinkBottleCognac = бутылка коньяка
+    .desc = Сладкий и крепкий алкогольный напиток, изготовленный после многочисленных перегонок и лет выдержки. В этот раз можно и не кричать «ШИТКЬЮРИТИ».
 
 ent-DrinkCognacBottleFull = { ent-DrinkBottleCognac }
     .desc = { ent-DrinkBottleCognac.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkGrenadineBottleFull = Briar Rose grenadine syrup bottle
-    .desc = Sweet and tangy, a bar syrup used to add color or flavor to drinks.
+ent-DrinkGrenadineBottleFull = бутылка гренадинового сиропа «Шиповник»
+    .desc = Сладкий и терпкий барный сироп, используемый для придания напиткам цвета или вкуса.
 
-ent-DrinkBottleGin = Griffeater gin
-    .desc = A bottle of high quality gin, produced in the New London Space Station.
+ent-DrinkBottleGin = джин «Гриффитер»
+    .desc = Бутылка высококачественного джина, произведённого на космической станции Новый Лондон.
 
 ent-DrinkGinBottleFull = { ent-DrinkBottleGin }
     .desc = { ent-DrinkBottleGin.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleGildlager = Gildlager bottle
-    .desc = 100 proof cinnamon schnapps, made for alcoholic teen girls on spring break.
+ent-DrinkBottleGildlager = бутылка «Гильдлагер»
+    .desc = Коричный шнапс крепостью 50 градусов, созданный для пьющих девушек-подростков на весенних каникулах.
 
 ent-DrinkGildlagerBottleFull = { ent-DrinkBottleGildlager }
     .desc = { ent-DrinkBottleGildlager.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleCoffeeLiqueur = coffee liqueur bottle
-    .desc = The great taste of coffee with none of the benifits.
+ent-DrinkBottleCoffeeLiqueur = бутылка кофейного ликёра
+    .desc = Прекрасный вкус кофе без единой его пользы.
 
 ent-DrinkCoffeeLiqueurBottleFull = { ent-DrinkBottleCoffeeLiqueur }
     .desc = { ent-DrinkBottleCoffeeLiqueur.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkMelonLiquorBottleFull = Emeraldine melon liquor
-    .desc = A bottle of 46 proof Emeraldine melon liquor. Sweet and light.
+ent-DrinkMelonLiquorBottleFull = дынный ликёр «Эмеральдин»
+    .desc = Бутылка дынного ликёра «Эмеральдин» крепостью 23 градуса. Сладкий и лёгкий.
 
-ent-DrinkBottlePatron = Wrapp Artiste Patrón bottle
-    .desc = Silver laced tequila, served in space night clubs across the galaxy.
+ent-DrinkBottlePatron = бутылка текилы «Врапп Артист Патрон»
+    .desc = Текила с серебряной нитью, подаваемая в космических ночных клубах по всей галактике.
 
 ent-DrinkPatronBottleFull = { ent-DrinkBottlePatron }
     .desc = { ent-DrinkBottlePatron.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottlePoisonWine = Warlock's Velvet bottle
-    .desc = What a delightful packaging for a surely high quality wine! The vintage must be amazing!
+ent-DrinkBottlePoisonWine = бутылка «Бархат чернокнижника»
+    .desc = Какая восхитительная упаковка для, несомненно, качественного вина! Урожай, должно быть, изумительный!
 
-ent-DrinkPoisonWinebottleFull = Warlock's Velvet bottle
+ent-DrinkPoisonWinebottleFull = бутылка «Бархат чернокнижника»
     .desc = { ent-DrinkBottlePoisonWine.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleRum = Captain Pete's Cuban spiced rum
-    .desc = This isn't just rum, oh no. It's practically GRIFF in a bottle.
+ent-DrinkBottleRum = кубинский пряный ром «Капитан Пит»
+    .desc = Это не просто ром, о нет. Это практически ГРИФФ в бутылке.
 
 ent-DrinkRumBottleFull = { ent-DrinkBottleRum }
     .desc = { ent-DrinkBottleRum.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleTequila = Caccavo Guaranteed Quality tequila bottle
-    .desc = Made from premium petroleum distillates, pure thalidomide and other fine quality ingredients!
+ent-DrinkBottleTequila = бутылка текилы «Каккаво Гарантированное Качество»
+    .desc = Изготовлено из высококачественных нефтяных дистиллятов, чистого талидомида и других качественных ингредиентов!
 
 ent-DrinkTequilaBottleFull = { ent-DrinkBottleTequila }
     .desc = { ent-DrinkBottleTequila.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleVermouth = Goldeneye vermouth bottle
-    .desc = Sweet, sweet dryness!
+ent-DrinkBottleVermouth = бутылка вермута «Голденай»
+    .desc = Сладкая, сладкая сухость!
 
 ent-DrinkVermouthBottleFull = { ent-DrinkBottleVermouth }
     .desc = { ent-DrinkBottleVermouth.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleVodka = vodka bottle
-    .desc = Aah, vodka. Prime choice of drink AND fuel by Russians worldwide.
+ent-DrinkBottleVodka = бутылка водки
+    .desc = Ах, водка. Основной выбор напитка И топлива у русских по всему миру.
 
 ent-DrinkVodkaBottleFull = { ent-DrinkBottleVodka }
     .desc = { ent-DrinkBottleVodka.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleWhiskey = Uncle Git's Special Reserve
-    .desc = A premium single-malt whiskey, gently matured inside the tunnels of a nuclear shelter. TUNNEL WHISKEY RULES.
+ent-DrinkBottleWhiskey = «Особый резерв дяди Гита»
+    .desc = Премиальный односолодовый виски, бережно выдержанный в туннелях ядерного бункера. ПРАВИЛА ТУННЕЛЬНОГО ВИСКИ.
 
 ent-DrinkWhiskeyBottleFull = { ent-DrinkBottleWhiskey }
     .desc = { ent-DrinkBottleWhiskey.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleWine = Doublebearded Bearded Special wine bottle
-    .desc = A faint aura of unease and asspainery surrounds the bottle.
+ent-DrinkBottleWine = бутылка вина «Двубородая бородатая особая бутылка вина»
+    .desc = Бутылку окружает слабая аура тревоги и подгоревшей задницы.
 
 ent-DrinkWineBottleFull = { ent-DrinkBottleWine }
     .desc = { ent-DrinkBottleWine.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleNTCahors = nt cahors bottle
+ent-DrinkBottleNTCahors = бутылка кагора NT
     .desc = { ent-DrinkBottleGlassBase.desc }
 
-ent-DrinkNTCahorsBottleFull = nt cahors bottle
+ent-DrinkNTCahorsBottleFull = бутылка кагора NT
     .desc = { ent-DrinkBottleNTCahors.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBeerGrowler = beer growler
-    .desc = An alcoholic beverage made from malted grains, hops, yeast, and water. XL growler bottle.
+ent-DrinkBeerGrowler = гроулер пива
+    .desc = Алкогольный напиток из солода, хмеля, дрожжей и воды. Гроулер XL.
 
-ent-DrinkAleBottleFullGrowler = Magm-Ale growler
-    .desc = A true dorf's drink of choice. XL growler bottle.
+ent-DrinkAleBottleFullGrowler = гроулер «Магм-Эль»
+    .desc = Напиток истинного дворфа. Гроулер XL.
 
-ent-DrinkBottleBeer = beer bottle
-    .desc = An alcoholic beverage made from malted grains, hops, yeast, and water.
+ent-DrinkBottleBeer = бутылка пива
+    .desc = Алкогольный напиток из солода, хмеля, дрожжей и воды.
 
 ent-DrinkBeerBottleFull = { ent-DrinkBottleBeer }
     .desc = { ent-DrinkBottleBeer.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkBottleAle = Magm-Ale bottle
-    .desc = A true dorf's drink of choice.
+ent-DrinkBottleAle = бутылка «Магм-Эль»
+    .desc = Напиток истинного дворфа.
 
 ent-DrinkAleBottleFull = { ent-DrinkBottleAle }
     .desc = { ent-DrinkBottleAle.desc }
-    .suffix = Full
+    .suffix = Полная
 
-ent-DrinkSakeBottleFull = small sake bottle
-    .desc = The regret of the next morning seems to be nipping on the bottle too.
+ent-DrinkSakeBottleFull = маленькая бутылка саке
+    .desc = Похоже, сожаление о следующем утре тоже не прочь приложиться к бутылке.

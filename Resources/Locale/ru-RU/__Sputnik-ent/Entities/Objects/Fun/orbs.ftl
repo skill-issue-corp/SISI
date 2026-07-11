@@ -1,15 +1,11 @@
-ent-SingularityToy = singuloth-brand toy
-    .desc = Mass-produced by a sadistic corporate conglomerate!
-
-ent-TeslaToy = Teddy Tesla
-    .desc = The favorite toy of the great engineer Nikola Tesla.
-
-ent-PonderingOrb = pondering orb
-    .desc = Ponderous, man... Really ponderous.
-
-ent-PonderingOrbWizardFake = pondering orb
-    .desc = Ponderous, man... Really ponderous. Magically shows the station's camera network.
-    .suffix = Wizard
-
-ent-Magic9Ball = magic 9 ball
-    .desc = An endless source of wisdom... Now with a speaker included!
+ent-SingularityToy = игрушка бренда «Сингулот»
+    .desc = Массово произведена садистским корпоративным конгломератом!
+ent-TeslaToy = плюшевый Тесла
+    .desc = Любимая игрушка великого инженера Николы Теслы.
+ent-PonderingOrb = сфера раздумий
+    .desc = Задумчиво, чувак... Реально задумчиво.
+ent-PonderingOrbWizardFake = сфера раздумий
+    .desc = Задумчиво, чувак... Реально задумчиво. Магическим образом показывает сеть камер станции.
+    .suffix = Волшебная
+ent-Magic9Ball = магический шар 9
+    .desc = Неиссякаемый источник мудрости... Теперь со встроенным динамиком!

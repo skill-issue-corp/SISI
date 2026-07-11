@@ -1,20 +1,14 @@
 ent-SpeechStatusEffectBase = { ent-MobStatusEffectDebuff }
     .desc = { ent-MobStatusEffectDebuff.desc }
-
-ent-StatusEffectStutter = stutter
+ent-StatusEffectStutter = заикание
     .desc = { ent-SpeechStatusEffectBase.desc }
-
-ent-StatusEffectSlurred = slurred
+ent-StatusEffectSlurred = невнятная речь
     .desc = { ent-SpeechStatusEffectBase.desc }
-
-ent-StatusEffectScrambled = scrambled
+ent-StatusEffectScrambled = искажённая речь
     .desc = { ent-SpeechStatusEffectBase.desc }
-
-ent-StatusEffectOwO = owoaccent
+ent-StatusEffectOwO = увушный акцент
     .desc = { ent-SpeechStatusEffectBase.desc }
-
-ent-StatusEffectAllCaps = allcapsaccent
+ent-StatusEffectAllCaps = акцент капсом
     .desc = { ent-SpeechStatusEffectBase.desc }
-
-ent-StatusEffectBark = barkaccent
+ent-StatusEffectBark = акцент лая
     .desc = { ent-SpeechStatusEffectBase.desc }

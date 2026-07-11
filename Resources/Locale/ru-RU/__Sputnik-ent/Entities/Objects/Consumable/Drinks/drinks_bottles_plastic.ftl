@@ -1,67 +1,46 @@
 ent-DrinkBottlePlasticBaseFull = { ent-DrinkBaseMaterialPlastic }
     .desc = { ent-DrinkBaseMaterialPlastic.desc }
-    .suffix = Full
-
+    .suffix = Полная
 ent-DrinkBottlePlasticSmallBaseFull = { ent-SolutionSmall }
     .desc = { ent-SolutionSmall.desc }
-
-ent-CustomDrinkJug = beverage jug
-    .desc = A jug for storing custom made drinks.
-
-ent-DrinkWaterBottleFull = water bottle
-    .desc = Simple clean water of unknown origin. You think that maybe you dont want to know it.
-
-ent-DrinkColaBottleFull = Space Cola bottle
-    .desc = Cola. In spaaace!
-
-ent-DrinkSpaceMountainWindBottleFull = Space Solar Wind bottle
-    .desc = Blows right through you like a solar wind.
-
-ent-DrinkSpaceUpBottleFull = Space-Up bottle
-    .desc = Tastes like a hull breach in your mouth.
-
-ent-DrinkSodaWaterBottleFull = soda water bottle
-    .desc = Like water, but angry!
-
-ent-DrinkTonicWaterBottleFull = tonic water bottle
-    .desc = Like soda water, but angrier maybe? Often sweeter.
-
-ent-DrinkSugarJug = sugar jug
-    .desc = Some people put this in their coffee...
-    .suffix = For Drinks, Full
-
-ent-DrinkLemonLimeJug = Smite jug
-    .desc = A dual citrus sensation.
-
-ent-DrinkMeadJug = mead jug
-    .desc = Storing mead in a plastic jug should be a crime.
-
-ent-DrinkIceJug = ice jug
-    .desc = Stubborn water. Pretty cool.
-
-ent-DrinkCoconutWaterJug = coconut water jug
-    .desc = It's on the inside of the coconut that counts.
-
-ent-DrinkCoffeeJug = coffee jug
-    .desc = Wake up juice, of the heated kind.
-
-ent-DrinkTeaJug = tea jug
-    .desc = The drink of choice for the Bri'ish and hipsters.
-
-ent-DrinkGreenTeaJug = green tea jug
-    .desc = It's like tea... but green! great for settling the stomach.
-
-ent-DrinkIcedTeaJug = iced tea jug
-    .desc = For when the regular tea is too hot for you. Boohoo.
-
-ent-DrinkDrGibbJug = Dr. Gibb jug
-    .desc = 42 different flavours... in a jug!
-
-ent-DrinkRootBeerJug = root beer jug
-    .desc = This drink makes Australians giggle.
-
-ent-DrinkWaterMelonJuiceJug = watermelon juice jug
-    .desc = May include leftover seeds.
-
-ent-DrinkEnergyDrinkJug = Red Bool jug
-    .desc = A jug of Red Bool, with enough caffeine to kill a whole station.
+ent-CustomDrinkJug = кувшин для напитков
+    .desc = Кувшин для хранения напитков собственного приготовления.
+ent-DrinkWaterBottleFull = бутылка воды
+    .desc = Простая чистая вода неизвестного происхождения. Возможно, вы не хотите знать, откуда она.
+ent-DrinkColaBottleFull = бутылка «Спейс Колы»
+    .desc = Кола. В коооосмосе!
+ent-DrinkSpaceMountainWindBottleFull = бутылка «Космического Солнечного Ветра»
+    .desc = Проносится сквозь вас, словно солнечный ветер.
+ent-DrinkSpaceUpBottleFull = бутылка «Спейс-Ап»
+    .desc = На вкус как пробоина в корпусе прямо у вас во рту.
+ent-DrinkSodaWaterBottleFull = бутылка содовой воды
+    .desc = Как вода, только злая!
+ent-DrinkTonicWaterBottleFull = бутылка тоника
+    .desc = Как содовая, только, наверное, ещё злее. Часто слаще.
+ent-DrinkSugarJug = кувшин сахара
+    .desc = Некоторые добавляют это в кофе...
+    .suffix = Для напитков, Полный
+ent-DrinkLemonLimeJug = кувшин «Смайт»
+    .desc = Двойное цитрусовое ощущение.
+ent-DrinkMeadJug = кувшин мёда (напитка)
+    .desc = Хранить медовуху в пластиковом кувшине должно быть преступлением.
+ent-DrinkIceJug = кувшин льда
+    .desc = Упрямая вода. Довольно классная.
+ent-DrinkCoconutWaterJug = кувшин кокосовой воды
+    .desc = Важно то, что внутри кокоса.
+ent-DrinkCoffeeJug = кувшин кофе
+    .desc = Пробуждающий сок, горячего вида.
+ent-DrinkTeaJug = кувшин чая
+    .desc = Напиток по выбору бри'итанцев и хипстеров.
+ent-DrinkGreenTeaJug = кувшин зелёного чая
+    .desc = Это как чай... только зелёный! Отлично успокаивает желудок.
+ent-DrinkIcedTeaJug = кувшин холодного чая
+    .desc = Для тех случаев, когда обычный чай для вас слишком горячий. Бу-у-у.
+ent-DrinkDrGibbJug = кувшин «Доктора Гибба»
+    .desc = 42 разных вкуса... в кувшине!
+ent-DrinkRootBeerJug = кувшин рутбира
+    .desc = Этот напиток заставляет австралийцев хихикать.
+ent-DrinkWaterMelonJuiceJug = кувшин арбузного сока
+    .desc = Может содержать оставшиеся косточки.
+ent-DrinkEnergyDrinkJug = кувшин «Ред Була»
+    .desc = Кувшин «Ред Була» с достаточным количеством кофеина, чтобы убить целую станцию.
