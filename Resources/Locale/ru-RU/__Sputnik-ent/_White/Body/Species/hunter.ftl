@@ -1,5 +1,4 @@
 ent-AppearanceXenomorphHunter = { ent-AppearanceXenomorphBase }
     .desc = { ent-AppearanceXenomorphBase.desc }
-
-ent-OrganXenomorphPlasmaVesselSmall = small plasma vessel
+ent-OrganXenomorphPlasmaVesselSmall = маленький плазменный сосуд
     .desc = { ent-OrganXenomorphPlasmaVessel.desc }
