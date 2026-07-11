@@ -1,2 +1,2 @@
-ent-NuclearCentrifuge = nuclear centrifuge
-    .desc = A large machine that can be used to separate radioactive isotopes from spent fuel.
+ent-NuclearCentrifuge = ядерная центрифуга
+    .desc = Крупная машина, используемая для отделения радиоактивных изотопов от отработанного топлива.

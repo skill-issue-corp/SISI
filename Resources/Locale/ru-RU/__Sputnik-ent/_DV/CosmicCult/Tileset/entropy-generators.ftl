@@ -1,5 +1,4 @@
-ent-CosmicVacuousSpire = vacuous spire
-    .desc = Its surface shifts and moves strangely, despite no visible power source...
-
-ent-CosmicPowerSink = entropic crystallizer
-    .desc = Sprawling tendrils thrust into nearby wiring, almost as if alive, yet completely foreign to this reality.
+ent-CosmicVacuousSpire = пустотный шпиль
+    .desc = Его поверхность странно колышется и движется, несмотря на отсутствие видимого источника питания...
+ent-CosmicPowerSink = энтропийный кристаллизатор
+    .desc = Раскидистые щупальца вонзаются в ближайшую проводку, почти как живые, но совершенно чуждые этой реальности.

@@ -1,2 +1,2 @@
-ent-ClothingShoesBootsRoman = roman sandals
-    .desc = Sandals with buckled leather straps on it.
+ent-ClothingShoesBootsRoman = римские сандалии
+    .desc = Сандалии с застёгивающимися кожаными ремешками.

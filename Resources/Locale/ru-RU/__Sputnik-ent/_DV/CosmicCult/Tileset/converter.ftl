@@ -1,2 +1,2 @@
-ent-CosmicBorgChantry = vacuous chantry
-    .desc = Its surface churns with rampant malign light.
+ent-CosmicBorgChantry = пустотное святилище
+    .desc = Его поверхность бурлит необузданным злокачественным светом.

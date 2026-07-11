@@ -1,2 +1,2 @@
-ent-ShieldCosmicCult = malign barrier
-    .desc = A heavy shield wrought of constantly shifting malign plating, it appears to slightly bend reality to protect it's user.
+ent-ShieldCosmicCult = злокачественный барьер
+    .desc = Тяжёлый щит, выкованный из постоянно меняющейся злокачественной брони; кажется, что он слегка искривляет реальность, защищая своего владельца.
