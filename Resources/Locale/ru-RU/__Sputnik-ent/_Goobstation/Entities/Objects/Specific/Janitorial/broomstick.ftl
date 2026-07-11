@@ -1,9 +1,7 @@
-ent-Broomstick = broomstick
-    .desc = To stay healthy, you need to sweep at least 8 hours a day!
-
-ent-MagicBroomstickVehicle = magic broomstick
-    .desc = Broomstick that floats in the middle of the air. Remember to put on a witch hat for safety!
-
+ent-Broomstick = метла
+    .desc = Чтобы оставаться здоровым, нужно мести не менее 8 часов в день!
+ent-MagicBroomstickVehicle = волшебная метла
+    .desc = Метла, парящая в воздухе. Не забудь надеть ведьмину шляпу для безопасности!
 ent-MagicBroomstickVehicleFolded = { ent-MagicBroomstickVehicle }
+    .suffix = Сложен
     .desc = { ent-MagicBroomstickVehicle.desc }
-    .suffix = folded

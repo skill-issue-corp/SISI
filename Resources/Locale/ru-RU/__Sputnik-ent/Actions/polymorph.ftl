@@ -1,20 +1,16 @@
-ent-ActionRevertPolymorph = Revert
-    .desc = Revert back into your original form.
-
+ent-ActionRevertPolymorph = Вернуться
+    .desc = Вернитесь в свою изначальную форму.
 ent-BaseActionPolymorph = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
-
-ent-ActionPolymorphWizardSpider = Spider Polymorph
-    .desc = Polymorphs you into a Spider.
-
-ent-ActionPolymorphWizardRod = Rod Form
-    .desc = Take on the form of an immovable rod, destroying everything in your path.
-
-ent-ActionPolymorphJaunt = Ethereal Jaunt
-    .desc = Melt into the Ethereal Plane for a quick getaway!
-
-ent-ActionPolymorphJauntII = Ethereal Jaunt II
-    .desc = Melt into the Ethereal Plane for an even quicker getaway!
-
-ent-ActionPolymorphJauntIII = Ethereal Jaunt III
-    .desc = Are you even tangible anymore?
+ent-ActionPolymorph = { "" }
+    .desc = { "" }
+ent-ActionPolymorphWizardSpider = Форма паука
+    .desc = Превращает вас в паука.
+ent-ActionPolymorphWizardRod = Форма жезла
+    .desc = ДЗЫНЬ!
+ent-ActionPolymorphJaunt = Эфирный рывок
+    .desc = Растворитесь в Эфирной плоскости чтобы быстро сбежать!
+ent-ActionPolymorphJauntII = Эфирный рывок II
+    .desc = Растворитесь в Эфирной плоскости, чтобы сбежать ещё быстрее!
+ent-ActionPolymorphJauntIII = Эфирный рывок III
+    .desc = Вы вообще осязаемы?

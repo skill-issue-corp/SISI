@@ -1,5 +1,2 @@
-ent-RandomSlip100 = random slip spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-RandomSoap = random soap spawner
+ent-RandomSoap = спавнер случайное мыло
     .desc = { ent-MarkerBase.desc }

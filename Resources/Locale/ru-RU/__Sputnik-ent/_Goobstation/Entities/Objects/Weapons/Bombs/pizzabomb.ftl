@@ -1,3 +1,3 @@
-ent-FoodBoxPizzaBomb = pizza box
-    .desc = { ent-FoodBoxPizza.desc }
-    .suffix = Bomb
+ent-FoodBoxPizzaBomb = коробка пиццы
+    .desc = Картонная коробка для хранения вещей.
+    .suffix = Бомба

@@ -1,2 +1,2 @@
-ent-BoxTapeRecorder = tape recorder box
-    .desc = A box with colorful cassette tapes and a tape recorder.
+ent-BoxTapeRecorder = коробка с магнитофоном
+    .desc = Коробка с разноцветными кассетами и магнитофоном.

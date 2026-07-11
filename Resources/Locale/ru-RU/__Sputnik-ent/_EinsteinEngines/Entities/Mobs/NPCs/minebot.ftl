@@ -1,2 +1,2 @@
-ent-MobMineBot = minebot
-    .desc = A miner's best friend!
+ent-MobMineBot = майнбот
+    .desc = Лучший друг шахтера!

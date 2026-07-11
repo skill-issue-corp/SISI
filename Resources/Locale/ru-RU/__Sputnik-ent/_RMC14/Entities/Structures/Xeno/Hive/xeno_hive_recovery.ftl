@@ -1,2 +1,2 @@
-ent-HiveRecoveryNodeXeno = Recovery Node
-    .desc = A warm, soothing light source that pulsates with a faint hum.
+ent-HiveRecoveryNodeXeno = узел восстановления
+    .desc = Тёплый, успокаивающий источник света, пульсирующий с тихим гулом.

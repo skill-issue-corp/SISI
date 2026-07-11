@@ -1,18 +1,26 @@
-ent-BaseMagazineMagnum = pistol magazine (.45 magnum)
+ent-BaseMagazineMagnum = пистолетный магазин (.45 магнум)
     .desc = { ent-BaseMagazinePistol.desc }
-
-ent-MagazineMagnumEmpty = pistol magazine (.45 magnum any)
-    .desc = 7-round single stack magazine for large-caliber pistols.
-    .suffix = empty
-
-ent-MagazineMagnum = pistol magazine (.45 magnum)
-    .desc = 7-round single stack magazine for large-caliber pistols. Intended to hold general-purpose kinetic ammunition.
-
-ent-MagazineMagnumPractice = pistol magazine (.45 magnum practice)
-    .desc = 7-round single stack magazine for large-caliber pistols. Intended to hold harmless practice ammunition.
-
-ent-MagazineMagnumUranium = pistol magazine (.45 magnum uranium)
-    .desc = 7-round single stack magazine for large-caliber pistols. Intended to hold exotic uranium-core ammunition.
-
-ent-MagazineMagnumAP = pistol magazine (.45 magnum armor-piercing)
-    .desc = 7-round single stack magazine for large-caliber pistols. Intended to hold specialized armor-piercing ammunition.
+ent-BaseMagazineMagnumSubMachineGun = магазин ПП (.45 магнум)
+    .desc = { ent-BaseItem.desc }
+ent-MagazineMagnumEmpty = пистолетный магазин (.45 магнум любые)
+    .suffix = Пустой
+    .desc = { ent-BaseMagazineMagnum.desc }
+ent-MagazineMagnum = пистолетный магазин (.45 магнум)
+    .desc = { ent-BaseMagazineMagnum.desc }
+ent-MagazineMagnumPractice = пистолетный магазин (.45 магнум учебные)
+    .desc = { ent-BaseMagazineMagnum.desc }
+ent-MagazineMagnumUranium = пистолетный магазин (.45 магнум урановые)
+    .desc = { ent-BaseMagazineMagnum.desc }
+ent-MagazineMagnumAP = пистолетный магазин (.45 магнум бронебойные)
+    .desc = { ent-BaseMagazineMagnum.desc }
+ent-MagazineMagnumSubMachineGunEmpty = магазин ПП (.45 магнум любые)
+    .suffix = Пустой
+    .desc = { ent-BaseMagazineMagnumSubMachineGun.desc }
+ent-MagazineMagnumSubMachineGun = магазин ПП (.45 магнум)
+    .desc = { ent-BaseMagazineMagnumSubMachineGun.desc }
+ent-MagazineMagnumSubMachineGunPractice = магазин ПП (.45 магнум учебные)
+    .desc = { ent-BaseMagazineMagnumSubMachineGun.desc }
+ent-MagazineMagnumSubMachineGunUranium = магазин ПП (.45 магнум урановые)
+    .desc = { ent-BaseMagazineMagnumSubMachineGun.desc }
+ent-MagazineMagnumSubMachineGunPiercing = магазин ПП (.45 магнум бронебойные)
+    .desc = { ent-BaseMagazineMagnumSubMachineGun.desc }

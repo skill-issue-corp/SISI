@@ -1,41 +1,31 @@
-ent-SurveillanceCameraBase = camera
-    .desc = A surveillance camera. It's watching you. Kinda.
-
-ent-SurveillanceCameraConstructed = camera
+ent-SurveillanceCameraBase = камера
+    .desc = Камера наблюдения. Она наблюдает за тобой. Вроде как.
+ent-SurveillanceCameraConstructed = камера
+    .suffix = Построенный
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Constructed
-
-ent-SurveillanceCameraEngineering = camera
+ent-SurveillanceCameraEngineering = камера
+    .suffix = Инженерный
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Engineering
-
-ent-SurveillanceCameraSecurity = camera
+ent-SurveillanceCameraSecurity = камера
+    .suffix = Охранный
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Security
-
-ent-SurveillanceCameraScience = camera
+ent-SurveillanceCameraScience = камера
+    .suffix = Научный
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Science
-
-ent-SurveillanceCameraSupply = camera
+ent-SurveillanceCameraSupply = камера
+    .suffix = Карго, Снабжение
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Supply
-
-ent-SurveillanceCameraCommand = camera
+ent-SurveillanceCameraCommand = камера
+    .suffix = Командный
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Command
-
-ent-SurveillanceCameraService = camera
+ent-SurveillanceCameraService = камера
+    .suffix = Сервисный
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Service
-
-ent-SurveillanceCameraMedical = camera
+ent-SurveillanceCameraMedical = камера
+    .suffix = Медицинский
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Medical
-
-ent-SurveillanceCameraGeneral = camera
+ent-SurveillanceCameraGeneral = камера
+    .suffix = Общий
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = General
-
-ent-SurveillanceCameraAssembly = camera
-    .desc = A surveillance camera. Doesn't seem to be watching anybody any time soon. Probably.
+ent-SurveillanceCameraAssembly = камера
+    .desc = Камера наблюдения. Не похоже, что в ближайшее время она будет за кем-то наблюдать. Возможно.

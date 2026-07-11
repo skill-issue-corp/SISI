@@ -1,45 +1,35 @@
-ent-ClothingHeadHelmetHelldiver = salvage NT-01 tactical helmet
-    .desc = This armor is the NanoTrasen standard issue, made from the same titanium alloy as the Goliath hull.
-
-ent-ClothingHeadHelmetHEV = H.E.V helmet
-    .desc = Not included in a set with crowbar, long jump module and gravity manipulation device.
-
+ent-ClothingHeadHelmetHelldiver = тактический шлем NT-01 "Сальваж"
+    .desc = Этот шлем — стандартное снаряжение NanoTrasen, изготовлен из того же титанового сплава, что и корпус "Голиафа".
+ent-ClothingHeadHelmetHEV = шлем H.E.V.
+    .desc = Не входит в комплект с монтировкой, модулем дальнего прыжка и устройством управления гравитацией.
 ent-ClothingHeadHelmetBasicAlt = { ent-ClothingHeadHelmetBasic }
+    .suffix = Альтернативный
     .desc = { ent-ClothingHeadHelmetBasic.desc }
-    .suffix = Alt
-
-ent-ReverseBearTrap = reverse bear trap
-    .desc = A horrifying set of shut metal jaws, rigged to a kitchen timer and secured by padlock to a head-mounted clamp. To apply, hit someone with it
-
-ent-ClothingHeadHatHoodCloakSith = dark lord hood
-    .desc = What began as a simple cosplay hood was illegally reinforced with armored plates, transforming it into a functional piece of armor. Looks like it's even capable of protecting the user from the lack of pressure in space.
-
+ent-ReverseBearTrap = обратная медвежья ловушка
+    .desc = Ужасающий металлический захват с закрывающимися челюстями, сработанный от кухонного таймера и закреплённый замком на головном зажиме. Чтобы применить, ударьте кого-нибудь им.
+ent-ClothingHeadHatHoodCloakSith = капюшон тёмного владыки
+    .desc = Что начиналось как простой костюмный капюшон, было незаконно усилено броневыми пластинами, превратившись в функциональный защитный элемент. Похоже, он даже способен защитить владельца от отсутствия давления в космосе.
 ent-ClothingHeadHelmetBaseFoldable = { ent-ClothingHeadHelmetBase }
     .desc = { ent-ClothingHeadHelmetBase.desc }
-
-ent-ClothingHeadHatCowboyBrownRobust = authentic brown cowboy hat
-    .desc = "This station ain't big enough for the two of us."
-
-ent-ClothingHeadHatHelmetTemplar = crusader helmet
+ent-ClothingHeadHatCowboyBrownRobust = истинная коричневая ковбойская шляпа
+    .desc = "Эта станция слишком тесна для нас двоих."
+ent-ClothingHeadHatHelmetTemplar = шлем крестоносца
     .desc = Deus Vult.
-
-ent-ClothingHeadHatHelmetCage = cage
-    .desc = A cage that restrains the will of the self, allowing one to see the profane world for what it is.
-
-ent-ClothingHeadHatHelmetAncient = ancient helmet
-    .desc = None may pass!
-
-ent-ClothingHeadHatHelmetWitchhunter = witchunter hat
-    .desc = This hat saw much use back in the day.
-
-ent-ClothingHeadHatHelmetAdept = adept hood
-    .desc = Its only heretical when others do it.
-
-ent-ClothingHeadHatHelmetClock = forgotten helmet
-    .desc = It has the unyielding gaze of a god eternally forgotten.
-
-ent-ClothingHeadHatHelmetMonk = monk's hood
-    .desc = For when a man wants to cover up his tonsure.
-
-ent-ClothingHeadHatHelmetBishop = bishop mitre
-    .desc = An opulent hat that functions as a radio to God. Or as a lightning rod, depending on who you ask.
+ent-ClothingHeadHatHelmetCage = клетка
+    .desc = Клетка, сдерживающая волю самого себя, позволяющая видеть нечистивый мир таким, какой он есть.
+ent-ClothingHeadHatHelmetAncient = древний шлем
+    .desc = Никто не пройдёт!
+ent-ClothingHeadHatHelmetWitchhunter = шляпа охотника на ведьм
+    .desc = Эта шляпа часто использовалась в своё время.
+ent-ClothingHeadHatHelmetAdept = накидка адепта
+    .desc = Это нечистиво только тогда, когда это делают другие.
+ent-ClothingHeadHatHelmetClock = забытый шлем
+    .desc = Он обладает непоколебимым взором навечно забытого бога.
+ent-ClothingHeadHatHelmetMonk = монашеская накидка
+    .desc = Для тех, кто хочет скрыть свою нелепо выбритую макушку.
+ent-ClothingHeadHatHelmetBishop = епископская митра
+    .desc = Роскошная шляпа, служащая божественным радиоприёмником. Или молниеотводом...
+ent-ClothingHeadHatHelmetDragon = драконий капюшон
+    .desc = Создание огненных шаров в комплект не входит.
+ent-ClothingHeadHatHelmetInquisitor = фуражка инквизитора
+    .desc = Великолепная позолоченная фуражка. Воплощение кары, которая постигнет еретиков!

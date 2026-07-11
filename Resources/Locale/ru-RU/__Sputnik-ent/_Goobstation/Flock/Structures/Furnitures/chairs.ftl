@@ -1,2 +1,2 @@
-ent-ChairFlock = strange glass chair
-    .desc = Looks comfortable, despite the edges.
+ent-ChairFlock = странный стеклянный стул
+    .desc = Выглядит удобным, несмотря на острые края.

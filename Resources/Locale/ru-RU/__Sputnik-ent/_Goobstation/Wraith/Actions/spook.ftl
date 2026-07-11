@@ -1,20 +1,14 @@
-ent-ActionFlipLights = Flip light switches
-    .desc = Light switches that are on turn off and off on.
-
-ent-ActionBurnLights = Burn lights
-    .desc = Breaks up to four light tubes and bulbs in the area, creating sparks that can ignite flammables.
-
-ent-ActionOpenDoors = Open doors, lockers, crates
-    .desc = Opens and closes a few random doors, lockers, and crates in the area.
-
-ent-ActionCreateSmoke = Create smoke
-    .desc = Creates multiple clouds of smoke near you that can completely obscure people's vision. Clouds persist for about a minute.
-
-ent-ActionCreateEctoplasm = Create ectoplasm
-    .desc = Spawns a few globs of ectoplasm in the area.
-
-ent-ActionSapApc = Sap APC
-    .desc = Drains a bit of power from the area's APC. The higher your WP regen rate, the more power drained. Cannot drain multiple APCs.
-
-ent-ActionSpookRandom = Random
-    .desc = Does one random action.
+ent-ActionFlipLights = Переключить свет
+    .desc = Выключает включённые и включает выключенные светильники.
+ent-ActionBurnLights = Сжечь свет
+    .desc = Разрушает до четырёх светильников, создавая искры, которые могут поджечь легко воспламеняемые предметы.
+ent-ActionOpenDoors = Открыть шлюзы, шкафчики и ящики
+    .desc = Открывает и закрывает несколько случайных дверей, шкафчиков и ящиков в области.
+ent-ActionCreateSmoke = Создать дым
+    .desc = Создаёт несколько облаков дыма рядом с вами, полностью заслоняющих обзор. Облака держатся около минуты.
+ent-ActionCreateEctoplasm = Создание эктоплазмы
+    .desc = Призывает несколько капель эктоплазмы в области.
+ent-ActionSapApc = Разрядить ЛКП
+    .desc = Немного разряжает ЛКП в области. Чем выше ваша скорость восстановления ФО, тем больше энергии отнимается. Нельзя разряжать несколько ЛКП одновременно.
+ent-ActionSpookRandom = Случайная способность
+    .desc = Выполняет одну случайную способность.

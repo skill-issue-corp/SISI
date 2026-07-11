@@ -1,2 +1,4 @@
-ent-ActionActivateAutoinjector = Activate Auto-injector
-    .desc = Activate your auto injector to administer chemicals into your bloodstream.
+ent-ActionActivateAutoinjector = Активировать автоинъектор
+    .desc = Активируйте автоинъектор, чтобы ввести химикаты в ваш кровоток.
+ent-ActionActivateSecondSkin = Активировать Вторую плоть
+    .desc = Покрывает ваше тело защитным жидкоподобным веществом.

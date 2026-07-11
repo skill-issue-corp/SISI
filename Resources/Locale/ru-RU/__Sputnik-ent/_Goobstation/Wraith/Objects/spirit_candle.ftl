@@ -1,5 +1,4 @@
-ent-SpiritCandle = spirit candle
-    .desc = Feels vaguely ominous!
-
-ent-SpiritCandleRevealArea = spirit candle area
-    .desc = You shouldn't see this.
+ent-SpiritCandle = спиритическая свеча
+    .desc = Для создания жуткой атмосферы!
+ent-SpiritCandleRevealArea = область спиритической свечи
+    .desc = Вы не должны это видеть, если чё.

@@ -1,39 +1,21 @@
-ent-SprayBottleBase = { ent-DrinkBaseMaterialPlastic }
-    .desc = { ent-DrinkBaseMaterialPlastic.desc }
-
-ent-SprayBottle = spray bottle
-    .desc = A spray bottle with an unscrewable top.
-    .suffix = Empty
-
-ent-MegaSprayBottle = mega spray bottle
-    .desc = A huge spray bottle, capable of unrivaled janitorial power.
-    .suffix = Empty
-
-ent-SprayBottleWater = spray bottle
+ent-SprayBottle = распылитель
+    .desc = Распылитель с отвинчивающимся верхом.
+    .suffix = Пустой
+ent-MegaSprayBottle = мега-распылитель
+    .desc = Большая бутылка-распылитель, обладающая непревзойдённой чистящей силой.
+    .suffix = Пустой
+ent-SprayBottleWater = распылитель
+    .suffix = Полный
     .desc = { ent-SprayBottle.desc }
-    .suffix = Filled
-
-ent-SprayBottleSpaceCleaner = { ent-SprayBottle }
-    .desc = BLAM!-brand non-foaming space cleaner!
-    .suffix = Space Cleaner
-
-ent-MegaSprayBottleSpaceCleaner = { ent-MegaSprayBottle }
-    .desc = BLAM!-brand non-foaming space cleaner, now in a bigger package for those huge blood puddles!
-    .suffix = Space Cleaner
-
-ent-BorgSprayBottle = internal spray jet
-    .desc = A pressurized vessel for spraying reagents, installed directly into a custodial cyborg. Typically filled with space cleaner for dealing with those nasty spills.
-    .suffix = Filled
-
-ent-BorgMegaSprayBottle = adv. internal spray jet
-    .desc = An upgraded version of the integrated spray bottle, installed directly into a custodial cyborg. This one is capable of creating space cleaner from moisture in the air.
-    .suffix = Filled
-
-ent-Vapor = vapor
-    .desc = { ent-SolutionSmall.desc }
-
+ent-SprayBottleSpaceCleaner = космический очиститель
+    .desc = Непенящийся очиститель бренда BLAM!
+ent-BorgSprayBottle = внутренний пульверизатор
+    .desc = Герметичный резервуар для распыления реагентов, установленный непосредственно в уборочного борга. Обычно заполняется космическим очистителем для устранения неприятных луж.
+    .suffix = Заполненный
+ent-BorgMegaSprayBottle = продвинутый внутренний пульверизатор
+    .desc = Усовершенствованная версия встроенного распылителя, установленного непосредственно в уборочного уиборга. Обычно заполняется космическим очистителем для устранения неприятных луж.
+    .suffix = Заполненный
+ent-Vapor = пар
+    .desc = { "" }
 ent-BigVapor = { ent-Vapor }
-    .desc = { ent-Vapor.desc }
-
-ent-FlowerVapor = { ent-Vapor }
     .desc = { ent-Vapor.desc }

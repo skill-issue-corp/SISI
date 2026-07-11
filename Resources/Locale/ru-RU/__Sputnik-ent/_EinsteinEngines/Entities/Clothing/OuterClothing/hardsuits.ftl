@@ -1,11 +1,8 @@
-ent-ClothingOuterHardsuitCombatStandard = combat hardsuit
-    .desc = A purpose-built combat hardsuit designed to protect its user against all manner of enemy combatants in low pressure environments.
-
-ent-ClothingOuterHardsuitCombatOfficer = security combat hardsuit
-    .desc = A purpose-built combat hardsuit designed to protect its user against all manner of enemy combatants in low pressure environments. This one has station security markings.
-
-ent-ClothingOuterHardsuitCombatMedical = medical combat hardsuit
-    .desc = A purpose-built combat hardsuit designed to allow its user greater mobility for superior support of friendly units in active combat zones.
-
-ent-ClothingOuterHardsuitCombatRiot = riot combat hardsuit
-    .desc = A purpose-built combat hardsuit designed for crowd control against armed combatants in low pressure environments.
+ent-ClothingOuterHardsuitCombatStandard = боевой скафандр
+    .desc = Специально разработанный боевой костюм, предназначенный для защиты пользователя от любого рода противников в условиях пониженного давления.
+ent-ClothingOuterHardsuitCombatOfficer = боевой скафандр службы безопасности
+    .desc = Специально разработанный боевой костюм, предназначенный для защиты пользователя от любого рода противников в условиях пониженного давления. Этот экземпляр отмечен символикой службы безопасности станции.
+ent-ClothingOuterHardsuitCombatMedical = медицинский боевой скафандр
+    .desc = Специально разработанный боевой костюм, обеспечивающий пользователю повышенную подвижность для эффективной поддержки союзников в активных зонах боевых действий.
+ent-ClothingOuterHardsuitCombatRiot = штурмовой боевой скафандр
+    .desc = Специально разработанный боевой костюм для подавления массовых беспорядков и противостояния вооружённым противникам в условиях пониженного давления.

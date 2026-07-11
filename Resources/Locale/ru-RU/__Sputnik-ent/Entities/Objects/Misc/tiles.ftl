@@ -1,362 +1,215 @@
 ent-FloorTileItemBase = { ent-BaseItem }
-    .desc = The floor was meant to hold this, not you.
-
-ent-FloorTileItemSteelCheckerDark = steel dark checker tile
-    .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemSteelCheckerLight = steel light checker tile
-    .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemDark = dark tile
+    .desc = Может послужить неплохим метательным оружием.
+ent-FloorTileItemSteel = стальная плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemDarkDiagonalMini = dark steel diagonal mini tile
+ent-FloorTileItemSteelCheckerDark = тёмная стальная плитка шашечками
+    .desc = { ent-FloorTileItemSteel.desc }
+ent-FloorTileItemSteelCheckerLight = светлая стальная плитка шашечками
+    .desc = { ent-FloorTileItemSteel.desc }
+ent-FloorTileItemDarkDiagonalMini = тёмная стальная диагональная мини плитка
     .desc = { ent-FloorTileItemDark.desc }
-
-ent-FloorTileItemDarkDiagonal = dark steel diagonal tile
+ent-FloorTileItemDarkDiagonal = тёмная стальная диагональная плитка
     .desc = { ent-FloorTileItemDark.desc }
-
-ent-FloorTileItemDarkHerringbone = dark steel herringbone
+ent-FloorTileItemDarkHerringbone = тёмная стальная плитка ёлочкой
     .desc = { ent-FloorTileItemDark.desc }
-
-ent-FloorTileItemDarkMini = dark steel mini tile
+ent-FloorTileItemDarkMini = тёмная стальная мини плитка
     .desc = { ent-FloorTileItemDark.desc }
-
-ent-FloorTileItemDarkMono = dark steel mono tile
+ent-FloorTileItemDarkMono = тёмная стальная моно плита
     .desc = { ent-FloorTileItemDark.desc }
-
-ent-FloorTileItemDarkPavement = dark steel pavement
+ent-FloorTileItemDarkPavement = тёмная стальная тротуарная плитка
     .desc = { ent-FloorTileItemDark.desc }
-
-ent-FloorTileItemDarkPavementVertical = dark steel vertical pavement
+ent-FloorTileItemDarkPavementVertical = тёмная стальная вертикальная тротуарная плитка
     .desc = { ent-FloorTileItemDark.desc }
-
-ent-FloorTileItemDarkSlatsContinuous = dark steel continuous slat tile
+ent-FloorTileItemDarkOffset = тёмная смещённая стальная плитка
     .desc = { ent-FloorTileItemDark.desc }
-
-ent-FloorTileItemDarkVerticalSlatsBordered = dark steel bordered vertical slat tile
-    .desc = { ent-FloorTileItemDark.desc }
-
-ent-FloorTileItemDarkHorizontalSlatsBordered = dark steel bordered horizontal slat tile
-    .desc = { ent-FloorTileItemDark.desc }
-
-ent-FloorTileItemDarkOffset = offset dark steel tile
-    .desc = { ent-FloorTileItemDark.desc }
-
-ent-FloorTileItemSteel = steel tile
+ent-FloorTileItemMetalDiamond = стальная плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemSteelOffset = offset steel tile
+ent-FloorTileItemSteelOffset = смещённая стальная плитка
     .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemSteelDiagonalMini = steel diagonal mini tile
+ent-FloorTileItemSteelDiagonalMini = стальная диагональная мини плитка
     .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemSteelDiagonal = steel diagonal tile
+ent-FloorTileItemSteelDiagonal = стальная диагональная плитка
     .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemSteelSlatsContinuous = steel continuous slat tile
+ent-FloorTileItemSteelHerringbone = стальная плитка ёлочкой
     .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemSteelVerticalSlatsBordered = steel vertical bordered slat tile
+ent-FloorTileItemSteelMini = стальная мини плитка
     .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemSteelHorizontalSlatsBordered = steel horizontal bordered slat tile
+ent-FloorTileItemSteelMono = стальная моно плита
     .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemSteelHerringbone = steel herringbone
+ent-FloorTileItemSteelPavement = стальная тротуарная плитка
     .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemSteelMini = steel mini tile
+ent-FloorTileItemSteelPavementVertical = стальная вертикальная тротуарная плитка
     .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemSteelMono = steel mono tile
-    .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemSteelPavement = steel pavement
-    .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemSteelPavementVertical = steel vertical pavement
-    .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemWhite = white tile
+ent-FloorTileItemWood = деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemWhiteOffset = offset white steel tile
+ent-FloorTileItemWhiteOffset = cмещённая белая стальная плитка
     .desc = { ent-FloorTileItemWhite.desc }
-
-ent-FloorTileItemWhiteDiagonalMini = white steel diagonal mini tile
+ent-FloorTileItemWhiteDiagonalMini = белая стальная диагональная мини плитка
     .desc = { ent-FloorTileItemWhite.desc }
-
-ent-FloorTileItemWhiteDiagonal = white steel diagonal tile
+ent-FloorTileItemWhiteDiagonal = белая стальная диагональная плитка
     .desc = { ent-FloorTileItemWhite.desc }
-
-ent-FloorTileItemWhiteHerringbone = white steel herringbone
+ent-FloorTileItemWhiteHerringbone = белая стальная плитка ёлочкой
     .desc = { ent-FloorTileItemWhite.desc }
-
-ent-FloorTileItemWhiteMini = white steel mini tile
+ent-FloorTileItemWhiteMini = белая стальная мини плитка
     .desc = { ent-FloorTileItemWhite.desc }
-
-ent-FloorTileItemWhiteMono = white steel mono tile
+ent-FloorTileItemWhiteMono = белая стальная моно плита
     .desc = { ent-FloorTileItemWhite.desc }
-
-ent-FloorTileItemWhitePavement = white steel pavement
+ent-FloorTileItemWhitePavement = белая стальная тротуарная плитка
     .desc = { ent-FloorTileItemWhite.desc }
-
-ent-FloorTileItemWhitePavementVertical = white steel vertical pavement
+ent-FloorTileItemWhitePavementVertical = белая стальная вертикальная тротуарная плитка
     .desc = { ent-FloorTileItemWhite.desc }
-
-ent-FloorTileItemWhiteVerticalSlatsBordered = white steel vertical bordered slat tile
-    .desc = { ent-FloorTileItemWhite.desc }
-
-ent-FloorTileItemWhiteSlatsContinuous = white steel continuous slat tile
-    .desc = { ent-FloorTileItemWhite.desc }
-
-ent-FloorTileItemWhiteHorizontalSlatsBordered = white steel horizontal bordered slat tile
-    .desc = { ent-FloorTileItemWhite.desc }
-
-ent-FloorTileItemMetalDiamond = steel tile
+ent-FloorTileItemWhite = белая плитка
+    .desc = { ent-FloorTileItemBase.desc }
+ent-FloorTileItemDark = тёмная плитка
+    .desc = { ent-FloorTileItemBase.desc }
+ent-FloorTileItemTechmaint = технический пол
+    .desc = { ent-FloorTileItemBase.desc }
+ent-FloorTileItemTechmaintDark = тёмный технический пол
     .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemWood = wood floor
+ent-FloorTileItemMono = моно плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemTechmaint = techmaint floor
-    .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemTechmaintDark = dark techmaint floor
-    .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemMono = mono tile
+ent-FloorTileItemLino = линолеум
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemLino = linoleum floor
+ent-FloorTileItemBrassFilled = заполненная латунная плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemBrassFilled = filled brass plate
+ent-FloorTileItemBrassReebe = гладкая латунная плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemBrassReebe = smooth brass plate
+ent-FloorTileItemDirty = грязная плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemDirty = dirty tile
+ent-FloorTileItemElevatorShaft = плитка шахты лифта
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemElevatorShaft = elevator shaft tile
-    .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemRockVault = rock vault tile
+ent-FloorTileItemRockVault = каменная плитка хранилища
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemBlue = blue tile
+ent-FloorTileItemBlue = голубая плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemLime = lime tile
+ent-FloorTileItemLime = лаймовая плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemMining = mining tile
+ent-FloorTileItemMining = шахтёрская плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemMiningDark = dark mining tile
-    .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemMiningLight = light mining tile
-    .desc = { ent-FloorTileItemSteel.desc }
-
-ent-FloorTileItemFreezer = freezer tile
+ent-FloorTileItemMiningDark = тёмная шахтёрская плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemShowroom = showroom tile
+ent-FloorTileItemMiningLight = светлая шахтёрская плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemHydro = hydro tile
+ent-FloorTileItemFreezer = плитка морозильника
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemBar = bar tile
+ent-FloorTileItemShowroom = плитка выставочного зала
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemClown = clown tile
+ent-FloorTileItemHydro = гидро плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemMime = mime tile
+ent-FloorTileItemBar = барная плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemKitchen = kitchen tile
+ent-FloorTileItemClown = плитка клоуна
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemLaundry = laundry tile
+ent-FloorTileItemMime = плитка мима
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemConcrete = concrete tile
+ent-FloorTileItemKitchen = кухонная плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemConcreteMono = concrete mono tile
+ent-FloorTileItemLaundry = плитка прачечной
+    .desc = { ent-FloorTileItemBase.desc }
+ent-FloorTileItemConcrete = бетонная плитка
+    .desc = { ent-FloorTileItemBase.desc }
+ent-FloorTileItemConcreteMono = бетонная плита
     .desc = { ent-FloorTileItemConcrete.desc }
-
-ent-FloorTileItemConcreteSmooth = concrete smooth
+ent-FloorTileItemConcreteSmooth = бетонный пол
     .desc = { ent-FloorTileItemConcrete.desc }
-
-ent-FloorTileItemGrayConcrete = gray concrete tile
+ent-FloorTileItemGrayConcrete = серая бетонная плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemGrayConcreteMono = gray concrete mono tile
+ent-FloorTileItemGrayConcreteMono = серая бетонная плита
     .desc = { ent-FloorTileItemGrayConcrete.desc }
-
-ent-FloorTileItemGrayConcreteSmooth = gray concrete smooth
+ent-FloorTileItemGrayConcreteSmooth = серый бетонный пол
     .desc = { ent-FloorTileItemGrayConcrete.desc }
-
-ent-FloorTileItemOldConcrete = old concrete tile
+ent-FloorTileItemOldConcrete = старая бетонная плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemOldConcreteMono = old concrete mono tile
+ent-FloorTileItemOldConcreteMono = старая бетонная плита
     .desc = { ent-FloorTileItemOldConcrete.desc }
-
-ent-FloorTileItemOldConcreteSmooth = old concrete smooth
+ent-FloorTileItemOldConcreteSmooth = старый бетонный пол
     .desc = { ent-FloorTileItemOldConcrete.desc }
-
-ent-FloorTileItemArcadeBlue = blue arcade floor
+ent-FloorTileItemArcadeBlue = синий пол аркады
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemArcadeBlue2 = blue arcade floor
+ent-FloorTileItemArcadeBlue2 = синий пол аркады
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemArcadeRed = red arcade floor
+ent-FloorTileItemArcadeRed = красный пол аркады
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemEighties = eighties floor
+ent-FloorTileItemEighties = пол восьмидесятых
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemCarpetClown = clown carpet floor
+ent-FloorTileItemCarpetClown = клоунский ковёр
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemCarpetOffice = office carpet floor
+ent-FloorTileItemCarpetOffice = офисный ковёр
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemBoxing = boxing ring floor
+ent-FloorTileItemBoxing = пол боксёрского ринга
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemGym = gym floor
+ent-FloorTileItemGym = пол спортзала
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemShuttleWhite = white shuttle floor
+ent-FloorTileItemShuttleWhite = белый пол шаттла
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemShuttleBlue = blue shuttle floor
+ent-FloorTileItemShuttleBlue = синий пол шаттла
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemShuttleOrange = orange shuttle floor
+ent-FloorTileItemShuttleOrange = оранжевый пол шаттла
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemShuttlePurple = purple shuttle floor
+ent-FloorTileItemShuttlePurple = фиолетовый пол шаттла
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemShuttleRed = red shuttle floor
+ent-FloorTileItemShuttleRed = красный пол шаттла
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemShuttleGrey = grey shuttle floor
+ent-FloorTileItemShuttleGrey = серый пол шаттла
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemShuttleBlack = black shuttle floor
+ent-FloorTileItemShuttleBlack = чёрный пол шаттла
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemGold = gold floor
+ent-FloorTileItemGold = золотая плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemSilver = silver tile
+ent-FloorTileItemSilver = серебряная плитка
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemGCircuit = green circuit floor
+ent-FloorTileItemGCircuit = плитка зелёных микросхем
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemBCircuit = blue circuit floor
+ent-FloorTileItemBCircuit = плитка голубых микросхем
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemRCircuit = red circuit floor
+ent-FloorTileItemRCircuit = плитка красных микросхем
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemGrass = grass tile
+ent-FloorTileItemGCircuit4 = { ent-FloorTileItemGCircuit }
+    .suffix = 4
+    .desc = { ent-FloorTileItemGCircuit.desc }
+ent-FloorTileItemBCircuit4 = { ent-FloorTileItemBCircuit }
+    .suffix = 4
+    .desc = { ent-FloorTileItemBCircuit.desc }
+ent-FloorTileItemRCircuit4 = { ent-FloorTileItemRCircuit }
+    .suffix = 4
+    .desc = { ent-FloorTileItemRCircuit.desc }
+ent-FloorTileItemGrass = плитка травы
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemGrassJungle = jungle grass tile
+ent-FloorTileItemGrassJungle = плитка травы джунглей
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemSnow = snow tile
+ent-FloorTileItemSnow = плитка снега
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemWoodPattern = wood pattern floor
+ent-FloorTileItemWoodPattern = деревянный узорчатый пол
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemFlesh = flesh floor
+ent-FloorTileItemFlesh = пол из плоти
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemSteelMaint = steel maint floor
+ent-FloorTileItemSteelMaint = стальной технический пол
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemGratingMaint = grating maint floor
+ent-FloorTileItemGratingMaint = решётчатый технический пол
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemWeb = web tile
+ent-FloorTileItemWeb = паутинный пол
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemAstroGrass = astro-grass
-    .desc = Fake grass that covers up wires and even comes with realistic NanoTrimmings!
-
-ent-FloorTileItemMowedAstroGrass = mowed astro-grass
-    .desc = Fake grass that covers up wires and even comes with realistic NanoTrimmings!
-
-ent-FloorTileItemJungleAstroGrass = jungle astro-grass
-    .desc = Fake grass that covers up wires and even comes with realistic NanoTrimmings!
-
-ent-FloorTileItemDarkAstroGrass = dark astro-grass
-    .desc = Fake grass that covers up wires and even comes with realistic NanoTrimmings!
-
-ent-FloorTileItemLightAstroGrass = light astro-grass
-    .desc = Fake grass that covers up wires and even comes with realistic NanoTrimmings!
-
-ent-FloorTileItemAstroIce = astro-ice
-    .desc = Fake ice that's as slippery as the real thing, while being easily removable!
-
-ent-FloorTileItemAstroSnow = astro-snow
-    .desc = Fake snow that's as fluffy as the real thing, while being easily removable!
-
-ent-FloorTileItemAstroAsteroidSand = asteroid astro-sand
-    .desc = Fake sand. Luckily, it's not as coarse as the real thing.
-
-ent-FloorTileItemAstroAsteroidSandBorderless = borderless asteroid astro-sand
-    .desc = Fake sand. Luckily, it's not as coarse as the real thing.
-
-ent-FloorTileItemDesertAstroSand = desert astro-sand
-    .desc = Fake sand, designed to be fine.
-
-ent-FloorTileItemWoodLarge = large wood floor
+ent-FloorTileItemAstroGrass = астро-трава
+    .desc = Искусственная трава, отлично прячущая провода, поставляется с реалистичными НаноТравинками!
+ent-FloorTileItemMowedAstroGrass = астро-газон
+    .desc = Искусственная трава, отлично прячущая провода, поставляется с реалистичными НаноТравинками!
+ent-FloorTileItemJungleAstroGrass = астро-трава джунглей
+    .desc = Искусственная трава, отлично прячущая провода, поставляется с реалистичными НаноТравинками!
+ent-FloorTileItemAstroIce = астро-лёд
+    .desc = Искусственный лёд, такой же скользкий, как настоящий, и при этом легко снимается!
+ent-FloorTileItemAstroSnow = астро-снег
+    .desc = Искусственный снег, такой же пушистый, как настоящий, и при этом легко снимается!
+ent-FloorTileItemAstroAsteroidSand = астро-песок астероида
+    .desc = Искусственный песок. К счастью, он не такой крупнозернистый, как настоящий.
+ent-FloorTileItemAstroAsteroidSandBorderless = безграничный астро-песок астероида
+    .desc = Искусственный песок. К счастью, он не такой крупнозернистый, как настоящий.
+ent-FloorTileItemWoodLarge = большой деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemWhiteMarble = white marble tile
-    .desc = A chiseled, polished square of the finest Space Marble. Best not to lose it.
-
-ent-FloorTileItemDarkMarble = dark marble tile
-    .desc = A chiseled, polished square of the finest Space Marble. Best not to lose it.
-
-ent-FloorTileItemPlasmaMarble = plasmarble tile
-    .desc = A chiseled, polished square of the finest Space Marble. Plasma-infused for extra... something.
-
-ent-FloorTileItemUraniumMarble = uranium marble tile
-    .desc = A chiseled, polished square of the finest Space Marble. Uranium-infused to make it extra rad! Pun intended!
-
-ent-FloorTileItemXeno = xeno floor
-    .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemXenoSteel = xeno steel floor
-    .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemXenoSteelCorner = xeno steel corner floor
-    .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemXenoMaint = xeno techmaint floor
-    .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemXenoborg = xenoborg floor
-    .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemDarkSquiggly = dark steel squiggly tile
-    .desc = { ent-FloorTileItemDark.desc }
+ent-FloorTileItemWhiteMarble = плитка белого мрамора
+    .desc = Вырезанный и отполированный квадрат из лучшего космического мрамора. Лучше не терять.
+ent-FloorTileItemDarkMarble = плитка тёмного мрамора
+    .desc = Вырезанный и отполированный квадрат из лучшего космического мрамора. Лучше не терять.
+ent-FloorTileItemPlasmaMarble = плитка плазма мрамора
+    .desc = Вырезанный и отполированный квадрат из лучшего космического мрамора. Пропитан плазмой для дополнительного... чего-то там.
+ent-FloorTileItemUraniumMarble = плитка уранового мрамора
+    .desc = Вырезанный и отполированный квадрат из лучшего космического мрамора. Пропитан ураном для максимальной крутости!

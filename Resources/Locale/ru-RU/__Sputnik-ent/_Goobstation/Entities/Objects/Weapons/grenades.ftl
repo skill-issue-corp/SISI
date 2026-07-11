@@ -1,2 +1,2 @@
-ent-SarinGasGrenade = sarin gas grenade
-    .desc = A brutal neurotoxin gas grenade that stuns, blinds, and poisons anybody unlucky enough to catch a whiff aswell as burning anyone not in a voidsuit.
+ent-SarinGasGrenade = граната с газом зарин
+    .desc = Жестокий нейротоксин, который оглушает, слепит и отравляет любого, кому не повезло вдохнуть его, а также обжигает тех, кто не в противогазе.

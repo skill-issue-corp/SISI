@@ -1,19 +1,14 @@
-ent-BaseDefibrillator = defibrillator
-    .desc = CLEAR! Zzzzat!
-
-ent-Defibrillator = { ent-BaseManualDefibrillator }
-    .desc = { ent-BaseManualDefibrillator.desc }
-
-ent-DefibrillatorEmpty = { ent-Defibrillator }
-    .desc = { ent-Defibrillator.desc }
-    .suffix = Empty
-
-ent-DefibrillatorOneHandedUnpowered = { ent-BaseDefibrillator }
+ent-BaseDefibrillator = дефибриллятор
+    .desc = ЧИСТО! РАЗРЯД!
+ent-Defibrillator = { ent-BaseDefibrillator }
     .desc = { ent-BaseDefibrillator.desc }
-    .suffix = One-Handed, Always Powered
-
-ent-DefibrillatorCompact = auto defibrillator
-    .desc = An automatic defibrillator, capable of auto-stabilisating the patient on use. Now in fun size!
-
-ent-DefibrillatorSyndicate = interdyne defibrillator
-    .desc = Doubles as a self-defense weapon against war-crime inclined tiders. Has lower charge-up rate and auto-stabilises to the BPM of the patient.
+ent-DefibrillatorEmpty = { ent-Defibrillator }
+    .suffix = Пустой
+    .desc = { ent-Defibrillator.desc }
+ent-DefibrillatorOneHandedUnpowered = { ent-BaseDefibrillator }
+    .suffix = Одноручный, Не требует питания
+    .desc = { ent-BaseDefibrillator.desc }
+ent-DefibrillatorCompact = компактный дефибриллятор
+    .desc = Теперь и в весёлом размере!
+ent-DefibrillatorSyndicate = дефибриллятор Interdyne
+    .desc = Так же служит оружием самообороны против склонных к военным преступлениям тайдеров.

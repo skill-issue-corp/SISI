@@ -1,65 +1,42 @@
-ent-MobSlimeXenobioBabyGrey = grey slime
+ent-MobSlimeXenobioBabyGrey = серый слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyGreySpawner = grey slime spawner
-    .desc = { "" }
-
-ent-MobSlimeXenobioBabyOrange = orange slime
+ent-MobSlimeXenobioBabyOrange = оранжевый слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyPurple = purple slime
+ent-MobSlimeXenobioBabyPurple = фиолетовый слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyBlue = blue slime
+ent-MobSlimeXenobioBabyBlue = синий слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyMetal = metal slime
+ent-MobSlimeXenobioBabyMetal = металлический слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyYellow = yellow slime
+ent-MobSlimeXenobioBabyYellow = жёлтый слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyDarkPurple = dark purple slime
+ent-MobSlimeXenobioBabyDarkPurple = тёмно-фиолетовый слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyDarkBlue = dark blue slime
+ent-MobSlimeXenobioBabyDarkBlue = тёмно-синий слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabySilver = silver slime
+ent-MobSlimeXenobioBabySilver = серебрянный слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyBluespace = bluespace slime
+ent-MobSlimeXenobioBabyBluespace = блюспейс слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabySepia = sepia slime
+ent-MobSlimeXenobioBabySepia = сепия слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyCerulean = cerulean slime
+ent-MobSlimeXenobioBabyCerulean = лазурный слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyPyrite = pyrite slime
+ent-MobSlimeXenobioBabyPyrite = пиритовый слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyRed = red slime
+ent-MobSlimeXenobioBabyRed = красный слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyGreen = green slime
+ent-MobSlimeXenobioBabyGreen = зелёный слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyPink = pink slime
+ent-MobSlimeXenobioBabyPink = розовый слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyGold = gold slime
+ent-MobSlimeXenobioBabyGold = золотой слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyOil = oil slime
+ent-MobSlimeXenobioBabyOil = маслянный слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyLightPink = light pink slime
+ent-MobSlimeXenobioBabyLightPink = светло-розовый слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyBlack = black slime
+ent-MobSlimeXenobioBabyBlack = чёрный слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
-
-ent-MobSlimeXenobioBabyAdamantine = adamantite slime
+ent-MobSlimeXenobioBabyAdamantine = адамантиевый слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }

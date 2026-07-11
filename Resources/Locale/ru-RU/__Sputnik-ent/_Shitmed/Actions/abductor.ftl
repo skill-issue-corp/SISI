@@ -1,11 +1,6 @@
-ent-ActionExitConsole = Exit console
-    .desc = Exit console.
-
-ent-ActionSendYourself = Send yourself
-    .desc = You need to FTL to the same map as the station to use this ability!
-
-ent-ActionReturnToShip = return
-    .desc = return to the ship.
-
-ent-ActionSendPad = Send from pad
-    .desc = Teleport whoever is attached to the alien pad to the target location.
+ent-ActionExitConsole = Выйти
+    .desc = Закрыть интерфейс консоли.
+ent-ActionSendYourself = Отправить себя
+    .desc = Тебе нужно быть на одном секторе вместе со станцией что бы попасть на нее.
+ent-ActionReturnToShip = Вернуться
+    .desc = Вернуться на шаттл.

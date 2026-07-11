@@ -1,20 +1,14 @@
-ent-ActionHereticCosmicRune = Cosmic Rune
-    .desc = Creates a cosmic rune at your position, only two can exist at a time. Invoking one rune transports you to the other. Anyone with a star mark gets transported along with you.
-
-ent-ActionHereticStarTouch = Star Touch
-    .desc = Can be used to apply a star mark to a target. If your victim is already star marked, tethers you to your target with a cosmic ray. If the tether remains unbroken for 8 seconds, they will be put to sleep and teleported to you. Star Touch can also remove Cosmic Runes, or teleport you to your Star Gazer when used in hand.
-
-ent-ActionHereticStarBlast = Star Blast
-    .desc = This spell fires an unstoppable disk with cosmic energies at a target, spreading the star mark. When recasted, you will be teleported to the disk, and cosmic fields will generate from the disk and from the caster, pulling nearby heathens into it.
-
-ent-ActionHereticCosmicExpansion = Cosmic Expansion
-    .desc = This spell generates a 5x5 domain of cosmic fields. Creatures up to 7 tiles away will also receive a star mark.
-
-ent-ActionStarGaze = Star Gaze
-    .desc = Generates a massive death beam that eradicates everything in it's path. Has it's own gravitational pull, sucking in new victims.
-
-ent-ActionResetStarGazerConsciousness = Reset Star Gazer Consciousness
-    .desc = Replaces the mind of your summon with that of a different ghost.
-
-ent-ActionStarGazerSeekMaster = Seek Master
-    .desc = Teleports you to your master.
+ent-ActionHereticCosmicRune = Космическая руна
+    .desc = Создаёт космическую руну на вашей позиции. Одновременно могут существовать только две. Активация одной руны телепортирует вас к другой. Любой, кто имеет звёздную метку, будет перемещён вместе с вами.
+ent-ActionHereticStarTouch = Звёздное прикосновение
+    .desc = Можно использовать, чтобы наложить звёздную метку на цель. Если жертва уже помечена, вы связываетесь с ней космическим лучом. Если связь не прервётся в течение 8 секунд, цель уснёт и будет телепортирована к вам. "Звёздное прикосновение" также может удалять космические руны или телепортировать вас к вашему Звёздному Наблюдателю, если использовать его в руке.
+ent-ActionHereticStarBlast = Сверхновая
+    .desc = Это заклинание выпускает неудержимый снаряд, наполненный космической энергией, в цель, распространяя звёздную метку. При повторном применении вы телепортируетесь к снаряду, а космические поля вырываются из диска и из заклинателя, затягивая в них ближайших нечестивых.
+ent-ActionHereticCosmicExpansion = Космическая экспансия
+    .desc = Это заклинание создаёт область из космических полей размером 5x5. Существа в радиусе до 7-ми клеток также получают звёздную метку.
+ent-ActionStarGaze = Звёздный Наблюдатель
+    .desc = Создаёт массивный луч смерти, уничтожающий всё на своём пути. Имеет собственное гравитационное притяжение, втягивая в себя новых жертв.
+ent-ActionResetStarGazerConsciousness = Сбросить сознание Звёздного Наблюдателя
+    .desc = Заменяет разум вашего Звёздного Наблюдателя на разум другого игрока.
+ent-ActionStarGazerSeekMaster = Найти Мастера
+    .desc = Телепортирует вас к хозяину.

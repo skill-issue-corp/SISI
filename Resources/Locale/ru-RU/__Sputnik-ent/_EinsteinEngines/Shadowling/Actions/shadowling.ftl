@@ -1,62 +1,42 @@
-ent-ActionHatch = Hatch
-    .desc = Engages the hatching progress, there is no going back after this and you will be vulnrable for a while.
-
-ent-ActionEnthrall = Enthrall
-    .desc = Shatters their will, forging a thrall, not strong enough to affect mindshielded individuals or enslaved AI.
-
-ent-ActionGlare = Glare
-    .desc = A dark glare that stuns, silences, and slows a single target.
-
-ent-ActionVeil = Veil
-    .desc = A pulse of darkness that destroys electrical lights in a large area.
-
-ent-ActionRapidRehatch = Rapid Re-Hatch
-    .desc = Shed your broken flesh, and rise whole once more.
-
-ent-ActionShadowWalk = Shadow Walk
-    .desc = Step into the void, moving unseen and unhindered.
-
-ent-ActionIcyVeins = Icy Veins
-    .desc = Disarms and freezes nearby creatures in an area around you.
-
-ent-ActionDestroyEngines = Destroy Engines
-    .desc = Destroy the engines of the evacuation shuttle. Delays the shuttle by 10 minutes.
-
-ent-ActionCollectiveMind = Collective Mind
-    .desc = Harvest the minds of your Thralls, and gain various abilities.
-
-ent-ActionBlindnessSmoke = Blindness Smoke
-    .desc = Heal your kind, and blind anyone who dares enter your mist.
-
-ent-ActionNullCharge = Null Charge
-    .desc = Stand near an APC and overload it with a surge of nullifying force.
-
-ent-ActionSonicScreech = Sonic Screech
-    .desc = Release a violent scream that disorients all who hear it.
-
-ent-ActionBlackRecuperation = Black Recuperation
-    .desc = Bring back a dead Thrall to life, or empower a living one. You'll reduce your resistance to light by using it.
-
-ent-ActionEmpoweredEnthrall = Empowered Enthrall
-    .desc = Shatters their will, forging a Thrall. Faster and stronger, enough to bypass mindshields.
-
-ent-ActionNoxImperii = Nox Imperii
-    .desc = Become immune to that which you fear the most. Light.
-
-ent-ActionAscendance = Ascendance
-    .desc = Forge your ascension egg and walk the path of a god, your thralls will need to defend the egg for a long time; be prepared.
-
-ent-ActionAnnihilate = Annihilate
-    .desc = Blow them to bits of flesh.
-
-ent-ActionHypnosis = Hypnosis
-    .desc = Make anyone a Thrall, at a moment's notice.
-
-ent-ActionPlaneShift = Plane Shift
-    .desc = Phase through anything, whenever you desire.
-
-ent-ActionLightningStorm = Lightning Storm
-    .desc = Spawn a ball of wrath, electrocuting everyone near you.
-
-ent-ActionAscendantBroadcast = Ascendant Broadcast
-    .desc = Send a very hard to miss message to everyone.
+ent-ActionHatch = Вылупиться
+    .desc = Запускает процесс вылупления. Действует безвозвратно, и некоторое время вы будете уязвимы.
+ent-ActionEnthrall = Подчинение
+    .desc = Ломает волю, превращая существо в Тралла. Не действует на тех, у кого есть щит разума, или на боргов.
+ent-ActionGlare = Взор
+    .desc = Тёмный взгляд, который оглушает, лишая возможности говорить и замедляет одну цель.
+ent-ActionVeil = Пелена
+    .desc = Импульс тьмы, уничтожающий электрические источники света на большом расстоянии.
+ent-ActionRapidRehatch = Феникс
+    .desc = Сбросьте своё изломанное тело и восстаньте вновь целым.
+ent-ActionShadowWalk = Теневой шаг
+    .desc = Войдите в пустоту, становясь невидимым и неуловимым.
+ent-ActionIcyVeins = Лёд по венам
+    .desc = Разоружает и замораживает существ вокруг вас.
+ent-ActionDestroyEngines = Уничтожить двигатели
+    .desc = Уничтожает двигатели эвакуационного шаттла. Задерживает шаттл на 10 минут.
+ent-ActionCollectiveMind = Коллективный разум
+    .desc = Поглощает разумы ваших Траллов и даёт вам различные способности.
+ent-ActionBlindnessSmoke = Ослепляющий туман
+    .desc = Исцеляет ваших сородичей и ослепляет любого, кто осмелится войти в туман.
+ent-ActionNullCharge = Перегруз
+    .desc = Встаньте рядом с ЛКП и перегрузите его потоком нейтрализующей силы.
+ent-ActionSonicScreech = Визг
+    .desc = Извергает яростный визг, дезориентирующий всех, кто его услышит.
+ent-ActionBlackRecuperation = Восстановление
+    .desc = Возвращает мёртвого Тралла к жизни или усиливает живого. Использование снижает вашу устойчивость к свету.
+ent-ActionEmpoweredEnthrall = Порабощение
+    .desc = Ломает волю, превращая в Тралла. Быстрее и сильнее, действует даже на тех, кто защищён щитом разума.
+ent-ActionNoxImperii = Пустота
+    .desc = Станьте невосприимчивы к тому, чего боитесь больше всего — к свету.
+ent-ActionAscendance = Вознесение
+    .desc = Создайте кокон вознесения и ступите на путь божества. Ваши Траллы должны будут долго защищать кокон. Обязательно подготовьтесь.
+ent-ActionAnnihilate = Уничтожение
+    .desc = Разрывает тела в клочья.
+ent-ActionHypnosis = Гипноз
+    .desc = Мгновенно превращает любого в Тралла.
+ent-ActionPlaneShift = Квантовый сдвиг
+    .desc = Проходите сквозь любые преграды когда пожелаете.
+ent-ActionLightningStorm = Грозовой шар
+    .desc = Создаёт грозовой шар, поражающий электричеством всех вокруг.
+ent-ActionAscendantBroadcast = Возвать
+    .desc = Посылает всем крайне заметное сообщение.

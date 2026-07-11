@@ -1,53 +1,36 @@
-ent-VoidPortalBase = Harbinger portal
+ent-VoidPortalBase = портал Глашатая
     .desc = { "" }
-
-ent-VoidPortalEmpty = Harbinger portal
+ent-VoidPortalEmpty = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalSkeletonGoonWraith = Harbinger portal
+ent-VoidPortalSkeletonGoonWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalCrunchedWraith = Harbinger portal
+ent-VoidPortalCrunchedWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalShadeWraith = Harbinger portal
+ent-VoidPortalShadeWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalMonstrosityHeadWraith = Harbinger portal
+ent-VoidPortalMonstrosityHeadWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalMonstrosityBodyWraith = Harbinger portal
+ent-VoidPortalMonstrosityBodyWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalLionWraith = Harbinger portal
+ent-VoidPortalLionWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalAncientRepairBotWraith = Harbinger portal
+ent-VoidPortalAncientRepairBotWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalAncientGuardBotWraith = Harbinger portal
+ent-VoidPortalAncientGuardBotWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalAncientRobot1Wraith = Harbinger portal
+ent-VoidPortalAncientRobot1Wraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalAncientRobot2Wraith = Harbinger portal
+ent-VoidPortalAncientRobot2Wraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalAncientRobot3Wraith = Harbinger portal
+ent-VoidPortalAncientRobot3Wraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalAncientLegsWraith = Harbinger portal
+ent-VoidPortalAncientLegsWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalBearGoonWraith = Harbinger portal
+ent-VoidPortalBearGoonWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalBrullbarWraith = Harbinger portal
+ent-VoidPortalBrullbarWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalBGunbotWraith = Harbinger portal
+ent-VoidPortalBGunbotWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }
-
-ent-VoidPortalNukebotWraith = Harbinger portal
+ent-VoidPortalNukebotWraith = портал Глашатая
     .desc = { ent-VoidPortalBase.desc }

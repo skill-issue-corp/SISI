@@ -1,2 +1,4 @@
-ent-ComputerNTRTasks = NTR tasks computer
-    .desc = A terminal providing access to NanoNet missions. Your loyalty will be rewarded — complete tasks, accumulate loyalty points, and spend them on exclusive NTR privileges.
+ent-ComputerNTRTasks = консоль заданий ПNT
+    .desc = Терминал, предоставляющий доступ к миссиям Представителя NanoTrasen. Ваша преданность будет вознаграждена. Выполняйте задания, копите очки лояльности и тратьте их на эксклюзивные привилегии ПNT.
+ent-ComputerContractor = консоль-аплинк наёмника
+    .desc = Терминал, предоставляющий доступ к магазину Гильдии. Потратьте свои заработанные потом и кровью ТК на эксклюзивную экипировку и улучшения для повышения качества оказываемых вами фриланс услуг.

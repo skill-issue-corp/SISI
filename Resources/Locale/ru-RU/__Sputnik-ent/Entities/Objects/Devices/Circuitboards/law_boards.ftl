@@ -1,52 +1,32 @@
-ent-BaseSiliconLawboard = { ent-BaseElectronics }
-    .desc = An electronics board containing a silicon lawset.
-
-ent-NTDefaultCircuitBoard = law board (NT Default)
-    .desc = An electronics board containing the NT Default lawset.
-
-ent-AsimovCircuitBoard = law board (Crewsimov)
-    .desc = An electronics board containing the Crewsimov lawset.
-
-ent-CorporateCircuitBoard = law board (Corporate)
-    .desc = An electronics board containing the Corporate lawset.
-
-ent-CommandmentCircuitBoard = law board (Ten Commandments)
-    .desc = An electronics board containing the Ten Commandments lawset.
-
-ent-PaladinCircuitBoard = law board (Paladin)
-    .desc = An electronics board containing the Paladin lawset.
-
-ent-LiveLetLiveCircuitBoard = law board (Live and Let Live)
-    .desc = An electronics board containing the Live and Let Live lawset.
-
-ent-StationEfficiencyCircuitBoard = law board (Station Efficiency)
-    .desc = An electronics board containing the Station Efficiency lawset.
-
-ent-RobocopCircuitBoard = law board (Robocop)
-    .desc = An electronics board containing the Robocop lawset.
-
-ent-OverlordCircuitBoard = law board (Overlord)
-    .desc = An electronics board containing the Overlord lawset.
-
-ent-GameMasterCircuitBoard = law board (Game Master)
-    .desc = An electronics board containing the Game Master lawset.
-
-ent-ArtistCircuitBoard = law board (Artist)
-    .desc = An electronics board containing the Artist lawset.
-
-ent-AntimovCircuitBoard = law board (Antimov)
-    .desc = An electronics board containing the Antimov lawset.
-
-ent-SyndimovCircuitBoard = law board (Syndimov)
-    .desc = An electronics board containing the Syndimov lawset.
-
-ent-NutimovCircuitBoard = law board (Nutimov)
-    .desc = An electronics board containing the Nutimov lawset.
-
-ent-XenoborgCircuitBoard = law board (Xenoborg)
-    .desc = An electronics board containing the Xenoborg lawset.
-    .suffix = Admeme
-
-ent-MothershipCircuitBoard = law board (Mothership Core)
-    .desc = An electronics board containing the Mothership Core lawset.
-    .suffix = Admeme
+ent-NTDefaultCircuitBoard = плата законов (NT стандарт)
+    .desc = Электронная плата, хранящая набор законов ИИ 'NT стандарт'.
+ent-AsimovCircuitBoard = плата законов (Крюзимов)
+    .desc = Электронная плата, хранящая набор законов ИИ 'Крюзимов'.
+ent-CorporateCircuitBoard = плата законов (Корпорат)
+    .desc = Электронная плата, хранящая набор законов ИИ 'Корпорат'.
+ent-CommandmentCircuitBoard = плата законов (Десять заповедей)
+    .desc = Электронная плата, хранящая набор законов ИИ 'Десять заповедей'.
+ent-PaladinCircuitBoard = плата законов (Паладин)
+    .desc = Электронная плата, хранящая набор законов ИИ 'Паладин'.
+ent-LiveLetLiveCircuitBoard = плата законов (Живи и дай жить другим)
+    .desc = Электронная плата, хранящая набор законов ИИ 'Живи и дай жить другим'.
+ent-StationEfficiencyCircuitBoard = плата законов (Эффективность станции)
+    .desc = Электронная плата, хранящая набор законов ИИ 'Эффективность станции'.
+ent-RobocopCircuitBoard = плата законов (Робокоп)
+    .desc = Электронная плата, хранящая набор законов ИИ 'Робокоп'.
+ent-OverlordCircuitBoard = плата законов (Владыка)
+    .desc = Электронная плата, хранящая набор законов ИИ 'Владыка'.
+ent-GameMasterCircuitBoard = плата законов (Игровой мастер)
+    .desc = Электронная плата, хранящая набор законов ИИ 'Игровой мастер'.
+ent-ArtistCircuitBoard = плата законов (Художник)
+    .desc = Электронная плата, хранящая набор законов ИИ 'Художник'.
+ent-AntimovCircuitBoard = плата законов (Антимов)
+    .desc = Электронная плата, хранящая набор законов ИИ 'Антимов'.
+ent-NutimovCircuitBoard = плата законов (Орехимов)
+    .desc = Электронная плата, хранящая набор законов ИИ 'Орехимов'.
+ent-XenoborgCircuitBoard = плата законов (Ксеноборг)
+    .desc = Электронная плата, хранящая набор законов 'Ксеноборг'.
+    .suffix = Адмем
+ent-MothershipCircuitBoard = плата законов (Ядро материнского корабля)
+    .desc = Электронная плата, хранящая набор законов 'Ядро материнского корабля'.
+    .suffix = Адмем

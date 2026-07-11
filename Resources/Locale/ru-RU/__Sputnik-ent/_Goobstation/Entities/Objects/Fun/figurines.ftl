@@ -1,5 +1,4 @@
-ent-ToyFigurineDevil = demon figure
-    .desc = A figurine depicting a Demon sporting a freshly tailored suit.
-
-ent-ToyFigurineBrigmedic = brigmedic figurine
-    .desc = A figurine depicting a Brigmedic holding a combat medkit, poised to pois... treat prisoners.
+ent-ToyFigurineDevil = фигурка демона
+    .desc = Фигурка, изображающая демона в свежесшитом костюме.
+ent-ToyFigurineBrigmedic = фигурка бригмедика
+    .desc = Фигурка, изображающая бригмедика с боевой аптечкой, готового отрав... лечить заключенных.

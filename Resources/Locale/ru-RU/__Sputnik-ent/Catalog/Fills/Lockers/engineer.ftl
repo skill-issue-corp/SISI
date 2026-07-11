@@ -1,39 +1,30 @@
 ent-ClosetToolFilled = { ent-ClosetTool }
+    .suffix = Заполненный
     .desc = { ent-ClosetTool.desc }
-    .suffix = Filled
-
 ent-LockerElectricalSuppliesFilled = { ent-LockerElectricalSupplies }
+    .suffix = Заполненный
     .desc = { ent-LockerElectricalSupplies.desc }
-    .suffix = Filled
-
 ent-LockerWeldingSuppliesFilled = { ent-LockerWeldingSupplies }
+    .suffix = Заполненный
     .desc = { ent-LockerWeldingSupplies.desc }
-    .suffix = Filled
-
 ent-LockerAtmosphericsFilledHardsuit = { ent-LockerAtmospherics }
+    .suffix = Заполненный, Скафандр
     .desc = { ent-LockerAtmospherics.desc }
-    .suffix = Filled, Hardsuit
-
 ent-LockerAtmosphericsFilled = { ent-LockerAtmospherics }
+    .suffix = Заполненный
     .desc = { ent-LockerAtmospherics.desc }
-    .suffix = Filled
-
 ent-LockerEngineerFilledHardsuit = { ent-LockerEngineer }
+    .suffix = Заполненный, Скафандр
     .desc = { ent-LockerEngineer.desc }
-    .suffix = Filled, Hardsuit
-
 ent-LockerEngineerFilled = { ent-LockerEngineer }
+    .suffix = Заполненный
     .desc = { ent-LockerEngineer.desc }
-    .suffix = Filled
-
 ent-ClosetRadiationSuitFilled = { ent-ClosetRadiationSuit }
+    .suffix = Заполненный
     .desc = { ent-ClosetRadiationSuit.desc }
-    .suffix = Filled
-
 ent-LockerEvacRepairFilled = { ent-LockerEvacRepair }
+    .suffix = Заполненный
     .desc = { ent-LockerEvacRepair.desc }
-    .suffix = Filled
-
 ent-LockerWallEvacRepairFilled = { ent-LockerWallEvacRepair }
+    .suffix = Заполненный
     .desc = { ent-LockerWallEvacRepair.desc }
-    .suffix = Filled

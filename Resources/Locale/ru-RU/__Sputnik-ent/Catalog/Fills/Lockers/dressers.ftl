@@ -1,31 +1,24 @@
 ent-DresserCaptainFilled = { ent-Dresser }
+    .suffix = Заполненный, Капитан
     .desc = { ent-Dresser.desc }
-    .suffix = Filled, Captain
-
 ent-DresserChiefEngineerFilled = { ent-Dresser }
+    .suffix = Заполненный, Старший инженер
     .desc = { ent-Dresser.desc }
-    .suffix = Filled, Chief Engineer
-
 ent-DresserChiefMedicalOfficerFilled = { ent-Dresser }
+    .suffix = Заполненный, Главный врач
     .desc = { ent-Dresser.desc }
-    .suffix = Filled, Chief Medical Officer
-
 ent-DresserHeadOfPersonnelFilled = { ent-Dresser }
+    .suffix = Заполненный, Глава персонала
     .desc = { ent-Dresser.desc }
-    .suffix = Filled, Head Of Personnel
-
 ent-DresserHeadOfSecurityFilled = { ent-Dresser }
+    .suffix = Заполненный, Глава службы безопасности
     .desc = { ent-Dresser.desc }
-    .suffix = Filled, Head Of Security
-
 ent-DresserQuarterMasterFilled = { ent-Dresser }
+    .suffix = Заполненный, Квартирмейстер
     .desc = { ent-Dresser.desc }
-    .suffix = Filled, Quarter Master
-
 ent-DresserResearchDirectorFilled = { ent-Dresser }
+    .suffix = Заполненный, Научный руководитель
     .desc = { ent-Dresser.desc }
-    .suffix = Filled, Research Director
-
 ent-DresserWardenFilled = { ent-Dresser }
+    .suffix = Заполненный, Смотритель
     .desc = { ent-Dresser.desc }
-    .suffix = Filled, Warden

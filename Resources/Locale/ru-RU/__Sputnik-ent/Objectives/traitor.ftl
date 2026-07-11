@@ -1,83 +1,52 @@
 ent-BaseTraitorObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
-
 ent-BaseTraitorSocialObjective = { ent-BaseTraitorObjective }
     .desc = { ent-BaseTraitorObjective.desc }
-
 ent-BaseTraitorStealObjective = { ent-BaseTraitorObjective }
     .desc = { ent-BaseTraitorObjective.desc }
-
-ent-EscapeShuttleObjective = Escape to CentComm alive and unrestrained via the escape shuttle.
-    .desc = One of our undercover agents will debrief you when you arrive. Don't show up in cuffs.
-
-ent-DieObjective = Die a glorious death
-    .desc = Die.
-
-ent-HijackShuttleObjective = Hijack emergency shuttle
-    .desc = Leave on the shuttle free and clear of the loyal Nanotrasen crew on board. Use ANY methods available to you. Syndicate agents, Nanotrasen enemies, and handcuffed hostages may remain alive on the shuttle. Ignore assistance from anyone other than a support agent.
-
+ent-EscapeShuttleObjective = Улететь на ЦК живым и свободным.
+    .desc = Один из наших агентов под прикрытием допросит вас по прибытии. Не дайте себя арестовать.
+ent-DieObjective = Умереть славной смертью.
+    .desc = Умрите.
+ent-HijackShuttleObjective = Завладейте эвакуационным шаттлом
+    .desc = Улетите на шаттле свободным и без лояльного экипажа NanoTrasen на борту. Используйте ЛЮБЫЕ доступные вам методы. Агенты Синдиката, враги NanoTrasen и заложники в наручниках могут оставаться на шаттле живыми. Игнорируйте помощь от кого-либо, кроме агента поддержки.
 ent-KillRandomPersonObjective = { ent-BaseTraitorObjective }
-    .desc = Do it however you like, just make sure they don't get off the station.
-
+    .desc = Сделайте это, как посчитаете нужным. Только убедитесь, что цель не улетит на Центральное Командование.
 ent-KillRandomHeadObjective = { ent-BaseTraitorObjective }
-    .desc = We need this head gone and you probably know why. Make sure they don't make it to CentComm, even if they're dead. Good luck, agent.
-
-ent-KillStationAiObjective = { ent-BaseTraitorObjective }
-    .desc = Nanotrasen proudly boasts about their state of the art artificial intelligence. Remind them it's just another toy that can be broken.
-
+    .desc = Нам нужно, чтобы этот глава исчез, и вы, вероятно, знаете, почему. Удачи, агент.
+ent-RandomTraitorAliveObjective = { ent-BaseTraitorSocialObjective }
+    .desc = Раскрывать себя или нет — решайте сами. Нам нужно, чтобы он выжил.
 ent-RandomTraitorProgressObjective = { ent-BaseTraitorSocialObjective }
-    .desc = Identify yourself at your own risk. We just need them to succeed.
-
+    .desc = Раскрывать себя или нет — решайте сами. Нам нужно, чтобы он преуспел.
 ent-BaseCMOStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
 ent-CMOHyposprayStealObjective = { ent-BaseCMOStealObjective }
     .desc = { ent-BaseCMOStealObjective.desc }
-
 ent-BaseRDStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
 ent-RDHardsuitStealObjective = { ent-BaseRDStealObjective }
     .desc = { ent-BaseRDStealObjective.desc }
-
 ent-HandTeleporterStealObjective = { ent-BaseRDStealObjective }
     .desc = { ent-BaseRDStealObjective.desc }
-
 ent-BaseCEStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
-ent-MagbootsStealObjective = { ent-BaseCEStealObjective }
-    .desc = { ent-BaseCEStealObjective.desc }
-
-ent-ClipboardStealObjective = { ent-BaseTraitorStealObjective }
+ent-EnergyShotgunStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
+ent-MagbootsStealObjective = { ent-BaseTraitorStealObjective }
+    .desc = { ent-BaseTraitorStealObjective.desc }
 ent-KnuckleDustersStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
+ent-ClipboardStealObjective = { ent-BaseTraitorStealObjective }
+    .desc = { ent-BaseTraitorStealObjective.desc }
 ent-CorgiMeatStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
 ent-BaseCaptainObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
 ent-CaptainIDStealObjective = { ent-BaseCaptainObjective }
     .desc = { ent-BaseCaptainObjective.desc }
-
 ent-CaptainJetpackStealObjective = { ent-BaseCaptainObjective }
     .desc = { ent-BaseCaptainObjective.desc }
-
-ent-CaptainGunStealObjective = { ent-BaseCaptainObjective }
-    .desc = { ent-BaseCaptainObjective.desc }
-
 ent-NukeDiskStealObjective = { ent-BaseCaptainObjective }
     .desc = { ent-BaseCaptainObjective.desc }
-
-ent-SupercritAnomaliesObjective = { ent-BaseTraitorObjective }
-    .desc = Nanotrasen is very interested in anomalies with potentially catastrophic consequences. Introduce them to the fire they're playing with.
-
-ent-HijackTradeStationObjective = Hijack the Automated Trade Station.
-    .desc = Your uplink has been authorized one hijack beacon. Deploy it on the Automated Trade Station and defend it whilst it hijacks the trade station.
-
-ent-MailFraudObjective = { ent-BaseTraitorObjective }
-    .desc = We're interested in Nanotrasen's correspondence. Letter opener not provided.
+ent-CaptainGunStealObjective = { ent-BaseCaptainObjective }
+    .desc = { ent-BaseCaptainObjective.desc }

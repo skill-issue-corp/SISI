@@ -1,29 +1,20 @@
-ent-BaseClothingModsuitHelmet = base modsuit helmet
-    .desc = { ent-BaseItem.desc }
-
-ent-BaseClothingModsuitHelmetHideIdentity = base modsuit helmet
+ent-BaseClothingModsuitHelmet = базовый шлем модсьюта
+    .desc = { "" }
+ent-BaseClothingModsuitHelmetHideIdentity = базовый шлем модсьюта
     .desc = { ent-BaseClothingModsuitHelmet.desc }
-
-ent-ClothingModsuitHelmetStandard = standard modsuit helmet
-    .desc = A special modular suit spaceproof helmet designed for compact folding inside modular suit control.
-
-ent-ClothingModsuitHelmetSecurity = soldat modsuit helmet
-    .desc = A robust brain bucket for holding your brain in place just enough for it to be salvageable.
-
-ent-ClothingModsuitHelmetHeadOfSecurity = bulwark modsuit helmet
-    .desc = Put on the HEAD of security.. How do you see out of this thing?
-
-ent-ClothingModsuitHelmetParamedic = sanitater modsuit helmet
-    .desc = A robust brain bucket for working on barely salvageable brains.
-
-ent-ClothingModsuitHelmetEngineer = sapper modsuit helmet
-    .desc = A flat plate with cameras allowing your vision. turns you into an aero-cuck, but not like that matters in space.
-
-ent-ClothingModsuitHelmetAtmostech = aeolus modsuit helmet
-    .desc = A specialised gas helmet to provide oxygen more efficiently.
-
-ent-ClothingModsuitHelmetResearchDirector = minerva modsuit helmet
-    .desc = A dark dark dark visor protecting your precious face from blasts of shrapnel.
-
-ent-ClothingModsuitHelmetCaptain = magnate modsuit helmet
-    .desc = The visor is made from 10,000 year old amethyst.
+ent-ClothingModsuitHelmetStandard = стандартный шлем скафандра MOD
+    .desc = Специальный модульный космический шлем, предназначенный для компактного складывания внутри управления модульным костюмом.
+ent-ClothingModsuitHelmetSecurity = шлем скафандра MOD «Солдат»
+    .desc = Прочное "мозгохранилище", чтобы твой мозг оставался на месте достаточно долго, чтобы его можно было спасти.
+ent-ClothingModsuitHelmetHeadOfSecurity = шлем скафандра MOD «Бастион»
+    .desc = Надень шлем главы охраны... Как ты вообще через это видишь?
+ent-ClothingModsuitHelmetParamedic = шлем скафандра MOD «Санитар»
+    .desc = Прочное "мозгохранилище" для работы с едва обладающими мозгами.
+ent-ClothingModsuitHelmetEngineer = шлем скафандра MOD «Сапёр»
+    .desc = Плоская пластина с камерами, обеспечивающими обзор. Превращает тебя в аэро-кука, но в космосе это не особо важно.
+ent-ClothingModsuitHelmetAtmostech = шлем скафандра MOD «Эол»
+    .desc = Специализированный газовый шлем для более эффективного обеспечения кислородом.
+ent-ClothingModsuitHelmetResearchDirector = шлем скафандра MOD «Минерва»
+    .desc = Тёмный, очень тёмный визор, защищающий твоё драгоценное лицо от осколков и взрывов.
+ent-ClothingModsuitHelmetCaptain = шлем скафандра MOD "Магнат"
+    .desc = Визор сделан из 10.000-летнего аметиста.

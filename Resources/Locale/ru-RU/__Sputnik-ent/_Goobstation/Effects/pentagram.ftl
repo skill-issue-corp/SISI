@@ -1,5 +1,4 @@
-ent-Pentagram = pentagram
-    .desc = A devilish summoning circle.
-
-ent-PentagramHellHand = pentagram & hand
-    .desc = A devilish summoning circle with an equally devilish hand.
+ent-Pentagram = пентаграмма
+    .desc = Дьявольский круг вызова.
+ent-PentagramHellHand = пентаграмма и рука
+    .desc = Дьявольский круг вызова с такой же дьявольской рукой.

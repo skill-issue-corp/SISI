@@ -1,2 +1,2 @@
-ent-RMCCampfire = campfire
-    .desc = A useful tool to turn fellow marines into lifelong friends. Pull up a chair!
+ent-RMCCampfire = костёр
+    .desc = Полезный инструмент, чтобы превратить товарищей по морской пехоте в друзей на всю жизнь. Присядьте у огня!

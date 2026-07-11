@@ -1,38 +1,41 @@
-ent-CrateEngineeringAMEShielding = packaged antimatter reactor crate
-    .desc = 9 parts for the main body of an antimatter reactor, or for expanding an existing one.
-
-ent-CrateEngineeringAMEJar = antimatter containment jar crate
-    .desc = 3 antimatter jars, for fuelling an antimatter reactor.
-
-ent-CrateEngineeringAMEControl = antimatter control unit crate
-    .desc = The control unit of an antimatter reactor.
-
-ent-CrateEngineeringSingularityEmitter = emitter crate
-    .desc = An emitter, best used for singularity engines.
-
-ent-CrateEngineeringSingularityCollector = radiation collector crate
-    .desc = A radiation collector, best used for singularity engines. Plasma is included.
-
-ent-CrateEngineeringSingularityContainment = containment field generator crate
-    .desc = A containment field generator, keeps the singulo in submission.
-
-ent-CrateEngineeringSingularityGenerator = singularity generator crate
-    .desc = A singularity generator, the mother of the beast.
-
-ent-CrateEngineeringParticleAccelerator = PA board crate
-    .desc = Complex to setup, but rewarding as fuck. Contains boards for all particle accelerator components.
-
-ent-CrateEngineeringSolar = solar assembly crate
-    .desc = A kit with solar flatpacks and glass to construct ten solar panels.
-
-ent-CrateEngineeringShuttle = shuttle powering crate
-    .desc = A crate containing all needs for shuttle powering.
-
-ent-CrateEngineeringTeslaGenerator = tesla generator crate
-    .desc = A tesla generator. God save you.
-
-ent-CrateEngineeringTeslaCoil = tesla coil crate
-    .desc = Tesla coil. Attracts lightning and generates energy from it.
-
-ent-CrateEngineeringTeslaGroundingRod = tesla grounding rod crate
-    .desc = Grounding rod, best for lightning protection.
+ent-CrateEngineeringAMEShielding = ящик компонентов ДАМ
+    .suffix = Защищённый
+    .desc = 9 частей для создания нового или расширения существующего двигателя антиматерии.
+ent-CrateEngineeringAMEJar = ящик антиматериевого топлива
+    .suffix = Защищённый
+    .desc = Три канистры антиматериевого топлива, для заправки двигателя антиматерии.
+ent-CrateEngineeringAMEControl = ящик с контроллером управления ДАМ
+    .suffix = Защищённый
+    .desc = Управляющий компьютер ДАМ.
+ent-CrateEngineeringSingularityEmitter = ящик с эмиттером
+    .suffix = Защищённый
+    .desc = Эмиттер, используемый в сингулярном двигателе.
+ent-CrateEngineeringSingularityCollector = ящик с коллектором радиации
+    .suffix = Защищённый
+    .desc = Коллектор для радиации, используемый в сингулярном двигателе. Плазма входит в комплект.
+ent-CrateEngineeringSingularityContainment = ящик с генератором сдерживающего поля
+    .suffix = Защищённый
+    .desc = Генератор сдерживающего поля, удерживает сингулярность под контролем.
+ent-CrateEngineeringSingularityGenerator = ящик с генератором сингулярности
+    .suffix = Защищённый
+    .desc = Генератор сингулярности, матерь монстра.
+ent-CrateEngineeringParticleAccelerator = ящик с ускорителем частиц
+    .suffix = Защищённый
+    .desc = Сложная в настройке, но чертовски полезная.
+ent-CrateEngineeringGenerator = ящик с генератором
+    .desc = { ent-CrateEngineering.desc }
+    .suffix = DEBUG
+ent-CrateEngineeringSolar = ящик сборных солнечных панелей
+    .desc = Набор с упаковками и стеклом для строительства десяти солнечных панелей.
+ent-CrateEngineeringShuttle = ящик электропитания шаттла
+    .suffix = Защищённый
+    .desc = Ящик, содержащий всё необходимое для обеспечения шаттла электропитанием.
+ent-CrateEngineeringTeslaGenerator = ящик с генератором Теслы
+    .suffix = Защищённый
+    .desc = Генератор Теслы. Храни вас Господь.
+ent-CrateEngineeringTeslaCoil = ящик с катушкой Теслы
+    .suffix = Защищённый
+    .desc = Катушка Теслы. Притягивает молнии и вырабатывает из них энергию.
+ent-CrateEngineeringTeslaGroundingRod = ящик с заземляющим стержнем Теслы
+    .suffix = Защищённый
+    .desc = Заземляющий стержень, идеален для защиты от молний.

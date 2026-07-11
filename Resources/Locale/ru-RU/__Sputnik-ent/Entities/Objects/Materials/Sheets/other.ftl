@@ -1,50 +1,41 @@
-ent-SheetOtherBase = { ent-BaseSheet }
-    .desc = A sheet of material, used often on the station in various applications.
-
-ent-SheetPaper = paper
+ent-SheetOtherBase = { ent-BaseItem }
+    .desc = Лист материала, широко применяемого на станции в различных целях.
+ent-SheetPaper = бумага
+    .suffix = Полный
     .desc = { ent-SheetOtherBase.desc }
-    .suffix = Full
-
-ent-SheetPaper1 = paper
+ent-SheetPaper1 = бумага
+    .suffix = Один
     .desc = { ent-SheetPaper.desc }
-    .suffix = Single
-
-ent-SheetPlasma = plasma
+ent-SheetPlasma = плазма
+    .suffix = Полный
     .desc = { ent-SheetOtherBase.desc }
-    .suffix = Full
-
 ent-SheetPlasma10 = { ent-SheetPlasma }
-    .desc = { ent-SheetPlasma.desc }
     .suffix = 10
-
-ent-SheetPlasma1 = plasma
     .desc = { ent-SheetPlasma.desc }
-    .suffix = Single
-
-ent-SheetPlastic = plastic
+ent-SheetPlasma1 = плазма
+    .suffix = Один
+    .desc = { ent-SheetPlasma.desc }
+ent-SheetPlasmaLingering0 = плазма
+    .suffix = Не исчезают закончившись, 0
+    .desc = { ent-SheetPlasma.desc }
+ent-SheetPlastic = пластик
+    .suffix = Полный
     .desc = { ent-SheetOtherBase.desc }
-    .suffix = Full
-
-ent-SheetPlastic10 = plastic
-    .desc = { ent-SheetPlastic.desc }
+ent-SheetPlastic10 = пластик
     .suffix = 10
-
-ent-SheetPlastic1 = plastic
     .desc = { ent-SheetPlastic.desc }
-    .suffix = Single
-
-ent-SheetUranium = uranium
+ent-SheetPlastic1 = пластик
+    .suffix = Один
+    .desc = { ent-SheetPlastic.desc }
+ent-SheetUranium = уран
+    .suffix = Полный
     .desc = { ent-SheetOtherBase.desc }
-    .suffix = Full
-
-ent-SheetUranium1 = uranium
+ent-SheetUranium1 = уран
+    .suffix = Один
     .desc = { ent-SheetUranium.desc }
-    .suffix = Single
-
-ent-MaterialSheetMeat = meat sheet
+ent-MaterialSheetMeat = мясо
+    .suffix = Полный
     .desc = { ent-SheetOtherBase.desc }
-    .suffix = Full
-
 ent-MaterialSheetMeat1 = { ent-MaterialSheetMeat }
+    .suffix = Один
     .desc = { ent-MaterialSheetMeat.desc }
-    .suffix = Single

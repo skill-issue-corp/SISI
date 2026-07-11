@@ -1,11 +1,8 @@
-ent-FoodStrangeBerries = strange berries
-    .desc = A handful of strange berries.
-
-ent-Nevcotta = nevcotta log
-    .desc = When planted out of it's native habitat, it grows into an entirely different plant.
-
-ent-NevcottaBark = nevcotta bark
-    .desc = The bark of a Nevcotta tree.
-
-ent-FoodBluespaceTomato = bluespace tomato
-    .desc = Be careful with it.
+ent-FoodStrangeBerries = странные ягоды
+    .desc = Горсть странных ягод.
+ent-Nevcotta = пень невкотты
+    .desc = При посадке вне родной среды вырастает совершенно другое растение.
+ent-NevcottaBark = кора невкотты
+    .desc = Кора дерева невкотты.
+ent-FoodBluespaceTomato = блюспейс томат
+    .desc = Будь осторожен с ним.

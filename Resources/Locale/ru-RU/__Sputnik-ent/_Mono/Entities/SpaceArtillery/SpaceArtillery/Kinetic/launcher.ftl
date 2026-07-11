@@ -1,26 +1,18 @@
-ent-WeaponShuttleKineticL85 = L85 20mm autocannon
-    .desc = A cheap and light 20mm autocannon. Can be remotely activated, or linked up to a GCS.
-
-ent-WeaponShuttleKineticDravon = ADBP-7 DRAVON 57mm Autocannon
-    .desc = A single-barrel autocannon made by Aetherion Dynamics. High fire rate, but relatively low impact. Can be remotely activated, or linked up to a GCS.
-
-ent-WeaponShuttleKineticAK570 = AK570 90mm heavy autocannon
-    .desc = A dual barrel, heavy autocannon. Can be remotely activated, or linked up to a GCS.
-
-ent-WeaponShuttleKineticTarnyx = ADBX-31 TARNYX 150mm EMP Cannon
-    .desc = A heavy EMP Cannon made by Aetherion Dynamics. It can disable massive parts of an enemy ship, making it effective in asymmetric combat. Can be remotely activated, or linked up to a GCS.
-
-ent-WeaponShuttleKineticCyrexa = CYREXA 220mm cannon
-    .desc = A dual barrel, main-battery cannon firing 220mm auto shells with slight reduction in brute strength. Can be remotely activated, or linked up to a GCS.
-
-ent-WeaponShuttleKineticHades = HADES 305mm cannon
-    .desc = One of the largest chemical-based kinetic weapons in the sector. Its power is only rivaled by mass drivers such as the M381.
-
-ent-WeaponShuttleKineticCharon = M381 CHARON mass driver
-    .desc = A heavy linear accelerator, capable of devastating targets with kinetic energy. Can be remotely activated, or linked up to a GCS.
-
-ent-WeaponShuttleKineticBofors = Bofors 255mm cannon
-    .desc = A single barrelled, heavy artillery cannon. Can be remotely activated, or linked up to a GCS.
-
-ent-WeaponShuttleKineticKargil = Kargil 203mm cannon
-    .desc = A single barrelled, medium-heavy artillery cannon. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleKineticL85 = автопушка L85 (20 мм)
+    .desc = Дешёвая и лёгкая 20-мм автопушка. Может быть активирована удалённо или подключена к системе управления огнём.
+ent-WeaponShuttleKineticDravon = орудийная установка ADBP-7 "ДРЭВОН" (57 мм)
+    .desc = Одноствольная установка производства Aetherion Dynamics. Высокая скорострельность, но относительно низкая убойная сила. Может быть активирована удалённо или подключена к системе управления огнём.
+ent-WeaponShuttleKineticAK570 = спаренная артустановка AK570 (90 мм)
+    .desc = Двуствольная тяжёлая артиллерийская установка. Может быть активирована удалённо или подключена к системе управления огнём.
+ent-WeaponShuttleKineticTarnyx = ЭМИ установка ADBX-31 "ТАРНИКС" (150 мм)
+    .desc = Тяжёлая ЭМИ установка производства Aetherion Dynamics. Она может вывести из строя значительную часть вражеского корабля. Может быть активирована удалённо или подключёна к системе артиллерийского орудия.
+ent-WeaponShuttleKineticCyrexa = тяжёлая установка "САЙРЕКС" (220 мм)
+    .desc = Двуствольное орудие, стреляющее 220-мм снарядами. Может быть активировано удалённо или подключено к системе управления огнём.
+ent-WeaponShuttleKineticHades = сверхтяжёлое орудие "ХЕЙДИС" (305 мм)
+    .desc = Одна из мощнейших артиллерийских установок в секторе. По разрушительной силе она сопоставима лишь с самыми грозными оружейными системами.
+ent-WeaponShuttleKineticCharon = кинетическое орудие M381 "ЧАРОН"
+    .desc = Тяжёлый кинетический ускоритель, способный наносить сокрушительные удары. Может быть активирован удалённо или подключён к системе управления огнём.
+ent-WeaponShuttleKineticBofors = тяжёлая артустановка "БОФОР" (255 мм)
+    .desc = Одноствольная тяжёлая артиллерийская установка. Может быть активирована удалённо или подключена к системе управления огнём.
+ent-WeaponShuttleKineticKargil = артустановка "КАРГИЛ" (203 мм)
+    .desc = Одноствольное орудие среднего класса. Может быть активировано удалённо или подключено к системе управления огнём.

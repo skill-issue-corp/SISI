@@ -1,2 +1,2 @@
-ent-XenoTissueSample = tissue sample
-    .desc = A chunk of alien flesh, leaking a caustic goop.
+ent-XenoTissueSample = образец ткани
+    .desc = Кусок инопланетной плоти, сочащийся едкой слизью.

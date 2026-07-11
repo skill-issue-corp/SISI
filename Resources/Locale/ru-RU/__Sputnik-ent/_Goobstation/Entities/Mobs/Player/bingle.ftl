@@ -1,17 +1,16 @@
-ent-MobBingle = bingle
-    .desc = bingle
-
+ent-MobBingleRandom = бингл
+    .suffix = Случайный
+    .desc = { ent-MarkerBase.desc }
+ent-MobBingle = бингл
+    .desc = бингл
 ent-MobBinglePrime = { ent-MobBingle }
+    .suffix = Прайм
     .desc = { ent-MobBingle.desc }
-    .suffix = Prime
-
 ent-MobBingleUpgraded = { ent-MobBingle }
+    .suffix = Улучшенный
     .desc = { ent-MobBingle.desc }
-    .suffix = Upgraded
-
-ent-MobTurkle = turkle
-    .desc = A bingle from foreign lands lost to time. Seems very proud of their homeland.
-
+ent-MobTurkle = тёркл
+    .desc = Существо из забытых далёких земель. Кажется, оно очень гордится своей родиной.
 ent-MobTurkleUpgraded = { ent-MobBingleUpgraded }
+    .suffix = Улучшенный
     .desc = { ent-MobBingleUpgraded.desc }
-    .suffix = Upgraded

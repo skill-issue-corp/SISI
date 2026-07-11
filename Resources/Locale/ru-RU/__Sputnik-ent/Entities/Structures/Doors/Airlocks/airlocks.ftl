@@ -1,139 +1,99 @@
 ent-AirlockFreezer = { ent-Airlock }
+    .suffix = Холодильник
     .desc = { ent-Airlock.desc }
-    .suffix = Freezer
-
 ent-AirlockEngineering = { ent-Airlock }
+    .suffix = Инженерный
     .desc = { ent-Airlock.desc }
-    .suffix = Engineering
-
 ent-AirlockAtmospherics = { ent-AirlockEngineering }
+    .suffix = Атмосферный
     .desc = { ent-AirlockEngineering.desc }
-    .suffix = Atmospherics
-
 ent-AirlockCargo = { ent-Airlock }
+    .suffix = Снабжение
     .desc = { ent-Airlock.desc }
-    .suffix = Cargo
-
 ent-AirlockSalvage = { ent-Airlock }
+    .suffix = Утилизаторы
     .desc = { ent-Airlock.desc }
-    .suffix = Salvage
-
 ent-AirlockHydroponics = { ent-Airlock }
+    .suffix = Гидропоника
     .desc = { ent-Airlock.desc }
-    .suffix = Hydroponics
-
 ent-AirlockMedical = { ent-Airlock }
+    .suffix = Медицинский
     .desc = { ent-Airlock.desc }
-    .suffix = Medical
-
 ent-AirlockVirology = { ent-AirlockMedical }
+    .suffix = Вирусология
     .desc = { ent-AirlockMedical.desc }
-    .suffix = Virology
-
 ent-AirlockChemistry = { ent-AirlockMedical }
+    .suffix = Химия
     .desc = { ent-AirlockMedical.desc }
-    .suffix = Chemistry
-
 ent-AirlockScience = { ent-Airlock }
+    .suffix = Научный
     .desc = { ent-Airlock.desc }
-    .suffix = Science
-
 ent-AirlockCommand = { ent-Airlock }
+    .suffix = Командование
     .desc = { ent-Airlock.desc }
-    .suffix = Command
-
 ent-AirlockSecurity = { ent-Airlock }
+    .suffix = Служба Безопасности
     .desc = { ent-Airlock.desc }
-    .suffix = Security
-
-ent-AirlockMaint = maintenance access
+ent-AirlockMaint = Техобслуживание
     .desc = { ent-Airlock.desc }
-
 ent-AirlockSyndicate = { ent-AirlockSecurity }
+    .suffix = Синдикат
     .desc = { ent-AirlockSecurity.desc }
-    .suffix = Syndicate
-
 ent-AirlockMining = { ent-AirlockCargo }
+    .suffix = Шахтёры (Утилизаторы)
     .desc = { ent-AirlockCargo.desc }
-    .suffix = Mining(Salvage)
-
 ent-AirlockCentralCommand = { ent-AirlockCommand }
+    .suffix = ЦК
     .desc = { ent-AirlockCommand.desc }
-    .suffix = Central Command
-
-ent-AirlockHatch = airtight hatch
+ent-AirlockHatch = герметичный люк
     .desc = { ent-Airlock.desc }
-
-ent-AirlockXenoborg = xenoborg airlock
+ent-AirlockHatchMaintenance = герметичный люк техобслуживания
     .desc = { ent-Airlock.desc }
-
-ent-AirlockHatchMaintenance = maintenance hatch
-    .desc = { ent-Airlock.desc }
-
-ent-AirlockHatchSyndicate = airtight hatch
-    .desc = { ent-Airlock.desc }
-    .suffix = Syndicate
-
 ent-AirlockEngineeringGlass = { ent-AirlockGlass }
+    .suffix = Инженерный
     .desc = { ent-AirlockGlass.desc }
-    .suffix = Engineering
-
 ent-AirlockMaintGlass = { ent-AirlockGlass }
+    .suffix = Техобслуживание
     .desc = { ent-AirlockGlass.desc }
-    .suffix = Maintenance
-
 ent-AirlockAtmosphericsGlass = { ent-AirlockEngineeringGlass }
+    .suffix = Атмосферный
     .desc = { ent-AirlockEngineeringGlass.desc }
-    .suffix = Atmospherics
-
 ent-AirlockCargoGlass = { ent-AirlockGlass }
+    .suffix = Снабжение
     .desc = { ent-AirlockGlass.desc }
-    .suffix = Cargo
-
 ent-AirlockSalvageGlass = { ent-AirlockGlass }
+    .suffix = Утилизаторы
     .desc = { ent-AirlockGlass.desc }
-    .suffix = Salvage
-
 ent-AirlockHydroponicsGlass = { ent-AirlockGlass }
+    .suffix = Гидропоника
     .desc = { ent-AirlockGlass.desc }
-    .suffix = Hydroponics
-
 ent-AirlockMedicalGlass = { ent-AirlockGlass }
+    .suffix = Медицинский
     .desc = { ent-AirlockGlass.desc }
-    .suffix = Medical
-
 ent-AirlockChemistryGlass = { ent-AirlockMedicalGlass }
+    .suffix = Химия
     .desc = { ent-AirlockMedicalGlass.desc }
-    .suffix = Chemistry
-
 ent-AirlockVirologyGlass = { ent-AirlockMedicalGlass }
+    .suffix = Вирусология
     .desc = { ent-AirlockMedicalGlass.desc }
-    .suffix = Virology
-
 ent-AirlockScienceGlass = { ent-AirlockGlass }
+    .suffix = Научный
     .desc = { ent-AirlockGlass.desc }
-    .suffix = Science
-
 ent-AirlockCommandGlass = { ent-AirlockGlass }
+    .suffix = Командование
     .desc = { ent-AirlockGlass.desc }
-    .suffix = Command
-
 ent-AirlockSecurityGlass = { ent-AirlockGlass }
+    .suffix = Служба Безопасности
     .desc = { ent-AirlockGlass.desc }
-    .suffix = Security
-
 ent-AirlockSyndicateGlass = { ent-AirlockSecurityGlass }
+    .suffix = Синдикат
     .desc = { ent-AirlockSecurityGlass.desc }
-    .suffix = Syndicate
-
 ent-AirlockMiningGlass = { ent-AirlockCargoGlass }
+    .suffix = Шахтёры (Утилизаторы)
     .desc = { ent-AirlockCargoGlass.desc }
-    .suffix = Mining(Salvage)
-
 ent-AirlockCentralCommandGlass = { ent-AirlockCommandGlass }
+    .suffix = ЦК
     .desc = { ent-AirlockCommandGlass.desc }
-    .suffix = Central Command
-
 ent-AirlockStandardGlass = { ent-AirlockGlass }
+    .suffix = Сервис
     .desc = { ent-AirlockGlass.desc }
-    .suffix = Service

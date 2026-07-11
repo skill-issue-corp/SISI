@@ -1,212 +1,142 @@
-ent-BaseBorgModule = borg module
-    .desc = A piece of tech that gives cyborgs new abilities.
-
+ent-BaseBorgModule = модуль борга
+    .desc = Техническая деталь, дающая боргам новые способности.
 ent-BaseProviderBorgModule = { "" }
     .desc = { "" }
-
-ent-ActionBorgSwapModule = Swap Module
-    .desc = Select this module, enabling you to use the tools it provides.
-
+ent-ActionBorgSwapModule = Сменить модуль
+    .desc = Выбор этого модуля позволит вам использовать предоставляемые им инструменты.
 ent-BaseBorgModuleCargo = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
 ent-BaseBorgModuleEngineering = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
 ent-BaseBorgModuleJanitor = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
 ent-BaseBorgModuleMedical = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
 ent-BaseBorgModuleScience = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
 ent-BaseBorgModuleService = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
 ent-BaseBorgModuleSyndicate = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
 ent-BaseBorgModuleSyndicateAssault = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
 ent-BaseXenoborgModuleGeneric = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
 ent-BaseXenoborgModuleEngi = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
 ent-BaseXenoborgModuleHeavy = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
 ent-BaseXenoborgModuleScout = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
 ent-BaseXenoborgModuleStealth = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
-
-ent-BorgModulePrying = prying module
-    .desc = A universal cyborg module which allows the unit to pry open doors.
-
-ent-BorgModuleCable = cable cyborg module
-    .desc = A universal cyborg module which allows the unit to install and manipulate electrical systems.
-
-ent-BorgModuleArtistry = artistry cyborg module
-    .desc = A module for arts & crafts whilst the station burns!
-
-ent-BorgModuleFireExtinguisher = thruster cyborg module
-    .desc = NT assigned a team to design a jetpack for cyborg units, but they ran out of funding and just made a bigger fire extinguisher. It comes with a integrated GPS and mass scanner though!
-
-ent-BorgModuleTool = tool cyborg module
+ent-BorgModuleCable = кабельный модуль борга
     .desc = { ent-BaseBorgModule.desc }
-
-ent-BorgModuleInflatable = inflatable cyborg module
+ent-BorgModuleFireExtinguisher = огнетушащий модуль борга
     .desc = { ent-BaseBorgModule.desc }
-
-ent-BorgModuleAppraisal = appraisal cyborg module
+ent-BorgModuleGPS = GPS модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleRadiationDetection = Гейгер-модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleTool = инструментальный модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleAdvancedMining = продвинутый шахтёрский модуль борга
+    .desc = Продвинутый модуль снабжения, содержащий продвинутое шахтёрское снаряжение. Исследования показали, что с ним продуктивность борга повышается на 150%.
+ent-BorgModuleTraversal = поперечный модуль борга
     .desc = { ent-BaseBorgModuleCargo.desc }
-
-ent-BorgModuleMining = mining cyborg module
-    .desc = { ent-BaseBorgModuleCargo.desc }
-
-ent-BorgModuleAdvancedMining = advanced mining cyborg module
-    .desc = Advanced cargo module containing advanced mining equipment. Studies show it advances productivity of a cyborg by 150%.
-
-ent-BorgModuleTraversal = traversal cyborg module
-    .desc = { ent-BaseBorgModuleCargo.desc }
-
-ent-BorgModuleAdvancedTool = advanced tool cyborg module
-    .desc = Advanced engineering module containing cutting-edge tools.
-
-ent-BorgModuleConstructionMaterialPlaceholder = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
-
-ent-BorgModuleConstruction = construction cyborg module
-    .desc = { ent-BaseBorgModuleEngineering.desc }
-
-ent-BorgModuleRCD = engineering cyborg module
-    .desc = { ent-BaseBorgModuleEngineering.desc }
-
-ent-BorgModuleCustodial = custodial cyborg module
+ent-BorgModuleAppraisal = оценочный модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleMining = шахтёрский модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleGrapplingGun = крюк-пушечный модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleCustodial = уборочный модуль борга
     .desc = { ent-BaseBorgModuleJanitor.desc }
-
-ent-BorgModuleCleaning = cleaning cyborg module
-    .desc = { ent-BaseBorgModuleJanitor.desc }
-
-ent-BorgModuleAdvancedCleaning = advanced cleaning cyborg module
-    .desc = Advanced janitorial module containing, well... advanced janitor equipment. What were you expecting?
-
-ent-BorgModuleDiagnosis = diagnosis cyborg module
-    .desc = { ent-BaseBorgModuleMedical.desc }
-
-ent-BorgModuleTopicals = first aid cyborg module
-    .desc = { ent-BaseBorgModuleMedical.desc }
-
-ent-BorgModuleRescue = rescue cyborg module
-    .desc = { ent-BaseBorgModuleMedical.desc }
-
-ent-BorgModuleChemical = chemical cyborg module
-    .desc = { ent-BaseBorgModuleMedical.desc }
-
-ent-BorgModuleAdvancedTopical = advanced first aid cyborg module
-    .desc = Advanced medical module containing the cyborg adaptation of the highly coveted hypospray. Now your cyborgs can inject crew-harmers with chloral hydrate even faster!
-
-ent-BorgModuleArtifact = artifact cyborg module
-    .desc = { ent-BaseBorgModuleScience.desc }
-
-ent-BorgModuleAnomaly = anomaly cyborg module
-    .desc = { ent-BaseBorgModuleScience.desc }
-
-ent-BorgModuleService = service cyborg module
-    .desc = { ent-BaseBorgModuleService.desc }
-
-ent-BorgModuleMusique = musique cyborg module
-    .desc = { ent-BaseBorgModuleService.desc }
-
-ent-BorgModuleGardening = gardening cyborg module
-    .desc = { ent-BaseBorgModuleService.desc }
-
-ent-BorgModuleHarvesting = harvesting cyborg module
-    .desc = { ent-BaseBorgModuleService.desc }
-
-ent-BorgModuleClowning = clowning cyborg module
-    .desc = { ent-BaseBorgModuleService.desc }
-
-ent-BorgModuleAdvancedClowning = advanced clowning cyborg module
-    .desc = Advanced service module for only the silliest cyborgs! Comes with a built-in oven that bakes pies automatically over time, a holopeel projector, and a push horn.
-
-ent-BorgModuleSyndicateWeapon = weapon cyborg module
+ent-BorgModuleAdvancedTool = продвинутый инструментальный модуль борга
     .desc = { ent-BaseBorgModule.desc }
-
-ent-BorgModuleOperative = operative cyborg module
-    .desc = A module that comes with a pair of syndicate jaws of life, an Emag, an Access Breaker and a syndicate pinpointer.
-
-ent-BorgModuleEsword = energy sword cyborg module
-    .desc = A weapons module that comes with an energy sword.
-
-ent-BorgModuleDoubleEsword = double energy sword cyborg module
-    .desc = A weapons module that comes with a double energy sword.
-
-ent-BorgModuleL6C = L6C ROW cyborg module
-    .desc = A weapons module that comes with a L6C.
-
-ent-BorgModuleC20r = C-20r ROW cyborg module
-    .desc = A weapons module that comes with a burst-fire C-20r.
-
-ent-BorgModuleMartyr = martyr cyborg module
-    .desc = A module that comes with an explosive you probably don't want to handle yourself.
-
-ent-MothershipModule = mothership module
-    .desc = A module that helps the mothership borg brains and install other modules.
-
-ent-XenoborgModuleBasic = basic xenoborg module
-    .desc = Essential items for any Xenoborg.
-
-ent-XenoborgModuleTool = tool xenoborg module
-    .desc = Simple tools for most Xenoborgs.
-
-ent-XenoborgModuleAccessBreaker = access breaker xenoborg module
-    .desc = Module with a access breaker.
-
-ent-XenoborgModuleFireExtinguisher = fire extinguisher xenoborg module
-    .desc = Module with a self-refueling fire extinguisher.
-
-ent-XenoborgModuleDoorControl = door control xenoborg module
-    .desc = Module that allows Xenoborgs to control airlocks.
-
-ent-XenoborgModuleTileGun = tile gun xenoborg module
-    .desc = Module with a tile gun. wait, a what?
-
-ent-XenoborgModuleJammer = jammer xenoborg module
-    .desc = Module with a communication jammer.
-
-ent-XenoborgModuleLaser = laser xenoborg module
-    .desc = Module with a laser gun.
-
-ent-XenoborgModuleHeavyLaser = laser cannon xenoborg module
-    .desc = Module with a laser cannon.
-
-ent-XenoborgModuleSpaceMovement = space movement xenoborg module
-    .desc = Module that helps a Xenoborg move better in space.
-
-ent-XenoborgModuleJump = xenoborg jump module
-    .desc = Module that allows a xenoborg to jump forward.
-
-ent-XenoborgModuleSword = knife xenoborg module
-    .desc = Module with a kukri knife.
-
-ent-XenoborgModuleEnergySword = energy dagger xenoborg module
-    .desc = Module with an energy dagger.
-
-ent-XenoborgModuleHypo = nocturine hypo xenoborg module
-    .desc = Module with a self-refilling nocturine hypospray.
-
-ent-XenoborgModuleChameleonProjector = chameleon projector xenoborg module
-    .desc = Module with a chameleon projector.
-
-ent-XenoborgModuleCloakDevice = cloaking device xenoborg module
-    .desc = Module with a device that allows xenoborgs to become semi-invisible for some time.
-
-ent-XenoborgModuleSuperCloakDevice = invisibility device xenoborg module
-    .desc = Module with a device that allows xenoborgs to become truly invisible for a short amount of time.
+ent-BorgModuleConstruction = строительный модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleRCD = РСУ-модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleTopicals = модуль борга наружных препаратов
+    .desc = { ent-BaseBorgModuleMedical.desc }
+ent-BorgModuleRescue = спасательный модуль борга
+    .desc = { ent-BaseBorgModuleMedical.desc }
+ent-BorgModuleChemical = химический модуль борга
+    .desc = { ent-BaseBorgModuleMedical.desc }
+ent-BorgModuleAdvancedChemical = продвинутый химический модуль борга
+    .desc = Продвинутый медицинский модуль, содержащий борговую версию многожеланного гипоспрея. Теперь ваши борги могут ещё быстрее вводить вредителям хлоральгидрат!
+ent-BorgModuleLightReplacer = лампозаменительный модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleCleaning = чистящий модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleAdvancedCleaning = продвинутый чистящий модуль борга
+    .desc = { ent-BaseBorgModuleJanitor.desc }
+ent-BorgModuleDiagnosis = диагностический модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleTreatment = лечащий модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleDefibrillator = дефибрилляторный модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleAdvancedTreatment = продвинутый лечащий модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleAdvancedClowning = продвинутый клоунский модуль киборга
+    .desc = Продвинутый сервисный модуль только для самых смешных киборгов! В комплекте со встроенной духовкой, которая автоматически выпекает пироги со временем, проектором голокожурки и толкающим клаксоном.
+ent-BorgModuleArtifact = артефактный модуль борга
+    .desc = { ent-BaseBorgModuleScience.desc }
+ent-BorgModuleAnomaly = аномальный модуль борга
+    .desc = { ent-BaseBorgModuleScience.desc }
+ent-BorgModuleService = сервисный модуль борга
+    .desc = { ent-BaseBorgModuleService.desc }
+ent-BorgModuleMusique = музыкальный модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleGardening = садовый модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-MothershipModule = модуль материнского корабля
+    .desc = Модуль, помогающий ядру материнского корабля помещать мозги и модули в боргов.
+ent-BorgModuleHarvesting = урожайный модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleClowning = клоунский модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-XenoborgModuleBasic = базовый модуль ксеноборга
+    .desc = Необходимые вещи для любого ксеноборга.
+ent-XenoborgModuleTool = инструментальный модуль ксеноборга
+    .desc = Простые инструменты для большинства ксеноборгов.
+ent-XenoborgModuleAccessBreaker = модуль ксеноборга с разрушителем аутентификации
+    .desc = Модуль с разрушителем аутентификации.
+ent-XenoborgModuleFireExtinguisher = огнетушащий модуль ксеноборга
+    .desc = Модуль с самозаполняющимся огнетушителем.
+ent-XenoborgModuleJammer = глушащий модуль ксеноборга
+    .desc = Модуль с глушителем связи.
+ent-XenoborgModuleLaser = модуль ксеноборга с лазером
+    .desc = Модуль с лазерной пушкой.
+ent-XenoborgModuleHeavyLaser = модуль ксеноборга с тяжёлым лазером
+    .desc = Модуль с тяжёлой лазерной пушкой.
+ent-XenoborgModuleSpaceMovement = модуль ксеноборга для движения в космосе
+    .desc = Модуль, который помогает ксеноборгу лучше передвигаться в космосе.
+ent-XenoborgModuleSword = модуль ксеноборга с мечом
+    .desc = Модуль с ножом кукри.
+ent-XenoborgModuleEnergySword = модуль ксеноборга с энергомечом
+    .desc = Модуль с энергокинжалом.
+ent-XenoborgModuleHypo = модуль ксеноборга с ноктюорин-гипо
+    .desc = Модуль с самозаполняющимся гипоспреем ноктюрина.
+ent-XenoborgModuleChameleonProjector = модуль ксеноборга с маскировочным проектором
+    .desc = Модуль с маскировочным проектором.
+ent-XenoborgModuleCloakDevice = модуль ксеноборга с устройством невидимости
+    .desc = Модуль с устройством, позволяющим ксеноборгам становиться невидимыми на некоторое время.
+ent-XenoborgModuleSuperCloakDevice = модуль ксеноборга с устройством невидимости
+    .desc = Модуль с устройством, позволяющим ксеноборгам становиться по-настоящему невидимыми на меньшее время.
+ent-BorgModuleSyndicateWeapon = оружейный модуль борга
+    .desc = { ent-BaseBorgModule.desc }
+ent-BorgModuleOperative = оперативный модуль борга
+    .desc = Модуль, в который входят монтировка,"Емаг", взломщик доступа и пинпоинтер Синдиката.
+ent-BorgModuleEsword = модуль борга c двухклинковым энергомечом
+    .desc = Модуль, в который входит двухклинковый энергетический меч.
+ent-BorgModuleL6C = модуль борга с L6C ROW
+    .desc = Модуль, в который входит пулемёт L6C.
+ent-BorgModuleMartyr = модуль борга Мученик
+    .desc = Модуль, поставляемый со взрывчаткой, с которой вы, скорее всего, не захотите связываться сами.
+ent-BorgModuleSurgery = хирургический модуль борга
+    .desc = { ent-BaseBorgModuleMedical.desc }
+ent-BorgModuleAdvancedSurgery = продвинутый хирургический модуль борга
+    .desc = { ent-BaseBorgModuleMedical.desc }

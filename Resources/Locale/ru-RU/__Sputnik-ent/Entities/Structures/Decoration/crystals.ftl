@@ -1,31 +1,24 @@
-ent-CrystalGreen = crystal
-    .desc = A crystaline solid.
-    .suffix = green
-
+ent-CrystalGreen = кристалл
+    .desc = Твёрдое кристаллическое образование.
+    .suffix = Зелёный
 ent-CrystalPink = { ent-CrystalGreen }
     .desc = { ent-CrystalGreen.desc }
-    .suffix = pink
-
+    .suffix = Розовый
 ent-CrystalGrey = { ent-CrystalGreen }
     .desc = { ent-CrystalGreen.desc }
-    .suffix = red
-
+    .suffix = Красный
 ent-CrystalOrange = { ent-CrystalGreen }
     .desc = { ent-CrystalGreen.desc }
-    .suffix = orange
-
+    .suffix = Оранжевый
 ent-CrystalBlack = { ent-CrystalGreen }
+    .suffix = Чёрный
     .desc = { ent-CrystalGreen.desc }
-    .suffix = black
-
 ent-CrystalBlue = { ent-CrystalGreen }
     .desc = { ent-CrystalGreen.desc }
-    .suffix = blue
-
+    .suffix = Синий
 ent-CrystalYellow = { ent-CrystalGreen }
+    .suffix = Жёлтый
     .desc = { ent-CrystalGreen.desc }
-    .suffix = yellow
-
 ent-CrystalCyan = { ent-CrystalGreen }
     .desc = { ent-CrystalGreen.desc }
-    .suffix = cyan
+    .suffix = Голубой

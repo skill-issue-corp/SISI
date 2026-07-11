@@ -1,2 +1,2 @@
-ent-NukeopsDetonateObjective = Destroy the station with a nuclear device.
-    .desc = Deliver the payload and get out before the payload detonates.
+ent-NukeopsDetonateObjective = Уничтожьте станцию при помощи ядерного устройства.
+    .desc = Доставьте заряд и сбегите до того, как он детонирует.

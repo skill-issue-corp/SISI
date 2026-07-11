@@ -1,29 +1,20 @@
-ent-BaseAutomationFilter = filter
-    .desc = A filter that can be installed in factory machines.
-
+ent-BaseAutomationFilter = фильтр
+    .desc = Фильтр, который можно установить в машины.
 ent-BaseAutomationFilterToggled = { ent-BaseAutomationFilter }
     .desc = { ent-BaseAutomationFilter.desc }
-
-ent-AutomationFilterLabel = label filter
-    .desc = A filter that can be installed in factory machines. This one scans labels of attached items.
-
-ent-AutomationFilterName = name filter
-    .desc = A filter that can be installed in factory machines. This one uses complex AI vision technology to identify items.
-
-ent-AutomationFilterStack = stack filter
-    .desc = A filter that can be installed in factory machines. This one weighs items to compare it to a stack size.
-
-ent-AutomationFilterPressure = pressure filter
-    .desc = A filter that can be installed in factory machines. This one has a barometer to check the pressure of gases.
-
-ent-AutomationFilterCombined = combined filter
-    .desc = A filter that can be installed in factory machines. This one uses a logic gate to combine 2 installed item filters.
-
-ent-AutomationFilterAnchor = anchor filter
-    .desc = A filter that can be installed in factory machines. This one detects an anchorable object, and it being anchored or not.
-
-ent-AutomationFilterMob = mob filter
-    .desc = A filter that can be installed in factory machines. This one detects living creatures and filters based on alive, critical or dead states.
-
-ent-AutomationFilterCuff = cuff filter
-    .desc = A filter that can be installed in factory machines. This one detects whether people are restrained... who made this!?
+ent-AutomationFilterLabel = фильтр по этикеткам
+    .desc = Фильтр, который можно установить в машины. Этот фильтр сканирует этикетки прикрепленных предметов.
+ent-AutomationFilterName = фильтр по названию
+    .desc = Фильтр, который можно установить в машины. Этот фильтр использует сложные технологии ИИ для распознавания предметов.
+ent-AutomationFilterStack = фильтр по стопке
+    .desc = Фильтр, который можно установить в машины. Этот фильтр взвешивает предметы, чтобы сравнить их с размером стопки.
+ent-AutomationFilterPressure = фильтр по давлению
+    .desc = Фильтр, который можно установить в машины. Этот фильтр оснащен барометром для проверки давления газов.
+ent-AutomationFilterCombined = комбинированный фильтр
+    .desc = Фильтр, который можно установить в машины. Этот фильтр использует логический элемент для объединения 2 установленных фильтров предметов.
+ent-AutomationFilterAnchor = фильтр по закреплению
+    .desc = Фильтр, который можно установить в машины. Этот фильтр обнаруживает закрепляемые объекты и проверяет, закреплены ли они.
+ent-AutomationFilterMob = фильтр по состоянию существ
+    .desc = Фильтр, который можно установить в машины. Этот фильтр обнаруживает живых существ и фильтрует их по состоянию: жив, в критическом состоянии или мёртв.
+ent-AutomationFilterCuff = фильтр по наручникам
+    .desc = Фильтр, который можно установить в машины. Этот фильтр определяет, сковано ли существо... кто вообще это придумал!?

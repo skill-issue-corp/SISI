@@ -1,11 +1,8 @@
-ent-SlingEgg = Shadowling Egg
-    .desc = An irregular lump of organic matter, its cracked surface twitching now and then.
-
+ent-SlingEgg = кокон тенеморфа
+    .desc = Необычный комок органической массы. На его растрескавшейся поверхности время от времени виднеются пульсации.
 ent-SlingEggHatch = { ent-SlingEgg }
     .desc = { ent-SlingEgg.desc }
-
 ent-SlingEggAscension = { ent-SlingEgg }
-    .desc = A dark, armored cocoon pulsing with eerie energy, heralding the shadowling’s ascension.
-
-ent-AscensionEggShadowlingInside = The Shadowling
-    .desc = A terryfing creature that appears to have formed on top of the egg. Is it alive?
+    .desc = Тёмный, бронированный кокон, пульсирующий зловещей энергией, предшествующий вознесению тенеморфа.
+ent-AscensionEggShadowlingInside = тенеморф
+    .desc = Ужасающее существо, которое, похоже, сформировалось поверх яйца. Оно живое?

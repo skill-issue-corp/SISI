@@ -1,2 +1,6 @@
-ent-AltarClock = clockwork altar
-    .desc = Altar of the Ratvar.
+ent-AltarClock = заводной алтарь
+    .desc = Алтарь Ратвара.
+ent-AltarDragon = драконий алтарь
+    .desc = Алтарь драконов.
+ent-AltarEmpire = имперский алтарь
+    .desc = Алтарь Великой Империи.

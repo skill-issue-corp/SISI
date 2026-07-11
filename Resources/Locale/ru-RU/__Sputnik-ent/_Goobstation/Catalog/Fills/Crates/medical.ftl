@@ -1,2 +1,2 @@
-ent-CrateBiomass = biomass crate
-    .desc = A crate full of biomass cubes for use in cloning or other printers.
+ent-CrateBiomass = ящик биомассы
+    .desc = Ящик, наполненный кубиками биомассы для использования в клон машине или других принтерах.

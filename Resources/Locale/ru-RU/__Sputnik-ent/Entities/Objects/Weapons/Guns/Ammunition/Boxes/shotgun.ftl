@@ -1,29 +1,20 @@
 ent-BaseAmmoProvider = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
 ent-AmmoProviderShotgunShell = { ent-BaseAmmoProvider }
     .desc = { ent-BaseAmmoProvider.desc }
-
-ent-BoxBeanbag = ammunition box (12 Gauge beanbag)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold less-than-lethal beanbag ammunition.
-
-ent-BoxLethalshot = ammunition box (12 Gauge pellet)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold general-purpose kinetic ammunition.
-
-ent-BoxShotgunSlug = ammunition box (12 Gauge slug)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold long-ranged slug ammunition.
-
-ent-BoxShotgunFlare = ammunition box (12 Gauge flare)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold illuminating flare ammunition.
-
-ent-BoxShotgunIncendiary = ammunition box (12 Gauge incendiary)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold self-igniting incendiary ammunition.
-
-ent-BoxShotgunUranium = ammunition box (12 Gauge uranium)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold exotic uranium-core ammunition.
-
-ent-BoxShotgunPractice = ammunition box (12 Gauge practice)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold harmless practice ammunition.
-
-ent-BoxShellTranquilizer = ammunition box (12 Gauge tranquilizer)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold nonlethal tranquilizer ammunition.
+ent-BoxBeanbag = коробка ружейных патронов (.50 травматические)
+    .desc = { ent-AmmoProviderShotgunShell.desc }
+ent-BoxLethalshot = коробка ружейных патронов (.50 дробь)
+    .desc = { ent-AmmoProviderShotgunShell.desc }
+ent-BoxShotgunSlug = коробка ружейных патронов (.50 пуля)
+    .desc = { ent-AmmoProviderShotgunShell.desc }
+ent-BoxShotgunFlare = коробка ружейных патронов (.50 фальшфейеры)
+    .desc = { ent-AmmoProviderShotgunShell.desc }
+ent-BoxShotgunIncendiary = коробка ружейных патронов (.50 зажигательные)
+    .desc = { ent-AmmoProviderShotgunShell.desc }
+ent-BoxShotgunUranium = коробка ружейных патронов (.50 урановые)
+    .desc = { ent-AmmoProviderShotgunShell.desc }
+ent-BoxShotgunPractice = коробка ружейных патронов (.50 учебные)
+    .desc = { ent-AmmoProviderShotgunShell.desc }
+ent-BoxShellTranquilizer = коробка ружейных патронов (.50 транквилизаторы)
+    .desc = { ent-AmmoProviderShotgunShell.desc }

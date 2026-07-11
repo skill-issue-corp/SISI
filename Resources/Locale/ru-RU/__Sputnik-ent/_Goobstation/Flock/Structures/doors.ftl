@@ -1,3 +1,3 @@
-ent-AirlockFlock = weird imposing wall
-    .desc = It sounds like it is hollow.
-    .suffix = featherzone
+ent-AirlockFlock = странная внушающая стена
+    .desc = Создаётся впечатление, что она полая.
+    .suffix = Featherzone

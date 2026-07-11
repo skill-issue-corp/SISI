@@ -1,2 +1,2 @@
-ent-WeaponRussianRevolver = Russian Revolver
-    .desc = The latest in Nanotrasen’s recreational department, a normal revolver but with built guards around the cylinder to prevent seeing what slot bullets are in, has special sensors preventing it from shooting anyone who isn't cuffed or isn't the user, fun for the whole family!.
+ent-WeaponRussianRevolver = Русский револьвер
+    .desc = Последняя разработка развлекательного отдела NanoTrasen. Обычный револьвер с защитными ограждениями вокруг барабана, чтобы нельзя было увидеть, в каком слоте пуля. С особыми сенсорами, предотвращающими стрельбу по тем, кто не в наручниках или не является стрелком. Забава для всей семьи!

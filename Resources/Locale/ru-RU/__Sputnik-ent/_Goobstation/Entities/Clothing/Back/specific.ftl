@@ -1,23 +1,17 @@
-ent-ClothingBackpackStasisBattery = stasis storage
-    .desc = Stores energy to freeze time flow, warping the space inside for more capacity.
-
+ent-ClothingBackpackStasisBattery = аккумулятор стазиса
+    .desc = Хранит энергию для заморозки течения времени, искажая пространство внутри для увеличения ёмкости.
 ent-ClothingBackpackStasisBatteryUnremoveable = { ent-ClothingBackpackStasisBattery }
+    .suffix = Неснимаемый
     .desc = { ent-ClothingBackpackStasisBattery.desc }
-    .suffix = Unremoveable
-
 ent-ClothingBackpackStasisBatteryUnremoveableFilled = { ent-ClothingBackpackStasisBatteryUnremoveable }
+    .suffix = Заполненный, Неснимаемый
     .desc = { ent-ClothingBackpackStasisBatteryUnremoveable.desc }
-    .suffix = Filled, Unremoveable
-
 ent-ClothingBackpackMercFilledHECU = { ent-ClothingBackpackMerc }
+    .suffix = Заполненный, HECU
     .desc = { ent-ClothingBackpackMerc.desc }
-    .suffix = Filled, HECU
-
-ent-ClothingBackpackDuffelGman = strange duffelbag
-    .desc = A strange, unremovable, bag capable of containing an absurd amount of items. Seemingly invisible to the naked eye.
-
-ent-ClothingBackpackLMGBattery = energy LMG powerbank
-    .desc = Accepts specialized car batteries to power the energy LMG.
-
-ent-ClothingBackpackFirefighterTank = firefighter water tank backpack
-    .desc = A refrigerated water tank backpack that can switch modes to launch ATMOS resin or work as a high pressure extinguisher.
+ent-ClothingBackpackDuffelGman = странный вещмешок
+    .desc = Странная, неснимаемая сумка, способная содержать абсурдное количество предметов. Кажется невидимой для невооружённого глаза.
+ent-ClothingBackpackLMGBattery = Батарея EL-20
+    .desc = Принимает специализированные автомобильные батареи для питания EL-20 HAMRR LMG.
+ent-ClothingBackpackFirefighterTank = ранцевый пожарный резервуар
+    .desc = Охлаждаемый водяной ранец, способный переключаться между режимами запуска атмос-смолы и работы как огнетушитель высокого давления.

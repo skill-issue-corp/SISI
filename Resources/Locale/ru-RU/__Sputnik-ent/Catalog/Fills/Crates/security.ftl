@@ -1,23 +1,24 @@
-ent-CrateSecurityArmor = armor crate
-    .desc = Contains three bulletproof vests. Requires Security access to open.
-
-ent-CrateSecurityHelmet = helmet crate
-    .desc = Contains three standard-issue brain buckets. Requires Security access to open.
-
-ent-CrateSecurityNonlethal = nonlethals crate
-    .desc = Contains a mix of disablers, stun batons, and flashes. Requires Security access to open.
-
-ent-CrateSecuritySupplies = security supplies crate
-    .desc = Contains various supplies for the station's Security team. Requires Security access to open.
-
-ent-CrateRestraints = restraints crate
-    .desc = Contains two boxes each of handcuffs and zipties. Requires Security access to open.
-
-ent-CrateSecurityBiosuit = security bio suit crate
-    .desc = Contains 2 biohazard suits to ensure that no disease will distract you from your duties. Requires Security access to open.
-
-ent-CrateSecurityTrackingMindshieldImplants = implanter crate
-    .desc = Contains 4 MindShield implants and 4 tracking implant. Requires Security access to open.
-
-ent-CrateSecNonlethalThrowables = nonlethal throwables crate
-    .desc = Contains one box each of flashbangs, stingers, tear gas grenades, and four bolas. Requires Security access to open.
+ent-CrateSecurityArmor = ящик с бронёй
+    .suffix = Защищённый
+    .desc = Содержит три пуленепробиваемых жилета. Чтобы открыть, необходим уровень доступа Служба безопасности.
+ent-CrateSecurityHelmet = ящик со шлемами
+    .suffix = Защищённый
+    .desc = Содержит три стандартных ведра для мозгов. Чтобы открыть, необходим уровень доступа Служба безопасности.
+ent-CrateSecurityNonlethal = ящик нелетального снаряжения
+    .suffix = Защищённый
+    .desc = Содержит смесь станнеров, дубинок-шокеров и вспышек. Чтобы открыть, необходим уровень доступа Служба безопасности.
+ent-CrateSecuritySupplies = ящик припасов СБ
+    .suffix = Защищённый
+    .desc = Содержит различные припасы для службы безопасности станции. Чтобы открыть, необходим уровень доступа Служба безопасности.
+ent-CrateRestraints = ящик наручников
+    .suffix = Защищённый
+    .desc = Содержит по две коробки наручников и стяжек. Чтобы открыть, необходим уровень доступа Служба безопасности.
+ent-CrateSecurityBiosuit = ящик биозащитных костюмов СБ
+    .suffix = Защищённый
+    .desc = Содержит 2 костюма биологической защиты, чтобы никакая зараза не отвлекала вас от исполнения своего долга. Чтобы открыть, необходим уровень доступа Служба безопасности.
+ent-CrateSecurityTrackingMindshieldImplants = ящик имплантеров
+    .suffix = Защищённый
+    .desc = Содержит 4 импланта Щит разума и 4 импланта Трекер. Чтобы открыть, необходим уровень доступа Служба безопасности.
+ent-CrateSecNonlethalThrowables = ящик с нелетальными метательными гранатами
+    .suffix = Защищённый
+    .desc = Содержит по одной коробке со светошумовыми гранатами, стрингерами, слезоточивыми гранатами и четыре боласа. Для открытия требуется доступ службы безопасности.

@@ -1,11 +1,6 @@
-ent-JugHolyWater = { ent-Jug }
-    .desc = { ent-Jug.desc }
-    .suffix = holy water
-
 ent-JugSalicylicAcid = { ent-Jug }
-    .desc = { ent-Jug.desc }
     .suffix = salicylic acid
-
-ent-JugOxandrolone = { ent-Jug }
     .desc = { ent-Jug.desc }
+ent-JugOxandrolone = { ent-Jug }
     .suffix = oxandrolone
+    .desc = { ent-Jug.desc }

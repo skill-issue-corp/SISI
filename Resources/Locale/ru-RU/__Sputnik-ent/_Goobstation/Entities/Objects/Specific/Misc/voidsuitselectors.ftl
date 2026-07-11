@@ -1,17 +1,12 @@
-ent-UndeterminedVoidsuitParamedic = paramedic hardsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
-
-ent-UndeterminedVoidsuitSecurity = security hardsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
-
-ent-UndeterminedVoidsuitHeadOfSecurity = head of security hardsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
-
-ent-UndeterminedVoidsuitEngineer = engineer hardsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
-
-ent-UndeterminedVoidsuitCaptain = captain hardsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
-
-ent-UndeterminedVoidsuitRD = research director hardsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
+ent-UndeterminedVoidsuitParamedic = селектор скафандра парамедика
+    .desc = Небольшой пульт, использующий блюспейс технологии для вызова скафандра или тяжёлого костюма на ваш выбор.
+ent-UndeterminedVoidsuitSecurity = селектор скафандра службы безопасности
+    .desc = { ent-UndeterminedVoidsuitParamedic.desc }
+ent-UndeterminedVoidsuitHeadOfSecurity = селектор скафандра главы службы безопасности
+    .desc = { ent-UndeterminedVoidsuitParamedic.desc }
+ent-UndeterminedVoidsuitEngineer = селектор скафандра инженера
+    .desc = { ent-UndeterminedVoidsuitParamedic.desc }
+ent-UndeterminedVoidsuitCaptain = селектор скафандра капитана
+    .desc = { ent-UndeterminedVoidsuitParamedic.desc }
+ent-UndeterminedVoidsuitRD = селектор скафандра научного руководителя
+    .desc = { ent-UndeterminedVoidsuitParamedic.desc }

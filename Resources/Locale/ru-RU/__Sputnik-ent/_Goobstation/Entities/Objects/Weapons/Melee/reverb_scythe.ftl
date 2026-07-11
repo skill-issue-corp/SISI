@@ -1,2 +1,2 @@
-ent-ReverbScythe = resonant scythe
-    .desc = The answer seems to be here… But the fruit isnt sweet enough just yet.
+ent-ReverbScythe = резонансная коса
+    .desc = Ответ, похоже, здесь… Но плод пока недостаточно созрел, чтобы быть сладким.

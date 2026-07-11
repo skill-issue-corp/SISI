@@ -1,14 +1,10 @@
-ent-WeaponEnergyTurretStationMachineCircuitboardBase = sentry turret machine board
-    .desc = A machine printed circuit board for a sentry turret.
-
-ent-WeaponEnergyTurretAIMachineCircuitboard = { ent-WeaponEnergyTurretStationMachineCircuitboardBase }
+ent-WeaponEnergyTurretStationMachineCircuitboardBase = охранная турель (машинная плата)
+    .desc = Печатная плата для охранной турели.
+ent-WeaponEnergyTurretStationMachineCircuitboard = { ent-WeaponEnergyTurretStationMachineCircuitboardBase }
     .desc = { ent-WeaponEnergyTurretStationMachineCircuitboardBase.desc }
-    .suffix = AI, Silicon
-
 ent-WeaponEnergyTurretSecurityMachineCircuitboard = { ent-WeaponEnergyTurretStationMachineCircuitboardBase }
+    .suffix = СБ
     .desc = { ent-WeaponEnergyTurretStationMachineCircuitboardBase.desc }
-    .suffix = Security
-
-ent-WeaponEnergyTurretCommandMachineCircuitboard = { ent-WeaponEnergyTurretStationMachineCircuitboardBase }
-    .desc = { ent-WeaponEnergyTurretStationMachineCircuitboardBase.desc }
-    .suffix = Command
+ent-WeaponEnergyTurretAIMachineCircuitboard = охранная турель ИИ (машинная плата)
+    .desc = Печатная плата для охранной турели ИИ.
+    .suffix = ИИ, Борги

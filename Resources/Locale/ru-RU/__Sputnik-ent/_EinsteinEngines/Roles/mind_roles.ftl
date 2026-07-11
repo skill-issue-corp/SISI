@@ -1,5 +1,4 @@
-ent-MindRoleShadowling = Shadowling Role
+ent-MindRoleShadowling = Роль тенеморфа
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleThrall = Thrall Role
+ent-MindRoleThrall = Роль тралла
     .desc = { ent-MindRoleShadowling.desc }

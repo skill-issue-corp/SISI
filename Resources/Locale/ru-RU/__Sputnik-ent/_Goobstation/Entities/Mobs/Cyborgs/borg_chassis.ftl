@@ -1,34 +1,82 @@
-ent-BorgChassisDerelictSyndicateAssault = derelict syndicate assasult cyborg
-    .desc = A lean, mean killing machine with access to a variety of deadly modules. This one is in a state of great disrepair.
-
-ent-BorgChassisUrist = Urist McBorg
-    .desc = An abomination that supposedly assists in station activity.
-
+ent-BorgChassisDerelictSyndicateAssault = брошенный штурмовой синдикатский борг
+    .desc = Худощавый, смертоносный механизм с доступом к разнообразным смертоносным модулям. Этот находится в состоянии сильного износа.
+ent-BorgChassisUrist = Урист МакБорг
+    .desc = Отродье, которое якобы помогает в работе станции.
 ent-PlayerBorgUrist = { ent-BorgChassisUrist }
+    .suffix = Батарея, Модуль
     .desc = { ent-BorgChassisUrist.desc }
-    .suffix = Battery, Module
-
 ent-PlayerBorgUristGhostRole = { ent-PlayerBorgUrist }
+    .suffix = Роль призрака
     .desc = { ent-PlayerBorgUrist.desc }
-    .suffix = Ghost role
-
-ent-BorgChassisMiningBasic = basic mining cyborg
+ent-BorgChassisMiningBasic = борг-шахтёр
     .desc = { ent-BorgChassisMining.desc }
-
-ent-BorgChassisEngineerBasic = basic engineer cyborg
+ent-BorgChassisMiningAdvanced = борг-шахтёр "продвинутый"
+    .desc = { ent-BorgChassisMining.desc }
+ent-BorgChassisMiningCoffin = борг-шахтёр "коффин"
+    .desc = { ent-BorgChassisMining.desc }
+ent-BorgChassisMiningLavaland = борг-шахтёр "лаваленд"
+    .desc = { ent-BorgChassisMining.desc }
+ent-BorgChassisMiningCricket = борг-шахтёр "сверчок"
+    .desc = { ent-BorgChassisMining.desc }
+ent-BorgChassisMiningSquat = борг-шахтёр "приседающий"
+    .desc = { ent-BorgChassisMining.desc }
+ent-BorgChassisMiningNoble = борг-шахтёр "дворянин"
+    .desc = { ent-BorgChassisMining.desc }
+ent-BorgChassisEngineerBasic = борг-инженер
     .desc = { ent-BorgChassisEngineer.desc }
-
-ent-BorgChassisJanitorBasic = basic janitor cyborg
+ent-BorgChassisEngineerAntique = борг-инженер "антикварный"
+    .desc = { ent-BorgChassisEngineer.desc }
+ent-BorgChassisEngineerStandart = борг-инженер "стандартный"
+    .desc = { ent-BorgChassisEngineer.desc }
+ent-BorgChassisEngineerNoble = борг-инженер "дворянин"
+    .desc = { ent-BorgChassisEngineer.desc }
+ent-BorgChassisEngineerCricket = борг-инженер "сверчок"
+    .desc = { ent-BorgChassisEngineer.desc }
+ent-BorgChassisEngineerRover = борг-инженер "ровер"
+    .desc = { ent-BorgChassisEngineer.desc }
+ent-BorgChassisJanitorBasic = борг-уборщик
     .desc = { ent-BorgChassisJanitor.desc }
-
-ent-BorgChassisMedicalMedbot = medbot cyborg
+ent-BorgChassisJanitorMopbot = борг-уборщик "чистобот"
+    .desc = { ent-BorgChassisJanitor.desc }
+ent-BorgChassisJanitorStandart = борг-уборщик "стандартный"
+    .desc = { ent-BorgChassisJanitor.desc }
+ent-BorgChassisJanitorCustodi = борг-уборщик "кустоди"
+    .desc = { ent-BorgChassisJanitor.desc }
+ent-BorgChassisJanitorNoble = борг-уборщик "дворянин"
+    .desc = { ent-BorgChassisJanitor.desc }
+ent-BorgChassisJanitorCricket = борг-уборщик "сверчок"
+    .desc = { ent-BorgChassisJanitor.desc }
+ent-BorgChassisJanitorRover = борг-уборщик "ровер
+    .desc = { ent-BorgChassisJanitor.desc }
+ent-BorgChassisMedicalStandart = борг-доктор
     .desc = { ent-BorgChassisMedical.desc }
-
-ent-BorgChassisServiceBrobot = brobot cyborg
+ent-BorgChassisMedicalMedbot = борг-доктор "медибот"
+    .desc = { ent-BorgChassisMedical.desc }
+ent-BorgChassisMedicalNeedles = борг-доктор "игла"
+    .desc = { ent-BorgChassisMedical.desc }
+ent-BorgChassisMedicalAdvanced = борг-доктор "продвинутый"
+    .desc = { ent-BorgChassisMedical.desc }
+ent-BorgChassisMedicalQualified = борг-доктор "квалифицированный"
+    .desc = { ent-BorgChassisMedical.desc }
+ent-BorgChassisMedicalNoble = борг-доктор "дворянин"
+    .desc = { ent-BorgChassisMedical.desc }
+ent-BorgChassisMedicalCricket = борг-доктор "сверчок"
+    .desc = { ent-BorgChassisMedical.desc }
+ent-BorgChassisMedicalRover = борг-доктор "ровер"
+    .desc = { ent-BorgChassisMedical.desc }
+ent-BorgChassisServiceStandart = борг-официант "стандартный"
     .desc = { ent-BorgChassisService.desc }
-
-ent-BorgChassisServiceWaitress = waitress cyborg
+ent-BorgChassisServiceBrobot = борг-официант "бро"
     .desc = { ent-BorgChassisService.desc }
-
-ent-BorgChassisServiceRich = rich cyborg
+ent-BorgChassisServiceWaitress = борг-официант
+    .desc = { ent-BorgChassisService.desc }
+ent-BorgChassisServiceCricket = борг-официант "сверчок"
+    .desc = { ent-BorgChassisService.desc }
+ent-BorgChassisServiceKent = борг-официант "кентуха"
+    .desc = { ent-BorgChassisService.desc }
+ent-BorgChassisServiceNoble = борг-официант "дворянин"
+    .desc = { ent-BorgChassisService.desc }
+ent-BorgChassisServiceRich = борг-официант "богатей"
+    .desc = { ent-BorgChassisService.desc }
+ent-BorgChassisServiceRover = борг-официант "ровер"
     .desc = { ent-BorgChassisService.desc }

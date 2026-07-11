@@ -1,5 +1,4 @@
-ent-ResinWeed = resin floor
-    .desc = A thick resin surface covers the floor.
-
-ent-ResinWeedNode = glowing resin
-    .desc = Blue bioluminescence shines from beneath the surface.
+ent-ResinWeed = смоляной пол
+    .desc = Толстый слой смолы покрывает пол.
+ent-ResinWeedNode = светящаяся смола
+    .desc = Голубое биолюминесцентное свечение исходит из-под поверхности.

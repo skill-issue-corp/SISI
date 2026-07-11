@@ -1,2 +1,2 @@
-ent-EnchantFortune = Fortune
+ent-EnchantFortune = Удача
     .desc = { ent-BaseEnchant.desc }

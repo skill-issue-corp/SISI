@@ -1,2 +1,2 @@
-ent-ClothingHandsGlovesEnviroglovesBase = { ent-ClothingHandsButcherable }
-    .desc = { ent-ClothingHandsButcherable.desc }
+ent-ClothingHandsGlovesEnviroglovesBase = { ent-ClothingHandsGlovesSyntheticBase }
+    .desc = { ent-ClothingHandsGlovesSyntheticBase.desc }

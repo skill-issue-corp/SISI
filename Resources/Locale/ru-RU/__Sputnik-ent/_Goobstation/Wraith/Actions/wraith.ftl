@@ -1,71 +1,48 @@
 ent-ActionToggleGhostHearingWraith = { ent-ActionToggleGhostHearing }
     .desc = { ent-ActionToggleGhostHearing.desc }
-
-ent-ActionHaunt = Haunt
-    .desc = Become corporeal for 30 seconds. During this time, you gain additional wraith points, depending on the amount of humans in your vicinity. Use this ability again while corporeal to fade back into the aether.
-
-ent-ActionWhisper = Whisper
-    .desc = Send an ethereal message to a living being.
-
-ent-ActionBloodWriting = Blood Writing
-    .desc = Write a spooky character on the ground.
-
-ent-ActionAbsorbCorpse = Absorb corpse
-    .desc = Steal life essence from a corpse. You cannot use this on a skeleton!
-
-ent-ActionSpook = Spook
-    .desc = Cause freaky, weird, creepy or spooky stuff to happen in an area around you. Use this ability to spawn an entity as the origin of these events, then interact with it to select which action to use.
-
-ent-ActionDecay = Decay
-    .desc = Cause a human to lose stamina, or an object to malfunction.
-
-ent-ActionCommand = Command
-    .desc = Command a few objects to hurl themselves at the target location.
-
-ent-ActionAnimateObject = Animate object
-    .desc = Animate an inanimate object to attack nearby humans.
-
-ent-ActionPossessObject = Possess object
-    .desc = Possess and control an everyday object. Freakout level high.
-
-ent-ActionEvolve = Evolve
-    .desc = Choose a form to evolve into once you have absorbed at least 3 souls.
-
-ent-ActionRaiseSkeleton = Raise skeleton
-    .desc = Raise a skeletonized dead body or fill a locker with an indurable skeletal servant.
-
-ent-ActionSummonVoidPortal = Summon void portal
-    .desc = Summon a void portal from which otherworldly creatures pour out.
-
-ent-ActionSummonVoidCreature = Summon void creatures
-    .desc = Attempt to breach the veil between worlds to allow a lesser void creature to enter this realm.
-
-ent-ActionMakeRevenant = Make revenant
-    .desc = Take control of an intact corpse as a powerful Revenant! You will not be able to absorb this corpse later. As a revenant, you gain increased point generation, but your revenant abilities cost much more points than normal.
-
+ent-ActionHaunt = Преследование
+    .desc = Станьте осязаемым на 30 секунд. В это время вы получаете дополнительные ФО, в зависимости от количества людей рядом с вами. Используйте эту способность снова, будучи осязаемым, чтобы снова раствориться в эфире.
+ent-ActionWhisper = Шёпот
+    .desc = Отправьте эфирное сообщение живому существу.
+ent-ActionBloodWriting = Кровавое послание
+    .desc = Напишите жуткий символ на земле.
+ent-ActionAbsorbCorpse = Поглотить труп
+    .desc = Похищает жизненную сущность из трупа. Нельзя использовать на скелете!
+ent-ActionSpook = Испугать
+    .desc = Вызывайте странные, жуткие или пугающие события в области вокруг вас. Используйте эту способность, чтобы создать объект, являющийся источником этих событий, затем взаимодействуйте с ним для выбора действия.
+ent-ActionDecay = Разложение
+    .desc = Заставьте человека терять выносливость или вызовите неисправность оборудования.
+ent-ActionCommand = Массированная атака
+    .desc = Заставьте несколько объектов броситься в выбранное место.
+ent-ActionAnimateObject = Оживление объекта
+    .desc = Оживите неодушевлённый объект для атаки ближайших людей.
+ent-ActionPossessObject = Овладеть объектом
+    .desc = Возьмите под контроль неодушевлённый предмет. Высокий уровень испуга.
+ent-ActionEvolve = Эволюция
+    .desc = Выберите форму для эволюции после поглощения как минимум трёх душ.
+ent-ActionRaiseSkeleton = Воскрешение скелета
+    .desc = Воскресите скелет из трупа или призовите его в шкаф.
+ent-ActionSummonVoidPortal = Портал Пустоты
+    .desc = Призовите портал Пустоты, из которого вылезают потусторонние твари.
+ent-ActionSummonVoidCreature = Тварь Пустоты
+    .desc = Пробейте завесу между мирами, чтобы позволить низшему существу Пустоты войти в этот мир.
+ent-ActionMakeRevenant = Создать Ревенанта
+    .desc = Возьмите под контроль труп для призыва мощного Ревенанта! Вы не сможете впоследствии поглотить этот труп. В качестве Ревенанта вы получаете увеличенное генерирование очков, но способности Ревенанта стоят гораздо дороже, чем обычно.
 ent-BaseCurseAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
-
-ent-ActionCurseBlindness = Curse of blindness
-    .desc = Curse the living with blindness.
-
-ent-ActionCurseWeakness = Curse of weakness
-    .desc = Curse the living with weakness. Applies slowdown and makes the target feel dizzy.
-
-ent-ActionCurseBlood = Curse of blood
-    .desc = Curse the living with a plague of blood.
-
-ent-ActionCurseRot = Curse of rot
-    .desc = Curse the living with a netherworldly plague.
-
-ent-ActionCurseDeath = Curse of death
-    .desc = Reap a fully cursed being's soul!
-
-ent-ActionDefile = Defile
-    .desc = Manifest some horrible poison inside a food item or a container. Use on self first to choose chemical.
-
-ent-ActionSummonPlagueRat = Summon Plague rat
-    .desc = Attempt to breach the veil between worlds to allow a plague rat to enter this realm.
-
-ent-ActionSummonRotHulk = Summon Rot Hulk
-    .desc = Assimilate the filth in an area and create an unstable servant.
+ent-ActionCurseBlindness = Проклятие слепоты
+    .desc = Прокляните живых существ на слепоту.
+ent-ActionCurseWeakness = Проклятие слабости
+    .desc = Прокляните живых существ на слабость. Замедляет и вызывает головокружение у цели.
+ent-ActionCurseBlood = Проклятие крови
+    .desc = Прокляните живых существ на чумную кровь.
+ent-ActionCurseRot = Проклятие гниения
+    .desc = Прокляните живых существ потустороннюю чуму.
+ent-ActionCurseDeath = Проклятие смерти
+    .desc = Питайтесь душой полностью проклятого существа!
+ent-ActionDefile = Осквернение
+    .desc = Создайте ужасный яд внутри еды или ёмкости. Сначала используйте на себе, чтобы выбрать химикат.
+ent-ActionSummonPlagueRat = Чумная крыса
+    .desc = Пробейте завесу между мирами, чтобы позволить чумной крысе войти в этот мир.
+ent-ActionSummonRotHulk = Гнилой гигант
+    .desc = Поглотите грязь в области и создайте нестабильного слугу.

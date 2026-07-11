@@ -1,248 +1,185 @@
-ent-Windoor = windoor
-    .desc = It's a window and a sliding door. Wow!
-
-ent-WindoorSecure = secure windoor
-    .desc = It's a sturdy window and a sliding door. Wow!
-
-ent-WindoorClockwork = clockwork windoor
-    .desc = It's a sturdy window and a sliding door. Wow!
-
-ent-WindoorPlasma = plasma windoor
-    .desc = It's a pink window *and* a sliding door. Amazing!
-
-ent-WindoorSecurePlasma = secure plasma windoor
-    .desc = It's a sturdy purple window *and* a sliding door. Spectacular!
-
-ent-WindoorUranium = uranium windoor
-    .desc = It's a window and a sliding door. Huh? Oh, and it's green!
-
-ent-WindoorSecureUranium = secure uranium windoor
-    .desc = It's a sturdy window and a sliding door. It's so neon green, it might even taste like limes!
-
-ent-WindoorBarLocked = { ent-WindoorServiceLocked }
-    .desc = { ent-WindoorServiceLocked.desc }
-    .suffix = Bar, Locked
-
-ent-WindoorBarKitchenLocked = { ent-WindoorServiceLocked }
-    .desc = { ent-WindoorServiceLocked.desc }
-    .suffix = Bar&Kitchen, Locked
-
-ent-WindoorCargoLocked = { ent-Windoor }
+ent-Windoor = раздвижное окно
+    .desc = Это и окно, и раздвижная дверь. Вот это да!
+ent-WindoorSecure = раздвижное бронеокно
+    .desc = Это и прочное окно, и раздвижная дверь. Вот это да!
+ent-WindoorClockwork = раздвижное заводное окно
+    .desc = Это и прочное окно, и раздвижная дверь. Вот это да!
+ent-WindoorPlasma = плазменное раздвижное окно
+    .desc = Это и розовое окно *и* раздвижная дверь. Невероятно!
+ent-WindoorSecurePlasma = плазменное раздвижное бронеокно
+    .desc = Это и прочное розовое окно *и* раздвижная дверь. Впечатляюще!
+ent-WindoorUranium = урановое раздвижное окно
+    .desc = Это и окно, и раздвижная дверь. Хм? Ох, и оно зелёное!
+ent-WindoorSecureUranium = урановое раздвижное бронеокно
+    .desc = Это и прочное окно *и* раздвижная дверь. Оно такое неоново-зелёное, может быть даже на вкус как лайм!
+ent-WindoorBarLocked = { ent-Windoor }
+    .suffix = Бар, Закрыт
     .desc = { ent-Windoor.desc }
-    .suffix = Cargo, Locked
-
-ent-WindoorChapelLocked = { ent-Windoor }
+ent-WindoorBarKitchenLocked = { ent-Windoor }
+    .suffix = Бар и Кухня, Закрыт
     .desc = { ent-Windoor.desc }
-    .suffix = Chapel, Locked
-
-ent-WindoorHydroponicsLocked = { ent-WindoorServiceLocked }
-    .desc = { ent-WindoorServiceLocked.desc }
-    .suffix = Hydroponics, Locked
-
-ent-WindoorJanitorLocked = { ent-WindoorServiceLocked }
-    .desc = { ent-WindoorServiceLocked.desc }
-    .suffix = Janitor, Locked
-
-ent-PlasmaWindoorJanitorLocked = { ent-WindoorPlasma }
-    .desc = { ent-WindoorPlasma.desc }
-    .suffix = Janitor, Locked, Plasma
-
-ent-WindoorKitchenLocked = { ent-WindoorServiceLocked }
-    .desc = { ent-WindoorServiceLocked.desc }
-    .suffix = Kitchen, Locked
-
-ent-WindoorKitchenHydroponicsLocked = { ent-WindoorServiceLocked }
-    .desc = { ent-WindoorServiceLocked.desc }
-    .suffix = Kitchen&Hydroponics, Locked
-
+ent-WindoorHydroponicsLocked = { ent-Windoor }
+    .suffix = Гидропоника, Закрыт
+    .desc = { ent-Windoor.desc }
+ent-WindoorKitchenLocked = { ent-Windoor }
+    .suffix = Кухня, Закрыт
+    .desc = { ent-Windoor.desc }
+ent-WindoorKitchenHydroponicsLocked = { ent-Windoor }
+    .suffix = Кухня и Гидропоника, Закрыт
+    .desc = { ent-Windoor.desc }
 ent-WindoorServiceLocked = { ent-Windoor }
+    .suffix = Сервис, Закрыт
     .desc = { ent-Windoor.desc }
-    .suffix = Service, Locked
-
-ent-WindoorTheatreLocked = { ent-WindoorServiceLocked }
-    .desc = { ent-WindoorServiceLocked.desc }
-    .suffix = Theatre, Locked
-
-ent-WindoorSecureArmoryLocked = { ent-WindoorSecure }
-    .desc = { ent-WindoorSecure.desc }
-    .suffix = Armory, Locked
-
-ent-PlasmaWindoorSecureArmoryLocked = { ent-WindoorSecurePlasma }
-    .desc = { ent-WindoorSecurePlasma.desc }
-    .suffix = Armory, Locked, Plasma
-
-ent-WindoorSecureAtmosphericsLocked = { ent-WindoorSecureEngineeringLocked }
-    .desc = { ent-WindoorSecureEngineeringLocked.desc }
-    .suffix = Atmospherics, Locked
-
-ent-PlasmaWindoorSecureAtmosphericsLocked = { ent-PlasmaWindoorSecureEngineeringLocked }
-    .desc = { ent-PlasmaWindoorSecureEngineeringLocked.desc }
-    .suffix = Atmospherics, Locked, Plasma
-
-ent-WindoorSecureBarLocked = { ent-WindoorSecureServiceLocked }
-    .desc = { ent-WindoorSecureServiceLocked.desc }
-    .suffix = Bar, Locked
-
+ent-PlasmaWindoorJanitorLocked = { ent-WindoorPlasma }
+    .suffix = Уборщик, Закрыт, Плазма
+    .desc = { ent-WindoorPlasma.desc }
+ent-WindoorTheatreLocked = { ent-Windoor }
+    .suffix = Театр, Закрыт
+    .desc = { ent-Windoor.desc }
+ent-WindoorSecureArmoryLocked = { ent-WindoorSecureSecurityLocked }
+    .suffix = Оружейная, Закрыт
+    .desc = { ent-WindoorSecureSecurityLocked.desc }
 ent-WindoorSecureBrigLocked = { ent-WindoorSecureSecurityLocked }
+    .suffix = Бриг, Закрыт
     .desc = { ent-WindoorSecureSecurityLocked.desc }
-    .suffix = Brig, Locked
-
-ent-WindoorSecureCargoLocked = { ent-WindoorSecure }
+ent-WindoorSecureChemistryLocked = { ent-WindoorSecure }
+    .suffix = Химия, Закрыт
     .desc = { ent-WindoorSecure.desc }
-    .suffix = Cargo, Locked
-
-ent-WindoorSecureChapelLocked = { ent-WindoorSecure }
-    .desc = { ent-WindoorSecure.desc }
-    .suffix = Chapel, Locked
-
-ent-WindoorSecureChemistryLocked = { ent-WindoorSecureMedicalLocked }
-    .desc = { ent-WindoorSecureMedicalLocked.desc }
-    .suffix = Chemistry, Locked
-
-ent-PlasmaWindoorSecureChemistryLocked = { ent-WindoorSecurePlasma }
-    .desc = { ent-WindoorSecurePlasma.desc }
-    .suffix = Chemistry, Locked, Plasma
-
-ent-WindoorSecureCentralCommandLocked = { ent-WindoorSecureCommandLocked }
-    .desc = { ent-WindoorSecureCommandLocked.desc }
-    .suffix = Central Command, Locked
-
-ent-PlasmaWindoorSecureCentralCommandLocked = { ent-PlasmaWindoorSecureCommandLocked }
-    .desc = { ent-PlasmaWindoorSecureCommandLocked.desc }
-    .suffix = Central Command, Locked, Plasma
-
-ent-UraniumWindoorSecureCentralCommandLocked = { ent-WindoorSecureUranium }
-    .desc = { ent-WindoorSecureUranium.desc }
-    .suffix = Central Command, Locked, Uranium
-
 ent-WindoorSecureCommandLocked = { ent-WindoorSecure }
+    .suffix = Командный, Закрыт
     .desc = { ent-WindoorSecure.desc }
-    .suffix = Command, Locked
-
-ent-PlasmaWindoorSecureCommandLocked = { ent-WindoorSecurePlasma }
+ent-PlasmaWindoorSecureArmoryLocked = { ent-WindoorSecurePlasma }
+    .suffix = Оружейная, Закрыт, Плазма
     .desc = { ent-WindoorSecurePlasma.desc }
-    .suffix = Command, Locked, Plasma
-
-ent-WindoorSecureDetectiveLocked = { ent-WindoorSecureSecurityLocked }
-    .desc = { ent-WindoorSecureSecurityLocked.desc }
-    .suffix = Detective, Locked
-
 ent-WindoorSecureEngineeringLocked = { ent-WindoorSecure }
+    .suffix = Инженерный, Закрыт
     .desc = { ent-WindoorSecure.desc }
-    .suffix = Engineering, Locked
-
-ent-PlasmaWindoorSecureEngineeringLocked = { ent-WindoorSecurePlasma }
+ent-PlasmaWindoorSecureAtmosphericsLocked = { ent-WindoorSecurePlasma }
+    .suffix = Атмосферный, Закрыт, Плазма
     .desc = { ent-WindoorSecurePlasma.desc }
-    .suffix = Engineering, Locked, Plasma
-
-ent-UraniumWindoorSecureEngineeringLocked = { ent-WindoorSecureUranium }
-    .desc = { ent-WindoorSecureUranium.desc }
-    .suffix = Engineering, Locked, Uranium
-
+ent-WindoorSecureBarLocked = { ent-WindoorSecure }
+    .suffix = Бар, Закрыт
+    .desc = { ent-WindoorSecure.desc }
 ent-WindoorSecureExternalLocked = { ent-WindoorSecure }
+    .suffix = Внешний, Закрыт
     .desc = { ent-WindoorSecure.desc }
-    .suffix = External, Locked
-
-ent-WindoorSecureJanitorLocked = { ent-WindoorSecureServiceLocked }
-    .desc = { ent-WindoorSecureServiceLocked.desc }
-    .suffix = Janitor, Locked
-
-ent-PlasmaWindoorSecureJanitorLocked = { ent-WindoorSecurePlasma }
+ent-WindoorSecureCargoLocked = { ent-WindoorSecure }
+    .suffix = Карго, Снабжение, Закрыт
+    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureChapelLocked = { ent-WindoorSecure }
+    .suffix = Храм, Закрыт
+    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureCentralCommandLocked = { ent-WindoorSecure }
+    .suffix = ЦК, Закрыт
+    .desc = { ent-WindoorSecure.desc }
+ent-PlasmaWindoorSecureChemistryLocked = { ent-WindoorSecurePlasma }
+    .suffix = Химия, Закрыт, Плазма
     .desc = { ent-WindoorSecurePlasma.desc }
-    .suffix = Janitor, Locked, Plasma
-
-ent-WindoorSecureKitchenLocked = { ent-WindoorSecureServiceLocked }
-    .desc = { ent-WindoorSecureServiceLocked.desc }
-    .suffix = Kitchen, Locked
-
-ent-WindoorSecureSecurityLawyerLocked = { ent-WindoorSecureSecurityLocked }
-    .desc = { ent-WindoorSecureSecurityLocked.desc }
-    .suffix = Security/Lawyer, Locked
-
 ent-WindoorSecureMedicalLocked = { ent-WindoorSecure }
+    .suffix = Медицинский, Закрыт
     .desc = { ent-WindoorSecure.desc }
-    .suffix = Medical, Locked
-
-ent-WindoorSecureResearchDirectorLocked = { ent-WindoorSecureCommandLocked }
-    .desc = { ent-WindoorSecureCommandLocked.desc }
-    .suffix = ResearchDirector, Locked
-
-ent-WindoorSecureSalvageLocked = { ent-WindoorSecureCargoLocked }
-    .desc = { ent-WindoorSecureCargoLocked.desc }
-    .suffix = Salvage, Locked
-
+ent-PlasmaWindoorSecureCentralCommandLocked = { ent-WindoorSecurePlasma }
+    .suffix = Центральное командование, Закрыт, Плазма
+    .desc = { ent-WindoorSecurePlasma.desc }
+ent-UraniumWindoorSecureCentralCommandLocked = { ent-WindoorSecureUranium }
+    .suffix = Центральное командование, Закрыт, Уран
+    .desc = { ent-WindoorSecureUranium.desc }
 ent-WindoorSecureSecurityLocked = { ent-WindoorSecure }
+    .suffix = Служба Безопасности, Закрыт
     .desc = { ent-WindoorSecure.desc }
-    .suffix = Security, Locked
-
-ent-PlasmaWindoorSecureSecurityLocked = { ent-WindoorSecurePlasma }
+ent-PlasmaWindoorSecureCommandLocked = { ent-WindoorSecurePlasma }
+    .suffix = Командный, Закрыт, Плазма
     .desc = { ent-WindoorSecurePlasma.desc }
-    .suffix = Security, Locked, Plasma
-
+ent-WindoorSecureDetectiveLocked = { ent-WindoorSecure }
+    .suffix = Детектив, Закрыт
+    .desc = { ent-WindoorSecure.desc }
 ent-WindoorSecureScienceLocked = { ent-WindoorSecure }
+    .suffix = Научный, Закрыт
     .desc = { ent-WindoorSecure.desc }
-    .suffix = Science, Locked
-
-ent-PlasmaWindoorSecureScienceLocked = { ent-WindoorSecurePlasma }
+ent-PlasmaWindoorSecureEngineeringLocked = { ent-WindoorSecurePlasma }
+    .suffix = Инженерный, Закрыт, Плазма
     .desc = { ent-WindoorSecurePlasma.desc }
-    .suffix = Science, Locked, Plasma
-
-ent-WindoorSecureServiceLocked = { ent-WindoorSecure }
+ent-UraniumWindoorSecureEngineeringLocked = { ent-WindoorSecureUranium }
+    .suffix = Инженерный, Закрыт, Уран
+    .desc = { ent-WindoorSecureUranium.desc }
+ent-WindoorSecureHeadOfPersonnelLocked = { ent-WindoorSecure }
+    .suffix = Глава Персонала, Закрыт
     .desc = { ent-WindoorSecure.desc }
-    .suffix = Service, Locked
-
-ent-WindoorSecureHeadOfPersonnelLocked = { ent-WindoorSecureCommandLocked }
+ent-WindoorSecureAtmosphericsLocked = { ent-WindoorSecure }
+    .suffix = Атмосферный, Закрыт
+    .desc = { ent-WindoorSecure.desc }
+ent-PlasmaWindoorSecureJanitorLocked = { ent-WindoorSecurePlasma }
+    .suffix = Уборщик, Закрыт, Плазма
+    .desc = { ent-WindoorSecurePlasma.desc }
+ent-WindoorSecureSecurityLawyerLocked = { ent-WindoorSecureSecurityLocked }
+    .suffix = Служба Безопасности/Юридический, Закрыт
+    .desc = { ent-WindoorSecureSecurityLocked.desc }
+ent-WindoorCargoLocked = { ent-Windoor }
+    .suffix = Карго, Снабжение, Закрыт
+    .desc = { ent-Windoor.desc }
+ent-WindoorSecureJanitorLocked = { ent-WindoorSecure }
+    .suffix = Уборщик, Закрыт
+    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureResearchDirectorLocked = { ent-WindoorSecureCommandLocked }
+    .suffix = Научный Руководитель, Закрыт
     .desc = { ent-WindoorSecureCommandLocked.desc }
-    .suffix = HeadOfPersonnel, Locked
-
+ent-WindoorSecureKitchenLocked = { ent-WindoorSecure }
+    .suffix = Кухня, Закрыт
+    .desc = { ent-WindoorSecure.desc }
+ent-WindoorSecureSalvageLocked = { ent-WindoorSecure }
+    .suffix = Утилизаторы, Закрыт
+    .desc = { ent-WindoorSecure.desc }
+ent-PlasmaWindoorSecureSecurityLocked = { ent-WindoorSecurePlasma }
+    .suffix = Служба Безопасности, Закрыт, Плазма
+    .desc = { ent-WindoorSecurePlasma.desc }
+ent-WindoorChapelLocked = { ent-Windoor }
+    .suffix = Храм, Закрыт
+    .desc = { ent-Windoor.desc }
+ent-PlasmaWindoorSecureScienceLocked = { ent-WindoorSecurePlasma }
+    .suffix = Научный, Закрыт, Плазма
+    .desc = { ent-WindoorSecurePlasma.desc }
+ent-WindoorSecureServiceLocked = { ent-WindoorSecure }
+    .suffix = Сервис, Закрыт
+    .desc = { ent-WindoorSecure.desc }
+ent-WindoorJanitorLocked = { ent-Windoor }
+    .suffix = Уборщик, Закрыт
+    .desc = { ent-Windoor.desc }
 ent-WindoorSyndicateLocked = { ent-Windoor }
+    .suffix = Синдикат, Закрыт
     .desc = { ent-Windoor.desc }
-    .suffix = Syndicate, Locked
-
 ent-WindoorSecureSyndicateLocked = { ent-WindoorSecure }
+    .suffix = Синдикат, Закрыт
     .desc = { ent-WindoorSecure.desc }
-    .suffix = Syndicate, Locked
-
 ent-PlasmaWindoorSyndicateLocked = { ent-WindoorPlasma }
+    .suffix = Синдикат, Закрыт, Плазма
     .desc = { ent-WindoorPlasma.desc }
-    .suffix = Syndicate, Locked, Plasma
-
 ent-PlasmaWindoorSecureSyndicateLocked = { ent-WindoorSecurePlasma }
+    .suffix = Синдикат, Закрыт, Плазма
     .desc = { ent-WindoorSecurePlasma.desc }
-    .suffix = Syndicate, Locked, Plasma
-
-ent-PlasmaWindoorSecureSyndicateLockedIndestructable = secure plasma windoor?
-    .desc = You have a bad feeling about this.
-    .suffix = Syndicate, Locked, Plasma, Indestructable
-
+ent-PlasmaWindoorSecureSyndicateLockedIndestructable = плазменное раздвижное окно?
+    .desc = У тебя нехорошее предчувствие.
+    .suffix = Синдикат, Закрыт, Плазма, Неразрушимое
 ent-UraniumWindoorSyndicateLocked = { ent-WindoorUranium }
+    .suffix = Синдикат, Закрыт, Уран
     .desc = { ent-WindoorUranium.desc }
-    .suffix = Syndicate, Locked, Uranium
-
 ent-UraniumWindoorSecureSyndicateLocked = { ent-WindoorSecureUranium }
+    .suffix = Синдикат, Закрыт, Уран
     .desc = { ent-WindoorSecureUranium.desc }
-    .suffix = Syndicate, Locked, Uranium
-
 ent-WindoorNukeopLocked = { ent-Windoor }
+    .suffix = Ядерные оперативники, Закрыт
     .desc = { ent-Windoor.desc }
-    .suffix = Nukeop, Locked
-
 ent-WindoorSecureNukeopLocked = { ent-WindoorSecure }
+    .suffix = Ядерные оперативники, Закрыт
     .desc = { ent-WindoorSecure.desc }
-    .suffix = Nukeop, Locked
-
 ent-PlasmaWindoorNukeopLocked = { ent-WindoorPlasma }
+    .suffix = Ядерные оперативники, Закрыт, Плазма
     .desc = { ent-WindoorPlasma.desc }
-    .suffix = Nukeop, Locked, Plasma
-
 ent-PlasmaWindoorSecureNukeopLocked = { ent-WindoorSecurePlasma }
+    .suffix = Ядерные оперативники, Закрыт, Плазма
     .desc = { ent-WindoorSecurePlasma.desc }
-    .suffix = Nukeop, Locked, Plasma
-
 ent-UraniumWindoorNukeopLocked = { ent-WindoorUranium }
+    .suffix = Ядерные оперативники, Закрыт, Уран
     .desc = { ent-WindoorUranium.desc }
-    .suffix = Nukeop, Locked, Uranium
-
 ent-UraniumWindoorSecureNukeopLocked = { ent-WindoorSecureUranium }
+    .suffix = Ядерные оперативники, Закрыт, Уран
     .desc = { ent-WindoorSecureUranium.desc }
-    .suffix = Nukeop, Locked, Uranium

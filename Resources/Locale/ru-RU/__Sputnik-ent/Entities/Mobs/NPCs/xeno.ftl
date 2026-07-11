@@ -1,9 +1,21 @@
-ent-MobPurpleSnake = space adder
-    .desc = A menacing purple snake from Kepler-283c.
-
-ent-SolutionVenomPurpleSnake = { ent-SolutionWeapon }
-    .desc = { ent-SolutionWeapon.desc }
-
-ent-MobSmallPurpleSnake = space adder
-    .desc = A smaller version of the menacing purple snake from Kepler-283c.
-    .suffix = small
+ent-MobXeno = Бурильщик
+    .desc = Обычно они приходят ночью. Обычно.
+ent-MobXenoPraetorian = Преторианец
+    .desc = { ent-MobXeno.desc }
+ent-MobXenoDrone = Дрон
+    .desc = { ent-MobXeno.desc }
+ent-MobXenoQueen = Королева
+    .desc = { ent-MobXeno.desc }
+ent-MobXenoRavager = Разрушитель
+    .desc = { ent-MobXeno.desc }
+ent-MobXenoRunner = Бегун
+    .desc = { ent-MobXeno.desc }
+ent-MobXenoRouny = Руни
+    .desc = { ent-MobXenoRunner.desc }
+ent-MobXenoSpitter = Плевальщик
+    .desc = { ent-MobXeno.desc }
+ent-MobPurpleSnake = космическая гадюка
+    .desc = Грозная пурпурная змея с Kepler-283c.
+ent-MobSmallPurpleSnake = космическая гадюка
+    .desc = Уменьшенная версия грозной пурпурной змеи из Kepler-283c.
+    .suffix = Маленькая

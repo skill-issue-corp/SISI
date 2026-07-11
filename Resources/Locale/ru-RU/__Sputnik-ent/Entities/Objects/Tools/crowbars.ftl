@@ -1,17 +1,12 @@
-ent-BaseCrowbar = crowbar
-    .desc = A multipurpose tool used for many tasks, such as prying doors or bludgeoning interdimensional invaders.
-
+ent-BaseCrowbar = монтировка
+    .desc = { ent-BaseItem.desc }
 ent-Crowbar = { ent-BaseCrowbar }
-    .desc = { ent-BaseCrowbar.desc }
-
-ent-CrowbarRed = { ent-BaseCrowbar }
-    .desc = { ent-BaseCrowbar.desc }
-
+    .desc = Многофункциональный инструмент для открывания дверей и борьбы с межпространственными захватчиками.
+ent-CrowbarRed = аварийная монтировка
+    .desc = Аварийный лом, предназначенный для открывания дверей и замков во время отключения электричества.
 ent-CrowbarGreen = { ent-BaseCrowbar }
-    .desc = { ent-BaseCrowbar.desc }
-
+    .desc = Многофункциональный инструмент для открывания дверей и борьбы с межпространственными захватчиками, напечатанный на лате.
 ent-CrowbarOrange = { ent-BaseCrowbar }
-    .desc = { ent-BaseCrowbar.desc }
-
+    .desc = Многофункциональный инструмент для открывания дверей и борьбы с межпространственными захватчиками, который можно найти в ящиках для инструментов.
 ent-CrowbarYellow = { ent-BaseCrowbar }
-    .desc = { ent-BaseCrowbar.desc }
+    .desc = Многофункциональный инструмент для открывания дверей и борьбы с межпространственными захватчиками, получаемый инженерами.

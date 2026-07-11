@@ -1,27 +1,21 @@
 ent-LockerBoozeFilled = { ent-LockerBooze }
+    .suffix = Заполненный
     .desc = { ent-LockerBooze.desc }
-    .suffix = Filled
-
 ent-ClosetChefFilled = { ent-ClosetChef }
+    .suffix = Заполненный
     .desc = { ent-ClosetChef.desc }
-    .suffix = Filled
-
 ent-ClosetJanitorFilled = { ent-ClosetJanitor }
+    .suffix = Заполненный
     .desc = { ent-ClosetJanitor.desc }
-    .suffix = Filled
-
 ent-ClosetLegalFilled = { ent-ClosetLegal }
+    .suffix = Заполненный
     .desc = { ent-ClosetLegal.desc }
-    .suffix = Filled
-
 ent-LockerBotanistFilled = { ent-LockerBotanist }
+    .suffix = Заполненный
     .desc = { ent-LockerBotanist.desc }
-    .suffix = Filled
-
 ent-LockerBotanistLoot = { ent-LockerBotanist }
+    .suffix = Лут
     .desc = { ent-LockerBotanist.desc }
-    .suffix = Loot
-
 ent-ClosetJanitorBombFilled = { ent-ClosetJanitorBomb }
+    .suffix = Заполненный, НЕ МАППИТЬ
     .desc = { ent-ClosetJanitorBomb.desc }
-    .suffix = DO NOT MAP, Filled

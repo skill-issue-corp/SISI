@@ -1,21 +1,15 @@
-ent-ScatteringGrenadeBase = { ent-GrenadeBase }
-    .desc = { ent-GrenadeBase.desc }
-
-ent-ClusterBang = clusterbang
-    .desc = Can be used only with flashbangs. Explodes several times.
-
-ent-ClusterBangFull = clusterbang
-    .desc = Launches three flashbangs after the timer runs out.
-    .suffix = Full
-
-ent-ClusterGrenade = ClusterGrenade
-    .desc = Why use one grenade when you can use three at once!
-
-ent-ClusterBananaPeel = cluster banana peel
-    .desc = Splits into 6 explosive banana peels after throwing, guaranteed fun!
-
-ent-SlipocalypseClusterSoap = slipocalypse clustersoap
-    .desc = Spreads small pieces of syndicate soap over an area upon landing on the floor.
-
-ent-GrenadeFoamDart = foam dart grenade
-    .desc = Releases a bothersome spray of foam darts that cause severe welching.
+ent-ScatteringGrenadeBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-ClusterBang = кластерная светошумовая граната
+    .desc = Может быть использовано только со светошумовыми гранатами. Взрывается несколько раз.
+ent-ClusterBangFull = кластерная светошумовая граната
+    .desc = Запускает три светошумовые гранаты по истечении таймера.
+    .suffix = Полный
+ent-ClusterGrenade = кластерная граната
+    .desc = Зачем использовать одну гранату, если можно использовать сразу три!
+ent-ClusterBananaPeel = кластерная банановая кожура
+    .desc = После приземления распадается на 6 взрывоопасных банановых кожур, веселье гарантировано!
+ent-SlipocalypseClusterSoap = кластерное мыло Скользкопокалипсис
+    .desc = После приземления разбрасывает вокруг себя маленькие кусочки мыла Синдиката.
+ent-GrenadeFoamDart = пенопластовая граната
+    .desc = Выпускает облако надоедливых пенопластовых дротиков, вызывающих споры о том, было ли попадание.

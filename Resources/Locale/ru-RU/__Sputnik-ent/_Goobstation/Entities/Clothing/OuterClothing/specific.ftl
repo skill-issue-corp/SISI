@@ -1,34 +1,29 @@
-ent-ClothingOuterSuitHEV = H.E.V suit
-    .desc = Full-body hazardous suit designed to protect wearer from radiation, energy discarges, blunt-force trauma during the handling of hazardous material.
-
-ent-SurveillanceWirelessCameraBodyEntertainment = nopro camera
-    .desc = A body mounted camera. It's watching you.
-
-ent-WhiteRobes = robes of the chosen one
-    .desc = theses white robes are worn by only the finest of Nanotrasen's special operations department.
-    .suffix = chosen one
-
-ent-ClothingOuterSuitHotDog = hotdog costume
-    .desc = Hot-diggity-dog!
-
-ent-ClothingOuterSuitPickle = pickle suit
-    .desc = Smells horribly of vinegar.
-
-ent-ClothingOuterArmorHereticCostume = occult robes
-    .desc = A ragged, dusty set of robes. Strange smudgy eyes line the inside.
-
+ent-ClothingOuterSuitHEV = костюм H.E.V
+    .desc = Полнотелый защитный костюм, предназначенный для защиты владельца от радиации, энергетических разрядов и тупой силы при работе с опасными материалами.
+ent-SurveillanceWirelessCameraBodyEntertainment = камера NOPRO
+    .desc = Камера, крепящаяся на тело. Она следит за тобой.
+ent-WhiteRobes = роба избранного
+    .desc = Эти белые робы носят только лучшие сотрудники ОБР NanoTrasen.
+    .suffix = Избранный
+ent-ClothingOuterSuitHotDog = костюм хотдога
+    .desc = Деловой костюм горячей собаки.
+ent-ClothingOuterSuitPickle = костюм огурчика
+    .desc = Смердит уксусом.
+ent-ClothingOuterSuitTutu = балетная пачка
+    .desc = Почему...
+ent-ClothingOuterArmorHereticCostume = оккультная роба
+    .desc = Порванный, покрытый пылью костюм. Под ним размыто виднеются глаза.
 ent-ClothingOuterArmorHereticVoidCostume = { ent-ClothingOuterArmorHereticCostume }
+    .suffix = Путь Пустоты
     .desc = { ent-ClothingOuterArmorHereticCostume.desc }
-    .suffix = Void
-
 ent-ClothingOuterArmorHereticAshCostume = { ent-ClothingOuterArmorHereticCostume }
+    .suffix = Путь Пепла
     .desc = { ent-ClothingOuterArmorHereticCostume.desc }
-    .suffix = Ash
-
 ent-ClothingOuterArmorHereticFleshCostume = { ent-ClothingOuterArmorHereticCostume }
+    .suffix = Путь Плоти
     .desc = { ent-ClothingOuterArmorHereticCostume.desc }
-    .suffix = Flesh
-
 ent-ClothingOuterArmorHereticBladeCostume = { ent-ClothingOuterArmorHereticCostume }
+    .suffix = Путь Клинка
     .desc = { ent-ClothingOuterArmorHereticCostume.desc }
-    .suffix = Blade
+ent-ClothingOuterSchemaMonk = монашеское облачение
+    .desc = Знак полного отречения от мира и принятия подвига. Его носят те, кто избрал путь молитвы и борьбы за человеческую душу. В безмолвии космоса оно кажется особенно уместным.

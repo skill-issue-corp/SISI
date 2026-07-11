@@ -1,23 +1,39 @@
 ent-DiseaseBehaviorDebug = { ent-DiseaseBehaviorBase }
     .desc = { ent-DiseaseBehaviorBase.desc }
-
-ent-DiseaseBehaviorTurboCancer = turbocancer
-    .desc = Deals genetic and blunt damage over time. A short time.
-
-ent-DiseaseBehaviorSpreadDebug = debug spread
-    .desc = The plague.
-
-ent-DiseaseBehaviorForceSpreadDebug = omega spread
-    .desc = Worlds will rot.
-
-ent-DiseaseBehaviorTurboBlunt = poison
-    .desc = Deals lots of blunt damage over time.
-
-ent-DiseaseBehaviorDeconstructFloor = tile prying
-    .desc = Deconstructs the floor.
-
-ent-DiseaseTurboCancer = turbo cancer
-    .desc = Deals lots of genetic damage to the infected. Better prepare the funeral.
-
-ent-DiseaseTheRot = the rot
-    .desc = If you are reading this, you've invoked the gods' wrath.
+    .suffix = DEBUG
+ent-DiseaseBehaviorTurboCancer = Креветка
+    .desc = Периодически наносит урон ушибами и генетический. О-о-очень часто...
+    .suffix = DEBUG
+ent-DiseaseBehaviorSpreadDebug = DEBUG распространение
+    .desc = Чума.
+    .suffix = DEBUG
+ent-DiseaseBehaviorForceSpreadDebug = Мега распространение
+    .desc = Мир сгниёт.
+    .suffix = DEBUG
+ent-DiseaseBehaviorTurboBlunt = Крокодил
+    .desc = Периодически наносит огромный урон ушибами.
+    .suffix = DEBUG
+ent-DiseaseBehaviorDeconstructFloor = Плиткожор
+    .desc = Демонтаж пола.
+    .suffix = DEBUG
+ent-DiseaseTurboCancer = Креветка
+    .desc = Периодически наносит огромный урон ушибами и генетический. Пишите завещание.
+    .suffix = DEBUG
+ent-DiseaseTheRot = Гниение
+    .desc = Если вы это читаете, значит, вы навлекли гнев богов.
+    .suffix = DEBUG
+ent-MeleeDebugInfectTurboCancer = палка Креветки
+    .desc = Хочешь узнать, какой на вкус "рыжий лес"?
+    .suffix = DEBUG
+ent-MeleeDebugInfectTheRot = палка Гниения
+    .desc = Уничтожает всё. Серьезно.
+    .suffix = DEBUG
+ent-MeleeDebugInfectFlu = палка Гриппа
+    .desc = Даёт вам грипп. А люди всё гадают откуда он берется.
+    .suffix = DEBUG
+ent-MeleeDebugInfectGravitosisA = палка Гравитоза
+    .desc = Даёт вам Гравитоз А.
+    .suffix = DEBUG
+ent-MeleeDebugInfectGunemia = палка Пулемии
+    .desc = Даёт вам пулемию.
+    .suffix = DEBUG

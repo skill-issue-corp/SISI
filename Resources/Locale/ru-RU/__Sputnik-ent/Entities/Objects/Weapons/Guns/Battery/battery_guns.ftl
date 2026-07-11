@@ -1,101 +1,76 @@
 ent-BaseWeaponBattery = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
-ent-BaseLaserRifle = { ent-BaseWeaponBattery }
-    .desc = { ent-BaseWeaponBattery.desc }
-
 ent-BaseWeaponPowerCell = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
 ent-BaseWeaponBatterySmall = { ent-BaseWeaponBattery }
     .desc = { ent-BaseWeaponBattery.desc }
-
 ent-BaseWeaponPowerCellSmall = { ent-BaseWeaponPowerCell }
     .desc = { ent-BaseWeaponPowerCell.desc }
-
-ent-WeaponLaserSvalinn = svalinn laser pistol
-    .desc = A cheap and widely used laser pistol.
-
-ent-WeaponLaserGun = retro laser blaster
-    .desc = A weapon using light amplified by the stimulated emission of radiation.
-
-ent-WeaponMakeshiftLaser = makeshift laser pistol
-    .desc = Better pray it won't burn your hands off.
-
-ent-WeaponTeslaGun = tesla gun
-    .desc = The power of the primordial element of lightning in your hands.
-
-# SIS-Start
-# ent-WeaponLaserCarbine = laser gun
-#     .desc = Favoured by Nanotrasen Security for being cheap and easy to use.
-# SIS-End
-
-ent-WeaponLaserCarbinePractice = practice laser gun
-    .desc = This modified laser carbine fires nearly harmless beams in the 40-watt range, for target practice.
-
-ent-WeaponPulsePistol = pulse pistol
-    .desc = A state-of-the-art pulse based weapon. It's smaller frame allows it to passively regenerate charge.
-
-ent-WeaponPulseCarbine = pulse carbine
-    .desc = A state-of-the-art pulse carbine, typically used by Nanotrasen militia.
-
-ent-WeaponPulseRifle = pulse rifle
-    .desc = A weapon almost as infamous as its users.
-
-# SIS-Start
-# ent-WeaponLaserCannon = laser cannon
-#     .desc = A heavy duty, high powered laser weapon.
-# SIS-End
-
-ent-WeaponParticleDecelerator = portable particle decelerator
-    .desc = A portable particle decelerator capable of decomposing a tesla or singularity.
-
-ent-WeaponXrayCannon = x-ray cannon
-    .desc = An experimental weapon that uses concentrated x-ray energy against its target.
-
-ent-WeaponDisablerPractice = practice disabler
-    .desc = A self-defense weapon that exhausts organic targets, weakening them until they collapse. This one has been undertuned for cadets making it mostly harmless.
-
-ent-WeaponDisabler = disabler
-    .desc = A self-defense weapon that exhausts organic targets, weakening them until they collapse.
-
-ent-WeaponDisablerSMG = disabler SMG
-    .desc = Advanced weapon that exhausts organic targets, weakening them until they collapse.
-
-ent-WeaponTaser = taser
-    .desc = A low-capacity, energy-based stun gun used by security teams to subdue targets at close range.
-
-ent-WeaponTaserSuper = elite taser
-    .desc = A low-capacity, energy-based stun gun used by elite security teams to disable even the toughest of targets.
-    .suffix = ADMEME
-
-ent-WeaponAntiqueLaser = antique laser pistol
-    .desc = This is an antique laser pistol. All craftsmanship is of the highest quality. It is decorated with a mahogany grip and chrome filigree. The object menaces with spikes of energy. On the item is an image of a captain and a clown. The clown is dead. The captain is striking a heroic pose.
-
-ent-WeaponAdvancedLaser = advanced laser pistol
-    .desc = An experimental high-energy laser pistol with a self-charging nuclear battery.
-
-ent-WeaponPistolCHIMP = C.H.I.M.P. handcannon
-    .desc = Just because it's a little C.H.I.M.P. doesn't mean it can't punch like an A.P.E.
-
-ent-WeaponPistolCHIMPUpgraded = { ent-WeaponPistolCHIMP }
-    .desc = { ent-WeaponPistolCHIMP.desc }
-    .suffix = Syndicate
-
-ent-WeaponBehonkerLaser = eye of a behonker
-    .desc = The eye of a behonker, it fires a laser when squeezed.
-
-ent-WeaponEnergyShotgun = energy shotgun
-    .desc = A one-of-a-kind prototype energy weapon that uses various shotgun configurations. It offers the possibility of both lethal and non-lethal shots, making it a versatile weapon.
-
-ent-WeaponEnergyMagnum = energy magnum
-    .desc = A high powered self-charging energy pistol designed for elite security personnel. It has has three firing modes allowing for either high damage, window piercing, or non-lethal disabling.
-
-ent-WeaponTemperatureGun = temperature gun
-    .desc = An advanced gun that shoots body-temperature-changing beams. Beams cannot be reflected.
-
-ent-WeaponLaserGunXenoborg = xenoborg laser gun
+ent-WeaponLaserSvalinn = лазерный пистолет Свалинн
+    .desc = Дешёвый и широко распространённый лазерный пистолет.
+ent-WeaponLaserGun = старомодный лазерный бластер
+    .desc = Оружие, использующее свет, усиленный излучением радиации.
+    .suffix = Пистолет
+ent-WeaponMakeshiftLaser = самодельный лазерный пистолет
+    .desc = Молитесь, чтобы он не обжёг вам руки.
+    .suffix = Пистолет
+ent-WeaponTeslaGun = Тесла-пушка
+    .desc = Сила первородной стихии молнии в ваших руках.
+ent-WeaponLaserCarbine = лазерная винтовка
+    .desc = Предпочитается службой безопасности Nanotrasen за дешевизну и простоту использования.
+    .suffix = Винтовка
+ent-WeaponLaserCarbinePractice = тренировочная лазерная винтовка
+    .desc = Модифицированная версия лазерной винтовки, стреляющая практически безвредными 40-ваттными лучами и предназначенная для стрельбы по мишеням.
+ent-WeaponPulsePistol = импульсный пистолет
+    .desc = Новейший энергетический пистолет, предпочитаемый оперативниками Nanotrasen в качестве запасного оружия.
+    .suffix = Пистолет
+ent-WeaponPulseCarbine = импульсный карабин
+    .desc = Высокотехнологичный энергетический карабин, который предпочитают оперативники ОБР Nanotrasen.
+    .suffix = Винтовка
+ent-WeaponPulseRifle = импульсная винтовка
+    .desc = Оружие, почти столь же печально известное, как и его пользователи.
+    .suffix = Винтовка
+ent-WeaponLaserCannon = лазерная пушка
+    .desc = Тяжёлое сверхмощное лазерное оружие.
+    .suffix = Винтовка
+ent-WeaponParticleDecelerator = портативный замедлитель частиц
+    .desc = Портативный замедлитель частиц, способный разложить Теслу или сингулярность.
+ent-WeaponXrayCannon = рентгеновская пушка
+    .desc = Экспериментальное оружие, использующее сконцентрированную энергию рентгеновского излучения.
+    .suffix = Винтовка
+ent-WeaponDisabler = станнер
+    .desc = Оружие для самозащиты, которое изнуряет органические цели, пока они не свалятся с ног.
+    .suffix = Пистолет
+ent-WeaponDisablerSMG = станнер-пулемёт
+    .desc = Усовершенствованное оружие, которое изнуряет органические цели, пока они не свалятся с ног. Некоторые называют его автостаннер.
+ent-WeaponDisablerPractice = тренировочный станнер
+    .desc = Оружие для самозащиты, которое изнуряет органические цели, пока они не свалятся с ног. Эта модель была урезана для кадетов и практически безвредна.
+    .suffix = Пистолет
+ent-WeaponTaser = тазер
+    .desc = Электрошокер малой мощности, используемый службой безопасности для подавления целей на расстоянии.
+    .suffix = Пистолет
+ent-WeaponTaserSuper = элитный тазер
+    .desc = Электрошокер малой ёмкости, используемый элитной службой безопасности для обезвреживания даже самых стойких целей.
+    .suffix = Адмем
+ent-WeaponAntiqueLaser = антикварный лазерный пистолет
+    .desc = Это антикварный лазерный пистолет. Вся работа выполнена с высочайшим качеством. Он украшен рукояткой из красного дерева и хромированной филигранью. Объект устрашает энергетическими всплесками. На нём изображены капитан и клоун. Клоун мёртв. Капитан принимает героическую позу.
+    .suffix = Пистолет
+ent-WeaponAdvancedLaser = продвинутый лазерный пистолет
+    .desc = Экспериментальный высокоэнергетический лазерный пистолет с самозаряжающейся ядерной батареей.
+    .suffix = Пистолет
+ent-WeaponPistolCHIMP = излучатель М.А.Р.Т.Ы.Х.
+    .desc = То, что это маленький М.А.Р.Т.Ы.Х., не означает, что он не может бить как М.А.К.А.К.
+    .suffix = Пистолет, Мартых
+ent-WeaponPistolCHIMPUpgraded = экспериментальный излучатель М.А.Р.Т.Ы.Х.
+    .desc = Похоже, этот М.А.Р.Т.Ы.Х. бьёт сильнее обычного.
+    .suffix = Пистолет
+ent-WeaponBehonkerLaser = око бехонкера
+    .desc = Глаз бехонкера, при сжатии выстреливает лазером.
+ent-WeaponEnergyShotgun = энергетический дробовик
+    .desc = Единственный в своём роде прототип энергетического оружия, использующий различные конфигурации дробовика. Оно позволяет совершать как смертельные, так и несмертельные выстрелы, что делает его универсальным оружием.
+ent-WeaponTemperatureGun = термопушка
+    .desc = Продвинутое оружие, стреляющее лучами, изменяющими температуру тела. Вероятно, это подпадает под военное преступление.
+ent-XenoborgLaserGun = лазерная пушка ксеноборга
     .desc = { ent-WeaponAdvancedLaser.desc }
-
-ent-WeaponLaserCannonXenoborg = xenoborg laser cannon
-    .desc = { ent-WeaponLaserCannon.desc }
+ent-XenoborgHeavyLaserGun = тяжёлая лазерная пушка ксеноборга
+    .desc = { ent-WeaponAdvancedLaser.desc }

@@ -1,18 +1,13 @@
-ent-BaseCartridgePistol = cartridge (.35 auto)
+ent-BaseCartridgePistol = патрон (.35 авто)
     .desc = { ent-BaseCartridge.desc }
-
-ent-CartridgePistol = cartridge (.35 auto)
-    .desc = Arguably the most popular caliber on the market, used by all manner of pistols and submachine guns. Standard kinetic ammunition is common and useful in most situations.
-
-ent-CartridgePistolPractice = cartridge (.35 auto practice)
-    .desc = Arguably the most popular caliber on the market, used by all manner of pistols and submachine guns. Practice ammunition fires a chalk projectile that stings a little, but otherwise causes no lasting damage.
-
-ent-CartridgePistolIncendiary = cartridge (.35 auto incendiary)
-    .desc = Arguably the most popular caliber on the market, used by all manner of pistols and submachine guns. Incendiary ammunition contains a self-igniting compound that sets targets ablaze.
-
-ent-CartridgePistolUranium = cartridge (.35 auto uranium)
-    .desc = Arguably the most popular caliber on the market, used by all manner of pistols and submachine guns. Uranium ammunition replaces the lead core of the bullet with fissile material, irradiating targets from the inside.
-
-ent-CartridgePistolSpent = cartridge (.35 auto)
+ent-CartridgePistol = патрон (.35 авто)
     .desc = { ent-BaseCartridgePistol.desc }
-    .suffix = spent
+ent-CartridgePistolPractice = патрон (.35 авто учебный)
+    .desc = { ent-BaseCartridgePistol.desc }
+ent-CartridgePistolIncendiary = патрон (.35 авто зажигательный)
+    .desc = { ent-BaseCartridgePistol.desc }
+ent-CartridgePistolUranium = патрон (.35 авто урановый)
+    .desc = { ent-BaseCartridgePistol.desc }
+ent-CartridgePistolSpent = патрон (.35 авто)
+    .suffix = Использованный
+    .desc = { ent-BaseCartridgePistol.desc }

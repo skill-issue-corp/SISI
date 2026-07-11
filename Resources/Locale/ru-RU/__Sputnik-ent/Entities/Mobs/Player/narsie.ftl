@@ -1,9 +1,7 @@
-ent-MobNarsieBase = Nar'Sie
-    .desc = Your mind begins to bubble and ooze as it tries to comprehend what it sees.
-
+ent-MobNarsieBase = Нар'Си
+    .desc = Ваш разум закипает и бурлит, пытаясь осмыслить увиденное.
 ent-MobNarsieSpawn = { ent-MobNarsieBase }
+    .suffix = Спавн
     .desc = { ent-MobNarsieBase.desc }
-    .suffix = Spawn
-
 ent-MobNarsie = { ent-MobNarsieBase }
     .desc = { ent-MobNarsieBase.desc }

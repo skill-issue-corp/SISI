@@ -1,2 +1,2 @@
-ent-ClothingEyesGlassesGarMeson = gar mesons
-    .desc = Do the impossible, see the invisible!
+ent-ClothingEyesGlassesGarMeson = очки Гар-Мезоны
+    .desc = Сделай невозможное — увидь невидимое!

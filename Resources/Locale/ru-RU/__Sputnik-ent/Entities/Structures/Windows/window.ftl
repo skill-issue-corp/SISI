@@ -1,25 +1,19 @@
-ent-Window = window
-    .desc = Don't smudge up the glass down there.
-
-ent-TintedWindow = tinted window
-    .desc = Smart tinted window with state switching option.
-
-ent-TintedWindowTransparent = { ent-TintedWindow }
-    .desc = { ent-TintedWindow.desc }
-    .suffix = Transparent
-
-ent-WindowRCDResistant = { ent-Window }
+ent-Window = окно
+    .desc = Смотри не заляпай.
+ent-TintedWindow = матовое окно
     .desc = { ent-Window.desc }
-
-ent-WindowDirectional = directional window
-    .desc = Don't smudge up the glass down there.
-
+ent-TintedWindowTransparent = { ent-TintedWindow }
+    .suffix = Прозрачное
+    .desc = { ent-TintedWindow.desc }
+ent-WindowRCDResistant = { ent-Window }
+    .suffix = РСУ защита
+    .desc = { ent-Window.desc }
+ent-WindowDirectional = направленное окно
+    .desc = Смотри не заляпай.
 ent-WindowDirectionalRCDResistant = { ent-WindowDirectional }
     .desc = { ent-WindowDirectional.desc }
-
-ent-WindowFrostedDirectional = directional frosted window
-    .desc = Don't smudge up the glass down there.
-
+ent-WindowFrostedDirectional = направленное матовое окно
+    .desc = Смотри не заляпай.
 ent-WindowDiagonal = { ent-Window }
+    .suffix = Диагональ
     .desc = { ent-Window.desc }
-    .suffix = diagonal

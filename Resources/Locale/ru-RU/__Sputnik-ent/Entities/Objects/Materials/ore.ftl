@@ -1,94 +1,71 @@
-ent-OreBase = { ent-MaterialBase }
-    .desc = A piece of unrefined ore.
-
-ent-GoldOre = gold ore
+ent-OreBase = { ent-BaseItem }
+    .desc = Кусок неочищенной руды.
+ent-GoldOre = золотоносная руда
+    .suffix = Полный
     .desc = { ent-OreBase.desc }
-    .suffix = Full
-
 ent-GoldOre1 = { ent-GoldOre }
+    .suffix = Один
     .desc = { ent-GoldOre.desc }
-    .suffix = Single
-
-ent-DiamondOre = diamond ore
+ent-DiamondOre = алмазная руда
+    .suffix = Полный
     .desc = { ent-OreBase.desc }
-    .suffix = Full
-
 ent-DiamondOre1 = { ent-DiamondOre }
+    .suffix = Один
     .desc = { ent-DiamondOre.desc }
-    .suffix = Single
-
-ent-SteelOre = iron ore
+ent-SteelOre = железная руда
+    .suffix = Полный
     .desc = { ent-OreBase.desc }
-    .suffix = Full
-
 ent-SteelOre1 = { ent-SteelOre }
+    .suffix = Один
     .desc = { ent-SteelOre.desc }
-    .suffix = Single
-
-ent-PlasmaOre = plasma ore
+ent-PlasmaOre = плазменная руда
+    .suffix = Полный
     .desc = { ent-OreBase.desc }
-    .suffix = Full
-
 ent-PlasmaOre1 = { ent-PlasmaOre }
+    .suffix = Один
     .desc = { ent-PlasmaOre.desc }
-    .suffix = Single
-
-ent-SilverOre = silver ore
+ent-SilverOre = серебряная руда
+    .suffix = Полный
     .desc = { ent-OreBase.desc }
-    .suffix = Full
-
 ent-SilverOre1 = { ent-SilverOre }
+    .suffix = Один
     .desc = { ent-SilverOre.desc }
-    .suffix = Single
-
-ent-SpaceQuartz = space quartz
+ent-SpaceQuartz = космический кварц
+    .suffix = Полный
     .desc = { ent-OreBase.desc }
-    .suffix = Full
-
 ent-SpaceQuartz1 = { ent-SpaceQuartz }
+    .suffix = Один
     .desc = { ent-SpaceQuartz.desc }
-    .suffix = Single
-
-ent-UraniumOre = uranium ore
+ent-UraniumOre = урановая руда
+    .suffix = Полный
     .desc = { ent-OreBase.desc }
-    .suffix = Full
-
 ent-UraniumOre1 = { ent-UraniumOre }
+    .suffix = Один
     .desc = { ent-UraniumOre.desc }
-    .suffix = Single
-
-ent-BananiumOre = bananium ore
+ent-BananiumOre = бананиумовая руда
+    .suffix = Полный
     .desc = { ent-OreBase.desc }
-    .suffix = Full
-
 ent-BananiumOre1 = { ent-BananiumOre }
+    .suffix = Один
     .desc = { ent-BananiumOre.desc }
-    .suffix = Single
-
-ent-Coal = coal
+ent-Coal = уголь
+    .suffix = Полный
     .desc = { ent-OreBase.desc }
-    .suffix = Full
-
 ent-Coal1 = { ent-Coal }
+    .suffix = Один
     .desc = { ent-Coal.desc }
-    .suffix = Single
-
 ent-Coal5 = { ent-Coal }
+    .suffix = Пять
     .desc = { ent-Coal.desc }
-    .suffix = Five
-
 ent-Coal10 = { ent-Coal }
+    .suffix = Десять
     .desc = { ent-Coal.desc }
-    .suffix = Ten
-
 ent-Coal15 = { ent-Coal }
+    .suffix = Пятнадцать
     .desc = { ent-Coal.desc }
-    .suffix = Fifteen
-
-ent-SaltOre = salt
+ent-SaltOre = соль
+    .suffix = Полный
     .desc = { ent-OreBase.desc }
-    .suffix = Full
-
 ent-Salt1 = { ent-SaltOre }
+    .suffix = Один
     .desc = { ent-SaltOre.desc }
-    .suffix = Single

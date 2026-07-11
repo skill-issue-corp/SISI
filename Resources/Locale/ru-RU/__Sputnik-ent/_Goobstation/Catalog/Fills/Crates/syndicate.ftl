@@ -1,25 +1,19 @@
-ent-CrateCybersunDarkGygaxBundle = Cybersun gygax bundle
-    .desc = Contains a set of Cybersan light armored mechs.
-    .suffix = Filled
-
-ent-CrateCybersunMaulerBundle = Cybersun mauler bundle
-    .desc = Contains a set of Cybersan heavy armored mechs.
-    .suffix = Filled
-
-ent-CrateSyndicateBulkMosin = Syndicate bulk rifle crate
-    .desc = Just use more rifles, comrade.
-    .suffix = Filled
-
-ent-CrateSyndicateDreadnought = cybersun dreadnought bundle
-    .desc = An advanced cybersun dreadnought bundle.
-
-ent-CratePizzaParty = disaster pizza delivery
-    .desc = In the ultimate event that all else has failed, Find comfort in that more pizza solves everything. Includes 16 pizzas.
-    .suffix = bombs
-
-ent-CrateSyndicateUndetermined = undetermined Syndicate bundle crate
-    .desc = Contains a Syndicate bundle. Which one is yet to be determined.
-
-ent-CrateSyndicateStarterKit = basic operative bundle
-    .desc = Contains everything an operative needs to wreak havoc.
-    .suffix = Filled
+ent-CrateCybersunDarkGygaxBundle = комплект Cybersun Гигакс
+    .desc = Содержит набор лёгких бронированных мехов Cybersun.
+    .suffix = Заполненный
+ent-CrateCybersunMaulerBundle = комплект Cybersun Маулер
+    .desc = Содержит набор тяжёлых бронированных мехов Cybersun.
+    .suffix = Заполненный
+ent-CrateSyndicateBulkMosin = ящик с массовыми винтовками Синдиката
+    .desc = Просто используй больше винтовок, товарищ.
+    .suffix = Заполненный
+ent-CrateSyndicateDreadnought = комплект Cybersun Дредноут
+    .desc = Продвинутый комплект Cybersun Дредноут.
+ent-CratePizzaParty = доставка пиццы в случае катастрофы
+    .desc = В крайнем случае, когда всё пошло наперекосяк, успокойся — пицца решит всё. Включает 16 пицц.
+    .suffix = Бомбы
+ent-CrateSyndicateUndetermined = ящик с неопределённым комплектом Синдиката
+    .desc = Содержит комплект Синдиката. Какой именно — ещё неизвестно.
+ent-CrateSyndicateStarterKit = базовый комплект оперативника
+    .desc = Содержит всё, что нужно оперативнику, чтобы сеять хаос.
+    .suffix = Заполненный

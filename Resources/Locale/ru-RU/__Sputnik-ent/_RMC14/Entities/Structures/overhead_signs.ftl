@@ -1,78 +1,54 @@
-ent-RMCOverheadSign = sign
+ent-RMCOverheadSign = знак
     .desc = { "" }
-
-ent-RMCOverheadSignNeon = { ent-RMCOverheadSign }
+ent-RMCOverheadSignNeon = неоновый знак
     .desc = { ent-RMCOverheadSign.desc }
-
-ent-RMCOverheadSignNeonArcade = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonArcade = неоновый знак "аркада"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonBar = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonBar = неоновый знак "бар"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonCafe = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonCafe = неоновый знак "кафе"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonCafeAlt = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonCafeAlt = неоновый знак "кафе"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonCasino = { ent-RMCOverheadSignNeon }
+    .suffix = Альтернативный
+ent-RMCOverheadSignNeonCasino = неоновый знак "казино"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonCoffee = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonCoffee = неоновый знак "кофе"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonHotel = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonHotel = неоновый знак "отель"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonJacks = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonJacks = неоновый знак "джек"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonMechanics = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonMechanics = неоновый знак "механик"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonMisc = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonMisc = неоновый знак "прочее"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonMiscVert = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonMiscVert = неоновый знак "вертикальный"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonMiscVert2 = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonMiscVert2 = { ent-RMCOverheadSignNeonMiscVert }
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonMiscVert3 = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonMiscVert3 = { ent-RMCOverheadSignNeonMiscVert }
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonMiscVert4 = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonMiscVert4 = { ent-RMCOverheadSignNeonMiscVert }
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonMiscVert5 = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonMiscVert5 = { ent-RMCOverheadSignNeonMiscVert }
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonMiscVert6 = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonMiscVert6 = { ent-RMCOverheadSignNeonMiscVert }
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonMiscVert7 = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonMiscVert7 = { ent-RMCOverheadSignNeonMiscVert }
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonNightCasino = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonNightCasino = неоновый знак "ночное казино"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonOpen = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonOpen = неоновый знак "открыто"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonOpen2 = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonOpen2 = неоновый знак "открыто"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonPharmacy = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonPharmacy = неоновый знак "аптека"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonPizza = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonPizza = неоновый знак "пицца"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
-ent-RMCOverheadSignNeonWeYaMart = { ent-RMCOverheadSignNeon }
+ent-RMCOverheadSignNeonWeYaMart = неоновый знак "WeYaMart"
     .desc = { ent-RMCOverheadSignNeon.desc }
-
 ent-RMCOverheadSignNeonWeYaMartOffset = { ent-RMCOverheadSignNeonWeYaMart }
+    .suffix = Отступ
     .desc = { ent-RMCOverheadSignNeonWeYaMart.desc }
-    .suffix = Offset

@@ -1,17 +1,6 @@
 ent-BaseDelivery = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
-ent-PackageDelivery = package
+ent-PackageDelivery = посылка
     .desc = { ent-BaseDelivery.desc }
-
-ent-LetterDelivery = letter
+ent-LetterDelivery = письмо
     .desc = { ent-BaseDelivery.desc }
-
-ent-DeliveryModifierPriority = { "" }
-    .desc = Components to add when a delivery is rolled as priority.
-
-ent-DeliveryModifierFragile = { "" }
-    .desc = Components to add when a delivery is rolled as fragile.
-
-ent-DeliveryModifierBomb = { "" }
-    .desc = Components to add when a delivery is rolled as a bomb.

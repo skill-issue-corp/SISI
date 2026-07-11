@@ -1,44 +1,31 @@
-ent-CartridgeRocket = PG-7VL grenade
-    .desc = A 1.5 warhead designed for the RPG-7 launcher. Has tubular shape.
-
-ent-CartridgeRocketSlow = PG-7VL grenade "Snail-Rocket"
-    .desc = A 1.5 warhead designed for the RPG-7 launcher. It's unusually slow.
-
-ent-CartridgeRocketSingularityBuster = rocket-propelled anti-singularity grenade
-    .desc = A warhead containing a large amount of anti-particles. Upon hitting a singularity, the anti-particles are released, decomposing the singularity. Warranty void if the rocket hits anything besides a singularity or tesla.
-
-ent-BaseGrenade = base grenade
+ent-CartridgeRocket = выстрел ПГ-7ВЛ
+    .desc = Выстрел для гранатомёта РПГ-7. Имеет форму трубы.
+ent-CartridgeRocketSlow = выстрел ПГ-7ВЛ "Улитка"
+    .desc = Выстрел для гранатомёта РПГ-7. Необычайно медленная.
+ent-CartridgeRocketSingularityBuster = противосингулярная ракета
+    .desc = Боевая часть, содержащая большое количество антиматерии. При попадании в сингулярность антиматерия высвобождается, разрушая её. Гарантия недействительна при попадании во что-либо, кроме сингулярности или теслы.
+ent-BaseGrenade = базовая граната-снаряд
     .desc = { ent-BaseItem.desc }
-
-ent-GrenadeBaton = baton grenade (40mm)
+ent-GrenadeBaton = шоковый снаряд
     .desc = { ent-BaseGrenade.desc }
-
-ent-GrenadeBlast = blast grenade (40mm)
+ent-GrenadeBlast = фугасный снаряд
     .desc = { ent-BaseGrenade.desc }
-
-ent-GrenadeFlash = flash grenade (40mm)
+ent-GrenadeFlash = светошумовой снаряд
     .desc = { ent-BaseGrenade.desc }
-
-ent-GrenadeFrag = frag grenade (40mm)
+ent-GrenadeFrag = осколочный снаряд
     .desc = { ent-BaseGrenade.desc }
-
-ent-GrenadeCleanade = cleanade grenade round
+ent-GrenadeCleanade = чистящий снаряд
     .desc = { ent-BaseGrenade.desc }
-
-ent-GrenadeEMP = EMP grenade (40mm)
+ent-GrenadeEMP = ЭМИ снаряд
     .desc = { ent-BaseGrenade.desc }
-
-ent-BaseCannonBall = base cannon ball
+ent-BaseCannonBall = базовое пушечное ядро
     .desc = { ent-BaseItem.desc }
-
-ent-CannonBall = cannonball
+ent-CannonBall = пушечное ядро
+    .suffix = Пират
     .desc = { ent-BaseCannonBall.desc }
-    .suffix = Pirate
-
-ent-CannonBallGrapeshot = grapeshot
+ent-CannonBallGrapeshot = картечь
+    .suffix = Пираты
     .desc = { ent-BaseCannonBall.desc }
-    .suffix = Pirate
-
-ent-CannonBallGlassshot = glassshot
+ent-CannonBallGlassshot = стеклянная картечь
+    .suffix = Пираты
     .desc = { ent-BaseCannonBall.desc }
-    .suffix = Pirate

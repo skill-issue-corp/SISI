@@ -1,5 +1,4 @@
-ent-Toolboxrobust = The robust toolbox
-    .desc = The robust toolbox, passed down from generation to generation of shitters just by holding it you feel more robust than ever.
-
-ent-SingulothsHammer = Singuloth's hammer
+ent-Toolboxrobust = боевой ящик для инструментов
+    .desc = Боевой ящик для инструментов, передаваемый из поколения в поколение. Просто держа его, вы ощущаете неистовую силу.
+ent-SingulothsHammer = молот Сингулота
     .desc = { ent-SingularityHammer.desc }

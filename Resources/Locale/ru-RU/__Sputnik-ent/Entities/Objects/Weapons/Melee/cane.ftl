@@ -1,13 +1,10 @@
-ent-Cane = cane
-    .desc = A standard wooden cane. Can help disabled people move easier.
-
-ent-CaneBlade = cane blade
-    .desc = A sharp blade with a cane shaped hilt. Enchanted with fire powers by a fellow book lover.
-
+ent-Cane = трость
+    .desc = Деревянная трость.
+ent-CaneBlade = трость с клинком
+    .desc = Острый клинок с рукоятью в виде трости.
 ent-CaneSheath = { ent-Cane }
+    .suffix = Пустой
     .desc = { ent-Cane.desc }
-    .suffix = Empty
-
 ent-CaneSheathFilled = { ent-CaneSheath }
+    .suffix = Полный
     .desc = { ent-CaneSheath.desc }
-    .suffix = Filled

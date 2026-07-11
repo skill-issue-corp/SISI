@@ -1,471 +1,361 @@
-ent-RMCContainerBase = cargo container
-    .desc = A huge industrial shipping container.
-
+ent-RMCContainerBase = грузовой контейнер
+    .desc = Огромный промышленный контейнер для перевозки.
 ent-RMCContainerBlueLeft = { ent-RMCContainerBase }
+    .suffix = Синий, Левый
     .desc = { ent-RMCContainerBase.desc }
-    .suffix = Blue, Left
-
 ent-RMCContainerBlueMiddle = { ent-RMCContainerBase }
+    .suffix = Синий, Средний
     .desc = { ent-RMCContainerBase.desc }
-    .suffix = Blue, Middle
-
 ent-RMCContainerBlueRight = { ent-RMCContainerBase }
+    .suffix = Синий, Правый
     .desc = { ent-RMCContainerBase.desc }
-    .suffix = Blue, Right
-
 ent-RMCContainerGreenLeft = { ent-RMCContainerBase }
+    .suffix = Зелёный, Левый
     .desc = { ent-RMCContainerBase.desc }
-    .suffix = Green, Left
-
 ent-RMCContainerGreenMiddle = { ent-RMCContainerBase }
+    .suffix = Зелёный, Средний
     .desc = { ent-RMCContainerBase.desc }
-    .suffix = Green, Middle
-
 ent-RMCContainerGreenRight = { ent-RMCContainerBase }
+    .suffix = Зелёный, Правый
     .desc = { ent-RMCContainerBase.desc }
-    .suffix = Green, Right
-
 ent-RMCContainerRedLeft = { ent-RMCContainerBase }
+    .suffix = Красный, Левый
     .desc = { ent-RMCContainerBase.desc }
-    .suffix = Red, Left
-
 ent-RMCContainerRedMiddle = { ent-RMCContainerBase }
+    .suffix = Красный, Средний
     .desc = { ent-RMCContainerBase.desc }
-    .suffix = Red, Middle
-
 ent-RMCContainerRedRight = { ent-RMCContainerBase }
+    .suffix = Красный, Правый
     .desc = { ent-RMCContainerBase.desc }
-    .suffix = Red, Right
-
-ent-RMCContainerFujinLeft = Fujin Cargo Container
-    .desc = 
-        A huge industrial shipping container.
-        This one is from Fujin, a manufacturer of a variety of electronical and mechanical products.
-        At least, that is what is says on the container. You have literally never heard of this company before.
-    .suffix = Fujin, Left
-
+ent-RMCContainerFujinLeft = грузовой контейнер Fujin
+    .desc =
+        Огромный промышленный контейнер.
+        Этот принадлежит Fujin, производителю различных электронных и механических изделий.
+        По крайней мере, так написано на контейнере. Вы раньше никогда не слышали об этой компании.
+    .suffix = Fujin, Левый
 ent-RMCContainerFujinMiddle = { ent-RMCContainerFujinLeft }
+    .suffix = Fujin, Средний
     .desc = { ent-RMCContainerFujinLeft.desc }
-    .suffix = Fujin, Middle
-
-ent-RMCContainerApocraphyLeft = Apocraphy Cargo Container
-    .desc = 
-        A huge industrial shipping container.
-        This one is from The Apocrahpy Corporation, a manufacturer of medical and biotechnological parts.
-        You remember hearing about one of their latest drugs, and how dangerous it was... though they claimed to be close to finding a solution.
-    .suffix = Apocraphy, Left
-
+ent-RMCContainerApocraphyLeft = грузовой контейнер Apocraphy
+    .desc =
+        Огромный промышленный контейнер.
+        Этот принадлежит корпорации Apocraphy, производителю медицинских и биотехнологических компонентов.
+        Вы помните новости о их последнем препарате и о его опасности… хотя они утверждали, что близки к решению проблемы.
+    .suffix = Apocraphy, Левый
 ent-RMCContainerApocraphyMiddle = { ent-RMCContainerApocraphyLeft }
+    .suffix = Apocraphy, Средний
     .desc = { ent-RMCContainerApocraphyLeft.desc }
-    .suffix = Apocraphy, Middle
-
-ent-RMCContainerPathosLeft = Pathos Cargo Container
-    .desc = 
-        A huge industrial shipping container.
-        This one is from Pathos, a computer parts and motion detector manufacturer.
-        You still wonder why we have a container of old Motion Detectors, and if they even still work.
-    .suffix = Pathos, Left
-
+ent-RMCContainerPathosLeft = грузовой контейнер Pathos
+    .desc =
+        Огромный промышленный контейнер.
+        Этот принадлежит Pathos, производителю компьютерных комплектующих и датчиков движения.
+        Вы всё ещё задаётесь вопросом, зачем у нас контейнер старых датчиков движения и работают ли они вообще.
+    .suffix = Pathos, Левый
 ent-RMCContainerPathosMiddle = { ent-RMCContainerPathosLeft }
+    .suffix = Pathos, Средний
     .desc = { ent-RMCContainerPathosLeft.desc }
-    .suffix = Pathos, Middle
-
-ent-RMCContainerWeYaLeft = Weston-Yamada Cargo Container
-    .desc = 
-        A huge industrial shipping container.
-        This one is from The Weston-Yamada Corporation, you have probably heard of them before.
-    .suffix = WeYa, Left
-
+ent-RMCContainerWeYaLeft = грузовой контейнер Weston-Yamada
+    .desc =
+        Огромный промышленный контейнер.
+        Этот принадлежит корпорации Weston-Yamada, о которой вы, вероятно, слышали.
+    .suffix = WeYa, Левый
 ent-RMCContainerWeYaMiddle = { ent-RMCContainerWeYaLeft }
+    .suffix = WeYa, Средний
     .desc = { ent-RMCContainerWeYaLeft.desc }
-    .suffix = WeYa, Middle
-
 ent-RMCContainerWeYaRight = { ent-RMCContainerWeYaLeft }
+    .suffix = WeYa, Правый
     .desc = { ent-RMCContainerWeYaLeft.desc }
-    .suffix = WeYa, Right
-
 ent-RMCContainerWeYaAltLeft = { ent-RMCContainerWeYaLeft }
+    .suffix = WeYa Alt, Левый
     .desc = { ent-RMCContainerWeYaLeft.desc }
-    .suffix = WeYa Alt, Left
-
 ent-RMCContainerWeYaAltMiddle = { ent-RMCContainerWeYaLeft }
+    .suffix = WeYa Alt, Средний
     .desc = { ent-RMCContainerWeYaLeft.desc }
-    .suffix = WeYa Alt, Middle
-
 ent-RMCContainerWeYaAltRight = { ent-RMCContainerWeYaLeft }
+    .suffix = WeYa Alt, Правый
     .desc = { ent-RMCContainerWeYaLeft.desc }
-    .suffix = WeYa Alt, Right
-
-ent-RMCContainerTrijentLeft = Trijent Corporation Cargo Container
-    .desc = 
-        A huge industrial shipping container.
-        This one is from The Trijent Corporation's mining operations.
-        If this breaks open, you figure you probably shouldn't breathe in what's inside.
-    .suffix = Trijent, Left
-
+ent-RMCContainerTrijentLeft = грузовой контейнер Trijent
+    .desc =
+        Огромный промышленный контейнер.
+        Этот принадлежит горнодобывающему подразделению корпорации Trijent.
+        Если он откроется, лучше не вдыхать содержимое.
+    .suffix = Trijent, Левый
 ent-RMCContainerTrijentMiddle = { ent-RMCContainerTrijentLeft }
+    .suffix = Trijent, Средний
     .desc = { ent-RMCContainerTrijentLeft.desc }
-    .suffix = Trijent, Middle
-
 ent-RMCContainerTrijentRight = { ent-RMCContainerTrijentLeft }
+    .suffix = Trijent, Правый
     .desc = { ent-RMCContainerTrijentLeft.desc }
-    .suffix = Trijent, Right
-
 ent-RMCContainerTrijentAltLeft = { ent-RMCContainerTrijentLeft }
+    .suffix = Trijent Alt, Левый
     .desc = { ent-RMCContainerTrijentLeft.desc }
-    .suffix = Trijent Alt, Left
-
 ent-RMCContainerTrijentAltMiddle = { ent-RMCContainerTrijentLeft }
+    .suffix = Trijent Alt, Средний
     .desc = { ent-RMCContainerTrijentLeft.desc }
-    .suffix = Trijent Alt, Middle
-
 ent-RMCContainerTrijentAltRight = { ent-RMCContainerTrijentLeft }
+    .suffix = Trijent Alt, Правый
     .desc = { ent-RMCContainerTrijentLeft.desc }
-    .suffix = Trijent Alt, Right
-
-ent-RMCContainerFerretLeft = Ferret Heavy Industries Cargo Container
-    .desc = 
-        A huge industrial shipping container.
-        This one is from Ferret Heavy Industries, a manufacturer of terrestrial crawlers and powerloaders.
-        Unfortunately, the company went bankrupt. Fortunately, these containers are really cheap now.
-    .suffix = Ferret, Left
-
+ent-RMCContainerFerretLeft = грузовой контейнер Ferret
+    .desc =
+        Огромный промышленный контейнер.
+        Этот принадлежит Ferret Heavy Industries, производителю наземных вездеходов и погрузчиков.
+        К сожалению, компания обанкротилась. Зато эти контейнеры теперь очень дешёвые.
+    .suffix = Ferret, Левый
 ent-RMCContainerFerretMiddle = { ent-RMCContainerFerretLeft }
+    .suffix = Ferret, Средний
     .desc = { ent-RMCContainerFerretLeft.desc }
-    .suffix = Ferret, Middle
-
 ent-RMCContainerFerretRight = { ent-RMCContainerFerretLeft }
+    .suffix = Ferret, Правый
     .desc = { ent-RMCContainerFerretLeft.desc }
-    .suffix = Ferret, Right
-
-ent-RMCContainerNovarisLeft = Novaris Cargo Container
-    .desc = 
-        A huge industrial shipping containerThis one is from Novaris, they makes just about anything and everything.
-        You notice this container has a peeling note on it, saying all contents were transferred from another station decades ago, how long has it been here?
-    .suffix = Novaris, Left
-
+ent-RMCContainerNovarisLeft = грузовой контейнер Novaris
+    .desc =
+        Огромный промышленный контейнер. Этот контейнер от Novaris — они производят практически всё подряд.
+        Вы замечаете на контейнере отслаивающуюся записку, которая говорит, что всё содержимое было перевезено с другой станции десятилетия назад. Сколько же он здесь лежит?
+    .suffix = Novaris, Левый
 ent-RMCContainerNovarisMiddle = { ent-RMCContainerNovarisLeft }
+    .suffix = Novaris, Средний
     .desc = { ent-RMCContainerNovarisLeft.desc }
-    .suffix = Novaris, Middle
-
 ent-RMCContainerNovarisRight = { ent-RMCContainerNovarisLeft }
+    .suffix = Novaris, Правый
     .desc = { ent-RMCContainerNovarisLeft.desc }
-    .suffix = Novaris, Right
-
-ent-RMCContainerAICMiddle = AIC Cargo Container
-    .desc = 
-        A huge industrial shipping container.
-        This one is from the Asian Industrial Collective, which was absorded into the SPP. Their massive industrial output has ensured that cargo containers bearing their symbols and name won't be disappearing any time soon.
-    .suffix = AIC, Middle
-
-ent-RMCContainerSPPLeft = SPP Cargo Container
-    .desc = 
-        A huge industrial shipping container.
-        This one is from the Socailists Progressive Peoples, as indicated by the massive symbol on the side.
-    .suffix = SPP, Left
-
+ent-RMCContainerAICMiddle = грузовой контейнер AIC
+    .desc =
+        Огромный промышленный контейнер.
+        Этот контейнер принадлежит Asian Industrial Collective, который был поглощён SPP. Их масштабное промышленное производство гарантирует, что контейнеры с их символикой и именем не исчезнут в ближайшее время.
+    .suffix = AIC, Средний
+ent-RMCContainerSPPLeft = контейнер SPP, Левый
+    .desc =
+        Огромный промышленный контейнер.
+        Этот контейнер принадлежит Социалистическим Прогрессивным Народам, о чём свидетельствует огромный символ на боку.
+    .suffix = SPP, Левый
 ent-RMCContainerSPPMiddle = { ent-RMCContainerSPPLeft }
+    .suffix = SPP, Средний
     .desc = { ent-RMCContainerSPPLeft.desc }
-    .suffix = SPP, Middle
-
 ent-RMCContainerSPPRight = { ent-RMCContainerSPPLeft }
+    .suffix = SPP, Правый
     .desc = { ent-RMCContainerSPPLeft.desc }
-    .suffix = SPP, Right
-
 ent-RMCContainerSPPAltLeft = { ent-RMCContainerSPPLeft }
+    .suffix = SPP Alt, Левый
     .desc = { ent-RMCContainerSPPLeft.desc }
-    .suffix = SPP Alt, Left
-
 ent-RMCContainerSPPAltMiddle = { ent-RMCContainerSPPLeft }
+    .suffix = SPP Alt, Средний
     .desc = { ent-RMCContainerSPPLeft.desc }
-    .suffix = SPP Alt, Middle
-
 ent-RMCContainerSPPAltRight = { ent-RMCContainerSPPLeft }
+    .suffix = SPP Alt, Правый
     .desc = { ent-RMCContainerSPPLeft.desc }
-    .suffix = SPP Alt, Right
-
-ent-RMCContainerMSPLeft = Ministry of Space Protection Cargo Container
-    .desc = 
-        A huge industrial shipping container.
-        This one belongs to the SPP's Ministry of Space Protection.
-    .suffix = MSP, Left
-
+ent-RMCContainerMSPLeft = грузовой контейнер Министерства Космической Защиты
+    .desc =
+        Огромный промышленный контейнер.
+        Этот контейнер принадлежит Министерству Космической Защиты SPP.
+    .suffix = MSP, Левый
 ent-RMCContainerMSPMiddle = { ent-RMCContainerMSPLeft }
+    .suffix = MSP, Средний
     .desc = { ent-RMCContainerMSPLeft.desc }
-    .suffix = MSP, Middle
-
 ent-RMCContainerMSPRight = { ent-RMCContainerMSPLeft }
+    .suffix = MSP, Правый
     .desc = { ent-RMCContainerMSPLeft.desc }
-    .suffix = MSP, Right
-
-ent-RMCContainerUNMCLeft = United Nations Marine Corps Cargo Container
-    .desc = 
-        A huge industrial shipping container.
-        This one belongs to the UN's United Nations Marine Corps.
-    .suffix = UNMC, Left
-
+ent-RMCContainerUNMCLeft = грузовой контейнер ВМС ООН
+    .desc =
+        Огромный промышленный контейнер.
+        Этот контейнер принадлежит Корпусу Морской Пехоты ООН.
+    .suffix = UNMC, Левый
 ent-RMCContainerUNMCMiddle = { ent-RMCContainerUNMCLeft }
+    .suffix = UNMC, Средний
     .desc = { ent-RMCContainerUNMCLeft.desc }
-    .suffix = UNMC, Middle
-
 ent-RMCContainerUNMCRight = { ent-RMCContainerUNMCLeft }
+    .suffix = UNMC, Правый
     .desc = { ent-RMCContainerUNMCLeft.desc }
-    .suffix = UNMC, Right
-
-ent-RMCContainerAegisLeft = AEGIS Cargo Container
-    .desc = 
-        A huge industrial shipping container.
-        This one is from AEGIS, the defense contractors behind the M54C and other marine weaponry.
-    .suffix = Aegis, Left
-
+ent-RMCContainerAegisLeft = грузовой контейнер AEGIS
+    .desc =
+        Огромный промышленный контейнер.
+        Этот контейнер принадлежит AEGIS, подрядчикам по обороне, разработавшим M54C и другое вооружение морпехов.
+    .suffix = Aegis, Левый
 ent-RMCContainerAegisMiddle = { ent-RMCContainerAegisLeft }
+    .suffix = Aegis, Средний
     .desc = { ent-RMCContainerAegisLeft.desc }
-    .suffix = Aegis, Middle
-
 ent-RMCContainerAegisRight = { ent-RMCContainerAegisLeft }
+    .suffix = Aegis, Правый
     .desc = { ent-RMCContainerAegisLeft.desc }
-    .suffix = Aegis, Right
-
 ent-RMCContainerTartarusLeft = { ent-RMCContainerBase }
+    .suffix = Tartarus, Левый
     .desc = { ent-RMCContainerBase.desc }
-    .suffix = Tartarus, Left
-
 ent-RMCContainerTartarusRight = { ent-RMCContainerTartarusLeft }
+    .suffix = Tartarus, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = Tartarus, Right
-
 ent-RMCContainerShortBlueLeft = { ent-RMCContainerTartarusLeft }
+    .suffix = Синий, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = Blue, Left
-
 ent-RMCContainerShortBlueRight = { ent-RMCContainerTartarusLeft }
+    .suffix = Синий, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = Blue, Right
-
 ent-RMCContainerShortGreenLeft = { ent-RMCContainerTartarusLeft }
+    .suffix = Зелёный, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = Green, Left
-
 ent-RMCContainerShortGreenRight = { ent-RMCContainerTartarusLeft }
+    .suffix = Зелёный, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = Green, Right
-
 ent-RMCContainerShortRedLeft = { ent-RMCContainerTartarusLeft }
+    .suffix = Красный, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = Red, Left
-
 ent-RMCContainerShortRedRight = { ent-RMCContainerTartarusLeft }
+    .suffix = Красный, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = Red, Right
-
 ent-RMCContainerShortTanLeft = { ent-RMCContainerTartarusLeft }
+    .suffix = Бежевый, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = Tan, Left
-
 ent-RMCContainerShortTanRight = { ent-RMCContainerTartarusLeft }
+    .suffix = Бежевый, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = Tan, Right
-
 ent-RMCContainerShortSPPLeft = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 1, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 1, Left
-
 ent-RMCContainerShortSPPRight = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 1, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 1, Right
-
 ent-RMCContainerShortSPP2Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 2, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 2, Left
-
 ent-RMCContainerShortSPP2Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 2, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 2, Right
-
 ent-RMCContainerShortSPP3Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 3, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 3, Left
-
 ent-RMCContainerShortSPP3Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 3, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 3, Right
-
 ent-RMCContainerShortSPP4Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 4, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 4, Left
-
 ent-RMCContainerShortSPP4Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 4, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 4, Right
-
 ent-RMCContainerShortSPP5Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 5, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 5, Left
-
 ent-RMCContainerShortSPP5Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 5, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 5, Right
-
 ent-RMCContainerShortSPP6Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 6, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 6, Left
-
 ent-RMCContainerShortSPP6Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 6, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 6, Right
-
 ent-RMCContainerShortSPP7Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 7, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 7, Left
-
 ent-RMCContainerShortSPP7Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 7, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 7, Right
-
 ent-RMCContainerShortSPP8Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 8, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 8, Left
-
 ent-RMCContainerShortSPP8Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 8, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 8, Right
-
 ent-RMCContainerShortSPP9Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 9, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 9, Left
-
 ent-RMCContainerShortSPP9Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 9, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 9, Right
-
 ent-RMCContainerShortSPP10Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 10, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 10, Left
-
 ent-RMCContainerShortSPP10Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 10, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 10, Right
-
 ent-RMCContainerShortSPP11Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 11, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 11, Left
-
 ent-RMCContainerShortSPP11Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 11, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 11, Right
-
 ent-RMCContainerShortSPP12Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 12, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 12, Left
-
 ent-RMCContainerShortSPP12Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 12, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 12, Right
-
 ent-RMCContainerShortSPP13Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 13, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 13, Left
-
 ent-RMCContainerShortSPP13Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 13, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 13, Right
-
 ent-RMCContainerShortSPP14Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 14, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 14, Left
-
 ent-RMCContainerShortSPP14Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 14, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 14, Right
-
 ent-RMCContainerShortSPP15Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 15, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 15, Left
-
 ent-RMCContainerShortSPP15Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 15, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 15, Right
-
 ent-RMCContainerShortSPP16Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 16, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 16, Left
-
 ent-RMCContainerShortSPP16Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 16, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 16, Right
-
 ent-RMCContainerShortSPP17Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 17, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 17, Left
-
 ent-RMCContainerShortSPP17Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 17, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 17, Right
-
 ent-RMCContainerShortSPP18Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 18, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 18, Left
-
 ent-RMCContainerShortSPP18Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 18, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 18, Right
-
 ent-RMCContainerShortSPP19Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 19, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 19, Left
-
 ent-RMCContainerShortSPP19Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 19, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 19, Right
-
 ent-RMCContainerShortSPP20Left = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 20, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 20, Left
-
 ent-RMCContainerShortSPP20Right = { ent-RMCContainerTartarusLeft }
+    .suffix = SPP, 20, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = SPP, 20, Right
-
 ent-RMCContainerWeYaBlackLeft = { ent-RMCContainerTartarusLeft }
+    .suffix = WeYa, Черный, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = WeYa, Black, Left
-
 ent-RMCContainerWeYaBlackRight = { ent-RMCContainerTartarusLeft }
+    .suffix = WeYa, Черный, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = WeYa, Black, Right
-
 ent-RMCContainerWeYaGreyLeft = { ent-RMCContainerTartarusLeft }
+    .suffix = WeYa, Серый, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = WeYa, Grey, Left
-
 ent-RMCContainerWeYaGreyRight = { ent-RMCContainerTartarusLeft }
+    .suffix = WeYa, Серый, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = WeYa, Grey, Right
-
 ent-RMCContainerWeYaLightGreyLeft = { ent-RMCContainerTartarusLeft }
+    .suffix = WeYa, Светло-серый, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = WeYa, Light Grey, Left
-
 ent-RMCContainerWeYaLightGreyRight = { ent-RMCContainerTartarusLeft }
+    .suffix = WeYa, Светло-серый, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = WeYa, Light Grey, Right
-
 ent-RMCContainerWeYaWhiteLeft = { ent-RMCContainerTartarusLeft }
+    .suffix = WeYa, Белый, Левый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = WeYa, White, Left
-
 ent-RMCContainerWeYaWhiteRight = { ent-RMCContainerTartarusLeft }
+    .suffix = WeYa, Белый, Правый
     .desc = { ent-RMCContainerTartarusLeft.desc }
-    .suffix = WeYa, White, Right
-
 ent-RMCContainerVerticalBottom = { ent-RMCContainerBase }
+    .suffix = Нижний
     .desc = { ent-RMCContainerBase.desc }
-    .suffix = Bottom
-
 ent-RMCContainerVerticalMiddle = { ent-RMCContainerVerticalBottom }
+    .suffix = Средний
     .desc = { ent-RMCContainerVerticalBottom.desc }
-    .suffix = Middle
-
 ent-RMCContainerVerticalTop = { ent-RMCContainerVerticalBottom }
+    .suffix = Верхний
     .desc = { ent-RMCContainerVerticalBottom.desc }
-    .suffix = Top

@@ -1,34 +1,26 @@
-ent-AdminInstantEffectBase = instant effect
+ent-AdminInstantEffectBase = моментальный эффект
     .desc = { "" }
-
 ent-AdminInstantEffectEMP = { ent-AdminInstantEffectBase }
+    .suffix = ЭМИ
     .desc = { ent-AdminInstantEffectBase.desc }
-    .suffix = EMP
-
 ent-AdminInstantEffectBluespace = { ent-AdminInstantEffectBase }
+    .suffix = Блюспейс вспышка
     .desc = { ent-AdminInstantEffectBase.desc }
-    .suffix = BluespaceFlash
-
 ent-AdminInstantEffectFlash = { ent-AdminInstantEffectBase }
+    .suffix = Вспышка
     .desc = { ent-AdminInstantEffectBase.desc }
-    .suffix = Flash
-
 ent-AdminInstantEffectSmoke3 = { ent-AdminInstantEffectBase }
+    .suffix = Дым (03 сек)
     .desc = { ent-AdminInstantEffectBase.desc }
-    .suffix = Smoke (03 sec)
-
 ent-AdminInstantEffectSmoke10 = { ent-AdminInstantEffectBase }
+    .suffix = Дым (10 сек)
     .desc = { ent-AdminInstantEffectBase.desc }
-    .suffix = Smoke (10 sec)
-
 ent-AdminInstantEffectSmoke30 = { ent-AdminInstantEffectBase }
+    .suffix = Дым (30 сек)
     .desc = { ent-AdminInstantEffectBase.desc }
-    .suffix = Smoke (30 sec)
-
 ent-AdminInstantEffectTearGas = { ent-AdminInstantEffectBase }
+    .suffix = Слезоточивый газ
     .desc = { ent-AdminInstantEffectBase.desc }
-    .suffix = Tear Gas
-
 ent-AdminInstantEffectGravityWell = { ent-AdminInstantEffectBase }
+    .suffix = Гравитационный колодец
     .desc = { ent-AdminInstantEffectBase.desc }
-    .suffix = Gravity Well

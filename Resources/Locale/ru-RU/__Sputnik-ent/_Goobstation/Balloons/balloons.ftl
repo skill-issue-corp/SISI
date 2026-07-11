@@ -1,35 +1,24 @@
-ent-BaseMonkeyBalloon = base balloon
+ent-BaseBalloon = базовый шарик
     .desc = { ent-BaseStructureDynamic.desc }
-
-ent-RedBalloon = red balloon
-    .desc = The weakest balloon.
-
-ent-BlueBalloon = blue balloon
-    .desc = A pretty chill balloon.
-
-ent-GreenBalloon = green balloon
-    .desc = The most strategically minded balloon of the bunch. Capable of planning advanced waves, if only it had a track to follow.
-
-ent-YellowBalloon = yellow balloon
-    .desc = The greediest balloon, always flaunting its wealth to the other balloons.
-
-ent-PinkBalloon = pink balloon
-    .desc = The most annoying and insufferable balloon.
-
-ent-BlackBalloon = black balloon
-    .desc = The edgiest balloon, never grew out of its emo phase. Immune to heat and shock damage!
-
-ent-WhiteBalloon = white balloon
-    .desc = The most emotionless balloon. Isn't even given a proper name, only a purpose. Immune to cold damage!
-
-ent-ZebraBalloon = zebra balloon
-    .desc = Belongs in a zoo. Immune to all burn damage!
-
-ent-SteelBalloon = steel balloon
-    .desc = The most armored balloon. So feared that even animals don't attack it. Immune to brute damage!
-
-ent-RainbowBalloon = rainbow balloon
-    .desc = The most evil balloon of them all. Don't let the pretty colors fool you.
-
-ent-CeramicBalloon = carp balloon
-    .desc = Is it a combination of balloon and carp DNA? Or a balloon in a carp suit? Nobody knows.
+ent-RedBalloon = красный шарик
+    .desc = Самый слабый шарик.
+ent-BlueBalloon = синий шарик
+    .desc = Очень спокойный шарик.
+ent-GreenBalloon = зелёный шарик
+    .desc = Самый стратегически мыслящий шарик из всех. Способен планировать сложные волны, если бы у него была дорожка для движения.
+ent-YellowBalloon = жёлтый шарик
+    .desc = Самый жадный шарик, постоянно щеголяет своим богатством перед другими шариками.
+ent-PinkBalloon = розовый шарик
+    .desc = Самый раздражающий и невыносимый шарик.
+ent-BlackBalloon = чёрный шарик
+    .desc = Самый мрачный шарик, так и не вырос из своей эмо-фазы. Неуязвим к урону от жары и удара!
+ent-WhiteBalloon = белый шарик
+    .desc = Самый бесчувственный шарик. Ему даже не дали имени, только назначение. Неуязвим к урону от холода!
+ent-ZebraBalloon = зебра-шарик
+    .desc = Должен быть в зоопарке. Неуязвим ко всем видам ожогов!
+ent-SteelBalloon = стальной шарик
+    .desc = Самый бронированный шарик. Его так боятся, что даже животные не нападают на него. Неуязвим к урону от силы!
+ent-RainbowBalloon = радужный шарик
+    .desc = Самый злой шарик из всех. Не дайте обмануть себя красивыми цветами.
+ent-CeramicBalloon = карповый шарик
+    .desc = Это смесь ДНК шарика и карпа? Или шарик в костюме карпа? Никто не знает.

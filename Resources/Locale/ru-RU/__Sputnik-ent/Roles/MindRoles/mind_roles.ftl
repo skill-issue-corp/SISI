@@ -1,98 +1,60 @@
-ent-BaseMindRole = Mind Role
-    .desc = Mind Role entity
-
+ent-BaseMindRole = Роль сознания
+    .desc = Энтити роли сознания
 ent-BaseMindRoleAntag = { ent-BaseMindRole }
     .desc = { ent-BaseMindRole.desc }
-
-ent-MindRoleObserver = Observer Role
+ent-MindRoleObserver = Роль наблюдатель
     .desc = { ent-BaseMindRole.desc }
-
-ent-MindRoleGhostRoleNeutral = Ghost Role
+ent-MindRoleGhostRoleNeutral = Роль призрака
     .desc = { ent-BaseMindRole.desc }
-
-ent-MindRoleGhostRoleFamiliar = Ghost Role (Familiar)
+ent-MindRoleGhostRoleFamiliar = Роль призрака (Фамильяр)
     .desc = { ent-MindRoleGhostRoleNeutral.desc }
-
-ent-MindRoleGhostRoleFreeAgent = Ghost Role (Free Agent)
-    .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleGhostRoleFreeAgentHarmless = Ghost Role (Free Agent)
+ent-MindRoleGhostRoleFreeAgent = Роль призрака (Свободный агент)
+    .desc = { ent-BaseMindRole.desc }
+ent-MindRoleGhostRoleFreeAgentHarmless = Роль призрака (Свободный агент)
     .desc = { ent-MindRoleGhostRoleNeutral.desc }
-
-ent-MindRoleGhostRoleSilicon = Ghost Role (Silicon)
+ent-MindRoleGhostRoleSilicon = Роль призрака (Синтетик)
     .desc = { ent-MindRoleGhostRoleNeutral.desc }
-
-ent-MindRoleGhostRoleSiliconAntagonist = Ghost Role (Silicon Antagonist)
-    .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleGhostRoleSoloAntagonist = Ghost Role (Solo Antagonist)
-    .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleGhostRoleTeamAntagonist = Ghost Role (Team Antagonist)
-    .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleGhostRoleTeamAntagonistFlock = Ghost Role (Team Antagonist)
+ent-MindRoleGhostRoleSiliconAntagonist = Роль призрака (Синтетик антагонист)
+    .desc = { ent-MindRoleGhostRoleNeutral.desc }
+ent-MindRoleGhostRoleSoloAntagonist = Роль призрака (Соло-антагонист)
+    .desc = { ent-MindRoleGhostRoleNeutral.desc }
+ent-MindRoleGhostRoleTeamAntagonist = Роль призрака (Командный антагонист)
+    .desc = { ent-MindRoleGhostRoleNeutral.desc }
+ent-MindRoleGhostRoleTeamAntagonistFlock = Роль призрака (Командный антагонист)
     .desc = { ent-MindRoleGhostRoleTeamAntagonist.desc }
-
-ent-MindRoleJob = Job Role
+ent-MindRoleSiliconBrain = Роль мозг борга
     .desc = { ent-BaseMindRole.desc }
-
-ent-MindRoleSiliconBrain = Borg Brain Role
+ent-MindRoleJob = Роль работа
     .desc = { ent-BaseMindRole.desc }
-
-ent-MindRoleSubvertedSilicon = Subverted Silicon Role
+ent-MindRoleSubvertedSilicon = Роль дефектный синтетик
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleDragon = Dragon Role
+ent-MindRoleDragon = Роль дракон
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleNinja = Space Ninja Role
+ent-MindRoleNinja = Роль космический ниндзя
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleParadoxClone = Paradox Clone Role
+ent-MindRoleParadoxClone = Роль парадоксальный клон
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleNukeops = Nukeops Operative Role
+ent-MindRoleNukeops = Роль ядерный оперативник
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleNukeopsMedic = Nukeops Medic Role
+ent-MindRoleNukeopsMedic = Роль медик ядерных оперативников
     .desc = { ent-MindRoleNukeops.desc }
-
-ent-MindRoleNukeopsCommander = Nukeops Commander Role
+ent-MindRoleNukeopsCommander = Роль командир ядерных оперативников
     .desc = { ent-MindRoleNukeops.desc }
-
-ent-MindRoleLoneops = Loneops Operative Role
+ent-MindRoleLoneops = Роль одиночного ядерного оперативника
     .desc = { ent-MindRoleNukeops.desc }
-
-ent-MindRoleHeadRevolutionary = Head Revolutionary Role
+ent-MindRoleHeadRevolutionary = Роль глава революции
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleRevolutionary = Revolutionary Role
+ent-MindRoleRevolutionary = Роль революционер
     .desc = { ent-MindRoleHeadRevolutionary.desc }
-
-ent-MindRoleThief = Thief Role
+ent-MindRoleThief = Роль вор
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleTraitor = Traitor Role
+ent-MindRoleTraitor = Роль предатель
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleTraitorSleeper = Sleeper Agent Role
+ent-MindRoleTraitorReinforcement = Роль подкрепление Синдикат
     .desc = { ent-MindRoleTraitor.desc }
-
-ent-MindRoleTraitorReinforcement = Syndicate Reinforcement Role
+ent-MindRoleTraitorSleeper = Роль спящий агент
     .desc = { ent-MindRoleTraitor.desc }
-
-ent-MindRoleMothershipCore = Mothership Core Role
+ent-MindRoleInitialInfected = Роль нулевой пациент
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleXenoborg = Xenoborg Role
-    .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleInitialInfected = Initial Infected Role
-    .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleZombie = Zombie Role
+ent-MindRoleZombie = Роль зомби
     .desc = { ent-MindRoleGhostRoleTeamAntagonistFlock.desc }
-
-ent-MindRoleChangeling = Changeling Role
-    .desc = { ent-BaseMindRoleAntag.desc }

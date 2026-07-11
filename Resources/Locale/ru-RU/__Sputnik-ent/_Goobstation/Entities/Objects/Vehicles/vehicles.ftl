@@ -1,30 +1,21 @@
 ent-BaseVehicle = { "" }
     .desc = { "" }
-
-ent-VehicleSecway = secway
-    .desc = The future of transportation. Popularized by St. James, the patron saint of security officers and internet forum moderators.
-
-ent-VehicleSyndicateSegway = syndicate segway
-    .desc = Be an enemy of the corporation, in style.
-
-ent-VehicleATV = ATV
-    .desc = All-Tile Vehicle.
-
-ent-VehicleJanicart = janicart
-    .desc = The janitor's trusty steed.
-
-ent-VehicleWheelchair = wheelchair
-    .desc = A chair with big wheels. It looks like you can move in these on your own.
-
+ent-VehicleSecway = сегвей
+    .desc = Будущее транспорта. Популяризируется святым Иаковом, покровителем сотрудников службы безопасности и модераторов интернет-форумов.
+ent-VehicleSyndicateSegway = сегвей синдиката
+    .desc = Будьте стильным врагом корпорации.
+ent-VehicleATV = квадроцикл
+    .desc = Полный плитвод!
+ent-VehicleJanicart = уборочная машина
+    .desc = Верный конь уборщика.
+ent-VehicleWheelchair = инвалидная коляска
+    .desc = Кресло на больших колесиках. Похоже, в нем можно передвигаться самостоятельно.
 ent-VehicleWheelchairFolded = { ent-VehicleWheelchair }
+    .suffix = сложено
     .desc = { ent-VehicleWheelchair.desc }
-    .suffix = folded
-
-ent-VehicleHoverchair = hoverchair
-    .desc = A luxury hoverchair, kick back and relax.
-
-ent-VehicleForkliftOverlay = forklift overlay
+ent-VehicleHoverchair = стул-ховер
+    .desc = Откиньтесь на спинку роскошного кресла и расслабьтесь.
+ent-VehicleForkliftOverlay = overlay погрузчика
     .desc = { "" }
-
-ent-VehicleForklift = forklift
-    .desc = NanoTrasen approved Forklift Certification required.
+ent-VehicleForklift = погрузчик
+    .desc = Требуется сертификация погрузчика, одобренного NanoTrasen.

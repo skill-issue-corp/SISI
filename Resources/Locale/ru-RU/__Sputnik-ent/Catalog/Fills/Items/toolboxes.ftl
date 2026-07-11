@@ -1,35 +1,24 @@
-ent-ToolboxEmergencyFilled = emergency toolbox
+ent-ToolboxEmergencyFilled = аварийный ящик для инструментов
+    .suffix = Заполненный
     .desc = { ent-ToolboxEmergency.desc }
-    .suffix = Filled
-
-ent-ToolboxElectricalFilled = electrical toolbox
+ent-ToolboxElectricalFilled = электротехнический ящик для инструментов
+    .suffix = Заполненный
     .desc = { ent-ToolboxElectrical.desc }
-    .suffix = Filled
-
-ent-ToolboxElectricalTurretFilled = electrical toolbox
+ent-ToolboxElectricalTurretFilled = электротехнический ящик для инструментов
+    .suffix = Синдикат, Заполненный, Турель
     .desc = { ent-ToolboxElectricalTurret.desc }
-    .suffix = Syndicate, Turret, Filled
-
-ent-ToolboxArtisticFilled = artistic toolbox
+ent-ToolboxArtisticFilled = художественный ящик для инструментов
+    .suffix = Заполненный
     .desc = { ent-ToolboxArtistic.desc }
-    .suffix = Filled
-
-ent-ToolboxMechanicalFilled = mechanical toolbox
+ent-ToolboxMechanicalFilled = технический ящик для инструментов
+    .suffix = Заполненный
     .desc = { ent-ToolboxMechanical.desc }
-    .suffix = Filled
-
-ent-ToolboxMechanicalFilledAllTools = mechanical toolbox
+ent-ToolboxMechanicalFilledAllTools = механический ящик для инструментов
+    .suffix = Заполненный, все инструменты
     .desc = { ent-ToolboxMechanical.desc }
-    .suffix = Filled, all tools
-
 ent-ToolboxSyndicateFilled = { ent-ToolboxSyndicate }
+    .suffix = Заполненный
     .desc = { ent-ToolboxSyndicate.desc }
-    .suffix = Filled
-
-ent-ToolboxGoldFilled = golden toolbox
+ent-ToolboxGoldFilled = золотой ящик для инструментов
+    .suffix = Заполненный
     .desc = { ent-ToolboxGolden.desc }
-    .suffix = Filled
-
-ent-FoolboxFilled = { ent-Foolbox }
-    .desc = { ent-Foolbox.desc }
-    .suffix = Filled

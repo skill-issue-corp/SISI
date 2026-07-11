@@ -1,13 +1,10 @@
-ent-BaseMobSlimeXenobio = basic slime
-    .desc = It looks so much like jelly. I wonder what it tastes like?
-
-ent-MobSlimeXenobioBaby = slime
-    .desc = It looks so much like jelly. I wonder what it tastes like?
-    .suffix = Baby
-
-ent-MobSlimeXenobioAdult = slime
-    .desc = It looks so much like jelly. I wonder what it tastes like?
-    .suffix = Adult
-
-ent-MobSlimeXenobioBabyPending = undetermined slime
+ent-BaseMobSlimeXenobio = базовый слайм
+    .desc = Очень похож на желешку. Может, такой же на вкус?
+ent-MobSlimeXenobioBaby = слайм
+    .desc = Очень похож на желешку. Может, такой же на вкус?
+    .suffix = Малыш
+ent-MobSlimeXenobioAdult = слайм
+    .desc = Очень похож на желешку. Может, такой же на вкус?
+    .suffix = Взрослый
+ent-MobSlimeXenobioBabyPending = неопределённый слайм
     .desc = { ent-MarkerBase.desc }

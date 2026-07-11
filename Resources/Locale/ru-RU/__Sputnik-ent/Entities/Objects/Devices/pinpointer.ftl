@@ -1,23 +1,14 @@
-ent-PinpointerBase = pinpointer
-    .desc = A handheld tracking device. While typically far more capable, this one has been configured to lock onto certain signals. Keep upright to retain accuracy.
-
-ent-PinpointerNuclear = pinpointer
+ent-PinpointerBase = пинпоинтер
+    .desc = Портативное устройство слежения. Хотя обычно оно обладает гораздо более широкими возможностями, это устройство настроено на обнаружение определённых сигналов. Держите вертикально для сохранения точности.
+ent-PinpointerNuclear = пинпоинтер
     .desc = { ent-PinpointerBase.desc }
-
-ent-PinpointerSyndicateNuclear = syndicate pinpointer
-    .desc = Produced specifically for nuclear operative missions, get that disk!
-
-ent-PinpointerUniversal = universal pinpointer
-    .desc = A handheld tracking device that locks onto any physical entity while off. Keep upright to retain accuracy.
-
-ent-PinpointerStation = research server pinpointer
-    .desc = A handheld tracking device that leads to the direction of any nearby research server.
-
-ent-PinpointerMothership = core pinpointer
-    .desc = A handheld tracking device that leads to the direction of the Mothership core.
-
-ent-PinpointerMothershipPiece = piece of core pinpointer
-    .desc = A piece of a core pinpointer. You need four pieces to repair it.
-
-ent-PinpointerMothershipRepaired = repaired core pinpointer
-    .desc = A handheld tracking device that leads to the direction of the Mothership core. This one has seen better days.
+ent-PinpointerSyndicateNuclear = пинпоинтер Синдиката
+    .desc = Изготовлен специально для миссий ядерных оперативников, получите этот диск!
+ent-PinpointerUniversal = универсальный пинпоинтер
+    .desc = Портативное устройство слежения, способное отслеживать любой физический объект в выключенном состоянии. Держите вертикально для сохранения точности.
+ent-PinpointerStation = пинпоинтер станции
+    .desc = Портативное устройство слежения, способное отслеживать любую ближайшую станцию.
+    .suffix = Станция
+ent-PinpointerMothership = пинпоинтер ядра
+    .desc = Портативное устройство слежения, способное отслеживать ядро материнского корабля.
+    .suffix = Материнский корабль

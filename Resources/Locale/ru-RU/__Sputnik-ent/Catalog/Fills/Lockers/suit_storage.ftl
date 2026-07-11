@@ -1,79 +1,63 @@
 ent-SuitStorageEVA = { ent-SuitStorageBase }
+    .suffix = ВКД
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = EVA
-
 ent-SuitStorageEVAAlternate = { ent-SuitStorageBase }
+    .suffix = ВКД, Большой шлем
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = EVA, Large Helmet
-
 ent-SuitStorageEVAEmergency = { ent-SuitStorageBase }
+    .suffix = Аварийный ВКД
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Emergency EVA
-
 ent-SuitStorageEVAPrisoner = { ent-SuitStorageBase }
+    .suffix = Тюремный ВКД
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Prisoner EVA
-
 ent-SuitStorageEVASyndicate = { ent-SuitStorageBase }
+    .suffix = Синдикат ВКД
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Syndicate EVA
-
 ent-SuitStorageEVAPirate = { ent-SuitStorageBase }
+    .suffix = Пиратский ВКД
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Pirate EVA
-
 ent-SuitStorageNTSRA = { ent-SuitStorageBase }
+    .suffix = Древний ВКД
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Ancient EVA
-
+ent-SuitStorageBasic = { ent-SuitStorageBase }
+    .suffix = Базовый скафандр
+    .desc = { ent-SuitStorageBase.desc }
 ent-SuitStorageEngi = { ent-SuitStorageBase }
+    .suffix = Инженер
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Station Engineer
-
 ent-SuitStorageAtmos = { ent-SuitStorageBase }
+    .suffix = Атмосферный техник
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Atmospheric Technician
-
 ent-SuitStorageSec = { ent-SuitStorageBase }
+    .suffix = Служба безопасности
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Security
-
 ent-SuitStorageCE = { ent-SuitStorageBase }
+    .suffix = Старший инженер
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Chief Engineer
-
 ent-SuitStorageCMO = { ent-SuitStorageBase }
+    .suffix = Главный врач
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Chief Medical Officer
-
 ent-SuitStorageRD = { ent-SuitStorageBase }
+    .suffix = Научный руководитель
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Research Director
-
 ent-SuitStorageHOS = { ent-SuitStorageBase }
+    .suffix = Глава службы безопасности
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Head of Security
-
 ent-SuitStorageWarden = { ent-SuitStorageBase }
+    .suffix = Смотритель
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Warden
-
 ent-SuitStorageCaptain = { ent-SuitStorageBase }
+    .suffix = Капитан
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Captain
-
 ent-SuitStorageSalv = { ent-SuitStorageBase }
+    .suffix = Утилизатор
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Salvage
-
 ent-SuitStorageSyndie = { ent-SuitStorageBase }
+    .suffix = Скафандр Синдикат
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Syndicate Hardsuit
-
 ent-SuitStoragePirateCap = { ent-SuitStorageBase }
+    .suffix = Капитан пиратов
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Pirate Captain
-
 ent-SuitStorageWizard = { ent-SuitStorageBase }
+    .suffix = Волшебник
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Wizard

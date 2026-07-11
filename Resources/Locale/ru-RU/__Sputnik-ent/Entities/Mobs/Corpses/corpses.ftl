@@ -1,27 +1,21 @@
 ent-MobRandomServiceCorpse = { ent-SalvageHumanCorpse }
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Service
-
+    .suffix = Мёртвый, Сервис
 ent-MobRandomEngineerCorpse = { ent-SalvageHumanCorpse }
+    .suffix = Мёртвый, Инженер
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Engineer
-
 ent-MobRandomCargoCorpse = { ent-SalvageHumanCorpse }
+    .suffix = Мёртвый, Снабжение
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Cargo
-
 ent-MobRandomMedicCorpse = { ent-SalvageHumanCorpse }
+    .suffix = Мёртвый, Медик
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Medic
-
 ent-MobRandomScienceCorpse = { ent-SalvageHumanCorpse }
+    .suffix = Мёртвый, Учёный
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Science
-
 ent-MobRandomSecurityCorpse = { ent-SalvageHumanCorpse }
+    .suffix = Мёртвый, Служба Безопасности
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Security
-
 ent-MobRandomCommandCorpse = { ent-SalvageHumanCorpse }
+    .suffix = Мёртвый, Командование
     .desc = { ent-SalvageHumanCorpse.desc }
-    .suffix = Dead, Command

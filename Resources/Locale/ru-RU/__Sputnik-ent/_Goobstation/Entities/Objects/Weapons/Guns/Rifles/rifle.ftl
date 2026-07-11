@@ -1,8 +1,13 @@
-ent-WeaponRifleBurner = Burner
-    .desc = A high caliber syndicate gun chambered in .50 caliber, capable of firing anti-materiel and high explosive rounds.
-
-ent-WeaponRifleM90 = M-90
-    .desc = A revision of the M-90gl that removes the inbuilt grenade launcher. Uses .20 rifle ammo.
-
-ent-WeaponRifleAnnie = Annie
-    .desc = A beast designed to shoulder the weight of impossible missions. Uses .30 rifle ammo.
+ent-WeaponRifleBurner = Горелка
+    .desc = Крупнокалиберная винтовка синдиката с патронником 50-го калибра, способный стрелять противотанковыми и осколочно-фугасными снарядами.
+    .suffix = Винтовка
+ent-WeaponRifleM90 = М-90
+    .suffix = Автомат
+    .desc = Модификация M-90gl, в которой отсутствует встроенный гранатомет. Используются винтовочные патроны 20-го калибра.
+ent-WeaponRifleAnnie = Энни
+    .suffix = Автомат
+    .desc = Зверь, созданный для выполнения невыполнимых заданий. Использует винтовочные патроны 30-го калибра.
+    .suffix = Автомат
+ent-WeaponRifleWSPR = WSPR
+    .desc = Ультрасовременная винтовка от Cybersun, универсальная, надежная и одобренная Синдикатом. В ней используются безгильзовые патроны магнум калибра 9,5 мм.
+    .suffix = Автомат

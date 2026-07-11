@@ -1,17 +1,10 @@
-ent-ActionHereticRustConstruction = Rust Formation
-    .desc = Transforms a rusted floor into a full wall of rust. Creating a wall underneath a mob will harm it.
-
-ent-ActionHereticAggressiveSpread = Aggressive Spread
-    .desc = Spreads rust onto nearby surfaces.
-
-ent-ActionHereticEntropicPlume = Entropic Plume
-    .desc = Spews forth a disorienting plume that causes enemies to strike each other, briefly blinds them and poisons them. Also spreads rust in the path of the plume.
-
-ent-ActionHereticRustCharge = Rust Charge
-    .desc = A charge that must be started on a rusted tile and will destroy any rusted objects you come into contact with, will deal high damage to others and rust around you during the charge. As it is the rust that empowers you with this ability, no focus is needed.
-
-ent-ActionHereticRustChargeShort = { ent-ActionHereticRustCharge }
-    .desc = { ent-ActionHereticRustCharge.desc }
-
-ent-ActionHereticRustWave = Patron's Reach
-    .desc = Release a toxic wave of rust.
+ent-ActionHereticRustConstruction = Формирование ржавчины
+    .desc = Превращает ржавый пол в полную стену из ржавчины. Создание стены под существом причинит ему вред.
+ent-ActionHereticAggressiveSpread = Агрессивное распространение
+    .desc = Распространяет ржавчину на близлежащие поверхности.
+ent-ActionHereticEntropicPlume = Энтропийное облако
+    .desc = Выпускает дезориентирующее облако, заставляющее врагов бить друг друга, кратковременно ослепляет и отравляет их. Также распространяет ржавчину по пути облака.
+ent-ActionHereticRustCharge = Ржавый Рывок
+    .desc = Рывок, который должен начинаться на ржавой плитке и уничтожающий любые ржавые объекты на вашем пути. Он нанесёт сильный урон другим и распространит ржавчину вокруг вас во время рывка. Поскольку именно ржавчина даёт вам эту силу, фокус не требуется.
+ent-ActionHereticRustWave = Достижение патрона
+    .desc = Выпускает токсичную волну ржавчины.

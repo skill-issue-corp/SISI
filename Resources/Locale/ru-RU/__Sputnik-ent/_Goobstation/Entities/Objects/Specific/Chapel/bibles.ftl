@@ -1,8 +1,6 @@
-ent-BibleQuaran = Quaran
-    .desc = Inshallah.
-
-ent-BibleTanakh = Tanakh
-    .desc = Choose life, that you and your offspring may live.
-
-ent-BibleSlabClockwork = clockwork slab
-    .desc = A strange metal tablet. A clock in the center turns around and around.
+ent-BibleQuaran = Коран
+    .desc = Иншааллах.
+ent-BibleTanakh = Танах
+    .desc = Выбирай жизнь, чтобы ты и потомки твои жили.
+ent-BibleSlabClockwork = заводная пластина
+    .desc = Странная металлическая пластина, с постоянно вращающимися часами в центре.

@@ -1,5 +1,4 @@
 ent-BaseBulletStarlight = BaseBullet
-    .desc = If you can see this you're probably dead!
-
-ent-BulletDeclone = decloner bolt
+    .desc = Если ты это увидишь, то, скорее всего, ты мёртв!
+ent-BulletDeclone = снаряд деклонера
     .desc = { ent-BaseBulletStarlight.desc }

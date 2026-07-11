@@ -1,53 +1,44 @@
-ent-ChronoIDCard = futuristic ID card
-    .desc = The card that originally accessed everything in this universe
-
-ent-HelldiverIDCard = salvage diver ID card
+ent-ChronoIDCard = ID-карта будущего
+    .desc = Карта, при помощи которой изначально можно было получить доступ ко всему во вселенной.
+ent-HelldiverIDCard = ID-карта спасателя
     .desc = { ent-SalvageIDCard.desc }
-
-ent-HecuIDCard = HECU ID card
+ent-HecuIDCard = ID-карта HECU
     .desc = { ent-IDCardStandard.desc }
-
-ent-NanotrasenRepresentativeIDCard = nanotrasen representative ID card
+ent-BlueshieldIDCard = ID-карта офицера "Синий Щит"
     .desc = { ent-IDCardStandard.desc }
-
-ent-ExecutiveIDCard = executive access card
-    .desc = Nanotrasen employees are legally obligated to listen to someone with one of these. It's also capable of overriding access locks on most devices.
-
-ent-ExecutiveIDCardChameleon = executive access card
-    .desc = Same features as the original version, but can change appearance.
-
-ent-CentcomIDCardNavyCaptain = Navy Captain's ID card
+ent-NanotrasenRepresentativeIDCard = ID-карта инспектора Nanotrasen
     .desc = { ent-IDCardStandard.desc }
-
-ent-CentcomIDCardNavyOfficer = Navy Officer's ID card
+ent-NanotrasenCareerTrainerIDCard = ID-карта наставника ЦК
+    .desc = { ent-IDCardStandard.desc }
+ent-ExecutiveIDCard = карта доступа руководителя
+    .desc = Сотрудники Nanotrasen, по закону, обязаны прослушивать сообщения пользователей при помощи одного из этих устройств. Кроме того, программа способна переопределять блокировки доступа на большинстве устройств.
+ent-ExecutiveIDCardChameleon = карта доступа руководителя
+    .desc = Те же функции, что и в оригинальной версии, но внешний вид может быть изменен.
+ent-CentcomIDCardNavyCaptain = ID-карта капитана ВКС
+    .desc = { ent-IDCardStandard.desc }
+ent-CentcomIDCardNavyOfficer = ID-карта офицера ЦК
     .desc = { ent-CentcomIDCardNavyCaptain.desc }
-
-ent-CentcomIDCardInspector = inspector's ID card
+ent-CentcomIDCardSpecialOperationsOfficer = ID-карта ОСО
     .desc = { ent-CentcomIDCardNavyCaptain.desc }
-
-ent-CentcomIDCardDiplomat = Diplomat's ID card
+ent-CentcomIDCardInspector = ID-карта Инспектора
     .desc = { ent-CentcomIDCardNavyCaptain.desc }
-
-ent-GmanIDCard = strange ID card
-    .desc = The card that originally accessed everything in this universe
-
-ent-HighCommandIDCard = high command ID card
-    .desc = A particularly extravagent Syndicate identification card. This one has an in-built access breaker to open nearly any door.
-
-ent-SecurityClownIDCard = security clown ID card
+ent-CentcomIDCardDiplomat = ID-карта Дипломата
+    .desc = { ent-CentcomIDCardNavyCaptain.desc }
+ent-GmanIDCard = странная ID-карта
+    .desc = Карта, с помощью которой изначально можно было получить доступ ко всему в этой вселенной.
+ent-HighCommandIDCard = ID-карта высшего командования
+    .desc = Особенно роскошная карта Синдиката. Встроенный взломщик доступа позволяет открыть почти любую дверь.
+ent-SecurityClownIDCard = ID-карта СБ клоуна
     .desc = { ent-IDCardStandard.desc }
-
-ent-CommandMaidIDCard = command maid ID card
+ent-CommandMaidIDCard = ID-карта горничной командования
     .desc = { ent-IDCardStandard.desc }
-
-ent-PartyMakerIDCard = party maker ID card
+ent-PartyMakerIDCard = ID-карта патимейкера
     .desc = { ent-IDCardStandard.desc }
-
-ent-RoboticistIDCard = roboticist ID card
+ent-RoboticistIDCard = ID-карта робототехника
     .desc = { ent-IDCardStandard.desc }
-
-ent-RadioHostIDCard = radio host ID card
+ent-RadioHostIDCard = ID-карта радиоведущего
     .desc = { ent-IDCardStandard.desc }
-
-ent-VirologistIDCard = virology ID card
+ent-VirologistIDCard = ID-карта вирусолога
     .desc = { ent-IDCardStandard.desc }
+ent-OuterCommandIDCard = ID-карта офицера ТСФ
+    .desc = { ent-CentcomIDCardNavyCaptain.desc }

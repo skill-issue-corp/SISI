@@ -1,2 +1,2 @@
-ent-ClothingUniformJumpsuitAbductor = abductor uniform
+ent-ClothingUniformJumpsuitAbductor = серая униформа инопланетянина
     .desc = { ent-UnsensoredClothingUniformBase.desc }

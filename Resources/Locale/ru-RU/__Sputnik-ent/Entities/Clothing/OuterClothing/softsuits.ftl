@@ -1,17 +1,16 @@
-ent-ClothingOuterHardsuitEVA = EVA suit
-    .desc = A lightweight space suit with the basic ability to protect the wearer from the vacuum of space during emergencies.
-
-ent-ClothingOuterEVASuitSyndicate = syndicate EVA suit
-    .desc = Has a tag on the back that reads: 'Totally not property of an enemy corporation, honest!'
-
-ent-ClothingOuterSuitEmergency = emergency EVA suit
-    .desc = An emergency EVA suit with a built-in helmet. It's horribly slow and lacking in temperature protection, but enough to buy you time from the harsh vacuum of space.
-
-ent-ClothingOuterHardsuitEVAPrisoner = prisoner EVA suit
-    .desc = An emergency EVA suit meant for prisoners. It's horribly slow and lacking in temperature protection, but enough to buy you time from the harsh vacuum of space.
-
-ent-ClothingOuterHardsuitAncientEVA = NTSRA voidsuit
-    .desc = An ancient space suit, designed by the NTSRA branch of CentComm. It is very finely crafted, allowing for greater mobility than most modern space suits.
-
-ent-ClothingOuterHardsuitVoidParamed = paramedic hardsuit
-    .desc = A hardsuit made for paramedics.
+ent-ClothingOuterHardsuitEVA = скафандр ВКД
+    .desc = Лёгкий космический скафандр, способный защитить владельца от космического вакуума во время аварийной ситуации.
+ent-ClothingOuterEVASuitSyndicate = кроваво-красный скафандр ВКД
+    .desc = На бирке написано 'Совершенно не собственность вражеской корпорации, честно!'.
+# Corvax-HiddenDesc-Start
+ent-ClothingOuterHardsuitSyndicate = кроваво-красный скафандр ВКД
+    .desc = На бирке написано 'Совершенно не собственность вражеской корпорации, честно!'.
+# Corvax-HiddenDesc-End
+ent-ClothingOuterSuitEmergency = аварийный скафандр ВКД
+    .desc = Аварийный скафандр EVA со встроенным шлемом. Он ужасно медленный и не имеет температурной защиты, но его достаточно, чтобы выиграть время в жёстком вакууме космоса.
+ent-ClothingOuterHardsuitEVAPrisoner = тюремный скафандр ВКД
+    .desc = Лёгкий космический скафандр, способный защитить заключённого от космического вакуума во время аварийной ситуации.
+ent-ClothingOuterHardsuitAncientEVA = пустотный скафандр NTSRA
+    .desc = Древний космический скафандр, разработанный по заказу Центрального Командования, подразделением NTSRA - ассоциацией космических исследований NanoTrasen. Он изготовлен с особой тщательностью, обеспечивая большую мобильность, чем большинство современных космических костюмов.
+ent-ClothingOuterHardsuitVoidParamed = пустотный скафандр парамедика
+    .desc = Пустотный скафандр, предназначенный для парамедиков.

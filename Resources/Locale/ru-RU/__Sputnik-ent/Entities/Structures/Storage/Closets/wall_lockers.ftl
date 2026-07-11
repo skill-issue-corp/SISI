@@ -1,83 +1,56 @@
-ent-ClosetWall = maintenance wall closet
-    .desc = It's a storage unit.
-
-ent-ClosetWallEmergency = emergency wall closet
-    .desc = It's a storage unit for emergency breath masks and O2 tanks.
-
-ent-ClosetWallEmergencyN2 = emergency nitrogen wall closet
-    .desc = It's full of life-saving equipment. Assuming, that is, that you breathe nitrogen.
-
-ent-ClosetWallFire = fire-safety wall closet
-    .desc = It's a storage unit for fire-fighting supplies.
-
-ent-ClosetWallBlue = blue wall closet
-    .desc = A wardrobe packed with stylish blue clothing.
-
-ent-ClosetWallPink = pink wall closet
-    .desc = A wardrobe packed with fabulous pink clothing.
-
-ent-ClosetWallBlack = black wall closet
-    .desc = A wardrobe packed with stylish black clothing.
-
-ent-ClosetWallGreen = green wall closet
-    .desc = A wardrobe packed with stylish green clothing.
-
-ent-ClosetWallOrange = prison wall closet
+ent-ClosetWall = технический настенный шкаф
+    .desc = Это хранилище.
+ent-ClosetWallEmergency = аварийный настенный шкаф
+    .desc = Это хранилище аварийных дыхательных масок и баллонов с кислородом.
+ent-ClosetWallEmergencyN2 = аварийный азотный настенный шкаф
+    .desc = Полон спасательного оборудования. При условии, что вы дышите азотом.
+ent-ClosetWallFire = противопожарный настенный шкаф
+    .desc = Это хранилище для противопожарного снаряжения.
+ent-ClosetWallBlue = синий настенный шкаф
+    .desc = Гардероб, полный стильной синей одежды.
+ent-ClosetWallPink = розовый настенный шкаф
+    .desc = Гардероб, полный стильной розовой одежды.
+ent-ClosetWallBlack = чёрный настенный шкаф
+    .desc = Гардероб, полный стильной чёрной одежды.
+ent-ClosetWallGreen = зелёный настенный шкаф
+    .desc = Гардероб, полный стильной зелёной одежды.
+ent-ClosetWallOrange = тюремный настенный шкаф
     .desc = { ent-BaseWallCloset.desc }
-
-ent-ClosetWallYellow = yellow wall closet
-    .desc = A wardrobe packed with stylish yellow clothing.
-
-ent-ClosetWallWhite = white wall closet
-    .desc = A wardrobe packed with stylish white clothing.
-
-ent-ClosetWallGrey = grey wall closet
-    .desc = A wardrobe packed with a tide of grey clothing.
-
-ent-ClosetWallMixed = mixed wall closet
-    .desc = A wardrobe packed with a mix of colorful clothing.
-
-ent-ClosetWallAtmospherics = atmospherics wall closet
+ent-ClosetWallYellow = жёлтый настенный шкаф
+    .desc = Гардероб, полный стильной жёлтой одежды.
+ent-ClosetWallWhite = белый настенный шкаф
+    .desc = Гардероб, полный стильной белой одежды.
+ent-ClosetWallGrey = серый настенный шкаф
+    .desc = Гардероб, полный робастной серой одежды.
+ent-ClosetWallMixed = смешанный настенный шкаф
+    .desc = Гардероб, полный стильной разноцветной одежды.
+ent-ClosetWallAtmospherics = атмосферный настенный шкаф
     .desc = { ent-BaseWallCloset.desc }
-
-ent-LockerWallMedical = medical wall locker
+ent-LockerWallMedical = врачебный настенный шкаф
     .desc = { ent-BaseWallLocker.desc }
-
-ent-LockerWallEvacRepair = emergency shuttle emergency wall locker
-    .desc = It's emergencies all the way down.
-
-ent-LockerWallBasePrisoner = prisoner wall closet
-    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.
+ent-LockerWallEvacRepair = настенный шкаф эвак-ремонта
+    .desc = { ent-BaseWallLocker.desc }
+ent-LockerWallBasePrisoner = настенный шкаф заключённого
+    .desc = Это защищённый шкафчик для персональных вещей заключённого во время его пребывания в тюрьме.
     .suffix = 1
-
 ent-LockerWallPrisoner2 = { ent-LockerWallBasePrisoner }
-    .desc = { ent-LockerWallBasePrisoner.desc }
     .suffix = 2
-
+    .desc = { ent-LockerWallBasePrisoner.desc }
 ent-LockerWallPrisoner3 = { ent-LockerWallBasePrisoner }
-    .desc = { ent-LockerWallBasePrisoner.desc }
     .suffix = 3
-
+    .desc = { ent-LockerWallBasePrisoner.desc }
 ent-LockerWallPrisoner4 = { ent-LockerWallBasePrisoner }
-    .desc = { ent-LockerWallBasePrisoner.desc }
     .suffix = 4
-
+    .desc = { ent-LockerWallBasePrisoner.desc }
 ent-LockerWallPrisoner5 = { ent-LockerWallBasePrisoner }
-    .desc = { ent-LockerWallBasePrisoner.desc }
     .suffix = 5
-
+    .desc = { ent-LockerWallBasePrisoner.desc }
 ent-LockerWallPrisoner6 = { ent-LockerWallBasePrisoner }
-    .desc = { ent-LockerWallBasePrisoner.desc }
     .suffix = 6
-
+    .desc = { ent-LockerWallBasePrisoner.desc }
 ent-LockerWallPrisoner7 = { ent-LockerWallBasePrisoner }
-    .desc = { ent-LockerWallBasePrisoner.desc }
     .suffix = 7
-
-ent-LockerWallPrisoner8 = { ent-LockerWallBasePrisoner }
     .desc = { ent-LockerWallBasePrisoner.desc }
+ent-LockerWallPrisoner8 = { ent-LockerWallBasePrisoner }
     .suffix = 8
-
-ent-LockerWallSyndicate = blood-red wall locker
-    .desc = It's a wall storage unit with a blood-red design.
-    .suffix = Locked
+    .desc = { ent-LockerWallBasePrisoner.desc }

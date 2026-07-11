@@ -1,42 +1,39 @@
-ent-CableStack = cable stack
-    .desc = { ent-SolutionCompositeSmallStackable.desc }
-    .suffix = Full
-
-ent-CableHVStack = HV cable coil
-    .desc = HV cables for connecting engines to heavy duty machinery, SMESes, and substations.
-    .suffix = Full
-
+ent-CableStack = моток кабеля
+    .suffix = Полный
+    .desc = { ent-BaseItem.desc }
+ent-CableHVStack = моток ВВ-кабеля
+    .suffix = Полный
+    .desc = Моток высоковольтных проводов для подключения генераторов энергии к СМЭС, подстанциям и специальному оборудованию.
 ent-CableHVStack10 = { ent-CableHVStack }
-    .desc = { ent-CableHVStack.desc }
     .suffix = 10
-
+    .desc = { ent-CableHVStack.desc }
+ent-CableHVStackLingering10 = { ent-CableHVStack10 }
+    .suffix = 10, Не исчезают закончившись
+    .desc = { ent-CableHVStack10.desc }
 ent-CableHVStack1 = { ent-CableHVStack }
+    .suffix = 1
     .desc = { ent-CableHVStack.desc }
-    .suffix = 1
-
-ent-CableMVStack = MV cable coil
-    .desc = MV cables for connecting substations to APCs, and also powering a select few things like emitters.
-    .suffix = Full
-
-ent-SolutionCompositeCable = { ent-SolutionCompositeSmallStackable }
-    .desc = { ent-SolutionCompositeSmallStackable.desc }
-
+ent-CableMVStack = моток СВ-кабеля
+    .suffix = Полный
+    .desc = Моток средневольтных проводов для подключения подстанций к ЛКП, а также для питания некоторого оборудования, например, эмиттеров.
 ent-CableMVStack10 = { ent-CableMVStack }
-    .desc = { ent-CableMVStack.desc }
     .suffix = 10
-
+    .desc = { ent-CableMVStack.desc }
+ent-CableMVStackLingering10 = { ent-CableMVStack10 }
+    .suffix = 10, Не исчезают закончившись
+    .desc = { ent-CableMVStack10.desc }
 ent-CableMVStack1 = { ent-CableMVStack }
+    .suffix = 1
     .desc = { ent-CableMVStack.desc }
-    .suffix = 1
-
-ent-CableApcStack = LV cable coil
-    .desc = Low-Voltage stack of wires for connecting APCs to machines and other purposes.
-    .suffix = Full
-
+ent-CableApcStack = моток НВ-кабеля
+    .desc = Моток низковольтных проводов для соединения ЛКП с устройствами, а также для других задач.
+    .suffix = Полный
 ent-CableApcStack10 = { ent-CableApcStack }
-    .desc = { ent-CableApcStack.desc }
     .suffix = 10
-
-ent-CableApcStack1 = { ent-CableApcStack }
     .desc = { ent-CableApcStack.desc }
+ent-CableApcStackLingering10 = { ent-CableApcStack10 }
+    .suffix = 10, Не исчезают закончившись
+    .desc = { ent-CableApcStack10.desc }
+ent-CableApcStack1 = { ent-CableApcStack }
     .suffix = 1
+    .desc = { ent-CableApcStack.desc }

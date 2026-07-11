@@ -1,2 +1,2 @@
-ent-EnchantFireAspect = Fire Aspect
+ent-EnchantFireAspect = Заговор огня
     .desc = { ent-BaseEnchant.desc }

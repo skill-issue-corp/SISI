@@ -1,2 +1,2 @@
-ent-PlushieCosmicCult = unknown plushie
-    .desc = A small stuffed doll resembling the indistinct likeness of an unknown cosmic force. That doesn't really make sense, but the marketing department was really insistent about it.
+ent-PlushieCosmicCult = плюшевая неизвестность
+    .desc = Маленькая плюшевая игрушка, смутно напоминающая неведомую космическую силу. Звучит нелепо, но отдел маркетинга настаивал на её производстве.

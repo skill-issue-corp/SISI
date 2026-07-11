@@ -1,31 +1,24 @@
 ent-MeteorRockBSCrystal = { ent-AsteroidRock }
+    .suffix = bluespace crystal
     .desc = { ent-AsteroidRock.desc }
-    .suffix = bluespace crystal
-
 ent-IronRockBSCrystal = { ent-IronRock }
+    .suffix = bluespace crystal
     .desc = { ent-IronRock.desc }
-    .suffix = bluespace crystal
-
 ent-WallRockBSCrystal = { ent-WallRock }
+    .suffix = bluespace crystal
     .desc = { ent-WallRock.desc }
-    .suffix = bluespace crystal
-
 ent-WallRockBasaltBSCrystal = { ent-WallRockBasalt }
+    .suffix = bluespace crystal
     .desc = { ent-WallRockBasalt.desc }
-    .suffix = bluespace crystal
-
 ent-WallRockSnowBSCrystal = { ent-WallRockSnow }
+    .suffix = bluespace crystal
     .desc = { ent-WallRockSnow.desc }
-    .suffix = bluespace crystal
-
 ent-WallRockSandBSCrystal = { ent-WallRockSand }
+    .suffix = bluespace crystal
     .desc = { ent-WallRockSand.desc }
-    .suffix = bluespace crystal
-
 ent-WallRockChromiteBSCrystal = { ent-WallRockChromite }
+    .suffix = bluespace crystal
     .desc = { ent-WallRockChromite.desc }
-    .suffix = bluespace crystal
-
 ent-WallRockAndesiteBSCrystal = { ent-WallRockAndesite }
-    .desc = { ent-WallRockAndesite.desc }
     .suffix = bluespace crystal
+    .desc = { ent-WallRockAndesite.desc }

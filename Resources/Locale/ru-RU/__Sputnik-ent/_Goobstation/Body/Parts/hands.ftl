@@ -1,11 +1,16 @@
-ent-SmartlinkLeftHand = SmartLink left hand
-    .desc = A cybernetic left hand that allows its wearer to shoot "smart" bullets from any weapon.
-
-ent-SmartlinkRightHand = SmartLink right hand
-    .desc = A cybernetic right hand that allows its wearer to shoot "smart" bullets from any weapon.
-
-ent-RecoilAbsorberLeftHand = recoil absorbing left hand
-    .desc = A cybernetic left hand that absorbs most of ranged weapons recoil.
-
-ent-RecoilAbsorberRightHand = recoil absorbing right hand
-    .desc = A cybernetic right hand that absorbs most of ranged weapons recoil.
+ent-LeftHandDwarf = левая кисть дворфа
+    .desc = { ent-PartHuman.desc }
+ent-RightHandDwarf = правая кисть дворфа
+    .desc = { ent-PartHuman.desc }
+ent-SmartlinkLeftHand = левая кисть Смартлинк
+    .desc = Кибернетическая левая кисть, позволяющая владельцу стрелять "умными" пулями из любого оружия.
+ent-SmartlinkRightHand = правая кисть Смартлинк
+    .desc = Кибернетическая правая кисть, позволяющая владельцу стрелять "умными" пулями из любого оружия.
+ent-RecoilAbsorberLeftHand = левая кисть с поглощением отдачи
+    .desc = Кибернетическая левая кисть, поглощающая большую часть отдачи дальнобойного оружия.
+ent-RecoilAbsorberRightHand = правая кисть с поглощением отдачи
+    .desc = Кибернетическая правая кисть, поглощающая большую часть отдачи дальнобойного оружия.
+ent-LeftHandBananamen = левая кисть бананачела
+    .desc = { ent-PartHuman.desc }
+ent-RightHandBananamen = правая кисть бананачела
+    .desc = { ent-PartHuman.desc }

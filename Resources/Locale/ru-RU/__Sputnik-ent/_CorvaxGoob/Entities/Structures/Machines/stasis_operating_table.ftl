@@ -1,2 +1,2 @@
-ent-StasisOperatingTable = stasis operating table
-    .desc = Used for advanced medical procedures. Massively slows down the patient's metabolism and prevents bodily decay.
+ent-StasisOperatingTable = стазисный операционный стол
+    .desc = Специальный медицинский стол для проведения операций. Метаболизм пациента сильно замедляется, а разложение тела прекращается.

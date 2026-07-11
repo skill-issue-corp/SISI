@@ -1,30 +1,31 @@
-ent-BaseWeaponCrusher = crusher
-    .desc = An early design of the proto-kinetic accelerator.
-
-ent-WeaponCrusher = crusher axe
-    .desc = An early design of the proto-kinetic accelerator.
-
-ent-WeaponCrusherGlaive = crusher glaive
-    .desc = An early design of the proto-kinetic accelerator, in glaive form. Provides better healing in exchange for less charged damage.
-
-ent-WeaponCrusherHammer = crusher hammer
-    .desc = A beefy, two-handed weapon that inflicts knockback and heavier damage than a crusher.
-
-ent-WeaponCrusherHalberd = crusher halberd
-    .desc = A universal weapon that combines the power of a crusher and the range of a spear.
-
+ent-BaseWeaponCrusher = крушитель
+    .desc = Ранняя версия протокинетического ускорителя.
+ent-WeaponCrusher = топор-крушитель
+    .desc = Ранняя версия протокинетического ускорителя.
+ent-WeaponCrusherGlaive = глефа-крушитель
+    .desc = Ранняя версия протокинетического ускорителя в форме глефы. Обеспечивает больше лечения ценой меньшего урона.
+ent-WeaponCrusherHammer = молот-крушитель
+    .desc = Мощное двуручное оружие, которое откидывает и наносит больше урона, чем крушитель.
+ent-WeaponCrusherHalberd = алебарда-крушитель
+    .desc = Универсальное оружие, которое совмещает силу крушителя и длину копья.
 ent-CrusherRandomUpgradesFill = { "" }
+    .suffix = Случайные улучшения
     .desc = { "" }
-    .suffix = Random Upgrades
-
 ent-WeaponCrusherFilledRandom = { ent-WeaponCrusher }
+    .suffix = Случайные улучшения
     .desc = { ent-WeaponCrusher.desc }
-
 ent-WeaponCrusherGlaiveFilledRandom = { ent-WeaponCrusherGlaive }
+    .suffix = Случайные улучшения
     .desc = { ent-WeaponCrusherGlaive.desc }
-
 ent-WeaponCrusherHammerFilledRandom = { ent-WeaponCrusherHammer }
+    .suffix = Случайные улучшения
     .desc = { ent-WeaponCrusherHammer.desc }
-
 ent-WeaponCrusherHalberdFilledRandom = { ent-WeaponCrusherHalberd }
+    .suffix = Случайные улучшения
     .desc = { ent-WeaponCrusherHalberd.desc }
+ent-LavalandWeaponKineticBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-LavalandWeaponKineticSpear = кинетическое копьё
+    .desc = Длинное оружие ближнего боя. Наносит меньше урона, чем обычный крушитель, но имеет большую дальность атаки.
+ent-LavalandWeaponKineticHammer = кинетический молот
+    .desc = Мощное двуручное оружие, свойственное отдачей и более тяжёлым уроном, чем крушитель.

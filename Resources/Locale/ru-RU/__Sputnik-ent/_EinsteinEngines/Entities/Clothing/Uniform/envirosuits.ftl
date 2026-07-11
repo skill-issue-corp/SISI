@@ -1,241 +1,164 @@
-ent-ClothingUniformEnvirosuit = plasma envirosuit
-    .desc = A special containment suit that allows plasma-based lifeforms to exist safely in an oxygenated environment.
-
-ent-ClothingUniformEnvirosuitAtmos = atmospherics envirosuit
-    .desc = An air-tight suit designed to be used by Plasmamen employed as atmos technicians.
-
-ent-ClothingUniformEnvirosuitCargo = cargo tech envirosuit
-    .desc = An envirosuit used by Plasmamen cargo technicians.
-
-ent-ClothingUniformEnvirosuitCaptain = captain's envirosuit
-    .desc = It's a blue envirosuit with some gold markings denoting the rank of "Captain".
-
-ent-ClothingUniformEnvirosuitChiefEngineer = chief engineer's envirosuit
-    .desc = An air-tight suit designed to be used by Plasmamen insane enough to achieve the rank of "Chief Engineer".
-
-ent-ClothingUniformEnvirosuitChaplain = chaplain's envirosuit
-    .desc = An envirosuit specially designed for only the most pious of Plasmamen.
-
-ent-ClothingUniformEnvirosuitChef = chef's envirosuit
-    .desc = A white Plasmaman envirosuit designed for cullinary practices. One might question why a member of a species that doesn't need to eat would become a chef.
-
-ent-ClothingUniformEnvirosuitChemist = chemistry envirosuit
-    .desc = A Plasmaman envirosuit designed for chemists.
-
-ent-ClothingUniformEnvirosuitClown = clown envirosuit
-    .desc = HONK!
-
-ent-ClothingUniformEnvirosuitCMO = chief medical officer's envirosuit
-    .desc = It's an envirosuit worn by those with the experience to be "Chief Medical Officer".
-
-ent-ClothingUniformEnvirosuitEngineering = engineering envirosuit
-    .desc = An air-tight suit designed to be used by Plasmamen employed as engineers, the usual purple stripes being replaced by engineering's orange.
-
-ent-ClothingUniformEnvirosuitDetective = detective envirosuit
-    .desc = The pet project of a particularly posh Plasmaman, this custom suit was modified by Nanotrasen for its detectives.
-
-ent-ClothingUniformEnvirosuitHoP = head of personnel's envirosuit
-    .desc = It's an envirosuit worn by someone who works in the position of "Head of Personnel".
-
-ent-ClothingUniformEnvirosuitHoS = head of security's envirosuit
-    .desc = A Plasmaman containment suit decorated for those few with the dedication to achieve the position of Head of Security.
-
-ent-ClothingUniformEnvirosuitHydroponics = hydroponics envirosuit
-    .desc = A green and blue envirosuit designed to protect Plasmamen from minor plant-related injuries.
-
-ent-ClothingUniformEnvirosuitJanitor = janitor envirosuit
-    .desc = A grey and purple envirosuit designated for Plasmamen janitors.
-
-ent-ClothingUniformEnvirosuitAncientVoid = NTSRA envirosuit
-    .desc = Made out of a modified NTSRA vacsuit, this non-spaceworthy suit was NanoTrasen's first designed envirosuit for Plasmamen.
-
-ent-ClothingUniformEnvirosuitMedicalDoctor = medical doctor's envirosuit
-    .desc = A suit designed for the station's more plasma-based doctors.
-
-ent-ClothingUniformEnvirosuitGenetics = genetics envirosuit
-    .desc = A Plasmaman envirosuit designed for geneticists.
-
-ent-ClothingUniformEnvirosuitMime = mime envirosuit
-    .desc = It's not very colourful.
-
-ent-ClothingUniformEnvirosuitParamedic = paramedic envirosuit
-    .desc = A suit designed for the station's Plasmaman paramedics.
-
-ent-ClothingUniformEnvirosuitPrisoner = prisoner envirosuit
-    .desc = An orange envirosuit identifying and protecting a criminal Plasmaman.
-
-ent-ClothingUniformEnvirosuitResearchDirector = research director's envirosuit
-    .desc = It's an envirosuit worn by those with the know-how to achieve the position of Research Director.
-
-ent-ClothingUniformEnvirosuitRoboticist = roboticist envirosuit
-    .desc = A Plasmaman envirosuit designed for roboticists.
-
-ent-ClothingUniformEnvirosuitSalvage = salvage envirosuit
-    .desc = An air-tight khaki suit designed for salvage operations by Plasmamen.
-
-ent-ClothingUniformEnvirosuitScientist = science envirosuit
-    .desc = A Plasmaman envirosuit designed for scientists.
-
-ent-ClothingUniformEnvirosuitSec = security envirosuit
-    .desc = A Plasmaman containment suit designed for security officers.
-
-ent-ClothingUniformEnvirosuitSecBlue = blue security envirosuit
-    .desc = A cool blue enviroshirt over charcoal trousers, for the calm and collected Plasmaman officer.
-
-ent-ClothingUniformEnvirosuitSecGrey = grey security envirosuit
-    .desc = Light grey enviroslacks with bright red highlights, for dedicated and responsive security officers.
-
-ent-ClothingUniformEnvirosuitVirology = virology envirosuit
-    .desc = The suit worn by the safest people on the station, those who are completely immune to the monstrosities they create.
-
-ent-ClothingUniformEnvirosuitWarden = warden's envirosuit
-    .desc = A Plasmaman containment suit designed for the warden, white stripes being added to differentiate them from other members of security.
-
-ent-ClothingUniformEnvirosuitOperative = operative envirosuit
-    .desc = A sinister looking envirosuit, for the most elite of bony operatives.
-
-ent-ClothingUniformEnvirosuitTacticool = tacticool envirosuit
-    .desc = A sinister looking envirosuit, for the boniest of operatives.
-
-ent-ClothingUniformEnvirosuitCentcomAgent = CentCom agent's envirosuit
-    .desc = An envirosuit tailored for CentCom's legal team. Smells of burnt coffee.
-
-ent-ClothingUniformEnvirosuitCentcomOfficial = CentCom official's envirosuit
-    .desc = It's an envirosuit worn by CentCom's officials.
-
-ent-ClothingUniformEnvirosuitCentcomOfficer = CentCom officer's envirosuit
-    .desc = It's an envirosuit worn by CentCom Officers.
-
-ent-ClothingUniformEnvirosuitCourier = courier's envirosuit
-    .desc = An envirosuit tailored for the courier.
-
-ent-ClothingUniformEnvirosuitMailCarrier = mail carrier's envirosuit
-    .desc = An envirosuit tailored for the mail carrier. The color pattern makes pitbulls go wild.
-
-ent-ClothingUniformEnvirosuitMusician = musician's envirosuit
-    .desc = An envirosuit to play music with.
-
-ent-ClothingUniformEnvirosuitReporter = reporter envirosuit
-    .desc = An envirosuit for the news-oriented Plasmamen.
-
-ent-ClothingUniformEnvirosuitGladiator = gladiator envirosuit
-    .desc = Made for bloodthirsty Plasmamen.
-
-ent-ClothingUniformEnvirosuitMantis = mantis' envirosuit
-    .desc = Hunting down psionics in the safety of this envirosuit.
-
-ent-ClothingUniformEnvirosuitSafari = safari envirosuit
-    .desc = Perfect for a jungle excursion.
-
-ent-ClothingUniformEnvirosuitMartialGi = gi envirosuit
-    .desc = A flowy envirosuit tailor-made for martial arts that doesn't restrict your mobility.
-
-ent-ClothingUniformEnvirosuitQM = quartermaster's envirosuit
-    .desc = An air-tight suit designed to be used by Plasmamen insane enough to achieve the rank of "Quartermaster".
-
-ent-ClothingUniformEnvirosuitBoxing = boxing envirosuit
-    .desc = Used by Plasmamen boxers.
-
-ent-ClothingUniformEnvirosuitAdminAssistant = administrative assistant's envirosuit
-    .desc = An envirosuit worn by the Administrative Assistant. Smells of burnt coffee.
-
-ent-ClothingUniformEnvirosuitBlackPink = black pink envirosuit
-    .desc = Black pink envirosuit in your area!
-
-ent-ClothingUniformEnvirosuitBlackPinkAlt = black pink envirosuit
-    .desc = Black pink envirosuit in your area!
-    .suffix = Alternative
-
-ent-ClothingUniformEnvirosuitTrans = trans envirosuit
-    .desc = The signature envirosuit of Transylvanian Plasmamen.
-
-ent-ClothingUniformEnvirosuitPrisonGuard = prison guard's envirosuit
-    .desc = A comfortable, durable, envirosuit made to keep Plasmamen prison staff comfortable and safe.
-
-ent-ClothingUniformEnvirosuitBrigmedic = corpsman envirosuit
-    .desc = An envirosuit assigned to corpsmen Plasmamen.
-
-ent-ClothingUniformEnvirosuitNanotrasenRepresentative = nanotrasen representative envirosuit
-    .desc = A black envirosuit worn by officials.
-
-ent-ClothingUniformEnvirosuitMagistrate = magistrate envirosuit
-    .desc = The envirosuit that doles out justice.
-
-ent-ClothingUniformEnvirosuitEnviroslacks = enviroslacks
-    .desc = The pet project of a particularly posh Plasmaman. Professional!
-
-ent-ClothingUniformEnvirosuitEnviroslacksNegative = negative enviroslacks
-    .desc = The pet project of a particularly posh Plasmaman, this variant has inverted colors. Dapper!
-
-ent-ClothingUniformEnvirosuitEnviroslacksColorRed = red enviroslacks
-    .desc = The pet project of a particularly posh Plasmaman, this variant comes with red accents. Fancy!
-
-ent-ClothingUniformEnvirosuitEnviroslacksColorOrange = orange enviroslacks
-    .desc = The pet project of a particularly posh Plasmaman, this variant comes with orange accents. Zesty!
-
-ent-ClothingUniformEnvirosuitEnviroslacksColorGreen = green enviroslacks
-    .desc = The pet project of a particularly posh Plasmaman, this variant comes with green accents. Leafy!
-
-ent-ClothingUniformEnvirosuitEnviroslacksColorBlue = blue enviroslacks
-    .desc = The pet project of a particularly posh Plasmaman, this variant comes with blue accents. Cool!
-
-ent-ClothingUniformEnvirosuitEnviroslacksColorBrown = brown enviroslacks
-    .desc = The pet project of a particularly posh Plasmaman, this variant has brown pants. Reminds you of dusty offices.
-
-ent-ClothingUniformEnvirosuitEnviroslacksMNK = MNK enviroslacks
-    .desc = The iconic enviroslacks, with MNK's signature monochrome aesthetic. Classic!
-
-ent-ClothingUniformEnvirosuitEnviroslacksMNKAlt = MNK enviroslacks
-    .desc = The iconic enviroslacks, with MNK's signature monochrome aesthetic. Noir!
-    .suffix = Alternative
-
-ent-ClothingUniformEnvirosuitEnviroslacksPsychologist = psychologist enviroslacks
-    .desc = The pet project of a particularly posh Plasmaman, this variant was made for the psychologist. Mind-boggling!
-
-ent-ClothingUniformEnvirosuitColorWhite = white envirosuit
-    .desc = A generic white jumpsuit with no rank markings.
-
-ent-ClothingUniformEnvirosuitColorGrey = grey envirosuit
-    .desc = A tasteful grey envirosuit that reminds you of the good old days.
-
-ent-ClothingUniformEnvirosuitColorBlack = black envirosuit
-    .desc = A generic black envirosuit with no rank markings.
-
-ent-ClothingUniformEnvirosuitColorRed = red envirosuit
-    .desc = A dark green envirosuit.
-
-ent-ClothingUniformEnvirosuitColorGreen = green envirosuit
-    .desc = A generic green envirosuit with no rank markings.
-
-ent-ClothingUniformEnvirosuitColorDarkGreen = dark green envirosuit
-    .desc = A generic dark green envirosuit with no rank markings.
-
-ent-ClothingUniformEnvirosuitColorBlue = blue envirosuit
-    .desc = A generic blue envirosuit with no rank markings.
-
-ent-ClothingUniformEnvirosuitColorDarkBlue = dark blue envirosuit
-    .desc = A generic dark blue envirosuit with no rank markings.
-
-ent-ClothingUniformEnvirosuitColorTeal = teal envirosuit
-    .desc = A generic teal envirosuit with no rank markings.
-
-ent-ClothingUniformEnvirosuitColorMaroon = maroon envirosuit
-    .desc = A generic maroon envirosuit with no rank markings.
-
-ent-ClothingUniformEnvirosuitColorPink = pink envirosuit
-    .desc = "Plasmamen can't slay" and other jokes you can tell yourself.
-
-ent-ClothingUniformEnvirosuitColorYellow = yellow envirosuit
-    .desc = A generic yellow envirosuit with no rank markings.
-
-ent-ClothingUniformEnvirosuitColorPurple = purple envirosuit
-    .desc = A generic purple envirosuit with no rank markings.
-
-ent-ClothingUniformEnvirosuitColorOrange = orange envirosuit
-    .desc = Don't wear this near paranoid security officers.
-
-ent-ClothingUniformEnvirosuitColorLightBrown = light brown envirosuit
-    .desc = A generic light brown envirosuit with no rank markings.
-
-ent-ClothingUniformEnvirosuitColorBrown = brown envirosuit
-    .desc = A generic brown envirosuit with no rank markings.
+ent-ClothingUniformEnvirosuit = плазмалюдный экокостюм
+    .desc = Специальный защитный костюм, позволяющий плазмалюдам безопасно существовать в кислородной среде.
+ent-ClothingUniformEnvirosuitAtmos = экокостюм атмосферного техника
+    .desc = Герметичный костюм, предназначенный для плазмалюдов, работающих атмосферными техниками.
+ent-ClothingUniformEnvirosuitCargo = экокостюм грузчика
+    .desc = Экокостюм, используемый плазмалюдами-грузчиками.
+ent-ClothingUniformEnvirosuitCaptain = экокостюм капитана
+    .desc = Синий экокостюм с золотыми отметками, обозначающими ранг «Капитан».
+ent-ClothingUniformEnvirosuitChiefEngineer = экокостюм старшего инженера
+    .desc = Герметичный костюм для плазмалюдов, достаточно безумных, чтобы занять пост «Старший инженер».
+ent-ClothingUniformEnvirosuitChaplain = экокостюм священника
+    .desc = Экокостюм, специально разработанный для самых благочестивых плазмалюдов.
+ent-ClothingUniformEnvirosuitChef = экокостюм повара
+    .desc = Белый экокостюм плазмалюда для кулинарных целей. Можно задаться вопросом, почему представитель вида, которому не нужно есть, становится поваром.
+ent-ClothingUniformEnvirosuitChemist = экокостюм химика
+    .desc = Экокостюм плазмалюда для химиков.
+ent-ClothingUniformEnvirosuitClown = экокостюм клоуна
+    .desc = ХОНК!
+ent-ClothingUniformEnvirosuitCMO = экокостюм главного врача
+    .desc = Экокостюм для плазмалюдов с опытом, достаточным для занятия должности «Главный врач».
+ent-ClothingUniformEnvirosuitEngineering = экокостюм инженера
+    .desc = Герметичный костюм для плазмалюдов-инженеров, обычные фиолетовые полосы заменены оранжевыми инженерными.
+ent-ClothingUniformEnvirosuitDetective = экокостюм детектива
+    .desc = Проект для особенно изысканного плазмалюда, модифицированный NanoTrasen для детективов.
+ent-ClothingUniformEnvirosuitHoP = экокостюм главы персонала
+    .desc = Экокостюм для плазмалюда, занимающего пост «Глава персонала».
+ent-ClothingUniformEnvirosuitHoS = экокостюм ГСБ
+    .desc = Контейнерный костюм для плазмалюдов, занявших должность главы службы безопасности.
+ent-ClothingUniformEnvirosuitHydroponics = экокостюм ботаника
+    .desc = Зеленый и синий экокостюм, защищающий плазмалюдов от мелких травм, связанных с растениями.
+ent-ClothingUniformEnvirosuitJanitor = экокостюм уборщика
+    .desc = Серо-фиолетовый экокостюм для плазмалюдов-уборщиков.
+ent-ClothingUniformEnvirosuitAncientVoid = NTSRA экокостюм
+    .desc = Переделанный костюм NTSRA; этот неприспособленный для космоса костюм был первым экокостюмом NanoTrasen для плазмалюдов.
+ent-ClothingUniformEnvirosuitMedicalDoctor = экокостюм врача
+    .desc = Костюм для более «плазменных» врачей станции.
+ent-ClothingUniformEnvirosuitGenetics = экокостюм генетика
+    .desc = Экокостюм плазмалюда для генетиков.
+ent-ClothingUniformEnvirosuitMime = экокостюм мима
+    .desc = Не слишком яркий.
+ent-ClothingUniformEnvirosuitParamedic = экокостюм парамедика
+    .desc = Костюм для плазмалюдов-парамедиков станции.
+ent-ClothingUniformEnvirosuitPrisoner = экокостюм заключённого
+    .desc = Оранжевый экокостюм, идентифицирующий и защищающий заключённого плазмалюда.
+ent-ClothingUniformEnvirosuitResearchDirector = экокостюм научного руководителя
+    .desc = Экокостюм для плазмалюдов, способных занимать должность научного руководителя.
+ent-ClothingUniformEnvirosuitRoboticist = экокостюм робототехника
+    .desc = Экокостюм плазмалюда для робототехников.
+ent-ClothingUniformEnvirosuitSalvage = экокостюм утилизатора
+    .desc = Герметичный хаки-костюм для операций утилизации плазмалюдами.
+ent-ClothingUniformEnvirosuitScientist = экокостюм учёного
+    .desc = Экокостюм плазмалюда для учёных.
+ent-ClothingUniformEnvirosuitSec = экокостюм СБ
+    .desc = Контейнерный костюм для офицеров безопасности.
+ent-ClothingUniformEnvirosuitSecBlue = синий экокостюм СБ
+    .desc = Синий экокостюм с угольными штанами для спокойных и собранных офицеров-плазмалюдов.
+ent-ClothingUniformEnvirosuitSecGrey = серый экокостюм СБ
+    .desc = Светло-серый экокостюм с ярко-красными акцентами для преданных и оперативных офицеров безопасности.
+ent-ClothingUniformEnvirosuitVirology = экокостюм вирусолога
+    .desc = Костюм для самых безопасных людей станции, полностью невосприимчивых к созданным ими монстрам.
+ent-ClothingUniformEnvirosuitWarden = экокостюм смотрителя
+    .desc = Контейнерный костюм для смотрителя, с белыми полосами для отличия от других охранников.
+ent-ClothingUniformEnvirosuitOperative = экокостюм оперативника
+    .desc = Зловещий экокостюм для элитных оперативников.
+ent-ClothingUniformEnvirosuitTacticool = тактикульный экокостюм
+    .desc = Зловещий экокостюм для самых боевых оперативников.
+ent-ClothingUniformEnvirosuitCentcomAgent = экокостюм агента ЦК
+    .desc = Экокостюм для юридического отделения ЦК. Пахнет сгоревшим кофе.
+ent-ClothingUniformEnvirosuitCentcomOfficial = экокостюм представителя ЦК
+    .desc = Экокостюм для официальных лиц Центрального Командования.
+ent-ClothingUniformEnvirosuitCentcomOfficer = экокостюм офицера ЦК
+    .desc = Экокостюм для офицеров Центрального Командования.
+ent-ClothingUniformEnvirosuitBlueshield = экокостюм офицера "Синий Щит"
+    .desc = Экокостюм для плазмалюдов, работающих в корпусе "Синий Щит"
+ent-ClothingUniformEnvirosuitCourier = экокостюм курьерский
+    .desc = Экокостюм для курьера.
+ent-ClothingUniformEnvirosuitMailCarrier = экокостюм почтальона
+    .desc = Экокостюм для почтальона. Цветовая схема сводит с ума питбулей.
+ent-ClothingUniformEnvirosuitMusician = экокостюм музыканта
+    .desc = Экокостюм для игры на музыкальных инструментах.
+ent-ClothingUniformEnvirosuitReporter = экокостюм репортёра
+    .desc = Экокостюм для плазмалюдов-журналистов.
+ent-ClothingUniformEnvirosuitGladiator = гладиаторский экокостюм
+    .desc = Создан для кровожадных плазмалюдов.
+ent-ClothingUniformEnvirosuitMantis = экокостюм мантиса
+    .desc = Охота на психиков в безопасности этого экокостюма.
+ent-ClothingUniformEnvirosuitSafari = сафари экокостюм
+    .desc = Идеален для джунглей.
+ent-ClothingUniformEnvirosuitMartialGi = боевой экокостюм
+    .desc = Легкий экокостюм для боевых искусств, не ограничивающий движения.
+ent-ClothingUniformEnvirosuitQM = экокостюм квартирмейстера
+    .desc = Герметичный костюм для плазмалюдов, способных занять должность «Logistics Officer».
+ent-ClothingUniformEnvirosuitBoxing = экокостюм боксёра
+    .desc = Используется плазмалюдами-боксерами.
+ent-ClothingUniformEnvirosuitAdminAssistant = экокостюм административного ассистента
+    .desc = Экокостюм для административного ассистента. Пахнет сгоревшим кофе.
+ent-ClothingUniformEnvirosuitBlackPink = черно-розовый экокостюм
+    .desc = Обнаружен черно-розовый экокостюм!
+ent-ClothingUniformEnvirosuitBlackPinkAlt = черно-розовый экокостюм
+    .desc = Обнаружен черно-розовый экокостюм!
+    .suffix = Альтернативный
+ent-ClothingUniformEnvirosuitTrans = трансильванский экокостюм
+    .desc = Фирменный экокостюм плазмалюдов из Трансильвании.
+ent-ClothingUniformEnvirosuitPrisonGuard = экокостюм охранника тюрьмы
+    .desc = Удобный и прочный экокостюм, обеспечивающий комфорт и безопасность плазмалюдов, работающих в тюрьме.
+ent-ClothingUniformEnvirosuitBrigmedic = экокостюм бригмедика
+    .desc = Экокостюм, предназначенный для плазмалюдов-медиков.
+ent-ClothingUniformEnvirosuitNanotrasenRepresentative = экокостюм представителя NanoTrasen
+    .desc = Черный экокостюм, который носят официальные представители.
+ent-ClothingUniformEnvirosuitMagistrate = экокостюм магистрата
+    .desc = Экокостюм, раздающий правосудие.
+ent-ClothingUniformEnvirosuitEnviroslacks = стильный экокостюм
+    .desc = Личный проект особенно щеголеватого плазмалюда. Профессионально!
+ent-ClothingUniformEnvirosuitEnviroslacksNegative = негативный стильный экокостюм
+    .desc = Личный проект особенно щеголеватого плазмалюда, эта версия с инвертированными цветами. Элегантно!
+ent-ClothingUniformEnvirosuitEnviroslacksColorRed = красный стильный экокостюм
+    .desc = Личный проект особенно щеголеватого плазмалюда, эта версия с красными акцентами. Шикарно!
+ent-ClothingUniformEnvirosuitEnviroslacksColorOrange = оранжевый стильный экокостюм
+    .desc = Личный проект особенно щеголеватого плазмалюда, эта версия с оранжевыми акцентами. Ярко!
+ent-ClothingUniformEnvirosuitEnviroslacksColorGreen = зеленый стильный экокостюм
+    .desc = Личный проект особенно щеголеватого плазмалюда, эта версия с зелеными акцентами. Листьями пахнет!
+ent-ClothingUniformEnvirosuitEnviroslacksColorBlue = синий стильный экокостюм
+    .desc = Личный проект особенно щеголеватого плазмалюда, эта версия с синими акцентами. Круто!
+ent-ClothingUniformEnvirosuitEnviroslacksColorBrown = коричневый стильный экокостюм
+    .desc = Личный проект особенно щеголеватого плазмалюда, эта версия с коричневыми штанами. Напоминает пыльные офисы.
+ent-ClothingUniformEnvirosuitEnviroslacksMNK = стильный экокостюм MNK
+    .desc = Знаковые экокостюмы с монохромным стилем MNK. Классика!
+ent-ClothingUniformEnvirosuitEnviroslacksMNKAlt = стильный экокостюм MNK
+    .desc = Знаковые экокостюмы с монохромным стилем MNK. Нуар!
+    .suffix = Альтернативный
+ent-ClothingUniformEnvirosuitEnviroslacksPsychologist = стильный экокостюм психолога
+    .desc = Личный проект особенно щеголеватого плазмалюда, эта версия предназначена для психолога. Умопомрачительно!
+ent-ClothingUniformEnvirosuitColorWhite = белый экокостюм
+    .desc = Универсальный белый комбинезон без ранговых знаков.
+ent-ClothingUniformEnvirosuitColorGrey = серый экокостюм
+    .desc = Стильный серый экокостюм, напоминающий о старых добрых временах.
+ent-ClothingUniformEnvirosuitColorBlack = черный экокостюм
+    .desc = Универсальный черный экокостюм без ранговых знаков.
+ent-ClothingUniformEnvirosuitColorRed = красный экокостюм
+    .desc = Темно-зеленый экокостюм.
+ent-ClothingUniformEnvirosuitColorGreen = зеленый экокостюм
+    .desc = Универсальный зеленый экокостюм без ранговых знаков.
+ent-ClothingUniformEnvirosuitColorDarkGreen = темно-зеленый экокостюм
+    .desc = Универсальный темно-зеленый экокостюм без ранговых знаков.
+ent-ClothingUniformEnvirosuitColorBlue = синий экокостюм
+    .desc = Универсальный синий экокостюм без ранговых знаков.
+ent-ClothingUniformEnvirosuitColorDarkBlue = темно-синий экокостюм
+    .desc = Универсальный темно-синий экокостюм без ранговых знаков.
+ent-ClothingUniformEnvirosuitColorTeal = бирюзовый экокостюм
+    .desc = Универсальный бирюзовый экокостюм без ранговых знаков.
+ent-ClothingUniformEnvirosuitColorMaroon = бордовый экокостюм
+    .desc = Универсальный бордовый экокостюм без ранговых знаков.
+ent-ClothingUniformEnvirosuitColorPink = розовый экокостюм
+    .desc = "Plasmamen can't slay" и другие шутки, которые можно рассказывать самому себе.
+ent-ClothingUniformEnvirosuitColorYellow = желтый экокостюм
+    .desc = Универсальный желтый экокостюм без ранговых знаков.
+ent-ClothingUniformEnvirosuitColorPurple = фиолетовый экокостюм
+    .desc = Универсальный фиолетовый экокостюм без ранговых знаков.
+ent-ClothingUniformEnvirosuitColorOrange = оранжевый экокостюм
+    .desc = Не носите рядом с параноидальными офицерами безопасности.
+ent-ClothingUniformEnvirosuitColorLightBrown = светло-коричневый экокостюм
+    .desc = Универсальный светло-коричневый экокостюм без ранговых знаков.
+ent-ClothingUniformEnvirosuitColorBrown = коричнеый экокостюм
+    .desc = Универсальный коричневый экокостюм без ранговых знаков.

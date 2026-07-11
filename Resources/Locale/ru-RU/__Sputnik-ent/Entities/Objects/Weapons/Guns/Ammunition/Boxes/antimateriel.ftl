@@ -1,8 +1,6 @@
-ent-BaseMagazineBoxAntiMateriel = ammunition box (.60 anti-materiel)
+ent-BaseMagazineBoxAntiMateriel = коробка патронов (.60 крупнокалиберные)
     .desc = { ent-BaseItem.desc }
-
-ent-MagazineBoxAntiMaterielBig = ammunition box (.60 anti-materiel)
+ent-MagazineBoxAntiMaterielBig = ящик патрон (.60 крупнокалиберные)
     .desc = { ent-BaseMagazineBoxAntiMateriel.desc }
-
-ent-MagazineBoxAntiMateriel = ammunition box (.60 anti-materiel)
-    .desc = A cardboard box of .60 anti-materiel rounds.
+ent-MagazineBoxAntiMateriel = коробка патронов (.60 крупнокалиберные)
+    .desc = { ent-BaseMagazineBoxAntiMateriel.desc }

@@ -1,2 +1,2 @@
-ent-PlantBox = plant box
-    .desc = A large storage container for holding plants and seeds.
+ent-PlantBox = ящик для растений
+    .desc = Большой контейнер для хранения растений и семян.

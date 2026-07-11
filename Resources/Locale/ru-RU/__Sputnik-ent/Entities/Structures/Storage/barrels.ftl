@@ -1,53 +1,40 @@
-ent-BaseBarrelChem = chemical barrel
-    .desc = A small metal drum. How tropical.
-
-ent-BaseBarrelChemRadioactive = radioactive barrel
-    .desc = It seems to be leaking a bit. I don't think you'd want to be around this for long.
-
+ent-BaseBarrelChem = химическая бочка
+    .desc = Маленькая металлическая бочка. Как по-тропически.
+ent-BaseBarrelChemRadioactive = радиоактивная бочка
+    .desc = Похоже, она протекает. Не думаю, что вы захотите долго находиться возле неё.
 ent-BarrelChemEmpty = { ent-BaseBarrelChem }
+    .suffix = Пустой
     .desc = { ent-BaseBarrelChem.desc }
-    .suffix = Empty
-
 ent-BarrelChemFilledIodine = { ent-BaseBarrelChem }
+    .suffix = Йод
     .desc = { ent-BaseBarrelChem.desc }
-    .suffix = Iodine
-
 ent-BarrelChemFilledFluorine = { ent-BaseBarrelChem }
+    .suffix = Фтор
     .desc = { ent-BaseBarrelChem.desc }
-    .suffix = Fluorine
-
 ent-BarrelChemFilledChlorine = { ent-BaseBarrelChem }
+    .suffix = Хлор
     .desc = { ent-BaseBarrelChem.desc }
-    .suffix = Chlorine
-
 ent-BarrelChemFilledEthanol = { ent-BaseBarrelChem }
+    .suffix = Этанол
     .desc = { ent-BaseBarrelChem.desc }
-    .suffix = Ethanol
-
 ent-BarrelChemFilledPhosphorus = { ent-BaseBarrelChem }
+    .suffix = Фосфор
     .desc = { ent-BaseBarrelChem.desc }
-    .suffix = Phosphorus
-
 ent-BarrelChemFilledMercury = { ent-BaseBarrelChem }
+    .suffix = Ртуть
     .desc = { ent-BaseBarrelChem.desc }
-    .suffix = Mercury
-
 ent-BarrelChemFilledSilicon = { ent-BaseBarrelChem }
+    .suffix = Кремний
     .desc = { ent-BaseBarrelChem.desc }
-    .suffix = Silicon
-
 ent-BarrelChemFilledLube = { ent-BaseBarrelChem }
-    .desc = Slippery...
-    .suffix = Lube
-
+    .desc = Скользко...
+    .suffix = Смазка
 ent-BaseBarrelChemRadioactiveEmpty = { ent-BaseBarrelChemRadioactive }
+    .suffix = Пустой
     .desc = { ent-BaseBarrelChemRadioactive.desc }
-    .suffix = Empty
-
 ent-BaseBarrelChemRadioactiveFilledRadium = { ent-BaseBarrelChemRadioactive }
+    .suffix = Радий
     .desc = { ent-BaseBarrelChemRadioactive.desc }
-    .suffix = Radium
-
 ent-BaseBarrelChemRadioactiveFilledUranium = { ent-BaseBarrelChemRadioactive }
+    .suffix = Уран
     .desc = { ent-BaseBarrelChemRadioactive.desc }
-    .suffix = Uranium

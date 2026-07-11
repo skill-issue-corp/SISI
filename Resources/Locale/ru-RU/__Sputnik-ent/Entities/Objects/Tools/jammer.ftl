@@ -1,8 +1,9 @@
-ent-BaseJammer = radio jammer
-    .desc = This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated.
+# Corvax-HiddenDesc-Start
+ent-RadioJammer = { ent-AppraisalTool }
+    .desc = { ent-AppraisalTool.desc } Устройство имеет огромную антенну и сменный аккумулятор.
+    .suffix = глушитель связи
+ent-XenoborgRadioJammer = глушитель связи ксеноборга
+    .desc = При активации это устройство блокирует любую исходящую поблизости радиосвязь и скрывает датчики комбинезонов с мониторов.
 
-ent-RadioJammer = radio jammer
-    .desc = This device will disrupt any nearby outgoing and incoming radio communication as well as suit sensors when activated.
+# Corvax-HiddenDesc-End
 
-ent-XenoborgRadioJammer = xenoborg radio jammer
-    .desc = { ent-BaseJammer.desc }

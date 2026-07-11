@@ -1,18 +1,19 @@
-ent-PinpointerAnomaly = anomaly pinpointer
-    .desc = A handheld tracking device that locks onto any anomaly while off. Keep upright to retain accuracy.
-
-ent-PinpointerArtifact = artifact pinpointer
-    .desc = A handheld tracking device that tracks all near artifacts. Keep upright to retain accuracy.
-
-ent-PinpointerBorg = borg pinpointer
-    .desc = A handheld tracking device that locks onto any silicon while off. Keep upright to retain accuracy.
-
-ent-PinpointerGeneric = generic pinpointer
-    .desc = A handheld tracking device that locks onto any item while off. Keep upright to retain accuracy.
-    .suffix = Admin
-
-ent-PinpointerStationGoob = station pinpointer
-    .desc = A handheld tracking device that tracks all near stations. Keep upright to retain accuracy.
-
-ent-PinpointerSyndicateNuclearFission = syndicate nuke pinpointer
-    .desc = Produced specifically for nuclear operative missions, get that nuclear bomb!
+ent-PinpointerAnomaly = пинпоинтер аномалии
+    .desc = Ручное устройство слежения, которое фиксирует любую аномалию в выключенном состоянии. Держите вертикально для сохранения точности.
+ent-PinpointerArtifact = пинпоинтер артефакта
+    .desc = Ручное устройство слежения, которое отслеживает все близлежащие артефакты. Держите вертикально для сохранения точности.
+ent-PinpointerBorg = пинпоинтер борга
+    .desc = Ручное устройство слежения, которое фиксирует любого борга в выключенном состоянии. Держите вертикально для сохранения точности.
+ent-PinpointerGeneric = универсальный пинпоинтер
+    .desc = Ручное устройство слежения, которое фиксирует любой предмет в выключенном состоянии. Держите вертикально для сохранения точности.
+    .suffix = Админ
+ent-PinpointerStationGoob = пинпоинтер станции
+    .desc = Ручное устройство слежения, которое отслеживает все близлежащие станции. Держите вертикально для сохранения точности.
+ent-PinpointerThief = пинпоинтер вора
+    .desc = Ручное устройство слежения, которое может нацеливаться на любые ценные объекты, включая высокорисковые предметы и украденные структуры в выключенном состоянии. Держите вертикально для сохранения точности.
+ent-PinpointerSyndicateNuclearFission = пинпоинтер ядерных оперативников
+    .desc = Создано специально для миссий ядерных оперативников, чтобы найти ядерную бомбу!
+ent-PinpointerContractor = пинпоинтер Наёмника
+    .desc = Ручное устройство слежения, которое отслеживает вашу цель и шаттл. Держите вертикально для сохранения точности.
+ent-PinpointerDarkLord = пинпоинтер Тёмного Лорда
+    .desc = { ent-PinpointerBase.desc }

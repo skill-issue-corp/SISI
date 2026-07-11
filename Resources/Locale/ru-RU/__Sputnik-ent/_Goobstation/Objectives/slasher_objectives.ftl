@@ -1,5 +1,4 @@
 ent-SlasherAbsorbSoulsObjective = { "" }
     .desc = { "" }
-
-ent-SlasherSurviveObjective = Survive until the end
-    .desc = While death may be a foreign concept to you, getting banished is not.
+ent-SlasherSurviveObjective = Дожить до конца.
+    .desc = Вы бы не стали Мясником, если бы умерли.

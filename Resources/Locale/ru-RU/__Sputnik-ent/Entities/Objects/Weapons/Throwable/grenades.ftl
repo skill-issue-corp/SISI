@@ -1,40 +1,48 @@
-ent-ExGrenade = explosive grenade
-    .desc = Grenade that creates a small but devastating explosion.
-
-ent-GrenadeFlashBang = flashbang
-    .desc = Eeeeeeeeeeeeeeeeeeeeee.
-
+ent-GrenadeBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-ExGrenade = разрывная граната
+    .desc = Граната, создающая небольшой, но разрушительный взрыв.
+ent-GrenadeFlashBang = светошумовая граната
+    .desc = Пиииииииииииииииииииии.
 ent-GrenadeFlashEffect = { "" }
     .desc = { "" }
+# Corvax-HiddenDesc-Start
+ent-SyndieMiniBomb = минибомба
+    .desc = Аккуратное, стильное взрывное устройство с приятно-потрескивающим таймером, предназначенное сеять хаос и разрушение.
+    .suffix = минибомба синдиката
+# Corvax-HiddenDesc-End
+ent-SelfDestructSeq = Самоуничтожение
+    .desc = Уйти на своих условиях!
+ent-SupermatterGrenade = граната суперматерии
+    .desc = Граната, имитирующая взрыв суперматерии, сбивающая предметы в кучу и взрывающаяся через некоторое время.
+ent-WhiteholeGrenade = граната белой дыры
+    .desc = Граната, которая некоторое время отталкивает всё вокруг.
+ent-NuclearGrenade = критическая масса
+    .desc = Пожалуйста не бросай её, подумай о детях.
+ent-ModularGrenade = модульная граната
+    .desc = Корпус гранаты. Требуется триггер и заряд.
+ent-EmpGrenade = ЭМИ граната
+    .desc = Граната, предназначенная для поражения электрических систем.
+# Corvax-HiddenDesc-Start
+ent-HolyHandGrenade = благословлённая держава
+    .suffix = святая граната
+    .desc = «Благослови, Господи, сию ручную державу, да помоги мне исполнить мечты мои!».
+# Corvax-HiddenDesc-End
+ent-SmokeGrenade = дымовая граната
+    .desc = Граната тактического применения, при использовании выпускающая большое и продолжительное облако дыма.
+ent-CleanerGrenade = чистящая граната
+    .desc = Специальная граната для уборщиков, выпускающая большое облако пены для чистки помещений.
+ent-TearGasGrenade = слезоточивая граната
+    .desc = Граната со слезоточивым газом для борьбы с беспорядками. Вызывает раздражение, боль и заставляет вас выплакать глаза.
+ent-MetalFoamGrenade = металлопенная граната
+    .desc = Аварийное приспособление, используемое для заделывания пробоин. Почти так же надёжно, как настоящие стены.
+ent-AirGrenade = воздушная граната
+    .desc = Специальная твердотельная химическая граната, используемая для быстрого выпуска стандартного воздуха в пространство. Заполняет до 30 клеток!
+ent-GrenadeDummy = граната-обманка
+    .desc = Граната есть - взрыва нет.
+# Corvax-HiddenDesc-Start
+ent-SyndieTrickyBomb = хитробомба
+    .desc = Взрывчатка, изготовленная синдикатом, служит отличным отвлекающим манёвром.
 
-ent-SyndieMiniBomb = syndicate minibomb
-    .desc = A syndicate-manufactured explosive used to stow destruction and cause chaos.
+# Corvax-HiddenDesc-End
 
-ent-SelfDestructSeq = self destruct
-    .desc = Go out on your own terms!
-
-ent-SupermatterGrenade = supermatter grenade
-    .desc = Grenade that simulates delamination of the supermatter engine, pulling things in a heap and exploding after some time.
-
-ent-WhiteholeGrenade = whitehole grenade
-    .desc = Grenade that repulses everything around for some time.
-
-ent-NuclearGrenade = the nuclear option
-    .desc = Please don't throw it, think of the children.
-
-ent-ModularGrenade = modular grenade
-    .desc = A grenade casing. Requires a trigger and a payload.
-
-# SIS-Start
-# ent-EmpGrenade = EMP grenade
-#     .desc = A grenade designed to wreak havoc on electronic systems.
-# SIS-End
-
-ent-HolyHandGrenade = holy hand grenade
-    .desc = O Lord, bless this thy hand grenade, that with it thou mayst blow thine enemies to tiny bits, in thy mercy.
-
-ent-GrenadeDummy = trick grenade
-    .desc = All the grenade without any of the boom.
-
-ent-SyndieTrickyBomb = syndicate trickybomb
-    .desc = A syndicate-manufactured explosive used to make an excellent distraction.

@@ -1,3 +1,3 @@
-ent-ClothingBackpackSyndicateFilledGrenadier = { ent-ClothingBackpackSyndicate }
+ent-ClothingBackpackSyndicateFilledGrenadier = рюкзак Синдиката (гренадёр)
+    .suffix = Набор гренадёра, снаряжён
     .desc = { ent-ClothingBackpackSyndicate.desc }
-    .suffix = Grenadier bundle, filled

@@ -1,2 +1,2 @@
-ent-FlockZoneWindow = Fibrewoven window
-    .desc = It's clearly glass, but it looks as if it was finely woven.
+ent-FlockZoneWindow = волокнистое окно
+    .desc = Это явно стекло, но оно выглядит так, будто его тщательно сплели.

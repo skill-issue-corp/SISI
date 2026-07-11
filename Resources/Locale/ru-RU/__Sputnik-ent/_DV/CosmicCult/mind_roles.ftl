@@ -1,5 +1,4 @@
-ent-MindRoleCosmicCult = Cosmic Cult Role
+ent-MindRoleCosmicCult = Роль Космического культиста
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleCosmicColossus = Colossus Role
+ent-MindRoleCosmicAscended = Роль Астрального вознесённого
     .desc = { ent-BaseMindRoleAntag.desc }

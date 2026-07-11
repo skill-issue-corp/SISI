@@ -1,423 +1,317 @@
-ent-AsteroidRock = asteroid rock
-    .desc = A rocky asteroid.
-
-ent-BaseRockGibtonite = { "" }
+ent-AsteroidRock = астероидный камень
+    .desc = Каменистый астероид.
+    .suffix = Низкое содержание руды
+ent-BaseRockGibtonite = { ent-AsteroidRock }
+    .suffix = Гибтонит
     .desc = { "" }
-    .suffix = Gibtonite
-
 ent-AsteroidRockCoal = { ent-AsteroidRock }
-    .desc = { ent-AsteroidRock.desc }
-    .suffix = Coal
-
-ent-AsteroidRockCoalCrab = { ent-AsteroidRockCoal }
-    .desc = { ent-AsteroidRockCoal.desc }
-    .suffix = Coal Crab
-
+    .desc = Рудная жила, богатая углём.
+    .suffix = Уголь
+ent-AsteroidRockCoalCrab = { ent-AsteroidRock }
+    .desc = { ent-AsteroidRockCoalCrab.desc }
+    .suffix = Уголь, Рудокраб
 ent-AsteroidRockGold = { ent-AsteroidRock }
-    .desc = { ent-AsteroidRock.desc }
-    .suffix = Gold
-
-ent-AsteroidRockGoldCrab = { ent-AsteroidRockGold }
+    .desc = Рудная жила, богатая золотом.
+    .suffix = Золото
+ent-AsteroidRockGoldCrab = { ent-AsteroidRock }
     .desc = { ent-AsteroidRockGold.desc }
-    .suffix = Gold Crab
-
+    .suffix = Золото, Рудокраб
 ent-AsteroidRockDiamond = { ent-AsteroidRock }
-    .desc = { ent-AsteroidRock.desc }
-    .suffix = Diamond
-
+    .desc = Рудная жила, богатая алмазами.
+    .suffix = Алмазы
 ent-AsteroidRockPlasma = { ent-AsteroidRock }
-    .desc = { ent-AsteroidRock.desc }
-    .suffix = Plasma
-
+    .desc = Рудная жила, богатая плазмой.
+    .suffix = Плазма
 ent-AsteroidRockQuartz = { ent-AsteroidRock }
-    .desc = { ent-AsteroidRock.desc }
-    .suffix = Quartz
-
-ent-AsteroidRockQuartzCrab = { ent-AsteroidRockQuartz }
+    .desc = Рудная жила, богатая кварцем.
+    .suffix = Кварц
+ent-AsteroidRockQuartzCrab = { ent-AsteroidRock }
     .desc = { ent-AsteroidRockQuartz.desc }
-    .suffix = Quartz Crab
-
+    .suffix = Кварц, Рудокраб
 ent-AsteroidRockSilver = { ent-AsteroidRock }
-    .desc = { ent-AsteroidRock.desc }
-    .suffix = Silver
-
+    .desc = Рудная жила, богатая серебром.
+    .suffix = Серебро
 ent-AsteroidRockSilverCrab = { ent-AsteroidRockSilver }
+    .suffix = Серебро, Рудокраб
     .desc = { ent-AsteroidRockSilver.desc }
-    .suffix = Silver Crab
-
 ent-AsteroidRockTin = { ent-AsteroidRock }
-    .desc = { ent-AsteroidRock.desc }
-    .suffix = Iron
-
+    .desc = Рудная жила, богатая железом.
+    .suffix = Железо
 ent-AsteroidRockTinCrab = { ent-AsteroidRockTin }
+    .suffix = Железо, Рудокраб
     .desc = { ent-AsteroidRockTin.desc }
-    .suffix = Iron Crab
-
 ent-AsteroidRockUranium = { ent-AsteroidRock }
-    .desc = { ent-AsteroidRock.desc }
-    .suffix = Uranium
-
+    .desc = Рудная жила, богатая ураном.
+    .suffix = Уран
 ent-AsteroidRockUraniumCrab = { ent-AsteroidRockUranium }
+    .suffix = Уран, Рудокраб
     .desc = { ent-AsteroidRockUranium.desc }
-    .suffix = Uranium Crab
-
 ent-AsteroidRockBananium = { ent-AsteroidRock }
-    .desc = { ent-AsteroidRock.desc }
-    .suffix = Bananium
-
+    .desc = Рудная жила, богатая бананиумом.
+    .suffix = Бананиум
 ent-AsteroidRockBananiumCrab = { ent-AsteroidRockBananium }
+    .suffix = Бананиум, Рудокраб
     .desc = { ent-AsteroidRockBananium.desc }
-    .suffix = Bananium Crab
-
 ent-AsteroidRockSalt = { ent-AsteroidRock }
-    .desc = { ent-AsteroidRock.desc }
-    .suffix = Salt
-
+    .desc = Рудная жила, богатая солью.
+    .suffix = Соль
 ent-AsteroidRockArtifactFragment = { ent-AsteroidRock }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
-
+    .desc = Каменная стена. Что это торчит из неё?
+    .suffix = Фрагмент артефакта
 ent-AsteroidRockGibtonite = { ent-BaseRockGibtonite }
     .desc = { ent-BaseRockGibtonite.desc }
-
-ent-AsteroidRockMining = asteroid rock
-    .desc = An asteroid.
-    .suffix = higher ore yield .33
-
-ent-IronRock = ironrock
-    .desc = A rocky asteroid.
-    .suffix = Low Ore Yield
-
-ent-IronRockMining = ironrock
-    .desc = An asteroid.
-    .suffix = higher ore yield
-
+ent-AsteroidRockMining = астероидный камень
+    .desc = Астероид.
+    .suffix = Высокое содержание руды 0.33
+ent-IronRock = железный камень
+    .desc = Каменистый астероид.
+    .suffix = Низкое содержание руды
+ent-IronRockMining = железный камень
+    .desc = Астероид.
+    .suffix = Высокое содержание руды
 ent-IronRockCoal = { ent-IronRock }
-    .desc = { ent-IronRock.desc }
-    .suffix = Coal
-
+    .desc = Рудная жила, богатая углём.
+    .suffix = Уголь
 ent-IronRockGold = { ent-IronRock }
-    .desc = { ent-IronRock.desc }
-    .suffix = Gold
-
+    .desc = Рудная жила, богатая золотом.
+    .suffix = Золото
 ent-IronRockPlasma = { ent-IronRock }
-    .desc = { ent-IronRock.desc }
-    .suffix = Plasma
-
+    .desc = Рудная жила, богатая плазмой.
+    .suffix = Кварц
 ent-IronRockQuartz = { ent-IronRock }
-    .desc = { ent-IronRock.desc }
-    .suffix = Quartz
-
+    .desc = Рудная жила, богатая кварцем.
+    .suffix = Кварц
 ent-IronRockSilver = { ent-IronRock }
-    .desc = { ent-IronRock.desc }
-    .suffix = Silver
-
+    .desc = Рудная жила, богатая серебром.
+    .suffix = Серебро
 ent-IronRockIron = { ent-IronRock }
-    .desc = { ent-IronRock.desc }
-    .suffix = Iron
-
+    .desc = Рудная жила, богатая железом.
+    .suffix = Железо
 ent-IronRockUranium = { ent-IronRock }
-    .desc = { ent-IronRock.desc }
-    .suffix = Uranium
-
+    .desc = Рудная жила, богатая ураном.
+    .suffix = Уран
 ent-IronRockBananium = { ent-IronRock }
-    .desc = { ent-IronRock.desc }
-    .suffix = Bananium
-
+    .desc = Рудная жила, богатая бананиумом.
+    .suffix = Бананиум
 ent-IronRockSalt = { ent-IronRock }
-    .desc = { ent-IronRock.desc }
-    .suffix = Salt
-
+    .desc = Рудная жила, богатая солью.
+    .suffix = Соль
 ent-IronRockArtifactFragment = { ent-IronRock }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
-
-ent-IronRockGibtonite = { ent-BaseRockGibtonite }
-    .desc = { ent-BaseRockGibtonite.desc }
-
-ent-IronRockDiamond = { ent-IronRock }
+    .desc = Каменная стена. Что это торчит из неё?
+    .suffix = Фрагмент артефакта
+ent-IronRockGibtonite = { ent-IronRock }
     .desc = { ent-IronRock.desc }
-    .suffix = Diamond
-
-ent-WallRock = rock
-    .desc = { ent-BaseWall.desc }
-    .suffix = planetmap
-
+ent-IronRockDiamond = { ent-IronRock }
+    .desc = Рудная жила, богатая алмазами.
+    .suffix = Алмазы
+ent-WallRock = камень
+    .desc = { ent-BaseStructure.desc }
+    .suffix = планета
 ent-WallRockCoal = { ent-WallRock }
-    .desc = { ent-WallRock.desc }
-    .suffix = Coal
-
+    .desc = Рудная жила, богатая углём.
+    .suffix = Уголь
 ent-WallRockGold = { ent-WallRock }
-    .desc = { ent-WallRock.desc }
-    .suffix = Gold
-
+    .desc = Рудная жила, богатая золотом.
+    .suffix = Золото
 ent-WallRockDiamond = { ent-WallRock }
-    .desc = { ent-WallRock.desc }
-    .suffix = Diamond
-
+    .desc = Рудная жила, богатая алмазами.
+    .suffix = Алмазы
 ent-WallRockPlasma = { ent-WallRock }
-    .desc = { ent-WallRock.desc }
-    .suffix = Plasma
-
+    .desc = Рудная жила, богатая плазмой.
+    .suffix = Плазма
 ent-WallRockQuartz = { ent-WallRock }
-    .desc = { ent-WallRock.desc }
-    .suffix = Quartz
-
+    .desc = Рудная жила, богатая кварцем.
+    .suffix = Кварц
 ent-WallRockSilver = { ent-WallRock }
-    .desc = { ent-WallRock.desc }
-    .suffix = Silver
-
+    .desc = Рудная жила, богатая серебром.
+    .suffix = Серебро
 ent-WallRockTin = { ent-WallRock }
-    .desc = { ent-WallRock.desc }
-    .suffix = Iron
-
+    .desc = Рудная жила, богатая железом.
+    .suffix = Железо
 ent-WallRockUranium = { ent-WallRock }
-    .desc = { ent-WallRock.desc }
-    .suffix = Uranium
-
+    .desc = Рудная жила, богатая ураном.
+    .suffix = Уран
 ent-WallRockBananium = { ent-WallRock }
-    .desc = { ent-WallRock.desc }
-    .suffix = Bananium
-
+    .desc = Рудная жила, богатая бананиумом.
+    .suffix = Бананиум
 ent-WallRockArtifactFragment = { ent-WallRock }
-    .desc = { ent-WallRock.desc }
-    .suffix = Artifact Fragment
-
+    .desc = Каменная стена. Что это торчит из неё?
+    .suffix = Фрагмент артефакта
 ent-WallRockSalt = { ent-WallRock }
+    .desc = Рудная жила, богатая солью.
+    .suffix = Соль
+ent-WallRockBasalt = базальт
     .desc = { ent-WallRock.desc }
-    .suffix = Salt
-
-ent-WallRockBasalt = basalt
-    .desc = { ent-WallRock.desc }
-
 ent-WallRockBasaltCoal = { ent-WallRockBasalt }
-    .desc = { ent-WallRockBasalt.desc }
-    .suffix = Coal
-
+    .desc = Рудная жила, богатая углём.
+    .suffix = Уголь
 ent-WallRockBasaltGold = { ent-WallRockBasalt }
-    .desc = { ent-WallRockBasalt.desc }
-    .suffix = Gold
-
+    .desc = Рудная жила, богатая золотом.
+    .suffix = Золото
 ent-WallRockBasaltDiamond = { ent-WallRockBasalt }
-    .desc = { ent-WallRockBasalt.desc }
-    .suffix = Diamond
-
+    .desc = Рудная жила, богатая алмазами.
+    .suffix = Алмазы
 ent-WallRockBasaltPlasma = { ent-WallRockBasalt }
-    .desc = { ent-WallRockBasalt.desc }
-    .suffix = Plasma
-
+    .desc = Рудная жила, богатая плазмой.
+    .suffix = Плазма
 ent-WallRockBasaltQuartz = { ent-WallRockBasalt }
-    .desc = { ent-WallRockBasalt.desc }
-    .suffix = Quartz
-
+    .desc = Рудная жила, богатая кварцем.
+    .suffix = Кварц
 ent-WallRockBasaltSilver = { ent-WallRockBasalt }
-    .desc = { ent-WallRockBasalt.desc }
-    .suffix = Silver
-
+    .desc = Рудная жила, богатая серебром.
+    .suffix = Серебро
 ent-WallRockBasaltTin = { ent-WallRockBasalt }
-    .desc = { ent-WallRockBasalt.desc }
-    .suffix = Iron
-
+    .desc = Рудная жила, богатая железом.
+    .suffix = Железо
 ent-WallRockBasaltUranium = { ent-WallRockBasalt }
-    .desc = { ent-WallRockBasalt.desc }
-    .suffix = Uranium
-
+    .desc = Рудная жила, богатая ураном.
+    .suffix = Уран
 ent-WallRockBasaltBananium = { ent-WallRockBasalt }
-    .desc = { ent-WallRockBasalt.desc }
-    .suffix = Bananium
-
+    .desc = Рудная жила, богатая бананиумом.
+    .suffix = Бананиум
 ent-WallRockBasaltArtifactFragment = { ent-WallRockBasalt }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
-
+    .desc = Каменная стена. Что это торчит из неё?
+    .suffix = Фрагмент артефакта
 ent-WallRockBasaltSalt = { ent-WallRockBasalt }
-    .desc = { ent-WallRockBasalt.desc }
-    .suffix = Salt
-
-ent-WallRockSnow = snowdrift
+    .desc = Рудная жила, богатая солью.
+    .suffix = Соль
+ent-WallRockSnow = сугроб
     .desc = { ent-WallRock.desc }
-
 ent-WallRockSnowCoal = { ent-WallRockSnow }
-    .desc = { ent-WallRockSnow.desc }
-    .suffix = Coal
-
+    .desc = Рудная жила, богатая углём.
+    .suffix = Уголь
 ent-WallRockSnowGold = { ent-WallRockSnow }
-    .desc = { ent-WallRockSnow.desc }
-    .suffix = Gold
-
+    .desc = Рудная жила, богатая золотом.
+    .suffix = Золото
 ent-WallRockSnowDiamond = { ent-WallRockSnow }
-    .desc = { ent-WallRockSnow.desc }
-    .suffix = Diamond
-
+    .desc = Рудная жила, богатая алмазами.
+    .suffix = Алмазы
 ent-WallRockSnowPlasma = { ent-WallRockSnow }
-    .desc = { ent-WallRockSnow.desc }
-    .suffix = Plasma
-
+    .desc = Рудная жила, богатая плазмой.
+    .suffix = Плазма
 ent-WallRockSnowQuartz = { ent-WallRockSnow }
-    .desc = { ent-WallRockSnow.desc }
-    .suffix = Quartz
-
+    .desc = Рудная жила, богатая кварцем.
+    .suffix = Кварц
 ent-WallRockSnowSilver = { ent-WallRockSnow }
-    .desc = { ent-WallRockSnow.desc }
-    .suffix = Silver
-
+    .desc = Рудная жила, богатая серебром.
+    .suffix = Серебро
 ent-WallRockSnowTin = { ent-WallRockSnow }
-    .desc = { ent-WallRockSnow.desc }
-    .suffix = Iron
-
+    .desc = Рудная жила, богатая железом.
+    .suffix = Железо
 ent-WallRockSnowUranium = { ent-WallRockSnow }
-    .desc = { ent-WallRockSnow.desc }
-    .suffix = Uranium
-
+    .desc = Рудная жила, богатая ураном.
+    .suffix = Уран
 ent-WallRockSnowBananium = { ent-WallRockSnow }
-    .desc = { ent-WallRockSnow.desc }
-    .suffix = Bananium
-
+    .desc = Рудная жила, богатая бананиумом.
+    .suffix = Бананиум
 ent-WallRockSnowArtifactFragment = { ent-WallRockSnow }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
-
+    .desc = Каменная стена. Что это торчит из неё?
+    .suffix = Фрагмент артефакта
 ent-WallRockSnowSalt = { ent-WallRockSnow }
-    .desc = { ent-WallRockSnow.desc }
-    .suffix = Salt
-
-ent-WallRockSand = sandstone
+    .desc = Рудная жила, богатая солью.
+    .suffix = Соль
+ent-WallRockSand = песчаник
     .desc = { ent-WallRock.desc }
-
 ent-WallRockSandCoal = { ent-WallRockSand }
-    .desc = { ent-WallRockSand.desc }
-    .suffix = Coal
-
+    .desc = Рудная жила, богатая углём.
+    .suffix = Уголь
 ent-WallRockSandGold = { ent-WallRockSand }
-    .desc = { ent-WallRockSand.desc }
-    .suffix = Gold
-
+    .desc = Рудная жила, богатая золотом.
+    .suffix = Золото
 ent-WallRockSandDiamond = { ent-WallRockSand }
-    .desc = { ent-WallRockSand.desc }
-    .suffix = Diamond
-
+    .desc = Рудная жила, богатая алмазами.
+    .suffix = Алмазы
 ent-WallRockSandPlasma = { ent-WallRockSand }
-    .desc = { ent-WallRockSand.desc }
-    .suffix = Plasma
-
+    .desc = Рудная жила, богатая плазмой.
+    .suffix = Плазма
 ent-WallRockSandQuartz = { ent-WallRockSand }
-    .desc = { ent-WallRockSand.desc }
-    .suffix = Quartz
-
+    .desc = Рудная жила, богатая кварцем.
+    .suffix = Кварц
 ent-WallRockSandSilver = { ent-WallRockSand }
-    .desc = { ent-WallRockSand.desc }
-    .suffix = Silver
-
+    .desc = Рудная жила, богатая серебром.
+    .suffix = Серебро
 ent-WallRockSandTin = { ent-WallRockSand }
-    .desc = { ent-WallRockSand.desc }
-    .suffix = Iron
-
+    .desc = Рудная жила, богатая железом.
+    .suffix = Железо
 ent-WallRockSandUranium = { ent-WallRockSand }
-    .desc = { ent-WallRockSand.desc }
-    .suffix = Uranium
-
+    .desc = Рудная жила, богатая ураном.
+    .suffix = Уран
 ent-WallRockSandBananium = { ent-WallRockSand }
-    .desc = { ent-WallRockSand.desc }
-    .suffix = Bananium
-
+    .desc = Рудная жила, богатая бананиумом.
+    .suffix = Бананиум
 ent-WallRockSandArtifactFragment = { ent-WallRockSand }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
-
+    .desc = Каменная стена. Что это торчит из неё?
+    .suffix = Фрагмент артефакта
 ent-WallRockSandSalt = { ent-WallRockSand }
-    .desc = { ent-WallRockSand.desc }
-    .suffix = Salt
-
-ent-WallRockChromite = chromite
+    .desc = Рудная жила, богатая солью.
+    .suffix = Соль
+ent-WallRockChromite = хромит
     .desc = { ent-WallRock.desc }
-
 ent-WallRockChromiteCoal = { ent-WallRockChromite }
-    .desc = { ent-WallRockChromite.desc }
-    .suffix = Coal
-
+    .desc = Рудная жила, богатая углём.
+    .suffix = Уголь
 ent-WallRockChromiteGold = { ent-WallRockChromite }
-    .desc = { ent-WallRockChromite.desc }
-    .suffix = Gold
-
+    .desc = Рудная жила, богатая золотом.
+    .suffix = Золото
 ent-WallRockChromiteDiamond = { ent-WallRockChromite }
-    .desc = { ent-WallRockChromite.desc }
-    .suffix = Diamond
-
+    .desc = Рудная жила, богатая алмазами.
+    .suffix = Алмазы
 ent-WallRockChromitePlasma = { ent-WallRockChromite }
-    .desc = { ent-WallRockChromite.desc }
-    .suffix = Plasma
-
+    .desc = Рудная жила, богатая плазмой.
+    .suffix = Плазма
 ent-WallRockChromiteQuartz = { ent-WallRockChromite }
-    .desc = { ent-WallRockChromite.desc }
-    .suffix = Quartz
-
+    .desc = Рудная жила, богатая кварцем.
+    .suffix = Кварц
 ent-WallRockChromiteSilver = { ent-WallRockChromite }
-    .desc = { ent-WallRockChromite.desc }
-    .suffix = Silver
-
+    .desc = Рудная жила, богатая серебром.
+    .suffix = Серебро
 ent-WallRockChromiteTin = { ent-WallRockChromite }
-    .desc = { ent-WallRockChromite.desc }
-    .suffix = Iron
-
+    .desc = Рудная жила, богатая железом.
+    .suffix = Железо
 ent-WallRockChromiteUranium = { ent-WallRockChromite }
-    .desc = { ent-WallRockChromite.desc }
-    .suffix = Uranium
-
+    .desc = Рудная жила, богатая ураном.
+    .suffix = Уран
 ent-WallRockChromiteBananium = { ent-WallRockChromite }
-    .desc = { ent-WallRockChromite.desc }
-    .suffix = Bananium
-
+    .desc = Рудная жила, богатая бананиумом.
+    .suffix = Бананиум
 ent-WallRockChromiteArtifactFragment = { ent-WallRockChromite }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
-
+    .desc = Каменная стена. Что это торчит из неё?
+    .suffix = Фрагмент артефакта
 ent-WallRockChromiteSalt = { ent-WallRockChromite }
-    .desc = { ent-WallRockChromite.desc }
-    .suffix = Salt
-
-ent-WallRockAndesite = andesite
+    .desc = Рудная жила, богатая солью.
+    .suffix = Соль
+ent-WallRockAndesite = андезит
     .desc = { ent-WallRock.desc }
-
 ent-WallRockAndesiteCoal = { ent-WallRockAndesite }
-    .desc = { ent-WallRockAndesite.desc }
-    .suffix = Coal
-
+    .desc = Рудная жила, богатая углём.
+    .suffix = Уголь
 ent-WallRockAndesiteGold = { ent-WallRockAndesite }
-    .desc = { ent-WallRockAndesite.desc }
-    .suffix = Gold
-
+    .desc = Рудная жила, богатая золотом.
+    .suffix = Золото
 ent-WallRockAndesiteDiamond = { ent-WallRockAndesite }
-    .desc = { ent-WallRockAndesite.desc }
-    .suffix = Diamond
-
+    .desc = Рудная жила, богатая алмазами.
+    .suffix = Алмазы
 ent-WallRockAndesitePlasma = { ent-WallRockAndesite }
-    .desc = { ent-WallRockAndesite.desc }
-    .suffix = Plasma
-
+    .desc = Рудная жила, богатая плазмой.
+    .suffix = Плазма
 ent-WallRockAndesiteQuartz = { ent-WallRockAndesite }
-    .desc = { ent-WallRockAndesite.desc }
-    .suffix = Quartz
-
+    .desc = Рудная жила, богатая кварцем.
+    .suffix = Кварц
 ent-WallRockAndesiteSilver = { ent-WallRockAndesite }
-    .desc = { ent-WallRockAndesite.desc }
-    .suffix = Silver
-
+    .desc = Рудная жила, богатая серебром.
+    .suffix = Серебро
 ent-WallRockAndesiteTin = { ent-WallRockAndesite }
-    .desc = { ent-WallRockAndesite.desc }
-    .suffix = Iron
-
+    .desc = Рудная жила, богатая железом.
+    .suffix = Железо
 ent-WallRockAndesiteUranium = { ent-WallRockAndesite }
-    .desc = { ent-WallRockAndesite.desc }
-    .suffix = Uranium
-
+    .desc = Рудная жила, богатая ураном.
+    .suffix = Уран
 ent-WallRockAndesiteBananium = { ent-WallRockAndesite }
-    .desc = { ent-WallRockAndesite.desc }
-    .suffix = Bananium
-
+    .desc = Рудная жила, богатая бананиумом.
+    .suffix = Бананиум
 ent-WallRockAndesiteArtifactFragment = { ent-WallRockAndesite }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
-
+    .desc = Каменная стена. Что это торчит из неё?
+    .suffix = Фрагмент артефакта
 ent-WallRockAndesiteSalt = { ent-WallRockAndesite }
-    .desc = { ent-WallRockAndesite.desc }
-    .suffix = Salt
+    .desc = Рудная жила, богатая солью.
+    .suffix = Соль

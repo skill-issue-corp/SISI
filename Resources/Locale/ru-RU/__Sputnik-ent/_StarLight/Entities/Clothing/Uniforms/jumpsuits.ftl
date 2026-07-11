@@ -1,7 +1,6 @@
 ent-ClothingUniformJumpsuitAtmosSyndie = { ent-ClothingUniformJumpsuitAtmos }
+    .suffix = Акробатический
     .desc = { ent-ClothingUniformJumpsuitAtmos.desc }
-    .suffix = Contortionistic
-
 ent-ClothingUniformJumpsuitAtmosSyndieAdvanced = { ent-ClothingUniformJumpsuitAtmosSyndie }
+    .suffix = Акробатический, с инвентарём
     .desc = { ent-ClothingUniformJumpsuitAtmosSyndie.desc }
-    .suffix = Contortionistic, Inventory

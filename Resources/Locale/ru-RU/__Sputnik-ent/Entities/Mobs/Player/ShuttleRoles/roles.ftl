@@ -1,186 +1,128 @@
-ent-RandomHumanoidVisitorCaptain = visiting Captain ghost role
+ent-RandomHumanoidVisitorCaptain = посетитель Капитан роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorCE = visiting CE ghost role
+ent-RandomHumanoidVisitorCE = посетитель СИ роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorCMO = visiting CMO ghost role
+ent-RandomHumanoidVisitorCMO = посетитель ГВ роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorHOP = visiting HOP ghost role
+ent-RandomHumanoidVisitorHOP = посетитель ГП роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorHOS = visiting HOS ghost role
+ent-RandomHumanoidVisitorHOS = посетитель ГСБ роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorRD = visiting RD ghost role
+ent-RandomHumanoidVisitorRD = посетитель НР роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorQM = visiting QM ghost role
+ent-RandomHumanoidVisitorQM = посетитель КМ роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorSecurityCadet = visiting security cadet role
+ent-RandomHumanoidVisitorSecurityCadet = посетитель кадет СБ роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorSecurityOfficer = visiting security officer ghost role
+ent-RandomHumanoidVisitorSecurityOfficer = посетитель офицер СБ роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorDetective = visiting detective role
+ent-RandomHumanoidVisitorDetective = посетитель детектив роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorWarden = visiting warden ghost role
+ent-RandomHumanoidVisitorWarden = посетитель смотритель роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorCargoTechnician = visiting cargo technician ghost role
+ent-RandomHumanoidVisitorCargoTechnician = посетитель грузчик роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorSalvageSpecialist = visiting salvage specialist ghost role
+ent-RandomHumanoidVisitorSalvageSpecialist = посетитель утилизатор роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorAtmosTech = visiting atmospheric technician ghost role
+ent-RandomHumanoidVisitorAtmosTech = посетитель атмосферный техник роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorTechnicalAssistant = visiting technical assistant ghost role
+ent-RandomHumanoidVisitorTechnicalAssistant = посетитель технический ассистент роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorEngineer = visiting engineer ghost role
+ent-RandomHumanoidVisitorEngineer = посетитель инженер роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorMedicalIntern = visiting medical intern ghost role
+ent-RandomHumanoidVisitorMedicalIntern = посетитель интерн роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorMedicalDoctor = visiting medical doctor ghost role
+ent-RandomHumanoidVisitorMedicalDoctor = посетитель врач роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorParamedic = visiting paramedic ghost role
+ent-RandomHumanoidVisitorParamedic = посетитель парамедик роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorPsychologist = visiting psychologist ghost role
+ent-RandomHumanoidVisitorPsychologist = посетитель психолог роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorChemist = visiting chemist ghost role
+ent-RandomHumanoidVisitorChemist = посетитель химик роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorVirologist = visiting virologist ghost role
+ent-RandomHumanoidVisitorVirologist = посетитель вирусолог роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorGeneticist = visiting geneticist ghost role
+ent-RandomHumanoidVisitorGeneticist = посетитель генетик роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorDentist = visiting dentist ghost role
+ent-RandomHumanoidVisitorDentist = посетитель стоматолог роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorResearchAssistant = visiting research assistant ghost role
+ent-RandomHumanoidVisitorResearchAssistant = посетитель научный ассистент роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorScientist = visiting scientist ghost role
+ent-RandomHumanoidVisitorScientist = посетитель учёный роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorBartender = visiting bartender ghost role
+ent-RandomHumanoidVisitorBartender = посетитель бармен роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorBotanist = visiting botanist ghost role
+ent-RandomHumanoidVisitorBotanist = посетитель ботаник роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorBoxer = visiting boxer ghost role
+ent-RandomHumanoidVisitorBoxer = посетитель боксёр роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorChaplain = visiting chaplain ghost role
+ent-RandomHumanoidVisitorChaplain = посетитель священник роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorChef = visiting chef ghost role
+ent-RandomHumanoidVisitorChef = посетитель шеф роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorClown = visiting clown ghost role
+ent-RandomHumanoidVisitorClown = посетитель клоун роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorJanitor = visiting janitor ghost role
+ent-RandomHumanoidVisitorJanitor = посетитель уборщик роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorLawyer = visiting lawyer ghost role
+ent-RandomHumanoidVisitorLawyer = посетитель адвокат роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorLawyerCentcom = visiting centcom lawyer ghost role
+ent-RandomHumanoidVisitorLawyerCentcom = посетитель адвокат ЦК роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorLibrarian = visiting librarian ghost role
+ent-RandomHumanoidVisitorLibrarian = посетитель библиотекарь роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorMusician = visiting musician ghost role
+ent-RandomHumanoidVisitorMusician = посетитель музыкант роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorMusicianFancy = visiting fancy musician ghost role
+ent-RandomHumanoidVisitorMusicianFancy = посетитель модный музыкант роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorMusicianRelaxed = visiting relaxed musician ghost role
+ent-RandomHumanoidVisitorMusicianRelaxed = посетитель расслабленый музыкант роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorMime = visiting mime ghost role
+ent-RandomHumanoidVisitorMime = посетитель мим роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorReporter = visiting reporter ghost role
+ent-RandomHumanoidVisitorReporter = посетитель репортёр роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorServiceWorker = visiting service worker ghost role
+ent-RandomHumanoidVisitorServiceWorker = посетитель сервисный работник роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidVisitorZookeeper = visiting zookeeper ghost role
+ent-RandomHumanoidVisitorZookeeper = посетитель зоотехник роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidClownTroupeBanana = banana clown troupe
+ent-RandomHumanoidClownTroupeBanana = труппа банановых клоунов
     .desc = { ent-RandomHumanoidVisitorClown.desc }
-
-ent-RandomHumanoidChallengeVictimCaptain = disaster victim Captain ghost role
+ent-RandomHumanoidChallengeVictimCaptain = жертва катастрофы Капитан роль призрака
+    .suffix = ЧЕЛЛЕНДЖ
     .desc = { "" }
-    .suffix = CHALLENGE
-
-ent-RandomHumanoidChallengeVictimCE = disaster victim CE ghost role
+ent-RandomHumanoidChallengeVictimCE = жертва катастрофы СИ роль призрака
+    .suffix = ЧЕЛЛЕНДЖ
     .desc = { ent-RandomHumanoidChallengeVictimCaptain.desc }
-    .suffix = CHALLENGE
-
-ent-RandomHumanoidChallengeVictimCMO = disaster victim CMO ghost role
+ent-RandomHumanoidChallengeVictimCMO = жертва катастрофы ГВ роль призрака
+    .suffix = ЧЕЛЛЕНДЖ
     .desc = { ent-RandomHumanoidChallengeVictimCaptain.desc }
-    .suffix = CHALLENGE
-
-ent-RandomHumanoidChallengeVictimHOP = disaster victim HOP ghost role
+ent-RandomHumanoidChallengeVictimHOP = жертва катастрофы ГП роль призрака
+    .suffix = ЧЕЛЛЕНДЖ
     .desc = { ent-RandomHumanoidChallengeVictimCaptain.desc }
-    .suffix = CHALLENGE
-
-ent-RandomHumanoidChallengeVictimHOS = disaster victim HOS ghost role
+ent-RandomHumanoidChallengeVictimHOS = жертва катастрофы ГСБ роль призрака
+    .suffix = ЧЕЛЛЕНДЖ
     .desc = { ent-RandomHumanoidChallengeVictimCaptain.desc }
-    .suffix = CHALLENGE
-
-ent-RandomHumanoidChallengeVictimRD = disaster victim RD ghost role
+ent-RandomHumanoidChallengeVictimRD = жертва катастрофы НР роль призрака
+    .suffix = ЧЕЛЛЕНДЖ
     .desc = { ent-RandomHumanoidChallengeVictimCaptain.desc }
-    .suffix = CHALLENGE
-
-ent-RandomHumanoidChallengeVictimQM = disaster victim QM ghost role
+ent-RandomHumanoidChallengeVictimQM = жертва катастрофы КМ роль призрака
+    .suffix = ЧЕЛЛЕНДЖ
     .desc = { ent-RandomHumanoidChallengeVictimCaptain.desc }
-    .suffix = CHALLENGE
-
-ent-RandomHumanoidChallengeCargoTechnician = disaster cargo technician ghost role
+ent-RandomHumanoidChallengeCargoTechnician = жертва катастрофы грузчик роль призрака
+    .suffix = ЧЕЛЛЕНДЖ
     .desc = { ent-RandomHumanoidChallengeVictimCaptain.desc }
-    .suffix = CHALLENGE
-
-ent-RandomHumanoidSyndieSoldierTeamLeader = syndicate team leader ghost role
+ent-RandomHumanoidSyndieSoldierTeamLeader = Синдикат руководитель роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidSyndieSoldier = syndicate soldier ghost role
+ent-RandomHumanoidSyndieSoldier = Синдикат солдат роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidSyndieVisitor = syndie disaster victim ghost role
+ent-RandomHumanoidSyndieVisitor = Синдикат жертва катастрофы роль призрака
     .desc = { "" }
-
-ent-RandomHumanoidPirateScooner = pirate crewman ghost role
-    .desc = { "" }
+ent-RandomHumanoidPirateScooner = пират член экипажа роль призрака
     .suffix = scooner
-
-ent-RandomHumanoidPirateCaptainScooner = pirate captain ghost role
     .desc = { "" }
+ent-RandomHumanoidPirateCaptainScooner = пират капитан роль призрака
     .suffix = scooner
-
-ent-RandomHumanoidVisitorBlackmarketeer = visiting blackmarketeer ghost role
     .desc = { "" }
-
-ent-RandomHumanoidCossack = cossack ghost role
+ent-RandomHumanoidVisitorBlackmarketeer = посетитель торговец чёрного рынка роль призрака
+    .desc = { "" }
+ent-RandomHumanoidCossack = казак роль призрака
     .desc = { "" }

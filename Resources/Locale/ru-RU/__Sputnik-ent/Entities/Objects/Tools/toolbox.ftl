@@ -1,27 +1,20 @@
 ent-ToolboxBase = { ent-BaseStorageItem }
     .desc = { ent-BaseStorageItem.desc }
-
-ent-ToolboxEmergency = emergency toolbox
-    .desc = A bright red toolbox, stocked with emergency tools.
-
-ent-ToolboxMechanical = mechanical toolbox
-    .desc = A blue box, stocked with mechanical tools.
-
-ent-ToolboxElectrical = electrical toolbox
-    .desc = A toolbox typically stocked with electrical gear.
-
-ent-ToolboxElectricalTurret = electrical toolbox
-    .desc = A toolbox typically stocked with electrical gear.
-    .suffix = Syndicate, Turret
-
-ent-ToolboxArtistic = artistic toolbox
-    .desc = A toolbox typically stocked with artistic supplies.
-
-ent-ToolboxSyndicate = suspicious toolbox
-    .desc = A sinister looking toolbox filled with elite syndicate tools.
-
-ent-ToolboxGolden = golden toolbox
-    .desc = A solid gold toolbox. A rapper would kill for this.
-
-ent-Foolbox = foolbox
-    .desc = A toolbox for fools, stocked with clowning equipment.
+ent-ToolboxEmergency = аварийный ящик для инструментов
+    .desc = Ярко-красный ящик для инструментов, укомплектованный аварийными инструментами.
+ent-ToolboxMechanical = технический ящик для инструментов
+    .desc = Синий ящик для инструментов, укомплектованный механическими инструментами.
+ent-ToolboxElectrical = электротехнический ящик для инструментов
+    .desc = Ящик для инструментов, наполненный электрооборудованием.
+ent-ToolboxElectricalTurret = электротехнический ящик для инструментов
+    .desc = Ящик для инструментов, наполненный электрооборудованием.
+    .suffix = Синдикат, Турель
+ent-ToolboxArtistic = художественный ящик для инструментов
+    .desc = Ящик для инструментов, в котором обычно хранятся художественные принадлежности.
+# Corvax-HiddenDesc-Start
+ent-ToolboxSyndicate = чёрный ящик для инструментов
+    .desc = Зловеще выглядящий ящик для инструментов. Кто знает, что может храниться в нем?...
+    .suffix = подозрительный ящик для инструментов
+# Corvax-HiddenDesc-End
+ent-ToolboxGolden = золотой ящик для инструментов
+    .desc = Ящик для инструментов из чистого золота. Рэперы убили бы за него.

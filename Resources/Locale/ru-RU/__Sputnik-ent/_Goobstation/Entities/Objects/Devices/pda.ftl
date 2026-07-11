@@ -1,53 +1,44 @@
-ent-ChronoPDA = futuristic PDA
-    .desc = A powerful quantum computer disguised as a regular pda for disguise.
-
-ent-GmanPDA = strange PDA
-    .desc = Your mind can't quite comprehend this.
-
-ent-HelldiverPDA = salvage diver PDA
-    .desc = Smells like corpses of insects and androids.
-
-ent-HecuPDA = HECU PDA
-    .desc = Smells of gunpowder.
-
-ent-DeathsquadPDA = deathsquad PDA
-    .desc = Rip and tear until it is done.
-
-ent-NanotrasenRepresentativePDA = nanotrasen representative's PDA
-    .desc = The devil's in the details.
-
-ent-NavyCaptainPDA = navy captain's PDA
-    .desc = The devil's in the details.
-
-ent-NavyOfficerPDA = navy officer's PDA
+ent-ChronoPDA = КПК будущего
+    .desc = Мощный квантовый компьютер, замаскированный для маскировки под обычный КПК.
+ent-GmanPDA = странный КПК
+    .desc = Ваш разум не может до конца постичь это.
+ent-HelldiverPDA = КПК спасателя
+    .desc = Пахнет трупами насекомых и андроидов.
+ent-HecuPDA = КПК HECU
+    .desc = Пахнет порохом.
+ent-BlueshieldPDA = КПК офицера "Синий Щит"
+    .desc = На лицевой стороне выгравирован серебряный значок корпуса "Синий Щит".
+ent-DeathsquadPDA = КПК Эскадрона Смерти
+    .desc = Рвите и метайте всех и вся, пока все не будет готово.
+ent-NanotrasenRepresentativePDA = КПК представителя NanoTrasen
+    .desc = Дьявол кроется в деталях.
+ent-TrainerPDA = КПК наставника
+    .desc = Стандартный КПК наставника NanoTrasen
+ent-NavyCaptainPDA = КПК капитана ВКС
+    .desc = Дьявол кроется в деталях.
+ent-NavyOfficerPDA = КПК офицера ЦК
     .desc = { ent-NavyCaptainPDA.desc }
-
-ent-DiplomatPDA = diplomat's PDA
+ent-SpecialOperationsOfficerPDA = КПК офицера специальных операций.
     .desc = { ent-NavyCaptainPDA.desc }
-
-ent-InspectorPDA = auditor's PDA
+ent-DiplomatPDA = КПК дипломата
     .desc = { ent-NavyCaptainPDA.desc }
-
-ent-SyndiPDANukie = syndicate PDA
-    .desc = Ok, time to be a productive member of- oh cool I'm a bad guy time to kill people!
-
-ent-HighCommandPDA = high commander PDA
-    .desc = An ordinary syndicate PDA, adorned with gilded symbols. It's owner is clearly of a higher standing.
-
-ent-VirologistPDA = virology PDA
-    .desc = You're not sure if touching it is safe.
-
-ent-SecurityClownPDA = security clown PDA
-    .desc = Who has a pink PDA in security?
-
-ent-CommandMaidPDA = command maid PDA
+ent-InspectorPDA = КПК ревизора
+    .desc = { ent-NavyCaptainPDA.desc }
+ent-SyndiPDANukie = КПК Синдиката
+    .desc = Ладно, пришло время стать продуктивным рабоч... о, круто, я плохой парень, пришло время убивать всех!
+ent-HighCommandPDA = КПК офицера Синдиката
+    .desc = Обычный КПК синдиката, украшенный позолоченными символами. Его владелец явно занимает более высокое положение.
+ent-VirologistPDA = КПК вирусолога
+    .desc = Возможно, трогать это небезопасно.
+ent-SecurityClownPDA = КПК офицера-клоуна
+    .desc = Розовое КПК Службы Безопасности, серьезно?
+ent-CommandMaidPDA = КПК горничной командования
     .desc = { ent-JanitorPDA.desc }
-
-ent-PartyMakerPDA = party maker PDA
-    .desc = The best helper to make a party.
-
-ent-RoboticistPDA = roboticist PDA
-    .desc = It's covered with failed ambitions.
-
-ent-RadioHostPDA = radio host PDA
-    .desc = You're listening to the smooth sounds of 145.9 FM.
+ent-PartyMakerPDA = КПК патимейкера
+    .desc = Раскачаем это унылое болото!
+ent-RoboticistPDA = КПК робототехника
+    .desc = Пропитано нереализованными амбициями.
+ent-RadioHostPDA = КПК радиоведущего
+    .desc = Вы слушаете ласкающую уши музыку на частоте 103.0 FM.
+ent-OuterCommandPDA = КПК офицера ОПЗ
+    .desc = Пурпурный КПК для офицеров ОПЗ.

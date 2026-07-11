@@ -1,5 +1,4 @@
-ent-WeaponTurretFlock = flock totem
-    .desc = This totem summons pain instead of rain.
-
-ent-WeaponTurretFlockBroken = flock totem
-    .desc = A broken totem. Looks like it contains something valuable.
+ent-WeaponTurretFlock = тотем стаи
+    .desc = Этот тотем призывает боль вместо дождя.
+ent-WeaponTurretFlockBroken = тотем стаи
+    .desc = Сломанный тотем. Кажется внутри что-то ценное.

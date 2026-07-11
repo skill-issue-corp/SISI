@@ -1,9 +1,7 @@
-ent-ReinforcedWindow = reinforced window
-    .desc = { ent-BaseDeltaPressureReinforcedGlass.desc }
-
-ent-WindowReinforcedDirectional = directional reinforced window
-    .desc = Don't smudge up the glass down there.
-
+ent-ReinforcedWindow = бронеокно
+    .desc = { ent-Window.desc }
+ent-WindowReinforcedDirectional = направленное бронеокно
+    .desc = Смотри не заляпай.
 ent-ReinforcedWindowDiagonal = { ent-ReinforcedWindow }
+    .suffix = Диагональ
     .desc = { ent-ReinforcedWindow.desc }
-    .suffix = diagonal

@@ -1,43 +1,33 @@
 ent-Telecrystal15 = { ent-Telecrystal }
-    .desc = { ent-Telecrystal.desc }
     .suffix = 15 TC
-
+    .desc = { ent-Telecrystal.desc }
 ent-Telecrystal20 = { ent-Telecrystal }
-    .desc = { ent-Telecrystal.desc }
     .suffix = 20 TC
-
+    .desc = { ent-Telecrystal.desc }
 ent-Telecrystal25 = { ent-Telecrystal }
-    .desc = { ent-Telecrystal.desc }
     .suffix = 25 TC
-
+    .desc = { ent-Telecrystal.desc }
 ent-Telecrystal30 = { ent-Telecrystal }
-    .desc = { ent-Telecrystal.desc }
     .suffix = 30 TC
-
+    .desc = { ent-Telecrystal.desc }
 ent-Telecrystal35 = { ent-Telecrystal }
-    .desc = { ent-Telecrystal.desc }
     .suffix = 35 TC
-
+    .desc = { ent-Telecrystal.desc }
 ent-Telecrystal40 = { ent-Telecrystal }
-    .desc = { ent-Telecrystal.desc }
     .suffix = 40 TC
-
+    .desc = { ent-Telecrystal.desc }
 ent-Telecrystal50 = { ent-Telecrystal }
-    .desc = { ent-Telecrystal.desc }
     .suffix = 50 TC
-
+    .desc = { ent-Telecrystal.desc }
 ent-Telecrystal250 = { ent-Telecrystal }
-    .desc = { ent-Telecrystal.desc }
     .suffix = 250 TC
-
-ent-Telecrystal500 = { ent-Telecrystal }
     .desc = { ent-Telecrystal.desc }
+ent-Telecrystal500 = { ent-Telecrystal }
     .suffix = 500 TC
-
+    .desc = { ent-Telecrystal.desc }
 ent-BaseUplinkRadio225TC = { ent-BaseUplinkRadio }
-    .desc = { ent-BaseUplinkRadio.desc }
     .suffix = 225 TC, NukeOps
-
-ent-BaseUplinkRadio225TCMedic = { ent-BaseUplinkRadio }
     .desc = { ent-BaseUplinkRadio.desc }
+ent-BaseUplinkRadio225TCMedic = { ent-BaseUplinkRadio }
     .suffix = 225 TC, NukeOps medic
+    .desc = { ent-BaseUplinkRadio.desc }

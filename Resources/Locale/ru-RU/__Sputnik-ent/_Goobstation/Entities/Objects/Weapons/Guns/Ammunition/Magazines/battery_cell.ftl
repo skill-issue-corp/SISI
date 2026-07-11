@@ -1,74 +1,66 @@
-ent-BaseMilitaryPowerCell = { ent-BasePowerCell }
-    .desc = { ent-BasePowerCell.desc }
-
+ent-BaseMilitaryPowerCell = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
 ent-BaseMilitaryPowerCellSMG = { ent-BaseMilitaryPowerCell }
     .desc = { ent-BaseMilitaryPowerCell.desc }
-
-ent-PowerCellIRSMG = SMG power cell
-    .desc = A militarized power cell compatible with SMG scale lasers.
-    .suffix = Full
-
-ent-PowerCellXraySMG = x-ray SMG power cell
-    .desc = A militarized power cell compatible with SMG scale lasers that fires x-rays.
-    .suffix = Full
-
-ent-PowerCellOverchargedSMG = overclocked SMG power cell
-    .desc = A militarized power cell compatible with SMG scale lasers that has been overclocked.
-    .suffix = Full
-
-ent-PowerCellPulseSMG = pulse SMG power cell
-    .desc = A militarized power cell compatible with SMG scale lasers that fires pulse beams.
-    .suffix = Full
-
-ent-PowerCellIonSMG = ion SMG power cell
-    .desc = A militarized power cell compatible with SMG scale lasers that fires ion beams.
-    .suffix = Full
-
+ent-PowerCellIRSMG = ПП батарея
+    .desc = Милитаризованная батарея совместимая с ПП лазером.
+    .suffix = Полная
+ent-PowerCellXraySMG = рентгеновская ПП батарея
+    .desc = Милитаризованная батарея совместимая с ПП лазером который стреляет рентгеновским излучением.
+    .suffix = Полная
+ent-PowerCellOverchargedSMG = перегруженная ПП батарея
+    .desc = Милитаризованная батарея совместимая с перегруженным ПП лазером.
+    .suffix = Полная
+ent-PowerCellBluespaceSMG = блюспейс ПП батарея
+    .desc = Военизированная энергоячейка, совместимая с лазерными пистолетами-пулеметами. Испускает лучи откалиброванных блюспейс частиц, проходящих насквозь несколько сантиметров брони.
+    .suffix = Полная
+ent-PowerCellPulseSMG = импульсная ПП батарея
+    .desc = Милитаризованная батарея совместимая с ПП лазером который стреляет импульсными лучами.
+    .suffix = Полная
+ent-PowerCellIonSMG = ионная ПП батарея
+    .desc = Милитаризованная батарея совместимая с ПП лазером который стреляет ионными лучами.
+    .suffix = Полная
 ent-BaseMilitaryPowerCellSniper = { ent-BaseMilitaryPowerCell }
     .desc = { ent-BaseMilitaryPowerCell.desc }
-
-ent-PowerCellIRSniper = sniper power cell
-    .desc = A militarized power cell compatible with laser snipers.
-    .suffix = Full
-
-ent-PowerCellXraySniper = x-ray sniper power cell
-    .desc = A militarized power cell compatible with laser snipers that fires x-rays.
-    .suffix = Full
-
-ent-PowerCellOverchargedSniper = overclocked sniper power cell
-    .desc = A militarized power cell compatible with laser snipers that has been overclocked.
-    .suffix = Full
-
-ent-PowerCellPulseSniper = pulse sniper power cell
-    .desc = A militarized power cell compatible with laser snipers that fires pulse beams.
-    .suffix = Full
-
-ent-PowerCellIonSniper = ion sniper power cell
-    .desc = A militarized power cell compatible with laser snipers that fires ion beams.
-    .suffix = Full
-
+ent-PowerCellIRSniper = снайперская батарея
+    .desc = Милитаризованная батарея совместимая с лазерными снайперскими винтовками.
+    .suffix = Полная
+ent-PowerCellXraySniper = рентгеновская снайперская батарея
+    .desc = Милитаризованная батарея совместимая с лазерными снайперскими винтовками которые стреляют рентгеновским излучением.
+    .suffix = Полная
+ent-PowerCellOverchargedSniper = перегруженная снайперская батарея
+    .desc = Милитаризованная батарея совместимая с перегруженными лазерными снайперскими винтовками.
+    .suffix = Полная
+ent-PowerCellBluespaceSniper = блюспейс снайперская батарея
+    .desc = Военизированная энергоячейка, совместимая с лазерными снайперскими винтовками. Испускает лучи откалиброванных блюспейс частиц, проходящих насквозь несколько сантиметров брони.
+    .suffix = Полная
+ent-PowerCellPulseSniper = импульсная снайперская батарея
+    .desc = Милитаризованная батарея совместимая с лазерными снайперскими винтовками которые стреляют импульсными лучами.
+    .suffix = Полная
+ent-PowerCellIonSniper = ионная снайперская батарея
+    .desc = Милитаризованная батарея совместимая с лазерными снайперскими винтовками которые стреляют ионными лучами.
+    .suffix = Полная
 ent-BaseMilitaryPowerCellRevolver = { ent-BaseMilitaryPowerCell }
     .desc = { ent-BaseMilitaryPowerCell.desc }
-
-ent-PowerCellIRRevolver = revolver power cell
-    .desc = A power cell compatible with laser revolvers.
-    .suffix = Full
-
-ent-PowerCellXrayRevolver = x-ray revolver power cell
-    .desc = A power cell compatible with laser revolvers, this one fires Xrays.
-    .suffix = Full
-
-ent-PowerCellOverchargedRevolver = overclocked revolver power cell
-    .desc = A power cell compatible with laser revolvers, this one burns hot enough to ignite targets.
-    .suffix = Full
-
-ent-PowerCellPulseRevolver = pulse revolver power cell
-    .desc = A militarized power cell compatible with laser revolvers that fires pulse beams.
-    .suffix = Full
-
-ent-PowerCellIonRevolver = ion revolver power cell
-    .desc = A power cell compatible with laser revolvers, this one fires ion beams.
-    .suffix = Full
-
-ent-MilitaryPowerCellLMG = LMG battery
-    .desc = A car battery compatible with laser LMG, attachable to charge provider backpack.
+ent-PowerCellIRRevolver = револьверная батарея
+    .desc = Милитаризованная батарея совместимая с лазерными револьверами.
+    .suffix = Полная
+ent-PowerCellXrayRevolver = рентгеновская револьверная батарея
+    .desc = Милитаризованная батарея совместимая с лазерными револьверами которые стреляют рентгеновским излучением.
+    .suffix = Полная
+ent-PowerCellOverchargedRevolver = перегруженная револьверная батарея
+    .desc = Милитаризованная батарея совместимая с перегруженными лазерными револьверами.
+    .suffix = Полная
+ent-PowerCellBluespaceRevolver = блюспейс револьверная батарея
+    .desc = Военизированная энергоячейка, совместимая с лазерными револьверами. Испускает лучи откалиброванных блюспейс частиц, проходящих насквозь несколько сантиметров брони.
+    .suffix = Полная
+ent-PowerCellPulseRevolver = импульсная револьверная батарея
+    .desc = Милитаризованная батарея совместимая с лазерными револьверами которые стреляют импульсными лучами.
+    .suffix = Полная
+ent-PowerCellIonRevolver = ионная револьверная батарея
+    .desc = Милитаризованная батарея совместимая с лазерными револьверами которые стреляют ионными лучами.
+    .suffix = Полная
+ent-MilitaryPowerCellBluespaceLMG = блюспейс пулемётная батарея
+    .desc = Высокотехнологичный блюспейс аккумулятор, стреляющий заряженными частицами блюспейса, откалиброванными для лёгкого пробития нескольких сантиметров брони.
+ent-MilitaryPowerCellLMG = пулемётная батарея
+    .desc = Машинная батарея совместимая с пулеметом, которая крепится к зарядному рюкзаку.

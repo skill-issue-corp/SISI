@@ -1,2 +1,2 @@
-ent-SpearGreyTide = Grey Tide
-    .desc = Recovered from the aftermath of a revolt aboard Defense Outpost Theta Aegis, in which a seemingly endless tide of Assistants caused heavy casualties among Nanotrasen military forces.
+ent-SpearGreyTide = грейтайд копьё
+    .desc = Найдено после восстания на оборонительном форпосте Theta Aegis, когда казалось что бесконечный поток пассажиров вызвал серьёзные потери среди военных сил NanoTrasen.

@@ -1,5 +1,4 @@
-ent-ClothingNeckMantleVeteranSecurity = veteran security's mantle
-    .desc = Personally awarded by CC for service to the station.
-
-ent-ClothingNeckMantleEpaulettes = golden epaulettes
-    .desc = Exquisitely-crafted gold epaulettes symbolizing admiralty within Central Command.
+ent-ClothingNeckMantleBlueshield = мантия офицера "Синий Щит"
+    .desc = Хорошо сбалансированная защитная мантия, разработанная для оптимальной эффективности телохранителя.
+ent-ClothingNeckMantleVeteranSecurity = ветеранская мантия СБ
+    .desc = Лично вручена Главой Службы Безопасности за отражение атаки Синдиката. Один взгляд на неё немного поднимает боевой дух.

@@ -1,59 +1,44 @@
-ent-BluespaceLifelineImplant = bluespace lifeline implant
-    .desc = Teleports the hosts body to Central Command on activation. They will not be able to return.
-
-ent-PacifismImplant = pacifism implant
-    .desc = Pacifism implant, given to life sentenced prisoners or such to prevent them from committing violence.
-
-ent-SmokeImplant = smoke implant
-    .desc = This implant releases smoke cloud on activation.
-
-ent-KravMagaImplant = krav maga implant
-    .desc = This implant allows the user to perform various Krav Maga moves.
-
-ent-AutoinjectorImplant = autoinjector implant
-    .desc = This implant allows the user to inject themselves with a chemical on use. Ephedrine by default.
-
-ent-NutrimentPumpImplant = nutriment pump implant
-    .desc = This implant allows prevents the user from getting hungry or thirsty.
-
-ent-SpaceProofImplant = space proofing implant
-    .desc = This implant allows the user to survive in space and without air.
-
-ent-StypticStimulatorImplant = styptic stimulator implant
-    .desc = This implant sends the users regeneration into overdrive.
-
-ent-BinaryImplant = binary decoder implant
-    .desc = This implant allows the user to access Binary and communicate with silicons (use +b).
-
-ent-ClumsyImplant = clumsy implant
-    .desc = This implant makes the user clumsy, allowing them to drive a certain vehicle.
-
-ent-ShadowmindImplant = shadowmind implant
-    .desc = This implant allows the user to access Shadowmind channel (use +q).
-
-ent-BlinkImplant = blink implant
-    .desc = This implant allows the user temporarily blink into a higher dimension.
-
-ent-VaporizeImplant = vaporize implant
-    .desc = This implant allows the user to vaporize targets with the power of their mind.
-
-ent-NaniteMenderImplant = nanite mender implant
-    .desc = This implant allows the user to heal entities with microscopic nanites.
-
-ent-ShiftImplant = shift implant
-    .desc = This implant allows the user to teleport to a point in range.
-
-ent-StopTimeImplant = stop time implant
-    .desc = This implant allows the user to stop time in an area briefly.
-
-ent-AntagImplantChangeling = changeling implant
-    .desc = This implant allows the user to shift their bodies like a changeling
-
-ent-AntagImplantSpaceNinja = ninja implant
-    .desc = This implant allows the user to gain the skills of a space ninja.
-
-ent-XenoCompatibilityImplant = xeno compatibility implant
-    .desc = Allows a subject to have xeno organs transplanted.
-
-ent-RedspaceLifelineImplant = redspace lifeline implant
-    .desc = Teleports the hosts body to Syndicate High Command on activation. They will not be able to return.
+ent-BluespaceLifelineImplant = имплант блюспейс коридор
+    .desc = Телепортирует тело носителя на Центральное Командование при активации. Вернуться назад не получится.
+ent-CommandTrackingImplant = имплант трекер командования
+    .desc = Этот имплант, зарезервированный для командования, оснащён трекером, подключённым к закрытой сети сенсоров скафандров, а также монитором состояния для командного радиоканала.
+ent-PacifismImplant = имплант пацифизма
+    .desc = Имплант пацифизма, выдаётся приговорённым к пожизненному заключению или подобным лицам, чтобы помешать им прибегать к насилию.
+ent-SmokeImplant = имплант дыма
+    .desc = Этот имплант выпускает облако дыма при активации.
+ent-KravMagaImplant = имплант крав-маг
+    .desc = Этот имплант позволяет использовать различные приёмы крав-мага.
+ent-AutoinjectorImplant = имплант автоинъектора
+    .desc = Этот имплант позволяет вводить себе химикаты по нажатию. По умолчанию — эфедрин.
+ent-NutrimentPumpImplant = имплант питательного насоса
+    .desc = Этот имплант предотвращает чувство голода и жажды у носителя.
+ent-SpaceProofImplant = имплант космо-защиты
+    .desc = Этот имплант позволяет выживать в космосе и без воздуха.
+ent-StypticStimulatorImplant = имплант стимулятора заживления
+    .desc = Этот имплант резко ускоряет регенерацию носителя.
+ent-BinaryImplant = имплант бинарного декодера
+    .desc = Этот имплант позволяет общаться с боргами через бинарный канал (используйте +b).
+ent-ClumsyImplant = имплант вождения
+    .desc = Этот имплант делает пользователя неуклюжим, позволяя управлять определённым транспортным средством.
+ent-ShadowmindImplant = имплант тенеморфа
+    .desc = Этот имплант позволяет общаться с тенеморфом. (+q в чат)
+ent-BlinkImplant = имплант скачка
+    .desc = Этот имплант позволяет временно "прыгнуть" в высшее измерение.
+ent-VaporizeImplant = имплант испарения
+    .desc = Этот имплант позволяет испарять цели силой мысли.
+ent-NaniteMenderImplant = имплант исцеляющих нанитов
+    .desc = Этот имплант позволяет лечить других с помощью микроскопических нанитов.
+ent-ShiftImplant = имплант прыжка
+    .desc = Этот имплант позволяет телепортироваться в указанную точку в пределах досягаемости.
+ent-StopTimeImplant = имплант остановки времени
+    .desc = Этот имплант позволяет кратковременно остановить время на области.
+ent-AntagImplantChangeling = имплант антагониста
+    .desc = Этот имплант позволяет изменять тело как Генокрад.
+ent-AntagImplantHeretic = имплант антагониста
+    .desc = Этот имплант позволяет подключиться к силам Мансуса.
+ent-AntagImplantSpaceNinja = имплант антагониста
+    .desc = Этот имплант позволяет обрести навыки Космического ниндзя.
+ent-XenoCompatibilityImplant = имплант совместимости с ксеноморфами
+    .desc = Этот имплант позволяет иметь органы ксеноморфов.
+ent-RedspaceLifelineImplant = имплант редспейс коридор
+    .desc = Телепортирует тело носителя на базу Синдиката при активации. Вернуться назад не получится.

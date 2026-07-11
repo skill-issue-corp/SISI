@@ -1,20 +1,14 @@
-ent-RMCFiltration = water filtration system
-    .desc = A water filter that separates both organic and inorganic matter, hazardous waste, and corrosive acids from water so it may be further processed.
-
-ent-RMCFiltrationDisinfection = disinfection filter
-    .desc = A water filter specifically designed to separate micro-organisms, such as viruses and bacteria, from water.
-
-ent-RMCFiltrationDistribution = waste distribution system
-    .desc = This machine separates the leftover waste from the purification processes to be discarded into space, recycled for supplies, or used for research.
-
+ent-RMCFiltration = система фильтрации воды
+    .desc = Водяной фильтр, который отделяет как органические, так и неорганические вещества, опасные отходы и коррозийные кислоты из воды, чтобы её можно было дальше обрабатывать.
+ent-RMCFiltrationDisinfection = фильтр дезинфекции
+    .desc = Водяной фильтр, специально предназначенный для отделения микроорганизмов, таких как вирусы и бактерии, из воды.
+ent-RMCFiltrationDistribution = система распределения отходов
+    .desc = Этот аппарат отделяет остаточные отходы после процессов очистки для их утилизации в космос, переработки в материалы или использования в исследованиях.
 ent-RMCFiltrationDistributionDamaged = { ent-RMCFiltrationDistribution }
     .desc = { ent-RMCFiltrationDistribution.desc }
-
-ent-RMCFiltrationSedimentation = sedimentation filter
-    .desc = A water filter specifically designed to capture and remove sediment, such as sand, silt, dirt, and rust, from water without removing the nutritious minerals for that crisp, clean taste every time.
-
+ent-RMCFiltrationSedimentation = седиментационный фильтр
+    .desc = Водяной фильтр, специально предназначенный для улавливания и удаления осадка, такого как песок, ил, грязь и ржавчина, из воды без удаления полезных минералов для чистого и свежего вкуса каждый раз.
 ent-RMCFiltrationSedimentationAlt = { ent-RMCFiltrationSedimentation }
     .desc = { ent-RMCFiltrationSedimentation.desc }
-
-ent-RMCCoagulationArm = coagulation arm
-    .desc = An axel with four sides, made to spin to help filter the water.
+ent-RMCCoagulationArm = коагуляционная ось
+    .desc = Вал с четырьмя сторонами, предназначенный для вращения, чтобы помогать фильтровать воду.

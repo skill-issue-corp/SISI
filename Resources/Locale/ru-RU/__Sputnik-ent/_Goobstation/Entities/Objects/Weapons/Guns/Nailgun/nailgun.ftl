@@ -1,2 +1,2 @@
-ent-WeaponNailgun = nail gun
-    .desc = Standard-issue Nanotrasen tool that fires high-velocity nails. Ideal for quick wall repairs, and occasionally for kicking tiders out of your department.
+ent-WeaponNailgun = гвоздомет
+    .desc = Стандартный инструмент Nanotrasen, стреляющий гвоздями на высокой скорости. Идеален для быстрого ремонта стен — и иногда для выдворения тайдеров из отдела.

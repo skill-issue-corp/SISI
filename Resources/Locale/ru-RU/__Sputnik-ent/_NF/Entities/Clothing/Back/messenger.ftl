@@ -1,62 +1,44 @@
 ent-ClothingBackpackMessengerBase = { ent-ClothingBackpack }
     .desc = { ent-ClothingBackpack.desc }
-
-ent-ClothingBackpackMessenger = messenger bag
-    .desc = A robust bag for keeping small stuff.
-
-ent-ClothingBackpackMessengerCaptain = captain's messenger bag
-    .desc = A robust bag made exclusively for Nanotrasen officers.
-
-ent-ClothingBackpackMessengerCentcomm = centcomm messenger bag
-    .desc = A robust bag made for Nanotrasen high-ranking officials.
-
-ent-ClothingBackpackMessengerAtmospherics = atmospherics messenger bag
-    .desc = A robust bag made of fire resistant fibers. Smells like plasma.
-
-ent-ClothingBackpackMessengerEngineering = engineering messenger bag
-    .desc = A robust bag for keeping extra tools.
-
-ent-ClothingBackpackMessengerCargo = cargo messenger bag
-    .desc = A robust bag for keeping lots of spesos.
-
-ent-ClothingBackpackMessengerSalvage = salvage messenger bag
-    .desc = A robust bag for stashing Lavaland loot.
-
-ent-ClothingBackpackMessengerMailman = mailman messenger bag
-    .desc = A robust bag for transportation of letters and parcels.
-
-ent-ClothingBackpackMessengerMedical = medical messenger bag
-    .desc = A robust bag for keeping extra medicine.
-
-ent-ClothingBackpackMessengerChemistry = chemistry messenger bag
-    .desc = A robust bag for keeping extra beakers and vials.
-
-ent-ClothingBackpackMessengerVirology = virology messenger bag
-    .desc = A robust bag made of hypo-allergenic fibers to prevent the spread of disease.
-
-ent-ClothingBackpackMessengerGenetics = genetics messenger bag
-    .desc = A robust sterile bag with geneticist colours.
-
-ent-ClothingBackpackMessengerScience = science messenger bag
-    .desc = A robust bag for holding research materials.
-
-ent-ClothingBackpackMessengerClown = clown messenger bag
-    .desc = A robust bag for keeping extra pies.
-
-ent-ClothingBackpackMessengerMime = mime messenger bag
-    .desc = A robust bag for keeping the vow of silence.
-
-ent-ClothingBackpackMessengerHydroponics = hydroponics messenger bag
-    .desc = A robust bag made of all natural fibers. Smells like dirt.
-
-ent-ClothingBackpackMessengerSecurity = security messenger bag
-    .desc = A robust bag for storing extra arrest equipment.
-
-ent-ClothingBackpackMessengerBrigmedic = brigmedic messenger bag
-    .desc = A robust bag for storing extra surgery tools for inmate tort... treating.
-
-ent-ClothingBackpackMessengerHolding = messenger bag of holding
-    .desc = A messenger bag that opens into a localized pocket of bluespace.
-
-ent-ClothingBackpackMessengerSyndicate = syndicate messenger bag
-    .desc = A robust bag for storing extra cartridges and explosives.
+ent-ClothingBackpackMessenger = барсетка
+    .desc = Прочная сумка для хранения мелких вещей.
+ent-ClothingBackpackMessengerCaptain = барсетка капитана
+    .desc = Прочная сумка, изготовленная исключительно для офицеров NanoTrasen.
+ent-ClothingBackpackMessengerCentcomm = барсетка ЦК
+    .desc = Прочная сумка NanoTrasen для высокопоставленных чиновников. Пахент пролитым кофе.
+ent-ClothingBackpackMessengerBlueshield = барсетка офицера "Синий Щит"
+    .desc = Прочная сумка, изготовленная из защитных материалов. Пахнет, как пистолет.
+ent-ClothingBackpackMessengerAtmospherics = барсетка атмос-инженера
+    .desc = Прочная сумка из огнестойких волокон. Пахнет плазмой.
+ent-ClothingBackpackMessengerEngineering = барсетка инженера
+    .desc = Прочная сумка для хранения дополнительных инструментов.
+ent-ClothingBackpackMessengerCargo = барсетка снабжения
+    .desc = Прочная сумка для хранения большого количества кредитов.
+ent-ClothingBackpackMessengerSalvage = барсетка утилизатора
+    .desc = Прочная сумка для хранения добычи из Лаваленда.
+ent-ClothingBackpackMessengerMailman = барсетка почтальона
+    .desc = Прочная сумка для транспортировки писем и посылок.
+ent-ClothingBackpackMessengerMedical = барсетка медика
+    .desc = Прочная сумка для хранения дополнительных лекарств.
+ent-ClothingBackpackMessengerChemistry = барсетка химика
+    .desc = Прочная сумка для хранения дополнительных мензурок и колбочек.
+ent-ClothingBackpackMessengerVirology = барсетка вирусолога
+    .desc = Прочная сумка, изготовленная из гипоаллергенных волокон, предотвращающих распространение болезней.
+ent-ClothingBackpackMessengerGenetics = барсетка генетика
+    .desc = Прочная стерильная сумка в цветах генетики.
+ent-ClothingBackpackMessengerScience = барсетка учёного
+    .desc = Прочная сумка для хранения исследовательских материалов.
+ent-ClothingBackpackMessengerClown = барсетка клоуна
+    .desc = Прочная сумка для хранения дополнительных порций пирогов и кожурок.
+ent-ClothingBackpackMessengerMime = барсетка мима
+    .desc = Прочная сумка для соблюдения обета молчания.
+ent-ClothingBackpackMessengerHydroponics = барсетка ботаника
+    .desc = Прочная сумка, изготовленная из натуральных волокон. Пахнет грязью и травой.
+ent-ClothingBackpackMessengerSecurity = барсетка охраны
+    .desc = Прочная сумка для хранения дополнительного снаряжения для ареста клоунов.
+ent-ClothingBackpackMessengerBrigmedic = барсетка бригмедика
+    .desc = Прочная сумка для хранения дополнительных хирургических инструментов для пыт... лечения заключённых.
+ent-ClothingBackpackMessengerHolding = бездонная барсетка
+    .desc = Барсетка, открывающая локальный карман блюспейса.
+ent-ClothingBackpackMessengerSyndicate = барсетка Синдиката
+    .desc = Прочная сумка для хранения дополнительных патронов и взрывчатых веществ.

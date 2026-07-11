@@ -1,2 +1,2 @@
-ent-ComputerScienceXenobiologyBounty = xenobiologicial bounty console
-    .desc = Used to manage currently active bounties for xenobiological goods.
+ent-ComputerScienceXenobiologyBounty = консоль ксенобиологических заказов
+    .desc = Используется для управления вознаграждаемыми заказами в сфере ксенобиологии.

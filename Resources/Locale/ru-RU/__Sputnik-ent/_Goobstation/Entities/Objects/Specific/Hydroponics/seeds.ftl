@@ -1,5 +1,4 @@
-ent-StrangeBerrySeeds = packet of strange berry seeds
+ent-StrangeBerrySeeds = пакет семян (странные ягоды)
     .desc = { ent-SeedBase.desc }
-
-ent-BluespaceTomatoSeeds = packet of blue tomato seeds
+ent-BluespaceTomatoSeeds = пакет семян (синие томаты)
     .desc = { ent-SeedBase.desc }

@@ -1,44 +1,30 @@
-ent-CMCatwalk = catwalk
-    .desc = A catwalk for easier EVA maneuvering and cable placement.
-
+ent-CMCatwalk = мостик
+    .desc = Мостик для удобного маневрирования и прокладки кабелей.
 ent-RMCCatwalkAI = { ent-CMCatwalk }
     .desc = { ent-CMCatwalk.desc }
-
 ent-RMCCatwalkAIWhite = { ent-CMCatwalk }
     .desc = { ent-CMCatwalk.desc }
-
 ent-CMCatwalkShiva = { ent-CMCatwalk }
     .desc = { ent-CMCatwalk.desc }
-
 ent-CMCatwalkPrison = { ent-CMCatwalk }
     .desc = { ent-CMCatwalk.desc }
-
 ent-RMCCatwalkKutjevo = { ent-CMCatwalk }
     .desc = { ent-CMCatwalk.desc }
-
 ent-RMCCatwalkStrata = { ent-CMCatwalk }
     .desc = { ent-CMCatwalk.desc }
-
-ent-RMCCatwalkHybrisa = solid metal grate
+ent-RMCCatwalkHybrisa = цельный мостик
     .desc = { ent-CMCatwalk.desc }
-
-ent-RMCCatwalkHybrisaLattice = structural lattice
+ent-RMCCatwalkHybrisaLattice = структурный мостик
     .desc = { ent-CMCatwalk.desc }
-
-ent-RMCCatwalkHybrisaElevator = solid metal grate
+ent-RMCCatwalkHybrisaElevator = цельный мостик лифта
     .desc = { ent-CMCatwalk.desc }
-
-ent-RMCMonorailStraight = monorail track
-    .desc = The rail system for the CORSAT monorail.
-
+ent-RMCMonorailStraight = монорельс
+    .desc = Рельсовая система для монорельса CORSAT.
 ent-RMCMonorailBend = { ent-RMCMonorailStraight }
     .desc = { ent-RMCMonorailStraight.desc }
-
-ent-RMCRailroadStraight = rails
-    .desc = Minecarts and rail vehicles go on these.
-
+ent-RMCRailroadStraight = рельсы
+    .desc = По ним едут вагонетки и рельсовый транспорт.
 ent-RMCRailroadBend = { ent-RMCRailroadStraight }
     .desc = { ent-RMCRailroadStraight.desc }
-
-ent-RMCRailroadBumper = rail bumpers
-    .desc = This (usually) stops minecarts and other rail vehicles at the end of a line of track.
+ent-RMCRailroadBumper = ограничители рельсов
+    .desc = Обычно останавливают вагонетки и другой рельсовый транспорт в конце линии.

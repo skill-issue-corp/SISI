@@ -1,36 +1,17 @@
-ent-MopItem = mop
-    .desc = A mop that can't be stopped, viscera cleanup detail awaits.
-
-ent-SolutionMopSmall = { ent-SolutionMop }
-    .desc = { ent-SolutionMop.desc }
-
-ent-SolutionMopNormal = { ent-SolutionMop }
-    .desc = { ent-SolutionMop.desc }
-
-ent-SolutionMopLarge = { ent-SolutionMop }
-    .desc = { ent-SolutionMop.desc }
-
-ent-AdvMopItem = advanced mop
-    .desc = Motorized mop that has a bigger reservoir and quickly replaces reagents inside with water. Automatic Clown Countermeasure not included.
-
-ent-WetFloorSign = wet floor sign
-    .desc = Caution! Wet Floor!
-
+ent-MopItem = швабра
+    .desc = Швабра, которую невозможно остановить, viscera cleanup detail ждёт вас.
+ent-AdvMopItem = продвинутая швабра
+    .desc = Моторизованная швабра с увеличенным резервуаром и возможностью уборки нескольких луж одновременно. Система автоматического противодействия клоунам в комплект не входит.
+ent-WetFloorSign = знак "мокрый пол"
+    .desc = Осторожно! Мокрый пол!
 ent-WetFloorSignMineExplosive = { ent-WetFloorSign }
     .desc = { ent-WetFloorSign.desc }
-    .suffix = Explosive
-
-ent-Plunger = plunger
-    .desc = A plunger with a red plastic suction-cup and a wooden handle. Used to unclog drains.
-
-ent-GoldenPlunger = golden plunger
-    .desc = A plunger with a plastic suction cup coated in a thin layer of gold given as a token of appreciation for years of service. Still used to unclog drains.
-
-ent-RagItem = damp rag
-    .desc = For cleaning up messes, you suppose.
-
-ent-WireBrush = wire brush
-    .desc = A bristly steel wire brush, perfect for scraping away even the toughest patches of rust.
-
-ent-WireBrushElectrical = electrical wire brush
-    .desc = A bristly steel wire brush with a moving head, allowing for a way easier time cleaning.
+    .suffix = Взрывчатка
+ent-Plunger = вантуз
+    .desc = Вантуз с красной пластиковой присоской и деревянной ручкой. Используется для прочистки засоров.
+ent-GoldenPlunger = золотой вантуз
+    .desc = Вантуз с пластиковым клапаном, покрытым тонким слоем золота, который выдаётся в благодарность за многолетнюю службу. Всё так же используется для прочистки канализации.
+ent-RagItem = тряпка
+    .desc = Предположительно, для устранения беспорядка.
+ent-WireBrush = проволочная щётка
+    .desc = Стальная щётка, идеально подходящая для удаления даже самых стойких участков ржавчины.

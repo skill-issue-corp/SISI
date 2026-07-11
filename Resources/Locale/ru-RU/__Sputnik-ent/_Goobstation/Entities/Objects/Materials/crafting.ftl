@@ -1,15 +1,12 @@
-ent-MaterialHexNut = steel hex nut
-    .desc = A roughly bent nut made of steel.
-    .suffix = Full
-
+ent-MaterialHexNut = стальная шестигранная гайка
+    .desc = Грубо произведённая стальная гайка.
+    .suffix = Полный
 ent-MaterialHexNutSingle = { ent-MaterialHexNut }
+    .suffix = Один
     .desc = { ent-MaterialHexNut.desc }
-    .suffix = Single
-
-ent-MaterialScrew = steel screw
-    .desc = This screw is really rusty, you wouldn't want to get cut by it...
-    .suffix = Full
-
+ent-MaterialScrew = стальной винт
+    .desc = Этот винт сильно заржавел, вы бы не хотели порезаться об него...
+    .suffix = Полный
 ent-MaterialScrewSingle = { ent-MaterialScrew }
+    .suffix = Один
     .desc = { ent-MaterialScrew.desc }
-    .suffix = Single

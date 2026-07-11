@@ -1,2 +1,2 @@
-ent-TelecomTransmitter = telecommunication transmitter
-    .desc = When powered, it allows telecomunication servers to expand their signal.
+ent-TelecomTransmitter = телекоммуникационный передатчик
+    .desc = Когда запитан, позволяет телекоммуникационным серверам усиливать свой сигнал.

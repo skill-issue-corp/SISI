@@ -1,2 +1,2 @@
-ent-DevilGrip = devils grip
-    .desc = What little fraction of your power remains in this realm, channeled into your hands.
+ent-DevilGrip = дьявольский захват
+    .desc = Тот небольшой остаток твоей силы, что остался в этом мире, сосредоточенный в твоих руках.

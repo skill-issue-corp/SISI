@@ -1,8 +1,6 @@
-ent-MobBlobPod = Blob pod
-    .desc = An ordinary person fighting opponents, not like a thing attached to a tile, zombifies corpses.
-
-ent-MobBlobBlobbernaut = Blobbernaut
-    .desc = Juggernaut, but blob! when the station crew shows full hatred of you, with the help of such strong men you can organize a blitzkriek if you tell them the plan in advance.
-
-ent-MobObserverBlob = Blob observer
+ent-MobBlobPod = Блоб-капля
+    .desc = Обычное существо, сражающееся с противниками — не как привязанная к плитке масса. Может зомбировать трупы.
+ent-MobBlobBlobbernaut = Блоббернаут
+    .desc = Джаггернаут, но блоб! Когда экипаж станции питает к тебе лютую ненависть, с помощью таких сильных союзников можно устроить блицкриг — если заранее продумать план.
+ent-MobObserverBlob = Наблюдатель-блоб
     .desc = { "" }

@@ -1,28 +1,21 @@
-ent-SonicScrewdriver = sonic screwdriver
-    .desc = Wzzzzz....
-    .suffix = DO NOT MAP
-
-ent-RCDChrono = futuristic RCD
-    .desc = A tool that can build a station from scratch in minutes.
-
-ent-HandheldFax = handheld fax
-    .desc = A tool that can send ton of paper on Centcomm fax.
-
-ent-HandheldFaxNanorep = nanotrasen representative handheld fax
+ent-SonicScrewdriver = звуковая отвёртка
+    .desc = Взззззззз....
+    .suffix = НЕ МАПИТЬ
+ent-RCDChrono = футуристический РСУ
+    .desc = Инструмент, с помощью которого можно создать станцию с нуля за считанные минуты.
+ent-HandheldFax = ручной факс
+    .desc = Инструмент, который может отправлять тонны бумаги на факс Центрального Командования.
+ent-HandheldFaxNanorep = ручной факс представителя NanoTrasen
+    .suffix = Представителя NanoTrasen
     .desc = { ent-HandheldFax.desc }
-    .suffix = Nanotrasen Representative
-
-ent-HandheldFaxOfficial = CentComm official handheld fax
+ent-HandheldFaxOfficial = ручной факс ЦК
+    .suffix = ЦК
     .desc = { ent-HandheldFax.desc }
-    .suffix = CentComm Official
-
-ent-MultitoolBorg = borg multitool
-    .desc = An advanced tool to copy, store, and send electrical pulses and signals through wires and machines.
-
-ent-RPDRecharging = experimental RPD
-    .desc = A bluespace-enhanced rapid piping device that passively generates its own compressed matter.
-    .suffix = AutoRecharge
-
-ent-RCDRechargingCE = experimental RCD
-    .desc = Rapid Construction Device which creates compressed matter on the fly using an internal fabricator.
-    .suffix = AutoRecharge
+ent-MultitoolBorg = мультитул борга
+    .desc = Усовершенствованный инструмент для копирования, хранения и передачи электрических импульсов и сигналов по проводам и машинам.
+ent-RPDRecharging = экспериментальный РФУ
+    .desc = Усовершенствованное блюспейс устройство для быстрой транспортировки по трубопроводу, которое пассивно генерирует собственное сжатое вещество.
+    .suffix = Автозарядка
+ent-RCDRechargingCE = экспериментальный РСУ
+    .desc = Усовершенствованное блюспейс устройство для быстрого строительства, создающее сжатую материю при помощи встроенного фабрикатора.
+    .suffix = Автозарядка

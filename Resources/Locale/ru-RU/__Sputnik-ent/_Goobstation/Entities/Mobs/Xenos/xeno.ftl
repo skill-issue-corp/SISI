@@ -1,58 +1,42 @@
-ent-CMBaseXeno = ancient base xeno
-    .desc = An alien drone.
-
-ent-CMMobXenoDrone = ancient drone
+ent-CMBaseXeno = древний ксеноморф
+    .desc = Инопланетный дрон.
+ent-CMMobXenoDrone = древний Дрон
     .desc = { ent-CMBaseXeno.desc }
-
-ent-CMMobXenoBurrower = ancient Burrower
-    .desc = A beefy alien with sharp claws.
-
-ent-CMMobXenoWarrior = ancient warrior
-    .desc = A beefy alien with an armored carapace.
-
-ent-CMMobXenoCrusher = ancient crusher
-    .desc = A huge alien with an enormous armored crest.
-
-ent-CMMobXenoRavager = ancient ravager
-    .desc = A huge, nasty red alien with enormous scythed claws.
-
-ent-CMMobXenoKing = ancient king
-    .desc = A massive alien covered in spines and armoured plates.
-
-ent-CMMobXenoQueen = ancient queen
-    .desc = The Queen, in all her glory.
-
-ent-CMMobXenoRogueKing = ancient rogue king
-    .desc = Driven into isolation, after all these years, this King has grown to be an unstoppable killing machine.
-
+ent-CMMobXenoBurrower = древний Бурильщик
+    .desc = Мускулистый ксено с острыми когтями.
+ent-CMMobXenoWarrior = древний Воитель
+    .desc = Мускулистый ксено с бронёным панцирем.
+ent-CMMobXenoCrusher = древний Дробитель
+    .desc = Огромный ксено с массивным бронированным гребнем.
+ent-CMMobXenoRavager = древний Разрушитель
+    .desc = Огромный злобный красный ксено с гигантскими серповидными когтями.
+ent-CMMobXenoKing = древний Король
+    .desc = Огромный ксено, покрытый шипами и бронированными пластинами.
+ent-CMMobXenoQueen = древняя Королева
+    .desc = Королева во всей своей славе.
+ent-CMMobXenoRogueKing = древний Король-отступник
+    .desc = Долгие годы в изоляции сделали этого Короля непреодолимой машиной для убийства.
 ent-CMMobXenoDroneSentient = { ent-CMMobXenoDrone }
+    .suffix = Роль призрака
     .desc = { ent-CMMobXenoDrone.desc }
-    .suffix = Sentient
-
 ent-CMMobXenoBurrowerSentient = { ent-CMMobXenoBurrower }
+    .suffix = Роль призрака
     .desc = { ent-CMMobXenoBurrower.desc }
-    .suffix = Sentient
-
 ent-CMMobXenoWarriorSentient = { ent-CMMobXenoWarrior }
+    .suffix = Роль призрака
     .desc = { ent-CMMobXenoWarrior.desc }
-    .suffix = Sentient
-
 ent-CMMobXenoCrusherSentient = { ent-CMMobXenoCrusher }
+    .suffix = Роль призрака
     .desc = { ent-CMMobXenoCrusher.desc }
-    .suffix = Sentient
-
 ent-CMMobXenoRavagerSentient = { ent-CMMobXenoRavager }
+    .suffix = Роль призрака
     .desc = { ent-CMMobXenoRavager.desc }
-    .suffix = Sentient
-
 ent-CMMobXenoKingSentient = { ent-CMMobXenoKing }
+    .suffix = Роль призрака
     .desc = { ent-CMMobXenoKing.desc }
-    .suffix = Sentient
-
 ent-CMMobXenoQueenSentient = { ent-CMMobXenoQueen }
+    .suffix = Роль призрака
     .desc = { ent-CMMobXenoQueen.desc }
-    .suffix = Sentient
-
 ent-CMMobXenoRogueKingSentient = { ent-CMMobXenoRogueKing }
+    .suffix = Роль призрака
     .desc = { ent-CMMobXenoRogueKing.desc }
-    .suffix = Sentient

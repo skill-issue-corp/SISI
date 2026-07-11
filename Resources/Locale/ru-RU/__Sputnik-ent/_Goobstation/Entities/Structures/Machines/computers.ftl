@@ -1,2 +1,2 @@
-ent-ComputerVirology = virology console
-    .desc = Used to view information about analyzed diseases and to name them.
+ent-ComputerVirology = консоль вирусологии
+    .desc = Используется для просмотра информации анализируемых болезней и их наименования.

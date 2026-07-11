@@ -1,5 +1,4 @@
-ent-CartridgeHighCaliber = cartridge (.50 anti-materiel)
+ent-CartridgeHighCaliber = патрон (.50 крупнокалиберный)
     .desc = { ent-BaseCartridge.desc }
-
-ent-CartridgeHighCaliberExplosive = cartridge (.50 high-explosive incendiary)
+ent-CartridgeHighCaliberExplosive = патрон (.50 взрывной зажигательный)
     .desc = { ent-BaseCartridge.desc }

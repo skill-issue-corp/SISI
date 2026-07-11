@@ -1,29 +1,21 @@
-ent-SolarPanelBasePhysSprite = solar panel
+ent-SolarPanelBasePhysSprite = солнечная панель
     .desc = { "" }
-
-ent-SolarPanelPlasma = solar panel plasma
-    .desc = A few sheets of plasma glass that generate electricity when hit by photons.
-
-ent-SolarPanelUranium = solar panel uranium
-    .desc = A few sheets of uranium glass that generate electricity when hit by photons.
-
-ent-SolarPanel = solar panel
-    .desc = A few sheets of glass that generate electricity when hit by photons.
-
-ent-SolarPanelBroken = solar panel
-    .desc = A broken solar panel.
-    .suffix = Broken
-
-ent-SolarPanelPlasmaBroken = plasma solar panel
-    .desc = A broken plasma solar panel.
-    .suffix = Broken
-
-ent-SolarPanelUraniumBroken = uranium solar panel
-    .desc = A broken uranium solar panel.
-    .suffix = Broken
-
-ent-SolarAssembly = solar assembly
-    .desc = A solar assembly. Insert glass to build a solar panel.
-
-ent-SolarTracker = solar tracker
-    .desc = A solar tracker. Tracks the nearest star.
+ent-SolarPanelPlasma = плазменная солнечная панель
+    .desc = Плазменная солнечная панель, вырабатывающая электроэнергию.
+ent-SolarPanelUranium = урановая солнечная панель
+    .desc = Урановая солнечная панель, вырабатывающая электроэнергию.
+ent-SolarPanel = солнечная панель
+    .desc = Солнечная панель, вырабатывающая электроэнергию.
+ent-SolarPanelBroken = солнечная панель
+    .suffix = Сломанная
+    .desc = Сломанная солнечная панель.
+ent-SolarPanelPlasmaBroken = плазменная солнечная панель
+    .desc = Сломанная плазменная солнечная панель.
+    .suffix = Сломанная
+ent-SolarPanelUraniumBroken = урановая солнечная панель
+    .desc = Сломанная урановая солнечная панель.
+    .suffix = Сломанная
+ent-SolarAssembly = каркас солнечной панели
+    .desc = Каркас солнечной панели. Закрепите чтобы начать строить солнечную панель или солнечный трекер.
+ent-SolarTracker = солнечный трекер
+    .desc = Солнечный трекер. Отслеживает ближайшую звезду.

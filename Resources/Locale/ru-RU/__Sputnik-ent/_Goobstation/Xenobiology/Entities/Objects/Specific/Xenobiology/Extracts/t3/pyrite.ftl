@@ -1,2 +1,2 @@
-ent-PyriteSlimeExtract = pyrite slime extract
+ent-PyriteSlimeExtract = пиритовый экстракт слайма
     .desc = { ent-BaseSlimeExtract.desc }

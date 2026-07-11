@@ -1,32 +1,27 @@
-ent-ClothingEyesGlassesMedSec = medical security glasses
-    .desc = Sunglasses with a medical and security hud
-
-ent-ClothingEyesPrescriptionGlasses = prescription glasses
-    .desc = Your insurance doesn't cover these. Don't lose them.
-
-ent-ClothingEyesGlassesBroken = broken glasses
-    .desc = My glasses! I can't see without my glasses!
-
-ent-ClothingEyesGlassesDiag = diagnostic glasses
-    .desc = Sunglasses with a diagnostic hud.
-
-ent-ClothingEyesGlassesMed = medical glasses
-    .desc = Sunglasses with a medical hud.
-
-ent-ClothingEyesGlassesDeathsquad = central commander shades
-    .desc = Pride. Hubris. Wrath. It's not a sin if you're right.
-    .suffix = DO NOT MAP
-
-ent-ClothingEyesGlassesCentComm = central command shades
-    .desc = A pair of shades designed for central command personnel. It's nothing personal.
-    .suffix = DO NOT MAP
-
-ent-ClothingEyesGlassesCentCommNoThermal = central command shades
-    .desc = A pair of shades designed for central command personnel. Comes with more features than you could imagine.
-    .suffix = No thermals, DO NOT MAP
-
-ent-ClothingEyesGlassesMedDiag = meddiag glasses
-    .desc = Sunglasses with a medical and diagnostic hud.
-
-ent-ClothingEyesGlassesSecurityAdvanced = advanced security goggles
-    .desc = A set of goggles that provide flash protection, a security HUD, and basic thermal vision.
+ent-ClothingEyesGlassesMedSec = медицинские очки безопасности
+    .desc = Солнцезащитные очки с медицинским и охранным ИЛС.
+ent-ClothingEyesPrescriptionGlasses = очки с рецептом
+    .desc = Ваша страховка их не покрывает. Не потеряйте их.
+ent-ClothingEyesGlassesBroken = сломанные очки
+    .desc = Мои очки! Я не вижу без них!
+ent-ClothingEyesGlassesDiag = диагностические очки
+    .desc = Солнцезащитные очки с диагностическим ИЛС.
+ent-ClothingEyesGlassesMed = медицинские очки
+    .desc = Солнцезащитные очки с медицинским ИЛС.
+ent-ClothingEyesGlassesDeathsquad = очки командующего Эскадрона Смерти
+    .desc = Гордость. Гордыня. Гнев. Это не грех, если ты прав.
+    .suffix = НЕ МАППИТЬ
+ent-ClothingEyesGlassesCentComm = очки ЦК
+    .desc = Очки для персонала центрального командования. Ничего личного.
+    .suffix = НЕ МАППИТЬ
+ent-ClothingEyesGlassesCentCommNoThermal = очки ЦК
+    .desc = Пара очков, созданных для персонала Центрального Командования. Оснащены таким функционалом, чем сложно представить.
+    .suffix = Без температуры, НЕ МАППИТЬ
+ent-ClothingEyesGlassesBSO = очки офицера "Синий Щит"
+    .desc = Солнцезащитные очки с медицинским, охранным и диагностическим ИЛС.
+ent-ClothingEyesGlassesMedDiag = меддиагностические очки
+    .desc = Солнцезащитные очки с медицинским и диагностическим ИЛС.
+ent-ClothingEyesGlassesSecurityAdvanced = продвинутые охранные очки
+    .desc = Набор очков, обеспечивающих защиту от вспышек, охранный ИЛС и базовое тепловизионное зрение.
+ent-ClothingEyesGlassesSecurityContraDetect = контрабандные охранные очки
+    .desc = Набор очков, обеспечивающих защиту от вспышек, охранный ИЛС и детектор контрабанды.

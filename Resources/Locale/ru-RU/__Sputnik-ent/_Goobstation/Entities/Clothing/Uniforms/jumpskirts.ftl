@@ -1,26 +1,20 @@
-ent-CentcomAgentSkirt = centcom agent skirt
-    .desc = A skirt worn by CentComs legal team. Smells of burnt coffee.
-
-ent-ClothingUniformJumpskirtNanotrasenRepresentative = nanotrasen representative skirt
-    .desc = A black skirt worn by officials.
-
-ent-ClothingUniformSkirtMailCarrier = mail carrier's jumpskirt
-    .desc = Enemy of dogs everywhere.
-
-ent-ClothingUniformJumpskirtCommandMaid = command maid uniform
-    .desc = A stylish maid uniform specially designed for elite Command Maids. Combines professionalism with a touch of elegance.
-
-ent-ClothingUniformJumpskirtSalvageSpecialist = salvage specialist's jumpskirt
-    .desc = It's a snappy jumpskirt with a sturdy set of overalls. It's very dirty.
-
-ent-ClothingUniformJumpskirtShaftMiner = shaft miner's jumpskirt
-    .desc = It's a snappy jumpskirt with a sturdy set of overalls. It looks burnt.
-
-ent-ClothingUniformJumpskirtResearchDirectorAlt = research director's turtleneck
-    .desc = It's a turtleneck worn by those with the know-how to achieve the position of Research Director. Its fabric provides minor protection from biological contaminants.
-
-ent-ClothingUniformJumpskirtReporter = reporter's dress
-    .desc = An extravagant black dress designed to catch the attention of as many people as possible.
-
-ent-ClothingUniformJumpskirtCentcomPencilSkirt = centcom pencil skirt
-    .desc = An elegant green formal blouse paired with a sleek black pencil skirt, decorated with exquisite golden detailing.
+ent-CentcomAgentSkirt = юбка агента ЦК
+    .desc = Юбка, которую носят сотрудники юридического отделения ЦК. Пахнет сгоревшим кофе.
+ent-ClothingUniformJumpskirtNanotrasenRepresentative = юбка представителя NanoTrasen
+    .desc = Чёрная юбка, которую носят официальные лица.
+ent-ClothingUniformJumpskirtBlueshieldOfficer = юбка-сарафан офицера офицера "Синий Щит"
+    .desc = Серо-голубой короткий сарафан с коротким рукавом из прочного материала. Стандартное снаряжение офицера "Синий Щит".
+ent-ClothingUniformSkirtMailCarrier = юбка-сарафан почтальона
+    .desc = Враг собак повсюду.
+ent-ClothingUniformJumpskirtReporter = платье репортёра
+    .desc = Вычурное чёрное платье, созданное чтобы привлечь внимание как можно большего количества людей.
+ent-ClothingUniformJumpskirtTrainer = юбка-сарафан NCT
+    .desc = Юбка-сарафан, выданная тренерам карьеры Nanotrasen. Наполняет чувством гордости.
+ent-ClothingUniformJumpskirtSalvageSpecialist = юбка-комбинезон утилизатора
+    .desc = Элегантная юбка-комбинезон с прочным полукомбинезоном. Очень грязная.
+ent-ClothingUniformJumpskirtShaftMiner = юбка-комбинезон шахтёра
+    .desc = Элегантная юбка-комбинезон с прочным полукомбинезоном. Выглядит обгоревшей.
+ent-ClothingUniformJumpskirtResearchDirectorAlt = юбка-комбинезон научного руководителя
+    .desc = Юбка, которую носят те, кому хватило знаний, чтобы занять должность научного руководителя. Её ткань обеспечивает незначительную защиту от биологических загрязнений.
+ent-ClothingUniformJumpskirtCommandMaid = форма горничной командования
+    .desc = Стильная форма горничной, разработанная специльно для элитных горничных командования. Сочетает профессионализм и элегантность.

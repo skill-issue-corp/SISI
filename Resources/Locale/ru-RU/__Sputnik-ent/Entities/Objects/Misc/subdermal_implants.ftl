@@ -1,62 +1,42 @@
-ent-BaseSubdermalImplant = implant
-    .desc = A microscopic chip that's injected under the skin.
-
-ent-SadTromboneImplant = sad trombone implant
-    .desc = This implant plays a sad tune when the user dies.
-
-ent-LightImplant = light implant
-    .desc = This implant emits light from the user's skin on activation.
-
-ent-BikeHornImplant = bike horn implant
-    .desc = This implant lets the user honk anywhere at any time.
-
-ent-TrackingImplant = tracking implant
-    .desc = This implant has a tracking device attached to the suit sensor network.
-
-ent-StorageImplant = storage implant
-    .desc = This implant grants hidden storage within a person's body using bluespace technology.
-
-ent-FreedomImplant = freedom implant
-    .desc = This implant lets the user break out of hand restraints up to three times before ceasing to function anymore.
-
-ent-UplinkImplant = uplink implant
-    .desc = This implant lets the user access a hidden Syndicate uplink at will.
-
-ent-EmpImplant = EMP implant
-    .desc = This implant creates an electromagnetic pulse when activated.
-
-ent-ScramImplant = scram implant
-    .desc = This implant randomly teleports the user within a large radius when activated.
-
-ent-DnaScramblerImplant = DNA scrambler implant
-    .desc = This implant lets the user randomly change their appearance and name once.
-
-ent-ChameleonControllerImplant = chameleon controller implant
-    .desc = This implant allows you to instantly change the appearance of all worn chameleon clothing.
-
-ent-VoiceMaskImplant = identity mask implant
-    .desc = This implant allows you to change your identity at will.
-
-ent-MicroBombImplant = micro-bomb implant
-    .desc = This implant detonates the user upon activation or upon death.
-
-ent-MacroBombImplant = macro-bomb implant
-    .desc = This implant creates a large explosion on death after a preprogrammed countdown.
-
-ent-DeathAcidifierImplant = death-acidifier implant
-    .desc = This implant melts the user and their equipment upon death.
-
-ent-DeathRattleImplant = death rattle implant
-    .desc = This implant will inform the Syndicate radio channel should the user fall into critical condition or die.
-
-ent-FakeMindShieldImplant = fake mindshield implant
-    .desc = This implant allows the implanter to produce a fake signal that NT security huds use to identify individuals implanted with a mindshield.
-
-ent-MindShieldImplant = mindshield implant
-    .desc = This implant will ensure loyalty to Nanotrasen and prevent mind control devices.
-
-ent-RadioImplantCentcomm = radio implant
-    .desc = This implant grants access to the Centcomm channel without a headset. Only authorized for Centcomm employees.
-
-ent-DeathRattleImplantCentcomm = centcomm death rattle implant
-    .desc = This implant will inform the Centcomm radio channel should the user fall into critical condition or die.
+ent-BaseSubdermalImplant = имплант
+    .desc = Микрочип, который вживляют под кожу.
+ent-SadTromboneImplant = имплант "грустный тромбон"
+    .desc = Этот имплант играет грустную мелодию, когда пользователь умирает.
+ent-LightImplant = имплант "свет"
+    .desc = Этот имплант излучает свет из кожи пользователя при активации.
+ent-BikeHornImplant = имлант "велосипедный клаксон"
+    .desc = Этот имплант позволяет пользователю сигналить в любом месте и в любое время.
+ent-TrackingImplant = имплант "трекер"
+    .desc = Этот имплант имеет устройство слежения, подключённое к сети датчиков костюма, а также монитор состояния для радиоканала безопасности.
+ent-StorageImplant = имплант "хранилище"
+    .desc = Этот имплант обеспечивает скрытое хранилище в теле человека, используя блюспейс технологию.
+ent-FreedomImplant = имплант "свобода"
+    .desc = Этот имплант позволяет пользователю вырваться из наручников до трёх раз, прежде чем он перестанет функционировать.
+ent-RadioImplant = имплант "радио"
+    .desc = Этот имплант даёт доступ к радиочастоте Синдиката без гарнитуры.
+ent-UplinkImplant = имплант "аплинк"
+    .desc = Этот имплант позволяет пользователю получить доступ к скрытому аплинку Синдиката по желанию.
+ent-EmpImplant = имплант "ЭМИ"
+    .desc = Этот имплант создаёт электромагнитный импульс при активации.
+ent-ScramImplant = имплант "побег"
+    .desc = Этот имплант при активации случайным образом телепортирует пользователя в большом радиусе.
+ent-DnaScramblerImplant = имплант "миксер ДНК"
+    .desc = Этот имплант позволяет пользователю случайным образом изменить свою внешность и имя один раз.
+ent-ChameleonControllerImplant = имплант "контроллер хамелеона"
+    .desc = Этот имплант позволяет пользователю мгновенно менять внешний вид всех надетых хамелеон-вещей.
+ent-MicroBombImplant = имплант "микробомба"
+    .desc = Этот имплант взрывает пользователя при активации или после смерти.
+ent-MacroBombImplant = имплант "макробомба"
+    .desc = Этот имплант создает большой взрыв при смерти после запрограммированного обратного отсчета.
+ent-DeathAcidifierImplant = имплант "посмертный растворитель"
+    .desc = Этот имплант расплавляет пользователя и его снаряжение после смерти.
+ent-DeathRattleImplant = имплант "предсмертный хрип"
+    .desc = Этот имплант сообщит по радиоканалу Синдиката, если пользователь окажется в критическом состоянии или умрёт.
+ent-FakeMindShieldImplant = имплант "фальшивый Щит разума"
+    .desc = Этот имплант позволяет имплантеру генерировать фальшивый сигнал, по которому охранные визоры NT идентифицируют людей, имплантированных Щитом разума.
+ent-MindShieldImplant = имплант "Щит разума"
+    .desc = Этот имплант обеспечит лояльность к Nanotrasen и предотвратит использование устройств контроля разума.
+ent-RadioImplantCentcomm = имплант "радио"
+    .desc = Этот имплант даёт доступ к радиочастоте Центрального Командования без гарнитуры. Использование разрешено только сотрудникам ЦК.
+ent-DeathRattleImplantCentcomm = имплант "предсмертный хрип" ЦК
+    .desc = Этот имплант сообщит по радиоканалу Центрального Командования, если пользователь окажется в критическом состоянии или умрёт.

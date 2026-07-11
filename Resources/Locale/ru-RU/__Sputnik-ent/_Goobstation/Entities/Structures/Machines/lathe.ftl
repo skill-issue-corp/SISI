@@ -1,11 +1,10 @@
-ent-EngineeringTechFab = engineering techfab
-    .desc = Prints equipment and circuitboards for use by engineering department.
-
-ent-CargoTechFab = cargo techfab
-    .desc = Prints equipment and circuitboards for use by cargo department.
-
-ent-ScienceTechFab = science techfab
-    .desc = Prints equipment and circuitboards for use by science department.
-
-ent-ServiceTechFab = service techfab
-    .desc = Prints equipment and circuitboards for use by service department.
+ent-EngineeringTechFab = инженерный ТехФаб
+    .desc = Печатает снаряжение и машинные платы для инженерного отдела.
+ent-CargoTechFab = ТехФаб снабжения
+    .desc = Печатает снаряжение и машинные платы для отдела снабжения.
+ent-ScienceTechFab = научный ТехФаб
+    .desc = Печатает снаряжение и машинные платы для научного отдела.
+ent-ServiceTechFab = сервисный ТехФаб
+    .desc = Печатает снаряжение и машинные платы для сервисного отдела.
+ent-ERTTechFab = ОБР ТехФаб
+    .desc = Стандартные боеприпасы и снаряжение для Отрядов Быстрого Реагирования. Быстро, просто, надежно.

@@ -1,63 +1,48 @@
-ent-BaseTableFlock = humming surface
-    .desc = A table? An alien supercomputer? Well, it's flat, you can put stuff on it.
-    .suffix = Full
-
+ent-BaseTableFlock = гудящая поверхность
+    .desc = Стол? Инопланетный суперкомпьютер? Ну, она плоская, на неё можно что-то ставить.
+    .suffix = Целый
 ent-CenterTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = center
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-middleTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = middle
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-middleVTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = middleV
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-northTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = north
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-southTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = south
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-leftTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = left
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-rightTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = right
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-TNorthTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = TNorth
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-TSouthTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = TSouth
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-TLeftTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = TLeft
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-TRightTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = TRight
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-NECornerTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = NECorner
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-NWCornerTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = NWCorner
-
+    .desc = { ent-BaseTableFlock.desc }
 ent-SECornerTableFlock = { ent-BaseTableFlock }
-    .desc = { ent-BaseTableFlock.desc }
     .suffix = SECorner
-
-ent-SWCornerTableFlock = { ent-BaseTableFlock }
     .desc = { ent-BaseTableFlock.desc }
+ent-SWCornerTableFlock = { ent-BaseTableFlock }
     .suffix = SWCorner
+    .desc = { ent-BaseTableFlock.desc }

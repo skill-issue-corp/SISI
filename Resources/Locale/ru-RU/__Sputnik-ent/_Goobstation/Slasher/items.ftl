@@ -1,17 +1,12 @@
-ent-SlasherMachete = machete
-    .desc = A large, vicious looking blade.
-
-ent-ClothingHeadHatSlasherMask = slasher mask
-    .desc = A head-mounted face cover designed to protect the wearer completely from space-arc eye.
-
-ent-ClothingOuterSlasherApron = slasher apron
-    .desc = A fancy apron for a stylish person.
-
-ent-ClothingHandsSlasherGloves = slasher gloves
-    .desc = Heavy black gloves, stained by time.
-
-ent-ClothingShoesSlasher = slasher shoes
-    .desc = Old leather boots that have seen better days.
-
-ent-SlasherMeatSpike = Ominous Meat Spike
-    .desc = You might want to run.
+ent-SlasherMachete = мачете
+    .desc = Большой жуткий клинок, прекрасно режущий конечности ваших жертв.
+ent-ClothingHeadHatSlasherMask = маска мясника
+    .desc = Ржавая сварочная маска, прекрасно скрывающая лицо от посторонних глаз.
+ent-ClothingOuterSlasherApron = фартук мясника
+    .desc = Необычный фартук для тех, кому нравится нести в этот мир боль и страдание.
+ent-ClothingHandsSlasherGloves = перчатки мясника
+    .desc = Тяжелые чёрные перчатки, запятнанные кровью.
+ent-ClothingShoesSlasher = ботинки мясника
+    .desc = Старые кожаные ботинки, знавшие лучшие времена.
+ent-SlasherMeatSpike = зловещий мясной крюк
+    .desc = Возможно, вам стоит бежать.

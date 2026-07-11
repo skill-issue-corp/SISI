@@ -1,18 +1,14 @@
-ent-IngotBase = { ent-MaterialBase }
-    .desc = A heavy metal ingot stamped with the Nanotrasen logo.
-
-ent-IngotGold = gold bar
+ent-IngotBase = { ent-BaseItem }
+    .desc = Тяжёлый металлический слиток с выдавленным логотипом NanoTrasen.
+ent-IngotGold = золотой слиток
+    .suffix = Полный
     .desc = { ent-IngotBase.desc }
-    .suffix = Full
-
-ent-IngotGold1 = gold bar
+ent-IngotGold1 = золотой слиток
+    .suffix = Один
     .desc = { ent-IngotGold.desc }
-    .suffix = Single
-
-ent-IngotSilver = silver bar
+ent-IngotSilver = серебряный слиток
+    .suffix = Полный
     .desc = { ent-IngotBase.desc }
-    .suffix = Full
-
-ent-IngotSilver1 = silver bar
+ent-IngotSilver1 = серебряный слиток
+    .suffix = Один
     .desc = { ent-IngotSilver.desc }
-    .suffix = Single

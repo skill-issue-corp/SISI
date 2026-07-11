@@ -1,15 +1,12 @@
-ent-MobPlagueRatSmall = plague rat
-    .desc = A diseased looking rat.
-    .suffix = Wraith
-
-ent-MobPlagueRatMedium = plague-ridden rat
-    .desc = A wretched, disgusting rat.
-    .suffix = Wraith
-
-ent-MobPlagueRatLarge = Bloated rat mass
-    .desc = A horrible mass of pus and warts, that once used to look like a rat.
-    .suffix = Wraith
-
-ent-MobMadRat = mad rat
-    .desc = A very weak rat spawned from a den.
-    .suffix = Wraith
+ent-MobPlagueRatSmall = чумная крыса
+    .desc = Болезненного вида крыса.
+    .suffix = Фантом
+ent-MobPlagueRatMedium = заражённая чумой крыса
+    .desc = Жалкая, отвратительная крыса.
+    .suffix = Фантом
+ent-MobPlagueRatLarge = вздувшаяся крысиная масса
+    .desc = Ужасная масса гноя и бородавок, которая когда-то выглядела как крыса.
+    .suffix = Фантом
+ent-MobMadRat = бешеная крыса
+    .desc = Очень слабая крыса, появляющаяся из логова.
+    .suffix = Фантом

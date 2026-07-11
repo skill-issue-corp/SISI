@@ -1,5 +1,4 @@
-ent-BaseCandelabra = candelabra
-    .desc = Just don't try swinging from it!
-
-ent-CandelabraLit = candelabra
-    .desc = Just don't try swinging from it!
+ent-BaseCandelabra = канделябр
+    .desc = Только не пытайся на нём качаться!
+ent-CandelabraLit = { ent-BaseCandelabra }
+    .desc = { ent-BaseCandelabra.desc }

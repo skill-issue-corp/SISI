@@ -1,48 +1,23 @@
 ent-BorgChassisSelectable = { ent-BaseBorgChassisNT }
     .desc = { ent-BaseBorgChassisNT.desc }
-
-ent-BorgChassisGeneric = generic cyborg
+ent-BorgChassisGeneric = обычный борг
+    .suffix = Выбранный тип
     .desc = { ent-BorgChassisSelectable.desc }
-    .suffix = type picked
-
-ent-BorgChassisMining = salvage cyborg
+ent-BorgChassisMining = борг-шахтёр
     .desc = { ent-BorgChassisSelectable.desc }
-
-ent-BorgChassisEngineer = engineer cyborg
+ent-BorgChassisEngineer = борг-инженер
     .desc = { ent-BorgChassisSelectable.desc }
-
-ent-BorgChassisJanitor = janitor cyborg
+ent-BorgChassisJanitor = борг-уборщик
     .desc = { ent-BorgChassisSelectable.desc }
-
-ent-BorgChassisMedical = medical cyborg
+ent-BorgChassisMedical = борг-доктор
     .desc = { ent-BorgChassisSelectable.desc }
-
-ent-BorgChassisService = service cyborg
+ent-BorgChassisService = борг-официант
     .desc = { ent-BorgChassisSelectable.desc }
-
-ent-BorgChassisSyndicateAssault = syndicate assault cyborg
-    .desc = A lean, mean killing machine with access to a variety of deadly modules.
-
-ent-BorgChassisSyndicateMedical = syndicate medical cyborg
-    .desc = A combat medical cyborg. Has limited offensive potential, but makes more than up for it with its support capabilities.
-
-ent-BorgChassisSyndicateSaboteur = syndicate saboteur cyborg
-    .desc = A streamlined engineering cyborg, equipped with covert modules. Its chameleon projector lets it disguise itself as a Nanotrasen cyborg.
-
-ent-BorgChassisDerelict = derelict cyborg
-    .desc = A man-machine hybrid that assists in station activity. This one is in a state of great disrepair.
-
-ent-EngineeringBorgChassisDerelict = derelict engineer cyborg
-    .desc = A man-machine hybrid that assists the engineering department. This one seems to have chunks of strange crystals pockmarking its surface.
-
-ent-JanitorBorgChassisDerelict = derelict janitor cyborg
-    .desc = A man-machine hybrid that assists the service department. It's a bigger mess than anything it can clean up.
-
-ent-MedicalBorgChassisDerelict = derelict medical cyborg
-    .desc = A man-machine hybrid that assists the medical department. This one's needles don't look very sanitary.
-
-ent-MiningBorgChassisDerelict = derelict salvage cyborg
-    .desc = A man-machine hybrid that assists the cargo department. This one has seen the wrong side of a gibtonite chunk.
-
-ent-SyndicateAssaultBorgChassisDerelict = derelict syndicate assault cyborg
-    .desc = A lean, mean killing machine with access to a variety of deadly modules. This one is more rust-orange than blood-red.
+ent-BorgChassisSyndicateAssault = штурмовой борг Синдиката
+    .desc = Машина для убийств с доступом к различным смертоносным модулям.
+ent-BorgChassisSyndicateMedical = медицинский борг Синдиката
+    .desc = Боевой медицинский борг. Имеет ограниченный наступательный потенциал, но с лихвой компенсирует его своими вспомогательными возможностями.
+ent-BorgChassisSyndicateSaboteur = саботажный борг Синдиката
+    .desc = Изящный инженерный борг, оснащённый модулями скрытности. Проектор-хамелеон позволяет ему маскироваться под борга NanoTrasen.
+ent-BorgChassisDerelict = заброшенный борг
+    .desc = Гибрид человека и машины, помогающий в работе станции. Этот находится в очень запущенном состоянии.

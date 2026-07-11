@@ -1,2 +1,2 @@
-ent-EnchantUnslippable = Unslippable
+ent-EnchantUnslippable = Нескользящий
     .desc = { ent-BaseEnchant.desc }

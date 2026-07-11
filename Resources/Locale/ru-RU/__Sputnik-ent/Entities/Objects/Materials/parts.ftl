@@ -1,14 +1,23 @@
-ent-PartBase = { ent-MaterialBase }
-    .desc = { ent-MaterialBase.desc }
-
-ent-PartRodMetal = metal rod
+ent-PartBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-PartRodMetal = металлический стержень
+    .suffix = Полный
     .desc = { ent-PartBase.desc }
-    .suffix = Full
-
-ent-PartRodMetal10 = metal rod
-    .desc = { ent-PartRodMetal.desc }
+ent-PartRodMetal10 = металлический стержень
     .suffix = 10
-
-ent-PartRodMetal1 = metal rod
     .desc = { ent-PartRodMetal.desc }
-    .suffix = Single
+ent-PartRodMetal1 = металлический стержень
+    .suffix = Один
+    .desc = { ent-PartRodMetal.desc }
+ent-PartRodMetalLingering0 = { ent-PartRodMetal }
+    .suffix = Не исчезают закончившись, 0
+    .desc = { ent-PartRodMetal.desc }
+ent-FloorTileItemSteelLingering0 = { ent-FloorTileItemSteel }
+    .suffix = Не исчезают закончившись, 0
+    .desc = { ent-FloorTileItemSteel.desc }
+ent-FloorTileItemWhiteLingering0 = { ent-FloorTileItemWhite }
+    .suffix = Не исчезают закончившись, 0
+    .desc = { ent-FloorTileItemWhite.desc }
+ent-FloorTileItemDarkLingering0 = { ent-FloorTileItemDark }
+    .suffix = Не исчезают закончившись, 0
+    .desc = { ent-FloorTileItemDark.desc }

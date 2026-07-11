@@ -1,14 +1,12 @@
-ent-ClothingNeckStethoscope = stethoscope
-    .desc = An outdated medical apparatus for listening to the sounds of the human body. It also makes you look like you know what you're doing.
-
-ent-ActionStethoscope = Listen with stethoscope
-    .desc = { ent-BaseAction.desc }
-
-ent-ClothingNeckBling = bling
-    .desc = Damn, it feels good to be a gangster.
-
-ent-ClothingNeckLawyerbadge = lawyer badge
-    .desc = A badge to show that the owner is a 'legitimate' lawyer who passed the NT bar exam required to practice law.
-
-ent-Dinkystar = star sticker
-    .desc = A dinky lil star for only the hardest working security officers! It's not even sticky anymore.
+ent-ClothingNeckHeadphones = наушники
+    .desc = Качественные наушники от Drunk Masters, с хорошей звукоизоляцией.
+ent-ClothingNeckStethoscope = стетоскоп
+    .desc = Устаревший медицинский аппарат для прослушивания звуков человеческого тела. С ним вы будете выглядеть так, будто знаете, что делаете.
+ent-ActionStethoscope = Прослушать стетоскопом
+    .desc = { "" }
+ent-ClothingNeckBling = побрякушки
+    .desc = Чертовски круто быть гангстером.
+ent-ClothingNeckLawyerbadge = значок адвоката
+    .desc = Значок, свидетельствующий что владелец является "законным" юристом, сдавшим экзамен NanoTrasen, необходимый для занятия юридической практикой.
+ent-Dinkystar = наклейка-звёздочка
+    .desc = Маленькая звёздочка только для самых трудолюбивых сотрудников службы безопасности! Она уже даже не липкая.

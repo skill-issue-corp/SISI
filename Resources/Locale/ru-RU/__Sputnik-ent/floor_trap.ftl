@@ -1,31 +1,23 @@
 ent-CollideFloorTrap = { "" }
     .desc = { "" }
-
-ent-CollideFloorTrapSpawn = floor trap spawn
+ent-CollideFloorTrapSpawn = спавнер напольная ловушка
     .desc = { ent-CollideFloorTrap.desc }
-
-ent-FloorTrapExplosion = explosion floor trap
+ent-FloorTrapExplosion = напольная ловушка взрывная
     .desc = { ent-CollideFloorTrap.desc }
-
-ent-FloorTrapEMP = EMP floor trap
+ent-FloorTrapEMP = напольная ловушка ЭМИ
     .desc = { ent-CollideFloorTrap.desc }
-
 ent-SpawnFloorTrapCarp = { ent-CollideFloorTrapSpawn }
+    .suffix = Карп
     .desc = { ent-CollideFloorTrapSpawn.desc }
-    .suffix = Carp
-
 ent-SpawnFloorTrapBear = { ent-CollideFloorTrapSpawn }
+    .suffix = Медведь
     .desc = { ent-CollideFloorTrapSpawn.desc }
-    .suffix = Bear
-
 ent-SpawnFloorTrapKangaroo = { ent-CollideFloorTrapSpawn }
+    .suffix = Кенгуру
     .desc = { ent-CollideFloorTrapSpawn.desc }
-    .suffix = Kangaroo
-
 ent-SpawnFloorTrapXenoDrone = { ent-CollideFloorTrapSpawn }
+    .suffix = Ксено. Дрон
     .desc = { ent-CollideFloorTrapSpawn.desc }
-    .suffix = Xeno. Drone
-
 ent-SpawnFloorTrapXenoBurrower = { ent-CollideFloorTrapSpawn }
+    .suffix = Ксено. Бурильщик
     .desc = { ent-CollideFloorTrapSpawn.desc }
-    .suffix = Xeno. Burrower

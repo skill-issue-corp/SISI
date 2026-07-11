@@ -1,11 +1,8 @@
-ent-ForcedStealthStatusEffect = camouflage
+ent-ForcedStealthStatusEffect = камуфляж
     .desc = { ent-MobStatusEffectBase.desc }
-
-ent-ChangeFactionStatusEffect = faction change
+ent-ChangeFactionStatusEffect = смена фракции
     .desc = { ent-MobStatusEffectBase.desc }
-
-ent-StatusEffectFireImmune = burning immunity
+ent-StatusEffectFireImmune = иммунитет к огню
     .desc = { ent-MobStatusEffectBase.desc }
-
-ent-StatusEffectWeatherImmune = ash storm immunity
+ent-StatusEffectWeatherImmune = иммунитет к пепельной буре
     .desc = { ent-MobStatusEffectBase.desc }

@@ -1,10 +1,8 @@
 ent-MobMouseBlob = { ent-MobMouse }
+    .suffix = Блоб
     .desc = { ent-MobMouse.desc }
-    .suffix = Blob
-
-ent-SpawnPointGhostBlobRat = Mouse Blob Spawn Point
+ent-SpawnPointGhostBlobRat = Точка спавна блоб-мыши
+    .suffix = Роль призрака — блоб
     .desc = { ent-BaseAntagSpawner.desc }
-    .suffix = Blob Ghost Role
-
-ent-MindRoleBlob = Blob Role
+ent-MindRoleBlob = Роль блоба
     .desc = { ent-BaseMindRoleAntag.desc }

@@ -1,34 +1,27 @@
-ent-GasPipeSansLayers = gas pipe
-    .desc = Holds gas.
-
+ent-GasPipeSansLayers = газовая труба
+    .desc = Удерживает газ.
+ent-GasPipeBase = труба
+    .desc = Содержит газ.
 ent-VentCrawlerHolder = vent craw holder
     .desc = { "" }
-
-ent-GasPipeBase = { ent-GasPipeSansLayers }
-    .desc = { ent-GasPipeSansLayers.desc }
-
+ent-GasPipeNoOverlap = { ent-GasPipeBase }
+    .desc = { ent-GasPipeBase.desc }
 ent-GasPipeHalf = { ent-GasPipeBase }
+    .suffix = Половинная
     .desc = { ent-GasPipeBase.desc }
-    .suffix = Half
-
 ent-GasPipeStraight = { ent-GasPipeBase }
+    .suffix = Прямая
     .desc = { ent-GasPipeBase.desc }
-    .suffix = Straight
-
 ent-GasPipeBend = { ent-GasPipeBase }
+    .suffix = Угловая
     .desc = { ent-GasPipeBase.desc }
-    .suffix = Bend
-
 ent-GasPipeTJunction = { ent-GasPipeBase }
+    .suffix = Т-образная
     .desc = { ent-GasPipeBase.desc }
-    .suffix = TJunction
-
 ent-GasPipeFourway = { ent-GasPipeBase }
+    .suffix = Четверная
     .desc = { ent-GasPipeBase.desc }
-    .suffix = Fourway
-
-ent-GasPipeBroken = broken pipe
-    .desc = It used to hold gas.
-
-ent-GasPipeManifold = gas pipe manifold
-    .desc = Allows gas pipes of different configurations to be connected together.
+ent-GasPipeManifold = газовый коллектор
+    .desc = Позволяет газовым трубам разных конфигураций соединяться вместе.
+ent-GasPipeBroken = сломанная труба
+    .desc = Раньше в ней содержался газ.

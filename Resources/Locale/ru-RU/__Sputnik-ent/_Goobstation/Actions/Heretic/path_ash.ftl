@@ -1,20 +1,12 @@
-ent-ActionHereticJaunt = Ashen Passage
-    .desc = A short range spell that allows you to pass unimpeded through walls.
-
-ent-ActionHereticJauntLong = Ashen Passage
-    .desc = A long range spell that allows you to pass unimpeded through walls.
-
-ent-ActionHereticVolcanoBlast = Volcano Blast
-    .desc = Charge up a blast of fire that chains between nearby targets, setting them ablaze. Targets already on fire will take priority. If the target fails to catch ablaze, or extinguishes themselves before it bounces, the chain will stop.
-
-ent-ActionHereticNightwatcherRebirth = Nightwatcher's Rebirth
-    .desc = Drains nearby heathens engulfed in flames of their life force.
-
-ent-ActionHereticAscension1 = Oath of Flame
-    .desc = Create a ring of fire around you.
-
-ent-ActionHereticAscension2 = Fire Cascade
-    .desc = Burn everything in a large distance.
-
-ent-ActionHereticScorchedMantleToggleFlames = Toggle Flames
-    .desc = Toggles passive fire stack generation.
+ent-ActionHereticJaunt = Пепельный проход
+    .desc = Заклинание короткого действия, позволяющее проходить сквозь стены без препятствий.
+ent-ActionHereticJauntLong = Пепельный проход
+    .desc = Заклинание дальнего действия, позволяющее проходить сквозь стены без препятствий.
+ent-ActionHereticVolcanoBlast = Вулканический взрыв
+    .desc = Заряжает взрыв огня, который переходит между ближайшими целями, поджигая их.
+ent-ActionHereticNightwatcherRebirth = Возрождение Дозорного
+    .desc = Истощает жизненную силу ближайших язычников, охваченных пламенем.
+ent-ActionHereticAscension1 = Клятва пламени
+    .desc = Создаёт кольцо огня вокруг вас.
+ent-ActionHereticAscension2 = Поток огня
+    .desc = Сжигает всё на большом расстоянии.

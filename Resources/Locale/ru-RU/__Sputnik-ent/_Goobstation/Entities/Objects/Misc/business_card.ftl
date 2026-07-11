@@ -1,5 +1,4 @@
-ent-CentralCommandBusinessCard = centcomm business card
-    .desc = A green card with nanotrasen's logo. There's something written on the back.
-
-ent-TunnelClownBusinessCard = tunnel clown business card
+ent-CentralCommandBusinessCard = визитка ЦК
+    .desc = Зелёная карточка с логотипом NanoTrasen. На обратной стороне что-то написано.
+ent-TunnelClownBusinessCard = визитка тех-клоуна
     .desc = { ent-CentralCommandBusinessCard.desc }

@@ -1,2 +1,2 @@
-ent-ActionGuise = Guise
-    .desc = Become invisible in the darkness.
+ent-ActionGuise = Тень
+    .desc = Станьте невидимым во тьме.

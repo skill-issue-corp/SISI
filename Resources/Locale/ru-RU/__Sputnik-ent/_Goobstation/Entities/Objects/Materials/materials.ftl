@@ -1,15 +1,12 @@
-ent-MaterialBSCrystal = bluespace crystal
+ent-MaterialBSCrystal = блюспейс кристалл
+    .suffix = Полный
     .desc = { ent-MaterialBase.desc }
-    .suffix = Full
-
 ent-MaterialBSCrystal1 = { ent-MaterialBSCrystal }
+    .suffix = Один
     .desc = { ent-MaterialBSCrystal.desc }
-    .suffix = Single
-
-ent-MaterialBSCrystalUnprocessed = unprocessed bluespace crystal
+ent-MaterialBSCrystalUnprocessed = незавершенный блюспейс кристалл
+    .suffix = Полный
     .desc = { ent-MaterialBSCrystal.desc }
-    .suffix = Full
-
-ent-MaterialBSCrystal1Unprocessed = unprocessed bluespace crystal
+ent-MaterialBSCrystal1Unprocessed = { ent-MaterialBSCrystalUnprocessed }
+    .suffix = Один
     .desc = { ent-MaterialBSCrystalUnprocessed.desc }
-    .suffix = Single

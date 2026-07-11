@@ -1,55 +1,41 @@
-ent-SalvageSpawnerScrapCommon = Salvage Scrap Spawner
+ent-SalvageSpawnerScrapCommon = спавнер обломок лом
+    .suffix = Обычный, 50%
     .desc = { ent-MarkerBase.desc }
-    .suffix = Common, 50%
-
 ent-SalvageSpawnerScrapCommon75 = { ent-SalvageSpawnerScrapCommon }
+    .suffix = Обычный, 75%
     .desc = { ent-SalvageSpawnerScrapCommon.desc }
-    .suffix = Common, 75%
-
-ent-SalvageSpawnerScrapValuable = Salvage Scrap Spawner
+ent-SalvageSpawnerScrapValuable = спавнер обломок лом
+    .suffix = Ценный, 50%
     .desc = { ent-MarkerBase.desc }
-    .suffix = Valuable, 50%
-
 ent-SalvageSpawnerScrapValuable75 = { ent-SalvageSpawnerScrapValuable }
+    .suffix = Ценный, 75%
     .desc = { ent-SalvageSpawnerScrapValuable.desc }
-    .suffix = Valuable, 75%
-
-ent-SalvageSpawnerTreasure = Salvage Treasure Spawner
-    .desc = { ent-MarkerBase.desc }
+ent-SalvageSpawnerTreasure = спавнер обломок сокровище
     .suffix = Common, 75%
-
-ent-SalvageSpawnerTreasureValuable = Salvage Treasure Spawner
     .desc = { ent-MarkerBase.desc }
-    .suffix = Valuable, 75%
-
-ent-SalvageSpawnerEquipment = Salvage Equipment Spawner
+ent-SalvageSpawnerTreasureValuable = спавнер обломок сокровище
+    .suffix = Ценный, 75%
     .desc = { ent-MarkerBase.desc }
+ent-SalvageSpawnerEquipment = спавнер обломок экипировка
     .suffix = Common, 75%
-
-ent-SalvageSpawnerEquipmentValuable = Salvage Equipment Spawner
     .desc = { ent-MarkerBase.desc }
-    .suffix = Valuable, 75%
-
-ent-SalvageCanisterSpawner = Salvage Canister Spawner
+ent-SalvageSpawnerEquipmentValuable = спавнер обломок экипировка
+    .suffix = Ценный, 75%
     .desc = { ent-MarkerBase.desc }
-
-ent-SalvageSpawnerMobMagnet = Salvage Magnet Mob Spawner
+ent-SalvageCanisterSpawner = спавнер обломок канистра
     .desc = { ent-MarkerBase.desc }
+ent-SalvageSpawnerMobMagnet = спавнер обломок моб из магнита
     .suffix = 50%
-
+    .desc = { ent-MarkerBase.desc }
 ent-SalvageSpawnerMobMagnet75 = { ent-SalvageSpawnerMobMagnet }
-    .desc = { ent-SalvageSpawnerMobMagnet.desc }
     .suffix = 75%
-
-ent-SalvageSpawnerMobMagnet100 = { ent-SalvageSpawnerMobMagnet }
     .desc = { ent-SalvageSpawnerMobMagnet.desc }
+ent-SalvageSpawnerMobMagnet100 = { ent-SalvageSpawnerMobMagnet }
     .suffix = 100%
-
-ent-SalvageSpawnerStructuresVarious = Space Debris Structure Spawner
+    .desc = { ent-SalvageSpawnerMobMagnet.desc }
+ent-SalvageSpawnerStructuresVarious = спавнер обломок структура
     .desc = { ent-MarkerBase.desc }
-
-ent-SalvageSpawnerMobShark = Salvage Sharkminnow Spawner
+ent-SalvageSpawnerMobShark = спавнер обломок Карпоакула
     .desc = { ent-MarkerBase.desc }
-
-ent-SalvageSpawnerMobMiningAsteroid = Mining Asteroid Mob Spawner
+ent-SalvageSpawnerMobMiningAsteroid = спавнер моб шахтёрский астероид
     .desc = { ent-MarkerBase.desc }

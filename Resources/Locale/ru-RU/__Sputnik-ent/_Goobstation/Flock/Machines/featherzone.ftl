@@ -1,35 +1,24 @@
-ent-FeatherzoneCockpit = shuttle cockpit
-    .desc = You have no clue how to operate this thing!
-
-ent-FeatherzoneReactorOff = flock reactor
-    .desc = You have no clue how to operate this thing!
-
-ent-FeatherzoneReactorOn = flock reactor
-    .desc = You have no clue how to operate this thing!
-
+ent-FeatherzoneCockpit = кабина шаттла
+    .desc = Вы не имеете ни малейшего понятия, как это управлять!
+ent-FeatherzoneReactorOff = реактор стаи
+    .desc = Вы не имеете ни малейшего понятия, как это управлять!
+ent-FeatherzoneReactorOn = реактор стаи
+    .desc = Вы не имеете ни малейшего понятия, как это управлять!
 ent-EffectFlockReactor = { "" }
     .desc = { "" }
-
-ent-FeatherzoneWing1 = sparking blade
-    .desc = It looks very fragile from here. And dangerously live. Best not get too close.
-
+ent-FeatherzoneWing1 = искрящееся лезвие
+    .desc = С этой стороны оно выглядит очень хрупким. И опасно заряженным. Лучше не подходить слишком близко.
 ent-FeatherzoneWing2 = { ent-FeatherzoneWing1 }
     .desc = { ent-FeatherzoneWing1.desc }
-
-ent-FeatherzoneWingOff1 = sparking blade
-    .desc = It looks very fragile from here. And dangerously live. Best not get too close.
-
+ent-FeatherzoneWingOff1 = искрящееся лезвие
+    .desc = С этой стороны оно выглядит очень хрупким. И опасно заряженным. Лучше не подходить слишком близко.
 ent-FeatherzoneWingOff2 = { ent-FeatherzoneWingOff1 }
     .desc = { ent-FeatherzoneWingOff1.desc }
-
-ent-FeatherzoneWingBroken1 = broken sparking blade
-    .desc = A delapidated wing.
-
+ent-FeatherzoneWingBroken1 = сломанное стеклянное крыло
+    .desc = Разрушенное крыло.
 ent-FeatherzoneWingBroken2 = { ent-FeatherzoneWingBroken1 }
     .desc = { ent-FeatherzoneWingBroken1.desc }
-
-ent-FeatherzoneSignOff = strange glass sign
-    .desc = Doesn't seem to be working.
-
-ent-FeatherzoneSign = strange glass sign
-    .desc = Concerningly hypnotic.
+ent-FeatherzoneSignOff = странный стеклянный знак
+    .desc = Похоже, что он не работает.
+ent-FeatherzoneSign = странный стеклянный знак
+    .desc = Тревожно гипнотический.

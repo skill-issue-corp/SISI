@@ -1,29 +1,36 @@
-ent-BasicTauCetiBasicTranslatorImplant = basic common translator implant
-    .desc = Provides your illiterate friends the ability to understand the common galactic tongue.
-
-ent-TauCetiBasicTranslatorImplant = advanced common translator implant
-    .desc = A more advanced version of the translator implant, teaches your illiterate friends the ability to both speak and understand the galactic tongue!
-
-ent-BubblishTranslatorImplant = bubblish translator implant
-    .desc = An implant that helps you speak and understand the language of slimes! Special vocal chords not included.
-
-ent-DraconicTranslatorImplant = draconic translator implant
-    .desc = A translator implant giving the ability to speak to dragons! Subsequently, also allows to communicate with the Unathi.
-
-ent-SolCommonTranslatorImplant = sol-common translator implant
-    .desc = An implant giving the ability to understand and speak SolCommon. Raaagh!
-
-ent-NovuNedericTranslatorImplant = novu-nederic translator implant
-    .desc = An implant giving the ability to understand and speak Novu-Nederic. Hoezee!
-
-ent-RootSpeakTranslatorImplant = root-speak translator implant
-    .desc = An implant that lets you speak for the trees. Or to the trees.
-
-ent-MofficTranslatorImplant = moffic translator implant
-    .desc = An implant designed to help domesticate mothroaches. Subsequently, allows you to communicate with the moth people.
-
-ent-AzazibaTranslatorImplant = azaziba translator implant
-    .desc = An implant giving the ability to understand and speak Azaziba.
-
-ent-NewKinPidginTranslatorImplant = ka'rakk translator implant
-    .desc = An implant giving the ability to understand and speak Ka'rakk.
+ent-BasicTauCetiBasicTranslatorImplant = имплант "переводчик Тау-Сети Бейсик"
+    .desc = Даёт твоим неграмотным друзьям возможность понимать общий галактический язык.
+ent-TauCetiBasicTranslatorImplant = имплант "продвинутый переводчик Тау-Сети Бейсик"
+    .desc = Продвинутая версия импланта переводчика, обучающая твоих неграмотных друзей как говорить, так и понимать галактический язык!
+ent-BubblishTranslatorImplant = имплант "переводчик Булькяз"
+    .desc = Имплант, помогающий тебе говорить и понимать язык слаймов! Особые голосовые связки не включены.
+ent-NekomimeticTranslatorImplant = имплант "переводчик Неко"
+    .desc = Имплант, изначально созданный, чтобы помочь владельцам кошек понимать своих питомцев. Теперь позволяет понимать и разговаривать с Фелинидами!
+ent-DraconicTranslatorImplant = имплант "переводчик Синта'Унати"
+    .desc = Имплант, дающий возможность говорить с драконами! А также позволяет общаться с Унатхами.
+ent-CanilunztTranslatorImplant = имлпант "переводчик Канилунцт"
+    .desc = Имплант, помогающий тебе общаться с местными Йипами. Йип!
+ent-SolCommonTranslatorImplant = имплант "переводчик Общесолнечный"
+    .desc = Имплант, дающий возможность понимать и говорить на Общесолнечном. Рааагх!
+ent-NovuNedericTranslatorImplant = имплант "переводчик Ново-Недирик"
+    .desc = Имплант, дающий возможность понимать и говорить на Ново-Недирик. Хозии!
+ent-RootSpeakTranslatorImplant = имплант "переводчик Корнеречь"
+    .desc = Имлпант, позволяющий тебе общаться от имени деревьев. Или с деревьями.
+ent-MofficTranslatorImplant = имплант "переводчик Моффик"
+    .desc = Имплант, созданный для одомашнивания тараканомолей. Впоследствии позволяет общаться с Нианами.
+ent-ValyrianStandardTranslatorImplant = имплант "переводчик Валирийский"
+    .desc = Имплант, дающий возможность понимать и говорить на Валирийском. Чирик!
+ent-AzazibaTranslatorImplant = имплант "переводчик Синта'Азазиба"
+    .desc = Имплант, дающий возможность понимать и говорить на Синта'Азазиба.
+ent-ChittinTranslatorImplant = имплант "переводчик Читин"
+    .desc = Имплант, дающий возможность понимать и говорить на Читине.
+ent-SiikMaasTranslatorImplant = имплант "переводчик Сиик'маас"
+    .desc = Имплант, дающий возможность понимать и говорить на Сиик'маасе.
+ent-MarishTranslatorImplant = имплант "переводчик Мариш"
+    .desc = Имплант, дающий возможность понимать и говорить на Маришеы.
+ent-SchechiTranslatorImplant = имплант "переводчик Шшечи"
+    .desc = Имплант, дающий возможность понимать и говорить на Шшечи.
+ent-NewKinPidginTranslatorImplant = имплант "переводчик Ка'ракк"
+    .desc = Имплант, дающий возможность понимать и говорить на Ка'ракк.
+ent-GruntishTranslatorImplant = имплант "Грунтич"
+    .desc = Имплант, дающий возможность понимать и говорить на Грунтиче.

@@ -1,5 +1,2 @@
-ent-GhostAntagSpellPreset = { "" }
-    .desc = { "" }
-
-ent-AntagPlanetContravendPreset = { "" }
+ent-StorePresetContractor = { "" }
     .desc = { "" }

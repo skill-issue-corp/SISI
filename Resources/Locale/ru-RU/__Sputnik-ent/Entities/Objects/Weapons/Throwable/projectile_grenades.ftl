@@ -1,11 +1,8 @@
 ent-ProjectileGrenadeBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
-ent-GrenadeStinger = stinger grenade
-    .desc = Nothing to see here, please disperse.
-
-ent-GrenadeIncendiary = incendiary grenade
-    .desc = A brutal grenade that fires flaming shrapnel, igniting anyone it hits.
-
-ent-GrenadeShrapnel = shrapnel grenade
-    .desc = Releases a deadly spray of shrapnel that causes severe bleeding.
+ent-GrenadeStinger = травматическая граната
+    .desc = Здесь не на что смотреть, пожалуйста, расходитесь.
+ent-GrenadeIncendiary = зажигательная граната
+    .desc = Зажгите этой ночью.
+ent-GrenadeShrapnel = осколочная граната
+    .desc = Выпускает смертоносную шрапнель, вызывающую сильное кровотечение.

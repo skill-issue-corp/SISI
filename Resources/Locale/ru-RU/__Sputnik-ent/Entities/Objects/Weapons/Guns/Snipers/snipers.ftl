@@ -1,21 +1,19 @@
 ent-BaseWeaponSniper = BaseWeaponSniper
-    .desc = A rooty tooty point and shooty.
-
+    .desc = Дерзай — налетай, целься и стреляй.
 ent-BaseWeaponSniperMagazine = BaseMagazineSniper
     .desc = A rooty tooty point and shooty.
-
-ent-WeaponSniperMosin = Kardashev-Mosin
-    .desc = A true relic, the Kardashev-Mosin has served in nearly every armed conflict since its creation 670 years ago. The bolt-action design of the rifle remains virtually identical to its original design, whether used for hunting, sniping, or endless trench warfare. Loads 10 rounds of .30 rifle.
-
-ent-WeaponSniperHristov = Hristov
-    .desc = For when you absolutely, positively need to make someone regret their life choices from a safe distance. Uses .60 anti-materiel ammo.
-
-ent-Musket = musket
-    .desc = This should've been in a museum long before you were born. Uses .60 anti-materiel ammo.
-
-ent-WeaponPistolFlintlock = flintlock pistol
-    .desc = A pirate's companion. Yarrr! Uses .45 magnum ammo.
-
+ent-WeaponSniperMosin = Кардашёв-Мосин
+    .desc = Оружие охоты, или бесконечной окопной войны. Использует патроны калибра .30 винтовочный.
+    .suffix = Винтовка
+ent-WeaponSniperHristov = Христов
+    .desc = Портативная крупнокалиберная снайперская винтовка. Стреляет мощными бронебойными патронами, калибра .60 крупнокалиберный.
+    .suffix = Винтовка
+ent-WeaponPistolFlintlock = кремнёвый пистолет
+    .desc = Спутник пирата. Яррр! Использует патроны калибра .45 магнум.
+    .suffix = Пистолет
+ent-Musket = мушкет
+    .desc = Это должно было оказаться в музее задолго до твоего рождения. Использует патроны калибра .60 крупнокалиберный.
+    .suffix = Винтовка
 ent-WeaponPistolFlintlockEmpty = { ent-WeaponPistolFlintlock }
+    .suffix = Пистолет, Пустой
     .desc = { ent-WeaponPistolFlintlock.desc }
-    .suffix = Empty

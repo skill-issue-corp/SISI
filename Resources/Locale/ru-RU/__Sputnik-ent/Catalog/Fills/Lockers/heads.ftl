@@ -1,55 +1,42 @@
 ent-LockerQuarterMasterFilled = { ent-LockerQuarterMaster }
+    .suffix = Заполненный
     .desc = { ent-LockerQuarterMaster.desc }
-    .suffix = Filled
-
 ent-LockerCaptainFilledNoLaser = { ent-LockerCaptain }
+    .suffix = Заполненный
     .desc = { ent-LockerCaptain.desc }
-    .suffix = Filled
-
 ent-LockerCaptainFilled = { ent-LockerCaptain }
+    .suffix = Заполненный, Антикварный лазер
     .desc = { ent-LockerCaptain.desc }
-    .suffix = Filled, AntiqueLaser
-
 ent-LockerCaptainFilledHardsuit = { ent-LockerCaptain }
+    .suffix = Заполненный, Скафандр
     .desc = { ent-LockerCaptain.desc }
-    .suffix = Filled, Hardsuit
-
 ent-LockerHeadOfPersonnelFilled = { ent-LockerHeadOfPersonnel }
+    .suffix = Заполненный
     .desc = { ent-LockerHeadOfPersonnel.desc }
-    .suffix = Filled
-
 ent-LockerChiefEngineerFilled = { ent-LockerChiefEngineer }
+    .suffix = Заполненный
     .desc = { ent-LockerChiefEngineer.desc }
-    .suffix = Filled
-
 ent-LockerChiefEngineerFilledHardsuit = { ent-LockerChiefEngineer }
+    .suffix = Заполненный, Скафандр
     .desc = { ent-LockerChiefEngineer.desc }
-    .suffix = Filled, Hardsuit
-
 ent-LockerChiefMedicalOfficerFilled = { ent-LockerChiefMedicalOfficer }
+    .suffix = Заполненный
     .desc = { ent-LockerChiefMedicalOfficer.desc }
-    .suffix = Filled
-
 ent-LockerChiefMedicalOfficerFilledHardsuit = { ent-LockerChiefMedicalOfficer }
+    .suffix = Заполненный, Скафандр
     .desc = { ent-LockerChiefMedicalOfficer.desc }
-    .suffix = Filled, Hardsuit
-
 ent-LockerResearchDirectorFilled = { ent-LockerResearchDirector }
+    .suffix = Заполненный
     .desc = { ent-LockerResearchDirector.desc }
-    .suffix = Filled
-
 ent-LockerResearchDirectorFilledHardsuit = { ent-LockerResearchDirector }
+    .suffix = Заполненный, Скафандр
     .desc = { ent-LockerResearchDirector.desc }
-    .suffix = Filled, Hardsuit
-
 ent-LockerHeadOfSecurityFilled = { ent-LockerHeadOfSecurity }
+    .suffix = Заполненный
     .desc = { ent-LockerHeadOfSecurity.desc }
-    .suffix = Filled
-
 ent-LockerHeadOfSecurityFilledHardsuit = { ent-LockerHeadOfSecurity }
+    .suffix = Заполненный, Скафандр
     .desc = { ent-LockerHeadOfSecurity.desc }
-    .suffix = Filled, Hardsuit
-
 ent-LockerFreezerVaultFilled = { ent-LockerFreezerBase }
+    .suffix = Хранилище, Закрыт
     .desc = { ent-LockerFreezerBase.desc }
-    .suffix = Vault, Filled

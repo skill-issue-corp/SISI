@@ -1,8 +1,6 @@
-ent-ToggleNightVision = Toggle Night Vision
-    .desc = Toggles night vision.
-
-ent-ToggleThermalVision = Toggle Thermal Vision
-    .desc = Toggles thermal vision.
-
-ent-PulseThermalVision = Pulse Thermal Vision
-    .desc = Activate thermal vision temporarily.
+ent-ToggleNightVision = Включить/выключить ночное зрение
+    .desc = Включает или выключает ночное зрение.
+ent-ToggleThermalVision = Включить/выключить тепловое зрение
+    .desc = Включает или выключает тепловое зрение.
+ent-PulseThermalVision = Импульс теплового зрения
+    .desc = Временно активирует тепловое зрение.

@@ -1,170 +1,127 @@
-ent-SignalSwitch = signal switch
-    .desc = It's a switch for toggling power to things.
-
-ent-SignalButton = signal button
-    .desc = It's a button for activating something.
-
-ent-ApcNetSwitch = apc net switch
-    .desc = It's a switch for toggling lights that are connected to the same apc.
-
-ent-SignalSwitchDirectional = signal switch
+ent-SignalSwitch = переключатель сигнала
+    .desc = Это переключатель питания устройств.
+ent-SignalButton = кнопка сигнала
+    .desc = Эта кнопка что-то активирует.
+ent-ApcNetSwitch = переключатель сети ЛКП
+    .desc = Это переключатель источников света, использующих локальный контроллер питания.
+ent-SignalSwitchDirectional = переключатель сигнала
+    .suffix = Направленный
     .desc = { ent-SignalSwitch.desc }
-    .suffix = directional
-
-ent-SignalButtonDirectional = signal button
+ent-SignalButtonDirectional = кнопка сигнала
+    .suffix = Направленный
     .desc = { ent-SignalButton.desc }
-    .suffix = directional
-
-ent-ApcNetSwitchDirectional = apc net switch
+ent-ApcNetSwitchDirectional = переключатель сети ЛКП
+    .suffix = Направленный
     .desc = { ent-ApcNetSwitch.desc }
-    .suffix = directional
-
-ent-LockableButton = lockable button
+ent-LockableButton = кнопка с замком
     .desc = { ent-SignalButtonDirectional.desc }
-
 ent-LockableButtonCaptain = { ent-LockableButton }
+    .suffix = Капитан
     .desc = { ent-LockableButton.desc }
-    .suffix = Captain
-
 ent-LockableButtonHeadOfPersonnel = { ent-LockableButton }
+    .suffix = Глава персонала
     .desc = { ent-LockableButton.desc }
-    .suffix = HeadOfPersonnel
-
 ent-LockableButtonChiefEngineer = { ent-LockableButton }
+    .suffix = Старший инженер
     .desc = { ent-LockableButton.desc }
-    .suffix = ChiefEngineer
-
 ent-LockableButtonChiefMedicalOfficer = { ent-LockableButton }
+    .suffix = Главный врач
     .desc = { ent-LockableButton.desc }
-    .suffix = ChiefMedicalOfficer
-
 ent-LockableButtonHeadOfSecurity = { ent-LockableButton }
+    .suffix = Глава службы безопасности
     .desc = { ent-LockableButton.desc }
-    .suffix = HeadOfSecurity
-
 ent-LockableButtonResearchDirector = { ent-LockableButton }
+    .suffix = Научный руководитель
     .desc = { ent-LockableButton.desc }
-    .suffix = ResearchDirector
-
 ent-LockableButtonCommand = { ent-LockableButton }
+    .suffix = Командование
     .desc = { ent-LockableButton.desc }
-    .suffix = Command
-
 ent-LockableButtonCryogenics = { ent-LockableButton }
+    .suffix = Криогеника
     .desc = { ent-LockableButton.desc }
-    .suffix = Cryogenics
-
 ent-LockableButtonSecurity = { ent-LockableButton }
+    .suffix = Служба безопасности
     .desc = { ent-LockableButton.desc }
-    .suffix = Security
-
 ent-LockableButtonDetective = { ent-LockableButton }
+    .suffix = Детектив
     .desc = { ent-LockableButton.desc }
-    .suffix = Detective
-
 ent-LockableButtonArmory = { ent-LockableButton }
+    .suffix = Оружейная
     .desc = { ent-LockableButton.desc }
-    .suffix = Armory
-
 ent-LockableButtonBrig = { ent-LockableButton }
+    .suffix = Бриг
     .desc = { ent-LockableButton.desc }
-    .suffix = Brig
-
 ent-LockableButtonLawyer = { ent-LockableButton }
+    .suffix = Юридический
     .desc = { ent-LockableButton.desc }
-    .suffix = Lawyer
-
 ent-LockableButtonEngineering = { ent-LockableButton }
+    .suffix = Инженерный
     .desc = { ent-LockableButton.desc }
-    .suffix = Engineering
-
 ent-LockableButtonMedical = { ent-LockableButton }
+    .suffix = Медицинский
     .desc = { ent-LockableButton.desc }
-    .suffix = Medical
-
 ent-LockableButtonQuartermaster = { ent-LockableButton }
+    .suffix = Квартирмейстер
     .desc = { ent-LockableButton.desc }
-    .suffix = Quartermaster
-
 ent-LockableButtonSalvage = { ent-LockableButton }
+    .suffix = Утилизаторы
     .desc = { ent-LockableButton.desc }
-    .suffix = Salvage
-
 ent-LockableButtonCargo = { ent-LockableButton }
+    .suffix = Снабжение
     .desc = { ent-LockableButton.desc }
-    .suffix = Cargo
-
 ent-LockableButtonResearch = { ent-LockableButton }
+    .suffix = Научный
     .desc = { ent-LockableButton.desc }
-    .suffix = Research
-
 ent-LockableButtonService = { ent-LockableButton }
+    .suffix = Сервисный
     .desc = { ent-LockableButton.desc }
-    .suffix = Service
-
 ent-LockableButtonMaintenance = { ent-LockableButton }
+    .suffix = Техобслуживание
     .desc = { ent-LockableButton.desc }
-    .suffix = Maintenance
-
 ent-LockableButtonExternal = { ent-LockableButton }
+    .suffix = Внешний
     .desc = { ent-LockableButton.desc }
-    .suffix = External
-
 ent-LockableButtonJanitor = { ent-LockableButton }
+    .suffix = Уборщик
     .desc = { ent-LockableButton.desc }
-    .suffix = Janitor
-
 ent-LockableButtonTheatre = { ent-LockableButton }
+    .suffix = Театр
     .desc = { ent-LockableButton.desc }
-    .suffix = Theatre
-
 ent-LockableButtonBar = { ent-LockableButton }
+    .suffix = Бар
     .desc = { ent-LockableButton.desc }
-    .suffix = Bar
-
 ent-LockableButtonChemistry = { ent-LockableButton }
+    .suffix = Химия
     .desc = { ent-LockableButton.desc }
-    .suffix = Chemistry
-
 ent-LockableButtonKitchen = { ent-LockableButton }
+    .suffix = Кухня
     .desc = { ent-LockableButton.desc }
-    .suffix = Kitchen
-
 ent-LockableButtonChapel = { ent-LockableButton }
+    .suffix = Храм
     .desc = { ent-LockableButton.desc }
-    .suffix = Chapel
-
 ent-LockableButtonHydroponics = { ent-LockableButton }
+    .suffix = Гидропоника
     .desc = { ent-LockableButton.desc }
-    .suffix = Hydroponics
-
 ent-LockableButtonAtmospherics = { ent-LockableButton }
+    .suffix = Атмосферный
     .desc = { ent-LockableButton.desc }
-    .suffix = Atmospherics
-
 ent-LockableButtonCentcomm = { ent-LockableButton }
+    .suffix = ЦК
     .desc = { ent-LockableButton.desc }
-    .suffix = CentComm
-
-ent-ButtonFrame = button frame
-    .desc = It's a frame to help distinguish switches visually.
-
+ent-ButtonFrame = каркас кнопки
+    .desc = Это каркас, помогающий визуально различать переключатели.
 ent-ButtonFrameGrey = { ent-ButtonFrame }
+    .suffix = Серый
     .desc = { ent-ButtonFrame.desc }
-    .suffix = grey
-
 ent-ButtonFrameCaution = { ent-ButtonFrame }
+    .suffix = Внимание
     .desc = { ent-ButtonFrame.desc }
-    .suffix = caution
-
 ent-ButtonFrameCautionSecurity = { ent-ButtonFrame }
+    .suffix = Внимание, Служба безопасности
     .desc = { ent-ButtonFrame.desc }
-    .suffix = caution
-
 ent-ButtonFrameExit = { ent-ButtonFrame }
+    .suffix = Выход
     .desc = { ent-ButtonFrame.desc }
-    .suffix = exit
-
 ent-ButtonFrameJanitor = { ent-ButtonFrame }
+    .suffix = Уборщик
     .desc = { ent-ButtonFrame.desc }
-    .suffix = janitor

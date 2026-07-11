@@ -1,35 +1,24 @@
-ent-ActionRally = Rally
-    .desc = Buff all surrounding critters to help you fight.
-
-ent-ActionSummonLesserSkeleton = Summon lesser skeleton
-    .desc = Materialize a skeleton from the void to help you.
-
-ent-ActionTentacleHook = Tentacle Hook
-    .desc = Launch a tentacle at your target and drag it to you
-
-ent-ActionShuffle = Shuffle
-    .desc = Squish yourself down to cancel stuns, squeeze through doors and escape assailants.
-
-ent-ActionLash = Lash
-    .desc = Go into a bloody frenzy on a target and rip them to shreds.
-
-ent-ActionRushdown = Rushdown
-    .desc = Leap forward and knock down those in your way.
-
-ent-ActionCloak = Cloak
-    .desc = Slip into the void and make yourself hard to discern for a short time.
-
-ent-ActionEatFilth = Eat filth
-    .desc = Eat some filth, healing you a little bit and slowly growing.
-
-ent-ActionRatBite = Bite
-    .desc = Bite a living creature, doing a little damage and injecting them with some rat poison.
-
-ent-ActionRatDen = Spawn rat den
-    .desc = Spawn your rat nest, healing you when in range and summoning some tiny diseased mice.
-
-ent-ActionRatSlam = Slam
-    .desc = Slam into something. Emits a powerful shockwave on collision.
-
-ent-ActionChooseVoidCreature = Choose your fighter
-    .desc = Choose one of the three void creatures to spawn in.
+ent-ActionRally = Боевой клич
+    .desc = Усиливает всех окружающих существ, помогая вам в бою.
+ent-ActionSummonLesserSkeleton = Призвать скелета Пустоты
+    .desc = Материализует скелета из Пустоты, чтобы он помогал вам.
+ent-ActionTentacleHook = Щупальцевый крюк
+    .desc = Выпускает щупальце в цель и притягивает её к вам.
+ent-ActionShuffle = Протиснуться
+    .desc = Сжимает ваше тело, снимая оглушения, позволяя пролезать через шлюзы и уходить от преследователей.
+ent-ActionLash = Истязание
+    .desc = Впадаете в кровавое безумие, разрывая цель на части.
+ent-ActionRushdown = Натиск
+    .desc = Вы резко прыгаете вперёд, сбивая с ног всех на своём пути.
+ent-ActionCloak = Покров
+    .desc = Скрывает вас в Пустоте, на короткое время делая трудными для распознавания.
+ent-ActionEatFilth = Пожирать грязь
+    .desc = Пожирайте грязь, немного восстанавливая здоровье и постепенно увеличиваясь.
+ent-ActionRatBite = Укус
+    .desc = Кусайте неосторожных существ, нанося небольшой урон и вводя крысиный яд.
+ent-ActionRatDen = Создать крысиное логово
+    .desc = Создаёт ваше крысиное логово, излечивая вас в радиусе действия и призывая мелких заражённых мышей.
+ent-ActionRatSlam = Столкновение
+    .desc = При столкновении испускает мощную ударную волну.
+ent-ActionChooseVoidCreature = Выбрать тварь
+    .desc = Позволяет выбрать одно из трёх тварей Пустоты для призыва.

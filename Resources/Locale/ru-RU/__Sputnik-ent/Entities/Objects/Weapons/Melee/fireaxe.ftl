@@ -1,5 +1,8 @@
-ent-FireAxe = fireaxe
-    .desc = Truly, the weapon of a madman. Who would think to fight fire with an axe?
+ent-FireAxe = пожарный топор
+    .desc = Воистину оружие безумца. Кому придёт в голову бороться с огнём с помощью топора?
+# Corvax-HiddenDesc-Start
+ent-FireAxeFlaming = { ent-FireAxe }
+    .desc = { ent-FireAxe.desc }
 
-ent-FireAxeFlaming = fire axe
-    .desc = Why fight fire with an axe when you can fight with fire and axe? Now featuring rugged rubberized handle!
+# Corvax-HiddenDesc-End
+

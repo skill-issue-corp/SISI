@@ -1,2 +1,2 @@
-ent-SlimeGrinderMachineCircuitboard = slime grinder machine board
-    .desc = A machine printed circuit board for a slime grinder.
+ent-SlimeGrinderMachineCircuitboard = измельчитель слаймов (машинная плата)
+    .desc = Печатная плата для измельчителя слаймов.

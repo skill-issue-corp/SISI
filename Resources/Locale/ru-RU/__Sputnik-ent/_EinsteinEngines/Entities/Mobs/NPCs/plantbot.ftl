@@ -1,2 +1,2 @@
-ent-MobPlantbot = plantbot
-    .desc = A botanist's best friend!
+ent-MobPlantbot = плэнтбот
+    .desc = Лучший друг ботаника!

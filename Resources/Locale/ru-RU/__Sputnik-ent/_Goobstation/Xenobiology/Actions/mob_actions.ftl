@@ -1,2 +1,2 @@
-ent-ActionSlimeLatch = Latch
-    .desc = Latch onto a target and begin digesting it! Or get off of an existing one if you're already latched onto something.
+ent-ActionSlimeLatch = Захват
+    .desc = Прицепитесь к цели и начните её переваривать! Или отцепитесь от текущей, если вы уже к кому-то прикреплены.

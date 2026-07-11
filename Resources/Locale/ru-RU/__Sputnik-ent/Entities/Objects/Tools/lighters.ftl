@@ -1,51 +1,31 @@
-ent-BaseLighter = basic lighter
-    .desc = { ent-SolutionWelder.desc }
-
-ent-SolutionLighter = { ent-SolutionWelder }
-    .desc = { ent-SolutionWelder.desc }
-
-ent-Lighter = basic lighter
-    .desc = A simple plastic cigarette lighter.
-
-ent-CheapLighter = cheap lighter
-    .desc = A dangerously inexpensive plastic lighter. Don't burn your thumb!
-
-ent-DiscountDanLighter = Discount Dan's lighter
-    .desc = The worst lighter ever produced. Lighter burn is inevitable, do not refuel while lit.
-
-ent-BaseBrandedLighter = { ent-SolutionToolWelderMini }
-    .desc = { ent-SolutionToolWelderMini.desc }
-
-ent-FlippoLighter = flippo lighter
-    .desc = A rugged metal lighter that lasts quite a while.
-
-ent-FlippoEngravedLighter = flippo engraved lighter
-    .desc = A rugged golden lighter that lasts quite a while. Engravings serve no tactical advantage whatsoever.
-
-ent-SyndicateFlippo = Blood-red flippo
-    .desc = A 'Valid' choice in lighters. Contains no copper.
-
-ent-CybersunFlippo = CyberSun Flippo
-    .desc = A sleek black and magenta flippo lighter, bearing the logo and iconography of CyberSun Industries.
-
-ent-InterdyneFlippo = Interdyne Flippo
-    .desc = A deep blue flippo lighter, decorated with the logo of Interdyne Pharmaceuticals' 'Gene Clean' clinics. Become the master of your own cigarette.
-
-ent-NanotrasenFlippo = Nanotrasen Flippo
-    .desc = A navy blue luxury flippo, generally handed out to loyal heads of staff instead of a pay raise. Fueled with liquid plasma.
-
-ent-CentCommFlippo = Gilded CentComm Flippo
-    .desc = An Ornate, jade embossed and gilded flippo frame containing a bluespace powered jet. The latch is secured by a miniature access reader that only responds to CentComm officials. The nicest lighter known to man.
-    .suffix = DO NOT MAP
-
-ent-SpiderclanFlippo = Spider-Clan lighter
-    .desc = A high tech jet lighter, engineered to function even in deep space. Runs on a tiny microfusion cell.
-
-ent-WaffleCoFlippo = Waffle Co. flippo
-    .desc = A robust mass produced lighter. The Waffle Co. logo turns the spark wheel when pushed up, minimising risk of lighter burns for even the most inept user.
-
-ent-HonkCoFlippo = Honk Co. flippo
-    .desc = A gag lighter hidden inside of a banana peel. Produced by Honk Co.
-
-ent-DonkcoLighter = Donk Co. flippo
-    .desc = The flippo of choice for the seasoned traitor. An edible novelty lighter made by Donk Co.
+ent-Lighter = простая зажигалка
+    .desc = Простая пластмассовая зажигалка.
+ent-CheapLighter = дешёвая зажигалка
+    .desc = Опасно дешёвая пластиковая зажигалка, не обожгите большой палец!
+ent-FlippoLighter = зажигалка флиппо
+    .desc = Надёжная металлическая зажигалка, рассчитанная на длительный срок службы.
+ent-FlippoEngravedLighter = гравированная зажигалка флиппо
+    .desc = Надёжная металлическая зажигалка, рассчитанная на длительный срок службы. Гравировка не даёт никакого тактического преимущества.
+ent-BaseBrandedLighter = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-SyndicateFlippo = кроваво-красная зажигалка флиппо
+    .desc = Стоящая зажигалка. Не содержит меди.
+ent-DiscountDanLighter = зажигалка Discount Dan's
+    .desc = Худшая зажигалка из когда-либо произведённых. Смерть в нищете неизбежна. Не заправлять зажигалку во время горения.
+ent-CybersunFlippo = зажигалка флиппо CyberSun 
+    .desc = Стильная чёрно-магентовая флиппо с логотипом и символикой CyberSun Industries.
+ent-InterdyneFlippo = зажигалка флиппо Interdyne 
+    .desc = Тёмно-синяя флиппо с логотипом клиник Interdyne Pharmaceuticals «Gene Clean». Стань хозяином своей сигареты, что бы это не значило.
+ent-NanotrasenFlippo = зажигалка флиппо NanoTrasen 
+    .desc = Тёмно-синяя люксовая флиппо, обычно выдаваемая лояльным руководителям заместо повышения зарплаты. Работает на жидкой плазме.
+ent-CentCommFlippo = гравированная флиппо ЦК
+    .desc = Роскошная флиппо с нефритовым тиснением и позолотой, оснащённая блюспейс джет-струёй. Замок с миниатюрным считывателем доступа, реагирует только на сотрудников Центрального Командования. Самая изысканная зажигалка.
+    .suffix = НЕ МАППИТЬ
+ent-SpiderclanFlippo = зажигалка флиппо Клана Паука
+    .desc = Высокотехнологичная джет-зажигалка, работающая даже в открытом космосе. Запитывается от микрослияния клеток.
+ent-WaffleCoFlippo = зажигалка флиппо Waffle Co. 
+    .desc = Надёжная зажигалка. Логотип Waffle Co. вращает колесо для искры, минимизируя риск ожогов даже новичками.
+ent-HonkCoFlippo = зажигалка флиппо Honk Co. 
+    .desc = Скользкая зажигалка для пранков, произведённая Honk Co. Спрятана внутри настоящей банановой кожуры.
+ent-DonkcoLighter = зажигалка флиппо Donk Co. 
+    .desc = Зажигалка флиппо для опытного предателя. Панированная новогодняя зажигалка от Donk Co. Каким-то образом остается съедобной даже во время горения.

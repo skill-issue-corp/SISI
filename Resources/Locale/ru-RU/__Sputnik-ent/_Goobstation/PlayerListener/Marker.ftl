@@ -1,2 +1,2 @@
-ent-DormNotifierMarker = Dorm Notifier Marker
+ent-DormNotifierMarker = Маркер дорм
     .desc = { ent-MarkerBase.desc }

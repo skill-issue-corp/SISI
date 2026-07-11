@@ -1,27 +1,21 @@
 ent-PlayerBorgGeneric = { ent-BorgChassisGeneric }
+    .suffix = Батарея, Модуль
     .desc = { ent-BorgChassisGeneric.desc }
-    .suffix = Battery, Module
-
 ent-PlayerBorgMining = { ent-BorgChassisMining }
+    .suffix = Батарея, Модуль
     .desc = { ent-BorgChassisMining.desc }
-    .suffix = Battery, Module
-
 ent-PlayerBorgEngineer = { ent-BorgChassisEngineer }
+    .suffix = Батарея, Модуль
     .desc = { ent-BorgChassisEngineer.desc }
-    .suffix = Battery, Module
-
 ent-PlayerBorgJanitor = { ent-BorgChassisJanitor }
+    .suffix = Батарея, Модуль
     .desc = { ent-BorgChassisJanitor.desc }
-    .suffix = Battery, Module
-
 ent-PlayerBorgMedical = { ent-BorgChassisMedical }
+    .suffix = Батарея, Модуль
     .desc = { ent-BorgChassisMedical.desc }
-    .suffix = Battery, Module
-
 ent-PlayerBorgService = { ent-BorgChassisService }
+    .suffix = Батарея, Модуль
     .desc = { ent-BorgChassisService.desc }
-    .suffix = Battery, Module
-
 ent-PlayerBorgSyndicateMedicalBattery = { ent-BorgChassisSyndicateMedical }
+    .suffix = Батарея, Модуль, Оперативник
     .desc = { ent-BorgChassisSyndicateMedical.desc }
-    .suffix = Battery, Module, Operative

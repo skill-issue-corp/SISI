@@ -1,26 +1,16 @@
-ent-BaseSoap = soap
-    .desc = { ent-SolutionSoapBase.desc }
-
-ent-SolutionSoapBase = { ent-SolutionFood }
-    .desc = { ent-SolutionFood.desc }
-
-ent-Soap = { ent-BaseSoap }
-    .desc = A cheap bar of soap. Doesn't smell.
-
-ent-SoapNT = { ent-Soap }
-    .desc = A Nanotrasen brand bar of soap. Smells of plasma.
-
-ent-SoapDeluxe = { ent-Soap }
-    .desc = A deluxe Waffle Co. brand bar of soap. Smells of strawberries.
-
-ent-SoapSyndie = { ent-Soap }
-    .desc = An untrustworthy bar of soap. Smells of fear.
-
-ent-SoapletSyndie = soaplet
-    .desc = A tiny piece of syndicate soap.
-
-ent-SoapHomemade = { ent-Soap }
-    .desc = A homemade bar of soap. Smells of... well....
-
-ent-SoapOmega = omega soap
-    .desc = The most advanced soap known to mankind. Smells of bluespace.
+ent-Soap = мыло
+    .desc = Дешёвый брусок мыла. Не пахнет.
+ent-SoapNT = мыло
+    .desc = Брусок мыла бренда NanoTrasen. Пахнет плазмой.
+ent-SoapDeluxe = мыло
+    .desc = Брусок мыла престижного бренда Waffle Co. Пахнет земляникой.
+ent-SoapSyndie = мыло
+    .desc = Не вызывающий доверия кусок мыла. Пахнет страхом.
+ent-SoapletSyndie = обмылок
+    .desc = Маленький кусочек мыла Синдиката.
+ent-SoapHomemade = мыло
+    .desc = Самодельный брусок мыла. Пахнет... уф....
+ent-SoapOmega = омега мыло
+    .desc = Самое совершенное мыло, известное человечеству. Пахнет блюспейсом.
+ent-SoapBorg = мыло
+    .desc = Брусок мыла бренда NanoTrasen. Пахнет плазмой и машинами.

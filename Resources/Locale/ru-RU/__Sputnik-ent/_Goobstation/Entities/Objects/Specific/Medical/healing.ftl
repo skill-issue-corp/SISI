@@ -1,63 +1,48 @@
 ent-SyringePax = { ent-PrefilledSyringe }
+    .suffix = Пакс
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = pax
-
 ent-SyringePoisonCentcomm = { ent-PrefilledSyringe }
+    .suffix = Яд
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = poison
-
-ent-SyringePoisonFentUsed = used fent syringe
-    .desc = What the fuck?!
-    .suffix = fent
-
-ent-SyringePoisonFent = fentanyl syringe
-    .desc = What the fuck?!
-    .suffix = fent
-
-ent-SyringePoisonLethalInjection = syringe
-    .desc = A somewhat humane way to put down prisoners.
-    .suffix = lethal injection
-
-ent-PillTramadol = pill
+ent-SyringePoisonFentUsed = использованный шприц с фентанилом
+    .desc = Какого хуя?!
+    .suffix = Фентанил
+ent-SyringePoisonFent = использованный шприц с фентанилом
+    .desc = Какого хуя?!
+    .suffix = Фентанил
+ent-SyringePoisonLethalInjection = шприц смертельной инъекции
+    .desc = Относительно гуманный способ утилизировать заключённых.
+    .suffix = Смертельной инъекции
+ent-PillTramadol = таблетка
+    .suffix = Трамадол 7.5u
     .desc = { ent-Pill.desc }
-    .suffix = Tramadol 7.5u
-
-ent-PillCanisterTramadol = pill canister
+ent-PillCanisterTramadol = коробка баночек для таблеток
+    .suffix = Трамадол 7.5u, 15
     .desc = { ent-PillCanister.desc }
-    .suffix = Tramadol 7.5u, 15
-
-ent-PillOxycodone = pill
+ent-PillOxycodone = таблетка
+    .suffix = Оксикодон 5u
     .desc = { ent-Pill.desc }
-    .suffix = Oxycodone 5u
-
-ent-PillCanisterOxycodone = pill canister
+ent-PillCanisterOxycodone = коробка баночек для таблеток
+    .suffix = Оксикодон 5u, 15
     .desc = { ent-PillCanister.desc }
-    .suffix = Oxycodone 5u, 15
-
-ent-PillIbuprofen = pill
+ent-PillIbuprofen = таблетка
+    .suffix = Ибупрофен 10u, 15
     .desc = { ent-Pill.desc }
-    .suffix = Ibuprofen 10u, 15
-
-ent-PillCanisterIbuprofen = pill canister
+ent-PillCanisterIbuprofen = коробка баночек для таблеток
+    .suffix = Ибупрофен 10u, 15
     .desc = { ent-PillCanister.desc }
-    .suffix = Ibuprofen 10u, 15
-
-ent-SyringeTramadol = syringe
-    .desc = A potent painkiller.
-    .suffix = Tramadol 15u
-
-ent-SyringeOxycodone = syringe
-    .desc = A potent painkiller.
-    .suffix = Oxycodone 15u
-
-ent-SyringeIbuprofen = syringe
-    .desc = A mild painkiller.
-    .suffix = Ibuprofen 15u
-
-ent-SyringeHeroin = syringe
-    .desc = Damn.
-    .suffix = heroin 15u
-
+ent-SyringeTramadol = шприц
+    .desc = Мощное обезболивающее.
+    .suffix = Трамадол 15u
+ent-SyringeOxycodone = шприц
+    .desc = Мощное обезболивающее.
+    .suffix = Оксикодон 15u
+ent-SyringeIbuprofen = шприц
+    .desc = Лёгкое обезболивающее.
+    .suffix = Ибупрофен 15u
+ent-SyringeHeroin = шприц
+    .desc = Чувааааак!
+    .suffix = Героин 15u
 ent-SyringeMicroplastics = { ent-PrefilledSyringe }
-    .desc = Humanity used to macrodose themselves with this. Now its just a medicine for vox.
-    .suffix = microplastics
+    .desc = Человечество раньше принимало это в больших дозах. Теперь используется в медицине для Воксов.
+    .suffix = Микропластик 15u

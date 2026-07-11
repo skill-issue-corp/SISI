@@ -1,5 +1,4 @@
 ent-BaseBlob = base blob
     .desc = { "" }
-
-ent-MobObserverBlobController = Blob observer controller
+ent-MobObserverBlobController = Блоб-наблюдатель
     .desc = { "" }

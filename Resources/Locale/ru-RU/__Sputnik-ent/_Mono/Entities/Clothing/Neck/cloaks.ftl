@@ -1,2 +1,2 @@
-ent-ClothingNeckCloakCOG = Old robe
-    .desc = An ancient crimson draping from a now-defunct cult.
+ent-ClothingNeckCloakCOG = старая роба
+    .desc = Древняя багровая накидка ныне несуществующего культа.

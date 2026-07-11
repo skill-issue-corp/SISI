@@ -1,29 +1,20 @@
-ent-ShadowlingGlareEffect = shadowling glare effect
+ent-ShadowlingGlareEffect = эффект тенеморф Взор
     .desc = { "" }
-
-ent-ShadowlingShadowWalkInEffect = shadowling shadow walk in effect
+ent-ShadowlingShadowWalkInEffect = эффект тенеморф Теневой шаг вход
     .desc = { "" }
-
-ent-ShadowlingShadowWalkOutEffect = shadowling shadow walk out effect
+ent-ShadowlingShadowWalkOutEffect = эффект тенеморф Теневой шаг выход
     .desc = { "" }
-
-ent-ShadowlingCollectiveMindEffect = shadowling collective mind effect
+ent-ShadowlingCollectiveMindEffect = эффект тенеморф Коллективный разум
     .desc = { "" }
-
-ent-ShadowlingRapidRehatchEffect = shadowling rapid rehatch effect
+ent-ShadowlingRapidRehatchEffect = эффект тенеморф Феникс
     .desc = { "" }
-
-ent-ShadowlingIcyVeinsEffect = shadowling icy veins effect
+ent-ShadowlingIcyVeinsEffect = эффект тенеморф Лёд по венам
     .desc = { "" }
-
-ent-ShadowlingNullChargeEffect = shadowling null charge effect
+ent-ShadowlingNullChargeEffect = эффект тенеморф Перегруз
     .desc = { "" }
-
-ent-ShadowlingSonicScreechEffect = shadowling sonic screech effect
+ent-ShadowlingSonicScreechEffect = эффект тенеморф Визг
     .desc = { "" }
-
-ent-ShadowlingBlackRecuperationEffect = shadowling black recuperation effect
+ent-ShadowlingBlackRecuperationEffect = эффект тенеморф Восстановление
     .desc = { "" }
-
-ent-ShadowlingAscendingEffect = shadowling ascending effect
+ent-ShadowlingAscendingEffect = эффект тенеморф Вознесение
     .desc = { "" }

@@ -1,2 +1,2 @@
-ent-MantisBlade = mantis blade
-    .desc = They won’t see the steel until it’s too late.
+ent-MantisBlade = клинок богомол
+    .desc = Они не заметят сталь, пока не станет слишком поздно.

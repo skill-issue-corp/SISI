@@ -1,56 +1,32 @@
-ent-EntropicPlume = entropic plume
+ent-EntropicPlume = энтропийное облако
     .desc = { "" }
-
-ent-EffectCleave = { "" }
+ent-EffectCleave = рассечение
     .desc = { "" }
-
-ent-EffectVolcanoExplosion = { ent-BaseFlashEffect }
-    .desc = { ent-BaseFlashEffect.desc }
-
-ent-HereticCascade = { "" }
+ent-EffectVolcanoExplosion = { "" }
     .desc = { "" }
-
 ent-EffectVoidBlinkIn = { "" }
     .desc = { "" }
-
 ent-EffectVoidBlinkOut = { "" }
     .desc = { "" }
-
-ent-BaseShadowCloakEntity = { "" }
-    .desc = { "" }
-
-ent-ShadowCloakEntity = a shadow?
-    .desc = Something is there! Against all reason, this shadow lurks at the corners of your vision. You close your eyes, but still, it is there. No matter how far you run, it is there. In pitchest black, it is there.
-
-ent-ShadowCloakEntityPale = a pale figure
-    .desc = There was nothing here a moment ago, but now you see the faintest outline of strange creature lurking in the woods. Its warm embrace siphons your strength, as death approaches peacefully. The forest hums the soothing lullaby and you become the part of its enternal hymn.
-
+ent-ShadowCloakEntity = тень?
+    .desc = Что-то там есть! Несмотря на весь здравый смысл, эта тень мелькает на краю вашего зрения. Вы закрываете глаза, но она всё равно там. Куда бы вы ни бежали — она рядом. В кромешной темноте она есть.
 ent-EffectCosmicDiamond = { "" }
     .desc = { "" }
-
 ent-EffectCosmicCloud = { "" }
     .desc = { "" }
-
 ent-EffectCosmicExplosion = { "" }
     .desc = { "" }
-
-ent-EffectSpaceExplosion = { "" }
-    .desc = { "" }
-
 ent-EffectCosmicDomain = { "" }
     .desc = { "" }
-
 ent-EffectCosmicSlash = { "" }
     .desc = { "" }
-
 ent-WeaponArcHereticCosmic = { ent-WeaponArcStatic }
     .desc = { ent-WeaponArcStatic.desc }
-
 ent-EffectGazerOrb = { "" }
     .desc = { "" }
-
 ent-EffectVoidPrisonEnd = { "" }
     .desc = { "" }
-
-ent-VoidConduit = Void Conduit
-    .desc = An open gate which leads to nothingness. Releases pulses which you do not want to get hit by.
+ent-VoidConduit = Проводник Пустоты
+    .desc = Открытые ворота, ведущие в Пустоту. Испускает импульсы, под которые вы явно не хотите попасть.
+ent-VoidAscensionAura = { "" }
+    .desc = { "" }

@@ -1,2 +1,2 @@
-ent-VehicleSkeletonMotorcycle = skeleton motorcycle
-    .desc = Bad to the Bone.
+ent-VehicleSkeletonMotorcycle = мотоцикл
+    .desc = Плохо заканчивается для костей.

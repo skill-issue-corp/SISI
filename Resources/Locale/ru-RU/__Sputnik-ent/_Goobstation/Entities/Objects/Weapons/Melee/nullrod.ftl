@@ -1,47 +1,39 @@
 ent-BaseNullrod = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
-ent-Nullrod = Null Rod
-    .desc = The old classic. Does nothing special, really.
-
-ent-HolyClaymore = holy claymore
-    .desc = A weapon fit for a crusade! A sword capable of stealing life from evil-doers.
-
-ent-Rosary = rosary
-    .desc = Using these to pray near someone will heal them. They are surrounded by a holy aura.
-
-ent-GodHand = Hand of God
-    .desc = A holy, fiery gift from the gods. You won't drop this one.
-    .suffix = Unremoveable
-
-ent-ArrythmicKnife = arrythmic knife
-    .desc = They say fear is the true mind killer, but stabbing them in the head works too. Slows you down and speeds you up randomly.
-
-ent-MonkStaff = monk's staff
-    .desc = A long, tall staff made of polished wood. Traditionally used in ancient old-Earth martial arts, now used to harass the clown.
-
-ent-Bulwark = Bulwark
-    .desc = An absolutely enormous two handed shield, very difficult to use if not planted in place.
-
-ent-HonkmotherMaw = Honkmother's Maw
-    .desc = a-HEAD of you lies a path most hilarious.
-
-ent-UristHand = Grey Emperor's Glove
-    .desc = The tide beckons.
-    .suffix = Unremoveable
-
-ent-HolyChainsaw = his holy chainsaw
-    .desc = And because it's fuckin' FUN! AHAHA! AHAHAHA! AHAH-AAAAAAAA-MEN!
-    .suffix = Unremoveable
-
-ent-WeaponPistolCasul = casul
-    .desc = The first of two huge pistols, capable of firing regenerating silver bullets. Incapable of firing without its sister gun.
-
-ent-WeaponPistolJackal = jackal
-    .desc = The second of two huge pistols, capable of firing regenerating silver bullets. Incapable of firing without its sister gun.
-
-ent-BlessingOfTheReaper = blessing of the reaper
-    .desc = A special undroppable armblade nullrod, it's blessed by the dark gods.
-
-ent-RatvarianSpear = ancient spear
-    .desc = An ancient spear made of brass, I mean gold, I mean bronze. It looks highly mechanical.
+ent-Nullrod = Нулевой стержень
+    .desc = Старая классика. На самом деле, ничего особенного.
+ent-HolyClaymore = священный клеймор
+    .desc = Оружие, подходящее для крестового похода! Меч, способный отнимать жизнь у злодеев.
+ent-Rosary = святые четки
+    .desc = Если вы будете молиться рядом с кем-то, это исцелит его. Они источают священную ауру.
+ent-GodHand = Рука Бога
+    .desc = Священный, огненный дар богов. Ты его не уронишь.
+    .suffix = Неснимаемый
+ent-ArrythmicKnife = аритмичный нож
+    .desc = Говорят, что страх - настоящий убийца разума, но удар ножом в голову тоже работает. Замедляет и ускоряет вас случайным образом.
+ent-MonkStaff = посох монаха
+    .desc = Длинный, высокий посох из полированного дерева. Традиционно использовался в древних боевых искусствах старой Земли, а теперь используется для запугивания клоунов.
+ent-AtheistFedora = Фетровая шляпа атеиста
+    .desc = Поля шляпы так же остры, как и ваш ум. Бросить ее в кого-нибудь было бы почти так же больно, как опровергнуть существование Бога.
+ent-Bulwark = Бастион
+    .desc = Громадный двуручный щит. Трудно использовать, если он не закреплён на месте.
+ent-HonkmotherMaw = Пасть ХонкоМатери
+    .desc = Перед тобой лежит самый веселый путь ГОЛОВОкружения.
+ent-UristHand = перчатка серого императора
+    .desc = Серая волна манит к себе.
+    .suffix = Неснимаемый
+ent-HolyChainsaw = его светлость бензопила
+    .desc = Потому что это чертовски ВЕСЕЛО! АХАХА! АХАХАХА! АААААААААБРООООО!
+    .suffix = Неснимаемый
+ent-WeaponPistolCasul = казул
+    .desc = Первый из двух огромных пистолетов, способный стрелять регенерирующими серебряными пулями. Не может стрелять без своего собрата по оружию.
+ent-WeaponPistolJackal = шакал
+    .desc = Второй из двух огромных пистолетов, способный стрелять регенерирующими серебряными пулями. Не может стрелять без своего собрата по оружию.
+ent-BlessingOfTheReaper = благословение жнеца
+    .desc = Особый, несбрасываемый клинок, благославлённый тёмными богами.
+ent-RatvarianSpear = древнее копьё
+    .desc = Древнее копьё из латуни. То есть золота. То есть бронзы. Добро пожаловать в стимпанк.
+ent-DragonsTail = драконий хвост
+    .desc = Хвост дракона, насаженный на палку. Всё ещё хранит в себе неистовую огненную мощь.
+ent-InquisitorChainSword = цепной пиломеч
+    .desc = Идеальное оружие для очищения станции от всякой ереси! Активируется молитвой.
