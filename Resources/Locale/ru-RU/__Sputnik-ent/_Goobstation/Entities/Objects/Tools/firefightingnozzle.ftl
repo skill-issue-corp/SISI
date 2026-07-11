@@ -1,5 +1,4 @@
-ent-FirefighterNozzle = firefighter nozzle
-    .desc = A specialized nozzle intended to fight fires.
-
-ent-AtmosResin = atmos resin
-    .desc = Special grenade for atmosians.
+ent-FirefighterNozzle = пожарный ствол
+    .desc = Специализированный ствол, предназначенный для тушения пожаров.
+ent-AtmosResin = атмос-смола
+    .desc = Специальная граната для атмосферных техников.

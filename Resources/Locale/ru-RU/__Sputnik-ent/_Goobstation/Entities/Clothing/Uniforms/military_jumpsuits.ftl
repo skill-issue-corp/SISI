@@ -1,39 +1,30 @@
-ent-ClothingUniformJumpsuitMilitaryShaftMiner = shaft miner's jumpsuit
+ent-ClothingUniformJumpsuitMilitaryShaftMiner = комбинезон шахтёра
     .desc = { ent-ClothingUniformJumpsuitSalvageSpecialist.desc }
-    .suffix = Military
-
-ent-ClothingUniformJumpsuitMilitaryColorBlackAlt = black jumpsuit
-    .desc = A generic black jumpsuit with no rank markings.
-    .suffix = Military, Alt
-
-ent-ClothingUniformJumpsuitMilitarySecurity = security jumpsuit
-    .desc = A jumpsuit made of strong material, providing robust protection.
-    .suffix = Military
-
-ent-ClothingUniformJumpsuitMilitarySecuritySeniorOfficer = senior officer jumpsuit
-    .desc = A sign of skill and prestige within the security department.
-    .suffix = Military
-
-ent-ClothingUniformJumpsuitMilitaryMailCarrier = mail carrier's jumpsuit
-    .desc = Enemy of K9s everywhere.
-    .suffix = Military
-
-ent-ClothingUniformJumpsuitMilitarySeniorResearcher = senior researcher jumpsuit
-    .desc = A sign of skill and prestige within the science department.
-    .suffix = Military
-
+    .suffix = Военный
+ent-ClothingUniformJumpsuitMilitaryColorBlackAlt = чёрный комбинезон
+    .desc = Обычный чёрный комбинезон без знаков различия.
+    .suffix = Военный, Альт
+ent-ClothingUniformJumpsuitMilitarySecurity = комбинезон службы безопасности
+    .desc = Комбинезон из прочного материала, обеспечивающий надёжную защиту.
+    .suffix = Военный
+ent-ClothingUniformJumpsuitMilitarySecuritySeniorOfficer = комбинезон старшего офицера
+    .desc = Знак мастерства и престижа в службе безопасности.
+    .suffix = Военный
+ent-ClothingUniformJumpsuitMilitaryMailCarrier = комбинезон почтальона
+    .desc = Враг всех K9 на станции.
+    .suffix = Военный
+ent-ClothingUniformJumpsuitMilitarySeniorResearcher = комбинезон старшего научного сотрудника
+    .desc = Знак мастерства и престижа в научном отделе.
+    .suffix = Военный
 ent-ClothingUniformJumpsuitMilitaryHoS = { ent-ClothingUniformJumpsuitHoS }
     .desc = { ent-ClothingUniformJumpsuitHoS.desc }
-    .suffix = Military
-
+    .suffix = Военный
 ent-ClothingUniformJumpsuitMilitaryNTR = { ent-ClothingUniformJumpsuitNanotrasenRepresentative }
     .desc = { ent-ClothingUniformJumpsuitNanotrasenRepresentative.desc }
-    .suffix = Military
-
+    .suffix = Военный
 ent-ClothingUniformJumpsuitMilitaryWarden = { ent-ClothingUniformJumpsuitWarden }
     .desc = { ent-ClothingUniformJumpsuitWarden.desc }
-    .suffix = Military
-
+    .suffix = Военный
 ent-ClothingUniformJumpsuitMilitaryBrigmedic = { ent-ClothingUniformJumpsuitBrigmedic }
     .desc = { ent-ClothingUniformJumpsuitBrigmedic.desc }
-    .suffix = Military
+    .suffix = Военный

@@ -1,9 +1,9 @@
-ent-MeleeDebugGibHoly100 = holy blast stick 100dmg
-    .desc = Behold, the power of GOD!!
+ent-MeleeDebugGibHoly100 = святая взрывная палка 100dmg
+    .desc = Узрите мощь БОГА!!
     .suffix = DEBUG
-ent-MeleeDebugGibHoly200 = holy blast stick 200dmg
-    .desc = Behold, the power of GOD!!
+ent-MeleeDebugGibHoly200 = святая взрывная палка 200dmg
+    .desc = Узрите мощь БОГА!!
     .suffix = DEBUG
-ent-MeleeDebugGibHoly200000 = holy smite stick
-    .desc = BEGONE SINNER
+ent-MeleeDebugGibHoly200000 = святая палка кары
+    .desc = ПРОЧЬ, ГРЕШНИК
     .suffix = DEBUG

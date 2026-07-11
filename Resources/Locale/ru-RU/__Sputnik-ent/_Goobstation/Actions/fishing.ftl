@@ -1,4 +1,4 @@
-ent-ActionStartFishing = action-fishing-start
-    .desc = action-fishing-start-desc
-ent-ActionStopFishing = action-fishing-stop
-    .desc = action-fishing-stop-desc
+ent-ActionStartFishing = закинуть блесну
+    .desc = Забросить блесну с удочки, чтобы что-нибудь поймать!
+ent-ActionStopFishing = смотать удочку
+    .desc = Смотать удочку, чтобы вытащить прицепившийся к ней объект или прекратить рыбалку.

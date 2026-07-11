@@ -1,2 +1,2 @@
-ent-BolaEnergy = energy bola
-    .desc = A specialized hardlight bola designed to ensnare fleeing criminals and aid in arrests.
+ent-BolaEnergy = энергетическое бола
+    .desc = Специализированное твёрдосветовое бола, предназначенное для поимки убегающих преступников и помощи при арестах.

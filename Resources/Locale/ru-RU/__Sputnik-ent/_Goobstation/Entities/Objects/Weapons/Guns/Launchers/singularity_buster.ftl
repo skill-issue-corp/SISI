@@ -1,2 +1,2 @@
-ent-WeaponLauncherSingularityBuster = singularity buster rocket launcher
-    .desc = An experimental rocket launcher designed to fire rockets capable of decomposing a singularity or tesla.
+ent-WeaponLauncherSingularityBuster = ракетница «разрушитель сингулярности»
+    .desc = Экспериментальная ракетница, предназначенная для запуска ракет, способных разрушить сингулярность или теслу.

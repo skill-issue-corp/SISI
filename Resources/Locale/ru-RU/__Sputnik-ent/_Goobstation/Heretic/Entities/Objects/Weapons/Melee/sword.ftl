@@ -1,2 +1,2 @@
-ent-RaggedSword = ragged sword
-    .desc = This blade feels cold and faintly resonant to the touch. Its surface swims with impossible, fleeting geometries that strain the eye, and it will cut bits off mortals and immortals just fine.
+ent-RaggedSword = потрёпанный меч
+    .desc = Клинок холоден на ощупь и еле уловимо резонирует. По его поверхности плывут невозможные, мимолётные геометрические узоры, от которых напрягается взгляд, но режет он смертных и бессмертных одинаково исправно.

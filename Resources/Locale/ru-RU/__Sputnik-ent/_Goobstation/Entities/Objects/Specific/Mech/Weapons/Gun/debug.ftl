@@ -6,4 +6,4 @@ ent-WeaponMechDebugLaser = debug pow
     .suffix = Оружие меха, DEBUG, Лазер
 ent-WeaponMechDebugDisabler = debug tew
     .desc = Оружие самообороны, которое истощает органические цели, ослабляя их, пока они не сколлапсируют.
-    .suffix = Mech Weapon, DEBUG, Disabler
+    .suffix = Оружие меха, DEBUG, Станер

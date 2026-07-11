@@ -1,2 +1,2 @@
-ent-RealityCrack = crack in reality
-    .desc = A crack in space, impossibly deep and painful to the eyes. Definitely not safe.
+ent-RealityCrack = трещина в реальности
+    .desc = Трещина в пространстве, невозможно глубокая и болезненная для глаз. Определённо небезопасна.

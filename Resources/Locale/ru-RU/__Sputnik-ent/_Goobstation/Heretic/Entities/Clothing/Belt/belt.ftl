@@ -1,2 +1,2 @@
-ent-UnfathomableCurio = unfathomable curio
-    .desc = It. It looks backs. It looks past. It looks in. It sees. It hides. It opens.
+ent-UnfathomableCurio = непостижимая диковинка
+    .desc = Оно. Оно смотрит в ответ. Оно смотрит сквозь время. Оно смотрит внутрь. Оно видит. Оно прячется. Оно открывается.

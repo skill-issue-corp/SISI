@@ -1,3 +1,3 @@
 ent-DimensionPot = { ent-PottedPlantBase }
-    .suffix = Dimension
+    .suffix = Измерение
     .desc = { ent-PottedPlantBase.desc }

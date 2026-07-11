@@ -1,8 +1,6 @@
-ent-ActionHereticBurglarsFinesse = Burglar's Finesse
-    .desc = Steal a random item from the victim's backpack.
-
-ent-ActionHereticLastRefuge = Caretaker’s Last Refuge
-    .desc = Shifts you into the Caretaker's Refuge, rendering you translucent and intangible. While in the Refuge your movement is unrestricted, but you cannot use your hands or cast any spells. You cannot enter the Refuge while near other sentient beings, and you can be removed from it upon contact with antimagical artifacts.
-
-ent-ActionHereticShapeshiftLock = Shapechange
-    .desc = A spell that allows you to take on the form of another creature, gaining their abilities.
+ent-ActionHereticBurglarsFinesse = ловкость взломщика
+    .desc = Украсть случайный предмет из рюкзака жертвы.
+ent-ActionHereticLastRefuge = последнее убежище смотрителя
+    .desc = Перемещает вас в Убежище Смотрителя, делая вас полупрозрачным и неосязаемым. Находясь в Убежище, вы можете свободно двигаться, но не можете использовать руки или применять заклинания. Вы не можете войти в Убежище, находясь рядом с другими разумными существами, а контакт с антимагическими артефактами выведет вас из него.
+ent-ActionHereticShapeshiftLock = смена облика
+    .desc = Заклинание, позволяющее принять форму другого существа, получив его способности.

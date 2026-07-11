@@ -1,8 +1,6 @@
-ent-MagazineLightRifleBoxEmpty = L6 SAW magazine box (.30 rifle any)
+ent-MagazineLightRifleBoxEmpty = коробчатый магазин L6 SAW (.30 винтовочный, любой)
     .desc = { ent-MagazineLightRifleBox.desc }
-
-ent-MagazineLightRifleMaxim = pan magazine (.30 rifle)
+ent-MagazineLightRifleMaxim = дисковый магазин (.30 винтовочный)
     .desc = { ent-BaseMagazineLightRifle.desc }
-
-ent-MagazineLightRiflePkBox = PK munitions box (.30 rifle)
+ent-MagazineLightRiflePkBox = патронная коробка ПК (.30 винтовочный)
     .desc = { ent-BaseMagazineLightRifle.desc }

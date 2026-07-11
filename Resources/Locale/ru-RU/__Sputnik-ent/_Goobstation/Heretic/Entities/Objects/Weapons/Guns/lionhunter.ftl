@@ -1,2 +1,2 @@
-ent-WeaponBoltActionLionhunter = lionhunter's rifle
-    .desc = An antique looking rifle that looks immaculate despite being clearly very old.
+ent-WeaponBoltActionLionhunter = ружьё «Охотник на львов»
+    .desc = Винтовка с антикварным видом, выглядящая безупречно, несмотря на явно почтенный возраст.
