@@ -1,2 +1,2 @@
-ent-ActionPumpCursedHeart = action-pump-heart
-    .desc = action-pump-heart-desc
+ent-ActionPumpCursedHeart = сердцебиение
+    .desc = Прокачайте свою кровь, чтобы жить!
