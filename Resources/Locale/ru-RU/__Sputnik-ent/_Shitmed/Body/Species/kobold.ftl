@@ -1,42 +1,29 @@
-ent-AppearanceKobold = kobold appearance
+ent-AppearanceKobold = внешность кобольда
     .desc = { ent-BaseSpeciesAppearance.desc }
-
 ent-OrganKobold = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = kobold
-
+    .suffix = Кобольд
 ent-OrganKoboldExternal = { ent-OrganKobold }
     .desc = { ent-OrganKobold.desc }
-
 ent-OrganKoboldTorso = { ent-OrganBaseTorsoTailed }
     .desc = { ent-OrganBaseTorsoTailed.desc }
-
 ent-OrganKoboldHead = { ent-OrganBaseHeadBald }
     .desc = { ent-OrganBaseHeadBald.desc }
-
 ent-OrganKoboldTail = { ent-OrganBaseTail }
     .desc = { ent-OrganBaseTail.desc }
-
 ent-OrganKoboldArmLeft = { ent-OrganBaseArmLeft }
     .desc = { ent-OrganBaseArmLeft.desc }
-
 ent-OrganKoboldArmRight = { ent-OrganBaseArmRight }
     .desc = { ent-OrganBaseArmRight.desc }
-
 ent-OrganKoboldHandLeft = { ent-OrganBaseHandLeft }
     .desc = { ent-OrganBaseHandLeft.desc }
-
 ent-OrganKoboldHandRight = { ent-OrganBaseHandRight }
     .desc = { ent-OrganBaseHandRight.desc }
-
 ent-OrganKoboldLegLeft = { ent-OrganBaseLegLeft }
     .desc = { ent-OrganBaseLegLeft.desc }
-
 ent-OrganKoboldLegRight = { ent-OrganBaseLegRight }
     .desc = { ent-OrganBaseLegRight.desc }
-
 ent-OrganKoboldFootLeft = { ent-OrganBaseFootLeft }
     .desc = { ent-OrganBaseFootLeft.desc }
-
 ent-OrganKoboldFootRight = { ent-OrganBaseFootRight }
     .desc = { ent-OrganBaseFootRight.desc }

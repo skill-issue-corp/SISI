@@ -1,5 +1,4 @@
-ent-BorgModuleSurgery = surgery cyborg module
+ent-BorgModuleSurgery = хирургический модуль киборга
     .desc = { ent-BaseBorgModuleMedical.desc }
-
-ent-BorgModuleAdvancedSurgery = advanced surgery cyborg module
+ent-BorgModuleAdvancedSurgery = продвинутый хирургический модуль киборга
     .desc = { ent-BaseBorgModuleMedical.desc }

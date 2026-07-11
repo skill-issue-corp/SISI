@@ -1,35 +1,24 @@
 ent-SurgeryOpenCavityBase = { ent-SurgeryBase }
     .desc = { ent-SurgeryBase.desc }
-
 ent-SurgeryInstallAugmentBase = { ent-SurgeryBase }
     .desc = { ent-SurgeryBase.desc }
-
 ent-SurgeryRemoveAugmentBase = { ent-SurgeryBase }
     .desc = { ent-SurgeryBase.desc }
-
-ent-SurgeryInsertPowerCellSlot = Insert Power Cell Slot
+ent-SurgeryInsertPowerCellSlot = Вставить слот под батарею
     .desc = { ent-SurgeryInstallAugmentBase.desc }
-
-ent-SurgeryOpenPowerCellSlot = Open Cavity For Power Cell Slot
+ent-SurgeryOpenPowerCellSlot = Вскрыть полость под слот для батареи
     .desc = { ent-SurgeryOpenCavityBase.desc }
-
-ent-SurgeryRemovePowerCellSlot = Remove Power Cell Slot
+ent-SurgeryRemovePowerCellSlot = Удалить слот под батарею
     .desc = { ent-SurgeryRemoveAugmentBase.desc }
-
-ent-SurgeryInsertPowerCellCharger = Insert Internal Power Cell Charger
+ent-SurgeryInsertPowerCellCharger = Вставить внутреннее зарядное устройство батареи
     .desc = { ent-SurgeryInstallAugmentBase.desc }
-
-ent-SurgeryOpenPowerCellCharger = Open Cavity For Power Cell Charger
+ent-SurgeryOpenPowerCellCharger = Вскрыть полость под зарядное устройство батареи
     .desc = { ent-SurgeryOpenCavityBase.desc }
-
-ent-SurgeryRemovePowerCellCharger = Remove Internal Power Cell Charger
+ent-SurgeryRemovePowerCellCharger = Удалить внутреннее зарядное устройство батареи
     .desc = { ent-SurgeryRemoveAugmentBase.desc }
-
-ent-SurgeryOpenArmAugment = Open Cavity For Arm Augments
+ent-SurgeryOpenArmAugment = Вскрыть полость под аугментацию руки
     .desc = { ent-SurgeryOpenCavityBase.desc }
-
-ent-SurgeryInsertArmAugment = Insert Arm Augment
+ent-SurgeryInsertArmAugment = Вставить аугментацию руки
     .desc = { ent-SurgeryInstallAugmentBase.desc }
-
-ent-SurgeryRemoveArmAugment = Remove Arm Augment
+ent-SurgeryRemoveArmAugment = Удалить аугментацию руки
     .desc = { ent-SurgeryRemoveAugmentBase.desc }

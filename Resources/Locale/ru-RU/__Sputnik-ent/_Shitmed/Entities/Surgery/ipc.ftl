@@ -1,11 +1,8 @@
-ent-SurgeryInsertBorgBrain = Insert Positronic Brain
+ent-SurgeryInsertBorgBrain = Установить позитронный мозг
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryInsertPump = Insert Pump
+ent-SurgeryInsertPump = Установить насос
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryRemoveBorgBrain = Remove Positronic Brain
+ent-SurgeryRemoveBorgBrain = Извлечь позитронный мозг
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-
-ent-SurgeryRemovePump = Remove Pump
+ent-SurgeryRemovePump = Извлечь насос
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
