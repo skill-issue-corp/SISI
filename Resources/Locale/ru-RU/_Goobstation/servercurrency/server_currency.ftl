@@ -5,8 +5,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-server-currency-name-singular = Корвух Коин
-server-currency-name-plural = Корвух Коины
+server-currency-name-singular = СИСИ Коин
+server-currency-name-plural = СИСИ Коины
 
 ## Команды
 
@@ -54,9 +54,9 @@ gs-balanceui-shop-buy = Купить
 gs-balanceui-shop-footer = ⚠ Используйте ваш токен через Ahelp. Только 1 раз в день.
 gs-balanceui-shop-token-label = Токены
 gs-balanceui-shop-tittle-label = Титулы
-gs-balanceui-shop-buy-token-antag = Купить токен антага - { $price } Губ Коинов
-gs-balanceui-shop-buy-token-admin-abuse = Купить токен на злоупотребление админом - { $price } Губ Коинов
-gs-balanceui-shop-buy-token-hat = Купить токен на шляпу - { $price } Губ Коинов
+gs-balanceui-shop-buy-token-antag = Купить токен антага - { $price } Коинов
+gs-balanceui-shop-buy-token-admin-abuse = Купить токен на злоупотребление админом - { $price } Коинов
+gs-balanceui-shop-buy-token-hat = Купить токен на шляпу - { $price } Коинов
 gs-balanceui-shop-token-antag = Токен высокого уровня антага
 gs-balanceui-shop-token-admin-abuse = Токен злоупотребления админом
 gs-balanceui-shop-token-hat = Токен шляпы
