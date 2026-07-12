@@ -28,9 +28,11 @@ ent-AirlockAllServiceLocked = { ent-AirlockServiceLocked }
 ent-AirlockAllServiceGlassLocked = { ent-AirlockServiceGlassLocked }
     .suffix = Весь сервис, Закрыт
     .desc = { ent-AirlockServiceGlassLocked.desc }
-ent-AirlockRoboticsLocked = { ent-AirlockRobotics }
-    .suffix = Робототехник, Закрыт
-    .desc = { ent-AirlockRobotics.desc }
+# SIS-Start
+# ent-AirlockRoboticsLocked = { ent-AirlockRobotics }
+#     .suffix = Робототехник, Закрыт
+#     .desc = { ent-AirlockRobotics.desc }
+# SIS-End
 ent-AirlockJournalismLocked = { ent-AirlockServiceLocked }
     .suffix = Журнализм, Закрыт
     .desc = { ent-AirlockServiceLocked.desc }

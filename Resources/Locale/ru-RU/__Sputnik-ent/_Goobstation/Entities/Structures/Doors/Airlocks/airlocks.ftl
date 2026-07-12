@@ -7,6 +7,8 @@ ent-AirlockJanitorGlass = { ent-AirlockGlass }
 ent-HighSecAtmosLocked = { ent-HighSecDoor }
     .suffix = Атмосферный, Закрыт
     .desc = { ent-HighSecDoor.desc }
-ent-AirlockRobotics = { ent-AirlockGlass }
-    .suffix = Робототехник
-    .desc = { ent-AirlockGlass.desc }
+# SIS-Start
+# ent-AirlockRobotics = { ent-AirlockGlass }
+#     .suffix = Робототехник
+#     .desc = { ent-AirlockGlass.desc }
+# SIS-End
