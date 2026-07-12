@@ -1,3 +1,3 @@
-ent-EnergySwordXenoborg = energy sword
-    .desc = A very loud & dangerous sword with a beam made of pure, concentrated plasma. Cuts through unarmored targets like butter.
-    .suffix = Xenoborg
+ent-EnergySwordXenoborg = энергетический меч
+    .desc = Очень громкий и опасный меч с клинком из чистой концентрированной плазмы. Разрезает небронированные цели, как масло.
+    .suffix = Ксеноборг

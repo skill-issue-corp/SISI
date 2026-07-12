@@ -1,2 +1,2 @@
-ent-CrateVendingMachineRestockPTechFilled = PTech restock crate
-    .desc = Contains a restock box for the PTech vending machine.
+ent-CrateVendingMachineRestockPTechFilled = ящик с пополнением для ПТех
+    .desc = Содержит коробку с пополнением для торгового автомата ПТех.

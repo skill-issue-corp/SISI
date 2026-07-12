@@ -1,5 +1,4 @@
 ent-WeaponPistolIradomini = iradomini
-    .desc = A powerful crossbow for the crusader with style.
-
+    .desc = Мощный арбалет для крестоносца со стилем.
 ent-WeaponPistolFaith = faith
-    .desc = `Cause you gotta have Faith.
+    .desc = Ведь без веры никак.

@@ -1,56 +1,38 @@
 ent-BaseForgedProduct = { ent-BaseMetallicProcGen }
     .desc = { ent-BaseMetallicProcGen.desc }
-
 ent-BaseForgedProductCrossGuard = { ent-BaseForgedProduct }
     .desc = { ent-BaseForgedProduct.desc }
-
 ent-BaseForgedProductSeparateHead = { ent-BaseForgedProduct }
     .desc = { ent-BaseForgedProduct.desc }
-
-ent-ForgedKnife = knife
+ent-ForgedKnife = нож
     .desc = { ent-BaseForgedProduct.desc }
-
-ent-ForgedCleaver = cleaver
+ent-ForgedCleaver = тесак
     .desc = { ent-BaseForgedProduct.desc }
-
 ent-ForgedCombatKnife = { ent-BaseForgedProduct }
     .desc = { ent-BaseForgedProduct.desc }
-
 ent-ForgedKukriKnife = { ent-BaseForgedProduct }
     .desc = { ent-BaseForgedProduct.desc }
-
 ent-ForgedSurvivalKnife = { ent-BaseForgedProduct }
     .desc = { ent-BaseForgedProduct.desc }
-
 ent-ForgedHammer = { ent-BaseForgedProduct }
     .desc = { ent-BaseForgedProduct.desc }
-
 ent-ForgedScrewdriver = { ent-BaseForgedProduct }
     .desc = { ent-BaseForgedProduct.desc }
-
-ent-ForgedSword = arming sword
+ent-ForgedSword = боевой меч
     .desc = { ent-BaseForgedProductCrossGuard.desc }
-
-ent-ForgedHalberd = halberd
-    .desc = A powerful polearm with an oddly shaped head.
-
-ent-ForgedLongsword = longsword
-    .desc = It's like a sword, but longer. Needs two hands to wield properly.
-
-ent-ForgedWarhammer = warhammer
-    .desc = Every dwarf's gotta have one of these, or maybe forty thousand of them.
-
+ent-ForgedHalberd = алебарда
+    .desc = Мощное древковое оружие со странно изогнутым наконечником.
+ent-ForgedLongsword = длинный меч
+    .desc = Похож на меч, только длиннее. Чтобы владеть им как следует, нужны обе руки.
+ent-ForgedWarhammer = боевой молот
+    .desc = У каждого гнома должен быть такой, а то и сорок тысяч.
 ent-ForgedPickaxe = { ent-BaseForgedProductSeparateHead }
     .desc = { ent-BaseForgedProductSeparateHead.desc }
-
-ent-ForgedKatana = katana
-    .desc = While they were out partying, I practiced the blade.
-
-ent-ForgedArrow = arrow
+ent-ForgedKatana = катана
+    .desc = Пока они гуляли на вечеринках, я оттачивал клинок.
+ent-ForgedArrow = стрела
     .desc = { ent-BaseMetallicProcGen.desc }
-
 ent-ForgedSpear = { ent-BaseForgedProductSeparateHead }
     .desc = { ent-BaseForgedProductSeparateHead.desc }
-
-ent-ForgedMorningstar = morningstar
-    .desc = You REALLY don't want to get your skull caved in by this...
+ent-ForgedMorningstar = моргенштерн
+    .desc = Вам ОЧЕНЬ не захочется получить этим по черепу...

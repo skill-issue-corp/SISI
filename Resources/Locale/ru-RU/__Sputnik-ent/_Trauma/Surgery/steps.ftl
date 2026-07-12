@@ -1,14 +1,10 @@
-ent-SurgeryStepRearrangeTissue = Rearrange soft tissue
+ent-SurgeryStepRearrangeTissue = Переместить мягкие ткани
     .desc = { ent-SurgeryStepBase.desc }
-
-ent-SurgeryStepStitchVessels = Stitch up blood vessels
+ent-SurgeryStepStitchVessels = Зашить кровеносные сосуды
     .desc = { ent-SurgeryStepCloseBloodOutputs.desc }
-
-ent-SurgeryStepInsertHypoport = Add hypoport assembly
+ent-SurgeryStepInsertHypoport = Добавить гипопорт
     .desc = { ent-SurgeryStepInsertOrgan.desc }
-
-ent-SurgeryStepCreateJoint = Create joint
+ent-SurgeryStepCreateJoint = Создать сустав
     .desc = { ent-SurgeryStepSealBones.desc }
-
-ent-SurgeryStepStitchJoint = Stitch joint blood vessels
+ent-SurgeryStepStitchJoint = Зашить кровеносные сосуды сустава
     .desc = { ent-SurgeryStepCloseBloodOutputs.desc }

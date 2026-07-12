@@ -1,14 +1,10 @@
-ent-SkillChipResearchDirector = skill chip (RD)
+ent-SkillChipResearchDirector = чип навыков (НР)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipGeneticist = skill chip (geneticist)
+ent-SkillChipGeneticist = чип навыков (генетик)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipScientist = skill chip (scientist)
+ent-SkillChipScientist = чип навыков (учёный)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipResearchAssistant = skill chip (research assistant)
+ent-SkillChipResearchAssistant = чип навыков (ассистент-исследователь)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipRoboticist = skill chip (roboticist)
+ent-SkillChipRoboticist = чип навыков (робототехник)
     .desc = { ent-BaseSkillChip.desc }

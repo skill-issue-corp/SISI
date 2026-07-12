@@ -1,2 +1,2 @@
-ent-EnchantElectrified = Electrified
+ent-EnchantElectrified = Наэлектризованный
     .desc = { ent-BaseEnchant.desc }

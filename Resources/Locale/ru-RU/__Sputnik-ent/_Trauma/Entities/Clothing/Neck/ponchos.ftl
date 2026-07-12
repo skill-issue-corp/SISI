@@ -1,7 +1,7 @@
-ent-ClothingNeckPonchoArmstrong = itchy poncho
-    .desc = Make sure to wear an undershirt with this bad boy.
-    .suffix = DO NOT MAP
+ent-ClothingNeckPonchoArmstrong = колючее пончо
+    .desc = Обязательно наденьте под него нижнюю рубашку.
+    .suffix = НЕ МАППИТЬ
 
-ent-ClothingNeckPonchoLisa = silk poncho
-    .desc = Who did this belong to?
-    .suffix = DO NOT MAP
+ent-ClothingNeckPonchoLisa = шёлковое пончо
+    .desc = Кому же оно принадлежало?
+    .suffix = НЕ МАППИТЬ

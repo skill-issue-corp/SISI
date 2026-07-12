@@ -1,47 +1,32 @@
-ent-MartialArtCQC = Close Quarters Combat
+ent-MartialArtCQC = Ближний бой
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtCQCChef = Close Quarters Cooking
-    .desc = Just like CQC, but only usable in the kitchen, freezer and cafeteria.
-
-ent-MartialArtCorporateJudo = Corporate Judo
+ent-MartialArtCQCChef = Ближний кухонный бой
+    .desc = Как и ближний бой, но применим только на кухне, в морозильнике и столовой.
+ent-MartialArtCorporateJudo = Корпоративное дзюдо
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtKravMaga = Krav Maga
+ent-MartialArtKravMaga = Крав-мага
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtCapoeira = Capoeira
+ent-MartialArtCapoeira = Капоэйра
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtHellRip = Hell Rip
+ent-MartialArtHellRip = Адский разрыв
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtNinjutsu = Ninjutsu
+ent-MartialArtNinjutsu = Ниндзюцу
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtDragon = Dragon Kung Fu
+ent-MartialArtDragon = Кунг-фу дракона
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtSleepingCarp = Sleeping Carp
+ent-MartialArtSleepingCarp = Спящий карп
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtPlasmaFist = Plasma Fist
+ent-MartialArtPlasmaFist = Плазменный кулак
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtSpaceBear = Space Bear
+ent-MartialArtSpaceBear = Космический медведь
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtBoxing = Boxing
+ent-MartialArtBoxing = Бокс
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtDrunkfu = Drunk-Fu
+ent-MartialArtDrunkfu = Пьяное кунг-фу
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtMimejutsu = Mimejutsu
+ent-MartialArtMimejutsu = Мимодзюцу
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtAdminfu = Admin-Fu
+ent-MartialArtAdminfu = Админ-фу
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-
-ent-MartialArtArmstrongKarate = Armstrong style Karate
+ent-MartialArtArmstrongKarate = Карате стиля Армстронга
     .desc = { ent-BaseMartialArtsKnowledge.desc }

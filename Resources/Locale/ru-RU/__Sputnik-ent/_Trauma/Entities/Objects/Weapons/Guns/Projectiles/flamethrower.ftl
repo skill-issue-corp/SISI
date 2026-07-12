@@ -1,2 +1,2 @@
-ent-FlameThrowerBullet = flame
-    .desc = Dont be close to this probably.
+ent-FlameThrowerBullet = пламя
+    .desc = Наверное, лучше держаться подальше от этого.

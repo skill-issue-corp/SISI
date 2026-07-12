@@ -1,140 +1,140 @@
-ent-BaseDemon = demon
-    .desc = It came from hell.
+ent-BaseDemon = демон
+    .desc = Он явился из ада.
 
 ent-ControlledDemon = { "" }
     .desc = { "" }
 
-ent-MinorDemonGuy = strange man
+ent-MinorDemonGuy = странный человек
     .desc = { ent-BaseDemon.desc }
 
 ent-MinorDemonGuyControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MinorDemonIncel = jealousy incarnate
+ent-MinorDemonIncel = воплощённая зависть
     .desc = { ent-BaseDemon.desc }
 
 ent-MinorDemonIncelControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MinorDemonUrist = Urist McHands
+ent-MinorDemonUrist = Урист МакРуки
     .desc = { ent-BaseDemon.desc }
 
 ent-MinorDemonUristControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MinorDemonIan = Flesh Hound
+ent-MinorDemonIan = Гончая из плоти
     .desc = { ent-BaseDemon.desc }
 
 ent-MinorDemonIanControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MinorDemonVox = outcast
+ent-MinorDemonVox = изгой
     .desc = { ent-BaseDemon.desc }
 
 ent-MinorDemonVoxControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MinorDemonVulp = wrathful beast
+ent-MinorDemonVulp = яростный зверь
     .desc = { ent-BaseDemon.desc }
 
 ent-MinorDemonVulpControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MediumDemonCentifiend = Centifiend
+ent-MediumDemonCentifiend = Сотнехищник
     .desc = { ent-BaseDemon.desc }
 
 ent-MediumDemonCentifiendControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MediumDemonChad = prideful demon
+ent-MediumDemonChad = гордый демон
     .desc = { ent-BaseDemon.desc }
 
 ent-MediumDemonChadControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MediumDemonGhost = Pun Pun
+ent-MediumDemonGhost = Пан Пан
     .desc = { ent-BaseDemon.desc }
 
 ent-MediumDemonGhostControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MediumDemonHamlet = hellmet
+ent-MediumDemonHamlet = хеллмет
     .desc = { ent-BaseDemon.desc }
 
 ent-MediumDemonHamletControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MediumDemon64Fat = angel
+ent-MediumDemon64Fat = ангел
     .desc = { ent-BaseDemon.desc }
 
 ent-MediumDemon64FatControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MediumDemon64Buff = angel
+ent-MediumDemon64Buff = ангел
     .desc = { ent-BaseDemon.desc }
 
 ent-MediumDemon64BuffControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MediumDemon64 = angel
+ent-MediumDemon64 = ангел
     .desc = { ent-BaseDemon.desc }
 
 ent-MediumDemon64Controlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MajorDemonBosche = bosche
+ent-MajorDemonBosche = бош
     .desc = { ent-BaseDemon.desc }
 
 ent-MajorDemonBoscheControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MajorDemonFeverbird = feverbird
+ent-MajorDemonFeverbird = лихорадочная птица
     .desc = { ent-BaseDemon.desc }
 
 ent-MajorDemonFeverbirdControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MajorDemonHanged = hanged
+ent-MajorDemonHanged = повешенный
     .desc = { ent-BaseDemon.desc }
 
 ent-MajorDemonHangedControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-MajorDemonHiver = hiver
+ent-MajorDemonHiver = роевик
     .desc = { ent-BaseDemon.desc }
 
 ent-MajorDemonHiverControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-BeeLaughterDemon = demon bee
+ent-BeeLaughterDemon = пчела-демон
     .desc = { ent-BeeLaughter.desc }
 
-ent-MajorDemonSteamer = steamer
+ent-MajorDemonSteamer = паровик
     .desc = { ent-BaseDemon.desc }
 
 ent-MajorDemonSteamerControlled = { ent-ControlledDemon }
     .desc = { ent-ControlledDemon.desc }
-    .suffix = Controlled
+    .suffix = Управляемый
 
-ent-BaseDemonSummoningRuneHostile = summoning circle
-    .desc = A demon could be here any second...
+ent-BaseDemonSummoningRuneHostile = круг призыва
+    .desc = Демон может появиться здесь в любую секунду...
 
 ent-BaseDemonSummoningRuneFamiliar = { ent-BaseDemonSummoningRuneHostile }
     .desc = { ent-BaseDemonSummoningRuneHostile.desc }

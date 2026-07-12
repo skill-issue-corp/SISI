@@ -1,2 +1,2 @@
-ent-DiseaseBehaviorBreathSpread = Breath Spreading
-    .desc = Retrovirus particles are exhaled in your breath, potentially infecting anyone nearby.
+ent-DiseaseBehaviorBreathSpread = Распространение через дыхание
+    .desc = Частицы ретровируса выделяются с выдыхаемым воздухом, потенциально заражая находящихся рядом.

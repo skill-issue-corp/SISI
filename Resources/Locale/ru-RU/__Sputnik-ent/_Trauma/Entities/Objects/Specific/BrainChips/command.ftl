@@ -1,5 +1,4 @@
-ent-SkillChipCaptain = skill chip (captain)
+ent-SkillChipCaptain = чип навыков (капитан)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipNanotrasenRepresentative = skill chip (NTR)
+ent-SkillChipNanotrasenRepresentative = чип навыков (НТР)
     .desc = { ent-BaseSkillChip.desc }

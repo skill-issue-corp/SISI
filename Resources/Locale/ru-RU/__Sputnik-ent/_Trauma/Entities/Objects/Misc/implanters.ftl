@@ -1,10 +1,8 @@
 ent-HellRipImplanter = { ent-BaseImplantOnlyImplanterSyndi }
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-    .suffix = Hell Rip
-
-ent-RevShieldRipper = shield ripper
-    .desc = A device that quickly and painfully rips the mindshield out of someone, it can only be used one time.
-
-ent-FakeMindShieldImplanterRev = fake mindshield implanter
+    .suffix = Адский рип
+ent-RevShieldRipper = разрыватель щита
+    .desc = Устройство, которое быстро и болезненно вырывает ментальный щит из человека, может быть использовано только один раз.
+ent-FakeMindShieldImplanterRev = имплантер фальшивого ментального щита
     .desc = { ent-BaseImplantOnlyImplanter.desc }
-    .suffix = Fake Mindshield
+    .suffix = Фальшивый ментальный щит

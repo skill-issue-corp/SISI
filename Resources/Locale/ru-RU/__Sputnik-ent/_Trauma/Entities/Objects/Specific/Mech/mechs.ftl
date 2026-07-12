@@ -1,19 +1,14 @@
-ent-Killdozer = killdozer
-    .desc = Oh no
-
-ent-UnfinishedKilldozer = pile of metal parts
-    .desc = This feels forboding
-
-ent-WeaponMechMosinPorts = firing-port mosins
-    .desc = Several Mosin rifles modified to be accepted into the killdozer firing ports.
-    .suffix = Mech Weapon, Full
-
+ent-Killdozer = киллдозер
+    .desc = О нет
+ent-UnfinishedKilldozer = груда металлических частей
+    .desc = Это вызывает недоброе предчувствие
+ent-WeaponMechMosinPorts = винтовки мосина для бойниц
+    .desc = Несколько винтовок Мосина, переделанных для установки в бойницы киллдозера.
+    .suffix = Мех-оружие, полное
 ent-WeaponMechMosinPortsEmpty = { ent-WeaponMechMosinPorts }
     .desc = { ent-WeaponMechMosinPorts.desc }
-    .suffix = Mech Weapon, Empty
-
-ent-PowerArmorFrame = P.O.W.A.R armor frame
-    .desc = Precise Orbital WAR, armor
-
-ent-T45PowerArmor = T-45 P.O.W.A.R armor
-    .desc = Precise Orbital Worn Armor (for) Revolutionaries
+    .suffix = Мех-оружие, пустое
+ent-PowerArmorFrame = каркас брони П.О.В.А.Р.
+    .desc = Точная орбитальная война, броня
+ent-T45PowerArmor = броня T-45 П.О.В.А.Р.
+    .desc = Точная орбитальная надеваемая броня (для) революционеров

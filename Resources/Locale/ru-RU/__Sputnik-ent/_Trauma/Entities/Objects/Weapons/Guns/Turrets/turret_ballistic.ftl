@@ -1,3 +1,3 @@
 ent-WeaponTurretAntiInsurgent = { ent-BaseWeaponBallisticTurret }
     .desc = { ent-BaseWeaponBallisticTurret.desc }
-    .suffix = AntiInsurgent
+    .suffix = Противоповстанцевый

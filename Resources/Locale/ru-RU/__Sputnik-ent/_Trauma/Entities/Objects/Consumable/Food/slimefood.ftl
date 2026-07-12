@@ -1,2 +1,2 @@
-ent-Nutrislime = nutrislime
-    .desc = Perfect for feeding slimes, one clump should be enough for a baby slime to grow up and replicate.
+ent-Nutrislime = нутрислайм
+    .desc = Идеально подходит для кормления слаймов, одного комка должно хватить, чтобы детёныш слайма вырос и размножился.

@@ -1,6 +1,5 @@
-ent-WeaponLightMachineGunProletariat = Proletariat
-    .desc = An ancient LMG named for the classes it was used to oppress, until that class got ahold of it. Takes .22 short turret mags.
-
+ent-WeaponLightMachineGunProletariat = «Пролетарий»
+    .desc = Древний ручной пулемёт, названный в честь класса, который с его помощью угнетали, пока этот класс не заполучил его сам. Использует турельные магазины .22 короткий.
 ent-WeaponLightMachineGunProletariatEmpty = { ent-WeaponLightMachineGunProletariat }
     .desc = { ent-WeaponLightMachineGunProletariat.desc }
-    .suffix = Empty
+    .suffix = Пустой

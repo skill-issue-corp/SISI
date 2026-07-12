@@ -1,8 +1,6 @@
-ent-WeaponLaserSidearm = phaser
-    .desc = The Type 5 Heat Delivery System, Compact Variant, developed by Nanotrasen. The workhorse of Nanotrasen's security forces, but in a more portable size. Sacrifices some stopping power and capacity for ease of carry and faster charging. Can be set to disable for wrangling criminals, and lethal for when the going gets tough.
-
-ent-WeaponLaserGunCarbine = laser carbine
-    .desc = The burst fire Type 5/R Rapid Heat Delivery System, developed by Nanotrasen. Capable of firing a sustained volley of directed energy projectiles, though each individual projectile lacks the punch of the Type 5.
-
-ent-WeaponLaserGunAssault = assault laser rifle
-    .desc = The Type 5 Heat Delivery System, Assault Variant, developed by Nanotrasen. The workhorse of Nanotrasen's security forces and paramilitary organizations. While it sacrifices some stopping power and ease of use, its laser system is remarkably efficient and it boasts some resistance against electromagnetic interference.
+ent-WeaponLaserSidearm = фазер
+    .desc = Система теплового поражения «Тип 5», компактный вариант, разработанная «Нанотрейзен». Основное оружие сил безопасности «Нанотрейзен», только в более компактном исполнении. Жертвует останавливающей силой и ёмкостью заряда ради удобства ношения и более быстрой зарядки. Может быть переключён в режим оглушения для усмирения преступников или в летальный режим, когда дело принимает серьёзный оборот.
+ent-WeaponLaserGunCarbine = лазерный карабин
+    .desc = Система быстрого теплового поражения «Тип 5/Р» с очередями, разработанная «Нанотрейзен». Способна вести непрерывный залповый огонь направленной энергией, хотя каждый отдельный снаряд уступает в мощности «Типу 5».
+ent-WeaponLaserGunAssault = штурмовая лазерная винтовка
+    .desc = Система теплового поражения «Тип 5», штурмовой вариант, разработанная «Нанотрейзен». Основное оружие сил безопасности и военизированных организаций «Нанотрейзен». Хотя она уступает в останавливающей силе и удобстве использования, её лазерная система на удивление эффективна и обладает некоторой устойчивостью к электромагнитным помехам.

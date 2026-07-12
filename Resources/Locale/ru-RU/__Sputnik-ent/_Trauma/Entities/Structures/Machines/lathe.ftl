@@ -1,45 +1,31 @@
 ent-BaseLathe = { ent-BaseLatheNoSilo }
     .desc = { ent-BaseLatheNoSilo.desc }
-
 ent-BaseRevIndustry = { ent-BaseMachine }
     .desc = { ent-BaseMachine.desc }
-
-ent-RevForge = industrial forge
-    .desc = This jury rigged machine can produce all sorts of useful (and dangerous) components.
-
-ent-RevPrintingPress = printing press
-    .desc = A printing press for mass producing media, or in your case anti-NT propaganda.
-
-ent-CrewPrintingPress = printing press
-    .desc = A printing press for mass producing media, or instructional material.
-    .suffix = crew
-
-ent-RevRadioBench = telecommunications workshop
-    .desc = A device for hacking into nearby signals, allows the production of radiochips, turrets, as well as some upgrades for other machines.
-
-ent-RevTelesphere = telesphere
-    .desc = An experimental device, it can be used to remotely steal materials from passing trade ships using plasma. Additionally; it can be used as a material silo for the revolution.
-
-ent-RevPrinter = 3D printer
-    .desc = Makes either cute little guys or gun parts, zero inbetween. This one can print both metal and plastic.
-
-ent-RevBulletPress = bullet press
-    .desc = Creates ammo by pressing the bullet into the casing, this one is automated.
-
-ent-RevMicroelectronicsAssembler = microelectronics assembler
-    .desc = Allows the creation of illegal technology useful to the revolution.
-
-ent-RevUniformPrinter = military uniform printer
-    .desc = Creates armored clothing for the troops.
-
-ent-RevTechAnalyzer = tech analyzer
-    .desc = Scans NT tech and produces tech disks for the microelectronics assembler to create.
-
-ent-RevPlasmaFoundry = plasma foundry
-    .desc = An advanced foundry powered by plasma, it melts metals incredibly fast and produces advanced components.
-
-ent-RevPowerArmorStand = P.O.W.A.R armor stand
-    .desc = A P.O.W.A.R armor stand, used for showing off P.O.W.A.R armor.
-
-ent-RevMedFab = hidden medifab
-    .desc = A hidden subfloor fabricator that can make medical equipment.
+ent-RevForge = промышленный горн
+    .desc = Эта самодельная машина может производить всевозможные полезные (и опасные) компоненты.
+ent-RevPrintingPress = печатный станок
+    .desc = Печатный станок для массового производства медиа, или в вашем случае — антиНТ пропаганды.
+ent-CrewPrintingPress = печатный станок
+    .desc = Печатный станок для массового производства медиа, или обучающих материалов.
+    .suffix = Экипаж
+ent-RevRadioBench = телекоммуникационная мастерская
+    .desc = Устройство для взлома ближайших сигналов, позволяет производить радиочипы, турели, а также некоторые улучшения для других машин.
+ent-RevTelesphere = телесфера
+    .desc = Экспериментальное устройство, может использоваться для удалённой кражи материалов с проходящих торговых кораблей с помощью плазмы. Кроме того, может использоваться как хранилище материалов для революции.
+ent-RevPrinter = 3D-принтер
+    .desc = Создаёт либо милых маленьких существ, либо детали для оружия, и ничего среднего между этим. Этот может печатать как металлом, так и пластиком.
+ent-RevBulletPress = пресс для патронов
+    .desc = Создаёт боеприпасы, впрессовывая пулю в гильзу, этот пресс автоматизирован.
+ent-RevMicroelectronicsAssembler = сборщик микроэлектроники
+    .desc = Позволяет создавать нелегальные технологии, полезные для революции.
+ent-RevUniformPrinter = принтер военной формы
+    .desc = Создаёт бронированную одежду для солдат.
+ent-RevTechAnalyzer = анализатор технологий
+    .desc = Сканирует технологии НТ и производит технодиски для создания сборщиком микроэлектроники.
+ent-RevPlasmaFoundry = плазменный горн
+    .desc = Продвинутый горн, работающий на плазме, невероятно быстро плавит металлы и производит продвинутые компоненты.
+ent-RevPowerArmorStand = стойка для брони П.О.Б.Е.Д.А.
+    .desc = Стойка для брони П.О.Б.Е.Д.А., используется для демонстрации брони П.О.Б.Е.Д.А.
+ent-RevMedFab = скрытый медифаб
+    .desc = Скрытый подпольный фабрикатор, способный производить медицинское оборудование.

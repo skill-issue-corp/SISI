@@ -1,35 +1,25 @@
-ent-ClothingBeltRevWebbing = chest rig
-    .desc = Ideal for storing everything from ammo to weapons and combat essentials.
-
-ent-ClothingBeltKnifeRig = throwing knife rig
-    .desc = A specialised bandolier meant to hold throwing knives.
-
+ent-ClothingBeltRevWebbing = разгрузочный жилет
+    .desc = Идеально подходит для хранения всего: от боеприпасов до оружия и предметов первой необходимости в бою.
+ent-ClothingBeltKnifeRig = крепление для метательных ножей
+    .desc = Специальная перевязь, предназначенная для хранения метательных ножей.
 ent-BaseSheathCounterAttackWeak = { "" }
     .desc = { "" }
-
 ent-BaseSheathCounterAttackMedium = { ent-BaseSheathCounterAttackWeak }
     .desc = { ent-BaseSheathCounterAttackWeak.desc }
-
 ent-BaseSheathCounterAttackStrong = { ent-BaseSheathCounterAttackWeak }
     .desc = { ent-BaseSheathCounterAttackWeak.desc }
-
-ent-ClothingBeltSheathKatana = katana sheath
-    .desc = A sheath designed to hold an officer's blade.
-
+ent-ClothingBeltSheathKatana = ножны для катаны
+    .desc = Ножны, предназначенные для хранения клинка офицера.
 ent-ClothingBeltSheathKatanaFilled = { ent-ClothingBeltSheathKatana }
     .desc = { ent-ClothingBeltSheathKatana.desc }
-    .suffix = Filled
-
-ent-ClothingBeltSheathKatanaNinja = energy katana sheath
-    .desc = A high tech katana sheath that allows for quick blade movements.
-
+    .suffix = Заполненный
+ent-ClothingBeltSheathKatanaNinja = ножны для энергетической катаны
+    .desc = Высокотехнологичные ножны для катаны, позволяющие совершать быстрые движения клинком.
 ent-ClothingBeltSheathKatanaNinjaFilled = { ent-ClothingBeltSheathKatanaNinja }
     .desc = { ent-ClothingBeltSheathKatanaNinja.desc }
-    .suffix = Filled
-
-ent-ClothingBeltSheathSnakesfang = snakesfang scabbard
-    .desc = Can hold scimitars.
-
+    .suffix = Заполненный
+ent-ClothingBeltSheathSnakesfang = ножны «жало змеи»
+    .desc = Могут вмещать скимитары.
 ent-ClothingBeltSheathSnakesfangFilled = { ent-ClothingBeltSheathSnakesfang }
     .desc = { ent-ClothingBeltSheathSnakesfang.desc }
-    .suffix = Filled
+    .suffix = Заполненный

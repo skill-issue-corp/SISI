@@ -1,5 +1,4 @@
-ent-CrateRotaryPhone = rotary phone crate
-    .desc = A crate with 5 phones inside, prank calls are a punishable offense
-
-ent-CrateServiceCoconutCrab = coconut crab crate
-    .desc = This is crabtually insane!
+ent-CrateRotaryPhone = ящик с дисковыми телефонами
+    .desc = Ящик с 5 телефонами внутри, звонки-розыгрыши караются по закону
+ent-CrateServiceCoconutCrab = ящик с кокосовыми крабами
+    .desc = Это крабсолютное безумие!

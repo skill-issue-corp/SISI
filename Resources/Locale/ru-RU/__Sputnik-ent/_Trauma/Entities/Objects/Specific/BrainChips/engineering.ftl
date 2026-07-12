@@ -1,11 +1,8 @@
-ent-SkillChipChiefEngineer = skill chip (CE)
+ent-SkillChipChiefEngineer = чип навыков (СИ)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipAtmosphericTechnician = skill chip (atmos)
+ent-SkillChipAtmosphericTechnician = чип навыков (атмос)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipStationEngineer = skill chip (engi)
+ent-SkillChipStationEngineer = чип навыков (инженер)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipTechnicalAssistant = skill chip (techie)
+ent-SkillChipTechnicalAssistant = чип навыков (техник-ассистент)
     .desc = { ent-BaseSkillChip.desc }

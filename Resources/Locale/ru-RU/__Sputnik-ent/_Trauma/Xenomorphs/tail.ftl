@@ -1,2 +1,2 @@
-ent-MobXenomorphTailSegmentBase = xenomorph tail
+ent-MobXenomorphTailSegmentBase = хвост ксеноморфа
     .desc = { "" }

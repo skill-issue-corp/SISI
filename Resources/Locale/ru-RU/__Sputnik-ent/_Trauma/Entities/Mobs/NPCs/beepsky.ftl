@@ -1,5 +1,4 @@
-ent-MobSecuritron = securitron
-    .desc = Tiders hate this one simple trick!
-
-ent-MobBeepsky = Officer Beepsky
-    .desc = It's Commander Beep O'sky! Officially the superior officer of all bots on station, Beepsky remains as humble and dedicated to the law as the day he was first fabricated.
+ent-MobSecuritron = секьюритрон
+    .desc = Тайдеры ненавидят этот один простой трюк!
+ent-MobBeepsky = Офицер Бипски
+    .desc = Это командир Бип О'ски! Официально старший по званию среди всех ботов станции, Бипски остаётся таким же скромным и преданным закону, каким был в день своего создания.

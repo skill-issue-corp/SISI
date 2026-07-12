@@ -1,2 +1,2 @@
-ent-TongueSpike = biomass spike
-    .desc = Hardened biomass, shaped into a spike. Very pointy!
+ent-TongueSpike = биомассовый шип
+    .desc = Затвердевшая биомасса, приобретшая форму шипа. Очень острый!

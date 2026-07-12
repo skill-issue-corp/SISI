@@ -1,2 +1,2 @@
-ent-CharcoalOven = charcoal oven
-    .desc = Turns wood into either charcoal or ash.
+ent-CharcoalOven = печь для угля
+    .desc = Превращает дерево в уголь или золу.

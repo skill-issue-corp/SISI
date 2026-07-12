@@ -1,11 +1,8 @@
-ent-ToughnessKnowledge = Toughness
+ent-ToughnessKnowledge = Выносливость
     .desc = { ent-BasePhysicalKnowledge.desc }
-
-ent-StrengthKnowledge = Strength
+ent-StrengthKnowledge = Сила
     .desc = { ent-BasePhysicalKnowledge.desc }
-
-ent-AthleticsKnowledge = Athletics
+ent-AthleticsKnowledge = Атлетика
     .desc = { ent-BasePhysicalKnowledge.desc }
-
-ent-ThrowingKnowledge = Throwing
+ent-ThrowingKnowledge = Метание
     .desc = { ent-BasePhysicalKnowledge.desc }

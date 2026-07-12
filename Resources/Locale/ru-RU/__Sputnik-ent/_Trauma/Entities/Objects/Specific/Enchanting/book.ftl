@@ -1,2 +1,2 @@
-ent-BloodEnchanter = defaced bible
-    .desc = A defaced bible, useful for enchanting with blood magic.
+ent-BloodEnchanter = осквернённая библия
+    .desc = Осквернённая библия, полезная для зачарования кровавой магией.

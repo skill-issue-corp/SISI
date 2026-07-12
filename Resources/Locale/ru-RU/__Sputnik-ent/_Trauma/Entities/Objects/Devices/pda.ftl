@@ -1,20 +1,14 @@
-ent-GeneticistPDA = geneticist PDA
-    .desc = Unfortunately, this PDA does not come with a free sample of Hulk DNA.
-
-ent-PhoneMerchantPDA = phone merchant PDA
-    .desc = Ring a ding ding!
-
-ent-HunterPDA = SpacePol PDA
-    .desc = Surprisingly low quality, for a spacepol officer's pda.
-
-ent-AltNanotrasenRepresentativePDA = nanotrasen representative's PDA
-    .desc = Slick design for the one who pushes pencils.
-
-ent-AltHoPPDA = head of personnel PDA
-    .desc = Themed after everyone's favourite pet.
-
-ent-AltCaptainPDA = captain PDA
-    .desc = A stylish, modern, golden and more expensive PDA than yours.
-
-ent-SyndiMedicPDA = syndicate medic PDA
-    .desc = Ok, time to be a productive member of- oh cool I'm a bad guy time to kill people!
+ent-GeneticistPDA = КПК генетика
+    .desc = К сожалению, этот КПК не идёт с бесплатным образцом ДНК Халка.
+ent-PhoneMerchantPDA = КПК телефонного торговца
+    .desc = Дзинь-дзинь-дзинь!
+ent-HunterPDA = КПК СпейсПола
+    .desc = Удивительно низкое качество для КПК офицера спейспола.
+ent-AltNanotrasenRepresentativePDA = КПК представителя NanoTrasen
+    .desc = Стильный дизайн для того, кто перекладывает бумажки.
+ent-AltHoPPDA = КПК главы персонала
+    .desc = Оформлен в стиле любимого питомца всех и каждого.
+ent-AltCaptainPDA = КПК капитана
+    .desc = Стильный, современный, золотой и более дорогой КПК, чем у вас.
+ent-SyndiMedicPDA = КПК медика синдиката
+    .desc = Так, время быть продуктивным членом об- о, круто, я плохой парень, пора убивать людей!

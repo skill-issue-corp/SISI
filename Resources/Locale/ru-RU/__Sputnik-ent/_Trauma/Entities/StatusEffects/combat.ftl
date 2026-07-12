@@ -1,11 +1,8 @@
-ent-StatusEffectFlip = flip
+ent-StatusEffectFlip = кувырок
     .desc = { ent-StatusEffectBase.desc }
-
-ent-StatusEffectFlipDesword = flip and dodge
+ent-StatusEffectFlipDesword = кувырок и уклонение
     .desc = { ent-StatusEffectSpeed.desc }
-
-ent-CounterAttackingStatusEffect = counter attacking
+ent-CounterAttackingStatusEffect = контратака
     .desc = { ent-StatusEffectBase.desc }
-
-ent-BlockCounterAttackStatusEffect = counter attacking blocked
+ent-BlockCounterAttackStatusEffect = контратака заблокирована
     .desc = { ent-StatusEffectBase.desc }

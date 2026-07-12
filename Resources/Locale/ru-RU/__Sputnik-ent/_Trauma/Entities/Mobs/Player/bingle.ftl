@@ -1,36 +1,26 @@
 ent-MobBingleTrauma = { ent-MobBingle }
     .desc = { ent-MobBingle.desc }
-
 ent-MobBingleUpgradedTrauma = { ent-MobBingleTrauma }
     .desc = { ent-MobBingleTrauma.desc }
-
-ent-BulletBingle = acid spit
+ent-BulletBingle = плевок кислотой
     .desc = { ent-BaseBullet.desc }
-
 ent-MobBinglePrimeTrauma = { ent-MobBingleBoney }
     .desc = { ent-MobBingleBoney.desc }
-    .suffix = Prime
-
-ent-BulletBingleStrong = strong acid spit
+    .suffix = Прайм
+ent-BulletBingleStrong = плевок сильной кислотой
     .desc = { ent-BaseBullet.desc }
-
-ent-MobBingleHunk = hunkish bingle
-    .desc = This one is rather large.
-
-ent-MobBingleSlavering = slavering bingle
-    .desc = This one leaks acid.
-
-ent-MobBingleBoney = boney bingle
-    .desc = This ones faster than the others.
-
-ent-MobBingleUpgradedHunk = hulking bingle
-    .desc = This one is an absolute tank.
-    .suffix = Upgraded
-
-ent-MobBingleUpgradedSlavering = melting bingle
-    .desc = This one is melting to nothing.
-    .suffix = Upgraded
-
-ent-MobBingleUpgradedBoney = skeletal bingle
-    .desc = This one is incredibly fast.
-    .suffix = Upgraded
+ent-MobBingleHunk = здоровяк бингл
+    .desc = Этот довольно крупный.
+ent-MobBingleSlavering = слюнявый бингл
+    .desc = Этот истекает кислотой.
+ent-MobBingleBoney = костлявый бингл
+    .desc = Этот быстрее остальных.
+ent-MobBingleUpgradedHunk = громадный бингл
+    .desc = Этот - настоящий танк.
+    .suffix = Улучшенный
+ent-MobBingleUpgradedSlavering = плавящийся бингл
+    .desc = Этот тает до основания.
+    .suffix = Улучшенный
+ent-MobBingleUpgradedBoney = скелетоподобный бингл
+    .desc = Этот невероятно быстрый.
+    .suffix = Улучшенный

@@ -1,2 +1,2 @@
-ent-MindRoleInsurgent = Insurgent Role
+ent-MindRoleInsurgent = Роль повстанца
     .desc = { ent-BaseMindRoleAntag.desc }

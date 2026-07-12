@@ -1,2 +1,2 @@
-ent-ComputerCircuitEditor = circuit editor console
+ent-ComputerCircuitEditor = консоль редактора схем
     .desc = { ent-BaseComputerAiAccess.desc }

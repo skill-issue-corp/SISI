@@ -1,2 +1,2 @@
-ent-EnchantMagicSentience = Sentience
+ent-EnchantMagicSentience = Разумность
     .desc = { ent-BaseEnchant.desc }

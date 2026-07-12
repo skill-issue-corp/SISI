@@ -1,5 +1,4 @@
-ent-MagicalLiteracyKnowledge = Magical Literacy
+ent-MagicalLiteracyKnowledge = Магическая грамотность
     .desc = { ent-BaseIntellectualKnowledge.desc }
-
-ent-LiteracyKnowledge = Literacy
+ent-LiteracyKnowledge = Грамотность
     .desc = { ent-BaseIntellectualKnowledge.desc }

@@ -1,113 +1,85 @@
 ent-BaseInk = { ent-BaseItem }
-    .desc = A vial of magical ink, can be used on a scroll to prepare an encantment or curse.
-
-ent-MagicInkRandom = random magic ink
+    .desc = Флакон магических чернил, может быть использован на свитке для подготовки зачарования или проклятия.
+ent-MagicInkRandom = случайные магические чернила
     .desc = { ent-BaseItem.desc }
-
-ent-MagicInkAshartine = ashartine
+ent-MagicInkAshartine = ашартин
     .desc = { ent-BaseInk.desc }
-    .suffix = Sharpness
-
-ent-MagicInkAsimel = asimel
+    .suffix = Остроту
+ent-MagicInkAsimel = асимель
     .desc = { ent-BaseInk.desc }
-    .suffix = Fire Aspect
-
-ent-MagicInkAzurapetra = azura petra
+    .suffix = Аспект огня
+ent-MagicInkAzurapetra = азура петра
     .desc = { ent-BaseInk.desc }
-    .suffix = Fortune
-
-ent-MagicInkCatwink = catwink
+    .suffix = Удачу
+ent-MagicInkCatwink = катвинк
     .desc = { ent-BaseInk.desc }
-    .suffix = Insulated
-
-ent-MagicInkEndozult = endozult
+    .suffix = Изоляцию
+ent-MagicInkEndozult = эндозульт
     .desc = { ent-BaseInk.desc }
-    .suffix = Knockback
-
-ent-MagicInkHithine = hithine
+    .suffix = Отбрасывание
+ent-MagicInkHithine = хитин
     .desc = { ent-BaseInk.desc }
-    .suffix = Lavaforged
-
-ent-MagicInkHoundsgall = houndsgall
+    .suffix = Лавакование
+ent-MagicInkHoundsgall = хаундсгалл
     .desc = { ent-BaseInk.desc }
-    .suffix = Protection
-
-ent-MagicInkIndothine = indothine
+    .suffix = Защиту
+ent-MagicInkIndothine = индотин
     .desc = { ent-BaseInk.desc }
-    .suffix = Fire Protection
-
-ent-MagicInkMarakat = marakat
+    .suffix = Огнезащиту
+ent-MagicInkMarakat = маракат
     .desc = { ent-BaseInk.desc }
-    .suffix = Slippery
-
-ent-MagicInkNillycant = nillycant
+    .suffix = Скользкость
+ent-MagicInkNillycant = ниликант
     .desc = { ent-BaseInk.desc }
-    .suffix = Thorns
-
-ent-MagicInkNocimat = nocimat
+    .suffix = Шипы
+ent-MagicInkNocimat = ноцимат
     .desc = { ent-BaseInk.desc }
-    .suffix = Unbreaking
-
-ent-MagicInkOrpimentexultant = orpiment exultant
+    .suffix = Небьющееся
+ent-MagicInkOrpimentexultant = орпимент эксультант
     .desc = { ent-BaseInk.desc }
-    .suffix = Unslippable
-
-ent-MagicInkPorphyrine = porphyrine
+    .suffix = Нескользящее
+ent-MagicInkPorphyrine = порфирин
     .desc = { ent-BaseInk.desc }
-    .suffix = Electrified
-
-ent-MagicInkPosithane = posithane
+    .suffix = Наэлектризованность
+ent-MagicInkPosithane = поситан
     .desc = { ent-BaseInk.desc }
-    .suffix = Focus
-
-ent-MagicInkPyroendine = pyroendine
+    .suffix = Фокус
+ent-MagicInkPyroendine = пироэндин
     .desc = { ent-BaseInk.desc }
-    .suffix = Laser
-
-ent-MagicInkRaggath = raggath
+    .suffix = Лазер
+ent-MagicInkRaggath = раггат
     .desc = { ent-BaseInk.desc }
-    .suffix = Magic Protection
-
-ent-MagicInkRubiginosus = rubiginosus
+    .suffix = Магозащиту
+ent-MagicInkRubiginosus = рубигинозус
     .desc = { ent-BaseInk.desc }
-    .suffix = magnetized
-
-ent-MagicInkStargallink = stargall
+    .suffix = Намагниченность
+ent-MagicInkStargallink = старгалл
     .desc = { ent-BaseInk.desc }
-    .suffix = Poison
-
-ent-MagicInkTerragall = terragall
+    .suffix = Яд
+ent-MagicInkTerragall = террагалл
     .desc = { ent-BaseInk.desc }
-    .suffix = Rotting
-
-ent-MagicInkPerhibiate = perhibiate
+    .suffix = Гниение
+ent-MagicInkPerhibiate = пергибиат
     .desc = { ent-BaseInk.desc }
-    .suffix = Curse of Burning
-
-ent-MagicInkPerinsabate = perinsabate
+    .suffix = Проклятие горения
+ent-MagicInkPerinsabate = перинсабат
     .desc = { ent-BaseInk.desc }
-    .suffix = Curse of Clumsy
-
-ent-MagicInkPerinculate = perinculate
+    .suffix = Проклятие неуклюжести
+ent-MagicInkPerinculate = перинкулат
     .desc = { ent-BaseInk.desc }
-    .suffix = Curse of Slowness
-
-ent-MagicInkPurpuraatramentum = purpura tramentum
+    .suffix = Проклятие медлительности
+ent-MagicInkPurpuraatramentum = пурпура траментум
     .desc = { ent-BaseInk.desc }
-    .suffix = Curse of Gravity
-
-ent-MagicInkPyrathene = pyrathene
+    .suffix = Проклятие гравитации
+ent-MagicInkPyrathene = пиратен
     .desc = { ent-BaseInk.desc }
-    .suffix = Curse of Invisibility
-
-ent-MagicInkUnden = unden
+    .suffix = Проклятие невидимости
+ent-MagicInkUnden = унден
     .desc = { ent-BaseInk.desc }
-    .suffix = Sentience
-
-ent-MagicInkUzult = uzult
+    .suffix = Разумность
+ent-MagicInkUzult = узульт
     .desc = { ent-BaseInk.desc }
-    .suffix = Curse of Binding
-
-ent-MagicInkYewgallink = yewgall
+    .suffix = Проклятие связывания
+ent-MagicInkYewgallink = югалл
     .desc = { ent-BaseInk.desc }
-    .suffix = Curse of Vanishing
+    .suffix = Проклятие исчезновения

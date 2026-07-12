@@ -1,20 +1,14 @@
 ent-BaseAreaAbandoned = { ent-BaseAreaStation }
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaAbandonedGarden = abandoned garden
+ent-AreaAbandonedGarden = заброшенный сад
     .desc = { ent-BaseAreaAbandoned.desc }
-
-ent-AreaAbandonedKitchen = abandoned kitchen
+ent-AreaAbandonedKitchen = заброшенная кухня
     .desc = { ent-BaseAreaAbandoned.desc }
-
-ent-AreaAbandonedLibrary = abandoned library
+ent-AreaAbandonedLibrary = заброшенная библиотека
     .desc = { ent-BaseAreaAbandoned.desc }
-
-ent-AreaAbandonedMed = abandoned med
+ent-AreaAbandonedMed = заброшенный медотсек
     .desc = { ent-BaseAreaAbandoned.desc }
-
-ent-AreaAbandonedSci = abandoned sci
+ent-AreaAbandonedSci = заброшенный научный отсек
     .desc = { ent-BaseAreaAbandoned.desc }
-
-ent-AreaAbandonedTheatre = abandoned theatre
+ent-AreaAbandonedTheatre = заброшенный театр
     .desc = { ent-BaseAreaAbandoned.desc }

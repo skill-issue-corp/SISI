@@ -1,5 +1,4 @@
-ent-ActionDemonRift = Demon Blink
-    .desc = Click somewhere to teleport to it.
-
+ent-ActionDemonRift = demon blink
+    .desc = Нажмите куда-либо, чтобы телепортироваться туда.
 ent-ActionDemonGaze = Demon Gaze
-    .desc = Generates a massive death beam that eradicates everything in it's path. Has it's own gravitational pull, sucking in new victims.
+    .desc = Создаёт мощный луч смерти, уничтожающий всё на своём пути. Обладает собственной гравитацией, затягивающей новых жертв.

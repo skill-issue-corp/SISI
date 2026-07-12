@@ -1,4 +1,4 @@
-ent-CigPackBaseSoft = cigarette soft pack
+ent-CigPackBaseSoft = мягкая пачка сигарет
     .desc = { ent-CigPackBase.desc }
 
 # SIS-Start

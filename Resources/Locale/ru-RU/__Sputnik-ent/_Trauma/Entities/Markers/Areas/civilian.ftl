@@ -1,35 +1,24 @@
-ent-BaseAreaCivilian = civilian
+ent-BaseAreaCivilian = гражданский отсек
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaLibrary = library
+ent-AreaLibrary = библиотека
     .desc = { ent-BaseAreaCivilian.desc }
-
-ent-AreaCourtRoom = court room
+ent-AreaCourtRoom = зал суда
     .desc = { ent-BaseAreaCivilian.desc }
-
-ent-AreaLawOffice = law office
+ent-AreaLawOffice = юридическая контора
     .desc = { ent-BaseAreaCivilian.desc }
-
-ent-AreaTheatre = theatre
+ent-AreaTheatre = театр
     .desc = { ent-BaseAreaCivilian.desc }
-
-ent-AreaJanitor = janitor
+ent-AreaJanitor = каптёрка уборщика
     .desc = { ent-BaseAreaCivilian.desc }
-
-ent-AreaChapel = chapel
+ent-AreaChapel = часовня
     .desc = { ent-BaseAreaCivilian.desc }
-
-ent-AreaChapelOffice = chapel office
+ent-AreaChapelOffice = кабинет часовни
     .desc = { ent-AreaChapel.desc }
-
-ent-AreaChapelCremate = crematorium
+ent-AreaChapelCremate = крематорий
     .desc = { ent-AreaChapel.desc }
-
-ent-AreaDojo = dojo
+ent-AreaDojo = додзё
     .desc = { ent-BaseAreaCivilian.desc }
-
-ent-AreaToolStorage = tool storage
-    .desc = Birthplace of the assistants.
-
-ent-AreaNewsroom = news room
+ent-AreaToolStorage = склад инструментов
+    .desc = Место рождения ассистентов.
+ent-AreaNewsroom = редакция новостей
     .desc = { ent-BaseAreaCivilian.desc }

@@ -1,14 +1,11 @@
-ent-BaseMagazineGaussgun = gauss magazine
-    .desc = 15 round magazine for Gaussguns, can contain a variety of ammo types.
-    .suffix = Full
-
+ent-BaseMagazineGaussgun = магазин гаусс-оружия
+    .desc = Магазин на 15 патронов для гаусс-оружия, может содержать различные типы боеприпасов.
+    .suffix = Полный
 ent-MagazineGaussgun = { ent-BaseMagazineGaussgun }
     .desc = { ent-BaseMagazineGaussgun.desc }
-    .suffix = Empty
-
-ent-MagazineGaussgunImprov = improvised gauss magazine
-    .desc = A low quality magazine for gauss guns, it will work in a pinch.
-    .suffix = Empty
-
-ent-CraftingGaussMagazineImprov = unfinished improvised magazine
-    .desc = An unfinished magazine for a gauss weapon.
+    .suffix = Пустой
+ent-MagazineGaussgunImprov = самодельный магазин гаусс-оружия
+    .desc = Некачественный магазин для гаусс-оружия, сойдёт в крайнем случае.
+    .suffix = Пустой
+ent-CraftingGaussMagazineImprov = недоделанный самодельный магазин
+    .desc = Незаконченный магазин для гаусс-оружия.

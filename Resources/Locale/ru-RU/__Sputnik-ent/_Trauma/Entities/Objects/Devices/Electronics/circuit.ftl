@@ -1,14 +1,10 @@
-ent-Circuit = integrated circuit
-    .desc = A field programmable gate array, what it can do is virtually limitless.
-
+ent-Circuit = интегральная микросхема
+    .desc = Программируемая пользователем вентильная матрица, её возможности практически безграничны.
 ent-BaseCircuitSlot = { "" }
     .desc = { "" }
-
 ent-BaseCircuitHousing = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
-ent-CircuitHousing = circuit housing
-    .desc = A housing for an integrated circuit, providing it with I/O ports using a LV power supply.
-
-ent-CircuitHousingPortable = portable circuit housing
-    .desc = A battery-powered integrated circuit housing, capable of working on the go.
+ent-CircuitHousing = корпус для микросхемы
+    .desc = Корпус для интегральной микросхемы, обеспечивающий её портами ввода-вывода от источника низкого напряжения.
+ent-CircuitHousingPortable = портативный корпус для микросхемы
+    .desc = Работающий от батареи корпус для интегральной микросхемы, способный функционировать в полевых условиях.

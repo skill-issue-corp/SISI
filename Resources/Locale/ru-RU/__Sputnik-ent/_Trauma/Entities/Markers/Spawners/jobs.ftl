@@ -1,5 +1,4 @@
-ent-DropPodPlayer = crew drop pod
+ent-DropPodPlayer = десантная капсула экипажа
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnPointGeneticist = geneticist spawn point
+ent-SpawnPointGeneticist = точка спавна генетика
     .desc = { ent-SpawnPointJobBase.desc }

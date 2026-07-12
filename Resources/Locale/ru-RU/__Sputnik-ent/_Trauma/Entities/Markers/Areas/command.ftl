@@ -1,53 +1,36 @@
 ent-BaseAreaCommand = { ent-BaseAreaStation }
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaBridge = bridge
+ent-AreaBridge = мостик
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaBridgeHall = bridge hall
+ent-AreaBridgeHall = зал мостика
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaCommand = command
+ent-AreaCommand = командование
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaCommandMeetingRoom = command meeting room
+ent-AreaCommandMeetingRoom = переговорная командования
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaCommandGateway = command gateway
+ent-AreaCommandGateway = портал командования
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaCommandShowroom = command showroom
+ent-AreaCommandShowroom = демонстрационный зал командования
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaCommandTeleporter = command teleporter
+ent-AreaCommandTeleporter = телепорт командования
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaEvaRoom = eva room
+ent-AreaEvaRoom = комната EVA
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaVault = vault
+ent-AreaVault = хранилище
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaNukeStorage = nuke storage
+ent-AreaNukeStorage = хранилище ядерной бомбы
     .desc = { ent-AreaVault.desc }
-
-ent-AreaCapQuarters = cap quarters
+ent-AreaCapQuarters = каюта капитана
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaOfficeCE = CE office
+ent-AreaOfficeCE = офис СИ
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaOfficeCmo = CMO office
+ent-AreaOfficeCmo = офис ГВ
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaOfficeHop = HOP
+ent-AreaOfficeHop = ГП
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaOfficeHos = HOS office
+ent-AreaOfficeHos = офис ГСБ
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaOfficeRd = RD office
+ent-AreaOfficeRd = офис НИ
     .desc = { ent-BaseAreaCommand.desc }
-
-ent-AreaOfficeQm = QM office
+ent-AreaOfficeQm = офис КС
     .desc = { ent-BaseAreaCommand.desc }

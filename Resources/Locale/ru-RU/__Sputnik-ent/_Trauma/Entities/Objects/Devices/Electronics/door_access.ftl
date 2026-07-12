@@ -1,11 +1,9 @@
 ent-DoorElectronicsRevolutionary = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Revolutionary, Locked
-
+    .suffix = Революционер, Заблокировано
 ent-DoorElectronicsGenetics = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Genetics, Locked
-
+    .suffix = Генетика, Заблокировано
 ent-DoorElectronicsLibrary = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Library, Locked
+    .suffix = Библиотека, Заблокировано

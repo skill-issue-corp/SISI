@@ -3,4 +3,4 @@ ent-OrganMothWings = { ent-OrganBaseWings }
 
 ent-OrganMothWingsDefault = { ent-OrganMothWings }
     .desc = { ent-OrganMothWings.desc }
-    .suffix = Moth, Default
+    .suffix = Моль, Стандартные

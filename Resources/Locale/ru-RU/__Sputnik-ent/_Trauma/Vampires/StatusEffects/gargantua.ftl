@@ -1,14 +1,10 @@
-ent-BloodSwellStatusEffect = blood swell
+ent-BloodSwellStatusEffect = кровяное вздутие
     .desc = { ent-StaminaModifierStatusEffect.desc }
-
-ent-BloodSwellStatusEffectII = blood swell II
+ent-BloodSwellStatusEffectII = кровяное вздутие II
     .desc = { ent-BloodSwellStatusEffect.desc }
-
-ent-StatusEffectBloodRush = blood rush
+ent-StatusEffectBloodRush = кровяной рывок
     .desc = { ent-StatusEffectSpeed.desc }
-
-ent-StatusEffectOverwhelmingForce = overwhelming force
+ent-StatusEffectOverwhelmingForce = подавляющая сила
     .desc = { ent-MobStatusEffectBase.desc }
-
-ent-StatusEffectVampireGladiator = vampire gladiator
+ent-StatusEffectVampireGladiator = вампирский гладиатор
     .desc = { ent-MobStatusEffectBase.desc }

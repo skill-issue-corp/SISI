@@ -1,96 +1,65 @@
 ent-BaseForgeItemNoTemp = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
 ent-BaseForgeItem = { ent-BaseForgeItemNoTemp }
     .desc = { ent-BaseForgeItemNoTemp.desc }
-
 ent-BaseMetalScraps = { ent-BaseForgeItem }
-    .desc = Needs to be melted in a bloomery to be made useful.
-
+    .desc = Нужно расплавить в сыродутной печи, чтобы получить пригодный материал.
 ent-BaseMetalBloom = { ent-BaseForgeItem }
-    .desc = Refine it by smashing it with a hammer into shape!
-
+    .desc = Обработайте молотом, чтобы придать нужную форму!
 ent-BaseMetalIngot = { ent-BaseForgeItem }
     .desc = { ent-BaseForgeItem.desc }
-    .suffix = Hot
-
+    .suffix = Горячий
 ent-BrassOverheatable = { ent-BaseMetallicBrass }
     .desc = { ent-BaseMetallicBrass.desc }
-
-ent-BrassScraps = brass scraps
+ent-BrassScraps = латунный лом
     .desc = { ent-BaseMetalScraps.desc }
-
-ent-OverheatedBrass = overheated brass
-    .desc = The metal has overheated and become brittle, smash it apart to make it usable.
-
-ent-BrassBloom = brass bloom
+ent-OverheatedBrass = перегретая латунь
+    .desc = Металл перегрелся и стал хрупким, разбейте его, чтобы снова сделать пригодным.
+ent-BrassBloom = латунная крица
     .desc = { ent-BaseWorkableBrass.desc }
-
-ent-BrassIngot = brass ingot
-    .desc = A softer piece of metal, can be forged at relatively low temperatures.
-
+ent-BrassIngot = латунный слиток
+    .desc = Более мягкий кусок металла, можно ковать при относительно низких температурах.
 ent-SteelOverheatable = { ent-BaseMetallicSteel }
     .desc = { ent-BaseMetallicSteel.desc }
-
-ent-SteelScraps = steel scraps
-    .desc = Needs to be melted in a bloomery to be made useful.
-
-ent-OverheatedSteel = overheated steel
-    .desc = The metal has overheated and become brittle, smash it apart to make it usable.
-
-ent-SteelBloom = steel bloom
+ent-SteelScraps = стальной лом
+    .desc = Нужно расплавить в сыродутной печи, чтобы получить пригодный материал.
+ent-OverheatedSteel = перегретая сталь
+    .desc = Металл перегрелся и стал хрупким, разбейте его, чтобы снова сделать пригодным.
+ent-SteelBloom = стальная крица
     .desc = { ent-BaseWorkableSteel.desc }
-
-ent-SteelIngot = steel ingot
-    .desc = A strong piece of metal, can be forged at moderately high temperatures.
-
+ent-SteelIngot = стальной слиток
+    .desc = Прочный кусок металла, можно ковать при умеренно высоких температурах.
 ent-PlasteelOverheatable = { ent-BaseMetallicPlasteel }
     .desc = { ent-BaseMetallicPlasteel.desc }
-
-ent-PlasteelScraps = plasteel scraps
-    .desc = Needs to be melted in a bloomery to be made useful.
-
-ent-OverheatedPlasteel = overheated plasteel
-    .desc = The metal has overheated and become brittle, smash it apart to make it usable.
-
-ent-PlasteelBloom = plasteel bloom
-    .desc = Refine it by smashing it with a hammer into shape!
-
-ent-PlasteelIngot = plasteel ingot
-    .desc = A very robust piece of metal, can be forged at extreme temperatures.
-
+ent-PlasteelScraps = пласталевый лом
+    .desc = Нужно расплавить в сыродутной печи, чтобы получить пригодный материал.
+ent-OverheatedPlasteel = перегретый пласталь
+    .desc = Металл перегрелся и стал хрупким, разбейте его, чтобы снова сделать пригодным.
+ent-PlasteelBloom = пласталевая крица
+    .desc = Обработайте молотом, чтобы придать нужную форму!
+ent-PlasteelIngot = пласталевый слиток
+    .desc = Очень прочный кусок металла, можно ковать при экстремальных температурах.
 ent-GoldOverheatable = { ent-BaseMetallicGold }
     .desc = { ent-BaseMetallicGold.desc }
-
-ent-GoldScraps = gold scraps
-    .desc = Needs to be heated and shaped into a usable ingot. Gold has no impurities or oxides to need blooming.
-
-ent-GoldMolten = molten gold spawner
+ent-GoldScraps = золотой лом
+    .desc = Нужно нагреть и придать форму пригодного слитка. В золоте нет примесей или оксидов, поэтому его не нужно продувать в крице.
+ent-GoldMolten = спаунер расплавленного золота
     .desc = { ent-MarkerBase.desc }
-
-ent-GoldIngot = gold ingot
-    .desc = A shiny and rare metal, can be forged at low temperatures. You wouldn't make a pickaxe out of this.
-
+ent-GoldIngot = золотой слиток
+    .desc = Блестящий и редкий металл, можно ковать при низких температурах. Из этого вы бы не стали делать кирку.
 ent-SilverOverheatable = { ent-BaseMetallicSilver }
     .desc = { ent-BaseMetallicSilver.desc }
-
-ent-SilverScraps = silver scraps
-    .desc = Needs to be heated and shaped into a usable ingot.
-
-ent-SilverMolten = molten silver spawner
+ent-SilverScraps = серебряный лом
+    .desc = Нужно нагреть и придать форму пригодного слитка.
+ent-SilverMolten = спаунер расплавленного серебра
     .desc = { ent-MarkerBase.desc }
-
-ent-SilverIngot = silver ingot
-    .desc = A shiny and relatively cheap metal, can be forged at very low temperatures.
-
+ent-SilverIngot = серебряный слиток
+    .desc = Блестящий и относительно дешёвый металл, можно ковать при очень низких температурах.
 ent-AdamantineOverheatable = { ent-BaseMetallicAdamantine }
     .desc = { ent-BaseMetallicAdamantine.desc }
-
-ent-AdamantineScraps = adamantine scraps
-    .desc = Fragments of a once great work of craftsdwarfship, with a great deal of heat it could become workable again.
-
-ent-OverheatedAdamantine = overheated adamantine
-    .desc = The metal has overheated and lost it's shape, could be worked again if brought to the right temperature.
-
-ent-AdamantineIngot = adamantine ingot
-    .desc = A metal that is written about more often than it is seen, requires extreme heat to be workable.
+ent-AdamantineScraps = адамантиновый лом
+    .desc = Фрагменты некогда великого творения гномьего мастерства, при большом количестве тепла могут снова стать пригодными для обработки.
+ent-OverheatedAdamantine = перегретый адамантин
+    .desc = Металл перегрелся и потерял форму, его можно снова обработать, если довести до нужной температуры.
+ent-AdamantineIngot = адамантиновый слиток
+    .desc = Металл, о котором пишут чаще, чем видят, требует экстремального жара для обработки.

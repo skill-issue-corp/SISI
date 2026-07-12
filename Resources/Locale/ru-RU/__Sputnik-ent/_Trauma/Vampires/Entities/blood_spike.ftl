@@ -1,2 +1,2 @@
-ent-BloodSpike = Blood Spike
-    .desc = A sharp spike made out of pure blood.
+ent-BloodSpike = Кровавый шип
+    .desc = Острый шип, созданный из чистой крови.

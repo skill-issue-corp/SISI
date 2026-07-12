@@ -1,11 +1,8 @@
-ent-BaseFishingPool = fishing pond
-    .desc = A fishing pool linked via portal to a massive hatchery.
-
-ent-WaterFishingPool = fishing pond
-    .desc = A fishing pool linked via portal to a massive hatchery.
-
-ent-LavaFishingPool = lava fishing pond
-    .desc = A fishing pool linked via portal to a massive hatchery. This one is full of lava!
-
-ent-PlasmaFishingPool = plasma fishing pond
-    .desc = A fishing pool linked via portal to a massive hatchery. This one is full of plasma!
+ent-BaseFishingPool = пруд для рыбалки
+    .desc = Пруд для рыбалки, связанный порталом с огромным инкубатором.
+ent-WaterFishingPool = пруд для рыбалки
+    .desc = Пруд для рыбалки, связанный порталом с огромным инкубатором.
+ent-LavaFishingPool = лавовый пруд для рыбалки
+    .desc = Пруд для рыбалки, связанный порталом с огромным инкубатором. Этот полон лавы!
+ent-PlasmaFishingPool = плазменный пруд для рыбалки
+    .desc = Пруд для рыбалки, связанный порталом с огромным инкубатором. Этот полон плазмы!

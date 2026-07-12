@@ -1,2 +1,2 @@
-ent-AbductorTaskTablet = experiment tablet
-    .desc = A futuristic tablet used by abductors to experiment on their victims.
+ent-AbductorTaskTablet = экспериментальный планшет
+    .desc = Футуристический планшет, используемый похитителями для проведения экспериментов над своими жертвами.

@@ -1,7 +1,6 @@
 ent-DefaultStationBeaconXenobio = { ent-DefaultStationBeaconScience }
     .desc = { ent-DefaultStationBeaconScience.desc }
-    .suffix = Xenobio
-
+    .suffix = Ксенобиология
 ent-DefaultStationBeaconGenetics = { ent-DefaultStationBeaconScience }
     .desc = { ent-DefaultStationBeaconScience.desc }
-    .suffix = Genetics
+    .suffix = Генетика

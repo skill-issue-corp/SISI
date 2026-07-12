@@ -1,11 +1,8 @@
-ent-DeepFryerCircuitboard = deep fryer machine board
-    .desc = A machine printed circuit board for a deep fryer.
-
-ent-EnergyFoodSynthesizerMachineCircuitboard = energy food synthesizer machine board
-    .desc = A machine printed circuit board for a energy food synthesizer.
-
-ent-EnergyBoozeDispenserMachineCircuitboard = energy booze dispenser machine board
-    .desc = A machine printed circuit board for a energy food synthesizer.
-
-ent-EnergySodaDispenserMachineCircuitboard = energy soda dispenser machine board
-    .desc = A machine printed circuit board for a energy food synthesizer.
+ent-DeepFryerCircuitboard = плата фритюрницы
+    .desc = Печатная плата станка для фритюрницы.
+ent-EnergyFoodSynthesizerMachineCircuitboard = плата синтезатора энергетической еды
+    .desc = Печатная плата станка для синтезатора энергетической еды.
+ent-EnergyBoozeDispenserMachineCircuitboard = плата диспенсера энергетического алкоголя
+    .desc = Печатная плата станка для синтезатора энергетической еды.
+ent-EnergySodaDispenserMachineCircuitboard = плата диспенсера энергетической газировки
+    .desc = Печатная плата станка для синтезатора энергетической еды.

@@ -1,11 +1,8 @@
 ent-BaseActionKravMaga = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
-
-ent-ActionLegSweep = Leg Sweep
-    .desc = Sweeps the legs out from under a target to knock them down for a few seconds.
-
-ent-ActionNeckChop = Neck Chop
-    .desc = A hard swing with the side of your hand deals some damage and disables the target's ability to speak for twenty seconds.
-
-ent-ActionLungPunch = Lung Punch
-    .desc = Deals 30 stamina damage and prevents breathing for ten seconds. Four of those will incapacitate a target less-than-lethally, but beware of the loss of breath you cause.
+ent-ActionLegSweep = Подсечка
+    .desc = Сбивает цель с ног подсечкой, повергая её на несколько секунд.
+ent-ActionNeckChop = Удар по шее
+    .desc = Резкий удар ребром ладони наносит небольшой урон и лишает цель возможности говорить на двадцать секунд.
+ent-ActionLungPunch = Удар в лёгкие
+    .desc = Наносит 30 урона выносливости и не даёт дышать десять секунд. Четыре таких удара выведут цель из строя нелетально, но будьте осторожны с вызываемой нехваткой дыхания.

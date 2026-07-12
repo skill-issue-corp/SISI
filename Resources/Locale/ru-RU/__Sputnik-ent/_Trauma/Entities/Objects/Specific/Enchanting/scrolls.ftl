@@ -1,5 +1,4 @@
-ent-BaseEnchantingScroll = enchanted scroll
-    .desc = A scroll embuded with an enchantment. Could do any number of things.
-
-ent-EnchantingScrollEmpty = scroll
-    .desc = An empty scroll waiting to be filled with an enchantment.
+ent-BaseEnchantingScroll = зачарованный свиток
+    .desc = Свиток, наделённый чарами. Может сделать что угодно.
+ent-EnchantingScrollEmpty = свиток
+    .desc = Пустой свиток, ожидающий наполнения чарами.

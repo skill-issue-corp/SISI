@@ -1,47 +1,32 @@
-ent-BaseAreaSecurity = security
+ent-BaseAreaSecurity = служба безопасности
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaSecurity = security
+ent-AreaSecurity = служба безопасности
     .desc = { ent-BaseAreaSecurity.desc }
-
-ent-AreaBrig = brig
+ent-AreaBrig = бриг
     .desc = { ent-BaseAreaSecurity.desc }
-
-ent-AreaSecurityCheckpoint = sec checkpoint
+ent-AreaSecurityCheckpoint = контрольно-пропускной пункт СБ
     .desc = { ent-BaseAreaSecurity.desc }
-
-ent-AreaDetective = detective
+ent-AreaDetective = детектив
     .desc = { ent-BaseAreaSecurity.desc }
-
-ent-AreaArmory = armory
+ent-AreaArmory = оружейная
     .desc = { ent-BaseAreaSecurity.desc }
-
-ent-AreaBrigMed = brig med
+ent-AreaBrigMed = медотсек брига
     .desc = { ent-BaseAreaSecurity.desc }
-
-ent-AreaExecution = execution room
+ent-AreaExecution = комната казни
     .desc = { ent-BaseAreaSecurity.desc }
-
-ent-AreaFiringRange = firing range
+ent-AreaFiringRange = стрельбище
     .desc = { ent-BaseAreaSecurity.desc }
-
-ent-AreaInterrogation = interrogation
+ent-AreaInterrogation = допросная
     .desc = { ent-BaseAreaSecurity.desc }
-
-ent-AreaSecurityLockers = security locker room
+ent-AreaSecurityLockers = раздевалка службы безопасности
     .desc = { ent-AreaSecurity.desc }
-
-ent-AreaLaborCamp = labor camp
+ent-AreaLaborCamp = трудовой лагерь
     .desc = { ent-BaseAreaSecurity.desc }
-
-ent-AreaPrison = prison
+ent-AreaPrison = тюрьма
     .desc = { ent-BaseAreaSecurity.desc }
-
-ent-AreaPrisonShower = prison shower
+ent-AreaPrisonShower = душевая тюрьмы
     .desc = { ent-AreaPrison.desc }
-
-ent-AreaPrisonVisit = prison visit
+ent-AreaPrisonVisit = комната свиданий тюрьмы
     .desc = { ent-AreaPrison.desc }
-
-ent-AreaWarden = warden
+ent-AreaWarden = смотритель
     .desc = { ent-BaseAreaSecurity.desc }

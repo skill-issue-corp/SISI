@@ -1,5 +1,4 @@
-ent-BloodVial = empty blood vial
-    .desc = An empty vial, needs to be filled with blood.
-
-ent-BloodVialFull = filled blood vial
-    .desc = A blood vial embuded with black magic, useful for a variety of things.
+ent-BloodVial = пустой флакон крови
+    .desc = Пустой флакон, который нужно наполнить кровью.
+ent-BloodVialFull = наполненный флакон крови
+    .desc = Флакон крови, наделённый чёрной магией, полезен для различных целей.

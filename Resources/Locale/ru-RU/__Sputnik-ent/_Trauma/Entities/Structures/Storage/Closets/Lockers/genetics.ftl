@@ -1,2 +1,2 @@
-ent-LockerGeneticist = geneticist's locker
+ent-LockerGeneticist = шкафчик генетика
     .desc = { ent-LockerScientist.desc }

@@ -1,6 +1,5 @@
-ent-EmptyScroll = empty scroll
-    .desc = Who would keep such a useless thing, it doesn't even have anything written on it!
-    .suffix = DO NOT MAP
-
-ent-ScrollFullRandom = old scroll
-    .desc = A scroll that has been partially filled in.
+ent-EmptyScroll = пустой свиток
+    .desc = Кто вообще станет хранить такую бесполезную вещь, на ней даже ничего не написано!
+    .suffix = НЕ МАППИТЬ
+ent-ScrollFullRandom = старый свиток
+    .desc = Свиток, частично заполненный записями.

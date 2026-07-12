@@ -1,5 +1,4 @@
-ent-MutationAdrenalineRush = Adrenaline Rush
-    .desc = Allows the host to trigger their body's adrenaline response at will.
-
-ent-ActionMutationAdrenaline = Adrenaline!
-    .desc = Energize yourself, pushing your body to its limits!
+ent-MutationAdrenalineRush = Выброс адреналина
+    .desc = Позволяет носителю по желанию запускать адреналиновую реакцию организма.
+ent-ActionMutationAdrenaline = Адреналин!
+    .desc = Взбодритесь, заставив своё тело работать на пределе возможностей!

@@ -1,2 +1,2 @@
-ent-LemonGrenade = lemonade
-    .desc = When life gives you lemons, commit arson. With the lemons.
+ent-LemonGrenade = лимонад
+    .desc = Когда жизнь даёт вам лимоны, устройте поджог. Лимонами.

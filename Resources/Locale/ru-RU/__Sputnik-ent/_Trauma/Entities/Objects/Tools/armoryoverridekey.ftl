@@ -1,5 +1,4 @@
-ent-ArmoryOverrideKey = armory override key
-    .desc = A device for overridding the armory alert level locks in dire situations.
-
-ent-ArmoryOverrideKeyComponents = armory override key components
-    .desc = Part of the armory override device, keep it close and do not give it away unless its an absolute emergency.
+ent-ArmoryOverrideKey = ключ обхода блокировки арсенала
+    .desc = Устройство для обхода блокировок уровня тревоги арсенала в критических ситуациях.
+ent-ArmoryOverrideKeyComponents = компоненты ключа обхода блокировки арсенала
+    .desc = Часть устройства обхода блокировки арсенала, держите её при себе и не отдавайте, если только это не абсолютная чрезвычайная ситуация.

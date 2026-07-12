@@ -1,2 +1,2 @@
-ent-AshPile = massive ash pile
-    .desc = Smash it up a bit to seperate it.
+ent-AshPile = большая куча пепла
+    .desc = Разбейте её, чтобы разделить на части.

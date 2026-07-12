@@ -1,5 +1,5 @@
-ent-CrateCement = cement crate
-    .desc = A crate containing 3 cement bags.
+ent-CrateCement = ящик с цементом
+    .desc = Ящик с тремя мешками цемента.
 
-ent-CrateSkillChipsEngi = engineering skillchips crate
-    .desc = A crate containing engineering skillchips. Requires engineering access to open.
+ent-CrateSkillChipsEngi = ящик с чипами навыков инженерного отдела
+    .desc = Ящик с чипами навыков инженерного отдела. Для открытия требуется доступ инженера.

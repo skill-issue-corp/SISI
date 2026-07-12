@@ -1,20 +1,14 @@
-ent-SkillChipChiefMedicalOfficer = skill chip (CMO)
+ent-SkillChipChiefMedicalOfficer = чип навыков (ГВ)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipChemist = skill chip (chemist)
+ent-SkillChipChemist = чип навыков (химик)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipMedicalDoctor = skill chip (medical)
+ent-SkillChipMedicalDoctor = чип навыков (медик)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipMedicalIntern = skill chip (medical intern)
+ent-SkillChipMedicalIntern = чип навыков (медик-интерн)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipParamedic = skill chip (paramedic)
+ent-SkillChipParamedic = чип навыков (парамедик)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipPsychologist = skill chip (psychologist)
+ent-SkillChipPsychologist = чип навыков (психолог)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipVirologist = skill chip (virologist)
+ent-SkillChipVirologist = чип навыков (вирусолог)
     .desc = { ent-BaseSkillChip.desc }

@@ -1,50 +1,34 @@
 ent-BaseCartridgeGaussgun = { ent-BaseCartridge }
     .desc = { ent-BaseCartridge.desc }
-
-ent-CartridgeBallBearing = ball bearing
-    .desc = A small projectile suitable for gauss guns.
-
-ent-CartridgeDisc = razor disc
-    .desc = A small projectile suitable for gauss guns. This one slightly pierces armor and causes bleeding.
-
-ent-CartridgeShard = shardshot
-    .desc = A small projectile suitable for gauss guns. This one splits into shards when shot, nearly useless against armored targets. Illegal in most civilized zones.
-
-ent-CartridgeBallBearingForged = ball bearing
+ent-CartridgeBallBearing = шарикоподшипник
+    .desc = Небольшой снаряд, подходящий для гаусс-пушек.
+ent-CartridgeDisc = режущий диск
+    .desc = Небольшой снаряд, подходящий для гаусс-пушек. Этот немного пробивает броню и вызывает кровотечение.
+ent-CartridgeShard = осколочный выстрел
+    .desc = Небольшой снаряд, подходящий для гаусс-пушек. Этот разлетается на осколки при выстреле, почти бесполезен против бронированных целей. Запрещён в большинстве цивилизованных зон.
+ent-CartridgeBallBearingForged = шарикоподшипник
     .desc = { ent-BaseForgedReadyItem.desc }
-
-ent-CartridgeDiscForged = razor disc
+ent-CartridgeDiscForged = режущий диск
     .desc = { ent-BaseForgedReadyItem.desc }
-
-ent-CartridgeShardForged = shardshot
+ent-CartridgeShardForged = осколочный выстрел
     .desc = { ent-BaseForgedReadyItem.desc }
-
 ent-BaseGaussgunAmmo = { "" }
     .desc = { "" }
-
-ent-GaussgunBearing = ball bearing
+ent-GaussgunBearing = шарикоподшипник
     .desc = { ent-BaseGaussgunAmmo.desc }
-
 ent-GaussgunShardSpread = { ent-PelletShotgun }
     .desc = { ent-PelletShotgun.desc }
-
-ent-GaussgunShard = shard
+ent-GaussgunShard = осколок
     .desc = { ent-BaseGaussgunAmmo.desc }
-
-ent-GaussgunDisk = sharp disk
+ent-GaussgunDisk = острый диск
     .desc = { ent-BaseGaussgunAmmo.desc }
-
 ent-MagazineBoxGaussgunBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
-ent-MagazineBoxGaussgunBullet = ammunition box (bearings)
+ent-MagazineBoxGaussgunBullet = коробка с патронами (шарикоподшипники)
     .desc = { ent-MagazineBoxGaussgunBase.desc }
-
-ent-MagazineBoxGaussgunDisc = ammunition box (discs)
+ent-MagazineBoxGaussgunDisc = коробка с патронами (диски)
     .desc = { ent-MagazineBoxGaussgunBase.desc }
-
-ent-MagazineBoxGaussgunShard = ammunition box (shardshot)
+ent-MagazineBoxGaussgunShard = коробка с патронами (осколочные выстрелы)
     .desc = { ent-MagazineBoxGaussgunBase.desc }
-
-ent-CraftingGaussAmmoImprov = unfinished ball bearings
-    .desc = Some unfinished gauss ammo.
+ent-CraftingGaussAmmoImprov = незаконченные шарикоподшипники
+    .desc = Незаконченные боеприпасы для гаусс-пушки.

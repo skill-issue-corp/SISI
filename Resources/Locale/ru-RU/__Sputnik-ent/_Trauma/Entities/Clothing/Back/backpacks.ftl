@@ -1,8 +1,6 @@
-ent-ClothingBackpackRev = MOLLE pack
-    .desc = A backpack designed for use in combat, it has seen many wars across many places.
-
-ent-ClothingBackpackFlamethrower = flamethrower back tank
-    .desc = Accepts custom fuel tanks to fuel a flamethrower.
-
-ent-ClothingBackpackHolyFirefighterTank = holy water tank backpack
-    .desc = A refrigerated water tank backpack that can launch Holy Water or work as a high pressure extinguisher.
+ent-ClothingBackpackRev = рюкзак MOLLE
+    .desc = Рюкзак, разработанный для использования в бою, повидавший немало войн во многих местах.
+ent-ClothingBackpackFlamethrower = ранцевый бак для огнемёта
+    .desc = Принимает сменные топливные баки для питания огнемёта.
+ent-ClothingBackpackHolyFirefighterTank = рюкзак с баком святой воды
+    .desc = Охлаждаемый рюкзак-бак с водой, способный выпускать святую воду или работать как огнетушитель высокого давления.

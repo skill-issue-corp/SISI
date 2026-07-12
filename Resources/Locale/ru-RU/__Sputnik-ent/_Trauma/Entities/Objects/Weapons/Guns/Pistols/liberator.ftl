@@ -1,7 +1,6 @@
-ent-WeaponPistolLiberator = Liberator
-    .desc = A shitty little pistol that can only hold 6 rounds and has to be hand fed.
-    .suffix = Full
-
+ent-WeaponPistolLiberator = либерейтор
+    .desc = Дерьмовый маленький пистолет, который вмещает всего 6 патронов и заряжается вручную.
+    .suffix = Полный
 ent-WeaponPistolLiberatorEmpty = { ent-WeaponPistolLiberator }
     .desc = { ent-WeaponPistolLiberator.desc }
-    .suffix = Empty
+    .suffix = Пустой

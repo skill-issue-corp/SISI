@@ -1,2 +1,2 @@
-ent-CrateSkillChipsMed = medical skillchips crate
-    .desc = A crate containing Medical skillchips. Requires Medical access to open.
+ent-CrateSkillChipsMed = ящик с чипами навыков медицинского отдела
+    .desc = Ящик с чипами навыков медицинского отдела. Для открытия требуется доступ в медотдел.
