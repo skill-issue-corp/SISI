@@ -1,29 +1,20 @@
-ent-MobButtBot = butt bot
-    .desc = A robot which farts
-
-ent-MobButtBotCyber = cyber butt bot
+ent-MobButtBot = попо-бот
+    .desc = Робот, который пукает
+ent-MobButtBotCyber = кибер-попо-бот
     .desc = { ent-MobButtBot.desc }
-
-ent-MobDuckBot = duck bot
-    .desc = An amusing duck
-
-ent-BoogieBotSpawner = boogie bot
-    .desc = Get down on it!
-
-ent-BaseMobBoogieBot = boogie bot
-    .desc = Get down on it!
-
+ent-MobDuckBot = утко-бот
+    .desc = Забавная утка
+ent-BoogieBotSpawner = буги-бот
+    .desc = Оторвись по полной!
+ent-BaseMobBoogieBot = буги-бот
+    .desc = Оторвись по полной!
 ent-MobBoogieBotD1 = { ent-BaseMobBoogieBot }
     .desc = { ent-BaseMobBoogieBot.desc }
-
 ent-MobBoogieBotD2 = { ent-BaseMobBoogieBot }
     .desc = { ent-BaseMobBoogieBot.desc }
-
 ent-MobBoogieBotD3 = { ent-BaseMobBoogieBot }
     .desc = { ent-BaseMobBoogieBot.desc }
-
 ent-MobED209 = ED-209
-    .desc = Officer Beepsky's bigger brother
-
-ent-ED209Endoskeleton = ED-209 endoskeleton
-    .desc = A frame that the ED-209 is built on.
+    .desc = Старший брат офицера Бипски
+ent-ED209Endoskeleton = эндоскелет ED-209
+    .desc = Каркас, на котором построен ED-209.

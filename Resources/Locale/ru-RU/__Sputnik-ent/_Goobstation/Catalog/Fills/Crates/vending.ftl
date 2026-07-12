@@ -1,2 +1,2 @@
-ent-CrateVendingMachineRestockSweetToofFilled = SweetToof restock crate
-    .desc = Contains a restock box for a Sweet-Toof candy dispenser.
+ent-CrateVendingMachineRestockSweetToofFilled = ящик с пополнением SweetToof
+    .desc = Содержит коробку с пополнением для автомата с конфетами SweetToof.

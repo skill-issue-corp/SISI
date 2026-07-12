@@ -1,26 +1,20 @@
+ent-SpawnPointGhostGreyTide = спавнер грейтайд
+    .desc = { ent-BaseAntagSpawner.desc }
+ent-SpawnPointGhostTunnelClown = спавнер тех-клоун
+    .desc = { ent-BaseAntagSpawner.desc }
+ent-SpawnPointGhostSingulothKnight = спавнер рыцарь Сингулота
+    .desc = { ent-BaseAntagSpawner.desc }
+ent-SpawnPointGhostDarkLord = спавнер тёмный лорд
+    .desc = { ent-BaseAntagSpawner.desc }
+ent-SpawnPointGhostMimeAssassin = спавнер ассамим
+    .desc = { ent-BaseAntagSpawner.desc }
+ent-SpawnPointGhostChosenOne = спавнер избранный
+    .desc = { ent-BaseAntagSpawner.desc }
+ent-SpawnPointGhostDarkPriest = спавнер тёмный жрец
+    .desc = { ent-BaseAntagSpawner.desc }
+ent-SpawnPointGhostVoxRaider = спавнер вокс налётчик
+    .desc = { ent-BaseAntagSpawner.desc }
+ent-MaintsSpawnMarker = спавнер техтоннель
+    .desc = { ent-MarkerBase.desc }
 ent-SpawnPointGhostDerelictCyborgSyndicate = { ent-BaseAntagSpawner }
     .desc = { ent-BaseAntagSpawner.desc }
-
-ent-SpawnPointGhostTunnelClown = tunnel clown antag spawn
-    .desc = { ent-BaseAntagSpawner.desc }
-
-ent-SpawnPointGhostSingulothKnight = Singuloth Knights antag spawn
-    .desc = { ent-BaseAntagSpawner.desc }
-
-ent-SpawnPointGhostDarkLord = Dark Lord antag spawn
-    .desc = { ent-BaseAntagSpawner.desc }
-
-ent-SpawnPointGhostMimeAssassin = mime assassin antag spawn
-    .desc = { ent-BaseAntagSpawner.desc }
-
-ent-SpawnPointGhostChosenOne = Chosen One spawn
-    .desc = { ent-BaseAntagSpawner.desc }
-
-ent-SpawnPointGhostDarkPriest = Dark Priest Spawner
-    .desc = { ent-BaseAntagSpawner.desc }
-
-ent-SpawnPointGhostVoxRaider = Vox Raider Spawner
-    .desc = { ent-BaseAntagSpawner.desc }
-
-ent-MaintsSpawnMarker = Maints Spawn Marker
-    .desc = { ent-MarkerBase.desc }

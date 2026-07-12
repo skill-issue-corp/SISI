@@ -1,77 +1,52 @@
 ent-BaseSurgeryStepXeno = { ent-SurgeryStepBase }
     .desc = { ent-SurgeryStepBase.desc }
-
-ent-SurgeryStepXenoOpenIncision = Open an incision
+ent-SurgeryStepXenoOpenIncision = Сделать разрез
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
-ent-SurgeryStepXenoClampBleeders = Clamp the acid vessels
+ent-SurgeryStepXenoClampBleeders = Пережать кислотные сосуды
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
-ent-SurgeryStepXenoSeverPlasma = Sever plasma connections
+ent-SurgeryStepXenoSeverPlasma = Перерезать плазменные соединения
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
-ent-SurgeryStepXenoNeutralizeAcid = Neutralize acid
+ent-SurgeryStepXenoNeutralizeAcid = Нейтрализовать кислоту
     .desc = { ent-SurgeryStepBase.desc }
-
-ent-SurgeryStepXenoCutExoskeleton = Score the exoskeleton
+ent-SurgeryStepXenoCutExoskeleton = Надрезать экзоскелет
     .desc = { ent-SurgeryStepXenoOpenIncision.desc }
-
-ent-SurgeryStepXenoRetractExoskeleton = Retract the exoskeleton
+ent-SurgeryStepXenoRetractExoskeleton = Оттянуть экзоскелет
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
-ent-SurgeryStepXenoSawExoskeleton = Saw through the exoskeleton
+ent-SurgeryStepXenoSawExoskeleton = Распилить экзоскелет
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
-ent-SurgeryStepXenoMendExoskeleton = Reseal the exoskeleton
+ent-SurgeryStepXenoMendExoskeleton = Запечатать экзоскелет заново
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
-ent-SurgeryStepXenoCloseExoskeleton = Close the exoskeleton
+ent-SurgeryStepXenoCloseExoskeleton = Сомкнуть экзоскелет
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
-ent-SurgeryStepXenoRetractEndoskeleton = Retract the endoskeleton
+ent-SurgeryStepXenoRetractEndoskeleton = Оттянуть эндоскелет
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
-ent-SurgeryStepXenoSawEndoskeleton = Saw through the endoskeleton
+ent-SurgeryStepXenoSawEndoskeleton = Распилить эндоскелет
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
-ent-SurgeryStepXenoMendEndoskeleton = Mend the endoskeleton
+ent-SurgeryStepXenoMendEndoskeleton = Срастить эндоскелет
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
-ent-SurgeryStepXenoCloseEndoskeleton = Close the endoskeleton
+ent-SurgeryStepXenoCloseEndoskeleton = Сомкнуть эндоскелет
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
 ent-SurgeryStepXenoCloseIncision = { ent-BaseSurgeryStepXeno }
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
 ent-SurgeryStepXenoSealOrganWound = { ent-BaseSurgeryStepXeno }
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
 ent-SurgeryStepXenoRemoveFeature = { ent-BaseSurgeryStepXeno }
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
 ent-SurgeryStepXenoRemoveOrgan = { ent-BaseSurgeryStepXeno }
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
-ent-SurgeryStepInsertHiveNode = Add hive node
+ent-SurgeryStepInsertHiveNode = Добавить узел улья
     .desc = { ent-SurgeryStepInsertOrgan.desc }
-
-ent-SurgeryStepInsertResinSpinner = Add resin spinner
+ent-SurgeryStepInsertResinSpinner = Добавить смолопрядильную железу
     .desc = { ent-SurgeryStepInsertOrgan.desc }
-
-ent-SurgeryStepInsertNeurotoxinGland = Add neurotoxin gland
+ent-SurgeryStepInsertNeurotoxinGland = Добавить нейротоксиновую железу
     .desc = { ent-SurgeryStepInsertOrgan.desc }
-
-ent-SurgeryStepInsertAcidGland = Add acid gland
+ent-SurgeryStepInsertAcidGland = Добавить кислотную железу
     .desc = { ent-SurgeryStepInsertOrgan.desc }
-
-ent-SurgeryStepInsertPlasmaVessel = Add plasma vessel
+ent-SurgeryStepInsertPlasmaVessel = Добавить плазменный сосуд
     .desc = { ent-SurgeryStepInsertOrgan.desc }
-
-ent-SurgeryStepInsertEggSack = Add egg sack
+ent-SurgeryStepInsertEggSack = Добавить яйцевой мешок
     .desc = { ent-SurgeryStepInsertOrgan.desc }
-
-ent-SurgeryStepXenoTakeSample = Remove tissue sample
+ent-SurgeryStepXenoTakeSample = Взять образец ткани
     .desc = { ent-BaseSurgeryStepXeno.desc }
-
-ent-SurgeryStepGraftXenoSample = Graft xeno tissue sample
+ent-SurgeryStepGraftXenoSample = Пересадить образец ксеноткани
     .desc = { ent-SurgeryStepBase.desc }

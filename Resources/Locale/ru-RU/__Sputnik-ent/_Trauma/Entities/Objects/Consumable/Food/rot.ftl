@@ -1,2 +1,2 @@
-ent-FoodRot = rotten slop
-    .desc = Disgusting.
+ent-FoodRot = гнилая жижа
+    .desc = Отвратительно.

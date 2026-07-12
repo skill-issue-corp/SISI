@@ -1,26 +1,18 @@
 ent-WeaponWandPolymorphBase = { ent-WeaponWandBase }
     .desc = { ent-WeaponWandBase.desc }
-
-ent-WeaponWandPolymorphCarp = wand of carp polymorph
-    .desc = For when you need a carp filet quick and the clown is looking juicy.
-
-ent-WeaponWandPolymorphMonkey = wand of monkey polymorph
-    .desc = For when you need a monkey friend.
-
-ent-WeaponWandFireball = wand of fireball
-    .desc = Great big balls of fire!
-
-ent-WeaponWandLocker = staff of the locker
-    .desc = An artefact that expells encapsulating bolts, for incapacitating thy enemy.
-
-ent-WeaponWandDeath = magical wand of instant death
-    .desc = Only the best and brightest of the Space Wizards R&D team worked together to create this beauty.
-
-ent-WeaponWandPolymorphDoor = wand of entrance
-    .desc = For when you need a get-away route.
-
-ent-WeaponWandCluwne = wand of cluwning
-    .desc = Make their situation worse by turning them into a cluwne.
-
-ent-WeaponWandPolymorphBread = magic bread wand
-    .desc = Turn all your friends into bread! Your boss! Your enemies! Your dog! Make everything bread!
+ent-WeaponWandPolymorphCarp = волшебная палочка карпа
+    .desc = На случай, когда вам срочно нужно филе карпа, а клоун выглядит уж очень аппетитно.
+ent-WeaponWandPolymorphMonkey = волшебная палочка обезьяны
+    .desc = Когда вам нужен обезьяний друг.
+ent-WeaponWandFireball = волшебная палочка огненного шара
+    .desc = Огромные огненные шары!
+ent-WeaponWandLocker = волшебная палочка шкафчика
+    .desc = Артефакт, выпускающий запечатывающие снаряды для обездвиживания ваших врагов!
+ent-WeaponWandDeath = волшебная палочка мгновенной смерти
+    .desc = Над созданием этого чуда трудились только лучшие умы отдела НИО Space Wizards.
+ent-WeaponWandPolymorphDoor = волшебная палочка побега
+    .desc = На случай, когда нужен маршрут для побега.
+ent-WeaponWandCluwne = волшебная палочка клувеня
+    .desc = Усугубите их положение, превратив их в клувеня.
+ent-WeaponWandPolymorphBread = волшебная палочка хлеба
+    .desc = Превратите в хлеб всех своих друзей! Вашего босса! Ваших врагов! Вашу собаку! Превратите всё в хлеб!

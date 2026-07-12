@@ -1,2 +1,2 @@
-ent-PolymorphWailingJaunt = Unknown
-    .desc = You can't figure out what that is.
+ent-PolymorphWailingJaunt = Неизвестно
+    .desc = Вы не можете понять, что это такое.

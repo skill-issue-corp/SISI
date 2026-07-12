@@ -1,38 +1,28 @@
-ent-Holoprojector = holographic sign projector
-    .desc = A handy-dandy holographic projector that displays a janitorial sign.
-
+ent-Holoprojector = проектор голографических знаков
+    .desc = Удобный голографический проектор, отображающий табличку уборщика.
 ent-HoloprojectorEmpty = { ent-Holoprojector }
+    .suffix = Пустой
     .desc = { ent-Holoprojector.desc }
-    .suffix = Empty
-
-ent-HoloprojectorBorg = holosign projector
-    .desc = A modified holographic sign projector for use in custodial cyborgs. Automatically self-charges.
-    .suffix = borg
-
-ent-HoloprojectorClownBorg = holopeel projector
-    .desc = A holopeel projector that creates a slippery, hard light banana peel. It recharges, so that the fun never ends!
-    .suffix = borg
-
-ent-HolofanProjector = holofan projector
-    .desc = Stop suicidal passengers from killing everyone during atmos emergencies.
-
+ent-HoloprojectorBorg = { ent-Holoprojector }
+    .suffix = Борг
+    .desc = { ent-Holoprojector.desc }
+ent-HoloprojectorClownBorg = проектор голокожурки
+    .desc = Проектор голокожурки, создающий скользкую банановую кожурку из твёрдого света. Перезаряжается автоматически, чтобы веселье никогда не заканчивалось!
+    .suffix = Борг
+ent-HolofanProjector = атмос голопроектор
+    .desc = Останавливает суицидально настроенных пассажиров от убийства остальных во время разгерметизации.
 ent-HolofanProjectorEmpty = { ent-HolofanProjector }
+    .suffix = Пустой
     .desc = { ent-HolofanProjector.desc }
-    .suffix = Empty
-
-ent-HolofanProjectorBorg = integrated holofan
-    .desc = Stops idiots from causing more crew harm during atmospheric emergencies. Installed directly into an engineering cyborg, it recharges over time.
-
-ent-HoloprojectorField = force field projector
-    .desc = Creates an impassable forcefield that won't let anything through. Close proximity may or may not cause cancer.
-
+ent-HolofanProjectorBorg = встроенный атмос голопроектор
+    .desc = Не позволяет идиотам причинить ещё больше вреда экипажу во время чрезвычайных ситуаций. Установлен напрямую в инженерного борга. Перезаряжается со временем.
+ent-HoloprojectorField = проектор силового поля
+    .desc = Создаёт непроходимое силовое поле, через которое ничего не проходит. Нахождение в непосредственной близости может вызвать рак, а может и не вызвать.
 ent-HoloprojectorFieldEmpty = { ent-HoloprojectorField }
+    .suffix = Пустой
     .desc = { ent-HoloprojectorField.desc }
-    .suffix = Empty
-
-ent-HoloprojectorSecurity = holobarrier projector
-    .desc = Creates a solid but fragile holographic barrier.
-
+ent-HoloprojectorSecurity = проектор голобарьера
+    .desc = Создаёт твёрдый, но хрупкий барьер.
 ent-HoloprojectorSecurityEmpty = { ent-HoloprojectorSecurity }
+    .suffix = Пустой
     .desc = { ent-HoloprojectorSecurity.desc }
-    .suffix = Empty

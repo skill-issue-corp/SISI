@@ -31,5 +31,5 @@ ent-OrganBaseHeadBald = { ent-OrganBaseHead }
 ent-OrganBaseTorsoAnimalTailed = { ent-OrganBaseTorso }
     .desc = { ent-OrganBaseTorso.desc }
 
-ent-OrganBaseTail = tail
+ent-OrganBaseTail = хвост
     .desc = { ent-OrganBaseExternal.desc }

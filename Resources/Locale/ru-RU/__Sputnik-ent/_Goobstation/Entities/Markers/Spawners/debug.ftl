@@ -1,115 +1,96 @@
-ent-SpawnMobHumanLoneNuclearOperative = Operative Spawner
-    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanLoneNuclearOperative = спавнер одинокий ядерный оперативник
     .suffix = DEBUG
-
-ent-SpawnMobHumanLoneNuclearOperativeSuit = Operative Suit Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanLoneNuclearOperativeSuit = спавнер одинокий ядерный оперативник (скафандр)
     .suffix = DEBUG
-
-ent-SpawnMobHumanLoneNuclearOperativeSuitElite = Operative Suit Elite Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanLoneNuclearOperativeSuitElite = спавнер одинокий ядерный оперативник (элитный)
     .suffix = DEBUG
-
-ent-SpawnMobHumanLoneNuclearOperativeSuitJugg = Operative Suit Jugg Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanLoneNuclearOperativeSuitJugg = спавнер одинокий ядерный оперативник (джаггернаут)
     .suffix = DEBUG
-
-ent-SpawnMobHumanLoneNuclearOperativeSuitCommander = Operative Suit Commander Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanLoneNuclearOperativeSuitCommander = спавнер одинокий ядерный оперативник (командир)
     .suffix = DEBUG
-
-ent-SpawnMobHumanLoneNuclearOperativeSuitStealth = Operative Suit Stealth Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanLoneNuclearOperativeSuitStealth = спавнер одинокий ядерный оперативник (пустотный)
     .suffix = DEBUG
-
-ent-SpawnMobHumanLoneNuclearOperativeSuitMedic = Operative Suit Medic Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanLoneNuclearOperativeSuitMedic = спавнер одинокий ядерный оперативник (медик)
     .suffix = DEBUG
-
-ent-SpawnMobHumanLoneNuclearOperativeSuitDread = Operative Suit Dread Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanLoneNuclearOperativeSuitDread = спавнер одинокий ядерный оперативник (дредноут)
     .suffix = DEBUG
-
-ent-SpawnMobHumanSecurityOfficerSuit = Security Officer Suit Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanSecurityOfficerSuit = спавнер офицер службы безопасности (костюм)
     .suffix = DEBUG
-
-ent-SpawnMobHumanHosModSuit = Head of Security ModSuit Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanHosModSuit = спавнер глава службы безопасности (MOD)
     .suffix = DEBUG
-
-ent-SpawnMobHumanSecurityOfficerModSuit = Security Officer ModSuit Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanSecurityOfficerModSuit = спавнер офицер службы безопасности (MOD)
     .suffix = DEBUG
-
-ent-SpawnMobHumanHoSSuit = Head of Security Suit Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanHoSSuit = спавнер глава службы безопасности (костюм)
     .suffix = DEBUG
-
-ent-SpawnMobHumanWardenSuit = Warden Suit Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanWardenSuit = спавнер смотритель (костюм)
     .suffix = DEBUG
-
-ent-SpawnMobHumanBrigmedicSuit = Brigmedic Suit Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanBrigmedicSuit = спавнер бригмедик (костюм)
     .suffix = DEBUG
-
-ent-SpawnMobHumanSecurityOfficerBulletproofArmorHelmet = Security Officer Bulletproof Armor Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanSecurityOfficerBulletproofArmorHelmet = спавнер офицер службы безопасности (пуленепробиваемый)
     .suffix = DEBUG
-
-ent-SpawnMobHumanSecurityOfficerRiotArmorHelmet = Security Officer Riot Armor Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanSecurityOfficerRiotArmorHelmet = спавнер офицер службы безопасности (противоударный)
     .suffix = DEBUG
-
-ent-SpawnMobHumanSecurityOfficerReflectiveArmorHelmet = Security Officer Reflective Armor Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanSecurityOfficerReflectiveArmorHelmet = спавнер офицер службы безопасности (отражающий)
     .suffix = DEBUG
-
-ent-SpawnMobHumanSecurityOfficerBasicArmorHelmet = Security Officer Basic Armor Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanSecurityOfficerBasicArmorHelmet = спавнер офицер службы безопасности (бронежилет)
     .suffix = DEBUG
-
-ent-SpawnMobHumanHos = Head of Security Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanHos = спавнер глава службы безопасности
     .suffix = DEBUG
-
-ent-SpawnMobHumanBrigmedic = Brigmedic Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanBrigmedic = спавнер бригмедик
     .suffix = DEBUG
-
-ent-SpawnMobHumanWarden = Warden Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanWarden = спавнер смотритель
     .suffix = DEBUG
-
-ent-SpawnMobHumanWizardDebug = Wizard Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanBSOBase = спавнер офицер "Синий Щит"
     .suffix = DEBUG
-
-ent-SpawnMobHumanWizardDebugSuit = Wizard Suit Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanBSOSuit = спавнер офицер "Синий Щит" (костюм)
     .suffix = DEBUG
-
-ent-SpawnMobHumanChangelingArmor = Changeling Armor Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanBSOModSuit = спавнер офицер "Синий Щит" (MOD)
     .suffix = DEBUG
-
-ent-SpawnMobHumanNinjaArmor = Space Ninja Armor Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanWizardDebug = спавнер маг
     .suffix = DEBUG
-
-ent-SpawnHumanHereticArmor = Heretic Armor Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanWizardDebugSuit = спавнер маг (костюм)
     .suffix = DEBUG
-
-ent-SpawnMobHumanCaptainHardsuit = Captain Armor Spawner Hardsuit
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanChangelingArmor = спавнер генокрад (броня)
     .suffix = DEBUG
-
-ent-SpawnMobHumanCaptainModsuit = Captain Armor Spawner Modsuit
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanNinjaArmor = спавнер ниндзя (броня)
     .suffix = DEBUG
-
-ent-SpawnMobHumanCaptainDebug = Captain Armor Spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnHumanHereticArmor = спавнер еретик (броня)
     .suffix = DEBUG
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanCaptainHardsuit = спавнер капитан (скафандр)
+    .suffix = DEBUG
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanCaptainModsuit = спавнер капитан (MOD)
+    .suffix = DEBUG
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobHumanCaptainDebug = спавнер капитан (броня)
+    .suffix = DEBUG
+    .desc = { ent-MarkerBase.desc }

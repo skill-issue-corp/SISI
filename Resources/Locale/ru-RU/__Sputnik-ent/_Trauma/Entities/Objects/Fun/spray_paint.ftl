@@ -1,49 +1,37 @@
-ent-BaseSprayPaintUnlimited = spray paint
-    .desc = A can of spray paint. Solvent abuse can kill instantly!
-
-ent-SprayPaintFunny = funny paint
-    .desc = A tin of funny paint, manufactured by Honk! Co.
-
+ent-BaseSprayPaintUnlimited = аэрозольная краска
+    .desc = Баллончик с аэрозольной краской. Злоупотребление растворителем может убить мгновенно!
+ent-SprayPaintFunny = забавная краска
+    .desc = Баллончик забавной краски, произведённый компанией Honk! Co.
 ent-SprayPaintFunnyYellow = { ent-SprayPaintFunny }
     .desc = { ent-SprayPaintFunny.desc }
-    .suffix = Yellow
-
+    .suffix = Жёлтая
 ent-SprayPaintDeath = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Death
-
+    .suffix = Смерть
 ent-SprayPaintDeathTwo = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Death 2
-
+    .suffix = Смерть 2
 ent-SprayPaintRed = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Red
-
+    .suffix = Красная
 ent-SprayPaintGreen = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Green
-
+    .suffix = Зелёная
 ent-SprayPaintBlue = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Blue
-
+    .suffix = Синяя
 ent-SprayPaintBlack = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Black
-
+    .suffix = Чёрная
 ent-SprayPaintOrange = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Orange
-
+    .suffix = Оранжевая
 ent-SprayPaintPurple = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Purple
-
+    .suffix = Фиолетовая
 ent-SprayPaintWhite = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = White
-
+    .suffix = Белая
 ent-SprayPaintInvisible = { ent-SprayPaintFunny }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Invisible, DO NOT MAP
+    .suffix = Невидимая, НЕ МАППИТЬ

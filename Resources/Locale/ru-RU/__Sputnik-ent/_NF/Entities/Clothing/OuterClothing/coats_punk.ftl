@@ -1,29 +1,20 @@
-ent-ClothingOuterCoatBomberPunkRed = red punk bomber
-    .desc = Ya gotta 'ave style on dem streets.
-
-ent-ClothingOuterCoatJacketLeather = leather jacket
-    .desc = Rock'n'roll, babe!
-
-ent-ClothingOuterCoatJacketBiker = biker jacket
-    .desc = Made out of toughest synthleather for toughest badasses.
-
-ent-ClothingOuterCoatJacketJamrock = jamrock blazer
-    .desc = Welcome to jamrock.
-
-ent-ClothingOuterCoatBomberAerostatic = aerostatic bomber
-    .desc = When you wear it, you can always hear the sickest guitar solo in your mind.
-
-ent-ClothingOuterCoatJacketLettermanBlue = blue letterman jacket
-    .desc = Where is your lacrosse stick?
-
-ent-ClothingOuterCoatJacketLettermanBrown = brown letterman jacket
-    .desc = Where is your lacrosse stick?
-
-ent-ClothingOuterCoatJacketLettermanRed = red letterman jacket
-    .desc = Where is your lacrosse stick?
-
-ent-ClothingOuterCoatJacketLettermanMagenta = magenta letterman jacket
-    .desc = Where is your holocrosse joystick?
-
-ent-ClothingOuterCoatBomberPinkSleeves = bomber jacket
-    .desc = Oi! Whatcha lookin' at?
+ent-ClothingOuterCoatBomberPunkRed = красный панкушный бомбер
+    .desc = На улицах нужно быть стилёвым!
+ent-ClothingOuterCoatJacketLeather = кожаная куртка
+    .desc = Рок-н-ролл, детка!
+ent-ClothingOuterCoatJacketBiker = байкерская куртка
+    .desc = Сделана из самой прочной синткожи для самых крутых засранцев.
+ent-ClothingOuterCoatJacketJamrock = пиджак "Джемрок"
+    .desc = Добро пожаловать в Джемрок.
+ent-ClothingOuterCoatBomberAerostatic = аэро-статический бомбер
+    .desc = Когда ты её надеваешь, в голове звучит самое дикое гитарное соло.
+ent-ClothingOuterCoatJacketLettermanBlue = синяя университетская куртка
+    .desc = Где твоя клюшка для лакросса?
+ent-ClothingOuterCoatJacketLettermanBrown = коричневая университетская куртка
+    .desc = Где твоя клюшка для лакросса?
+ent-ClothingOuterCoatJacketLettermanRed = красная университетская куртка
+    .desc = Где твоя клюшка для лакросса?
+ent-ClothingOuterCoatJacketLettermanMagenta = пурпурная университетская куртка
+    .desc = Где твой голокроссовый джойстик?
+ent-ClothingOuterCoatBomberPinkSleeves = бомбер
+    .desc = Эй, че уставился?

@@ -1,20 +1,14 @@
-ent-ActionDanEnthrall = Enthrall
-    .desc = Bends someone to your will after a 15 second channel. Can't thrall mindshielded, vampires, and the chaplain.
-
-ent-ActionPacify = Pacify
-    .desc = Select a target within 7 tiles to render them passive for 40 seconds.
-
-ent-ActionSubspaceSwap = Subspace Swap
-    .desc = Select a target within 7 tiles and swap positions with them.
-
-ent-ActionDeployDecoy = Deploy Decoy
-    .desc = Deploy Decoy
-
-ent-ActionRallyThralls = Rally Thralls
-    .desc = Instantly remove all incapacitating effects from all thralls within 7 tiles, this includes stamina crit, stuns and sleeping.
-
-ent-ActionBloodBond = Blood Bond
-    .desc = On cast, link to all nearby thralls. if a thrall goes more than 7 tiles away from you, the link is broken. All members of the network share damage equally between each-other.
-
-ent-ActionMassHysteria = Mass Hysteria
-    .desc = Briefly blind anyone within 8 tiles, then cause them to see everyone else as random animals for the duration. Thralls are not affected.
+ent-ActionDanEnthrall = Порабощение
+    .desc = Подчиняет чужую волю после 15-секундного накопления. Нельзя поработить людей со шлемом-глушителем, вампиров и капеллана.
+ent-ActionPacify = Усмирение
+    .desc = Выберите цель в пределах 7 клеток, чтобы сделать её пассивной на 40 секунд.
+ent-ActionSubspaceSwap = Субпространственный обмен
+    .desc = Выберите цель в пределах 7 клеток и поменяйтесь с ней местами.
+ent-ActionDeployDecoy = Развернуть приманку
+    .desc = Развернуть приманку
+ent-ActionRallyThralls = Сплотить рабов
+    .desc = Мгновенно снимает все обездвиживающие эффекты со всех рабов в пределах 7 клеток, включая критическую усталость, оглушение и сон.
+ent-ActionBloodBond = Кровная связь
+    .desc = При применении устанавливает связь со всеми рабами поблизости. Если раб отдаляется от вас более чем на 7 клеток, связь разрывается. Все участники сети равномерно распределяют получаемый урон между собой.
+ent-ActionMassHysteria = Массовая истерия
+    .desc = Ненадолго ослепляет всех в пределах 8 клеток, а затем заставляет их видеть всех остальных в виде случайных животных на протяжении действия эффекта. Рабы не подвержены эффекту.

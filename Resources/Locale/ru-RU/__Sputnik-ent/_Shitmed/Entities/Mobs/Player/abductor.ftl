@@ -1,23 +1,20 @@
 ent-MobAbductorAntag = { ent-MobAbductor }
     .desc = { ent-MobAbductor.desc }
-
-ent-MobLoneAbductor = lone abductor
+ent-MobLoneAbductor = абдуктор-одиночка
     .desc = { ent-MobAbductorAntag.desc }
-
-ent-MobAbductorScientist = abductor scientist
+ent-MobAbductorScientist = абдуктор-ученый
     .desc = { ent-MobAbductorAntag.desc }
-
-ent-MobAbductorAgent = abductor agent
+ent-MobAbductorAgent = абдуктор-агент
     .desc = { ent-MobAbductorAntag.desc }
-
-ent-SpawnPointAbductor = abductor spawn point
+ent-SpawnPointLoneAbductor = спавнер абдуктора-одиночки
     .desc = { ent-MarkerBase.desc }
-
 ent-LoneAbductorSpawner = { ent-BaseAntagSpawner }
     .desc = { ent-BaseAntagSpawner.desc }
-
+ent-SpawnPointAbductorAgent = спавнер абдуктора-агента
+    .desc = { ent-MarkerBase.desc }
 ent-AbductorAgentSpawner = { ent-BaseAntagSpawner }
     .desc = { ent-BaseAntagSpawner.desc }
-
+ent-SpawnPointAbductorScientist = спавнер абдуктора-ученого
+    .desc = { ent-MarkerBase.desc }
 ent-AbductorScientistSpawner = { ent-BaseAntagSpawner }
     .desc = { ent-BaseAntagSpawner.desc }

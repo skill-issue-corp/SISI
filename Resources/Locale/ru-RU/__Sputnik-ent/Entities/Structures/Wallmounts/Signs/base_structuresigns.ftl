@@ -1,2 +1,2 @@
-ent-BaseSign = base sign
-    .desc = { ent-BaseWallmountMetallic.desc }
+ent-BaseSign = базовая табличка
+    .desc = { "" }

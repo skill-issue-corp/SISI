@@ -1,2 +1,2 @@
-ent-ClothingShoesElysiumShoes = Snake-skin shoes
-    .desc = They may have lost some of their lustre over the years, but these green crocodile leather shoes fit you perfectly.
+ent-ClothingShoesElysiumShoes = туфли из змеиной кожи
+    .desc = Возможно, за годы они немного потускнели, но эти туфли из зелёной крокодиловой кожи сидят на вас идеально.

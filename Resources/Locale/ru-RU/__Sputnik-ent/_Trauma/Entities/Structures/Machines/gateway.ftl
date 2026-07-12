@@ -1,3 +1,3 @@
-ent-GatewayLavalandEmpty = lavaland gateway
-    .desc = To hell you don't go.
-    .suffix = OFF
+ent-GatewayLavalandEmpty = врата в лавовый мир
+    .desc = В ад вы не пойдёте.
+    .suffix = ВЫКЛ

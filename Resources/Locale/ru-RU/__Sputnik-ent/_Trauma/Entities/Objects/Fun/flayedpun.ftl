@@ -1,2 +1,2 @@
-ent-PunPunSkinGod = Pun Pun
-    .desc = What the fuck is that thing
+ent-PunPunSkinGod = Пан Пан
+    .desc = Что это, чёрт возьми, за существо

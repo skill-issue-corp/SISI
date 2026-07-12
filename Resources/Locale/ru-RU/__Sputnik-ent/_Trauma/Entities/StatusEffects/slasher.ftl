@@ -1,2 +1,2 @@
-ent-SlasherStaggerStatusEffect = staggered
+ent-SlasherStaggerStatusEffect = ошеломление
     .desc = { ent-StatusEffectSlowdown.desc }

@@ -1,2 +1,2 @@
-ent-InstrumentsBeacon = instruments beacon
-    .desc = Summon a musical instrument of your choice.
+ent-InstrumentsBeacon = маяк инструментов
+    .desc = Призывает музыкальный инструмент по вашему выбору.

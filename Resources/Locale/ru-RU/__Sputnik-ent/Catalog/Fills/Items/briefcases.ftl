@@ -1,27 +1,12 @@
-ent-BriefcaseBrownFilled = { ent-BriefcaseBrown }
+ent-BriefcaseBrownFilled = коричневый чемодан
+    .suffix = Заполненный, Бумага
     .desc = { ent-BriefcaseBrown.desc }
-    .suffix = Filled, Paper
-
-ent-BriefcaseSyndieSniperBundleFilled = { ent-BriefcaseBrown }
-    .desc = { ent-BriefcaseBrown.desc }
-    .suffix = Syndicate, Sniper Bundle
-
-ent-BriefcaseSyndieLobbyingBundleFilled = { ent-BriefcaseSyndie }
+ent-BriefcaseSyndieSniperBundleFilled = коричневый чемодан
+    .suffix = Заполненный, Христов
     .desc = { ent-BriefcaseSyndie.desc }
-    .suffix = Syndicate, Spesos
-
-ent-BriefcaseThiefBribingBundleFilled = { ent-BriefcaseSyndie }
+ent-BriefcaseSyndieLobbyingBundleFilled = коричневый чемодан
+    .suffix = Синдикат, Кредиты
     .desc = { ent-BriefcaseSyndie.desc }
-    .suffix = Thief, Spesos
-
-ent-BriefcaseWeaponHushpupFilled = secure hushpup case
-    .desc = { ent-BriefcaseWeaponSmall.desc }
-
-ent-BriefcaseWeaponC20Filled = secure C-20r case
-    .desc = { ent-BriefcaseWeaponSmall.desc }
-
-ent-BriefcaseWeaponBulldogFilled = secure bulldog case
-    .desc = { ent-BriefcaseWeaponSmall.desc }
-
-ent-BriefcaseWeaponChinaLakeFilled = secure china lake case
-    .desc = { ent-BriefcaseWeapon.desc }
+ent-BriefcaseThiefBribingBundleFilled = коричневый чемодан
+    .suffix = Вор, Кредиты
+    .desc = { ent-BriefcaseSyndie.desc }

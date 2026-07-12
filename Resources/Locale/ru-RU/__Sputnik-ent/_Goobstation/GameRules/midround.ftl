@@ -1,53 +1,38 @@
-ent-BaseMidroundAntagRule = { "" }
-    .desc = { "" }
-
-ent-TraitorMidround = { ent-BaseMidroundAntagRule }
-    .desc = { ent-BaseMidroundAntagRule.desc }
-
-ent-ChangelingMidround = { ent-BaseMidroundAntagRule }
-    .desc = { ent-BaseMidroundAntagRule.desc }
-
-ent-HereticMidround = { ent-BaseMidroundAntagRule }
-    .desc = { ent-BaseMidroundAntagRule.desc }
-
+ent-TraitorMidround = { ent-Traitor }
+    .desc = { ent-Traitor.desc }
+ent-ChangelingMidround = { ent-Changeling }
+    .desc = { ent-Changeling.desc }
+ent-HereticMidround = { ent-Heretic }
+    .desc = { ent-Heretic.desc }
 ent-RevolutionaryMidround = { ent-Revolutionary }
     .desc = { ent-Revolutionary.desc }
-
 ent-SkeletonMidround = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
-
 ent-BlobMidround = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
-
 ent-FloorGoblinMidRound = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
-
-ent-DevilMidround = { ent-BaseMidroundAntagRule }
-    .desc = { ent-BaseMidroundAntagRule.desc }
-
-ent-TunnelClownMidround = { ent-BaseAntagGhostRoleRule }
-    .desc = { ent-BaseAntagGhostRoleRule.desc }
-
-ent-SingulothKnightsMidround = { ent-BaseAntagGhostRoleRule }
-    .desc = { ent-BaseAntagGhostRoleRule.desc }
-
-ent-DarkLordMidround = { ent-BaseAntagGhostRoleRule }
-    .desc = { ent-BaseAntagGhostRoleRule.desc }
-
-ent-ChosenOneMidround = { ent-BaseAntagGhostRoleRule }
-    .desc = { ent-BaseAntagGhostRoleRule.desc }
-
-ent-MimeAssassinMidround = { ent-BaseAntagGhostRoleRule }
-    .desc = { ent-BaseAntagGhostRoleRule.desc }
-
-ent-DarkPriestMidround = { ent-BaseAntagGhostRoleRule }
-    .desc = { ent-BaseAntagGhostRoleRule.desc }
-
-ent-VoxRaidersMidround = { ent-BaseAntagGhostRoleRule }
-    .desc = { ent-BaseAntagGhostRoleRule.desc }
-
+ent-GreyTideAntagMidround = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-TunnelClownMidround = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-SingulothKnightsMidround = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-DarkLordMidround = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-ChosenOneMidround = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-MimeAssassinMidround = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-DarkPriestMidround = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-VoxRaidersMidround = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-ContractorSpawnMidround = { ent-ContractorSpawn }
+    .desc = { ent-ContractorSpawn.desc }
 ent-ClownGoblinMigration = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
-
-ent-SlasherSpawn = { ent-BaseAntagGhostRoleRule }
-    .desc = { ent-BaseAntagGhostRoleRule.desc }
+ent-SlasherSpawn = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-SantaClausSpawn = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }

@@ -1,5 +1,4 @@
-ent-HoloCigar = holo-cigar
-    .desc = A sleek electronic cigar imported straight from Sol. You feel badass merely glimpsing it...
-
-ent-HoloCigarWestern = western holo-cigar
-    .desc = { ent-HoloCigar.desc }
+ent-HoloCigar = голо-сигара
+    .desc = Стильная электронная сигара, импортированная прямо с ОПЗ. Чувствуешь себя крутo просто взглянув на неё.
+ent-HoloCigarWestern = вестерн голо-сигара
+    .desc = Стильная электронная сигара, импортированная прямо с ОПЗ. Чувствуешь себя крутo просто взглянув на неё...

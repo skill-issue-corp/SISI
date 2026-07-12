@@ -1,33 +1,23 @@
-ent-AppearanceLaserRaptor = laser raptor appearance
+ent-AppearanceLaserRaptor = внешность лазерного раптора
     .desc = { ent-BaseMobBody.desc }
-
 ent-OrganRaptor = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = raptor
-
+    .suffix = Раптор
 ent-OrganRaptorExternal = { ent-OrganRaptor }
     .desc = { ent-OrganRaptor.desc }
-
 ent-OrganRaptorInternal = { ent-OrganRaptor }
     .desc = { ent-OrganRaptor.desc }
-
 ent-OrganRaptorHead = { ent-OrganBaseHeadBald }
     .desc = { ent-OrganBaseHeadBald.desc }
-
 ent-OrganRaptorTorso = { ent-OrganBaseTorso }
     .desc = { ent-OrganBaseTorso.desc }
-
 ent-OrganRaptorLegLeft = { ent-OrganBaseLegLeft }
     .desc = { ent-OrganBaseLegLeft.desc }
-
 ent-OrganRaptorLegRight = { ent-OrganBaseLegRight }
     .desc = { ent-OrganBaseLegRight.desc }
-
 ent-OrganRaptorFootLeft = { ent-OrganBaseFootLeft }
     .desc = { ent-OrganBaseFootLeft.desc }
-
 ent-OrganRaptorFootRight = { ent-OrganBaseFootRight }
     .desc = { ent-OrganBaseFootRight.desc }
-
-ent-OrganLaserEyes = laser raptor eyes
+ent-OrganLaserEyes = глаза лазерного раптора
     .desc = { ent-OrganBaseEyes.desc }

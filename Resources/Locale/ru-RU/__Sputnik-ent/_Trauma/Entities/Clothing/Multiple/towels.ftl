@@ -1,56 +1,38 @@
-ent-TowelColorPurple = purple towel
+ent-TowelColorPurple = фиолетовое полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorRed = red towel
+ent-TowelColorRed = красное полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorBlue = blue towel
+ent-TowelColorBlue = синее полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorDarkBlue = dark blue towel
+ent-TowelColorDarkBlue = тёмно-синее полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorLightBlue = light blue towel
+ent-TowelColorLightBlue = светло-синее полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorTeal = teal towel
+ent-TowelColorTeal = бирюзовое полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorBrown = brown towel
+ent-TowelColorBrown = коричневое полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorLightBrown = light brown towel
+ent-TowelColorLightBrown = светло-коричневое полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorGray = gray towel
+ent-TowelColorGray = серое полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorGreen = green towel
+ent-TowelColorGreen = зелёное полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorDarkGreen = dark green towel
+ent-TowelColorDarkGreen = тёмно-зелёное полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorGold = gold towel
+ent-TowelColorGold = золотое полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorOrange = orange towel
+ent-TowelColorOrange = оранжевое полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorBlack = black towel
+ent-TowelColorBlack = чёрное полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorPink = pink towel
+ent-TowelColorPink = розовое полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorYellow = yellow towel
+ent-TowelColorYellow = жёлтое полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorMaroon = maroon towel
+ent-TowelColorMaroon = бордовое полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorSilver = silver towel
+ent-TowelColorSilver = серебряное полотенце
     .desc = { ent-BaseTowel.desc }
-
-ent-TowelColorMime = silent towel
+ent-TowelColorMime = безмолвное полотенце
     .desc = { ent-BaseTowel.desc }

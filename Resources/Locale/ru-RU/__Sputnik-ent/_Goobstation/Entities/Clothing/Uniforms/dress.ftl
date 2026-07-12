@@ -1,2 +1,2 @@
-ent-ClothingUniformJumpskirtDressOpenShoulder = open-shoulder dress
-    .desc = No sleeves in this dress, only style fierce enough to snatch wigs.
+ent-ClothingUniformJumpskirtDressOpenShoulder = платье с открытыми плечами
+    .desc = В этом платье нет рукавов, только стиль, достаточно яркий, чтобы посрывались башни.

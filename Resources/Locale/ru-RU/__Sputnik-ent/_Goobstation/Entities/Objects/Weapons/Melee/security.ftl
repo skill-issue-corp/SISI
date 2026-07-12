@@ -1,8 +1,8 @@
-ent-PolymerBaton = polymer baton
-    .desc = A lightweight, durable baton made from advanced polymers. Delivers less-than-lethal force for compliance and control.
-
-ent-SpearTelescopic = telescopic spear
-    .desc = A compact, throwable spear with a retractable shaft. Designed for both melee and ranged use.
-
-ent-Betty = Betty
-    .desc = An old intricate souvenir made from tough hyper-woven durathread repurposed for riot combat.
+ent-PolymerBaton = полимерная дубинка
+    .desc = Лёгкая и прочная дубинка из современных полимеров. Применяется для несмертельного подавления и контроля.
+ent-SpearTelescopic = телескопическое копьё
+    .desc = Компактное метательное копьё с выдвижным древком. Подходит как для ближнего боя, так и для бросков.
+ent-Betty = бетти
+    .desc = Старинный декоративный сувенир из сверхпрочной гиперткани, переоборудованный для подавления беспорядков.
+ent-PoliceBaton = полицейская дубинка
+    .desc = Деревянная дубинка для избиения отбросов общества.

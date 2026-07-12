@@ -1,3 +1,3 @@
-ent-GunMimic = flesh gun
-    .desc = Looks like the mimics launcher is still in tact...
-    .suffix = Unremoveable
+ent-GunMimic = плоть-пушка
+    .desc = Похоже, что оружие мимика все еще цело...
+    .suffix = Неудаляемый

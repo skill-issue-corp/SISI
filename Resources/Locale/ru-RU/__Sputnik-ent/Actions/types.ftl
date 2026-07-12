@@ -1,122 +1,68 @@
 ent-BaseAction = { "" }
     .desc = { "" }
-
-ent-BaseDoAfterAction = { ent-BaseAction }
-    .desc = { ent-BaseAction.desc }
-
 ent-BaseMentalAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
-
-ent-BaseSuicideAction = { ent-BaseMentalAction }
-    .desc = { ent-BaseMentalAction.desc }
-
+ent-BaseSuicideAction = { "" }
+    .desc = { "" }
 ent-BaseImplantAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
-
 ent-BaseToggleAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
-
-ent-ActionScream = Scream
-    .desc = AAAAAAAAAAAAAAAAAAAAAAAAA
-
-ent-ActionTurnUndead = Turn Undead
-    .desc = Succumb to your infection and become a zombie.
-
-ent-ActionToggleLight = Toggle Light
-    .desc = Turn the light on and off.
-
-ent-ActionOpenStorageImplant = Toggle Storage Implant
-    .desc = Opens or closes the storage implant embedded under your skin
-
-ent-ActionActivateMicroBomb = Activate Microbomb
-    .desc = Activates your internal microbomb, completely destroying you and your equipment
-
-ent-ActionActivateDeathAcidifier = Activate Death-Acidifier
-    .desc = Activates your death-acidifier, completely melting you and your equipment
-
-ent-ActionActivateFreedomImplant = Break Free
-    .desc = Activating your freedom implant will free you from any hand restraints
-
-ent-ActionOpenUplinkImplant = Open Uplink
-    .desc = Opens the syndicate uplink embedded under your skin
-
-ent-ActionActivateEmpImplant = Activate EMP
-    .desc = Triggers a small EMP pulse around you
-
-ent-ActionActivateScramImplant = SCRAM!
-    .desc = Randomly teleports you within a large distance.
-
-ent-ActionActivateDnaScramblerImplant = Scramble DNA
-    .desc = Randomly changes your name and appearance.
-
-ent-ActionToggleSuitPiece = Toggle Suit Piece
-    .desc = Remember to equip the important pieces of your suit before going into action.
-
-ent-ActionCombatModeToggle = [color=red]Combat Mode[/color]
-    .desc = Enter combat mode
-
-ent-ActionCombatModeToggleOff = { ent-ActionCombatModeToggle }
-    .desc = { ent-ActionCombatModeToggle.desc }
-
-ent-ActionChangeVoiceMask = Set name
-    .desc = Change the name others hear to something else.
-
-ent-ActionShootWater = Spray water!
-    .desc = Spray water towards your enemies.
-
-ent-ActionVendingThrow = Dispense Item
-    .desc = Randomly dispense an item from your stock.
-
-ent-ActionToggleBlock = Block
-    .desc = Raise or lower your shield.
-
-ent-ActionClearNetworkLinkOverlays = Clear network link overlays
-    .desc = Clear network link overlays.
-
-ent-ActionAnimalLayEgg = Lay egg
-    .desc = Uses hunger to lay an egg.
-
-ent-ActionSleep = Sleep
-    .desc = Go to sleep.
-
-ent-ActionWake = Wake up
-    .desc = Stop sleeping.
-
-ent-ActionActivateHonkImplant = Honk
-    .desc = Activates your honking implant, which will produce the signature sound of the clown.
-
-ent-ActionFireStarter = Ignite
-    .desc = Ignites enemies in a radius around you.
-
-ent-ActionToggleEyes = Open/Close eyes
-    .desc = Close your eyes to protect your peepers, or open your eyes to enjoy the pretty lights.
-
-ent-ActionToggleWagging = Wagging Tail
-    .desc = Start or stop wagging your tail.
-
-ent-FakeMindShieldToggleAction = [color=green]Toggle Fake Mindshield[/color]
-    .desc = Turn the Fake Mindshield implant's transmission on/off
-
-ent-ActionToggleWaggingVulpkanin = { ent-ActionToggleWagging }
-    .desc = { ent-ActionToggleWagging.desc }
-
-ent-ActionGravityJump = Jump
-    .desc = Activating the advanced propulsion system, you propel yourself a short distance in the direction of your gaze.
-
-ent-ActionJumpBoost = Jump boost
-    .desc = { ent-ActionGravityJump.desc }
-
-ent-ActionVulpkaninGravityJump = Leap
-    .desc = Use your agile legs to leap a short distance. Be careful not to bump into anything!
-
-ent-ActionToggleRootable = Rootable
-    .desc = Begin or stop being rooted to the floor.
-
-ent-ActionChameleonController = Control clothing
-    .desc = Change your entire outfit fast!
-
-ent-ActionIntrinsicStore = Store
-    .desc = Opens the store
-
-ent-ActionChangeVoiceMaskImplant = { ent-ActionChangeVoiceMask }
-    .desc = { ent-ActionChangeVoiceMask.desc }
+ent-ActionScream = Крикнуть
+    .desc = ААААААААААААААААААААААААА
+ent-ActionTurnUndead = Обратиться в зомби
+    .desc = Поддайтесь заражению и превратитесь в зомби.
+ent-ActionToggleLight = Переключить фонарь
+    .desc = Включает или выключает фонарь.
+ent-ActionOpenStorageImplant = Переключить имплант Хранилище
+    .desc = Открывает или закрывает доступ к хранилищу, спрятанному под вашей кожей.
+ent-ActionActivateMicroBomb = Активировать имплант Микробомба
+    .desc = Активирует вживлённую микробомбу, полностью уничтожая вас и ваше снаряжение.
+ent-ActionActivateDeathAcidifier = Активировать имплант Посмертный растворитель
+    .desc = Активирует вживлённый запас кислоты, полностью растворяя вас и ваше снаряжение.
+ent-ActionActivateFreedomImplant = Активировать имплант Свобода
+    .desc = Освобождает вас от наручников и других ограничителей.
+ent-ActionOpenUplinkImplant = Открыть аплинк
+    .desc = Открывает аплинк Синдиката, скрытый под вашей кожей.
+ent-ActionActivateEmpImplant = Активировать ЭМИ
+    .desc = Вызывает небольшой ЭМ импульс вокруг вас.
+ent-ActionActivateScramImplant = УДРАТЬ!
+    .desc = Случайным образом телепортирует вас на большое расстояние.
+ent-ActionActivateDnaScramblerImplant = Перемешать ДНК
+    .desc = Меняет ваше имя и внешность случайным образом.
+ent-ActionToggleSuitPiece = Переключить элементы костюма
+    .desc = Не забудьте экипировать важные части костюма, прежде чем приступать к действиям.
+ent-ActionCombatModeToggle = [color=red]Боевой режим[/color]
+    .desc = Войти в боевой режим
+ent-ActionCombatModeToggleOff = [color=red]Боевой режим[/color]
+    .desc = Войти в боевой режим
+ent-ActionChangeVoiceMask = Изменить имя
+    .desc = Измените имя, которое все слышат, на другое.
+ent-ActionVendingThrow = Выдать предмет
+    .desc = Выдаёт случайный предмет из вашего инвентаря.
+ent-ActionToggleBlock = Блокирование
+    .desc = Поднимите или опустите свой щит.
+ent-ActionClearNetworkLinkOverlays = Очистить оверлей сетевых соединений
+    .desc = Очищает оверлей сетевых соединений.
+ent-ActionAnimalLayEgg = Отложить яйцо
+    .desc = Использует голод, чтобы отложить яйцо.
+ent-ActionSleep = Спать
+    .desc = Лечь спать.
+ent-ActionWake = Проснуться
+    .desc = Перестать спать.
+ent-ActionActivateHonkImplant = Хонк!
+    .desc = Активирует ваш хонк-имплант, который будет издавать фирменный звук клоуна.
+ent-ActionFireStarter = Поджечь
+    .desc = Поджигает противников в радиусе вокруг вас.
+ent-ActionToggleEyes = Открыть/закрыть глаза
+    .desc = Закройте глаза, чтобы защитить их, или откройте, чтобы насладиться яркими цветами.
+ent-ActionToggleWagging = Махать хвостом
+    .desc = Начать/перестать махать хвостом.
+ent-ActionGravityJump = Прыгнуть
+    .desc = Активирует продвинутую систему ускорения, перемещает вас на короткое расстояние в направлении взгляда.
+ent-ActionToggleRootable = action-name-toggle-rootable
+    .desc = action-description-toggle-rootable
+ent-ActionChameleonController = Изменить одежду
+    .desc = Быстро смените свой внешний вид!
+ent-FakeMindShieldToggleAction = [color=green]Переключить фальшивый Щит разума[/color]
+    .desc = Переключить трансляцию фальшивого Щита разума

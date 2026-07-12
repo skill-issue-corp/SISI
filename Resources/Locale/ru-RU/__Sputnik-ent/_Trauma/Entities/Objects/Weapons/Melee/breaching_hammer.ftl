@@ -1,2 +1,2 @@
-ent-SecBreachingHammer = breaching hammer
-    .desc = A large, heavy hammer with a long handle, used for breaking stones or other heavy material such as the skulls of violent criminals, also perfect for forcing your way through airlocks.
+ent-SecBreachingHammer = штурмовой молот
+    .desc = Большой тяжёлый молот с длинной рукоятью, используется для разбивания камней или другого прочного материала, например черепов опасных преступников, а также отлично подходит для того, чтобы силой пробиться через шлюзы.

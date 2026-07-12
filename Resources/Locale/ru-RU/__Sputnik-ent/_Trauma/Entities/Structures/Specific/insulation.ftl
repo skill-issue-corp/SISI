@@ -1,2 +1,2 @@
-ent-WallInsulation = insulation
-    .desc = Noise blocking insulation.
+ent-WallInsulation = изоляция
+    .desc = Шумоизоляция.

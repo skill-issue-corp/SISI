@@ -1,14 +1,11 @@
-ent-SpaceCash = { ent-BaseSpaceCash }
-    .desc = { ent-BaseSpaceCash.desc }
-
-ent-SpaceCashCounterfeit = { ent-BaseSpaceCash }
-    .desc = { ent-BaseSpaceCash.desc }
-    .suffix = Counterfeit
-
+ent-SpaceCashCounterfeit = подозрительные кредиты
+    .desc = Выглядит нарисованным.
 ent-SpaceCashCounterfeit10 = { ent-SpaceCashCounterfeit }
+    .suffix = 10
     .desc = { ent-SpaceCashCounterfeit.desc }
-    .suffix = Counterfeit, 10
-
 ent-SpaceCashCounterfeit250 = { ent-SpaceCashCounterfeit }
+    .suffix = 250
     .desc = { ent-SpaceCashCounterfeit.desc }
-    .suffix = Counterfeit, 250
+ent-SpaceCashCounterfeit50 = { ent-SpaceCashCounterfeit }
+    .suffix = 50
+    .desc = { ent-SpaceCashCounterfeit.desc }

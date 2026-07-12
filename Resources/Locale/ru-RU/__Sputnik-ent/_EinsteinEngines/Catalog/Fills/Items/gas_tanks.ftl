@@ -1,24 +1,18 @@
-ent-EmergencyPlasmaTank = emergency plasma tank
-    .desc = An easily portable tank for emergencies. Contains very little plasma, rated for survival use only.
-
+ent-EmergencyPlasmaTank = аварийный баллон с плазмой
+    .desc = Легко переносимый баллон для экстренных случаев. Содержит очень мало плазмы, предназначен только для выживания.
 ent-EmergencyPlasmaTankFilled = { ent-EmergencyPlasmaTank }
+    .suffix = Заполненный
     .desc = { ent-EmergencyPlasmaTank.desc }
-    .suffix = Filled
-
-ent-ExtendedEmergencyPlasmaTank = extended capacity emergency plasma tank
-    .desc = An emergency tank with extended capacity. Technically rated for prolonged use.
-
+ent-ExtendedEmergencyPlasmaTank = аварийный баллон с плазмой повышенной ёмкости
+    .desc = Аварийный баллон с увеличенной ёмкостью. Технически рассчитан на продолжительное использование.
 ent-ExtendedEmergencyPlasmaTankFilled = { ent-ExtendedEmergencyPlasmaTank }
+    .suffix = Заполненный
     .desc = { ent-ExtendedEmergencyPlasmaTank.desc }
-    .suffix = Filled
-
-ent-DoubleEmergencyPlasmaTank = plasma internals tank
-    .desc = A tank of plasma designed to be internals for Plasmamen.
-
+ent-DoubleEmergencyPlasmaTank = двойной аварийный баллон с плазмой
+    .desc = Двойной аварийный баллон с плазмой, предназначенный для использования Плазмалюдов.
 ent-DoubleEmergencyPlasmaTankFilled = { ent-DoubleEmergencyPlasmaTank }
+    .suffix = Заполненный
     .desc = { ent-DoubleEmergencyPlasmaTank.desc }
-    .suffix = Filled
-
-ent-PlasmaTankFilledInternals = plasma tank
+ent-PlasmaTankFilledInternals = аварийный баллон с плазмой
+    .suffix = Заполненный, Плазмалюд
     .desc = { ent-PlasmaTankFilled.desc }
-    .suffix = Filled, Plasmaman Internals

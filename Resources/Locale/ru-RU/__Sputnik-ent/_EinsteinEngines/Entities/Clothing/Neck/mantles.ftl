@@ -1,2 +1,2 @@
-ent-ClothingNeckOldClothWrap = old cloth wrap
-    .desc = A tattered fabric wrap, faded over the years. Smells faintly of cigars.
+ent-ClothingNeckOldClothWrap = Старый тканевый бинт
+    .desc = Изношенный тканевый бинт, поблекший с годами. Слегка пахнет сигарами.

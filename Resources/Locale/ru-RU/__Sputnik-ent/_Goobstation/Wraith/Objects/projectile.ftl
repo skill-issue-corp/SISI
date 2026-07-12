@@ -1,2 +1,2 @@
-ent-TentacleHook = tentacle hook
+ent-TentacleHook = щупальцевый крюк
     .desc = { "" }

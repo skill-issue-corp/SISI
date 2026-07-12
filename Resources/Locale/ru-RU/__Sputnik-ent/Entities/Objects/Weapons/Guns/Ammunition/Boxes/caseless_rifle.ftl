@@ -1,14 +1,10 @@
-ent-BaseMagazineBoxCaselessRifle = ammunition box (9.5mm HP)
+ent-BaseMagazineBoxCaselessRifle = коробка патронов (.25 безгильзовые)
     .desc = { ent-BaseItem.desc }
-
-ent-MagazineBoxCaselessRifle10x24 = ammunition box (9.5mm HP)
+ent-MagazineBoxCaselessRifle10x24 = коробка патронов (.25 безгильзовые)
     .desc = { ent-BaseMagazineBoxCaselessRifle.desc }
-
-ent-MagazineBoxCaselessRifleBig = ammunition box (9.5mm HP)
+ent-MagazineBoxCaselessRifleBig = коробка патронов (.25 безгильзовые)
     .desc = { ent-BaseMagazineBoxCaselessRifle.desc }
-
-ent-MagazineBoxCaselessRifle = ammunition box (9.5mm HP)
-    .desc = A cardboard box of 9.5mm caseless rounds. Intended to hold general-purpose kinetic ammunition.
-
-ent-MagazineBoxCaselessRiflePractice = ammunition box (9.5mm practice)
-    .desc = A cardboard box of 9.5mm caseless rounds. Intended to hold harmless practice ammunition.
+ent-MagazineBoxCaselessRifle = коробка патронов (.25 безгильзовые)
+    .desc = { ent-BaseMagazineBoxCaselessRifle.desc }
+ent-MagazineBoxCaselessRiflePractice = коробка патронов (.25 безгильзовые учебные)
+    .desc = { ent-BaseMagazineBoxCaselessRifle.desc }

@@ -1,2 +1,2 @@
-ent-ClothingShoesSandals = sandals
-    .desc = A pair of simple but stylish sandals.
+ent-ClothingShoesSandals = сандали
+    .desc = Пара простых, но стильных сандалей.

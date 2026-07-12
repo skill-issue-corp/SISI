@@ -1,21 +1,14 @@
-ent-BaseSpeedLoaderMagnum = speed loader (.45 magnum)
+ent-BaseSpeedLoaderMagnum = спидлоадер (.45 магнум)
     .desc = { ent-BaseItem.desc }
-
-ent-SpeedLoaderMagnum = speed loader (.45 magnum)
-    .desc = Designed to quickly load up to six rounds of .45 magnum into an empty revolver. Intended to hold general-purpose kinetic ammunition.
-
-ent-SpeedLoaderMagnumEmpty = speed loader (.45 magnum any)
-    .desc = Designed to quickly load up to six rounds of .45 magnum into an empty revolver.
-    .suffix = empty
-
-ent-SpeedLoaderMagnumIncendiary = speed loader (.45 magnum incendiary)
-    .desc = Designed to quickly load up to six rounds of .45 magnum into an empty revolver. Intended to hold self-igniting incendiary ammunition.
-
-ent-SpeedLoaderMagnumPractice = speed loader (.45 magnum practice)
-    .desc = Designed to quickly load up to six rounds of .45 magnum into an empty revolver. Intended to hold harmless practice ammunition.
-
-ent-SpeedLoaderMagnumAP = speed loader (.45 magnum armor-piercing)
-    .desc = Designed to quickly load up to six rounds of .45 magnum into an empty revolver. Intended to hold specialized armor-piercing ammunition.
-
-ent-SpeedLoaderMagnumUranium = speed loader (.45 magnum uranium)
-    .desc = Designed to quickly load up to six rounds of .45 magnum into an empty revolver. Intended to hold exotic uranium-core ammunition.
+ent-SpeedLoaderMagnum = спидлоадер (.45 магнум)
+    .desc = { ent-BaseSpeedLoaderMagnum.desc }
+ent-SpeedLoaderMagnumEmpty = спидлоадер (.45 магнум любые)
+    .desc = { ent-SpeedLoaderMagnum.desc }
+ent-SpeedLoaderMagnumIncendiary = спидлоадер (.45 магнум зажигательные)
+    .desc = { ent-SpeedLoaderMagnum.desc }
+ent-SpeedLoaderMagnumPractice = спидлоадер (.45 магнум учебные)
+    .desc = { ent-BaseSpeedLoaderMagnum.desc }
+ent-SpeedLoaderMagnumAP = спидлоадер (.45 магнум бронебойные)
+    .desc = { ent-BaseSpeedLoaderMagnum.desc }
+ent-SpeedLoaderMagnumUranium = спидлоадер (.45 магнум урановые)
+    .desc = { ent-BaseSpeedLoaderMagnum.desc }

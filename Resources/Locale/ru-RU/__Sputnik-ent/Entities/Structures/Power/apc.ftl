@@ -1,29 +1,19 @@
-ent-BaseAPC = APC
-    .desc = A control terminal for the area's electrical systems.
-
-ent-APCFrame = APC frame
-    .desc = A control terminal for the area's electrical systems, lacking the electronics.
-
+ent-BaseAPC = ЛКП
+    .desc = Терминал управления локальными электрическими системами.
+ent-APCFrame = каркас ЛКП
+    .desc = Терминал управления локальными электрическими системами, без электроники.
 ent-APCConstructed = { ent-BaseAPC }
+    .suffix = Открыт
     .desc = { ent-BaseAPC.desc }
-    .suffix = Open
-
 ent-APCBasic = { ent-BaseAPC }
+    .suffix = Базовый, 50кДж
     .desc = { ent-BaseAPC.desc }
-    .suffix = Basic, 50kJ
-
 ent-APCHighCapacity = { ent-BaseAPC }
+    .suffix = Высокая ёмкость, 100кДж
     .desc = { ent-BaseAPC.desc }
-    .suffix = High Capacity, 100kJ
-
 ent-APCSuperCapacity = { ent-BaseAPC }
+    .suffix = Супер ёмкость, 150кДж
     .desc = { ent-BaseAPC.desc }
-    .suffix = Super Capacity, 150kJ
-
 ent-APCHyperCapacity = { ent-BaseAPC }
+    .suffix = Гипер ёмкость, 200кДж
     .desc = { ent-BaseAPC.desc }
-    .suffix = Hyper Capacity, 200kJ
-
-ent-APCXenoborg = { ent-BaseAPC }
-    .desc = { ent-BaseAPC.desc }
-    .suffix = Basic, 50kJ, Xenoborg

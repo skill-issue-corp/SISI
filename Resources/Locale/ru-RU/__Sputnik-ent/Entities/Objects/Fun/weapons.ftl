@@ -1,36 +1,25 @@
 ent-BaseToyGun = { "" }
     .desc = { "" }
-
-ent-FoamCrossbow = foam crossbow
-    .desc = Aiming this at Security may get you filled with lead.
-
+ent-FoamCrossbow = поролоновый арбалет
+    .desc = Если направить его на Службу безопасности, вас могут нашпиговать свинцом.
 ent-WeaponRifleFoam = Foam Force Astro Ace
-    .desc = A premium foam rifle of the highest quality. Its plastic feels rugged, and its mechanisms sturdy.
-
-ent-RevolverCapGun = cap gun
-    .desc = Looks almost like the real thing! Ages 8 and up.
-
+    .desc = Первоклассная поролоновая винтовка высочайшего качества. Её пластик кажется прочным, а механизмы — надёжными.
+ent-RevolverCapGun = пистолет с пистонами
+    .desc = Выглядит почти как настоящий! Для детей от 8 лет.
 ent-RevolverCapGunFake = { ent-RevolverCapGun }
     .desc = { ent-RevolverCapGun.desc }
-    .suffix = Fake
-
-ent-WeaponStickyHand = sticky hand
-    .desc = They're saying you're reaching. They're saying it's a stretch. You'll show them all, and you'll stick it to them.
-
+    .suffix = Поддельный
+ent-WeaponStickyHand = липкая рука
+    .desc = Говорят, вы тянетесь. Говорят, это уже перебор. Но вы всем покажете и прилипнете к ним.
 ent-BaseToySword = { "" }
     .desc = { "" }
-
-ent-FoamBlade = foamblade
-    .desc = It says "Sternside Changs number 1 fan" on it.
-
-ent-FoamCutlass = foam cutlass
-    .desc = Cosplay as a pirate and force your friends to walk the plank.
-
-ent-ToySword = toy sword
-    .desc = New Sandy-Cat plastic sword! Comes with realistic sound and full color! Looks almost like the real thing!
-
-ent-CardSword = cardboard sword
-    .desc = A cardboard tube fashioned into the shape of a sword.
-
-ent-ToyHammer = rubber hammer
-    .desc = A brightly colored hammer made of rubber.
+ent-FoamBlade = поролоновый клинок
+    .desc = На нём написано «Стернсайдские Чанги, фанат №1».
+ent-FoamCutlass = поролоновый кортик
+    .desc = Косплейте пирата и заставьте своих друзей пройтись по доске.
+ent-ToySword = игрушечный меч
+    .desc = Новый пластиковый меч от Sandy-Cat! Реалистичный звук и полноцветное исполнение! Выглядит почти как настоящий!
+ent-CardSword = картонный меч
+    .desc = Картонная труба, сложенная в форме меча.
+ent-ToyHammer = резиновый молоток
+    .desc = Ярко раскрашенный молоток из резины.

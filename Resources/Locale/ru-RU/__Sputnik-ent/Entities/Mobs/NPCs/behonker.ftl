@@ -1,18 +1,14 @@
-ent-BaseMobBehonker = behonker
-    .desc = A floating demon aspect of the honkmother.
-
-ent-MobBehonkerElectrical = behonker
+ent-BaseMobBehonker = бехонкер
+    .desc = Парящий демонический аспект хонкоматери.
+ent-MobBehonkerElectrical = бехонкер
+    .suffix = Электро
     .desc = { ent-BaseMobBehonker.desc }
-    .suffix = Pyro
-
-ent-MobBehonkerPyro = behonker
+ent-MobBehonkerPyro = бехонкер
+    .suffix = Пиро
     .desc = { ent-BaseMobBehonker.desc }
-    .suffix = Electrical
-
-ent-MobBehonkerGrav = behonker
+ent-MobBehonkerGrav = бехонкер
+    .suffix = Гравитация
     .desc = { ent-BaseMobBehonker.desc }
-    .suffix = Grav
-
-ent-MobBehonkerIce = behonker
+ent-MobBehonkerIce = бехонкер
+    .suffix = Лёд
     .desc = { ent-BaseMobBehonker.desc }
-    .suffix = Ice

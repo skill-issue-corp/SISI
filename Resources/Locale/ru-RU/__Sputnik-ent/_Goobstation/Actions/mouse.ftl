@@ -1,5 +1,4 @@
-ent-MouseMultiply = Multiply
-    .desc = Uses hunger to multiply.
-
-ent-ActionBodyPartBurst = burst free!
-    .desc = Dig your way out of the flesh you are trapped in!
+ent-MouseMultiply = Размножиться
+    .desc = Использует голод, чтобы создать себе подобного.
+ent-ActionBodyPartBurst = вырваться!
+    .desc = Вырвитесь из плоти, в которой вы заперты!

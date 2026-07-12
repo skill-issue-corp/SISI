@@ -1,11 +1,8 @@
-ent-MutationCindikinesis = Cindikinesis
-    .desc = Allows the user to concentrate nearby heat into a pile of ash. Wow. Very interesting.
-
-ent-MutationPyrokinesis = Pyrokinesis
-    .desc = Draws positive energy from the surroundings to heat surrounding temperatures at subject's will.
-
-ent-ActionMutationCindikinesis = Create Ash
-    .desc = Concentrates pyrokinetic forces to create ash, useful for basically nothing.
-
-ent-ActionMutationPyrokinesis = Pyrobeam
-    .desc = This power fires a heated bolt at a target.
+ent-MutationCindikinesis = Синдикинез
+    .desc = Позволяет пользователю концентрировать окружающее тепло в кучку пепла. Ух ты. Очень интересно.
+ent-MutationPyrokinesis = Пирокинез
+    .desc = Извлекает положительную энергию из окружения, нагревая температуру вокруг по воле субъекта.
+ent-ActionMutationCindikinesis = Создать пепел
+    .desc = Концентрирует пирокинетические силы для создания пепла, по сути бесполезного.
+ent-ActionMutationPyrokinesis = Пиролуч
+    .desc = Эта способность выпускает по цели раскалённый заряд.

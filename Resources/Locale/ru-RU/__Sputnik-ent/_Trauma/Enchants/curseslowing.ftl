@@ -1,2 +1,2 @@
-ent-CurseSlowing = Iron Foot Curse
+ent-CurseSlowing = Проклятие Железной Стопы
     .desc = { ent-BaseEnchant.desc }

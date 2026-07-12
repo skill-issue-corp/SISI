@@ -1,2 +1,2 @@
-ent-ClothingHeadHatLaurelWreath = laurel wreath
-    .desc = Ave Imperator!
+ent-ClothingHeadHatLaurelWreath = лавровый венок
+    .desc = Ave Император!

@@ -1,11 +1,8 @@
-ent-FoodBlackCaviar = black caviar
-    .desc = A tin of black caviar with a convenient pull tab. Looks expensive.
-
-ent-FoodBlackCaviarTrash = black caviar
+ent-FoodBlackCaviar = черная икра
+    .desc = Жестяная банка черной икры с удобной отрывающейся крышкой. Выглядит дорого.
+ent-FoodBlackCaviarTrash = черная икра
     .desc = { ent-FoodTinBaseTrash.desc }
-
-ent-FoodRedCaviar = red caviar
-    .desc = A tin of red caviar with a convenient pull tab.
-
-ent-FoodRedCaviarTrash = red caviar
+ent-FoodRedCaviar = красная икра
+    .desc = Жестяная банка красной икры с удобной отрывающейся крышкой.
+ent-FoodRedCaviarTrash = красная икра
     .desc = { ent-FoodTinBaseTrash.desc }

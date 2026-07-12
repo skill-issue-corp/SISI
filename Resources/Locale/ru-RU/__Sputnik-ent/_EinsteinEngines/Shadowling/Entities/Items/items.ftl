@@ -1,5 +1,4 @@
-ent-AntiMindControlDevice = anti-mind control device
-    .desc = A special device designed for reverting mind control.
-
-ent-LightEaterArmBlade = Light Eater
-    .desc = An arm-blade that can rip through lights and ash them in a moment's notice.
+ent-AntiMindControlDevice = УПМК
+    .desc = Устройство против ментального контроля, предназначенное для снятия контролирующих разум эффектов.
+ent-LightEaterArmBlade = Пожиратель света
+    .desc = Клинок, способный разорвать и обратить в пепел источники света за долю секунды.

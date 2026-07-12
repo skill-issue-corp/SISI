@@ -1,26 +1,30 @@
-ent-EngineeringTechFabCircuitboard = engineering techfab machine board
-    .desc = A machine printed circuit board for a engineering techfab.
-
-ent-CargoTechFabCircuitboard = cargo techfab machine board
-    .desc = A machine printed circuit board for a cargo techfab.
-
-ent-ScienceTechFabCircuitboard = science techfab machine board
-    .desc = A machine printed circuit board for a science techfab.
-
-ent-ServiceTechFabCircuitboard = service techfab machine board
-    .desc = A machine printed circuit board for a service techfab.
-
-ent-TeslaCoilCircuitboard = tesla coil board
+ent-EngineeringTechFabCircuitboard = инженерный ТехФаб (машинная плата)
     .desc = { ent-BaseMachineCircuitboard.desc }
-
-ent-RadiationCollectorCircuitboard = radiation collector board
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-CargoTechFabCircuitboard = ТехФаб снабжения (машинная плата)
     .desc = { ent-BaseMachineCircuitboard.desc }
-
-ent-PlumbingPumpCircuitboard = liquid pump board
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-ScienceTechFabCircuitboard = научный ТехФаб (машинная плата)
     .desc = { ent-BaseMachineCircuitboard.desc }
-
-ent-EnergyChemDispenserMachineCircuitboard = energy chem dispenser machine board
-    .desc = A machine printed circuit board for an energy chem dispenser.
-
-ent-TelecomTransmitterCircuitboard = telecommunication transmitter machine board
-    .desc = A machine printed circuit board for an telecommunication transmitter.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-ServiceTechFabCircuitboard = сервисный ТехФаб (машинная плата)
+    .desc = { ent-BaseMachineCircuitboard.desc }
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-ERTTechFabCircuitboard = ОБР ТехФаб (машинная плата)
+    .desc = { ent-BaseMachineCircuitboard.desc }
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-TeslaCoilCircuitboard = катушка теслы (машинная плата)
+    .desc = { ent-BaseMachineCircuitboard.desc }
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-RadiationCollectorCircuitboard = коллектор радиации (машинная плата)
+    .desc = { ent-BaseMachineCircuitboard.desc }
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-PlumbingPumpCircuitboard = жидкостный насос (машинная плата)
+    .desc = { ent-BaseMachineCircuitboard.desc }
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-EnergyChemDispenserMachineCircuitboard = энергетический раздатчик химикатов (машинная плата)
+    .desc = { ent-BaseMachineCircuitboard.desc }
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-TelecomTransmitterCircuitboard = телекоммуникационный передатчик (машинная плата)
+    .desc = { ent-BaseMachineCircuitboard.desc }
+    .suffix = { ent-BaseMachineCircuitboard.suffix }

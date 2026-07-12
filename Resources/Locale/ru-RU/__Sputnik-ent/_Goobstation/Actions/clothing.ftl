@@ -1,8 +1,6 @@
-ent-ActionClothingSeal = Seal clothing
-    .desc = Seals your current clothing.
-
-ent-ActionActivateProjector = Toggle Clone
-    .desc = Generates or dissipates your connected gemini.
-
-ent-ActionHailer = Hail
-    .desc = Audibly hail nearby crew, useful for giving quick orders.
+ent-ActionClothingSeal = Запечатать одежду
+    .desc = Запечатывает вашу текущую одежду.
+ent-ActionActivateProjector = Переключить клона
+    .desc = Создаёт или рассеивает вашего связанного близнеца.
+ent-ActionHailer = Оповестить
+    .desc = Услышать и оповестить ближайший экипаж, полезно для быстрого отдачи приказов.

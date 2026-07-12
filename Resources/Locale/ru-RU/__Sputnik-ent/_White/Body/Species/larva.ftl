@@ -1,8 +1,6 @@
 ent-AppearanceXenomorphLarva = { ent-AppearanceXenomorphBase }
     .desc = { ent-AppearanceXenomorphBase.desc }
-
-ent-OrganXenomorphTorsoLarva = larva body
-    .desc = Extra scary snake.
-
-ent-OrganXenomorphPlasmaVesselTiny = tiny plasma vessel
+ent-OrganXenomorphTorsoLarva = тело личинки
+    .desc = Особенно жуткая змея.
+ent-OrganXenomorphPlasmaVesselTiny = крошечный плазменный сосуд
     .desc = { ent-OrganXenomorphPlasmaVessel.desc }

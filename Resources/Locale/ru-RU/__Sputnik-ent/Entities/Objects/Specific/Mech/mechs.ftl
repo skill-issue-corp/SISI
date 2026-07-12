@@ -1,30 +1,22 @@
 ent-BaseMech = { "" }
     .desc = { "" }
-
-ent-MechRipley = Ripley APLU
-    .desc = Versatile and lightly armored, the Ripley is useful for almost any heavy work scenario. The "APLU" stands for Autonomous Power Loading Unit.
-
+ent-MechRipley = Рипли АВП
+    .desc = Универсальный и легкобронированный, Рипли пригодится практически для любого сценария тяжёлой работы. АВП означает АВтономный Погрузчик.
 ent-MechRipleyBattery = { ent-MechRipley }
+    .suffix = Батарея
     .desc = { ent-MechRipley.desc }
-    .suffix = Battery
-
-ent-MechHonker = H.O.N.K.
-    .desc = Produced by "Tyranny of Honk, INC", this exosuit is designed as heavy clown-support. Used to spread the fun and joy of life. HONK!
-
+ent-MechHonker = Х.О.Н.К.
+    .desc = Произведённый компанией "Тирания Хонка, инкорпорейтед", этот экзокостюм предназначен для тяжёлой поддержки клоунов. Используется, чтобы сеять радость жизни и веселье. ХОНК!
 ent-MechHonkerBattery = { ent-MechHonker }
+    .suffix = Батарея
     .desc = { ent-MechHonker.desc }
-    .suffix = Battery
-
-ent-MechHamtr = HAMTR
-    .desc = An experimental mech which uses a brain–computer interface to connect directly to a hamsters brain.
-
+ent-MechHamtr = ХАМЯК
+    .desc = Экспериментальный мех, использующий нейрокомпьютерный интерфейс для подключения к мозгу хомяка.
 ent-MechHamtrBattery = { ent-MechHamtr }
+    .suffix = Батарея
     .desc = { ent-MechHamtr.desc }
-    .suffix = Battery
-
-ent-MechVim = Vim
-    .desc = A miniature exosuit from Nanotrasen, developed to let the irreplaceable station pets live a little longer.
-
+ent-MechVim = ВИМ
+    .desc = Миниатюрный экзокостюм компании NanoTrasen, разработанный для того, чтобы позволить незаменимым питомцам станции прожить немного дольше.
 ent-MechVimBattery = { ent-MechVim }
+    .suffix = Батарея
     .desc = { ent-MechVim.desc }
-    .suffix = Battery

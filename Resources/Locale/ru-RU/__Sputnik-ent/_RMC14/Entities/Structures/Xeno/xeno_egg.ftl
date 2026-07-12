@@ -1,5 +1,4 @@
-ent-XenoEgg = egg
-    .desc = It looks like a weird egg.
-
-ent-XenoEggDestroyed = destroyed egg
-    .desc = A mess of... something.
+ent-XenoEgg = яйцо
+    .desc = Выглядит как странное яйцо.
+ent-XenoEggDestroyed = разрушенное яйцо
+    .desc = Месиво из… чего-то.

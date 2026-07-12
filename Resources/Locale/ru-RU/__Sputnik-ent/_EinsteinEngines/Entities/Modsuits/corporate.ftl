@@ -1,21 +1,15 @@
 ent-BaseModsuitPieceCorporate = { "" }
     .desc = { "" }
-
-ent-ClothingModsuitCorporate = Corporate modsuit control unit
-    .desc = The main controller for a Corporate modsuit.
-
-ent-ClothingModsuitGauntletsCorporate = Corporate modsuit gauntlets
-    .desc = A pair of gauntlets made for the Corporate modsuit.
-
-ent-ClothingModsuitHelmetCorporate = Corporate modsuit helmet
-    .desc = A state-of-the-art helmet designed by NanoTrasen for the Corporate modsuit. It includes a built-in HUD.
-
-ent-ClothingModsuitChestplateCorporate = Corporate modsuit chestplate
-    .desc = A state of the art chestplate designed by NanoTrasen for the Corporate modsuit. It incorporates powered servos to reduce the equipment load.
-
-ent-ClothingModsuitBootsCorporate = Corporate modsuit boots
-    .desc = A state-of-the-art pair of magboots for the Corporate modsuit. So long as the suit is powered, these will not slow the wearer down.
-
+ent-ClothingModsuitCorporate = корпоративный контрольный блок модкостюма
+    .desc = Основной контроллер для корпоративного модкостюма.
+ent-ClothingModsuitGauntletsCorporate = корпоративные перчатки модкостюма
+    .desc = Пара перчаток, изготовленных для корпоративного модкостюма.
+ent-ClothingModsuitHelmetCorporate = корпоративный шлем модкостюма
+    .desc = Современный шлем, разработанный компанией «НаноТрейзен» для корпоративного модкостюма. Оснащён встроенным ХУДом.
+ent-ClothingModsuitChestplateCorporate = корпоративный нагрудник модкостюма
+    .desc = Современный нагрудник, разработанный компанией «НаноТрейзен» для корпоративного модкостюма. Оснащён моторизированными сервоприводами для снижения нагрузки от экипировки.
+ent-ClothingModsuitBootsCorporate = корпоративные ботинки модкостюма
+    .desc = Современная пара магнитных ботинок для корпоративного модкостюма. Пока костюм запитан, они не замедляют носителя.
 ent-SuitStorageCorporate = { ent-SuitStorageBase }
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Corporate Modsuit
+    .suffix = Корпоративный модкостюм

@@ -1,5 +1,4 @@
-ent-MeleeKnowledge = Melee
+ent-MeleeKnowledge = Ближний бой
     .desc = { ent-BaseWarKnowledge.desc }
-
-ent-ShootingKnowledge = Shooting
+ent-ShootingKnowledge = Стрельба
     .desc = { ent-BaseWarKnowledge.desc }

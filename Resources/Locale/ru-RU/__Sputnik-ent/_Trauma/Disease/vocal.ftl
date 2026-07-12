@@ -1,5 +1,5 @@
-ent-DiseaseVocalParasitesBase = vocal parasites
-    .desc = A parasite attached to the host's vocal folds.
+ent-DiseaseVocalParasitesBase = голосовые паразиты
+    .desc = Паразит, прикрепившийся к голосовым связкам носителя.
 
 ent-DiseaseVocalParasitesSolCommon = { ent-DiseaseVocalParasitesBase }
     .desc = { ent-DiseaseVocalParasitesBase.desc }

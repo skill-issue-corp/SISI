@@ -1,7 +1,10 @@
-ent-EmagUnlimited = cryptographic sequencer
-    .desc = The all-in-one hacking solution. Friend of any syndicate. The iconic EMAG.
-    .suffix = Unlimited
-
+# Corvax-HiddenDesc-Start
+ent-EmagUnlimited = криптографический секвенсор
+    .desc = Странная ID-карта с торчащими проводами и дополнительными модулями.
+    .suffix = Неограниченный, криптографический секвенсор
 ent-Emag = { ent-EmagUnlimited }
     .desc = { ent-EmagUnlimited.desc }
-    .suffix = Limited
+    .suffix = Ограниченный, криптографический секвенсор
+
+# Corvax-HiddenDesc-End
+

@@ -1,2 +1,2 @@
-ent-ExperimentalSyndicateTeleporter = experimental Syndicate teleporter
-    .desc = A self-recharging device that teleports the user forward. In case of teleportation into a wall, uses emergency teleportation. Or gibs the user if it's out of charges.
+ent-ExperimentalSyndicateTeleporter = экспериментальный телепорт синдиката
+    .desc = Самозаряжающееся устройство, телепортирующее пользователя вперёд. При телепортации в стену срабатывает аварийный телепорт — или разрывает пользователя на куски, если зарядов не осталось.

@@ -1,23 +1,16 @@
-ent-BZCanister = bz canister
-    .desc = { ent-GasCanister.desc }
-
-ent-HealiumCanister = healium canister
-    .desc = { ent-GasCanister.desc }
-
-ent-NitriumCanister = nitrium canister
-    .desc = { ent-GasCanister.desc }
-
-ent-PluoxiumCanister = pluoxium canister
-    .desc = { ent-GasCanister.desc }
-
+ent-BZCanister = канистра би-зет
+    .desc = Канистра, в которой может содержаться газ любого вида. В этой, предположительно, содержится би-зет. Можно прикрепить к порту коннектора с помощью гаечного ключа.
+ent-HealiumCanister = канистра хилиума
+    .desc = Канистра, в которой может содержаться газ любого вида. В этой, предположительно, содержится хилиум. Можно прикрепить к порту коннектора с помощью гаечного ключа.
+ent-NitriumCanister = канистра нитрия
+    .desc = Канистра, в которой может содержаться газ любого вида. В этой, предположительно, содержится нитрий. Можно прикрепить к порту коннектора с помощью гаечного ключа.
+ent-PluoxiumCanister = канистра плюоксия
+    .desc = Канистра, в которой может содержаться газ любого вида. В этой, предположительно, содержится плюоксий. Можно прикрепить к порту коннектора с помощью гаечного ключа.
 ent-BZCanisterBroken = { ent-GasCanisterBrokenBase }
     .desc = { ent-GasCanisterBrokenBase.desc }
-
 ent-HealiumCanisterBroken = { ent-GasCanisterBrokenBase }
     .desc = { ent-GasCanisterBrokenBase.desc }
-
 ent-NitriumCanisterBroken = { ent-GasCanisterBrokenBase }
     .desc = { ent-GasCanisterBrokenBase.desc }
-
 ent-PluoxiumCanisterBroken = { ent-GasCanisterBrokenBase }
     .desc = { ent-GasCanisterBrokenBase.desc }

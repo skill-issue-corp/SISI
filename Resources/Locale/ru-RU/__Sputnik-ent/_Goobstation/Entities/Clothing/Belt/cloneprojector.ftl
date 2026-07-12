@@ -1,8 +1,6 @@
 ent-ClothingBeltBaseCloneProjector = { ent-ClothingBeltBase }
     .desc = { ent-ClothingBeltBase.desc }
-
-ent-ClothingBeltGeminiHoloProjector = ax-32 "gemini" holo-projector rig
-    .desc = A highly advanced holo-projector rig that interfaces directly with the users spinal cord to generate an exact copy of them. Truly a marvel of Nanotrasen technology.
-
-ent-ClothingBeltMonozygoticHoloProjector = ax-48 "monozygotic" holo-projector rig
-    .desc = An custom made, experimental variant of the ax-32, retrofitted for use by Central Command.
+ent-ClothingBeltGeminiHoloProjector = оснастка голографического проектора ax-32 "gemini"
+    .desc = Высокотехнологичная оснастка голографического проектора, которая напрямую взаимодействует с позвоночником пользователя для создания точной копии его самого. Поистине чудо технологий Nanotrasen.
+ent-ClothingBeltMonozygoticHoloProjector = оснастка голографического проектора ax-48 "monozygotic"
+    .desc = Экспериментальный кастомный вариант ax-32, модернизированный для использования Центральным Командованием. Имя "C. Ward" написано мелким шрифтом на передней части.

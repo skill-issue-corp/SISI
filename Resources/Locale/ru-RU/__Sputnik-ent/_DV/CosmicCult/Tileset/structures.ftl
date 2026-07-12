@@ -1,21 +1,21 @@
-ent-CosmicShuttleCore = malign instrument
-    .desc = Its surface glows with a myriad of inscrutable glyphs that commmunicate a single word into your mind; "Flight".
+ent-CosmicShuttleCore = злокачественный инструмент
+    .desc = Его поверхность светится множеством непостижимых символов, передающих в ваш разум одно-единственное слово: «Полёт».
 
-ent-CosmicChair = malign settee
+ent-CosmicChair = злокачественное кресло
     .desc = { ent-SeatBase.desc }
 
-ent-CosmicObelisk = malign obelisk
-    .desc = A mysterious-yet-inert sturcture. Unsettling.
+ent-CosmicObelisk = злокачественный обелиск
+    .desc = Загадочное, но безжизненное сооружение. Тревожащее.
 
-ent-CosmicThruster = malign engine
+ent-CosmicThruster = злокачественный двигатель
     .desc = { ent-BaseStructure.desc }
 
-ent-CosmicLamp = malign light
-    .desc = A mote of un-light shimmers within.
+ent-CosmicLamp = злокачественный свет
+    .desc = Внутри мерцает крупица не-света.
     .suffix = Always Powered
 
-ent-AltarCosmic = cosmic altar
-    .desc = Altar of.. Something.
+ent-AltarCosmic = космический алтарь
+    .desc = Алтарь... чего-то.
 
-ent-CosmicTable = malign table
-    .desc = Unfathomably, cosmically.. Square.
+ent-CosmicTable = злокачественный стол
+    .desc = Непостижимо, по-космически... квадратный.

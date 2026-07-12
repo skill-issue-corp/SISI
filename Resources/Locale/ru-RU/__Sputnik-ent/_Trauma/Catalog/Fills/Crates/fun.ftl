@@ -1,2 +1,2 @@
-ent-CrateFunSprayPaints = spray paint crate
-    .desc = A crate filled with cans of spray paint.
+ent-CrateFunSprayPaints = ящик с баллончиками с краской
+    .desc = Ящик, набитый баллончиками с краской.

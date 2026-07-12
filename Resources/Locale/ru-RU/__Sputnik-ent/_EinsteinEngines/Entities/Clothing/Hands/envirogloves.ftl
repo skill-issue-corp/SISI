@@ -1,78 +1,53 @@
-ent-ClothingHandsGlovesEnvirogloves = plasma envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesBlack = black envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesCombat = combat envirogloves
+ent-ClothingHandsGlovesEnvirogloves = экоперчатки плазменные
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesBlack = черные экоперчатки
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesCombat = боевые экоперчатки
     .desc = Specially designed envirogloves for combat and shock-protection.
-
-ent-ClothingHandsGlovesEnviroglovesNitrile = nitrile envirogloves
+ent-ClothingHandsGlovesEnviroglovesNitrile = нитриловые экоперчатки
     .desc = Pricy nitrile gloves made for Plasmamen.
-
-ent-ClothingHandsGlovesEnviroglovesWhite = white envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesColor = envirogloves
-    .desc = Covers up those scandalous boney hands.
-    .suffix = Loadouts, Colorable
-
-ent-ClothingHandsGlovesEnviroglovesDetective = forensic envirogloves
-    .desc = Covers up those scandalous boney fingerprints.
-
-ent-ClothingHandsGlovesEnviroglovesRoboticist = roboticist envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesJanitor = janitor envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesCargo = cargo envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesEngineering = engineering envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesAtmos = atmos envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesSalvage = salvage envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesLeather = hydroponics envirogloves
-    .desc = These leather gloves protect your boney hands against thorns, barbs, prickles, and spikes.
-
-ent-ClothingHandsGlovesEnviroglovesPrototype = prototype envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesClown = clown envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesHoP = head of personnel's envirogloves
-    .desc = Covers up those scandalous, bony hands. Appears to be an attempt at making a replica of the captain's gloves.
-
-ent-ClothingHandsGlovesEnviroglovesCaptain = captain's envirogloves
-    .desc = Covers up those scandalous, bony hands in a fancy way.
-
-ent-ClothingHandsGlovesEnviroglovesChiefEngineer = chief engineer's envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesResearchDirector = research director's envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesPurple = purple envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesAdminAssistant = administrative assistant's envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesColorDarkGreen = dark green envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesColorDarkGrey = dark grey envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesGladiator = gladiator envirogloves
-    .desc = Covers up those scandalous boney hands.
-
-ent-ClothingHandsGlovesEnviroglovesReporter = reporter envirogloves
-    .desc = Covers up those scandalous boney hands.
+ent-ClothingHandsGlovesEnviroglovesWhite = белые экоперчатки
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesColor = экоперчатки
+    .desc = Скрывают эти вызывающе костлявые руки.
+    .suffix = Лодаут, Цветные
+ent-ClothingHandsGlovesEnviroglovesDetective = криминалистические экоперчатки
+    .desc = Скрывают эти вызывающе костлявые скандальные руки.
+ent-ClothingHandsGlovesEnviroglovesRoboticist = экоперчатки робототехника
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesJanitor = экоперчатки уборщика
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesCargo = экоперчатки грузчика
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesEngineering = экоперчатки инженера
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesAtmos = экоперчатки атмосферного техника
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesSalvage = экоперчатки утилизатора
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesLeather = экоперчатки ботаника
+    .desc = Эти кожаные перчатки защищают ваши костлявые руки от шипов, колючек и острых предметов.
+ent-ClothingHandsGlovesEnviroglovesPrototype = прототипные экоперчатки
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesClown = экоперчатки клоуна
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesHoP = экоперчатки главы персонала
+    .desc = Скрывают эти вызывающе костлявые руки. Похоже на попытку сделать реплику перчаток капитана.
+ent-ClothingHandsGlovesEnviroglovesCaptain = экоперчатки капитана
+    .desc = Элегантно скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesChiefEngineer = экоперчатки старшего инженера
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesResearchDirector = экоперчатки научного руководителя
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesPurple = фиолетовые экоперчатки
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesAdminAssistant = экоперчатки административного ассистента
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesColorDarkGreen = темно-зеленые экоперчатки
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesColorDarkGrey = темно-серые экоперчатки
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesGladiator = гладиаторские экоперчатки
+    .desc = Скрывают эти вызывающе костлявые руки.
+ent-ClothingHandsGlovesEnviroglovesReporter = экоперчатки репортёра
+    .desc = Скрывают эти вызывающе костлявые руки.

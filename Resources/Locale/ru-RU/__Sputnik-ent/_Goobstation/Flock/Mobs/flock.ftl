@@ -1,8 +1,6 @@
-ent-MobFlockBase = base flock
-    .desc = Is it broccoli? A glass chicken? A peacock? A green roomba? A shiny discobot? A crystal turkey? A bugbird? A radio pigeon??
-
-ent-MobFlockDrone = flockDrone
+ent-MobFlockBase = стая
+    .desc = Это брокколи? Стеклянная курица? Павлин? Зелёный робомо? Блестящий диско-бот? Кристальная индейка? Жук-птица? Радио-голубь??
+ent-MobFlockDrone = стаедрон
     .desc = { ent-MobFlockBase.desc }
-
-ent-MobFlockBit = flockBit
-    .desc = The inferior version of the byte. Thankfully, it does not bite.
+ent-MobFlockBit = стаебит
+    .desc = Ухудшенная версия байта. К счастью, он не кусается.

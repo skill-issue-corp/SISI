@@ -1,14 +1,10 @@
-ent-GrenadeBeanbagShotgun = 40mm beanbag shot
+ent-GrenadeBeanbagShotgun = 40мм резина
     .desc = { ent-BaseGrenade.desc }
-
-ent-GrenadeBirdshot = 40mm birdshot
-    .desc = For hunting alien birds of unusual size.
-
-ent-GrenadeSlug = 40mm slug
-    .desc = For hunting alien game the size of a mountain.
-
-ent-Grenade00Buckshot = 40mm 00-Buckshot
-    .desc = For when you're hunting alien game animals the size of a house.
-
-ent-Grenade0000Buckshot = 40mm 0000-Buckshot
-    .desc = For when you're hunting alien game animals the size of a dropship.
+ent-GrenadeBirdshot = 40мм дробь для птиц
+    .desc = Для охоты на инопланетных птиц необычного размера.
+ent-GrenadeSlug = 40мм картечь
+    .desc = Для охоты на инопланетную дичь размером с гору.
+ent-Grenade00Buckshot = 40мм 00-Дробь
+    .desc = Для охоты на инопланетных животных размером с дом.
+ent-Grenade0000Buckshot = 40мм 0000-Дробь
+    .desc = Для охоты на инопланетных животных размером с десантный корабль.

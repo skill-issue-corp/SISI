@@ -1,2 +1,2 @@
-ent-QuenchingBarrel = quenching barrel
-    .desc = A quenching barrel for cooling down hot metal.
+ent-QuenchingBarrel = закалочная бочка
+    .desc = Закалочная бочка для охлаждения горячего металла.

@@ -1,41 +1,16 @@
-ent-DrinkShotGlass = shot glass
-    .desc = Perfect for slamming down onto the table angrily.
-
-ent-DrinkIceBucket = ice bucket
-    .desc = A special bucket of refreshy ice. Prohibited use for challenge with the same name!
-
-ent-DrinkTeapot = teapot
-    .desc = An elegant teapot. It simply oozes class.
-
-ent-DrinkCanPack = 6pack
-    .desc = { ent-BaseStorageItem.desc }
-
-ent-DrinkShaker = shaker
-    .desc = The trusty mixing buddy of the bartender.
-
-ent-DrinkShakerGold = golden shaker
-    .desc = A gold-plated shaker given as a token of appreciation for years of service. It doesn't make the drinks taste any different.
-
-ent-DrinkJigger = jigger
-    .desc = Like a shaker, but smaller. Used to control the amount of ingredients.
-
-ent-Pitcher = metal pitcher
-    .desc = A stainless steel insulated pitcher. Everyone's best friend in the morning.
-
-ent-DrinkShakeBase = { ent-DrinkBaseMaterialGlass }
+ent-DrinkShaker = шейкер
+    .desc = Верный, смешивающий приятель бармена. Хэй диджей...
+ent-DrinkShotGlass = стопка
+    .desc = Идеально подходит для того, чтобы со злостью ударить ей по столу.
+ent-DrinkJar = банка
+    .desc = Стакан хипстера.
+ent-DrinkJarWhat = банка чего-то
+    .desc = Вы не можете точно сказать, что это такое.
+ent-BartenderMixer = { "" }
     .desc = { "" }
-
-ent-DrinkShakeBlue = blue milkshake
-    .desc = { ent-DrinkShakeBase.desc }
-
-ent-DrinkShakeEmpty = shakeempty
-    .desc = { ent-DrinkShakeBase.desc }
-
-ent-DrinkShakeMeat = meat shake
-    .desc = { ent-DrinkShakeBase.desc }
-
-ent-DrinkShakeRobo = robo shake
-    .desc = { ent-DrinkShakeBase.desc }
-
-ent-DrinkShakeWhite = white shake
-    .desc = { ent-DrinkShakeBase.desc }
+ent-DrinkJigger = джиггер
+    .desc = Как шейкер, только меньше. Используется для регулировки количества ингредиентов.
+ent-DrinkIceBucket = ведёрко для льда
+    .desc = Специальное ведёрко с освежающим льдом. Запрещено использовать для одноимённого челленджа!
+ent-Pitcher = металлический питчер
+    .desc = Изолированный кувшин из нержавеющей стали. Лучший друг каждого человека по утрам.

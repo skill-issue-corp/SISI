@@ -1,5 +1,4 @@
-ent-BulletCoconut = coconut, but like, its a bullet
+ent-BulletCoconut = кокос, но типа как пуля
     .desc = { ent-BaseBullet.desc }
-
-ent-BulletBubble = bubble
+ent-BulletBubble = пузырь
     .desc = { ent-BaseBullet.desc }

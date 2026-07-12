@@ -1,2 +1,2 @@
-ent-FlockTelemarker = strange glowing marker
-    .desc = ...I got nothing.
+ent-FlockTelemarker = странный светящийся маркер
+    .desc = Я не знаю, что это...

@@ -1,47 +1,32 @@
-ent-CookingKnowledge = Cooking
+ent-CookingKnowledge = Кулинария
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-MaterialsKnowledge = Materials
+ent-MaterialsKnowledge = Материалы
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-DoorsKnowledge = Doors
+ent-DoorsKnowledge = Двери
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-AirlocksKnowledge = Airlocks
+ent-AirlocksKnowledge = Шлюзы
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-ToysKnowledge = Toys
+ent-ToysKnowledge = Игрушки
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-BananiumKnowledge = Bananium
+ent-BananiumKnowledge = Бананиум
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-BotsKnowledge = Bots
+ent-BotsKnowledge = Боты
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-FurnitureKnowledge = Furniture
+ent-FurnitureKnowledge = Мебель
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-InfrastructureKnowledge = Infrastructure
+ent-InfrastructureKnowledge = Инфраструктура
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-ElectronicsKnowledge = Electronics
+ent-ElectronicsKnowledge = Электроника
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-WallsKnowledge = Walls
+ent-WallsKnowledge = Стены
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-ScienceKnowledge = Science
+ent-ScienceKnowledge = Наука
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-WindowsKnowledge = Windows
+ent-WindowsKnowledge = Окна
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-SpiderCraftKnowledge = Spider Webs
+ent-SpiderCraftKnowledge = Паутина
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-SmokeablesKnowledge = Smokeables
+ent-SmokeablesKnowledge = Курительные изделия
     .desc = { ent-BaseRecipesKnowledge.desc }
-
-ent-RevolutionaryKnowledge = Revolutionary
+ent-RevolutionaryKnowledge = Революционное дело
     .desc = { ent-BaseRecipesKnowledge.desc }

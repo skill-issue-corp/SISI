@@ -1,3 +1,3 @@
-ent-RandomCloneSpawner = Random Clone
+ent-RandomCloneSpawner = Случайный клон
+    .suffix = Не антаг
     .desc = { "" }
-    .suffix = Non-Antag

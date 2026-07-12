@@ -1,3 +1,3 @@
 ent-ChemistryBottleBananadine = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }
-    .suffix = bananadine
+    .suffix = бананадин

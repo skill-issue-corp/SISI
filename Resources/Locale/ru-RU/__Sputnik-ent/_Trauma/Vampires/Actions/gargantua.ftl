@@ -1,26 +1,18 @@
-ent-ActionVampGargRejuv = Rejuvenate
-    .desc = Removes any and all stuns. Purges 10u of any harmful reagent. Rejuvenates more health the more damage you've taken, to a maximum of 50 health at 100 damage.
-
-ent-ActionBloodSwell = Blood Swell
-    .desc = For 30 seconds, reduces incoming brute by 60%, stamina and burn damage by 50%. Guns are unusable for the duration.
-
-ent-ActionBloodSwellII = Blood Swell II
-    .desc = For 30 seconds, identical resistance buffs to Blood Swell I, user's melee damage is increased by 10. Guns are unusable for the duration.
-
-ent-ActionBloodRush = Blood Rush
-    .desc = For 10 seconds, doubles movement speed. Instantly stands you up, removes any cuffs and clears knockdowns.
-
-ent-ActionGargStomp = Stomp
-    .desc = You stomp the ground, sending out a shockwave that knocks people back.
-
-ent-ActionOverwhelmingForce = Overwhelming Force
-    .desc = When activated, automatically and instantly pry open doors you don't have access to. Also prevents you from being pushed or pulled.
-
-ent-ActionDemonicHand = Demonic Grasp
-    .desc = Send out a Demonic Hand that grabs and pulls/pushes a target depending on your intent. Harm mode pulls, otherwise it pushes.
-
-ent-ActionGargCharge = Charge
-    .desc = Click to charge. Stuns, damages, and knocks back mobs on impact. Completely destroys walls. Also deals 200 damage to mechs and knocks them back.
-
-ent-ActionDesecratedDuel = Desecrated Duel
-    .desc = Click to leap towards a target, and once landing, conjure an arena!
+ent-ActionVampGargRejuv = Омоложение
+    .desc = Снимает все оглушения. Очищает 10 ед. любого вредного реагента. Восстанавливает тем больше здоровья, чем больше урона вы получили, вплоть до 50 очков при 100 полученного урона.
+ent-ActionBloodSwell = Кровяное вздутие
+    .desc = На 30 секунд снижает получаемый урон от ударов на 60%, а урон от выносливости и ожогов — на 50%. Оружие в течение этого времени непригодно к использованию.
+ent-ActionBloodSwellII = Кровяное вздутие II
+    .desc = На 30 секунд даёт то же снижение урона, что и Кровяное вздутие I, а также увеличивает урон в ближнем бою пользователя на 10. Оружие в течение этого времени непригодно к использованию.
+ent-ActionBloodRush = Кровяной рывок
+    .desc = На 10 секунд удваивает скорость передвижения. Мгновенно поднимает вас на ноги, снимает наручники и сбивает эффекты падения.
+ent-ActionGargStomp = Топот
+    .desc = Вы бьёте ногой в землю, посылая ударную волну, отбрасывающую людей назад.
+ent-ActionOverwhelmingForce = Подавляющая сила
+    .desc = При активации автоматически и мгновенно взламывает двери, к которым у вас нет доступа. Также не позволяет толкать или тянуть вас.
+ent-ActionDemonicHand = Демоническая хватка
+    .desc = Выпускает демоническую руку, которая хватает и тянет/толкает цель в зависимости от вашего намерения. Режим вреда притягивает, иначе — отталкивает.
+ent-ActionGargCharge = Рывок
+    .desc = Нажмите для рывка. При столкновении оглушает, наносит урон и отбрасывает существ. Полностью разрушает стены. Также наносит 200 урона мехам и отбрасывает их.
+ent-ActionDesecratedDuel = Осквернённая дуэль
+    .desc = Нажмите, чтобы прыгнуть к цели, и по приземлении создать арену!

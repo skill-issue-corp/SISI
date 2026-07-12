@@ -1,11 +1,8 @@
-ent-ShipMissileASM417 = ASM-417 Mini Missile
+ent-ShipMissileASM417 = мини-ракета ASM-417
     .desc = { ent-BaseBulletTrigger.desc }
-
-ent-ShipMissileASM302 = ASM-302 missile
+ent-ShipMissileASM302 = ракета ASM-302
     .desc = { ent-BaseBulletTrigger.desc }
-
-ent-ShipMissileASM501 = ASM-501 missile
+ent-ShipMissileASM501 = ракета ASM-501
     .desc = { ent-BaseBulletTrigger.desc }
-
-ent-ShipMissileASM557 = ASM-557 Hybrid EMP Missile
+ent-ShipMissileASM557 = ракета ASM-557 гибрид ЭМИ
     .desc = { ent-BaseBulletTrigger.desc }

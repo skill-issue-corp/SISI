@@ -1,2 +1,2 @@
-ent-BarbHandcuffs = barbed wire handcuffs
-    .desc = Used to detain people you intend to kill.
+ent-BarbHandcuffs = наручники из колючей проволоки
+    .desc = Используются для задержания людей, которых вы собираетесь убить.

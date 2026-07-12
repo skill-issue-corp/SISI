@@ -1,2 +1,2 @@
-ent-RatDen = rat den
-    .desc = A pile of garbage vaguely ressembling a nest.
+ent-RatDen = крысиное логово
+    .desc = Куча мусора, смутно напоминающая гнездо.

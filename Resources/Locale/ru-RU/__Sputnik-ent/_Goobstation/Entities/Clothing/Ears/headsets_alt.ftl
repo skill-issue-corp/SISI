@@ -1,27 +1,21 @@
 ent-ClothingHeadsetAltLoudspeaker = { ent-ClothingHeadsetAlt }
     .desc = { ent-ClothingHeadsetAlt.desc }
-
-ent-ClothingHeadsetAltSyndicateCommander = blood-red commander over-ear headset
+ent-ClothingHeadsetAltSyndicateCommander = кроваво-красная полноразмерная гарнитура
     .desc = { ent-ClothingHeadsetAltSyndicate.desc }
-
-ent-ClothingHeadsetChronolegioneer = futuristic over-ear headset
-    .desc = A headset from the future that can pick up most station frequencies.
-
+ent-ClothingHeadsetChronolegioneer = полноразмерная футуристическая гарнитура
+    .desc = Гарнитура из будущего, способная принимать большинство частот станции.
 ent-ClothingHeadsetChronolegioneerUnremoveable = { ent-ClothingHeadsetChronolegioneer }
+    .suffix = Не снимаются
     .desc = { ent-ClothingHeadsetChronolegioneer.desc }
-    .suffix = Unremoveable
-
-ent-ClothingHeadsetAltWarden = warden's over-ear headset
-    .desc = An updated, modular intercom, allowing for rapid communication with command personnel.
-
-ent-ClothingHeadsetDeathsquad = deathsquad over-ear headset
+ent-ClothingHeadsetAltWarden = полноразмерная гарнитура смотрителя
+    .desc = Модифицированный модульный интерком, позволяющий быстро связываться с командным составом.
+ent-ClothingHeadsetDeathsquad = полноразмерная гарнитура Эскадрона Смерти
     .desc = { ent-ClothingHeadsetAlt.desc }
-
-ent-ClothingHeadsetAltSecurityRegular = security over-ear headset
+ent-ClothingHeadsetAltSecurityRegular = полноразмерная гарнитура службы безопасности
     .desc = { ent-ClothingHeadsetAlt.desc }
-
-ent-ClothingHeadsetCommandService = command-service headset
-    .desc = A headset with a command and service channels.
-
-ent-ClothingHeadsetAltRadioHost = radio host's over-ear headset
-    .desc = An over-ear headset with extra foam padding around the ears.
+ent-ClothingHeadsetAltBlueshield = полноразмерная гарнитура офицера "Синий Щит"
+    .desc = { ent-ClothingHeadsetAlt.desc }
+ent-ClothingHeadsetCommandService = полноразмерная гарнитура сервиса
+    .desc = Гарнитура с командный и сервисным каналом.
+ent-ClothingHeadsetAltRadioHost = наушники радиоведущего
+    .desc = Накладные наушники с дополнительной поролоновой подкладкой вокруг ушей.

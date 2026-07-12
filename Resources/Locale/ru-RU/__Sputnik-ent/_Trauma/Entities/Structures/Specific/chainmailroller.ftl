@@ -1,2 +1,2 @@
-ent-ChainmailRoller = chainmail roller
-    .desc = This device automatically rolls wire into chainmail.
+ent-ChainmailRoller = станок для кольчуги
+    .desc = Это устройство автоматически превращает проволоку в кольчугу.

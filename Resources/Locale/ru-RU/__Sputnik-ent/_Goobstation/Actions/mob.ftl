@@ -1,2 +1,2 @@
-ent-ActionMouseCall = Mousecall
-    .desc = Call nearby mice to your location.
+ent-ActionMouseCall = Мышиный зов
+    .desc = Подзывает ближайших мышей к вам.

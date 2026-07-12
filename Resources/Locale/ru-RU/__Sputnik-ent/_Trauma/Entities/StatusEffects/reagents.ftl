@@ -1,38 +1,26 @@
-ent-TriclorSlowdownStatusEffect = triclor slowdown
+ent-TriclorSlowdownStatusEffect = замедление от триклора
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-SarinSlowdownStatusEffect = sarin slowdown
+ent-SarinSlowdownStatusEffect = замедление от зарина
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-MicroplasticsStatusEffect = microplastics buildup
+ent-MicroplasticsStatusEffect = накопление микропластика
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-OleoresinSlowdownStatusEffect = oleoresin slowdown
+ent-OleoresinSlowdownStatusEffect = замедление от олеорезина
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-FentanylSlowdownStatusEffect = fentanyl slowdown
+ent-FentanylSlowdownStatusEffect = замедление от фентанила
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-AmnestizineSlowdownStatusEffect = amnestizine slowdown
+ent-AmnestizineSlowdownStatusEffect = замедление от амнестизина
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-AranespStatusEffect = aranesp speedup
+ent-AranespStatusEffect = ускорение от аранеспа
     .desc = { ent-StatusEffectSpeed.desc }
-
-ent-ProbitalSlowdownStatusEffect = probital slowdown
+ent-ProbitalSlowdownStatusEffect = замедление от пробитала
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-TirimolSlowdownStatusEffect = tirimol slowdown
+ent-TirimolSlowdownStatusEffect = замедление от тиримола
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-AtropineSlowdownStatusEffect = atropine slowdown
+ent-AtropineSlowdownStatusEffect = замедление от атропина
     .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-EpinephrineStatusEffect = epinephrine rush
+ent-EpinephrineStatusEffect = прилив от эпинефрина
     .desc = { ent-StatusEffectSpeed.desc }
-
-ent-CaffeineRushStatusEffect = caffeine rush
+ent-CaffeineRushStatusEffect = кофеиновый прилив
     .desc = { ent-StatusEffectSpeed.desc }
-
-ent-CaffeineSlowdownStatusEffect = caffeine slowdown
+ent-CaffeineSlowdownStatusEffect = замедление от кофеина
     .desc = { ent-StatusEffectSpeed.desc }

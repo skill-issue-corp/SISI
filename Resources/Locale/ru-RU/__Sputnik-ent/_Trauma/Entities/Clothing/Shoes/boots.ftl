@@ -1,5 +1,5 @@
-ent-ClothingShoesBootsRev = workboots
-    .desc = Robust workboots that help with maintaining footing, getting up, and marching on while injured. They can be upgraded with an armor plate.
+ent-ClothingShoesBootsRev = рабочие ботинки
+    .desc = Прочные рабочие ботинки, помогающие держаться на ногах, подниматься и продолжать движение даже при ранении. Могут быть улучшены с помощью бронепластины.
 
-ent-ClothingShoesBootsRevSteel = steel-toed workboots
-    .desc = Workboots that have been modified to safely walk across caltrops.
+ent-ClothingShoesBootsRevSteel = рабочие ботинки со стальным носком
+    .desc = Рабочие ботинки, доработанные для безопасной ходьбы по калтропам.

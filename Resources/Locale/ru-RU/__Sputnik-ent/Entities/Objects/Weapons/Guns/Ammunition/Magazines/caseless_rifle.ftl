@@ -1,8 +1,20 @@
-ent-BaseMagazinePistolCaselessRifle = pistol magazine (9.5mm HP)
+ent-BaseMagazineCaselessRifle = магазин (.25 безгильзовые)
     .desc = { ent-BaseItem.desc }
-
-ent-MagazinePistolCaselessRifle = pistol magazine (9.5mm HP)
-    .desc = 10-round magazine for the Cobra pistol. Intended to hold general-purpose kinetic ammunition.
-
-ent-MagazinePistolCaselessRiflePractice = pistol magazine (9.5mm practice)
-    .desc = 10-round magazine for the Cobra pistol. Intended to hold harmless practice ammunition.
+ent-BaseMagazineCaselessRifleShort = короткий магазин безгильзовой винтовки (.25 безгильзовые)
+    .desc = { ent-BaseMagazineCaselessRifle.desc }
+ent-BaseMagazinePistolCaselessRifle = пистолетный магазин (.25 безгильзовые)
+    .desc = { ent-BaseMagazineCaselessRifle.desc }
+ent-MagazineCaselessRifle10x24 = коробчатый магазин (.25 безгильзовые)
+    .desc = { ent-BaseMagazineCaselessRifle.desc }
+ent-MagazinePistolCaselessRifle = пистолетный магазин (.25 безгильзовые)
+    .desc = { ent-BaseMagazinePistolCaselessRifle.desc }
+ent-MagazinePistolCaselessRiflePractice = пистолетный магазин (.25 безгильзовые учебные)
+    .desc = { ent-BaseMagazinePistolCaselessRifle.desc }
+ent-MagazineCaselessRifle = магазин (.25 безгильзовые)
+    .desc = { ent-BaseMagazineCaselessRifle.desc }
+ent-MagazineCaselessRiflePractice = магазин (.25 безгильзовые учебные)
+    .desc = { ent-BaseMagazineCaselessRifle.desc }
+ent-MagazineCaselessRifleShort = короткий магазин (.25 безгильзовые)
+    .desc = { ent-BaseMagazineCaselessRifleShort.desc }
+ent-MagazineCaselessRifleShortPractice = короткий магазин (.25 безгильзовые учебные)
+    .desc = { ent-BaseMagazineCaselessRifleShort.desc }

@@ -1,29 +1,18 @@
-ent-BoxHandcuff = handcuff box
-    .desc = A box full of handcuffs.
-
-ent-BoxZiptie = ziptie box
-    .desc = A box full of zipties.
-
-ent-BoxFlashbang = flashbang box
-    .desc = WARNING: These devices are extremely dangerous and can cause blindness or deafness in repeated use.
-
-ent-BoxStinger = stinger grenade box
-    .desc = A box full of stinger grenades. Disperse!
-
-ent-BoxTearGas = tear gas grenade box
-    .desc = A box full of tear gas grenades. Hold your breath.
-
-ent-BoxSechud = sechud box
-    .desc = A box of sechuds.
-
-ent-BoxSecglasses = secglasses box
-    .desc = A box of security glasses.
-
-ent-BoxSunglasses = sunglasses box
-    .desc = A box of cool flash-proof sunglasses.
-
-ent-BoxForensicPad = forensic pad box
-    .desc = A box of forensic pads.
-
-ent-BoxDetonator = detonator box
-    .desc = A box of explosive detonators and triggers.
+ent-BoxHandcuff = коробка наручников
+    .desc = Полная коробка наручников.
+ent-BoxZiptie = коробка стяжек
+    .desc = Полная коробка кабельных стяжек.
+ent-BoxFlashbang = коробка светошумовых гранат
+    .desc = ВНИМАНИЕ: Эти устройства крайне опасны и могут вызвать слепоту или глухоту при многократном использовании.
+ent-BoxStinger = коробка травматических гранат
+    .desc = Полная коробка травматических гранат. Разойтись!
+ent-BoxTearGas = коробка слезоточивых гранат
+    .desc = Полная коробка слезоточивых гранат. Задержите дыхание.
+ent-BoxSechud = коробка визоров охраны
+    .desc = Коробка, содержащая визоры охранны.
+ent-BoxSecglasses = коробка очков охраны
+    .desc = Коробка, содержащая очки охраны.
+ent-BoxSunglasses = коробка солнцезащитных очков
+    .desc = Коробка крутых, солнце- и вспышкозащитных очков.
+ent-BoxForensicPad = коробка криминалистических пластинок
+    .desc = Коробка криминалистических пластинок.

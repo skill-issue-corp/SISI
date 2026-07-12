@@ -1,2 +1,4 @@
-ent-FoodMeatSynth = synth meat
-    .desc = Artificially created chunk of... synthetic meat? Can it even be cooked? Better not to eat it.
+ent-ShardCrystalStyptic = осколок живительного кристалла
+    .desc = { ent-ShardCrystalRed.desc }
+ent-FoodMeatSynth = синтетическое мясо
+    .desc = Искусственно созданный кусок... синтетического мяса? Его вообще можно готовить? Лучше не есть.

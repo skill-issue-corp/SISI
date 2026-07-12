@@ -1,2 +1,2 @@
-ent-StatusEffectUnableToShoot = unable to shoot
+ent-StatusEffectUnableToShoot = неспособность стрелять
     .desc = { ent-MobStatusEffectDebuff.desc }

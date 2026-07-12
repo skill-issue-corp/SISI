@@ -1,27 +1,25 @@
-ent-ClothingHeadHelmetHardsuitChronolegioneer = futuristic helmet
-    .desc = The helmet of the fighters of the future, designed for special timeflow operations.
-
-ent-ClothingHeadHelmetHardsuitCybersunStealth = cybersun stealth hardsuit helmet
-    .desc = A helmet with photo-reactive plating for stealth operations.
-    .suffix = stealth
-
-ent-ClothingHeadHelmetHardsuitDreadnought = Cybersun Dreadnought suit helmet
-    .desc = A helmet, looking at this you wonder if there anyone alive.
-
-ent-ClothingHeadHelmetVoidsuitSecurity = security hardsuit helmet
-    .desc = A well-built faceplate attached to the security hardsuit.
-
-ent-ClothingHeadHelmetHardsuitHeadOfSecurityExperimental = head of security's advanced hardsuit helmet
-    .desc = Security hardsuit helmet with the latest top secret NT-HUD software. This one seems more durable than stand issue helmets.
-
-ent-ClothingHeadHelmetHardsuitExperimentalNanorep = NTX5-Mirrorduss helmet
-    .desc = A dark green helmet with glowing cyan nodes, a mirrored visor, and a mounted side light.
-
-ent-ClothingHeadSinguloth = singuloth knight's helm
-    .desc = An adamantium helmet from the chapter of the Singuloth Knights. It shines with a holy aura
-
-ent-ClothingHeadHelmetHardsuitVoxRaiderStealth = vox raider stealth helmet
-    .desc = A smoothly contoured, matte-black alien helmet.
-
-ent-ClothingHeadHelmetHardsuitDetective = detective hardsuit helmet
-    .desc = A helmet with a built-in fedora for the detective's hardsuit.
+ent-ClothingHeadHelmetHardsuitChronolegioneer = футуристический шлем
+    .desc = Шлем бойцов будущего, предназначенный для операций со временем.
+ent-ClothingHeadHelmetHardsuitBlueshield = шлем боевого костюма Синий Щит
+    .desc = Шлем телохранителя капитана в боевом костюме.
+ent-ClothingHeadHelmetHardsuitCybersunStealth = шлем пустотного костюма Cybersun
+    .desc = Шлем с фотоактивным покрытием для скрытных операций.
+    .suffix = Скрытный
+ent-ClothingHeadHelmetHardsuitDreadnought = шлем боевого костюма Дредноут от Cybersun
+    .desc = Посмотришь на этот шлем — и задаёшься вопросом, жив ли кто-то вообще.
+ent-ClothingHeadHelmetVoidsuitSecurity = шлем боевого костюма охраны
+    .desc = Крепкая лицевая панель, прикреплённая к боевому костюму охраны.
+ent-ClothingHeadHelmetHardsuitHeadOfSecurityExperimental = усовершенствованный шлем боевого костюма главы охраны
+    .desc = Шлем боевого костюма охраны с новейшим топ-секретным NT-HUD софтом. Кажется, этот шлем прочнее стандартных.
+ent-ClothingHeadHelmetHardsuitExperimentalNanorep = шлем NTX5-Mirrorduss
+    .desc = Тёмно-зелёный шлем со светящимися бирюзовыми элементами, зеркальным визором и установленным сбоку фонариком.
+ent-ClothingHeadSinguloth = шлем рыцаря Сингулота
+    .desc = Адамантиевый шлем ордена Рыцарей Сингулота. Заставь своих врагов извиниться.
+ent-ClothingHeadHelmetHardsuitVoxRaiderStealth = пустотный шлем вокс налётчика
+    .desc = Матово-чёрный инопланетный шлем с плавными контурами.
+ent-ClothingHeadHelmetHardsuitDetective = шлем скафандра детектива
+    .desc = Шлем со встроенной федорой для скафандра детектива.
+ent-ClothingHeadHelmetHardsuitContractor = шлем скафандра Наёмника
+    .desc = Прочное забрало, прикреплённое к скафандру Наёмника.
+ent-ClothingHeadHelmetHardsuitNanorep = шлем скафандра ПNT
+    .desc = { ent-ClothingHeadHardsuitWithLightBase.desc }

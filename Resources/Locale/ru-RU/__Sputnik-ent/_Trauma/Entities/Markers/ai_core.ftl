@@ -1,2 +1,2 @@
-ent-SpawnPointExtraAiCore = extra AI core spawnpoint
-    .desc = Needed by the Triple AI station trait
+ent-SpawnPointExtraAiCore = точка спавна дополнительного ядра ИИ
+    .desc = Требуется для особенности станции «Тройной ИИ»

@@ -1,5 +1,4 @@
-ent-ClothingHeadEnvirohelmBase = base envirosuit helmet
+ent-ClothingHeadEnvirohelmBase = экошлем базовые
     .desc = { ent-ClothingHeadBase.desc }
-
-ent-ClothingHeadEnvirohelmCustomBase = base custom envirosuit helmet
+ent-ClothingHeadEnvirohelmCustomBase = экошлем кастомный
     .desc = { ent-ClothingHeadEnvirohelmBase.desc }

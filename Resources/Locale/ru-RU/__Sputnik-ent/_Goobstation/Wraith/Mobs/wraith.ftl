@@ -1,11 +1,8 @@
-ent-MobWraith = Wraith
-    .desc = A VERY spooky ghostie.
-
-ent-MobWraithPlague = Plaguebringer
+ent-MobWraith = Фантом
+    .desc = ОЧЕНЬ страшный призрак.
+ent-MobWraithPlague = Чумная крыса
     .desc = { ent-MobWraith.desc }
-
-ent-MobWraithHarbinger = Harbinger of the Void
+ent-MobWraithHarbinger = Глашатай Пустоты
     .desc = { ent-MobWraith.desc }
-
-ent-MobWraithTrickster = Trickster
+ent-MobWraithTrickster = Обманщик
     .desc = { ent-MobWraith.desc }

@@ -1,29 +1,13 @@
-ent-XenobioVolatileOrgan = volatile organ
-    .desc = A pulsating mass of slime, it seems to react to nearby devices.
-    .suffix = Full
-
-ent-XenobioGoopBall = goop ball
-    .desc = Not as goopy as it looks. Proven to capture fires on the same level as the holofan. Screaming included!
-
-ent-FloorTileItemBluespace = fitted bluespace carpet square
+ent-XenobioVolatileOrgan = нестабильный орган
+    .desc = Пульсирующая масса слизи, кажется, реагирует на близлежащие устройства.
+    .suffix = Заполненный
+ent-XenobioGoopBall = шар слизи
+    .desc = Не такой липкий, как выглядит. Доказано, что может сдерживать огонь на том же уровне, что и голопроектор. Крики адской агонии в комплекте!
+ent-FloorTileItemBluespace = плитка блюспейс пола
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemBluespace30 = { ent-FloorTileItemBluespace }
-    .desc = { ent-FloorTileItemBluespace.desc }
-    .suffix = 30
-
-ent-FloorTileItemSepia = fitted sepia carpet square
+ent-FloorTileItemSepia = плитка сепия пола
     .desc = { ent-FloorTileItemBase.desc }
-
-ent-FloorTileItemSepia30 = { ent-FloorTileItemSepia }
-    .desc = { ent-FloorTileItemSepia.desc }
-    .suffix = 30
-
-ent-XenobioVolatileRedExtractJelly = volatile red slime jelly
-    .desc = Using this on a piece of clothing seems to remove any potential slowdowns. Hovewer, subjects wearing such clothing were burnt to a crisp after a scientist lit his cigarette.
-
-ent-XenobioAdamantineBar = adamantine bar
-    .desc = Theoretically, if you sold a couple of these, you wouldn't need to work on the station any more. It must have it's use, since it costs a fortune to get one of these. But where?
-
-ent-SolutionFoodSlime = { ent-Solution }
-    .desc = { ent-Solution.desc }
+ent-XenobioVolatileRedExtractJelly = нестабильное красное слаймовое желе
+    .desc = При применение на одежде, похоже, устраняет эффекты любых замедлений. Однако субъекты в такой одежде превратились в пепел, когда учёный зажёг сигарету.
+ent-XenobioAdamantineBar = адамантиевый слиток
+    .desc = Теоретически, если продать пару таких слитков, вам больше не придётся работать. Должно быть, у него есть применение, раз он стоит целое состояние. Но в чём?

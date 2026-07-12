@@ -1,21 +1,13 @@
-ent-ClothingModsuitApocryphal = Apocryphal modsuit control unit
-    .desc = The main controller for a Apocryphal modsuit.
-
-ent-BaseModsuitPieceDeathsquad = { "" }
-    .desc = { "" }
-
-ent-ClothingModsuitGauntletsApocryphal = Apocryphal modsuit gauntlets
-    .desc = A pair of gauntlets made for the Apocryphal modsuit.
-
-ent-ClothingModsuitHelmetApocryphal = Apocryphal modsuit helmet
-    .desc = A state-of-the-art helmet designed by NanoTrasen for the Apocryphal modsuit. It includes a built-in HUD.
-
-ent-ClothingModsuitChestplateApocryphal = Apocryphal modsuit chestplate
-    .desc = A state of the art chestplate designed by NanoTrasen for the Apocryphal Modsuit. It incorporates powered servos to reduce the equipment load.
-
-ent-ClothingModsuitBootsApocryphal = Apocryphal modsuit boots
-    .desc = A state-of-the-art pair of magboots for the Apocryphal modsuit. So long as the suit is powered, these will not slow the wearer down.
-
+ent-ClothingModsuitApocryphal = контроллер апокрифического скафандра MOD
+    .desc = Основной контроллер апокрифического модсьюта.
+ent-ClothingModsuitGauntletsApocryphal = перчатки апокрифического скафандра
+    .desc = Пара перчаток, изготовленных для апокрифического скафандра.
+ent-ClothingModsuitHelmetApocryphal = шлем апокрифического скафандра
+    .desc = Передовой шлем, разработанный NanoTrasen для апокрифического скафандра. Имеет встроенный ИЛС.
+ent-ClothingModsuitChestplateApocryphal = нагрудная пластина апокрифического скафандра
+    .desc = Передовой нагрудник, разработанный NanoTrasen для апокрифического скафандра. Оснащён сервоприводами для снижения нагрузки.
+ent-ClothingModsuitBootsApocryphal = ботинки апокрифического скафандра
+    .desc = Передовая пара магнитных ботинок для апокрифического скафандра. Пока костюм питается энергией, эти ботинки не замедляют владельца.
 ent-SuitStorageApocryphal = { ent-SuitStorageBase }
+    .suffix = модульный апокрифический скафандр
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Apocryphal Modsuit

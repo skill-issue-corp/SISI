@@ -1,31 +1,26 @@
-ent-ClothingOuterHardsuitChronolegioneer = futuristic hardsuit
-    .desc = A hardsuit covered in an unknown material that protects against most material and temporal damage.
-
+ent-ClothingOuterHardsuitChronolegioneer = футуристический пустотный костюм
+    .desc = Пустотный костюм, покрытый неизвестным материалом, защищающий от большинства материальных и временных повреждений.
 ent-ClothingOuterHardsuitChronolegioneerUnremoveable = { ent-ClothingOuterHardsuitChronolegioneer }
+    .suffix = Неснимаемый
     .desc = { ent-ClothingOuterHardsuitChronolegioneer.desc }
-    .suffix = Unremoveable
-
-ent-ClothingOuterHardsuitCybersunStealth = cybersun stealth hardsuit
-    .desc = A hardsuit with photo-reactive plating for sneaky operations, the shielding doesn't work while you're moving though! Needs the helmet on to finish the stealth field.
-    .suffix = stealth
-
-ent-ClothingOuterHardsuitCybersunDreadnought = Cybersun dreadnought suit
-    .desc = The Syndicate places its glory on your shoulders, do not disappoint.
-
-ent-ClothingOuterVoidsuitSecurity = security hardsuit
-    .desc = A light hardsuit with an in-built plate carrier to provide moderate protection while remaining mobile.
-
-ent-ClothingOuterHardsuitHeadOfSecurityExperimental = FI-52 "Honor Guard" parade hardsuit
-    .desc = A special hardsuit that protects against hazardous, low pressure environments. Has an experimental inbuilt stimulant autoinjector system.
-
+ent-ClothingOuterHardsuitBlueshieldLight = пустотный костюм эскорта "преторианец"
+    .desc = Пустотный костюм, предназначенный для элитного телохранителя. Этот костюм изготовлен из более лёгкого металла, обеспечивая большую манёвренность.
+ent-ClothingOuterHardsuitCybersunStealth = пустотный костюм Cybersun
+    .desc = Пустотный костюм с фотоактивной бронёй для скрытных операций. Поле не работает во время движения! Для активации поля невидимости необходим шлем.
+    .suffix = Невидимость
+ent-ClothingOuterHardsuitCybersunDreadnought = костюм Cybersun Дредноут
+    .desc = Синдикат возлагает свою славу на твои плечи, не разочаруй их.
+ent-ClothingOuterVoidsuitSecurity = пустотный скафандр службы безопасности
+    .desc = Лёгкий пустотный костюм со встроенным нагрудным полем, обеспечивающий умеренную защиту при сохранении мобильности.
+ent-ClothingOuterHardsuitHeadOfSecurityExperimental = парадный пустотный костюм FI-52 "Почётный караул"
+    .desc = Особый пустотный костюм, защищающий от опасных условий низкого давления. Имеет экспериментальную встроенную систему автоматического введения стимулятора.
 ent-ClothingOuterHardsuitExperimentalNanorep = NTX5-Mirrorduss
-    .desc = A crude dark exosuit of reinforced plating, etched with faintly glowing Bluespace circuits. You can tell someone attempted to scratch out part of the text — Prototype No. 2
-
-ent-ClothingSingulothArmor = singuloth knight's armor
-    .desc = A ceremonial armor from the chapter of the Singuloth Knights, It's made of pure forged adamantium.
-
-ent-ClothingOuterHardsuitVoxRaiderStealth = vox raider stealth suit
-    .desc = A sleek black suit. It seems to have a tail, and is very heavy.
-
-ent-ClothingOuterHardsuitDetective = detective hardsuit
-    .desc = A hardsuit custom-made for the Detective. It has a strong smell of alcohol and cigarettes.
+    .desc = Грубый тёмный пустотный костюм с усиленными пластинами, украшенный слабо светящимися блюспейс полосками. Видно, что кто-то пытался выцарапать "Прототип №2".
+ent-ClothingSingulothArmor = доспехи рыцаря Сингулота
+    .desc = Церемониальные доспехи ордена рыцарей Сингулота, Сделаны из чистого, кованого адамантиума.
+ent-ClothingOuterHardsuitVoxRaiderStealth = пустотный скафандр вокса налётчика
+    .desc = Гладкий, чёрный костюм. Кажется, он очень тяжёлый, и у него есть хвост.
+ent-ClothingOuterHardsuitDetective = скафандр детектива
+    .desc = Скафандр, изготовленный на заказ для Детектива. Смердит алкоголем и сигаретами.
+ent-ClothingOuterHardsuitContractor = скафандр Наёмника
+    .desc = Лёгкий скафандр со встроенными бронепластинами, обеспечивающий достойную защиту при сохранении мобильности.

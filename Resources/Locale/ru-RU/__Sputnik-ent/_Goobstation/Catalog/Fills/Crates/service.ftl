@@ -1,14 +1,14 @@
-ent-CrateFishingGoodies = fishing goodies crate
-    .desc = A couple of fishing rods, a bear, and a hat. Everything you need to catch all fish on the station!
-
-ent-CrateHolySupplies = holy supplies crate
-    .desc = Contains a Bible and 2 Jugs of holy water for religious needs
-
-ent-CrateCargoForklift = Forklift crate
-    .desc = A perfect utility vehicle for cargo.
-
-ent-CrateRadioStationAds = ads crate
-    .desc = A whole crate which sole purpose is to store 6 exclusive ads, aint capitalism great?
-
-ent-CrateRadioStationVinyls = vinyls crate
-    .desc = A crate with 12 vinyls so you'll NEVER play the same song twice, they come in sleeves!
+ent-CrateFishingGoodies = ящик с рыболовными принадлежностями
+    .desc = Пара удочек, медведь и шляпа. Всё, что нужно, чтобы поймать всех рыб на станции!
+ent-CrateSlotMachine = ящик со слот-машиной
+    .desc = Ящик, содержащий упакованную слот-машину. Всё, что вам нужно для получения лудомании!
+ent-CrateCoinFlipper = ящик с флип-машиной
+    .desc = Ящик, содержащий упакованную флип-машину. Шансы 50/50 — это неплохо!
+ent-CrateClawMachine = ящик с кран-машиной
+    .desc = Ящик, содержащий упакованную кран-машину. Плюшевые игрушки прилагаются к каждой покупке!
+ent-CrateCargoForklift = ящик с погрузчиком
+    .desc = Великолепный транспорт для отдела снабжения.
+ent-CrateRadioStationAds = ящик с рекламой
+    .desc = Ящик, содержащий 6 эксклюзивных рекламных объявлений. Разве капитализм не прекрасен?
+ent-CrateRadioStationVinyls = ящик с виниловыми пластинками
+    .desc = Ящик, содержащий 12 виниловых пластинок, чтобы вы НИКОГДА не проигрывали одну и ту же музыку дважды. Поставляются в пакетиках!

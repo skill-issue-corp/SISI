@@ -1,5 +1,4 @@
-ent-SpawnMobSecuritron = securitron spawner
+ent-SpawnMobSecuritron = спавнер секьюритрона
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobBeepsky = beepsky spawner
+ent-SpawnMobBeepsky = спавнер бипски
     .desc = { ent-MarkerBase.desc }

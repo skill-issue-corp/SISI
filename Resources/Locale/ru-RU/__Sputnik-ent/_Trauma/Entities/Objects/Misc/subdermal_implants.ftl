@@ -1,2 +1,2 @@
-ent-HellRipImplant = hell ripte implant
-    .desc = This implant allows the user to perform various Hell Rip moves.
+ent-HellRipImplant = имплант адского рипа
+    .desc = Этот имплант позволяет пользователю выполнять различные приёмы адского рипа.

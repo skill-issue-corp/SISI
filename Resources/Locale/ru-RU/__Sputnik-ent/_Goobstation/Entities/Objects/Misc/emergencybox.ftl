@@ -1,90 +1,68 @@
-ent-BoxSurvivalSlots = survival box
-    .desc = It's a box with basic internals inside.
-    .suffix = Standard
-
+ent-BoxSurvivalSlots = набор выживания
+    .desc = Это коробка с основными предметами внутри.
+    .suffix = Обычный
 ent-BoxSurvivalSlotsNitrogen = { ent-BoxSurvivalSlots }
+    .suffix = Обычный, N2
     .desc = { ent-BoxSurvivalSlots.desc }
-    .suffix = Standard N2
-
-ent-BoxSurvivalSlotsEngineering = extended-capacity survival box
-    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.
-    .suffix = Extended
-
+ent-BoxSurvivalSlotsEngineering = расширенный набор выживания
+    .desc = Это коробка с основными предметами внутри. На этикетке указано, что в ней находится резервуар повышенной емкости.
+    .suffix = Расширенный
 ent-BoxSurvivalSlotsEngineeringNitrogen = { ent-BoxSurvivalSlotsEngineering }
+    .suffix = Расширенный, N2
     .desc = { ent-BoxSurvivalSlotsEngineering.desc }
-    .suffix = Extended N2
-
-ent-BoxSurvivalSlotsSecurity = survival box
-    .desc = It's a box with basic internals inside.
-    .suffix = Security
-
+ent-BoxSurvivalSlotsSecurity = набор выживания
+    .desc = Это коробка с основными предметами внутри.
+    .suffix = СБ
 ent-BoxSurvivalSlotsSecurityNitrogen = { ent-BoxSurvivalSlotsSecurity }
+    .suffix = СБ, N2
     .desc = { ent-BoxSurvivalSlotsSecurity.desc }
-    .suffix = Security N2
-
-ent-BoxSurvivalSlotsMedical = survival box
-    .desc = It's a box with basic internals inside.
-    .suffix = Medical
-
+ent-BoxSurvivalSlotsMedical = набор выживания
+    .desc = Это коробка с основными предметами внутри.
+    .suffix = Медицинский
 ent-BoxSurvivalSlotsMedicalNitrogen = { ent-BoxSurvivalSlotsMedical }
+    .suffix = Медицинский, N2
     .desc = { ent-BoxSurvivalSlotsMedical.desc }
-    .suffix = Medical N2
-
-ent-BoxHugSlots = box of hugs
-    .desc = A special box for sensitive people.
-    .suffix = Emergency
-
+ent-BoxHugSlots = коробка обнимашек
+    .desc = Специальная коробка для чувствительных людей.
+    .suffix = Аварийная
 ent-BoxHugSlotsNitrogen = { ent-BoxHugSlots }
+    .suffix = Аварийная, N2
     .desc = { ent-BoxHugSlots.desc }
-    .suffix = Emergency N2
-
-ent-BoxSurvivalSlotsSyndicate = extended-capacity survival box
-    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.
-    .suffix = Syndicate
-
+ent-BoxSurvivalSlotsSyndicate = расширенный набор выживания
+    .desc = Это коробка с основными внутренностями внутри. На этикетке указано, что в ней находится резервуар повышенной емкости.
+    .suffix = Синдикат
 ent-BoxSurvivalSlotsSyndicateNitrogen = { ent-BoxSurvivalSlotsSyndicate }
+    .suffix = Синдикат, N2
     .desc = { ent-BoxSurvivalSlotsSyndicate.desc }
-    .suffix = Syndicate N2
-
 ent-BoxMimeSlots = { ent-BoxSurvivalSlots }
+    .suffix = Мим, Аварийная
     .desc = { ent-BoxSurvivalSlots.desc }
-    .suffix = Mime, Emergency
-
 ent-BoxMimeMothSlots = { ent-BoxSurvivalSlots }
+    .suffix = Мим, Аварийный ниан
     .desc = { ent-BoxSurvivalSlots.desc }
-    .suffix = Mime, Emergency Moth
-
 ent-BoxMimeSlotsNitrogen = { ent-BoxSurvivalSlots }
+    .suffix = Мим, Аварийная, N2
     .desc = { ent-BoxSurvivalSlots.desc }
-    .suffix = Mime, Emergency N2
-
 ent-BoxSurvivalSlotsPlasma = { ent-BoxSurvivalSlots }
+    .suffix = Плазма
     .desc = { ent-BoxSurvivalSlots.desc }
-    .suffix = Standard Plasma
-
 ent-BoxSurvivalSlotsEngineeringPlasma = { ent-BoxSurvivalSlotsEngineering }
+    .suffix = Плазма
     .desc = { ent-BoxSurvivalSlotsEngineering.desc }
-    .suffix = Extended Plasma
-
 ent-BoxSurvivalSlotsSecurityPlasma = { ent-BoxSurvivalSlotsSecurity }
+    .suffix = СБ, Плазма
     .desc = { ent-BoxSurvivalSlotsSecurity.desc }
-    .suffix = Security Plasma
-
 ent-BoxSurvivalSlotsMedicalPlasma = { ent-BoxSurvivalSlotsMedical }
+    .suffix = Медицинский, Плазма
     .desc = { ent-BoxSurvivalSlotsMedical.desc }
-    .suffix = Medical Plasma
-
 ent-BoxHugSlotsPlasma = { ent-BoxHugSlots }
+    .suffix = Аварийный, Плазма
     .desc = { ent-BoxHugSlots.desc }
-    .suffix = Emergency Plasma
-
 ent-BoxSurvivalSlotsSyndicatePlasma = { ent-BoxSurvivalSlotsSyndicate }
+    .suffix = Синдикат, Плазма
     .desc = { ent-BoxSurvivalSlotsSyndicate.desc }
-    .suffix = Syndicate Plasma
-
 ent-BoxMimeSlotsPlasma = { ent-BoxSurvivalSlots }
+    .suffix = Мим, Плазма
     .desc = { ent-BoxSurvivalSlots.desc }
-    .suffix = Mime, Emergency Plasma
-
-ent-BoxSurvivalSlotsSilicon = silicon survival box
-    .desc = It's a box with basic tools for self-repair inside.
+ent-BoxSurvivalSlotsSilicon = набор выживания ИИ
+    .desc = Это коробка с базовыми инструментами для починки.

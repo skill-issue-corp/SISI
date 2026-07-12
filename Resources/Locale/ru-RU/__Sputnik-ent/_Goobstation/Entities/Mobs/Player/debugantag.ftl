@@ -1,31 +1,24 @@
-ent-MobHumanWizardDebug = Wizard
-    .desc = { ent-MobHuman.desc }
+ent-MobHumanWizardDebug = маг
     .suffix = DEBUG
-
-ent-MobHumanWizardDebugSuit = Wizard Suit
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanWizardDebugSuit = маг (костюм)
+    .suffix = DEBUG
     .desc = { ent-MobHumanWizardDebug.desc }
+ent-MobHumanChangelingArmor = Урист МакГеножор
     .suffix = DEBUG
-
-ent-MobHumanChangelingArmor = Urist McChangeling
     .desc = { ent-MobHuman.desc }
+ent-MobHumanNinjaArmor = Урист МакТрахер
     .suffix = DEBUG
-
-ent-MobHumanNinjaArmor = Urist Ninja
     .desc = { ent-MobHuman.desc }
+ent-MobHumanHereticArmor = Урист МакБес
     .suffix = DEBUG
-
-ent-MobHumanHereticArmor = Urist Heretic
     .desc = { ent-MobHuman.desc }
+ent-MobHumanCaptainHardsuit = Урист МакЮденич (скафандр)
     .suffix = DEBUG
-
-ent-MobHumanCaptainHardsuit = Urist McCaptain
     .desc = { ent-MobHuman.desc }
+ent-MobHumanCaptainModsuit = Урист МакЮденич (MOD)
     .suffix = DEBUG
-
-ent-MobHumanCaptainModsuit = Urist McCaptain Mogsuit
     .desc = { ent-MobHuman.desc }
+ent-MobHumanCaptainDebug = Урист МакЮденич
     .suffix = DEBUG
-
-ent-MobHumanCaptainDebug = Urist McCaptain
     .desc = { ent-MobHuman.desc }
-    .suffix = DEBUG

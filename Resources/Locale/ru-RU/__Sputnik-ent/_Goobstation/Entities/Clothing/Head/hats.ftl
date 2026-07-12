@@ -1,45 +1,42 @@
-ent-ClothingHeadHatBeretEliteNavyOfficer = elite navy officer's beret
-    .desc = A navy blue beret with the silver shield of the Nanotrasen security forces.
-
-ent-ClothingHeadHatBeretNavyOfficer = navy officer's beret
-    .desc = A black beret with the silver shield of the Nanotrasen security forces.
-
-ent-ClothingHeadHatBeretNavyCaptain = navy captain's beret
-    .desc = A starch white beret.
-
-ent-ClothingHeadMailCarrier = mail carrier's hat
-    .desc = Smells like a good pension.
-
-ent-ClothingHeadHatPropeller = propeller hat
-    .desc = Aw gee willickers!
-
-ent-ClothingHeadHatPropellerFlipped = { ent-ClothingHeadHatPropeller }
+ent-ClothingHeadHatBeretEliteNavyOfficer = элитный берет офицера ЦК
+    .desc = Тёмно-синий берет с серебряным щитом сил безопасности NanoTrasen.
+ent-ClothingHeadHatBeretNavyOfficer = берет офицера ЦК
+    .desc = Чёрный берет с серебряным щитом сил безопасности NanoTrasen.
+ent-ClothingHeadHatBeretNavyCaptain = берет капитана военно-космического флота
+    .desc = Белый как крахмальная рубашка.
+ent-ClothingHeadHatBeretBlueshield = берет офицера "Синий Щит"
+    .desc = Прочный берет из дюратекста. Обеспечивает защиту.
+ent-ClothingHeadMailCarrier = шапка почтальона
+    .desc = Пахнет хорошей пенсией.
+ent-ClothingHeadHatUshankaBlueshield = бронеушанка офицера "Синий Щит"
+    .desc = Идеальна для защиты головы в Сибири, дa?
+ent-ClothingHeadHatCowboyBlueshield = ковбойская шляпа офицера "Синий Щит"
+    .desc = Шериф снова в городе, детки.
+ent-ClothingHeadHatPropeller = шапка с пропеллером
+    .desc = Ох, ну надо же!
+ent-ClothingHeadHatPropellerFlipped = шапка с пропеллером
     .desc = { ent-ClothingHeadHatPropeller.desc }
-
-ent-ClothingHeadHatImam = imam head wrap
-    .desc = Praise Allah.
-
-ent-ClothingHeadHatBeretHeadOfSecurityAdvanced = head of security's parade beret
-    .desc = A particularly gilded beret, designed for the Head of Security.
-
-ent-ClothingHeadHatBeretSeniorBotanist = botanical beret
-    .desc = A green beret featuring a small blue flower given to experienced botanists.
-
-ent-ClothingHeadSanabi = brigadier general hat
-    .desc = Smells like steel.
-
-ent-ClothingHeadLehmin = top CMO headgear
-    .desc = Chemistry. Adminning. Something else.
-    .suffix = ADMIN
-
-ent-ClothingHeadHatJanitorCap = janitorial cap
-    .desc = An extravagant purple cap for only the BEST of janitorial workers.
-
-ent-ClothingHeadHatTinfoilHat = tinfoil hat
-    .desc = A high tech helmet crafted from aluminum foil.
-
-ent-ClothingHeadHatGoldCentcom = golden Centcom cap
-    .desc = A gold-and-white gilded cap worn by the highest-ranking members of Central Command.
-
-ent-ClothingHeadHatCowboyCentcom = centcom cowboy hat
-    .desc = A black and green cowboy hat with a gold band, worn by 'southerner' Central Command officers.
+ent-ClothingHeadHatImam = головной убор имама
+    .desc = Хвала Аллаху.
+ent-ClothingHeadHatTrainer = шапка наставника
+    .desc = Шапка, выданная карьерным тренерам NanoTrasen. Делает вас стильным.
+ent-ClothingHeadBeretTrainer = берет наставника
+    .desc = Берет, выданный карьерным тренерам NanoTrasen. Делает вас стильным.
+ent-ClothingHeadHatBeretHeadOfSecurityAdvanced = парадный берет главы службы безопасности
+    .desc = Особенно украшенный берет, предназначенный для начальника службы безопасности.
+ent-ClothingHeadHatBeretSeniorBotanist = ботанический берет
+    .desc = Зелёный берет с маленьким синим цветком для опытных ботаников.
+ent-ClothingHeadSanabi = фуражка генерала бригадира
+    .desc = Пахнет сталью.
+ent-ClothingHeadLehmin = топовый головной убор ГВ
+    .desc = Химия. Администрирование. Что-то ещё.
+    .suffix = Адмем
+ent-ClothingHeadHatJanitorCap = кепка уборщика
+    .desc = Вычурная фиолетовая кепка только для ЛУЧШИХ уборщиков.
+ent-ClothingHeadHatCapcapSenior = фуражка старшего капитана
+    .desc = Величественная и стильная фуражка, которую носят старшие капитаны. Сразу показывает станции, кто здесь главный!
+    .suffix = НЕ МАППИТЬ
+ent-ClothingHeadHatTinfoilHat = шапочка из фольги
+    .desc = Высокотехнологичный шлем, состоящий из алюминиевой фольги.
+ent-ClothingHeadHatOuterCommandcap = фуражка офицера ТСФ
+    .desc = Пурпурная позолоченная фуражка с эмблемой ТСФ.

@@ -1,45 +1,31 @@
-ent-AppearanceGingerbread = gingerbread appearance
+ent-AppearanceGingerbread = внешний вид пряничного человечка
     .desc = { ent-BaseSpeciesAppearance.desc }
-
-ent-MobGingerbread = Urist McCookie
+ent-MobGingerbread = Урист МакКуки
     .desc = { ent-AppearanceGingerbread.desc }
-
 ent-OrganGingerbread = { ent-OrganBaseSugary }
     .desc = { ent-OrganBaseSugary.desc }
-    .suffix = gingerbread
-
+    .suffix = Пряничный человечек
 ent-OrganGingerbreadExternal = { ent-OrganGingerbread }
     .desc = { ent-OrganGingerbread.desc }
-
 ent-OrganGingerbreadTorso = { ent-OrganBaseTorso }
     .desc = { ent-OrganBaseTorso.desc }
-
 ent-OrganGingerbreadHead = { ent-OrganBaseHead }
     .desc = { ent-OrganBaseHead.desc }
-
 ent-OrganGingerbreadArmLeft = { ent-OrganBaseArmLeft }
     .desc = { ent-OrganBaseArmLeft.desc }
-
 ent-OrganGingerbreadArmRight = { ent-OrganBaseArmRight }
     .desc = { ent-OrganBaseArmRight.desc }
-
 ent-OrganGingerbreadHandLeft = { ent-OrganBaseHandLeft }
     .desc = { ent-OrganBaseHandLeft.desc }
-
 ent-OrganGingerbreadHandRight = { ent-OrganBaseHandRight }
     .desc = { ent-OrganBaseHandRight.desc }
-
 ent-OrganGingerbreadLegLeft = { ent-OrganBaseLegLeft }
     .desc = { ent-OrganBaseLegLeft.desc }
-
 ent-OrganGingerbreadLegRight = { ent-OrganBaseLegRight }
     .desc = { ent-OrganBaseLegRight.desc }
-
 ent-OrganGingerbreadFootLeft = { ent-OrganBaseFootLeft }
     .desc = { ent-OrganBaseFootLeft.desc }
-
 ent-OrganGingerbreadFootRight = { ent-OrganBaseFootRight }
     .desc = { ent-OrganBaseFootRight.desc }
-
-ent-MobGingerbreadAI = gingerbread man
+ent-MobGingerbreadAI = пряничный человечек
     .desc = { ent-MobGingerbread.desc }

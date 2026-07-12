@@ -1,59 +1,42 @@
-ent-PosterLegitGoobWorkHard = Work Hard
-    .desc = If you work hard enough, YOU could earn your very own Nanotrasen Plunger Plus! Just be sure to survive long enough to redeem it!..
-
-ent-PosterLegitGoobMakeshift = Makeshift Clown Poster
-    .desc = A makeshift poster consisting of a crayon drawing upon a paper stuck to the wall with some horrible mix of glue and banana paste. Upon it is inscribed: 'Clowne was herE !!'.
-
-ent-PosterLegitGoobCan = Fallen Can
-    .desc = A poster reminding you to clean up after yourself, nobody likes littering! Or, that's probably what it means. It's been here for so long, the original meaning may have faded…
-
-ent-PosterLegitGoobFaded = Faded Poster
-    .desc = Was it wanted poster? A human bounty? It's not very clear. You can tell, however, that whoever the target was probably isn't loose anymore...
-
-ent-PosterLegitGoobCandle = Magic Candle
-    .desc = The fire within you burns bright. Maintain it and thrive. Neglect it and wither.
-
-ent-PosterLegitGoobSuperMatter = Super-Matter
-    .desc = Nanotrasen's really getting creative with these motivational posters. Using the cause of death of thousands of people as a source of motivation? Brilliant. Now, if only it were actually effective...
-
-ent-PosterLegitGoobWatching = Always Watching
-    .desc = A good reminder that the Station AI is keeping everyone safe by eliminating all semblance of privacy! Aren't you glad it's probably staring at you right now?
-
-ent-PosterLegitGoobSpaceAsshole = Space Asshole
-    .desc = A poster advertising the historical drama film about what is referred to these days as 'The Incident of 2125'. The poster's name reminds you of something.
-
-ent-PosterLegitGoobSmokeBreak = Smoke Break
-    .desc = A poster reminding you of the 'optimal' time for Nanotrasen-approved smoke breaks. They considered it long enough due to a security officer that alledgedly consumed about 500 cigarettes in 5 minutes. It has been shoddily edited to account for its recent increase by 10 minutes, as requested near-unanimously by the Station Captains who were polled. The color of the background is mildly irritating, but you're not too sure why.
-
-ent-PosterLegitGoobWallMeat = Wall Meat
-    .desc = The objectively best way to store food is to hide it in the walls where nobody can ever find it! So convenient! So useful! So discrete! So cool! Agreed-upon by vampires everywhere.
-
-ent-PosterLegitGoobCoolS = Cool S
-    .desc = It seems some crewmember cut out part of a graffiti'd maintenance closet and stuck it onto this wall. And who can blame them? This thing is siiiick.
-
-ent-PosterLegitGoobBigBrotherAI = AI Sees All
-    .desc = A poster that reminds you that your secrets are not hidden from your Station AI
-
-ent-PosterLegitGoobDurkPlush = Durk Plushie Advertisement
-    .desc = A poster depicting some sort of plush character being delivered soon to a station near you
-
-ent-PosterLegitGoobWelderBomb = Dangers of Fuel Tanks
-    .desc = A poster depicting a leaking fuel tank... something inside you wonders what would happen if you put a welding torch near it
-
-ent-PosterLegitGoobLokoAdvertisement = 14 Loko Advertisement
-    .desc = A poster advertising a 14 Loko beverage... you feel suddenly thirsty looking at it
-
-ent-PosterLegitGoobLouieVote = Political Advertisement
-    .desc = A poster for a political advertisement to promote a rat called Louie's campaign... You feel like you should vote for him
-
-ent-PosterLegitGoobSlowDownClown = Slow Down, Clown!
-    .desc = A poster telling you to slown down around Clowns
-
-ent-PosterLegitGoobNTRAdvert = NTRep Recruitment
-    .desc = A poster advertising for open Nanotrasen Representative positions, maybe you should apply
-
-ent-PosterContrabandGoobChuckler = The Chuckler
-    .desc = A poster depicting a clearly suffering clown. You can feel the sadness and anger behind the facade of a smile
-
-ent-PosterContrabandGoobYakub = Yakub Poster
-    .desc = Your yakubian powers of tricknology imbued into you by Yakub strengthen as you stare into the poster
+ent-PosterLegitGoobWorkHard = Работай усердно
+    .desc = Если будешь работать достаточно усердно, ТЫ сможешь получить собственный Nanotrasen Plunger Plus! Только выживи достаточно долго, чтобы забрать его!..
+ent-PosterLegitGoobMakeshift = Самодельный постер клоуна
+    .desc = Самодельный постер — рисунок восковым мелком на бумаге, приклеенной к стене какой-то ужасной смесью клея и банановой пасты. На нем написано: «Clowne was herE !!».
+ent-PosterLegitGoobCan = Падающая банка
+    .desc = Постер, напоминающий убрать за собой, мусорить никому не нравится! Или, по крайней мере, так, наверное, написано. Он здесь так давно, что изначальный смысл мог потеряться...
+ent-PosterLegitGoobFaded = Выцветший постер
+    .desc = Это был розыскной плакат? Человеческая награда? Точно не ясно. Но можно понять, что тот, кого искали, вероятно, больше не на свободе...
+ent-PosterLegitGoobCandle = Волшебная свеча
+    .desc = Огонь внутри тебя горит ярко. Поддерживай его и процветай. Запусти — и засохнешь.
+ent-PosterLegitGoobSuperMatter = Супер-материя
+    .desc = Nanotrasen становится всё креативнее с мотивационными плакатами. Использовать причину смерти тысяч людей как источник мотивации? Гениально. Вот бы это ещё работало...
+ent-PosterLegitGoobWatching = Всегда наблюдает
+    .desc = Хорошее напоминание, что ИИ станции следит за безопасностью, уничтожая всякую личную жизнь! Разве тебе не приятно, что он, скорее всего, сейчас смотрит прямо на тебя?
+ent-PosterLegitGoobSpaceAsshole = Космический засранец
+    .desc = Постер к исторической драме про так называемое «Событие 2125 года». Название постера кажется тебе знакомым.
+ent-PosterLegitGoobSmokeBreak = Перерыв на курение
+    .desc = Постер, напоминающий о «оптимальном» времени для курительных перерывов, одобренных Nanotrasen. Время считалось по офицеру безопасности, который якобы выкуривал около 500 сигарет за 5 минут. Недавно время увеличили на 10 минут по просьбе капитанов станции. Цвет фона слегка раздражает, но ты точно не знаешь почему.
+ent-PosterLegitGoobWallMeat = Мясо в стене
+    .desc = Лучший способ хранить еду — прятать её в стенах, где её никто не найдёт! Так удобно! Так полезно! Так незаметно! Так круто! Согласовано всеми вампирами.
+ent-PosterLegitGoobCoolS = Крутая S
+    .desc = Похоже, кто-то вырезал часть граффити из технического шкафа и приклеил сюда. И кто его винит? Эта штука — просто огонь.
+ent-PosterLegitGoobBigBrotherAI = ИИ видит всё
+    .desc = Постер напоминает, что твои секреты не скрыты от ИИ станции.
+ent-PosterLegitGoobDurkPlush = Реклама плюшевого Дурка
+    .desc = Постер с изображением плюшевого персонажа, который скоро появится на станции рядом с тобой.
+ent-PosterLegitGoobWelderBomb = Опасность топливных баков
+    .desc = Постер с изображением протекающего топливного бака... тебе интересно, что будет, если поднести к нему сварочную горелку.
+ent-PosterLegitGoobLokoAdvertisement = Реклама 14 Локо
+    .desc = Реклама напитка 14 Локо... Ты внезапно почувствовал жажду, глядя на неё.
+ent-PosterLegitGoobLouieVote = Политическая реклама
+    .desc = Постер политической кампании крысы по имени Луи... Кажется, тебе стоит за него проголосовать.
+ent-PosterLegitGoobSlowDownClown = Помедленнее, клоун!
+    .desc = Постер, который советует тебе не торопиться рядом с клоунами.
+ent-PosterLegitGoobNTRAdvert = Рекрутинг представителей NT
+    .desc = Постер с объявлением о вакансиях представителей Nanotrasen, может, стоит подать заявку.
+ent-PosterContrabandGoobChuckler = Усмешка
+    .desc = Постер с изображением явно страдающего клоуна. Ты чувствуешь грусть и злость за улыбкой.
+ent-PosterContrabandGoobYakub = Постер Якуба
+    .desc = Твои якубийские силы трюкачества, дарованные Якубом, усиливаются, когда ты смотришь на этот постер.
+ent-PosterContrabandGoobRedFOSS = Красный смокинг
+    .desc = Плакат, называющий открытое программное обеспечение коммунистическим. Вы не совсем уверены, "за" автор этого плаката или "против".

@@ -1,56 +1,42 @@
 ent-BaseArmAugment = { ent-BaseAugment }
     .desc = { ent-BaseAugment.desc }
-
-ent-ActionAugmentOpenToolsPanel = Open tools panel
-    .desc = Access the tools implanted within you
-
+ent-ActionAugmentOpenToolsPanel = Открыть панель инструментов
+    .desc = Получите доступ к инструментам, встроенным в вас.
 ent-BaseAugmentToolPanel = { ent-BaseArmAugment }
     .desc = { ent-BaseArmAugment.desc }
-
 ent-BaseAugmentElectronics = { ent-BaseElectronics }
     .desc = { ent-BaseElectronics.desc }
-
-ent-AugmentUtilityPanelElectronics = utility tools panel electronics
-    .desc = An electronics board that programs a tool panel to hold a specific type of item. This one holds utility tools.
-
-ent-AugmentBotanyPanelElectronics = botany tools panel electronics
-    .desc = An electronics board that programs a tool panel to hold a specific type of item. This one holds botanical tools.
-
-ent-AugmentSurgeryPanelElectronics = surgery tools panel electronics
-    .desc = An electronics board that programs a tool panel to hold a specific type of item. This one holds surgical tools.
-
-ent-AugmentStrengthElectronics = strength augment electronics
-    .desc = An electronics board that controls a strength augment.
-
+ent-AugmentUtilityPanelElectronics = микросхема импланта панели инструментов
+    .desc = Микросхема, которая программирует панель инструментов для хранения определённого типа предметов. Содержит инструменты электрика.
+ent-AugmentBotanyPanelElectronics = микросхема импланта панели ботанических инструментов
+    .desc = Микросхема, которая программирует панель инструментов для хранения определённого типа предметов. Содержит ботанические инструменты.
+ent-AugmentSurgeryPanelElectronics = микросхема импланта панели хирургических инструментов
+    .desc = Микросхема, которая программирует панель инструментов для хранения определённого типа предметов. Содержит хирургические инструменты.
+ent-AugmentPaperworkPanelElectronics = микросхема импланта панели канцелярских принадлежностей
+    .desc = Микросхема, которая программирует панель инструментов для хранения определённого типа предметов. Содержит канцелярские инструменты.
+ent-AugmentStrengthElectronics = микросхема импланта силы
+    .desc = Микросхема, контролирующая имплант силы.
 ent-BaseIncompleteAugmentToolPanel = { ent-BaseItem }
-    .desc = Can be implanted into a body to provide access to specific tools. This one is incomplete.
-
-ent-AugmentToolPanelCasing = tools panel augment casing
+    .desc = Может быть встроена в тело для доступа к определённым инструментам. Незавершённая.
+ent-AugmentToolPanelCasing = каркас импланта панели инструментов
     .desc = { ent-BaseIncompleteAugmentToolPanel.desc }
-
-ent-AugmentToolPanelCables = tools panel augment casing with cables
+ent-AugmentToolPanelCables = каркас импланта панели инструментов (с проводами)
     .desc = { ent-BaseIncompleteAugmentToolPanel.desc }
-
-ent-AugmentToolsPanel = utility tools panel augment
-    .desc = A panel that can be augmented into a patient's arm to provide them access to its contents. This one can hold basic tools.
-
-ent-AugmentBotanyPanel = botanical tools panel augment
-    .desc = A panel that can be augmented into a patient's arm to provide them access to its contents. This one can hold botanical tools.
-
-ent-AugmentSurgicalPanel = surgical tools panel augment
-    .desc = A panel that can be augmented into a patient's arm to provide them access to its contents. This one can hold surgical tools.
-
+ent-AugmentToolsPanel = имплант панели инструментов
+    .desc = Панель, которую можно встроить в руку пациента, чтобы предоставить доступ к её содержимому. Содержит базовые инструменты.
+ent-AugmentBotanyPanel = имплант панели ботанических инструментов
+    .desc = Панель, которую можно встроить в руку пациента, чтобы предоставить доступ к её содержимому. Содержит ботанические инструменты.
+ent-AugmentPaperworkPanel = имплант панели канцелярских принадлежностей
+    .desc = Панель, которую можно встроить в руку пациента, чтобы предоставить доступ к её содержимому. Содержит канцелярские инструменты.
+ent-AugmentSurgicalPanel = имплант панели хирургических инструментов
+    .desc = Панель, которую можно встроить в руку пациента, чтобы предоставить доступ к её содержимому. Содержит хирургические инструменты.
 ent-BaseIncompleteAugmentStrength = { ent-BaseItem }
-    .desc = Can be implanted into a body to increase physical strength. This one is incomplete.
-
-ent-AugmentStrengthCasing = strength augment casing
+    .desc = Может быть встроена в тело для увеличения физической силы. Незавершённая.
+ent-AugmentStrengthCasing = каркас импланта силы
     .desc = { ent-BaseIncompleteAugmentStrength.desc }
-
-ent-AugmentStrengthCables = strength augment casing with cables
+ent-AugmentStrengthCables = каркас импланта силы (с проводами)
     .desc = { ent-BaseIncompleteAugmentStrength.desc }
-
-ent-ActionAugmentToggleStrength = Toggle strength augment
-    .desc = Increases your melee damage by 25%, consumes 30W while active.
-
-ent-AugmentStrength = strength augment
-    .desc = Can be implanted into a body to increase physical strength.
+ent-ActionAugmentToggleStrength = Переключить имплант силы
+    .desc = Увеличивает ваш физический урон на 25%, требует 30W пока активна.
+ent-AugmentStrength = имплант силы
+    .desc = Может быть встроена в тело для увеличения физической силы.

@@ -1,2 +1,2 @@
-ent-BlueprintExplosivePayload = explosive payload blueprint
-    .desc = A blueprint with schematics for numerous explosive components.
+ent-BlueprintExplosivePayload = чертёж взрывного заряда
+    .desc = Чертёж со схемами для многочисленных взрывных компонентов.

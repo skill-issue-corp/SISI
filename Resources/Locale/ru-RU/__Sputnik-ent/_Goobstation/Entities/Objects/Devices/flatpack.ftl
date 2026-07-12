@@ -1,53 +1,46 @@
-ent-TimelineDisruptorFlatpack = timeline disruptor flatpack
-    .desc = A flatpack used for constructing a solar assembly.
-
-ent-ContrabandDetectorFlatpack = contraband detector flatpack
-    .desc = A flatpack used for constructing a contraband detector.
-
-ent-MedicalScannerFlatpack = Medical Scanner Flatpack
-    .desc = A flatpack used for constructing a Medical Scanner
-
-ent-CloningpodFlatpack = Cloning pod Flatpack
-    .desc = A flatpack used for constructing a Cloning pod
-
-ent-ComputerCloningConsoleFlatpack = Computer Cloning Console Flatpack
-    .desc = A flatpack used for constructing a Computer Cloning Console
-
-ent-BiomassReclaimerFlatpack = Biomass Reclaimer Flatpack
-    .desc = A flatpack used for constructing a Biomass Reclaimer
-
-ent-ComputerNTRTasksFlatpack = ntr task computer flatpack
-    .desc = A flatpack used for constructing a NTR task computer.
-
-ent-MachinePowerTransmissionLaserFlatpack = power transmision laser flatpack
-    .desc = A flatpack used for constructing a power transmission laser
-
-ent-ComputerFundingAllocationFlatpack = funding allocation computer flatpack
-    .desc = A flatpack used for constructing a funding allocation computer
-
-ent-ComputerCargoRequestServiceFlatpack = service request computer flatpack
-    .desc = A flatpack used for constructing a service request computer
-
-ent-ComputerCargoRequestMedicalFlatpack = medical request computer flatpack
-    .desc = A flatpack used for constructing a medical request computer
-
-ent-ComputerCargoRequestScienceFlatpack = science request computer flatpack
-    .desc = A flatpack used for constructing a science request computer
-
-ent-ComputerCargoRequestSecurityFlatpack = security request computer flatpack
-    .desc = A flatpack used for constructing a security request computer
-
-ent-TegCirculatorFlatpack = circulator flatpack
-    .desc = A flatpack used for constructing a circulator for thermo-electric generator.
-
-ent-TegMiddleFlatpack = thermo-electric generator flatpack
-    .desc = A flatpack used for constructing a thermo-electric generator.
-
-ent-ChemistryHotplateFlatPack = hotplate flat pack
-    .desc = A flatpack used for constructing a hotplate.
-
-ent-DiseaseDiagnoserFlatPack = disease diagnoser flat pack
-    .desc = A flatpack used for constructing a disease diagnoser.
-
-ent-VaccinatorFlatPack = vaccinator machine flat pack
-    .desc = A flatpack used for constructing a vaccinator.
+ent-TimelineDisruptorFlatpack = упакованный разрушитель реальности
+    .desc = Упаковка, при помощи которой можно создать разрушитель реальности.
+ent-ContrabandDetectorFlatpack = упакованный сканер контрабанды
+    .desc = Упаковка, при помощи которой можно создать сканер контрабанды.
+ent-MedicalScannerFlatpack = упакованный медицинский сканер
+    .desc = Упаковка, при помощи которой можно создать медицинский сканер.
+ent-CloningpodFlatpack = упакованная капсула клонирования
+    .desc = Упаковка, при помощи которой можно создать капсулу клонирования.
+ent-ComputerCloningConsoleFlatpack = упакованная консоль клонирования
+    .desc = Упаковка, при помощи которой можно создать консоль клонирования.
+ent-BiomassReclaimerFlatpack = упакованный переработчик биомассы
+    .desc = Упаковка, при помощи которой можно создать переработчик биомассы.
+ent-MedicalBiofabricatorFlatpack = упакованный медицинский биофабрикатор
+    .desc = Упаковка, при помощи которой можно создать медицинский биофабрикатор.
+ent-ComputerNTRTasksFlatpack = упакованная консоль заданий ПNT
+    .desc = Упаковка, при помощи которой можно создать консоль заданий ПNT.
+ent-MachinePowerTransmissionLaserFlatpack = упакованный лазер передачи энергии
+    .desc = Упаковка, при помощи которой можно создать лазер передачи энергии.
+ent-ComputerFundingAllocationFlatpack = упакованная консоль распределения средств
+    .desc = Упаковка, при помощи которой можно создать консоль распределения средств.
+ent-ComputerCargoRequestServiceFlatpack = упакованная сервисная консоль заказа грузов
+    .desc = Упаковка, при помощи которой можно создать сервисную консоль заказа грузов.
+ent-ComputerCargoRequestMedicalFlatpack = упакованная медицинская консоль заказа грузов
+    .desc = Упаковка, при помощи которой можно создать медицинскую консоль заказа грузов.
+ent-ComputerCargoRequestScienceFlatpack = упакованная научная консоль заказа грузов
+    .desc = Упаковка, при помощи которой можно создать научную консоль заказа грузов.
+ent-ComputerCargoRequestSecurityFlatpack = упакованная охранная консоль заказа грузов
+    .desc = Упаковка, при помощи которой можно создать охранную консоль заказа грузов.
+ent-TegCirculatorFlatpack = упакованный циркуляционный насос
+    .desc = Упаковка, при помощи которой можно создать циркуляционный насос.
+ent-TegMiddleFlatpack = упакованный термоэлектрический генератор
+    .desc = Упаковка, при помощи которой можно создать термоэлектрический генератор.
+ent-SlotMachineFlatpack = упакованная слот-машина
+    .desc = Упаковка, при помощи которой можно создать слот-машину.
+ent-SlotMachineHighRollerFlatPack = упакованная слот-машина квартирмейстера
+    .desc = Упаковка, при помощи которой можно создать слот-машину квартирмейстера.
+ent-CoinFlipperFlatPack = упакованная флип-машина
+    .desc = Упаковка, при помощи которой можно создать флип-машину.
+ent-ClawMachineFlatPack = упакованная кран-машина
+    .desc = Упаковка, при помощи которой можно создать кран-машину.
+ent-ChemistryHotplateFlatPack = упакованная электроплитка
+    .desc = Упаковка, при помощи которой можно создать электроплитку.
+ent-DiseaseDiagnoserFlatPack = упакованный диагностировщик заболеваний
+    .desc = Упаковка, при помощи которой можно создать диагностировщик заболеваний.
+ent-VaccinatorFlatPack = упакованный вакцинатор
+    .desc = Упаковка, при помощи которой можно создать вакцинатор.

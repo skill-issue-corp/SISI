@@ -1,2 +1,2 @@
-ent-ClothingUniformJumpsuitRoman = roman armor
-    .desc = An ancient Roman armor. Made of metallic strips and leather straps.
+ent-ClothingUniformJumpsuitRoman = римские доспехи
+    .desc = Древние римские доспехи. Изготовлены из металлических полос и кожаных ремней.

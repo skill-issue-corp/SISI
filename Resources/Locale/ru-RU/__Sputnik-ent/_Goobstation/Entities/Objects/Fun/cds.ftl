@@ -1,74 +1,62 @@
-ent-BaseCdDisk = cd disk
-    .desc = A cd disk, usually contains ads.
-
-ent-CdDiskDanitosBurritos = cd disk (Danitos Burritos)
+ent-BaseCdDisk = CD
+    .desc = CD, обычно использующийся для прокрутки рекламы.
+ent-CdDiskDanitosBurritos = CD "Данитос Буритос"
     .desc = { ent-BaseCdDisk.desc }
-
-ent-CdDiskBillMovie = cd disk (bill movie)
+ent-CdDiskBillMovie = CD "Фильм Билла"
     .desc = { ent-BaseCdDisk.desc }
-
-ent-CdDiskCapTraining = cd disk (captain training PSA)
+ent-CdDiskCapTraining = CD "СРП Капитана"
     .desc = { ent-BaseCdDisk.desc }
-
-ent-CdDiskCargonia = cd disk (Cargonia)
+ent-CdDiskCargonia = CD "Каргония"
     .desc = { ent-BaseCdDisk.desc }
-
-ent-CdDiskChemistry = cd disk (Chemistry)
+ent-CdDiskChemistry = CD "Химия"
     .desc = { ent-BaseCdDisk.desc }
-
-ent-CdDiskCloningPsa = cd disk (cloning PSA)
+ent-CdDiskCloningPsa = CD "СРП клонирования"
     .desc = { ent-BaseCdDisk.desc }
-
-ent-CdDiskDansTickets = cd disk (Dans Tickets)
+ent-CdDiskDansTickets = CD "Билеты Дэна"
     .desc = { ent-BaseCdDisk.desc }
-
-ent-CdDiskGrones = cd disk (grones)
+ent-CdDiskGrones = CD "Гроунс"
     .desc = { ent-BaseCdDisk.desc }
-
-ent-CdDiskPopeCrunchCereal = cd disk (Pope Crunch Cereal)
+ent-CdDiskPopeCrunchCereal = CD "Хлопья Pope Crunch"
     .desc = { ent-BaseCdDisk.desc }
-
-ent-CdDiskQuikNoodles = cd disk (Quik Noodles)
+ent-CdDiskQuikNoodles = CD "Бич-пакет"
     .desc = { ent-BaseCdDisk.desc }
-
-ent-CdDiskRobotics = cd disk (robotics)
+ent-CdDiskRobotics = CD "Робототехника"
     .desc = { ent-BaseCdDisk.desc }
-
-ent-CdDiskSecurityPsa = cd disk (security psa)
+ent-CdDiskSecurityPsa = CD "СРП СБ"
     .desc = { ent-BaseCdDisk.desc }
-
-ent-CdDiskWeird = weird cd disk
-    .desc = A weird cd disk, something tells you that this one doesn't contain ads.
-
-ent-CdDiskCommanderAnnouncement = cd disk (commander announcement)
+ent-CdDiskWeird = странный CD
+    .desc = Странно выглядящий CD. Что-то вам подсказывает, что на нём записана не реклама.
+ent-CdDiskCommanderAnnouncement = CD "Объявление командира"
     .desc = { ent-CdDiskWeird.desc }
-
-ent-CdDiskCommanderFigurines = cd disk (commander figurines)
+ent-CdDiskCommanderFigurines = CD "Фигурки командира"
     .desc = { ent-CdDiskWeird.desc }
-
-ent-CdDiskCommanderResignation = cd disk (commander resignation)
+ent-CdDiskCommanderResignation = CD "Отставка командира"
     .desc = { ent-CdDiskWeird.desc }
-
-ent-CdDiskCommanderSupport = cd disk (commander support)
+ent-CdDiskCommanderSupport = CD "Поддержка командира"
     .desc = { ent-CdDiskWeird.desc }
-
-ent-CdDiskHeisenbeeTrial = cd disk (trial of Heisenbee)
+ent-CdDiskHeisenbeeTrial = CD "Судебный процесс Хэйзенби"
     .desc = { ent-CdDiskWeird.desc }
-
-ent-CdDiskXgOnboarding1 = cd disk (xg onboarding 1)
+ent-CdDiskXgOnboarding1 = CD "XG онбординг 1"
     .desc = { ent-CdDiskWeird.desc }
-
-ent-CdDiskXgOnboarding2 = cd disk (xg onboarding 2)
+ent-CdDiskXgOnboarding2 = CD "XG онбординг 2"
     .desc = { ent-CdDiskWeird.desc }
-
-ent-CdDiskXgOnboarding3 = cd disk (xg onboarding 3)
+ent-CdDiskXgOnboarding3 = CD "XG онбординг 3"
     .desc = { ent-CdDiskWeird.desc }
-
-ent-CdDiskXgOnboarding4 = cd disk (xg onboarding 4)
+ent-CdDiskXgOnboarding4 = CD "XG онбординг 4"
     .desc = { ent-CdDiskWeird.desc }
-
+ent-JVNECdDisk = { ent-BaseCdDisk }
+    .desc = Шоу Джуна и Ула!
+ent-JVNECdDiskCapstien = CD "Капстин"
+    .desc = { ent-JVNECdDisk.desc }
+ent-JVNECdDiskNinja = CD "НИНДЗЯ!!!"
+    .desc = { ent-JVNECdDisk.desc }
+ent-JVNECdDiskNextUp = CD "Следующее"
+    .desc = { ent-JVNECdDisk.desc }
+ent-JVNECdDiskJNE = CD "Шоу Джуна и Ула"
+    .desc = { ent-JVNECdDisk.desc }
 ent-SyndiCdDisk = { ent-BaseSyndicateContraband }
-    .desc = Get da disk!
-
-ent-CdDiskNumber = cd disk (Numbers)
-    .desc = Contact the nearest syndicate listening post for reinforcements!
+    .desc = Берите диск!
+ent-JVNECdDiskNumber = CD "Числа"
+    .desc = Вокруг тутового куста обезьяна гонялась за лаской...
+ent-JVNECdDiskSyndicate = CD "Синдикат"
+    .desc = 102.9 Синдикат радио

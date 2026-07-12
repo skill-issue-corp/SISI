@@ -1,5 +1,4 @@
-ent-ClothingRevolutionaryIFF = Revolutionary IFF Card
-    .desc = Shows constructed turrets that you are a friend.
-
-ent-ClothingNeckBombCollarBroken = disabled bomb collar
-    .desc = A disabled bomb collar, it will no longer explode, but it will give away your criminal history.
+ent-ClothingRevolutionaryIFF = карта свой-чужой революционера
+    .desc = Показывает построенным турелям, что вы союзник.
+ent-ClothingNeckBombCollarBroken = отключённый ошейник-бомба
+    .desc = Отключённый ошейник-бомба — больше не взорвётся, но выдаст ваше криминальное прошлое.

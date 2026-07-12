@@ -1,2 +1,2 @@
-ent-ActionSelfExtinguish = Self-Extinguish
-    .desc = Extinguishes you if you are on fire and insulated against self-ignition.
+ent-ActionSelfExtinguish = Само-тушение
+    .desc = Тушит вас, если вы горите, и защищает от самовозгорания.

@@ -1,2 +1,2 @@
-ent-VehicleKeySkeletonMotorcycle = skeleton motorcycle keys
-    .desc = A beautiful set of keys adorned with a skull.
+ent-VehicleKeySkeletonMotorcycle = ключи от мотоцикла
+    .desc = Красивая связка ключей, украшенная черепом.

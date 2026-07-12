@@ -1,57 +1,41 @@
-ent-BaseMagazinePistol = pistol magazine (.35 auto)
+ent-BaseMagazinePistol = пистолетный магазин (.35 авто)
     .desc = { ent-BaseItem.desc }
-
-ent-BaseMagazinePistolHighCapacity = machine pistol magazine (.35 auto)
+ent-BaseMagazinePistolHighCapacity = автопистолетный магазин (.35 авто)
     .desc = { ent-BaseItem.desc }
-
-ent-BaseMagazinePistolSubMachineGun = SMG magazine (.35 auto)
+ent-BaseMagazinePistolSubMachineGun = магазин ПП (.35 авто)
     .desc = { ent-BaseItem.desc }
-
-ent-MagazinePistolSubMachineGunTopMounted = WT550 magazine (.35 auto top-mounted)
-    .desc = Unconventional 30-round top feeding magazine for the WT550 SMG. Intended to hold general-purpose kinetic ammunition.
-
-ent-MagazinePistolSubMachineGunTopMountedEmpty = WT550 magazine (.35 auto top-mounted any)
-    .desc = Unconventional 30-round top feeding magazine for the WT550 SMG.
-    .suffix = empty
-
-ent-MagazinePistol = pistol magazine (.35 auto)
-    .desc = 12-round single-stack magazine for pistols. Intended to hold general-purpose kinetic ammunition.
-
-ent-MagazinePistolEmpty = pistol magazine (.35 auto any)
-    .desc = 12-round single-stack magazine for pistols.
-    .suffix = empty
-
-ent-MagazinePistolIncendiary = pistol magazine (.35 auto incendiary)
-    .desc = 12-round single-stack magazine for pistols. Intended to hold self-igniting incendiary ammunition.
-
-ent-MagazinePistolPractice = pistol magazine (.35 auto practice)
-    .desc = 12-round single-stack magazine for pistols. Intended to hold non-harmful chalk ammunition.
-
-ent-MagazinePistolUranium = pistol magazine (.35 auto uranium)
-    .desc = 12-round single-stack magazine for pistols. Intended to hold exotic uranium-core ammunition.
-
-ent-MagazinePistolSubMachineGun = SMG magazine (.35 auto)
-    .desc = 30-round double-stack magazine for submachine guns. Intended to hold general-purpose kinetic ammunition.
-
-ent-MagazinePistolSubMachineGunEmpty = SMG magazine (.35 auto any)
-    .desc = 30-round double-stack magazine for submachine guns.
-    .suffix = empty
-
-ent-MagazinePistolSubMachineGunPractice = SMG magazine (.35 auto practice)
-    .desc = 30-round double-stack magazine for submachine guns. Intended to hold harmless practice ammunition.
-
-ent-MagazinePistolSubMachineGunUranium = SMG magazine (.35 auto uranium)
-    .desc = 30-round double-stack magazine for submachine guns. Intended to hold exotic uranium-core ammunition.
-
-ent-MagazinePistolSubMachineGunIncendiary = SMG magazine (.35 auto incendiary)
-    .desc = 30-round double-stack magazine for submachine guns. Intended to hold self-igniting incendiary ammunition.
-
-ent-MagazinePistolHighCapacityEmpty = machine pistol magazine (.35 auto any)
-    .desc = Custom 15-round double-stack magazine for the Viper pistol.
-    .suffix = empty
-
-ent-MagazinePistolHighCapacity = machine pistol magazine (.35 auto)
-    .desc = Custom 15-round double-stack magazine for the Viper pistol. Intended to hold general-purpose kinetic ammunition.
-
-ent-MagazinePistolHighCapacityPractice = machine pistol magazine (.35 auto practice)
-    .desc = Custom 15-round double-stack magazine for the Viper pistol. Intended to hold harmless practice ammunition.
+ent-MagazinePistolSubMachineGunTopMounted = магазин WT550 (.35 авто, надствольный)
+    .desc = { ent-BaseItem.desc }
+ent-MagazinePistolSubMachineGunTopMountedEmpty = магазин WT550 (.35 авто, любые, надствольный)
+    .desc = { ent-MagazinePistolSubMachineGunTopMounted.desc }
+ent-MagazinePistol = пистолетный магазин (.35 авто)
+    .desc = { ent-BaseMagazinePistol.desc }
+ent-MagazinePistolEmpty = пистолетный магазин (.35 авто любые)
+    .suffix = Пустой
+    .desc = { ent-MagazinePistol.desc }
+ent-MagazinePistolIncendiary = пистолетный магазин (.35 авто зажигательные)
+    .desc = { ent-MagazinePistol.desc }
+ent-MagazinePistolPractice = пистолетный магазин (.35 авто учебные)
+    .desc = { ent-BaseMagazinePistol.desc }
+ent-MagazinePistolUranium = пистолетный магазин (.35 авто урановые)
+    .desc = { ent-BaseMagazinePistol.desc }
+ent-MagazinePistolHighCapacityEmpty = автопистолетный магазин (.35 авто любые)
+    .suffix = Пустой
+    .desc = { ent-BaseMagazinePistolHighCapacity.desc }
+ent-MagazinePistolHighCapacity = автопистолетный магазин (.35 авто)
+    .desc = { ent-BaseMagazinePistolHighCapacity.desc }
+ent-MagazinePistolHighCapacityPractice = автопистолетный магазин (.35 авто учебные)
+    .desc = { ent-BaseMagazinePistolHighCapacity.desc }
+ent-MagazinePistolHighCapacityRubber = автопистолетный магазин (.35 авто резиновые)
+    .desc = { ent-BaseMagazinePistolHighCapacity.desc }
+ent-MagazinePistolSubMachineGun = магазин ПП (.35 авто)
+    .desc = { ent-BaseMagazinePistolSubMachineGun.desc }
+ent-MagazinePistolSubMachineGunEmpty = магазин ПП (.35 авто любые)
+    .suffix = Пустой
+    .desc = { ent-BaseMagazinePistolSubMachineGun.desc }
+ent-MagazinePistolSubMachineGunPractice = магазин ПП (.35 авто учебные)
+    .desc = { ent-BaseMagazinePistolSubMachineGun.desc }
+ent-MagazinePistolSubMachineGunUranium = магазин ПП (.35 авто урановые)
+    .desc = { ent-BaseMagazinePistolSubMachineGun.desc }
+ent-MagazinePistolSubMachineGunIncendiary = магазин ПП (.35 авто зажигательные)
+    .desc = { ent-BaseMagazinePistolSubMachineGun.desc }

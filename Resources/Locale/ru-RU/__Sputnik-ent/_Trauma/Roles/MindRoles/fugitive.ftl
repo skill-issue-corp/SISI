@@ -1,5 +1,4 @@
-ent-MindRoleGhostRoleHunter = Fugitive Hunter Role
+ent-MindRoleGhostRoleHunter = Роль охотника за беглецом
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleGhostRoleFugitive = Fugitive Role
+ent-MindRoleGhostRoleFugitive = Роль беглеца
     .desc = { ent-BaseMindRoleAntag.desc }

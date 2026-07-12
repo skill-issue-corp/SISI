@@ -1,2 +1,2 @@
-ent-VirologyServer = virology server
-    .desc = Stores the data of scanned diseases.
+ent-VirologyServer = сервер вирусологии
+    .desc = Хранит данные о просканированных болезнях.

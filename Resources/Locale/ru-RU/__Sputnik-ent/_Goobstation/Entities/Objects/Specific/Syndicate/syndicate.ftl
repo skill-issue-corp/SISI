@@ -1,3 +1,3 @@
-ent-LoneOpsUplink225TC = { ent-BaseUplinkRadio }
+ent-LoneOpsUplink350TC = { ent-BaseUplinkRadio }
+    .suffix = 350 ТК, Одинокий оперативник
     .desc = { ent-BaseUplinkRadio.desc }
-    .suffix = 225 TC, LoneOps

@@ -1,2 +1,2 @@
 ent-ShadowlingAscendObjective = { ent-BaseCodeObjective }
-    .desc = I must ascend at all costs.
+    .desc = Я должен возвыситься, чего бы мне это не стоило.

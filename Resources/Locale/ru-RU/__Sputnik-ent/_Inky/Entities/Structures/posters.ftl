@@ -1,2 +1,2 @@
-ent-PosterLegitInkyUrod = stupid ugly cat
-    .desc = This poster depicts a very well regarded cat. He looks ugly.
+ent-PosterLegitInkyUrod = глупый уродливый кот
+    .desc = На этом плакате изображён весьма уважаемый кот. Выглядит уродливо.

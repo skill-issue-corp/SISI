@@ -1,32 +1,22 @@
 ent-BaseGasTurbinePart = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
-ent-BaseGasTurbineBlade = gas turbine blade
-    .desc = A replacement blade for the gas turbine.
-
-ent-SteelGasTurbineBlade = steel gas turbine blade
+ent-BaseGasTurbineBlade = лопасть газовой турбины
+    .desc = Запасная лопасть для газовой турбины.
+ent-SteelGasTurbineBlade = стальная лопасть газовой турбины
     .desc = { ent-BaseGasTurbineBlade.desc }
-
-ent-BrassGasTurbineBlade = brass gas turbine blade
+ent-BrassGasTurbineBlade = латунная лопасть газовой турбины
     .desc = { ent-BaseGasTurbineBlade.desc }
-
-ent-DiamondGasTurbineBlade = diamond gas turbine blade
+ent-DiamondGasTurbineBlade = алмазная лопасть газовой турбины
     .desc = { ent-BaseGasTurbineBlade.desc }
-
-ent-GoldGasTurbineBlade = gold gas turbine blade
+ent-GoldGasTurbineBlade = золотая лопасть газовой турбины
     .desc = { ent-BaseGasTurbineBlade.desc }
-
-ent-PlasteelGasTurbineBlade = plasteel gas turbine blade
+ent-PlasteelGasTurbineBlade = пласталевая лопасть газовой турбины
     .desc = { ent-BaseGasTurbineBlade.desc }
-
-ent-BaseGasTurbineStator = gas turbine stator
-    .desc = A replacement stator for the gas turbine.
-
-ent-SteelGasTurbineStator = steel gas turbine stator
+ent-BaseGasTurbineStator = статор газовой турбины
+    .desc = Запасной статор для газовой турбины.
+ent-SteelGasTurbineStator = стальной статор газовой турбины
     .desc = { ent-BaseGasTurbineStator.desc }
-
-ent-SilverGasTurbineStator = silver gas turbine stator
+ent-SilverGasTurbineStator = серебряный статор газовой турбины
     .desc = { ent-BaseGasTurbineStator.desc }
-
-ent-GoldGasTurbineStator = gold gas turbine stator
+ent-GoldGasTurbineStator = золотой статор газовой турбины
     .desc = { ent-BaseGasTurbineStator.desc }

@@ -1,34 +1,29 @@
-ent-RandomHumanoidSpawnerNavyOfficer = Navy Officer
+ent-RandomHumanoidSpawnerNavyOfficer = Офицер Центрального Командования
+    .suffix = ЦК
     .desc = { "" }
-    .suffix = CentComm
-
-ent-RandomHumanoidSpawnerNavyCaptain = Navy Captain
+ent-RandomHumanoidSpawnerNavyCaptain = Капитан ВКФ
+    .suffix = ТОЛЬКО ДЛЯ АДМИНОВ, НИКОГДА НЕ ИСПОЛЬЗОВАТЬ
     .desc = { "" }
-    .suffix = ADMIN ONLY, DO FUCKING NOT
-
-ent-RandomHumanoidSpawnerNavyOfficerUndercover = Undercover Navy Officer
+ent-RandomHumanoidSpawnerNavyOfficerUndercover = Офицер под прикрытием
+    .suffix = ЦК
     .desc = { "" }
-    .suffix = CentComm
-
-ent-RandomHumanoidSpawnerDiplomat = Diplomat
+ent-RandomHumanoidSpawnerSpecialOperationsOfficers = Офицер специальных операций
+    .suffix = ЦК
     .desc = { "" }
-    .suffix = CentComm
-
-ent-RandomHumanoidSpawnerInspector = Inspector
+ent-RandomHumanoidSpawnerDiplomat = Дипломат
+    .suffix = ЦК
     .desc = { "" }
-    .suffix = CentComm
-
-ent-RandomHumanoidSpawnerChronolegioneer = chrono legionnaire
+ent-RandomHumanoidSpawnerInspector = Инспектор
+    .suffix = ЦК
     .desc = { "" }
-
-ent-RandomHumanoidHECUSpawner = HECU Operative
+ent-RandomHumanoidSpawnerChronolegioneer = Хроно легионер
     .desc = { "" }
-    .suffix = ERTRole
-
-ent-TheGmanSpawer = The G-Man
+ent-RandomHumanoidHECUSpawner = Оперативник HECU
+    .suffix = Роль ОБР
     .desc = { "" }
-    .suffix = Admeme
-
-ent-ConquestSpawner = Conquest
+ent-TheGmanSpawer = Г-Мэн
+    .suffix = Адмем
     .desc = { "" }
-    .suffix = Admeme
+ent-ConquestSpawner = Конквест
+    .suffix = Адмем
+    .desc = { "" }

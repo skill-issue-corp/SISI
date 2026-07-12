@@ -1,39 +1,30 @@
-ent-FloorCarpetItemRed = carpet
+ent-FloorCarpetItemRed = ковёр
     .desc = { ent-FloorTileItemBase.desc }
-    .suffix = Red
-
-ent-FloorCarpetItemBlack = { ent-FloorCarpetItemRed }
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Black
-
-ent-FloorCarpetItemBlue = { ent-FloorCarpetItemRed }
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Blue
-
-ent-FloorCarpetItemGreen = { ent-FloorCarpetItemRed }
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Green
-
-ent-FloorCarpetItemOrange = { ent-FloorCarpetItemRed }
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Orange
-
-ent-FloorCarpetItemSkyBlue = { ent-FloorCarpetItemRed }
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Sky Blue
-
-ent-FloorCarpetItemPurple = { ent-FloorCarpetItemRed }
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Purple
-
-ent-FloorCarpetItemPink = { ent-FloorCarpetItemRed }
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Pink
-
-ent-FloorCarpetItemCyan = { ent-FloorCarpetItemRed }
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Cyan
-
-ent-FloorCarpetItemWhite = { ent-FloorCarpetItemRed }
-    .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = White
+    .suffix = Красный
+ent-FloorCarpetItemBlack = ковёр
+    .desc = { ent-FloorTileItemBase.desc }
+    .suffix = Чёрный
+ent-FloorCarpetItemBlue = ковёр
+    .desc = { ent-FloorTileItemBase.desc }
+    .suffix = Синий
+ent-FloorCarpetItemGreen = ковёр
+    .desc = { ent-FloorTileItemBase.desc }
+    .suffix = Зелёный
+ent-FloorCarpetItemOrange = ковёр
+    .desc = { ent-FloorTileItemBase.desc }
+    .suffix = Оранжевый
+ent-FloorCarpetItemSkyBlue = ковёр
+    .desc = { ent-FloorTileItemBase.desc }
+    .suffix = Небесно-голубой
+ent-FloorCarpetItemPurple = ковёр
+    .desc = { ent-FloorTileItemBase.desc }
+    .suffix = Фиолетовый
+ent-FloorCarpetItemPink = ковёр
+    .desc = { ent-FloorTileItemBase.desc }
+    .suffix = Розовый
+ent-FloorCarpetItemCyan = ковёр
+    .suffix = Голубой
+    .desc = { ent-FloorTileItemBase.desc }
+ent-FloorCarpetItemWhite = ковёр
+    .suffix = Белый
+    .desc = { ent-FloorTileItemBase.desc }

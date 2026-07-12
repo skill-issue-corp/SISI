@@ -1,2 +1,2 @@
-ent-StatusEffectCocaineStamina = cocaine rush
+ent-StatusEffectCocaineStamina = кокаиновый прилив
     .desc = { ent-StaminaModifierStatusEffect.desc }

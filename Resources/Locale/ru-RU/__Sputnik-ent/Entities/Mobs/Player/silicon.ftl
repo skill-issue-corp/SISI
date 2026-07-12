@@ -1,106 +1,46 @@
 ent-AiHeld = { "" }
-    .desc = Components added / removed from an entity that gets inserted into an AI core.
-
+    .desc = Компоненты добавляются/удаляются из сущности, которая помещается в ядро ИИ.
 ent-AiHeldIntellicard = { "" }
-    .desc = Components added / removed from an entity that gets inserted into an Intellicard.
-
+    .desc = Компоненты добавляются/удаляются из сущности, которая помещается в интелкарту.
 ent-AiHolder = { "" }
-    .desc = Handles AI interactions across holocards + AI cores
-
-ent-Intellicard = intellicard
-    .desc = A storage device for AIs.
-    .suffix = Empty
-
+    .desc = Управляет взаимодействием ИИ на голокартах + ядрах ИИ
+ent-Intellicard = интелкарта
+    .desc = Устройство для хранения ИИ.
+    .suffix = Пустой
 ent-PlayerStationAiPreview = { "" }
     .desc = { "" }
-
-ent-PlayerStationAiEmpty = AI core
-    .desc = The latest in Artificial Intelligences.
-    .suffix = Empty
-
+ent-PlayerStationAiEmpty = ядро ИИ
+    .desc = Последние достижения в области искусственного интеллекта.
+    .suffix = Пустой
 ent-PlayerStationAi = { ent-PlayerStationAiEmpty }
+    .suffix = Спавн должности
     .desc = { ent-PlayerStationAiEmpty.desc }
-    .suffix = Job spawn
-
-ent-PlayerStationAiAssembly = AI core assembly
-    .desc = An unfinished computer core for housing an artifical intelligence.
-
 ent-StationAiBrain = { ent-PositronicBrain }
     .desc = { ent-PositronicBrain.desc }
-
-ent-StationAiHolo = AI eye
-    .desc = The AI's viewer.
-
-ent-StationAiHoloLocal = AI hologram
-    .desc = A holographic representation of an AI.
-
+ent-StationAiHolo = око ИИ
+    .desc = Обозреватель ИИ.
+ent-StationAiHoloLocal = голограмма ИИ
+    .desc = Голографическое представление ИИ.
 ent-PlayerBorgBattery = { ent-BorgChassisSelectable }
+    .suffix = Батарея
     .desc = { ent-BorgChassisSelectable.desc }
-    .suffix = Battery
-
 ent-PlayerBorgSyndicateAssaultBattery = { ent-BorgChassisSyndicateAssault }
+    .suffix = Батарея, Модуль, Оперативник
     .desc = { ent-BorgChassisSyndicateAssault.desc }
-    .suffix = Battery, Module, Operative
-
 ent-PlayerBorgSyndicateAssaultGhostRole = { ent-PlayerBorgSyndicateAssaultBattery }
+    .suffix = Роль призрака
     .desc = { ent-PlayerBorgSyndicateAssaultBattery.desc }
-    .suffix = Ghost role
-
 ent-PlayerBorgSyndicateSaboteurBattery = { ent-BorgChassisSyndicateSaboteur }
+    .suffix = Батарея, Модуль, Оперативник
     .desc = { ent-BorgChassisSyndicateSaboteur.desc }
-    .suffix = Battery, Module, Operative
-
 ent-PlayerBorgSyndicateSaboteurGhostRole = { ent-PlayerBorgSyndicateSaboteurBattery }
+    .suffix = Роль призрака
     .desc = { ent-PlayerBorgSyndicateSaboteurBattery.desc }
-    .suffix = Ghost role
-
-ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = syndicate invasion borg spawner
+ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = спавнер штурмовой борг Синдиката
     .desc = { ent-MarkerBase.desc }
-
-ent-PlayerEngineeringBorgDerelict = { ent-EngineeringBorgChassisDerelict }
-    .desc = { ent-EngineeringBorgChassisDerelict.desc }
-    .suffix = Battery, Module
-
-ent-PlayerEngineeringBorgDerelictGhostRole = { ent-PlayerEngineeringBorgDerelict }
-    .desc = { ent-PlayerEngineeringBorgDerelict.desc }
-    .suffix = Ghost role
-
 ent-PlayerBorgDerelict = { ent-BorgChassisDerelict }
+    .suffix = Батарея, Модуль
     .desc = { ent-BorgChassisDerelict.desc }
-    .suffix = Battery, Module
-
 ent-PlayerBorgDerelictGhostRole = { ent-PlayerBorgDerelict }
+    .suffix = Роль призрака
     .desc = { ent-PlayerBorgDerelict.desc }
-    .suffix = Ghost role
-
-ent-PlayerJanitorBorgDerelict = { ent-JanitorBorgChassisDerelict }
-    .desc = { ent-JanitorBorgChassisDerelict.desc }
-    .suffix = Battery, Module
-
-ent-PlayerJanitorBorgDerelictGhostRole = { ent-PlayerJanitorBorgDerelict }
-    .desc = { ent-PlayerJanitorBorgDerelict.desc }
-    .suffix = Ghost role
-
-ent-PlayerMedicalBorgDerelict = { ent-MedicalBorgChassisDerelict }
-    .desc = { ent-MedicalBorgChassisDerelict.desc }
-    .suffix = Battery, Module
-
-ent-PlayerMedicalBorgDerelictGhostRole = { ent-PlayerMedicalBorgDerelict }
-    .desc = { ent-PlayerMedicalBorgDerelict.desc }
-    .suffix = Ghost role
-
-ent-PlayerMiningBorgDerelict = { ent-MiningBorgChassisDerelict }
-    .desc = { ent-MiningBorgChassisDerelict.desc }
-    .suffix = Battery, Module
-
-ent-PlayerMiningBorgDerelictGhostRole = { ent-PlayerMiningBorgDerelict }
-    .desc = { ent-PlayerMiningBorgDerelict.desc }
-    .suffix = Ghost role
-
-ent-PlayerSyndicateAssaultBorgDerelict = { ent-SyndicateAssaultBorgChassisDerelict }
-    .desc = { ent-SyndicateAssaultBorgChassisDerelict.desc }
-    .suffix = Battery, Module
-
-ent-PlayerBorgSyndicateDerelictGhostRole = { ent-PlayerSyndicateAssaultBorgDerelict }
-    .desc = { ent-PlayerSyndicateAssaultBorgDerelict.desc }
-    .suffix = Ghost role

@@ -1,3 +1,3 @@
-ent-GreedStick = gib stick
-    .desc = hit hard ye
+ent-GreedStick = дробящая палка
+    .desc = бей сильно, эй
     .suffix = DEBUG

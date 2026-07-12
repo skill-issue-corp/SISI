@@ -1,2 +1,2 @@
-ent-HisGrace = his grace
-    .desc = An otherworldly entity bound within the confines of a seemingly ordinary toolbox. Feed it, before it feeds on you.
+ent-HisGrace = его милость
+    .desc = Потустороннее существо, заключённое в, казалось бы, обычный ящик с инструментами. Кормите его, пока он не начал кормиться вами.

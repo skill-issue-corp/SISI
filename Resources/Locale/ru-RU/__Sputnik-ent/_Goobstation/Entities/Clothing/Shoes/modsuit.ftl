@@ -1,26 +1,18 @@
 ent-ClothingShoesModsuitBase = { ent-ClothingShoesBase }
     .desc = { ent-ClothingShoesBase.desc }
-
-ent-ClothingModsuitBootsStandard = standard modsuit boots
-    .desc = A special modular suit boots designed for compact folding inside modular suit control.
-
-ent-ClothingModsuitBootsSecurity = soldat modsuit boots
-    .desc = THE IRON BOOTS OF THE LAW.
-
-ent-ClothingModsuitBootsHeadOfSecurity = bulwark modsuit boots
-    .desc = I call these my commie stompers.
-
-ent-ClothingModsuitBootsParamedic = sanitater modsuit boots
-    .desc = Made to get bloody.
-
-ent-ClothingModsuitBootsEngineer = sapper modsuit boots
-    .desc = Made to get oily.
-
-ent-ClothingModsuitBootsAtmostech = aeolus modsuit boots
-    .desc = Made to get burnt.
-
-ent-ClothingModsuitBootsResearchDirector = minerva modsuit boots
-    .desc = Won't stop you slipping on your own blood when the holocarp gets to you.
-
-ent-ClothingModsuitBootsCaptain = magnate modsuit boots
-    .desc = These boots were designed by THE Michael Jordan and crafted with ancient alloys, man.
+ent-ClothingModsuitBootsStandard = стандартные ботинки скафандра MOD
+    .desc = Специальные модульные ботинки, разработанные для компактного хранения в модульном скафандра.
+ent-ClothingModsuitBootsSecurity = ботинки скафандра MOD «Солдат»
+    .desc = ЖЕЛЕЗНЫЕ БОТИНКИ - ЗАКОН.
+ent-ClothingModsuitBootsHeadOfSecurity = ботинки скафандра MOD «Бастион»
+    .desc = Я называю их своими топтунами коммунистов.
+ent-ClothingModsuitBootsParamedic = ботинки скафандра MOD «Санитар»
+    .desc = Созданы, чтобы испачкаться кровью.
+ent-ClothingModsuitBootsEngineer = ботинки скафандра MOD «Сапёр»
+    .desc = Созданы, чтобы испачкаться маслом.
+ent-ClothingModsuitBootsAtmostech = ботинки скафандра MOD «Эол»
+    .desc = Созданы, чтобы обжечься.
+ent-ClothingModsuitBootsResearchDirector = ботинки скафандра MOD «Минерва»
+    .desc = Не спасут от скольжения по собственной крови, когда голокарп летит за тобой.
+ent-ClothingModsuitBootsCaptain = ботинки скафандра MOD "Магнат"
+    .desc = Эти ботинки разработаны самим МАЙКЛОМ ДЖОРДАНОМ и выкованы из древних сплавов, чувак.

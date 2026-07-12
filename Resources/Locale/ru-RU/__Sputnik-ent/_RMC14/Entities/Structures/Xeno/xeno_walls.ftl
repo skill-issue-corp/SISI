@@ -1,20 +1,14 @@
 ent-CMBaseXenoStructure = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
-
-ent-BaseWallXeno = resin wall
+ent-BaseWallXeno = смоляная стена
     .desc = { ent-BaseWall.desc }
-
-ent-WallXenoResin = resin wall
-    .desc = Weird slime solidified into a wall.
-
-ent-WallXenoResinThick = thick resin wall
-    .desc = Weird slime solidified into a thick wall.
-
-ent-BaseMembraneXeno = resin membrane
+ent-WallXenoResin = смоляная стена
+    .desc = Странная слизь, затвердевшая в стену.
+ent-WallXenoResinThick = толстая смоляная стена
+    .desc = Странная слизь, затвердевшая в толстую стену.
+ent-BaseMembraneXeno = смоляная мембрана
     .desc = { ent-BaseWallXeno.desc }
-
-ent-WallXenoMembrane = resin membrane
-    .desc = Weird slime translucent enough to let light pass through.
-
-ent-WallXenoMembraneThick = thick resin membrane
-    .desc = Weird thick slime just translucent enough to let light pass through.
+ent-WallXenoMembrane = смоляная мембрана
+    .desc = Странная слизь достаточно прозрачная, чтобы пропускать свет.
+ent-WallXenoMembraneThick = толстая смоляная мембрана
+    .desc = Странная густая слизь, едва ли достаточно прозрачная, чтобы пропускать свет.

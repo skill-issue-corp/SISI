@@ -1,17 +1,13 @@
-ent-BaseMagazineBoxLightRifle = ammunition box (.30 rifle)
+ent-BaseMagazineBoxLightRifle = коробка патронов (.30 винтовочные)
     .desc = { ent-BaseItem.desc }
-
-ent-MagazineBoxLightRifleBig = ammunition box (.30 rifle)
+ent-MagazineBoxLightRifleBig = ящик патронов (.30 винтовочные)
     .desc = { ent-BaseMagazineBoxLightRifle.desc }
-
-ent-MagazineBoxLightRifle = ammunition box (.30 rifle)
-    .desc = A cardboard box of .30 rifle rounds. Intended to hold general-purpose kinetic ammunition.
-
-ent-MagazineBoxLightRiflePractice = ammunition box (.30 rifle practice)
-    .desc = A cardboard box of .30 rifle rounds. Intended to hold harmless practice ammunition.
-
-ent-MagazineBoxLightRifleIncendiary = ammunition box (.30 rifle incendiary)
-    .desc = A cardboard box of .30 rifle rounds. Intended to hold self-igniting incendiary ammunition.
-
-ent-MagazineBoxLightRifleUranium = ammunition box (.30 rifle uranium)
-    .desc = A cardboard box of .30 rifle rounds. Intended to hold exotic uranium-core ammunition.
+    .suffix = Большой
+ent-MagazineBoxLightRifle = коробка патронов (.30 винтовочные)
+    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+ent-MagazineBoxLightRiflePractice = коробка патронов (.30 винтовочные учебные)
+    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+ent-MagazineBoxLightRifleIncendiary = коробка патронов (.30 винтовочные зажигательные)
+    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+ent-MagazineBoxLightRifleUranium = коробка патронов (.30 винтовочные урановые)
+    .desc = { ent-BaseMagazineBoxLightRifle.desc }

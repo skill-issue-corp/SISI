@@ -1,2 +1,2 @@
-ent-SlimeScannerXenobio = slime scanner
-    .desc = Applying on a slime and it's produces will grant you all the info you'll ever need. A must for any slime rancher!
+ent-SlimeScannerXenobio = сканер слаймов
+    .desc = Примените на слайме, и он предоставит всю необходимую информацию. Обязателен для каждого слайм рэнчера!

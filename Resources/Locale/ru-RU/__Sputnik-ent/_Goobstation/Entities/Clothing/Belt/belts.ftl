@@ -1,34 +1,32 @@
-ent-ClothingBeltMilitaryWebbingCMO = chief medical officer's chest rig
-    .desc = A medical chest rig with deep pockets, for use by health professionals.
-
-ent-ClothingBeltDeathsquadWebbing = deathsquad operative chestrig
-    .desc = A robust and durable chestrig, containing everything you need to keep you in the fight. You probably won't need to use it.
-    .suffix = DO NOT MAP
-
-ent-ClothingBeltSecurityWebbingMedical = ert doctor's chest rig
-    .desc = A medical chest rig with deep pockets, for use by ERT operatives.
-
-ent-ClothingBeltCorporateJudo = Corporate Judo Belt
-    .desc = Teaches the wearer NT Corporate Judo.
-
-ent-ClothingBeltChemBagSyndi = syndicate medical pouch
-    .desc = A robust pouch for medical supplies worn by Gorlex Marauder operatives. It smells of desoxyephedrine.
-
-ent-ClothingBeltSheathHeadOfSecurity = head of security's sheath
-    .desc = A rugged sheath, designed to hold the Head of Security's custom energy sword.
-
-ent-ClothingBeltMilitaryRigGrenadier = grenadier belt
-    .desc = A specialised belt rig to hold so many grenades that your arm gets tired from throwing them all. Can also store a sidearm and magazines for it.
-
-ent-ClothingBeltChemBagXenobiology = xenobiology pouch
-    .desc = A slime-resistant pouch intended for use by Xenobiologists. Smells of.. plasma?
-
-ent-ClothingBeltChemBagXenobiologyHolding = xenobiology pouch of holding
-    .desc = A larger slime-resistant pouch intended for use by Xenobiologists. Smells of bluespace extract and monkey hair.
-
+ent-ClothingBeltMilitaryWebbingCMO = разгрузка главного врача
+    .desc = Медицинская разгрузка с глубокими карманами для использования медицинскими специалистами.
+ent-ClothingBeltDeathsquadWebbing = разгрузка оперативника Эскадрона Смерти
+    .desc = Прочная и надёжная разгрузка, содержащая всё необходимое для боя. Скорее всего, вам не придётся её использовать.
+    .suffix = НЕ МАППИТЬ
+ent-ClothingBeltSecurityWebbingMedical = разгрузка врача ОБР
+    .desc = Медицинская разгрузка с глубокими карманами для использования оперативниками ERT.
+ent-ClothingBeltCorporateJudo = пояс корпоративного дзюдо
+    .desc = Обучает носителя корпоративному дзюдо NT.
+ent-ClothingBeltChemBagSyndi = медицинская сумка синдиката
+    .desc = Прочная сумка для медицинских принадлежностей, носимая оперативниками Gorlex Marauder. Пахнет дезоксиэфедрином.
+ent-ClothingBeltSheathHeadOfSecurity = ножны начальника охраны
+    .desc = Надёжные ножны, разработанные для хранения индивидуального энергетического меча начальника охраны.
+ent-ClothingBeltMilitaryRigGrenadier = РПС гренадера
+    .desc = Специализированная разгрузка для переноски такого количества гранат, что рука устает их бросать. Также может хранить пистолет и магазины к нему.
+ent-ClothingBeltChemBagXenobiology = сумка ксенобиолога
+    .desc = Устойчивая к слизи сумка, предназначенная для ксенобиологов. Пахнет... плазмой?
+ent-ClothingBeltChemBagXenobiologyHolding = сумка для хранения ксенобиолога
+    .desc = Большая, устойчивая к слизи сумка, предназначенная для ксенобиологов. Пахнет блюспейс экстрактом и обезьяньей шерстью.
+ent-ClothingBeltMilitaryWebbingBSOFilled = РПС офицера "Синий Щит"
+    .desc = Разгрузка, используемая подразделениями Центрального Командования.
 ent-ClothingBeltUtilityFilledUnremoveable = { ent-ClothingBeltUtilityFilled }
     .desc = { ent-ClothingBeltUtilityFilled.desc }
-    .suffix = Unremoveable
-
-ent-ClothingBeltSecurityWebbingContractorFilled = contractor's chest rig
-    .desc = A chest rig with deep pockets, often used by contractors and bounty hunters.
+    .suffix = Неснимаемый
+ent-ClothingBeltSecurityWebbingContractor = РПС наёмника
+    .desc = Нагрудная разгрузка с глубокими карманами. Часто используется наёмниками и охотниками за головами.
+ent-ClothingBeltSecurityWebbingContractorFilled = { ent-ClothingBeltSecurityWebbingContractor }
+    .desc = { ent-ClothingBeltSecurityWebbingContractor.desc }
+    .suffix = Заполненный
+ent-ClothingBeltWhipping = батин ремен
+    .suffix = Адмем
+    .desc = Пьяный офицер специальных операций вернулся с работы домой к семье...

@@ -1,5 +1,4 @@
-ent-MaterialFlockCube = strange glass cube
-    .desc = You're not sure what it is, but it looks very valuable!
-
-ent-MaterialFlockOrb = strange glass orb
+ent-MaterialFlockCube = странный стеклянный куб
+    .desc = Вы не уверены, что это такое, но выглядит очень ценным!
+ent-MaterialFlockOrb = странный стеклянный шар
     .desc = { ent-MaterialFlockCube.desc }

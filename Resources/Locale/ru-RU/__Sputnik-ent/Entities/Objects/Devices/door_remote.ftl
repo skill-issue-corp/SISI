@@ -1,39 +1,25 @@
-ent-DoorRemoteDefault = door remote
-    .desc = A gadget which can open and bolt doors remotely.
-
-ent-DoorRemoteCanEletrifyDoors = { ent-DoorRemoteDefault }
+ent-DoorRemoteDefault = пульт от шлюзов
+    .desc = Гаджет, который может открывать и закрывать шлюзы дистанционно.
+ent-DoorRemoteCommand = пульт от шлюзов командования
     .desc = { ent-DoorRemoteDefault.desc }
-
-ent-DoorRemoteCommand = command door remote
+ent-DoorRemoteCustom = умный пульт от шлюзов
+    .desc = Гаджет, который может открывать и закрывать шлюзы дистанционно. Этот расширенный вариант не имеет встроенного доступа, вместо этого наследует доступ ID пользователя.
+ent-DoorRemoteSecurity = пульт от шлюзов брига
     .desc = { ent-DoorRemoteDefault.desc }
-
-ent-DoorRemoteCustom = custom door remote
-    .desc = A gadget which can open and bolt doors remotely. This advanced variant does not have built-in access, instead inheriting the ID access of the user.
-
-ent-DoorRemoteSecurity = security door remote
+ent-DoorRemoteArmory = пульт от шлюзов оружейной
     .desc = { ent-DoorRemoteDefault.desc }
-
-ent-DoorRemoteArmory = armory door remote
+ent-DoorRemoteService = пульт от шлюзов отдела сервиса
     .desc = { ent-DoorRemoteDefault.desc }
-
-ent-DoorRemoteService = service door remote
+ent-DoorRemoteResearch = пульт от шлюзов научного отдела
     .desc = { ent-DoorRemoteDefault.desc }
-
-ent-DoorRemoteResearch = research door remote
+ent-DoorRemoteCargo = пульт от шлюзов отдела снабжения
     .desc = { ent-DoorRemoteDefault.desc }
-
-ent-DoorRemoteCargo = cargo door remote
+ent-DoorRemoteMedical = пульт от шлюзов медотсека
     .desc = { ent-DoorRemoteDefault.desc }
-
-ent-DoorRemoteMedical = medical door remote
+ent-DoorRemoteEngineering = пульт от шлюзов инженерного отдела
     .desc = { ent-DoorRemoteDefault.desc }
-
-ent-DoorRemoteEngineering = engineering door remote
+ent-DoorRemoteAll = супер-пульт от шлюзов
+    .suffix = Адмемы
     .desc = { ent-DoorRemoteDefault.desc }
-
-ent-DoorRemoteAll = super door remote
-    .desc = A gadget which can open and bolt doors remotely. This one works even on wooden doors!
-    .suffix = Admeme
-
-ent-DoorRemoteXenoborg = xenoborg door remote
-    .desc = { ent-DoorRemoteCanEletrifyDoors.desc }
+ent-DoorRemoteXenoborg = пульт от шлюзов ксеноборгов
+    .desc = { ent-DoorRemoteDefault.desc }

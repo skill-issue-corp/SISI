@@ -1,5 +1,4 @@
-ent-MobMothmaggot = moth maggot
-    .desc = This is the adorable by-product of multiple attempts at genetically mixing mothpeople with maggots.
-
-ent-ActionEnterBodyPart = Burrow into host
-    .desc = Crawl into someone's mouth to burrow into their chest cavity. After 40 seconds you will mature into a beautiful mothroach!
+ent-MobMothmaggot = мотылично-личинка
+    .desc = Это очаровательный побочный продукт многочисленных попыток генетического скрещивания мотыльколюдей с личинками.
+ent-ActionEnterBodyPart = Зарыться в носителя
+    .desc = Заползите в чей-то рот, чтобы зарыться в его грудную полость. Через 40 секунд вы превратитесь в прекрасного мотыльковского таракана!

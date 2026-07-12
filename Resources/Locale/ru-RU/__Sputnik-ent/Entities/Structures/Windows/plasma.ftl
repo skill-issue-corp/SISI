@@ -1,9 +1,7 @@
-ent-PlasmaWindow = plasma window
-    .desc = { ent-BaseDeltaPressurePlasma.desc }
-
-ent-PlasmaWindowDirectional = directional plasma window
-    .desc = Don't smudge up the glass down there.
-
+ent-PlasmaWindow = плазменное окно
+    .desc = { ent-WindowRCDResistant.desc }
+ent-PlasmaWindowDirectional = направленное плазменное окно
+    .desc = Смотри, не заляпай.
 ent-PlasmaWindowDiagonal = { ent-PlasmaWindow }
+    .suffix = Диагональ
     .desc = { ent-PlasmaWindow.desc }
-    .suffix = diagonal

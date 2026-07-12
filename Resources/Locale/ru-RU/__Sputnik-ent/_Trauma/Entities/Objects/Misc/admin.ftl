@@ -1,3 +1,3 @@
-ent-DebugEffectStick = debug effect stick
-    .desc = The monolith is calling... you want to be rich
+ent-DebugEffectStick = дебажная палка эффектов
+    .desc = Монолит зовёт... вы хотите разбогатеть
     .suffix = DEBUG

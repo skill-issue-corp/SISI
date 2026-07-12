@@ -1,2 +1,2 @@
-ent-StationAiCoreElectronics = station AI core electronics
-    .desc = An electronics board used in station AI cores.
+ent-StationAiCoreElectronics = электроника ядра ИИ станции
+    .desc = Электронная плата, используемая в ядрах ИИ станции.

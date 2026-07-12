@@ -1,55 +1,41 @@
-ent-BaseIntercom = intercom
-    .desc = An intercom. For when the station just needs to know something.
-
-ent-IntercomAssembly = intercom assembly
-    .desc = An intercom. It doesn't seem very helpful right now.
-
+ent-BaseIntercom = интерком
+    .desc = Интерком. На случай, когда необходимо что-то сообщить станции.
+ent-IntercomAssembly = каркас интеркома
+    .desc = Интерком. На данный момент он бесполезен.
 ent-IntercomConstructed = { ent-BaseIntercom }
+    .suffix = Пустой, Панель открыта
     .desc = { ent-BaseIntercom.desc }
-    .suffix = Empty, Panel Open
-
 ent-Intercom = { ent-IntercomConstructed }
     .desc = { ent-IntercomConstructed.desc }
-
 ent-BaseIntercomSecure = { ent-Intercom }
     .desc = { ent-Intercom.desc }
-
 ent-IntercomCommon = { ent-Intercom }
+    .suffix = Общий
     .desc = { ent-Intercom.desc }
-    .suffix = Common
-
 ent-IntercomCommand = { ent-BaseIntercomSecure }
-    .desc = An intercom. It's been reinforced with metal.
-    .suffix = Command
-
+    .desc = Интерком. Он был укреплён металлом.
+    .suffix = Командный
 ent-IntercomEngineering = { ent-Intercom }
+    .suffix = Инженерный
     .desc = { ent-Intercom.desc }
-    .suffix = Engineering
-
 ent-IntercomMedical = { ent-Intercom }
+    .suffix = Медицинский
     .desc = { ent-Intercom.desc }
-    .suffix = Medical
-
 ent-IntercomScience = { ent-Intercom }
+    .suffix = Научный
     .desc = { ent-Intercom.desc }
-    .suffix = Science
-
 ent-IntercomSecurity = { ent-BaseIntercomSecure }
-    .desc = An intercom. It's been reinforced with metal from security helmets, making it a bitch-and-a-half to open.
-    .suffix = Security
-
+    .desc = Интерком. Он был укреплён металлом из шлемов охраны, поэтому открыть его не так-то просто.
+    .suffix = Служба безопасности
 ent-IntercomService = { ent-Intercom }
+    .suffix = Сервисный
     .desc = { ent-Intercom.desc }
-    .suffix = Service
-
 ent-IntercomSupply = { ent-Intercom }
+    .suffix = Снабжение
     .desc = { ent-Intercom.desc }
-    .suffix = Supply
-
 ent-IntercomAll = { ent-Intercom }
+    .suffix = Все
     .desc = { ent-Intercom.desc }
-    .suffix = All
-
 ent-IntercomFreelance = { ent-Intercom }
+    .suffix = Фриланс
     .desc = { ent-Intercom.desc }
-    .suffix = Freelance

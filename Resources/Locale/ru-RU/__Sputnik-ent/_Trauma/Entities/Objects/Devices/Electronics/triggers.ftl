@@ -1,17 +1,12 @@
 ent-BaseModularGrenadeTrigger = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
-ent-MinibombTimerTrigger = minibomb timer trigger
-    .desc = A sinister timer.
-
-ent-WhiteHoleTimerTrigger = whitehole timer trigger
-    .desc = A repulsive timer.
-
-ent-SupermatterTimerTrigger = supermatter timer
-    .desc = An attractive timer.
-
-ent-HolyTimer = holy timer trigger
-    .desc = For the Grail...
-
-ent-SilentTimerTrigger = mechanical pin trigger
-    .desc = A mechanical timer trigger with no beeping.
+ent-MinibombTimerTrigger = таймерный триггер минибомбы
+    .desc = Зловещий таймер.
+ent-WhiteHoleTimerTrigger = таймерный триггер белой дыры
+    .desc = Отталкивающий таймер.
+ent-SupermatterTimerTrigger = таймер супраматерии
+    .desc = Притягательный таймер.
+ent-HolyTimer = таймерный триггер святыни
+    .desc = Ради Грааля...
+ent-SilentTimerTrigger = механический штифтовый триггер
+    .desc = Механический таймерный триггер без писка.

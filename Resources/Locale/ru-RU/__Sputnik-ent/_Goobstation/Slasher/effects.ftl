@@ -1,2 +1,2 @@
-ent-SlasherRegenerateEffect = slasher regenerate effect
-    .desc = A dark, bloody aura surrounds the slasher as they regenerate.
+ent-SlasherRegenerateEffect = эффект регенерации мясника
+    .desc = Тёмная, кровавая аура, кружащая вокруг мясняка, постепенно регенерирующая его.

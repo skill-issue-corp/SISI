@@ -1,23 +1,16 @@
-ent-FabricationKnowledge = Fabrication
+ent-FabricationKnowledge = изготовление
     .desc = { ent-BaseCraftingKnowledge.desc }
-
-ent-WeaponsKnowledge = Weaponsmith
+ent-WeaponsKnowledge = оружейник
     .desc = { ent-BaseCraftingKnowledge.desc }
-
-ent-ArmorKnowledge = Armorsmith
+ent-ArmorKnowledge = бронник
     .desc = { ent-BaseCraftingKnowledge.desc }
-
-ent-MetalworkingKnowledge = Metalworking
+ent-MetalworkingKnowledge = металлообработка
     .desc = { ent-BaseCraftingKnowledge.desc }
-
-ent-CarvingKnowledge = Carving
+ent-CarvingKnowledge = резьба
     .desc = { ent-BaseCraftingKnowledge.desc }
-
-ent-GunsmithingKnowledge = Gunsmithing
+ent-GunsmithingKnowledge = оружейное дело
     .desc = { ent-BaseCraftingKnowledge.desc }
-
-ent-MechanicsKnowledge = Mechanics
+ent-MechanicsKnowledge = механика
     .desc = { ent-BaseCraftingKnowledge.desc }
-
-ent-TailoringKnowledge = Tailoring
+ent-TailoringKnowledge = пошив одежды
     .desc = { ent-BaseCraftingKnowledge.desc }

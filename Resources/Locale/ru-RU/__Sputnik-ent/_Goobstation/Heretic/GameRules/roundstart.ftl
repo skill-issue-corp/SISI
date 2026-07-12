@@ -1,8 +1,4 @@
-ent-BaseHereticRule = { ent-BaseGameRule }
+ent-Heretic = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
-
-ent-HereticRoundstart = { ent-BaseRoundstartAntagRule }
-    .desc = { ent-BaseRoundstartAntagRule.desc }
-
-ent-CalmHeretic = { ent-HereticRoundstart }
-    .desc = { ent-HereticRoundstart.desc }
+ent-CalmHeretic = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }

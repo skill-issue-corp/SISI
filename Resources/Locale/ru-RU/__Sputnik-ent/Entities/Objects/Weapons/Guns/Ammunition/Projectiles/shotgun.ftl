@@ -1,53 +1,36 @@
-ent-PelletShotgunSlug = pellet (.50 slug)
-    .desc = { ent-BaseBulletKinetic.desc }
-
-ent-PelletShotgunBeanbag = beanbag (.50)
+ent-PelletShotgunSlug = дробина (.50 пуля)
     .desc = { ent-BaseBullet.desc }
-
-ent-PelletShotgun = pellet (.50)
-    .desc = { ent-BaseBulletKinetic.desc }
-
+ent-PelletShotgunBeanbag = дробина (.50)
+    .desc = { ent-BaseBullet.desc }
+ent-PelletShotgun = дробина (.50)
+    .desc = { ent-BaseBullet.desc }
 ent-PelletShotgunSpread = { ent-PelletShotgun }
     .desc = { ent-PelletShotgun.desc }
-
-ent-PelletShotgunIncendiary = pellet (.50 incendiary)
+ent-PelletShotgunIncendiary = дробина (.50 зажигательная)
     .desc = { ent-BaseBulletIncendiary.desc }
-
 ent-PelletShotgunIncendiarySpread = { ent-PelletShotgunIncendiary }
     .desc = { ent-PelletShotgunIncendiary.desc }
-
-ent-PelletShotgunPractice = pellet (.50 practice)
+ent-PelletShotgunPractice = дробина (.50 учебная)
     .desc = { ent-BaseBulletPractice.desc }
-
 ent-PelletShotgunPracticeSpread = { ent-PelletShotgunPractice }
     .desc = { ent-PelletShotgunPractice.desc }
-
-ent-PelletShotgunImprovised = improvised pellet
-    .desc = { ent-BaseBulletKinetic.desc }
-
+ent-PelletShotgunImprovised = самодельная дробина (.50)
+    .desc = { ent-BaseBullet.desc }
 ent-PelletShotgunImprovisedSpread = { ent-PelletShotgunImprovised }
     .desc = { ent-PelletShotgunImprovised.desc }
-
-ent-PelletShotgunTranquilizer = pellet (.50 tranquilizer)
-    .desc = { ent-SolutionAmmo.desc }
-
-ent-PelletShotgunFlare = pellet (.50 flare)
-    .desc = { "" }
-
-ent-PelletShotgunUranium = pellet (.50 uranium)
-    .desc = { ent-BaseBulletUranium.desc }
-
+ent-PelletShotgunTranquilizer = дробина (.50 транквилизатор)
+    .desc = { ent-BaseBulletPractice.desc }
+ent-PelletShotgunFlare = дробина (.50 фальшфейер)
+    .desc = { ent-BaseBullet.desc }
+ent-PelletShotgunUranium = дробина (.50 урановая)
+    .desc = { ent-BaseBullet.desc }
 ent-PelletShotgunUraniumSpread = { ent-PelletShotgunUranium }
     .desc = { ent-PelletShotgunUranium.desc }
-
-ent-PelletGrapeshot = grapeshot pellet
+ent-PelletGrapeshot = картечина
     .desc = { ent-BaseBullet.desc }
-
 ent-PelletGrapeshotSpread = { ent-PelletGrapeshot }
     .desc = { ent-PelletGrapeshot.desc }
-
-ent-PelletGlass = glass shard
+ent-PelletGlass = стеклянный осколок
     .desc = { ent-BaseBullet.desc }
-
 ent-PelletGlassSpread = { ent-PelletGlass }
     .desc = { ent-PelletGlass.desc }

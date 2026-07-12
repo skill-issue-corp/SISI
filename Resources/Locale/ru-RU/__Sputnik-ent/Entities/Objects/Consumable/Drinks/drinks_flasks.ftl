@@ -1,30 +1,23 @@
-ent-FlaskBase = { ent-DrinkBaseMaterialStrongMetal }
-    .desc = { ent-DrinkBaseMaterialStrongMetal.desc }
-
-ent-DrinkFlaskOld = old flask
-    .desc = A decrepit old flask, its lid seems to be missing.
-
-ent-DrinkShinyFlask = shiny flask
-    .desc = A shiny metal flask. It appears to have a Greek symbol inscribed on it.
-
-ent-DrinkMREFlask = MRE flask
-    .desc = An old military flask, filled with the finest contents for soldiers.
-    .suffix = Full
-
-ent-DrinkDetFlask = inspector's flask
-    .desc = A metal flask with a leather band and golden badge belonging to the inspector.
-
-ent-DrinkHosFlask = hos's flask
-    .desc = A metal flask, fit for a hard working HoS.
-
-ent-DrinkFlask = captain's flask
-    .desc = A metal flask belonging to the captain.
-
-ent-DrinkFlaskBar = flask
-    .desc = A reusable metal flask. Classier than drinking straight from a bottle.
-
-ent-DrinkLithiumFlask = lithium flask
-    .desc = A flask with a Lithium Atom symbol on it.
-
-ent-DrinkVacuumFlask = vacuum flask
-    .desc = Keeping your drinks at the perfect temperature since 1892.
+ent-FlaskBase = { ent-DrinkBase }
+    .desc = { ent-DrinkBase.desc }
+ent-DrinkFlaskVisualsOpenable = { "" }
+    .desc = { "" }
+ent-DrinkShinyFlask = блестящая фляга
+    .desc = Блестящая металлическая фляга. Похоже, на ней нарисован греческий символ.
+ent-DrinkMREFlask = фляга ИРП
+    .desc = Старая военная фляга, наполненная самым лучшим содержимым для солдат.
+    .suffix = Заполненный
+ent-DrinkDetFlask = фляга инспектора
+    .desc = Металлическая фляга с кожаным ремешком и золотым значком, принадлежащая инспектору.
+ent-DrinkHosFlask = фляга ГСБ
+    .desc = Металлическая фляга, достойная трудолюбивого ГСБ.
+ent-DrinkFlask = фляга капитана
+    .desc = Металлическая фляга, принадлежащая капитану.
+ent-DrinkFlaskBar = барная фляга
+    .desc = Металлическая фляга, часто выдаваемая барменом на время. Не забудьте её вернуть!
+ent-DrinkFlaskOld = фляга
+    .desc = { ent-FlaskBase.desc }
+ent-DrinkLithiumFlask = литиевая фляга
+    .desc = Фляга с нарисованным на ней символом атома лития.
+ent-DrinkVacuumFlask = термос
+    .desc = Поддерживает ваши напитки в идеальной температуре с 1892 года.

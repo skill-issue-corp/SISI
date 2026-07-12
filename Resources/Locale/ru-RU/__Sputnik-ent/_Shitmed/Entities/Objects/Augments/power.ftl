@@ -1,23 +1,16 @@
-ent-AugmentPowerCellSlotCasing = augment power cell slot casing
-    .desc = Can be implanted into a body to provide power to other implants. This one is incomplete.
-
-ent-AugmentPowerCellSlotCables = augment power cell slot casing with cables
-    .desc = Can be implanted into a body to provide power to other implants. This one is incomplete.
-
-ent-AugmentPowerCellSlot = augment power cell slot
-    .desc = Can be implanted into a body to provide power to other implants.
-
+ent-AugmentPowerCellSlotCasing = каркас импланта энергетической ячейки
+    .desc = Может быть встроен в тело для обеспечения питания других имплантов. Незакончен.
+ent-AugmentPowerCellSlotCables = каркас импланта энергетической ячейки (с проводами)
+    .desc = Может быть встроен в тело для обеспечения питания других имплантов. Незакончен.
+ent-AugmentPowerCellSlot = имплант энергетической ячейки
+    .desc = Может быть встроен в тело для обеспечения питания других имплантов.
 ent-BaseAugmentRecharger = { ent-BaseAugment }
     .desc = { ent-BaseAugment.desc }
-
-ent-AugmentRechargerCasing = augment recharger casing
-    .desc = Can be implanted into a body to recharge an internal power cell. This one is incomplete.
-
-ent-AugmentRechargerCables = augment recharger casing with cables
-    .desc = Can be implanted into a body to recharge an internal power cell. This one is incomplete.
-
-ent-AugmentRechargerAPC = augment apc recharger
-    .desc = Allows the implantee to recharge their power cell via APCs.
-
-ent-AugmentRechargerStation = augment station recharger
-    .desc = Allows the implantee to recharge their power cell via cyborg recharging stations.
+ent-AugmentRechargerCasing = каркас импланта зарядного устройства
+    .desc = Может быть встроен в тело для подзарядки имплантированной батареи. Незакончен.
+ent-AugmentRechargerCables = каркас импланта зарядного устройства (с проводами)
+    .desc = Может быть встроен в тело для подзарядки имплантированной батареи. Незакончен.
+ent-AugmentRechargerAPC = имплант зарядного устройства от ЛКП
+    .desc = Позволяет заряжать свою имплантированную батарею от ЛКП.
+ent-AugmentRechargerStation = имплант зарядного устройства
+    .desc = Позволяет заряжать свою имплантированную батарею от станции зарядки боргов.

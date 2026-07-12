@@ -1,5 +1,4 @@
-ent-WeaponFlamethrower = flamethrower
-    .desc = A flamethrower, draws its fuel from the backpack tank.
-
-ent-FuelTankFlamethrower = flamethrower fuel tank
-    .desc = A fuel tank for the flamethrower. Loaded with napalm that sticks to your newly-charred corpses as it burns.
+ent-WeaponFlamethrower = огнемёт
+    .desc = Огнемёт, забирает топливо из рюкзачного бака.
+ent-FuelTankFlamethrower = топливный бак огнемёта
+    .desc = Топливный бак для огнемёта. Заправлен напалмом, который прилипает к вашим свежеобугленным трупам, продолжая гореть.

@@ -1,5 +1,4 @@
-ent-BlueprintCaltrops = caltrops mold
-    .desc = A mold for caltrops. It can be inserted into an industrial forge.
-
-ent-BlueprintRevMelees = melee upgrades mold
-    .desc = A mold for some new melee weapons. It can be inserted into an industrial forge.
+ent-BlueprintCaltrops = форма для калтропов
+    .desc = Форма для калтропов. Можно вставить в промышленную кузницу.
+ent-BlueprintRevMelees = форма для улучшенного ближнего оружия
+    .desc = Форма для нового ближнего оружия. Можно вставить в промышленную кузницу.

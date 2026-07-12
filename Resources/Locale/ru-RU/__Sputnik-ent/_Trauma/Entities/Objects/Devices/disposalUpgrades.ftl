@@ -1,2 +1,2 @@
-ent-UpgradeKitTubeSpeed = tube speed upgrade kit
-    .desc = An upgrade kit with all the parts needed to upgrade a disposal tube. This one allows the ejection speed of the tube to be increased.
+ent-UpgradeKitTubeSpeed = набор для улучшения скорости трубы
+    .desc = Набор для улучшения со всеми деталями, необходимыми для модернизации трубы утилизации. Этот набор позволяет увеличить скорость выброса трубы.

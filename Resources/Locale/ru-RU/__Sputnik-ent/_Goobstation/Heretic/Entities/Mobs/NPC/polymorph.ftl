@@ -1,17 +1,11 @@
-ent-PolymorphAshJauntAnimation = Unknown
-    .desc = You can't figure out what that is.
-
-ent-PolymorphAshJauntEndAnimation = Unknown
-    .desc = You can't figure out what that is.
-
-ent-PolymorphAshJaunt = Unknown
-    .desc = You can't figure out what that is.
-
-ent-PolymorphSpaceJaunt = Unknown
-    .desc = You can't figure out what that is.
-
-ent-PolymorphMirrorJaunt = Unknown
-    .desc = You can't figure out what that is.
-
-ent-VoidPrison = Void Prison
-    .desc = A Yawning void encases their mortal coil.
+ent-PolymorphAshJauntAnimation = пепельное нечто
+    .desc = Я не думаю, что тебе стоит это читать.
+ent-PolymorphAshJauntEndAnimation = { ent-PolymorphAshJauntAnimation }
+    .desc = { ent-PolymorphAshJauntAnimation.desc }
+ent-PolymorphAshJaunt = пепельное нечто
+    .desc = Я не думаю, что тебе стоит это читать.
+ent-MobHereticFleshAscend = вестник плоти
+    .desc = Непонятное месиво из конечностей и глаз. Вы чувствуете, как он смотрит вам в душу.
+    .suffix = НЕ МАППИТЬ
+ent-VoidPrison = тюрьма Пустоты
+    .desc = Зияющая пустота сковывает их смертную оболочку.

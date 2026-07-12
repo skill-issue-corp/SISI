@@ -1,2 +1,2 @@
-ent-Decal = decal
+ent-Decal = декаль
     .desc = { "" }

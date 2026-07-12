@@ -1,2 +1,2 @@
-ent-ClothingNeckCWPSec = senior officer's poncho
-    .desc = A cold weather poncho, advertised as a masterpiece of environmental protection. Results may vary. It has built-in camera.
+ent-ClothingNeckCWPSec = пончо старшего офицера
+    .desc = Зимнее пончо, рекламируемое как шедевр защиты от внешней среды. Результаты могут отличаться.

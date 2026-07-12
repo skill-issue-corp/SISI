@@ -1,88 +1,62 @@
-ent-MiniBombPayload = minibomb payload
-    .desc = Causes a small, deadly explosion.
-
-ent-FakeMiniBombPayload = small speaker
-    .desc = Its preprogrammed with a fart noise...
-
-ent-WhiteHolePayload = whitehole payload
-    .desc = Pushes everything away very quickly.
-
-ent-NuclearOptionPayload = nuclear option payload
-    .desc = Oh no.
-
-ent-SupermatterGrenadePayload = supermatter payload
-    .desc = Pulls nearby objects close, then explodes.
-
-ent-StingerPayload = stinger payload
-    .desc = Launches many less-lethal stunning rubber pellets.
-
-ent-TearGasPayload = tear gas payload
-    .desc = Releases a large amount of blinding gas.
-
-ent-SmokePayload = smoke payload
-    .desc = Releases a large, long-lasting cloud of smoke when used.
-
-ent-SarinGasPayload = sarin gas payload
-    .desc = Releases a large amount of deadly gas.
-
-ent-IncendiaryPayload = incendiary payload
-    .desc = Launches many fiery fragments.
-
-ent-HolyPayload = holy payload
-    .desc = Causes a HUGE, deadly explosion.
-
-ent-ClusterBombPayload = cluster payload
-    .desc = Causes three large, deadly explosions.
-
-ent-ExplosivePayload = explosive payload
-    .desc = Explodes when triggered, moderately strong.
-
-ent-AirPayload = air payload
-    .desc = Releases air I guess.
-
-ent-FoamPayload = foam payload
-    .desc = Makes a giant fucking mess. Shame on you.
-
-ent-EMPPayload = EMP payload
-    .desc = Releases an electro magnetic pulse, disrupts electronics.
-
-ent-BeePayload = bee payload
-    .desc = Releases bees. (they are mean)
-
-ent-StrongShrapnelPayload = plasteel shrapnel payload
-    .desc = Launches tons of sharp plasteel shards in all directions.
-
+ent-MiniBombPayload = заряд минибомбы
+    .desc = Вызывает небольшой, смертоносный взрыв.
+ent-FakeMiniBombPayload = маленький динамик
+    .desc = Запрограммирован на звук пука...
+ent-WhiteHolePayload = заряд белой дыры
+    .desc = Очень быстро отталкивает всё вокруг.
+ent-NuclearOptionPayload = заряд ядерного варианта
+    .desc = О нет.
+ent-SupermatterGrenadePayload = заряд супраматерии
+    .desc = Притягивает ближайшие объекты, затем взрывается.
+ent-StingerPayload = заряд «Стингер»
+    .desc = Выпускает множество резиновых шариков несмертельного оглушающего действия.
+ent-TearGasPayload = заряд слезоточивого газа
+    .desc = Выделяет большое количество ослепляющего газа.
+ent-SmokePayload = дымовой заряд
+    .desc = При использовании выделяет большое, долго рассеивающееся облако дыма.
+ent-SarinGasPayload = заряд газа зарин
+    .desc = Выделяет большое количество смертоносного газа.
+ent-IncendiaryPayload = зажигательный заряд
+    .desc = Запускает множество огненных осколков.
+ent-HolyPayload = святой заряд
+    .desc = Вызывает ОГРОМНЫЙ, смертоносный взрыв.
+ent-ClusterBombPayload = кластерный заряд
+    .desc = Вызывает три больших, смертоносных взрыва.
+ent-ExplosivePayload = взрывной заряд
+    .desc = Взрывается при срабатывании, умеренная мощность.
+ent-AirPayload = воздушный заряд
+    .desc = Выпускает воздух, наверное.
+ent-FoamPayload = заряд пены
+    .desc = Устраивает грёбаный бардак. Стыдно должно быть.
+ent-EMPPayload = заряд ЭМИ
+    .desc = Выделяет электромагнитный импульс, выводит из строя электронику.
+ent-BeePayload = пчелиный заряд
+    .desc = Выпускает пчёл. (они злые)
+ent-StrongShrapnelPayload = заряд с осколками пластали
+    .desc = Запускает тонны острых осколков пластали во все стороны.
 ent-LubePayload1 = { ent-LargeBeaker }
     .desc = { ent-LargeBeaker.desc }
-    .suffix = Lube foam 1
-
+    .suffix = Пенное смазывающее вещество 1
 ent-LubePayload2 = { ent-LargeBeaker }
     .desc = { ent-LargeBeaker.desc }
-    .suffix = Lube foam 2
-
+    .suffix = Пенное смазывающее вещество 2
 ent-GluePayload1 = { ent-LargeBeaker }
     .desc = { ent-LargeBeaker.desc }
-    .suffix = Glue smoke 1
-
+    .suffix = Клеевой дым 1
 ent-GluePayload2 = { ent-LargeBeaker }
     .desc = { ent-LargeBeaker.desc }
-    .suffix = Glue smoke 2
-
+    .suffix = Клеевой дым 2
 ent-CleanPayload1 = { ent-LargeBeaker }
     .desc = { ent-LargeBeaker.desc }
-    .suffix = Cleaner foam 1
-
+    .suffix = Чистящая пена 1
 ent-CleanPayload2 = { ent-LargeBeaker }
     .desc = { ent-LargeBeaker.desc }
-    .suffix = Cleaner foam 2
-
+    .suffix = Чистящая пена 2
 ent-FoamPayload1 = { ent-LargeBeaker }
     .desc = { ent-LargeBeaker.desc }
-    .suffix = Metal foam 1
-
+    .suffix = Металлическая пена 1
 ent-FoamPayload2 = { ent-LargeBeaker }
     .desc = { ent-LargeBeaker.desc }
-    .suffix = Metal foam 2
-
-ent-LemonPayload = lemon payload
-    .desc = I'm the man who's gonna burn your house down! With the lemons!
+    .suffix = Металлическая пена 2
+ent-LemonPayload = лимонный заряд
+    .desc = Я тот, кто сожжёт твой дом дотла! Лимонами!

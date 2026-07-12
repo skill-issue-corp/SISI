@@ -1,14 +1,10 @@
-ent-BaseCartridgeLightRifle = cartridge (.30 rifle)
+ent-BaseCartridgeLightRifle = патрон (.30 винтовочный)
     .desc = { ent-BaseCartridge.desc }
-
-ent-CartridgeLightRifle = cartridge (.30 rifle)
-    .desc = A classic intermediate cartridge used by many combat rifles and LMGs. Standard kinetic ammunition is common and useful in most situations.
-
-ent-CartridgeLightRiflePractice = cartridge (.30 rifle practice)
-    .desc = A classic intermediate cartridge used by many combat rifles and LMGs. Practice ammunition fires a chalk projectile that stings a little, but otherwise causes no lasting damage.
-
-ent-CartridgeLightRifleIncendiary = cartridge (.30 rifle incendiary)
-    .desc = A classic intermediate cartridge used by many combat rifles and LMGs. Incendiary ammunition contains a self-igniting compound that sets targets ablaze.
-
-ent-CartridgeLightRifleUranium = cartridge (.30 rifle uranium)
-    .desc = A classic intermediate cartridge used by many combat rifles and LMGs. Uranium ammunition replaces the lead core of the bullet with fissile material, irradiating targets from the inside.
+ent-CartridgeLightRifle = патрон (.30 винтовочный)
+    .desc = { ent-BaseCartridgeLightRifle.desc }
+ent-CartridgeLightRiflePractice = патрон (.30 винтовочный учебный)
+    .desc = { ent-BaseCartridgeLightRifle.desc }
+ent-CartridgeLightRifleIncendiary = патрон (.30 винтовочный зажигательный)
+    .desc = { ent-BaseCartridgeLightRifle.desc }
+ent-CartridgeLightRifleUranium = патрон (.30 винтовочный урановый)
+    .desc = { ent-BaseCartridgeLightRifle.desc }

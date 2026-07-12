@@ -1,46 +1,32 @@
 ent-BaseWeaponLauncher = BaseWeaponLauncher
-    .desc = A rooty tooty point and shooty.
-
-ent-WeaponLauncherChinaLake = china lake
-    .desc = PLOOP.
-
-ent-WeaponLauncherHydra = hydra
-    .desc = PLOOP... FSSSSSS...
-
-ent-WeaponLauncherHydraLethal = { ent-WeaponLauncherHydra }
-    .desc = { ent-WeaponLauncherHydra.desc }
-    .suffix = frag
-
-ent-WeaponLauncherRocket = RPG-7
-    .desc = A modified ancient rocket-propelled grenade launcher.
-
-ent-WeaponLauncherMultipleRocket = multiple rocket launcher
-    .desc = A modified ancient rocket-propelled grenade launcher.
-
-ent-WeaponLauncherPirateCannon = pirate cannon
-    .desc = Kaboom!
-
-ent-WeaponTetherGun = tether gun
-    .desc = Manipulates gravity around objects to fling them at high velocities.
-
-ent-WeaponForceGun = force gun
-    .desc = Manipulates gravity around objects to fling them at high velocities.
-
-ent-WeaponGrapplingGun = grappling gun
+    .desc = Дерзай — налетай, целься и стреляй.
+ent-WeaponLauncherChinaLake = China Lake
+    .desc = БЛУП.
+ent-WeaponLauncherHydra = гидра
+    .desc = БЛУП... ПШШШШШШ
+ent-WeaponLauncherRocket = РПГ-7
+    .desc = Древний ручной реактивный гранатомёт.
+ent-WeaponLauncherMultipleRocket = система залпового пуска
+    .desc = Модифицированный древний ручной реактивный гранатомёт.
+ent-WeaponLauncherPirateCannon = пиратская пушка
+    .desc = Кабум!
+ent-WeaponTetherGun = гравипушка
+    .desc = Манипулирует гравитацией вокруг объектов, чтобы бросать их с высокой скоростью.
+ent-WeaponForceGun = силовая пушка
+    .desc = Манипулирует гравитацией вокруг объектов, чтобы бросать их с высокой скоростью.
+ent-WeaponGrapplingGun = крюк-пушка
     .desc = { ent-BaseItem.desc }
-
-ent-WeaponTetherGunAdmin = tether gun
-    .desc = Manipulates gravity around objects to fling them at high velocities.
-    .suffix = Admeme
-
-ent-WeaponForceGunAdmin = force gun
-    .desc = Manipulates gravity around objects to fling them at high velocities.
-    .suffix = Admeme
-
-ent-WeaponLauncherAdmemeMeteorLarge = meteor launcher
-    .desc = It fires large meteors.
-    .suffix = Admeme
-
-ent-WeaponLauncherAdmemeImmovableRodSlow = immovable rod launcher
-    .desc = It fires slow immovable rods.
-    .suffix = Admeme
+ent-WeaponLauncherSingularityBuster = противосингулярный гранатомёт
+    .desc = Экспериментальный гранатомёт, предназначенный для стрельбы ракетами, способными разрушать сингулярность или теслу.
+ent-WeaponTetherGunAdmin = гравипушка
+    .desc = Манипулирует гравитацией вокруг объектов, чтобы бросать их с высокой скоростью.
+    .suffix = Адмемы
+ent-WeaponForceGunAdmin = силовая пушка
+    .desc = Манипулирует гравитацией вокруг объектов, чтобы бросать их с высокой скоростью.
+    .suffix = Адмемы
+ent-WeaponLauncherAdmemeMeteorLarge = пускатель метеоритов
+    .desc = Стреляет большими метеоритами.
+    .suffix = Адмемы
+ent-WeaponLauncherAdmemeImmovableRodSlow = пускатель неподвижного жезла
+    .desc = Стреляет неподвижными жезлами.
+    .suffix = Адмемы

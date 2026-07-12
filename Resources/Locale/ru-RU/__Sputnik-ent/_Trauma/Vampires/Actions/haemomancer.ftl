@@ -1,20 +1,14 @@
-ent-ActionVampiricClaws = Vampiric Claws
-    .desc = Create undroppable claws of blood. Claws remove bonus blood from the target on hit, a fraction of this is added to your blood total. Use in hand to dispel.
-
-ent-ActionBloodTendrils = Blood Tendrils
-    .desc = Manifest tentacles of blood in a 3x3 grid around a tile you click. After a short delay, these will latch onto anyone on their tile, slowing them massively for 4-6 seconds.
-
-ent-ActionBloodBarrier = Blood Barrier
-    .desc = Manifest a barrier of crystalline blood. select two tiles with a maximum length of 3 will be produced.
-
-ent-ActionBloodPool = Blood Pool
-    .desc = Briefly transform into a sentient blood puddle, increasing movement speed and allowing you to move through anything except walls.
-
-ent-ActionPredatorSenses = Predator Senses
-    .desc = Find out the location of someone on the same sector as you.
-
-ent-ActionBloodEruption = Blood Eruption
-    .desc = Cause any blood within 8 tiles of you to erupt, dealing 50 brute damage to anyone standing on it.
-
-ent-ActionBloodBringersRite = The Blood Bringer's Rite
-    .desc = The Blood Bringer's Rite
+ent-ActionVampiricClaws = Вампирские когти
+    .desc = Создаёт неснимаемые когти из крови. Когти при попадании отнимают у цели дополнительную кровь, часть которой добавляется к вашему запасу крови. Используйте в руке, чтобы развеять.
+ent-ActionBloodTendrils = Кровавые щупальца
+    .desc = Создаёт щупальца крови в сетке 3x3 вокруг выбранной клетки. После небольшой задержки они вцепятся в любого, кто окажется на их клетке, значительно замедляя его на 4-6 секунд.
+ent-ActionBloodBarrier = Кровавый барьер
+    .desc = Создаёт барьер из кристаллизованной крови. Выберите две клетки — барьер будет создан длиной не более 3 клеток.
+ent-ActionBloodPool = Кровавая лужа
+    .desc = Ненадолго превращает вас в разумную лужу крови, увеличивая скорость передвижения и позволяя перемещаться сквозь всё, кроме стен.
+ent-ActionPredatorSenses = Чутьё хищника
+    .desc = Узнайте местоположение человека, находящегося с вами в одном секторе.
+ent-ActionBloodEruption = Кровавое извержение
+    .desc = Заставляет всю кровь в пределах 8 клеток от вас взорваться, нанося 50 урона от ударов всем, кто стоит на ней.
+ent-ActionBloodBringersRite = Ритуал Кровоносца
+    .desc = Ритуал Кровоносца

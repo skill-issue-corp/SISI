@@ -7,23 +7,23 @@ ent-BaseCorporateSocialObjective = { ent-BaseCorporateObjective }
 ent-BaseCorporateStealObjective = { ent-BaseCorporateObjective }
     .desc = { ent-BaseCorporateObjective.desc }
 
-ent-CorporateEscapeShuttleObjective = Escape to centcomm alive and unrestrained.
-    .desc = One of our undercover agents will debrief you when you arrive on the evacuation shuttle. Don't show up in cuffs.
+ent-CorporateEscapeShuttleObjective = сбежать на Центком живым и без ограничений передвижения.
+    .desc = Один из наших агентов под прикрытием проведёт с вами дебрифинг по прибытии на эвакуационный шаттл. Не показывайтесь в наручниках.
 
-ent-CorporateHijackShuttleObjective = Hijack emergency shuttle
-    .desc = The crew has witnessed something they shouldn't have. Leave on the shuttle free and clear of any Nanotrasen crew. Use ANY methods available to you. Make sure no one escapes to spread word of what happened here. Ignore assistance from anyone other than a support agent.
+ent-CorporateHijackShuttleObjective = захватить аварийный шаттл
+    .desc = Экипаж стал свидетелем того, чего не должен был видеть. Покиньте станцию на шаттле, свободном от любого персонала NanoTrasen. Используйте ЛЮБЫЕ доступные вам методы. Убедитесь, что никто не сбежит, чтобы рассказать о случившемся здесь. Игнорируйте помощь от кого-либо, кроме агента поддержки.
 
 ent-CorporateKillRandomPersonObjective = { ent-BaseCorporateObjective }
-    .desc = They are suspected of being a Traitor. Do it however you like, just make sure they don't get off the station.
+    .desc = Их подозревают в причастности к предателям. Сделайте это любым удобным для вас способом, главное — чтобы они не покинули станцию.
 
 ent-CorporateKillRandomHeadObjective = { ent-BaseCorporateObjective }
-    .desc = They've spoken out against us one too many times. Make them disappear. Good luck, agent.
+    .desc = Они слишком много раз высказывались против нас. Сделайте так, чтобы они исчезли. Удачи, агент.
 
 ent-RandomCorporateAliveObjective = { ent-BaseCorporateSocialObjective }
-    .desc = They're of interest to us. Make sure they survive.
+    .desc = Они представляют для нас интерес. Убедитесь, что они выживут.
 
 ent-RandomCorporateProgressObjective = { ent-BaseCorporateSocialObjective }
-    .desc = We've signed a pretty good deal with their employer. Help them out with their work and you'll get a nice bonus.
+    .desc = Мы подписали довольно выгодную сделку с их работодателем. Помогите им с их работой, и вы получите хорошую премию.
 
 ent-CorporateBaseCMOStealObjective = { ent-BaseCorporateStealObjective }
     .desc = { ent-BaseCorporateStealObjective.desc }
@@ -71,10 +71,10 @@ ent-CorporateNukeDiskStealObjective = { ent-CorporateBaseCaptainObjective }
     .desc = { ent-CorporateBaseCaptainObjective.desc }
 
 ent-CorporatePermaKillRandomTraitorObjective = { ent-BaseCorporateObjective }
-    .desc = Do it however you like, as long as they're not breathing anymore.
+    .desc = Сделайте это любым удобным для вас способом, лишь бы они больше не дышали.
 
 ent-CorporatePermaKillRandomPersonObjective = { ent-BaseCorporateObjective }
-    .desc = Do it however you like, as long as they're not breathing anymore.
+    .desc = Сделайте это любым удобным для вас способом, лишь бы они больше не дышали.
 
 ent-CorporateStealSupermatterSliverObjective = { ent-BaseCorporateStealObjective }
     .desc = { ent-BaseCorporateStealObjective.desc }

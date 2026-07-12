@@ -1,23 +1,14 @@
-ent-DiseaseBehaviorVomit = { ent-DiseaseBehaviorVomitNoSpread }
-    .desc = { ent-DiseaseBehaviorVomitNoSpread.desc }
-
-ent-DiseaseBehaviorVomitNoSpread = Vomiting
-    .desc = Makes you periodically vomit.
-
-ent-DiseaseBehaviorFeelUnwell = Feeling unwell
-    .desc = Makes you feel unwell.
-
-ent-DiseaseBehaviorHeadache = Headache
-    .desc = Gives you headaches, which may make working more difficult.
-
-ent-DiseaseBehaviorGravitosisA = Gravitosis A
-    .desc = Rare and exotic disease symptom that causes objects to swirl around you.
-
-ent-DiseaseBehaviorGravitosisB = Gravitosis B
-    .desc = Rare and exotic disease symptom that causes objects to go towards you.
-
-ent-DiseaseBehaviorGravitosisC = Gravitosis C
-    .desc = Rare and exotic disease symptom that causes objects to go away from you.
-
-ent-DiseaseBehaviorOwO = OwOify
-    .desc = Rare and exotic disease symptom that causes you to vocalize like a cat.
+ent-DiseaseBehaviorVomit = Рвота
+    .desc = Заставляет вас периодически блевать.
+ent-DiseaseBehaviorFeelUnwell = Плохое самочувствие
+    .desc = Заставляет вас чувствовать себя плохо.
+ent-DiseaseBehaviorHeadache = Головная боль
+    .desc = Вызывает головные боли, которые могут затруднять работу.
+ent-DiseaseBehaviorGravitosisA = Гравитоз A
+    .desc = Редкий и экзотический симптом болезни, из-за которого предметы начинают кружиться вокруг вас.
+ent-DiseaseBehaviorGravitosisB = Гравитоз Б
+    .desc = Редкий и экзотический симптом болезни, из-за которого предметы притягиваются к вам.
+ent-DiseaseBehaviorGravitosisC = Гравитоз В
+    .desc = Редкий и экзотический симптом болезни, из-за которого предметы отталкиваются от вас.
+ent-DiseaseBehaviorOwO = Няфикация
+    .desc = Редкий и экзотический симптом болезни, из-за которого вы начинаете издавать кошачьи звуки.

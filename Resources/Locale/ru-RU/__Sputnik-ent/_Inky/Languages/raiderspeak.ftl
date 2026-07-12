@@ -1,8 +1,6 @@
 ent-LanguageRaiderSpeak = { ent-BaseLanguageKnowledge }
     .desc = { ent-BaseLanguageKnowledge.desc }
-
-ent-RaiderSpeakTranslator = raiderspeak translator
-    .desc = Translates speech between Raiderspeak and Galactic Common. Like a true raider!
-
-ent-MangoTranslator = foreigner mangoe
-    .desc = MANGO MANGO MANGO
+ent-RaiderSpeakTranslator = переводчик набегаторского языка
+    .desc = Переводит речь между набегаторским языком и galactic common. Как настоящий набегатор!
+ent-MangoTranslator = иностранец манго
+    .desc = МАНГО МАНГО МАНГО

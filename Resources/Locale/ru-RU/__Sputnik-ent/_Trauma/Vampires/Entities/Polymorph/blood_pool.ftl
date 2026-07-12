@@ -1,2 +1,2 @@
-ent-PolymorphBloodPool = Puddle
-    .desc = A puddle of liquid.
+ent-PolymorphBloodPool = Лужа
+    .desc = Лужа жидкости.

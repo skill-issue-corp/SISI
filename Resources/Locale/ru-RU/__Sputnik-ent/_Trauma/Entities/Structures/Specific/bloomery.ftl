@@ -1,29 +1,20 @@
-ent-BloomeryCold = unlit bloomery
-    .desc = Needs to be loaded with charcoal and metal scraps before firing.
-
-ent-BloomeryColdBrass = unlit bloomery
-    .desc = Loaded with brass, just needs firing.
-
-ent-BloomeryColdPlasteel = unlit bloomery
-    .desc = Loaded with plasteel, just needs firing.
-
-ent-BloomeryColdSteel = unlit bloomery
-    .desc = Loaded with steel, just needs firing.
-
-ent-BloomeryLitBrass = lit bloomery
-    .desc = Loaded with brass, give it some time to burn and it will be ready.
-
-ent-BloomeryLitSteel = lit bloomery
-    .desc = Loaded with steel, give it some time to burn and it will be ready.
-
-ent-BloomeryLitPlasteel = lit bloomery
-    .desc = Loaded with plasteel, give it some time to burn and it will be ready.
-
-ent-BloomeryCompletePlasteel = smoking bloomery
-    .desc = Looks ready, smash it open.
-
-ent-BloomeryCompleteSteel = smoking bloomery
-    .desc = Looks ready, smash it open.
-
-ent-BloomeryCompleteBrass = smoking bloomery
-    .desc = Looks ready, smash it open.
+ent-BloomeryCold = потухший сыродутный горн
+    .desc = Перед розжигом нужно загрузить углём и металлическим ломом.
+ent-BloomeryColdBrass = потухший сыродутный горн
+    .desc = Загружен латунью, осталось только разжечь.
+ent-BloomeryColdPlasteel = потухший сыродутный горн
+    .desc = Загружен пласталью, осталось только разжечь.
+ent-BloomeryColdSteel = потухший сыродутный горн
+    .desc = Загружен сталью, осталось только разжечь.
+ent-BloomeryLitBrass = разожжённый сыродутный горн
+    .desc = Загружен латунью, дайте ему немного погореть, и он будет готов.
+ent-BloomeryLitSteel = разожжённый сыродутный горн
+    .desc = Загружен сталью, дайте ему немного погореть, и он будет готов.
+ent-BloomeryLitPlasteel = разожжённый сыродутный горн
+    .desc = Загружен пласталью, дайте ему немного погореть, и он будет готов.
+ent-BloomeryCompletePlasteel = дымящийся сыродутный горн
+    .desc = Выглядит готовым, разбейте его.
+ent-BloomeryCompleteSteel = дымящийся сыродутный горн
+    .desc = Выглядит готовым, разбейте его.
+ent-BloomeryCompleteBrass = дымящийся сыродутный горн
+    .desc = Выглядит готовым, разбейте его.

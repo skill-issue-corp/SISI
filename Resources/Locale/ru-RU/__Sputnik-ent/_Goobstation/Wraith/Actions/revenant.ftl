@@ -1,14 +1,10 @@
-ent-ActionRevenantPush = Push
-    .desc = Pushes a target object or mob away from the revenant.
-
-ent-ActionMassCommand = Mass Command
-    .desc = Launch an assortment of nearby objects at a target location.
-
-ent-ActionShockwave = Shockwave
-    .desc = Emit a shockwave, breaking nearby lights and walls, and stunning nearby humans for a short time.
-
-ent-ActionTouchOfEvil = Touch of Evil
-    .desc = Empower your hand-to-hand attacks for a short time, causing additional damage and knockdown.
-
-ent-ActionCrush = Crush
-    .desc = Channel your telekinetic abilities at a human target, causing damage as long as you stand still. Casting any other spell will interrupt this!
+ent-ActionRevenantPush = Толчок
+    .desc = Отталкивает цель от ревенанта.
+ent-ActionMassCommand = Массированная атака
+    .desc = Запускает множество близлежащих предметов в выбранную точку.
+ent-ActionShockwave = Ударная волна
+    .desc = Испускает ударную волну, разрушая ближайшие источники света и стены, а также на короткое время оглушая людей поблизости.
+ent-ActionTouchOfEvil = Зловещее касание
+    .desc = На короткое время усиливает ваши атаки в ближнем бою, нанося дополнительный урон и сбивая цель с ног.
+ent-ActionCrush = Сокрушение
+    .desc = Направьте свои телекинетические способности на гуманоидную цель, нанося урон, пока вы остаетесь неподвижны. Применение любого другого заклинания прервёт эффект!

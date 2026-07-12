@@ -1,3 +1,3 @@
-ent-EnergyChemDispenser = energy chemical dispenser
-    .desc = A bluespace Chemical Dispenser that uses station energy to synthesize Reagents. The future is here and now.
-    .suffix = energy
+ent-EnergyChemDispenser = энергетический раздатчик химикатов
+    .desc = Блюспейс раздатчик химикатов, использующий энергию для синтеза реагентов. Будущее уже наступило.
+    .suffix = Энергетический

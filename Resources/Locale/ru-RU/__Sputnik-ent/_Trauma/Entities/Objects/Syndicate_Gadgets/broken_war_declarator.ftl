@@ -1,6 +1,5 @@
-ent-NukeOpsDeclarationOfWarBroken = broken war declarator
-    .desc = It was broken by the last dozen commanders who pressed it too hard and too fast.
-
+ent-NukeOpsDeclarationOfWarBroken = сломанный декларатор войны
+    .desc = Он был сломан последней дюжиной командиров, которые нажимали на него слишком сильно и слишком быстро.
 ent-ToolboxSyndicateFilledWar = { ent-ToolboxSyndicate }
     .desc = { ent-ToolboxSyndicate.desc }
-    .suffix = Filled, WAR
+    .suffix = Заполнен, ВОЙНА

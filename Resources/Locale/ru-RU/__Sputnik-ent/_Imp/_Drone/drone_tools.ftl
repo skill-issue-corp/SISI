@@ -1,23 +1,23 @@
 ent-DroneSatchelUnremovable = { ent-ClothingBackpackSatchelDrone }
+    .suffix = Неснимаемый
     .desc = { ent-ClothingBackpackSatchelDrone.desc }
-    .suffix = Unremoveable
-
+ent-trayScannerUnremoveable = { ent-trayScanner }
+    .suffix = Неснимаемый
+    .desc = { ent-trayScanner.desc }
 ent-OmnitoolUnremoveable = { ent-Omnitool }
+    .suffix = Неснимаемый
     .desc = { ent-Omnitool.desc }
-    .suffix = Unremoveable
-
 ent-WelderExperimentalUnremoveable = { ent-WelderExperimental }
+    .suffix = Неснимаемый
     .desc = { ent-WelderExperimental.desc }
-    .suffix = Unremoveable
-
 ent-RCDRechargingUnremoveable = { ent-RCDRecharging }
+    .suffix = Неснимаемый
     .desc = { ent-RCDRecharging.desc }
-    .suffix = Unremovable
-
 ent-NetworkConfiguratorUnremoveable = { ent-NetworkConfigurator }
+    .suffix = Неснимаемый
     .desc = { ent-NetworkConfigurator.desc }
-    .suffix = Unremovable
-
 ent-PinpointerStationUnremoveable = { ent-PinpointerStationGoob }
-    .desc = You are the station. Find yourself. Press E to activate.
-    .suffix = Unremoveable
+    .desc = Вы - станция. Найдите себя. Нажмите E для активации.
+    .suffix = Неснимаемый
+ent-ActionDroneOpenMap = Открыть карту
+    .desc = Найдите себя.

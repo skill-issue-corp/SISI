@@ -1,2 +1,2 @@
-ent-DiseaseBehaviorHeartAttack = Heart Attack
-    .desc = Buildup of TNF-ε instructs the myocardial cells to die, causing a heart attack.
+ent-DiseaseBehaviorHeartAttack = сердечный приступ
+    .desc = Накопление TNF-ε заставляет клетки миокарда отмирать, вызывая сердечный приступ.

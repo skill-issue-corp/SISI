@@ -1,78 +1,55 @@
 ent-BaseBeaker = { ent-SolutionBeaker }
     .desc = { ent-SolutionBeaker.desc }
-
 ent-BaseBeakerMetallic = { ent-SolutionBeaker }
     .desc = { ent-SolutionBeaker.desc }
-
-ent-Beaker = beaker
-    .desc = Used to contain a moderate amount of chemicals and solutions.
-
+ent-Beaker = мензурка
+    .desc = Используется для хранения умеренного количества химикатов и растворов.
 ent-CryoxadoneBeakerSmall = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = cryoxadone
-
+    .suffix = Криоксадон
 ent-BeakerSmallArith = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = arithrazine
-
+    .suffix = Аритразин
 ent-BeakerSmallSigy = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = sigynate
-
+    .suffix = Сигинат
 ent-BeakerSmallPhal = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = phalanximine
-
+    .suffix = Фаланксимин
 ent-BeakerSmallDiph = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = diphenhydramine
-
+    .suffix = Дифенгидрамин
 ent-BeakerSmallBruiz = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = bruizine
-
+    .suffix = Бруизин
 ent-BeakerSmallLace = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = lacerinol
-
-ent-LargeBeaker = large beaker
-    .desc = Used to contain a large amount of chemicals or solutions.
-
-ent-CryostasisBeaker = cryostasis beaker
-    .desc = Used to contain chemicals or solutions without reactions.
-
-ent-BluespaceBeaker = bluespace beaker
-    .desc = Powered by experimental bluespace technology.
-
-ent-Dropper = dropper
-    .desc = Used to transfer small amounts of chemical solution between containers.
-
-ent-BorgDropper = hydraulic pipette
-    .desc = State-of-the-art hydraulic dropper built for cyborgs.
-
-ent-BaseSyringe = syringe
-    .desc = Used to draw blood samples from mobs, or to inject them with reagents.
-
+    .suffix = Ласеринол
+ent-LargeBeaker = большая мензурка
+    .desc = Используется для хранения большого количества химикатов или растворов.
+ent-CryostasisBeaker = криостазисная мензурка
+    .desc = Используется для хранения химикатов или растворов без возникновения реакций.
+ent-BluespaceBeaker = бluspace-мензурка
+    .desc = Работает на экспериментальной технологии блюспейса.
+ent-Dropper = пипетка
+    .desc = Используется для переноса небольшого количества химического раствора между контейнерами.
+ent-BorgDropper = гидравлическая пипетка
+    .desc = Современная гидравлическая пипетка, созданная для киборгов.
+ent-BaseSyringe = шприц
+    .desc = Используется для забора образцов крови у существ или для введения им реагентов.
 ent-Syringe = { ent-BaseSyringe }
     .desc = { ent-BaseSyringe.desc }
-
-ent-MiniSyringe = mini syringe
-    .desc = A regular syringe, reshaped to fit inside of a gun.
-
+ent-MiniSyringe = мини-шприц
+    .desc = Обычный шприц, переработанный так, чтобы помещаться внутрь оружия.
 ent-PrefilledSyringe = { ent-BaseSyringe }
     .desc = { ent-BaseSyringe.desc }
-
-ent-SyringeBluespace = bluespace syringe
-    .desc = Injecting with advanced bluespace technology.
-
-ent-SyringeCryostasis = cryostasis syringe
-    .desc = An improved syringe used to contain chemicals or solutions without reactions.
-
-ent-Pill = pill
-    .desc = It's not a suppository.
-
+ent-SyringeBluespace = блюспейс-шприц
+    .desc = Вводит вещества с помощью передовой технологии блюспейса.
+ent-SyringeCryostasis = криостазисный шприц
+    .desc = Улучшенный шприц, используемый для хранения химикатов или растворов без возникновения реакций.
+ent-Pill = таблетка
+    .desc = Это не суппозиторий.
 ent-SolutionPill = { ent-SolutionFood }
     .desc = { ent-SolutionFood.desc }
-
-ent-PillCanister = pill canister
-    .desc = Holds up to 15 pills.
+ent-PillCanister = контейнер для таблеток
+    .desc = Вмещает до 15 таблеток.

@@ -1,2 +1,2 @@
-ent-PinpointerCommand = command pinpointer
-    .desc = A handheld tracking device that tracks the nearest command member.
+ent-PinpointerCommand = пинпоинтер командования
+    .desc = Портативное отслеживающее устройство, отслеживающее ближайшего члена командования.

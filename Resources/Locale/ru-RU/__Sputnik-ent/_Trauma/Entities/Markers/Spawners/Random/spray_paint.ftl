@@ -1,2 +1,2 @@
-ent-MarkerSpawnerSprayPaint = spray paint spawner
+ent-MarkerSpawnerSprayPaint = спавнер баллончика с краской
     .desc = { ent-MarkerBase.desc }

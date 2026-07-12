@@ -1,10 +1,8 @@
-ent-ExecutiveBriefcaseEmpty = Executive briefcase
-    .desc = A standard-issue executive briefcase for secure NanoNeT access.
-    .suffix = Empty
-
+ent-ExecutiveBriefcaseEmpty = дипломатический чемодан
+    .desc = Стандартный деловой чемодан для безопасного доступа к NanoNeT.
+    .suffix = Пустой
 ent-ExecutiveBriefcaseDebug = { ent-ExecutiveBriefcaseEmpty }
+    .suffix = DEBUG
     .desc = { ent-ExecutiveBriefcaseEmpty.desc }
-    .suffix = Debug
-
 ent-StorePresetNTR = { "" }
     .desc = { "" }

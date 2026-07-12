@@ -1,59 +1,40 @@
-ent-AreaCryosleep = cryosleep
+ent-AreaCryosleep = криосон
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaDorms = dorms
+ent-AreaDorms = жилой отсек
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaDisposals = disposals
+ent-AreaDisposals = утилизация
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaEscapePods = escape pods
+ent-AreaEscapePods = спасательные капсулы
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaEvacHall = evac hall
+ent-AreaEvacHall = эвакуационный зал
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaEvacLounge = evac lounge
+ent-AreaEvacLounge = эвакуационная гостиная
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaFitness = fitness
+ent-AreaFitness = фитнес
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaGarden = garden
+ent-AreaGarden = сад
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaHallway = hallway
+ent-AreaHallway = коридор
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaHallwayCentral = central hallway
+ent-AreaHallwayCentral = центральный коридор
     .desc = { ent-AreaHallway.desc }
-
-ent-AreaLaserTag = laser tag
+ent-AreaLaserTag = лазертаг
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaLaundry = laundry room
+ent-AreaLaundry = прачечная
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaLounge = lounge
+ent-AreaLounge = гостиная
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaPool = pool
+ent-AreaPool = бассейн
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaRecRoom = rec room
+ent-AreaRecRoom = комната отдыха
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaRestroom = restroom
+ent-AreaRestroom = уборная
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaSauna = sauna
+ent-AreaSauna = сауна
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaShower = shower
+ent-AreaShower = душевая
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaToilet = toilet
+ent-AreaToilet = туалет
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaVacantRoom = vacant room
+ent-AreaVacantRoom = пустующая комната
     .desc = { ent-BaseAreaStation.desc }

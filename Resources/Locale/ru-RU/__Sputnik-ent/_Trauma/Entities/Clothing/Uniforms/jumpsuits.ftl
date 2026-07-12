@@ -1,20 +1,14 @@
-ent-ClothingUniformJumpsuitMilitaryTurtleneckRev = military jumpsuit
-    .desc = A sturdy and protective jumpsuit.
-
-ent-ClothingUniformJumpsuitOliveDrabs = olive drabs
-    .desc = Standard-issue military uniform in a plain olive pattern. Lacks a good camo index.
-
-ent-ClothingUniformJumpsuitTigerStripes = tiger stripes
-    .desc = A military uniform used in special covert operations. Boons a good camo index.
-
-ent-ClothingUniformJumpsuitDisgusting = disgusting clothing
-    .desc = It smells almost as bad as the person wearing it.
-
-ent-ClothingUniformJumpsuitWaiter = waiter outfit
-    .desc = Commonplace in the food service industry.
-
-ent-ClothingUniformSergeantUniform = sergeant's uniform
-    .desc = The uniform of a highly skilled member of security. They're the guiding light for this station's safety.
-
-ent-ClothingUniformSergeantSkirt = sergeant's jumpskirt
-    .desc = The skirted uniform of a highly skilled member of security. They're the guiding light for this station's safety.
+ent-ClothingUniformJumpsuitMilitaryTurtleneckRev = военный комбинезон
+    .desc = Прочный и защищающий комбинезон.
+ent-ClothingUniformJumpsuitOliveDrabs = оливковая форма
+    .desc = Стандартная военная форма однотонного оливкового цвета. Не обладает хорошим индексом камуфляжа.
+ent-ClothingUniformJumpsuitTigerStripes = тигровые полосы
+    .desc = Военная форма, используемая в специальных тайных операциях. Даёт хороший индекс камуфляжа.
+ent-ClothingUniformJumpsuitDisgusting = отвратительная одежда
+    .desc = Пахнет почти так же плохо, как и тот, кто её носит.
+ent-ClothingUniformJumpsuitWaiter = костюм официанта
+    .desc = Обычное явление в сфере обслуживания.
+ent-ClothingUniformSergeantUniform = униформа сержанта
+    .desc = Униформа высококвалифицированного сотрудника службы безопасности. Они — путеводный маяк безопасности этой станции.
+ent-ClothingUniformSergeantSkirt = юбочная униформа сержанта
+    .desc = Юбочная униформа высококвалифицированного сотрудника службы безопасности. Они — путеводный маяк безопасности этой станции.

@@ -1,2 +1,2 @@
-ent-CrateRoboticsSecure = secure robotics crate
+ent-CrateRoboticsSecure = защищённый ящик робототехники
     .desc = { ent-CrateScienceSecure.desc }

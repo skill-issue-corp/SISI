@@ -1,26 +1,10 @@
-ent-XenoExtractChronofield = sepia chronofield
+ent-XenoExtractChronofield = сепия хронополе
     .desc = { ent-Chronofield.desc }
-
-ent-XenoExtractChronofieldSpawner = sepia chronofield spawner
+ent-XenoGooWall = желатиновый нарост
+    .desc = Это вполне может быть та самая слизь Discount Dan's.
+ent-RHostileMobSpawner = спавнер случайный враждебное существо
     .desc = { ent-MarkerBase.desc }
-
-ent-XenoGooWall = gelatinous growth
-    .desc = This could very well be the blob from space LIDL.
-
-ent-RHostileMobSpawner = random hostile mob spawner
+ent-RNeutralMobSpawner = спавнер случайный нейтральное существо
     .desc = { ent-MarkerBase.desc }
-
-ent-RandomHostileMobSpawner = random hostile mob spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-RNeutralMobSpawner = random neutral mob spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-RandomNeutralMobSpawner = random neutral mob spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-RPassiveMobSpawner = random passive mob spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-RandomPassiveMobSpawner = random passive mob spawner
+ent-RPassiveMobSpawner = спавнер случайный мирное существо
     .desc = { ent-MarkerBase.desc }

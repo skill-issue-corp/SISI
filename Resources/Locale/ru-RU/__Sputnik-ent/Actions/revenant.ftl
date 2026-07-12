@@ -1,11 +1,8 @@
-ent-ActionRevenantShop = Shop
-    .desc = Opens the ability shop.
-
-ent-ActionRevenantDefile = Defile
-    .desc = Breaks windows, tiles, and opens nearby containers. Costs 30 Essence.
-
-ent-ActionRevenantOverloadLights = Overload Lights
-    .desc = Summons lightning from nearby lights. Costs 40 Essence.
-
-ent-ActionRevenantMalfunction = Malfunction
-    .desc = Causes nearby mechanisms to malfunction. Costs 60 Essence.
+ent-ActionRevenantShop = Магазин
+    .desc = Открывает магазин способностей.
+ent-ActionRevenantDefile = Осквернение
+    .desc = Цена 30 эссенций.
+ent-ActionRevenantOverloadLights = Перегрузка ламп
+    .desc = Цена 40 эссенций.
+ent-ActionRevenantMalfunction = Сбой
+    .desc = Цена 60 эссенций.

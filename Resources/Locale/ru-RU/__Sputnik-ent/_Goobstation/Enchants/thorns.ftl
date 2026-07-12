@@ -1,2 +1,2 @@
-ent-EnchantThorns = Thorns
+ent-EnchantThorns = Шипы
     .desc = { ent-BaseEnchant.desc }

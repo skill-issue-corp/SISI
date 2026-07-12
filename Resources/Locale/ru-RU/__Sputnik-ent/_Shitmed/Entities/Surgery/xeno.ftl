@@ -1,83 +1,56 @@
 ent-BaseSurgeryXeno = { ent-SurgeryBase }
     .desc = { ent-SurgeryBase.desc }
-
 ent-BaseSurgeryXenoCommon = { ent-BaseSurgeryXeno }
     .desc = { ent-BaseSurgeryXeno.desc }
-
-ent-SurgeryXenoInciseExoskeleton = Incise Exoskeleton
+ent-SurgeryXenoInciseExoskeleton = Рассечь экзоскелет
     .desc = { ent-BaseSurgeryXenoCommon.desc }
-
-ent-SurgeryXenoResealExoskeleton = Reseal Exoskeleton
+ent-SurgeryXenoResealExoskeleton = Закрыть экзоскелет
     .desc = { ent-BaseSurgeryXenoCommon.desc }
-
-ent-SurgeryXenoExposeEndoskeleton = Expose Endoskeleton
+ent-SurgeryXenoExposeEndoskeleton = Обнажить эндоскелет
     .desc = { ent-BaseSurgeryXenoCommon.desc }
-
-ent-SurgeryXenoResealEndoskeleton = Repair Endoskeleton
+ent-SurgeryXenoResealEndoskeleton = Восстановить эндоскелет
     .desc = { ent-BaseSurgeryXenoCommon.desc }
-
-ent-SurgeryXenoRemovePart = Amputate Xeno Limb
+ent-SurgeryXenoRemovePart = { ent-BaseSurgeryXeno }
     .desc = { ent-BaseSurgeryXeno.desc }
-
 ent-BaseSurgeryXenoInsertOrgan = { ent-BaseSurgeryXeno }
     .desc = { ent-BaseSurgeryXeno.desc }
-
-ent-SurgeryXenoInsertEyes = Insert Xeno Eyes
+ent-SurgeryXenoInsertEyes = Вставить глаза ксеноморфа
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
-
-ent-SurgeryXenoInsertLiver = Insert Xeno Liver
+ent-SurgeryXenoInsertLiver = Вставить печень ксеноморфа
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
-
-ent-SurgeryXenoInsertStomach = Insert Xeno Stomach
+ent-SurgeryXenoInsertStomach = Вставить желудок ксеноморфа
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
-
-ent-SurgeryXenoInsertHiveNode = Insert Hive Node
+ent-SurgeryXenoInsertHiveNode = Вставить узел улья
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
-
-ent-SurgeryXenoInsertResinSpinner = Insert Resin Spinner
+ent-SurgeryXenoInsertResinSpinner = Вставить cмоляной прядильщик
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
-
-ent-SurgeryXenoInsertNeurotoxinGland = Insert Neurotoxin Gland
+ent-SurgeryXenoInsertNeurotoxinGland = Вставить нейротоксиновую железу
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
-
-ent-SurgeryXenoInsertAcidGland = Insert Acid Gland
+ent-SurgeryXenoInsertAcidGland = Вставить кислотную железу
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
-
-ent-SurgeryXenoInsertPlasmaVessel = Insert Plasma Vessel
+ent-SurgeryXenoInsertPlasmaVessel = Вставить сосуд с плазмой
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
-
-ent-SurgeryXenoInsertEggSack = Insert Egg Sack
+ent-SurgeryXenoInsertEggSack = Вставить мешок для яиц
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
-
 ent-BaseSurgeryXenoRemoveOrgan = { ent-BaseSurgeryXeno }
     .desc = { ent-BaseSurgeryXeno.desc }
-
-ent-SurgeryXenoRemoveEyes = Remove Xeno Eyes
+ent-SurgeryXenoRemoveEyes = Удалить глаза ксеноморфа
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
-
-ent-SurgeryXenoRemoveLiver = Remove Xeno Liver
+ent-SurgeryXenoRemoveLiver = Удалить печень ксеноморфа
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
-
-ent-SurgeryXenoRemoveStomach = Remove Xeno Stomach
+ent-SurgeryXenoRemoveStomach = Удалить желудок ксеноморфа
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
-
-ent-SurgeryXenoRemoveHiveNode = Remove Hive Node
+ent-SurgeryXenoRemoveHiveNode = Удалить узел улья
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
-
-ent-SurgeryXenoRemoveResinSpinner = Remove Resin Spinner
+ent-SurgeryXenoRemoveResinSpinner = Удалить cмоляной прядильщик
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
-
-ent-SurgeryXenoRemoveNeurotoxinGland = Remove Neurotoxin Gland
+ent-SurgeryXenoRemoveNeurotoxinGland = Удалить нейротоксиновую железу
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
-
-ent-SurgeryXenoRemoveAcidGland = Remove Acid Gland
+ent-SurgeryXenoRemoveAcidGland = Удалить кислотную железу
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
-
-ent-SurgeryXenoRemovePlasmaVessel = Remove Plasma Vessel
+ent-SurgeryXenoRemovePlasmaVessel = Удалить сосуд с плазмой
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
-
-ent-SurgeryXenoRemoveEggSack = Remove Egg Sack
+ent-SurgeryXenoRemoveEggSack = Удалить мешок для яиц
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
-
-ent-SurgeryXenoTakeSample = Take tissue sample
+ent-SurgeryXenoTakeSample = Взять образец ткани
     .desc = { ent-SurgeryBase.desc }

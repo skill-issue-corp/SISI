@@ -1,18 +1,13 @@
-ent-BaseMagazineRifle = magazine (.20 rifle)
+ent-BaseMagazineRifle = магазин (.20 винтовочные)
     .desc = { ent-BaseItem.desc }
-
-ent-MagazineRifle = magazine (.20 rifle)
-    .desc = 25-round double stack magazine for combat rifles. Intended to hold general-purpose kinetic ammunition.
-
-ent-MagazineRifleEmpty = magazine (.20 rifle any)
-    .desc = 25-round double stack magazine for combat rifles.
-    .suffix = empty
-
-ent-MagazineRifleIncendiary = magazine (.20 rifle incendiary)
-    .desc = 25-round double stack magazine for combat rifles. Intended to hold self-igniting incendiary ammunition.
-
-ent-MagazineRiflePractice = magazine (.20 rifle practice)
-    .desc = 25-round double stack magazine for combat rifles. Intended to hold harmless practice ammunition.
-
-ent-MagazineRifleUranium = magazine (.20 rifle uranium)
-    .desc = 25-round double stack magazine for combat rifles. Intended to hold exotic uranium-core ammunition.
+ent-MagazineRifle = магазин (.20 винтовочные)
+    .desc = { ent-BaseMagazineRifle.desc }
+ent-MagazineRifleEmpty = магазин (.20 винтовочные любые)
+    .suffix = Пустой
+    .desc = { ent-MagazineRifle.desc }
+ent-MagazineRifleIncendiary = магазин (.20 винтовочные зажигательные)
+    .desc = { ent-MagazineRifle.desc }
+ent-MagazineRiflePractice = магазин (.20 винтовочные учебные)
+    .desc = { ent-BaseMagazineRifle.desc }
+ent-MagazineRifleUranium = магазин (.20 винтовочные урановые)
+    .desc = { ent-BaseMagazineRifle.desc }

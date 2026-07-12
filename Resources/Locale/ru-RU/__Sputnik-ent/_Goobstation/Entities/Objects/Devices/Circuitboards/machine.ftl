@@ -1,29 +1,33 @@
-ent-RoboticArmCircuitboard = robotic arm machine board
-    .desc = A machine printed circuit board for a robotic arm.
-
-ent-ConstructorCircuitboard = constructor machine board
-    .desc = A machine printed circuit board for a constructor.
-
-ent-StorageBinCircuitboard = storage bin machine board
-    .desc = A machine printed circuit board for a storage bin.
-
-ent-InteractorCircuitboard = interactor machine board
-    .desc = A machine printed circuit board for an interactor.
-
-ent-VinylPlayerCircuitboard = vinyl player machine board
-    .desc = A machine printed circuit board for a vinyl player.
-
-ent-TapeDeckCircuitboard = tape deck machine board
-    .desc = A machine printed circuit board for a tape deck.
-
-ent-StationRadioServerCircuitboard = station radio server machine board
-    .desc = A machine printed circuit board for a station radio server.
-
-ent-StationRadioRigCircuitboard = station radio rig machine board
-    .desc = A machine printed circuit board for a station radio rig.
-
-ent-StationRadioCircuitboard = station radio machine board
-    .desc = A machine printed circuit board for a station radio receiver.
-
-ent-VirologyServerMachineCircuitboard = virology server machine board
-    .desc = A machine printed circuit board for a virology server.
+ent-MaterialSiloCircuitboard = сило (машинная плата)
+    .desc = Печатная плата сило.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-RoboticArmCircuitboard = робо-рука (машинная плата)
+    .desc = Печатная плата робо-руки.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-ConstructorCircuitboard = конструктор (машинная плата)
+    .desc = Печатная плата конструктора.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-StorageBinCircuitboard = контейнер для хранения (машинная плата)
+    .desc = Печатная плата контейнера для хранения.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-VinylPlayerCircuitboard = виниловый проигрыватель (машинная плата)
+    .desc = Печатная плата винилового проигрывателя.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-TapeDeckCircuitboard = магнитофон (машинная плата)
+    .desc = Печатная плата магнитофона.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-StationRadioServerCircuitboard = радиосервер (машинная плата)
+    .desc = Печатная плата радиосервера.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-StationRadioRigCircuitboard = радиоустановка (машинная плата)
+    .desc = Печатная плата радиоустановки.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-StationRadioCircuitboard = станционное радио (машинная плата)
+    .desc = Печатная плата станционного радио.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-VirologyServerMachineCircuitboard = сервер вирусологии (машинная плата)
+    .desc = Печатная плата сервера вирусологии.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-InteractorCircuitboard = исполнитель (машинная плата)
+    .desc = Печатная плата исполнителя.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }

@@ -1,5 +1,4 @@
 ent-ClothingHeadHatArmoredBeret = { "" }
     .desc = { "" }
-
-ent-ClothingHeadHatBeretSergeant = sergeant beret
-    .desc = The beret of a security member who has seen more than anyone. Make sure you salute them, they're probably the reason why you're alive today.
+ent-ClothingHeadHatBeretSergeant = берет сержанта
+    .desc = Берет сотрудника службы безопасности, повидавшего больше, чем кто-либо. Обязательно отдайте ему честь — вероятно, именно благодаря ему вы сегодня живы.

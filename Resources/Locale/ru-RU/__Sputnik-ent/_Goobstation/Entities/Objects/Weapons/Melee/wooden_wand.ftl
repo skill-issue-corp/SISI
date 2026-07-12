@@ -1,2 +1,2 @@
-ent-WeaponWoodenWand = wooden wand
-    .desc = Handcrafted wooden wand with a anomaly core.
+ent-WeaponWoodenWand = деревянная палочка
+    .desc = Созданная своими руками деревянная палочка с аномальным ядром.

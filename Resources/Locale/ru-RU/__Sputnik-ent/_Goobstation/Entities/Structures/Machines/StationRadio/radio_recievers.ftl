@@ -1,2 +1,2 @@
-ent-StationRadioReceiver = station radio
-    .desc = Listen to the top hits of your stations local radio.
+ent-StationRadioReceiver = станционное радио
+    .desc = Слушайте лучшие хиты вашей станционной радиоволны! Ну или рекламу...

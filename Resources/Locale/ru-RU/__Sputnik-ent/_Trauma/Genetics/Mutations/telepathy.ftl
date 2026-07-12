@@ -1,5 +1,4 @@
-ent-MutationTelepathy = Telepathy
-    .desc = A rare mutation that allows the user to telepathically communicate to others.
-
-ent-ActionMutationTelepathy = Telepathy
-    .desc = Telepathically transmits a message to the target.
+ent-MutationTelepathy = Телепатия
+    .desc = Редкая мутация, позволяющая пользователю телепатически общаться с другими.
+ent-ActionMutationTelepathy = Телепатия
+    .desc = Телепатически передаёт сообщение цели.

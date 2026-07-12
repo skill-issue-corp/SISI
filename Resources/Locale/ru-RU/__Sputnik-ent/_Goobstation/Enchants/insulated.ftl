@@ -1,5 +1,4 @@
-ent-EnchantInsulated = Insulated
+ent-EnchantInsulated = Изолированный
     .desc = { ent-BaseEnchant.desc }
-
-ent-EnchantBudgetInsulated = Insulated?
+ent-EnchantBudgetInsulated = Изолированный?
     .desc = { ent-EnchantInsulated.desc }

@@ -1,42 +1,43 @@
 ent-AirlockCentralCommandCommandLocked = { ent-AirlockCentralCommand }
+    .suffix = ЦК, Закрыт
     .desc = { ent-AirlockCentralCommand.desc }
-    .suffix = Command, Locked
-
 ent-AirlockCentralCommandCommandGlassLocked = { ent-AirlockCentralCommandGlass }
+    .suffix = ЦК, Закрыт
     .desc = { ent-AirlockCentralCommandGlass.desc }
-    .suffix = Command, Locked
-
 ent-AirlockCommandCommandLocked = { ent-AirlockCommand }
+    .suffix = ЦК Капитан, Закрыт
     .desc = { ent-AirlockCommand.desc }
-    .suffix = CentCommCap, Locked
-
 ent-AirlockCommandCommandGlassLocked = { ent-AirlockCommandGlass }
+    .suffix = ЦК Капитан, Закрыт
     .desc = { ent-AirlockCommandGlass.desc }
-    .suffix = CentCommCap, Locked
-
-ent-AirlockNanotrasenRepresentativeCommandLocked = { ent-AirlockCentralCommand }
+ent-AirlockBlueshieldOfficerCommandLocked = { ent-AirlockCentralCommand }
+    .suffix = Синий Щит, Закрыт
     .desc = { ent-AirlockCentralCommand.desc }
-    .suffix = NTRep, Locked
-
-ent-AirlockNanotrasenRepresentativeCommandGlassLocked = { ent-AirlockCentralCommandGlass }
+ent-AirlockBlueshieldOfficerCommandGlassLocked = { ent-AirlockCentralCommandGlass }
+    .suffix = Синий Щит, Закрыт
     .desc = { ent-AirlockCentralCommandGlass.desc }
-    .suffix = NTRep, Locked
-
+ent-AirlockNanotrasenRepresentativeCommandLocked = { ent-AirlockCentralCommand }
+    .suffix = Представитель NanoTrasen, Закрыт
+    .desc = { ent-AirlockCentralCommand.desc }
+ent-AirlockNanotrasenRepresentativeCommandGlassLocked = { ent-AirlockCentralCommandGlass }
+    .suffix = Представитель NanoTrasen, Закрыт
+    .desc = { ent-AirlockCentralCommandGlass.desc }
 ent-AirlockAllServiceLocked = { ent-AirlockServiceLocked }
+    .suffix = Весь сервис, Закрыт
     .desc = { ent-AirlockServiceLocked.desc }
-    .suffix = All Service, Locked
-
 ent-AirlockAllServiceGlassLocked = { ent-AirlockServiceGlassLocked }
+    .suffix = Весь сервис, Закрыт
     .desc = { ent-AirlockServiceGlassLocked.desc }
-    .suffix = All Service, Locked
-
+# SIS-Start
+# ent-AirlockRoboticsLocked = { ent-AirlockRobotics }
+#     .suffix = Робототехник, Закрыт
+#     .desc = { ent-AirlockRobotics.desc }
+# SIS-End
 ent-AirlockJournalismLocked = { ent-AirlockServiceLocked }
+    .suffix = Журнализм, Закрыт
     .desc = { ent-AirlockServiceLocked.desc }
-    .suffix = Journalism, Locked
-
 ent-AirlockJournalismGlassLocked = { ent-AirlockServiceGlassLocked }
+    .suffix = Журнализм, Закрыт
     .desc = { ent-AirlockServiceGlassLocked.desc }
-    .suffix = Journalism, Locked
-
 ent-AirlockMaintJournalismLocked = { ent-AirlockJournalismLocked }
     .desc = { ent-AirlockJournalismLocked.desc }

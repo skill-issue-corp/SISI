@@ -1,3 +1,3 @@
 ent-APCEmpProof = { ent-APCHighCapacity }
     .desc = { ent-APCHighCapacity.desc }
-    .suffix = EMP Proof
+    .suffix = Защита от ЭМИ

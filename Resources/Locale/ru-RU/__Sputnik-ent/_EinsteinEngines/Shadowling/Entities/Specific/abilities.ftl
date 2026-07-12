@@ -1,17 +1,12 @@
-ent-ShadowlingAbilitiesPostHatch = shadowling post-hatch abilities
-    .desc = Entity that contains all actions that are assigned after a shadowling hatched.
-
-ent-ShadowlingAbilitiesObtainable = shadowling obtainable abilities
-    .desc = Entity that contains all actions that are obtainable for a shadowling through crew conversion.
-
-ent-ShadowlingAbilitiesAscension = shadowling ascension abilities
-    .desc = Entity that contains all actions that are obtainable for a shadowling through ascension.
-
-ent-NightmareAbilities = shadowling ascension abilities
-    .desc = Entity that contains all components for Nightmares.
-
-ent-LesserShadowlingAbilities = lesser shadowling abilities
-    .desc = Entity that contains all components for Lesser Shadowlings.
-
-ent-ThrallAbilities = thrall abilities
-    .desc = Entity that contains all components for Thralls after Hypnosis.
+ent-ShadowlingAbilitiesPostHatch = способности тенеморфа после вылупления
+    .desc = Сущность, содержащая все действия, назначаемые тенеморфу после вылупления.
+ent-ShadowlingAbilitiesObtainable = доступные способности тенеморфа
+    .desc = Сущность, содержащая все действия, которые тенеморф может получить через обращение членов экипажа.
+ent-ShadowlingAbilitiesAscension = способности тенеморфа при вознесении
+    .desc = Сущность, содержащая все действия, которые тенеморф может получить через вознесение.
+ent-NightmareAbilities = способности кошмара
+    .desc = Сущность, содержащая все компоненты для кошмаров.
+ent-LesserShadowlingAbilities = способности низшего тенеморфа
+    .desc = Сущность, содержащая все компоненты для низших тенеморфов.
+ent-ThrallAbilities = способности тралла
+    .desc = Сущность, содержащая все компоненты для траллов после гипноза.

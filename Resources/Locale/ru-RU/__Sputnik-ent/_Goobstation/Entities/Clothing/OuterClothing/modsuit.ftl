@@ -1,26 +1,18 @@
 ent-ClothingOuterModsuitBase = { ent-ClothingOuterBase }
     .desc = { ent-ClothingOuterBase.desc }
-
-ent-ClothingModsuitChestplateStandard = standard modsuit chestplate
-    .desc = A special modular suit spaceproof cover designed for compact folding inside modular suit control.
-
-ent-ClothingModsuitChestplateSecurity = soldat modsuit chestplate
-    .desc = A robust modular suit cover with ceramic inserts for extra protection.
-
-ent-ClothingModsuitChestplateHeadOfSecurity = bulwark modsuit chestplate
-    .desc = A robust modular suit cover with EXTRA ceramic inserts for slightly more protection.
-
-ent-ClothingModsuitChestplateParamedic = sanitater modsuit chestplate
-    .desc = A white and blue-ish-grey steel plate for keeping out the harsh void of space and the occasional bullet.
-
-ent-ClothingModsuitChestplateEngineer = sapper modsuit chestplate
-    .desc = A tough armor plate to defend against harsh atmospheric conditions and shockwaves.
-
-ent-ClothingModsuitChestplateAtmostech = aeolus modsuit chestplate
-    .desc = A fire-proof armor plate to defend against harsh atmospheric conditions.
-
-ent-ClothingModsuitChestplateResearchDirector = minerva modsuit chestplate
-    .desc = A bulky bomb and bat proof chunk of steel.
-
-ent-ClothingModsuitChestplateCaptain = magnate modsuit chestplate
-    .desc = This shit is made out of DIAMONDS, man, this armor was forged with GEMS.
+ent-ClothingModsuitChestplateStandard = стандартная нагрудная пластина скафандра MOD
+    .desc = Специальное космозащитное покрытие для модульного костюма, разработанное для компактного складывания внутри управления модульным костюмом.
+ent-ClothingModsuitChestplateSecurity = нагрудная пластина скафандра MOD «Солдат»
+    .desc = Надёжное покрытие модульного костюма с керамическими вставками для дополнительной защиты.
+ent-ClothingModsuitChestplateHeadOfSecurity = нагрудная пластина скафандра MOD «Бастион»
+    .desc = Надёжное покрытие модульного костюма с дополнительными керамическими вставками для чуть большей защиты.
+ent-ClothingModsuitChestplateParamedic = нагрудная пластина скафандра MOD «Санитар»
+    .desc = Бело-серо-голубая стальная пластина для защиты от сурового вакуума космоса и случайных пуль.
+ent-ClothingModsuitChestplateEngineer = нагрудная пластина скафандра MOD «Сапёр»
+    .desc = Прочная броневая пластина для защиты от суровых атмосферных условий и ударных волн.
+ent-ClothingModsuitChestplateAtmostech = нагрудная пластина скафандра MOD «Эол»
+    .desc = Огоньстойкая броневая пластина для защиты от суровых атмосферных условий.
+ent-ClothingModsuitChestplateResearchDirector = нагрудная пластина скафандра MOD «Минерва»
+    .desc = Объёмный стальной кусок, защищающий от взрывов и ударов битой.
+ent-ClothingModsuitChestplateCaptain = нагрудная пластина скафандра MOD "Магнат"
+    .desc = Эта хрень сделана из БРИЛЛИАНТОВ, чувааааак, эта броня выкована из ДРАГОЦЕННОСТЕЙ.

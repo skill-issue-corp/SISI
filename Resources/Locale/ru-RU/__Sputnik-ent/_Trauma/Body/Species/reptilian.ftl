@@ -3,4 +3,4 @@ ent-OrganReptilianTail = { ent-OrganBaseTail }
 
 ent-OrganReptilianTailDefault = { ent-OrganReptilianTail }
     .desc = { ent-OrganReptilianTail.desc }
-    .suffix = Reptilian, Default
+    .suffix = Рептилия, Стандартный

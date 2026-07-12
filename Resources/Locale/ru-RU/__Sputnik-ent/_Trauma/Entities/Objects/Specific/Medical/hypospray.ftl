@@ -1,7 +1,6 @@
-ent-MedicalHyposprayEmpty = medical hypospray
-    .desc = A sterile injector for rapid administration of drugs to patients. This mass-produced version is fed by an attached vial.
-    .suffix = Empty
-
+ent-MedicalHyposprayEmpty = медицинский гипоспрей
+    .desc = Стерильный инъектор для быстрого введения лекарств пациентам. Эта серийная версия питается от прикреплённого флакона.
+    .suffix = Пустой
 ent-MedicalHyposprayFilled = { ent-MedicalHyposprayEmpty }
     .desc = { ent-MedicalHyposprayEmpty.desc }
-    .suffix = Filled
+    .suffix = Заполненный

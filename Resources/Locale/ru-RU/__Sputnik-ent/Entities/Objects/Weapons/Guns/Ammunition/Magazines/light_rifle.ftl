@@ -1,21 +1,21 @@
-ent-BaseMagazineLightRifle = magazine (.30 rifle)
+ent-BaseMagazineLightRifle = магазин (.30 винтовочные)
     .desc = { ent-BaseItem.desc }
-
-ent-MagazineLightRifleBox = L6 SAW magazine box (.30 rifle)
-    .desc = Box containing a 100-round belt of linked .30 rifle rounds, used by light machine guns such as the L6. Intended to hold general-purpose kinetic ammunition.
-
-ent-MagazineLightRifle = magazine (.30 rifle)
-    .desc = Curved 30-round double stack magazine for combat rifles. Intended to hold general-purpose kinetic ammunition.
-
-ent-MagazineLightRifleEmpty = magazine (.30 rifle any)
-    .desc = Curved 30-round double stack magazine for combat rifles.
-    .suffix = empty
-
-ent-MagazineLightRiflePractice = magazine (.30 rifle practice)
-    .desc = Curved 30-round double stack magazine for combat rifles. Intended to hold harmless practice ammunition.
-
-ent-MagazineLightRifleUranium = magazine (.30 rifle uranium)
-    .desc = Curved 30-round double stack magazine for combat rifles. Intended to hold exotic uranium-core ammunition.
-
-ent-MagazineLightRifleIncendiary = magazine (.30 rifle incendiary)
-    .desc = Curved 30-round double stack magazine for combat rifles. Intended to hold self-igniting incendiary ammunition.
+ent-MagazineLightRifleBox = короб патронов L6 SAW (.30 винтовочные)
+    .desc = { ent-BaseMagazineLightRifle.desc }
+ent-MagazineLightRifleBoxEmpty = { ent-MagazineLightRifleBox }
+    .desc = { ent-MagazineLightRifleBox.desc }
+ent-MagazineLightRifle = магазин (.30 винтовочные)
+    .desc = { ent-BaseMagazineLightRifle.desc }
+ent-MagazineLightRifleEmpty = магазин (.30 винтовочные любые)
+    .suffix = Пустой
+    .desc = { ent-MagazineLightRifle.desc }
+ent-MagazineLightRiflePractice = магазин (.30 винтовочные учебные)
+    .desc = { ent-BaseMagazineLightRifle.desc }
+ent-MagazineLightRifleUranium = магазин (.30 винтовочные урановые)
+    .desc = { ent-BaseMagazineLightRifle.desc }
+ent-MagazineLightRifleIncendiary = магазин (.30 винтовочные зажигательные)
+    .desc = { ent-MagazineLightRifle.desc }
+ent-MagazineLightRifleMaxim = дисковый магазин (.30 винтовочные)
+    .desc = { ent-BaseMagazineLightRifle.desc }
+ent-MagazineLightRiflePkBox = короб патронов ПК (.30 винтовочные)
+    .desc = { ent-BaseMagazineLightRifle.desc }

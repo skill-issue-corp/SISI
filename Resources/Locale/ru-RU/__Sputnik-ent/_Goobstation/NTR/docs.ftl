@@ -1,20 +1,14 @@
-ent-CorporateDocument = Corporate Document
-    .desc = An official NanoTrasen document. Looks like a ton of spam, as always.
-
+ent-CorporateDocument = корпоративный документ
+    .desc = Официальный документ NanoTrasen. Выглядит как спам. В прочем, как и всегда.
 ent-ServiceDocument = { ent-CorporateDocument }
     .desc = { ent-CorporateDocument.desc }
-
 ent-SecurityDocument = { ent-CorporateDocument }
     .desc = { ent-CorporateDocument.desc }
-
 ent-CargoDocument = { ent-CorporateDocument }
     .desc = { ent-CorporateDocument.desc }
-
 ent-MedicalDocument = { ent-CorporateDocument }
     .desc = { ent-CorporateDocument.desc }
-
 ent-EngineeringDocument = { ent-CorporateDocument }
     .desc = { ent-CorporateDocument.desc }
-
 ent-ScienceDocument = { ent-CorporateDocument }
     .desc = { ent-CorporateDocument.desc }

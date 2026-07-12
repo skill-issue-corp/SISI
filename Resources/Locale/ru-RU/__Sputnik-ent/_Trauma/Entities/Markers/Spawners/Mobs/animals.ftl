@@ -1,17 +1,12 @@
-ent-SpawnMobDartFrog1 = Strawberry Poison Frog Spawner
+ent-SpawnMobDartFrog1 = спавнер клубничной ядовитой лягушки
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobDartFrog3 = Azure Poison Frog Spawner
+ent-SpawnMobDartFrog3 = спавнер лазурной ядовитой лягушки
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobDartFrog6 = Rose Poison Frog Spawner
+ent-SpawnMobDartFrog6 = спавнер розовой ядовитой лягушки
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobBunny = Bunny Spawner
+ent-SpawnMobBunny = спавнер кролика
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobBunnySea = Sea Bunny Spawner
+ent-SpawnMobBunnySea = спавнер морского кролика
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobSnakeGrass = Grass Snake Spawner
+ent-SpawnMobSnakeGrass = спавнер травяной змеи
     .desc = { ent-MarkerBase.desc }

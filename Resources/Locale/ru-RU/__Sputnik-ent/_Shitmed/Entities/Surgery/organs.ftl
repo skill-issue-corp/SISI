@@ -1,53 +1,36 @@
 ent-BaseSurgeryInsertOrgan = { ent-SurgeryBase }
     .desc = { ent-SurgeryBase.desc }
-
 ent-BaseSurgeryInsertOrganChest = { ent-BaseSurgeryInsertOrgan }
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
 ent-BaseSurgeryRemoveOrgan = { ent-SurgeryBase }
     .desc = { ent-SurgeryBase.desc }
-
 ent-BaseSurgeryRemoveOrganChest = { ent-BaseSurgeryRemoveOrgan }
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-
-ent-SurgeryInsertBrain = Insert Brain
+ent-SurgeryInsertBrain = Установить мозг
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryInsertEyes = Insert Eyes
+ent-SurgeryInsertEyes = Установить глаза
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryInsertEars = Insert Ear Organs
+ent-SurgeryInsertEars = Установить органы слуха
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryInsertHeart = Insert Heart
+ent-SurgeryInsertHeart = Установить сердце
     .desc = { ent-BaseSurgeryInsertOrganChest.desc }
-
-ent-SurgeryInsertLungs = Insert Lungs
+ent-SurgeryInsertLungs = Установить лёгкие
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryInsertLiver = Insert Liver
+ent-SurgeryInsertLiver = Установить печень
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryInsertStomach = Insert Stomach
+ent-SurgeryInsertStomach = Установить желудок
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryRemoveBrain = Remove Brain
+ent-SurgeryRemoveBrain = Извлечь мозг
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-
-ent-SurgeryRemoveEyes = Remove Eyes
+ent-SurgeryRemoveEyes = Извлечь глаза
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-
-ent-SurgeryRemoveEars = Remove Ear Organs
+ent-SurgeryRemoveEars = Извлечь органы слуха
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-
-ent-SurgeryRemoveHeart = Remove Heart
+ent-SurgeryRemoveHeart = Извлечь сердце
     .desc = { ent-BaseSurgeryRemoveOrganChest.desc }
-
-ent-SurgeryRemoveLungs = Remove Lungs
+ent-SurgeryRemoveLungs = Извлечь лёгкие
     .desc = { ent-BaseSurgeryRemoveOrganChest.desc }
-
-ent-SurgeryRemoveLiver = Remove Liver
+ent-SurgeryRemoveLiver = Извлечь печень
     .desc = { ent-BaseSurgeryRemoveOrganChest.desc }
-
-ent-SurgeryRemoveStomach = Remove Stomach
+ent-SurgeryRemoveStomach = Извлечь желудок
     .desc = { ent-BaseSurgeryRemoveOrganChest.desc }

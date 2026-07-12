@@ -1,5 +1,4 @@
-ent-MutationHulk = Hulk
-    .desc = A poorly understood genome that causes the holder's muscles to expand, inhibit speech and gives the person a bad skin condition.
-
-ent-MutationOrk = Ork
-    .desc = A mutation caused by a mixup of hulk genes which severely impacts speech centers in owners' brains.
+ent-MutationHulk = Халк
+    .desc = Малоизученный геном, из-за которого мышцы носителя увеличиваются, речь нарушается, а кожа приобретает неприятное состояние.
+ent-MutationOrk = Орк
+    .desc = Мутация, вызванная смешением генов халка, серьёзно поражающая речевые центры мозга носителя.

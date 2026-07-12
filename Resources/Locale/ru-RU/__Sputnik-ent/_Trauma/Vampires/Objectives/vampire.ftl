@@ -1,11 +1,8 @@
 ent-BaseVampireObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
-
 ent-VampireBloodObjective = { ent-BaseVampireObjective }
-    .desc = Drink blood.
-
-ent-VampireBloodsuckObjective = Survive
-    .desc = Blood suck people.
-
-ent-VampireSurviveObjective = Survive
-    .desc = You must survive no matter what.
+    .desc = Пить кровь.
+ent-VampireBloodsuckObjective = Выжить
+    .desc = Высасывайте кровь у людей.
+ent-VampireSurviveObjective = Выжить
+    .desc = Вы должны выжить любой ценой.

@@ -1,44 +1,30 @@
-ent-FoodSoupBingle = bingle soup
-    .desc = Somehow smells even worse now.
-
-ent-FoodSoupBlood = blood soup
-    .desc = Popular with Russians.
-
-ent-FoodBreadSandwich = bread sandwich
-    .desc = A piece of bread, sandwiched between two pieces of bread.
-
-ent-FoodChickenParm = chicken parmesan
-    .desc = April 4th, 7:30 PM.
-
-ent-FoodCornDog = corn dog
-    .desc = battered glizzy
-
-ent-FoodHotDog = hot dog
-    .desc = unbattered glizzy
-
-ent-FoodEggToast = egg toast
-    .desc = It's an egg on a toast!
-
-ent-FoodEggRaw = raw egg
-    .desc = It's raw!
-
-ent-FoodEggFried = fried egg
-    .desc = It is safe to eat and tasty!
-
-ent-FoodFairyBread = fairy bread
-    .desc = From Australia.
-
-ent-FoodGoulash = goulash
-    .desc = Traditional in Poland.
-
-ent-FoodOffal = offal
-    .desc = A rich dish made of organs.
-
-ent-FoodRoastedMonkey = roasted monkey
-    .desc = A kingly feast! It originated in Brazil!
-
-ent-FoodSausage = sausage
-    .desc = An ancient dish, made by cooking ground meat inside of intestine.
-
-ent-FoodSpire = THE SPIRE
-    .desc = The tower of babel rises...
+ent-FoodSoupBingle = суп «Бингл»
+    .desc = Почему-то теперь пахнет ещё хуже.
+ent-FoodSoupBlood = кровяной суп
+    .desc = Популярен среди русских.
+ent-FoodBreadSandwich = хлебный сэндвич
+    .desc = Кусок хлеба, зажатый между двумя кусками хлеба.
+ent-FoodChickenParm = курица пармезан
+    .desc = 4 апреля, 19:30.
+ent-FoodCornDog = кон-дог
+    .desc = глиззи в кляре
+ent-FoodHotDog = хот-дог
+    .desc = глиззи без кляра
+ent-FoodEggToast = яйцо на тосте
+    .desc = Это яйцо на тосте!
+ent-FoodEggRaw = сырое яйцо
+    .desc = Оно сырое!
+ent-FoodEggFried = яичница
+    .desc = Есть безопасно и вкусно!
+ent-FoodFairyBread = «хлеб феи»
+    .desc = Из Австралии.
+ent-FoodGoulash = гуляш
+    .desc = Традиционное блюдо в Польше.
+ent-FoodOffal = субпродукты
+    .desc = Насыщенное блюдо из внутренних органов.
+ent-FoodRoastedMonkey = жареная обезьяна
+    .desc = Королевское пиршество! Родом из Бразилии!
+ent-FoodSausage = колбаса
+    .desc = Древнее блюдо, приготовленное из молотого мяса внутри кишки.
+ent-FoodSpire = ШПИЛЬ
+    .desc = Вавилонская башня возносится...

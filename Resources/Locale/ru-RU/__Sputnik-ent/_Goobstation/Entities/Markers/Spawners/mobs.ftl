@@ -1,100 +1,75 @@
-ent-SpawnMobBrullbar = Brullbar Spawner
+ent-SpawnMobBrullbar = спавнер бабайка
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobBrullbarKing = Brullbar King Spawner
+ent-SpawnMobBrullbarKing = спавнер короля бабаек
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobBearGoon = Bear Spawner
+ent-SpawnMobBearGoon = спавнер медведя
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobWhiteWolf = White Wolf Spawner
+ent-SpawnMobWhiteWolf = спавнер белого волка
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobLivingCurse = Living Curse Spawner
+ent-SpawnMobLivingCurse = спавнер живой плоти
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobFermidLarge = Fermid Large Spawner
-    .desc = { "" }
-
-ent-SpawnMobFermidSmall = Fermid Small Spawner
+ent-SpawnMobFermidSmall = спавнер фермид маленький
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobFermidWarrior = Fermid Warrior Spawner
+ent-SpawnMobFermidLarge = спавнер фермид большой
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobFermidQueen = Fermid Queen Spawner
+ent-SpawnMobFermidWarrior = спавнер фермид воин
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobSpookyGhost1 = Spooky Ghost Spawner
+ent-SpawnMobFermidQueen = спавнер фермид королева
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnBaseMobGlutton = Glutton Spawner
+ent-SpawnMobSpookyGhost1 = спавнер ???
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobNanites = Nanite Swarm Spawner
+ent-SpawnBaseMobGlutton = спавнер обжора
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnGunBot = Gunbot Spawner
+ent-SpawnMobNanites = спавнер рой нанитов
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnNukeBot = NukeBot Spawner
+ent-SpawnGunBot = спавнер пушкобот
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobFlockDrone = Flock Drone Spawner
+ent-SpawnNukeBot = спавнер пушкобот синдиката
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobFlockBit = Flock Bit Spawner
+ent-SpawnMobFlockDrone = спавнер стаедрон
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobAbyssCrawler = Abyss crawler Spawner
+ent-SpawnMobFlockBit = спавнер стаебит
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoDrone = salvage Ancient Drone Spawner
+ent-SpawnMobAbyssCrawler = спавнер пучинный ползун
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoBurrower = salvage Ancient Burrower Spawner
+ent-SpawnCMMobXenoDrone = спавнер древний Дрон
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoWarrior = salvage Ancient Warrior Spawner
+ent-SpawnCMMobXenoBurrower = спавнер древний Бурильщик
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoCrusher = salvage Ancient Crusher Spawner
+ent-SpawnCMMobXenoWarrior = спавнер древний Воитель
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoRavager = salvage Ancient Ravager Spawner
+ent-SpawnCMMobXenoCrusher = спавнер древний Дробитель
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoKing = salvage Ancient King Spawner
+ent-SpawnCMMobXenoRavager = спавнер древний Разрушитель
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoQueen = salvage Ancient Queen Spawner
+ent-SpawnCMMobXenoKing = спавнер древний Король
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoRogueKing = salvage Ancient Rogue King Spawner
+ent-SpawnCMMobXenoQueen = спавнер древняя Королева
     .desc = { ent-MarkerBase.desc }
-    .suffix = DO NOT MAP
-
-ent-SpawnCMMobXenoDroneSentient = Ancient Drone Spawner
+ent-SpawnCMMobXenoRogueKing = спавнер древний Король-отступник
+    .suffix = НЕ МАППИТЬ
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoBurrowerSentient = Ancient Burrower Spawner
+ent-SpawnCMMobXenoDroneSentient = { ent-SpawnCMMobXenoDrone }
+    .suffix = Роль призрака
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoWarriorSentient = Ancient Warrior Spawner
+ent-SpawnCMMobXenoBurrowerSentient = { ent-SpawnCMMobXenoBurrower }
+    .suffix = Роль призрака
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoCrusherSentient = Ancient Crusher Spawner
+ent-SpawnCMMobXenoWarriorSentient = { ent-SpawnCMMobXenoWarrior }
+    .suffix = Роль призрака
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoRavagerSentient = Ancient Ravager Spawner
+ent-SpawnCMMobXenoCrusherSentient = { ent-SpawnCMMobXenoCrusher }
+    .suffix = Роль призрака
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoKingSentient = Ancient King Spawner
+ent-SpawnCMMobXenoRavagerSentient = { ent-SpawnCMMobXenoRavager }
+    .suffix = Роль призрака
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoQueenSentient = Ancient Queen Spawner
+ent-SpawnCMMobXenoKingSentient = { ent-SpawnCMMobXenoKing }
+    .suffix = Роль призрака
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnCMMobXenoRogueKingSentient = Ancient Rogue King Spawner
+ent-SpawnCMMobXenoQueenSentient = { ent-SpawnCMMobXenoQueen }
+    .suffix = Роль призрака
     .desc = { ent-MarkerBase.desc }
-    .suffix = DO NOT MAP
+ent-SpawnCMMobXenoRogueKingSentient = { ent-SpawnCMMobXenoRogueKing }
+    .suffix = НЕ МАППИТЬ, Роль призрака
+    .desc = { ent-MarkerBase.desc }

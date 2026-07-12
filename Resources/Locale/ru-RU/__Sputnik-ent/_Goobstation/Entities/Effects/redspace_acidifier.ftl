@@ -1,5 +1,4 @@
-ent-RedspaceLifeline = redspace lifeline
-    .desc = Teleports your body to save your life!
-
-ent-RedspaceLifelineSpawnCore = redspace lifeline
-    .desc = Teleports your body to save your life!
+ent-RedspaceLifeline = редспейс коридор
+    .desc = Телепортирует ваше тело, чтобы спасти жизнь!
+ent-RedspaceLifelineSpawnCore = редспейс коридор
+    .desc = Телепортирует ваше тело, чтобы спасти жизнь!

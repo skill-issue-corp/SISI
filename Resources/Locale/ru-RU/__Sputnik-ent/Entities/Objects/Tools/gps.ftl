@@ -1,5 +1,4 @@
-ent-HandheldGPSBasic = global positioning system
-    .desc = Helping lost spacemen find their way through the planets since 2016.
-
-ent-BorgHandheldGPSBasic = integrated GPS
-    .desc = A miniaturized Global Positioning System for use in cyborg units.
+ent-HandheldGPSBasic = глобальная система позиционирования
+    .desc = Помогает заблудившимся космонавтам найти свой путь среди планет с 2016 года.
+ent-BorgHandheldGPSBasic = встроенный GPS
+    .desc = Уменьшенная глобальная система позиционирования для использования в боргах.

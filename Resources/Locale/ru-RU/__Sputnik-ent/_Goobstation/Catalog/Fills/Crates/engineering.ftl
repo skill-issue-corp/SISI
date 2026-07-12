@@ -1,5 +1,4 @@
-ent-MachinePowerTransmissionLaserCrate = power transmission laser crate
+ent-MachinePowerTransmissionLaserCrate = ящик с лазером передачи энергии
     .desc = { ent-CrateGenericSteel.desc }
-
-ent-CrateEngineeringTEG = thermo-electric generator crate
-    .desc = Containing thermo-electric generator flatpack to make atmosian happy.
+ent-CrateEngineeringTEG = ящик с ТЭГ
+    .desc = Содержит набор для сборки термоэлектрического генератора, чтобы сделать атмосов счастливей.

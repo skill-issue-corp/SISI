@@ -1,2 +1,2 @@
-ent-MutationWebbingProduction = Webbing Production
-    .desc = Allows the user to lay webbing, and travel through it.
+ent-MutationWebbingProduction = Выработка паутины
+    .desc = Позволяет пользователю плести паутину и перемещаться через неё.

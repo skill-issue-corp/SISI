@@ -1,171 +1,129 @@
-ent-WallFlockBase = strange glass wall
-    .desc = You can hear faint humming coming from within.
-
+ent-WallFlockBase = странная стеклянная стена
+    .desc = Изнутри доносится слабое жужжание.
 ent-fullWallFlock = { ent-WallFlockBase }
+    .suffix = Полная
     .desc = { ent-WallFlockBase.desc }
-    .suffix = full
-
 ent-fullCenterWallFlock = { ent-WallFlockBase }
+    .suffix = Полная центральная
     .desc = { ent-WallFlockBase.desc }
-    .suffix = fullCenter
-
 ent-fullLeftWallFlock = { ent-WallFlockBase }
+    .suffix = Полная левая
     .desc = { ent-WallFlockBase.desc }
-    .suffix = fullLeft
-
 ent-fullNorthWallFlock = { ent-WallFlockBase }
+    .suffix = Полная северная
     .desc = { ent-WallFlockBase.desc }
-    .suffix = fullNorth
-
 ent-fullRightWallFlock = { ent-WallFlockBase }
+    .suffix = Полная правая
     .desc = { ent-WallFlockBase.desc }
-    .suffix = fullRight
-
 ent-gridfullWallFlock = { ent-WallFlockBase }
+    .suffix = Полная сетка
     .desc = { ent-WallFlockBase.desc }
-    .suffix = gridfull
-
 ent-InnerNECornerWallFlock = { ent-WallFlockBase }
+    .suffix = Внутренний СВ угол
     .desc = { ent-WallFlockBase.desc }
-    .suffix = InnerNECorner
-
 ent-InnerNWCornerWallFlock = { ent-WallFlockBase }
+    .suffix = Внутренний СЗ угол
     .desc = { ent-WallFlockBase.desc }
-    .suffix = InnerNWCorner
-
 ent-InnerSECornerWallFlock = { ent-WallFlockBase }
+    .suffix = Внутренний ЮВ угол
     .desc = { ent-WallFlockBase.desc }
-    .suffix = InnerSECorner
-
 ent-InnerSWCornerWallFlock = { ent-WallFlockBase }
+    .suffix = Внутренний ЮЗ угол
     .desc = { ent-WallFlockBase.desc }
-    .suffix = InnerSWCorner
-
 ent-leftWallFlock = { ent-WallFlockBase }
+    .suffix = Левая
     .desc = { ent-WallFlockBase.desc }
-    .suffix = left
-
 ent-middleWallFlock = { ent-WallFlockBase }
+    .suffix = Средняя
     .desc = { ent-WallFlockBase.desc }
-    .suffix = middle
-
 ent-northWallFlock = { ent-WallFlockBase }
+    .suffix = Северная
     .desc = { ent-WallFlockBase.desc }
-    .suffix = north
-
 ent-middleFullWallFlock = { ent-WallFlockBase }
+    .suffix = Средняя полная
     .desc = { ent-WallFlockBase.desc }
-    .suffix = middleFull
-
 ent-NECornerWallFlock = { ent-WallFlockBase }
+    .suffix = СВ угол
     .desc = { ent-WallFlockBase.desc }
-    .suffix = NECorner
-
 ent-NECornerAltWallFlock = { ent-WallFlockBase }
+    .suffix = СВ угол (альт.)
     .desc = { ent-WallFlockBase.desc }
-    .suffix = NECornerAlt
-
 ent-NECornerFullWallFlock = { ent-WallFlockBase }
+    .suffix = СВ угол полный
     .desc = { ent-WallFlockBase.desc }
-    .suffix = NECornerFull
-
 ent-NECornerFullAltWallFlock = { ent-WallFlockBase }
+    .suffix = СВ угол полный (альт.)
     .desc = { ent-WallFlockBase.desc }
-    .suffix = NECornerFullAlt
-
 ent-NWCornerWallFlock = { ent-WallFlockBase }
+    .suffix = СЗ угол
     .desc = { ent-WallFlockBase.desc }
-    .suffix = NWCorner
-
 ent-NWCornerAltWallFlock = { ent-WallFlockBase }
+    .suffix = СЗ угол (альт.)
     .desc = { ent-WallFlockBase.desc }
-    .suffix = NWCornerAlt
-
 ent-NWCornerFullWallFlock = { ent-WallFlockBase }
+    .suffix = СЗ угол полный
     .desc = { ent-WallFlockBase.desc }
-    .suffix = NWCornerFull
-
 ent-NWCornerFullAltWallFlock = { ent-WallFlockBase }
+    .suffix = СЗ угол полный (альт.)
     .desc = { ent-WallFlockBase.desc }
-    .suffix = NWCornerFullAlt
-
 ent-rightWallFlock = { ent-WallFlockBase }
+    .suffix = Правая
     .desc = { ent-WallFlockBase.desc }
-    .suffix = right
-
 ent-SECornerWallFlock = { ent-WallFlockBase }
+    .suffix = ЮВ угол
     .desc = { ent-WallFlockBase.desc }
-    .suffix = SECorner
-
 ent-SECornerAltWallFlock = { ent-WallFlockBase }
+    .suffix = ЮВ угол (альт.)
     .desc = { ent-WallFlockBase.desc }
-    .suffix = SECornerAlt
-
 ent-SECornerFullWallFlock = { ent-WallFlockBase }
+    .suffix = ЮВ угол полный
     .desc = { ent-WallFlockBase.desc }
-    .suffix = SECornerFull
-
 ent-SECornerFullAltWallFlock = { ent-WallFlockBase }
+    .suffix = ЮВ угол полный (альт.)
     .desc = { ent-WallFlockBase.desc }
-    .suffix = SECornerFullAlt
-
 ent-southWallFlock = { ent-WallFlockBase }
+    .suffix = Южная
     .desc = { ent-WallFlockBase.desc }
-    .suffix = south
-
 ent-SWCornerWallFlock = { ent-WallFlockBase }
+    .suffix = ЮЗ угол
     .desc = { ent-WallFlockBase.desc }
-    .suffix = SWCorner
-
 ent-SWCornerAltWallFlock = { ent-WallFlockBase }
+    .suffix = ЮЗ угол (альт.)
     .desc = { ent-WallFlockBase.desc }
-    .suffix = SWCornerAlt
-
 ent-SWCornerFullWallFlock = { ent-WallFlockBase }
+    .suffix = ЮЗ угол полный
     .desc = { ent-WallFlockBase.desc }
-    .suffix = SWCornerFull
-
 ent-SWCornerFullAltWallFlock = { ent-WallFlockBase }
+    .suffix = ЮЗ угол полный (альт.)
     .desc = { ent-WallFlockBase.desc }
-    .suffix = SWCornerFullAlt
-
 ent-TCornerNEWallFlock = { ent-WallFlockBase }
+    .suffix = Т-образный СВ
     .desc = { ent-WallFlockBase.desc }
-    .suffix = TCornerNE
-
 ent-TMiddleWallFlock = { ent-WallFlockBase }
+    .suffix = Т-образная средняя
     .desc = { ent-WallFlockBase.desc }
-    .suffix = TMiddle
-
 ent-TNorthWallFlock = { ent-WallFlockBase }
+    .suffix = Т-образная северная
     .desc = { ent-WallFlockBase.desc }
-    .suffix = TNorth
-
 ent-TNorthFullWallFlock = { ent-WallFlockBase }
+    .suffix = Т-образная северная полная
     .desc = { ent-WallFlockBase.desc }
-    .suffix = TNorthFull
-
 ent-TRightWallFlock = { ent-WallFlockBase }
+    .suffix = Т-образная правая
     .desc = { ent-WallFlockBase.desc }
-    .suffix = TRight
-
 ent-TSouthWallFlock = { ent-WallFlockBase }
+    .suffix = Т-образная южная
     .desc = { ent-WallFlockBase.desc }
-    .suffix = TSouth
-
 ent-VMiddleWallFlock = { ent-WallFlockBase }
+    .suffix = V-образная средняя
     .desc = { ent-WallFlockBase.desc }
-    .suffix = VMiddle
-
-ent-WallDiagonalFeatherZone = strange glass wall
-    .desc = You can hear faint humming coming from within.
-    .suffix = Diagonal
-
+ent-WallDiagonalFeatherZone = странная стеклянная стена
+    .desc = Изнутри доносится слабое жужжание.
+    .suffix = Диагональная
 ent-WallFeatherZoneShuttle = { ent-WallFlockBase }
     .desc = { ent-WallFlockBase.desc }
-
-ent-WallFeatherZoneShuttle1 = strange shuttle wall
+ent-WallFeatherZoneShuttle1 = странная стена шаттла
     .desc = { ent-WallFlockBase.desc }
-
-ent-WallFeatherZoneShuttle2 = strange shuttle wall
+ent-WallFeatherZoneShuttle2 = странная стена шаттла
     .desc = { ent-WallFlockBase.desc }
+    .suffix = Альт.

@@ -1,5 +1,4 @@
-ent-MutationVoidMagnet = Void Magnet
-    .desc = A rare genome that attracts odd forces not usually observed.
-
-ent-ActionMutationVoidMagnet = Convoke Void
-    .desc = A rare genome that attracts odd forces not usually observed. May sometimes pull you in randomly.
+ent-MutationVoidMagnet = Магнит пустоты
+    .desc = Редкий геном, притягивающий странные силы, обычно не наблюдаемые.
+ent-ActionMutationVoidMagnet = Призвать пустоту
+    .desc = Редкий геном, притягивающий странные силы, обычно не наблюдаемые. Иногда может случайным образом затягивать вас.

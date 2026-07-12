@@ -1,2 +1,2 @@
-ent-EncryptionKeyRev = revolutionary encryption key
-    .desc = An encryption key used by underground revolutionary groups.
+ent-EncryptionKeyRev = революционный ключ шифрования
+    .desc = Ключ шифрования, используемый подпольными революционными группировками.

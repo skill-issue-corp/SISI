@@ -1,2 +1,2 @@
-ent-DiseaseGutWorms = gut worms
-    .desc = Foodborn parasites infest the subject.
+ent-DiseaseGutWorms = кишечные черви
+    .desc = Пищевые паразиты заражают организм пациента.

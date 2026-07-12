@@ -1,2 +1,2 @@
-ent-ResinDoor = resin Door
-    .desc = Thick resin solidified into a door.
+ent-ResinDoor = смоляная дверь
+    .desc = Густая смола, затвердевшая в форме двери.

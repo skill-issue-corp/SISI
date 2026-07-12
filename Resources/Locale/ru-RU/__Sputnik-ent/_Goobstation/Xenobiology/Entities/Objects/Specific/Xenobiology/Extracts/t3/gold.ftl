@@ -1,2 +1,2 @@
-ent-GoldSlimeExtract = gold slime extract
+ent-GoldSlimeExtract = золотой экстракт слайма
     .desc = { ent-BaseSlimeExtract.desc }

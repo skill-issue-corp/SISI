@@ -1,2 +1,2 @@
-ent-MobCosmicWisp = Wisp
+ent-MobCosmicWisp = Сгусток
     .desc = { ent-BaseSimpleMob.desc }

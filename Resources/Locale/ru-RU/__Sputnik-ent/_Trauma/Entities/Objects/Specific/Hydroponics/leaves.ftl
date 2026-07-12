@@ -1,2 +1,2 @@
-ent-LeavesCoca = coca leaves
-    .desc = Drench it in welding fuel to make some fine powder.
+ent-LeavesCoca = листья коки
+    .desc = Замочите их в топливе для сварки, чтобы получить мелкий порошок.

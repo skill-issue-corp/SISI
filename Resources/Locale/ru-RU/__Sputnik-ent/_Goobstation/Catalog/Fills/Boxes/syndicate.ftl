@@ -1,5 +1,4 @@
-ent-BoxReagentGrenades = box of lube & glue grenades
-    .desc = A box full of lube & glue grenades.
-
-ent-SyndicateLollypopBundle = box of lollypops
-    .desc = A box full of Donk co. candy. What could be inside?
+ent-BoxReagentGrenades = коробка с гранатами смазки и клея
+    .desc = Коробка, полная гранат со смазкой и клеем.
+ent-SyndicateLollypopBundle = коробка с леденцами
+    .desc = Коробка с конфетами компании Donk. Что же внутри?

@@ -1,20 +1,14 @@
 ent-BaseGrinningPal = { ent-BaseItem }
-    .desc = I love you, my grinning pal.
-
-ent-SmilingBanana = grinning banana guy
+    .desc = Я люблю тебя, мой ухмыляющийся дружок.
+ent-SmilingBanana = ухмыляющийся банановый парень
     .desc = { ent-BaseGrinningPal.desc }
-
-ent-SmilingBean = grinning small guy
+ent-SmilingBean = ухмыляющийся малыш
     .desc = { ent-BaseGrinningPal.desc }
-
-ent-SmilingBoss = grinning old guy
+ent-SmilingBoss = ухмыляющийся старикан
     .desc = { ent-BaseGrinningPal.desc }
-
-ent-SmilingFrog = grinning green guy
-    .desc = His eye burn with a blazing hatred.
-
-ent-SmilingRedGuy = grinning red guy
+ent-SmilingFrog = ухмыляющийся зелёный парень
+    .desc = Его глаза пылают лютой ненавистью.
+ent-SmilingRedGuy = ухмыляющийся красный парень
     .desc = { ent-BaseGrinningPal.desc }
-
-ent-SmilingTylenol = grinning tylenol
+ent-SmilingTylenol = ухмыляющийся тайленол
     .desc = { ent-BaseGrinningPal.desc }

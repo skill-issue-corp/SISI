@@ -1,110 +1,74 @@
-ent-SpawnIngredientsBaking = baking supplies
+ent-SpawnIngredientsBaking = ингредиенты для выпечки
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnIngredientsExoticMeat = exotic meats
+ent-SpawnIngredientsExoticMeat = экзотическое мясо
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnIngredientsMeat = bulk meats
+ent-SpawnIngredientsMeat = мясо оптом
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnIngredientsVegetables = vegetables
+ent-SpawnIngredientsVegetables = овощи
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnIngredientsFruits = fruits
+ent-SpawnIngredientsFruits = фрукты
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnArmamentsVenerator = venerator's attire
+ent-SpawnArmamentsVenerator = облачение венератора
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnSupplyLuckyWinner = bar snacks
+ent-SpawnSupplyLuckyWinner = закуски к пиву
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnArmamentsMamluk = mamluk's armour
+ent-SpawnArmamentsMamluk = доспехи мамлюка
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentGlockenspiel = glockenspiel
+ent-SpawnInstrumentGlockenspiel = глокеншпиль
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentMusicBox = music box
+ent-SpawnInstrumentMusicBox = музыкальная шкатулка
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentXylophone = xylophone
+ent-SpawnInstrumentXylophone = ксилофон
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentMicrophone = microphone
+ent-SpawnInstrumentMicrophone = микрофон
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentWoodblock = woodblock
+ent-SpawnInstrumentWoodblock = вудблок
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentReverseCymbals = reverse cymbals
+ent-SpawnInstrumentReverseCymbals = перевёрнутые тарелки
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentElectricGuitar = electric guitar
+ent-SpawnInstrumentElectricGuitar = электрогитара
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentBassGuitar = bass guitar
+ent-SpawnInstrumentBassGuitar = бас-гитара
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentAcousticGuitar = acoustic guitar
+ent-SpawnInstrumentAcousticGuitar = акустическая гитара
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentBanjo = banjo
+ent-SpawnInstrumentBanjo = банджо
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentViolin = violin
+ent-SpawnInstrumentViolin = скрипка
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentViola = viola
+ent-SpawnInstrumentViola = альт
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentCello = cello
+ent-SpawnInstrumentCello = виолончель
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentSaxophone = saxophone
+ent-SpawnInstrumentSaxophone = саксофон
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentHarmonica = harmonica
+ent-SpawnInstrumentHarmonica = губная гармошка
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentClarinet = clarinet
+ent-SpawnInstrumentClarinet = кларнет
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentFlute = flute
+ent-SpawnInstrumentFlute = флейта
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentRecorder = recorder
+ent-SpawnInstrumentRecorder = блокфлейта
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentPanFlute = pan flute
+ent-SpawnInstrumentPanFlute = флейта Пана
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentOcarina = ocarina
+ent-SpawnInstrumentOcarina = окарина
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentBagpipe = bagpipe
+ent-SpawnInstrumentBagpipe = волынка
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentSynthesizer = synthesizer
+ent-SpawnInstrumentSynthesizer = синтезатор
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentAccordion = accordion
+ent-SpawnInstrumentAccordion = аккордеон
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentKalimba = kalimba
+ent-SpawnInstrumentKalimba = калимба
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentTrumpet = trumpet
+ent-SpawnInstrumentTrumpet = труба
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentTrombone = trombone
+ent-SpawnInstrumentTrombone = тромбон
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentFrenchHorn = french horn
+ent-SpawnInstrumentFrenchHorn = валторна
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentEuphonium = euphonium
+ent-SpawnInstrumentEuphonium = эуфониум
     .desc = { ent-SpawnSupplyEmpty.desc }
-
-ent-SpawnInstrumentGunpet = gunpet
+ent-SpawnInstrumentGunpet = ганпет
     .desc = { ent-SpawnSupplyEmpty.desc }

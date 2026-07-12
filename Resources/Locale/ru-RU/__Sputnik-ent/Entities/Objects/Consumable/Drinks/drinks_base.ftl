@@ -3,7 +3,7 @@ ent-DrinkBase = { ent-SolutionDrink }
 
 ent-DrinkBaseEmptyTrash = { ent-SolutionDrink }
     .desc = { ent-SolutionDrink.desc }
-    .suffix = Empty
+    .suffix = Пустой
 
 ent-DrinkBaseOpenable = { "" }
     .desc = { "" }

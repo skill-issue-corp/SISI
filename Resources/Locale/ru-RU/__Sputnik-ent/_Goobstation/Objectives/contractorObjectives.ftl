@@ -1,5 +1,4 @@
 ent-BaseContractorObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
-
-ent-ContractorRansomObjective = Ransom a crewmember.
-    .desc = You're running low on cash... time to make some easy money.
+ent-ContractorRansomObjective = Получить выкуп за члена экипажа.
+    .desc = Деньжата кончаются... Самое время срубить лёгкого бабла.

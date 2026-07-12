@@ -1,18 +1,13 @@
 ent-BaseSportsBall = { "" }
     .desc = { "" }
-
-ent-Basketball = basketball
-    .desc = Where dah courts at?
-
-ent-Football = football
-    .desc = Otherwise known as a handegg.
-
-ent-TennisBall = tennis ball
-    .desc = A fuzzy orb of endless betrayal.
-
-ent-BeachBall = beach ball
-    .desc = The simple beach ball is one of Nanotrasen's most popular products. 'Why do we make beach balls? Because we can! (TM)' - Nanotrasen
-
+ent-Basketball = баскетбольный мяч
+    .desc = Где тут площадка?
+ent-Football = американский футбольный мяч
+    .desc = Также известен как "яйцемяч".
+ent-TennisBall = теннисный мяч
+    .desc = Пушистая сфера бесконечного предательства.
+ent-BeachBall = пляжный мяч
+    .desc = Простой пляжный мяч — один из самых популярных товаров Nanotrasen. «Зачем мы делаем пляжные мячи? Да просто потому что можем! (ТМ)» — Nanotrasen
 ent-EvilBeachBall = { ent-BeachBall }
-    .desc = Someone's drawn ">:3c" on the side of this beach ball in indelible ink.
-    .suffix = EVIL/ADMEME
+    .desc = Кто-то нарисовал на боку этого пляжного мяча ">:3c" несмываемыми чернилами.
+    .suffix = ЗЛОЙ/АДМЕМ

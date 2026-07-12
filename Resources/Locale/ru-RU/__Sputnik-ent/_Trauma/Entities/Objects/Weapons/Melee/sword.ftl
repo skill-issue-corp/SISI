@@ -1,2 +1,2 @@
-ent-Mandate = mandate
-    .desc = A ceremonial weapon belonging to the nanotrasen representative of the station. Those who wield it are slowed by its immense mass.
+ent-Mandate = мандат
+    .desc = Церемониальное оружие, принадлежащее представителю NanoTrasen на станции. Те, кто владеет им, замедляются из-за его огромной массы.

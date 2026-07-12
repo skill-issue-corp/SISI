@@ -1,230 +1,157 @@
-ent-ClothingHeadEnvirohelm = plasma envirosuit helmet
-    .desc = A special containment helmet that allows plasma-based lifeforms to exist safely in an oxygenated environment.
-
+ent-ClothingHeadEnvirohelm = плазменный экошлем
+    .desc = Специальный герметичный шлем, позволяющий плазмалюдам безопасно существовать в среде с кислородом.
 ent-ClothingHeadEnvirohelmEmpty = { ent-ClothingHeadEnvirohelm }
+    .suffix = Пустой
     .desc = { ent-ClothingHeadEnvirohelm.desc }
-    .suffix = Empty
-
-ent-ClothingHeadEnvirohelmAtmos = atmospherics envirosuit helmet
-    .desc = A space-worthy helmet specially designed for atmos technician Plasmamen, the usual purple stripes being replaced by atmos' blue.
-
-ent-ClothingHeadEnvirohelmCargo = cargo envirosuit helmet
-    .desc = A Plasmaman envirohelmet designed for cargo technicians.
-
-ent-ClothingHeadEnvirohelmCaptain = captain's envirosuit helmet
-    .desc = A special containment helmet designed for the Captain.
-
-ent-ClothingHeadEnvirohelmChiefEngineer = chief engineer's envirosuit helmet
-    .desc = A special containment helmet designed for the Chief Engineer, the usual purple stripes being replaced by the chief's green.
-
-ent-ClothingHeadEnvirohelmChaplain = chaplain's envirosuit helmet
-    .desc = An envirohelm specially designed for only the most pious of Plasmamen.
-
-ent-ClothingHeadEnvirohelmDetective = detective's envirosuit helmet
-    .desc = A special containment helmet designed for detectives, protecting them from burning alive, alongside other undesirables.
-
-ent-ClothingHeadEnvirohelmChemist = chemistry envirosuit helmet
-    .desc = A Plasmaman envirosuit designed for chemists, two orange stripes going down its face.
-
-ent-ClothingHeadEnvirohelmClown = clown envirosuit helmet
-    .desc = The make-up is painted on, it's a miracle it doesn't chip. HONK!
-
-ent-ClothingHeadEnvirohelmCMO = chief medical officer's envirosuit helmet
-    .desc = A special containment helmet designed for the Chief Medical Officer. The gold stripe differentiates them from other medical staff.
-
-ent-ClothingHeadEnvirohelmEngineering = engineering envirosuit helmet
-    .desc = A space-worthy helmet specially designed for engineer Plasmamen, the usual purple stripes being replaced by engineering's orange.
-
-ent-ClothingHeadEnvirohelmHoP = head of personnel's envirosuit helmet
-    .desc = A special containment helmet designed for the Head of Personnel.
-
-ent-ClothingHeadEnvirohelmHoS = head of security's envirosuit helmet
-    .desc = A special containment helmet designed for the Head of Security. The pair of gold stripes differentiates them from other members of security.
-
-ent-ClothingHeadEnvirohelmHydroponics = hydroponics envirosuit helmet
-    .desc = A green and blue envirohelmet designating its wearer as a botanist.
-
-ent-ClothingHeadEnvirohelmJanitor = janitor envirosuit helmet
-    .desc = A grey helmet bearing a pair of purple stripes, designating the wearer as a janitor.
-
-ent-ClothingHeadEnvirohelmAncientVoid = NTSRA envirosuit helmet
-    .desc = Made out of a modified NTSRA vacsuit, this helmet was Nanotrasen's first-designed envirohelmet for Plasmamen.
-
-ent-ClothingHeadEnvirohelmMedicalDoctor = medical envirosuit helmet
-    .desc = An envirohelmet designed for Plasmaman Medical personnel, having two stripes down its length to denote as much.
-
-ent-ClothingHeadEnvirohelmGenitcs = genetics envirosuit helmet
-    .desc = A Plasmaman envirohelmet designed for geneticists.
-
-ent-ClothingHeadEnvirohelmMime = mime envirosuit helmet
-    .desc = The make-up is painted on, it's a miracle it doesn't chip. It's not very colourful.
-
-ent-ClothingHeadEnvirohelmParamedic = paramedic envirosuit helmet
-    .desc = An envirohelmet designed for Plasmaman paramedics, with darker blue stripes compared to the medical model.
-
-ent-ClothingHeadEnvirohelmPrisoner = prisoner envirosuit helmet
-    .desc = A Plasmaman containment helmet for prisoners.
-
-ent-ClothingHeadEnvirohelmResearchDirector = research director's envirosuit helmet
-    .desc = A special containment helmet designed for the Resarch Director. A light brown design is applied to differentiate them from other scientists.
-
-ent-ClothingHeadEnvirohelmRoboticist = roboticist envirosuit helmet
-    .desc = A Plasmaman envirohelmet designed for roboticists.
-
-ent-ClothingHeadEnvirohelmSalvage = salvage envirosuit helmet
-    .desc = A khaki helmet given to Plasmamen salvage technicians.
-
-ent-ClothingHeadEnvirohelmScientist = science envirosuit helmet
-    .desc = A Plasmaman envirohelmet designed for scientists.
-
-ent-ClothingHeadEnvirohelmSec = security envirosuit helmet
-    .desc = A Plasmaman containment helmet designed for security officers, protecting them from burning alive, alongside other undesirables.
-
-ent-ClothingHeadEnvirohelmSecBlue = blue security envirosuit helmet
-    .desc = A cool blue envirosuit helmet for Plasmaman Security personnel.
-
-ent-ClothingHeadEnvirohelmSecGrey = grey security envirosuit helmet
-    .desc = A light grey envirosuit helmet with bright red highlights for Plasmamen Security personnel.
-
-ent-ClothingHeadEnvirohelmVirology = virology envirosuit helmet
-    .desc = The helmet worn by the safest people on the station, those who are completely immune to the monstrosities they create.
-
-ent-ClothingHeadEnvirohelmWarden = warden's envirosuit helmet
-    .desc = A Plasmaman containment helmet designed for the warden. A pair of white stripes being added to differeciate them from other members of security.
-
-ent-ClothingHeadEnvirohelmOperative = operative envirosuit helmet
-    .desc = Anyone wearing this is badass and deserves at least a cursory nod of respect.
-
-ent-ClothingHeadEnvirohelmTacticool = tacticool envirosuit helmet
-    .desc = There's no doubt about it, this helmet puts you above ALL of the other Plasmamen.
-
-ent-ClothingHeadEnvirohelmCentcomAgent = CentCom agent's envirosuit helmet
-    .desc = A special containment helmet designed for CentCom's legal team. You know, so any coffee spills don't kill the poor sod.
-
-ent-ClothingHeadEnvirohelmCentcomOfficial = CentCom official's envirosuit helmet
-    .desc = A special containment helmet designed for CentCom Staff. They sure do love their green.
-
-ent-ClothingHeadEnvirohelmCentcomOfficer = CentCom officer's envirosuit helmet
-    .desc = A special containment helmet designed for CentCom Officers.
-
-ent-ClothingHeadEnvirohelmCourier = courier's envirosuit helmet
-    .desc = An envirosuit helmet for the courier.
-
-ent-ClothingHeadEnvirohelmMailCarrier = mail carrier's envirosuit helmet
-    .desc = Smells like a good pension.
-
-ent-ClothingHeadEnvirohelmMusician = musician's envirosuit helmet
-    .desc = Experts are perplexed as to how Plasmamen can still play the trumpet with this helmet on.
-
-ent-ClothingHeadEnvirohelmReporter = reporter envirosuit helmet
-    .desc = An envirosuit helmet for the reporter.
-
-ent-ClothingHeadEnvirohelmGladiator = gladiator envirosuit helmet
-    .desc = Protects the head from toy spears and poisonous oxygen.
-
-ent-ClothingHeadEnvirohelmMantis = mantis' envirosuit helmet
-    .desc = An envirosuit helmet for the forensic mantis with a fancy gold stripe.
-
-ent-ClothingHeadEnvirohelmSafari = safari envirosuit helmet
-    .desc = Makes you a target for the locals.
-
-ent-ClothingHeadEnvirohelmMartialGi = gi envirosuit helmet
-    .desc = A white envirosuit helmet with black stripes used for martial arts.
-
-ent-ClothingHeadEnvirohelmQM = quartermaster's envirosuit helmet
-    .desc = A special containment helmet designed for the Quartermaster.
-
-ent-ClothingHeadEnvirohelmBoxing = boxing envirosuit helmet
-    .desc = A white envirosuit helmet with red stripes.
-
-ent-ClothingHeadEnvirohelmAdminAssistant = administrative assistant's envirosuit helmet
-    .desc = A white envirosuit helmet with dark blue stripes.
-
-ent-ClothingHeadEnvirohelmBlackPink = black pink envirosuit helmet
-    .desc = How you like that envirosuit helmet?
-
-ent-ClothingHeadEnvirohelmBlackPinkAlt = black pink envirosuit helmet
-    .desc = This envirosuit helmet makes you want to kill this love.
-    .suffix = Alternative
-
-ent-ClothingHeadEnvirohelmTrans = trans envirosuit helmet
-    .desc = The preferred headgear of Transylvanian Plasmamen to prevent burning from oxygen.
-
-ent-ClothingHeadEnvirohelmPrisonGuard = prison guard's envirosuit helmet
-    .desc = Hope a prisoner doesn't snatch this away from you!
-
-ent-ClothingHeadEnvirohelmBrigmedic = corpsman envirosuit helmet
-    .desc = A helmet provided to Corpsmen Plasmamen.
-
-ent-ClothingHeadEnvirohelmNanotrasenRepresentative = nanotrasen representative envirosuit helmet
-    .desc = A black envirosuit helmet worn by the NanoTrasen Representative, with black and gold accents.
-
-ent-ClothingHeadEnvirohelmMagistrate = magistrate envirosuit helmet
-    .desc = A plain white envirosuit with yellow stripes.
-
-ent-ClothingHeadEnvirohelmColorWhite = white envirosuit helmet
-    .desc = A generic white envirohelm.
-
-ent-ClothingHeadEnvirohelmColorGrey = grey envirosuit helmet
-    .desc = A grey envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorBlack = black envirosuit helmet
-    .desc = A black envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorRed = red envirosuit helmet
-    .desc = A red envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorGreen = green envirosuit helmet
-    .desc = A green envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorDarkGreen = dark green envirosuit helmet
-    .desc = A dark green envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorBlue = blue envirosuit helmet
-    .desc = A blue envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorDarkBlue = dark blue envirosuit helmet
-    .desc = A dark blue envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorTeal = teal envirosuit helmet
-    .desc = A teal envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorMaroon = maroon envirosuit helmet
-    .desc = A maroon envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorPink = pink envirosuit helmet
-    .desc = A pink envirosuit helmet. So fetch!
-
-ent-ClothingHeadEnvirohelmColorYellow = yellow envirosuit helmet
-    .desc = A yellow envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorPurple = purple envirosuit helmet
-    .desc = A purple envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorOrange = orange envirosuit helmet
-    .desc = An orange envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorLightBrown = light brown envirosuit helmet
-    .desc = A light brown envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmColorBrown = brown envirosuit helmet
-    .desc = A brown envirosuit helmet.
-
-ent-ClothingHeadEnvirohelmEnviroslacksColorRed = red enviroslacks helmet
-    .desc = The pet project of a particularly posh Plasmaman, this envirohelm comes with red accents. Fancy!
-
-ent-ClothingHeadEnvirohelmEnviroslacksColorOrange = orange enviroslacks helmet
-    .desc = The pet project of a particularly posh Plasmaman, this envirohelm comes with orange accents. Zesty!
-
-ent-ClothingHeadEnvirohelmEnviroslacksColorGreen = green enviroslacks helmet
-    .desc = The pet project of a particularly posh Plasmaman, this envirohelm comes with green accents. Leafy!
-
-ent-ClothingHeadEnvirohelmEnviroslacksColorBlue = blue enviroslacks helmet
-    .desc = The pet project of a particularly posh Plasmaman, this envirohelm comes with blue accents. Cool!
-
-ent-ClothingHeadEnvirohelmEnviroslacksMNK = MNK enviroslacks helmet
-    .desc = A sleek envirohelm brought to you by MNK. Classic!
-
-ent-ClothingHeadEnvirohelmEnviroslacksMNKAlt = monochrome enviroslacks helmet
-    .desc = A sleek envirohelm brought to you by MNK. Noir!
-    .suffix = Alternative
+ent-ClothingHeadEnvirohelmAtmos = экошлем атмосферного техника
+    .desc = Космический шлем, специально разработанный для атмосферных техников-плазмалюдей, обычные фиолетовые полосы заменены синими атмосферными.
+ent-ClothingHeadEnvirohelmCargo = экошлем грузчика
+    .desc = Экошлем плазмалюда, предназначенный для грузчиков.
+ent-ClothingHeadEnvirohelmCaptain = экошлем капитана
+    .desc = Специальный герметичный шлем, предназначенный для капитана.
+ent-ClothingHeadEnvirohelmChiefEngineer = экошлем старшего инженера
+    .desc = Специальный герметичный шлем для главного инженера, обычные фиолетовые полосы заменены зелёными.
+ent-ClothingHeadEnvirohelmChaplain = экошлем священника
+    .desc = Экошлем, специально предназначенный для самых набожных плазмалюдей.
+ent-ClothingHeadEnvirohelmDetective = экошлем детектива
+    .desc = Специальный герметичный шлем для детективов, защищающий от ожогов и других неприятностей.
+ent-ClothingHeadEnvirohelmChemist = экошлем химика
+    .desc = Экошлем плазмалюда для химиков, с двумя оранжевыми полосами на лице.
+ent-ClothingHeadEnvirohelmClown = экошлем клоуна
+    .desc = Макияж нарисован, чудо, что он не осыпается. HONK!
+ent-ClothingHeadEnvirohelmCMO = экошлем главного врача
+    .desc = Специальный герметичный шлем для главного врача. Золотая полоса отличает его от других медработников.
+ent-ClothingHeadEnvirohelmEngineering = экошлем инженера
+    .desc = Космический шлем, специально разработанный для инженеров-плазмалюдей, обычные фиолетовые полосы заменены оранжевыми.
+ent-ClothingHeadEnvirohelmHoP = экошлем главы персонала
+    .desc = Специальный герметичный шлем для главы персонала.
+ent-ClothingHeadEnvirohelmHoS = экошлем ГСБ
+    .desc = Специальный герметичный шлем для главы службы безопасности. Пара золотых полос отличает его от остальных сотрудников безопасности.
+ent-ClothingHeadEnvirohelmHydroponics = экошлем ботаника
+    .desc = Зелёно-голубой экошлем, обозначающий носителя как ботаника.
+ent-ClothingHeadEnvirohelmJanitor = экошлем уборщика
+    .desc = Серый шлем с парой фиолетовых полос, обозначающих уборщика.
+ent-ClothingHeadEnvirohelmAncientVoid = NTSRA экошлем
+    .desc = Из модифицированного костюма NTSRA, первый экошлем для плазмалюдей, разработанный Nanotrasen.
+ent-ClothingHeadEnvirohelmMedicalDoctor = экошлем врача
+    .desc = Экошлем для медицинского персонала-плазмалюдей, с двумя полосами, обозначающими это.
+ent-ClothingHeadEnvirohelmGenitcs = экошлем генетика
+    .desc = Экошлем плазмалюда для генетиков.
+ent-ClothingHeadEnvirohelmMime = экошлем мима
+    .desc = Макияж нарисован, чудо, что он не осыпается. Не слишком красочный.
+ent-ClothingHeadEnvirohelmParamedic = экошлем парамедика
+    .desc = Экошлем для парамедиков-плазмалюдей, с тёмно-синими полосами по сравнению с медицинским.
+ent-ClothingHeadEnvirohelmPrisoner = экошлем заключённого
+    .desc = Герметичный шлем плазмалюда для заключённых.
+ent-ClothingHeadEnvirohelmResearchDirector = экошлем научного руководителя
+    .desc = Специальный герметичный шлем для научного руководителя. Светло-коричневый дизайн отличает его от других учёных.
+ent-ClothingHeadEnvirohelmRoboticist = экошлем робототехника
+    .desc = Экошлем плазмалюда для робототехников.
+ent-ClothingHeadEnvirohelmSalvage = экошлем утилизатора
+    .desc = Хаки-шлем для плазмалюдей, работающих на утилизации.
+ent-ClothingHeadEnvirohelmScientist = экошлем учёного
+    .desc = Экошлем плазмалюда для учёных.
+ent-ClothingHeadEnvirohelmSec = экошлем СБ
+    .desc = Герметичный шлем плазмалюда для офицеров безопасности, защищающий от ожогов и других неприятностей.
+ent-ClothingHeadEnvirohelmSecBlue = синий экошлем СБ
+    .desc = Голубой экошлем для службы безопасности плазмалюдей.
+ent-ClothingHeadEnvirohelmSecGrey = серый экошлем СБ
+    .desc = Светло-серый экошлем с ярко-красными акцентами для службы безопасности плазмалюдей.
+ent-ClothingHeadEnvirohelmVirology = экошлем вирусолога
+    .desc = Шлем, носимый самыми безопасными людьми на станции, полностью невосприимчивыми к создаваемым ими монстрам.
+ent-ClothingHeadEnvirohelmWarden = экошлем смотрителя
+    .desc = Герметичный шлем плазмалюда для смотрителя. Добавлена пара белых полос, чтобы отличать от других сотрудников безопасности.
+ent-ClothingHeadEnvirohelmOperative = экошлем оперативника
+    .desc = Любой, кто носит этот шлем, крут и заслуживает хотя бы кивка уважения.
+ent-ClothingHeadEnvirohelmTacticool = тактикульный экошлем
+    .desc = Нет сомнений, этот шлем ставит вас выше всех других плазмалюдей.
+ent-ClothingHeadEnvirohelmCentcomAgent = экошлем агента ЦК
+    .desc = Специальный герметичный шлем для юридического отделения ЦК. Чтобы пролившийся кофе не убил беднягу.
+ent-ClothingHeadEnvirohelmCentcomOfficial = экошлем представителя ЦК
+    .desc = Специальный герметичный шлем для сотрудников Центрального Командования. Они явно любят зелёный.
+ent-ClothingHeadEnvirohelmCentcomOfficer = экошлем офицера ЦК
+    .desc = Специальный герметичный шлем для офицеров Центрального Командования.
+ent-ClothingHeadEnvirohelmCourier = экошлем курьерский
+    .desc = Экошлем для курьера.
+ent-ClothingHeadEnvirohelmMailCarrier = экошлем почтальона
+    .desc = Пахнет хорошей пенсией.
+ent-ClothingHeadEnvirohelmMusician = экошлем музыканта
+    .desc = Эксперты удивлены, как плазмалюди всё ещё могут играть на трубе в этом шлеме.
+ent-ClothingHeadEnvirohelmReporter = экошлем репортёра
+    .desc = Экошлем для репортёра.
+ent-ClothingHeadEnvirohelmGladiator = гладиаторский экошлем
+    .desc = Защищает голову от игрушечных копий и ядовитого кислорода.
+ent-ClothingHeadEnvirohelmMantis = экошлем мантиса
+    .desc = Экошлем для судебного мантиса с красивой золотой полосой.
+ent-ClothingHeadEnvirohelmSafari = сафари экошлем
+    .desc = Делает вас целью для местных.
+ent-ClothingHeadEnvirohelmMartialGi = боевой экошлем
+    .desc = Белый экошлем с чёрными полосами для боевых искусств.
+ent-ClothingHeadEnvirohelmQM = экошлем квартирмейстера
+    .desc = Специальный герметичный шлем для офицера логистики.
+ent-ClothingHeadEnvirohelmBoxing = экошлем боксёра
+    .desc = Белый экошлем с красными полосами.
+ent-ClothingHeadEnvirohelmAdminAssistant = экошлем административного ассистента
+    .desc = Белый экошлем с тёмно-синими полосами.
+ent-ClothingHeadEnvirohelmBlackPink = черно-розовый экошлем
+    .desc = Ты педовка?
+ent-ClothingHeadEnvirohelmBlackPinkAlt = черно-розовый экошлем
+    .desc = Этот экошлем заставляет вас сжечь сентябрь.
+    .suffix = Альтернативный
+ent-ClothingHeadEnvirohelmBlueshield = экошлем офицера "Синий Щит"
+    .desc = Экошлем для Плазмалюда, предназначенный для сотрудников корпуса "Синий Щит"
+ent-ClothingHeadEnvirohelmTrans = трансильванский экошлем
+    .desc = Предпочтительная защита головы Плазмалюдов из Трансильвании, предотвращающая ожоги от кислорода.
+ent-ClothingHeadEnvirohelmPrisonGuard = экошлем охранника тюрьмы
+    .desc = Надеемся, заключённый не отберёт его у вас!
+ent-ClothingHeadEnvirohelmBrigmedic = экошлем бригмедика
+    .desc = Экошлем, предоставляемый Плазмалюдам-медикам Корпуса.
+ent-ClothingHeadEnvirohelmNanotrasenRepresentative = экошлем представителя NanoTrasen
+    .desc = Чёрный экошлем для представителя Nanotrasen с чёрными и золотыми акцентами.
+ent-ClothingHeadEnvirohelmMagistrate = экошлем магистрата
+    .desc = Белый экошлем с жёлтыми полосами.
+ent-ClothingHeadEnvirohelmColorWhite = белый экошлем
+    .desc = Универсальный белый экошлем.
+ent-ClothingHeadEnvirohelmColorGrey = серый экошлем
+    .desc = Серый экошлем.
+ent-ClothingHeadEnvirohelmColorBlack = черный экошлем
+    .desc = Чёрный экошлем.
+ent-ClothingHeadEnvirohelmColorRed = красный экошлем
+    .desc = Красный экошлем.
+ent-ClothingHeadEnvirohelmColorGreen = зеленый экошлем
+    .desc = Зелёный экошлем.
+ent-ClothingHeadEnvirohelmColorDarkGreen = темно-зеленый экошлем
+    .desc = Тёмно-зелёный экошлем.
+ent-ClothingHeadEnvirohelmColorBlue = синий экошлем
+    .desc = Синий экошлем.
+ent-ClothingHeadEnvirohelmColorDarkBlue = темно-синий экошлем
+    .desc = Тёмно-синий экошлем.
+ent-ClothingHeadEnvirohelmColorTeal = бирюзовый экошлем
+    .desc = Бирюзовый экошлем.
+ent-ClothingHeadEnvirohelmColorMaroon = бордовый экошлем
+    .desc = Бордовый экошлем.
+ent-ClothingHeadEnvirohelmColorPink = розовый экошлем
+    .desc = Розовый экошлем. Стильно!
+ent-ClothingHeadEnvirohelmColorYellow = желтый экошлем
+    .desc = Жёлтый экошлем.
+ent-ClothingHeadEnvirohelmColorPurple = фиолетовый экошлем
+    .desc = Фиолетовый экошлем.
+ent-ClothingHeadEnvirohelmColorOrange = оранжевый экошлем
+    .desc = Оранжевый экошлем.
+ent-ClothingHeadEnvirohelmColorLightBrown = светло-коричневый экошлем
+    .desc = Светло-коричневый экошлем.
+ent-ClothingHeadEnvirohelmColorBrown = коричневый
+    .desc = Коричневый экошлем.
+ent-ClothingHeadEnvirohelmEnviroslacksColorRed = красный стильный экошлем
+    .desc = Личный проект особенно изысканного Плазмалюда, экошлем с красными акцентами. Шикарно!
+ent-ClothingHeadEnvirohelmEnviroslacksColorOrange = оранжевый стильный экошлем
+    .desc = Личный проект особенно изысканного Плазмалюда, экошлем с оранжевыми акцентами. Энергично!
+ent-ClothingHeadEnvirohelmEnviroslacksColorGreen = зеленый стильный экошлем
+    .desc = Личный проект особенно изысканного Плазмалюда, экошлем с зелёными акцентами. Листья!
+ent-ClothingHeadEnvirohelmEnviroslacksColorBlue = синий стильный экошлем
+    .desc = Личный проект особенно изысканного Плазмалюда, экошлем с синими акцентами. Круто!
+ent-ClothingHeadEnvirohelmEnviroslacksMNK = экошлем MNK
+    .desc = Элегантный экошлем от MNK. Классика!
+ent-ClothingHeadEnvirohelmEnviroslacksMNKAlt = монохромный экошлем
+    .desc = Элегантный экошлем от MNK. Нуар!
+    .suffix = Альтернативный

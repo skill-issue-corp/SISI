@@ -1,5 +1,4 @@
-ent-BaseSpeedLoaderCap = cap gun loader
+ent-BaseSpeedLoaderCap = зарядник пистонов
     .desc = { ent-BaseItem.desc }
-
-ent-SpeedLoaderCap = cap gun loader
-    .desc = Designed to quickly load up to six cartridges into an empty cap gun.
+ent-SpeedLoaderCap = зарядник пистонов
+    .desc = { ent-BaseSpeedLoaderCap.desc }

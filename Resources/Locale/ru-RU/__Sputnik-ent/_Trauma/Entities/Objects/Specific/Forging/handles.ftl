@@ -1,17 +1,12 @@
 ent-BaseForgingHandle = { ent-BaseForgeItemNoTemp }
     .desc = { ent-BaseForgeItemNoTemp.desc }
-
-ent-WoodenHandleUnfinished = unfinished handle
-    .desc = A rough wooden pole, use a knife to cut it into shape.
-
-ent-WoodenHandleShort = short handle
-    .desc = A small handle, suitable for small weapons and tools, like knives or screwdrivers. Can be cut into arrow shafts if you have a steady hand.
-
-ent-WoodenHandleMedium = medium handle
-    .desc = A medium handle, suitable for medium sized weapons, such as maces and pickaxes. Can be cut down for smaller handles.
-
-ent-WoodenHandleLong = wooden pole
-    .desc = A long wooden pole, suitable for giant weapons such as halberds and spears. Can be cut down for smaller handles.
-
-ent-WoodenArrowShaft = arrow shaft
-    .desc = A thin but strong piece of wood, perfect for handmade arrows. You could attach it to a forged arrow head.
+ent-WoodenHandleUnfinished = необработанная рукоять
+    .desc = Грубый деревянный брусок, обработайте его ножом, чтобы придать нужную форму.
+ent-WoodenHandleShort = короткая рукоять
+    .desc = Небольшая рукоять, подходящая для маленького оружия и инструментов, таких как ножи или отвёртки. При твёрдой руке из неё можно вырезать древко для стрелы.
+ent-WoodenHandleMedium = средняя рукоять
+    .desc = Рукоять среднего размера, подходящая для оружия среднего размера, такого как булавы и кирки. Можно обрезать для получения более короткой рукояти.
+ent-WoodenHandleLong = деревянный шест
+    .desc = Длинный деревянный шест, подходящий для гигантского оружия, такого как алебарды и копья. Можно обрезать для получения более короткой рукояти.
+ent-WoodenArrowShaft = древко стрелы
+    .desc = Тонкий, но прочный кусок дерева, идеально подходящий для самодельных стрел. К нему можно прикрепить кованый наконечник стрелы.

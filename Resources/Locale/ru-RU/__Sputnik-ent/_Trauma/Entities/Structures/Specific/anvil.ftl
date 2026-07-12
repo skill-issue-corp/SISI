@@ -1,5 +1,4 @@
-ent-AnvilComplete = anvil
-    .desc = Use this to make ingots into the desired creation.
-
-ent-AnvilDebug = debug anvil
-    .desc = Forge anything you want from thin air using a single punch.
+ent-AnvilComplete = наковальня
+    .desc = Используйте её, чтобы превратить слитки в желаемое творение.
+ent-AnvilDebug = отладочная наковальня
+    .desc = Куёт что угодно из воздуха одним ударом.

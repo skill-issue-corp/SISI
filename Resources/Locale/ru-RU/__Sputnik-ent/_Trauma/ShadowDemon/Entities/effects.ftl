@@ -1,5 +1,4 @@
-ent-ShadowDemonPhaseIn = shadow demon jaunt
+ent-ShadowDemonPhaseIn = проявление теневого демона
     .desc = { "" }
-
-ent-ShadowDemonPhaseOut = shadow demon jaunt out
+ent-ShadowDemonPhaseOut = исчезновение теневого демона
     .desc = { ent-ShadowDemonPhaseIn.desc }

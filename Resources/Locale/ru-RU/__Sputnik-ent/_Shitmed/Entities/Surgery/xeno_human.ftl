@@ -1,56 +1,38 @@
 ent-BaseSurgeryOpenXenoCavity = { ent-SurgeryOpenCavityBase }
     .desc = { ent-SurgeryOpenCavityBase.desc }
-
-ent-SurgeryOpenXenoCavityHiveNode = Open Hive Node Cavity
+ent-SurgeryOpenXenoCavityHiveNode = Открыть полость узла улья
     .desc = { ent-BaseSurgeryOpenXenoCavity.desc }
-
-ent-SurgeryOpenXenoCavityResinSpinner = Open Resin Spinner Cavity
+ent-SurgeryOpenXenoCavityResinSpinner = Открыть полость cмоляного прядильщика
     .desc = { ent-BaseSurgeryOpenXenoCavity.desc }
-
-ent-SurgeryOpenXenoCavityNeurotoxinGland = Open Neurotoxin Gland Cavity
+ent-SurgeryOpenXenoCavityNeurotoxinGland = Открыть полость нейротоксиновой железы
     .desc = { ent-BaseSurgeryOpenXenoCavity.desc }
-
-ent-SurgeryOpenXenoCavityAcidGland = Open Acid Gland Cavity
+ent-SurgeryOpenXenoCavityAcidGland = Открыть полость кислотной железы
     .desc = { ent-BaseSurgeryOpenXenoCavity.desc }
-
-ent-SurgeryOpenXenoCavityPlasmaVessel = Open Plasma Vessel Cavity
+ent-SurgeryOpenXenoCavityPlasmaVessel = Открыть полость сосуда с плазмой
     .desc = { ent-BaseSurgeryOpenXenoCavity.desc }
-
-ent-SurgeryOpenXenoCavityEggSack = Open Egg Sack Cavity
+ent-SurgeryOpenXenoCavityEggSack = Открыть полость мешка для яиц
     .desc = { ent-BaseSurgeryOpenXenoCavity.desc }
-
-ent-SurgeryInsertHiveNode = Transplant Hive Node
+ent-SurgeryInsertHiveNode = Пересадить узел улья
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryInsertResinSpinner = Transplant Resin Spinner
+ent-SurgeryInsertResinSpinner = Пересадить смолокрут
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryInsertNeurotoxinGland = Transplant Neurotoxin Gland
+ent-SurgeryInsertNeurotoxinGland = Пересадить нейротоксиновую железу
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryInsertAcidGland = Transplant Acid Gland
+ent-SurgeryInsertAcidGland = Пересадить кислотную железу
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryInsertPlasmaVessel = Transplant Plasma Vessel
+ent-SurgeryInsertPlasmaVessel = Пересадить сосуд с плазмой
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryInsertEggSack = Transplant Egg Sack
+ent-SurgeryInsertEggSack = Пересадить мешок для яиц
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-
-ent-SurgeryRemoveHiveNode = Remove Transplanted Hive Node
+ent-SurgeryRemoveHiveNode = Удалить пересаженный узел улья
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-
-ent-SurgeryRemoveResinSpinner = Remove Transplanted Resin Spinner
+ent-SurgeryRemoveResinSpinner = Удалить пересаженный cмоляной прядильщик
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-
-ent-SurgeryRemoveNeurotoxinGland = Remove Transplanted Neurotoxin Gland
+ent-SurgeryRemoveNeurotoxinGland = Удалить пересаженную нейротоксиновую железу
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-
-ent-SurgeryRemoveAcidGland = Remove Transplanted Acid Gland
+ent-SurgeryRemoveAcidGland = Удалить пересаженную кислотную железу
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-
-ent-SurgeryRemovePlasmaVessel = Remove Transplanted Plasma Vessel
+ent-SurgeryRemovePlasmaVessel = Удалить пересаженный сосуд с плазмой
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-
-ent-SurgeryRemoveEggSack = Remove Transplanted Egg Sack
+ent-SurgeryRemoveEggSack = Удалить пересаженный мешок для яиц
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }

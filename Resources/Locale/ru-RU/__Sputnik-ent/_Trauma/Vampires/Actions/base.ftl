@@ -1,23 +1,16 @@
 ent-BaseVampireAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
-
 ent-BaseRejuvAction = { ent-BaseVampireAction }
     .desc = { ent-BaseVampireAction.desc }
-
-ent-ActionVampRejuvenateI = Rejuvenate I
-    .desc = Removes any and all stuns. Removes 100 stamina damage.
-
-ent-ActionVampRejuvenateII = Rejuvenate II
-    .desc = Removes any and all stuns. Purges 10u of any harmful reagent. Heals 10 points each of brute, burn, toxin, and heals 50 points of oxyloss.
-
-ent-ActionVampireGlare = Glare
-    .desc = Works in melee-range, and has different effects on each side of you. Requires 2 charges to fully stun.
-
-ent-ActionChooseSpecialization = Choose Specialization
-    .desc = Choose Specialization
-
-ent-ActionCreateLair = Create Lair
-    .desc = Use the action on a coffin to make it your lair. You will heal inside the lair, and be able to teleport to it on death. You can only make one lair, so be careful.
-
-ent-ActionTeleportLair = Teleport To Lair
-    .desc = Use this action when you are dead or crit, in order to teleport to your lair.
+ent-ActionVampRejuvenateI = Омоложение I
+    .desc = Снимает все оглушения. Убирает 100 урона выносливости.
+ent-ActionVampRejuvenateII = Омоложение II
+    .desc = Снимает все оглушения. Очищает 10 ед. любого вредного реагента. Лечит по 10 очков урона от ударов, ожогов и токсинов, а также 50 очков урона от нехватки кислорода.
+ent-ActionVampireGlare = Пронзающий взгляд
+    .desc = Работает на расстоянии ближнего боя и по-разному действует в зависимости от того, с какой стороны вы находитесь. Требуется 2 заряда для полного оглушения.
+ent-ActionChooseSpecialization = Выбрать специализацию
+    .desc = Выбрать специализацию
+ent-ActionCreateLair = Создать логово
+    .desc = Примените это действие к гробу, чтобы сделать его своим логовом. Внутри логова вы будете исцеляться и сможете телепортироваться туда после смерти. Вы можете создать только одно логово, так что будьте осторожны.
+ent-ActionTeleportLair = Телепортироваться в логово
+    .desc = Используйте это действие, находясь при смерти или в критическом состоянии, чтобы телепортироваться в своё логово.

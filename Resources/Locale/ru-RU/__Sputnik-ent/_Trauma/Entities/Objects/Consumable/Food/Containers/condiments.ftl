@@ -1,2 +1,2 @@
-ent-FoodCondimentPacketCocoa = cocoa powder
-    .desc = A sweet cocoa-based flavoring.
+ent-FoodCondimentPacketCocoa = какао-порошок
+    .desc = Сладкая приправа на основе какао.

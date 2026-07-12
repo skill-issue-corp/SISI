@@ -1,11 +1,8 @@
 ent-BaseMagazineNailgun = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
-ent-MagazineNailgun = nailgun magazine
+ent-MagazineNailgun = магазин гвоздемета
     .desc = { ent-BaseMagazineNailgun.desc }
-
-ent-MagazineNailgunEmpty = nailgun magazine (any)
+ent-MagazineNailgunEmpty = магазин гвоздемета (любой)
     .desc = { ent-BaseMagazineNailgun.desc }
-
-ent-MagazineNailgunArmorPiercing = nailgun magazine (armor-piercing)
+ent-MagazineNailgunArmorPiercing = магазин гвоздемета (бронебойный)
     .desc = { ent-BaseMagazineNailgun.desc }

@@ -1,96 +1,73 @@
-ent-ClothingUniformJumpsuitDurathread = durathread jumpsuit
-    .desc = A loose worn durathread shirt with a grey pants, its resilient fibres provide some protection to the wearer.
-
-ent-ClothingUniformJumpsuitResonant = resonant jumpsuit
-    .desc = Lets not play too rough. Neither you nor I can reach it just yet…
-
-ent-ClothingUniformJumpsuitWestern = authentic cowboy's jumpsuit
-    .desc = Let's show the head of security how we used to do things out west.
-
-ent-ClothingUniformJumpsuitNanotrasenRepresentative = nanotrasen representative suit
-    .desc = A black suit worn by officials.
-
-ent-ClothingUniformJumpsuitNanotrasenRepresentativeFancy = fancy nanotrasen representative suit
-    .desc = A fancy black suit worn by officials, embellished with more golden threads than Normal.
-
-ent-ClothingUniformJumpsuitCasualSyndicate = casual syndicate jumpsuit
-    .desc = Short sleeves, short temper.
-
-ent-ClothingUniformJumpsuitCasualCentcom = casual centcom jumpsuit
-    .desc = Paperwork's tough.
-
-ent-ClothingUniformJumpsuitCasualCommand = casual command jumpsuit
-    .desc = Wait, where's my PDA?.
-
-ent-ClothingUniformJumpsuitCasualEngineer = casual engineering jumpsuit
-    .desc = Sparks? Fiberglass? What about 'em?
-
-ent-ClothingUniformMailCarrier = mail carrier's uniform
-    .desc = Enemy of dogs everywhere.
-
-ent-ClothingUniformHecu = HECU uniform
-    .desc = Hunt down the Freeman.
-
-ent-ClothingUniformJumpsuitNavyGold = navy officer's jumpsuit
-    .desc = A suit worn by high-ranking Central Command members. The rest is classified.
-
-ent-ClothingUniformJumpsuitSpecOps = special operations officer's jumpsuit
-    .desc = A suit worn by high-ranking spec ops officers. The rest is classified.
-
-ent-ClothingUniformJumpsuitDiplomat = diplomat's jumpsuit
-    .desc = A suit worn by diplomacy focused Central Command workers.
-
-ent-ClothingCostumeAbductor = Alien Costume
-    .desc = The tag reads- Donk Co. not responsible for any security shootings caused by this product.
-
-ent-ClothingUniformJumpsuitDevil = devilish suit
-    .desc = A stylish black suit made of materials not from this dimension. Warm to the touch.
-
-ent-ClothingUniformJumpsuitMercer = manhattan streetwear
-    .desc = Only someone who would try to run away with Earth's deadliest bioweapon would want to wear this.
-
-ent-ClothingUniformJumpsuitHoSSummer = head of security's summer shirt
-    .desc = The head of security's custom-commissioned summer outfit, for when chasing tiders gets hot.
-
-ent-ClothingUniformJumpsuitRDSummer = research director's summer shirt
-    .desc = The research director's custom-commissioned summer outfit, for when those fire anomalies are making you sweat.
-
-ent-ClothingUniformJumpsuitQMSummer = quartermaster's summer shirt
-    .desc = The quartermaster's custom-commissioned summer outfit, for when you want to show off your cash to the other departments.
-
-ent-ClothingUniformJumpsuitCaptainSummer = captain's summer shirt
-    .desc = The captain's custom-commissioned summer outfit, for when you've been in the green for a while.
-
-ent-ClothingUniformJumpsuitHoPSummer = head of personnel's summer shirt
-    .desc = The head of personnel's custom-commissioned summer outfit, for when you want to comfortably do paperwork.
-
-ent-ClothingUniformJumpsuitCESummer = chief engineer's summer shirt
-    .desc = The chief engineer's custom-commissioned summer outfit, for when you just want to lay down and look at the tesla.
-
-ent-ClothingUniformJumpsuitPassengerQuarterzip = grey quarterzip
-    .desc = A quarterzip for the sophisticated assistant.
-
+ent-ClothingUniformJumpsuitDurathread = комбинезон из дюратнки
+    .desc = Свободная изношенная дюратнковая рубашка с серыми штанами, прочные волокна обеспечивают защиту носителю.
+ent-ClothingUniformJumpsuitResonant = резонантный комбинезон
+    .desc = Давай играть не так жестко. Ни ты, ни я пока не можем этого достигнуть...
+ent-ClothingUniformJumpsuitWestern = истинный ковбойский комбинезон
+    .desc = Давайте покажем ГСБ, как это происходило на Диком Западе.
+ent-ClothingUniformJumpsuitNanotrasenRepresentative = костюм представителя Nanotrasen
+    .desc = Чёрный костюм, который носят официальные лица.
+ent-ClothingUniformJumpsuitNanotrasenRepresentativeFancy = изысканный костюм представителя Nanotrasen
+    .desc = Чёрный костюм, который носят официальные лица. Украшено большим количеством золотых нитей, чем обычно.
+ent-ClothingUniformJumpsuitCasualSyndicate = повседневный комбинезон Синдиката
+    .desc = Короткие рукава, короткий характер.
+ent-ClothingUniformJumpsuitCasualCentcom = повседневный комбинезон ЦК
+    .desc = Бумажная работа — это тяжело.
+ent-ClothingUniformJumpsuitCasualCommand = повседневный командный комбинезон
+    .desc = Подождите, где мой КПК?
+ent-ClothingUniformJumpsuitCasualEngineer = повседневный инженерный комбинезон
+    .desc = Искры? Стекловолокно? И что с того?
+ent-ClothingUniformJumpsuitBlueshieldOfficer = комбинезон офицера офицера "Синий Щит"
+    .desc = Серо-голубой комбинезон с короткими рукавами из прочного материала. Стандартное снаряжение офицера офицера "Синий Щит".
+ent-ClothingUniformJumpsuitBlueshieldShirt = синяя рубашка офицера офицера "Синий Щит"
+    .desc = Официальная форма службы безопасности. Надежная и загруженная.
+ent-ClothingUniformMailCarrier = форма почтальона
+    .desc = Враг собак повсюду.
+ent-ClothingUniformHecu = форма HECU
+    .desc = Охоться на Фримена.
+ent-ClothingUniformJumpsuitNavyGold = комбинезон офицера ЦК
+    .desc = Костюм высокопоставленных членов Центрального Командования. Остальное засекречено.
+ent-ClothingUniformJumpsuitSpecOps = комбинезон офицера спец. операций
+    .desc = Костюм высокопоставленных офицеров спец. операций. Остальное засекречено.
+ent-ClothingUniformJumpsuitDiplomat = комбинезон дипломата
+    .desc = Костюм сотрудников Центрального Командования, занимающихся дипломатией.
+ent-ClothingCostumeAbductor = костюм пришельца
+    .desc = На ярлыке написано: Donk Co. не несет ответственности за инциденты с применением оружия, вызванные этим изделием.
+ent-ClothingUniformJumpsuitTrainer = комбинезон наставника
+    .desc = Комбинезон, выданный тренерам Nanotrasen. Наполняет чувством гордости.
+ent-ClothingUniformJumpsuitDevil = дьявольский костюм
+    .desc = Стильный чёрный костюм из материалов, не принадлежащих этому измерению. Тёплый на ощупь.
+ent-ClothingUniformJumpsuitMercer = уличная одежда Манхэттена
+    .desc = Надеть это может только тот, кто хочет сбежать с самым смертоносным биологическим оружием Земли.
+ent-ClothingUniformJumpsuitHoSSummer = летняя рубашка ГСБ
+    .desc = Индивидуальный летний наряд главы службы безопасности, на случай, если становится жарко во время погони за грейтайдами.
+ent-ClothingUniformJumpsuitRDSummer = летняя рубашка НР
+    .desc = Индивидуальный летний наряд научного руководителя, когда огненные аномалии заставляют вас попотеть.
+ent-ClothingUniformJumpsuitQMSummer = летняя рубашка КМ
+    .desc = Индивидуальный летний наряд квартирмейстера, когда хочется похвастаться богатствами перед другими отделами.
+ent-ClothingUniformJumpsuitCaptainSummer = летняя рубашка Капитана
+    .desc = Индивидуальный летний наряд капитана, когда дела на высоте.
+ent-ClothingUniformJumpsuitHoPSummer = летняя рубашка ГП
+    .desc = Индивидуальный летний наряд главы персонала, чтобы с комфортом заниматься бумажной работой.
+ent-ClothingUniformJumpsuitCESummer = летняя рубашка СИ
+    .desc = Индивидуальный летний наряд старшего инженера, чтобы просто лечь и полюбоваться теслой под пивко.
+ent-ClothingUniformJumpsuitPassengerQuarterzip = серый свитер с молнией
+    .desc = Свитер с молнией для самых утончённых пассажиров.
 ent-ClothingUniformJumpsuitAncientUnremoveable = { ent-ClothingUniformJumpsuitAncient }
+    .suffix = Неснимаемый
     .desc = { ent-ClothingUniformJumpsuitAncient.desc }
-    .suffix = Unremoveable
-
-ent-ClothingUniformJumpsuitShaftMiner = shaft miner's jumpsuit
-    .desc = It's a snappy jumpsuit, looks a bit burnt.
-
-ent-ClothingUniformOverallsCargo = cargo tech's overalls
-    .desc = It's a sturdy set of overalls. It's a bit dusty.
-
-ent-ClothingUniformOverallsSalvageSpecialist = salvage specialist's overalls
-    .desc = It's a sturdy set of overalls. It's very dirty.
-
-ent-ClothingUniformOverallsShaftMiner = shaft miner's overalls
-    .desc = It's a sturdy set of overalls, looks a bit burnt.
-
-ent-ClothingUniformJumpsuitResearchDirectorAlt = research director's turtleneck
-    .desc = It's a turtleneck worn by those with the know-how to achieve the position of Research Director. Its fabric provides minor protection from biological contaminants.
-
-ent-ClothingUniformJumpsuitVeteranSecurity = Airy Security Jumpsuit
-    .desc = An airy version of the standard security jumpsuit, normally given on shifts with a lacking atmos department
-
-ent-ClothingUniformJumpsuitGoldenLiaison = Golden Liaison CentCom Jumpsuit
-    .desc = A finely-tailored white-and-gold uniform worn by senior officials of Central Command.
+ent-ClothingUniformJumpsuitOuterCommand = комбинезон офицера ТСФ
+    .desc = Изысканный пурпурный костюм с эмблемой ТСФ
+ent-ClothingUniformJumpsuitShaftMiner = комбинезон шахтёра
+    .desc = Удобный комбинезон, выглядит слегка обгоревшим.
+ent-ClothingUniformOverallsCargo = комбинезон грузчика
+    .desc = Прочный рабочий комбинезон. Немного пыльный.
+ent-ClothingUniformOverallsSalvageSpecialist = комбинезон утилизатора
+    .desc = Прочный рабочий комбинезон. Очень грязный.
+ent-ClothingUniformOverallsShaftMiner = комбинезон шахтёра
+    .desc = Прочный рабочий комбинезон, выглядит слегка обгоревшим.
+ent-ClothingUniformJumpsuitResearchDirectorAlt = водолазка научного руководителя
+    .desc = Водолазка, которую носят те, кому хватило знаний, чтобы занять должность научного руководителя. Её ткань обеспечивает незначительную защиту от биологических загрязнений.
+ent-ClothingUniformJumpsuitCentralCommandLiaison = комбинезон представителя ЦК
+    .desc = Ходят слухи, что сотрудник Центрального Командования, впервые увидевший униформу Внешнего Командования, так завидовал, что окрасил её в зелёный своей завистью.
+ent-ClothingUniformJumpsuitVeteranSecurity = дышащий комбинезон СБ
+    .desc = Дышащая версия стандартного комбинезона Службы Безопасности, обычно выдаётся в те смены, когда не хватает атмосов.

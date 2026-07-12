@@ -1,2 +1,2 @@
-ent-FoodBurned = burned food
-    .desc = An all too common mistake.
+ent-FoodBurned = подгоревшая еда
+    .desc = Слишком распространённая ошибка.

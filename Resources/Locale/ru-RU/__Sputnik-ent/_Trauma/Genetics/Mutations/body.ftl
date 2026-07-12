@@ -1,83 +1,56 @@
-ent-MutationEpilepsy = Epilepsy
-    .desc = A genetic defect that sporadically causes seizures.
-
-ent-MutationCough = Cough
-    .desc = A chronic cough.
-
-ent-MutationParanoia = Paranoia
-    .desc = Subject is easily terrified, and may suffer from hallucinations.
-
-ent-MutationDwarfism = Dwarfism
-    .desc = A mutation believed to be the cause of dwarfism.
-
-ent-MutationAcromegaly = Acromegaly
-    .desc = A mutation believed to be the cause of acromegaly, or 'being unusually tall'.
-
-ent-MutationGigantism = Gigantism
-    .desc = The cells within the subject spread out to cover more area, making the subject appear larger.
-
-ent-MutationClumsiness = Clumsiness
-    .desc = A genome that inhibits certain brain functions, causing the holder to appear clumsy. Honk!
-
-ent-MutationTourettes = Tourette's Syndrome
-    .desc = A chronic twitch that forces the user to scream bad words.
-
-ent-MutationDeafness = Deafness
-    .desc = The holder of this genome is completely deaf.
-
-ent-MutationMonkified = Monkified
-    .desc = A strange genome, believed to be what differentiates monkeys from humans.
-
+ent-MutationEpilepsy = Эпилепсия
+    .desc = Генетический дефект, спорадически вызывающий судороги.
+ent-MutationCough = Кашель
+    .desc = Хронический кашель.
+ent-MutationParanoia = Паранойя
+    .desc = Субъект легко пугается и может страдать от галлюцинаций.
+ent-MutationDwarfism = Карликовость
+    .desc = Мутация, которая, как считается, вызывает карликовость.
+ent-MutationAcromegaly = Акромегалия
+    .desc = Мутация, которая, как считается, вызывает акромегалию, или «необычно высокий рост».
+ent-MutationGigantism = Гигантизм
+    .desc = Клетки в организме субъекта распространяются, покрывая большую площадь, из-за чего субъект выглядит крупнее.
+ent-MutationClumsiness = Неуклюжесть
+    .desc = Геном, подавляющий определённые функции мозга, из-за чего носитель выглядит неуклюжим. Хонк!
+ent-MutationTourettes = Синдром Туретта
+    .desc = Хронический тик, заставляющий носителя выкрикивать бранные слова.
+ent-MutationDeafness = Глухота
+    .desc = Носитель этого генома полностью глух.
+ent-MutationMonkified = Обезьянификация
+    .desc = Странный геном, который, как считается, отличает обезьян от людей.
 ent-BaseLightMutation = { ent-BaseMutation }
     .desc = { ent-BaseMutation.desc }
-
-ent-MutationGlowy = Glowy
-    .desc = You permanently emit a light with a random color and intensity.
-
-ent-MutationAntiGlow = Anti-Glow
-    .desc = Your skin seems to attract and absorb nearby light creating 'darkness' around you.
-
-ent-MutationStrength = Strength
-    .desc = The user's muscles slightly expand. Commonly seen in top-ranking boxers.
-
-ent-MutationStimmed = Stimmed
-    .desc = The user's chemical balance is more robust. This mutation is known to speed up metabolism of chemicals.
-
-ent-MutationInsulated = Insulated
-    .desc = The affected person does not conduct electricity.
-
-ent-MutationFierySweat = Fiery Sweat
-    .desc = The user's skin will randomly combust, but is generally a lot more resilient to burning.
-
-ent-MutationSpatialInstability = Spatial Instability
-    .desc = The victim of the mutation has a very weak link to spatial reality, and may be displaced. Often causes extreme nausea.
-
-ent-MutationAcidicFlesh = Acidic Flesh
-    .desc = Subject has acidic chemicals building up underneath the skin. This is often lethal.
-
-ent-MutationSpastic = Spastic
-    .desc = Subject suffers from muscle spasms.
-
-ent-MutationTwoLeftFeet = Two Left Feet
-    .desc = A mutation that replaces the right foot with another left foot. Symptoms include kissing the floor when taking a step.
-
-ent-MutationInternalMartyrdom = Internal Martyrdom
-    .desc = A mutation that makes the body destruct when near death. Not damaging, but very, VERY disorienting.
-
-ent-MutationHeadless = H.A.R.S.
-    .desc = A mutation that makes the body reject the head, the brain receding into the chest. Stands for Head Allergic Rejection Syndrome. Warning: Removing this mutation is very dangerous, though it will regenerate non-vital head organs.
-
-ent-MutationHypermetabolicBlood = Hypermetabolic Blood
-    .desc = The subject's blood is hypermetabolic, causing it to be produced at a much faster rate.
-
-ent-MutationRockEater = Rock Eater
-    .desc = The subject's body is able to digest rocks and minerals.
-
-ent-MutationRockAbsorber = Rock Absorber
-    .desc = The subject's body is able to digest rocks and minerals, taking on their properties.
-
-ent-MutationInexorable = Inexorable
-    .desc = Your body can push on beyond the limits of normal human endurance. However, pushing it too far can cause severe damage to your body.
-
-ent-MutationFelinized = Felinized
-    .desc = Unknown
+ent-MutationGlowy = Свечение
+    .desc = Вы постоянно излучаете свет случайного цвета и интенсивности.
+ent-MutationAntiGlow = Антисвечение
+    .desc = Ваша кожа, похоже, притягивает и поглощает свет поблизости, создавая вокруг вас «темноту».
+ent-MutationStrength = Сила
+    .desc = Мышцы носителя немного увеличиваются. Часто встречается у боксёров высшего ранга.
+ent-MutationStimmed = Стимулированность
+    .desc = Химический баланс носителя более устойчив. Известно, что эта мутация ускоряет метаболизм химических веществ.
+ent-MutationInsulated = Изолированность
+    .desc = Поражённый человек не проводит электричество.
+ent-MutationFierySweat = Огненный пот
+    .desc = Кожа носителя может случайным образом воспламеняться, но при этом гораздо устойчивее к ожогам.
+ent-MutationSpatialInstability = Пространственная нестабильность
+    .desc = Жертва мутации имеет очень слабую связь с пространственной реальностью и может быть смещена. Часто вызывает сильную тошноту.
+ent-MutationAcidicFlesh = Кислотная плоть
+    .desc = У субъекта под кожей скапливаются кислотные вещества. Часто это смертельно.
+ent-MutationSpastic = Спастичность
+    .desc = Субъект страдает от мышечных спазмов.
+ent-MutationTwoLeftFeet = Две левые ноги
+    .desc = Мутация, при которой правая нога заменяется ещё одной левой. Среди симптомов — «поцелуй с полом» при каждом шаге.
+ent-MutationInternalMartyrdom = Внутреннее мученичество
+    .desc = Мутация, из-за которой тело саморазрушается при приближении к смерти. Урона не наносит, но вызывает ОЧЕНЬ сильную дезориентацию.
+ent-MutationHeadless = С.О.А.Г.
+    .desc = Мутация, из-за которой тело отторгает голову, а мозг втягивается в грудную клетку. Расшифровывается как Синдром Отторжения Аллергической Головы. Внимание: удаление этой мутации очень опасно, хотя невитальные органы головы будут регенерировать.
+ent-MutationHypermetabolicBlood = Гиперметаболическая кровь
+    .desc = Кровь субъекта гиперметаболична, из-за чего вырабатывается гораздо быстрее.
+ent-MutationRockEater = Пожиратель камней
+    .desc = Организм субъекта способен переваривать камни и минералы.
+ent-MutationRockAbsorber = Поглотитель камней
+    .desc = Организм субъекта способен переваривать камни и минералы, перенимая их свойства.
+ent-MutationInexorable = Неумолимость
+    .desc = Ваше тело способно выходить за пределы обычной человеческой выносливости. Однако чрезмерное перенапряжение может вызвать серьёзные повреждения организма.
+ent-MutationFelinized = Окошачивание
+    .desc = Неизвестно

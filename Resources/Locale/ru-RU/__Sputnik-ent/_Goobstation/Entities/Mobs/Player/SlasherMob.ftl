@@ -1,3 +1,3 @@
-ent-MobSlasher = Urist McSlasher
-    .desc = A terrifying slasher with supernatural abilities.
+ent-MobSlasher = Урист МакПудж
+    .desc = Ужасающий мясник со сверхъестественными способностями.
     .suffix = Debug

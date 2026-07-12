@@ -1,2 +1,2 @@
-ent-GunneryControlComputerCircuitboard = gunnery control computer board
-    .desc = A computer printed circuit board for a gunnery control computer.
+ent-GunneryControlComputerCircuitboard = консоль контроля артиллерии (консольная плата)
+    .desc = Консольная плата для консоли контроля артиллерии.

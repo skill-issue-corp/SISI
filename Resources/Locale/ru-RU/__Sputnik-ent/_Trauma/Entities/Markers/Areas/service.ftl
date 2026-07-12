@@ -1,32 +1,22 @@
-ent-BaseAreaService = service
+ent-BaseAreaService = сфера обслуживания
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaKitchen = kitchen
+ent-AreaKitchen = кухня
     .desc = { ent-BaseAreaService.desc }
-
-ent-AreaCafeteria = cafeteria
+ent-AreaCafeteria = столовая
     .desc = { ent-AreaKitchen.desc }
-
-ent-AreaColdRoom = cold room
+ent-AreaColdRoom = холодная комната
     .desc = { ent-AreaKitchen.desc }
-
-ent-AreaKitchenBackRoom = kitchen back room
+ent-AreaKitchenBackRoom = подсобка кухни
     .desc = { ent-AreaKitchen.desc }
-
-ent-AreaBarber = barber
+ent-AreaBarber = парикмахерская
     .desc = { ent-BaseAreaService.desc }
-
-ent-AreaBar = bar
+ent-AreaBar = бар
     .desc = { ent-BaseAreaService.desc }
-
-ent-AreaBarBackRoom = bar back room
+ent-AreaBarBackRoom = подсобка бара
     .desc = { ent-BaseAreaService.desc }
-
-ent-AreaDiner = diner
+ent-AreaDiner = закусочная
     .desc = { ent-BaseAreaService.desc }
-
-ent-AreaBotany = hydro
+ent-AreaBotany = гидропоника
     .desc = { ent-BaseAreaService.desc }
-
-ent-AreaServiceHall = service hall
+ent-AreaServiceHall = холл сферы обслуживания
     .desc = { ent-BaseAreaService.desc }

@@ -1,41 +1,28 @@
-ent-RMCBaseLandingSign = sign
-    .desc = A sign.
-
-ent-RMCLazarusLandingSign = Lazarus landing sign
-    .desc = A large sign reading 'lazarus landing por-' the rest of it is smeared in blood.
-
-ent-RMCSolarisRidgeSign = Solaris Ridge sign
-    .desc = A large sign that reads 'Solaris Ridge -', the rest of it is scraped away.
-
-ent-RMCPrisonSign = UN Prison Docking sign
-    .desc = A large sign that reads 'UN Prison Docking -', the rest of it is obscured by claw marks.
-
-ent-RMCShivaIceSign = Shiva's Ice landing sign
-    .desc = A large sign that reads 'Shiva's Ice L-nding -', bullet holes and torn metal obscure the rest of the signage.
-
-ent-RMCTrijentSign = Trijent landing sign
-    .desc = A large sign that reads 'Trijent mining col-', with the rest being obscured by what looks to be dried blood, and damage.
-
+ent-RMCBaseLandingSign = знак
+    .desc = Знак.
+ent-RMCLazarusLandingSign = знак посадки Lazarus
+    .desc = Большой знак с надписью "lazarus landing por-", остальная часть размазана кровью.
+ent-RMCSolarisRidgeSign = знак Солнечного хребта
+    .desc = Большой знак с надписью "Solaris Ridge -", остальная часть стерта.
+ent-RMCPrisonSign = знак причала тюрьмы ООН
+    .desc = Большой знак с надписью "UN Prison Docking -", остальная часть скрыта царапинами когтей.
+ent-RMCShivaIceSign = знак посадки "Shiva's Ice"
+    .desc = Большой знак с надписью "Shiva's Ice L-nding -", остальная часть скрыта пулевыми отверстиями и порванным металлом.
+ent-RMCTrijentSign = знак посадки Trijent
+    .desc = Большой знак с надписью "Trijent mining col-", остальная часть скрыта засохшей кровью и повреждениями.
 ent-RMCTrijentSignAlt = { ent-RMCTrijentSign }
-    .desc = A large sign that reads 'Trijent mining colony', with half the sign written in Japanese.
-
-ent-RMCSorokyneSign = Sorokyne landing sign
-    .desc = A large sign that reads 'Sorokyne - СОРОКІНО - POP. 110' The Company logo is proudly emblazoned in the corner. Don't eat the resin coated snow.
-
+    .desc = Большой знак с надписью "Trijent mining colony", половина надписи выполнена на японском.
+ent-RMCSorokyneSign = знак посадки СОРОКІНО
+    .desc = Большой знак с надписью "Sorokyne - СОРОКІНО - POP. 110". Логотип компании гордо изображён в углу. Не ешьте смоляной снег.
 ent-RMCSorokyneSignAlt = { ent-RMCSorokyneSign }
-    .desc = A large sign that reads 'Sorokyne - СОРОКІНО - POP. 110' The Company logo is proudly emblazoned in the corner. Someone has crudely written 'FUCK OFF' in teal paint across the majority of the sign.
-
-ent-RMCNewVaraderoSign = New Varadero landing sign
-    .desc = A large sign that reads 'New Varadero'. Its always sunny here!
-
-ent-RMCFortBicepSign = Fort Bicep sign
-    .desc = A large sign that reads 'Fort Bicep, T-COMMS'.
-
-ent-RMCHybrisaProsperaSign = Hybrisa Prospera welcome sign
-    .desc = A large sign that reads 'Welcome to Hybrisa Prospera', The Weston Yamada 'Wings' and logo adorn the sign, as well as some information about the colony.
-
-ent-RMCHybrisaProsperaMedicalSign = Hybrisa Prospera - Emergency Medical Landing Zone one sign
-    .desc = A large sign that reads 'Emergency Medical - HBP - LZ - 01'.
-
-ent-RMCHybrisaProsperaMiningSign = Hybrisa Prospera - Weston-Yamada Tartarus Mining - Landing Zone two sign
-    .desc = A large sign that reads 'WEYA - TMCC Mining - HBP - LZ - 01' The Tartarus Mining logo is adorns the sign.
+    .desc = Большой знак с надписью "Sorokyne - СОРОКІНО - POP. 110". Логотип компании гордо изображён в углу. Кто-то небрежно написал "FUCK OFF" бирюзовой краской по большей части знака.
+ent-RMCNewVaraderoSign = знак посадки Нью-Варадеро
+    .desc = Большой знак с надписью "New Varadero". Здесь всегда солнечно!
+ent-RMCFortBicepSign = знак Форт Бицепс
+    .desc = Большой знак с надписью "Fort Bicep, T-COMMS".
+ent-RMCHybrisaProsperaSign = приветственный знак Hybrisa Prospera
+    .desc = Большой знак с надписью "Welcome to Hybrisa Prospera". На знаке изображены крылья и логотип Weston Yamada, а также информация о колонии.
+ent-RMCHybrisaProsperaMedicalSign = знак зоны экстренной медицинской посадки Hybrisa Prospera
+    .desc = Большой знак с надписью "Emergency Medical - HBP - LZ - 01".
+ent-RMCHybrisaProsperaMiningSign = знак зоны посадки Tartarus Mining Hybrisa Prospera - Weston-Yamada
+    .desc = Большой знак с надписью "WEYA - TMCC Mining - HBP - LZ - 01". На знаке изображён логотип Tartarus Mining.

@@ -1,2 +1,2 @@
-ent-DropPodspawner = drop pod
-    .desc = Place items you want players to recieve in the bag, activate it over where you want the pod to drop. Players cannot see the pod. To drop living beings, drag them into the pod (like strapping someone onto a chair).
+ent-DropPodspawner = десантная капсула
+    .desc = Поместите предметы, которые должны получить игроки в мешок. Активируйте устройство над местом, куда должна упасть капсула. Игроки не могут видеть капсулу. Чтобы сбросить живое существо, перетащите его внутрь капсулы.

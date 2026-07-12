@@ -1,18 +1,13 @@
-ent-CrateFunATV = ATV crate
-    .desc = An Absolutely Taxable Vehicle to help cargo with hauling.
-
-ent-CrateFunSyndicateSegway = Syndicate segway crate
-    .desc = A crate containing a two-wheeler that will help you escape from the security officers. Or not.
-
-ent-CrateFunBingleLoot = Bingle loot
+ent-CrateFunATV = ящик с квадроциклом
+    .desc = Абсолютно налогооблагаемое транспортное средство для помощи грузчикам.
+ent-CrateFunSyndicateSegway = ящик с сегвеем Синдиката
+    .desc = Ящик с двухколёсным аппаратом, который поможет сбежать от охраны. А может и нет.
+ent-CrateFunBingleLoot = добыча Бингла
     .desc = { ent-CrateBingle.desc }
-
-ent-CrateFunBingleAdmeme = Bingle
+ent-CrateFunBingleAdmeme = Бингл
+    .suffix = Ящик с Бингл, активируемый голосом, Адмем
     .desc = { ent-CrateBingle.desc }
-    .suffix = Admeme voice triggered bingle crate
-
-ent-CrateFunDiscoBeachBall = disco beach ball crate
-    .desc = A crate containing a Disco Beach Ball that turns any beach trip into Studio 54.
-
-ent-CrateWizardAnomCore = Crate of Enchanting
-    .desc = A box containing stolen anomaly cores, used for enchanting.
+ent-CrateFunDiscoBeachBall = ящик с пляжным диско-шаром
+    .desc = Ящик с пляжным диско-шаром, который превратит любую поездку на пляж в Студия 54.
+ent-CrateWizardAnomCore = ящик зачарований
+    .desc = Коробка, содержащая украденные аномальные ядра, используемые для зачарования.

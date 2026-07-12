@@ -1,2 +1,2 @@
-ent-CameraElectronics = camera electronics
-    .desc = An electronics board used in cameras.
+ent-CameraElectronics = микросхема камеры
+    .desc = Микросхема, используемая в создании камеры.

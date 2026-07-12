@@ -1,88 +1,66 @@
-ent-MobElementalBase = { ent-BaseMob }
-    .desc = { ent-BaseMob.desc }
-
-ent-MobOreCrab = ore crab
+ent-MobElementalBase = { "" }
+    .desc = { "" }
+ent-MobOreCrab = рудокраб
     .desc = { ent-MobElementalBase.desc }
-
 ent-MobQuartzCrab = { ent-MobOreCrab }
-    .desc = An ore crab made from Quartz.
-    .suffix = Quartz
-
+    .desc = Рудный краб, состоящий из кварца.
+    .suffix = Кварц
 ent-MobIronCrab = { ent-MobOreCrab }
-    .desc = An ore crab made from iron.
-    .suffix = Iron
-
+    .desc = Рудный краб, состоящий из железа.
+    .suffix = Железо
 ent-MobCoalCrab = { ent-MobOreCrab }
-    .desc = An ore crab made from coal.
-    .suffix = Coal
-
+    .desc = Рудный краб, состоящий из угля.
+    .suffix = Уголь
 ent-MobUraniumCrab = { ent-MobOreCrab }
-    .desc = An ore crab made from uranium.
-    .suffix = Uranium
-
+    .desc = Рудный краб, состоящий из урана.
+    .suffix = Уран
 ent-MobBananiumCrab = { ent-MobOreCrab }
-    .desc = An ore crab made from bananium.
-    .suffix = Bananium
-
+    .desc = Рудный краб, состоящий из бананиума.
+    .suffix = Бананиум
 ent-MobSilverCrab = { ent-MobOreCrab }
-    .desc = An ore crab made from silver.
-    .suffix = Silver
-
+    .desc = Рудный краб, состоящий из серебра.
+    .suffix = Серебро
 ent-MobGoldCrab = { ent-MobOreCrab }
-    .desc = An ore crab made from gold.
-    .suffix = Gold
-
-ent-ReagentSlime = reagent slime
-    .desc = It consists of a liquid, and it wants to dissolve you in itself.
-    .suffix = Water
-
-ent-ReagentSlimeSpawner = Reagent Slime Spawner
+    .desc = Рудный краб, состоящий из золота.
+    .suffix = Золото
+ent-ReagentSlime = химический слайм
+    .desc = Состоит из жидкости и хочет растворить вас в себе.
+    .suffix = Вода
+ent-ReagentSlimeSpawner = спавнер химический слайм
     .desc = { ent-MarkerBase.desc }
-
 ent-ReagentSlimeBeer = { ent-ReagentSlime }
+    .suffix = Пиво
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Beer
-
 ent-ReagentSlimePax = { ent-ReagentSlime }
+    .suffix = Пакс
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Pax
-
 ent-ReagentSlimeNocturine = { ent-ReagentSlime }
+    .suffix = Ноктюрин
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Nocturine
-
 ent-ReagentSlimeTHC = { ent-ReagentSlime }
+    .suffix = ТГК
     .desc = { ent-ReagentSlime.desc }
-    .suffix = THC
-
 ent-ReagentSlimeBicaridine = { ent-ReagentSlime }
+    .suffix = Бикаридин
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Bicaridine
-
 ent-ReagentSlimeToxin = { ent-ReagentSlime }
+    .suffix = Токсин
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Toxin
-
 ent-ReagentSlimeNapalm = { ent-ReagentSlime }
+    .suffix = Напалм
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Napalm
-
 ent-ReagentSlimeOmnizine = { ent-ReagentSlime }
+    .suffix = Омнизин
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Omnizine
-
 ent-ReagentSlimeMuteToxin = { ent-ReagentSlime }
+    .suffix = Токсин немоты
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Mute Toxin
-
 ent-ReagentSlimeNorepinephricAcid = { ent-ReagentSlime }
+    .suffix = Норэпинефриновая кислота
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Norepinephric Acid
-
 ent-ReagentSlimeEphedrine = { ent-ReagentSlime }
+    .suffix = Эфедрин
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Ephedrine
-
 ent-ReagentSlimeRobustHarvest = { ent-ReagentSlime }
+    .suffix = Робаст харвест
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Robust Harvest

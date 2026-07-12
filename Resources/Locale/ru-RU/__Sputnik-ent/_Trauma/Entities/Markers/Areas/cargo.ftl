@@ -1,17 +1,12 @@
-ent-BaseAreaCargo = cargo
+ent-BaseAreaCargo = грузовой отсек
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaCargoBay = cargo bay
+ent-AreaCargoBay = грузовой ангар
     .desc = { ent-BaseAreaCargo.desc }
-
-ent-AreaCargoLobby = cargo lobby
+ent-AreaCargoLobby = холл грузового отсека
     .desc = { ent-BaseAreaCargo.desc }
-
-ent-AreaCargoOffice = cargo office
+ent-AreaCargoOffice = офис грузового отдела
     .desc = { ent-BaseAreaCargo.desc }
-
-ent-AreaPodBay = podbay
+ent-AreaPodBay = ангар для капсул
     .desc = { ent-BaseAreaCargo.desc }
-
-ent-AreaSalvage = salv
+ent-AreaSalvage = утилизация
     .desc = { ent-BaseAreaCargo.desc }

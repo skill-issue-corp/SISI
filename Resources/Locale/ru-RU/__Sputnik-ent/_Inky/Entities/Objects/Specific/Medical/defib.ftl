@@ -1,2 +1,2 @@
-ent-BaseManualDefibrillator = manual defibrillator
-    .desc = flip, sssscratch sssscratch, click, CLEAR! ZZZZZZAP!
+ent-BaseManualDefibrillator = ручной дефибриллятор
+    .desc = щёлк, шшшш-царап шшшш-царап, клик, ОТОШЛИ! ЖЖЖЖЖЖЗАП!

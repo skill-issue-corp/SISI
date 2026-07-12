@@ -1,14 +1,10 @@
-ent-BaseMagazineBoxPistol = ammunition box (.35 auto)
+ent-BaseMagazineBoxPistol = коробка патронов (.35 авто)
     .desc = { ent-BaseItem.desc }
-
-ent-MagazineBoxPistol = ammunition box (.35 auto)
-    .desc = A cardboard box of .35 auto rounds. Intended to hold general-purpose kinetic ammunition.
-
-ent-MagazineBoxPistolPractice = ammunition box (.35 auto practice)
-    .desc = A cardboard box of .35 auto rounds. Intended to hold harmless practice ammunition.
-
-ent-MagazineBoxPistolIncendiary = ammunition box (.35 auto incendiary)
-    .desc = A cardboard box of .35 auto rounds. Intended to hold self-igniting incendiary ammunition.
-
-ent-MagazineBoxPistolUranium = ammunition box (.35 auto uranium)
-    .desc = A cardboard box of .35 auto rounds. Intended to hold exotic uranium-core ammunition.
+ent-MagazineBoxPistol = коробка патронов (.35 авто)
+    .desc = { ent-BaseMagazineBoxPistol.desc }
+ent-MagazineBoxPistolPractice = коробка патронов (.35 авто учебные)
+    .desc = { ent-BaseMagazineBoxPistol.desc }
+ent-MagazineBoxPistolIncendiary = коробка патронов (.35 авто зажигательные)
+    .desc = { ent-BaseMagazineBoxPistol.desc }
+ent-MagazineBoxPistolUranium = коробка патронов (.35 авто урановые)
+    .desc = { ent-BaseMagazineBoxPistol.desc }

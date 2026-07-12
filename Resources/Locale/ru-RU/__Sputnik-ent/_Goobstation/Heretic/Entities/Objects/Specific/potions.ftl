@@ -1,14 +1,10 @@
 ent-HereticPotionBase = { ent-DrinkBase }
     .desc = { ent-DrinkBase.desc }
-
-ent-PotionCrucibleSoul = brew of the crucible soul
-    .desc = The Wood grows around the walls of the Mansus. As any student of Histories knows, the Mansus has no walls.
-
-ent-PotionDuskDawn = brew of dusk and dawn
-    .desc = The higher I rise. The more I see.
-
-ent-PotionWoundedSoldier = brew of the wounded soldier
-    .desc = Not all doors are wounds, but all wounds are doors.
-
-ent-PotionEther = ether of the newborn
-    .desc = This dream, again, a House in the Wood. I walk endlessly to find the hidden paths through the tangled trees. If I keep going, I might find insight, or I might be touched by madness.
+ent-PotionCrucibleSoul = отвар души тигля
+    .desc = Лес разрастается вокруг стен Мансуса. Как известно любому изучающему Истории, у Мансуса нет стен.
+ent-PotionDuskDawn = отвар заката и рассвета
+    .desc = Чем выше я поднимаюсь. Тем больше я вижу.
+ent-PotionWoundedSoldier = отвар раненого солдата
+    .desc = Не все двери — раны, но все раны — двери.
+ent-PotionEther = эфир новорождённого
+    .desc = Этот сон снова, Дом в Лесу. Я бесконечно иду, чтобы найти скрытые тропы сквозь спутанные деревья. Если я продолжу идти, я, возможно, обрету прозрение, а возможно, меня коснётся безумие.

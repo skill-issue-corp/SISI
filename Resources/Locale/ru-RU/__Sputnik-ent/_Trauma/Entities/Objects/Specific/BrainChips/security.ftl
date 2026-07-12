@@ -1,17 +1,12 @@
-ent-SkillChipHeadOfSecurity = skill chip (HOS)
+ent-SkillChipHeadOfSecurity = чип навыков (ГСБ)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipBrigmedic = skill chip (brigmedic)
+ent-SkillChipBrigmedic = чип навыков (бригмедик)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipDetective = skill chip (detective)
+ent-SkillChipDetective = чип навыков (детектив)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipSecurityCadet = skill chip (cadet)
+ent-SkillChipSecurityCadet = чип навыков (кадет)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipSecurityOfficer = skill chip (security)
+ent-SkillChipSecurityOfficer = чип навыков (служба безопасности)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipWarden = skill chip (warden)
+ent-SkillChipWarden = чип навыков (смотритель)
     .desc = { ent-BaseSkillChip.desc }

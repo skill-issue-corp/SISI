@@ -1,2 +1,2 @@
-ent-MagazineShotgunBreaching = ammo drum (12 Gauge breaching)
-    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold specialized breaching ammo.
+ent-MagazineShotgunBreaching = барабанный магазин (12 калибр, для взлома)
+    .desc = Большой барабанный магазин, используемый некоторыми автоматическими дробовиками военного класса. Предназначен для хранения специализированных патронов для взлома.

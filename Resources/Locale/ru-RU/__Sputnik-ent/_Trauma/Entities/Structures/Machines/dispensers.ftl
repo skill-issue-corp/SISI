@@ -1,13 +1,10 @@
-ent-ServiceEnergyChemDispenser = energy food synthesizer
-    .desc = A bluespace Chemical Dispenser that uses station energy to synthesize organic reagents. The future for chefs is here and now.
-    .suffix = energy
-
+ent-ServiceEnergyChemDispenser = синтезатор энергетической еды
+    .desc = Синт-диспенсер химикатов на блюспейс-технологии, использующий энергию станции для синтеза органических реагентов. Будущее для поваров уже здесь.
+    .suffix = Энергия
 ent-EnergyBarDispenserBase = { ent-EnergyChemDispenser }
     .desc = { ent-EnergyChemDispenser.desc }
-    .suffix = Energy
-
-ent-EnergyBoozeDispenser = energy booze dispenser
-    .desc = A drunk mans best dream. Using the power of bluespace, this dispenser uses station energy to produce alcoholic beverages! Now you can get wasted without leaving the bar to restock! Ever!
-
-ent-EnergySodaDispenser = energy soda dispenser
-    .desc = Soda? We got it! This bluespace dispenser, using station energy, produces a variety of non alchoholic drinks for the thirsty and the health conscious alike!
+    .suffix = Энергия
+ent-EnergyBoozeDispenser = энергетический диспенсер алкоголя
+    .desc = Лучшая мечта пьяницы. Используя силу блюспейса, этот диспенсер расходует энергию станции для производства алкогольных напитков! Теперь вы можете напиться, не покидая бар для пополнения запасов! Никогда больше!
+ent-EnergySodaDispenser = энергетический диспенсер газировки
+    .desc = Газировка? Есть у нас! Этот блюспейс-диспенсер, используя энергию станции, производит разнообразие безалкогольных напитков как для жаждущих, так и для заботящихся о здоровье!

@@ -1,2 +1,2 @@
-ent-WeaponBillyClub = billy club
-    .desc = A lightweight wooden baton for incapacitating people with. Delivers less-than-lethal force for incapacitation.
+ent-WeaponBillyClub = полицейская дубинка
+    .desc = Лёгкая деревянная дубинка для усмирения людей. Наносит менее чем смертоносный урон, достаточный для того, чтобы вывести из строя.

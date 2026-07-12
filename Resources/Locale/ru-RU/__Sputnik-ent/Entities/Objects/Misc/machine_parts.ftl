@@ -1,6 +1,11 @@
-ent-BaseStockPart = stock part
-    .desc = What?
-
-ent-MicroManipulatorStockPart = modular machine part
-    .desc = A basic machine part used in the construction of a variety of devices.
-    .suffix = Rating 1
+ent-BaseStockPart = складская деталь
+    .desc = Что?
+ent-CapacitorStockPart = конденсатор
+    .desc = Базовый конденсатор, используемый при создании различных устройств.
+    .suffix = Уровень 1
+ent-MicroManipulatorStockPart = манипулятор
+    .desc = Базовый манипулятор, используемый при создании некоторых устройств.
+    .suffix = Уровень 1
+ent-MatterBinStockPart = ёмкость материи
+    .desc = Базовая ёмкость материи, используемая при создании различных устройств.
+    .suffix = Уровень 1

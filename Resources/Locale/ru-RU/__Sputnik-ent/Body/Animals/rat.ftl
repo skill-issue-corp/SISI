@@ -1,6 +1,6 @@
 ent-OrganRatLungs = { ent-OrganAnimalLungs }
     .desc = { ent-OrganAnimalLungs.desc }
-    .suffix = Rat
+    .suffix = Крыса
 
 ent-BaseMobRat = { "" }
     .desc = { "" }

@@ -1,5 +1,4 @@
 ent-WeaponEnergyCrossbowBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-
-ent-WeaponEnergyCrossbow = mini energy crossbow
-    .desc = Launches renewable toxic arrows capable of flooring targets instantly.
+ent-WeaponEnergyCrossbow = мини энергетический арбалет
+    .desc = Выпускает возобновляемые токсичные стрелы, способные мгновенно свалить цель с ног.

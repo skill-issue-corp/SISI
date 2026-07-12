@@ -1,6 +1,5 @@
-ent-MobSharkDragon = sharkminnow
+ent-MobSharkDragon = космическая акула
+    .suffix = Драконье потомство
     .desc = { ent-MobShark.desc }
-    .suffix = DragonBrood
-
-ent-MobCarpSleepy = sleepy carp
-    .desc = { ent-BaseMobCarp.desc }
+ent-MobCarpCaller = { ent-MobCarp }
+    .desc = { ent-MobCarp.desc }

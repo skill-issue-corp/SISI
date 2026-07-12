@@ -1,20 +1,18 @@
-ent-ClothingHeadHatHoodZeusHood = zeus hood
-    .desc = Guaranteed to not fly off when leaping from skyscraper to skyscraper.
-
-ent-ClothingHeadHatHoodWinterCapFancy = captain's fancy winter coat hood
+ent-ClothingHeadHatHoodZeusHood = капюшон Зевса
+    .desc = Гарантированно не слетит с головы при прыжках с небоскрёба на небоскрёб.
+ent-ClothingHeadHatHoodWinterBso = капюшон зимней куртки офицера "Синий Щит"
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
-
-ent-ClothingHeadHatHoodHereticCostume = occult hood
-    .desc = A torn, dust-caked hood. Smudgy eyes line the inside.
-
+ent-ClothingHeadHatHoodWinterCapFancy = капюшон зимней куртки капитана
+    .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
+ent-ClothingHeadHatHoodHereticCostume = оккультный капюшон
+    .desc = Порванный, покрытый пылью капюшон. Под ним размыто виднеются глаза.
 ent-ClothingHeadHatHoodHereticVoidCostume = { ent-ClothingHeadHatHoodHereticCostume }
     .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }
-
 ent-ClothingHeadHatHoodHereticAshCostume = { ent-ClothingHeadHatHoodHereticCostume }
     .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }
-
 ent-ClothingHeadHatHoodHereticFleshCostume = { ent-ClothingHeadHatHoodHereticCostume }
     .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }
-
 ent-ClothingHeadHatHoodHereticBladeCostume = { ent-ClothingHeadHatHoodHereticCostume }
     .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }
+ent-ClothingHeadHatHoodSchemaMonk = капюшон монашеского облачения
+    .desc = Удобный капюшон монашеского облачения.

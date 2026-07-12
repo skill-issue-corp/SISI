@@ -1,8 +1,6 @@
-ent-ShellShotgunBreaching = shell (12 Gauge breaching)
-    .desc = The standard cartridge used by most modern shotguns. Breaching ammunition is designed to deal maximum damage to structures such as walls.
-
-ent-ShellShotgunHypo = shell (12 Gauge hypo)
+ent-ShellShotgunBreaching = патрон (12 калибр, для взлома)
+    .desc = Стандартный патрон, используемый большинством современных дробовиков. Патроны для взлома предназначены для нанесения максимального урона таким конструкциям, как стены.
+ent-ShellShotgunHypo = патрон (12 калибр, гипо)
     .desc = { ent-BaseSyndicateContraband.desc }
-
-ent-ShellShotgunTearGas = shell (12 Gauge tear gas)
+ent-ShellShotgunTearGas = патрон (12 калибр, слезоточивый газ)
     .desc = { ent-BaseShellShotgun.desc }

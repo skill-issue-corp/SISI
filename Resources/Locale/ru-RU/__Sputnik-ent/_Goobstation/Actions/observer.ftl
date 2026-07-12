@@ -1,2 +1,2 @@
-ent-ActionGhostShowRadar = Mass Scanner Interface
-    .desc = View a Mass Scanner Interface.
+ent-ActionGhostShowRadar = интерфейс масс-сканера
+    .desc = Открыть интерфейс масс-сканера.

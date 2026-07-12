@@ -1,39 +1,25 @@
-ent-BaseSpellbook = spellbook
+ent-BaseSpellbook = книга заклинаний
     .desc = { ent-BaseItem.desc }
-
-ent-WizardsGrimoire = wizard's grimoire
-    .desc = A heavy tome containing complicated arcane formulae for preparing magic spells and conjuring supernatural equipment. Decades of study went into researching this collection of mystical secrets; now go use them to ruin someone's day.
-    .suffix = Wizard
-
-ent-WizardsGrimoireGhost = ghostly grimoire
-    .desc = A modified wizard grimoire that can by used by more than one person and has more wizcoins, but can't buy certain spells.
-    .suffix = Wizard
-
-ent-WizardsGrimoireNoRefund = { ent-WizardsGrimoire }
+ent-WizardsGrimoire = гримуар мага
+    .suffix = Маг
+    .desc = { ent-BaseItem.desc }
+ent-WizardsGrimoireGhost = призрачный гримуар мага
+    .desc = Модифицированный гримуар мага, которым может пользоваться более одного человека, и в котором больше визкоинов, но нельзя покупать некоторые заклинания.
+    .suffix = Маг
+ent-WizardsGrimoireNoRefund = гримуар мага
+    .suffix = Маг, Без возврата средств
     .desc = { ent-WizardsGrimoire.desc }
-    .suffix = Wizard, no refunding
-
-ent-WizardsGrimoireDebug = { ent-WizardsGrimoire }
-    .desc = A heavy tome containing complicated arcane formulae for preparing magic spells and conjuring supernatural equipment. Someone wrote "FOR EXPERIMENTAL USE ONLY" on the inside cover.
-    .suffix = Wizard, DEBUG
-
-ent-SpawnSpellbook = spawn spellbook
+ent-SpawnSpellbook = книга заклинания призыв
     .desc = { ent-BaseSpellbook.desc }
-
-ent-ForceWallSpellbook = force wall spellbook
+ent-ForceWallSpellbook = книга заклинания силовой барьер
     .desc = { ent-BaseSpellbook.desc }
-
-ent-BlinkBook = blink spellbook
+ent-BlinkBook = книга заклинания прыжок
     .desc = { ent-BaseSpellbook.desc }
-
-ent-SmiteBook = smite spellbook
+ent-SmiteBook = книга заклинания кара
     .desc = { ent-BaseSpellbook.desc }
-
-ent-KnockSpellbook = knock spellbook
+ent-KnockSpellbook = книга заклинания стук
     .desc = { ent-BaseSpellbook.desc }
-
-ent-FireballSpellbook = fireball spellbook
+ent-FireballSpellbook = книга заклинания огненный шар
     .desc = { ent-BaseSpellbook.desc }
-
-ent-ScrollRunes = scroll of traps
+ent-ScrollRunes = свиток рун
     .desc = { ent-BaseSpellbook.desc }

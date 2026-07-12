@@ -1,14 +1,10 @@
-ent-SkillChipHeadOfPersonnel = skill chip (HOP)
+ent-SkillChipHeadOfPersonnel = чип навыков (ГП)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipBartender = skill chip (bartender)
+ent-SkillChipBartender = чип навыков (бармен)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipBotanist = skill chip (botanist)
+ent-SkillChipBotanist = чип навыков (ботаник)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipChef = skill chip (chef)
+ent-SkillChipChef = чип навыков (шеф-повар)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipServiceWorker = skill chip (service worker)
+ent-SkillChipServiceWorker = чип навыков (работник сферы обслуживания)
     .desc = { ent-BaseSkillChip.desc }

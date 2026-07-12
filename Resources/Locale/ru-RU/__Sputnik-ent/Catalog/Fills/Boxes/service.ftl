@@ -1,11 +1,8 @@
-ent-BoxCleanerGrenades = cleanades box
-    .desc = A box full of cleanades.
-
-ent-BoxAgrichem = NT "AgriChem Is Fun" kit
-    .desc = For the budding botanist ready to learn about maximizing farm output. This faded box must be at least 50 years old.
-
-ent-BoxLightbulbColorfulMixed = mixed colorful lightbulb box
+ent-BoxCleanerGrenades = коробка чистящих гранат
+    .desc = Коробка чистящих гранат.
+ent-BoxAgrichem = набор NT "АгроХимия это весело"
+    .desc = Для начинающих ботаников, готовых узнать о том, как максимизировать урожайность растений. Этой выцветшей коробке лет 50, не меньше.
+ent-BoxLightbulbColorfulMixed = коробка с разноцветными лампочками
     .desc = { ent-BoxLightbulb.desc }
-
-ent-BoxLighttubeColorfulMixed = mixed colorful lighttube box
+ent-BoxLighttubeColorfulMixed = коробка с разноцветными трубчатыми ампочками
     .desc = { ent-BoxLighttube.desc }

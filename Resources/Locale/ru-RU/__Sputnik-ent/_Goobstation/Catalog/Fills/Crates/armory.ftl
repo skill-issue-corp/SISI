@@ -1,8 +1,9 @@
-ent-CrateArmoryCombatHardsuit = Combat hardsuit crate
-    .desc = Contains an advanced security hardsuit. Requires Armory access to open.
-
-ent-CrateArmoryCombatMedicalHardsuit = Combat medical hardsuit crate
-    .desc = Contains an advanced medical security hardsuit, less defence but much less cumbersome. Requires Armory access to open.
-
-ent-CrateArmoryCombatRiotHardsuit = Riot hardsuit crate
-    .desc = Contains an advanced riot security hardsuit, very high defence but much also very cumbersome. Requires Armory access to open.
+ent-CrateArmoryCombatHardsuit = ящик с боевым скафандром
+    .suffix = Защищённый
+    .desc = Содержит продвинутый скафандр службы безопасности. Требуется доступ в оружейную для открытия.
+ent-CrateArmoryCombatMedicalHardsuit = ящик с боевым медицинским скафандром
+    .suffix = Защищённый
+    .desc = Содержит продвинутый медицинский скафандр службы безопасности, с меньшей защитой, но гораздо менее громоздкий. Требуется доступ в оружейную для открытия.
+ent-CrateArmoryCombatRiotHardsuit = ящик с антирейдовым скафандром
+    .suffix = Защищённый
+    .desc = Содержит продвинутый антирейдовый скафандр службы безопасности, с очень высокой защитой, но также очень громоздкий. Требуется доступ в оружейную для открытия.

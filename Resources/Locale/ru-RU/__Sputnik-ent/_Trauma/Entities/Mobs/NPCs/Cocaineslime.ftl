@@ -1,7 +1,7 @@
 ent-ReagentSlimeCocaine = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Cocaine
+    .suffix = Кокаин
 
 ent-ReagentSlimeCrackCocaine = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = CrackCocaine
+    .suffix = Крэк-кокаин

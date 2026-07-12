@@ -1,35 +1,11 @@
-ent-ChaplainUndeterminedBible = bluespace scripture beacon
-    .desc = Though I walk through the valley of the shadow of death I will fear no evil, for you are with me.
-
-ent-Bible = space bible
-    .desc = New Interstellar Version 2340.
-
-ent-BibleNecronomicon = necronomicon
-    .desc = There's a note: Klatuu, Verata, Nikto -- Don't forget it again!
-
-ent-ActionBibleSummon = Summon familiar
-    .desc = Summon a familiar that will aid you and gain humanlike intelligence once inhabited by a soul.
-
-ent-BibleDruid = druidic tablet
-    .desc = It's the mystery of the druids!
-
-ent-BibleCommunistManifesto = communist manifesto
-    .desc = Remove the mask of humanity from Capital.
-
-ent-BibleNarsie = tome of nar'sie
-    .desc = What could possibly go wrong with a book covered in blood?
-
-ent-BibleNanoTrasen = codex nanotrasimus
-    .desc = A familiar book containing the Sacred Operating Procedures.
-
-ent-BibleHonk = mirth of the honkmother
-    .desc = Oh great and glorious Mother, Mistress of Mirth, Matron of Mask and Merriments, Blessed is she amongst us jesters.
-
-ent-BibleRatvar = tablet of ratvar
-    .desc = A holy relic of the Clockwork Cult, blessed by the Clockwork Justice, Ratvar.
-
-ent-HolyLightEffect = { "" }
-    .desc = { "" }
-
-ent-EvilLightEffect = { ent-HolyLightEffect }
-    .desc = { ent-HolyLightEffect.desc }
+ent-ChaplainUndeterminedBible = маяк блюспейс священного писания
+    .desc = Иду я долиной смертной тени, не убоюсь зла, ибо ты со мной.
+ent-Bible = библия
+    .desc = Новая межзвёздная версия 2340.
+# Corvax-HiddenDesc-Start
+ent-BibleNecronomicon = священный древний фолиант
+    .desc = Имеется пометка: Klatuu, Verata, Nikto – Не забыть об этом опять!
+    .suffix = некрономикон
+# Corvax-HiddenDesc-End
+ent-ActionBibleSummon = Призвать фамильяра
+    .desc = Призовите фамильяра, который станет помогать вам и обретёт человекоподобный интеллект после вселения в него души.

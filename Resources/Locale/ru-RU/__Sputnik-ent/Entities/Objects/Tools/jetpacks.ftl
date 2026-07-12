@@ -1,60 +1,45 @@
 ent-JetpackEffect = { "" }
     .desc = { "" }
-
-ent-BaseJetpack = jetpack
-    .desc = It's a jetpack. It can hold 5 L of gas.
-
-ent-ActionToggleJetpack = Toggle jetpack
-    .desc = Toggles the jetpack, giving you movement outside the station.
-
-ent-JetpackBlue = jetpack
+ent-BaseJetpack = джетпак
+    .desc = Это реактивный ранец — джетпак. Вмещает 5 Л газа.
+ent-ActionToggleJetpack = Переключить джетпак
+    .desc = Переключить джетпак, позволяющий с лёгкостью передвигаться вне станции.
+ent-JetpackBlue = джетпак
+    .suffix = Пустой
     .desc = { ent-BaseJetpack.desc }
-    .suffix = Empty
-
-ent-JetpackBlueFilled = jetpack
+ent-JetpackBlueFilled = джетпак
+    .suffix = Полный
     .desc = { ent-JetpackBlue.desc }
-    .suffix = Filled
-
-ent-JetpackBlack = jetpack
+ent-JetpackBlack = джетпак
+    .suffix = Пустой
     .desc = { ent-BaseJetpack.desc }
-    .suffix = Empty
-
-ent-JetpackBlackFilled = jetpack
+ent-JetpackBlackFilled = джетпак
+    .suffix = Полный
     .desc = { ent-JetpackBlack.desc }
-    .suffix = Filled
-
-ent-JetpackCaptain = captain's jetpack
+ent-JetpackCaptain = джетпак капитана
+    .suffix = Пустой
     .desc = { ent-BaseJetpack.desc }
-    .suffix = Empty
-
-ent-JetpackCaptainFilled = captain's jetpack
+ent-JetpackCaptainFilled = джетпак капитана
+    .suffix = Полный
     .desc = { ent-JetpackCaptain.desc }
-    .suffix = Filled
-
-ent-JetpackMini = mini jetpack
-    .desc = It's a jetpack. It can hold 1.5 L of gas.
-    .suffix = Empty
-
-ent-JetpackMiniFilled = mini jetpack
+ent-JetpackMini = мини джетпак
+    .suffix = Пустой
+    .desc = Это реактивный ранец — джетпак. Вмещает 1,5 Л газа.
+ent-JetpackMiniFilled = мини джетпак
+    .suffix = Полный
     .desc = { ent-JetpackMini.desc }
-    .suffix = Filled
-
-ent-JetpackSecurity = security mini jetpack
-    .desc = A compact jetpack utilized by station security when patrolling the station's exterior. Not intended for long range travel, it holds only 1.5 L of gas.
-    .suffix = Empty
-
-ent-JetpackSecurityFilled = security jetpack
-    .desc = { ent-JetpackSecurity.desc }
-    .suffix = Filled
-
-ent-JetpackVoid = void jetpack
+ent-JetpackSecurity = джетпак охраны
+    .suffix = Пустой
     .desc = { ent-BaseJetpack.desc }
-    .suffix = Empty
-
-ent-JetpackVoidFilled = void jetpack
+ent-JetpackSecurityFilled = джетпак охраны
+    .suffix = Полный
+    .desc = { ent-JetpackSecurity.desc }
+ent-JetpackVoid = пустотный джетпак
+    .suffix = Пустой
+    .desc = { ent-BaseJetpack.desc }
+ent-JetpackVoidFilled = пустотный джетпак
+    .suffix = Полный
     .desc = { ent-JetpackVoid.desc }
-    .suffix = Filled
-
-ent-JetpackXenoborg = xenoborg jetpack
+ent-JetpackXenoborg = джетпак ксеноборга
+    .suffix = Бесконечный
     .desc = { ent-JetpackBlack.desc }
-    .suffix = Infinite

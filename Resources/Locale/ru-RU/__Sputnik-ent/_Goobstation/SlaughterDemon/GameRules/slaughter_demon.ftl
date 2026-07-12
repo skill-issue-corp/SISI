@@ -1,8 +1,6 @@
-ent-SlaughterDemonSummon = { ent-BaseAntagGhostRoleRule }
-    .desc = { ent-BaseAntagGhostRoleRule.desc }
-
-ent-LaughterDemonSummon = { ent-SlaughterDemonSummon }
-    .desc = { ent-SlaughterDemonSummon.desc }
-
-ent-SlaughterDemonMidround = { ent-SlaughterDemonSummon }
-    .desc = { ent-SlaughterDemonSummon.desc }
+ent-SlaughterDemonSummon = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-LaughterDemonSummon = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-SlaughterDemonMidround = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }

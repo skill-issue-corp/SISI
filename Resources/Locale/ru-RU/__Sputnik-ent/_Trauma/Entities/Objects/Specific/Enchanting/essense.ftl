@@ -1,2 +1,2 @@
-ent-BaseDemonSoulFragment = demonic soul fragment
-    .desc = The soul of a demon, can be made into a magical ink by mixing it into a full blood vial.
+ent-BaseDemonSoulFragment = осколок демонической души
+    .desc = Душа демона, может быть превращена в магические чернила путём смешивания с полным флаконом крови.

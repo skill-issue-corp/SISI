@@ -1,2 +1,2 @@
-ent-FireEffect = fire
-    .desc = A burst of flames!
+ent-FireEffect = огонь
+    .desc = Вспышка пламени!

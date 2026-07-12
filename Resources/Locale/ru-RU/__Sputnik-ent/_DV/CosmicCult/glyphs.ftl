@@ -1,20 +1,14 @@
-ent-CosmicGlyphBase = base glyph
-    .desc = A strange, otherworldly marking.
-
-ent-CosmicGlyphTruth = Glyph of Truth
+ent-CosmicGlyphBase = базовый глиф
+    .desc = Странный, потусторонний знак.
+ent-CosmicGlyphTruth = глиф Истины
     .desc = { ent-CosmicGlyphBase.desc }
-
-ent-CosmicGlyphKnowledge = Glyph of Knowledge
+ent-CosmicGlyphKnowledge = глиф Знаний
     .desc = { ent-CosmicGlyphBase.desc }
-
-ent-CosmicGlyphCessation = Glyph of Cessation
+ent-CosmicGlyphCessation = глиф Прекращения
     .desc = { ent-CosmicGlyphBase.desc }
-
-ent-CosmicGlyphBlades = Glyph of Blades
+ent-CosmicGlyphBlades = глиф Клинков
     .desc = { ent-CosmicGlyphBase.desc }
-
-ent-CosmicGlyphWarding = Glyph of Warding
+ent-CosmicGlyphWarding = глиф Защиты
     .desc = { ent-CosmicGlyphBase.desc }
-
-ent-CosmicGlyphProjection = Glyph of Projection
+ent-CosmicGlyphProjection = глиф Проекции
     .desc = { ent-CosmicGlyphBase.desc }

@@ -1,2 +1,2 @@
-ent-GrenadeShrapnelRev = improvised shrapnel bomb
-    .desc = Releases a deadly spray of shrapnel that causes severe bleeding.
+ent-GrenadeShrapnelRev = самодельная осколочная бомба
+    .desc = Выпускает смертоносный шквал осколков, вызывающих сильное кровотечение.

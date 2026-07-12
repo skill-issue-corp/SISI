@@ -1,17 +1,12 @@
-ent-GunneryServerBase = gunnery control server
-    .desc = Manages the remote operation of ship weapons.
-
-ent-GunneryServerLow = low-power gunnery control server
+ent-GunneryServerBase = сервер контроля артиллерийских орудий
+    .desc = Управление дистанционным артиллерийским орудием шаттла.
+ent-GunneryServerLow = маломощный сервер контроля артиллерийских орудий
     .desc = { ent-GunneryServerBase.desc }
-
-ent-GunneryServerMedium = medium-power gunnery control server
+ent-GunneryServerMedium = среднемощный сервер контроля артиллерийских орудий
     .desc = { ent-GunneryServerBase.desc }
-
-ent-GunneryServerHigh = high-power gunnery control server
+ent-GunneryServerHigh = мощный сервер контроля артиллерийских орудий
     .desc = { ent-GunneryServerBase.desc }
-
-ent-GunneryServerUltra = ultra-high-power gunnery control server
+ent-GunneryServerUltra = ультра мощный сервер контроля артиллерийских орудий
     .desc = { ent-GunneryServerBase.desc }
-
-ent-ComputerGunneryConsole = gunnery control console
-    .desc = Interfaces with the gunnery control server to operate ship weapons.
+ent-ComputerGunneryConsole = консоль контроля артиллерийских орудий
+    .desc = Интерфейс с контролем артиллерийских орудий для управления вооружением.

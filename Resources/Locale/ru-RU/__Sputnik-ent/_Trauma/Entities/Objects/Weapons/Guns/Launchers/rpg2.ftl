@@ -1,2 +1,2 @@
-ent-WeaponLauncherRPG2 = RPG-2
-    .desc = An ancient old earth rocket launcher.
+ent-WeaponLauncherRPG2 = РПГ-2
+    .desc = Древний старый земной ракетомёт.

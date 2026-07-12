@@ -1,49 +1,34 @@
-ent-MobGondola = gondola
-    .desc = Having no hands he embodies the Taoist principle of wu-wei (non-action) while his smiling facial expression shows his utter and complete acceptance of the world as it is.
-
-ent-MobMothSyndy = syndiroach
-    .desc = Explosive moth.
-
-ent-MobSyndieAngryBee = syndie bee
-    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.
-    .suffix = Angry, syndicate
-
+ent-MobGondola = гондола
+    .desc = Не имея рук, он воплощает даосский принцип у-вэй (недеяния), а его улыбающееся лицо показывает полное и абсолютное принятие мира таким, какой он есть.
+ent-MobMothSyndy = СиндиМоль
+    .desc = Взрывчатая моль.
+ent-MobSyndieAngryBee = пчела Синдиката
+    .desc = Какая милая пчела. О нет, она злится и хочет мою пиццу!
+    .suffix = Злая, Синдикат
 ent-MobAngryBeeWeak = { ent-MobAngryBee }
+    .suffix = Злая, Слабая
     .desc = { ent-MobAngryBee.desc }
-    .suffix = Angry, weak
-
-ent-MobLootbug = lootbug
-    .desc = It eats metal, maybe it's eaten something of value?
-
-ent-MobCarpSentient = space carp
-    .desc = It's a space carp. Used to be a person.
-
-ent-MobMouseSentient = strange mouse
-    .desc = Squeak! Used to be a person!
-
-ent-MobHomunculus = homunculus
-    .desc = What a wretched beast...
-
-ent-MouseMenace = menace
+ent-MobLootbug = Жук-сборщик
+    .desc = Питается металлом. Может уже съел что-то ценное?
+ent-MobCarpSentient = космический карп
+    .desc = Это космический карп. Раньше был человеком.
+ent-MobMouseSentient = странная мышь
+    .desc = Писк! Раньше был человеком!
+ent-MobHomunculus = гомункул
+    .desc = Что за жалкое создание...
+ent-MouseMenace = угроза (мышь)
     .desc = { ent-MobMouse.desc }
-
-ent-MobCorgiIanClown = Clown Ian
-    .desc = Honkmother's favorite corgi.
-
-ent-MobBrullbar = brullbar
-    .desc = Oh god.
-
-ent-MobBrullbarKing = brullbar king
-    .desc = Does it remember what it was? Oh god.
-
-ent-MobBearGoon = bear
-    .desc = Why are you staring? Never seen a bear before?
-
-ent-MobWhiteWolf = white wolf
-    .desc = Don't try to pet this one.
-
-ent-MobHorse = horse
-    .desc = Very foul creature. For those that feel like punching.
-
-ent-MobClownGoblin = clown goblin
-    .desc = Little walking clown mask and shoes. You want to honk their nose!
+ent-MobCorgiIanClown = Клоун Иан
+    .desc = Любимец Хонкматери — корги.
+ent-MobBrullbar = бабайка
+    .desc = Как медведь, но не такой ласковый.
+ent-MobBrullbarKing = король бабаек
+    .desc = Выглядит злобно, и есть такой. Лучше беги.
+ent-MobBearGoon = медведь
+    .desc = Почему ты смотришь? Никогда раньше не видел медведя?
+ent-MobWhiteWolf = белый волк
+    .desc = Не пытайся погладить этого.
+ent-MobHorse = лошадь
+    .desc = Очень мерзкое существо. Для тех, кому хочется подраться.
+ent-MobClownGoblin = микроклуня
+    .desc = Маленькая маска на ножках. Так и манит пунькнуть в носик!

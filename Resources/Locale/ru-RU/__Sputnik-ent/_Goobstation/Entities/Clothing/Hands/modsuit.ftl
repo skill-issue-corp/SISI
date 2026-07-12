@@ -1,26 +1,18 @@
 ent-ClothingHandModsuitBase = { ent-ClothingHandsBase }
     .desc = { ent-ClothingHandsBase.desc }
-
-ent-ClothingModsuitGauntletsStandard = standard modsuit gauntlets
-    .desc = Standard modular suit gloves that protect the wearer from touching lights.
-
-ent-ClothingModsuitGauntletsSecurity = soldat modsuit gauntlets
-    .desc = Robust modular suit gloves for gripping perps and guns tight.
-
-ent-ClothingModsuitGauntletsParamedic = sanitater modsuit gauntlets
-    .desc = Black and white modular suit gloves for gripping percs and patients tight.
-
-ent-ClothingModsuitGauntletsHeadOfSecurity = bulwark modsuit gauntlets
-    .desc = Robust modular suit gloves for gripping perps and guns tight. Insulated.
-
-ent-ClothingModsuitGauntletsEngineer = sapper modsuit gauntlets
-    .desc = Oil stained modular suit gloves for easily pushing buttons on an RCD.
-
-ent-ClothingModsuitGauntletsAtmostech = aeolus modsuit gauntlets
-    .desc = Asbestos-lined modular suit gloves for easily pushing buttons on an RPD.
-
-ent-ClothingModsuitGauntletsResearchDirector = minerva modsuit gauntlets
-    .desc = For keeping your digits at 10 after the artifact goes thermonuclear on you.
-
-ent-ClothingModsuitGauntletsCaptain = magnate modsuit gauntlets
-    .desc = Has specialised grooves and cuts for holding dat fukn diiisskk easier.
+ent-ClothingModsuitGauntletsStandard = стандартные перчатки скафандра MOD
+    .desc = Специальные модульные перчатки костюма, защищающие владельца от электрического удара.
+ent-ClothingModsuitGauntletsSecurity = перчатки скафандра MOD «Солдат»
+    .desc = Прочные модульные перчатки костюма для крепкого захвата преступников и оружия.
+ent-ClothingModsuitGauntletsParamedic = перчатки скафандра MOD «Санитар»
+    .desc = Чёрно-белые модульные перчатки костюма для надёжного захвата шприцов и пациентов.
+ent-ClothingModsuitGauntletsHeadOfSecurity = перчатки скафандра MOD «Бастион»
+    .desc = Прочные модульные перчатки костюма для крепкого захвата преступников и оружия. Изолированные.
+ent-ClothingModsuitGauntletsEngineer = перчатки скафандра MOD «Сапёр»
+    .desc = Заляпанные маслом модульные перчатки костюма для лёгкого нажатия кнопок на РСУ.
+ent-ClothingModsuitGauntletsAtmostech = перчатки скафандра MOD «Эол»
+    .desc = Модульные перчатки костюма с асбестовой подкладкой для лёгкого нажатия кнопок на РФУ.
+ent-ClothingModsuitGauntletsResearchDirector = перчатки скафандра MOD «Минерва»
+    .desc = Чтобы сохранить пальцы целыми, когда артефакт термоядерит тебя.
+ent-ClothingModsuitGauntletsCaptain = перчатки скафандра MOD "Магнат"
+    .desc = С особыми канавками и вырезами, чтобы удобнее держать этот чёртов диск.

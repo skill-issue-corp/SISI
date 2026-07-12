@@ -1,2 +1,2 @@
-ent-ActionActivateMedigunUber = Activate Uber mode
-    .desc = Uber mode heals targets faster, but is enabled only for 10 seconds and drains battery faster.
+ent-ActionActivateMedigunUber = активировать режим убера
+    .desc = Режим убера лечит цели быстрее, но активен только 10 секунд и быстрее расходует заряд батареи.

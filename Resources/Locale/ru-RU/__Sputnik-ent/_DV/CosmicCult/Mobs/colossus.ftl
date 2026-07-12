@@ -1,18 +1,13 @@
-ent-MobCosmicColossusBase = entropic colossus
-    .desc = A colossal monstrosity of malign plating and dendritic infestation.
-
+ent-MobCosmicColossusBase = энтропийный колосс
+    .desc = Колоссальное чудовище из злокачественной брони и дендритного заражения.
 ent-MobCosmicColossusLone = { ent-MobCosmicColossusBase }
-    .desc = An ancient monstrosity of malign plating and dendritic infestation.
+    .desc = Древнее чудовище из злокачественной брони и дендритного заражения.
     .suffix = MidRoundAntag
-
 ent-MobCosmicColossus = { ent-MobCosmicColossusBase }
     .desc = { ent-MobCosmicColossusBase.desc }
-
 ent-MobTileDamageZone = { "" }
     .desc = { "" }
-
 ent-MobTileDamageArea = { "" }
     .desc = { "" }
-
 ent-MobTileDamageIssuer = { "" }
     .desc = { "" }

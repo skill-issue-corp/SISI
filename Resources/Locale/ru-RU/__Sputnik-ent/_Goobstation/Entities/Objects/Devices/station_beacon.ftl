@@ -1,7 +1,6 @@
 ent-DefaultStationBeaconCentcommOffice = { ent-DefaultStationBeacon }
+    .suffix = офис ЦК
     .desc = { ent-DefaultStationBeacon.desc }
-    .suffix = Centcomm Office
-
 ent-DefaultStationBeaconRadioStation = { ent-DefaultStationBeacon }
+    .suffix = Радиостанция
     .desc = { ent-DefaultStationBeacon.desc }
-    .suffix = Radio Station

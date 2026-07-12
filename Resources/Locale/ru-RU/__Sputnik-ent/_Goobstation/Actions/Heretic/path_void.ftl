@@ -1,11 +1,10 @@
-ent-ActionHereticVoidPhase = Void Phase
-    .desc = Lets you blink to your pointed destination, causes 3x3 aoe damage bubble around your pointed destination and your current location.
-
-ent-ActionHereticVoidPrison = Void Prison
-    .desc = Sends a heathen into the void for 10 seconds. They will be unable to perform any actions for the duration. Afterwards, they will be chilled and returned to the mortal plane.
-
-ent-ActionHereticVoidPull = Void Pull
-    .desc = Calls the void, damaging, knocking down, pulling people closer, and stunning people nearby.
-
-ent-ActionHereticVoidConduit = Void Conduit
-    .desc = Opens a gate to the Void; it releases an intermittent pulse that damages windows and airlocks, while afflicting Heathens with void chill. Affected Heretics instead receive low pressure resistance.
+ent-ActionHereticVoidBlast = Взрыв Пустоты
+    .desc = Выпускает конус льда перед собой.
+ent-ActionHereticVoidPhase = Фаза Пустоты
+    .desc = Проникает сквозь пустоту, сбивая с ног всех вокруг.
+ent-ActionHereticVoidPrison = Тюрьма Пустоты
+    .desc = Отправляет неверного в Пустоту на 10 секунд. В это время он не может совершать никаких действий. По завершению способности он будет охлаждён и возвращён в материальный мир.
+ent-ActionHereticVoidPull = Притяжение Пустоты
+    .desc = Притягивает и наносит урон ближайшим врагам.
+ent-ActionHereticVoidConduit = Проводник Пустоты
+    .desc = Открывает врата в Пустоту. Они периодически испускают импульс, повреждающий окна и шлюзы, а также насылающий на неверных холод Пустоты. Затронутые же еретики получают сопротивление низкому давлению.

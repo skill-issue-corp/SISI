@@ -1,42 +1,38 @@
-ent-MobHumanSecurityOfficerSuit = Security Officer Suit
+ent-MobHumanSecurityOfficerSuit = офицер службы безопасности (костюм)
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanSecurityOfficerModSuit = Security Officer ModSuit
+ent-MobHumanSecurityOfficerModSuit = офицер службы безопасности (MOD)
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanHosModSuit = Head Of Security ModSuit
+ent-MobHumanHosModSuit = глава службы безопасности (MOD)
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanHoSSuit = Head Of Security Suit
+ent-MobHumanHoSSuit = глава службы безопасности (костюм)
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanWardenSuit = Warden Suit
+ent-MobHumanWardenSuit = смотритель (костюм)
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanBrigmedicSuit = Brigmedic Suit
+ent-MobHumanBrigmedicSuit = бригмедик (костюм)
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanSecurityOfficerBulletproofArmorHelmet = Security Officer Bulletproof Armor
+ent-MobHumanSecurityOfficerBulletproofArmorHelmet = офицер службы безопасности (пуленепробиваемый)
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanSecurityOfficerRiotArmorHelmet = Security Officer Riot Armor
+ent-MobHumanSecurityOfficerRiotArmorHelmet = офицер службы безопасности (противоударный)
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanSecurityOfficerReflectiveArmorHelmet = Security Officer Reflective Armor
+ent-MobHumanSecurityOfficerReflectiveArmorHelmet = офицер службы безопасности (отражающий)
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanSecurityOfficerBasicArmorHelmet = Security Officer Basic Armor
+ent-MobHumanSecurityOfficerBasicArmorHelmet = офицер службы безопасности (бронежилет)
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanHos = Head Of Security
+ent-MobHumanHos = глава службы безопасности
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanBrigmedic = Brigmedic
+ent-MobHumanBrigmedic = бригмедик
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanWarden = Warden
+ent-MobHumanWarden = смотритель
     .desc = { ent-MobHumanSecurityBase.desc }
-
-ent-MobHumanSecurityBase = Security Base
-    .desc = { ent-MobHuman.desc }
+ent-MobHumanSecurityBase = служба безопасности
     .suffix = DEBUG
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanBSOBase = офицер "Синий Щит"
+    .suffix = DEBUG
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanBSOSuit = офицер "Синий Щит" (костюм)
+    .suffix = DEBUG
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanBSOModSuit = офицер "Синий Щит" (MOD)
+    .suffix = DEBUG
+    .desc = { ent-MobHuman.desc }

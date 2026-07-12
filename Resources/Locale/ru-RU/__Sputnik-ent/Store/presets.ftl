@@ -1,11 +1,8 @@
 ent-StorePresetUplink = { "" }
     .desc = { "" }
-
 ent-StorePresetSpellbook = { "" }
     .desc = { "" }
-
-ent-StorePresetChangeling = { "" }
+ent-GhostAntagSpellPreset = { "" }
     .desc = { "" }
-
-ent-StorePresetRemoteUplink = { ent-StorePresetUplink }
-    .desc = { ent-StorePresetUplink.desc }
+ent-AntagPlanetContravendPreset = { "" }
+    .desc = { "" }

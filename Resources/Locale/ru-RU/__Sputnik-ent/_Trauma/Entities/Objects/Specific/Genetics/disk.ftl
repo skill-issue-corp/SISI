@@ -1,11 +1,9 @@
-ent-GeneticsDisk = genetics disk
-    .desc = A storage disk capable of encoding a single mutation for use in a genetics console. Do not expose to microwave radiation.
-    .suffix = Blank
-
+ent-GeneticsDisk = генетический диск
+    .desc = Диск для хранения данных, способный закодировать одну мутацию для использования в генетической консоли. Не подвергайте воздействию микроволнового излучения.
+    .suffix = Пустой
 ent-GeneticsDiskUnstableDna = { ent-GeneticsDisk }
     .desc = { ent-GeneticsDisk.desc }
-    .suffix = Unstable DNA
-
+    .suffix = Нестабильная ДНК
 ent-GeneticsDiskMouse = { ent-GeneticsDisk }
     .desc = { ent-GeneticsDisk.desc }
-    .suffix = Mouse
+    .suffix = Мышь

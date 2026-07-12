@@ -1,2 +1,2 @@
-ent-JanitorKnowledge = Janitor
+ent-JanitorKnowledge = Уборщик
     .desc = { ent-BaseScientificKnowledge.desc }

@@ -1,27 +1,19 @@
 ent-OrganAnimalMetabolizer = { "" }
     .desc = { "" }
-
 ent-OrganAnimal = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = Animal
-
+    .suffix = Животное
 ent-OrganAnimalInternal = { ent-OrganAnimal }
     .desc = { ent-OrganAnimal.desc }
-
 ent-OrganAnimalLungs = { ent-OrganBaseLungs }
     .desc = { ent-OrganBaseLungs.desc }
-
 ent-OrganAnimalHeart = { ent-OrganBaseHeart }
     .desc = { ent-OrganBaseHeart.desc }
-
 ent-OrganAnimalStomach = { ent-OrganBaseStomach }
     .desc = { ent-OrganBaseStomach.desc }
-
 ent-OrganAnimalLiver = { ent-OrganBaseLiver }
     .desc = { ent-OrganBaseLiver.desc }
-
 ent-OrganAnimalKidneys = { ent-OrganBaseKidneys }
     .desc = { ent-OrganBaseKidneys.desc }
-
 ent-BaseMobAnimal = { "" }
     .desc = { "" }

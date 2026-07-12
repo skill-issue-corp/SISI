@@ -1,9 +1,7 @@
-ent-MobCosmicGodBase = The Unknown
-    .desc = Your mind begins to fracture and break as it fails to comprehend what looms before you.
-
+ent-MobCosmicGodBase = Неизвестное
+    .desc = Ваш разум начинает трещать по швам, не в силах постичь то, что возвышается перед вами.
 ent-MobCosmicGodSpawn = { ent-MobCosmicGodBase }
+    .suffix = Призыв
     .desc = { ent-MobCosmicGodBase.desc }
-    .suffix = Spawn
-
 ent-MobCosmicGod = { ent-MobCosmicGodBase }
     .desc = { ent-MobCosmicGodBase.desc }

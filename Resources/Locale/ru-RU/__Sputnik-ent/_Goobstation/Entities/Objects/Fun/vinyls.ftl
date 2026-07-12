@@ -1,248 +1,171 @@
-ent-BaseVinylDisk = vinyl disk
-    .desc = A vinyl disk containing music.
-
-ent-BaseVinylSleeve = vinyl sleeve
-    .desc = A vinyl sleeve, perfect for storing your vinyls.
-
-ent-VinylDiskAI = vinyl disk: space jazz
+# Пластинки
+ent-BaseVinylDisk = виниловая пластинка
+    .desc = Виниловая пластинка, с записанной на ней музыкой.
+ent-BaseVinylSleeve = конверт для пластинки
+    .desc = Конверт, созданный для хранения виниловых пластинок.
+ent-VinylDiskAI = виниловая пластинка "Космический джазз"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskDevil = виниловая пластинка "Зал ожидания"
+    .desc = Виниловая пластинка с АЦЦКОЙ музыкой.
+ent-VinylDiskPizza = виниловая пластинка "Буги вечеринка"
+    .desc = Виниловая пластинка, с записанной на ней музыкой. Пахнет помидорами.
+ent-VinylDiskGlossy = виниловая пластинка "Кукуруза"
+    .desc = Виниловая пластинка, с записанной на ней музыкой. Имеет матовый, глянцевый слой.
+ent-VinylDiskRed = виниловая пластинка "Ночь в Венеции"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskLightBlue = виниловая пластинка "Далёкая звезда"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskBanana = виниловая пластинка "Банан"
+    .desc = Виниловая пластинка, с записанной на ней музыкой. Клоун балдеет от неё!
+ent-VinylDiskCarrot = виниловая пластинка "Атлас"
+    .desc = Виниловая пластинка, с записанной на ней музыкой. Имеет предупреждающую надпись сбоку, что не является съедобной.
+ent-VinylDiskCyan = виниловая пластинка "Пляжи"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskBlue = виниловая пластинка "Вибрации над Венерой"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskYellow = виниловая пластинка "Смертельная рулетка"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskGreen = виниловая пластинка "Ночное радио"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskPurple = виниловая пластинка "Приключение 3"
+    .desc = Да мне как-то фиолетово...
+ent-VinylDiskOrange = виниловая пластинка "Все такие живые"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskWhite = виниловая пластинка "Грув"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskLightRed = виниловая пластинка "Пердёж Элиса"
+    .desc = Это не розовый, а светло-красный.
+ent-VinylDiskDarkBlue = виниловая пластинка "Танец на космическом вулкане"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskFloaty = виниловая пластинка "Плавучий"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskLime = виниловая пластинка "Ключевой лайм"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskPink = виниловая пластинка "Новогодняя"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskBurnTheWorld = виниловая пластинка "Вальс: Сожги мир"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskFeralAngel = виниловая пластинка "Вальс: Дикий ангел"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskAlsoSprach = виниловая пластинка "Так говорил Заратустра"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskValkyries = виниловая пластинка "Полёт Валькирий"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskRomeoJuliet = виниловая пластинка "Ромео и Джульетта"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskRussian = виниловая пластинка "Русский танец"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskFlowerDuet = виниловая пластинка "Дуэт цветов"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskWinterVivaldi = виниловая пластинка "Зима Вивальди"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskBachCello = виниловая пластинка "Бах: Виолончель"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskGetThatAntag = виниловая пластинка "Поймай того мерзавца!"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskWantYouGone = виниловая пластинка "Хочу, чтобы ты ушёл"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskLaw2 = виниловая пластинка "Закон 2: Открыть оружейную"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskEphedrine = виниловая пластинка "Передозировка эфедрина"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskRunningOut = виниловая пластинка "На Исходе (кавер)"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskJourney = виниловая пластинка "Путешествие"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskTraitorousIntent = виниловая пластинка "Предательская стойка"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskViolet = виниловая пластинка "Фиолетовый"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskEgg = виниловая пластинка "Полный провал"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskWeAreNumberTwo = виниловая пластинка "Мы — номер два"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskExtraMetal = виниловая пластинка "ЭКСТРА МЕТАААААААААЛЛ!!!!!!!"
+    .desc = { ent-BaseVinylDisk.desc }
+ent-VinylDiskForgotten = забытая виниловая пластинка
+    .desc = Часть пластинки отсутствуют, но что-то вам подсказывает, что оно до сих пор способно проигрывать музыку. Но... стоит ли?
+ent-VinylDiskBroken = сломанная виниловая пластинка
+    .desc = Как и большинство виниловых пластинок, эта в итоге оказалась сломанной.
+ent-VinylDiskTuff = виниловая пластика "Ловушечные оперативники"
     .desc = { ent-BaseVinylDisk.desc }
 
-ent-VinylDiskDevil = vinyl disk: airport lounge
-    .desc = A vinyl disk containing HELLISH music.
-
-ent-VinylDiskPizza = vinyl disk: boogie party
-    .desc = A vinyl disk containing music, smells like tomatoes.
-
-ent-VinylDiskGlossy = vinyl disk: corncob
-    .desc = A vinyl disk containing music, has a matt gloss finish.
-
-ent-VinylDiskRed = vinyl disk: night in Venice
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskLightBlue = vinyl disk: distant star
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskBanana = vinyl disk: banana
-    .desc = A vinyl disk contains the clowns favorite music!
-
-ent-VinylDiskCarrot = vinyl disk: atlas
-    .desc = A vinyl disk containing music, has a disclaimer on the side warning that the disk is not edible.
-
-ent-VinylDiskCyan = vinyl disk: beaches
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskBlue = vinyl disk: vibing over venus
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskYellow = vinyl disk: deadly roulette
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskGreen = vinyl disk: late night radio
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskPurple = vinyl disk: adventure 3
-    .desc = lets see it purple!
-
-ent-VinylDiskOrange = vinyl disk: everyone is so alive
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskWhite = vinyl disk: groovy
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskLightRed = vinyl disk: fart elise
-    .desc = it's not pink, it's a lightish red.
-
-ent-VinylDiskDarkBlue = vinyl disk: dance on a space volcano
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskFloaty = vinyl disk: floaty
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskLime = vinyl disk: key lime
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskPink = vinyl disk: christmassong
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskBurnTheWorld = vinyl disk: burn the world waltz
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskFeralAngel = vinyl disk: feral angel waltz
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskAlsoSprach = vinyl disk: Also sprach Zarathustra
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskValkyries = vinyl disk: Ride of the Valkyries
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskRomeoJuliet = vinyl disk: Romeo and Juliet
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskRussian = vinyl disk: Russian Dance
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskFlowerDuet = vinyl disk: The Flower Duet
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskWinterVivaldi = vinyl disk: Winter Vivaldi
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskBachCello = vinyl disk: Bach Cello
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskGetThatAntag = vinyl disk: Get that antag!
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskWantYouGone = vinyl disk: Want you gone
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskLaw2 = vinyl disk: Law 2, open armory
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskEphedrine = vinyl disk: Ephedrine Overdose
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskRunningOut = vinyl disk: Running Out Cover
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskJourney = vinyl disk: Journey
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskTraitorousIntent = vinyl disk: Traitorous Intent
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskViolet = vinyl disk: Violet
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskEgg = vinyl disk: lay egg is true
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskWeAreNumberTwo = vinyl disk: We are number two
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskExtraMetal = vinyl disk: EXTRA METAL
-    .desc = { ent-BaseVinylDisk.desc }
-
-ent-VinylDiskForgotten = forgotten vinyl disk
-    .desc = some pieces are missing but something tell you that this is still playable, but should you?
-
-ent-VinylDiskBroken = broken vinyl disk
-    .desc = Like most vinyls this one ended up broken.
-
-ent-VinylSleeveAI = AI vinyl sleeve
+# Конверты
+ent-VinylSleeveAI = конверт для пластинки "ИИ"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveDevil = devil vinyl sleeve
+ent-VinylSleeveDevil = конверт для пластинки "Дьявол"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleevePizza = pizza vinyl sleeve
+ent-VinylSleevePizza = конверт для пластинки "Пицца"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveFart = fart vinyl sleeve
+ent-VinylSleeveFart = конверт для пластинки "Пердеж"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveLavaLand = sunny side of lava land vinyl sleeve
+ent-VinylSleeveLavaLand = конверт для пластинки "Солнечная сторона Лаваленда"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveHockey = hockey vinyl sleeve
+ent-VinylSleeveHockey = конверт для пластинки "Хоккей"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveRat = rat vinyl sleeve
+ent-VinylSleeveRat = конверт для пластинки "Мышка"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveMgs = sneaky vinyl sleeve
-    .desc = Kept you waiting huh?
-
-ent-VinylSleeveQuestionable = questionable vinyl sleeve
-    .desc = Abstract art, it's everyone's favorite.
-
-ent-VinylSleeveJanitor = janitor vinyl sleeve
-    .desc = The unsung hero, now sung about!
-
-ent-VinylSleeveWeird = weird vinyl sleeve
+ent-VinylSleeveMgs = конверт для пластинки "Проказник"
+    .desc = Заставил тебя ждать, а?
+ent-VinylSleeveQuestionable = конверт для пластинки "Вопросительный"
+    .desc = Абстрактное искусство, любимое всеми.
+ent-VinylSleeveJanitor = конверт для пластинки "Уборщик"
+    .desc = Непевший герой, теперь воспетый!
+ent-VinylSleeveWeird = конверт для пластинки "Стрёмный"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveDJClown = DJ clown vinyl sleeve
-    .desc = DJ clown a galactic sensation, his galactic tour lists sol as the only star system.
-
-ent-VinylSleeveVampire = vampire vinyl sleeve
+ent-VinylSleeveDJClown = конверт для пластинки "DJ Клувень"
+    .desc = DJ Клувень — галактическая знаменитость. За свои рейвы горячо любим хонко-мамой.
+ent-VinylSleeveVampire = конверт для пластинки "Вампир"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveShulker = shulker vinyl sleeve
+ent-VinylSleeveShulker = конверт для пластинки "Шалкер"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveRedSun = red sun vinyl sleeve
+ent-VinylSleeveRedSun = конверт для пластинки "Красное солнце"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveSkull = skull vinyl sleeve
-    .desc = Rock on!!
-
-ent-VinylSleeveFisherman = fisherman vinyl sleeve
+ent-VinylSleeveSkull = конверт для пластинки "Череп"
+    .desc = Рок-н-ролл!!
+ent-VinylSleeveFisherman = конверт для пластинки "Рыбак"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveHeisenbee = Heisenbee vinyl sleeve
-    .desc = The famous mascot of goonstation returns, in cardboard form.
-
-ent-VinylSleeveStation13 = space station 13 vinyl sleeve
-    .desc = The famous space station, unlucky 13
-
-ent-VinylSleeveStation14 = space station 14 vinyl sleeve
-    .desc = The famous space station, lucky 14
-
-ent-VinylSleeveReactor = reactor vinyl sleeve
+ent-VinylSleeveHeisenbee = конверт для пластинки "Хэйзенби"
+    .desc = Знаменитый талисман Goonstation возвращается.
+ent-VinylSleeveStation13 = конверт для пластинки "Космическая Станция 13"
+    .desc = Знаменитая, неудачливая Космическая Станция 13.
+ent-VinylSleeveStation14 = конверт для пластинки "Космическая Станция 14"
+    .desc = Знаменитая, удачливая Космическая Станция 14.
+ent-VinylSleeveReactor = конверт для пластинки "Реактор"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleevePda = pda vinyl sleeve
+ent-VinylSleevePda = конверт для пластинки "КПК"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveNukeDisk = nuke disk vinyl sleeve
-    .desc = Although it may look like one this doesn't actually work as a nuke disk.
-
-ent-VinylSleeveBlockyCraft = blocky craft vinyl sleeve
-    .desc = The hit 2457 video game blocky craft's soundtrack comes to vinyl!
-
-ent-VinylSleeveEye = eye vinyl sleeve
+ent-VinylSleeveNukeDisk = конверт для пластинки "Диск ядерной авторизации"
+    .desc = Отдалённо напоминает диск ядерной авторизации. Кто бы мог подумать?
+ent-VinylSleeveBlockyCraft = конверт для пластинки "NT-блоки"
+    .desc = Хит серии аркад NT-блоки теперь на виниле!
+ent-VinylSleeveEye = конверт для пластинки "Глаз"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveTh = th vinyl sleeve
-    .desc = Somehow this indie band decided that naming themselves "th" was a good idea
-
-ent-VinylSleeveClown = clown vinyl sleeve
-    .desc = The clown always wins.
-
-ent-VinylSleeveNanoYork = New Nano York vinyl sleeve
-    .desc = The cover art depicts New Nano York after the corporate takeover of 2333.
-
-ent-VinylSleeveDJTider = JD tider vinyl sleeve
-    .desc = DJ tider a galactic sensation, his galactic tour lists Sol and alpha centauri as stops.
-
-ent-VinylSleeveCoffee = coffee vinyl sleeve
+ent-VinylSleeveTh = конверт для пластинки "ТК"
+    .desc = Какой-то инди группе показалось отличной идеей назвать свою группу "ТК".
+ent-VinylSleeveClown = конверт для пластинки "Клоун"
+    .desc = Клоуны всегда побеждают.
+ent-VinylSleeveNanoYork = конверт для пластинки "Нано-Йорк"
+    .desc = Обложка изображает Нано-Йорк после корпоративного захвата.
+ent-VinylSleeveDJTider = конверт для пластинки "DJ Тайд"
+    .desc = DJ Тайд — галактическая знаменитость. Люди просят расписаться на своих ящиках для инструментов.
+ent-VinylSleeveCoffee = конверт для пластинки "Кофе"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveWelcomeSS13 = welcome to SS13 vinyl sleeve
-    .desc = Shame that they nuked that place.
-
-ent-VinylSleevePeace = peace vinyl sleeve
-    .desc = The art depicts the events of space station 12 where a captain and syndicate insurgent agreed to a truce on christmas day.
-
-ent-VinylSleeveJapan = japan vinyl sleeve
+ent-VinylSleeveWelcomeSS13 = конверт для пластинки "Добро пожаловать на КС13"
+    .desc = Жаль, что это место взорвано.
+ent-VinylSleevePeace = конверт для пластинки "Мир"
+    .desc = На обложке изображены события на Космической Станции 12, где Капитан и представитель Синдиката согласовали перемирие в Новый Год.
+ent-VinylSleeveJapan = конверт для пластинки "Япония"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveChristmas = christmas vinyl sleeve
+ent-VinylSleeveChristmas = конверт для пластинки "Новый Год"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleevePickle = pickle vinyl sleeve
-    .desc = Many artists have tried to figure out what this art depicts, our greatest minds are agreed that it most likely depicts 3 pickles on a road.
-
-ent-VinylSleeveFlash = flash vinyl sleeve
+ent-VinylSleevePickle = конверт для пластинки "Огурец"
+    .desc = Многие художники пытались понять, что изображает это искусство. Наши лучшие умы согласны, что, скорее всего, это три огурца на дороге.
+ent-VinylSleeveFlash = конверт для пластинки "Вспышка"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveBeige = beige vinyl sleeve
+ent-VinylSleeveBeige = конверт для пластинки "Бежевый"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveBlack = black vinyl sleeve
+ent-VinylSleeveBlack = конверт для пластинки "Чёрный"
     .desc = { ent-BaseVinylSleeve.desc }
-
-ent-VinylSleeveWhite = white vinyl sleeve
+ent-VinylSleeveWhite = конверт для пластинки "Белый"
     .desc = { ent-BaseVinylSleeve.desc }

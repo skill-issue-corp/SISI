@@ -1,23 +1,8 @@
-ent-MobLivingLight = luminous person
-    .desc = A blinding figure of pure light, seemingly intangible.
-
+ent-MobLivingLight = светящаяся персона
+    .desc = Ослепительная фигура из чистого света, кажущаяся неосязаемой.
 ent-MobLuminousPerson = { ent-MobLivingLight }
     .desc = { ent-MobLivingLight.desc }
-
-ent-MobLuminousObject = luminous object
-    .desc = A small glowing object that causes burns on the skin with its glow.
-
-ent-MobLuminousEntity = luminous entity
-    .desc = A blinding translucent entity, the bright eye seems dangerous and scalding.
-
-ent-MobLuminousPersonSalvage = { ent-MobLuminousPerson }
-    .desc = { ent-MobLuminousPerson.desc }
-    .suffix = Salvage Ruleset
-
-ent-MobLuminousObjectSalvage = { ent-MobLuminousObject }
-    .desc = { ent-MobLuminousObject.desc }
-    .suffix = Salvage Ruleset
-
-ent-MobLuminousEntitySalvage = { ent-MobLuminousEntity }
-    .desc = { ent-MobLuminousEntity.desc }
-    .suffix = Salvage Ruleset
+ent-MobLuminousObject = светящийся объект
+    .desc = Небольшой светящийся объект, своим свечением обжигающий кожу.
+ent-MobLuminousEntity = светящаяся сущность
+    .desc = Ослепительная прозрачная сущность, чей яркий глаз кажется опасным и обжигающим.

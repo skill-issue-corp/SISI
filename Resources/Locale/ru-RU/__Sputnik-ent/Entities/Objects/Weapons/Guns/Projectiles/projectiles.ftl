@@ -1,167 +1,104 @@
 ent-MuzzleFlashEffect = { "" }
     .desc = { "" }
-
 ent-MuzzleFlashEffectOmnilaser = { ent-MuzzleFlashEffect }
     .desc = { ent-MuzzleFlashEffect.desc }
-
 ent-MuzzleFlashEffectHeavyLaser = { ent-MuzzleFlashEffect }
     .desc = { ent-MuzzleFlashEffect.desc }
-
-ent-BaseBullet = BaseBullet
-    .desc = If you can see this you're probably dead!
-
+ent-BaseBullet = базовая пуля
+    .desc = Если вы можете видеть это, вы, вероятно, мертвы!
 ent-BaseBulletTrigger = { ent-BaseBullet }
     .desc = { ent-BaseBullet.desc }
-
-ent-BaseBulletPractice = base bullet practice
+ent-BaseBulletPractice = базовая пуля учебная
     .desc = { ent-BaseBullet.desc }
-
-ent-BaseBulletIncendiary = base bullet incendiary
+ent-BaseBulletIncendiary = базовая пуля зажигательная
     .desc = { ent-BaseBullet.desc }
-
-ent-BaseBulletAP = base bullet armor-piercing
+ent-BaseBulletAP = базовая пуля бронебойная
     .desc = { ent-BaseBullet.desc }
-
-ent-BaseBulletUranium = base bullet uranium
+ent-BaseBulletUranium = базовая пуля урановая
     .desc = { ent-BaseBullet.desc }
-
-ent-BulletTaser = taser bolt
+ent-BulletTaser = заряд тазера
     .desc = { ent-BaseBullet.desc }
-
-ent-BulletTaserSuper = taser bolt
-    .desc = If you can see this, you've probably been stun-meta'd
-
-ent-BulletDisabler = disabler bolt
+ent-BulletTaserSuper = заряд тазера
+    .desc = Если вы можете видеть это, вероятно, вас застанметили.
+ent-BulletDisabler = заряд станнера
     .desc = { ent-BaseBullet.desc }
-
-ent-BulletDisablerPractice = disabler bolt practice
+ent-BulletDisablerPractice = заряд тренировочного станнера
     .desc = { ent-BaseBullet.desc }
-
-ent-EmitterBolt = emitter bolt
+ent-EmitterBolt = заряд эмиттера
     .desc = { ent-BaseBullet.desc }
-
-ent-WatcherBolt = watcher bolt
+ent-WatcherBolt = заряд наблюдателя
     .desc = { ent-BaseBullet.desc }
-
-ent-WatcherBoltMagmawing = magmawing watcher bolt
-    .desc = { ent-WatcherBolt.desc }
-
+ent-WatcherBoltMagmawing = заряд наблюдателя-магмакрыла
+    .desc = { ent-BaseBullet.desc }
 ent-WatcherBoltIcewing = icewing watcher bolt
     .desc = { ent-BaseBullet.desc }
-
-ent-BasiliskRay = basilisk ray
+ent-BasiliskRay = луч василиска
     .desc = { ent-BaseBullet.desc }
-
-ent-BulletChargeGlaive = leech bolt
-    .desc = { ent-BulletCharge.desc }
-
 ent-BulletSingularityBusterRocket = singularity buster rocket
     .desc = { ent-BulletRocket.desc }
-
-ent-AnomalousParticleDelta = delta particles
+ent-BulletChargeGlaive = пиявка
+    .desc = { ent-BulletCharge.desc }
+ent-AnomalousParticleDelta = дельта-частицы
     .desc = { ent-BaseBullet.desc }
-
 ent-AnomalousParticleDeltaStrong = { ent-AnomalousParticleDelta }
     .desc = { ent-AnomalousParticleDelta.desc }
-
-ent-AnomalousParticleEpsilon = epsilon particles
+ent-AnomalousParticleEpsilon = эпсилон-частицы
     .desc = { ent-AnomalousParticleDelta.desc }
-
 ent-AnomalousParticleEpsilonStrong = { ent-AnomalousParticleEpsilon }
     .desc = { ent-AnomalousParticleEpsilon.desc }
-
-ent-AnomalousParticleZeta = zeta particles
+ent-AnomalousParticleZeta = зета-частицы
     .desc = { ent-AnomalousParticleDelta.desc }
-
 ent-AnomalousParticleZetaStrong = { ent-AnomalousParticleZeta }
     .desc = { ent-AnomalousParticleZeta.desc }
-
-ent-AnomalousParticleOmegaStrong = omega particles
+ent-AnomalousParticleOmegaStrong = омега-частицы
     .desc = { ent-AnomalousParticleDelta.desc }
-
-ent-AnomalousParticleSigma = sigma particles
+ent-AnomalousParticleSigma = сигма-частицы
     .desc = { ent-AnomalousParticleDelta.desc }
-
-ent-AnomalousParticleSigmaStrong = sigma particles
+ent-AnomalousParticleSigmaStrong = сигма-частицы
     .desc = { ent-AnomalousParticleSigma.desc }
-
-ent-BulletRocket = rocket
+ent-BulletRocket = ракета
     .desc = { ent-BaseBulletTrigger.desc }
-
-ent-BulletWeakRocket = weak rocket
+ent-BulletWeakRocket = слабая ракета
     .desc = { ent-BaseBulletTrigger.desc }
-
-ent-BulletGrenadeBaton = baton grenade
+ent-BulletGrenadeBaton = шоковая граната
     .desc = { ent-BaseBullet.desc }
-
-ent-BulletGrenadeBlast = blast grenade
+ent-BulletGrenadeBlast = фугасная граната
     .desc = { ent-BaseBulletTrigger.desc }
-
-ent-BulletGrenadeFlash = flash grenade
+ent-BulletGrenadeFlash = светошумовая граната
     .desc = { ent-BaseBulletTrigger.desc }
-
-ent-BulletGrenadeFrag = frag grenade
+ent-BulletGrenadeFrag = осколочная граната
     .desc = { ent-BaseBulletTrigger.desc }
-
-ent-BulletGrenadeCleanade = cleanade grenade round
+ent-BulletGrenadeCleanade = снаряд чистящей гранаты
     .desc = { ent-BaseBulletTrigger.desc }
-
-ent-BulletGrenadeEMP = EMP rocket
+ent-BulletGrenadeEMP = ЭМИ ракета
     .desc = { ent-BaseBulletTrigger.desc }
-
-ent-BulletCap = cap bullet
+ent-BulletCap = фальшивая пуля
     .desc = { ent-BaseBullet.desc }
-
-ent-BulletAcid = acid spit
+ent-BulletAcid = плевок кислоты
     .desc = { ent-BaseBullet.desc }
-
-ent-BulletWaterShot = water
-    .desc = { ent-SolutionVapor.desc }
-
-ent-BulletHivebot = hivebot bullet
-    .desc = { ent-BaseBullet.desc }
-
-ent-BulletCannonBall = cannonball
-    .desc = { ent-BaseBulletTrigger.desc }
-
-ent-GrapplingHook = grappling hook
+ent-BulletWaterShot = вода
     .desc = { "" }
-
-ent-StickyHandPalm = sticky hand palm
-    .desc = { ent-GrapplingHook.desc }
-
-ent-BulletDisablerSmg = disabler bolt smg
+ent-BulletHivebot = пуля ройбота
     .desc = { ent-BaseBullet.desc }
-
-ent-BulletEnergyTurretBase = energy bolt
+ent-BulletCannonBall = пушечное ядро
+    .desc = { ent-BaseBulletTrigger.desc }
+ent-GrapplingHook = якорь
+    .desc = { "" }
+ent-BulletDisablerSmg = заряд станнера-пулемёта
     .desc = { ent-BaseBullet.desc }
-
-ent-BulletEnergyTurretLaser = laser bolt
+ent-BulletEnergyTurretBase = энергетический заряд
+    .desc = { ent-BaseBullet.desc }
+ent-BulletEnergyTurretLaser = лазерный заряд
     .desc = { ent-BulletEnergyTurretBase.desc }
-
-ent-BulletEnergyTurretDisabler = disabler bolt
+ent-BulletEnergyTurretDisabler = заряд станнера
     .desc = { ent-BulletEnergyTurretBase.desc }
-
-ent-TeslaGunBullet = tesla gun lightning
+ent-TeslaGunBullet = молния Тесла-пушки
     .desc = { ent-BaseBullet.desc }
-
-ent-BulletLaser = laser bolt
+ent-BulletLaser = лазерный заряд
     .desc = { ent-BaseBullet.desc }
-
-ent-BulletLaserSpread = wide laser barrage
+ent-BulletLaserSpread = широкий лазерный залп
     .desc = { ent-BulletLaser.desc }
-
-ent-BulletLaserSpreadNarrow = lethal laser barrage
+ent-BulletLaserSpreadNarrow = узкий лазерный залп
     .desc = { ent-BulletLaser.desc }
-
-ent-BulletDisablerSmgSpread = disabling laser barrage
+ent-BulletDisablerSmgSpread = оглушающий лазерный залп
     .desc = { ent-BulletDisablerSmg.desc }
-
-ent-BulletLaserMagnum = magnum laser bolt
-    .desc = { ent-BulletLaser.desc }
-
-ent-BulletLaserWindowPiercingMagnum = magnum window-piercing bolt
-    .desc = { ent-BulletLaser.desc }
-
-ent-EnergyCrossbowBolt = energy bolt
-    .desc = This'll hurt.

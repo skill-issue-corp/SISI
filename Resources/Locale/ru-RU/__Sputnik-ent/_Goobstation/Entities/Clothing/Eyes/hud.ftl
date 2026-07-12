@@ -1,15 +1,13 @@
 ent-ShowHealthRelatedIcons = { "" }
     .desc = { "" }
-
-ent-ClothingEyesHudChrono = futuristic visor
-    .desc = A visior from the future, capable of displaying almost anything.
-
+ent-ClothingEyesHudChrono = футуристический визор
+    .desc = Визор из будущего, способный отображать почти всё.
 ent-ClothingEyesHudChronoUnremoveable = { ent-ClothingEyesHudChrono }
+    .suffix = Неснимаемый
     .desc = { ent-ClothingEyesHudChrono.desc }
-    .suffix = Unremoveable
-
-ent-ClothingEyesHudDiagnosticMedical = meddiag hud
-    .desc = A heads-up display combining both medical and diagnostic information.
-
-ent-ClothingEyesHudViro = viro hud
-    .desc = A medical HUD upgraded with advanced disease scanning.
+ent-ClothingEyesHudDiagnosticMedical = меддиагностический визор
+    .desc = Отображение информации, объединяющее медицинские и диагностические данные.
+ent-ClothingEyesHudViro = вирусологический визор
+    .desc = Улучшенный медицинский визор, позволяющий сканировать на наличие болезней.
+ent-ClothingEyesHudContractor = визор наёмника
+    .desc = Профессиональный визор, разработанный специально для членов Гильдии. Спроектирован для лучшего обнаружения гуманоидов и их последующего захвата.

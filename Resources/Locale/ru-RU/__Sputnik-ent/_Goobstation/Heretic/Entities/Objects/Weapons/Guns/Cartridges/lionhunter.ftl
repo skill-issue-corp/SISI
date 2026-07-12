@@ -1,2 +1,2 @@
-ent-CartridgeLionhunter = cartridge (.60 hunter's)
+ent-CartridgeLionhunter = патрон (.60 охотничий)
     .desc = { ent-CartridgeAntiMateriel.desc }

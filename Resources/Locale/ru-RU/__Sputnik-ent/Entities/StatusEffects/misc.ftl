@@ -1,32 +1,22 @@
 ent-StatusEffectBase = { "" }
     .desc = { "" }
-
 ent-MobStatusEffectBase = { ent-StatusEffectBase }
     .desc = { ent-StatusEffectBase.desc }
-
 ent-MobStatusEffectDebuff = { ent-MobStatusEffectBase }
     .desc = { ent-MobStatusEffectBase.desc }
-
 ent-MobStandStatusEffectBase = { ent-MobStatusEffectDebuff }
     .desc = { ent-MobStatusEffectDebuff.desc }
-
-ent-StatusEffectForcedSleeping = forced sleep
+ent-StatusEffectForcedSleeping = принудительный сон
     .desc = { ent-MobStatusEffectDebuff.desc }
-
-ent-StatusEffectSSDSleeping = forced sleep
+ent-StatusEffectSSDSleeping = принудительный сон
     .desc = { ent-MobStatusEffectBase.desc }
-
-ent-StatusEffectDrowsiness = drowsiness
+ent-StatusEffectDrowsiness = сонливость
     .desc = { ent-MobStatusEffectDebuff.desc }
-
-ent-StatusEffectSeeingRainbow = hallucinations
+ent-StatusEffectSeeingRainbow = галлюцинации
     .desc = { ent-MobStatusEffectDebuff.desc }
-
-ent-StatusEffectWoozy = woozy
+ent-StatusEffectWoozy = дурнота
     .desc = { ent-MobStatusEffectDebuff.desc }
-
-ent-StatusEffectDrunk = drunk
+ent-StatusEffectDrunk = опьянение
     .desc = { ent-StatusEffectWoozy.desc }
-
-ent-StatusEffectBlindness = temporary blindness
+ent-StatusEffectBlindness = временная слепота
     .desc = { ent-MobStatusEffectDebuff.desc }

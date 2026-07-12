@@ -1,32 +1,24 @@
-ent-BaseGenerator = generator
-    .desc = A high efficiency thermoelectric generator.
-
-ent-BaseGeneratorWallmount = wallmount generator
-    .desc = A high efficiency thermoelectric generator stuffed in a wall cabinet.
-
-ent-BaseGeneratorWallmountFrame = wallmount generator frame
-    .desc = A construction frame for a wallmount generator.
-
+ent-BaseGenerator = генератор
+    .desc = Высокоэффективный термоэлектрический генератор.
+ent-BaseGeneratorWallmount = настенный генератор
+    .desc = Высокоэффективный термоэлектрический генератор, помещённый в настенный шкаф.
+ent-BaseGeneratorWallmountFrame = каркас настенного генератора
+    .desc = Строительный каркас для настенного генератора.
 ent-GeneratorBasic = { ent-BaseGenerator }
+    .suffix = Базовый, 3кВт
     .desc = { ent-BaseGenerator.desc }
-    .suffix = Basic, 3kW
-
 ent-GeneratorBasic15kW = { ent-BaseGenerator }
+    .suffix = Базовый, 15кВт
     .desc = { ent-BaseGenerator.desc }
-    .suffix = Basic, 15kW
-
 ent-GeneratorWallmountBasic = { ent-BaseGeneratorWallmount }
+    .suffix = Базовый, 3кВт
     .desc = { ent-BaseGeneratorWallmount.desc }
-    .suffix = Basic, 3kW
-
-ent-GeneratorWallmountAPU = shuttle APU
-    .desc = An auxiliary power unit for a shuttle - 6kW.
-    .suffix = APU, 6kW
-
-ent-GeneratorRTG = RTG
-    .desc = A Radioisotope Thermoelectric Generator for long term power.
-    .suffix = 10kW
-
-ent-GeneratorRTGDamaged = damaged RTG
-    .desc = A Radioisotope Thermoelectric Generator for long term power. This one has damaged shielding.
-    .suffix = 10kW
+ent-GeneratorWallmountAPU = ВСУ шаттла
+    .desc = Вспомогательная силовая установка для шаттла — 6кВт.
+    .suffix = ВСУ, 6кВт
+ent-GeneratorRTG = РИТЭГ
+    .desc = Радиоизотопный термоэлектрический генератор для долговременного питания.
+    .suffix = 10кВт
+ent-GeneratorRTGDamaged = повреждённый РИТЭГ
+    .desc = Радиоизотопный термоэлектрический генератор для долговременного питания. У этого повреждено экранирование.
+    .suffix = 10кВт

@@ -1,21 +1,21 @@
-ent-WallCosmicCult = malign wall
-    .desc = A strange-looking wall. Staring at it for too long instills a sense of discomfort.
+ent-WallCosmicCult = злокачественная стена
+    .desc = Странная на вид стена. Слишком долгий взгляд на неё вызывает чувство дискомфорта.
 
-ent-WallCosmicCultTrimmed = malign wall
+ent-WallCosmicCultTrimmed = злокачественная стена
     .desc = { ent-WallCosmicCult.desc }
     .suffix = Trimmed
 
-ent-WindowCosmicCult = malign pane
-    .desc = An odd-looking window. Something about it unnerves you.
+ent-WindowCosmicCult = злокачественное окно
+    .desc = Странное на вид окно. Что-то в нём вас тревожит.
 
-ent-WindowCosmicCultDark = malign pane
+ent-WindowCosmicCultDark = злокачественное окно
     .desc = { ent-WindowCosmicCult.desc }
     .suffix = Tinted
 
-ent-WindowCosmicCultDiagonal = malign pane
-    .desc = An odd-looking window. Something about it unnerves you.
+ent-WindowCosmicCultDiagonal = злокачественное окно
+    .desc = Странное на вид окно. Что-то в нём вас тревожит.
     .suffix = Diagonal
 
-ent-WindowCosmicCultDiagonalDark = malign pane
+ent-WindowCosmicCultDiagonalDark = злокачественное окно
     .desc = { ent-WindowCosmicCultDiagonal.desc }
     .suffix = Diagonal, Tinted

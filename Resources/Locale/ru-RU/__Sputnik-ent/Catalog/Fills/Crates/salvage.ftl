@@ -1,34 +1,30 @@
-ent-CrateSalvageEquipment = salvage equipment crate
-    .desc = For the daring.
-    .suffix = Filled
-
+ent-CrateSalvageEquipment = ящик со снаряжением для утилизации
+    .desc = Для отважных.
+    .suffix = Заполненный
 ent-CrateSalvageAssortedGoodies = { ent-CrateGenericSteel }
+    .suffix = Заполненный, Случайный утиль
     .desc = { ent-CrateGenericSteel.desc }
-    .suffix = Filled, Salvage Random
-
-ent-CrateCrusherDagger = crusher dagger crate
-    .desc = Contains 4 crusher daggers for use by salvage.
-
-ent-CrateSeismicCharge = seismic charge crate
-    .desc = Contains 6 seismic charges for use by salvage.
-
-ent-CrateDoubleEmergencyTank = double emergency tank crate
-    .desc = Contains 2 double emergency oxygen tanks and 2 double emergency nitrogen tanks
-
-ent-CrateCrusher = crusher crate
-    .desc = Contains 2 crushers for use by salvage.
-
-ent-CrateFulton = fulton crate
-    .desc = Contains a fulton beacon and 8 fultons.
-
-ent-CrateVoidJetpack = void jetpack crate
-    .desc = Contains a single void jetpack.
-
-ent-CrateSalvageHardsuit = mining hardsuit crate
-    .desc = Contains a mining hardsuit, breath mask, and one tank of both oxygen and nitrogen.
-
-ent-CrateCrusherGlaive = crusher glaive crate
-    .desc = Contains a crusher glaive for use by salvage.
-
-ent-CrateSupremeSalvagerCloak = supreme salvager cloak crate
-    .desc = Contains a cloak only to be worn by supreme salvagers. Wearing it undeservedly will result in your doom.
+ent-CrateCrusherDagger = ящик с кинжалами Крушитель
+    .desc = Содержит 4 кинжала Крушитель для использования при спасательных работах.
+ent-CrateSeismicCharge = ящик с сейсмическими зарядами
+    .desc = Содержит 6 сейсмических зарядов для использования при спасательных работах.
+ent-CrateDoubleEmergencyTank = ящик с двойными аварийными баллонами
+    .desc = Содержит 2 двойных аварийных кислородных баллона и 2 двойных аварийных азотных баллона.
+ent-CrateCrusher = ящик с Крушительми
+    .desc = Содержит 2 Крушитель для использования при спасательных работах.
+ent-CrateFulton = ящик с фултоном
+    .desc = Содержит маяк Фултона и 8 фультонов.
+ent-CrateVoidJetpack = ящик с вакуумным реактивным ранцем
+    .desc = Содержит один вакуумный реактивный ранец.
+ent-CrateSalvageHardsuit = ящик со спасательным тяжёлым костюмом
+    .desc = Содержит спасательный тяжёлый костюм, дыхательную маску и кислородный баллон.
+ent-CrateCrusherGlaive = ящик с копьём Крушитель
+    .desc = Содержит копьё Крушитель для использования при спасательных работах.
+ent-CrateSupremeSalvagerCloak = ящик с плащом верховного спасателя
+    .desc = Содержит плащ, который могут носить только верховные спасатели. Несанкционированное ношение приведёт к вашей гибели.
+ent-CratePartsT3 = ящик компонентов 3 уровня
+    .desc = Содержит 5 случайных компонентов третьего уровня для улучшения оборудования.
+ent-CratePartsT3T4 = ящик компонентов 3/4 уровня
+    .desc = Содержит 5 случайных компонентов третьего или четвёртого уровня для улучшения оборудования.
+ent-CratePartsT4 = ящик компонентов 4 уровня
+    .desc = Содержит 5 случайных компонентов четвёртого уровня для улучшения оборудования.

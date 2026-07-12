@@ -1,2 +1,2 @@
-ent-LockerShaftMiner = shaft miner's locker
-    .desc = Contains equipment useful for planet exploration.
+ent-LockerShaftMiner = шкафчик шахтёра-геолога
+    .desc = Содержит снаряжение, полезное для исследования планет.

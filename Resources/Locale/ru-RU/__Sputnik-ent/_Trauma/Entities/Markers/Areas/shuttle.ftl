@@ -1,8 +1,6 @@
 ent-BaseAreaShuttle = { ent-BaseArea }
     .desc = { ent-BaseArea.desc }
-
-ent-AreaShuttleAbductor = abductor shuttle
+ent-AreaShuttleAbductor = шаттл абдукторов
     .desc = { ent-BaseAreaShuttle.desc }
-
-ent-AreaShuttleNukie = nukie shuttle
+ent-AreaShuttleNukie = шаттл ядерных оперативников
     .desc = { ent-BaseAreaShuttle.desc }

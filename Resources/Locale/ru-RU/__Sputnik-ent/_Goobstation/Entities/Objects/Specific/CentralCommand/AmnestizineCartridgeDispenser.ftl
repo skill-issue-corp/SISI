@@ -1,2 +1,2 @@
-ent-BoxAmnestizineCartridge = amnestic cartridge dispenser
-    .desc = Dispenses amnestic cartridges to be loaded into cartridge dispensers. Almost like a forbidden pez-dispenser!
+ent-BoxAmnestizineCartridge = раздатчик картриджей амнезиака
+    .desc = Выдаёт картриджи амнезиака для загрузки в раздетчик патрон. Почти как запрещённый раздатчик конфет Пез!

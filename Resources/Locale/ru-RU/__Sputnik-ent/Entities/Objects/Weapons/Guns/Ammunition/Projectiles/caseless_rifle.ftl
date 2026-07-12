@@ -1,5 +1,4 @@
-ent-BulletCaselessRifle = bullet (9.5mm HP)
-    .desc = { ent-BaseBulletKinetic.desc }
-
-ent-BulletCaselessRiflePractice = bullet (9.5mm practice)
+ent-BulletCaselessRifle = пуля (.25 безгильзовая)
+    .desc = { ent-BaseBullet.desc }
+ent-BulletCaselessRiflePractice = пуля (.25 безгильзовая учебная)
     .desc = { ent-BaseBulletPractice.desc }

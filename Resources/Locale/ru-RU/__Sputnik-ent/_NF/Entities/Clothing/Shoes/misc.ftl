@@ -1,2 +1,2 @@
-ent-ClothingShoesClothwrap = cloth footwraps
-    .desc = A roll of treated canvas used for wrapping feet or paws.
+ent-ClothingShoesClothwrap = тканевые обмотки для ног
+    .desc = Лоскут обработанного холста, используемая для обмотки ног или лап.

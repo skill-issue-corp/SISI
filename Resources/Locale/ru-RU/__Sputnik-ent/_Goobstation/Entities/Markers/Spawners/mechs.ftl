@@ -1,43 +1,31 @@
-ent-SpawnMechRipley2 = Ripley APLU MK-II Spawner
+ent-SpawnMechRipley2 = спавн Рипли АТМЕ МК-II
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMechHonkerFilled = H.O.N.K. Spawner
+ent-SpawnMechHonkerFilled = спавн H.O.N.K.
+    .suffix = Заполненный
     .desc = { ent-MarkerBase.desc }
-    .suffix = Filled
-
-ent-SpawnMechClarke = Clarke Spawner
+ent-SpawnMechClarke = спавн Кларк
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMechGygax = Gygax Spawner
+ent-SpawnMechGygax = спавн Гигакс
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMechDurand = Durand Spawner
+ent-SpawnMechDurand = спавн Дюранд
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMechMarauder = Marauder Spawner
+ent-SpawnMechMarauder = спавн Марадёр
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMechMarauderFilled = Marauder Spawner
+ent-SpawnMechMarauderFilled = спавн Марадёр
+    .suffix = Заполненный
     .desc = { ent-MarkerBase.desc }
-    .suffix = Filled
-
-ent-SpawnMechSeraph = Seraph Spawner
+ent-SpawnMechSeraph = спавн Серафим
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMechSeraphFilled = Seraph Spawner
+ent-SpawnMechSeraphFilled = спавн Серафим
+    .suffix = Заполненный
     .desc = { ent-MarkerBase.desc }
-    .suffix = Filled
-
-ent-SpawnMechGygaxSyndie = Dark Gygax Spawner
+ent-SpawnMechGygaxSyndie = спавн Тёмный Гигакс
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMechGygaxSyndieFilled = Dark Gygax Spawner
+ent-SpawnMechGygaxSyndieFilled = спавн Тёмный Гигакс
+    .suffix = Заполненный
     .desc = { ent-MarkerBase.desc }
-    .suffix = Filled
-
-ent-SpawnMechMaulerSyndie = Mauler Spawner
+ent-SpawnMechMaulerSyndie = спавн Маулер
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMechMaulerSyndieFilled = Mauler Spawner
+ent-SpawnMechMaulerSyndieFilled = спавн Маулер
+    .suffix = Заполненный
     .desc = { ent-MarkerBase.desc }
-    .suffix = Filled

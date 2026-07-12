@@ -1,13 +1,10 @@
-ent-AlwaysPoweredFlockLight = shining cabochon
-    .desc = It pulses and flares to a strange rhythm.
-    .suffix = Always powered
-
-ent-FlockLight = shining cabochon
-    .desc = It pulses and flares to a strange rhythm.
-
+ent-AlwaysPoweredFlockLight = сияющий кабошон
+    .desc = Он пульсирует и вспыхивает в странном ритме.
+    .suffix = Всегда запитанный
+ent-FlockLight = сияющий кабошон
+    .desc = Он пульсирует и вспыхивает в странном ритме.
 ent-AlwaysPoweredFlockFloorLight = { ent-AlwaysPoweredFlockLight }
+    .suffix = Всегда запитанный
     .desc = { ent-AlwaysPoweredFlockLight.desc }
-    .suffix = Always powered
-
 ent-FlockFloorLight = { ent-FlockLight }
     .desc = { ent-FlockLight.desc }

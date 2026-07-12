@@ -1,2 +1,2 @@
-ent-AccessConfiguratorSyndicate = syndicate access configurator
-    .desc = A Cybersun-branded access configurator, compatible with all non-NanoTrasen IDs. Now with quick-swap functionality!
+ent-AccessConfiguratorSyndicate = синдикатовский конфигуратор доступа
+    .desc = Конфигуратор доступа марки «Cybersun», совместимый со всеми ID, не принадлежащими NanoTrasen. Теперь с функцией быстрой замены!

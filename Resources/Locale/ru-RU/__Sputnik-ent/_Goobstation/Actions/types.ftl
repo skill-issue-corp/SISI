@@ -1,53 +1,40 @@
-ent-ActionActivateBluespaceLifeline = Activate Bluespace Lifeline
-    .desc = Activates your bluespace lifeline implant, teleporting you far-far away from this station. You won't be able to come back.
-
-ent-ActionHorn = Honk!
-    .desc = Beep the horn at whoever you will run over.
-
-ent-ActionSiren = Siren
-    .desc = Alert your victim to your presence.
-
-ent-ActivateSmokeImplant = Release a cloud of smoke
-    .desc = Releases a cloud of smoke around you.
-
-ent-ActionDashMoth = Wing dash
-    .desc = Sharply flap your wings, dashing to the side!
-
-ent-ActionDashGeneric = Dash
-    .desc = Dash forward.
-
-ent-ActionToggleRightMantisBlade = Toggle Right Mantis Blade
-    .desc = Extend or retract the mantis blade in your right arm.
-
-ent-ActionToggleLeftMantisBlade = Toggle Left Mantis Blade
-    .desc = Extend or retract the mantis blade in your left arm.
-
-ent-ActionToggleSandevistan = Toggle Sandevistan
-    .desc = Enable or disable your improved reflexes provided by the Sandevistan.
-
-ent-ActionShowStationMap = Station Map Interface
-    .desc = View a Station Map Interface.
-
-ent-ActionToggleFloorBoardsMode = Enter or Exit Floor
-    .desc = Crawl under the floor boards.
-
-ent-ActionStealShoes = Steal Shoes
-    .desc = A tasty snack it will be!
-
-ent-ActionVehicleWallPush = Wall Launch
-    .desc = Launch yourself off the nearest surface, tiders count as surfaces.
-
-ent-ActionRocketChairBoost = Boost
-    .desc = Spray water to launch forward.
-
-ent-ActionActivateBerserkerImplant = Activate Berserker Implant
-    .desc = Activate your berserker implant, greatly increasing your melee damage and speed for a short duration. While in berserk mode, you will be unable to use ranged weapons.
-
-ent-ActionActivateRedspaceLifeline = Activate Redspace Lifeline
-    .desc = Activates your redspace lifeline implant, teleporting you far-far away from this station. You won't be able to come back.
-
-ent-ActionForklift = Activate Lift
-    .desc = Lift up crates in front of you.
-
-ent-ActionUnforklift = Drop Lift
-    .desc = Put down crates in front of you.
+ent-ActionActivateBluespaceLifeline = Блюспейс коридор
+    .desc = Активирует имплант Блюспейс коридор, телепортируя вас далеко-далеко от станции. Вернуться назад не получится.
+ent-ActionHorn = Сигнал!
+    .desc = Посигнальте тому, кого собираетесь сбить.
+ent-ActionSiren = Сирена
+    .desc = Предупредите свою жертву о своём приближении.
+ent-ActivateSmokeImplant = Выпустить облако дыма
+    .desc = Выпускает облако дыма вокруг вас.
+ent-ActionDashMoth = Рывок крыльями
+    .desc = Резко хлопните крыльями, чтобы метнуться в сторону!
+ent-ActionDashGeneric = Рывок
+    .desc = Рывок вперед.
+ent-ActionToggleRightMantisBlade = Переключить правый клинок богомола
+    .desc = Выдвинуть или убрать клинок богомола на правой руке.
+ent-ActionToggleLeftMantisBlade = Переключить левый клинок богомола
+    .desc = Выдвинуть или убрать клинок богомола на левой руке.
+ent-ActionToggleSandevistan = Переключить Сандевистан
+    .desc = Включить или отключить улучшенные рефлексы, предоставляемые Сандевистаном.
+ent-ActionShowStationMap = Переключить карту станции
+    .desc = Показать интерфейс карты станции.
+ent-ActionToggleFloorBoardsMode = Залезть/вылезти из-под пола
+    .desc = Пролезть под полом.
+ent-ActionStealShoes = Украсть обувь
+    .desc = Вкусная закуска!
+ent-ActionCreateHellPortal = Создать портал в Ад
+    .desc = Используя свои демонические силы, вы можете открыть портал в Ад.
+ent-ActionHellGooseTeleport = Телепортироваться на станцию
+    .desc = Телепортирует вас на станцию.
+ent-ActionVehicleWallPush = Отскок от стены
+    .desc = Оттолкнитесь от ближайшей поверхности. Грейтайды считаются поверхностью.
+ent-ActionActivateRedspaceLifeline = Редспейс коридор
+    .desc = Активирует имплант Редспейс коридор, телепортируя вас далеко-далеко от станции. Вернуться назад не получится.
+ent-ActionForklift = Активировать погрузчик
+    .desc = Поднимает ящики перед вами.
+ent-ActionUnforklift = Опустить погрузчик
+    .desc = Ставит ящики перед вами.
+ent-ActionRocketChairBoost = Ускорение
+    .desc = Разбрызгивает воду, чтобы рвануть вперёд.
+ent-ActionActivateBerserkerImplant = Активировать имплант Берсерка
+    .desc = Активирует ваш имплант берсерка, значительно увеличивая урон и скорость ближнего боя на короткое время. В режиме берсерка вы не сможете использовать оружие дальнего боя.

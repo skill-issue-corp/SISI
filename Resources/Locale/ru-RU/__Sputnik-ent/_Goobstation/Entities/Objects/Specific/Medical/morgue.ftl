@@ -1,6 +1,5 @@
-ent-ChemistryBottleFormaldehyde = embalming fluid bottle
+ent-ChemistryBottleFormaldehyde = { ent-BaseChemistryBottleFilled }
+    .suffix = формальдегид
     .desc = { ent-BaseChemistryBottleFilled.desc }
-    .suffix = formaldehyde
-
-ent-CrateMorgue = morgue supplies
-    .desc = Contains 1x bible, 1x syringe, 2x "embalming fluid bottle", 10x body bag, 1x coffin.
+ent-CrateMorgue = ящик со снабжением морга
+    .desc = Ящик, содержащий одну библию, один шприц, две бутылочки формальдегида, десять мешков для тел и один гроб.

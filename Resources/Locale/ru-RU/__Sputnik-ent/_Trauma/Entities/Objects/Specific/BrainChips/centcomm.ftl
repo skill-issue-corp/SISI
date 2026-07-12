@@ -1,5 +1,4 @@
-ent-SkillChipDeathSquad = skill chip (deathsquad)
+ent-SkillChipDeathSquad = чип навыков (отряд смерти)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipCBURN = skill chip (CBURN)
+ent-SkillChipCBURN = чип навыков (РХБЗЗ)
     .desc = { ent-BaseSkillChip.desc }

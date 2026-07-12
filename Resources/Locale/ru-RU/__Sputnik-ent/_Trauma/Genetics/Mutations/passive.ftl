@@ -1,2 +1,2 @@
-ent-MutationClever = Clever
-    .desc = Causes the subject to feel just a little bit smarter. Most effective in specimens with low levels of intelligence.
+ent-MutationClever = Смекалка
+    .desc = Заставляет субъекта чувствовать себя чуточку умнее. Наиболее эффективно у особей с низким уровнем интеллекта.

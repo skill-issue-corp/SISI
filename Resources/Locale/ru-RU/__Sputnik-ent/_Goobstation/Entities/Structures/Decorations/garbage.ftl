@@ -1,2 +1,2 @@
-ent-Garbage = garbage
-    .desc = It's crawling with maggots!
+ent-Garbage = мусор
+    .desc = Он кишит личинками!

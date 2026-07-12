@@ -1,11 +1,8 @@
-ent-AreaMaints = maints
+ent-AreaMaints = технические тоннели
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaRadstorm = radstorm shelter
+ent-AreaRadstorm = убежище от радиошторма
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaHolodeck = holodeck
+ent-AreaHolodeck = голодек
     .desc = { ent-BaseAreaStation.desc }
-
-ent-AreaLootRoom = loot room
+ent-AreaLootRoom = комната с добычей
     .desc = { ent-BaseAreaStation.desc }

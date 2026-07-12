@@ -1,2 +1,2 @@
-ent-FoodBurgerChud = nothing burger
-    .desc = A burger for when nothing happens.
+ent-FoodBurgerChud = ничего-бургер
+    .desc = Бургер на случай, когда ничего не происходит.

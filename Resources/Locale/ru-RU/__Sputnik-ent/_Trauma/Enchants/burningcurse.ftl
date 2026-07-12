@@ -1,2 +1,2 @@
-ent-CurseBurning = Curse of Flame
+ent-CurseBurning = Проклятие Пламени
     .desc = { ent-BaseEnchant.desc }

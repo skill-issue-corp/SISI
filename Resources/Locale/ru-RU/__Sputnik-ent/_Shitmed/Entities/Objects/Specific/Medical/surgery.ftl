@@ -1,30 +1,21 @@
-ent-Bonesetter = bone setter
-    .desc = Used for setting bones back into place.
-
-ent-BoneGel = bottle of bone gel
-    .desc = A container for bone gel that often needs to be refilled from a specialized machine.
-
-ent-MedicalStitches = medical stitches
-    .desc = A fine, curved needle with a length of absorbable polyglycolide suture thread.
-
-ent-EnergyScalpel = tissue cutter
-    .desc = A scalpel which uses an energy blade, also serves as a drill in its powered state.
-
-ent-AdvancedRetractor = power pinches
-    .desc = A retractor with mechanical pinches, also serves as a hemostat in its powered state.
-
-ent-EnergyCautery = energy stapler
-    .desc = A cautery with an energy tip, also serves as stitches in its powered state.
-
-ent-AdvancedBoneGel = bone multitool
-    .desc = A mechanized bone healer, also serves as bone setter in its powered state.
-
-ent-OmnimedTool = surgical omnitool
-    .desc = A compact surgical omnitool conveniently packed like a Swiss Army knife.
-
-ent-OmnimedToolSyndie = gorlex surgical omnitool
-    .desc = A compact surgical omnitool conveniently packed like a Swiss Army knife, except that its user has probably violated a couple of Swiss conventions. Can perform surgery through clothing.
-
-ent-OmnimedToolDebug = experimental surgical omnitool
+ent-Bonesetter = установщик костей
+    .desc = Используется для установки костей на своё место.
+ent-BoneGel = бутылка костяного геля
+    .desc = Контейнер для костяного геля, нужно время от времени пополнять в специальной машине.
+ent-MedicalStitches = медицинские швы
+    .desc = { ent-BaseHealingItem.desc }
+ent-EnergyScalpel = энергетический скальпель
+    .desc = Скальпель, использующий энергетическое лезвие, в активированном состоянии также служит пилой.
+ent-AdvancedRetractor = энергетический ретрактор
+    .desc = Ретрактор с механическими зажимами в активированном состоянии также служит кровоостанавливающим средством.
+ent-EnergyCautery = энергетический термокаутер
+    .desc = Прижигатель с энергетическим наконечником в активированном состоянии также выполняет функцию дрели.
+ent-AdvancedBoneGel = костный мультитул
+    .desc = Механизированный инструмент для лечения костей, в активированном состоянии также служит костной шиной.
+ent-OmnimedTool = хирургический мультитул
+    .desc = Компактный хирургический инструмент, удобно упакованный, как швейцарский армейский нож.
+ent-OmnimedToolSyndie = хирургический мультитул Синдиката
+    .desc = Компактный хирургический инструмент, удобно упакованный, как швейцарский армейский нож, за исключением того, что его пользователь, вероятно, нарушил несколько швейцарских конвенций. Может выполнять хирургические операции через одежду.
+ent-OmnimedToolDebug = экспериментальный хирургический мультитул
+    .suffix = Адмем
     .desc = { ent-OmnimedToolSyndie.desc }
-    .suffix = Admeme

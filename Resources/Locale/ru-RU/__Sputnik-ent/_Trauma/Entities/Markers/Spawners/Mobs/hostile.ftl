@@ -1,47 +1,33 @@
-ent-SpawnMobBearSea = Sea Bear Spawner
+ent-SpawnMobBearSea = Спавнер морского медведя
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobSquidSea = Sea Squid Spawner
+ent-SpawnMobSquidSea = Спавнер морского кальмара
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobSpiderCrabSea = Spider Crab Spawner
+ent-SpawnMobSpiderCrabSea = Спавнер краба-паука
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobKraitSea = Krait Cobra Spawner
+ent-SpawnMobKraitSea = Спавнер крайта
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobArcherSea = Archer Fish Spawner
+ent-SpawnMobArcherSea = Спавнер рыбы-брызгуна
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobBunnyEvil = Evil Bunny Spawner
+ent-SpawnMobBunnyEvil = Спавнер злого кролика
     .desc = { ent-MarkerBase.desc }
-    .suffix = Hostile
-
-ent-SpawnMobEelSea = Eel Spawner
+    .suffix = Враждебный
+ent-SpawnMobEelSea = Спавнер угря
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobYellowBellySnake = Yellow Belly Snake Spawner
+ent-SpawnMobYellowBellySnake = Спавнер желтобрюхого полоза
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobMantis = Mantis Spawner
+ent-SpawnMobMantis = Спавнер богомола
     .desc = { ent-MarkerBase.desc }
-    .suffix = Hostile
-
-ent-SpawnMobMantisShrimp = Mantis Shrimp Spawner
+    .suffix = Враждебный
+ent-SpawnMobMantisShrimp = Спавнер рака-богомола
     .desc = { ent-MarkerBase.desc }
-    .suffix = Hostile
-
-ent-SpawnMobShrimp = Shrimp Spawner
+    .suffix = Враждебный
+ent-SpawnMobShrimp = Спавнер креветки
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobDartFrog2 = Golden Poison Frog Spawner
+ent-SpawnMobDartFrog2 = Спавнер золотой ядовитой лягушки
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobDartFrog4 = Green-and-Black Poison Frog Spawner
+ent-SpawnMobDartFrog4 = Спавнер зелёно-чёрной ядовитой лягушки
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobDartFrog5 = Kokoe Poison Frog Spawner
+ent-SpawnMobDartFrog5 = спавнер ядовитой лягушки кокое
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobCobra = Cobra Spawner
+ent-SpawnMobCobra = Спавнер кобры
     .desc = { ent-MarkerBase.desc }

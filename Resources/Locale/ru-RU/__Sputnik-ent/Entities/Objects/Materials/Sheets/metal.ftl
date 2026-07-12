@@ -1,38 +1,35 @@
-ent-SheetMetalBase = { ent-BaseSheet }
-    .desc = A sheet of metal, used often on the station in various applications.
-
-ent-SheetSteel = steel
+ent-SheetMetalBase = { ent-BaseItem }
+    .desc = Металлический лист, широко применяемый на станции в различных целях.
+ent-SheetSteel = сталь
+    .suffix = Полный
     .desc = { ent-SheetMetalBase.desc }
-    .suffix = Full
-
-ent-SheetSteel10 = steel
-    .desc = { ent-SheetSteel.desc }
+ent-SheetSteel10 = сталь
     .suffix = 10
-
-ent-SheetSteel1 = steel
     .desc = { ent-SheetSteel.desc }
-    .suffix = Single
-
-ent-SheetBrass = brass
-    .desc = A sheet of brass, primarily used by clockwork enthusiasts and the remnants of Ratvarian cults.
-    .suffix = Full
-
-ent-SheetBrass10 = brass
-    .desc = { ent-SheetBrass.desc }
+ent-SheetSteel1 = сталь
+    .suffix = Один
+    .desc = { ent-SheetSteel.desc }
+ent-SheetSteelLingering0 = { ent-SheetSteel }
+    .suffix = Не исчезают закончившись, 0
+    .desc = { ent-SheetSteel.desc }
+ent-SheetBrass = латунь
+    .desc = Лист латуни, в основном используемый любителями часовых механизмов и остатками культа Ратвара.
+    .suffix = Полный
+ent-SheetBrass10 = латунь
     .suffix = 10
-
-ent-SheetBrass1 = brass
     .desc = { ent-SheetBrass.desc }
-    .suffix = Single
-
-ent-SheetPlasteel = plasteel
+ent-SheetBrass1 = латунь
+    .suffix = Один
+    .desc = { ent-SheetBrass.desc }
+ent-SheetPlasteel = пласталь
+    .suffix = Полный
     .desc = { ent-SheetMetalBase.desc }
-    .suffix = Full
-
-ent-SheetPlasteel10 = plasteel
+ent-SheetPlasteelLingering0 = { ent-SheetPlasteel }
+    .suffix = Lingering, 0
     .desc = { ent-SheetPlasteel.desc }
+ent-SheetPlasteel10 = пласталь
     .suffix = 10
-
-ent-SheetPlasteel1 = plasteel
     .desc = { ent-SheetPlasteel.desc }
-    .suffix = Single
+ent-SheetPlasteel1 = пласталь
+    .suffix = Один
+    .desc = { ent-SheetPlasteel.desc }

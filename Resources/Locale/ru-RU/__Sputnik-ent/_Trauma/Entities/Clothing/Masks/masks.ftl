@@ -1,8 +1,8 @@
-ent-ClothingMaskGasRev = gas mask
-    .desc = A reliable military-style gas mask.
+ent-ClothingMaskGasRev = противогаз
+    .desc = Надёжный противогаз военного образца.
 
-ent-KnittedBalaclava = 3-hole knit balaclava
-    .desc = For the budding robber, or the experienced terrorist.
+ent-KnittedBalaclava = вязаная балаклава с тремя отверстиями
+    .desc = Для начинающего грабителя или опытного террориста.
 
-ent-ClothingHunterMaskGasSwat = spacepol swat gas mask
-    .desc = A standard issue gas mask for SpacePol Officers
+ent-ClothingHunterMaskGasSwat = противогаз спецназа СпейсПола
+    .desc = Стандартный противогаз для офицеров СпейсПола.

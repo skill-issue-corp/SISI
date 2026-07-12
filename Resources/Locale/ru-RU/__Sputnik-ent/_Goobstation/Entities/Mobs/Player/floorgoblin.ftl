@@ -1,2 +1,2 @@
-ent-MobFloorGoblin = floor goblin
-    .desc = Lives under the floor boards, steals shoes, bites ankles.
+ent-MobFloorGoblin = гоблин-тапкокрад
+    .desc = Живёт под полом, крадёт обувь, кусает пятки.

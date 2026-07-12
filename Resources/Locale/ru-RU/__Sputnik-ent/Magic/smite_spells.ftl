@@ -1,2 +1,2 @@
-ent-ActionSmite = Smite
-    .desc = Charge your hand with an unholy energy that can be used to cause a touched victim to violently explode.
+ent-ActionSmite = Покарать
+    .desc = Зарядите свою руку нечестивой энергией, которая может быть использована для того, чтобы заставить жертву, к которой вы прикоснетесь, взорваться.

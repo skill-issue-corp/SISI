@@ -1,29 +1,22 @@
-ent-DevilMindRole = Devil Role
+ent-DevilMindRole = Роль Дьявола
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleHeretic = Heretic Role
+ent-MindRoleChangeling = Роль Генокрада
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleGhoul = Ghoul
+ent-MindRoleHeretic = Роль Еретика
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleArenaParticipant = Arena Participant
+ent-MindRoleGhoul = Роль Гуля
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleBrainwashed = Brainwashed Role
+ent-MindRoleBrainwashed = Роль Порабощённого
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleChangelingmidround = Sleeper Changeling Role
-    .desc = { ent-MindRoleChangeling.desc }
-
-ent-MindRoleHereticmidround = Sleeper Heretic Role
-    .desc = { ent-MindRoleHeretic.desc }
-
-ent-DevilMindRolemidround = Sleeper Devil Role
-    .desc = { ent-DevilMindRole.desc }
-
-ent-MindRoleSlasher = Slasher Role
+ent-MindRoleSlasher = Роль Мясника
     .desc = { ent-BaseMindRoleAntag.desc }
-
-ent-MindRoleContractor = Contractor Role
+ent-MindRoleGhostRoleSentientAnimal = Роль разумного животного
+    .desc = { ent-BaseMindRoleAntag.desc }
+ent-MindRoleContractor = Роль Наёмника Синдиката
+    .desc = { ent-BaseMindRoleAntag.desc }
+ent-BaseMindRoleAntagGhostGoob = { ent-BaseMindRole }
+    .desc = { ent-BaseMindRole.desc }
+ent-MindRoleGhostRoleSoloAntagonistGoob = Pоль призрака (соло-антагонист)
+    .desc = { ent-BaseMindRoleAntagGhostGoob.desc }
+ent-MindRoleGhostRoleFreeAgentGoob = Pоль призрака (свободный агент)
     .desc = { ent-BaseMindRoleAntag.desc }

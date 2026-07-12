@@ -1,29 +1,20 @@
-ent-ActionSlasherSummonMachete = Summon Machete
-    .desc = Summon your bound machete to your active hand, or create one if lost.
-
-ent-ActionSlasherSummonMeatSpike = Meat Spike
-    .desc = Conjure a horrific meat spike beneath you to capture your victims.
-
-ent-ActionSlasherIncorporealize = Incorporealize
-    .desc = Become incorporeal, capable of moving through walls and being completely invisible, but unable to interact with the world. Can only be used when unseen.
-
-ent-ActionSlasherCorporealize = Corporealize
-    .desc = Manifest your being from your incorporeal state. Can only be used when incorporeal.
-
-ent-ActionSlasherBloodTrail = Blood Trail
-    .desc = Begin trailing blood in your wake with some funky music. Spooky!
-
-ent-ActionSlasherPossession = Possession
-    .desc = Use this on a person to begin to exact your control on them, giving you temporary control of their body for 45 seconds. Once time is up, both bodies return.
-
-ent-ActionSlasherRegenerate = Regenerate
-    .desc = Quickly regenerate your being, restoring all lost health, repairing wounds, and removing all stuns. Must be recharged by stealing a soul after every use.
-
-ent-ActionSlasherStaggerArea = Stagger Area
-    .desc = You exert your dark aura to people in range, slowing them down for a short time.
-
-ent-ActionSlasherMassacre = Massacre
-    .desc = Unleach a brutal chain of attacks. The more hits in a row you hit the more damage you deal. You decapitate your target after 13 hits.
-
-ent-ActionSlasherSoulSteal = Soul Steal
-    .desc = Siphon a victims soul. Must be used on an incapicated living target (or dead body) to steal their soul, empowering your machete and increasing your health.
+ent-ActionSlasherSummonMachete = Призвать мачете
+    .desc = Призывает ваше мачете, либо же создаёт новое на случай, если вы потеряли старое.
+ent-ActionSlasherSummonMeatSpike = Мясной крюк
+    .desc = Создаёт жуткий мясной крюк, на который вы можете подвесить свою жертву. Не уничтожает тело, а также не требует полного умерщвления жертвы.
+ent-ActionSlasherIncorporealize = Бестелесность
+    .desc = Делает вас полностью невидимым и даёт способность проходить сквозь стены. В этом состоянии нельзя взаимодействовать с окружающим миром. Эту способность нельзя использовать, пока вас видят!
+ent-ActionSlasherCorporealize = Материлизация
+    .desc = Проявляет вашу сущность из бестелесного состояния.
+ent-ActionSlasherBloodTrail = Кровавый след
+    .desc = Оставляет за вами кровавый след, а также включает нагнетающую музыку погони. Кажется, это должно быть жутко.
+ent-ActionSlasherPossession = Захват тела
+    .desc = Используйте эту способность на ком-либо, дабы захватить его тело на 45 секунд. По истечении времени, оба тела возвращаются.
+ent-ActionSlasherRegenerate = Регенерация
+    .desc = Быстро восстанавливает ваше тело, а также помогает избавиться от эффекта оглушения.
+ent-ActionSlasherStaggerArea = Волна ужаса
+    .desc = Создаёт вокруг вас небольшую зону, которая замедляет людей, попавших в неё.
+ent-ActionSlasherMassacre = РЕЗНЯ!
+    .desc = Запускает цепочку жестоких атак. Чем больше ударов вы нанесёте по своей жертве, тем больше будет становится урон. После тринадцатого удара жертва будет обезглавлена.
+ent-ActionSlasherSoulSteal = Похищение души
+    .desc = Похищает душу живой или мёртвой жертвы, усиливая урон вашего мачете, а также повышая защиту ваших элементов одежды. Чтобы похитить душу жертва должна быть без сил, висеть на крюке, либо же умереть. Души живых людей заметно эффективнее.

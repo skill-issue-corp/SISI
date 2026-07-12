@@ -1,5 +1,4 @@
-ent-SurvivalMedipen = survival medipen
-    .desc = A cocktail of powerful healing chemicals. Contains Leporazine, and Miner's Salve. Slowly heals damage and stabilizes body temperature. You can overdose on these if you use more than one in quick succession.
-
-ent-LuxuryMedipen = luxurium medipen
-    .desc = A medipen containing medicines both ordinary and exotic to keep Nanotrasen's finest miners going. Harmful to use outside of low-pressure environments.
+ent-SurvivalMedipen = медипен выживания
+    .desc = Коктейль из мощных целебных веществ. Содержит лепоразин и минеральную мазь. Медленно заживляет повреждения и стабилизирует температуру тела. При частом использовании медипенов может возникнуть передозировка.
+ent-LuxuryMedipen = роскошный медипен выживания
+    .desc = Новейшая технология блюспейс позволила Nanotrasen вместить 180 единиц объема в один флакон. Содержит редкие и мощные химические вещества, которые используются для исследования суровых условий окружающей среды. Химические вещества относительно вредны и не столь эффективны при использовании вне помещений с низким давлением.

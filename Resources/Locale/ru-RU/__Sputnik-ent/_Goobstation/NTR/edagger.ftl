@@ -1,3 +1,3 @@
-ent-PhoronDagger = Phoron dagger
-    .desc = A sleek dagger for grilling cheese and slaying tiders.
-    .suffix = DO NOT MAP
+ent-PhoronDagger = фороновый кинжал
+    .desc = Изящный кинжал для жарки сыра и убийства грейтайдов.
+    .suffix = НЕ МАППИТЬ

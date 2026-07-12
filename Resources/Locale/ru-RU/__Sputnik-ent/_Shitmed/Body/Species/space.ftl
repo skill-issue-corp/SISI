@@ -1,2 +1,2 @@
-ent-AppearanceSpaceAnimal = space animal appearance
+ent-AppearanceSpaceAnimal = внешность космического животного
     .desc = { ent-BaseMobBody.desc }

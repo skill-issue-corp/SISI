@@ -1,8 +1,6 @@
-ent-SurgeryKnowledge = Surgery
+ent-SurgeryKnowledge = Хирургия
     .desc = { ent-BaseMedicalKnowledge.desc }
-
-ent-FirstAidKnowledge = First Aid
+ent-FirstAidKnowledge = Первая помощь
     .desc = { ent-BaseMedicalKnowledge.desc }
-
-ent-ChemistryKnowledge = Chemistry
+ent-ChemistryKnowledge = Химия
     .desc = { ent-BaseMedicalKnowledge.desc }

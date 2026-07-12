@@ -1,2 +1,2 @@
-ent-FreeformLawboard = freeform lawboard
-    .desc = The RD's freeform law board for setting custom laws.
+ent-FreeformLawboard = произвольная доска законов
+    .desc = Произвольная доска законов НР для установки собственных законов.

@@ -1,31 +1,24 @@
-ent-ReinforcedWindowOutpost = reinforced window
+ent-ReinforcedWindowOutpost = усиленное окно
     .desc = { ent-ReinforcedWindow.desc }
-    .suffix = OUTPOST ONLY
-
+    .suffix = ТОЛЬКО ДЛЯ АЎТПОСТА
 ent-ReinforcedWindowDiagonalOutpost = { ent-ReinforcedWindowDiagonal }
     .desc = { ent-ReinforcedWindowDiagonal.desc }
-    .suffix = diagonal, OUTPOST ONLY
-
+    .suffix = Диагональное, ТОЛЬКО ДЛЯ АУТПОСТА
 ent-PlastitaniumWindowOutpost = { ent-PlastitaniumWindow }
     .desc = { ent-PlastitaniumWindow.desc }
-    .suffix = OUTPOST ONLY
-
+    .suffix = ТОЛЬКО ДЛЯ АУТПОСТА
 ent-PlastitaniumWindowDiagonalOutpost = { ent-PlastitaniumWindowDiagonal }
     .desc = { ent-PlastitaniumWindowDiagonal.desc }
-    .suffix = diagonal, OUTPOST ONLY
-
-ent-PlasturaniumWindowDiagonalRadProof = plasturanium window
-    .desc = Don't smudge up the rads down there.
-    .suffix = Rad-Proof
-
-ent-PlasturaniumWindowRadProof = plasturanium window
-    .desc = Don't smudge up the rads down there.
-    .suffix = Rad-Proof
-
-ent-PlasturaniumWindowDiagonalRadProofIndestructible = plasturanium window
-    .desc = Don't smudge up the rads down there.
-    .suffix = Rad-Proof, Indestructible
-
-ent-PlasturaniumWindowRadProofIndestructible = plasturanium window
-    .desc = Don't smudge up the rads down there.
-    .suffix = Rad-Proof, Indestructible
+    .suffix = Диагональное, ТОЛЬКО ДЛЯ АУТПОСТА
+ent-PlasturaniumWindowDiagonalRadProof = плазтурановое окно
+    .desc = Не разводите там грязь среди радиации.
+    .suffix = Радиационностойкое
+ent-PlasturaniumWindowRadProof = плазтурановое окно
+    .desc = Не разводите там грязь среди радиации.
+    .suffix = Радиационностойкое
+ent-PlasturaniumWindowDiagonalRadProofIndestructible = плазтурановое окно
+    .desc = Не разводите там грязь среди радиации.
+    .suffix = Радиационностойкое, Неразрушимое
+ent-PlasturaniumWindowRadProofIndestructible = плазтурановое окно
+    .desc = Не разводите там грязь среди радиации.
+    .suffix = Радиационностойкое, Неразрушимое

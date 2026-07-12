@@ -1,25 +1,19 @@
 ent-GasTrinaryBase = { ent-GasPipeBase }
     .desc = { ent-GasPipeBase.desc }
-
 ent-GasTrinaryFlippedBase = { "" }
-    .desc = { "" }
     .suffix = Flipped
-
+    .desc = { "" }
 ent-GasFilterBase = { ent-GasTrinaryBase }
     .desc = { ent-GasTrinaryBase.desc }
-
-ent-GasFilter = gas filter
-    .desc = Very useful for filtering gases.
-
-ent-GasFilterFlipped = { ent-GasTrinaryFlippedBase }
-    .desc = { ent-GasTrinaryFlippedBase.desc }
-
-ent-GasMixer = gas mixer
-    .desc = Very useful for mixing gases.
-
-ent-GasMixerFlipped = gas mixer
+ent-GasFilter = газовый фильтр
+    .desc = Очень полезен для фильтрации газов.
+ent-GasFilterFlipped = газовый фильтр
+    .suffix = Перевёрнутый
+    .desc = { ent-GasFilter.desc }
+ent-GasMixer = газовый смеситель
+    .desc = Очень полезен для смешивания газов.
+ent-GasMixerFlipped = газовый смеситель
+    .suffix = Перевёрнутый
     .desc = { ent-GasMixer.desc }
-    .suffix = Flipped
-
-ent-PressureControlledValve = pneumatic valve
-    .desc = A bidirectional valve controlled by pressure. Opens if the output pipe is lower than the pressure of the control pipe by 101.325 kPa.
+ent-PressureControlledValve = пневматический клапан
+    .desc = Двунаправленный клапан, управляемый давлением. Открывается, если давление в выходной трубе ниже давления в контрольной трубе на 101,325 кПа.

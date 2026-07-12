@@ -1,67 +1,45 @@
-ent-BoxSurvival = survival box
-    .desc = It's a box with basic internals inside.
-    .suffix = Standard
-
+ent-BoxSurvival = аварийный запас
+    .desc = Коробка с базовым набором для выживания.
+    .suffix = Стандартный
 ent-BoxSurvivalNitrogen = { ent-BoxSurvival }
+    .suffix = Стандартный Азот N2
     .desc = { ent-BoxSurvival.desc }
-    .suffix = Standard N2
-
-ent-BoxSurvivalEngineering = extended-capacity survival box
-    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.
-    .suffix = Extended
-
+ent-BoxSurvivalEngineering = расширенный аварийный запас
+    .desc = Коробка с базовым набором для выживания. Согласно этикетке, содержит более ёмкий баллон.
+    .suffix = Инженерный
 ent-BoxSurvivalEngineeringNitrogen = { ent-BoxSurvivalEngineering }
+    .suffix = Расширенный Азот N2
     .desc = { ent-BoxSurvivalEngineering.desc }
-    .suffix = Extended N2
-
-ent-BoxSurvivalSecurity = survival box
-    .desc = It's a box with basic internals inside.
-    .suffix = Security
-
+ent-BoxSurvivalSecurity = аварийный запас
+    .desc = Коробка с базовым набором для выживания.
+    .suffix = СБ
 ent-BoxSurvivalSecurityNitrogen = { ent-BoxSurvivalSecurity }
+    .suffix = Охранный Азот N2
     .desc = { ent-BoxSurvivalSecurity.desc }
-    .suffix = Security N2
-
-ent-BoxSurvivalMedical = survival box
-    .desc = It's a box with basic internals inside.
-    .suffix = Medical
-
+ent-BoxSurvivalMedical = аварийный запас
+    .desc = Коробка с базовым набором для выживания.
+    .suffix = Медицинский
 ent-BoxSurvivalMedicalNitrogen = { ent-BoxSurvivalMedical }
+    .suffix = Медицинский Азот N2
     .desc = { ent-BoxSurvivalMedical.desc }
-    .suffix = Medical N2
-
-ent-BoxHug = box of hugs
-    .desc = A special box for sensitive people.
-    .suffix = Emergency
-
+ent-BoxHug = коробка обнимашек
+    .desc = Специальная коробка для чутких людей.
+    .suffix = Аварийный
 ent-BoxHugNitrogen = { ent-BoxHug }
+    .suffix = Аварийный Азот N2
     .desc = { ent-BoxHug.desc }
-    .suffix = Emergency N2
-
 ent-BoxMime = { ent-BoxSurvival }
     .desc = { ent-BoxSurvival.desc }
-    .suffix = Mime, Emergency
-
+    .suffix = Мим, Аварийный
 ent-BoxMimeNitrogen = { ent-BoxSurvivalNitrogen }
+    .suffix = Мим, Аварийный Азот N2
     .desc = { ent-BoxSurvivalNitrogen.desc }
-    .suffix = Mime, Emergency N2
-
 ent-BoxMimeMoth = { ent-BoxSurvival }
+    .suffix = Мим, Аварийный ниан
     .desc = { ent-BoxSurvival.desc }
-    .suffix = Mime, Emergency moth
-
-ent-BoxSurvivalSyndicate = extended-capacity survival box
-    .desc = It's a box with basic internals inside. This one is labelled to contain an extended-capacity tank.
-    .suffix = Syndicate
-
+ent-BoxSurvivalSyndicate = расширенный аварийный запас
+    .desc = Коробка с базовым набором для выживания. Согласно этикетке, содержит более ёмкий баллон.
+    .suffix = Синдикат
 ent-BoxSurvivalSyndicateNitrogen = { ent-BoxSurvivalSyndicate }
+    .suffix = Синдикат Азот N2
     .desc = { ent-BoxSurvivalSyndicate.desc }
-    .suffix = Syndicate N2
-
-ent-BoxSurvivalMilitaryDouble = { ent-BoxCardboardSmall }
-    .desc = It's a box with basic internals inside. This one is labelled to contain an double extended-capacity tank.
-    .suffix = Military O2
-
-ent-BoxSurvivalMilitaryDoubleNitrogen = { ent-BoxSurvivalMilitaryDouble }
-    .desc = { ent-BoxSurvivalMilitaryDouble.desc }
-    .suffix = Military N2

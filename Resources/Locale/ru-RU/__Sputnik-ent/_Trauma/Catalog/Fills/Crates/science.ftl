@@ -1,2 +1,2 @@
-ent-CrateSkillChipsSci = science skillchips crate
-    .desc = A crate containing science skillchips. Requires science access to open.
+ent-CrateSkillChipsSci = ящик с чипами навыков научного отдела
+    .desc = Ящик с чипами навыков научного отдела. Для открытия требуется доступ в научный отдел.

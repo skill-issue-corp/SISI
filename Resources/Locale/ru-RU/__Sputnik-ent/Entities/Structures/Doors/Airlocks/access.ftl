@@ -1,544 +1,428 @@
 ent-AirlockServiceLocked = { ent-Airlock }
+    .suffix = Сервисный, Закрыт
     .desc = { ent-Airlock.desc }
-    .suffix = Service, Locked
-
 ent-AirlockLawyerLocked = { ent-AirlockServiceLocked }
+    .suffix = Юридический, Закрыт
     .desc = { ent-AirlockServiceLocked.desc }
-    .suffix = Lawyer, Locked
-
 ent-AirlockTheatreLocked = { ent-AirlockServiceLocked }
+    .suffix = Театр, Закрыт
     .desc = { ent-AirlockServiceLocked.desc }
-    .suffix = Theatre, Locked
-
 ent-AirlockServiceTheatreLocked = { ent-AirlockServiceLocked }
+    .suffix = Сервисный, Театр, Закрыт
     .desc = { ent-AirlockServiceLocked.desc }
-    .suffix = Service, Theatre, Locked
-
 ent-AirlockChapelLocked = { ent-AirlockServiceLocked }
+    .suffix = Храм, Закрыт
     .desc = { ent-AirlockServiceLocked.desc }
-    .suffix = Chapel, Locked
-
-ent-AirlockJanitorLocked = { ent-AirlockJanitor }
-    .desc = { ent-AirlockJanitor.desc }
-    .suffix = Janitor, Locked
-
+ent-AirlockJanitorLocked = { ent-AirlockServiceLocked }
+    .suffix = Уборщик, Закрыт
+    .desc = { ent-AirlockServiceLocked.desc }
 ent-AirlockKitchenLocked = { ent-AirlockServiceLocked }
+    .suffix = Кухня, Закрыт
     .desc = { ent-AirlockServiceLocked.desc }
-    .suffix = Kitchen, Locked
-
 ent-AirlockBarLocked = { ent-AirlockServiceLocked }
+    .suffix = Бар, Закрыт
     .desc = { ent-AirlockServiceLocked.desc }
-    .suffix = Bar, Locked
-
 ent-AirlockBarKitchenLocked = { ent-AirlockServiceLocked }
+    .suffix = Бар/Кухня, Закрыт
     .desc = { ent-AirlockServiceLocked.desc }
-    .suffix = Bar&Kitchen, Locked
-
 ent-AirlockHydroponicsLocked = { ent-AirlockHydroponics }
+    .suffix = Гидропоника, Закрыт
     .desc = { ent-AirlockHydroponics.desc }
-    .suffix = Hydroponics, Locked
-
 ent-AirlockExternalLocked = { ent-AirlockExternal }
+    .suffix = Внешний, Закрыт
     .desc = { ent-AirlockExternal.desc }
-    .suffix = External, Locked
-
 ent-AirlockExternalCargoLocked = { ent-AirlockExternal }
+    .suffix = Внешний, Снабжение, Закрыт
     .desc = { ent-AirlockExternal.desc }
-    .suffix = External, Cargo, Locked
-
 ent-AirlockExternalEngineeringLocked = { ent-AirlockExternal }
+    .suffix = Внешний, Инженерный, Закрыт
     .desc = { ent-AirlockExternal.desc }
-    .suffix = External, Engineering, Locked
-
 ent-AirlockExternalCommandLocked = { ent-AirlockExternal }
+    .suffix = Внешний, Командование, Закрыт
     .desc = { ent-AirlockExternal.desc }
-    .suffix = External, Command, Locked
-
 ent-AirlockExternalGlassCommandLocked = { ent-AirlockExternalGlass }
+    .suffix = Внешний, Стеклянный, Командование, Закрыт
     .desc = { ent-AirlockExternalGlass.desc }
-    .suffix = External, Glass, Command, Locked
-
 ent-AirlockExternalAtmosphericsLocked = { ent-AirlockExternal }
+    .suffix = Внешний, Атмосферный, Закрыт
     .desc = { ent-AirlockExternal.desc }
-    .suffix = External, Atmospherics, Locked
-
 ent-AirlockExternalSyndicateLocked = { ent-AirlockExternal }
+    .suffix = Внешний, Синдикат, Закрыт
     .desc = { ent-AirlockExternal.desc }
-    .suffix = External, Syndicate, Locked
-
 ent-AirlockExternalNukeopLocked = { ent-AirlockExternal }
+    .suffix = Внешний, Ядерные Оперативники, Закрыт
     .desc = { ent-AirlockExternal.desc }
-    .suffix = External, Nukeop, Locked
-
 ent-AirlockFreezerLocked = { ent-AirlockFreezer }
+    .suffix = Кухня, Закрыт
     .desc = { ent-AirlockFreezer.desc }
-    .suffix = Kitchen, Locked
-
 ent-AirlockFreezerKitchenHydroLocked = { ent-AirlockFreezer }
+    .suffix = Кухня/Гидропоника, Закрыт
     .desc = { ent-AirlockFreezer.desc }
-    .suffix = Kitchen/Hydroponics, Locked
-
 ent-AirlockFreezerHydroponicsLocked = { ent-AirlockFreezer }
+    .suffix = Гидропоника, Закрыт
     .desc = { ent-AirlockFreezer.desc }
-    .suffix = Hydroponics, Locked
-
 ent-AirlockEngineeringLocked = { ent-AirlockEngineering }
+    .suffix = Инженерный, Закрыт
     .desc = { ent-AirlockEngineering.desc }
-    .suffix = Engineering, Locked
-
 ent-AirlockAtmosphericsLocked = { ent-AirlockAtmospherics }
+    .suffix = Атмосферный, Закрыт
     .desc = { ent-AirlockAtmospherics.desc }
-    .suffix = Atmospherics, Locked
-
 ent-AirlockCargoLocked = { ent-AirlockCargo }
+    .suffix = Снабжение, Закрыт
     .desc = { ent-AirlockCargo.desc }
-    .suffix = Cargo, Locked
-
-ent-AirlockSalvageLocked = { ent-AirlockSalvage }
-    .desc = { ent-AirlockSalvage.desc }
-    .suffix = Salvage, Locked
-
+ent-AirlockSalvageLocked = { ent-AirlockCargo }
+    .suffix = Утилизаторский, Закрыт
+    .desc = { ent-AirlockCargo.desc }
 ent-AirlockMiningLocked = { ent-AirlockMining }
+    .suffix = Шахтёрский (Утилизаторский), Закрыт
     .desc = { ent-AirlockMining.desc }
-    .suffix = Mining(Salvage), Locked
-
 ent-AirlockMedicalLocked = { ent-AirlockMedical }
+    .suffix = Медицинский, Закрыт
     .desc = { ent-AirlockMedical.desc }
-    .suffix = Medical, Locked
-
 ent-AirlockVirologyLocked = { ent-AirlockVirology }
+    .suffix = Вирусология, Закрыт
     .desc = { ent-AirlockVirology.desc }
-    .suffix = Virology, Locked
-
 ent-AirlockChemistryLocked = { ent-AirlockChemistry }
+    .suffix = Химия, Закрыт
     .desc = { ent-AirlockChemistry.desc }
-    .suffix = Chemistry, Locked
-
 ent-AirlockMedicalMorgueLocked = { ent-AirlockMedical }
+    .suffix = Морг, Закрыт
     .desc = { ent-AirlockMedical.desc }
-    .suffix = Morgue, Locked
-
 ent-AirlockScienceLocked = { ent-AirlockScience }
+    .suffix = Научный, Закрыт
     .desc = { ent-AirlockScience.desc }
-    .suffix = Science, Locked
-
 ent-AirlockMedicalScienceLocked = { ent-AirlockScience }
+    .suffix = Медицинский/Научный, Закрыт
     .desc = { ent-AirlockScience.desc }
-    .suffix = Medical/Science, Locked
-
 ent-AirlockCentralCommandLocked = { ent-AirlockCentralCommand }
+    .suffix = ЦК, Закрыт
     .desc = { ent-AirlockCentralCommand.desc }
-    .suffix = Central Command, Locked
-
 ent-AirlockCommandLocked = { ent-AirlockCommand }
+    .suffix = Командование, Закрыт
     .desc = { ent-AirlockCommand.desc }
-    .suffix = Command, Locked
-
 ent-AirlockCaptainLocked = { ent-AirlockCommand }
+    .suffix = Капитан, Закрыт
     .desc = { ent-AirlockCommand.desc }
-    .suffix = Captain, Locked
-
 ent-AirlockChiefMedicalOfficerLocked = { ent-AirlockCommand }
+    .suffix = Главный врач, Закрыт
     .desc = { ent-AirlockCommand.desc }
-    .suffix = ChiefMedicalOfficer, Locked
-
 ent-AirlockChiefEngineerLocked = { ent-AirlockCommand }
+    .suffix = Старший инженер, Закрыт
     .desc = { ent-AirlockCommand.desc }
-    .suffix = ChiefEngineer, Locked
-
 ent-AirlockHeadOfSecurityLocked = { ent-AirlockCommand }
+    .suffix = Глава службы безопасности, Закрыт
     .desc = { ent-AirlockCommand.desc }
-    .suffix = HeadOfSecurity, Locked
-
 ent-AirlockResearchDirectorLocked = { ent-AirlockCommand }
+    .suffix = Научный руководитель, Закрыт
     .desc = { ent-AirlockCommand.desc }
-    .suffix = ResearchDirector, Locked
-
 ent-AirlockHeadOfPersonnelLocked = { ent-AirlockCommand }
+    .suffix = Глава персонала, Закрыт
     .desc = { ent-AirlockCommand.desc }
-    .suffix = HeadOfPersonnel, Locked
-
 ent-AirlockQuartermasterLocked = { ent-AirlockCommand }
+    .suffix = Квартирмейстер, Закрыт
     .desc = { ent-AirlockCommand.desc }
-    .suffix = Quartermaster, Locked
-
 ent-AirlockSecurityLocked = { ent-AirlockSecurity }
+    .suffix = Служба безопасности, Закрыт
     .desc = { ent-AirlockSecurity.desc }
-    .suffix = Security, Locked
-
 ent-AirlockDetectiveLocked = { ent-AirlockSecurity }
+    .suffix = Детектив, Закрыт
     .desc = { ent-AirlockSecurity.desc }
-    .suffix = Detective, Locked
-
 ent-AirlockBrigLocked = { ent-AirlockSecurity }
+    .suffix = Бриг, Закрыт
     .desc = { ent-AirlockSecurity.desc }
-    .suffix = Brig, Locked
-
 ent-AirlockSecurityLawyerLocked = { ent-AirlockSecurity }
+    .suffix = Служба безопасности/Юридический, Закрыт
     .desc = { ent-AirlockSecurity.desc }
-    .suffix = Security/Lawyer, Locked
-
 ent-AirlockArmoryLocked = { ent-AirlockSecurity }
+    .suffix = Оружейная, Закрыт
     .desc = { ent-AirlockSecurity.desc }
-    .suffix = Armory, Locked
-
 ent-AirlockVaultLocked = { ent-AirlockSecurity }
+    .suffix = Хранилище, Закрыт
     .desc = { ent-AirlockSecurity.desc }
-    .suffix = Vault, Locked
-
 ent-AirlockEVALocked = { ent-AirlockCommand }
+    .suffix = ВКД, Закрыт
     .desc = { ent-AirlockCommand.desc }
-    .suffix = EVA, Locked
-
 ent-AirlockServiceGlassLocked = { ent-AirlockGlass }
+    .suffix = Сервисный, Закрыт
     .desc = { ent-AirlockGlass.desc }
-    .suffix = Service, Locked
-
 ent-AirlockLawyerGlassLocked = { ent-AirlockServiceGlassLocked }
+    .suffix = Юридический, Закрыт
     .desc = { ent-AirlockServiceGlassLocked.desc }
-    .suffix = Lawyer, Locked
-
 ent-AirlockTheatreGlassLocked = { ent-AirlockServiceGlassLocked }
+    .suffix = Театр, Закрыт
     .desc = { ent-AirlockServiceGlassLocked.desc }
-    .suffix = Theatre, Locked
-
 ent-AirlockServiceTheatreGlassLocked = { ent-AirlockServiceGlassLocked }
+    .suffix = Сервисный, Театр, Закрыт
     .desc = { ent-AirlockServiceGlassLocked.desc }
-    .suffix = Service, Theatre, Locked
-
 ent-AirlockBarGlassLocked = { ent-AirlockServiceGlassLocked }
+    .suffix = Бар, Закрыт
     .desc = { ent-AirlockServiceGlassLocked.desc }
-    .suffix = Bar, Locked
-
 ent-AirlockBarKitchenGlassLocked = { ent-AirlockServiceGlassLocked }
+    .suffix = Бар/Кухня, Закрыт
     .desc = { ent-AirlockServiceGlassLocked.desc }
-    .suffix = Bar&Kitchen, Locked
-
 ent-AirlockExternalGlassLocked = { ent-AirlockExternalGlass }
+    .suffix = Внешний, Стеклянный, Закрыт
     .desc = { ent-AirlockExternalGlass.desc }
-    .suffix = External, Glass, Locked
-
 ent-AirlockExternalGlassCargoLocked = { ent-AirlockExternalGlass }
+    .suffix = Внешний, Стеклянный, Снабжение, Закрыт
     .desc = { ent-AirlockExternalGlass.desc }
-    .suffix = External, Glass, Cargo, Locked
-
 ent-AirlockExternalGlassSyndicateLocked = { ent-AirlockExternalGlass }
+    .suffix = Внешний, Стеклянный, Синдикат, Закрыт
     .desc = { ent-AirlockExternalGlass.desc }
-    .suffix = External, Glass, Syndicate, Locked
-
 ent-AirlockExternalGlassNukeopLocked = { ent-AirlockExternalGlass }
+    .suffix = Внешний, Стеклянный, Ядерные Оперативники, Закрыт
     .desc = { ent-AirlockExternalGlass.desc }
-    .suffix = External, Glass, Nukeop, Locked
-
 ent-AirlockExternalGlassEngineeringLocked = { ent-AirlockExternalGlass }
+    .suffix = Внешний, Стеклянный, Инженерный, Закрыт
     .desc = { ent-AirlockExternalGlass.desc }
-    .suffix = External, Glass, Engineering, Locked
-
 ent-AirlockExternalGlassAtmosphericsLocked = { ent-AirlockExternalGlass }
+    .suffix = Внешний, Стеклянный, Атмосферный, Закрыт
     .desc = { ent-AirlockExternalGlass.desc }
-    .suffix = External, Glass, Atmospherics, Locked
-
 ent-AirlockKitchenGlassLocked = { ent-AirlockServiceGlassLocked }
+    .suffix = Кухня, Закрыт
     .desc = { ent-AirlockServiceGlassLocked.desc }
-    .suffix = Kitchen, Locked
-
-ent-AirlockJanitorGlassLocked = { ent-AirlockJanitorGlass }
-    .desc = { ent-AirlockJanitorGlass.desc }
-    .suffix = Janitor, Locked
-
+ent-AirlockJanitorGlassLocked = { ent-AirlockServiceGlassLocked }
+    .suffix = Уборщик, Закрыт
+    .desc = { ent-AirlockServiceGlassLocked.desc }
 ent-AirlockHydroGlassLocked = { ent-AirlockHydroponicsGlass }
+    .suffix = Гидропоника, Закрыт
     .desc = { ent-AirlockHydroponicsGlass.desc }
-    .suffix = Hydroponics, Locked
-
 ent-AirlockChapelGlassLocked = { ent-AirlockServiceGlassLocked }
+    .suffix = Храм, Закрыт
     .desc = { ent-AirlockServiceGlassLocked.desc }
-    .suffix = Chapel, Locked
-
 ent-AirlockEngineeringGlassLocked = { ent-AirlockEngineeringGlass }
+    .suffix = Инженерный, Закрыт
     .desc = { ent-AirlockEngineeringGlass.desc }
-    .suffix = Engineering, Locked
-
 ent-AirlockAtmosphericsGlassLocked = { ent-AirlockAtmosphericsGlass }
+    .suffix = Атмосферный, Закрыт
     .desc = { ent-AirlockAtmosphericsGlass.desc }
-    .suffix = Atmospherics, Locked
-
 ent-AirlockCargoGlassLocked = { ent-AirlockCargoGlass }
+    .suffix = Снабжение, Закрыт
     .desc = { ent-AirlockCargoGlass.desc }
-    .suffix = Cargo, Locked
-
-ent-AirlockSalvageGlassLocked = { ent-AirlockSalvageGlass }
-    .desc = { ent-AirlockSalvageGlass.desc }
-    .suffix = Salvage, Locked
-
+ent-AirlockSalvageGlassLocked = { ent-AirlockCargoGlass }
+    .suffix = Утилизаторский, Закрыт
+    .desc = { ent-AirlockCargoGlass.desc }
 ent-AirlockMiningGlassLocked = { ent-AirlockMiningGlass }
+    .suffix = Шахтёрский (Утилизаторский), Закрыт
     .desc = { ent-AirlockMiningGlass.desc }
-    .suffix = Mining(Salvage), Locked
-
 ent-AirlockChemistryGlassLocked = { ent-AirlockChemistryGlass }
+    .suffix = Химия, Закрыт
     .desc = { ent-AirlockChemistryGlass.desc }
-    .suffix = Chemistry, Locked
-
 ent-AirlockMedicalMorgueGlassLocked = { ent-AirlockMedicalGlass }
+    .suffix = Морг, Закрыт
     .desc = { ent-AirlockMedicalGlass.desc }
-    .suffix = Morgue, Locked
-
 ent-AirlockMedicalGlassLocked = { ent-AirlockMedicalGlass }
+    .suffix = Медицинский, Закрыт
     .desc = { ent-AirlockMedicalGlass.desc }
-    .suffix = Medical, Locked
-
 ent-AirlockVirologyGlassLocked = { ent-AirlockVirologyGlass }
+    .suffix = Вирусология, Закрыт
     .desc = { ent-AirlockVirologyGlass.desc }
-    .suffix = Virology, Locked
-
 ent-AirlockScienceGlassLocked = { ent-AirlockScienceGlass }
+    .suffix = Научный, Закрыт
     .desc = { ent-AirlockScienceGlass.desc }
-    .suffix = Science, Locked
-
 ent-AirlockMedicalScienceGlassLocked = { ent-AirlockScienceGlass }
+    .suffix = Медицинский/Science, Закрыт
     .desc = { ent-AirlockScienceGlass.desc }
-    .suffix = Medical/Science, Locked
-
 ent-AirlockCentralCommandGlassLocked = { ent-AirlockCentralCommandGlass }
+    .suffix = ЦК, Закрыт
     .desc = { ent-AirlockCentralCommandGlass.desc }
-    .suffix = Central Command, Locked
-
 ent-AirlockCommandGlassLocked = { ent-AirlockCommandGlass }
+    .suffix = Командование, Закрыт
     .desc = { ent-AirlockCommandGlass.desc }
-    .suffix = Command, Locked
-
 ent-AirlockCaptainGlassLocked = { ent-AirlockCommandGlass }
+    .suffix = Капитан, Закрыт
     .desc = { ent-AirlockCommandGlass.desc }
-    .suffix = Captain, Locked
-
 ent-AirlockChiefMedicalOfficerGlassLocked = { ent-AirlockCommandGlass }
+    .suffix = Главный врач, Закрыт
     .desc = { ent-AirlockCommandGlass.desc }
-    .suffix = ChiefMedicalOfficer, Locked
-
 ent-AirlockChiefEngineerGlassLocked = { ent-AirlockCommandGlass }
+    .suffix = Старший инженер, Закрыт
     .desc = { ent-AirlockCommandGlass.desc }
-    .suffix = ChiefEngineer, Locked
-
 ent-AirlockHeadOfSecurityGlassLocked = { ent-AirlockCommandGlass }
+    .suffix = Глава службы безопасности, Закрыт
     .desc = { ent-AirlockCommandGlass.desc }
-    .suffix = HeadOfSecurity, Locked
-
 ent-AirlockResearchDirectorGlassLocked = { ent-AirlockCommandGlass }
+    .suffix = Научный руководитель, Закрыт
     .desc = { ent-AirlockCommandGlass.desc }
-    .suffix = ResearchDirector, Locked
-
 ent-AirlockHeadOfPersonnelGlassLocked = { ent-AirlockCommandGlass }
+    .suffix = Глава персонала, Закрыт
     .desc = { ent-AirlockCommandGlass.desc }
-    .suffix = HeadOfPersonnel, Locked
-
 ent-AirlockQuartermasterGlassLocked = { ent-AirlockCommandGlass }
+    .suffix = Квартирмейстер, Закрыт
     .desc = { ent-AirlockCommandGlass.desc }
-    .suffix = Quartermaster, Locked
-
 ent-AirlockSecurityGlassLocked = { ent-AirlockSecurityGlass }
+    .suffix = Служба безопасности, Закрыт
     .desc = { ent-AirlockSecurityGlass.desc }
-    .suffix = Security, Locked
-
 ent-AirlockDetectiveGlassLocked = { ent-AirlockSecurityGlass }
+    .suffix = Детектив, Закрыт
     .desc = { ent-AirlockSecurityGlass.desc }
-    .suffix = Detective, Locked
-
 ent-AirlockBrigGlassLocked = { ent-AirlockSecurityGlass }
+    .suffix = Бриг, Закрыт
     .desc = { ent-AirlockSecurityGlass.desc }
-    .suffix = Brig, Locked
-
 ent-AirlockSecurityLawyerGlassLocked = { ent-AirlockSecurityGlass }
+    .suffix = Служба безопасности/Юридический, Закрыт
     .desc = { ent-AirlockSecurityGlass.desc }
-    .suffix = Security/Lawyer, Locked
-
 ent-AirlockArmoryGlassLocked = { ent-AirlockSecurityGlass }
+    .suffix = Оружейная, Закрыт
     .desc = { ent-AirlockSecurityGlass.desc }
-    .suffix = Armory, Locked
-
 ent-AirlockEVAGlassLocked = { ent-AirlockCommandGlassLocked }
+    .suffix = ВКД, Закрыт
     .desc = { ent-AirlockCommandGlassLocked.desc }
-    .suffix = EVA, Locked
-
 ent-AirlockSyndicateGlassLocked = { ent-AirlockSyndicateGlass }
+    .suffix = Синдикат, Закрыт
     .desc = { ent-AirlockSyndicateGlass.desc }
-    .suffix = Syndicate, Locked
-
 ent-AirlockSyndicateNukeopGlassLocked = { ent-AirlockSyndicateGlass }
+    .suffix = Ядерные Оперативники, Закрыт
     .desc = { ent-AirlockSyndicateGlass.desc }
-    .suffix = Nukeop, Locked
-
 ent-AirlockMaintLocked = { ent-AirlockMaint }
+    .suffix = Закрыт
     .desc = { ent-AirlockMaint.desc }
-    .suffix = Locked
-
 ent-AirlockMaintGlassLocked = { ent-AirlockMaintGlass }
+    .suffix = Закрыт
     .desc = { ent-AirlockMaintGlass.desc }
-    .suffix = Locked
-
-ent-AirlockMaintSalvageLocked = { ent-AirlockSalvageLocked }
-    .desc = { ent-AirlockSalvageLocked.desc }
-
-ent-AirlockMaintCargoLocked = { ent-AirlockCargoLocked }
-    .desc = { ent-AirlockCargoLocked.desc }
-
-ent-AirlockMaintCommandLocked = { ent-AirlockCommandLocked }
-    .desc = { ent-AirlockCommandLocked.desc }
-
-ent-AirlockMaintEngiLocked = { ent-AirlockEngineeringLocked }
-    .desc = { ent-AirlockEngineeringLocked.desc }
-
-ent-AirlockMaintAtmoLocked = { ent-AirlockAtmosphericsLocked }
-    .desc = { ent-AirlockAtmosphericsLocked.desc }
-
-ent-AirlockMaintBarLocked = { ent-AirlockBarLocked }
-    .desc = { ent-AirlockBarLocked.desc }
-
-ent-AirlockMaintBarKitchenLocked = { ent-AirlockBarKitchenLocked }
-    .desc = { ent-AirlockBarKitchenLocked.desc }
-
-ent-AirlockMaintChapelLocked = { ent-AirlockChapelLocked }
-    .desc = { ent-AirlockChapelLocked.desc }
-
-ent-AirlockMaintHydroLocked = { ent-AirlockHydroponicsLocked }
-    .desc = { ent-AirlockHydroponicsLocked.desc }
-
-ent-AirlockMaintJanitorLocked = { ent-AirlockJanitorLocked }
-    .desc = { ent-AirlockJanitorLocked.desc }
-
-ent-AirlockMaintLawyerLocked = { ent-AirlockLawyerLocked }
-    .desc = { ent-AirlockLawyerLocked.desc }
-
-ent-AirlockMaintServiceLocked = { ent-AirlockServiceLocked }
-    .desc = { ent-AirlockServiceLocked.desc }
-
-ent-AirlockMaintTheatreLocked = { ent-AirlockTheatreLocked }
-    .desc = { ent-AirlockTheatreLocked.desc }
-
+ent-AirlockMaintSalvageLocked = { ent-AirlockMaint }
+    .suffix = Утилизаторский, Закрыт
+    .desc = { ent-AirlockMaint.desc }
+ent-AirlockMaintCargoLocked = { ent-AirlockMaint }
+    .suffix = Снабжение, Закрыт
+    .desc = { ent-AirlockMaint.desc }
+ent-AirlockMaintCommandLocked = { ent-AirlockMaint }
+    .suffix = Командование, Закрыт
+    .desc = { ent-AirlockMaint.desc }
+ent-AirlockMaintCommonLocked = { ent-AirlockMaint }
+    .suffix = Общий, Закрыт
+    .desc = { ent-AirlockMaint.desc }
+ent-AirlockMaintEngiLocked = { ent-AirlockMaint }
+    .suffix = Инженерный, Закрыт
+    .desc = { ent-AirlockMaint.desc }
+ent-AirlockMaintAtmoLocked = { ent-AirlockMaint }
+    .suffix = Атмосферный, Закрыт
+    .desc = { ent-AirlockMaint.desc }
+ent-AirlockMaintBarLocked = { ent-AirlockMaintServiceLocked }
+    .suffix = Бар, Закрыт
+    .desc = { ent-AirlockMaintServiceLocked.desc }
+ent-AirlockMaintBarKitchenLocked = { ent-AirlockMaintServiceLocked }
+    .suffix = Бар/Кухня, Закрыт
+    .desc = { ent-AirlockMaintServiceLocked.desc }
+ent-AirlockMaintChapelLocked = { ent-AirlockMaintServiceLocked }
+    .suffix = Храм, Закрыт
+    .desc = { ent-AirlockMaintServiceLocked.desc }
+ent-AirlockMaintHydroLocked = { ent-AirlockMaintServiceLocked }
+    .suffix = Гидропоника, Закрыт
+    .desc = { ent-AirlockMaintServiceLocked.desc }
+ent-AirlockMaintJanitorLocked = { ent-AirlockMaintServiceLocked }
+    .suffix = Уборщик, Закрыт
+    .desc = { ent-AirlockMaintServiceLocked.desc }
+ent-AirlockMaintLawyerLocked = { ent-AirlockMaintServiceLocked }
+    .suffix = Юридический, Закрыт
+    .desc = { ent-AirlockMaintServiceLocked.desc }
+ent-AirlockMaintServiceLocked = { ent-AirlockMaint }
+    .suffix = Сервисный, Закрыт
+    .desc = { ent-AirlockMaint.desc }
 ent-AirlockMaintServiceTheatreLocked = { ent-AirlockServiceTheatreLocked }
     .desc = { ent-AirlockServiceTheatreLocked.desc }
-
-ent-AirlockMaintKitchenLocked = { ent-AirlockKitchenLocked }
-    .desc = { ent-AirlockKitchenLocked.desc }
-
-ent-AirlockMaintKitchenHydroLocked = { ent-AirlockFreezerKitchenHydroLocked }
-    .desc = { ent-AirlockFreezerKitchenHydroLocked.desc }
-
-ent-AirlockMaintMedLocked = { ent-AirlockMedicalLocked }
-    .desc = { ent-AirlockMedicalLocked.desc }
-
-ent-AirlockMedicalMorgueMaintLocked = { ent-AirlockMedicalMorgueLocked }
-    .desc = { ent-AirlockMedicalMorgueLocked.desc }
-
-ent-AirlockMaintChemLocked = { ent-AirlockChemistryLocked }
-    .desc = { ent-AirlockChemistryLocked.desc }
-
-ent-AirlockMaintRnDLocked = { ent-AirlockScienceLocked }
-    .desc = { ent-AirlockScienceLocked.desc }
-
-ent-AirlockMaintRnDMedLocked = { ent-AirlockMedicalScienceLocked }
-    .desc = { ent-AirlockMedicalScienceLocked.desc }
-
-ent-AirlockMaintSecLocked = { ent-AirlockSecurityLocked }
-    .desc = { ent-AirlockSecurityLocked.desc }
-
-ent-AirlockMaintDetectiveLocked = { ent-AirlockDetectiveLocked }
-    .desc = { ent-AirlockDetectiveLocked.desc }
-
-ent-AirlockMaintHOPLocked = { ent-AirlockHeadOfPersonnelLocked }
-    .desc = { ent-AirlockHeadOfPersonnelLocked.desc }
-
-ent-AirlockMaintCaptainLocked = { ent-AirlockCaptainLocked }
-    .desc = { ent-AirlockCaptainLocked.desc }
-
-ent-AirlockMaintChiefEngineerLocked = { ent-AirlockChiefEngineerLocked }
-    .desc = { ent-AirlockChiefEngineerLocked.desc }
-
-ent-AirlockMaintChiefMedicalOfficerLocked = { ent-AirlockChiefMedicalOfficerLocked }
-    .desc = { ent-AirlockChiefMedicalOfficerLocked.desc }
-
-ent-AirlockMaintHeadOfSecurityLocked = { ent-AirlockHeadOfSecurityLocked }
-    .desc = { ent-AirlockHeadOfSecurityLocked.desc }
-
-ent-AirlockMaintResearchDirectorLocked = { ent-AirlockResearchDirectorLocked }
-    .desc = { ent-AirlockResearchDirectorLocked.desc }
-
-ent-AirlockMaintQuartermasterLocked = { ent-AirlockQuartermasterLocked }
-    .desc = { ent-AirlockQuartermasterLocked.desc }
-
-ent-AirlockMaintArmoryLocked = { ent-AirlockArmoryLocked }
-    .desc = { ent-AirlockArmoryLocked.desc }
-
+ent-AirlockMaintTheatreLocked = { ent-AirlockMaintServiceLocked }
+    .suffix = Театр, Закрыт
+    .desc = { ent-AirlockMaintServiceLocked.desc }
+ent-AirlockMaintKitchenLocked = { ent-AirlockMaintServiceLocked }
+    .suffix = Кухня, Закрыт
+    .desc = { ent-AirlockMaintServiceLocked.desc }
+ent-AirlockMaintKitchenHydroLocked = { ent-AirlockMaintServiceLocked }
+    .suffix = Кухня/Гидропоника, Закрыт
+    .desc = { ent-AirlockMaintServiceLocked.desc }
+ent-AirlockMaintIntLocked = { ent-AirlockMaint }
+    .suffix = Интерьер, Закрыт
+    .desc = { ent-AirlockMaint.desc }
+ent-AirlockMaintMedLocked = { ent-AirlockMaint }
+    .suffix = Медицинский, Закрыт
+    .desc = { ent-AirlockMaint.desc }
+ent-AirlockMedicalMorgueMaintLocked = { ent-AirlockMaintMedLocked }
+    .suffix = Морг, Закрыт
+    .desc = { ent-AirlockMaintMedLocked.desc }
+ent-AirlockMaintChemLocked = { ent-AirlockMaintMedLocked }
+    .suffix = Химия, Закрыт
+    .desc = { ent-AirlockMaintMedLocked.desc }
+ent-AirlockMaintRnDLocked = { ent-AirlockMaint }
+    .suffix = Научный, Закрыт
+    .desc = { ent-AirlockMaint.desc }
+ent-AirlockMaintRnDMedLocked = { ent-AirlockMaintRnDLocked }
+    .suffix = Медицинский/Science, Закрыт
+    .desc = { ent-AirlockMaintRnDLocked.desc }
+ent-AirlockMaintSecLocked = { ent-AirlockMaint }
+    .suffix = Служба безопасности, Закрыт
+    .desc = { ent-AirlockMaint.desc }
+ent-AirlockMaintDetectiveLocked = { ent-AirlockMaintSecLocked }
+    .suffix = Детектив, Закрыт
+    .desc = { ent-AirlockMaintSecLocked.desc }
+ent-AirlockMaintHOPLocked = { ent-AirlockMaintCommandLocked }
+    .suffix = Глава персонала, Закрыт
+    .desc = { ent-AirlockMaintCommandLocked.desc }
+ent-AirlockMaintCaptainLocked = { ent-AirlockMaintCommandLocked }
+    .suffix = Капитан, Закрыт
+    .desc = { ent-AirlockMaintCommandLocked.desc }
+ent-AirlockMaintChiefEngineerLocked = { ent-AirlockMaintCommandLocked }
+    .suffix = Старший инженер, Закрыт
+    .desc = { ent-AirlockMaintCommandLocked.desc }
+ent-AirlockMaintChiefMedicalOfficerLocked = { ent-AirlockMaintCommandLocked }
+    .suffix = Главный врач, Закрыт
+    .desc = { ent-AirlockMaintCommandLocked.desc }
+ent-AirlockMaintHeadOfSecurityLocked = { ent-AirlockMaintCommandLocked }
+    .suffix = Глава службы безопасности, Закрыт
+    .desc = { ent-AirlockMaintCommandLocked.desc }
+ent-AirlockMaintResearchDirectorLocked = { ent-AirlockMaintCommandLocked }
+    .suffix = Научный руководитель, Закрыт
+    .desc = { ent-AirlockMaintCommandLocked.desc }
+ent-AirlockMaintQuartermasterLocked = { ent-AirlockMaintCommandLocked }
+    .suffix = Квартирмейстер, Закрыт
+    .desc = { ent-AirlockMaintCommandLocked.desc }
+ent-AirlockMaintArmoryLocked = { ent-AirlockMaint }
+    .suffix = Оружейная, Закрыт
+    .desc = { ent-AirlockMaint.desc }
 ent-AirlockSyndicateLocked = { ent-AirlockSyndicate }
+    .suffix = Синдикат, Закрыт
     .desc = { ent-AirlockSyndicate.desc }
-    .suffix = Syndicate, Locked
-
 ent-AirlockSyndicateNukeopLocked = { ent-AirlockSyndicate }
+    .suffix = Ядерные Оперативники, Закрыт
     .desc = { ent-AirlockSyndicate.desc }
-    .suffix = Nukeop, Locked
-
-ent-AirlockXenoborgLocked = { ent-AirlockXenoborg }
-    .desc = { ent-AirlockXenoborg.desc }
-    .suffix = Xenoborg, Locked
-
 ent-AirlockExternalShuttleLocked = { ent-AirlockShuttle }
+    .suffix = Внешний, Стыковочный, Закрыт
     .desc = { ent-AirlockShuttle.desc }
-    .suffix = External, Docking, Locked
-
 ent-AirlockExternalShuttleSyndicateLocked = { ent-AirlockShuttleSyndicate }
+    .suffix = Внешний, Стыковочный, Синдикат, Закрыт
     .desc = { ent-AirlockShuttleSyndicate.desc }
-    .suffix = External, Docking, Syndicate, Locked
-
 ent-AirlockExternalShuttleNukeopLocked = { ent-AirlockShuttleSyndicate }
+    .suffix = Внешний, Стыковочный, Ядерные Оперативники, Закрыт
     .desc = { ent-AirlockShuttleSyndicate.desc }
-    .suffix = External, Docking, Nukeop, Locked
-
-ent-AirlockGlassShuttleXenoborgLocked = { ent-AirlockShuttleXenoborg }
-    .desc = { ent-AirlockShuttleXenoborg.desc }
-    .suffix = External, Docking, Xenoborg, Locked
-
 ent-AirlockExternalGlassShuttleLocked = { ent-AirlockGlassShuttle }
+    .suffix = Внешний, Стеклянный, Стыковочный, Закрыт
     .desc = { ent-AirlockGlassShuttle.desc }
-    .suffix = External, Glass, Docking, Locked
-
 ent-AirlockExternalGlassShuttleSyndicateLocked = { ent-AirlockGlassShuttleSyndicate }
+    .suffix = Синдикат, Закрыт, Стеклянный
     .desc = { ent-AirlockGlassShuttleSyndicate.desc }
-    .suffix = Syndicate, Locked, Glass
-
 ent-AirlockExternalGlassShuttleNukeopLocked = { ent-AirlockGlassShuttleSyndicate }
+    .suffix = Ядерные Оперативники, Закрыт, Стеклянный
     .desc = { ent-AirlockGlassShuttleSyndicate.desc }
-    .suffix = Nukeop, Locked, Glass
-
 ent-AirlockExternalGlassShuttleEmergencyLocked = { ent-AirlockGlassShuttle }
+    .suffix = Внешний, Emergency, Стеклянный, Стыковочный, Закрыт
     .desc = { ent-AirlockGlassShuttle.desc }
-    .suffix = External, Emergency, Glass, Docking, Locked
-
 ent-AirlockExternalGlassShuttleArrivals = { ent-AirlockGlassShuttle }
+    .suffix = Внешний, Прибытие, Стеклянный, Стыковочный
     .desc = { ent-AirlockGlassShuttle.desc }
-    .suffix = External, Arrivals, Glass, Docking
-
 ent-AirlockExternalGlassShuttleEscape = { ent-AirlockGlassShuttle }
+    .suffix = Внешний, Отбытие 3x4, Стеклянный, Стыковочный
     .desc = { ent-AirlockGlassShuttle.desc }
-    .suffix = External, Escape 3x4, Glass, Docking
-
 ent-HighSecCentralCommandLocked = { ent-HighSecDoor }
+    .suffix = ЦК, Закрыт
     .desc = { ent-HighSecDoor.desc }
-    .suffix = Central Command, Locked
-
 ent-HighSecCommandLocked = { ent-HighSecDoor }
+    .suffix = Командование, Закрыт
     .desc = { ent-HighSecDoor.desc }
-    .suffix = Command, Locked
-
 ent-HighSecCaptainLocked = { ent-HighSecDoor }
+    .suffix = Капитан, Закрыт
     .desc = { ent-HighSecDoor.desc }
-    .suffix = Captain, Locked
-
 ent-HighSecArmoryLocked = { ent-HighSecDoor }
+    .suffix = Оружейная, Закрыт
     .desc = { ent-HighSecDoor.desc }
-    .suffix = Armory, Locked
-
-ent-AirlockHatchSyndicateLocked = { ent-AirlockHatchSyndicate }
-    .desc = { ent-AirlockHatchSyndicate.desc }
-    .suffix = Syndicate, Locked
-
-ent-AirlockHatchMaintenanceLocked = { ent-AirlockHatchMaintenance }
-    .desc = { ent-AirlockHatchMaintenance.desc }
-    .suffix = Locked
+ent-AirlockHatchSyndicate = { ent-AirlockHatch }
+    .suffix = Синдикат, Закрыт
+    .desc = { ent-AirlockHatch.desc }

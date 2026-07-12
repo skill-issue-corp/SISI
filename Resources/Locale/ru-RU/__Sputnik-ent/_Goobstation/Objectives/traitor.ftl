@@ -1,23 +1,18 @@
+ent-PermaKillRandomTraitorObjective = { ent-BaseTraitorObjective }
+    .desc = Убей их любым способом, лишь бы они больше не дышали.
 ent-PermaKillRandomPersonObjective = { ent-BaseTraitorObjective }
-    .desc = Do it however you like, as long as they're not breathing anymore.
-
+    .desc = Убей их любым способом, лишь бы они больше не дышали.
 ent-RandomTraitorTargetAliveObjective = { ent-BaseTraitorSocialObjective }
-    .desc = Rival agents intend to assassinate this target. Identify yourself at your own risk.
-
+    .desc = Враждебные агенты собираются ликвидировать эту цель. Опознайся на свой страх и риск.
 ent-StealSupermatterSliverObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
 ent-LawbringerStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
 ent-JusticeStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
 ent-CMORapidSyringeGunStealObjective = { ent-BaseCMOStealObjective }
     .desc = { ent-BaseCMOStealObjective.desc }
-
 ent-ExecutiveBriefcaseStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
 ent-GeminiProjectorStealObjective = { ent-BaseRDStealObjective }
     .desc = { ent-BaseRDStealObjective.desc }

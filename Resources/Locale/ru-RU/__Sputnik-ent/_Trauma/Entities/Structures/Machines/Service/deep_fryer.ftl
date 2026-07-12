@@ -1,2 +1,2 @@
-ent-KitchenDeepFryer = deep fryer
-    .desc = You can deep fry anything! I really mean ANYTHING.
+ent-KitchenDeepFryer = фритюрница
+    .desc = Вы можете зажарить во фритюре что угодно! Я серьёзно — ЧТО УГОДНО.

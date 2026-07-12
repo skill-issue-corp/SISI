@@ -1,8 +1,6 @@
-ent-SkillChipQuartermaster = skill chip (QM)
+ent-SkillChipQuartermaster = чип навыков (КМ)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipCargoTechnician = skill chip (cargo)
+ent-SkillChipCargoTechnician = чип навыков (снабжение)
     .desc = { ent-BaseSkillChip.desc }
-
-ent-SkillChipSalvageSpecialist = skill chip (salvage)
+ent-SkillChipSalvageSpecialist = чип навыков (утилизация)
     .desc = { ent-BaseSkillChip.desc }

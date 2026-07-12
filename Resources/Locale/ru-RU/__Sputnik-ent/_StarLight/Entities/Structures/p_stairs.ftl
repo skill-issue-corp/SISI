@@ -1,135 +1,100 @@
-ent-RMCStairs = stairs
-    .desc = The greatest invention since rocket-propelled grenades.
-
+ent-RMCStairs = лестница
+    .desc = Величайшее изобретение со времён реактивных гранат.
 ent-RMCStairsCorner = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Corner
-
+    .suffix = Угловая
 ent-RMCStairsLeft = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Left
-
+    .suffix = Левая
 ent-RMCStairsRight = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Right
-
+    .suffix = Правая
 ent-RMCStairsSolo = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Solo
-
+    .suffix = Одиночная
 ent-RMCStairsKutjevo = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-
 ent-RMCStairsKutjevoCorner = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Corner
-
+    .suffix = Угловая
 ent-RMCStairsKutjevoLeft = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Left
-
+    .suffix = Левая
 ent-RMCStairsKutjevoRight = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Right
-
+    .suffix = Правая
 ent-RMCStairsKutjevoSolo = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Solo
-
+    .suffix = Одиночная
 ent-RMCStairsIce = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-
 ent-RMCStairsIceCorner = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Corner
-
+    .suffix = Угловая
 ent-RMCStairsIceLeft = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Left
-
+    .suffix = Левая
 ent-RMCStairsIceRight = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Right
-
+    .suffix = Правая
 ent-RMCStairsIceSolo = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Solo
-
+    .suffix = Одиночная
 ent-RMCStairsDark = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-
 ent-RMCStairsDarkCorner = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Corner
-
+    .suffix = Угловая
 ent-RMCStairsDarkLeft = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Left
-
+    .suffix = Левая
 ent-RMCStairsDarkRight = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Right
-
+    .suffix = Правая
 ent-RMCStairsDarkSolo = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Solo
-
+    .suffix = Одиночная
 ent-RMCStairsRed = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-
 ent-RMCStairsRedCorner = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Corner
-
+    .suffix = Угловая
 ent-RMCStairsRedLeft = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Left
-
+    .suffix = Левая
 ent-RMCStairsRedRight = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Right
-
+    .suffix = Правая
 ent-RMCStairsRedSolo = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Solo
-
+    .suffix = Одиночная
 ent-RMCStairsWhite = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-
 ent-RMCStairsWhiteCorner = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Corner
-
+    .suffix = Угловая
 ent-RMCStairsWhiteLeft = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Left
-
+    .suffix = Левая
 ent-RMCStairsWhiteRight = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Right
-
+    .suffix = Правая
 ent-RMCStairsWhiteSolo = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-    .suffix = Solo
-
+    .suffix = Одиночная
 ent-RMCStairsWoodBase = { ent-RMCStairs }
     .desc = { ent-RMCStairs.desc }
-
 ent-RMCStairsWood = { ent-RMCStairsWoodBase }
     .desc = { ent-RMCStairsWoodBase.desc }
-
 ent-RMCStairsWoodCorner = { ent-RMCStairsWoodBase }
     .desc = { ent-RMCStairsWoodBase.desc }
-    .suffix = Corner
-
+    .suffix = Угловая
 ent-RMCStairsWoodLeft = { ent-RMCStairsWoodBase }
     .desc = { ent-RMCStairsWoodBase.desc }
-    .suffix = Left
-
+    .suffix = Левая
 ent-RMCStairsWoodRight = { ent-RMCStairsWoodBase }
     .desc = { ent-RMCStairsWoodBase.desc }
-    .suffix = Right
-
+    .suffix = Правая
 ent-RMCStairsWoodSolo = { ent-RMCStairsWoodBase }
     .desc = { ent-RMCStairsWoodBase.desc }
-    .suffix = Solo
+    .suffix = Одиночная

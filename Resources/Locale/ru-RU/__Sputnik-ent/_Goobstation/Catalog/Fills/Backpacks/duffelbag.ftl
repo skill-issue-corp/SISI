@@ -1,20 +1,22 @@
-ent-ClothingBackpackDuffelSyndicateMedicHardsuitBundle = syndicate medic hardsuit bundle
-    .desc = A surplus combat medic hardsuit, bundled for your LARP.
-
-ent-ClothingBackpackDuffelSyndicateStealthHardsuitBundle = cybersun stealthsuit bundle
-    .desc = An advanced cybersun stealth hardsuit bundle.
-
-ent-ClothingBackpackDuffelSyndicateBurner = Burner Bundle
-    .desc = A high caliber Burner rifle, comes with some anti materiel and high explosive ammunition.
-
-ent-ClothingBackpackDuffelSyndicateM90Bundle = M-90 bundle
-    .desc = A bundle carrying the syndicate's M-90 assault rifle, packed with 2 spare magazines.
-
-ent-ClothingBackpackDuffelSyndicateFilledWhimsy = syndicate joy & whimsy bundle
-    .desc = A bundle containing everything a syndicate needs to have a jolly good time.
-
-ent-ClothingBackpackDuffelSyndicateFilledCandy = candy bundle
-    .desc = A bundle packed to the brim with candy. Someone's got a sweet tooth!
-
-ent-ClothingBackpackDuffelSyndicateFilledHE1SG8 = HE1S-G8 bundle
-    .desc = This bundle holds the HE1S-G8 rifle paired with 19 cartridges for some extra funny.
+ent-ClothingBackpackDuffelSyndicateMedicHardsuitBundle = комплект скафандра медика Синдиката
+    .desc = Скафандр боевого медика из излишков, упакован для вашего ЛАРПа.
+ent-ClothingBackpackDuffelSyndicateStealthHardsuitBundle = комплект скрытного скафандра Cybersun
+    .desc = Продвинутый скрытный скафандр Cybersun, собранный в комплект.
+ent-ClothingBackpackDuffelSyndicateBurner = комплект "Горелка"
+    .desc = Винтовка "Горелка" крупного калибра, с боекомплектом из бронебойных и фугасных патронов.
+ent-ClothingBackpackDuffelSyndicateM90Bundle = комплект M-90
+    .desc = Комплект с штурмовой винтовкой M-90 от Синдиката и двумя запасными магазинами.
+ent-ClothingBackpackDuffelSyndicateFilledWSPR = комплект WSPR
+    .desc = Комплект с штурмовой винтовкой WSPR от Синдиката и двумя запасными магазинами.
+ent-ClothingBackpackDuffelSyndicateFilledWhimsy = комплект радости и веселья Синдиката
+    .desc = Набор всего, что нужно агенту Синдиката для весёлого времяпрепровождения.
+ent-ClothingBackpackDuffelSyndicateFilledCandy = комплект с конфетами
+    .desc = Набитый до отказа конфетами комплект. Кто-то явно сладкоежка!
+ent-ClothingBackpackDuffelSyndicateFilledHE1SG8 = комплект HE1S-G8
+    .desc = Этот комплект содержит винтовку HE1S-G8 и 19 патронов для настоящего веселья.
+ent-ClothingBackpackDuffelContractorHardsuitBundle = комплект скафандра Наёмника
+    .desc = Этот комплект содержит скафандр, созданный специально для членов Гильдии.
+ent-ClothingBackpackDuffelHosFilledUtility = комплект утилитарных предметов Начальника службы безопасности
+    .desc = Комплект с различными утилитарными предметами начальника службы безопасности.
+ent-ClothingBackpackDuffelTennisGame = набор для тенниса
+    .desc = Содержит всё необходимое для начала теннисного матча!

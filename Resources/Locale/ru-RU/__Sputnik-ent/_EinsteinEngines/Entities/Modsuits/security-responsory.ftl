@@ -1,21 +1,13 @@
-ent-BaseModsuitPieceERTSecurity = { "" }
-    .desc = { "" }
-
-ent-ClothingModsuitResponsorySecurity = Security Responsory modsuit control unit
-    .desc = The main controller for a Security Responsory modsuit.
-
-ent-ClothingModsuitGauntletsResponsorySecurity = Security Responsory modsuit gauntlets
-    .desc = A pair of gauntlets made for the Security Responsory modsuit.
-
-ent-ClothingModsuitHelmetResponsorySecurity = Security Responsory modsuit helmet
-    .desc = A state-of-the-art helmet designed by NanoTrasen for the Security Responsory modsuit. It includes a built-in HUD.
-
-ent-ClothingModsuitChestplateResponsorySecurity = Security Responsory modsuit chestplate
-    .desc = A state of the art chestplate designed by NanoTrasen for the Security Responsory modsuit. It incorporates powered servos to reduce the equipment load.
-
-ent-ClothingModsuitBootsResponsorySecurity = Security Responsory modsuit boots
-    .desc = A state-of-the-art pair of magboots for the Security Responsory modsuit.
-
+ent-ClothingModsuitResponsorySecurity = контроллер скафандра офицера ОБР
+    .desc = Основной контроллер скафандра офицера ОБР.
+ent-ClothingModsuitGauntletsResponsorySecurity = перчатки скафандра офицера ОБР
+    .desc = Пара перчаток, изготовленных для скафандра офицера ОБР.
+ent-ClothingModsuitHelmetResponsorySecurity = шлем скафандра офицера ОБР
+    .desc = Передовой шлем, разработанный Nanotrasen для скафандра офицера ОБР. Имеет встроенный ИЛС.
+ent-ClothingModsuitChestplateResponsorySecurity = нагрудная пластина скафандра офицера ОБР
+    .desc = Передовой нагрудник, разработанный Nanotrasen для скафандра офицера ОБР. Оснащён сервоприводами для снижения нагрузки.
+ent-ClothingModsuitBootsResponsorySecurity = ботинки скафандра офицера ОБР
+    .desc = Передовая пара магнитных ботинок для скафандра офицера ОБР.
 ent-SuitStorageResponsorySecurity = { ent-SuitStorageBase }
+    .suffix = модульный скафандр офицера ОБР
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Security Responsory Modsuit
