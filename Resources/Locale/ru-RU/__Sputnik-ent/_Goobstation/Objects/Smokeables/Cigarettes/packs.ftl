@@ -1,4 +1,0 @@
-# SIS-Start
-# ent-CigPackMedical = ChemLab menthols pack
-#     .desc = Nanotrasen decided to let Chemistry make their own soaked cigarettes for export, and this is the result. The menthol is there to hide the noxious chemicals!
-# SIS-End
