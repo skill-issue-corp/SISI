@@ -1,4 +1,4 @@
-ent-BaseLatheNoSilo = lathe
+ent-BaseLatheNoSilo = станок
     .desc = { ent-BaseMachinePowered.desc }
 
 ent-BaseLatheLube = { ent-BaseLathe }
@@ -10,53 +10,53 @@ ent-SolutionLatheLube = { ent-SolutionLube }
 ent-BaseHyperlathe = { "" }
     .desc = { "" }
 
-ent-Autolathe = autolathe
-    .desc = It produces basic items using metal and glass. Has the ability to process blueprints to print new recipes.
+ent-Autolathe = автостанок
+    .desc = Производит базовые предметы, используя металл и стекло. Способен обрабатывать чертежи для печати новых рецептов.
 
-ent-AutolatheHyperConvection = hyper convection autolathe
-    .desc = A highly-experimental autolathe that harnesses the power of extreme heat to slowly create objects more cost-effectively.
+ent-AutolatheHyperConvection = автостанок гиперконвекции
+    .desc = Крайне экспериментальный автостанок, использующий силу экстремального тепла для медленного создания объектов с большей экономичностью.
 
-ent-Protolathe = protolathe
-    .desc = Converts raw materials into advanced items.
+ent-Protolathe = протостанок
+    .desc = Преобразует сырье в продвинутые предметы.
 
-ent-ProtolatheHyperConvection = hyper convection protolathe
-    .desc = A highly-experimental protolathe that harnesses the power of extreme heat to slowly create objects more cost-effectively.
+ent-ProtolatheHyperConvection = протостанок гиперконвекции
+    .desc = Крайне экспериментальный протостанок, использующий силу экстремального тепла для медленного создания объектов с большей экономичностью.
 
-ent-CircuitImprinter = circuit imprinter
-    .desc = Prints circuit boards for machines.
+ent-CircuitImprinter = принтер плат
+    .desc = Печатает электронные платы для машин.
 
-ent-CircuitImprinterHyperConvection = hyper convection circuit imprinter
-    .desc = A highly-experimental circuit imprinter that harnesses the power of extreme heat to slowly create objects more cost-effectively.
+ent-CircuitImprinterHyperConvection = принтер плат гиперконвекции
+    .desc = Крайне экспериментальный принтер плат, использующий силу экстремального тепла для медленного создания объектов с большей экономичностью.
 
-ent-ExosuitFabricator = exosuit fabricator
-    .desc = Creates parts for robotics and other mechanical needs.
+ent-ExosuitFabricator = фабрикатор экзоскелетов
+    .desc = Создает детали для роботов и других механических нужд.
 
-ent-Biofabricator = biocube fabricator
-    .desc = Produces animal cubes using biomass.
+ent-Biofabricator = фабрикатор биокубов
+    .desc = Производит кубы животных, используя биомассу.
 
-ent-SecurityTechFab = security techfab
-    .desc = Prints equipment and circuitboards for use by security crew.
+ent-SecurityTechFab = техфаб службы безопасности
+    .desc = Печатает оборудование и платы для использования персоналом службы безопасности.
 
-ent-AmmoTechFab = ammo techfab
-    .desc = Prints the bare minimum of bullets that any budget military or armory could need. Nothing fancy.
+ent-AmmoTechFab = техфаб боеприпасов
+    .desc = Печатает самый минимум патронов, которые могут понадобиться любой армии или оружейной с ограниченным бюджетом. Ничего особенного.
 
-ent-MedicalTechFab = medical techfab
-    .desc = Prints equipment and circuitboards for use by the medbay.
+ent-MedicalTechFab = медицинский техфаб
+    .desc = Печатает оборудование и платы для использования медотсеком.
 
-ent-UniformPrinter = uniform printer
-    .desc = Prints new or replacement uniforms.
+ent-UniformPrinter = принтер униформы
+    .desc = Печатает новую или заменяющую униформу.
 
-ent-Biogenerator = biogenerator
-    .desc = Converts plants into biomass, which can be used to construct useful items.
+ent-Biogenerator = биогенератор
+    .desc = Преобразует растения в биомассу, которая может быть использована для изготовления полезных предметов.
 
-ent-OreProcessor = ore processor
-    .desc = It produces sheets and ingots using ores.
+ent-OreProcessor = обработчик руды
+    .desc = Производит листы и слитки, используя руду.
 
-ent-OreProcessorIndustrial = industrial ore processor
-    .desc = An ore processor specifically designed for mass-producing metals in industrial applications.
+ent-OreProcessorIndustrial = промышленный обработчик руды
+    .desc = Обработчик руды, специально разработанный для массового производства металлов в промышленных масштабах.
 
-ent-Sheetifier = sheet-meister 2000
-    .desc = A very sheety machine.
+ent-Sheetifier = "лист-мейстер 2000"
+    .desc = Очень "листовая" машина.
 
-ent-CutterMachine = cutter machine
-    .desc = This is a cutter. It cuts. Add variety to your station floor with eye-pleasing patterns! Don't stick your fingers in.
+ent-CutterMachine = станок для резки
+    .desc = Это резак. Он режет. Добавьте разнообразия полу вашей станции с помощью приятных для глаз узоров! Не суйте туда пальцы.

@@ -1,23 +1,23 @@
-ent-MobHumanGreyTide = The Greytide
+ent-MobHumanGreyTide = Грейтайдер
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanTunnelClown = Tunnel clown
+ent-MobHumanTunnelClown = Тоннельный клоун
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanSingulothKnight = Singuloth Knight
+ent-MobHumanSingulothKnight = Рыцарь Синглота
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanDarkLord = The Dark Lord
+ent-MobHumanDarkLord = Тёмный лорд
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanChosenOne = The chosen one
+ent-MobHumanChosenOne = Избранный
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanMimeAssassin = Mime assassin
+ent-MobHumanMimeAssassin = Мим-убийца
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanDarkPriest = Dark Priest
+ent-MobHumanDarkPriest = Тёмный жрец
     .desc = { ent-MobHuman.desc }
 
-ent-MobVoxRaider = Vox Raider
+ent-MobVoxRaider = Вокс-налётчик
     .desc = { ent-MobVox.desc }

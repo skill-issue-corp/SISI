@@ -1,46 +1,46 @@
 ent-BaseWeaponLauncher = BaseWeaponLauncher
-    .desc = A rooty tooty point and shooty.
+    .desc = Направил, нажал, выстрелил.
 
-ent-WeaponLauncherChinaLake = china lake
-    .desc = PLOOP.
+ent-WeaponLauncherChinaLake = "чайна лейк"
+    .desc = ПЛООП.
 
-ent-WeaponLauncherHydra = hydra
-    .desc = PLOOP... FSSSSSS...
+ent-WeaponLauncherHydra = "гидра"
+    .desc = ПЛООП... ФССССС...
 
 ent-WeaponLauncherHydraLethal = { ent-WeaponLauncherHydra }
     .desc = { ent-WeaponLauncherHydra.desc }
-    .suffix = frag
+    .suffix = Фраг
 
-ent-WeaponLauncherRocket = RPG-7
-    .desc = A modified ancient rocket-propelled grenade launcher.
+ent-WeaponLauncherRocket = РПГ-7
+    .desc = Модифицированный старинный ручной противотанковый гранатомет.
 
-ent-WeaponLauncherMultipleRocket = multiple rocket launcher
-    .desc = A modified ancient rocket-propelled grenade launcher.
+ent-WeaponLauncherMultipleRocket = многозарядный ракетный гранатомет
+    .desc = Модифицированный старинный ручной противотанковый гранатомет.
 
-ent-WeaponLauncherPirateCannon = pirate cannon
-    .desc = Kaboom!
+ent-WeaponLauncherPirateCannon = пиратская пушка
+    .desc = Бабах!
 
-ent-WeaponTetherGun = tether gun
-    .desc = Manipulates gravity around objects to fling them at high velocities.
+ent-WeaponTetherGun = тросовое орудие
+    .desc = Манипулирует гравитацией вокруг объектов, чтобы запускать их с высокой скоростью.
 
-ent-WeaponForceGun = force gun
-    .desc = Manipulates gravity around objects to fling them at high velocities.
+ent-WeaponForceGun = силовое орудие
+    .desc = Манипулирует гравитацией вокруг объектов, чтобы запускать их с высокой скоростью.
 
-ent-WeaponGrapplingGun = grappling gun
+ent-WeaponGrapplingGun = крюк-кошка
     .desc = { ent-BaseItem.desc }
 
-ent-WeaponTetherGunAdmin = tether gun
-    .desc = Manipulates gravity around objects to fling them at high velocities.
-    .suffix = Admeme
+ent-WeaponTetherGunAdmin = тросовое орудие
+    .desc = Манипулирует гравитацией вокруг объектов, чтобы запускать их с высокой скоростью.
+    .suffix = Адмеме
 
-ent-WeaponForceGunAdmin = force gun
-    .desc = Manipulates gravity around objects to fling them at high velocities.
-    .suffix = Admeme
+ent-WeaponForceGunAdmin = силовое орудие
+    .desc = Манипулирует гравитацией вокруг объектов, чтобы запускать их с высокой скоростью.
+    .suffix = Адмеме
 
-ent-WeaponLauncherAdmemeMeteorLarge = meteor launcher
-    .desc = It fires large meteors.
-    .suffix = Admeme
+ent-WeaponLauncherAdmemeMeteorLarge = метеоритная пушка
+    .desc = Стреляет большими метеоритами.
+    .suffix = Адмеме
 
-ent-WeaponLauncherAdmemeImmovableRodSlow = immovable rod launcher
-    .desc = It fires slow immovable rods.
-    .suffix = Admeme
+ent-WeaponLauncherAdmemeImmovableRodSlow = пусковая установка неподвижного стержня
+    .desc = Стреляет медленными неподвижными стержнями.
+    .suffix = Адмеме

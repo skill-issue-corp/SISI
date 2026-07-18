@@ -1,123 +1,123 @@
-ent-ClothingMaskGas = gas mask
-    .desc = A face-covering mask that can be connected to an air supply.
+ent-ClothingMaskGas = противогаз
+    .desc = Маска, закрывающая лицо, которую можно подключить к источнику воздуха.
 
-ent-ClothingMaskGasSecurity = security gas mask
-    .desc = A standard issue Security gas mask.
+ent-ClothingMaskGasSecurity = противогаз службы безопасности
+    .desc = Стандартный противогаз службы безопасности.
 
-ent-ClothingMaskGasSyndicate = syndicate gas mask
-    .desc = A close-fitting tactical mask that can be connected to an air supply.
+ent-ClothingMaskGasSyndicate = противогаз синдиката
+    .desc = Плотно облегающая тактическая маска, которую можно подключить к источнику воздуха.
 
-ent-ClothingMaskGasAtmos = atmospheric gas mask
-    .desc = Improved gas mask utilized by atmospheric technicians. It's flameproof!
+ent-ClothingMaskGasAtmos = атмосферный противогаз
+    .desc = Улучшенный противогаз, используемый атмосферными техниками. Он огнеупорный!
 
-ent-ClothingMaskGasCaptain = captain's gas mask
-    .desc = Nanotrasen cut corners and repainted a spare atmospheric gas mask, but don't tell anyone.
+ent-ClothingMaskGasCaptain = противогаз капитана
+    .desc = Нанотрайзен сэкономили на всем и просто перекрасили запасной атмосферный противогаз, но никому не говорите.
 
-ent-ClothingMaskGasCentcom = CentComm gas mask
-    .desc = Oooh, gold and green. Fancy! This should help as you sit in your office.
+ent-ClothingMaskGasCentcom = противогаз ЦентКома
+    .desc = Оооо, золотой и зеленый. Шикарно! Это должно помочь вам, пока вы сидите в своем офисе.
 
-ent-ClothingMaskGasExplorer = explorer gas mask
-    .desc = A military-grade gas mask that can be connected to an air supply.
+ent-ClothingMaskGasExplorer = противогаз исследователя
+    .desc = Противогаз военного класса, который можно подключить к источнику воздуха.
 
-ent-ClothingMaskBreathMedical = medical mask
-    .desc = A close-fitting sterile mask that can be connected to an air supply.
+ent-ClothingMaskBreathMedical = медицинская маска
+    .desc = Плотно облегающая стерильная маска, которую можно подключить к источнику воздуха.
 
-ent-ClothingMaskBreathMedicalSecurity = military-style medical mask
-    .desc = A medical mask with a small layer of protection against damage and viruses, similar to the one used in the medical units of the first corporate war.
+ent-ClothingMaskBreathMedicalSecurity = медицинская маска военного образца
+    .desc = Медицинская маска с небольшим слоем защиты от повреждений и вирусов, похожая на ту, что использовалась в медицинских подразделениях во время первой корпоративной войны.
 
-ent-ClothingMaskBreath = breath mask
-    .desc = Might as well keep this on 24/7.
+ent-ClothingMaskBreath = дыхательная маска
+    .desc = С таким же успехом можно не снимать ее круглые сутки.
 
-ent-ClothingMaskClownBase = clown wig and mask
-    .desc = A true prankster's facial attire. A clown is incomplete without his wig and mask.
+ent-ClothingMaskClownBase = парик и маска клоуна
+    .desc = Наряд настоящего проказника. Клоун не может быть полным без своего парика и маски.
 
 ent-ClothingMaskClown = { ent-ClothingMaskClownBase }
-    .desc = A clown mask featuring a foldable wig; a true prankster's attire.
+    .desc = Маска клоуна со складным париком; наряд настоящего проказника.
 
-ent-ClothingMaskClownBanana = banana clown wig and mask
+ent-ClothingMaskClownBanana = банановый парик и маска клоуна
     .desc = { ent-ClothingMaskClownBase.desc }
 
-ent-ClothingMaskClownSecurity = security clown wig and mask
-    .desc = A debatably oxymoronic but protective mask and wig.
+ent-ClothingMaskClownSecurity = парик и маска клоуна из службы безопасности
+    .desc = Спорно оксюморонная, но защитная маска и парик.
 
-ent-ClothingMaskJoy = joy mask
-    .desc = Express your happiness or hide your sorrows with this laughing face with crying tears of joy cutout.
+ent-ClothingMaskJoy = маска радости
+    .desc = Выразите свое счастье или скройте свою печаль с помощью этого смеющегося лица с вырезанными слезами радости.
 
-ent-ClothingMaskMime = mime mask
-    .desc = The traditional mime's mask. It has an eerie facial posture.
+ent-ClothingMaskMime = маска мима
+    .desc = Традиционная маска мима. Имеет жуткое выражение лица.
 
-ent-ClothingMaskSterile = sterile mask
-    .desc = A sterile mask designed to help prevent the spread of diseases.
+ent-ClothingMaskSterile = стерильная маска
+    .desc = Стерильная маска, предназначенная для предотвращения распространения болезней.
 
-ent-ClothingMaskMuzzle = muzzle
-    .desc = To stop that awful noise.
+ent-ClothingMaskMuzzle = намордник
+    .desc = Чтобы прекратить этот ужасный шум.
 
-ent-ClothingMaskPlague = plague doctor mask
-    .desc = A bad omen.
+ent-ClothingMaskPlague = маска чумного доктора
+    .desc = Плохое предзнаменование.
 
-ent-ClothingMaskCluwne = cluwne face and hair
-    .desc = Cursed cluwne face and hair.
-    .suffix = Unremoveable
+ent-ClothingMaskCluwne = лицо и волосы клувни
+    .desc = Проклятые лицо и волосы клувни.
+    .suffix = Неснимаемое
 
-ent-ClothingMaskGasSwat = swat gas mask
-    .desc = A elite issue Security gas mask.
+ent-ClothingMaskGasSwat = противогаз спецназа
+    .desc = Элитный противогаз службы безопасности.
 
-ent-ClothingMaskGasMerc = mercenary gas mask
-    .desc = Slightly outdated, but reliable military-style gas mask.
+ent-ClothingMaskGasMerc = противогаз наемника
+    .desc = Слегка устаревший, но надежный противогаз военного образца.
 
-ent-ClothingMaskGasERT = ert gas mask
-    .desc = The gas mask of the elite squad of the ERT.
+ent-ClothingMaskGasERT = противогаз ОБР
+    .desc = Противогаз элитного отряда ОБР.
 
-ent-ClothingMaskGasDeathSquad = death squad gas mask
-    .desc = A unique gas mask for the NT's most elite squad.
+ent-ClothingMaskGasDeathSquad = противогаз эскадрона смерти
+    .desc = Уникальный противогаз для самого элитного отряда НТ.
 
-ent-ClothingMaskRat = rat mask
-    .desc = A mask of a rat that looks like a rat. Perhaps they will take you for a fellow rat.
+ent-ClothingMaskRat = маска крысы
+    .desc = Маска крысы, похожая на крысу. Возможно, вас примут за собрата-крысу.
 
-ent-ClothingMaskFox = fox mask
-    .desc = What does the fox say?
+ent-ClothingMaskFox = маска лисы
+    .desc = Что говорит лиса?
 
-ent-ClothingMaskBee = bee mask
-    .desc = For the queen!
+ent-ClothingMaskBee = маска пчелы
+    .desc = За королеву!
 
-ent-ClothingMaskBear = bear mask
-    .desc = I'm a cloudy, cloudy, cloudy, I'm not a bear at all.
+ent-ClothingMaskBear = маска медведя
+    .desc = Я облачко, облачко, облачко, я вовсе не медведь.
 
-ent-ClothingMaskRaven = raven mask
-    .desc = Where I am, death... or glitter.
+ent-ClothingMaskRaven = маска ворона
+    .desc = Там, где я, смерть... или блестки.
 
-ent-ClothingMaskJackal = jackal mask
-    .desc = It is better not to turn your back to the owner of the mask, it may bite.
+ent-ClothingMaskJackal = маска шакала
+    .desc = Лучше не поворачиваться спиной к владельцу этой маски, он может укусить.
 
-ent-ClothingMaskBat = bat mask
-    .desc = A bloodsucker by night, and a cute, blinded beast by day.
+ent-ClothingMaskBat = маска летучей мыши
+    .desc = Кровосос ночью и милый, слепой зверек днем.
 
-ent-ClothingMaskNeckGaiter = neck gaiter
-    .desc = Stylish neck gaiter for your neck, can protect from the cosmic wind?...
+ent-ClothingMaskNeckGaiter = шейный платок-труба
+    .desc = Стильный шейный платок-труба для вашей шеи, может защитить от космического ветра?...
 
-ent-ClothingMaskNeckGaiterRed = red neck gaiter
+ent-ClothingMaskNeckGaiterRed = красный шейный платок-труба
     .desc = { ent-ClothingMaskNeckGaiter.desc }
 
-ent-ClothingMaskSexyClown = sexy clown mask
-    .desc = Some naughty clowns think this is what the Honkmother looks like.
+ent-ClothingMaskSexyClown = маска сексуального клоуна
+    .desc = Некоторые непослушные клоуны считают, что именно так выглядит Хонкмать.
 
-ent-ClothingMaskSexyMime = sexy mime mask
-    .desc = Those ruddy cheeks just want to be rubbed.
+ent-ClothingMaskSexyMime = маска сексуального мима
+    .desc = Эти румяные щечки так и хочется потрепать.
 
-ent-ClothingMaskSadMime = sad mime mask
-    .desc = Many people think this is what a real mime mask looks like.
+ent-ClothingMaskSadMime = маска грустного мима
+    .desc = Многие думают, что настоящая маска мима выглядит именно так.
 
-ent-ClothingMaskScaredMime = scared mime mask
-    .desc = Looks like it would scream if it wasn't a mask.
+ent-ClothingMaskScaredMime = маска испуганного мима
+    .desc = Похоже, она бы закричала, если бы не была маской.
 
-ent-ClothingMaskMimeSecurity = security mime mask
-    .desc = You have the right to remain silent.
+ent-ClothingMaskMimeSecurity = маска мима из службы безопасности
+    .desc = Вы имеете право хранить молчание.
 
-ent-ClothingMaskItalianMoustache = italian moustache
-    .desc = Made from authentic Italian moustache hairs. Gives the wearer an irresistable urge to gesticulate wildly.
+ent-ClothingMaskItalianMoustache = итальянские усы
+    .desc = Изготовлены из настоящих итальянских усов. Дают владельцу непреодолимое желание бурно жестикулировать.
 
-ent-ClothingMaskNinja = ninja mask
-    .desc = A close-fitting nano-enhanced mask that acts both as an air filter and a post-modern fashion statement.
+ent-ClothingMaskNinja = маска ниндзя
+    .desc = Плотно облегающая нано-улучшенная маска, служащая одновременно воздушным фильтром и постмодернистским модным заявлением.
 
-ent-ClothingMaskWeldingGas = welding gas mask
-    .desc = A gas mask with built in welding goggles and face shield. Looks like a skull, clearly designed by a nerd.
+ent-ClothingMaskWeldingGas = сварочный противогаз
+    .desc = Противогаз со встроенными сварочными очками и щитком для лица. Выглядит как череп, явно разработан ботаником.

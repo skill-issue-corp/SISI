@@ -1,5 +1,5 @@
-ent-BaseBola = bola
-    .desc = Linked together with some spare cuffs and metal.
+ent-BaseBola = бола
+    .desc = Связана из запасных наручников и металла.
 
-ent-Bola = bola
+ent-Bola = бола
     .desc = { ent-BaseBola.desc }

@@ -1,11 +1,11 @@
-ent-BaseBorgModule = borg module
-    .desc = A piece of tech that gives cyborgs new abilities.
+ent-BaseBorgModule = модуль борга
+    .desc = Технологический компонент, дающий киборгу новые способности.
 
 ent-BaseProviderBorgModule = { "" }
     .desc = { "" }
 
-ent-ActionBorgSwapModule = Swap Module
-    .desc = Select this module, enabling you to use the tools it provides.
+ent-ActionBorgSwapModule = Сменить модуль
+    .desc = Выбрать этот модуль, позволяя использовать предоставляемые им инструменты.
 
 ent-BaseBorgModuleCargo = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
@@ -46,167 +46,167 @@ ent-BaseXenoborgModuleScout = { ent-BaseBorgModule }
 ent-BaseXenoborgModuleStealth = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
 
-ent-BorgModulePrying = prying module
-    .desc = A universal cyborg module which allows the unit to pry open doors.
+ent-BorgModulePrying = модуль вскрытия
+    .desc = Универсальный модуль киборга, позволяющий вскрывать двери.
 
-ent-BorgModuleCable = cable cyborg module
-    .desc = A universal cyborg module which allows the unit to install and manipulate electrical systems.
+ent-BorgModuleCable = кабельный модуль киборга
+    .desc = Универсальный модуль киборга, позволяющий устанавливать и обслуживать электрические системы.
 
-ent-BorgModuleArtistry = artistry cyborg module
-    .desc = A module for arts & crafts whilst the station burns!
+ent-BorgModuleArtistry = модуль искусства киборга
+    .desc = Модуль для творчества и рукоделия, пока станция горит!
 
-ent-BorgModuleFireExtinguisher = thruster cyborg module
-    .desc = NT assigned a team to design a jetpack for cyborg units, but they ran out of funding and just made a bigger fire extinguisher. It comes with a integrated GPS and mass scanner though!
+ent-BorgModuleFireExtinguisher = реактивный модуль киборга
+    .desc = НТ поручила команде разработать реактивный ранец для юнитов-киборгов, но у них закончилось финансирование, и они просто сделали огнетушитель побольше. Впрочем, он оснащён встроенным GPS и сканером массы!
 
-ent-BorgModuleTool = tool cyborg module
+ent-BorgModuleTool = инструментальный модуль киборга
     .desc = { ent-BaseBorgModule.desc }
 
-ent-BorgModuleInflatable = inflatable cyborg module
+ent-BorgModuleInflatable = надувной модуль киборга
     .desc = { ent-BaseBorgModule.desc }
 
-ent-BorgModuleAppraisal = appraisal cyborg module
+ent-BorgModuleAppraisal = оценочный модуль киборга
     .desc = { ent-BaseBorgModuleCargo.desc }
 
-ent-BorgModuleMining = mining cyborg module
+ent-BorgModuleMining = горнодобывающий модуль киборга
     .desc = { ent-BaseBorgModuleCargo.desc }
 
-ent-BorgModuleAdvancedMining = advanced mining cyborg module
-    .desc = Advanced cargo module containing advanced mining equipment. Studies show it advances productivity of a cyborg by 150%.
+ent-BorgModuleAdvancedMining = продвинутый горнодобывающий модуль киборга
+    .desc = Продвинутый грузовой модуль с продвинутым горнодобывающим оборудованием. Исследования показывают, что он повышает продуктивность киборга на 150%.
 
-ent-BorgModuleTraversal = traversal cyborg module
+ent-BorgModuleTraversal = модуль перемещения киборга
     .desc = { ent-BaseBorgModuleCargo.desc }
 
-ent-BorgModuleAdvancedTool = advanced tool cyborg module
-    .desc = Advanced engineering module containing cutting-edge tools.
+ent-BorgModuleAdvancedTool = продвинутый инструментальный модуль киборга
+    .desc = Продвинутый инженерный модуль с новейшими инструментами.
 
 ent-BorgModuleConstructionMaterialPlaceholder = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-BorgModuleConstruction = construction cyborg module
+ent-BorgModuleConstruction = строительный модуль киборга
     .desc = { ent-BaseBorgModuleEngineering.desc }
 
-ent-BorgModuleRCD = engineering cyborg module
+ent-BorgModuleRCD = инженерный модуль киборга
     .desc = { ent-BaseBorgModuleEngineering.desc }
 
-ent-BorgModuleCustodial = custodial cyborg module
+ent-BorgModuleCustodial = уборочный модуль киборга
     .desc = { ent-BaseBorgModuleJanitor.desc }
 
-ent-BorgModuleCleaning = cleaning cyborg module
+ent-BorgModuleCleaning = чистящий модуль киборга
     .desc = { ent-BaseBorgModuleJanitor.desc }
 
-ent-BorgModuleAdvancedCleaning = advanced cleaning cyborg module
-    .desc = Advanced janitorial module containing, well... advanced janitor equipment. What were you expecting?
+ent-BorgModuleAdvancedCleaning = продвинутый чистящий модуль киборга
+    .desc = Продвинутый уборочный модуль с... продвинутым уборочным оборудованием. А чего вы ожидали?
 
-ent-BorgModuleDiagnosis = diagnosis cyborg module
+ent-BorgModuleDiagnosis = диагностический модуль киборга
     .desc = { ent-BaseBorgModuleMedical.desc }
 
-ent-BorgModuleTopicals = first aid cyborg module
+ent-BorgModuleTopicals = модуль первой помощи киборга
     .desc = { ent-BaseBorgModuleMedical.desc }
 
-ent-BorgModuleRescue = rescue cyborg module
+ent-BorgModuleRescue = спасательный модуль киборга
     .desc = { ent-BaseBorgModuleMedical.desc }
 
-ent-BorgModuleChemical = chemical cyborg module
+ent-BorgModuleChemical = химический модуль киборга
     .desc = { ent-BaseBorgModuleMedical.desc }
 
-ent-BorgModuleAdvancedTopical = advanced first aid cyborg module
-    .desc = Advanced medical module containing the cyborg adaptation of the highly coveted hypospray. Now your cyborgs can inject crew-harmers with chloral hydrate even faster!
+ent-BorgModuleAdvancedTopical = продвинутый модуль первой помощи киборга
+    .desc = Продвинутый медицинский модуль с адаптацией для киборгов столь желанного гипоспрея. Теперь ваши киборги смогут вкалывать вредителям экипажа хлоралгидрат ещё быстрее!
 
-ent-BorgModuleArtifact = artifact cyborg module
+ent-BorgModuleArtifact = артефактный модуль киборга
     .desc = { ent-BaseBorgModuleScience.desc }
 
-ent-BorgModuleAnomaly = anomaly cyborg module
+ent-BorgModuleAnomaly = аномальный модуль киборга
     .desc = { ent-BaseBorgModuleScience.desc }
 
-ent-BorgModuleService = service cyborg module
+ent-BorgModuleService = сервисный модуль киборга
     .desc = { ent-BaseBorgModuleService.desc }
 
-ent-BorgModuleMusique = musique cyborg module
+ent-BorgModuleMusique = музыкальный модуль киборга
     .desc = { ent-BaseBorgModuleService.desc }
 
-ent-BorgModuleGardening = gardening cyborg module
+ent-BorgModuleGardening = садоводческий модуль киборга
     .desc = { ent-BaseBorgModuleService.desc }
 
-ent-BorgModuleHarvesting = harvesting cyborg module
+ent-BorgModuleHarvesting = модуль сбора урожая киборга
     .desc = { ent-BaseBorgModuleService.desc }
 
-ent-BorgModuleClowning = clowning cyborg module
+ent-BorgModuleClowning = клоунский модуль киборга
     .desc = { ent-BaseBorgModuleService.desc }
 
-ent-BorgModuleAdvancedClowning = advanced clowning cyborg module
-    .desc = Advanced service module for only the silliest cyborgs! Comes with a built-in oven that bakes pies automatically over time, a holopeel projector, and a push horn.
+ent-BorgModuleAdvancedClowning = продвинутый клоунский модуль киборга
+    .desc = Продвинутый сервисный модуль только для самых нелепых киборгов! Оснащён встроенной печью, которая со временем автоматически печёт пироги, проектором холопилинга и клаксоном.
 
-ent-BorgModuleSyndicateWeapon = weapon cyborg module
+ent-BorgModuleSyndicateWeapon = оружейный модуль киборга
     .desc = { ent-BaseBorgModule.desc }
 
-ent-BorgModuleOperative = operative cyborg module
-    .desc = A module that comes with a pair of syndicate jaws of life, an Emag, an Access Breaker and a syndicate pinpointer.
+ent-BorgModuleOperative = оперативный модуль киборга
+    .desc = Модуль, оснащённый парой синдикатских гидравлических ножниц, Эмагом, взломщиком доступа и синдикатским пинпоинтером.
 
-ent-BorgModuleEsword = energy sword cyborg module
-    .desc = A weapons module that comes with an energy sword.
+ent-BorgModuleEsword = модуль киборга с энергетическим мечом
+    .desc = Оружейный модуль, оснащённый энергетическим мечом.
 
-ent-BorgModuleDoubleEsword = double energy sword cyborg module
-    .desc = A weapons module that comes with a double energy sword.
+ent-BorgModuleDoubleEsword = модуль киборга с двойным энергетическим мечом
+    .desc = Оружейный модуль, оснащённый двойным энергетическим мечом.
 
-ent-BorgModuleL6C = L6C ROW cyborg module
-    .desc = A weapons module that comes with a L6C.
+ent-BorgModuleL6C = модуль киборга с L6C ROW
+    .desc = Оружейный модуль, оснащённый L6C.
 
-ent-BorgModuleC20r = C-20r ROW cyborg module
-    .desc = A weapons module that comes with a burst-fire C-20r.
+ent-BorgModuleC20r = модуль киборга с C-20r ROW
+    .desc = Оружейный модуль, оснащённый C-20r с очередями стрельбы.
 
-ent-BorgModuleMartyr = martyr cyborg module
-    .desc = A module that comes with an explosive you probably don't want to handle yourself.
+ent-BorgModuleMartyr = модуль киборга-мученика
+    .desc = Модуль, оснащённый взрывчаткой, которую вы вряд ли захотите трогать сами.
 
-ent-MothershipModule = mothership module
-    .desc = A module that helps the mothership borg brains and install other modules.
+ent-MothershipModule = модуль материнского корабля
+    .desc = Модуль, помогающий мозгам-боргам материнского корабля устанавливать другие модули.
 
-ent-XenoborgModuleBasic = basic xenoborg module
-    .desc = Essential items for any Xenoborg.
+ent-XenoborgModuleBasic = базовый модуль ксеноборга
+    .desc = Необходимые предметы для любого ксеноборга.
 
-ent-XenoborgModuleTool = tool xenoborg module
-    .desc = Simple tools for most Xenoborgs.
+ent-XenoborgModuleTool = инструментальный модуль ксеноборга
+    .desc = Простые инструменты для большинства ксеноборгов.
 
-ent-XenoborgModuleAccessBreaker = access breaker xenoborg module
-    .desc = Module with a access breaker.
+ent-XenoborgModuleAccessBreaker = модуль ксеноборга со взломщиком доступа
+    .desc = Модуль со взломщиком доступа.
 
-ent-XenoborgModuleFireExtinguisher = fire extinguisher xenoborg module
-    .desc = Module with a self-refueling fire extinguisher.
+ent-XenoborgModuleFireExtinguisher = модуль ксеноборга с огнетушителем
+    .desc = Модуль с самозаправляющимся огнетушителем.
 
-ent-XenoborgModuleDoorControl = door control xenoborg module
-    .desc = Module that allows Xenoborgs to control airlocks.
+ent-XenoborgModuleDoorControl = модуль ксеноборга для управления дверьми
+    .desc = Модуль, позволяющий ксеноборгам управлять шлюзами.
 
-ent-XenoborgModuleTileGun = tile gun xenoborg module
-    .desc = Module with a tile gun. wait, a what?
+ent-XenoborgModuleTileGun = модуль ксеноборга с плиточной пушкой
+    .desc = Модуль с плиточной пушкой. Стоп, с чем?
 
-ent-XenoborgModuleJammer = jammer xenoborg module
-    .desc = Module with a communication jammer.
+ent-XenoborgModuleJammer = модуль ксеноборга с глушителем
+    .desc = Модуль с глушителем связи.
 
-ent-XenoborgModuleLaser = laser xenoborg module
-    .desc = Module with a laser gun.
+ent-XenoborgModuleLaser = модуль ксеноборга с лазером
+    .desc = Модуль с лазерным оружием.
 
-ent-XenoborgModuleHeavyLaser = laser cannon xenoborg module
-    .desc = Module with a laser cannon.
+ent-XenoborgModuleHeavyLaser = модуль ксеноборга с лазерной пушкой
+    .desc = Модуль с лазерной пушкой.
 
-ent-XenoborgModuleSpaceMovement = space movement xenoborg module
-    .desc = Module that helps a Xenoborg move better in space.
+ent-XenoborgModuleSpaceMovement = модуль ксеноборга для передвижения в космосе
+    .desc = Модуль, помогающий ксеноборгу лучше передвигаться в космосе.
 
-ent-XenoborgModuleJump = xenoborg jump module
-    .desc = Module that allows a xenoborg to jump forward.
+ent-XenoborgModuleJump = прыжковый модуль ксеноборга
+    .desc = Модуль, позволяющий ксеноборгу совершать прыжок вперёд.
 
-ent-XenoborgModuleSword = knife xenoborg module
-    .desc = Module with a kukri knife.
+ent-XenoborgModuleSword = модуль ксеноборга с ножом
+    .desc = Модуль с ножом кукри.
 
-ent-XenoborgModuleEnergySword = energy dagger xenoborg module
-    .desc = Module with an energy dagger.
+ent-XenoborgModuleEnergySword = модуль ксеноборга с энергетическим кинжалом
+    .desc = Модуль с энергетическим кинжалом.
 
-ent-XenoborgModuleHypo = nocturine hypo xenoborg module
-    .desc = Module with a self-refilling nocturine hypospray.
+ent-XenoborgModuleHypo = модуль ксеноборга с гипоспреем ноктурина
+    .desc = Модуль с самозаполняющимся гипоспреем ноктурина.
 
-ent-XenoborgModuleChameleonProjector = chameleon projector xenoborg module
-    .desc = Module with a chameleon projector.
+ent-XenoborgModuleChameleonProjector = модуль ксеноборга с проектором-хамелеоном
+    .desc = Модуль с проектором-хамелеоном.
 
-ent-XenoborgModuleCloakDevice = cloaking device xenoborg module
-    .desc = Module with a device that allows xenoborgs to become semi-invisible for some time.
+ent-XenoborgModuleCloakDevice = модуль ксеноборга с маскировочным устройством
+    .desc = Модуль с устройством, позволяющим ксеноборгам становиться полупрозрачными на некоторое время.
 
-ent-XenoborgModuleSuperCloakDevice = invisibility device xenoborg module
-    .desc = Module with a device that allows xenoborgs to become truly invisible for a short amount of time.
+ent-XenoborgModuleSuperCloakDevice = модуль ксеноборга с устройством невидимости
+    .desc = Модуль с устройством, позволяющим ксеноборгам становиться по-настоящему невидимыми на короткое время.

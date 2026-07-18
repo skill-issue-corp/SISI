@@ -1,107 +1,107 @@
-ent-FoodBreadBun = bun
-    .desc = A hamburger bun. Round and convenient to hold.
+ent-FoodBreadBun = булочка
+    .desc = Булочка для гамбургера. Круглая и удобная в руке.
 
-ent-FoodBreadBunBottom = bottom bun
-    .desc = It's time to start building the burger tower.
+ent-FoodBreadBunBottom = нижняя булочка
+    .desc = Пора начинать строить бургерную башню.
 
-ent-FoodBreadBunTop = top bun
-    .desc = The perfect finish for your burger tower.
+ent-FoodBreadBunTop = верхняя булочка
+    .desc = Идеальное завершение вашей бургерной башни.
 
 ent-FoodBurgerBase = { ent-FoodInjectableBase }
     .desc = { ent-FoodInjectableBase.desc }
 
-ent-FoodBurgerJelly = jelly burger
-    .desc = Culinary delight..?
+ent-FoodBurgerJelly = желейный бургер
+    .desc = Кулинарный шедевр..?
 
-ent-FoodBurgerAppendix = appendix burger
-    .desc = Tastes like appendicitis.
+ent-FoodBurgerAppendix = бургер с аппендиксом
+    .desc = На вкус как аппендицит.
 
-ent-FoodBurgerBacon = bacon burger
-    .desc = The perfect combination of all things American.
+ent-FoodBurgerBacon = бургер с беконом
+    .desc = Идеальное сочетание всего американского.
 
-ent-FoodBurgerBaseball = baseball burger
-    .desc = It's still warm. The steam coming off of it smells kinda sweaty.
+ent-FoodBurgerBaseball = бейсбольный бургер
+    .desc = Он всё ещё тёплый. Пар, идущий от него, пахнет немного потом.
 
-ent-FoodBurgerBear = bearger
-    .desc = Best served rawr.
+ent-FoodBurgerBear = медвебургер
+    .desc = Лучше всего подавать р-р-рычащим.
 
-ent-FoodBurgerBig = big bite burger
-    .desc = Forget the Big Mac. THIS is the future!
+ent-FoodBurgerBig = бургер с большим укусом
+    .desc = Забудьте про Биг Мак. ЭТО - будущее!
 
-ent-FoodBurgerBrain = brain burger
-    .desc = A strange looking burger. It looks almost sentient.
+ent-FoodBurgerBrain = мозговой бургер
+    .desc = Странно выглядящий бургер. Почти разумный на вид.
 
-ent-FoodBurgerCat = cat burger
-    .desc = Finally those cats and catpeople are worth something!
+ent-FoodBurgerCat = котобургер
+    .desc = Наконец-то от этих котов и кошколюдей есть хоть какая-то польза!
 
-ent-FoodBurgerCheese = cheese burger
-    .desc = This noble burger stands proudly clad in golden cheese.
+ent-FoodBurgerCheese = чизбургер
+    .desc = Этот благородный бургер гордо облачён в золотистый сыр.
 
-ent-FoodBurgerChicken = chicken sandwich
-    .desc = A delicious chicken sandwich, it is said the proceeds from this treat helps criminalize disarming people on the space frontier.
+ent-FoodBurgerChicken = сэндвич с курицей
+    .desc = Вкусный куриный сэндвич, говорят, доход от продажи этого лакомства помогает криминализировать разоружение людей на космическом фронтире.
 
-ent-FoodBurgerClown = clown burger
-    .desc = This tastes funny...
+ent-FoodBurgerClown = клоунский бургер
+    .desc = Забавный на вкус...
 
-ent-FoodBurgerCorgi = corger
-    .desc = The Head of Personnel's favorite!
+ent-FoodBurgerCorgi = корбургер
+    .desc = Любимое блюдо главы персонала!
 
-ent-FoodBurgerCrab = crab burger
-    .desc = A delicious patty of the crabby kind, slapped in between a bun.
+ent-FoodBurgerCrab = крабовый бургер
+    .desc = Вкусная котлета из краба, зажатая между булочками.
 
-ent-FoodBurgerCrazy = crazy hamburger
-    .desc = This looks like the sort of food that a demented clown in a trenchcoat would make.
+ent-FoodBurgerCrazy = безумный гамбургер
+    .desc = Выглядит как еда, которую приготовил бы полоумный клоун в плаще.
 
-ent-FoodBurgerDuck = duck sandwich
-    .desc = A duck sandwich, only the criminally insane would dare to eat the meat of such an adorable creature.
+ent-FoodBurgerDuck = сэндвич с уткой
+    .desc = Сэндвич с утиным мясом, есть мясо такого милого создания решится только преступно безумный человек.
 
-ent-FoodBurgerEmpowered = empowered burger
-    .desc = It's shockingly good, if you live off of electricity that is.
+ent-FoodBurgerEmpowered = заряженный бургер
+    .desc = Шокирующе вкусный, если, конечно, вы питаетесь электричеством.
 
-ent-FoodBurgerCarp = fillet-o-carp burger
-    .desc = Almost like a carp is yelling somewhere...
+ent-FoodBurgerCarp = филе-о-карп бургер
+    .desc = Как будто где-то кричит карп...
 
-ent-FoodBurgerFive = five alarm burger
-    .desc = HOT! HOT! HOT!
+ent-FoodBurgerFive = пятиалармовый бургер
+    .desc = ГОРЯЧО! ГОРЯЧО! ГОРЯЧО!
 
-ent-FoodBurgerGhost = ghost burger
-    .desc = Too spooky!
+ent-FoodBurgerGhost = призрачный бургер
+    .desc = Слишком жутко!
 
-ent-FoodBurgerHuman = human burger
-    .desc = You cant tell who this is made of...
+ent-FoodBurgerHuman = человеческий бургер
+    .desc = Не разобрать, из кого он сделан...
 
-ent-FoodBurgerMcguffin = McGuffin
-    .desc = A cheap and greasy imitation of an eggs Benedict.
+ent-FoodBurgerMcguffin = МакГаффин
+    .desc = Дешёвая и жирная имитация яиц Бенедикт.
 
-ent-FoodBurgerMcrib = BBQ Rib Sandwich
-    .desc = An elusive rib shaped burger with limited availability across the galaxy. Not as good as you remember it.
+ent-FoodBurgerMcrib = сэндвич с рёбрышками барбекю
+    .desc = Неуловимый бургер в форме рёбрышка с ограниченной доступностью по всей галактике. Не такой вкусный, как вы его помните.
 
-ent-FoodBurgerMime = mime burger
-    .desc = Its taste defies language.
+ent-FoodBurgerMime = бургер мима
+    .desc = Его вкус не поддаётся описанию словами.
 
-ent-FoodBurgerPlain = plain burger
-    .desc = A boring, dry burger.
+ent-FoodBurgerPlain = простой бургер
+    .desc = Скучный, сухой бургер.
 
-ent-FoodBurgerRat = rat burger
-    .desc = Pretty much what you'd expect...
+ent-FoodBurgerRat = крысиный бургер
+    .desc = В общем-то, всё, как вы и ожидали...
 
-ent-FoodBurgerRobot = roburger
-    .desc = The lettuce is the only organic component. Beep.
+ent-FoodBurgerRobot = робургер
+    .desc = Салат - единственный органический компонент. Бип.
 
-ent-FoodBurgerSoy = soylent burger
-    .desc = After eating this you have the overwhelming urge to purchase overpriced figurines of superheroes.
+ent-FoodBurgerSoy = соевый бургер
+    .desc = Съев это, вы ощущаете непреодолимое желание приобрести переоценённые фигурки супергероев.
 
-ent-FoodBurgerSpell = spell burger
-    .desc = This is absolutely Ei Nath.
+ent-FoodBurgerSpell = заклинательный бургер
+    .desc = Это абсолютно Эй Нат.
 
-ent-FoodBurgerSuper = super bite burger
-    .desc = This is a mountain of a burger. FOOD!
+ent-FoodBurgerSuper = супербургер с большим укусом
+    .desc = Это целая гора из бургера. ЕДА!
 
-ent-FoodBurgerTofu = tofu burger
-    .desc = What... is that meat?
+ent-FoodBurgerTofu = тофу-бургер
+    .desc = Что... это за мясо?
 
-ent-FoodBurgerXeno = xenoburger
-    .desc = Smells caustic. Tastes like heresy.
+ent-FoodBurgerXeno = ксенобургер
+    .desc = Пахнет едко. На вкус как ересь.
 
-ent-FoodBurgerMothRoach = mothroachburger
-    .desc = The last lamp it saw was the one inside the microwave.
+ent-FoodBurgerMothRoach = мотороучбургер
+    .desc = Последнее, что он видел - это лампа внутри микроволновки.

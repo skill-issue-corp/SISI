@@ -1,38 +1,38 @@
-ent-ExGrenade = explosive grenade
-    .desc = Grenade that creates a small but devastating explosion.
+ent-ExGrenade = осколочная граната
+    .desc = Граната, создающая небольшой, но разрушительный взрыв.
 
-ent-GrenadeFlashBang = flashbang
-    .desc = Eeeeeeeeeeeeeeeeeeeeee.
+ent-GrenadeFlashBang = светошумовая граната
+    .desc = Иииииииииииииииииииииии.
 
 ent-GrenadeFlashEffect = { "" }
     .desc = { "" }
 
-ent-SyndieMiniBomb = syndicate minibomb
-    .desc = A syndicate-manufactured explosive used to stow destruction and cause chaos.
+ent-SyndieMiniBomb = мини-бомба Синдиката
+    .desc = Взрывчатка производства Синдиката, применяемая для скрытного разрушения и создания хаоса.
 
-ent-SelfDestructSeq = self destruct
-    .desc = Go out on your own terms!
+ent-SelfDestructSeq = самоуничтожение
+    .desc = Уйдите на своих условиях!
 
-ent-SupermatterGrenade = supermatter grenade
-    .desc = Grenade that simulates delamination of the supermatter engine, pulling things in a heap and exploding after some time.
+ent-SupermatterGrenade = граната сверхматерии
+    .desc = Граната, имитирующая деламинацию двигателя сверхматерии, стягивающая предметы в кучу и взрывающаяся спустя некоторое время.
 
-ent-WhiteholeGrenade = whitehole grenade
-    .desc = Grenade that repulses everything around for some time.
+ent-WhiteholeGrenade = граната "белая дыра"
+    .desc = Граната, отталкивающая всё вокруг себя на некоторое время.
 
-ent-NuclearGrenade = the nuclear option
-    .desc = Please don't throw it, think of the children.
+ent-NuclearGrenade = ядерный вариант
+    .desc = Пожалуйста, не бросайте её, подумайте о детях.
 
-ent-ModularGrenade = modular grenade
-    .desc = A grenade casing. Requires a trigger and a payload.
+ent-ModularGrenade = модульная граната
+    .desc = Корпус гранаты. Требует триггер и боевую часть.
 
-ent-EmpGrenade = EMP grenade
-    .desc = A grenade designed to wreak havoc on electronic systems.
+ent-EmpGrenade = ЭМИ-граната
+    .desc = Граната, предназначенная для нанесения серьёзного ущерба электронным системам.
 
-ent-HolyHandGrenade = holy hand grenade
-    .desc = O Lord, bless this thy hand grenade, that with it thou mayst blow thine enemies to tiny bits, in thy mercy.
+ent-HolyHandGrenade = святая ручная граната
+    .desc = О Господи, благослови сию ручную гранату твою, дабы ею мог ты разнести врагов своих на мельчайшие кусочки, по милости твоей.
 
-ent-GrenadeDummy = trick grenade
-    .desc = All the grenade without any of the boom.
+ent-GrenadeDummy = граната-обманка
+    .desc = Всё как у настоящей гранаты, только без "бум".
 
-ent-SyndieTrickyBomb = syndicate trickybomb
-    .desc = A syndicate-manufactured explosive used to make an excellent distraction.
+ent-SyndieTrickyBomb = хитробомба Синдиката
+    .desc = Взрывчатка производства Синдиката, используемая для создания отличного отвлекающего манёвра.

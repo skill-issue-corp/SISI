@@ -13,85 +13,85 @@ ent-BaseWeaponBatterySmall = { ent-BaseWeaponBattery }
 ent-BaseWeaponPowerCellSmall = { ent-BaseWeaponPowerCell }
     .desc = { ent-BaseWeaponPowerCell.desc }
 
-ent-WeaponLaserSvalinn = svalinn laser pistol
-    .desc = A cheap and widely used laser pistol.
+ent-WeaponLaserSvalinn = лазерный пистолет «Свалинн»
+    .desc = Дешёвый и широко распространённый лазерный пистолет.
 
-ent-WeaponLaserGun = retro laser blaster
-    .desc = A weapon using light amplified by the stimulated emission of radiation.
+ent-WeaponLaserGun = ретро лазерный бластер
+    .desc = Оружие, использующее свет, усиленный за счёт вынужденного излучения.
 
-ent-WeaponMakeshiftLaser = makeshift laser pistol
-    .desc = Better pray it won't burn your hands off.
+ent-WeaponMakeshiftLaser = самодельный лазерный пистолет
+    .desc = Остаётся только молиться, чтобы он не спалил вам руки.
 
-ent-WeaponTeslaGun = tesla gun
-    .desc = The power of the primordial element of lightning in your hands.
+ent-WeaponTeslaGun = тесла-пушка
+    .desc = Сила первородной стихии молнии в ваших руках.
 
-ent-WeaponLaserCarbine = laser gun
-    .desc = Favoured by Nanotrasen Security for being cheap and easy to use.
+ent-WeaponLaserCarbine = лазерный пистолет
+    .desc = Излюбленное оружие службы безопасности «Нанотрейзен» за дешевизну и простоту использования.
 
-ent-WeaponLaserCarbinePractice = practice laser gun
-    .desc = This modified laser carbine fires nearly harmless beams in the 40-watt range, for target practice.
+ent-WeaponLaserCarbinePractice = учебный лазерный пистолет
+    .desc = Этот модифицированный лазерный карабин стреляет почти безвредными лучами мощностью около 40 ватт, предназначен для учебной стрельбы по мишеням.
 
-ent-WeaponPulsePistol = pulse pistol
-    .desc = A state-of-the-art pulse based weapon. It's smaller frame allows it to passively regenerate charge.
+ent-WeaponPulsePistol = импульсный пистолет
+    .desc = Передовое оружие на основе импульсной технологии. Его компактная рама позволяет пассивно восстанавливать заряд.
 
-ent-WeaponPulseCarbine = pulse carbine
-    .desc = A state-of-the-art pulse carbine, typically used by Nanotrasen militia.
+ent-WeaponPulseCarbine = импульсный карабин
+    .desc = Передовой импульсный карабин, обычно используемый ополчением «Нанотрейзен».
 
-ent-WeaponPulseRifle = pulse rifle
-    .desc = A weapon almost as infamous as its users.
+ent-WeaponPulseRifle = импульсная винтовка
+    .desc = Оружие, почти столь же печально известное, как и те, кто им пользуется.
 
-ent-WeaponLaserCannon = laser cannon
-    .desc = A heavy duty, high powered laser weapon.
+ent-WeaponLaserCannon = лазерная пушка
+    .desc = Тяжёлое, мощное лазерное оружие.
 
-ent-WeaponParticleDecelerator = portable particle decelerator
-    .desc = A portable particle decelerator capable of decomposing a tesla or singularity.
+ent-WeaponParticleDecelerator = переносной замедлитель частиц
+    .desc = Переносной замедлитель частиц, способный разложить теслу или сингулярность.
 
-ent-WeaponXrayCannon = x-ray cannon
-    .desc = An experimental weapon that uses concentrated x-ray energy against its target.
+ent-WeaponXrayCannon = рентгеновская пушка
+    .desc = Экспериментальное оружие, использующее концентрированную рентгеновскую энергию против цели.
 
-ent-WeaponDisablerPractice = practice disabler
-    .desc = A self-defense weapon that exhausts organic targets, weakening them until they collapse. This one has been undertuned for cadets making it mostly harmless.
+ent-WeaponDisablerPractice = учебный дизейблер
+    .desc = Оружие самообороны, истощающее органические цели, ослабляя их до потери сознания. Эта модель специально ослаблена для курсантов, поэтому почти безвредна.
 
-ent-WeaponDisabler = disabler
-    .desc = A self-defense weapon that exhausts organic targets, weakening them until they collapse.
+ent-WeaponDisabler = дизейблер
+    .desc = Оружие самообороны, истощающее органические цели, ослабляя их до потери сознания.
 
-ent-WeaponDisablerSMG = disabler SMG
-    .desc = Advanced weapon that exhausts organic targets, weakening them until they collapse.
+ent-WeaponDisablerSMG = дизейблер-автомат
+    .desc = Продвинутое оружие, истощающее органические цели, ослабляя их до потери сознания.
 
-ent-WeaponTaser = taser
-    .desc = A low-capacity, energy-based stun gun used by security teams to subdue targets at close range.
+ent-WeaponTaser = тазер
+    .desc = Энергетический электрошокер малой ёмкости, используемый службой безопасности для усмирения целей на близкой дистанции.
 
-ent-WeaponTaserSuper = elite taser
-    .desc = A low-capacity, energy-based stun gun used by elite security teams to disable even the toughest of targets.
+ent-WeaponTaserSuper = элитный тазер
+    .desc = Энергетический электрошокер малой ёмкости, используемый элитными подразделениями службы безопасности для обездвиживания даже самых стойких целей.
     .suffix = ADMEME
 
-ent-WeaponAntiqueLaser = antique laser pistol
-    .desc = This is an antique laser pistol. All craftsmanship is of the highest quality. It is decorated with a mahogany grip and chrome filigree. The object menaces with spikes of energy. On the item is an image of a captain and a clown. The clown is dead. The captain is striking a heroic pose.
+ent-WeaponAntiqueLaser = антикварный лазерный пистолет
+    .desc = Это антикварный лазерный пистолет. Исполнение высочайшего качества. Он украшен рукоятью из красного дерева и хромированной филигранью. Предмет угрожающе искрится энергией. На нём изображены капитан и клоун. Клоун мёртв. Капитан принимает героическую позу.
 
-ent-WeaponAdvancedLaser = advanced laser pistol
-    .desc = An experimental high-energy laser pistol with a self-charging nuclear battery.
+ent-WeaponAdvancedLaser = продвинутый лазерный пистолет
+    .desc = Экспериментальный высокоэнергетический лазерный пистолет с самозаряжающейся ядерной батареей.
 
-ent-WeaponPistolCHIMP = C.H.I.M.P. handcannon
-    .desc = Just because it's a little C.H.I.M.P. doesn't mean it can't punch like an A.P.E.
+ent-WeaponPistolCHIMP = ручная пушка «Ш.И.М.П.»
+    .desc = Пусть это всего лишь маленький Ш.И.М.П., но бьёт он не хуже гориллы.
 
 ent-WeaponPistolCHIMPUpgraded = { ent-WeaponPistolCHIMP }
     .desc = { ent-WeaponPistolCHIMP.desc }
-    .suffix = Syndicate
+    .suffix = Синдикат
 
-ent-WeaponBehonkerLaser = eye of a behonker
-    .desc = The eye of a behonker, it fires a laser when squeezed.
+ent-WeaponBehonkerLaser = глаз бехонкера
+    .desc = Глаз бехонкера, стреляет лазером при сжатии.
 
-ent-WeaponEnergyShotgun = energy shotgun
-    .desc = A one-of-a-kind prototype energy weapon that uses various shotgun configurations. It offers the possibility of both lethal and non-lethal shots, making it a versatile weapon.
+ent-WeaponEnergyShotgun = энергетический дробовик
+    .desc = Уникальный прототип энергетического оружия, использующий различные конфигурации дробовика. Позволяет вести как летальный, так и нелетальный огонь, что делает его универсальным оружием.
 
-ent-WeaponEnergyMagnum = energy magnum
-    .desc = A high powered self-charging energy pistol designed for elite security personnel. It has has three firing modes allowing for either high damage, window piercing, or non-lethal disabling.
+ent-WeaponEnergyMagnum = энергетический магнум
+    .desc = Мощный самозаряжающийся энергетический пистолет, разработанный для элитного персонала службы безопасности. Имеет три режима стрельбы, позволяющие наносить высокий урон, пробивать окна или вести нелетальный огонь на обездвиживание.
 
-ent-WeaponTemperatureGun = temperature gun
-    .desc = An advanced gun that shoots body-temperature-changing beams. Beams cannot be reflected.
+ent-WeaponTemperatureGun = термопушка
+    .desc = Продвинутое оружие, стреляющее лучами, изменяющими температуру тела. Лучи не отражаются.
 
-ent-WeaponLaserGunXenoborg = xenoborg laser gun
+ent-WeaponLaserGunXenoborg = лазерный пистолет ксеноборга
     .desc = { ent-WeaponAdvancedLaser.desc }
 
-ent-WeaponLaserCannonXenoborg = xenoborg laser cannon
+ent-WeaponLaserCannonXenoborg = лазерная пушка ксеноборга
     .desc = { ent-WeaponLaserCannon.desc }

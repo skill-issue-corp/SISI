@@ -1,35 +1,35 @@
-ent-ClothingShoesFlippers = flippers
-    .desc = A pair of rubber flippers that improves swimming ability when worn.
+ent-ClothingShoesFlippers = ласты
+    .desc = Пара резиновых ласт, улучшающих способность плавать при ношении.
 
-ent-ClothingShoesLeather = leather shoes
-    .desc = Very stylish pair of boots, made from fine leather.
+ent-ClothingShoesLeather = кожаные туфли
+    .desc = Очень стильная пара ботинок, изготовленная из качественной кожи.
 
-ent-ClothingShoesSlippers = slippers
-    .desc = Fluffy!
+ent-ClothingShoesSlippers = тапочки
+    .desc = Пушистые!
 
-ent-ClothingShoeSlippersDuck = ducky slippers
-    .desc = You wish these made quacking sounds as you walked. It's a good thing they don't, though.
+ent-ClothingShoeSlippersDuck = тапочки-уточки
+    .desc = Вам хотелось бы, чтобы они крякали при ходьбе. Впрочем, хорошо, что они этого не делают.
 
-ent-ClothingShoeSlippersLizard = lizard plushie slippers
-    .desc = An adorable pair of slippers that resemble a lizardperson. Combine this with some other green clothing and you'll be the coolest crewmember on the station!
+ent-ClothingShoeSlippersLizard = тапочки-плюшевые ящерки
+    .desc = Очаровательная пара тапочек, напоминающих ящеролюда. Сочетайте их с другой зелёной одеждой, и вы станете самым крутым членом экипажа на станции!
 
-ent-ClothingShoesTourist = tourist shoes
-    .desc = These cheap sandals don't look very comfortable.
+ent-ClothingShoesTourist = туристические сандалии
+    .desc = Эти дешёвые сандалии выглядят не очень удобными.
 
-ent-ClothingShoesDameDane = yakuza shoes
-    .desc = At last...
+ent-ClothingShoesDameDane = ботинки якудзы
+    .desc = Наконец-то...
 
-ent-ClothingShoesSnakeskinBoots = snakeskin boots
-    .desc = Boots made of once-valuable snakeskin, everyone around you would have been jealous.
+ent-ClothingShoesSnakeskinBoots = сапоги из змеиной кожи
+    .desc = Сапоги из некогда ценной змеиной кожи, все вокруг вам бы завидовали.
 
-ent-ClothingShoesBootsSpeed = speed boots
-    .desc = High-tech boots woven with quantum fibers, able to convert electricity into pure speed!
+ent-ClothingShoesBootsSpeed = скоростные ботинки
+    .desc = Высокотехнологичные ботинки, сотканные из квантовых волокон, способные превращать электричество в чистую скорость!
 
-ent-ActionToggleSpeedBoots = Toggle Speed Boots
-    .desc = Toggles the speed boots on and off.
+ent-ActionToggleSpeedBoots = Переключить скоростные ботинки
+    .desc = Включает и выключает скоростные ботинки.
 
-ent-ClothingShoesBootsMoon = moon boots
-    .desc = Special anti-gravity boots developed with a speciality blend of lunar rock gel. Shipped from the Netherlands.
+ent-ClothingShoesBootsMoon = лунные ботинки
+    .desc = Специальные антигравитационные ботинки, разработанные с использованием особой смеси лунного каменного геля. Доставлены из Нидерландов.
 
-ent-ClothingShoesBootsJump = jump boots
-    .desc = High-tech boots that give you the incredible ability to JUMP! With these boots you can jump over lava, chasms and weird chemicals on the floor!
+ent-ClothingShoesBootsJump = прыгательные ботинки
+    .desc = Высокотехнологичные ботинки, дающие вам невероятную способность ПРЫГАТЬ! С этими ботинками вы можете перепрыгивать лаву, пропасти и странные химикаты на полу!

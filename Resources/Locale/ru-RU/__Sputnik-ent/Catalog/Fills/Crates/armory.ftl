@@ -1,23 +1,23 @@
-ent-CrateArmorySMG = SMG crate
-    .desc = Contains two SMGs with four mags. Requires Armory access to open.
+ent-CrateArmorySMG = ящик с ПП
+    .desc = Содержит два пистолета-пулемёта с четырьмя магазинами. Требуется доступ к Арсеналу для открытия.
 
-ent-CrateArmoryShotgun = shotgun crate
-    .desc = For when the enemy absolutely needs to be replaced with lead. Contains two Enforcer Combat Shotguns, and some standard shotgun shells. Requires Armory access to open.
+ent-CrateArmoryShotgun = ящик с дробовиками
+    .desc = На случай, когда врага нужно заменить свинцом. Содержит два боевых дробовика «Enforcer» и несколько стандартных патронов для дробовика. Требуется доступ к Арсеналу для открытия.
 
-ent-CrateTrackingImplants = tracking implants
-    .desc = Contains a handful of tracking implanters. Good for prisoners you'd like to release but still keep track of.
+ent-CrateTrackingImplants = следящие импланты
+    .desc = Содержит несколько имплантеров слежения. Хороши для заключённых, которых вы хотели бы отпустить, но всё же держать под наблюдением.
 
-ent-CrateTrainingBombs = training bombs
-    .desc = Contains three low-yield training bombs for security to learn defusal and safe ordnance disposal, EOD suit not included. Requires Armory access to open.
+ent-CrateTrainingBombs = учебные бомбы
+    .desc = Содержит три учебные бомбы малой мощности для обучения службы безопасности разминированию и безопасной утилизации боеприпасов, костюм сапёра не включён. Требуется доступ к Арсеналу для открытия.
 
-ent-CrateArmoryLaser = lasers crate
-    .desc = Contains three standard-issue laser rifles. Requires Armory access to open.
+ent-CrateArmoryLaser = ящик с лазерами
+    .desc = Содержит три стандартные лазерные винтовки. Требуется доступ к Арсеналу для открытия.
 
-ent-CrateArmoryPistols = pistols crate
-    .desc = Contains two standard NT pistols with four mags. Requires Armory access to open.
+ent-CrateArmoryPistols = ящик с пистолетами
+    .desc = Содержит два стандартных пистолета NT с четырьмя магазинами. Требуется доступ к Арсеналу для открытия.
 
-ent-CrateSecurityRiot = swat crate
-    .desc = Contains two sets of riot armor, helmets, shields, and enforcers loaded with beanbags. Extra ammo is included. Requires Armory access to open.
+ent-CrateSecurityRiot = ящик со штурмовым снаряжением
+    .desc = Содержит два комплекта штурмовой брони, шлемов, щитов и пистолетов «Enforcer», заряженных мешочками с дробью. Дополнительные патроны включены. Требуется доступ к Арсеналу для открытия.
 
-ent-CrateArmoryRifle = rifle crate
-    .desc = Contains two high-powered assault rifles with four mags. Requires Armory access to open.
+ent-CrateArmoryRifle = ящик с винтовками
+    .desc = Содержит две мощные штурмовые винтовки с четырьмя магазинами. Требуется доступ к Арсеналу для открытия.

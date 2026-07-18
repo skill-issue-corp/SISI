@@ -1,24 +1,24 @@
-ent-CigPackBase = cigarette pack
+ent-CigPackBase = пачка сигарет
     .desc = { ent-BaseStorageItem.desc }
 
-ent-CigPackMixedBase = soaked cigarette pack
+ent-CigPackMixedBase = пачка пропитанных сигарет
     .desc = { ent-BaseStorageItem.desc }
 
-ent-CigPackGreen = Spessman's Smokes packet
-    .desc = A label on the packaging reads, Wouldn't a slow death make a change?
+ent-CigPackGreen = пачка «Курево Спессмена»
+    .desc = Надпись на упаковке гласит: «А не разнообразить ли медленную смерть?»
 
-ent-CigPackRed = DromedaryCo packet
-    .desc = The most popular brand of Space Cigarettes, sponsors of the Space Olympics.
+ent-CigPackRed = пачка DromedaryCo
+    .desc = Самый популярный бренд космических сигарет, спонсор Космических Олимпийских игр.
 
-ent-CigPackBlue = AcmeCo packet
-    .desc = For those who somehow want to obtain the record for the most amount of cancerous tumors.
+ent-CigPackBlue = пачка AcmeCo
+    .desc = Для тех, кто почему-то хочет установить рекорд по количеству раковых опухолей.
 
-ent-CigPackBlack = Nomads packet
-    .desc = Nomads's extra strong, for when your life is more extra hard.
+ent-CigPackBlack = пачка Nomads
+    .desc = Особо крепкие Nomads — для тех случаев, когда жизнь особо тяжела.
 
-ent-CigPackSyndicate = Interdyne herbals packet
-    .desc = Elite cigarettes for elite syndicate agents. Infused with medicine for when you need to do more than calm your nerves.
+ent-CigPackSyndicate = пачка гербалов Interdyne
+    .desc = Элитные сигареты для элитных агентов Синдиката. Пропитаны медикаментами на случай, если вам нужно нечто большее, чем просто успокоить нервы.
 
-ent-CigPackMixed = Dan's soaked smokes
-    .desc = Dan worked with NT chemistry to dispose of excess chemicals, ENJOY.
-    .suffix = Mixed
+ent-CigPackMixed = пропитанное курево Дэна
+    .desc = Дэн сотрудничал с химиками NT, чтобы утилизировать излишки химикатов, ПРИЯТНОГО ИСПОЛЬЗОВАНИЯ.
+    .suffix = Смешанные

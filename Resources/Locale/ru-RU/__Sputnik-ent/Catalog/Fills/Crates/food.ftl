@@ -1,29 +1,29 @@
-ent-CrateFoodPizza = emergency pizza delivery
-    .desc = Help do your part to end station hunger by distributing pizza to underfunded departments! Includes 4 pizzas.
+ent-CrateFoodPizza = экстренная доставка пиццы
+    .desc = Помогите положить конец голоду на станции, раздав пиццу малобюджетным отделам! Включает 4 пиццы.
 
-ent-CrateFoodMRE = MRE crate
-    .desc = A military style meal fit to feed a whole department.
+ent-CrateFoodMRE = ящик с сухпайками
+    .desc = Пайки в военном стиле, которых хватит, чтобы накормить целый отдел.
 
-ent-CrateFoodCooking = kitchen supplies crate
-    .desc = Extra kitchen supplies, in case the botanists are absent.
+ent-CrateFoodCooking = ящик с кухонными принадлежностями
+    .desc = Дополнительные кухонные принадлежности на случай отсутствия ботаников.
 
-ent-CrateFoodDinnerware = kitchen dinnerware crate
-    .desc = Extra kitchen supplies, in case the clown was allowed in the cafeteria unsupervised.
+ent-CrateFoodDinnerware = ящик с кухонной посудой
+    .desc = Дополнительная кухонная утварь на случай, если клоуна пустили в столовую без присмотра.
 
-ent-CrateFoodBarSupply = bartending supplies crate
-    .desc = Extra Bar supplies, in case the clown was allowed in the bar unsupervised.
+ent-CrateFoodBarSupply = ящик с барными принадлежностями
+    .desc = Дополнительные барные принадлежности на случай, если клоуна пустили в бар без присмотра.
 
-ent-CrateFoodSoftdrinks = softdrinks crate
-    .desc = A variety of sodas to complement a small party, without having to empty the soda machines. Includes 14 sodas.
+ent-CrateFoodSoftdrinks = ящик с газировкой
+    .desc = Разнообразие газировки для небольшой вечеринки, позволяющее не опустошать автоматы с напитками. Включает 14 банок газировки.
 
-ent-CrateFoodGetMore = Getmore Bakemore crate
-    .desc = Getmore branded snacks and baking supplies for the creative chef, all without the need of emptying your station's Getmore machines!
+ent-CrateFoodGetMore = ящик Getmore Bakemore
+    .desc = Фирменные снеки и выпечка от Getmore для творческого шеф-повара — и всё это без необходимости опустошать станционные автоматы Getmore!
 
-ent-CrateFoodIceCream = ice cream delivery
-    .desc = An assortment of ice cream delights for any occasion! Includes 16 frozen treats.
+ent-CrateFoodIceCream = доставка мороженого
+    .desc = Ассортимент мороженого на любой случай! Включает 16 холодных лакомств.
 
-ent-CrateFoodSnowcone = snowcone delivery
-    .desc = A freezer packed with refreshing snowcones for a hard working crew, or even a lazy one! Includes 16 snowcones.
+ent-CrateFoodSnowcone = доставка снежных конусов
+    .desc = Морозильник, набитый освежающими снежными конусами для трудолюбивого экипажа, а то и для ленивого тоже! Включает 16 снежных конусов.
 
-ent-CrateFoodHappyHonkBigBite = Happy Honk meal delivery
-    .desc = Two fully loaded Happy Honk Big Bite burger meals, complete with cheesy fries, a bottle of Space Cola, a slice of apple pie and a toy!
+ent-CrateFoodHappyHonkBigBite = доставка обеда Happy Honk
+    .desc = Два полноценных обеда с бургером Happy Honk Big Bite, сырной картошкой фри, бутылкой Спейс-колы, куском яблочного пирога и игрушкой.

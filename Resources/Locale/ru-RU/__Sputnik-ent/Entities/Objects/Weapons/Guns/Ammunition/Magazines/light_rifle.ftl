@@ -1,21 +1,21 @@
-ent-BaseMagazineLightRifle = magazine (.30 rifle)
+ent-BaseMagazineLightRifle = магазин (.30 винтовочный)
     .desc = { ent-BaseItem.desc }
 
-ent-MagazineLightRifleBox = L6 SAW magazine box (.30 rifle)
-    .desc = Box containing a 100-round belt of linked .30 rifle rounds, used by light machine guns such as the L6. Intended to hold general-purpose kinetic ammunition.
+ent-MagazineLightRifleBox = коробка магазина L6 SAW (.30 винтовочный)
+    .desc = Коробка, содержащая ленту на 100 патронов, соединенных винтовочных патронов калибра .30, используемых легкими пулеметами, такими как L6. Предназначена для хранения кинетических боеприпасов общего назначения.
 
-ent-MagazineLightRifle = magazine (.30 rifle)
-    .desc = Curved 30-round double stack magazine for combat rifles. Intended to hold general-purpose kinetic ammunition.
+ent-MagazineLightRifle = магазин (.30 винтовочный)
+    .desc = Изогнутый двухрядный магазин на 30 патронов для боевых винтовок. Предназначен для хранения кинетических боеприпасов общего назначения.
 
-ent-MagazineLightRifleEmpty = magazine (.30 rifle any)
-    .desc = Curved 30-round double stack magazine for combat rifles.
-    .suffix = empty
+ent-MagazineLightRifleEmpty = магазин (.30 винтовочный, любой)
+    .desc = Изогнутый двухрядный магазин на 30 патронов для боевых винтовок.
+    .suffix = Пустой
 
-ent-MagazineLightRiflePractice = magazine (.30 rifle practice)
-    .desc = Curved 30-round double stack magazine for combat rifles. Intended to hold harmless practice ammunition.
+ent-MagazineLightRiflePractice = магазин (.30 винтовочный, тренировочный)
+    .desc = Изогнутый двухрядный магазин на 30 патронов для боевых винтовок. Предназначен для хранения безвредных тренировочных боеприпасов.
 
-ent-MagazineLightRifleUranium = magazine (.30 rifle uranium)
-    .desc = Curved 30-round double stack magazine for combat rifles. Intended to hold exotic uranium-core ammunition.
+ent-MagazineLightRifleUranium = магазин (.30 винтовочный, урановый)
+    .desc = Изогнутый двухрядный магазин на 30 патронов для боевых винтовок. Предназначен для хранения экзотических боеприпасов с урановым сердечником.
 
-ent-MagazineLightRifleIncendiary = magazine (.30 rifle incendiary)
-    .desc = Curved 30-round double stack magazine for combat rifles. Intended to hold self-igniting incendiary ammunition.
+ent-MagazineLightRifleIncendiary = магазин (.30 винтовочный, зажигательный)
+    .desc = Изогнутый двухрядный магазин на 30 патронов для боевых винтовок. Предназначен для хранения самовоспламеняющихся зажигательных боеприпасов.

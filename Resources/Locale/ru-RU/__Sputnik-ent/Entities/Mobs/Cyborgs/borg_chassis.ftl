@@ -1,48 +1,48 @@
 ent-BorgChassisSelectable = { ent-BaseBorgChassisNT }
     .desc = { ent-BaseBorgChassisNT.desc }
 
-ent-BorgChassisGeneric = generic cyborg
+ent-BorgChassisGeneric = стандартный киборг
     .desc = { ent-BorgChassisSelectable.desc }
-    .suffix = type picked
+    .suffix = тип выбран
 
-ent-BorgChassisMining = salvage cyborg
-    .desc = { ent-BorgChassisSelectable.desc }
-
-ent-BorgChassisEngineer = engineer cyborg
+ent-BorgChassisMining = киборг-шахтёр
     .desc = { ent-BorgChassisSelectable.desc }
 
-ent-BorgChassisJanitor = janitor cyborg
+ent-BorgChassisEngineer = киборг-инженер
     .desc = { ent-BorgChassisSelectable.desc }
 
-ent-BorgChassisMedical = medical cyborg
+ent-BorgChassisJanitor = киборг-уборщик
     .desc = { ent-BorgChassisSelectable.desc }
 
-ent-BorgChassisService = service cyborg
+ent-BorgChassisMedical = киборг-медик
     .desc = { ent-BorgChassisSelectable.desc }
 
-ent-BorgChassisSyndicateAssault = syndicate assault cyborg
-    .desc = A lean, mean killing machine with access to a variety of deadly modules.
+ent-BorgChassisService = киборг-сервиса
+    .desc = { ent-BorgChassisSelectable.desc }
 
-ent-BorgChassisSyndicateMedical = syndicate medical cyborg
-    .desc = A combat medical cyborg. Has limited offensive potential, but makes more than up for it with its support capabilities.
+ent-BorgChassisSyndicateAssault = штурмовой киборг Синдиката
+    .desc = Поджарая, злая машина для убийств с доступом к множеству смертоносных модулей.
 
-ent-BorgChassisSyndicateSaboteur = syndicate saboteur cyborg
-    .desc = A streamlined engineering cyborg, equipped with covert modules. Its chameleon projector lets it disguise itself as a Nanotrasen cyborg.
+ent-BorgChassisSyndicateMedical = медицинский киборг Синдиката
+    .desc = Боевой медицинский киборг. Обладает ограниченным наступательным потенциалом, но с лихвой компенсирует это своими возможностями поддержки.
 
-ent-BorgChassisDerelict = derelict cyborg
-    .desc = A man-machine hybrid that assists in station activity. This one is in a state of great disrepair.
+ent-BorgChassisSyndicateSaboteur = киборг-диверсант Синдиката
+    .desc = Компактный инженерный киборг, оснащённый скрытными модулями. Его хамелеон-проектор позволяет ему маскироваться под киборга Нанотрейзен.
 
-ent-EngineeringBorgChassisDerelict = derelict engineer cyborg
-    .desc = A man-machine hybrid that assists the engineering department. This one seems to have chunks of strange crystals pockmarking its surface.
+ent-BorgChassisDerelict = заброшенный киборг
+    .desc = Гибрид человека и машины, помогающий в работе станции. Этот пребывает в крайне плачевном состоянии.
 
-ent-JanitorBorgChassisDerelict = derelict janitor cyborg
-    .desc = A man-machine hybrid that assists the service department. It's a bigger mess than anything it can clean up.
+ent-EngineeringBorgChassisDerelict = заброшенный киборг-инженер
+    .desc = Гибрид человека и машины, помогающий инженерному отделу. Его поверхность, похоже, испещрена кусками странных кристаллов.
 
-ent-MedicalBorgChassisDerelict = derelict medical cyborg
-    .desc = A man-machine hybrid that assists the medical department. This one's needles don't look very sanitary.
+ent-JanitorBorgChassisDerelict = заброшенный киборг-уборщик
+    .desc = Гибрид человека и машины, помогающий отделу обслуживания. Он сам представляет собой больший беспорядок, чем всё, что может убрать.
 
-ent-MiningBorgChassisDerelict = derelict salvage cyborg
-    .desc = A man-machine hybrid that assists the cargo department. This one has seen the wrong side of a gibtonite chunk.
+ent-MedicalBorgChassisDerelict = заброшенный киборг-медик
+    .desc = Гибрид человека и машины, помогающий медицинскому отделу. Иглы этого экземпляра выглядят не слишком стерильно.
 
-ent-SyndicateAssaultBorgChassisDerelict = derelict syndicate assault cyborg
-    .desc = A lean, mean killing machine with access to a variety of deadly modules. This one is more rust-orange than blood-red.
+ent-MiningBorgChassisDerelict = заброшенный киборг-сальважник
+    .desc = Гибрид человека и машины, помогающий грузовому отделу. Этот повидал не лучшую сторону куска гибтонита.
+
+ent-SyndicateAssaultBorgChassisDerelict = заброшенный штурмовой киборг Синдиката
+    .desc = Поджарая, злая машина для убийств с доступом к множеству смертоносных модулей. Этот скорее ржаво-оранжевый, чем кроваво-красный.

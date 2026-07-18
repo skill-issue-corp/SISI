@@ -1,47 +1,47 @@
-ent-Wirecutter = wirecutter
-    .desc = This kills the wire.
+ent-Wirecutter = кусачки
+    .desc = Смерть проводам.
 
-ent-BaseScrewdriver = screwdriver
-    .desc = Industrial grade torque in a small screwdriving package.
+ent-BaseScrewdriver = отвёртка
+    .desc = Промышленный крутящий момент в компактном отвёрточном корпусе.
 
-ent-Wrench = wrench
-    .desc = A common tool for assembly and disassembly. Remember: lefty latchy, righty removey.
+ent-Wrench = гаечный ключ
+    .desc = Обычный инструмент для сборки и разборки. Помните: против часовой — закрутить, по часовой — открутить.
 
-ent-Multitool = multitool
-    .desc = An advanced tool to copy, store, and send electrical pulses and signals through wires and machines.
+ent-Multitool = мультитул
+    .desc = Продвинутый инструмент для копирования, хранения и отправки электрических импульсов и сигналов через провода и устройства.
 
-ent-NetworkConfigurator = network configurator
-    .desc = A tool for linking devices together. Has two modes, a list mode for mass linking devices and a linking mode for advanced device linking.
+ent-NetworkConfigurator = сетевой конфигуратор
+    .desc = Инструмент для соединения устройств между собой. Имеет два режима: список для массового связывания устройств и режим связывания для продвинутого соединения устройств.
 
-ent-PowerDrill = power drill
-    .desc = A simple powered hand drill.
+ent-PowerDrill = электродрель
+    .desc = Простая ручная дрель с приводом.
 
-ent-RCD = RCD
-    .desc = The rapid construction device can be used to quickly place and remove various station structures and fixtures. Requires compressed matter to function.
+ent-RCD = РСУ
+    .desc = Быстрое устройство улучшения (РСУ) может использоваться для быстрой установки и удаления различных станционных конструкций и приспособлений. Для работы требует сжатую материю.
 
-ent-RPD = RPD
-    .desc = The rapid piping device allows for the quick placement and removal of atmospheric-related buildings requires compressive matter to use.
+ent-RPD = БУТ
+    .desc = Быстрое устройство трубопроводов (БУТ) позволяет быстро устанавливать и удалять атмосферные конструкции. Для использования требует сжатую материю.
 
 ent-RCDEmpty = { ent-RCD }
     .desc = { ent-RCD.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-RCDRecharging = experimental RCD
-    .desc = Cyborg-mounted Rapid Construction Device which creates compressed matter on the fly using an internal fabricator.
-    .suffix = AutoRecharge
+ent-RCDRecharging = экспериментальное РСУ
+    .desc = Устанавливаемое на киборга быстрое устройство улучшения, которое создаёт сжатую материю на лету с помощью встроенного фабрикатора.
+    .suffix = Автоперезарядка
 
-ent-RCDExperimental = experimental RCD
-    .desc = A bluespace-enhanced rapid construction device that passively generates its own compressed matter.
+ent-RCDExperimental = экспериментальное РСУ
+    .desc = Улучшенное блюспейс-технологией быстрое устройство улучшения, которое пассивно генерирует собственную сжатую материю.
     .suffix = Admeme
 
-ent-RCDAmmo = compressed matter
-    .desc = A cartridge of raw matter compacted by bluespace technology. Used in rapid construction devices.
+ent-RCDAmmo = сжатая материя
+    .desc = Картридж с необработанной материей, спрессованной с помощью блюспейс-технологии. Используется в быстрых устройствах улучшения.
 
-ent-Omnitool = omnitool
-    .desc = A drone's best friend.
+ent-Omnitool = омнитул
+    .desc = Лучший друг дрона.
 
-ent-Shovel = shovel
-    .desc = A large tool for digging and moving dirt.
+ent-Shovel = лопата
+    .desc = Крупный инструмент для копания и перемещения земли.
 
-ent-RollingPin = rolling pin
-    .desc = A tool used to shape and flatten dough.
+ent-RollingPin = скалка
+    .desc = Инструмент, используемый для придания формы и раскатывания теста.

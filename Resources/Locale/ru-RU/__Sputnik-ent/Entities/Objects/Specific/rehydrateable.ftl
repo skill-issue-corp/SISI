@@ -1,51 +1,51 @@
 ent-RehydratableItem = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-SolutionCube = cube
-    .desc = if you're reading this, nuh uh! file a bug report.
+ent-SolutionCube = кубик
+    .desc = если вы это читаете, ну уж нет! оформите баг-репорт.
 
 ent-RehydratableAnimalCube = { ent-SolutionTiny }
-    .desc = Just add water!
+    .desc = Просто добавь воды!
 
-ent-MonkeyCube = monkey cube
+ent-MonkeyCube = кубик обезьяны
     .desc = { ent-RehydratableAnimalCube.desc }
 
-ent-KoboldCube = kobold cube
+ent-KoboldCube = кубик кобольда
     .desc = { ent-RehydratableAnimalCube.desc }
 
-ent-CowCube = cow cube
+ent-CowCube = кубик коровы
     .desc = { ent-RehydratableAnimalCube.desc }
 
-ent-GoatCube = goat cube
+ent-GoatCube = кубик козы
     .desc = { ent-RehydratableAnimalCube.desc }
 
-ent-MothroachCube = mothroach cube
+ent-MothroachCube = кубик мотроча
     .desc = { ent-RehydratableAnimalCube.desc }
 
-ent-MoproachCube = moproach cube
+ent-MoproachCube = кубик мопроча
     .desc = { ent-RehydratableAnimalCube.desc }
 
-ent-MouseCube = mouse cube
+ent-MouseCube = кубик мыши
     .desc = { ent-RehydratableAnimalCube.desc }
 
-ent-CockroachCube = cockroach cube
-    .desc = Just add wa- OH GOD!
+ent-CockroachCube = кубик таракана
+    .desc = Просто добавь во- О БОЖЕ!
 
-ent-SpaceCarpCube = carp cube
-    .desc = Just add water! At your own risk.
+ent-SpaceCarpCube = кубик карпа
+    .desc = Просто добавь воды! На свой страх и риск.
 
-ent-SpaceTickCube = tick cube
-    .desc = Just add water! At your own risk.
+ent-SpaceTickCube = кубик клеща
+    .desc = Просто добавь воды! На свой страх и риск.
 
-ent-AbominationCube = abomination cube
-    .desc = Just add blood!
+ent-AbominationCube = кубик мерзости
+    .desc = Просто добавь крови!
 
-ent-DehydratedSpaceCarp = dehydrated space carp
-    .desc = Looks like a plush toy carp, but just add water and it becomes a real-life space carp!
+ent-DehydratedSpaceCarp = обезвоженный космический карп
+    .desc = Выглядит как игрушечный плюшевый карп, но просто добавь воды, и он станет настоящим живым космическим карпом!
 
 ent-SyndicateSponge = { ent-MonkeyCube }
     .desc = { ent-MonkeyCube.desc }
-    .suffix = Syndicate
+    .suffix = Синдикат
 
-ent-MopBucketCube = mop bucket cube
-    .desc = Just add water! And then more water!
+ent-MopBucketCube = кубик ведра со шваброй
+    .desc = Просто добавь воды! А потом ещё воды!

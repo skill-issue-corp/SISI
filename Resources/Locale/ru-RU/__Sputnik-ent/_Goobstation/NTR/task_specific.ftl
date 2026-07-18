@@ -1,8 +1,8 @@
 ent-TaskVial = { ent-ChemistryEmptyVial }
-    .desc = A special vial, that could be inserted inside a NTRs task console.
+    .desc = Специальный флакон, который можно вставить в консоль заданий НТР.
 
 ent-TaskBottle = { ent-DrinkGlass }
-    .desc = A normal bottle, that could be inserted inside a NTRs task console.
+    .desc = Обычная бутылка, которую можно вставить в консоль заданий НТР.
 
 ent-TaskJug = { ent-Jug }
-    .desc = A basic jug for sending a large ammount of chemicals to CentComm.
+    .desc = Простой кувшин для отправки большого количества химикатов в ЦентКом.

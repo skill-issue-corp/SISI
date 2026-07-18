@@ -10,73 +10,73 @@ ent-SolutionHypospraySmall = { ent-SolutionHypospray }
 ent-SolutionHyposprayTiny = { ent-SolutionHypospray }
     .desc = { ent-SolutionHypospray.desc }
 
-ent-Hypospray = hypospray
-    .desc = A sterile injector for rapid administration of drugs to patients.
+ent-Hypospray = гипоспрей
+    .desc = Стерильный инъектор для быстрого введения лекарств пациентам.
 
-ent-SyndiHypo = gorlex hypospray
-    .desc = A sterile injector for rapid administration of drugs. Reverse-engineered from Nanotrasen designs, Cybersun produces these in limited quantities for Gorlex Marauders' corpsmen.
+ent-SyndiHypo = гипоспрей "горлекс"
+    .desc = Стерильный инъектор для быстрого введения лекарств. Разработан методом обратной инженерии на основе технологий Нанотрайзен, Cybersun производит их в ограниченных количествах для санитаров Гарлекс Мародеров.
 
-ent-BorgHypo = borghypo
-    .desc = A sterile injector for rapid administration of drugs to patients. This integrated model is specialized for use by medical borgs.
+ent-BorgHypo = боргоспрей
+    .desc = Стерильный инъектор для быстрого введения лекарств пациентам. Эта встроенная модель специализирована для использования медицинскими боргами.
 
-ent-JetInjector = jet injector
-    .desc = A sterile injector for convenient administration of drugs to patients.
+ent-JetInjector = струйный инъектор
+    .desc = Стерильный инъектор для удобного введения лекарств пациентам.
 
-ent-AdvancedJetInjector = advanced jet injector
-    .desc = A pristine, fashionable, high quality injector. Allows for a faster injection, with a slightly larger capacity.
+ent-AdvancedJetInjector = продвинутый струйный инъектор
+    .desc = Безупречный, стильный инъектор высокого качества. Обеспечивает более быструю инъекцию и немного большую вместимость.
 
-ent-AdminHypo = experimental hypospray
-    .desc = The ultimate application of bluespace technology and rapid chemical administration.
-    .suffix = Admeme
+ent-AdminHypo = экспериментальный гипоспрей
+    .desc = Наивысшее применение технологии блюспейса и быстрого введения химических веществ.
+    .suffix = Админмем
 
-ent-ChemicalMedipen = chemical medipen
-    .desc = A single-dose, non-refillable medipen.
+ent-ChemicalMedipen = химический медипен
+    .desc = Одноразовый, неперезаряжаемый медипен.
 
-ent-EmergencyMedipen = emergency medipen
-    .desc = A rapid and safe way to heal minor damage, stop bleeding, and stabilize patients for personnel without advanced medical knowledge.
+ent-EmergencyMedipen = аварийный медипен
+    .desc = Быстрый и безопасный способ вылечить незначительные повреждения, остановить кровотечение и стабилизировать пациентов для персонала без продвинутых медицинских знаний.
 
-ent-AntiPoisonMedipen = poison auto-injector
-    .desc = A rapid dose of anti-poison. Causes extreme stress when mixed with other medications.
+ent-AntiPoisonMedipen = автоинъектор против ядов
+    .desc = Быстрая доза противоядия. Вызывает сильный стресс при смешивании с другими медикаментами.
 
-ent-BruteAutoInjector = brute auto-injector
-    .desc = A rapid dose of bicaridine, salicylic acid, tranexamic acid, and tramadol, intended for combat applications. Usage of multiple highly recommended against.
+ent-BruteAutoInjector = автоинъектор от травм
+    .desc = Быстрая доза бикаридина, салициловой кислоты, транексамовой кислоты и трамадола, предназначенная для боевого применения. Использование нескольких доз крайне не рекомендуется.
 
-ent-BurnAutoInjector = burn auto-injector
-    .desc = A rapid dose of oxandrolone, leporazine, and tramadol, intended for combat applications.
+ent-BurnAutoInjector = автоинъектор от ожогов
+    .desc = Быстрая доза оксандролона, лепоразина и трамадола, предназначенная для боевого применения.
 
-ent-RadAutoInjector = rad auto-injector
-    .desc = A single-dose, non-refillable medipen containing arithrazine and bicaridine, used to quickly and easily treat radiation poisoning.
+ent-RadAutoInjector = автоинъектор от радиации
+    .desc = Одноразовый, неперезаряжаемый медипен, содержащий аритразин и бикаридин, используемый для быстрого и легкого лечения радиационного отравления.
 
-ent-PunctAutoInjector = puncturase auto-injector
-    .desc = A single-dose, non-refillable medipen containing puncturase and tranexamic acid, used to quickly and easily treat puncture wounds. Commonly used as a combat medicine.
+ent-PunctAutoInjector = автоинъектор пунктуразы
+    .desc = Одноразовый, неперезаряжаемый медипен, содержащий пунктуразу и транексамовую кислоту, используемый для быстрого и легкого лечения колотых ран. Часто используется как боевое лекарство.
 
-ent-PyraAutoInjector = pyrazine auto-injector
-    .desc = A rapid dose of pyrazine and oxandrolone, intended for combat applications.
+ent-PyraAutoInjector = автоинъектор пиразина
+    .desc = Быстрая доза пиразина и оксандролона, предназначенная для боевого применения.
 
-ent-AirlossAutoInjector = airloss auto-injector
-    .desc = A single-dose, non-refillable medipen containing saline and dexalin plus, used to quickly and easily treat blood loss and asphyxiation.
+ent-AirlossAutoInjector = автоинъектор от потери воздуха
+    .desc = Одноразовый, неперезаряжаемый медипен, содержащий физраствор и дексалин плюс, используемый для быстрого и легкого лечения кровопотери и асфиксии.
 
-ent-SpaceMedipen = environmental stabilization medipen
-    .desc = Contains a mix of chemicals that will temporarily protect you from low pressure environments, and stabilizes your body temperature.
+ent-SpaceMedipen = медипен экологической стабилизации
+    .desc = Содержит смесь химических веществ, которая временно защитит вас от условий низкого давления и стабилизирует температуру вашего тела.
 
 ent-SyndicateMedipen = { ent-SolutionToolSmall }
     .desc = { ent-SolutionToolSmall.desc }
 
-ent-Stimpack = hyperzine injector
-    .desc = A chemical injector containing a large shot of pure hyperzine. For when it's time to throw down. Effects last for about 60 seconds.
+ent-Stimpack = инъектор гиперзина
+    .desc = Химический инъектор, содержащий большую дозу чистого гиперзина. Для случаев, когда пора вступить в бой. Эффект длится около 60 секунд.
 
-ent-StimpackMini = hyperzine microinjector
-    .desc = A chemical microinjector containing a small shot of pure hyperzine. Effects last for about 30 seconds.
+ent-StimpackMini = микроинъектор гиперзина
+    .desc = Химический микроинъектор, содержащий малую дозу чистого гиперзина. Эффект длится около 30 секунд.
 
-ent-CombatMedipen = combat medipen
-    .desc = A single-dose, non-refillable medipen containing a chemical cocktail that treats most forms of damage.
+ent-CombatMedipen = боевой медипен
+    .desc = Одноразовый, неперезаряжаемый медипен, содержащий химический коктейль, лечащий большинство видов повреждений.
 
 ent-Hypopen = { ent-Pen }
     .desc = { ent-Pen.desc }
-    .suffix = Hypopen
+    .suffix = Гипоручка
 
-ent-HypopenBox = hypopen box
-    .desc = A small box containing a hypopen. Packaging disintegrates when opened, leaving no evidence behind.
+ent-HypopenBox = коробка с гипоручкой
+    .desc = Маленькая коробка, содержащая гипоручку. Упаковка растворяется при открытии, не оставляя улик.
 
-ent-WehMedipen = weh auto-injector
-    .desc = A non-refillable medipen containing multiple doses of weh.
+ent-WehMedipen = автоинъектор "вех"
+    .desc = Неперезаряжаемый медипен, содержащий несколько доз "вех".

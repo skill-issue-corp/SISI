@@ -1,14 +1,14 @@
-ent-BaseTowel = base towel
-    .desc = If you want to survive out here, you gotta know where your towel is.
+ent-BaseTowel = базовое полотенце
+    .desc = Если хотите выжить здесь, вам нужно знать, где ваше полотенце.
 
-ent-TowelColorWhite = white towel
+ent-TowelColorWhite = белое полотенце
     .desc = { ent-BaseTowel.desc }
 
-ent-TowelColorNT = NanoTrasen brand towel
+ent-TowelColorNT = фирменное полотенце NanoTrasen
     .desc = { ent-BaseTowel.desc }
 
-ent-TowelColorCentcom = centcom towel
+ent-TowelColorCentcom = полотенце ЦентКома
     .desc = { ent-BaseTowel.desc }
 
-ent-TowelColorSyndicate = syndicate towel
+ent-TowelColorSyndicate = полотенце Синдиката
     .desc = { ent-BaseTowel.desc }

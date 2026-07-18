@@ -1,36 +1,36 @@
 ent-BaseToyGun = { "" }
     .desc = { "" }
 
-ent-FoamCrossbow = foam crossbow
-    .desc = Aiming this at Security may get you filled with lead.
+ent-FoamCrossbow = поролоновый арбалет
+    .desc = Наведя это на Службу безопасности, вы рискуете получить свинца в ответ.
 
-ent-WeaponRifleFoam = Foam Force Astro Ace
-    .desc = A premium foam rifle of the highest quality. Its plastic feels rugged, and its mechanisms sturdy.
+ent-WeaponRifleFoam = поролоновая винтовка «Астро Асс»
+    .desc = Премиальная поролоновая винтовка высочайшего качества. Пластик кажется прочным, а механизмы — надёжными.
 
-ent-RevolverCapGun = cap gun
-    .desc = Looks almost like the real thing! Ages 8 and up.
+ent-RevolverCapGun = пугач
+    .desc = Выглядит почти как настоящий! Для детей от 8 лет.
 
 ent-RevolverCapGunFake = { ent-RevolverCapGun }
     .desc = { ent-RevolverCapGun.desc }
-    .suffix = Fake
+    .suffix = Фальшивый
 
-ent-WeaponStickyHand = sticky hand
-    .desc = They're saying you're reaching. They're saying it's a stretch. You'll show them all, and you'll stick it to them.
+ent-WeaponStickyHand = липкая рука
+    .desc = Они говорят, что вы тянетесь. Они говорят, что это притянуто за уши. Но вы всем покажете и прилипнете к ним.
 
 ent-BaseToySword = { "" }
     .desc = { "" }
 
-ent-FoamBlade = foamblade
-    .desc = It says "Sternside Changs number 1 fan" on it.
+ent-FoamBlade = поролоновый клинок
+    .desc = На нём написано «Стернсайд Чанг, фанат номер 1».
 
-ent-FoamCutlass = foam cutlass
-    .desc = Cosplay as a pirate and force your friends to walk the plank.
+ent-FoamCutlass = поролоновая сабля
+    .desc = Косплейте пирата и заставьте друзей пройтись по доске.
 
-ent-ToySword = toy sword
-    .desc = New Sandy-Cat plastic sword! Comes with realistic sound and full color! Looks almost like the real thing!
+ent-ToySword = игрушечный меч
+    .desc = Новый пластиковый меч «Сэнди-Кэт»! Реалистичный звук и полноцветное исполнение! Выглядит почти как настоящий!
 
-ent-CardSword = cardboard sword
-    .desc = A cardboard tube fashioned into the shape of a sword.
+ent-CardSword = картонный меч
+    .desc = Картонная труба, сложенная в форме меча.
 
-ent-ToyHammer = rubber hammer
-    .desc = A brightly colored hammer made of rubber.
+ent-ToyHammer = резиновый молоток
+    .desc = Ярко раскрашенный молоток из резины.

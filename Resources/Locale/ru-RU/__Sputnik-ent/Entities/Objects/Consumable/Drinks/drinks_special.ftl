@@ -1,41 +1,41 @@
-ent-DrinkShotGlass = shot glass
-    .desc = Perfect for slamming down onto the table angrily.
+ent-DrinkShotGlass = стопка
+    .desc = Идеально подходит для того, чтобы сердито хлопнуть ей об стол.
 
-ent-DrinkIceBucket = ice bucket
-    .desc = A special bucket of refreshy ice. Prohibited use for challenge with the same name!
+ent-DrinkIceBucket = ведёрко для льда
+    .desc = Специальное ведёрко с освежающим льдом. Использовать для одноимённого испытания запрещено!
 
-ent-DrinkTeapot = teapot
-    .desc = An elegant teapot. It simply oozes class.
+ent-DrinkTeapot = чайник
+    .desc = Элегантный чайник. Он просто источает шик.
 
-ent-DrinkCanPack = 6pack
+ent-DrinkCanPack = упаковка из 6 банок
     .desc = { ent-BaseStorageItem.desc }
 
-ent-DrinkShaker = shaker
-    .desc = The trusty mixing buddy of the bartender.
+ent-DrinkShaker = шейкер
+    .desc = Верный помощник бармена для смешивания напитков.
 
-ent-DrinkShakerGold = golden shaker
-    .desc = A gold-plated shaker given as a token of appreciation for years of service. It doesn't make the drinks taste any different.
+ent-DrinkShakerGold = золотой шейкер
+    .desc = Позолоченный шейкер, вручённый в знак признательности за годы службы. На вкус напитков он никак не влияет.
 
-ent-DrinkJigger = jigger
-    .desc = Like a shaker, but smaller. Used to control the amount of ingredients.
+ent-DrinkJigger = джиггер
+    .desc = Как шейкер, только меньше. Используется для точного отмеривания ингредиентов.
 
-ent-Pitcher = metal pitcher
-    .desc = A stainless steel insulated pitcher. Everyone's best friend in the morning.
+ent-Pitcher = металлический кувшин
+    .desc = Кувшин из нержавеющей стали с теплоизоляцией. Лучший друг каждого по утрам.
 
 ent-DrinkShakeBase = { ent-DrinkBaseMaterialGlass }
     .desc = { "" }
 
-ent-DrinkShakeBlue = blue milkshake
+ent-DrinkShakeBlue = синий милкшейк
     .desc = { ent-DrinkShakeBase.desc }
 
-ent-DrinkShakeEmpty = shakeempty
+ent-DrinkShakeEmpty = пустой шейк
     .desc = { ent-DrinkShakeBase.desc }
 
-ent-DrinkShakeMeat = meat shake
+ent-DrinkShakeMeat = мясной шейк
     .desc = { ent-DrinkShakeBase.desc }
 
-ent-DrinkShakeRobo = robo shake
+ent-DrinkShakeRobo = робо-шейк
     .desc = { ent-DrinkShakeBase.desc }
 
-ent-DrinkShakeWhite = white shake
+ent-DrinkShakeWhite = белый шейк
     .desc = { ent-DrinkShakeBase.desc }

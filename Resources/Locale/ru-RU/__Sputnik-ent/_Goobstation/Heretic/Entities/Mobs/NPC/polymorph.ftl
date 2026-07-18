@@ -1,17 +1,17 @@
-ent-PolymorphAshJauntAnimation = Unknown
-    .desc = You can't figure out what that is.
+ent-PolymorphAshJauntAnimation = Неизвестно
+    .desc = Вы не можете понять, что это такое.
 
-ent-PolymorphAshJauntEndAnimation = Unknown
-    .desc = You can't figure out what that is.
+ent-PolymorphAshJauntEndAnimation = Неизвестно
+    .desc = Вы не можете понять, что это такое.
 
-ent-PolymorphAshJaunt = Unknown
-    .desc = You can't figure out what that is.
+ent-PolymorphAshJaunt = Неизвестно
+    .desc = Вы не можете понять, что это такое.
 
-ent-PolymorphSpaceJaunt = Unknown
-    .desc = You can't figure out what that is.
+ent-PolymorphSpaceJaunt = Неизвестно
+    .desc = Вы не можете понять, что это такое.
 
-ent-PolymorphMirrorJaunt = Unknown
-    .desc = You can't figure out what that is.
+ent-PolymorphMirrorJaunt = Неизвестно
+    .desc = Вы не можете понять, что это такое.
 
-ent-VoidPrison = Void Prison
-    .desc = A Yawning void encases their mortal coil.
+ent-VoidPrison = Пустотная Тюрьма
+    .desc = Зияющая пустота сковывает их смертную оболочку.

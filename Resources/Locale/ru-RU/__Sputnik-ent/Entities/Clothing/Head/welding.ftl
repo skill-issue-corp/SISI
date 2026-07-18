@@ -1,14 +1,14 @@
-ent-WeldingMaskBaseNoBlind = welding mask
+ent-WeldingMaskBaseNoBlind = сварочная маска
     .desc = { ent-ClothingHeadBase.desc }
 
-ent-ClothingHeadHatWelding = welding mask
-    .desc = A head-mounted face cover designed to protect the wearer completely from space-arc eye.
+ent-ClothingHeadHatWelding = сварочная маска
+    .desc = Полностью закрывающая голову маска, защищающая владельца от космического «зайчика».
 
-ent-ClothingHeadHatWeldingMaskFlame = flame welding mask
-    .desc = A painted welding helmet, this one has flames on it.
+ent-ClothingHeadHatWeldingMaskFlame = сварочная маска с языками пламени
+    .desc = Раскрашенный сварочный шлем, на этом изображены языки пламени.
 
-ent-ClothingHeadHatWeldingMaskFlameBlue = blue-flame welding mask
-    .desc = A painted welding helmet, this one has blue flames on it.
+ent-ClothingHeadHatWeldingMaskFlameBlue = сварочная маска с синим пламенем
+    .desc = Раскрашенный сварочный шлем, на этом изображены синие языки пламени.
 
-ent-ClothingHeadHatWeldingMaskPainted = painted welding mask
-    .desc = A welding helmet, painted in crimson.
+ent-ClothingHeadHatWeldingMaskPainted = раскрашенная сварочная маска
+    .desc = Сварочный шлем, окрашенный в багровый цвет.

@@ -1,106 +1,106 @@
-ent-ClothingHeadHelmetHardsuitAtmos = atmospherics hardsuit helmet
-    .desc = A special hardsuit helmet designed for working in low-pressure and high-temperature environments.
+ent-ClothingHeadHelmetHardsuitAtmos = шлем скафандра атмосферного техника
+    .desc = Специальный шлем скафандра, предназначенный для работы в условиях низкого давления и высокой температуры.
 
-ent-ClothingHeadHelmetHardsuitEngineering = engineering hardsuit helmet
-    .desc = An engineering hardsuit helmet designed for working in low-pressure, highly radioactive environments.
+ent-ClothingHeadHelmetHardsuitEngineering = шлем инженерного скафандра
+    .desc = Шлем инженерного скафандра, предназначенный для работы в условиях низкого давления и высокой радиации.
 
-ent-ClothingHeadHelmetHardsuitSpatio = spationaut hardsuit helmet
-    .desc = A sturdy helmet designed for complex industrial operations in space.
+ent-ClothingHeadHelmetHardsuitSpatio = шлем скафандра спационавта
+    .desc = Прочный шлем, предназначенный для сложных промышленных операций в космосе.
 
-ent-ClothingHeadHelmetHardsuitSalvage = salvage hardsuit helmet
-    .desc = A special helmet designed for work in a hazardous, low pressure environment. Has reinforced plating for wildlife encounters and dual floodlights.
+ent-ClothingHeadHelmetHardsuitSalvage = шлем скафандра утилизатора
+    .desc = Специальный шлем, предназначенный для работы в опасных условиях низкого давления. Имеет усиленную обшивку на случай встречи с дикой фауной и двойные прожекторы.
 
-ent-ClothingHeadHelmetHardsuitGoliath = goliath hardsuit helmet
-    .desc = A sturdy hardsuit helmet, infused with a goliath's hide and an eerie, unblinking eye cut from its mass.
+ent-ClothingHeadHelmetHardsuitGoliath = шлем скафандра "голиаф"
+    .desc = Прочный шлем скафандра, пропитанный шкурой голиафа, с жутким немигающим глазом, вырезанным из его туши.
 
-ent-ClothingHeadHelmetHardsuitMaxim = salvager maxim helmet
-    .desc = A predication of decay washes over your mind.
+ent-ClothingHeadHelmetHardsuitMaxim = шлем утилизатора "максим"
+    .desc = Предчувствие тлена накрывает ваш разум.
 
-ent-ClothingHeadHelmetHardsuitSecurity = security hardsuit helmet
-    .desc = Armored hardsuit helmet for security needs.
+ent-ClothingHeadHelmetHardsuitSecurity = шлем охранного скафандра
+    .desc = Бронированный шлем скафандра для нужд службы безопасности.
 
-ent-ClothingHeadHelmetHardsuitBrigmedic = brigmedic hardsuit helmet
-    .desc = The lightweight helmet of the brigmedic hardsuit. Protects against viruses, and clowns.
+ent-ClothingHeadHelmetHardsuitBrigmedic = шлем скафандра бриг-медика
+    .desc = Лёгкий шлем скафандра бриг-медика. Защищает от вирусов и клоунов.
 
-ent-ClothingHeadHelmetHardsuitWarden = warden's hardsuit helmet
-    .desc = A modified riot helmet. Oddly comfortable.
+ent-ClothingHeadHelmetHardsuitWarden = шлем скафандра надзирателя
+    .desc = Модифицированный шлем для подавления беспорядков. На удивление удобный.
 
-ent-ClothingHeadHelmetHardsuitCap = captain's spacesuit helmet
-    .desc = Special spacesuit helmet, made for the captain of the station.
+ent-ClothingHeadHelmetHardsuitCap = шлем скафандра капитана
+    .desc = Специальный шлем скафандра, изготовленный для капитана станции.
 
-ent-ClothingHeadHelmetHardsuitEngineeringWhite = chief engineer's hardsuit helmet
-    .desc = Special hardsuit helmet, made for the chief engineer of the station.
+ent-ClothingHeadHelmetHardsuitEngineeringWhite = шлем скафандра старшего инженера
+    .desc = Специальный шлем скафандра, изготовленный для старшего инженера станции.
 
-ent-ClothingHeadHelmetHardsuitMedical = chief medical officer's hardsuit helmet
-    .desc = Lightweight medical hardsuit helmet that doesn't restrict your head movements.
+ent-ClothingHeadHelmetHardsuitMedical = шлем скафандра старшего врача
+    .desc = Лёгкий медицинский шлем скафандра, не сковывающий движения головы.
 
-ent-ClothingHeadHelmetHardsuitRd = experimental research hardsuit helmet
-    .desc = Lightweight hardsuit helmet that doesn't restrict your head movements.
+ent-ClothingHeadHelmetHardsuitRd = шлем скафандра для экспериментальных исследований
+    .desc = Лёгкий шлем скафандра, не сковывающий движения головы.
 
-ent-ClothingHeadHelmetHardsuitSecurityRed = head of security's hardsuit helmet
-    .desc = Security hardsuit helmet with the latest top secret NT-HUD software. Belongs to the HoS.
+ent-ClothingHeadHelmetHardsuitSecurityRed = шлем скафандра главы службы безопасности
+    .desc = Охранный шлем скафандра с новейшим сверхсекретным ПО NT-HUD. Принадлежит ГСБ.
 
-ent-ClothingHeadHelmetHardsuitLuxury = luxury mining hardsuit helmet
-    .desc = A refurbished mining hardsuit helmet, fitted with satin cushioning and an extra (non-functioning) antenna, because you're that extra.
+ent-ClothingHeadHelmetHardsuitLuxury = роскошный шлем шахтёрского скафандра
+    .desc = Отреставрированный шлем шахтёрского скафандра, оснащённый атласной обивкой и дополнительной (нефункционирующей) антенной, ведь вы это заслуживаете.
 
-ent-ClothingHeadHelmetHardsuitSyndie = blood-red hardsuit helmet
-    .desc = A heavily armored helmet designed for work in special operations. Property of Gorlex Marauders.
+ent-ClothingHeadHelmetHardsuitSyndie = кроваво-красный шлем скафандра
+    .desc = Сильно бронированный шлем, предназначенный для работы в спецоперациях. Собственность Мародёров Горлекса.
 
-ent-ClothingHeadHelmetHardsuitSyndieMedic = blood-red medic hardsuit helmet
-    .desc = An advanced red hardsuit helmet specifically designed for field medic operations.
+ent-ClothingHeadHelmetHardsuitSyndieMedic = кроваво-красный шлем медицинского скафандра
+    .desc = Продвинутый красный шлем скафандра, специально разработанный для полевых медицинских операций.
 
-ent-ClothingHeadHelmetHardsuitSyndieElite = syndicate elite hardsuit helmet
-    .desc = An elite version of the blood-red hardsuit's helmet, with heat-resistant armor and fireproofing. Property of Gorlex Marauders.
+ent-ClothingHeadHelmetHardsuitSyndieElite = элитный шлем скафандра Синдиката
+    .desc = Элитная версия шлема кроваво-красного скафандра с термостойкой и огнеупорной броней. Собственность Мародёров Горлекса.
 
-ent-ClothingHeadHelmetHardsuitSyndieCommander = syndicate hardsuit helmet
-    .desc = A bulked up version of the blood-red hardsuit's helmet, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
+ent-ClothingHeadHelmetHardsuitSyndieCommander = шлем скафандра Синдиката
+    .desc = Усиленная версия шлема кроваво-красного скафандра, специально созданная для командира отряда оперативников Синдиката. Обладает значительно улучшенной бронёй для смертоносных перестрелок на передовой.
 
-ent-ClothingHeadHelmetHardsuitCybersun = cybersun juggernaut helmet
-    .desc = Made of compressed red matter, this helmet was designed in the Tau chromosphere facility.
+ent-ClothingHeadHelmetHardsuitCybersun = шлем джаггернаута "Кибер-солнце"
+    .desc = Изготовленный из спрессованной красной материи, этот шлем был разработан на объекте в хромосфере Тау.
 
-ent-ClothingHeadHelmetHardsuitWizard = wizard hardsuit helmet
-    .desc = A bizarre gem-encrusted helmet that radiates magical energies.
+ent-ClothingHeadHelmetHardsuitWizard = шлем скафандра волшебника
+    .desc = Причудливый украшенный самоцветами шлем, излучающий магическую энергию.
 
-ent-ClothingHeadHelmetHardsuitLing = organic space helmet
-    .desc = A spaceworthy biomass of pressure and temperature resistant tissue.
+ent-ClothingHeadHelmetHardsuitLing = органический космический шлем
+    .desc = Пригодная для космоса биомасса из ткани, устойчивой к давлению и температуре.
 
-ent-ClothingHeadHelmetHardsuitPirateEVA = deep space EVA helmet
-    .desc = A deep space EVA helmet, very heavy but provides good protection.
-    .suffix = Pirate
+ent-ClothingHeadHelmetHardsuitPirateEVA = шлем для глубокого космоса
+    .desc = Шлем для выхода в открытый глубокий космос, очень тяжёлый, но обеспечивающий хорошую защиту.
+    .suffix = Пират
 
-ent-ClothingHeadHelmetHardsuitPirateCap = pirate captain's hardsuit helmet
-    .desc = A special hardsuit helmet, made for the captain of a pirate ship.
-    .suffix = Pirate
+ent-ClothingHeadHelmetHardsuitPirateCap = шлем скафандра капитана пиратов
+    .desc = Специальный шлем скафандра, изготовленный для капитана пиратского корабля.
+    .suffix = Пират
 
-ent-ClothingHeadHelmetHardsuitERTLeader = ERT leader hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTLeader = шлем скафандра лидера ОБР
+    .desc = Специальный шлем скафандра, который носят члены оперативной группы быстрого реагирования.
 
-ent-ClothingHeadHelmetHardsuitERTChaplain = ERT chaplain hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTChaplain = шлем скафандра капеллана ОБР
+    .desc = Специальный шлем скафандра, который носят члены оперативной группы быстрого реагирования.
 
-ent-ClothingHeadHelmetHardsuitERTEngineer = ERT engineer hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTEngineer = шлем скафандра инженера ОБР
+    .desc = Специальный шлем скафандра, который носят члены оперативной группы быстрого реагирования.
 
-ent-ClothingHeadHelmetHardsuitERTMedical = ERT medic hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTMedical = шлем скафандра медика ОБР
+    .desc = Специальный шлем скафандра, который носят члены оперативной группы быстрого реагирования.
 
-ent-ClothingHeadHelmetHardsuitERTSecurity = ERT security hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTSecurity = шлем скафандра сотрудника безопасности ОБР
+    .desc = Специальный шлем скафандра, который носят члены оперативной группы быстрого реагирования.
 
-ent-ClothingHeadHelmetHardsuitERTJanitor = ERT janitor hardsuit helmet
-    .desc = A special hardsuit helmet worn by members of an emergency response team.
+ent-ClothingHeadHelmetHardsuitERTJanitor = шлем скафандра уборщика ОБР
+    .desc = Специальный шлем скафандра, который носят члены оперативной группы быстрого реагирования.
 
-ent-ClothingHeadHelmetCBURN = CBURN exosuit helmet
-    .desc = A pressure resistant and fireproof hood worn by special cleanup units.
+ent-ClothingHeadHelmetCBURN = шлем экзокостюма CBURN
+    .desc = Устойчивый к давлению и огнеупорный капюшон, который носят специальные подразделения по устранению последствий.
 
-ent-ClothingHeadHelmetHardsuitDeathsquad = deathsquad hardsuit helmet
-    .desc = A robust helmet for special operations.
+ent-ClothingHeadHelmetHardsuitDeathsquad = шлем скафандра отряда смерти
+    .desc = Прочный шлем для спецопераций.
 
-ent-ClothingHeadHelmetHardsuitClown = clown hardsuit helmet
-    .desc = A clown hardsuit helmet.
+ent-ClothingHeadHelmetHardsuitClown = шлем клоунского скафандра
+    .desc = Шлем клоунского скафандра.
 
-ent-ClothingHeadHelmetHardsuitMime = mime hardsuit helmet
-    .desc = A mime hardsuit helmet.
+ent-ClothingHeadHelmetHardsuitMime = шлем скафандра мима
+    .desc = Шлем скафандра мима.
 
-ent-ClothingHeadHelmetHardsuitSanta = Santa's hardsuit helmet
-    .desc = A festive-looking hardsuit helmet that provides the jolly gift-giver protection from low-pressure environments.
+ent-ClothingHeadHelmetHardsuitSanta = шлем скафандра Санты
+    .desc = Празднично выглядящий шлем скафандра, защищающий весёлого дарителя подарков от условий низкого давления.
