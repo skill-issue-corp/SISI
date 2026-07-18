@@ -21,8 +21,11 @@ VERSION = os.environ['GITHUB_SHA']
 # CONFIGURATION PARAMETERS
 # Forks should change these to publish to their own infrastructure.
 #
-ROBUST_CDN_URL = "https://cdn.simplestation.org/"
-FORK_ID = "goobstation-lrp"
+
+# SIS-CDN Start
+ROBUST_CDN_URL = "https://skill-issue-station.space/cdn/"
+FORK_ID = "sisi"
+# SIS-CDN End
 
 def main():
     print("Fetching artifact URL from API...")
