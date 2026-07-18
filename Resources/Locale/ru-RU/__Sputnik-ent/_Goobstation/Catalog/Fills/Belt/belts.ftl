@@ -1,39 +1,47 @@
 ent-ClothingBeltMilitaryWebbingCMOFilled = { ent-ClothingBeltMilitaryWebbingCMO }
-    .suffix = Заполненный, НЕ ДЛЯ КАРТЫ
     .desc = { ent-ClothingBeltMilitaryWebbingCMO.desc }
-ent-ClothingBeltDeathsquadWebbingFilled = РПС Эскадрона Смерти
-    .desc = Прочная и надёжная разгрузка, содержащая всё необходимое для боя. Возможно, тебе она даже не пригодится.
-    .suffix = Заполненный, НЕ ДЛЯ КАРТЫ
+    .suffix = Filled, DO NOT MAP
+
+ent-ClothingBeltDeathsquadWebbingFilled = deathsquad operative chestrig
+    .desc = A robust and durable chestrig, containing everything you need to keep you in the fight. You probably won't need to use it.
+    .suffix = Filled, DO NOT MAP
+
 ent-ClothingBeltHolsterFilledCentComm = { ent-ClothingBeltHolster }
-    .suffix = Заполненный, N1984
     .desc = { ent-ClothingBeltHolster.desc }
+    .suffix = Filled, N1984
+
 ent-ClothingBeltSecurityWebbingFilledMedical = { ent-ClothingBeltSecurityWebbingMedical }
-    .suffix = Заполненный
     .desc = { ent-ClothingBeltSecurityWebbingMedical.desc }
+    .suffix = Filled
+
 ent-ClothingBeltSheathFilledNavyOfficer = { ent-ClothingBeltSheath }
-    .suffix = Заполненный, Офицер флота
     .desc = { ent-ClothingBeltSheath.desc }
+    .suffix = Filled, Navy Officer
+
 ent-ClothingBeltSheathHeadOfSecurityFilled = { ent-ClothingBeltSheathHeadOfSecurity }
-    .suffix = Заполненный, Начальник службы безопасности
     .desc = { ent-ClothingBeltSheathHeadOfSecurity.desc }
+    .suffix = Filled, Head Of Security
+
 ent-ClothingBeltCorporateJudoFilled = { ent-ClothingBeltCorporateJudo }
-    .suffix = Заполненный
     .desc = { ent-ClothingBeltCorporateJudo.desc }
-ent-ClothingBeltHolsterFilledChaplain = Кобура капеллана
-    .desc = Плечевая кобура от богов. Внутри пара пистолетов.
-    .suffix = Заполненная, Капеллан
-ent-ClothingBeltAssaultFilled = { ent-ClothingBeltAssault }
-    .suffix = Заполненный, BSO
-    .desc = { ent-ClothingBeltAssault.desc }
+    .suffix = Filled
+
+ent-ClothingBeltHolsterFilledChaplain = Chaplains' Holster
+    .desc = A shoulder holster from the Gods. Contains a set of dual pistols.
+    .suffix = Filled, Chaplain
+
+ent-ClothingBeltAssaultFilled = { ent-ClothingBeltMilitaryWebbing }
+    .desc = { ent-ClothingBeltMilitaryWebbing.desc }
+    .suffix = Filled, ERT
+
 ent-ChemBagFilled = { ent-ChemBag }
-    .suffix = Заполненная
     .desc = { ent-ChemBag.desc }
+    .suffix = Filled
+
 ent-ClothingBeltChemBagSyndiFilled = { ent-ClothingBeltChemBagSyndi }
-    .suffix = Заполненная
     .desc = { ent-ClothingBeltChemBagSyndi.desc }
-ent-ClothingBeltHolsterFilledBlueshield = { ent-ClothingBeltHolster }
-    .suffix = Заполненная, EG-4
-    .desc = { ent-ClothingBeltHolster.desc }
+    .suffix = Filled
+
 ent-ClothingBeltMilitaryRigGrenadierFilled = { ent-ClothingBeltMilitaryRigGrenadier }
-    .suffix = Комплект гренадёра, заполненный
     .desc = { ent-ClothingBeltMilitaryRigGrenadier.desc }
+    .suffix = Grenadier bundle, filled
