@@ -4,4 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ent-ClothingUnderSocksCoder = linq socks
+# SIS-Empty_Entity_File Start
+# ent-ClothingUnderSocksCoder = linq socks
+# SIS-Empty_Entity_File End
