@@ -1,0 +1,24 @@
+ent-BaseWeaponRifle = BaseWeaponRifle
+    .desc = A rooty tooty point and shooty.
+
+ent-WeaponRifleAk = AKM
+    .desc = A somewhat battered combat rifle of a design originating from old Earth. Favored by criminals, militias, and terrorists due to its famed reliability and easy-to-manufacture design. Feeds from .30 rifle magazines.
+
+ent-WeaponRifleM90GrenadeLauncher = M90 GL
+    .desc = 
+        An older bullpup carbine model, with an attached underbarrel grenade launcher.
+        Feeds from .20 rifle magazines.
+
+ent-WeaponRifleLecter = Lecter
+    .desc = 
+        Popular gas-operated combat rifle used heavily by Nanotrasen and SolGov. Operating in semi or fully automatic, its accuracy, stopping power, and reliability make it excel in all manner of environments.
+        Feeds from .20 rifle magazines.
+
+ent-WeaponRifleLecterXL8 = XL8
+    .desc = 
+        The Experimental Lecter 8
+        An unreasonably expensive military grade assault rifle with integrated optic.
+        Uses .20 rifle ammo.
+
+ent-WeaponRifleEstoc = Estoc
+    .desc = A designated assault rifle with a scope, favored for medium-to-long range engagements. Uses .20 rifle ammo.

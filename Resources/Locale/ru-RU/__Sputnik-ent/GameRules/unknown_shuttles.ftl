@@ -1,0 +1,20 @@
+ent-BaseUnknownShuttleRule = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+
+ent-BaseUnknownShuttleAnnouncedRule = { ent-BaseUnknownShuttleRule }
+    .desc = { ent-BaseUnknownShuttleRule.desc }
+
+ent-UnknownShuttleHonki = { ent-BaseUnknownShuttleAnnouncedRule }
+    .desc = { ent-BaseUnknownShuttleAnnouncedRule.desc }
+
+ent-UnknownShuttleSyndieEvacPod = { ent-BaseUnknownShuttleRule }
+    .desc = { ent-BaseUnknownShuttleRule.desc }
+
+ent-UnknownShuttleNTQuark = { ent-BaseUnknownShuttleRule }
+    .desc = { ent-BaseUnknownShuttleRule.desc }
+
+ent-UnknownShuttleInstigator = { ent-BaseUnknownShuttleRule }
+    .desc = { ent-BaseUnknownShuttleRule.desc }
+
+ent-UnknownShuttleManOWar = { ent-BaseUnknownShuttleRule }
+    .desc = { ent-BaseUnknownShuttleRule.desc }
