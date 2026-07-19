@@ -337,11 +337,11 @@ public sealed partial class SurgeryBui : BoundUserInterface
 
         if (_entMan.TryGetComponent(_part, out MetaDataComponent? partMeta) &&
             _entMan.TryGetComponent(_surgery?.Ent, out MetaDataComponent? surgeryMeta))
-            _window.Title = $"Surgery - {partMeta.EntityName}, {surgeryMeta.EntityName}";
+            _window.Title = $"Хирургия - {partMeta.EntityName}, {surgeryMeta.EntityName}"; // SIS-TODO: Анхаркод локали
         else if (partMeta != null)
-            _window.Title = $"Surgery - {partMeta.EntityName}";
+            _window.Title = $"Хирургия - {partMeta.EntityName}"; // SIS-TODO: Анхаркод локали
         else
-            _window.Title = "Surgery";
+            _window.Title = "Хирургия"; // SIS-TODO: Анхаркод локали
     }
 
     private enum ViewType

@@ -1,32 +1,32 @@
-condition-body-trauma-BoneDamage-Normal = • У { $woundable } есть небольшие повреждения костей.
-condition-body-trauma-BoneDamage-Damaged = • У { $woundable } есть повреждения костей.
-condition-body-trauma-BoneDamage-Cracked = • Кость { $woundable } почти треснула...
-condition-body-trauma-BoneDamage-Broken = • Кость { $woundable } сломана!
-condition-body-trauma-OrganDamage = • У { $woundable } есть повреждения органов.
-condition-body-trauma-VeinsDamage = • У { $woundable } есть повреждения вен.
-condition-body-trauma-NerveDamage = • У { $woundable } есть повреждения нервов.
-condition-body-trauma-Dismemberment = • Удалён { $targetSymmetry }{ $targetType }...
-condition-body-pain-decreased = • Нервы { $woundable } онемели.
-condition-body-pain-increased = • Нервы { $woundable } стали необычно чувствительными.
-condition-body-unrevivable = • У { $entity } слабое здоровье. Они не выдерживают разряд дефибриллятора.
-condition-body-bleeding = • У { $entity } кровотечение.
-condition-organ-damage-Normal = • { $organ } в основном в порядке.
-condition-organ-damage-Damaged = • { $organ } повреждён.
-condition-organ-damage-Destroyed = • { $organ } разрушен...
-condition-organ-rotting = • { $organ } гниёт!
-condition-none = • Нет обнаруженных состояний.
-group-organ-status = { $organ } функционирует на { $capacity }%
-group-solution-name = { $solution }
+# inky start
+
+health-analyzer-window-entity-bpm-text = ЧСС
+health-analyzer-window-entity-bpm-value-text = {$bpm} уд/мин
+health-analyzer-window-entity-bpm-stopped-text = Остановка сердца
+
+condition-heart-fibrillating = • [color=orange]Сердце {$entity} фибриллирует![/color]
+condition-heart-stopped = • [color=red]Сердце {$entity} остановилось.[/color]
+
+# inky end
+condition-body-trauma-BoneDamage-Normal = • {$woundable} имеет очень незначительное повреждение кости.
+condition-body-trauma-BoneDamage-Damaged = • Кость {$woundable} немного повреждена.
+condition-body-trauma-BoneDamage-Cracked = • Кость {$woundable} выглядит почти сломанной...
+condition-body-trauma-BoneDamage-Broken = • Кость {$woundable} сломана!
+condition-body-trauma-OrganDamage = • {$woundable} имеет некоторые повреждения органов.
+condition-body-trauma-VeinsDamage = • {$woundable} имеет некоторые повреждения вен.
+condition-body-trauma-Dismemberment = • {$targetSymmetry}{$targetType} была удалена...
+condition-body-unrevivable = • {$entity} обладает особенно слабым организмом. Он не выдержит удара дефибриллятора.
+condition-body-bleeding = • {$entity} истекает кровью.
+
+condition-organ-damage-Normal = • {$organ} в основном в хорошем состоянии.
+condition-organ-damage-Damaged = • {$organ} повреждён.
+condition-organ-damage-Destroyed = • {$organ} разрушен...
+condition-organ-rotting = • {$organ} гниёт!
+
+condition-none = • Состояний не обнаружено.
+group-organ-status = {$organ} работает на {$capacity}% мощности
+group-solution-name = {$solution}
 group-solution-unknown = Неизвестно
-group-solution-contents = { $reagent }: { $quantity }
-condition-body-bleeding-Head = • Кровотечение из головы у { $entity }.
-condition-body-bleeding-Chest = • Кровотечение из груди у { $entity }.
-condition-body-bleeding-Groin = • Кровотечение из паха у { $entity }.
-condition-body-bleeding-LeftArm = • Кровотечение из левой руки у { $entity }.
-condition-body-bleeding-RightArm = • Кровотечение из правой руки у { $entity }.
-condition-body-bleeding-LeftLeg = • Кровотечение из левой ноги у { $entity }.
-condition-body-bleeding-RightLeg = • Кровотечение из правой ноги у { $entity }.
-condition-body-bleeding-LeftHand = • Кровотечение из левой кисти у { $entity }.
-condition-body-bleeding-RightHand = • Кровотечение из правой кисти у { $entity }.
-condition-body-bleeding-LeftFoot = • Кровотечение из левой стопы у { $entity }.
-condition-body-bleeding-RightFoot = • Кровотечение из правой стопы у { $entity }.
+group-solution-contents = {$reagent}: {$quantity}
+
+condition-body-part-bleeding = • {$part} у {$entity} кровоточит.

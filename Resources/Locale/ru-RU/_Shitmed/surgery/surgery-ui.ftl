@@ -17,4 +17,4 @@ surgery-ui-window-steps-error-armor = Необходимо снять обмур
 surgery-ui-window-steps-error-tools = Отсутствуют инструменты.
 surgery-error-laying = Пациент должен лежать!
 surgery-error-self-surgery = Вы не можете оперировать себя!
-surgery-part-damage-evaded = { $user } едва увернулся!
+surgery-part-damage-evaded = {$user} едва увернулся!
