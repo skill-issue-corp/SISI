@@ -1,4 +1,3 @@
-# SIS-Vanila_Action Start
 name: Diff RSIs
 
 on:
@@ -12,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4.2.2
 
       - name: Get changed files
         id: files
@@ -68,4 +67,3 @@ jobs:
           edit-mode: append
           body: |
             Edit: diff updated after ${{ github.event.pull_request.head.sha }}
-# SIS-Vanila_Action End

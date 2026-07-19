@@ -1,5 +1,8 @@
-# SIS-Vanila_Action Start
 name: CRLF Check
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 on:
   pull_request:
@@ -11,7 +14,6 @@ jobs:
     if: github.event.pull_request.draft == false
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v7
+    - uses: actions/checkout@v4.2.2
     - name: Check for CRLF
       run: Tools/check_crlf.py
-# SIS-Vanila_Action End
