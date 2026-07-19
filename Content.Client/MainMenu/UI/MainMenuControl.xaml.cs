@@ -51,8 +51,8 @@ public sealed partial class MainMenuControl : Control
         // to update an allowlist than to randomly get an ugly one to fix a blocklist.
         BackgroundParallax.ParallaxPrototype = _random.Pick(Parallaxes).Id;
 
-        //var logoTexture = resCache.GetResource<TextureResource>("/Textures/Logo/logo.png"); // SIS
-        //Logo.Texture = logoTexture; // SIS
+        var logoTexture = resCache.GetResource<TextureResource>("/Textures/Logo/logo.png");
+        // Logo.Texture = logoTexture; // SIS-Full-Screen-Logo
 
         var currentUserName = configMan.GetCVar(CVars.PlayerName);
         UsernameBox.Text = currentUserName;
