@@ -1,26 +1,26 @@
-ent-GoldChemistryVial = { ent-BaseChemistryEmptyVial }
-    .suffix = Золото
-    .desc = { ent-BaseChemistryEmptyVial.desc }
-ent-SilverChemistryVial = { ent-BaseChemistryEmptyVial }
-    .suffix = Серебро
-    .desc = { ent-BaseChemistryEmptyVial.desc }
-ent-UraniumChemistryVial = { ent-BaseChemistryEmptyVial }
-    .suffix = Ураниум
-    .desc = { ent-BaseChemistryEmptyVial.desc }
-ent-TirimolChemistryVial = { ent-BaseChemistryEmptyVial }
-    .suffix = Тируемол
-    .desc = { ent-BaseChemistryEmptyVial.desc }
-ent-OmnizineChemistryVial = { ent-BaseChemistryEmptyVial }
-    .suffix = Омнизин
-    .desc = { ent-BaseChemistryEmptyVial.desc }
-ent-SyriniverChemistryVial = { ent-BaseChemistryEmptyVial }
-    .suffix = Сиринивер
-    .desc = { ent-BaseChemistryEmptyVial.desc }
-ent-ProcenylLazideChemistryVial = { ent-BaseChemistryEmptyVial }
-    .suffix = Проценил-лазид
-    .desc = { ent-BaseChemistryEmptyVial.desc }
-ent-EbifinlLazideChemistryVial = { ent-BaseChemistryEmptyVial }
-    .suffix = Эбифин
-    .desc = { ent-BaseChemistryEmptyVial.desc }
-ent-BluespaceChemistryVial = блюспейс пробирка
-    .desc = Она глубже внутри!
+ent-GoldChemistryVial = { ent-ChemistryEmptyVial }
+    .desc = { ent-ChemistryEmptyVial.desc }
+    .suffix = золотой
+
+ent-SilverChemistryVial = { ent-ChemistryEmptyVial }
+    .desc = { ent-ChemistryEmptyVial.desc }
+    .suffix = серебряный
+
+ent-UraniumChemistryVial = { ent-ChemistryEmptyVial }
+    .desc = { ent-ChemistryEmptyVial.desc }
+    .suffix = урановый
+
+ent-TirimolChemistryVial = { ent-ChemistryEmptyVial }
+    .desc = { ent-ChemistryEmptyVial.desc }
+    .suffix = тиримоловый
+
+ent-OmnizineChemistryVial = { ent-ChemistryEmptyVial }
+    .desc = { ent-ChemistryEmptyVial.desc }
+    .suffix = омнизиновый
+
+ent-ProcenylLazideChemistryVial = { ent-ChemistryEmptyVial }
+    .desc = { ent-ChemistryEmptyVial.desc }
+    .suffix = процениллазидный
+
+ent-BluespaceChemistryVial = синепространственный флакон
+    .desc = Внутри он длиннее, чем снаружи!

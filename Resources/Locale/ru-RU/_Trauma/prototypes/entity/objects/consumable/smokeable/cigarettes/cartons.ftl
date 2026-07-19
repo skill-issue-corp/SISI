@@ -1,23 +1,25 @@
-ent-CigCartonGreen = Картонная упаковка Newstation
-    .desc = Картонная упаковка, содержащий 6 пачек Newstation.
-
-ent-CigCartonRed = Картонная упаковка Dromad Red 99
-    .desc = Картонная упаковка, содержащий 6 пачек Dromad Red 99s.
-
-ent-CigCartonBlack = Картонная упаковка Solaria
-    .desc = Картонная упаковка, содержащий 6 пачек Solaria.
-
-ent-CigCartonBlue = Картонная упаковка Sodfield Blue
-    .desc = Картонная упаковка, содержащий 6 пачек Sodfield Blues.
-
-ent-CigCartonMixed = Картонная упаковка пропитанных сигарет Дэна
-    .desc = Картонная упаковка, содержащий 6 пачек пропитанных сигарет Дэна.
-
-ent-CigCartonSyndicate = Картонная упаковка Interdyne Herbals
-    .desc = Картонная упаковка, содержащий 6 пачек Interdyne Herbals.
-
-ent-CigCartonMedical = Картонная упаковка ChemLab Menthols
-    .desc = Картонная упаковка, содержащий 6 пачек ChemLab Menthols.
-
-ent-CigCartonBotany = Картонная упаковка Hydroponic Herbals
-    .desc = Картонная упаковка, содержащий 6 пачек Hydroponic Herbals.
+# SIS-Empty_Entity_File Start
+# ent-CigCartonGreen = Newstation Carton
+#     .desc = A carton containing 6 packs of Newstations.
+#
+# ent-CigCartonRed = Dromad Red 99 Carton
+#     .desc = A carton containing 6 packs of Dromad Red 99s.
+#
+# ent-CigCartonBlack = Solaria Carton
+#     .desc = A carton containing 6 packs of Solaria.
+#
+# ent-CigCartonBlue = Sodfield Blue Carton
+#     .desc = A carton containing 6 packs of Sodfield Blues.
+#
+# ent-CigCartonMixed = Dan's Soaked Smokes Carton
+#     .desc = A carton containing 6 packs of Dan's Soaked Smokes.
+#
+# ent-CigCartonSyndicate = Interdyne Herbals Carton
+#     .desc = A carton containing 6 packs of Interdyne Herbals.
+#
+# ent-CigCartonMedical = ChemLab Menthols Carton
+#     .desc = A carton containing 6 packs of ChemLab Menthols.
+#
+# ent-CigCartonBotany = Hydroponic Herbals Carton
+#     .desc = A carton containing 6 packs of Hydroponic Herbals.
+# SIS-Empty_Entity_File End

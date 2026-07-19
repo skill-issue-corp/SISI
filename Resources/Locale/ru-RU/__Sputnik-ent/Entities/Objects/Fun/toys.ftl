@@ -1,79 +1,36 @@
-ent-BaseStash = { "" }
-    .desc = { "" }
-# SIS-Start
-# ent-CardSword = картонный меч
-#     .desc = Картонная трубка, превращённая в меч.
-# ent-ToyRubberDuck = резиновая уточка
-#     .desc = Не занесена сюда океанскими течениями.
-# SIS-End
-ent-BaseFigurineCheapo = фигурка
-    .desc = Небольшая миниатюра.
-# SIS-Start
-# ent-ToyAi = игрушечный ИИ
-#     .desc = Уменьшенное игрушечное ядро искусственного интеллекта.
-# ent-BaseRubberToy = { ent-BaseItem }
-#     .desc = { ent-BaseItem.desc }
-# ent-ToyNuke = игрушечная ядерка
-#     .desc = Пластиковая модель взрывного ядерного устройства. Без урана внутри... скорее всего.
-# ent-ToyIan = игрушечный иан
-#     .desc = Не может кушать, но такой же пушистый, как настоящий!
-# SIS-End
-ent-FoamWeaponBase = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
-# SIS-Start
-# ent-FoamCrossbow = поролоновый арбалет
-#     .desc = Целясь этим в офицеров, будьте готовы словить свинца.
-# SIS-End
-ent-ToyGunBase = ToyGunBase
-    .desc = Дерзай — налетай, целься и стреляй.
-# SIS-Start
-# ent-RevolverCapGun = игрушечный пистолет
-#     .desc = Выглядит почти как настоящий! От 8 лет и старше.
-# ent-RevolverCapGunFake = { ent-RevolverCapGun }
-#     .desc = { ent-RevolverCapGun.desc }
-#     .suffix = Боевой
-# ent-FoamBlade = пеноклинок
-#     .desc = Полустёртая надпись на нём выглядит непонятной игрой слов с использованием местных идиоматических выражений.
-# ent-Basketball = баскетбольный мяч
-#     .desc = Где спортивная площадка?
-# ent-Football = мяч для регби
-#     .desc = Рукояйцо, не для игры в ногомяч.
-# ent-BeachBall = пляжный мяч
-#     .desc = Простой пляжный мяч — один из самых популярных продуктов компании Nanotrasen. 'Почему мы делаем пляжные мячи? Потому что мы можем! (TM)' — Nanotrasen.
-# ent-BalloonSyn = воздушный шарик Синдиката
-#     .desc = Вручается смелейшим из смелейших, пережившим аттракцион "Атомный смерч" в Синдиленде.
-# ent-BalloonCorgi = воздушный шарик корги
-#     .desc = То же, что и владеть настоящей собакой — только гораздо более летучей.
-# ent-SingularityToy = игрушечная сингулярность
-#     .desc = Массово производится корпоративным конгломератом садистов!
-# ent-TeslaToy = Тедди Теслы
-#     .desc = Любимая игрушка великого инженера Николы Теслы.
-# ent-BalloonNT = воздушный шарик Nanotrasen
-#     .desc = Разработан специально для причинения максимального психологического вреда оперативникам Синдиката.
-# ent-PonderingOrb = шар размышлений
-#     .desc = Ponderous, man... Really ponderous.
-# ent-ToySword = игрушечный меч
-#     .desc = Новый пластиковый меч от Sandy-Cat! Имеет реалистичный звук и насыщенный цвет! Почти как настоящий!
-# ent-ToyAmongPequeno = маленький амонг
-#     .desc = Сас!
-# ent-FoamCutlass = игрушечная абордажная сабля
-#     .desc = Переоденьтесь в пирата и заставьте своих друзей пройти по доске.
-#     .suffix = Волшебник
-# ent-ClownRecorder = клоунский диктофон
-#     .desc = Когда не удаётся рассмешить окружающих естественным способом!
-# ent-ToyHammer = резиновый молоток
-#     .desc = Ярко раскрашенный молоток из резины.
-# ent-WhoopieCushion = подушка-пердушка
-#     .desc = Устройство для розыгрышей, связанных с метеоризмом.
-# SIS-End
+ent-SnapPop = хлопушка
+    .desc = Бросьте её на пол и послушайте, как она ХЛОПНЕТ!
+
+ent-SnapPopBox = коробка хлопушек
+    .desc = Содержит хлопушки на несколько минут веселья!
+
 ent-PlasticBanana = банан
     .desc = Пластиковый банан.
     .suffix = Пластик
-ent-CrazyGlue = тюбик сумасшедшего клея
-    .desc = Бутылка сумасшедшего клея производства компании Honk! Co.
-# SIS-Start
-# ent-NewtonCradle = колыбель Ньютона
-#     .desc = Устройство, которое скучающие бумагомаратели используют, дабы напомнить себе, что время ещё не остановилось. Содержит гравитацию.
-# ent-RubberChicken = резиновая курочка
-#     .desc = Вызывающая стресс пародия на самое аппетитное пернатое в природе.
-# SIS-End
+
+ent-CrazyGlue = сумасшедший клей
+    .desc = Бутылка сумасшедшего клея производства Honk! Co.
+
+ent-CrazyLube = сумасшедшая смазка
+    .desc = Бутылка супер скользкой сумасшедшей смазки производства Honk! Co.
+
+ent-MrChips = мистер Чипс
+    .desc = Это манекен, дурачок!
+    .suffix = Манекен
+
+ent-MrDips = мистер Дипс
+    .desc = { ent-MrChips.desc }
+
+ent-Error = ошибка
+    .desc = Хмммм. Что-то пошло не так.
+
+ent-SpectralLocatorUnpowered = спектральный локатор
+    .desc = Похоже на модифицированный локатор аномалий. Выглядит очень старым.
+    .suffix = Всегда запитан
+
+ent-SpectralLocator = { ent-SpectralLocatorUnpowered }
+    .desc = { ent-SpectralLocatorUnpowered.desc }
+
+ent-SpectralLocatorEmpty = { ent-SpectralLocator }
+    .desc = { ent-SpectralLocator.desc }
+    .suffix = Пусто

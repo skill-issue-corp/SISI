@@ -1,46 +1,57 @@
 ent-ClothingHandsGlovesChronoLegioneer = футуристические перчатки
-    .desc = Футуристические перчатки из неизвестного материала, который не оставляет следов.
+    .desc = Футуристические перчатки из неизвестного материала, не оставляющего никаких следов.
+
 ent-ClothingHandsGlovesChronoLegioneerUnremoveable = { ent-ClothingHandsGlovesChronoLegioneer }
-    .suffix = Неснимаемый
     .desc = { ent-ClothingHandsGlovesChronoLegioneer.desc }
+    .suffix = Несъёмные
+
 ent-ClothingHandsGlovesExplosiveShock = { ent-ClothingHandsGlovesColorYellow }
+    .desc = { ent-ClothingHandsGlovesColorYellow.desc }
     .suffix = Взрывающиеся
-    .desc = { ent-ClothingHandsGlovesColorYellow.desc }
-ent-ClothingHandsGlovesDeathsquad = силовые перчатки mk-3 "Редактор"
-    .desc = Пара высокотехнологичных рукавиц, способных разрывать двери. Их встроенные когти пропитаны сильным нейротоксином.
+
+ent-ClothingHandsGlovesDeathsquad = силовые перчатки mk-3 "редактор"
+    .desc = Пара высокотехнологичных перчаток, способных разрывать двери. Их выдвижные когти покрыты мощным нейротоксином.
     .suffix = НЕ МАППИТЬ
+
 ent-ClothingHandsGlovesDeathsquadUnremovable = { ent-ClothingHandsGlovesDeathsquad }
-    .suffix = Неснимаемый
     .desc = { ent-ClothingHandsGlovesDeathsquad.desc }
-ent-ClothingHandsGlovesAtmosInsulated = атмосферные изолированные перчатки
-    .desc = Как обычные изолированные перчатки, но лучше, потому что из отдела атмосферных систем.
+    .suffix = Несъёмные
+
+ent-ClothingHandsGlovesAtmosInsulated = изолированные атмос-перчатки
+    .desc = Как обычные изолированные перчатки, но просто лучше, ведь они из отдела атмосферики.
+
 ent-ClothingHandsGlovesHeavyGoldenTrim = тяжёлые перчатки с золотой отделкой
-    .desc = Пара перчаток с золотой отделкой для сотрудников Центрального Командования. Эти изолированы.
+    .desc = Пара перчаток с золотой отделкой, изготовленных для сотрудников Центрального Командования. Эти изолированы.
+
 ent-ClothingHandsGlovesGoldenTrim = перчатки с золотой отделкой
-    .desc = Пара перчаток с золотой отделкой для сотрудников Центрального Командования. Не изолированы.
+    .desc = Пара перчаток с золотой отделкой, изготовленных для сотрудников Центрального Командования. Не изолированы.
+
 ent-ClothingHandsGlovesConquest = вилтрумитский протез
-    .desc = Готовься к моему приходу, червь.
+    .desc = Готовься к моему прибытию, червь.
+
 ent-ClothingHandsGlovesConquestUnremovable = вилтрумитский протез
-    .desc = Готовься к моему приходу, червь.
-    .suffix = Неснимаемый
+    .desc = Готовься к моему прибытию, червь.
+    .suffix = Несъёмные
+
 ent-ClothingHandsGlovesColorYellowUnremovable = { ent-ClothingHandsGlovesColorYellow }
-    .suffix = Неснимаемый
     .desc = { ent-ClothingHandsGlovesColorYellow.desc }
+    .suffix = Несъёмные
+
 ent-ClothingHandsKnuckleDustersBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-ent-ClothingHandsKnuckleDusters = кастеты
-    .desc = Прочные кастеты из пластстали. Делают твои удары гораздо тяжелее.
-ent-ClothingHandsKnuckleDustersBrass = латунные кастеты
-    .desc = Латунные кастеты. Как раньше делали, и удар такой же сильный.
-ent-ClothingHandsKnuckleDustersSyndicate = синдикатские кастеты
-    .desc = Кастеты из пластитания с логотипом синдиката. Настоящий мужчина убьёт кого-то с их помощью.
+
+ent-ClothingHandsKnuckleDusters = кастет
+    .desc = Прочный кастет из пласталя. Придаёт вашим ударам куда больше веса.
+
+ent-ClothingHandsKnuckleDustersBrass = латунный кастет
+    .desc = Латунный кастет. Сделан так же, как делали раньше, и бьёт всё так же сильно.
+
+ent-ClothingHandsKnuckleDustersSyndicate = кастет Синдиката
+    .desc = Пласттитановый кастет с логотипом Синдиката. Настоящий мужчина забивает кого-нибудь до смерти именно таким.
+
 ent-ClothingHandsKnuckleDustersQM = гравированный кастет квартирмейстера
-    .desc = Кастет, выкованный лучшими мастерами по заказу квартирмейстера, твёрдый и плотный, предназначен для сокрушительных ударов и повреждения внутренних органов несчастной жертвы.
+    .desc = Выкованный лучшими мастерами по заказу квартирмейстера, этот твёрдый и плотный кастет предназначен для нанесения костедробящих ударов и повреждения внутренних органов незадачливой жертвы.
     .suffix = НЕ МАППИТЬ
-ent-ClothingHandsKnucklesQuartermaster = гравированный кастет квартирмейстера
-    .desc = Кастет, выкованный лучшими мастерами по заказу квартирмейстера, твёрдый и плотный, предназначен для сокрушительных ударов и повреждения внутренних органов несчастной жертвы.
-    .suffix = НЕ МАППИТЬ
-ent-ClothingHandsGlovesGuerrilla = перчатки партизана
-    .desc = Боевые перчатки превосходного качества, подходящие как для захватов, так и для защиты от электрических зарядов.
-ent-ClothingHandsKnuckleBoneCrushers = дробители костей
-    .desc = Благословлены богами, чтобы разбивать всех непокорных.
+
+ent-ClothingHandsKnuckleBoneCrushers = костедробители
+    .desc = Благословлены богами для того, чтобы сокрушать всех непокорных.

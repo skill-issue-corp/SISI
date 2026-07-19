@@ -1,42 +1,53 @@
 ent-LockerWardenFilledHardsuit = { ent-LockerWarden }
-    .suffix = Заполненный, Скафандр
     .desc = { ent-LockerWarden.desc }
+    .suffix = Заполнен, скафандр
+
 ent-LockerWardenFilled = { ent-LockerWarden }
-    .suffix = Заполненный
     .desc = { ent-LockerWarden.desc }
+    .suffix = Заполнен
+
 ent-LockerSecurityFilled = { ent-LockerSecurity }
-    .suffix = Заполненный
     .desc = { ent-LockerSecurity.desc }
+    .suffix = Заполнен
+
 ent-LockerBrigmedicFilled = { ent-LockerBrigmedic }
-    .suffix = Бригмедик, Заполненный
     .desc = { ent-LockerBrigmedic.desc }
+    .suffix = Бригмедик, заполнен
+
 ent-LockerDetectiveFilled = { ent-LockerDetective }
-    .suffix = Заполненный
     .desc = { ent-LockerDetective.desc }
+    .suffix = Заполнен
+
 ent-ClosetBombFilled = { ent-ClosetBomb }
-    .suffix = Заполненный
     .desc = { ent-ClosetBomb.desc }
-ent-GunSafeDisabler = оружейный сейф станнеров
-    .suffix = Станнер
-    .desc = { ent-GunSafe.desc }
-ent-GunSafePistolMk58 = оружейный сейф MK58
-    .suffix = MK58
-    .desc = { ent-GunSafe.desc }
-ent-GunSafeRifleLecter = оружейный сейф Лектеров
-    .suffix = Лектер
-    .desc = { ent-GunSafe.desc }
-ent-GunSafeSubMachineGunDrozd = оружейный сейф Дроздов
-    .suffix = Дрозд
-    .desc = { ent-GunSafe.desc }
-ent-GunSafeShotgunEnforcer = оружейный сейф Силовиков
-    .suffix = Силовик
-    .desc = { ent-GunSafe.desc }
-ent-GunSafeShotgunKammerer = оружейный сейф Каммереров
-    .suffix = Каммерер
-    .desc = { ent-GunSafe.desc }
-ent-GunSafeSubMachineGunWt550 = оружейный сейф WT550
-    .suffix = WT550
-    .desc = { ent-GunSafe.desc }
-ent-GunSafeLaserCarbine = оружейный сейф лазерных карабинов
-    .suffix = Лазерный карабин
-    .desc = { ent-GunSafe.desc }
+    .suffix = Заполнен
+
+ent-GunSafeDisabler = сейф для дизабл еров
+    .desc = { ent-GunSafeBaseSecure.desc }
+
+ent-GunSafePistolMk58 = сейф для mk58
+    .desc = { ent-GunSafeBaseSecure.desc }
+
+ent-GunSafeRifleLecter = сейф для лектера
+    .desc = { ent-GunSafeBaseSecure.desc }
+    .suffix = Лектер, замок по уровню тревоги
+
+ent-GunSafeSubMachineGunDrozd = сейф для дрозда
+    .desc = { ent-GunSafeBaseSecure.desc }
+    .suffix = Дрозд, замок по уровню тревоги
+
+ent-GunSafeShotgunEnforcer = сейф для энфорсера
+    .desc = { ent-GunSafeBaseSecure.desc }
+    .suffix = Энфорсер, замок по уровню тревоги
+
+ent-GunSafeShotgunKammerer = сейф для каммерера
+    .desc = { ent-GunSafeBaseSecure.desc }
+    .suffix = Каммерер, замок по уровню тревоги
+
+ent-GunSafeSubMachineGunWt550 = сейф для wt550
+    .desc = { ent-GunSafeBaseSecure.desc }
+    .suffix = wt550, замок по уровню тревоги
+
+ent-GunSafeLaserCarbineOutdated = сейф для лазерных карабинов
+    .desc = { ent-GunSafeBaseSecure.desc }
+    .suffix = Карбид, замок по уровню тревоги

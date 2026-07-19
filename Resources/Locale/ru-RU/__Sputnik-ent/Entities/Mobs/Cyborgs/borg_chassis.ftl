@@ -1,23 +1,48 @@
 ent-BorgChassisSelectable = { ent-BaseBorgChassisNT }
     .desc = { ent-BaseBorgChassisNT.desc }
-ent-BorgChassisGeneric = обычный борг
-    .suffix = Выбранный тип
+
+ent-BorgChassisGeneric = стандартный киборг
     .desc = { ent-BorgChassisSelectable.desc }
-ent-BorgChassisMining = борг-шахтёр
+    .suffix = тип выбран
+
+ent-BorgChassisMining = киборг-шахтёр
     .desc = { ent-BorgChassisSelectable.desc }
-ent-BorgChassisEngineer = борг-инженер
+
+ent-BorgChassisEngineer = киборг-инженер
     .desc = { ent-BorgChassisSelectable.desc }
-ent-BorgChassisJanitor = борг-уборщик
+
+ent-BorgChassisJanitor = киборг-уборщик
     .desc = { ent-BorgChassisSelectable.desc }
-ent-BorgChassisMedical = борг-доктор
+
+ent-BorgChassisMedical = киборг-медик
     .desc = { ent-BorgChassisSelectable.desc }
-ent-BorgChassisService = борг-официант
+
+ent-BorgChassisService = киборг-сервиса
     .desc = { ent-BorgChassisSelectable.desc }
-ent-BorgChassisSyndicateAssault = штурмовой борг Синдиката
-    .desc = Машина для убийств с доступом к различным смертоносным модулям.
-ent-BorgChassisSyndicateMedical = медицинский борг Синдиката
-    .desc = Боевой медицинский борг. Имеет ограниченный наступательный потенциал, но с лихвой компенсирует его своими вспомогательными возможностями.
-ent-BorgChassisSyndicateSaboteur = саботажный борг Синдиката
-    .desc = Изящный инженерный борг, оснащённый модулями скрытности. Проектор-хамелеон позволяет ему маскироваться под борга NanoTrasen.
-ent-BorgChassisDerelict = заброшенный борг
-    .desc = Гибрид человека и машины, помогающий в работе станции. Этот находится в очень запущенном состоянии.
+
+ent-BorgChassisSyndicateAssault = штурмовой киборг Синдиката
+    .desc = Поджарая, злая машина для убийств с доступом к множеству смертоносных модулей.
+
+ent-BorgChassisSyndicateMedical = медицинский киборг Синдиката
+    .desc = Боевой медицинский киборг. Обладает ограниченным наступательным потенциалом, но с лихвой компенсирует это своими возможностями поддержки.
+
+ent-BorgChassisSyndicateSaboteur = киборг-диверсант Синдиката
+    .desc = Компактный инженерный киборг, оснащённый скрытными модулями. Его хамелеон-проектор позволяет ему маскироваться под киборга Нанотрейзен.
+
+ent-BorgChassisDerelict = заброшенный киборг
+    .desc = Гибрид человека и машины, помогающий в работе станции. Этот пребывает в крайне плачевном состоянии.
+
+ent-EngineeringBorgChassisDerelict = заброшенный киборг-инженер
+    .desc = Гибрид человека и машины, помогающий инженерному отделу. Его поверхность, похоже, испещрена кусками странных кристаллов.
+
+ent-JanitorBorgChassisDerelict = заброшенный киборг-уборщик
+    .desc = Гибрид человека и машины, помогающий отделу обслуживания. Он сам представляет собой больший беспорядок, чем всё, что может убрать.
+
+ent-MedicalBorgChassisDerelict = заброшенный киборг-медик
+    .desc = Гибрид человека и машины, помогающий медицинскому отделу. Иглы этого экземпляра выглядят не слишком стерильно.
+
+ent-MiningBorgChassisDerelict = заброшенный киборг-сальважник
+    .desc = Гибрид человека и машины, помогающий грузовому отделу. Этот повидал не лучшую сторону куска гибтонита.
+
+ent-SyndicateAssaultBorgChassisDerelict = заброшенный штурмовой киборг Синдиката
+    .desc = Поджарая, злая машина для убийств с доступом к множеству смертоносных модулей. Этот скорее ржаво-оранжевый, чем кроваво-красный.

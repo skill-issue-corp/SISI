@@ -1,6 +1,8 @@
-ent-EmpGrenade = ударная ЭМИ-граната
-    .desc = Ударная граната, предназначенная для вывода из строя электронных систем.
-
-ent-PipeBombGunpowder = корпус самодельной бомбы
-
-ent-PipeBombCable = незавершённая самодельная бомба
+# SIS-Empty_Entity_File Start
+# ent-EmpGrenade = impact EMP grenade
+#     .desc = An impact grenade designed to wreak havoc on electronic systems.
+#
+# ent-PipeBombGunpowder = pipe bomb casing
+#
+# ent-PipeBombCable = unfinished pipe bomb
+# SIS-Empty_Entity_File End
