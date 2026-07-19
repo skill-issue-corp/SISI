@@ -7,15 +7,15 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Damage examines
-damage-examinable-verb-text = Damage
-damage-examinable-verb-message = Examine the damage values.
+damage-examinable-verb-text = Урон
+damage-examinable-verb-message = Осмотреть значения урона.
 
-damage-hitscan = hitscan
-damage-projectile = projectile
-damage-melee = melee
-damage-throw = throw
+damage-hitscan = хитскан
+damage-projectile = снаряд
+damage-melee = ближний бой
+damage-throw = бросок
 
-damage-examine = It does the following damage:
-damage-examine-type = It does the following [color=cyan]{$type}[/color] damage:
-damage-value = - [color=red]{$amount}[/color] units of [color=yellow]{$type}[/color].
-damage-none = It does no damage.
+damage-examine = Наносит следующий урон:
+damage-examine-type = Наносит следующий урон типа [color=cyan]{$type}[/color]:
+damage-value = - [color=red]{$amount}[/color] ед. урона типа [color=yellow]{$type}[/color].
+damage-none = Не наносит урона.

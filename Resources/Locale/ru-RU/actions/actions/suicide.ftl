@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-suicide-action-popup = THIS ACTION WILL KILL YOU! Use it again to confirm.
+suicide-action-popup = ЭТО ДЕЙСТВИЕ УБЬЁТ ВАС! Используйте снова для подтверждения.
