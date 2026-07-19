@@ -70,8 +70,10 @@ ent-OrganBaseKidneys = почки
 ent-OrganSpriteHumanInternal = { "" }
     .desc = { "" }
 
-ent-OrganBaseHeadSexed = { "" }
+# SIS-Shitmed Start
+ent-OrganBaseHeadSexed = голова
     .desc = { "" }
 
-ent-OrganBaseTorsoSexed = { "" }
+ent-OrganBaseTorsoSexed = торс
     .desc = { "" }
+# SIS-Shitmed End
