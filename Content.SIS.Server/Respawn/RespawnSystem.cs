@@ -12,14 +12,14 @@ using Robust.Shared.Timing;
 
 namespace Content.SIS.Server.Respawn;
 
-public sealed class RespawnSystem : SharedRespawnSystem
+public sealed partial class RespawnSystem : SharedRespawnSystem
 {
-    [Dependency] private readonly SharedActionsSystem _actions = default!;
-    [Dependency] private readonly GameTicker _ticker = default!;
-    [Dependency] private readonly ISharedAdminLogManager _logManager = default!;
-    [Dependency] private readonly SharedUserInterfaceSystem _ui = default!;
-    [Dependency] private readonly IGameTiming _timing = default!;
-    [Dependency] private readonly SharedMindSystem _mindSystem = default!;
+    [Dependency] private SharedActionsSystem _actions = default!;
+    [Dependency] private GameTicker _ticker = default!;
+    [Dependency] private ISharedAdminLogManager _logManager = default!;
+    [Dependency] private SharedUserInterfaceSystem _ui = default!;
+    [Dependency] private IGameTiming _timing = default!;
+    [Dependency] private SharedMindSystem _mindSystem = default!;
 
     public override void Initialize()
     {

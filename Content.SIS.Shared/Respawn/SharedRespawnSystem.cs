@@ -2,9 +2,9 @@ using Robust.Shared.Timing;
 
 namespace Content.SIS.Shared.Respawn;
 
-public abstract class SharedRespawnSystem : EntitySystem
+public abstract partial class SharedRespawnSystem : EntitySystem
 {
-    [Dependency] private readonly IGameTiming _timing = default!;
+    [Dependency] private IGameTiming _timing = default!;
 
     public TimeSpan GetRespawnCooldown(RespawnStatusComponent comp)
     {

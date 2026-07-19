@@ -9,7 +9,7 @@ namespace Content.SIS.Client.Respawn.UI;
 [GenerateTypedNameReferences]
 public sealed partial class RespawnWindow : DefaultWindow
 {
-    [Dependency] private readonly IEntitySystemManager _entitySystem = default!;
+    [Dependency] private IEntitySystemManager _entitySystem = default!;
 
     private readonly SharedRespawnSystem _respawnSystem;
 
