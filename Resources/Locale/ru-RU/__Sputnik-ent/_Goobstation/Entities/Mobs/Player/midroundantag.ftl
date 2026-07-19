@@ -1,18 +1,23 @@
-ent-MobHumanGreyTide = Грейтайд
-    .desc = { ent-BaseMobHuman.desc }
-ent-MobHumanTunnelClown = Тех-клоун
+ent-MobHumanGreyTide = Грейтайдер
     .desc = { ent-MobHuman.desc }
-ent-MobHumanSingulothKnight = Рыцарь Сингулота
+
+ent-MobHumanTunnelClown = Тоннельный клоун
     .desc = { ent-MobHuman.desc }
+
+ent-MobHumanSingulothKnight = Рыцарь Синглота
+    .desc = { ent-MobHuman.desc }
+
 ent-MobHumanDarkLord = Тёмный лорд
     .desc = { ent-MobHuman.desc }
+
 ent-MobHumanChosenOne = Избранный
     .desc = { ent-MobHuman.desc }
-ent-MobHumanMimeAssassin = Ассамим
+
+ent-MobHumanMimeAssassin = Мим-убийца
     .desc = { ent-MobHuman.desc }
+
 ent-MobHumanDarkPriest = Тёмный жрец
     .desc = { ent-MobHuman.desc }
-ent-MobVoxRaider = Вокс налётчик
+
+ent-MobVoxRaider = Вокс-налётчик
     .desc = { ent-MobVox.desc }
-ent-SantaClaus = Дед Мороз
-    .desc = { ent-BaseMobHuman.desc }

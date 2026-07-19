@@ -1,19 +1,24 @@
 ent-BaseMobDragon = космический дракон
-    .desc = Летающий левиафан, имеющий мало общего с космическими карпами.
+    .desc = Летающий левиафан, отдалённо родственный космическим карпам.
+
 ent-MobDragon = { ent-BaseMobDragon }
     .desc = { ent-BaseMobDragon.desc }
-ent-DragonsBreathGun = драконье лёгкое
-    .desc = Для драконьего дыхания.
+
+ent-DragonsBreathGun = лёгкое дракона
+    .desc = Для дыхания дракона.
+
 ent-MobDragonDungeon = { ent-BaseMobDragon }
-    .suffix = Подземелье
     .desc = { ent-BaseMobDragon.desc }
-ent-ActionSpawnRift = Создать карповый разлом
-    .desc = Создать карповый разлом, который будет периодически призывать карпов.
-ent-ActionDevour = [color=red]Поглотить[/color]
-    .desc = Попытаться разрушить конструкцию своими челюстями или проглотить существо.
-ent-ActionDragonsBreath = [color=orange]Дыхание дракона[/color]
-    .desc = Извергайте пламя на всех, кто поимеет глупость напасть на вас!
-ent-ActionRiseFish = Призыв отряда карпов
-    .desc = Призывает 3 карпов рядом с вами, чтобы они защищали вас от опасности.
-ent-ActionDragonRoar = Взмах крыла
-    .desc = Взмахните крыльями, чтобы оглушить всех врагов вокруг!
+    .suffix = Подземелье
+
+ent-ActionSpawnRift = призвать разлом карпов
+    .desc = Призывает разлом карпов, который периодически порождает карпов.
+
+ent-ActionDevour = [color=red]сожрать[/color]
+    .desc = Попытаться разрушить конструкцию челюстями или проглотить существо.
+
+ent-ActionDragonsBreath = [color=orange]дыхание дракона[/color]
+    .desc = Извергните пламя на любого, кто осмелится напасть на вас!
+
+ent-BloodSmoke = дым
+    .desc = { ent-Smoke.desc }

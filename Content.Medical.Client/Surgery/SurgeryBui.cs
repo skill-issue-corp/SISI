@@ -94,6 +94,10 @@ public sealed partial class SurgeryBui : BoundUserInterface
 
         var oldSurgery = _surgery;
         var oldPart = _part;
+        // inkymed
+        _entMan.TryGetNetEntity(oldPart, out var oldNetPart);
+        var oldSelection = false;
+        // /inkymed
         _part = null;
         _surgery = null;
 
@@ -148,11 +152,18 @@ public sealed partial class SurgeryBui : BoundUserInterface
                     !_entMan.TryGetComponent(surgery, out SurgeryComponent? surgeryComp))
                     continue;
 
-                if (oldPart == entity && oldSurgery?.Proto == surgeryId)
+                if ((oldPart == entity || oldNetPart == netEntity) // inkymed
+                    && oldSurgery?.Proto == surgeryId) // inkymed
+                {
+                    oldSelection = true; // inkymed
                     OnSurgeryPressed((surgery, surgeryComp), netEntity, surgeryId);
+                }
             }
 
-            if (oldPart == entity && oldSurgery == null)
+            // inkymed
+            // if (oldPart == entity && oldSurgery == null)
+            if ((oldPart == entity || oldNetPart == netEntity) // inkymed
+                && !oldSelection) // /inkymed what the FUCK was i smoking
                 OnPartPressed(netEntity, surgeries);
         }
 
@@ -326,11 +337,11 @@ public sealed partial class SurgeryBui : BoundUserInterface
 
         if (_entMan.TryGetComponent(_part, out MetaDataComponent? partMeta) &&
             _entMan.TryGetComponent(_surgery?.Ent, out MetaDataComponent? surgeryMeta))
-            _window.Title = $"Surgery - {partMeta.EntityName}, {surgeryMeta.EntityName}";
+            _window.Title = $"Хирургия - {partMeta.EntityName}, {surgeryMeta.EntityName}"; // SIS-TODO: Анхаркод локали
         else if (partMeta != null)
-            _window.Title = $"Surgery - {partMeta.EntityName}";
+            _window.Title = $"Хирургия - {partMeta.EntityName}"; // SIS-TODO: Анхаркод локали
         else
-            _window.Title = "Surgery";
+            _window.Title = "Хирургия"; // SIS-TODO: Анхаркод локали
     }
 
     private enum ViewType

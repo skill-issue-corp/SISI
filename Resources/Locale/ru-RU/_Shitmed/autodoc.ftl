@@ -1,24 +1,17 @@
-# SPDX-FileCopyrightText: 2024 deltanedas <39013340+deltanedas@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 deltanedas <@deltanedas:kde.org>
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-# SPDX-FileCopyrightText: 2025 JohnOakman <sremy2012@hotmail.fr>
-# SPDX-FileCopyrightText: 2025 Piras314 <p1r4s@proton.me>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
-autodoc-program-step-surgery = провести операцию на { $part }: { $name }
-autodoc-program-step-grab-item = взять предмет: '{ $name }'
-autodoc-program-step-grab-any = взять любой: { $name }
+autodoc-program-step-surgery = провести операцию на {$part}: {$name}
+autodoc-program-step-grab-item = взять предмет: '{$name}'
+autodoc-program-step-grab-any = взять любой: {$name}
 autodoc-item-organ = Орган
 autodoc-item-part = Часть тела
 autodoc-program-step-store-item = положить предмет на хранение
-autodoc-program-step-set-label = установить метку: '{ $label }'
-autodoc-program-step-wait = ждать { $length } секунд
+autodoc-program-step-set-label = установить метку: '{$label}'
+autodoc-program-step-wait = ждать {$length} секунд
+
 autodoc-program-completed = ПРОГРАММА ЗАВЕРШЕНА
-autodoc-error = ОШИБКА: { $error }
-autodoc-fatal-error = ФАТАЛЬНАЯ ОШИБКА: { $error }
+autodoc-error = ОШИБКА: {$error}
+autodoc-fatal-error = ФАТАЛЬНАЯ ОШИБКА: {$error}
 autodoc-waiting = ОЖИДАНИЕ ПРОГРАММЫ
+
 autodoc-error-missing-patient = ПАЦИЕНТ ОТСУТСТВУЕТ
 autodoc-error-body-part = ЧАСТЬ ТЕЛА НЕ ОБНАРУЖЕНА
 autodoc-error-surgery-impossible = ВЫБРАННАЯ ОПЕРАЦИЯ НЕВОЗМОЖНА
@@ -38,11 +31,16 @@ autodoc-error-surgery-failed = ОПЕРАЦИЯ НЕУДАЧНА
 autodoc-error-hand-full = МАНИПУЛЯТОР ПОЛОН
 autodoc-error-storage-full = ХРАНИЛИЩЕ ПРЕДМЕТОВ ЗАПОЛНЕНО
 autodoc-error-patient-unsedated = ПАЦИЕНТ ТРЕБУЕТ СЕДАЦИИ
+
+# These intentionally have russian alongside them for ostranauts-like aesthetic.
+# If you are a russian fork, these don't need translating :)
+# Если вы являетесь русскоязычным форком, то они не нуждаются в переводе :)
 autodoc-title = АвтоДок 人民辉煌自动手术机 MK.XIV
 autodoc-create-program = НОВАЯ ПРОГРАММА 新计划
 autodoc-program-title = НАЗВАНИЕ ПРОГРАММЫ 计划标题
 autodoc-program-title-placeholder = Программа { $number }
 autodoc-abort-program = ОТМЕНИТЬ ПРОГРАММУ 退出
+
 autodoc-view-program-title = ПРОСМОТР ПРОГРАММЫ 查看计划
 autodoc-safety-enabled = БЕЗОПАСНОСТЬ ВКЛ. 确保安全
 autodoc-safety-disabled = БЕЗОПАСНОСТИ ВЫКЛ. 不确保安全
@@ -52,6 +50,7 @@ autodoc-remove-step = УДАЛИТЬ ШАГ 删除一步
 autodoc-start-program = ЗАПУСТИТЬ ПРОГРАММУ 发起光荣人民计划
 autodoc-import-program = ИМПОРТ ПРОГРАММЫ 进口计划
 autodoc-export-program = ЭКСПОРТ ПРОГРАММЫ 出口计划
+
 autodoc-add-step-surgery = НАЧАТЬ ОПЕРАЦИЮ 开始手术
 autodoc-add-step-grab-item = ВЗЯТЬ ПРЕДМЕТ 拿走物品
 autodoc-add-step-grab-item-prompt = Название предмета
@@ -63,6 +62,7 @@ autodoc-add-step-set-label = УСТАНОВИТЬ МЕТКУ 设置标签
 autodoc-add-step-set-label-prompt = Метка
 autodoc-add-step-wait = ЖДАТЬ 等
 autodoc-add-step-wait-prompt = Секунд ожидания
+
 autodoc-body-part-Other = Другое
 autodoc-body-part-Torso = Торс
 autodoc-body-part-Chest = Грудь
@@ -73,8 +73,10 @@ autodoc-body-part-Hand = Кисть
 autodoc-body-part-Leg = Нога
 autodoc-body-part-Foot = Стопа
 autodoc-body-part-Tail = Хвост
+
 autodoc-body-symmetry-ignored = Любая
 autodoc-body-symmetry-None = Нет
 autodoc-body-symmetry-Left = Левая
 autodoc-body-symmetry-Right = Правая
+
 autodoc-submit = Отправить

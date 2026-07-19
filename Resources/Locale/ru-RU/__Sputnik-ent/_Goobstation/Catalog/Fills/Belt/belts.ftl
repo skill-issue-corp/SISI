@@ -1,39 +1,47 @@
 ent-ClothingBeltMilitaryWebbingCMOFilled = { ent-ClothingBeltMilitaryWebbingCMO }
-    .suffix = Заполненный, НЕ ДЛЯ КАРТЫ
     .desc = { ent-ClothingBeltMilitaryWebbingCMO.desc }
-ent-ClothingBeltDeathsquadWebbingFilled = РПС Эскадрона Смерти
-    .desc = Прочная и надёжная разгрузка, содержащая всё необходимое для боя. Возможно, тебе она даже не пригодится.
-    .suffix = Заполненный, НЕ ДЛЯ КАРТЫ
+    .suffix = Заполненный, НЕ МАППИТЬ
+
+ent-ClothingBeltDeathsquadWebbingFilled = разгрузка оперативника отряда смерти
+    .desc = Прочная и надёжная разгрузка, содержащая всё необходимое, чтобы оставаться в бою. Вам вряд ли придётся ею воспользоваться.
+    .suffix = Заполненный, НЕ МАППИТЬ
+
 ent-ClothingBeltHolsterFilledCentComm = { ent-ClothingBeltHolster }
+    .desc = { ent-ClothingBeltHolster.desc }
     .suffix = Заполненный, N1984
-    .desc = { ent-ClothingBeltHolster.desc }
+
 ent-ClothingBeltSecurityWebbingFilledMedical = { ent-ClothingBeltSecurityWebbingMedical }
-    .suffix = Заполненный
     .desc = { ent-ClothingBeltSecurityWebbingMedical.desc }
-ent-ClothingBeltSheathFilledNavyOfficer = { ent-ClothingBeltSheath }
-    .suffix = Заполненный, Офицер флота
-    .desc = { ent-ClothingBeltSheath.desc }
-ent-ClothingBeltSheathHeadOfSecurityFilled = { ent-ClothingBeltSheathHeadOfSecurity }
-    .suffix = Заполненный, Начальник службы безопасности
-    .desc = { ent-ClothingBeltSheathHeadOfSecurity.desc }
-ent-ClothingBeltCorporateJudoFilled = { ent-ClothingBeltCorporateJudo }
     .suffix = Заполненный
+
+ent-ClothingBeltSheathFilledNavyOfficer = { ent-ClothingBeltSheath }
+    .desc = { ent-ClothingBeltSheath.desc }
+    .suffix = Заполненный, офицер флота
+
+ent-ClothingBeltSheathHeadOfSecurityFilled = { ent-ClothingBeltSheathHeadOfSecurity }
+    .desc = { ent-ClothingBeltSheathHeadOfSecurity.desc }
+    .suffix = Заполненный, глава службы безопасности
+
+ent-ClothingBeltCorporateJudoFilled = { ent-ClothingBeltCorporateJudo }
     .desc = { ent-ClothingBeltCorporateJudo.desc }
-ent-ClothingBeltHolsterFilledChaplain = Кобура капеллана
-    .desc = Плечевая кобура от богов. Внутри пара пистолетов.
-    .suffix = Заполненная, Капеллан
-ent-ClothingBeltAssaultFilled = { ent-ClothingBeltAssault }
-    .suffix = Заполненный, BSO
-    .desc = { ent-ClothingBeltAssault.desc }
+    .suffix = Заполненный
+
+ent-ClothingBeltHolsterFilledChaplain = кобура капеллана
+    .desc = Плечевая кобура от богов. Содержит пару пистолетов.
+    .suffix = Заполненный, капеллан
+
+ent-ClothingBeltAssaultFilled = { ent-ClothingBeltMilitaryWebbing }
+    .desc = { ent-ClothingBeltMilitaryWebbing.desc }
+    .suffix = Заполненный, ОБР
+
 ent-ChemBagFilled = { ent-ChemBag }
-    .suffix = Заполненная
     .desc = { ent-ChemBag.desc }
+    .suffix = Заполненный
+
 ent-ClothingBeltChemBagSyndiFilled = { ent-ClothingBeltChemBagSyndi }
-    .suffix = Заполненная
     .desc = { ent-ClothingBeltChemBagSyndi.desc }
-ent-ClothingBeltHolsterFilledBlueshield = { ent-ClothingBeltHolster }
-    .suffix = Заполненная, EG-4
-    .desc = { ent-ClothingBeltHolster.desc }
+    .suffix = Заполненный
+
 ent-ClothingBeltMilitaryRigGrenadierFilled = { ent-ClothingBeltMilitaryRigGrenadier }
-    .suffix = Комплект гренадёра, заполненный
     .desc = { ent-ClothingBeltMilitaryRigGrenadier.desc }
+    .suffix = Набор гренадёра, Заполненный

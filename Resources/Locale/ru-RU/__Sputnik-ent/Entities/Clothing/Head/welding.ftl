@@ -1,10 +1,14 @@
-ent-WeldingMaskBase = сварочная маска
+ent-WeldingMaskBaseNoBlind = сварочная маска
     .desc = { ent-ClothingHeadBase.desc }
+
 ent-ClothingHeadHatWelding = сварочная маска
-    .desc = Маска для лица с креплением на голову, предназначенная для полной защиты глаз пользователя от сварки.
-ent-ClothingHeadHatWeldingMaskFlame = сварочная маска пламени
-    .desc = Покрашенная сварочная маска, на ней изображены языки пламени.
-ent-ClothingHeadHatWeldingMaskFlameBlue = сварочная маска синего пламени
-    .desc = Покрашенная сварочная маска, на ней изображены синие языки пламени.
-ent-ClothingHeadHatWeldingMaskPainted = покрашенная сварочная маска
-    .desc = Сварочная маска, покрашенная в малиновый цвет.
+    .desc = Полностью закрывающая голову маска, защищающая владельца от космического «зайчика».
+
+ent-ClothingHeadHatWeldingMaskFlame = сварочная маска с языками пламени
+    .desc = Раскрашенный сварочный шлем, на этом изображены языки пламени.
+
+ent-ClothingHeadHatWeldingMaskFlameBlue = сварочная маска с синим пламенем
+    .desc = Раскрашенный сварочный шлем, на этом изображены синие языки пламени.
+
+ent-ClothingHeadHatWeldingMaskPainted = раскрашенная сварочная маска
+    .desc = Сварочный шлем, окрашенный в багровый цвет.

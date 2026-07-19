@@ -1,5 +1,5 @@
 ent-DrinkGlass = метаморфический стакан
-    .desc = Метаморфический стакан, который автоматически превращается в стакан, подходящий для налитого в него напитка. На дне спилен номер патента.
+    .desc = Метаморфический стакан, который автоматически принимает форму, подходящую для напитка внутри. На дне сточен номер патента.
 
 ent-DrinkJar = банка
     .desc = Кружка хипстера.
@@ -66,7 +66,7 @@ ent-DrinkBarefootGlass = { ent-DrinkGlass }
 
 ent-DrinkBeepskySmashGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Разгром Бипски
+    .suffix = Крушение Бипски
 
 ent-DrinkBeerglass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -90,7 +90,7 @@ ent-DrinkBloodyMaryGlass = { ent-DrinkGlass }
 
 ent-DrinkBlueHawaiianGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Голубые Гавайи
+    .suffix = Синий гавайский
 
 ent-DrinkBooger = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -106,7 +106,7 @@ ent-DrinkBronxGlass = { ent-DrinkGlass }
 
 ent-BudgetInsulsDrinkGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Бюджетный утеплённый
+    .suffix = Бюджетный инсульт
 
 ent-DrinkCarrotJuice = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -118,7 +118,7 @@ ent-DrinkChocolateGlass = { ent-DrinkGlass }
 
 ent-RubberneckGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Ротозей
+    .suffix = Зевака
 
 ent-DrinkCoconutRum = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -150,7 +150,7 @@ ent-DrinkCrushDepthGlass = { ent-DrinkGlass }
 
 ent-DrinkCubaLibreGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Куба Либре
+    .suffix = Куба либре
 
 ent-DrinkDarkandStormyGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -170,11 +170,11 @@ ent-DrinkDevilsKiss = { ent-DrinkGlass }
 
 ent-DrinkDoctorsDelightGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Наслаждение доктора
+    .suffix = Отрада доктора
 
 ent-DrinkDriestMartiniGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Самое сухое мартини
+    .suffix = Самый сухой мартини
 
 ent-DrinkDrGibbGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -194,7 +194,7 @@ ent-DrinkErikaSurprise = { ent-DrinkGlass }
 
 ent-DrinkFourteenLokoGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Фотин Локо
+    .suffix = Fourteen Loko
 
 ent-DrinkGargleBlasterGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -238,10 +238,10 @@ ent-DrinkGrogGlass = { ent-DrinkGlass }
 
 ent-DrinkHippiesDelightGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Наслаждение хиппи
+    .suffix = Отрада хиппи
 
 ent-DrinkHoochGlass = { ent-DrinkGlass }
-    .desc = Вы и правда достигли дна... ваша печень собрала вещи и ушла ещё вчера ночью.
+    .desc = Вы действительно достигли дна... ваша печень собрала вещи и ушла прошлой ночью.
     .suffix = Самогон
 
 ent-DrinkIcedCoffeeGlass = { ent-DrinkGlass }
@@ -250,11 +250,11 @@ ent-DrinkIcedCoffeeGlass = { ent-DrinkGlass }
 
 ent-DrinkIcedGreenTeaGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Ледяной зелёный чай
+    .suffix = Холодный зелёный чай
 
 ent-DrinkIcedTeaGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Ледяной чай
+    .suffix = Холодный чай
 
 ent-DrinkIcedBeerGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -270,11 +270,11 @@ ent-DrinkIceCreamGlass = { ent-DrinkGlass }
 
 ent-IrishBoolGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Ирландский бул
+    .suffix = Ирландский Bool
 
 ent-DrinkIrishCarBomb = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Ирландская автобомба
+    .suffix = Ирландская автомобильная бомба
 
 ent-DrinkIrishCoffeeGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -294,7 +294,7 @@ ent-DrinkJackRoseGlass = { ent-DrinkGlass }
 
 ent-DrinkJungleBirdGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Джангл Бёрд
+    .suffix = Птица джунглей
 
 ent-DrinkKalimotxoGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -318,7 +318,7 @@ ent-DrinkLemonLime = { ent-DrinkGlass }
 
 ent-DrinkLimeJuice = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Сок лайма
+    .suffix = Лаймовый сок
 
 ent-DrinkLongIslandIcedTeaGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -342,7 +342,7 @@ ent-DrinkMargaritaGlass = { ent-DrinkGlass }
 
 ent-DrinkMartiniGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Классическое мартини
+    .suffix = Классический мартини
 
 ent-DrinkMeadGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -358,7 +358,7 @@ ent-DrinkMojito = { ent-DrinkGlass }
 
 ent-DrinkMonkeyBusinessGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Обезьяньи проделки
+    .suffix = Обезьяньи дела
 
 ent-DrinkNeurotoxinGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -370,7 +370,7 @@ ent-DrinkNothing = { ent-DrinkGlass }
 
 ent-DrinkNTCahors = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Неотеологическое кагорное вино
+    .suffix = Неотеологическое кагорское вино
 
 ent-DrinkNuclearColaGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -382,7 +382,7 @@ ent-DrinkOrangeJuice = { ent-DrinkGlass }
 
 ent-DrinkPainkillerGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Болеутоляющий
+    .suffix = Болеутолитель
 
 ent-DrinkPatronGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -434,7 +434,7 @@ ent-DrinkRoyRogersGlass = { ent-DrinkGlass }
 
 ent-DrinkSakeGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Саке
+    .suffix = Сакэ
 
 ent-DrinkSbitenGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -450,7 +450,7 @@ ent-DrinkCogChampBase = { ent-DrinkGlass }
 
 ent-DrinkSuiDreamGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Мечта суй
+    .suffix = Мечта суи
 
 ent-DrinkEmeraldGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -478,7 +478,7 @@ ent-DrinkSingulo = { ent-DrinkGlass }
 
 ent-DrinkSolDryGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Сол драй
+    .suffix = Sol Dry
 
 ent-DrinkSnowWhite = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -490,15 +490,15 @@ ent-DrinkSoyLatte = { ent-DrinkGlass }
 
 ent-DrinkSpaceUpGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Спейс-ап
+    .suffix = Space-Up
 
 ent-DrinkSpaceMountainWindGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Ветер космической горы
+    .suffix = Space Solar Wind
 
 ent-DrinkSyndicatebomb = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Бомба синдиката
+    .suffix = Бомба Синдиката
 
 ent-DrinkTeaGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -546,11 +546,11 @@ ent-DrinkVodkaGlass = { ent-DrinkGlass }
 
 ent-DrinkVodkaMartiniGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Водка-мартини
+    .suffix = Водка мартини
 
 ent-DrinkVodkaRedBool = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Водка с рэд булом
+    .suffix = Водка Red Bool
 
 ent-DrinkVodkaTonicGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -565,7 +565,7 @@ ent-DrinkWatermelonJuice = { ent-DrinkGlass }
 
 ent-DrinkWatermelonWakeup = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Арбузное пробуждение
+    .suffix = Арбузная побудка
 
 ent-DrinkWhiskeyColaGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
@@ -589,7 +589,7 @@ ent-DrinkWineGlass = { ent-DrinkGlass }
 
 ent-XenoBasherGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = Ксенобойщик
+    .suffix = Дубина против ксено
 
 ent-DrinkCaipirinha = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }

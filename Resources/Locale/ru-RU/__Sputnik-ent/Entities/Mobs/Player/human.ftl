@@ -1,21 +1,26 @@
-ent-MobHuman = Урист МакЧеловек
-    .desc = { ent-BaseMobHuman.desc }
-ent-MobHumanSyndicateAgentBase = агент Синдиката
+ent-MobHumanSyndicateAgentBase = агент синдиката
+    .desc = { ent-MobHuman.desc }
     .suffix = Человек, Базовый
-    .desc = { ent-MobHuman.desc }
-ent-MobHumanSyndicateAgent = агент Синдиката
+
+ent-MobHumanSyndicateAgent = агент синдиката
+    .desc = { ent-MobHumanSyndicateAgentBase.desc }
     .suffix = Человек, Предатель
-    .desc = { ent-MobHumanSyndicateAgentBase.desc }
-ent-MobHumanSyndicateAgentMedic = медик Синдиката
+
+ent-MobHumanSyndicateAgentMedic = медик синдиката
     .desc = { ent-MobHumanSyndicateAgent.desc }
-ent-MobHumanSyndicateAgentSpy = шпион Синдиката
+
+ent-MobHumanSyndicateAgentSpy = шпион синдиката
     .desc = { ent-MobHumanSyndicateAgent.desc }
-ent-MobHumanSyndicateAgentThief = вор Синдиката
+
+ent-MobHumanSyndicateAgentThief = вор синдиката
     .desc = { ent-MobHumanSyndicateAgent.desc }
+
 ent-MobHumanSyndicateAgentNukeops = { ent-MobHumanSyndicateAgentBase }
-    .suffix = Человек, Ядерный оперативник
     .desc = { ent-MobHumanSyndicateAgentBase.desc }
-ent-MobHumanNukeOp = Ядерный оперативник
+    .suffix = Человек, Ядерные оперативники
+
+ent-MobHumanNukeOp = ядерный оперативник
     .desc = { ent-MobHuman.desc }
-ent-MobHumanLoneNuclearOperative = Одинокий оперативник
+
+ent-MobHumanLoneNuclearOperative = одинокий оперативник
     .desc = { ent-MobHuman.desc }

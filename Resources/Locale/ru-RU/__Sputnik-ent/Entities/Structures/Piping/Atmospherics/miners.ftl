@@ -1,34 +1,47 @@
-ent-GasMinerBase = добытчик газа
-    .desc = Газы, добытые из газового гиганта под (над?) вами, проходят через эту массивную вентиляционную трубу.
-ent-GasMinerOxygen = газодобытчик O2
+ent-GasMinerBase = газовый майнер
+    .desc = Газы, добываемые из газового гиганта внизу (вверху?), выходят через эту массивную вентиляционную шахту.
+
+ent-GasMinerOxygen = O2 газовый майнер
     .desc = { ent-GasMinerBase.desc }
     .suffix = Шаттл, 300кПа
-ent-GasMinerOxygenStation = газодобытчик O2
+
+ent-GasMinerOxygenStation = O2 газовый майнер
+    .desc = { ent-GasMinerOxygen.desc }
     .suffix = Станция, 1000кПа
+
+ent-GasMinerOxygenStationLarge = O2 газовый майнер
     .desc = { ent-GasMinerOxygen.desc }
-ent-GasMinerOxygenStationLarge = газодобытчик O2
-    .suffix = Большая станция, 4500кПа
-    .desc = { ent-GasMinerOxygen.desc }
-ent-GasMinerNitrogen = газодобытчик N2
+    .suffix = Крупная станция, 4500кПа
+
+ent-GasMinerNitrogen = N2 газовый майнер
     .desc = { ent-GasMinerBase.desc }
     .suffix = Шаттл, 300кПа
-ent-GasMinerNitrogenStation = газодобытчик N2
+
+ent-GasMinerNitrogenStation = N2 газовый майнер
+    .desc = { ent-GasMinerNitrogen.desc }
     .suffix = Станция, 1000кПа
+
+ent-GasMinerNitrogenStationLarge = N2 газовый майнер
     .desc = { ent-GasMinerNitrogen.desc }
-ent-GasMinerNitrogenStationLarge = газодобытчик N2
-    .suffix = Большая станция, 4500кПа
-    .desc = { ent-GasMinerNitrogen.desc }
-ent-GasMinerCarbonDioxide = газодобытчик CO2
+    .suffix = Крупная станция, 4500кПа
+
+ent-GasMinerCarbonDioxide = CO2 газовый майнер
     .desc = { ent-GasMinerBase.desc }
-ent-GasMinerPlasma = газодобытчик плазмы
+
+ent-GasMinerPlasma = плазменный газовый майнер
     .desc = { ent-GasMinerBase.desc }
-ent-GasMinerTritium = газодобытчик трития
+
+ent-GasMinerTritium = тритиевый газовый майнер
     .desc = { ent-GasMinerBase.desc }
-ent-GasMinerFrezon = газодобытчик фрезона
+
+ent-GasMinerFrezon = фрезоновый газовый майнер
     .desc = { ent-GasMinerBase.desc }
-ent-GasMinerWaterVapor = газодобытчик водяного пара
+
+ent-GasMinerWaterVapor = газовый майнер водяного пара
     .desc = { ent-GasMinerBase.desc }
-ent-GasMinerAmmonia = газодобытчик аммиака
+
+ent-GasMinerAmmonia = аммиачный газовый майнер
     .desc = { ent-GasMinerBase.desc }
-ent-GasMinerNitrousOxide = газодобытчик оксида азота N2O
+
+ent-GasMinerNitrousOxide = газовый майнер оксида азота
     .desc = { ent-GasMinerBase.desc }

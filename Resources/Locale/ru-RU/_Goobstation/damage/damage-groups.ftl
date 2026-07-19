@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-damage-group-electronic = Электронный
+damage-group-electronic = Electronic

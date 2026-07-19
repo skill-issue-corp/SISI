@@ -1,33 +1,51 @@
 ent-RehydratableItem = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-ent-RehydratableAnimalCube = { ent-RehydratableItem }
+
+ent-SolutionCube = кубик
+    .desc = если вы это читаете, ну уж нет! оформите баг-репорт.
+
+ent-RehydratableAnimalCube = { ent-SolutionTiny }
     .desc = Просто добавь воды!
-ent-MonkeyCube = обезьяний кубик
+
+ent-MonkeyCube = кубик обезьяны
     .desc = { ent-RehydratableAnimalCube.desc }
-ent-KoboldCube = кобольдовый кубик
+
+ent-KoboldCube = кубик кобольда
     .desc = { ent-RehydratableAnimalCube.desc }
-ent-CowCube = коровий кубик
+
+ent-CowCube = кубик коровы
     .desc = { ent-RehydratableAnimalCube.desc }
-ent-GoatCube = козий кубик
+
+ent-GoatCube = кубик козы
     .desc = { ent-RehydratableAnimalCube.desc }
-ent-MothroachCube = таракамолий кубик
+
+ent-MothroachCube = кубик мотроча
     .desc = { ent-RehydratableAnimalCube.desc }
-ent-MoproachCube = швабромолевый кубик
+
+ent-MoproachCube = кубик мопроча
     .desc = { ent-RehydratableAnimalCube.desc }
-ent-MouseCube = мышиный кубик
+
+ent-MouseCube = кубик мыши
     .desc = { ent-RehydratableAnimalCube.desc }
-ent-CockroachCube = тараканий кубик
+
+ent-CockroachCube = кубик таракана
     .desc = Просто добавь во- О БОЖЕ!
-ent-SpaceCarpCube = карпий кубик
+
+ent-SpaceCarpCube = кубик карпа
     .desc = Просто добавь воды! На свой страх и риск.
-ent-SpaceTickCube = клещевой кубик
-    .desc = { ent-RehydratableAnimalCube.desc } На свой страх и риск.
-ent-AbominationCube = мерзостный кубик
+
+ent-SpaceTickCube = кубик клеща
+    .desc = Просто добавь воды! На свой страх и риск.
+
+ent-AbominationCube = кубик мерзости
     .desc = Просто добавь крови!
+
 ent-DehydratedSpaceCarp = обезвоженный космический карп
-    .desc = Выглядит как плюшевый игрушечный карп, но стоит только добавить воды, и он превращается в настоящего космического карпа!
+    .desc = Выглядит как игрушечный плюшевый карп, но просто добавь воды, и он станет настоящим живым космическим карпом!
+
 ent-SyndicateSponge = { ent-MonkeyCube }
     .desc = { ent-MonkeyCube.desc }
     .suffix = Синдикат
-ent-MopBucketCube = кубик ведра для швабры
-    .desc = Просто добавь воды! А затем ещё больше воды!
+
+ent-MopBucketCube = кубик ведра со шваброй
+    .desc = Просто добавь воды! А потом ещё воды!

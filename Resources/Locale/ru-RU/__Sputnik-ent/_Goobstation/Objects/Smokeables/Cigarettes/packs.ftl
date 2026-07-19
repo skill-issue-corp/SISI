@@ -1,4 +1,2 @@
-# SIS-Start
-# ent-CigPackMedical = ChemLab menthols pack
-#     .desc = Nanotrasen decided to let Chemistry make their own soaked cigarettes for export, and this is the result. The menthol is there to hide the noxious chemicals!
-# SIS-End
+ent-CigPackMedical = пачка ментоловых от ХимЛаба
+    .desc = Nanotrasen решила позволить Химическому отделу производить собственные пропитанные сигареты на экспорт, и вот результат. Ментол нужен, чтобы скрыть ядовитые химикаты!

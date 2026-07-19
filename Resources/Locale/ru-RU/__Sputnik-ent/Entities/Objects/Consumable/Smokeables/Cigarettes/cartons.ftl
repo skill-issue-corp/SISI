@@ -1,12 +1,14 @@
-# SIS-Start
-# ent-CigCartonGreen = блок сигарет Spessman's Smokes
-#     .desc = Картонная коробка, содержащая 6 пачек сигарет Spessman's Smokes.
-# ent-CigCartonRed = блок сигарет DromedaryCo
-#     .desc = Картонная коробка, содержащая 6 пачек сигарет Dromedarycos.
-# ent-CigCartonBlue = блок сигарет AcmeCo
-#     .desc = Картонная коробка, содержащая 6 пачек сигарет AcmeCo.
-# ent-CigCartonBlack = блок сигарет Nomads
-#     .desc = Картонная коробка, содержащая 6 пачек сигарет Nomads.
-# ent-CigCartonMixed = блок пропитанных сигарет Дэна
-#     .desc = Картонная коробка, содержащая 3 пачки пропитанных сигарет Дэна.
-# SIS-End
+ent-CigCartonGreen = блок Spessman's Smokes
+    .desc = Блок, содержащий 6 пачек Spessman's Smokes.
+
+ent-CigCartonRed = блок DromedaryCo
+    .desc = Блок, содержащий 6 пачек Dromedarycos.
+
+ent-CigCartonBlue = блок AcmeCo
+    .desc = Блок, содержащий 6 пачек AcmeCo.
+
+ent-CigCartonBlack = блок Nomads
+    .desc = Блок, содержащий 6 пачек Nomads.
+
+ent-CigCartonMixed = вымоченные сигареты Дэна
+    .desc = Блок, содержащий 3 пачки вымоченных сигарет Дэна.

@@ -1,126 +1,83 @@
 ent-SurgeryBase = { "" }
     .desc = { "" }
+
 ent-BasePartSurgery = { ent-SurgeryBase }
     .desc = { ent-SurgeryBase.desc }
-# SIS-Start
-# ent-BaseSurgeryInsertOrgan = { ent-SurgeryBase }
-#     .desc = { ent-SurgeryBase.desc }
-# ent-BaseSurgeryRemoveOrgan = { ent-SurgeryBase }
-#     .desc = { ent-SurgeryBase.desc }
-# SIS-End
-ent-SurgeryOpenIncision = Открытие разреза
+
+ent-SurgeryAttachBase = { ent-SurgeryBase }
     .desc = { ent-SurgeryBase.desc }
-ent-SurgeryStopBloodOutput = Остановить кровотечение
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryFixDismemberment = Устранить последствия ампутации
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryCloseIncision = Закрытие разреза
-    .desc = { ent-SurgeryBase.desc }
+
+ent-SurgeryOpenIncision = Вскрыть надрез
+    .desc = { ent-BasePartSurgery.desc }
+
+ent-SurgeryStopBloodOutput = Остановить непрерывное кровотечение
+    .desc = { ent-BasePartSurgery.desc }
+
+ent-SurgeryFixDismemberment = Устранить последствия расчленения
+    .desc = { ent-BasePartSurgery.desc }
+
+ent-SurgeryCloseIncision = Закрыть надрез
+    .desc = { ent-BasePartSurgery.desc }
+
 ent-SurgeryCloseIncisionHead = { ent-SurgeryCloseIncision }
     .desc = { ent-SurgeryCloseIncision.desc }
-ent-SurgeryCloseIncisionChest = { ent-SurgeryCloseIncision }
+
+ent-SurgeryCloseIncisionTorso = { ent-SurgeryCloseIncision }
     .desc = { ent-SurgeryCloseIncision.desc }
-ent-SurgeryOpenRibcage = Вскрытие грудной клетки
+
+ent-SurgeryOpenRibcage = Вскрыть грудную клетку
     .desc = { ent-SurgeryBase.desc }
-ent-SurgeryRemovePart = Удаление части тела
+
+ent-SurgeryRemovePart = Ампутировать
     .desc = { ent-SurgeryBase.desc }
-ent-SurgeryMendBones = Восстановление костей
+
+ent-SurgeryMendBones = Срастить кости
+    .desc = { ent-BasePartSurgery.desc }
+
+ent-SurgeryHealOrgans = Вылечить органы
+    .desc = { ent-BasePartSurgery.desc }
+
+ent-SurgeryAttachHead = Пришить голову
+    .desc = { ent-SurgeryAttachBase.desc }
+
+ent-SurgeryAttachLeftArm = Пришить левую руку
+    .desc = { ent-SurgeryAttachBase.desc }
+
+ent-SurgeryAttachRightArm = Пришить правую руку
+    .desc = { ent-SurgeryAttachBase.desc }
+
+ent-SurgeryAttachLeftLeg = Пришить левую ногу
+    .desc = { ent-SurgeryAttachBase.desc }
+
+ent-SurgeryAttachRightLeg = Пришить правую ногу
+    .desc = { ent-SurgeryAttachBase.desc }
+
+ent-SurgeryAttachLeftHand = Пришить левую кисть
+    .desc = { ent-SurgeryAttachBase.desc }
+
+ent-SurgeryAttachRightHand = Пришить правую кисть
+    .desc = { ent-SurgeryAttachBase.desc }
+
+ent-SurgeryAttachLeftFoot = Пришить левую ступню
+    .desc = { ent-SurgeryAttachBase.desc }
+
+ent-SurgeryAttachRightFoot = Пришить правую ступню
+    .desc = { ent-SurgeryAttachBase.desc }
+
+ent-SurgeryAttachTail = Пришить хвост
+    .desc = { ent-SurgeryAttachBase.desc }
+
+ent-SurgeryTendWoundsBrute = Обработать ушибленные раны
     .desc = { ent-SurgeryBase.desc }
-ent-SurgeryHealOrgans = Лечение органов
+
+ent-SurgeryTendWoundsBurn = Обработать ожоговые раны
     .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachHead = Прикрепить голову
+
+ent-SurgeryInsertItem = Полостной имплант
     .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachGroin = Прикрепить паховую область
+
+ent-SurgeryLobotomize = Лоботомировать
     .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachLeftArm = Прикрепить левую руку
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachRightArm = Прикрепить правую руку
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachLeftLeg = Прикрепить левую ногу
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachRightLeg = Прикрепить правую ногу
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachLeftHand = Прикрепить левую кисть руки
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachRightHand = Прикрепить правую кисть руки
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachLeftFoot = Прикрепить левую стопу
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachRightFoot = Прикрепить правую стопу
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachLegs = Прикрепить ноги
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachHands = Прикрепить кисти рук
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachFeet = Прикрепить стопы
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryAttachTail = Прикрепить хвост
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryTendWoundsBrute = Лечение механических повреждений
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryTendWoundsBurn = Лечение физических повреждений
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryInsertItem = Имплантация в полость
-    .desc = { ent-SurgeryBase.desc }
-# SIS-Start
-# ent-SurgeryRemoveBrain = Удаление мозга
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryRemoveBorgBrain = Удаление позитронного мозга
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryInsertBrain = Установка мозга
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryInsertBorgBrain = Вставка позитронного мозга
-#     .desc = { ent-SurgeryInsertBrain.desc }
-# ent-SurgeryRemoveHeart = Удаление сердца
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryInsertHeart = Установка сердца
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryRemovePump = Удаление трубы
-#     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-# ent-SurgeryInsertPump = Установка трубы
-#     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-# ent-SurgeryRemoveLiver = Удаление печени
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryInsertLiver = Установка печени
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryRemoveLungs = Удаление лёгких
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryInsertLungs = Установка лёгких
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryRemoveStomach = Удаление желудка
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryInsertStomach = Установка желудка
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryRemoveEyes = Удаление глаз
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryInsertEyes = Установка глаз
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryOpenCavityBase = { ent-SurgeryBase }
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryInstallAugmentBase = { ent-SurgeryBase }
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryRemoveAugmentBase = { ent-SurgeryBase }
-#     .desc = { ent-SurgeryBase.desc }
-# ent-SurgeryInsertPowerCellSlot = Вставить батарею
-#     .desc = { ent-SurgeryInstallAugmentBase.desc }
-# ent-SurgeryOpenPowerCellSlot = Открыть разрез под батарею
-#     .desc = { ent-SurgeryOpenCavityBase.desc }
-# ent-SurgeryRemovePowerCellSlot = Удалить батарею
-#     .desc = { ent-SurgeryRemoveAugmentBase.desc }
-# ent-SurgeryInsertPowerCellCharger = Вставить зарядное устройство
-#     .desc = { ent-SurgeryInstallAugmentBase.desc }
-# ent-SurgeryOpenPowerCellCharger = Вскрыть разрез под зарядное устройства
-#     .desc = { ent-SurgeryOpenCavityBase.desc }
-# ent-SurgeryRemovePowerCellCharger = Удалить зарядное устройство
-#     .desc = { ent-SurgeryRemoveAugmentBase.desc }
-# ent-SurgeryOpenArmAugment = Открыть разрез для импланта руки
-#     .desc = { ent-SurgeryOpenCavityBase.desc }
-# ent-SurgeryInsertArmAugment = Установить имплант руки
-#     .desc = { ent-SurgeryInstallAugmentBase.desc }
-# ent-SurgeryRemoveArmAugment = Удалить имплант руки
-#     .desc = { ent-SurgeryRemoveAugmentBase.desc }
-# SIS-End
-ent-SurgeryLobotomize = Лоботомия
-    .desc = { ent-SurgeryBase.desc }
-ent-SurgeryMendBrainTissue = Восстановить мозговую ткань
+
+ent-SurgeryMendBrainTissue = Срастить мозговую ткань
     .desc = { ent-SurgeryBase.desc }

@@ -1,7 +1,9 @@
 gas-miasma = Миазмы
 
-ent-AmmoniaCanister = баллон с миазмами
-    .desc = Баллон, который может содержать любой тип газа. Этот баллон предназначен для миазмов. Его можно подключить к разъёмам с помощью гаечного ключа.
-
-ent-GasMinerAmmonia = газовый майнер миазмов
-    .desc = Газы, добытые из газового гиганта внизу (вверху?), вытекают через этот массивный вентиляционный отвод.
+# SIS-Empty_Entity_File Start
+# ent-AmmoniaCanister = miasma canister
+#     .desc = A canister that can contain any type of gas. This one is supposed to contain miasma. It can be attached to connector ports using a wrench.
+#
+# ent-GasMinerAmmonia = miasma gas miner
+#     .desc = Gases mined from the gas giant below (above?) flow out through this massive vent.
+# SIS-Empty_Entity_File End

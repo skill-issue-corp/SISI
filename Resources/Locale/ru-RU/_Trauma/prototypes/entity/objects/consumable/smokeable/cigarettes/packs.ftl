@@ -1,23 +1,25 @@
-ent-CigPackGreen = Мягкая пачка Newstation
-    .desc = Надпись на упаковке гласит: умираю от радости!
-
-ent-CigPackRed = Пачка Dromad Red 99s
-    .desc = Самая популярная марка космических сигарет. На пачке изображено некое гуманоидное существо вроде дромадера в соляной пустыне.
-
-ent-CigPackBlack = Мягкая пачка Solaria
-    .desc = Невероятно крепкие сигареты, на упаковке — распространённый символ Солнца и золотые изображения мест со Старой Терры.
-
-ent-CigPackBlue = Пачка Sodfield Blue
-    .desc = Лёгкие сигареты, большая часть их рекламных кампаний нацелена на шахтёров.
-
-ent-CigPackMixed = пропитанные сигареты Дэна
-    .desc = Дэн поработал с химическим отделом NT, чтобы утилизировать излишки химикатов, ПРИЯТНОГО КУРЕНИЯ.
-
-ent-CigPackSyndicate = Пачка Interdyne herbals
-    .desc = Элитные сигареты для элитных агентов синдиката. Пропитаны лекарством на случай, если вам нужно нечто большее, чем просто успокоить нервы.
-
-ent-CigPackMedical = Пачка ChemLab menthols
-    .desc = Nanotrasen решила позволить химическому отделу выпускать собственные пропитанные сигареты на экспорт, и вот результат. Ментол нужен, чтобы скрыть ядовитые химикаты!
-
-ent-CigPackBotany = Пачка Hydroponic Herbals
-    .desc = Nanotrasen решила позволить отделу ботаники выпускать собственную фирменную смесь сигарет на экспорт, и вот результат.
+# SIS-Empty_Entity_File Start
+# ent-CigPackGreen = Newstation soft pack
+#     .desc = A label on the packaging reads, dying with joy!
+#
+# ent-CigPackRed = Dromad Red 99s pack
+#     .desc = The most popular brand of Space Cigarettes. There is an image of some kind of humanoid dromedary creature in a salt desert.
+#
+# ent-CigPackBlack = Solaria soft pack
+#     .desc = An incredibly harsh cigarette, the packaging has sol common on it and golden images of locations from Old Terra.
+#
+# ent-CigPackBlue = Sodfield Blue pack
+#     .desc = Light smokes, most of their ad campaigns are targetted towards shaft miners.
+#
+# ent-CigPackMixed = Dan's soaked smokes
+#     .desc = Dan worked with NT chemistry to dispose of excess chemicals, ENJOY.
+#
+# ent-CigPackSyndicate = Interdyne herbals pack
+#     .desc = Elite cigarettes for elite syndicate agents. Infused with medicine for when you need to do more than calm your nerves.
+#
+# ent-CigPackMedical = ChemLab menthols pack
+#     .desc = Nanotrasen decided to let Chemistry make their own soaked cigarettes for export, and this is the result. The menthol is there to hide the noxious chemicals!
+#
+# ent-CigPackBotany = Hydroponic Herbals pack
+#     .desc = Nanotrasen decided to let Botany make their own signature blend cigarettes for export, and this is the result.
+# SIS-Empty_Entity_File End
