@@ -1,63 +1,90 @@
 ent-AppearanceDiona = внешний вид дионы
     .desc = { ent-BaseSpeciesAppearance.desc }
+
 ent-MobDiona = Урист МакПлантс
     .desc = { ent-AppearanceDiona.desc }
+
 ent-OrganDiona = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
     .suffix = Диона
+
 ent-OrganDionaMetabolizer = { "" }
     .desc = { "" }
+
 ent-OrganDionaInternal = { ent-OrganDiona }
     .desc = { ent-OrganDiona.desc }
+
 ent-OrganDionaVisual = { "" }
     .desc = { "" }
+
 ent-OrganDionaExternal = { ent-OrganDiona }
     .desc = { ent-OrganDiona.desc }
+
 ent-OrganDionaTorso = { ent-OrganBaseTorso }
     .desc = { ent-OrganBaseTorso.desc }
+
 ent-OrganDionaHead = { ent-OrganBaseHeadBald }
     .desc = { ent-OrganBaseHeadBald.desc }
+
 ent-OrganDionaArmLeft = { ent-OrganBaseArmLeft }
     .desc = { ent-OrganBaseArmLeft.desc }
+
 ent-OrganDionaArmRight = { ent-OrganBaseArmRight }
     .desc = { ent-OrganBaseArmRight.desc }
+
 ent-OrganDionaHandLeft = { ent-OrganBaseHandLeft }
     .desc = { ent-OrganBaseHandLeft.desc }
+
 ent-OrganDionaHandRight = { ent-OrganBaseHandRight }
     .desc = { ent-OrganBaseHandRight.desc }
+
 ent-OrganDionaLegLeft = { ent-OrganBaseLegLeft }
     .desc = { ent-OrganBaseLegLeft.desc }
+
 ent-OrganDionaLegRight = { ent-OrganBaseLegRight }
     .desc = { ent-OrganBaseLegRight.desc }
+
 ent-OrganDionaFootLeft = { ent-OrganBaseFootLeft }
     .desc = { ent-OrganBaseFootLeft.desc }
+
 ent-OrganDionaFootRight = { ent-OrganBaseFootRight }
     .desc = { ent-OrganBaseFootRight.desc }
+
 ent-OrganDionaBrain = { ent-OrganBaseBrain }
     .desc = { ent-OrganBaseBrain.desc }
+
 ent-OrganDionaEyes = { ent-OrganDionaVisual }
     .desc = { ent-OrganDionaVisual.desc }
+
 ent-OrganDionaLungs = { ent-OrganBaseLungs }
     .desc = { ent-OrganBaseLungs.desc }
+
 ent-OrganDionaStomach = { ent-OrganBaseStomach }
     .desc = { ent-OrganBaseStomach.desc }
+
 ent-OrganDionaBrainNymphing = { ent-OrganDionaBrain }
     .desc = { ent-OrganDionaBrain.desc }
     .suffix = Диона, нимфа
+
 ent-OrganDionaLungsNymphing = { ent-OrganDionaLungs }
     .desc = { ent-OrganDionaLungs.desc }
     .suffix = Диона, нимфа
+
 ent-OrganDionaStomachNymphing = { ent-OrganDionaStomach }
     .desc = { ent-OrganDionaStomach.desc }
     .suffix = Диона, нимфа
+
 ent-OrganDionaNymphBrain = { ent-MobDionaNymph }
     .desc = { ent-MobDionaNymph.desc }
     .suffix = мозг
+
 ent-OrganDionaNymphStomach = { ent-MobDionaNymph }
     .desc = { ent-MobDionaNymph.desc }
     .suffix = желудок
+
 ent-OrganDionaNymphLungs = { ent-MobDionaNymph }
     .desc = { ent-MobDionaNymph.desc }
     .suffix = лёгкие
+
 ent-MobDionaReformed = { ent-MobDiona }
     .desc = { ent-MobDiona.desc }

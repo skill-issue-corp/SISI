@@ -6,7 +6,7 @@ ent-MobHuman = Урист МакХендс
 
 ent-OrganHuman = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = Человек
+    .suffix = человек
 
 ent-OrganHumanMetabolizer = { "" }
     .desc = { "" }
