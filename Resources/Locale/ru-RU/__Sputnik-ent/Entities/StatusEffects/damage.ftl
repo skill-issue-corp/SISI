@@ -1,4 +1,5 @@
 ent-StatusEffectDamageModifierBase = { ent-StatusEffectBase }
-    .desc = Статус-эффект для изменения входящих источников урона. Вы не должны это видеть.
-ent-StatusEffectRadiationProtection = защита от радиации
+    .desc = Status effect for modifying incoming sources of damage. You shouldn't be seeing this.
+
+ent-StatusEffectRadiationProtection = radiation protection
     .desc = { ent-StatusEffectDamageModifierBase.desc }

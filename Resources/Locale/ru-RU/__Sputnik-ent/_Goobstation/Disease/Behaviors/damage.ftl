@@ -1,8 +1,11 @@
-ent-DiseaseBehaviorCancer = Рак
-    .desc = Периодически наносит генетический урон.
-ent-DiseaseBehaviorPoison = Отравление
-    .desc = Периодически наносит урон ядом.
-ent-DiseaseBehaviorBlunt = Деградация тканей
-    .desc = Периодически наносит урон ушибами.
-ent-DiseaseBehaviorGunemia = Пулемия
-    .desc = Заставляет вас кашлять пулями. Механизм болезни неизвестен.
+ent-DiseaseBehaviorCancer = Cancer
+    .desc = Deals genetic damage over time.
+
+ent-DiseaseBehaviorPoison = Poison
+    .desc = Deals poison damage over time.
+
+ent-DiseaseBehaviorBlunt = Tissue degradation
+    .desc = Deals blunt damage over time.
+
+ent-DiseaseBehaviorGunemia = Gunemia
+    .desc = Makes you cough bullets. Mechanism unknown.
