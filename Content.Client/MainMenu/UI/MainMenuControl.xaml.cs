@@ -52,7 +52,7 @@ public sealed partial class MainMenuControl : Control
         BackgroundParallax.ParallaxPrototype = _random.Pick(Parallaxes).Id;
 
         var logoTexture = resCache.GetResource<TextureResource>("/Textures/Logo/logo.png");
-        // Logo.Texture = logoTexture; // SIS-Full-Screen-Logo
+        // Logo.Texture = logoTexture; // SIS-Full_Screen_Logo
 
         var currentUserName = configMan.GetCVar(CVars.PlayerName);
         UsernameBox.Text = currentUserName;
