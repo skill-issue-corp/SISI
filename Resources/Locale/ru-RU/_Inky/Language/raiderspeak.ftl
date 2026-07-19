@@ -1,5 +1,5 @@
 language-RaiderSpeak-name = Набегаторский
-language-RaiderSpeak-description = Древний и надёжный язык, созданный во время второй войны приливов коммунистами-иммигрантами на станциях NanoTrasen.
+language-RaiderSpeak-description = Древний и надёжный язык, созданный во время второй войны тайдеров коммунистами-иммигрантами на станциях NanoTrasen.
 
 chat-language-RaiderSpeak-name = Набегаторский
 
