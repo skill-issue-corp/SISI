@@ -1073,7 +1073,7 @@ public sealed partial class ChatSystem : SharedChatSystem
         return message;
     }
 
-    public static readonly ProtoId<ReplacementAccentPrototype> ChatSanitize_Accent = "chatsanitize";
+    public static readonly ProtoId<ReplacementAccentPrototype> ChatSanitize_Accent = "ruChatsanitize"; // RU-Localization
 
     public string SanitizeMessageReplaceWords(string message)
     {
