@@ -21,12 +21,11 @@
     layers:
     - state: bowl
     - state: hummus
-  - type: SolutionContainerManager
+  - type: Solution
     solutions:
-      food:
-        maxVol: 20
-        reagents:
-        - ReagentId: Nutriment
-          Quantity: 10
-        - ReagentId: Vitamin
-          Quantity: 5
+      maxVol: 20
+      reagents:
+      - ReagentId: Nutriment
+        Quantity: 10
+      - ReagentId: Vitamin
+        Quantity: 5
