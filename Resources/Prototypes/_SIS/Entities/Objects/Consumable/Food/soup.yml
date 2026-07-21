@@ -1,0 +1,31 @@
+- type: entity
+  abstract: true
+  parent: FoodBowlBase
+  id: SIS_FoodBowlBase
+  components:
+  - type: Sprite
+    sprite: _SIS/Objects/Consumable/Food/bowl.rsi
+
+- type: entity
+  name: hummus
+  parent: SIS_FoodBowlBase
+  id: FoodHummus
+  description: A unique dish created with bluespace technology on the distant Hummus planet by ancient beings. The recipe was uncovered by xenoarchaeologists 20 years ago.
+  components:
+  - type: FlavorProfile
+    flavors:
+      - creamy
+      - peas
+      - garlic
+  - type: Sprite
+    layers:
+    - state: bowl
+    - state: hummus
+  - type: Solution
+    solution:
+      maxVol: 20
+      reagents:
+      - ReagentId: Nutriment
+        Quantity: 10
+      - ReagentId: Vitamin
+        Quantity: 5
