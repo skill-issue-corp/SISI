@@ -16,6 +16,7 @@
   markers:
   - RandomTendrilLavaland
   - RandomMobLavaland
+  - MobArchLegionSpawn # SIS
   - OreIron
   - OreCoal
   - OreQuartz
