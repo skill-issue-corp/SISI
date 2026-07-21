@@ -102,8 +102,8 @@
   id: JudoWheelThrow
   attacks:
   - Grab
-  - Disarm
   - Harm
+  - Disarm
   userEffects:
   - !type:PopupMessage
     messages:
