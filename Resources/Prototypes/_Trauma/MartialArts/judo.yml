@@ -102,8 +102,9 @@
   id: JudoWheelThrow
   attacks:
   - Grab
+  # - Disarm # SIS
   - Harm
-  - Disarm
+  - Disarm # SIS
   userEffects:
   - !type:PopupMessage
     messages:
