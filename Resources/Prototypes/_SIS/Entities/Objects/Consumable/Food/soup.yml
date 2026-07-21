@@ -22,7 +22,7 @@
     - state: bowl
     - state: hummus
   - type: Solution
-    solutions:
+    solution:
       maxVol: 20
       reagents:
       - ReagentId: Nutriment
