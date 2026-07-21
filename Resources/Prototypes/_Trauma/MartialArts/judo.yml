@@ -50,7 +50,7 @@
   id: JudoThrow
   attacks:
   - Grab
-  - Grab
+  # - Grab # SIS
   - Disarm
   userEffects:
   - !type:PopupMessage
