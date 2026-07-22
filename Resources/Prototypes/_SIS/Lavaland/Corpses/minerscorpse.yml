@@ -6,7 +6,6 @@
     prototypes:
     - ArchMinerCorpseGear
 
-    
 - type: startingGear
   id: ArchMinerCorpseGear
   equipment:
@@ -18,5 +17,5 @@
     outerClothing: LavalandEquipmentExplorerSuit
     gloves: ClothingHandsGlovesColorBlack
     shoes: ClothingShoesColorBlack
-  inhand: 
+  inhand:
     - WeaponCrusherFilledRandom
