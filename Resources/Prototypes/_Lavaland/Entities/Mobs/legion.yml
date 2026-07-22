@@ -18,7 +18,7 @@
   - type: MeleeWeapon
     range: 1.3
     angle: 0
-    attackRate: 0.3
+    attackRate: 0.5
     animation: WeaponArcPunch
     damage:
       types:
@@ -27,7 +27,7 @@
     baseWalkSpeed: 2
     baseSprintSpeed: 2
   - type: Gun
-    fireRate: 0.5 # SIS
+    fireRate: 0.4 # SIS
     selectedMode: SemiAuto
     showExamineText: false
     availableModes:
