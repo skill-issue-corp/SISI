@@ -25,7 +25,7 @@
     baseWalkSpeed: 1
     baseSprintSpeed: 1
   - type: Gun
-    fireRate: 0.1
+    fireRate: 0.15
     selectedMode: SemiAuto
     showExamineText: false
     availableModes:

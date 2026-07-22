@@ -10,8 +10,8 @@
 - type: biomeMarkerLayer
   id: RandomMobLavaland
   prototype: SpawnerRandomMobLavaland
-#SIS-start
+  # SIS-Start
   radius: 16
   maxCount: 200
-#SIS-end
+  # SIS-End
   size: 128
