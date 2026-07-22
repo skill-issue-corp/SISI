@@ -1,0 +1,15 @@
+- type: entity
+  id: FoodLegionHeart
+  parent: FoodHivelordRemains
+  name: legion heart
+  description: The still-beating heart of the legion, eating it can invigorate you.
+  components:
+  - type: RotInto
+    entity: FoodLegionHeartInert
+    stage: 1
+    
+- type: entity
+  id: FoodLegionHeartInert
+  parent: FoodHivelordRemainsInert
+  name: cold legion heart
+  description: Its gone cold... its just a trophy now.
