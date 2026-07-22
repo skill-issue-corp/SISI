@@ -8,8 +8,7 @@
   "copyright": "Taken from https://github.com/ss220-space/Paradise/commit/c0581b48e50665feaa9bea84452fbabf8f2c4ced",
   "states": [
     {
-      "name": "alive",
-      "directions": 4
+      "name": "alive"
     }
   ]
 }
