@@ -27,7 +27,7 @@
     baseWalkSpeed: 2
     baseSprintSpeed: 2
   - type: Gun
-    fireRate: 0.4 # SIS
+    fireRate: 0.4 # SIS | 0.4
     selectedMode: SemiAuto
     showExamineText: false
     availableModes:
