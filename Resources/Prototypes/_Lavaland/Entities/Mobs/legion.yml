@@ -63,10 +63,10 @@
       - id: MaterialLegionSkull1
       - id: FoodLegionHeart # SIS
   - type: Fauna # Lavaland Change
-  #SIS-Start
+  # SIS-Start
   - type: Ammo
     muzzleFlash: null
-  #SIS-End
+  # SIS-End
 
 - type: entity
   id: MobLegionSkull
