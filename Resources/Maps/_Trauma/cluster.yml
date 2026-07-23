@@ -34280,7 +34280,7 @@ entities:
       pos: 12.5,24.5
       parent: 2
     - type: FaxMachine
-      name: Офис ПНТ # RU-Localization
+      name: Офис ПNT # RU-Localization
 - proto: FaxMachineCaptain
   entities:
   - uid: 5270

@@ -66824,7 +66824,7 @@ entities:
       pos: 14.5,-47.5
       parent: 2
     - type: FaxMachine
-      name: Офис ПНТ # RU-Localization
+      name: Офис ПNT # RU-Localization
   - uid: 10388
     components:
     - type: Transform

@@ -81342,7 +81342,7 @@ entities:
       pos: 5.5,50.5
       parent: 2
     - type: FaxMachine
-      name: Офис ПНТ # RU-Localization
+      name: Офис ПNT # RU-Localization
 - proto: filingCabinetDrawerRandom
   entities:
   - uid: 1360

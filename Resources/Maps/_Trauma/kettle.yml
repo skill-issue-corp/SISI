@@ -77031,7 +77031,7 @@ entities:
       pos: 26.5,-47.5
       parent: 2
     - type: FaxMachine
-      name: ПНТ # RU-Localization
+      name: ПNT # RU-Localization
 - proto: FaxMachineCaptain
   entities:
   - uid: 12123

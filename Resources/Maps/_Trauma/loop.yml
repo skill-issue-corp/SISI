@@ -50870,7 +50870,7 @@ entities:
       pos: -14.5,79.5
       parent: 2
     - type: FaxMachine
-      name: Офис ПНТ/ОСЩ # RU-Localization
+      name: Офис ПNT/ОСЩ # RU-Localization
 - proto: filingCabinetDrawerRandom
   entities:
   - uid: 7918
