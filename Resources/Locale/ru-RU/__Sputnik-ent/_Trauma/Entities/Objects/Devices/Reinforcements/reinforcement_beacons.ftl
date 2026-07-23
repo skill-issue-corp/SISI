@@ -135,7 +135,7 @@ ent-ReinforcementBeaconMime = { ent-BaseReinforcementBeacon }
 
 ent-ReinforcementBeaconChaplain = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
-    .suffix = Капеллан
+    .suffix = Священник
 
 ent-ReinforcementBeaconLibrarian = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }

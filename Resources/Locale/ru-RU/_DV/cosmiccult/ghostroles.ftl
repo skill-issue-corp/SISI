@@ -10,8 +10,8 @@ ghost-role-information-colossus-name = Энтропийный Колосс
 ghost-role-information-colossus-description = Призовите Изваяние Энтропии, чтобы продолжить своё существование и приблизить конец всего сущего! У вас есть 15 минут на это, иначе ваша энергия угаснет.
 ghost-role-information-colossus-rules = Вы — [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] вместе с любыми присутствующими космическими культистами.
 
-ghost-role-information-chantry-victim-name = Пленник Пустотной Часовни
-ghost-role-information-chantry-victim-description = Киборг, заточённый внутри Пустотной Часовни. Если ритуал будет завершён, вы превратитесь в Энтропийного Колосса.
+ghost-role-information-chantry-victim-name = Пленник Пустотной Церкви
+ghost-role-information-chantry-victim-description = Киборг, заточённый внутри Пустотной Церкви. Если ритуал будет завершён, вы превратитесь в Энтропийного Колосса.
 
 ghost-role-information-custodian-name = Малиновый Хранитель
 ghost-role-information-lodestar-name = Малиновый Путеводитель

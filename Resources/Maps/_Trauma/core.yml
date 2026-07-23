@@ -70678,7 +70678,7 @@ entities:
       pos: -26.5,-36.5
       parent: 2
     - type: FaxMachine
-      name: Часовня # RU-Localization
+      name: Церковь # RU-Localization
       destinationAddress: Chapel
   - uid: 5568
     components:

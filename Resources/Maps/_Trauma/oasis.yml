@@ -90258,7 +90258,7 @@ entities:
       pos: 15.5,-20.5
       parent: 2
     - type: FaxMachine
-      name: Часовня # RU-Localization
+      name: Церковь # RU-Localization
   - uid: 10449
     components:
     - type: MetaData
