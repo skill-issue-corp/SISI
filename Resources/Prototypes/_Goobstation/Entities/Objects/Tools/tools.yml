@@ -156,7 +156,7 @@
   suffix: Nanotrasen Representative
   components:
   - type: FaxMachine
-    name: "Nanotrasen Representative"
+    name: "Представитель Nanotrasen" # RU-Localization
   - type: Sprite
     sprite: _Goobstation/Objects/Tools/handheld_fax.rsi
     drawdepth: SmallObjects
@@ -181,7 +181,7 @@
   suffix: CentComm Official
   components:
   - type: FaxMachine
-    name: "CentComm Official"
+    name: "Официальный ЦентКом" # RU-Localization
   - type: Item
     size: Normal
     sprite: _Goobstation/Objects/Tools/official_fax.rsi

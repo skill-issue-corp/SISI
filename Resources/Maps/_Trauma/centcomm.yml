@@ -20769,21 +20769,21 @@ entities:
       pos: -14.5,-4.5
       parent: 1668
     - type: FaxMachine
-      name: CCO office
+      name: Офис Офицера ЦК # RU-Localization
   - uid: 2815
     components:
     - type: Transform
       pos: -25.5,-7.5
       parent: 1668
     - type: FaxMachine
-      name: CC intern 2
+      name: ЦК интерн 2 # RU-Localization
   - uid: 2816
     components:
     - type: Transform
       pos: -25.5,-3.5
       parent: 1668
     - type: FaxMachine
-      name: CC intern 1
+      name: ЦК интерн 1 # RU-Localization
 - proto: filingCabinetDrawer
   entities:
   - uid: 1628

@@ -3249,7 +3249,7 @@ entities:
       pos: 4.5,-8.5
       parent: 1
     - type: FaxMachine
-      name: Telescience Research Laboratory
+      name: Исследовательская Лаборатория Теленауки # RU-Localization
     - type: Pullable
       prevFixedRotation: True
 - proto: FireAlarmAssembly

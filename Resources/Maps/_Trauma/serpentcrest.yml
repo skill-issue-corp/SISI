@@ -81205,126 +81205,126 @@ entities:
       pos: -6.5,-19.5
       parent: 2
     - type: FaxMachine
-      name: Chaplain
+      name: Священник # RU-Localization
   - uid: 12857
     components:
     - type: Transform
       pos: -33.5,-26.5
       parent: 2
     - type: FaxMachine
-      name: News room
+      name: Новостная Комната # RU-Localization
   - uid: 12858
     components:
     - type: Transform
       pos: -13.5,-48.5
       parent: 2
     - type: FaxMachine
-      name: Interdyne front
+      name: Фронт Interdyne # RU-Localization
   - uid: 12859
     components:
     - type: Transform
       pos: -14.5,11.5
       parent: 2
     - type: FaxMachine
-      name: Gorlex command
+      name: Команда Gorlex # RU-Localization
   - uid: 12860
     components:
     - type: Transform
       pos: -10.5,6.5
       parent: 2
     - type: FaxMachine
-      name: Gorlex office
+      name: Команда Gorlex # RU-Localization
   - uid: 12861
     components:
     - type: Transform
       pos: -19.5,-13.5
       parent: 2
     - type: FaxMachine
-      name: Library
+      name: Библиотека # RU-Localization
   - uid: 12862
     components:
     - type: Transform
       pos: 57.5,16.5
       parent: 2
     - type: FaxMachine
-      name: RD's office
+      name: Офис НРа # RU-Localization
   - uid: 12863
     components:
     - type: Transform
       pos: 13.5,-56.5
       parent: 2
     - type: FaxMachine
-      name: Interdyne CMO
+      name: ГВ Interdyne # RU-Localization
   - uid: 12864
     components:
     - type: Transform
       pos: -61.5,27.5
       parent: 2
     - type: FaxMachine
-      name: CE's office
+      name: Офис СИ # RU-Localization
   - uid: 12865
     components:
     - type: Transform
       pos: -54.5,4.5
       parent: 2
     - type: FaxMachine
-      name: Engineering
+      name: Инженерный # RU-Localization
   - uid: 12866
     components:
     - type: Transform
       pos: 52.5,-34.5
       parent: 2
     - type: FaxMachine
-      name: QM's office
+      name: Офис КМа # RU-Localization
   - uid: 12867
     components:
     - type: Transform
       pos: 25.5,47.5
       parent: 2
     - type: FaxMachine
-      name: HOP's office
+      name: Офис ГП # RU-Localization
   - uid: 12868
     components:
     - type: Transform
       pos: -21.5,46.5
       parent: 2
     - type: FaxMachine
-      name: Cybersun command
+      name: Команда Cybersun # RU-Localization
   - uid: 12869
     components:
     - type: Transform
       pos: -49.5,-28.5
       parent: 2
     - type: FaxMachine
-      name: Cybersun Legal dept.
+      name: Юридический отдел Cybersun # RU-Localization
   - uid: 12870
     components:
     - type: Transform
       pos: 48.5,-17.5
       parent: 2
     - type: FaxMachine
-      name: Donk co. shipping
+      name: Компания Donk co. # RU-Localization
   - uid: 12871
     components:
     - type: Transform
       pos: -0.5,48.5
       parent: 2
     - type: FaxMachine
-      name: Board room
+      name: Зал Заседаний # RU-Localization
   - uid: 12872
     components:
     - type: Transform
       pos: 50.5,9.5
       parent: 2
     - type: FaxMachine
-      name: Science
+      name: Наука # RU-Localization
   - uid: 12873
     components:
     - type: Transform
       pos: 5.5,9.5
       parent: 2
     - type: FaxMachine
-      name: Warden's office
+      name: Офис Смотрителя # RU-Localization
 - proto: FaxMachineCaptain
   entities:
   - uid: 12874
@@ -81333,7 +81333,7 @@ entities:
       pos: -4.5,34.5
       parent: 2
     - type: FaxMachine
-      name: Captain's office
+      name: Капитанский Офис # RU-Localization
 - proto: FaxMachineCentcom
   entities:
   - uid: 12875
@@ -81342,7 +81342,7 @@ entities:
       pos: 5.5,50.5
       parent: 2
     - type: FaxMachine
-      name: NTR office
+      name: Офис ПНТ # RU-Localization
 - proto: filingCabinetDrawerRandom
   entities:
   - uid: 1360
@@ -155673,7 +155673,7 @@ entities:
       setupAvailableNetworks:
       - SurveillanceCameraSecurity
       nameSet: True
-      id: Gorlex office
+      id: Команда Gorlex # RU-Localization
   - uid: 23753
     components:
     - type: Transform

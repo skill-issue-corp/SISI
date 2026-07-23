@@ -90258,7 +90258,7 @@ entities:
       pos: 15.5,-20.5
       parent: 2
     - type: FaxMachine
-      name: Chapel
+      name: Часовня # RU-Localization
   - uid: 10449
     components:
     - type: MetaData
@@ -90267,7 +90267,7 @@ entities:
       pos: -9.5,-34.5
       parent: 2
     - type: FaxMachine
-      name: medical
+      name: Медицинский # RU-Localization
   - uid: 10450
     components:
     - type: Transform
@@ -90281,7 +90281,7 @@ entities:
       pos: 39.5,-4.5
       parent: 2
     - type: FaxMachine
-      name: HoP
+      name: ГП # RU-Localization
   - uid: 10452
     components:
     - type: MetaData
@@ -90290,7 +90290,7 @@ entities:
       pos: 38.5,5.5
       parent: 2
     - type: FaxMachine
-      name: lawyer
+      name: Юрист # RU-Localization
   - uid: 10453
     components:
     - type: MetaData
@@ -90299,7 +90299,7 @@ entities:
       pos: 8.5,34.5
       parent: 2
     - type: FaxMachine
-      name: engineering
+      name: Инженерный # RU-Localization
   - uid: 10454
     components:
     - type: MetaData
@@ -90308,7 +90308,7 @@ entities:
       pos: -11.5,35.5
       parent: 2
     - type: FaxMachine
-      name: library
+      name: Библиотека # RU-Localization
   - uid: 10455
     components:
     - type: MetaData
@@ -90317,7 +90317,7 @@ entities:
       pos: 9.5,-45.5
       parent: 2
     - type: FaxMachine
-      name: science
+      name: Наука # RU-Localization
   - uid: 10456
     components:
     - type: MetaData
@@ -90326,7 +90326,7 @@ entities:
       pos: -48.5,3.5
       parent: 2
     - type: FaxMachine
-      name: cargo
+      name: Карго # RU-Localization
   - uid: 10457
     components:
     - type: MetaData
@@ -90335,7 +90335,7 @@ entities:
       pos: -46.5,-27.5
       parent: 2
     - type: FaxMachine
-      name: news
+      name: Новости # RU-Localization
   - uid: 10458
     components:
     - type: Transform
@@ -90349,7 +90349,7 @@ entities:
       pos: 9.5,7.5
       parent: 24016
     - type: FaxMachine
-      name: Perma
+      name: Пермабриг # RU-Localization
 - proto: FaxMachineCaptain
   entities:
   - uid: 10459
