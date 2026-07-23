@@ -75,7 +75,7 @@ ent-ClothingHeadHelmetHardsuitPirateCap = шлем скафандра капит
 ent-ClothingHeadHelmetHardsuitERTLeader = шлем скафандра лидера ОБР
     .desc = Специальный шлем скафандра, который носят члены оперативной группы быстрого реагирования.
 
-ent-ClothingHeadHelmetHardsuitERTChaplain = шлем скафандра капеллана ОБР
+ent-ClothingHeadHelmetHardsuitERTChaplain = шлем скафандра священника ОБР
     .desc = Специальный шлем скафандра, который носят члены оперативной группы быстрого реагирования.
 
 ent-ClothingHeadHelmetHardsuitERTEngineer = шлем скафандра инженера ОБР

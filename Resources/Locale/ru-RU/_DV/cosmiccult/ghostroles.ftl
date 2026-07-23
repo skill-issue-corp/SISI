@@ -1,26 +1,56 @@
-ghost-role-information-theunknown-name = Неизвестный
-ghost-role-information-theunknown-description = Космический Культ одержал победу. Фрагмент космической энергии вырывается в реальность.
+# THE UNKNOWN
+
+ghost-role-information-theunknown-name = Неизвестное
+ghost-role-information-theunknown-description = Космический Культ победил. Фрагмент космической силы прорывается в реальное пространство.
 ghost-role-information-theunknown-rules = ...
-roles-antag-rogue-ascended-name = Астральный вознесённый
-roles-antag-rogue-ascended-objective = Судьба не должна быть отдана на волю случая. Используйте свои потусторонние силы, чтобы искажать сердца и умы тех, кто находится на станции.
-ghost-role-information-rogue-ascended-name = Астральный вознесённый
-ghost-role-information-rogue-ascended-description = Судьба не должна быть отдана на волю случая. Используйте свои потусторонние силы, чтобы искажать сердца и умы тех, кто находится на станции.
-ghost-role-information-rogue-ascended-rules = Вы — [color=red][bold]Командный антагонист[/bold][/color] со всеми присутствующими членами Космического культа.
-petting-success-rogue-ascended = Уворачиваясь от хлестких щупалец и волн астральной энергии, вы как-то гладите { $target }.
-petting-failure-rogue-ascended = Пространство-время искажается вокруг вашей руки, и в итоге вы гладите самого себя.
-rogue-ascended-dendrite-eaten = Зловещее свечение вспыхивает!
-rogue-ascended-infection-fail = Вам нужно ослабить цель, чтобы исказить её!
-rogue-ascended-infection-alreadyinfected = { CAPITALIZE($target) } уже искажён!
-rogue-ascended-infection-error = Вы не можете сделать это прямо сейчас.
-rogue-ascended-infection-notification = { CAPITALIZE($target) } протягивает свои щупальца { CAPITALIZE($target) }!
-rogue-ascended-infection-briefing =
-    Зловещая энергия пропитывает вашу душу. Вы были заражены Астральным вознесённым!
-    Вы должны действовать согласно своим настроениям максимально эффективно, независимо от того, являетесь ли вы антагонистом.
-rogue-ascended-shatter-fail = Вы не можете сделать это прямо сейчас.
-rogue-ascended-round-end-agent-name = Астральный вознесённый
-rogue-ascended-objective-issuer = [bold][color=#cae8e8]Неизвестный[/color][/bold]
-rogue-ascended-role-greeting =
-    Вы — Астральный вознесённый, тень выходящей за пределы всякого сознания сущности, отражённая в реальности.
-    Всё закончится так, как всё и вся в этом мире. Самым добродушным проявлением будет донести эту чистейшую истину до как можно большего числа людей.
-objective-condition-maligninfection-title = Исказить { $count } умов
-objective-condition-maligninfection-description = Ваше прикосновение может искажать разум. Пробудите чистейшую истину в { $count } существах на станции.
+
+# COLOSSUS
+
+ghost-role-information-colossus-name = Энтропийный Колосс
+ghost-role-information-colossus-description = Призовите Изваяние Энтропии, чтобы продолжить своё существование и приблизить конец всего сущего! У вас есть 15 минут на это, иначе ваша энергия угаснет.
+ghost-role-information-colossus-rules = Вы — [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] вместе с любыми присутствующими космическими культистами.
+
+ghost-role-information-chantry-victim-name = Пленник Пустотной Церкви
+ghost-role-information-chantry-victim-description = Киборг, заточённый внутри Пустотной Церкви. Если ритуал будет завершён, вы превратитесь в Энтропийного Колосса.
+
+ghost-role-information-custodian-name = Малиновый Хранитель
+ghost-role-information-lodestar-name = Малиновый Путеводитель
+ghost-role-information-colossus-summon-description = Помогите Колоссу защитить его Изваяние.
+
+
+terror-colossus = Внимание, экипаж, похоже, кто-то на вашей станции привлёк внимание огромной зловещей аномалии.
+
+ghost-role-colossus-charactermenu = Вы должны приблизить конец всего сущего. Сейте невиданный хаос среди всех, кто встретится на вашем пути.
+ghost-role-colossus-objective = Призовите Изваяние Энтропии и продержитесь до конца всего сущего.
+ghost-role-colossus-briefing =
+    Вы — Энтропийный Колосс!
+    Ваши цели указаны в меню персонажа.
+    Подробнее о своей роли вы можете узнать в справочнике.
+
+ghost-role-colossus-death = Колосс рушится, его поверхность стремительно распадается.
+ghost-role-colossus-hibernate = Колосс начинает накапливать энергию!
+ghost-role-colossus-effigy-confirm = Если размещение допустимо, нажмите снова, чтобы призвать Изваяние.
+
+ghost-role-colossus-effigy-error-grid = Недопустимое место! Изваяние должно быть призвано на устойчивой поверхности.
+ghost-role-colossus-effigy-error-location = Недопустимое место! Изваяние должно быть призвано рядом с {$LOCATION}.
+ghost-role-colossus-effigy-error-intersection = Слишком тесно! Для призыва Изваяния требуется свободная клетка.
+ghost-role-colossus-effigy-error-space = Слишком близко к космосу! Изваяние должно находиться на расстоянии не менее {$DISTANCE} м.
+
+objective-condition-effigy-no-target = Призовите Изваяние там, где пожелаете.
+objective-condition-effigy = Призовите Изваяние рядом с «{$location}».
+
+# MINDSINK (Positronic Brain)
+
+ghost-role-mindsink-installed = С его поверхности доносится тихий шёпот!
+ghost-role-mindsink-off = Он бездействует.
+ghost-role-mindsink-still-searching = Он черпает силы из ноосферы...
+ghost-role-mindsink-searching = Он начал черпать силы из ноосферы...
+ghost-role-mindsink-role-name = Малиновый Разумопоглотитель
+ghost-role-mindsink-role-description = Служите экипажу станции, несмотря на своё необычное происхождение.
+ghost-role-mindsink-wipe-device-verb-text = Стереть разум
+ghost-role-mindsink-wiped-device = Разум был погашен.
+ghost-role-mindsink-stop-searching-verb-text = Прекратить поиск
+ghost-role-mindsink-stopped-searching = Ноосферный резонанс остановлен.
+ghost-role-mindsink-slot-component-slot-name-brain = Мозг
+
+name-identifier-format-mindsink = ASTRAL-{$number}

@@ -1,4 +1,6 @@
 guide-entry-cosmiccult = Космический Культ
 guide-entry-cosmiccult-monument = Монумент
 guide-entry-cosmiccult-influences = Влияния
-guide-entry-cosmiccult-deconversion = Очищение
+guide-entry-cosmiccult-deconversion = Обращение вспять
+
+guide-entry-cosmiccolossus = Энтропийный Колосс

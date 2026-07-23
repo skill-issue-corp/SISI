@@ -688,7 +688,7 @@ entities:
       pos: -0.5,1.5
       parent: 1
     - type: FaxMachine
-      name: syndicate long range fax machine
+      name: факс дальнего действия Синдиката # RU-Localization
 - proto: GasPassiveVent
   entities:
   - uid: 108

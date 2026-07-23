@@ -26,9 +26,9 @@ ent-ClothingBeltCorporateJudoFilled = { ent-ClothingBeltCorporateJudo }
     .desc = { ent-ClothingBeltCorporateJudo.desc }
     .suffix = Заполненный
 
-ent-ClothingBeltHolsterFilledChaplain = кобура капеллана
+ent-ClothingBeltHolsterFilledChaplain = кобура священника
     .desc = Плечевая кобура от богов. Содержит пару пистолетов.
-    .suffix = Заполненный, капеллан
+    .suffix = Заполненный, священник
 
 ent-ClothingBeltAssaultFilled = { ent-ClothingBeltMilitaryWebbing }
     .desc = { ent-ClothingBeltMilitaryWebbing.desc }

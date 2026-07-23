@@ -1,13 +1,29 @@
 ent-XenobioVolatileOrgan = нестабильный орган
-    .desc = Пульсирующая масса слизи, кажется, реагирует на близлежащие устройства.
-    .suffix = Заполненный
-ent-XenobioGoopBall = шар слизи
-    .desc = Не такой липкий, как выглядит. Доказано, что может сдерживать огонь на том же уровне, что и голопроектор. Крики адской агонии в комплекте!
-ent-FloorTileItemBluespace = плитка блюспейс пола
+    .desc = Пульсирующая масса слайма, кажется, реагирует на находящиеся поблизости устройства.
+    .suffix = Полный
+
+ent-XenobioGoopBall = липкий шар
+    .desc = Не такой липкий, каким кажется. Доказано, что он гасит огонь не хуже голофена. Крики прилагаются!
+
+ent-FloorTileItemBluespace = ковровая плитка «блюспейс»
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemSepia = плитка сепия пола
+
+ent-FloorTileItemBluespace30 = { ent-FloorTileItemBluespace }
+    .desc = { ent-FloorTileItemBluespace.desc }
+    .suffix = 30
+
+ent-FloorTileItemSepia = ковровая плитка «сепия»
     .desc = { ent-FloorTileItemBase.desc }
-ent-XenobioVolatileRedExtractJelly = нестабильное красное слаймовое желе
-    .desc = При применение на одежде, похоже, устраняет эффекты любых замедлений. Однако субъекты в такой одежде превратились в пепел, когда учёный зажёг сигарету.
-ent-XenobioAdamantineBar = адамантиевый слиток
-    .desc = Теоретически, если продать пару таких слитков, вам больше не придётся работать. Должно быть, у него есть применение, раз он стоит целое состояние. Но в чём?
+
+ent-FloorTileItemSepia30 = { ent-FloorTileItemSepia }
+    .desc = { ent-FloorTileItemSepia.desc }
+    .suffix = 30
+
+ent-XenobioVolatileRedExtractJelly = нестабильное желе из красного слайма
+    .desc = При использовании на одежде, похоже, устраняет любые замедления. Однако субъекты, носившие такую одежду, сгорали дотла, стоило учёному закурить сигарету.
+
+ent-XenobioAdamantineBar = слиток адамантина
+    .desc = Теоретически, продав пару таких, можно больше никогда не работать на станции. У него наверняка есть применение, раз получение одного стоит целое состояние. Но какое?
+
+ent-SolutionFoodSlime = { ent-Solution }
+    .desc = { ent-Solution.desc }

@@ -934,7 +934,7 @@ entities:
       pos: -3.5,3.5
       parent: 1
     - type: FaxMachine
-      name: NT-Quark
+      name: NT-Кварк # RU-Localization
 - proto: GasPassiveVent
   entities:
   - uid: 189

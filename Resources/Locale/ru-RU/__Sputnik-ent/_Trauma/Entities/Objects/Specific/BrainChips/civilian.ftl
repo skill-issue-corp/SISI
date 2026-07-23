@@ -1,6 +1,6 @@
 ent-SkillChipPassenger = чип навыков (ассистент)
     .desc = { ent-BaseSkillChip.desc }
-ent-SkillChipChaplain = чип навыков (капеллан)
+ent-SkillChipChaplain = чип навыков (священник)
     .desc = { ent-BaseSkillChip.desc }
 ent-SkillChipClown = чип навыков (клоун)
     .desc = { ent-BaseSkillChip.desc }

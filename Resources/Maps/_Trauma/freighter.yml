@@ -67353,42 +67353,42 @@ entities:
       pos: 33.5,-3.5
       parent: 2
     - type: FaxMachine
-      name: Bridge
+      name: Мостик # RU-Localization
   - uid: 10920
     components:
     - type: Transform
       pos: 37.5,-11.5
       parent: 2
     - type: FaxMachine
-      name: HoP office
+      name: Офис ГП # RU-Localization
   - uid: 10921
     components:
     - type: Transform
       pos: -94.5,1.5
       parent: 2
     - type: FaxMachine
-      name: Library
+      name: Библиотека # RU-Localization
   - uid: 10922
     components:
     - type: Transform
       pos: -230.5,0.5
       parent: 2
     - type: FaxMachine
-      name: Security
+      name: Безопасность # RU-Localization
   - uid: 10923
     components:
     - type: Transform
       pos: -172.5,-3.5
       parent: 2
     - type: FaxMachine
-      name: Cargo
+      name: Карго # RU-Localization
   - uid: 10924
     components:
     - type: Transform
       pos: -179.5,9.5
       parent: 2
     - type: FaxMachine
-      name: Quartermaster
+      name: Квартермейстер # RU-Localization
   - uid: 10925
     components:
     - type: Transform

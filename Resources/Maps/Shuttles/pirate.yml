@@ -2275,7 +2275,7 @@ entities:
       pos: -9.5,10.5
       parent: 1
     - type: FaxMachine
-      name: pirate fax
+      name: Пиратский Факс # RU-Localization
 - proto: FireExtinguisher
   entities:
   - uid: 325
