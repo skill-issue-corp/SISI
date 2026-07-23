@@ -55,8 +55,8 @@ public sealed partial class StationReportSystem : EntitySystem
 
             // TODO: custom greenshift/threat level announcement
             _chat.DispatchStationAnnouncement(station,
-                "A summary of the station's situation has been copied and printed to all communications consoles.",
-                "Station Report");
+                "Сводка о состоянии станции была скопирована и распечатана на всех консолях связи.",
+                "Станционный Отчёт");
         }
     }
 
@@ -72,19 +72,19 @@ public sealed partial class StationReportSystem : EntitySystem
     {
         _sb.Clear();
         var date = DateTime.UtcNow.AddYears(_years).ToString("ddd, MMM dd, yyyy");
-        _sb.AppendLine($"[bolditalic]Nanotrasen Department of Intelligence Threat Advisory, Sol Sector, TCD {date}:[/bolditalic]\n");
+        _sb.AppendLine($"[bolditalic]Уведомление об угрозе Департамента разведки NanoTrasen, сектор Sol, TCD {date}:[/bolditalic]\n");
 
         // TODO: actual dynamic gamemode reports lol
-        _sb.AppendLine("Advisory Level: [bold]Yellow Star[/bold]");
-        _sb.AppendLine("   Your sector's advisory level is Yellow Star.");
-        _sb.AppendLine("   Surveillance shows a credible risk of enemy attack against our assets in the Sol Sector.");
-        _sb.AppendLine("   We advise a heightened level of security alongside maintaining vigilance against potential threats.\n");
+        _sb.AppendLine("Уровень угрозы: [bold]Жёлтая Звезда[/bold]");
+        _sb.AppendLine("   Уровень угрозы вашего сектора — жёлтая звезда.");
+        _sb.AppendLine("   Данные наблюдения показывают достоверный риск вражеской атаки на наши активы в секторе Sol.");
+        _sb.AppendLine("   Мы рекомендуем повысить уровень безопасности и сохранять бдительность в отношении потенциальных угроз.\n");
 
         // TODO: station goals
 
         _traits.AppendReport(_sb, station);
 
-        _sb.AppendLine($"\n\n[italic]This advisory is intended for the staff of {Name(station)}. If this is not your station, you must destroy this document immediately.[/italic]");
+        _sb.AppendLine($"\n\n[italic]Данное уведомление предназначено для персонала {Name(station)}. Если это не ваша станция, вы обязаны немедленно уничтожить этот документ.[/italic]");
 
         return _sb.ToString();
     }
