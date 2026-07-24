@@ -1110,12 +1110,14 @@
     Telecrystal: 60
   categories:
   - UplinkWeaponry
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - NukeOpsUplink
-      - ContravendUplink
+  # SIS-Start
+#  conditions:
+#  - !type:StoreWhitelistCondition
+#    whitelist:
+#      tags:
+#      - NukeOpsUplink
+#      - ContravendUplink
+   # SIS-End
 
 - type: listing
   id: UplinkCQCManualChef
@@ -1149,7 +1151,7 @@
   description: uplink-sleeping-carp-desc
   productEntity: SleepingCarpScroll
   cost:
-    Telecrystal: 65 # inky
+    Telecrystal: 100 # SIS
   #discountCategory: null # inky
   categories:
   - UplinkWeaponry
