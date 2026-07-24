@@ -20,7 +20,7 @@ public sealed partial class EndRoundCreditsControl : ScrollContainer
     [Dependency] private IRobustRandom _gamba = default!;
     // </inky>
 
-    private static readonly ResPath Logo = new("/Textures/Logo/logo.png");
+    private static readonly ResPath Logo = new("/Textures/_SIS/Logo/logo.png"); // SIS-Credits
     private static readonly ResPath Pixellari = new("/Fonts/_Trauma/Pixellari.ttf");
     private static readonly ResPath GrandPixel = new("/Fonts/_Trauma/Grand9K_Pixel.ttf");
 
