@@ -136,8 +136,8 @@ hugging-success-generic = Вы обнимаете { $target }.
 hugging-success-generic-others = { CAPITALIZE($user) } обнимает { $target }.
 hugging-success-generic-target = { CAPITALIZE($user) } обнимает вас.
 
-petting-success-soft-floofy-vulp = Вы гладите { THE($target) } по {POSS-ADJ($target)} мягкой пушистой голове.
-petting-success-soft-floofy-vulp-others = { CAPITALIZE(THE($user)) } гладит {THE($target)} по {POSS-ADJ($target)} мягкой пушистой голове.
+petting-success-soft-floofy-vulp = Вы гладите { $target } по {POSS-ADJ($target)} мягкой пушистой голове.
+petting-success-soft-floofy-vulp-others = { CAPITALIZE($user) } гладит {$target} по {POSS-ADJ($target)} мягкой пушистой голове.
 
 ## Other
 

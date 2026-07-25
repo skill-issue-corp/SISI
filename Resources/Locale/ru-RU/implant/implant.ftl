@@ -21,15 +21,15 @@
 ## Implanter Attempt Messages
 
 # SIS-Fix_Loc Start
-implanter-component-implanting-target = {CAPITALIZE(THE($user))} пытается имплантировать в вас что-то!
-implanter-component-draw-target = {CAPITALIZE(THE($user))} пытается извлечь что-то из вас!
+implanter-component-implanting-target = {CAPITALIZE($user)} пытается имплантировать в вас что-то!
+implanter-component-draw-target = {CAPITALIZE($user)} пытается извлечь что-то из вас!
 # SIS-Fix_Loc End
 implanter-component-implant-failed = { $implant } нельзя имплантировать в { $target }!
 implanter-draw-failed-permanent = { $implant } вросся в { $target } и не может быть удалён!
 implanter-draw-failed = Вы пытаетесь удалить имплант, но ничего не находите.
 implanter-draw-failed-catastrophically = Имплантер ничего не находит и катастрофически выходит из строя, впивая генетический материал в руку { $user }!
 # SIS-Fix_Loc Start
-implanter-component-implant-already = У {CAPITALIZE(THE($target))} уже есть {$implant}!
+implanter-component-implant-already = У {CAPITALIZE($target)} уже есть {$implant}!
 # SIS-Fix_Loc End
 
 ## UI
