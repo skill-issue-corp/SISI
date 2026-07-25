@@ -168,7 +168,7 @@ public sealed partial class ExaminableCharacterSystem : EntitySystem
 
             if (!args.IsSecondaryInfo)
             {
-                TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
+                TextInfo textInfo = new CultureInfo("ru-RU", false).TextInfo; // RU-Localization
                 var name = textInfo.ToTitleCase(ent.Comp.EntityName);
                 name = FormattedMessage.EscapeText(name);
                 var item = Loc.GetString("examine-present-tex",
