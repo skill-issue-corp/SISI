@@ -5,5 +5,5 @@ ent-SolutionVenomTick = { ent-Solution }
     .desc = { ent-Solution.desc }
 
 ent-MobTickSalvage = { ent-MobTick }
-    .suffix = Salvage Ruleset
+    .suffix = Правила Обломков
     .desc = { ent-MobTick.desc }
