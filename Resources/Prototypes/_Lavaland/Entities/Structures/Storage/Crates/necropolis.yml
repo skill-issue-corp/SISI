@@ -31,6 +31,26 @@
     - id: LavalandVampirismCrystal
     # TODO add more interesting obtain methods for crusher upgrades (from megafauna, ruins, etc.)
     - id: CrusherUpgradeMainRudeBuster
+    # SIS-Start
+    - id: CrusherUpgradeMainMarker
+    - id: KnockSpellbook
+    - id: UnholyHalberd
+    - id: WeaponBaguette
+    - id: TrashBananaPeel
+    - id: ArmBladeChangeling
+    - id: ToolboxMimic
+    - id: HereticBladeAsh
+    - id: HereticBladeBlade
+    - id: HereticBladeFleshGhoul
+    - id: HereticBladeLock
+    - id: HolyClaymore
+    - id: GodHand
+    - id: Nullrod
+    - id: MonkStaff
+    - id: ToolboxArrythmicKnifeMimic
+    - id: HonkmotherMaw
+    - id: EchoKatana
+    # SIS-End
 
     - !type:NestedSelector
       weight: 2
