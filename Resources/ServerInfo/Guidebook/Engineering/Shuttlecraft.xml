@@ -24,7 +24,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   <GuideEntityEmbed Entity="Gyroscope"/>
   <GuideEntityEmbed Entity="ComputerShuttle"/>
   <GuideEntityEmbed Entity="SubstationBasic"/>
-  <GuideEntityEmbed Entity="PortableGeneratorPacman" Caption="P.A.C.M.A.N." />
+  <GuideEntityEmbed Entity="PortableGeneratorPacman" Caption="П.А.К.М.А.Н." />
   </Box>
   <Box>
   <GuideEntityEmbed Entity="CableHVStack"/>
@@ -112,12 +112,12 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   ## Power
   Now that you have all the systems in place, you'll need to power them.
 
-  For small shuttles, a J.R.P.A.C.M.A.N.-type portable generator is a good choice. It provides straight LV power, so you don't have to worry about transformers.
+  For small shuttles, a М.Л.П.А.К.М.А.Н.-type portable generator is a good choice. It provides straight LV power, so you don't have to worry about transformers.
   Fuel for the generator is also commonly found in maintenance tunnels.
 
   <Box HorizontalAlignment="Stretch">
     <Box>
-      <GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="J.R.P.A.C.M.A.N."/>
+      <GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="М.Л.П.А.К.М.А.Н."/>
     </Box>
     <Box>
       <GuideEntityEmbed Entity="WeldingFuelTankFull"/>
