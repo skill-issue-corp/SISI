@@ -47,7 +47,8 @@
     - id: GodHand
     - id: Nullrod
     - id: MonkStaff
-    - id: ToolboxArrythmicKnifeMimic
+    - id: ToolboxMimic
+    - id: ArrythmicKnife
     - id: HonkmotherMaw
     - id: EchoKatana
     # SIS-End
