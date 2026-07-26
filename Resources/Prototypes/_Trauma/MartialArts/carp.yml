@@ -40,7 +40,7 @@
   - Grab
   opponentEffects:
   - !type:TakeStaminaDamage
-    amount: 50
+    amount: 30
   - !type:ModifyParalysis
     time: 4
   - !type:HealthChange
@@ -57,5 +57,5 @@
   - Disarm
   opponentEffects:
   - !type:TakeStaminaDamage
-    amount: 50
+    amount: 40
   levelRequired: 26
