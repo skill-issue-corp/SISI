@@ -41,7 +41,7 @@
   - type: UseRequiresSight
   - type: KnowledgeGrantOnUse
     skills:
-      MartialArtSleepingCarp: 75
+      MartialArtSleepingCarp: 70
     doAfter: 2
   - type: GuideHelp
     guides:

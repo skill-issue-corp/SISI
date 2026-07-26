@@ -29,25 +29,25 @@
     targetPart: Chest
     damage:
       types:
-        Slash: 22
+        Slash: 22 # SIS CARP BALANCING
   levelRequired: 26
 
 - type: combo
   id: SleepingCarpKneeHaul
   attacks:
   - Harm
-  - Disarm
+  - Disarm # SIS CARP BALANCING
   - Grab
   opponentEffects:
   - !type:TakeStaminaDamage
-    amount: 30
+    amount: 30 # SIS CARP BALANCING
   - !type:ModifyParalysis
-    time: 4
+    time: 4 # SIS CARP BALANCING
   - !type:HealthChange
     targetPart: Chest
     damage:
       types:
-        Blunt: 9
+        Blunt: 9 # SIS CARP BALANCING
   levelRequired: 26
 
 - type: combo
@@ -57,5 +57,5 @@
   - Disarm
   opponentEffects:
   - !type:TakeStaminaDamage
-    amount: 40
+    amount: 40 # SIS CARP BALANCING
   levelRequired: 26
