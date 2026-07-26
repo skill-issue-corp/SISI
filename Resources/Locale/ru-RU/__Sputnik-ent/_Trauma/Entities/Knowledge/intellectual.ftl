@@ -1,11 +1,5 @@
-# AUTOGEN-Start
-# Магическая грамотность
-# AUTOGEN-End TODO(Update_Locale):
-ent-MagicalLiteracyKnowledge = Magical Literacy
-    .desc = How adept you are in the world of magic. Allows you to practice demonology if you are magically gifted, or do basic enchanting.
+ent-MagicalLiteracyKnowledge = Магическая грамотность
+    .desc = Насколько вы искусны в мире магии. Позволяет практиковать демонологию, если у вас есть дар к магии, или заниматься базовым зачарованием.
 
-# AUTOGEN-Start
-# Грамотность
-# AUTOGEN-End TODO(Update_Locale):
-ent-LiteracyKnowledge = Literacy
-    .desc = Does nothing currently. You shouldn't waste points on this...
+ent-LiteracyKnowledge = Грамотность
+    .desc = Пока ничего не делает. Не стоит тратить очки на это...

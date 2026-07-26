@@ -1,89 +1,48 @@
-# AUTOGEN-Start
-# Ближний бой
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtCQC = Close Quarters Combat
-    .desc = A practical martial art developed by a legendary soldier and his mentor long ago.
+ent-MartialArtCQC = Ближний Бой
+    .desc = Практическое боевое искусство, разработанное легендарным солдатом и его наставником много лет назад.
 
-ent-MartialArtCQCChef = Ближний кухонный бой
+ent-MartialArtCQCChef = Ближний Кухонный Бой
     .desc = Как и ближний бой, но применим только на кухне, в морозильнике и столовой.
 
-# AUTOGEN-Start
-# Корпоративное дзюдо
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtCorporateJudo = Corporate Judo
-    .desc = NanoTrasen's official martial art for security, effective at non-lethal takedowns of shitters and other bad people.
+ent-MartialArtCorporateJudo = Корпоративное Дзюдо
+    .desc = Официальное боевое искусство NanoTrasen для службы безопасности, эффективное для нелетального обезвреживания говнюков и прочих плохих людей.
 
-# AUTOGEN-Start
-# Крав-мага
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtKravMaga = Krav Maga
-    .desc = A defensive martial art created on Earth many centuries ago, still in use today.
+ent-MartialArtKravMaga = Крав-мага
+    .desc = Оборонительное боевое искусство, созданное на Земле много веков назад и используемое до сих пор.
 
-# AUTOGEN-Start
-# Капоэйра
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtCapoeira = Capoeira
-    .desc = An especially violent brazilian dance form.
+ent-MartialArtCapoeira = Капоэйра
+    .desc = Особенно жестокая форма бразильского танца.
 
-# AUTOGEN-Start
-# Адский разрыв
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtHellRip = Hell Rip
-    .desc = Slaughter demons use this to rip their victims' limbs apart.
+ent-MartialArtHellRip = Адский Разрыв
+    .desc = Демоны-мясники используют это, чтобы разрывать конечности своих жертв.
 
-# AUTOGEN-Start
-# Ниндзюцу
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtNinjutsu = Ninjutsu
-    .desc = An ancient martial art focused on silent takedowns and sneak attacks.
+ent-MartialArtNinjutsu = Ниндзюцу
+    .desc = Древнее боевое искусство, сосредоточенное на бесшумных захватах и внезапных атаках.
 
-# AUTOGEN-Start
-# Кунг-фу дракона
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtDragon = Dragon Kung Fu
-    .desc = Kill the ontag
+ent-MartialArtDragon = Кунг-фу Дракона
+    .desc = Убей онтаг
 
-# AUTOGEN-Start
-# Спящий карп
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtSleepingCarp = Sleeping Carp
-    .desc = An oriental martial art used by those in tune with space carp.
+ent-MartialArtSleepingCarp = Спящий Карп
+    .desc = Восточное боевое искусство, используемое теми, кто находится в гармонии с космическими карпами.
 
-ent-MartialArtPlasmaFist = Плазменный кулак
+ent-MartialArtPlasmaFist = Плазменный Кулак
     .desc = { ent-BaseMartialArtsKnowledge.desc }
 
-# AUTOGEN-Start
-# Космический медведь
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtSpaceBear = Space Bear
-    .desc = A powerful fighting style mimicing the equally powerful space bear.
+ent-MartialArtSpaceBear = Космический Медведь
+    .desc = Мощный боевой стиль, имитирующий столь же мощного космического медведя.
 
-# AUTOGEN-Start
-# Бокс
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtBoxing = Boxing
-    .desc = The gentleman's fighting style.
+ent-MartialArtBoxing = Бокс
+    .desc = Джентльменский боевой стиль.
 
-# AUTOGEN-Start
-# Пьяное кунг-фу
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtDrunkfu = Drunk-Fu
-    .desc = How to fight in a pub.
+ent-MartialArtDrunkfu = Пьяное Кунг-фу
+    .desc = Как драться в пабе.
 
-# AUTOGEN-Start
-# Мимодзюцу
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtMimejutsu = Mimejutsu
-    .desc = Silent but deadly.
+ent-MartialArtMimejutsu = Мимодзюцу
+    .desc = Тихо, но смертельно.
 
-# AUTOGEN-Start
-# Админ-фу
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtAdminfu = Admin-Fu
-    .desc = AHELP: Clown Grief Me Pls Ban He
+ent-MartialArtAdminfu = Админ-фу
+    .desc = AHELP: клоун гриферит меня, пожалуйста забаньте его
 
-# AUTOGEN-Start
-# Карате стиля Армстронга
-# AUTOGEN-End TODO(Update_Locale):
-ent-MartialArtArmstrongKarate = Armstrong style Karate
-    .desc = A style of karate developed out of pain and self reflection.
+
+ent-MartialArtArmstrongKarate = Карате Стиля Армстронга
+    .desc = Стиль карате, рожденный из боли и самоанализа.

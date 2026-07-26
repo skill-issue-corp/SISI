@@ -1,47 +1,23 @@
-# AUTOGEN-Start
-# изготовление
-# AUTOGEN-End TODO(Update_Locale):
-ent-FabricationKnowledge = Fabrication
-    .desc = Higher tiers of fabrication allow you to craft and construct more advanced recipes from memory.
+ent-FabricationKnowledge = Изготовление
+    .desc = Более высокие уровни изготовления позволяют вам создавать и собирать более сложные рецепты по памяти.
 
-# AUTOGEN-Start
-# оружейник
-# AUTOGEN-End TODO(Update_Locale):
-ent-WeaponsKnowledge = Weaponsmithing
-    .desc = Determines quality of handmade and forged weapons.
+ent-WeaponsKnowledge = Оружейное мастерство
+    .desc = Определяет качество самодельного и кованого оружия.
 
-# AUTOGEN-Start
-# бронник
-# AUTOGEN-End TODO(Update_Locale):
-ent-ArmorKnowledge = Armorsmithing
-    .desc = Determines quality of handmade armor.
+ent-ArmorKnowledge = Бронное дело
+    .desc = Определяет качество самодельной брони.
 
-# AUTOGEN-Start
-# металлообработка
-# AUTOGEN-End TODO(Update_Locale):
-ent-MetalworkingKnowledge = Metalworking
-    .desc = Determines quality of metal construction and all forged items.
+ent-MetalworkingKnowledge = Металлообработка
+    .desc = Определяет качество металлических конструкций и всех кованых предметов.
 
-# AUTOGEN-Start
-# резьба
-# AUTOGEN-End TODO(Update_Locale):
-ent-CarvingKnowledge = Carving
-    .desc = Determines quality of wooden construction.
+ent-CarvingKnowledge = Резьба
+    .desc = Определяет качество деревянных конструкций.
 
-# AUTOGEN-Start
-# оружейное дело
-# AUTOGEN-End TODO(Update_Locale):
-ent-GunsmithingKnowledge = Gunsmithing
-    .desc = Determines quality of handmade firearms.
+ent-GunsmithingKnowledge = Оружейное дело
+    .desc = Определяет качество самодельного огнестрельного оружия.
 
-# AUTOGEN-Start
-# механика
-# AUTOGEN-End TODO(Update_Locale):
-ent-MechanicsKnowledge = Mechanics
-    .desc = Determines quality of some machines and improvised devices.
+ent-MechanicsKnowledge = Механика
+    .desc = Определяет качество некоторых механизмов и самодельных устройств.
 
-# AUTOGEN-Start
-# пошив одежды
-# AUTOGEN-End TODO(Update_Locale):
-ent-TailoringKnowledge = Tailoring
-    .desc = Determines quality of handmade clothing.
+ent-TailoringKnowledge = Пошив одежды
+    .desc = Определяет качество самодельной одежды.

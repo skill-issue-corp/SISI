@@ -1,17 +1,8 @@
-# AUTOGEN-Start
-# Хирургия
-# AUTOGEN-End TODO(Update_Locale):
-ent-SurgeryKnowledge = Surgery
-    .desc = Does nothing currently. Don't waste points on it.
+ent-SurgeryKnowledge = Хирургия
+    .desc = В данный момент ничего не делает. Не трать очки на неё.
 
-# AUTOGEN-Start
-# Первая помощь
-# AUTOGEN-End TODO(Update_Locale):
-ent-FirstAidKnowledge = First Aid
-    .desc = How good you are with syringes.
+ent-FirstAidKnowledge = Первая Помощь
+    .desc = Насколько хорошо вы обращаетесь со шприцами.
 
-# AUTOGEN-Start
-# Химия
-# AUTOGEN-End TODO(Update_Locale):
-ent-ChemistryKnowledge = Chemistry
-    .desc = Does nothing currently. Don't waste points on it.
+ent-ChemistryKnowledge = Химия
+    .desc = В данный момент ничего не делает. Не трать очки на неё.

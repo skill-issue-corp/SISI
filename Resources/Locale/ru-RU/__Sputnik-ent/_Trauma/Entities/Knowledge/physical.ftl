@@ -1,23 +1,11 @@
-# AUTOGEN-Start
-# Выносливость
-# AUTOGEN-End TODO(Update_Locale):
-ent-ToughnessKnowledge = Toughness
-    .desc = How resistant your ha and ka are to damage.
+ent-ToughnessKnowledge = Выносливость
+    .desc = Насколько ваши ха и ка устойчивы к урону.
 
-# AUTOGEN-Start
-# Сила
-# AUTOGEN-End TODO(Update_Locale):
-ent-StrengthKnowledge = Strength
-    .desc = How powerful your arm muscles are, mostly affects melee weapons.
+ent-StrengthKnowledge = Сила
+    .desc = Насколько мощны мышцы ваших рук, в основном влияет на ближнее оружие.
 
-# AUTOGEN-Start
-# Атлетика
-# AUTOGEN-End TODO(Update_Locale):
-ent-AthleticsKnowledge = Athletics
-    .desc = Gives you more stamina, making it harder to stun you among other things. Sometimes known as shitter-fu.
+ent-AthleticsKnowledge = Атлетика
+    .desc = Даёт вам больше выносливости, из-за чего вас становится сложнее оглушить и не только. Иногда известна как «говнюк-фу».
 
-# AUTOGEN-Start
-# Метание
-# AUTOGEN-End TODO(Update_Locale):
-ent-ThrowingKnowledge = Throwing
-    .desc = Makes you throw items faster and with more precision.
+ent-ThrowingKnowledge = Метание
+    .desc = Позволяет бросать предметы быстрее и точнее.

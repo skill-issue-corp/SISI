@@ -1,83 +1,41 @@
-# AUTOGEN-Start
-# Кулинария
-# AUTOGEN-End TODO(Update_Locale):
-ent-CookingKnowledge = Cooking
-    .desc = Currently does nothing. Don't waste your points on this.
+ent-CookingKnowledge = Кулинария
+    .desc = В данный момент ничего не делает. Не трать очки на неё.
 
-# AUTOGEN-Start
-# Двери
-# AUTOGEN-End TODO(Update_Locale):
-ent-DoorsKnowledge = Doors
-    .desc = Determines the quality of manual doors you build.
+ent-DoorsKnowledge = Двери
+    .desc = Определяет качество ручных дверей, которые вы строите.
 
-# AUTOGEN-Start
-# Шлюзы
-# AUTOGEN-End TODO(Update_Locale):
-ent-AirlocksKnowledge = Airlocks
-    .desc = Determines the quality of powered airlocks you build.
+ent-AirlocksKnowledge = Шлюзы
+    .desc = Определяет качество шлюзов с питанием, которые вы строите.
 
-# AUTOGEN-Start
-# Игрушки
-# AUTOGEN-End TODO(Update_Locale):
-ent-ToysKnowledge = Toys
-    .desc = Determines the quality of toys you build.
+ent-ToysKnowledge = Игрушки
+    .desc = Определяет качество игрушек, которые вы создаёте.
 
-# AUTOGEN-Start
-# Бананиум
-# AUTOGEN-End TODO(Update_Locale):
-ent-BananiumKnowledge = Bananium
-    .desc = Determines the quality of bananium items you craft.
+ent-BananiumKnowledge = Бананиум
+    .desc = Определяет качество предметов из бананиума, которые вы создаёте.
 
-# AUTOGEN-Start
-# Боты
-# AUTOGEN-End TODO(Update_Locale):
-ent-BotsKnowledge = Bots
-    .desc = Determines the quality of bots you craft.
+ent-BotsKnowledge = Боты
+    .desc = Определяет качество ботов, которые вы создаёте.
 
-# AUTOGEN-Start
-# Мебель
-# AUTOGEN-End TODO(Update_Locale):
-ent-FurnitureKnowledge = Furniture
-    .desc = Determines the quality of simple furniture you build.
+ent-FurnitureKnowledge = Мебель
+    .desc = Определяет качество простой мебели, которую вы строите.
 
-# AUTOGEN-Start
-# Инфраструктура
-# AUTOGEN-End TODO(Update_Locale):
-ent-InfrastructureKnowledge = Infrastructure
-    .desc = Determines the quality of station infrastructure you build, like vents and APCs.
+ent-InfrastructureKnowledge = Инфраструктура
+    .desc = Определяет качество станционной инфраструктуры, которую вы строите, например вентиляции и APC.
 
-# AUTOGEN-Start
-# Электроника
-# AUTOGEN-End TODO(Update_Locale):
-ent-ElectronicsKnowledge = Electronics
-    .desc = Determines the quality of most electronic devices you craft.
+ent-ElectronicsKnowledge = Электроника
+    .desc = Определяет качество большинства электронных устройств, которые вы создаёте.
 
-# AUTOGEN-Start
-# Стены
-# AUTOGEN-End TODO(Update_Locale):
-ent-WallsKnowledge = Walls
-    .desc = Determines the quality of walls you build.
+ent-WallsKnowledge = Стены
+    .desc = Определяет качество стен, которые вы строите.
 
-# AUTOGEN-Start
-# Окна
-# AUTOGEN-End TODO(Update_Locale):
-ent-WindowsKnowledge = Windows
-    .desc = Determines the quality of windows you build.
+ent-WindowsKnowledge = Окна
+    .desc = Определяет качество окон, которые вы строите.
 
-# AUTOGEN-Start
-# Паутина
-# AUTOGEN-End TODO(Update_Locale):
-ent-SpiderCraftKnowledge = Spider Webs
-    .desc = Determines the quality of your spider web crafts.
+ent-SpiderCraftKnowledge = Паучьи Сети
+    .desc = Определяет качество ваших изделий из паучьей сети.
 
-# AUTOGEN-Start
-# Курительные изделия
-# AUTOGEN-End TODO(Update_Locale):
-ent-SmokeablesKnowledge = Smokeables
-    .desc = Determines the quality of cigarettes, joints and blunts you roll.
+ent-SmokeablesKnowledge = Курительные Изделия
+    .desc = Определяет качество сигарет, косяков и самокруток, которые вы скручиваете.
 
-# AUTOGEN-Start
-# Революционное дело
-# AUTOGEN-End TODO(Update_Locale):
-ent-RevolutionaryKnowledge = Revolutionary
-    .desc = Allows you to craft revolutionary items and structures.
+ent-RevolutionaryKnowledge = Революционное Дело
+    .desc = Позволяет создавать революционные предметы и конструкции.
