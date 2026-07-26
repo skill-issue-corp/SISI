@@ -1,6 +1,9 @@
 ent-BaseSprayPaintUnlimited = баллончик с краской
     .desc = Баллончик с краской. Вдыхание растворителя может мгновенно убить!
 
+ent-BaseSprayPaint = { ent-BaseSprayPaintUnlimited }
+    .desc = { ent-BaseSprayPaintUnlimited.desc }
+
 ent-SprayPaintFunny = весёлая краска
     .desc = Баночка весёлой краски, произведённой Honk! Co.
 
