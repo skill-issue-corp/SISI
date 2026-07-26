@@ -5,7 +5,7 @@ comp-kitchen-spike-begin-hook-other-self = Вы начинаете насажи�
 comp-kitchen-spike-begin-hook-other = { CAPITALIZE($user) } начинает насаживать { CAPITALIZE($victim) } на { $hook }!
 
 comp-kitchen-spike-hook-self = Вы насадили себя на { $hook }!
-comp-kitchen-spike-hook-self-other = { CAPITALIZE($victim) } насадил{ss($victim) } себя на { $hook }!
+comp-kitchen-spike-hook-self-other = { CAPITALIZE($victim) } насадил { REFLEXIVE($victim) } себя на { $hook }!
 
 comp-kitchen-spike-hook-other-self = Вы насадили { CAPITALIZE($victim) } на { $hook }!
 comp-kitchen-spike-hook-other = { CAPITALIZE($user) } насадил { CAPITALIZE($victim) } на { $hook }!
@@ -17,7 +17,7 @@ comp-kitchen-spike-begin-unhook-other-self = Вы начинаете снима�
 comp-kitchen-spike-begin-unhook-other = { CAPITALIZE($user) } начинает снимать { CAPITALIZE($victim) } с { $hook }!
 
 comp-kitchen-spike-unhook-self = Вы сняли себя с { $hook }!
-comp-kitchen-spike-unhook-self-other = { CAPITALIZE($victim) } снял{ss($victim) } себя с { $hook }!
+comp-kitchen-spike-unhook-self-other = { CAPITALIZE($victim) } снял { REFLEXIVE($victim) } себя с { THE($hook) }!
 
 comp-kitchen-spike-unhook-other-self = Вы сняли { CAPITALIZE($victim) } с { $hook }!
 comp-kitchen-spike-unhook-other = { CAPITALIZE($user) } снял { CAPITALIZE($victim) } с { $hook }!
