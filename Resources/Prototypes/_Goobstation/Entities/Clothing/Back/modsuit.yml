@@ -57,6 +57,7 @@
   - type: ExplosionResistance
     damageCoefficient: 0.9
   - type: ToggleableClothing
+    action: ActionToggleSuitPiece
     requiredSlot: back
     blockUnequipWhenAttached: false # easier to use and now its fixed
     replaceCurrentClothing: true

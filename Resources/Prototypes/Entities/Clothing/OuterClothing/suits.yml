@@ -379,6 +379,7 @@
     clothingPrototypes:
       head: ClothingHeadHatHoodCarp
     verbText: toggle-clothing-verb-hood
+    action: ActionToggleSuitPiece
   - type: HideLayerClothing
     slots:
     - Tail
