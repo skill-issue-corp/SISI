@@ -29,7 +29,7 @@
     targetPart: Chest
     damage:
       types:
-        Slash: 20
+        Slash: 22 #SIS
   levelRequired: 26
 
 - type: combo
@@ -39,14 +39,14 @@
   - Grab
   opponentEffects:
   - !type:TakeStaminaDamage
-    amount: 60
+    amount: 30 #SIS
   - !type:ModifyParalysis
-    time: 6
+    time: 4 #SIS
   - !type:HealthChange
     targetPart: Chest
     damage:
       types:
-        Blunt: 10
+        Blunt: 9 #SIS
   levelRequired: 26
 
 - type: combo
@@ -56,5 +56,5 @@
   - Disarm
   opponentEffects:
   - !type:TakeStaminaDamage
-    amount: 25
+    amount: 45 #SIS
   levelRequired: 26
