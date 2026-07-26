@@ -29,24 +29,25 @@
     targetPart: Chest
     damage:
       types:
-        Slash: 20
+        Slash: 22
   levelRequired: 26
 
 - type: combo
   id: SleepingCarpKneeHaul
   attacks:
   - Harm
+  - Disarm
   - Grab
   opponentEffects:
   - !type:TakeStaminaDamage
-    amount: 60
+    amount: 50
   - !type:ModifyParalysis
-    time: 6
+    time: 4
   - !type:HealthChange
     targetPart: Chest
     damage:
       types:
-        Blunt: 10
+        Blunt: 9
   levelRequired: 26
 
 - type: combo
@@ -56,5 +57,5 @@
   - Disarm
   opponentEffects:
   - !type:TakeStaminaDamage
-    amount: 25
+    amount: 50
   levelRequired: 26
