@@ -41,7 +41,7 @@
   - !type:TakeStaminaDamage
     amount: 30 # SIS | 60
   - !type:ModifyParalysis
-    time: 4 # SIS |
+    time: 4 # SIS | 6
   - !type:HealthChange
     targetPart: Chest
     damage:
