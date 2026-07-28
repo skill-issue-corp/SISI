@@ -29,7 +29,7 @@
   - type: Action
     useDelay: 1
     icon:
-      sprite: Interface/Actions/actions_mecha.rsi
+      sprite: _SIS/Interface/Actions/actions_mecha.rsi # SIS
       state: mech_view_stats
   - type: InstantAction
     event: !type:MechOpenUiEvent
@@ -42,7 +42,7 @@
   components:
   - type: Action
     icon:
-      sprite: Interface/Actions/actions_mecha.rsi
+      sprite: _SIS/Interface/Actions/actions_mecha.rsi # SIS
       state: mech_eject
   - type: InstantAction
     event: !type:MechEjectPilotEvent

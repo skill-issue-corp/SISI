@@ -1,0 +1,12 @@
+ent-BaseMagazineTurret = магазин (.22 короткий)
+    .desc = Магазин малого калибра на 60 патронов, часто используется в турелях против личного состава.
+    .suffix = Полный
+ent-BaseMagazineTurretEmpty = { ent-BaseMagazineTurret }
+    .desc = { ent-BaseMagazineTurret.desc }
+    .suffix = Пустой
+ent-BaseMagazineTurretHeavy = дисковый магазин (.22 короткий)
+    .desc = Дисковый магазин малого калибра на 240 патронов, часто используется коммунистами и прочими мудаками.
+    .suffix = Полный
+ent-BaseMagazineTurretHeavyEmpty = { ent-BaseMagazineTurretHeavy }
+    .desc = { ent-BaseMagazineTurretHeavy.desc }
+    .suffix = Пустой

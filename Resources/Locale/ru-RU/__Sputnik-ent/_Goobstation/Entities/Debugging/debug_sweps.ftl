@@ -1,0 +1,9 @@
+ent-MeleeDebugGibHoly100 = святая взрывная палка 100dmg
+    .desc = Узрите мощь БОГА!!
+    .suffix = DEBUG
+ent-MeleeDebugGibHoly200 = святая взрывная палка 200dmg
+    .desc = Узрите мощь БОГА!!
+    .suffix = DEBUG
+ent-MeleeDebugGibHoly200000 = святая палка кары
+    .desc = ПРОЧЬ, ГРЕШНИК
+    .suffix = DEBUG

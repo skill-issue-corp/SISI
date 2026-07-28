@@ -1,0 +1,14 @@
+ent-BaseGrinningPal = { ent-BaseItem }
+    .desc = Я люблю тебя, мой ухмыляющийся дружок.
+ent-SmilingBanana = ухмыляющийся банановый парень
+    .desc = { ent-BaseGrinningPal.desc }
+ent-SmilingBean = ухмыляющийся малыш
+    .desc = { ent-BaseGrinningPal.desc }
+ent-SmilingBoss = ухмыляющийся старикан
+    .desc = { ent-BaseGrinningPal.desc }
+ent-SmilingFrog = ухмыляющийся зелёный парень
+    .desc = Его глаза пылают лютой ненавистью.
+ent-SmilingRedGuy = ухмыляющийся красный парень
+    .desc = { ent-BaseGrinningPal.desc }
+ent-SmilingTylenol = ухмыляющийся тайленол
+    .desc = { ent-BaseGrinningPal.desc }

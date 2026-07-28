@@ -1,0 +1,9 @@
+ent-AppearanceShadowDemon = облик теневого демона
+    .desc = { ent-BaseMobBody.desc }
+ent-OrganShadowDemon = { ent-OrganBase }
+    .desc = { ent-OrganBase.desc }
+    .suffix = Теневой демон
+ent-OrganShadowDemonInternal = { ent-OrganShadowDemon }
+    .desc = { ent-OrganShadowDemon.desc }
+ent-OrganShadowDemonHeart = сердце тьмы
+    .desc = Оно всё ещё яростно бьётся, источая ауру страха.

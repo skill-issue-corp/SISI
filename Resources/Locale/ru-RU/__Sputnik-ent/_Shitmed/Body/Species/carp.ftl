@@ -1,0 +1,17 @@
+ent-AppearanceCarp = внешность карпа
+    .desc = { ent-BaseMobBody.desc }
+ent-OrganCarp = { ent-OrganBaseFleshy }
+    .desc = { ent-OrganBaseFleshy.desc }
+    .suffix = Карп
+ent-OrganCarpExternal = { ent-OrganCarp }
+    .desc = { ent-OrganCarp.desc }
+ent-OrganCarpInternal = { ent-OrganCarp }
+    .desc = { ent-OrganCarp.desc }
+ent-OrganCarpTorso = { ent-OrganBaseTorsoAnimalTailed }
+    .desc = { ent-OrganBaseTorsoAnimalTailed.desc }
+ent-OrganCarpTail = хвост карпа
+    .desc = Уникальные железы в этом хвосте позволяют космическим карпам летать в вакууме.
+ent-OrganCarpLungs = лёгкие космического животного
+    .desc = { ent-OrganAnimalLungs.desc }
+ent-OrganCarpHeart = сердце космического животного
+    .desc = { ent-OrganAnimalHeart.desc }

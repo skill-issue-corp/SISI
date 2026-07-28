@@ -1,0 +1,9 @@
+ent-AppearanceXenomorphQueen = { ent-AppearanceXenomorphBase }
+    .desc = { ent-AppearanceXenomorphBase.desc }
+ent-OrganXenomorphTorsoQueen = { ent-OrganXenomorphTorso }
+    .desc = { ent-OrganXenomorphTorso.desc }
+    .suffix = Ксеноморф-королева
+ent-OrganXenomorphHeadLarge = большая голова ксеноморфа
+    .desc = Эта голова ксеноморфа значительно крупнее обычной — возможно, она принадлежала свирепой королеве.
+ent-OrganXenomorphPlasmaVesselLargeQueen = { ent-OrganXenomorphPlasmaVesselLarge }
+    .desc = { ent-OrganXenomorphPlasmaVesselLarge.desc }

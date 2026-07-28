@@ -1,0 +1,9 @@
+ent-LemonadeSeeds = пакет семян лимонада
+    .desc = Не путать с напитком.
+ent-CocaSeeds = пакет семян коки
+    .desc = { ent-SeedBase.desc }
+ent-CoconutSeeds = пакет семян кокоса
+    .desc = { ent-SeedBase.desc }
+ent-CherryBombSeeds = пакет семян вишни
+    .desc = Вот только на самом деле это бомбы, потому что вы злодей.
+    .suffix = бомба

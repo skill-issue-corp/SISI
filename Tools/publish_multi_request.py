@@ -20,8 +20,11 @@ RELEASE_DIR = "release"
 # CONFIGURATION PARAMETERS
 # Forks should change these to publish to their own infrastructure.
 #
-ROBUST_CDN_URL = "https://alt.funkystation.org"
-FORK_ID = "inky"
+
+# SIS-CDN Start
+ROBUST_CDN_URL = "https://skill-issue-station.space/cdn/"
+FORK_ID = "sisi"
+# SIS-CDN End
 
 def main():
     session = requests.Session()

@@ -1,0 +1,21 @@
+- type: entity
+  parent: SalvageHumanCorpse
+  id: MobRandomArchMinerCorpse
+  components:
+  - type: Loadout
+    prototypes:
+    - ArchMinerCorpseGear
+
+- type: startingGear
+  id: ArchMinerCorpseGear
+  equipment:
+    jumpsuit: ClothingUniformOverallsSalvageSpecialist
+    id: SalvagePDA
+    ears: ClothingHeadsetCargo
+    eyes: ClothingEyesGlassesCheapSunglasses
+    mask: ClothingMaskGasExplorer
+    outerClothing: LavalandEquipmentExplorerSuit
+    gloves: ClothingHandsGlovesColorBlack
+    shoes: ClothingShoesColorBlack
+  inhand:
+    - WeaponCrusherFilledRandom

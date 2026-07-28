@@ -15,7 +15,7 @@
   components:
     - type: Sprite
       snapCardinals: false
-      sprite: Structures/Wallmounts/signs.rsi #inky
+      sprite: _SIS/Structures/Wallmounts/signs.rsi # SIS
     - type: PointLight
       radius: 1.4
       energy: 7

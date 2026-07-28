@@ -473,7 +473,7 @@ namespace Content.Server.Ghost
         }
 
         public EntityUid? SpawnGhost(Entity<MindComponent?> mind, EntityCoordinates? spawnPosition = null,
-            bool canReturn = false)
+            bool canReturn = false, bool isAdminGhost = false) // SIS-Lobby_AGhost
         {
             if (!Resolve(mind, ref mind.Comp))
                 return null;
@@ -494,7 +494,14 @@ namespace Content.Server.Ghost
                 return null;
             }
 
-            var ghost = SpawnAtPosition(GameTicker.ObserverPrototypeName, spawnPosition.Value);
+            // SIS-Lobby_AGhost Start
+            var ghost = SpawnAtPosition(
+                isAdminGhost
+                    ? GameTicker.AdminObserverPrototypeName
+                    : GameTicker.ObserverPrototypeName,
+                spawnPosition.Value);
+            // SIS-Lobby_AGhost End
+
             var ghostComponent = Comp<GhostComponent>(ghost);
 
             if (TryComp<GhostSpriteStateComponent>(ghost, out var state))  // If more TryComps are added this should be turned into an event

@@ -3,5 +3,5 @@
 - type: collectiveMind
   id: Dantalion
   name: collective-mind-dantalion
-  keycode: 'v'
+  keycode: 'л' # RU-Localization
   color: "#00FF00"

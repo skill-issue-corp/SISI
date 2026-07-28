@@ -229,8 +229,8 @@
   description: Enter combat mode
   components:
   - type: Action
-    icon: Interface/Actions/harmOff.png
-    iconOn: Interface/Actions/harm.png
+    icon: _SIS/Interface/Actions/harmOff.png # SIS
+    iconOn: _SIS/Interface/Actions/harm.png # SIS
     priority: -100
   - type: InstantAction
     event: !type:ToggleCombatActionEvent

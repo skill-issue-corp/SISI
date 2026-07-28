@@ -49,7 +49,7 @@
   id: JudoThrow
   attacks:
   - Grab
-  - Grab
+  # - Grab # SIS
   - Disarm
   userEffects:
   - !type:PopupMessage
@@ -101,8 +101,9 @@
   id: JudoWheelThrow
   attacks:
   - Grab
-  - Disarm
+  # - Disarm # SIS
   - Harm
+  - Disarm # SIS
   userEffects:
   - !type:PopupMessage
     messages:

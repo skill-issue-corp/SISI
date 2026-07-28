@@ -425,7 +425,7 @@ public sealed partial class HealthAnalyzerControl
 
     private void DrawOrganDiagnostics(EntityUid ent, string name, FixedPoint2 damage)
     {
-        TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
+        TextInfo textInfo = new CultureInfo("ru-RU", false).TextInfo; // RU-Localization
         var groupTitleText = Loc.GetString("group-organ-status",
             ("organ", textInfo.ToTitleCase(name)),
             ("capacity", damage));
@@ -443,7 +443,7 @@ public sealed partial class HealthAnalyzerControl
 
     private void DrawSolutionDiagnostics(List<NetEntity> sources)
     {
-        TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
+        TextInfo textInfo = new CultureInfo("ru-RU", false).TextInfo; // RU-Localization
         foreach (var source in sources)
         {
             var uid = _entityManager.GetEntity(source);

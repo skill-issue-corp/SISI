@@ -3,7 +3,7 @@
 - type: radioChannel
   id: Future
   name: chat-radio-future
-  keycode: 'q'
+  keycode: 'у' # RU-Localization
   frequency: 9999
   color: "#91E8E5"
   longRange: true
@@ -11,7 +11,7 @@
 - type: radioChannel
   id: RadioShow
   name: chat-radio-radioshow
-  keycode: 'l'
+  keycode: 'ш' # RU-Localization
   frequency: 145
   color: "#bc1ac4"
   longRange: true

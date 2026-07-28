@@ -1,0 +1,10 @@
+knowledge-category-Martial = Боевые искусства
+knowledge-category-Languages = Языки
+knowledge-category-Recipes = Рецепты
+knowledge-category-Crafting = Крафт
+knowledge-category-MeleeCombat = Ближний бой
+knowledge-category-RangedCombat = Дальний бой
+knowledge-category-Medical = Медицина
+knowledge-category-Physical = Физическое
+knowledge-category-Intellectual = Интеллектуальное
+knowledge-category-Scientific = Научное

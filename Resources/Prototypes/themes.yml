@@ -1,6 +1,6 @@
 - type: uiTheme
   id: SS14DefaultTheme
-  path: /Textures/Interface/Default/
+  path: /Textures/_SIS/Interface/Default/ # SIS
   colors:
     whiteText: "#FFF5EE"
     slotSelectedGold: "#e6b812"
@@ -17,7 +17,7 @@
     _itemstatus_patch_margin: "#07060404"
 - type: uiTheme
   id: SS14PlasmafireTheme
-  path: /Textures/Interface/Plasmafire/
+  path: /Textures/_SIS/Interface/Plasmafire/ # SIS
   colors:
     whiteText: "#FFF5EE"
     slotSelectedGold: "#FFF5EE"
@@ -34,7 +34,7 @@
     _itemstatus_patch_margin: "#07060404"
 - type: uiTheme
   id: SS14SlimecoreTheme
-  path: /Textures/Interface/Slimecore/
+  path: /Textures/_SIS/Interface/Slimecore/ # SIS
   colors:
     whiteText: "#FFF5EE"
     slotSelectedGold: "#FFF5EE"
@@ -51,7 +51,7 @@
     _itemstatus_patch_margin: "#07060404"
 - type: uiTheme
   id: SS14ClockworkTheme
-  path: /Textures/Interface/Clockwork/
+  path: /Textures/_SIS/Interface/Clockwork/ # SIS
   colors:
     whiteText: "#FFF5EE"
     slotSelectedGold: "#FFF5EE"
@@ -68,7 +68,7 @@
     _itemstatus_patch_margin: "#07060404"
 - type: uiTheme
   id: SS14RetroTheme
-  path: /Textures/Interface/Retro/
+  path: /Textures/_SIS/Interface/Retro/ # SIS
   colors:
     whiteText: "#FFF5EE"
     slotSelectedGold: "#FFF5EE"
@@ -85,7 +85,7 @@
     _itemstatus_patch_margin: "#07060404"
 - type: uiTheme
   id: SS14MinimalistTheme
-  path: /Textures/Interface/Minimalist/
+  path: /Textures/_SIS/Interface/Minimalist/ # SIS
   colors:
     whiteText: "#FFF5EE"
     slotSelectedGold: "#e6b812"
@@ -102,7 +102,7 @@
     _itemstatus_patch_margin: "#07060404"
 - type: uiTheme
   id: SS14AshenTheme
-  path: /Textures/Interface/Ashen/
+  path: /Textures/_SIS/Interface/Ashen/ # SIS
   colors:
     whiteText: "#FFF5EE"
     slotSelectedGold: "#FFF5EE"

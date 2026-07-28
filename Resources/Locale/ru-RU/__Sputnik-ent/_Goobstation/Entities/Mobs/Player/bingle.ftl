@@ -1,0 +1,17 @@
+ent-MobBingle = бингл
+    .desc = бингл
+
+ent-MobBinglePrime = { ent-MobBingle }
+    .suffix = Прайм
+    .desc = { ent-MobBingle.desc }
+
+ent-MobBingleUpgraded = { ent-MobBingle }
+    .suffix = Улучшенный
+    .desc = { ent-MobBingle.desc }
+
+ent-MobTurkle = тёркл
+    .desc = Существо из забытых далёких земель. Кажется, оно очень гордится своей родиной.
+
+ent-MobTurkleUpgraded = { ent-MobBingleUpgraded }
+    .suffix = Улучшенный
+    .desc = { ent-MobBingleUpgraded.desc }

@@ -1,0 +1,11 @@
+ent-GunpowderBottle = бутылка с порохом
+    .desc = Содержит порох, важный компонент для изготовления пуль.
+    .suffix = пустая
+ent-GunpowderBottlePartFull = { ent-GunpowderBottle }
+    .desc = { ent-GunpowderBottle.desc }
+    .suffix = заполнена на четверть
+ent-GunpowderBottleFull = { ent-GunpowderBottle }
+    .desc = { ent-GunpowderBottle.desc }
+    .suffix = полная
+ent-GunpowderCase = ящик для пороха
+    .desc = { ent-BaseStorageItem.desc }

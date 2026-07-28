@@ -3,6 +3,6 @@
 - type: radioChannel
   id: Revolutionary
   name: chat-radio-revolutionary
-  keycode: 'r'
+  keycode: 'р' # RU-Localization
   frequency: 1215
   color: "#ff0004"

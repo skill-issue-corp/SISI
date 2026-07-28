@@ -47984,70 +47984,70 @@ entities:
       pos: -0.5,-3.5
       parent: 2
     - type: FaxMachine
-      name: Science
+      name: Наука # RU-Localization
   - uid: 6597
     components:
     - type: Transform
       pos: -1.5,1.5
       parent: 2
     - type: FaxMachine
-      name: RD Office
+      name: Офис НРа # RU-Localization
   - uid: 6598
     components:
     - type: Transform
       pos: 10.5,25.5
       parent: 2
     - type: FaxMachine
-      name: Medical
+      name: Медицинский # RU-Localization
   - uid: 6599
     components:
     - type: Transform
       pos: -46.5,2.5
       parent: 2
     - type: FaxMachine
-      name: Cargo
+      name: Карго # RU-Localization
   - uid: 6600
     components:
     - type: Transform
       pos: -28.5,13.5
       parent: 2
     - type: FaxMachine
-      name: Library
+      name: Библиотека # RU-Localization
   - uid: 6601
     components:
     - type: Transform
       pos: -19.5,48.5
       parent: 2
     - type: FaxMachine
-      name: HoP Office
+      name: Офис ГП # RU-Localization
   - uid: 6602
     components:
     - type: Transform
       pos: -55.5,58.5
       parent: 2
     - type: FaxMachine
-      name: Security
+      name: Безопасность # RU-Localization
   - uid: 6603
     components:
     - type: Transform
       pos: -36.5,37.5
       parent: 2
     - type: FaxMachine
-      name: Bar
+      name: Бар # RU-Localization
   - uid: 6604
     components:
     - type: Transform
       pos: -10.5,55.5
       parent: 2
     - type: FaxMachine
-      name: Bridge
+      name: Мостик # RU-Localization
   - uid: 6605
     components:
     - type: Transform
       pos: -64.5,25.5
       parent: 2
     - type: FaxMachine
-      name: Engineering
+      name: Инженерный # RU-Localization
   - uid: 12002
     components:
     - type: Transform

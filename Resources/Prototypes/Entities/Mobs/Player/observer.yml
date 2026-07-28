@@ -137,6 +137,10 @@
     overlayColor: '#FFFFFF00'
     noiseAmount: 0 # In case default values change
     noiseMultiplier: 0 # In case default values change
+  # SIS-Start
+  - type: MovementSpeedModifier
+    baseWalkSpeed: 24
+  # SIS-End
 
 # proto for player ghosts specifically
 - type: entity

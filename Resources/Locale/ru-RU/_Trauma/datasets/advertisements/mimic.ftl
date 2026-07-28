@@ -1,0 +1,14 @@
+advertisement-mimic-1 = Я так голоден.
+advertisement-mimic-2 = Приди и купи у меня.
+advertisement-mimic-3 = Вкуси моей плоти.
+advertisement-mimic-4 = Мне можно доверять.
+advertisement-mimic-5 = Я люблю тебя.
+advertisement-mimic-6 = Я ЛЮБЛЮ ТЕБЯ.
+advertisement-mimic-7 = Я ЛЮБЛЮ ТЕБЯ!!!
+advertisement-mimic-8 = Прошло так много времени с тех пор, как я ел.
+advertisement-mimic-9 = Отведи меня в службу безопасности.
+advertisement-mimic-10 = Отведи меня в медотсек.
+advertisement-mimic-11 = Отведи меня к капитану.
+advertisement-mimic-12 = Я служу человеку.
+advertisement-mimic-13 = Мне нравится, как твоя кожа сидит на твоём теле.
+advertisement-mimic-14 = ПОМОГИТЕ МНЕ!!!

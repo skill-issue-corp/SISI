@@ -21,7 +21,7 @@
   - type: Action
     itemIconStyle: NoItem
     icon:
-      sprite: Interface/Actions/actions_borg.rsi
+      sprite: _SIS/Interface/Actions/actions_borg.rsi # SIS
       state: select-type
     useDelay: 0.5
   - type: InstantAction

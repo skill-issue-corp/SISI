@@ -1,0 +1,14 @@
+ent-BoxSkillChipsBase = коробка скилчипов
+    .desc = Большая коробка для хранения запасных скилчипов. Может, стерильная? Кто знает.
+ent-BoxSkillChipsService = коробка скилчипов сервиса
+    .desc = Большая коробка со скилчипами сервиса. Точно не стерильная. Ну и ладно.
+ent-BoxSkillChipsCargo = коробка скилчипов карго
+    .desc = { ent-BoxSkillChipsBase.desc }
+ent-BoxSkillChipsEngi = коробка скилчипов инженерии
+    .desc = { ent-BoxSkillChipsBase.desc }
+ent-BoxSkillChipsMed = коробка скилчипов медицины
+    .desc = { ent-BoxSkillChipsBase.desc }
+ent-BoxSkillChipsSci = коробка скилчипов науки
+    .desc = { ent-BoxSkillChipsBase.desc }
+ent-BoxSkillChipsSec = коробка скилчипов службы безопасности
+    .desc = { ent-BoxSkillChipsBase.desc }

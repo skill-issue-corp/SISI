@@ -130857,77 +130857,77 @@ entities:
       pos: -2.5,9.5
       parent: 2
     - type: FaxMachine
-      name: NTR
+      name: ПNT # RU-Localization
   - uid: 18156
     components:
     - type: Transform
       pos: 0.5,14.5
       parent: 2
     - type: FaxMachine
-      name: Bridge
+      name: Мостик # RU-Localization
   - uid: 18157
     components:
     - type: Transform
       pos: 51.5,7.5
       parent: 2
     - type: FaxMachine
-      name: Warden
+      name: Смотритель # RU-Localization
   - uid: 18158
     components:
     - type: Transform
       pos: 38.5,18.5
       parent: 2
     - type: FaxMachine
-      name: HoS
+      name: ГСБ # RU-Localization
   - uid: 18159
     components:
     - type: Transform
       pos: -21.5,-6.5
       parent: 2
     - type: FaxMachine
-      name: Library
+      name: Библиотека # RU-Localization
   - uid: 18160
     components:
     - type: Transform
       pos: -63.5,9.5
       parent: 2
     - type: FaxMachine
-      name: CE
+      name: СИ # RU-Localization
   - uid: 18161
     components:
     - type: Transform
       pos: 32.5,8.5
       parent: 2
     - type: FaxMachine
-      name: Detective
+      name: Детектив # RU-Localization
   - uid: 18162
     components:
     - type: Transform
       pos: 24.5,-46.5
       parent: 2
     - type: FaxMachine
-      name: CMO
+      name: ГВ # RU-Localization
   - uid: 18163
     components:
     - type: Transform
       pos: -16.5,-41.5
       parent: 2
     - type: FaxMachine
-      name: RD
+      name: НР # RU-Localization
   - uid: 18164
     components:
     - type: Transform
       pos: 34.5,-1.5
       parent: 2
     - type: FaxMachine
-      name: Lawyer
+      name: Юрист # RU-Localization
   - uid: 18165
     components:
     - type: Transform
       pos: 27.5,35.5
       parent: 2
     - type: FaxMachine
-      name: QM
+      name: КМ # RU-Localization
   - uid: 18166
     components:
     - type: Transform
@@ -130939,7 +130939,7 @@ entities:
       pos: 83.5,5.5
       parent: 2
     - type: FaxMachine
-      name: Perma
+      name: Пермабриг # RU-Localization
 - proto: FaxMachineCaptain
   entities:
   - uid: 18168
@@ -130948,7 +130948,7 @@ entities:
       pos: 9.5,6.5
       parent: 2
     - type: FaxMachine
-      name: Captain
+      name: Капитан # RU-Localization
 - proto: FenceMetalBroken
   entities:
   - uid: 18169

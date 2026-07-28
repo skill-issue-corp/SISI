@@ -20,13 +20,17 @@
 
 ## Implanter Attempt Messages
 
-implanter-component-implanting-target = {CAPITALIZE(THE({$user}))} is trying to implant you with something!
-implanter-component-draw-target = {CAPITALIZE(THE({$user}))} is trying to extract something from you!
+# SIS-Fix_Loc Start
+implanter-component-implanting-target = {CAPITALIZE(THE($user))} is trying to implant you with something!
+implanter-component-draw-target = {CAPITALIZE(THE($user))} is trying to extract something from you!
+# SIS-Fix_Loc End
 implanter-component-implant-failed = The {$implant} cannot be given to {$target}!
 implanter-draw-failed-permanent = The {$implant} in {$target} is fused with { OBJECT($target) } and cannot be removed!
 implanter-draw-failed = You tried to remove an implant but found nothing.
 implanter-draw-failed-catastrophically = The implanter finds nothing and catastrophically fails, shunting genetic material into {$user}'s hand!
-implanter-component-implant-already = {CAPITALIZE(THE({$target}))} already has the {$implant}!
+# SIS-Fix_Loc Start
+implanter-component-implant-already = {CAPITALIZE(THE($target))} already has the {$implant}!
+# SIS-Fix_Loc End
 
 ## UI
 implanter-set-draw-verb = Set Implant Draw

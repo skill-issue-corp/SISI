@@ -1,0 +1,16 @@
+stack-bracing = крепёж
+stack-brick = кирпич
+stack-brass-ingot = слиток латуни
+stack-steel-ingot = слиток стали
+stack-plasteel-ingot = слиток пластали
+stack-charcoal = древесный уголь
+stack-barbwire = колючая проволока
+stack-rev-gear = шестерня
+stack-rev-bolt = болт
+stack-rev-nut = гайка
+stack-rev-gun-parts = детали оружия
+stack-rev-ball-bearings = шарикоподшипники
+stack-rev-engine-parts = детали двигателя
+stack-whetstone = точильный камень
+stack-drillhead = буровая головка
+stack-override-key-components = компоненты обходного ключа

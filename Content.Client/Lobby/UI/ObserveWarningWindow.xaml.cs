@@ -23,7 +23,7 @@ public sealed partial class ObserveWarningWindow : DefaultWindow
 
         if (player != null && _adminManager.IsAdmin(player))
         {
-            ObserveButton.Text = Loc.GetString("observe-as-player");
+            ObserveButton.Text = Loc.GetString("observe-as-admin"); // SIS-Lobby_AGhost
             ObserveAsAdminButton.Visible = true;
             ObserveAsAdminButton.OnPressed += _ => { this.Close(); };
         }

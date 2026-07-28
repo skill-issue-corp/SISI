@@ -1,0 +1,16 @@
+ent-MutationNearSightedness = Близорукость
+    .desc = Носитель этой мутации плохо видит.
+ent-MutationBlindness = Слепота
+    .desc = Делает субъекта полностью слепым.
+ent-MutationThermalVision = Тепловое зрение
+    .desc = Носитель этого генома способен визуально воспринимать уникальную тепловую сигнатуру человека.
+ent-MutationActionThermalVision = { ent-ToggleThermalVision }
+    .desc = { ent-ToggleThermalVision.desc }
+ent-MutationIlliterate = Неграмотность
+    .desc = Вызывает тяжёлую форму афазии, не позволяющую читать или писать.
+ent-MutationLaserEyes = Лазерные глаза
+    .desc = Отражает концентрированный свет обратно из глаз.
+ent-MutationEnhancedPerception = Улучшенное восприятие
+    .desc = Улучшает периферийное зрение субъекта, позволяя лучше видеть предметы краем глаза.
+ent-MutationWeakPerception = Слабое восприятие
+    .desc = У субъекта почти отсутствует периферийное зрение, он способен видеть лишь то, что находится почти прямо перед ним.

@@ -1,0 +1,3 @@
+# For all the tider chem people come up with
+reagent-name-nitrated-slurry = нитрованная кашица
+reagent-desc-nitrated-slurry = Гниющая масса, превращённая в кашицу. В ней плавают какие-то куски...

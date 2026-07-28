@@ -94,7 +94,7 @@
         map: [ "base" ]
         color: "#bfe3ff"
   - type: FaxMachine
-    name: "Central Command"
+    name: "Центральное Командование" # RU-Localization
     notifyAdmins: true
 
 - type: entity
@@ -109,7 +109,7 @@
         map: [ "base" ]
         color: "#a3a3a3"
   - type: FaxMachine
-    name: "ERR*?*%!"
+    name: "ОШИ*?*%!" # RU-Localization
     responsePings: false
     notifyAdmins: true
   - type: Emagged
@@ -122,7 +122,7 @@
   suffix: NukeCodes
   components:
     - type: FaxMachine
-      name: "Captain's Office"
+      name: "Капитанский Офис" # RU-Localization
       receiveNukeCodes: true
     - type: StealTarget
       stealGroup: FaxMachineCaptain

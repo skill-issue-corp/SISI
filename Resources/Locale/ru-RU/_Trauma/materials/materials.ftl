@@ -1,0 +1,10 @@
+materials-bone = кость
+materials-charcoal = древесный уголь
+materials-barbedwire = колючая проволока
+materials-brick = кирпич
+materials-brass-ingot = латунный слиток
+materials-steel-ingot = стальной слиток
+materials-plasteel-ingot = пласталевый слиток
+materials-whetstone = точильный камень
+materials-bracing = крепление
+materials-drillhead = буровая коронка

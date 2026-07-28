@@ -1149,7 +1149,7 @@
   description: uplink-sleeping-carp-desc
   productEntity: SleepingCarpScroll
   cost:
-    Telecrystal: 65 # inky
+    Telecrystal: 70 # inky # SIS | 65
   #discountCategory: null # inky
   categories:
   - UplinkWeaponry

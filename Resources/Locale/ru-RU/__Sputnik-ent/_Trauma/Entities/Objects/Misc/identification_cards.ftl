@@ -1,0 +1,9 @@
+ent-GeneticistIDCard = ID карта генетика
+    .desc = { ent-IDCardStandard.desc }
+ent-PhoneMerchantIDCard = ID карта торговца телефонами
+    .desc = { ent-IDCardStandard.desc }
+ent-DClassIDCard = ID карта D-класса
+    .desc = Дёшево напечатанная ID карта для самых низших.
+ent-SpacePolIDCardChameleon = ID карта СпейсПола
+    .desc = { ent-AgentIDCard.desc }
+    .suffix = Агент

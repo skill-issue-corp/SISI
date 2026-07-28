@@ -1,0 +1,15 @@
+ent-SpawnLootToolboxMimic = спавнер добычи мимика-ящика для инструментов
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnLootVendorMimic = спавнер добычи мимика-автомата
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnLootLockerMimic = спавнер добычи мимика-шкафчика
+    .desc = { ent-MarkerBase.desc }
+ent-RandomVendingDrinksMimic = спавнер случайного автомата
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Напитки_Мимик
+ent-RandomVendingSnacksMimic = спавнер случайного автомата
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Снеки_Мимик
+ent-RandomVendingAnyMimic = спавнер случайного автомата
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Любой_Мимик

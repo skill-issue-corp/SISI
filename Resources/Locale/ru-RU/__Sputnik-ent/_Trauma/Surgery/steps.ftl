@@ -1,0 +1,10 @@
+ent-SurgeryStepRearrangeTissue = Переместить мягкие ткани
+    .desc = { ent-SurgeryStepBase.desc }
+ent-SurgeryStepStitchVessels = Зашить кровеносные сосуды
+    .desc = { ent-SurgeryStepCloseBloodOutputs.desc }
+ent-SurgeryStepInsertHypoport = Добавить гипопорт
+    .desc = { ent-SurgeryStepInsertOrgan.desc }
+ent-SurgeryStepCreateJoint = Создать сустав
+    .desc = { ent-SurgeryStepSealBones.desc }
+ent-SurgeryStepStitchJoint = Зашить кровеносные сосуды сустава
+    .desc = { ent-SurgeryStepCloseBloodOutputs.desc }

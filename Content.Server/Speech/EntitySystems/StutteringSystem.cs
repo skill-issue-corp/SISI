@@ -11,7 +11,7 @@ public sealed partial class StutteringSystem : SharedStutteringSystem
     [Dependency] private IRobustRandom _random = default!;
 
     // Regex of characters to stutter.
-    private static readonly Regex Stutter = new(@"[b-df-hj-np-tv-wxyz]",
+    private static readonly Regex Stutter = new(@"[b-df-hj-np-tv-wxyz-б-вд-к-лмн-прст]", // RU-Localization
         RegexOptions.Compiled | RegexOptions.IgnoreCase);
 
     public override void DoStutter(EntityUid uid, TimeSpan time, bool refresh)

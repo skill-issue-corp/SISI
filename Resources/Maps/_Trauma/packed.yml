@@ -44775,98 +44775,98 @@ entities:
       parent: 2
       pos: 63.5,10.5
     - type: FaxMachine
-      name: RD Office
+      name: Офис НРа # RU-Localization
   - uid: 6964
     components:
     - type: Transform
       parent: 2
       pos: 8.5,3.5
     - type: FaxMachine
-      name: Library
+      name: Библиотека # RU-Localization
   - uid: 6965
     components:
     - type: Transform
       parent: 2
       pos: 12.5,-33.5
     - type: FaxMachine
-      name: CE Office
+      name: Офис СИ # RU-Localization
   - uid: 6966
     components:
     - type: Transform
       parent: 2
       pos: 45.5,24.5
     - type: FaxMachine
-      name: HoS Office
+      name: Офис ГСБ # RU-Localization
   - uid: 6967
     components:
     - type: Transform
       parent: 2
       pos: 15.5,25.5
     - type: FaxMachine
-      name: Cargo
+      name: Карго # RU-Localization
   - uid: 6968
     components:
     - type: Transform
       parent: 2
       pos: -1.5,-11.5
     - type: FaxMachine
-      name: Law Office
+      name: Юридический Офис # RU-Localization
   - uid: 6969
     components:
     - type: Transform
       parent: 2
       pos: 18.5,29.5
     - type: FaxMachine
-      name: Court House
+      name: Здание Суда # RU-Localization
   - uid: 6970
     components:
     - type: Transform
       parent: 2
       pos: 58.5,-9.5
     - type: FaxMachine
-      name: CMO Office
+      name: Офис ГВ # RU-Localization
   - uid: 6971
     components:
     - type: Transform
       parent: 2
       pos: 18.5,-2.5
     - type: FaxMachine
-      name: HoP Office
+      name: Офис ГП # RU-Localization
   - uid: 6972
     components:
     - type: Transform
       parent: 2
       pos: 19.5,-26.5
     - type: FaxMachine
-      name: Engineering
+      name: Инженерный # RU-Localization
   - uid: 6973
     components:
     - type: Transform
       parent: 2
       pos: 23.5,40.5
     - type: FaxMachine
-      name: Conference Room
+      name: Конференц-зал # RU-Localization
   - uid: 6974
     components:
     - type: Transform
       parent: 2
       pos: 50.5,4.5
     - type: FaxMachine
-      name: Medical
+      name: Медицинский # RU-Localization
   - uid: 6975
     components:
     - type: Transform
       parent: 2
       pos: 57.5,20.5
     - type: FaxMachine
-      name: Science
+      name: Наука # RU-Localization
   - uid: 6976
     components:
     - type: Transform
       parent: 2
       pos: 8.5,36.5
     - type: FaxMachine
-      name: QM Office
+      name: Офис КМа # RU-Localization
   - uid: 6977
     components:
     - type: Transform
@@ -44878,7 +44878,7 @@ entities:
       parent: 2
       pos: 39.5,36.5
     - type: FaxMachine
-      name: Warden Offices
+      name: Офис Смотрителя # RU-Localization
 - proto: FaxMachineCaptain
   entities:
   - uid: 6979

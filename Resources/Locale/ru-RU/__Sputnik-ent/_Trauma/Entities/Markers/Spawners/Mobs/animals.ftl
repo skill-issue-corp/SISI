@@ -1,0 +1,12 @@
+ent-SpawnMobDartFrog1 = спавнер клубничной ядовитой лягушки
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobDartFrog3 = спавнер лазурной ядовитой лягушки
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobDartFrog6 = спавнер розовой ядовитой лягушки
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobBunny = спавнер кролика
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobBunnySea = спавнер морского кролика
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobSnakeGrass = спавнер травяной змеи
+    .desc = { ent-MarkerBase.desc }

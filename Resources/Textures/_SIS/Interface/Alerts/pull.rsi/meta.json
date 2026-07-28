@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from https://github.com/space-axolotl-14/space-axolotl-14/commit/4ba06abaa548153b3046224e288bac0222d283b8",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "pulled"
+    },
+    {
+      "name": "pulling"
+    }
+  ]
+}

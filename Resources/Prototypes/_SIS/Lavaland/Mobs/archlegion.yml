@@ -1,0 +1,77 @@
+- type: entity
+  id: MobArchLegion
+  parent: BaseMobAsteroid
+  name: arch-legion
+  description: It's completely covered with skulls. It's incredibly huge.
+  components:
+  - type: Sprite
+    sprite: _SIS/Mobs/arclegion.rsi
+    layers:
+    - map: ["enum.DamageStateVisualLayers.Base"]
+      state: alive
+  - type: MobThresholds
+    thresholds:
+      0: Alive
+      400: Dead
+  - type: MeleeWeapon
+    range: 1.3
+    angle: 0
+    attackRate: 0.5
+    animation: WeaponArcPunch
+    damage:
+      types:
+        Blunt: 20 # Он слишком конченный что бы бить руками.
+  - type: MovementSpeedModifier
+    baseWalkSpeed: 1
+    baseSprintSpeed: 1
+  - type: Gun
+    fireRate: 0.15
+    selectedMode: SemiAuto
+    showExamineText: false
+    availableModes:
+    - SemiAuto
+    soundGunshot: null
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeCircle
+          radius: 0.9
+        density: 300
+        mask:
+        - MobMask
+        layer:
+        - MobLayer
+  - type: RechargeBasicEntityAmmo
+    showExamineText: false
+    rechargeCooldown: 0
+    rechargeSound: null
+  - type: BasicEntityAmmoProvider
+    proto: MobLegion
+    capacity: 1
+    count: 1
+  - type: NpcFactionMember
+    factions:
+    - Lavafauna
+  - type: HTN
+    rootTask:
+      task: SimpleRangedHostileCompound
+    blackboard:
+      VisionRadius: !type:Single
+        5
+      AggroVisionRadius: !type:Single
+        10
+      NavSmash: !type:Bool
+        true
+  - type: SpawnLootOnDeath
+    deleteOnDeath: true
+    table: !type:AllSelector
+      children:
+      - id: MaterialBones1
+        rolls: 5, 10
+      - id: MaterialLegionSkull1
+        rolls: 1, 3
+      - id: MobRandomArchMinerCorpse
+  - type: Fauna # Lavaland Change
+  - type: Ammo
+    muzzleFlash: null

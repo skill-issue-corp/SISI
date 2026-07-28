@@ -1,14 +1,14 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Баг репорт
+about: Создайте отчет для помощи в улучшениях
 title: ''
 labels: 'S: Untriaged'
 type: 'Bug'
 assignees: ''
 ---
 
-## 📋 Description
+## 📋 Описание
 
-## 🔁 Steps to Reproduce
+## 🔁 Шаги для Воспроизведения
 
-## 📸 Screenshots / Videos
+## 📸 Скрины / Видео

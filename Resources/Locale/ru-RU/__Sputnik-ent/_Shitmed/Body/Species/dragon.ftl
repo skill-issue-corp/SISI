@@ -1,0 +1,15 @@
+ent-AppearanceDragon = внешность дракона
+    .desc = { ent-BaseMobBody.desc }
+ent-OrganDragon = { ent-OrganBaseFleshy }
+    .desc = { ent-OrganBaseFleshy.desc }
+    .suffix = Дракон
+ent-OrganDragonExternal = { ent-OrganDragon }
+    .desc = { ent-OrganDragon.desc }
+ent-OrganDragonInternal = { ent-OrganDragon }
+    .desc = { ent-OrganDragon.desc }
+ent-OrganDragonTorso = { ent-OrganBaseTorsoAnimalTailed }
+    .desc = { ent-OrganBaseTorsoAnimalTailed.desc }
+ent-OrganDragonTail = хвост дракона
+    .desc = Уникальные железы в этом хвосте позволяют космическим карпам летать в вакууме.
+ent-OrganDragonLungs = { ent-OrganAnimalLungs }
+    .desc = { ent-OrganAnimalLungs.desc }

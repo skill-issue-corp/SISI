@@ -70638,7 +70638,7 @@ entities:
       pos: -4.5,-26.5
       parent: 2
     - type: FaxMachine
-      name: Engineering
+      name: Инженерный # RU-Localization
       destinationAddress: Engineering
   - uid: 998
     components:
@@ -70646,7 +70646,7 @@ entities:
       pos: 17.5,-20.5
       parent: 2
     - type: FaxMachine
-      name: Atmospherics
+      name: Атмос # RU-Localization
       destinationAddress: Atmospherics
   - uid: 4498
     components:
@@ -70654,7 +70654,7 @@ entities:
       pos: -50.5,-15.5
       parent: 2
     - type: FaxMachine
-      name: Lawyer
+      name: Юрист # RU-Localization
       destinationAddress: Lawyer
   - uid: 4655
     components:
@@ -70662,7 +70662,7 @@ entities:
       pos: -54.5,-29.5
       parent: 2
     - type: FaxMachine
-      name: Reporter
+      name: Репортёр # RU-Localization
       destinationAddress: Reporter
   - uid: 5155
     components:
@@ -70670,7 +70670,7 @@ entities:
       pos: -9.5,29.5
       parent: 2
     - type: FaxMachine
-      name: Security
+      name: Безопасность # RU-Localization
       destinationAddress: Security
   - uid: 5422
     components:
@@ -70678,7 +70678,7 @@ entities:
       pos: -26.5,-36.5
       parent: 2
     - type: FaxMachine
-      name: Chapel
+      name: Церковь # RU-Localization
       destinationAddress: Chapel
   - uid: 5568
     components:
@@ -70686,7 +70686,7 @@ entities:
       pos: 28.5,11.5
       parent: 2
     - type: FaxMachine
-      name: Cargo
+      name: Карго # RU-Localization
       destinationAddress: Cargo
   - uid: 5699
     components:
@@ -70694,7 +70694,7 @@ entities:
       pos: 33.5,15.5
       parent: 2
     - type: FaxMachine
-      name: Quartermaster
+      name: Квартермейстер # RU-Localization
       destinationAddress: Quartermaster
   - uid: 7155
     components:
@@ -70702,7 +70702,7 @@ entities:
       pos: 57.5,-11.5
       parent: 2
     - type: FaxMachine
-      name: Science
+      name: Наука # RU-Localization
       destinationAddress: Science
   - uid: 7442
     components:
@@ -70710,7 +70710,7 @@ entities:
       pos: 70.5,-20.5
       parent: 2
     - type: FaxMachine
-      name: Research Director
+      name: Научный Руководитель # RU-Localization
       destinationAddress: Research Director
   - uid: 8346
     components:
@@ -70718,7 +70718,7 @@ entities:
       pos: -17.5,-17.5
       parent: 2
     - type: FaxMachine
-      name: Library
+      name: Библиотека # RU-Localization
       destinationAddress: Library
   - uid: 9182
     components:
@@ -70726,7 +70726,7 @@ entities:
       pos: -25.5,25.5
       parent: 2
     - type: FaxMachine
-      name: Detective
+      name: Детектив # RU-Localization
       destinationAddress: Detective
   - uid: 16527
     components:
@@ -70734,7 +70734,7 @@ entities:
       pos: 44.5,-32.5
       parent: 2
     - type: FaxMachine
-      name: Bridge
+      name: Мостик # RU-Localization
       destinationAddress: Bridge
   - uid: 20485
     components:
@@ -70742,7 +70742,7 @@ entities:
       pos: 50.5,-5.5
       parent: 2
     - type: FaxMachine
-      name: Medical
+      name: Медицинский # RU-Localization
       destinationAddress: Medical
   - uid: 20494
     components:
@@ -70750,7 +70750,7 @@ entities:
       pos: 41.5,-23.5
       parent: 2
     - type: FaxMachine
-      name: Head of Personel
+      name: Глава Персонала # RU-Localization
       destinationAddress: Head of Personnel
 - proto: FaxMachineCaptain
   entities:

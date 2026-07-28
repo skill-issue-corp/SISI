@@ -113011,70 +113011,70 @@ entities:
       pos: -8.5,2.5
       parent: 2
     - type: FaxMachine
-      name: Command Checkpoint
+      name: Командный Пункт # RU-Localization
   - uid: 17926
     components:
     - type: Transform
       pos: -21.5,37.5
       parent: 2
     - type: FaxMachine
-      name: Detective's Office
+      name: Офис Детектива # RU-Localization
   - uid: 17927
     components:
     - type: Transform
       pos: -22.5,48.5
       parent: 2
     - type: FaxMachine
-      name: Library
+      name: Библиотека # RU-Localization
   - uid: 17928
     components:
     - type: Transform
       pos: 31.5,14.5
       parent: 2
     - type: FaxMachine
-      name: Warden's Office
+      name: Офис Смотрителя # RU-Localization
   - uid: 17929
     components:
     - type: Transform
       pos: 33.5,20.5
       parent: 2
     - type: FaxMachine
-      name: Security
+      name: Безопасность # RU-Localization
   - uid: 17930
     components:
     - type: Transform
       pos: -1.5,-26.5
       parent: 2
     - type: FaxMachine
-      name: Quartermaster
+      name: Квартермейстер # RU-Localization
   - uid: 17931
     components:
     - type: Transform
       pos: 13.5,-14.5
       parent: 2
     - type: FaxMachine
-      name: Cargo
+      name: Карго # RU-Localization
   - uid: 17932
     components:
     - type: Transform
       pos: 16.5,41.5
       parent: 2
     - type: FaxMachine
-      name: Medical
+      name: Медицинский # RU-Localization
   - uid: 17933
     components:
     - type: Transform
       pos: 23.5,60.5
       parent: 2
     - type: FaxMachine
-      name: CMO's Office
+      name: Офис ГВ # RU-Localization
   - uid: 17934
     components:
     - type: Transform
       pos: -14.5,35.5
       parent: 2
     - type: FaxMachine
-      name: Service
+      name: Сервис # RU-Localization
   - uid: 17935
     components:
     - type: Transform
@@ -113086,49 +113086,49 @@ entities:
       pos: 66.5,-21.5
       parent: 2
     - type: FaxMachine
-      name: Atmospherics
+      name: Атмос # RU-Localization
   - uid: 17937
     components:
     - type: Transform
       pos: 73.5,-16.5
       parent: 2
     - type: FaxMachine
-      name: Engineering
+      name: Инженерный # RU-Localization
   - uid: 17938
     components:
     - type: Transform
       pos: 91.5,36.5
       parent: 2
     - type: FaxMachine
-      name: Telecomms
+      name: Телекоммуникации # RU-Localization
   - uid: 17939
     components:
     - type: Transform
       pos: 70.5,31.5
       parent: 2
     - type: FaxMachine
-      name: Lawyer's Office
+      name: Юридический Офис # RU-Localization
   - uid: 17940
     components:
     - type: Transform
       pos: 74.5,53.5
       parent: 2
     - type: FaxMachine
-      name: Bridge
+      name: Мостик # RU-Localization
   - uid: 17941
     components:
     - type: Transform
       pos: 58.5,60.5
       parent: 2
     - type: FaxMachine
-      name: Bridge Conference
+      name: Конференц-зал Мостика # RU-Localization
   - uid: 17942
     components:
     - type: Transform
       pos: 57.5,47.5
       parent: 2
     - type: FaxMachine
-      name: HoP Office
+      name: Офис ГП # RU-Localization
 - proto: FaxMachineCaptain
   entities:
   - uid: 17943
@@ -113137,7 +113137,7 @@ entities:
       pos: 83.5,44.5
       parent: 2
     - type: FaxMachine
-      name: Captain's Quarters
+      name: Каюта Капитана # RU-Localization
 - proto: filingCabinetDrawerRandom
   entities:
   - uid: 17944

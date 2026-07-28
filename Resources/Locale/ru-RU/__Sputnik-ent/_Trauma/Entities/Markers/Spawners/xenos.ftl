@@ -1,0 +1,14 @@
+ent-SpawnMobXenomorphFaceHugger = спавнер ксеноморфа-лицехвата
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobXenomorphLarva = спавнер ксеноморфа-личинки
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobXenomorphDrone = спавнер ксеноморфа-дрона
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobXenomorphHunter = спавнер ксеноморфа-охотника
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobXenomorphPraetorian = спавнер ксеноморфа-претория
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobXenomorphSentinel = спавнер ксеноморфа-стража
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobXenomorphQueen = спавнер ксеноморфа-королевы
+    .desc = { ent-MarkerBase.desc }

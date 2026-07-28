@@ -1,0 +1,68 @@
+﻿- type: guideEntry
+  id: SISRuleset
+  name: guide-entry-rules
+  ruleEntry: true
+  text: "/ServerInfo/_SIS/ServerRules/Rules.xml"
+
+- type: guideEntry
+  id: SISRuleC0
+  name: guide-entry-rules-c1
+  ruleEntry: true
+  priority: 1
+  text: "/ServerInfo/_SIS/ServerRules/CoreRules/RuleC0.xml"
+
+- type: guideEntry
+  id: SISRuleC1
+  name: guide-entry-rules-c2
+  ruleEntry: true
+  priority: 2
+  text: "/ServerInfo/_SIS/ServerRules/CoreRules/RuleC1.xml"
+
+- type: guideEntry
+  id: SISRuleC2
+  name: guide-entry-rules-c4
+  ruleEntry: true
+  priority: 3
+  text: "/ServerInfo/_SIS/ServerRules/CoreRules/RuleC2.xml"
+
+- type: guideEntry
+  id: SISRuleC3
+  name: guide-entry-rules-c5
+  ruleEntry: true
+  priority: 4
+  text: "/ServerInfo/_SIS/ServerRules/CoreRules/RuleC3.xml"
+
+- type: guideEntry
+  id: SISRuleC4-0
+  name: guide-entry-rules-c6
+  ruleEntry: true
+  priority: 5
+  text: "/ServerInfo/_SIS/ServerRules/CoreRules/RuleC4-0.xml"
+
+- type: guideEntry
+  id: SISRuleC4-1
+  name: guide-entry-rules-c7
+  ruleEntry: true
+  priority: 6
+  text: "/ServerInfo/_SIS/ServerRules/CoreRules/RuleC4-1.xml"
+
+- type: guideEntry
+  id: SISRuleC5
+  name: guide-entry-rules-c8
+  ruleEntry: true
+  priority: 7
+  text: "/ServerInfo/_SIS/ServerRules/CoreRules/RuleC5.xml"
+
+- type: guideEntry
+  id: SISRuleC6
+  name: guide-entry-rules-c9
+  ruleEntry: true
+  priority: 8
+  text: "/ServerInfo/_SIS/ServerRules/CoreRules/RuleC6.xml"
+
+- type: guideEntry
+  id: SISRuleC7
+  name: guide-entry-rules-c10
+  ruleEntry: true
+  priority: 9
+  text: "/ServerInfo/_SIS/ServerRules/CoreRules/RuleC7.xml"

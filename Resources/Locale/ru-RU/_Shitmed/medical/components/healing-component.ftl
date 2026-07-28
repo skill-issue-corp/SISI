@@ -1,0 +1,13 @@
+medical-item-cant-use-rebell = Вы не можете помочь { $target }. Кровотечение слишком сильное...
+cant-heal-damage-container-rebell = Вы не можете помочь { $target } с помощью { $used }
+rebell-medical-item-stop-bleeding-fully = Вы полностью остановили кровотечение.
+rebell-medical-item-stop-bleeding-partially = Вы частично остановили кровотечение
+missing-body-part = Часть тела отсутствует.
+puts-on-a-tourniquet = { CAPITALIZE($user) } накладывает жгут на { $part }.
+takes-off-a-tourniquet = { CAPITALIZE($user) } снимает жгут с { $part }.
+take-off-tourniquet = Снять жгут с { $part }
+already-tourniqueted = Наложение ещё одного жгута будет смертельным.
+cant-tourniquet = Здесь невозможно наложить жгут...
+no-wounds-tourniquet = Нет ран, на которые можно наложить жгут.
+cant-put-tourniquet-here = Вы не можете наложить жгут здесь.
+medical-item-requires-surgery-rebell = Вы сделали всё, что могли. { $target } нужна операция.

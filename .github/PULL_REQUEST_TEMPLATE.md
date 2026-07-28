@@ -1,35 +1,40 @@
-<!-- Guidelines: https://docs.spacestation14.io/en/getting-started/pr-guideline -->
-<!-- NOTE: All code submitted to this repository is ALWAYS licensed under the AGPL-3.0-or-later license.  -->
-## About the PR
-<!-- What did you change? -->
+<!-- ПРИМЕЧАНИЕ: Весь код предоставляемый в этот репозиторий ВСЕГДА лицензируется под лицензией AGPL-3.0-or-later -->
+## Описание PR
+<!-- Что вы изменили? -->
 
-## Why / Balance
-<!-- Discuss how this would affect game balance or explain why it was changed. Link any relevant discussions or issues. -->
+## Почему / Баланс
+<!-- Обсудите, как это повлияет на баланс игры или объясните, почему это было изменено. В случае пропуска писать N/A. -->
 
-## Technical details
-<!-- Summary of code changes for easier review. -->
+## Технические детали
+<!-- Кратко опишите изменения в C# коде для облегчения проверки. В случае пропуска писать N/A. -->
 
-## Media
-<!-- Attach media if the PR makes in-game changes (clothing, items, features, etc).
-Small fixes/refactors are exempt. -->
-
-## Requirements
-<!-- Confirm the following by placing an X in the brackets without spaces inside (for example: [X] ): -->
-- [ ] I have read and am following the [Pull Request and Changelog Guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
-- [ ] I have added media to this PR or it does not require an in-game showcase.
-<!-- You should understand that not following the above may get your PR closed at maintainer’s discretion -->
-
-## Breaking changes
-<!-- List any breaking changes, including namespaces, public class/method/field changes, prototype renames; and provide instructions for fixing them. -->
-
-**Changelog**
-<!-- Add a Changelog entry to make players aware of new features or changes that could affect gameplay.
-Make sure to read the guidelines and take this Changelog template out of the comment block in order for it to show up.
-Changelog must have a :cl: symbol, so the bot recognizes the changes and adds them to the game's changelog. -->
+## Медиа
 <!--
-:cl:
-- add: Added fun!
-- remove: Removed fun!
-- tweak: Changed fun!
-- fix: Fixed fun!
+Прикрепите медиафайлы (скрины, видео), если PR вносит изменения в игру (одежда, предметы, механики и т.д.).
+Исправления/рефакторинг освобождаются от этого требования. В случае пропуска писать N/A.
+-->
+
+## Требования
+<!-- Подтвердите следующее, поставив X в скобках [X]: -->
+- [ ] Я добавил медиафайлы (скрины, видео) к этому PR или он не требует демонстрации в игре.
+- [ ] Я проверил что мои изменения не вызывают конфликтов и багов в сборке.
+- [ ] Я уверен, что мои изменения не нарушают лицензионные соглашения.
+
+**Список изменений**
+<!--
+Добавьте запись в Changelog, чтобы игроки знали о новых функциях или изменениях, которые могут повлиять на игровой процесс.
+Убедитесь, что вы прочитали рекомендации и вынесли этот шаблон Changelog ниже блока комментариев, чтобы он отображался.
+Changelog должен иметь символ :cl: и пинг для Discord, если участвовало больше одного человека то разделять ники через символ "/". (например :cl: @shegare / @liem.98 / @samur7).
+Также список должен идти сверху вниз, сгруппировано и следуя иерархии (сначала сгруппировано только апстримы, потом сгруппировано только админ изменения и т.п.).
+В случае пропуска писать N/A.
+-->
+<!--
+:cl: @пинг
+- :inbox_tray: апстримы
+- :a: администраторские изменения/добавления
+- :new: добавления
+- :gear: изменения
+- :recycle: откат/возвращение
+- :bug: исправления
+- :x: удаления
 -->

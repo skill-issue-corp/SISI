@@ -190,9 +190,9 @@
   description: A suit that protects against minor chemical spills.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat.rsi # SIS
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat.rsi # SIS
   - type: Armor
     coverage: # Shitmed
     - Torso
@@ -215,9 +215,9 @@
   description: A suit that protects against minor chemical spills. Has an orange stripe on the shoulder.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_chem.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_chem.rsi # SIS
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_chem.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_chem.rsi # SIS
   - type: Armor
     coverage: # Shitmed
     - Torso
@@ -240,9 +240,9 @@
   description: A suit that protects against bacteria and viruses. Has an green stripe on the shoulder.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_viro.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_viro.rsi # SIS
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_viro.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_viro.rsi # SIS
   - type: Armor
     coverage: # Shitmed
     - Torso
@@ -265,9 +265,9 @@
   description: A suit that protects against minor chemical spills. Has an blue stripe on the shoulder.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_gene.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_gene.rsi # SIS
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_gene.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_gene.rsi # SIS
   - type: Armor
     coverage: # Shitmed
     - Torso
@@ -290,9 +290,9 @@
   description: Custom made blue lab coat for the Chief Medical Officer, offers improved protection against chemical spills and minor cuts.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_cmo.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_cmo.rsi # SIS
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_cmo.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_cmo.rsi # SIS
   - type: Armor
     coverage: # Shitmed
     - Torso
@@ -317,9 +317,9 @@
   description: A suit that protects against minor chemical spills. Has a purple stripe on the shoulder.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_sci.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_sci.rsi # SIS
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_sci.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_sci.rsi # SIS
   - type: Armor
     coverage: # Shitmed
     - Torso
@@ -342,9 +342,9 @@
   description: More like an eccentric coat than a labcoat. Helps pass off bloodstains as part of the aesthetic. Comes with red shoulder pads.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_robo.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_robo.rsi # SIS
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_robo.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_robo.rsi # SIS
   - type: Armor
     coverage: # Shitmed
     - Torso
@@ -367,9 +367,9 @@
   description: Woven with top of the line technology, this labcoat helps protect against radiation in similar way to the experimental hardsuit.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_rd.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_rd.rsi # SIS
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_rd.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_rd.rsi # SIS
   - type: Armor
     coverage: # Shitmed
     - Torso
@@ -524,9 +524,9 @@
   description: A suit that protects against minor chemical spills. Has a purple collar and wrist trims.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_senior_researcher.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_senior_researcher.rsi # SIS
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_senior_researcher.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_senior_researcher.rsi # SIS
   - type: Armor
     coverage: # Shitmed
     - Torso
@@ -549,9 +549,9 @@
   description: A suit that protects against minor chemical spills. Has light blue sleeves and an orange waist trim.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Coats/labcoat_senior_physician.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_senior_physician.rsi # SIS
   - type: Clothing
-    sprite: Clothing/OuterClothing/Coats/labcoat_senior_physician.rsi
+    sprite: _SIS/Clothing/OuterClothing/Coats/labcoat_senior_physician.rsi # SIS
   - type: Armor
     coverage: # Shitmed
     - Torso

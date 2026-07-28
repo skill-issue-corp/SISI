@@ -1,0 +1,17 @@
+ent-BaseWeaponTurretRevolutionary = { ent-BaseWeaponBallisticTurret }
+    .desc = { ent-BaseWeaponBallisticTurret.desc }
+    .suffix = Заполнено
+ent-BaseWeaponTurretRevolutionaryMagazine = { ent-BaseStructure }
+    .desc = { ent-BaseStructure.desc }
+    .suffix = Заполнено
+ent-WeaponTurretRevolutionaryPistolFull = самодельная пистолетная турель
+    .desc = Стреляет во всё, что не имеет должного сигнала свой-чужой, может вместить только десять патронов, которые нужно заряжать вручную. Будьте осторожны с этой штукой.
+ent-WeaponTurretRevolutionaryPistol = { ent-WeaponTurretRevolutionaryPistolFull }
+    .desc = { ent-WeaponTurretRevolutionaryPistolFull.desc }
+    .suffix = Пусто
+ent-WeaponTurretRevolutionarySMG = самодельная турель-пистолет-пулемёт
+    .desc = Стреляет во всё, что не имеет должного сигнала свой-чужой. Заряжается магазином, но крайне неточна.
+    .suffix = Пусто
+ent-WeaponTurretRevolutionarySMGFull = { ent-WeaponTurretRevolutionarySMG }
+    .desc = { ent-WeaponTurretRevolutionarySMG.desc }
+    .suffix = Заполнено

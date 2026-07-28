@@ -1,0 +1,16 @@
+ent-ShadowlingGlareStatusEffect = замедление от взгляда теневика
+    .desc = { ent-StatusEffectSlowdown.desc }
+ent-ShadowlingAbominationStatusEffect = мерзость теневика
+    .desc = { ent-StatusEffectSlowdown.desc }
+ent-OrganSlowdownStatusEffect = замедление от повреждённого органа
+    .desc = { ent-StatusEffectSlowdown.desc }
+ent-InLavaStatusEffect = в лаве
+    .desc = { ent-StatusEffectSlowdown.desc }
+ent-TentacleHookStatusEffect = замедление от щупальца-крюка
+    .desc = { ent-StatusEffectSlowdown.desc }
+ent-NitriumStatusEffect = ускорение от нитрия
+    .desc = { ent-StatusEffectSpeed.desc }
+ent-HyperStatusEffect = гипер
+    .desc = { ent-StatusEffectSpeed.desc }
+ent-SluggishStatusEffect = вялость
+    .desc = { ent-StatusEffectSlowdown.desc }

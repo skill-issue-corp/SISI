@@ -66777,42 +66777,42 @@ entities:
       pos: 34.5,20.5
       parent: 2
     - type: FaxMachine
-      name: CMO's Office
+      name: Офис ГВ # RU-Localization
   - uid: 10381
     components:
     - type: Transform
       pos: 34.5,-1.5
       parent: 2
     - type: FaxMachine
-      name: Kitchen
+      name: Кухня # RU-Localization
   - uid: 10382
     components:
     - type: Transform
       pos: 27.5,-6.5
       parent: 2
     - type: FaxMachine
-      name: Botany
+      name: Ботаника # RU-Localization
   - uid: 10383
     components:
     - type: Transform
       pos: -2.5,-22.5
       parent: 2
     - type: FaxMachine
-      name: Library
+      name: Библиотека # RU-Localization
   - uid: 10384
     components:
     - type: Transform
       pos: 55.5,-24.5
       parent: 2
     - type: FaxMachine
-      name: Warden's Office
+      name: Офис Смотрителя # RU-Localization
   - uid: 10385
     components:
     - type: Transform
       pos: 73.5,-7.5
       parent: 2
     - type: FaxMachine
-      name: Detective's Office
+      name: Офис Детектива # RU-Localization
   - uid: 10386
     components:
     - type: Transform
@@ -66824,14 +66824,14 @@ entities:
       pos: 14.5,-47.5
       parent: 2
     - type: FaxMachine
-      name: NTR's Office
+      name: Офис ПNT # RU-Localization
   - uid: 10388
     components:
     - type: Transform
       pos: 32.5,11.5
       parent: 2
     - type: FaxMachine
-      name: Psychologist's Office
+      name: Психологический Офис # RU-Localization
 - proto: FaxMachineCaptain
   entities:
   - uid: 10389

@@ -35,13 +35,25 @@ namespace Content.Server.GameTicking.Commands
 
             if (!isAdminCommand && _adminManager.IsAdmin(player))
             {
-                _adminManager.DeAdmin(player);
+                // _adminManager.DeAdmin(player); // SIS-Lobby_AGhost
+
+                // SIS-Lobby_AGhost Start
+                if (ticker.PlayerGameStatuses.TryGetValue(player.UserId, out var statusObserver) &&
+                    statusObserver != PlayerGameStatus.JoinedGame)
+                {
+                    ticker.JoinAsObserver(player);
+                }
+                else
+                {
+                    shell.WriteError($"{player.Name} is not in the lobby.   This incident will be reported.");
+                }
+                // SIS-Lobby_AGhost End
             }
 
             if (ticker.PlayerGameStatuses.TryGetValue(player.UserId, out var status) &&
                 status != PlayerGameStatus.JoinedGame)
             {
-                ticker.JoinAsObserver(player);
+                ticker.JoinAsObserver(player, _adminManager.IsAdmin(player)); // SIS-Lobby_AGhost
             }
             else
             {

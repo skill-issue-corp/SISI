@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SISI Server+Client" type="CompoundRunConfigurationType">
+    <toRun name="Content.SIS.Client" type="DotNetProject" />
+    <toRun name="Content.SIS.Server" type="DotNetProject" />
+    <method v="2" />
+  </configuration>
+</component>

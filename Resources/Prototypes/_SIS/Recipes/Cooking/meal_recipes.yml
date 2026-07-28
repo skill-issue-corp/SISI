@@ -1,0 +1,13 @@
+- type: microwaveMealRecipe
+  id: RecipeHummus
+  name: hummus recipe
+  result: FoodHummus
+  time: 20
+  group: Savory
+  solids:
+    FoodPeaPod: 3
+    FoodBowlBig: 1
+    FoodGarlic: 1
+  reagents:
+    Water: 5
+    Enzyme: 5

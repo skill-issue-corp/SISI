@@ -1,0 +1,2 @@
+ent-clientsideclone = клиентсторонакопия
+    .desc = { "" }

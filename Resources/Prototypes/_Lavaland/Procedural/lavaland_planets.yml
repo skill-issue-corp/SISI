@@ -28,6 +28,7 @@
   - OreDiamond
   - OreBSCrystal
   #- OreGibtonite # It's broken right now sadly because of how Gatherable works :(
+  - MobArchLegionSpawn # SIS
   mapEffects:
   - !type:AddComponents
     components:

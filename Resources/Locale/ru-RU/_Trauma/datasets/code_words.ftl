@@ -1,0 +1,9 @@
+CodeWords-dataset-1 = патриоты
+CodeWords-dataset-2 = шифр
+CodeWords-dataset-3 = змея
+CodeWords-dataset-4 = ликвид
+CodeWords-dataset-5 = босс
+CodeWords-dataset-6 = адам
+CodeWords-dataset-7 = ева
+CodeWords-dataset-8 = неплохо
+CodeWords-dataset-9 = механизм

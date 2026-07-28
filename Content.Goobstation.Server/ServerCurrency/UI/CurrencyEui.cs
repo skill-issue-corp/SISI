@@ -53,6 +53,6 @@ public sealed partial class CurrencyEui : BaseEui
 
         _currency.RemoveCurrency(Player.UserId, token.Price);
         await _notes.AddAdminRemark(Player, Player.UserId, 0,
-            Loc.GetString(token.AdminNote), 0, false, null);
+            Loc.GetString(token.AdminNote), 0, true, null); // SIS-Secret_Token_Remark
     }
 }
