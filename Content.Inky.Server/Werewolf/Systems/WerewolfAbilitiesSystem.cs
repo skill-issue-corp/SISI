@@ -90,7 +90,8 @@ public sealed partial class WerewolfAbilitiesSystem : EntitySystem
 
         if (!args.Forced && mindComp.Accumulator < mindComp.TransfurmOnCommandDelay)
         {
-            _popup.PopupEntity(Loc.GetString("werewolf-transfurm-cooldown"), uid, uid);
+            var remainingTime = (int) MathF.Round(mindComp.TransfurmOnCommandDelay - mindComp.Accumulator);
+            _popup.PopupEntity(Loc.GetString("werewolf-transfurm-cooldown", ("remainingTime", remainingTime)), uid, uid);
             args.Handled = true;
             return;
         }
