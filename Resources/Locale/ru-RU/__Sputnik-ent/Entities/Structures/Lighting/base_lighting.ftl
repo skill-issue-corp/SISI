@@ -100,7 +100,7 @@ ent-AlwaysPoweredlightOrange = { ent-AlwaysPoweredWallLight }
     .desc = { ent-AlwaysPoweredWallLight.desc }
 
 ent-PoweredlightBlack = { ent-Poweredlight }
-    .desc = null
+    .desc = { ent-Poweredlight.desc }
     .suffix = Чёрный
 
 ent-AlwaysPoweredlightBlack = { ent-AlwaysPoweredWallLight }
