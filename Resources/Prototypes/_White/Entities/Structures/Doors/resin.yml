@@ -93,6 +93,7 @@
     powered: true
     openingSpriteState: closed_unlit
     closingSpriteState: closed_unlit
+    openUnlitVisible: true # SIS
   - type: AccessReader
     access: [["Xenomorph"]]
     breakOnAccessBreaker: false # Goobstation

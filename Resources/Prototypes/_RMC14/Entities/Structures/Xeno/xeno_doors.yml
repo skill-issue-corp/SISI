@@ -70,6 +70,7 @@
     powered: true
     openingSpriteState: closed_unlit
     closingSpriteState: closed_unlit
+    openUnlitVisible: true # SIS
 
 - type: entity
   parent: DoorXenoResin
