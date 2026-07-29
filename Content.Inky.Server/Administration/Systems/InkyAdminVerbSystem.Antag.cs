@@ -38,7 +38,7 @@ public sealed partial class InkyAdminVerbSystem
                 _antag.ForceMakeAntag<WerewolfRuleComponent>(targetPlayer, "Werewolf");
             },
             Impact = LogImpact.High,
-            Message = Loc.GetString("admin-verb-make-werewolf"),
+            Message = Loc.GetString("admin-verb-text-make-werewolf"),
         });
     }
 }
