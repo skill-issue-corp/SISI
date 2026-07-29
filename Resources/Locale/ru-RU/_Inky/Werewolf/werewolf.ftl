@@ -11,8 +11,9 @@ werewolf-action-fail-hunger = Вы слишком голодны, чтобы с�
 werewolf-action-fail-transfurmed = Вы не можете использовать это, находясь в низшей форме.
 
 werewolf-transfurm-block = Что-то мешает вам трансформироваться...
-werewolf-transfurm-cooldown = Мы ещё не готовы. Осталось { $remainingTime } секунд до трансформации.
+werewolf-transfurm-cooldown = Мы ещё не готовы. Осталось {$remainingTime} секунд до трансформации.
 werewolf-mutation-changed = Вы чувствуете, как ваше тело меняется.
+werewolf-devour-fail-devoured = Здесь больше нечего пожирать.
 werewolf-devour-fail-werewolf = Пахнет волком... Вы не можете это пожрать.
 werewolf-devour-start = {$user} впивается зубами в руку {$target}!
 werewolf-gut-start = {$user} потрошит торс {$target}!
