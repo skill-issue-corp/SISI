@@ -1,4 +1,3 @@
-using System.Linq;
 using System.Numerics;
 using Content.Inky.Shared.Werewolf.Components;
 using Content.Shared.Localizations;
@@ -212,7 +211,6 @@ public sealed partial class SharedWerewolfAbilitiesSystem
         mindComp.BlockTransfurm = true;
     }
 
-
     private EntityUid? GetMindShit(EntityUid targetMind)
     {
         var eqe = EntityQueryEnumerator<MindContainerComponent>();
@@ -223,6 +221,4 @@ public sealed partial class SharedWerewolfAbilitiesSystem
         }
         return null;
     }
-
-
 }

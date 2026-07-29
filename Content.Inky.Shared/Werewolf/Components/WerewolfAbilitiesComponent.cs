@@ -42,5 +42,4 @@ public sealed partial class WerewolfAbilitiesComponent : Component
     /// </summary>
     [DataField]
     public int AmountGut = 1;
-
 }
