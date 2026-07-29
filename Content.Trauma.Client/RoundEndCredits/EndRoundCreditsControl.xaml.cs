@@ -20,9 +20,11 @@ public sealed partial class EndRoundCreditsControl : ScrollContainer
     [Dependency] private IRobustRandom _gamba = default!;
     // </inky>
 
-    private static readonly ResPath Logo = new("/Textures/_SIS/Logo/logo.png"); // SIS-Credits
-    private static readonly ResPath Pixellari = new("/Fonts/_Trauma/Pixellari.ttf");
-    private static readonly ResPath GrandPixel = new("/Fonts/_Trauma/Grand9K_Pixel.ttf");
+    // SIS-Credits Start
+    private static readonly ResPath Logo = new("/Textures/_SIS/Logo/logo.png");
+    private static readonly ResPath Pixellari = new("/Fonts/_SIS/PixCyrillic.ttf");
+    private static readonly ResPath GrandPixel = new("/Fonts/_SIS/grand9k-pixel-unicode.otf");
+    // SIS-Credits End
 
     private const int SmallFontSize = 10;
     private const int NormalFontSize = 16;

@@ -1,0 +1,5 @@
+license: SIL OPEN FONT LICENSE
+link: https://github.com/lotva/pix-cyrillic
+
+license: CC BY-SA 3.0
+link: https://fontstruct.com/fontstructions/show/2619686/grand9k-pixel-unicode
