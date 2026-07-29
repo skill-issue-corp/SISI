@@ -48,7 +48,7 @@
 - type: listing
   id: WerewolfBlackLunar
   name: werewolf-store-black-lunar-name
-  description: werewolf-store-lunar-black-desc
+  description: werewolf-store-black-lunar-desc
   icon:
     sprite: _Inky/Actions/Werewolf/werewolf.rsi
     state: lunar-black
@@ -72,7 +72,7 @@
 - type: listing
   id: WerewolfBlackOrder
   name: werewolf-store-black-order-name
-  description: werewolf-store-lunar-order-desc
+  description: werewolf-store-black-order-desc
   icon:
     sprite: _Inky/Actions/Werewolf/werewolf.rsi
     state: howl-green
@@ -97,7 +97,7 @@
 - type: listing
   id: WerewolfBlackBequeath
   name: werewolf-store-black-bequeath-name
-  description: werewolf-store-bequeath-desc
+  description: werewolf-store-black-bequeath-desc
   icon:
     sprite: _Inky/Actions/Werewolf/werewolf.rsi
     state: bequeath

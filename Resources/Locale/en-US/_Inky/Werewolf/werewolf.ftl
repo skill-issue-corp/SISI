@@ -116,7 +116,7 @@ werewolf-store-black-bequeath-desc = Crown a werewolf from your pack to be the n
 werewolf-store-black-beckon-name = Beckon
 werewolf-store-black-beckon-desc = Transmits your current location into the lunarmind.
 
-werewolf-black-call-name = The Call
-werewolf-black-call-desc = The final stage of accepting your true form. Requires you to have minimum of 4 pack members to activate.
+werewolf-store-black-call-name = The Call
+werewolf-store-black-call-desc = The final stage of accepting your true form. Requires you to have minimum of 4 pack members to activate.
     After use, you and everyone in your pack will become PERMANENTLY transformed, having their health doubled.
     Sets the station alert to violet, single use.
