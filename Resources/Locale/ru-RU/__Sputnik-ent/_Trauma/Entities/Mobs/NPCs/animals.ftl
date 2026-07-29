@@ -1,58 +1,85 @@
 ent-MobMonkeyGhostrole = { ent-MobMonkey }
     .desc = { ent-MobMonkey.desc }
     .suffix = Ghostrole
+
 ent-MobKoboldGhostrole = { ent-MobKobold }
     .desc = { ent-MobKobold.desc }
     .suffix = Ghostrole
+
 ent-MobBunnySea = морской кролик
     .desc = Милый, пушистый морской кролик.
+
 ent-MobBunny = кролик
     .desc = Милый, пушистый кролик.
+
 ent-MobBunnyEvil = кролик
     .desc = Милый, пушистый кролик. Он хочет вас убить.
+
 ent-MobEelSea = угорь
     .desc = Скользкая, извивающаяся рыба, чей укус бьёт током.
+
 ent-MobSnakeGrass = травяная змея
     .desc = { ent-MobSnake.desc }
+
 ent-MobCobra = кобра
     .desc = Узорчатый капюшон и ядовитый укус. Лучше любоваться издалека.
+
 ent-SolutionVenomCobra = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
+
 ent-MobYellowBellySnake = желтобрюхая змея
     .desc = Угрожающая желтобрюхая змея.
+
 ent-MobMantis = богомол
     .desc = Скрытный хищник.
+
 ent-MobMantisShrimp = рак-богомол
     .desc = Обманчиво маленький ракообразный, чей удар способен раздробить кость. Не подпускайте его к стеклу.
+
 ent-MobShrimp = креветка
     .desc = Опасное ракообразное, старайтесь уворачиваться от её пузырьков.
+
 ent-MobDartFrogBase = древолаз
     .desc = Ярко окрашенное земноводное. Его кожа выделяет мощный паралитический токсин.
+
 ent-MobDartFrog1 = древолаз-клубничка
     .desc = Маленький, яркий и обманчиво опасный. Его кожа выделяет токсины, достаточно сильные, чтобы отпугнуть большинство хищников.
+
 ent-SolutionVenomDartFrog1 = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
+
 ent-MobDartFrog2 = золотой древолаз
     .desc = Ярко раскрашенный древолаз, несущий один из самых смертоносных токсинов в природе. Даже хищники знают, что держаться от него следует подальше.
+
 ent-SolutionVenomDartFrog2 = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
+
 ent-MobDartFrog3 = лазурный древолаз
     .desc = Яркий синий древолаз с умеренной, но эффективной химической защитой. Лучше оценивать без прямого контакта.
+
 ent-SolutionVenomDartFrog3 = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
+
 ent-MobDartFrog4 = зелёно-чёрный древолаз
     .desc = Яркие предупреждающие цвета сигнализируют о внушительном запасе токсинов. Красив на вид, но менее приятен на ощупь.
+
 ent-SolutionVenomDartFrog4 = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
+
 ent-MobDartFrog5 = древолаз кокое
     .desc = Тёмный лесной древолаз, чьи мощные кожные токсины делают его опасной добычей для любого, кто достаточно голоден, чтобы попытаться его съесть.
+
 ent-SolutionVenomDartFrog5 = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
+
 ent-MobDartFrog6 = розовый древолаз
     .desc = Редкий розовый древолаз, чьи токсины сравнительно слабы, хотя всё же неприятны для неосторожных.
+
 ent-SolutionVenomDartFrog6 = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
+
 ent-SolutionMouseBites = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
+
 ent-SolutionClownSpider = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }

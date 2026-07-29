@@ -1,2 +1,2 @@
 ent-JanitorKnowledge = Уборщик
-    .desc = { ent-BaseScientificKnowledge.desc }
+    .desc = Помогает вам выбрасывать мусор. Вот и всё.

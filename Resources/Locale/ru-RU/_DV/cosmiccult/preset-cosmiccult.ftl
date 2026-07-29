@@ -165,7 +165,7 @@ cosmiccult-announce-finale-warning = Внимание, весь экипаж с�
 cosmiccult-spire-entropy = С поверхности шпиля конденсируется частица энтропии.
 cosmiccult-entropy-unavailable = Сейчас вы не можете это сделать.
 cosmiccult-astral-ascendant = {$name}, Вознёсшийся
-cosmiccult-gear-pickup-rejection = {$ITEM} сопротивляется прикосновению {CAPITALIZE(THE($TARGET))}!
+cosmiccult-gear-pickup-rejection = {$ITEM} сопротивляется прикосновению {CAPITALIZE($TARGET)}!
 cosmiccult-astral-minion = {$name}, Зловещий
 cosmiccult-gear-pickup = Вы чувствуете, как распадаетесь на части, держа {$ITEM}!
 

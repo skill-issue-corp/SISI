@@ -1,12 +1,20 @@
 ent-FoodLemonade = лимонад
     .desc = Когда жизнь даёт вам лимоны, устройте поджог. Этими самыми лимонами.
     .suffix = Еда
+
 ent-FoodCoconut = кокос
     .desc = Наверное, стоит расколоть его перед едой...
+
 ent-FoodCoconutHalf = половина кокоса
     .desc = Идеальная защита... если вы осьминог.
+
 ent-TrashCoconutShell = кокосовая скорлупа
     .desc = Скорлупа кокоса, довольно бесполезная.
+
 ent-FoodCherryBomb = вишня
     .desc = Сочная красная вишня с бомбой внутри.
     .suffix = Бомба
+
+ent-MimanaPeelStealthy = кожура мимбанана
+    .desc = { ent-TrashMimanaPeel.desc }
+    .suffix = Скрытая

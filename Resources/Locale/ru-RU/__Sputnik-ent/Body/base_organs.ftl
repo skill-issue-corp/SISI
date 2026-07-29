@@ -1,6 +1,9 @@
 ent-OrganBase = орган
     .desc = { ent-BaseItem.desc }
 
+ent-OrganBaseOrganic = орган
+    .desc = { ent-OrganBaseFleshy.desc }
+
 ent-OrganBaseTorso = торс
     .desc = { ent-OrganBaseExternal.desc }
 
@@ -70,10 +73,8 @@ ent-OrganBaseKidneys = почки
 ent-OrganSpriteHumanInternal = { "" }
     .desc = { "" }
 
-# SIS-Shitmed Start
 ent-OrganBaseHeadSexed = голова
     .desc = { "" }
 
 ent-OrganBaseTorsoSexed = торс
     .desc = { "" }
-# SIS-Shitmed End

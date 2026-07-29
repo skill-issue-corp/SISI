@@ -20,22 +20,8 @@ ent-WeaponLauncherMultipleRocket = многозарядный ракетный �
 ent-WeaponLauncherPirateCannon = пиратская пушка
     .desc = Бабах!
 
-ent-WeaponTetherGun = тросовое орудие
-    .desc = Манипулирует гравитацией вокруг объектов, чтобы запускать их с высокой скоростью.
-
-ent-WeaponForceGun = силовое орудие
-    .desc = Манипулирует гравитацией вокруг объектов, чтобы запускать их с высокой скоростью.
-
 ent-WeaponGrapplingGun = крюк-кошка
     .desc = { ent-BaseItem.desc }
-
-ent-WeaponTetherGunAdmin = тросовое орудие
-    .desc = Манипулирует гравитацией вокруг объектов, чтобы запускать их с высокой скоростью.
-    .suffix = Адмеме
-
-ent-WeaponForceGunAdmin = силовое орудие
-    .desc = Манипулирует гравитацией вокруг объектов, чтобы запускать их с высокой скоростью.
-    .suffix = Адмеме
 
 ent-WeaponLauncherAdmemeMeteorLarge = метеоритная пушка
     .desc = Стреляет большими метеоритами.

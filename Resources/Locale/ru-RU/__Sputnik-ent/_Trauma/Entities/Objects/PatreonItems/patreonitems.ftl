@@ -1,52 +1,77 @@
 ent-PatreonTia = плюшевый ленор
     .desc = Он сделан из человека.
+
 ent-PatreonTenshi = серебряный нимб
     .desc = Святые угодники.
+
 ent-PatreonTurboTracker = плащ клоунской рвоты
     .desc = Красные пятна - это человеческая кровь.
+
 ent-PatreonWeax = отрубленный череп армока
     .desc = Он самого низкого качества.
+
 ent-PatreonTheLongQuietDress = грибное платье
     .desc = Это грибное платье!
+
 ent-PatreonTheLongQuietHat = грибная шляпа
     .desc = Это грибная шляпа!
+
 ent-PatreonOwenCarpenter = плащ из мусорного пакета
     .desc = ОТВРАТИТЕЛЬНО!!!
+
 ent-PatreonGamingFungus420 = шляпа "разбей Тома"
     .desc = Кто такой Том? И как мне его разбить?
+
 ent-PatreonGribley = упаковка червей
     .desc = Кажется, оно только что шевельнулось...
+
 ent-PatreonGungeonologist = окровавленная бомберная куртка
     .desc = Поношенная бомберная куртка с несколькими застарелыми пятнами крови. На внутренней стороне воротника напечатано слово "Гандераан".
+
 ent-PatreonGungeonologist2 = хирургические очки
     .desc = Хорошо подходят, чтобы песок не попадал в глаза.
+
 ent-PatreonBias = трофей иерофанта
     .desc = Отрубленная голова иерофанта.
+
 ent-PatreonEpsilon = плащ пустоты
     .desc = Холодный на ощупь.
+
 ent-PatreonIdoppel = запятнанный костюм
     .desc = Вонючий костюм, испачканный впечатляющей преданностью работе своего владельца.
+
 ent-PatreonWraith = маска черепа
     .desc = Маска черепа! Вы не уверены, настоящая она или нет...
+
 ent-PatreonToasterStrudels = настоящая слизь из головы
     .desc = Липко... фу.
+
 ent-PatreonBumblebirb = Двингл
     .desc = Он двинглит сам себя.
+
 ent-DwingleCube = куб двингла
     .desc = { ent-RehydratableAnimalCube.desc }
+
 ent-DwingleCubeBox = коробка кубов двингла
     .desc = То, что мне дали 8 таких, отправит меня в ад.
+
 ent-PatreonltKRYSuit = спортивный костюм
     .desc = Смутно по-русски.
+
 ent-PatreonltKRYHat = спортивный шлем
     .desc = Смутно по-русски.
+
 ent-PatreonDrOktober = футуристическая куртка
     .desc = Выглядит так, будто сошла со страниц научно-фантастического романа!
+
 ent-PatreonDaniels = плащ времени
     .desc = Часы на спине сломаны...
+
 ent-PatreonCatdere = плащ уборщика
     .desc = Я убил троих в 1997 году.
+
 ent-PatreonSuperMage = дёргающаяся мышь
     .desc = Дёргается!
+
 ent-PatreonDino = остеклённый цветок
     .desc = Он странно излучает.

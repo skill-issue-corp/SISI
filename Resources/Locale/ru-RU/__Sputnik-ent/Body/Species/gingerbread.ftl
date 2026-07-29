@@ -4,8 +4,8 @@ ent-AppearanceGingerbread = внешний вид пряничного чело�
 ent-MobGingerbread = Урист МакКуки
     .desc = { ent-AppearanceGingerbread.desc }
 
-ent-OrganGingerbread = { ent-OrganBaseSugary }
-    .desc = { ent-OrganBaseSugary.desc }
+ent-OrganGingerbread = { ent-OrganBaseOrganic }
+    .desc = { ent-OrganBaseOrganic.desc }
     .suffix = пряничный человечек
 
 ent-OrganGingerbreadExternal = { ent-OrganGingerbread }

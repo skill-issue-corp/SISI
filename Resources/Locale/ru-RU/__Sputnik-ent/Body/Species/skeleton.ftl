@@ -4,8 +4,8 @@ ent-AppearanceSkeletonPerson = внешний вид скелетоида
 ent-MobSkeletonPerson = Урист МакБоунс
     .desc = { ent-AppearanceSkeletonPerson.desc }
 
-ent-OrganSkeletonPerson = { ent-OrganBase }
-    .desc = { ent-OrganBase.desc }
+ent-OrganSkeletonPerson = { ent-OrganBaseOrganic }
+    .desc = { ent-OrganBaseOrganic.desc }
     .suffix = Скелетоид
 
 ent-OrganSkeletonPersonExternal = { ent-OrganSkeletonPerson }

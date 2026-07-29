@@ -1,12 +1,11 @@
 ent-AppearanceVox = внешность вокса
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-
 ent-MobVox = Урист МакВокс
     .desc = { ent-AppearanceVox.desc }
 
-ent-OrganVox = { ent-OrganBaseFleshy }
-    .desc = { ent-OrganBaseFleshy.desc }
+ent-OrganVox = { ent-OrganBaseOrganic }
+    .desc = { ent-OrganBaseOrganic.desc }
     .suffix = Вокс
 
 ent-OrganVoxMetabolizer = { "" }

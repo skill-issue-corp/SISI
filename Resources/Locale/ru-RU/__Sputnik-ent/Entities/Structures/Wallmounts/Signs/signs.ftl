@@ -260,7 +260,7 @@ ent-SignCans = знак "канистры"
     .desc = Знак, указывающий на удачное присутствие канистр газов.
 
 ent-SignCansScience = { ent-SignCans }
-    .suffix = научный
+    .suffix = Научный
     .desc = { ent-SignCans.desc }
 
 ent-SignShipDock = знак "эвакуация"

@@ -1,1 +1,1 @@
-flavor-complex-plasma = как плазма
+flavor-complex-plasma = как форон

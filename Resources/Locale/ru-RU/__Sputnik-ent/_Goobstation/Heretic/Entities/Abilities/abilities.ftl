@@ -1,32 +1,59 @@
 ent-EntropicPlume = энтропийное облако
     .desc = { "" }
+
 ent-EffectCleave = рассечение
     .desc = { "" }
+
 ent-EffectVolcanoExplosion = { "" }
     .desc = { "" }
+
+ent-HereticCascade = { "" }
+    .desc = { "" }
+
 ent-EffectVoidBlinkIn = { "" }
     .desc = { "" }
+
 ent-EffectVoidBlinkOut = { "" }
     .desc = { "" }
+
+ent-BaseShadowCloakEntity = { "" }
+    .desc = { "" }
+
 ent-ShadowCloakEntity = тень?
     .desc = Что-то там есть! Несмотря на весь здравый смысл, эта тень мелькает на краю вашего зрения. Вы закрываете глаза, но она всё равно там. Куда бы вы ни бежали — она рядом. В кромешной темноте она есть.
+
+ent-ShadowCloakEntityPale = бледная фигура
+    .desc = Мгновение назад здесь ничего не было, но теперь вы видите едва различимые очертания странного существа, притаившегося в лесу. Его тёплые объятия высасывают вашу силу, пока смерть безмятежно приближается. Лес напевает умиротворяющую колыбельную, и вы становитесь частью его вечного гимна.
+
 ent-EffectCosmicDiamond = { "" }
     .desc = { "" }
+
 ent-EffectCosmicCloud = { "" }
     .desc = { "" }
+
 ent-EffectCosmicExplosion = { "" }
     .desc = { "" }
+
+ent-EffectSpaceExplosion = { "" }
+    .desc = { "" }
+
 ent-EffectCosmicDomain = { "" }
     .desc = { "" }
+
 ent-EffectCosmicSlash = { "" }
     .desc = { "" }
+
 ent-WeaponArcHereticCosmic = { ent-WeaponArcStatic }
     .desc = { ent-WeaponArcStatic.desc }
+
 ent-EffectGazerOrb = { "" }
     .desc = { "" }
+
 ent-EffectVoidPrisonEnd = { "" }
     .desc = { "" }
+
 ent-VoidConduit = Проводник Пустоты
     .desc = Открытые ворота, ведущие в Пустоту. Испускает импульсы, под которые вы явно не хотите попасть.
-ent-VoidAscensionAura = { "" }
+
+ent-TentacleProjectile = щупальце
     .desc = { "" }

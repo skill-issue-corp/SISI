@@ -1,9 +1,21 @@
+# SPDX-FileCopyrightText: 2023 Chief-Engineer <119664036+Chief-Engineer@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Riggle <27156122+RigglePrime@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
+# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
+# SPDX-FileCopyrightText: 2024 beck-thompson <107373427+beck-thompson@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 # UI
 admin-notes-title = Заметки о { $player }
 admin-notes-new-note = Новая заметка
 admin-notes-show-more = Показать больше
 admin-notes-for = Заметка для: { $player }
-admin-notes-id = Id: { $id }
+admin-notes-id = Id: {$id}
 admin-notes-type = Тип: { $type }
 admin-notes-severity = Серьёзность: { $severity }
 admin-notes-secret = Секретно
@@ -35,11 +47,10 @@ admin-notes-message-seen = Просмотрено
 admin-notes-banned-from = В бане
 admin-notes-the-server = на сервере
 admin-notes-permanently = перманентно
-# Verb
-admin-notes-verb-text = Заметки
 admin-notes-days = { $days } дней
 admin-notes-hours = { $hours } часов
 admin-notes-minutes = { $minutes } минут
+
 # Note editor UI
 admin-note-editor-title-new = Новая заметка для { $player }
 admin-note-editor-title-existing = Изменение заметки { $id } для { $player } от { $author }
@@ -58,27 +69,35 @@ admin-note-editor-severity-medium = Средний
 admin-note-editor-severity-high = Высокий
 admin-note-editor-expiry-checkbox = Пермаментно?
 admin-note-editor-expiry-checkbox-tooltip = Уберите флажок, что бы сделать его истекаемым
-admin-note-editor-expiry-label = Истекает в:
+admin-note-editor-expiry-label = Истекает через:
 admin-note-editor-expiry-label-params = Истекает: { $date } (через { $expiresIn })
 admin-note-editor-expiry-label-expired = Истёк
-admin-note-editor-expiry-placeholder = Укажите срок действия (yyyy-MM-dd HH:mm:ss)
+admin-note-editor-expiry-placeholder = Введите время истечения (число).
 admin-note-editor-submit = Подтвердить
-# Time
-admin-note-button-minutes = Минут
-admin-note-button-hours = Часов
-admin-note-button-days = Дней
-admin-note-button-weeks = Недель
-admin-note-button-months = Месяцев
-admin-note-button-years = Лет
-admin-note-button-centuries = Веков
 admin-note-editor-submit-confirm = Вы уверены?
+
+# Time
+admin-note-button-minutes = Минуты
+admin-note-button-hours = Часы
+admin-note-button-days = Дни
+admin-note-button-weeks = Недели
+admin-note-button-months = Месяцы
+admin-note-button-years = Годы
+admin-note-button-centuries = Века
+
+
+# Verb
+admin-notes-verb-text = Заметки
+
 # Watchlist and message login
 admin-notes-watchlist = Наблюдение над { $player }: { $message }
 admin-notes-new-message = Вы получили админ сообщение от { $admin }: { $message }
 admin-notes-fallback-admin-name = [Система]
+
 # Admin remarks
 admin-remarks-command-description = Открыть страницу админ замечаний
 admin-remarks-command-error = Админ замечания были отключены
 admin-remarks-title = Админ замечания
+
 # Misc
 system-user = [Система]

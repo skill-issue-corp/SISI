@@ -1,11 +1,14 @@
 ent-MonumentCosmicCult = Монумент
     .desc = Огромная плита незнания, сложенная из тысячи маленьких ничто; её поверхность отражает беззвёздную пустоту...
     .suffix = НЕ МАППИТЬ
+
 ent-MonumentCosmicCultDestruction = Монумент
     .desc = { ent-BaseStructure.desc }
     .suffix = Destruiction, НЕ МАППИТЬ
+
 ent-MonumentCosmicCultSpawn = Монумент
     .desc = { ent-BaseStructure.desc }
     .suffix = Spawn, НЕ МАППИТЬ
+
 ent-MonumentCosmicCultSpawnMark = Монумент(ещё не совсем)
     .desc = Ещё не ставший явью Монумент, ему всё ещё нужно больше культистов, чтобы проложить себе путь в реальность. Виден только тем, кто о нём знает.

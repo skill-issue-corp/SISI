@@ -1,2 +1,2 @@
-salvage-ruler-command-description = Измеряет сетки на этой карте для получения общего AABB мира. Используется для определения границ зоны обломков.
-salvage-ruler-command-help-text = Использование: { $command }
+cmd-salvageruler-desc = Измеряет сетки на этой карте для получения общего мирового AABB. Используется для определения границ обломков.
+cmd-salvageruler-help = Использование: {$command}

@@ -1,54 +1,80 @@
 ent-BaseWeaponGaussgun = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
+
 ent-WeaponGaussgun = катушечная пушка
     .desc = Для работы требует как батарею, так и боеприпасы, более дешёвая альтернатива баллистическому оружию.
+
 ent-WeaponGaussgunImprov = гаусс-винтовка
     .desc = { ent-BaseMajorContraband.desc }
+
 ent-WeaponGaussgunPistol = гаусс-пистолет
     .desc = Гораздо более лёгкая альтернатива гаусс-пушке, но куда менее точная и только полуавтоматическая.
+
 ent-CraftingGaussRifle = недоделанная гаусс-винтовка
     .desc = Незаконченная гаусс-винтовка.
+
 ent-CraftingGaussRifle1 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
+
 ent-CraftingGaussRifle2 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
+
 ent-CraftingGaussRifle3 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
+
 ent-CraftingGaussRifle4 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
+
 ent-CraftingGaussRifle5 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
+
 ent-CraftingGaussRifle6 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
+
 ent-CraftingGaussRifle7 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
+
 ent-CraftingGaussRifle8 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
+
 ent-CraftingGaussRifle9 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
+
 ent-CraftingGaussRifle10 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
+
 ent-CraftingGaussRifle11 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
+
 ent-CraftingGaussPistol = недоделанный гаусс-пистолет
     .desc = Незаконченный гаусс-пистолет.
+
 ent-CraftingGaussPistol1 = { ent-CraftingGaussPistol }
     .desc = { ent-CraftingGaussPistol.desc }
+
 ent-CraftingGaussPistol2 = { ent-CraftingGaussPistol }
     .desc = { ent-CraftingGaussPistol.desc }
+
 ent-CraftingGaussPistol3 = { ent-CraftingGaussPistol }
     .desc = { ent-CraftingGaussPistol.desc }
+
 ent-CraftingGaussPistol4 = { ent-CraftingGaussPistol }
     .desc = { ent-CraftingGaussPistol.desc }
+
 ent-CraftingGaussPistol5 = { ent-CraftingGaussPistol }
     .desc = { ent-CraftingGaussPistol.desc }
+
 ent-CraftingGaussPistol6 = { ent-CraftingGaussPistol }
     .desc = { ent-CraftingGaussPistol.desc }
+
 ent-CraftingGaussPistol7 = { ent-CraftingGaussPistol }
     .desc = { ent-CraftingGaussPistol.desc }
+
 ent-CraftingGaussPistol8 = { ent-CraftingGaussPistol }
     .desc = { ent-CraftingGaussPistol.desc }
+
 ent-CraftingGaussPistol9 = { ent-CraftingGaussPistol }
     .desc = { ent-CraftingGaussPistol.desc }
+
 ent-CraftingGaussPistol10 = { ent-CraftingGaussPistol }
     .desc = { ent-CraftingGaussPistol.desc }

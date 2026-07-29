@@ -71,8 +71,8 @@ ent-WeaponAntiqueLaser = антикварный лазерный пистоле�
 ent-WeaponAdvancedLaser = продвинутый лазерный пистолет
     .desc = Экспериментальный высокоэнергетический лазерный пистолет с самозаряжающейся ядерной батареей.
 
-ent-WeaponPistolCHIMP = ручная пушка «Ш.И.М.П.»
-    .desc = Пусть это всего лишь маленький Ш.И.М.П., но бьёт он не хуже гориллы.
+ent-WeaponPistolCHIMP = ручная пушка «М.А.Р.Т.Ы.Х.»
+    .desc = Пусть это всего лишь маленький М.А.Р.Т.Ы.Х., но бьёт он не хуже гориллы.
 
 ent-WeaponPistolCHIMPUpgraded = { ent-WeaponPistolCHIMP }
     .desc = { ent-WeaponPistolCHIMP.desc }

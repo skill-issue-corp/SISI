@@ -1,32 +1,48 @@
-ent-MartialArtCQC = Ближний бой
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
-ent-MartialArtCQCChef = Ближний кухонный бой
+ent-MartialArtCQC = Ближний Бой
+    .desc = Практическое боевое искусство, разработанное легендарным солдатом и его наставником много лет назад.
+
+ent-MartialArtCQCChef = Ближний Кухонный Бой
     .desc = Как и ближний бой, но применим только на кухне, в морозильнике и столовой.
-ent-MartialArtCorporateJudo = Корпоративное дзюдо
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
+
+ent-MartialArtCorporateJudo = Корпоративное Дзюдо
+    .desc = Официальное боевое искусство NanoTrasen для службы безопасности, эффективное для нелетального обезвреживания говнюков и прочих плохих людей.
+
 ent-MartialArtKravMaga = Крав-мага
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
+    .desc = Оборонительное боевое искусство, созданное на Земле много веков назад и используемое до сих пор.
+
 ent-MartialArtCapoeira = Капоэйра
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
-ent-MartialArtHellRip = Адский разрыв
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
+    .desc = Особенно жестокая форма бразильского танца.
+
+ent-MartialArtHellRip = Адский Разрыв
+    .desc = Демоны-мясники используют это, чтобы разрывать конечности своих жертв.
+
 ent-MartialArtNinjutsu = Ниндзюцу
+    .desc = Древнее боевое искусство, сосредоточенное на бесшумных захватах и внезапных атаках.
+
+ent-MartialArtDragon = Кунг-фу Дракона
+    .desc = Убей онтаг
+
+ent-MartialArtSleepingCarp = Спящий Карп
+    .desc = Восточное боевое искусство, используемое теми, кто находится в гармонии с космическими карпами.
+
+ent-MartialArtPlasmaFist = Плазменный Кулак
     .desc = { ent-BaseMartialArtsKnowledge.desc }
-ent-MartialArtDragon = Кунг-фу дракона
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
-ent-MartialArtSleepingCarp = Спящий карп
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
-ent-MartialArtPlasmaFist = Плазменный кулак
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
-ent-MartialArtSpaceBear = Космический медведь
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
+
+ent-MartialArtSpaceBear = Космический Медведь
+    .desc = Мощный боевой стиль, имитирующий столь же мощного космического медведя.
+
 ent-MartialArtBoxing = Бокс
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
-ent-MartialArtDrunkfu = Пьяное кунг-фу
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
+    .desc = Джентльменский боевой стиль.
+
+ent-MartialArtDrunkfu = Пьяное Кунг-фу
+    .desc = Как драться в пабе.
+
 ent-MartialArtMimejutsu = Мимодзюцу
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
+    .desc = Тихо, но смертельно.
+
 ent-MartialArtAdminfu = Админ-фу
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
-ent-MartialArtArmstrongKarate = Карате стиля Армстронга
-    .desc = { ent-BaseMartialArtsKnowledge.desc }
+    .desc = AHELP: клоун гриферит меня, пожалуйста забаньте его
+
+
+ent-MartialArtArmstrongKarate = Карате Стиля Армстронга
+    .desc = Стиль карате, рожденный из боли и самоанализа.

@@ -1,8 +1,11 @@
 ent-ToughnessKnowledge = Выносливость
-    .desc = { ent-BasePhysicalKnowledge.desc }
+    .desc = Насколько ваши ха и ка устойчивы к урону.
+
 ent-StrengthKnowledge = Сила
-    .desc = { ent-BasePhysicalKnowledge.desc }
+    .desc = Насколько мощны мышцы ваших рук, в основном влияет на ближнее оружие.
+
 ent-AthleticsKnowledge = Атлетика
-    .desc = { ent-BasePhysicalKnowledge.desc }
+    .desc = Даёт вам больше выносливости, из-за чего вас становится сложнее оглушить и не только. Иногда известна как «говнюк-фу».
+
 ent-ThrowingKnowledge = Метание
-    .desc = { ent-BasePhysicalKnowledge.desc }
+    .desc = Позволяет бросать предметы быстрее и точнее.

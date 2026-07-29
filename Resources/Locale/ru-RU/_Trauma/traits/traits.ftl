@@ -3,3 +3,6 @@ trait-no-hypoport-desc = В отличие от большинства перс�
 
 trait-swedish-name = Швед
 trait-swedish-desc = Ужасная мутация, зародившаяся в далёком прошлом. Заставляет вас говорить как настоящий швед.
+
+trait-caveman-name = Пещерный человек
+trait-caveman-desc = Уга-буга, моя хотеть страховку!

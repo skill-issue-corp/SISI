@@ -1,28 +1,41 @@
 ent-LogicEmptyCircuit = пустая плата
     .desc = Кажется, чего-то не хватает.
+
 ent-BaseLogicItem = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
+
 ent-LogicGateOr = логический элемент
     .desc = Логический элемент с двумя портами на вход и одним на выход. Можно изменить логическую операцию с помощью отвёртки.
     .suffix = ИЛИ
+
 ent-LogicGateAnd = { ent-LogicGateOr }
     .suffix = И
     .desc = { ent-LogicGateOr.desc }
+
 ent-LogicGateXor = { ent-LogicGateOr }
     .suffix = Исключающее ИЛИ
     .desc = { ent-LogicGateOr.desc }
+
 ent-LogicGateNor = { ent-LogicGateOr }
     .suffix = ИЛИ-НЕ
     .desc = { ent-LogicGateOr.desc }
+
 ent-LogicGateNand = { ent-LogicGateOr }
     .suffix = И-НЕ
     .desc = { ent-LogicGateOr.desc }
+
 ent-LogicGateXnor = { ent-LogicGateOr }
     .suffix = Исключающее ИЛИ-НЕ
     .desc = { ent-LogicGateOr.desc }
+
 ent-EdgeDetector = детектор сигнала
     .desc = Определяет уровень сигнала и разделяет его. Устройство игнорирует импульсные сигналы.
+
 ent-PowerSensor = датчик питания
     .desc = Генерирует сигналы в ответ на изменение напряжения в сети. Может циклически переключаться между напряжениями кабеля.
+
 ent-MemoryCell = ячейка памяти
     .desc = Схема D-триггер защелки, хранящая сигнал, который может быть изменён в зависимости от входного и разрешающего портов.
+
+ent-RandomGate = случайный логический элемент
+    .desc = Логический элемент, выдающий случайный сигнал при изменении входного сигнала.

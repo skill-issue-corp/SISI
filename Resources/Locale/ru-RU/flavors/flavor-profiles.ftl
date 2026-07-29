@@ -1,3 +1,50 @@
+# SPDX-FileCopyrightText: 2022 Flipp Syder <76629141+vulppine@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 nikthechampiongr <32041239+nikthechampiongr@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Boaz1111 <149967078+Boaz1111@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Doru991 <75124791+Doru991@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 DoubleRiceEddiedd <149714181+DoubleRiceEddiedd@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Floofi <126319569+Shadowtheprotogen546@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Fluffiest Floofers <thebluewulf@gmail.com>
+# SPDX-FileCopyrightText: 2023 GoodWheatley <109803540+GoodWheatley@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Moony <moony@hellomouse.net>
+# SPDX-FileCopyrightText: 2023 OctoRocket <88291550+OctoRocket@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Pieter-Jan Briers <pieterjan.briers@gmail.com>
+# SPDX-FileCopyrightText: 2023 Psychpsyo <60073468+Psychpsyo@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 SpaceCat <99134830+Verslebas@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Veritius <veritiusgaming@gmail.com>
+# SPDX-FileCopyrightText: 2023 brainfood1183 <113240905+brainfood1183@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 forthbridge <79264743+forthbridge@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 keronshb <54602815+keronshb@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 lapatison <100279397+lapatison@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 metalgearsloth <comedian_vs_clown@hotmail.com>
+# SPDX-FileCopyrightText: 2024 ArtisticRoomba <145879011+ArtisticRoomba@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Ed <96445749+TheShuEd@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Firewatch <54725557+musicmanvr@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 FungiFellow <151778459+FungiFellow@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Hannah Giovanna Dawson <karakkaraz@gmail.com>
+# SPDX-FileCopyrightText: 2024 Hanz <41141796+Hanzdegloker@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Kira Bridgeton <161087999+Verbalase@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Moomoobeef <62638182+Moomoobeef@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
+# SPDX-FileCopyrightText: 2024 RumiTiger <154005209+RumiTiger@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Tayrtahn <tayrtahn@gmail.com>
+# SPDX-FileCopyrightText: 2024 TurboTrackerss14 <130304754+TurboTrackerss14@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Ubaser <134914314+UbaserB@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Whisper <121047731+QuietlyWhisper@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 cool dolphin <36332236+Afrokada@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 deltanedas <39013340+deltanedas@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 dragonryan06 <71857681+dragonryan06@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 joshepvodka <86210200+joshepvodka@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 potato1234_x <79580518+potato1234x@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 slarticodefast <161409025+slarticodefast@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2025 Alpaccalypse <21291379+Alpaccalypse@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 SX_7 <sn1.test.preria.2002@gmail.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 flavor-profile = На вкус { $flavor }.
 flavor-profile-multiple = На вкус { $flavors } и { $lastFlavor }.
 flavor-profile-unknown = Вкус неописуем.
@@ -53,11 +100,11 @@ flavor-base-terrible = ужасающе
 flavor-base-mindful = разумно
 flavor-base-chewy = жевательно
 flavor-base-trashy = мусорно
+flavor-base-motivating = мотивирующе
 
 # Complex flavors. Put a flavor here when you want something that's more
 # specific.
 
-flavor-base-motivating = мотивирующе
 flavor-complex-nothing = как ничто
 flavor-complex-honey = как мёд
 
@@ -67,21 +114,19 @@ flavor-complex-ketchunaise = как помидоры и майонез
 flavor-complex-mayonnaise = как майонез
 flavor-complex-mustard = как горчица
 
+
 # Food-specific flavors.
 
 ## Food chemicals. In case you get something that has this inside.
-
 flavor-complex-nutriment = как питательные вещества
 flavor-complex-vitamin = как витамины
 flavor-complex-protein = как протеины
 
 ## Generic food taste. This should be replaced with an actual flavor profile,
-## if you have food that looks как this.
-
+## if you have food that looks like this.
 flavor-complex-food = как еда
 
 ## Basic foodstuffs (ingredients, generic flavors)
-
 flavor-complex-bun = как булочка
 flavor-complex-bread = как хлеб
 flavor-complex-batter = как тесто для торта
@@ -130,7 +175,6 @@ flavor-complex-nettles = как крапива
 flavor-complex-jungle = как джунгли
 flavor-complex-vegetables = как овощи
 flavor-complex-cherry = как вишня
-
 # use it when there multiple types of veggies
 
 ## Complex foodstuffs (cooked foods, joke flavors, etc)
@@ -152,8 +196,8 @@ flavor-complex-boritos = как гейминг
 flavor-complex-nachos = как начос
 flavor-complex-donk = как дешёвая пицца
 flavor-complex-copypasta = как повторяющаяся шутка
-flavor-complex-memory-leek = как форк-бомба
 flavor-complex-bad-joke = как плохая шутка
+flavor-complex-memory-leek = как форк-бомба
 flavor-complex-gunpowder = как порох
 flavor-complex-validhunting = как валидхантинг
 flavor-complex-people = как люди
@@ -186,18 +230,17 @@ flavor-complex-false-meat = как не совсем не мясо
 flavor-complex-paper = как кашеобразная масса
 flavor-complex-compressed-meat = как спрессованное мясо
 flavor-complex-dog-food = как еда для собак
+flavor-complex-canned-tuna = как консервированный тунец
 
 # Drink-specific flavors.
 
 ## Generic alcohol/soda taste. This should be replaced with an actual flavor profile.
-
 flavor-complex-alcohol = как алкоголь
 flavor-complex-soda = как газировка
 flavor-complex-juice = как сок
 flavor-complex-rocksandstones = как скалы и камни
 
 ## Basic drinks
-
 flavor-complex-water = как вода
 flavor-complex-beer = как моча
 flavor-complex-cognac = как сухой пряный алкоголь
@@ -235,7 +278,6 @@ flavor-complex-mopwata = как застоявшаяся грязная вода
 flavor-complex-gin = как ферментированное зерно с можжевеловыми ягодами
 
 ## Cocktails
-
 flavor-complex-arnold-palmer = как попадание в лунку с первого удара
 flavor-complex-blue-hawaiian = как тропики
 flavor-complex-cosmopolitan = сладко и терпко
@@ -278,7 +320,6 @@ flavor-complex-budget-insuls-drink = как взлом шлюза
 flavor-complex-watermelon-wakeup = как сладкое пробуждение
 flavor-complex-rubberneck = как синтетика
 flavor-complex-irish-car-bomb = как плаванье в шипасной коле
-flavor-complex-irish-slammer = как шипучая пенка колы
 flavor-complex-alien-brain-hemorrhage = как внеземная рана
 flavor-complex-themartinez = как фиалки и лимонная водка
 flavor-complex-cogchamp = как латунь
@@ -337,20 +378,19 @@ flavor-complex-vodka-tonic = освежающе горько
 flavor-complex-coconut-rum = как орехово-ферментированный сахар
 flavor-complex-bacchus-blessing = как кирпичная стена
 
-### This is exactly what pilk tastes как. I'm not even joking. I might've been a little drunk though
-
+### This is exactly what pilk tastes like. I'm not even joking. I might've been a little drunk though
 flavor-complex-pilk = как сладкое молоко
 
 # Medicine/chemical-specific flavors.
 
 ## Generic flavors.
-
 flavor-complex-medicine = как лекарство
+
 flavor-complex-carpet = как горсть шерсти
 flavor-complex-bee = беспчеловечно
 flavor-complex-sax = как джаз
 flavor-complex-bottledlightning = как молния в бутылке
 flavor-complex-punishment = как наказание
-flavor-complex-artifact-glue = like crushed artifacts
+flavor-complex-artifact-glue = как раздробленные артефакты
 flavor-weh = как вех
 flavor-hew = как хев

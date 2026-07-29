@@ -10,7 +10,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     xmlns:style="clr-namespace:Content.Client.Stylesheets"
     VerticalExpand="True" HorizontalExpand="True"
     Title="{Loc gs-balanceui-title}"
-    SetSize="430 580" >
+    SetSize="540 585" MinWidth="540" MinHeight="585" > <!-- SIS-Window_Size -->
     <BoxContainer Orientation="Vertical" VerticalExpand="True" HorizontalExpand="True">
         <controls:StripeBack>
             <PanelContainer>

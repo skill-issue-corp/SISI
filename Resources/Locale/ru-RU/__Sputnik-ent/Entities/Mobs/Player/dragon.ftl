@@ -4,9 +4,6 @@ ent-BaseMobDragon = космический дракон
 ent-MobDragon = { ent-BaseMobDragon }
     .desc = { ent-BaseMobDragon.desc }
 
-ent-DragonsBreathGun = лёгкое дракона
-    .desc = Для дыхания дракона.
-
 ent-MobDragonDungeon = { ent-BaseMobDragon }
     .desc = { ent-BaseMobDragon.desc }
     .suffix = Подземелье

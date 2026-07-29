@@ -15,3 +15,6 @@ ent-BaseChaplainContraband = { ent-BaseRestrictedContraband }
 
 ent-BaseEngineeringCargoContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
+
+ent-BaseLibrarianContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }

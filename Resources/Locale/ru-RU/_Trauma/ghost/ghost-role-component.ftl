@@ -56,8 +56,8 @@ ghost-role-information-wailing-horse-desc = Больно... Почему так 
 ghost-role-information-ratma-name = Ратма
 ghost-role-information-ratma-desc = Охотьтесь и убивайте.
 
-ghost-role-information-breadling-namee = Хлебыш
-ghost-role-information-BreadLing-desc = Оживлённый заботливым пекарем, наслаждайтесь тем непостоянным временем, что вам осталось. Вы не знаете о своей грядущей смерти, если вам не сказали об этом.
+ghost-role-information-breadling-name = хлебец
+ghost-role-information-breadling-desc = Оживлённый заботливым пекарем, наслаждайтесь непостоянным временем, что вам осталось. Вы не знаете о своей грядущей смерти, если вам не сказали об этом.
 
 ghost-role-information-coconutcrab-name = Кокосовый краб
 
@@ -124,3 +124,8 @@ ghost-role-information-bunny-description = Любимый всеми кроли�
 
 ghost-role-information-evil-bunny-name = Злой кролик
 ghost-role-information-evil-bunny-description = УБИВАЙ, УВЕЧЬ, ИСТРЕБЛЯЙ!!!
+
+ghost-role-information-syndicate-cyborg-medical-name = медицинский киборг Синдиката
+
+ghost-role-information-syndicate-behonker-name = бихонкер Синдиката
+ghost-role-information-syndicate-behonker-desc = Ученик Хонкматери нуждается в вас. Помогите ему в трудную минуту.

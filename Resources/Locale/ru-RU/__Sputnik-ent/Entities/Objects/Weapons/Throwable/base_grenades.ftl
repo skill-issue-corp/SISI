@@ -9,6 +9,3 @@ ent-ImpactGrenadeBase = { ent-GrenadeBase }
 
 ent-VolatileGrenadeBase = { "" }
     .desc = { "" }
-
-ent-FragileGrenadeBase = { "" }
-    .desc = { "" }

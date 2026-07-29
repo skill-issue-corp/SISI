@@ -6,3 +6,8 @@ uplink-snakesfang-desc = «Snakesfang» — скимитар с раздвоен
 
 uplink-rifle-M90-name = M-90
 uplink-rifle-M90-description = Более старая модель карабина-булпап, ревизия M-90 GL — эта версия лишена встроенного гранатомёта.
+
+uplink-foam-cutlass-name = Острый пенный кортик
+uplink-foam-cutlass-desc = Клинок, замаскированный под игрушечный пенный кортик. Идеально подходит для убийц, притворяющихся, что просто играют.
+
+uplink-bulk-mosin-name-trauma = Крупный ящик винтовок Синдиката

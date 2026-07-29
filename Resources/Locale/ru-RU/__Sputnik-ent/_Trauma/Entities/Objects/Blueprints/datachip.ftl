@@ -1,10 +1,14 @@
 ent-BaseBlueprintDatachip = чип данных
     .desc = Чип данных, можно вставить в сборщик микроэлектроники, чтобы создать новую полезную технику.
+
 ent-DataChipAIBoard = чип данных [Плата подмены ИИ]
     .desc = { ent-BaseBlueprintDatachip.desc }
+
 ent-DataChipReflectivePlate = чип данных [Отражающая пластина]
     .desc = { ent-BaseBlueprintDatachip.desc }
+
 ent-DataChipFakeMindshield = чип данных [Фальшивый ментальный щит]
     .desc = { ent-BaseBlueprintDatachip.desc }
+
 ent-DataChipShieldRipper = чип данных [Разрушитель ментального щита]
     .desc = { ent-BaseBlueprintDatachip.desc }

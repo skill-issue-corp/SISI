@@ -8,7 +8,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     xmlns:tabs="clr-namespace:Content.Trauma.Client.UserActions.Tabs"
     VerticalExpand="True">
 
-    <PanelContainer StyleClasses="BackgroundDark" Name="MainPanel" MinWidth="300" MinHeight="190" VerticalExpand="True" HorizontalExpand="True">
+    <PanelContainer StyleClasses="BackgroundDark" Name="MainPanel" MinWidth="300" MinHeight="205" VerticalExpand="True" HorizontalExpand="True"> <!-- SIS-Window_Size -->
 
         <BoxContainer Orientation="Vertical" Name="BoxContainer" Margin="4" VerticalExpand="True">
 

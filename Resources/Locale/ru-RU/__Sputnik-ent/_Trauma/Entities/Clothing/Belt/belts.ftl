@@ -1,25 +1,38 @@
+ent-BaseClothingBeltSheath = { ent-ClothingBeltBase }
+    .desc = { ent-ClothingBeltBase.desc }
+
 ent-ClothingBeltRevWebbing = разгрузочный жилет
     .desc = Идеально подходит для хранения всего: от боеприпасов до оружия и предметов первой необходимости в бою.
+
 ent-ClothingBeltKnifeRig = крепление для метательных ножей
     .desc = Специальная перевязь, предназначенная для хранения метательных ножей.
+
 ent-BaseSheathCounterAttackWeak = { "" }
     .desc = { "" }
+
 ent-BaseSheathCounterAttackMedium = { ent-BaseSheathCounterAttackWeak }
     .desc = { ent-BaseSheathCounterAttackWeak.desc }
+
 ent-BaseSheathCounterAttackStrong = { ent-BaseSheathCounterAttackWeak }
     .desc = { ent-BaseSheathCounterAttackWeak.desc }
+
 ent-ClothingBeltSheathKatana = ножны для катаны
     .desc = Ножны, предназначенные для хранения клинка офицера.
+
 ent-ClothingBeltSheathKatanaFilled = { ent-ClothingBeltSheathKatana }
     .desc = { ent-ClothingBeltSheathKatana.desc }
     .suffix = Заполненный
+
 ent-ClothingBeltSheathKatanaNinja = ножны для энергетической катаны
     .desc = Высокотехнологичные ножны для катаны, позволяющие совершать быстрые движения клинком.
+
 ent-ClothingBeltSheathKatanaNinjaFilled = { ent-ClothingBeltSheathKatanaNinja }
     .desc = { ent-ClothingBeltSheathKatanaNinja.desc }
     .suffix = Заполненный
+
 ent-ClothingBeltSheathSnakesfang = ножны «жало змеи»
     .desc = Могут вмещать скимитары.
+
 ent-ClothingBeltSheathSnakesfangFilled = { ent-ClothingBeltSheathSnakesfang }
     .desc = { ent-ClothingBeltSheathSnakesfang.desc }
     .suffix = Заполненный

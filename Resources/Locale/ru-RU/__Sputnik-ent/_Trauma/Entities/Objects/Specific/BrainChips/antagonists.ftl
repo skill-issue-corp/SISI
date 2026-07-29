@@ -1,16 +1,23 @@
 ent-SkillChipNukie = чип навыков (горлекс)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipSyndieSoldierTeamLeader = чип навыков (лидер синдиката)
-    .desc = { ent-BaseSkillChip.desc }
+    .desc = { ent-SkillChipNukie.desc }
+
 ent-SkillChipSyndieSoldier = чип навыков (солдат синдиката)
-    .desc = { ent-BaseSkillChip.desc }
+    .desc = { ent-SkillChipNukie.desc }
+
 ent-SkillChipSyndieVisitor = чип навыков (гость синдиката)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipPirateCaptainScooner = чип навыков (капитан пиратов)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipPirateScooner = чип навыков (пират)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipBlackmarketeer = чип навыков (чёрный маклер)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipCossack = чип навыков (казак)
     .desc = { ent-BaseSkillChip.desc }

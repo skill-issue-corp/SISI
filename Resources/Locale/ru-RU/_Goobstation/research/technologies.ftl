@@ -13,13 +13,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-research-technology-weapon-plasma-rifle = Экспериментальная плазменная винтовка
+research-technology-weapon-plasma-rifle = Экспериментальная фороновая винтовка
 research-technology-medical-defense = Медицинское контрольное снаряжение
 research-technology-ripley-mkii = Рипли MK-II
 research-technology-clarke = Кларк
+research-technology-plumbing = Технологии труб
 research-technology-gygax = Гигакс (необходимо разрешение ЦК)
 research-technology-durand = Дюранд (необходимо разрешение ЦК)
-research-technology-plumbing = Технологии труб
 research-technology-explosive-mech-ammunition = Взрывные боеприпасы для мехов
 research-technology-honk-weapons = Бананиумное оружие
 research-technology-modsuits = Модульные технологии
@@ -41,5 +41,4 @@ research-technology-xenobag-holding = Ксенобиологическое бл�
 research-technology-advanced-power-generation = Продвинутый генератор
 research-technology-bluespace-construction-storage = Блюспейс хранилище
 research-technology-extended-communication = Продвинутая коммуникация
-research-technology-bluespace-munitions = Блюспейс снаряжение
 research-technology-radio-music-communication = Радиомузыка

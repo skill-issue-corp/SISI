@@ -1,54 +1,80 @@
 ent-OrganCybernetic = { ent-OrganBase }
     .desc = { ent-OrganBase.desc }
+
 ent-OrganCyberneticExternal = { ent-OrganCybernetic }
     .desc = { ent-OrganCybernetic.desc }
+
 ent-OrganCyberneticInternal = { ent-OrganCybernetic }
     .desc = { ent-OrganCybernetic.desc }
+
 ent-OrganCyberneticMetabolizer = { "" }
     .desc = { "" }
+
 ent-OrganCyberneticArmLeft = кибернетическая левая рука
     .desc = { ent-OrganBaseArmLeft.desc }
+
 ent-OrganCyberneticArmRight = кибернетическая правая рука
     .desc = { ent-OrganBaseArmRight.desc }
+
 ent-OrganCyberneticLegLeft = кибернетическая левая нога
     .desc = { ent-OrganBaseLegLeft.desc }
+
 ent-OrganCyberneticLegRight = кибернетическая правая нога
     .desc = { ent-OrganBaseLegRight.desc }
+
 ent-OrganCyberneticHandLeft = кибернетическая левая кисть
     .desc = { ent-OrganBaseHandLeft.desc }
+
 ent-OrganCyberneticHandRight = кибернетическая правая кисть
     .desc = { ent-OrganBaseHandRight.desc }
+
 ent-OrganCyberneticFootLeft = кибернетическая левая стопа
     .desc = { ent-OrganBaseFootLeft.desc }
+
 ent-OrganCyberneticFootRight = кибернетическая правая стопа
     .desc = { ent-OrganBaseFootRight.desc }
+
 ent-OrganCyberneticJWL = { "" }
     .desc = Кибернетическая рука со способностью взламывать двери.
+
 ent-OrganJWLArmLeft = левая рука J.W.L
     .desc = { ent-OrganCyberneticArmLeft.desc }
+
 ent-OrganJWLArmRight = правая рука J.W.L
     .desc = { ent-OrganCyberneticArmRight.desc }
+
 ent-OrganCyberneticSpeed = { "" }
     .desc = Кибернетическая нога, позволяющая своему носителю бегать быстрее.
+
 ent-OrganSpeedLegLeft = левая нога S.P.E.E.D
     .desc = { ent-OrganCyberneticLegLeft.desc }
+
 ent-OrganSpeedLegRight = правая нога S.P.E.E.D
     .desc = { ent-OrganCyberneticLegRight.desc }
+
 ent-OrganCyberneticDex = { "" }
     .desc = Кибернетическая кисть, позволяющая своему носителю взаимодействовать быстрее.
+
 ent-OrganDexHandLeft = левая кисть D.E.X
     .desc = { ent-OrganCyberneticHandLeft.desc }
+
 ent-OrganDexHandRight = правая кисть D.E.X
     .desc = { ent-OrganCyberneticHandRight.desc }
+
 ent-OrganCyberneticEyes = кибернетические глаза
     .desc = Пара кибернетических глаз, улучшающих ваше зрение и защищающих от повреждений глаз.
+
 ent-OrganCyberneticEyesSecurity = кибернетические глаза службы безопасности
     .desc = Пара кибернетических глаз, улучшающих ваше зрение, со встроенным SecHUD.
+
 ent-OrganCyberneticEyesMedical = медицинские кибернетические глаза
     .desc = Пара кибернетических глаз, улучшающих ваше зрение, со встроенным MedHUD.
+
 ent-OrganCyberneticEyesDiagnostic = диагностические кибернетические глаза
     .desc = Пара кибернетических глаз, улучшающих ваше зрение, со встроенным диагностическим HUD.
+
 ent-OrganCyberneticLungs = кибернетические лёгкие
     .desc = Продвинутые синтетические лёгкие, дышащие кислородом и азотом, игнорирующие CO2 и устойчивые к большинству других атмосферных опасностей.
+
 ent-OrganCyberneticLungsUpgraded = улучшенные кибернетические лёгкие
     .desc = Автономная дыхательная система, полностью устраняющая необходимость дышать и повышающая скорость восстановления выносливости.

@@ -1,30 +1,44 @@
 ent-FoodSoupBingle = суп «Бингл»
     .desc = Почему-то теперь пахнет ещё хуже.
+
 ent-FoodSoupBlood = кровяной суп
     .desc = Популярен среди русских.
+
 ent-FoodBreadSandwich = хлебный сэндвич
     .desc = Кусок хлеба, зажатый между двумя кусками хлеба.
+
 ent-FoodChickenParm = курица пармезан
     .desc = 4 апреля, 19:30.
+
 ent-FoodCornDog = кон-дог
     .desc = глиззи в кляре
+
 ent-FoodHotDog = хот-дог
     .desc = глиззи без кляра
+
 ent-FoodEggToast = яйцо на тосте
     .desc = Это яйцо на тосте!
+
 ent-FoodEggRaw = сырое яйцо
     .desc = Оно сырое!
+
 ent-FoodEggFried = яичница
     .desc = Есть безопасно и вкусно!
+
 ent-FoodFairyBread = «хлеб феи»
     .desc = Из Австралии.
+
 ent-FoodGoulash = гуляш
     .desc = Традиционное блюдо в Польше.
+
 ent-FoodOffal = субпродукты
     .desc = Насыщенное блюдо из внутренних органов.
+
 ent-FoodRoastedMonkey = жареная обезьяна
     .desc = Королевское пиршество! Родом из Бразилии!
+
 ent-FoodSausage = колбаса
     .desc = Древнее блюдо, приготовленное из молотого мяса внутри кишки.
+
 ent-FoodSpire = ШПИЛЬ
     .desc = Вавилонская башня возносится...

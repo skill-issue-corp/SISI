@@ -26,7 +26,7 @@
     earliestStart: 15
     reoccurrenceDelay: 70
     weight: 1
-    minimumPlayers: 20 # They're nigh impossible to catch even with a full sec team
+    minimumPlayers: 25 # SIS | 20
     duration: null
   - type: AntagSelection
     antags:
@@ -55,7 +55,7 @@
   id: DuoAbductorSpawn
   components:
   - type: StationEvent
-    minimumPlayers: 20
+    minimumPlayers: 25 # SIS | 20
     earliestStart: 45
     weight: 3
   - type: AntagSelection

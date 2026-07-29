@@ -1,12 +1,16 @@
 ent-MobMorphBase = морф
     .desc = Отвратительная пульсирующая груда плоти.
+
 ent-MobMorph = { ent-MobMorphBase }
     .desc = { ent-MobMorphBase.desc }
     .suffix = Роль-призрак
+
 ent-MobMorphWizard = { ent-MobMorphBase }
     .desc = { ent-MobMorphBase.desc }
     .suffix = Питомец волшебника
+
 ent-ChameleonDisguiseMorph = { ent-ChameleonDisguise }
     .desc = { ent-ChameleonDisguise.desc }
+
 ent-ClownDummy = Вкусный клоун
     .desc = { "" }

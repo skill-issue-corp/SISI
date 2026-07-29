@@ -1,49 +1,72 @@
 ent-AppearanceDecapoid = внешность декаподов
     .desc = { ent-BaseSpeciesAppearance.desc }
+
 ent-MobDecapoid = Урист МакКраб
     .desc = { ent-AppearanceDecapoid.desc }
+
 ent-OrganDecapoid = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
     .suffix = Декапод
+
 ent-OrganDecapoidExternal = { ent-OrganDecapoid }
     .desc = { ent-OrganDecapoid.desc }
+
 ent-OrganDecapoidTorso = торс декапода
     .desc = { ent-OrganBaseTorso.desc }
+
 ent-OrganDecapoidHead = голова декапода
     .desc = { ent-OrganBaseHead.desc }
+
 ent-OrganDecapoidArmLeft = левая рука декапода
     .desc = { ent-OrganBaseArmLeft.desc }
+
 ent-OrganDecapoidArmRight = правая рука декапода
     .desc = { ent-OrganBaseArmRight.desc }
+
 ent-OrganDecapoidHandLeft = большая клешня декапода
     .desc = { ent-OrganBaseHandLeft.desc }
+
 ent-OrganDecapoidHandRight = малая правая клешня
     .desc = { ent-OrganBaseHandRight.desc }
+
 ent-OrganDecapoidLegLeft = передние ноги декапода
     .desc = { ent-OrganBaseLegLeft.desc }
+
 ent-OrganDecapoidLegRight = задние ноги декапода
     .desc = { ent-OrganBaseLegRight.desc }
+
 ent-OrganDecapoidFootLeft = передние стопы декапода
     .desc = { ent-OrganBaseFootLeft.desc }
+
 ent-OrganDecapoidFootRight = задние стопы декапода
     .desc = { ent-OrganBaseFootRight.desc }
+
 ent-OrganDecapoidEyes = { ent-OrganBaseEyes }
     .desc = { ent-OrganBaseEyes.desc }
+
 ent-OrganDecapoidLungs = дыхательная система декапода
     .desc = Извлекает растворённый в воде кислород и использует его для поддержания жизнедеятельности клеток.
+
 ent-OrganDecapoidStomach = { ent-OrganBaseStomach }
     .desc = { ent-OrganBaseStomach.desc }
+
 ent-OrganDecapoidBrain = { ent-OrganBaseBrain }
     .desc = { ent-OrganBaseBrain.desc }
+
 ent-OrganDecapoidTongue = { ent-OrganBaseTongue }
     .desc = { ent-OrganBaseTongue.desc }
+
 ent-OrganDecapoidAppendix = { ent-OrganBaseAppendix }
     .desc = { ent-OrganBaseAppendix.desc }
+
 ent-OrganDecapoidEars = { ent-OrganBaseEars }
     .desc = { ent-OrganBaseEars.desc }
+
 ent-OrganDecapoidHeart = { ent-OrganBaseHeart }
     .desc = { ent-OrganBaseHeart.desc }
+
 ent-OrganDecapoidLiver = { ent-OrganBaseLiver }
     .desc = { ent-OrganBaseLiver.desc }
+
 ent-OrganDecapoidKidneys = { ent-OrganBaseKidneys }
     .desc = { ent-OrganBaseKidneys.desc }

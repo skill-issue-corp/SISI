@@ -4,8 +4,8 @@ ent-AppearanceDiona = внешний вид дионы
 ent-MobDiona = Урист МакПлантс
     .desc = { ent-AppearanceDiona.desc }
 
-ent-OrganDiona = { ent-OrganBaseFleshy }
-    .desc = { ent-OrganBaseFleshy.desc }
+ent-OrganDiona = { ent-OrganBaseOrganic }
+    .desc = { ent-OrganBaseOrganic.desc }
     .suffix = Диона
 
 ent-OrganDionaMetabolizer = { "" }

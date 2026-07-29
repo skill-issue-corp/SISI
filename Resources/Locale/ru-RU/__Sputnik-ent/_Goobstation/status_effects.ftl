@@ -1,4 +1,5 @@
-ent-StatusEffectStaminaResistanceModifier = модификатор сопротивления урона по выносливости
+ent-EmoteVomitCounterStatusEffect = эмоция «рвота»
     .desc = { ent-MobStatusEffectBase.desc }
-ent-StatusEffectMeleeVulnerability = уязвимость к ближнему бою
+
+ent-BlockVomitEmotesStatusEffect = блокировка эмоций рвоты
     .desc = { ent-MobStatusEffectBase.desc }

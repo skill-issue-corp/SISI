@@ -1,57 +1,78 @@
 ent-BaseNuclearReactor = ядерный реактор
     .desc = Корпус ядерного реактора со слотами для топливных стержней и других компонентов. Стоп, а разве один из таких уже не взрывался?
+
 ent-NuclearReactorCrew = { ent-BaseNuclearReactor }
     .desc = { ent-BaseNuclearReactor.desc }
+
 ent-NuclearReactorEmpty = { ent-NuclearReactorCrew }
     .desc = { ent-NuclearReactorCrew.desc }
     .suffix = Пустой
+
 ent-NuclearReactorRandom = { ent-NuclearReactorCrew }
     .desc = { ent-NuclearReactorCrew.desc }
     .suffix = Случайный
+
 ent-NuclearReactorMeltdown = { ent-NuclearReactorCrew }
     .desc = { ent-NuclearReactorCrew.desc }
     .suffix = Расплавление
+
 ent-NuclearReactorMelted = ядерный реактор
     .desc = Повреждённый корпус ядерного реактора. Он светится теплом и радиацией.
     .suffix = Расплавлен
+
 ent-NuclearReactorSmall = малый ядерный реактор
     .desc = { ent-NuclearReactorCrew.desc }
+
 ent-NuclearReactorSmallRandom = { ent-NuclearReactorSmall }
     .desc = { ent-NuclearReactorSmall.desc }
     .suffix = Случайный
+
 ent-NuclearReactorSmallMelted = малый ядерный реактор
     .desc = Повреждённый корпус ядерного реактора. Он светится теплом и радиацией.
     .suffix = Расплавлен
+
 ent-NuclearReactorSalvage = { ent-BaseNuclearReactor }
     .desc = { ent-BaseNuclearReactor.desc }
+
 ent-NuclearReactorNormalSalvage = { ent-NuclearReactorSalvage }
     .desc = { ent-NuclearReactorSalvage.desc }
     .suffix = Утиль
+
 ent-NuclearReactorEmptySalvage = { ent-NuclearReactorSalvage }
     .desc = { ent-NuclearReactorSalvage.desc }
     .suffix = Пустой, утиль
+
 ent-NuclearReactorRandomSalvage = { ent-NuclearReactorSalvage }
     .desc = { ent-NuclearReactorSalvage.desc }
     .suffix = Случайный, утиль
+
 ent-NuclearReactorMeltedSalvage = { ent-NuclearReactorMelted }
     .desc = Корпус ядерного реактора, давно расплавленный. Он всё ещё светится остаточным теплом и радиацией.
     .suffix = Расплавлен, утиль
+
 ent-NuclearReactorSmallSalvage = малый ядерный реактор
     .desc = { ent-NuclearReactorSalvage.desc }
     .suffix = Утиль
+
 ent-NuclearReactorSmallRandomSalvage = { ent-NuclearReactorSmall }
     .desc = { ent-NuclearReactorSmall.desc }
     .suffix = Случайный, утиль
+
 ent-NuclearReactorSmallMeltedSalvage = { ent-NuclearReactorSmallMelted }
     .desc = Корпус ядерного реактора, давно расплавленный. Он всё ещё светится остаточным теплом и радиацией.
     .suffix = Расплавлен, утиль
+
 ent-NuclearDebrisChunk = ядерные обломки
     .desc = Вы не видите графит на полу. Вы в шоке. Обратитесь в медотсек.
+
 ent-ReactorFlowArrow = { "" }
     .desc = { "" }
+
 ent-ReactorSmallFlowArrow = { ent-ReactorFlowArrow }
     .desc = { ent-ReactorFlowArrow.desc }
+
 ent-NuclearMachineGasPipe = { "" }
     .desc = { "" }
+
 ent-ReactorAlarmEntity = { "" }
     .desc = { "" }

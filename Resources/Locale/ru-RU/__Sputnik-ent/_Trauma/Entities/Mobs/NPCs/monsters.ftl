@@ -1,17 +1,24 @@
 ent-MobRatma = Ратма
     .desc = Он пришёл из туннелей техобслуживания.
+
 ent-MobBreadLing = хлеблинг
     .desc = Будьте с ним добры, он не задержится в этом мире надолго.
+
 ent-MobWailingHorse = воющий конь
     .desc = Его грудь бьётся в неестественном ритме.
+
 ent-MobCoconutCrabShellless = кокосовый краб
     .desc = Крупнейший неразумный вид космического рака-отшельника. На деле не способен выжить в космосе.
+
 ent-MobCoconutCrab = { ent-MobCoconutCrabShellless }
     .desc = { ent-MobCoconutCrabShellless.desc }
+
 ent-MobCoconutCrabFloofy = { ent-MobCoconutCrabShellless }
     .desc = { ent-MobCoconutCrabShellless.desc }
     .suffix = Глупый, ИИ
+
 ent-MobCrabTinyBase = { ent-SimpleMobBase }
     .desc = { ent-SimpleMobBase.desc }
+
 ent-MobCrabTiny = красный краб
     .desc = { ent-MobCrabTinyBase.desc }

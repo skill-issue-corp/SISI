@@ -1,3 +1,15 @@
+# SPDX-FileCopyrightText: 2023 Kara <lunarautomaton6@gmail.com>
+# SPDX-FileCopyrightText: 2023 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 brainfood1183 <113240905+brainfood1183@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 liltenhead <104418166+liltenhead@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Ed <96445749+TheShuEd@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Lye <128915833+Lyroth001@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 wafehling <wafehling@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 # you shouldn't be creating new hints for every effect/trigger
 # try and reuse them so that a hint isn't a dead giveaway. -emo
 
@@ -37,17 +49,20 @@ artifact-trigger-hint-death = Эссенция жизни
 artifact-trigger-hint-radiation = Радиация
 artifact-trigger-hint-pressure = Экстремальное давление
 artifact-trigger-hint-regular-gases = Стандартные атмосферные газы
-artifact-trigger-hint-plasma = Газообразная плазма
+# Trauma - plasma -> phoron
+artifact-trigger-hint-plasma = Газообразный форон
 artifact-trigger-hint-land = Активное замедление
 artifact-trigger-hint-examine = Внимательное изучение
 artifact-trigger-hint-medical = Терапевтические химикаты
+
 xenoarch-trigger-tip-music = Гармоничные звуковые вибрации
 xenoarch-trigger-tip-heat = Газ высокой температуры
 xenoarch-trigger-tip-cold = Газ низкой температуры
 xenoarch-trigger-tip-no-oxygen = Бескислородная среда
 xenoarch-trigger-tip-water = Вода
 xenoarch-trigger-tip-co2 = Диоксид углерода
-xenoarch-trigger-tip-plasma = Плазма
+# Trauma - plasma -> phoron
+xenoarch-trigger-tip-plasma = Мягкий форон
 xenoarch-trigger-tip-tritium = Тритий
 xenoarch-trigger-tip-ammonia = Аммиак
 xenoarch-trigger-tip-n2o = Оксид азота
@@ -67,10 +82,14 @@ xenoarch-trigger-tip-blood = Кровь
 xenoarch-trigger-tip-throw = Бросок
 xenoarch-trigger-tip-death = Смерть
 xenoarch-trigger-tip-magnet = Магнитные волны
+
+### Description hints
 xenoarch-trigger-examine-wrenching = На поверхности что-то свободно вращается.
 xenoarch-trigger-examine-prying = Одна из панелей слегка приподнята.
 xenoarch-trigger-examine-screwing = Видна выступающая часть с небольшим углублением.
 xenoarch-trigger-examine-pulsing = Из поверхности артефакта торчит диод.
 xenoarch-trigger-examine-timer = Поверхность покрыта узорами и царапинами... Едва различимо число: [italic]{ $time }[/italic]
+
+### Effects hints
 xenoarch-effect-puddle = Создаёт лужу со следующими реагентами: { $reagent }
 xenoarch-effect-foam = Создаёт пену со следующими реагентами: { $reagent }

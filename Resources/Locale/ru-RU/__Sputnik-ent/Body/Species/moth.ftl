@@ -4,9 +4,9 @@ ent-AppearanceMoth = внешний вид мотылька
 ent-MobMoth = Урист МакФлафф
     .desc = { ent-AppearanceMoth.desc }
 
-ent-OrganMoth = { ent-OrganBaseFleshy }
-    .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = Мотыл
+ent-OrganMoth = { ent-OrganBaseOrganic }
+    .desc = { ent-OrganBaseOrganic.desc }
+    .suffix = Мотыль
 
 ent-OrganMothMetabolizer = { "" }
     .desc = { "" }

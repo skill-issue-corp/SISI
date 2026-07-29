@@ -2,8 +2,10 @@ construction-recipe-diagonal-shuttle-wall = стена шаттла (диаго�
 construction-window-diagonal = окно (диагональ)
 construction-recipe-reinforced-window-diagonal = бронеокно (диагональ)
 construction-recipe-clockwork-window-diagonal = заводное окно (диагональ)
-construction-recipe-plasma-window-diagonal = плазменное окно (диагональ)
-construction-recipe-reinforced-plasma-window-diagonal = плазменное бронеокно (диагональ)
+# <Trauma>
+construction-recipe-plasma-window-diagonal = форон-стеклянное окно (диагональ)
+construction-recipe-reinforced-plasma-window-diagonal = форон-бронеокно (диагональ)
+# </Trauma>
 construction-recipe-uranium-window-diagonal = урановое окно (диагональ)
 construction-recipe-reinforced-uranium-window-diagonal = урановое бронеокно (диагональ)
 construction-recipe-firelock-edge = направленный пожарный шлюз

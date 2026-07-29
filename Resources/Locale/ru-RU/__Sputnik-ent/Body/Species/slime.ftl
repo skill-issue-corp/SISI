@@ -4,8 +4,8 @@ ent-AppearanceSlimePerson = Внешний вид слаймолюда
 ent-MobSlimePerson = Урист МакВоббл
     .desc = { ent-AppearanceSlimePerson.desc }
 
-ent-OrganSlimePerson = { ent-OrganBaseFleshy }
-    .desc = { ent-OrganBaseFleshy.desc }
+ent-OrganSlimePerson = { ent-OrganBaseOrganic }
+    .desc = { ent-OrganBaseOrganic.desc }
     .suffix = слаймолюд
 
 ent-OrganSlimePersonMetabolizer = { "" }

@@ -12,6 +12,3 @@ ent-BaseClothingViewconeLarge = { "" }
 
 ent-BaseClothingViewconeBlinding = { "" }
     .desc = { "" }
-
-ent-BaseClothingViewconeSmallIncrease = { "" }
-    .desc = { "" }

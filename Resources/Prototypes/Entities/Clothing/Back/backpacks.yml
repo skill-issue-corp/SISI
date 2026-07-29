@@ -111,7 +111,7 @@
   description: It's a tough backpack for the daily grind of station life.
   components:
   - type: Sprite
-    sprite: Clothing/Back/Backpacks/engineering.rsi
+    sprite: _SIS/Clothing/Back/Backpacks/engineering.rsi # SIS
 
 - type: entity
   parent: ClothingBackpack

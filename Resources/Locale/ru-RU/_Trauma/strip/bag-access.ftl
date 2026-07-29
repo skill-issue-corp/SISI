@@ -9,3 +9,6 @@ trauma-bag-access-slot = { $slot ->
 trauma-bag-access-popup = { $user } пытается открыть ваш { $slot }!
 
 trauma-strip-jumpsuit-blocked = Сначала снимите с них верхнюю одежду!
+
+trauma-quickdraw-verb = Достать оружие
+trauma-quickdraw-popup = { $user } пытается достать ваше оружие!

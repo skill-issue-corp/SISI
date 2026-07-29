@@ -1,3 +1,15 @@
+# SPDX-FileCopyrightText: 2024 Aidenkrz <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2024 Ed <96445749+TheShuEd@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 IProduceWidgets <107586145+IProduceWidgets@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
+# SPDX-FileCopyrightText: 2024 RumiTiger <154005209+RumiTiger@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Ubaser <134914314+UbaserB@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 slarticodefast <161409025+slarticodefast@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 food-sequence-no-space = Вы не можете положить больше!
 
 # GENERAL
@@ -50,11 +62,11 @@ food-sequence-content-penguin = мясом пингвина
 food-sequence-content-corgi = мясом корги
 food-sequence-content-goliath = мясом голиафа
 food-sequence-content-rat = крысой
-food-sequence-content-lizard = мясой ящерицы
+food-sequence-content-lizard = мясом ящерицы
 food-sequence-content-plant = мясом растения
 food-sequence-content-rotten = гнилым мясом
 food-sequence-content-spider = паучьими ножками
-food-sequence-content-carrot = морквой
+food-sequence-content-carrot = морковью
 food-sequence-content-cabbage = капустой
 food-sequence-content-garlic = чесноком
 food-sequence-content-pineapple = ананасом
@@ -81,6 +93,7 @@ food-sequence-content-anomaly-berry = аномальной ягодой
 # BURGERS
 
 food-sequence-burger-gen = { $content }бургер
+
 food-sequence-burger-content-raw-meat = сыро
 food-sequence-burger-content-meat = мясо
 food-sequence-burger-content-carp = карпо
@@ -120,9 +133,10 @@ food-sequence-burger-content-anomaly-berry = аномо
 food-sequence-burger-content-extradimensional-orange = три-дэ
 food-sequence-burger-content-world-pea = миро
 
-# TACO
+# COTTON BURGERS
 
 food-sequence-cotton-burger-gen = { $content }бургер
+
 food-sequence-cotton-burger-content-cotton-bol = хлопко
 food-sequence-cotton-burger-content-pyrotton-bol = пиро
 food-sequence-cotton-burger-content-plushie-throngler = нагибатор
@@ -154,8 +168,14 @@ food-sequence-cotton-burger-content-plushie-xeno = ксено
 food-sequence-cotton-burger-content-plushie-penguin = пинг
 food-sequence-cotton-burger-content-plushie-human = уристмак
 food-sequence-cotton-burger-content-plushie-moth = пуши
+food-sequence-cotton-burger-content-plushie-vulp = вульп
 food-sequence-cotton-burger-content-plushie-ian = корги
 food-sequence-cotton-burger-content-among-pequeno = сас
+food-sequence-cotton-burger-content-plushie-sheep = шерсти
+food-sequence-cotton-burger-content-plushie-sheepspace = космошерсти
+
+# TACO
+
 food-sequence-taco-gen = тако с { $content }
 
 # SKEWER

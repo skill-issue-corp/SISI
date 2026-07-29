@@ -1,102 +1,161 @@
-ent-RitualSacrifice = Жертвоприношение
+ent-RitualSacrifice = жертвоприношение
     .desc = { "" }
-ent-RitualLivingHeart = Неутомимое сердцебиение
+
+ent-RitualLivingHeart = неутомимое сердцебиение
     .desc = { "" }
-ent-RitualFeastOfOwls = Пир сов
+
+ent-RitualFeastOfOwls = пир сов
     .desc = { "" }
-ent-RitualBladeAsh = Тайна ночного стража
+
+ent-RitualBladeAsh = тайна ночного стража
     .desc = { "" }
-ent-RitualArmorAsh = Обугленная мантия
+
+ent-RitualArmorAsh = обугленная мантия
     .desc = { "" }
-ent-RitualCrackedLantern = Треснувший фонарь
+
+ent-RitualCrackedLantern = треснувший фонарь
     .desc = { "" }
-ent-RitualAscensionAsh = Обряд владыки пепла
+
+ent-RitualAscensionAsh = обряд владыки пепла
     .desc = { "" }
-ent-RitualBladeBlade = Режущая кромка
+
+ent-RitualBladeBlade = режущая кромка
     .desc = { "" }
-ent-RitualArmorBlade = Расколотые доспехи
+
+ent-RitualArmorBlade = расколотые доспехи
     .desc = { "" }
-ent-RitualAscensionBlade = Серебряный мальстрём
+
+ent-RitualAscensionBlade = серебряный мальстрём
     .desc = { "" }
-ent-RitualBladeFlesh = Принцип голода
+
+ent-RitualBladeFlesh = принцип голода
     .desc = { "" }
-ent-RitualArmorFlesh = Извивающиеся объятия
+
+ent-RitualArmorFlesh = извивающиеся объятия
     .desc = { "" }
-ent-RitualImperfect = Несовершенный ритуал
+
+ent-RitualImperfect = несовершенный ритуал
     .desc = { "" }
-ent-RitualRaw = Сырой ритуал
+
+ent-RitualRaw = сырой ритуал
     .desc = { "" }
-ent-RitualLonely = Одинокий ритуал
+
+ent-RitualLonely = одинокий ритуал
     .desc = { "" }
-ent-RitualAscensionFlesh = Последний гимн жреца
+
+ent-RitualAscensionFlesh = последний гимн жреца
     .desc = { "" }
-ent-RitualBladeVoid = Отблеск зимы
+
+ent-RitualBladeVoid = отблеск зимы
     .desc = { "" }
-ent-RitualArmorVoid = Полое плетение
+
+ent-RitualArmorVoid = полое плетение
     .desc = { "" }
-ent-RitualAscensionVoid = Вальс на краю времени
+
+ent-RitualAscensionVoid = вальс на краю времени
     .desc = { "" }
-ent-RitualBladeRust = Сказ кузнеца
+
+ent-RitualBladeRust = сказ кузнеца
     .desc = { "" }
-ent-RitualArmorRust = Спасённые останки
+
+ent-RitualArmorRust = спасённые останки
     .desc = { "" }
-ent-RitualAscensionRust = Клятва ржавевестника
+
+ent-RitualAscensionRust = клятва ржавевестника
     .desc = { "" }
-ent-RitualBladeCosmos = Вечные врата
+
+ent-RitualBladeCosmos = вечные врата
     .desc = { "" }
-ent-RitualArmorCosmos = Звёздотканый плащ
+
+ent-RitualArmorCosmos = звёздотканый плащ
     .desc = { "" }
-ent-RitualAscensionCosmos = Дар Творца
+
+ent-RitualAscensionCosmos = дар творца
     .desc = { "" }
-ent-RitualBladeLock = Тайна стюарда
+
+ent-RitualBladeLock = тайна стюарда
     .desc = { "" }
-ent-RitualArmorLock = Меняющийся облик
+
+ent-RitualArmorLock = меняющийся облик
     .desc = { "" }
-ent-RitualEldritchId = Бремя хранителя ключей
+
+ent-RitualEldritchId = бремя хранителя ключей
     .desc = { "" }
-ent-RitualConcierge = Обряд консьержа
+
+ent-RitualConcierge = обряд консьержа
     .desc = { "" }
-ent-RitualAscensionLock = Отопри лабиринт
+
+ent-RitualSerpentclave = не тот ключ
     .desc = { "" }
-ent-RitualKnowledge = Ритуал знания
+
+ent-RitualAscensionLock = отопри лабиринт
     .desc = { "" }
-ent-RitualPriest = Ритуал жреца
+
+ent-RitualKnowledge = ритуал знания
     .desc = { "" }
-ent-RitualAshenEyes = Пепельные глаза
+
+ent-RitualPriest = ритуал жреца
     .desc = { "" }
-ent-RitualVoidCloak = Плащ пустоты
+
+ent-RitualAshenEyes = пепельные глаза
     .desc = { "" }
-ent-RitualScorchingShark = Опаляющая акула
+
+ent-RitualVoidCloak = плащ пустоты
     .desc = { "" }
-ent-RitualPhylacteryOfDamnation = Филактерия проклятия
+
+ent-RitualScorchingShark = опаляющая акула
     .desc = { "" }
-ent-RitualEtherOfTheNewborn = Эфир новорождённого
+
+ent-RitualPhylacteryOfDamnation = филактерия проклятия
     .desc = { "" }
-ent-RitualEnvyKnife = Обряд украденных лиц
+
+ent-RitualEtherOfTheNewborn = эфир новорождённого
     .desc = { "" }
-ent-RitualMaskOfMadness = Маска безумия
+
+ent-RitualEnvyKnife = обряд украденных лиц
     .desc = { "" }
-ent-RitualUnfathomableCurio = Непостижимая диковинка
+
+ent-RitualMaskOfMadness = маска безумия
     .desc = { "" }
-ent-RitualEldritchCoin = Потусторонняя монета
+
+ent-RitualEldritchCoin = потусторонняя монета
     .desc = { "" }
-ent-RitualRusted = Ржавый ритуал
+
+ent-RitualIceSpear = тайны творения
     .desc = { "" }
-ent-RitualCarvingKnife = Разделочный нож
+
+ent-RitualUnfathomableCurio = непостижимая диковинка
     .desc = { "" }
-ent-RitualCodexMorbus = Кодекс Морбус
+
+ent-RitualRusted = ржавый ритуал
     .desc = { "" }
-ent-RitualGreavesOfTheProphet = Поножи пророка
+
+ent-RitualCarvingKnife = разделочный нож
     .desc = { "" }
-ent-RitualShattered = Разбитый ритуал
+
+ent-RitualCodexMorbus = кодекс морбус
     .desc = { "" }
-ent-RitualMawedCrucible = Зубастый тигль
+
+ent-RitualGreavesOfTheProphet = поножи пророка
     .desc = { "" }
-ent-RitualThroughTheBoundary = Сквозь границу
+
+ent-RitualShattered = разбитый ритуал
     .desc = { "" }
-ent-RitualLionhunterRifle = Ружьё «Охотник на львов»
+
+ent-RitualMawedCrucible = зубастый тигль
     .desc = { "" }
-ent-RitualLionhunterRifleAmmunition = Патроны для ружья «Охотник на львов»
+
+ent-RitualThroughTheBoundary = сквозь границу
     .desc = { "" }
-ent-RitualMaidInTheMirror = Дева в зеркале
+
+ent-RitualLionhunterRifle = ружьё «охотник на львов»
+    .desc = { "" }
+
+ent-RitualLionhunterRifleAmmunition = патроны для ружья «охотник на львов»
+    .desc = { "" }
+
+ent-RitualMaidInTheMirror = дева в зеркале
+    .desc = { "" }
+
+ent-RitualSharpMedal = острая медаль
     .desc = { "" }

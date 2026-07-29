@@ -1,3 +1,5 @@
-ent-CrateXenomorphBundle = { ent-CrateSyndicate }
-    .desc = Ящик со всеми инструментами и органами, необходимыми для создания вашей армии биологического ужаса!
-    .suffix = Набор ксеноморфа
+ent-CrateSydicateCombatSkillChips = ящик боевых чипов навыков
+    .desc = Зловещего вида ящик, набитый лучшими чипами навыков, взятыми со свалки.
+
+ent-CrateSyndicateShuttleBundle = ящик комплекта для шаттла
+    .desc = Самое необходимое для шаттла.

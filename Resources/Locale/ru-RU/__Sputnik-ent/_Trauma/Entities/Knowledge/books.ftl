@@ -1,66 +1,84 @@
 ent-CrateRandomSkillbooks = ящик с книгами навыков
     .desc = Содержит книги навыков.
+
 ent-BookSkillbook = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
+
 ent-BookDebug = автостопом по галактике
     .desc = Учит вас всему.
     .suffix = debug
+
 ent-BookSchematic = чертёж
     .desc = { ent-BookSkillbook.desc }
+
 ent-BookMeleePrintedRev = ГОЙДА! Д
     .desc = Содержит кириллические инструкции по ближнему бою и некоторому используемому оружию.
     .suffix = Ближний бой
+
 ent-BookShootingPrintedRev = ГОЙДА! Б
     .desc = Содержит кириллические инструкции по огнестрельному оружию и его изготовлению.
     .suffix = Стрельба
+
 ent-BookJanitor = ПОЧЕМУ Я ЛЮБЛЮ МЫЛО И ПОЧЕМУ ВАМ СТОИТ ТОЖЕ
     .desc = Вокс якобы обожают эту книгу, хотя в ней в основном бесполезная болтовня.
     .suffix = Уборщик
+
 ent-BookFabrication = Домашний мастер: ежемесячник
     .desc = В основном реклама, но есть и полезные советы.
     .suffix = Изготовление
+
 ent-BookFabricationPrinted = Основы инженерии в космосе — 17-е издание
     .desc = Раньше гарантировала светлое будущее. Теперь гарантирует наёмное рабство.
     .suffix = Изготовление
+
 ent-BookSurvival = справочник БСА
     .desc = Содержит массу знаний о растениях, которых вы никогда не увидите, и животных, вымерших давным-давно. По крайней мере, учит резьбе.
     .suffix = Выживание
+
 ent-BookSurvivalPrinted = техники резьбы по дереву и кости
     .desc = Нишевые книги для нишевых увлечений.
     .suffix = Выживание
-ent-BookMaterials = { ent-BookSchematic }
-    .desc = Чертёж с конструкциями для материалов.
-    .suffix = Материалы
+
 ent-BookDoors = { ent-BookSchematic }
     .desc = Чертёж с конструкциями для дверей.
     .suffix = Двери
+
 ent-BookAirlocks = { ent-BookSchematic }
     .desc = Чертёж с конструкциями для шлюзов.
     .suffix = Шлюзы
+
 ent-BookToys = { ent-BookSchematic }
     .desc = Чертёж с конструкциями для игрушек.
     .suffix = Игрушки
+
 ent-BookBananium = { ent-BookSchematic }
     .desc = Чертёж с конструкциями для бананиевых сооружений.
     .suffix = Бананий
+
 ent-BookBots = { ent-BookSchematic }
     .desc = Чертёж с конструкциями для роботов.
     .suffix = Роботы
+
 ent-BookFurniture = { ent-BookSchematic }
     .desc = Чертёж с конструкциями для мебели.
     .suffix = Мебель
+
 ent-BookInfrastructure = { ent-BookSchematic }
     .desc = Чертёж с конструкциями для различных элементов инфраструктуры.
     .suffix = Инфраструктура
+
 ent-BookElectronics = { ent-BookSchematic }
     .desc = Чертёж с конструкциями для различной электроники.
     .suffix = Электроника
+
 ent-BookWalls = { ent-BookSchematic }
     .desc = Чертёж с конструкциями для стен.
     .suffix = Стены
+
 ent-BookWindows = { ent-BookSchematic }
     .desc = Чертёж с конструкциями для окон.
     .suffix = Окна
+
 ent-BookSmokeables = { ent-BookSchematic }
     .desc = Чертёж с конструкциями для самокруток.
     .suffix = Курительное

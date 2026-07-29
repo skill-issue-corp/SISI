@@ -4,8 +4,14 @@ ent-WoundBase = { "" }
 ent-Blunt = { ent-WoundBase }
     .desc = { ent-WoundBase.desc }
 
+ent-Fracture = перелом
+    .desc = { ent-Blunt.desc }
+
 ent-Piercing = { ent-WoundBase }
     .desc = { ent-WoundBase.desc }
+
+ent-Puncture = прокол
+    .desc = { ent-Piercing.desc }
 
 ent-ArmorPiercing = { ent-WoundBase }
     .desc = { ent-WoundBase.desc }
@@ -13,8 +19,14 @@ ent-ArmorPiercing = { ent-WoundBase }
 ent-Slash = { ent-WoundBase }
     .desc = { ent-WoundBase.desc }
 
+ent-Laceration = рваная рана
+    .desc = { ent-Slash.desc }
+
 ent-Heat = { ent-WoundBase }
     .desc = { ent-WoundBase.desc }
+
+ent-Burns = ожоги
+    .desc = { ent-Heat.desc }
 
 ent-Ion = { ent-WoundBase }
     .desc = { ent-WoundBase.desc }

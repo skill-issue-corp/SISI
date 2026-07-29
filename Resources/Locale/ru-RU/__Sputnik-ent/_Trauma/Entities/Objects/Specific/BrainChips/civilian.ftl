@@ -1,20 +1,29 @@
 ent-SkillChipPassenger = чип навыков (ассистент)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipChaplain = чип навыков (священник)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipClown = чип навыков (клоун)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipJanitor = чип навыков (уборщик)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipLawyer = чип навыков (юрист)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipLibrarian = чип навыков (библиотекарь)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipMime = чип навыков (мим)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipMusician = чип навыков (музыкант)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipRadioHost = чип навыков (радиоведущий)
     .desc = { ent-BaseSkillChip.desc }
+
 ent-SkillChipReporter = чип навыков (репортёр)
     .desc = { ent-BaseSkillChip.desc }

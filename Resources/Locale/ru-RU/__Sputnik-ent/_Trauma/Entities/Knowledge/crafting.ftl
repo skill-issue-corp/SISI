@@ -1,16 +1,23 @@
-ent-FabricationKnowledge = изготовление
-    .desc = { ent-BaseCraftingKnowledge.desc }
-ent-WeaponsKnowledge = оружейник
-    .desc = { ent-BaseCraftingKnowledge.desc }
-ent-ArmorKnowledge = бронник
-    .desc = { ent-BaseCraftingKnowledge.desc }
-ent-MetalworkingKnowledge = металлообработка
-    .desc = { ent-BaseCraftingKnowledge.desc }
-ent-CarvingKnowledge = резьба
-    .desc = { ent-BaseCraftingKnowledge.desc }
-ent-GunsmithingKnowledge = оружейное дело
-    .desc = { ent-BaseCraftingKnowledge.desc }
-ent-MechanicsKnowledge = механика
-    .desc = { ent-BaseCraftingKnowledge.desc }
-ent-TailoringKnowledge = пошив одежды
-    .desc = { ent-BaseCraftingKnowledge.desc }
+ent-FabricationKnowledge = Изготовление
+    .desc = Более высокие уровни изготовления позволяют вам создавать и собирать более сложные рецепты по памяти.
+
+ent-WeaponsKnowledge = Оружейное мастерство
+    .desc = Определяет качество самодельного и кованого оружия.
+
+ent-ArmorKnowledge = Бронное дело
+    .desc = Определяет качество самодельной брони.
+
+ent-MetalworkingKnowledge = Металлообработка
+    .desc = Определяет качество металлических конструкций и всех кованых предметов.
+
+ent-CarvingKnowledge = Резьба
+    .desc = Определяет качество деревянных конструкций.
+
+ent-GunsmithingKnowledge = Оружейное дело
+    .desc = Определяет качество самодельного огнестрельного оружия.
+
+ent-MechanicsKnowledge = Механика
+    .desc = Определяет качество некоторых механизмов и самодельных устройств.
+
+ent-TailoringKnowledge = Пошив одежды
+    .desc = Определяет качество самодельной одежды.

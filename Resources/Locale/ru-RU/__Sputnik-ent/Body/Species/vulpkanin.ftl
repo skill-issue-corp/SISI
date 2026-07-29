@@ -4,8 +4,8 @@ ent-AppearanceVulpkanin = внешний вид вулпканина
 ent-MobVulpkanin = Урист МакАрфАрф
     .desc = { ent-AppearanceVulpkanin.desc }
 
-ent-OrganVulpkanin = { ent-OrganBaseFleshy }
-    .desc = { ent-OrganBaseFleshy.desc }
+ent-OrganVulpkanin = { ent-OrganBaseOrganic }
+    .desc = { ent-OrganBaseOrganic.desc }
     .suffix = вулпканин
 
 ent-OrganVulpkaninMetabolizer = { "" }

@@ -1,32 +1,41 @@
 ent-CookingKnowledge = Кулинария
-    .desc = { ent-BaseRecipesKnowledge.desc }
-ent-MaterialsKnowledge = Материалы
-    .desc = { ent-BaseRecipesKnowledge.desc }
+    .desc = В данный момент ничего не делает. Не трать очки на неё.
+
 ent-DoorsKnowledge = Двери
-    .desc = { ent-BaseRecipesKnowledge.desc }
+    .desc = Определяет качество ручных дверей, которые вы строите.
+
 ent-AirlocksKnowledge = Шлюзы
-    .desc = { ent-BaseRecipesKnowledge.desc }
+    .desc = Определяет качество шлюзов с питанием, которые вы строите.
+
 ent-ToysKnowledge = Игрушки
-    .desc = { ent-BaseRecipesKnowledge.desc }
+    .desc = Определяет качество игрушек, которые вы создаёте.
+
 ent-BananiumKnowledge = Бананиум
-    .desc = { ent-BaseRecipesKnowledge.desc }
+    .desc = Определяет качество предметов из бананиума, которые вы создаёте.
+
 ent-BotsKnowledge = Боты
-    .desc = { ent-BaseRecipesKnowledge.desc }
+    .desc = Определяет качество ботов, которые вы создаёте.
+
 ent-FurnitureKnowledge = Мебель
-    .desc = { ent-BaseRecipesKnowledge.desc }
+    .desc = Определяет качество простой мебели, которую вы строите.
+
 ent-InfrastructureKnowledge = Инфраструктура
-    .desc = { ent-BaseRecipesKnowledge.desc }
+    .desc = Определяет качество станционной инфраструктуры, которую вы строите, например вентиляции и APC.
+
 ent-ElectronicsKnowledge = Электроника
-    .desc = { ent-BaseRecipesKnowledge.desc }
+    .desc = Определяет качество большинства электронных устройств, которые вы создаёте.
+
 ent-WallsKnowledge = Стены
-    .desc = { ent-BaseRecipesKnowledge.desc }
-ent-ScienceKnowledge = Наука
-    .desc = { ent-BaseRecipesKnowledge.desc }
+    .desc = Определяет качество стен, которые вы строите.
+
 ent-WindowsKnowledge = Окна
-    .desc = { ent-BaseRecipesKnowledge.desc }
-ent-SpiderCraftKnowledge = Паутина
-    .desc = { ent-BaseRecipesKnowledge.desc }
-ent-SmokeablesKnowledge = Курительные изделия
-    .desc = { ent-BaseRecipesKnowledge.desc }
-ent-RevolutionaryKnowledge = Революционное дело
-    .desc = { ent-BaseRecipesKnowledge.desc }
+    .desc = Определяет качество окон, которые вы строите.
+
+ent-SpiderCraftKnowledge = Паучьи Сети
+    .desc = Определяет качество ваших изделий из паучьей сети.
+
+ent-SmokeablesKnowledge = Курительные Изделия
+    .desc = Определяет качество сигарет, косяков и самокруток, которые вы скручиваете.
+
+ent-RevolutionaryKnowledge = Революционное Дело
+    .desc = Позволяет создавать революционные предметы и конструкции.

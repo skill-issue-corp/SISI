@@ -27,3 +27,6 @@ ent-MobRespirator = { "" }
 
 ent-MobBloodstream = { "" }
     .desc = { "" }
+
+ent-MobNightVision = { "" }
+    .desc = { "" }

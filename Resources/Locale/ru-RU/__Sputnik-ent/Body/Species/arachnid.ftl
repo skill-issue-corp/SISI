@@ -4,8 +4,8 @@ ent-AppearanceArachnid = внешний вид арахнида
 ent-MobArachnid = Урист МакВебс
     .desc = { ent-AppearanceArachnid.desc }
 
-ent-OrganArachnid = { ent-OrganBaseFleshy }
-    .desc = { ent-OrganBaseFleshy.desc }
+ent-OrganArachnid = { ent-OrganBaseOrganic }
+    .desc = { ent-OrganBaseOrganic.desc }
     .suffix = Арахнид
 
 ent-OrganArachnidMetabolizer = { "" }

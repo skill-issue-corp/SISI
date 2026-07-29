@@ -13,3 +13,4 @@ stack-rev-ball-bearings = шарикоподшипники
 stack-rev-engine-parts = детали двигателя
 stack-whetstone = точильный камень
 stack-drillhead = буровая головка
+stack-override-key-components = компоненты обходного ключа

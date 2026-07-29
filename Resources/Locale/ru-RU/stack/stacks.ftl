@@ -52,12 +52,13 @@ stack-reinforced-glass =
         [few] листа
        *[other] листов
     } бронестекла
+# Trauma - plasma -> phoron
 stack-plasma-glass =
     { $amount ->
         [1] лист
         [few] листа
        *[other] листов
-    } плазменного стекла
+    } форонового стекла
 stack-uranium =
     { $amount ->
         [1] лист
@@ -76,12 +77,13 @@ stack-clockwork-glass =
         [few] листа
        *[other] листов
     } заводного стекла
+# Trauma - plasma -> phoron
 stack-reinforced-plasma-glass =
     { $amount ->
         [1] лист
         [few] листа
        *[other] листов
-    } плазменного бронестекла
+    } форонового бронестекла
 stack-reinforced-uranium-glass =
     { $amount ->
         [1] лист
@@ -99,6 +101,7 @@ stack-cardboard =
         [few] листа
        *[other] листов
     } картона
+
 stack-bones =
     { $amount ->
         [1] кость
@@ -128,6 +131,12 @@ stack-hv-cable =
         [1] кабель
         [few] кабеля
        *[other] кабелей
+    }
+stack-explosive-cord =
+    { $amount ->
+        [1] детонирующий шнур
+        [few] детонирующих шнура
+       *[other] детонирующих шнуров
     }
 stack-wood-plank =
     { $amount ->
@@ -188,6 +197,13 @@ stack-artifact-fragment =
         [few] фрагмента
        *[other] фрагментов
     } артефакта
+stack-conveyor-belt =
+    { $amount ->
+        [1] ленту конвейера
+        [few] ленты конвейера
+       *[other] лент конвейера
+    }
+
 # best materials
 stack-ground-tobacco =
     { $amount ->
@@ -222,6 +238,7 @@ stack-dried-rainbow-cannabis-leaves =
         [few] сушённых листа
        *[other] сушённых листьев
     } радужной конопли
+
 stack-cigarette-filter =
     { $amount ->
         [1] сигаретный фильтр
@@ -234,14 +251,11 @@ stack-rolling-paper =
         [few] сигаретных бумаги
        *[other] сигаретных бумаг
     }
+
 stack-fulton = фултон
 stack-credit = кредиты
-stack-plasma =
-    { $amount ->
-        [1] лист
-        [few] листа
-       *[other] листов
-    } плазмы
+# Trauma - plasma -> phoron
+stack-plasma = форон
 stack-biomass = биомасса
 stack-pyrotton = пирохлопок
 stack-sharkminnow-tooth =
@@ -260,11 +274,12 @@ stack-telecrystal = телекристалл
 stack-gold-ore = золотая руда
 stack-rough-diamond = сырой алмаз
 stack-iron-ore = железная руда
-stack-plasma-ore = плазменная руда
+# Trauma - plasma -> phoron
+stack-plasma-ore = фороновая руда
 stack-silver-ore = серебряная руда
 stack-space-quartz = космический кварц
 stack-uranium-ore = урановая руда
-stack-bananium-ore = бананиумовая руда
+stack-bananium-ore = бananиумовая руда
 stack-coal = уголь
 stack-salt = соль
 stack-inflatable-wall = надувная стена
@@ -276,9 +291,7 @@ stack-brutepack = набор от ушибов
 stack-bloodpack = пакет крови
 stack-medicated-suture = медицинская нить
 stack-regenerative-mesh = регенеративная сеть
-stack-capacitor = конденсатор
 stack-micro-manipulator = манипулятор
-stack-matter-bin = ёмкость материи
 stack-pancake = блинчик
 stack-blueberry-pancake = блинчик с черникой
 stack-chocolate-chip-pancake = блинчик с шоколадной крошкой
@@ -287,34 +300,43 @@ stack-dark-tile = тёмная плитка
 stack-dark-steel-diagonal-mini-tile = тёмная стальная диагональная мини плитка
 stack-dark-steel-diagonal-tile = тёмная стальная диагональная плитка
 stack-dark-steel-herringbone = тёмная стальная плитка ёлочкой
+stack-dark-steel-horizontal-slats-tile-bordered = тёмная стальная окаймлённая горизонтальная реечная плитка
 stack-dark-steel-mini-tile = тёмная стальная мини плитка
 stack-dark-steel-mono-tile = тёмная стальная моно плита
 stack-dark-steel-pavement = тёмная стальная тротуарная плитка
 stack-dark-steel-vertical-pavement = тёмная стальная вертикальная тротуарная плитка
+stack-dark-steel-vertical-slats-tile-bordered = тёмная стальная окаймлённая вертикальная реечная плитка
+stack-dark-steel-slats-tile-continuous = тёмная стальная сплошная реечная плитка
 stack-offset-dark-steel-tile = тёмная смещённая стальная плитка
 stack-offset-steel-tile = смещённая стальная плитка
 stack-steel-diagonal-mini-tile = стальная диагональная мини плитка
 stack-steel-diagonal-tile = стальная диагональная плитка
 stack-steel-herringbone = стальная плитка ёлочкой
+stack-steel-horizontal-slats-tile-bordered = стальная окаймлённая горизонтальная реечная плитка
 stack-steel-mini-tile = стальная мини плитка
 stack-steel-mono-tile = стальная моно плита
 stack-steel-pavement = стальная тротуарная плитка
 stack-steel-vertical-pavement = стальная вертикальная тротуарная плитка
+stack-steel-vertical-slats-tile-bordered = стальная окаймлённая вертикальная реечная плитка
+stack-steel-slats-tile-continuous = стальная сплошная реечная плитка
 stack-white-tile = белая плитка
 stack-offset-white-steel-tile = смещённая белая стальная плитка
 stack-white-steel-diagonal-mini-tile = белая стальная диагональная мини плитка
 stack-white-steel-diagonal-tile = белая стальная диагональная плитка
 stack-white-steel-herringbone = белая стальная плитка ёлочкой
+stack-white-steel-horizontal-slats-tile-bordered = белая стальная окаймлённая горизонтальная реечная плитка
 stack-white-steel-mini-tile = белая стальная мини плитка
 stack-white-steel-mono-tile = белая стальная моно плита
 stack-white-steel-pavement = белая стальная тротуарная плитка
 stack-white-steel-vertical-pavement = белая стальная вертикальная тротуарная плитка
+stack-white-steel-vertical-slats-tile-bordered = белая стальная окаймлённая вертикальная реечная плитка
+stack-white-steel-slats-tile-continuous = белая стальная сплошная реечная плитка
 stack-steel-dark-checker-tile = тёмная стальная плитка шашечками
 stack-steel-light-checker-tile = светлая стальная плитка шашечками
 stack-steel-tile = стальная плитка
-stack-techmaint-floor-dark = тёмная техническая плитка
 stack-wood-floor = деревянный пол
 stack-techmaint-floor = технический пол
+stack-techmaint-floor-dark = тёмная техническая плитка
 stack-freezer-tile = плитка морозильника
 stack-showroom-tile = плитка выставочного зала
 stack-green-circuit-floor = плитка зелёных микросхем
@@ -336,7 +358,6 @@ stack-black-shuttle-tile = чёрный пол шаттла
 stack-eighties-floor-tile = пол восьмидесятых
 stack-blue-arcade-tile = синий пол аркады
 stack-red-arcade-tile = красный пол аркады
-stack-block-carpet-tile = блочная ковровая плитка
 stack-red-carpet-tile = красный ковёр
 stack-black-carpet-tile = чёрный ковёр
 stack-blue-carpet-tile = синий ковёр
@@ -382,19 +403,23 @@ stack-steel-maint-floor = стальной технический пол
 stack-grating-maint-floor = решётчатый технический пол
 stack-web-tile = паутинный пол
 stack-astro-grass-floor = астро-трава
+stack-dark-astro-grass-floor = тёмная астро-трава
+stack-light-astro-grass-floor = светлая астро-трава
 stack-mowed-astro-grass-floor = астро-газон
 stack-jungle-astro-grass-floor = астро-трава джунглей
 stack-astro-ice-floor = астро-лёд
 stack-astro-snow-floor = астро-снег
-stack-xeno-floor = ксенопол
-stack-xeno-steel = стальной ксенопол
-stack-xeno-steel-corner = стальной угловой ксенопол
-stack-xeno-maint = технический ксенопол
-stack-dark-squiggly = тёмная волнистая стальная плитка
 stack-large-wood-floor = большой деревянный пол
 stack-red-circuit-floor = плитка красных микросхем
 stack-asteroid-astro-sand-floor = астро-песок астероида
-stack-white-marble-floor = white marble floor
-stack-dark-marble-floor = dark marble floor
-stack-plasma-marble-floor = plasmarble floor
-stack-uranium-marble-floor = uranium marble floor
+stack-desert-astro-sand-floor = пустынный астро-песок
+stack-xeno-floor = ксенопол
+stack-xeno-steel = стальной ксенопол
+stack-xeno-steel-corner = стальной угловой ксенопол
+stack-xenoborg = плитка ксеноборга
+stack-xeno-maint = технический ксенопол
+stack-dark-squiggly = тёмная волнистая стальная плитка
+stack-white-marble-floor = белый мраморный пол
+stack-dark-marble-floor = тёмный мраморный пол
+stack-plasma-marble-floor = фороновый мраморный пол
+stack-uranium-marble-floor = урановый мраморный пол

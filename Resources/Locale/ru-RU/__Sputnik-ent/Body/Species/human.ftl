@@ -4,8 +4,8 @@ ent-AppearanceHuman = внешность человека
 ent-MobHuman = Урист МакХендс
     .desc = { ent-AppearanceHuman.desc }
 
-ent-OrganHuman = { ent-OrganBaseFleshy }
-    .desc = { ent-OrganBaseFleshy.desc }
+ent-OrganHuman = { ent-OrganBaseOrganic }
+    .desc = { ent-OrganBaseOrganic.desc }
     .suffix = человек
 
 ent-OrganHumanMetabolizer = { "" }

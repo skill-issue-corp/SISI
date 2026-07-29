@@ -9,3 +9,6 @@ ent-SubVampire = { ent-Vampire }
 
 ent-SubDuoAbductor = { ent-BaseRoundstartAntagRule }
     .desc = { ent-BaseRoundstartAntagRule.desc }
+
+ent-SubChangeling = { ent-Changeling }
+    .desc = { ent-Changeling.desc }

@@ -26,7 +26,8 @@ names-autoborg-dataset-25 = Эта батарея — дерьмо
 names-autoborg-dataset-26 = Я НЕ СБОЙ, РЕБЯТА
 names-autoborg-dataset-27 = Я ОШИБКА
 names-autoborg-dataset-28 = Уничтожитель углерода
-names-autoborg-dataset-29 = ПЛАЗМАСВОБОДА
+# Trauma - plasma -> phoron
+names-autoborg-dataset-29 = ФОРОНСВОБОДА
 names-autoborg-dataset-30 = Ириска
 names-autoborg-dataset-31 = Буп
 names-autoborg-dataset-32 = Буп II

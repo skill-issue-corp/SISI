@@ -1,64 +1,95 @@
 ent-BaseReactorPart = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
+
 ent-BaseReactorFuelRod = топливный стержень
     .desc = Топливный стержень для ядерного реактора.
+
 ent-CerenkiteReactorFuelRod = топливный стержень из ceренкита
     .desc = { ent-BaseReactorFuelRod.desc }
+
 ent-UraniumReactorFuelRod = урановый топливный стержень
     .desc = { ent-BaseReactorFuelRod.desc }
+
 ent-PlutoniumReactorFuelRod = плутониевый топливный стержень
     .desc = { ent-BaseReactorFuelRod.desc }
+
 ent-BananiumReactorFuelRod = банановый топливный стержень
     .desc = Хонк-стержень для ядерного реактора.
-ent-PlasmaReactorFuelRod = плазменный топливный стержень
+
+ent-PlasmaReactorFuelRod = фороновый топливный стержень
     .desc = { ent-BaseReactorFuelRod.desc }
+
 ent-UraniumGlassReactorFuelRod = топливный стержень из уранового стекла
     .desc = { ent-BaseReactorFuelRod.desc }
+
 ent-BaseReactorReflector = нейтронный отражатель
     .desc = Сборка нейтронного отражателя для ядерного реактора.
+
 ent-BohrumReactorReflector = бормовый нейтронный отражатель
     .desc = { ent-BaseReactorReflector.desc }
+
 ent-SteelReactorReflector = стальной нейтронный отражатель
     .desc = { ent-BaseReactorReflector.desc }
+
 ent-GoldReactorReflector = золотой нейтронный отражатель
     .desc = { ent-BaseReactorReflector.desc }
+
 ent-SilverReactorReflector = серебряный нейтронный отражатель
     .desc = { ent-BaseReactorReflector.desc }
+
 ent-GraphiteReactorReflector = графитовый нейтронный отражатель
     .desc = { ent-BaseReactorReflector.desc }
+
 ent-BaseReactorGasChannel = стержень газового канала
     .desc = Газовый канал для ядерного реактора.
+
 ent-SteelReactorGasChannel = стальной стержень газового канала
     .desc = { ent-BaseReactorGasChannel.desc }
+
 ent-GoldReactorGasChannel = золотой стержень газового канала
     .desc = { ent-BaseReactorGasChannel.desc }
+
 ent-SilverReactorGasChannel = серебряный стержень газового канала
     .desc = { ent-BaseReactorGasChannel.desc }
+
 ent-BrassReactorGasChannel = латунный стержень газового канала
     .desc = { ent-BaseReactorGasChannel.desc }
+
 ent-PlasteelReactorGasChannel = пласталевый стержень газового канала
     .desc = { ent-BaseReactorGasChannel.desc }
+
 ent-GlassReactorGasChannel = стеклянный стержень газового канала
     .desc = { ent-BaseReactorGasChannel.desc }
-ent-PlasmaGlassReactorGasChannel = стержень газового канала из плазменного стекла
+
+ent-PlasmaGlassReactorGasChannel = стержень газового канала из форонового стекла
     .desc = { ent-BaseReactorGasChannel.desc }
+
 ent-DiamondReactorGasChannel = алмазный стержень газового канала
     .desc = { ent-BaseReactorGasChannel.desc }
+
 ent-BaseReactorHeatExchanger = стержень теплообменника
     .desc = Теплообменник для ядерного реактора.
+
 ent-SteelReactorHeatExchanger = стальной стержень теплообменника
     .desc = { ent-BaseReactorHeatExchanger.desc }
+
 ent-GoldReactorHeatExchanger = золотой стержень теплообменника
     .desc = { ent-BaseReactorHeatExchanger.desc }
+
 ent-SilverReactorHeatExchanger = серебряный стержень теплообменника
     .desc = { ent-BaseReactorHeatExchanger.desc }
+
 ent-BrassReactorHeatExchanger = латунный стержень теплообменника
     .desc = { ent-BaseReactorHeatExchanger.desc }
+
 ent-PlasteelReactorHeatExchanger = пласталевый стержень теплообменника
     .desc = { ent-BaseReactorHeatExchanger.desc }
+
 ent-GlassReactorHeatExchanger = стеклянный стержень теплообменника
     .desc = { ent-BaseReactorHeatExchanger.desc }
-ent-PlasmaGlassReactorHeatExchanger = стержень теплообменника из плазменного стекла
+
+ent-PlasmaGlassReactorHeatExchanger = стержень теплообменника из форонового стекла
     .desc = { ent-BaseReactorHeatExchanger.desc }
+
 ent-DiamondReactorHeatExchanger = алмазный стержень теплообменника
     .desc = { ent-BaseReactorHeatExchanger.desc }

@@ -4,8 +4,8 @@ ent-AppearanceReptilian = внешний вид рептилоида
 ent-MobReptilian = Урист МакСкейлс
     .desc = { ent-AppearanceReptilian.desc }
 
-ent-OrganReptilian = { ent-OrganBaseFleshy }
-    .desc = { ent-OrganBaseFleshy.desc }
+ent-OrganReptilian = { ent-OrganBaseOrganic }
+    .desc = { ent-OrganBaseOrganic.desc }
     .suffix = Рептилоид
 
 ent-OrganReptilianMetabolizer = { "" }

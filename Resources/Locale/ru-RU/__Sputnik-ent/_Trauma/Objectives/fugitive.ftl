@@ -1,54 +1,80 @@
 ent-BaseFugitiveObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
+
 ent-BaseHunterObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
+
 ent-BaseHunterStealObjective = { ent-BaseHunterObjective }
     .desc = { ent-BaseHunterObjective.desc }
+
 ent-FugitiveEscapeObjective = Уклониться от правоохранителей
     .desc = Вам никогда не искупить свои преступления, так позаботьтесь хотя бы о том, чтобы затеряться в толпе.
+
 ent-FugitiveKillObjective = Убить стукача
     .desc = Стукачам — швах. Неужели они правда думали, что им сойдёт с рук то, что они вас сдали?
+
 ent-HunterKillFugitiveObjective = Устранить беглеца
     .desc = Беглец считается слишком опасным, чтобы брать его живым. Используйте отчёт, чтобы опознать его, и убедитесь, что он не покинет станцию.
+
 ent-HunterArrestFugitiveObjective = Задержать беглеца
     .desc = Найдите беглеца с помощью отчёта и убедитесь, что он не сбежит на эвакуационном шаттле. Доставьте его живым к правосудию.
+
 ent-HunterKillRandomPersonObjective = { ent-BaseHunterObjective }
     .desc = Раз уж вы там, окажите нам эту услугу.
+
 ent-HunterStealNukeDiskObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealHyposprayObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealHandTeleporterObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealRDHardsuitObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealMagbootsObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealClipboardObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealKnuckleDustersObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealCorgiMeatObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealCaptainJetpackObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealCaptainGunObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealLawbringerObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealJusticeObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealCMORapidSyringeGunObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealExecutiveBriefcaseObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealGeminiProjectorObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealFlippoLighterObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealFireAxeObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealCEToolbeltObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
+
 ent-HunterStealCaptainSwordObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }

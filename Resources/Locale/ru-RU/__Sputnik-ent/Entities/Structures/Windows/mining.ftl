@@ -1,5 +1,6 @@
 ent-MiningWindow = шахтёрское окно
     .desc = { ent-WindowRCDResistant.desc }
-ent-MiningWindowDiagonal = { ent-ShuttleWindow }
+
+ent-MiningWindowDiagonal = { ent-MiningWindow }
+    .desc = { ent-MiningWindow.desc }
     .suffix = Диагональ
-    .desc = { ent-ShuttleWindow.desc }

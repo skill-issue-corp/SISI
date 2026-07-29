@@ -1,32 +1,34 @@
-ent-ClothingBeltMilitaryWebbingCMO = разгрузка главного врача
+ent-ClothingBeltMilitaryWebbingCMO = разгрузка старшего врача
     .desc = Медицинская разгрузка с глубокими карманами для использования медицинскими специалистами.
-ent-ClothingBeltDeathsquadWebbing = разгрузка оперативника Эскадрона Смерти
-    .desc = Прочная и надёжная разгрузка, содержащая всё необходимое для боя. Скорее всего, вам не придётся её использовать.
+
+ent-ClothingBeltDeathsquadWebbing = разгрузка оперативника отряда смерти
+    .desc = Прочная и надёжная разгрузка, содержащая всё необходимое, чтобы оставаться в бою. Вам вряд ли придётся её использовать.
     .suffix = НЕ МАППИТЬ
+
 ent-ClothingBeltSecurityWebbingMedical = разгрузка врача ОБР
-    .desc = Медицинская разгрузка с глубокими карманами для использования оперативниками ERT.
-ent-ClothingBeltCorporateJudo = пояс корпоративного дзюдо
+    .desc = Медицинская разгрузка с глубокими карманами для использования оперативниками ОБР.
+
+ent-ClothingBeltCorporateJudo = Пояс корпоративного дзюдо
     .desc = Обучает носителя корпоративному дзюдо NT.
+
 ent-ClothingBeltChemBagSyndi = медицинская сумка синдиката
-    .desc = Прочная сумка для медицинских принадлежностей, носимая оперативниками Gorlex Marauder. Пахнет дезоксиэфедрином.
-ent-ClothingBeltSheathHeadOfSecurity = ножны начальника охраны
-    .desc = Надёжные ножны, разработанные для хранения индивидуального энергетического меча начальника охраны.
-ent-ClothingBeltMilitaryRigGrenadier = РПС гренадера
-    .desc = Специализированная разгрузка для переноски такого количества гранат, что рука устает их бросать. Также может хранить пистолет и магазины к нему.
+    .desc = Прочная сумка для медицинских припасов, которую носят оперативники Gorlex Marauders. Пахнет дезоксиэфедрином.
+
+ent-ClothingBeltSheathHeadOfSecurity = ножны главы службы безопасности
+    .desc = Прочные ножны, предназначенные для хранения именного энергетического меча главы службы безопасности.
+
+ent-ClothingBeltMilitaryRigGrenadier = пояс гренадёра
+    .desc = Специализированный пояс-разгрузка, вмещающий столько гранат, что рука устанет их все метать. Также может хранить пистолет и магазины к нему.
+
 ent-ClothingBeltChemBagXenobiology = сумка ксенобиолога
-    .desc = Устойчивая к слизи сумка, предназначенная для ксенобиологов. Пахнет... плазмой?
-ent-ClothingBeltChemBagXenobiologyHolding = сумка для хранения ксенобиолога
-    .desc = Большая, устойчивая к слизи сумка, предназначенная для ксенобиологов. Пахнет блюспейс экстрактом и обезьяньей шерстью.
-ent-ClothingBeltMilitaryWebbingBSOFilled = РПС офицера "Синий Щит"
-    .desc = Разгрузка, используемая подразделениями Центрального Командования.
+    .desc = Устойчивая к слизи сумка, предназначенная для использования ксенобиологами. Пахнет... плазмой?
+
+ent-ClothingBeltChemBagXenobiologyHolding = вместительная сумка ксенобиолога
+    .desc = Более крупная устойчивая к слизи сумка, предназначенная для использования ксенобиологами. Пахнет экстрактом блюспейса и обезьяньей шерстью.
+
 ent-ClothingBeltUtilityFilledUnremoveable = { ent-ClothingBeltUtilityFilled }
     .desc = { ent-ClothingBeltUtilityFilled.desc }
-    .suffix = Неснимаемый
-ent-ClothingBeltSecurityWebbingContractor = РПС наёмника
-    .desc = Нагрудная разгрузка с глубокими карманами. Часто используется наёмниками и охотниками за головами.
-ent-ClothingBeltSecurityWebbingContractorFilled = { ent-ClothingBeltSecurityWebbingContractor }
-    .desc = { ent-ClothingBeltSecurityWebbingContractor.desc }
-    .suffix = Заполненный
-ent-ClothingBeltWhipping = батин ремен
-    .suffix = Адмем
-    .desc = Пьяный офицер специальных операций вернулся с работы домой к семье...
+    .suffix = Несъёмный
+
+ent-ClothingBeltSecurityWebbingContractorFilled = разгрузка подрядчика
+    .desc = Разгрузка с глубокими карманами, часто используемая подрядчиками и охотниками за головами.

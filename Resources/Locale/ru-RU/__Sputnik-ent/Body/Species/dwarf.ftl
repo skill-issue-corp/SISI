@@ -4,12 +4,49 @@ ent-AppearanceDwarf = внешний вид дварфа
 ent-MobDwarf = Урист МакХэндс Дварф
     .desc = { ent-AppearanceDwarf.desc }
 
-ent-OrganDwarf = { ent-OrganBaseFleshy }
-    .desc = { ent-OrganBaseFleshy.desc }
+ent-OrganDwarf = { ent-OrganBaseOrganic }
+    .desc = { ent-OrganBaseOrganic.desc }
     .suffix = Дварф
 
-ent-OrganDwarfMetabolizer = { "" }
-    .desc = { "" }
+ent-OrganDwarfAppearance = { ent-OrganDwarf }
+    .desc = { ent-OrganDwarf.desc }
+    .suffix = Дварф
+
+ent-OrganDwarfMetabolizer = { ent-OrganDwarf }
+    .desc = { ent-OrganDwarf.desc }
+
+ent-OrganDwarfTorso = { ent-OrganHumanTorso }
+    .desc = { ent-OrganHumanTorso.desc }
+
+ent-OrganDwarfHead = { ent-OrganHumanHead }
+    .desc = { ent-OrganHumanHead.desc }
+
+ent-OrganDwarfArmLeft = { ent-OrganHumanArmLeft }
+    .desc = { ent-OrganHumanArmLeft.desc }
+
+ent-OrganDwarfArmRight = { ent-OrganHumanArmRight }
+    .desc = { ent-OrganHumanArmRight.desc }
+
+ent-OrganDwarfHandRight = { ent-OrganHumanHandRight }
+    .desc = { ent-OrganHumanHandRight.desc }
+
+ent-OrganDwarfHandLeft = { ent-OrganHumanHandLeft }
+    .desc = { ent-OrganHumanHandLeft.desc }
+
+ent-OrganDwarfLegLeft = { ent-OrganHumanLegLeft }
+    .desc = { ent-OrganHumanLegLeft.desc }
+
+ent-OrganDwarfLegRight = { ent-OrganHumanLegRight }
+    .desc = { ent-OrganHumanLegRight.desc }
+
+ent-OrganDwarfFootLeft = { ent-OrganHumanFootLeft }
+    .desc = { ent-OrganHumanFootLeft.desc }
+
+ent-OrganDwarfFootRight = { ent-OrganHumanFootRight }
+    .desc = { ent-OrganHumanFootRight.desc }
+
+ent-OrganDwarfEyes = { ent-OrganHumanEyes }
+    .desc = { ent-OrganHumanEyes.desc }
 
 ent-OrganDwarfStomach = { ent-OrganDwarfMetabolizer }
     .desc = { ent-OrganDwarfMetabolizer.desc }
