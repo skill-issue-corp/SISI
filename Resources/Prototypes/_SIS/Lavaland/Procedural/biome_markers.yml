@@ -1,6 +1,6 @@
 - type: biomeMarkerLayer
   id: MobArchLegionSpawn
   prototype: MobArchLegion
-  radius: 48
-  maxCount: 32
+  radius: 32
+  maxCount: 22
   size: 512

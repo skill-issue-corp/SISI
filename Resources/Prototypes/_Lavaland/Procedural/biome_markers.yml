@@ -11,7 +11,7 @@
   id: RandomMobLavaland
   prototype: SpawnerRandomMobLavaland
   # SIS-Start
-  radius: 16
-  maxCount: 200
+  radius: 22
+  maxCount: 150
   # SIS-End
   size: 128
