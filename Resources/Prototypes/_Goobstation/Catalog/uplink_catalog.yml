@@ -1107,17 +1107,17 @@
   description: uplink-cqc-desc
   productEntity: CQCManual
   cost:
-    Telecrystal: 60
+    Telecrystal: 50 # SIS
   categories:
   - UplinkWeaponry
   # SIS-Start
-#  conditions:
-#  - !type:StoreWhitelistCondition
-#    whitelist:
-#      tags:
-#      - NukeOpsUplink
-#      - ContravendUplink
-   # SIS-End
+  # conditions:
+  # - !type:StoreWhitelistCondition
+  #   whitelist:
+  #     tags:
+  #     - NukeOpsUplink
+  #     - ContravendUplink
+  # SIS-End
 
 - type: listing
   id: UplinkCQCManualChef
