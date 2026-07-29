@@ -199,8 +199,8 @@
         Heat: 0.90
         Radiation: 0.25
   - type: ToggleableClothing
-    action: ActionToggleSuitPiece
     verbText: toggle-clothing-verb-helmet
+    action: ActionToggleSuitPiece # SIS | Fix
   - type: ContainerContainer
     containers:
       toggleable-clothing: !type:Container {}

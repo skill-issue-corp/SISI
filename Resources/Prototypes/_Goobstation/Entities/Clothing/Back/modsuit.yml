@@ -57,7 +57,6 @@
   - type: ExplosionResistance
     damageCoefficient: 0.9
   - type: ToggleableClothing
-    action: ActionToggleSuitPiece
     requiredSlot: back
     blockUnequipWhenAttached: false # easier to use and now its fixed
     replaceCurrentClothing: true
@@ -66,6 +65,7 @@
       gloves: ClothingModsuitGauntletsStandard
       outerClothing: ClothingModsuitChestplateStandard
       shoes: ClothingModsuitBootsStandard
+    action: ActionToggleSuitPiece # SIS | Fix
   - type: WiresPanel
   - type: ItemSlots
     slots:
