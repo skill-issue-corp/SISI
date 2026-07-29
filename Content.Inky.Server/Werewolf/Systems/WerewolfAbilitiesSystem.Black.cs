@@ -25,7 +25,7 @@ public sealed partial class WerewolfAbilitiesSystem
             ("name", MetaData(uid).EntityName),
             ("location", locationName));
 
-        _chat.TrySendInGameICMessage(uid, $"+l {message}", InGameICChatType.CollectiveMind, ChatTransmitRange.Normal); // holy goida IF ANYONE CHANGES LUNARMIND KEY LETTER CHANGE IT HERE TOO
+        _chat.TrySendInGameICMessage(uid, $"+о {message}", InGameICChatType.CollectiveMind, ChatTransmitRange.Normal); // holy goida IF ANYONE CHANGES LUNARMIND KEY LETTER CHANGE IT HERE TOO // RU-Localization
         args.Handled = true;
     }
 
