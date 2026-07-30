@@ -5,6 +5,8 @@ using Content.Shared.Mind.Components;
 using Content.Shared.Verbs;
 using Content.Trauma.Server.GameTicking.Rules.Components;
 using Robust.Shared.Player;
+using Robust.Shared.Prototypes;
+using Robust.Shared.Random;
 using Robust.Shared.Utility;
 
 namespace Content.SIS.Server.Administration.Systems;
@@ -12,6 +14,10 @@ namespace Content.SIS.Server.Administration.Systems;
 public sealed partial class SISAdminVerbSystem
 {
     [Dependency] private AntagSelectionSystem _antag = default!;
+    [Dependency] private IRobustRandom _random = default!;
+
+    private static readonly EntProtoId DefaultInsurgencyRule = "InsurgencyShipVariantInsurgents";
+    private static readonly EntProtoId InsurgencyTideRule = "InsurgencyShipVariantTide";
 
     private void AddAdminVerbs(GetVerbsEvent<Verb> args)
     {
@@ -28,6 +34,8 @@ public sealed partial class SISAdminVerbSystem
 
         var targetPlayer = targetActor.PlayerSession;
 
+        var insurgencyRules = new[] { DefaultInsurgencyRule, InsurgencyTideRule };
+        var randomInsurgencyRule = _random.Pick(insurgencyRules);
         args.Verbs.Add(new()
         {
             Text = Loc.GetString("admin-verb-text-make-insurgency"),
@@ -35,7 +43,7 @@ public sealed partial class SISAdminVerbSystem
             Icon = new SpriteSpecifier.Rsi(new ResPath("/Textures/Clothing/Mask/gas.rsi"), "icon"),
             Act = () =>
             {
-                _antag.ForceMakeAntag<InsurgencyRuleComponent>(targetPlayer, "Insurgency");
+                _antag.ForceMakeAntag<InsurgencyRuleComponent>(targetPlayer, randomInsurgencyRule);
             },
             Impact = LogImpact.High,
             Message = Loc.GetString("admin-verb-text-make-insurgency"),
