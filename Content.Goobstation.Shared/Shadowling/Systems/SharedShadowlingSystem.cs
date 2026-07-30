@@ -96,7 +96,8 @@ public abstract partial class SharedShadowlingSystem : EntitySystem
     public ProtoId<CollectiveMindPrototype> ShadowMind = "Shadowmind";
     private void OnInit(EntityUid uid, ShadowlingComponent component, ref MapInitEvent args)
     {
-        _actions.AddAction(uid, ref component.ActionHatchEntity, component.ActionHatch);
+        if (!component.SkipHatching) // SIS-Shadowling_Fix
+            _actions.AddAction(uid, ref component.ActionHatchEntity, component.ActionHatch);
 
         EnsureComp<CollectiveMindComponent>(uid).Channels.Add(ShadowMind);
     }

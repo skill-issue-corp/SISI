@@ -146,6 +146,9 @@ public sealed partial class ShadowlingComponent : Component
     /// </summary>
     [DataField]
     public EntProtoId ObjectiveAscend = "ShadowlingAscendObjective";
+
+    [DataField]
+    public bool SkipHatching = false; // SIS-Shadowling_Fix
 }
 
 [NetSerializable, Serializable]

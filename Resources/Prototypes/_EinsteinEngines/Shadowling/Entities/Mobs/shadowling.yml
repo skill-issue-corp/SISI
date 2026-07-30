@@ -103,6 +103,10 @@
   suffix: ""
   description: A shadowling ascendant. If you're seeing this, you're probably dead.
   components:
+  # SIS-Start
+  - type: Shadowling
+    skipHatching: true
+  # SIS-End
   - type: ShadowlingVeil
   - type: ShadowlingIcyVeins
   - type: ShadowlingDestroyEngines
