@@ -1207,7 +1207,7 @@ ClothingOuterArmorRiot: null
 ClothingOuterArmorBulletproof: null
 
 # 2026-06-21 inky
-WeaponTurretAntiInsurgent: null
+# WeaponTurretAntiInsurgent: null # SIS
 
 # 2026-07-5 inky, Kill Echem
 EnergyChemDispenser: ChemDispenser

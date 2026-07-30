@@ -37,11 +37,13 @@
     belt: ClothingBeltUtilityFilled
     neck: ClothingNeckBombCollarBroken
 
-- type: antagSmite
-  id: Insurgent
-  antag: Insurgent
-  rule: Insurgency
-  ruleComp: InsurgencyRule
-  icon:
-    sprite: Clothing/Mask/gas.rsi
-    state: icon
+# SIS-Start
+# - type: antagSmite
+#   id: Insurgent
+#   antag: Insurgent
+#   rule: Insurgency
+#   ruleComp: InsurgencyRule
+#   icon:
+#     sprite: Clothing/Mask/gas.rsi
+#     state: icon
+# SIS-End
