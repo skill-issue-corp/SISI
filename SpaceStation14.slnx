@@ -15,11 +15,14 @@
   </Folder>
   <!-- Inky -->
   <Folder Name="/Content.Game/" />
+  <!-- SIS-Modules Start -->
   <Folder Name="/Content.Game/SIS/">
     <Project Path="Content.SIS.Client/Content.SIS.Client.csproj" />
+    <Project Path="Content.SIS.Common/Content.SIS.Common.csproj" />
     <Project Path="Content.SIS.Server/Content.SIS.Server.csproj" />
     <Project Path="Content.SIS.Shared/Content.SIS.Shared.csproj" />
   </Folder>
+  <!-- SIS-Modules End -->
   <Folder Name="/Content.Game/Inky/">
     <Project Path="Content.Inky.Client\Content.Inky.Client.csproj" />
     <Project Path="Content.Inky.Common\Content.Inky.Common.csproj" />
@@ -108,6 +111,7 @@
   <Project Path="Content.Tools/Content.Tools.csproj" />
   <Project Path="Content.YAMLLinter/Content.YAMLLinter.csproj" />
   <Project Path="Pow3r/Pow3r.csproj" />
+  <Folder Name="/RobustToolbox/.github/" />
   <Folder Name="/RobustToolbox/.github/workflows/">
     <File Path="RobustToolbox/.github/workflows/benchmarks.yml" />
     <File Path="RobustToolbox/.github/workflows/build-all-configurations.yml" />
