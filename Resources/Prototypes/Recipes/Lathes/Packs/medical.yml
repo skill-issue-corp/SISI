@@ -88,7 +88,7 @@
   - ChemMasterMachineCircuitboard
   - CondenserMachineCircuitBoard
   - HotplateMachineCircuitboard
- #- EnergyChemDispenserMachineCircuitboard # Inky
+  - EnergyChemDispenserMachineCircuitboard # Inky # SIS
 
 ## Dynamic
 
@@ -114,4 +114,4 @@
   - StasisBedMachineCircuitboard
   - CryoPodMachineCircuitboard
   - BiomassReclaimerMachineCircuitboard
-  - EnergyChemDispenserMachineCircuitboard #Inky
+  # - EnergyChemDispenserMachineCircuitboard #Inky # SIS
