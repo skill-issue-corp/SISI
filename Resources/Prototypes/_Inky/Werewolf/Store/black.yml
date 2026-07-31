@@ -121,7 +121,7 @@
 - type: listing
   id: WerewolfBlackBeckon
   name: werewolf-store-black-beckon-name
-  description: werewolf-store-beckon-desc
+  description: werewolf-store-black-beckon-desc
   icon:
     sprite: _Inky/Actions/Werewolf/werewolf.rsi
     state: beckon
