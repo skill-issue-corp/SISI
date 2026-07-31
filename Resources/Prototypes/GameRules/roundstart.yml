@@ -43,8 +43,10 @@
       prob: 0.05
     - id: ShadowlingRoundstart
       prob: 0.05
-    - id: SubDuoAbductor
-      prob: 0.05
+    # SIS-Start
+    # - id: SubDuoAbductor
+    #   prob: 0.05
+    # SIS-End
     - id: WraithRoundstart
       prob: 0.02
     - id: SubVampire
@@ -70,8 +72,10 @@
       prob: 0.02
     - id: ShadowlingRoundstart
       prob: 0.02
-    - id: SubDuoAbductor
-      prob: 0.05
+    # SIS-Start
+    # - id: SubDuoAbductor
+    #   prob: 0.05
+    # SIS-End
     - id: WraithRoundstart
       prob: 0.02
     - id: SubChangeling
@@ -95,8 +99,10 @@
       prob: 0.02
     - id: ShadowlingRoundstart
       prob: 0.02
-    - id: SubDuoAbductor
-      prob: 0.05
+    # SIS-Start
+    # - id: SubDuoAbductor
+    #   prob: 0.05
+    # SIS-End
     - id: WraithRoundstart
       prob: 0.02
     - id: SubVampire
