@@ -59,7 +59,7 @@ public sealed partial class DeafnessSystem : EntitySystem
 
         // Save the current volume before muting
         _originalVolume = _cfg.GetCVar(CCVars.AudioMasterVolume);
-        _audio.SetMasterGain(0);
+        // _audio.SetMasterGain(0); // SIS-Deafness_Return_Sounds
         _deaf = true;
     }
 
