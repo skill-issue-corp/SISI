@@ -6,7 +6,7 @@
   components:
   - type: VampireRule
   - type: GameRule
-    minPlayers: 20
+    minPlayers: 10 # SIS
   - type: AntagPlayerEffects
     effects:
     - !type:NestedEffect
