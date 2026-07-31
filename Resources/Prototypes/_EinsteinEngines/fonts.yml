@@ -3,8 +3,8 @@
 # Calcic (Skeletons)
 - type: font
   id: LDFComicSans
-  path: /Fonts/_EinsteinEngines/LDFComicSans/LDFComicSans-Medium.ttf
+  path: /Fonts/_SIS/ComicSansMS.ttf # SIS
 
 - type: font
   id: LDFComicSansBold
-  path: /Fonts/_EinsteinEngines/LDFComicSans/LDFComicSans-Bold.ttf
+  path: /Fonts/_SIS/ComicSansMS-Bold.ttf # SIS
