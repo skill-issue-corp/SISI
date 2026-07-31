@@ -1,3 +1,8 @@
+// SPDX-FileCopyrightText: 2025 Ilya246
+// SPDX-FileCopyrightText: 2025 ark1368
+//
+// SPDX-License-Identifier: MPL-2.0
+
 using Content.Server.Atmos.EntitySystems;
 using Content.Shared.Atmos;
 using Content.Shared.Disposal.Components;
@@ -14,6 +19,12 @@ public sealed partial class DisposalUnitSystem : SharedDisposalUnitSystem
     /// <inheritdoc/>
     protected override void IntakeAir(Entity<DisposalUnitComponent> ent, TransformComponent xform)
     {
+        base.Initialize();
+
+        SubscribeLocalEvent<DisposalUnitComponent, DestructionEventArgs>(OnDestruction);
+        SubscribeLocalEvent<DisposalUnitComponent, EntityTerminatingEvent>(OnTerminating);
+        SubscribeLocalEvent<DisposalUnitComponent, BeforeExplodeEvent>(OnExploded);
+    }
         var air = ent.Comp.Air;
         var indices = _xform.GetGridTilePositionOrDefault((ent, xform));
 
@@ -23,5 +34,20 @@ public sealed partial class DisposalUnitSystem : SharedDisposalUnitSystem
 
             ent.Comp.Air = environment.Remove(transferMoles);
         }
+    }
+
+    private void OnDestruction(EntityUid uid, DisposalUnitComponent component, DestructionEventArgs args)
+    {
+        TryEjectContents(uid, component);
+    }
+
+    private void OnTerminating(Entity<DisposalUnitComponent> ent, ref EntityTerminatingEvent args)
+    {
+        TryEjectContents(ent, ent.Comp);
+    }
+
+    private void OnExploded(Entity<DisposalUnitComponent> ent, ref BeforeExplodeEvent args)
+    {
+        args.Contents.AddRange(ent.Comp.Container.ContainedEntities);
     }
 }

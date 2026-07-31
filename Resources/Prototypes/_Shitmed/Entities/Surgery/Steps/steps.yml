@@ -563,6 +563,24 @@
         Heat: -5
     sleepModifier: 2
 
+# mono changes
+
+- type: entity
+  parent: SurgeryStepBase
+  id: SurgeryStepRemoveCorticalBorer
+  name: Remove the Cortical Borer
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: SurgeryStep
+    tool:
+    - type: Tweezers
+    duration: 8
+  - type: Sprite
+    sprite: _Shitmed/Objects/Specific/Medical/Surgery/hemostat.rsi
+    state: hemostat
+  - type: SurgeryStepRemoveCorticalBorer
+  - type: SurgeryStepEmoteEffect
+
 # Augments
 
 - type: entity
