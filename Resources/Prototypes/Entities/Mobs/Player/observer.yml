@@ -90,6 +90,9 @@
           ghost_Explosion0: { state: ghost_Explosion0 }
           ghost_Explosion1: { state: ghost_Explosion1 }
           ghost_Explosion2: { state: ghost_Explosion2 }
+          # SIS-Start: кастомный спрайт госта (шанс 65%, при аутизме всегда), см. SisiGhostSpriteSystem
+          Sisi: { sprite: _SIS/Mobs/Ghosts/sisi_ghost.rsi, state: animated }
+          # SIS-End
   - type: ContentEye
     maxZoom: 1.44,1.44
   - type: Eye
