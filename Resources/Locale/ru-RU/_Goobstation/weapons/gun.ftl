@@ -16,7 +16,7 @@ mode-selected = Выбран режим: { $mode }
 # RequiresDualWieldComponent
 dual-wield-component-requires = Это выглядит недостаточно круто. Нужно использовать два оружия одновременно.
 gun-requires-dual-wield-component-examine = Это оружие необходимо использовать в паре с таким же, чтобы стрелять.
-# AmmoSelectorMenu # CorvaxGoob-localization
+# AmmoSelectorMenu
 asmb-desc-BulletLaserSpread = Широкий разброс лазера.
 asmb-desc-BulletLaserSpreadNarrow = Узкий разброс лазера.
 asmb-desc-BulletDisablerSmgSpread = Разброс останавливающих зарядов.

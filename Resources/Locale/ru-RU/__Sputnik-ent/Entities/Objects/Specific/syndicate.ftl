@@ -1,4 +1,3 @@
-# Corvax-HiddenDesc-Start
 ent-Telecrystal = красный кристалл
     .desc = Похоже, он переливается подозрительно манящей энергией.
     .suffix = 100 ТК, Телекристалл
@@ -38,6 +37,3 @@ ent-BaseUplinkRadioDebug = { ent-BaseUplinkRadio }
 ent-BaseUplinkContractor = аплинк Наёмника
     .desc = Карманный терминал, дающий доступ к Гильдийскому магазину и доске заказов.
     .suffix = Пустой
-
-# Corvax-HiddenDesc-End
-
