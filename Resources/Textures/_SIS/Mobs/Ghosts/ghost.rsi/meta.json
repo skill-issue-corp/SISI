@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Taken from https://github.com/MetalSage/space-stories-14/commit/7775d9e8622bd036d976ab53ac977164751f3a56",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "states": [
+      {
+        "name": "icon"
+      }
+    ]
+}
