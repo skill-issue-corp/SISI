@@ -1,4 +1,4 @@
-﻿namespace Content.SIS.Shared.Cooling;
+﻿namespace Content.SIS.Server.Cooling;
 
 [RegisterComponent]
 public sealed partial class CoolingComponent : Component

@@ -2,7 +2,7 @@
 using Content.Shared.Nutrition;
 using Content.Shared.Nutrition.Components;
 
-namespace Content.SIS.Shared.Cooling;
+namespace Content.SIS.Server.Cooling;
 
 public sealed class CoolingSystem : EntitySystem
 {
@@ -38,6 +38,7 @@ public sealed class CoolingSystem : EntitySystem
     {
         if (!TryComp<EdibleComponent>(entity, out var edibleComp))
             return;
+
         if (!eat.Cancelled)
         {
             edibleComp.TransferAmount *= 2;
