@@ -1,0 +1,9 @@
+#General
+- type: entity
+  parent: AirlockAssembly
+  id: AirlockAssemblyGeneral
+  suffix: General
+  components:
+  - type: Sprite
+    sprite: _SIS/Structures/Doors/Airlocks/Standard/general.rsi
+    state: "assembly"
