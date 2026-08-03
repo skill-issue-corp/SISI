@@ -1,6 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
-using Content.SIS.Shared.Ghost;
 using Content.Inky.Common.Medical;
 using Content.Shared.Body;
 using Content.Shared.Ghost;
