@@ -1,0 +1,11 @@
+- type: Tag
+  id: BorgModuleSecurity # Cyborg module category for security
+
+- type: Tag
+  id: BasePsiPka
+
+- type: Tag
+  id: RedBrain
+
+- type: Tag
+  id: BlueBrain
