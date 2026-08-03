@@ -1,0 +1,21 @@
+- type: entity
+  id: ToolboxClown
+  name: набор хонконеопределённости
+  description: ХОНК!
+  parent: [ BaseItem ]
+  components:
+  - type: Sprite
+    sprite: Objects/Tools/Toolboxes/foolbox.rsi
+    state: icon
+  - type: ThiefUndeterminedBackpack
+    maxSelectedSets: 1
+    possibleSets:
+    - AnnoyingSet
+    - ClothSet
+    - GunsSet
+  - type: ActivatableUI
+    key: enum.ThiefBackpackUIKey.Key
+  - type: UserInterface
+    interfaces:
+      enum.ThiefBackpackUIKey.Key:
+        type: ThiefBackpackBoundUserInterface

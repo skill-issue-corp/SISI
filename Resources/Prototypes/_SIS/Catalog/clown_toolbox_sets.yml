@@ -1,0 +1,56 @@
+- type: thiefBackpackSet
+  id: AnnoyingSet
+  name: clown-backpack-category-annoying-name
+  description: clown-backpack-category-annoying-description
+  sprite:
+    sprite: Mobs/Silicon/Bots/honkbot.rsi
+    state: honkbot
+  content:
+  - ClothingMaskBlushingClown
+  - PushHorn
+  - MobHonkBot
+  - TrashBananaPeel
+  - TrashMimanaPeel
+  - TrashBananiumPeel
+  - TrashBakedBananaPeel
+  - SoapOmega
+  - ToyHammer
+
+- type: thiefBackpackSet
+  id: ClothSet
+  name: clown-backpack-category-cloth-name
+  description: clown-backpack-category-cloth-description
+  sprite:
+    sprite:  Clothing/Back/Backpacks/ertclown.rsi
+    state: icon
+  content:
+  - MaterialBananium1
+  - ClothingMaskClownBanana
+  - ClothingUniformJumpsuitClownBanana
+  - ClothingShoesClownBanana
+  - ClothingOuterHardsuitClown
+  - PlushieLizardJobClown
+  - ClothingBackpackERTClown
+
+- type: thiefBackpackSet
+  id: GunsSet
+  name: clown-backpack-category-guns-name
+  description: clown-backpack-category-guns-description
+  sprite:
+    sprite: Objects/Weapons/Guns/Cannons/pie_cannon.rsi
+    state: piecannon
+  content:
+  - LauncherCreamPie
+  - FoodPieBananaCream
+  - FoodPieBananaCream
+  - FoodPieBananaCream
+  - FoodPieBananaCream
+  - FoodPieBananaCream
+  - FoodPieBananaCream
+  - ClothingMaskClownSecurity
+  - GrenadeDummy
+  - GrenadeFoamDart
+  - SyndieTrickyBomb
+  - GrenadeFlashBang
+  - MonkeyCubeWrapped
+
