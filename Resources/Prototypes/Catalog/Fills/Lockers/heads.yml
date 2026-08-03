@@ -288,6 +288,7 @@
     - id: RubberStampRd
     - id: PlushieLizardJobResearchdirector
       prob: 0.02
+    - id: PsiPka # SIS
 
 # Hardsuit table, used for suit storage as well
 - type: entityTable
@@ -352,6 +353,7 @@
     - id: DrinkHosFlask
     - id: PlushieLizardJobHeadofsecurity
       prob: 0.02
+    - id: BorgModuleDrozd # SIS
 
 # Hardsuit table, used for suit storage as well
 - type: entityTable

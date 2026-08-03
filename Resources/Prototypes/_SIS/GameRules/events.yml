@@ -1,0 +1,25 @@
+- type: entity
+  id: RedPsiMonkeySpawn
+  parent: BaseStationEventShortDelay
+  components:
+  - type: StationEvent
+    startAnnouncement: station-event-vent-creatures-start-announcement
+    startAudio:
+      path: /Audio/Announcements/attention.ogg
+    earliestStart: 20
+    minimumPlayers: 10
+    weight: 5
+    duration: 60
+  - type: VentCrittersRule
+    entries:
+    - id: MobFirePsiMonkey
+      prob: 0.01
+
+- type: entity
+  id: BluePsiMonkeySpawn
+  parent: RedPsiMonkeySpawn
+  components:
+  - type: VentCrittersRule
+    entries:
+    - id: MobIcePsiMonkey
+      prob: 0.02

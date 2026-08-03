@@ -1,0 +1,70 @@
+- type: constructionGraph
+  id: WeaponPsiPsioPka
+  start: start
+  graph:
+    - node: start
+      edges:
+        - to: weaponPsiPsioPka
+          steps:
+            - tag: BasePsiPka
+              name: construction-graph-tag-psi-pka
+              icon:
+                sprite: _SIS/Objects/Weapons/psipka.rsi
+                state: icon-base
+              doAfter: 1
+            - tag: RedBrain
+              name: construction-graph-tag-red-brain
+              icon:
+                sprite: _SIS/Objects/Specific/Research/psimonkey_brain.rsi
+                state: icon-red
+            - tag: BlueBrain
+              name: construction-graph-tag-blue-brain
+              icon:
+                sprite: _SIS/Objects/Specific/Research/psimonkey_brain.rsi
+                state: icon-blue
+    - node: weaponPsiPsioPka
+      entity: WeaponPsiPsioPka
+
+- type: constructionGraph
+  id: WeaponPsiPyroPka
+  start: start
+  graph:
+    - node: start
+      edges:
+        - to: weaponPsiPyroPka
+          steps:
+            - tag: BasePsiPka
+              name: construction-graph-tag-psi-pka
+              icon:
+                sprite: _SIS/Objects/Weapons/psipka.rsi
+                state: icon-base
+              doAfter: 1
+            - tag: RedBrain
+              name: construction-graph-tag-red-brain
+              icon:
+                sprite: _SIS/Objects/Specific/Research/psimonkey_brain.rsi
+                state: icon-red
+    - node: weaponPsiPyroPka
+      entity: WeaponPsiPyroPka
+
+- type: constructionGraph
+  id: WeaponPsiCryoPka
+  start: start
+  graph:
+    - node: start
+      edges:
+        - to: weaponPsiCryoPka
+          steps:
+            - tag: BasePsiPka
+              name: construction-graph-tag-psi-pka
+              icon:
+                sprite: _SIS/Objects/Weapons/psipka.rsi
+                state: icon-base
+              doAfter: 1
+            - tag: BlueBrain
+              name: construction-graph-tag-blue-brain
+              icon:
+                sprite: _SIS/Objects/Specific/Research/psimonkey_brain.rsi
+                state: icon-blue
+    - node: weaponPsiCryoPka
+      entity: WeaponPsiCryoPka

@@ -28,6 +28,10 @@
     #- id: SpiderSpawnHorde
     # </Trauma>
     - id: VentClog
+    # SIS-Start
+    - id: BluePsiMonkeySpawn
+    - id: RedPsiMonkeySpawn
+    # SIS-End
 
 - type: entityTable
   id: BasicAntagEventsTable

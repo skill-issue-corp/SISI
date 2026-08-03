@@ -1,0 +1,29 @@
+- type: entity
+  parent: ResearchDisk
+  id: PsiMonkeyBlueBrain
+  name: blue brain
+  description: The strange-looking blue brain extracted from the psy-monkey's skull holds scientific value.
+  components:
+  - type: Tag
+    tags:
+    - BlueBrain
+  - type: ResearchDisk
+    points: 1000
+  - type: Sprite
+    sprite: _SIS/Objects/Specific/Research/psimonkey_brain.rsi
+    state: icon-blue
+
+- type: entity
+  parent: ResearchDisk
+  id: PsiMonkeyRedBrain
+  name: red brain
+  description: The strange-looking red brain extracted from the psy-monkey's skull holds great scientific value.
+  components:
+  - type: Tag
+    tags:
+    - RedBrain
+  - type: ResearchDisk
+    points: 2000
+  - type: Sprite
+    sprite: _SIS/Objects/Specific/Research/psimonkey_brain.rsi
+    state: icon-red

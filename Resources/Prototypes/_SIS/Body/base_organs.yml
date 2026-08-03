@@ -1,0 +1,18 @@
+- type: entity
+  parent: OrganBase
+  id: OrganBaseHandLeftDecorative
+  name: left hand
+  abstract: true
+  components:
+  - type: Organ
+    category: HandLeft
+  - type: Sprite
+    state: l_hand
+  - type: VisualOrgan
+    layer: enum.HumanoidVisualLayers.LHand
+    data:
+      state: l_hand
+  - type: VisualOrganMarkings
+    markingData:
+      layers:
+      - LHand

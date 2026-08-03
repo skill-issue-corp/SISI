@@ -1,0 +1,23 @@
+- type: construction
+  id: WeaponPsiPsioPka
+  graph: WeaponPsiPsioPka
+  startNode: start
+  targetNode: weaponPsiPsioPka
+  category: construction-category-weapons
+  objectType: Item
+
+- type: construction
+  id: WeaponPsiPyroPka
+  graph: WeaponPsiPyroPka
+  startNode: start
+  targetNode: weaponPsiPyroPka
+  category: construction-category-weapons
+  objectType: Item
+
+- type: construction
+  id: WeaponPsiCryoPka
+  graph: WeaponPsiCryoPka
+  startNode: start
+  targetNode: weaponPsiCryoPka
+  category: construction-category-weapons
+  objectType: Item

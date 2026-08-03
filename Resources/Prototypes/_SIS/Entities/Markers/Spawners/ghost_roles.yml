@@ -1,0 +1,12 @@
+- type: entity
+  id: SpawnPointGhostPsiBasilisk
+  name: ghost role spawn point
+  suffix: PsiBasilisk
+  parent: SpawnPointGhostRemilia
+  components:
+  - type: GhostRole
+    name: ghost-role-information-psibasilisk-name
+    description: ghost-role-information-psibasilisk-description
+    rules: ghost-role-information-familiar-rules
+  - type: GhostRoleMobSpawner
+    prototype: MobPsiBasilisk

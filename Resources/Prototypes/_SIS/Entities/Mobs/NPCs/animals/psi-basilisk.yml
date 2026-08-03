@@ -1,0 +1,10 @@
+- type: entity
+  id: MobPsiBasilisk
+  parent: MobBasilisk
+  name: psi basilisk
+  description: An icy psi version of the "basilisk" that has intelligence and freedom of thought.
+  components:
+  - type: MobThresholds
+    thresholds:
+      0: Alive
+      20: Dead

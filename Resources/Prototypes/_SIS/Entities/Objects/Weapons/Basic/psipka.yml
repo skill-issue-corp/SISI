@@ -1,0 +1,177 @@
+- type: entity
+  parent: BaseItem
+  id: PsiPka
+  name: White-Base Psi Accelerator
+  description: A tool that allows any sentient being to control the psi field. Requires a psi monkey brain to function.
+  components:
+  - type: Sprite
+    sprite: _SIS/Objects/Weapons/psipka.rsi
+    state: icon-base
+  - type: Item
+    sprite: _SIS/Objects/Weapons/psipka.rsi
+    size: Large
+    shape:
+    - 0,0,2,1
+  - type: Tag
+    tags:
+    - BasePsiPka
+
+- type: entity
+  name: White-Pyro Psi Accelerator
+  parent: PsiPka
+  id: WeaponPsiPyroPka
+  description: A psi-accelerator configuration that allows you to create fire matter using a psi field.
+  components:
+  - type: Sprite
+    state: icon-red
+  - type: Gun
+    fireRate: 0.5
+    selectedMode: SemiAuto
+    availableModes:
+    - SemiAuto
+    soundGunshot:
+      path: /Audio/Weapons/Guns/Gunshots/syringe_gun.ogg
+    projectileSpeed: 15
+  - type: AmmoCounter
+  - type: Appearance
+  - type: RechargeBasicEntityAmmo
+    rechargeCooldown: 15
+    rechargeSound:
+      path: /Audio/Machines/lightswitch.ogg
+  - type: BasicEntityAmmoProvider
+    proto: BoltPyrokinesis
+    capacity: 3
+    count: 1
+  - type: Construction
+    graph: WeaponPsiPyroPka
+    node: weaponPsiPyroPka
+  - type: Tag
+    tags: [ ]
+
+- type: entity
+  parent: WatcherBoltMagmawing
+  id: BoltPyrokinesis
+  name: pyrokinesis bolt
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: Reflective
+    reflective:
+    - Energy
+  - type: Projectile
+    impactEffect: BulletImpactEffectOrangeDisabler
+    damage:
+      types:
+        Heat: 10
+  - type: ChangeTemperatureOnCollide
+    heat: 0
+  - type: IgniteOnCollide
+    fireStacks: 1
+    
+- type: entity
+  name: White-Cryo Psi Accelerator
+  parent: PsiPka
+  id: WeaponPsiCryoPka
+  description: A psi-accelerator configuration that allows you to create ice matter using a psi field
+  components:
+  - type: Sprite
+    state: icon-blue
+  - type: Gun
+    fireRate: 0.5
+    selectedMode: SemiAuto
+    availableModes:
+    - SemiAuto
+    soundGunshot:
+      path: /Audio/Weapons/Guns/Gunshots/syringe_gun.ogg
+    projectileSpeed: 10
+  - type: Construction
+    graph: WeaponPsiCryoPka
+    node: weaponPsiCryoPka
+  - type: AmmoCounter
+  - type: Appearance
+  - type: RechargeBasicEntityAmmo
+    rechargeCooldown: 15
+    rechargeSound:
+      path: /Audio/Machines/lightswitch.ogg
+  - type: BasicEntityAmmoProvider
+    proto: CryokinesPsiPkaRay
+    capacity: 3
+    count: 1
+  - type: UseDelay
+    delay: 1
+  - type: Summonable
+    specialItem: SpawnPointGhostPsiBasilisk
+    requiresBibleUser: false
+  - type: Tag
+    tags: [ ]
+
+- type: entity
+  parent: CryokinesRay
+  id: CryokinesPsiPkaRay
+  name: cryokinetic projectile
+  description: A powerful surge of psi energy.
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: ChangeTemperatureOnCollide
+    heat: -150000
+
+- type: entity
+  name: White-Psio Psi Accelerator
+  parent: PsiPka
+  id: WeaponPsiPsioPka
+  description: A psi-accelerator configuration that allows for deeper interaction with the psi field itself
+  components:
+  - type: Sprite
+    state: icon-both
+  - type: Gun
+    fireRate: 0.5
+    selectedMode: SemiAuto
+    availableModes:
+    - SemiAuto
+    soundGunshot:
+      path: /Audio/Weapons/emitter.ogg
+    projectileSpeed: 125
+  - type: Construction
+    graph: WeaponPsiPsioPka
+    node: weaponPsiPsioPka
+  - type: AmmoCounter
+  - type: Appearance
+  - type: RechargeBasicEntityAmmo
+    rechargeCooldown: 30
+    rechargeSound:
+      path: /Audio/Machines/lightswitch.ogg
+  - type: BasicEntityAmmoProvider
+    proto: BulletTaser
+    capacity: 2
+    count: 1
+  - type: PsiPka
+    strikeAction: ActionPsionikStrike
+  - type: Tag
+    tags: [ ]
+
+- type: entity
+  name : psionic surge
+  id: PsionikalBullet
+  parent: BulletDisablerPractice
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: StaminaDamageOnCollide
+    damage: 95
+
+- type: entity
+  parent: BaseAction
+  id: ActionPsionikStrike
+  name: psionic surge
+  description: Accelerate the psi-field around you to the limit, concentrating it in 1 point. When it comes into contact with a living being, it severely affects it.
+  components:
+  - type: Action
+    useDelay: 60
+    itemIconStyle: BigAction
+    icon:
+      sprite: _SIS/Objects/Actions/psipka.rsi
+      state: ability
+  - type: TargetAction
+    range: 120
+    checkCanAccess: false
+  - type: WorldTargetAction
+    event: !type:ProjectileSpellEvent
+      prototype: PsionikalBullet
