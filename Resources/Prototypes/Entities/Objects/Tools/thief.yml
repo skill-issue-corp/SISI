@@ -74,6 +74,7 @@
         - ThiefSleeperSet
         - ThiefCommunicatorSet
         - ThiefSmugglerSet
+        - StealthSet # SIS
       maxSelectedSets: 2
 # Goobstation - SetSelector rework - end
 

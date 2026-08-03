@@ -1,0 +1,15 @@
+- type: selectableSet
+  id: StealthSet
+  name: thief-backpack-category-stealth-name
+  description: thief-backpack-category-stealth-description
+  sprite:
+    sprite: Objects/Devices/camera_bug.rsi
+    state: camera_bug
+  content:
+  - ClothingShoesBootsMoon
+  - StealthBox
+  - Stimpack
+  - Stimpack
+  - ScramImplanter
+  - EmpImplanter
+  - CameraBug
