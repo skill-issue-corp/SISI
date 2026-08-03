@@ -37,6 +37,18 @@
     implants:
     - MindShieldImplant
     - DeathRattleImplantCentcomm
+  # SIS-Start
+  speciesBlacklist:
+  - Arachnid
+  - Diona
+  - Dwarf
+  - Moth
+  - Reptilian
+  - SlimePerson
+  - Vox
+  - Vulpkanin
+  - Kobold
+  # SIS-End
 
 ## Death Squad
 
