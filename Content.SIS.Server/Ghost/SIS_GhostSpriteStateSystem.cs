@@ -1,0 +1,51 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
+using Content.SIS.Shared.Ghost;
+using Content.Inky.Common.Medical;
+using Content.Shared.Body;
+using Content.Shared.Ghost;
+using Content.Shared.Mind.Components;
+using Robust.Shared.Prototypes;
+using Robust.Shared.Random;
+
+namespace Content.SIS.Server.Ghost;
+
+public sealed partial class SIS_GhostSpriteStateSystem : EntitySystem
+{
+    [Dependency] private SharedAppearanceSystem _appearance = default!;
+    [Dependency] private BodySystem _body = default!;
+    [Dependency] private IRobustRandom _random = default!;
+
+    private static readonly ProtoId<OrganCategoryPrototype> BrainOrganCategory = "Brain";
+    private const string GhostSpriteState = "ghost_Autism";
+
+    public override void Initialize()
+    {
+        SubscribeLocalEvent<SISGhostSpriteStateComponent, MindAddedMessage>(OnGhostMindAdded);
+    }
+
+    private void OnGhostMindAdded(EntityUid uid, SISGhostSpriteStateComponent component, MindAddedMessage args)
+    {
+        if (_random.Prob(component.Chance))
+        {
+            SetGhostState(uid, GhostSpriteState);
+            return;
+        }
+
+        if (HasAutism(args.TransferEntity))
+            SetGhostState(uid, GhostSpriteState);
+    }
+
+    private void SetGhostState(EntityUid uid, string state)
+    {
+        if (TryComp<AppearanceComponent>(uid, out var appearance))
+            _appearance.SetData(uid, GhostVisuals.Damage, state, appearance);
+    }
+
+    private bool HasAutism(EntityUid? body)
+    {
+        return body is { } ent
+            && _body.GetOrgan(ent, BrainOrganCategory) is { } brain
+            && HasComp<AutismComponent>(brain);
+    }
+}
