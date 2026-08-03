@@ -1,0 +1,10 @@
+- type: entity
+  parent: BaseMentalAction
+  id: RespawnAction
+  name: Revival
+  description: Rebirth in a new guise. It takes 10 minutes to recharge.
+  components:
+  - type: Action
+    icon: { sprite: _SIS/Mobs/Ghosts/ghost.rsi, state: icon }
+  - type: InstantAction
+    event: !type:RespawnActionEvent
