@@ -1,0 +1,62 @@
+#Chemicals
+
+- type: listing
+  id: UplinkSyndiHypo
+  name: uplink-syndihypo-name
+  description: uplink-syndihypo-desc
+  icon: { sprite: Objects/Specific/Medical/syndihypo.rsi, state: hypo }
+  productEntity: SyndiHypo
+  discountCategory: rareDiscounts
+  discountDownTo:
+    Telecrystal: 12
+  cost:
+    Telecrystal: 14
+  categories:
+  - UplinkChemicals
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - NukeOpsUplink
+  - !type:BuyerWhitelistCondition
+    blacklist:
+      components:
+      - SurplusBundle
+
+# Guns
+
+- type: listing
+  id: FireAxeFlaming
+  name: uplink-FireAxeFlaming
+  description: uplink-FireAxeFlaming.desc
+  productEntity: FireAxeFlaming
+  discountCategory: rareDiscounts
+  discountDownTo:
+    Telecrystal: 10
+  cost:
+    Telecrystal: 13
+  categories:
+  - UplinkWeaponry
+
+- type: listing
+  id: UplinkMasterGloves
+  name: uplink-master-gloves-name
+  description: uplink-msater-gloves-desc
+  productEntity: MasterGloves
+  discountCategory: rareDiscounts
+  discountDownTo:
+    Telecrystal: 3
+  cost:
+    Telecrystal: 6
+  categories:
+  - UplinkWeaponry
+
+- type: listing
+  id: UplinkEnergyBlaster
+  name: uplink-energy-blaster-name
+  description: uplink-energy-blaster-desc
+  productEntity: WeaponEnergyBlaster
+  cost:
+    Telecrystal: 4
+  categories:
+  - UplinkWeaponry
