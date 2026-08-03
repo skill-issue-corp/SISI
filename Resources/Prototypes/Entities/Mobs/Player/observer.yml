@@ -120,10 +120,6 @@
       Poison: 1
       Asphyxiation: 1
     prefix: "ghost_"
-  # SIS-Start
-  - type: SIS_GhostSpriteState
-    chance: 0.65
-  # SIS-End
   - type: GhostHearing
   - type: ShowElectrocutionHUD
   - type: IntrinsicRadioReceiver
@@ -143,6 +139,7 @@
     noiseAmount: 0 # In case default values change
     noiseMultiplier: 0 # In case default values change
   # SIS-Start
+  - type: SIS_GhostSpriteState
   - type: MovementSpeedModifier
     baseWalkSpeed: 24
   # SIS-End
