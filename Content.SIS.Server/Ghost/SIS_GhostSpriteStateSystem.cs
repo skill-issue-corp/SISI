@@ -21,10 +21,10 @@ public sealed partial class SIS_GhostSpriteStateSystem : EntitySystem
 
     public override void Initialize()
     {
-        SubscribeLocalEvent<SISGhostSpriteStateComponent, MindAddedMessage>(OnGhostMindAdded);
+        SubscribeLocalEvent<SIS_GhostSpriteStateComponent, MindAddedMessage>(OnGhostMindAdded);
     }
 
-    private void OnGhostMindAdded(EntityUid uid, SISGhostSpriteStateComponent component, MindAddedMessage args)
+    private void OnGhostMindAdded(EntityUid uid, SIS_GhostSpriteStateComponent component, MindAddedMessage args)
     {
         if (_random.Prob(component.Chance))
         {
@@ -32,20 +32,18 @@ public sealed partial class SIS_GhostSpriteStateSystem : EntitySystem
             return;
         }
 
-        if (HasAutism(args.TransferEntity))
+        if (args.TransferEntity is { } ent
+            && _body.GetOrgan(ent, BrainOrganCategory) is { } brain
+            && HasComp<AutismComponent>(brain))
+        {
             SetGhostState(uid, GhostSpriteState);
+            return;
+        }
     }
 
     private void SetGhostState(EntityUid uid, string state)
     {
         if (TryComp<AppearanceComponent>(uid, out var appearance))
             _appearance.SetData(uid, GhostVisuals.Damage, state, appearance);
-    }
-
-    private bool HasAutism(EntityUid? body)
-    {
-        return body is { } ent
-            && _body.GetOrgan(ent, BrainOrganCategory) is { } brain
-            && HasComp<AutismComponent>(brain);
     }
 }
