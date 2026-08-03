@@ -272,7 +272,7 @@
 - type: construction
   id: DiagonalShuttleWall
   name: construction-recipe-diagonal-shuttle-wall
-  graph: Girder
+  graph: DiagonalGirder # SIS
   startNode: start
   targetNode: diagonalshuttleWall
   category: construction-category-structures
