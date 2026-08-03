@@ -6,7 +6,7 @@ namespace Content.SIS.Server.Ghost;
 /// Ghost with this component has a chance to spawn with a custom sprite instead of the default one.
 /// </summary>
 [RegisterComponent]
-public sealed partial class SISGhostSpriteStateComponent : Component
+public sealed partial class MyTestComponent : Component
 {
     /// <summary>
     /// Chance to get the custom sprite, configurable through the prototype.
