@@ -3,13 +3,55 @@
 ## Mob
 
 - type: markingsGroup
+  parent: Undergarments
   id: Kobold
   onlyGroupWhitelisted: true
   limits:
+    enum.HumanoidVisualLayers.Hair:
+      limit: 0
+      required: false
+    enum.HumanoidVisualLayers.FacialHair:
+      limit: 0
+      required: false
+    enum.HumanoidVisualLayers.Tail:
+      limit: 1
+      required: true
+      default: [ LizardTailSmooth ]
+    enum.HumanoidVisualLayers.Chest:
+      limit: 3
+      required: false
+    enum.HumanoidVisualLayers.Snout:
+      limit: 1
+      required: true
+      default: [ LizardSnoutRound ]
     enum.HumanoidVisualLayers.HeadTop:
       limit: 2
       required: false
     enum.HumanoidVisualLayers.HeadSide:
+      limit: 1
+      required: false
+    enum.HumanoidVisualLayers.LArm:
+      limit: 1
+      required: false
+    enum.HumanoidVisualLayers.RArm:
+      limit: 1
+      required: false
+    enum.HumanoidVisualLayers.LHand:
+      limit: 1
+      required: false
+    enum.HumanoidVisualLayers.RHand:
+      limit: 1
+      required: false
+    enum.HumanoidVisualLayers.LLeg:
+      limit: 1
+      required: false
+    enum.HumanoidVisualLayers.RLeg:
+      limit: 1
+      required: false
+    enum.HumanoidVisualLayers.LFoot:
+      limit: 1
+      required: false
+    enum.HumanoidVisualLayers.RFoot:
       limit: 1
       required: false
 
@@ -64,12 +106,12 @@
   id: OrganKoboldExternal
   components:
   - type: Sprite
-    sprite: Mobs/Animals/kobold.rsi
+    sprite: _SIS/Mobs/Species/Kobold/parts.rsi
   - type: VisualOrgan
     data:
       sprite: Mobs/Animals/kobold.rsi
     secondData: # inkymed
-      sprite: Mobs/Animals/kobold.rsi
+      sprite: _SIS/Mobs/Species/Kobold/parts.rsi
   - type: VisualOrganMarkings
     markingData:
       group: Kobold
@@ -83,10 +125,18 @@
   - type: VisualOrganMarkings
     markingData:
       group: None # no undergarments, i cbf to make a kobold specific one
+    hideableLayers:
+    - enum.HumanoidVisualLayers.Tail
 
 - type: entity
   parent: [ OrganBaseHeadBald, OrganKoboldExternal ]
   id: OrganKoboldHead
+  components:
+  - type: VisualOrganMarkings
+    hideableLayers:
+    - enum.HumanoidVisualLayers.Snout
+    - enum.HumanoidVisualLayers.HeadTop
+    - enum.HumanoidVisualLayers.HeadSide
 
 - type: entity
   parent: [ OrganBaseTail, OrganKoboldExternal ]
@@ -101,7 +151,7 @@
   id: OrganKoboldArmRight
 
 - type: entity
-  parent: [ OrganBaseHandLeft, OrganKoboldExternal ]
+  parent: [ OrganBaseHandLeftDecorative, OrganKoboldExternal ] # SIS
   id: OrganKoboldHandLeft
 
 - type: entity
