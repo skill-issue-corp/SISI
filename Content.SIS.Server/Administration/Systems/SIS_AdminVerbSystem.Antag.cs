@@ -11,7 +11,7 @@ using Robust.Shared.Utility;
 
 namespace Content.SIS.Server.Administration.Systems;
 
-public sealed partial class SISAdminVerbSystem
+public sealed partial class SIS_AdminVerbSystem
 {
     [Dependency] private AntagSelectionSystem _antag = default!;
     [Dependency] private IRobustRandom _random = default!;
