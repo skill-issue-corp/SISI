@@ -8,10 +8,6 @@
     },
     "states": [
         {
-            "name": "ghost_Autism",
-            "directions": 4
-        },
-        {
             "name": "ghost_Reincarnation",
             "directions": 4
         }
