@@ -8,8 +8,7 @@
     },
     "states": [
         {
-            "name": "ghost_Reincarnation",
-            "directions": 4
+            "name": "ghost_Reincarnation"
         }
     ]
 }
