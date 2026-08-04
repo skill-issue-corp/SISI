@@ -103,7 +103,7 @@ public static class ServerPackaging
                 ArgumentList =
                 {
                     "build",
-                    Path.Combine("Content.SIS.Server", "Content.SIS.Server.csproj"), // Trauma - Trauma.Server depends on everything // SISI
+                    Path.Combine("Content.SIS.Server", "Content.SIS.Server.csproj"), // Trauma - Trauma.Server depends on everything // SIS-Modules
                     "-c", configuration,
                     "--nologo",
                     "/v:m",
@@ -182,7 +182,7 @@ public static class ServerPackaging
         // Additional assemblies that need to be copied such as EFCore.
         var sourcePath = Path.Combine(contentDir, "bin", "Content.Server");
 
-        var deps = DepsHandler.Load(Path.Combine(sourcePath, "Content.Inky.Server.deps.json")); // inky edit - fix client crash?
+        var deps = DepsHandler.Load(Path.Combine(sourcePath, "Content.SIS.Server.deps.json")); // inky edit - fix client crash? // SIS-Modules
 
         var contentAssemblies = GetContentAssemblyNamesToCopy(deps);
 
@@ -227,7 +227,7 @@ public static class ServerPackaging
     /// </summary>
     public static IEnumerable<string> GetContentAssemblyNamesToCopy(DepsHandler deps, string side)
     {
-        var depsContent = deps.RecursiveGetLibrariesFrom($"Content.Inky.{side}").SelectMany(GetLibraryNames); // inky edit - fix client crash?
+        var depsContent = deps.RecursiveGetLibrariesFrom($"Content.SIS.{side}").SelectMany(GetLibraryNames); // inky edit - fix client crash? // SIS-Modules
         var depsRobust = deps.RecursiveGetLibrariesFrom($"Robust.{side}").SelectMany(GetLibraryNames); // Trauma
 
         var depsContentExclusive = depsContent.Except(depsRobust).ToHashSet();
