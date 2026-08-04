@@ -90,6 +90,7 @@
           ghost_Explosion0: { state: ghost_Explosion0 }
           ghost_Explosion1: { state: ghost_Explosion1 }
           ghost_Explosion2: { state: ghost_Explosion2 }
+          ghost_Autism: { sprite: _SIS/Mobs/Ghosts/ghost.rsi, state: ghost_Autism } # SIS
   - type: ContentEye
     maxZoom: 1.44,1.44
   - type: Eye
@@ -138,6 +139,7 @@
     noiseAmount: 0 # In case default values change
     noiseMultiplier: 0 # In case default values change
   # SIS-Start
+  - type: SIS_GhostSpriteState
   - type: MovementSpeedModifier
     baseWalkSpeed: 24
   # SIS-End
