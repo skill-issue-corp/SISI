@@ -6,7 +6,6 @@
   description: uplink-syndihypo-desc
   icon: { sprite: Objects/Specific/Medical/syndihypo.rsi, state: hypo }
   productEntity: SyndiHypo
-  discountCategory: rareDiscounts
   discountDownTo:
     Telecrystal: 12
   cost:
@@ -30,7 +29,6 @@
   name: uplink-FireAxeFlaming
   description: uplink-FireAxeFlaming.desc
   productEntity: FireAxeFlaming
-  discountCategory: rareDiscounts
   discountDownTo:
     Telecrystal: 10
   cost:
@@ -43,7 +41,6 @@
   name: uplink-master-gloves-name
   description: uplink-msater-gloves-desc
   productEntity: MasterGloves
-  discountCategory: rareDiscounts
   discountDownTo:
     Telecrystal: 3
   cost:
