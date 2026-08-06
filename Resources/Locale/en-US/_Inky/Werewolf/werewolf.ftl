@@ -6,14 +6,14 @@ role-subtype-werewolf = Werewolf
 roles-antag-werewolf-name = Werewolf
 roles-antag-werewolf-desc = Whether by infection or hereditary genes, you’ve been given the curse and/or gift of Lycanthropy! Aren’t you special?
 werewolf-role-greeting = I am the Werewolf. Unbeknownst to my employers, I have been cursed with Lycanthropy. I must ensure my survival on this station, and keep well fed. Secrecy is my weapon, I must ensure that nobody finds out my real identity.
+werewolf-round-end-summary = {$name} was a werewolf, who has bit {$points} amount of people.
 
 werewolf-action-fail-hunger = You are too hungry to do that right now.
 werewolf-action-fail-transfurmed = You cant use it while being in inferior form.
 
 werewolf-transfurm-block = Something is blocking you transforming...
-werewolf-transfurm-cooldown = We are not yet ready. {$remainingTime} seconds left to transform.
+werewolf-transfurm-cooldown = We are not yet ready. { $remainingTime } seconds left to transform.
 werewolf-mutation-changed = You feel yourself shift.
-werewolf-devour-fail-devoured = There is nothing left to devour here.
 werewolf-devour-fail-werewolf = It smells a wolf... You cant devour it.
 werewolf-devour-start = {$user} bites into the {$target} arm!
 werewolf-gut-start = {$user} guts into {$target} torso!
@@ -31,7 +31,8 @@ werewolf-bequeath-triggered = You feel that the leader has died. You take over h
 werewolf-ability-upgraded = You feel stronger.
 werewolf-action-regen-success = You feel your body recovering.
 werewolf-gut-fail-mind = You are above to eat this.
-
+werewolf-black-lunar-popup = You start hearing the moon's glow.
+werewolf-white-lunar-popup = You start hearing the evil furries.
 werewolf-black-call-success = Reliquish your Humanity, and give in to your instincts, it is time to show the station your true identity.
 werewolf-black-call-fail-amount = You need more people in your pack to do that!
 
@@ -116,7 +117,7 @@ werewolf-store-black-bequeath-desc = Crown a werewolf from your pack to be the n
 werewolf-store-black-beckon-name = Beckon
 werewolf-store-black-beckon-desc = Transmits your current location into the lunarmind.
 
-werewolf-store-black-call-name = The Call
-werewolf-store-black-call-desc = The final stage of accepting your true form. Requires you to have minimum of 4 pack members to activate.
+werewolf-black-call-name = The Call
+werewolf-black-call-desc = The final stage of accepting your true form. Requires you to have minimum of 4 pack members to activate.
     After use, you and everyone in your pack will become PERMANENTLY transformed, having their health doubled.
     Sets the station alert to violet, single use.

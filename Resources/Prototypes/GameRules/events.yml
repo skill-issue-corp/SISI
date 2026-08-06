@@ -422,6 +422,10 @@
     weight: 5
     duration: 60
   - type: VentClogRule
+    weakReagents: #Inky
+    - Slime
+    - SpaceGlue
+    - SpaceLube
 
 # Critters
 

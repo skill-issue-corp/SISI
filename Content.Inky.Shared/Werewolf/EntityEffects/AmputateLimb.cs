@@ -2,6 +2,7 @@ using System.Linq;
 using Content.Medical.Shared.Wounds;
 using Content.Shared.Body;
 using Content.Shared.EntityEffects;
+using Content.Shared.Random.Helpers;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
 
@@ -13,7 +14,7 @@ namespace Content.Inky.Shared.Werewolf.EntityEffects;
 public sealed partial class AmputateLimb : EntityEffectBase<AmputateLimb>
 {
     [DataField(required: true)]
-    public string LimbName { get; set; } = string.Empty;
+    public ProtoId<OrganCategoryPrototype> LimbName;
 
     public override string? EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
         => null;
@@ -41,11 +42,10 @@ public sealed partial class AmputateLimbEffectSystem : EntityEffectSystem<MetaDa
             })
             .ToList();
 
-        if (limbs.Count <= 0)
+        if (!limbs.Any())
             return;
 
-        var pick = _random.Next(limbs.Count); // in case if someone has two or more of this bodypart, remove a random one
-        var picked = limbs[pick];
+        var picked = _random.Pick(limbs); // in case if someone has two or more of this bodypart, remove a random one
 
         if (!TryComp<WoundableComponent>(picked.Owner, out var wound)
             || !wound.ParentWoundable.HasValue)
