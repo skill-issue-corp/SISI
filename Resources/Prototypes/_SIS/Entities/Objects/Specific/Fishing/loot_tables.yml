@@ -171,13 +171,13 @@
     - id: MobWatcherMagmawing
     - id: MobWatcherIcewing
     - id: MobShark
-    - id: MobXenoRavager
+    - id: CMMobXenoRavager
 
 - type: entityTable
   id: SuperRareEvilMobsTable
   table: !type:GroupSelector
     children:
-    - id: MobXenoQueen
+    - id: CMMobXenoQueen
     - id: MobDragon
 
 - type: entityTable
