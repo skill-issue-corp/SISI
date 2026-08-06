@@ -74,8 +74,9 @@
         - MobLayer
   - type: Thirst
   - type: Icon
-    sprite: _SIS/Mobs/Species/Kobold/parts.rsi
+    sprite: Mobs/Animals/kobold.rsi
     state: full
-  - type: Sprite
-    scale: 0.8, 0.7
   - type: NoSlip
+  - type: Inventory
+    templateId: kobold
+    speciesId: kobold

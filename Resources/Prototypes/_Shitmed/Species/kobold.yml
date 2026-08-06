@@ -3,11 +3,15 @@
 - type: species
   id: Kobold
   name: species-name-kobold
-  roundStart: true
-  prototype: MobKoboldPerson
-  defaultSkinTone: "#34a223"
+  # SIS-Start
+  roundStart: true # sad... # SIS | false
+  prototype: MobKoboldPerson # SIS | MobKobold
+  # SIS-End
   dollPrototype: AppearanceKobold
   skinColoration: Hues
+  defaultSkinTone: "#9a7c5a"
+  # SIS-Start
   maleFirstNames: NamesReptilianMale
   femaleFirstNames: NamesReptilianFemale
   naming: FirstDashFirst
+  # SIS-End
