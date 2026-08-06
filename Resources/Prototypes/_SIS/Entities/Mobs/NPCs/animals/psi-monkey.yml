@@ -58,7 +58,6 @@
     clumsySound:
       path: /Audio/Animals/monkey_scream.ogg
   - type: Butcherable
-    butcheringType: Knife
     spawned:
     - id: PsiMonkeyRedBrain
       amount: 1
@@ -148,7 +147,6 @@
     clumsySound:
       path: /Audio/Animals/monkey_scream.ogg
   - type: Butcherable
-    butcheringType: Knife
     spawned:
     - id: PsiMonkeyBlueBrain
       amount: 1
