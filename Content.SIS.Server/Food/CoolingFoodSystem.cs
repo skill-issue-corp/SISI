@@ -1,6 +1,6 @@
-﻿using Content.Server.Kitchen.Components;
-using Content.Shared.Examine;
+﻿using Content.Shared.Examine;
 using Content.Shared.Nutrition.Components;
+using Content.SIS.Common.Microwave;
 
 namespace Content.SIS.Server.Food;
 
@@ -10,7 +10,7 @@ public sealed class CoolingFoodSystem : EntitySystem
     {
         base.Initialize();
 
-        SubscribeLocalEvent<ActivelyMicrowavedComponent, ComponentStartup>(OnMicrowavedStart);
+        SubscribeLocalEvent<HotFoodBuffComponent, StopMicrowaveEvent>(StopMicrowave);
         SubscribeLocalEvent<CoolingComponent, ExaminedEvent>(OnExamine);
     }
 
@@ -29,12 +29,12 @@ public sealed class CoolingFoodSystem : EntitySystem
         }
     }
 
-    private void OnMicrowavedStart(Entity<ActivelyMicrowavedComponent> ent, ref ComponentStartup args)
+    private void StopMicrowave(EntityUid uid, HotFoodBuffComponent comp, ref StopMicrowaveEvent args)
     {
-        if (!HasComp<EdibleComponent>(ent.Owner))
+        if (!HasComp<EdibleComponent>(comp.Owner))
             return;
 
-        EnsureComp<CoolingComponent>(ent.Owner);
+        EnsureComp<CoolingComponent>(comp.Owner);
     }
 
     private void OnExamine(EntityUid uid, CoolingComponent component, ExaminedEvent args)

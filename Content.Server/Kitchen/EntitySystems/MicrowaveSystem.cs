@@ -42,6 +42,7 @@ using Content.Shared.Chat;
 using Content.Shared.Damage.Components;
 using Content.Shared.Power.EntitySystems;
 using Content.Shared.Temperature.Components;
+using Content.SIS.Common.Microwave;
 
 namespace Content.Server.Kitchen.EntitySystems
 {
@@ -592,6 +593,10 @@ namespace Content.Server.Kitchen.EntitySystems
             {
                 RemCompDeferred<ActivelyMicrowavedComponent>(solid);
             }
+            // SIS-Microwave Start
+            var ev = new StopMicrowaveEvent();
+            RaiseLocalEvent(ent, ref ev);
+            // SIS-Microwave End
         }
 
         public static (FoodRecipePrototype, int) CanSatisfyRecipe(MicrowaveComponent component, FoodRecipePrototype recipe, Dictionary<string, int> solids, Dictionary<string, FixedPoint2> reagents)
