@@ -49,7 +49,6 @@
       301: 0.9
       295: 0.8
       285: 0.7
-  - type: Wagging
   - type: MobThresholds
     thresholds:
       0: Alive
@@ -69,10 +68,16 @@
         layer:
         - MobLayer
   - type: Thirst
-  - type: Icon
-    sprite: Mobs/Animals/kobold.rsi
-    state: full
   - type: NoSlip
   - type: Inventory
     templateId: kobold
     speciesId: kobold
+  - type: LanguageSpeaker
+    speaks:
+    - TauCetiBasic
+    - Kobold
+    - Monkey
+    understands:
+    - TauCetiBasic
+    - Kobold
+    - Monkey
