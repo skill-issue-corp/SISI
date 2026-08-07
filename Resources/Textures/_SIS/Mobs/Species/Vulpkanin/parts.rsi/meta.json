@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from DeltaV at https://github.com/DeltaV-Station/Delta-v/commit/65d35d0b3c20aa4e8a0e749a4de8392e53051e86",
+  "copyright": "Taken from DeltaV at https://github.com/DeltaV-Station/Delta-v/commit/65d35d0b3c20aa4e8a0e749a4de8392e53051e86. human_eyes taken from https://github.com/tgstation/tgstation/blob/8024397cc81c5f47f74cf4279e35728487d0a1a7/icons/mob/human_parts_greyscale.dmi and modified by DrSmugleaf",
   "size": {
     "x": 32,
     "y": 32
@@ -61,9 +61,17 @@
       "name": "overlay_husk",
       "directions": 4
     },
-      {
-      "name": "snout",
+    {
+    "name": "snout",
+    "directions": 4
+    },
+    {
+      "name": "eyes",
       "directions": 4
-      }
+    },
+    {
+      "name": "no_eyes",
+      "directions": 4
+    }
   ]
 }
