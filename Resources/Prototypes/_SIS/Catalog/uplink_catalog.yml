@@ -36,17 +36,20 @@
   categories:
   - UplinkWeaponry
 
-- type: listing
-  id: UplinkMasterGloves
-  name: uplink-master-gloves-name
-  description: uplink-msater-gloves-desc
-  productEntity: MasterGloves
-  discountDownTo:
-    Telecrystal: 3
-  cost:
-    Telecrystal: 6
-  categories:
-  - UplinkWeaponry
+# SIS-TODO: Когда будут давать нормальные искусства тогда врублю
+# SIS-Start
+# - type: listing
+#   id: UplinkMasterGloves
+#   name: uplink-master-gloves-name
+#   description: uplink-msater-gloves-desc
+#   productEntity: MasterGloves
+#   discountDownTo:
+#     Telecrystal: 3
+#   cost:
+#     Telecrystal: 6
+#   categories:
+#   - UplinkWeaponry
+# SIS-End
 
 - type: listing
   id: UplinkEnergyBlaster
