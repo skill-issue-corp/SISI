@@ -3,11 +3,6 @@ uplink-syndihypo-desc = Химический гипоспрей предназн
 uplink-clothing-head-helmet-swat-syndicat-name = Шлем спецназа
 uplink-clothing-head-helmet-swat-syndicat-desc = Очень прочный шлем, широко используемый военизированными организациями. Его украшает ужасный узор из красных и чёрных полос.
 
-# TODO-SIS Start: Насрали
-uplink-FireAxeFlaming = Пожарный топор
-    .desc = Зачем бороться с огнём с помощью топора, если можно бороться топором и огнём? Теперь с прочной прорезиненной рукояткой!
-# TODO-SIS End: Насрали
-
 uplink-master-gloves-name = Перчатки мастера
 uplink-msater-gloves-desc = Беспалые перчатки знаменитого мастера боевых искусств при ношении даруют знания его "коронного удара", позволяющего подбросить противника в воздух.
 uplink-energy-blaster-name = Apollo-H4
