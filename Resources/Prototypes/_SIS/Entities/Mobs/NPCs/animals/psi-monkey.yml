@@ -76,6 +76,7 @@
   description: A powerful surge of psi energy that sets everyone in its path on fire.
   components:
   - type: Action
+    itemIconStyle: BigAction
     icon: { sprite : Objects/Weapons/Guns/Projectiles/magic.rsi, state: fireball }
     useDelay: 20
   - type: TargetAction
@@ -168,6 +169,7 @@
   description: A powerful burst of psi energy that freezes the target.
   components:
   - type: Action
+    itemIconStyle: BigAction
     icon: { sprite : Objects/Weapons/Guns/Projectiles/projectiles_tg.rsi, state: omnilaser }
     useDelay: 10
   - type: TargetAction
