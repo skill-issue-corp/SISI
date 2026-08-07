@@ -1,9 +1,0 @@
-- type: entity
-  parent: Airlock
-  id: AirlockGeneral
-  suffix: General
-  components:
-  - type: Sprite
-    sprite: _SIS/Structures/Doors/Airlocks/Standard/general.rsi
-  - type: Paintable
-    group: null
