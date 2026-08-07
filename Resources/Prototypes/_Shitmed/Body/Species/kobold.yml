@@ -42,7 +42,7 @@
       Torso: OrganKoboldTorso
       Head: OrganKoboldHead
       Tail: OrganKoboldTail
-      # ArmLeft: OrganKoboldArmLeft
+      # ArmLeft: OrganKoboldArmLeft # SIS
       ArmRight: OrganKoboldArmRight
 #      HandRight: OrganKoboldHandRight inkymed
 #      HandLeft: OrganKoboldHandLeft inkymed
