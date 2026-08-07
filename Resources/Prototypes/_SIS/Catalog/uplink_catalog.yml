@@ -24,8 +24,8 @@
 
 - type: listing
   id: FireAxeFlaming
-  name: uplink-FireAxeFlaming
-  description: uplink-FireAxeFlaming.desc
+  name: uplink-fireaxe-flaming-name
+  description: uplink-fireaxe-flaming-desc
   productEntity: FireAxeFlaming
   cost:
     Telecrystal: 25
