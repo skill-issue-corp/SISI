@@ -23,8 +23,8 @@ ent-OrganKoboldArmLeft = { ent-OrganBaseArmLeft }
 ent-OrganKoboldArmRight = { ent-OrganBaseArmRight }
     .desc = { ent-OrganBaseArmRight.desc }
 
-ent-OrganKoboldHandLeft = { ent-OrganBaseHandLeftDecorative }
-    .desc = { ent-OrganBaseHandLeftDecorative.desc }
+ent-OrganKoboldHandLeft = { ent-OrganBaseHandLeft }
+    .desc = { ent-OrganBaseHandLeft.desc }
 
 ent-OrganKoboldHandRight = { ent-OrganBaseHandRight }
     .desc = { ent-OrganBaseHandRight.desc }
