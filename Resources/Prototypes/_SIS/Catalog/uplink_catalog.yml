@@ -1,4 +1,4 @@
-#Chemicals
+# Chemicals
 
 - type: listing
   id: UplinkSyndiHypo
@@ -6,10 +6,8 @@
   description: uplink-syndihypo-desc
   icon: { sprite: Objects/Specific/Medical/syndihypo.rsi, state: hypo }
   productEntity: SyndiHypo
-  discountDownTo:
-    Telecrystal: 12
   cost:
-    Telecrystal: 14
+    Telecrystal: 40
   categories:
   - UplinkChemicals
   conditions:
@@ -22,19 +20,19 @@
       components:
       - SurplusBundle
 
-# Guns
+# Melee
 
 - type: listing
   id: FireAxeFlaming
   name: uplink-FireAxeFlaming
   description: uplink-FireAxeFlaming.desc
   productEntity: FireAxeFlaming
-  discountDownTo:
-    Telecrystal: 10
   cost:
-    Telecrystal: 13
+    Telecrystal: 25
   categories:
   - UplinkWeaponry
+
+# Guns
 
 # SIS-TODO: Когда будут давать нормальные искусства тогда врублю
 # SIS-Start
@@ -43,8 +41,6 @@
 #   name: uplink-master-gloves-name
 #   description: uplink-msater-gloves-desc
 #   productEntity: MasterGloves
-#   discountDownTo:
-#     Telecrystal: 3
 #   cost:
 #     Telecrystal: 6
 #   categories:
@@ -57,6 +53,6 @@
   description: uplink-energy-blaster-desc
   productEntity: WeaponEnergyBlaster
   cost:
-    Telecrystal: 4
+    Telecrystal: 28
   categories:
   - UplinkWeaponry
