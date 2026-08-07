@@ -4,27 +4,27 @@ using Content.SIS.Common.Microwave;
 
 namespace Content.SIS.Server.Food;
 
-public sealed class CoolingFoodSystem : EntitySystem
+public sealed class HotFoodBuffSystem : EntitySystem
 {
     public override void Initialize()
     {
         base.Initialize();
 
         SubscribeLocalEvent<HotFoodBuffComponent, StopMicrowaveEvent>(StopMicrowave);
-        SubscribeLocalEvent<CoolingComponent, ExaminedEvent>(OnExamine);
+        SubscribeLocalEvent<HotFoodComponent, ExaminedEvent>(OnExamine);
     }
 
     public override void Update(float frameTime)
     {
         base.Update(frameTime);
 
-        var query = EntityQueryEnumerator<CoolingComponent>();
+        var query = EntityQueryEnumerator<HotFoodComponent>();
         while (query.MoveNext(out var uid, out var cool))
         {
             cool.CurrentCoolTime -= TimeSpan.FromSeconds(frameTime);
 
             if (cool.CurrentCoolTime <= TimeSpan.Zero)
-                RemComp<CoolingComponent>(uid);
+                RemComp<HotFoodComponent>(uid);
 
         }
     }
@@ -34,10 +34,10 @@ public sealed class CoolingFoodSystem : EntitySystem
         if (!HasComp<EdibleComponent>(comp.Owner))
             return;
 
-        EnsureComp<CoolingComponent>(comp.Owner);
+        EnsureComp<HotFoodComponent>(comp.Owner);
     }
 
-    private void OnExamine(EntityUid uid, CoolingComponent component, ExaminedEvent args)
+    private void OnExamine(EntityUid uid, HotFoodComponent component, ExaminedEvent args)
     {
         args.PushMarkup(Loc.GetString("cooling-component-on-examine"));
     }
