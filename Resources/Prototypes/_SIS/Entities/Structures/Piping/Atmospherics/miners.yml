@@ -1,0 +1,31 @@
+- type: entity
+  name: газодобытчик бизета
+  parent: GasMinerBase
+  id: GasMinerBZ
+  components:
+    - type: GasMiner
+      spawnGas: BZ
+
+- type: entity
+  name: газодобытчик хилиума
+  parent: GasMinerBase
+  id: GasMinerHealium
+  components:
+  - type: GasMiner
+    spawnGas: Healium
+
+- type: entity
+  name: газодобытчик нитриума
+  parent: GasMinerBase
+  id: GasMinerNitrium
+  components:
+  - type: GasMiner
+    spawnGas: Nitrium
+
+- type: entity
+  name: газодобытчик плюоксиума
+  parent: GasMinerBase
+  id: GasMinerPluoxium
+  components:
+  - type: GasMiner
+    spawnGas: Pluoxium

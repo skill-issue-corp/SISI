@@ -1,0 +1,45 @@
+#Blast door
+
+- type: entity
+  parent: BlastDoorOpen
+  id: BlastDoorCentralCommandOpen
+  suffix: Central Command, Locked
+  components:
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsCentralCommand ]
+
+#Window shutters
+
+- type: entity
+  parent: ShuttersWindowOpen
+  id: ShuttersWindowCentralCommandOpen
+  suffix: Central Command, Locked
+  components:
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsCentralCommand ]
+  - type: AccessReader
+    containerAccessProvider: board
+
+- type: entity
+  parent: ShuttersNormal
+  id: ShuttersNormalCentralCommand
+  suffix: Central Command, Locked
+  components:
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsCentralCommand ]
+  - type: AccessReader
+    containerAccessProvider: board
+
+- type: entity
+  parent: ShuttersNormalOpen
+  id: ShuttersNormalCentralCommandOpen
+  suffix: Central Command, Locked
+  components:
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsCentralCommand ]
+  - type: AccessReader
+    containerAccessProvider: board

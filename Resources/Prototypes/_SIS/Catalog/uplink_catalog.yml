@@ -1,0 +1,58 @@
+# Chemicals
+
+- type: listing
+  id: UplinkSyndiHypo
+  name: uplink-syndihypo-name
+  description: uplink-syndihypo-desc
+  icon: { sprite: Objects/Specific/Medical/syndihypo.rsi, state: hypo }
+  productEntity: SyndiHypo
+  cost:
+    Telecrystal: 40
+  categories:
+  - UplinkChemicals
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - NukeOpsUplink
+  - !type:BuyerWhitelistCondition
+    blacklist:
+      components:
+      - SurplusBundle
+
+# Melee
+
+- type: listing
+  id: FireAxeFlaming
+  name: uplink-fireaxe-flaming-name
+  description: uplink-fireaxe-flaming-desc
+  productEntity: FireAxeFlaming
+  cost:
+    Telecrystal: 25
+  categories:
+  - UplinkWeaponry
+
+# Guns
+
+# SIS-TODO: Когда будут давать нормальные искусства тогда врублю
+# SIS-Start
+# - type: listing
+#   id: UplinkMasterGloves
+#   name: uplink-master-gloves-name
+#   description: uplink-msater-gloves-desc
+#   productEntity: MasterGloves
+#   cost:
+#     Telecrystal: 6
+#   categories:
+#   - UplinkWeaponry
+# SIS-End
+
+- type: listing
+  id: UplinkEnergyBlaster
+  name: uplink-energy-blaster-name
+  description: uplink-energy-blaster-desc
+  productEntity: WeaponEnergyBlaster
+  cost:
+    Telecrystal: 28
+  categories:
+  - UplinkWeaponry

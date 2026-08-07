@@ -77,7 +77,7 @@ ent-ClothingBackpackDeathSquad = рюкзак Эскадрона Смерти
     .desc = Вмещает снаряжение самых устрашающих агентов Центрального Командования.
 
 ent-ClothingBackpackSyndicate = рюкзак Синдиката
-    .desc = { ent-ClothingBackpack.desc }
+    .desc = { "" }
 
 ent-ClothingBackpackHolding = бездонный рюкзак
     .desc = Рюкзак, открывающийся в локальный карман блюспейса.

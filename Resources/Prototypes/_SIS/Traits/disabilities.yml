@@ -1,0 +1,7 @@
+- type: trait
+  id: ClumsyTrait
+  name: trait-clumsy-name
+  description: trait-clumsy-desc
+  category: Disabilities
+  components:
+    - type: Clumsy

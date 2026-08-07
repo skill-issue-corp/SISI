@@ -1,0 +1,100 @@
+- type: entity
+  id: BaseBorgModuleSecurity
+  parent: BaseBorgModule
+  abstract: true
+  components:
+  - type: Tag
+    tags:
+    - BorgModuleSecurity
+  - type: Item
+    inhandVisuals:
+      left:
+      - state: base-icon-inhand-left
+        color: "#DF5252"
+      - state: base-module-inhand-left
+        color: "#A0322C"
+      - state: base-part-inhand-left
+      - state: base-stripes-inhand-left
+        color: "#373737"
+      right:
+      - state: base-icon-inhand-right
+        color: "#DF5252"
+      - state: base-module-inhand-right
+        color: "#A0322C"
+      - state: base-part-inhand-right
+      - state: base-stripes-inhand-right
+        color: "#373737"
+  - type: Sprite
+    sprite: _SIS/Objects/Specific/Robotics/borgmodule.rsi
+
+- type: entity
+  parent: [ BaseBorgModuleSecurity, BaseProviderBorgModule ]
+  id: BorgModuleDrozd
+  name: Drozd ROW cyborg module
+  description: A weapons module that comes with a burst-fire gun.
+  components:
+  - type: Sprite
+    layers:
+    - state: security
+    - state: icon-drozd
+  - type: ItemBorgModule
+    hands:
+    - item: WeaponSubMachineGunDrozdROW
+    # - item: PinpointerNuclear #Этот модуль планируется как адмем для боргов ОБР, но я решил, что пока ради прикола добавлю его в коробку плат ГСБ. -Samur7
+  - type: BorgModuleIcon
+    icon: { sprite: _SIS/Interface/Actions/actions_borg.rsi, state: drozd-module }
+
+- type: entity
+  parent: [ BaseBorgModuleSecurity, BaseProviderBorgModule ]
+  id: BorgModuleAdvancedSecurity
+  name: advanced security cyborg module
+  description: Advanced security module containing lethal weapons.
+  components:
+  - type: Sprite
+    layers:
+    - state: security
+    - state: icon-security-adv
+  - type: ItemBorgModule
+    hands:
+    - item: WeaponAdvancedLaser
+    - item: Truncheon
+    - item: Bola
+      hand:
+        emptyLabel: borg-slot-bola-empty
+        emptyRepresentative: Bola
+        whitelist:
+          components:
+          - Ensnaring
+  - type: BorgModuleIcon
+    icon: { sprite: _SIS/Interface/Actions/actions_borg.rsi, state: adv-security-module }
+
+- type: entity
+  parent: [ BaseBorgModuleSecurity, BaseProviderBorgModule ]
+  id: BorgModuleSecurity
+  name: security cyborg module
+  components:
+  - type: Sprite
+    layers:
+    - state: security
+    - state: icon-security
+  - type: ItemBorgModule
+    hands:
+    - item: WeaponDisablerSMGRechargable
+    - item: HoloProjectorSecurityBorg
+    - item: RadioHandheldSecurity
+    - item: Zipties
+      hand:
+        emptyLabel: borg-slot-handcuffs-empty
+        emptyRepresentative: Handcuffs
+        whitelist:
+          tags:
+          - Handcuffs
+    - item: Zipties
+      hand:
+        emptyLabel: borg-slot-handcuffs-empty
+        emptyRepresentative: Handcuffs
+        whitelist:
+          tags:
+          - Handcuffs
+  - type: BorgModuleIcon
+    icon: { sprite: _SIS/Interface/Actions/actions_borg.rsi, state: basic-security-module }

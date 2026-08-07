@@ -57,7 +57,7 @@
         layer:
         - WallLayer
   - type: Construction
-    graph: Girder
+    graph: DiagonalGirder # SIS
     node: diagonalshuttleWall
   - type: RustRequiresPathStage
     pathStage: 10 # Ascension

@@ -1,2 +1,2 @@
-ent-MartialArtLyCqc = Ликан
+ent-MartialArtLyCqc = Cqc Линкантроп
     .desc = { ent-BaseMartialArtsKnowledge.desc }

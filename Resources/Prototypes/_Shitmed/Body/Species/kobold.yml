@@ -3,9 +3,21 @@
 ## Mob
 
 - type: markingsGroup
+  parent: Undergarments # SIS
   id: Kobold
   onlyGroupWhitelisted: true
   limits:
+    # SIS-Start
+    enum.HumanoidVisualLayers.Hair:
+      limit: 0
+      required: false
+    enum.HumanoidVisualLayers.FacialHair:
+      limit: 0
+      required: false
+    enum.HumanoidVisualLayers.Chest:
+      limit: 3
+      required: false
+    # SIS-End
     enum.HumanoidVisualLayers.HeadTop:
       limit: 2
       required: false
@@ -30,7 +42,7 @@
       Torso: OrganKoboldTorso
       Head: OrganKoboldHead
       Tail: OrganKoboldTail
-      ArmLeft: OrganKoboldArmLeft
+      # ArmLeft: OrganKoboldArmLeft # SIS
       ArmRight: OrganKoboldArmRight
 #      HandRight: OrganKoboldHandRight inkymed
 #      HandLeft: OrganKoboldHandLeft inkymed
@@ -83,10 +95,21 @@
   - type: VisualOrganMarkings
     markingData:
       group: None # no undergarments, i cbf to make a kobold specific one
+    # SIS-Start
+    hideableLayers:
+    - enum.HumanoidVisualLayers.Tail
+    # SIS-End
 
 - type: entity
   parent: [ OrganBaseHeadBald, OrganKoboldExternal ]
   id: OrganKoboldHead
+  # SIS-Start
+  components:
+  - type: VisualOrganMarkings
+    hideableLayers:
+    - enum.HumanoidVisualLayers.HeadTop
+    - enum.HumanoidVisualLayers.HeadSide
+  # SIS-End
 
 - type: entity
   parent: [ OrganBaseTail, OrganKoboldExternal ]
@@ -99,6 +122,17 @@
 - type: entity
   parent: [ OrganBaseArmRight, OrganKoboldExternal ]
   id: OrganKoboldArmRight
+  # SIS-Start
+  name: Arms
+  components:
+  - type: Sprite
+    sprite: _SIS/Mobs/Animals/kobold.rsi
+  - type: VisualOrgan
+    data:
+      sprite: _SIS/Mobs/Animals/kobold.rsi
+    secondData: # inkymed
+      sprite: _SIS/Mobs/Animals/kobold.rsi
+  # SIS-End
 
 - type: entity
   parent: [ OrganBaseHandLeft, OrganKoboldExternal ]
@@ -107,6 +141,17 @@
 - type: entity
   parent: [ OrganBaseHandRight, OrganKoboldExternal ]
   id: OrganKoboldHandRight
+  # SIS-Start
+  name: Hands
+  components:
+  - type: Sprite
+    sprite: _SIS/Mobs/Animals/kobold.rsi
+  - type: VisualOrgan
+    data:
+      sprite: _SIS/Mobs/Animals/kobold.rsi
+    secondData: # inkymed
+      sprite: _SIS/Mobs/Animals/kobold.rsi
+  # SIS-End
 
 - type: entity
   parent: [ OrganBaseLegLeft, OrganKoboldExternal ]

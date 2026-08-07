@@ -1,0 +1,182 @@
+- type: entity
+  parent: [MobBaseAncestor, BaseSlicingRefinable]
+  id: MobFirePsiMonkey
+  name: psi-monkey
+  description: A strange-looking monkey with a red, exposed brain.
+  components:
+  - type: ActionGrant
+    actions:
+    - ActionPyrokinesBall
+  - type: Sprite
+    layers:
+    - map: ["enum.DamageStateVisualLayers.Base"]
+      sprite: _SIS/Mobs/Animals/psimonkey.rsi
+      state: red
+    - map: [ "enum.HumanoidVisualLayers.Handcuffs" ]
+      color: "#ffffff"
+      sprite: Objects/Misc/handcuffs.rsi
+      state: body-overlay-2
+      visible: false
+    - map: [ "ears" ]
+    - map: [ "id" ]
+    - map: [ "mask" ]
+    - map: [ "head" ]
+    - map: [ "clownedon" ]
+      sprite: "Effects/creampie.rsi"
+      state: "creampie_human"
+      visible: false
+  - type: Prying
+    pryPowered: true
+    force: true
+    speedModifier: 2
+    useSound:
+      path: /Audio/Items/crowbar.ogg
+  - type: NameIdentifier
+    group: Monkey
+  - type: Speech
+    speechSounds: Monkey
+    speechVerb: Monkey
+  - type: MonkeyAccent
+  - type: SentienceTarget
+    flavorKind: station-event-random-sentience-flavor-primate
+  - type: AlwaysRevolutionaryConvertible
+  - type: GhostRole
+    makeSentient: true
+    name: ghost-role-information-psimonkey-name
+    description: ghost-role-information-psimonkey-description
+    rules: ghost-role-information-antagonist-rules
+  - type: GhostTakeoverAvailable
+  - type: Clumsy
+    gunShootFailDamage:
+      types:
+        Blunt: 5
+        Piercing: 4
+        Heat: 3
+    catchingFailDamage:
+      types:
+        Blunt: 1
+    clumsySound:
+      path: /Audio/Animals/monkey_scream.ogg
+  - type: ToolRefinable
+    refineResult:
+    - id: PsiMonkeyRedBrain
+      amount: 1
+
+- type: entity
+  parent: ProjectileDragonsBreath
+  id: PyrokinesBall
+  name: Pyrokinetic projectile
+  description: A powerful surge of psi energy.
+  categories: [ HideSpawnMenu ]
+
+- type: entity
+  parent: BaseAction
+  id: ActionPyrokinesBall
+  name: "[color=red]Pyrokines[/color]"
+  description: A powerful surge of psi energy that sets everyone in its path on fire.
+  components:
+  - type: Action
+    itemIconStyle: BigAction
+    icon: { sprite : Objects/Weapons/Guns/Projectiles/magic.rsi, state: fireball }
+    useDelay: 20
+  - type: TargetAction
+    range: 60
+    checkCanAccess: false
+  - type: WorldTargetAction
+    event: !type:ProjectileSpellEvent
+      prototype: PyrokinesBall
+  - type: SpeakOnAction
+    sentence: action-speech-pyrokines # На случай если кто то зачем то вколит в них когнизин.
+
+- type: entity
+  parent: [MobBaseAncestor, BaseSlicingRefinable]
+  id: MobIcePsiMonkey
+  name: psi-monkey
+  description: A strange-looking monkey with a blue exposed brain.
+  components:
+  - type: ActionGrant
+    actions:
+    - ActionCryokinesRay
+  - type: Sprite
+    layers:
+    - map: ["enum.DamageStateVisualLayers.Base"]
+      sprite: _SIS/Mobs/Animals/psimonkey.rsi
+      state: blue
+    - map: [ "enum.HumanoidVisualLayers.Handcuffs" ]
+      color: "#ffffff"
+      sprite: Objects/Misc/handcuffs.rsi
+      state: body-overlay-2
+      visible: false
+    - map: [ "ears" ]
+    - map: [ "id" ]
+    - map: [ "mask" ]
+    - map: [ "head" ]
+    - map: [ "clownedon" ]
+      sprite: "Effects/creampie.rsi"
+      state: "creampie_human"
+      visible: false
+  - type: Prying
+    pryPowered: true
+    force: true
+    speedModifier: 2
+    useSound:
+      path: /Audio/Items/crowbar.ogg
+  - type: NameIdentifier
+    group: Monkey
+  - type: Speech
+    speechSounds: Monkey
+    speechVerb: Monkey
+  - type: MonkeyAccent
+  - type: SentienceTarget
+    flavorKind: station-event-random-sentience-flavor-primate
+  - type: AlwaysRevolutionaryConvertible
+  - type: GhostRole
+    makeSentient: true
+    name: ghost-role-information-psimonkey-name
+    description: ghost-role-information-psimonkey-description
+    rules: ghost-role-information-antagonist-rules
+  - type: GhostTakeoverAvailable
+  - type: Clumsy
+    gunShootFailDamage:
+      types:
+        Blunt: 5
+        Piercing: 4
+        Heat: 3
+    catchingFailDamage:
+      types:
+        Blunt: 1
+    clumsySound:
+      path: /Audio/Animals/monkey_scream.ogg
+  - type: ToolRefinable
+    refineResult:
+    - id: PsiMonkeyBlueBrain
+      amount: 1
+
+- type: entity
+  parent: BulletTemperatureCold
+  id: CryokinesRay
+  name: Cryokinetic projectile
+  description: A powerful surge of psi energy.
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: ChangeTemperatureOnCollide
+    heat: -900000
+
+- type: entity
+  parent: BaseAction
+  id: ActionCryokinesRay
+  name: "[color=blue]Cryokines[/color]"
+  description: A powerful burst of psi energy that freezes the target.
+  components:
+  - type: Action
+    itemIconStyle: BigAction
+    icon: { sprite : Objects/Weapons/Guns/Projectiles/projectiles_tg.rsi, state: omnilaser }
+    useDelay: 10
+  - type: TargetAction
+    range: 60
+    checkCanAccess: false
+  - type: WorldTargetAction
+    event: !type:ProjectileSpellEvent
+      prototype: CryokinesRay
+  - type: SpeakOnAction
+    sentence: action-speech-cryokines # На случай если кто то зачем то вколит в них когнизин.

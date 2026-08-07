@@ -1,0 +1,34 @@
+- type: entity
+  parent: [ClothingHandsBase, BaseMinorContraband]
+  id: MasterGloves
+  name: fingerless gloves
+  description: Plain black gloves without fingertips for the hard working.
+  components:
+  - type: Sprite
+    sprite: _SIS/Clothing/Hands/Gloves/master.rsi
+    state: icon
+  - type: Clothing
+    sprite: _SIS/Clothing/Hands/Gloves/master.rsi
+  - type: Fiber
+    fiberMaterial: fibers-synthetic
+    fiberColor: fibers-gold
+  - type: MeleeWeapon
+    attackRate: 0.6
+    damage:
+      types:
+        Blunt: 5
+    soundHit:
+      collection: Punch
+    animation: WeaponArcFist
+    mustBeEquippedToUse: true
+  - type: Tag
+    tags:
+    - Kangaroo
+  - type: UseDelay
+    delay: 15
+  - type: UseDelayOnMeleeHit
+  - type: MeleeThrowOnHit
+    stunTime: 0.2
+    activateOnThrown: false
+    speed: 0.1
+    distance: 0.1

@@ -1,0 +1,5 @@
+- type: lobbyBackground
+  id: EachLightShinesOnlyOnce
+  background: /Textures/_SIS/LobbyScreens/eachlightshinesonlyonce.webp
+  title: lobby-state-background-eachlightshinesonlyonce-title
+  artist: lobby-state-background-eachlightshinesonlyonce-artist

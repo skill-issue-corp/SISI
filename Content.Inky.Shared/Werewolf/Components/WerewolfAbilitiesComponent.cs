@@ -1,4 +1,5 @@
 using Content.Shared.Polymorph;
+using Content.Trauma.Common.CollectiveMind;
 using Robust.Shared.Audio;
 using Robust.Shared.GameStates;
 using Robust.Shared.Prototypes;
@@ -29,7 +30,7 @@ public sealed partial class WerewolfAbilitiesComponent : Component
     // fuck you both why the fuck did the ww use changeling rule?? why did you let that pass you fucking chud previous me - dr. autism APR 28 2026
 
     [DataField, AutoNetworkedField]
-    public ProtoId<PolymorphPrototype> CurrentMutation = string.Empty;
+    public ProtoId<PolymorphPrototype> CurrentMutation;
 
     /// <summary>
     /// Amount of points given per devour action performed of a person
@@ -42,4 +43,7 @@ public sealed partial class WerewolfAbilitiesComponent : Component
     /// </summary>
     [DataField]
     public int AmountGut = 1;
+
+    [DataField]
+    public ProtoId<CollectiveMindPrototype> CollectiveMindChannel = "LunarMind";
 }

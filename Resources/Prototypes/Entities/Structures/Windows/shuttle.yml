@@ -96,3 +96,8 @@
   - type: DamageVisuals
     damageOverlay:
       sprite: Structures/Windows/cracks_diagonal.rsi
+  # SIS-Start
+  - type: Construction
+    graph: ShuttleWindowDiagonal
+    node: shuttleWindowDiagonal
+  # SIS-End

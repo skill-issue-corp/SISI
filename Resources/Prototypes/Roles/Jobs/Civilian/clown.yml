@@ -44,7 +44,7 @@
     id: ClownPDA
     ears: ClothingHeadsetService
   inhand:
-  - FoolboxFilled
+  - ToolboxClown # SIS | FoolboxFilled
   storage:
     back:
     - RubberStampClown

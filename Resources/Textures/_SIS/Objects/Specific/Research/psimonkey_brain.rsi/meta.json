@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Brain taken from /tg/station 13 at https://github.com/tgstation/tgstation/commit/c4b7f3c41b6742aca260fe60cc358a778ba9b8c8, edited by Higertas (github) for SIS-14",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "states": [
+        {
+            "name": "icon-blue"
+        },
+        {
+            "name": "icon-red"
+        }
+    ]
+}

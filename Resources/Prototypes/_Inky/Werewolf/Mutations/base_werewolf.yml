@@ -101,7 +101,10 @@
     - Shock
     - Cold
     - Caustic
+  - type: Shoving
+    staminaDamage: 25
   - type: MeleeWeapon
+    attackRate: 2 # ma shitcod
     hidden: true
     soundHit:
       path: /Audio/Weapons/pierce.ogg

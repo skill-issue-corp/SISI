@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Made by DeroCKs(discord - derocccs) for SIS-14",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+    "states": [
+        {
+            "name": "icon-base"
+        },
+        {
+            "name": "icon-blue"
+        },
+        {
+            "name": "icon-red"
+        },
+        {
+            "name": "icon-both"
+        },
+        {
+            "name": "inhand-right",
+            "directions": 4
+        },
+        {
+            "name": "inhand-left",
+            "directions": 4
+        }
+    ]
+}

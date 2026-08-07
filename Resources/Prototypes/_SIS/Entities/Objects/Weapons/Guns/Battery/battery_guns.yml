@@ -1,0 +1,68 @@
+- type: entity
+  parent: WeaponDisablerSMG
+  id: WeaponDisablerSMGRechargable
+  name: rechargable disabler SMG
+  description: Advanced weapon that exhausts organic targets, weakening them until they collapse. It recharges over time.
+  components:
+  - type: BatterySelfRecharger
+    autoRechargeRate: 6
+
+- type: entity
+  name: Apollo-H4
+  parent: [BaseWeaponBatterySmall, BaseSyndicateContraband]
+  id: WeaponEnergyBlaster
+  description: A modern low-power energy blaster, widely used by most armed forces. It has a powerful self-regenerating battery, penetrating power, and a comfortable grip. This one has the Syndicate's color scheme.
+  components:
+  - type: Sprite
+    sprite: _SIS/Objects/Weapons/Guns/Battery/blaster.rsi
+    layers:
+    - state: base
+      map: ["enum.GunVisualLayers.Base"]
+    - state: mag-unshaded-4
+      map: ["enum.GunVisualLayers.MagUnshaded"]
+      shader: unshaded
+  - type: Clothing
+    sprite: _SIS/Objects/Weapons/Guns/Battery/blaster.rsi
+  - type: Gun
+    soundGunshot:
+      path: /Audio/_SIS/Weapons/Gunshots/blaster.ogg
+    projectileSpeed: 25
+    selectedMode: FullAuto
+    availableModes:
+    - FullAuto
+    - SemiAuto
+  - type: BatteryAmmoProvider
+    proto: BulletEnergyBlaster
+    fireCost: 100
+  - type: BatterySelfRecharger
+    autoRechargeRate: 40
+  - type: MagazineVisuals
+    magState: mag
+    steps: 5
+    zeroVisible: true
+  - type: Appearance
+  - type: Tag
+    tags:
+    - Sidearm
+    - WeaponAntiqueLaser
+    - LaserWeapon
+  - type: StaticPrice
+    price: 750
+  - type: SentienceTarget # I hope this is only the captain's gun
+    flavorKind: station-event-random-sentience-flavor-inanimate
+    weight: 0.0002 # 5,000 times less likely than 1 regular animal
+    # not putting a BlockMovement component here cause that's funny.
+
+- type: entity
+  name: blaster bolt
+  id: BulletEnergyBlaster
+  categories: [ HideSpawnMenu ]
+  parent: BulletLaserWindowPiercingMagnum
+  components:
+  - type: Projectile
+    impactEffect: BulletImpactEffectOrangeDisabler
+    damage:
+      types:
+        Heat: 10
+  - type: Ammo
+    muzzleFlash: MuzzleFlashEffectHeavyLaser

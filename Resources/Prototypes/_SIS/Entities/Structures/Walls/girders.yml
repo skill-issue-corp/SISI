@@ -1,0 +1,62 @@
+- type: entity
+  id: DiagonalGirder
+  parent: Girder
+  name: girder
+  suffix: diagonal
+  description: A large structural assembly made out of metal; It requires a layer of metal before it can be considered a wall.
+  components:
+  - type: Tag
+    tags:
+    - Diagonal
+  - type: Rotatable
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PolygonShape
+            vertices:
+            - "-0.5,-0.5"
+            - "0.5,0.5"
+            - "0.5,-0.5"
+        density: 60
+        mask:
+        - MachineMask
+        layer:
+        - GlassAirlockLayer
+  - type: Construction
+    graph: DiagonalGirder
+    node: diagonalGirder
+  - type: Sprite
+    sprite: _SIS/Structures/Walls/girders.rsi
+    state: wall_girder
+
+- type: entity
+  id: DiagonalReinforcedGirder
+  parent: ReinforcedGirder
+  name: reinforced girder
+  suffix: diagonal
+  description: A large structural assembly made out of metal; It requires a layer of metal before it can be considered a wall.
+  components:
+  - type: Tag
+    tags:
+    - Diagonal
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PolygonShape
+            vertices:
+            - "-0.5,-0.5"
+            - "0.5,0.5"
+            - "0.5,-0.5"
+        density: 60
+        mask:
+        - MachineMask
+        layer:
+        - GlassAirlockLayer
+  - type: Construction
+    graph: DiagonalGirder
+    node: diagonalReinforceGirder
+  - type: Sprite
+    sprite: _SIS/Structures/Walls/girders.rsi
+    state: reinforced_wall_girder

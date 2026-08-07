@@ -1,0 +1,295 @@
+- type: entityTable
+  id: TrashFishItemsTable
+  table: !type:GroupSelector
+    children:
+    - id: ClothingUniformJumpsuitTacticool
+    - id: ClothingUniformJumpskirtTacticool
+    - id: ClothingUniformJumpskirtColorRainbow
+    - id: ClothingUniformColorRainbow
+    - id: ClothingUniformJumpskirtColorOrange
+    - id: ClothingUniformJumpsuitColorOrange
+    - id: ClothingUniformJumpskirtMedicalDoctor
+    - id: ClothingUniformJumpsuitMedicalDoctor
+    - id: ClothingUniformJumpsuitMercenary
+    - id: ClothingUniformJumpskirtRoboticist
+    - id: ClothingUniformJumpsuitRoboticist
+    - id: ClothingUniformJumpsuitAncient
+    - id: ClothingUniformJumpskirtColorGrey
+    - id: ClothingUniformJumpsuitColorGrey
+    - id: ClothingUniformOveralls
+    - id: ClothingUniformJumpsuitNanotrasen
+    - id: Wirecutter
+    - id: Screwdriver
+    - id: CrowbarYellow
+    - id: WelderMini
+    - id: EmergencyNitrogenTankFilled
+    - id: EmergencyOxygenTankFilled
+    - id: Flare
+    - id: LightTubeBroken
+    - id: ToyRipley
+    - id: PillCanister
+    - id: FishingRodMakeshift
+    - id: TrashBananaPeel
+    - id: ClothingHeadBandGreen
+    - id: ClothingHeadBandRed
+    - id: CablecuffsBroken
+    - id: CigarSpent
+    - id: Cigarette
+    - id: FoodBadRecipe
+    - id: ClothingNeckScarfStripedBlue
+    - id: DoorElectronics
+    - id: APCElectronics
+    - id: ClothingUnderSocksCoder
+    - id: Syringe
+    - id: FoodBowlBigTrash
+    - id: BalloonNT
+    - id: CableApcStack10
+    - id: CableMVStack10
+    - id: ClothingHandsGlovesFingerless
+
+- type: entityTable
+  id: RareFishItemsTable
+  table: !type:GroupSelector
+    children:
+    - id: ClothingHeadHelmetScrap
+    - id: SpaceCash1000
+    - id: MakeshiftShield
+    - id: IngotSilver1
+    - id: ResearchDisk
+    - id: TreasureDatadiskEncrypted
+    - id: DoubleEmergencyNitrogenTankFilled
+    - id: DoubleEmergencyOxygenTankFilled
+    - id: WeaponShotgunImprovised
+    - id: WelderIndustrialAdvanced
+    - id: HandHeldMassScannerEmpty
+    - id: ClothingHandsGlovesColorYellow
+    - id: ClothingEyesGlassesSunglasses
+    - id: ClothingBeltHolster
+    - id: PowerCellHighPrinted
+    - id: ClothingMaskWeldingGas
+    - id: AdvMopItem
+    - id: CombatKnife
+    - id: ClothingHandsKnuckleDusters
+    - id: FishingRod
+
+- type: entityTable
+  id: SuperRareFishItemsTable
+  table: !type:GroupSelector
+    children:
+    - id: BluespaceBeaker
+    - id: ClothingOuterHardsuitSalvage
+    - id: BriefcaseSmugglerCash
+    - id: TechnologyDiskRare
+    - id: ResearchDisk10000
+    - id: ClothingMaskGasSyndicate
+    - id: ShuttleConsoleCircuitboard
+    - id: CyberPen
+    - id: Telecrystal1
+    - id: ClothingBeltSecurityFilled
+    - id: JawsOfLife
+    - id: PowerDrill
+    - id: PowerCellHyperPrinted
+    - id: MedkitAdvancedFilled
+    - id: ClothingBeltMilitaryWebbing
+    - id: WeaponSniperMosin
+    - id: ClothingOuterCoatAMG
+
+- type: entityTable
+  id: LegendaryFishItemsTable
+  table: !type:GroupSelector
+    children:
+    - id: ClothingBackpackChameleonFill
+    - id: EmpImplanter
+    - id: ClothingBackpackERTSecurity
+    - id: ClothingHeadHatCatEars
+    - id: CommsComputerCircuitboard
+    - id: VendingMachineSyndieDrobe
+    - id: ClothingHeadsetAltCommand
+    - id: WeaponLaserGun
+    - id: WeaponPistolViper
+    - id: WeaponPistolCobra
+    - id: BriefcaseSyndieLobbyingBundleFilled
+    - id: FishingRodGolden
+    - id: ClothingOuterCoatSyndieCapArmored
+    - id: SyndimovCircuitBoard
+    - id: WeaponShotgunKammerer
+    - id: PowerCellMicroreactorPrinted
+    - id: ClothingShoesBootsSpeed
+    - id: PenExploding
+    - id: EnergyDagger
+    - id: BaseUplinkRadio
+    - id: ClothingOuterHardsuitGoliath
+    - id: AmmoTechFabCircuitboard
+
+- type: entityTable
+  id: GodFishItemsTable
+  table: !type:GroupSelector
+    children:
+    - id: MobNarsie
+    - id: MobHumanSyndicateAgentNukeops
+    - id: ClothingBackpackDuffelZombieBundle
+    - id: WeaponTetherGunAdmin
+    - id: Throngler
+    - id: WizardsGrimoire
+    - id: WeaponLauncherAdmemeMeteorLarge
+
+- type: entityTable
+  id: EvilMobsTable
+  table: !type:GroupSelector
+    children:
+    - id: MobPurpleSnake
+    - id: MobCarpHolo
+    - id: MobFleshGolem
+    - id: MobCarp
+    - id: MobTick
+    - id: MobFirePsiMonkey
+    - id: MobIcePsiMonkey
+    - id: MobCobraSpace
+    - id: MobHivelord
+    - id: MobBasilisk
+
+- type: entityTable
+  id: PeacefullyMobsTable
+  table: !type:GroupSelector
+    children:
+    - id: MobMonkey
+    - id: MobGoose
+    - id: MobCorgi
+    - id: MobRaccoon
+    - id: MobHamster
+    - id: MobSnake
+    - id: MobMouse
+    - id: MobMouseCancer
+    - id: MobChicken
+    - id: MobDuckMallard
+
+- type: entityTable
+  id: RareEvilMobsTable
+  table: !type:GroupSelector
+    children:
+    - id: MobGoliath
+    - id: MobWatcherMagmawing
+    - id: MobWatcherIcewing
+    - id: MobShark
+    - id: CMMobXenoRavager
+
+- type: entityTable
+  id: SuperRareEvilMobsTable
+  table: !type:GroupSelector
+    children:
+    - id: CMMobXenoQueen
+    - id: MobDragon
+
+- type: entityTable
+  id: RarePeacefullyMobsTable
+  table: !type:GroupSelector
+    children:
+    - id: MobCatCake
+    - id: MobBreadDog
+
+- type: entityTable
+  id: WaterFishingLootTable
+  table: !type:GroupSelector
+    children:
+    - !type:NestedSelector
+      tableId: TrashFishItemsTable
+      weight: 60
+    - !type:NestedSelector
+      tableId: RareFishTable
+      weight: 15
+    - !type:NestedSelector
+      tableId: PeacefullyMobsTable
+      weight: 7
+    - !type:NestedSelector
+      tableId: EvilMobsTable
+      weight: 3
+    - !type:NestedSelector
+      tableId: RareFishItemsTable
+      weight: 10.45
+    - !type:NestedSelector
+      tableId: SuperRareFishItemsTable
+      weight: 4
+    - !type:NestedSelector
+      tableId: LegendaryFishItemsTable
+      weight: 0.5
+    - !type:NestedSelector
+      tableId: GodFishItemsTable
+      weight: 0.05
+
+- type: entityTable
+  id: LavaFishingLootTable
+  table: !type:GroupSelector
+    children:
+    - !type:NestedSelector
+      tableId: EvilMobsTable
+      weight: 25
+    - !type:NestedSelector
+      tableId: RareEvilMobsTable
+      weight: 12.5
+    - !type:NestedSelector
+      tableId: RareFishItemsTable
+      weight: 50
+    - !type:NestedSelector
+      tableId: SuperRareFishItemsTable
+      weight: 8.9
+    - !type:NestedSelector
+      tableId: LegendaryFishItemsTable
+      weight: 2
+    - !type:NestedSelector
+      tableId: SuperRareEvilMobsTable
+      weight: 1.5
+    - !type:NestedSelector
+      tableId: GodFishItemsTable
+      weight: 0.1
+
+- type: entityTable
+  id: PlasmaFishingLootTable
+  table: !type:GroupSelector
+    children:
+    - !type:NestedSelector
+      tableId: EvilMobsTable
+      weight: 25
+    - !type:NestedSelector
+      tableId: RareEvilMobsTable
+      weight: 12.5
+    - !type:NestedSelector
+      tableId: RareFishItemsTable
+      weight: 50
+    - !type:NestedSelector
+      tableId: SuperRareFishItemsTable
+      weight: 8.9
+    - !type:NestedSelector
+      tableId: LegendaryFishItemsTable
+      weight: 2
+    - !type:NestedSelector
+      tableId: SuperRareEvilMobsTable
+      weight: 1.5
+    - !type:NestedSelector
+      tableId: GodFishItemsTable
+      weight: 0.1
+
+- type: entityTable
+  id: ToiletFishingLootTable
+  table: !type:GroupSelector
+    children:
+    - !type:NestedSelector
+      tableId: TrashFishItemsTable
+      weight: 57
+    - !type:NestedSelector
+      tableId: PeacefullyMobsTable
+      weight: 15
+    - !type:NestedSelector
+      tableId: RareFishTable
+      weight: 15
+    - !type:NestedSelector
+      tableId: RareFishItemsTable
+      weight: 5
+    - !type:NestedSelector
+      tableId: EvilMobsTable
+      weight: 5
+    - !type:NestedSelector
+      tableId: RarePeacefullyMobsTable
+      weight: 2
+    - !type:NestedSelector
+      tableId: RareEvilMobsTable
+      weight: 1

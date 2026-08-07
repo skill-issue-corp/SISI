@@ -1,14 +1,15 @@
-using System.Text;
 using Content.Inky.Shared.Werewolf;
 using Content.Inky.Shared.Werewolf.Components;
 using Content.Server.Antag;
+using Content.Server.GameTicking;
 using Content.Server.GameTicking.Rules;
 using Content.Server.Mind;
 using Content.Shared.Mind;
-using Content.Server.Objectives;
 using Content.Shared.Actions;
 using Content.Shared.EntityEffects;
 using Content.Shared.EntityEffects.Effects;
+using Content.Shared.GameTicking.Components;
+using Content.Shared.Overlays;
 using Content.Shared.Roles;
 using Content.Shared.Roles.Components;
 using Content.Shared.Store;
@@ -23,9 +24,8 @@ public sealed partial class WerewolfRuleSystem : GameRuleSystem<WerewolfRuleComp
     [Dependency] private MindSystem _mind = default!;
     [Dependency] private AntagSelectionSystem _antag = default!;
     [Dependency] private SharedRoleSystem _role = default!;
-    [Dependency] private ActionContainerSystem _actions = default!;
+    [Dependency] private SharedActionsSystem _actions = default!;
     [Dependency] private SharedEntityEffectsSystem _effects = default!;
-    [Dependency] private ObjectivesSystem _objectives = default!;
 
     public readonly SoundSpecifier BriefingSound = new SoundPathSpecifier("/Audio/_Inky/Antag/Werewolf/werewolf_start.ogg");
 
@@ -33,7 +33,7 @@ public sealed partial class WerewolfRuleSystem : GameRuleSystem<WerewolfRuleComp
 
     public readonly int StartingCurrency = 2; // to buy either regen or ambush, choose your game
 
-    [ValidatePrototypeId<EntityPrototype>] EntProtoId mindRole = "MindRoleWerewolf";
+    public readonly EntProtoId MindRole = "MindRoleWerewolf";
 
     public readonly ProtoId<EntityEffectPrototype> WerewolfSkills = "WerewolfSkills";
 
@@ -42,8 +42,6 @@ public sealed partial class WerewolfRuleSystem : GameRuleSystem<WerewolfRuleComp
         base.Initialize();
 
         SubscribeLocalEvent<WerewolfRuleComponent, AfterAntagEntitySelectedEvent>(OnSelectAntag);
-        SubscribeLocalEvent<WerewolfRuleComponent, ObjectivesTextPrependEvent>(OnTextPrepend);
-
         SubscribeLocalEvent<WerewolfInfectionFinishedEvent>(OnInfectionFinished); // goida
     }
 
@@ -68,23 +66,20 @@ public sealed partial class WerewolfRuleSystem : GameRuleSystem<WerewolfRuleComp
         if (!_mind.TryGetMind(target, out var mindId, out var mind))
             return false;
 
-        _role.MindAddRole(mindId, mindRole.Id, mind, true);
+        _role.MindAddRole(mindId, MindRole.Id, mind, true);
 
         var briefing = Loc.GetString("werewolf-role-greeting");
         var briefingShort = Loc.GetString("werewolf-role-greeting-short");
 
-        if (_role.MindHasRole<WerewolfRuleComponent>(mindId, out var mr))
-            AddComp(mr.Value, new RoleBriefingComponent { Briefing = briefingShort }, overwrite: true);
+        if (_role.MindHasRole<WerewolfRuleComponent>(mindId, out var mindRole))
+            AddComp(mindRole.Value, new RoleBriefingComponent { Briefing = briefingShort }, overwrite: true);
 
         EnsureComp<WerewolfAbilitiesComponent>(target, out var werewolfComp);
-        EnsureComp<WerewolfMindComponent>(mindId, out var werewolfMind);
+        EnsureComp<WerewolfMindComponent>(mindId);
 
         foreach (var action in werewolfComp.WerewolfActions)
         {
-            if (!werewolfMind.UnlockedActions.Contains(action))
-                werewolfMind.UnlockedActions.Add(action);
-
-            _actions.AddAction(mindId, action);
+            _actions.AddAction(target, action, container: mindId);
         }
 
         // add store
@@ -102,6 +97,9 @@ public sealed partial class WerewolfRuleSystem : GameRuleSystem<WerewolfRuleComp
         store.Categories.Add(rule.StoreSide); // maybe its better to make its own bool for it too? but if both evo & side is off, then its no point in adding a store at all
         store.CurrencyWhitelist.Add(Currency);
         store.Balance.Add(Currency, StartingCurrency);
+
+        // GOIDA
+        EnsureComp<NightVisionComponent>(target).LightingColor = Color.FromHex("#303030");
 
         rule.WerewolfMinds.Add(mindId);
         _antag.SendBriefing(target, briefing, Color.Brown, BriefingSound);
@@ -123,34 +121,19 @@ public sealed partial class WerewolfRuleSystem : GameRuleSystem<WerewolfRuleComp
         }
     }
 
-    private void OnTextPrepend(Entity<WerewolfRuleComponent> ent, ref ObjectivesTextPrependEvent args)
+    protected override void AppendRoundEndText(
+        EntityUid uid,
+        WerewolfRuleComponent component,
+        GameRuleComponent gameRule,
+        ref RoundEndTextAppendEvent args)
     {
-        var sb = new StringBuilder();
-
-        foreach (var mindId in ent.Comp.WerewolfMinds)
+        var eqe = EntityQueryEnumerator<WerewolfMindComponent, MindComponent>();
+        while (eqe.MoveNext(out var mindId, out var werewolf, out var mind))
         {
-            if (!TryComp<WerewolfMindComponent>(mindId, out var werewolf)
-                || !TryComp<MindComponent>(mindId, out var mind))
-                continue;
-
-            var name = _objectives.GetTitle((mindId, mind), Name(mind.OwnedEntity ?? mindId));
-            sb.AppendLine($"{name} bit [color=red]{werewolf.BittenPeople.Count}[/color] people."); // idfc
-
-            if (werewolf.PackMembers.Count == 0)
-                continue;
-
-            var pack = new List<string>();
-            foreach (var packMind in werewolf.PackMembers)
-            {
-                if (!TryComp<MindComponent>(packMind, out var packMind1))
-                    continue;
-
-                pack.Add(_objectives.GetTitle((packMind, packMind1), Name(packMind1.OwnedEntity ?? packMind)));
-            }
-
-            sb.AppendLine($"{name}'s pack: {string.Join(", ", pack)}.");
+            var name = Name(mind.OwnedEntity ?? mindId);
+            args.AddLine(Loc.GetString("werewolf-round-end-summary",
+                ("name", name),
+                ("points", werewolf.BittenPeople.Count)));
         }
-
-        args.Text = sb.ToString();
     }
 }

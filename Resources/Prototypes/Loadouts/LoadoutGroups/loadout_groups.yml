@@ -77,6 +77,10 @@
   - WhiteCane
   - TapeRecorder
   # </Trauma>
+  # SIS-Start
+  - WeaponDisablerPractice
+  - WeaponLaserCarbinePractice
+  # SIS-End
 
 - type: loadoutGroup
   id: Glasses
