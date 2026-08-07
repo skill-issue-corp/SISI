@@ -11,6 +11,7 @@ public sealed class HotFoodBuffSystem : EntitySystem
         base.Initialize();
 
         SubscribeLocalEvent<HotFoodComponent, MapInitEvent>(BuffFood);
+        SubscribeLocalEvent<HotFoodComponent, ComponentRemove>(DeBuffFood);
         SubscribeLocalEvent<HotFoodBuffComponent, StopMicrowaveEvent>(StopMicrowave);
         SubscribeLocalEvent<HotFoodComponent, ExaminedEvent>(OnExamine);
     }
@@ -39,9 +40,19 @@ public sealed class HotFoodBuffSystem : EntitySystem
         edibleComp.TransferAmount *= hotFoodBuffComp.NutritionalValueMultiplier;
     }
 
+    public void DeBuffFood(EntityUid uid, HotFoodComponent comp, ComponentRemove args)
+    {
+        if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))
+            return;
+        if (!TryComp<HotFoodBuffComponent>(comp.Owner, out var hotFoodBuffComp))
+            return;
+        edibleComp.TransferAmount /= hotFoodBuffComp.NutritionalValueMultiplier;
+    }
+
     private void StopMicrowave(EntityUid uid, HotFoodBuffComponent comp, ref StopMicrowaveEvent args)
     {
-        EnsureComp<HotFoodComponent>(uid);
+            EnsureComp<HotFoodComponent>(uid);
+
     }
 
     private void OnExamine(EntityUid uid, HotFoodComponent comp, ExaminedEvent args)

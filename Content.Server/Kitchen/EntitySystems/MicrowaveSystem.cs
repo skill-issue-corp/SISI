@@ -593,10 +593,6 @@ namespace Content.Server.Kitchen.EntitySystems
             {
                 RemCompDeferred<ActivelyMicrowavedComponent>(solid);
             }
-            // SIS-Microwave Start
-            var ev = new StopMicrowaveEvent();
-            RaiseLocalEvent(ent, ref ev);
-            // SIS-Microwave End
         }
 
         public static (FoodRecipePrototype, int) CanSatisfyRecipe(MicrowaveComponent component, FoodRecipePrototype recipe, Dictionary<string, int> solids, Dictionary<string, FixedPoint2> reagents)
@@ -682,7 +678,14 @@ namespace Content.Server.Kitchen.EntitySystems
                         Spawn(active.PortionedRecipe.Item1.Result, coords);
                     }
                 }
-
+                // SIS-Microwave Start
+                for (int i = 0; i < microwave.Storage.ContainedEntities.Count; i++)
+                {
+                    var entity = microwave.Storage.ContainedEntities[i];
+                    var ev = new StopMicrowaveEvent();
+                    RaiseLocalEvent(entity, ref ev);
+                }
+                // SIS-Microwave End
                 _container.EmptyContainer(microwave.Storage);
                 microwave.CurrentCookTimeEnd = TimeSpan.Zero;
                 UpdateUserInterfaceState(uid, microwave);
