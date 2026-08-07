@@ -1,5 +1,5 @@
 - type: entity
-  parent: MobBaseAncestor
+  parent: [MobBaseAncestor, BaseSlicingRefinable]
   id: MobFirePsiMonkey
   name: psi-monkey
   description: A strange-looking monkey with a red, exposed brain.
@@ -57,8 +57,8 @@
         Blunt: 1
     clumsySound:
       path: /Audio/Animals/monkey_scream.ogg
-  - type: Butcherable
-    spawned:
+  - type: ToolRefinable
+    refineResult:
     - id: PsiMonkeyRedBrain
       amount: 1
 
@@ -88,7 +88,7 @@
     sentence: action-speech-pyrokines # На случай если кто то зачем то вколит в них когнизин.
 
 - type: entity
-  parent: MobBaseAncestor
+  parent: [MobBaseAncestor, BaseSlicingRefinable]
   id: MobIcePsiMonkey
   name: psi-monkey
   description: A strange-looking monkey with a blue exposed brain.
@@ -146,8 +146,8 @@
         Blunt: 1
     clumsySound:
       path: /Audio/Animals/monkey_scream.ogg
-  - type: Butcherable
-    spawned:
+  - type: ToolRefinable
+    refineResult:
     - id: PsiMonkeyBlueBrain
       amount: 1
 
