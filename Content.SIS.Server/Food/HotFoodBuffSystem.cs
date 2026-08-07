@@ -10,6 +10,7 @@ public sealed class HotFoodBuffSystem : EntitySystem
     {
         base.Initialize();
 
+        SubscribeLocalEvent<HotFoodComponent, MapInitEvent>(BuffFood);
         SubscribeLocalEvent<HotFoodBuffComponent, StopMicrowaveEvent>(StopMicrowave);
         SubscribeLocalEvent<HotFoodComponent, ExaminedEvent>(OnExamine);
     }
@@ -29,15 +30,21 @@ public sealed class HotFoodBuffSystem : EntitySystem
         }
     }
 
-    private void StopMicrowave(EntityUid uid, HotFoodBuffComponent comp, ref StopMicrowaveEvent args)
+    public void BuffFood(EntityUid uid, HotFoodComponent comp, MapInitEvent args)
     {
-        if (!HasComp<EdibleComponent>(comp.Owner))
+        if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))
             return;
-
-        EnsureComp<HotFoodComponent>(comp.Owner);
+        if (!TryComp<HotFoodBuffComponent>(comp.Owner, out var hotFoodBuffComp))
+            return;
+        edibleComp.TransferAmount *= hotFoodBuffComp.NutritionalValueMultiplier;
     }
 
-    private void OnExamine(EntityUid uid, HotFoodComponent component, ExaminedEvent args)
+    private void StopMicrowave(EntityUid uid, HotFoodBuffComponent comp, ref StopMicrowaveEvent args)
+    {
+        EnsureComp<HotFoodComponent>(uid);
+    }
+
+    private void OnExamine(EntityUid uid, HotFoodComponent comp, ExaminedEvent args)
     {
         args.PushMarkup(Loc.GetString("cooling-component-on-examine"));
     }
