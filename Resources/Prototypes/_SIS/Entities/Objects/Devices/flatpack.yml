@@ -1,0 +1,12 @@
+- type: entity
+  parent: BaseFlatpack
+  id: FanTinyFlatpack
+  name: tiny fan flatpack
+  description: A flatpack used for constructing a tiny fan.
+  components:
+  - type: Sprite
+    sprite: _SIS/Objects/Devices/flatpack.rsi
+    layers:
+    - state: fan-tiny
+  - type: Flatpack
+    entity: AtmosDeviceFanTiny

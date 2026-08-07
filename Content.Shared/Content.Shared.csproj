@@ -24,6 +24,10 @@
     <!-- Inky -->
     <ProjectReference Include="..\Content.Inky.Common\Content.Inky.Common.csproj" />
     <!-- Inky -->
+    <!-- SIS-Modules Start -->
+    <ProjectReference Include="../Content.SIS.Common/Content.SIS.Common.csproj" />
+    <!-- SIS-Modules End -->
+
     <ProjectReference Include="..\Content.Shared.Database\Content.Shared.Database.csproj" />
   </ItemGroup>
 

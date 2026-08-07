@@ -1,0 +1,19 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: entity
+  parent: [ OrganBaseTail, OrganHumanExternal ]
+  id: OrganHumanTail
+  components:
+  - type: Sprite
+    sprite: Mobs/Customization/cat_parts.rsi
+    state: tail_cat
+  - type: VisualOrgan
+    data:
+      sprite: _Trauma/empty.rsi
+      state: empty # no sprite since the markings actually control it
+    secondData: #inkymed im so fucking tired im just gonna do this and not fuck with it
+      sprite: _Trauma/empty.rsi
+      state: empty
+  - type: PullerTail
+    speciesWhitelist:
+    - Human

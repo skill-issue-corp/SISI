@@ -282,6 +282,7 @@
   - PowerCellOverchargedSMG # Goobstation
   - PowerCellOverchargedSniper # Goobstation
   # Goobstation R&D Console rework start
+  - BorgModuleAdvancedSecurity # SIS
   position: 0,1 # inky
   technologyPrerequisites:
   - AdvancedPowerGeneration # inky

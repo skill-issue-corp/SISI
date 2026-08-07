@@ -6,8 +6,10 @@ concurrency:
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: '0 10 * * *'
+  # SIS-Start
+  # schedule:
+  # - cron: '0 10 * * *'
+  # SIS-End
 
 jobs:
   build:

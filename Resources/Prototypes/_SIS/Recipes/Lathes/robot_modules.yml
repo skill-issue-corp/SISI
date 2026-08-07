@@ -1,0 +1,11 @@
+# Security Modules
+
+- type: latheRecipe
+  parent: BaseGoldBorgModuleRecipe
+  id: BorgModuleAdvancedSecurity
+  result: BorgModuleAdvancedSecurity
+  materials:
+    Steel: 2000
+    Glass: 1500
+    Uranium: 250
+    Gold: 500

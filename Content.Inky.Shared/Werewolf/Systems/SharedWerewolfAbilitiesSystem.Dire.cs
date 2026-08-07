@@ -12,11 +12,11 @@ public partial class SharedWerewolfAbilitiesSystem
 {
     public void InitializeDire()
     {
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, EventWerewolfBleedingBite>(TryBite);
+        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfBleedingBiteEvent>(TryBite);
         SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfBleedingBiteDoAfterEvent>(DoBite);
     }
 
-    private void TryBite(EntityUid uid, WerewolfAbilitiesComponent component, EventWerewolfBleedingBite args)
+    private void TryBite(EntityUid uid, WerewolfAbilitiesComponent component, WerewolfBleedingBiteEvent args)
     {
         if (TryComp<MobStateComponent>(args.Target, out var mobState) && mobState.CurrentState == MobState.Dead) // to prevent wolves from biting corpses for heals and whatnot
         {
@@ -44,21 +44,19 @@ public partial class SharedWerewolfAbilitiesSystem
         if (args.Cancelled || args.Target == null)
             return;
 
-        SpillBloodPercentage(args.Target.Value, 30); // todo werewolf unhardcode
-        TryRegen(uid, comp, new EventWerewolfRegen()); // goida
+        SpillBloodPercentage(args.Target.Value, .3f); // todo werewolf unhardcode
+        TryRegen(uid, comp, new WerewolfRegenEvent()); // goida
 
         args.Handled = true;
     }
 
-    private void SpillBloodPercentage(EntityUid uid, int percentage) // if you make the number be negative or above 100 i will be very sad.
+    private void SpillBloodPercentage(EntityUid uid, float part) // if you make the number be negative or above 100 i will be very sad.
     {
-        if (!TryComp<BloodstreamComponent>(uid, out var stream))
+        if (!TryComp<BloodstreamComponent>(uid, out var stream)
+            || !_solution.ResolveSolution(uid, stream.BloodSolutionName, ref stream.BloodSolution, out var solution))
             return;
 
-        if (!_solution.ResolveSolution(uid, stream.BloodSolutionName, ref stream.BloodSolution, out var solution))
-            return;
-
-        var blood = _solution.SplitSolution(stream.BloodSolution.Value, solution.Volume * (percentage / 100f));
+        var blood = _solution.SplitSolution(stream.BloodSolution.Value, solution.Volume * part);
 
         if (blood.Volume > FixedPoint2.Zero)
             _puddle.TrySpillAt(uid, blood, out _);

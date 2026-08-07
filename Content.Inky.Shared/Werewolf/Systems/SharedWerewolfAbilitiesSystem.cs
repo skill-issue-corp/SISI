@@ -17,6 +17,7 @@ using Robust.Shared.Audio;
 using Robust.Shared.Audio.Systems;
 using Robust.Shared.Containers;
 using Robust.Shared.Player;
+using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
 
 namespace Content.Inky.Shared.Werewolf.Systems;
@@ -51,18 +52,19 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
      * which makes the eqe shit itself and crash the server
      * so we are collecting ents that need to transform to proccess them after
      */
-    private List<EntityUid> _transfurmQueue = new();
+    private readonly List<EntityUid> _transfurmQueue = [];
+    private readonly ProtoId<TagPrototype> _furryTag = "VulpEmotes"; // kill yourself
 
     public override void Initialize()
     {
         SubscribeLocalEvent<WerewolfAbilitiesComponent, HowlEvent>(DoHowl);
         SubscribeLocalEvent<WerewolfAbilitiesComponent, ComponentStartup>(OnStartup);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, EventWerewolfUpgradeAbility>(OnUpgradeAbility);
+        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfUpgradeAbilityEvent>(OnUpgradeAbility);
 
         SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfAmbushActionEvent>(OnAmbush);
         SubscribeLocalEvent<WerewolfAbilitiesComponent, ThrowDoHitEvent>(OnHit);
 
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, EventWerewolfRegen>(TryRegen);
+        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfRegenEvent>(TryRegen);
 
         InitializeDire();
         InitializeWhite();
@@ -82,14 +84,15 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
         _transfurmQueue.Clear();
 
         var eqe = EntityQueryEnumerator<WerewolfAbilitiesComponent>();
-        while (eqe.MoveNext(out var uid, out var comp))
+        while (eqe.MoveNext(out var ent))
         {
+            var uid = ent.Owner;
             if (!_mind.TryGetMind(uid, out var mindId, out _)
                 || !TryComp<WerewolfMindComponent>(mindId, out var mindComp)
                 || mindComp.BlockTransfurm)
                 continue;
 
-            mindComp.Accumulator += timePassed;
+            mindComp.Accumulator += TimeSpan.FromSeconds(timePassed);
 
             if (mindComp.Accumulator >= mindComp.TransfurmWarnDelay && !mindComp.HasWarned)
             {
@@ -118,7 +121,6 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
         UpdateBlack(timePassed); // if there would ever be an infection cure for this, use same shit as _transfurmQueue because it'll probably make eqe shit itself too
     }
 
-    private const string DogTag = "VulpEmotes";
     public void OnStartup(EntityUid uid, WerewolfAbilitiesComponent comp, ref ComponentStartup args)
     {
         if (_mind.TryGetMind(uid, out var mindId, out _)
@@ -129,12 +131,7 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
             return;
         }
 
-        if (_tag.HasTag(uid, DogTag))
-        {
-            comp.CurrentMutation = "WerewolfTransformWerehuman"; // TODO WEREWOLF unshit CurrentMutation to not use fucking string??? are you fucking retarded?????
-            return;
-        }
-        comp.CurrentMutation = "WerewolfTransformBasic"; // goida
+        comp.CurrentMutation = _tag.HasTag(uid, _furryTag) ? "WerewolfTransformWerehuman" : "WerewolfTransformBasic"; // goida
     }
 
     # region action handlers
@@ -142,63 +139,45 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
     {
         _audio.PlayPredicted(comp.ShriekSound, uid, uid);
 
-        var center = Transform(uid).MapPosition;
-        var gamers = Filter.Empty();
-        gamers.AddInRange(center, args.ShriekPower, _player, EntityManager);
-
-        foreach (var gamer in gamers.Recipients)
+        var victims = _entityLookup.GetEntitiesInRange(uid, args.ShriekPower);
+        foreach (var victim in victims)
         {
-            if (gamer.AttachedEntity == null)
-                continue;
+            var distance = Transform(victim).WorldPosition - Transform(uid).WorldPosition;
+            if (distance.EqualsApprox(Vector2.Zero))
+                distance = new(1, 0);
+            _recoil.KickCamera(uid, -distance.Normalized());
 
-            var pos = Transform(gamer.AttachedEntity!.Value).WorldPosition;
-            var delta = center.Position - pos;
-
-            if (delta.EqualsApprox(Vector2.Zero))
-                delta = new(.01f, 0);
-
-            _recoil.KickCamera(uid, -delta.Normalized());
-            foreach (var entity in _entityLookup.GetEntitiesInRange(uid, args.ShriekPower))
-            {
-                _stun.TryUpdateStunDuration(entity, TimeSpan.FromSeconds(args.StunDuration));
-                _stun.TryKnockdown(entity, TimeSpan.FromSeconds(args.StunDuration), true);
-            }
+            _stun.TryUpdateStunDuration(victim, TimeSpan.FromSeconds(args.StunDuration));
+            _stun.TryKnockdown(victim, TimeSpan.FromSeconds(args.StunDuration), true);
         }
 
         if (args.ForceTransfurm || args.HealNearby)
         {
-            List<EntityUid>? pack = null;
-            if (args.PackOnly)
-            {
-                if (!_mind.TryGetMind(uid, out var mindId, out _)
-                    || !TryComp<WerewolfMindComponent>(mindId, out var mindComp))
-                    return;
-
-                pack = mindComp.PackMembers;
-            }
+            var pack = args.PackOnly && _mind.TryGetMind(uid, out var mindId, out _) && TryComp<WerewolfMindComponent>(mindId, out var mindComp)
+                ? mindComp.PackMembers
+                : null;
 
             foreach (var wolf in _entityLookup.GetEntitiesInRange(uid, args.ShriekPower))
             {
                 if (!HasComp<WerewolfAbilitiesComponent>(wolf))
                     continue;
 
-                if (pack != null)
-                {
-                    if (!_mind.TryGetMind(wolf, out var mind, out _)
-                        || !pack.Contains(mind))
-                        continue;
-                }
+                if (pack != null
+                    && (!_mind.TryGetMind(wolf, out var mind, out _)
+                        || !pack.Contains(mind)))
+                    continue;
 
                 if (args.ForceTransfurm)
                     RaiseLocalEvent(wolf, new TransfurmEvent(true));
 
                 if (args.HealNearby)
-                    RaiseLocalEvent(wolf, new EventWerewolfRegen());
+                    RaiseLocalEvent(wolf, new WerewolfRegenEvent());
             }
         }
         _audio.PlayGlobal(comp.DistantSound, uid, AudioParams.Default.WithVolume(-30f)); // when you howl, everyone on the station hears a quiet distant howl, which breaks the metashield for the chaplain, "allegedly" todo uncomment when better sound is found
         args.Handled = true;
     }
+
     private void OnAmbush(EntityUid uid, WerewolfAbilitiesComponent comp, WerewolfAmbushActionEvent args) // partially taken from xenos jump
     {
         if (args.Handled
@@ -216,11 +195,7 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
         //     return;
 
         _throwingItem.StopThrow(uid, args.Component);
-
-        if (Transform(args.Target).Anchored)
-            _stun.TryUpdateParalyzeDuration(uid, TimeSpan.FromSeconds(1));
-        else
-            _stun.TryKnockdown(args.Target, TimeSpan.FromSeconds(1), true);
+        _stun.TryKnockdown(args.Target, TimeSpan.FromSeconds(1), true);
 
         // args.Handled = true;
     }
@@ -230,28 +205,19 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
     /// <summary>
     /// Deletes and replaces the args.OldActionId with the args.NewActionId, also adding it to the mind
     /// </summary>
-    private void OnUpgradeAbility(EntityUid uid, WerewolfAbilitiesComponent comp, EventWerewolfUpgradeAbility args)
+    private void OnUpgradeAbility(EntityUid uid, WerewolfAbilitiesComponent comp, WerewolfUpgradeAbilityEvent args)
     {
-        if (!_mind.TryGetMind(uid, out var mindId, out _)
-            || !TryComp<WerewolfMindComponent>(mindId, out var mindComp))
+        if (!_mind.TryGetMind(uid, out var mindId, out _))
             return;
 
         // update the mind to have those new actions
-        if (args.OldActionId != null) // holy fucking kill myself
+        if (args.OldActionId is { } oldActionId && _actions.TryGetActionById(mindId, oldActionId, out var oldAction))
         {
-            mindComp.UnlockedActions.Remove(args.OldActionId);
-            if (_actions.TryGetActionById(mindId, args.OldActionId, out var oldAction))
-                _actionCon.RemoveAction(oldAction.Value.AsNullable());
-            else if (_actions.TryGetActionById(uid, args.OldActionId, out var oldAttachedAction))
-                _actions.RemoveAction(uid, oldAttachedAction.Value.AsNullable());
+            _actions.RemoveProvidedAction(uid, mindId, oldAction.Value); // idk if this is needed
+            QueueDel(oldAction);
         }
 
-        if (!mindComp.UnlockedActions.Contains(args.NewActionId))
-            mindComp.UnlockedActions.Add(args.NewActionId);
-
-        var action = _actionCon.AddAction(mindId, args.NewActionId);
-        if (action != null)
-            _actions.GrantContainedAction(uid, mindId, action.Value);
+        _actions.AddAction(uid, args.NewActionId, container: mindId);
 
         _popup.PopupEntity(Loc.GetString("werewolf-ability-upgraded"), uid, uid);
         args.Handled = true;
@@ -270,7 +236,7 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
         return _solution.TryAddSolution(targetSolution.Value, solution);
     }
 
-    private void TryRegen(EntityUid uid, WerewolfAbilitiesComponent comp, EventWerewolfRegen args)
+    private void TryRegen(EntityUid uid, WerewolfAbilitiesComponent comp, WerewolfRegenEvent args)
     {
         var reagents = new Dictionary<string, FixedPoint2> // i hate fixedpoint bru // todo werewolf unhardcode, put into a comp idk
         {

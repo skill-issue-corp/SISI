@@ -386,6 +386,10 @@
   - type: BatteryAmmoProvider
     proto: LaserGunBulletPractice # Trauma
   - type: PacifismAllowedGun
+  # SIS-Start
+  - type: BatterySelfRecharger
+    autoRechargeRate: 40
+  # SIS-End
 
 - type: entity
   name: pulse pistol
@@ -696,6 +700,10 @@
     - Taser
     - Sidearm
   - type: PacifismAllowedGun
+  # SIS-Start
+  - type: BatterySelfRecharger
+    autoRechargeRate: 40
+  # SIS-End
 
 - type: entity
   name: disabler
@@ -735,6 +743,10 @@
     - Sidearm
     - WeaponDisabler
   # Goobstation end
+  # SIS-Start
+  - type: BatterySelfRecharger
+    autoRechargeRate: 0 # Какого черта станнер берет парент от своей тренировочной версии...?
+  # SIS-End
 
 - type: entity
   name: disabler SMG

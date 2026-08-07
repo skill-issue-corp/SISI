@@ -27,7 +27,7 @@ ent-ClothingOuterCoatJensen = пальто Дженсена
 
 ent-ClothingOuterCoatJensenSyndie = { ent-ClothingOuterCoatJensen }
     .desc = { ent-ClothingOuterCoatJensen.desc }
-    .suffix = Синдикат
+    .suffix = Синди
 
 ent-ClothingOuterCoatTrench = тренчкот
     .desc = Удобный тренч.

@@ -27,6 +27,11 @@
     <ProjectReference Include="..\Content.Inky.Server\Content.Inky.Server.csproj" />
     <ProjectReference Include="..\Content.Inky.Shared\Content.Inky.Shared.csproj" />
     <!-- Inky -->
+    <!-- SIS-Modules Start -->
+    <ProjectReference Include="..\Content.SIS.Client\Content.SIS.Client.csproj" />
+    <ProjectReference Include="..\Content.SIS.Server\Content.SIS.Server.csproj" />
+    <ProjectReference Include="..\Content.SIS.Shared\Content.SIS.Shared.csproj" />
+    <!-- SIS-Modules End -->
     <ProjectReference Include="..\Content.Server\Content.Server.csproj" />
     <ProjectReference Include="..\Content.Shared\Content.Shared.csproj" />
     <ProjectReference Include="..\Content.Tests\Content.Tests.csproj" />

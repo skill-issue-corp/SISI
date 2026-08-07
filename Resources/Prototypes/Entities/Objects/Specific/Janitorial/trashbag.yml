@@ -21,6 +21,19 @@
     whitelist:
       tags:
         - Trash
+      # SIS-Start
+        - CartridgeAntiMateriel
+        - CartridgeCap
+        - CartridgeCaselessRifle
+        - CartridgeDebug
+        - CartridgeHeavyRifle
+        - CartridgeLightRifle
+        - CartridgeMagnum
+        - CartridgePistol
+        - CartridgeRifle
+        - CartridgeRocket
+        - ShellShotgun
+      # SIS-End
   - type: UseDelay
     delay: 0.5
   - type: Tag

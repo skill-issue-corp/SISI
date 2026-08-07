@@ -1,0 +1,11 @@
+- type: loadout
+  id: WeaponLaserCarbinePractice
+  storage:
+    back:
+    - WeaponLaserCarbinePractice
+    
+- type: loadout
+  id: WeaponDisablerPractice
+  storage:
+    back:
+    - WeaponDisablerPractice

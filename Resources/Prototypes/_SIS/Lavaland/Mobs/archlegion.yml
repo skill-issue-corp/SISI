@@ -5,7 +5,7 @@
   description: It's completely covered with skulls. It's incredibly huge.
   components:
   - type: Sprite
-    sprite: _SIS/Mobs/arclegion.rsi
+    sprite: _SIS/Mobs/Lavaland/arclegion.rsi
     layers:
     - map: ["enum.DamageStateVisualLayers.Base"]
       state: alive

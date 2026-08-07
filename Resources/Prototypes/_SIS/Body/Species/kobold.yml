@@ -1,0 +1,83 @@
+- type: entity
+  parent:
+  - AppearanceKobold
+  - BaseSpeciesMobOrganic
+  id: MobKoboldPerson
+  name: Urisst' Mzkobold
+  components:
+  - type: Puller
+    needsHands: false
+  - type: Butcherable
+    spawned:
+    - id: FoodMeatLizard
+      amount: 5
+  - type: LizardAccent
+  - type: Speech
+    speechSounds: Lizard
+    speechVerb: Reptilian
+    allowedEmotes: ['Thump']
+  - type: TypingIndicator
+    proto: lizard
+  - type: Vocal
+    emoteSounds: MaleReptilian
+  - type: BodyEmotes
+    soundsId: ReptilianBodyEmotes
+  - type: Damageable
+    damageModifierSet: Scale
+  - type: MeleeWeapon
+    soundHit:
+      collection: AlienClaw
+    angle: 30
+    animation: WeaponArcClaw
+    damage:
+      types:
+        Slash: 5
+  - type: Temperature
+    currentTemperature: 310.15
+    specificHeat: 42
+  - type: TemperatureDamage
+    heatDamageThreshold: 400
+    coldDamageThreshold: 285
+    coldDamage:
+      types:
+        Cold : 0.1 #per second, scales with temperature & other constants
+    heatDamage:
+      types:
+        Heat : 1.5 #per second, scales with temperature & other constants
+  - type: TemperatureSpeed
+    thresholds:
+      301: 0.9
+      295: 0.8
+      285: 0.7
+  - type: MobThresholds
+    thresholds:
+      0: Alive
+      80: Critical
+      200: Dead
+  - type: Hunger
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeCircle
+          radius: 0.35
+        density: 120
+        restitution: 0.0
+        mask:
+        - MobMask
+        layer:
+        - MobLayer
+  - type: Thirst
+  - type: NoSlip
+  - type: Inventory
+    templateId: kobold
+    speciesId: kobold
+  - type: LanguageSpeaker
+    speaks:
+    - TauCetiBasic
+    - Kobold
+    - Monkey
+    understands:
+    - TauCetiBasic
+    - Kobold
+    - Monkey

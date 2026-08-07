@@ -28,6 +28,10 @@
     #- id: SpiderSpawnHorde
     # </Trauma>
     - id: VentClog
+    # SIS-Start
+    - id: BluePsiMonkeySpawn
+    - id: RedPsiMonkeySpawn
+    # SIS-End
 
 - type: entityTable
   id: BasicAntagEventsTable
@@ -418,6 +422,10 @@
     weight: 5
     duration: 60
   - type: VentClogRule
+    weakReagents: #Inky
+    - Slime
+    - SpaceGlue
+    - SpaceLube
 
 # Critters
 

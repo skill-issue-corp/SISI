@@ -42,10 +42,10 @@
       limit: 1
       required: false
     enum.HumanoidVisualLayers.Tail:
-      limit: 0
+      limit: 1 # SIS
       required: false
     enum.HumanoidVisualLayers.Special:
-      limit: 0
+      limit: 1 # SIS
       required: false
 
 - type: entity
@@ -69,6 +69,7 @@
       ArmRight: OrganHumanArmRight
 #      HandRight: OrganHumanHandRight #inkymed
 #      HandLeft: OrganHumanHandLeft #inkymed
+      Tail: OrganHumanTail # SIS
       LegLeft: OrganHumanLegLeft
       LegRight: OrganHumanLegRight
 #      FootLeft: OrganHumanFootLeft #inkymed
@@ -154,7 +155,7 @@
       group: Human
 
 - type: entity
-  parent: [ OrganBaseTorsoSexed, OrganBaseTorso, OrganHumanExternal ]
+  parent: [ OrganBaseTorsoSexed, OrganBaseTorsoTailed, OrganHumanExternal ] # SIS
   id: OrganHumanTorso
 
 - type: entity

@@ -29,13 +29,12 @@ namespace Content.Inky.Server.Werewolf.Systems;
 
 public sealed partial class WerewolfAbilitiesSystem : EntitySystem
 {
+    // holy fuck
     [Dependency] private PolymorphSystem _polymorph = default!;
     [Dependency] private StoreSystem _store = default!;
     [Dependency] private PopupSystem _popup = default!;
     [Dependency] private MindSystem _mind = default!;
     [Dependency] private HungerSystem _hunger = default!;
-
-    // holy fuck
     [Dependency] private SharedDoAfterSystem _doAfter = default!;
     [Dependency] private IPrototypeManager _proto = default!;
     [Dependency] private DamageableSystem _damage = default!;
@@ -56,8 +55,8 @@ public sealed partial class WerewolfAbilitiesSystem : EntitySystem
         base.Initialize();
 
         SubscribeLocalEvent<WerewolfAbilitiesComponent, TransfurmEvent>(TryTransfurm);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, EventWerewolfChangeType>(OnChangeType);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, EventWerewolfOpenStore>(OnOpenStore);
+        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfChangeTypeEvent>(OnChangeType);
+        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfOpenStoreEvent>(OnOpenStore);
         SubscribeLocalEvent<WerewolfAbilitiesComponent, PolymorphedEvent>(OnPolymorphed);
         SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfActionRemoveEvent>(OnActionRemove);
 
@@ -75,38 +74,34 @@ public sealed partial class WerewolfAbilitiesSystem : EntitySystem
             return;
 
         SyncMind(uid, component, mindComp);
+        args.Handled = true; // if you add a return which shouldn't count as "handled" ADD IT BEFORE THIS
 
         if (mindComp.BlockTransfurm)
         {
             _popup.PopupEntity(Loc.GetString("werewolf-transfurm-block"), uid, uid);
-            args.Handled = true;
             return;
         }
 
         if (!args.Forced && mindComp.Accumulator < mindComp.TransfurmOnCommandDelay)
         {
-            var remainingTime = (int) MathF.Round(mindComp.TransfurmOnCommandDelay - mindComp.Accumulator);
+            var remainingTime = Math.Round((mindComp.TransfurmOnCommandDelay - mindComp.Accumulator).TotalSeconds);
             _popup.PopupEntity(Loc.GetString("werewolf-transfurm-cooldown", ("remainingTime", remainingTime)), uid, uid);
-            args.Handled = true;
             return;
         }
 
+        mindComp.TransfurmReady = false;
+        mindComp.Accumulator = TimeSpan.Zero;
+
+        // GOIDA
         if (component.Transfurmed)
         {
-            component.Transfurmed = false;
-            mindComp.TransfurmReady = false;
-            _polymorph.Revert(uid);
-            args.Handled = true;
-            mindComp.Accumulator = 0f;
+            if (_polymorph.Revert(uid) is { } human)
+                EnsureComp<WerewolfAbilitiesComponent>(human).Transfurmed = false;
             return;
         }
 
-        component.Transfurmed = true;
-        mindComp.TransfurmReady = false;
-        _polymorph.PolymorphEntity(uid, component.CurrentMutation);
-        component.Transfurmed = false; // trust this is really important, the fucking polymorph is shit!!!!
-        mindComp.Accumulator = 0f;
-        args.Handled = true;
+        if (_polymorph.PolymorphEntity(uid, component.CurrentMutation) is { } furry)
+            EnsureComp<WerewolfAbilitiesComponent>(furry).Transfurmed = true;
     }
 
     private void OnPolymorphed(EntityUid uid, WerewolfAbilitiesComponent comp, PolymorphedEvent args)
@@ -127,13 +122,13 @@ public sealed partial class WerewolfAbilitiesSystem : EntitySystem
         RaiseLocalEvent(ev); // this is a very lazy solution but hey it works
     }
 
-    private void OnOpenStore(Entity<WerewolfAbilitiesComponent> ent, ref EventWerewolfOpenStore args)
+    private void OnOpenStore(Entity<WerewolfAbilitiesComponent> ent, ref WerewolfOpenStoreEvent args)
     {
         if (ent.Comp.Transfurmed)
             return;
 
         WerewolfMindComponent? mindComp = null;
-        if (_mind.TryGetMind(ent, out var mindId, out _) && TryComp<WerewolfMindComponent>(mindId, out mindComp))
+        if (_mind.TryGetMind(ent, out var mindId, out _) && TryComp(mindId, out mindComp))
             SyncMind(ent, ent.Comp, mindComp);
 
         if (!TryComp<StoreComponent>(ent, out var store))
@@ -142,20 +137,17 @@ public sealed partial class WerewolfAbilitiesSystem : EntitySystem
         // ok hear me out
         // when you do shit in the WW form that gives you points, it saves in mind and then the next time you open store it adds up
         // you HAVE to do ts because why? POLYMORPH IS FUCKING SHIT OF COURSE! ig you can store the old uid for store and shit but whatever
-        if (mindComp != null)
+        if (mindComp != null && mindComp.Currency > 0)
         {
-            if (mindComp.Currency > 0)
-            {
-                _store.TryAddCurrency(new Dictionary<string, FixedPoint2> {{ "Fury", mindComp.Currency }}, ent);
-                mindComp.Currency = 0;
-            }
+            _store.TryAddCurrency(new Dictionary<string, FixedPoint2> { { "Fury", mindComp.Currency } }, ent);
+            mindComp.Currency = 0;
         }
 
         _store.ToggleUi(ent, ent, store);
         ent.Comp.StoreOpened = true;
     }
 
-    private void OnChangeType(EntityUid uid, WerewolfAbilitiesComponent comp, EventWerewolfChangeType args)
+    private void OnChangeType(EntityUid uid, WerewolfAbilitiesComponent comp, WerewolfChangeTypeEvent args)
     {
         comp.CurrentMutation = args.WerewolfType;
         Dirty(uid, comp);

@@ -13,6 +13,15 @@
         },
         {
             "name": "select-type"
+        },
+        {
+            "name":"adv-security-module"
+        },
+        {
+            "name":"basic-security-module"
+        },
+        {
+            "name": "drozd-module"
         }
     ]
 }
