@@ -21,6 +21,7 @@ namespace Content.Goobstation.Client.ServerCurrency.UI
         private bool isAdmin = false;
         private Dictionary<Button, (DateTime LastClick, TokenListingPrototype Listing)> _buttonClickTimes = new();
         private const double DoubleClickTimeWindow = 1.5; // seconds
+        public string Command = Loc.GetString("server-currency-add-command"); // SIS-TODO: Порт на Травму
 
         public CurrencyWindow()
         {
@@ -29,7 +30,7 @@ namespace Content.Goobstation.Client.ServerCurrency.UI
 
             UpdatePlayerBalance();
 
-            isAdmin = _adminManager.CanCommand("balance:add");
+            isAdmin = _adminManager.CanCommand(Command); // SIS-TODO: Порт на Травму
 
             if (!isAdmin)
                 Admin.Visible = false;
@@ -113,7 +114,7 @@ namespace Content.Goobstation.Client.ServerCurrency.UI
             if (!isAdmin || player == null || value == 0)
                 return;
 
-            _consoleHost.ExecuteCommand("balance:add " + player + " " + value);
+            _consoleHost.ExecuteCommand(Command + " " + player + " " + value); // SIS-TODO: Порт на Травму
 
             UpdatePlayerBalance();
         }
