@@ -66,6 +66,7 @@
     - BlobGameMode
     - LoneAbductorSpawn
     - Changeling
+    - Werewolf # SIS
 #    - Insurgency # inky - kill insurgents
     # </Trauma>
   # inky
@@ -109,6 +110,7 @@
     - RampingStationEventScheduler
     - SpaceTrafficControlEventScheduler
     - BasicRoundstartVariation
+    - Werewolf # SIS
   # inky
     - FunGameruleChooser
   # /inky
