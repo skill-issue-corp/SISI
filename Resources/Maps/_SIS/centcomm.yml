@@ -42349,7 +42349,7 @@ entities:
       parent: 1668
       rot: 3.141592653589793 rad
       pos: 7.5,-14.5
-- proto: Hypospray
+- proto: CentCommHypo
   entities:
   - uid: 799
     components:
