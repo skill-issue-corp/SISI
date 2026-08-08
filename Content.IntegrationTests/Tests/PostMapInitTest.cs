@@ -75,7 +75,9 @@ namespace Content.IntegrationTests.Tests
             {"/Maps/Shuttles/ShuttleEvent/honki.yml", ["GoldenBikeHorn", "RubberStampClown"]},
             {"/Maps/Shuttles/ShuttleEvent/syndie_evacpod.yml", ["RubberStampSyndicate"]},
             {"/Maps/Shuttles/ShuttleEvent/cruiser.yml", ["ShuttleGunPerforator"]},
-            {"/Maps/Shuttles/ShuttleEvent/instigator.yml", ["ShuttleGunFriendship"]}
+            {"/Maps/Shuttles/ShuttleEvent/instigator.yml", ["ShuttleGunFriendship"]},
+            // SIS
+            {"/Maps/_SIS/centcomm.yml", ["BoxFolderCentCom","HealingToolbox","RubberStampCentcom","RubberStampQm"]}
         };
 
         /// <summary>
@@ -94,6 +96,7 @@ namespace Content.IntegrationTests.Tests
             "/Maps/_Inky/dev.yml",
             // /inky
             "/Maps/Shuttles/AdminSpawn/**", // admin gaming
+            // SIS
             "/Maps/_SIS/centcomm.yml"
         };
 
