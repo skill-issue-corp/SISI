@@ -11,7 +11,7 @@
   # /inky
   - type: HereticRule
   - type: GameRule
-    minPlayers: 15
+    minPlayers: 20 # SIS
   - type: AntagObjectives
     objectives:
     - HereticKnowledgeObjective
@@ -36,7 +36,7 @@
       range:
        min: 1
        max: 6
-      playerRatio: 10
+      playerRatio: 15 # SIS
   - type: DynamicRuleCost
     cost: 120
 
