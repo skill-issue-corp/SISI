@@ -91,10 +91,9 @@ public sealed partial class AHelpUIController: UIController, IOnSystemChanged<Bw
 
     private void AHelpButtonPressed(BaseButton.ButtonEventArgs obj)
     {
+        // SIS-Mentor_Remove Start
         EnsureUIHelper();
         UIHelper!.ToggleWindow();
-
-        // SIS-Mentor_Remove Start
         /*
         // <Trauma>
         // EnsureUIHelper();
