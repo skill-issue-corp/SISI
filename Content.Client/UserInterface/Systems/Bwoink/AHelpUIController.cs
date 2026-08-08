@@ -91,11 +91,18 @@ public sealed partial class AHelpUIController: UIController, IOnSystemChanged<Bw
 
     private void AHelpButtonPressed(BaseButton.ButtonEventArgs obj)
     {
+        EnsureUIHelper();
+        UIHelper!.ToggleWindow();
+
+        // SIS-Mentor_Remove Start
+        /*
         // <Trauma>
         // EnsureUIHelper();
         // UIHelper!.ToggleWindow();
         OnLoad?.Invoke(this);
         // </Trauma>
+        */
+        // SIS-Mentor_Remove End
     }
 
     public void OnSystemLoaded(BwoinkSystem system)
@@ -104,7 +111,7 @@ public sealed partial class AHelpUIController: UIController, IOnSystemChanged<Bw
         _bwoinkSystem.OnBwoinkTextMessageRecieved += ReceivedBwoink;
 
         _input.SetInputCommand(ContentKeyFunctions.OpenAHelp,
-            InputCmdHandler.FromDelegate(_ => OnLoad?.Invoke(this))); // Trauma - Changed to open staff help
+            InputCmdHandler.FromDelegate(_ => ToggleWindow())); // SIS-Mentor_Remove | InputCmdHandler.FromDelegate(_ => OnLoad?.Invoke(this))); // Trauma - Changed to open staff help
     }
 
     public void OnSystemUnloaded(BwoinkSystem system)
