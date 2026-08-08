@@ -35,7 +35,7 @@
       amount: 1, 1
 
 - type: entity
-  parent: BaseAntagGhostRoleRule
+  parent: BaseMidroundAntagRule
   id: WerewolfMidround
   components:
   - type: StationEvent
