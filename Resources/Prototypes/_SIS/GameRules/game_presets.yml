@@ -1,0 +1,20 @@
+- type: gamePreset
+  id: Werewolfs
+  alias:
+  - werewolf
+  - werewolfs
+  name: heretics-title
+  description: heretics-description
+  showInVote: false
+  rules:
+  - BasicRoundstartVariation
+  - BasicStationEventScheduler
+  - BasicAntagEventScheduler
+  - ModerateAntagEventScheduler
+  - MeteorSwarmScheduler
+  - SpaceTrafficControlEventScheduler
+  - SubGamemodesRule
+  - Werewolf
+  # inky
+  - FunGameruleChooser
+  # /inky

@@ -2,6 +2,7 @@
   parent: BaseStationEventShortDelay
   id: RedPsiMonkeySpawn
   components:
+  - type: GhostroleAlert
   - type: StationEvent
     startAnnouncement: station-event-vent-creatures-start-announcement
     startAudio:
@@ -19,6 +20,7 @@
   parent: BaseStationEventShortDelay
   id: BluePsiMonkeySpawn
   components:
+  - type: GhostroleAlert
   - type: StationEvent
     startAnnouncement: station-event-vent-creatures-start-announcement
     startAudio:
@@ -31,3 +33,29 @@
     table:
       id: MobIcePsiMonkey
       amount: 1, 1
+
+- type: entity
+  parent: BaseAntagGhostRoleRule
+  id: WerewolfMidround
+  components:
+  - type: StationEvent
+    weight: 4
+    earliestStart: 30
+    minimumPlayers: 20
+    duration: null
+  - type: WerewolfRule
+  - type: AntagSelection
+    antags:
+    - !type:LinearAntagCount
+      proto: Werewolf
+      range:
+        min: 2
+        max: 5
+      playerRatio: 12
+  - type: AntagPlayerEffects
+    effects:
+    - !type:NestedEffect
+      proto: WerewolfSkills
+  - type: AntagObjectives
+    objectives:
+    - EscapeShuttleObjective

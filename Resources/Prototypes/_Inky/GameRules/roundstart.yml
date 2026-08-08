@@ -1,5 +1,5 @@
 - type: entity
-  parent: BaseGameRule
+  parent: [BaseGameRule, BaseRoundstartAntagRule] # SIS | BaseGameRule
   id: Werewolf
   components:
   - type: WerewolfRule
@@ -17,3 +17,8 @@
         min: 2
         max: 5
       playerRatio: 12
+  # SIS-Start
+  - type: AntagObjectives
+    objectives:
+    - EscapeShuttleObjective
+  # SIS-End

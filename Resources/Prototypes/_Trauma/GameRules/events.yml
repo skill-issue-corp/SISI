@@ -25,6 +25,7 @@
     - id: WraithMidround # Unchuddified version | no evolution | no absorbing corpses
     - id: ParadoxCloneSpawn
     - id: MorphRule
+    - id: WerewolfMidround # SIS
 
 - type: entityTable
   id: ModerateAntagEventsTrauma
