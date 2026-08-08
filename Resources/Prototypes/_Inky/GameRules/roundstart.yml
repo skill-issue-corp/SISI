@@ -20,5 +20,5 @@
   # SIS-Start
   - type: AntagObjectives
     objectives:
-    - EscapeShuttleObjective
+    - EscapeWerewolfShuttleObjective
   # SIS-End

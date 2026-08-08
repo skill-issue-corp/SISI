@@ -58,4 +58,4 @@
       proto: WerewolfSkills
   - type: AntagObjectives
     objectives:
-    - EscapeShuttleObjective
+    - EscapeWerewolfShuttleObjective
