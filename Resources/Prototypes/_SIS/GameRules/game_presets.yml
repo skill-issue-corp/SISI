@@ -3,8 +3,8 @@
   alias:
   - werewolf
   - werewolfs
-  name: heretics-title
-  description: heretics-description
+  name: werewolfs-title
+  description: werewolfs-description
   showInVote: false
   rules:
   - BasicRoundstartVariation
