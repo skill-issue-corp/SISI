@@ -125,7 +125,7 @@
   abstract: true
   components:
     - type: StationCentcomm
-      map: /Maps/_Trauma/centcomm.yml # Trauma
+      map: /Maps/_SIS/centcomm.yml # SIS
 
 - type: entity
   id: BaseStationEvacuation

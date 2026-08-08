@@ -50,7 +50,7 @@ namespace Content.IntegrationTests.Tests
 
         private static readonly string[] Grids =
         {
-            "/Maps/_Trauma/centcomm.yml", // Trauma
+            "/Maps/_SIS/centcomm.yml", // SIS
             AdminTestArenaSystem.ArenaMapPath
         };
 
@@ -89,12 +89,12 @@ namespace Content.IntegrationTests.Tests
         {
             // <Trauma>
             "/Maps/_Goobstation/Shuttles/consul.yml",
-            "/Maps/_Trauma/centcomm.yml",
             // </Trauma>
             // inky
             "/Maps/_Inky/dev.yml",
             // /inky
-            "/Maps/Shuttles/AdminSpawn/**" // admin gaming
+            "/Maps/Shuttles/AdminSpawn/**", // admin gaming
+            "/Maps/_SIS/centcomm.yml"
         };
 
         /// <summary>

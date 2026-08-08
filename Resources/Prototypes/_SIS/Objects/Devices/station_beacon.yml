@@ -1,0 +1,33 @@
+# SIS CentComm Beacons
+
+- type: entity
+  parent: DefaultStationBeacon
+  id: DefaultStationBeaconCentComm
+  suffix: Not teleport point, CentComm
+  components:
+  - type: NavMapBeacon
+    text: CentComm
+
+- type: entity
+  parent: DefaultStationBeaconCentComm
+  id: DefaultStationBeaconCentCommAfterhours
+  suffix: Not teleport point, CentComm Afterhours
+  components:
+  - type: NavMapBeacon
+    text: Afterhours
+
+- type: entity
+  parent: DefaultStationBeaconCentComm
+  id: DefaultStationBeaconCentCommThunderdome
+  suffix: Not teleport point, CentComm Thunder Dome
+  components:
+  - type: NavMapBeacon
+    text: Thunderdome
+
+- type: entity
+  parent: DefaultStationBeaconCentComm
+  id: DefaultStationBeaconCentCommERT
+  suffix: Not teleport point, CentComm ERT
+  components:
+  - type: NavMapBeacon
+    text: ERT
