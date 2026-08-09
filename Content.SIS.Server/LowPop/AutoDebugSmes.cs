@@ -22,7 +22,7 @@ public sealed partial class AutoDebugSmes : EntitySystem
 
     private readonly string _engiDep = "Engineering";
 
-    private const float DelaySeconds = 5f * 60f / 2f;
+    private const float DelaySeconds = 5f * 60f;
     private float _timer;
 
     private bool _handled = true;
