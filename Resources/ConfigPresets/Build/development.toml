@@ -73,5 +73,5 @@ pg_password = "postgres"
 
 # SIS-Start
 [sis]
-auto_debug = false
+auto_debug_smes = false
 # SIS-End

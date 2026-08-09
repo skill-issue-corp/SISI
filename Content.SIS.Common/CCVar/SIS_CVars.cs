@@ -8,7 +8,7 @@ public sealed partial class SIS_CVars
     #region lowpop
 
     public static readonly CVarDef<bool> AutoDebug =
-        CVarDef.Create("sis.auto_debug", true, CVar.SERVERONLY);
+        CVarDef.Create("sis.auto_debug_smes", true, CVar.SERVERONLY);
 
     public static readonly CVarDef<int> LowPopLimit =
         CVarDef.Create("sis.low_pop_limit", 15, CVar.SERVERONLY);
