@@ -1,28 +1,44 @@
 using Content.Server.Chat.Systems;
+using Content.Server.GameTicking.Events;
+using Content.Server.Mind;
 using Content.Server.Power.SMES;
 using Content.Shared.Power.Components;
+using Content.Shared.Roles;
 using Content.Shared.Roles.Components;
 using Content.Shared.Roles.Jobs;
 using Content.Shared.SSDIndicator;
 using Content.SIS.Common.CCVar;
-using Robust.Server.Player;
 using Robust.Shared.Configuration;
+using Robust.Shared.Prototypes;
 
 namespace Content.SIS.Server.LowPop;
 
 public sealed partial class AutoDebugSmes : EntitySystem
 {
     [Dependency] private IConfigurationManager _cfg = default!;
-    [Dependency] private IPlayerManager _playerMan = default!;
     [Dependency] private SharedJobSystem _jobSystem = default!;
     [Dependency] private ChatSystem _chat = default!;
+    [Dependency] private MindSystem _mindSystem = default!;
 
-    private readonly LocId _engiDep = "department-Engineering";
+    private readonly string _engiDep = "Engineering";
 
-    private const float DelaySeconds = 5f * 60f;
-    private float _timer = 0;
+    private const float DelaySeconds = 5f * 60f / 2f;
+    private float _timer;
 
-    private bool _handled = false;
+    private bool _handled = true;
+
+    public override void Initialize()
+    {
+        base.Initialize();
+
+        SubscribeLocalEvent<RoundStartingEvent>(OnRoundStarting);
+    }
+
+    private void OnRoundStarting(RoundStartingEvent args)
+    {
+        _timer = 0;
+        _handled = false;
+    }
 
     public override void Update(float frameTime)
     {
@@ -39,19 +55,32 @@ public sealed partial class AutoDebugSmes : EntitySystem
         var jobCount = 0;
         var engiCount = 0;
 
-        var playersQuery = EntityQueryEnumerator<SSDIndicatorComponent, MindRoleComponent>();
-        while (playersQuery.MoveNext(out _, out var ssdIndicatorComp, out var mindRoleComp))
+        var playersQuery = EntityQueryEnumerator<SSDIndicatorComponent>();
+        while (playersQuery.MoveNext(out var uid, out var ssdIndicatorComp))
         {
             if (ssdIndicatorComp.IsSSD)
                 continue;
 
-            if (mindRoleComp.JobPrototype is not {} job)
+            if (!_mindSystem.TryGetMind(uid, out _, out var mindComp))
+                continue;
+
+            ProtoId<JobPrototype>? jobPrototype = null;
+            foreach (var role in mindComp.MindRoleContainer.ContainedEntities)
+            {
+                if (!TryComp<MindRoleComponent>(role, out var comp))
+                    continue;
+
+                jobPrototype = comp.JobPrototype;
+                break;
+            }
+
+            if (jobPrototype is not {} job)
                 continue;
 
             jobCount++;
 
             _jobSystem.TryGetDepartment(job.Id, out var department);
-            if (_engiDep == department?.Name)
+            if (_engiDep == department?.ID)
                 engiCount++;
         }
 
