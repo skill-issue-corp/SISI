@@ -20,7 +20,8 @@ public sealed partial class AutoDebugSmes : EntitySystem
     [Dependency] private ChatSystem _chat = default!;
     [Dependency] private MindSystem _mindSystem = default!;
 
-    private readonly string _engiDep = "Engineering";
+    private const string _engiDep = "Engineering";
+    private const string _ceId = "ChiefEngineer";
 
     private const float DelaySeconds = 5f * 60f;
     private float _timer;
@@ -80,7 +81,7 @@ public sealed partial class AutoDebugSmes : EntitySystem
             jobCount++;
 
             _jobSystem.TryGetDepartment(job.Id, out var department);
-            if (_engiDep == department?.ID)
+            if (_engiDep == department?.ID || job.Id == _ceId)
                 engiCount++;
         }
 
