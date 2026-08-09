@@ -19,7 +19,7 @@ public sealed partial class AutoDebugSmes : EntitySystem
 
     private readonly LocId _engiDep = "department-Engineering";
 
-    private const float DelaySeconds = 1f * 60f;
+    private const float DelaySeconds = 5f * 60f;
     private float _timer = 0;
 
     private bool _handled = false;
