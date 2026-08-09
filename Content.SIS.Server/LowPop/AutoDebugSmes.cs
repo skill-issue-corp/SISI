@@ -58,7 +58,7 @@ public sealed partial class AutoDebugSmes : EntitySystem
         var lowPopLimit = _cfg.GetCVar(SIS_CVars.LowPopLimit);
         var engiLowPopLimit = _cfg.GetCVar(SIS_CVars.EngiLowPopLimit);
 
-        if (jobCount > lowPopLimit || engiCount > engiLowPopLimit)
+        if (jobCount >= lowPopLimit || engiCount >= engiLowPopLimit)
             return;
 
         var smesQuery = EntityQueryEnumerator<SmesComponent>();
