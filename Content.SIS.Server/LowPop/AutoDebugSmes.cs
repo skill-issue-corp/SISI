@@ -36,9 +36,29 @@ public sealed partial class AutoDebugSmes : EntitySystem
         if (!_cfg.GetCVar(SIS_CVars.AutoDebug) || _handled)
             return;
 
+        var jobCount = 0;
+        var engiCount = 0;
+
+        var playersQuery = EntityQueryEnumerator<SSDIndicatorComponent, MindRoleComponent>();
+        while (playersQuery.MoveNext(out _, out var ssdIndicatorComp, out var mindRoleComp))
+        {
+            if (ssdIndicatorComp.IsSSD)
+                continue;
+
+            if (mindRoleComp.JobPrototype is not {} job)
+                continue;
+
+            jobCount++;
+            _jobSystem.TryGetDepartment(job.Id, out var department);
+
+            if (_engiDep == department?.Name)
+                engiCount++;
+        }
+
         var lowPopLimit = _cfg.GetCVar(SIS_CVars.LowPopLimit);
         var engiLowPopLimit = _cfg.GetCVar(SIS_CVars.EngiLowPopLimit);
-        if (_playerMan.PlayerCount > lowPopLimit || CheckEngiCondition(engiLowPopLimit))
+
+        if (jobCount > lowPopLimit || engiCount > engiLowPopLimit)
             return;
 
         var smesQuery = EntityQueryEnumerator<SmesComponent>();
@@ -54,29 +74,5 @@ public sealed partial class AutoDebugSmes : EntitySystem
 
         _chat.DispatchGlobalAnnouncement(Loc.GetString("auto-debug-smes-announcement"), colorOverride: Color.Yellow);
         _handled = true;
-    }
-
-    private bool CheckEngiCondition(int engiLowPopLimit)
-    {
-        var engiCount = 0;
-
-        var playersQuery = EntityQueryEnumerator<SSDIndicatorComponent, MindRoleComponent>();
-        while (playersQuery.MoveNext(out _, out var ssdIndicatorComp, out var mindRoleComp))
-        {
-            if (ssdIndicatorComp.IsSSD)
-                continue;
-
-            if (mindRoleComp.JobPrototype is not {} job)
-                continue;
-
-            _jobSystem.TryGetDepartment(job.Id, out var department);
-
-            if (_engiDep == department?.Name)
-                engiCount++;
-
-            if (engiCount >= engiLowPopLimit)
-                return true;
-        }
-        return false;
     }
 }
