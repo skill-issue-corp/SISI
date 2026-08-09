@@ -49,8 +49,8 @@ public sealed partial class AutoDebugSmes : EntitySystem
                 continue;
 
             jobCount++;
-            _jobSystem.TryGetDepartment(job.Id, out var department);
 
+            _jobSystem.TryGetDepartment(job.Id, out var department);
             if (_engiDep == department?.Name)
                 engiCount++;
         }
