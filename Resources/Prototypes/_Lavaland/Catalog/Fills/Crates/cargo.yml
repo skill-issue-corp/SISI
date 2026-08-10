@@ -30,3 +30,16 @@
         - id: ClarkePeripheralsElectronics
         - id: MechAirTank
         - id: MechThruster
+        # SIS-Start
+        - id: PowerCellMedium
+        - id: WeaponMechMeleeDrill
+        - id: IngotGold1
+          amount: 5
+        - id: MicroManipulatorStockPart
+          amount: 1
+        - id: CableApcStack1
+          amount: 1
+        - id: WeaponMechIndustrialKineticAccelerator
+        - id: SheetSteel1
+          amount: 5
+        # SIS-End
