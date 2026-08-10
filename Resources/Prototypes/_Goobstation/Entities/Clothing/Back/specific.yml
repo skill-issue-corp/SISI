@@ -70,11 +70,10 @@
       storagebase: !type:AllSelector
         children:
         - id: BoxMagazinePistolSubMachineGun
-        - id: MindShieldImplanter
         - id: Zipties
           amount: 2
         - id: MedkitAdvancedFilled
-        - id: WeaponPistolEchis
+        - id: WeaponPistolAnaconda
         - id: Flash
 
 - type: entity
