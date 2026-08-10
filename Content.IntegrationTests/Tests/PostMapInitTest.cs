@@ -97,7 +97,6 @@ namespace Content.IntegrationTests.Tests
             "/Maps/Shuttles/AdminSpawn/**", // admin gaming
             // SIS
             "/Maps/_SIS/centcomm.yml"
-
         };
 
         /// <summary>
