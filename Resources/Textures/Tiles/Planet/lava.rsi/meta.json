@@ -11,6 +11,9 @@
       "name": "full"
     },
     {
+      "name": "static"
+    },
+    {
       "name": "lava0",
       "directions": 4,
       "delays": [
