@@ -1,0 +1,69 @@
+- type: entity
+  parent: WeaponPlasmaCutter
+  id: WeaponAdvancedPlasmaCutter
+  name: advanced plasma cutter
+  description: An advanced plasma cutter — it’s stronger, smarter, and better.
+  components:
+  - type: Sprite
+    sprite: _SIS/Objects/Weapons/advancedplasmacutter.rsi
+    state: icon
+  - type: Gun
+    fireRate: 2
+    soundGunshot:
+      path: /Audio/_Goobstation/Weapons/Guns/Gunshots/plasma_cutter.ogg
+  - type: BatteryAmmoProvider
+    proto: BulletAdvancedPlasmaCutter
+    fireCost: 100
+  - type: Battery
+    maxCharge: 3000
+    startingCharge: 3000
+
+- type: entity
+  id: BulletAdvancedPlasmaCutter
+  name: cutter bolt
+  parent: BulletPlasmaCutter
+  categories: [ HideSpawnMenu ]
+  description: Not too bad, but you still don't want to get hit by it.
+  components:
+  - type: TimedDespawn
+    lifetime: 0.4
+
+- type: entity
+  parent: WeaponPlasmaCutter
+  id: WeaponFanshapedPlasmaCutter
+  name: fanshaped plasma cutter
+  description: The fan‑shaped plasma cutter, which fires “shot,” is perfect for excavating large areas.
+  components:
+  - type: Sprite
+    sprite: _SIS/Objects/Weapons/fanshapedplasmacutter.rsi
+    state: icon
+  - type: Gun
+    fireRate: 0.50
+    soundGunshot:
+      path: /Audio/_Goobstation/Weapons/Guns/Gunshots/plasma_cutter.ogg
+  - type: BatteryAmmoProvider
+    proto: BulletPlasmaCutterSpread
+    fireCost: 100
+
+- type: entity
+  id: BulletFanshapedPlasmaCutter
+  name: cutter bolt
+  parent: BulletPlasmaCutter
+  categories: [ HideSpawnMenu ]
+  description: Not too bad, but you still don't want to get hit by it.
+  components:
+  - type: TimedDespawn
+    lifetime: 0.08
+  - type: StaminaDamageOnCollide
+    damage: 5
+
+- type: entity
+  name: wide cutter bolt barrage
+  id: BulletPlasmaCutterSpread
+  categories: [ HideSpawnMenu ]
+  parent: BulletFanshapedPlasmaCutter
+  components:
+  - type: ProjectileSpread
+    proto: BulletFanshapedPlasmaCutter
+    count: 4
+    spread: 25

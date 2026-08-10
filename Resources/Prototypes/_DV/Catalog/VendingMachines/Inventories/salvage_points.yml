@@ -106,12 +106,20 @@
   # TODO: super resonator for 2500
   - id: JetpackBlue #inky
     cost: 2250
+  # SIS-Start
+  - id: WeaponFanshapedPlasmaCutter
+    cost: 2400
+  # SIS-End
   - id: ClothingShoesBootsJump
     cost: 2500
   - id: ClothingOuterHardsuitLuxury
     cost: 3000 #still costs more than just buying it with spesos you got from vendor but whatever
   - id: ShelterCapsuleLuxury
     cost: 3000
+  # SIS-Start
+  - id: WeaponAdvancedPlasmaCutter
+    cost: 3000
+  # SIS-End
   - id: ClothingEyesNightVisionGoggles
     cost: 3500
   - id: MiningDrillDiamond
