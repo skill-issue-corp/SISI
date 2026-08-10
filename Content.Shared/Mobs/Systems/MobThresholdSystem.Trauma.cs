@@ -93,10 +93,15 @@ public sealed partial class MobThresholdSystem
         var result = FixedPoint2.Zero;
         foreach (var part in _body.GetVitalParts(ent))
         {
+            // SIS-Start | SIS-TODO: Порт в Инки
+            result += _damageable.GetTotalDamage(part);
+            /*
             var ev = new MobThresholdGetWoundableIntegrityEvent();
             RaiseLocalEvent(part, ref ev);
             if (ev.Handled)
                 result += ev.Damage;
+            */
+            // SIS-Start End
         }
         // /inkymed
 
