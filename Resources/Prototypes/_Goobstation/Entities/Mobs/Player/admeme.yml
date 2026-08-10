@@ -282,6 +282,8 @@
     - NamesMilitaryFirstLeader
     - NamesMilitaryLast
     nameFormat: name-format-standard
+  - type: AutoImplant
+    implants: [ MindShield ]
 
 # G-Man
 

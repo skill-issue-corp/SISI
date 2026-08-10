@@ -30,11 +30,11 @@
   equipment:
     jumpsuit: ClothingUniformHecu
     back: ClothingBackpackMercFilledHECU
-    mask: ClothingMaskGasRev
+    mask: ClothingMaskGasRev # SIS
     eyes: ClothingEyesGlassesMedSec
     ears: ClothingHeadsetAltCentCom
     gloves: ClothingHandsGlovesCombat
-    outerClothing: ClothingOuterVestWebRev
+    outerClothing: ClothingOuterVestWebRev # SIS
     shoes: ClothingShoesBootsCombatFilled
     head: ClothingHeadHelmetMerc
     id: HecuPDA

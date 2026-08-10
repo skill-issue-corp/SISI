@@ -73,7 +73,7 @@
         - id: Zipties
           amount: 2
         - id: MedkitAdvancedFilled
-        - id: WeaponPistolAnaconda
+        - id: WeaponPistolAnaconda # SIS
         - id: Flash
 
 - type: entity
