@@ -89,6 +89,7 @@ namespace Content.IntegrationTests.Tests
         {
             // <Trauma>
             "/Maps/_Goobstation/Shuttles/consul.yml",
+            "/Maps/_Trauma/centcomm.yml"
             // </Trauma>
             // inky
             "/Maps/_Inky/dev.yml",
@@ -96,6 +97,7 @@ namespace Content.IntegrationTests.Tests
             "/Maps/Shuttles/AdminSpawn/**", // admin gaming
             // SIS
             "/Maps/_SIS/centcomm.yml"
+
         };
 
         /// <summary>
