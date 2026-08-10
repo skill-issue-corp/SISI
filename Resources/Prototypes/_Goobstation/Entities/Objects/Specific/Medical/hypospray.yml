@@ -78,7 +78,13 @@
   components:
   - type: Sprite
     sprite: _Goobstation/Objects/Specific/Medical/amnestic_hypo.rsi
-    state: icon
+    # SIS-Start | state: icon | SIS-TODO: Порт на Травму
+    # layers:
+    # - state: icon
+    # - state: cartridge1
+    #   map: ["enum.SolutionContainerLayers.Fill"]
+    #   visible: false
+    # SIS-End
   - type: Item
     sprite: _Goobstation/Objects/Specific/Medical/amnestic_hypo.rsi
   - type: UseDelay
