@@ -71,7 +71,7 @@
 
 - type: entity # This ones weird.
   name: amnestic spray
-  parent: [BaseHypospray, BaseCentcommContraband]
+  parent: [BaseCartridgeAutoinjector, BaseCentcommContraband] # SIS | BaseHypospray | SIS-TODO: Порт на Травму
   id: AmnestizineHypospray
   suffix: DO NOT MAP
   description: A specialized cartridge injector intended for Central Command personnel. Primarily used to inject amnestics.
@@ -301,8 +301,10 @@
     - state: base
     - state: filling
       color: "#FAF9F6"
-  - type: SolutionCartridge
-    solutionName: food
+  # SIS-Start | SIS-TODO: Порт на Травму
+  # - type: SolutionCartridge
+  #   solutionName: food
+  # SIS-End
   - type: Solution
     solution:
       reagents:
