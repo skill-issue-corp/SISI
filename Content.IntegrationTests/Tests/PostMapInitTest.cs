@@ -89,7 +89,7 @@ namespace Content.IntegrationTests.Tests
         {
             // <Trauma>
             "/Maps/_Goobstation/Shuttles/consul.yml",
-            "/Maps/_Trauma/centcomm.yml"
+            "/Maps/_Trauma/centcomm.yml",
             // </Trauma>
             // inky
             "/Maps/_Inky/dev.yml",
