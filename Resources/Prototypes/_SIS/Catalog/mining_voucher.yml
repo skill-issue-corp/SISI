@@ -1,0 +1,36 @@
+- type: thiefBackpackSet
+  id: MiningPlasmaCutter
+  name: mining-voucher-cutter-name
+  description: mining-voucher-cutter-description
+  sprite:
+    sprite: _Goobstation/Objects/Weapons/Guns/Battery/cutter.rsi
+    state: icon
+  content:
+  - WeaponPlasmaCutter
+
+- type: thiefBackpackSet
+  id: MiningVoucherBot
+  name: mining-voucher-bot-name
+  description: mining-voucher-bot-description
+  sprite:
+    sprite: _EinsteinEngines/Mobs/Silicon/Bots/minebot.rsi
+    state: minebot
+  content:
+  - MobMineBot
+  - WelderIndustrialAdvanced
+  - ClothingMaskWeldingGas
+
+- type: thiefBackpackSet
+  id: MiningVoucherExplosion
+  name: mining-voucher-explosion-name
+  description: mining-voucher-explosion-description
+  sprite:
+    sprite: Objects/Weapons/Bombs/seismic.rsi
+    state: icon
+  content:
+  - SeismicCharge
+  - SeismicCharge
+  - SeismicCharge
+  - SeismicCharge
+  - SeismicCharge
+  - SeismicCharge
