@@ -1,5 +1,7 @@
-﻿using Content.Shared.Examine;
+﻿using Content.Server.Kitchen.Components;
+using Content.Shared.Examine;
 using Content.Shared.Nutrition.Components;
+using Content.Shared.Temperature.Components;
 using Content.SIS.Common.Microwave;
 
 namespace Content.SIS.Server.Food;
@@ -21,18 +23,31 @@ public sealed class HotFoodBuffSystem : EntitySystem
         base.Update(frameTime);
 
         var query = EntityQueryEnumerator<HotFoodComponent>();
-        while (query.MoveNext(out var uid, out var cool))
+        while (query.MoveNext(out var uid, out var comp))
         {
-            cool.CurrentCoolTime -= TimeSpan.FromSeconds(frameTime);
+            if (!TryComp<TemperatureComponent>(uid, out var tempComp))
+            continue;
 
-            if (cool.CurrentCoolTime <= TimeSpan.Zero)
+            if (comp.MicrowaveMaxTemperature > tempComp.CurrentTemperature)
+            {
+                comp.MicrowaveMaxTemperature -= 5f * frameTime;
+
+                if (comp.MicrowaveMaxTemperature < tempComp.CurrentTemperature)
+                    comp.MicrowaveMaxTemperature = tempComp.CurrentTemperature;
+            }
+
+            if (comp.MicrowaveMaxTemperature == tempComp.CurrentTemperature)
+            {
                 RemComp<HotFoodComponent>(uid);
-
+            }
         }
     }
 
     public void BuffFood(EntityUid uid, HotFoodComponent comp, MapInitEvent args)
     {
+// проверку на температуру
+// зайтракомпить солюшн, и проверять саму температуру
+// если температура неподходщая удалять хоткомпонент
         if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))
             return;
         if (!TryComp<HotFoodBuffComponent>(comp.Owner, out var hotFoodBuffComp))
@@ -58,5 +73,6 @@ public sealed class HotFoodBuffSystem : EntitySystem
     private void OnExamine(EntityUid uid, HotFoodComponent comp, ExaminedEvent args)
     {
         args.PushMarkup(Loc.GetString("cooling-component-on-examine"));
+        // добавить цвет
     }
 }

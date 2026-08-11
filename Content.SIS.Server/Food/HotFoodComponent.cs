@@ -1,10 +1,9 @@
-﻿using Content.Shared.FixedPoint;
-
-namespace Content.SIS.Server.Food;
+﻿namespace Content.SIS.Server.Food;
 
 [RegisterComponent]
 public sealed partial class HotFoodComponent : Component
 {
     [DataField]
-    public TimeSpan CurrentCoolTime  = TimeSpan.FromSeconds(180);
+    public float MicrowaveMaxTemperature = 373.15f;
+
 }
