@@ -45,9 +45,7 @@ public sealed class HotFoodBuffSystem : EntitySystem
 
     public void BuffFood(EntityUid uid, HotFoodComponent comp, MapInitEvent args)
     {
-// проверку на температуру
-// зайтракомпить солюшн, и проверять саму температуру
-// если температура неподходщая удалять хоткомпонент
+
         if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))
             return;
         if (!TryComp<HotFoodBuffComponent>(comp.Owner, out var hotFoodBuffComp))
