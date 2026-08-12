@@ -35,7 +35,7 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
             foreach (var (_, soln) in _solutionContainer.EnumerateSolutions(uid))
             {
                 var solution = soln.Comp.Solution;
-
+                if (solution.Temperature > comp.StandartFoodTemperature)
                     solution.Temperature -= comp.TemperatureReduction * frameTime; // A single microwave heating session will keep the buff active for 63 seconds.
 
 
@@ -54,6 +54,7 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
             return;
         if (HasComp<HotFoodBuffComponent>(uid))
         {
+            comp.OldTransferAmount = edibleComp.TransferAmount;
             edibleComp.TransferAmount *= comp.NutritionalValueMultiplier;
         }
     }
@@ -64,7 +65,7 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
             return;
         if (!HasComp<HotFoodBuffComponent>(uid))
         {
-            edibleComp.TransferAmount /= comp.NutritionalValueMultiplier;
+            edibleComp.TransferAmount = comp.OldTransferAmount;
         }
     }
 
