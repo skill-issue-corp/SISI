@@ -50,7 +50,7 @@ namespace Content.IntegrationTests.Tests
 
         private static readonly string[] Grids =
         {
-            "/Maps/_SIS/centcomm.yml", // SIS
+            "/Maps/_SIS/centcomm.yml", // SIS-Maps
             AdminTestArenaSystem.ArenaMapPath
         };
 
