@@ -679,9 +679,8 @@ namespace Content.Server.Kitchen.EntitySystems
                     }
                 }
                 // SIS-Microwave Start
-                for (int i = 0; i < microwave.Storage.ContainedEntities.Count; i++)
+                foreach (var entity in microwave.Storage.ContainedEntities)
                 {
-                    var entity = microwave.Storage.ContainedEntities[i];
                     var ev = new StopMicrowaveEvent();
                     RaiseLocalEvent(entity, ref ev);
                 }
