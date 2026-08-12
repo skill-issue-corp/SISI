@@ -15,9 +15,9 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
     {
         base.Initialize();
 
-        SubscribeLocalEvent<HotFoodComponent, MapInitEvent>(BuffFood);
-        SubscribeLocalEvent<HotFoodComponent, ComponentRemove>(DeBuffFood);
-        SubscribeLocalEvent<HotFoodBuffComponent, StopMicrowaveEvent>(StopMicrowave);
+        SubscribeLocalEvent<HotFoodBuffComponent, MapInitEvent>(BuffFood);
+        SubscribeLocalEvent<HotFoodBuffComponent, ComponentRemove>(DeBuffFood);
+        SubscribeLocalEvent<HotFoodComponent, StopMicrowaveEvent>(StopMicrowave);
         SubscribeLocalEvent<HotFoodBuffComponent, ExaminedEvent>(OnExamine);
     }
 
@@ -50,34 +50,35 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
         }
     }
 
-    public void BuffFood(EntityUid uid, HotFoodComponent comp, MapInitEvent args)
+    public void BuffFood(EntityUid uid, HotFoodBuffComponent comp, MapInitEvent args)
     {
 
         if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))
             return;
-        if (!TryComp<HotFoodBuffComponent>(comp.Owner, out var hotFoodBuffComp))
-            return;
-        edibleComp.TransferAmount *= hotFoodBuffComp.NutritionalValueMultiplier;
+        if (HasComp<HotFoodBuffComponent>(uid))
+        {
+            edibleComp.TransferAmount *= comp.NutritionalValueMultiplier;
+        }
     }
 
-    public void DeBuffFood(EntityUid uid, HotFoodComponent comp, ComponentRemove args)
+    public void DeBuffFood(EntityUid uid, HotFoodBuffComponent comp, ComponentRemove args)
     {
         if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))
             return;
-        if (!TryComp<HotFoodBuffComponent>(comp.Owner, out var hotFoodBuffComp))
-            return;
-        edibleComp.TransferAmount /= hotFoodBuffComp.NutritionalValueMultiplier;
+        if (!HasComp<HotFoodBuffComponent>(uid))
+        {
+            edibleComp.TransferAmount /= comp.NutritionalValueMultiplier;
+        }
     }
 
-    private void StopMicrowave(EntityUid uid, HotFoodBuffComponent comp, ref StopMicrowaveEvent args)
+    private void StopMicrowave(EntityUid uid, HotFoodComponent comp, ref StopMicrowaveEvent args)
     {
-            EnsureComp<HotFoodComponent>(uid);
+            EnsureComp<HotFoodBuffComponent>(uid);
 
     }
 
     private void OnExamine(EntityUid uid, HotFoodBuffComponent comp, ExaminedEvent args)
     {
-        args.PushMarkup(Loc.GetString("cooling-component-on-examine"));
-        // добавить цвет
+        args.PushMarkup(Loc.GetString("HotFoodBuff-component-on-examine"));
     }
 }

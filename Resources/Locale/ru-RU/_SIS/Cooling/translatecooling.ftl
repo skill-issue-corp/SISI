@@ -1,1 +1,1 @@
-﻿cooling-component-on-examine = Выглядит [bold]аппетитно[bold].
+﻿HotFoodBuff-component-on-examine = [color=darkorange]Выглядит [bold]горячо.[bold][/color]
