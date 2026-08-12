@@ -4,6 +4,5 @@
 public sealed partial class HotFoodComponent : Component
 {
     [DataField]
-    public float MicrowaveMaxTemperature = 373.15f;
-
+    public float StandartFoodTemperature = 293.15f;
 }

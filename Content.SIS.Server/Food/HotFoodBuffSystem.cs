@@ -33,17 +33,15 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
                 var solution = soln.Comp.Solution;
 
 
-                if (comp.MicrowaveMaxTemperature > solution.Temperature)
+                if (solution.Temperature > comp.StandartFoodTemperature)
                 {
-                    comp.MicrowaveMaxTemperature -= 5f * frameTime;
+                    solution.Temperature -= 2f * frameTime;
 
-                    if (comp.MicrowaveMaxTemperature < solution.Temperature)
-                        comp.MicrowaveMaxTemperature = solution.Temperature;
                 }
 
-                if (comp.MicrowaveMaxTemperature == solution.Temperature)
+                if (solution.Temperature <= comp.StandartFoodTemperature)
                 {
-                    RemComp<HotFoodComponent>(uid);
+                    RemComp<HotFoodBuffComponent>(uid);
                 }
             }
         }
