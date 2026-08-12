@@ -36,11 +36,8 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
             {
                 var solution = soln.Comp.Solution;
 
-                if (solution.Temperature > comp.StandartFoodTemperature)
-                {
-                    solution.Temperature -= 0.35f * frameTime; // A single microwave heating session will keep the buff active for 63 seconds.
+                    solution.Temperature -= comp.TemperatureReduction * frameTime; // A single microwave heating session will keep the buff active for 63 seconds.
 
-                }
 
                 if (solution.Temperature <= comp.StandartFoodTemperature)
                 {
