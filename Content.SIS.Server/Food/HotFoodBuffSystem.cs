@@ -1,13 +1,16 @@
-﻿using Content.Server.Kitchen.Components;
+﻿using Content.Shared.Chemistry.Components;
+using Content.Shared.Chemistry.EntitySystems;
 using Content.Shared.Examine;
 using Content.Shared.Nutrition.Components;
-using Content.Shared.Temperature.Components;
 using Content.SIS.Common.Microwave;
 
 namespace Content.SIS.Server.Food;
 
-public sealed class HotFoodBuffSystem : EntitySystem
+public sealed partial class HotFoodBuffSystem : EntitySystem
 {
+
+    [Dependency] private SharedSolutionContainerSystem _solutionContainer = default!;
+
     public override void Initialize()
     {
         base.Initialize();
@@ -25,20 +28,23 @@ public sealed class HotFoodBuffSystem : EntitySystem
         var query = EntityQueryEnumerator<HotFoodComponent>();
         while (query.MoveNext(out var uid, out var comp))
         {
-            if (!TryComp<TemperatureComponent>(uid, out var tempComp))
-            continue;
-
-            if (comp.MicrowaveMaxTemperature > tempComp.CurrentTemperature)
+            foreach (var (_, soln) in _solutionContainer.EnumerateSolutions(uid))
             {
-                comp.MicrowaveMaxTemperature -= 5f * frameTime;
+                var solution = soln.Comp.Solution;
 
-                if (comp.MicrowaveMaxTemperature < tempComp.CurrentTemperature)
-                    comp.MicrowaveMaxTemperature = tempComp.CurrentTemperature;
-            }
 
-            if (comp.MicrowaveMaxTemperature == tempComp.CurrentTemperature)
-            {
-                RemComp<HotFoodComponent>(uid);
+                if (comp.MicrowaveMaxTemperature > solution.Temperature)
+                {
+                    comp.MicrowaveMaxTemperature -= 5f * frameTime;
+
+                    if (comp.MicrowaveMaxTemperature < solution.Temperature)
+                        comp.MicrowaveMaxTemperature = solution.Temperature;
+                }
+
+                if (comp.MicrowaveMaxTemperature == solution.Temperature)
+                {
+                    RemComp<HotFoodComponent>(uid);
+                }
             }
         }
     }
