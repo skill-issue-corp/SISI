@@ -1,4 +1,4 @@
-﻿using Content.Shared.Chemistry.Components;
+﻿using Content.Server.Kitchen.Components;
 using Content.Shared.Chemistry.EntitySystems;
 using Content.Shared.Examine;
 using Content.Shared.Nutrition.Components;
@@ -18,7 +18,7 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
         SubscribeLocalEvent<HotFoodComponent, MapInitEvent>(BuffFood);
         SubscribeLocalEvent<HotFoodComponent, ComponentRemove>(DeBuffFood);
         SubscribeLocalEvent<HotFoodBuffComponent, StopMicrowaveEvent>(StopMicrowave);
-        SubscribeLocalEvent<HotFoodComponent, ExaminedEvent>(OnExamine);
+        SubscribeLocalEvent<HotFoodBuffComponent, ExaminedEvent>(OnExamine);
     }
 
     public override void Update(float frameTime)
@@ -28,14 +28,17 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
         var query = EntityQueryEnumerator<HotFoodComponent>();
         while (query.MoveNext(out var uid, out var comp))
         {
+            if (HasComp<ActivelyMicrowavedComponent>(uid))
+            {
+                continue;
+            }
             foreach (var (_, soln) in _solutionContainer.EnumerateSolutions(uid))
             {
                 var solution = soln.Comp.Solution;
 
-
                 if (solution.Temperature > comp.StandartFoodTemperature)
                 {
-                    solution.Temperature -= 2f * frameTime;
+                    solution.Temperature -= 0.35f * frameTime; // A single microwave heating session will keep the buff active for 63 seconds.
 
                 }
 
@@ -72,7 +75,7 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
 
     }
 
-    private void OnExamine(EntityUid uid, HotFoodComponent comp, ExaminedEvent args)
+    private void OnExamine(EntityUid uid, HotFoodBuffComponent comp, ExaminedEvent args)
     {
         args.PushMarkup(Loc.GetString("cooling-component-on-examine"));
         // добавить цвет
