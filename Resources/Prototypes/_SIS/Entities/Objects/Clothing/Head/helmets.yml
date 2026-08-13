@@ -1,0 +1,18 @@
+- type: entity
+  parent: [ ClothingHeadHelmetBasic, ClothingHeadLightBase ]
+  id: ClothingHeadHelmetTactical
+  name: tactical helmet
+  description: Standard protective gear with a built-in flashlight.
+  components:
+  - type: Sprite
+    sprite: _SIS/Clothing/Head/Helmets/tactical.rsi
+  - type: Clothing
+    sprite: _SIS/Clothing/Head/Helmets/tactical.rsi
+    equippedPrefix: off
+  - type: PointLight
+    color: "#80ff80"
+  - type: ItemSlots
+    slots:
+      cell_slot:
+        name: power-cell-slot-component-slot-name-default
+        startingItem: PowerCellHigh
