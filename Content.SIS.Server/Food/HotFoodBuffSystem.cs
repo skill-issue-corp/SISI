@@ -15,10 +15,10 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
     {
         base.Initialize();
 
-        SubscribeLocalEvent<HotFoodBuffComponent, MapInitEvent>(BuffFood);
-        SubscribeLocalEvent<HotFoodBuffComponent, ComponentRemove>(DeBuffFood);
         SubscribeLocalEvent<HotFoodComponent, StopMicrowaveEvent>(StopMicrowave);
+        SubscribeLocalEvent<HotFoodBuffComponent, MapInitEvent>(BuffFood);
         SubscribeLocalEvent<HotFoodBuffComponent, ExaminedEvent>(OnExamine);
+        SubscribeLocalEvent<HotFoodBuffComponent, ComponentRemove>(DeBuffFood);
     }
 
     public override void Update(float frameTime)
@@ -39,7 +39,12 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
         }
     }
 
-    public void BuffFood(EntityUid uid, HotFoodBuffComponent comp, MapInitEvent args)
+    private void StopMicrowave(EntityUid uid, HotFoodComponent comp, ref StopMicrowaveEvent args)
+    {
+        EnsureComp<HotFoodBuffComponent>(uid);
+    }
+
+    private void BuffFood(EntityUid uid, HotFoodBuffComponent comp, MapInitEvent args)
     {
         if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))
             return;
@@ -48,21 +53,16 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
         edibleComp.TransferAmount *= comp.NutritionalValueMultiplier;
     }
 
-    public void DeBuffFood(EntityUid uid, HotFoodBuffComponent comp, ComponentRemove args)
+    private void OnExamine(EntityUid uid, HotFoodBuffComponent comp, ExaminedEvent args)
+    {
+        args.PushMarkup(Loc.GetString("HotFoodBuff-component-on-examine"));
+    }
+
+    private void DeBuffFood(EntityUid uid, HotFoodBuffComponent comp, ComponentRemove args)
     {
         if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))
             return;
 
         edibleComp.TransferAmount = comp.OldTransferAmount;
-    }
-
-    private void StopMicrowave(EntityUid uid, HotFoodComponent comp, ref StopMicrowaveEvent args)
-    {
-        EnsureComp<HotFoodBuffComponent>(uid);
-    }
-
-    private void OnExamine(EntityUid uid, HotFoodBuffComponent comp, ExaminedEvent args)
-    {
-        args.PushMarkup(Loc.GetString("HotFoodBuff-component-on-examine"));
     }
 }
