@@ -52,21 +52,17 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
 
         if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))
             return;
-        if (HasComp<HotFoodBuffComponent>(uid))
-        {
-            comp.OldTransferAmount = edibleComp.TransferAmount;
-            edibleComp.TransferAmount *= comp.NutritionalValueMultiplier;
-        }
+
+        comp.OldTransferAmount = edibleComp.TransferAmount;
+        edibleComp.TransferAmount *= comp.NutritionalValueMultiplier;
     }
 
     public void DeBuffFood(EntityUid uid, HotFoodBuffComponent comp, ComponentRemove args)
     {
         if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))
             return;
-        if (!HasComp<HotFoodBuffComponent>(uid))
-        {
-            edibleComp.TransferAmount = comp.OldTransferAmount;
-        }
+
+        edibleComp.TransferAmount = comp.OldTransferAmount;
     }
 
     private void StopMicrowave(EntityUid uid, HotFoodComponent comp, ref StopMicrowaveEvent args)
