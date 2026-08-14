@@ -10,4 +10,3 @@ public sealed partial class HotFoodBuffComponent : Component
 
     public FixedPoint2? OldTransferAmount;
 }
-
