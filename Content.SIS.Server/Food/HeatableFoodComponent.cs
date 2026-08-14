@@ -1,7 +1,7 @@
 ﻿namespace Content.SIS.Server.Food;
 
 [RegisterComponent]
-public sealed partial class HotFoodComponent : Component
+public sealed partial class HeatableFoodComponent : Component
 {
     [DataField]
     public float DefaultFoodTemperature = 293.15f;

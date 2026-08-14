@@ -15,7 +15,7 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
     {
         base.Initialize();
 
-        SubscribeLocalEvent<HotFoodComponent, StopMicrowaveEvent>(StopMicrowave);
+        SubscribeLocalEvent<HeatableFoodComponent, StopMicrowaveEvent>(StopMicrowave);
         SubscribeLocalEvent<HotFoodBuffComponent, MapInitEvent>(BuffFood);
         SubscribeLocalEvent<HotFoodBuffComponent, ExaminedEvent>(OnExamine);
         SubscribeLocalEvent<HotFoodBuffComponent, ComponentRemove>(DeBuffFood);
@@ -25,7 +25,7 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
     {
         base.Update(frameTime);
 
-        var query = EntityQueryEnumerator<HotFoodComponent, HotFoodBuffComponent>();
+        var query = EntityQueryEnumerator<HeatableFoodComponent, HotFoodBuffComponent>();
         while (query.MoveNext(out var uid, out var hotFoodComp, out _))
         {
             foreach (var (_, soln) in _solutionContainer.EnumerateSolutions(uid))
@@ -39,7 +39,7 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
         }
     }
 
-    private void StopMicrowave(EntityUid uid, HotFoodComponent comp, ref StopMicrowaveEvent args)
+    private void StopMicrowave(EntityUid uid, HeatableFoodComponent comp, ref StopMicrowaveEvent args)
     {
         EnsureComp<HotFoodBuffComponent>(uid);
     }
