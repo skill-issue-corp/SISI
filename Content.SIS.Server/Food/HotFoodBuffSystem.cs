@@ -25,31 +25,22 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
     {
         base.Update(frameTime);
 
-        var query = EntityQueryEnumerator<HotFoodComponent>();
-        while (query.MoveNext(out var uid, out var comp))
+        var query = EntityQueryEnumerator<HotFoodComponent, HotFoodBuffComponent>();
+        while (query.MoveNext(out var uid, out var hotFoodComp, out _))
         {
-            if (HasComp<ActivelyMicrowavedComponent>(uid))
-            {
-                continue;
-            }
             foreach (var (_, soln) in _solutionContainer.EnumerateSolutions(uid))
             {
                 var solution = soln.Comp.Solution;
-                if (solution.Temperature > comp.StandartFoodTemperature)
-                    solution.Temperature -= comp.TemperatureReduction * frameTime; // A single microwave heating session will keep the buff active for 63 seconds.
+                solution.Temperature -= hotFoodComp.TemperatureReduction * frameTime;
 
-
-                if (solution.Temperature <= comp.StandartFoodTemperature)
-                {
+                if (solution.Temperature <= hotFoodComp.StandartFoodTemperature)
                     RemComp<HotFoodBuffComponent>(uid);
-                }
             }
         }
     }
 
     public void BuffFood(EntityUid uid, HotFoodBuffComponent comp, MapInitEvent args)
     {
-
         if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))
             return;
 
