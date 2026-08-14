@@ -679,10 +679,10 @@ namespace Content.Server.Kitchen.EntitySystems
                     }
                 }
                 // SIS-Microwave Start
-                foreach (var entity in microwave.Storage.ContainedEntities)
+                foreach (var soln in microwave.Storage.ContainedEntities)
                 {
                     var ev = new StopMicrowaveEvent();
-                    RaiseLocalEvent(entity, ref ev);
+                    RaiseLocalEvent(soln, ref ev);
                 }
                 // SIS-Microwave End
                 _container.EmptyContainer(microwave.Storage);
