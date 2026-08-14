@@ -22,8 +22,10 @@
           amount: 2
         - id: BungoSeeds
           amount: 2
-        - id: CocaSeeds # SIS added coca seeds
+        # SIS-Start
+        - id: CocaSeeds
           amount: 2
+        # SIS-End
 
 - type: entity
   parent: CrateHydroSecure
