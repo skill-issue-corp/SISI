@@ -46,6 +46,17 @@
     fireCost: 100
 
 - type: entity
+  name: wide cutter bolt barrage
+  id: BulletPlasmaCutterSpread
+  categories: [ HideSpawnMenu ]
+  parent: BulletFanshapedPlasmaCutter
+  components:
+  - type: ProjectileSpread
+    proto: BulletFanshapedPlasmaCutter
+    count: 4
+    spread: 25
+
+- type: entity
   id: BulletFanshapedPlasmaCutter
   name: cutter bolt
   parent: BulletPlasmaCutter
@@ -56,14 +67,3 @@
     lifetime: 0.08
   - type: StaminaDamageOnCollide
     damage: 5
-
-- type: entity
-  name: wide cutter bolt barrage
-  id: BulletPlasmaCutterSpread
-  categories: [ HideSpawnMenu ]
-  parent: BulletFanshapedPlasmaCutter
-  components:
-  - type: ProjectileSpread
-    proto: BulletFanshapedPlasmaCutter
-    count: 4
-    spread: 25
