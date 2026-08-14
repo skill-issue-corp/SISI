@@ -33,7 +33,7 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
                 var solution = soln.Comp.Solution;
                 solution.Temperature -= hotFoodComp.TemperatureReduction * frameTime;
 
-                if (solution.Temperature <= hotFoodComp.StandartFoodTemperature)
+                if (solution.Temperature <= hotFoodComp.DefaultFoodTemperature)
                     RemComp<HotFoodBuffComponent>(uid);
             }
         }
