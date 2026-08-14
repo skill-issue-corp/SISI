@@ -55,7 +55,7 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
 
     private void OnExamine(EntityUid uid, HotFoodBuffComponent comp, ExaminedEvent args)
     {
-        args.PushMarkup(Loc.GetString("HotFoodBuff-component-on-examine"));
+        args.PushMarkup(Loc.GetString("hot-food-buff-component-on-examine"));
     }
 
     private void DeBuffFood(EntityUid uid, HotFoodBuffComponent comp, ComponentRemove args)
