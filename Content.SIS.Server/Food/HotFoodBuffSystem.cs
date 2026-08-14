@@ -67,8 +67,7 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
 
     private void StopMicrowave(EntityUid uid, HotFoodComponent comp, ref StopMicrowaveEvent args)
     {
-            EnsureComp<HotFoodBuffComponent>(uid);
-
+        EnsureComp<HotFoodBuffComponent>(uid);
     }
 
     private void OnExamine(EntityUid uid, HotFoodBuffComponent comp, ExaminedEvent args)
