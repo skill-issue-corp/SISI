@@ -33,6 +33,7 @@
   restockTime: 0
   resetRestockOnPurchase: true
   restockAfterPurchase: 60
+
 - type: listing
   id: SecoffReinforcementExpress
   name: reinforcement-sec-express-name
