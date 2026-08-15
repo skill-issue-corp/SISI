@@ -48,12 +48,10 @@ using Content.Shared.Damage.Prototypes;
 using Content.Shared.DoAfter;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Inventory;
-using Content.Shared.Item;
 using Content.Shared.Popups;
 using Content.Trauma.Common.Body.Part;
 using Robust.Shared.Containers;
 using System.Linq;
-using Content.Shared._Shitmed.Surgery;
 using Content.Shared._Mono.CorticalBorer; // mono
 
 namespace Content.Medical.Shared.Surgery;

@@ -166,11 +166,6 @@
 //
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
-using Content.Goobstation.Shared.Loudspeaker.Events; // goob - loudspeakers
-using System.Collections.Immutable; // Goobstation - Starlight collective mind port
-// <Trauma>
-using Content.Shared.Speech;
-using Content.Trauma.Common.Chat;
 using Content.Trauma.Common.Language;
 using Content.Trauma.Common.Language.Systems;
 using Content.Trauma.Common.Wizard;
@@ -423,7 +418,8 @@ public sealed partial class ChatSystem : SharedChatSystem
             desiredType = chatTypeOverride;
 
         // Mono Change: Is this being sent direct
-        var targetEv = new CheckTargetedSpeechEvent();
+        /* // TODO-SIS: Бля
+        var targetEv = new CheckTargetedSpeechEvent(); // TODO-SIS: Бля
         RaiseLocalEvent(source, targetEv);
 
         if (targetEv.Targets.Count > 0 && !targetEv.ChatTypeIgnore.Contains(desiredType))
@@ -431,6 +427,7 @@ public sealed partial class ChatSystem : SharedChatSystem
             SendEntityDirect(source, message, range, language, nameOverride, targetEv.Targets);
             return;
         }
+        */
 
         // This message may have a radio prefix, and should then be whispered to the resolved radio channel
         if (checkRadioPrefix)

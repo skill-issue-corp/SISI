@@ -21,17 +21,7 @@
 //
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
-using System.Linq;
 using Content.Shared._Mono.CorticalBorer; // mono
-using Content.Shared._Shitmed.Medical.Surgery.Conditions;
-using Content.Shared._Shitmed.Medical.Surgery.Consciousness.Systems;
-using Content.Shared._Shitmed.Medical.Surgery.Pain.Systems;
-using Content.Shared._Shitmed.Medical.Surgery.Steps;
-using Content.Shared._Shitmed.Medical.Surgery.Steps.Parts;
-using Content.Shared._Shitmed.Medical.Surgery.Wounds.Systems;
-using Content.Shared._Shitmed.Medical.Surgery.Wounds.Components;
-using Content.Shared._Shitmed.Medical.Surgery.Traumas.Systems;
-using Content.Shared._Shitmed.Surgery;
 using Content.Medical.Common.Body;
 using Content.Medical.Common.Surgery;
 using Content.Medical.Shared.Body;
@@ -48,7 +38,6 @@ using Content.Shared.GameTicking;
 using Content.Shared.Hands;
 using Content.Shared.Hands.Components;
 using Content.Shared.Hands.EntitySystems;
-using Content.Shared.Humanoid;
 using Content.Shared.Interaction;
 using Content.Shared.Inventory;
 using Content.Shared.Popups;

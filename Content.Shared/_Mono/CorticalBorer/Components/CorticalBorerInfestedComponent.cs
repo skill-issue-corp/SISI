@@ -6,7 +6,7 @@
 //
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
-using Content.Shared._Starlight.CollectiveMind;
+using Content.Trauma.Common.CollectiveMind;
 using Robust.Shared.GameStates;
 using Robust.Shared.Containers;
 using Robust.Shared.Prototypes;

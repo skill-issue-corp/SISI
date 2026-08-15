@@ -5,8 +5,6 @@
 
 using Content.Server.Radio;
 using Content.Shared._Mono.CorticalBorer;
-using Content.Shared._Shitmed.Body.Events;
-using Content.Shared.Body.Part;
 using Content.Shared.Examine;
 using Content.Shared.Mind.Components;
 using Content.Shared.Mobs;
@@ -33,7 +31,7 @@ public sealed class CorticalBorerInfestedSystem : EntitySystem
         SubscribeLocalEvent<CorticalBorerInfestedComponent, ExaminedEvent>(OnExaminedInfested);
         SubscribeLocalEvent<CorticalBorerInfestedComponent, ComponentShutdown>(OnComponentShutdown);
 
-        SubscribeLocalEvent<CorticalBorerInfestedComponent, BodyPartRemovedEvent>(OnBodyPartRemoved);
+        // SubscribeLocalEvent<CorticalBorerInfestedComponent, BodyPartRemovedEvent>(OnBodyPartRemoved); // TODO-SIS: Бля
         SubscribeLocalEvent<CorticalBorerInfestedComponent, MobStateChangedEvent>(OnStateChange);
         SubscribeLocalEvent<CorticalBorerInfestedComponent, MindRemovedMessage>(OnMindRemoved);
         SubscribeLocalEvent<CorticalBorerInfestedComponent, RadioMessageHeardEvent>(BorerRadioReceive);
@@ -79,6 +77,7 @@ public sealed class CorticalBorerInfestedSystem : EntitySystem
             _borer.EndControl(infected.Comp.Borer);
     }
 
+    /* // TODO-SIS: Бля
     private void OnBodyPartRemoved(Entity<CorticalBorerInfestedComponent> infected, ref BodyPartRemovedEvent args)
     {
         if (TryComp<BodyPartComponent>(args.Part, out var part) &&
@@ -88,6 +87,7 @@ public sealed class CorticalBorerInfestedSystem : EntitySystem
             _borer.TryEjectBorer(infected.Comp.Borer);
         }
     }
+    */
 
     private void OnMindRemoved(Entity<CorticalBorerInfestedComponent> infected, ref MindRemovedMessage args)
     {

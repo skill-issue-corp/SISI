@@ -4,19 +4,12 @@
 //
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
-using System.Linq;
 using Content.Shared.Actions;
-using Content.Shared.Body.Components;
-using Content.Shared.Body.Part;
-using Content.Shared.Body.Systems;
-using Content.Shared.Containers.ItemSlots;
-using Content.Shared.Examine;
 using Content.Shared.MedicalScanner;
 using Content.Shared.Popups;
 using Content.Shared.StatusEffect;
 using Content.Shared.Coordinates;
-using Content.Shared.Damage;
-using Content.Shared.IdentityManagement;
+using Content.Shared.Damage.Systems;
 using Robust.Shared.Containers;
 using Robust.Shared.Serialization;
 using Robust.Shared.Serialization.Manager;
@@ -25,7 +18,7 @@ namespace Content.Shared._Mono.CorticalBorer;
 
 public partial class SharedCorticalBorerSystem : EntitySystem
 {
-    [Dependency] private readonly SharedBodySystem _bodySystem = default!;
+    // [Dependency] private readonly SharedBodySystem _bodySystem = default!; // TODO-SIS: Бля
     [Dependency] private readonly StatusEffectsSystem _statusEffects = default!;
     [Dependency] private readonly SharedTransformSystem _transform = default!;
     [Dependency] private readonly ISerializationManager _serManager = default!;
@@ -84,8 +77,8 @@ public partial class SharedCorticalBorerSystem : EntitySystem
                 RemCompDeferred(ent, compReg.Component.GetType());
         }
 
-        if (TryComp<DamageableComponent>(ent, out var damComp))
-            _damage.SetAllDamage(ent, damComp, 0);
+        // if (TryComp<DamageableComponent>(ent, out var damComp)) // TODO-SIS: Бля
+            //_damage.SetAllDamage(ent, damComp, 0); // TODO-SIS: Бля
     }
 
     public bool TryEjectBorer(Entity<CorticalBorerComponent> ent)
