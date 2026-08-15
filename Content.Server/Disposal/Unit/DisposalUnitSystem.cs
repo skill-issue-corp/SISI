@@ -1,15 +1,30 @@
+// SPDX-FileCopyrightText: 2025 Ilya246
+// SPDX-FileCopyrightText: 2025 ark1368
+//
+// SPDX-License-Identifier: MPL-2.0
+
 using Content.Server.Atmos.EntitySystems;
 using Content.Shared.Atmos;
+using Content.Shared.Destructible;
 using Content.Shared.Disposal.Components;
 using Content.Shared.Disposal.Unit;
+using Content.Shared.Explosion;
 
 namespace Content.Server.Disposal.Unit;
 
-/// <inheritdoc/>
 public sealed partial class DisposalUnitSystem : SharedDisposalUnitSystem
 {
     [Dependency] private SharedTransformSystem _xform = default!;
     [Dependency] private AtmosphereSystem _atmos = default!;
+
+    public override void Initialize()
+    {
+        base.Initialize();
+
+        SubscribeLocalEvent<DisposalUnitComponent, DestructionEventArgs>(OnDestruction);
+        SubscribeLocalEvent<DisposalUnitComponent, EntityTerminatingEvent>(OnTerminating);
+        SubscribeLocalEvent<DisposalUnitComponent, BeforeExplodeEvent>(OnExploded);
+    }
 
     /// <inheritdoc/>
     protected override void IntakeAir(Entity<DisposalUnitComponent> ent, TransformComponent xform)
@@ -23,5 +38,23 @@ public sealed partial class DisposalUnitSystem : SharedDisposalUnitSystem
 
             ent.Comp.Air = environment.Remove(transferMoles);
         }
+    }
+
+    private void OnDestruction(EntityUid uid, DisposalUnitComponent component, DestructionEventArgs args)
+    {
+        EjectContents((uid, component));
+    }
+
+    private void OnTerminating(Entity<DisposalUnitComponent> ent, ref EntityTerminatingEvent args)
+    {
+        EjectContents(ent);
+    }
+
+    private void OnExploded(Entity<DisposalUnitComponent> ent, ref BeforeExplodeEvent args)
+    {
+        if (ent.Comp.Container is not {} container)
+            return;
+
+        args.Contents.AddRange(container.ContainedEntities);
     }
 }
