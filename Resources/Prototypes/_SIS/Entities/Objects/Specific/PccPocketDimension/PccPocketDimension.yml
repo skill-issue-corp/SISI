@@ -3,47 +3,25 @@
 - type: entity
   parent: PottedPlantBase
   id: PccDimensionPot
+  name: загадочный камин
+  description: Старый кирпичный камин. Кажется, его пламя ведет в совершенно другое место.
   suffix: Dimension
   categories: [ DoNotMap ]
   components:
+  - type: Anchorable
   - type: Sprite
+    sprite: Structures/Decoration/fireplace.rsi
     layers:
-    - state: plant-01
-      map: ["random"]
-  - type: RandomSprite
-    available:
-    - random:
-        plant-01: ""
-        plant-02: ""
-        plant-03: ""
-        plant-04: ""
-        plant-05: ""
-        plant-06: ""
-        plant-07: ""
-        plant-08: ""
-        # no 9
-        plant-10: ""
-        plant-11: ""
-        plant-12: ""
-        plant-13: ""
-        plant-14: ""
-        plant-15: ""
-        plant-16: ""
-        plant-17: ""
-        plant-18: ""
-        plant-19: ""
-        plant-20: ""
-        plant-21: ""
-        plant-22: ""
-        plant-23: ""
-        plant-24: ""
-        # no 25
-        plant-26: ""
-        plant-27: ""
-        plant-28: ""
-        plant-29: ""
-        plant-30: ""
-  - type: PccPocketDimension
+      - state: fireplace
+      - state: fireplacefestive
+        map: ["christmas"]
+        visible: false
+      - state: fireplace_fire4
+        shader: unshaded
+      - state: fireplace_glow
+        shader: unshaded
+  - type: PocketDimension
+    pocketDimensionPath: /Maps/_SIS/pcc-pocket-dimension.yml
   # no (easily) deleting items with it
   - type: Destructible
     thresholds: []
@@ -73,7 +51,7 @@
 
 - type: entity
   parent: PortalBlue
-  id: PccDimensionPotExitPortal
+  id: DimensionPotExitPortal
   suffix: Dimension pot exit
   components:
   - type: Portal
