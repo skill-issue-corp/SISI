@@ -21,7 +21,7 @@ public sealed partial class AutoDebugSmes : EntitySystem
     [Dependency] private MindSystem _mindSystem = default!;
 
     private readonly ProtoId<DepartmentPrototype> _engiDep = "Engineering";
-    private readonly EntProtoId _ceId = "ChiefEngineer";
+    private readonly ProtoId<JobPrototype> _ceId = "ChiefEngineer";
 
     private readonly TimeSpan _updateInterval = TimeSpan.FromMinutes(5);
     private float _timer;
@@ -78,11 +78,11 @@ public sealed partial class AutoDebugSmes : EntitySystem
             if (jobPrototype is not {} job)
                 continue;
 
-            if (!_jobSystem.TryGetDepartment(job.Id, out var department))
+            if (!_jobSystem.TryGetDepartment(job, out var department))
                 continue;
 
             jobCount++;
-            if (job.Id == _ceId || _engiDep == department)
+            if (job == _ceId || _engiDep == department)
                 engiCount++;
         }
 
