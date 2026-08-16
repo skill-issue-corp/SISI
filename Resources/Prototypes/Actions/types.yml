@@ -58,7 +58,7 @@
   description: AAAAAAAAAAAAAAAAAAAAAAAAA
   components:
   - type: Action
-    useDelay: 0
+    useDelay: 0 # SIS
     icon: Interface/Actions/scream.png
     checkCanInteract: false
   - type: InstantAction
