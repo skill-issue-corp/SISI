@@ -20,10 +20,10 @@ public sealed partial class AutoDebugSmes : EntitySystem
     [Dependency] private ChatSystem _chat = default!;
     [Dependency] private MindSystem _mindSystem = default!;
 
-    private const string _engiDep = "Engineering";
-    private const string _ceId = "ChiefEngineer";
+    private readonly ProtoId<DepartmentPrototype> _engiDep = "Engineering";
+    private readonly EntProtoId _ceId = "ChiefEngineer";
 
-    private const float DelaySeconds = 5f * 60f;
+    private readonly TimeSpan _updateInterval = TimeSpan.FromMinutes(5);
     private float _timer;
 
     private bool _handled = true;
@@ -46,7 +46,7 @@ public sealed partial class AutoDebugSmes : EntitySystem
         base.Update(frameTime);
 
         _timer += frameTime;
-        if (_timer < DelaySeconds)
+        if (_timer < _updateInterval.TotalSeconds)
             return;
         _timer = 0;
 
@@ -78,10 +78,11 @@ public sealed partial class AutoDebugSmes : EntitySystem
             if (jobPrototype is not {} job)
                 continue;
 
-            jobCount++;
+            if (!_jobSystem.TryGetDepartment(job.Id, out var department))
+                continue;
 
-            _jobSystem.TryGetDepartment(job.Id, out var department);
-            if (_engiDep == department?.ID || job.Id == _ceId)
+            jobCount++;
+            if (job.Id == _ceId || _engiDep == department)
                 engiCount++;
         }
 
