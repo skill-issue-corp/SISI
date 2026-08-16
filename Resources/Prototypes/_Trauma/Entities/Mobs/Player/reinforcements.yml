@@ -48,7 +48,7 @@
   parent: ReinforcementBeaconOfficerTemplate
   id: ReinforcementBeaconOfficerSpecLaser
   equipment:
-    head: ClothingHeadHelmetSwat # SIS | ClothingHeadHelmetRiot
+    head: ClothingHeadHelmetSwat # SIS | ClothingHeadHelmetBasicAlt
     outerClothing: ClothingOuterArmorBasicSlim
     belt: ClothingBeltSecurityFilled
     pocket1: WeaponPistolMk58 # inky
