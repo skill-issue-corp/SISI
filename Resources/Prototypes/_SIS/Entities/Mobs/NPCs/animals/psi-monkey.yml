@@ -3,9 +3,6 @@
   id: MobBasePsiMonkey
   abstract: true
   components:
-  - type: ActionGrant
-    actions:
-    - ActionPyrokinesBall
   - type: Prying
     pryPowered: true
     force: true
@@ -58,6 +55,9 @@
       sprite: "Effects/creampie.rsi"
       state: "creampie_human"
       visible: false
+  - type: ActionGrant
+    actions:
+    - ActionPyrokinesBall
   - type: ToolRefinable
     refineResult:
     - id: PsiMonkeyRedBrain
@@ -113,6 +113,9 @@
       sprite: "Effects/creampie.rsi"
       state: "creampie_human"
       visible: false
+  - type: ActionGrant
+    actions:
+    - ActionCryokinesRay
   - type: ToolRefinable
     refineResult:
     - id: PsiMonkeyBlueBrain
