@@ -5,3 +5,8 @@
   id: WallGargantuanTemporary
   name: magic wall
   description: The greatest duels happen around these walls
+  # SIS-Start
+  components:
+  - type: TimedDespawn
+    lifetime: 15
+  # SIS-End
