@@ -20,11 +20,11 @@ public sealed partial class AutoDebugSmes : EntitySystem
     [Dependency] private ChatSystem _chat = default!;
     [Dependency] private MindSystem _mindSystem = default!;
 
-    private readonly ProtoId<DepartmentPrototype> _engiDep = "Engineering";
     private readonly ProtoId<JobPrototype> _ceId = "ChiefEngineer";
+    private readonly ProtoId<DepartmentPrototype> _engiDep = "Engineering";
 
-    private readonly TimeSpan _updateInterval = TimeSpan.FromMinutes(5);
     private float _timer;
+    private readonly TimeSpan _updateInterval = TimeSpan.FromSeconds(30);
 
     private bool _handled = true;
 
@@ -45,13 +45,13 @@ public sealed partial class AutoDebugSmes : EntitySystem
     {
         base.Update(frameTime);
 
+        if (!_cfg.GetCVar(SIS_CVars.AutoDebug) || _handled)
+            return;
+
         _timer += frameTime;
         if (_timer < _updateInterval.TotalSeconds)
             return;
         _timer = 0;
-
-        if (!_cfg.GetCVar(SIS_CVars.AutoDebug) || _handled)
-            return;
 
         var jobCount = 0;
         var engiCount = 0;
