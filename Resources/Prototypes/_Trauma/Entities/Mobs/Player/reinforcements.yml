@@ -93,6 +93,8 @@
     - TearGasGrenade # 1
     - TearGasGrenade # 2
     # SIS-Start
+    # - BoxBeanbag
+    # - BoxShotgunTearGas
     - GrenadeStinger
     - BoxLethalshot
     - BoxShotgunSlug
