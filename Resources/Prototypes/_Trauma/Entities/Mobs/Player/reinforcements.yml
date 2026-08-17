@@ -93,9 +93,9 @@
     - TearGasGrenade # 1
     - TearGasGrenade # 2
     # SIS-Start
-    - GrenadeStinger # SIS
-    - BoxLethalshot # SIS
-    - BoxShotgunSlug # SIS
+    - GrenadeStinger
+    - BoxLethalshot
+    - BoxShotgunSlug
     # SIS-End
 
 - type: startingGear
@@ -104,20 +104,22 @@
   equipment:
     # SIS-Start
     head: ClothingHeadHelmetSwat #SIS | ClothingHeadHelmetBasicAlt
-    eyes: ClothingEyesGlassesSecurityAdvanced # SIS
+    eyes: ClothingEyesGlassesSecurityAdvanced
     outerClothing: ClothingOuterVestWeb # | SIS ClothingOuterArmorBasicSlim
+    # belt: ClothingBeltSecurityFilled
     # SIS-End
     belt: ClothingBeltSecurityFilled
     pocket1: WeaponPistolMk58 # inky
     pocket2: MagazinePistol # inky
     suitstorage: WeaponRifleLecter # SIS
-  storage: # SIS-Start
+  # SIS-Start
+  storage: # SIS | WeaponLaserCannon
     back:
     - MagazineRifle
     - MagazineRifle
     - MagazineRifle
     - MedkitCombatFilled
-    # SIS-End
+  # SIS-End
 
 - type: startingGear
   parent: ReinforcementBeaconOfficerTemplate
@@ -125,6 +127,7 @@
   equipment:
     head: ClothingHeadHelmetRiot # SIS | ClothingHeadHelmetBasicAlt
     outerClothing: ClothingOuterArmorRiot # SIS | ClothingOuterArmorBasicSlim
+    # belt: ClothingBeltSecurityFilled SIS
     pocket1: MagazinePistol # inky
     pocket2: WeaponPistolMk58
     suitstorage: WeaponShotgunEnforcerRubber # SIS
@@ -133,9 +136,8 @@
   storage:
     back:
     - MagazinePistol # 1
-    - MagazinePistol #2
+    - MagazinePistol # 2
     - BoxBeanbag # SIS
-
 
 - type: startingGear
   id: ReinforcementBeaconOfficerSpecBrigmedic
