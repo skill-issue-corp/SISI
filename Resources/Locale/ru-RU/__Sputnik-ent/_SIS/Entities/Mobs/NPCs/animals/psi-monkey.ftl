@@ -1,3 +1,6 @@
+ent-MobBasePsiMonkey = { ent-MobMonkey }
+    .desc = { ent-MobMonkey.desc }
+
 ent-MobFirePsiMonkey = пси-обезьяна
     .desc = Странно выглядящая обезьяна с красным оголённым мозгом.
 

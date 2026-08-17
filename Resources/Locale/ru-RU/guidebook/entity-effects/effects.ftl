@@ -22,7 +22,7 @@ entity-effect-guidebook-spawn-entity =
         *[other] создать
     } { $amount ->
         [1] {INDEFINITE($entname)}
-        *[other] {$amount} {MAKEPLURAL($entname)}
+        *[other] {$amount} {$entname}
     }
 
 entity-effect-guidebook-destroy =

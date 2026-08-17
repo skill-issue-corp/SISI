@@ -5,4 +5,4 @@ ent-WeaponEnergyBlaster = Apollo-H4
     .desc = Современный маломощный энергетический бластер, повсеместно используемый большинством вооруженных сил. Обладает мощной самовосстанавливающейся батареей, пробивным действием, автоматическим огнём и удобным корпусом. Этот имеет расцветку синдиката.
 
 ent-BulletEnergyBlaster = заряд бластера
-    .desc = { ent-BulletLaserWindowPiercingMagnum.desc }
+    .desc = { ent-SidearmBulletBase.desc }
