@@ -143,9 +143,9 @@ loadout-group-mime-gloves = Мим, перчатки
 loadout-group-mime-shoes = Мим, обувь
 
 # Assistant
-loadout-group-assistant-envirohelm = Экошлем пассажира
-loadout-group-assistant-envirosuit = Экокостюм пассажира
-loadout-group-assistant-envirogloves = Экоперчатки пассажира
+loadout-group-assistant-envirohelm = Экошлем ассистента
+loadout-group-assistant-envirosuit = Экокостюм ассистента
+loadout-group-assistant-envirogloves = Экоперчатки ассистента
 
 # Musician
 loadout-group-musician-envirohelm = Экошлем музыканта

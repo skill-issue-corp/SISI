@@ -43,7 +43,7 @@ highlights-lawyer = АВД, Адвокат
 highlights-librarian = Библиотекарь, Библиотека
 highlights-mime = Мим
 highlights-musician = Музыкант, "Музыка", Театр, Сервис, "Серв"
-highlights-passenger = Пассажир, Грейтайд
+highlights-passenger = Ассистент, Грейтайд
 highlights-service-worker = Сервисный работник
 
 # Station-specific

@@ -10,7 +10,7 @@ ent-BaseSecurityPDA = { ent-BasePDA }
 ent-BaseMedicalPDA = { ent-BasePDA }
     .desc = { ent-BasePDA.desc }
 
-ent-PassengerPDA = КПК пассажира
+ent-PassengerPDA = КПК ассистента
     .desc = Почему он не серый?
 
 ent-TechnicalAssistantPDA = КПК ассистента-техника
@@ -223,7 +223,7 @@ ent-NinjaPDA = КПК ниндзя
 ent-PiratePDA = КПК пирата
     .desc = Йарр!
 
-ent-ChameleonPDA = КПК пассажира
+ent-ChameleonPDA = КПК ассистента
     .desc = Почему он не серый?
     .suffix = Хамелеон
 

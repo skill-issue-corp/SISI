@@ -168,5 +168,5 @@ ghost-role-information-sentientanimal-rules =
     Вам категорически [color=red]ЗАПРЕЩЕНО[/color] помнить имя, внешний вид, и прочее своего прошлого персонажа.
 ghost-role-information-contractor-name = Наёмник Синдиката
 ghost-role-information-contractor-token = Наёмник Синдиката (Токен)
-ghost-role-information-contractor-description = Берите... пассажира?..
+ghost-role-information-contractor-description = Берите... тайдера?..
 contractor-role-greeting = Вы — [color=#611b2b]Наёмник Синдиката[/color], охотник за головами. Вам необходимо похитить цель со станции, живой или мёртвой.
