@@ -24,7 +24,7 @@ public sealed partial class AutoDebugSmes : EntitySystem
     private readonly ProtoId<DepartmentPrototype> _engiDep = "Engineering";
 
     private float _timer;
-    private readonly TimeSpan _updateInterval = TimeSpan.FromSeconds(30);
+    private readonly TimeSpan _updateInterval = TimeSpan.FromMinutes(5);
 
     private bool _handled = true;
 
