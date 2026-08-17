@@ -1,0 +1,21 @@
+- type: entity
+  parent: BasePlushie
+  id: PlushieTheresa
+  name: Theresa plushie
+  description: This is a felt plush of a Theresa.
+  components:
+  - type: Sprite
+    sprite: _SIS/Objects/Fun/Plushies/theresa.rsi
+    state: icon
+  - type: Clothing
+    quickEquip: false
+    sprite: _SIS/Objects/Fun/Plushies/theresa.rsi
+    slots:
+    - HEAD
+    clothingVisuals:
+      head:
+      - state: equipped-HELMET
+        offset: "0, 0.04"
+#  - type: FoodSequenceElement
+#    entries:
+#      CottonBurger: TheresaPlushie

@@ -51,6 +51,7 @@
         weight: 0.1
     - !type:GroupSelector
       children:
+      - id: PlushieTheresa      
       - id: PlushieCarp
       - id: PlushieHolocarp
         weight: 0.25
@@ -77,7 +78,7 @@
       children:
       - id: PlushieHuman
       - id: PlushieGhost
-      - id: PlushieLamp
+      - id: PlushieLamp  
     - !type:GroupSelector # Legendary plushies
       weight: 0.002 # 1 in >10,500
       children:
