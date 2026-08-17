@@ -53,6 +53,6 @@
   description: uplink-energy-blaster-desc
   productEntity: WeaponEnergyBlaster
   cost:
-    Telecrystal: 28
+    Telecrystal: 25
   categories:
   - UplinkWeaponry
