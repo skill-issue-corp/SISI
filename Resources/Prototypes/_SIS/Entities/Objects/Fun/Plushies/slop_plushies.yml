@@ -15,7 +15,4 @@
     clothingVisuals:
       head:
       - state: equipped-HELMET
-        offset: "0, 0.04"
-#  - type: FoodSequenceElement
-#    entries:
-#      CottonBurger: TheresaPlushie
+        offset: "0, 0.03"
