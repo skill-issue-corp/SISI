@@ -11,7 +11,7 @@
   - MachineMasterMaterialSilo # for cargo to easily distribute mats to department silos
   maps:
   - Atlas
-  - Amber
+  #- Amber # SIS
   - Bagel
   - Box
   - Cluster
