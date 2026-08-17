@@ -14,34 +14,34 @@ ent-OrganIPCInternal = { ent-OrganIPC }
 ent-OrganIPCExternal = { ent-OrganIPC }
     .desc = { ent-OrganIPC.desc }
 
-ent-OrganIPCTorso = { ent-OrganIPCExternal }
+ent-OrganIPCTorso = торс IPC
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCHead = { ent-OrganIPCExternal }
+ent-OrganIPCHead = голова IPC
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCArmLeft = { ent-OrganIPCExternal }
+ent-OrganIPCArmLeft = левая рука IPC
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCArmRight = { ent-OrganIPCExternal }
+ent-OrganIPCArmRight = правая рука IPC
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCHandLeft = { ent-OrganIPCExternal }
+ent-OrganIPCHandLeft = левая кисть IPC
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCHandRight = { ent-OrganIPCExternal }
+ent-OrganIPCHandRight = правая кисть IPC
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCLegLeft = { ent-OrganIPCExternal }
+ent-OrganIPCLegLeft = левая нога IPC
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCLegRight = { ent-OrganIPCExternal }
+ent-OrganIPCLegRight = правая нога IPC
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCFootLeft = { ent-OrganIPCExternal }
+ent-OrganIPCFootLeft = левая ступня IPC
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCFootRight = { ent-OrganIPCExternal }
+ent-OrganIPCFootRight = правая ступня IPC
     .desc = { ent-OrganIPCExternal.desc }
 
 ent-OrganIPCEyes = роботизированные глаза
