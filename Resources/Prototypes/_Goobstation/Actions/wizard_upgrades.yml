@@ -198,7 +198,7 @@
   name: Stop Time III
   components:
   - type: Action
-    useDelay: 10
+    useDelay: 15 # SIS
 
 # Blind
 - type: entity
