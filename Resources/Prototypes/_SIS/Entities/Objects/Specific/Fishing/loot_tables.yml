@@ -202,7 +202,7 @@
       weight: 7
     - !type:NestedSelector
       tableId: EvilMobsTable
-      weight: 0.03
+      weight: 0.05
     - !type:NestedSelector
       tableId: RareFishItemsTable
       weight: 10.45
@@ -286,7 +286,7 @@
       weight: 5
     - !type:NestedSelector
       tableId: EvilMobsTable
-      weight: 0.05
+      weight: 0.03
     - !type:NestedSelector
       tableId: RarePeacefullyMobsTable
       weight: 2
