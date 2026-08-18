@@ -1,45 +1,45 @@
 <Document>
-# Organ Manipulation
-These surgeries allow you to remove or replace organs from a patient for healthy ones. Which can help treat conditions on their bodies.
+  # Манипуляции с органами
+  Эти операции позволяют вам удалить или заменить органы пациента на здоровые. Это может помочь вылечить различные состояния его организма.
 
-## Anatomy
-Normally a body has the following organs:
+  ## Анатомия
+  Обычно тело имеет следующие органы:
 
-<Box>
-<GuideEntityEmbed Entity="OrganHumanBrain" Caption="brain"/>
-<GuideEntityEmbed Entity="OrganHumanEyes" Caption="eyes"/>
-<GuideEntityEmbed Entity="OrganHumanHeart" Caption="heart"/>
-</Box>
-<Box>
-<GuideEntityEmbed Entity="OrganHumanKidneys" Caption="kidneys"/>
-<GuideEntityEmbed Entity="OrganHumanLiver" Caption="liver"/>
-<GuideEntityEmbed Entity="OrganHumanLungs" Caption="lungs"/>
-<GuideEntityEmbed Entity="OrganHumanStomach" Caption="stomach"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="OrganHumanBrain" Caption="мозг"/>
+    <GuideEntityEmbed Entity="OrganHumanEyes" Caption="глаза"/>
+    <GuideEntityEmbed Entity="OrganHumanHeart" Caption="сердце"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="OrganHumanKidneys" Caption="почки"/>
+    <GuideEntityEmbed Entity="OrganHumanLiver" Caption="печень"/>
+    <GuideEntityEmbed Entity="OrganHumanLungs" Caption="лёгкие"/>
+    <GuideEntityEmbed Entity="OrganHumanStomach" Caption="желудок"/>
+  </Box>
 
-Certain species might have more or less organs, such as Diona having a combined organ that serves multiple functions, but this is the rough outline of what you'll see.
-To remove an organ, you'll need to apply the respective Organ Removal surgery on it, which will then remove it without harming the patient.
+  У некоторых видов может быть больше или меньше органов - например, у дионы есть объединённый орган, выполняющий сразу несколько функций, но в целом это примерный набор того, что вы увидите.
+  Чтобы удалить орган, вам нужно применить к нему соответствующую операцию по удалению органа, которая удалит его без вреда для пациента.
 
-However if you want to transplant an organ, you'll need to apply the respective Organ Transplant surgery where it originally was.
+  Однако если вы хотите пересадить орган, вам нужно применить соответствующую операцию по пересадке органа туда, где он изначально находился.
 
-## What does each organ transplant do?
+  ## Что делает пересадка каждого органа?
 
-- Transplanting a [color=#a4885c]brain[/color] will allow the patient to take over another body. An excellent alternative to cloning if you can afford to spare another body.
-  A body without a brain, or [color=#a4885c]heart[/color], will quickly die.
-- Transplanting [color=#a4885c]eyes[/color] will allow the patient to see again, and heal any eye damage.
-- Certain organs can grant the patient special powers! A common example is the space carp's lungs and heart, providing breathing and pressure immunity respectively.
+  - Пересадка [color=#a4885c]мозга[/color] позволит пациенту завладеть другим телом. Отличная альтернатива клонированию, если вы можете позволить себе пожертвовать другим телом.
+  Тело без мозга или [color=#a4885c]сердца[/color] быстро погибнет.
+  - Пересадка [color=#a4885c]глаз[/color] позволит пациенту снова видеть и вылечит любые повреждения глаз.
+  - Определённые органы могут наделить пациента особыми способностями! Распространённый пример - лёгкие и сердце космического карпа, дающие иммунитет к дыханию в вакууме и перепадам давления соответственно.
 
-## Where do I get more organs?
+  ## Где взять больше органов?
 
-Normally when your patients come in needing new organs, they'll need to get a new one, as their old ones will be either missing, or damaged beyond repair.
-For this you can use the Medical Biofabricator with some Biomass. Which can manufacture Biosynthetic organs for all species.
+  Обычно, когда к вам поступают пациенты, нуждающиеся в новых органах, им требуется получить новый орган, поскольку старый либо отсутствует, либо повреждён без возможности восстановления.
+  Для этого вы можете использовать медицинский биофабрикатор вместе с некоторым количеством биомассы. Он способен производить биосинтетические органы для всех видов.
 
-<Box>
-<GuideEntityEmbed Entity="MedicalBiofabricator" Caption="medical biofabricator"/>
-<GuideEntityEmbed Entity="MedicalBiofabMachineBoard" Caption="biofabricator board"/>
-<GuideEntityEmbed Entity="MaterialBiomass" Caption="biomass"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="MedicalBiofabricator" Caption="медицинский биофабрикатор"/>
+    <GuideEntityEmbed Entity="MedicalBiofabMachineBoard" Caption="плата биофабрикатора"/>
+    <GuideEntityEmbed Entity="MaterialBiomass" Caption="биомасса"/>
+  </Box>
 
-If science didn't research it however, you'll have to be resourceful and "find" some organs from unsuspecting crewmembers or monkeys.
+  Однако если наука ещё не исследовала нужный вам орган, вам придётся проявить находчивость и «раздобыть» органы у ничего не подозревающих членов экипажа или обезьян.
 
 </Document>

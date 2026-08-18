@@ -8,38 +8,38 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Part Manipulation
-  This is how you will turn Tajaran into humans, or vice versa if you're feeling particularly cruel.
+  # Манипуляции с частями тела
+  Именно так вы превратите таджаранина в человека, или наоборот, если вы настроены особенно жестоко.
 
-  ## Anatomy
-  Normally a body has 11 main parts. Those being:
+  ## Анатомия
+  Обычно тело состоит из 11 основных частей. А именно:
 
   <Box>
-<GuideEntityEmbed Entity="OrganHumanHead" Caption="head"/>
-</Box>
-<Box>
-<GuideEntityEmbed Entity="OrganHumanHandRight" Caption="right hand"/>
-<GuideEntityEmbed Entity="OrganHumanArmRight" Caption="right arm"/>
-<GuideEntityEmbed Entity="OrganHumanTorso" Caption="torso"/>
-<GuideEntityEmbed Entity="OrganHumanArmLeft" Caption="left arm"/>
-<GuideEntityEmbed Entity="OrganHumanHandLeft" Caption="left hand"/>
-</Box>
-<Box>
-<GuideEntityEmbed Entity="OrganHumanFootRight" Caption="right foot"/>
-<GuideEntityEmbed Entity="OrganHumanLegRight" Caption="right leg"/>
-<GuideEntityEmbed Entity="OrganHumanLegLeft" Caption="left leg"/>
-<GuideEntityEmbed Entity="OrganHumanFootLeft" Caption="left foot"/>
-</Box>
+    <GuideEntityEmbed Entity="OrganHumanHead" Caption="голова"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="OrganHumanHandRight" Caption="правая кисть"/>
+    <GuideEntityEmbed Entity="OrganHumanArmRight" Caption="правая рука"/>
+    <GuideEntityEmbed Entity="OrganHumanTorso" Caption="торс"/>
+    <GuideEntityEmbed Entity="OrganHumanArmLeft" Caption="левая рука"/>
+    <GuideEntityEmbed Entity="OrganHumanHandLeft" Caption="левая кисть"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="OrganHumanFootRight" Caption="правая ступня"/>
+    <GuideEntityEmbed Entity="OrganHumanLegRight" Caption="правая нога"/>
+    <GuideEntityEmbed Entity="OrganHumanLegLeft" Caption="левая нога"/>
+    <GuideEntityEmbed Entity="OrganHumanFootLeft" Caption="левая ступня"/>
+  </Box>
 
-Certain species might have more or less parts, such as tails, wings, or extra limbs, but this is the rough outline of what you'll see.
-To detach a limb, you'll need to apply the Remove Part surgery on it, which will then remove it without harming the patient.
+  У некоторых видов может быть больше или меньше частей тела - например, хвосты, крылья или дополнительные конечности, но в целом это примерный набор того, что вы увидите.
+  Чтобы отделить конечность, вам нужно применить к ней операцию «Удалить часть тела», которая удалит её без вреда для пациента.
 
-However if you want to reattach the limb, you'll need to apply the Attach Part surgery where you want it attached.
-Hands are attached to the arms, feet are attached to the legs. And everything else is attached to the torso.
+  Однако если вы хотите присоединить конечность обратно, вам нужно применить операцию «Присоединить часть тела» в том месте, куда вы хотите её прикрепить.
+  Кисти присоединяются к рукам, ступни присоединяются к ногам. А всё остальное присоединяется к торсу.
 
-## I reattached my patient's limb, but it's not working?
+  ## Я присоединил конечность пациенту обратно, но она не работает?
 
-Your patient has taken enough damage to the point that their limb's nerves were badly damaged, and they need to be healed properly before it can work again.
-For this you can try the Tend Wounds surgeries, or letting them use topicals on their wounds.
+  Ваш пациент получил достаточно повреждений, чтобы нервы его конечности были серьёзно повреждены, и их нужно правильно вылечить, прежде чем конечность снова заработает.
+  Для этого вы можете попробовать операции «Обработать раны», либо позволить пациенту использовать местные препараты на своих ранах.
 
 </Document>

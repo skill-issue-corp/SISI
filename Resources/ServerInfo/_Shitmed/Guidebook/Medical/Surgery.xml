@@ -8,55 +8,55 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Surgery
-Your usual weekly activity. By performing surgical operations on your patients, you can heal wounds, remove or add body parts, organs, and more.
+  # Хирургия
+  Ваше привычное еженедельное занятие. Проводя хирургические операции над своими пациентами, вы можете лечить раны, удалять или добавлять части тела, органы и многое другое.
 
-## The Basics
-To start surgery your patient needs to be laying down, and ideally sedated.
+  ## Основы
+  Для начала операции ваш пациент должен лежать, и в идеале - находиться под седацией.
 
-If they are not sedated, they will be in a lot of pain, which decreases their mood, and will make surgical wounds worse.
+  Если пациент не находится под седацией, он будет испытывать сильную боль, что снижает его настроение и ухудшает состояние хирургических ран.
 
-<Box>
-<GuideEntityEmbed Entity="NitrousOxideTank" Caption="nitrous oxide"/>
-<GuideEntityEmbed Entity="ClothingMaskBreathMedical" Caption="any breathing tool"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="NitrousOxideTank" Caption="закись азота"/>
+    <GuideEntityEmbed Entity="ClothingMaskBreathMedical" Caption="любой дыхательный аппарат"/>
+  </Box>
 
-You also need to wear protective gear such as a mask and gloves to prevent harming the patient due to contamination.
+  Вам также необходимо надеть защитное снаряжение, такое как маска и перчатки, чтобы предотвратить причинение вреда пациенту из-за загрязнения.
 
-<Box>
-<GuideEntityEmbed Entity="ClothingMaskSterile" Caption="any mask"/>
-<GuideEntityEmbed Entity="ClothingHandsGlovesNitrile" Caption="any gloves"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="ClothingMaskSterile" Caption="любая маска"/>
+    <GuideEntityEmbed Entity="ClothingHandsGlovesNitrile" Caption="любые перчатки"/>
+  </Box>
 
-## Getting Started
+  ## Начало работы
 
-To engage in surgery, you'll need a set of surgical tools.
+  Чтобы приступить к операции, вам понадобится набор хирургических инструментов.
 
-<Box>
-<GuideEntityEmbed Entity="Scalpel" Caption="scalpel"/>
-<GuideEntityEmbed Entity="Retractor" Caption="retractor"/>
-<GuideEntityEmbed Entity="Hemostat" Caption="hemostat"/>
-<GuideEntityEmbed Entity="Drill" Caption="drill"/>
-</Box>
-<Box>
-<GuideEntityEmbed Entity="Saw" Caption="saw"/>
-<GuideEntityEmbed Entity="Cautery" Caption="cautery"/>
-<GuideEntityEmbed Entity="BoneGel" Caption="bone gel"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="Scalpel" Caption="скальпель"/>
+    <GuideEntityEmbed Entity="Retractor" Caption="ретрактор"/>
+    <GuideEntityEmbed Entity="Hemostat" Caption="кровоостанавливающий зажим"/>
+    <GuideEntityEmbed Entity="Drill" Caption="дрель"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="Saw" Caption="пила"/>
+    <GuideEntityEmbed Entity="Cautery" Caption="каутер"/>
+    <GuideEntityEmbed Entity="BoneGel" Caption="костный гель"/>
+  </Box>
 
-Once you've got tools in hand, interact with your patient to begin surgery. You'll be able to choose which part you want to operate on.
+  Как только у вас в руках окажутся инструменты, взаимодействуйте с пациентом, чтобы начать операцию. Вы сможете выбрать, на какой части тела проводить операцию.
 
-## Ghetto Surgery
+  ## Хирургия для бедных
 
-Certain non-surgical tools can be used in a pinch, use the scalpel examine icon to see how good or bad something is.
-<Box>
-<GuideEntityEmbed Entity="Welder" Caption="welder"/>
-<GuideEntityEmbed Entity="Wirecutter" Caption="wirecutter"/>
-<GuideEntityEmbed Entity="KitchenKnife" Caption="knife"/>
-<GuideEntityEmbed Entity="Crowbar" Caption="crowbar"/>
-<GuideEntityEmbed Entity="CableApcStack" Caption="lv cable"/>
-</Box>
+  В крайнем случае можно использовать некоторые нехирургические инструменты - используйте значок осмотра скальпеля, чтобы увидеть, насколько хорош или плох тот или иной инструмент.
+  <Box>
+    <GuideEntityEmbed Entity="Welder" Caption="сварочный аппарат"/>
+    <GuideEntityEmbed Entity="Wirecutter" Caption="кусачки"/>
+    <GuideEntityEmbed Entity="KitchenKnife" Caption="нож"/>
+    <GuideEntityEmbed Entity="Crowbar" Caption="лом"/>
+    <GuideEntityEmbed Entity="CableApcStack" Caption="кабель НН"/>
+  </Box>
 
-They aren't ideal compared to real surgical equipment, but they'll do in a pinch!
+  Они не так хороши, как настоящее хирургическое оборудование, но в крайнем случае сгодятся!
 
 </Document>
