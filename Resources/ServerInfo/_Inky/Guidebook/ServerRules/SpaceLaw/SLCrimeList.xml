@@ -1,86 +1,86 @@
 <Document>
 
-  # Crimes
+  # Преступления
 
-  # I. Criminal Violations (Law Code CX)
+  # I. Уголовные нарушения (Кодекс законов CX)
 
-  ### Criminal violations are those that involve the employee themselves becoming classified as a criminal of some kind through their actions. Along with taboo violations, these are the only actual laws that security cadets are expected to learn and remember, and should be prioritized.
+  ### Уголовные нарушения - это те, которые связаны с тем, что сам сотрудник становится классифицирован как преступник того или иного рода в результате своих действий. Наряду с табуированными нарушениями, это единственные настоящие законы, которые кадеты службы безопасности должны выучить и запомнить, и им следует уделять первостепенное внимание.
 
-  ## No Penalty Criminal Violations:
+  ## Уголовные нарушения без наказания:
 
-  - C0: Contraband Possession: Having any item classified as contraband. This usually doesn't have a sentence other than taking away the contraband, but employees may be subject to monitoring and being suspected of being a member of the organization they possessed the contraband from.
+  - C0: Хранение контрабанды: Обладание любым предметом, классифицированным как контрабанда. Обычно за это не назначается наказание, кроме изъятия контрабанды, однако сотрудники могут быть подвергнуты наблюдению и заподозрены в членстве в организации, из которой была получена контрабанда.
 
-  ## Max 3 Minute Timer Criminal Violations:
+  ## Уголовные нарушения со сроком не более 3 минут:
 
-  - C1: Mail Tampering: Opening mail that is addressed to another employee, or tampering with the mail incurring a loss of funds. Anyone who does this will be considered a thief and be subject to monitoring by security at their discretion.
-  - C2: Theft: Taking personal or departmental items without permission. Anyone who does this will be considered a thief and be subject to monitoring by security at their discretion.
-  - C3: Recreational Drug Possession, Usage or Sale: Possession, usage, or sale of any recreational drug besides nicotine or alcohol.
-  - C4: Vandalism: Purposefully defacing Nanotrasen property in order to lower its aesthetic value.
+  - C1: Вмешательство в почту: Вскрытие почты, адресованной другому сотруднику, или вмешательство в почту, повлёкшее потерю средств. Любой, кто это сделает, будет считаться вором и может быть подвергнут наблюдению со стороны службы безопасности по её усмотрению.
+  - C2: Кража: Присвоение личных или ведомственных предметов без разрешения. Любой, кто это сделает, будет считаться вором и может быть подвергнут наблюдению со стороны службы безопасности по её усмотрению.
+  - C3: Хранение, употребление или продажа рекреационных наркотиков: Хранение, употребление или продажа любых рекреационных наркотиков, кроме никотина или алкоголя.
+  - C4: Вандализм: Умышленная порча имущества Nanotrasen с целью снижения его эстетической ценности.
 
-  ## Max 5 Minute Timer Criminal Violations:
+  ## Уголовные нарушения со сроком не более 5 минут:
 
-  - C5: Secure Trespass: Trespass into a security or command area.
-  - C6: Kidnapping: Using non-lethal means to capture a member of the crew and hold them hostage.
-  - C7: Assault Any assault on a member of the crew.
-  - C8: Grand Theft: Stealing any high value or importance item.
-  - C9: Destruction of Property. This includes killing any of the station-wide "pets" without a good reason.
-  - C10: Grand Assault: Any assault on a member of Command, the Captain, or the Nanotrasen Representative, whether the intent is to murder or not.
+  - C5: Проникновение на охраняемую территорию: Проникновение на территорию службы безопасности или командного состава.
+  - C6: Похищение: Использование нелетальных средств для захвата члена экипажа и удержания его в заложниках.
+  - C7: Нападение: Любое нападение на члена экипажа.
+  - C8: Крупная кража: Кража любого предмета высокой ценности или значимости.
+  - C9: Уничтожение имущества. Сюда относится убийство любого из общестанционных «питомцев» без веской причины.
+  - C10: Тяжкое нападение: Любое нападение на члена командного состава, Капитана или Представителя Nanotrasen, независимо от того, было ли намерение убить или нет.
 
-  ## D-Class Criminal Violations:
+  ## Уголовные нарушения класса D:
 
-  ### These are violations that specifically warrant reducing an employee's job position to Disposable Class, eliminating all their privileges as a normal crew member.
+  ### Это нарушения, которые конкретно влекут за собой понижение должности сотрудника до Расходного класса, лишая его всех привилегий обычного члена экипажа.
 
-  - C11 Murder: Purposefully killing someone with no intent to revive.
-  - C12 Treason: Knowingly allying with or being a member of any organization or cult opposed to Nanotrasen.
-  - C13 Prevention of Revival: Hiding bodies or using deception to prevent the revival of someone on the station who has not been given a do not revive order.
-  - C14 Breach of Custody: Removal of anyone who has been arrested from a secure area with the intent to free them, or preventing a security officer from making an arrest.
-  - C15 Embezzlement: Stealing funding from Nanotrasen for the purpose of self-enrichment.
+  - C11 Убийство: Умышленное убийство кого-либо без намерения на возрождение.
+  - C12 Измена: Сознательный союз с любой организацией или культом, противостоящим Nanotrasen, либо членство в них.
+  - C13 Воспрепятствование возрождению: Сокрытие тел или использование обмана с целью не допустить возрождения кого-либо на станции, кому не был выдан приказ о запрете возрождения.
+  - C14 Нарушение порядка содержания под стражей: Освобождение любого арестованного из охраняемой зоны с намерением его освободить, либо воспрепятствование офицеру службы безопасности в проведении ареста.
+  - C15 Растрата: Хищение средств у Nanotrasen с целью личного обогащения.
 
-  # II. Taboo Violations (Law Code TX)
+  # II. Табуированные нарушения (Кодекс законов TX)
 
-  ### Those who engage in taboo violations open themself up to immidiate execution by security team members.
+  ### Те, кто совершает табуированные нарушения, подвергают себя немедленной казни со стороны сотрудников службы безопасности.
 
-  ### Security team members should strive to capture alive those who violate taboo for study.
+  ### Сотрудникам службы безопасности следует стремиться захватывать нарушителей табу живыми для изучения.
 
-  - T1: Usage of Magic: Demonstrating usage of magic or usage of a magical item.
-  - T2: Conspiracy to Unionize: Conspiring with employees to unionize or asking for "workers rights", which are a violation of corporate rights.
-  - T3: Possession of Psionic Capabilities: Being capable of powers that mimic magic through the mind itself.
-  - T4: Possession of Illegal and dangerous DNA Modification: Commonly known mutations include: changelings, shadowlings, magic organs, or hulk mutations.
+  - T1: Использование магии: Демонстрация использования магии или магического предмета.
+  - T2: Сговор с целью объединения в профсоюз: Сговор с сотрудниками с целью объединения в профсоюз или требование «прав трудящихся», что является нарушением корпоративных прав.
+  - T3: Обладание псионическими способностями: Наличие способностей, имитирующих магию посредством самого разума.
+  - T4: Обладание нелегальной и опасной модификацией ДНК: Широко известные мутации включают: чейнджлингов, шэдоулингов, магические органы или мутации халка.
 
-  # III. Protocol Violations (Law Code PX)
+  # III. Нарушения протокола (Кодекс законов PX)
 
-  ### Protocol violations are generally the least serious and least likely to be punished violations of corporate law.
+  ### Нарушения протокола, как правило, являются наименее серьёзными и наименее часто наказуемыми нарушениями корпоративного закона.
 
-  ### When and if they are punished is usually at the discretion of the Nanotrasen Representative, who may request an officer from the HoS to help enforce the punishment.
+  ### Когда и если они наказываются, это обычно остаётся на усмотрение Представителя Nanotrasen, который может запросить офицера у ГСБ для содействия в исполнении наказания.
 
-  - P1: Time Theft: Any extended use of company time for purposes other than productive work. This generally means spending 15 minutes or more doing things other than one's job-related duties. The typical punishment is having to repay this time through salvage work, or being placed on a work plan that involves direct supervision.
-  - P2: Unsanctioned Social Gatherings:  Attending and organizing parties, weddings, funerals, ect, that have not been written off by management staff.
+  - P1: Кража времени: Любое продолжительное использование рабочего времени компании для целей, не связанных с продуктивной работой. Обычно это означает трату 15 и более минут на деятельность, не связанную с рабочими обязанностями. Типичным наказанием является отработка этого времени на утилизации, либо помещение под план работы, предполагающий непосредственный надзор.
+  - P2: Несанкционированные общественные собрания: Посещение и организация вечеринок, свадеб, похорон и т.д., которые не были одобрены руководящим составом.
 
-  # IV. Disciplinary Violations (Law Code DX)
+  # IV. Дисциплинарные нарушения (Кодекс законов DX)
 
-  ### Disciplinary violations are those that may be enforced at the discretion of security personnel or management staff. The typical punishment for them is corporal punishment.
+  ### Дисциплинарные нарушения - это те, которые могут применяться по усмотрению сотрудников службы безопасности или руководящего состава. Типичным наказанием за них является телесное наказание.
 
-  - D1: Excessive Public Drunkenness: Those who show excessive public drunkenness through vomiting and slurring of words are assumed to be impeding their ability to work.
-  - D2: Insubordination: Failure to follow instructions from one's superior is considered insubordination. Their head is allowed to institute corporal punishment through use of a batong to re-instill a sense of discipline within them. In the case of security officers being insubordinate to the Head of Security, insubordination is considered much more severe and additional actions may be taken at the Head of Security's discretion.
-  - D3: Disrespecting Corporate Authority: Disrespecting either the company, or a security officer acting on behalf of the company, shall result in swift corporal punishment, as well as a public apology being made. If the employee refuses to apologize for their transgression, more serious punishments such as brig time may be enacted.
-  - D4: Departmental Trespassing: Entering a department one does not have access to without explicit approval of a member of that department. Heads of staff can overrule any approvals given by members of their department.
+  - D1: Чрезмерное публичное опьянение: Те, кто демонстрирует чрезмерное публичное опьянение посредством рвоты и невнятной речи, считаются неспособными выполнять свою работу.
+  - D2: Неподчинение: Невыполнение указаний вышестоящего лица считается неподчинением. Его руководитель имеет право применить телесное наказание с использованием дубинки, чтобы восстановить в нём чувство дисциплины. В случае неподчинения офицеров службы безопасности Главе службы безопасности, такое неподчинение считается гораздо более серьёзным, и по усмотрению Главы службы безопасности могут быть предприняты дополнительные меры.
+  - D3: Неуважение к корпоративной власти: Неуважение либо к компании, либо к офицеру службы безопасности, действующему от имени компании, повлечёт за собой незамедлительное телесное наказание, а также принесение публичных извинений. Если сотрудник отказывается принести извинения за своё нарушение, могут быть применены более серьёзные наказания, такие как срок в бриге.
+  - D4: Проникновение в ведомственную зону: Вход в отдел, к которому у человека нет доступа, без явного одобрения со стороны сотрудника этого отдела. Главы персонала могут отменить любые разрешения, выданные сотрудниками их отдела.
 
-  # V. Special Disciplinary Violations (Law Code SDX)
+  # V. Особые дисциплинарные нарушения (Кодекс законов SDX)
 
-  ### These are violations specifically by management staff.
+  ### Это нарушения, совершаемые непосредственно руководящим составом.
 
-  - SD1: Managerial Incompetence: When a command member is deemed incompetent at their job by either a member of CentComm, or by a vote among the heads, they shall be immediately stripped of their head of staff equipment, banished to salvage-work, and considered a D-Class employee from then on.
-  - SD2: Insanity: When a command member is deemed as acting "insane" rather than incompetent, such as engaging in excessively silly behavior, they shall be required to submit to either the psychologist or the Chief Medical Officer for a psychological evaluation. They may then either prescribe a treatment plan, have the head of staff committed to the brig, or perform a lobotomy and have them work in salvage.
-  - SD3: Conspiracy: Conspiring against the captain to unlawfully seize power without a proper justification shall result in all command members involved being stripped of their head of staff equipment, banished to salvage-work, and considered D-Class employees.
+  - SD1: Управленческая некомпетентность: Когда член командного состава признаётся некомпетентным в своей работе либо сотрудником ЦентКома, либо голосованием среди глав отделов, он немедленно лишается снаряжения главы отдела, ссылается на работы по утилизации и с этого момента считается сотрудником класса D.
+  - SD2: Безумие: Когда поведение члена командного состава признаётся не некомпетентным, а «безумным», например при чрезмерно нелепом поведении, он обязан пройти психологическое обследование у психолога или Старшего врача. По его результатам ему может быть назначен план лечения, он может быть помещён в бриг, либо ему может быть проведена лоботомия с последующим направлением на работу в утилизацию.
+  - SD3: Заговор: Сговор против капитана с целью незаконного захвата власти без должного обоснования влечёт за собой лишение всех причастных членов командного состава снаряжения главы отдела, ссылку на работы по утилизации и присвоение им статуса сотрудника класса D.
 
-  # VI. Work Agreement Violations (Law Code WX)
+  # VI. Нарушения трудового соглашения (Кодекс законов WX)
 
-  ### These are violations specific to workers who are not employees of Nanotrasen.
-  ### This includes visitors, salvagers, and other foreign agents.
-  ### Punishment is at the discretion of the officer who finds individuals in violation of the code.
+  ### Это нарушения, специфичные для работников, не являющихся сотрудниками Nanotrasen.
+  ### Сюда относятся посетители, утилизаторы и другие внешние агенты.
+  ### Наказание остаётся на усмотрение офицера, обнаружившего нарушение кодекса.
 
-  - W1: Fraternization: Socializing with actual Nanotrasen Employees.
-  - W2: Corporate Espionage: Taking proprietary Nanotrasen technology. Contractors should be searched before they get on the shuttle.
-  - W3. Solicitation: Offering services to an employee for spesos or favors outside the scope of their contract, such as a mercenary contractor offering to act as a bodyguard for a Nanotrasen employee.
-  - W4. Poaching: Trying to get a Nanotrasen employee to join their company.
+  - W1: Панибратство: Общение с непосредственными сотрудниками Nanotrasen.
+  - W2: Корпоративный шпионаж: Присвоение запатентованных технологий Nanotrasen. Подрядчиков следует обыскивать перед посадкой на шаттл.
+  - W3. Предложение услуг: Предложение услуг сотруднику за спесо или услуги вне рамок его контракта, например, наёмный подрядчик, предлагающий выступить телохранителем сотрудника Nanotrasen.
+  - W4. Переманивание: Попытка убедить сотрудника Nanotrasen перейти в свою компанию.
 </Document>

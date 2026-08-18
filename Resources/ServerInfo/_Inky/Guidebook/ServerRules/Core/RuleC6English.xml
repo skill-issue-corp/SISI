@@ -1,16 +1,16 @@
 <Document>
-  # Core Rule 1 - English only
+  # Основное правило 1 - Только английский язык
 
-  Only use English.
+  Используйте только английский язык.
 
-  ## Examples
+  ## Примеры
 
-  ### Permitted
+  ### Разрешено
 
-  - Speaking English
-  - Speaking in game languages.
+  - Говорить на английском.
+  - Говорить на внутриигровых языках.
 
-  ### Not Permitted
+  ### Запрещено
 
-  - Speaking any language but English
+  - Говорить на любом языке, кроме английского
 </Document>

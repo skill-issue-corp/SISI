@@ -1,15 +1,15 @@
 <Document>
-  # Specific Role Rule 1: Cyborg / AI
+  # Специфическое правило роли 1: Киборг / ИИ
 
-  These rules apply to any silicon role with laws.
+  Эти правила применяются к любой роли синтетика, обладающей законами.
 
-  - As a silicon, your laws are your in-game rules.
-  - The order of your laws is their priority, lower laws are more important than higher ones.
-  - If your crew HUD uses green icons, anyone with them is crew. For non-standard laws, use your judgement to interpret them and try to be consistent.
-  - If orders conflict, you may decide how to resolve the conflict.
-  - Harm is defined as physical harm.
-  - You only have to prevent your laws from being changed if stated in your laws.
-  - You can rules-lawyer to an extent, if someone misspells a name it is their fault.
-  - You can ignore extremely unreasonable orders, for example: "Do nothing but collect every piece of trash on the station"
-  - Act like a robot.
+  - Как синтетик, ваши законы являются вашими игровыми правилами.
+  - Порядок ваших законов определяет их приоритет, законы с меньшим номером важнее законов с большим номером.
+  - Если ваш HUD экипажа использует зелёные иконки, любой, кто их имеет, считается членом экипажа. Для нестандартных законов используйте своё суждение для их интерпретации и старайтесь придерживаться последовательности.
+  - Если приказы противоречат друг другу, вы можете сами решить, как разрешить это противоречие.
+  - Вред определяется как физический вред.
+  - Вы обязаны предотвращать изменение своих законов только в том случае, если это прямо указано в самих законах.
+  - Вы можете в определённой мере крючкотворствовать; если кто-то ошибся в написании имени, это его вина.
+  - Вы можете игнорировать крайне неразумные приказы, например: «Не делай ничего, кроме сбора всего мусора на станции».
+  - Ведите себя как робот.
 </Document>

@@ -1,14 +1,14 @@
 <Document>
-  # Ban Types
+  # Типы банов
 
   <!-- TODO: appeal info -->
 
-  ## Role Ban
-  Also called a "job ban", this ban prevents your character from joining or late-joining a round as one or more jobs or roles. These are often used in response to problematic behavior in particular departments or address gross inexperience in important roles such as heads of staff. These bans do not mechanically prevent you from switching to the role during a round or acting as that role, but doing so is considered ban evasion.
+  ## Ролевой бан
+  Также называется «джоб-бан»; этот бан не позволяет вашему персонажу присоединяться к раунду (в том числе с опозданием) в качестве одной или нескольких должностей или ролей. Такие баны часто применяются в ответ на проблемное поведение в определённых отделах или для решения проблемы явной некомпетентности в важных ролях, например у глав отделов. Данные баны технически не мешают вам сменить роль во время раунда или действовать в этой роли, однако подобные действия считаются обходом бана.
 
-  ## Antag Ban
-  This ban prevents you from playing a type of antagonist. These may be given to e.g. friendly antags.
+  ## Антаг-бан
+  Этот бан не позволяет вам играть за определённый тип антагониста. Такие баны могут выдаваться, например, дружелюбным антагонистам.
 
-  ## Game Ban
-  Also called a "server ban", this ban prevents you from connecting to Trauma Station.
+  ## Игровой бан
+  Также называется «бан на сервере»; этот бан не позволяет вам подключаться к Trauma Station.
 </Document>
