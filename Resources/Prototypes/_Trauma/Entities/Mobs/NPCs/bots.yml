@@ -210,7 +210,7 @@
   - type: Destructible
     thresholds:
     - trigger: !type:DamageTrigger
-        damage: 100
+        damage: 300 # SIS
       behaviors:
       - !type:PlaySoundBehavior
         sound:
