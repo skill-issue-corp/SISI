@@ -1,43 +1,47 @@
-# Corvax-HiddenDesc-Start
-ent-Telecrystal = красный кристалл
-    .desc = Похоже, он переливается подозрительно манящей энергией.
-    .suffix = 100 ТК, Телекристалл
+ent-Telecrystal = телекристалл
+    .desc = Кажется, он пульсирует подозрительно манящей энергией.
+    .suffix = 100 ТК
+
 ent-Telecrystal1 = { ent-Telecrystal }
     .desc = { ent-Telecrystal.desc }
-    .suffix = 1 ТК, Телекристалл
+    .suffix = 1 ТК
+
 ent-Telecrystal5 = { ent-Telecrystal }
     .desc = { ent-Telecrystal.desc }
-    .suffix = 5 ТК, Телекристалл
+    .suffix = 5 ТК
+
 ent-Telecrystal10 = { ent-Telecrystal }
     .desc = { ent-Telecrystal.desc }
-    .suffix = 10 ТК, Телекристалл
-ent-BaseUplinkRadio = старое радио
-    .desc = Винтажное радио, которое по неясной причине застыло на крайне необычной частоте, со словом «АпЛинк» на лицевой стороне.
-    .suffix = Пустой, Аплинк Синдиката
+    .suffix = 10 ТК
+
+ent-BaseUplinkRadio = аплинк синдиката
+    .desc = Подозрительно выглядящее старое радио...
+    .suffix = Пусто
+
 ent-BaseUplinkRadio50TC = { ent-BaseUplinkRadio }
     .desc = { ent-BaseUplinkRadio.desc }
-    .suffix = 50 ТК, Телекристалл
+    .suffix = 50 ТК
+
 ent-BaseUplinkRadio50TCNukeOps = { ent-BaseUplinkRadio }
     .desc = { ent-BaseUplinkRadio.desc }
-    .suffix = 50 ТК, Подкрепление, Телекристалл
+    .suffix = 50 ТК, подкрепление ядерных оперативников
+
 ent-BaseUplinkRadio100TC = { ent-BaseUplinkRadio }
     .desc = { ent-BaseUplinkRadio.desc }
-    .suffix = 100 ТК, Телекристалл
+    .suffix = 100 ТК
+
 ent-BaseUplinkRadio125TC = { ent-BaseUplinkRadio }
     .desc = { ent-BaseUplinkRadio.desc }
-    .suffix = 125 ТК, Телекристалл
+    .suffix = 125 ТК
+
 ent-BaseUplinkRadio200TC = { ent-BaseUplinkRadio }
     .desc = { ent-BaseUplinkRadio.desc }
-    .suffix = 200 ТК, Телекристалл
+    .suffix = 200 ТК
+
 ent-BaseUplinkRadio350TC = { ent-BaseUplinkRadio }
     .desc = { ent-BaseUplinkRadio.desc }
-    .suffix = 350 ТК, LoneOps, Телекристалл
+    .suffix = 350 ТК, командир
+
 ent-BaseUplinkRadioDebug = { ent-BaseUplinkRadio }
     .desc = { ent-BaseUplinkRadio.desc }
-    .suffix = DEBUG, Аплинк Синдиката
-ent-BaseUplinkContractor = аплинк Наёмника
-    .desc = Карманный терминал, дающий доступ к Гильдийскому магазину и доске заказов.
-    .suffix = Пустой
-
-# Corvax-HiddenDesc-End
-
+    .suffix = DEBUG

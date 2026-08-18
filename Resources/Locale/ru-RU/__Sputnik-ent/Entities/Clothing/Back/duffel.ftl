@@ -1,53 +1,74 @@
 ent-ClothingBackpackDuffel = вещмешок
-    .desc = Большой вещмешок для хранения дополнительных предметов.
-ent-ClothingBackpackDuffelEngineering = вещмешок инженера
-    .desc = Большой вещмешок для хранения дополнительных инструментов и припасов.
-ent-ClothingBackpackDuffelAtmospherics = вещмешок атмос-инженера
-    .desc = Большой вещмешок из огнестойких волокон. Пахнет плазмой.
-ent-ClothingBackpackDuffelMedical = вещмешок медика
-    .desc = Большой вещмешок для хранения дополнительных медицинских припасов.
+    .desc = Большой вещмешок для хранения дополнительных вещей.
+
+ent-ClothingBackpackDuffelEngineering = инженерный вещмешок
+    .desc = Большой вещмешок для хранения дополнительных инструментов и материалов.
+
+ent-ClothingBackpackDuffelAtmospherics = вещмешок атмосферного отдела
+    .desc = Большой вещмешок из огнеупорного волокна. Пахнет плазмой.
+
+ent-ClothingBackpackDuffelMedical = медицинский вещмешок
+    .desc = Большой вещмешок для хранения дополнительных медицинских принадлежностей.
+
 ent-ClothingBackpackDuffelCaptain = вещмешок капитана
     .desc = Большой вещмешок для хранения дополнительных капитанских вещей.
+
 ent-ClothingBackpackDuffelClown = вещмешок клоуна
-    .desc = Большой вещмешок для хранения дополнительных хонков.
-ent-ClothingBackpackDuffelSecurity = вещмешок охраны
-    .desc = Большой вещмешок для хранения дополнительных припасов охраны.
+    .desc = Большой вещмешок для хранения дополнительных весёлых вещей.
+
+ent-ClothingBackpackDuffelSecurity = вещмешок службы безопасности
+    .desc = Большой вещмешок для хранения дополнительных вещей, связанных с безопасностью.
+
 ent-ClothingBackpackDuffelBrigmedic = вещмешок бригмедика
-    .desc = Большой вещмешок для хранения дополнительных медицинских припасов.
-ent-ClothingBackpackDuffelChemistry = вещмешок химика
+    .desc = Большой вещмешок для хранения дополнительных медицинских вещей.
+
+ent-ClothingBackpackDuffelChemistry = вещмешок химического отдела
     .desc = Большой вещмешок для хранения дополнительных мензурок и пробирок.
-ent-ClothingBackpackDuffelVirology = вещмешок вирусолога
-    .desc = Большой вещмешок, изготовленный из гипоаллергенных волокон. Он предназначен для предотвращения распространения болезней. Пахнет обезьянами.
-ent-ClothingBackpackDuffelGenetics = вещмешок генетика
+
+ent-ClothingBackpackDuffelVirology = вещмешок вирусологического отдела
+    .desc = Большой вещмешок из гипоаллергенного волокна. Он разработан для предотвращения распространения болезней. Пахнет обезьяной.
+
+ent-ClothingBackpackDuffelGenetics = вещмешок генетического отдела
     .desc = Большой вещмешок для хранения дополнительных генетических мутаций.
+
 ent-ClothingBackpackDuffelMime = вещмешок мима
-    .desc = Большой вещмешок для хранения... мимских... штук.
-ent-ClothingBackpackDuffelScience = вещмешок учёного
-    .desc = Большой вещмешок для хранения дополнительных научных предметов.
-ent-ClothingBackpackDuffelHydroponics = вещмешок ботаника
+    .desc = Большой вещмешок для хранения... миманских... вещей.
+
+ent-ClothingBackpackDuffelScience = вещмешок научного отдела
+    .desc = Большой вещмешок для хранения дополнительных вещей, связанных с наукой.
+
+ent-ClothingBackpackDuffelHydroponics = вещмешок гидропоники
     .desc = Большой вещмешок для хранения дополнительных садовых инструментов.
-ent-ClothingBackpackDuffelCargo = вещмешок грузчика
-    .desc = Большой вещмешок для воровства драгоценной добычи.
+
+ent-ClothingBackpackDuffelCargo = вещмешок грузового отдела
+    .desc = Большой вещмешок для кражи драгоценной добычи грузового отдела.
+
 ent-ClothingBackpackDuffelSalvage = вещмешок утилизатора
     .desc = Большой вещмешок для хранения дополнительных экзотических сокровищ.
-# Corvax-HiddenDesc-Start
-ent-ClothingBackpackDuffelSyndicate = чёрно-красный вещмешок
-    .desc = Большой вещмешок для хранения дополнительных предательских предметов.
-    .suffix = вещмешок синдиката
-# Corvax-HiddenDesc-End
+
+ent-ClothingBackpackDuffelSyndicate = вещмешок Синдиката
+    .desc = Большой вещмешок для хранения различных вещей предателя.
+
 ent-ClothingBackpackDuffelSyndicateBundle = { ent-ClothingBackpackDuffelSyndicate }
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
+
 ent-ClothingBackpackDuffelBundle = { ent-ClothingBackpackDuffel }
     .desc = { ent-ClothingBackpackDuffel.desc }
+
 ent-ClothingBackpackDuffelSyndicateAmmo = { ent-ClothingBackpackDuffelSyndicate }
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
+
 ent-ClothingBackpackDuffelSyndicateAmmoBundle = { ent-ClothingBackpackDuffelSyndicateAmmo }
     .desc = { ent-ClothingBackpackDuffelSyndicateAmmo.desc }
+
 ent-ClothingBackpackDuffelSyndicateMedical = { ent-ClothingBackpackDuffelSyndicate }
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
+
 ent-ClothingBackpackDuffelSyndicateMedicalBundle = { ent-ClothingBackpackDuffelSyndicateMedical }
     .desc = { ent-ClothingBackpackDuffelSyndicateMedical.desc }
-ent-ClothingBackpackDuffelHolding = бездонный вещмешок
-    .desc = Вещмешок, открывающийся в локальный карман блюспейса.
-ent-ClothingBackpackDuffelCBURN = вещмешок отряда РХБЗЗ
-    .desc = Вещмешок, содержащий различное оборудование для сдерживания биологической угрозы.
+
+ent-ClothingBackpackDuffelHolding = вещмешок вместимости
+    .desc = вещмешок, открывающийся в локализованный карман блюспейса.
+
+ent-ClothingBackpackDuffelCBURN = вещмешок биологической защиты
+    .desc = вещмешок, содержащий различное оборудование для биологической изоляции.

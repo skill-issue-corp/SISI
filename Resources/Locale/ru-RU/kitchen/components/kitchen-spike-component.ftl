@@ -17,7 +17,7 @@ comp-kitchen-spike-begin-unhook-other-self = Вы начинаете снима�
 comp-kitchen-spike-begin-unhook-other = { CAPITALIZE($user) } начинает снимать { CAPITALIZE($victim) } с { $hook }!
 
 comp-kitchen-spike-unhook-self = Вы сняли себя с { $hook }!
-comp-kitchen-spike-unhook-self-other = { CAPITALIZE($victim) } снял { REFLEXIVE($victim) } себя с { THE($hook) }!
+comp-kitchen-spike-unhook-self-other = { CAPITALIZE($victim) } снял { REFLEXIVE($victim) } себя с { $hook }!
 
 comp-kitchen-spike-unhook-other-self = Вы сняли { CAPITALIZE($victim) } с { $hook }!
 comp-kitchen-spike-unhook-other = { CAPITALIZE($user) } снял { CAPITALIZE($victim) } с { $hook }!

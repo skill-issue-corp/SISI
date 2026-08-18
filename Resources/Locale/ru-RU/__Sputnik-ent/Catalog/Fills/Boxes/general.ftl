@@ -1,71 +1,106 @@
 ent-BoxCardboard = картонная коробка
     .desc = Картонная коробка для хранения вещей.
-ent-BoxMousetrap = коробка мышеловок
-    .desc = Коробка, наполненная мышеловками. Постарайтесь не поймать себя за руку.
-ent-BoxLightbulb = коробка лампочек
-    .desc = Из-за формы коробки в неё помещаются только лампочки и лампочки-трубки.
-ent-BoxWarmLightbulb = коробка тёплых лампочек
+
+ent-BoxCardboardSmall = маленькая картонная коробка
+    .desc = Маленькая картонная коробка для хранения вещей.
+
+ent-BoxMousetrap = коробка с мышеловками
+    .desc = Эта коробка заполнена мышеловками. Постарайтесь не застрять в одной из них рукой.
+
+ent-BoxLightbulb = коробка с лампочками
+    .desc = Внутренняя форма этой коробки сделана так, что в неё помещаются только лампы и трубки.
+
+ent-BoxWarmLightbulb = коробка с тёплыми лампочками
     .desc = { ent-BoxLightbulb.desc }
-ent-BoxLighttube = коробка лампочек-трубок
+
+ent-BoxLighttube = коробка с лампами-трубками
     .desc = { ent-BoxLightbulb.desc }
-ent-BoxLightMixed = коробка смешанных лампочек
+
+ent-BoxLightMixed = коробка со смешанными лампами
     .desc = { ent-BoxLightbulb.desc }
-ent-BoxLighttubeHoliday = коробка праздничных лампочек-трубок
+
+ent-BoxLighttubeHoliday = коробка с праздничными лампами-трубками
     .desc = { ent-BoxLightbulb.desc }
-ent-BoxPDA = коробка КПК
-    .desc = Коробка запасных микрокомпьютеров КПК.
-ent-BoxID = коробка ID-карт
-    .desc = Коробка запасных чистых ID-карт.
-ent-BoxHeadset = коробка гарнитур
-    .desc = Коробка запасных ассистентских гарнитур.
-ent-BoxMesonScanners = коробка инженерных очков
-    .desc = Коробка запасных инженерных очков.
-ent-BoxMRE = сухой паёк
-    .desc = Коробка старых военных ИРП. Они, на удивление, не испортились.
-ent-BoxHugHealing = коробка обнимашек
-    .desc = Специальная коробка для чутких людей.
-    .suffix = Медицинский
-ent-BoxInflatable = коробка надувных стен
-    .desc = Надувные стены не должны использоваться в качестве плавучих средств.
-ent-BoxPerformer = коробка в честь дня Хацунэ Мику
-    .desc = Счастливого дня Хацунэ Мику!
-ent-BoxFlare = коробка фальшфейеров
-    .desc = Коробка фальшфейеров. Время зажигать.
-ent-BoxTrashbag = коробка мусорных пакетов
-    .desc = Коробка мусорных пакетов. Звуки счастливого уборщика.
-ent-BoxEncryptionKeyPassenger = коробка ключей шифрования ассистентов
-    .desc = Коробка запасных ключей шифрования.
-ent-BoxEncryptionKeyCargo = коробка ключей шифрования отдела снабжения
+
+ent-BoxPDA = коробка с КПК
+    .desc = Коробка с запасными микрокомпьютерами КПК.
+
+ent-BoxID = коробка с ID-картами
+    .desc = Коробка с запасными пустыми ID-картами.
+
+ent-BoxHeadset = коробка с гарнитурами
+    .desc = Коробка с запасными гарнитурами пассажира.
+
+ent-BoxStamps = коробка со штампами
+    .desc = Небольшая коробка, содержащая штампы.
+
+ent-BoxMesonScanners = коробка с мезонными очками
+    .desc = Коробка с запасными мезонными очками.
+
+ent-BoxMRE = сухпаёк
+    .desc = Коробка десятилетиями хранившегося военного пайка. На удивление не протух.
+
+ent-BoxHugHealing = { ent-BoxHug }
+    .desc = { ent-BoxHug.desc }
+    .suffix = Медицинская
+
+ent-BoxInflatable = коробка с надувной стеной
+    .desc = Надувные стены не предназначены для использования в качестве спасательных средств.
+
+ent-BoxPerformer = сумка дня Хацунэ Мику
+    .desc = С Днём Хацунэ Мику!
+
+ent-BoxFlare = коробка с фальшфейерами
+    .desc = Коробка с фальшфейерами. Время вечеринки.
+
+ent-BoxTrashbag = коробка с мусорными пакетами
+    .desc = Коробка с мусорными пакетами. Счастливые звуки уборщика.
+
+ent-BoxEncryptionKeyPassenger = коробка с ключами шифрования пассажира
+    .desc = Коробка с запасными ключами шифрования.
+
+ent-BoxEncryptionKeyCargo = коробка с ключами шифрования грузового отдела
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
-ent-BoxEncryptionKeyEngineering = коробка ключей шифрования инженерного отдела
+
+ent-BoxEncryptionKeyEngineering = коробка с ключами шифрования инженерного отдела
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
-ent-BoxEncryptionKeyMedicalScience = коробка ключей шифрования медико-научных
+
+ent-BoxEncryptionKeyMedicalScience = коробка с ключами шифрования мед-науки
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
-ent-BoxEncryptionKeyMedical = коробка ключей шифрования медицинского отдела
+
+ent-BoxEncryptionKeyMedical = коробка с ключами шифрования медицинского отдела
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
-ent-BoxEncryptionKeyRobo = коробка ключей шифрования робототехников
+
+ent-BoxEncryptionKeyRobo = коробка с ключами шифрования роботехники
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
-ent-BoxEncryptionKeyScience = коробка ключей шифрования научного отдела
+
+ent-BoxEncryptionKeyScience = коробка с ключами шифрования научного отдела
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
-ent-BoxEncryptionKeySecurity = коробка ключей шифрования службы безопасности
+
+ent-BoxEncryptionKeySecurity = коробка с ключами шифрования службы безопасности
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
-ent-BoxEncryptionKeyService = коробка ключей шифрования сервисного отдела
+
+ent-BoxEncryptionKeyService = коробка с ключами шифрования сервисного отдела
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
-# Corvax-HiddenDesc-Start
-ent-BoxEncryptionKeySyndie = коробка ключей шифрования ассистентов
-    .desc = { ent-BoxEncryptionKeyPassenger.desc }
-    .suffix = коробка ключей шифрования Синдиката
-# Corvax-HiddenDesc-End
-ent-BoxLeadLined = освинцованная коробка
-    .desc = Эта коробка препятствует распространению радиации.
+
+ent-BoxEncryptionKeySyndie = коробка с ключами шифрования Синдиката
+    .desc = Два ключа шифрования Синдиката по цене одного. Миниатюризированы для удобства использования.
+
+ent-BoxLeadLined = коробка с свинцовой обшивкой
+    .desc = Эта коробка препятствует прохождению вредного излучения.
     .suffix = DEBUG
-ent-BoxCandle = коробка свечей
-    .desc = Эта коробка изготовлена специально для хранения свечей.
-ent-BoxCandleSmall = коробка маленьких свечей
+
+ent-BoxCandle = коробка со свечами
+    .desc = Эта коробка отлита специально для переноски только свечей.
+
+ent-BoxCandleSmall = маленькая коробка со свечами
     .desc = { ent-BoxCandle.desc }
-ent-BoxDarts = коробка дротиков
-    .desc = Коробка, наполненная разноцветными дротиками.
-ent-BoxEnvelope = коробка конвертов
-    .desc = Коробка, наполненная конвертами.
-ent-BoxUtensil = коробка столовых приборов
+
+ent-BoxDarts = коробка с дротиками
+    .desc = Коробка, заполненная разноцветными дротиками.
+
+ent-BoxEnvelope = коробка с конвертами
+    .desc = Коробка, заполненная конвертами.
+
+ent-BoxUtensil = коробка со столовыми приборами
     .desc = Коробка, заполненная вилками и ложками.

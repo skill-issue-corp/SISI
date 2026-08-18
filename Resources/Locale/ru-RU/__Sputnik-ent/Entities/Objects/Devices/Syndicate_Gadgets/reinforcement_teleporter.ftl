@@ -1,27 +1,23 @@
-ent-ReinforcementRadio = старое радио
-    .desc = Винтажное радио с незнакомыми частотами.
-    .suffix = радио подкрепления Синдиката
+ent-ReinforcementRadio = рация синдиката для подкрепления
+    .desc = Вызовите агента синдиката сомнительного качества, мгновенно! Предоставляется только базовое снаряжение.
 
-ent-ReinforcementRadioSyndicate = { ent-ReinforcementRadio }
-    .desc = { ent-ReinforcementRadio.desc }
-    .suffix = радио подкрепления Синдиката
+ent-ReinforcementRadioSyndicate = рация синдиката для подкрепления
+    .desc = Вызовите агента синдиката сомнительного качества, мгновенно!
 
-ent-ReinforcementRadioSyndicateNukeops = { ent-ReinforcementRadio }
-    .desc = { ent-ReinforcementRadio.desc }
-    .suffix = радио подкрепления ядерного оперативника
+ent-ReinforcementRadioSyndicateNukeops = рация ядерного оперативника
+    .desc = Вызовите ядерного оперативника сомнительного качества, мгновенно! Предоставляется базовое снаряжение нюкеропа.
+    .suffix = Нюкеропы
 
-ent-ReinforcementRadioSyndicateAncestor = { ent-ReinforcementRadio }
-    .desc = { ent-ReinforcementRadio.desc }
-    .suffix = радио подкрепления генетического предка Синдиката
+ent-ReinforcementRadioSyndicateAncestor = рация синдиката для вызова генетического предка
+    .desc = Вызывает специально обученного предка на ваш выбор, чтобы помочь вам.
 
 ent-ReinforcementRadioSyndicateAncestorNukeops = { ent-ReinforcementRadioSyndicateAncestor }
-    .suffix = радио подкрепления генетического предка Синдиката, Ядерные оперативники
     .desc = { ent-ReinforcementRadioSyndicateAncestor.desc }
+    .suffix = Нюкеропы
 
-ent-ReinforcementRadioSyndicateSyndiCat = { ent-ReinforcementRadio }
-    .desc = { ent-ReinforcementRadio.desc }
-    .suffix = радио подкрепления синдикота
+ent-ReinforcementRadioSyndicateSyndiCat = рация синдиката для вызова кота
+    .desc = Вызывает преданно обученного кота с микробомбой, чтобы помочь вам.
 
-ent-ReinforcementRadioSyndicateCyborgAssault = { ent-ReinforcementRadio }
-    .desc = { ent-ReinforcementRadio.desc }
-    .suffix = радио подкрепления штурмового борга Синдиката, Ядерные оперативники
+ent-ReinforcementRadioSyndicateCyborgAssault = рация синдиката для вызова штурмового киборга
+    .desc = Вызовите хорошо вооружённого штурмового киборга, мгновенно!
+    .suffix = Нюкеропы
