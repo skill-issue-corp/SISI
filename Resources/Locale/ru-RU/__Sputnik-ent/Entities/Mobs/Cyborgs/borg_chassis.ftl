@@ -41,7 +41,7 @@ ent-JanitorBorgChassisDerelict = заброшенный киборг-уборщ�
 ent-MedicalBorgChassisDerelict = заброшенный киборг-медик
     .desc = Гибрид человека и машины, помогающий медицинскому отделу. Иглы этого экземпляра выглядят не слишком стерильно.
 
-ent-MiningBorgChassisDerelict = заброшенный киборг-сальважник
+ent-MiningBorgChassisDerelict = заброшенный киборг-утилизатор
     .desc = Гибрид человека и машины, помогающий грузовому отделу. Этот повидал не лучшую сторону куска гибтонита.
 
 ent-SyndicateAssaultBorgChassisDerelict = заброшенный штурмовой киборг Синдиката
