@@ -202,7 +202,7 @@
       weight: 7
     - !type:NestedSelector
       tableId: EvilMobsTable
-      weight: 3
+      weight: 0.03
     - !type:NestedSelector
       tableId: RareFishItemsTable
       weight: 10.45
@@ -222,10 +222,10 @@
     children:
     - !type:NestedSelector
       tableId: EvilMobsTable
-      weight: 25
+      weight: 2.5
     - !type:NestedSelector
       tableId: RareEvilMobsTable
-      weight: 12.5
+      weight: 0.125
     - !type:NestedSelector
       tableId: RareFishItemsTable
       weight: 50
@@ -237,7 +237,7 @@
       weight: 2
     - !type:NestedSelector
       tableId: SuperRareEvilMobsTable
-      weight: 1.5
+      weight: 0.015
     - !type:NestedSelector
       tableId: GodFishItemsTable
       weight: 0.1
@@ -248,10 +248,10 @@
     children:
     - !type:NestedSelector
       tableId: EvilMobsTable
-      weight: 25
+      weight: 2.5
     - !type:NestedSelector
       tableId: RareEvilMobsTable
-      weight: 12.5
+      weight: 0.125
     - !type:NestedSelector
       tableId: RareFishItemsTable
       weight: 50
@@ -263,7 +263,7 @@
       weight: 2
     - !type:NestedSelector
       tableId: SuperRareEvilMobsTable
-      weight: 1.5
+      weight: 0.015
     - !type:NestedSelector
       tableId: GodFishItemsTable
       weight: 0.1
@@ -286,10 +286,10 @@
       weight: 5
     - !type:NestedSelector
       tableId: EvilMobsTable
-      weight: 5
+      weight: 0.5
     - !type:NestedSelector
       tableId: RarePeacefullyMobsTable
       weight: 2
     - !type:NestedSelector
       tableId: RareEvilMobsTable
-      weight: 1
+      weight: 0.1
