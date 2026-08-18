@@ -342,7 +342,7 @@ ent-DefaultStationBeaconDockingArm = { ent-DefaultStationBeacon }
     .desc = { ent-DefaultStationBeacon.desc }
 
 ent-DefaultStationBeaconEVAStorage = { ent-DefaultStationBeacon }
-    .suffix = Хранилище ВКД
+    .suffix = Хранилище EVA
     .desc = { ent-DefaultStationBeacon.desc }
 
 ent-DefaultStationBeaconChapel = { ent-DefaultStationBeacon }

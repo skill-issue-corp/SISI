@@ -215,7 +215,7 @@ ent-VendingMachinePride = НежноМат
 
 ent-VendingMachineTankDispenserEVA = раздатчик газовых баллонов
     .desc = Автомат по выдаче газовых баллонов.
-    .suffix = ВКД [O2, N2]
+    .suffix = EVA [O2, N2]
 
 ent-VendingMachineTankDispenserEngineering = раздатчик газовых баллонов
     .desc = Автомат по выдаче газовых баллонов. Этот имеет инженерную окраску.

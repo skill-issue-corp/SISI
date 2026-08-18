@@ -178,7 +178,7 @@ ent-SignEngineering = знак "инженерия"
 ent-SignEscapePods = знак "капсулы"
     .desc = Знак, указывающий на спасательные капсулы.
 
-ent-SignEVA = знак "ВКД"
+ent-SignEVA = знак "EVA"
     .desc = Знак, указывающий на хранилище скафандров.
 
 ent-SignElectrical = знак "высокое напряжение"

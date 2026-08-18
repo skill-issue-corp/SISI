@@ -1,13 +1,13 @@
-ent-ClothingOuterHardsuitEVA = скафандр ВКД
+ent-ClothingOuterHardsuitEVA = скафандр EVA
     .desc = Лёгкий космический скафандр, способный защитить владельца от космического вакуума во время аварийной ситуации.
 
-ent-ClothingOuterEVASuitSyndicate = кроваво-красный скафандр ВКД
+ent-ClothingOuterEVASuitSyndicate = кроваво-красный скафандр EVA
     .desc = На бирке написано 'Совершенно не собственность вражеской корпорации, честно!'.
 
-ent-ClothingOuterSuitEmergency = аварийный скафандр ВКД
+ent-ClothingOuterSuitEmergency = аварийный скафандр EVA
     .desc = Аварийный скафандр EVA со встроенным шлемом. Он ужасно медленный и не имеет температурной защиты, но его достаточно, чтобы выиграть время в жёстком вакууме космоса.
 
-ent-ClothingOuterHardsuitEVAPrisoner = тюремный скафандр ВКД
+ent-ClothingOuterHardsuitEVAPrisoner = тюремный скафандр EVA
     .desc = Лёгкий космический скафандр, способный защитить заключённого от космического вакуума во время аварийной ситуации.
 
 ent-ClothingOuterHardsuitAncientEVA = пустотный скафандр NTSRA
