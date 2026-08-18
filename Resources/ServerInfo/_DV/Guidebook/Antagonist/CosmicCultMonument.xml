@@ -1,23 +1,23 @@
 <Document>
-  ## Beckoning the Unknown
+  ## Призыв Неизвестного
   <Box>
     <GuideEntityEmbed Entity="MonumentCosmicCult" Caption=""/>
   </Box>
 
-  Should you attain enough power, you will be able to call forth The Monument. Use the respective action to mark a spot, upon which the majority of the cult must agree for The Monument to appear.
+  Если вы обретёте достаточно могущества, вы сможете призвать Монумент. Используйте соответствующее действие, чтобы отметить место, с которым должно согласиться большинство культа, чтобы Монумент появился.
 
-  Once the Monument is placed, it can be used to [bold]Beckon [color=#4cabb3]the Unknown[/bold][/color]. Any cultist may do so by interacting with the Monument.
+  Как только Монумент установлен, его можно использовать, чтобы [bold]Призвать [color=#4cabb3]Неизвестное[/bold][/color]. Сделать это может любой культист, взаимодействуя с Монументом.
 
-  Be prepared to defend the Monument during the Beckoning, as just one waylaid action from a single disruptive soul will bring this ritual to a sudden, unceremonious halt.
+  Будьте готовы защищать Монумент во время Призыва, ведь всего одно сорванное действие одной мешающей души внезапно и бесславно остановит этот ритуал.
 
-  ## Fracturing
+  ## Расщепление
   <Box>
-    <GuideEntityEmbed Entity="MobCosmicShatteredForm" Caption="Shattered Form"/>
+    <GuideEntityEmbed Entity="MobCosmicShatteredForm" Caption="Расколотая Форма"/>
   </Box>
 
-  As long as the monument is active, you can bring crewmembers (or even fellow cultists) in critical condition close to The monument to [color=#4cabb3]fracture[/color] their physical form and accelerate the Beckoning.
+  Пока монумент активен, вы можете подводить членов экипажа (или даже собратьев-культистов) в критическом состоянии близко к Монументу, чтобы [color=#4cabb3]расщепить[/color] их физическую форму и ускорить Призыв.
 
-  Doing so binds their mind and body to The Monument. They will stop suffocating, and their mind will be ripped out of their body, able to wander around the station. A rare act of mercy before the End.
+  Это связывает их разум и тело с Монументом. Они перестанут задыхаться, и их разум будет вырван из тела, получив возможность бродить по станции. Редкий акт милосердия перед Концом.
 
-  Should the Beckoning be interrupted, they will immediately return back to normal, though their wounds will still be present.
+  Если Призыв будет прерван, они немедленно вернутся в нормальное состояние, хотя их раны никуда не денутся.
 </Document>

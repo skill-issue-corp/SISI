@@ -1,87 +1,87 @@
 <Document>
-  # The Cosmic Cult
+  # Космический Культ
 
   <Box>
-    [color=#999999][italic]"A revelation beyond compare. An end to cyclic, sisyphean suffering."[/italic][/color]
+    [color=#999999][italic]«Откровение, которому нет равных. Конец циклическим, сизифовым страданиям.»[/italic][/color]
   </Box>
   <Box>
-    [color=#999999][italic]"A gentle curtain call."[/italic][/color]
+    [color=#999999][italic]«Тихий финальный аккорд.»[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="CosmicGlyphTruth" Caption=""/>
   </Box>
 
-  Otherworldly knowledge floods your mind! Welcome to the [color=#4cabb3]Cosmic Cult[/color], a team antagonist that has set its sights on the end of all things.
+  Потустороннее знание затопило ваш разум! Добро пожаловать в [color=#4cabb3]Космический Культ[/color] — командного антагониста, вознамерившегося положить конец всему сущему.
 
-  Use [color=#4cabb3]:a[/color] to communicate with fellow cultists through the [color=#4cabb3]Astral Murmur[/color].
+  Используйте [color=#4cabb3]:a[/color], чтобы общаться с собратьями-культистами через [color=#4cabb3]Астральный Шёпот[/color].
 
-  ## Objectives
-  - [color=#4cabb3][bold]Siphon Entropy[/bold][/color]  - Collectively siphon a certain amount of Entropy from the crew. The more entropy you siphon, the more powerful you become.
-  - [color=#4cabb3][bold]Attain Power[/bold][/color] - The more you gather entropy, the more power the cult gains access to, and the stronger are it's effects on the station.
-  - [color=#4cabb3][bold]Usher In The End[/bold][/color] - Once the cult is at full power, summon The Monument and complete the final ritual to beckon the Unknown and destroy the station.
+  ## Цели
+  - [color=#4cabb3][bold]Высосать Энтропию[/bold][/color] — совместными усилиями высосите определённое количество Энтропии из экипажа. Чем больше энтропии вы высосете, тем сильнее вы становитесь.
+  - [color=#4cabb3][bold]Обрести Могущество[/bold][/color] — чем больше энтропии вы собираете, тем больше сил становится доступно культу, и тем сильнее его влияние на станцию.
+  - [color=#4cabb3][bold]Возвестить Конец[/bold][/color] — как только культ достигнет полной силы, призовите Монумент и завершите финальный ритуал, чтобы призвать Неизвестное и уничтожить станцию.
 
-  Progress towards objectives is shared by the entire cult.
+  Прогресс по целям является общим для всего культа.
 
-  ## Entropy
+  ## Энтропия
   <Box>
     <GuideEntityEmbed Entity="MaterialCosmicCultEntropy1" Caption=""/>
-    <GuideEntityEmbed Entity="MaterialCosmicCultEntropy10" Caption="Motes of Entropy"/>
+    <GuideEntityEmbed Entity="MaterialCosmicCultEntropy10" Caption="Крупицы Энтропии"/>
     <GuideEntityEmbed Entity="MaterialCosmicCultEntropy" Caption=""/>
   </Box>
 
-  All cultists start with two abilities, or [color=#4cabb3][bold]Influences[/bold][/color] - one of which is [italic][color=#4cabb3]Siphon Entropy[/color][/italic]. This is your bread and butter as a cosmic cultist, and you'll want to use it as often as possible.
+  Все культисты начинают с двумя способностями, или [color=#4cabb3][bold]Влияниями[/bold][/color] — одна из которых [italic][color=#4cabb3]Высосать Энтропию[/color][/italic]. Это ваш основной хлеб как космического культиста, и вам следует использовать её как можно чаще.
 
-  Using Siphon Entropy on an unsuspecting crewmember will stealthily award you [color=#4cabb3]Entropy[/color].
+  Использование Высасывания Энтропии на ничего не подозревающем члене экипажа незаметно наградит вас [color=#4cabb3]Энтропией[/color].
 
-  You can also siphon from crewmembers in critical condition, which will significantly increase the amount of entropy gathered, especially from high-value targets. However, doing so would also kill the target, so make sure to leave no witnesses.
+  Вы также можете высасывать энтропию из членов экипажа в критическом состоянии, что значительно увеличит количество собранной энтропии, особенно от ценных целей. Однако это также убьёт цель, так что позаботьтесь о том, чтобы не оставлять свидетелей.
 
-  The second Influence, [italic][color=#4cabb3]Attune Influence[/color][/italic] is just as important. Using it will allow you to see the cult's progress, as well as spend gathered entropy to unlock more [color=#4cabb3][bold]Influences[/bold][/color].
+  Второе Влияние, [italic][color=#4cabb3]Настроить Влияние[/color][/italic], не менее важно. Его использование позволит вам увидеть прогресс культа, а также потратить накопленную энтропию, чтобы разблокировать больше [color=#4cabb3][bold]Влияний[/bold][/color].
 
-  [textlink="For more on Influences, click here." link="CosmicCultInfluences"]
+  [textlink="Подробнее о Влияниях можно узнать здесь." link="CosmicCultInfluences"]
 
   <Box>
-    <GuideEntityEmbed Entity="CosmicVacuousSpire" Caption="A vacuous spire"/>
+    <GuideEntityEmbed Entity="CosmicVacuousSpire" Caption="Пустотный шпиль"/>
   </Box>
 
-  When the cult grows stronger, they gain the ability to make [color=#4cabb3]Vacuous Spires[/color]. These can be made by transmuting a Gas Canister using [color=#4cabb3]Corrupt Matter[/color].
+  Когда культ становится сильнее, культисты получают возможность создавать [color=#4cabb3]Пустотные Шпили[/color]. Их можно создать, трансмутировав газовый баллон с помощью [color=#4cabb3]Осквернённой Материи[/color].
 
-  When anchored in place, a vacuous spire rapidly devours the surrounding atmosphere! This process causes [color=#4cabb3]Motes of Entropy[/color] to condense from a spire's surface, acting as a powerful lategame source of entropy.
+  Будучи закреплённым на месте, пустотный шпиль стремительно поглощает окружающую атмосферу! Этот процесс заставляет [color=#4cabb3]Крупицы Энтропии[/color] конденсироваться на поверхности шпиля, что является мощным источником энтропии на поздних этапах игры.
 
-  ## Malign Rifts
+  ## Злокачественные Разломы
   <Box>
-    <GuideEntityEmbed Entity="CosmicMalignRift" Caption="A Malign Rift"/>
+    <GuideEntityEmbed Entity="CosmicMalignRift" Caption="Злокачественный Разлом"/>
   </Box>
-  As your cult progresses, [color=#4cabb3]Malign Rifts[/color] will begin to spawn throughout the surrounding environment. These rifts in realspace bleed unstable astral power, and should be located as soon as possible!
+  По мере развития вашего культа в окружающем пространстве начнут появляться [color=#4cabb3]Злокачественные Разломы[/color]. Эти разломы в реальном пространстве источают нестабильную астральную энергию, и их следует обнаружить как можно скорее!
 
-  Cultists may stealthily [color=#4cabb3]absorb[/color] a Malign Rift by interacting with it.
+  Культисты могут незаметно [color=#4cabb3]поглотить[/color] Злокачественный Разлом, взаимодействуя с ним.
 
-  Successful absorbtion of a Malign Rift will [bold]permanently[/bold] empower the cultist doing so, increasing the strength of all the [color=#4cabb3]Influences[/color] they possess, and doubling the [color=#4cabb3]Entropy[/color] they gain from siphoning crewmembers. Empowered cultists also no longer need to breathe, eat, or drink, and are immune to the vaccuum of space.
+  Успешное поглощение Злокачественного Разлома [bold]навсегда[/bold] усилит совершившего его культиста, увеличив мощь всех имеющихся у него [color=#4cabb3]Влияний[/color] и удвоив количество [color=#4cabb3]Энтропии[/color], получаемой от высасывания членов экипажа. Усиленные культисты также больше не нуждаются в дыхании, еде и питье и невосприимчивы к вакууму космоса.
 
-  Empowered cultists also gain the [color=#4cabb3]Null Fragmentation[/color] influence, which can be used to convert a Cyborg into an [color=#4cabb3]Entropic Colossus[/color], or to corrupt the station AI's laws.
+  Усиленные культисты также получают влияние [color=#4cabb3]Нулевая Фрагментация[/color], которое можно использовать, чтобы превратить Киборга в [color=#4cabb3]Энтропийного Колосса[/color] либо развратить законы ИИ станции.
 
-  Malign Rifts can be purged by interacting with them using a bible.
+  Злокачественные Разломы можно очистить, взаимодействуя с ними с помощью библии.
 
-  ## Vacuous Chantries
+  ## Пустотные Обители
   <Box>
     <GuideEntityEmbed Entity="CosmicBorgChantry" Caption=""/>
     <GuideEntityEmbed Entity="BorgChassisGeneric" Caption=""/>
     <GuideEntityEmbed Entity="MobCosmicColossus" Caption=""/>
   </Box>
-  While empowered, cultists can choose to use [color=#4cabb3]Null Fragmentation[/color] on a [bold]Cyborg[/bold]. Doing so will trap them inside a [color=#4cabb3]Vacuous Chantry[/color]! This will trigger a stationwide alert, and begin the process of transfiguring the unfortunate victim into an [color=#4cabb3]Entropic Colossus[/color].
+  Будучи усиленными, культисты могут применить [color=#4cabb3]Нулевую Фрагментацию[/color] на [bold]Киборге[/bold]. Это заключит его внутри [color=#4cabb3]Пустотной Обители[/color]! Это вызовет тревогу на всей станции и запустит процесс превращения незадачливой жертвы в [color=#4cabb3]Энтропийного Колосса[/color].
 
-  Be prepared to defend the chantry - or use it as a distraction to draw the crew's attention! The crew must use weapons to destroy the chantry in order to free the trapped Cyborg within.
+  Будьте готовы защищать обитель — или используйте её как отвлекающий манёвр, чтобы привлечь внимание экипажа! Экипаж должен использовать оружие, чтобы уничтожить обитель и освободить заключённого внутри Киборга.
 
-  If successfully unleashed, an Entropic Colossus will be a force to be reckoned with.
+  Если Колосс будет успешно высвобожден, Энтропийный Колосс станет силой, с которой придётся считаться.
 
-  [textlink="For more on Entropic Colossi, click here." link="CosmicColossus"]
+  [textlink="Подробнее об Энтропийных Колоссах можно узнать здесь." link="CosmicColossus"]
 
-  ## Malign Law
+  ## Злокачественный Закон
   <Box>
     <GuideEntityEmbed Entity="StationAiUploadComputer" Caption=""/>
     <GuideEntityEmbed Entity="CosmicCultLawBoard" Caption=""/>
     <GuideEntityEmbed Entity="PlayerStationAi" Caption=""/>
   </Box>
-  While empowered, cultists can choose to use [color=#4cabb3]Null Fragmentation[/color] on the [bold]AI Upload Console[/bold]. Provided there is a Station AI active, this will forcibly overwrite their laws with a corrupt set of guidelines, aligning them with the Cosmic Cult, in addition to granting them access to the Astral Murmur channel.
+  Будучи усиленными, культисты могут применить [color=#4cabb3]Нулевую Фрагментацию[/color] на [bold]Консоли Загрузки ИИ[/bold]. Если на станции активен ИИ, это принудительно перезапишет его законы набором извращённых предписаний, приводя его в соответствие с целями Космического Культа, а также предоставит ему доступ к каналу Астрального Шёпота.
 
-  If a different lawboard was installed, this process will forcibly eject the previous lawboard from the AI Upload Console, regardless of wether or not the console was locked. Be warned; the crew will still be able to restore the Station AI's functionality by installing a safe, crew-aligned lawboard.
+  Если была установлена другая плата законов, этот процесс принудительно извлечёт прежнюю плату законов из Консоли Загрузки ИИ, независимо от того, была ли консоль заблокирована. Помните: экипаж всё ещё сможет восстановить работоспособность ИИ станции, установив безопасную плату законов, лояльную экипажу.
 </Document>
