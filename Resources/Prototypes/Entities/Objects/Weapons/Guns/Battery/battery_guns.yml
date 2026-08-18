@@ -745,7 +745,7 @@
   # Goobstation end
   # SIS-Start
   - type: BatterySelfRecharger
-    autoRechargeRate: 0 # Какого черта станнер берет парент от своей тренировочной версии...?
+    autoRechargeRate: 0 # Какого черта дизейблер берет парент от своей тренировочной версии...?
   # SIS-End
 
 - type: entity

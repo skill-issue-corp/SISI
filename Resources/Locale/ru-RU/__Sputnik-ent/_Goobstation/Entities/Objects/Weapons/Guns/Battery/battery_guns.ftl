@@ -6,7 +6,7 @@ ent-BaseWeaponCustomCellSmall = { ent-BaseWeaponCustomCell }
 
 ent-WeaponPlasmaRifle = плазменная винтовка
     .desc = Он может взорваться у вас перед носом, а может и не взорваться.
-    .suffix = Винтовка 
+    .suffix = Винтовка
 
 ent-WeaponPlasmaRifleEmpty = { ent-WeaponPlasmaRifle }
     .suffix = Винтовка, Пустая
@@ -16,12 +16,12 @@ ent-WeaponEnergyRevolver = EG-4 энергетический револьвер
     .desc = Высокоэффективный энергетический револьвер, способный стрелять различными зарядами в зависимости от источника питания.
     .suffix = Револьвер
 
-ent-WeaponDisablerAdvanced = станнер ЦК
+ent-WeaponDisablerAdvanced = дизейблер ЦК
     .desc = Нелетальное оружие самообороны для агентов, которым не доверяют традиционные средства поражения. Со временем перезаряжается.
     .suffix = Пистолет
 
-ent-WeaponDisablerSyndicate = станнер Синдиката
-    .desc = Продвинутый станнер, созданный на основе прототипа NanoTrasen. Хоть ему и не хватает мощности, это компенсируется самозаряжающейся батареей.
+ent-WeaponDisablerSyndicate = дизейблер Синдиката
+    .desc = Продвинутый дизейблер, созданный на основе прототипа NanoTrasen. Хоть ему и не хватает мощности, это компенсируется самозаряжающейся батареей.
     .suffix = Пистолет
 
 ent-WeaponPulseCarbineAdvanced = усовершенствованный импульсный карабин

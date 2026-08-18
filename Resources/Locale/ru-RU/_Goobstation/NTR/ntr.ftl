@@ -12,8 +12,8 @@ ntr-executive-disk-small-name = Малый исследовательский г
 ntr-executive-disk-small-desc = Получите небольшой исследовательский грант от ведущей исследовательской команды NanoTrasen, содержащий 10 дисков с исследовательскими очками.
 ntr-executive-emergency-meds-name = Аварийные медицинские запасы
 ntr-executive-emergency-meds-desc = Малый ящик с наборами для лечения травм. Будьте готовы объясниться после покупки.
-ntr-executive-disablers-name = Ящик со станнерами
-ntr-executive-disablers-desc = Ящик, содержащий 3 станнера и 1 ПП станнер. NanoTrasen не несёт ответственности за ущерб, нанесённый этим оружием.
+ntr-executive-disablers-name = Ящик с дизейблерами
+ntr-executive-disablers-desc = Ящик, содержащий 3 станнера и 1 ПП дизейблер. NanoTrasen не несёт ответственности за ущерб, нанесённый этим оружием.
 ntr-executive-mats-name = Заказать материалы
 ntr-executive-mats-desc = Закажите строительные материалы из глобального отдела снабжения NanoTrasen.
 ntr-executive-tools-small-name = Ящик с инструментами
@@ -103,7 +103,7 @@ ntr-executive-id-desc = Высококачественная плата для �
 ntr-executive-task-console-flatpack-name = упакованная консоль заданий ПNT
 ntr-executive-task-console-flatpack-desc = Обычная упаковка, содержащая запасную консоль заданий для представителя корпорации.
 
-# Зловещее 
+# Зловещее
 ntr-executive-nuclear-codes-name = Коды ядерной аутентификации
 ntr-executive-nuclear-codes-desc = Нажмёшь не ту кнопку - и целой станции как не бывало. Так что, пожалуйста, не делайте импульсивных резких движений.
 
