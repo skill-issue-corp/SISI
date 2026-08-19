@@ -1,71 +1,71 @@
 <Document>
-## The Xenomorph Life Cycle
+  ## Жизненный цикл ксеноморфов
 
-<Box>
-  <GuideEntityEmbed Entity="XenomorphEgg" Caption=""/>
-  <GuideEntityEmbed Entity="MobXenomorphFaceHugger" Caption=""/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="XenomorphEgg" Caption=""/>
+    <GuideEntityEmbed Entity="MobXenomorphFaceHugger" Caption=""/>
+  </Box>
 
-  The lowliest form of Xenomorph is the humble [color=#FFBF00]facehugger[/color], the only type of xenomorph not usually player-controlled.
-  [color=#FFBF00]Facehuggers[/color] hatch from eggs laid by Queens, and on their own simply meander around.
-  If they come close to appropriate prey, typically humans or monkeys, they will launch themselves at their targets, ripping off most (but not all) forms of face protection and aggressively violating their victim's esophagus.
+  Самая низшая форма ксеноморфа - скромный [color=#FFBF00]лицехват[/color], единственный тип ксеноморфа, обычно не управляемый игроком.
+  [color=#FFBF00]Лицехваты[/color] вылупляются из яиц, отложенных Королевами, и сами по себе просто бесцельно бродят вокруг.
+  Если они приближаются к подходящей добыче, обычно людям или обезьянам, они бросаются на цель, срывая большинство (но не все) видов защиты лица и агрессивно внедряясь в пищевод жертвы.
 
-  The facehugger dies afterwards, but their target will have an alien larva planted inside them,
-  which will fatally burst out of their chest after some time.
-  Note that facehuggers act as pseudo-items, and can be picked up by mature xenomorphs to throw at prey.
+  После этого лицехват погибает, но внутри его жертвы остаётся личинка чужого,
+  которая через некоторое время смертельно вырвется наружу из грудной клетки.
+  Обратите внимание, что лицехваты выступают в роли псевдо-предметов и могут быть подобраны взрослыми ксеноморфами, чтобы бросить их в добычу.
 
-<Box>
-<GuideEntityEmbed Entity="MobXenomorphLarva" Caption=""/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="MobXenomorphLarva" Caption=""/>
+  </Box>
 
-  Also known as chestbursters, [color=#E97451]Larva[/color] are violently born from the bodies of those who fall prey to facehuggers.
-  When a larva is born, a random ghost player takes control of it, joining the xenomorphs and adding to their growing army.
+  Также известные как грудорывы, [color=#E97451]личинки[/color] жестоко рождаются из тел тех, кто пал жертвой лицехватов.
+  Когда личинка рождается, случайный игрок-призрак берёт над ней контроль, присоединяясь к ксеноморфам и пополняя их растущую армию.
 
-  [color=#E97451]Larva[/color] are relatively helpless, having no real offensive capability; instead, they must stay alive long enough to grow into an adult xenomorph.
-  They can crawl through vents to escape danger, and hide under tables to avoid detection.
-  Once they've grown enough, they can become one of three types of xeno:
-  - Hunters
-  - Sentinels
-  - Drones
+  [color=#E97451]Личинки[/color] относительно беспомощны и не обладают реальными наступательными способностями; вместо этого им нужно продержаться достаточно долго, чтобы вырасти во взрослого ксеноморфа.
+  Они могут ползать через вентиляцию, чтобы избежать опасности, и прятаться под столами, чтобы не быть обнаруженными.
+  Как только они достаточно вырастут, они могут стать одним из трёх типов ксеноморфов:
+  - Охотники
+  - Стражи
+  - Трутни
 
-  ## The xenomorphs
-<Box>
-<GuideEntityEmbed Entity="MobXenomorphHunter" Caption=""/>
-</Box>
+  ## Ксеноморфы
+  <Box>
+    <GuideEntityEmbed Entity="MobXenomorphHunter" Caption=""/>
+  </Box>
 
-  The offensive backbone of the xenos, [color=#9F2B68]Hunters[/color] move at blistering speed and can tackle down their unlucky opponents for quick stuns.
-  Hunters are typically tasked with securing new prey by ventcrawling through the station, facehuggers in hand, looking for lone crew members to throw them at.
-  They're also the best class for starting new outposts and spreading plasma weeds, due to their speed.
+  Наступательный костяк ксеносов, [color=#9F2B68]Охотники[/color] передвигаются с ошеломляющей скоростью и способны сбивать с ног незадачливых противников для быстрого оглушения.
+  Охотникам обычно поручают добывать новую добычу, ползая по вентиляции по всей станции с лицехватами наготове, в поисках одиноких членов экипажа, чтобы бросить лицехватов в них.
+  Они также лучший класс для основания новых аванпостов и распространения плазменных сорняков благодаря своей скорости.
 
-<Box>
-<GuideEntityEmbed Entity="MobXenomorphSentinel" Caption=""/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="MobXenomorphSentinel" Caption=""/>
+  </Box>
 
-  Defensive guards of the nest, [color=#5D3FD3]Sentinels[/color] are slower and beefier than Hunters, and can become partially invisible by staying still.
-  Their abilities recharge quicker than Hunters', and they usually stay near nests, keeping any captured humans from escaping and protecting the Drones.
+  Защитники гнезда, [color=#5D3FD3]Стражи[/color] медленнее и живучее Охотников и способны частично становиться невидимыми, оставаясь неподвижными.
+  Их способности перезаряжаются быстрее, чем у Охотников, и обычно они остаются рядом с гнёздами, не давая пойманным людям сбежать и защищая Трутней.
 
-<Box>
-<GuideEntityEmbed Entity="MobXenomorphDrone" Caption=""/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="MobXenomorphDrone" Caption=""/>
+  </Box>
 
-  An important type of xenomorph, second only to the Queen, [color=#871F78]Drones[/color] are the builders of the xenomorphs.
-  They can construct resin walls to block pathways, resin nests to keep prey secured, and other such structures.
-  Drones are also the only adult xenomorph capable of further evolution, into a Praetorian.
+  Важный тип ксеноморфа, уступающий по значимости только Королеве, [color=#871F78]Трутни[/color] являются строителями ксеноморфов.
+  Они могут возводить смоляные стены, чтобы блокировать проходы, смоляные гнёзда, чтобы удерживать добычу, и прочие подобные конструкции.
+  Трутни также единственные взрослые ксеноморфы, способные к дальнейшей эволюции - в Преторианца.
 
-<Box>
-<GuideEntityEmbed Entity="MobXenomorphPraetorian" Caption=""/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="MobXenomorphPraetorian" Caption=""/>
+  </Box>
 
-  [color=#871F78]Praetorians[/color] share many of the same abilities as Queens, without the ability to lay eggs.
-  If none exist on the station, Praetorians can evolve into Queens themselves.
-  Each xenomorph colony only has one Queen, and each is a massive engine of destruction, though their real power is in the ability to lay eggs. A nest with no Queen is crippled, and a colony with no Queens, Praetorians or Drones is effectively neutered.
-  Both Praetorians and Queens are also incredibly slow, and the only aliens who can't ventcrawl.
+  [color=#871F78]Преторианцы[/color] обладают многими из тех же способностей, что и Королевы, но без возможности откладывать яйца.
+  Если на станции нет Королевы, Преторианцы могут сами эволюционировать в Королеву.
+  У каждой колонии ксеноморфов есть только одна Королева, и каждая из них - огромная машина разрушения, хотя её настоящая сила заключается в способности откладывать яйца. Гнездо без Королевы серьёзно ослаблено, а колония без Королевы, Преторианцев или Трутней фактически обезврежена.
+  Как Преторианцы, так и Королевы также невероятно медлительны и являются единственными чужими, которые не могут ползать по вентиляции.
 
-<Box>
-<GuideEntityEmbed Entity="MobXenomorphQueen" Caption=""/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="MobXenomorphQueen" Caption=""/>
+  </Box>
 
-  The [color=#702963]Queen[/color] is the heart of the hive, laying eggs to expand the colony.
+  [color=#702963]Королева[/color] - сердце улья, откладывающая яйца для расширения колонии.
 
-  [bold]Also, it should be noted that all xenos have a 3 shove 15 second stun.[/bold]
+  [bold]Также стоит отметить, что у всех ксеносов есть способность к толчку с 3 попытками и 15-секундным оглушением.[/bold]
 </Document>

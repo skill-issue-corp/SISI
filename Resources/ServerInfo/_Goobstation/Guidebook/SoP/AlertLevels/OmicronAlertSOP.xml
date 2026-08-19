@@ -6,30 +6,30 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Station Alert - Omicron
+  # Станционная Тревога - Омикрон
 
   <Box>
-    [italic]Called by: Central Command Only.[/italic]
+    [italic]Объявляется: только Центральным Командованием.[/italic]
   </Box>
 
-  [bold]Conditions:[/bold]
+  [bold]Условия:[/bold]
 
-  Central Command has decided to take direct control of the station.
+  Центральное Командование приняло решение взять станцию под непосредственный контроль.
 
-  [bold]Security:[/bold]
+  [bold]Служба безопасности:[/bold]
 
-  All security members are to de-arm and await further instructions from Central Command.
+  Всем сотрудникам службы безопасности следует сложить оружие и ожидать дальнейших указаний от Центрального Командования.
 
-  [bold]Secure Areas:[/bold]
+  [bold]Охраняемые зоны:[/bold]
 
-  All Secure Areas are to be bolted down.
+  Все охраняемые зоны должны быть заблокированы.
 
-  [bold]General Crew:[/bold]
+  [bold]Весь персонал:[/bold]
 
-  All personnel must maximise their suit sensors.
+  Всему персоналу необходимо максимально задействовать датчики костюма.
 
-  All personnel should remain in their department, and await further orders.
+  Всему персоналу следует оставаться в своём отделе и ожидать дальнейших распоряжений.
 
-  Personnel are required to follow all Central Command orders.
+  Персонал обязан выполнять все распоряжения Центрального Командования.
 
 </Document>

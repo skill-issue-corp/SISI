@@ -1,89 +1,89 @@
 <Document>
 
-  # Ninjutsu
+  # Ниндзюцу
 
   <Box>
     <GuideEntityEmbed Entity="ClothingMaskNinja" Caption=""/>
   </Box>
 
-  Ninjutsu is a [textlink="martial art" link="MartialArts"] thoroughly developed by the Spider Clan.
-  Space Ninjas are true masters of this technique, yet Space Wizards may also unravel its secrets.
-  Remember your four teachings. Never move around loud. Only strike when unseen. Patience prevails, haste fails. Death comes in silence.
+  Ниндзюцу — это [textlink="боевое искусство" link="MartialArts"], тщательно разработанное Кланом Паука.
+  Космические ниндзя — истинные мастера этой техники, однако космические волшебники также способны постичь её секреты.
+  Помните четыре завета. Никогда не двигайтесь шумно. Бейте только незамеченным. Терпение побеждает, спешка ведёт к провалу. Смерть приходит в тишине.
 
-  ## Special abilities
+  ## Особые способности
 
-  ### Sneak Attack
+  ### Скрытая атака
 
   <Box>
     <GuideEntityEmbed Entity="EnergyKatana" Caption=""/>
   </Box>
 
-  In the shadow of stillness, the Ninja's strike shall echo with the force of two. Doubles the damage for next melee attack.
-  Once harm is dealt, the sneakiness fades, retreating into swiftness, waiting for the next chance to rise.
-  Enables Ninjutsu Takedown and Assassinate, disables Swift Strike.
+  В тени неподвижности удар ниндзя отзовётся вдвойне. Удваивает урон следующей атаки в ближнем бою.
+  Как только урон нанесён, скрытность угасает, уступая место стремительности, в ожидании следующего шанса подняться вновь.
+  Активирует Захват ниндзюцу и Убийство, отключает Стремительный удар.
 
-  ### Loss of Surprise
+  ### Потеря внезапности
 
   <Box>
     <TextureEmbed Sprite="Structures/Storage/closet.rsi" State="cardboard_special"/>
   </Box>
 
-  In the silence of an opening, the ninja moves like a whisper in the wind.
-  Speed is their weapon, and the moment to strike is fleeting, like a shadow in the dark.
-  Lasts 5 seconds. Disables Ninjutsu Takedown and Assassinate but enables Swift Strike.
+  В тишине открывшейся возможности ниндзя движется, словно шёпот на ветру.
+  Скорость — их оружие, а момент для удара мимолётен, как тень во тьме.
+  Длится 5 секунд. Отключает Захват ниндзюцу и Убийство, но активирует Стремительный удар.
 
-  ### Escape Plan
+  ### План побега
 
-  Your target has perished. It is time to leave and plan your next attack.
+  Ваша цель повержена. Время уйти и спланировать следующую атаку.
 
-  After a successful kill, the ninja's spirit sharpens and quickens. Their movement speed increases temporally,
-  gliding through shadow and blood alike — unseen, unstoppable, and already gone before the next breath is drawn.
+  После успешного убийства дух ниндзя обостряется и ускоряется. Их скорость передвижения временно возрастает,
+  позволяя скользить сквозь тень и кровь — незамеченными, неудержимыми, уже исчезнувшими прежде, чем будет сделан следующий вдох.
 
-  ## Combo attacks
+  ## Комбо-атаки
 
-  ### Assasinate
+  ### Убийство
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
   </Box>
 
-  Deals massive damage to target's chest if Sneak Attack is active. Damage is easily stopped by armor.
-  Works in unarmed combat or Left Mouse Button attacks using a Slash damage weapon.
+  Наносит огромный урон в грудь цели, если активна Скрытая атака. Урон легко останавливается бронёй.
+  Работает в безоружном бою или при атаках левой кнопкой мыши с использованием оружия, наносящего режущий урон.
 
-  ### Ninjutsu Takedown
+  ### Захват ниндзюцу
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="help"/>
   </Box>
 
-  Only works with active Sneak Attack. Slows the opponent down significantly and mutes them.
-  Works better if performed from behind.
+  Работает только при активной Скрытой атаке. Значительно замедляет противника и заглушает его.
+  Работает лучше, если выполняется со спины.
 
-  ### Swift Strike
+  ### Стремительный удар
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
   </Box>
 
-  When the foe is knocked down, melee weapon dealing slash strike comes faster than the eye can follow.
-  And unarmed, each attack will drain the opponent's stamina. Only works with Loss of Surprise active.
+  Когда враг сбит с ног, режущий удар оружием ближнего боя настигает быстрее, чем успевает уследить глаз.
+  А безоружным — каждая атака истощает выносливость противника. Работает только при активной Потере внезапности.
 
-  ### Bite The Dust
+  ### Укус пыли
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
   </Box>
 
-  Temporarily knocks the opponent down. As well as dealing blunt damage.
+  Временно сбивает противника с ног. А также наносит тупой урон.
 
-  ### Dirty Kill
+  ### Грязное убийство
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
   </Box>
 
-  Temporarily stuns a knocked down opponent. Target cannot be stunned for longer than they are knocked down.
+  Временно оглушает сбитого с ног противника. Цель не может быть оглушена дольше, чем она сбита с ног.
 
 </Document>

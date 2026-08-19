@@ -1,45 +1,45 @@
 <Document>
 
-  # Corporate Judo
+  # Корпоративное дзюдо
 
   <Box>
     <GuideEntityEmbed Entity="ClothingBeltCorporateJudo" Caption=""/>
   </Box>
 
-  Corporate Judo, or simply Judo, is a [textlink="martial art" link="MartialArts"] that focuses on restraining your opponent with more
-  complex but effective moves. You will see this style most used by Security Officers, as they get access to the belts in their department.
-  Harness the art and strike any tider that gets in your way. A good understanding of intents is required.
+  Корпоративное дзюдо, или просто дзюдо, — это [textlink="боевое искусство" link="MartialArts"], сосредоточенное на обездвиживании противника
+  с помощью более сложных, но эффективных приёмов. Чаще всего этот стиль используют офицеры службы безопасности, поскольку именно они
+  получают доступ к поясам в своём отделе. Овладейте этим искусством и дайте отпор любому тайдеру, вставшему у вас на пути. Требуется хорошее понимание намерений.
 
-  ## Special abilities
+  ## Особые способности
 
-  Judo users are better at Harm intent, as their unarmed attacks will deal extra damage to the opponent.
+  Пользователи дзюдо лучше владеют намерением «навредить» — их безоружные атаки наносят противнику дополнительный урон.
 
-  ### Stunbaton Scorn
+  ### Презрение к дизейблеру
 
-  A Judo user is unable to use stunbatons. A true master relies on technique, using the
-  body’s leverage and strength to subdue, leaving the need for electrified force behind.
+  Пользователь дзюдо не может использовать дизейблеры. Истинный мастер полагается на технику, используя
+  рычаг и силу собственного тела для усмирения противника, оставляя позади необходимость в электрическом воздействии.
 
-  ## Combo attacks
+  ## Комбо-атаки
 
-  ### Discombobulate
+  ### Дезориентация
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
   </Box>
 
-  Slows the opponent down and reduces their stamina resistance temporarily.
+  Замедляет противника и временно снижает его сопротивление урону выносливости.
 
-  ### Eye Poke
+  ### Тычок в глаза
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
   </Box>
 
-  Blinds the opponent and blurs their vision, regardless of eye protection, and deals some Blunt damage.
+  Ослепляет противника и затуманивает его зрение, независимо от защиты глаз, а также наносит небольшой тупой урон.
 
-  ### Judo Throw
+  ### Бросок дзюдо
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
@@ -49,10 +49,10 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
   </Box>
 
-  Can only be perfomed while standing. Only works on standing opponents, dealing Stamina damage and knocking them down.
-  Knockdown duration is affected by their Stamina resistance.
+  Может быть выполнен только стоя. Работает только против стоящих противников, нанося урон выносливости и сбивая их с ног.
+  Длительность сбития с ног зависит от их сопротивления урону выносливости.
 
-  ### Armbar
+  ### Болевой захват руки
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
@@ -60,10 +60,11 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
   </Box>
 
-  Only works on downed opponents. Inflicts Stamina damage, disarms them, and locks them in an armbar until they manage to stand up.
-  Armbar works similarly to a knockdown and choke grab, and its duration is affected by their Stamina resistance.
+  Работает только против лежащих противников. Наносит урон выносливости, обезоруживает их и удерживает в болевом захвате руки,
+  пока они не сумеют подняться на ноги. Болевой захват руки работает аналогично сбитию с ног и удушающему захвату,
+  и его длительность зависит от их сопротивления урону выносливости.
 
-  ### Wheel Throw
+  ### Бросок через бедро
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
@@ -74,7 +75,7 @@
     SIS-End -->
   </Box>
 
-  Only works on opponents locked in an armbar. Flips the opponent over the shoulder,
-  inflicting massive Stamina damage, and forces the user back on their feet.
+  Работает только против противников, удерживаемых в болевом захвате руки. Перекидывает противника через плечо,
+  нанося огромный урон выносливости, и заставляет пользователя вернуться на ноги.
 
 </Document>

@@ -1,66 +1,66 @@
 <Document>
-  # Plaguebringer
+  # Разносчик Чумы
   <Box>
     <GuideEntityEmbed Entity="MobWraithPlague" Caption=""/>
   </Box>
 
-  The Plaguebringer is a path focused around curses, diseases and filth. Most of your abilities involve applying debuffs to one of those clueless crewmembers, and then, once the time is right and their soul is ripe, collecting your dues.
+  Разносчик Чумы - это путь, сосредоточенный на проклятьях, болезнях и заразе. Большинство ваших способностей связаны с наложением дебаффов на кого-то из ничего не подозревающих членов экипажа, а затем, когда придёт время и их душа созреет, сбором с них должного.
 
-  # Curses
+  # Проклятья
 
-  The Plaguebringer has access to four base curses, with one, final curse to rule them all.
+  У Разносчика Чумы есть доступ к четырём базовым проклятьям, и одному, финальному проклятью, властвующему над всеми остальными.
 
-  ## Blindness
+  ## Слепота
 
-  - Slowly damages the eyesight of the afflicted until they are rendered fully blind.
+  - Медленно ухудшает зрение поражённого, пока он полностью не ослепнет.
 
-  ## Blood
+  ## Кровь
 
-  - Causes them to cough blood, sometimes a little, sometimes a lot. Mostly just an annoyance, but can get serious if left untreated.
-  - In an ideal world, this would also apply Hemophilia to the target, which makes them bleed for longer. However, that is not yet implemented.
+  - Заставляет цель кашлять кровью, иногда немного, иногда сильно. По большей части это просто раздражает, но может стать серьёзной проблемой, если оставить без лечения.
+  - В идеальном мире это также должно было бы вызывать у цели гемофилию, из-за которой кровотечение длилось бы дольше. Однако это ещё не реализовано.
 
-  ## Enfeeblement
+  ## Изнеможение
 
-  - This one has several effects, such as draining the stamina of the afflicted, or making them drowsy and forcing them into a sudden nap.
+  - У этого проклятья несколько эффектов, например, истощение выносливости поражённого или внезапная сонливость, вынуждающая его резко заснуть.
 
-  ## Rot
+  ## Гниение
 
-  - Causes the afflicted to randomly puke and cough all over the place. Great for spreading disease.
-  - Prevents them from eating at all. Combined with the fact that they are slowly puking out all the contents of their stomach, this will eventually leave them starving, unable to do anything about it.
+  - Заставляет поражённого случайным образом блевать и кашлять по всей округе. Отлично подходит для распространения болезни.
+  - Полностью лишает его возможности есть. В сочетании с тем фактом, что он постепенно выблёвывает всё содержимое своего желудка, это в конечном итоге приведёт к голоданию, с которым он ничего не сможет поделать.
 
-  ## Death
+  ## Смерть
 
-  - The final of the curses. Can only be applied once all four other curses have been applied on the same person.
-  - Once applied, the target will have less than a minute to live. They will hear a dreadful song signifying that their end is near.
-  - During that time, they will begin to experience several effects, such as falling to the ground or shaking.
-  - This curse deals damage that ramps up over time. It starts small, but quickly enough, becomes so deadly that no medicine in the world can help them survive it.
-  - Once they die, their corpse will gib, and you will permanently gain increased WP regeneration. This will count as if you had absorbed their corpse.
+  - Последнее из проклятий. Может быть наложено только после того, как на одного и того же человека были наложены все остальные четыре проклятья.
+  - После наложения у цели останется меньше минуты жизни. Она услышит зловещую песнь, возвещающую о приближении её конца.
+  - В течение этого времени у неё начнут проявляться различные эффекты, такие как падение на землю или дрожь.
+  - Это проклятье наносит урон, который со временем нарастает. Сначала он невелик, но довольно быстро становится настолько смертоносным, что никакая медицина в мире не сможет спасти цель.
+  - После смерти её труп разлетится на куски, а вы навсегда получите увеличенное восстановление поинтов. Это будет засчитано так, как будто вы поглотили её труп.
 
-  Do note that if one curse is used, all other curses will go on cooldown. So there is a limit to how quickly you can reap someone's soul.
-  Also, important to mention, the Chaplain can [color=red]purge all of your curses with their bible by using it on the afflicted[/color], so don't expect this to be easy.
+  Обратите внимание, что при использовании одного проклятья все остальные проклятья уходят на перезарядку. Так что есть предел тому, насколько быстро вы можете пожинать чью-то душу.
+  Также важно упомянуть, что капеллан может [color=red]снять все ваши проклятья своей библией, используя её на поражённом[/color], так что не рассчитывайте, что это будет легко.
 
-  ## Defile
+  ## Осквернить
 
-  This serves to fill up either some sort of drink, or to contaminate food with a chemical of your choosing (It's always poison). First, use the action on yourself to pick the reagent, then use it again on the food/drink to defile it.
+  Служит для того, чтобы наполнить какой-либо напиток или заразить еду химикатом по вашему выбору (это всегда яд). Сначала используйте действие на себе, чтобы выбрать реагент, затем используйте его снова на еде/напитке, чтобы осквернить их.
 
-  ## Summon Plague Rat
+  ## Призвать Чумную Крысу
 
-  Creates a diseased rat on your position, a ghost role that can be taken over by someone else. The diseased rat can eat trash to grow into a larger form of itself, gaining new abilities in the process. It starts very weak, but once fully grown, can prove to be a real pain.
+  Создаёт заражённую крысу на вашем месте - призрачную роль, которую может занять кто-то другой. Заражённая крыса может есть мусор, чтобы вырасти в более крупную форму самой себя, получая в процессе новые способности. Изначально она очень слаба, но полностью выросшая может доставить немало проблем.
 
-  ## Create Rot Hulk
+  ## Создать Гнилостную Громаду
 
-  Uses nearby filth to summon a mass of filth and decay that attacks nearby crew and explodes on death. Try using this action at disposals, or near large amounts of trash if you can find something of the sort.
-  If you manage to find a pile of more than 30 pieces of trash, it will spawn a much stronger version of the rot hulk.
+  Использует находящийся поблизости мусор, чтобы призвать массу отбросов и гнили, которая атакует находящийся рядом экипаж и взрывается при смерти. Попробуйте использовать это действие возле утилизаторов мусора или рядом с большим количеством мусора, если сможете найти что-то подобное.
+  Если вам удастся найти кучу из более чем 30 единиц мусора, это призовёт гораздо более сильную версию гнилостной громады.
 
-  # Sick! But how do I do better as this?
+  # Мерзко! Но как мне действовать лучше?
 
-  ## General tips
+  ## Общие советы
 
-  It takes some time for you to apply all four curses on someone. And even more so, they still have another full minute before the death curse does them in. Try to use your curses on targets that are far away from the chaplain, to reduce the chances of them wasting all of your effort.
+  У вас уйдёт некоторое время на наложение всех четырёх проклятий на кого-либо. И к тому же, у цели остаётся ещё целая минута до того, как проклятье смерти доконает её. Старайтесь использовать свои проклятья на целях, находящихся далеко от капеллана, чтобы снизить шансы того, что он сведёт на нет все ваши усилия.
 
-  Use actions such as Possess object or Spook to create more trash by breaking windows or lightbulbs. This will allow you to summon stronger rot hulks, and can even help diseased rats to evolve faster.
+  Используйте такие действия, как «Одержать предмет» или «Напугать», чтобы создавать больше мусора, разбивая окна или лампочки. Это позволит вам призывать более сильных гнилостных громад, а также может помочь чумным крысам эволюционировать быстрее.
 
-  Defile leaves a very distinct taste in the mouth of whoever eats the contaminated food. You can use this to frame the chef or the bartender for trying to poison someone.
+  Осквернение оставляет очень характерный привкус во рту у того, кто съест заражённую еду. Вы можете использовать это, чтобы подставить шеф-повара или бармена, будто они пытались кого-то отравить.
 
-  [textlink="Back to Wraith Evolutions" link="Wraiths"]
+  [textlink="Назад к эволюциям духа" link="Wraiths"]
 </Document>

@@ -6,65 +6,65 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-# Enchanting
+  # Зачарование
 
-Those who are magically inclined, such as Wizards, Heretic and Chaplains, have access to the arcane art of Enchanting.
+  Те, кто склонны к магии, такие как Волшебники, Еретики и Капелланы, имеют доступ к тайному искусству Зачарования.
 
-# Enchanting an item
+  # Зачарование предмета
 
-To enchant an item, you need a sacrificial offering and an item to enchant. Most often these are the cores of anomalies, but are occasionally more mundane components like Diamonds.
-<Box>
-  <GuideEntityEmbed Entity="AltarConvert" Caption=""/>
-</Box>
-Place an item on an altar (or a Transmutation Rune) alongside the offering and hit the item with your magical tome. For wizards, this is their Wizard's Grimoire. For Chaplain, their Bible or other religious texts. For Heretics, their Codex Cicatrix.
+  Чтобы зачаровать предмет, вам нужны жертвенное подношение и сам предмет для зачарования. Чаще всего это ядра аномалий, но иногда встречаются и более обыденные компоненты, например, алмазы.
+  <Box>
+    <GuideEntityEmbed Entity="AltarConvert" Caption=""/>
+  </Box>
+  Поместите предмет на алтарь (или Руну Трансмутации) вместе с подношением и ударьте по предмету своим магическим гримуаром. Для волшебников это их Гримуар Волшебника. Для капелланов - их Библия или другие религиозные тексты. Для еретиков - их Кодекс Рубцов.
 
-If the item and offering are compatible, the offering will be consumed and the item will become enchanted. If you use an anomaly core, those from critical anomalies are more potent than inert cores, and empower your item more effectively.
+  Если предмет и подношение совместимы, подношение будет израсходовано, а предмет станет зачарованным. Если вы используете ядро аномалии, ядра от критических аномалий более мощны, чем инертные ядра, и усиливают ваш предмет более эффективно.
 
-# Enchantment limits
+  # Пределы зачарования
 
-An item can only be enchanted with one kind of enchantment, unless you perform a ritual. By killing any living entity with a soul on top of an altar alongside your enchanted item, their soul will be consumed and increase the enchantment limit.
+  Предмет может быть зачарован только одним видом зачарования, если только вы не проведёте ритуал. Убив любое живое существо, обладающее душой, на алтаре вместе с вашим зачарованным предметом, вы поглотите его душу и увеличите предел зачарования.
 
-The sacrifice will be possible to revive, but have the ill effects of losing their soul, akin to selling their soul to a Devil.
+  Жертву можно будет оживить, но она будет страдать от дурных последствий потери души, подобно тому, как если бы продала свою душу Дьяволу.
 
-# Types of enchantments
+  # Виды зачарований
 
-  ### Fire Aspect
-Fire Aspect causes your weapon to set your foes on fire. Obtainable from Pyroclastic Anomaly cores.
+  ### Огненный Аспект
+  Огненный Аспект поджигает ваших врагов при ударе оружием. Получается из ядер Пирокластической Аномалии.
 
-  ### Lavaforged
-Lavaforged grants your equipment the ability to protect you from lava. Obtainable from Pyroclastic Anomaly cores.
+  ### Лавакованный
+  Лавакованный даёт вашему снаряжению способность защищать вас от лавы. Получается из ядер Пирокластической Аномалии.
 
-  ### Knockback
-Knockback causes your weapon to knock people back on hit. Obtainable from Gravity Anomaly cores.
+  ### Отбрасывание
+  Отбрасывание отбрасывает людей назад при ударе вашим оружием. Получается из ядер Гравитационной Аномалии.
 
-  ### Fire Protection
-Fire Protection grants your armor protection from... Fire. Obtainable from Ice Anomaly cores.
+  ### Огнестойкость
+  Огнестойкость даёт вашей броне защиту от... Огня. Получается из ядер Ледяной Аномалии.
 
-  ### Sharpness
-Sharpness sharpens your weapon and grants four bonus Slash damage per level. Obtainable from Flesh Anomaly cores.
+  ### Заточка
+  Заточка затачивает ваше оружие и даёт четыре дополнительных единицы урона резаком за уровень. Получается из ядер Плотской Аномалии.
 
-  ### Unbreaking
-Unbreaking reduces all damage by 50%. Due to complicated magical law restrictions, this is only applicable to mice. Obtainable from Rock Anomaly cores.
+  ### Небьющийся
+  Небьющийся снижает весь урон на 50%. Из-за сложных ограничений магического права применимо только к мышам. Получается из ядер Каменной Аномалии.
 
-  ### Protection
-Protection grants your equipment damage resistance. Obtainable from Rock Anomaly cores.
+  ### Защита
+  Защита даёт вашему снаряжению сопротивление урону. Получается из ядер Каменной Аномалии.
 
-  ### Slippery
-Slippery makes any item slip people. Obtainable from Liquid Anomaly cores.
+  ### Скользкий
+  Скользкий заставляет любой предмет вызывать поскальзывание у людей. Получается из ядер Жидкостной Аномалии.
 
-  ### Unslippable
-Unslippable makes any shoes grant immunity to slipping. Obtainable from Liquid Anomaly cores.
+  ### Нескользящий
+  Нескользящий делает любую обувь дающей иммунитет к поскальзыванию. Получается из ядер Жидкостной Аномалии.
 
-  ### Insulated?
-Insulated? grants a chance to not be shocked by sources of electricity to gloves. Obtainable from inert Elecricity Anomaly cores.
+  ### Изолирован?
+  Изолирован? даёт перчаткам шанс не получить удар током от источников электричества. Получается из инертных ядер Электрической Аномалии.
 
-  ### Insulated
-Insulated grants gloves full insulation from electricity. Obtainable from critical Elecricity Anomaly cores.
+  ### Изолирован
+  Изолирован даёт перчаткам полную изоляцию от электричества. Получается из критических ядер Электрической Аномалии.
 
-  ### Thorns
-Thorns can be applied to armor, and damages melee attackers with 4 slash damage per level. Obtainable from Floral Anomaly cores.
+  ### Шипы
+  Шипы можно применить к броне, они наносят атакующим в ближнем бою 4 единицы урона резаком за уровень. Получается из ядер Цветочной Аномалии.
 
-  ### Fortune
-Fortune has a chance to increase ore yield for drills and pickaxes, chance proportional to enchantment level. Obtainable from Santa Anomaly cores and diamonds.
+  ### Удача
+  Удача даёт шанс увеличить добычу руды для дрелей и кирок, шанс пропорционален уровню зачарования. Получается из ядер Аномалии Санты и алмазов.
 
 </Document>

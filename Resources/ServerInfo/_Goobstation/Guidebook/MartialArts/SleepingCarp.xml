@@ -1,67 +1,67 @@
 <Document>
 
-  # Way of The Sleeping Carp
+  # Путь Спящего Карпа
 
   <Box>
     <GuideEntityEmbed Entity="SleepingCarpScroll" Caption=""/>
   </Box>
 
-  The Way of The Sleeping Carp, or simply the Sleeping Carp, is an ancient [textlink="martial art" link="MartialArts"] learned through intense study and meditation.
-  It is modeled after the graceful movement, combat, and flow of Space Carp. Ancient masters of this art are rumored to have studied among great schools of space carp
-  and survived, some have even befriended the aggressive creatures. This art is often utilized by zealots and extremists especially among The Syndicate.
+  Путь Спящего Карпа, или просто Спящий Карп, - древнее [textlink="боевое искусство" link="MartialArts"], постигаемое через упорное изучение и медитацию.
+  Оно основано на грациозных движениях, боевом стиле и текучести космокарпов. Ходят слухи, что древние мастера этого искусства обучались среди огромных стай космокарпов
+  и выживали, а некоторые даже подружились с этими агрессивными существами. Данное искусство часто практикуется фанатиками и экстремистами, особенно в рядах Синдиката.
 
-  ## Special abilities
+  ## Особые способности
 
-  Sleeping Carp users are better at Harm intent, as their unarmed attacks will deal extra damage to the opponent.
+  Приверженцы Спящего Карпа лучше владеют интентом Вред: их рукопашные атаки наносят противнику дополнительный урон.
 
-  ### Riptide Reflection
+  ### Отражение Прибоя
 
-  Due to the graceful nature of this martial art, Sleeping Carp users are able to completely deflect almost all incoming
-  projectiles. Whether ballistic or energy-based projectiles, hitscan shots or bolas, they effortlessly reflect them.
-  However, explosives, knives, and syringes remain outside their control, slipping through the serene flow of their defense.
+  Благодаря грациозной природе этого боевого искусства, приверженцы Спящего Карпа способны полностью отражать почти все
+  летящие в них снаряды. Будь то баллистические или энергетические снаряды, хитскан-выстрелы или боласы - они с лёгкостью отражают их.
+  Однако взрывчатка, ножи и шприцы остаются им неподвластны, проскальзывая сквозь безмятежное течение их защиты.
 
-  ### Fellow Fish
+  ### Родственная Рыба
 
-  Users of the Sleeping Carp style move with the grace of the waters, in perfect harmony with Space Carp.
-  These creatures, sensing the peaceful bond, will more often than not treat them as allies, not attacking them.
-  This connection extends to other Carp-like beings, including Sharkminnows and even the mighty Space Dragons.
+  Приверженцы стиля Спящего Карпа двигаются с грацией воды, находясь в полной гармонии с космокарпами.
+  Эти существа, чувствуя мирную связь, чаще всего относятся к ним как к союзникам, не нападая на них.
+  Эта связь распространяется и на других рыбоподобных существ, включая [акулистых уклеек / Sharkminnows] и даже могучих космических драконов.
 
-  ### Gun Gainsay
+  ### Отречение от Оружия
 
-  Part of becoming a Master of Sleeping Carp is to take an oath to abstain from using guns. This includes regular guns
-  and firearms attached to equipment such as mechs. It isn't quite clear why, however, it is thought that it allows the
-  user to intensify their focus on perfect flow and deflection. Others believe that it is part of the drive of the master
-  to further emulate the way of the Carp, to completely focus on the attack of the Carp: its [bold] Bite [/bold]. This does not prevent
-  the practitioners of Sleeping Carp from throwing items, bolas, floor tiles, or even people, all useful ranged weapons.
+  Часть становления Мастером Спящего Карпа - это принесение клятвы воздерживаться от использования оружия. Сюда относится как обычное оружие,
+  так и огнестрельное оружие, установленное на технику, например на мехов. Не совсем ясно, почему именно так, однако считается, что это позволяет
+  пользователю усилить сосредоточенность на совершенном течении и отражении атак. Другие полагают, что это часть стремления мастера
+  ещё больше подражать пути Карпа, полностью сосредоточившись на его атаке - его [bold] Укусе [/bold]. Однако это не мешает
+  практикующим Спящий Карп бросать предметы, боласы, напольную плитку или даже людей - всё это полезное оружие дальнего боя.
 
-  ## Combo attacks
+  ## Комбо-атаки
 
-  ### Keelhaul
+  ### Килевание
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
   </Box>
 
-  Kicks an opponent in the head, knocking them down and dealing both Slash and Stamina damage to them,
-  unless they are already stunned. In that case, it will as well completely disarm the opponent.
+  Наносит удар ногой в голову противника, сбивая его с ног и нанося как урон Резаными ранами, так и урон Выносливости,
+  если только он уже не оглушён. В этом случае атака также полностью обезоруживает противника.
 
-  ### Crashing Waves Kick
+  ### Пинок Разбивающейся Волны
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
   </Box>
 
-  Kicks the opponent square in the chest, sending them flying and dealing Slash damage. Only works on standing opponents.
+  Наносит удар ногой прямо в грудь противника, отбрасывая его назад и нанося урон Резаными ранами. Работает только против стоящих противников.
 
-  ### Gnashing Teeth
+  ### Скрежещущие Зубы
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
   </Box>
 
-  Deals extra Slash damage, and makes the user shout to strike fear into their opponent's heart.
+  Наносит дополнительный урон Резаными ранами и заставляет пользователя издать крик, чтобы вселить страх в сердце противника.
 
 </Document>

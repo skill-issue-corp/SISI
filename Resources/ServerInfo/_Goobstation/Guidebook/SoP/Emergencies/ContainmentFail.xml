@@ -6,16 +6,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Tesla/Singularity Containment Loose Procedures
-In the event of a tesla or singularity containment failure (aptly named "tesloose" and "singuloose"), the station evac is to be called and the station alert set to [color=#c8a404]Yellow Alert[/color].
+  # Процедуры при утечке из контейнмента теслы/сингулярности
+  В случае разгерметизации контейнмента теслы или сингулярности (метко названной «теслуз» и «сингулуз») необходимо объявить эвакуацию станции и установить уровень станционной тревоги на [color=#c8a404]Жёлтую тревогу[/color].
 
-1. Attempts to stop the loosed material should be made, if possible, via containment weapons, such as the [bold][italic]Portable Particle Decelerator[/italic][/bold].
+  1. По возможности следует предпринять попытки остановить вырвавшийся материал с помощью оружия сдерживания, такого как [bold][italic]Портативный Замедлитель Частиц[/italic][/bold].
 
-2. Command and Engineering are to do their best at tracking and notifying crew via Communications Channels of the location of the loosed tesla/singularity.
-<Box>It is not required, but vastly recommended of doing so.</Box>
+  2. Командование и Инженерный отдел должны приложить все усилия для отслеживания местоположения вырвавшейся теслы/сингулярности и оповещения экипажа через каналы связи.
+  <Box>Это не является обязательным, но настоятельно рекомендуется.</Box>
 
-3. Command [bold]must[/bold] open and set EVA Storage to Emergency Access.
+  3. Командование [bold]обязано[/bold] открыть Хранилище ВКД и перевести его в режим экстренного доступа.
 
-4. In the event of a complete containment of the loosed material, if the station is relatively undamaged, normal shift activity should resume and the alert should be set to a safe alert.
+  4. В случае полного восстановления контейнмента вырвавшегося материала, если станция не получила существенных повреждений, следует возобновить обычную деятельность смены, а тревогу установить на безопасный уровень.
 
 </Document>

@@ -1,92 +1,92 @@
 <Document>
-  # Void Summons
+  # Порождения Пустоты
 
-  Void summons are special minions summoned by the Wraith with skills that can put even robust crewmembers to shame. Fighting one alone is generally never recommended.
-  While not entirely meant for being killing machines by themselves, together with the Wraith and their lesser minions, a void summon can easily become a major pain in the neck.
+  Порождения Пустоты - особые миньоны, призываемые Wraith, обладающие навыками, способными посрамить даже опытных членов экипажа. Сражаться с одним из них в одиночку обычно категорически не рекомендуется.
+  Хотя сами по себе они не предназначены исключительно для убийств, вместе с Wraith и его меньшими прислужниками порождение пустоты легко может стать серьёзной головной болью.
 
-  # Skeleton Commander
+  # Скелет-Командир
   <Box>
     <GuideEntityEmbed Entity="MobSkeletonCommander" Caption=""/>
   </Box>
 
-  The tanky backbone of your army, skeleton commanders can hold the line and boost nearby minions.
+  Живучий костяк вашей армии - скелеты-командиры способны держать линию и усиливать находящихся рядом миньонов.
 
-  ## Skills
+  ## Навыки
 
-  Don't expect to do much yourself to the crewmembers. You actions mostly rely on sending others to do the work for you.
+  Не ждите, что сможете сделать многое лично против членов экипажа. Ваши действия в основном сводятся к тому, чтобы посылать других делать работу за вас.
 
-  ### Rally
+  ### Воодушевление
 
-  - Buffs all surrounding allied critters, giving them a temporary boost in combat.
+  - Усиливает всех окружающих союзных существ, давая им временный прирост боевых характеристик.
 
-  Best used when multiple summons are grouped together to maximize your army’s impact.
+  Лучше всего использовать, когда несколько порождений сгруппированы вместе, чтобы максимизировать эффект от вашей армии.
 
-  ### Summon Lesser Skeleton
+  ### Призыв Малого Скелета
 
-  - Spawns in a singular lesser skeleton to help you in whatever you are doing. The skeleton is mindless, and should generally be used right before a scuffle.
-  - The lesser skeleton does not have a lot of health, but they can cause a lot of damage while rallied.
+  - Призывает одного малого скелета в помощь вам в любом деле. Скелет безмозглый, и его обычно стоит использовать прямо перед стычкой.
+  - У малого скелета немного здоровья, но он способен нанести немалый урон, если его воодушевить.
 
-  # Tentacle Fiend
+  # Демон-Щупальце
   <Box>
     <GuideEntityEmbed Entity="MobVoidSpiker" Caption=""/>
   </Box>
 
-  Fast, ranged, and unpredictable. These fiends excel at controlling space and abducting targets to secure an easy kill for the Wraith.
-  Their meelee attacks, while extremely weak damage wise, quickly cause the target to be knocked out.
+  Быстрый, дальнобойный и непредсказуемый. Эти изверги отлично контролируют пространство и похищают цели, чтобы обеспечить Wraith лёгкое убийство.
+  Их атаки в ближнем бою, хоть и наносят крайне слабый урон, быстро сбивают цель с ног.
 
-  ## Skills
+  ## Навыки
 
-  You have the perfect set of tools for kidnapping.
+  У вас есть идеальный набор инструментов для похищений.
 
-  ### Tentacle Hook
+  ### Крюк-Щупальце
 
-  - Launch a tentacle at a target and drag them toward the fiend.
-  - While the target can try and run from the hook, it will always, inevitable, drag them into the fiend.
+  - Запустите щупальце в цель и притяните её к себе.
+  - Хотя цель может попытаться убежать от крюка, он всегда, неизбежно, притянет её к вам.
 
-  ### Shuffle
+  ### Проскальзывание
 
-  - Compress your body to slip through doors, cancel stuns, and escape attacks.
-  - Prevents using other skills during the usage of this skill, so is generally only meant for evading rather than for engaging.
+  - Сожмите своё тело, чтобы проскользнуть через двери, снять оглушение и избежать атак.
+  - Не позволяет использовать другие навыки во время применения этого умения, поэтому предназначен в основном для уклонения, а не для нападения.
 
-  ### Lash
+  ### Хлёст
 
-  - Stun a target, cause them to bleed, and do considerable damage.
-  - Best used together with the tentacle hook. As soon as the target is within reach, lash them, and abduct them into maints, never to be seen again.
+  - Оглушает цель, вызывает у неё кровотечение и наносит значительный урон.
+  - Лучше всего использовать вместе с крюком-щупальцем. Как только цель оказывается в пределах досягаемости, ударьте её хлёстом и утащите в технические тоннели, откуда её больше никто не увидит.
 
-  # Void Hound
+  # Гончая Пустоты
   <Box>
     <GuideEntityEmbed Entity="MobVoidHound" Caption=""/>
   </Box>
 
-  Stealthy, fast, and deadly in close quarters. Void hounds are ideal for hit-and-run attacks and disruption.
-  The only minion from the Wraith capable of sprinting.
+  Скрытная, быстрая и смертоносная в ближнем бою. Гончие пустоты идеально подходят для набеговых атак и внесения хаоса.
+  Единственный миньон Wraith, способный бегать спринтом.
 
-  ## Skills
+  ## Навыки
 
-  Your actions are centered around catching people by surprise.
+  Ваши действия сосредоточены на том, чтобы заставать людей врасплох.
 
-  ### Cloak
+  ### Маскировка
 
-  - Become partially invisible and difficult to detect.
-  - Doesn't last for very long, but is good for sneaking up on targets.
-  - Can be used for retreating into the shadows as well.
+  - Становитесь частично невидимым и труднообнаружимым.
+  - Длится недолго, но хорошо подходит для незаметного подкрадывания к цели.
+  - Также может использоваться для отступления в тень.
 
-  ### Rush Down
+  ### Стремительный Бросок
 
-  - Leap forward, knocking down the first person in your path and stunning in a large radius around where you land.
-  - Has a lenghthy cooldown, so use it to secure kills or to escape dire situations.
+  - Совершите прыжок вперёд, сбивая с ног первого встречного на пути и оглушая всех в большом радиусе вокруг места приземления.
+  - Имеет долгую перезарядку, поэтому используйте его, чтобы добить цель или выбраться из опасной ситуации.
 
-  ### General Tips
+  ### Общие Советы
 
-  Skeleton commanders are capable of soaking a lot of shots, but their rallying action is quite invaluable for the other minions. Choose wisely whether you wish to tank for them, or to stay behind buffing them from the backline.
+  Скелеты-командиры способны поглощать множество выстрелов, но их способность воодушевления крайне ценна для остальных миньонов. Выбирайте с умом: танковать за них самому или оставаться позади, усиливая их из задних рядов.
 
-  Tentacle fiends excel at picking off targets from afar and killing them while they are incapable of fighting back. Once the deed is done, call over the Wraith to absorb the corpse, and rinse and repeat.
+  Демоны-щупальца отлично умеют выбивать цели издалека и убивать их, пока те не способны дать отпор. Как только дело сделано, зовите Wraith, чтобы поглотить труп, - и повторяйте цикл заново.
 
-  Void hounds are your mobile assassins, but not very tanky. While your stun is extremely potent, it can leave you right in the lion's den if unprepared.
+  Гончие пустоты - ваши мобильные убийцы, но они не слишком живучи. Хотя ваше оглушение крайне мощное, оно может оставить вас прямо в логове врага, если вы не подготовлены.
 
-  Always consider positioning and timing. Summons can be fragile and die quickly if left unsupported.
+  Всегда учитывайте позиционирование и тайминг. Порождения хрупки и могут быстро погибнуть, если остаться без поддержки.
 
-  The Wraith should aim to combine minions with portals to maintain constant pressure and cause death en masse.
+  Wraith следует стремиться сочетать миньонов с порталами, чтобы поддерживать постоянное давление и вызывать массовую гибель.
 
-  [textlink="Back to Harbinger of the Void" link="Harbinger"]
+  [textlink="Назад к Предвестнику Пустоты" link="Harbinger"]
 </Document>

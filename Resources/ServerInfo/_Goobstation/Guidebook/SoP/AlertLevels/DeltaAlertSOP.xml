@@ -6,40 +6,40 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Station Alert - Delta
+  # Станционная Тревога - Дельта
 
   <Box>
-    [italic]Called by: Anyone with Command-Level Access at a working Communications Console, Malfunctioning AI Units, the Supermatter Delaminating, or a Nuclear Fission Device Activating On-Board.[/italic]
+    [italic]Объявляется: любым, кто имеет доступ командного уровня, с работающей консоли связи, взбунтовавшимися блоками ИИ, деламинацией сверхматерии или активацией ядерного делительного устройства на борту.[/italic]
   </Box>
 
-  [bold]Conditions:[/bold]
+  [bold]Условия:[/bold]
 
-  A Malfunctioning AI Unit has dropped all semblance of stealth and activated their Override Mechanism.
+  Взбунтовавшийся блок ИИ полностью отбросил скрытность и активировал свой механизм обхода ограничений.
 
-  [bold]OR[/bold]
+  [bold]ИЛИ[/bold]
 
-  The on-board Nuclear Fission Device has been activated by Command or Central Command personnel. Though it does not trigger Code Delta, Nuclear Operative Nuclear Operations should still be considered as a Code Delta situation.
+  Ядерное делительное устройство на борту было активировано Командованием станции или сотрудниками Центрального Командования. Хотя это и не запускает автоматически Дельта-код, действия Ядерных Оперативников по-прежнему следует рассматривать как ситуацию, соответствующую Дельта-коду.
 
-  [bold]OR[/bold]
+  [bold]ИЛИ[/bold]
 
-  The supermatter is in the process of delaminating. This is a station-wide threat.
+  Сверхматерия находится в процессе деламинации. Это угроза для всей станции.
 
-  [bold]Security:[/bold]
+  [bold]Служба безопасности:[/bold]
 
-  In the case of a Malfunctioning AI Unit, all Security personnel are required to drop whatever it is they are doing, and proceed to neutralize the AI Unit. Any relevant help from station personnel (such as Engineers or Scientists) is not to be turned down;
+  В случае взбунтовавшегося блока ИИ весь персонал службы безопасности обязан немедленно прекратить любые текущие дела и приступить к нейтрализации блока ИИ. От любой соответствующей помощи со стороны персонала станции (например, инженеров или учёных) отказываться не следует;
 
-  In the case of a Central Command-authorized activation of the on-board Nuclear Fission Device, all Security personnel are to stand down.
+  В случае санкционированной Центральным Командованием активации ядерного делительного устройства на борту весь персонал службы безопасности обязан прекратить активные действия.
 
-  [bold]Secure Areas:[/bold]
+  [bold]Охраняемые зоны:[/bold]
 
-  EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, Gateway, anywhere else requiring command level access that does not get regularly used.
+  Склад ВКД, Техническое хранилище, Генератор гравитации, Защищённое хранилище инженерного отдела, Загрузка ИИ, Хранилище, Гейтвей, а также любые другие места, требующие доступа командного уровня, которые не используются на регулярной основе.
 
-  Procedures are irrelevant.
+  Процедуры не имеют значения.
 
-  [bold]General Crew:[/bold]
+  [bold]Весь персонал:[/bold]
 
-  In the case of a Malfunctioning AI Unit or Nuclear Operatives that have armed a nuclear device, all non-vital personnel are to evacuate off-station immediately;
+  В случае взбунтовавшегося блока ИИ или Ядерных Оперативников, активировавших ядерное устройство, весь второстепенный персонал обязан немедленно эвакуироваться со станции;
 
-  In the case of a Central Command-authorized activation of the on-board Nuclear Fission Device, all personnel are to stand down.
+  В случае санкционированной Центральным Командованием активации ядерного делительного устройства на борту весь персонал обязан прекратить активные действия.
 
 </Document>

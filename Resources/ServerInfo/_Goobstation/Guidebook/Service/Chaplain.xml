@@ -1,9 +1,9 @@
 <Document>
-# Chaplain
-There's something about the vast infinity of space that turns men to prayer... Especially if they get thrown into it without a space suit.
+  # Священник
+  Есть что-то в бескрайней бесконечности космоса, что обращает людей к молитве... Особенно если их выбросило туда без скафандра.
 
 
-As a chaplain, you would ideally proselytize whatever crazy religion you've made up for that round over your headset. However, besides your office, the hellish crematorium next to your office, and the rarely used morgue, you have no access.
+  Как священник, вы в идеале должны проповедовать любую безумную религию, которую вы придумали для этого раунда, через свою гарнитуру. Однако, помимо вашего кабинета, адского крематория рядом с ним и редко используемого морга, у вас нет доступа больше никуда.
 
   <Box>
     <GuideEntityEmbed Entity="Bible"/>
@@ -11,43 +11,43 @@ As a chaplain, you would ideally proselytize whatever crazy religion you've made
     <GuideEntityEmbed Entity="ArmamentsBeacon"/>
   </Box>
 
-## Religions:
-You are free to propagate any present day religions you know of, or even invent one of your own! Just make sure it doesn't go against NanoTrasen and its values, or you may well end up in the brig.
+  ## Религии:
+  Вы можете свободно распространять любые современные религии, которые вам известны, или даже придумать свою собственную! Просто убедитесь, что она не идёт вразрез с Нанотрейзен и её ценностями, иначе вы вполне можете оказаться в браге.
 
-## Holy Artefacts
+  ## Священные артефакты
 
-### Armaments Beacon
-Allows you to choose a set of armor. All armors have identical stats.
+  ### Маяк Вооружения
+  Позволяет вам выбрать набор брони. Вся броня имеет одинаковые характеристики.
 
-### Null Rod
-The obsidian rod will be your defense against the forces of evil. [color=blue][bold] Having it in your hands will make you completely immune to the effects of magic. [/bold][/color]
+  ### Пустой Жезл
+  Обсидиановый жезл станет вашей защитой от сил зла. [color=blue][bold] Держа его в руках, вы становитесь полностью невосприимчивы к воздействию магии. [/bold][/color]
 
-You can transform it into a holy weapon of choice by placing it on an altar!
+  Вы можете превратить его в святое оружие по своему выбору, поместив на алтарь!
 
-### Enchanting
+  ### Зачарование
 
-You can use your Bible and any Altar of your choosing to [textlink="enchant items." link="Enchanting"]
+  Вы можете использовать свою Библию и любой алтарь на выбор, чтобы [textlink="зачаровывать предметы." link="Enchanting"]
 
-### Spirit Candles
-You can craft a spirit candle by putting a candle on a skull. Spirit Candles are useful against evil spirits like Wraith.
+  ### Свечи Духа
+  Вы можете изготовить свечу духа, поместив свечу на череп. Свечи Духа полезны против злых духов, таких как Призрак.
 
-When they are ignited, they create a 12x12 tile area that reveals evil spirits. It also has a special function when you use it in-hand.
-By using it [bold]when an evil spirit is within(!!) your 12x12 area[/bold], it will make them corporeal.
+  Когда они зажжены, они создают область 12x12 тайлов, которая раскрывает злых духов. У них также есть особая функция при использовании из руки.
+  Используя её, [bold]когда злой дух находится внутри(!!) вашей области 12x12[/bold], вы сделаете его материальным.
 
-It has 2 charges per spirit candle, and [bold]it only consumes a charge when you reveal the evil spirit[/bold].
+  У неё 2 заряда на свечу духа, и [bold]заряд расходуется только когда вы раскрываете злого духа[/bold].
 
-It drops the skull once the candle has melted, so you can craft another one.
+  Она роняет череп после того, как свеча расплавится, так что вы можете изготовить ещё одну.
 
-## Duties
+  ## Обязанности
 
-- Church Services: Give sermons and sing hymns.
-- Proselytizing: Most crew members are godless heathens, show them god's love.
-- Burial Services: Security or Medical may require someone, or something... to be cremated, familiarise yourself with your Chapel so you can make things quick!
-- [bold] Metaphysical Investigation: Most crew aren't aware of the threats posed by the unholy, be on the look out for anything suspicious. [/bold]
+  - Церковные Службы: Проводите проповеди и пойте гимны.
+  - Прозелитизм: Большинство членов экипажа - безбожные язычники, покажите им божью любовь.
+  - Похоронные Услуги: Службе Безопасности или Медицине может потребоваться кремировать кого-то, или что-то... ознакомьтесь со своей часовней, чтобы делать это быстро!
+  - [bold] Метафизическое Расследование: Большинство членов экипажа не осознают угроз, исходящих от нечистой силы, будьте начеку в поисках всего подозрительного. [/bold]
 
-### Metaphysical Threats
-As Chaplain you are the first line of defence against metaphysical threats, [bold] ready your Null Rod - the time is now. [/bold]
+  ### Метафизические Угрозы
+  Как Священник, вы - первая линия обороны против метафизических угроз, [bold] приготовьте свой Пустой Жезл - время пришло. [/bold]
 
-[color=red][bold] Use of excessive force against targets which you cannot confirm are metaphysical threats may land you in trouble with the law, use caution and investigate carefully. [/bold][/color]
+  [color=red][bold] Применение чрезмерной силы против целей, метафизическую природу угрозы которых вы не можете подтвердить, может привести к проблемам с законом, будьте осторожны и расследуйте тщательно. [/bold][/color]
 
 </Document>

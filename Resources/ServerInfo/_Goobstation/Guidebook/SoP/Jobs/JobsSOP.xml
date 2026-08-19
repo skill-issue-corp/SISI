@@ -6,20 +6,20 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Job Standards
-Attached below this are several different categories for Job-Specific Standard Operating Procedures (SOP). These are here to help clarify different goals in your job or department.
+  # Стандарты Должностей
+  Ниже прилагаются несколько различных категорий Должностных Стандартных Рабочих Процедур (СРП). Они предназначены для того, чтобы прояснить различные цели вашей должности или отдела.
 
-<Box>
-[bold][color=#f0e4b4]To be clear:[/color][/bold] these are not a [italic]checklist[/italic] for you to follow. They can be used as such, but should be used more as guidelines.
-</Box>
+  <Box>
+    [bold][color=#f0e4b4]Чтобы прояснить:[/color][/bold] это не [italic]чек-лист[/italic], которому вы обязаны следовать. Его можно использовать и так, но, скорее, его следует рассматривать как рекомендации.
+  </Box>
 
-The following folders are listed underneath this folder:
-- [textlink="Cargo Department" link="Cargo SOP"]
-- [textlink="Command Department" link="Command SOP"]
-- [textlink="Engineering Department" link="Engineering SOP"]
-- [textlink="Medical Department" link="Medical SOP"]
-- [textlink="Science Department" link="Science SOP"]
-- [textlink="Security Department" link="Security SOP"]
-- [textlink="Service Department" link="Service SOP"]
+  Следующие папки перечислены внутри этой папки:
+  - [textlink="Отдел Снабжения" link="Cargo SOP"]
+  - [textlink="Командный Отдел" link="Command SOP"]
+  - [textlink="Инженерный Отдел" link="Engineering SOP"]
+  - [textlink="Медицинский Отдел" link="Medical SOP"]
+  - [textlink="Научный Отдел" link="Science SOP"]
+  - [textlink="Отдел Службы Безопасности" link="Security SOP"]
+  - [textlink="Отдел Обслуживания" link="Service SOP"]
 
 </Document>

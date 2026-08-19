@@ -7,31 +7,31 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Execution Procedures
-These are the procedures that [bold]must[/bold] be followed by Security and Command when performing executions on any personnel on the station.
+  # Процедуры казни
+  Это процедуры, которым [bold]обязаны[/bold] следовать Служба безопасности и командный состав при проведении казней любого персонала станции.
 
-1. Prisoner's security status must be set to "*Execute*", and their relevant crimes entered into their sec record.
-<Box>If they are crew but do not have a sec record, create a record in their name then set it as before. If they are not crew, this step can be skipped.</Box>
+  1. Статус заключённого в системе безопасности должен быть установлен как «*Казнить*», а соответствующие преступления внесены в его дело.
+  <Box>Если это член экипажа, но у него нет дела, необходимо создать дело на его имя и затем установить статус, как указано выше. Если это не член экипажа, данный шаг можно пропустить.</Box>
 
-2. Prisoners must be cuffed, and their ID must be terminated. Refer to [bold]Dismissal/Demotion Policies[/bold].
+  2. Заключённые должны быть в наручниках, а их удостоверение личности - аннулировано. Обратитесь к разделу [bold]Политика увольнения/понижения в должности[/bold].
 
-3. Prisoners must be stripped of all belongings. Said belongings must be placed in one of the prisoner gear lockers, and the prisoner equipped with standard prisoner uniform and headset.
+  3. У заключённых должны быть изъяты все личные вещи. Данные вещи должны быть помещены в один из шкафчиков для вещей заключённых, а сам заключённый одет в стандартную униформу заключённого и гарнитуру.
 
-4. Prisoners must be clothed in a Prison Uniform and Shoes.
+  4. Заключённые должны быть одеты в тюремную униформу и обувь.
 
-5. Prisoners must be allowed their final words.
+  5. Заключённым должно быть предоставлено право на последнее слово.
 
-6. A Chaplain may be present if requested, and allowed by the Captain and/or Head of Security.
+  6. При наличии запроса и с разрешения Капитана и/или Главы службы безопасности на казни может присутствовать священник.
 
-7. It is advised, but not required, to have medical personnel in attendance to verify death.
+  7. Рекомендуется, но не обязательно, присутствие медицинского персонала для подтверждения смерти.
 
-8. Authorization must be given by the Captain. If one is not present, follow the chain of command.
-<Box>Should the Captain or appropriate acting captain be unable to provide authorization, it must come from Central Command. Without authorization, executions are murder.</Box>
+  8. Разрешение на казнь должен дать Капитан. В случае его отсутствия следует обратиться по цепочке командования.
+  <Box>Если Капитан или исполняющий его обязанности не может дать разрешение, оно должно быть получено от Центрального Командования. Без разрешения казнь считается убийством.</Box>
 
-9. Though not obligatory, it is recommended that all executed prisoners be considered for cyborgification post-execution.
+  9. Хотя это и не обязательно, рекомендуется рассматривать возможность превращения всех казнённых заключённых в киборгов после казни.
 
-10. Kill on sight orders are classified as executions, however due to the often chaotic situations in which these occur, security records must be updated (per point 1) within a reasonable amount of time after the order is given or carried out.
+  10. Приказы стрелять на поражение классифицируются как казни, однако ввиду зачастую хаотичного характера обстоятельств, в которых они происходят, записи службы безопасности должны быть обновлены (согласно пункту 1) в разумный срок после отдачи или исполнения приказа.
 
-11. If medical personnel have been assigned to security, best effort should be made to inform them of any performed execution so that medical records of the prisoner may be updated.
+  11. Если медицинский персонал был прикреплён к службе безопасности, необходимо приложить все усилия, чтобы проинформировать его о любой проведённой казни, чтобы медицинские записи заключённого могли быть обновлены.
 
 </Document>

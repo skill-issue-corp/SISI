@@ -1,58 +1,58 @@
 <Document>
 
-  # Close Quarters Combat
+  # Ближний бой
 
   <Box>
     <GuideEntityEmbed Entity="CQCManual" Caption=""/>
   </Box>
 
-  Close Quarters Combat, or simply CQC, is a [textlink="martial art" link="MartialArts"] that focuses on swiftly and efficiently
-  dispatching your target, with simple but powerful combos that lack the more outlandish moves of other martial arts.
-  CQC is primarily an aggressive fighting style that focuses on dealing stamina damage to targets - designed to quickly subdue
-  opponents and overpower them with pressure technique and crushing blows. This art requires a thorough knowledge of intents.
+  Ближний бой, или просто CQC, — это [textlink="боевое искусство" link="MartialArts"], сосредоточенное на быстром и эффективном
+  устранении цели с помощью простых, но мощных комбо, лишённых более экзотических приёмов других боевых искусств.
+  CQC — это в первую очередь агрессивный стиль боя, направленный на нанесение урона выносливости цели, созданный для быстрого
+  усмирения противников и подавления их натиском и сокрушительными ударами. Это искусство требует глубокого знания намерений.
 
-  It is usually used by Syndicate antagonists, however Chefs also get access to it. In Chef's case, CQC obviously stands
-  for Close Quarters Cooking, and Chefs don't cook outside of kitchen, so they are unable to use CQC away from it.
+  Обычно его используют агенты Синдиката, однако повара тоже имеют к нему доступ. В случае поваров CQC, разумеется, означает
+  «Кулинария ближнего боя» (Close Quarters Cooking), а поскольку повара не готовят вне кухни, они не могут применять CQC вне её.
 
-  ## Combo attacks
+  ## Комбо-атаки
 
-  ### Slam
+  ### Швырок
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
   </Box>
 
-  Slams the opponent, knocking them down while dealing Blunt damage. Only works on standing opponents.
+  Швыряет противника, сбивая его с ног и нанося тупой урон. Работает только против стоящих противников.
 
-  ### Kick
+  ### Удар ногой
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
   </Box>
 
-  Knocks the opponent away and deals both Blunt and Stamina damage. If opponent is out of stamina, puts them to sleep.
+  Отбрасывает противника и наносит тупой урон и урон выносливости. Если у противника закончилась выносливость, погружает его в сон.
 
-  ### Restrain
+  ### Обездвиживание
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
   </Box>
 
-  Locks the opponent into a restraining position, knocking them down while dealing Stamina damage.
+  Фиксирует противника в обездвиживающем захвате, сбивая его с ног и нанося урон выносливости.
 
-  ### Pressure
+  ### Давление
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
   </Box>
 
-  Deals Stamina damage and steals whatever item the opponent is currently holding in their active hand.
+  Наносит урон выносливости и похищает предмет, который противник держит в активной руке.
 
-  ### Consecutive
+  ### Серия
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
@@ -60,14 +60,14 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
   </Box>
 
-  Deals a lot of Stamina damage and some Blunt damage to the opponent.
+  Наносит противнику большой урон выносливости и немного тупого урона.
 
-  ### Leg Sweep
+  ### Подсечка
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
   </Box>
 
-  Can only be performed while prone. Knocks the opponent down and forces the user back on their feet, even if they are manually crawling.
+  Может быть выполнена только находясь на земле. Сбивает противника с ног и заставляет пользователя подняться на ноги, даже если он передвигается ползком вручную.
 
 </Document>

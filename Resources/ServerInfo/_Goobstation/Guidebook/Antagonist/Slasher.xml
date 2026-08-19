@@ -1,56 +1,56 @@
 <Document>
-# Slasher
+  # Слэшер
 
-[color=#ac3a0d]An unstoppable 80's terror driven by vengeance, dread, and synth beats echoing through dark maintenance.[/color]
+  [color=#ac3a0d]Неудержимый ужас родом из 80-х, движимый местью, страхом и синт-битами, эхом разносящимися по тёмным техническим тоннелям.[/color]
 
-The Slasher is a relentless horror that stalks isolated crew, harvesting their souls and growing stronger with every victim. It thrives on fear, appearing and vanishing between flickers of light and fresh trails of blood.
+  Слэшер - беспощадный кошмар, выслеживающий изолированных членов экипажа, похищающий их души и становящийся сильнее с каждой жертвой. Он питается страхом, появляясь и исчезая между мерцанием света и свежими кровавыми следами.
 
-<Box>
-  <GuideEntityEmbed Entity="ClothingHeadHatSlasherMask" Caption="Mask"/>
-  <GuideEntityEmbed Entity="SlasherMachete" Caption="Machete"/>
-  <GuideEntityEmbed Entity="SlasherMeatSpike" Caption="Meat Spike"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="ClothingHeadHatSlasherMask" Caption="Маска"/>
+    <GuideEntityEmbed Entity="SlasherMachete" Caption="Мачете"/>
+    <GuideEntityEmbed Entity="SlasherMeatSpike" Caption="Мясной шип"/>
+  </Box>
 
-  Unlike most midround antagonists the slasher starts off weak. For every soul they steal they gain that much more strength. If left unchecked they can quickly become a terrifying force.
+  В отличие от большинства антагонистов среднего раунда, слэшер начинает слабым. За каждую украденную душу он получает всё больше силы. Если его не остановить, он быстро может стать по-настоящему устрашающей силой.
 
-  ## Core Loop
-  1. Find isolated targets.
+  ## Основной цикл
+  1. Найдите изолированные цели.
 
-  2. Incapacitate and absorb their soul.
+  2. Обездвижьте и поглотите их душу.
 
-  3. Repeat.
+  3. Повторите.
 
-  4. Once you gain enough souls you can really start embodying the 80's slasher vibes.
+  4. Когда вы наберёте достаточно душ, вы по-настоящему сможете воплотить дух слэшеров 80-х.
 
-  ## Abilities
+  ## Способности
 
-  [bold]Machete Summon[/bold] – You can always call your signature weapon back. This is a great skill if you lose your weapon or want to throw it at someone for some quick damage.
+  [bold]Призыв мачете[/bold] – Вы всегда можете призвать своё фирменное оружие обратно. Отличный навык, если вы потеряли оружие или хотите бросить его в кого-то для быстрого урона.
 
-  [bold]Soul Steal[/bold] – Can only be used on an incapicated or otherwise restrained target. For every soul stolen you gain more defense and increased damage. It is much more effective on alive targets. Victims become [italic]soulless[/italic] and receive a random negative devil clause.
+  [bold]Кража души[/bold] – Может быть использована только на обездвиженной или иным образом связанной цели. За каждую украденную душу вы получаете больше защиты и увеличенный урон. Гораздо эффективнее на живых целях. Жертвы становятся [italic]бездушными[/italic] и получают случайное негативное «дьявольское условие».
 
-  [bold]Massacre[/bold] – An incredibly strong move that's tied to your special machete. When first used you deal much less damage but the more hits you deal the more damage you deal. After a certain point you will start chopping off the victims limbs and at the 13th hit you decapitate them. Missing resets the combo.
+  [bold]Резня[/bold] – Невероятно мощный приём, связанный с вашим особым мачете. Поначалу вы наносите гораздо меньше урона, но чем больше ударов вы наносите, тем сильнее становится урон. После определённого порога вы начинаете отрубать жертвам конечности, а на 13-м ударе - обезглавливаете их. Промах сбрасывает комбо.
 
-  [bold]Regeneration / Slasherium[/bold] – An incredibly robust source of healing. It rejuvanates you and takes off any restraints. It comes at the cost of an incredibly long cooldown. Once you use it you cannot use it again until you have stolen another soul.
+  [bold]Регенерация / Слэшериум[/bold] – Невероятно мощный источник исцеления. Он восстанавливает вас и снимает любые ограничения. Ценой этому служит невероятно долгое время перезарядки. После использования вы не сможете применить его снова, пока не украдёте ещё одну душу.
 
-  [bold]Blood Trail[/bold] – Leave a trail of blood in your wake. It also plays some music. Spooky!
+  [bold]Кровавый след[/bold] – Оставляйте за собой кровавый след. Также при этом играет музыка. Жутко!
 
-  [bold]Incorporeal / Corporealization[/bold] – Dissappear and reappear from the material realm. This is your main source of traversal. You cannot use it while seen. Extremely limited but very powerful. Blocks cooldowns from going down while in jaunt.
+  [bold]Бестелесность / Материализация[/bold] – Исчезайте и появляйтесь из материального мира. Это ваш основной способ передвижения. Вы не можете использовать его, пока вас видят. Крайне ограниченная, но очень мощная способность. Блокирует уменьшение времени перезарядки других способностей, пока вы в фазе перемещения.
 
-  [bold]Possession[/bold] – Temporarily take control of a victims body. Mindshields block it.
+  [bold]Одержимость[/bold] – Временно возьмите под контроль тело жертвы. Ментальные щиты блокируют это.
 
-  [bold]Meat Spike[/bold] – You can summon a meatspike that you can use to trap your victims in. It is incredibly useful for stealing souls and preventing people from running away.
+  [bold]Мясной шип[/bold] – Вы можете призвать мясной шип, которым можно поймать ваших жертв. Невероятно полезен для кражи душ и предотвращения побега людей.
 
-  [bold]Stagger Area[/bold] – You slow down everyone that's near you for a short amount of time. Very useful for getting the jump on people.
+  [bold]Область оглушения[/bold] – Вы замедляете всех, кто находится рядом с вами, на короткое время. Очень полезно для внезапной атаки.
 
-  ## Crew Tips
-  [bold]Do not wander alone.[/bold].
-  - They are relatively weak when they first appear on the station.
-  - When they steal souls they become much more tankier and deal that much more damage.
-  - If you get the drop on them do not let them out of your sight. If you see them they can't escape.
-  - They are weak to holy. Get the chaplain to help out if you're running low on forces.
-  - Tinfoil hats and mindshields prevent possessions!
-  - Upon 15 souls stolen an announcement plays to warn the crew.
-  - They have no crit state.
+  ## Советы экипажу
+  [bold]Не бродите в одиночку.[/bold].
+  - Они относительно слабы, когда впервые появляются на станции.
+  - Когда они крадут души, они становятся намного живучее и наносят намного больше урона.
+  - Если вам удалось застать их врасплох, не выпускайте их из виду. Если они у вас на виду, сбежать они не смогут.
+  - Они уязвимы к святому. Попросите капеллана помочь, если ваших сил не хватает.
+  - Шапочки из фольги и ментальные щиты предотвращают одержимость!
+  - После кражи 15 душ проигрывается объявление, предупреждающее экипаж.
+  - У них нет состояния критического ранения.
 
-  [color=red][bold]You are the legend of the midnight massacre—make it feel like one.[/bold][/color]
+  [color=red][bold]Вы - легенда полуночной резни, так заставьте это почувствовать.[/bold][/color]
 </Document>

@@ -6,19 +6,19 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Meteor Storm Procedures
-In the event of a meteor storm affecting the station, the station alert should be set to [color=#c8a404]Yellow Alert[/color] until the meteor storm damage/event is over.
+  # Процедуры при метеоритном шторме
+  В случае метеоритного шторма, затрагивающего станцию, уровень станционной тревоги следует установить на [color=#c8a404]Жёлтую тревогу[/color] до окончания урона/события метеоритного шторма.
 
-1. Station personnel are to report damages and assist injured crew when possible.
+  1. Персоналу станции следует сообщать о повреждениях и по возможности оказывать помощь пострадавшим членам экипажа.
 
-2. Repair activities should be prioritized for immediate/severe damage areas, and should not be done to low-impacted areas until after the event is over.
+  2. В приоритете должны быть ремонтные работы в зонах с немедленными/серьёзными повреждениями; зоны с незначительными повреждениями не следует ремонтировать до завершения события.
 
-3. All personnel performing EVA/shuttle activity (primarily Cargo Department) should return until the meteor storm event is over.
+  3. Весь персонал, выполняющий ВКД/шаттл-операции (в первую очередь Отдел Снабжения), должен вернуться на станцию до завершения метеоритного шторма.
 
-4. Engineering Personnel should repair all damages with location assistance from crew, when the meteor storm is over.
+  4. По окончании метеоритного шторма Инженерному персоналу следует устранить все повреждения, пользуясь помощью экипажа в определении местоположения.
 
-5. In the event that the station damage is too severe, the evacuation shuttle should be called.
+  5. В случае, если повреждения станции слишком серьёзны, следует вызвать эвакуационный шаттл.
 
-6. In the event of the meteor storm remaining prolonged in time, immediate evacuation may be requested from Central Command.
+  6. В случае, если метеоритный шторм затягивается по времени, у Центрального Командования может быть запрошена немедленная эвакуация.
 
 </Document>

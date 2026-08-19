@@ -1,88 +1,88 @@
 <Document>
 
-  # Capoeira
+  # Капоэйра
 
   <Box>
     <GuideEntityEmbed Entity="CapoeiraManual" Caption=""/>
   </Box>
 
-  Capoeira, the Syndicate's dance of war originating in Brazil, is a [textlink="martial art" link="MartialArts"] that disguises violence as beauty.
-  Swift attacks link into flowing combos, each move faster and harder than the last one, fueled by relentless momentum.
+  Капоэйра, танец войны Синдиката, зародившийся в Бразилии, — это [textlink="боевое искусство" link="MartialArts"], маскирующее насилие под красоту.
+  Стремительные атаки складываются в текучие комбо, каждое движение быстрее и сильнее предыдущего, подпитываемое неудержимым импульсом.
 
-  ## Special abilities
+  ## Особые способности
 
-  Capoeira users are better at Grab intent. Successfully grabbing an opponent grants user a brief speed boost and denies target from sprinting temporarily.
+  Пользователи капоэйры лучше владеют захватом. Успешный захват противника даёт пользователю кратковременное ускорение и временно лишает цель возможности бежать.
 
-  ### Capoeira Stance
+  ### Стойка капоэйры
 
-  You never stop moving while performing the ginga. This makes you very mobile while fighting.
+  Выполняя джингу, вы никогда не останавливаетесь в движении. Это делает вас очень манёвренным в бою.
 
-  Through swift motion, Capoeira masters channel speed into energy, with combos being more deadly the faster they run.
-  Halt their flow, and their strength will vanish. Their combos, powered by movement, falter when they are prone.
+  С помощью стремительных движений мастера капоэйры превращают скорость в энергию — чем быстрее они бегут, тем смертоноснее их комбо.
+  Остановите их движение — и их сила исчезнет. Их комбо, питаемые движением, теряют силу, когда они лежат на земле.
 
-  ### Capoeira Momentum
+  ### Импульс капоэйры
 
-  Through the flowing, relentless motion of Capoeira, each successful combo restores the user's stamina.
-  Every connected strike fuels their endurance, allowing them to fight longer, faster, and harder without pause.
+  Благодаря текучему, неудержимому движению капоэйры каждое успешное комбо восстанавливает выносливость пользователя.
+  Каждый удачный удар подпитывает их выносливость, позволяя сражаться дольше, быстрее и сильнее без пауз.
 
-  ### Capoeira Tempo
+  ### Темп капоэйры
 
-  Hit or miss, it's just part of the dance! And the best part is about to start!
+  Попал или промахнулся — это всего лишь часть танца! И самое интересное вот-вот начнётся!
 
-  A missed attack sharpens the next, reducing its recovery and increasing the damage.
+  Промахнувшаяся атака обостряет следующую, сокращая её время восстановления и увеличивая урон.
 
-  ## Combo attacks
+  ## Комбо-атаки
 
-  ### Push Kick
-
-  <Box>
-    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
-    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
-    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
-  </Box>
-
-  Knocks down and pushes opponent away from the user. Doesn't force to drop held items.
-
-  ### Circle Kick
-
-  <Box>
-    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
-    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
-    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
-  </Box>
-
-  Deals Blunt damage and also slows down the opponent significantly.
-
-  ### Sweep Kick
-
-  <Box>
-    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
-    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
-    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
-  </Box>
-
-  Knocks down and deals Blunt and Stamina damage. Temporarily increases user's attack speed by a bit.
-  Cannot be performed if the user is moving too slow.
-
-  ### Spin Kick
+  ### Толкающий удар
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
+  </Box>
+
+  Сбивает с ног и отталкивает противника от пользователя. Не заставляет ронять предметы в руках.
+
+  ### Круговой удар
+
+  <Box>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
   </Box>
 
-  Deals a lot of Blunt damage and knocks the opponent down. Also makes the user flip. Only works on standing opponents.
-  Cannot be performed if the user is moving too slow.
+  Наносит тупой урон, а также значительно замедляет противника.
 
-  ### Kick Up
+  ### Подсекающий удар
+
+  <Box>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
+  </Box>
+
+  Сбивает с ног и наносит тупой урон и урон выносливости. Временно немного увеличивает скорость атаки пользователя.
+  Не может быть выполнен, если пользователь движется слишком медленно.
+
+  ### Вращательный удар
+
+  <Box>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
+  </Box>
+
+  Наносит большой тупой урон и сбивает противника с ног. Также заставляет пользователя сделать сальто. Работает только против стоящих противников.
+  Не может быть выполнен, если пользователь движется слишком медленно.
+
+  ### Подъёмный удар
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
   </Box>
 
-  Needs to be targeted at the user themselves. Can be performed while prone. Removes knock down status effect and forces the user to stand up instantly.
+  Должен быть нацелен на самого пользователя. Может быть выполнен, находясь на земле. Снимает статус-эффект «сбит с ног» и мгновенно поднимает пользователя на ноги.
 
 </Document>
