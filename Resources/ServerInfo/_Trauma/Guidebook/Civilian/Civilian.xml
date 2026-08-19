@@ -1,27 +1,27 @@
 <Document>
-# Civilian
-[color=#6c6a78]Civilian[/color] is a catchall "department" for jobs that don't fit well into any other area.
+  # Мирные
+  [color=#6c6a78]Мирные[/color] - это собирательный «отдел» для профессий, которые не подходят ни к одной другой области.
 
-These jobs tend to have little to no responsibility, with the only expectation being that you aren't a complete shitter.
+  У этих профессий, как правило, мало ответственности или её нет вовсе, единственное ожидание - чтобы вы не были полным придурком.
 
-## Personnel
-Roughly in order of how real of a job they are. Results may vary.
+  ## Персонал
+  Примерно в порядке того, насколько это «настоящая» работа. Результаты могут отличаться.
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineJanitor" Caption="Janitor"/>
-    <GuideEntityEmbed Entity="ToyFigurineChaplain" Caption="Chaplain"/>
-    <GuideEntityEmbed Entity="ToyFigurineLibrarian" Caption="Librarian"/>
-    <GuideEntityEmbed Entity="ToyFigurineLawyer" Caption="Lawyer"/>
+    <GuideEntityEmbed Entity="ToyFigurineJanitor" Caption="Уборщик"/>
+    <GuideEntityEmbed Entity="ToyFigurineChaplain" Caption="Священник"/>
+    <GuideEntityEmbed Entity="ToyFigurineLibrarian" Caption="Библиотекарь"/>
+    <GuideEntityEmbed Entity="ToyFigurineLawyer" Caption="Юрист"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineMime" Caption="Mime"/>
-    <GuideEntityEmbed Entity="ToyFigurineClown" Caption="Clown"/>
-    <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="Musician"/>
-    <GuideEntityEmbed Entity="ToyFigurinePassenger" Caption="Assistant"/>
+    <GuideEntityEmbed Entity="ToyFigurineMime" Caption="Мим"/>
+    <GuideEntityEmbed Entity="ToyFigurineClown" Caption="Клоун"/>
+    <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="Музыкант"/>
+    <GuideEntityEmbed Entity="ToyFigurinePassenger" Caption="Ассистент"/>
   </Box>
 
-## Apes Together Strong
-Being somewhat outcast, making friends with fellow [color=#6c6a78]Civilians[/color] can be crucial to your prosperity, or even survival.
-Maybe laughing at the clown's jokes will convince him to break you out of prison later on...
-Sometimes when the going gets tough, even the poor janitors have to fend off xenomorph infestations.
+  ## Обезьяны сильны вместе
+  Будучи в некотором роде изгоями, дружба с другими [color=#6c6a78]Мирными[/color] может оказаться решающей для вашего процветания или даже выживания.
+  Может быть, если посмеяться над шутками клоуна, он потом согласится вытащить вас из тюрьмы...
+  Порой, когда становится совсем туго, даже бедным уборщикам приходится отбиваться от нашествий ксеноморфов.
 </Document>

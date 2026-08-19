@@ -1,95 +1,95 @@
 <Document>
 
-  # Path of Void
+  # Путь Пустоты
 
-  Difficulty: [color=lime]Easy[/color]
+  Сложность: [color=lime]Легко[/color]
 
-  The Path of Void focuses on stealth, freezing cold, mobility and depressurization.
-  Pick this path if you enjoy being a highly mobile assassin who leaves their foes struggling to catch up.
+  Путь Пустоты сосредоточен на скрытности, леденящем холоде, мобильности и разгерметизации.
+  Выбирайте этот путь, если вам нравится быть высокомобильным убийцей, который заставляет своих врагов из последних сил пытаться его догнать.
 
-  ## Pros
+  ## Плюсы
 
-  - Your spells apply a stacking debuff that chills and slows targets.
-  - Early mobility spell.
-  - Highly stealthy.
+  - Ваши заклинания накладывают стакающийся дебафф, охлаждающий и замедляющий цели.
+  - Раннее заклинание мобильности.
+  - Высокая скрытность.
 
-  ## Cons
+  ## Минусы
 
-  - Has a difficult time fighting opponents immune to cold effects.
-  - Has a difficult time with silicon-based lifeforms.
+  - Испытывает трудности в бою с противниками, невосприимчивыми к эффектам холода.
+  - Испытывает трудности с синтетическими формами жизни.
 
-  ## Knowledge
+  ## Знания
 
   <Table Columns="3">
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Knowledge Name</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Ingredients/Type</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Description</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Название Знания</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Ингредиенты/Тип</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Описание</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Glimmer of Winter</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Knife, Cold atmosphere</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Creates a void blade.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Отблеск Зимы</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Нож, Холодная атмосфера</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт клинок пустоты.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Grasp of Void</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Passive Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Your grasp will mute and chill victims.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Хватка Пустоты</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваша хватка лишает жертв дара речи и охлаждает их.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Mark of Void</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Passive Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Your grasp will now apply the void mark, freezing, muting, and applying void chill your target when activated.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Метка Пустоты</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваша хватка теперь накладывает метку пустоты, при активации замораживая цель, лишая её дара речи и накладывая на неё хлад пустоты.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Void Phase</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Active Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Teleports you to the target destination, damaging and muting nearby creatures.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Фаза Пустоты</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Телепортирует вас в указанное место, нанося урон и лишая дара речи находящихся поблизости существ.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Void Prison</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Active Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Locks your target in a frozen ball, making them unable to act, speak, or be damaged. Applies a void chill when they thaw.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Тюрьма Пустоты</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Заключает вашу цель в замороженный шар, лишая её возможности действовать, говорить или получать урон. При оттаивании накладывает на неё хлад пустоты.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Void Pull</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Active Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Pulls nearby heathens towards you, knocking them over, damaging, and applying void chill to them.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Притяжение Пустоты</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Притягивает находящихся поблизости язычников к вам, сбивая их с ног, нанося урон и накладывая на них хлад пустоты.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Seeking Blade</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Passive Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Your blade now freezes and applies void chill to enemies, as well as allowing you to teleport next to them by clicking them.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Ищущий Клинок</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваш клинок теперь замораживает врагов и накладывает на них хлад пустоты, а также позволяет телепортироваться к ним, кликнув по ним.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Void Conduit</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Active Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Summons a void conduit that periodically pulses; breaking airlocks and windows, applying void chill to heathens, and granting heretics immunity to low pressures. Has a maximum of 1 charge, rechargeable by breaking heretic blade.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Канал Пустоты</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Призывает канал пустоты, который периодически пульсирует, разбивая шлюзы и окна, накладывая хлад пустоты на язычников и даруя еретикам иммунитет к низкому давлению. Имеет максимум 1 заряд, который можно восполнить, сломав клинок еретика.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Waltz at the End of Time</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Three corpses in a cold atmosphere</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Summons a winter storm on the station. Everything around you gets frozen and cursed by void chill. All your spell cooldowns are halved. You get full pressure and temperature immunity as well as thermal and night vision. You waltz in air at quickened speed.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Вальс на Краю Времени</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Три трупа в холодной атмосфере</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Призывает на станцию зимнюю бурю. Всё вокруг вас замерзает и проклинается хладом пустоты. Перезарядка всех ваших заклинаний сокращается вдвое. Вы получаете полный иммунитет к давлению и температуре, а также тепловое и ночное зрение. Вы вальсируете по воздуху с ускоренной скоростью.</Box></ColorBox>
   </Table>
 
 
-  ## Armor and Passive Ability
+  ## Броня и Пассивная Способность
 
   <Table Columns="2">
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Name</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Effect</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Название</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Эффект</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">T1 Passive</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Immunity to low temperatures.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">1 ур. Пассивная</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Иммунитет к низким температурам.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Hollow Weave</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Immunity to space hazards. Getting melee attacked denies the attack and makes you invisible temporarily, after that ability goes on cooldown</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Полое Плетение</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Иммунитет к угрозам открытого космоса. Получение атаки в ближнем бою отменяет её и на время делает вас невидимым, после чего способность уходит на перезарядку.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">T2 Passive</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Breathing immunity</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">2 ур. Пассивная</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Иммунитет к дыханию.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">T3 Passive</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Slowdown resistance</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">3 ур. Пассивная</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Сопротивление замедлению.</Box></ColorBox>
   </Table>
 
 
-  ## Tips
+  ## Советы
 
-  - Your Mansus Grasp allows you to mute your targets, making it ideal for silent assassinations. The grasp also applies a mark that when triggered by the void blade will apply the maximum amount of stacks of void chill to your target, slowing them down to a crawl.
-  - Void Cloak side knowledge can be used to hide one of your blades and a Codex Cicatrix when the hood is down, while acting as a focus when it's up.
-  - Void chill is a debuff applied by your spells, your grasp, your mark and your blade once you unlock the upgrade. Each stack slows your target movement speed by roughly 5% and makes them gradually colder, up to a maximum of 5 stacks.
-  - At 5 stacks void chill will also prevent your target from heating up.
-  - Void prison can put a target in stasis for 5 seconds. Ideal if you are fighting multiple opponents and need to isolate one target at a time.
-  - Void Conduit is your signature ability. It slowly destroys windows and airlocks around its area of effect. Use it to depressurize the station and expand your domain.
+  - Ваша Хватка Мансуса позволяет лишить ваших целей дара речи, что делает её идеальной для тихих убийств. Хватка также накладывает метку, которая при активации клинком пустоты наложит на вашу цель максимальное количество стаков хлада пустоты, замедляя её до черепашьего шага.
+  - Побочное знание Плащ Пустоты можно использовать, чтобы спрятать один из ваших клинков и Кодекс Цикатрикс, когда капюшон опущен, при этом он выступает в роли фокуса, когда капюшон поднят.
+  - Хлад пустоты - это дебафф, накладываемый вашими заклинаниями, хваткой, меткой и клинком после разблокировки улучшения. Каждый стак замедляет скорость передвижения цели примерно на 5% и постепенно охлаждает её, до максимума в 5 стаков.
+  - При 5 стаках хлад пустоты также не позволяет вашей цели согреться.
+  - Тюрьма Пустоты может погрузить цель в стазис на 5 секунд. Идеально, если вы сражаетесь с несколькими противниками и вам нужно изолировать по одной цели за раз.
+  - Канал Пустоты - ваша фирменная способность. Она медленно разрушает окна и шлюзы в зоне действия. Используйте её, чтобы разгерметизировать станцию и расширить свои владения.
 
 </Document>

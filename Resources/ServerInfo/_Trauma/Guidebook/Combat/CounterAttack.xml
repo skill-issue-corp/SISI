@@ -1,29 +1,29 @@
 <Document>
-# Counterattack
+  # Контратака
 
-Active counterattack is a sheathed weapon combat mechanic.
+  Активная контратака - это боевая механика оружия в ножнах.
 
-When weapon is sheathed on your belt, you can [color=yellow]Alt-Click[/color] your opponent with empty hand while in [color=red]Combat Mode[/color] to prepare a counterattack against them.
+  Когда оружие находится в ножнах на вашем поясе, вы можете использовать [color=yellow]Alt-клик[/color] по противнику пустой рукой, находясь в [color=red]Боевом режиме[/color], чтобы подготовить контратаку против него.
 
-After preparing counterattack, you will have one second long window, during which, if your opponent attempts to melee attack you, their attack will be blocked and you will deliver an empowered strike against them, with extra damage, wounding and armor penetration.
+  После подготовки контратаки у вас будет окно длиной в одну секунду, в течение которого, если ваш противник попытается атаковать вас в ближнем бою, его атака будет заблокирована, и вы нанесёте ему усиленный удар с дополнительным уроном, ранением и пробитием брони.
 
-Preparing counterattack plays unique sound and shows popup.
+  Подготовка контратаки сопровождается уникальным звуком и всплывающим сообщением.
 
-If you fail to counterattack, this ability goes on cooldown - this does not happen if you have counterattacked successfully, which allows you to continue counterattacking.
+  Если ваша контратака не удастся, эта способность уйдёт на перезарядку - этого не происходит, если контратака прошла успешно, что позволяет вам продолжать контратаковать.
 
-<Box>
-  <GuideEntityEmbed Entity="ClothingBeltSheathKatanaFilled"/>
-  <GuideEntityEmbed Entity="ClothingBeltSheathKatanaNinjaFilled"/>
-  <GuideEntityEmbed Entity="ClothingBeltSheathSnakesfangFilled"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="ClothingBeltSheathKatanaFilled"/>
+    <GuideEntityEmbed Entity="ClothingBeltSheathKatanaNinjaFilled"/>
+    <GuideEntityEmbed Entity="ClothingBeltSheathSnakesfangFilled"/>
+  </Box>
 
-<Box>
-  <GuideEntityEmbed Entity="ClothingBeltSheathFilled"/>
-  <GuideEntityEmbed Entity="ClothingBeltSheathHeadOfSecurityFilled"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="ClothingBeltSheathFilled"/>
+    <GuideEntityEmbed Entity="ClothingBeltSheathHeadOfSecurityFilled"/>
+  </Box>
 
-Different kind of sheaths/weapons have varying counterattack stats such as damage/wounding/armor penetration or cooldown on failed counterattack.
+  Разные виды ножен/оружия имеют разные показатели контратаки, такие как урон/ранение/пробитие брони или время перезарядки при неудачной контратаке.
 
-You cannot counterattack NPCs as they are too unpredictable.
+  Вы не можете контратаковать НПС, поскольку они слишком непредсказуемы.
 
 </Document>

@@ -1,31 +1,31 @@
 <Document>
-  # Vampires
+  # Вампиры
 
   <Box>
     <GuideEntityEmbed Entity="CrateCoffin" Caption=""/>
   </Box>
 
-  Vampires are creatures who possess the ability to drain and manipulate life essence from the blood of sapient beings on-station.
-  They are antagonists that will actively seek out and hunt crew members for the simple goal of sustaining themselves off a crew member's blood and completing a few select objectives.
-  Vampires possess special powers that enable them to, among other abilities, teleport using the shadows, hypnotize and capture crew, and perform unique actions based on their vampiric class.
-  Vampires' powers are not without consequence: vampires possess a vital weakness to areas, objects, and individuals of significant spiritual strength.
-  Elements of strong belief–sanctified sites, holy water, fire, and starlight–all spell doom for a vampire.
+  Вампиры - это существа, обладающие способностью высасывать и манипулировать жизненной эссенцией из крови разумных существ на станции.
+  Это антагонисты, которые будут активно выслеживать и охотиться на членов экипажа с простой целью - поддерживать себя за счёт крови членов экипажа и выполнять несколько отдельных целей.
+  Вампиры обладают особыми силами, которые позволяют им, среди прочего, телепортироваться с помощью теней, гипнотизировать и захватывать членов экипажа, а также совершать уникальные действия в зависимости от своего вампирского класса.
+  Силы вампиров не лишены последствий: вампиры обладают жизненно важной уязвимостью к местам, предметам и людям, обладающим значительной духовной силой.
+  Проявления сильной веры - освящённые места, святая вода, огонь и звёздный свет - несут вампиру погибель.
 
-  ## Beginning Your Reign of Terror
+  ## Начало вашего Правления Ужаса
 
-  There are two pools that blood will go into when a vampire drains a humanoid, that is their hunger needs and usable blood pool.
-  Vampires are unable to sustain themselves off of anything other than blood and if the amount of blood staving off hunger needs runs out, a vampire will starve to death.
+  Существует два пула, в которые попадает кровь, когда вампир высасывает гуманоида: пул для утоления голода и пул расходуемой крови.
+  Вампиры не способны поддерживать себя ничем, кроме крови, и если запас крови, утоляющей голод, закончится, вампир умрёт от истощения.
 
-  The usable blood pool is what is consumed when vampires use special powers and as the total usable blood gathered during the round rises, it unlocks more abilities for the vampire.
-  Vampires can feed themselves off any humanoid, but usable blood is only gatherable from sentient (ones with a mind) humanoids.
+  Расходуемый пул крови используется, когда вампиры применяют особые силы, и по мере роста общего количества расходуемой крови, собранной за раунд, вампиру открываются новые способности.
+  Вампиры могут питаться от любого гуманоида, но расходуемую кровь можно собирать только у разумных (обладающих разумом) гуманоидов.
 
-  When starting out as a Vampire one will have zero usable blood and in order to gain usable blood, a vampire will have to drain a player.
-  Once a crew member is captured then one will have to target the humanoid's head on harm mode with an empty hand whilst they are alive, you must ensure that you and the crew member you have captured are not wearing masks or hardsuit helmets..
-  Once 200u of blood has been gathered from a sentient humanoid it will stop going into the usable blood pool and no more will be gatherable from that specific player for the extent of the round.
+  Начиная игру за Вампира, у вас будет ноль расходуемой крови, и чтобы её получить, вампиру придётся высосать кровь из игрока.
+  Как только член экипажа захвачен, необходимо навести на голову гуманоида в режиме нанесения урона пустой рукой, пока он жив, при этом убедитесь, что ни на вас, ни на захваченном члене экипажа нет масок или шлемов скафандров.
+  Как только из разумного гуманоида будет собрано 200 единиц крови, она перестанет пополнять расходуемый пул, и больше собрать кровь с этого конкретного игрока в течение оставшейся части раунда будет невозможно.
 
-  Draining a player will likely result in their death.
+  Высасывание крови из игрока, скорее всего, приведёт к его смерти.
 
-  ## Starting Powers
+  ## Начальные силы
 
   <Box>
     <TextureEmbed Sprite="_Trauma/Vampires/actions.rsi" State="vampire_glare"/>
@@ -33,16 +33,16 @@
     <TextureEmbed Sprite="_Trauma/Vampires/actions.rsi" State="lair"/>
   </Box>
 
-  Vampires will start with three powers: Glare, Rejuvenate and Create Lair. Using Glare can stun and silence, with the effect varying depending on if you are facing the target, and Rejuvenate will clear all stuns.
+  Вампиры начинают с тремя силами: Пронзающий Взгляд, Омоложение и Создать Логово. Использование Пронзающего Взгляда может оглушить и заставить замолчать цель, причём эффект зависит от того, стоите ли вы к цели лицом, а Омоложение снимает все состояния оглушения.
 
-  The lair ability can be used on any coffin to make it your lair, however only one can be made during the round so don't waste it. The lair ability will be removed and replaced with a "Teleport to Lair" one.
-  After you make a lair, a rune based on your blood color will manifest on the ground. That specific coffin will now give you extra healing on most types of damage, while you stay inside of it.
-  You may use your "Teleport to Lair" ability once you are critical or dead to teleport to your lair, but be considerate of its lengthy cooldown.
+  Способность создания логова можно применить к любому гробу, чтобы сделать его своим логовом, однако за раунд можно создать только одно, так что не тратьте её впустую. Способность создания логова будет удалена и заменена на способность «Телепортация в Логово».
+  После того как вы создадите логово, на земле проявится руна, основанная на цвете вашей крови. Этот конкретный гроб теперь будет давать вам дополнительное исцеление от большинства видов урона, пока вы находитесь внутри него.
+  Вы можете использовать способность «Телепортация в Логово», как только окажетесь в критическом состоянии или умрёте, чтобы телепортироваться в своё логово, но учитывайте её долгое время перезарядки.
 
-  The lair itself can be destroyed [bold]only[/bold] with heat damage (e.g. lasers) and most importantly, fire. Once it starts taking damage, you will be notified via a popup.
-  Once it gets destroyed, you will be unable to teleport to it for the rest of the round.
+  Само логово можно уничтожить [bold]только[/bold] уроном от тепла (например, лазерами) и, что важнее всего, огнём. Как только оно начнёт получать урон, вы будете уведомлены об этом всплывающим сообщением.
+  Как только оно будет уничтожено, вы больше не сможете телепортироваться в него до конца раунда.
 
-  ## Classes
+  ## Классы
 
   <Box>
     <TextureEmbed Sprite="_Trauma/Vampires/actions.rsi" State="duel"/>
@@ -51,28 +51,28 @@
     <TextureEmbed Sprite="_Trauma/Vampires/actions.rsi" State="hysteria"/>
   </Box>
 
-  Vampires have two different types of powers: base powers and class powers. Base powers are abilities that every Vampire has or will be able to unlock regardless of class.
-  After drinking a total of 150 blood, vampires gain access to 4 unique and mutually exclusive skill trees, with increasingly powerful abilities tailored to various play styles.
-  Upon gathering 1,000u of blood from at least 8 different people vampires will and rise to their full power, gaining improved night vision, immunity to holy water, the chapel, nullification, and the chaplain's holiness, becoming a blood-fueled emissary of death and destruction!
+  У вампиров есть два разных типа сил: базовые силы и классовые силы. Базовые силы - это способности, которые есть или будут доступны каждому Вампиру вне зависимости от класса.
+  После употребления в общей сложности 150 единиц крови вампиры получают доступ к 4 уникальным и взаимоисключающим деревьям навыков со всё более мощными способностями, подходящими под различные стили игры.
+  Собрав 1000 единиц крови как минимум с 8 разных людей, вампиры обретут свою полную силу, получив улучшенное ночное зрение, иммунитет к святой воде, часовне, нуллификации и святости капеллана, став порождённым кровью посланником смерти и разрушения!
 
-  ## Fighting Vampires
+  ## Борьба с вампирами
 
   <Box>
     <GuideEntityEmbed Entity="Nullrod" Caption=""/>
   </Box>
 
-  - Keeping your distance from a vampire will prevent them from glaring you, which is normally a death sentence. stay back and shoot.
-  - Vampiric abilities can be "nullified", which increases the blood cost of powers; Nullification scales all the way to 100, at which point Vampires cannot use any abilities. A Chaplain's Null Rod or holy water applies nullification.
-  - Vampires will burst into flames if they remain in the chapel for extended periods of time.
-  - Starlight is extraordinarily deadly to even full strength vampires, dealing serious genetic damage while the vampire is in space.
-  - If a vampire attains full power: They gain full immunity to nullification, holy water, and can freely enter holy sites.
+  - Держась на расстоянии от вампира, вы помешаете ему применить на вас Пронзающий Взгляд, что обычно равносильно смертному приговору. Держитесь подальше и стреляйте.
+  - Способности вампиров можно «нуллифицировать», что увеличивает стоимость сил в крови; нуллификация может достигать 100, при котором вампиры не смогут использовать никакие способности. Null Rod капеллана или святая вода применяют нуллификацию.
+  - Вампиры вспыхнут пламенем, если останутся в часовне на длительное время.
+  - Звёздный свет чрезвычайно смертоносен даже для вампиров, достигших полной силы, нанося серьёзный генетический урон, пока вампир находится в космосе.
+  - Если вампир достигает полной силы: он получает полный иммунитет к нуллификации, святой воде и может свободно входить в святые места.
 
-  ## Tips
+  ## Советы
 
-  - Know your victims' species before attempting to bite them! IPCs and Plasmamen have no blood and cannot be drank from!
-  - Keeping track of what powers a vampire has and when they can use them is critical.
-  - Make sure a vampire has already used their rejuvenate before you cuff them, or they may quickly turn the tables.
-  - Glare has no effect if the vampire is blindfolded.
-  - Vampires can still glare you when they are stunned! It will last shorter, but it will prevent you from cuffing them.
-  - Sleeping in coffins reduces nullification of vampires.
+  - Узнайте вид своей жертвы прежде, чем пытаться её укусить! У ИПК и Плазменников нет крови, и высосать её из них невозможно!
+  - Отслеживание того, какими способностями обладает вампир и когда он может их использовать, крайне важно.
+  - Убедитесь, что вампир уже использовал своё Омоложение, прежде чем надевать на него наручники, иначе он может быстро переломить ход событий.
+  - Пронзающий Взгляд не действует, если вампир ослеплён повязкой на глаза.
+  - Вампиры всё ещё могут применить на вас Пронзающий Взгляд, даже находясь в оглушении! Эффект продлится меньше, но это помешает вам надеть на них наручники.
+  - Сон в гробах снижает нуллификацию вампиров.
 </Document>

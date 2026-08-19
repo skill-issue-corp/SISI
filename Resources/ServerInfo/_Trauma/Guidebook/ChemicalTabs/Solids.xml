@@ -7,135 +7,135 @@ SPDX-License-Identifier: MIT
 
 <Document>
 
-# Solids
+  # Твёрдые вещества
 
-Recipes here are solid items that are created using chemistry.
+  Рецепты здесь - это твёрдые предметы, создаваемые с помощью химии.
 
-## Aloe Cream
+  ## Крем Алоэ
   <Box>
-    <GuideEntityEmbed Entity="FoodAloe" Caption="Raw Aloe"/>
-    <GuideEntityEmbed Entity="AloeCream" Caption="Aloe Cream"/>
+    <GuideEntityEmbed Entity="FoodAloe" Caption="Сырое алоэ"/>
+    <GuideEntityEmbed Entity="AloeCream" Caption="Крем алоэ"/>
   </Box>
 
-Aloe Cream can be created by microwaving raw aloe for 10 seconds.
+  Крем алоэ можно создать, поместив сырое алоэ в микроволновку на 10 секунд.
 
-## Crystals
+  ## Кристаллы
   <Box>
-    <GuideEntityEmbed Entity="ShardCrystalBlue" Caption="Crystal"/>
+    <GuideEntityEmbed Entity="ShardCrystalBlue" Caption="Кристалл"/>
   </Box>
 
-A crystal can be created by combining the following ingredients:
-- 15 Sugar
-- 15 Water
-- 5 Ethanol
+  Кристалл можно создать, смешав следующие ингредиенты:
+  - 15 Сахара
+  - 15 Воды
+  - 5 Этанола
 
-## EMP
+  ## ЭМИ
   <Box>
-    <GuideEntityEmbed Entity="EmpGrenade" Caption="EMP"/>
+    <GuideEntityEmbed Entity="EmpGrenade" Caption="ЭМИ"/>
   </Box>
 
-An EMP blast can be created by combining the following ingredients:
-- 1 Uranium
-- 1 Iron
-- 1 Aluminum
+  Импульс ЭМИ можно создать, смешав следующие ингредиенты:
+  - 1 Урана
+  - 1 Железа
+  - 1 Алюминия
 
-## Foam
+  ## Пена
   <Box>
-    <GuideEntityEmbed Entity="CleanerGrenade" Caption="Foam"/>
+    <GuideEntityEmbed Entity="CleanerGrenade" Caption="Пена"/>
   </Box>
 
-A cloud of foam can be created by combining the following ingredients:
-- 1 Water
-- 1 Fluorosurfactant
+  Облако пены можно создать, смешав следующие ингредиенты:
+  - 1 Воды
+  - 1 Фторсурфактанта
 
-Foam works the same as smoke, holding chems up to the limit it was made with.
+  Пена работает так же, как дым, удерживая химикаты вплоть до предела, с которым она была создана.
 
-## Gunpowder
+  ## Порох
   <Box>
-    <GuideEntityEmbed Entity="MaterialGunpowder" Caption="Gunpowder"/>
+    <GuideEntityEmbed Entity="MaterialGunpowder" Caption="Порох"/>
   </Box>
 
-Gunpowder can be created by combining the following ingredients:
-- 6 Potassium
-- 2 Sulfur
-- 2 Charcoal
+  Порох можно создать, смешав следующие ингредиенты:
+  - 6 Калия
+  - 2 Серы
+  - 2 Угля
 
-## Plastic
+  ## Пластик
   <Box>
-    <GuideEntityEmbed Entity="SheetPlastic" Caption="Plastic Sheets"/>
+    <GuideEntityEmbed Entity="SheetPlastic" Caption="Листы пластика"/>
   </Box>
 
-10 Plastic Can be created by combining the following ingredients:
-- 10 Oil
-- 6 Ash
-- 4 Sulfuric Acid
-- Heating the solution to 374 degrees
+  10 единиц Пластика можно создать, смешав следующие ингредиенты:
+  - 10 Нефти
+  - 6 Пепла
+  - 4 Серной кислоты
+  - Нагрев раствора до 374 градусов
 
-## Regenerative Mesh
+  ## Регенеративная сетка
   <Box>
-    <GuideEntityEmbed Entity="RegenerativeMesh" Caption="Mesh"/>
+    <GuideEntityEmbed Entity="RegenerativeMesh" Caption="Сетка"/>
   </Box>
 
-Meshes can be created by microwaving the following ingredients for 10 seconds:
+  Сетки можно создать, поместив следующие ингредиенты в микроволновку на 10 секунд:
 
   <Box>
-    <GuideEntityEmbed Entity="FoodAloe" Caption="Raw Aloe"/>
-    <GuideEntityEmbed Entity="Ointment" Caption="Ointment"/>
-    <GuideEntityEmbed Entity="MaterialCloth" Caption="Cloth"/>
+    <GuideEntityEmbed Entity="FoodAloe" Caption="Сырое алоэ"/>
+    <GuideEntityEmbed Entity="Ointment" Caption="Мазь"/>
+    <GuideEntityEmbed Entity="MaterialCloth" Caption="Ткань"/>
   </Box>
 
-- 1 Raw Aloe
-- 1 Ointment
-- 1 Cloth
-- 20 units of Sigynate
-- 20 units of Dermaline
+  - 1 Сырое алоэ
+  - 1 Мазь
+  - 1 Ткань
+  - 20 единиц Сигинейта
+  - 20 единиц Дермалина
 
 
-## Smoke
+  ## Дым
   <Box>
-    <GuideEntityEmbed Entity="SmokeGrenade" Caption="Smoke"/>
+    <GuideEntityEmbed Entity="SmokeGrenade" Caption="Дым"/>
   </Box>
 
-A cloud of smoke can be created by combining the following ingredients:
-- 1 Sugar
-- 1 Potassium
-- 1 Phosphorus
+  Облако дыма можно создать, смешав следующие ингредиенты:
+  - 1 Сахара
+  - 1 Калия
+  - 1 Фосфора
 
-Smoke carries any extra chems in its reaction medium up to the amount of smoke you make, for example;
+  Дым переносит любые дополнительные химикаты в своей реакционной среде вплоть до количества создаваемого дыма, например;
 
-a 5-5-5 mix can carry 5u of mutagen and pass it onto anyone who enters the smoke cloud.
+  смесь 5-5-5 может нести 5 единиц мутагена и передавать его каждому, кто войдёт в облако дыма.
 
-## Suture
+  ## Шов
   <Box>
-    <GuideEntityEmbed Entity="MedicatedSuture" Caption="Suture"/>
+    <GuideEntityEmbed Entity="MedicatedSuture" Caption="Шов"/>
   </Box>
 
-Sutures can be created by microwaving the following ingredients for 10 seconds:
+  Швы можно создать, поместив следующие ингредиенты в микроволновку на 10 секунд:
 
   <Box>
-    <GuideEntityEmbed Entity="FoodPoppy" Caption="Poppy"/>
-    <GuideEntityEmbed Entity="MaterialCloth" Caption="Cloth"/>
-    <GuideEntityEmbed Entity="Brutepack" Caption="Brute Packs"/>
+    <GuideEntityEmbed Entity="FoodPoppy" Caption="Мак"/>
+    <GuideEntityEmbed Entity="MaterialCloth" Caption="Ткань"/>
+    <GuideEntityEmbed Entity="Brutepack" Caption="Бандажи"/>
   </Box>
 
-- 1 Poppy
-- 1 Brute Pack
-- 1 Cloth
-- 20 units of Tranexamic Acid
-- 20 units of Cryptobiolin
+  - 1 Мак
+  - 1 Бандаж
+  - 1 Ткань
+  - 20 единиц Транексамовой кислоты
+  - 20 единиц Криптобиолина
 
-  ## Synthmeat
-    <Box>
-      <GuideEntityEmbed Entity="FoodMeatSynth" Captain="Synthmeat"/>
-    </Box>
+  ## Синтетическое мясо
+  <Box>
+    <GuideEntityEmbed Entity="FoodMeatSynth" Captain="Синтетическое мясо"/>
+  </Box>
 
-  Synthmeat can be created by combining the following ingredients
-  - 10 Sodium Polyacrylate
-  - 5 Phenol
-  - 5 Blood
-  - 10 Carbon
+  Синтетическое мясо можно создать, смешав следующие ингредиенты
+  - 10 Полиакрилата натрия
+  - 5 Фенола
+  - 5 Крови
+  - 10 Углерода
 
-  Once created you can grind synthmeat into synthflesh to then be centrifuged into synthcells which are an extremely effective treatment for toxin damage when sprayed upon someone
+  После создания вы можете перемолоть синтетическое мясо в синтетическую плоть, чтобы затем центрифугировать её в синтетические клетки, которые являются чрезвычайно эффективным средством лечения токсинового урона, если распылить их на кого-либо
 
   <GuideReagentGroupEmbed Group="Solids"/>
 

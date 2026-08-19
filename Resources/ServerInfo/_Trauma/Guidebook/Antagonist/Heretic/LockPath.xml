@@ -1,94 +1,94 @@
 <Document>
 
-  # Path of Lock
+  # Путь Замка
 
-  Difficulty: [color=orange]Medium[/color]
+  Сложность: [color=orange]Средне[/color]
 
-  The Path of Lock revolves around access, area denial, theft and gadgets.
-  Pick this path if you want a less confrontational playstyle and more interested in being a slippery rat.
+  Путь Замка вращается вокруг доступа, контроля территории, воровства и гаджетов.
+  Выбирайте этот путь, если хотите менее конфронтационный стиль игры и больше интересуетесь тем, чтобы быть неуловимой крысой.
 
-  ## Pros
+  ## Плюсы
 
-  - Your mansus grasp can open any lock, unlock every terminal and bypass any access restriction.
-  - Lock heretics get some side knowledge for free, making it the perfect path if you want to experiment with the various trinkets the shop has to offer.
-  - Lock heretics don't gain visible aura after losing the ability to break blades, making it perfect for being stealthy at latter stages.
+  - Ваша хватка мансуса может открыть любой замок, разблокировать любой терминал и обойти любое ограничение доступа.
+  - Еретики Замка получают немного побочных знаний бесплатно, что делает этот путь идеальным, если вы хотите поэкспериментировать с различными безделушками, которые предлагает магазин.
+  - Еретики Замка не получают видимой ауры после потери способности ломать клинки, что делает их идеальными для скрытности на поздних стадиях.
 
-  ## Cons
+  ## Минусы
 
-  - The weakest heretic path in direct combat, period.
-  - Very limited direct combat benefits.
-  - You have no defensive benefits or immunities.
-  - No mobility or direct additional teleportation
-  - Highly reliant on sourcing power from other departments, players and the game world.
+  - Самый слабый путь еретика в прямом бою, безусловно.
+  - Очень ограниченные преимущества в прямом бою.
+  - У вас нет защитных преимуществ или иммунитетов.
+  - Нет мобильности или прямой дополнительной телепортации.
+  - Сильно зависит от получения силы от других отделов, игроков и игрового мира.
 
-  ## Knowledge
+  ## Знания
 
   <Table Columns="3">
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Knowledge Name</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Ingredients/Type</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Description</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Название Знания</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Ингредиенты/Тип</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Описание</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">A Steward's Secret</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Knife, Crowbar</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Creates a key blade.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Секрет Стюарда</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Нож, Лом</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт клинок-ключ.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Grasp of Lock</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Passive Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Your grasp can unlock anything.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Хватка Замка</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваша хватка может открыть что угодно.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Key Keepers Burden</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Door, ID Card, Iron rod</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Creates a Eldritch Card, allows you to link two doors to be portals for heretics, but randomly teleport heathens. It can also absorb access from id card by eating them.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Бремя Хранителя Ключей</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Дверь, ID-карта, Железный стержень</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт Потустороннюю Карту, позволяющую связать две двери в качестве порталов для еретиков, но случайным образом телепортирующую язычников. Также может поглощать доступ с ID-карты, съедая её.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Concierge's Rite</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Crayon, Wooden plank, Multitool</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Creates a labyrinth handbook, a magic item that can materialize barricades that noone can pass.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Обряд Консьержа</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Мелок, Деревянная доска, Мультитул</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт лабиринтовый справочник, магический предмет, способный материализовать баррикады, которые никто не может пройти.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Burglar's Finesse</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Passive Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Alt-click target with your blade in combat mode to steal their held item.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Изящество Взломщика</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Альт-клик по цели вашим клинком в Боевом Режиме крадёт предмет, который она держит в руках.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Opening Blade</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Passive Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Your blade is now better at wounding and can cause weeping avulsion on attack.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Отпирающий Клинок</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваш клинок теперь лучше наносит раны и может вызывать плачущий разрыв при атаке.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Wrong Key</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Screwdriver, insulated gloves, wirecutter</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">An item that traps doors causing them to pull and crush heathens.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Неверный Ключ</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Отвёртка, изолированные перчатки, кусачки</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Предмет, устанавливающий на двери ловушки, из-за которых они затягивают и раздавливают язычников.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Unlock the Labyrinth</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Three corpses with removed hearts</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Creates a labyrinth portal that rapidly summons creatures from Mansus, loyal to you. You get pressure and temperature immunity. Your blades are even deadlier. You can shapeshift into empowered creatures of Mansus.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Отпереть Лабиринт</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Три трупа с удалёнными сердцами</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт лабиринтовый портал, который быстро призывает существ из Мансуса, преданных вам. Вы получаете иммунитет к давлению и температуре. Ваши клинки становятся ещё смертоноснее. Вы можете превращаться в усиленных существ Мансуса.</Box></ColorBox>
   </Table>
 
 
-  ## Armor and Passive Ability
+  ## Броня и Пассивная Способность
 
   <Table Columns="2">
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Name</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Effect</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Название</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Эффект</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">T1 Passive</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5"></Box>Grants you one free side knowledge for every tier.</ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">1 ур. Пассивная</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5"></Box>Даёт вам одно бесплатное побочное знание за каждый уровень.</ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Shifting Guise</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Hides you from camera vision and from people far away, muffles footsteps and conceals your voice.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Меняющийся Облик</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Скрывает вас от камер наблюдения и от людей вдалеке, приглушает шаги и маскирует голос.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">T2 Passive</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Your grasp no longer goes on cooldown from opening locks.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">2 ур. Пассивная</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваша хватка больше не уходит на перезарядку от открывания замков.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">T3 Passive</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">X-ray vision.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">3 ур. Пассивная</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Рентгеновское зрение.</Box></ColorBox>
   </Table>
 
 
-  ## Tips
+  ## Советы
 
-  - Your mansus grasp allows you to access everything, from airlocks, consoles and even exosuits, but it has no additional effects on players. It will however leave a mark that when triggered will make your victim unable to leave the room you are in.
-  - Your blade also functions as a crowbar! You can store it in utility belts And, in a pitch, use it to force open an airlock.
-  - Weeping avulsion triggered by your blade cannot be healed by topicals and chemicals, requiring surgery to heal.
-  - Triggering weeping avulsion on mangled torso force opens its ribcage, allowing you to easier ascend by removing heart via surgery.
-  - Your Eldritch ID can create a portal between 2 different airlocks. Useful if you want to establish a secret base.
-  - Use your labyrinth book to shake off pursuers. It creates impassible walls to anyone.
+  - Ваша хватка мансуса позволяет получить доступ ко всему - от шлюзов и консолей до экзокостюмов, но не имеет дополнительных эффектов на игроков. Однако она оставит метку, которая при активации лишит вашу жертву возможности покинуть комнату, в которой вы находитесь.
+  - Ваш клинок также работает как лом! Вы можете хранить его в поясе для инструментов и, в крайнем случае, использовать, чтобы взломать шлюз.
+  - Плачущий разрыв, вызванный вашим клинком, невозможно вылечить местными средствами и химикатами - требуется хирургическое вмешательство.
+  - Вызов плачущего разрыва на изувеченном торсе принудительно вскрывает его грудную клетку, позволяя вам легче вознестись, удалив сердце с помощью хирургии.
+  - Ваша Потусторонняя ID-карта может создать портал между 2 разными шлюзами. Полезно, если вы хотите обустроить тайную базу.
+  - Используйте свою лабиринтовую книгу, чтобы оторваться от преследователей. Она создаёт непроходимые стены для всех.
 
 </Document>

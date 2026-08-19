@@ -1,101 +1,101 @@
 <Document>
 
-  # Path of Flesh
+  # Путь Плоти
 
-  Difficulty: [color=yellow]Varies[/color]
+  Сложность: [color=yellow]Разная[/color]
 
-  The Path of Flesh revolves around summoning ghouls and monstrosities to do your bidding.
-  Pick this path if you enjoy the fantasy of being a necromancer commanding legions of allies.
+  Путь Плоти вращается вокруг призыва вурдалаков и чудовищ, исполняющих вашу волю.
+  Выбирайте этот путь, если вам нравится фантазия о некроманте, командующем легионами союзников.
 
-  ## Pros
+  ## Плюсы
 
-  - Can turn dead humanoids into fragile but loyal ghouls.
-  - Strong mark effect.
-  - Access to a versatile list of summoned minions.
-  - Your summons are very versatile and can quickly overwhelm the crew should you coordinate your attacks
-  - Eating organs and body parts grants various boons (depending on your path stage).
+  - Способность превращать мёртвых гуманоидов в хрупких, но преданных вурдалаков.
+  - Сильный эффект метки.
+  - Доступ к разнообразному списку призываемых миньонов.
+  - Ваши призванные существа очень универсальны и способны быстро подавить экипаж, если вы скоординируете свои атаки.
+  - Поедание органов и частей тела даёт различные бонусы (в зависимости от стадии вашего пути).
 
-  ## Cons
+  ## Минусы
 
-  - A high degree of your progression is obtaining additional summoned monsters.
-  - You have very little utility beyond your summoned monsters.
-  - You gain no inherent access to defensive, offensive or mobility spells.
-  - You are mostly focused around supporting your minions.
+  - Значительная часть вашего прогресса заключается в получении дополнительных призванных монстров.
+  - У вас очень мало возможностей, помимо призванных монстров.
+  - Вы не получаете врождённого доступа к защитным, наступательным заклинаниям или заклинаниям мобильности.
+  - Вы в основном сосредоточены на поддержке своих миньонов.
 
-  ## Knowledge
+  ## Знания
 
   <Table Columns="3">
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Knowledge Name</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Ingredients/Type</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Description</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Название Знания</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Ингредиенты/Тип</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Описание</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Principle of Hunger</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Knife, Blood</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Creates a bloody blade.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Принцип Голода</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Нож, Кровь</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт кровавый клинок.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Grasp of Flesh</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Passive Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Your grasp can raise the dead as loyal ghouls.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Хватка Плоти</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваша хватка может поднимать мёртвых как преданных вурдалаков.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Mark of Flesh</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Passive Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Your grasp will now apply the flesh mark, creating flesh mimic of the victim that attack them when triggered.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Метка Плоти</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваша хватка теперь накладывает метку плоти, создавая плотяного двойника жертвы, который атакует её при активации.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Imperfect Ritual</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Corpse, Muzzle</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Raises the corpse as a Voiceless Dead, a strong, but silent minion.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Несовершенный Ритуал</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Труп, Намордник</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Поднимает труп как Безмолвного Мертвеца, сильного, но безмолвного миньона.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Knitting of Flesh</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Active Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Grants a spell that works as all surgical tools, heals minions, and provides health analysis and hud.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Плетение Плоти</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Даёт заклинание, работающее как все хирургические инструменты, лечит миньонов, а также предоставляет анализ здоровья и худ.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Raw Ritual</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Eyes, Stomach, Blood</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Summons a raw prophet, an entity that can link your summons minds via the mansus link. It is also a strong scout and heals heretics and monsters around it.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Сырой Ритуал</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Глаза, Желудок, Кровь</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Призывает сырого пророка, существо, способное связывать разумы ваших призванных существ через связь мансуса. Также является сильным разведчиком и лечит еретиков и монстров вокруг себя.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Bleeding Steel</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Passive Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Your bloody blades now cause heavy bleeding on attack.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Кровоточащая Сталь</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваши кровавые клинки теперь вызывают сильное кровотечение при атаке.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Lonely Ritual</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Heart, Stomach, Lung, Pen</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Summons a flesh stalker, a strong combat summon with a jaunt, shapeshift and EMP.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Одинокий Ритуал</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Сердце, Желудок, Лёгкое, Ручка</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Призывает плотяного охотника, сильного боевого призванного с рывком, сменой облика и ЭМИ.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Priest's Final Hymn</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Four corpses</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">You can now shapeshift into extremely powerful creature. Ghoul limit increased. Knit Flesh can now be used in hand to heal ghouls in area.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Последний Гимн Жреца</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Четыре трупа</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Теперь вы можете превращаться в чрезвычайно мощное существо. Лимит вурдалаков увеличен. Плетение Плоти теперь можно использовать в руке, чтобы лечить вурдалаков в области действия.</Box></ColorBox>
   </Table>
 
 
-  ## Armor and Passive Ability
+  ## Броня и Пассивная Способность
 
   <Table Columns="2">
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Name</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Effect</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Название</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Эффект</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">T1 Passive</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5"> You heal from eating raw meat and organs, as well as become immune to diseases and damage from poisons.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">1 ур. Пассивная</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5"> Вы восстанавливаете здоровье, поедая сырое мясо и органы, а также становитесь невосприимчивы к болезням и урону от ядов.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Writhing Embrace</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Chance to split into loyal flesh mimic upon taking damage.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Извивающиеся Объятия</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Шанс расщепиться на преданного плотяного двойника при получении урона.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">T2 Passive</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ghoul limit increased.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">2 ур. Пассивная</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Лимит вурдалаков увеличен.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">T3 Passive</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Medical hud.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">3 ур. Пассивная</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Медицинский худ.</Box></ColorBox>
   </Table>
 
 
-  ## Tips
+  ## Советы
 
-  - Your Mansus Grasp allows you to turn dead humanoids into ghouls (even mindshielded humanoids like security officers and the captain). It also Leaves a mark that spawns a loyal flesh mimic when triggered by your bloody blade.
-  - As a Flesh Heretic, organs and dead bodies are your best friends! You can use them for rituals, to heal or to gain buffs.
-  - You can recall your ghouls or summonned creatures by [color=yellow]Alt-Clicking[/color] the ritual rune using your mansus grasp.
-  - Your Flesh Surgery spell can heal your summons. It also acts like a good surgery tool that bypasses surgery steps and works through clothes.
-  - Raw Prophets can link you and other summons in a telepathic network, allowing for long distance co-ordination. They also have healing aura for you and your minions.
-  - Flesh Stalkers are decent combatants with the ability to disguise themselves as various creatures. They can also utilize an EMP spell.
-  - Your success with this path is reliant on how knowledgable or robust your minions are. However, there is always power in numbers; the more minions, the higher your chances of success.
-  - Your minions are more expendable than you are. Do not be afraid to tell them to go to their deaths. You can just recover them later... maybe.
+  - Ваша Хватка Мансуса позволяет превращать мёртвых гуманоидов в вурдалаков (даже гуманоидов с щитом разума, таких как офицеры службы безопасности и капитан). Также оставляет метку, которая при активации вашим кровавым клинком порождает преданного плотяного двойника.
+  - Как Еретик Плоти, органы и мёртвые тела - ваши лучшие друзья! Вы можете использовать их для ритуалов, лечения или получения баффов.
+  - Вы можете отозвать своих вурдалаков или призванных существ, кликнув [color=yellow]Альт-кликом[/color] по ритуальной руне, держа Хватку Мансуса.
+  - Ваше заклинание Хирургия Плоти может лечить ваших призванных существ. Оно также действует как хороший хирургический инструмент, пропускающий этапы операции и работающий сквозь одежду.
+  - Сырые Пророки могут связать вас и других призванных существ в телепатическую сеть, позволяя координироваться на большом расстоянии. Также обладают лечащей аурой для вас и ваших миньонов.
+  - Плотяные Охотники - неплохие бойцы, способные маскироваться под различных существ. Они также могут использовать заклинание ЭМИ.
+  - Ваш успех на этом пути зависит от того, насколько знающими или крепкими являются ваши миньоны. Однако в числе всегда есть сила - чем больше миньонов, тем выше ваши шансы на успех.
+  - Ваши миньоны более расходуемы, чем вы сами. Не бойтесь отправлять их на смерть. Позже вы всегда сможете их восстановить... возможно.
 
 </Document>

@@ -1,37 +1,37 @@
 <Document>
-  # Nullrod Forms
-  Nullrods can be transformed to unique forms by using them on an altar.
+  # Формы Нуль-Жезла
+  Нуль-жезлы можно превратить в уникальные формы, используя их на алтаре.
 
-  ## Altar replacement
-  Altars can be set to fit your desired look by applying a required item to the base altar, you can remove the applied item to return the altar to base form using a crowbar.
-  WARNING: Nullrod transformation is a non-reversible process, so choose wisely.
+  ## Замена алтаря
+  Алтари можно настроить под желаемый внешний вид, применив к базовому алтарю необходимый предмет; вы можете снять применённый предмет, чтобы вернуть алтарь в базовую форму, с помощью лома.
+  ПРЕДУПРЕЖДЕНИЕ: превращение нуль-жезла - необратимый процесс, так что выбирайте с умом.
 
-  ## Nullrod
-  Old reliable, the nullrod you will arrive on station with. Typically changed out from instantly due to having no special ability, but using it is a real flex of how robust you are.
+  ## Нуль-жезл
+  Старый добрый нуль-жезл, с которым вы прибудете на станцию. Обычно меняется сразу же, так как не обладает особыми способностями, но использовать его - настоящий показатель того, насколько вы крепки.
   <Box>
     <GuideEntityEmbed Entity="Nullrod"/>
     <GuideEntityEmbed Entity="AltarConvert"/>
     <GuideEntityEmbed Entity="Crowbar"/>
   </Box>
 
-  ## Arrythmic Knife
-  Provides the user with a randomized movespeed boost periodically. Could help you chase down an unholy enemy, but could also slow you to a crawl while you try to escape.
+  ## Аритмичный Нож
+  Периодически даёт пользователю случайный прирост скорости передвижения. Может помочь вам догнать нечестивого врага, но также может замедлить вас до черепашьего шага, пока вы пытаетесь сбежать.
   <Box>
     <GuideEntityEmbed Entity="ArrythmicKnife"/>
     <GuideEntityEmbed Entity="AltarFangs"/>
     <GuideEntityEmbed Entity="FoodMeatBacon"/>
   </Box>
 
-  ## Bulwark
-  Stand as the lord protector. A truely powerful shield capable of blocking all hostile attacks when positioned on a tile. Additonally can be used to dash a short distance periodically, which will knockback and harm anyone hit along the way.
+  ## Бастион
+  Встаньте на защиту, как лорд-protector. Поистине мощный щит, способный блокировать все вражеские атаки, если находится на плитке. Также может периодически использоваться для рывка на короткое расстояние, отбрасывая и раня всех, кто попадётся на пути.
   <Box>
     <GuideEntityEmbed Entity="Bulwark"/>
     <GuideEntityEmbed Entity="AltarConvertBlue"/>
     <GuideEntityEmbed Entity="MakeshiftShield"/>
   </Box>
 
-  ## Casul and Jackal
-  A pair of holy pistols and a snazzy belt to store them in. Can only be fired together. Pray to reload.
+  ## Казул и Шакал
+  Пара святых пистолетов и стильный пояс для их хранения. Могут стрелять только вместе. Молитесь, чтобы перезарядить.
   <Box>
     <GuideEntityEmbed Entity="ClothingBeltHolsterFilledChaplain"/>
     <GuideEntityEmbed Entity="WeaponPistolCasul"/>
@@ -40,80 +40,80 @@
     <GuideEntityEmbed Entity="MicroManipulatorStockPart"/>
   </Box>
 
-  ## Faith
-  A dinky pistol that heals people with bullets, don't ask. Applies holy damage to unholy enemies with the same bullets. Pray to reload.
+  ## Вера
+  Крошечный пистолет, который лечит людей пулями, не спрашивайте. Наносит святой урон нечестивым врагам теми же пулями. Молитесь, чтобы перезарядить.
   <Box>
     <GuideEntityEmbed Entity="WeaponPistolFaith"/>
     <GuideEntityEmbed Entity="AltarConvertWhite"/>
     <GuideEntityEmbed Entity="IngotSilver1"/>
   </Box>
 
-  ## God Hand
-  God's blessing to his most trusted chaplain. Applies fire and holyfire stacks on attack. Has the same pry ability as a crowbar. Unremovable.
+  ## Длань Господня
+  Благословение Бога своему самому доверенному священнику. Накладывает стаки огня и святого огня при атаке. Обладает такой же способностью взлома, как и лом. Не снимается.
   <Box>
     <GuideEntityEmbed Entity="GodHand"/>
     <GuideEntityEmbed Entity="AltarChaos"/>
     <GuideEntityEmbed Entity="SheetPlasma1"/>
   </Box>
 
-  ## Grey Emperor's Glove
-  Lead the tider's to gods light. An unremovable insulated hand with most every tool you would require to lead the greytide. Use item in-hand to cycle through tool selection.
+  ## Перчатка Серого Императора
+  Ведите тайдеров к свету богов. Несъёмная изолированная рука почти со всеми инструментами, которые вам понадобятся, чтобы возглавить серую волну. Используйте предмет в руке, чтобы переключаться между инструментами.
   <Box>
     <GuideEntityEmbed Entity="UristHand"/>
     <GuideEntityEmbed Entity="AltarConvertMaint"/>
     <GuideEntityEmbed Entity="ClothingHandsGlovesColorYellowBudget"/>
   </Box>
 
-  ## Honkmother's Maw
-  HONK! A huge clown mask imbued with the power of the honkmother. Knocks down on hit. Don't be surprised if the clown steals this from you.
+  ## Пасть Матери Хонка
+  ХОНК! Огромная клоунская маска, наделённая силой Матери Хонка. Сбивает с ног при попадании. Не удивляйтесь, если клоун украдёт её у вас.
   <Box>
     <GuideEntityEmbed Entity="HonkmotherMaw"/>
     <GuideEntityEmbed Entity="AltarBananium"/>
     <GuideEntityEmbed Entity="MaterialBananium1"/>
   </Box>
 
-  ## Holy Chainsaw
-  An unremovable chainsaw. Must be wielded to attack. I mean, it's a chainsaw that does holy damage.
+  ## Святая Бензопила
+  Несъёмная бензопила. Для атаки её нужно держать в руках. Ну, это же бензопила, наносящая святой урон.
   <Box>
     <GuideEntityEmbed Entity="HolyChainsaw"/>
     <GuideEntityEmbed Entity="AltarToolbox"/>
     <GuideEntityEmbed Entity="ToolboxEmergency"/>
   </Box>
 
-  ## Holy Claywmore
-  DEUS VULT! Can fire a marking projectile, which upon being attacked will heal brute, asphyxiation and blododloss of the wielder.
+  ## Святой Клеймор
+  DEUS VULT! Может выстрелить меткой-снарядом, при попадании по которой атака исцелит владельца от урона от ударов, удушья и кровопотери.
   <Box>
     <GuideEntityEmbed Entity="HolyClaymore"/>
     <GuideEntityEmbed Entity="AltarHeaven"/>
     <GuideEntityEmbed Entity="ClothingHeadHelmetTemplar"/>
   </Box>
 
-  ## Iradomini
-  A powerful crossbow, must be weilded to fire. Fires a single VERY powerful holy arrow, which will disappear after a minute. Takes a long time to reload via prayer, position wisely.
+  ## Ирадомини
+  Мощный арбалет, для стрельбы его нужно держать в руках. Стреляет одной ОЧЕНЬ мощной святой стрелой, которая исчезает через минуту. Перезарядка молитвой занимает много времени, выбирайте позицию с умом.
   <Box>
     <GuideEntityEmbed Entity="WeaponPistolIradomini"/>
     <GuideEntityEmbed Entity="AltarConvertOrange"/>
     <GuideEntityEmbed Entity="BowImprovised"/>
   </Box>
 
-  ## Monk Staff
-  In simple terms? A big stick. Launch a flurry of attacks to deal stamina damage on hit, very useful for chasing down the unholy.
+  ## Посох Монаха
+  Проще говоря? Большая палка. Совершает серию ударов, нанося урон по выносливости при попадании, очень полезен для преследования нечестивых.
   <Box>
     <GuideEntityEmbed Entity="MonkStaff"/>
     <GuideEntityEmbed Entity="AltarDruid"/>
     <GuideEntityEmbed Entity="MaterialWoodPlank1"/>
   </Box>
 
-  ## Ratvarian Spear
-  Oh? Prefer the old gods? Well heres the nullrod for you. A one-handed spear imbued with the power of ratvar. Can store more chemicals than usual spears, and applies a large amount of holy damage when thrown.
+  ## Ратварианское Копьё
+  О? Предпочитаете старых богов? Что ж, вот нуль-жезл для вас. Одноручное копьё, наделённое силой Ратвара. Способно хранить больше химикатов, чем обычные копья, и наносит огромный святой урон при броске.
   <Box>
     <GuideEntityEmbed Entity="RatvarianSpear"/>
     <GuideEntityEmbed Entity="AltarClock"/>
     <GuideEntityEmbed Entity="PowerCellSmallPrinted"/>
   </Box>
 
-  ## Rosary
-  Support Mains rejoice. Area of Effect heal on pray, but also harms the unholy who are also nearby.
+  ## Чётки
+  Саппорт-мейны, радуйтесь. Массовое лечение по области при молитве, но также причиняет вред находящимся поблизости нечестивым.
   <Box>
     <GuideEntityEmbed Entity="Rosary"/>
     <GuideEntityEmbed Entity="AltarSpaceChristian"/>

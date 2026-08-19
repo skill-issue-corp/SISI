@@ -1,16 +1,16 @@
 <Document>
 
-  # Armstrong Style Karate
+  # Каратэ Стиля Армстронга
 
   <Box>
     <TextureEmbed Sprite="_Trauma/Interface/Misc/armstrongkarate.rsi" State="icon"/>
   </Box>
 
-  A style of Karate developed out of pain and self reflection.
+  Стиль карате, рождённый из боли и самоанализа.
 
-  ## Combo attacks
+  ## Комбо-атаки
 
-  ### Buster punches
+  ### Бастер-удары
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
@@ -18,9 +18,9 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
   </Box>
 
-  An armstrong classic.
+  Классика от Армстронга.
 
-  ### Dropkick
+  ### Дропкик
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
@@ -29,9 +29,9 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
   </Box>
 
-  A flying double foot press.
+  Летящий удар двумя ногами.
 
-  ### Machine gun fist
+  ### Пулемётный кулак
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
@@ -40,9 +40,9 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
   </Box>
 
-  A flurry of punches.
+  Шквал ударов кулаками.
 
-  ### Fireball
+  ### Огненный шар
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
@@ -50,9 +50,9 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
   </Box>
 
-  A blast of flaming emotion.
+  Взрыв пылающих эмоций.
 
-  ### Headbutt
+  ### Удар головой
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
@@ -60,9 +60,9 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
   </Box>
 
-  A full force slam with your head.
+  Удар головой с полной силой.
 
-  ### Horse Stance
+  ### Стойка Всадника
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
@@ -70,6 +70,6 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
   </Box>
 
-  Assume a sturdy Horse Stance.
+  Примите устойчивую Стойку Всадника.
 
 </Document>

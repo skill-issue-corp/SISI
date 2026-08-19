@@ -12,29 +12,29 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Revolutionaries
+  # Революционеры
 
   <Box>
-    [color=#999999][italic]"Viva la revolución!!"[/italic][/color]
+    [color=#999999][italic]«Viva la revolución!!»[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="PosterContrabandRevolt" Caption=""/>
   </Box>
 
-  Revolutionaries are conversion antagonists composed of the Nanotrasen working class, they need to take control of the station by building giant war factories.
+  Революционеры - это антагонисты обращения, состоящие из рабочего класса Nanotrasen, им нужно захватить контроль над станцией, построив гигантские военные фабрики.
 
-  ## The Most Important Thing of All!
-  As a head Revolutionary, you are a leader, not a frontliner, delegate tasks to your revolutionaries or they will not know what to do.
+  ## Самое главное!
+  Будучи Головным Революционером, вы - лидер, а не боец переднего края, делегируйте задачи своим революционерам, иначе они не будут знать, что делать.
 
-  ## Objectives
-  You must kill, convert, or exile all of the [textlink="Command staff" link="Command"] on station in no particular order.
+  ## Цели
+  Вам нужно убить, обратить или изгнать со станции весь [textlink="командный состав" link="Command"] в любом порядке.
 
-  Your objective is not to destroy the station, but [italic]take it over[/italic], so try to minimize damage where possible.
+  Ваша цель - не уничтожить станцию, а [italic]захватить её[/italic], поэтому старайтесь минимизировать урон, где это возможно.
 
-  [bold]The revolution will fail[/bold] if all of the [bold][color=#5e9cff]Head Revolutionaries[/color][/bold] die, and all [color=red]Revolutionaries[/color] will de-convert if this happens.
+  [bold]Революция потерпит поражение[/bold], если умрут все [bold][color=#5e9cff]Головные Революционеры[/color][/bold], и все [color=red]Революционеры[/color] обратятся обратно, если это произойдёт.
 
-  ## Headrevs & Conversion
-  [bold][color=#5e9cff]Head Revolutionaries[/color][/bold] are chosen at the start of the shift and begin with a [color=cyan]mace[/color], [color=cyan]two propaganda pamphlets[/color], [color=cyan]handcuffs[/color] and some starting [color=cyan]components[/color].
+  ## Головные Ревы и Обращение
+  [bold][color=#5e9cff]Головные Революционеры[/color][/bold] выбираются в начале смены и начинают с [color=cyan]булавой[/color], [color=cyan]двумя пропагандистскими памфлетами[/color], [color=cyan]наручниками[/color] и некоторыми начальными [color=cyan]компонентами[/color].
 
   <Box>
     <GuideEntityEmbed Entity="RevMace"/>
@@ -43,36 +43,36 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="RevGear"/>
   </Box>
 
-  You can convert crew members to your side by stunning them with the [color=#ff0000]mace[/color], cuffing them, and reading [color=#ff0000]propaganda[/color] to them (by clicking them with propaganda in hand.)Be sure to take off the targets headset, otherwise they could call for help!
+  Вы можете обращать членов экипажа на свою сторону, оглушая их [color=#ff0000]булавой[/color], надевая наручники и зачитывая им [color=#ff0000]пропаганду[/color] (кликнув по ним, держа пропаганду в руке). Обязательно снимите с цели гарнитуру, иначе она сможет позвать на помощь!
 
-  Another hurdle in your way are [color=cyan]mindshield implanters[/color]. These will:
-  - Prevent the implanted person from being converted into a [color=red]Revolutionary[/color]
-  - De-convert Revolutionaries, and will make them no longer loyal to your cause
-  - Visibly change appearance upon being implanted into a [bold][color=#5e9cff]Head Revolutionary[/color][/bold], giving away his cover and disabling your convert ability
+  Ещё одним препятствием на вашем пути являются [color=cyan]имплантеры миндшилда[/color]. Они будут:
+  - Препятствовать обращению имплантированного человека в [color=red]Революционера[/color]
+  - Обращать Революционеров обратно, лишая их верности вашему делу
+  - Заметно менять внешность, если имплант вживить в [bold][color=#5e9cff]Головного Революционера[/color][/bold], раскрывая его прикрытие и отключая его способность обращать
 
-  Assume all of [color=#cb0000]Security[/color] and [color=#1b67a5]Command[/color] are implanted with mindshields already.
+  Считайте, что весь [color=#cb0000]Отдел Безопасности[/color] и [color=#1b67a5]Командный состав[/color] уже имплантированы мindshield-имплантами.
 
-  You are able to remove mindshields with [color=red]Shield Rippers[/color] once you unlock them.
+  Вы можете удалять мindshield-импланты с помощью [color=red]Разрушителей Щита[/color], как только откроете их.
 
   <Box>
     <GuideEntityEmbed Entity="RevShieldRipper"/>
   </Box>
 
-  ## Factory Building and Tech
+  ## Постройка фабрик и технологии
 
-  The [bold][color=red]most important part[/color][/bold] of being a headrev is making proper factories, this allows you to expand your tech tree and get more [color=red]dangerous[/color] and powerful items to arm your revs with. Keep in mind that rev buildings are [color=red][bold]very loud[/bold][/color], and you will need to be isolated and have defenses before long!
+  [bold][color=red]Самая важная часть[/color][/bold] игры за головного рева - это постройка правильных фабрик, это позволяет вам расширять ваше дерево технологий и получать более [color=red]опасные[/color] и мощные предметы, чтобы вооружить своих ревов. Учтите, что здания ревов [color=red][bold]очень шумные[/bold][/color], и вам вскоре понадобится изоляция и оборона!
 
-  ### Industrial Forge
+  ### Промышленная кузница
 
-  You should [bold][color=red]ALWAYS[/color][/bold] start by making a forge, more than one if you can afford it. Good rev bases have 4-5 forges constantly producing parts.
+  Вам следует [bold][color=red]ВСЕГДА[/color][/bold] начинать с постройки кузницы, и не одной, если можете себе это позволить. У хороших баз ревов есть 4-5 кузниц, постоянно производящих детали.
 
   <Box>
     <GuideEntityEmbed Entity="RevForge"/>
   </Box>
 
-  It allows you to [color=cyan]create parts[/color] for other machines, as well as some basic armor and weaponry, this includes important items such as the mace, which is your primary stun weapon.
+  Она позволяет вам [color=cyan]создавать детали[/color] для других механизмов, а также базовую броню и оружие, включая такие важные предметы, как булава - ваше основное оружие для оглушения.
 
-  Here are some example items it can make:
+  Вот несколько примеров предметов, которые она может создать:
   <Box>
     <GuideEntityEmbed Entity="RevGear"/>
     <GuideEntityEmbed Entity="RevNut"/>
@@ -81,15 +81,15 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="RevSwordBlade"/>
   </Box>
 
-  ### Printing Press
+  ### Печатный станок
 
-  The printing press is the second most important rev building, it allows the [color=cyan]creation of propaganda[/color], your conversion item. However, it takes very long to produce, so you should create more than one.
+  Печатный станок - второе по важности здание ревов, оно позволяет [color=cyan]создавать пропаганду[/color] - ваш предмет для обращения. Однако его производство занимает очень много времени, так что вам стоит построить не один.
 
- <Box>
+  <Box>
     <GuideEntityEmbed Entity="RevPrintingPress"/>
   </Box>
 
-  To get paper, you can have your revs print nanotasks from their PDA, and then craft it into paper for the press, dont be afraid to delegate!
+  Чтобы получить бумагу, попросите своих ревов распечатать нанозадачи со своих ПДА, а затем скрафтить из них бумагу для станка, не бойтесь делегировать!
 
   <Box>
     <GuideEntityEmbed Entity="PaperNanoTaskItem"/>
@@ -97,9 +97,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="RevPropaganda"/>
   </Box>
 
-  ### Tier 2 Rev Tech
+  ### Технологии ревов 2 уровня
 
-  After getting your basic factory setup, you can start branching out on the tech tree to get some T2 rev tech.
+  После настройки базовой фабрики вы можете начать развиваться по дереву технологий, чтобы получить технологии ревов Т2.
 
   <Box>
     <GuideEntityEmbed Entity="RevPrinter"/>
@@ -112,9 +112,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="RevBulletPress"/>
   </Box>
 
-  All of these buildings have unique requirements to make, such as a security encryption key for the telecommmunications workshop. Once you get these items you can use them to construct the said devices.
+  Для постройки всех этих зданий требуются уникальные компоненты, например ключ шифрования безопасности для мастерской телекоммуникаций. Получив эти предметы, вы сможете использовать их для постройки указанных устройств.
 
-  These buildings give access to unique and powerfull items, here are a few examples:
+  Эти здания дают доступ к уникальным и мощным предметам, вот несколько примеров:
 
   <Box>
     <GuideEntityEmbed Entity="PinpointerCommand"/>
@@ -123,9 +123,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="EncryptionKeyRev"/>
   </Box>
 
-  ### Tier 3 Rev Tech
+  ### Технологии ревов 3 уровня
 
-  Tier 3 Rev tech is the best technology revs can scrap together. They all provide access to the strongest items avalible to the revolutionaries.
+  Технологии ревов 3 уровня - лучшее, что могут собрать ревы. Все они дают доступ к самым сильным предметам, доступным революционерам.
 
   <Box>
     <GuideEntityEmbed Entity="RevTelesphere"/>
@@ -133,7 +133,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="RevPlasmaFoundry"/>
   </Box>
 
-  However; to make any of these you need to kill a head of staff! They all require unique items that no one but the heads of staff have access to.
+  Однако для постройки любого из них вам нужно убить главу отдела! Все они требуют уникальных предметов, доступ к которым есть только у глав отделов.
 
   <Box>
     <GuideEntityEmbed Entity="HandTeleporter"/>
@@ -141,9 +141,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="BoxFolderQmClipboard"/>
   </Box>
 
-  Consider sending a strike team of revolutionaries to assassinate these heads of staff and retrieve the said items, any of them can be a gamechanger!
+  Подумайте об отправке ударной группы революционеров, чтобы убить этих глав отделов и забрать указанные предметы, любой из них может кардинально изменить ход игры!
 
-  Here are a few T3 rev tech items:
+  Вот несколько предметов технологий ревов Т3:
 
   <Box>
     <GuideEntityEmbed Entity="RevCircuitBoard"/>
@@ -151,11 +151,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="CartridgeRocketRPG2HE"/>
   </Box>
 
-  ## Revolutionary
-  A [bold][color=red]Revolutionary[/color][/bold] is a crew member that has been converted by a [bold][color=#5e9cff]Head Revolutionary[/color][/bold].
+  ## Революционер
+  [bold][color=red]Революционер[/color][/bold] - это член экипажа, который был обращён [bold][color=#5e9cff]Головным Революционером[/color][/bold].
 
-  [bold][color=red]Revolutionaries[/color] can't convert people themselves,[/bold] but they're more than capable of doing dirty work and carrying out orders.
+  [bold][color=red]Революционеры не могут обращать людей сами,[/bold] но они более чем способны выполнять грязную работу и исполнять приказы.
 
-  As a [bold][color=red]Revolutionary[/color][/bold] listen to your headrevs!
+  Будучи [bold][color=red]Революционером[/color][/bold], слушайте своих головных ревов!
 
 </Document>

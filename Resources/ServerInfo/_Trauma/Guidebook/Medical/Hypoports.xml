@@ -1,55 +1,55 @@
 <Document>
-# Hyposprays
+  # Гипоспреи
 
-On Inky Station, hyposprays aren't magic and need the target to have a [bold]Hypoport[/bold] surgically installed in their neck to transfer liquids.
+  На Inky Station гипоспреи не магические и требуют, чтобы у цели был хирургически установлен в шею [bold]Гипопорт[bold], чтобы можно было передавать жидкости.
 
-You will also need to be [bold]soft-grabbing[/bold] (pulling) the target if you want to inject someone else.
+  Также вам нужно будет [bold]мягко удерживать[/bold] (тянуть) цель, если вы хотите ввести инъекцию кому-то другому.
 
-However since they are now more in depth, medical has vial-fed [color=cyan]medical hyposprays[/color] roundstart. The CMO's [color=red]prototype hypospray[/color] holds 50u and can draw from containers directly, keeping it as the superior tool.
+  Однако, поскольку теперь они устроены сложнее, у медицины с самого начала раунда есть [color=cyan]медицинские гипоспреи[/color], работающие на пробирках. [color=red]Прототипный гипоспрей[/color] Главного врача вмещает 50u и может набирать жидкость напрямую из контейнеров, оставаясь превосходным инструментом.
 
-<GuideEntityEmbed Entity="MedicalHyposprayFilled"/>
+  <GuideEntityEmbed Entity="MedicalHyposprayFilled"/>
 
-Medical hyposprays can be cheaply made and got from any Nanomed Plus vending machine.
-They have no internal reservoir, instead feeding from vials like in RMC14.
-Very useful to have for patients that have hypoports!
+  Медицинские гипоспреи можно дёшево изготовить или получить из любого торгового автомата Nanomed Plus.
+  У них нет внутреннего резервуара, вместо этого они питаются от пробирок, как в RMC14.
+  Очень полезная вещь для пациентов, у которых установлен гипопорт!
 
-# Hypoports
+  # Гипопорты
 
-<Box>
-  <GuideEntityEmbed Entity="Hypoport"/>
-  <GuideEntityEmbed Entity="HypoportSecure"/>
-  <GuideEntityEmbed Entity="HypoportSecureNukie" Caption="Nukie-locked version"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="Hypoport"/>
+    <GuideEntityEmbed Entity="HypoportSecure"/>
+    <GuideEntityEmbed Entity="HypoportSecureNukie" Caption="Версия, заблокированная для нюки"/>
+  </Box>
 
-You can use the detailed health examine button to see if someone has a hypoport installed.
+  Вы можете использовать кнопку подробного осмотра здоровья, чтобы увидеть, установлен ли у кого-то гипопорт.
 
-The standard hypoport can be made at a medfab or exofab roundstart and allows anyone with a hypospray to easily inject you with medicines.
-This hypoport is what you get for free as a station role, unless you enable the [bold]No Hypoport[/bold] trait or remove it in-round.
+  Стандартный гипопорт можно изготовить на медфабе или экзофабе с самого начала раунда, и он позволяет любому с гипоспреем легко вводить вам лекарства.
+  Именно такой гипопорт вы получаете бесплатно как станционная роль, если только не включена черта [bold]Без гипопорта[/bold] или он не удалён в ходе раунда.
 
-[color=#c96dbf]Science[/color] is able to research [bold]secure hypoports[/bold] which check the user's ID.
-The access needed starts out as Medical, but can be changed using a multitool.
-When using this remember that if you lose your id, or someone steals it, you won't be able to inject yourself anymore, and they will!
-Keep this tradeoff in mind before rushing to replace your standard one.
+  [color=#c96dbf]Наука[/color] может исследовать [bold]защищённые гипопорты[/bold], которые проверяют ID пользователя.
+  Требуемый доступ изначально задан как Медицинский, но его можно изменить с помощью мультитула.
+  При использовании этого помните: если вы потеряете свой ID, или его у вас украдут, вы больше не сможете вводить себе инъекции самостоятельно, зато сможет тот, кто им завладеет!
+  Учитывайте этот компромисс, прежде чем спешить заменить свой стандартный гипопорт.
 
-# Nukies
+  # Нюки
 
-The team all starts with nukie-locked secure hypoports. As long as nobody loses their IDs, you will be safe from validhunters with hyposprays.
+  Вся команда изначально получает защищённые гипопорты, заблокированные под нюки. Пока никто не теряет свои ID, вы будете в безопасности от валидхантеров с гипоспреями.
 
-Should you buy reinforcements, even kobolds and monkeys, they won't have hypoports. You can choose to buy a 10TC nukie hypoport for them and install it.
+  Если вы покупаете подкрепление, даже коболдов и обезьян, у них не будет гипопортов. Вы можете купить гипопорт для нюки за 10TC и установить его им.
 
-Discuss with your commander and corpsman whether you should extract the hypoport from anyone going undercover, as it could arouse suspicion from astute metagamers.
+  Обсудите со своим командиром и медиком, стоит ли извлекать гипопорт у любого, кто отправляется под прикрытием, поскольку это может вызвать подозрения у внимательных метагеймеров.
 
-# Installation
+  # Установка
 
-First print or buy a hypoport of choice. Change its access if needed and start operating on the target's head.
+  Сначала напечатайте или купите гипопорт на выбор. При необходимости измените его доступ и начните операцию на голове цели.
 
-The first surgery to do is opening a hypoport cavity. Once you've done that you can install the hypoport separately.
+  Первая операция, которую нужно выполнить - это вскрытие полости для гипопорта. После этого вы можете отдельно установить сам гипопорт.
 
-# Hypoports as a traitor
+  # Гипопорты в руках предателя
 
-Because some players may choose to not have a hypoport, you can no longer rely on hypopen with nocturine being a guaranteed KO. As a result it's much cheaper (and you can just get a regular hypo anyway)
+  Поскольку некоторые игроки могут отказаться от гипопорта, вы больше не можете полагаться на гипопен с ноктюрином как на гарантированный нокаут. Из-за этого он стал намного дешевле (да и вы всё равно можете просто взять обычный гипо).
 
-If you are a traitor with a hypoport you can use it to easily heal yourself on the go. If you change a secure hypoport's access to Syndicate, an Agent ID will allow you alone to use it.
-Very handy if the doctors are carrying poisons on them, "just in case".
+  Если вы предатель с гипопортом, вы можете использовать его, чтобы легко лечить себя на ходу. Если вы измените доступ защищённого гипопорта на Синдикат, только Агентское ID позволит вам одному его использовать.
+  Очень удобно, если врачи носят при себе яды «на всякий случай».
 
 </Document>
