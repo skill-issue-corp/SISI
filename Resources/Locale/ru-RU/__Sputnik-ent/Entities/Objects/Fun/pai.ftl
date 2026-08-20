@@ -13,8 +13,8 @@ ent-PotatoAI = картофельный искусственный интелл�
 ent-ActionPAIOpenShop = Каталог Программ
     .desc = Установите новое программное обеспечение в помощь владельцу.
 
-ent-ActionPAIMassScanner = Масс-сканер
-    .desc = Просмотр интерфейса масс-сканера.
+ent-ActionPAIMassScanner = Сканер массы
+    .desc = Откройте интерфейс сканера массы.
 
 ent-ActionPAIPlayMidi = Играть MIDI
     .desc = Откройте портативный MIDI-интерфейс, чтобы успокоить владельца.

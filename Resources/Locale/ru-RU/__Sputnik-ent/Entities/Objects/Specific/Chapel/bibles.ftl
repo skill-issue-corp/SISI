@@ -1,4 +1,4 @@
-ent-ChaplainUndeterminedBible = маяк блюспейс-писания
+ent-ChaplainUndeterminedBible = маяк блюспейс писания
     .desc = Если я пойду и долиною смертной тени, не убоюсь зла, потому что Ты со мной.
 
 ent-Bible = космическая библия

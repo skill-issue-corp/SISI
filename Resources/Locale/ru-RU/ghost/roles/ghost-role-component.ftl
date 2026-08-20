@@ -175,16 +175,16 @@ ghost-role-information-tropico-name = Тропико
 ghost-role-information-tropico-description = Благородный спутник Атмосии и её самый стойкий защитник. Вива!
 
 ghost-role-information-guardian-name = Страж
-ghost-role-information-guardian-description = Слушайтесь своего владельца. Не танкуйте урон. Бейте людей сильно.
+ghost-role-information-guardian-description = Слушайтесь своего хозяина. Не танкуйте урон. Избивайте людей.
 
 ghost-role-information-holoparasite-name = Голопаразит
-ghost-role-information-holoparasite-description = Слушайтесь своего владельца. Не танкуйте урон. Бейте людей сильно.
+ghost-role-information-holoparasite-description = Слушайтесь своего хозяина. Не танкуйте урон. Бейте людей сильно.
 
 ghost-role-information-holoclown-name = Голоклоун
-ghost-role-information-holoclown-description = Слушайтесь своего владельца. Используйте свои карманы и руку, чтобы помочь владельцу.
+ghost-role-information-holoclown-description = Слушайтесь своего хозяина. Используйте свои карманы и руку, чтобы помочь владельцу.
 
 ghost-role-information-ifrit-name = Ифрит
-ghost-role-information-ifrit-description = Слушайтесь своего владельца. Не танкуйте урон. Бейте людей сильно.
+ghost-role-information-ifrit-description = Слушайтесь своего хозяина. Не танкуйте урон. Бейте людей сильно.
 
 ghost-role-information-space-dragon-name = Космический дракон
 ghost-role-information-space-dragon-description = Призовите 3 карповых разлома и захватите этот квадрант! У вас есть всего 5 минут между каждым разломом, прежде чем вы исчезнете.
@@ -206,7 +206,7 @@ ghost-role-information-skeleton-biker-description = Катайтесь на св
 ghost-role-information-closet-skeleton-name = Скелет из шкафа
 ghost-role-information-closet-skeleton-description = Вы, пожалуй, один из старейших членов станции! Верните себе старую работу или устройте хаос! Мир в ваших руках.
 
-ghost-role-information-remilia-name = Ремилия, фамильяр капеллана
+ghost-role-information-remilia-name = Ремилия, фамильяр священника
 ghost-role-information-remilia-description = Следуйте и подчиняйтесь священнику. Ешьте фрукты. Громко визжите людям в уши и списывайте это на эхолокацию.
 
 ghost-role-information-cerberus-name = Цербер, злой фамильяр
@@ -360,7 +360,7 @@ ghost-role-information-disaster-victim-name = Жертва катастрофы
 ghost-role-information-disaster-victim-description = Вас спасли на спасательной капсуле с другой станции, которая постигла ужасная участь. Возможно, вас найдут и спасут.
 
 ghost-role-information-syndie-disaster-victim-name = Жертва катастрофы Синдиката
-ghost-role-information-syndie-disaster-victim-description = Вы - обычный пассажир со станции Синдиката. Вы дезертировали со своей родной станции и оказались на незнакомой территории...
+ghost-role-information-syndie-disaster-victim-description = Вы - обычный ассистент со станции Синдиката. Вы дезертировали со своей родной станции и оказались на незнакомой территории...
 
 ghost-role-information-syndie-soldier-name = Солдат Синдиката
 ghost-role-information-syndie-soldier-description = Вы - солдат Синдиката.

@@ -4,7 +4,7 @@ ent-ClothingUniformJumpskirtBartender = форма бармена
 ent-ClothingUniformJumpskirtCaptain = юбка-комбинезон капитана
     .desc = Это синяя юбка-комбинезон с золотыми отметками, обозначающими звание «Капитан».
 
-ent-ClothingUniformJumpskirtCargo = юбка-комбинезон техника грузового отдела
+ent-ClothingUniformJumpskirtCargo = юбка-комбинезон грузчика
     .desc = Прочная юбка-комбинезон, выдаваемая сотрудникам грузового отдела.
 
 ent-ClothingUniformJumpskirtChiefEngineer = юбка-комбинезон старшего инженера
@@ -13,7 +13,7 @@ ent-ClothingUniformJumpskirtChiefEngineer = юбка-комбинезон ста
 ent-ClothingUniformJumpskirtChiefEngineerTurtle = водолазка старшего инженера
     .desc = Жёлтая водолазка, разработанная специально для работы в условиях инженерного отдела.
 
-ent-ClothingUniformJumpskirtChaplain = юбка-комбинезон капеллана
+ent-ClothingUniformJumpskirtChaplain = юбка-комбинезон священника
     .desc = Это чёрная юбка-комбинезон, которую часто носят религиозные люди.
 
 ent-ClothingUniformJumpskirtChef = форма повара
@@ -28,10 +28,10 @@ ent-ClothingUniformJumpskirtVirology = юбка-комбинезон вирус�
 ent-ClothingUniformJumpskirtGenetics = юбка-комбинезон генетика
     .desc = Она сделана из специального волокна, обеспечивающего особую защиту от биологических угроз. На ней есть нашивка звания генетика.
 
-ent-ClothingUniformJumpskirtCMO = юбка-комбинезон старшего врача
+ent-ClothingUniformJumpskirtCMO = юбка-комбинезон главного врача
     .desc = Это юбка-комбинезон, который носят те, кто обладает достаточным опытом, чтобы стать старшим врачом. Она обеспечивает небольшую биологическую защиту.
 
-ent-ClothingUniformJumpskirtCMOTurtle = водолазка-юбка старшего врача
+ent-ClothingUniformJumpskirtCMOTurtle = водолазка-юбка главного врача
     .desc = Это водолазка, которую носят те, кто обладает достаточным опытом, чтобы стать старшим врачом. Она обеспечивает небольшую биологическую защиту.
 
 ent-ClothingUniformJumpskirtDetective = потрёпанный костюм-юбка
@@ -44,7 +44,7 @@ ent-ClothingUniformJumpskirtEngineering = юбка-комбинезон инже
     .desc = Если бы этот костюм был непроводящим, инженеры, может быть, действительно занимались бы своей чёртовой работой.
 
 ent-ClothingUniformJumpskirtHoP = юбка-комбинезон главы персонала
-    .desc = Довольно пресная и неприметная. Идеальна для того, чтобы бесследно исчезнуть со всей вселенной.
+    .desc = Довольно пресная и неприметная. Идеальна для того, чтобы бесследно исчезнуть с лица Вселенной.
 
 ent-ClothingUniformJumpskirtHoS = юбка-комбинезон главы службы безопасности
     .desc = Она ярко-красная и довольно чёткая, совсем как жертвы службы безопасности.
@@ -85,8 +85,8 @@ ent-ClothingUniformJumpskirtQM = юбка-комбинезон квартирм�
 ent-ClothingUniformJumpskirtQMTurtleneck = водолазка квартирмейстера
     .desc = Строгая водолазка, созданная для суровых условий работы отдела снабжения.
 
-ent-ClothingUniformJumpskirtResearchDirector = водолазка директора исследований
-    .desc = Это водолазка, которую носят те, кто обладает знаниями, необходимыми для достижения должности директора исследований. Её ткань обеспечивает небольшую защиту от биологических загрязнителей.
+ent-ClothingUniformJumpskirtResearchDirector = водолазка научного руководителя
+    .desc = Это водолазка, которую носят те, кто обладает знаниями, необходимыми для достижения должности научного руководителя. Её ткань обеспечивает небольшую защиту от биологических загрязнителей.
 
 ent-ClothingUniformJumpskirtScientist = юбка-комбинезон учёного
     .desc = Она сделана из специального волокна, повышающего кажущийся интеллект и понижающего личную этику. На ней есть отметки, обозначающие, что владелец - учёный.
@@ -97,16 +97,16 @@ ent-ClothingUniformJumpskirtRoboticist = юбка-комбинезон робо�
 ent-ClothingUniformJumpskirtSec = юбка-комбинезон службы безопасности
     .desc = Юбка-комбинезон из прочного материала, обеспечивающая надёжную защиту.
 
-ent-ClothingUniformJumpskirtWarden = форма надзирателя
+ent-ClothingUniformJumpskirtWarden = форма смотрителя
     .desc = Официальный костюм службы безопасности для офицеров с пряжкой ремня «Нанотрейзен».
 
 ent-ClothingUniformJumpskirtLibrarian = юбка-комбинезон библиотекаря
     .desc = Уютный зелёный джемпер, подходящий хранителю книг.
 
-ent-ClothingUniformJumpskirtCurator = благоразумная юбка
-    .desc = Она благоразумна. Слишком благоразумна...
+ent-ClothingUniformJumpskirtCurator = практичная юбка
+    .desc = Она практичная. Слишком практичная...
 
-ent-ClothingUniformJumpskirtPerformer = юбка-комбинезон исполнителя
+ent-ClothingUniformJumpskirtPerformer = юбка-комбинезон артиста
     .desc = Привет, я Скотт, президент «Донк Пицца». Вы слышали о [ЗНАМЕНИТЫЙ ВИРТУАЛЬНЫЙ ИСПОЛНИТЕЛЬ]?
 
 ent-ClothingUniformJumpskirtCapFormalDress = парадное платье капитана
@@ -121,16 +121,16 @@ ent-ClothingUniformJumpskirtHosFormal = парадное платье главы
 ent-ClothingUniformJumpskirtOperative = юбка-комбинезон оперативника
     .desc = Форма для элитных оперативников Синдиката, выполняющих тактические операции в дальнем космосе.
 
-ent-ClothingUniformJumpskirtTacticool = тактикульная юбка-комбинезон
+ent-ClothingUniformJumpskirtTacticool = тактическая юбка-комбинезон
     .desc = Форма для посредственных ролевиков-оперативников, совершающих тактическую кражу изолированных перчаток в дальнем космосе.
 
-ent-ClothingUniformJumpskirtAtmos = юбка-комбинезон техника атмосферного отдела
+ent-ClothingUniformJumpskirtAtmos = юбка-комбинезон атмосферного техника
     .desc = Я на работе. Я не могу покинуть работу. Работа - это дыхание. Я проверяю качество воздуха.
 
-ent-ClothingUniformJumpskirtJanimaid = форма горничной-уборщицы
+ent-ClothingUniformJumpskirtJanimaid = форма горничной
     .desc = Для профессионалов, а не позёров.
 
-ent-ClothingUniformJumpskirtJanimaidmini = форма горничной-уборщицы с мини-юбкой
+ent-ClothingUniformJumpskirtJanimaidmini = форма горничной с мини-юбкой
     .desc = Элитный сервис, а не какие-то фантики от конфет.
 
 ent-ClothingUniformJumpskirtLawyerRed = красный костюм-юбка адвоката

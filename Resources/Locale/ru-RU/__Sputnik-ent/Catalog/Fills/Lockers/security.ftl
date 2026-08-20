@@ -28,21 +28,21 @@ ent-GunSafeDisabler = сейф дизейблеров
 ent-GunSafePistolMk58 = сейф mk58
     .desc = { ent-GunSafeBaseSecure.desc }
 
-ent-GunSafeRifleLecter = сейф лектер
+ent-GunSafeRifleLecter = сейф лектеров
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Лектеров, Замок по уровню тревоги
+    .suffix = Лектер, Замок по уровню тревоги
 
-ent-GunSafeSubMachineGunDrozd = сейф дрозд
+ent-GunSafeSubMachineGunDrozd = сейф дроздов
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Дроздов, Замок по уровню тревоги
+    .suffix = Дрозд, Замок по уровню тревоги
 
 ent-GunSafeShotgunEnforcer = сейф силовиков
     .desc = { ent-GunSafeBaseSecure.desc }
     .suffix = Силовкик, Замок по уровню тревоги
 
-ent-GunSafeShotgunKammerer = сейф каммерера
+ent-GunSafeShotgunKammerer = сейф каммереров
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Каммерера, Замок по уровню тревоги
+    .suffix = Каммерер, Замок по уровню тревоги
 
 ent-GunSafeSubMachineGunWt550 = сейф wt550
     .desc = { ent-GunSafeBaseSecure.desc }

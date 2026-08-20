@@ -10,12 +10,12 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 zombie-transform = {CAPITALIZE($target)} превратился в зомби!
-zombie-infection-greeting = Вы стали зомби. Ваша цель - выискивать живых и пытаться заразить их. Работайте вместе с другими зомби и оставшимися изначально заражёнными, чтобы захватить станцию.
+zombie-infection-greeting = Вы стали зомби. Ваша цель - выискивать живых и пытаться заразить их. Работайте вместе с другими зомби и оставшимися нулевыми заражёнными, чтобы захватить станцию.
 
 zombie-generic = зомби
 zombie-name-prefix = зомбированный {$baseName}
-zombie-role-desc = Злобное создание из мёртвых.
-zombie-role-rules = Вы - [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Выискивайте живых и кусайте их, чтобы заразить и превратить в зомби. Работайте вместе с другими зомби и оставшимися изначально заражёнными, чтобы захватить станцию.
+zombie-role-desc = Злобное порождение мертвых.
+zombie-role-rules = Вы - [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Выискивайте живых и кусайте их, чтобы заразить и превратить в зомби. Работайте вместе с другими зомби и оставшимися нулевыми заражёнными, чтобы захватить станцию.
 
 zombie-permadeath = На этот раз вы мертвы по-настоящему.
 

@@ -150,7 +150,7 @@ accent-caveman-words-replace-37 = руг рох
 accent-caveman-words-38 = пошли
 accent-caveman-words-replace-38 = унга бунга
 
-accent-caveman-words-39 = капеллан
+accent-caveman-words-39 = священник
 accent-caveman-words-replace-39 = странный шаман
 
 accent-caveman-words-40 = генетика

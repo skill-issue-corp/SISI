@@ -5,7 +5,7 @@ ent-ClothingUniformJumpsuitAncient = древний комбинезон
     .desc = Ужасно потрёпанный и обтрёпанный серый комбинезон. Похоже, его не стирали больше десяти лет.
 
 ent-ClothingUniformJumpsuitBartender = униформа бармена
-    .desc = Красивая и опрятная униформа. Жаль только насчёт бара.
+    .desc = Красивая и опрятная униформа. Жаль только, что про бар этого не скажешь.
 
 ent-ClothingUniformJumpsuitJacketMonkey = обезьянья куртка бармена
     .desc = Приличная куртка для приличной обезьяны.
@@ -16,25 +16,25 @@ ent-ClothingUniformJumpsuitBartenderPurple = фиолетовая униформ
 ent-ClothingUniformJumpsuitCaptain = комбинезон капитана
     .desc = Синий комбинезон с золотыми отметками, обозначающими звание «Капитан».
 
-ent-ClothingUniformJumpsuitCargo = комбинезон техника грузового отдела
+ent-ClothingUniformJumpsuitCargo = комбинезон грузчика
     .desc = Прочный комбинезон, выдаваемый сотрудникам грузового отдела.
 
 ent-ClothingUniformJumpsuitSalvageSpecialist = комбинезон специалиста-утилизатора
     .desc = Это щеголеватый комбинезон с прочным комплектом рабочей одежды. Очень грязный.
 
-ent-ClothingUniformJumpsuitChiefEngineer = комбинезон старшего инженера
-    .desc = Это ярко заметный комбинезон, выдаваемый тем инженерам, которые достаточно безумны, чтобы достичь звания старшего инженера.
+ent-ClothingUniformJumpsuitChiefEngineer = комбинезон главного инженера
+    .desc = Это ярко заметный комбинезон, выдаваемый тем инженерам, которые достаточно безумны, чтобы достичь звания главного инженера.
 
-ent-ClothingUniformJumpsuitChiefEngineerTurtle = водолазка старшего инженера
+ent-ClothingUniformJumpsuitChiefEngineerTurtle = водолазка главного инженера
     .desc = Жёлтая водолазка, специально разработанная для работы в условиях инженерного отдела.
 
-ent-ClothingUniformJumpsuitChaplain = комбинезон капеллана
+ent-ClothingUniformJumpsuitChaplain = комбинезон священника
     .desc = Это чёрный комбинезон, часто носимый религиозными людьми.
 
 ent-ClothingUniformJumpsuitCentcomAgent = комбинезон агента ЦентКома
     .desc = Костюм, который носит юридическая команда ЦентКома. Пахнет пригоревшим кофе.
 
-ent-ClothingUniformJumpsuitCentcomOfficial = комбинезон чиновника ЦентКома
+ent-ClothingUniformJumpsuitCentcomOfficial = костюм офицера ЦентКома
     .desc = Это комбинезон, который носят чиновники ЦентКома.
 
 ent-ClothingUniformJumpsuitCentcomOfficer = комбинезон офицера ЦентКома
@@ -43,13 +43,13 @@ ent-ClothingUniformJumpsuitCentcomOfficer = комбинезон офицера 
 ent-ClothingUniformJumpsuitChef = униформа повара
     .desc = Без неё не приготовишь.
 
-ent-ClothingUniformJumpsuitChemistry = комбинезон химического отдела
+ent-ClothingUniformJumpsuitChemistry = комбинезон химика
     .desc = На этом комбинезоне какие-то странные пятна. Хм.
 
-ent-ClothingUniformJumpsuitVirology = комбинезон вирусологического отдела
+ent-ClothingUniformJumpsuitVirology = комбинезон вирусолога
     .desc = Он сделан из особого волокна, обеспечивающего особую защиту от биологической опасности. На нём нашивка ранга вирусолога.
 
-ent-ClothingUniformJumpsuitGenetics = комбинезон генетического отдела
+ent-ClothingUniformJumpsuitGenetics = комбинезон генетика
     .desc = Он сделан из особого волокна, обеспечивающего особую защиту от биологической опасности. На нём нашивка ранга генетика.
 
 ent-ClothingUniformJumpsuitClown = костюм клоуна
@@ -64,26 +64,26 @@ ent-ClothingUniformJumpsuitJester = костюм шута
 ent-ClothingUniformJumpsuitJesterAlt = { ent-ClothingUniformJumpsuitJester }
     .desc = { ent-ClothingUniformJumpsuitJester.desc }
 
-ent-ClothingUniformJumpsuitCMO = комбинезон старшего врача
+ent-ClothingUniformJumpsuitCMO = комбинезон главного врача
     .desc = Это комбинезон, который носят те, у кого достаточно опыта, чтобы быть старшим врачом. Обеспечивает незначительную биологическую защиту.
 
-ent-ClothingUniformJumpsuitCMOTurtle = водолазка старшего врача
+ent-ClothingUniformJumpsuitCMOTurtle = водолазка главного врача
     .desc = Это водолазка, которую носят те, у кого достаточно опыта, чтобы быть старшим врачом. Обеспечивает незначительную биологическую защиту.
 
 ent-ClothingUniformJumpsuitDetective = потрёпанный костюм
     .desc = Тот, кто носит это, настроен серьёзно.
 
-ent-ClothingUniformJumpsuitDetectiveGrey = костюм в стиле нуар
+ent-ClothingUniformJumpsuitDetectiveGrey = нуарный костюм
     .desc = Серый костюм закалённого частного детектива, дополненный зажимом для галстука.
 
 ent-ClothingUniformJumpsuitEngineering = инженерный комбинезон
     .desc = Если бы этот костюм не проводил ток, возможно, инженеры действительно занимались бы своей чёртовой работой.
 
-ent-ClothingUniformJumpsuitEngineeringHazard = комбинезон повышенной опасности
+ent-ClothingUniformJumpsuitEngineeringHazard = защитный комбинезон
     .desc = Соткан в грубоватом, тёплом оранжевом цвете. Даёт понять окружающим, что вы действительно серьёзно относитесь к работе.
 
 ent-ClothingUniformJumpsuitHoP = комбинезон главы персонала
-    .desc = Довольно скучный и неприметный. Идеален для того, чтобы бесследно исчезнуть со страниц вселенной.
+    .desc = Довольно скучный и неприметный. Идеален для того, чтобы бесследно исчезнуть с лица Вселенной.
 
 ent-ClothingUniformJumpsuitHoS = комбинезон главы службы безопасности
     .desc = Он ярко-красный и довольно свежий, как и жертвы службы безопасности обычно бывают.
@@ -95,13 +95,13 @@ ent-ClothingUniformJumpsuitHoSBlue = синий комбинезон главы 
     .desc = Синий комбинезон главы службы безопасности.
 
 ent-ClothingUniformJumpsuitHoSGrey = серый комбинезон главы службы безопасности
-    .desc = Серый комбинезон главы службы безопасности, из-за которого он выглядит несколько похожим на пассажира.
+    .desc = Серый комбинезон главы службы безопасности, из-за которого он выглядит несколько похожим на ассистента.
 
 ent-ClothingUniformJumpsuitHoSParadeMale = парадная униформа главы службы безопасности
     .desc = Роскошная одежда главы службы безопасности (мужская) для особых случаев.
 
-ent-ClothingUniformJumpsuitCommandGeneric = командный комбинезон
-    .desc = Обычный комбинезон командного цвета, не относящийся к какому-либо конкретному отделу.
+ent-ClothingUniformJumpsuitCommandGeneric = комбинезон командования
+    .desc = Обычный комбинезон цвета командования, не относящийся к какому-либо конкретному отделу.
 
 ent-ClothingUniformJumpsuitHydroponics = комбинезон гидропоники
     .desc = Имеет сильный землистый запах. Будем надеяться, что он просто грязный, а не испачканный чем-то похуже.
@@ -136,8 +136,8 @@ ent-ClothingUniformJumpsuitQMTurtleneck = водолазка квартирме�
 ent-ClothingUniformJumpsuitQMFormal = парадный костюм квартирмейстера
     .desc = Вдохновлённый квартирмейстерами армии прошлого, идеальный наряд для снабжения официального мероприятия.
 
-ent-ClothingUniformJumpsuitResearchDirector = водолазка директора исследований
-    .desc = Это водолазка, которую носят те, у кого достаточно знаний, чтобы занять должность директора исследований. Её ткань обеспечивает незначительную защиту от биологических загрязнителей.
+ent-ClothingUniformJumpsuitResearchDirector = водолазка научного руководителя
+    .desc = Это водолазка, которую носят те, у кого достаточно знаний, чтобы занять должность научного руководителя. Её ткань обеспечивает незначительную защиту от биологических загрязнителей.
 
 ent-ClothingUniformJumpsuitScientist = комбинезон учёного
     .desc = Он сделан из особого волокна, повышающего воспринимаемый интеллект и понижающего личную этику. На нём есть отметки, обозначающие владельца как учёного.
@@ -152,16 +152,16 @@ ent-ClothingUniformJumpsuitSec = комбинезон службы безопа�
     .desc = Комбинезон из прочного материала, обеспечивающий надёжную защиту.
 
 ent-ClothingUniformJumpsuitSecBlue = синяя рубашка с галстуком
-    .desc = Я сейчас немного занят, Кэлхун.
+    .desc = Я сейчас немного занят, Калхаун.
 
 ent-ClothingUniformJumpsuitSecGrey = серый комбинезон службы безопасности
-    .desc = Тактическая реликвия прошлых лет, до того как Нанотрейзен решила, что дешевле красить костюмы в красный цвет, чем отстирывать с них кровь.
+    .desc = Тактическая реликвия прошлых лет, до того как NanoTrasen решила, что дешевле красить костюмы в красный цвет, чем отстирывать с них кровь.
 
 ent-ClothingUniformSecurityTrooper = униформа штурмовика
-    .desc = Официальная униформа, выдаваемая штурмовикам Нанотрейзен, обычно поставляется вместе с машиной.
+    .desc = Официальная униформа, выдаваемая штурмовикам NanoTrasen, обычно поставляется вместе с машиной.
 
-ent-ClothingUniformJumpsuitWarden = униформа надзирателя
-    .desc = Официальный костюм службы безопасности для офицеров, дополненный пряжкой ремня Нанотрейзен.
+ent-ClothingUniformJumpsuitWarden = униформа смотрителя
+    .desc = Официальный костюм службы безопасности для офицеров, дополненный пряжкой ремня NanoTrasen.
 
 ent-ClothingUniformOveralls = комбинезон-роба
     .desc = Отлично подходит для работы на открытом воздухе.
@@ -196,8 +196,8 @@ ent-ClothingUniformJumpsuitPyjamaSyndicatePink = розовая пижама С�
 ent-ClothingUniformJumpsuitPyjamaSyndicateRed = красная пижама Синдиката
     .desc = Для тех долгих ночей в пермалоке.
 
-ent-ClothingUniformJumpsuitNanotrasen = комбинезон Нанотрейзен
-    .desc = Величественный синий комбинезон, представляющий НаноТрейзен.
+ent-ClothingUniformJumpsuitNanotrasen = комбинезон NanoTrasen
+    .desc = Величественный синий комбинезон, представляющий NanoTrasen.
 
 ent-ClothingUniformJumpsuitCapFormal = парадный костюм капитана
     .desc = Костюм для особых случаев.
@@ -247,8 +247,8 @@ ent-ClothingUniformJumpsuitMonasticRobeLight = светлая монашеска
 ent-ClothingUniformJumpsuitMusician = смокинг музыканта
     .desc = Изысканный смокинг для музыкально одарённых. Идеален для любого лаунж-выступления!
 
-ent-ClothingUniformJumpsuitERTChaplain = униформа капеллана ОБР
-    .desc = Особый костюм, изготовленный для элитного корпуса капелланов Центрального Командования.
+ent-ClothingUniformJumpsuitERTChaplain = униформа священника ОБР
+    .desc = Особый костюм, изготовленный для элитного корпуса священников Центрального Командования.
 
 ent-ClothingUniformJumpsuitERTEngineer = инженерная униформа ОБР
     .desc = Особый костюм, изготовленный для элитных инженеров под началом ЦентКома.
@@ -296,16 +296,16 @@ ent-ClothingUniformJumpsuitSyndieFormal = парадный костюм Синд
 ent-ClothingUniformJumpsuitFlannel = фланелевый комбинезон
     .desc = Пахнет так, будто кто-то жарил гриль.
 
-ent-ClothingUniformJumpsuitSeniorEngineer = комбинезон старшего инженера
+ent-ClothingUniformJumpsuitSeniorEngineer = комбинезон ведущего инженера
     .desc = Знак мастерства и престижа в инженерном отделе.
 
-ent-ClothingUniformJumpsuitSeniorResearcher = комбинезон старшего исследователя
+ent-ClothingUniformJumpsuitSeniorResearcher = комбинезон ведущего исследователя
     .desc = Знак мастерства и престижа в научном отделе.
 
-ent-ClothingUniformJumpsuitSeniorPhysician = комбинезон старшего врача
+ent-ClothingUniformJumpsuitSeniorPhysician = комбинезон ведущего врача
     .desc = Знак мастерства и престижа в медицинском отделе.
 
-ent-ClothingUniformJumpsuitSeniorOfficer = комбинезон старшего офицера
+ent-ClothingUniformJumpsuitSeniorOfficer = комбинезон ведущего офицера
     .desc = Знак мастерства и престижа в отделе службы безопасности.
 
 ent-ClothingUniformJumpsuitWeb = комбинезон с паутиной
@@ -329,5 +329,5 @@ ent-ClothingUniformJumpsuitCasualRed = повседневный красный �
 ent-ClothingUniformJumpsuitCasualGreen = повседневный зелёный комбинезон
     .desc = Свободная поношенная зелёная рубашка с серыми брюками, идеально для тех, кто хочет расслабиться.
 
-ent-ClothingUniformJumpsuitFamilyGuy = знакомые одежды
+ent-ClothingUniformJumpsuitFamilyGuy = семейный наряд
     .desc = Заставляет вспомнить время, когда вы сделали что-то забавное.

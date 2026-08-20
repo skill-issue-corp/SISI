@@ -1,4 +1,4 @@
-ent-BaseHardBomb = хардбомба
+ent-BaseHardBomb = мегабомба
     .desc = Просто продолжайте говорить, и никто не взорвётся.
 
 ent-TrainingBomb = учебная бомба

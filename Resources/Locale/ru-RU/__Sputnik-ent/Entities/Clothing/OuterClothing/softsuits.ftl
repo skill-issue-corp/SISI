@@ -10,8 +10,8 @@ ent-ClothingOuterSuitEmergency = аварийный костюм EVA
 ent-ClothingOuterHardsuitEVAPrisoner = тюремный костюм EVA
     .desc = Аварийный костюм EVA, предназначенный для заключённых. Он ужасно медленный и почти не защищает от температуры, но этого хватит, чтобы выиграть время перед суровым вакуумом космоса.
 
-ent-ClothingOuterHardsuitAncientEVA = вакуум-скафандр NTSRA
+ent-ClothingOuterHardsuitAncientEVA = пустотный скафандр NTSRA
     .desc = Древний скафандр, разработанный подразделением NTSRA ЦентКома. Он выполнен очень искусно, что обеспечивает большую подвижность, чем у большинства современных скафандров.
 
-ent-ClothingOuterHardsuitVoidParamed = скафандр парамедика
+ent-ClothingOuterHardsuitVoidParamed = пустотный скафандр парамедика
     .desc = Скафандр, предназначенный для парамедиков.

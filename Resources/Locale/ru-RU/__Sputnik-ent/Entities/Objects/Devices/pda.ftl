@@ -10,7 +10,7 @@ ent-BaseSecurityPDA = { ent-BasePDA }
 ent-BaseMedicalPDA = { ent-BasePDA }
     .desc = { ent-BasePDA.desc }
 
-ent-PassengerPDA = КПК пассажира
+ent-PassengerPDA = КПК ассистента
     .desc = Почему он не серый?
 
 ent-TechnicalAssistantPDA = КПК технического ассистента
@@ -25,7 +25,7 @@ ent-SecurityCadetPDA = КПК кадета службы безопасности
 ent-ResearchAssistantPDA = КПК научного ассистента
     .desc = Почему он не фиолетовый?
 
-ent-ServiceWorkerPDA = КПК работника сферы обслуживания
+ent-ServiceWorkerPDA = КПК сервисного работника
     .desc = Почему он не серый?
 
 ent-ChefPDA = КПК повара
@@ -44,7 +44,7 @@ ent-VisitorClownPDA = { ent-ClownPDA }
 ent-MimePDA = КПК мима
     .desc = Удивительно, но не заглушён.
 
-ent-ChaplainPDA = КПК капеллана
+ent-ChaplainPDA = КПК священника
     .desc = Богом избранный КПК.
 
 ent-VisitorChaplainPDA = { ent-ChaplainPDA }
@@ -92,7 +92,7 @@ ent-CEPDA = КПК старшего инженера
 ent-EngineerPDA = КПК инженера
     .desc = Крепкий и потрёпанный.
 
-ent-CMOPDA = КПК старшего врача
+ent-CMOPDA = КПК главного врача
     .desc = Необычайно блестящий и стерильный.
 
 ent-MedicalPDA = медицинский КПК
@@ -108,20 +108,20 @@ ent-ParamedicPDA = КПК парамедика
 ent-ChemistryPDA = КПК химика
     .desc = Кое-где на нём есть обесцвеченные пятна.
 
-ent-RnDPDA = КПК директора исследований
+ent-RnDPDA = КПК научного руководителя
     .desc = Выглядит удивительно обычным.
 
 ent-SciencePDA = научный КПК
     .desc = Покрыт неизвестной липкой субстанцией.
 
 ent-HoSPDA = КПК главы службы безопасности
-    .desc = Тот, кто носит этот КПК, — закон.
+    .desc = Тот, кто носит этот КПК — закон.
 
 ent-WardenPDA = КПК смотрителя
     .desc = Похоже, операционная система была взломана.
 
 ent-SecurityPDA = КПК службы безопасности
-    .desc = Красный, чтобы скрыть пятна крови пассажиров.
+    .desc = Красный, чтобы скрыть пятна крови ассистентов.
 
 ent-CentcomPDA = КПК ЦентКома
     .desc = Светло-зелёный признак ходячей бюрократии.
@@ -137,7 +137,7 @@ ent-VisitorMusicianPDA = { ent-MusicianPDA }
     .desc = { ent-MusicianPDA.desc }
     .suffix = Посетитель
 
-ent-AtmosPDA = КПК атмосферного техника
+ent-AtmosPDA = КПК атмос-техника
     .desc = Всё ещё пахнет плазмой.
 
 ent-ClearPDA = прозрачный КПК
@@ -162,9 +162,9 @@ ent-ERTLeaderPDA = КПК Лидера ОБР
     .desc = Красный для огневой мощи.
     .suffix = Лидер
 
-ent-ERTChaplainPDA = КПК Капеллана ОБР
+ent-ERTChaplainPDA = КПК Священника ОБР
     .desc = Красный для огневой мощи, он освящён.
-    .suffix = Капеллан
+    .suffix = Священник
 
 ent-ERTEngineerPDA = КПК Инженера ОБР
     .desc = Красный для огневой мощи, он потрёпан.
@@ -178,7 +178,7 @@ ent-ERTMedicPDA = КПК Медика ОБР
     .desc = Красный для огневой мощи, он блестящий и стерильный.
     .suffix = Медик
 
-ent-ERTSecurityPDA = КПК Бойца ОБР
+ent-ERTSecurityPDA = КПК Офицера Безопасности ОБР
     .desc = Красный для огневой мощи, на нём выцарапаны зарубки.
     .suffix = Безопасность
 
@@ -204,7 +204,7 @@ ent-CluwnePDA = КПК клувеня
 ent-SeniorEngineerPDA = КПК ведущего инженера
     .desc = Похоже, его несколько раз разбирали и собирали заново.
 
-ent-SeniorResearcherPDA = КПК ведущего исследователя
+ent-SeniorResearcherPDA = КПК ведущего учёного
     .desc = Выглядит так, будто пережил годы химических ожогов и взрывов.
 
 ent-SeniorPhysicianPDA = КПК ведущего врача
@@ -222,16 +222,16 @@ ent-NinjaPDA = КПК ниндзя
 ent-PiratePDA = КПК пирата
     .desc = Йаррр!
 
-ent-ChameleonPDA = КПК пассажира
+ent-ChameleonPDA = КПК ассистента
     .desc = Почему он не серый?
     .suffix = Хамелеон
 
 ent-ChameleonAgentPDA = { ent-ChameleonPDA }
     .desc = { ent-ChameleonPDA.desc }
-    .suffix = Хамелеон, Удостоверение Агента
+    .suffix = Хамелеон, ID Агента
 
 ent-WizardPDA = КПК волшебника
     .desc = Вы слышите из него слабый шёпот.
 
 ent-ScurretPDA = { ent-ClearPDA }
-    .desc = Временный КПК, выдаваемый временным сотрудникам-скарретам. Не делает почти ничего. Вава!
+    .desc = Временный КПК, выдаваемый временным сотрудникам — слизнекотикам. Не делает почти ничего. Вава!
