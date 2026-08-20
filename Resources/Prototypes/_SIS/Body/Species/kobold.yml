@@ -52,8 +52,8 @@
   - type: MobThresholds
     thresholds:
       0: Alive
-      80: Critical
-      200: Dead
+      50: Critical
+      150: Dead
   - type: Hunger
   - type: Fixtures
     fixtures:
@@ -68,7 +68,7 @@
         layer:
         - MobLayer
   - type: Thirst
-  - type: NoSlip
+  - type: VentCrawler
   - type: Inventory
     templateId: kobold
     speciesId: kobold
