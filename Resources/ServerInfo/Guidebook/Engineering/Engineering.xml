@@ -13,20 +13,20 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Engineering
-  [color=#f39f27]Engineering[/color] is a combination of [textlink="construction" link="Construction"] work, [textlink="repair" link="ExpandingRepairingStation"] work, maintaining a death machine that happens to produce [textlink="power" link="Power"], and making sure the station contains [textlink="breathable air" link="Atmospherics"].
+  # Инженерный отдел
+  [color=#f39f27]Инженерный отдел[/color] сочетает в себе работу по [textlink="постройке" link="Construction"], работу по [textlink="ремонту" link="ExpandingRepairingStation"], обслуживание машины смерти, которая, к слову, вырабатывает [textlink="энергию" link="Power"], а также поддержание на станции [textlink="пригодного для дыхания воздуха" link="Atmospherics"].
 
-  ## Personnel
-  [color=#f39f27]Engineering[/color]'s staff is made up of Technical Assistants, Station Engineers and Atmospheric Technicians.
-  Engineering is run by the Chief Engineer.
+  ## Персонал
+  Штат [color=#f39f27]инженерного отдела[/color] состоит из технических ассистентов, станционных инженеров и атмосферных техников.
+  Инженерным отделом руководит старший инженер.
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineEngineer" Caption="Engineer"/>
-    <GuideEntityEmbed Entity="ToyFigurineAtmosTech" Caption="Atmosian"/>
-    <GuideEntityEmbed Entity="ToyFigurineChiefEngineer" Caption="CE"/>
+    <GuideEntityEmbed Entity="ToyFigurineEngineer" Caption="Инженер"/>
+    <GuideEntityEmbed Entity="ToyFigurineAtmosTech" Caption="Атмос"/>
+    <GuideEntityEmbed Entity="ToyFigurineChiefEngineer" Caption="СИ"/>
   </Box>
 
-  ## Tools
+  ## Инструменты
   <Box>
     <GuideEntityEmbed Entity="Wrench"/>
     <GuideEntityEmbed Entity="Crowbar"/>
@@ -38,8 +38,8 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="Multitool"/>
     <GuideEntityEmbed Entity="NetworkConfigurator"/>
   </Box>
-  Your core toolset is a small variety of tools.
-  If you're an engineer, then you should have a belt on your waist containing one of each; if not, you can likely find them in maintenance shafts and in tool storage within assorted toolboxes and vending machines.
+  Ваш базовый набор инструментов - это небольшой перечень инструментов.
+  Если вы инженер, у вас на поясе должен быть пояс, содержащий по одному экземпляру каждого; если нет, вы, скорее всего, сможете найти их в технических туннелях и в хранилище инструментов среди различных ящиков с инструментами и торговых автоматов.
 
-  Most tasks will have explainers for how to perform them on examination; for example, if you're [textlink="constructing" link="Construction"] a wall, it'll tell you the next step if you look at it a bit closer.
+  Для большинства задач при осмотре будут появляться подсказки о том, как их выполнить; например, если вы [textlink="строите" link="Construction"] стену, при более внимательном осмотре она подскажет вам следующий шаг.
 </Document>

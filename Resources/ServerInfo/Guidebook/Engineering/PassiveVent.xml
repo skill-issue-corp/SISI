@@ -6,17 +6,17 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Passive Vent
-  The passive vent is an extremely basic vent.
-  It serves as a direct connection between the pipenet it's connected to and the atmosphere it's exposed to.
+  # Пассивная вентиляция
+  Пассивная вентиляция - крайне простое устройство.
+  Она служит прямым соединением между подключённой к ней трубопроводной сетью и атмосферой, с которой она контактирует.
   <Box>
     <GuideEntityEmbed Entity="GasPassiveVent"/>
   </Box>
-  Gasses are free to move between the passive vent and the atmosphere it's connected to.
-  The passive vent requires no [textlink="power" link="Power"] to function.
+  Газы свободно перемещаются между пассивной вентиляцией и атмосферой, к которой она подключена.
+  Пассивной вентиляции не требуется [textlink="питание" link="Power"] для работы.
 
-  This vent is commonly found in the station's [textlink="gas storage tanks" link="GasMiningAndStorage"] and connected to the station's wastenet.
-  It is a simple and reliable way to pull gasses from a gas miner, or to space unwanted gasses safely.
+  Это устройство обычно встречается в станционных [textlink="хранилищах газа" link="GasMiningAndStorage"] и подключено к станционной сети отходов.
+  Это простой и надёжный способ выкачивать газы из газодобытчика или безопасно сбрасывать нежелательные газы в космос.
 
-  The passive vent can be welded with any welding tool to stop it from functioning.
+  Пассивную вентиляцию можно заварить любым сварочным инструментом, чтобы прекратить её работу.
 </Document>

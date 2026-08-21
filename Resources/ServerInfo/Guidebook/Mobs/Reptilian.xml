@@ -7,18 +7,18 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Reptilians
+  # Рептилии
 
   <Box>
     <GuideEntityEmbed Entity="AppearanceReptilian" Caption=""/>
   </Box>
 
-  They can eat raw meat and drink blood without any ill effects.
-  They prefer a somewhat higher temperature range than humans.
-  They can drag objects with their tail, keeping both their hands free.
+  Они могут есть сырое мясо и пить кровь без каких-либо вредных последствий.
+  Они предпочитают несколько более высокий диапазон температур, чем люди.
+  Они могут перетаскивать объекты с помощью хвоста, оставляя обе руки свободными.
 
-  Their unarmed claw attacks deal Slash damage instead of Blunt.
+  Их атаки когтями без оружия наносят урон от режущих предметов вместо тупых.
 
-  They take [color=#ffa500]30% more Cold damage.[/color]
+  Они получают [color=#ffa500]на 30% больше урона от холода.[/color]
 
 </Document>

@@ -18,53 +18,53 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 <Document>
 
-# Microwave Recipes
+# Рецепты для микроволновки
 
-This is the latest published version of NanoTrasen Central Command Kitchen de Cuisine's recipe collection for chefs upon NanoTrasen vessels to prepare.
+Это последняя опубликованная версия сборника рецептов Kitchen de Cuisine Центрального Командования «НаноТрейзен» для шеф-поваров на кораблях «НаноТрейзен».
 
-## Pizza Pies
+## Пицца
 <GuideMicrowaveGroupEmbed Group="Pizza"/>
 
-## Savory Cooking
+## Сытные блюда
 <GuideMicrowaveGroupEmbed Group="Savory"/>
 
-## Breads
+## Хлеб
 <GuideMicrowaveGroupEmbed Group="Breads"/>
 
-## Breakfast Foods
+## Завтраки
 <GuideMicrowaveGroupEmbed Group="Breakfast"/>
 
-## Moth Foods
+## Еда для мотыльков
 <GuideMicrowaveGroupEmbed Group="Moth"/>
 
-## Pastas & Noodles
+## Паста и лапша
 <GuideMicrowaveGroupEmbed Group="Pasta"/>
 
-## Pastries & Desserts
+## Выпечка и десерты
 <GuideMicrowaveGroupEmbed Group="Dessert"/>
 
-## Soups & Stews
+## Супы и рагу
 <GuideMicrowaveGroupEmbed Group="Soup"/>
 
-## Pies & Tarts
+## Пироги и тарты
 <GuideMicrowaveGroupEmbed Group="Pie"/>
 
-## Bars & Cookies
+## Батончики и печенье
 <GuideMicrowaveGroupEmbed Group="BarsAndCookies"/>
 
-## Cakes
+## Торты
 <GuideMicrowaveGroupEmbed Group="Cake"/>
 
-## Salads
+## Салаты
 <GuideMicrowaveGroupEmbed Group="Salad"/>
 
-## Medicinal
+## Лекарственные рецепты
 <GuideMicrowaveGroupEmbed Group="Medicinal"/>
 
-## Other
+## Прочее
 <GuideMicrowaveGroupEmbed Group="Other"/>
 
-## Secret
+## Секретное
 <GuideMicrowaveGroupEmbed Group="Secret"/>
 
 </Document>

@@ -1,33 +1,33 @@
 <Document>
-  # Vox
+  # Воксы
 
   <Box>
     <GuideEntityEmbed Entity="MobVox" Caption=""/>
   </Box>
 
-  [color=#ffa500]Warning! This species is not recommended for new players due to their fatal allergy to oxygen![/color]
+  [color=#ffa500]Внимание! Этот вид не рекомендуется для новых игроков из-за смертельной аллергии на кислород![/color]
 
-  Vox breathe nitrogen, and [color=#ffa500] oxygen is toxic to them.[/color]
-  Unfortunately, space stations tend to be full of oxygen,
-  so Vox must use an internal nitrogen supply at almost all times to avoid fatal exposure.
+  Воксы дышат азотом, и [color=#ffa500]кислород токсичен для них.[/color]
+  К сожалению, космические станции, как правило, полны кислорода,
+  поэтому воксы почти всегда должны использовать внутренний запас азота, чтобы избежать смертельного воздействия.
 
-  Vox always spawn wearing working nitrogen internals equipment.
-  A spare breathing mask and an emergency nitrogen canister is provided in their survival box.
+  Воксы всегда появляются с уже надетым и работающим азотным дыхательным оборудованием.
+  Запасная дыхательная маска и аварийный баллон с азотом входят в их аварийный набор.
 
-  In addition to regular foods, Vox can also eat various snack packaging, banana peels, eggshells, and raw meat without any ill effects. They also like to drink welding fuel.
+  Помимо обычной еды, воксы также могут без каких-либо вредных последствий есть различную упаковку от закусок, банановую кожуру, яичную скорлупу и сырое мясо. Они также любят пить сварочное топливо.
 
-  Vox [color=#1e90ff]slowly recover from low levels of poison damage[/color] on their own,
-  so long as they are careful not to exceed 20 poison damage.
-  This allows them to endure breathing station air for up to thirty seconds at a time without lasting damage,
-  letting them quickly eat, drink, take oral medication, and so on.
-  A thirty second oxygen exposure takes them two minutes to recover from.
-  If their health does not seem to improve within a minute of oxygen exposure, they should seek medical attention.
+  Воксы [color=#1e90ff]медленно восстанавливаются от низкого уровня урона от яда[/color] самостоятельно,
+  до тех пор, пока следят за тем, чтобы не превышать 20 единиц урона от яда.
+  Это позволяет им выдерживать дыхание станционным воздухом до тридцати секунд подряд без долговременного урона,
+  позволяя им быстро поесть, попить, принять лекарство внутрь и так далее.
+  На восстановление после тридцатисекундного воздействия кислорода уходит две минуты.
+  Если их состояние не улучшается в течение минуты после воздействия кислорода, им следует обратиться за медицинской помощью.
 
   <!-- Trauma -->
-  Due to them being half-organic and half-silicon, they do not rot, but it's also impossible to clone them.
-  As indirect decendents of chickens, they have slightly stronger peripheral vision of a prey animal.
+  Так как они наполовину органические, наполовину синтетические существа, они не разлагаются, но клонировать их также невозможно.
+  Будучи косвенными потомками кур, они обладают чуть более острым периферийным зрением, свойственным животным-жертвам.
   <!-- /Trauma -->
 
-  Vox deal Slash damage with their unarmed attack.
+  Воксы наносят урон от режущих предметов при атаке без оружия.
 
 </Document>

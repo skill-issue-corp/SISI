@@ -6,31 +6,31 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Generators
-  Generators are devices that produce power for the station. They vary in size and power output, and each has its own unique quirks and requirements.
+  # Генераторы
+  Генераторы - устройства, вырабатывающие энергию для станции. Они различаются по размеру и мощности, и каждый имеет свои уникальные особенности и требования.
 
-  Engineers are intended to setup low-tier generators like Solar Arrays and the AME at the start of the shift, to give enough time to setup higher-tier generators like the Singularity Engine for sustained power for the rest of the shift.
+  Инженерам следует настраивать генераторы низкого уровня, такие как солнечные батареи и ДАМ, в начале смены, чтобы иметь достаточно времени для настройки генераторов более высокого уровня, таких как Сингулярный двигатель, для устойчивого энергоснабжения на оставшуюся часть смены.
 
   <Box>
     <GuideEntityEmbed Entity="SingularityGenerator" Caption=""/>
     <GuideEntityEmbed Entity="TeslaGenerator" Caption=""/>
   </Box>
   <Box>
-    ## Singularity and Tesla Engine
+    ## Двигатель Сингулярности и Тесла
   </Box>
   <Box>
-    [color=#999999][italic]Devices capable of infinite energy — and destructive potential[italic][/color]
+    [color=#999999][italic]Устройства, способные вырабатывать бесконечную энергию — и обладающие разрушительным потенциалом[italic][/color]
   </Box>
 
   <Box>
-	  <GuideEntityEmbed Entity="NuclearReactorCrew" Caption=""/>
-	  <GuideEntityEmbed Entity="Turbine" Caption=""/>
+    <GuideEntityEmbed Entity="NuclearReactorCrew" Caption=""/>
+    <GuideEntityEmbed Entity="Turbine" Caption=""/>
   </Box>
   <Box>
-    ## Nuclear Generator
+    ## Ядерный генератор
   </Box>
   <Box>
-    [color=#999999][italic]Harnesses the power of nuclear fission to power the station.[italic][/color]
+    [color=#999999][italic]Использует энергию ядерного деления для питания станции.[italic][/color]
   </Box>
 
   <Box>
@@ -38,10 +38,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
   </Box>
   <Box>
-    ## Antimatter Engine
+    ## Антиматериальный двигатель
   </Box>
   <Box>
-    [color=#999999][italic]Short-term support generator for the station[italic][/color]
+    [color=#999999][italic]Генератор кратковременной поддержки для станции[italic][/color]
   </Box>
 
   <Box>
@@ -50,10 +50,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="TegCirculator" Caption="" Margin="0"/>
   </Box>
   <Box>
-    ## Thermo-electric Generator
+    ## Термоэлектрический генератор
   </Box>
   <Box>
-    [color=#999999][italic]Advanced atmospherics generator that harnesses the energy of gasses[italic][/color]
+    [color=#999999][italic]Продвинутый атмосферный генератор, использующий энергию газов[italic][/color]
   </Box>
 
   <Box>
@@ -62,10 +62,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
   </Box>
   <Box>
-    ## Solar Panels
+    ## Солнечные панели
   </Box>
   <Box>
-    [color=#999999][italic]Low-maintenance passive power source[italic][/color]
+    [color=#999999][italic]Пассивный источник энергии, не требующий обслуживания[italic][/color]
   </Box>
 
 
@@ -75,19 +75,19 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="PortableGeneratorSuperPacman" Caption="" />
   </Box>
   <Box>
-    ## Portable Generators
+    ## Переносные генераторы
   </Box>
   <Box>
-    [color=#999999][italic]Portable generators for crew use and emergency power[italic][/color]
+    [color=#999999][italic]Переносные генераторы для использования экипажем и аварийного электроснабжения[italic][/color]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="GeneratorRTG" Caption="" />
   </Box>
   <Box>
-    ## Radioisotope Thermoelectric Generator
+    ## Радиоизотопный термоэлектрический генератор
   </Box>
   <Box>
-    [color=#999999][italic]Zero-maintenance passive power source[italic][/color]
+    [color=#999999][italic]Пассивный источник энергии, не требующий обслуживания[italic][/color]
   </Box>
 </Document>

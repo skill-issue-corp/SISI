@@ -9,16 +9,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Gingerbread
+  # Пряничные человечки
 
   <Box>
     <GuideEntityEmbed Entity="MobGingerbread" Caption=""/>
   </Box>
 
-  Gingerbreads are a species of sentient confectionary. They have sugar for blood, and can be butchered for cookies. Being made of dough, they weigh half as much as species made of flesh.
+  Пряничные человечки — вид разумных кондитерских изделий. У них вместо крови сахар, и их можно разделать на печенье. Так как они сделаны из теста, весят они вдвое меньше видов, состоящих из плоти.
 
-  ## Damage stats
+  ## Показатели урона
 
-  Gingerbreads take 3x less fire damage than Humans, do not take Asphyxiation (though they still breathe and are uncomfortable without oxygen), Bloodloss (though again, are uncomfortable without sugar) and Cold damage (though are slowed down by cold), but take 1.5x more Blunt damage and take a lot of Heat damage from being exposed to water externally.
+  Пряничные человечки получают в 3 раза меньше урона от огня, чем люди, не получают урона от удушья (хотя всё равно дышат и чувствуют дискомфорт без кислорода), от потери крови (хотя, опять же, чувствуют дискомфорт без сахара) и от холода (хотя замедляются от него), но получают в 1.5 раза больше урона от тупых предметов, а также получают большой урон от тепла при контакте с водой снаружи.
 
 </Document>

@@ -9,23 +9,23 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Cargo Bounties
-  While [textlink="Cargo" link="Cargo"] can make [color=cyan]spesos[color] selling just about anything, more spesos can be made by fulfilling [color=cyan]bounties[/color] found through the Cargo Bounty Computer.
+  # Заказы Карго
+  Хотя [textlink="Карго" link="Cargo"] может зарабатывать [color=cyan]спесо[/color] на продаже практически чего угодно, больше спесо можно заработать, выполняя [color=cyan]заказы[/color], найденные с помощью Компьютера Заказов Карго.
 
-  ## Starting Bounties
+  ## Начало выполнения заказов
 
   <Box>
     <GuideEntityEmbed Entity="ComputerCargoBounty"/>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
   </Box>
 
-  To start a bounty, open the bounty screen by interacting with the [color=cyan]Cargo Bounty Computer[/color]. The Cargo Bounty Computer maintains a list of all the current bounties and lets you either print out a label or skip it.
+  Чтобы начать выполнение заказа, откройте экран заказов, взаимодействуя с [color=cyan]Компьютером Заказов Карго[/color]. Компьютер Заказов Карго хранит список всех текущих заказов и позволяет вам либо распечатать этикетку, либо пропустить заказ.
 
-  - Printing the label gives you a [color=cyan]Bounty Manifest[/color] listing the goods that need to be acquired. You can print out infinite Bounty Manifests, so ensure you are not repeating the same work as another Cargo Technician.
+  - Печать этикетки даёт вам [color=cyan]Манифест Заказа[/color] со списком товаров, которые необходимо приобрести. Вы можете распечатать неограниченное количество Манифестов Заказа, поэтому убедитесь, что вы не дублируете работу другого техника карго.
 
-  - Skipping a bounty replaces that bounty with a new one, as there can only be six active bounties at any time. Skipping has a 15-minute cooldown and voids that bounty, which may anger other Cargo Technicians working on it.
+  - Пропуск заказа заменяет его новым, так как одновременно может быть только шесть активных заказов. Пропуск имеет откат в 15 минут и аннулирует этот заказ, что может разозлить других техников карго, работающих над ним.
 
-  ## Fulfilling Bounties
+  ## Выполнение заказов
 
   <Box>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
@@ -33,13 +33,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="AppraisalTool"/>
   </Box>
 
-  With the [color=cyan]Bounty Manifest[/color], it is now up to you to collect the required goods, but most departments will give you what you need if you ask for it with a Bounty Manifest.
+  С [color=cyan]Манифестом Заказа[/color] на руках, теперь ваша задача - собрать необходимые товары, но большинство отделов выдадут вам всё необходимое, если вы попросите с Манифестом Заказа.
 
-  Once you have collected the goods, return to the cargo bay and put the goods inside an empty [color=cyan]Crate[/color]. After everything is in the crate, close it, and then apply the Bounty Manifest to it.
+  Как только вы соберёте товары, вернитесь в отсек карго и положите товары в пустой [color=cyan]Ящик[/color]. После того как всё окажется в ящике, закройте его, а затем примените к нему Манифест Заказа.
 
-  To verify the completion of a bounty, use the [color=cyan]Appraisal Tool[/color] on it. It should show a confirmation that the bounty has been completed.
+  Чтобы подтвердить выполнение заказа, используйте на нём [color=cyan]Инструмент Оценки[/color]. Должно появиться подтверждение того, что заказ выполнен.
 
-  ## Selling Bounties
+  ## Продажа заказов
 
   <Box>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
@@ -47,9 +47,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="CargoPalletSell"/>
   </Box>
 
-  Once you have verified that you have completed the bounty, follow the same steps as selling anything else.
+  Как только вы убедитесь, что заказ выполнен, следуйте тем же шагам, что и при продаже чего-либо ещё.
 
-  Just transport it to the [color=cyan]Trading Station[/color], sell it, and you are done!
+  Просто доставьте это на [color=cyan]Торговую Станцию[/color], продайте, и всё готово!
 
-  When you return, there should be a new bounty to take its place.
+  Когда вы вернётесь, на месте старого заказа должен появиться новый.
 </Document>

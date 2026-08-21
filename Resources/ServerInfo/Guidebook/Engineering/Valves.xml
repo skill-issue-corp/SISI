@@ -6,8 +6,8 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Valves
-  Valves are a quick way to halt or permit gas flow through a [textlink="pipenet" link="PipeNetworks"].
+  # Клапаны
+  Клапаны — это быстрый способ остановить или разрешить поток газа через [textlink="трубопроводную сеть" link="PipeNetworks"].
   <Box>
     <GuideEntityEmbed Entity="GasValve"/>
     <GuideEntityEmbed Entity="SignalControlledValve"/>
@@ -15,9 +15,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="GasPassiveGate"/>
     <GuideEntityEmbed Entity="GasPressureRegulator"/>
   </Box>
-  All valves do not require [textlink="power" link="Power"] to operate.
+  Все клапаны не требуют [textlink="энергии" link="Power"] для работы.
 
-  Valves may look simple, but they can enable a wide variety of complex pipe systems, including:
-  - Signal valves responding to air alarm or logic gate outputs
-  - Pneumatic valves controlling variable venting of waste gasses from a burn chamber
+  Клапаны могут выглядеть просто, но они позволяют создавать самые разнообразные сложные трубопроводные системы, в том числе:
+  - Сигнальные клапаны, реагирующие на воздушную сигнализацию или выходы логических элементов
+  - Пневматические клапаны, управляющие переменным стравливанием отработанных газов из камеры сжигания
 </Document>

@@ -6,23 +6,23 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Portable Scrubber
-  The portable scrubber is a portable machine that can be used to scrub the atmosphere in a room.
+  # Портативный скруббер
+  Портативный скруббер - это переносное устройство, которое можно использовать для очистки атмосферы в помещении.
   <Box>
     <GuideEntityEmbed Entity="PortableScrubber"/>
   </Box>
 
-  It is invaluable for quickly removing unwanted gasses from a room when regular [textlink="scrubbers" link="AirScrubber"] are working too slow, or when a [textlink="scrubber" link="AirScrubber"] is not present.
+  Он незаменим для быстрого удаления нежелательных газов из помещения, когда обычные [textlink="скрубберы" link="AirScrubber"] работают слишком медленно или когда [textlink="скруббер" link="AirScrubber"] вовсе отсутствует.
 
-  The portable scrubber requires [textlink="power" link="Power"] through a nearby [textlink="LV cable" link="VoltageNetworks"] to function.
+  Для работы портативного скруббера требуется [textlink="питание" link="Power"] через ближайший [textlink="кабель НН" link="VoltageNetworks"].
 
-  The portable scrubber automatically starts removing all non-breathable gasses from the room when it is bolted (wrenched) to the floor.
+  Портативный скруббер автоматически начинает удалять все непригодные для дыхания газы из помещения, как только его закрепляют (прикручивают гаечным ключом) к полу.
 
-  It will stop scrubbing when unbolted (unwrenched) from the floor or when its internal volume is full. The scrubber has an internal capacity of [color=orange][protodata="PortableScrubber" comp="PortableScrubber" member="Volume"/] liters[/color].
+  Он прекратит очистку, если его открепить (открутить) от пола или если его внутренний объём заполнится. Внутренняя вместимость скруббера составляет [color=orange][protodata="PortableScrubber" comp="PortableScrubber" member="Volume"/] литров[/color].
 
-  ## Dumping Waste and Storage
-  The scrubber's internal volume can be emptied by anchoring (wrenching) onto a [textlink="connector" link="GasCanisters"].
+  ## Слив отходов и хранение
+  Внутренний объём скруббера можно опустошить, закрепив (прикрутив гаечным ключом) его на [textlink="соединителе" link="GasCanisters"].
 
-  Stations commonly have a dedicated emptying point to quickly transfer the waste from the scrubber to the station's wastenet.
+  На станциях обычно есть выделенная точка слива для быстрой передачи отходов из скруббера в станционную отходную сеть.
 
 </Document>

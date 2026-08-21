@@ -16,104 +16,104 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Traitors
+  # Предатели
 
   <Box>
-    [color=#999999][italic]"WHISKEY. ECHO. WHISKEY. LIMA. ALPHA. DELTA. AGENT, YOU HAVE BEEN ACTIVATED."[/italic][/color]
+    [color=#999999][italic]«ВИСКИ. ЭХО. ВИСКИ. ЛИМА. АЛЬФА. ДЕЛЬТА. АГЕНТ, ВЫ АКТИВИРОВАНЫ.»[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="PosterContrabandSyndicateRecruitment" Caption=""/>
   </Box>
-  Traitors are antagonists employed by the [color=#ff0000]Syndicate.[/color] You are a sleeper agent who has access to various tools and weapons through your [bold]uplink[/bold].
-  You also receive [bold]codewords[/bold] to identify other agents, and a coordinated team of traitors can have [italic]brutal results.[/italic]
+  Предатели - антагонисты, работающие на [color=#ff0000]Синдикат.[/color] Вы - спящий агент, у которого есть доступ к различным инструментам и оружию через ваш [bold]аплинк[/bold].
+  Вы также получаете [bold]кодовые слова[/bold] для опознания других агентов, а слаженная команда предателей способна на [italic]поистине жестокие результаты.[/italic]
 
-  Anyone besides [textlink="department heads" link="Command"] or members of [textlink="Security" link="Security"] can be a traitor.
+  Предателем может быть кто угодно, кроме [textlink="глав отделов" link="Command"] или членов [textlink="Службы Безопасности" link="Security"].
 
-  ## Uplink & Activation
-  The [color=cyan]uplink[/color] is your most important tool as a traitor. You can exchange the 100 [color=red]telecrystals[/color] (TC) you start with for items that will help you with your objectives.
+  ## Аплинк и активация
+  [color=cyan]Аплинк[/color] - ваш важнейший инструмент как предателя. Вы можете обменять 100 [color=red]телекристаллов[/color] (ТК), с которыми вы начинаете, на предметы, которые помогут вам в выполнении заданий.
 
-  By pressing [color=yellow][bold][keybind="OpenCharacterMenu"][/bold][/color], you'll see your personal uplink code. To activate your uplink, set your PDA's ringtone to the code. This can be used with [bold]any PDA, and by anyone[/bold], so be wary of sharing it!
-  Pressing [color=yellow][bold][keybind="OpenCharacterMenu"][/bold][/color] also lets you view your objectives and the codewords.
+  Нажав [color=yellow][bold][keybind="OpenCharacterMenu"][/bold][/color], вы увидите свой личный код аплинка. Чтобы активировать аплинк, установите этот код в качестве рингтона вашего КПК. Это может сделать [bold]любой КПК и любой человек[/bold], так что будьте осторожны, делясь им!
+  Нажатие [color=yellow][bold][keybind="OpenCharacterMenu"][/bold][/color] также позволяет вам просматривать свои задания и кодовые слова.
 
-  If you do not have a PDA when you are activated, an [color=cyan]uplink implant[/color] is provided [bold]for the full [color=red]TC[/color] price of the implant.[/bold]
-  It can be accessed from your hotbar.
+  Если у вас нет КПК на момент активации, вам выдаётся [color=cyan]имплант-аплинк[/color] [bold]за полную стоимость импланта в [color=red]ТК.[/color][/bold]
+  Доступ к нему можно получить через вашу панель быстрого доступа.
   <Box>
-    <GuideEntityEmbed Entity="PassengerPDA" Caption="PDA"/>
-    <GuideEntityEmbed Entity="Telecrystal" Caption="Telecrystals"/>
-    <GuideEntityEmbed Entity="BaseUplinkRadio" Caption="Uplink Implant"/>
+    <GuideEntityEmbed Entity="PassengerPDA" Caption="КПК"/>
+    <GuideEntityEmbed Entity="Telecrystal" Caption="Телекристаллы"/>
+    <GuideEntityEmbed Entity="BaseUplinkRadio" Caption="Имплант-аплинк"/>
   </Box>
 
-  [bold]Make sure to close your PDA uplink to prevent anyone else from seeing it.[/bold] You don't want [color=#cb0000]Security[/color] to notice you have it and confiscate it from you!
+  [bold]Обязательно закрывайте аплинк КПК, чтобы никто другой не мог его увидеть.[/bold] Вы же не хотите, чтобы [color=#cb0000]Служба Безопасности[/color] заметила его у вас и конфисковала!
 
-  Implanted uplinks are not normally accessible to other people, so they do not have any security measures. They can, however, be removed from you with an empty implanter.
+  Имплантированные аплинки обычно недоступны другим людям, поэтому у них нет никаких мер защиты. Однако их можно извлечь из вас с помощью пустого имплантера.
 
   <Box>
-    <GuideEntityEmbed Entity="WeaponPistolViper" Caption="Guns"/>
-    <GuideEntityEmbed Entity="FireAxe" State="icon" Caption="Melee"/>
-    <GuideEntityEmbed Entity="C4" Caption=" Explosives"/>
-    <GuideEntityEmbed Entity="Syringe" Caption="Implants"/>
-    <GuideEntityEmbed Entity="ClothingBackpackDuffelSyndicate" Caption="Bundles"/>
+    <GuideEntityEmbed Entity="WeaponPistolViper" Caption="Оружие"/>
+    <GuideEntityEmbed Entity="FireAxe" State="icon" Caption="Холодное оружие"/>
+    <GuideEntityEmbed Entity="C4" Caption=" Взрывчатка"/>
+    <GuideEntityEmbed Entity="Syringe" Caption="Импланты"/>
+    <GuideEntityEmbed Entity="ClothingBackpackDuffelSyndicate" Caption="Наборы"/>
   </Box>
 
-  The purchases that you make should be to help you with your objectives. Some gear may not be of use to you, and you'll have to choose between being sneaky or going loud.
+  Ваши покупки должны помогать вам в выполнении заданий. Некоторое снаряжение может оказаться вам бесполезным, и вам придётся выбирать между скрытностью и открытыми действиями.
 
-  ## Coordination
-  Codewords are words or phrases that every traitor will know. They provide a discreet way to identify or establish contact with a fellow traitor, which can be useful if your objectives include [italic][color=cyan]helping them with their objectives.[/color][/italic]
+  ## Координация
+  Кодовые слова - это слова или фразы, известные каждому предателю. Они дают возможность незаметно опознать другого предателя или установить с ним контакт, что может быть полезно, если ваши задания включают [italic][color=cyan]помощь им в выполнении их заданий.[/color][/italic]
 
-  When you find some friends, [bold]you can withdraw [color=red]telecrystals[/color] from your uplink to give to them.[/bold] They can put these in their own uplink to spend for themselves.
+  Найдя друзей, [bold]вы можете снять [color=red]телекристаллы[/color] со своего аплинка и передать их им.[/bold] Они смогут внести их в свой собственный аплинк и потратить на себя.
 
-  Some offers available on your uplink require more than 20 TC to purchase, so if you want them you'll have to share.
+  Некоторые предложения в вашем аплинке стоят больше 20 ТК, так что если они вам нужны, придётся объединяться.
 
-  ## Assassination
-  One of your objectives may be to [italic][color=cyan]kill or maroon a crewmember.[/color][/italic]
+  ## Убийство
+  Одним из ваших заданий может быть [italic][color=cyan]убийство или изгнание члена экипажа.[/color][/italic]
 
-  You can [color=cyan]maroon[/color] your target by [bold]preventing them from reaching CentComm[/bold] via the evacuation shuttle or an escape pod.
+  Вы можете [color=cyan]изгнать[/color] свою цель, [bold]не дав ей добраться до ЦентКома[/bold] на эвакуационном шаттле или спасательной капсуле.
 
-  If you can't maroon your target or they're too important to leave alive, you'll have to get your hands dirty and [color=cyan]murder[/color] them. Make sure your target is not alive when the [bold]evacuation shuttle gets to CentComm,[/bold] and don't let them be resuscitated.
+  Если вы не можете изгнать цель, или она слишком важна, чтобы оставлять её в живых, вам придётся замарать руки и [color=cyan]убить[/color] её. Убедитесь, что ваша цель мертва к моменту, когда [bold]эвакуационный шаттл прибудет в ЦентКом,[/bold] и не дайте её воскресить.
 
-  Remember, the Syndicate want only your targets dead. [color=red]Try to avoid mass murder or major damage to the station,[/color] as the more innocent lives you take, the more of a liability you become.
+  Помните, Синдикату нужна смерть только ваших целей. [color=red]Старайтесь избегать массовых убийств или серьёзного ущерба станции,[/color] ведь чем больше невинных жизней вы заберёте, тем более обременительным вы становитесь.
 
-  ## Evasion & Self-Termination
-  Your objectives may require you to [italic][color=cyan]make it to CentComm without being killed or captured.[/color][/italic] Don't let [color=#cb0000]Security[/color] stop you, complete your other objectives and [bold]come back alive.[/bold]
+  ## Побег и самоликвидация
+  Ваши задания могут потребовать от вас [italic][color=cyan]добраться до ЦентКома, не будучи убитым или захваченным.[/color][/italic] Не дайте [color=#cb0000]Службе Безопасности[/color] остановить вас, выполните остальные задания и [bold]вернитесь живым.[/bold]
 
-  Alternatively, your objectives may require you to [italic][color=cyan]die a glorious death.[/color][/italic] [bold]Make sure you don't come back from the dead,[/bold] or else you may wake up in cuffs.
+  Либо же ваши задания могут потребовать от вас [italic][color=cyan]умереть славной смертью.[/color][/italic] [bold]Убедитесь, что не воскреснете из мёртвых,[/bold] иначе вы можете проснуться в наручниках.
 
-  ## Appropriation
-  More often than not, you'll have to [italic][color=cyan]steal a possession of a department head.[/color][/italic]
+  ## Присвоение
+  Чаще всего вам придётся [italic][color=cyan]украсть вещь, принадлежащую главе отдела.[/color][/italic]
 
-  The target may be in their office, or on their person. It may become necessary to kill whoever is carrying it, if you cannot pickpocket them.
+  Цель может находиться в их кабинете либо при них лично. Может понадобиться убить того, кто её несёт, если вы не сможете украсть её незаметно.
 
-  Some of the things you may be tasked with include:
-  - Stealing the [color=yellow]Captain[/color]'s [bold]ID Card[/bold], [bold]antique laser pistol[/bold], [bold]jetpack[/bold], or [bold]nuclear authentication disk[/bold].
+  Среди заданий, которые могут вам поручить:
+  - Украсть у [color=yellow]Капитана[/color] [bold]ID-карту[/bold], [bold]антикварный лазерный пистолет[/bold], [bold]джетпак[/bold] или [bold]диск ядерной аутентификации[/bold].
   <Box>
     <GuideEntityEmbed Entity="CaptainIDCard" Caption=""/>
     <GuideEntityEmbed Entity="WeaponAntiqueLaser" Caption=""/>
     <GuideEntityEmbed Entity="JetpackCaptainFilled" Caption=""/>
     <GuideEntityEmbed Entity="NukeDisk" Caption=""/>
   </Box>
-  - Stealing the [color=#5b97bc]Chief Medical Officer[/color]'s [bold]hypospray[/bold] or [bold]rapid syringe gun[/bold].
+  - Украсть у [color=#5b97bc]Старшего Врача[/color] [bold]гипоспрей[/bold] или [bold]скорострельный шприцемёт[/bold].
   <Box>
     <GuideEntityEmbed Entity="Hypospray" Caption=""/>
     <GuideEntityEmbed Entity="RapidSyringeGun" Caption=""/>
   </Box>
-  - Stealing the [color=#c96dbf]Research Director[/color]'s [bold]experimental hardsuit[/bold] or [bold]hand teleporter[/bold].
+  - Украсть у [color=#c96dbf]Директора по Науке[/color] [bold]экспериментальный скафандр[/bold] или [bold]ручной телепортер[/bold].
   <Box>
     <GuideEntityEmbed Entity="ClothingOuterHardsuitRd" Caption=""/>
     <GuideEntityEmbed Entity="HandTeleporter" Caption=""/>
   </Box>
-  - Stealing the [color=#cb0000]Head of Security[/color]'s [bold]energy magnum[/bold].
+  - Украсть у [color=#cb0000]Главы Службы Безопасности[/color] [bold]энергетический магнум[/bold].
   <Box>
     <GuideEntityEmbed Entity="WeaponEnergyMagnum" Caption=""/>
   </Box>
-  - Stealing the [color=#f39f27]Chief Engineer[/color]'s [bold]advanced magboots[/bold].
+  - Украсть у [color=#f39f27]Старшего Инженера[/color] [bold]улучшенные магнитные ботинки[/bold].
   <Box>
     <GuideEntityEmbed Entity="ClothingShoesBootsMagAdv" Caption=""/>
   </Box>
-  - Stealing the [color=#b18644]Quartermaster[/color]'s [bold]requisition digi-board[/bold].
+  - Украсть у [color=#b18644]Квартирмейстера[/color] [bold]цифровой планшет снабжения[/bold].
   <Box>
     <GuideEntityEmbed Entity="BoxFolderQmClipboard" Caption=""/>
   </Box>
-  - Butchering Ian, the [color=#9fed58]Head of Personnel[/color]'s dog, and obtaining the [bold]corgi meat[/bold].
+  - Разделать Иана, собаку [color=#9fed58]Главы Персонала[/color], и добыть [bold]мясо корги[/bold].
   <Box>
     <GuideEntityEmbed Entity="MobCorgiIan" Caption=""/>
     <GuideEntityEmbed Entity="FoodMeatCorgi" Caption=""/>

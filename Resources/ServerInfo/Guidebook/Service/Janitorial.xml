@@ -9,73 +9,73 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-# Janitorial
+# Уборка
 
-You keep things clean, it's a rough job sometimes, but someone's gotta do it. This will walk you through the tools of the trade, and how they're used.
+Вы поддерживаете чистоту, иногда это тяжёлая работа, но кто-то должен её делать. Здесь вы узнаете об инструментах вашего ремесла и о том, как ими пользоваться.
 
-## Basic Equipment
+## Базовое оборудование
 <Box>
-<GuideEntityEmbed Entity="MopItem"/>
-<GuideEntityEmbed Entity="JanitorialTrolley"/>
-<GuideEntityEmbed Entity="MopBucket"/>
-<GuideEntityEmbed Entity="Bucket"/>
-<GuideEntityEmbed Entity="TrashBag"/>
+  <GuideEntityEmbed Entity="MopItem"/>
+  <GuideEntityEmbed Entity="JanitorialTrolley"/>
+  <GuideEntityEmbed Entity="MopBucket"/>
+  <GuideEntityEmbed Entity="Bucket"/>
+  <GuideEntityEmbed Entity="TrashBag"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="SprayBottleSpaceCleaner"/>
-<GuideEntityEmbed Entity="BoxLightMixed"/>
-<GuideEntityEmbed Entity="SoapNT"/>
-<GuideEntityEmbed Entity="Mousetrap"/>
+  <GuideEntityEmbed Entity="SprayBottleSpaceCleaner"/>
+  <GuideEntityEmbed Entity="BoxLightMixed"/>
+  <GuideEntityEmbed Entity="SoapNT"/>
+  <GuideEntityEmbed Entity="Mousetrap"/>
 </Box>
 
-## Additional Equipment
+## Дополнительное оборудование
 <Box>
-<GuideEntityEmbed Entity="WetFloorSign"/>
-<GuideEntityEmbed Entity="Holoprojector" Caption="holosign projector"/>
-<GuideEntityEmbed Entity="LightReplacer"/>
-<GuideEntityEmbed Entity="WireBrush"/>
+  <GuideEntityEmbed Entity="WetFloorSign"/>
+  <GuideEntityEmbed Entity="Holoprojector" Caption="проектор голографического знака"/>
+  <GuideEntityEmbed Entity="LightReplacer"/>
+  <GuideEntityEmbed Entity="WireBrush"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="AdvMopItem" Caption="Advanced mop, ask in R&D"/>
+  <GuideEntityEmbed Entity="AdvMopItem" Caption="Продвинутая швабра, спросите в НиР"/>
 </Box>
 
-## Fluid Acquisition and Disposal
+## Добыча жидкости и её утилизация
 <Box>
-<GuideEntityEmbed Entity="WaterTankFull"/>
-<GuideEntityEmbed Entity="Sink"/>
-<GuideEntityEmbed Entity="FloorDrain"/>
+  <GuideEntityEmbed Entity="WaterTankFull"/>
+  <GuideEntityEmbed Entity="Sink"/>
+  <GuideEntityEmbed Entity="FloorDrain"/>
 </Box>
 
-## Tidying up.
-Now, onto the (figurative) meat and potatoes. We're here to clean, right? Lets keep it simple. The main tools you'll be putting to use are the trusty mop, a trash bag, space cleaner, and one of the three different buckets.
+## Наведение порядка
+Теперь перейдём к (образно говоря) сути дела. Мы здесь для того, чтобы убираться, верно? Давайте не будем усложнять. Основные инструменты, которые вы будете использовать, — это верная швабра, мусорный пакет, космоочиститель и одно из трёх видов вёдер.
 
-Mopping: Fill your cart up with water, then, find some puddles! Wet your mop, and wipe them up, the resulting water puddle will dry after a short time. Don't forget the wet floor signs!
-- To drain your cart, drag it (with your cursor) onto a floor drain. This will dump all the fluids inside! Floor drains can usually be found somewhere in medical, the kitchen freezer, and of course, the janitor closet.
+Мытьё полов: наполните свою тележку водой, а затем найдите лужи! Намочите швабру и вытрите их — оставшаяся лужа воды высохнет через некоторое время. Не забывайте про знаки «Мокрый пол»!
+- Чтобы слить воду из тележки, перетащите её (курсором) на сливное отверстие в полу. Это выльет всю жидкость изнутри! Сливные отверстия обычно можно найти где-нибудь в медотсеке, в морозильной камере кухни и, конечно же, в чулане уборщика.
 
-Trash: Place it in the bag directly, or hold it in your hand. Click -near- trash to scoop -all- nearby junk up, or click on each piece individually. Using the bag on a disposal will empty it.
-- Cargo might want some of your trash, it might be worthwhile to check in from time to time!
+Мусор: кладите его прямо в пакет или держите в руке. Кликните -рядом- с мусором, чтобы собрать -весь- мусор поблизости, или кликайте по каждому предмету по отдельности. Использование пакета на утилизаторе опустошит его.
+- Грузовому отделу может понадобиться часть вашего мусора, так что иногда стоит заглядывать туда!
 
-Space Cleaner: This miracle spray can do two things, clean graffiti, and in a pinch, clean up puddles!
-- You might be able to get more of this from chemistry.
+Космоочиститель: этот чудо-спрей умеет делать две вещи — очищать граффити и, в крайнем случае, вытирать лужи!
+- Возможно, вы сможете получить его больше у химиков.
 
-Light Replacer: Just point at broken bulbs and click!
-- Replace enough broken ones, get a bulb for free!
+Заменитель ламп: просто наведите на перегоревшую лампочку и кликните!
+- Замените достаточно перегоревших лампочек — и получите одну бесплатно!
 
-Janitorial Keyring: Your trusty keys, hundreds of them on a single ring. If only you could remember which goes where...
-- At the start of the round, the keyring will spawn with a few randomized access levels. It could open cargo, it could open medical, who knows?
+Связка ключей уборщика: ваши верные ключи, сотни штук на одном кольце. Вот бы ещё вспомнить, какой от чего...
+- В начале раунда связка ключей появляется с несколькими случайными уровнями доступа. Может, она откроет грузовой отдел, а может — медотсек, кто знает?
 
-## Dealing with footprints and trails.
-It gets a little tedious cleaning [italic]every[/italic] little footprint left behind by those pesky doctors.
-The solution? A little bit of elbow grease!
+## Борьба со следами и дорожками грязи
+Немного утомительно убирать [italic]каждый[/italic] маленький след, оставленный этими надоедливыми докторами.
+Решение? Немного усердного труда!
 
-There's two ways of going about this:
-- Using a mop on the floor near footprints will scrub the area of footprints and trails. [bold]Although slow, this has the benefit of not gunking up your mop.[/bold]
-- You can use a bar of soap or a damp rag for the same effect, albeit worse.
+Есть два способа справиться с этим:
+- Использование швабры на полу рядом со следами очистит область от следов и дорожек грязи. [bold]Хотя это медленно, зато у этого способа есть преимущество — швабра не пачкается.[/bold]
+- Вы также можете использовать кусок мыла или влажную тряпку для того же эффекта, хотя и с худшим результатом.
 
-## Extra Duties
-A good janitor is always on the lookout for a bit more to do, and there are plenty of tools at your disposal. Keep an eye out for broken lights, help the chef take care of mice in the kitchen, and if you're feeling -really- generous, try to restock the vending machines and emergency closets around the station!
+## Дополнительные обязанности
+Хороший уборщик всегда ищет, чем бы ещё заняться, и в его распоряжении множество инструментов. Следите за перегоревшими лампами, помогайте шеф-повару разбираться с мышами на кухне, а если вы настроены -очень- великодушно, попробуйте пополнить торговые автоматы и аварийные шкафчики по всей станции!
 
-##Additional Information:
+##Дополнительная информация:
 <GuideReagentEmbed Reagent="SpaceCleaner"/>
 <GuideReagentEmbed Reagent="Ammonia"/>
 

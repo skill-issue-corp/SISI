@@ -9,27 +9,27 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Radioisotope Thermoelectric Generator (RTG)
+  # Радиоизотопный термоэлектрический генератор (РИТЭГ)
 
   <Box>
-    <GuideEntityEmbed Entity="GeneratorRTG" Caption="RTG" />
+    <GuideEntityEmbed Entity="GeneratorRTG" Caption="РИТЭГ" />
   </Box>
 
-  A Radioisotope Thermoelectric Generator (RTG) is a passive power source that generates power from the decay of radioactive isotopes.
+  Радиоизотопный термоэлектрический генератор (РИТЭГ) - это пассивный источник питания, вырабатывающий энергию за счёт распада радиоактивных изотопов.
 
-  They require no maintenance and are a reliable source of power, making them ideal for powering essential systems that need to be online at all times, like Telecoms, the AI, or the Crew Monitoring Server.
+  Они не требуют обслуживания и являются надёжным источником питания, что делает их идеальными для питания важнейших систем, которые должны работать постоянно, таких как Телекоммуникации, ИИ или Сервер Мониторинга Экипажа.
 
-  RTGs always generate [color=orange][protodata="GeneratorRTG" comp="PowerSupplier" member="MaxSupply" format="N0"/] W[/color] of power and must be connected to an [color=orange]HV power[/color] [textlink="network" link="VoltageNetworks"] to function.
+  РИТЭГи всегда вырабатывают [color=orange][protodata="GeneratorRTG" comp="PowerSupplier" member="MaxSupply" format="N0"/] Вт[/color] мощности и должны быть подключены к [color=orange]сети высокого напряжения[/color] [textlink="сети" link="VoltageNetworks"] для работы.
 
-  However, they're only accessible through salvage finding one on an expedition. Should they bring some in, make sure to thank them!
+  Однако получить их можно только благодаря утилизаторам, нашедшим один во время экспедиции. Если они принесут вам такой генератор, обязательно поблагодарите их!
 
-  ## RTG Damage
+  ## Повреждение РИТЭГа
   <Box>
-    <GuideEntityEmbed Entity="GeneratorRTGDamaged" Caption="Damaged RTG" />
+    <GuideEntityEmbed Entity="GeneratorRTGDamaged" Caption="Повреждённый РИТЭГ" />
   </Box>
-  If RTGs take enough damage, they can become damaged RTGs.
-  Damaged RTGs behave just like regular ones, but they're [color=yellow]radioactive[/color].
+  Если РИТЭГи получат достаточно повреждений, они могут стать повреждёнными РИТЭГами.
+  Повреждённые РИТЭГи ведут себя так же, как и обычные, но они [color=yellow]радиоактивны[/color].
 
-  That means they're more dangerous, but on the bright side, you can put radiation collectors next to them to turn that radiation into more power.
-  This is usually more worthwhile, considering the power is still free, so long as you can find a safe spot to put the RTG(s) in.
+  Это значит, что они более опасны, но, с другой стороны, вы можете разместить рядом с ними коллекторы радиации, чтобы превратить эту радиацию в дополнительную энергию.
+  Обычно это того стоит, ведь энергия всё равно остаётся бесплатной, если вы сможете найти безопасное место для размещения РИТЭГа (или РИТЭГов).
 </Document>

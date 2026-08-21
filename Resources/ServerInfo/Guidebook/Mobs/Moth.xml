@@ -7,18 +7,18 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Moth People
+  # Мотыльки
 
   <Box>
     <GuideEntityEmbed Entity="AppearanceMoth" Caption=""/>
   </Box>
 
-  They can eat cotton, fabrics and clothing, but virtually none of the food that others would consider "edible". They prefer a somewhat lower temperature range than humans.
+  Они могут есть хлопок, ткани и одежду, но практически не способны есть то, что другие считают «съедобным». Они предпочитают несколько более низкий диапазон температур, чем люди.
 
-  Their wings give them better acceleration if there is no gravity on the station, but they still can't move without equipment when floating out in space.
+  Их крылья дают им лучшее ускорение, если на станции нет гравитации, но они всё равно не могут двигаться без снаряжения, находясь в открытом космосе.
 
-  They take [color=#1e90ff]30% less Cold damage[/color] but [color=#ffa500]30% more Heat and 6.5% more Brute damage, and catch on fire more easily[/color].
+  Они получают [color=#1e90ff]на 30% меньше урона от холода[/color], но [color=#ffa500]на 30% больше урона от тепла и на 6.5% больше урона от грубой силы, а также легче загораются[/color].
 
-  They have innate [textlink="Tackle" link="Tackle"], allowing them to dash a short distance, as well as bonus to tackling with special gloves.
+  У них есть врождённый навык [textlink="Захват" link="Tackle"], позволяющий совершать рывок на короткое расстояние, а также бонус к захвату при использовании специальных перчаток.
 
 </Document>

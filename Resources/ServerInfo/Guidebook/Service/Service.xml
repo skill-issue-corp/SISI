@@ -1,29 +1,29 @@
 <Document>
 
-# Service
+# Обслуживание
 <!-- Trauma - moved non-service jobs into Civilian guidebook -->
-[color=#9fed58]Service[/color] has perhaps the most important job of all: keeping the crew both fed and topped up on booze.
+У [color=#9fed58]Обслуживания[/color], возможно, самая важная работа из всех: следить, чтобы экипаж был сыт и не испытывал недостатка в выпивке.
 
-## Personnel
-[color=#9fed58]Service[/color]'s staff is made up of Bartenders, Botanists, Chefs and Service Workers.
-Service is run by the [bold]Head of Personnel[/bold], who also manages [textlink="other minor jobs" link="Civilian"/] to a lesser degree.
+## Персонал
+Штат [color=#9fed58]Обслуживания[/color] состоит из барменов, ботаников, шеф-поваров и работников сферы обслуживания.
+Обслуживанием руководит [bold]глава персонала[/bold], который также в меньшей степени управляет [textlink="другими второстепенными профессиями" link="Civilian"/].
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineBotanist" Caption="Botanist"/>
-    <GuideEntityEmbed Entity="ToyFigurineBartender" Caption="Bartender"/>
-    <GuideEntityEmbed Entity="ToyFigurineChef" Caption="Chef"/>
-    <GuideEntityEmbed Entity="PlushieLizardJobServiceworker" Caption="Service Worker"/> <!-- TODO: replace with figurine if someone ever makes that -->
-    <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="HoP"/>
+    <GuideEntityEmbed Entity="ToyFigurineBotanist" Caption="Ботаник"/>
+    <GuideEntityEmbed Entity="ToyFigurineBartender" Caption="Бармен"/>
+    <GuideEntityEmbed Entity="ToyFigurineChef" Caption="Шеф-повар"/>
+    <GuideEntityEmbed Entity="PlushieLizardJobServiceworker" Caption="Работник сферы обслуживания"/> <!-- TODO: replace with figurine if someone ever makes that -->
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfPersonnel" Caption="ГП"/>
   </Box>
 
-## Working Together
-[color=#9fed58]Service[/color], tends to be the most [color=#a4885c]interlinked[/color] department by far.
-Most [color=#9fed58]Service[/color] jobs require [color=#a4885c]cooperation[/color] between workers.
-Chefs often need ingredients that only botanists can grow efficiently. The bartender may request bananas for special cocktails.
+## Работа в команде
+[color=#9fed58]Обслуживание[/color] — пожалуй, самый [color=#a4885c]взаимосвязанный[/color] отдел из всех.
+Большинство профессий в [color=#9fed58]Обслуживании[/color] требуют [color=#a4885c]сотрудничества[/color] между работниками.
+Шеф-поварам часто нужны ингредиенты, которые эффективно может вырастить только ботаник. Бармену могут понадобиться бананы для особых коктейлей.
 
-A lot of [color=#a4885c]collaboration[/color] is necessary within and without [color=#9fed58]Service[/color]. Often times, [color=#9fed58]Service[/color] is required by other departments, so be on your toes.
+Как внутри [color=#9fed58]Обслуживания[/color], так и за его пределами необходимо много [color=#a4885c]взаимодействия[/color]. Часто помощь [color=#9fed58]Обслуживания[/color] требуется другим отделам, так что будьте начеку.
 
 <!-- <Trauma> - added this -->
-By far the most common departments to work with [color=#9fed58]Service[/color] are [color=#a46106]Cargo[/color] and [color=#5b97bc]Medical[/color].
+Чаще всего с [color=#9fed58]Обслуживанием[/color] работают отделы [color=#a46106]Грузового отдела[/color] и [color=#5b97bc]Медицинского отдела[/color].
 <!-- </Trauma> -->
 </Document>

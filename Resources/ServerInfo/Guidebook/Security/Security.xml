@@ -12,13 +12,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Security
-Ensuring the safety of both station and crew is number one for [color=#cb0000]Security[/color]. They are ready for any situation, and [color=#cb0000]Security[/color] are on hand to maintain order and control crowds.
+  # Служба безопасности
+  Обеспечение безопасности станции и экипажа - главная задача [color=#cb0000]Службы Безопасности[/color]. Они готовы к любой ситуации, и [color=#cb0000]Служба Безопасности[/color] всегда рядом, чтобы поддерживать порядок и контролировать толпу.
 
-They face [textlink="Syndicate Agents" link="Traitors"], [textlink="Nuclear Operatives" link="NuclearOperatives"], [textlink="Zombies" link="Zombies"] and unruly staff.
+  Им противостоят [textlink="Агенты Синдиката" link="Traitors"], [textlink="Ядерные Оперативники" link="NuclearOperatives"], [textlink="Зомби" link="Zombies"] и непокорный персонал.
 
-## Personnel
-[color=#cb0000]Security[/color]'s staff is made up of Security Cadets, Security Officers, the Detective and the Brigmedic. [color=#cb0000]Security[/color] is run by the Warden and Head of Security.
+  ## Персонал
+  Штат [color=#cb0000]Службы Безопасности[/color] состоит из курсантов службы безопасности, офицеров службы безопасности, детектива и бриг-медика. [color=#cb0000]Службой Безопасности[/color] руководят варден и глава службы безопасности.
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Secoff"/>
@@ -28,30 +28,30 @@ They face [textlink="Syndicate Agents" link="Traitors"], [textlink="Nuclear Oper
     <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="HoS"/>
   </Box>
 
-## Gear
-First we have non-lethals a step above simply telling someone to cooperate with instructions. Both the stunbaton and disabler are capable of limiting the movement of an assailant, whereas handcuffs can be applied to deny a criminal free movement and access to their hands.
+  ## Снаряжение
+  Начнём с нелетальных средств, которые представляют собой шаг выше, чем просто попросить кого-то выполнить указания. И станер-дубинка, и дизейблер способны ограничить движение нарушителя, а наручники можно применить, чтобы лишить преступника свободного передвижения и доступа к рукам.
 
-Stunbaton operates differently depending on attack type. On light attack ([color=yellow]Left click[/color]) it deals 60 immediate stamina damage and knocks target down for 4 seconds after 2 second delay, these values are can be modified or cancelled entirely by armor and stimulants. Light attacks are delayed by 2.5 seconds and consume twice as much battery power. Heavy attacks ([color=yellow]Right click[/color]) deal 15 immediate stamina damage and 40 overtime stamina damage, which soft-crits the target after 2 hits when overtime stamina damage reaches stamcrit threshold (100 stamina damage for most species). Soft stamina crit still allows the target to crawl, but any immediate stamina damage will stamcrit them, allowing them to be cuffed. To stun your target using heavy stunbaton attack, you need to either hit them twice, then wait a while until they are knocked down and hit them once more to fully stamcrit them, or hit them four times in quick succession.
+  Станер-дубинка работает по-разному в зависимости от типа атаки. При лёгкой атаке ([color=yellow]левый клик[/color]) она наносит 60 единиц немедленного урона по выносливости и сбивает цель с ног на 4 секунды после задержки в 2 секунды - эти значения могут быть изменены или полностью отменены бронёй и стимуляторами. Лёгкие атаки имеют задержку в 2,5 секунды и расходуют вдвое больше заряда батареи. Тяжёлые атаки ([color=yellow]правый клик[/color]) наносят 15 единиц немедленного урона по выносливости и 40 единиц урона по выносливости с течением времени, что приводит цель в мягкий крит после 2 попаданий, когда накопленный урон по выносливости достигает порога стамкрита (100 единиц урона по выносливости для большинства видов). Мягкий стамкрит всё ещё позволяет цели ползти, но любой немедленный урон по выносливости приведёт её в полный стамкрит, позволяя надеть наручники. Чтобы оглушить цель тяжёлой атакой станер-дубинки, нужно либо ударить её дважды, затем немного подождать, пока она не будет сбита с ног, и ударить ещё раз, чтобы полностью привести её в стамкрит, либо нанести четыре удара подряд в быстрой последовательности.
   <Box>
     <GuideEntityEmbed Entity="Stunbaton"/>
     <GuideEntityEmbed Entity="Handcuffs"/>
-   <GuideEntityEmbed Entity="WeaponDisabler"/>
+    <GuideEntityEmbed Entity="WeaponDisabler"/>
   </Box>
 
-## Flashes
-[color=#a4885c]Flashes[/color] are an effective tool for dispersing crowds and apprehending particularly evasive targets, with a large area of effect blinding all those without protection.
-It is worth noting that flashes can be both used in a large area ([color=yellow]Z[/color] hotkey) and if you attack somebody with it while [color=red]harm mode[/color] is active. Important to note that localized flashes last [color=yellow]2.5[/color] times as long as large area ones.
-[color=#cb0000]Security[/color] and [color=#a4885c]some[/color] other members of staff have eye protection from flashbangs and flashes.
+  ## Вспышки
+  [color=#a4885c]Вспышки[/color] - эффективный инструмент для разгона толпы и задержания особо увёртливых целей: они имеют большую область действия, ослепляя всех, у кого нет защиты.
+  Стоит отметить, что вспышки можно применять как в большой области ([color=yellow]горячая клавиша Z[/color]), так и атаковав ими кого-то при активном [color=red]режиме нанесения урона[/color]. Важно отметить, что локальные вспышки длятся в [color=yellow]2,5[/color] раза дольше, чем вспышки с большой областью действия.
+  [color=#cb0000]Служба Безопасности[/color] и [color=#a4885c]некоторые[/color] другие сотрудники имеют защиту глаз от светошумовых гранат и вспышек.
 
-Flashbangs emit loud noise on trigger, knocking down everyone in large area, knockdown duration scales with the distance to the epicenter. Ear protection in a form of some helmets and over-ear headsets that [color=#cb0000]Security[/color] and [color=#a4885c]all[/color] command staff has suppresses flashbang noise to some extent, allowing you to use flashbangs safely at range but at the same time preventing you from blowing them up in your hands.
+  Светошумовые гранаты при срабатывании издают громкий звук, сбивая с ног всех в большой области, при этом длительность оглушения зависит от расстояния до эпицентра. Защита ушей в виде некоторых шлемов и накладных наушников, которые есть у [color=#cb0000]Службы Безопасности[/color] и [color=#a4885c]всего[/color] командного состава, в некоторой степени подавляет звук светошумовых гранат, позволяя безопасно использовать их на расстоянии, но в то же время не позволяя взрывать их прямо в руках.
   <Box>
     <GuideEntityEmbed Entity="Flash"/>
     <GuideEntityEmbed Entity="ClothingEyesGlassesSecurity"/>
     <GuideEntityEmbed Entity="GrenadeFlashBang"/>
   </Box>
 
-## Lethals
-Should the situation dictate, [color=#cb0000]Security[/color] have access to laser rifles, shotguns, handguns and automatic rifles able to put down substantial fire against any who would stand against the station.
+  ## Летальное оружие
+  Если того потребует ситуация, [color=#cb0000]Служба Безопасности[/color] имеет доступ к лазерным винтовкам, дробовикам, пистолетам и автоматическим винтовкам, способным вести существенный огонь против любого, кто выступит против станции.
   <Box>
     <GuideEntityEmbed Entity="WeaponLaserCarbine"/>
     <GuideEntityEmbed Entity="WeaponShotgunKammerer"/>
