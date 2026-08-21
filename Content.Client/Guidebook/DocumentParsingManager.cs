@@ -36,10 +36,16 @@ public sealed partial class DocumentParsingManager
             .Assert(_tagControlParsers.ContainsKey, tag => $"unknown tag: {tag}")
             .Bind(tag => _tagControlParsers[tag]);
 
-        var whitespaceAndCommentParser = SkipWhitespaces.Then(Try(String("<!--").Then(Parser<char>.Any.SkipUntil(Try(String("-->"))))).SkipMany());
+        // SIS-Fix_Document_Parsing Start
+        var comment = Try(String("<!--").Then(Parser<char>.Any.SkipUntil(Try(String("-->")))));
+        var whitespaceAndCommentParser = SkipWhitespaces.Then(comment.Then(SkipWhitespaces).SkipMany());
+        // SIS-Fix_Document_Parsing End
 
-        _controlParser = OneOf(_tagParser, TryHeaderControl, ListControlParser, TextControlParser)
-            .Before(whitespaceAndCommentParser);
+        // SIS-Fix_Document_Parsing Start
+        _controlParser = whitespaceAndCommentParser
+            .Then(OneOf(_tagParser, TryHeaderControl, ListControlParser, TextControlParser)
+                .Before(whitespaceAndCommentParser));
+        // SIS-Fix_Document_Parsing End
 
         foreach (var typ in _reflectionManager.GetAllChildren<IDocumentTag>())
         {
