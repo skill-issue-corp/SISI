@@ -1,8 +1,8 @@
 ent-MobCosmicColossusBase = энтропийный колосс
-    .desc = Колоссальное чудовище из злокачественной брони и дендритного заражения.
+    .desc = Колоссальное чудовище из зловещей брони и дендритного заражения.
 
 ent-MobCosmicColossusLone = { ent-MobCosmicColossusBase }
-    .desc = Древнее чудовище из злокачественной брони и дендритного заражения.
+    .desc = Древнее чудовище из зловещей брони и дендритного заражения.
     .suffix = MidRoundAntag
 
 ent-MobCosmicColossus = { ent-MobCosmicColossusBase }

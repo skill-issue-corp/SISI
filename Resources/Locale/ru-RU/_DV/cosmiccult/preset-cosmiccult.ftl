@@ -144,7 +144,7 @@ objective-cosmiccult-steward-charactermenu = Вы должны направля�
 
 objective-condition-entropy-title = ВЫКАЧАТЬ ЭНТРОПИЮ
 objective-condition-entropy-desc = Совместно выкачайте у экипажа не менее {$count} энтропии.
-objective-condition-culttier-title = ДОСТИЧЬ СИЛЫ
+objective-condition-culttier-title = ОБРЕСТИ МОГУЩЕСТВО
 objective-condition-culttier-desc = Соберите достаточно энтропии, чтобы дотянуться до конца.
 objective-condition-victory-title = ПРИБЛИЗИТЬ КОНЕЦ
 objective-condition-victory-desc = Призовите Неизвестное и возвестите последний занавес.

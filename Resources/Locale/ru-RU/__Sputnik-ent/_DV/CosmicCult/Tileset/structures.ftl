@@ -1,21 +1,21 @@
-ent-CosmicShuttleCore = злокачественный инструмент
+ent-CosmicShuttleCore = зловещий инструмент
     .desc = Его поверхность светится множеством непостижимых символов, передающих в ваш разум одно-единственное слово: «Полёт».
 
-ent-CosmicChair = злокачественное кресло
+ent-CosmicChair = зловещее кресло
     .desc = { ent-SeatBase.desc }
 
-ent-CosmicObelisk = злокачественный обелиск
+ent-CosmicObelisk = зловещий обелиск
     .desc = Загадочное, но безжизненное сооружение. Тревожащее.
 
-ent-CosmicThruster = злокачественный двигатель
+ent-CosmicThruster = зловещий двигатель
     .desc = { ent-BaseStructure.desc }
 
-ent-CosmicLamp = злокачественный свет
+ent-CosmicLamp = зловещий свет
     .desc = Внутри мерцает крупица не-света.
     .suffix = Always Powered
 
 ent-AltarCosmic = космический алтарь
     .desc = Алтарь... чего-то.
 
-ent-CosmicTable = злокачественный стол
+ent-CosmicTable = зловещий стол
     .desc = Непостижимо, по-космически... квадратный.

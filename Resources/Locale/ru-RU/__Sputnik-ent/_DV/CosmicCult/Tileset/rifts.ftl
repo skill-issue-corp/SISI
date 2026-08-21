@@ -1,5 +1,5 @@
-ent-CosmicMalignRift = злокачественный разлом
-    .desc = Изнутри льётся злокачественный свет.
+ent-CosmicMalignRift = зловещий разлом
+    .desc = Изнутри льётся зловещий свет.
 ent-CosmicMalignRiftDebug = { ent-CosmicMalignRift }
     .desc = { ent-CosmicMalignRift.desc }
     .suffix = Debug

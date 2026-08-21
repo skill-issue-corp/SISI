@@ -1,21 +1,21 @@
-ent-WallCosmicCult = злокачественная стена
+ent-WallCosmicCult = зловещая стена
     .desc = Странная на вид стена. Слишком долгий взгляд на неё вызывает чувство дискомфорта.
 
-ent-WallCosmicCultTrimmed = злокачественная стена
+ent-WallCosmicCultTrimmed = зловещая стена
     .desc = { ent-WallCosmicCult.desc }
     .suffix = Trimmed
 
-ent-WindowCosmicCult = злокачественное окно
+ent-WindowCosmicCult = зловещее окно
     .desc = Странное на вид окно. Что-то в нём вас тревожит.
 
-ent-WindowCosmicCultDark = злокачественное окно
+ent-WindowCosmicCultDark = зловещее окно
     .desc = { ent-WindowCosmicCult.desc }
     .suffix = Tinted
 
-ent-WindowCosmicCultDiagonal = злокачественное окно
+ent-WindowCosmicCultDiagonal = зловещее окно
     .desc = Странное на вид окно. Что-то в нём вас тревожит.
     .suffix = Diagonal
 
-ent-WindowCosmicCultDiagonalDark = злокачественное окно
+ent-WindowCosmicCultDiagonalDark = зловещее окно
     .desc = { ent-WindowCosmicCultDiagonal.desc }
     .suffix = Diagonal, Tinted

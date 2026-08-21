@@ -1,2 +1,2 @@
-ent-DoorCosmicCult = злокачественный проход
+ent-DoorCosmicCult = зловещий проход
     .desc = Странное, тревожащее сооружение.
