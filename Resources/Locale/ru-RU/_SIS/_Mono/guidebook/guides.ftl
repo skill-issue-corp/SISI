@@ -1,1 +1,1 @@
-guide-entry-cortical-borer = Cortical Borer
+guide-entry-cortical-borer = Кортикальный Червь

@@ -6,4 +6,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-surgery-popup-step-SurgeryStepRemoveCorticalBorer = {$user} is removing the Cortical Borer from {$target}'s {$part}!
+surgery-popup-step-SurgeryStepRemoveCorticalBorer = {$user} удаляет Кортикального Червя из {$part} {$target}!

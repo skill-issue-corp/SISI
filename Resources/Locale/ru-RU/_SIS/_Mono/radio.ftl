@@ -1,1 +1,1 @@
-chat-radio-cortical-borer = Cortical Borer Hivemind
+chat-radio-cortical-borer = Разум Улья Кортикальных Червей
