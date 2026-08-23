@@ -1,9 +1,9 @@
 <Document>
   ## Игра за Ксеноморфа
 
-  <Box>
-    <GuideEntityEmbed Entity="ResinWeedNode" Caption=""/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="ResinWeedNode" Caption=""/>
+</Box>
 
   ### Начальный спавн и выживание
 
@@ -71,21 +71,21 @@
   Когда Королева уже установлена, Трутень выполняет роль архитектора улья.
   Вы можете возводить несколько ключевых конструкций для укрепления гнезда:
 
-  <Box>
-    <GuideEntityEmbed Entity="WallResin" Caption=""/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="WallResin" Caption=""/>
+</Box>
 
   - Смоляные стены: стандартные стены для блокировки путей и создания узких проходов.
 
-  <Box>
-    <GuideEntityEmbed Entity="ResinMembrane" Caption=""/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="ResinMembrane" Caption=""/>
+</Box>
 
   - Смоляные мембраны: прочные окна, позволяющие видеть внутрь и наружу гнезда.
 
-  <Box>
-    <GuideEntityEmbed Entity="ResinNest" Caption=""/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="ResinNest" Caption=""/>
+</Box>
 
   - Смоляные гнёзда: ложа, используемые для удержания захваченных носителей, пока в них созревает личинка.
   Не являясь основной боевой единицей, вы всё же должны быть готовы защищать Королеву.

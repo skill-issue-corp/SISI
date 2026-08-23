@@ -7,10 +7,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 <Document>
 
-  # Особые
+# Особые
 
-  Эти реагенты обладают либо экзотическими источниками, либо уникальными свойствами, либо и тем, и другим одновременно.
+Эти реагенты обладают либо экзотическими источниками, либо уникальными свойствами, либо и тем, и другим одновременно.
 
-  <GuideReagentGroupEmbed Group="Special"/>
+<GuideReagentGroupEmbed Group="Special"/>
 
 </Document>

@@ -1,58 +1,58 @@
 <Document>
-  # Рыбалка
-  Рыбалка - это способ добывать возобновляемые ресурсы, а также приличное количество еды! Также она открывает доступ к некоторым предметам, недоступным иным способом...
+# Рыбалка
+Рыбалка - это способ добывать возобновляемые ресурсы, а также приличное количество еды! Также она открывает доступ к некоторым предметам, недоступным иным способом...
 
 
-  <Box>
-    <GuideEntityEmbed Entity="FishBass" Caption="НАСТОЯЩАЯ РЫБА"/>
-    <GuideEntityEmbed Entity="FishTropical" Caption="НАСТОЯЩАЯ РЫБА"/>
-    <GuideEntityEmbed Entity="FishFatFuckingCunt" Caption="ТУПОЕ"/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="FishBass" Caption="НАСТОЯЩАЯ РЫБА"/>
+  <GuideEntityEmbed Entity="FishTropical" Caption="НАСТОЯЩАЯ РЫБА"/>
+  <GuideEntityEmbed Entity="FishFatFuckingCunt" Caption="ТУПОЕ"/>
+</Box>
 
-  # Начало работы
-  Начните с приобретения удочки. Вы можете скрафтить удочку или заказать её из карго. Не все удочки одинаковы по характеристикам.
+# Начало работы
+Начните с приобретения удочки. Вы можете скрафтить удочку или заказать её из карго. Не все удочки одинаковы по характеристикам.
 
-  <Box>
-    <GuideEntityEmbed Entity="FishingRodMakeshift" Caption="Самодельная удочка"/>
-    <GuideEntityEmbed Entity="FishingRod" Caption="Заказанная удочка"/>
-    <GuideEntityEmbed Entity="FishingRodGolden" Caption="Секретная удочка..."/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="FishingRodMakeshift" Caption="Самодельная удочка"/>
+  <GuideEntityEmbed Entity="FishingRod" Caption="Заказанная удочка"/>
+  <GuideEntityEmbed Entity="FishingRodGolden" Caption="Секретная удочка..."/>
+</Box>
 
-  Как только у вас есть удочка, найдите место для рыбалки. На данный момент рыбачить можно в следующих структурах:
+Как только у вас есть удочка, найдите место для рыбалки. На данный момент рыбачить можно в следующих структурах:
 
-  <Box>
-    <GuideEntityEmbed Entity="WaterFishingPool" Caption="Заказывается из карго"/>
-    <GuideEntityEmbed Entity="LavaFishingPool" Caption="Заказывается из карго"/>
-    <GuideEntityEmbed Entity="PlasmaFishingPool" Caption="Заказывается из карго"/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="FloorWaterEntity" Caption="Встречается в природе"/>
-    <GuideEntityEmbed Entity="FloorLavaEntity" Caption="Встречается в природе"/>
-    <GuideEntityEmbed Entity="FloorLiquidPlasmaEntity" Caption="Встречается в природе"/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="ToiletDirtyWater" Caption="Фу!"/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="WaterFishingPool" Caption="Заказывается из карго"/>
+  <GuideEntityEmbed Entity="LavaFishingPool" Caption="Заказывается из карго"/>
+  <GuideEntityEmbed Entity="PlasmaFishingPool" Caption="Заказывается из карго"/>
+</Box>
+<Box>
+  <GuideEntityEmbed Entity="FloorWaterEntity" Caption="Встречается в природе"/>
+  <GuideEntityEmbed Entity="FloorLavaEntity" Caption="Встречается в природе"/>
+  <GuideEntityEmbed Entity="FloorLiquidPlasmaEntity" Caption="Встречается в природе"/>
+</Box>
+<Box>
+  <GuideEntityEmbed Entity="ToiletDirtyWater" Caption="Фу!"/>
+</Box>
 
-  # Мини-игра
+# Мини-игра
 
-  Как только рыба клюнет, спамьте кнопку «Z», чтобы подсечь её! Вот так всё просто.
+Как только рыба клюнет, спамьте кнопку «Z», чтобы подсечь её! Вот так всё просто.
 
-  <Box>
-    <GuideEntityEmbed Entity="BloodWritingZ" Caption="Вот так выглядит буква Z."/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="BloodWritingZ" Caption="Вот так выглядит буква Z."/>
+</Box>
 
-  # Добыча
+# Добыча
 
-  На каждом месте для рыбалки можно получить разную добычу, в основном это рыба, но иногда попадаются особые секретные предметы или другие полезные вещи. Обязательно разделывайте редкую рыбу, чтобы извлечь из неё особые предметы!
+На каждом месте для рыбалки можно получить разную добычу, в основном это рыба, но иногда попадаются особые секретные предметы или другие полезные вещи. Обязательно разделывайте редкую рыбу, чтобы извлечь из неё особые предметы!
 
-  <Box>
-    <GuideEntityEmbed Entity="Wonderprod" Caption=" "/>
-    <GuideEntityEmbed Entity="ClothingHeadHelmetAbductor" Caption=" "/>
-    <GuideEntityEmbed Entity="FishAbductor" Caption="Редкая рыба хранит для вас множество сокровищ..."/>
-    <GuideEntityEmbed Entity="ClothingOuterCoatAbductor" Caption=" "/>
-    <GuideEntityEmbed Entity="WeaponAlien" Caption=" "/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="Wonderprod" Caption=" "/>
+  <GuideEntityEmbed Entity="ClothingHeadHelmetAbductor" Caption=" "/>
+  <GuideEntityEmbed Entity="FishAbductor" Caption="Редкая рыба хранит для вас множество сокровищ..."/>
+  <GuideEntityEmbed Entity="ClothingOuterCoatAbductor" Caption=" "/>
+  <GuideEntityEmbed Entity="WeaponAlien" Caption=" "/>
+</Box>
 
 
 

@@ -12,58 +12,58 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Криогеника
-  Понять криогенику может быть немного сложно, но, надеемся, после быстрого разбора этой схемы вы научитесь с ней работать! Итак, давайте разберём, что делает каждая часть:
+# Криогеника
+Понять криогенику может быть немного сложно, но, надеемся, после быстрого разбора этой схемы вы научитесь с ней работать! Итак, давайте разберём, что делает каждая часть:
 
-  - Воздух на входе: сюда поступает воздух через распределительную сеть или воздушный баллон, давая тем, кто внутри, чем дышать, а морозильнику — что охлаждать.
-  - Газовый насос: ограничивает давление в сети, чтобы находящихся в капсуле не раздавило.
-  - Морозильник: охлаждает воздух, а вместе с ним и пациентов в капсуле, чтобы мог активироваться Криоксадон.
-  - Газовые фильтры: удаляют отработанные газы (углекислый газ и закись азота) из контура.
-  - Воздух на выходе: сюда уходят отработанные газы, либо в накопительный баллон, либо в сеть отходов.
-  <Box>
-    <GuideEntityEmbed Entity="GasPipeBend" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPipeBend" Rotation="0"/>
-    <GuideEntityEmbed Entity="CryoPod" Caption="cryo pod" Rotation="0"/>
-    <GuideEntityEmbed Entity="GasThermoMachineFreezerEnabled" Rotation="0"/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="GasPipeBend" Rotation="180"/>
-    <GuideEntityEmbed Entity="GasFilterFlipped" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasFilterFlipped" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
-    <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
-    <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="270"/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="GasPort" Caption="air out" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
-    <GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
-    <GuideEntityEmbed Entity="GasPort" Caption="air in" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPressurePump" Rotation="90"/>
-    <GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
-  </Box>
+- Воздух на входе: сюда поступает воздух через распределительную сеть или воздушный баллон, давая тем, кто внутри, чем дышать, а морозильнику — что охлаждать.
+- Газовый насос: ограничивает давление в сети, чтобы находящихся в капсуле не раздавило.
+- Морозильник: охлаждает воздух, а вместе с ним и пациентов в капсуле, чтобы мог активироваться Криоксадон.
+- Газовые фильтры: удаляют отработанные газы (углекислый газ и закись азота) из контура.
+- Воздух на выходе: сюда уходят отработанные газы, либо в накопительный баллон, либо в сеть отходов.
+<Box>
+  <GuideEntityEmbed Entity="GasPipeBend" Rotation="90"/>
+  <GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
+  <GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
+  <GuideEntityEmbed Entity="GasPipeBend" Rotation="0"/>
+  <GuideEntityEmbed Entity="CryoPod" Caption="cryo pod" Rotation="0"/>
+  <GuideEntityEmbed Entity="GasThermoMachineFreezerEnabled" Rotation="0"/>
+</Box>
+<Box>
+  <GuideEntityEmbed Entity="GasPipeBend" Rotation="180"/>
+  <GuideEntityEmbed Entity="GasFilterFlipped" Rotation="90"/>
+  <GuideEntityEmbed Entity="GasFilterFlipped" Rotation="90"/>
+  <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
+  <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
+  <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="270"/>
+</Box>
+<Box>
+  <GuideEntityEmbed Entity="GasPort" Caption="air out" Rotation="90"/>
+  <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
+  <GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
+  <GuideEntityEmbed Entity="GasPort" Caption="air in" Rotation="90"/>
+  <GuideEntityEmbed Entity="GasPressurePump" Rotation="90"/>
+  <GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
+</Box>
 
-  Не каждая сеть будет выглядеть именно так, но, надеемся, этого достаточно, чтобы дать вам общее представление о принципе её работы.
+Не каждая сеть будет выглядеть именно так, но, надеемся, этого достаточно, чтобы дать вам общее представление о принципе её работы.
 
-  Важно отметить: зимняя одежда (и скафандры) снижают эффективность криогенического лечения или делают его полностью неэффективным. Обязательно снимайте одежду, защищающую от холода, прежде чем помещать людей в капсулу.
+Важно отметить: зимняя одежда (и скафандры) снижают эффективность криогенического лечения или делают его полностью неэффективным. Обязательно снимайте одежду, защищающую от холода, прежде чем помещать людей в капсулу.
 
-  ## Использование капсулы
-  Как только всё настроено, вам понадобятся криогенические медикаменты (все перечислены ниже). Каждый из них обеспечивает лечение, пока пациент охлаждён, и их следует загружать прямо в капсулу с помощью мензурки. Обратите внимание: пациенты не начнут исцеляться, пока не остынут до нужной температуры, поэтому может быть разумно немного подождать, прежде чем помещать мензурку внутрь.
+## Использование капсулы
+Как только всё настроено, вам понадобятся криогенические медикаменты (все перечислены ниже). Каждый из них обеспечивает лечение, пока пациент охлаждён, и их следует загружать прямо в капсулу с помощью мензурки. Обратите внимание: пациенты не начнут исцеляться, пока не остынут до нужной температуры, поэтому может быть разумно немного подождать, прежде чем помещать мензурку внутрь.
 
-  ## Дополнительная информация:
+## Дополнительная информация:
 
-  Стандартное давление для газового насоса — 100.325 кПа, иногда его увеличивают для более быстрых результатов. Большинство криогенических медикаментов действуют при температуре ниже 213K (150K для Опорозидона), но стандартной практикой является установка морозильника на 100K для более быстрого охлаждения.
+Стандартное давление для газового насоса — 100.325 кПа, иногда его увеличивают для более быстрых результатов. Большинство криогенических медикаментов действуют при температуре ниже 213K (150K для Опорозидона), но стандартной практикой является установка морозильника на 100K для более быстрого охлаждения.
 
-  Криокапсулы разделяют каждый реагент из мензурки в капсуле, вводя пациенту небольшое, стабильное количество каждого из них. Это позволяет вводить лекарство вдвое эффективнее, чем при инъекции или пероральном приёме.
+Криокапсулы разделяют каждый реагент из мензурки в капсуле, вводя пациенту небольшое, стабильное количество каждого из них. Это позволяет вводить лекарство вдвое эффективнее, чем при инъекции или пероральном приёме.
 
-  <GuideReagentEmbed Reagent="Aloxadone"/>
-  <GuideReagentEmbed Reagent="Arcryox"/>
-  <GuideReagentEmbed Reagent="Cryoxadone"/>
-  <GuideReagentEmbed Reagent="Doxarubixadone"/>
-  <GuideReagentEmbed Reagent="Dexalin"/>
-  <GuideReagentEmbed Reagent="Leporazine"/>
-  <GuideReagentEmbed Reagent="Opporozidone"/>
+<GuideReagentEmbed Reagent="Aloxadone"/>
+<GuideReagentEmbed Reagent="Arcryox"/>
+<GuideReagentEmbed Reagent="Cryoxadone"/>
+<GuideReagentEmbed Reagent="Doxarubixadone"/>
+<GuideReagentEmbed Reagent="Dexalin"/>
+<GuideReagentEmbed Reagent="Leporazine"/>
+<GuideReagentEmbed Reagent="Opporozidone"/>
 
 </Document>

@@ -6,149 +6,149 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Уровни тревоги
-  Ниже приведены официально установленные на этой станции уровни тревоги и их значение.
-  Ниже перечислены всплывающие сообщения для каждой тревоги и связанный с ними цвет.
+# Уровни тревоги
+Ниже приведены официально установленные на этой станции уровни тревоги и их значение.
+Ниже перечислены всплывающие сообщения для каждой тревоги и связанный с ними цвет.
 
-  <ColorBox>
-    <Box>
-      Для целей эскалации тревоги: более высокие тревоги следует рассматривать так, будто станция всё ещё находится на предыдущем уровне тревоги. (Жёлтая тревога воспринимается как Синяя тревога, если до этого действовала Синяя тревога.) Кроме того, Дельта, Гамма, Эпсилон и Фиолетовую тревогу следует рассматривать как Красную тревогу.
+<ColorBox>
+  <Box>
+    Для целей эскалации тревоги: более высокие тревоги следует рассматривать так, будто станция всё ещё находится на предыдущем уровне тревоги. (Жёлтая тревога воспринимается как Синяя тревога, если до этого действовала Синяя тревога.) Кроме того, Дельта, Гамма, Эпсилон и Фиолетовую тревогу следует рассматривать как Красную тревогу.
+  </Box>
+</ColorBox>
+
+Ниже приведены отдельные записи для каждого уровня тревоги и их значение для персонала станции.
+
+<Table Columns="1">
+  <ColorBox Color="#388c34">
+    <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
+      [bold][color=#ffffff][head=1]Зелёная тревога[/head][/color][/bold]
     </Box>
   </ColorBox>
+  <ColorBox>
+    <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
+      Внимание! Уровень тревоги станции теперь зелёный! Теперь можно безопасно вернуться на своё рабочее место!
+    </Box>
+  </ColorBox>
+</Table>
 
-  Ниже приведены отдельные записи для каждого уровня тревоги и их значение для персонала станции.
+[color=#388c34]Зелёная тревога[/color] всегда действует в начале смены и является стандартным уровнем тревоги станции.
 
-  <Table Columns="1">
-    <ColorBox Color="#388c34">
-      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-        [bold][color=#ffffff][head=1]Зелёная тревога[/head][/color][/bold]
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-        Внимание! Уровень тревоги станции теперь зелёный! Теперь можно безопасно вернуться на своё рабочее место!
-      </Box>
-    </ColorBox>
-  </Table>
+<Table Columns="1">
+  <ColorBox Color="#1b67a5">
+    <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
+      [bold][color=#ffffff][head=1]Синяя тревога[/head][/color][/bold]
+    </Box>
+  </ColorBox>
+  <ColorBox>
+    <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
+      Внимание! Уровень тревоги станции теперь синий! Существует подтверждённая угроза станции. Служба безопасности должна проводить случайные проверки. Членам экипажа рекомендуется сохранять бдительность и сообщать о подозрительной активности службе безопасности.
+    </Box>
+  </ColorBox>
+</Table>
 
-  [color=#388c34]Зелёная тревога[/color] всегда действует в начале смены и является стандартным уровнем тревоги станции.
+[color=#1b67a5]Синяя тревога[/color] объявляется при поступлении сообщений об угрозе или значительном количестве преступлений. Зачастую она сохраняется в течение продолжительного времени.
 
-  <Table Columns="1">
-    <ColorBox Color="#1b67a5">
-      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-        [bold][color=#ffffff][head=1]Синяя тревога[/head][/color][/bold]
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-        Внимание! Уровень тревоги станции теперь синий! Существует подтверждённая угроза станции. Служба безопасности должна проводить случайные проверки. Членам экипажа рекомендуется сохранять бдительность и сообщать о подозрительной активности службе безопасности.
-      </Box>
-    </ColorBox>
-  </Table>
+<Table Columns="1">
+  <ColorBox Color="#c8a404">
+    <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
+      [bold][color=#ffffff][head=1]Жёлтая тревога[/head][/color][/bold]
+    </Box>
+  </ColorBox>
+  <ColorBox>
+    <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
+      Внимание! Уровень тревоги станции теперь жёлтый! На станции присутствует структурная или атмосферная угроза. Инженерному персоналу рекомендуется немедленно отреагировать и принять меры безопасности. Членам экипажа рекомендуется держаться подальше от угрозы и при необходимости оставаться на своих рабочих местах.
+    </Box>
+  </ColorBox>
+</Table>
 
-  [color=#1b67a5]Синяя тревога[/color] объявляется при поступлении сообщений об угрозе или значительном количестве преступлений. Зачастую она сохраняется в течение продолжительного времени.
+[color=#c8a404]Жёлтая тревога[/color] объявляется при масштабных повреждениях станции или утечках газа.
 
-  <Table Columns="1">
-    <ColorBox Color="#c8a404">
-      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-        [bold][color=#ffffff][head=1]Жёлтая тревога[/head][/color][/bold]
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-        Внимание! Уровень тревоги станции теперь жёлтый! На станции присутствует структурная или атмосферная угроза. Инженерному персоналу рекомендуется немедленно отреагировать и принять меры безопасности. Членам экипажа рекомендуется держаться подальше от угрозы и при необходимости оставаться на своих рабочих местах.
-      </Box>
-    </ColorBox>
-  </Table>
+<Table Columns="1">
+  <ColorBox Color="#ba292c">
+    <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
+      [bold][color=#ffffff][head=1]Красная тревога[/head][/color][/bold]
+    </Box>
+  </ColorBox>
+  <ColorBox>
+    <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
+      Внимание! Уровень тревоги станции теперь красный! Станции угрожает непосредственная опасность. Служба безопасности должна быть готова применить летальную силу при необходимости. Членам экипажа следует найти безопасное укрытие и следовать указаниям присутствующих представителей власти.
+    </Box>
+  </ColorBox>
+</Table>
 
-  [color=#c8a404]Жёлтая тревога[/color] объявляется при масштабных повреждениях станции или утечках газа.
+[color=#ba292c]Красная тревога[/color] объявляется при серьёзной враждебной активности и/или угрозах станции.
 
-  <Table Columns="1">
-    <ColorBox Color="#ba292c">
-      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-        [bold][color=#ffffff][head=1]Красная тревога[/head][/color][/bold]
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-        Внимание! Уровень тревоги станции теперь красный! Станции угрожает непосредственная опасность. Служба безопасности должна быть готова применить летальную силу при необходимости. Членам экипажа следует найти безопасное укрытие и следовать указаниям присутствующих представителей власти.
-      </Box>
-    </ColorBox>
-  </Table>
+<!-- Trauma - red alert is locked now -->
+[color=#ba292c]Красная тревога[/color] может быть активирована только в том случае, если [color=#1b67a5]Синяя тревога[/color] действовала не менее [color=#1b67a5]5 минут[/color].
 
-  [color=#ba292c]Красная тревога[/color] объявляется при серьёзной враждебной активности и/или угрозах станции.
+<Table Columns="1">
+  <ColorBox Color="#8b0000">
+    <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
+      [bold][color=#ffffff][head=1]Дельта тревога[/head][/color][/bold]
+    </Box>
+  </ColorBox>
+  <ColorBox>
+    <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
+      Внимание! Уровень тревоги станции теперь дельта! Станция находится под угрозой неминуемого уничтожения. Членам экипажа рекомендуется прислушиваться к главам отделов для получения дополнительной информации.
+    </Box>
+  </ColorBox>
+</Table>
 
-  <!-- Trauma - red alert is locked now -->
-  [color=#ba292c]Красная тревога[/color] может быть активирована только в том случае, если [color=#1b67a5]Синяя тревога[/color] действовала не менее [color=#1b67a5]5 минут[/color].
+[color=#8b0000]Дельта тревога[/color] объявляется в ситуациях, когда станция вот-вот самоуничтожится либо будет уничтожена иным способом.
 
-  <Table Columns="1">
-    <ColorBox Color="#8b0000">
-      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-        [bold][color=#ffffff][head=1]Дельта тревога[/head][/color][/bold]
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-        Внимание! Уровень тревоги станции теперь дельта! Станция находится под угрозой неминуемого уничтожения. Членам экипажа рекомендуется прислушиваться к главам отделов для получения дополнительной информации.
-      </Box>
-    </ColorBox>
-  </Table>
+<Table Columns="1">
+  <ColorBox Color="#9400d3">
+    <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
+      [bold][color=#ffffff][head=1]Эпсилон тревога[/head][/color][/bold]
+    </Box>
+  </ColorBox>
+  <ColorBox>
+    <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
+      Внимание! Уровень тревоги станции теперь эпсилон! Центральное Командование ввело на станции уровень безопасности Эпсилон. Считайте все контракты расторгнутыми.
+    </Box>
+  </ColorBox>
+</Table>
 
-  [color=#8b0000]Дельта тревога[/color] объявляется в ситуациях, когда станция вот-вот самоуничтожится либо будет уничтожена иным способом.
+[color=#9400d3]Эпсилон тревога[/color] устанавливается только тогда, когда Центральное Командование по какой-либо причине вмешивается в дела станции.
 
-  <Table Columns="1">
-    <ColorBox Color="#9400d3">
-      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-        [bold][color=#ffffff][head=1]Эпсилон тревога[/head][/color][/bold]
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-        Внимание! Уровень тревоги станции теперь эпсилон! Центральное Командование ввело на станции уровень безопасности Эпсилон. Считайте все контракты расторгнутыми.
-      </Box>
-    </ColorBox>
-  </Table>
+<Table Columns="1">
+  <ColorBox Color="#db7093">
+    <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
+      [bold][color=#ffffff][head=1]Гамма тревога[/head][/color][/bold]
+    </Box>
+  </ColorBox>
+  <ColorBox>
+    <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
+      Внимание! Уровень тревоги станции теперь гамма! Центральное Командование ввело на станции уровень безопасности Гамма. Служба безопасности обязана постоянно иметь при себе оружие, а всем гражданским лицам необходимо немедленно обратиться к ближайшему главе отдела для транспортировки в безопасное место.
+    </Box>
+  </ColorBox>
+</Table>
 
-  [color=#9400d3]Эпсилон тревога[/color] устанавливается только тогда, когда Центральное Командование по какой-либо причине вмешивается в дела станции.
+[color=#db7093]Гамма тревога[/color] объявляется редко и обычно используется лишь в крайних случаях.
 
-  <Table Columns="1">
-    <ColorBox Color="#db7093">
-      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-        [bold][color=#ffffff][head=1]Гамма тревога[/head][/color][/bold]
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-        Внимание! Уровень тревоги станции теперь гамма! Центральное Командование ввело на станции уровень безопасности Гамма. Служба безопасности обязана постоянно иметь при себе оружие, а всем гражданским лицам необходимо немедленно обратиться к ближайшему главе отдела для транспортировки в безопасное место.
-      </Box>
-    </ColorBox>
-  </Table>
+<Table Columns="1">
+  <ColorBox Color="#cc74fc">
+    <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
+      [bold][color=#ffffff][head=1]Фиолетовая тревога[/head][/color][/bold]
+    </Box>
+  </ColorBox>
+  <ColorBox>
+    <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
+      Внимание! Уровень тревоги станции теперь фиолетовый! На станции присутствует вирусная угроза. Медицинскому персоналу рекомендуется изолировать членов экипажа с любыми симптомами. Членам экипажа рекомендуется держаться на расстоянии от других и принимать меры безопасности для предотвращения дальнейшего распространения.
+    </Box>
+  </ColorBox>
+</Table>
 
-  [color=#db7093]Гамма тревога[/color] объявляется редко и обычно используется лишь в крайних случаях.
+[color=#cc74fc]Фиолетовая тревога[/color] устанавливается при вирусных вспышках, когда происходит заражение зомби-вирусом или другой болезнью.
 
-  <Table Columns="1">
-    <ColorBox Color="#cc74fc">
-      <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-        [bold][color=#ffffff][head=1]Фиолетовая тревога[/head][/color][/bold]
-      </Box>
-    </ColorBox>
-    <ColorBox>
-      <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-        Внимание! Уровень тревоги станции теперь фиолетовый! На станции присутствует вирусная угроза. Медицинскому персоналу рекомендуется изолировать членов экипажа с любыми симптомами. Членам экипажа рекомендуется держаться на расстоянии от других и принимать меры безопасности для предотвращения дальнейшего распространения.
-      </Box>
-    </ColorBox>
-  </Table>
-
-  [color=#cc74fc]Фиолетовая тревога[/color] устанавливается при вирусных вспышках, когда происходит заражение зомби-вирусом или другой болезнью.
-
-  Данные тревоги можно найти в записях, перечисленных ниже:
-  - [textlink="Зелёная тревога" link="GreenAlert SOP"]
-  - [textlink="Синяя тревога" link="BlueAlert SOP"]
-  - [textlink="Жёлтая тревога" link="YellowAlert SOP"]
-  - [textlink="Красная тревога" link="RedAlert SOP"]
-  - [textlink="Дельта тревога" link="DeltaAlert SOP"]
-  - [textlink="Эпсилон тревога" link="EpsilonAlert SOP"]
-  - [textlink="Гамма тревога" link="GammaAlert SOP"]
-  - [textlink="Фиолетовая тревога" link="VioletAlert SOP"]
+Данные тревоги можно найти в записях, перечисленных ниже:
+- [textlink="Зелёная тревога" link="GreenAlert SOP"]
+- [textlink="Синяя тревога" link="BlueAlert SOP"]
+- [textlink="Жёлтая тревога" link="YellowAlert SOP"]
+- [textlink="Красная тревога" link="RedAlert SOP"]
+- [textlink="Дельта тревога" link="DeltaAlert SOP"]
+- [textlink="Эпсилон тревога" link="EpsilonAlert SOP"]
+- [textlink="Гамма тревога" link="GammaAlert SOP"]
+- [textlink="Фиолетовая тревога" link="VioletAlert SOP"]
 
 </Document>

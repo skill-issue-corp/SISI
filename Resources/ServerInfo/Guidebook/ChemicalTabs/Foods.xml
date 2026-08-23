@@ -6,10 +6,10 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-  # Еда
+# Еда
 
-  Эти реагенты в основном используются на кухне. Очень полезны для поваров и/или работников сферы обслуживания.
+Эти реагенты в основном используются на кухне. Очень полезны для поваров и/или работников сферы обслуживания.
 
-  <GuideReagentGroupEmbed Group="Foods"/>
+<GuideReagentGroupEmbed Group="Foods"/>
 
 </Document>

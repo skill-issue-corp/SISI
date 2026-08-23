@@ -8,37 +8,37 @@ SPDX-License-Identifier: MIT
 
 <Document>
 
-  # Основные медикаменты
+# Основные медикаменты
 
-  Эти медикаменты почти всегда полезны для медотсека тем или иным образом.
+Эти медикаменты почти всегда полезны для медотсека тем или иным образом.
 
-  <GuideReagentEmbed Reagent="Bicaridine"/>
-  <GuideReagentEmbed Reagent="Kelotane"/>
-  <GuideReagentEmbed Reagent="Dermaline"/>
-  <GuideReagentEmbed Reagent="Dylovene"/>
-  <GuideReagentEmbed Reagent="Inaprovaline"/>
-  <GuideReagentEmbed Reagent="Dexalin"/>
-  <GuideReagentEmbed Reagent="DexalinPlus"/>
-  <GuideReagentEmbed Reagent="Iron"/>
+<GuideReagentEmbed Reagent="Bicaridine"/>
+<GuideReagentEmbed Reagent="Kelotane"/>
+<GuideReagentEmbed Reagent="Dermaline"/>
+<GuideReagentEmbed Reagent="Dylovene"/>
+<GuideReagentEmbed Reagent="Inaprovaline"/>
+<GuideReagentEmbed Reagent="Dexalin"/>
+<GuideReagentEmbed Reagent="DexalinPlus"/>
+<GuideReagentEmbed Reagent="Iron"/>
 
-  # Специализированные медикаменты
+# Специализированные медикаменты
 
-  Эти медикаменты обычно используются в определённых случаях.
+Эти медикаменты обычно используются в определённых случаях.
 
-  <GuideReagentEmbed Reagent="Cryoxadone"/>
-  <GuideReagentEmbed Reagent="Epinephrine"/>
-  <GuideReagentEmbed Reagent="Hyronalin"/>
-  <GuideReagentEmbed Reagent="Arithrazine"/>
-  <GuideReagentEmbed Reagent="Phalanximine"/>
-  <GuideReagentEmbed Reagent="Tricordrazine"/>
-  <GuideReagentEmbed Reagent="TranexamicAcid"/>
-  <GuideReagentEmbed Reagent="Ambuzol"/>
-  <GuideReagentEmbed Reagent="Oculine"/>
+<GuideReagentEmbed Reagent="Cryoxadone"/>
+<GuideReagentEmbed Reagent="Epinephrine"/>
+<GuideReagentEmbed Reagent="Hyronalin"/>
+<GuideReagentEmbed Reagent="Arithrazine"/>
+<GuideReagentEmbed Reagent="Phalanximine"/>
+<GuideReagentEmbed Reagent="Tricordrazine"/>
+<GuideReagentEmbed Reagent="TranexamicAcid"/>
+<GuideReagentEmbed Reagent="Ambuzol"/>
+<GuideReagentEmbed Reagent="Oculine"/>
 
-  # Все медикаменты
+# Все медикаменты
 
-  Это список -всех- доступных медикаментов, включая перечисленные выше.
+Это список -всех- доступных медикаментов, включая перечисленные выше.
 
-  <GuideReagentGroupEmbed Group="Medicine"/>
+<GuideReagentGroupEmbed Group="Medicine"/>
 
 </Document>

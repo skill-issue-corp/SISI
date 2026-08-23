@@ -7,22 +7,22 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Ботаника
+# Ботаника
 
-  Ботаника и химия часто могут работать вместе, чтобы производить лучшие медикаменты (или коктейли для отдыха). Возможно, стоит предоставить им нужные удобрения и запросить взамен лекарственные растения.
+Ботаника и химия часто могут работать вместе, чтобы производить лучшие медикаменты (или коктейли для отдыха). Возможно, стоит предоставить им нужные удобрения и запросить взамен лекарственные растения.
 
-  <Box>
-    <GuideEntityEmbed Entity="FoodGalaxythistle"/>
-    <GuideEntityEmbed Entity="FoodLingzhi"/>
-    <GuideEntityEmbed Entity="FoodAmbrosiaVulgaris"/>
-    <GuideEntityEmbed Entity="FoodAloe"/>
-    <GuideEntityEmbed Entity="Nettle"/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="FoodGalaxythistle"/>
+  <GuideEntityEmbed Entity="FoodLingzhi"/>
+  <GuideEntityEmbed Entity="FoodAmbrosiaVulgaris"/>
+  <GuideEntityEmbed Entity="FoodAloe"/>
+  <GuideEntityEmbed Entity="Nettle"/>
+</Box>
 
-  <GuideReagentGroupEmbed Group="Botanical"/>
-  <GuideReagentEmbed Reagent="UnstableMutagen"/>
-  <GuideReagentEmbed Reagent="Cryoxadone"/>
-  <GuideReagentEmbed Reagent="Dylovene"/>
-  <GuideReagentEmbed Reagent="Phalanximine"/>
+<GuideReagentGroupEmbed Group="Botanical"/>
+<GuideReagentEmbed Reagent="UnstableMutagen"/>
+<GuideReagentEmbed Reagent="Cryoxadone"/>
+<GuideReagentEmbed Reagent="Dylovene"/>
+<GuideReagentEmbed Reagent="Phalanximine"/>
 
 </Document>

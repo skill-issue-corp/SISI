@@ -10,56 +10,56 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Наука
-  [color=#c96dbf]Наука[/color], часто называемая Исследования и Разработки, - это работа, заключающаяся в накоплении очков исследований для открытия новых технологий и использовании этих технологий для производства новых предметов на станках, помогающих станции.
+# Наука
+[color=#c96dbf]Наука[/color], часто называемая Исследования и Разработки, - это работа, заключающаяся в накоплении очков исследований для открытия новых технологий и использовании этих технологий для производства новых предметов на станках, помогающих станции.
 
-  ## Персонал
-  Персонал [color=#c96dbf]Науки[/color] состоит из Научных ассистентов и Учёных. [color=#c96dbf]Наукой[/color] руководит Директор по исследованиям.
+## Персонал
+Персонал [color=#c96dbf]Науки[/color] состоит из Научных ассистентов и Учёных. [color=#c96dbf]Наукой[/color] руководит Директор по исследованиям.
 
-  <Box>
-    <GuideEntityEmbed Entity="ToyFigurineScientist" Caption="Учёный"/>
-    <GuideEntityEmbed Entity="ToyFigurineResearchDirector" Caption="ДИ"/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="ToyFigurineScientist" Caption="Учёный"/>
+  <GuideEntityEmbed Entity="ToyFigurineResearchDirector" Caption="ДИ"/>
+</Box>
 
-  ## Технологии
-  <Box>
-    <GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/>
-    <GuideEntityEmbed Entity="ResearchAndDevelopmentServer"/>
-  </Box>
-  Самое важное в вашем отделе - это сервер РНД, который хранит открытые технологии, и компьютер РНД, позволяющий открывать [color=#a4885c]технологии[/color].
+## Технологии
+<Box>
+  <GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/>
+  <GuideEntityEmbed Entity="ResearchAndDevelopmentServer"/>
+</Box>
+Самое важное в вашем отделе - это сервер РНД, который хранит открытые технологии, и компьютер РНД, позволяющий открывать [color=#a4885c]технологии[/color].
 
-  Каждая технология стоит определённое количество [color=#a4885c]Очков Исследований[/color] и открывает рецепты на станках. У некоторых технологий также есть предварительные требования, которые нужно выполнить перед их исследованием.
+Каждая технология стоит определённое количество [color=#a4885c]Очков Исследований[/color] и открывает рецепты на станках. У некоторых технологий также есть предварительные требования, которые нужно выполнить перед их исследованием.
 
-  [textlink="Нажмите здесь, чтобы увидеть список технологий." link="Technologies"].
+[textlink="Нажмите здесь, чтобы увидеть список технологий." link="Technologies"].
 
-  ## Дисциплины
-  Технологии распределены по 4 различным Дисциплинам:
-  <Box>
-    <GuideEntityEmbed Entity="Wrench" Caption="Промышленность"/>
-    <GuideEntityEmbed Entity="WeaponTetherGun" Caption="Экспериментальная"/>
-    <GuideEntityEmbed Entity="ComputerTelevision" Caption="Гражданская служба"/>
-    <GuideEntityEmbed Entity="WeaponXrayCannon" Caption="Арсенал"/>
-  </Box>
+## Дисциплины
+Технологии распределены по 4 различным Дисциплинам:
+<Box>
+  <GuideEntityEmbed Entity="Wrench" Caption="Промышленность"/>
+  <GuideEntityEmbed Entity="WeaponTetherGun" Caption="Экспериментальная"/>
+  <GuideEntityEmbed Entity="ComputerTelevision" Caption="Гражданская служба"/>
+  <GuideEntityEmbed Entity="WeaponXrayCannon" Caption="Арсенал"/>
+</Box>
 
-  <GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/> Используйте ближайшую консоль РНД, чтобы узнать, какой вид исследований скрыт за каждым деревом Дисциплины.
+<GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/> Используйте ближайшую консоль РНД, чтобы узнать, какой вид исследований скрыт за каждым деревом Дисциплины.
 
-  ## Уровни
-  У каждого дерева Дисциплины есть до 3 уровней технологий. Изначально открыт и доступен только уровень 1.
+## Уровни
+У каждого дерева Дисциплины есть до 3 уровней технологий. Изначально открыт и доступен только уровень 1.
 
-  Чтобы продвинуться дальше, вам нужно исследовать до [color=brown]75%[/color] текущего уровня, чтобы перейти к следующему. То есть, чтобы открыть исследования Т2, вам нужно исследовать 75% Т1.
+Чтобы продвинуться дальше, вам нужно исследовать до [color=brown]75%[/color] текущего уровня, чтобы перейти к следующему. То есть, чтобы открыть исследования Т2, вам нужно исследовать 75% Т1.
 
-  А вот [color=green]Уровень 3[/color] - это уже интереснее. Если вы исследуете технологию Т3, вы [color=brown]блокируете[/color] технологии Т3 из других деревьев Дисциплин. То есть, если только вы не найдёте способ обойти это... вам, вероятно, стоит спросить у вашего [color=purple]Директора по исследованиям[/color].
+А вот [color=green]Уровень 3[/color] - это уже интереснее. Если вы исследуете технологию Т3, вы [color=brown]блокируете[/color] технологии Т3 из других деревьев Дисциплин. То есть, если только вы не найдёте способ обойти это... вам, вероятно, стоит спросить у вашего [color=purple]Директора по исследованиям[/color].
 
-  ## Станки
-  <Box>
-    <GuideEntityEmbed Entity="Protolathe"/>
-    <GuideEntityEmbed Entity="CircuitImprinter"/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="ExosuitFabricator"/>
-    <GuideEntityEmbed Entity="MedicalTechFab"/>
-    <GuideEntityEmbed Entity="SecurityTechFab"/>
-  </Box>
-  На станке вы можете выбрать сервер, чтобы разрешить ему печатать любые открытые вами рецепты. Для рецептов требуются различные материалы (сталь, стекло, пластик, золото, плазма), которые можно получить в Снабжении или на Утилизации.
+## Станки
+<Box>
+  <GuideEntityEmbed Entity="Protolathe"/>
+  <GuideEntityEmbed Entity="CircuitImprinter"/>
+</Box>
+<Box>
+  <GuideEntityEmbed Entity="ExosuitFabricator"/>
+  <GuideEntityEmbed Entity="MedicalTechFab"/>
+  <GuideEntityEmbed Entity="SecurityTechFab"/>
+</Box>
+На станке вы можете выбрать сервер, чтобы разрешить ему печатать любые открытые вами рецепты. Для рецептов требуются различные материалы (сталь, стекло, пластик, золото, плазма), которые можно получить в Снабжении или на Утилизации.
 
 </Document>

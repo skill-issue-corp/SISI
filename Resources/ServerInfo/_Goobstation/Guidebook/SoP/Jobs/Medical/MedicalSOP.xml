@@ -6,16 +6,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # СРП Медицинского Отдела
-  Это список СРП, которым должен следовать Медицинский Персонал. Как было сказано ранее, это [bold]не чек-листы[/bold], и их следует рассматривать как рекомендации.
+# СРП Медицинского Отдела
+Это список СРП, которым должен следовать Медицинский Персонал. Как было сказано ранее, это [bold]не чек-листы[/bold], и их следует рассматривать как рекомендации.
 
-  Для сокращения количества записей [color=#42636d][bold]Врач[/bold][/color], [color=#42636d][bold]Медицинский Интерн[/bold][/color] и [color=#42636d][bold]Парамедик[/bold][/color] объединены.
+Для сокращения количества записей [color=#42636d][bold]Врач[/bold][/color], [color=#42636d][bold]Медицинский Интерн[/bold][/color] и [color=#42636d][bold]Парамедик[/bold][/color] объединены.
 
-  Следующие должности имеют записи в этом Отделе, а [color=#1b67a5][bold]Главный Врач[/bold][/color] является главой персонала:
-  - [textlink="Главный Врач" link="ChiefMedicalOfficer SOP"]
-  - [textlink="Химик" link="Chemist SOP"]
-  - [textlink="Парамедик" link="DoctorIntern SOP"]
-  - [textlink="Врач" link="DoctorIntern SOP"]
-  - [textlink="Медицинский Интерн" link="DoctorIntern SOP"]
+Следующие должности имеют записи в этом Отделе, а [color=#1b67a5][bold]Главный Врач[/bold][/color] является главой персонала:
+- [textlink="Главный Врач" link="ChiefMedicalOfficer SOP"]
+- [textlink="Химик" link="Chemist SOP"]
+- [textlink="Парамедик" link="DoctorIntern SOP"]
+- [textlink="Врач" link="DoctorIntern SOP"]
+- [textlink="Медицинский Интерн" link="DoctorIntern SOP"]
 
 </Document>

@@ -1,9 +1,9 @@
 <Document>
 
-  # Безалкогольные напитки
+# Безалкогольные напитки
 
-  Освежающие напитки, из-за которых у вас не будет столько проблем с коллегами.
+Освежающие напитки, из-за которых у вас не будет столько проблем с коллегами.
 
-  <GuideReagentGroupEmbed Group="NonAlcoholicDrinks"/>
+<GuideReagentGroupEmbed Group="NonAlcoholicDrinks"/>
 
 </Document>

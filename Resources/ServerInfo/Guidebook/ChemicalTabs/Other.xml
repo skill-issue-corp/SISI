@@ -6,7 +6,7 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-  # Другое
-  Это остальные реагенты, перечисленные на странице «Химикаты».
-  <GuideReagentGroupEmbed Group="Unknown"/>
+# Другое
+Это остальные реагенты, перечисленные на странице «Химикаты».
+<GuideReagentGroupEmbed Group="Unknown"/>
 </Document>

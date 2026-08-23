@@ -1,27 +1,27 @@
 <Document>
-  # Мирные
-  [color=#6c6a78]Мирные[/color] - это собирательный «отдел» для профессий, которые не подходят ни к одной другой области.
+# Мирные
+[color=#6c6a78]Мирные[/color] - это собирательный «отдел» для профессий, которые не подходят ни к одной другой области.
 
-  У этих профессий, как правило, мало ответственности или её нет вовсе, единственное ожидание - чтобы вы не были полным придурком.
+У этих профессий, как правило, мало ответственности или её нет вовсе, единственное ожидание - чтобы вы не были полным придурком.
 
-  ## Персонал
-  Примерно в порядке того, насколько это «настоящая» работа. Результаты могут отличаться.
+## Персонал
+Примерно в порядке того, насколько это «настоящая» работа. Результаты могут отличаться.
 
-  <Box>
-    <GuideEntityEmbed Entity="ToyFigurineJanitor" Caption="Уборщик"/>
-    <GuideEntityEmbed Entity="ToyFigurineChaplain" Caption="Священник"/>
-    <GuideEntityEmbed Entity="ToyFigurineLibrarian" Caption="Библиотекарь"/>
-    <GuideEntityEmbed Entity="ToyFigurineLawyer" Caption="Юрист"/>
-  </Box>
-  <Box>
-    <GuideEntityEmbed Entity="ToyFigurineMime" Caption="Мим"/>
-    <GuideEntityEmbed Entity="ToyFigurineClown" Caption="Клоун"/>
-    <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="Музыкант"/>
-    <GuideEntityEmbed Entity="ToyFigurinePassenger" Caption="Ассистент"/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="ToyFigurineJanitor" Caption="Уборщик"/>
+  <GuideEntityEmbed Entity="ToyFigurineChaplain" Caption="Священник"/>
+  <GuideEntityEmbed Entity="ToyFigurineLibrarian" Caption="Библиотекарь"/>
+  <GuideEntityEmbed Entity="ToyFigurineLawyer" Caption="Юрист"/>
+</Box>
+<Box>
+  <GuideEntityEmbed Entity="ToyFigurineMime" Caption="Мим"/>
+  <GuideEntityEmbed Entity="ToyFigurineClown" Caption="Клоун"/>
+  <GuideEntityEmbed Entity="ToyFigurineMusician" Caption="Музыкант"/>
+  <GuideEntityEmbed Entity="ToyFigurinePassenger" Caption="Ассистент"/>
+</Box>
 
-  ## Обезьяны сильны вместе
-  Будучи в некотором роде изгоями, дружба с другими [color=#6c6a78]Мирными[/color] может оказаться решающей для вашего процветания или даже выживания.
-  Может быть, если посмеяться над шутками клоуна, он потом согласится вытащить вас из тюрьмы...
-  Порой, когда становится совсем туго, даже бедным уборщикам приходится отбиваться от нашествий ксеноморфов.
+## Обезьяны сильны вместе
+Будучи в некотором роде изгоями, дружба с другими [color=#6c6a78]Мирными[/color] может оказаться решающей для вашего процветания или даже выживания.
+Может быть, если посмеяться над шутками клоуна, он потом согласится вытащить вас из тюрьмы...
+Порой, когда становится совсем туго, даже бедным уборщикам приходится отбиваться от нашествий ксеноморфов.
 </Document>

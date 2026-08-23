@@ -7,10 +7,10 @@ SPDX-License-Identifier: MIT
 
 <Document>
 
-  # Элементы
+# Элементы
 
-  Этот список содержит все базовые реагенты, используемые для создания других химических веществ.
+Этот список содержит все базовые реагенты, используемые для создания других химических веществ.
 
-  <GuideReagentGroupEmbed Group="Elements"/>
+<GuideReagentGroupEmbed Group="Elements"/>
 
 </Document>

@@ -1,10 +1,10 @@
 <Document>
-  <Box>
-    <GuideEntityEmbed Entity="PlumbingPump"/>
-    <GuideEntityEmbed Entity="ChemMaster"/>
-    <GuideEntityEmbed Entity="ReagentGrinderIndustrial"/>
-    <GuideEntityEmbed Entity="BaseGasCondenser"/>
-  </Box>
+<Box>
+  <GuideEntityEmbed Entity="PlumbingPump"/>
+  <GuideEntityEmbed Entity="ChemMaster"/>
+  <GuideEntityEmbed Entity="ReagentGrinderIndustrial"/>
+  <GuideEntityEmbed Entity="BaseGasCondenser"/>
+</Box>
 
   Современные технологии позволяют таким космическим существам, как вы и я, автоматизировать перемещение жидкостей.
 

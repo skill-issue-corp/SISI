@@ -9,39 +9,39 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Химикаты
+# Химикаты
 
-  Химикаты — это мощный инструмент, способный вызывать разнообразные эффекты при употреблении. Некоторые из них можно найти в растениях, приобрести у отдела снабжения или синтезировать путём соединения с другими химикатами.
+Химикаты — это мощный инструмент, способный вызывать разнообразные эффекты при употреблении. Некоторые из них можно найти в растениях, приобрести у отдела снабжения или синтезировать путём соединения с другими химикатами.
 
-  Знание различных типов химикатов и их эффектов важно для управления травмами и опасностью.
+Знание различных типов химикатов и их эффектов важно для управления травмами и опасностью.
 
-  ## Элементы
-  <GuideReagentGroupEmbed Group="Elements"/>
+## Элементы
+<GuideReagentGroupEmbed Group="Elements"/>
 
-  ## Медицина
-  <GuideReagentGroupEmbed Group="Medicine"/>
+## Медицина
+<GuideReagentGroupEmbed Group="Medicine"/>
 
-  ## Наркотики
-  <GuideReagentGroupEmbed Group="Narcotics"/>
+## Наркотики
+<GuideReagentGroupEmbed Group="Narcotics"/>
 
-  ## Пиротехника
-  <GuideReagentGroupEmbed Group="Pyrotechnic"/>
+## Пиротехника
+<GuideReagentGroupEmbed Group="Pyrotechnic"/>
 
-  ## Токсины
-  <GuideReagentGroupEmbed Group="Toxins"/>
+## Токсины
+<GuideReagentGroupEmbed Group="Toxins"/>
 
-  ## Еда
-  <GuideReagentGroupEmbed Group="Foods"/>
+## Еда
+<GuideReagentGroupEmbed Group="Foods"/>
 
-  ## Ботаника
-  <GuideReagentGroupEmbed Group="Botanical"/>
+## Ботаника
+<GuideReagentGroupEmbed Group="Botanical"/>
 
-  ## Биологические
-  <GuideReagentGroupEmbed Group="Biological"/>
+## Биологические
+<GuideReagentGroupEmbed Group="Biological"/>
 
-  ## Особые
-  <GuideReagentGroupEmbed Group="Special"/>
+## Особые
+<GuideReagentGroupEmbed Group="Special"/>
 
-  ## Прочее
-  <GuideReagentGroupEmbed Group="Unknown"/>
+## Прочее
+<GuideReagentGroupEmbed Group="Unknown"/>
 </Document>

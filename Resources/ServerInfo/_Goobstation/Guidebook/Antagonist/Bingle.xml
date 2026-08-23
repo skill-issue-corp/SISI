@@ -10,10 +10,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 Бингл - это отвратительный грибок, который быстро разрастается и захватывает станции. Сам по себе очень слаб, его сила - в количестве.
 
-<Box>
-  <GuideEntityEmbed Entity="MobBingle" Caption="Бингл"/>
-  <GuideEntityEmbed Entity="BinglePit" Caption="Яма бинглов"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="MobBingle" Caption="Бингл"/>
+    <GuideEntityEmbed Entity="BinglePit" Caption="Яма бинглов"/>
+  </Box>
 
 Бингл - это антагонист, появляющийся в середине раунда в одиночку, но способный быстро размножиться.
 
@@ -29,17 +29,17 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 ## Игра против бинглов
 
 Лучший способ противостоять бинглам - избегать ближнего боя. Вместо этого используйте дальнобойное оружие, чтобы расправляться с ними и сокращать их численность издалека.
-<Box>
-  <GuideEntityEmbed Entity="WeaponRifleLecter"/>
-  <GuideEntityEmbed Entity="WeaponLaserCarbine"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="WeaponRifleLecter"/>
+    <GuideEntityEmbed Entity="WeaponLaserCarbine"/>
+  </Box>
 Саму яму бинглов можно повредить только оружием ближнего боя и взрывчаткой. Атакуя яму напрямую, будьте осторожны, чтобы не упасть в неё - это может произойти, даже если вы живы. Обычно лучше сначала разобраться с самими бинглами, а уже потом атаковать яму.
 
 Если заражение бинглами выходит из-под контроля, подумайте об отключении гравитации: без гравитации бинглы не могут сбрасывать предметы в яму, а значит, не могут размножаться.
 
-<Box>
-  <GuideEntityEmbed Entity="GravityGenerator"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="GravityGenerator"/>
+  </Box>
 
 Все предметы (и люди), попавшие в яму, будут выброшены обратно при её уничтожении!
 

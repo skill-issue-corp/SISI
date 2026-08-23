@@ -6,13 +6,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Напитки
-  Важно знать, как приготовить заказанный напиток. Вот различные напитки в игре, включая их рецепты:
+# Напитки
+Важно знать, как приготовить заказанный напиток. Вот различные напитки в игре, включая их рецепты:
 
-  ## Алкогольные напитки
-  <GuideReagentGroupEmbed Group="AlcoholicDrinks"/>
+## Алкогольные напитки
+<GuideReagentGroupEmbed Group="AlcoholicDrinks"/>
 
-  ## Безалкогольные напитки
-  <GuideReagentGroupEmbed Group="NonAlcoholicDrinks"/>
-  <!-- Goobstation - Split the drinks page into separte 'Alcoholic' and 'Non-alcoholic' categories-->
+## Безалкогольные напитки
+<GuideReagentGroupEmbed Group="NonAlcoholicDrinks"/>
+<!-- Goobstation - Split the drinks page into separte 'Alcoholic' and 'Non-alcoholic' categories-->
 </Document>
