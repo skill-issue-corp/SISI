@@ -6,28 +6,28 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Процедуры обысков
-Это список процедур, которым следует руководствоваться при проведении обысков персонала станции и/или в отделах.
+# Search Procedures
+This is the list of procedures that should be followed when performing searches on station personnel and/or in Departments.
 
-1. При [color=#388c34]Зелёной тревоге[/color] для проведения обыска требуется наличие достаточных оснований и/или разрешение Капитана и/или Главы службы безопасности.
-<Box>Достаточные основания определяются как любые обстоятельства, создающие обоснованное подозрение в совершении преступления (например, прямое обвинение со стороны члена экипажа, непосредственное наблюдение преступления, отпечатки на месте преступления, присутствие в закрытой зоне с ценными предметами и т.д.).</Box>
-<Box>Разрешение просто требует согласия соответствующего лица - устного или по радиосвязи достаточно.</Box>
+1. On [color=#388c34]Green Alert[/color], a search requires probable cause and/or approval from the Captain and/or Head of Security.
+<Box>Probable Cause is defined as any circumstance that creates reasonable suspicion that a crime was committed (eg, direct accusation from a crewmember, witnessing the crime directly, prints on a crime scene, presence in a restricted area with high value items, etc).</Box>
+<Box>Approval simply requires permission from the relevant person - verbal or over radio is enough.</Box>
 
-2. При [color=#388c34]Зелёной тревоге[/color] обыски следует проводить без применения наручников, а обыскиваемый персонал обязан передать запрашиваемые предметы.
+2. On [color=#388c34]Green Alert[/color], searches should be conducted without cuffs, and the searched personnel must hand over requested items.
 
-3. Обыскиваемые, отказывающиеся сотрудничать, могут быть закованы в наручники для проведения обыска.
+3. Searchees who refuse may be cuffed for the search.
 
-4. У обыскиваемого могут быть запрошены любые другие имеющиеся при нём предметы, включая, помимо прочего, сумки, ремни, куртки, гарнитуры и КПК.
+4. Any other item in the searchee's possession may be asked for, including but not limited to bags, belts, jackets, headsets, and PDAs.
 
-5. При [color=#1b67a5]Синей тревоге[/color] и выше обыск может быть проведён без достаточных оснований.
-<Box>Это может быть сделано путём заковывания обыскиваемого в наручники, а также принудительного изъятия его сумок и опустошения карманов.</Box>
+5. On [color=#1b67a5]Blue Alert[/color] and above, a search can be done without probable cause.
+<Box>This can be done by cuffing the searched, and forcibly removing their bags and emptying their pockets.</Box>
 
-6. Отказ от прохождения законного обыска считается сопротивлением аресту (при [color=#1b67a5]Синей тревоге[/color] или выше).
+6. Refusing a legal search is considered resisting arrest (on [color=#1b67a5]Blue Alert[/color] or higher).
 
-7. Служба безопасности может проводить хирургическую операцию для поиска нелегальных имплантов только в том случае, если у обыскиваемого персонала подтверждён статус Агента Хаоса, либо подтверждено, что он украл предмет, который впоследствии не удалось обнаружить.
-<Box>Кроме того, при наличии обоснованного подозрения в наличии нелегального импланта, Капитан и/или Глава службы безопасности может выдать ордер на поиск импланта, если сочтёт это необходимым.</Box>
+7. Security may only perform surgery to search for illegal implants if the searched personnel is a confirmed EoC or has been confirmed to have stolen an item that can no longer be located.
+<Box>In addition, if there is reasonable suspicion of illegal implant possession, the Captain and/or Head of Security can issue a warrant for an implant search if they deem it necessary.</Box>
 
-8. Рекомендуется, но не обязательно: после обыска человека его статус в системе безопасности следует установить как ОСВОБОЖДЁН и добавить заметку о том, что он был обыскан, но ничего не найдено.
-<Box>Это помогает предотвратить трату времени службой безопасности на повторные обыски одного и того же человека, а также облегчает определение того, кто ещё не был обыскан.</Box>
+8. Recommended but optional: After searching someone, their security status should be set to RELEASED, and add a note that they were searched but nothing was found.
+<Box>This helps prevent security wasting time by repeatedly re-searching the same person, and makes it easier to tell who has not yet been searched.</Box>
 
 </Document>

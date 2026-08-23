@@ -6,26 +6,26 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# СРП Старшего Инженера (СИ)
-Это список процедур, обязанностей и задач [color=#1b67a5][bold]Старшего Инженера[/bold][/color] данной станции.
+# Chief Engineer (CE) SOP
+This is the list of procedures, responsibilities, and duties of the [color=#1b67a5][bold]Chief Engineer[/bold][/color] of this station.
 
-1. Старший Инженер обязан удостовериться, что АМЭ, Двигатель на Сверхматерии, Тесла и/или Сингулярность полностью настроены и снабжают станцию энергией, прежде чем предпринимать какие-либо дальнейшие действия самостоятельно или со своей командой.
-<Box>Атмосферику должны настраивать Техники Атмосферы, если не наблюдается нехватка персонала. Ожидается, что Старший Инженер займётся этим [italic]после[/italic] настройки энергоснабжения.</Box>
+1. The Chief Engineer must make sure that the AME, Supermatter Engine, Tesla and/or Singularity are fully set up and supplying power to the station before any further action is taken by themselves or their team.
+<Box>Atmospherics should be set up by Atmospheric Technicians unless there is understaffing. The Chief Engineer is expected to handle this [italic]after[/italic] power is setup.</Box>
 
-2. Старший Инженер отвечает за поддержание исправности Телекоммуникаций.
-<Box>Старший Инженер не должен препятствовать нормальному функционированию Телекоммуникаций и обязан диагностировать и устранять любые возникающие неполадки.</Box>
+2. The Chief Engineer is responsible for maintaining the integrity of Telecommunications.
+<Box>The Chief Engineer must not hinder the proper functionality of Telecommunications, and must diagnose and repair any issues that arise.</Box>
 
-3. Старшему Инженеру запрещается доставать топор из чехла, за исключением случаев непосредственной и серьёзной угрозы его жизни или необходимости срочного доступа к местам чрезвычайной ситуации.
-<Box>После использования топор должен быть возвращён в чехол, а чехол заперт.</Box>
+3. The Chief Engineer is not permitted to take the axe out of its case unless there is an immediate and urgent threat to their life or urgent access to crisis locations is necessary.
+<Box>The axe must be returned to the case afterwards, and the case locked.</Box>
 
-4. Старшему Инженеру разрешается носить телескопическую дубинку, вспышку и любое инженерное оборудование, необходимое для его работы.
+4. The Chief Engineer is permitted to carry a telescopic baton, flash, and any Engineering equipment necessary for their job.
 
-5. Старший Инженер отвечает за поддержание исправности двигателей станции, систем энергоснабжения [bold]и[/bold] систем атмосферы.
-<Box>Невыполнение этого является основанием для увольнения.</Box>
+5. The Chief Engineer is Responsible for maintaining the Integrity of the station's engines, power supply systems, [bold]and[/bold] atmospherics systems.
+<Box>Failure to maintain this is grounds for termination.</Box>
 
-6. Старший Инженер может объявить зону «Аварийной», если она повреждена настолько, что ремонт не может быть разумно завершён в приемлемые сроки.
-<Box>Эта зона должна быть заблокирована персоналом Инженерного отдела (включая Старшего Инженера) для предотвращения вреда персоналу станции. Об этой зоне должно быть объявлено через Консоль Центральной Связи.</Box>
+6. The Chief Engineer may declare an area "Condemned" if it is damaged to the point where repairs cannot reasonably be completed within an acceptable frame of time.
+<Box>This area should be blocked off by Engineering personnel (including the Chief Engineer) to prevent harm to station personnel. This area should be announced over Central Communications Console.</Box>
 
-7. Старшему Инженеру разрешается выдавать членам экипажа Разрешения на Строительство.
+7. The Chief Engineer is permitted to grant Building Permits to crewmembers.
 
 </Document>

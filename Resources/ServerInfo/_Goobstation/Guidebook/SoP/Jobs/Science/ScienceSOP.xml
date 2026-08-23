@@ -6,17 +6,17 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# СРП Научного Отдела
-Это список СРП, которым должен следовать Научный Персонал. Как было сказано ранее, это [bold]не чек-листы[/bold], и их следует рассматривать как рекомендации.
+# Science Department SOP
+These are the list of SOPs that Science Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
 
-<Box>Для уточнения: должность Робототехника может распространяться на любой Научный персонал, работающий с Роботами.</Box>
+<Box>For clarification, Roboticist can extend to any Science personnel working on Robots.</Box>
 
-Ожидается, что [color=#cc74fc]Научный Ассистент[/color] и [color=#cc74fc]Учёный[/color] соответствуют одним и тем же рекомендациям СРП.
+It is expected that [color=#cc74fc]Research Assistant[/color] and [color=#cc74fc]Scientist[/color] coincide in the same SOP guidelines.
 
-Следующие должности имеют записи в этом Отделе, а [color=#1b67a5][bold]Директор Исследований[/bold][/color] является главой персонала:
-- [textlink="Директор Исследований" link="ResearchDirector SOP"]
-- [textlink="Робототехник" link="Roboticist SOP"]
-- [textlink="Учёный" link="Scientist SOP"]
-- [textlink="Научный Ассистент" link="Scientist SOP"]
+The following jobs have entries in this Department, the [color=#1b67a5][bold]Research Director[/bold][/color] being the Head of Staff:
+- [textlink="Research Director" link="ResearchDirector SOP"]
+- [textlink="Roboticist" link="Roboticist SOP"]
+- [textlink="Scientist" link="Scientist SOP"]
+- [textlink="Research Assistant" link="Scientist SOP"]
 
 </Document>

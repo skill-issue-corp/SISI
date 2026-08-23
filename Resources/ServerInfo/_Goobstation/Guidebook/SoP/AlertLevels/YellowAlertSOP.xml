@@ -6,32 +6,32 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Станционная Тревога - Жёлтый
+  # Station Alert - Yellow
 
   <Box>
-    [italic]Объявляется: любым, кто имеет доступ командного уровня, с работающей консоли связи.[/italic]
+    [italic]Called by: Anyone with Command-Level Access at a working Communications Console.[/italic]
   </Box>
 
 
-  [bold]Условия:[/bold]
-  На станции присутствует атмосферная угроза, такая как масштабные пробоины в корпусе, разгерметизация или высокая температура, делающая станцию непригодной для пребывания без ВКД-скафандра.
+  [bold]Conditions:[/bold]
+  There is an atmospheric threat aboard the station such as mass hull breaches, spacing, or high temperatures that make the station uninhabitable without an EVA suit.
 
-  [bold]Служба безопасности:[/bold]
+  [bold]Security:[/bold]
 
-  Вам следует обеспечить надлежащее распределение ВКД-скафандров по станции, сохраняя бдительность.
+  You should ensure EVA suits are properly distributed around the station while maintaining vigilance.
 
-  [bold]Охраняемые зоны:[/bold]
+  [bold]Secure Areas:[/bold]
 
-  Склад ВКД, Техническое хранилище, Генератор гравитации, Защищённое хранилище инженерного отдела, Загрузка ИИ, Хранилище, Гейтвей, а также любые другие места, требующие доступа командного уровня, которые не используются на регулярной основе.
+  EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, Gateway, anywhere else requiring command level access that does not get regularly used.
 
-  Рекомендуется держать все охраняемые зоны заблокированными, если только их использование не является необходимым;
+  It is recommended that all Secure Areas be bolted down unless their use is necessary;
 
-  [bold]Весь персонал:[/bold]
+  [bold]General Crew:[/bold]
 
-  Всему персоналу настоятельно рекомендуется максимально задействовать датчики костюма;
+  All personnel are highly recommended to maximize their Suit Sensors;
 
-  Персонал обязан сообщать о любой подозрительной активности ближайшему сотруднику службы безопасности либо использовать КПК или гарнитуру при необходимости;
+  Personnel are to report any suspicious activity to the nearest member of Security, or use their PDA or headsets if required;
 
-  Персоналу настоятельно рекомендуется либо укрыться в безопасной зоне, либо найти аварийные ВКД-скафандры, а также источник кислорода/азота по мере необходимости.
+  Personnel are highly encouraged to either get into a safe area or find emergency EVA suits as well as a source of oxygen/nitrogen as required.
 
 </Document>

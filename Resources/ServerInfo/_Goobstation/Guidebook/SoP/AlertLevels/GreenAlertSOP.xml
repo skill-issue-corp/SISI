@@ -6,42 +6,42 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-    # Станционная Тревога - Зелёный
+    # Station Alert - Green
 
     <Box>
-        [italic]Объявляется: любым, кто имеет доступ командного уровня, с работающей консоли связи.[/italic]
+        [italic]Called by: Anyone with Command-Level Access at a working Communications Console.[/italic]
     </Box>
 
-    [bold]Условия:[/bold]
+    [bold]Conditions:[/bold]
 
-    Стандартный код тревоги в начале смены. Не изменяйте его, если только угроза не предполагается или не подтверждена;
+    Default Alert Code at the start of the shift. Do not change unless a threat is suspected/confirmed;
 
-    [bold]ИЛИ[/bold]
+    [bold]OR[/bold]
 
-    Все подтверждённые/предполагаемые угрозы станции и/или экипажу были устранены либо исчезли сами по себе. Рекомендуется объявлять Зелёный код, если в течение 15+ минут действия Синего кода не наблюдалось никакой враждебной активности;
+    All confirmed/suspected threats to the station and/or crew have been handled, or simply vanished on their own. It is recommended that, after 15+ minutes on Code Blue without any hostile activity, Code Green be called;
 
-    [bold]Служба безопасности:[/bold]
+    [bold]Security:[/bold]
 
-    Всё оружие должно быть убрано в кобуру либо храниться в карманах/слотах хранения костюма, если только его использование не является абсолютно необходимым;
+    All weapons must be holstered or kept in pockets/suit storage slots unless absolutely required;
 
-    Случайные досмотры не разрешены без прямого разрешения Главы службы безопасности или Капитана. Однако досмотры по-прежнему разрешены при наличии обоснованных подозрений в совершении преступления.
+    Random searches are not permitted without express permission by either the Head of Security or Captain. However, searches are still permitted if there is reasonable suspicion of a crime.
 
-    [bold]Охраняемые зоны:[/bold]
+    [bold]Secure Areas:[/bold]
 
-    Склад ВКД, Техническое хранилище, Генератор гравитации, Защищённое хранилище инженерного отдела, Загрузка ИИ, Хранилище, Гейтвей, а также любые другие места, требующие доступа командного уровня, которые не используются на регулярной основе.
+    EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, Gateway, anywhere else requiring command level access that does not get regularly used.
 
-    Охраняемые зоны, такие как Склад ВКД, должны оставаться разблокированными и готовыми к использованию по их прямому назначению.
+    Secure areas such as EVA are to be left unbolted and ready to be used for their intended purposes.
 
-    Ниже приведены исключения;
+    Exceptions are below;
 
-    Хранилище не должно открываться, если только не требуется ремонт, золото не нужно для Исследований и Разработок (на случай, если Утилизаторы не смогут его доставить), либо в сейфе не нужно спрятать критически важный предмет.
+    The Vault is not to be opened unless repairs are required, gold is required for Research and Development (in case Mining fails to deliver) or a critical item needs to be hidden in the safe.
 
-    Досмотры личности или отдела требуют наличия подписанного и заверенного печатью ордера от Капитана или ГП.
+    Searches of a person or department need to have a signed and stamped warrant by the Captain or HoP.
 
-    [bold]Весь персонал:[/bold]
+    [bold]General Crew:[/bold]
 
-    Хотя это и не обязательно, экипажу рекомендуется активировать и максимально задействовать датчики костюма ввиду возможности несчастных случаев на рабочем месте;
+    While not required, it is recommended that the crew activate and maximize their Suit Sensors, due to the potential for workplace accidents;
 
-    Свободное передвижение по станции разрешено для экипажа, за исключением охраняемых зон.
+    Free transit through the station is permitted for the crew, excluding Secure Areas.
 
 </Document>

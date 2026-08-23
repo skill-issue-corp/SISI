@@ -6,32 +6,32 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# СРП Техника Снабжения
-Это список процедур, обязанностей и задач [color=#846326]Техника Снабжения[/color] данной станции.
+# Cargo Technician SOP
+This is the list of procedures, responsibilities, and duties of the [color=#846326]Cargo Technician[/color] of this station.
 
-1. Техники Снабжения обязаны обеспечивать доставку каждого одобренного заказа в течение 15 минут с момента его размещения и одобрения.
+1. Cargo Technicians must ensure that every approved order is delivered within 15 minutes of having been placed and approved.
 
-2. Техникам Снабжения запрещается работать с ограниченными ящиками (ящиками для Службы Безопасности/Командования).
+2. Cargo Technicians are not permitted to handle restricted crates (crates for Security/Command).
 
-3. Техникам Снабжения запрещается заказывать предметы для личного использования со счёта отдела снабжения без явного согласия Квартирмейстера.
-<Box>Исключение делается, если на счету доступно более [bold]7 500 спесо[/bold] и нет невыполненных заказов. Техники Снабжения не имеют права полностью опустошать баланс счёта отдела ради этого.</Box>
+3. Cargo Technicians are not permitted to order items for sole personal use with the supply department account without express consent from the Quartermaster.
+<Box>Exception is made if there are more than [bold]7,500 spesos[/bold] available and no outstanding orders. Cargo Technicians may not deplete the entire department account balance for this.</Box>
 
-4. Техникам Снабжения запрещается заказывать несущественные предметы (такие как коты или одежда) со счёта снабжения без явного согласия Квартирмейстера.
+4. Cargo Technicians are not permitted to order non-essential items using the supply account (such as cats, or clothing) without express consent from the Quartermaster.
 
-5. Техникам Снабжения запрещается взламывать и/или вскрывать запертые ящики силой.
-<Box>Исключение делается для Заброшенных Ящиков, найденных Утилизаторами.</Box>
+5. Cargo Technicians are not permitted to force and/or break open locked crates.
+<Box>Exception is made for Abandoned Crates found by Salvaging.</Box>
 
-6. Техникам Снабжения запрещается одобрять вневедомственные заказы (например, если Врач запрашивает Изолирующие Перчатки) без явного разрешения Квартирмейстера.
+6. Cargo Technicians are not permitted to authorize non-departmental orders (such as a Medical Doctor asking for Insulated Gloves) without express permission from the Quartermaster.
 
-7. Техники Снабжения обязаны удостоверяться и проверять, что персонал, оформляющий заказ через форму запроса, является членом экипажа, предоставляет верное удостоверение личности и указывает верную причину в запросе.
+7. Cargo Technicians are to ensure and verify that the personnel ordering in the request form is a crew member and is correct identification and shows the correct reason in the request.
 
-8. Техники Снабжения обязаны хранить как минимум одну копию каждого Бланка Заказа (то есть форм, создаваемых Консолью Заказов) в Снабжении до завершения заказа.
+8. Cargo Technicians must ensure at least one copy of every Order Form (ie, the forms produced by the Requests Console) is kept inside Cargo until the order is finished.
 
-9. Техники Снабжения обязаны отправлять обратно все заказанные ящики вместе с прилагаемым манифестом на ящике.
+9. Cargo Technicians must send back all crates that have been ordered, with accompanying manifest on the crate.
 
-10. Техникам Снабжения запрещается просить спесо в обмен на законные заказы грузовых ящиков или запросы автолата от членов экипажа.
+10. Cargo Technicians are not permitted to ask for spesos in exchange for legal cargo crate orders or autolathe requests from crew members.
 
-11. Техникам Снабжения запрещается обменивать предметы и/или услуги на предметы с обычным персоналом без явного согласия Квартирмейстера.
+11. Cargo Technicians are not permitted to trade items and/or favors in exchange for items with regular personnel without express consent from the Quartermaster.
 
-12. Техники Снабжения не должны оставлять себе никакие незаконные предметы, сброшенные в Утилизацию, и обязаны передавать их Службе Безопасности.
+12. Cargo Technicians are not to keep any illegal items that are flushed down Disposals, and must deliver them to Security.
 </Document>

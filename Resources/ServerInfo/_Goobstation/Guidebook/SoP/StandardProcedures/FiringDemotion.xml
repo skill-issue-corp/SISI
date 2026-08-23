@@ -6,54 +6,54 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Политика Увольнения/Понижения
-Это политики и процедуры, которым следует придерживаться при увольнении или понижении персонала с должности.
+# Dismissal/Demotion Policies
+These are the policies/procedures that should be followed when dismissing or demoting personnel from a position.
 
-1. В случае полного увольнения с должности, ID персонала должен быть помечен как «Уволен» и переведён на уровень доступа Ассистента (только Техобслуживание).
-<Box>[bullet/]Дополнительный доступ не должен предоставляться, за исключением особых случаев с одобрения Капитана или соответствующего Главы Отдела (при предоставлении доступа к Отделу).</Box>
-<Box>[bullet/]Если увольнение произведено по приказу Центрального Командования, разрешение на дополнительный доступ должно быть выдано Центральным Командованием.</Box>
+1. In the event of a full dismissal from a position, the personnel should have their ID marked as "Terminated" and set to an Assistant in terms of accesses (only Maintenance).
+<Box>[bullet/]Extra access should not be permitted except for special cases with approval from Captain or a relevant Head of Staff (when giving access to a Department).</Box>
+<Box>[bullet/]If dismissed by Central Command orders, authorization for extra access should be given by Central Command.</Box>
 
-2. В случае понижения в должности соответствующий Глава Отдела должен решить, понизить ли сотрудника до более низкого ранга в Отделе, либо перевести его на должность в Сервисе (с одобрения ГП).
-<Box>[bullet/]При понижении сотрудника с исключением из Отдела рекомендуется предоставить ему доступ к должности в Сервисе по его выбору, либо понизить до Ассистента (с соответствующей пометкой).</Box>
+2. In the event of a demotion, the relevant Head of Staff must choose whether to demote them to a lower rank in the Department or have them transferred to a Service position (with HoP approval).
+<Box>[bullet/]It is recommended that the personnel, when demoted out of a Department, be granted access to a Service job of their choice, or demoted to an Assistant (and marked as such).</Box>
 
-3. Увольнения и понижения не должны производиться без разрешения соответствующего Главы Отдела или Капитана; за исключением случаев, предписанных приказами Центрального Командования или при серьёзных нарушениях Космического Закона.
-<Box>[bullet/]В подобных случаях серьёзных нарушений Космического Закона нарушитель должен был совершить тяжкие преступления и/или подвергаться наказанию в виде Постоянного Брига.</Box>
+3. Dismissals and Demotions should not be performed without authorization from the relevant Head of Staff or Captain; unless specified by orders from Central Command or immense violations of Space Law.
+<Box>[bullet/]In such cases of immense violations of Space Law, the perpetrator must have committed serious crimes and/or actively be punished with Perma Brig.</Box>
 
-4. Персонал, уволенный или понижённый Главой Отдела или уполномоченным лицом, обязан явиться к Главе Персонала для оформления увольнения/понижения. Невыполнение этого требования влечёт законное право на задержание с применением силы.
+4. Personnel that are dismissed or demoted by a Head of Staff or Authoritative Personnel must report to Head of Personnel for dismissal/demotion. Failure to do so will result in legal authority to detain with force.
 
-5. Персонал, уволенный или понижённый в должности, считается нарушителем при нахождении в зонах, к которым он более не имеет доступа. Любые материалы, оставленные из таких зон, считаются контрабандой (если отмечены как таковая) и должны быть сданы.
-<Box>[bullet/]Персоналу разрешается оставлять при себе предметы, не отмеченные как контрабанда, при условии, что это не создаёт помех работе Отдела.</Box>
+5. Personnel that are dismissed or demoted are considered trespassing in areas they would no longer have access. Any materials kept from areas are considered contraband (if listed as such) and should be turned in.
+<Box>[bullet/]Personnel are allowed to keep items not listed as contraband, but should not inhibit the Department.</Box>
 
-## Причины Увольнения или Понижения
-1. Любое [bold]серьёзное[/bold] нарушение Стандартных Операционных Процедур без обоснованной причины.
+## Causes for Dismissal or Demotion
+1. Any [bold]major[/bold] breach of Standard Operating Procedure without propable cause.
 
-2. Любое [bold]серьёзное[/bold] нарушение Космического Закона (с задержанием за подобные преступления).
+2. Any [bold]major[/bold] breach of Space Law (and detained for such crimes).
 
-3. Неоправданная/серьёзная некомпетентность на занимаемой должности.
+3. Unreasonable/Major Incompetence in current position.
 
-4. Отказ выполнять законные/относящиеся к делу приказы соответствующего Главы Отдела или Капитана.
-<Box>[bullet/]Законность и относимость приказа должны определяться Капитаном или Главой Персонала</Box>
+4. Refusal to follow legal/relevant orders from respective Head of Staff or Captain.
+<Box>[bullet/]Legality and relevance of the order must be decided by Captain or Head of Personnel</Box>
 
-5. Создание оскорбительной, опасной и/или небезопасной рабочей обстановки. Письменное разрешение на создание опасных условий должно быть одобрено соответствующим Главой Отдела или Капитаном.
-<Box>[bullet/]Оскорбительная обстановка включает в себя брань, оскорбления, унижения или иное отношение к коллегам как к людям второго сорта.</Box>
+5. Creation of an abusive, dangerous, and/or unsafe work environment. Written approval for dangerous creations must be approved by respective Head of Staff or Captain.
+<Box>[bullet/]Abusive environments include berating, insulting, belittling, or otherwise treating coworkers like dirt.</Box>
 
-## Вотум Недоверия
-[italic]Вотум Недоверия[/italic] - это способ, с помощью которого члены экипажа могут организовать отстранение сотрудника Командования (за исключением персонала Центрального Командования). Он должен быть обоснован причинами, указанными ниже.
+## Vote of No Confidence
+A [italic]Vote of No Confidence[/italic] is a method for crew members to arrange for the removal of a Command Personnel (barring Central Command personnel). It must be justified with reasoning found below.
 
-1. Голосование должно быть подтверждено третьей стороной, которая сможет подсчитать голоса и проверить их законность (обычно это должен быть представитель Центрального Командования, например НТР).
-<Box>[bullet/]Третья сторона должна находиться на станции. Третьей стороной должен выступать Капитан, если он сам не является объектом голосования.</Box>
+1. Voting must be verified by a third party who can tally the votes and verify the validity (this should usually be Central Command personnel, such as NTR).
+<Box>[bullet/]The third party must be on-station. The third party should be the Captain if they are not the target in question.</Box>
 
-2. Если третья сторона отклоняет результаты голосования по любой причине, ситуация должна рассматриваться так, будто голосования не было. Сотрудник сохраняет свои полномочия.
-<Box>[bullet/]В случаях ничьей или недоукомплектованности персоналом третья сторона может принять участие в голосовании.</Box>
+2. If the third party dismisses the vote, for any reason, the individual must be treated as if it had not happened. They maintain their authority.
+<Box>[bullet/]In cases of a tie or understaffed environments, the third party may participate in the vote.</Box>
 
-3. Голосование персонала Отдела против Главы Отдела должно быть одобрено большинством в Отделе (2/3 большинства голосов «за»).
+3. Votes by Departmental crew against the Head of Staff must pass with majority in the Department (2/3rd majority in favor).
 
-4. Голосование Глав Отделов против Капитана должно быть одобрено большинством голосов.
+4. Votes by Heads of Staff against Captain must be in majority favor.
 
-5. Если член Командования отстранён от должности или понижен по результатам голосования, об этом должно быть проинформировано Центральное Командование (включая любых представителей Центрального Командования на станции), с указанием подробностей голосования (личный состав, обоснование, итоги подсчёта голосов).
+5. If a Command member is dismissed or demoted by a vote, Central Command must be informed (included any Central Command on station) with voting details included (personnel, reasoning, vote tally).
 
-6. К уважительным причинам относятся, помимо прочего: «Причины Увольнения или Понижения», Отсутствие/СБО (на длительный период), Критическое Отсутствие Связи, Злоупотребление Полномочиями, Некомпетентность и тому подобное.
+6. Valid reasons include, but are not limited to: 'Causes for Dismissal or Demotion', Absent/SSD (for extended periods), Critical Lack of Communication, Abuse of Authority, Incompetence, et cetera.
 
-7. К неуважительным причинам относятся, помимо прочего: Личные Обиды, Обоснованное Увольнение/Понижение Персонала, Отказ в Разрешении и тому подобное.
+7. Invalid reasons include, but are not limited to: Personal Gripes, Reasonable Dismissal/Demotion of Personnel, Denial of Permission, et cetera.
 
 </Document>

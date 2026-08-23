@@ -6,15 +6,15 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# СРП Инженерного Отдела
-Это список СРП, которым должен следовать Инженерный Персонал. Как было сказано ранее, это [bold]не чек-листы[/bold], и их следует рассматривать как рекомендации.
+# Engineering Department SOP
+These are the list of SOPs that Engineering Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
 
-Для уточнения: [color=#c8a404][bold]Инженер Станции[/bold][/color] и [color=#c8a404][bold]Технический Ассистент[/bold][/color] объединены в одну запись, и её следует соблюдать соответствующим образом.
+For clarification, [color=#c8a404][bold]Station Engineer[/bold][/color] and [color=#c8a404][bold]Technical Assistant[/bold][/color] are combined into the same entry, and should be followed as such.
 
-Следующие должности имеют записи в этом Отделе, а [color=#1b67a5][bold]Старший Инженер[/bold][/color] является главой персонала:
-- [textlink="Старший Инженер" link="ChiefEngineer SOP"]
-- [textlink="Атмосферный Техник" link="AtmosTech SOP"]
-- [textlink="Инженер Станции" link="StationEngineer SOP"]
-- [textlink="Технический Ассистент" link="StationEngineer SOP"]
+The following jobs have entries in this Department, with [color=#1b67a5][bold]Chief Engineer[/bold][/color] being the Head of Staff:
+- [textlink="Chief Engineer" link="ChiefEngineer SOP"]
+- [textlink="Atmospheric Technician" link="AtmosTech SOP"]
+- [textlink="Station Engineer" link="StationEngineer SOP"]
+- [textlink="Technical Assistant" link="StationEngineer SOP"]
 
 </Document>

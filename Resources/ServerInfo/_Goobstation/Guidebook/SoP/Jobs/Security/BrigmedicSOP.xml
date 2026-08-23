@@ -1,31 +1,31 @@
 <Document>
-  # СРП Бригмедика
-  Это список процедур, обязанностей и задач [color=#ba292c][bold]Бригмедика[/bold][/color] данной станции.
+  # Brigmedic SOP
+  This is the list of procedures, responsibilities, and duties of the [color=#ba292c][bold]Brigmedic[/bold][/color] of this station.
 
   <ColorBox>
     <Box>
-      В целях Эскалации Тревоги: считайте более высокие уровни тревоги равными предыдущему уровню тревоги. (Жёлтая Тревога воспринимается как Синяя Тревога, если до этого действовала Синяя Тревога.) Кроме того, считайте Дельта, Гамма, Эпсилон и Фиолетовую Тревогу равными Красной Тревоге.
+      For the purposes of Alert Escalation: Treat higher alerts as if they are still on the previous alert level. (Yellow Alert is Blue Alert if it was Blue Alert prior.) Furthermore, treat Delta, Gamma, Epsilon, and Violet Alert as Red Alert.
     </Box>
   </ColorBox>
 
-  ## Зелёная Тревога
-  1. Бригмедик обязан оказывать неотложную медицинскую помощь заключённым и, что наиболее важно, персоналу Службы Безопасности.
+  ## Green Alert
+  1. Brigmedic must provide emergency medical care to prisoners, and most importantly, Security personnel.
 
-  2. Бригмедику не разрешается проводить аресты, обыски или любые иные процедуры Службы Безопасности.
+  2. Brigmedic is not allowed to conduct arrests, searches or any other Security procedures.
 
-  3. Бригмедик должен находиться в отделе Службы Безопасности и помогать Смотрителю.
-  <Box>Исключение делается, если сотрудник Службы Безопасности выведен из строя и нуждается в спасении, либо если требуется посетить Медицинский отдел для пополнения запасов.</Box>
+  3. Brigmedic is to stay at Security department and help the Warden.
+  <Box>Exception is made if a Security member is down and requires rescue, or if it required to visit Medical department to replenish supplies.</Box>
 
-  4. Бригмедику разрешается носить только стандартное служебное личное оружие и вспышку, используя их исключительно для самообороны.
+  4. Brigmedic is only permitted to carry a standard service side-arm and flash, and use them exclusively for self-defense.
 
-  ## Синяя Тревога
-  1. Рекомендации 1 и 2 переносятся из раздела [color=#388c34]Зелёная Тревога[/color].
+  ## Blue Alert
+  1. Guidelines 1 and 2 are carried over from [color=#388c34]Green Alert[/color].
 
-  2. Рекомендация 3 также переносится из раздела [color=#388c34]Зелёная Тревога[/color], если только Глава Службы Безопасности не распорядится иначе и не попросит Бригмедика патрулировать вместе с Офицерами Службы Безопасности для оказания им неотложной медицинской помощи.
+  2. Guideline 3 is also carried over from [color=#388c34]Green Alert[/color], unless Head of Security orders otherwise and requests Brigmedic to patrol with the Security Officers to provide urgent medical care to them.
 
-  ## Красная Тревога
-  1. Рекомендация 1 переносится из раздела [color=#388c34]Зелёная Тревога[/color].
+  ## Red Alert
+  1. Guideline 1 is carried over from [color=#388c34]Green Alert[/color].
 
-  2. Бригмедику предоставляются те же полномочия и права, что и Офицерам Службы Безопасности, с одобрения Главы Службы Безопасности, но ему всё же следует отдавать приоритет лечению.
+  2. Brigmedic is given the same authority and rights as Security Officers with the Head of Security's approval, but they should still prioritize the healing.
 
 </Document>
