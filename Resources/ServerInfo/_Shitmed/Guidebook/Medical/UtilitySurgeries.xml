@@ -15,9 +15,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 После этого вы можете закрыть надрез термокаутером.
 
 <Box>
-  <GuideEntityEmbed Entity="Scalpel" Caption="скальпель"/>
-  <GuideEntityEmbed Entity="Hemostat" Caption="кровоостанавливающий зажим"/>
-  <GuideEntityEmbed Entity="Cautery" Caption="термокаутер"/>
+<GuideEntityEmbed Entity="Scalpel" Caption="скальпель"/>
+<GuideEntityEmbed Entity="Hemostat" Caption="кровоостанавливающий зажим"/>
+<GuideEntityEmbed Entity="Cautery" Caption="термокаутер"/>
 </Box>
 
 Эта операция работает тем лучше, чем сильнее повреждён ваш пациент, особенно если он всё ещё жив. Она позволяет спасти казалось бы безнадёжных

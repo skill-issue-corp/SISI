@@ -15,20 +15,20 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 Обычно тело состоит из 11 основных частей. А именно:
 
 <Box>
-  <GuideEntityEmbed Entity="OrganHumanHead" Caption="голова"/>
+<GuideEntityEmbed Entity="OrganHumanHead" Caption="голова"/>
 </Box>
 <Box>
-  <GuideEntityEmbed Entity="OrganHumanHandRight" Caption="правая кисть"/>
-  <GuideEntityEmbed Entity="OrganHumanArmRight" Caption="правая рука"/>
-  <GuideEntityEmbed Entity="OrganHumanTorso" Caption="торс"/>
-  <GuideEntityEmbed Entity="OrganHumanArmLeft" Caption="левая рука"/>
-  <GuideEntityEmbed Entity="OrganHumanHandLeft" Caption="левая кисть"/>
+<GuideEntityEmbed Entity="OrganHumanHandRight" Caption="правая кисть"/>
+<GuideEntityEmbed Entity="OrganHumanArmRight" Caption="правая рука"/>
+<GuideEntityEmbed Entity="OrganHumanTorso" Caption="торс"/>
+<GuideEntityEmbed Entity="OrganHumanArmLeft" Caption="левая рука"/>
+<GuideEntityEmbed Entity="OrganHumanHandLeft" Caption="левая кисть"/>
 </Box>
 <Box>
-  <GuideEntityEmbed Entity="OrganHumanFootRight" Caption="правая ступня"/>
-  <GuideEntityEmbed Entity="OrganHumanLegRight" Caption="правая нога"/>
-  <GuideEntityEmbed Entity="OrganHumanLegLeft" Caption="левая нога"/>
-  <GuideEntityEmbed Entity="OrganHumanFootLeft" Caption="левая ступня"/>
+<GuideEntityEmbed Entity="OrganHumanFootRight" Caption="правая ступня"/>
+<GuideEntityEmbed Entity="OrganHumanLegRight" Caption="правая нога"/>
+<GuideEntityEmbed Entity="OrganHumanLegLeft" Caption="левая нога"/>
+<GuideEntityEmbed Entity="OrganHumanFootLeft" Caption="левая ступня"/>
 </Box>
 
 У некоторых видов может быть больше или меньше частей тела - например, хвосты, крылья или дополнительные конечности, но в целом это примерный набор того, что вы увидите.

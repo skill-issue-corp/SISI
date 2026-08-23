@@ -16,23 +16,23 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 [textlink="Нажмите здесь, чтобы увидеть полный список напитков." link="Drinks"]
 
 <Box>
-  Материалы для этих напитков можно найти в разных местах:
+Материалы для этих напитков можно найти в разных местах:
 </Box>
 <Box>
-  <GuideEntityEmbed Entity="BoozeDispenser"/>
-  <GuideEntityEmbed Entity="SodaDispenser"/>
-  <GuideEntityEmbed Entity="VendingMachineBooze"/>
+<GuideEntityEmbed Entity="BoozeDispenser"/>
+<GuideEntityEmbed Entity="SodaDispenser"/>
+<GuideEntityEmbed Entity="VendingMachineBooze"/>
 </Box>
 
 <Box>
-  Не забудьте про ёмкости для подачи напитков!
+Не забудьте про ёмкости для подачи напитков!
 </Box>
 <Box>
-  <GuideEntityEmbed Entity="DrinkGlass" Caption="Стакан"/>
-  <GuideEntityEmbed Entity="DrinkGlassCoupeShaped"/>
-  <GuideEntityEmbed Entity="DrinkShotGlass"/>
-  <GuideEntityEmbed Entity="DrinkShaker"/>
-  <GuideEntityEmbed Entity="DrinkJigger"/>
+<GuideEntityEmbed Entity="DrinkGlass" Caption="Стакан"/>
+<GuideEntityEmbed Entity="DrinkGlassCoupeShaped"/>
+<GuideEntityEmbed Entity="DrinkShotGlass"/>
+<GuideEntityEmbed Entity="DrinkShaker"/>
+<GuideEntityEmbed Entity="DrinkJigger"/>
 </Box>
 
 Полный список напитков, которые можно заказать, вы найдёте в разделе «Справочные таблицы».

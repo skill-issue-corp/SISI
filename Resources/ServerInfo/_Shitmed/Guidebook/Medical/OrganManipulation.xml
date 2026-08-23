@@ -6,15 +6,15 @@
 Обычно тело имеет следующие органы:
 
 <Box>
-  <GuideEntityEmbed Entity="OrganHumanBrain" Caption="мозг"/>
-  <GuideEntityEmbed Entity="OrganHumanEyes" Caption="глаза"/>
-  <GuideEntityEmbed Entity="OrganHumanHeart" Caption="сердце"/>
+<GuideEntityEmbed Entity="OrganHumanBrain" Caption="мозг"/>
+<GuideEntityEmbed Entity="OrganHumanEyes" Caption="глаза"/>
+<GuideEntityEmbed Entity="OrganHumanHeart" Caption="сердце"/>
 </Box>
 <Box>
-  <GuideEntityEmbed Entity="OrganHumanKidneys" Caption="почки"/>
-  <GuideEntityEmbed Entity="OrganHumanLiver" Caption="печень"/>
-  <GuideEntityEmbed Entity="OrganHumanLungs" Caption="лёгкие"/>
-  <GuideEntityEmbed Entity="OrganHumanStomach" Caption="желудок"/>
+<GuideEntityEmbed Entity="OrganHumanKidneys" Caption="почки"/>
+<GuideEntityEmbed Entity="OrganHumanLiver" Caption="печень"/>
+<GuideEntityEmbed Entity="OrganHumanLungs" Caption="лёгкие"/>
+<GuideEntityEmbed Entity="OrganHumanStomach" Caption="желудок"/>
 </Box>
 
 У некоторых видов может быть больше или меньше органов - например, у дионы есть объединённый орган, выполняющий сразу несколько функций, но в целом это примерный набор того, что вы увидите.
@@ -35,9 +35,9 @@
 Для этого вы можете использовать медицинский биофабрикатор вместе с некоторым количеством биомассы. Он способен производить биосинтетические органы для всех видов.
 
 <Box>
-  <GuideEntityEmbed Entity="MedicalBiofabricator" Caption="медицинский биофабрикатор"/>
-  <GuideEntityEmbed Entity="MedicalBiofabMachineBoard" Caption="плата биофабрикатора"/>
-  <GuideEntityEmbed Entity="MaterialBiomass" Caption="биомасса"/>
+<GuideEntityEmbed Entity="MedicalBiofabricator" Caption="медицинский биофабрикатор"/>
+<GuideEntityEmbed Entity="MedicalBiofabMachineBoard" Caption="плата биофабрикатора"/>
+<GuideEntityEmbed Entity="MaterialBiomass" Caption="биомасса"/>
 </Box>
 
 Однако если наука ещё не исследовала нужный вам орган, вам придётся проявить находчивость и «раздобыть» органы у ничего не подозревающих членов экипажа или обезьян.

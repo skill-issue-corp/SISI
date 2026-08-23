@@ -3,7 +3,7 @@
 
   Nanotrasen нанимает представителей самых разных разумных видов.
 
-<!-- Trauma - Completely rewritten -->
+  <!-- Trauma - Completely rewritten -->
   <Box>
     <GuideEntityEmbed Entity="AppearanceHuman" Caption="Человек"/>
     <GuideEntityEmbed Entity="AppearanceVox" Caption="Вокс"/>
