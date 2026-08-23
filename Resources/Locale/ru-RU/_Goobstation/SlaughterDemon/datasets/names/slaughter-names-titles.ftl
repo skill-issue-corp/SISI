@@ -1,7 +1,7 @@
 names-demon-title-dataset-1 = Кровосос
 names-demon-title-dataset-2 = Разрушитель
 names-demon-title-dataset-3 = Пасть
-names-demon-title-dataset-4 = Потрошитель
+names-demon-title-dataset-4 = Слэшер
 names-demon-title-dataset-5 = Голодность
 names-demon-title-dataset-6 = Мясник
 names-demon-title-dataset-7 = Резня

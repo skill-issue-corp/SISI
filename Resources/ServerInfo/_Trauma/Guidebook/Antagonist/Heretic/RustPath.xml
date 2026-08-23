@@ -1,6 +1,6 @@
 <Document>
 
-  # Ржавый Путь
+  # Путь Ржавчины
 
   Сложность: [color=orange]Средне[/color]
 
@@ -50,7 +50,7 @@
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Энтропийный Шлейф</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная способность</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Испускает волну ржавчины, ослепляя, отравляя и заставляя всех, кто в неё попал, атаковать находящихся поблизости не-еретиков. Также распространяет ржавчину.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Испускает волну ржавчины, ослепляя, отравляя и заставляя всех, кто в неё попал, атаковать находящихся поблизости не-еретиков.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Токсичный Клинок</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
@@ -58,7 +58,7 @@
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Ржавый Рывок</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная способность</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Совершает рывок с ржавой плитки, покрывая ржавчиной любую плитку на своём пути, разрушая стены и раня людей.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Совершает рывок со ржавой плитки, покрывая ржавчиной любую плитку на своём пути, разрушая стены и раня людей.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Клятва Носителя Ржавчины</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Три гнилых или синтетических трупа</Box></ColorBox>
@@ -73,7 +73,7 @@
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Эффект</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">1 ур. Пассивная</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5"></Box>Стояние на ржавчине даёт вам регенерацию, сопротивление химикатам и сопротивление оглушению.</ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Стояние на ржавчине даёт вам регенерацию, сопротивление химикатам и сопротивление оглушению.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Утилизированные Останки</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Значительно большие сопротивления и иммунитет к захвату при стоянии на ржавчине.</Box></ColorBox>

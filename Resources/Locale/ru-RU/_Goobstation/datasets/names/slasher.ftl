@@ -32,7 +32,7 @@ names-slasher-title-dataset-30 = Кожа
 
 names-slasher-dataset-1 = Мясник
 names-slasher-dataset-2 = Резчик
-names-slasher-dataset-3 = Потрошитель
+names-slasher-dataset-3 = Слэшер
 names-slasher-dataset-4 = Душитель
 names-slasher-dataset-5 = Маньяк
 names-slasher-dataset-6 = Убийца

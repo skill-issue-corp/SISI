@@ -13,7 +13,7 @@ guide-entry-circuits = Схемы
 guide-entry-civilian = Гражданские должности
 
 guide-entry-bingle = Бингл
-guide-entry-changelings = Морфы-подменыши
+guide-entry-changelings = Морфы и генокрады
 guide-entry-changeling-abilities = Способности морфов-подменышей
 guide-entry-corporate-agents = Корпоративные агенты
 guide-entry-devil = Дьявол
@@ -21,8 +21,8 @@ guide-entry-devil-clauses = Дьявольские договоры
 guide-entry-insurgents = Повстанцы
 guide-entry-morph = Морф
 guide-entry-shadow-demon = Демон тени
-guide-entry-slasher = Потрошитель
-guide-entry-slaughter-demon = Демон бойни
+guide-entry-slasher = Слэшер
+guide-entry-slaughter-demon = Демон Резни
 
 guide-entry-skills = Навыки
 
