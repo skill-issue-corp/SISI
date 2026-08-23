@@ -14,78 +14,78 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Двигатель Антиматерии (ДАМ)
-Двигатель Антиматерии - генератор кратковременной поддержки для станции, обеспечивающий значительное количество энергии на ограниченное время.
+  # Двигатель Антиматерии (ДАМ)
+  Двигатель Антиматерии - генератор кратковременной поддержки для станции, обеспечивающий значительное количество энергии на ограниченное время.
 
-Он в основном используется, чтобы помочь инженерам запустить более крупные двигатели, такие как [textlink="Сингулярный двигатель" link="SingularityEngine"] или [textlink="Теслу" link="TeslaEngine"], дополняя [textlink="батареи" link="PowerStorage"] станции частичной мощностью для продления времени их работы.
+  Он в основном используется, чтобы помочь инженерам запустить более крупные двигатели, такие как [textlink="Сингулярный двигатель" link="SingularityEngine"] или [textlink="Теслу" link="TeslaEngine"], дополняя [textlink="батареи" link="PowerStorage"] станции частичной мощностью для продления времени их работы.
 
-## Постройка
-<Box>Необходимые детали:</Box>
-<Box>
-  <GuideEntityEmbed Entity="AmeController"/>
-  <GuideEntityEmbed Entity="AmePartFlatpack"/>
-  <GuideEntityEmbed Entity="AmeJar"/>
-</Box>
+  ## Постройка
+  <Box>Необходимые детали:</Box>
+  <Box>
+    <GuideEntityEmbed Entity="AmeController"/>
+    <GuideEntityEmbed Entity="AmePartFlatpack"/>
+    <GuideEntityEmbed Entity="AmeJar"/>
+  </Box>
 
-Контроллер ДАМ - это часть ДАМ, которая выводит энергию в сеть станции через [textlink="ВВ-соединение" link="VoltageNetworks"].
-Из-за этого начинать постройку ДАМ стоит с размещения контроллера поверх [color=orange]ВВ-провода[/color].
+  Контроллер ДАМ - это часть ДАМ, которая выводит энергию в сеть станции через [textlink="ВВ-соединение" link="VoltageNetworks"].
+  Из-за этого начинать постройку ДАМ стоит с размещения контроллера поверх [color=orange]ВВ-провода[/color].
 
-На большинстве станций есть открытая [color=orange]ВВ-проводка[/color] или обозначенные места для закрепления контроллера ДАМ гаечным ключом, чтобы он подключался к сети.
+  На большинстве станций есть открытая [color=orange]ВВ-проводка[/color] или обозначенные места для закрепления контроллера ДАМ гаечным ключом, чтобы он подключался к сети.
 
-Экранирование ДАМ - это физическая структура, из которой состоит Двигатель Антиматерии. Оно создаётся путём превращения плоских упаковок ДАМ в экранирование с помощью мультитула.
+  Экранирование ДАМ - это физическая структура, из которой состоит Двигатель Антиматерии. Оно создаётся путём превращения плоских упаковок ДАМ в экранирование с помощью мультитула.
 
-Чтобы построить ДАМ, начните с размещения квадрата 3x3 или больше из плоских упаковок ДАМ в качестве подготовки к постройке, стараясь максимизировать количество «центральных» элементов, окружённых со всех восьми сторон.
-Чем больше центральных элементов, тем больше ядер будет у вашего ДАМ, и тем больше энергии он сможет безопасно выдавать.
+  Чтобы построить ДАМ, начните с размещения квадрата 3x3 или больше из плоских упаковок ДАМ в качестве подготовки к постройке, стараясь максимизировать количество «центральных» элементов, окружённых со всех восьми сторон.
+  Чем больше центральных элементов, тем больше ядер будет у вашего ДАМ, и тем больше энергии он сможет безопасно выдавать.
 
-<Box>
-  <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
-  <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
-  <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
-</Box>
-<Box>
-  <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
-  <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
-  <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
-</Box>
-<Box>
-  <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
-  <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
-  <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+    <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
+  </Box>
 
-После этого вы можете использовать мультитул, чтобы превратить каждую плоскую упаковку ДАМ в экранирование, что должно сформировать завершённую конфигурацию ДАМ.
+  После этого вы можете использовать мультитул, чтобы превратить каждую плоскую упаковку ДАМ в экранирование, что должно сформировать завершённую конфигурацию ДАМ.
 
-<GuideEntityEmbed Entity="AmeController" Caption=""/>
-<Box>
-  <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
-  <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
-  <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
-</Box>
-<Box>
-  <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
-  <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
-  <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
-</Box>
-<Box>
-  <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
-  <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
-  <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
-</Box>
-<Box>
-  [color=#999999][italic]Пример конфигурации с одним ядром[italic][/color]
-</Box>
+  <GuideEntityEmbed Entity="AmeController" Caption=""/>
+  <Box>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+    <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
+  </Box>
+  <Box>
+    [color=#999999][italic]Пример конфигурации с одним ядром[italic][/color]
+  </Box>
 
-## Эксплуатация
-Чтобы запустить ДАМ, вставьте топливную банку в контроллер ДАМ и установите безопасную скорость подачи.
+  ## Эксплуатация
+  Чтобы запустить ДАМ, вставьте топливную банку в контроллер ДАМ и установите безопасную скорость подачи.
 
-Безопасная скорость подачи - это значение, при котором ДАМ может безопасно работать без перегрева, одновременно максимизируя выходную мощность.
+  Безопасная скорость подачи - это значение, при котором ДАМ может безопасно работать без перегрева, одновременно максимизируя выходную мощность.
 
-Эта скорость всегда равна удвоенному количеству ядер.
+  Эта скорость всегда равна удвоенному количеству ядер.
 
-Например, у ДАМ с одним ядром безопасная скорость подачи составит 2. С двумя ядрами безопасная скорость подачи составит 4, и так далее.
+  Например, у ДАМ с одним ядром безопасная скорость подачи составит 2. С двумя ядрами безопасная скорость подачи составит 4, и так далее.
 
-Превышение этого соотношения со временем приведёт к [color=#ff0000]перегреву[/color] двигателя, а вскоре после этого - к [color=#ff0000]взрыву[/color].
+  Превышение этого соотношения со временем приведёт к [color=#ff0000]перегреву[/color] двигателя, а вскоре после этого - к [color=#ff0000]взрыву[/color].
 
-Контроллер ДАМ [textlink="сообщает" link="InspectingPower"] как о количестве энергии, которое он передаёт в сеть, так и о теоретическом максимуме мощности, которую он мог бы выдать при необходимости.
+  Контроллер ДАМ [textlink="сообщает" link="InspectingPower"] как о количестве энергии, которое он передаёт в сеть, так и о теоретическом максимуме мощности, которую он мог бы выдать при необходимости.
 
 </Document>

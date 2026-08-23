@@ -4,10 +4,10 @@
 [color=#ff0000]Подтверждена биологическая опасность 5 уровня на борту станции. Весь персонал обязан локализовать вспышку.[/color]
 
 Блоб - это быстрорастущий опасный организм, чья главная цель - захватить станцию.
-<Box>
-  <GuideEntityEmbed Entity="CoreBlobTile" Caption="Блоб"/>
-  <GuideEntityEmbed Entity="MobMouse" Caption="Носитель блоба"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="CoreBlobTile" Caption="Блоб"/>
+    <GuideEntityEmbed Entity="MobMouse" Caption="Носитель блоба"/>
+  </Box>
 
 Вы можете стать носителем блоба как в начале раунда, так и в середине, если возьмёте на себя роль призрака. Носителем блоба может быть член экипажа или мышь.
 
@@ -29,12 +29,12 @@
 
 ## Специальные плитки
 
-<Box>
-  <GuideEntityEmbed Entity="ResourceBlobTile" Caption="Ресурсная Плитка"/>
-  <GuideEntityEmbed Entity="FactoryBlobTile" Caption="Плитка-Фабрика"/>
-  <GuideEntityEmbed Entity="NodeBlobTile" Caption="Плитка-Узел"/>
+  <Box>
+    <GuideEntityEmbed Entity="ResourceBlobTile" Caption="Ресурсная Плитка"/>
+    <GuideEntityEmbed Entity="FactoryBlobTile" Caption="Плитка-Фабрика"/>
+    <GuideEntityEmbed Entity="NodeBlobTile" Caption="Плитка-Узел"/>
 
-</Box>
+  </Box>
 
 - [color=#a4885c]Ресурсные Плитки[/color] постоянно приносят очки за все действия, совершаемые блобом. Это ваши вторые по важности плитки после Ядра.
 - [color=#a4885c]Плитки-Фабрики[/color] создают Споры блоба и Блобернауты, помогающих сражаться против станции.
@@ -42,10 +42,10 @@
 
 ## Приспешники
 
-<Box>
-  <GuideEntityEmbed Entity="MobBlobBlobbernaut" Caption="Блобернаут"/>
-  <GuideEntityEmbed Entity="MobBlobPod" Caption="Спора Блоба"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="MobBlobBlobbernaut" Caption="Блобернаут"/>
+    <GuideEntityEmbed Entity="MobBlobPod" Caption="Спора Блоба"/>
+  </Box>
 
 Фабрики блоба могут производить Споры блоба и Блобернаутов - это ваш основной хлеб с маслом.
 Споры блоба способны превращать мёртвых гуманоидов в зомби-блобов, которые будут вынуждены сражаться на вашей стороне против остального экипажа. Также при смерти они выпускают облако дыма, эффект которого зависит от вашего химиката.
@@ -57,10 +57,10 @@
 - Обратите внимание, что [color=#a4885c]вы не можете размещать обычные плитки блоба далеко от узлов блоба. Размещайте узлы блоба, чтобы иметь возможность расти дальше.[/color]
 - Нажав Alt+ЛКМ, вы можете улучшить обычные плитки до прочных, а прочные - до отражающих.
 
-<Box>
-  <GuideEntityEmbed Entity="StrongBlobTile" Caption="Прочные плитки"/>
-  <GuideEntityEmbed Entity="ReflectiveBlobTile" Caption="Отражающие плитки"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="StrongBlobTile" Caption="Прочные плитки"/>
+    <GuideEntityEmbed Entity="ReflectiveBlobTile" Caption="Отражающие плитки"/>
+  </Box>
 
 ## Особые способности
 
@@ -94,9 +94,9 @@
 
 Начиная со второй стадии, у капитана появляется приоритетная цель - защита диска ядерной аутентификации. Если вы его потеряете, блоб невозможно будет уничтожить во время Дельты, что даёт блобу почти гарантированную победу! Если вы капитан, НЕ бросайтесь очертя голову в блоб!!
 
-<Box>
-  <GuideEntityEmbed Entity="NukeDisk" Caption="Диск Ядерной Аутентификации"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="NukeDisk" Caption="Диск Ядерной Аутентификации"/>
+  </Box>
 
 ## Какой-то чувак только что превратил игру в RTS, что делать?
 
@@ -124,10 +124,10 @@
 
 Как уже говорилось, блоб очень уязвим к урону от ожогов. Поэтому следующие предметы отлично подходят для борьбы с ним:
 
-<Box>
-  <GuideEntityEmbed Entity="MagazineBoxPistolIncendiary" Caption="Зажигательные патроны"/>
-  <GuideEntityEmbed Entity="WeaponLaserCarbine" Caption="Лазерная винтовка"/>
-  <GuideEntityEmbed Entity="Welder" Caption="Сварочный аппарат "/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="MagazineBoxPistolIncendiary" Caption="Зажигательные патроны"/>
+    <GuideEntityEmbed Entity="WeaponLaserCarbine" Caption="Лазерная винтовка"/>
+    <GuideEntityEmbed Entity="Welder" Caption="Сварочный аппарат "/>
+  </Box>
 
 </Document>

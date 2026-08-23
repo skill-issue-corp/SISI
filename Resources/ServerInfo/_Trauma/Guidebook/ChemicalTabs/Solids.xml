@@ -12,17 +12,17 @@ SPDX-License-Identifier: MIT
 Рецепты здесь - это твёрдые предметы, создаваемые с помощью химии.
 
 ## Крем Алоэ
-<Box>
-  <GuideEntityEmbed Entity="FoodAloe" Caption="Сырое алоэ"/>
-  <GuideEntityEmbed Entity="AloeCream" Caption="Крем алоэ"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="FoodAloe" Caption="Сырое алоэ"/>
+    <GuideEntityEmbed Entity="AloeCream" Caption="Крем алоэ"/>
+  </Box>
 
 Крем алоэ можно создать, поместив сырое алоэ в микроволновку на 10 секунд.
 
 ## Кристаллы
-<Box>
-  <GuideEntityEmbed Entity="ShardCrystalBlue" Caption="Кристалл"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="ShardCrystalBlue" Caption="Кристалл"/>
+  </Box>
 
 Кристалл можно создать, смешав следующие ингредиенты:
 - 15 Сахара
@@ -30,9 +30,9 @@ SPDX-License-Identifier: MIT
 - 5 Этанола
 
 ## ЭМИ
-<Box>
-  <GuideEntityEmbed Entity="EmpGrenade" Caption="ЭМИ"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="EmpGrenade" Caption="ЭМИ"/>
+  </Box>
 
 Импульс ЭМИ можно создать, смешав следующие ингредиенты:
 - 1 Урана
@@ -40,9 +40,9 @@ SPDX-License-Identifier: MIT
 - 1 Алюминия
 
 ## Пена
-<Box>
-  <GuideEntityEmbed Entity="CleanerGrenade" Caption="Пена"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="CleanerGrenade" Caption="Пена"/>
+  </Box>
 
 Облако пены можно создать, смешав следующие ингредиенты:
 - 1 Воды
@@ -51,9 +51,9 @@ SPDX-License-Identifier: MIT
 Пена работает так же, как дым, удерживая химикаты вплоть до предела, с которым она была создана.
 
 ## Порох
-<Box>
-  <GuideEntityEmbed Entity="MaterialGunpowder" Caption="Порох"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="MaterialGunpowder" Caption="Порох"/>
+  </Box>
 
 Порох можно создать, смешав следующие ингредиенты:
 - 6 Калия
@@ -61,9 +61,9 @@ SPDX-License-Identifier: MIT
 - 2 Угля
 
 ## Пластик
-<Box>
-  <GuideEntityEmbed Entity="SheetPlastic" Caption="Листы пластика"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="SheetPlastic" Caption="Листы пластика"/>
+  </Box>
 
 10 единиц Пластика можно создать, смешав следующие ингредиенты:
 - 10 Нефти
@@ -72,17 +72,17 @@ SPDX-License-Identifier: MIT
 - Нагрев раствора до 374 градусов
 
 ## Регенеративная сетка
-<Box>
-  <GuideEntityEmbed Entity="RegenerativeMesh" Caption="Сетка"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="RegenerativeMesh" Caption="Сетка"/>
+  </Box>
 
 Сетки можно создать, поместив следующие ингредиенты в микроволновку на 10 секунд:
 
-<Box>
-  <GuideEntityEmbed Entity="FoodAloe" Caption="Сырое алоэ"/>
-  <GuideEntityEmbed Entity="Ointment" Caption="Мазь"/>
-  <GuideEntityEmbed Entity="MaterialCloth" Caption="Ткань"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="FoodAloe" Caption="Сырое алоэ"/>
+    <GuideEntityEmbed Entity="Ointment" Caption="Мазь"/>
+    <GuideEntityEmbed Entity="MaterialCloth" Caption="Ткань"/>
+  </Box>
 
 - 1 Сырое алоэ
 - 1 Мазь
@@ -92,9 +92,9 @@ SPDX-License-Identifier: MIT
 
 
 ## Дым
-<Box>
-  <GuideEntityEmbed Entity="SmokeGrenade" Caption="Дым"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="SmokeGrenade" Caption="Дым"/>
+  </Box>
 
 Облако дыма можно создать, смешав следующие ингредиенты:
 - 1 Сахара
@@ -106,17 +106,17 @@ SPDX-License-Identifier: MIT
 смесь 5-5-5 может нести 5 единиц мутагена и передавать его каждому, кто войдёт в облако дыма.
 
 ## Шов
-<Box>
-  <GuideEntityEmbed Entity="MedicatedSuture" Caption="Шов"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="MedicatedSuture" Caption="Шов"/>
+  </Box>
 
 Швы можно создать, поместив следующие ингредиенты в микроволновку на 10 секунд:
 
-<Box>
-  <GuideEntityEmbed Entity="FoodPoppy" Caption="Мак"/>
-  <GuideEntityEmbed Entity="MaterialCloth" Caption="Ткань"/>
-  <GuideEntityEmbed Entity="Brutepack" Caption="Бандажи"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="FoodPoppy" Caption="Мак"/>
+    <GuideEntityEmbed Entity="MaterialCloth" Caption="Ткань"/>
+    <GuideEntityEmbed Entity="Brutepack" Caption="Бандажи"/>
+  </Box>
 
 - 1 Мак
 - 1 Бандаж
@@ -125,9 +125,9 @@ SPDX-License-Identifier: MIT
 - 20 единиц Криптобиолина
 
 ## Синтетическое мясо
-<Box>
-  <GuideEntityEmbed Entity="FoodMeatSynth" Captain="Синтетическое мясо"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="FoodMeatSynth" Captain="Синтетическое мясо"/>
+  </Box>
 
 Синтетическое мясо можно создать, смешав следующие ингредиенты
 - 10 Полиакрилата натрия
@@ -137,6 +137,6 @@ SPDX-License-Identifier: MIT
 
 После создания вы можете перемолоть синтетическое мясо в синтетическую плоть, чтобы затем центрифугировать её в синтетические клетки, которые являются чрезвычайно эффективным средством лечения токсинового урона, если распылить их на кого-либо
 
-<GuideReagentGroupEmbed Group="Solids"/>
+  <GuideReagentGroupEmbed Group="Solids"/>
 
 </Document>
