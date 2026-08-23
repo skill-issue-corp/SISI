@@ -68,7 +68,7 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
         SubscribeLocalEvent<CorticalBorerComponent, CorticalBorerDispenserSetInjectAmountMessage>(OnSetInjectAmountMessage);
 
         SubscribeLocalEvent<InventoryComponent, InfestHostAttempt>(OnInfestHostAttempt);
-        // SubscribeLocalEvent<CorticalBorerComponent, CheckTargetedSpeechEvent>(OnSpeakEvent); // TODO-SIS: Бля
+        SubscribeLocalEvent<CorticalBorerComponent, CheckTargetedSpeechEvent>(OnSpeakEvent);
 
         SubscribeLocalEvent<CorticalBorerComponent, MindRemovedMessage>(OnMindRemoved);
         SubscribeLocalEvent<CorticalBorerComponent, ModifyChangedTemperatureEvent>(OnTemperatureChange);
@@ -81,7 +81,7 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
         foreach (var actionId in ent.Comp.InitialCorticalBorerActions)
             _actions.AddAction(ent, actionId);
 
-        // _alerts.ShowAlert(ent, ent.Comp.ChemicalAlert); // TODO-SIS: Бля
+        _alerts.ShowAlert(ent, ent.Comp.ChemicalAlert);
         UpdateUiState(ent);
     }
 
@@ -107,7 +107,6 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
         }
     }
 
-    /* // TODO-SIS: Бля
     private void OnSpeakEvent(Entity<CorticalBorerComponent> ent, ref CheckTargetedSpeechEvent args)
     {
         args.ChatTypeIgnore.Add(InGameICChatType.CollectiveMind);
@@ -118,7 +117,6 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
             args.Targets.Add(ent.Comp.Host.Value);
         }
     }
-    */
 
     public void UpdateChems(Entity<CorticalBorerComponent> ent, int change)
     {
@@ -134,7 +132,7 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
         if (comp.ChemicalPoints % comp.UiUpdateInterval == 0)
             UpdateUiState(ent);
 
-        // _alerts.ShowAlert(ent, ent.Comp.ChemicalAlert); // TODO-SIS: Бля
+        _alerts.ShowAlert(ent, ent.Comp.ChemicalAlert);
 
         Dirty(ent);
     }
@@ -194,10 +192,8 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
         solution.AddReagent(chemicalPrototype.Reagent, chemAmount);
 
         // add the chemicals to the bloodstream of the host
-        /* // TODO-SIS: Бля
         if (!_blood.TryAddToChemicals(comp.Host.Value, solution))
             return false;
-        */
 
         UpdateChems(ent, -((int)chemAmount * chemicalPrototype.Cost));
         return true;
@@ -360,11 +356,11 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
 
         // add collective mind if we don't have it already
         var channel = ent.Comp.HivemindChannel;
-        // var hadHivemind = _collective.HasCollectiveMind(host, channel); // TODO-SIS: Бля
-        // infestedComp.HadHivemind = hadHivemind; // TODO-SIS: Бля
+        var hadHivemind = _collective.HasCollectiveMind(host, channel);
+        infestedComp.HadHivemind = hadHivemind;
         if (TryComp<CollectiveMindComponent>(host, out var collectiveComp))
             infestedComp.OldDefault = collectiveComp.DefaultChannel;
-        // _collective.AddCollectiveMind(host, channel, true); // also set default // TODO-SIS: Бля
+        _collective.AddCollectiveMind(host, channel, true); // also set default
 
         var str = $"{ToPrettyString(worm)} has taken control over {ToPrettyString(host)}";
 
@@ -418,7 +414,7 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
             _mind.TransferTo(infestedComp.OrigininalMindId.Value, host);
 
         if (!infestedComp.HadHivemind)
-            // _collective.RemoveCollectiveMind(host, worm.Comp.HivemindChannel); // TODO-SIS: Бля
+            _collective.RemoveCollectiveMind(host, worm.Comp.HivemindChannel);
         if (TryComp<CollectiveMindComponent>(host, out var collectiveComp))
             collectiveComp.DefaultChannel = infestedComp.OldDefault;
 

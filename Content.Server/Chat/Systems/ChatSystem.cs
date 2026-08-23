@@ -418,8 +418,8 @@ public sealed partial class ChatSystem : SharedChatSystem
             desiredType = chatTypeOverride;
 
         // Mono Change: Is this being sent direct
-        /* // TODO-SIS: Бля
-        var targetEv = new CheckTargetedSpeechEvent(); // TODO-SIS: Бля
+
+        var targetEv = new CheckTargetedSpeechEvent();
         RaiseLocalEvent(source, targetEv);
 
         if (targetEv.Targets.Count > 0 && !targetEv.ChatTypeIgnore.Contains(desiredType))
@@ -427,7 +427,6 @@ public sealed partial class ChatSystem : SharedChatSystem
             SendEntityDirect(source, message, range, language, nameOverride, targetEv.Targets);
             return;
         }
-        */
 
         // This message may have a radio prefix, and should then be whispered to the resolved radio channel
         if (checkRadioPrefix)
