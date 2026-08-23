@@ -23,7 +23,6 @@ public sealed partial class DisposalUnitSystem : SharedDisposalUnitSystem
 
         SubscribeLocalEvent<DisposalUnitComponent, DestructionEventArgs>(OnDestruction);
         SubscribeLocalEvent<DisposalUnitComponent, EntityTerminatingEvent>(OnTerminating);
-        SubscribeLocalEvent<DisposalUnitComponent, BeforeExplodeEvent>(OnExploded);
     }
 
     /// <inheritdoc/>
@@ -48,13 +47,5 @@ public sealed partial class DisposalUnitSystem : SharedDisposalUnitSystem
     private void OnTerminating(Entity<DisposalUnitComponent> ent, ref EntityTerminatingEvent args)
     {
         EjectContents(ent);
-    }
-
-    private void OnExploded(Entity<DisposalUnitComponent> ent, ref BeforeExplodeEvent args)
-    {
-        if (ent.Comp.Container is not {} container)
-            return;
-
-        args.Contents.AddRange(container.ContainedEntities);
     }
 }
