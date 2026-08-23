@@ -22,9 +22,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   ## Постройка
   <Box>Необходимые детали:</Box>
   <Box>
-    <GuideEntityEmbed Entity="AmeController"/>
-    <GuideEntityEmbed Entity="AmePartFlatpack"/>
-    <GuideEntityEmbed Entity="AmeJar"/>
+  <GuideEntityEmbed Entity="AmeController"/>
+  <GuideEntityEmbed Entity="AmePartFlatpack"/>
+  <GuideEntityEmbed Entity="AmeJar"/>
   </Box>
 
   Контроллер ДАМ - это часть ДАМ, которая выводит энергию в сеть станции через [textlink="ВВ-соединение" link="VoltageNetworks"].

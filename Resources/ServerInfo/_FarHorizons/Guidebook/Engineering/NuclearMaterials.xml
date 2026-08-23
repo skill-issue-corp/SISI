@@ -8,815 +8,815 @@
 
     (*) означает, что показатель умножается на площадь сечения нейтрона, которая меняется в зависимости от типа стержня. Эти показатели указаны при условии, что площадь сечения нейтрона = 1.
     <Table Columns="8">
-      <ColorBox>
-        <Box>
-          Материал
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box>
-          Значение теплопередачи
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box>
-          Шанс взаимодействия с нейтроном*
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box>
-          Шанс стимулированного нейтронного излучения
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box>
-          Шанс стимулированного излучения
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box>
-          Шанс нейтронного распада*
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box>
-          Шанс распада*
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box>
-          Шанс отражения
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#bfc031">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Бананиум
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          4
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          37.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          11.25%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          52.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          7.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          35%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          20%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#566558">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Борум
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          5.5
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          45%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          25%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#b18b25">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Латунь
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          6.5
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          37.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          10%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#828aa4">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Черенкит
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          6
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          30%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          37.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          25%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          10%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#80ffff">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Алмаз
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          3
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          45%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          35%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#a8ccd7">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Стекло
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          3
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          15%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          15%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#ffd700">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Золото
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          7
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          45%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          10%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#7e009e">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Плазма
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          4
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          7.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          15%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          10%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          10%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#b35989">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Плазменное стекло
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          3
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          22.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          35%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#696969">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Пласталь
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          5.5
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          52.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          15%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#404888">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Плутоний
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          6.5
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          60%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          37.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          22.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          25%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          15%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          35%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#c0c0c0">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Серебро
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          6
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          30%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          10%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#808080">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Сталь
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          5.5
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          30%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          15%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#32a852">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Уран
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          3.5
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          52.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          22.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          30%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          15%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          20%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          25%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#3cab38">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Урановое стекло
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          3.25
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          33.75%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          11.25%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          15%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          7.5%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          10%
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          20%
-        </Box>
-      </ColorBox>
-    </Table>
-
-    ## Площади сечения нейтрона
-    - Топливный стержень: 1
-    - Регулирующий стержень: 0-2 (в зависимости от уровня вставки)
-    - Газовый канал: 0.5
-    - Теплообменник: 0.1
-
-    # Влияние материалов деталей турбины
-    В этих таблицах перечислены эффекты каждого материала внутри турбины.
-
-    ## Лопасти
-    <Table Columns="3">
-      <ColorBox>
-        <Box>
-          Материал
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box>
-          Прочность
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box>
-          Инертность
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#b18b25">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Латунь
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          10
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          1000
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#80ffff">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Алмаз
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          35
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          1200
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#ffd700">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Золото
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          10
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          1200
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#696969">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Пласталь
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          15
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          1400
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#808080">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Сталь
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          15
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          800
-        </Box>
-      </ColorBox>
-    </Table>
-
-    ## Статоры
-    <Table Columns="2">
-      <ColorBox>
-        <Box>
-          Материал
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box>
-          Эффективность
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#ffd700">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Золото
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          140%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#c0c0c0">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Серебро
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          120%
-        </Box>
-      </ColorBox>
-
-      <ColorBox Color="#808080">
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          Сталь
-        </Box>
-      </ColorBox>
-      <ColorBox>
-        <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
-          100%
-        </Box>
-      </ColorBox>
+        <ColorBox>
+          <Box>
+            Материал
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box>
+            Значение теплопередачи
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box>
+            Шанс взаимодействия с нейтроном*
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box>
+            Шанс стимулированного нейтронного излучения
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box>
+            Шанс стимулированного излучения
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box>
+            Шанс нейтронного распада*
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box>
+            Шанс распада*
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box>
+            Шанс отражения
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#bfc031">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Бананиум
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            4
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            37.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            11.25%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            52.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            7.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            35%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            20%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#566558">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Борум
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            5.5
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            45%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            25%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#b18b25">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Латунь
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            6.5
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            37.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            10%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#828aa4">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Черенкит
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            6
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            30%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            37.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            25%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            10%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#80ffff">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Алмаз
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            3
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            45%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            35%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#a8ccd7">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Стекло
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            3
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            15%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            15%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#ffd700">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Золото
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            7
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            45%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            10%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#7e009e">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Плазма
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            4
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            7.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            15%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            10%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            10%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#b35989">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Плазменное стекло
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            3
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            22.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            35%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#696969">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Пласталь
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            5.5
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            52.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            15%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#404888">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Плутоний
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            6.5
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            60%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            37.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            22.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            25%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            15%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            35%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#c0c0c0">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Серебро
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            6
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            30%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            10%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#808080">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Сталь
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            5.5
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            30%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            15%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#32a852">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Уран
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            3.5
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            52.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            22.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            30%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            15%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            20%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            25%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#3cab38">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Урановое стекло
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            3.25
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            33.75%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            11.25%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            15%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            7.5%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            10%
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            20%
+          </Box>
+        </ColorBox>
+      </Table>
+
+      ## Площади сечения нейтрона
+      - Топливный стержень: 1
+      - Регулирующий стержень: 0-2 (в зависимости от уровня вставки)
+      - Газовый канал: 0.5
+      - Теплообменник: 0.1
+
+      # Влияние материалов деталей турбины
+      В этих таблицах перечислены эффекты каждого материала внутри турбины.
+
+      ## Лопасти
+      <Table Columns="3">
+        <ColorBox>
+          <Box>
+            Материал
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box>
+            Прочность
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box>
+            Инертность
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#b18b25">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Латунь
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            10
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            1000
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#80ffff">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Алмаз
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            35
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            1200
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#ffd700">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Золото
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            10
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            1200
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#696969">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Пласталь
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            15
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            1400
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#808080">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Сталь
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            15
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            800
+          </Box>
+        </ColorBox>
+      </Table>
+
+      ## Статоры
+      <Table Columns="2">
+        <ColorBox>
+          <Box>
+            Материал
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box>
+            Эффективность
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#ffd700">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Золото
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            140%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#c0c0c0">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Серебро
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            120%
+          </Box>
+        </ColorBox>
+
+        <ColorBox Color="#808080">
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            Сталь
+          </Box>
+        </ColorBox>
+        <ColorBox>
+          <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="2">
+            100%
+          </Box>
+        </ColorBox>
     </Table>
 </Document>
