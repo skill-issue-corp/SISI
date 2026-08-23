@@ -20,10 +20,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   ## Персонал
 
-  Карго состоит из [color=cyan]Техников Карго[/color] и [color=cyan]Специалистов по Утилизации[/color] и возглавляется [color=cyan]Квартирмейстером[/color].
+  Карго состоит из [color=cyan]Грузчиков[/color] и [color=cyan]Специалистов по Утилизации[/color] и возглавляется [color=cyan]Квартирмейстером[/color].
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineCargoTech" Caption="Техник Карго"/>
+    <GuideEntityEmbed Entity="ToyFigurineCargoTech" Caption="Грузчик"/>
     <GuideEntityEmbed Entity="ToyFigurineSalvage" Caption="Утилизатор"/>
     <GuideEntityEmbed Entity="ToyFigurineQuartermaster" Caption="Квартирмейстер"/>
   </Box>

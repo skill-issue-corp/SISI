@@ -7,14 +7,14 @@
   <Box>
     <GuideEntityEmbed Entity="AppearanceHuman" Caption="Человек"/>
     <GuideEntityEmbed Entity="AppearanceVox" Caption="Вокс"/>
-    <GuideEntityEmbed Entity="AppearanceMoth" Caption="Мотылёк"/>
+    <GuideEntityEmbed Entity="AppearanceMoth" Caption="Моли=ь"/>
     <GuideEntityEmbed Entity="AppearanceReptilian" Caption="Рептилия"/>
   </Box>
   <Box>
     <GuideEntityEmbed Entity="AppearanceArachnid" Caption="Арахнид"/>
     <GuideEntityEmbed Entity="AppearanceDiona" Caption="Диона"/>
     <GuideEntityEmbed Entity="AppearanceDwarf" Caption="Дворф"/>
-    <GuideEntityEmbed Entity="AppearanceSlimePerson" Caption="Слайм"/>
+    <GuideEntityEmbed Entity="AppearanceSlimePerson" Caption="Слаймолюд"/>
   </Box>
   <Box>
     <GuideEntityEmbed Entity="AppearanceIPC" Caption="КПБ"/>
