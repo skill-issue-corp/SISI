@@ -18,10 +18,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 Использование медицинского анализатора зачастую эффективнее осмотра, так как некоторые вещи (например, яд или радиация) не проявляются при осмотре. Однако у использования анализатора есть свои недостатки: он издаёт шум и расходует заряд батареи.
 <Box>
-  <GuideEntityEmbed Entity="SignExamroom" Caption="examine patient"/>
-  <GuideEntityEmbed Entity="MedicalPDA"/>
-  <GuideEntityEmbed Entity="MedicalInternPDA" Caption="intern PDA"/>
-  <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
+<GuideEntityEmbed Entity="SignExamroom" Caption="examine patient"/>
+<GuideEntityEmbed Entity="MedicalPDA"/>
+<GuideEntityEmbed Entity="MedicalInternPDA" Caption="intern PDA"/>
+<GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
 </Box>
 
 ## Медикаменты и варианты лечения
@@ -40,19 +40,19 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 Многие станции оснащены наборами в хранилищах, и у всех медиков есть некоторое снаряжение в стартовом поясе.
 
 <Box>
-  <GuideEntityEmbed Entity="MedkitFilled"/>
-  <GuideEntityEmbed Entity="MedkitBruteFilled" Caption="brute kit"/>
-  <GuideEntityEmbed Entity="MedkitRadiationFilled" Caption="radiation kit"/>
-  <GuideEntityEmbed Entity="MedkitBurnFilled" Caption="burn kit"/>
-  <GuideEntityEmbed Entity="MedkitToxinFilled" Caption="toxin kit"/>
+<GuideEntityEmbed Entity="MedkitFilled"/>
+<GuideEntityEmbed Entity="MedkitBruteFilled" Caption="brute kit"/>
+<GuideEntityEmbed Entity="MedkitRadiationFilled" Caption="radiation kit"/>
+<GuideEntityEmbed Entity="MedkitBurnFilled" Caption="burn kit"/>
+<GuideEntityEmbed Entity="MedkitToxinFilled" Caption="toxin kit"/>
 </Box>
 
 <Box>
-  <GuideEntityEmbed Entity="Brutepack"/>
-  <GuideEntityEmbed Entity="Ointment"/>
-  <GuideEntityEmbed Entity="EmergencyMedipen"/>
-  <GuideEntityEmbed Entity="Bloodpack"/>
-  <GuideEntityEmbed Entity="Gauze"/>
+<GuideEntityEmbed Entity="Brutepack"/>
+<GuideEntityEmbed Entity="Ointment"/>
+<GuideEntityEmbed Entity="EmergencyMedipen"/>
+<GuideEntityEmbed Entity="Bloodpack"/>
+<GuideEntityEmbed Entity="Gauze"/>
 </Box>
 
 ## Базовое лечение и сортировка пострадавших
@@ -62,8 +62,8 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 Если возможно, пристегните их к медицинской койке; если вам нужно время на лечение, пристегните их к стазис-койке вместо этого. Просто учтите, что метаболизм (а следовательно, и лечебные химикаты) сильно замедляется в стазисе, и их придётся снять с неё, чтобы лекарство подействовало. (Но пакеты крови, мазь и пакеты от ушибов работают в стазисе как обычно.)
 <Box>
-  <GuideEntityEmbed Entity="MedicalBed"/>
-  <GuideEntityEmbed Entity="StasisBed"/>
+<GuideEntityEmbed Entity="MedicalBed"/>
+<GuideEntityEmbed Entity="StasisBed"/>
 </Box>
 ## Оценка состояния трупов
 Спасти получится не всех, иногда случается смерть. В зависимости от [color=#a4885c]состояния[/color] тела, можно предпринять несколько действий.
@@ -78,9 +78,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 Не считая удушья, дефибрилляторы можно использовать для воскрешения пациентов с общим уроном менее 200. У мёртвых химикаты не метаболизируются, но пакеты от ушибов и мазь всё равно могут залечивать раны. Используйте их, чтобы снизить показатели урона до уровня, достаточного для воскрешения.
 
 <Box>
-  <GuideEntityEmbed Entity="Brutepack"/>
-  <GuideEntityEmbed Entity="Defibrillator"/>
-  <GuideEntityEmbed Entity="Ointment"/>
+<GuideEntityEmbed Entity="Brutepack"/>
+<GuideEntityEmbed Entity="Defibrillator"/>
+<GuideEntityEmbed Entity="Ointment"/>
 </Box>
 
 </Document>

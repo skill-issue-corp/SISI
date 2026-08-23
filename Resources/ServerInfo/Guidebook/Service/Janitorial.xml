@@ -15,35 +15,35 @@ SPDX-License-Identifier: MIT
 
 ## Базовое оборудование
 <Box>
-  <GuideEntityEmbed Entity="MopItem"/>
-  <GuideEntityEmbed Entity="JanitorialTrolley"/>
-  <GuideEntityEmbed Entity="MopBucket"/>
-  <GuideEntityEmbed Entity="Bucket"/>
-  <GuideEntityEmbed Entity="TrashBag"/>
+<GuideEntityEmbed Entity="MopItem"/>
+<GuideEntityEmbed Entity="JanitorialTrolley"/>
+<GuideEntityEmbed Entity="MopBucket"/>
+<GuideEntityEmbed Entity="Bucket"/>
+<GuideEntityEmbed Entity="TrashBag"/>
 </Box>
 <Box>
-  <GuideEntityEmbed Entity="SprayBottleSpaceCleaner"/>
-  <GuideEntityEmbed Entity="BoxLightMixed"/>
-  <GuideEntityEmbed Entity="SoapNT"/>
-  <GuideEntityEmbed Entity="Mousetrap"/>
+<GuideEntityEmbed Entity="SprayBottleSpaceCleaner"/>
+<GuideEntityEmbed Entity="BoxLightMixed"/>
+<GuideEntityEmbed Entity="SoapNT"/>
+<GuideEntityEmbed Entity="Mousetrap"/>
 </Box>
 
 ## Дополнительное оборудование
 <Box>
-  <GuideEntityEmbed Entity="WetFloorSign"/>
-  <GuideEntityEmbed Entity="Holoprojector" Caption="проектор голографического знака"/>
-  <GuideEntityEmbed Entity="LightReplacer"/>
-  <GuideEntityEmbed Entity="WireBrush"/>
+<GuideEntityEmbed Entity="WetFloorSign"/>
+<GuideEntityEmbed Entity="Holoprojector" Caption="проектор голографического знака"/>
+<GuideEntityEmbed Entity="LightReplacer"/>
+<GuideEntityEmbed Entity="WireBrush"/>
 </Box>
 <Box>
-  <GuideEntityEmbed Entity="AdvMopItem" Caption="Продвинутая швабра, спросите в НиР"/>
+<GuideEntityEmbed Entity="AdvMopItem" Caption="Продвинутая швабра, спросите в НиР"/>
 </Box>
 
 ## Добыча жидкости и её утилизация
 <Box>
-  <GuideEntityEmbed Entity="WaterTankFull"/>
-  <GuideEntityEmbed Entity="Sink"/>
-  <GuideEntityEmbed Entity="FloorDrain"/>
+<GuideEntityEmbed Entity="WaterTankFull"/>
+<GuideEntityEmbed Entity="Sink"/>
+<GuideEntityEmbed Entity="FloorDrain"/>
 </Box>
 
 ## Наведение порядка

@@ -65,11 +65,11 @@
 - И, конечно же, ваше вирусологическое оборудование.
 
 <Box>
-  <GuideEntityEmbed Entity="ClothingEyesHudViro" Caption="виро ХУД"/>
-  <GuideEntityEmbed Entity="VirologistPDA"/>
-  <GuideEntityEmbed Entity="ClothingOuterBioVirology" Caption="биокостюм"/>
-  <GuideEntityEmbed Entity="Syringe"/>
-  <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
+<GuideEntityEmbed Entity="ClothingEyesHudViro" Caption="виро ХУД"/>
+<GuideEntityEmbed Entity="VirologistPDA"/>
+<GuideEntityEmbed Entity="ClothingOuterBioVirology" Caption="биокостюм"/>
+<GuideEntityEmbed Entity="Syringe"/>
+<GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
 </Box>
 
 ## Вирусологическое оборудование
@@ -84,9 +84,9 @@
 У вакцинатора есть 2 режима: режим вакцины и режим живого инъектора. В режиме вакцины, при вставке мазка, он выдаст вакцину против генотипа болезни на мазке. Вакцины дают людям, которым их применяют, постоянный иммунитет к генотипу болезни. В режиме живого инъектора вакцинатор вместо этого выдаст инъектор, заражающий того, на ком его применят, исходной болезнью.
 
 <Box>
-  <GuideEntityEmbed Entity="Vaccine" Caption="вакцина"/>
-  <GuideEntityEmbed Entity="LiveInjector" Caption="инъектор"/>
-  <GuideEntityEmbed Entity="Vaccinator" Caption="вакцинатор"/>
+<GuideEntityEmbed Entity="Vaccine" Caption="вакцина"/>
+<GuideEntityEmbed Entity="LiveInjector" Caption="инъектор"/>
+<GuideEntityEmbed Entity="Vaccinator" Caption="вакцинатор"/>
 </Box>
 
 ## Эксперименты

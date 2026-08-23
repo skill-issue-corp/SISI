@@ -14,18 +14,18 @@ SPDX-License-Identifier: MIT
 
 Примечание: клонирование доступно не всегда, и лучше на него не полагаться.
 <Box>
-  <GuideEntityEmbed Entity="ComputerCloningConsole" Caption="cloning console"/>
-  <GuideEntityEmbed Entity="MedicalScanner"/>
-  <GuideEntityEmbed Entity="CloningPod"/>
-  <GuideEntityEmbed Entity="NetworkConfigurator"/>
+<GuideEntityEmbed Entity="ComputerCloningConsole" Caption="cloning console"/>
+<GuideEntityEmbed Entity="MedicalScanner"/>
+<GuideEntityEmbed Entity="CloningPod"/>
+<GuideEntityEmbed Entity="NetworkConfigurator"/>
 </Box>
 ## Биомасса
 Для создания клона требуется биомасса, что, как бы жутко это ни звучало, подразумевает переработку органического материала. Будь то члены экипажа без души, станционные питомцы или враждебные существа, о которых «позаботились», — всё это часто можно переработать.
 
 Перетаскивание тела (курсором) на переработчик биомассы измельчит его для повторного использования. Если это член экипажа, перед этим принято раздеть тело и вернуть департаментское снаряжение.
 <Box>
-  <GuideEntityEmbed Entity="BiomassReclaimer"/>
-  <GuideEntityEmbed Entity="MaterialBiomass"/>
+<GuideEntityEmbed Entity="BiomassReclaimer"/>
+<GuideEntityEmbed Entity="MaterialBiomass"/>
 </Box>
 
 </Document>

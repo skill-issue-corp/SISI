@@ -5,31 +5,31 @@
 # Начало работы
 Начните с получения цемента, либо из техтоннелей, либо из химии, и смешайте его с водой, чтобы получить влажный цемент. Из него можно сделать влажные кирпичи, которые после высыхания можно использовать для изготовления сыродутных горнов.
 
-<Box>
-  <GuideEntityEmbed Entity="ReagentContainerCement" Caption="Мешок цемента"/>
-  <GuideEntityEmbed Entity="WetCement" Caption="Цемент"/>
-  <GuideEntityEmbed Entity="WetBrick" Caption="Влажный кирпич"/>
-  <GuideEntityEmbed Entity="Brick1" Caption="Кирпич"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="ReagentContainerCement" Caption="Мешок цемента"/>
+    <GuideEntityEmbed Entity="WetCement" Caption="Цемент"/>
+    <GuideEntityEmbed Entity="WetBrick" Caption="Влажный кирпич"/>
+    <GuideEntityEmbed Entity="Brick1" Caption="Кирпич"/>
+  </Box>
 
 # Сыродутный горн
 Сыродутные горны можно загрузить углём и металлическим ломом, чтобы получить крицу; как только они закончат обжиг, разбейте их, чтобы получить крицу.
 
-<Box>
-  <GuideEntityEmbed Entity="BloomeryCold" Caption="Сыродутный горн"/>
-  <GuideEntityEmbed Entity="BloomeryLitSteel" Caption="Активный сыродутный горн"/>
-  <GuideEntityEmbed Entity="BloomeryCompleteSteel" Caption="Готовый сыродутный горн"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="BloomeryCold" Caption="Сыродутный горн"/>
+    <GuideEntityEmbed Entity="BloomeryLitSteel" Caption="Активный сыродутный горн"/>
+    <GuideEntityEmbed Entity="BloomeryCompleteSteel" Caption="Готовый сыродутный горн"/>
+  </Box>
 
 # Ковка
 Чтобы превратить крицу в пригодный к использованию слиток, нанесите ей достаточно дробящего урона, пока она не остыла! Её можно поддерживать тёплой с помощью угольной кузни, но будьте осторожны, чтобы не перегреть её.
 
 Далее вам стоит сделать наковальню - она необходима для изготовления металлических предметов.
 
-<Box>
-  <GuideEntityEmbed Entity="SteelBloom" Caption="Крица"/>
-  <GuideEntityEmbed Entity="SteelIngot" Caption="Слиток"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="SteelBloom" Caption="Крица"/>
+    <GuideEntityEmbed Entity="SteelIngot" Caption="Слиток"/>
+  </Box>
 
 # Мягкие металлы
 

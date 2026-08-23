@@ -1,23 +1,23 @@
 <Document>
-# Виды
+  # Виды
 
-Nanotrasen нанимает представителей самых разных разумных видов.
+  Nanotrasen нанимает представителей самых разных разумных видов.
 
 <!-- Trauma - Completely rewritten -->
-<Box>
-  <GuideEntityEmbed Entity="AppearanceHuman" Caption="Человек"/>
-  <GuideEntityEmbed Entity="AppearanceVox" Caption="Вокс"/>
-  <GuideEntityEmbed Entity="AppearanceMoth" Caption="Моли=ь"/>
-  <GuideEntityEmbed Entity="AppearanceReptilian" Caption="Рептилия"/>
-</Box>
-<Box>
-  <GuideEntityEmbed Entity="AppearanceArachnid" Caption="Арахнид"/>
-  <GuideEntityEmbed Entity="AppearanceDiona" Caption="Диона"/>
-  <GuideEntityEmbed Entity="AppearanceDwarf" Caption="Дворф"/>
-  <GuideEntityEmbed Entity="AppearanceSlimePerson" Caption="Слаймолюд"/>
-</Box>
-<Box>
-  <GuideEntityEmbed Entity="AppearanceIPC" Caption="КПБ"/>
-  <GuideEntityEmbed Entity="MobDecapoid" Caption="Декаподоид"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceHuman" Caption="Человек"/>
+    <GuideEntityEmbed Entity="AppearanceVox" Caption="Вокс"/>
+    <GuideEntityEmbed Entity="AppearanceMoth" Caption="Моли=ь"/>
+    <GuideEntityEmbed Entity="AppearanceReptilian" Caption="Рептилия"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceArachnid" Caption="Арахнид"/>
+    <GuideEntityEmbed Entity="AppearanceDiona" Caption="Диона"/>
+    <GuideEntityEmbed Entity="AppearanceDwarf" Caption="Дворф"/>
+    <GuideEntityEmbed Entity="AppearanceSlimePerson" Caption="Слаймолюд"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceIPC" Caption="КПБ"/>
+    <GuideEntityEmbed Entity="MobDecapoid" Caption="Декаподоид"/>
+  </Box>
 </Document>

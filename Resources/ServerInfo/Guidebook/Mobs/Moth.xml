@@ -7,11 +7,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Моли
+  # Моли
 
-<Box>
-  <GuideEntityEmbed Entity="AppearanceMoth" Caption=""/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="AppearanceMoth" Caption=""/>
+  </Box>
 
 Они могут есть хлопок, ткани и одежду, но практически не способны есть то, что другие считают «съедобным». Они предпочитают несколько более низкий диапазон температур, чем люди.
 

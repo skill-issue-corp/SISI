@@ -13,15 +13,15 @@ SPDX-License-Identifier: MIT
 
 ## Оборудование
 <Box>
-  <GuideEntityEmbed Entity="AnomalyScanner"/>
-  <GuideEntityEmbed Entity="MachineAnomalyVessel"/>
-  <GuideEntityEmbed Entity="MachineAPE"/>
+<GuideEntityEmbed Entity="AnomalyScanner"/>
+<GuideEntityEmbed Entity="MachineAnomalyVessel"/>
+<GuideEntityEmbed Entity="MachineAPE"/>
 </Box>
 
 Сканеры, сосуды и А.Ч.П. используются для сдерживания и наблюдения за аномалиями.
 
 <Box>
-  <GuideEntityEmbed Entity="MachineAnomalyGenerator"/>
+<GuideEntityEmbed Entity="MachineAnomalyGenerator"/>
 </Box>
 
 Генератор аномалий может создать случайную аномалию где-то на станции ценой плазмы.
@@ -30,7 +30,7 @@ SPDX-License-Identifier: MIT
 Аномалии - это статичные объекты, появляющиеся на станции. Их нельзя перемещать, и с ними приходится работать там, где они находятся, независимо от их местоположения.
 
 <Box>
-  <GuideEntityEmbed Entity="AnomalyPyroclastic"/>
+<GuideEntityEmbed Entity="AnomalyPyroclastic"/>
 </Box>
 
 У каждой аномалии есть три основные характеристики, две из которых можно увидеть при сканировании аномалии:
