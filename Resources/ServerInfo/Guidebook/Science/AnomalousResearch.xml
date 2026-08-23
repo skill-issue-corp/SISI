@@ -18,7 +18,7 @@ SPDX-License-Identifier: MIT
 <GuideEntityEmbed Entity="MachineAPE"/>
 </Box>
 
-Сканеры, сосуды и А.Ч.П. используются для сдерживания и наблюдения за аномалиями.
+Сканеры, сосуды и М.А.К.А.К. используются для сдерживания и наблюдения за аномалиями.
 
 <Box>
 <GuideEntityEmbed Entity="MachineAnomalyGenerator"/>

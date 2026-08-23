@@ -7,7 +7,7 @@
   <Box>
     <GuideEntityEmbed Entity="AppearanceHuman" Caption="Человек"/>
     <GuideEntityEmbed Entity="AppearanceVox" Caption="Вокс"/>
-    <GuideEntityEmbed Entity="AppearanceMoth" Caption="Моли=ь"/>
+    <GuideEntityEmbed Entity="AppearanceMoth" Caption="Ниан"/>
     <GuideEntityEmbed Entity="AppearanceReptilian" Caption="Рептилия"/>
   </Box>
   <Box>
