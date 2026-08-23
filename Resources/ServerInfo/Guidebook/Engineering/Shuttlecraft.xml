@@ -77,20 +77,20 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Небольшой выступ снизу стыковочного порта определяет направление стыковочного порта.
 
-    <Box>
-      <GuideEntityEmbed Entity="AirlockShuttle"/>
-      <GuideEntityEmbed Entity="AirlockGlassShuttle"/>
-    </Box>
+  <Box>
+    <GuideEntityEmbed Entity="AirlockShuttle"/>
+    <GuideEntityEmbed Entity="AirlockGlassShuttle"/>
+  </Box>
 
   ## Управление направлением
   Далее, как только у вас будет нужная форма, достаньте и установите двигатели по краям.
 
-    <Box>
-      <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="0"/>
-      <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="90"/>
-      <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="180"/>
-      <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="270"/>
-    </Box>
+  <Box>
+    <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="0"/>
+    <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="90"/>
+    <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="180"/>
+    <GuideEntityEmbed Entity="Thruster" Caption="" Rotation="270"/>
+  </Box>
 
   Хорошей идеей будет установить четыре двигателя, по одному с каждой стороны платформы, чтобы обеспечить возможность движения в любом направлении.
 
@@ -115,30 +115,30 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   Для небольших шаттлов хорошим выбором станет портативный генератор типа М.Л.П.А.К.М.А.Н. Он выдаёт напряжение сразу на уровне НН, так что вам не придётся беспокоиться о трансформаторах.
   Топливо для генератора также часто можно найти в туннелях техобслуживания.
 
-    <Box HorizontalAlignment="Stretch">
-      <Box>
-        <GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="М.Л.П.А.К.М.А.Н."/>
-      </Box>
-      <Box>
-        <GuideEntityEmbed Entity="WeldingFuelTankFull"/>
-      </Box>
+  <Box HorizontalAlignment="Stretch">
+    <Box>
+      <GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="М.Л.П.А.К.М.А.Н."/>
     </Box>
+    <Box>
+      <GuideEntityEmbed Entity="WeldingFuelTankFull"/>
+    </Box>
+  </Box>
 
   Однако некоторые станции предоставляют гораздо более качественные генераторы и компактные решения, такие как ШАУ (шаттловая автономная установка) или статический генератор.
   Они выдают напряжение ВН, которое придётся понижать до СН и НН.
   К счастью, на таких станциях обычно также предоставляются настенные платы подстанций для этой цели.
 
-    <Box HorizontalAlignment="Stretch">
-      <Box>
-        <GuideEntityEmbed Entity="GeneratorWallmountAPU"/>
-      </Box>
-      <Box>
-        <GuideEntityEmbed Entity="GeneratorBasic15kW"/>
-      </Box>
-      <Box>
-        <GuideEntityEmbed Entity="SubstationWallBasic"/>
-      </Box>
+  <Box HorizontalAlignment="Stretch">
+    <Box>
+      <GuideEntityEmbed Entity="GeneratorWallmountAPU"/>
     </Box>
+    <Box>
+      <GuideEntityEmbed Entity="GeneratorBasic15kW"/>
+    </Box>
+    <Box>
+      <GuideEntityEmbed Entity="SubstationWallBasic"/>
+    </Box>
+  </Box>
 
   ## Пилотирование
   Наконец, установите компьютер шаттла там, где вам удобно, и убедитесь, что все ваши двигатели и гироскопы получают питание (не забудьте подключить сети СН и НН!).

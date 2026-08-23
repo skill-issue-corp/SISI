@@ -12,12 +12,12 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 <Document>
   # Революционеры
 
-<Box>
-  [color=#999999][italic]«Viva la revolución!!»[/italic][/color]
-</Box>
-<Box>
-  <GuideEntityEmbed Entity="PosterContrabandRevolt" Caption=""/>
-</Box>
+  <Box>
+    [color=#999999][italic]«Viva la revolución!!»[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="PosterContrabandRevolt" Caption=""/>
+  </Box>
 
   Революционеры - антагонисты-конвертеры, спонсируемые [color=#ff0000]Синдикатом[/color], перед которыми стоит задача взять станцию под контроль. У них нет никаких хитроумных уловок или дешёвых трюков - у них есть только идея и сила в количестве.
 
