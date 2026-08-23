@@ -8,21 +8,21 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 <Document>
   # Смешивание и фильтрация
   Газовые смесители и фильтры - незаменимые инструменты для изменения состава газов внутри [textlink="трубопроводной сети" link="PipeNetworks"].
-<Box>
-  <GuideEntityEmbed Entity="GasMixer"/>
-  <GuideEntityEmbed Entity="GasFilter"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="GasMixer"/>
+    <GuideEntityEmbed Entity="GasFilter"/>
+  </Box>
 
   ## Газовый смеситель
   Газовые смесители используются для объединения газов в заданных пропорциях внутри [textlink="трубопроводной сети." link="PipeNetworks"]
   Они незаменимы для создания контролируемых газовых смесей для различных целей.
 
   Газовые смесители имеют 3 соединения: 2 входа и 1 выход, как показано ниже:
-<Box>
-  <GuideEntityEmbed Entity="GasPipeStraight" Caption="Основной" Rotation="90"/>
-  <GuideEntityEmbed Entity="GasMixer" Caption="" Rotation="90"/>
-  <GuideEntityEmbed Entity="GasPipeStraight" Caption="Выход" Rotation="90"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Основной" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasMixer" Caption="" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Выход" Rotation="90"/>
+  </Box>
 <Box>
   <GuideEntityEmbed Entity="GasPipeStraight" Caption="Боковой"/>
 </Box>
@@ -45,14 +45,14 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   ## Газовый фильтр
   Газовые фильтры используются для отделения газов из смеси внутри [textlink="трубопроводной сети." link="PipeNetworks"]
 
-<Box>
-  <GuideEntityEmbed Entity="GasPipeStraight" Caption="Вход" Rotation="90"/>
-  <GuideEntityEmbed Entity="GasFilter" Caption="" Rotation="90"/>
-  <GuideEntityEmbed Entity="GasPipeStraight" Caption="Выход" Rotation="90"/>
-</Box>
-<Box>
-  <GuideEntityEmbed Entity="GasPipeStraight" Caption="Отфильтрованный выход"/>
-</Box>
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Вход" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasFilter" Caption="" Rotation="90"/>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Выход" Rotation="90"/>
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="GasPipeStraight" Caption="Отфильтрованный выход"/>
+  </Box>
 
   Газовые фильтры блокируются и перестают фильтровать газ, если заблокирован любой из выходов.
 
