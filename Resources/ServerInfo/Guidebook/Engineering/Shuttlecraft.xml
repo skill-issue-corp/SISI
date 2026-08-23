@@ -49,13 +49,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   Для этого шага вам понадобятся стальные листы, металлические прутья и напольная плитка (по желанию).
 
   <Box>
-  <GuideEntityEmbed Entity="SheetSteel" Caption=""/>
-  <GuideEntityEmbed Entity="PartRodMetal" Caption=""/>
+    <GuideEntityEmbed Entity="SheetSteel" Caption=""/>
+    <GuideEntityEmbed Entity="PartRodMetal" Caption=""/>
   </Box>
   <Box>
-  <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
-  <GuideEntityEmbed Entity="FloorTileItemDark" Caption=""/>
-  <GuideEntityEmbed Entity="FloorTileItemWhite" Caption=""/>
+    <GuideEntityEmbed Entity="FloorTileItemSteel" Caption=""/>
+    <GuideEntityEmbed Entity="FloorTileItemDark" Caption=""/>
+    <GuideEntityEmbed Entity="FloorTileItemWhite" Caption=""/>
   </Box>
 
   Отправляйтесь в космос со стальными листами и металлическими прутьями в руках и кликните по краю станции, чтобы разместить решётку.
