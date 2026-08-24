@@ -23,6 +23,7 @@ using Content.Shared.Damage.Prototypes;
 using Content.Shared.DoAfter;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Inventory;
+using Content.Shared.Item;
 using Content.Shared.Popups;
 using Content.Trauma.Common.Body.Part;
 using Robust.Shared.Containers;

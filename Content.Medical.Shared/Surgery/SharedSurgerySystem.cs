@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
+using System.Linq;
 using Content.Medical.Common.Body;
 using Content.Medical.Common.Surgery;
 using Content.Medical.Shared.Body;
@@ -16,6 +17,7 @@ using Content.Shared.GameTicking;
 using Content.Shared.Hands;
 using Content.Shared.Hands.Components;
 using Content.Shared.Hands.EntitySystems;
+using Content.Shared.Humanoid;
 using Content.Shared.Interaction;
 using Content.Shared.Inventory;
 using Content.Shared.Popups;
