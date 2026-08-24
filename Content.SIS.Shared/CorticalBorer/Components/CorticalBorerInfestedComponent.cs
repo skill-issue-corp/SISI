@@ -5,7 +5,7 @@ using Robust.Shared.GameStates;
 using Robust.Shared.Containers;
 using Robust.Shared.Prototypes;
 
-namespace Content.SIS.Shared._Mono.CorticalBorer.Components;
+namespace Content.SIS.Shared.CorticalBorer.Components;
 
 [RegisterComponent, NetworkedComponent]
 public sealed partial class CorticalBorerInfestedComponent : Component

@@ -2,8 +2,8 @@
 
 using Content.Medical.Shared.Surgery;
 using Content.Medical.Shared.Surgery.Steps;
-using Content.SIS.Shared._Mono.CorticalBorer;
-using Content.SIS.Shared._Mono.CorticalBorer.Components;
+using Content.SIS.Shared.CorticalBorer;
+using Content.SIS.Shared.CorticalBorer.Components;
 
 namespace Content.SIS.Shared.Surgery;
 

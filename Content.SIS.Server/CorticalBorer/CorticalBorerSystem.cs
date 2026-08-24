@@ -29,11 +29,11 @@ using Robust.Shared.Timing;
 using Content.Shared.Body.Components;
 using Content.Shared.Nutrition.Components;
 using Content.Shared.Chat;
-using Content.SIS.Shared._Mono.CorticalBorer;
-using Content.SIS.Shared._Mono.CorticalBorer.Components;
+using Content.SIS.Shared.CorticalBorer;
+using Content.SIS.Shared.CorticalBorer.Components;
 using Content.Trauma.Common.CollectiveMind;
 
-namespace Content.SIS.Server._Mono.CorticalBorer;
+namespace Content.SIS.Server.CorticalBorer;
 
 public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
 {

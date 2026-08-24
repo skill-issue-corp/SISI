@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Client.UserInterface.Controls;
-using Content.SIS.Shared._Mono.CorticalBorer;
+using Content.SIS.Shared.CorticalBorer;
 using JetBrains.Annotations;
 using Robust.Client.UserInterface;
 
-namespace Content.SIS.Client._Mono.CorticalBorer
+namespace Content.SIS.Client.CorticalBorer
 {
     [UsedImplicitly]
     public sealed class CorticalBorerDispenserBoundUserInterface : BoundUserInterface

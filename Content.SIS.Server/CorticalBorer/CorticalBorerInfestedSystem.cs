@@ -8,14 +8,14 @@ using Content.Shared.Mind.Components;
 using Content.Shared.Mobs;
 using Content.Shared.Polymorph;
 using Content.SIS.Server.Radio;
-using Content.SIS.Shared._Mono.CorticalBorer.Components;
+using Content.SIS.Shared.CorticalBorer.Components;
 using Robust.Server.Containers;
 using Robust.Shared.Containers;
 using Robust.Shared.Timing;
 using Robust.Shared.Network;
 using Robust.Shared.Player;
 
-namespace Content.SIS.Server._Mono.CorticalBorer;
+namespace Content.SIS.Server.CorticalBorer;
 
 public sealed partial class CorticalBorerInfestedSystem : EntitySystem
 {

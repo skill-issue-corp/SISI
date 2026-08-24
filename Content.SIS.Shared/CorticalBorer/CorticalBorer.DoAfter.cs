@@ -3,7 +3,7 @@
 using Content.Shared.DoAfter;
 using Robust.Shared.Serialization;
 
-namespace Content.SIS.Shared._Mono.CorticalBorer;
+namespace Content.SIS.Shared.CorticalBorer;
 
 [Serializable, NetSerializable]
 public sealed partial class CorticalInfestDoAfterEvent : SimpleDoAfterEvent { }

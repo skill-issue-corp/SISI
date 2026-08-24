@@ -2,7 +2,7 @@
 
 using Content.Shared.Actions;
 
-namespace Content.SIS.Shared._Mono.CorticalBorer;
+namespace Content.SIS.Shared.CorticalBorer;
 
 public sealed partial class CorticalInfestEvent : EntityTargetActionEvent { }
 public sealed partial class CorticalEjectEvent : InstantActionEvent { }

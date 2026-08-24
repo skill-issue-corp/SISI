@@ -2,7 +2,7 @@
 
 using Robust.Shared.Prototypes;
 
-namespace Content.SIS.Shared._Mono.CorticalBorer;
+namespace Content.SIS.Shared.CorticalBorer;
 
 [Prototype("borerChemical")]
 public sealed partial class CorticalBorerChemicalPrototype : IPrototype

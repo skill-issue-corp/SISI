@@ -8,10 +8,10 @@ using Content.Shared.Mobs.Components;
 using Content.Shared.Popups;
 using Content.Shared.Body.Components;
 using Content.Shared.Medical;
-using Content.SIS.Shared._Mono.CorticalBorer;
-using Content.SIS.Shared._Mono.CorticalBorer.Components;
+using Content.SIS.Shared.CorticalBorer;
+using Content.SIS.Shared.CorticalBorer.Components;
 
-namespace Content.SIS.Server._Mono.CorticalBorer;
+namespace Content.SIS.Server.CorticalBorer;
 
 public sealed partial class CorticalBorerSystem
 {
