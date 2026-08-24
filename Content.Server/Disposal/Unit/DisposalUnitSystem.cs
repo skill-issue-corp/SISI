@@ -15,14 +15,6 @@ public sealed partial class DisposalUnitSystem : SharedDisposalUnitSystem
     [Dependency] private SharedTransformSystem _xform = default!;
     [Dependency] private AtmosphereSystem _atmos = default!;
 
-    public override void Initialize()
-    {
-        base.Initialize();
-
-        SubscribeLocalEvent<DisposalUnitComponent, DestructionEventArgs>(OnDestruction);
-        SubscribeLocalEvent<DisposalUnitComponent, EntityTerminatingEvent>(OnTerminating);
-    }
-
     /// <inheritdoc/>
     protected override void IntakeAir(Entity<DisposalUnitComponent> ent, TransformComponent xform)
     {
@@ -35,15 +27,5 @@ public sealed partial class DisposalUnitSystem : SharedDisposalUnitSystem
 
             ent.Comp.Air = environment.Remove(transferMoles);
         }
-    }
-
-    private void OnDestruction(EntityUid uid, DisposalUnitComponent component, DestructionEventArgs args)
-    {
-        EjectContents((uid, component));
-    }
-
-    private void OnTerminating(Entity<DisposalUnitComponent> ent, ref EntityTerminatingEvent args)
-    {
-        EjectContents(ent);
     }
 }
