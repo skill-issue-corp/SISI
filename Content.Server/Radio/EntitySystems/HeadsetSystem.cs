@@ -7,6 +7,7 @@ using Content.Shared.Inventory.Events;
 using Content.Shared.Radio;
 using Content.Shared.Radio.Components;
 using Content.Shared.Radio.EntitySystems;
+using Content.SIS.Common.Radio;
 using Robust.Shared.Network;
 using Robust.Shared.Player;
 
@@ -126,8 +127,8 @@ public sealed partial class HeadsetSystem : SharedHeadsetSystem
             _netMan.ServerSendMessage(msg, actor.PlayerSession.Channel);
 
             // SIS-Cortical_Borer Start
-            // var ev = new RadioMessageHeardEvent(uid, msg, args.Channel); // TODO-SIS: Разгойдить
-            // RaiseLocalEvent(Transform(uid).ParentUid, ref ev); // TODO-SIS: Разгойдить
+            var ev = new RadioMessageHeardEvent(uid, msg, args.Channel);
+            RaiseLocalEvent(Transform(uid).ParentUid, ref ev);
             // SIS-Cortical_Borer End
         }
         // Einstein Engines - Language end

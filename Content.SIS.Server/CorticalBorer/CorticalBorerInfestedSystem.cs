@@ -3,11 +3,12 @@
 using Content.Medical.Common.Body;
 using Content.Medical.Shared.Body;
 using Content.Shared.Body;
+using Content.Shared.Chat;
 using Content.Shared.Examine;
 using Content.Shared.Mind.Components;
 using Content.Shared.Mobs;
 using Content.Shared.Polymorph;
-using Content.SIS.Server.Radio;
+using Content.SIS.Common.Radio;
 using Content.SIS.Shared.CorticalBorer.Components;
 using Robust.Server.Containers;
 using Robust.Shared.Containers;
@@ -100,7 +101,10 @@ public sealed partial class CorticalBorerInfestedSystem : EntitySystem
     {
         if (TryComp(infected.Comp.Borer, out ActorComponent? borerActor))
         {
-            _netMan.ServerSendMessage(args.Msg, borerActor.PlayerSession.Channel);
+            if (args.Msg is not MsgChatMessage msg)
+             return;
+
+            _netMan.ServerSendMessage(msg, borerActor.PlayerSession.Channel);
         }
     }
 
