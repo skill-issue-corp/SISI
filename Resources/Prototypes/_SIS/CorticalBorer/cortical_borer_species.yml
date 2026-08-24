@@ -18,7 +18,7 @@
   - type: GhostTakeoverAvailable
   - type: Sprite
     drawdepth: SmallMobs
-    sprite: _Mono/Mobs/Aliens/cortical_borer.rsi
+    sprite: _SIS/Mobs/Aliens/cortical_borer.rsi
     layers:
     - map: [ "enum.DamageStateVisualLayers.Base" ]
       state: cortical_borer
@@ -108,7 +108,7 @@
   description: This egg is so nice and wet and soft...
   components:
   - type: Sprite
-    sprite: _Mono/Mobs/Aliens/cortical_borer_egg.rsi
+    sprite: _SIS/Mobs/Aliens/cortical_borer_egg.rsi
     state: icon
   - type: Item
     size: Tiny
