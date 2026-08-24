@@ -1,7 +1,6 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Server.Body.Components;
-using Content.Shared._Mono.CorticalBorer;
 using Content.Shared.DoAfter;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Mobs;
@@ -9,12 +8,13 @@ using Content.Shared.Mobs.Components;
 using Content.Shared.Popups;
 using Content.Shared.Body.Components;
 using Content.Shared.Medical;
+using Content.SIS.Shared._Mono.CorticalBorer;
 
-namespace Content.Server._Mono.CorticalBorer;
+namespace Content.SIS.Server._Mono.CorticalBorer;
 
 public sealed partial class CorticalBorerSystem
 {
-    [Dependency] private readonly VomitSystem _vomit = default!;
+    [Dependency] private VomitSystem _vomit = default!;
 
     private void SubscribeAbilities()
     {

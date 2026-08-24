@@ -5,7 +5,7 @@ using Content.Trauma.Common.CollectiveMind;
 using Robust.Shared.GameStates;
 using Robust.Shared.Prototypes;
 
-namespace Content.Shared._Mono.CorticalBorer;
+namespace Content.SIS.Shared._Mono.CorticalBorer;
 
 [RegisterComponent, NetworkedComponent, AutoGenerateComponentState]
 public sealed partial class CorticalBorerComponent : Component

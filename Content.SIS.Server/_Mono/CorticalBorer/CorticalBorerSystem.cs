@@ -8,7 +8,6 @@ using Content.Server.Medical;
 using Content.Server.Medical.Components;
 using Content.Server.Atmos.EntitySystems;
 using Content.Server.Body.Systems;
-using Content.Shared._Mono.CorticalBorer;
 using Content.Shared.Administration.Logs;
 using Content.Shared.Alert;
 using Content.Shared.Chemistry.Components;
@@ -30,9 +29,10 @@ using Robust.Shared.Timing;
 using Content.Shared.Body.Components;
 using Content.Shared.Nutrition.Components;
 using Content.Shared.Chat;
+using Content.SIS.Shared._Mono.CorticalBorer;
 using Content.Trauma.Common.CollectiveMind;
 
-namespace Content.Server._Mono.CorticalBorer;
+namespace Content.SIS.Server._Mono.CorticalBorer;
 
 public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
 {
@@ -50,6 +50,9 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
     [Dependency] private GhostRoleSystem _ghost  = default!;
     [Dependency] private MetaDataSystem _metaData = default!;
     [Dependency] private CollectiveMindUpdateSystem _collective = default!;
+
+    private readonly EntProtoId _endControlHostAction = "ActionEndControlHost";
+    private readonly EntProtoId _layEggHostAction = "ActionLayEggHost";
 
     public override void Initialize()
     {
@@ -82,7 +85,7 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
     {
         base.Update(frameTime);
 
-        foreach (var comp in EntityManager.EntityQuery<CorticalBorerComponent>())
+        foreach (var comp in EntityQuery<CorticalBorerComponent>())
         {
             if (_timing.CurTime < comp.UpdateTimer)
                 continue;
@@ -93,7 +96,7 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
                 UpdateChems((comp.Owner, comp), comp.ChemicalGenerationRate);
         }
 
-        foreach (var comp in EntityManager.EntityQuery<CorticalBorerInfestedComponent>())
+        foreach (var comp in EntityQuery<CorticalBorerInfestedComponent>())
         {
             if (_timing.CurTime >= comp.ControlTimeEnd)
                 EndControl(comp.Borer);
@@ -331,12 +334,12 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
             _ghost.UnregisterGhostRole((worm, ghostRole)); // prevent players from taking the worm role once mind isn't in the worm
 
         // add the end control and vomit egg action
-        if (_actions.AddAction(host, "ActionEndControlHost") is {} actionEnd)
+        if (_actions.AddAction(host, _endControlHostAction) is {} actionEnd)
             infestedComp.RemoveAbilities.Add(actionEnd);
         if (comp.CanReproduce &&
             infestedComp.ControlTimeEnd != null) // you can't lay eggs with something you can control forever
         {
-            if (_actions.AddAction(host, "ActionLayEggHost") is {} actionLay)
+            if (_actions.AddAction(host, _layEggHostAction) is {} actionLay)
                 infestedComp.RemoveAbilities.Add(actionLay);
         }
 

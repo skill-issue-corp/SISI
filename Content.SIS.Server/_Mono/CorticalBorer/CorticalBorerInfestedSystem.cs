@@ -3,26 +3,27 @@
 using Content.Medical.Common.Body;
 using Content.Medical.Shared.Body;
 using Content.Server.Radio;
-using Content.Shared._Mono.CorticalBorer;
 using Content.Shared.Body;
 using Content.Shared.Examine;
 using Content.Shared.Mind.Components;
 using Content.Shared.Mobs;
 using Content.Shared.Polymorph;
+using Content.SIS.Server.Radio;
+using Content.SIS.Shared._Mono.CorticalBorer;
 using Robust.Server.Containers;
 using Robust.Shared.Containers;
 using Robust.Shared.Timing;
 using Robust.Shared.Network;
 using Robust.Shared.Player;
 
-namespace Content.Server._Mono.CorticalBorer;
+namespace Content.SIS.Server._Mono.CorticalBorer;
 
-public sealed class CorticalBorerInfestedSystem : EntitySystem
+public sealed partial class CorticalBorerInfestedSystem : EntitySystem
 {
-    [Dependency] private readonly ContainerSystem _container = default!;
-    [Dependency] private readonly IGameTiming _timing = default!;
-    [Dependency] private readonly CorticalBorerSystem _borer = default!;
-    [Dependency] private readonly INetManager _netMan = default!;
+    [Dependency] private ContainerSystem _container = default!;
+    [Dependency] private IGameTiming _timing = default!;
+    [Dependency] private CorticalBorerSystem _borer = default!;
+    [Dependency] private INetManager _netMan = default!;
 
     /// <inheritdoc/>
     public override void Initialize()

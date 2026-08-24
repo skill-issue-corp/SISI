@@ -126,8 +126,8 @@ public sealed partial class HeadsetSystem : SharedHeadsetSystem
             _netMan.ServerSendMessage(msg, actor.PlayerSession.Channel);
 
             // SIS-Cortical_Borer Start
-            var ev = new RadioMessageHeardEvent(uid, msg, args.Channel);
-            RaiseLocalEvent(Transform(uid).ParentUid, ref ev);
+            // var ev = new RadioMessageHeardEvent(uid, msg, args.Channel); // TODO-SIS: Разгойдить
+            // RaiseLocalEvent(Transform(uid).ParentUid, ref ev); // TODO-SIS: Разгойдить
             // SIS-Cortical_Borer End
         }
         // Einstein Engines - Language end

@@ -5,7 +5,7 @@ using Robust.Shared.GameStates;
 using Robust.Shared.Containers;
 using Robust.Shared.Prototypes;
 
-namespace Content.Shared._Mono.CorticalBorer;
+namespace Content.SIS.Shared._Mono.CorticalBorer;
 
 
 [RegisterComponent, NetworkedComponent]

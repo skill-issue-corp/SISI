@@ -1,6 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
-using Content.Shared._Mono.CorticalBorer; // mono
 using Content.Medical.Common.Body;
 using Content.Medical.Common.Surgery;
 using Content.Medical.Shared.Body;
@@ -51,7 +50,6 @@ public abstract partial class SharedSurgerySystem : EntitySystem
     [Dependency] protected StatusEffectsSystem Status = default!;
     [Dependency] private TraumaSystem _trauma = default!;
     [Dependency] private WoundSystem _wounds = default!;
-    [Dependency] private SharedCorticalBorerSystem _corticalBorer = default!; // mono
 
     private EntityQuery<BodyComponent> _bodyQuery;
     private EntityQuery<StackComponent> _stackQuery;
@@ -85,7 +83,6 @@ public abstract partial class SharedSurgerySystem : EntitySystem
         SubscribeLocalEvent<SurgeryTargetComponent, SurgeryDoAfterEvent>(OnTargetDoAfter);
         SubscribeLocalEvent<SurgeryCloseIncisionConditionComponent, SurgeryValidEvent>(OnCloseIncisionValid);
         SubscribeLocalEvent<SurgeryHasBodyConditionComponent, SurgeryValidEvent>(OnHasBodyConditionValid);
-        SubscribeLocalEvent<SurgeryCorticalBorerConditionComponent, SurgeryValidEvent>(OnCorticalBorerValid);       //Mono Cortical borer
         SubscribeLocalEvent<SurgeryPartConditionComponent, SurgeryValidEvent>(OnPartConditionValid);
         SubscribeLocalEvent<SurgeryOrganConditionComponent, SurgeryValidEvent>(OnOrganConditionValid);
         SubscribeLocalEvent<SurgeryWoundedConditionComponent, SurgeryValidEvent>(OnWoundedValid);
@@ -217,13 +214,6 @@ public abstract partial class SharedSurgerySystem : EntitySystem
                 partWoundable,
                 ent.Comp.DamageGroup,
                 healable: true) <= 0)
-            args.Cancelled = true;
-    }
-
-    private void OnCorticalBorerValid(Entity<SurgeryCorticalBorerConditionComponent> ent, ref SurgeryValidEvent args)       //Mono cortical borer
-    {
-        if (!HasComp<CorticalBorerInfestedComponent>(args.Body) ||
-            !HasComp<IncisionOpenComponent>(args.Part))
             args.Cancelled = true;
     }
 

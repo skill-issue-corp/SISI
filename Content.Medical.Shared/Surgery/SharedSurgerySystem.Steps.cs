@@ -27,7 +27,6 @@ using Content.Shared.Popups;
 using Content.Trauma.Common.Body.Part;
 using Robust.Shared.Containers;
 using System.Linq;
-using Content.Shared._Mono.CorticalBorer; // mono
 
 namespace Content.Medical.Shared.Surgery;
 
@@ -66,7 +65,6 @@ public abstract partial class SharedSurgerySystem
 
         SubSurgery<SurgeryTendWoundsEffectComponent>(OnTendWoundsStep, OnTendWoundsCheck);
         SubSurgery<SurgeryStepCavityEffectComponent>(OnCavityStep, OnCavityCheck);
-        SubSurgery<SurgeryStepRemoveCorticalBorerComponent>(OnCorticalBorerRemovalStep, OnCorticalBorerRemovalCheck); // mono
         SubSurgery<SurgeryAddPartStepComponent>(OnAddPartStep, OnAddPartCheck);
         SubSurgery<SurgeryAffixPartStepComponent>(OnAffixPartStep, OnAffixPartCheck);
         SubSurgery<SurgeryRemovePartStepComponent>(OnRemovePartStep, OnRemovePartCheck);
@@ -253,21 +251,6 @@ public abstract partial class SharedSurgerySystem
             args.Cancelled = true;
         // </Trauma>
     }
-
-    // 2 mono function
-    private void OnCorticalBorerRemovalStep(Entity<SurgeryStepRemoveCorticalBorerComponent> ent, ref SurgeryStepEvent args)
-    {
-        if (TryComp<CorticalBorerInfestedComponent>(args.Body, out var infested) &&
-            infested.InfestationContainer.ContainedEntities.Count != 0)
-            _corticalBorer.TryEjectBorer(infested.Borer);
-    }
-
-    private void OnCorticalBorerRemovalCheck(Entity<SurgeryStepRemoveCorticalBorerComponent> ent, ref SurgeryStepCompleteCheckEvent args)
-    {
-        if (HasComp<CorticalBorerInfestedComponent>(args.Body))
-            args.Cancelled = true;
-    }
-    // mono end
 
     private void OnAddPartStep(Entity<SurgeryAddPartStepComponent> ent, ref SurgeryStepEvent args)
     {

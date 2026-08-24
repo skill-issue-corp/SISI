@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
-using Content.Shared._Mono.CorticalBorer;
 using Content.Shared.Alert.Components;
+using Content.SIS.Shared._Mono.CorticalBorer;
 
-namespace Content.Client._Mono.CorticalBorer;
+namespace Content.SIS.Client._Mono.CorticalBorer;
 
 /// <inheritdoc/>
 public sealed class CorticalBorerSystem : SharedCorticalBorerSystem
