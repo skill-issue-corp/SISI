@@ -8,6 +8,7 @@ using Content.Shared.StatusEffect;
 using Content.Shared.Coordinates;
 using Content.Shared.Damage.Components;
 using Content.Shared.Damage.Systems;
+using Content.SIS.Shared._Mono.CorticalBorer.Components;
 using Robust.Shared.Containers;
 using Robust.Shared.Serialization;
 using Robust.Shared.Serialization.Manager;
@@ -16,7 +17,6 @@ namespace Content.SIS.Shared._Mono.CorticalBorer;
 
 public abstract partial class SharedCorticalBorerSystem : EntitySystem
 {
-    [Dependency] private BodySystem _bodySystem = default!;
     [Dependency] private StatusEffectsSystem _statusEffects = default!;
     [Dependency] private SharedTransformSystem _transform = default!;
     [Dependency] private ISerializationManager _serManager = default!;

@@ -5,11 +5,10 @@ using Robust.Shared.GameStates;
 using Robust.Shared.Containers;
 using Robust.Shared.Prototypes;
 
-namespace Content.SIS.Shared._Mono.CorticalBorer;
-
+namespace Content.SIS.Shared._Mono.CorticalBorer.Components;
 
 [RegisterComponent, NetworkedComponent]
-public sealed partial class CorticalBorerInfestedComponent : Robust.Shared.GameObjects.Component
+public sealed partial class CorticalBorerInfestedComponent : Component
 {
     /// <summary>
     /// Borer in the person
@@ -63,4 +62,4 @@ public sealed partial class CorticalBorerInfestedComponent : Robust.Shared.GameO
 }
 
 [RegisterComponent, NetworkedComponent]
-public sealed partial class SurgeryCorticalBorerConditionComponent : Robust.Shared.GameObjects.Component;
+public sealed partial class SurgeryCorticalBorerConditionComponent : Component;

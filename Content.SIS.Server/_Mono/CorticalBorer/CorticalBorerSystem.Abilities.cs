@@ -9,6 +9,7 @@ using Content.Shared.Popups;
 using Content.Shared.Body.Components;
 using Content.Shared.Medical;
 using Content.SIS.Shared._Mono.CorticalBorer;
+using Content.SIS.Shared._Mono.CorticalBorer.Components;
 
 namespace Content.SIS.Server._Mono.CorticalBorer;
 

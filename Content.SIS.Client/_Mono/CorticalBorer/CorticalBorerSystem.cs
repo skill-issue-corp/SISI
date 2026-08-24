@@ -2,6 +2,7 @@
 
 using Content.Shared.Alert.Components;
 using Content.SIS.Shared._Mono.CorticalBorer;
+using Content.SIS.Shared._Mono.CorticalBorer.Components;
 
 namespace Content.SIS.Client._Mono.CorticalBorer;
 

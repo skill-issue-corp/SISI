@@ -2,14 +2,13 @@
 
 using Content.Medical.Common.Body;
 using Content.Medical.Shared.Body;
-using Content.Server.Radio;
 using Content.Shared.Body;
 using Content.Shared.Examine;
 using Content.Shared.Mind.Components;
 using Content.Shared.Mobs;
 using Content.Shared.Polymorph;
 using Content.SIS.Server.Radio;
-using Content.SIS.Shared._Mono.CorticalBorer;
+using Content.SIS.Shared._Mono.CorticalBorer.Components;
 using Robust.Server.Containers;
 using Robust.Shared.Containers;
 using Robust.Shared.Timing;

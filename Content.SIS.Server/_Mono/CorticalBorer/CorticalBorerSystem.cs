@@ -30,6 +30,7 @@ using Content.Shared.Body.Components;
 using Content.Shared.Nutrition.Components;
 using Content.Shared.Chat;
 using Content.SIS.Shared._Mono.CorticalBorer;
+using Content.SIS.Shared._Mono.CorticalBorer.Components;
 using Content.Trauma.Common.CollectiveMind;
 
 namespace Content.SIS.Server._Mono.CorticalBorer;
