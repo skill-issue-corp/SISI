@@ -24,6 +24,7 @@ public sealed partial class CollectiveMindUpdateSystem : EntitySystem
         }
     }
 
+    // SIS-Cortical_Borer Start
     public bool HasCollectiveMind(Entity<CollectiveMindComponent?> ent, ProtoId<CollectiveMindPrototype> channel) {
         if (!Resolve(ent, ref ent.Comp, false))
             return false;
@@ -54,4 +55,5 @@ public sealed partial class CollectiveMindUpdateSystem : EntitySystem
         Dirty(ent);
         return res;
     }
+    // SIS-Cortical_Borer End
 }
