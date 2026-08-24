@@ -9,6 +9,7 @@ using Content.Shared.Explosion;
 
 namespace Content.Server.Disposal.Unit;
 
+/// <inheritdoc/>
 public sealed partial class DisposalUnitSystem : SharedDisposalUnitSystem
 {
     [Dependency] private SharedTransformSystem _xform = default!;

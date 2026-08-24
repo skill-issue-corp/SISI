@@ -1,4 +1,3 @@
-
 ## Infest Messages
 cortical-borer-has-host = У вас уже есть носитель.
 cortical-borer-host-already-infested = {$target} уже заражён.
