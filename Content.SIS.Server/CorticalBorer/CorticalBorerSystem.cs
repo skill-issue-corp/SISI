@@ -29,6 +29,7 @@ using Robust.Shared.Timing;
 using Content.Shared.Body.Components;
 using Content.Shared.Nutrition.Components;
 using Content.Shared.Chat;
+using Content.SIS.Common.Chat;
 using Content.SIS.Shared.CorticalBorer;
 using Content.SIS.Shared.CorticalBorer.Components;
 using Content.Trauma.Common.CollectiveMind;

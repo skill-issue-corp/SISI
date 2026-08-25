@@ -55,14 +55,6 @@ public sealed class CheckIgnoreSpeechBlockerEvent : EntityEventArgs
     }
 }
 
-// SIS-Cortical_Borer Start
-public sealed class CheckTargetedSpeechEvent : EntityEventArgs    //Mono
-{
-    public List<InGameICChatType> ChatTypeIgnore = new();
-    public List<EntityUid> Targets = new();
-}
-// SIS-Cortical_Borer End
-
 /// <summary>
 /// Raised on an entity when it speaks, either through 'say' or 'whisper'.
 /// </summary>
