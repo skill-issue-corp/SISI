@@ -93,7 +93,6 @@
         effectProto: StatusEffectCorticalBorerProtection
         type: Add
         time: 4.5
-        refresh: false
       # SIS-End
   plantMetabolism:
   - !type:PlantAdjustNutrition
