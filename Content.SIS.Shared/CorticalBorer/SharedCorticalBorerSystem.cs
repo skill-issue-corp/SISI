@@ -3,12 +3,13 @@
 using Content.Shared.Actions;
 using Content.Shared.MedicalScanner;
 using Content.Shared.Popups;
-using Content.Shared.StatusEffect;
+using Content.Shared.StatusEffectNew;
 using Content.Shared.Coordinates;
 using Content.Shared.Damage.Components;
 using Content.Shared.Damage.Systems;
 using Content.SIS.Shared.CorticalBorer.Components;
 using Robust.Shared.Containers;
+using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization.Manager;
 
 namespace Content.SIS.Shared.CorticalBorer;
@@ -26,13 +27,11 @@ public abstract partial class SharedCorticalBorerSystem : EntitySystem
 
     public bool CanUseAbility(Entity<CorticalBorerComponent> ent, EntityUid target)
     {
-        if (_statusEffects.HasStatusEffect(target, ent.Comp.CorticalBorerProtection))
-        {
-            _popup.PopupEntity(Loc.GetString("cortical-borer-sugar-block"), ent.Owner, ent.Owner, PopupType.Medium);
-            return false;
-        }
+        if (!_statusEffects.HasStatusEffect(target, ent.Comp.CorticalBorerProtection))
+            return true;
 
-        return true;
+        _popup.PopupEntity(Loc.GetString("cortical-borer-sugar-block"), ent.Owner, ent.Owner, PopupType.Medium);
+        return false;
     }
 
     public void InfestTarget(Entity<CorticalBorerComponent> ent, EntityUid target)

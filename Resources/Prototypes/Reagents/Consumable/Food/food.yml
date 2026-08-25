@@ -89,10 +89,10 @@
           min: 0.1
         factor: 1
       # SIS-Start
-      - !type:GenericStatusEffect # Mono change
-        key: CorticalBorerProtectionStatusEffect
+      - !type:ModifyStatusEffect
+        effectProto: StatusEffectCorticalBorerProtection
         type: Add
-        time: 3 # May be too much, needs testing
+        time: 4.5
         refresh: false
       # SIS-End
   plantMetabolism:
