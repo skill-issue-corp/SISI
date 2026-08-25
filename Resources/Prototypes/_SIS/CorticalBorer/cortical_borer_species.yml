@@ -6,6 +6,7 @@
   id: MobCorticalBorer
   description: A worm that burrows into brains and lays its eggs
   components:
+  - type: VentCrawler
   - type: GhostRole
     makeSentient: true
     allowSpeech: False
