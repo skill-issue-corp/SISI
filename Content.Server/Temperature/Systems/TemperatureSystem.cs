@@ -93,8 +93,7 @@ public sealed partial class TemperatureSystem : SharedTemperatureSystem
             return;
 
         // SIS-Cortical_Borer Start
-        // _Mono: No need if there's no heat to check
-        if (heatAmount == 0)
+        if (heatAmount == 0) // No need if there's no heat to check
             return;
         // SIS-Cortical_Borer End
 
