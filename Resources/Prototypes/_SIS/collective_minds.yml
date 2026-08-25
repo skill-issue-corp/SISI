@@ -1,5 +1,5 @@
 - type: collectiveMind
   id: CorticalBorer
   name: chat-radio-cortical-borer
-  keycode: 'C'
+  keycode: 'К'
   color: "#FFA000"
