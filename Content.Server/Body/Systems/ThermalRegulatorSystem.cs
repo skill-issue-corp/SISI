@@ -53,18 +53,6 @@ public sealed partial class ThermalRegulatorSystem : EntitySystem
             return;
 
         // TODO: Why do we have two datafields for this if they are only ever used once here?
-        // mono begin
-        // Check to see if we're disabling thermal temporarily
-        if (ent.Comp1.DisableProcessing)
-            return;
-
-        if (ent.Comp1.ProcessWhileDead == false && TryComp<MobStateComponent>(ent, out var mobComp1) && mobComp1.CurrentState == MobState.Dead)
-            return;
-
-        if (ent.Comp1.ProcessWhileCrit == false && TryComp<MobStateComponent>(ent, out var mobComp2) && mobComp2.CurrentState == MobState.Critical)
-            return;
-        // mono end
-
         var totalMetabolismTempChange = ent.Comp1.MetabolismHeat - ent.Comp1.RadiatedHeat;
 
         // implicit heat regulation
