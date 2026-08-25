@@ -6,7 +6,6 @@ using Content.Server.Ghost.Roles;
 using Content.Server.Ghost.Roles.Components;
 using Content.Server.Medical;
 using Content.Server.Medical.Components;
-using Content.Server.Atmos.EntitySystems;
 using Content.Server.Body.Systems;
 using Content.Shared.Administration.Logs;
 using Content.Shared.Alert;
@@ -69,7 +68,6 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
 
         SubscribeLocalEvent<CorticalBorerComponent, MindRemovedMessage>(OnMindRemoved);
         SubscribeLocalEvent<CorticalBorerComponent, ModifyChangedTemperatureEvent>(OnTemperatureChange);
-        SubscribeLocalEvent<CorticalBorerComponent, TryIgniteEvent>(OnIgniteAttempt);
     }
 
     private void OnStartup(Entity<CorticalBorerComponent> ent, ref ComponentStartup args)
@@ -433,11 +431,5 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
 
         // Misnamed variable, TemperatureDelta is actually the Heat of the component (thus TempChange = TemperatureDelta/HeatCapacity).
         args.TemperatureDelta = 0;
-    }
-
-    private void OnIgniteAttempt(Entity<CorticalBorerComponent> ent, ref TryIgniteEvent args)
-    {
-        // Abort ignites while inside a host. Makes no sense to burn inside their contained brain.
-        args.Cancelled = ent.Comp.Host.HasValue;
     }
 }
