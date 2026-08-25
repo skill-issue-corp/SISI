@@ -2,7 +2,6 @@
   parent: BaseStationEventShortDelay
   id: RedPsiMonkeySpawn
   components:
-  - type: GhostroleAlert
   - type: StationEvent
     startAnnouncement: station-event-vent-creatures-start-announcement
     startAudio:
@@ -20,7 +19,6 @@
   parent: BaseStationEventShortDelay
   id: BluePsiMonkeySpawn
   components:
-  - type: GhostroleAlert
   - type: StationEvent
     startAnnouncement: station-event-vent-creatures-start-announcement
     startAudio:
@@ -59,3 +57,18 @@
   - type: AntagObjectives
     objectives:
     - EscapeWerewolfShuttleObjective
+
+- type: entity
+  parent: BaseStationEventShortDelay
+  id: CorticalBorerSpawn
+  components:
+  - type: StationEvent
+    weight: 5
+    earliestStart: 15
+    minimumPlayers: 15
+    duration: 50
+  - type: CorticalBorerRule
+  - type: VentHordeRule
+    table:
+      id: SpawnPointGhostCorticalBorer
+      amount: 2, 3
