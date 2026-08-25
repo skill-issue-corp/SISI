@@ -254,8 +254,7 @@ public sealed partial class ChatSystem : SharedChatSystem
         if (language.SpeechOverride.ChatTypeOverride is { } chatTypeOverride)
             desiredType = chatTypeOverride;
 
-        // Mono Change: Is this being sent direct
-
+        // SIS-Cortical_Borer Start
         var targetEv = new CheckTargetedSpeechEvent();
         RaiseLocalEvent(source, targetEv);
 
@@ -264,6 +263,7 @@ public sealed partial class ChatSystem : SharedChatSystem
             SendEntityDirect(source, message, range, language, nameOverride, targetEv.Targets);
             return;
         }
+        // SIS-Cortical_Borer End
 
         // This message may have a radio prefix, and should then be whispered to the resolved radio channel
         if (checkRadioPrefix)

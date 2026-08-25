@@ -32,7 +32,7 @@
       components:
       - Body
     canTargetSelf: false
-    event: !type:CorticalInfestEvent {}
+    event: !type:CorticalInfestEvent
 
 - type: entity
   id: ActionCorticalBorerEject
@@ -47,7 +47,6 @@
   - type: InstantAction
     event: !type:CorticalEjectEvent
 
-
 - type: entity
   id: ActionCheckBlood
   name: Check Blood
@@ -60,7 +59,6 @@
       state: borer_bloodcheck
   - type: InstantAction
     event: !type:CorticalCheckBloodEvent
-
 
 - type: entity
   id: ActionControlHost

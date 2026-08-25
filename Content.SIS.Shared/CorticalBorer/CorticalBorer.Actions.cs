@@ -27,7 +27,6 @@ public enum CorticalBorerDispenserUiKey
     Key
 }
 
-
 [Serializable, NetSerializable]
 public sealed class CorticalBorerDispenserSetInjectAmountMessage : BoundUserInterfaceMessage
 {

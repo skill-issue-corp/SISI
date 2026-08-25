@@ -8,8 +8,7 @@ using Robust.Client.UserInterface;
 namespace Content.SIS.Client.CorticalBorer;
 
 [UsedImplicitly]
-public sealed class CorticalBorerDispenserBoundUserInterface(EntityUid owner, Enum uiKey)
-    : BoundUserInterface(owner, uiKey)
+public sealed class CorticalBorerDispenserBoundUserInterface(EntityUid owner, Enum uiKey) : BoundUserInterface(owner, uiKey)
 {
     private CorticalBorerDispenserWindow? _window;
 
