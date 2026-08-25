@@ -38,10 +38,15 @@ public sealed partial class ChatSystem
         }
         name = FormattedMessage.EscapeText(name);
 
-        var languageObfuscatedMessage = SanitizeInGameICMessage(source, _language.ObfuscateSpeech(message, language, source), out var emoteStr, true, _configurationManager.GetCVar(CCVars.ChatPunctuation),
+        var languageObfuscatedMessage = SanitizeInGameICMessage(
+            source,
+            _language.ObfuscateSpeech(message, language, source),
+            out var emoteStr,
+            true,
+            _configurationManager.GetCVar(CCVars.ChatPunctuation),
             (!CultureInfo.CurrentCulture.IsNeutralCulture && CultureInfo.CurrentCulture.Parent.Name == "en")
-            || (CultureInfo.CurrentCulture.IsNeutralCulture && CultureInfo.CurrentCulture.Name == "en")); // Einstein Engines - Language
-
+            || (CultureInfo.CurrentCulture.IsNeutralCulture && CultureInfo.CurrentCulture.Name == "en")
+        ); // Einstein Engines - Language
 
         foreach (var (session, data) in GetRecipients(source, WhisperMuffledRange))
         {
@@ -62,22 +67,46 @@ public sealed partial class ChatSystem
             _chatManager.ChatMessageToOne(ChatChannel.CollectiveMind, message, wrappedMessage, source, false, session.Channel);
         }
 
-        if (!hideLog)
-            if (originalMessage == message)
+        if (hideLog)
+            return;
+
+        if (originalMessage == message)
+        {
+            if (name != Name(source))
             {
-                if (name != Name(source))
-                    _adminLogger.Add(LogType.Chat, LogImpact.Low, $"Direct messaged from {ToPrettyString(source):user} as {name}: {originalMessage}.");
-                else
-                    _adminLogger.Add(LogType.Chat, LogImpact.Low, $"Direct messaged from {ToPrettyString(source):user}: {originalMessage}.");
+                _adminLogger.Add(
+                    LogType.Chat,
+                    LogImpact.Low,
+                    $"Direct messaged from {ToPrettyString(source):user} as {name}: {originalMessage}."
+                );
             }
             else
             {
-                if (name != Name(source))
-                    _adminLogger.Add(LogType.Chat, LogImpact.Low,
-                        $"Direct messaged from {ToPrettyString(source):user} as {name}, original: {originalMessage}, transformed: {message}.");
-                else
-                    _adminLogger.Add(LogType.Chat, LogImpact.Low,
-                        $"Direct messaged from {ToPrettyString(source):user}, original: {originalMessage}, transformed: {message}.");
+                _adminLogger.Add(
+                    LogType.Chat,
+                    LogImpact.Low,
+                    $"Direct messaged from {ToPrettyString(source):user}: {originalMessage}."
+                );
             }
+        }
+        else
+        {
+            if (name != Name(source))
+            {
+                _adminLogger.Add(
+                    LogType.Chat,
+                    LogImpact.Low,
+                    $"Direct messaged from {ToPrettyString(source):user} as {name}, original: {originalMessage}, transformed: {message}."
+                );
+            }
+            else
+            {
+                _adminLogger.Add(
+                    LogType.Chat,
+                    LogImpact.Low,
+                    $"Direct messaged from {ToPrettyString(source):user}, original: {originalMessage}, transformed: {message}."
+                );
+            }
+        }
     }
 }
