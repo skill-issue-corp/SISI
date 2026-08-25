@@ -49,7 +49,6 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
     [Dependency] private IChatManager _chat = default!;
     [Dependency] private AlertsSystem _alerts = default!;
     [Dependency] private GhostRoleSystem _ghost  = default!;
-    [Dependency] private MetaDataSystem _metaData = default!;
     [Dependency] private CollectiveMindUpdateSystem _collective = default!;
 
     private readonly EntProtoId _endControlHostAction = "ActionEndControlHost";

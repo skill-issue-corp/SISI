@@ -6,10 +6,8 @@ using Content.SIS.Shared.CorticalBorer.Components;
 
 namespace Content.SIS.Client.CorticalBorer;
 
-/// <inheritdoc/>
 public sealed class CorticalBorerSystem : SharedCorticalBorerSystem
 {
-    /// <inheritdoc/>
     public override void Initialize()
     {
         base.Initialize();

@@ -25,7 +25,6 @@ public sealed partial class CorticalBorerInfestedSystem : EntitySystem
     [Dependency] private CorticalBorerSystem _borer = default!;
     [Dependency] private INetManager _netMan = default!;
 
-    /// <inheritdoc/>
     public override void Initialize()
     {
         SubscribeLocalEvent<CorticalBorerInfestedComponent, MapInitEvent>(OnInit);

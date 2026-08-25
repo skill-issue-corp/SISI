@@ -10,7 +10,6 @@ namespace Content.SIS.Client.CorticalBorer;
 [GenerateTypedNameReferences]
 public sealed partial class CorticalBorerDispenserWindow : FancyWindow
 {
-
     public event Action<string>? OnDispenseReagentButtonPressed;
 
     public CorticalBorerDispenserWindow()
@@ -43,7 +42,4 @@ public sealed partial class CorticalBorerDispenserWindow : FancyWindow
             ReagentList.Children.Add(card);
         }
     }
-
-
 }
-

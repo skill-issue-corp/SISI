@@ -1,11 +1,7 @@
 // SPDX-License-Identifier: MPL-2.0
 
-using Content.Server.Atmos.EntitySystems;
-using Content.Shared.Atmos;
 using Content.Shared.Destructible;
 using Content.Shared.Disposal.Components;
-using Content.Shared.Disposal.Unit;
-using Content.Shared.Explosion;
 
 namespace Content.Server.Disposal.Unit;
 

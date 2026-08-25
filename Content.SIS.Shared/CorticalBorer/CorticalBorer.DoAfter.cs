@@ -6,4 +6,4 @@ using Robust.Shared.Serialization;
 namespace Content.SIS.Shared.CorticalBorer;
 
 [Serializable, NetSerializable]
-public sealed partial class CorticalInfestDoAfterEvent : SimpleDoAfterEvent { }
+public sealed partial class CorticalInfestDoAfterEvent : SimpleDoAfterEvent;

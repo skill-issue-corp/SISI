@@ -91,10 +91,12 @@ public sealed partial class TemperatureSystem : SharedTemperatureSystem
     {
         if (!TemperatureQuery.Resolve(uid, ref temperature, false))
             return;
-        
+
+        // SIS-Cortical_Borer Start
         // _Mono: No need if there's no heat to check
         if (heatAmount == 0)
             return;
+        // SIS-Cortical_Borer End
 
         if (!ignoreHeatResistance)
         {

@@ -92,6 +92,9 @@ public sealed partial class CorticalBorerComponent : Component
     public ComponentRegistry? RemoveOnInfest;
 
     [DataField]
+    public EntProtoId CorticalBorerProtection = "CorticalBorerProtectionStatusEffect";
+
+    [DataField]
     public ProtoId<AlertPrototype> ChemicalAlert = "Chemicals";
 
     [DataField]
@@ -106,5 +109,3 @@ public sealed partial class CorticalBorerComponent : Component
         "ActionControlHost",
     };
 }
-
-

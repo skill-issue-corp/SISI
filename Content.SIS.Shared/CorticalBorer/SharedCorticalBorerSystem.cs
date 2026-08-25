@@ -1,7 +1,6 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using Content.Shared.Actions;
-using Content.Shared.Body;
 using Content.Shared.MedicalScanner;
 using Content.Shared.Popups;
 using Content.Shared.StatusEffect;
@@ -10,7 +9,6 @@ using Content.Shared.Damage.Components;
 using Content.Shared.Damage.Systems;
 using Content.SIS.Shared.CorticalBorer.Components;
 using Robust.Shared.Containers;
-using Robust.Shared.Serialization;
 using Robust.Shared.Serialization.Manager;
 
 namespace Content.SIS.Shared.CorticalBorer;
@@ -28,8 +26,7 @@ public abstract partial class SharedCorticalBorerSystem : EntitySystem
 
     public bool CanUseAbility(Entity<CorticalBorerComponent> ent, EntityUid target)
     {
-        if (_statusEffects.HasStatusEffect(target,
-                    "CorticalBorerProtection")) // hardcoded the status effect because...
+        if (_statusEffects.HasStatusEffect(target, ent.Comp.CorticalBorerProtection))
         {
             _popup.PopupEntity(Loc.GetString("cortical-borer-sugar-block"), ent.Owner, ent.Owner, PopupType.Medium);
             return false;
@@ -133,65 +130,4 @@ public abstract partial class SharedCorticalBorerSystem : EntitySystem
         var coordinates = _transform.ToMapCoordinates(host.ToCoordinates());
         Spawn(egg, coordinates);
     }
-}
-
-public sealed class InfestHostAttempt : CancellableEntityEventArgs
-{
-    /// <summary>
-    ///     The equipment that is blocking the entrance
-    /// </summary>
-    public EntityUid? Blocker = null;
-}
-
-[Serializable, NetSerializable]
-public enum CorticalBorerDispenserUiKey
-{
-    Key
-}
-
-
-[Serializable, NetSerializable]
-public sealed class CorticalBorerDispenserSetInjectAmountMessage : BoundUserInterfaceMessage
-{
-    public readonly int CorticalBorerDispenserDispenseAmount;
-
-    public CorticalBorerDispenserSetInjectAmountMessage(int amount)
-    {
-        CorticalBorerDispenserDispenseAmount = amount;
-    }
-}
-
-[Serializable, NetSerializable]
-public sealed class CorticalBorerDispenserInjectMessage : BoundUserInterfaceMessage
-{
-    public readonly string ChemProtoId;
-
-    public CorticalBorerDispenserInjectMessage(string proto)
-    {
-        ChemProtoId = proto;
-    }
-}
-
-[Serializable, NetSerializable]
-public sealed class CorticalBorerDispenserBoundUserInterfaceState : BoundUserInterfaceState
-{
-    public readonly List<CorticalBorerDispenserItem> DisList;
-
-    public readonly int SelectedDispenseAmount;
-    public CorticalBorerDispenserBoundUserInterfaceState(List<CorticalBorerDispenserItem> disList, int dispenseAmount)
-    {
-        DisList = disList;
-        SelectedDispenseAmount = dispenseAmount;
-    }
-}
-
-[Serializable, NetSerializable]
-public sealed class CorticalBorerDispenserItem(string reagentName, string reagentId, int cost, int amount, int chems, Color reagentColor)
-{
-    public string ReagentName = reagentName;
-    public string ReagentId = reagentId;
-    public int Cost = cost;
-    public int Amount = amount;
-    public int Chems = chems;
-    public Color ReagentColor = reagentColor;
 }

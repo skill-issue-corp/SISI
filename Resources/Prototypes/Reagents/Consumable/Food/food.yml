@@ -90,7 +90,7 @@
         factor: 1
       # SIS-Start
       - !type:GenericStatusEffect # Mono change
-        key: CorticalBorerProtection
+        key: CorticalBorerProtectionStatusEffect
         type: Add
         time: 3 # May be too much, needs testing
         refresh: false
