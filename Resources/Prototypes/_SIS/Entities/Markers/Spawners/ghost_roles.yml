@@ -21,7 +21,7 @@
     description: cortical-borer-ghostrole-desc
     rules: cortical-borer-ghostrole-rules
     mindRoles:
-    - MindRoleGhostRoleTeamAntagonist
+    - MindRoleGhostRoleFreeAgent
   - type: GhostRoleMobSpawner
     prototype: MobCorticalBorer
   - type: Sprite
