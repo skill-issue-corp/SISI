@@ -3,8 +3,6 @@ using Content.Server.Temperature.Systems;
 using Content.Shared.ActionBlocker;
 using Content.Shared.Temperature.Components;
 using Robust.Shared.Timing;
-using Content.Shared.Mobs.Components;
-using Content.Shared.Mobs;
 namespace Content.Server.Body.Systems;
 
 public sealed partial class ThermalRegulatorSystem : EntitySystem
