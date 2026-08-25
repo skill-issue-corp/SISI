@@ -76,7 +76,6 @@
     activateSound: null
     deactivateSound: null
   - type: CorticalBorer
-    eggProto: "CorticalBorerEgg"
     addOnInfest:
     - type: PressureImmunity
     removeOnInfest:
