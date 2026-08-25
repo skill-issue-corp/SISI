@@ -3,7 +3,6 @@ cortical-borer-has-host = У вас уже есть носитель.
 cortical-borer-host-already-infested = {$target} уже заражён.
 cortical-borer-invalid-host = {$target} не подходит в качестве носителя.
 cortical-borer-face-covered = Лицо {$target} закрыто.
-cortical-borer-headless = У {$target} нет головы!
 cortical-borer-start-infest = Вы начинаете вгрызаться в {$target}.
 
 ## Generic messages
@@ -15,7 +14,6 @@ cortical-borer-sugar-block = Вы чувствуете что-то сладко�
 
 ## Control messages
 cortical-borer-already-control = Вы уже контролируете своего носителя.
-cortical-borer-vomit = {$name} изрыгает {$egg}!
 
 ## UI
 cortical-borer-dispenser-window-cost = {$cost} химикатов
