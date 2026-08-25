@@ -14,11 +14,11 @@ public abstract class ScaleMothSystem : EntitySystem
 
     }
 
-    public void MothEaten(Entity<ScaleMothComponent> entity, ref EdibleEvent args)
+    public void MothEaten(EntityUid uid, ScaleMothComponent comp, ref EdibleEvent args)
     {
         if (!args.Cancelled)
         {
-            RaiseNetworkEvent(new ScaleMothEvent(GetNetEntity(entity.Owner), true));
+            RaiseNetworkEvent(new ScaleMothEvent(GetNetEntity (uid), true));
         }
     }
 }
