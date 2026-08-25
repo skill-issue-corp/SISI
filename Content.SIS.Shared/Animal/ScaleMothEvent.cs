@@ -2,7 +2,6 @@
 
 namespace Content.SIS.Shared.Animal;
 
-
 [Serializable, NetSerializable, Virtual]
 public class ScaleMothEvent : EntityEventArgs
 {

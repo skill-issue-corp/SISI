@@ -20,9 +20,6 @@ public sealed partial class ScaleMoth : ScaleMothSystem
         if (!TryComp<ScaleMothComponent>(uid, out var comp))
             return;
         var sprite = Comp<SpriteComponent>(uid);
-
-        if (!comp.EatIt)
-            return;
         _sprite.SetScale(uid, sprite.Scale * comp.Scaler);
     }
 }
