@@ -92,11 +92,6 @@ public sealed partial class TemperatureSystem : SharedTemperatureSystem
         if (!TemperatureQuery.Resolve(uid, ref temperature, false))
             return;
 
-        // SIS-Cortical_Borer Start
-        if (heatAmount == 0) // No need if there's no heat to check
-            return;
-        // SIS-Cortical_Borer End
-
         if (!ignoreHeatResistance)
         {
             var ev = new ModifyChangedTemperatureEvent(heatAmount, uid); // Goobstation
