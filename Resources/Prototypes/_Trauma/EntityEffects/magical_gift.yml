@@ -17,7 +17,7 @@
       MagicalLiteracyKnowledge: 90 # need to already have a point in it to become master
   - !type:ChatMessage
     channel: Server
-    message: "Something deep inside your spirit has just awoken... You have an epiphany with magic!"
+    message: "Что-то глубоко в вашей душе только что пробудилось... Вас озаряет прозрение о магии!" # RU-Localization
     color: "#8d12a6"
 
 # All crew have a random chance of being magically gifted, regardless of role
