@@ -153,7 +153,7 @@ public sealed partial class OrganChipSystem : EntitySystem
         {
             args.Verbs.Add(new()
             {
-                Text = $"No {name} chips installed!",
+                Text = $"Не установлено ни одного чипа {name}!", // SIS-TODO: Анхаркод локали
                 Category = ChipsCategory,
                 Disabled = true
             });
@@ -172,7 +172,7 @@ public sealed partial class OrganChipSystem : EntitySystem
             var canRemove = true; // TODO: make it support self unremovable chips
             args.Verbs.Add(new()
             {
-                Text = known ? $"Remove {Name(chip)}" : $"Remove {name} chip {i++}",
+                Text = known ? $"Удалить {Name(chip)}" : $"Удалить чип {name} {i++}", // SIS-TODO: Анхаркод локали
                 Category = ChipsCategory,
                 Disabled = !canRemove,
                 Act = () => StartRemovingChip(ent, chipCopy, user)
@@ -196,7 +196,7 @@ public sealed partial class OrganChipSystem : EntitySystem
         var user = args.User;
         if (!comp.Parents.Contains(category))
         {
-            _popup.PopupEntity($"{Name(chip)} can't be installed in a {OrganName(ent)}!", ent, user);
+            _popup.PopupEntity($"{Name(chip)} нельзя установить в {OrganName(ent)}!", ent, user); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -225,7 +225,7 @@ public sealed partial class OrganChipSystem : EntitySystem
             return;
 
         var user = args.User;
-        _popup.PopupEntity($"You inserted a chip into the {OrganName(ent)}.", user, user);
+        _popup.PopupEntity($"Вы вставили чип в {OrganName(ent)}.", user, user); // SIS-TODO: Анхаркод локали
     }
 
     private void OnRemoveDoAfter(Entity<OrganChipContainerComponent> ent, ref OrganChipRemoveDoAfterEvent args)
@@ -237,7 +237,7 @@ public sealed partial class OrganChipSystem : EntitySystem
             return;
 
         var user = args.User;
-        _popup.PopupEntity($"You pulled a chip out of the {OrganName(ent)}.", user, user);
+        _popup.PopupEntity($"Вы вытащили чип из {OrganName(ent)}.", user, user); // SIS-TODO: Анхаркод локали
         _hands.TryPickupAnyHand(user, chip);
     }
 
@@ -249,24 +249,24 @@ public sealed partial class OrganChipSystem : EntitySystem
         var name = OrganName(organ);
         if (!_containerQuery.TryComp(organ, out var container) || !_container.CanInsert(chip, container.Container))
         {
-            _popup.PopupEntity($"That {name} can't fit any more chips!", user, user);
+            _popup.PopupEntity($"В {name} больше не помещается чипов!", user, user); // SIS-TODO: Анхаркод локали
             return;
         }
 
         if (body == user)
         {
-            _popup.PopupEntity($"You start inserting a chip into your {name}!", user, user, PopupType.Medium);
+            _popup.PopupEntity($"Вы начинаете вставлять чип в свой {name}!", user, user, PopupType.Medium); // SIS-TODO: Анхаркод локали
         }
         else if (body != null)
         {
             var bodyName = Identity.Name(body.Value, EntityManager);
             var userName = Identity.Name(user, EntityManager);
-            _popup.PopupEntity($"You start inserting a chip into {bodyName}'s {name}!", user, user, PopupType.Large);
-            _popup.PopupEntity($"{userName} starts inserting a chip into {name}!", user, body.Value, PopupType.LargeCaution);
+            _popup.PopupEntity($"Вы начинаете вставлять чип в {name} {bodyName}!", user, user, PopupType.Large); // SIS-TODO: Анхаркод локали
+            _popup.PopupEntity($"{userName} начинает вставлять чип в {name}!", user, body.Value, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
         }
         else
         {
-            _popup.PopupEntity($"You start inserting a chip into a {name}!", user, user);
+            _popup.PopupEntity($"Вы начинаете вставлять чип в {name}!", user, user); // SIS-TODO: Анхаркод локали
         }
 
         _doAfter.TryStartDoAfter(new DoAfterArgs(EntityManager,
@@ -290,18 +290,18 @@ public sealed partial class OrganChipSystem : EntitySystem
         var name = OrganName(organ);
         if (body == user)
         {
-            _popup.PopupEntity($"You start pulling a chip out of your {name}!", user, user, PopupType.Medium);
+            _popup.PopupEntity($"Вы начинаете вытаскивать чип из своего {name}!", user, user, PopupType.Medium); // SIS-TODO: Анхаркод локали
         }
         else if (body != null)
         {
             var bodyName = Identity.Name(body.Value, EntityManager);
             var userName = Identity.Name(user, EntityManager);
-            _popup.PopupEntity($"You start pulling a chip out of {bodyName}'s {name}!", user, user, PopupType.Large);
-            _popup.PopupEntity($"{userName} starts pulling a chip out of your {name}!", user, body.Value, PopupType.LargeCaution);
+            _popup.PopupEntity($"Вы начинаете вытаскивать чип из {name} {bodyName}!", user, user, PopupType.Large); // SIS-TODO: Анхаркод локали
+            _popup.PopupEntity($"{userName} начинает вытаскивать чип из вашего {name}!", user, body.Value, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
         }
         else
         {
-            _popup.PopupEntity($"You start pulling a chip out of a {name}!", user, user);
+            _popup.PopupEntity($"Вы начинаете вытаскивать чип из {name}!", user, user); // SIS-TODO: Анхаркод локали
         }
 
         _doAfter.TryStartDoAfter(new DoAfterArgs(EntityManager,
@@ -327,7 +327,7 @@ public sealed partial class OrganChipSystem : EntitySystem
             bodyEnt = body;
             if (body != user && _pullableQuery.TryComp(body, out var pullable) && pullable.GrabStage < GrabStage.Hard)
             {
-                _popup.PopupEntity("You need to hardgrab them first!", body, user);
+                _popup.PopupEntity("Сначала вам нужно крепко схватить их!", body, user); // SIS-TODO: Анхаркод локали
                 return null;
             }
 

@@ -30,7 +30,7 @@ public abstract partial class SharedKnowledgeSystem
 
         using (args.PushGroup(nameof(KnowledgeGrantOnWearComponent)))
         {
-            args.PushMarkup("This offsets these skills when used:");
+            args.PushMarkup("Это компенсирует следующие навыки при использовании:"); // SIS-TODO: Анхаркод локали
             foreach (var (skill, level) in ent.Comp.Skills)
             {
                 var color = level < 0

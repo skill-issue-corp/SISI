@@ -190,7 +190,7 @@ public sealed partial class SealableClothingSystem : EntitySystem
 
     private void StartSealDoAfter(EntityUid user, Entity<SealableClothingControlComponent> control, EntityUid wearer)
     {
-        _popup.PopupEntity("You start the suit's sealing process", wearer, user);
+        _popup.PopupEntity("Вы начинаете процесс герметизации костюма", wearer, user); // SIS-TODO: Анхаркод локали
         var args = new DoAfterArgs(EntityManager, user, control.Comp.NonWearerSealingTime, new StartSealingProcessDoAfterEvent(), control, wearer, control)
         {
             BreakOnDamage = true,

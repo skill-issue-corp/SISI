@@ -47,17 +47,17 @@ public abstract partial class SharedActionLairSystem : EntitySystem
 
         if (!_lairQuery.TryComp(target, out var lair))
         {
-            _popup.PopupEntity("This only works on coffins!", user, user, PopupType.Medium);
+            _popup.PopupEntity("Это работает только с гробами!", user, user, PopupType.Medium); // SIS-TODO: Анхаркод локали
             return;
         }
 
         if (lair.Vampire is not null)
         {
-            _popup.PopupEntity("This coffin serves another and refuses to bend to your will!", user, user, PopupType.MediumCaution);
+            _popup.PopupEntity("Этот гроб служит другому и отказывается подчиняться вашей воле!", user, user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
-        _popup.PopupEntity("You begin making the coffin!", user, user, PopupType.Medium);
+        _popup.PopupEntity("Вы начинаете создавать гроб!", user, user, PopupType.Medium); // SIS-TODO: Анхаркод локали
         _leecher.CreateBeam(user, target, BeamProto);
 
         _audio.PlayPredicted(ent.Comp.BeforeCreationSound, target, user);
@@ -109,8 +109,8 @@ public abstract partial class SharedActionLairSystem : EntitySystem
         if (!_lairQuery.TryComp(target, out var lair))
             return;
 
-        _meta.SetEntityName(target, $"The coffin of {Identity.Name(args.User, EntityManager)}");
-        _meta.SetEntityDescription(target, "This coffin's owner may not actually have been dear to anyone, or even departed quite yet.");
+        _meta.SetEntityName(target, $"Гроб {Identity.Name(args.User, EntityManager)}"); // SIS-TODO: Анхаркод локали
+        _meta.SetEntityDescription(target, "Владелец этого гроба, возможно, никому не был дорог, а может, ещё и не совсем отбыл в мир иной."); // SIS-TODO: Анхаркод локали
 
         lair.Vampire = args.User;
         Dirty(target, lair);

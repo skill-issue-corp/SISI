@@ -29,7 +29,7 @@ public sealed partial class WeaponClassSystem : EntitySystem
             return;
 
         var name = ProtoMan.Index(ent.Comp.Class).Name;
-        args.PushMarkup($"This weapon benefits from [color=green]{name}[/color] training");
+        args.PushMarkup($"Это оружие получает преимущество от владения навыком [color=green]{name}[/color]"); // SIS-TODO: Анхаркод локали
     }
 
     private void OnGetMeleeDamage(Entity<WeaponClassComponent> ent, ref GetMeleeDamageEvent args)

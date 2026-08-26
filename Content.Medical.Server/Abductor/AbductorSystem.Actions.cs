@@ -145,7 +145,7 @@ public sealed partial class AbductorSystem : SharedAbductorSystem
 
         if (!TryComp<StrapComponent>(padFound, out var strap) || strap.BuckledEntities.Count == 0)
         {
-            _popup.PopupEntity("Nobody is on the pad!", user, user);
+            _popup.PopupEntity("На платформе никого нет!", user, user); // SIS-TODO: Анхаркод локали
             ev.Handled = true;
             return;
         }

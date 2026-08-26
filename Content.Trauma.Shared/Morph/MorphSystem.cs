@@ -107,13 +107,13 @@ public sealed partial class MorphSystem : EntitySystem
 
         if (ent.Comp.Biomass < ent.Comp.ReplicateCost)
         {
-            _popup.PopupEntity("Not enough biomass!", ent, ent, PopupType.MediumCaution);
+            _popup.PopupEntity("Недостаточно биомассы!", ent, ent, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
         if (_disguisedQuery.HasComp(ent))
         {
-            _popup.PopupEntity("You can't replicate while morphed!", ent, ent, PopupType.SmallCaution);
+            _popup.PopupEntity("Вы не можете размножаться, находясь в трансформации!", ent, ent, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -128,7 +128,7 @@ public sealed partial class MorphSystem : EntitySystem
         args.Handled = _doAfter.TryStartDoAfter(doafterArgs);
 
         if (args.Handled)
-            _popup.PopupEntity("You start to reproduce...", ent, ent, PopupType.Medium);
+            _popup.PopupEntity("Вы начинаете размножаться...", ent, ent, PopupType.Medium); // SIS-TODO: Анхаркод локали
     }
 
     private void OnMorphReplicateDoAfter(Entity<MorphComponent> ent, ref ReplicateDoAfterEvent args)
@@ -196,7 +196,7 @@ public sealed partial class MorphSystem : EntitySystem
         if (!_disguisedQuery.HasComp(ent))
             return;
 
-        _popup.PopupEntity("You can't attack while morphed!", ent, ent);
+        _popup.PopupEntity("Вы не можете атаковать, находясь в трансформации!", ent, ent); // SIS-TODO: Анхаркод локали
         args.Cancelled = true;
     }
 

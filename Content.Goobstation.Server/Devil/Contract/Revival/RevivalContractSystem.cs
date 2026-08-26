@@ -47,7 +47,7 @@ public sealed partial class PendingRevivalContractSystem : EntitySystem
         // Make sure the mind actually exists
         if (!_mind.TryGetMind(target, out var mindId, out var mindComp) || mindComp.CurrentEntity is not { } ghost)
         {
-            _popup.PopupEntity("You can't sign a contract with a soulless corpse...", args.User, args.User);
+            _popup.PopupEntity("Вы не можете подписать контракт с бездушным трупом...", args.User, args.User); // SIS-TODO: Анхаркод локали
             return;
         }
 

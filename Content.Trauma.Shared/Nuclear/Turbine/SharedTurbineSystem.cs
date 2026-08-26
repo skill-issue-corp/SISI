@@ -68,36 +68,36 @@ public abstract partial class SharedTurbineSystem : EntitySystem
         using (args.PushGroup(nameof(TurbineComponent)))
         {
             if (comp.CurrentStator == null)
-                args.PushMarkup("It seems to be missing a stator.");
+                args.PushMarkup("Похоже, здесь не хватает статора."); // SIS-TODO: Анхаркод локали
 
             if (comp.CurrentBlade == null)
-                args.PushMarkup("It seems to be missing blades.");
+                args.PushMarkup("Похоже, здесь не хватает лопастей."); // SIS-TODO: Анхаркод локали
             else
             {
                 args.PushMarkup(comp.RPM switch
                 {
-                    <= 1f => "The blades are not spinning.",
-                    <= 60f => "The blades are turning slowly.",
-                    _ when comp.RPM <= comp.BestRPM * 0.5 => "The blades are spinning.",
-                    _ when comp.RPM <= comp.BestRPM * 1.2 => "The blades are spinning quickly.",
-                    _ => "[color=red]The blades are spinning out of control![/color]"
-                });
+                    <= 1f => "Лопасти не вращаются.",
+                    <= 60f => "Лопасти вращаются медленно.",
+                    _ when comp.RPM <= comp.BestRPM * 0.5 => "Лопасти вращаются.",
+                    _ when comp.RPM <= comp.BestRPM * 1.2 => "Лопасти вращаются быстро.",
+                    _ => "[color=red]Лопасти вращаются с бешеной скоростью![/color]"
+                }); // SIS-TODO: Анхаркод локали
             }
 
             if (comp.Ruined)
             {
-                args.PushMarkup("[color=red]It's completely broken![/color]");
+                args.PushMarkup("[color=red]Оно полностью сломано![/color]"); // SIS-TODO: Анхаркод локали
             }
             else
             {
                 var health = (float) comp.BladeHealth / comp.BladeHealthMax;
                 args.PushMarkup(health switch
                 {
-                    < 0.25f => "[color=orange]It's critically damaged![/color]",
-                    < 0.5f => "[color=yellow]The turbine looks badly damaged.[/color]",
-                    < 0.75f => "The turbine looks a bit scuffed.",
-                    _ => "It appears to be in good condition."
-                });
+                    < 0.25f => "[color=orange]Она критически повреждена![/color]",
+                    < 0.5f => "[color=yellow]Турбина выглядит сильно повреждённой.[/color]",
+                    < 0.75f => "Турбина выглядит немного потрёпанной.",
+                    _ => "Похоже, она в хорошем состоянии."
+                }); // SIS-TODO: Анхаркод локали
             }
         }
     }
@@ -136,7 +136,7 @@ public abstract partial class SharedTurbineSystem : EntitySystem
 
         if (comp.BladeHealth >= comp.BladeHealthMax && !comp.Ruined)
         {
-            Popup.PopupEntity("The blade is already in perfect condition.", user, user);
+            Popup.PopupEntity("Клинок уже в идеальном состоянии.", user, user); // SIS-TODO: Анхаркод локали
             return;
         }
 

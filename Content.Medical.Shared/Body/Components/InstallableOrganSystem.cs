@@ -28,7 +28,7 @@ public sealed partial class InstallableOrganSystem : EntitySystem
         if (!args.IsInDetailsRange || !HasComp<BodyComponent>(args.Examiner))
             return;
 
-        args.PushMarkup("You could easily [bold]use[/bold] this to install it into your body");
+        args.PushMarkup("Вы могли бы легко [bold]использовать[/bold] это, чтобы установить в своё тело"); // SIS-TODO: Анхаркод локали
     }
 
     private void OnUseInHand(Entity<InstallableOrganComponent> ent, ref UseInHandEvent args)
@@ -41,7 +41,7 @@ public sealed partial class InstallableOrganSystem : EntitySystem
 
         if (_body.GetOrgan(user, category) != null)
         {
-            _popup.PopupEntity($"You already have a {ProtoMan.Index(category).Name}!",
+            _popup.PopupEntity($"У вас уже есть {ProtoMan.Index(category).Name}!", // SIS-TODO: Анхаркод локали
                 user, user, PopupType.SmallCaution);
             return;
         }
@@ -66,7 +66,7 @@ public sealed partial class InstallableOrganSystem : EntitySystem
         if (args.Cancelled || !_body.InsertOrgan(user, ent.Owner))
             return;
 
-        _popup.PopupEntity($"You inserted the {Name(ent)} into your body.",
+        _popup.PopupEntity($"Вы вставили {Name(ent)} в своё тело.", // SIS-TODO: Анхаркод локали
             user, user, PopupType.Medium);
     }
 }

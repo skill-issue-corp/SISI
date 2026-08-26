@@ -163,7 +163,7 @@ public sealed partial class ClowncarSystem : EntitySystem
             return;
 
         if (args.IsInDetailsRange)
-            args.PushMarkup($"Contains {container.Count} Happy Passengers");
+            args.PushMarkup($"Содержит {container.Count} Довольных Пассажиров"); // SIS-TODO: Анхаркод локали
     }
 
     private void OnQuietBackThere(Entity<ClowncarComponent> ent, ref QuietBackThereActionEvent args)

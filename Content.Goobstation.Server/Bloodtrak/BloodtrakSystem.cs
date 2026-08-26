@@ -48,7 +48,7 @@ public sealed partial class BloodtrakSystem : SharedBloodtrakSystem
         {
             if (component.ResultList.Count == 0)
             {
-                _popupSystem.PopupEntity("Nothing scanned!?", user, user);
+                _popupSystem.PopupEntity("Ничего не отсканировано!?", user, user); // SIS-TODO: Анхаркод локали
                 return null;
             }
 

@@ -185,7 +185,7 @@ public abstract partial class SharedKnowledgeSystem
         Dirty(martialArt, comboActions);
 
         // Provide feedback
-        _popup.PopupEntity($"You prepare to do a {Name(ent, ent.Comp).ToLower()}...", uid, uid);
+        _popup.PopupEntity($"Вы готовитесь выполнить {Name(ent, ent.Comp).ToLower()}...", uid, uid); // SIS-TODO: Анхаркод локали
 
         args.Handled = true; // This starts the cooldown in the UI
     }

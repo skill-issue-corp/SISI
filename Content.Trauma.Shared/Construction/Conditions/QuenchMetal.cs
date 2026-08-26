@@ -26,7 +26,7 @@ public sealed partial class QuenchMetal : IGraphCondition
         if (!metal.IsWorkable(entity))
             return false;
 
-        args.PushMarkup("Quench it first!\n");
+        args.PushMarkup("Сначала потушите его!\n"); // SIS-TODO: Анхаркод локали
         return true;
     }
 

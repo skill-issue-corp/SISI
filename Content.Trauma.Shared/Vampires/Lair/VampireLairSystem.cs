@@ -43,7 +43,7 @@ public sealed partial class VampireLairSystem : EntitySystem
         Dirty(ent);
 
         if (_net.IsServer)
-            _popup.PopupEntity("Your lair is being attacked!", vamp, vamp, PopupType.LargeCaution);
+            _popup.PopupEntity("Ваше логово подверглось нападению!", vamp, vamp, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
     }
 
     private void OnInserted(Entity<VampireLairComponent> ent, ref EntInsertedIntoContainerMessage args)

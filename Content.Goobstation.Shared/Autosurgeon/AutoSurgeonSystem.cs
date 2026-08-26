@@ -43,14 +43,14 @@ public sealed partial class AutoSurgeonSystem : EntitySystem
         var name = Name(ent);
         if (ent.Comp.Used)
         {
-            _popup.PopupEntity($"The {name} has already been used!", ent, user, PopupType.SmallCaution);
+            _popup.PopupEntity($"{name} уже был использован!", ent, user, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
         var target = args.Buckle.Owner;
         if (!HasComp<BodyComponent>(target))
         {
-            _popup.PopupEntity($"{Name(target)} can't be operated on!", ent, user, PopupType.SmallCaution);
+            _popup.PopupEntity($"{Name(target)} нельзя оперировать!", ent, user, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -69,7 +69,7 @@ public sealed partial class AutoSurgeonSystem : EntitySystem
             }))
             return;
 
-        _popup.PopupEntity($"You start up the {name}...", ent, user, PopupType.Medium);
+        _popup.PopupEntity($"Вы запускаете {name}...", ent, user, PopupType.Medium); // SIS-TODO: Анхаркод локали
 
         var ev = new TransferDnaEvent { Donor = target, Recipient = ent };
         RaiseLocalEvent(target, ref ev);

@@ -56,7 +56,7 @@ public sealed partial class PaintSystem : EntitySystem
         if (ent.Comp.Color != args.Color)
             return;
 
-        _popup.PopupEntity("It's already painted that color.", ent, args.User);
+        _popup.PopupEntity("Это уже окрашено в этот цвет.", ent, args.User); // SIS-TODO: Анхаркод локали
         args.Cancelled = true;
     }
 
@@ -73,7 +73,7 @@ public sealed partial class PaintSystem : EntitySystem
     private void OnRandomSpritePaintAttempt(Entity<RandomSpriteComponent> ent, ref PaintAttemptEvent args)
     {
         // no painting fish or whatever?
-        _popup.PopupEntity("It's already colorful enough.", ent, args.User);
+        _popup.PopupEntity("Это уже достаточно яркое.", ent, args.User); // SIS-TODO: Анхаркод локали
         args.Cancelled = true;
     }
 

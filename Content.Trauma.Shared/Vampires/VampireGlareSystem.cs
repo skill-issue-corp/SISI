@@ -44,7 +44,7 @@ public sealed partial class VampireGlareSystem : EntitySystem
         RaiseLocalEvent(performer, ev);
         if (ev.Blind)
         {
-            _popup.PopupEntity("You can't use glare while blinded!", performer, PopupType.LargeCaution);
+            _popup.PopupEntity("Вы не можете использовать сияющий взгляд, будучи ослеплённым!", performer, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 

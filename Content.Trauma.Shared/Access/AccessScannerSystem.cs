@@ -126,7 +126,7 @@ public sealed partial class AccessScannerSystem : EntitySystem
             return;
 
         var range = ent.Comp.Settings[ent.Comp.Setting].Range;
-        args.PushMarkup($"Its range is set to [bold]{range}m[/bold]");
+        args.PushMarkup($"Его радиус действия установлен на [bold]{range}м[/bold]"); // SIS-TODO: Анхаркод локали
     }
 
     private void OnInteractUsing(Entity<AccessScannerComponent> ent, ref InteractUsingEvent args)
@@ -139,7 +139,7 @@ public sealed partial class AccessScannerSystem : EntitySystem
         ent.Comp.Setting %= ent.Comp.Settings.Count;
         Dirty(ent);
         var setting = ent.Comp.Settings[ent.Comp.Setting];
-        _popup.PopupEntity($"You set the scanner to {setting.Range}m range", ent, args.User);
+        _popup.PopupEntity($"Вы установили дальность сканера на {setting.Range}м", ent, args.User); // SIS-TODO: Анхаркод локали
         _audio.PlayPredicted(ent.Comp.CycleSound, ent, args.User);
         _power.SetLoad(ent.Owner, setting.Power);
     }

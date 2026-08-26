@@ -42,7 +42,7 @@ public sealed partial class VampirePryingSystem : EntitySystem
         if (_vampire.HasUsableBlood(ent.Owner, ent.Comp.BloodToRemove))
             return;
 
-        _popup.PopupEntity("You do not have enough blood to pry open this door!", ent.Owner, ent.Owner, PopupType.SmallCaution);
+        _popup.PopupEntity("У вас недостаточно крови, чтобы взломать эту дверь!", ent.Owner, ent.Owner, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
         args.Cancelled = true;
     }
 

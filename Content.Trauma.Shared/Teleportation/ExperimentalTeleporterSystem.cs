@@ -77,7 +77,7 @@ public sealed partial class ExperimentalTeleporterSystem : EntitySystem
             return;
 
         // has to be defered because of interaction system's expectations that the user isn't being deleted
-        _popup.PopupEntity("Teleporter malfunction", ent, user, PopupType.LargeCaution);
+        _popup.PopupEntity("Сбой телепортера", ent, user, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
         _gibQueue.Add(user);
     }
 
@@ -86,7 +86,7 @@ public sealed partial class ExperimentalTeleporterSystem : EntitySystem
         if (_charges.IsEmpty(ent.Owner))
             return false;
 
-        _popup.PopupEntity("Emergency teleport saved your life!", ent, user, PopupType.LargeCaution);
+        _popup.PopupEntity("Аварийная телепортация спасла вам жизнь!", ent, user, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
         var newOffset = offset + RandomEmergencyOffset(ent, rand, offset);
         var coords = user.Comp.Coordinates.Offset(newOffset).SnapToGrid(EntityManager);
 

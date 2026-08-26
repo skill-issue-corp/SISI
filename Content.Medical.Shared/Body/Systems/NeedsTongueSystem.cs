@@ -26,7 +26,7 @@ public sealed partial class NeedsTongueSystem : EntitySystem
             return;
 
         // TODO: change to PopupEntity if chat gets predicted
-        _popup.PopupEntity("You have no tongue!", ent, ent);
+        _popup.PopupEntity("У вас нет языка!", ent, ent); // SIS-TODO: Анхаркод локали
         args.Cancel();
     }
 }

@@ -60,7 +60,7 @@ public sealed partial class BloodBondSystem : EntitySystem
                 ClearBloodLinked(uid);
                 RemCompDeferred(uid, bloodLinker);
 
-                _popup.PopupEntity("You don't have enough power to continue the link!", uid, PopupType.MediumCaution);
+                _popup.PopupEntity("У вас недостаточно энергии, чтобы поддерживать связь!", uid, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
                 continue;
             }
 
@@ -80,7 +80,7 @@ public sealed partial class BloodBondSystem : EntitySystem
 
         if (args.Toggle)
         {
-            _popup.PopupEntity("You start the blood bond!", user, PopupType.MediumCaution);
+            _popup.PopupEntity("Вы начинаете кровную связь!", user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             var xform = Transform(user);
 
             _thralls.Clear();
@@ -116,7 +116,7 @@ public sealed partial class BloodBondSystem : EntitySystem
             return;
         }
 
-        _popup.PopupEntity("The blood bond halts!", user, PopupType.MediumCaution);
+        _popup.PopupEntity("Кровная связь прерывается!", user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
 
         ClearBloodLinked(user);
         RemCompDeferred<ActiveBloodLinkerComponent>(user);

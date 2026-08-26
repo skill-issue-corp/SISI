@@ -38,7 +38,7 @@ public sealed partial class VampireSystem : EntitySystem
     {
         var usable = ent.Comp.UsableBlood;
 
-        _popup.PopupEntity($"You have {usable} usable blood", ent.Owner, ent.Owner, PopupType.Large);
+        _popup.PopupEntity($"У вас {usable} пригодной для использования крови", ent.Owner, ent.Owner, PopupType.Large); // SIS-TODO: Анхаркод локали
     }
 
     private void OnGlare(Entity<VampireComponent> ent, ref GlareAttemptEvent args)

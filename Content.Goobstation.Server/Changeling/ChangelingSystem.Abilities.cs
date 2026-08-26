@@ -735,7 +735,7 @@ public sealed partial class ChangelingSystem
             EnsureComp<SpecialBreathingImmunityComponent>(uid);
             EnsureComp<SpecialPressureImmunityComponent>(uid);
             EnsureComp<SpecialLowTempImmunityComponent>(uid);
-            Popup.PopupEntity("Our exterior adapts to the vacuum of space", uid, uid);
+            Popup.PopupEntity("Наша внешняя оболочка приспосабливается к вакууму космоса", uid, uid); // SIS-TODO: Анхаркод локали
             comp.VoidAdaptActive = true;
             comp.ChemicalRegenMultiplier -= 0.25f; // chem regen slowed by a flat 25%
         }
@@ -744,7 +744,7 @@ public sealed partial class ChangelingSystem
             RemComp<SpecialBreathingImmunityComponent>(uid);
             RemComp<SpecialPressureImmunityComponent>(uid);
             RemComp<SpecialLowTempImmunityComponent>(uid);
-            Popup.PopupEntity("Our exterior returns to normal", uid, uid);
+            Popup.PopupEntity("Наша внешняя оболочка возвращается в норму", uid, uid); // SIS-TODO: Анхаркод локали
             comp.VoidAdaptActive = false;
             comp.ChemicalRegenMultiplier += 0.25f; // chem regen debuff removed
         }

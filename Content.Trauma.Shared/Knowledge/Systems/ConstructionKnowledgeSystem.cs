@@ -41,7 +41,7 @@ public sealed partial class ConstructionKnowledgeSystem : EntitySystem
         if (_knowledge.GetContainer(ent) is not { } brain)
         {
             if (args.LogError)
-                _popup.PopupEntity("You have no brain!", ent, ent, PopupType.MediumCaution);
+                _popup.PopupEntity("У вас нет мозга!", ent, ent, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             args.Cancelled = true;
             return;
         }
@@ -56,7 +56,7 @@ public sealed partial class ConstructionKnowledgeSystem : EntitySystem
                 {
                     var masteryName = _knowledge.GetMasteryString(mastery);
                     var name = ProtoMan.Index(id).Name;
-                    _popup.PopupEntity($"You are missing {masteryName} {name} to construct that!", ent, ent, PopupType.MediumCaution);
+                    _popup.PopupEntity($"Вам не хватает {masteryName} {name}, чтобы это построить!", ent, ent, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
                 }
                 args.Cancelled = true;
                 return;

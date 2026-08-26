@@ -47,7 +47,7 @@ public sealed partial class PredatorSensesSystem : EntitySystem
 
         if (_drainable.Count == 0)
         {
-            _popup.PopupEntity("There is no prey to be hunted here...", performer, PopupType.MediumCaution);
+            _popup.PopupEntity("Здесь нет добычи для охоты...", performer, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -70,16 +70,16 @@ public sealed partial class PredatorSensesSystem : EntitySystem
 
         if (_area.GetArea(target) is not { } area)
         {
-            _popup.PopupEntity("They are somewhere away...", attachedEnt, attachedEnt, PopupType.MediumCaution);
+            _popup.PopupEntity("Они где-то далеко...", attachedEnt, attachedEnt, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             _action.StartUseDelay(action.AsNullable());
             _ui.CloseUi(ent.Owner, ListEntitySelectorUiKey.Key);
             return;
         }
 
-        var msg = $"They are at {Name(area)}.";
+        var msg = $"Они находятся в {Name(area)}."; // SIS-TODO: Анхаркод локали
         if (_damageable.GetTotalDamage(target) >= ent.Comp.TotalDamage)
         {
-            msg += " They are wounded";
+            msg += " Они ранены"; // SIS-TODO: Анхаркод локали
         }
 
         _popup.PopupEntity(msg, attachedEnt, attachedEnt, PopupType.LargeCaution);

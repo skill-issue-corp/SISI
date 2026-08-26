@@ -29,13 +29,13 @@ public sealed partial class ActionLairTeleportSystem : EntitySystem
 
         if (TerminatingOrDeleted(ent.Comp.Lair) || ent.Comp.Lair is not { } lair)
         {
-            _popup.PopupEntity("You do not have a lair anymore!", user, user, PopupType.MediumCaution);
+            _popup.PopupEntity("У вас больше нет логова!", user, user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
         if (_mob.IsAlive(user))
         {
-            _popup.PopupEntity("You can not teleport to your lair while alive!", user, user, PopupType.MediumCaution);
+            _popup.PopupEntity("Вы не можете телепортироваться в своё логово, будучи живым!", user, user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 

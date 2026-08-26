@@ -51,7 +51,7 @@ public sealed partial class VampireThrallSystem : EntitySystem
 
         if (ent.Comp.Thralls.Count == cap)
         {
-            _popup.PopupEntity($"You can't have more than {cap} thralls!", user, user, PopupType.MediumCaution);
+            _popup.PopupEntity($"У вас не может быть больше {cap} рабов!", user, user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -61,14 +61,14 @@ public sealed partial class VampireThrallSystem : EntitySystem
         {
             // but since HasMind is networked it controls the popup to not mispredict user feedback
             if (TryComp<MindContainerComponent>(target, out var mc) && !mc.HasMind)
-                _popup.PopupEntity("The target has no mind!", user, user, PopupType.MediumCaution);
+                _popup.PopupEntity("У цели нет разума!", user, user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
         ent.Comp.Thralls.Add(target);
         Dirty(ent);
 
-        _popup.PopupEntity("You gain a new thrall!", user, user, PopupType.Medium);
+        _popup.PopupEntity("Вы обретаете нового раба!", user, user, PopupType.Medium); // SIS-TODO: Анхаркод локали
 
         var comp = EnsureComp<VampireThrallComponent>(target);
         comp.Vampire = user;
@@ -109,7 +109,7 @@ public sealed partial class VampireThrallSystem : EntitySystem
         if (args.Examiner != ent.Comp.Vampire)
             return;
 
-        args.PushMarkup("[color=Green]This thrall belongs to you[/color]");
+        args.PushMarkup("[color=Green]Этот тралл принадлежит вам[/color]"); // SIS-TODO: Анхаркод локали
     }
 
     private void OnShutdown(Entity<VampireThrallComponent> ent, ref ComponentShutdown args)
@@ -126,11 +126,11 @@ public sealed partial class VampireThrallSystem : EntitySystem
         thralls.Thralls.Remove(user);
         Dirty(vampire, thralls);
 
-        _popup.PopupEntity("You are freed from enthrallment!", user, user, PopupType.Large);
+        _popup.PopupEntity("Вы освобождены от порабощения!", user, user, PopupType.Large); // SIS-TODO: Анхаркод локали
 
         // Notify the vampire that they lost a thrall
         if (_net.IsServer)
-            _popup.PopupEntity("You feel like you lost a follower!", vampire, vampire, PopupType.LargeCaution);
+            _popup.PopupEntity("Вы чувствуете, что потеряли последователя!", vampire, vampire, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
 
         // Remove collective mind channel since they don't need it anymore
         if (!_collectiveMindQuery.TryComp(user, out var collectiveMind))

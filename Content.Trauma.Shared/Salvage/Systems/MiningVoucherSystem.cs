@@ -44,7 +44,7 @@ public sealed partial class MiningVoucherSystem : EntitySystem
 
         if (!_power.IsPowered(target))
         {
-            _popup.PopupEntity($"{Name(target)} has no power!", target, user);
+            _popup.PopupEntity($"У {Name(target)} нет питания!", target, user); // SIS-TODO: Анхаркод локали
             return;
         }
 

@@ -45,7 +45,7 @@ public sealed partial class AnvilSystem : EntitySystem
         if (_ingots.Count < cost)
         {
             var missing = cost - _ingots.Count;
-            _popup.PopupEntity($"You are missing {missing} more hot {metal.Name} ingots!",
+            _popup.PopupEntity($"Вам не хватает ещё {missing} горячих слитков {metal.Name}!", // SIS-TODO: Анхаркод локали
                 ent, user, PopupType.MediumCaution);
             return;
         }
@@ -61,7 +61,7 @@ public sealed partial class AnvilSystem : EntitySystem
 
         // then create the unfinished item
         var uid = _forging.SpawnUnfinished(coords, args.Metal, args.Item, ent.Comp.WorkScale);
-        _popup.PopupEntity($"You get ready to work on your {Name(uid)}",
+        _popup.PopupEntity($"Вы готовитесь работать над своим {Name(uid)}", // SIS-TODO: Анхаркод локали
             ent, user, PopupType.Medium);
         _audio.PlayPredicted(ent.Comp.StartSound, ent, user);
 

@@ -39,13 +39,13 @@ public sealed partial class WandskySystem : EntitySystem
 
         if (ent.Comp.MasterEntity == args.Used)
         {
-            _popup.PopupEntity("Bond deleted.", ent.Owner, args.User, PopupType.Medium);
+            _popup.PopupEntity("Связь удалена.", ent.Owner, args.User, PopupType.Medium); // SIS-TODO: Анхаркод локали
             ent.Comp.MasterEntity = null;
             Dirty(ent);
             return;
         }
 
-        _popup.PopupEntity("Bond formed.", ent.Owner, args.User, PopupType.Medium);
+        _popup.PopupEntity("Связь установлена.", ent.Owner, args.User, PopupType.Medium); // SIS-TODO: Анхаркод локали
 
         ent.Comp.MasterEntity = args.Used;
 
@@ -57,7 +57,7 @@ public sealed partial class WandskySystem : EntitySystem
     {
         ent.Comp.IsPatrolling = !ent.Comp.IsPatrolling;
 
-        var message = ent.Comp.IsPatrolling ? "PATROL ENABLED!" : "PATROL DISABLED!";
+        var message = ent.Comp.IsPatrolling ? "ПАТРУЛИРОВАНИЕ ВКЛЮЧЕНО!" : "ПАТРУЛИРОВАНИЕ ВЫКЛЮЧЕНО!"; // SIS-TODO: Анхаркод локали
 
         Dirty(ent);
         _popup.PopupEntity(message, ent.Owner, args.Performer, PopupType.Medium);
@@ -76,7 +76,7 @@ public sealed partial class WandskySystem : EntitySystem
             if (!ent.Comp.Waypoints.Contains(waypoint))
                 return;
 
-            _popup.PopupEntity("Waypoint removed!", args.Performer, args.Performer, PopupType.Medium);
+            _popup.PopupEntity("Маршрут удалён!", args.Performer, args.Performer, PopupType.Medium); // SIS-TODO: Анхаркод локали
 
             ent.Comp.Waypoints.Remove(waypoint);
             PredictedQueueDel(waypoint);
@@ -84,7 +84,7 @@ public sealed partial class WandskySystem : EntitySystem
             return;
         }
 
-        _popup.PopupEntity("Waypoint added!", args.Performer, args.Performer, PopupType.Medium);
+        _popup.PopupEntity("Маршрут добавлен!", args.Performer, args.Performer, PopupType.Medium); // SIS-TODO: Анхаркод локали
         var waypointEntity = PredictedSpawnAtPosition(ent.Comp.WaypointId, args.Target);
         ent.Comp.Waypoints.Add(waypointEntity);
         Dirty(ent);
@@ -97,11 +97,11 @@ public sealed partial class WandskySystem : EntitySystem
 
         if (count == 0)
         {
-            _popup.PopupEntity("No waypoints to clear!", ent.Owner, args.Performer, PopupType.Medium);
+            _popup.PopupEntity("Маршрута для очистки!", ent.Owner, args.Performer, PopupType.Medium); // SIS-TODO: Анхаркод локали
             return;
         }
 
-        _popup.PopupEntity($"Cleared {count} waypoints!", ent.Owner, args.Performer, PopupType.Medium);
+        _popup.PopupEntity($"Очищено {count} маршрутов!", ent.Owner, args.Performer, PopupType.Medium); // SIS-TODO: Анхаркод локали
 
         foreach (var waypoint in waypoints)
         {

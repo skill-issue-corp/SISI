@@ -48,7 +48,7 @@ public abstract partial class SharedActiveBloodLeecherSystem : EntitySystem
             RaiseLocalEvent(uid, ref attemptEv);
             if (attemptEv.Cancelled)
             {
-                _popup.PopupEntity("You don't have enough power to leech! You must stop leeching.", uid, PopupType.MediumCaution);
+                _popup.PopupEntity("У вас недостаточно энергии для высасывания! Вы должны прекратить высасывание.", uid, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
 
                 comp.NextUpdate = _timing.CurTime + comp.UpdateRate;
                 Dirty(uid, comp);

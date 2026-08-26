@@ -84,7 +84,7 @@ public sealed partial class NuclearMachineSystem : SharedNuclearMachineSystem
 
         if (!Transform(inEnt).Anchored || !Transform(outEnt).Anchored)
         {
-            _popup.PopupEntity("Invalid anchoring position!", ent, PopupType.MediumCaution);
+            _popup.PopupEntity("Недопустимая позиция для крепления!", ent, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             DeletePipes(ent.Comp);
             _transform.Unanchor(ent);
             return false;

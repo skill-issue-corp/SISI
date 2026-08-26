@@ -96,7 +96,7 @@ public abstract partial class SharedTabletopSystem : EntitySystem
         // <Trauma> - prevent people from infinitely spawning mice on the board games and crashing server.
         if (ent.Comp.HologramsSpawned > ent.Comp.MaximumHologramsAllowed)
         {
-            _popup.PopupEntity("Nuh uh.", ent, args.User);
+            _popup.PopupEntity("Не-а.", ent, args.User); // SIS-TODO: Анхаркод локали
             return;
         }
         ent.Comp.HologramsSpawned++;

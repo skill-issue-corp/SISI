@@ -65,7 +65,7 @@ public sealed partial class MasterSiloSystem : EntitySystem
 
         if (!_power.IsPowered(ent.Owner))
         {
-            _popup.PopupEntity("It isn't powered!", ent, user);
+            _popup.PopupEntity("Это не запитано!", ent, user); // SIS-TODO: Анхаркод локали
             return false;
         }
 
@@ -77,7 +77,7 @@ public sealed partial class MasterSiloSystem : EntitySystem
 
         if (!FindSilosAccepting(grid, (item, composition)))
         {
-            _popup.PopupEntity("No powered silos on station!", ent, user);
+            _popup.PopupEntity("На станции нет запитанных силосов!", ent, user); // SIS-TODO: Анхаркод локали
             return false;
         }
 
@@ -100,7 +100,7 @@ public sealed partial class MasterSiloSystem : EntitySystem
                 _material.TryChangeMaterialAmount(silo, material, each, silo.Comp);
             }
         }
-        _popup.PopupEntity($"Distributed {multiplier} {Name(item)} between {count} material silos", ent, user);
+        _popup.PopupEntity($"Распределено {multiplier} {Name(item)} между {count} силосами материалов", ent, user); // SIS-TODO: Анхаркод локали
         return true;
     }
 

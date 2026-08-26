@@ -41,7 +41,7 @@ public abstract partial class SharedAntagSummonerSystem : EntitySystem
         var user = args.Actor;
         if (!_access.IsAllowed(user, ent.Owner))
         {
-            Popup.PopupEntity("Access denied!", ent, user);
+            Popup.PopupEntity("Доступ запрещён!", ent, user); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -49,13 +49,13 @@ public abstract partial class SharedAntagSummonerSystem : EntitySystem
         if (now < ent.Comp.NextSummon)
         {
             var minutes = (int) Math.Ceiling((ent.Comp.NextSummon - now).TotalMinutes);
-            Popup.PopupEntity($"Next security grant available in {minutes} minutes!", ent, user, PopupType.SmallCaution);
+            Popup.PopupEntity($"Следующая выдача допуска будет доступна через {minutes} минут(ы)!", ent, user, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
         if (_station.GetOwningStation(ent.Owner) is not {} station)
         {
-            Popup.PopupEntity("You need to use it on a station!", ent, user, PopupType.SmallCaution);
+            Popup.PopupEntity("Вам нужно использовать это на станции!", ent, user, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -66,7 +66,7 @@ public abstract partial class SharedAntagSummonerSystem : EntitySystem
         Dirty(ent);
 
         _adminLog.Add(LogType.InteractHand, LogImpact.High, $"{user:user} summoned an antag with {ent:used}!");
-        Popup.PopupEntity("You pressed the red button...", ent, user, PopupType.LargeCaution);
+        Popup.PopupEntity("Вы нажали красную кнопку...", ent, user, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
         _cargo.TryAdjustBankAccount(station, ent.Comp.Account, ent.Comp.Reward);
     }
 
