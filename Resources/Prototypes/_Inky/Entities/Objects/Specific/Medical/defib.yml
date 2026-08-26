@@ -27,5 +27,5 @@
 
 - type: guideEntry
   id: Defib
-  name: guide-entry-medicaldoctor
+  name: guide-entry-defib # SIS
   text: "/ServerInfo/_Inky/Guidebook/Medical/Defib.xml"
