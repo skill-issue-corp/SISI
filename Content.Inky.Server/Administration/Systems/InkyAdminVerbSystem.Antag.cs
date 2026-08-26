@@ -31,7 +31,7 @@ public sealed partial class InkyAdminVerbSystem
             Icon = new SpriteSpecifier.Rsi(new ResPath("/Textures/_Inky/Actions/Werewolf/werewolf.rsi"), "howl"),
             Act = () =>
             {
-                _antag.ForceMakeAntag<WerewolfRuleComponent>(targetPlayer, "Werewolf");
+                _antag.ForceMakeAntag<WerewolfRuleComponent>(targetPlayer, "WerewolfMidround");
             },
             Impact = LogImpact.High,
             Message = Loc.GetString("admin-verb-make-werewolf"),
