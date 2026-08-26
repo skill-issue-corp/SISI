@@ -22,7 +22,7 @@
     makeSentient: true
     name: ghost-role-information-psimonkey-name
     description: ghost-role-information-psimonkey-description
-    rules: ghost-role-information-antagonist-rules
+    rules: ghost-role-information-freeagent-rules
   - type: GhostTakeoverAvailable
   - type: Clumsy
     clumsyDefaultCheck: 1.0
