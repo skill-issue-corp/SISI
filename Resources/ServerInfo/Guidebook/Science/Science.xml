@@ -26,7 +26,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/>
     <GuideEntityEmbed Entity="ResearchAndDevelopmentServer"/>
   </Box>
-Самое важное в вашем отделе - это сервер РНД, который хранит открытые технологии, и компьютер РНД, позволяющий открывать [color=#a4885c]технологии[/color].
+Самое важное в вашем отделе - это сервер НИО, который хранит открытые технологии, и компьютер НИО, позволяющий открывать [color=#a4885c]технологии[/color].
 
 Каждая технология стоит определённое количество [color=#a4885c]Очков Исследований[/color] и открывает рецепты на станках. У некоторых технологий также есть предварительные требования, которые нужно выполнить перед их исследованием.
 
@@ -41,7 +41,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="WeaponXrayCannon" Caption="Арсенал"/>
   </Box>
 
-<GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/> Используйте ближайшую консоль РНД, чтобы узнать, какой вид исследований скрыт за каждым деревом Дисциплины.
+<GuideEntityEmbed Entity="ComputerResearchAndDevelopment"/> Используйте ближайшую консоль НИО, чтобы узнать, какой вид исследований скрыт за каждым деревом Дисциплины.
 
 ## Уровни
 У каждого дерева Дисциплины есть до 3 уровней технологий. Изначально открыт и доступен только уровень 1.
