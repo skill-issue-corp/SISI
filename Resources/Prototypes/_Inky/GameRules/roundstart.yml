@@ -1,6 +1,6 @@
 - type: entity
-  parent: [BaseGameRule, BaseRoundstartAntagRule] # SIS | BaseGameRule
-  id: Werewolf
+  parent: BaseGameRule
+  id: BaseWerewolfRule # SIS | Werewolf
   components:
   - type: WerewolfRule
   - type: GameRule

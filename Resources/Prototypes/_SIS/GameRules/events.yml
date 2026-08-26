@@ -33,7 +33,7 @@
       amount: 1, 1
 
 - type: entity
-  parent: BaseMidroundAntagRule
+  parent: [ BaseMidroundAntagRule, BaseWerewolfRule ]
   id: WerewolfMidround
   components:
   - type: StationEvent
@@ -41,7 +41,6 @@
     earliestStart: 30
     minimumPlayers: 20
     duration: null
-  - type: WerewolfRule
   - type: AntagSelection
     antags:
     - !type:LinearAntagCount
@@ -50,13 +49,6 @@
         min: 2
         max: 5
       playerRatio: 12
-  - type: AntagPlayerEffects
-    effects:
-    - !type:NestedEffect
-      proto: WerewolfSkills
-  - type: AntagObjectives
-    objectives:
-    - EscapeWerewolfShuttleObjective
 
 - type: entity
   parent: BaseStationEventShortDelay
