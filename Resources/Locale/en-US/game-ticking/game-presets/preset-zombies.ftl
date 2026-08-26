@@ -47,3 +47,4 @@ zombie-round-end-survivor-count = {$count ->
     *[other] There were only {$count} survivors left:
 }
 zombie-round-end-user-was-survivor = - [color=White]{$name}[/color] ([color=gray]{$username}[/color]) survived the outbreak.
+
