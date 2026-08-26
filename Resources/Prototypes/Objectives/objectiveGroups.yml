@@ -64,7 +64,7 @@
   id: TraitorObjectiveGroupOther
   weights:
     HijackTradeStationObjective: 0.1 # Trauma, was 1, showed up every round
-    MailFraudObjective: 1
+    # MailFraudObjective: 1 # SIS
 
 #Thief groups
 - type: weightedRandom
