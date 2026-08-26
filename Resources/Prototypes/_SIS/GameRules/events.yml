@@ -5,7 +5,7 @@
   - type: StationEvent
     startAnnouncement: station-event-vent-creatures-start-announcement
     startAudio:
-      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+      path: /Audio/_SIS/Announcements/attention.ogg
     earliestStart: 20
     minimumPlayers: 10
     weight: 5
@@ -22,7 +22,7 @@
   - type: StationEvent
     startAnnouncement: station-event-vent-creatures-start-announcement
     startAudio:
-      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+      path: /Audio/_SIS/Announcements/attention.ogg
     earliestStart: 20
     minimumPlayers: 10
     weight: 5

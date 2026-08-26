@@ -30,3 +30,23 @@
     - state: green
     - sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
       state: borer_control
+
+- type: entity
+  parent: MarkerBase
+  id: SpawnPointGhostCorticalBorer
+  name: сortical borer spawn point
+  components:
+  - type: GhostRole
+    name: cortical-borer-ghostrole-name
+    description: cortical-borer-ghostrole-desc
+    rules: cortical-borer-ghostrole-rules
+    mindRoles:
+    - MindRoleGhostRoleFreeAgent
+  - type: GhostRoleMobSpawner
+    prototype: MobCorticalBorer
+  - type: Sprite
+    sprite: Markers/jobs.rsi
+    layers:
+    - state: green
+    - sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
+      state: borer_control
