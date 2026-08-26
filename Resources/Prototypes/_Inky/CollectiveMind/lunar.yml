@@ -1,5 +1,5 @@
 - type: collectiveMind
   id: LunarMind
   name: collective-mind-lunarmind
-  keycode: 'l'
+  keycode: 'о' # RU-Localization
   color: "#B56328"
