@@ -1,5 +1,5 @@
 ent-SpawnPointJobBase = { ent-MarkerBase }
-    .suffix = Спавнер роли
+    .suffix = Спавнер должности
     .desc = { ent-MarkerBase.desc }
 ent-SpawnPointObserver = спавнер наблюдатели
     .desc = { ent-SpawnPointJobBase.desc }

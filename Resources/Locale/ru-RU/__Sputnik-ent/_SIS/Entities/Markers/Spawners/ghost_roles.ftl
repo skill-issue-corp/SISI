@@ -1,4 +1,4 @@
-ent-SpawnPointGhostPsiBasilisk = призрачная роль пси-василиска
+ent-SpawnPointGhostPsiBasilisk = спавнер призрачной роли пси-василиска
     .desc = { ent-SpawnPointGhostRemilia.desc }
     .suffix = Пси-василиск
 

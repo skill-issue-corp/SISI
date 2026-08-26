@@ -1,19 +1,19 @@
-ent-GhostRoleSpawnerInsurgent = спавнер роли призрака "повстанец"
+ent-GhostRoleSpawnerInsurgent = спавнер призрачной роли повстанца
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-GhostRoleSpawnerMorph = спавнер роли призрака "морф"
+ent-GhostRoleSpawnerMorph = спавнер призрачной роли морфа
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-GhostRoleSpawnerShadowling = спавнер роли призрака "тенепряд"
+ent-GhostRoleSpawnerShadowling = спавнер призрачной роли тенеморфа
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostRoleFugitive = точка спавна беглеца
+ent-SpawnPointGhostRoleFugitive = спавнер беглеца
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostRoleHunter = точка спавна охотника за беглецом
+ent-SpawnPointGhostRoleHunter = спавнер охотника за беглецом
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointPirateCaptain = точка спавна пирата
+ent-SpawnPointPirateCaptain = спавнер пирата
     .desc = { ent-BaseAntagSpawner.desc }
 
 ent-SpawnPointGhostWraithRoundstart = { ent-BaseAntagSpawner }
