@@ -249,7 +249,7 @@ public sealed partial class OrganChipSystem : EntitySystem
         var name = OrganName(organ);
         if (!_containerQuery.TryComp(organ, out var container) || !_container.CanInsert(chip, container.Container))
         {
-            _popup.PopupEntity($"В {name} больше не помещаются чипы1!", user, user); // SIS-TODO: Анхаркод локали
+            _popup.PopupEntity($"В {name} больше не помещаются чипы!", user, user); // SIS-TODO: Анхаркод локали
             return;
         }
 
