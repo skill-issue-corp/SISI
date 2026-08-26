@@ -121,7 +121,7 @@ public partial class XenobiologySystem
             _appearance.SetData(newEntityUid, XenoSlimeVisuals.Shader, newSlime.Shader);
 
         _appearance.SetData(newEntityUid, XenoSlimeVisuals.Color, newSlime.SlimeColor);
-        _meta.SetEntityName(newEntityUid, newBreed.BreedName);
+        _meta.SetEntityName(newEntityUid, Loc.GetString($"breed-{newBreed.ID}")); // RU-Localization | newEntityUid, newBreed.BreedName
 
         return (newEntityUid, newSlime);
     }
