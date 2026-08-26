@@ -1,1 +1,1 @@
-breed-GreyMutation = grey slime
+breed-GreyMutation = серый слайм

@@ -1,8 +1,8 @@
-breed-YellowMutation = yellow slime
-breed-DarkPurpleMutation = dark purple slime
-breed-DarkBlueMutation = dark blue slime
-breed-SilverMutation = silver slime
-breed-BluespaceMutation = bluespace slime
-breed-SepiaMutation = sepia slime
-breed-CeruleanMutation = cerulean slime
-breed-PyriteMutation = pyrite slime
+breed-YellowMutation = жёлтый слайм
+breed-DarkPurpleMutation = тёмно-фиолетовый слайм
+breed-DarkBlueMutation = тёмно-синий слайм
+breed-SilverMutation = серебряный слайм
+breed-BluespaceMutation = блюспейс-слайм
+breed-SepiaMutation = сепия-слайм
+breed-CeruleanMutation = лазурный слайм
+breed-PyriteMutation = пиритовый слайм

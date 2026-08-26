@@ -1,4 +1,4 @@
-breed-OilMutation = oil slime
-breed-LightPinkMutation = light pink slime
-breed-BlackMutation = black slime
-breed-AdamantineMutation = adamantine slime
+breed-OilMutation = масляный слайм
+breed-LightPinkMutation = светло-розовый слайм
+breed-BlackMutation = чёрный слайм
+breed-AdamantineMutation = адамантиновый слайм
