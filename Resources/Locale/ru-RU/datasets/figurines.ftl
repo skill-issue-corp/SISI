@@ -308,7 +308,7 @@ figurines-nukie-commander-3 = Синдикат передаёт привет.
 figurines-nukie-commander-4 = Провал - это не вариант.
 figurines-nukie-commander-5 = Упс.
 
-figurines-nukie-elite-1 = Ни слова по нанотрейзеновски.
+figurines-nukie-elite-1 = Ни слова по nanotrasenовски.
 figurines-nukie-elite-2 = ЭТО ПИВНАЯ!
 figurines-nukie-elite-3 = Ребят, вы живы?
 figurines-nukie-elite-4 = Взрывайте и зачищайте!

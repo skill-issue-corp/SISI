@@ -44,7 +44,7 @@ ghost-role-information-reinforcement-reporter-name = Подкрепление с
 ghost-role-information-reinforcement-service-worker-name = Подкрепление станции (Работник сферы обслуживания)
 ghost-role-information-reinforcement-assistant-name = Подкрепление станции (Ассистент)
 
-ghost-role-information-reinforcement-description = Вы подкрепление, отправленное на станцию НаноТрейзен.
+ghost-role-information-reinforcement-description = Вы подкрепление, отправленное на станцию NanoTrasen.
 ghost-role-information-DClass-description = Научная команда хочет использовать вас в своих экспериментах — подчиняйтесь, или рискуете погибнуть.
 
 ghost-role-information-facehugger-name = лицехват

@@ -1,10 +1,10 @@
 ent-BaseBalloon = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-BalloonSyn = синдикатский шарик
+ent-BalloonSyn = шарик синдиката
     .desc = Раздаётся самым храбрым душам, пережившим аттракцион «атомный вихрь» в Синдиленде.
 
-ent-BalloonNT = нанотрейзеновский шарик
+ent-BalloonNT = шарик nanotrasen
     .desc = Специально разработан для нанесения максимального психологического урона агентам Синдиката.
 
 ent-BalloonCorgi = шарик-корги

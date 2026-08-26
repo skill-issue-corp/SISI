@@ -65,7 +65,7 @@ traitor-neulithivfederationvisionary-allies = Члены Федерации Ко
 traitor-neulithivfederationvisionary-uplink = Федерация предоставила вам аплинк в КПК. Используйте его с умом.
 traitor-neulithivfederationvisionary-roundend = [color=violet]визионер Федерации Neulithiv[/color]
 traitor-postal-intro = Ты сошел с ума.
-traitor-postal-goal = Приготовления, наконец, завершены. Сегодня тот день, когда вы отправитесь в путь. Вы собираетесь захватить эвакуационный шаттл и начать новую жизнь, свободную от Нанотрейзена.
+traitor-postal-goal = Приготовления, наконец, завершены. Сегодня тот день, когда вы отправитесь в путь. Вы собираетесь захватить эвакуационный шаттл и начать новую жизнь, свободную от NanoTrasen.
 traitor-postal-allies = Если синдикат прознает о вашем плане, они убьют вас и заберут аплинк. Не рискуйте.
 traitor-postal-uplink = Месяц назад вам удалось удачно украсть аплинк. Это, безусловно, должно помочь в достижении ваших целей.
 traitor-postal-roundend = [color=white]просто стань абсолютно безумным[/color]

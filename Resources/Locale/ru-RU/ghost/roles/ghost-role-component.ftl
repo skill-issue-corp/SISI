@@ -252,7 +252,7 @@ ghost-role-information-hellspawn-description = Несите смерть тем,
 # Goob Station - Deathsquad Revamp
 
 ghost-role-information-Death-Squad-name = Оперативник Эскадрона Смерти
-ghost-role-information-Death-Squad-description = Нам нужен представитель Нанотрейзен живым, чтобы рассказать, что произошло. Остальные? Что ж... они свидетели.
+ghost-role-information-Death-Squad-description = Нам нужен представитель NanoTrasen живым, чтобы рассказать, что произошло. Остальные? Что ж... они свидетели.
 ghost-role-information-Death-Squad-rules = Ваши задачи просты: [color=red][bold]Ликвидировать[/bold][/color] всех, кто не является персоналом Центрального Командования. Приказы командования могут это изменить.
 
 ghost-role-information-SyndiCat-name = СиндиКот
