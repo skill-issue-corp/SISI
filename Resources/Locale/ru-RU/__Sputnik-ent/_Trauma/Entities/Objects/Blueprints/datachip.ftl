@@ -7,8 +7,8 @@ ent-DataChipAIBoard = чип данных [Плата подмены ИИ]
 ent-DataChipReflectivePlate = чип данных [Отражающая пластина]
     .desc = { ent-BaseBlueprintDatachip.desc }
 
-ent-DataChipFakeMindshield = чип данных [Фальшивый ментальный щит]
+ent-DataChipFakeMindshield = чип данных [Фальшивый щит разума]
     .desc = { ent-BaseBlueprintDatachip.desc }
 
-ent-DataChipShieldRipper = чип данных [Разрушитель ментального щита]
+ent-DataChipShieldRipper = чип данных [Разрушитель щита разума]
     .desc = { ent-BaseBlueprintDatachip.desc }

@@ -3,7 +3,7 @@ cult-glyph-target-rotting = Влияние глифа не действует н
 cult-glyph-not-enough-cultists = Недостаточно культистов рядом, чтобы призвать глиф!
 cult-glyph-conditions-not-met = В радиусе действия глифа нет подходящих целей!
 cult-glyph-too-many-targets = Слишком много целей на глифе!
-cult-glyph-target-mindshield = Ментальный щит не позволяет влиянию глифа подействовать!
+cult-glyph-target-mindshield = Щит разума не позволяет влиянию глифа подействовать!
 cult-glyph-target-chaplain = Искра божественной силы не позволяет влиянию глифа подействовать!
 
 cult-glyph-name-knowledge = Пакт Знания

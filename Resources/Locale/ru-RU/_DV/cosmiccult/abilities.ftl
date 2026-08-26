@@ -32,7 +32,7 @@ cosmicability-transmute-not-transmutable = Этот предмет нельзя 
 cosmicability-transmute-type-mismatch = Вам нужно улучшить способность трансмутации, чтобы преобразовать этот предмет.
 cosmicability-transmute-no-item = Вам нужно держать предмет, чтобы преобразовать его.
 
-cosmicability-convert-mindshield = Ментальная защита не позволяет влиянию подействовать!
+cosmicability-convert-mindshield = Щит разума не позволяет влиянию подействовать!
 cosmicability-convert-chaplain = Искра божественного света не позволяет влиянию подействовать!
 cosmicability-convert-mindless = У цели нет разума, сила будет потрачена впустую.
 cosmicability-convert-rotten = Влияние не действует на разлагающиеся трупы!
