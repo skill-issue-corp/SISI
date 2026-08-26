@@ -40,7 +40,6 @@
     WeaponLeverChester: 1
     WeaponSubMachineSmart: 1
     WeaponRifleAnnie: 1
-    WeaponRifleWSPR: 1
     WeaponRifleBurner: 1
     WeaponSubMachineGunC20r: 1
     WeaponSubMachineGunDrozd: 1
@@ -52,7 +51,6 @@
     WeaponLauncherRocket: 1
     # Melee
     CaptainSabre: 1
-    Terminus: 1
     Katana: 1
     EnergyKatana: 1
     Machete: 1
