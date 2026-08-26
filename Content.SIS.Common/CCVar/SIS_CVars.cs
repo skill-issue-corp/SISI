@@ -17,4 +17,14 @@ public sealed partial class SIS_CVars
         CVarDef.Create("sis.engi_low_pop_limit", 2, CVar.SERVERONLY);
 
     #endregion
+
+    #region Misc
+
+    /// <summary>
+    ///     Should players get a random weapon on roundend
+    /// </summary>
+    public static readonly CVarDef<bool> RoundEndWeapons =
+        CVarDef.Create("sis.round_end_weapons_enabled", true, CVar.SERVERONLY);
+
+    #endregion
 }
