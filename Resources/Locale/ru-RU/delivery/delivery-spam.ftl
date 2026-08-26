@@ -101,7 +101,7 @@ delivery-spam-centcomm-retribution = [color=red] ОФИЦИАЛНОЕ СООБЩ
 
     если вы не хотите чтобы эта станция была обьявлена Нерентабельной в глазах
     { "[head=2][italic] Нашей Великой и Славной [color=blue]Nanotrasen[/color][/head]" }
-    То вы обязаны организовать поставку золотых слитков стандартна [color=blue]нт[/color] в стопках образца [color=blue]Нт[/color] в торговый пост вашей станции в течение 5 Стандартных рабочих [color=blue]нТ[/color] смен.
+    То вы обязаны организовать поставку золотых слитков стандартна [color=blue]nt[/color] в стопках образца [color=blue]Nt[/color] в торговый пост вашей станции в течение 5 Стандартных рабочих [color=blue]нТ[/color] смен.
 
     { "[head=2][color=red]ИГНОРИРОВАНИЕ ЭТОГО ПРИКАЗА ГРОЗИТ ВАМ КАРОЙ ОТ [color=green]ЦЕНТКО[/color]!!!!![/head][/color]" }
 delivery-spam-alternate-timeline =

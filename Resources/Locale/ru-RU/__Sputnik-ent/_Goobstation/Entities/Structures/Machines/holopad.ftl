@@ -1,5 +1,5 @@
 ent-HolopadCommandNTR = { ent-Holopad }
-    .suffix = Представитель НТ
+    .suffix = Представитель NT
     .desc = { ent-Holopad.desc }
 ent-HolopadCommandBSO = { ent-Holopad }
     .suffix = БСО
