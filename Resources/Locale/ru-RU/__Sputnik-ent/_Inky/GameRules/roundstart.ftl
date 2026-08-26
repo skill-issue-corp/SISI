@@ -1,2 +1,2 @@
-ent-Werewolf = { ent-BaseGameRule }
+ent-BaseWerewolfRule = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
