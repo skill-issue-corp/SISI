@@ -1,4 +1,5 @@
-gases-bz = Би-Зет
-gases-healium = Хилиум
-gases-nitrium = Нитриум
-gases-pluoxium = Плюоксиум
+gas-bz = Би-Зет
+gas-healium = Хилиум
+gas-nitrium = Нитриум
+gas-pluoxium = Плюоксиум
+
