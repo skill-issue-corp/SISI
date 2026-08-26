@@ -1,15 +1,17 @@
-- type: guideEntry
-  id: DefaultRuleset
-  name: guide-entry-rules
-  priority: 60
-  text: "/ServerInfo/_Trauma/Guidebook/ServerRules/Rules.xml"
-  children:
-  - CoreRules
-  - RoleplayRules
-  - SpecificRules
-  - RoleTypes
-  - BanTypes
-  - BanDurations
+# SIS-Start
+# - type: guideEntry
+#   id: DefaultRuleset
+#   name: guide-entry-rules
+#   priority: 60
+#   text: "/ServerInfo/_Trauma/Guidebook/ServerRules/Rules.xml"
+#   children:
+#   - CoreRules
+#   - RoleplayRules
+#   - SpecificRules
+#   - RoleTypes
+#   - BanTypes
+#   - BanDurations
+# SIS-End
 
 - type: guideEntry
   id: RoleTypes
