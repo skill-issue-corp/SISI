@@ -8,11 +8,11 @@ ent-AirlockCentralCommandCommandGlassLocked = { ent-AirlockCentralCommandGlass }
 
 ent-AirlockCommandCommandLocked = { ent-AirlockCommand }
     .desc = { ent-AirlockCommand.desc }
-    .suffix = ЦентКомКеп, Закрыт
+    .suffix = ЦентКомКэп, Закрыт
 
 ent-AirlockCommandCommandGlassLocked = { ent-AirlockCommandGlass }
     .desc = { ent-AirlockCommandGlass.desc }
-    .suffix = ЦентКомКеп, Закрыт
+    .suffix = ЦентКомКэп, Закрыт
 
 ent-AirlockNanotrasenRepresentativeCommandLocked = { ent-AirlockCentralCommand }
     .desc = { ent-AirlockCentralCommand.desc }
