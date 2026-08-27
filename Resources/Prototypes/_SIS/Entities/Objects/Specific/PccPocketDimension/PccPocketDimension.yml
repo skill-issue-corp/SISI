@@ -1,0 +1,58 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: entity
+  parent: PottedPlantBase
+  id: PccDimensionPot
+  name: загадочный камин
+  description: Старый кирпичный камин. Кажется, его пламя ведет в совершенно другое место.
+  suffix: Dimension
+  categories: [ DoNotMap ]
+  components:
+  - type: Anchorable
+  - type: Sprite
+    sprite: Structures/Decoration/fireplace.rsi
+    layers:
+      - state: fireplace
+      - state: fireplacefestive
+        map: ["christmas"]
+        visible: false
+      - state: fireplace_fire4
+        shader: unshaded
+      - state: fireplace_glow
+        shader: unshaded
+  - type: PocketDimension
+    pocketDimensionPath: /Maps/_SIS/pcc-pocket-dimension.yml
+  # no (easily) deleting items with it
+  - type: Destructible
+    thresholds: []
+  # nuh uh
+  - type: CargoSellBlacklist
+  - type: Portal
+    canTeleportToOtherMaps: true
+    randomTeleport: false
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeCircle
+          radius: 0.1
+        density: 190
+        mask:
+        - HighImpassable
+      portalFixture:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.25,-0.48,0.25,0.48"
+        mask:
+        - FullTileMask
+        layer:
+        - WallLayer
+        hard: false
+
+- type: entity
+  parent: PortalBlue
+  id: DimensionPotExitPortal
+  suffix: Dimension pot exit
+  components:
+  - type: Portal
+    canTeleportToOtherMaps: true # or else you cant leave
