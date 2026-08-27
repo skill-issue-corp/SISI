@@ -340,7 +340,7 @@
   - ScienceHoP
   restockTime: 0
   resetRestockOnPurchase: true
-  restockAfterPurchase: 60
+  restockAfterPurchase: 600 # SIS
 
 # Cargo
 
