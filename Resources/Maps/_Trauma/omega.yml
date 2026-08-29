@@ -69945,7 +69945,7 @@ entities:
       parent: 2
       pos: 26.5,-19.5
     - type: RotaryPhoneHolder
-      name: Нр
+      name: НР
   - uid: 10772
     components:
     - type: Transform
@@ -69966,7 +69966,7 @@ entities:
       parent: 2
       pos: 8.5,29.5
     - type: RotaryPhoneHolder
-      name: Гп
+      name: ГП
   - uid: 10775
     components:
     - type: Transform
@@ -69980,14 +69980,14 @@ entities:
       parent: 2
       pos: 11.5,48.5
     - type: RotaryPhoneHolder
-      name: Ии
+      name: ИИ
   - uid: 10777
     components:
     - type: Transform
       parent: 2
       pos: -49.5,-8.5
     - type: RotaryPhoneHolder
-      name: Си
+      name: СИ
 - proto: RotaryPhoneStandEngineering
   entities:
   - uid: 10778
@@ -70042,7 +70042,7 @@ entities:
       rot: 1.5707963267948966 rad
       pos: 13.5,26.5
     - type: RotaryPhoneHolder
-      name: Карго
+      name: Отдел снабжения
 - proto: RotaryPhoneStandWallCommand
   entities:
   - uid: 10783
@@ -70052,7 +70052,7 @@ entities:
       rot: 3.141592653589793 rad
       pos: -25.5,-29.5
     - type: RotaryPhoneHolder
-      name: Гв
+      name: ГВ
   - uid: 10784
     components:
     - type: Transform
@@ -70067,7 +70067,7 @@ entities:
       rot: 1.5707963267948966 rad
       pos: 14.5,29.5
     - type: RotaryPhoneHolder
-      name: Км
+      name: КМ
 - proto: RotaryPhoneStandWallEngineering
   entities:
   - uid: 10786
@@ -70076,7 +70076,7 @@ entities:
       parent: 2
       pos: -40.5,6.5
     - type: RotaryPhoneHolder
-      name: Атмос
+      name: Атмосферный отсек
 - proto: RotaryPhoneStandWallMedical
   entities:
   - uid: 10787
@@ -70103,7 +70103,7 @@ entities:
       rot: 3.141592653589793 rad
       pos: 11.5,-22.5
     - type: RotaryPhoneHolder
-      name: РНД
+      name: НИО
 - proto: RotaryPhoneStandWallSecurity
   entities:
   - uid: 10790
@@ -70129,7 +70129,7 @@ entities:
       parent: 2
       pos: -22.5,-34.5
     - type: RotaryPhoneHolder
-      name: Церковь
+      name: Храм
   - uid: 10793
     components:
     - type: Transform
