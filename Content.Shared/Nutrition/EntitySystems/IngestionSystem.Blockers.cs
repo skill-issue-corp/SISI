@@ -8,6 +8,7 @@ using Content.Shared.Inventory;
 using Content.Shared.Nutrition.Components;
 using Content.Shared.Storage;
 using Content.Shared.Weapons.Ranged.Systems;
+using Content.SIS.Common.Animal; // SIS
 
 namespace Content.Shared.Nutrition.EntitySystems;
 
@@ -84,6 +85,10 @@ public sealed partial class IngestionSystem
             args.Cancelled = true;
 
             _popup.PopupClient(Loc.GetString("ingestion-try-use-is-empty", ("entity", entity)), entity, args.User);
+            // SIS-start
+            var ev = new EntEatIt();
+            RaiseLocalEvent(args.User, ref ev);
+            // SIS-end
             return;
         }
 
