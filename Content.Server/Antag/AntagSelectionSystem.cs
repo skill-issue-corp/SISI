@@ -35,6 +35,8 @@ using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
 using Robust.Shared.Utility;
 using static Content.Server.Antag.Components.AntagSelectionTime;
+// SIS
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Server.Antag;
 
@@ -71,6 +73,7 @@ public sealed partial class AntagSelectionSystem : GameRuleSystem<AntagSelection
     [Dependency] private PlayTimeTrackingSystem _playTime = default!;
     [Dependency] private RoleSystem _role = default!;
     [Dependency] private TransformSystem _transform = default!;
+    [Dependency] private GreetingSystem _chatBriefing = default!; // SIS-ChatBriefing
 
     // arbitrary random number to give late joining some mild interest.
     public const float LateJoinRandomChance = 0.5f;
@@ -806,7 +809,7 @@ public sealed partial class AntagSelectionSystem : GameRuleSystem<AntagSelection
         Log.Debug($"Assigned {ToPrettyString(antag):target}, mind {ToPrettyString(mind):target} as antagonist: {ToPrettyString(gameRule):user}");
         _adminLogger.Add(LogType.AntagSelection, $"Assigned {ToPrettyString(antag):target}, mind {ToPrettyString(mind):target} as antagonist: {ToPrettyString(gameRule):user}");
 
-        SendBriefing(player, prototype.Briefing);
+        SendBriefing(player, prototype.Briefing, prototype.Briefing?.Sound); // SIS-ChatGreeting
 
         var afterEv = new AfterAntagEntitySelectedEvent(player, antag, gameRule, prototype);
         RaiseLocalEvent(gameRule, ref afterEv, true);

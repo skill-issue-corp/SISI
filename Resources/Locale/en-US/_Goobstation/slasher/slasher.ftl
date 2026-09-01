@@ -1,4 +1,15 @@
-slasher-role-greeting = You feel an unstoppable urge for vengeance... and synth music. The night is young, the fog is thick, and your machete gleams in the neon starlight. Time to show these spacemen why you're the legend of the midnight massacre!
+# SIS-Start
+## --- Slasher Greeting ---
+slasher-role-greeting =
+    В ваших наушниках играет [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]мрачный, тягучий бас[/gradient], а мачете блестит в сыром полумраке.
+    Для экипажа это обычная смена, но для вас — идеальный вечер. Врубайте любимый плейлист и покажите им, что из техотсеков [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]живыми не возвращаются[/gradient].
+
+slasher-role-greeting-desc =
+    • [color={$hl1}]Никаких пушек:[/color] огнестрел — для слабаков. Вы орудуете мачете и призываете мясные крюки из пола.
+    • [color={$hl1}]Тень:[/color] вы можете растворяться в воздухе и проходить сквозь стены, [color={$hl1}]пока за вами никто не наблюдает[/color].
+    • [color={$hl1}]Питание душами:[/color] высасывайте жизненные силы из поверженных жертв для регенерации и открытия способности [color={$hl1}]одержимости[/color].
+    • [color={$hl1}]Бойня:[/color] активируйте режим неистовства и [gradient color1="{$hl1}" color2="{$hl2}" speed="1.5"]рубите экипаж на куски[/gradient]!
+# SIS-End
 
 ghost-role-information-slasher-name = Slasher
 ghost-role-information-slasher-description = Slaughter and terrorize the living as the Slasher!

@@ -4,15 +4,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
+# SIS-Start
+## --- Pirate Greeting ---
 antag-pirate-briefing =
-    The station refused to pay for your protection!
+    Станция нагло отказалась платить за вашу «защиту».
+    Вы - [gradient color1="{$hl1}" color2="{$hl2}" speed="0.8"]Капитан космических корсаров[/gradient]. Пора взять своё силой, разграбить отсеки и выкачать всю казну снабжения до последнего кредита!
 
-    You must raid the station for valuables. Once you've gathered enough, sell it on your cargo pallet and insert the credits into the Data Siphon located on your ship.
-    Get as much loot as possible!
-
-    By activating the Data Siphon you will start draining the cargo department from their credits.
-    Beware, this will anchor your ship, alert and anger the entire crew, so get ready for a big fight!
-
+antag-pirate-briefing-desc =
+    • [color={$hl1}]Абордаж и Налёт:[/color] высаживайтесь на станцию и тащите на корабль всё ценное: от электроники и оружия до ящиков снабжения.
+    • [color={$hl1}]Грузовой поддон:[/color] продавайте награбленный лут через поддон на своем корабле и заряжайте банк данных кредитами.
+    • [color={$hl1}]Сифон Данных (Опасно):[/color] активация сифона начнёт выкачивать бюджет станции, но [gradient color1="{$hl1}" color2="{$hl2}" speed="0.8"]намертво заякорит ваш корабль[/gradient] и поднимет тревогу всего экипажа!
+# Sis-End
 antag-pirate-briefing-short =
     You are a pirate.
     Protect the ship, siphon the credits from the station, and raid it for even more loot!

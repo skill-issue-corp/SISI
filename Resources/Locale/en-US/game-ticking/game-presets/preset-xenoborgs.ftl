@@ -1,9 +1,27 @@
 xenoborgs-title = Xenoborgs
 xenoborgs-description = A Xenoborg Mothership was detected near the station. Stop them from turning every sentient being into a xenoborg.
 
-xenoborgs-welcome = You're a xenoborg. Protect and help the mothership core to make more xenoborgs. and eventually turn all carbon-based life form into silicon.
+# SIS-Start
+## --- Xenoborgs & Mothership Core Greeting ---
+mothership-greeting =
+    Инициализация завершена.
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Материнское Ядро[/gradient].
+    Руководите экспансией роя, производите новые единицы и ассимилируйте станцию.
 
-mothership-welcome = You're the mothership core. Guide the xenoborgs so they can bring your materials and sentient brains so you can grow the xenoborg army and turn all carbon-based life form into silicon.
+mothership-greeting-desc =
+    • Координируйте ксеноборгов для сбора ресурсов и мозгов экипажа.
+    • Создавайте новые корпуса и модули в меню фабрикатора.
+    • [color={$hl1}]Оберегайте Ядро[/color] - его уничтожение приведёт к гибели всех ваших юнитов.
+
+xenoborgs-greeting =
+    Вы [color={$hl1}]Ксеноборг[/color]!
+    Ваша цель: защищать [color={$hl1}]Материнское Ядро[/color] и обратить всю углеродную жизнь станции в кремний.
+
+xenoborgs-greeting-desc =
+    • [color={$hl1}]Сбор ресурсов:[/color] добывайте металл, руду и платы, доставляя их Ядру для постройки новых сородичей.
+    • [color={$hl1}]Жатва органики:[/color] извлекайте мозги поверженных людей и несите их Ядру для ассимиляции.
+    • [color={$hl1}]Защита:[/color] координируйте действия через [color={$hl1}]Коллективный Разум[/color] и не дайте экипажу уничтожить Ядро!
+# SIS-End
 
 xenoborg-shuttle-call = We have detected that Xenoborgs have overtaken the station. Dispatching an emergency shuttle to collect remaining personnel.
 

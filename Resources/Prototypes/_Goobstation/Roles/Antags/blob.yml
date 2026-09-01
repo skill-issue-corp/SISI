@@ -18,8 +18,28 @@
   prefRoles: [ Blob ]
   allowNonHumans: true
   briefing:
-    text: blob-carrier-role-greeting
-    color: Plum
     sound: /Audio/Announcements/bloblarm.ogg
+    # SIS-ChatGreeting-Start
+    theme:
+      titleBackground: "#1e2410"
+      titleBorder: "#a3e635"
+      messageBackground: "#0f1308"
+      messageBorder: "#2b3815"
+      titleText: "#facc15"
+      messageText: "#d9f99d"
+      highlight1: "#a3e635"
+      highlight2: "#f97316"
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: blob-carrier-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: blob-carrier-role-greeting-desc
+    # SIS-ChatGreeting-End
   mindRoles:
   - MindRoleBlob

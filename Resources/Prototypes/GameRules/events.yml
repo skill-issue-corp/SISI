@@ -256,6 +256,7 @@
     maxOccurrences: 1 # Goobstation
     minimumPlayers: 30
   - type: SpaceSpawnRule
+  - type: NinjaRule # SIS-ChatGreeting
   - type: AntagGhostCharacterRule # Trauma - use ghost character instead of AntagLoadProfileRule
   - type: AntagObjectives
     objectives:

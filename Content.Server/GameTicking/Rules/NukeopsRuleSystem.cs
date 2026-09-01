@@ -46,6 +46,9 @@ using Robust.Shared.Utility;
 using System.Data;
 using System.Linq;
 using System.Text;
+// SIS
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Server.GameTicking.Rules;
 
@@ -605,16 +608,31 @@ public sealed partial class NukeopsRuleSystem : GameRuleSystem<NukeopsRuleCompon
         nukeops.RoundEndBehavior = RoundEndBehavior.Nothing;
     }
 
+    // SIS-ChatGreeting-Start
+    private GreetingEntry MakeChatBriefingEntry(NukeopsRuleComponent comp, string targetStation, string teamName, AntagSpecifierPrototype proto)
+    {
+        var theme = proto.Briefing?.Theme ?? new GreetingTheme();
+        var entry = new GreetingEntry { Theme = theme };
+
+        var hl1 = theme.MessageHighlightFirstColor ?? theme.HighlightFirstColor ?? theme.HighlightColor ?? Color.Orange;
+        var hl2 = theme.MessageHighlightSecondColor ?? theme.HighlightSecondColor ?? hl1;
+
+        var title = Loc.GetString($"{comp.LocalePrefix}role-greeting", ("station", targetStation), ("name", teamName), ("hl1", hl1), ("hl2", hl2));
+        var desc = Loc.GetString($"{comp.LocalePrefix}role-greeting-desc", ("hl1", hl1), ("hl2", hl2));
+
+        entry.AddSection(Loc.GetString("role-greeting-title"), title, 0);
+        entry.AddSection(Loc.GetString("role-greeting-desc-title"), desc, 1);
+
+        return entry;
+    }
+    // SIS-ChatGreeting-End
+
     private void OnAfterAntagEntSelected(Entity<NukeopsRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
     {
         var target = (ent.Comp.TargetStation is not null) ? Name(ent.Comp.TargetStation.Value) : "the target";
 
-        _antag.SendBriefing(args.Session,
-            Loc.GetString($"{ent.Comp.LocalePrefix}welcome",
-                ("station", target),
-                ("name", Name(ent))),
-            Color.Red,
-            ent.Comp.GreetSoundNotification);
+        var entry = MakeChatBriefingEntry(ent.Comp, target, Name(ent), args.Def);
+        _antag.SendBriefing(args.Session, entry, ent.Comp.GreetSoundNotification);
     }
 
     private void OnGetBriefing(Entity<NukeopsRoleComponent> role, ref GetBriefingEvent args)

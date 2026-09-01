@@ -22,6 +22,29 @@
   parent: RestrictedAntag
   id: CosmicCultist
   jobBlacklist: [ Chaplain ]
+  # SIS-ChatGreeting-Start
+  briefing:
+    theme:
+      titleBackground: "#102226"
+      titleBorder: "#4cabb3"
+      messageBackground: "#081214"
+      messageBorder: "#1e3b40"
+      titleText: "#e0f2fe"
+      messageText: "#94a3b8"
+      highlight1: "#00f2fe"
+      highlight2: "#a855f7"
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: cosmiccult-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: cosmiccult-role-greeting-desc
+  # SIS-ChatGreeting-End
   components:
   - type: CosmicCult
   prefRoles: [ CosmicAntagCultist ]

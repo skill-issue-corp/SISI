@@ -17,5 +17,25 @@
   prefRoles: [ Xenomorph ]
   spawnerPrototype: SpawnPointGhostXenomorph
   briefing:
-    text: xenomorph-role-greeting
-    color: "#8c3986"
+    # SIS-ChatGreeting-Start
+    theme:
+      titleBackground: "#190e1c"
+      titleBorder: "#8c3986"
+      messageBackground: "#0d070f"
+      messageBorder: "#331538"
+      titleText: "#d680d0"
+      messageText: "#e4d4e6"
+      highlight1: "#e4d4e6"
+      highlight2: "#8c3986"
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: xenomorph-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: xenomorph-role-greeting-desc
+    # SIS-ChatGreeting-End

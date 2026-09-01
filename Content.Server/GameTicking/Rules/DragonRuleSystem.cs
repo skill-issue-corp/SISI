@@ -6,6 +6,9 @@ using Content.Server.Station.Systems;
 using Content.Shared.Localizations;
 using Content.Shared.Roles.Components;
 using Robust.Server.GameObjects;
+// SIS
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Server.GameTicking.Rules;
 
@@ -32,7 +35,9 @@ public sealed partial class DragonRuleSystem : GameRuleSystem<DragonRuleComponen
         if(ent is null)
             return;
 
-        args.Append(MakeBriefing(ent.Value));
+        // SIS-ChatGreeting
+        var direction = GetDirectionToStation(ent.Value);
+        args.Append(Loc.GetString("dragon-role-briefing", ("direction", direction)));
     }
 
     private void AfterAntagEntitySelected(Entity<DragonRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
@@ -45,13 +50,31 @@ public sealed partial class DragonRuleSystem : GameRuleSystem<DragonRuleComponen
         if(dragonRole is null)
             return;
 
-        _antag.SendBriefing(args.EntityUid, MakeBriefing(args.EntityUid), null, null);
+        _antag.SendBriefing(args.EntityUid, MakeGreeting(args.EntityUid, args.Def)); // SIS-ChatGreeting
     }
 
-    private string MakeBriefing(EntityUid dragon)
+    // SIS-ChatGreeting-Start
+    private GreetingEntry MakeGreeting(EntityUid dragon, AntagSpecifierPrototype proto)
     {
-        var direction = string.Empty;
+        var theme = proto.Briefing?.Theme ?? new GreetingTheme();
+        var entry = new GreetingEntry { Theme = theme };
 
+        var hl1 = theme.MessageHighlightFirstColor ?? theme.HighlightFirstColor ?? theme.HighlightColor ?? Color.Orange;
+        var hl2 = theme.MessageHighlightSecondColor ?? theme.HighlightSecondColor  ?? hl1;
+
+        var direction = GetDirectionToStation(dragon);
+
+        var greetingText = Loc.GetString("dragon-role-greeting", ("direction", direction), ("hl1", hl1), ("hl2", hl2));
+        var descText = Loc.GetString("dragon-role-desc", ("hl1", hl1), ("hl2", hl2));
+
+        entry.AddSection(Loc.GetString("role-greeting-title"), greetingText, 0);
+        entry.AddSection(Loc.GetString("role-greeting-desc-title"), descText, 1);
+
+        return entry;
+    }
+
+    private string GetDirectionToStation(EntityUid dragon)
+    {
         var dragonXform = Transform(dragon);
 
         EntityUid? stationGrid = null;
@@ -60,15 +83,14 @@ public sealed partial class DragonRuleSystem : GameRuleSystem<DragonRuleComponen
 
         if (stationGrid is not null)
         {
-            var stationPosition = _transform.GetWorldPosition((EntityUid)stationGrid);
+            var stationPosition = _transform.GetWorldPosition(stationGrid.Value);
             var dragonPosition = _transform.GetWorldPosition(dragon);
 
             var vectorToStation = stationPosition - dragonPosition;
-            direction = ContentLocalizationManager.FormatDirection(vectorToStation.GetDir());
+            return ContentLocalizationManager.FormatDirection(vectorToStation.GetDir());
         }
 
-        var briefing = Loc.GetString("dragon-role-briefing", ("direction", direction));
-
-        return briefing;
+        return Loc.GetString("generic-unknown-title");
     }
+    // SIS-ChatGreeting-End
 }

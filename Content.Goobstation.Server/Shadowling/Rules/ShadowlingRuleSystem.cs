@@ -98,9 +98,10 @@ public sealed partial class ShadowlingRuleSystem : GameRuleSystem<ShadowlingRule
         _npc.RemoveFaction(target, _nanotrasenFactionId, false);
         _npc.AddFaction(target, _shadowlingFactionId);
 
-        var briefing = Loc.GetString("shadowling-role-greeting");
-
-        _antag.SendBriefing(target, briefing, Color.MediumPurple, _briefingSound);
+        // SIS-ChatGreeting
+        // var briefing = Loc.GetString("shadowling-role-greeting");
+        //
+        // _antag.SendBriefing(target, briefing, Color.MediumPurple, _briefingSound);
 
         EnsureComp<ZombieImmuneComponent>(target);
         EnsureComp<ShadowlingComponent>(target);

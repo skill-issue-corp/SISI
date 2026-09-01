@@ -33,6 +33,9 @@ using Content.Trauma.Shared.Wizard.BindSoul;
 using Robust.Server.Audio;
 using Robust.Shared.Player;
 using Robust.Shared.Random;
+// SIS
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Trauma.Server.Wizard.Systems;
 
@@ -264,14 +267,26 @@ public sealed partial class WizardRuleSystem : GameRuleSystem<WizardRuleComponen
 
     private void OnAfterAntagSelected(Entity<WizardRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
     {
-        MakeWizard(args.EntityUid, ent.Comp);
+        MakeWizard(args.EntityUid, ent.Comp, args.Def); // SIS-ChatGreeting
     }
 
-    public bool MakeWizard(EntityUid target, WizardRuleComponent rule)
+    // SIS-ChatGreeting-Start
+    public bool MakeWizard(EntityUid target, WizardRuleComponent rule, AntagSpecifierPrototype proto)
     {
+        var theme = proto.Briefing?.Theme ?? new GreetingTheme();
         var station = (rule.TargetStation is not null) ? Name(rule.TargetStation.Value) : "the station";
 
-        _antag.SendBriefing(target, Loc.GetString("wizard-role-greeting", ("station", station)), Color.Cyan, null);
+        var hl1 = theme.MessageHighlightFirstColor ?? theme.HighlightFirstColor ?? theme.HighlightColor ?? Color.Orange;
+        var hl2 = theme.MessageHighlightSecondColor ?? theme.HighlightSecondColor  ?? hl1;
+
+        var greetingText = Loc.GetString("wizard-role-greeting", ("station", station), ("hl1", hl1), ("hl2", hl2));
+        var descText = Loc.GetString("wizard-role-greeting-desc", ("hl1", hl1), ("hl2", hl2));
+
+        var entry = new GreetingEntry { Theme = theme };
+        entry.AddSection(Loc.GetString("role-greeting-title"), greetingText, 0);
+        entry.AddSection(Loc.GetString("role-greeting-desc-title"), descText, 1);
+
+        _antag.SendBriefing(target, entry);
 
         if (!TryComp(target, out HumanoidProfileComponent? humanoid) || humanoid.Age >= 60)
             return true;
@@ -282,4 +297,5 @@ public sealed partial class WizardRuleSystem : GameRuleSystem<WizardRuleComponen
 
         return true;
     }
+    // SIS-ChatGreeting-End
 }

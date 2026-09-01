@@ -24,9 +24,28 @@
     - ZombieImmune
     - AntagImmune
   briefing:
-    text: zombie-patientzero-role-greeting
-    color: Plum
     sound: "/Audio/Ambience/Antag/zombie_start.ogg"
+    # SIS-ChatGreeting-Start
+    theme:
+      titleBackground: "#2a162b"
+      titleBorder: DarkOrchid
+      messageBackground: "#180d1a"
+      messageBorder: "#38163b"
+      titleText: "#ffffff"
+      messageText: Plum
+      highlight: "#00FF7F"
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: zombie-patientzero-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: zombie-patientzero-role-greeting-desc
+    # SIS-ChatGreeting-End
   components:
   - type: PendingZombie #less time to prepare than normal
     minInitialInfectedGrace: 300

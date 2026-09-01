@@ -11,6 +11,9 @@ using Content.Shared.Examine;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Overlays;
 using Content.Trauma.Common.CollectiveMind;
+// SIS
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Goobstation.Server.Shadowling.Systems;
 
@@ -23,6 +26,11 @@ public sealed partial class ShadowlingThrallSystem : EntitySystem
     [Dependency] private MindSystem _mind = default!;
     [Dependency] private RoleSystem _roles = default!;
     [Dependency] private ShadowlingSystem _shadowling = default!;
+    // SIS
+    [Dependency] private IPrototypeManager _proto = default!;
+
+    private static readonly ProtoId<AntagSpecifierPrototype> ShadowlingAntag = "Shadowling"; // SIS-ChatGreeting
+
     public override void Initialize()
     {
         base.Initialize();
@@ -44,7 +52,22 @@ public sealed partial class ShadowlingThrallSystem : EntitySystem
 
         EnsureComp<CollectiveMindComponent>(uid).Channels.Add(ShadowMind);
 
-        _antag.SendBriefing(uid, Loc.GetString("thrall-role-greeting"), Color.MediumPurple, component.ThrallConverted);
+        // SIS-ChatGreeting-Start
+        var proto = _proto.Index(ShadowlingAntag);
+        var theme = proto.Briefing?.Theme ?? new GreetingTheme();
+        var entry = new GreetingEntry { Theme = theme };
+
+        var hl1 = theme.MessageHighlightFirstColor ?? theme.HighlightFirstColor ?? theme.HighlightColor ?? Color.Orange;
+        var hl2 = theme.MessageHighlightSecondColor ?? theme.HighlightSecondColor  ?? hl1;
+
+        var greetingText = Loc.GetString("thrall-role-greeting", ("hl1", hl1), ("hl2", hl2));
+        var descText = Loc.GetString("thrall-role-greeting-desc", ("hl1", hl1), ("hl2", hl2));
+
+        entry.AddSection(Loc.GetString("role-greeting-title"), greetingText, 0);
+        entry.AddSection(Loc.GetString("role-greeting-desc-title"), descText, 1);
+
+        _antag.SendBriefing(uid, entry, component.ThrallConverted);
+        // SIS-ChatGreeting-End
     }
 
     private void OnRemove(EntityUid uid, ThrallComponent component, ComponentShutdown args)

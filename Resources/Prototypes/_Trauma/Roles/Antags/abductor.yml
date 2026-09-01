@@ -5,9 +5,29 @@
   id: BaseAbductor
   unequipOldGear: true
   briefing:
-    text: abductor-role-greeting
-    color: Green
     sound: /Audio/_Shitmed/Misc/abductor.ogg
+    # SIS-ChatGreeting-Start
+    theme:
+      titleBackground: "#100d1c"
+      titleBorder: "#fd0098"
+      messageBackground: "#07050d"
+      messageBorder: "#2c1236"
+      titleText: "#f472b6"
+      messageText: "#c8d6e5"
+      highlight1: "#00ffcc"
+      highlight2: "#fd0098"
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: abductor-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: abductor-role-greeting-desc
+    # SIS-ChatGreeting-End
   components:
   - type: Abductor
   - type: ActionGrant
@@ -85,7 +105,25 @@
   id: AbductorVictim
   mindRoles: [ MindRoleAbductorVictim ]
   briefing:
-    text: abductor-victim-role-greeting
-    color: Red
     sound: /Audio/_Shitmed/Misc/abducted.ogg
+    theme:
+      titleBackground: "#19140d"   # Грязный сепиевый фон
+      titleBorder: "#e67e22"       # Тревожный янтарный сигнал паники
+      messageBackground: "#0c0906" # Параноидальная тьма
+      messageBorder: "#362412"     # Ржавый контур
+      titleText: "#facc15"         # Жёлтая паника (НЕ БЕЛЫЙ)
+      messageText: "#ded3c2"       # Мятый пергамент конспиролога (НЕ БЕЛЫЙ)
+      highlight1: "#facc15"        # Параноидальный жёлтый (hl1)
+      highlight2: "#fd0098"        # Маджента Голосов в голове (hl2)
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: abductor-victim-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: abductor-victim-role-greeting-desc
   pickPlayer: false # manually assigned

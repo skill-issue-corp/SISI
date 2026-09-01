@@ -21,9 +21,18 @@
   roleLoadout:
   - RoleSurvivalSpaceNinja
   briefing:
-    text: ninja-role-greeting
-    color: Green
     sound: /Audio/Misc/ninja_greeting.ogg
+    # SIS-ChatGreeting-Start
+    theme:
+      titleBackground: "#0d1410"
+      titleBorder: "#00ff66"
+      messageBackground: "#060a08"
+      messageBorder: "#193826"
+      titleText: "#55efc4"
+      messageText: "#c8d6cb"
+      highlight1: "#00ff66"
+      highlight2: "#00d2d3"
+    # SIS-ChatGreeting-End
   components:
   - type: SpaceNinja
   - type: NpcFactionMember

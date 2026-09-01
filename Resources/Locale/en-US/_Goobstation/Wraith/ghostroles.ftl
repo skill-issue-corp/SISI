@@ -4,9 +4,15 @@ ghost-role-information-wraith-rules =  You are a [color=red]Solo Antagonist[/col
 
 wraith-round-end-agent-name = Wraith
 
+# SIS-Start
+## --- Wraith Greeting ---
 wraith-role-greeting =
-    You are the [color=red]Wraith[/color], a vengeful spirit taken from the Void. Angry and confused, killing is the only thing you remember how to do.
-    Your actions permit you to turn their own station against them. Possess objects, haunt the crew, and use their corpses as fuel for your soul to evolve into an even stronger spirit.
-    Your weakness is [color=white]salt[/color]. Walking over any form of salt will [color=darkred]cause you to become corporeal and unable to use your powers[/color]. Being caught in such a state will surely lead to your swift demise.
-    As a spirit, however, you are capable of surviving banishment once. It will leave you severely weakened, but will allow you to slowly regain your forces to enact your revenge.
-    Fear the chaplain, as they are immune to most of your actions, and can even purge the effects of your powers from others. Absorbing their corpse would surely be satisfying...
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Фантом[/gradient], мстительный астральный дух, вырванный из глубин Пустоты!
+    Ваш разум пылает ненавистью. Превратите станцию в могильник, стравите экипаж и отомстите живым за своё заточение.
+
+wraith-role-greeting-desc =
+    • [color={$hl1}]Пожирание и Эволюция:[/color] охотьтесь на людей и [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]поглощайте их трупы[/gradient], насыщая душу эктоплазмой для эволюции в высшие формы духа.
+    • [color={$hl1}]Смертоносная Соль:[/color] прохождение через соль [color={$hl1}]лишит вас сил и сделает материальным[/color] — в этом состоянии вас легко уничтожить!
+    • [color={$hl1}]Изгнание:[/color] астральная природа позволяет вам [color={$hl1}]пережить одно изгнание[/color], после чего потребуется время на регенерацию.
+    • [color={$hl1}]Священник:[/color] служитель церкви невосприимчив к вашим чарам и рассеивает вашу силу. Избегайте его или разорвите первым!
+# SIS-End

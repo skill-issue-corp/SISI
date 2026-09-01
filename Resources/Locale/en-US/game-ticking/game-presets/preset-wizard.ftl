@@ -40,11 +40,21 @@ wizard-description = There's a Wizard on the station! You never know what they m
 roles-antag-wizard-name = Wizard
 roles-antag-wizard-objective = Teach them a lesson they'll never forget.
 
+# SIS-Start
+## --- Wizard Greeting ---
 wizard-role-greeting =
-    It's wizard time, fireball!
-    There's been tensions between the Space Wizards Federation and NanoTrasen. You've been selected by the Space Wizards Federation to pay a visit to the station and "remind them" why spellcasters are not to be trifled with.
-    Cause mayhem and destruction! What you do is up to you, but remember that the Space Wizards want you to make it out alive.
+    {"["}gradient angle="45" color1="{$hl1}" color2="{$hl2}" speed="1"]Время магии, ублюдки![/gradient]
+    Отношения между [color={$hl1}]Федерацией Космических Магов[/color] и [color={$hl1}]NanoTrasen[/color] накалились до предела.
 
+    Совет поручил именно вам нанести визит на станцию [color={$hl1}]{ $station }[/color], дабы напомнить этим бюрократам, почему с чародеями шутки плохи.
+
+    {"["}gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]Сейте чистый астральный хаос и разрушение.[/gradient]
+
+wizard-role-greeting-desc =
+    • [color={$hl1}]Гримуар заклинаний:[/color] волшебная книга в ваших руках. Изучайте разрушительные чары, метайте молнии и искривляйте пространство.
+    • [color={$hl1}]Свобода хаоса:[/color] обратите станцию в пепелище или устройте безумный цирк — ваш арсенал ограничен лишь запасом маны и фантазией.
+    • [color={$hl1}]Главный наказ:[/color] Совет ожидает вашего триумфального возвращения. Разнесите этот сектор, но [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]вернитесь назад живым[/gradient]!
+# SIS-End
 wizard-round-end-name = wizard
 
 ## TODO: Wizard Apprentice (Coming sometime post-wizard release)

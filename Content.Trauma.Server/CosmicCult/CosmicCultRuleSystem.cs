@@ -51,6 +51,9 @@ using Robust.Shared.Enums;
 using Robust.Shared.Player;
 using Robust.Shared.Random;
 using Robust.Shared.Timing;
+// SIS
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Trauma.Server.CosmicCult;
 
@@ -81,11 +84,15 @@ public sealed partial class CosmicCultRuleSystem : GameRuleSystem<CosmicCultRule
     [Dependency] private SharedUserInterfaceSystem _ui = default!;
     [Dependency] private RottingSystem _rotting = default!;
     [Dependency] private RejuvenateSystem _rejuvenate = default!;
+    // SIS
+    [Dependency] private IPrototypeManager _proto = default!;
 
     private readonly SoundSpecifier _briefingSound = new SoundPathSpecifier("/Audio/_DV/CosmicCult/antag_cosmic_briefing.ogg");
     private readonly SoundSpecifier _deconvertSound = new SoundPathSpecifier("/Audio/_DV/CosmicCult/antag_cosmic_deconvert.ogg");
     private readonly SoundSpecifier _tier3Sound = new SoundPathSpecifier("/Audio/_DV/CosmicCult/tier3.ogg");
     private readonly SoundSpecifier _tier1Sound = new SoundPathSpecifier("/Audio/_DV/CosmicCult/tier1.ogg");
+
+    private readonly ProtoId<AntagSpecifierPrototype> CosmicCultistAntag = "CosmicCultist"; // SIS-ChatGreeting
 
     public override void Initialize()
     {
@@ -388,9 +395,6 @@ public sealed partial class CosmicCultRuleSystem : GameRuleSystem<CosmicCultRule
             _role.MindAddRole(mindId, "MindRoleCosmicCult", mind, true); // It applies twice for some reason?
         _role.MindHasRole<CosmicCultRoleComponent>(mindId, out var cosmicRole);
 
-        _antag.SendBriefing(uid, Loc.GetString("cosmiccult-role-roundstart-fluff"), Color.FromHex("#4cabb3"), _briefingSound);
-        _antag.SendBriefing(uid, Loc.GetString("cosmiccult-role-short-briefing"), Color.FromHex("#cae8e8"), null);
-
         var transmitter = EnsureComp<IntrinsicRadioTransmitterComponent>(uid);
         var radio = EnsureComp<ActiveRadioComponent>(uid);
         radio.Channels.Add("CosmicRadio");
@@ -462,8 +466,22 @@ public sealed partial class CosmicCultRuleSystem : GameRuleSystem<CosmicCultRule
         if (!_player.TryGetSessionById(mind.UserId, out var session))
             return;
 
-        _antag.SendBriefing(session, Loc.GetString("cosmiccult-role-conversion-fluff"), Color.FromHex("#4cabb3"), _briefingSound);
-        _antag.SendBriefing(uid, Loc.GetString("cosmiccult-role-conversion-briefing"), Color.FromHex("#cae8e8"), null);
+        // SIS-ChatGreeting-Start
+        var proto = _proto.Index(CosmicCultistAntag);
+        var theme = proto.Briefing?.Theme ?? new GreetingTheme();
+        var entry = new GreetingEntry { Theme = theme };
+
+        var hl1 = theme.MessageHighlightFirstColor ?? theme.HighlightFirstColor ?? theme.HighlightColor ?? Color.Orange;
+        var hl2 = theme.MessageHighlightSecondColor ?? theme.HighlightSecondColor  ?? hl1;
+
+        var fluffText = Loc.GetString("cosmiccult-role-conversion-greeting-fluff", ("hl1", hl1), ("hl2", hl2));
+        var briefingText = Loc.GetString("cosmiccult-role-conversion-greeting", ("hl1", hl1), ("hl2", hl2));
+
+        entry.AddSection(Loc.GetString("role-greeting-title"), fluffText, 0);
+        entry.AddSection(Loc.GetString("role-greeting-desc-title"), briefingText, 1);
+
+        _antag.SendBriefing(session, entry, _briefingSound);
+        // SIS-ChatGreeting-End
 
         var cultComp = EnsureComp<CosmicLesserCultistComponent>(uid);
         TransferCultAssociation(converter, uid);

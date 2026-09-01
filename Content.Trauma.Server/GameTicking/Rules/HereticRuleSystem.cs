@@ -19,6 +19,9 @@ using Content.Trauma.Shared.Heretic.Systems;
 using Content.Trauma.Shared.Roles;
 using Robust.Server.GameObjects;
 using Robust.Shared.Audio;
+// SIS
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Trauma.Server.Heretic.Systems;
 
@@ -59,7 +62,7 @@ public sealed partial class HereticRuleSystem : GameRuleSystem<HereticRuleCompon
         if (uid == null)
             return;
 
-        var briefingShort = Loc.GetString("heretic-role-greeting-short");
+        var briefingShort = Loc.GetString("heretic-role-briefing"); // SIS-ChatGreeting
         args.Append(briefingShort);
     }
 
@@ -70,7 +73,7 @@ public sealed partial class HereticRuleSystem : GameRuleSystem<HereticRuleCompon
 
     private void OnAntagSelect(Entity<HereticRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
     {
-        TryMakeHeretic(args.EntityUid, ent.Comp);
+        TryMakeHeretic(args.EntityUid, ent.Comp, args.Def); // SIS-ChatGreeting
 
         SpawnInfluence(ent.Comp.RealityShiftPerHeretic);
     }
@@ -93,7 +96,8 @@ public sealed partial class HereticRuleSystem : GameRuleSystem<HereticRuleCompon
         }
     }
 
-    public bool TryMakeHeretic(EntityUid target, HereticRuleComponent rule)
+    // SIS-ChatGreeting-Start
+    public bool TryMakeHeretic(EntityUid target, HereticRuleComponent rule, AntagSpecifierPrototype proto)
     {
         if (!_mind.TryGetMind(target, out var mindId, out var mind))
             return false;
@@ -103,8 +107,19 @@ public sealed partial class HereticRuleSystem : GameRuleSystem<HereticRuleCompon
         // briefing
         if (HasComp<MetaDataComponent>(target))
         {
-            _antag.SendBriefing(target, Loc.GetString("heretic-role-greeting-fluff"), Color.MediumPurple, null);
-            _antag.SendBriefing(target, Loc.GetString("heretic-role-greeting"), Color.Red, BriefingSound);
+            var theme = proto.Briefing?.Theme ?? new GreetingTheme();
+            var entry = new GreetingEntry { Theme = theme };
+
+            var hl1 = theme.MessageHighlightFirstColor ?? theme.HighlightFirstColor ?? theme.HighlightColor ?? Color.Orange;
+            var hl2 = theme.MessageHighlightSecondColor ?? theme.HighlightSecondColor  ?? hl1;
+
+            var fluffText = Loc.GetString("heretic-role-greeting-fluff", ("hl1", hl1), ("hl2", hl2));
+            var greetingText = Loc.GetString("heretic-role-greeting", ("hl1", hl1), ("hl2", hl2));
+
+            entry.AddSection(Loc.GetString("role-greeting-title"), fluffText, 0);
+            entry.AddSection(Loc.GetString("role-greeting-desc-title"), greetingText, 1);
+
+            _antag.SendBriefing(target, entry, BriefingSound);
         }
 
         // add store
@@ -120,6 +135,7 @@ public sealed partial class HereticRuleSystem : GameRuleSystem<HereticRuleCompon
 
         return true;
     }
+    // SIS-ChatGreeting-End
 
     public StoreComponent InitializeStore(EntityUid mindId)
     {

@@ -16,6 +16,9 @@ using Robust.Shared.Random;
 using System.Linq;
 using System.Text;
 using Content.Server.Codewords;
+// SIS
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Server.GameTicking.Rules;
 
@@ -46,10 +49,10 @@ public sealed partial class TraitorRuleSystem : GameRuleSystem<TraitorRuleCompon
     private void AfterEntitySelected(Entity<TraitorRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
     {
         Log.Debug($"AfterAntagEntitySelected {ToPrettyString(ent)}");
-        MakeTraitor(args.EntityUid, ent);
+        MakeTraitor(args.EntityUid, ent, args.Def); // SIS-ChatGreeting
     }
 
-    public bool MakeTraitor(EntityUid traitor, TraitorRuleComponent component)
+    public bool MakeTraitor(EntityUid traitor, TraitorRuleComponent component, AntagSpecifierPrototype antag) // SIS-ChatGreeting
     {
         Log.Debug($"MakeTraitor {ToPrettyString(traitor)} - start");
         var factionCodewords = _codewordSystem.GetCodewords(component.CodewordFactionPrototypeId);
@@ -104,7 +107,10 @@ public sealed partial class TraitorRuleSystem : GameRuleSystem<TraitorRuleCompon
 
         if (component.GiveBriefing)
         {
-            _antag.SendBriefing(traitor, GenerateBriefing(codewords, code, issuer), null, component.GreetSoundNotification);
+            // SIS-ChatGreeting-Start
+            var greetingEntry = GenerateGreeting(codewords, code, antag, issuer);
+            _antag.SendBriefing(traitor, greetingEntry, component.GreetSoundNotification);
+            // SIS-ChatGreeting-End
             Log.Debug($"MakeTraitor {ToPrettyString(traitor)} - Sent the Briefing");
         }
 
@@ -227,4 +233,35 @@ public sealed partial class TraitorRuleSystem : GameRuleSystem<TraitorRuleCompon
 
         return traitors;
     }
+
+    // SIS-ChatGreeting-Start
+    private GreetingEntry GenerateGreeting(string[]? codewords, Note[]? uplinkCode, AntagSpecifierPrototype proto, string? objectiveIssuer = null)
+    {
+        var theme = proto.Briefing?.Theme ?? new GreetingTheme();
+        var entry = new GreetingEntry { Theme = theme };
+        var priority = 0;
+
+        var issuerName = objectiveIssuer ?? Loc.GetString("objective-issuer-unknown");
+
+        var hl1 = theme.MessageHighlightFirstColor ?? theme.HighlightFirstColor ?? theme.HighlightColor ?? Color.Orange;
+        var hl2 = theme.MessageHighlightSecondColor ?? theme.HighlightSecondColor  ?? hl1;
+
+        var greetingText = Loc.GetString("traitor-role-greeting", ("corporation", issuerName), ("hl1", hl1), ("hl2", hl2));
+        entry.AddSection(Loc.GetString("role-greeting-title"), greetingText, priority++);
+
+        if (codewords != null && codewords.Length > 0)
+        {
+            var codewordsText = Loc.GetString("traitor-role-codewords", ("codewords", string.Join(", ", codewords)), ("hl1", hl1), ("hl2", hl2));
+            entry.AddSection(Loc.GetString("traitor-title-codewords"), codewordsText, priority++);
+        }
+
+        var uplinkText = uplinkCode != null
+            ? Loc.GetString("traitor-role-uplink-code", ("code", string.Join("-", uplinkCode).Replace("sharp", "#")), ("hl1", hl1), ("hl2", hl2))
+            : Loc.GetString("traitor-role-uplink-implant", ("hl1", hl1), ("hl2", hl2));
+
+        entry.AddSection(Loc.GetString("traitor-title-equipment"), uplinkText, priority++);
+
+        return entry;
+    }
+    // SIS-ChatGreeting-End
 }

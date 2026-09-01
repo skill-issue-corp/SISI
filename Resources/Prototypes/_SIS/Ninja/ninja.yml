@@ -1,0 +1,5 @@
+- type: entity
+  id: BaseStationNinjaTarget
+  abstract: true
+  components:
+  - type: StationNinjaTarget

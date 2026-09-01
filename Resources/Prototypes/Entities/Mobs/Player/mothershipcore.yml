@@ -159,7 +159,7 @@
     - Binary
   - type: Xenoborg
     mindRole: MindRoleMothershipCore
-    briefingText: mothership-welcome
+    antagProto: MothershipCore # SIS-ChatGreeting
   - type: MothershipCore
   - type: Tag
     tags:

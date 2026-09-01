@@ -5,7 +5,21 @@ werewolf-beckon-message = {$name} beckons the pack to {$location}.
 role-subtype-werewolf = Werewolf
 roles-antag-werewolf-name = Werewolf
 roles-antag-werewolf-desc = Whether by infection or hereditary genes, you’ve been given the curse and/or gift of Lycanthropy! Aren’t you special?
-werewolf-role-greeting = I am the Werewolf. Unbeknownst to my employers, I have been cursed with Lycanthropy. I must ensure my survival on this station, and keep well fed. Secrecy is my weapon, I must ensure that nobody finds out my real identity.
+# SIS-Start
+## --- Werewolf Greeting ---
+werewolf-role-greeting =
+    {"["}gradient angle="45" color1="{$hl1}" color2="{$hl2}" speed="1"]В вашей крови проснулся древний зверь![/gradient]
+    Вы поражены проклятием [color={$hl1}]Ликантропии[/color]. Ваше человеческое тело лишь маскировка.
+    Накапливайте [color={$hl1}]Ярость[/color], насыщайтесь плотью экипажа и не дайте раскрыть свою истинную сущность раньше времени!
+
+werewolf-role-greeting-desc =
+    • [color={$hl1}]Две формы:[/color] копите ярость, поедая органы через [color={$hl1}]Потрошение[/color], чтобы обращаться в форму свирепого волка.
+    • [color={$hl1}]Три Пути развития (Магазин):[/color]
+    - [color={$hl1}]Лютоволк:[/color] несокрушимый одиночный альфа-хищник, разрывающий жертв в клочья.
+    - [color={$hl1}]Чёрный Волк:[/color] вожак стаи, обращающий экипаж в верных волков своим укусом.
+    - [color={$hl1}]Белый Волк:[/color] инквизитор Бездны, охотящийся на других оборотней святыми серебряными когтями.
+    • [color={$hl1}]Скрытность:[/color] в человеческом облике действуйте скрытно — серебро и оружие службы безопасности смертельны!
+# SIS-End
 werewolf-round-end-summary = {$name} was a werewolf, who has bit {$points} amount of people.
 
 werewolf-action-fail-hunger = You are too hungry to do that right now.

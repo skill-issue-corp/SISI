@@ -1,6 +1,8 @@
 using Content.Shared.Roles.Components;
 using Robust.Shared.Audio;
 using Robust.Shared.Prototypes;
+// SIS
+using Content.Shared.Antag;
 
 namespace Content.Shared.Xenoborgs.Components;
 
@@ -18,15 +20,6 @@ public sealed partial class XenoborgComponent : Component
     [DataField]
     public EntProtoId<MindRoleComponent> MindRole = "MindRoleXenoborg";
 
-    /// <summary>
-    /// The text that is sent when you become a xenoborg
-    /// </summary>
     [DataField]
-    public LocId BriefingText = "xenoborgs-welcome";
-
-    /// <summary>
-    /// Briefing sound when you become a xenoborg
-    /// </summary>
-    [DataField]
-    public SoundSpecifier BriefingSound = new SoundPathSpecifier("/Audio/Ambience/Antag/xenoborg_start.ogg");
+    public ProtoId<AntagSpecifierPrototype> AntagProto = "Xenoborg"; // SIS-ChatGreeting
 }

@@ -1,9 +1,20 @@
 nukeops-title = Nuclear Operatives
 nukeops-description = Nuclear operatives have targeted the station. Try to keep them from arming and detonating the nuke by protecting the nuke disk!
 
-nukeops-welcome =
-    You are a nuclear operative. Your goal is to blow up {$station}, and ensure that it is nothing but a pile of rubble. Your bosses, the Syndicate, have provided you with the tools you'll need for the task.
-    Operation {$name} is a go! Death to Nanotrasen!
+# SIS-Start
+## --- Nukeops Greeting ---
+nukeops-role-greeting =
+    Вы [color={$hl1}]Ядерный Оперативник[/color].
+    Ваша задача — взорвать [color={$hl1}]{ $station }[/color] и убедиться, что от неё осталась лишь груда обломков.
+    Ваше руководство, [color={$hl1}]Синдикат[/color], снабдило вас всем необходимым для выполнения этой задачи.
+
+    Операция «[color={$hl1}]{ $name }[/color]» началась! [color={$hl1}]Смерть NanoTrasen![/color]
+
+nukeops-role-greeting-desc =
+    Ваши задачи просты: [color={$hl1}]доставить бомбу[/color] и убраться до того, как она взорвётся.
+
+    {"["}color={$hl1}]Начинайте миссию.[/color]
+# SIS-End
 nukeops-briefing = Your objectives are simple. Deliver the payload and get out before the payload detonates. Begin mission.
 
 nukeops-opsmajor = [color=crimson]Syndicate major victory![/color]

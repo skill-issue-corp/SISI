@@ -63,6 +63,7 @@
   id: MobHumanMimeAssassin
   name: Mime assassin
   components:
+  - type: ActionsContainer # SIS-ChatGreeting crashing client without that?...
   - type: MimePowers
   - type: RandomHumanoidAppearance
     randomizeName: true

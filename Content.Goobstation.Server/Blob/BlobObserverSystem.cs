@@ -12,6 +12,10 @@ using Robust.Shared.CPUJob.JobQueues.Queues;
 using Robust.Shared.Map.Components;
 using Robust.Shared.Player;
 using System.Linq;
+// SIS
+using Content.Server.Antag;
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Goobstation.Server.Blob;
 
@@ -23,9 +27,14 @@ public sealed partial class BlobObserverSystem : SharedBlobObserverSystem
     [Dependency] private SharedMindSystem _mind = default!;
     [Dependency] private SharedRoleSystem _role = default!;
     [Dependency] private EntityQuery<MapGridComponent> _gridQuery = default!;
+    // SIS
+    [Dependency] private AntagSelectionSystem _antag = default!;
+    [Dependency] private IPrototypeManager _proto = default!;
 
     private static readonly EntProtoId BlobCaptureObjective = "BlobCaptureObjective";
     private static readonly EntProtoId BlobRule = "BlobRule";
+
+    private static readonly ProtoId<AntagSpecifierPrototype> BlobAntag = "Blob"; // SIS-ChatGreeting
 
     private const double MoverJobTime = 0.005;
     private readonly JobQueue _moveJobQueue = new(MoverJobTime);
@@ -107,7 +116,7 @@ public sealed partial class BlobObserverSystem : SharedBlobObserverSystem
         }
 
         _role.MindAddRole(mindId, core.Comp.MindRoleBlobPrototypeId.Id);
-        SendBlobBriefing(mindId);
+        SendGreeting(mindId); // SIS-ChatGreeting
 
         var ruleExists = false;
         foreach (var rule in EntityQueryEnumerator<BlobRuleComponent>())
@@ -128,11 +137,26 @@ public sealed partial class BlobObserverSystem : SharedBlobObserverSystem
         _mind.TryAddObjective(mindId, mind, BlobCaptureObjective);
     }
 
-    private void SendBlobBriefing(EntityUid mind)
+    // SIS-ChatGreeting-Start
+    private void SendGreeting(EntityUid mind)
     {
-        if (_player.TryGetSessionByEntity(mind, out var session))
-        {
-            _chat.DispatchServerMessage(session, Loc.GetString("blob-role-greeting"));
-        }
+        if (!_player.TryGetSessionByEntity(mind, out var session))
+            return;
+
+        var proto = _proto.Index(BlobAntag);
+        var theme = proto.Briefing?.Theme ?? new GreetingTheme();
+        var entry = new GreetingEntry { Theme = theme };
+
+        var hl1 = theme.MessageHighlightFirstColor ?? theme.HighlightFirstColor ?? theme.HighlightColor ?? Color.Orange;
+        var hl2 = theme.MessageHighlightSecondColor ?? theme.HighlightSecondColor  ?? hl1;
+
+        var greetingText = Loc.GetString("blob-role-greeting", ("hl1", hl1), ("hl2", hl2));
+        var descText = Loc.GetString("blob-role-desc", ("hl1", hl1), ("hl2", hl2));
+
+        entry.AddSection(Loc.GetString("role-greeting-title"), greetingText, 0);
+        entry.AddSection(Loc.GetString("role-greeting-desc-title"), descText, 1);
+
+        _antag.SendBriefing(session, entry, proto.Briefing?.Sound);
     }
+    // SIS-ChatGreeting-End
 }

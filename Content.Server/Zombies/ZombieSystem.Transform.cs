@@ -51,6 +51,9 @@ using Content.Shared.NPC.Prototypes;
 using Content.Shared.Roles;
 using Content.Shared.Temperature.Components;
 using Robust.Shared.Utility;
+// SIS
+using Content.SIS.Common.ChatBriefing;
+
 
 namespace Content.Server.Zombies;
 
@@ -81,6 +84,8 @@ public sealed partial class ZombieSystem
     [Dependency] private NPCSystem _npc = default!;
     [Dependency] private TagSystem _tag = default!;
     [Dependency] private ISharedPlayerManager _player = default!;
+    // SIS
+    [Dependency] private IPrototypeManager _prototype = default!;
 
     private static readonly ProtoId<TagPrototype> InvalidForGlobalSpawnSpellTag = "InvalidForGlobalSpawnSpell";
     private static readonly ProtoId<TagPrototype> CannotSuicideTag = "CannotSuicide";
@@ -305,11 +310,26 @@ public sealed partial class ZombieSystem
             //Zombie role for player manifest
             _role.MindAddRole(mindId, MindRoleZombie, mind: null, silent: true);
 
+            // SIS-ChatGreeting-Start
+            var proto = _prototype.Index(InitialInfectedAntag);
+            var theme = proto.Briefing?.Theme ?? new GreetingTheme();
+            var entry = new GreetingEntry { Theme = theme };
+
+            var hl1 = theme.MessageHighlightFirstColor ?? theme.HighlightFirstColor ?? theme.HighlightColor ?? FallbackColor;
+            var hl2 = theme.MessageHighlightSecondColor ?? theme.HighlightSecondColor  ?? hl1;
+
+            var greetingText = Loc.GetString("zombie-infection-greeting", ("hl1", hl1), ("hl2", hl2));
+            var descText = Loc.GetString("zombie-infection-desc", ("hl1", hl1), ("hl2", hl2));
+
+            entry.AddSection(Loc.GetString("role-greeting-title"), greetingText, 0);
+            entry.AddSection(Loc.GetString("role-greeting-desc-title"), descText, 1);
+
             //Greeting message for new bebe zombers
-            _chatMan.DispatchServerMessage(session, Loc.GetString("zombie-infection-greeting"));
+            _antag.SendBriefing(session, entry, zombiecomp.GreetSoundNotification);
+            // SIS-ChatGreeting-End
 
             // Notificate player about new role assignment
-            _audio.PlayGlobal(zombiecomp.GreetSoundNotification, session);
+            // _audio.PlayGlobal(zombiecomp.GreetSoundNotification, session); // SIS-ChatGreeting
         }
         else
         {

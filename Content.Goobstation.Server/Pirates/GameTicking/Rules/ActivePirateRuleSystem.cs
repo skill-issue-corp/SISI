@@ -11,6 +11,9 @@ using Content.Shared.GameTicking.Components;
 using Content.Shared.NPC.Prototypes;
 using Content.Shared.NPC.Systems;
 using Robust.Shared.Audio;
+// SIS
+using Content.Shared.Antag;
+using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Goobstation.Server.Pirates.GameTicking.Rules;
 
@@ -35,7 +38,7 @@ public sealed partial class ActivePirateRuleSystem : GameRuleSystem<ActivePirate
 
     private void OnAntagSelect(Entity<ActivePirateRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
     {
-        if (_mind.TryGetMind(args.EntityUid, out var mindId, out var mind) && TryMakePirate(args.EntityUid))
+        if (_mind.TryGetMind(args.EntityUid, out var mindId, out var mind) && TryMakePirate(args.EntityUid, args.Def))
             ent.Comp.Pirates.Add((mindId, mind));
     }
 
@@ -63,18 +66,31 @@ public sealed partial class ActivePirateRuleSystem : GameRuleSystem<ActivePirate
         }
     }
 
-    public bool TryMakePirate(EntityUid target)
+    // SIS-ChatGreeting-Start
+    public bool TryMakePirate(EntityUid target, AntagSpecifierPrototype proto)
     {
         if (!_mind.TryGetMind(target, out var mindId, out var mind))
             return false;
 
         _role.MindAddRole(mindId, MindRole.Id, mind, true);
 
-        var briefing = Loc.GetString("antag-pirate-briefing");
-        _antag.SendBriefing(target, briefing, Color.OrangeRed, BriefingSound);
+        var theme = proto.Briefing?.Theme ?? new GreetingTheme();
+        var entry = new GreetingEntry { Theme = theme };
+
+        var hl1 = theme.MessageHighlightFirstColor ?? theme.HighlightFirstColor ?? theme.HighlightColor ?? Color.FromHex("#f59e0b");
+        var hl2 = theme.MessageHighlightSecondColor ?? theme.HighlightSecondColor ?? hl1;
+
+        var greetingText = Loc.GetString("antag-pirate-briefing", ("hl1", hl1), ("hl2", hl2));
+        var descText = Loc.GetString("antag-pirate-briefing-desc", ("hl1", hl1), ("hl2", hl2));
+
+        entry.AddSection(Loc.GetString("role-greeting-title"), greetingText, 0);
+        entry.AddSection(Loc.GetString("role-greeting-desc-title"), descText, 1);
+
+        _antag.SendBriefing(target, entry, BriefingSound);
 
         _npcFaction.AddFaction(target, PirateFaction); // yaml fucking sucks!!!
 
         return true;
     }
+    // SIS-ChatGreeting-End
 }

@@ -27,10 +27,16 @@
   roleLoadout:
   - RoleSurvivalEVA # Trauma - was RoleSurvivalExtended
   briefing:
-    text: wizard-role-greeting
-    color: Turquoise
-    # TODO: Need Wizard Start sound
-    #sound: "/Audio/Ambience/Antag/wizard_start.ogg"
+    # SIS-ChatGreeting-Start
+    theme:
+      titleBackground: "#241433"
+      titleBorder: "#a855f7"
+      messageBackground: "#12081c"
+      messageBorder: "#4c1d95"
+      text: "#f3e8ff"
+      highlight1: "#ffd700"
+      highlight2: "#c084fc"
+    # SIS-ChatGreeting-End
   # TODO: WizardComp as needed
   components:
   # <Trauma>

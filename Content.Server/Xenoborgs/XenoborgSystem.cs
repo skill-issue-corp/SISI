@@ -11,6 +11,8 @@ using Content.Shared.Silicons.Borgs.Components;
 using Content.Shared.Xenoborgs.Components;
 using Robust.Shared.Audio;
 using Robust.Shared.Player;
+// SIS
+using Robust.Shared.Prototypes;
 
 namespace Content.Server.Xenoborgs;
 
@@ -20,6 +22,8 @@ public sealed partial class XenoborgSystem : EntitySystem
     [Dependency] private BorgSystem _borg = default!;
     [Dependency] private SharedRoleSystem _roles = default!;
     [Dependency] private XenoborgsRuleSystem _xenoborgsRule = default!;
+    // SIS
+    [Dependency] private IPrototypeManager _prototype = default!;
 
     private static readonly Color XenoborgBriefingColor = Color.BlueViolet;
 
@@ -84,14 +88,9 @@ public sealed partial class XenoborgSystem : EntitySystem
     {
         _roles.MindAddRole(args.Mind, comp.MindRole, silent: true);
 
-        if (!TryComp<ActorComponent>(ent, out var actorComp))
-            return;
-
-        _antag.SendBriefing(actorComp.PlayerSession,
-            Loc.GetString(comp.BriefingText),
-            XenoborgBriefingColor,
-            comp.BriefingSound
-        );
+        // SIS-ChatGreeting
+        if (_prototype.TryIndex(comp.AntagProto, out var proto))
+            _antag.SendBriefing(ent, proto.Briefing);
     }
 
     private void OnXenoborgMindRemoved(EntityUid ent, XenoborgComponent comp, MindRemovedMessage args)

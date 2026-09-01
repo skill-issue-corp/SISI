@@ -112,38 +112,110 @@ tide-objective-condition-kill-everyone-else-title = Robust everyone.
 
 ghost-role-information-tunnel-clown-name = Tunnel Clown
 ghost-role-information-tunnel-clown-description = A clown gang member whos made their home in maintenance.
-tunnel-clown-role-greeting = You are a [color=#880808]tunnel clown[/color], a clown gang member who has made their home in maintenance, see your character sheet for your objectives.
+# SIS-Start
+tunnel-clown-role-greeting =
+    Техотсеки станции - ваш дом, ваш цирк и ваша персональная скотобойня. Годами вы прятались по шкафчикам от офицеров СБ, но терпение лопнуло.
+
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1.5"]Тех-клоун[/gradient], психопат с лицензией на убийство. Станционные крысы зашли на вашу территорию в последний раз!
+
+tunnel-clown-role-greeting-desc =
+    • [color={$hl1}]Защита техов:[/color] ликвидируйте любого члена экипажа, ступившего в технические тоннели без разрешения банды.
+    • [color={$hl1}]Засады во мраке:[/color] используйте банановую кожуру, мыло, клаксоны и холодное оружие для молниеносных нападений.
+    • [color={$hl1}]Кровавый цирк:[/color] ваши цели указаны в меню персонажа. ХОНК!
+# SIS-End
 tunnel-clown-objective-maints-slasher-desc = This stations maintenance has been your home for as long as you can remember, hiding from the crew in lockers is all that you knew until now. Thoses station goers have invaded your home for the last time, kill anyone who dares to distrupt your home.
 tunnel-clown-objective-condition-maints-slasher-title = Protect maintenance.
 tunnel-clown-business-card = Tunnel Clown, licensed to kill.
 
 ghost-role-information-Singuloth-Knight-name = Singuloth Knight
 ghost-role-information-Singuloth-Knight-description = Once master engineers, now followers of Lord Singuloth. Wielding a singularity hammer they are a force to be reckoned with!
-Singuloth-Knight-role-greeting = Thou art a [color=#880808]Singuloth Knight[/color], a devout followeth'r of Lord Singuloth, checketh thy charact'r sheet f'r thy objectives.
 objective-issuer-lord-singuloth = [color=#320022]Lord Singuloth[/color]
+
+# SIS-Start
+singuloth-knight-role-greeting =
+    Инженерные протоколы забыты, а предохранители сорваны. В центре вашего разума вращается лишь она - всепоглощающая [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Гравитационная Сингулярность[/gradient].
+
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Рыцарь Сингулота[/gradient]. Всё сущее неизбежно схлопнется в нулевую точку, и именно вам суждено скормить станцию растущей чёрной дыре.
+
+singuloth-knight-role-greeting-desc =
+    • [color={$hl1}]Молот Сингулярности:[/color] сокрушайте гермозатворы и управляйте гравитационными волнами, притягивая и сбивая экипаж с ног.
+    • [color={$hl1}]Снятие сдерживания:[/color] отключите эмиттеры поля, разрушьте защитный контур и позвольте сингулярности поглотить реакторный отсек.
+    • [color={$hl1}]Свободный агент:[/color] ваши персональные задачи указаны в меню персонажа.
+# SIS-End
 
 ghost-role-information-dark-lord-name = Dark Lord
 ghost-role-information-dark-lord-description = A syndicate agent themed after a sith lord, use your lightning powers and energy sword to complete your objectives!
-dark-lord-role-greeting = You are a [color=#880808]Dark Lord[/color] sent by the syndicate to this station to do their dirty work, check your character sheet for your objectives.
+# SIS-Start
+dark-lord-role-greeting =
+    Тёмная сторона могущества пульсирует в ваших жилах. [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]Синдикат[/gradient] призвал вас, чтобы сломить волю экипажа и сокрушить станцию.
+
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]Тёмный Лорд[/gradient], абсолютное оружие террора и безжалостный палач. Пришло время показать смертным истинную мощь Тьмы!
+
+dark-lord-role-greeting-desc =
+    • [color={$hl1}]Тёмный Клинок:[/color] ваш энергомеч с лёгкостью рассекает гермозатворы, плоть и отражает вражеские выстрелы.
+    • [color={$hl1}]Силы Тьмы:[/color] применяйте удушение, телекинетический бросок и разрушительные молнии для подавления групп врагов.
+    • [color={$hl1}]Задачи Синдиката:[/color] ваши персональные цели указаны в меню персонажа/
+# SIS-End
 
 ghost-role-information-chosen-one-name = The Chosen One
 ghost-role-information-chosen-one-description = A special agent sent to the station by Nanotrasen to defeat a dark lord.
-chosen-one-role-greeting = You are the [color=#0087FF]Chosen One[/color], you have been sent to this station to defeat a Dark Lord sent by the syndicate, check your character sheet for your objectives.
+# SIS-Start
+chosen-one-role-greeting =
+    Великое равновесие нарушено. Тьма сгущается над станцией, и древнее пророчество призывает вас к исполнению своего долга.
+
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="0.8"]Избранный[/gradient], воплощение несокрушимой воли и защитник баланса. Свершите правосудие и низвергните Тёмного Лорда!
+
+chosen-one-role-greeting-desc =
+    • [color={$hl1}]Световой Клинок:[/color] ваш сияющий энергомеч способен рассекать любую броню, резать переборки и эффективно отражать вражеские выстрелы.
+    • [color={$hl1}]Сила Света:[/color] используйте телекинетический толчок, рывок и защитные барьеры, чтобы пробивать оборону врага и защищать невинных.
+    • [color={$hl1}]Великая Дуэль:[/color] ваша главная цель — разыскать и уничтожить [color={$hl1}]Тёмного Лорда[/color] в честном бою. Судьба сектора в ваших руках!
+# SIS-End
 objective-condition-dark-lord-kill-title = Ensure Dark Lord {$targetName} dies.
 
 ghost-role-information-mime-Assassin-name = Mime Assassin
 ghost-role-information-mime-Assassin-description = An assassin that uses mime clothes and favors silent kills, their name? well they probably can't tell you, but thats what makes then so good!
-mime-Assassin-role-greeting = You are a [color=#880808]Mime Assassin[/color], you have been sent to this station by the syndicate to kill some members of command that they need taken out of the equation, the syndicate have supplied you with some tools to get the job done, quietly... check your character sheet for your objectives, and don't get caught.
+
+# SIS-Start
+mime-assassin-role-greeting =
+    {"["}gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Синдикат[/gradient] доверил ликвидацию командования тому, чьи шаги абсолютно неслышны, а намерения не выразить словами.
+
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Ассамим[/gradient], безмолвный киллер экстра-класса. Сделайте этот контракт идеально чистым и тихим.
+
+mime-assassin-role-greeting-desc =
+    • [color={$hl1}]Обет молчания:[/color] ни звука, ни крика. Ваше оружие - невидимые стены, удавка и скрытное оружие с глушителем.
+    • [color={$hl1}]Контракт на Командование:[/color] найдите и устраните указанные цели среди высшего офицерского состава.
+    • [color={$hl1}]Скрытный отход:[/color] используйте фальшивые стены и вентиляцию. Не дайте охране загнать себя в тупик!
+# SIS-End
 
 ghost-role-information-dark-priest-name = Dark Priest
 ghost-role-information-dark-priest-description = An agent of the dark gods, sent to kill someone, protect someone and hire someone who has roused their interest as their apprentice, Carries the "blessing of the reaper".
-dark-priest-role-greeting = You are a [color=#880808]Dark Priest[/color], you have been sent to this station to pick someone to become your apprentice, kill someone and protect someone, check your character sheet for your objectives.
+# SIS-Start
+dark-priest-role-greeting =
+    Шёпот Тёмных Богов направляет каждый ваш шаг. Смертные слепы в своей суете, но вам открыты предначертанные судьбы экипажа.
+
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Тёмный Жрец[/gradient], вершитель воли Бездны и проводник потусторонней силы.
+
+dark-priest-role-greeting-desc =
+    • [color={$hl1}]Воля Богов:[/color] высшие силы потребовали покарать одного, защитить другого и посвятить избранного смертного в Ученики.
+    • [color={$hl1}]Благословение Жреца:[/color] используйте тёмные дары и защитные чары для поддержки союзников и сокрушения врагов.
+    • [color={$hl1}]Священная миссия:[/color] ваши точные цели и имя будущего ученика указаны в меню персонажа.
+# SIS-End
 objective-condition-other-alive-title = Ensure crew member {$targetName}, {CAPITALIZE($job)} stays alive.
 objective-issuer-self = [color=#7851A9]For your own interests[/color]
 
 ghost-role-information-vox-raider-name = Vox Raider
 ghost-role-information-vox-raider-description = Vox that swear their loyalty to the Shoal. It is unclear what their intentions or whether they plan on trading or thieving from the station. It is always best to use caution when they show up.
-vox-raider-role-greeting = You are a [color=#7851A9]Vox Raider[/color], a Vox that has sworn their loyalty to the Shoal, you are tasked with stealing items from the station or trading for them, it doesn't matter which you decide to do, all that matters is that you obtain all the items you need to complete your objectives and complete "The Heist", check your character sheet for your objectives.
+# SIS-Start
+vox-raider-role-greeting =
+    Крики Стаи звенят в вашем сознании! Пыльная станция людей полна блестящих сокровищ и ценных технологий.
+
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]Вокс-Налётчик[/gradient], верный слуга Великой Стаи. Грабьте, торгуйте или вырезайте экипаж — главное завершить Дело!
+
+vox-raider-role-greeting-desc =
+    • [color={$hl1}]Жажда добычи:[/color] тащите на корабль всё ценное — микросхемы, скафандры, ресурсы и оружие.
+    • [color={$hl1}]Азотное дыхание:[/color] помните, что вы дышите чистым Азотом (N2)! Кислород для ваших лёгких смертелен.
+    • [color={$hl1}]Тактика Воксов:[/color] используйте игломёты, прыжковые ранцы и стайную охоту против тяжёлой охраны станции.
+# SIS-End
 
 ghost-role-information-clown-goblin-name = Clown goblin
 ghost-role-information-clown-goblin-description = A terrible creature, born out of hell.
@@ -153,4 +225,13 @@ ghost-role-information-slasher-token = The Slasher (Token)
 ghost-role-information-contractor-name = Syndicate Contractor
 ghost-role-information-contractor-token = Syndicate Contractor (Token)
 ghost-role-information-contractor-description = GET DA... tider..?
-contractor-role-greeting = You are a [color=#611b2b]Syndicate Contractor[/color], a bounty hunter, you are tasked with retreving targets from the station, dead or alive.
+# SIS-Start
+contractor-role-greeting =
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Элитный Контрактор[/gradient] на службе Синдиката!
+    Вам поручено выполнение специальных заказных контрактов по захвату и нейтрализации ключевого персонала станции.
+
+contractor-role-greeting-desc =
+    • [color={$hl1}]Контракты:[/color] откройте интерфейс наёмника в своём спец-КПК, чтобы выбрать доступные цели и ознакомиться с наградами.
+    • [color={$hl1}]Похищение:[/color] оглушайте цели спец-дубинкой, упаковывайте в мешок и используйте систему эвакуации (Фултон/Маяки), чтобы отправить их живьём на базу.
+    • [color={$hl1}]Награды:[/color] выполнение контрактов приносит повышенные выплаты в ТК и открывает доступ к уникальным боевым улучшениям наёмника.
+# SIS-End

@@ -66,6 +66,18 @@
   abstract: true
   parent: RestrictedAntag
   id: BaseNukeops
+  # SIS-ChatGreeting-Start
+  briefing:
+    theme:
+      titleBackground: "#1a0f11"
+      titleBorder: "#e61937"
+      messageBackground: "#0d0708"
+      messageBorder: "#381619"
+      titleText: "#ff667a"
+      messageText: "#d6c9cb"
+      highlight1: Red
+      highlight2: "#c33030"
+  # SIS-ChatGreeting-End
   prefRoles:
   - GenericTeamAntagonist # For antag ban purposes
   roleLoadout:

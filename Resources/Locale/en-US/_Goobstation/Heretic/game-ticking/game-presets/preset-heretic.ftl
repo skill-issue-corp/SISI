@@ -19,19 +19,23 @@ heretic-gamemode-title = Heretics
 heretic-gamemode-description =
     Dimensional anomaly detected within the station. There is no additional data.
 
+# SIS-Start
+## --- Heretic Greeting ---
 heretic-role-greeting-fluff =
-    Another day at a meaningless job. You feel a shimmer around you, as a realization of something strange in the air unfolds. You look inwards and discover something that will change your life.
+    Дни бренного существования сочтены. Реальность [color={$hl1}]трещит по швам[/color], обнажая сокрытое.
+    Вы заглянули за край смертного восприятия - и [color={$hl1}]Бездна[/color] ответила взаимностью. Врата [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Мансуса[/gradient] распахнулись, наполняя разум запретным знанием.
 
-    The Gates of Mansus open up to your mind.
+    Смертный внутри вас угас. Отныне вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Еретик[/gradient], живой сосуд древней воли.
+    Сбросьте оковы хрупкой плоти и начните путь к великому [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]Вознесению[/gradient]!
 
 heretic-role-greeting =
-    You are the Heretic!
+    • [color={$hl1}]Живое Сердце:[/color] используйте его для выслеживания предназначенных вам [color={$hl1}]Жертв[/color] среди экипажа.
+    • [color={$hl1}]Ритуалы и Руны:[/color] чертите руны на полу, приносите жертвы и собирайте осколки знаний для изучения заклинаний.
+    • [color={$hl1}]Вознесение:[/color] завершите путь избранного Пути и станьте бессмертным аватаром Древних!
 
-    Read more about your role in the guidebook entry.
-
-heretic-role-greeting-short =
-    You are the Heretic!
-    In order to learn the Final Ritual and Ascend, you must fulfill your tasks.
+heretic-role-briefing =
+    Вы — Еретик! Совершите ритуалы и принесите жертвы ради Вознесения.
+# SIS-End
 
 ## ghoul
 heretic-ghoul-greeting =

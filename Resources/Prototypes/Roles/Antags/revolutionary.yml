@@ -27,9 +27,28 @@
   prefRoles:
   - HeadRev
   briefing:
-    text: head-rev-role-greeting
-    color: CornflowerBlue
     sound: "/Audio/Ambience/Antag/headrev_start.ogg"
+    # SIS-ChatGreeting-Start
+    theme:
+      titleBackground: "#1a2333"
+      titleBorder: "#4169E1"
+      messageBackground: "#101622"
+      messageBorder: "#202e45"
+      titleText: White
+      messageText: "#F0F0F0"
+      highlight: "#00FFFF"
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: head-rev-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: head-rev-role-desc
+    # SIS-ChatGreeting-End
   startingGear: HeadRevGear
   components:
   - type: Revolutionary

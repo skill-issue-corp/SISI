@@ -54,17 +54,35 @@ cosmiccult-elimination-announcement = Based on scans from our long-range sensors
 
 ## BRIEFINGS
 
-cosmiccult-role-roundstart-fluff =
-    As you ready yourself for yet another shift aboard yet another NanoTrasen station, untold knowledge suddenly floods your mind!
-    A revelation beyond compare. An end to cyclic, sisyphean suffering.
-    A gentle curtain call.
+co# SIS-Start
+## --- Cosmic Cult Greeting ---
+cosmiccult-role-greeting =
+    Пока вы готовитесь к очередной смене, ваш разум затапливает невыразимое знание.
+    Реальность распадается на части. Приближается великий [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]Последний Занавес[/gradient]...
 
-    All you need do is usher it in.
+    Вы призваны завершить бессмысленный цикл и впустить [gradient color1="{$hl1}" color2="{$hl2}" speed="1.5"]Неизвестное[/gradient]!
 
-cosmiccult-role-short-briefing =
-    You are a Cosmic Cultist!
-    Your objectives are listed in the character menu.
-    Read more about your role in the guidebook entry.
+cosmiccult-role-greeting-desc =
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Космический Культист[/gradient]. Приблизьте конец всего сущего через ритуалы угасания.
+
+    • [color={$hl1}]Сбор Энтропии:[/color] [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]выкачивайте энтропию[/gradient] из экипажа и конструкций, накапливая силы для открытия новых Влияний.
+    • [color={$hl1}]Зловещие Разломы:[/color] находите разрывы в пространстве и поглощайте их мощь, насыщая тело [color={$hl1}]ноосферной энергией[/color].
+    • [color={$hl1}]Монумент Финала:[/color] объедините силу воли с другими культистами, [gradient color1="{$hl1}" color2="{$hl2}" speed="1.5"]призовите Монумент[/gradient] и сотрите этот мир из реальности!
+
+cosmiccult-role-briefing =
+    Вы Космический Культист!
+    Ваши цели указаны в меню персонажа.
+    Подробнее о своей роли вы можете узнать в справочнике.
+
+cosmiccult-role-conversion-greeting-fluff =
+    Зловещий шёпот рассекает ваш рассудок. Иллюзии смертной жизни рушатся, обнажая истинную природу бытия — неизбежный [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]Конец Всего Сущего[/gradient].
+
+cosmiccult-role-conversion-greeting =
+    Вы стали [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Космическим Служителем[/gradient]!
+
+    • [color={$hl1}]Служение культу:[/color] защищайте старших братьев, помогайте проводить ритуалы и охраняйте шпили энтропии.
+    • [color={$hl1}]Скрытность:[/color] координируйте диверсии в [color={$hl1}]Космическом Радио[/color] и держите верность культу в тайне от СБ.
+# SIS-End
 
 cosmiccult-role-conversion-fluff =
     As the invocation completes, untold knowledge suddenly floods your mind!

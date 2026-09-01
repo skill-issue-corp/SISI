@@ -25,3 +25,4 @@
   - type: GhostRole
     name: ghost-role-information-laughter-demon-name
     description: ghost-role-information-laughter-demon-description
+    rules: ghost-role-information-laughter-demon-rules # SIS-ChatGreeting

@@ -11,9 +11,29 @@
   spawnerPrototype: SpawnPointGhostShadowDemon
   mindRoles: [ MindRoleShadowDemon ]
   briefing:
-    text: shadow-demon-role-greeting
-    color: Red
     sound: /Audio/_Trauma/Mobs/ShadowDemon/briefing/shadowdemonbriefing.ogg
+    # SIS-ChatGreeting-Start
+    theme:
+      titleBackground: "#16081c"
+      titleBorder: "#8e24aa"
+      messageBackground: "#08040a"
+      messageBorder: "#2c0e38"
+      titleText: "#e84393"
+      messageText: "#c8b8db"
+      highlight1: "#d05ce3"
+      highlight2: "#701a75"
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: shadow-demon-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: shadow-demon-role-greeting-desc
+    # SIS-ChatGreeting-End
   components:
   - type: RandomMetadata  # Left as is since they are demonic names
     nameSegments:

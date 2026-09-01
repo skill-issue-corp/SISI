@@ -51,10 +51,32 @@ objective-issuer-abductors = [color=#FD0098]Mothership[/color]
 objective-condition-abduct-title = Perform {$count} experiments
 objective-condition-abduct-description = You need to complete experiments on the earthlings using your experiment tablet. Each step you complete counts.
 
-abductor-role-greeting = You are a professional combat scientist of a high-tech race. Your task is to abduct and brainwash humans, conduct experiments on them, and return them alive for the purity of the experiment. It is not in your interest to destroy the station, kill, or assist the crew.
-                        Use + or +a in chat to talk in the Glorpmind.
+# SIS-Start
+## --- Abductor Greeting ---
+abductor-role-greeting =
+    {"["}gradient angle="135" spread="35" color1="{$hl1}" color2="{$hl2}" speed="1.8"]Вы Абдуктор, ведущий исследователь высшей цивилизации.[/gradient]
+    Примитивные земляне послужат материалом для великих открытий. Ваша задача: [gradient angle="45" spread="60" color1="{$hl1}" color2="{$hl2}" speed="1.2"]похищать людей[/gradient], заменять их органы на экспериментальные устройства и возвращать живыми.
+
+abductor-role-greeting-desc =
+    • [color={$hl1}]Чистота эксперимента:[/color] не убивайте людей намеренно и не разрушайте станцию — [color={$hl1}]мёртвые испытуемые бесполезны[/color] для науки!
+    • [color={$hl1}]Операционная:[/color] используйте стол для экспериментов на корабле, чтобы вживлять аномальные органы. Засчитывается каждый завершённый этап.
+    • [color={$hl1}]Командная работа:[/color] Агент усыпляет жертв на станции и передаёт данные, а Учёный управляет консолями и телепортом.
+    • [color={$hl1}]Разум Пришельцев:[/color] используйте [color={$hl1}]+a[/color] или [color={$hl1}]+[/color] в чате для связи с напарником (не путайте с Разумом Серых!).
+# SIS-End
 
 roles-antag-abductor-objective = Kidnap and brainwash station crew and perform your experiments on them!
+
+# SIS-Start
+## --- Abductor Victim Greeting ---
+abductor-victim-role-greeting =
+    {"["}gradient angle="60" spread="40" color1="{$hl1}" color2="{$hl2}" speed="2.2"]Они существуют... Они были здесь.[/gradient]
+    Вас похитили серые гуманоиды с летающей тарелки и провели над вами нечестивые вивисекции. Внутри вашего тела [gradient angle="90" spread="50" color1="{$hl1}" color2="{$hl2}" speed="1.5"]что-то неестественно пульсирует...[/gradient]
+
+abductor-victim-role-greeting-desc =
+    • [color={$hl1}]Шок и Паранойя:[/color] вы свободный антагонист. Ваши прежние убеждения разрушены контактом третьей степени.
+    • [color={$hl1}]Голоса в голове:[/color] выполняйте странные задачи из меню персонажа ([color={$hl1}]C[/color] / [color={$hl1}]F1[/color]), которые шепчут вам Голоса.
+    • [color={$hl1}]Инопланетные органы:[/color] пришельцы зашили внутрь вас экспериментальный орган — используйте его новые странные свойства!
+# SIS-End
 
 abductor-victim-role-greeting = You have seen things you shouldn't have. The world must know the truth.
 abductor-victim-role-name = Abductee

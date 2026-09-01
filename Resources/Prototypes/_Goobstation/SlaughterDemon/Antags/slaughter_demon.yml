@@ -10,9 +10,29 @@
   id: SlaughterDemon
   spawnerPrototype: SpawnPointGhostSlaughterDemon
   briefing:
-    text: slaughter-role-greeting
-    color: Red
     sound: /Audio/_Goobstation/SlaughterDemon/briefing.ogg
+    # SIS-ChatGreeting-Start
+    theme:
+      titleBackground: "#3a0005"
+      titleBorder: "#ff0033"
+      messageBackground: "#170204"
+      messageBorder: "#66000e"
+      titleText: "#ff3366"
+      messageText: "#fca5a5"
+      highlight1: "#660000"
+      highlight2: "#ff0033"
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: slaughter-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: slaughter-role-greeting-desc
+    # SIS-ChatGreeting-End
   components:
   - type: RandomMetadata
     nameSegments:
@@ -25,17 +45,53 @@
   parent: SlaughterDemon
   id: SlaughterDemonMidround
   briefing:
-    text: slaughter-role-greeting
-    color: Red
     sound: /Audio/Misc/narsie_rises.ogg
+    theme:
+      titleBackground: "#3a0005"
+      titleBorder: "#ff0033"
+      messageBackground: "#170204"
+      messageBorder: "#66000e"
+      titleText: "#ff3366"
+      messageText: "#fca5a5"
+      highlight1: "#660000"
+      highlight2: "#ff0033"
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: slaughter-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: slaughter-role-greeting-desc
 
 - type: antagSpecifier
   id: LaughterDemon
   spawnerPrototype: SpawnPointGhostLaughterDemon
   briefing:
-    text: laughter-role-greeting
-    color: Pink
     sound: /Audio/_Goobstation/Vehicle/Clowncar/clowncar_fart.ogg
+    theme:
+      titleBackground: "#21001f"   # Тёмный цирковой шатёр
+      titleBorder: "#ffe600"       # Слепящий жёлтый клоунский стробоскоп
+      messageBackground: "#0d0012" # Чернильный вакуум безумия
+      messageBorder: "#ff007f"     # Ядовитая неоновая фуксия
+      titleText: "#ffe600"         # Светящийся цирковой жёлтый
+      messageText: "#f5d0fe"       # Психоделический сиреневый зефир
+      highlight1: "#ff007f"        # Кислотная фуксия (hl1)
+      highlight2: "#ffe600"        # Ядовитый стробоскоп-жёлтый (hl2)
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: laughter-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: laughter-role-greeting-desc
   components:
   - type: RandomMetadata
     nameSegments:

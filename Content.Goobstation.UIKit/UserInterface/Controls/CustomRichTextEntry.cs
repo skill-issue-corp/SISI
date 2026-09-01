@@ -5,6 +5,8 @@ using System.Text;
 using Content.Goobstation.UIKit.UserInterface.RichText;
 using Robust.Client.UserInterface.RichText;
 using Robust.Shared.Collections;
+// SIS
+using Robust.Shared.Timing;
 
 namespace Content.Goobstation.UIKit.UserInterface.Controls;
 
@@ -23,6 +25,12 @@ public struct CustomRichTextEntry
         typeof(EntityTextureTag),
         typeof(RadioIconTag),
         typeof(TextureTag),
+        // SIS-ChatGreeting-Start
+        typeof(TitleBoxTag),
+        typeof(MessageBoxTag),
+        typeof(RainbowTag),
+        typeof(GradientTag)
+        // SIS-ChatGreeting-End
     ];
 
     private readonly Color _defaultColor;
@@ -62,12 +70,12 @@ public struct CustomRichTextEntry
         : this(message, parent, tagMan, entMan, DefaultTags, defaultColor) {}
 
     public CustomRichTextEntry(
-            FormattedMessage message,
-            Control parent,
-            MarkupTagManager tagManager,
-            IEntityManager entManager,
-            Type[]? tagsAllowed,
-            Color? defaultColor = null)
+        FormattedMessage message,
+        Control parent,
+        MarkupTagManager tagManager,
+        IEntityManager entManager,
+        Type[]? tagsAllowed,
+        Color? defaultColor = null)
     {
         Message = message;
         Height = 0;
@@ -87,7 +95,7 @@ public struct CustomRichTextEntry
             if (node.Name == null)
                 continue;
 
-            if (node.Name == ExamineBorderTag.TagName)
+            if (node.Name == ExamineBorderTag.TagName || node.Name == TitleBoxTag.TagName || node.Name == MessageBoxTag.TagName) // SIS-ChatGreeting
                 IsInBox = true;
 
             if (!tagManager.TryGetMarkupTagHandler(node.Name, _tagsAllowed, out var handler) || !handler.TryCreateControl(node, out var control))
@@ -246,38 +254,47 @@ public struct CustomRichTextEntry
         float lineHeightScale = 1)
     {
         var screenHandle = (DrawingHandleScreen) handle;
-        // TODO: It should precalculate, instead of drawing, calculate and draw again
+        // SIS-ChatGreeting-Start
+        var panelsToDraw = new List<PanelRenderData>();
+
         var bounds = DrawBoxContent(
-                tagManager,
-                handle,
-                defaultFont,
-                drawBox,
-                verticalOffset,
-                scrollBarPixelSize,
-                context,
-                uiScale,
-                lineHeightScale);
+            tagManager,
+            handle,
+            defaultFont,
+            drawBox,
+            verticalOffset,
+            scrollBarPixelSize,
+            context,
+            uiScale,
+            lineHeightScale,
+            false,
+            panelsToDraw);
 
-        // Draw background box
-        if (IsInBox)
+        if (IsInBox && panelsToDraw.Count == 0)
         {
-            if (!context.Font.TryPeek(out var font))
-                font = defaultFont;
-
-            screenHandle.DrawRect(
-                bounds,
-                Color.FromHex("#1b1a22"),
-                true);
-
-            screenHandle.DrawRect(
-                bounds,
-                Color.FromHex("#282D31"),
-                false
-            );
+            screenHandle.DrawRect(bounds, Color.FromHex("#1b1a22"), true);
+            screenHandle.DrawRect(bounds, Color.FromHex("#282D31"), false);
         }
 
-        // And draw actual content
-        DrawBoxContent(tagManager, handle, defaultFont, drawBox, verticalOffset, scrollBarPixelSize, context, uiScale, lineHeightScale);
+        foreach (var panel in panelsToDraw)
+        {
+            screenHandle.DrawRect(panel.Bounds, panel.BgColor, true);
+            screenHandle.DrawRect(panel.Bounds, panel.BorderColor, false);
+        }
+
+        DrawBoxContent(
+            tagManager,
+            handle,
+            defaultFont,
+            drawBox,
+            verticalOffset,
+            scrollBarPixelSize,
+            context,
+            uiScale,
+            lineHeightScale,
+            true,
+            null);
+        // SIS-ChatGreeting-End
     }
 
     private readonly UIBox2 DrawBoxContent(
@@ -289,7 +306,9 @@ public struct CustomRichTextEntry
         Vector2i scrollBarPixelSize,
         MarkupDrawingContext context,
         float uiScale,
-        float lineHeightScale = 1)
+        float lineHeightScale = 1,
+        bool drawText = true,
+        List<PanelRenderData>? outPanels = null)
     {
         context.Clear();
         context.Color.Push(_defaultColor);
@@ -307,13 +326,87 @@ public struct CustomRichTextEntry
         var lineBreakIndex = 0;
         var baseLine = drawBox.TopLeft + new Vector2(margin - sPixelWidth, defaultFont.GetAscent(uiScale) + verticalOffset);
         var baseLineBase = baseLine;
+        var boxPadding = BoxPadding * uiScale; // SIS-ChatGreeting
 
         var screenHandle = (DrawingHandleScreen) handle;
+
+        // SIS-ChatGreeting-Start
+        string? activePanelName = null;
+        var activePanelStartY = 0f;
+        var activePanelBg = Color.Transparent;
+        var activePanelBorder = Color.Transparent;
+        float? lastPanelBottomY = null;
+
+        var time = (float) IoCManager.Resolve<IGameTiming>().RealTime.TotalSeconds;
+        var activeAnimTags = new Stack<(IAnimatedColorTag Tag, MarkupNode Node)>();
+        // SIS-ChatGreeting-End
 
         var nodeIndex = -1;
         foreach (var node in Message)
         {
             nodeIndex++;
+
+            // SIS-ChatGreeting-Start
+            if (node.Name == "titlebox" || node.Name == "messagebox")
+            {
+                if (!node.Closing)
+                {
+                    activePanelName = node.Name;
+                    activePanelStartY = baseLine.Y - defaultFont.GetAscent(uiScale) - boxPadding;
+
+                    if (lastPanelBottomY.HasValue && Math.Abs(activePanelStartY - lastPanelBottomY.Value) < boxPadding * 2.5f)
+                        activePanelStartY = lastPanelBottomY.Value;
+
+                    var defaultBg = node.Name == "titlebox" ? "#25252a" : "#1b1a22";
+                    var defaultBorder = node.Name == "titlebox" ? "#3b3b44" : "#282D31";
+
+                    var finalBgStr = defaultBg;
+                    if (node.Attributes.TryGetValue("bg", out var attrBg) && attrBg.StringValue != null)
+                        finalBgStr = attrBg.StringValue;
+
+                    var finalBorderStr = defaultBorder;
+                    if (node.Attributes.TryGetValue("border", out var attrBorder) && attrBorder.StringValue != null)
+                        finalBorderStr = attrBorder.StringValue;
+
+                    activePanelBg = Color.TryFromHex(finalBgStr) ?? Color.Black;
+                    activePanelBorder = Color.TryFromHex(finalBorderStr) ?? Color.White;
+                }
+                else if (activePanelName == node.Name)
+                {
+                    var panelBottomY = baseLine.Y - defaultFont.GetAscent(uiScale) + GetLineHeight(defaultFont, uiScale, lineHeightScale) + boxPadding;
+                    var panelBounds = new UIBox2(
+                        drawBox.Left + margin - boxPadding - sPixelWidth,
+                        activePanelStartY,
+                        drawBox.Right - margin + boxPadding - sPixelWidth,
+                        panelBottomY
+                    );
+
+                    outPanels?.Add(new PanelRenderData
+                    {
+                        Bounds = panelBounds,
+                        BgColor = activePanelBg,
+                        BorderColor = activePanelBorder
+                    });
+
+                    lastPanelBottomY = panelBottomY;
+                    activePanelName = null;
+                }
+
+            }
+
+
+            if (node.Name != null && tagManager.TryGetMarkupTagHandler(node.Name, _tagsAllowed, out var tagHandler))
+            {
+                if (tagHandler is IAnimatedColorTag animTag)
+                {
+                    if (!node.Closing)
+                        activeAnimTags.Push((animTag, node));
+                    else if (activeAnimTags.Count > 0)
+                        activeAnimTags.Pop();
+                }
+            }
+            // SIS-ChatGreeting-End
+
             var text = ProcessNode(tagManager, node, context);
             if (!context.Color.TryPeek(out var color) || !context.Font.TryPeek(out var font))
             {
@@ -330,8 +423,23 @@ public struct CustomRichTextEntry
                     lineBreakIndex += 1;
                 }
 
-                var advance = font.DrawChar(handle, rune, baseLine, uiScale, color);
-                baseLine.X += advance;
+                // SIS-ChatGreeting-Start
+                Color drawColor = color;
+
+                if (activeAnimTags.TryPeek(out var animState))
+                    drawColor = animState.Tag.GetColor(animState.Node, globalBreakCounter, time, color, baseLine);
+
+                if (drawText)
+                {
+                    var advance = font.DrawChar(handle, rune, baseLine, uiScale, drawColor);
+                    baseLine.X += advance;
+                }
+                else
+                {
+                    if (font.TryGetCharMetrics(rune, uiScale, out var metrics))
+                        baseLine.X += metrics.Advance;
+                }
+                // SIS-ChatGreeting-End
 
                 globalBreakCounter += 1;
             }
@@ -347,44 +455,44 @@ public struct CustomRichTextEntry
             var pos = new Vector2(baseLine.X * invertedScale, (baseLine.Y - defaultFont.GetAscent(uiScale)) * invertedScale);
             LayoutContainer.SetPosition(control, pos);
             control.Measure(new Vector2(Width, Height));
-            if (control is StaticSpriteView staticSprite &&
-                staticSprite.Entity is not null &&
+
+            // SIS-ChatGreeting-Start
+            if (drawText && control is StaticSpriteView staticSprite && staticSprite.Entity is not null &&
                 _entManager.TryGetComponent<MetaDataComponent>(staticSprite.Entity, out var metaData) &&
                 _entManager.TryGetComponent<SpriteComponent>(staticSprite.Entity, out var spriteComp) &&
                 !metaData.Deleted)
             {
-                var spritePos = new Vector2(
-                        pos.X + (staticSprite.SetWidth/2),
-                        pos.Y + (staticSprite.SetHeight/2));
-                float spriteScaleX;
-                float spriteScaleY;
-                if (spriteComp.Icon is not null)
-                {
-                    spriteScaleX = staticSprite.SetWidth / spriteComp.Icon.Default.Size.X;
-                    spriteScaleY = staticSprite.SetHeight / spriteComp.Icon.Default.Size.Y;
-                }
-                else
-                {
-                    spriteScaleX = 1f;
-                    spriteScaleY = 1f;
-                }
+                var spritePos = new Vector2(pos.X + (staticSprite.SetWidth / 2), pos.Y + (staticSprite.SetHeight / 2));
+                var spriteScaleX = spriteComp.Icon != null ? staticSprite.SetWidth / spriteComp.Icon.Default.Size.X : 1f;
+                var spriteScaleY = spriteComp.Icon != null ? staticSprite.SetHeight / spriteComp.Icon.Default.Size.Y : 1f;
 
-                screenHandle.DrawEntity(staticSprite.Entity.Value,
-                        spritePos * uiScale,
-                        new Vector2(spriteScaleX, spriteScaleY) * uiScale,
-                        Angle.Zero);
+                screenHandle.DrawEntity(staticSprite.Entity.Value, spritePos * uiScale, new Vector2(spriteScaleX, spriteScaleY) * uiScale, Angle.Zero);
             }
 
-            var advanceX = control.DesiredSize.X + control.Margin.Right;
-            baseLine.X += advanceX;
+            baseLine.X += control.DesiredSize.X + control.Margin.Right;
+            // SIS-ChatGreeting-End
         }
 
-        var boxPadding = (BoxPadding * uiScale);
+        // SIS-ChatGreeting-Start
+        if (activePanelName != null && outPanels != null)
+        {
+            var panelBottomY = baseLine.Y - defaultFont.GetAscent(uiScale) + GetLineHeight(defaultFont, uiScale, lineHeightScale) + boxPadding;
+            outPanels.Add(new PanelRenderData
+            {
+                Bounds = new UIBox2(drawBox.Left + margin - boxPadding - sPixelWidth, activePanelStartY, drawBox.Right - margin + boxPadding - sPixelWidth, panelBottomY),
+                BgColor = activePanelBg,
+                BorderColor = activePanelBorder
+            });
+        }
 
+        var finalBoxPadding = BoxPadding * uiScale;
         return new UIBox2(
-                new Vector2(drawBox.Left + (margin - boxPadding) - sPixelWidth, baseLineBase.Y - boxPadding),
-                new Vector2(drawBox.Right - (margin - boxPadding) - sPixelWidth, baseLine.Y - GetLineHeight(defaultFont, uiScale, lineHeightScale) + boxPadding));
+                new Vector2(drawBox.Left + (margin - finalBoxPadding) - sPixelWidth, baseLineBase.Y - finalBoxPadding),
+                new Vector2(drawBox.Right - (margin - finalBoxPadding) - sPixelWidth,
+                    baseLine.Y - GetLineHeight(defaultFont, uiScale, lineHeightScale) + finalBoxPadding));
+        // SIS-ChatGreeting-End
     }
+
 
     private readonly string ProcessNode(MarkupTagManager tagManager, MarkupNode node, MarkupDrawingContext context)
     {
@@ -416,6 +524,15 @@ public struct CustomRichTextEntry
     private static int GetLineHeight(Font font, float uiScale, float lineHeightScale)
     {
         var height = font.GetLineHeight(uiScale);
-        return (int)(height * lineHeightScale);
+        return (int) (height * lineHeightScale); // SIS-ChatGreeting
     }
+
+    // SIS-ChatGreeting-Start
+    private struct PanelRenderData
+    {
+        public UIBox2 Bounds;
+        public Color BgColor;
+        public Color BorderColor;
+    }
+    // SIS-ChatGreeting-End
 }

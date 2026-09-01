@@ -20,9 +20,29 @@
   mindRoles:
   - MindRoleGhostRoleSoloAntagonist
   briefing:
-    text: tunnel-clown-role-greeting
-    color: Pink
     sound: /Audio/_Goobstation/Misc/clownalwayswinsshort.ogg
+    # SIS-ChatGreeting-Start
+    theme:
+      titleBackground: "#24101e"
+      titleBorder: "#ec4899"
+      messageBackground: "#12060e"
+      messageBorder: "#3d1430"
+      titleText: "#f472b6"
+      messageText: "#fce7f3"
+      highlight1: "#facc15"
+      highlight2: "#ec4899"
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: tunnel-clown-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: tunnel-clown-role-greeting-desc
+    # SIS-ChatGreeting-End
 
 - type: startingGear
   id: TunnelClownAntagGear
@@ -61,9 +81,27 @@
   spawnerPrototype: SpawnPointGhostSingulothKnight
   mindRoles: [ MindRoleGhostRoleFreeAgent ]
   briefing:
-    text: Singuloth-Knight-role-greeting
-    color: Red
     sound: /Audio/_Goobstation/Misc/singulothknight_greeting.ogg
+    theme:
+      titleBackground: "#150d1e"   # Гравитационная сингулярность
+      titleBorder: "#7c3aed"       # Фиолетовый горизонт событий
+      messageBackground: "#08050d" # Черная дыра
+      messageBorder: "#29153d"     # Кайма искривления пространства
+      titleText: "#c084fc"         # Светящийся аметистовый гравитон
+      messageText: "#dcd6e8"       # Пепельно-стальной цвет
+      highlight1: "#c084fc"        # Гравитонный фиолетовый
+      highlight2: "#38bdf8"        # Черенковская лазурь
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: singuloth-knight-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: singuloth-knight-role-greeting-desc
 
 - type: startingGear
   id: SingulothKnightsAntagGear
@@ -88,9 +126,27 @@
   spawnerPrototype: SpawnPointGhostDarkLord
   mindRoles: [ MindRoleGhostRoleSoloAntagonist ]
   briefing:
-    text: dark-lord-role-greeting
-    color: Red
     sound: /Audio/_Goobstation/Misc/darklord_greeting.ogg
+    theme:
+      titleBackground: "#1a0a0d"   # Глубокий обсидиановый доспех
+      titleBorder: "#e71d36"       # Алый световой клинок
+      messageBackground: "#0d0507" # Тьма за забралом шлема
+      messageBorder: "#381218"     # Тёмный костяной титан
+      titleText: "#ff6b81"         # Светящийся багрянец
+      messageText: "#dcd6d8"       # Пепельно-титановая броня
+      highlight1: "#ff6b81"        # Багровый луч
+      highlight2: "#e71d36"        # Алое пламя Тёмной Стороны
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: dark-lord-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: dark-lord-role-greeting-desc
 
 - type: startingGear
   id: DarkLordAntagGear
@@ -114,9 +170,27 @@
   spawnerPrototype: SpawnPointGhostChosenOne
   mindRoles: [ MindRoleGhostRoleNeutral ]
   briefing:
-    text: chosen-one-role-greeting
-    color: Green
     sound: /Audio/_Goobstation/Misc/darklord_greeting.ogg
+    theme:
+      titleBackground: "#14171f"   # Тёмный звёздный титан
+      titleBorder: "#e2e8f0"       # Сияющая платиновая рамка Света
+      messageBackground: "#0b0c10" # Ночной обсидиан
+      messageBorder: "#2d3748"     # Матовая стальная кайма
+      titleText: "#ffffff"         # Чистый белый свет
+      messageText: "#e2e8f0"       # Светлое платиновое серебро
+      highlight1: "#ffffff"        # Чистый свет Силы
+      highlight2: "#93c5fd"        # Мягкий небесный отблеск
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: chosen-one-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: chosen-one-role-greeting-desc
 
 - type: startingGear
   id: ChosenOneProtagGear
@@ -136,9 +210,27 @@
   mindRoles:
   - MindRoleGhostRoleSoloAntagonist
   briefing:
-    text: mime-Assassin-role-greeting
-    color: Red
     sound: /Audio/Misc/thief_greeting.ogg
+    theme:
+      titleBackground: "#16181a"   # Матовый оружейный графит
+      titleBorder: "#475569"       # Холодная сталь глушителя
+      messageBackground: "#0a0b0d" # Глухая ночная тишина
+      messageBorder: "#23272f"     # Сланцевая кайма
+      titleText: "#e2e8f0"         # Полированная платина
+      messageText: "#94a3b8"       # Пепельно-серый шёпот (НЕ БЕЛЫЙ)
+      highlight1: "#ff3838"        # Бесшумный алый выстрел
+      highlight2: "#b91c1c"        # Запёкшаяся кровь
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: mime-assassin-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: mime-assassin-role-greeting-desc
 
 - type: startingGear
   id: MimeAssassinGear
@@ -177,9 +269,27 @@
   spawnerPrototype: SpawnPointGhostDarkPriest
   mindRoles: [ MindRoleGhostRoleFreeAgent ]
   briefing:
-    text: dark-priest-role-greeting
-    color: Purple
     sound: /Audio/_Goobstation/Heretic/Ambience/Antag/Heretic/heretic_gain.ogg
+    theme:
+      titleBackground: "#190d24"   # Глубокий чернильный аметист
+      titleBorder: "#9333ea"       # Тёмно-фиолетовое святилище
+      messageBackground: "#0c0612" # Алтарь Бездны
+      messageBorder: "#2c1240"     # Кайма тёмного благословения
+      titleText: "#d8b4fe"         # Светящийся пепельный аметист
+      messageText: "#e2d9f3"       # Мягкий сумеречный (НЕ БЕЛЫЙ)
+      highlight1: "#c084fc"        # Аметистовая сила
+      highlight2: "#a855f7"        # Тёмный пурпур
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: dark-priest-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: dark-priest-role-greeting-desc
 
 - type: startingGear
   id: DarkPriestAntagGear
@@ -211,9 +321,27 @@
   - MindRoleGhostRoleTeamAntagonist
   - MindRoleThief
   briefing:
-    text: vox-raider-role-greeting
-    color: Purple
     sound: /Audio/Misc/thief_greeting.ogg
+    theme:
+      titleBackground: "#131f1c"   # Тёмный азотный сплав
+      titleBorder: "#14b8a6"       # Азотно-бирюзовый визор
+      messageBackground: "#081210" # Трюм челнока воксов
+      messageBorder: "#1c3832"     # Игольчатая кайма
+      titleText: "#5eead4"         # Бирюзовое перо
+      messageText: "#ccfbf1"       # Азотный туман (НЕ БЕЛЫЙ)
+      highlight1: "#f59e0b"        # Золото добычи
+      highlight2: "#14b8a6"        # Бирюзовый янтарь стаи
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: vox-raider-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: vox-raider-role-greeting-desc
 
 - type: startingGear
   id: VoxRaiderAntagGear

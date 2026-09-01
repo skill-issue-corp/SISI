@@ -90,7 +90,18 @@ blob-carrier-role-name = Blob carrier
 blob-carrier-role-desc =  A blob-infected creature.
 blob-carrier-role-rules = You are an antagonist. You have 10 minutes before you transform into a blob.
                         Use this time to find a safe spot on the station. Keep in mind that you will be very weak right after the transformation.
-blob-carrier-role-greeting = You are a carrier of Blob. Find a secluded place at the station and transform into a Blob. Turn the station into a mass and its inhabitants into your servants. We are all Blobs.
+# SIS-Start
+## --- Blob Carrier Greeting ---
+blob-carrier-role-greeting =
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Носитель Блоба[/gradient]!
+    В вашем теле дремлет космический паразит 5-го уровня биоугрозы.
+    Ваша задача: [color={$hl1}]найти изолированное место[/color] на станции и приготовиться к рождению Ядра.
+
+blob-carrier-role-greeting-desc =
+    • [color={$hl1}]Инкубация:[/color] у вас есть ограниченное время до взрыва. Спрячьтесь в тихих техотсеках или заброшенных комнатах.
+    • [color={$hl1}]Уязвимость:[/color] сразу после перерождения ваше Ядро будет [color={$hl1}]очень слабым[/color] — не выдавайте себя раньше времени.
+    • [color={$hl1}]Экспансия:[/color] после превращения стройте фабрики, ставьте узлы и [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]поглотите станцию целиком[/gradient]!
+# SIS-End
 
 # Verbs
 blob-pod-verb-zombify = Zombify
@@ -103,14 +114,17 @@ blob-health-alert-name = Core Health
 blob-health-alert-desc = Your core's health. You will die if it reaches zero.
 
 # Greeting
+# SIS-Start
+## --- Blob Role Greeting ---
 blob-role-greeting =
-    You are blob - a parasitic space creature capable of destroying entire stations.
-        Your goal is to survive and grow as large as possible.
-        You are almost invulnerable to physical damage, but heat can still hurt you.
-        Use Alt+LMB to upgrade normal blob tiles to strong blob and strong blob to reflective blob.
-        Make sure to place resource blobs to generate resources.
-        Keep in mind that resource blobs and factories will only work when next to node blobs or cores.
-        You may use + or +e in chat to use the Blobmind to talk to your minions.
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Ядро Блоба[/gradient], сверхорганическая космическая биомасса!
+    Ваша цель — поглотить станцию и достичь [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]критической массы[/gradient].
+
+blob-role-desc =
+    • [color={$hl1}]Защита:[/color] улучшайте обычные клетки в усиленные (защита от пуль) и отражающие (защита от лазеров) через Alt+ЛКМ.
+    • [color={$hl1}]Экономика:[/color] стройте ресурсные клетки и фабрики [color={$hl1}]рядом с Узлами или Ядром[/color].
+    • [color={$hl1}]Коллективный разум:[/color] используйте [color={$hl1}]+[/color] или [color={$hl1}]+e[/color] в чате для командования подчинёнными.
+# SIS-End
 blob-zombie-greeting = You were infected and raised by a blob spore. Now you must help the blob take over the station. Use +e in chat to talk in the Blobmind.
 
 # End round

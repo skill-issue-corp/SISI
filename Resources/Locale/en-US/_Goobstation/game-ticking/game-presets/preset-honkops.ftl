@@ -7,10 +7,19 @@
 honkops-title = Honklear Operatives
 honkops-description = Honklear operatives have targeted the station. Try to keep them from arming and detonating the nuke by protecting the nuke disk!
 
-honkops-welcome =
-    You are a honklear operative. Your goal is to blow up {$station}, and ensure that it is nothing but a pile of rubble. Your bosses, the Honkicate, have provided you with the tools you'll need for the task.
-    Operation {$name} is a go! Honk!
-honkops-briefing = Your objectives are simple. Deliver the payload and make sure it detonates. Begin mission. Honk!
+# SIS-Start
+## --- Honkops Greeting ---
+honkops-role-greeting =
+    Командование [gradient color1="{$hl1}" color2="{$hl2}"]Синдиката[/gradient] доверило красную кнопку тем, кто понимает истинную природу хаоса.
+    Вы - [gradient color1="{$hl1}" color2="{$hl2}"]Хонк-Оперативник[/gradient].
+    Ваша цель: превратить [gradient color1="{$hl1}" color2="{$hl2}"]{ $station }[/gradient] в пыль с помощью нашей [gradient color1="{$hl1}" color2="{$hl2}"]боеГОЛОВКИ)))[/gradient].
+
+    Операция «[gradient color1="{$hl1}" color2="{$hl2}"]{ $name }[/gradient]» началась. Заправьте клоун-кар, проверьте маски и устройте этим занудам грандиозный фильм.
+honkops-role-greeting-desc =
+    План предельно простой: доставить [gradient color1="{$hl1}" color2="{$hl2}"]заряд[/gradient] в сердце станции, запустить таймер и защищать его во имя Хонкоматери до победной [gradient color1="{$hl1}" color2="{$hl2}" ]детонации[/gradient].
+
+    {"["}rainbow speed="0.1"]Смерть NanoTrasen! Да начнётся великий ХОНК![/rainbow]
+# SIS-End
 
 honkops-opsmajor = [color=crimson]Honkicate major victory![/color]
 honkops-opsminor = [color=crimson]Honkicate minor victory![/color]

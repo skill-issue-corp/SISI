@@ -15,6 +15,30 @@
   id: MothershipCore
   prefRoles: [ MothershipCore ]
   spawnerPrototype: SpawnPointGhostRoleMothershipCore
+  # SIS-ChatGreeting-Start
+  briefing:
+    sound: /Audio/Ambience/Antag/xenoborg_start.ogg
+    theme:
+      titleBackground: "#0a192f"
+      titleBorder: "#2563eb"
+      messageBackground: "#020617"
+      messageBorder: "#1e3a8a"
+      titleText: "#00bfff"
+      messageText: "#e0f2fe"
+      highlight1: "#38bdf8"
+      highlight2: "#e0f2fe"
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: mothership-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: mothership-greeting-desc
+  # SIS-ChatGreeting-End
 
 - type: antag
   id: Xenoborg
@@ -34,6 +58,27 @@
   id: BaseXenoborg
   prefRoles: [ Xenoborg ]
   spawnerPrototype: SpawnPointGhostRoleXenoborg
+  briefing:
+    sound: /Audio/Ambience/Antag/xenoborg_start.ogg
+    theme:
+      titleBackground: "#0a192f"   # Холодный тёмный кибер-металл
+      titleBorder: "#2563eb"       # Синий контур
+      messageBackground: "#020617" # Чёрный хром
+      messageBorder: "#1e3a8a"     # Тёмно-синяя кайма
+      titleText: "#00bfff"         # Светящийся DeepSkyBlue
+      messageText: "#e0f2fe"       # Ледяной стальной текст
+      highlight: "#00ffff"         # Неоновый циан
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: xenoborgs-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: xenoborgs-greeting-desc
 
 - type: antagSpecifier
   parent: BaseXenoborg

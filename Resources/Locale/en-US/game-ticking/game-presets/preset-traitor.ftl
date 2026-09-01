@@ -23,22 +23,30 @@ traitor-death-match-end-round-description-entry = {$originalName}'s PDA, with {$
 ## TraitorRole
 
 # TraitorRole
+# SIS-Start
 traitor-role-greeting =
-    You are an agent sent by [color = darkred]The Syndicate[/color] on behalf of {$corporation}.
-    Your objectives and codewords are listed in the character menu.
-    Use your uplink to buy the tools you'll need for this mission.
-    Death to Nanotrasen!
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]тайный агент[/gradient] корпорации [color={$hl1}]{ $corporation }[/color] на службе [color={$hl1}]Синдиката[/color].
+    Ваши цели и кодовые слова доступны в меню персонажа.
+    Воспользуйтесь своим аплинком, чтобы приобрести необходимое снаряжение для выполнения контракта.
+
+    {"["}gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]Смерть NanoTrasen![/gradient]
+
+traitor-title-codewords = Кодовые слова
+traitor-title-equipment = Снаряжение
+
 traitor-role-codewords =
-    The codewords are: [color = lightgray]
-    {$codewords}.[/color]
-    Codewords can be used in regular conversation to identify yourself discreetly to other syndicate agents.
-    Listen for them, and keep them secret.
+    Кодовые фразы для связи с союзниками:
+    {"["}color={$hl1}]{ $codewords }[/color]
+    Используйте эти слова в обычной речи, чтобы [color={$hl1}]найти других агентов[/color] Синдиката на станции. Прислушивайтесь к разговорам вокруг и держите свои фразы в секрете!
+
 traitor-role-uplink-code =
-    Set your ringtone to the notes [color = lightgray]{$code}[/color] to lock or unlock your uplink.
-    Remember to lock it after, or the station's crew might find it!
+    Для доступа к аплинку установите рингтон КПК на код: [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]{ $code }[/gradient]
+    {"["}color={$hl1}]Внимание:[/color] обязательно смените рингтон или заблокируйте КПК после покупок, иначе любой член экипажа сможет обнаружить ваш аплинк!
+
 traitor-role-uplink-implant =
-    Your uplink implant has been activated, access it from your hotbar.
-    The uplink is secure unless someone removes it from your body.
+    В ваше тело встроен [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]имплант-аплинк[/gradient]. Активируйте его из панели действий ([color={$hl1}]хотбара[/color]).
+    Магазин скрыт внутри вас и недоступен охране, пока имплант не извлекут хирургическим путём.
+# SIS-End
 
 # don't need all the flavour text for character menu
 traitor-role-codewords-short =

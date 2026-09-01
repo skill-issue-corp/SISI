@@ -6,16 +6,23 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
+# SIS-Start
 thief-role-greeting-human =
-    You are criminal scum, a kleptomaniac previously arrested and on parole for petty theft. You need to add more to your collection.
-    You were forcibly given a pacifism implant after your last arrest, but that can't stop you from getting your fix by any means necessary.
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="0.8"]Клептоман и Вор-рецидивист[/gradient].
+    Ваша коллекция сокровищ требует пополнения.
+    После прошлого ареста вам вживили [color={$hl1}]имплант Пацифизма[/color] (вы не можете напрямую вредить экипажу), но ничто не помешает вам забрать всё, что плохо лежит.
 
 thief-role-greeting-animal =
-    You are a kleptomaniac animal.
-    Steal things that you like.
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="0.8"]Животное-клептоман[/gradient]!
+    Блестящие вещи людей так и манят... [color={$hl1}]Воруйте всё, что вам понравится[/color], и прячьте в укромных местах!
+
+thief-role-greeting-equipment-title = Снаряжение
 
 thief-role-greeting-equipment =
-    You have a satchel of thieves' tools and possess the innate ability to steal without notice. Choose your starting equipment, and do your work stealthily.
+    • [color={$hl1}]Снаряжение:[/color] откройте мешок воровских инструментов и выберите стартовый набор отмычек и гаджетов.
+    • [color={$hl1}]Ловкость рук:[/color] вы обладаете талантом обчищать карманы и снимать снаряжение абсолютно [gradient color1="{$hl1}" color2="{$hl2}" speed="0.8"]незаметно для жертвы[/gradient].
+    • [color={$hl1}]Контракты:[/color] ваши цели на кражу указаны в меню персонажа. [color={$hl1}]Не попадайтесь охране![/color]
+# SIS-End
 
 objective-issuer-thief = [color=#746694]Criminal[/color]
 

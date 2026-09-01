@@ -9,5 +9,17 @@
   id: Dragon
   spawnerPrototype: SpawnPointGhostDragon
   pickPlayer: false
+  # SIS-ChatGreeting-Start
+  briefing:
+    theme:
+      titleBackground: "#0d141e"
+      titleBorder: "#2e86de"
+      messageBackground: "#060a0f"
+      messageBorder: "#183a5a"
+      titleText: "#54a0ff"
+      messageText: "#c8d6e5"
+      highlight1: "#7567b6"
+      highlight2: "#00f2fe"
+  # SIS-ChatGreeting-End
   mindRoles:
   - MindRoleDragon

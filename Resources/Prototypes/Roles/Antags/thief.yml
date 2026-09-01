@@ -27,7 +27,16 @@
   - MindRoleThief
   briefing:
     sound: "/Audio/Misc/thief_greeting.ogg"
-
+    # SIS-ChatGreeting-Start
+    theme:
+      titleBackground: "#15181a"
+      titleBorder: "#2d3436"
+      messageBackground: "#0b0d0e"
+      messageBorder: "#1e2224"
+      text: "#747d8c"
+      highlight1: "#20bf6b"
+      highlight2: "#265581"
+    # SIS-ChatGreeting-End
 - type: startingGear
   id: ThiefGear
   storage:

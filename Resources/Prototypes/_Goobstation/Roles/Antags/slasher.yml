@@ -13,9 +13,29 @@
   spawnerPrototype: SpawnPointGhostSlasher
   startingGear: SlasherGear
   briefing:
-    text: slasher-role-greeting
-    color: Red
     sound: /Audio/_Goobstation/Effects/Slasher/SlasherIntro.ogg
+    # SIS-ChatGreeting-Start
+    theme:
+      titleBackground: "#16181d"
+      titleBorder: "#64748b"
+      messageBackground: "#0b0c0e"
+      messageBorder: "#272b34"
+      titleText: "#cbd5e1"
+      messageText: "#94a3b8"
+      highlight1: "#ff1744"
+      highlight2: "#800f2f"
+    sections:
+    - priority: 0
+      title:
+        text: role-greeting-title
+      message:
+        text: slasher-role-greeting
+    - priority: 1
+      title:
+        text: role-greeting-desc-title
+      message:
+        text: slasher-role-greeting-desc
+    # SIS-ChatGreeting-End
   mindRoles: [ MindRoleSlasher ]
   components:
   - type: Slasher

@@ -7,11 +7,19 @@ roundend-prepend-devil-contracts-named = [color=white]{$name}[/color] has made [
 devil-component-examined = [color=darkred]{CAPITALIZE(POSS-ADJ($target))} eyes glow a faint red.[/color]
 condemned-component-examined = [color=chartreuse]{CAPITALIZE($target)}'s eyes are hollow and soulless.[/color]
 
-devil-role-greeting = You are a devil from the depths of hell,
-  who has possessed the body of {$playerName}
-  Corrupt mortals and collect souls through the use of contracts.
-  It is not in your interest to do tasks unrelated to your deals, they are beneath you.
-  Your true name is {$trueName} - Try to keep it a secret, will you?
+# SIS-Start
+## --- Devil Greeting ---
+devil-role-greeting =
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Дьявол[/gradient], владыка Преисподней, подчинивший себе смертную оболочку [color={$hl1}]{$playerName}[/color]!
+
+    Ваше тайное Истинное Имя: [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]«{$trueName}»[/gradient].
+    Держите его в строжайшей тайне, ведь знание этого имени дарует смертным силу изгнать вас!
+
+devil-role-desc =
+    • [color={$hl1}]Контракты за Души:[/color] искушайте членов экипажа, заключайте адские сделки и забирайте их [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]бессмертные Души[/gradient] в обмен на силу, оружие и богатства.
+    • [color={$hl1}]Инфернальная мощь:[/color] чем больше душ вы пожнёте, тем сильнее станет ваша темная магия и способности.
+    • [color={$hl1}]Опасность веры:[/color] Священник станции, Библии и Святая Вода способны сжечь вашу плоть и сорвать ваши планы!
+# SIS-End
 
 devil-true-name-heard = The act of {$speaker} commanding {$target}'s true name compels {POSS-ADJ($target)} to stop.
 devil-true-name-heard-chaplain = The act of {$speaker}'s holy words commanding their true name burns away at {$target}'s very soul.

@@ -1,8 +1,14 @@
 shadow-demon-round-end-agent-name = shadow demon
 
+# SIS-Start
+## --- Shadow Demon Greeting ---
 shadow-demon-role-greeting =
-    You are a shadow demon!
-    You are a lethal ambush predator who thrives in the darkness, calling upon the shadows to heal your injured form and increase your speed.
-    Light is however your worst enemy and being exposed for too long will be fatal.
-    Striking your victims with your shadow grapple extinguishes any light sources around them. Striking items silences any light within them.
-    You can wrap your dead victims into a shadow cocoon which provides a shroud of darkness that tears away any light near it.
+    Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Теневой Демон[/gradient]!
+    Смертоносный хищник-засадник, сотканный из первородного мрака. Ваша стихия - темнота, дарующая вам огромную скорость и мгновенную регенерацию ран.
+
+shadow-demon-role-greeting-desc =
+    • [color={$hl1}]Смертоносный свет:[/color] избегайте освещенных отсеков. Длительное нахождение на свету [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]сжигает вашу плоть и смертельно для вас[/gradient]!
+    • [color={$hl1}]Теневая хватка:[/color] ваши удары по жертвам и объектам мгновенно [color={$hl1}]гасят и глушат все источники света[/color] вокруг них.
+    • [color={$hl1}]Теневой кокон:[/color] упаковывайте тела павших в коконы: они создают постоянный покров тьмы и разрушают лампы поблизости.
+    • [color={$hl1}]Тактика охоты:[/color] устраивайте засады в техотсеках, выбивайте щитки питания и [gradient color1="{$hl1}" color2="{$hl2}" speed="1.2"]утаскивайте одиночек во мрак[/gradient]!
+# SIS-End
