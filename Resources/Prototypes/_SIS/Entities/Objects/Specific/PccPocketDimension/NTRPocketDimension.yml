@@ -2,7 +2,7 @@
 
 - type: entity
   parent: PottedPlantBase
-  id: PccDimensionPot
+  id: NTRDimensionPot
   name: загадочный камин
   description: Старый кирпичный камин. Кажется, его пламя ведет в совершенно другое место.
   suffix: Dimension
@@ -48,11 +48,3 @@
         layer:
         - WallLayer
         hard: false
-
-- type: entity
-  parent: PortalBlue
-  id: DimensionPotExitPortal
-  suffix: Dimension pot exit
-  components:
-  - type: Portal
-    canTeleportToOtherMaps: true # or else you cant leave

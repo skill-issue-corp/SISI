@@ -377,23 +377,6 @@
   resetRestockOnPurchase: true
   restockAfterPurchase: 1800 #30min
 
-- type: listing
-  id: PccDimensionPotListing
-  name: "Карманный офис ПЦК"
-  description: "Заказ персонального портативного резонатора для ухода в штаб Центкома."
-  productEntity: SpawnPodPccDimensionPotListing # Указываем ID нашего горшка из Части 1
-  icon:
-    sprite: Objects/Misc/coins.rsi
-    state: coin_gold
-  cost:
-    NTLoyaltyPoint: 35
-  categories:
-  - NTRpersonal
-  restockTime: 1
-  resetRestockOnPurchase: true
-  restockAfterPurchase: 1
-
-
 # Machine boards
 
 - type: listing

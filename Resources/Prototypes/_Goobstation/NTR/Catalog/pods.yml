@@ -91,16 +91,6 @@
     prototype: ClothingOuterHardsuitExperimentalNanorep
 
 - type: entity
-  id: SpawnPodPccDimensionPotListing
-  categories: [ HideSpawnMenu ]
-  name: SpawnSupplyHardsuit
-  parent: SpawnSupplyEmpty
-  components:
-  - type: SpawnOnDespawn
-    prototype: PccDimensionPot
-
-
-- type: entity
   id: SpawnPodGoldCase
   categories: [ HideSpawnMenu ]
   name: SpawnSupplyCigar

@@ -1,0 +1,10 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: entity
+  id: SpawnPodNTRDimensionPotListing
+  categories: [ HideSpawnMenu ]
+  name: SpawnSupplyHardsuit
+  parent: SpawnSupplyEmpty
+  components:
+  - type: SpawnOnDespawn
+    prototype: NTRDimensionPot
