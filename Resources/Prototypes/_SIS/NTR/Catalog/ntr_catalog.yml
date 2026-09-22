@@ -2,8 +2,8 @@
 
 - type: listing
   id: NTRDimension
-  name: Карманный офис ПЦК
-  description: Заказ персонального портативного резонатора для ухода в штаб Центкома.
+  name: ntr-dimension-name
+  description: ntr-dimension-desc
   productEntity: SpawnPodNTRDimension
   icon:
     sprite: Objects/Misc/coins.rsi
