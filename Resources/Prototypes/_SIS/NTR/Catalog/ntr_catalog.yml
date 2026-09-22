@@ -1,10 +1,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - type: listing
-  id: NTRDimensionPotListing
+  id: NTRDimension
   name: Карманный офис ПЦК
   description: Заказ персонального портативного резонатора для ухода в штаб Центкома.
-  productEntity: SpawnPodNTRDimensionPotListing
+  productEntity: SpawnPodNTRDimension
   icon:
     sprite: Objects/Misc/coins.rsi
     state: coin_gold

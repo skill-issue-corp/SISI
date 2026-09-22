@@ -2,7 +2,7 @@
 
 - type: entity
   parent: PottedPlantBase
-  id: NTRDimensionPot
+  id: NTRDimensionFireplace
   name: загадочный камин
   description: Старый кирпичный камин. Кажется, его пламя ведет в совершенно другое место.
   suffix: Dimension
