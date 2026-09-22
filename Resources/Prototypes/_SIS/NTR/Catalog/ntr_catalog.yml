@@ -1,0 +1,17 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: listing
+  id: NTRDimension
+  name: ntr-dimension-name
+  description: ntr-dimension-desc
+  productEntity: SpawnPodNTRDimension
+  icon:
+    sprite: Structures/Decoration/fireplace.rsi
+    state: fireplace
+  cost:
+    NTLoyaltyPoint: 35
+  categories:
+  - NTRpersonal
+  restockTime: 1
+  resetRestockOnPurchase: true
+  restockAfterPurchase: 1

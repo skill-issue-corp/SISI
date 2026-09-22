@@ -1,0 +1,36 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: entity
+  parent: Fireplace
+  id: NTRDimensionFireplace
+  name: загадочный камин
+  description: Старый кирпичный камин. Кажется, его пламя ведет в совершенно другое место.
+  suffix: Dimension
+  categories: [ DoNotMap ]
+  components:
+  - type: PocketDimension
+    pocketDimensionPath: /Maps/_SIS/ntr-pocket-dimension.yml
+  - type: Destructible
+    thresholds: []
+  - type: CargoSellBlacklist
+  - type: Portal
+    canTeleportToOtherMaps: true
+    randomTeleport: false
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeCircle
+          radius: 0.1
+        density: 190
+        mask:
+        - HighImpassable
+      portalFixture:
+        shape:
+          !type:PhysShapeAabb
+          bounds: "-0.25,-0.48,0.25,0.48"
+        mask:
+        - FullTileMask
+        layer:
+        - WallLayer
+        hard: false
