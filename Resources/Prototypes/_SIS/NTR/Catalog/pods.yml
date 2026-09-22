@@ -3,7 +3,6 @@
 - type: entity
   id: SpawnPodNTRDimensionPotListing
   categories: [ HideSpawnMenu ]
-  name: SpawnSupplyHardsuit
   parent: SpawnSupplyEmpty
   components:
   - type: SpawnOnDespawn

@@ -21,11 +21,9 @@
       - state: fireplace_glow
         shader: unshaded
   - type: PocketDimension
-    pocketDimensionPath: /Maps/_SIS/pcc-pocket-dimension.yml
-  # no (easily) deleting items with it
+    pocketDimensionPath: /Maps/_SIS/ntr-pocket-dimension.yml
   - type: Destructible
     thresholds: []
-  # nuh uh
   - type: CargoSellBlacklist
   - type: Portal
     canTeleportToOtherMaps: true
