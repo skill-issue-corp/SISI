@@ -6,8 +6,8 @@
   description: ntr-dimension-desc
   productEntity: SpawnPodNTRDimension
   icon:
-    sprite: Objects/Misc/coins.rsi
-    state: coin_gold
+    sprite: Structures/Decoration/fireplace.rsi
+    state: fireplace
   cost:
     NTLoyaltyPoint: 35
   categories:
