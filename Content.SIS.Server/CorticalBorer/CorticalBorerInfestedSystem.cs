@@ -25,25 +25,14 @@ public sealed partial class CorticalBorerInfestedSystem : EntitySystem
     [Dependency] private CorticalBorerSystem _borer = default!;
     [Dependency] private INetManager _netMan = default!;
 
-    public override void Initialize()
-    {
-        SubscribeLocalEvent<CorticalBorerInfestedComponent, MapInitEvent>(OnInit);
-        SubscribeLocalEvent<CorticalBorerInfestedComponent, ExaminedEvent>(OnExaminedInfested);
-        SubscribeLocalEvent<CorticalBorerInfestedComponent, ComponentShutdown>(OnComponentShutdown);
-
-        SubscribeLocalEvent<CorticalBorerInfestedComponent, OrganGotRemovedEvent>(OnBodyPartRemoved);
-        SubscribeLocalEvent<CorticalBorerInfestedComponent, MobStateChangedEvent>(OnStateChange);
-        SubscribeLocalEvent<CorticalBorerInfestedComponent, MindRemovedMessage>(OnMindRemoved);
-        SubscribeLocalEvent<CorticalBorerInfestedComponent, RadioMessageHeardEvent>(BorerRadioReceive);
-        SubscribeLocalEvent<CorticalBorerInfestedComponent, PolymorphedEvent>(OnPolymorph);
-    }
-
+    [SubscribeLocalEvent]
     private void OnInit(Entity<CorticalBorerInfestedComponent> infested, ref MapInitEvent args)
     {
         infested.Comp.ControlContainer = _container.EnsureContainer<Container>(infested, "ControlContainer");
         infested.Comp.InfestationContainer = _container.EnsureContainer<Container>(infested, "InfestationContainer");
     }
 
+    [SubscribeLocalEvent]
     private void OnExaminedInfested(Entity<CorticalBorerInfestedComponent> infected, ref ExaminedEvent args)
     {
         if (!args.IsInDetailsRange
@@ -62,6 +51,7 @@ public sealed partial class CorticalBorerInfestedSystem : EntitySystem
         args.PushMarkup(Loc.GetString("cortical-borer-self-examine", ("chempoints", infected.Comp.Borer.Comp.ChemicalPoints)));
     }
 
+    [SubscribeLocalEvent]
     private void OnStateChange(Entity<CorticalBorerInfestedComponent> infected, ref MobStateChangedEvent args)
     {
         if (args.NewMobState != MobState.Dead)
@@ -71,12 +61,14 @@ public sealed partial class CorticalBorerInfestedSystem : EntitySystem
             _borer.EndControl(infected.Comp.Borer);
     }
 
+    [SubscribeLocalEvent]
     private void OnComponentShutdown(Entity<CorticalBorerInfestedComponent> infected, ref ComponentShutdown args)
     {
         if (infected.Comp is not null && infected.Comp.Borer.Comp is not null && infected.Comp.Borer.Comp.ControlingHost)
             _borer.EndControl(infected.Comp.Borer);
     }
 
+    [SubscribeLocalEvent]
     private void OnBodyPartRemoved(Entity<CorticalBorerInfestedComponent> infected, ref OrganGotRemovedEvent args)
     {
         if (TryComp<BodyPartComponent>(args.Target, out var part) &&
@@ -87,6 +79,7 @@ public sealed partial class CorticalBorerInfestedSystem : EntitySystem
         }
     }
 
+    [SubscribeLocalEvent]
     private void OnMindRemoved(Entity<CorticalBorerInfestedComponent> infected, ref MindRemovedMessage args)
     {
         if (infected.Comp.Borer.Comp.ControlingHost)
@@ -96,6 +89,7 @@ public sealed partial class CorticalBorerInfestedSystem : EntitySystem
         }
     }
 
+    [SubscribeLocalEvent]
     private void BorerRadioReceive(Entity<CorticalBorerInfestedComponent> infected, ref RadioMessageHeardEvent args)
     {
         if (TryComp(infected.Comp.Borer, out ActorComponent? borerActor))
@@ -107,6 +101,7 @@ public sealed partial class CorticalBorerInfestedSystem : EntitySystem
         }
     }
 
+    [SubscribeLocalEvent]
     private void OnPolymorph(Entity<CorticalBorerInfestedComponent> infected, ref PolymorphedEvent args)
     {
         var borer = infected.Comp.Borer;

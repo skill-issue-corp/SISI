@@ -8,13 +8,7 @@ namespace Content.SIS.Client.CorticalBorer;
 
 public sealed class CorticalBorerSystem : SharedCorticalBorerSystem
 {
-    public override void Initialize()
-    {
-        base.Initialize();
-
-        SubscribeLocalEvent<CorticalBorerComponent, GetGenericAlertCounterAmountEvent>(OnGetCounterAmount);
-    }
-
+    [SubscribeLocalEvent]
     private void OnGetCounterAmount(Entity<CorticalBorerComponent> ent, ref GetGenericAlertCounterAmountEvent args)
     {
         if (args.Handled)

@@ -11,12 +11,10 @@ public sealed partial class SIS_SharedSurgerySystem : EntitySystem
     public override void Initialize()
     {
         base.Initialize();
-
-        SubscribeLocalEvent<SurgeryCorticalBorerConditionComponent, SurgeryValidEvent>(OnCorticalBorerValid);
-
         InitializeSteps();
     }
 
+    [SubscribeLocalEvent]
     private void OnCorticalBorerValid(Entity<SurgeryCorticalBorerConditionComponent> ent, ref SurgeryValidEvent args)
     {
         if (!HasComp<CorticalBorerInfestedComponent>(args.Body) ||

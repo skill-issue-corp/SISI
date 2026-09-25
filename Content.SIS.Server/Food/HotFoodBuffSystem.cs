@@ -7,18 +7,7 @@ namespace Content.SIS.Server.Food;
 
 public sealed partial class HotFoodBuffSystem : EntitySystem
 {
-
     [Dependency] private SharedSolutionContainerSystem _solutionContainer = default!;
-
-    public override void Initialize()
-    {
-        base.Initialize();
-
-        SubscribeLocalEvent<HeatableFoodComponent, StopMicrowaveEvent>(StopMicrowave);
-        SubscribeLocalEvent<HotFoodBuffComponent, MapInitEvent>(BuffFood);
-        SubscribeLocalEvent<HotFoodBuffComponent, ExaminedEvent>(OnExamine);
-        SubscribeLocalEvent<HotFoodBuffComponent, ComponentRemove>(DeBuffFood);
-    }
 
     public override void Update(float frameTime)
     {
@@ -38,11 +27,13 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
         }
     }
 
+    [SubscribeLocalEvent]
     private void StopMicrowave(EntityUid uid, HeatableFoodComponent comp, ref StopMicrowaveEvent args)
     {
         EnsureComp<HotFoodBuffComponent>(uid);
     }
 
+    [SubscribeLocalEvent]
     private void BuffFood(EntityUid uid, HotFoodBuffComponent comp, MapInitEvent args)
     {
         if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))
@@ -52,11 +43,13 @@ public sealed partial class HotFoodBuffSystem : EntitySystem
         edibleComp.TransferAmount *= comp.NutritionalValueMultiplier;
     }
 
+    [SubscribeLocalEvent]
     private void OnExamine(EntityUid uid, HotFoodBuffComponent comp, ExaminedEvent args)
     {
         args.PushMarkup(Loc.GetString("hot-food-buff-component-on-examine"));
     }
 
+    [SubscribeLocalEvent]
     private void DeBuffFood(EntityUid uid, HotFoodBuffComponent comp, ComponentRemove args)
     {
         if (!TryComp<EdibleComponent>(comp.Owner, out var edibleComp))

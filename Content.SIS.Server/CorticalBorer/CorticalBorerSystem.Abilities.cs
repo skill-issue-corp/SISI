@@ -16,22 +16,9 @@ public sealed partial class CorticalBorerSystem
 {
     [Dependency] private VomitSystem _vomit = default!;
 
-    private void SubscribeAbilities()
-    {
-        SubscribeLocalEvent<CorticalBorerComponent, CorticalInfestEvent>(OnInfest);
-        SubscribeLocalEvent<CorticalBorerComponent, CorticalInfestDoAfterEvent>(OnInfestDoAfter);
+    private void SubscribeAbilities() {}
 
-        SubscribeLocalEvent<CorticalBorerComponent, CorticalEjectEvent>(OnEjectHost);
-        SubscribeLocalEvent<CorticalBorerComponent, CorticalTakeControlEvent>(OnTakeControl);
-
-        SubscribeLocalEvent<CorticalBorerComponent, CorticalChemMenuActionEvent>(OnChemcialMenu);
-        SubscribeLocalEvent<CorticalBorerComponent, CorticalCheckBloodEvent>(OnCheckBlood);
-
-
-        SubscribeLocalEvent<CorticalBorerInfestedComponent, CorticalEndControlEvent>(OnEndControl);
-        SubscribeLocalEvent<CorticalBorerInfestedComponent, CorticalLayEggEvent>(OnLayEgg);
-    }
-
+    [SubscribeLocalEvent]
     private void OnChemcialMenu(Entity<CorticalBorerComponent> ent, ref CorticalChemMenuActionEvent args)
     {
         if(!TryComp<UserInterfaceComponent>(ent, out var uic))
@@ -46,6 +33,7 @@ public sealed partial class CorticalBorerSystem
         _ui.TryToggleUi((ent, uic), CorticalBorerDispenserUiKey.Key, ent);
     }
 
+    [SubscribeLocalEvent]
     private void OnInfest(Entity<CorticalBorerComponent> ent, ref CorticalInfestEvent args)
     {
         var (uid, comp) = ent;
@@ -105,6 +93,7 @@ public sealed partial class CorticalBorerSystem
         _doAfter.TryStartDoAfter(infestArgs);
     }
 
+    [SubscribeLocalEvent]
     private void OnInfestDoAfter(Entity<CorticalBorerComponent> ent, ref CorticalInfestDoAfterEvent args)
     {
         if (args.Handled)
@@ -124,6 +113,7 @@ public sealed partial class CorticalBorerSystem
         args.Handled = true;
     }
 
+    [SubscribeLocalEvent]
     private void OnEjectHost(Entity<CorticalBorerComponent> ent, ref CorticalEjectEvent args)
     {
         if (args.Handled)
@@ -145,6 +135,7 @@ public sealed partial class CorticalBorerSystem
         args.Handled = true;
     }
 
+    [SubscribeLocalEvent]
     private void OnCheckBlood(Entity<CorticalBorerComponent> ent, ref CorticalCheckBloodEvent args)
     {
         if (args.Handled)
@@ -161,6 +152,7 @@ public sealed partial class CorticalBorerSystem
         args.Handled = true;
     }
 
+    [SubscribeLocalEvent]
     private void OnTakeControl(Entity<CorticalBorerComponent> ent, ref CorticalTakeControlEvent args)
     {
         if (args.Handled)
@@ -198,6 +190,7 @@ public sealed partial class CorticalBorerSystem
         args.Handled = true;
     }
 
+    [SubscribeLocalEvent]
     private void OnEndControl(Entity<CorticalBorerInfestedComponent> host, ref CorticalEndControlEvent args)
     {
         if (args.Handled)
@@ -208,6 +201,7 @@ public sealed partial class CorticalBorerSystem
         args.Handled = true;
     }
 
+    [SubscribeLocalEvent]
     private void OnLayEgg(Entity<CorticalBorerInfestedComponent> host, ref CorticalLayEggEvent args)
     {
         if (args.Handled)

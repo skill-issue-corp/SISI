@@ -28,13 +28,7 @@ public sealed partial class AutoDebugSmes : EntitySystem
 
     private bool _handled = true;
 
-    public override void Initialize()
-    {
-        base.Initialize();
-
-        SubscribeLocalEvent<RoundStartingEvent>(OnRoundStarting);
-    }
-
+    [SubscribeLocalEvent]
     private void OnRoundStarting(RoundStartingEvent args)
     {
         _timer = 0;

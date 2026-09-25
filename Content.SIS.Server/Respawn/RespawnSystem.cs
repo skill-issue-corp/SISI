@@ -25,17 +25,11 @@ public sealed partial class RespawnSystem : SharedRespawnSystem
     {
         base.Initialize();
 
-        SubscribeLocalEvent<RespawnComponent, MapInitEvent>(OnMapInit);
-
         SubscribeLocalEvent<RespawnComponent, PlayerAttachedEvent>(OnMindAdded);
         SubscribeLocalEvent<RespawnComponent, MindAddedMessage>(OnMindAdded);
-
-        SubscribeLocalEvent<MindContainerComponent, PlayerAttachedEvent>(CheckNewLife);
-
-        SubscribeLocalEvent<RespawnComponent, RespawnActionEvent>(OnRespawnAction);
-        SubscribeNetworkEvent<RespawnRequestEvent>(OnRespawnRequest);
     }
 
+    [SubscribeLocalEvent]
     private void OnMapInit(EntityUid uid, RespawnComponent component, MapInitEvent args)
     {
         _actions.AddAction(uid, ref component.RespawnActionEntity, component.RespawnAction);
@@ -52,6 +46,7 @@ public sealed partial class RespawnSystem : SharedRespawnSystem
         Dirty(mindUid, comp);
     }
 
+    [SubscribeLocalEvent]
     private void CheckNewLife(EntityUid uid, MindContainerComponent component, ref PlayerAttachedEvent args)
     {
         if (!TryComp<MobStateComponent>(uid, out var comp)
@@ -64,6 +59,7 @@ public sealed partial class RespawnSystem : SharedRespawnSystem
         RemComp<RespawnStatusComponent>(mindUid);
     }
 
+    [SubscribeLocalEvent]
     private void OnRespawnAction(EntityUid uid, RespawnComponent component, RespawnActionEvent args)
     {
         if (args.Handled) return;
@@ -71,6 +67,7 @@ public sealed partial class RespawnSystem : SharedRespawnSystem
         args.Handled = true;
     }
 
+    [SubscribeNetworkEvent]
     private void OnRespawnRequest(RespawnRequestEvent msg, EntitySessionEventArgs args)
     {
         var playerSession = args.SenderSession;

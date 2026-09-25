@@ -18,6 +18,7 @@ public sealed partial class SIS_SharedSurgerySystem
     }
 
     #region Event Methods
+
     private void OnCorticalBorerRemovalStep(Entity<SurgeryStepRemoveCorticalBorerComponent> ent, ref SurgeryStepEvent args)
     {
         if (TryComp<CorticalBorerInfestedComponent>(args.Body, out var infested) &&
@@ -30,5 +31,6 @@ public sealed partial class SIS_SharedSurgerySystem
         if (HasComp<CorticalBorerInfestedComponent>(args.Body))
             args.Cancelled = true;
     }
+
     #endregion
 }

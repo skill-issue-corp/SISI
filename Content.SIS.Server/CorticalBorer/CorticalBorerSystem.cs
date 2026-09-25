@@ -56,20 +56,11 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
 
     public override void Initialize()
     {
+        base.Initialize();
         SubscribeAbilities();
-
-        SubscribeLocalEvent<CorticalBorerComponent, ComponentStartup>(OnStartup);
-
-        SubscribeLocalEvent<CorticalBorerComponent, CorticalBorerDispenserInjectMessage>(OnInjectReagentMessage);
-        SubscribeLocalEvent<CorticalBorerComponent, CorticalBorerDispenserSetInjectAmountMessage>(OnSetInjectAmountMessage);
-
-        SubscribeLocalEvent<InventoryComponent, InfestHostAttempt>(OnInfestHostAttempt);
-        SubscribeLocalEvent<CorticalBorerComponent, CheckTargetedSpeechEvent>(OnSpeakEvent);
-
-        SubscribeLocalEvent<CorticalBorerComponent, MindRemovedMessage>(OnMindRemoved);
-        SubscribeLocalEvent<CorticalBorerComponent, BeforeHeatExchangeEvent>(OnTemperatureChange);
     }
 
+    [SubscribeLocalEvent]
     private void OnStartup(Entity<CorticalBorerComponent> ent, ref ComponentStartup args)
     {
         //add actions
@@ -102,6 +93,7 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
         }
     }
 
+    [SubscribeLocalEvent]
     private void OnSpeakEvent(Entity<CorticalBorerComponent> ent, ref CheckTargetedSpeechEvent args)
     {
         args.ChatTypeIgnore.Add(InGameICChatType.CollectiveMind);
@@ -132,6 +124,7 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
         Dirty(ent);
     }
 
+    [SubscribeLocalEvent]
     public void OnInfestHostAttempt(Entity<InventoryComponent> entity, ref InfestHostAttempt args)
     {
         IngestionBlockerComponent? blocker;
@@ -194,6 +187,7 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
         return true;
     }
 
+    [SubscribeLocalEvent]
     private void OnInjectReagentMessage(Entity<CorticalBorerComponent> ent, ref CorticalBorerDispenserInjectMessage message)
     {
         CorticalBorerChemicalPrototype? chemProto = null;
@@ -212,6 +206,7 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
         UpdateUiState(ent);
     }
 
+    [SubscribeLocalEvent]
     private void OnSetInjectAmountMessage(Entity<CorticalBorerComponent> ent, ref CorticalBorerDispenserSetInjectAmountMessage message)
     {
         ent.Comp.InjectAmount = message.CorticalBorerDispenserDispenseAmount;
@@ -417,12 +412,14 @@ public sealed partial class CorticalBorerSystem : SharedCorticalBorerSystem
         _container.CleanContainer(infestedComp.ControlContainer);
     }
 
+    [SubscribeLocalEvent]
     private void OnMindRemoved(Entity<CorticalBorerComponent> ent, ref MindRemovedMessage args)
     {
         if (!ent.Comp.ControlingHost)
             TryEjectBorer(ent); // No storing them in hosts if you don't have a soul
     }
 
+    [SubscribeLocalEvent]
     private void OnTemperatureChange(Entity<CorticalBorerComponent> ent, ref BeforeHeatExchangeEvent args)
     {
         if (!ent.Comp.Host.HasValue)

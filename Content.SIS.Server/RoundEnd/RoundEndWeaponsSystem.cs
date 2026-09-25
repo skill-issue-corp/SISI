@@ -32,11 +32,10 @@ public sealed partial class RoundEndWeaponsSystem : EntitySystem
     public override void Initialize()
     {
         base.Initialize();
-
-        SubscribeLocalEvent<RoundEndMessageEvent>(OnRoundEnd);
         Subs.CVar(_cfg, SIS_CVars.RoundEndWeapons, x => _enabled = x, true);
     }
 
+    [SubscribeLocalEvent]
     private void OnRoundEnd(RoundEndMessageEvent ev)
     {
         if (!_enabled)
