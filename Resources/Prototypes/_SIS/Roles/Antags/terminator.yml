@@ -10,7 +10,6 @@
   id: Terminator
   pickPlayer: false
   spawnerPrototype: SpawnPointGhostTerminator
-  mindRoles: [ MindRoleTerminator ]
   briefing:
     theme:
       titleBackground: "#101214"

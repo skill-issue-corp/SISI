@@ -74,10 +74,6 @@
     name: ghost-role-information-exterminator-name
     description: ghost-role-information-exterminator-description
     rules: ghost-role-information-exterminator-rules
-    mindRoles:
-    - MindRoleTerminator
-    raffle:
-      settings: default
   - type: Sprite
     sprite: Markers/jobs.rsi
     layers:

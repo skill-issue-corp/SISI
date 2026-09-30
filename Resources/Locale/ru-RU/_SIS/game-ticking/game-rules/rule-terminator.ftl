@@ -13,6 +13,3 @@ terminator-role-greeting-desc =
     - [color={$hl1}]Эндоскелет:[/color] прочный и сильный, не нуждается в воздухе, но уязвим к электричеству.
 
 terminator-role-briefing = Убейте цель любой ценой.
-
-terminator-endoskeleton-gib-popup = Израненная плоть разваливается, обнажая титановый эндоскелет!
-terminator-endoskeleton-burn-popup = Обгоревшая плоть сгорает дотла, обнажая титановый эндоскелет!
