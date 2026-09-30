@@ -1,2 +1,2 @@
-ent-MobSlimesGeras = geras
-    .desc = A geras of a slime - the name is ironic, isn't it?
+ent-MobSlimesGeras = герас
+    .desc = Герас из слайма - ироничное название, не так ли?
