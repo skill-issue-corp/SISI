@@ -1,0 +1,89 @@
+- type: entity
+  parent: BaseSpeciesAppearanceOrganless # terminator flesh is handled by the human body, the endoskeleton has no internal organs
+  id: AppearanceTerminator
+  categories: [ HideSpawnMenu ]
+  name: terminator appearance
+  components:
+  - type: AnimatedEmotesBlacklist
+    blacklist:
+    - Cry
+    - Blush
+    - Tongue
+  - type: Inventory
+    femaleDisplacements:
+      jumpsuit:
+        sizeMaps:
+          32:
+            sprite: Mobs/Species/Human/displacement.rsi
+            state: jumpsuit-female
+  - type: InitialBody
+    organs:
+      Torso: OrganTerminatorTorso
+      Head: OrganTerminatorHead
+      ArmLeft: OrganTerminatorArmLeft
+      ArmRight: OrganTerminatorArmRight
+      LegLeft: OrganTerminatorLegLeft
+      LegRight: OrganTerminatorLegRight
+  - type: HumanoidProfile
+    species: Terminator
+
+# terminator endoskeleton organs, all inorganic
+- type: entity
+  parent: OrganBase
+  id: OrganTerminator
+  abstract: true
+  suffix: Terminator
+  components:
+  - type: Inorganic
+
+- type: entity
+  parent: OrganTerminator
+  id: OrganTerminatorExternal
+  abstract: true
+  components:
+  - type: BodyPart
+  - type: Destructible
+    thresholds:
+    - trigger: !type:DamageTypeTrigger
+        damageType: Blunt
+        damage: 150
+      behaviors:
+      - !type:GibBehavior
+  - type: Sprite
+    sprite: Mobs/Species/Terminator/parts.rsi
+  - type: VisualOrgan
+    data:
+      sprite: Mobs/Species/Terminator/parts.rsi
+    secondData:
+      sprite: Mobs/Species/Terminator/parts.rsi
+  - type: VisualOrganMarkings
+    markingData:
+      group: None
+  - type: GibbableOrgan
+
+- type: entity
+  parent: [ OrganBaseTorsoSexed, OrganBaseTorso, OrganTerminatorExternal ]
+  id: OrganTerminatorTorso
+
+- type: entity
+  parent: [ OrganBaseHead, OrganTerminatorExternal ]
+  id: OrganTerminatorHead
+  components:
+  - type: Sprite
+    state: skull_icon
+
+- type: entity
+  parent: [ OrganBaseArmLeft, OrganTerminatorExternal ]
+  id: OrganTerminatorArmLeft
+
+- type: entity
+  parent: [ OrganBaseArmRight, OrganTerminatorExternal ]
+  id: OrganTerminatorArmRight
+
+- type: entity
+  parent: [ OrganBaseLegLeft, OrganTerminatorExternal ]
+  id: OrganTerminatorLegLeft
+
+- type: entity
+  parent: [ OrganBaseLegRight, OrganTerminatorExternal ]
+  id: OrganTerminatorLegRight
