@@ -10,3 +10,6 @@ ent-SpawnPointGhostIcePsiMonkey = { ent-SpawnPointGhostFirePsiMonkey }
 
 ent-SpawnPointGhostCorticalBorer = спавнер призрачной роли кортикального червя
     .desc = { ent-MarkerBase.desc }
+
+ent-SpawnPointGhostTerminator = terminator spawn point
+    .desc = { ent-BaseAntagSpawner.desc }
