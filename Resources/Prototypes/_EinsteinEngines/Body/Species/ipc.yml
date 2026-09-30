@@ -257,6 +257,10 @@
     - DoorBumpOpener
     - AnomalyHost
     - IPCDrinkBlacklist # Don't let self antagging IPCs steal power from other ipcs.
+  # SIS-Start
+  - type: Sprinter # Goob Change: slight nerf to speed because heavy robot
+    sprintSpeedMultiplier: 1.2
+  # SIS-End
 
 ## Base
 

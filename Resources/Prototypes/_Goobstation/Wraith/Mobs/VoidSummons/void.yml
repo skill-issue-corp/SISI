@@ -276,6 +276,10 @@
     pryPowered: true
     force: true
     speedModifier: 2.5
+  # SIS-Start
+  - type: Sprinter
+    staminaDrainRate: 3
+  # SIS-End
 
 # Wraith variants
 

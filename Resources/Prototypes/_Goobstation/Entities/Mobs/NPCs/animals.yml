@@ -794,6 +794,10 @@
       293: 0.8
       280: 0.6
       260: 0.4
+  # SIS-Start
+  - type: Sprinter
+    staminaDrainRate: 2
+  # SIS-End
 
 - type: entity
   parent: SimpleMobBase

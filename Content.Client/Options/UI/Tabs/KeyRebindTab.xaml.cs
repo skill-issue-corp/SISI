@@ -185,6 +185,7 @@ namespace Content.Client.Options.UI.Tabs
             AddCheckBox("ui-options-hotkey-default-walk", _cfg.GetCVar(GoobCVars.DefaultWalk), HandleDefaultWalk); // Goob
             InitToggleWalk();
             AddButton(ContentKeyFunctions.ToggleKnockdown);
+            AddButton(ContentKeyFunctions.Sprint); // SIS-Sprint
 
             AddHeader("ui-options-header-camera");
             // <Trauma>

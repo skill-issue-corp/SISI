@@ -183,6 +183,10 @@
   - type: Rootable
   - type: Viewcone
     baseConeAngle: 360
+  # SIS-Start
+  - type: Sprinter # Goob Change: bro you're a literal bundle of roots what did you expect
+    canSprint: false
+  # SIS-End
 
 - type: entity
   parent: OrganBaseOrganic

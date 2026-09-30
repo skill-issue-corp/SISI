@@ -144,6 +144,10 @@
     understands:
     - Xeno
   - type: Fauna
+  # SIS-Start
+  - type: Sprinter
+    canSprint: false
+  # SIS-End
 
 - type: entity
   name: ancient drone
