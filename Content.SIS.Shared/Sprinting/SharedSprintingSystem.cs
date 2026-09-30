@@ -10,7 +10,6 @@ using Content.Shared.Input;
 using Content.Shared.Mech.Components;
 using Content.Shared.Mech.EntitySystems;
 using Content.Shared.Mobs;
-using Content.Shared.Movement.Components;
 using Content.Shared.Movement.Systems;
 using Content.Shared.Popups;
 using Content.Shared.Standing;
@@ -22,8 +21,6 @@ using Robust.Shared.Input.Binding;
 using Robust.Shared.Physics.Events;
 using Robust.Shared.Player;
 using Robust.Shared.Timing;
-using Robust.Shared.Network;
-using System.Numerics;
 using Content.SIS.Common.CCVar;
 using Robust.Shared.Configuration;
 
@@ -40,31 +37,17 @@ public abstract partial class SharedSprintingSystem : EntitySystem
     [Dependency] private DamageableSystem _damageable = default!;
     [Dependency] private IConfigurationManager _cfg = default!;
 
-    protected bool SprintEnabled; // SIS
+    protected bool SprintEnabled;
 
     public override void Initialize()
     {
-        SubscribeLocalEvent<SprinterComponent, RefreshMovementSpeedModifiersEvent>(OnRefreshSpeed);
         CommandBinds.Builder
             .Bind(ContentKeyFunctions.Sprint, new SprintInputCmdHandler(this))
             .Register<SharedSprintingSystem>();
-        SubscribeLocalEvent<SprinterComponent, SprintToggleEvent>(OnSprintToggle);
-        SubscribeLocalEvent<SprinterComponent, MobStateChangedEvent>(OnMobStateChangedEvent);
-        SubscribeLocalEvent<SprinterComponent, BeforeStaminaDamageEvent>(OnBeforeStaminaDamage);
-        SubscribeLocalEvent<SprinterComponent, SleepStateChangedEvent>(OnSleep);
-        SubscribeLocalEvent<SprinterComponent, MechEntryEvent>(OnMechEntry);
-        SubscribeLocalEvent<SprinterComponent, ToggleWalkEvent>(OnToggleWalk);
         SubscribeLocalEvent<SprinterComponent, KnockedDownEvent>(OnSprintDisablingEvent);
         SubscribeLocalEvent<SprinterComponent, StunnedEvent>(OnSprintDisablingEvent);
         SubscribeLocalEvent<SprinterComponent, DownedEvent>(OnSprintDisablingEvent);
-        SubscribeLocalEvent<CuffableComponent, SprintAttemptEvent>(OnCuffableSprintAttempt);
-        SubscribeLocalEvent<MechPilotComponent, SprintAttemptEvent>(OnMechPilotSprintAttempt);
-        SubscribeLocalEvent<StandingStateComponent, SprintAttemptEvent>(OnStandingStateSprintAttempt);
-        SubscribeLocalEvent<BuckleComponent, SprintAttemptEvent>(OnBuckleSprintAttempt);
-        SubscribeLocalEvent<SprinterComponent, EntityZombifiedEvent>(OnZombified);
-        SubscribeLocalEvent<SprinterComponent, StartCollideEvent>(OnCollide);
 
-        // SIS
         Subs.CVar(_cfg, SIS_CVars.SprintEnabled, value => SprintEnabled = value, true);
     }
 
@@ -86,7 +69,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
     {
         base.Update(frameTime);
 
-        if (!SprintEnabled) // SIS
+        if (!SprintEnabled)
             return;
 
         // We dont add it to the EQE since the comp might get added as this runs.
@@ -98,7 +81,6 @@ public abstract partial class SharedSprintingSystem : EntitySystem
                 || staminaComp.BaseCritThreshold <= 0f)
                 continue;
 
-            // SIS - StaminaModifierComponent became a status effect, so derive the current multiplier from the crit threshold.
             var modifier = staminaComp.CritThreshold / staminaComp.BaseCritThreshold;
             if (modifier <= 1f)
                 continue;
@@ -109,6 +91,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
         }
     }
 
+    [SubscribeLocalEvent]
     private void OnRefreshSpeed(Entity<SprinterComponent> ent, ref RefreshMovementSpeedModifiersEvent args)
     {
         if (!ent.Comp.IsSprinting)
@@ -119,7 +102,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
 
     private void HandleSprintInput(ICommonSession? session, IFullInputCmdMessage message)
     {
-        if (!SprintEnabled) // SIS
+        if (!SprintEnabled)
             return;
 
         if (session?.AttachedEntity == null
@@ -137,6 +120,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
         RaiseLocalEvent(session.AttachedEntity.Value, new SprintToggleEvent(!sprinterComponent.IsSprinting && message.State == BoundKeyState.Down));
     }
 
+    [SubscribeLocalEvent]
     private void OnSprintToggle(EntityUid uid, SprinterComponent component, ref SprintToggleEvent args) =>
         ToggleSprint(uid, component, args.IsSprinting);
 
@@ -189,6 +173,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
         return !ev.Cancelled;
     }
 
+    [SubscribeLocalEvent]
     private void OnCuffableSprintAttempt(EntityUid uid, CuffableComponent component, ref SprintAttemptEvent args)
     {
         if (component.CanStillInteract)
@@ -198,6 +183,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
         args.Cancel();
     }
 
+    [SubscribeLocalEvent]
     private void OnStandingStateSprintAttempt(EntityUid uid, StandingStateComponent component, ref SprintAttemptEvent args)
     {
         if (component.Standing)
@@ -207,6 +193,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
         args.Cancel();
     }
 
+    [SubscribeLocalEvent]
     private void OnBuckleSprintAttempt(EntityUid uid, BuckleComponent component, ref SprintAttemptEvent args)
     {
         if (component.BuckledTo == null
@@ -217,6 +204,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
         args.Cancel();
     }
 
+    [SubscribeLocalEvent]
     private void OnMechPilotSprintAttempt(EntityUid uid, MechPilotComponent component, ref SprintAttemptEvent args)
     {
         if (!TryComp<SprinterComponent>(component.Mech, out var sprinterComponent)
@@ -229,6 +217,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
     #endregion
 
     #region Misc.Handlers
+    [SubscribeLocalEvent]
     private void OnBeforeStaminaDamage(EntityUid uid, SprinterComponent component, ref BeforeStaminaDamageEvent args)
     {
         if (!component.IsSprinting
@@ -238,6 +227,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
         args.Value *= component.StaminaRegenMultiplier;
     }
 
+    [SubscribeLocalEvent]
     private void OnMobStateChangedEvent(EntityUid uid, SprinterComponent component, MobStateChangedEvent args)
     {
         if (!component.IsSprinting
@@ -247,6 +237,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
         ToggleSprint(args.Target, component, false, gracefulStop: false);
     }
 
+    [SubscribeLocalEvent]
     private void OnSleep(EntityUid uid, SprinterComponent component, ref SleepStateChangedEvent args)
     {
         if (!component.IsSprinting
@@ -256,6 +247,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
         ToggleSprint(uid, component, false, gracefulStop: false);
     }
 
+    [SubscribeLocalEvent]
     private void OnMechEntry(EntityUid uid, SprinterComponent component, ref MechEntryEvent args)
     {
         if (!component.IsSprinting)
@@ -264,6 +256,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
         ToggleSprint(uid, component, false);
     }
 
+    [SubscribeLocalEvent]
     private void OnToggleWalk(EntityUid uid, SprinterComponent component, ref ToggleWalkEvent args)
     {
         if (!component.IsSprinting)
@@ -279,9 +272,12 @@ public abstract partial class SharedSprintingSystem : EntitySystem
 
         ToggleSprint(uid, component, false, gracefulStop: false);
     }
+
+    [SubscribeLocalEvent]
     private void OnZombified(EntityUid uid, SprinterComponent component, ref EntityZombifiedEvent args) =>
         component.SprintSpeedMultiplier *= 0.5f; // We dont want super fast zombies do we?
 
+    [SubscribeLocalEvent]
     private void OnCollide(EntityUid uid, SprinterComponent sprinter, ref StartCollideEvent args)
     {
         var otherUid = args.OtherEntity;

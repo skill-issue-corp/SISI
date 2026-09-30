@@ -42,16 +42,12 @@ public sealed partial class SprintingSystem : SharedSprintingSystem
             },
         },
     };
-    public override void Initialize()
-    {
-        base.Initialize();
-        SubscribeLocalEvent<SprinterComponent, SprintStartEvent>(OnSprintStart);
-    }
+
     public override void Update(float frameTime)
     {
         base.Update(frameTime);
 
-        if (!SprintEnabled) // SIS
+        if (!SprintEnabled)
             return;
 
         var query = EntityQueryEnumerator<SprinterComponent>();
@@ -67,6 +63,8 @@ public sealed partial class SprintingSystem : SharedSprintingSystem
             component.LastStep = _timing.CurTime;
         }
     }
+
+    [SubscribeLocalEvent]
     private void OnSprintStart(EntityUid uid, SprinterComponent component, ref SprintStartEvent args)
     {
         if (TerminatingOrDeleted(uid)
