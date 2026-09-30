@@ -1,2 +1,2 @@
-ent-ActionMorphGeras = Превращение в гераса
-    .desc = Превращает вас в гераса - миниатюрную версию вас, позволяющую быстро двигаться ценой инвентаря.
+ent-ActionMorphGeras = Morph into Geras
+    .desc = Morphs you into a Geras - a miniature version of you which allows you to move fast, at the cost of your inventory.
