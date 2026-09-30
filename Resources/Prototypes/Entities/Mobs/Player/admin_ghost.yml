@@ -129,6 +129,7 @@
   - type: GluedImmune
   - type: LubedImmune
   - type: Targeting # inky
+  - type: Sprinter # SIS
 
 - type: entity
   abstract: true

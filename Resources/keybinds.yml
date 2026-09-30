@@ -678,8 +678,8 @@ binds:
   type: State
   key: MouseRight
   canFocus: true
-# SIS-Sprint Start
+# SIS-Start
 - function: Sprint
   type: State
   key: Space
-# SIS-Sprint End
+# SIS-End

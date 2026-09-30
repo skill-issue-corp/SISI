@@ -214,7 +214,7 @@
     - FootstepSound
     - DoorBumpOpener
     - AnomalyHost
-  - type: Sprinter # SIS-Sprint
+  - type: Sprinter # SIS
 
 - type: entity
   abstract: true
