@@ -1,5 +1,5 @@
 - type: entity
-  parent: BaseSpeciesAppearanceOrganless # terminator flesh is handled by the human body, the endoskeleton has no internal organs
+  parent: BaseSpeciesAppearanceOrganless
   id: AppearanceTerminator
   categories: [ HideSpawnMenu ]
   name: terminator appearance
@@ -25,9 +25,7 @@
       LegLeft: OrganTerminatorLegLeft
       LegRight: OrganTerminatorLegRight
   - type: HumanoidProfile
-    species: Terminator
 
-# terminator endoskeleton organs, all inorganic
 - type: entity
   parent: OrganBase
   id: OrganTerminator
@@ -50,12 +48,12 @@
       behaviors:
       - !type:GibBehavior
   - type: Sprite
-    sprite: Mobs/Species/Terminator/parts.rsi
+    sprite: _SIS/Mobs/Species/Terminator/parts.rsi
   - type: VisualOrgan
     data:
-      sprite: Mobs/Species/Terminator/parts.rsi
+      sprite: _SIS/Mobs/Species/Terminator/parts.rsi
     secondData:
-      sprite: Mobs/Species/Terminator/parts.rsi
+      sprite: _SIS/Mobs/Species/Terminator/parts.rsi
   - type: VisualOrganMarkings
     markingData:
       group: None
@@ -66,11 +64,24 @@
   id: OrganTerminatorTorso
 
 - type: entity
-  parent: [ OrganBaseHead, OrganTerminatorExternal ]
+  parent: [ OrganBaseHeadSexed, OrganBaseHead, OrganTerminatorExternal ]
   id: OrganTerminatorHead
   components:
   - type: Sprite
     state: skull_icon
+  - type: MindContainer
+  - type: Input
+    context: "human"
+  - type: InputMover
+  - type: Examiner
+  - type: BlockMovement
+  - type: Speech
+    speechSounds: Pai
+  - type: TypingIndicator
+    proto: robot
+  - type: Tag
+    tags:
+    - MindTransferTarget
 
 - type: entity
   parent: [ OrganBaseArmLeft, OrganTerminatorExternal ]

@@ -1,0 +1,111 @@
+- type: entity
+  parent: MobHuman
+  id: MobHumanTerminator
+  name: exterminator
+  components:
+  - type: TransferMindOnGib
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTypeTrigger
+        damageType: Heat
+        damage: 100
+      behaviors:
+      - !type:PopupBehavior
+        popup: terminator-endoskeleton-burn-popup
+        popupType: LargeCaution
+      - !type:GibBehavior
+    - trigger:
+        !type:DamageTrigger
+        damage: 200
+      behaviors:
+      - !type:PopupBehavior
+        popup: terminator-endoskeleton-gib-popup
+        popupType: LargeCaution
+      - !type:GibBehavior
+  - type: InitialBody
+    organs:
+      Torso: OrganHumanTorso
+      Head: OrganHumanHead
+      ArmLeft: OrganHumanArmLeft
+      ArmRight: OrganHumanArmRight
+      Tail: OrganHumanTail
+      LegLeft: OrganHumanLegLeft
+      LegRight: OrganHumanLegRight
+      Brain: MobTerminatorEndoskeleton
+      Eyes: OrganHumanEyes
+      Tongue: OrganHumanTongue
+      Appendix: OrganHumanAppendix
+      Ears: OrganHumanEars
+      Lungs: OrganHumanLungs
+      Heart: OrganHumanHeart
+      Stomach: OrganHumanStomach
+      Liver: OrganHumanLiver
+      Kidneys: OrganHumanKidneys
+  - type: RandomHumanoidAppearance
+
+- type: entity
+  parent:
+  - MobRobotic
+  - MobCombat
+  - AppearanceTerminator
+  id: MobTerminatorEndoskeleton
+  name: nt-800 endoskeleton
+  description: The endoskeleton of a Susnet infiltrator android.
+  components:
+  - type: Targeting
+  - type: FlashImmunity
+  - type: MovementSpeedModifier
+    baseWalkSpeed: 1.5
+    baseSprintSpeed: 3.0
+  - type: Fixtures
+    fixtures:
+      fix1:
+        shape:
+          !type:PhysShapeCircle
+          radius: 0.35
+        density: 500
+        mask:
+        - MobMask
+        layer:
+        - MobLayer
+  - type: MobThresholds
+    thresholds:
+      0: Alive
+      200: Dead
+  - type: Repairable
+    doAfterDelay: 15
+    allowSelfRepair: false
+  - type: Organ
+    category: Brain
+  - type: ChildOrgan
+    parents: [ Head ]
+  - type: GibbableOrgan
+  - type: Speech
+    speechSounds: Pai
+  - type: Damageable
+    damageModifierSet: Cybernetic
+  - type: TransferMindOnGib
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 200
+      behaviors:
+      - !type:PlaySoundBehavior
+        sound: /Audio/Effects/bone_rattle.ogg
+      - !type:GibBehavior
+  - type: MeleeWeapon
+    damage:
+      types:
+        Blunt: 15
+        Structural: 5
+  - type: Puller
+    needsHands: false
+  - type: Prying
+    pryPowered: true
+    force: true
+  - type: StepTriggerImmune
+  - type: Tag
+    tags:
+    - MindTransferTarget

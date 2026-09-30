@@ -29,7 +29,3 @@
 - type: objectiveIssuer
   id: Thief
   name: objective-issuer-thief
-
-- type: objectiveIssuer
-  id: susnet
-  name: objective-issuer-susnet

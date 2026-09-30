@@ -1,3 +1,7 @@
 - type: objectiveIssuer
   id: Werewolf
   name: objective-issuer-werewolf
+
+- type: objectiveIssuer
+  id: susnet
+  name: objective-issuer-susnet

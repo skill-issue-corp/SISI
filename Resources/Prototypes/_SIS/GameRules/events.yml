@@ -64,3 +64,27 @@
     table:
       id: SpawnPointGhostCorticalBorer
       amount: 2, 3
+
+- type: entity
+  parent: BaseAntagGhostRoleRule
+  id: TerminatorSpawn
+  components:
+  - type: StationEvent
+    weight: 8
+    duration: null
+    occursDuringRoundEnd: false
+    earliestStart: 30
+    minimumPlayers: 15
+  - type: AntagRandomSpawn
+  - type: AntagSpawner
+    prototype: MobHumanTerminator
+  - type: AntagObjectives
+    objectives:
+    - TerminateObjective
+    - ShutDownObjective
+  - type: AntagSelection
+    agentName: terminator-round-end-agent-name
+    antags:
+    - !type:FixedAntagCount
+      proto: Terminator
+  - type: TerminatorRule

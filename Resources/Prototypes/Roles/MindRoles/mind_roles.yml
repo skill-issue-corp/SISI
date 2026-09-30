@@ -157,19 +157,6 @@
     exclusiveAntag: true
   - type: NinjaRole
 
-# Terminator
-- type: entity
-  parent: BaseMindRoleAntag
-  id: MindRoleTerminator
-  name: Terminator Role
-  components:
-  - type: MindRole
-    antagPrototype: Terminator
-    exclusiveAntag: true
-  - type: TerminatorRole
-  - type: RoleBriefing
-    briefing: terminator-role-briefing
-
 # Paradox Clone
 - type: entity
   parent: BaseMindRoleAntag

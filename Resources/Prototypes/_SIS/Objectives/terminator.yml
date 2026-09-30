@@ -6,13 +6,9 @@
   - type: Objective
     difficulty: 1
     issuer: susnet
-  - type: RoleRequirement
-    roles:
-    - TerminatorRole
 
 - type: entity
-  noSpawn: true
-  parent: [BaseTerminatorObjective, BaseKillObjective]
+  parent: [ BaseTerminatorObjective, BaseKillRandomObjective ]
   id: TerminateObjective
   description: Follow your programming and terminate the target.
   components:
@@ -20,19 +16,10 @@
     unique: false
   - type: TargetObjective
     title: objective-terminate-title
-  - type: PickRandomPerson
-    conditions:
-    # kill some random crew member with a job
-    - !type:RoleCondition
-      whitelist:
-        components:
-        - JobRole
-  - type: TerminatorTargetOverride
   - type: KillPersonCondition
     requireDead: true
 
 - type: entity
-  noSpawn: true
   parent: BaseTerminatorObjective
   id: ShutDownObjective
   name: Shut down
@@ -40,6 +27,6 @@
   components:
   - type: Objective
     icon:
-      sprite: Mobs/Species/Terminator/parts.rsi
+      sprite: _SIS/Mobs/Species/Terminator/parts.rsi
       state: skull_icon
   - type: DieCondition

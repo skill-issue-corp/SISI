@@ -1,0 +1,30 @@
+- type: antag
+  id: Terminator
+  name: roles-antag-terminator-name
+  antagonist: true
+  setPreference: false
+  objective: roles-antag-terminator-objective
+
+- type: antagSpecifier
+  parent: RestrictedAntag
+  id: Terminator
+  pickPlayer: false
+  spawnerPrototype: SpawnPointGhostTerminator
+  mindRoles: [ MindRoleTerminator ]
+  briefing:
+    theme:
+      titleBackground: "#101214"
+      titleBorder: "#6b7280"
+      messageBackground: "#0b0d0f"
+      messageBorder: "#374151"
+      titleText: "#f3f4f6"
+      messageText: "#d1d5db"
+      titleHighlight1: "#9ca3af"
+      titleHighlight2: "#ffffff"
+      messageHighlight1: "#9ca3af"
+      messageHighlight2: "#ffffff"
+    sections:
+    - title: role-greeting-title
+      message: terminator-role-greeting
+    - title: role-greeting-desc
+      message: terminator-role-greeting-desc

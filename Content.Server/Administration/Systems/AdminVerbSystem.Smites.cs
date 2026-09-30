@@ -19,7 +19,6 @@ using Content.Server.Roles;
 using Content.Shared.Speech.Components;
 using Content.Server.Storage.EntitySystems;
 using Content.Server.Tabletop;
-using Content.Server.Terminator.Systems;
 using Content.Shared.Actions;
 using Content.Shared.Administration;
 using Content.Shared.Administration.Components;
@@ -39,7 +38,6 @@ using Content.Shared.Gravity;
 using Content.Shared.Interaction.Components;
 using Content.Shared.Inventory;
 using Content.Shared.Medical;
-using Content.Shared.Mind.Components;
 using Content.Shared.Mobs;
 using Content.Shared.Mobs.Components;
 using Content.Shared.Mobs.Systems;
@@ -93,7 +91,6 @@ public sealed partial class AdminVerbSystem
     [Dependency] private SharedPhysicsSystem _physics = default!;
     [Dependency] private RoleSystem _role = default!;
     [Dependency] private TabletopSystem _tabletopSystem = default!;
-    [Dependency] private TerminatorSystem _terminator = default!;
     [Dependency] private VomitSystem _vomitSystem = default!;
     [Dependency] private WeldableSystem _weldableSystem = default!;
     [Dependency] private SharedContentEyeSystem _eyeSystem = default!;
@@ -1114,28 +1111,6 @@ public sealed partial class AdminVerbSystem
             Message = string.Join(": ", makeStinkyName, Loc.GetString("admin-smite-make-stinky-description"))
         };
         args.Verbs.Add(makeStinky);
-
-        Verb terminate = new()
-        {
-            Text = "Terminate",
-            Category = VerbCategory.Smite,
-            Icon = new SpriteSpecifier.Rsi(new("Mobs/Species/Terminator/parts.rsi"), "skull_icon"),
-            Act = () =>
-            {
-                if (!TryComp<MindContainerComponent>(args.Target, out var mindContainer) || mindContainer.Mind == null)
-                    return;
-
-                var coords = Transform(args.Target).Coordinates;
-                var mindId = mindContainer.Mind.Value;
-                _terminator.CreateSpawner(coords, mindId);
-
-                _popupSystem.PopupEntity(Loc.GetString("admin-smite-terminate-prompt"), args.Target,
-                    args.Target, PopupType.LargeCaution);
-            },
-            Impact = LogImpact.Extreme,
-            Message = Loc.GetString("admin-smite-terminate-description")
-        };
-        args.Verbs.Add(terminate);
     }
 
     public void HomingLaunchSequence(EntityUid target, EntProtoId proto, float distance, float speed)
