@@ -38,7 +38,6 @@ public abstract partial class SharedSprintingSystem : EntitySystem
     [Dependency] private SharedPopupSystem _popupSystem = default!;
     [Dependency] private IGameTiming _timing = default!;
     [Dependency] private DamageableSystem _damageable = default!;
-    [Dependency] private SharedMoverController _moverController = default!;
     [Dependency] private IConfigurationManager _cfg = default!;
 
     protected bool SprintEnabled; // SIS
@@ -124,11 +123,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
             return;
 
         if (session?.AttachedEntity == null
-            || !TryComp<SprinterComponent>(session.AttachedEntity, out var sprinterComponent)
-            || !TryComp<InputMoverComponent>(session.AttachedEntity, out var inputMoverComponent)
-            || !sprinterComponent.IsSprinting
-            // We check this instead of physics so that we can gatekeep sprinting to only work when you are moving intentionally, and not walking.
-            && _moverController.GetVelocityInput(inputMoverComponent).Sprinting == Vector2.Zero)
+            || !TryComp<SprinterComponent>(session.AttachedEntity, out var sprinterComponent))
             return;
 
         if (!sprinterComponent.CanSprint)
@@ -151,9 +146,11 @@ public abstract partial class SharedSprintingSystem : EntitySystem
         if (newSprintState == component.IsSprinting)
             return;
 
+        // Only apply the cooldown if the entity has sprinted before, so the very first sprint after spawning is not delayed.
         if (newSprintState
             && (!CanSprint(uid, component)
-            || _timing.CurTime - component.LastSprint < component.TimeBetweenSprints))
+            || component.LastSprint != TimeSpan.Zero
+            && _timing.CurTime - component.LastSprint < component.TimeBetweenSprints))
             return;
 
         component.LastSprint = _timing.CurTime;
@@ -203,7 +200,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
 
     private void OnStandingStateSprintAttempt(EntityUid uid, StandingStateComponent component, ref SprintAttemptEvent args)
     {
-        if (!component.Standing)
+        if (component.Standing)
             return;
 
         _popupSystem.PopupClient(Loc.GetString("no-sprint-while-lying"), uid, uid, PopupType.Medium);
