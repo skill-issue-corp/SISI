@@ -90,6 +90,7 @@
   id: MobSlimePerson
   name: Urist McWobble
   components:
+  - type: Geras
   # <Trauma>
   - type: LanguageSpeaker
     speaks:
