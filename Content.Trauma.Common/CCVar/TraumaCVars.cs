@@ -23,16 +23,6 @@ public sealed partial class TraumaCVars
 
     #endregion
 
-    #region Sprinting
-
-    /// <summary>
-    ///     Is sprinting enabled
-    /// </summary>
-    public static readonly CVarDef<bool> SprintEnabled =
-        CVarDef.Create("trauma.sprint_enabled", true, CVar.SERVER | CVar.REPLICATED);
-
-    #endregion
-
     #region AudioMuffle
 
     /// <summary>

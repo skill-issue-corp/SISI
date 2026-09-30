@@ -98,8 +98,6 @@
   - BaseSpeciesMob
   id: MobIPC
   components:
-  - type: Sprinter # Goob Change: slight nerf to speed because heavy robot
-    sprintSpeedMultiplier: 1.2
   - type: LanguageSpeaker
     speaks:
     - TauCetiBasic
@@ -259,6 +257,10 @@
     - DoorBumpOpener
     - AnomalyHost
     - IPCDrinkBlacklist # Don't let self antagging IPCs steal power from other ipcs.
+  # SIS-Sprint Start
+  - type: Sprinter # Goob Change: slight nerf to speed because heavy robot
+    sprintSpeedMultiplier: 1.2
+  # SIS-Sprint End
 
 ## Base
 

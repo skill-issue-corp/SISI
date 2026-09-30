@@ -10,8 +10,6 @@
   - type: CombatMode
   - type: InputMover
   - type: MobMover
-  - type: Sprinter
-    canSprint: false
   - type: HTN
     rootTask:
       task: XenoCompound
@@ -146,6 +144,10 @@
     understands:
     - Xeno
   - type: Fauna
+  # SIS-Sprint Start
+  - type: Sprinter
+    canSprint: false
+  # SIS-Sprint End
 
 - type: entity
   name: ancient drone

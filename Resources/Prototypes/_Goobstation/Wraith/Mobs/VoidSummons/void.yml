@@ -269,8 +269,6 @@
     understands:
     - Dog
     - TauCetiBasic
-  - type: Sprinter
-    staminaDrainRate: 3
   - type: MovementSpeedModifier
     baseWalkSpeed: 5
     baseSprintSpeed: 5
@@ -278,6 +276,10 @@
     pryPowered: true
     force: true
     speedModifier: 2.5
+  # SIS-Sprint Start
+  - type: Sprinter
+    staminaDrainRate: 3
+  # SIS-Sprint End
 
 # Wraith variants
 

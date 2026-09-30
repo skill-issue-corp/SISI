@@ -18,6 +18,16 @@ public sealed partial class SIS_CVars
 
     #endregion
 
+    #region Sprinting
+
+    /// <summary>
+    ///     Is sprinting enabled
+    /// </summary>
+    public static readonly CVarDef<bool> SprintEnabled =
+        CVarDef.Create("sis.sprint_enabled", true, CVar.SERVER | CVar.REPLICATED);
+
+    #endregion
+
     #region Misc
 
     /// <summary>

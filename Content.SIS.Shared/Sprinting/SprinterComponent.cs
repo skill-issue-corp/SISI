@@ -1,17 +1,10 @@
-// SPDX-FileCopyrightText: 2025 August Eymann <august.eymann@gmail.com>
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 gluesniffler <linebarrelerenthusiast@gmail.com>
-//
-// SPDX-License-Identifier: AGPL-3.0-or-later
-
 using Content.Shared.Damage;
 using Robust.Shared.Audio;
 using Robust.Shared.GameStates;
 using Robust.Shared.Serialization;
 using Robust.Shared.Prototypes;
 
-namespace Content.Goobstation.Shared.Sprinting;
+namespace Content.SIS.Shared.Sprinting;
 
 [RegisterComponent, NetworkedComponent, AutoGenerateComponentState]
 public sealed partial class SprinterComponent : Component

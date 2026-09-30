@@ -1,16 +1,8 @@
-// SPDX-FileCopyrightText: 2025 August Eymann <august.eymann@gmail.com>
-// SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
-// SPDX-FileCopyrightText: 2025 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
-// SPDX-FileCopyrightText: 2025 gluesniffler <linebarrelerenthusiast@gmail.com>
-//
-// SPDX-License-Identifier: AGPL-3.0-or-later
-
 using Content.Goobstation.Common.Movement;
 using Content.Shared.Damage.Events;
 using Content.Shared.Bed.Sleep;
 using Content.Shared.Buckle.Components;
 using Content.Shared.Cuffs.Components;
-using Content.Shared.Damage;
 using Content.Shared.Damage.Components;
 using Content.Shared.Damage.Systems;
 using Content.Shared.Gravity;
@@ -32,26 +24,24 @@ using Robust.Shared.Player;
 using Robust.Shared.Timing;
 using Robust.Shared.Network;
 using System.Numerics;
-using Content.Trauma.Common.CCVar; // Traumastation
+using Content.SIS.Common.CCVar;
 using Robust.Shared.Configuration;
 
-namespace Content.Goobstation.Shared.Sprinting;
-public abstract class SharedSprintingSystem : EntitySystem
+namespace Content.SIS.Shared.Sprinting;
+public abstract partial class SharedSprintingSystem : EntitySystem
 {
-    [Dependency] private readonly SharedStaminaSystem _staminaSystem = default!;
-    [Dependency] private readonly SharedStunSystem _stun = default!;
-    [Dependency] private readonly MovementSpeedModifierSystem _movementSpeed = default!;
-    [Dependency] private readonly SharedAudioSystem _audio = default!;
-    [Dependency] private readonly SharedGravitySystem _gravity = default!;
-    [Dependency] private readonly SharedPopupSystem _popupSystem = default!;
-    [Dependency] private readonly StandingStateSystem _standing = default!;
-    [Dependency] private readonly IGameTiming _timing = default!;
-    [Dependency] private readonly DamageableSystem _damageable = default!;
-    [Dependency] private readonly SharedMoverController _moverController = default!;
-    [Dependency] private readonly INetManager _net = default!;
-    [Dependency] private readonly IConfigurationManager _cfg = default!; // Traumastation
+    [Dependency] private SharedStaminaSystem _staminaSystem = default!;
+    [Dependency] private SharedStunSystem _stun = default!;
+    [Dependency] private MovementSpeedModifierSystem _movementSpeed = default!;
+    [Dependency] private SharedAudioSystem _audio = default!;
+    [Dependency] private SharedGravitySystem _gravity = default!;
+    [Dependency] private SharedPopupSystem _popupSystem = default!;
+    [Dependency] private IGameTiming _timing = default!;
+    [Dependency] private DamageableSystem _damageable = default!;
+    [Dependency] private SharedMoverController _moverController = default!;
+    [Dependency] private IConfigurationManager _cfg = default!;
 
-    protected bool SprintEnabled; // Traumastation
+    protected bool SprintEnabled; // SIS
 
     public override void Initialize()
     {
@@ -75,8 +65,8 @@ public abstract class SharedSprintingSystem : EntitySystem
         SubscribeLocalEvent<SprinterComponent, EntityZombifiedEvent>(OnZombified);
         SubscribeLocalEvent<SprinterComponent, StartCollideEvent>(OnCollide);
 
-        // Traumastation
-        Subs.CVar(_cfg, TraumaCVars.SprintEnabled, value => SprintEnabled = value, true);
+        // SIS
+        Subs.CVar(_cfg, SIS_CVars.SprintEnabled, value => SprintEnabled = value, true);
     }
 
     #region Core Functions
@@ -97,7 +87,7 @@ public abstract class SharedSprintingSystem : EntitySystem
     {
         base.Update(frameTime);
 
-        if (!SprintEnabled) // Traumastation
+        if (!SprintEnabled) // SIS
             return;
 
         // We dont add it to the EQE since the comp might get added as this runs.
@@ -109,7 +99,7 @@ public abstract class SharedSprintingSystem : EntitySystem
                 || staminaComp.BaseCritThreshold <= 0f)
                 continue;
 
-            // Trauma - StaminaModifierComponent became a status effect, so derive the current multiplier from the crit threshold.
+            // SIS - StaminaModifierComponent became a status effect, so derive the current multiplier from the crit threshold.
             var modifier = staminaComp.CritThreshold / staminaComp.BaseCritThreshold;
             if (modifier <= 1f)
                 continue;
@@ -130,7 +120,7 @@ public abstract class SharedSprintingSystem : EntitySystem
 
     private void HandleSprintInput(ICommonSession? session, IFullInputCmdMessage message)
     {
-        if (!SprintEnabled) // Traumastation
+        if (!SprintEnabled) // SIS
             return;
 
         if (session?.AttachedEntity == null

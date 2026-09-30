@@ -118,6 +118,10 @@
       amount: 5
     - id: MaterialBones1 # Trauma - Bones on butchering humanoids
       amount: 3
+  # SIS-Sprint Start
+  - type: Sprinter # Goob Change: human major
+    staminaDrainRate: 8
+  # SIS-Sprint End
 
 - type: entity
   parent: OrganBaseOrganic

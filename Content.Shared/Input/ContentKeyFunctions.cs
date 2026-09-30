@@ -5,7 +5,6 @@ namespace Content.Shared.Input
     [KeyFunctions]
     public static class ContentKeyFunctions
     {
-        public static readonly BoundKeyFunction Sprint = "Sprint"; // Goobstation
         public static readonly BoundKeyFunction ToggleKnockdown = "ToggleKnockdown";
         public static readonly BoundKeyFunction UseItemInHand = "ActivateItemInHand";
         public static readonly BoundKeyFunction AltUseItemInHand = "AltActivateItemInHand";
@@ -134,5 +133,7 @@ namespace Content.Shared.Input
         public static readonly BoundKeyFunction MappingRemoveDecal = "MappingRemoveDecal";
         public static readonly BoundKeyFunction MappingCancelEraseDecal = "MappingCancelEraseDecal";
         public static readonly BoundKeyFunction MappingOpenContextMenu = "MappingOpenContextMenu";
+
+        public static readonly BoundKeyFunction Sprint = "Sprint"; // SIS-Sprint
     }
 }

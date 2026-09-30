@@ -59,7 +59,6 @@
         type: RevivalContractBoundUserInterface
         requireInputValidation: false
   # </Trauma>
-  - type: Sprinter # Goob Change
   - type: Sprite
     sprite: Mobs/Ghosts/ghost_human.rsi
     color: "#fff8"
@@ -137,9 +136,8 @@
     noiseAmount: 0 # In case default values change
     noiseMultiplier: 0 # In case default values change
   # SIS-Start
+  - type: Sprinter
   - type: SIS_GhostSpriteState
-  - type: MovementSpeedModifier
-    baseWalkSpeed: 24
   - type: ShowJobIcons
   - type: ShowMindShieldIcons
   # SIS-End

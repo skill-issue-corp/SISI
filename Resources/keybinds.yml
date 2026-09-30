@@ -14,9 +14,6 @@ binds:
 - function: Strafe
   type: State
   key: Shift
-- function: Sprint # Goob
-  type: State
-  key: C
 - function: RotateMod
   type: State
   key: Control
@@ -681,3 +678,8 @@ binds:
   type: State
   key: MouseRight
   canFocus: true
+# SIS-Sprint Start
+- function: Sprint
+  type: State
+  key: Space
+# SIS-Sprint End
