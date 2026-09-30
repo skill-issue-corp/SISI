@@ -1,42 +1,33 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later
-
 using Content.Server.Actions;
 using Content.Server.Polymorph.Systems;
 using Content.Server.Popups;
-using Content.Shared.Geras;
+using Content.SIS.Shared.Geras;
 using Content.Shared.Zombies;
 using Robust.Shared.Player;
 
-namespace Content.Server.Geras;
+namespace Content.SIS.Server.Geras;
 
 /// <inheritdoc/>
-public sealed class GerasSystem : SharedGerasSystem
+public sealed partial class GerasSystem : SharedGerasSystem
 {
-    [Dependency] private readonly PolymorphSystem _polymorphSystem = default!;
-    [Dependency] private readonly ActionsSystem _actionsSystem = default!;
-    [Dependency] private readonly PopupSystem _popupSystem = default!;
+    [Dependency] private PolymorphSystem _polymorphSystem = default!;
+    [Dependency] private ActionsSystem _actionsSystem = default!;
+    [Dependency] private PopupSystem _popupSystem = default!;
 
-    /// <inheritdoc/>
-    public override void Initialize()
-    {
-        base.Initialize();
-
-        SubscribeLocalEvent<GerasComponent, MorphIntoGeras>(OnMorphIntoGeras);
-        SubscribeLocalEvent<GerasComponent, MapInitEvent>(OnMapInit);
-        SubscribeLocalEvent<GerasComponent, EntityZombifiedEvent>(OnZombification);
-    }
-
+    [SubscribeLocalEvent]
     private void OnZombification(EntityUid uid, GerasComponent component, ref EntityZombifiedEvent args)
     {
         _actionsSystem.RemoveAction(uid, component.GerasActionEntity);
     }
 
+    [SubscribeLocalEvent]
     private void OnMapInit(EntityUid uid, GerasComponent component, MapInitEvent args)
     {
         // try to add geras action
         _actionsSystem.AddAction(uid, ref component.GerasActionEntity, component.GerasAction);
     }
 
+    [SubscribeLocalEvent]
     private void OnMorphIntoGeras(EntityUid uid, GerasComponent component, MorphIntoGeras args)
     {
         if (HasComp<ZombieComponent>(uid))

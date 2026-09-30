@@ -1,9 +1,7 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later
-
 using Content.Shared.Polymorph;
 using Robust.Shared.Prototypes;
 
-namespace Content.Server.Geras;
+namespace Content.SIS.Server.Geras;
 
 /// <summary>
 /// This component assigns the entity with a polymorph action.
