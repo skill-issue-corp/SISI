@@ -4,6 +4,7 @@ using Content.Server.Mind;
 using Content.Server.Polymorph.Systems;
 using Content.Shared.Gibbing;
 using Content.Shared.Humanoid;
+using Content.Shared.Mind.Components;
 using Robust.Server.Audio;
 using Robust.Shared.Audio;
 
@@ -28,6 +29,11 @@ public sealed partial class FunSkeletonGibSystem : GameRuleSystem<FunSkeletonGib
     {
         if (!_fun.CheckRule<FunSkeletonGibRuleComponent>())
             return;
+
+        // SIS-TODO: Порт на Инки Start
+        if (HasComp<TransferMindOnGibComponent>(uid))
+            return;
+        // SIS-TODO: Порт на Инки End
 
         if (!_mind.TryGetMind(uid, out var mindId, out var mindComp))
             return;

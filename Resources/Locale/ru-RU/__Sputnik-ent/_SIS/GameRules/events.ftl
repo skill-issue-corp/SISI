@@ -9,3 +9,6 @@ ent-WerewolfMidround = { ent-BaseMidroundAntagRule }
 
 ent-CorticalBorerSpawn = { ent-BaseStationEventShortDelay }
     .desc = { ent-BaseStationEventShortDelay.desc }
+
+ent-TerminatorSpawn = { ent-BaseAntagGhostRoleRule }
+    .desc = { ent-BaseAntagGhostRoleRule.desc }

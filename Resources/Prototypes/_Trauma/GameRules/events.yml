@@ -31,6 +31,7 @@
     - id: RedPsiMonkeySpawn
     - id: CorticalBorerSpawn
     - id: WerewolfMidround
+    - id: TerminatorSpawn
     # SIS-End
 
 - type: entityTable

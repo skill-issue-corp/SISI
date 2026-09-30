@@ -1,4 +1,5 @@
 using Content.Server.Antag;
+using Content.SIS.Server.Terminator.Components;
 using Content.Shared.Administration;
 using Content.Shared.Database;
 using Content.Shared.Mind.Components;
@@ -18,6 +19,7 @@ public sealed partial class SIS_AdminVerbSystem
 
     private static readonly EntProtoId DefaultInsurgencyRule = "InsurgencyShipVariantInsurgents";
     private static readonly EntProtoId InsurgencyTideRule = "InsurgencyShipVariantTide";
+    private static readonly EntProtoId TerminatorRule = "TerminatorSpawn";
 
     private void AddAdminVerbs(GetVerbsEvent<Verb> args)
     {
@@ -47,6 +49,19 @@ public sealed partial class SIS_AdminVerbSystem
             },
             Impact = LogImpact.High,
             Message = Loc.GetString("admin-verb-text-make-insurgency"),
+        });
+
+        args.Verbs.Add(new()
+        {
+            Text = Loc.GetString("admin-verb-make-terminator"),
+            Category = VerbCategory.Antag,
+            Icon = new SpriteSpecifier.Rsi(new("_SIS/Mobs/Species/Terminator/parts.rsi"), "skull_icon"),
+            Act = () =>
+            {
+                _antag.ForceMakeAntag<TerminatorRuleComponent>(targetPlayer, TerminatorRule);
+            },
+            Impact = LogImpact.High,
+            Message = Loc.GetString("admin-verb-make-terminator"),
         });
     }
 }

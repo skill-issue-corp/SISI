@@ -63,3 +63,20 @@
     - state: green
     - sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
       state: borer_control
+
+- type: entity
+  categories: [ HideSpawnMenu, Spawner ]
+  parent: BaseAntagSpawner
+  id: SpawnPointGhostTerminator
+  name: terminator spawn point
+  components:
+  - type: GhostRole
+    name: ghost-role-information-exterminator-name
+    description: ghost-role-information-exterminator-description
+    rules: ghost-role-information-exterminator-rules
+  - type: Sprite
+    sprite: Markers/jobs.rsi
+    layers:
+    - state: green
+    - sprite: _SIS/Mobs/Species/Terminator/parts.rsi
+      state: full
