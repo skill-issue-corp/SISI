@@ -98,6 +98,8 @@
   - BaseSpeciesMob
   id: MobIPC
   components:
+  - type: Sprinter # Goob Change: slight nerf to speed because heavy robot
+    sprintSpeedMultiplier: 1.2
   - type: LanguageSpeaker
     speaks:
     - TauCetiBasic

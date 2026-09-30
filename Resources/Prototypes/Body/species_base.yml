@@ -43,6 +43,7 @@
     damagePenalty: 0.2
   - type: ExaminableCharacter
   - type: MindControllable
+  - type: Sprinter # Goobstation
   - type: MobState # humanoids can be in softcrit
     allowedStates:
     - Alive

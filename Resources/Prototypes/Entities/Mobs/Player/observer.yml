@@ -59,6 +59,7 @@
         type: RevivalContractBoundUserInterface
         requireInputValidation: false
   # </Trauma>
+  - type: Sprinter # Goob Change
   - type: Sprite
     sprite: Mobs/Ghosts/ghost_human.rsi
     color: "#fff8"

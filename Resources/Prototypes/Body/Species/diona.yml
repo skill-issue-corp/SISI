@@ -83,6 +83,8 @@
     - RootSpeak
   - type: FoliageIgnoringVision
   # </Trauma>
+  - type: Sprinter # Goob Change: bro you're a literal bundle of roots what did you expect
+    canSprint: false
   - type: Respirator
     damage:
       types:

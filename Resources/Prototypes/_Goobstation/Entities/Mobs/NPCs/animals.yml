@@ -794,6 +794,8 @@
       293: 0.8
       280: 0.6
       260: 0.4
+  - type: Sprinter
+    staminaDrainRate: 2
 
 - type: entity
   parent: SimpleMobBase
