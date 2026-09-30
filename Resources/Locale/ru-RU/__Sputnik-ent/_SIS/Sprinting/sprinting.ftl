@@ -1,8 +1,8 @@
-ent-SprintAnimation = Dust cloud
-    .desc = Whoa, watch out!
+ent-SprintAnimation = Облако пыли
+    .desc = Ого, осторожно!
 
-ent-SmallSprintAnimation = Small dust cloud
-    .desc = Whoa, watch out!
+ent-SmallSprintAnimation = Маленькое облако пыли
+    .desc = Ого, осторожно!
 
-ent-TinySprintAnimation = Tiny dust cloud
-    .desc = Whoa, watch out!
+ent-TinySprintAnimation = Крошечное облако пыли
+    .desc = Ого, осторожно!
