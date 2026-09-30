@@ -1,9 +1,9 @@
-ent-AppearanceTerminator = terminator appearance
+ent-AppearanceTerminator = внешность терминатора
     .desc = { ent-BaseSpeciesAppearanceOrganless.desc }
 
 ent-OrganTerminator = { ent-OrganBase }
     .desc = { ent-OrganBase.desc }
-    .suffix = Terminator
+    .suffix = Терминатор
 
 ent-OrganTerminatorExternal = { ent-OrganTerminator }
     .desc = { ent-OrganTerminator.desc }

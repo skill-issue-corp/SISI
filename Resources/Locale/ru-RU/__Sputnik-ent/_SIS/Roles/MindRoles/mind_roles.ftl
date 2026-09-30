@@ -1,2 +1,2 @@
-ent-MindRoleTerminator = Terminator Role
+ent-MindRoleTerminator = Роль Терминатора
     .desc = { ent-BaseMindRoleAntag.desc }

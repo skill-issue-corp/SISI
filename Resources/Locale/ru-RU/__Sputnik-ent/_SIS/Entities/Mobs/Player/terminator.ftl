@@ -1,5 +1,5 @@
-ent-MobHumanTerminator = exterminator
+ent-MobHumanTerminator = терминатор
     .desc = { ent-MobHuman.desc }
 
-ent-MobTerminatorEndoskeleton = nt-800 endoskeleton
-    .desc = The endoskeleton of a Susnet infiltrator android.
+ent-MobTerminatorEndoskeleton = эндоскелет nt-800
+    .desc = Эндоскелет андроида-инфильтратора Susnet.
