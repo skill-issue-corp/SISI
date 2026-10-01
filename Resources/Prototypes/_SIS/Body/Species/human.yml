@@ -14,6 +14,3 @@
     secondData: #inkymed im so fucking tired im just gonna do this and not fuck with it
       sprite: _Trauma/empty.rsi
       state: empty
-  - type: PullerTail
-    speciesWhitelist:
-    - Human

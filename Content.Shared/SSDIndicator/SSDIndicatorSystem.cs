@@ -30,6 +30,8 @@ public sealed partial class SSDIndicatorSystem : EntitySystem
 
         _cfg.OnValueChanged(CCVars.ICSSDSleep, obj => _icSsdSleep = obj, true);
         _cfg.OnValueChanged(CCVars.ICSSDSleepTime, obj => _icSsdSleepTime = obj, true);
+
+        SIS_Initialize(); // SIS-SSD_Fix
     }
 
     private void OnPlayerAttached(EntityUid uid, SSDIndicatorComponent component, PlayerAttachedEvent args)
@@ -48,6 +50,11 @@ public sealed partial class SSDIndicatorSystem : EntitySystem
 
     private void OnPlayerDetached(EntityUid uid, SSDIndicatorComponent component, PlayerDetachedEvent args)
     {
+        // SIS-SSD_Fix Start
+        if (HandleNpc(uid, component))
+            return;
+        // SIS-SSD_Fix End
+
         component.IsSSD = true;
 
         // Sets the time when the entity should fall asleep
@@ -62,7 +69,7 @@ public sealed partial class SSDIndicatorSystem : EntitySystem
     // Prevents mapped mobs to go to sleep immediately
     private void OnMapInit(EntityUid uid, SSDIndicatorComponent component, MapInitEvent args)
     {
-        if (!_icSsdSleep || !component.IsSSD)
+        if (!_icSsdSleep || !component.IsSSD || HandleNpc(uid, component)) // SIS-SSD_Fix
             return;
 
         component.FallAsleepTime = _timing.CurTime + TimeSpan.FromSeconds(_icSsdSleepTime);

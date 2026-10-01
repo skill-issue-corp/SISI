@@ -22,7 +22,7 @@ ent-MaterialCloth1 = { ent-MaterialCloth }
     .desc = { ent-MaterialCloth.desc }
     .suffix = Одна штука
 
-ent-MaterialDurathread = дуранить
+ent-MaterialDurathread = дюраткань
     .desc = { ent-MaterialBase.desc }
     .suffix = Полный
 
