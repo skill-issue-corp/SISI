@@ -14,4 +14,9 @@ public sealed partial class VentCrawlerComponent : Component
     //used for if the user can have inventory on backpack, suit and suit slot.
     [DataField]
     public bool AllowInventory = true;
+
+    // SIS-VentCrawler Start
+    [DataField]
+    public bool IsDisabled = false;
+    // SIS-VentCrawler End
 }

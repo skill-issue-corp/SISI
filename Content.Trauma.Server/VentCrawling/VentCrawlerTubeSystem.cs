@@ -79,6 +79,11 @@ public sealed partial class VentCrawlerTubeSystem : EntitySystem
 
     private void TryEnter(EntityUid uid, EntityUid user, VentCrawlerComponent crawler)
     {
+        // SIS-VentCrawler Start
+        if (crawler.IsDisabled)
+            return;
+        // SIS-VentCrawler End
+
         if (TryComp<WeldableComponent>(uid, out var weldableComponent) && weldableComponent.IsWelded)
             {
                 _popup.PopupEntity(Loc.GetString("entity-storage-component-welded-shut-message"), user);

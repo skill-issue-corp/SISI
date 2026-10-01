@@ -6,6 +6,8 @@
   categories: [ HideSpawnMenu ]
   components:
   # they portable...
+  - type: VentCrawler
+    isDisabled: true
   - type: MovementSpeedModifier
     baseWalkSpeed: 3
     baseSprintSpeed: 5 # +.5 from normal movement speed
