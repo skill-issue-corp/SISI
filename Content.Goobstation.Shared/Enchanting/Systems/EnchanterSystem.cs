@@ -8,8 +8,10 @@ using Content.Shared.Interaction;
 using Content.Shared.Popups;
 using Content.Shared.Random.Helpers;
 using Content.Shared.Stacks;
+using Content.Trauma.Common.CCVar;
 using Content.Trauma.Common.Knowledge.Systems;
 using Robust.Shared.Audio.Systems;
+using Robust.Shared.Configuration;
 using Robust.Shared.Random;
 using Robust.Shared.Timing;
 
@@ -29,10 +31,16 @@ public sealed partial class EnchanterSystem : EntitySystem
     [Dependency] private SharedPopupSystem _popup = default!;
     [Dependency] private SharedStackSystem _stack = default!;
     [Dependency] private CommonKnowledgeSystem _knowledge = default!;
+    [Dependency] private IConfigurationManager _cfg = default!; // SIS-TODO: Порт фикса зачарований на травму
 
     private List<EntProtoId<EnchantComponent>> _pool = new();
 
     private static readonly EntProtoId MagicalLiteracy = "MagicalLiteracyKnowledge";
+
+    // SIS-TODO: Порт фикса зачарований на травму
+    private bool _skillsEnabled;
+    private const int UnskilledLevel = 100;
+    // SIS-TODO: Порт фикса зачарований на травму
 
     public override void Initialize()
     {
@@ -42,6 +50,8 @@ public sealed partial class EnchanterSystem : EntitySystem
 
         SubscribeLocalEvent<EnchantingToolComponent, ExaminedEvent>(OnToolExamined);
         SubscribeLocalEvent<EnchantingToolComponent, BeforeRangedInteractEvent>(OnBeforeInteract);
+
+        Subs.CVar(_cfg, TraumaCVars.SkillsEnabled, x => _skillsEnabled = x, true); // SIS-TODO: Порт фикса зачарований на травму
     }
 
     private void OnExamined(Entity<EnchanterComponent> ent, ref ExaminedEvent args)
@@ -104,11 +114,20 @@ public sealed partial class EnchanterSystem : EntitySystem
             return false;
         }
 
-        if (_knowledge.GetKnowledge(user, MagicalLiteracy) is not { } skill || _knowledge.GetMastery(skill.Comp) < 1)
+        // SIS-TODO: Порт фикса зачарований на травму
+        var mastery = UnskilledLevel;
+        if (_skillsEnabled)
         {
-            _popup.PopupEntity(Loc.GetString("enchanter-no-skill"), item, user);
-            return false;
+            if (_knowledge.GetKnowledge(user, MagicalLiteracy) is not { } skill
+                || _knowledge.GetMastery(skill.Comp) < 1)
+            {
+                _popup.PopupEntity(Loc.GetString("enchanter-no-skill"), item, user);
+                return false;
+            }
+
+            mastery = _knowledge.GetMastery(skill.Comp);
         }
+        // SIS-TODO: Порт фикса зачарований на травму
 
         var random = SharedRandomExtensions.PredictedRandom(_timing, GetNetEntity(ent), GetNetEntity(user));
         var picking = random.NextFloat(ent.Comp.MinCount, ent.Comp.MaxCount);
@@ -117,7 +136,7 @@ public sealed partial class EnchanterSystem : EntitySystem
         {
             var id = random.Pick(_pool);
             // TODO: Integrate with skills 2
-            var level = (int) random.NextFloat(ent.Comp.MinLevel, _knowledge.GetMastery(skill.Comp) + ent.Comp.AdjustLevel);
+            var level = (int) random.NextFloat(ent.Comp.MinLevel, mastery + ent.Comp.AdjustLevel); // SIS-TODO: Порт фикса зачарований на травму
             if (_enchanting.Enchant(item, id, level))
                 total += 1f;
         }
