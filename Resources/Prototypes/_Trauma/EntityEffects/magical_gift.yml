@@ -27,3 +27,8 @@
   - !type:NestedEffect
     proto: MagicalGift
     probability: 0.1
+    # SIS-Start # SIS-TODO: Порт на травму
+    conditions:
+    - !type:CVarCondition
+      cvar: trauma.skills_enabled
+    # SIS-End
