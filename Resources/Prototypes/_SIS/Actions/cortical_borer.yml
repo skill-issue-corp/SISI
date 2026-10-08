@@ -9,7 +9,8 @@
     itemIconStyle: NoItem
   - type: Sprite
     sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-    state: borer_chem
+    layers:
+    - state: borer_chem
   - type: InstantAction
     event: !type:CorticalChemMenuActionEvent
 
@@ -23,7 +24,8 @@
     itemIconStyle: NoItem
   - type: Sprite
     sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-    state: borer_infest
+    layers:
+    - state: borer_infest
   - type: TargetAction
     range: 0.5
     interactOnMiss: false
@@ -43,7 +45,8 @@
     useDelay: 5
   - type: Sprite
     sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-    state: borer_eject
+    layers:
+    - state: borer_eject
   - type: InstantAction
     event: !type:CorticalEjectEvent
 
@@ -56,7 +59,8 @@
     useDelay: 5
   - type: Sprite
     sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-    state: borer_bloodcheck
+    layers:
+    - state: borer_bloodcheck
   - type: InstantAction
     event: !type:CorticalCheckBloodEvent
 
@@ -69,7 +73,8 @@
     useDelay: 120
   - type: Sprite
     sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-    state: borer_control
+    layers:
+    - state: borer_control
   - type: InstantAction
     event: !type:CorticalTakeControlEvent
 
@@ -82,7 +87,8 @@
     useDelay: 5
   - type: Sprite
     sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-    state: borer_eject
+    layers:
+    - state: borer_eject
   - type: InstantAction
     event: !type:CorticalEndControlEvent
 
@@ -95,6 +101,7 @@
     useDelay: 5
   - type: Sprite
     sprite: _SIS/Interface/Actions/actions_cortical_borer.rsi
-    state: borer_egg
+    layers:
+    - state: borer_egg
   - type: InstantAction
     event: !type:CorticalLayEggEvent

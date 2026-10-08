@@ -168,7 +168,8 @@
     itemIconStyle: BigAction
   - type: Sprite
     sprite: _SIS/Objects/Actions/psipka.rsi
-    state: ability
+    layers:
+    - state: ability
   - type: TargetAction
     range: 120
     checkCanAccess: false
