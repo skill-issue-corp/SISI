@@ -99,7 +99,7 @@
   cooldown: 600
   description: task-ntr-ling-blood-desc
   reagentTask: true
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reagents:
     BloodChangeling: 3000
   entries:
@@ -117,7 +117,7 @@
   cooldown: 600
   description: task-ntr-artifexium-desc
   reagentTask: true
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reagents:
     Artifexium: 3000
   entries:
@@ -130,7 +130,7 @@
 - type: ntrTask
   id: TaskDexalin
   proto: TaskVial
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reward: 3
   weight: 0.05
   cooldown: 600
@@ -148,7 +148,7 @@
 - type: ntrTask
   id: TaskWeh
   proto: TaskVial
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reward: 5
   weight: 0.1
   cooldown: 600
@@ -166,7 +166,7 @@
 - type: ntrTask
   id: TaskHew
   proto: TaskVial
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reward: 10
   weight: 0.001
   cooldown: 3600
@@ -184,7 +184,7 @@
 - type: ntrTask
   id: TaskEthyl
   proto: TaskVial
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reward: 7
   weight: 0.01
   cooldown: 3600
@@ -207,7 +207,7 @@
   cooldown: 3600
   description: task-ntr-ipecac-desc
   reagentTask: true
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reagents:
     Ipecac: 3000
   entries:
@@ -220,7 +220,7 @@
 - type: ntrTask
   id: TaskTRAcid
   proto: TaskVial
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reward: 5
   weight: 0.02
   cooldown: 3600
@@ -237,7 +237,7 @@
 
 - type: ntrTask
   id: TaskSigynate
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   proto: TaskVial
   reward: 5
   weight: 0.02
@@ -256,7 +256,7 @@
 - type: ntrTask
   id: TaskCogni
   proto: TaskVial
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reward: 10
   weight: 0.0005
   cooldown: 3600
@@ -274,7 +274,7 @@
 - type: ntrTask
   id: TaskHoly
   proto: TaskVial
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reward: 6
   weight: 0.005
   cooldown: 3600
@@ -291,7 +291,7 @@
 
 - type: ntrTask
   id: TaskRazorium
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   proto: TaskJug
   reward: 7
   weight: 0.005
@@ -310,7 +310,7 @@
 - type: ntrTask
   id: TaskPunct
   proto: TaskJug
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reward: 8
   weight: 0.005
   cooldown: 1800
@@ -328,7 +328,7 @@
 - type: ntrTask
   id: TaskTrico
   proto: TaskJug
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reward: 5
   weight: 0.02
   cooldown: 1800
@@ -346,7 +346,7 @@
 - type: ntrTask
   id: TaskMeth
   proto: TaskJug
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reward: 10
   weight: 0.001
   cooldown: 1800
@@ -364,7 +364,7 @@
 - type: ntrTask
   id: TaskTHC
   proto: TaskJug
-  solutionName: beaker
+  # solutionName: beaker # SIS-TODO: Порт на Травму
   reward: 7
   weight: 0.005
   cooldown: 1800

@@ -152,3 +152,7 @@ ntr-console-task-fail = Task failed to load.
 
 ntr-bounty-console-menu-title = NTR task console
 ntr-bounty-console-print-button = Accept
+
+# SIS-Start
+ntr-console-reagent-none = none
+# SIS-End

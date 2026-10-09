@@ -10,10 +10,12 @@ using Content.Goobstation.Shared.NTR.Events;
 using Content.Server.NameIdentifier;
 using Content.Server.Popups;
 using Content.Server.Station.Systems;
+using Content.Shared.Chemistry.Components;
 using Content.Shared.Chemistry.Components.SolutionManager;
 using Content.Shared.Chemistry.EntitySystems;
 using Content.Shared.Containers.ItemSlots;
 using Content.Shared.IdentityManagement;
+using Content.Shared.Interaction;
 using Content.Shared.NameIdentifier;
 using Content.Shared.Paper;
 using Content.Shared.Store.Components;
@@ -225,13 +227,33 @@ public sealed partial class NtrTaskSystem : EntitySystem
     private void OnItemInsertAttempt(EntityUid uid, NtrTaskConsoleComponent component, ItemSlotInsertAttemptEvent args)
     {
         args.Cancelled = true;
+
+        // SIS-NTR_fix Start // SIS-TODO: Порт на Травму
+        /*
         var item = args.Item;
 
         if (TryHandleVial(item, uid, component))
             return;
 
         TryHandleRegularDocument(item, uid, component);
+        */
+        // SIS-NTR_fix End
     }
+
+    // SIS-NTR_fix Start // SIS-TODO: Порт на Травму
+    [SubscribeLocalEvent]
+    private void OnInteractUsing(EntityUid uid, NtrTaskConsoleComponent component, InteractUsingEvent args)
+    {
+        if (args.Handled)
+            return;
+
+        if (TryHandleVial(args.Used, uid, component)
+            || TryHandleRegularDocument(args.Used, uid, component))
+        {
+            args.Handled = true;
+        }
+    }
+    // SIS-NTR_fix End
 
     private bool TryHandleVial(EntityUid item, EntityUid console, NtrTaskConsoleComponent component)
     {
@@ -242,17 +264,28 @@ public sealed partial class NtrTaskSystem : EntitySystem
         if (station is null || !TryComp<NtrTaskDatabaseComponent>(station, out var db))
             return false;
 
-        foreach (var task in db.Tasks.Where(t => t.IsActive))
+        // SIS-NTR_fix Start // SIS-TODO: Порт на Травму
+        var accepted = new List<NtrTaskPrototype>();
+        foreach (var task in db.Tasks.Where(t => t is { IsActive: true, IsAccepted: true }))
         {
             if (!ProtoMan.TryIndex(task.Task, out var proto)
                 || !proto.IsReagentTask)
                 continue;
 
+            accepted.Add(proto);
+        }
+
+        foreach (var proto in accepted)
+        {
             if (ValidateReagentRequirements(item, proto))
                 return ProcessTaskSubmission(item, (console, component), proto.ID);
         }
 
+        foreach (var proto in accepted)
+            ShowRequiredReagents(item, proto);
+
         return false;
+        // SIS-NTR_fix End
     }
 
     private bool TryHandleRegularDocument(EntityUid item, EntityUid console, NtrTaskConsoleComponent component)
@@ -336,46 +369,88 @@ public sealed partial class NtrTaskSystem : EntitySystem
     #endregion
 
     #region Reagent Handling
+    // SIS-NTR_fix Start // SIS-TODO: Порт на Травму
+    private bool TryGetTaskSolution(EntityUid container, NtrTaskPrototype task, [NotNullWhen(true)] out Solution? solution)
+    {
+        if (_solutionContainer.TryGetSolution(container, task.SolutionName, out _, out solution))
+            return true;
+
+        if (TryComp<SolutionComponent>(container, out var solutionComp))
+        {
+            solution = solutionComp.Solution;
+            return true;
+        }
+
+        solution = null;
+        return false;
+    }
+    // SIS-NTR_fix End
+
     private bool ValidateReagentRequirements(EntityUid container, NtrTaskPrototype task)
     {
-        if (!_solutionContainer.TryGetSolution(container, task.SolutionName, out _, out var solution))
-        {
-            _popup.PopupEntity(Loc.GetString("ntr-console-no-solution", ("solutionName", task.SolutionName)), container);
+        // SIS-NTR_fix Start // SIS-TODO: Порт на Травму
+        if (!TryGetTaskSolution(container, task, out var solution))
             return false;
+
+        foreach (var (reagentProtoId, requiredAmount) in task.Reagents)
+        {
+            if (!ProtoMan.TryIndex(reagentProtoId, out var requiredReagentProto))
+                return false;
+
+            var actualAmount = 0;
+            foreach (var reagent in solution.Contents)
+            {
+                if (reagent.Reagent.Prototype != requiredReagentProto.ID)
+                    continue;
+                actualAmount += (int) (reagent.Quantity * 100);
+            }
+
+            if (actualAmount < requiredAmount)
+                return false;
         }
+
+        return true;
+        // SIS-NTR_fix End
+    }
+
+    // SIS-NTR_fix Start // SIS-TODO: Порт на Травму
+    private void ShowRequiredReagents(EntityUid container, NtrTaskPrototype task)
+    {
+        TryGetTaskSolution(container, task, out var solution);
 
         foreach (var (reagentProtoId, requiredAmount) in task.Reagents)
         {
             if (!ProtoMan.TryIndex(reagentProtoId, out var requiredReagentProto))
             {
                 _popup.PopupEntity(Loc.GetString("ntr-console-invalid-reagent-proto", ("reagentId", reagentProtoId)), container);
-                return false;
+                continue;
             }
 
             var actualAmount = 0;
-            var actualReagent = "None";
-            foreach (var reagent in solution.Contents)
+            if (solution != null)
             {
-                if (reagent.Reagent.Prototype != requiredReagentProto.ID)
-                    continue;
-                actualAmount += (int) (reagent.Quantity * 100);
-                actualReagent = reagent.Reagent.Prototype;
+                foreach (var reagent in solution.Contents)
+                {
+                    if (reagent.Reagent.Prototype != requiredReagentProto.ID)
+                        continue;
+                    actualAmount += (int) (reagent.Quantity * 100);
+                }
             }
 
             if (actualAmount < requiredAmount)
             {
                 _popup.PopupEntity(Loc.GetString("ntr-console-insufficient-reagent-debug",
-                        ("requiredReagent", requiredReagentProto.ID),
-                        ("actualReagent", actualReagent),
+                        ("requiredReagent", requiredReagentProto.LocalizedName),
+                        ("actualReagent", actualAmount > 0
+                            ? requiredReagentProto.LocalizedName
+                            : Loc.GetString("ntr-console-reagent-none")),
                         ("required", requiredAmount),
                         ("actual", actualAmount)),
                     container);
-                return false;
             }
         }
-
-        return true;
     }
+    // SIS-NTR_fix End
     #endregion
 
     #region UI Management
