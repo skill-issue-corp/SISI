@@ -152,3 +152,7 @@ ntr-console-task-fail = Не удалось загрузить задачу.
 
 ntr-bounty-console-menu-title = Консоль заданий ПNT
 ntr-bounty-console-print-button = Принять
+
+# SIS-Start
+ntr-console-reagent-none = нет
+# SIS-End
