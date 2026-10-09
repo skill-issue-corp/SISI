@@ -97,6 +97,18 @@ public sealed partial class VisualBodySystem : SharedVisualBodySystem
                 index,
                 ent.Comp.Layer,
                 out _);
+
+            // SIS-Fix_second_displacement Start // SIS-TODO: Порт Инки
+            if (ent.Comp is { SecondLayer: not null, SecondData: not null }
+                && _sprite.LayerMapTryGet(target, ent.Comp.SecondLayer, out var secondIndex, false))
+            {
+                _displacement.TryAddDisplacement(displacementProto.Displacement,
+                    (target, sprite),
+                    secondIndex,
+                    ent.Comp.SecondLayer,
+                    out _);
+            }
+            // SIS-Fix_second_displacement End
         }
     }
 
@@ -121,6 +133,10 @@ public sealed partial class VisualBodySystem : SharedVisualBodySystem
 
         _displacement.EnsureDisplacementIsNotOnSprite((target, /* Comp<SpriteComponent>(target) */ sprite), ent.Comp.Layer); // inky edit
 
+        // SIS-Fix_second_displacement Start // SIS-TODO: Порт Инки
+        if (ent.Comp.SecondLayer != null)
+            _displacement.EnsureDisplacementIsNotOnSprite((target, sprite), ent.Comp.SecondLayer);
+        // SIS-Fix_second_displacement End
     }
 
     private void OnMarkingsGotInserted(Entity<VisualOrganMarkingsComponent> ent, ref OrganGotInsertedEvent args)
