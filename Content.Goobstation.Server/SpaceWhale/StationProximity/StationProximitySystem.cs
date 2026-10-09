@@ -22,6 +22,8 @@ using Robust.Shared.Map;
 using Robust.Shared.Player;
 using Content.Inky.Common.Whale;
 using Content.Lavaland.Shared.Audio;
+using Content.SIS.Common.CCVar;
+
 // /inky
 
 namespace Content.Goobstation.Server.SpaceWhale.StationProximity;
@@ -40,6 +42,7 @@ public sealed partial class StationProximitySystem : EntitySystem
 
     private bool _spaceWhaleEnabled;
     private float _spaceWhaleSpawnDistance; // inky edit
+    private bool _spaceWhaleAllowStationApproach; // SIS-Station_proximity // SIS-TODO: Порт на Инки
 
     private static readonly TimeSpan CheckDelay = TimeSpan.FromSeconds(60);
     private TimeSpan _nextCheck = TimeSpan.Zero;
@@ -55,6 +58,7 @@ public sealed partial class StationProximitySystem : EntitySystem
 
         Subs.CVar(_cfg, GoobCVars.SpaceWhaleSpawn, x => _spaceWhaleEnabled = x, true);
         Subs.CVar(_cfg, GoobCVars.SpaceWhaleSpawnDistance, x => _spaceWhaleSpawnDistance = x, true);
+        Subs.CVar(_cfg, SIS_CVars.SpaceWhaleAllowStationApproach, x => _spaceWhaleAllowStationApproach = x, true); // SIS-Station_proximity // SIS-TODO: Порт на Инки
 
         // inky
         InitializeInky();
@@ -87,7 +91,11 @@ public sealed partial class StationProximitySystem : EntitySystem
         {
             foreach (var item in caller.SpawnedEntities)
             {
-                EnsureComp<TimedDespawnComponent>(item).Lifetime = 60f; // inky edit
+                // SIS-Station_proximity Start // SIS-TODO: Порт на Инки
+                var chaseDuration = (float) ent.Comp.ChaseDuration.TotalSeconds;
+                EnsureComp<TimedDespawnComponent>(item).Lifetime = chaseDuration; // inky edit
+                // SIS-Station_proximity End
+
                 _moveSpeed.ChangeBaseSpeed(item, 11, 30, 1);
                 _moveSpeed.RefreshMovementSpeedModifiers(item);
 
@@ -154,11 +162,10 @@ public sealed partial class StationProximitySystem : EntitySystem
         if (!_stations.TryGetValue(ent.Comp.MapID, out var stations))
             return;
 
+        // SIS-Station_proximity Start // SIS-TODO: Порт на Инки
         if (ent.Comp.GridUid is { } gridUid && stations.Any(x => x.Owner == gridUid))
-        {
-            RemCompDeferred<SpaceWhaleTargetComponent>(ent);
             return;
-        }
+        // SIS-Station_proximity End
 
         var humanoidWorldPos = _transform.GetWorldPosition(ent.Comp);
         var closestDistance = float.MaxValue;
@@ -178,10 +185,12 @@ public sealed partial class StationProximitySystem : EntitySystem
             closestDistance = Math.Min(closestDistance, distance);
         }
 
-        if (closestDistance <= _spaceWhaleSpawnDistance)
-            RemCompDeferred<SpaceWhaleTargetComponent>(ent);
-        else
+        // SIS-Station_proximity Start // SIS-TODO: Порт на Инки
+        if (closestDistance > _spaceWhaleSpawnDistance)
             HandleFarFromStation(ent);
+        else if (!_spaceWhaleAllowStationApproach)
+            RemCompDeferred<SpaceWhaleTargetComponent>(ent);
+        // SIS-Station_proximity End
     }
 
     private void HandleFarFromStation(EntityUid ent)

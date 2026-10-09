@@ -15,4 +15,9 @@ public sealed partial class SpaceWhaleTargetComponent : Component
 
     [DataField]
     public EntProtoId<MobCallerComponent> MobCallerProto = "SpaceLeviathanMobCaller";
+
+    // SIS-Station_proximity Start // SIS-TODO: Порт на Инки
+    [DataField]
+    public TimeSpan ChaseDuration = TimeSpan.FromSeconds(30);
+    // SIS-Station_proximity End
 }
