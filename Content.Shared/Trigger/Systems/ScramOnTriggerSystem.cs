@@ -1,4 +1,5 @@
 using System.Numerics;
+using Content.Shared.Kitchen.Components;
 using Content.Shared.Maps;
 using Content.Shared.Movement.Pulling.Components;
 using Content.Shared.Movement.Pulling.Systems;
@@ -8,6 +9,7 @@ using Robust.Shared.Map;
 using Robust.Shared.Network;
 using Robust.Shared.Physics.Components;
 using Robust.Shared.Audio.Systems;
+using Robust.Shared.Containers;
 using Robust.Shared.Random;
 
 namespace Content.Shared.Trigger.Systems;
@@ -20,6 +22,7 @@ public sealed partial class ScramOnTriggerSystem : XOnTriggerSystem<ScramOnTrigg
     [Dependency] private SharedAudioSystem _audio = default!;
     [Dependency] private INetManager _net = default!;
     [Dependency] private TurfSystem _turfSystem = default!;
+    [Dependency] private SharedContainerSystem _container = default!; // SIS-Fix_container_escape
 
     protected override void OnTrigger(Entity<ScramOnTriggerComponent> ent, EntityUid target, ref TriggerEvent args)
     {
@@ -37,6 +40,11 @@ public sealed partial class ScramOnTriggerSystem : XOnTriggerSystem<ScramOnTrigg
         // Can't predict picking random grids and the target location might be out of PVS range.
         if (_net.IsClient)
             return;
+
+        // SIS-Fix_container_escape Start // SIS-TODO: Порт Травма / Оффам
+        if (_container.TryGetContainingContainer((target, null, null), out var container))
+            _container.Remove(target, container);
+        // SIS-Fix_container_escape End
 
         var targetCoords = SelectRandomTileInRange(target, ent.Comp.TeleportRadius);
 
