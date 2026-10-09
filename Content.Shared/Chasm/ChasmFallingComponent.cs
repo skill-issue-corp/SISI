@@ -35,7 +35,7 @@ public sealed partial class ChasmFallingComponent : Component
     /// <summary>
     /// Original scale of the object so it can be restored if the component is removed in the middle of the animation
     /// </summary>
-    [AutoNetworkedField]
+    [DataField] // SIS-TODO: Порт фикс джаунтера оффам или Травме
     public Vector2 OriginalScale = Vector2.Zero;
 
     /// <summary>
