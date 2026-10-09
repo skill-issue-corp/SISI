@@ -84,7 +84,13 @@
   attacks:
   - Disarm
   - Disarm
+  - Disarm # SIS-TODO: Порт Травме
   userEffects:
+  # SIS-Start # SIS-TODO: Порт Травме
+  - !type:RemoveComponents
+    components:
+    - type: KnockedDown
+  # SIS-End
   - !type:SetStanding
     standing: true
     force: true

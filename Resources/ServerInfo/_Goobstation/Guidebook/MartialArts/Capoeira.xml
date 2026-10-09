@@ -81,6 +81,9 @@
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
+    <!-- SIS-Start -->
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
+    <!-- SIS-End -->
   </Box>
 
   Должен быть нацелен на самого пользователя. Может быть выполнен, находясь на земле. Снимает статус-эффект «сбит с ног» и мгновенно поднимает пользователя на ноги.
