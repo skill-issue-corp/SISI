@@ -19,9 +19,8 @@ public sealed partial class SIS_CVars
     #endregion
 
     #region all access
-    public static readonly CVarDef<bool> AutoGrantAllAccess =
-        CVarDef.Create("sis.auto_debug_smes_enabled", true, CVar.SERVERONLY);
-
+    public static readonly CVarDef<int> AllAccessLowPopLimit =
+        CVarDef.Create("sis.all_access_pop_limit", 10, CVar.SERVERONLY);
     #endregion
 
     #endregion
