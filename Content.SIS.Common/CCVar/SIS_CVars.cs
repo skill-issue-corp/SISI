@@ -20,7 +20,7 @@ public sealed partial class SIS_CVars
 
     #region all access
     public static readonly CVarDef<int> AllAccessLowPopLimit =
-        CVarDef.Create("sis.all_access_pop_limit", 10, CVar.SERVERONLY);
+        CVarDef.Create("sis.all_access_low_pop_limit", 10, CVar.SERVERONLY);
     #endregion
 
     #endregion
