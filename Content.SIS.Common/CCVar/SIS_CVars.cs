@@ -7,14 +7,22 @@ public sealed partial class SIS_CVars
 {
     #region lowpop
 
-    public static readonly CVarDef<bool> AutoDebug =
-        CVarDef.Create("sis.auto_debug_smes", true, CVar.SERVERONLY);
+    public static readonly CVarDef<bool> LowPopFeatures =
+        CVarDef.Create("sis.low_pop_features_enabled", true, CVar.SERVERONLY);
 
-    public static readonly CVarDef<int> LowPopLimit =
-        CVarDef.Create("sis.low_pop_limit", 15, CVar.SERVERONLY);
+    #region smes
+    public static readonly CVarDef<int> SMESLowPopLimit =
+        CVarDef.Create("sis.smes_low_pop_limit", 20, CVar.SERVERONLY);
 
-    public static readonly CVarDef<int> EngiLowPopLimit =
-        CVarDef.Create("sis.engi_low_pop_limit", 2, CVar.SERVERONLY);
+    public static readonly CVarDef<int> SMESEngiLowPopLimit =
+        CVarDef.Create("sis.smes_engi_low_pop_limit", 2, CVar.SERVERONLY);
+    #endregion
+
+    #region all access
+    public static readonly CVarDef<bool> AutoGrantAllAccess =
+        CVarDef.Create("sis.auto_debug_smes_enabled", true, CVar.SERVERONLY);
+
+    #endregion
 
     #endregion
 

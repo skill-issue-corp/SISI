@@ -25,8 +25,20 @@ public sealed partial class AutoDebugSmes : EntitySystem
 
     private float _timer;
     private readonly TimeSpan _updateInterval = TimeSpan.FromMinutes(5);
-
     private bool _handled = true;
+
+    private bool _lowPopFeaturesEnabled;
+    private int _lowPopLimit;
+    private int _engiLowPopLimit;
+
+    public override void Initialize()
+    {
+        base.Initialize();
+
+        Subs.CVar(_cfg, SIS_CVars.LowPopFeatures, x => _lowPopFeaturesEnabled = x, true);
+        Subs.CVar(_cfg, SIS_CVars.SMESLowPopLimit, x => _lowPopLimit = x, true);
+        Subs.CVar(_cfg, SIS_CVars.SMESEngiLowPopLimit, x => _engiLowPopLimit = x, true);
+    }
 
     [SubscribeLocalEvent]
     private void OnRoundStarting(RoundStartingEvent args)
@@ -39,7 +51,7 @@ public sealed partial class AutoDebugSmes : EntitySystem
     {
         base.Update(frameTime);
 
-        if (!_cfg.GetCVar(SIS_CVars.AutoDebug) || _handled)
+        if (!_lowPopFeaturesEnabled || _handled)
             return;
 
         _timer += frameTime;
@@ -80,10 +92,7 @@ public sealed partial class AutoDebugSmes : EntitySystem
                 engiCount++;
         }
 
-        var lowPopLimit = _cfg.GetCVar(SIS_CVars.LowPopLimit);
-        var engiLowPopLimit = _cfg.GetCVar(SIS_CVars.EngiLowPopLimit);
-
-        if (jobCount >= lowPopLimit || engiCount >= engiLowPopLimit)
+        if (jobCount >= _lowPopLimit || engiCount >= _engiLowPopLimit)
             return;
 
         var smesQuery = EntityQueryEnumerator<SmesComponent>();
@@ -97,7 +106,7 @@ public sealed partial class AutoDebugSmes : EntitySystem
             Dirty(uid, recharger);
         }
 
-        _chat.DispatchGlobalAnnouncement(Loc.GetString("auto-debug-smes-announcement"), colorOverride: Color.Yellow);
+        _chat.DispatchGlobalAnnouncement(Loc.GetString("auto-debug-smes-announcement"), colorOverride: Color.Green);
         _handled = true;
     }
 }
