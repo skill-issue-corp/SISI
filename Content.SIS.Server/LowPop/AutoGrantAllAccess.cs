@@ -18,6 +18,7 @@ public sealed partial class AutoGrantAllAccess : EntitySystem
     [Dependency] private ChatSystem _chat = default!;
     [Dependency] private MindSystem _mindSystem = default!;
     [Dependency] private SharedAccessSystem _accessSystem = default!;
+    [Dependency] private SharedIdCardSystem _idCard = default!;
 
     private float _timer;
     private readonly TimeSpan _updateInterval = TimeSpan.FromMinutes(1);
@@ -54,7 +55,7 @@ public sealed partial class AutoGrantAllAccess : EntitySystem
         if (!_handled)
             return;
 
-        _accessSystem.TrySetTags(args.Entity, _allAccess);
+        GiveAllAccess(args.Entity);
     }
 
     public override void Update(float frameTime)
@@ -88,10 +89,18 @@ public sealed partial class AutoGrantAllAccess : EntitySystem
 
         foreach (var crew in crews)
         {
-            _accessSystem.TrySetTags(crew, _allAccess);
+            GiveAllAccess(crew);
         }
 
-        _chat.DispatchGlobalAnnouncement(Loc.GetString("auto-grant-all-access-announcement"), colorOverride: Color.Green);
+        _chat.DispatchGlobalAnnouncement(Loc.GetString("auto-grant-all-access-announcement"));
         _handled = true;
+    }
+
+    private void GiveAllAccess(EntityUid crew)
+    {
+        if (!_idCard.TryFindIdCard(crew, out var idCard))
+            return;
+
+        _accessSystem.TrySetTags(idCard, _allAccess);
     }
 }
