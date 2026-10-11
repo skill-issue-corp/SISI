@@ -400,7 +400,7 @@ namespace Content.Server.GameTicking
 #endif
 
                 // SIS-End_round Start
-                if (_banManager.GetRoleBans(userId) == null) // ADT-tweak
+                if (_banManager.GetRoleBans(userId) == null)
                 {
                     Logger.ErrorS("RoleBans", $"Role bans for player {session} {userId} have not been loaded yet.");
                     continue;
