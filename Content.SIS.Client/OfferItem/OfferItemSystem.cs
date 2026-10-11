@@ -1,24 +1,24 @@
-using Content.Shared._CorvaxGoob.CCCVars;
-using Content.Shared._CorvaxGoob.OfferItem;
+using Content.SIS.Common.CCVar;
+using Content.SIS.Shared.OfferItem;
 using Robust.Client.Graphics;
 using Robust.Client.Input;
 using Robust.Client.Player;
 using Robust.Shared.Configuration;
 
-namespace Content.Client._CorvaxGoob.OfferItem;
+namespace Content.SIS.Client.OfferItem;
 
-public sealed class OfferItemSystem : SharedOfferItemSystem
+public sealed partial class OfferItemSystem : SharedOfferItemSystem
 {
-    [Dependency] private readonly IOverlayManager _overlayManager = default!;
-    [Dependency] private readonly IPlayerManager _playerManager = default!;
-    [Dependency] private readonly IConfigurationManager _cfg = default!;
-    [Dependency] private readonly IInputManager _inputManager = default!;
-    [Dependency] private readonly IEyeManager _eye = default!;
+    [Dependency] private IOverlayManager _overlayManager = default!;
+    [Dependency] private IPlayerManager _playerManager = default!;
+    [Dependency] private IConfigurationManager _cfg = default!;
+    [Dependency] private IInputManager _inputManager = default!;
+    [Dependency] private IEyeManager _eye = default!;
 
     public override void Initialize()
     {
         base.Initialize();
-        Subs.CVar(_cfg, CCCVars.OfferModeIndicatorsPointShow, OnShowOfferIndicatorsChanged, true);
+        Subs.CVar(_cfg, SIS_CVars.OfferModeIndicatorsPointShow, OnShowOfferIndicatorsChanged, true);
     }
 
     public override void Shutdown()

@@ -6,12 +6,11 @@ using Robust.Client.UserInterface;
 using Robust.Shared.Enums;
 using Robust.Shared.Utility;
 
-namespace Content.Client._CorvaxGoob.OfferItem;
+namespace Content.SIS.Client.OfferItem;
 
 public sealed class OfferItemIndicatorsOverlay : Overlay
 {
     private readonly IInputManager _inputManager;
-    private readonly IEntityManager _entMan;
     private readonly IEyeManager _eye;
     private readonly OfferItemSystem _offer;
 
@@ -26,12 +25,11 @@ public sealed class OfferItemIndicatorsOverlay : Overlay
     public OfferItemIndicatorsOverlay(IInputManager input, IEntityManager entMan, IEyeManager eye, OfferItemSystem offerSys)
     {
         _inputManager = input;
-        _entMan = entMan;
         _eye = eye;
         _offer = offerSys;
 
-        var spriteSys = _entMan.EntitySysManager.GetEntitySystem<SpriteSystem>();
-        _sight = spriteSys.Frame0(new SpriteSpecifier.Rsi(new ResPath("/Textures/_CorvaxGoob/Misc/give_item.rsi"), "give_item"));
+        var spriteSys = entMan.EntitySysManager.GetEntitySystem<SpriteSystem>();
+        _sight = spriteSys.Frame0(new SpriteSpecifier.Rsi(new ResPath("/Textures/_SIS/Misc/give_item.rsi"), "give_item"));
     }
 
     protected override bool BeforeDraw(in OverlayDrawArgs args)

@@ -61,7 +61,6 @@ namespace Content.Shared.Input
         public static readonly BoundKeyFunction TakeScreenshotNoUI = "TakeScreenshotNoUI";
         public static readonly BoundKeyFunction ToggleFullscreen = "ToggleFullscreen";
         public static readonly BoundKeyFunction Point = "Point";
-        public static readonly BoundKeyFunction OfferItem = "OfferItem"; // SIS-Offer_item
         public static readonly BoundKeyFunction ZoomOut = "ZoomOut";
         public static readonly BoundKeyFunction ZoomIn = "ZoomIn";
         public static readonly BoundKeyFunction ResetZoom = "ResetZoom";
@@ -136,5 +135,6 @@ namespace Content.Shared.Input
         public static readonly BoundKeyFunction MappingOpenContextMenu = "MappingOpenContextMenu";
 
         public static readonly BoundKeyFunction Sprint = "Sprint"; // SIS-Sprint
+        public static readonly BoundKeyFunction OfferItem = "OfferItem"; // SIS-Offer_item
     }
 }

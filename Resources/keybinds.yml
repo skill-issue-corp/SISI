@@ -684,5 +684,6 @@ binds:
   key: Space
 - function: OfferItem
   type: State
-  key:
+  key: F
+  mod1: Alt
 # SIS-End

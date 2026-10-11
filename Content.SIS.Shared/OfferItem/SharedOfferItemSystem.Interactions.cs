@@ -4,11 +4,11 @@ using Content.Shared.Input;
 using Robust.Shared.Input.Binding;
 using Robust.Shared.Player;
 
-namespace Content.Shared._CorvaxGoob.OfferItem;
+namespace Content.SIS.Shared.OfferItem;
 
 public abstract partial class SharedOfferItemSystem
 {
-    [Dependency] private readonly ActionBlockerSystem _actionBlocker = default!;
+    [Dependency] private ActionBlockerSystem _actionBlocker = default!;
 
     private void InitializeInteractions()
     {
@@ -29,10 +29,7 @@ public abstract partial class SharedOfferItemSystem
         if (!_timing.IsFirstTimePredicted)
             return;
 
-        if (session is null)
-            return;
-
-        if (session.AttachedEntity is not { Valid: true } uid || !Exists(uid) || !_actionBlocker.CanInteract(uid, null))
+        if (session?.AttachedEntity is not { Valid: true } uid || !Exists(uid) || !_actionBlocker.CanInteract(uid, null))
             return;
 
         if (!TryComp<OfferItemComponent>(uid, out var offerItem))

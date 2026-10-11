@@ -1,14 +1,14 @@
-using Content.Shared._CorvaxGoob.OfferItem;
 using Content.Shared.Alert;
 using Content.Shared.Hands.Components;
 using Content.Shared.Hands.EntitySystems;
+using Content.SIS.Shared.OfferItem;
 
-namespace Content.Server._CorvaxGoob.OfferItem;
+namespace Content.SIS.Server.OfferItem;
 
-public sealed class OfferItemSystem : SharedOfferItemSystem
+public sealed partial class OfferItemSystem : SharedOfferItemSystem
 {
-    [Dependency] private readonly SharedHandsSystem _hands = default!;
-    [Dependency] private readonly AlertsSystem _alertsSystem = default!;
+    [Dependency] private SharedHandsSystem _hands = default!;
+    [Dependency] private AlertsSystem _alertsSystem = default!;
 
     private float _offerAcc = 0;
     private const float OfferAccMax = 3f;
@@ -28,9 +28,8 @@ public sealed class OfferItemSystem : SharedOfferItemSystem
             if (_hands.GetActiveHand(uid) == null)
                 continue;
 
-            // TODO implement a normal fix. More info on this:
-            // https://github.com/space-syndicate/space-station-14-next/blob/27f6125c828b5ad051f67a5f557bf67bd1d3c2be/Content.Server/_CorvaxNext/OfferItem/OfferItemSystem.cs#L31
-            if (offerItem.Hand is not null && hands.Hands[offerItem.Hand] == null)
+            if (offerItem.Hand is not null &&
+                !_hands.TryGetHeldItem(uid, offerItem.Hand, out _))
             {
                 if (offerItem.Target is not null)
                 {

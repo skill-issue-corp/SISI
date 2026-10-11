@@ -1,6 +1,6 @@
 using Content.Shared.Alert;
 
-namespace Content.Shared._CorvaxNext.Alert.Click;
+namespace Content.SIS.Shared.OfferItem;
 
 /// <summary>
 /// Accepting the offer and receive item

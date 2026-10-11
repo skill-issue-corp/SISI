@@ -1,4 +1,3 @@
-using Content.Shared._CorvaxNext.Alert.Click;
 using Content.Shared.Alert;
 using Content.Shared.Hands.Components;
 using Content.Shared.Hands.EntitySystems;
@@ -7,28 +6,26 @@ using Content.Shared.Interaction;
 using Content.Shared.Popups;
 using Robust.Shared.Timing;
 
-namespace Content.Shared._CorvaxGoob.OfferItem;
+namespace Content.SIS.Shared.OfferItem;
 
 public abstract partial class SharedOfferItemSystem : EntitySystem
 {
-    [Dependency] private readonly SharedTransformSystem _transform = default!;
-    [Dependency] private readonly SharedHandsSystem _hands = default!;
-    [Dependency] private readonly SharedPopupSystem _popup = default!;
-    [Dependency] private readonly IGameTiming _timing = default!;
+    [Dependency] private SharedTransformSystem _transform = default!;
+    [Dependency] private SharedHandsSystem _hands = default!;
+    [Dependency] private SharedPopupSystem _popup = default!;
+    [Dependency] private IGameTiming _timing = default!;
 
     [ValidatePrototypeId<AlertPrototype>]
     protected const string OfferAlert = "Offer";
 
     public override void Initialize()
     {
-        SubscribeLocalEvent<OfferItemComponent, InteractUsingEvent>(SetInReceiveMode);
-        SubscribeLocalEvent<OfferItemComponent, MoveEvent>(OnMove);
+        base.Initialize();
 
         InitializeInteractions();
-
-        SubscribeLocalEvent<OfferItemComponent, AcceptOfferAlertEvent>(OnClickAlertEvent);
     }
 
+    [SubscribeLocalEvent]
     private void OnClickAlertEvent(Entity<OfferItemComponent> ent, ref AcceptOfferAlertEvent ev)
     {
         if (ev.Handled)
@@ -89,6 +86,7 @@ public abstract partial class SharedOfferItemSystem : EntitySystem
         UnReceive(ent, ent, offerItem);
     }
 
+    [SubscribeLocalEvent]
     private void SetInReceiveMode(EntityUid uid, OfferItemComponent component, InteractUsingEvent args)
     {
         if (!TryComp<OfferItemComponent>(args.User, out var offerItem))
@@ -120,6 +118,7 @@ public abstract partial class SharedOfferItemSystem : EntitySystem
         args.Handled = true;
     }
 
+    [SubscribeLocalEvent]
     private void OnMove(EntityUid uid, OfferItemComponent component, MoveEvent args)
     {
         if (component.Target is null ||
