@@ -178,10 +178,12 @@
         Slash: 3
   - type: Temperature
     specificHeat: 44
-  - type: TimedDespawn
-    lifetime: 2.20
-  - type: SpawnOnDespawn
-    prototype: 220Bandaid
+  # SIS-Start
+  # - type: TimedDespawn
+  #   lifetime: 2.20
+  # - type: SpawnOnDespawn
+  #   prototype: 220Bandaid
+  # SIS-End
   - type: TemperatureDamage
     heatDamageThreshold: 320
     coldDamageThreshold: 230
