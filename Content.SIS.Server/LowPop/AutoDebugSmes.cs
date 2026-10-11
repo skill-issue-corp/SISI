@@ -106,7 +106,7 @@ public sealed partial class AutoDebugSmes : EntitySystem
             Dirty(uid, recharger);
         }
 
-        _chat.DispatchGlobalAnnouncement(Loc.GetString("auto-debug-smes-announcement"), colorOverride: Color.Green);
+        _chat.DispatchGlobalAnnouncement(Loc.GetString("auto-debug-smes-announcement"));
         _handled = true;
     }
 }
