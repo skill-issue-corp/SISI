@@ -39,5 +39,11 @@ public sealed partial class SIS_CVars
     public static readonly CVarDef<bool> SpaceWhaleAllowStationApproach =
         CVarDef.Create("sis.space_whale_allow_station_approach", true, CVar.SERVERONLY);
 
+    /// <summary>
+    /// Offer item.
+    /// </summary>
+    public static readonly CVarDef<bool> OfferModeIndicatorsPointShow =
+        CVarDef.Create("hud.offer_mode_indicators_point_show", true, CVar.ARCHIVE | CVar.CLIENTONLY);
+
     #endregion
 }

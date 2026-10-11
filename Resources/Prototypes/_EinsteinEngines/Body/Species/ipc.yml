@@ -260,6 +260,7 @@
   # SIS-Start
   - type: Sprinter # Goob Change: slight nerf to speed because heavy robot
     sprintSpeedMultiplier: 1.2
+  - type: OfferItem
   # SIS-End
 
 ## Base

@@ -217,6 +217,7 @@ namespace Content.Client.Options.UI.Tabs
             AddButton(ContentKeyFunctions.RotateStoredItem);
             AddButton(ContentKeyFunctions.SaveItemLocation);
 
+            AddButton(ContentKeyFunctions.OfferItem);
             AddHeader("ui-options-header-interaction-adv");
             AddButton(TraumaKeyFunctions.Tackle); // Trauma
             AddButton(ContentKeyFunctions.SmartEquipBackpack);

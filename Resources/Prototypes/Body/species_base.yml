@@ -214,7 +214,10 @@
     - FootstepSound
     - DoorBumpOpener
     - AnomalyHost
-  - type: Sprinter # SIS
+  # SIS-Start
+  - type: Sprinter
+  - type: OfferItem
+  # SIS-End
 
 - type: entity
   abstract: true
