@@ -350,6 +350,11 @@ namespace Content.Server.GameTicking
                 if (!_playerManager.TryGetSessionById(userId, out _))
                     continue;
 
+                // SIS-End_round Start
+                if (_banManager.GetRoleBans(userId) == null)
+                    continue;
+                // SIS-End_round End
+
                 total++;
             }
 
@@ -393,6 +398,14 @@ namespace Content.Server.GameTicking
 #if DEBUG
                 DebugTools.Assert(_userDb.IsLoadComplete(session), $"Player was readied up but didn't have user DB data loaded yet??");
 #endif
+
+                // SIS-End_round Start
+                if (_banManager.GetRoleBans(userId) == null) // ADT-tweak
+                {
+                    Logger.ErrorS("RoleBans", $"Role bans for player {session} {userId} have not been loaded yet.");
+                    continue;
+                }
+                // SIS-End_round End
 
                 readyPlayers.Add(session);
                 HumanoidCharacterProfile profile;
@@ -494,6 +507,8 @@ namespace Content.Server.GameTicking
 
             RunLevel = GameRunLevel.PostRound;
 
+            // SIS-End_round Start
+            /*
             try
             {
                 ShowRoundEndScoreboard(text);
@@ -511,6 +526,9 @@ namespace Content.Server.GameTicking
             {
                 Log.Error($"Error while sending round end Discord message: {e}");
             }
+            */
+            // SIS-End_round End
+            ShowRoundEndScoreboard(text); // SIS-End_round
         }
 
         public void ShowRoundEndScoreboard(string text = "")
@@ -642,6 +660,12 @@ namespace Content.Server.GameTicking
 
             _replayRoundPlayerInfo = listOfPlayerInfoFinal;
             _replayRoundText = roundEndText;
+
+            // SIS-End_round Start
+            var roundEndSummary = GenerateRoundEndSummary(gamemodeTitle, roundEndText, listOfPlayerInfoFinal);
+            SendRoundEndDiscordMessageFile(roundEndSummary);
+            SendRoundEndDiscordMessage();
+            // SIS-End_round End
         }
 
         private async void SendRoundEndDiscordMessage()
