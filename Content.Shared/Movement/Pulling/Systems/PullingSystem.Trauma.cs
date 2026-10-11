@@ -269,6 +269,8 @@ public sealed partial class PullingSystem
         pullable.Comp.GrabStage = stage;
         Dirty(pullable);
 
+        SetSoftGrabWeight(pullable.Owner, stage == GrabStage.Soft); // SIS-Soft_grab
+
         // harder grabs force you closer together, you can't use mind powers to choke someone 3m away
         var stageLength = stage switch
         {

@@ -417,6 +417,8 @@ public sealed partial class PullingSystem : EntitySystem
                 pullableComp.PullJointId = null;
             }
 
+            SetSoftGrabWeight(pullableUid, false); // SIS-Soft_grab
+
             if (TryComp<PhysicsComponent>(pullableUid, out var pullablePhysics))
             {
                 _physics.SetFixedRotation(pullableUid, pullableComp.PrevFixedRotation, body: pullablePhysics);
