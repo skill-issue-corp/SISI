@@ -340,6 +340,12 @@ public sealed partial class PullingSystem : EntitySystem
         args.ModifySpeed(ev.Speed);
         // </Trauma>
 
+        // SIS-Soft_grab Start
+        if (component is { GrabStage: GrabStage.Soft, Pulling: { } pulled }
+            && !_standingState.IsDown(pulled))
+            return;
+        // SIS-Soft_grab End
+
         if (TryComp<HeldSpeedModifierComponent>(component.Pulling, out var heldMoveSpeed) && component.Pulling.HasValue)
         {
             var (walkMod, sprintMod) =

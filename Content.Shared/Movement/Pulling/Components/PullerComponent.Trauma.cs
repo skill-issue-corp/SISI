@@ -68,7 +68,7 @@ public sealed partial class PullerComponent : Component
     public float ThrowingDistance = 4f;
 
     [DataField]
-    public float SoftGrabSpeedModifier = 0.9f;
+    public float SoftGrabSpeedModifier = 1f; // SIS-Soft_grab
 
     [DataField]
     public float HardGrabSpeedModifier = 0.7f;
