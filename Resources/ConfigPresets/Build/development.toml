@@ -74,5 +74,5 @@ max_ip_connections = 413
 
 # SIS-Start
 [sis]
-auto_debug_smes = false
+low_pop_features_enabled = false
 # SIS-End
