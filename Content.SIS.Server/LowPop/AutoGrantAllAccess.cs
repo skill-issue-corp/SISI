@@ -1,9 +1,10 @@
 using System.Linq;
 using Content.Server.Chat.Systems;
 using Content.Server.GameTicking.Events;
+using Content.Server.Mind;
 using Content.Shared.Access;
 using Content.Shared.Access.Systems;
-using Content.Shared.Humanoid;
+using Content.Shared.SSDIndicator;
 using Content.SIS.Common.CCVar;
 using Robust.Shared.Configuration;
 using Robust.Shared.Player;
@@ -15,6 +16,7 @@ public sealed partial class AutoGrantAllAccess : EntitySystem
 {
     [Dependency] private IConfigurationManager _cfg = default!;
     [Dependency] private ChatSystem _chat = default!;
+    [Dependency] private MindSystem _mindSystem = default!;
     [Dependency] private SharedAccessSystem _accessSystem = default!;
 
     private float _timer;
@@ -67,18 +69,24 @@ public sealed partial class AutoGrantAllAccess : EntitySystem
             return;
         _timer = 0;
 
-        var crewsQuery = EntityQueryEnumerator<HumanoidProfileComponent>();
-        var crewCount = 0;
+        var crews = new List<EntityUid>();
 
-        while (crewsQuery.MoveNext(out _, out _))
+        var playersQuery = EntityQueryEnumerator<SSDIndicatorComponent>();
+        while (playersQuery.MoveNext(out var uid, out var ssdIndicatorComp))
         {
-            crewCount++;
+            if (ssdIndicatorComp.IsSSD)
+                continue;
+
+            if (!_mindSystem.TryGetMind(uid, out _, out _))
+                continue;
+
+            crews.Add(uid);
         }
 
-        if (crewCount >= _lowPopLimit)
+        if (crews.Count >= _lowPopLimit)
             return;
 
-        foreach (var crew in crewsQuery)
+        foreach (var crew in crews)
         {
             _accessSystem.TrySetTags(crew, _allAccess);
         }
