@@ -1,0 +1,45 @@
+<Document>
+
+  # Боевые приёмы оборотней
+
+  <Box>
+    <GuideEntityEmbed Entity="WerewolfWerewolf" Caption=""/>
+  </Box>
+
+  Оборотни — скрытные ночные хищники, прячущиеся среди экипажа до поры до времени. После превращения они получают
+  [textlink="боевое искусство" link="MartialArts"] CQC Ликантроп — набор жестоких приёмов, рвущих плоть и ломающих кости.
+
+  ## Комбо-атаки
+
+  ### Вскрыть вены
+
+  <Box>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
+  </Box>
+
+  Терзает жертву когтями, нанося рубящий урон и вызывая сильное кровотечение.
+
+  ### Жестокий бросок
+
+  <Box>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
+  </Box>
+
+  Швыряет противника на значительное расстояние и сбивает его с ног.
+
+  ### Расчленение
+
+  <Box>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
+    <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
+  </Box>
+
+  Отрывает противнику левую руку. Работает только против противников, у которых ещё есть эта конечность.
+
+</Document>
