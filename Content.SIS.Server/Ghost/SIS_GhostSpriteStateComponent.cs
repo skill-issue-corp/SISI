@@ -9,5 +9,5 @@ public sealed partial class SIS_GhostSpriteStateComponent : Component
     /// Chance to get the custom sprite, configurable through the prototype.
     /// </summary>
     [DataField]
-    public float Chance = 0.65f;
+    public float Chance = 0.065f;
 }

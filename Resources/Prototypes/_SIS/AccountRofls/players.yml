@@ -1,0 +1,6 @@
+- type: accountAppend
+  id: SerVerHo
+  userid: fe946153-b947-48d8-bbd7-5789b2ba1aef
+  components:
+  - type: SIS_GhostSpriteState
+    chance: 0.65
