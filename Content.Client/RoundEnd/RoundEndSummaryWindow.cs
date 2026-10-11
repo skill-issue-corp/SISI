@@ -106,6 +106,15 @@ namespace Content.Client.RoundEnd
                 Name = Loc.GetString("round-end-summary-window-player-manifest-tab-title")
             };
 
+            // SIS-End_round Start
+            var searchInput = new LineEdit
+            {
+                PlaceHolder = Loc.GetString("round-end-summary-window-search-placeholder"),
+                Margin = new Thickness(10, 10, 10, 0)
+            };
+            playerManifestTab.AddChild(searchInput);
+            // SIS-End_round End
+
             var playerInfoContainerScrollbox = new ScrollContainer
             {
                 VerticalExpand = true,
@@ -115,6 +124,8 @@ namespace Content.Client.RoundEnd
             {
                 Orientation = LayoutOrientation.Vertical
             };
+
+            var searchEntries = new List<(PanelContainer Panel, string? IcName, string OocName)>(); // SIS-End_round
 
             //Put observers at the bottom of the list. Put antags on top.
             var sortedPlayersInfo = playersInfo.OrderBy(p => p.Observer).ThenBy(p => !p.Antag);
@@ -309,7 +320,21 @@ namespace Content.Client.RoundEnd
                 hBox.AddChild(textVBox);
                 panel.AddChild(hBox);
                 playerInfoContainer.AddChild(panel);
+                searchEntries.Add((panel, playerInfo.PlayerICName, playerInfo.PlayerOOCName)); // SIS-End_round
             }
+
+            // SIS-End_round Start
+            searchInput.OnTextChanged += args =>
+            {
+                var search = args.Text.Trim();
+                foreach (var (entryPanel, icName, oocName) in searchEntries)
+                {
+                    entryPanel.Visible = search.Length == 0
+                                         || icName?.Contains(search, StringComparison.CurrentCultureIgnoreCase) == true
+                                         || oocName.Contains(search, StringComparison.CurrentCultureIgnoreCase);
+                }
+            };
+            // SIS-End_round End
 
             playerInfoContainerScrollbox.AddChild(playerInfoContainer);
             playerManifestTab.AddChild(playerInfoContainerScrollbox);
