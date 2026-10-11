@@ -67,7 +67,7 @@ public sealed partial class GameTicker
         {
             if (!_webhookIdentifier.HasValue)
             {
-                Log.Error("WebhookIdentifier is null or does not have a value.");
+                Log.Debug("WebhookIdentifier is null or does not have a value.");
                 return;
             }
 
