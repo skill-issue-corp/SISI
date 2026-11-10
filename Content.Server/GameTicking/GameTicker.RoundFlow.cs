@@ -662,7 +662,7 @@ namespace Content.Server.GameTicking
             _replayRoundText = roundEndText;
 
             // SIS-End_round Start
-            var roundEndSummary = GenerateRoundEndSummary(gamemodeTitle, listOfPlayerInfoFinal);
+            var roundEndSummary = GenerateRoundEndSummary(gamemodeTitle, roundEndText, listOfPlayerInfoFinal);
             SendRoundEndDiscordMessageFile(roundEndSummary);
             // SendRoundEndDiscordMessage();
             // SIS-End_round End

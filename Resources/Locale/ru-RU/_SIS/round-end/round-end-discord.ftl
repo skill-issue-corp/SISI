@@ -18,6 +18,7 @@ round-end-discord-duration-seconds = {$seconds ->
     }
 
 round-end-discord-gamemode = Режим: `{$gamemode}`
+round-end-discord-info = Информация: ```{$info}```
 round-end-discord-total-players = Всего было игроков: `{$count}`
 round-end-discord-players = Игроки:
 round-end-discord-player = {$ic}({$ooc}) в роли: {$role}

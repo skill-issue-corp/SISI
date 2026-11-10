@@ -3,6 +3,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
+using System.Text.RegularExpressions;
 using Content.Shared.GameTicking;
 namespace Content.Server.GameTicking;
 
@@ -13,11 +14,30 @@ public sealed partial class GameTicker
     private const int DiscordMessageLimit = 2000;
     private const string BlockWrapper = "```";
 
-    private string GenerateRoundEndSummary(string gamemodeTitle, RoundEndMessageEvent.RoundEndPlayerInfo[] playerInfoArray)
+    private static readonly Regex MarkupRegex = new(@"\\\[([^\[\]\n]*?)\\\]|\\+[\[\]]|\[[^\[\]\n]*\]", RegexOptions.Compiled);
+    private static readonly Regex TrailingSpacesRegex = new(@"[ \t]+\n", RegexOptions.Compiled);
+    private static readonly Regex ExtraNewlinesRegex = new(@"\n{3,}", RegexOptions.Compiled);
+
+    private static string ConvertBBCodeToMarkdown(string text)
+    {
+        text = text.Replace("\r\n", "\n");
+        text = MarkupRegex.Replace(text, m => m.Groups[1].Success ? $"[{m.Groups[1].Value}]" : string.Empty);
+        text = TrailingSpacesRegex.Replace(text, "\n");
+        text = ExtraNewlinesRegex.Replace(text, "\n\n");
+        return text.Trim();
+    }
+
+    private string GenerateRoundEndSummary(string gamemodeTitle, string roundEndText, RoundEndMessageEvent.RoundEndPlayerInfo[] playerInfoArray)
     {
         var stringBuilder = new StringBuilder();
 
         stringBuilder.AppendLine(Loc.GetString("round-end-discord-gamemode", ("gamemode", gamemodeTitle)));
+
+        var roundEndTextMarkdown = ConvertBBCodeToMarkdown(roundEndText);
+        if (!string.IsNullOrWhiteSpace(roundEndTextMarkdown))
+        {
+            stringBuilder.AppendLine(Loc.GetString("round-end-discord-info", ("info", roundEndTextMarkdown)));
+        }
 
         var groupedPlayers = playerInfoArray
             .GroupBy(p => new { p.PlayerOOCName, p.PlayerICName })
