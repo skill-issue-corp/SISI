@@ -85,7 +85,7 @@ public sealed partial class SolutionHeaterSystem : EntitySystem
             {
                 foreach (var (_, soln) in _solutionContainer.EnumerateSolutions(heatingEntity))
                 {
-                    _solutionContainer.AddThermalEnergy(soln, energy);
+                    ApplyHeat(soln, heater, energy); // SIS-Sol_heater_cooler
                 }
             }
         }

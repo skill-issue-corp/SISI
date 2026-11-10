@@ -1,0 +1,11 @@
+- type: entity
+  parent: ChemistryHotplate
+  id: ChemistryColdplate
+  name: electric cooler
+  description: The descendant of the microwave that never learned to heat, but cools beakers perfectly.
+  components:
+  - type: SolutionHeater
+    heatPerSecond: -160
+    minTemperature: 6.5
+  - type: Machine
+    board: ColdplateMachineCircuitboard

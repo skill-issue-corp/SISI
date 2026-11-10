@@ -36,6 +36,7 @@
   id: LockerFillChiefMedicalOfficerTrauma
   table: !type:AllSelector
     children:
+    - id: ChemistryColdplateFlatpack # SIS
 #    - id: BoxSkillChipsMed # inky edit - kill chips
     - id: ClothingBackpackDuffelSurgeryFilled
     - id: ChemistryHotplateFlatPack

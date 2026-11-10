@@ -1,0 +1,5 @@
+- type: latheRecipe
+  parent: [ BaseCircuitboardRecipe, BaseMedicalMachineRecipeCategory ]
+  id: ColdplateMachineCircuitboard
+  icon: { sprite: Structures/Machines/hotplate.rsi, state: icon }
+  result: ColdplateMachineCircuitboard
