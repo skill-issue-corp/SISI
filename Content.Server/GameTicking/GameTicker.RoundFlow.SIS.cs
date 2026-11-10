@@ -12,9 +12,9 @@ public sealed partial class GameTicker
     private readonly HttpClient _webhookHttp = new();
 
     private const int DiscordMessageLimit = 2000;
-    private const string BlockWrapper = "```";
 
-    private static readonly Regex MarkupRegex = new(@"\\\[([^\[\]\n]*?)\\\]|\\+[\[\]]|\[[^\[\]\n]*\]", RegexOptions.Compiled);
+    private static readonly Regex MarkupRegex = new(@"\\\[(?:/[^\[\]\n]*)?\\\]|\\\[([^\[\]\n]*?)\\\]|\\+[\[\]]|\[[^\[\]\n]*\]", RegexOptions.Compiled);
+    private static readonly Regex BracketOnlyLineRegex = new(@"^[\\\[\] \t]*[\\\[\]][\\\[\] \t]*$\n?", RegexOptions.Compiled | RegexOptions.Multiline);
     private static readonly Regex TrailingSpacesRegex = new(@"[ \t]+\n", RegexOptions.Compiled);
     private static readonly Regex ExtraNewlinesRegex = new(@"\n{3,}", RegexOptions.Compiled);
 
@@ -22,6 +22,7 @@ public sealed partial class GameTicker
     {
         text = text.Replace("\r\n", "\n");
         text = MarkupRegex.Replace(text, m => m.Groups[1].Success ? $"[{m.Groups[1].Value}]" : string.Empty);
+        text = BracketOnlyLineRegex.Replace(text, string.Empty);
         text = TrailingSpacesRegex.Replace(text, "\n");
         text = ExtraNewlinesRegex.Replace(text, "\n\n");
         return text.Trim();
@@ -55,17 +56,12 @@ public sealed partial class GameTicker
             .Count();
 
         stringBuilder.AppendLine(Loc.GetString("round-end-discord-total-players", ("count", totalUniquePlayers)));
-        stringBuilder.AppendLine(Loc.GetString("round-end-discord-players"));
 
-        stringBuilder.Append(BlockWrapper);
-        foreach (var playerInfo in groupedPlayers)
-        {
-            stringBuilder.AppendLine($"- {Loc.GetString("round-end-discord-player",
-                ("ic", playerInfo.PlayerICName ?? string.Empty),
-                ("ooc", playerInfo.PlayerOOCName),
-                ("role", Loc.GetString(playerInfo.Roles)))}");
-        }
-        stringBuilder.Append(BlockWrapper);
+        var players = string.Join('\n', groupedPlayers.Select(p => Loc.GetString("round-end-discord-player",
+            ("ic", p.PlayerICName ?? string.Empty),
+            ("ooc", p.PlayerOOCName),
+            ("role", Loc.GetString(p.Roles)))));
+        stringBuilder.AppendLine(Loc.GetString("round-end-discord-players", ("players", players)));
 
         return stringBuilder.ToString();
     }
