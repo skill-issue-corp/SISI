@@ -81,6 +81,7 @@
   id: LockerFillChemistry
   table: !type:AllSelector
     children:
+    - id: ChemistryColdplateFlatpack # SIS
     - id: ClothingEyesGlassesChemical
     - id: ChemBag
     - id: Dropper

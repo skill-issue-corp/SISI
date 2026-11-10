@@ -90,7 +90,10 @@
   - ChemMasterMachineCircuitboard
   - CondenserMachineCircuitBoard
   - HotplateMachineCircuitboard
-  - EnergyChemDispenserMachineCircuitboard # Inky # SIS
+  # SIS-Start
+  - ColdplateMachineCircuitboard
+  - EnergyChemDispenserMachineCircuitboard # Inky
+  # SIS-End
 
 ## Dynamic
 
