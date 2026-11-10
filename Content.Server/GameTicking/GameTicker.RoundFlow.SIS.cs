@@ -103,6 +103,11 @@ public sealed partial class GameTicker
 
             var content = BuildRoundEndDiscordContent(roundEndSummary);
 
+            if (content.Length >= DiscordMessageLimit)
+            {
+                content = content.Replace("`", string.Empty);
+            }
+
             var webhookUrl = $"https://discord.com/api/webhooks/{_webhookIdentifier.Value.Id}/{_webhookIdentifier.Value.Token}";
 
             Uri webhookUri;
