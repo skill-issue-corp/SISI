@@ -34222,77 +34222,77 @@ entities:
       parent: 2
       pos: -22.5,11.5
     - type: FaxMachine
-      name: Medical
+      name: Медицинский # RU-Localization
   - uid: 5263
     components:
     - type: Transform
       parent: 2
       pos: -8.5,31.5
     - type: FaxMachine
-      name: Bridge
+      name: Мостик # RU-Localization
   - uid: 5264
     components:
     - type: Transform
       parent: 2
       pos: -0.5,21.5
     - type: FaxMachine
-      name: HoP Office
+      name: Офис ГП # RU-Localization
   - uid: 5265
     components:
     - type: Transform
       parent: 2
       pos: 26.5,10.5
     - type: FaxMachine
-      name: Security
+      name: Безопасность # RU-Localization
   - uid: 5266
     components:
     - type: Transform
       parent: 2
       pos: -37.5,-4.5
     - type: FaxMachine
-      name: Library
+      name: Библиотека # RU-Localization
   - uid: 5267
     components:
     - type: Transform
       parent: 2
       pos: 4.5,7.5
     - type: FaxMachine
-      name: Bar
+      name: Бар # RU-Localization
   - uid: 5268
     components:
     - type: Transform
       parent: 2
       pos: -16.5,-3.5
     - type: FaxMachine
-      name: Science
+      name: Наука # RU-Localization
   - uid: 5269
     components:
     - type: Transform
       parent: 2
       pos: 11.5,-12.5
     - type: FaxMachine
-      name: Engineering
+      name: Инженерный # RU-Localization
   - uid: 5270
     components:
     - type: Transform
       parent: 2
       pos: 11.5,-17.5
     - type: FaxMachine
-      name: Cargo
+      name: Карго # RU-Localization
   - uid: 5271
     components:
     - type: Transform
       parent: 2
       pos: 40.5,33.5
     - type: FaxMachine
-      name: Courthouse
+      name: Здание Суда # RU-Localization
   - uid: 5272
     components:
     - type: Transform
       parent: 2
       pos: 12.5,24.5
     - type: FaxMachine
-      name: Nanorep Office
+      name: Офис ПNT # RU-Localization
 - proto: FaxMachineCaptain
   entities:
   - uid: 5273

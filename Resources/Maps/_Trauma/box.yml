@@ -79422,7 +79422,7 @@ entities:
       parent: 2
       pos: -33.5,-26.5
     - type: FaxMachine
-      name: Офис КМ # RU-Localization
+      name: Офис КМа # RU-Localization
   - uid: 12800
     components:
     - type: Transform

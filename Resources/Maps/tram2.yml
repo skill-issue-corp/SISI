@@ -69479,28 +69479,28 @@ entities:
       parent: 15
       pos: 55.5,-10.5
     - type: FaxMachine
-      name: Quartermaster
+      name: Квартирмейстер # RU-Localization
   - uid: 1413
     components:
     - type: Transform
       parent: 15
       pos: 54.5,-12.5
     - type: FaxMachine
-      name: Mail Room
+      name: Почтовая Комната # RU-Localization
   - uid: 1706
     components:
     - type: Transform
       parent: 15
       pos: -16.5,-0.5
     - type: FaxMachine
-      name: Lawyer
+      name: Юрист # RU-Localization
   - uid: 3384
     components:
     - type: Transform
       parent: 15
       pos: -42.5,-15.5
     - type: FaxMachine
-      name: Bridge
+      name: Мостик # RU-Localization
   - uid: 3632
     components:
     - type: Transform
@@ -69517,7 +69517,7 @@ entities:
       parent: 15
       pos: 59.5,-10.5
     - type: FaxMachine
-      name: Cargo
+      name: Карго # RU-Localization
   - uid: 5474
     components:
     - type: Transform
@@ -69529,7 +69529,7 @@ entities:
       parent: 15
       pos: 58.5,-45.5
     - type: FaxMachine
-      name: RD's Office
+      name: Офис НРа # RU-Localization
   - uid: 9710
     components:
     - type: Transform
@@ -69546,63 +69546,63 @@ entities:
       parent: 15
       pos: 18.5,-43.5
     - type: FaxMachine
-      name: Psychologist
+      name: Психолог # RU-Localization
   - uid: 16417
     components:
     - type: Transform
       parent: 15
       pos: 8.5,-44.5
     - type: FaxMachine
-      name: Medical
+      name: Медицинский # RU-Localization
   - uid: 17720
     components:
     - type: Transform
       parent: 15
       pos: 59.5,-39.5
     - type: FaxMachine
-      name: Science
+      name: Наука # RU-Localization
   - uid: 20572
     components:
     - type: Transform
       parent: 15
       pos: -31.5,-15.5
     - type: FaxMachine
-      name: Detective
+      name: Детектив # RU-Localization
   - uid: 20983
     components:
     - type: Transform
       parent: 15
       pos: -45.5,-43.5
     - type: FaxMachine
-      name: Engineering
+      name: Инженерный # RU-Localization
   - uid: 21839
     components:
     - type: Transform
       parent: 15
       pos: 81.5,-15.5
     - type: FaxMachine
-      name: Reporter
+      name: Репортёр # RU-Localization
   - uid: 21991
     components:
     - type: Transform
       parent: 15
       pos: 11.5,-37.5
     - type: FaxMachine
-      name: Medical
+      name: Медицинский # RU-Localization
   - uid: 24180
     components:
     - type: Transform
       parent: 15
       pos: -46.5,6.5
     - type: FaxMachine
-      name: Warden
+      name: Смотритель # RU-Localization
   - uid: 24246
     components:
     - type: Transform
       parent: 17588
       pos: -39.5,-23.5
     - type: FaxMachine
-      name: Tram
+      name: Трамвай # RU-Localization
 - proto: FaxMachineCaptain
   entities:
   - uid: 21751

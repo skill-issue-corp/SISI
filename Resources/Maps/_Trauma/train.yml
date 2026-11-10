@@ -48943,7 +48943,7 @@ entities:
       pos: 4.5,-284.5
       parent: 2
     - type: FaxMachine
-      name: Квартермейстер # RU-Localization
+      name: Квартирмейстер # RU-Localization
   - uid: 7355
     components:
     - type: Transform

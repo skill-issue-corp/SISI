@@ -33837,7 +33837,7 @@ entities:
       parent: 2
       pos: 9.5,-28.5
     - type: FaxMachine
-      name: library
+      name: Библиотека # RU-Localization
   - uid: 5533
     components:
     - type: Transform

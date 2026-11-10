@@ -112969,7 +112969,7 @@ entities:
       parent: 2
       pos: -1.5,-26.5
     - type: FaxMachine
-      name: Квартермейстер # RU-Localization
+      name: Квартирмейстер # RU-Localization
   - uid: 17931
     components:
     - type: Transform

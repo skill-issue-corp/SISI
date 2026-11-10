@@ -98271,7 +98271,7 @@ entities:
       parent: 2
       pos: -23.5,-60.5
     - type: FaxMachine
-      name: Psychology
+      name: Психология # RU-Localization
       destinationAddress: Psychology
   - uid: 15857
     components:
@@ -98279,7 +98279,7 @@ entities:
       parent: 2
       pos: -38.5,-32.5
     - type: FaxMachine
-      name: Science
+      name: Наука # RU-Localization
       destinationAddress: Science
   - uid: 15858
     components:
@@ -98287,7 +98287,7 @@ entities:
       parent: 2
       pos: 51.5,-21.5
     - type: FaxMachine
-      name: Cargo
+      name: Карго # RU-Localization
       destinationAddress: Cargo
   - uid: 15859
     components:
@@ -98295,7 +98295,7 @@ entities:
       parent: 2
       pos: -23.5,-39.5
     - type: FaxMachine
-      name: Medical
+      name: Медицинский # RU-Localization
       destinationAddress: Medical
   - uid: 15860
     components:
@@ -98303,7 +98303,7 @@ entities:
       parent: 2
       pos: 45.5,29.5
     - type: FaxMachine
-      name: Chapel
+      name: Церковь # RU-Localization
       destinationAddress: Chapel
   - uid: 15861
     components:
@@ -98311,7 +98311,7 @@ entities:
       parent: 2
       pos: -25.5,0.5
     - type: FaxMachine
-      name: Lawyer's office
+      name: Юридический Офис # RU-Localization
       destinationAddress: Lawyer's office
   - uid: 15862
     components:
@@ -98319,7 +98319,7 @@ entities:
       parent: 2
       pos: -39.5,23.5
     - type: FaxMachine
-      name: HOP
+      name: ГП # RU-Localization
       destinationAddress: HOP
   - uid: 15863
     components:
@@ -98327,7 +98327,7 @@ entities:
       parent: 2
       pos: -54.5,24.5
     - type: FaxMachine
-      name: Bridge
+      name: Мостик # RU-Localization
       destinationAddress: Bridge
   - uid: 15864
     components:
@@ -98335,7 +98335,7 @@ entities:
       parent: 2
       pos: -28.5,25.5
     - type: FaxMachine
-      name: Court
+      name: Суд # RU-Localization
       destinationAddress: Court
   - uid: 15865
     components:
@@ -98343,14 +98343,14 @@ entities:
       parent: 2
       pos: -35.5,-21.5
     - type: FaxMachine
-      name: RD
+      name: НР # RU-Localization
   - uid: 15866
     components:
     - type: Transform
       parent: 2
       pos: 21.5,-18.5
     - type: FaxMachine
-      name: Engineering
+      name: Инженерный # RU-Localization
       destinationAddress: Engineering
   - uid: 15867
     components:
@@ -98358,7 +98358,7 @@ entities:
       parent: 2
       pos: -13.5,73.5
     - type: FaxMachine
-      name: Library
+      name: Библиотека # RU-Localization
       destinationAddress: Library
 - proto: FaxMachineCaptain
   entities:

@@ -67848,49 +67848,49 @@ entities:
       parent: 2
       pos: -228.5,3.5
     - type: FaxMachine
-      name: security
+      name: Безопасность # RU-Localization
   - uid: 3495
     components:
     - type: Transform
       parent: 2
       pos: -236.5,10.5
     - type: FaxMachine
-      name: head of security
+      name: Глава Службы Безопасности # RU-Localization
   - uid: 10919
     components:
     - type: Transform
       parent: 2
       pos: 33.5,-3.5
     - type: FaxMachine
-      name: Bridge
+      name: Мостик # RU-Localization
   - uid: 10920
     components:
     - type: Transform
       parent: 2
       pos: 37.5,-11.5
     - type: FaxMachine
-      name: HoP office
+      name: Офис ГП # RU-Localization
   - uid: 10921
     components:
     - type: Transform
       parent: 2
       pos: -94.5,1.5
     - type: FaxMachine
-      name: Library
+      name: Библиотека # RU-Localization
   - uid: 10923
     components:
     - type: Transform
       parent: 2
       pos: -172.5,-3.5
     - type: FaxMachine
-      name: Cargo
+      name: Карго # RU-Localization
   - uid: 10924
     components:
     - type: Transform
       parent: 2
       pos: -179.5,9.5
     - type: FaxMachine
-      name: Quartermaster
+      name: Квартирмейстер # RU-Localization
   - uid: 10925
     components:
     - type: Transform

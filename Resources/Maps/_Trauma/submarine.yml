@@ -126113,7 +126113,7 @@ entities:
       parent: 2
       pos: -27.5,-23.5
     - type: FaxMachine
-      name: Квартермейстер # RU-Localization
+      name: Квартирмейстер # RU-Localization
   - uid: 23440
     components:
     - type: Transform

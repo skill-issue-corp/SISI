@@ -114493,7 +114493,7 @@ entities:
       parent: 2
       pos: 0.5,-43.5
     - type: FaxMachine
-      name: Офис Кма # RU-Localization
+      name: Офис КМа # RU-Localization
   - uid: 18582
     components:
     - type: Transform
