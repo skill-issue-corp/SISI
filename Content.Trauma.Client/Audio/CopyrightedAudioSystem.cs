@@ -29,16 +29,17 @@ public sealed partial class CopyrightedAudioSystem : EntitySystem
         SubscribeLocalEvent<CopyrightedAudioComponent, ComponentStartup>(OnStartup);
         SubscribeLocalEvent<CopyrightedAudioComponent, ComponentShutdown>(OnShutdown);
         //_cfg.OnValueChanged(TraumaCVars.StreamerMode, x => { StreamerMode = x; UpdateSounds(); }, true);
-        Subs.CVar(_cfg, TraumaCVars.StreamerMode, x => { StreamerMode = x; UpdateSounds(); }, true);
+        Subs.CVar(_cfg, TraumaCVars.StreamerMode, OnStreamerModeChanged, true); // SIS-Fix_radio // SIS-TODO: Порт фикса радио на травму
     }
 
     // total dmca ANNIHILATION
-    public override void FrameUpdate(float frameTime)
+    // SIS-Fix_radio Start // SIS-TODO: Порт фикса радио на травму
+    private void OnStreamerModeChanged(bool streamerMode)
     {
-        base.FrameUpdate(frameTime);
-
+        StreamerMode = streamerMode;
         UpdateSounds();
     }
+    // SIS-Fix_radio End
 
     private void OnStartup(Entity<CopyrightedAudioComponent> ent, ref ComponentStartup args)
     {
