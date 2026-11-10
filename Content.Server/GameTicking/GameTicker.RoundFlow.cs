@@ -664,7 +664,7 @@ namespace Content.Server.GameTicking
             // SIS-End_round Start
             var roundEndSummary = GenerateRoundEndSummary(gamemodeTitle, roundEndText, listOfPlayerInfoFinal);
             SendRoundEndDiscordMessageFile(roundEndSummary);
-            SendRoundEndDiscordMessage();
+            // SendRoundEndDiscordMessage();
             // SIS-End_round End
         }
 
@@ -727,7 +727,7 @@ namespace Content.Server.GameTicking
             RandomizeLobbyBackground();
             ResettingCleanup();
             IncrementRoundNumber();
-            SendRoundStartingDiscordMessage();
+            // SendRoundStartingDiscordMessage(); // SIS-End_round
 
             if (!LobbyEnabled)
             {

@@ -9,18 +9,20 @@ namespace Content.Server.GameTicking;
 
 public sealed partial class GameTicker
 {
-    private static readonly HttpClient Client = new();
+    private readonly HttpClient _webhookHttp = new();
 
     private const int DiscordMessageLimit = 2000;
 
-    private static readonly Regex BbCodeTagRegex = new Regex(@"\[.*?\]", RegexOptions.Compiled);
-    private static readonly Regex TrailingSpacesRegex = new Regex(@"[ \t]+\n", RegexOptions.Compiled);
-    private static readonly Regex ExtraNewlinesRegex = new Regex(@"\n{3,}", RegexOptions.Compiled);
+    private static readonly Regex MarkupRegex = new(@"\\\[(?:/[^\[\]\n]*)?\\\]|\\\[([^\[\]\n]*?)\\\]|\\+[\[\]]|\[[^\[\]\n]*\]", RegexOptions.Compiled);
+    private static readonly Regex BracketOnlyLineRegex = new(@"^[\\\[\] \t]*[\\\[\]][\\\[\] \t]*$\n?", RegexOptions.Compiled | RegexOptions.Multiline);
+    private static readonly Regex TrailingSpacesRegex = new(@"[ \t]+\n", RegexOptions.Compiled);
+    private static readonly Regex ExtraNewlinesRegex = new(@"\n{3,}", RegexOptions.Compiled);
 
     private static string ConvertBBCodeToMarkdown(string text)
     {
-        text = BbCodeTagRegex.Replace(text, "");
         text = text.Replace("\r\n", "\n");
+        text = MarkupRegex.Replace(text, m => m.Groups[1].Success ? $"[{m.Groups[1].Value}]" : string.Empty);
+        text = BracketOnlyLineRegex.Replace(text, string.Empty);
         text = TrailingSpacesRegex.Replace(text, "\n");
         text = ExtraNewlinesRegex.Replace(text, "\n\n");
         return text.Trim();
@@ -28,14 +30,14 @@ public sealed partial class GameTicker
 
     private string GenerateRoundEndSummary(string gamemodeTitle, string roundEndText, RoundEndMessageEvent.RoundEndPlayerInfo[] playerInfoArray)
     {
-        var roundEndTextMarkdown = ConvertBBCodeToMarkdown(roundEndText);
         var stringBuilder = new StringBuilder();
 
-        stringBuilder.AppendLine($"Режим: {gamemodeTitle}\n");
+        stringBuilder.AppendLine(Loc.GetString("round-end-discord-gamemode", ("gamemode", gamemodeTitle)));
 
+        var roundEndTextMarkdown = ConvertBBCodeToMarkdown(roundEndText);
         if (!string.IsNullOrWhiteSpace(roundEndTextMarkdown))
         {
-            stringBuilder.AppendLine($"Информация: {roundEndTextMarkdown}\n");
+            stringBuilder.AppendLine(Loc.GetString("round-end-discord-info", ("info", roundEndTextMarkdown)));
         }
 
         var groupedPlayers = playerInfoArray
@@ -48,17 +50,45 @@ public sealed partial class GameTicker
             })
             .ToList();
 
-        var totalPlayers = groupedPlayers.Count;
+        var totalUniquePlayers = groupedPlayers
+            .Select(p => p.PlayerOOCName)
+            .Distinct()
+            .Count();
 
-        stringBuilder.AppendLine($"Всего было игроков: {totalPlayers}\n");
-        stringBuilder.AppendLine("Игроки:\n");
+        stringBuilder.AppendLine(Loc.GetString("round-end-discord-total-players", ("count", totalUniquePlayers)));
 
-        foreach (var playerInfo in groupedPlayers)
-        {
-            stringBuilder.AppendLine($"{playerInfo.PlayerICName}({playerInfo.PlayerOOCName}) в роли: {Loc.GetString(playerInfo.Roles)}");
-        }
+        var players = string.Join('\n', groupedPlayers.Select(p => Loc.GetString("round-end-discord-player",
+            ("ic", p.PlayerICName ?? string.Empty),
+            ("ooc", p.PlayerOOCName),
+            ("role", Loc.GetString(p.Roles)))));
+        stringBuilder.AppendLine(Loc.GetString("round-end-discord-players", ("players", players)));
 
         return stringBuilder.ToString();
+    }
+
+    private string BuildRoundEndDiscordContent(string roundEndSummary)
+    {
+        return BuildRoundEndDiscordContent(roundEndSummary, RoundId, RoundDuration());
+    }
+
+    private string BuildRoundEndDiscordContent(string roundEndSummary, int roundId, TimeSpan duration)
+    {
+        var contentRound = Loc.GetString("round-end-discord-round", ("roundId", roundId));
+
+        var durationParts = new List<string>();
+        var hours = (int) duration.TotalHours;
+        if (hours > 0)
+        {
+            durationParts.Add(Loc.GetString("round-end-discord-duration-hours", ("hours", hours)));
+        }
+        if (duration.Minutes > 0)
+        {
+            durationParts.Add(Loc.GetString("round-end-discord-duration-minutes", ("minutes", duration.Minutes)));
+        }
+        durationParts.Add(Loc.GetString("round-end-discord-duration-seconds", ("seconds", duration.Seconds)));
+        var contentDuration = Loc.GetString("round-end-discord-duration", ("duration", string.Join(" ", durationParts)));
+
+        return $"{contentRound}\n{contentDuration}\n{roundEndSummary}";
     }
 
     private async void SendRoundEndDiscordMessageFile(string roundEndSummary)
@@ -71,10 +101,12 @@ public sealed partial class GameTicker
                 return;
             }
 
-            var duration = RoundDuration();
-            var content = $"Раунд {RoundId} завершен!\n"
-                          + $"Продолжительность: {Math.Truncate(duration.TotalHours)} часов {duration.Minutes} минут {duration.Seconds} секунд\n"
-                          + $"{roundEndSummary}";
+            var content = BuildRoundEndDiscordContent(roundEndSummary);
+
+            if (content.Length >= DiscordMessageLimit)
+            {
+                content = content.Replace("`", string.Empty);
+            }
 
             var webhookUrl = $"https://discord.com/api/webhooks/{_webhookIdentifier.Value.Id}/{_webhookIdentifier.Value.Token}";
 
@@ -85,7 +117,7 @@ public sealed partial class GameTicker
             }
             catch (UriFormatException e)
             {
-                Log.Error($"Ошибка при преобразовании webhookIdentifier в URI: {e.Message}");
+                Log.Error($"Failed to convert webhook identifier to URI: {e.Message}");
                 return;
             }
 
@@ -95,7 +127,7 @@ public sealed partial class GameTicker
             {
                 var payload = JsonSerializer.Serialize(new { content });
                 using var jsonContent = new StringContent(payload, Encoding.UTF8, "application/json");
-                response = await Client.PostAsync(webhookUri, jsonContent);
+                response = await _webhookHttp.PostAsync(webhookUri, jsonContent);
             }
             else
             {
@@ -104,24 +136,24 @@ public sealed partial class GameTicker
                 var fileContent = new ByteArrayContent(Encoding.UTF8.GetBytes(content));
                 fileContent.Headers.ContentType = MediaTypeHeaderValue.Parse("text/plain");
                 form.Add(fileContent, "file", fileName);
-                response = await Client.PostAsync(webhookUri, form);
+                response = await _webhookHttp.PostAsync(webhookUri, form);
             }
 
             using (response)
             {
                 if (!response.IsSuccessStatusCode)
                 {
-                    Log.Error($"Ошибка при отправке сообщения в Discord: {response.StatusCode}");
+                    Log.Error($"Failed to send message to Discord: {response.StatusCode}");
                 }
                 else
                 {
-                    Log.Info("Информация о завершении раунда успешно отправлена.");
+                    Log.Info("Round end information was successfully sent.");
                 }
             }
         }
         catch (Exception e)
         {
-            Log.Error($"Ошибка при отправке сообщения о завершении раунда в Discord:\n{e}");
+            Log.Error($"Failed to send round end message to Discord:\n{e}");
         }
     }
 }
