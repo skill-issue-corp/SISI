@@ -37888,63 +37888,63 @@ entities:
       parent: 2
       pos: 20.5,21.5
     - type: FaxMachine
-      name: Cargo
+      name: Карго # RU-Localization
   - uid: 6011
     components:
     - type: Transform
       parent: 2
       pos: -19.5,22.5
     - type: FaxMachine
-      name: HoS Office
+      name: Офис ГСБ # RU-Localization
   - uid: 6012
     components:
     - type: Transform
       parent: 2
       pos: 17.5,31.5
     - type: FaxMachine
-      name: QM's Office
+      name: Офис КМа # RU-Localization
   - uid: 6013
     components:
     - type: Transform
       parent: 2
       pos: -6.5,34.5
     - type: FaxMachine
-      name: Bridge
+      name: Мостик # RU-Localization
   - uid: 6014
     components:
     - type: Transform
       parent: 2
       pos: -1.5,-24.5
     - type: FaxMachine
-      name: Arrivals Secpost
+      name: КПП СБ в Прибытии # RU-Localization
   - uid: 6015
     components:
     - type: Transform
       parent: 2
       pos: 6.5,24.5
     - type: FaxMachine
-      name: HoP Office
+      name: Офис ГП # RU-Localization
   - uid: 6016
     components:
     - type: Transform
       parent: 2
       pos: -24.5,-25.5
     - type: FaxMachine
-      name: CMO's Office
+      name: Офис ГВ # RU-Localization
   - uid: 6017
     components:
     - type: Transform
       parent: 2
       pos: -32.5,-15.5
     - type: FaxMachine
-      name: Library
+      name: Библиотека # RU-Localization
   - uid: 6018
     components:
     - type: Transform
       parent: 2
       pos: -29.5,10.5
     - type: FaxMachine
-      name: Security
+      name: Безопасность # RU-Localization
 - proto: FaxMachineCaptain
   entities:
   - uid: 6019

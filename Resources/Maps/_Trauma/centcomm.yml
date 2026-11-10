@@ -20807,7 +20807,7 @@ entities:
       parent: 1668
       pos: -14.5,-4.5
     - type: FaxMachine
-      name: Centcomm
+      name: ЦК # RU-Localization
 - proto: filingCabinetDrawer
   entities:
   - uid: 1628

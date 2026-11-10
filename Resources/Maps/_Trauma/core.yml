@@ -70694,7 +70694,7 @@ entities:
       pos: 33.5,15.5
       parent: 2
     - type: FaxMachine
-      name: Квартермейстер # RU-Localization
+      name: Квартирмейстер # RU-Localization
       destinationAddress: Quartermaster
   - uid: 7155
     components:

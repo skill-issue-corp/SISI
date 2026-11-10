@@ -25065,7 +25065,7 @@ entities:
       parent: 2
       pos: 9.5,5.5
     - type: FaxMachine
-      name: Security
+      name: Безопасность # RU-Localization
   - uid: 3950
     components:
     - type: Transform
@@ -25077,14 +25077,14 @@ entities:
       parent: 2
       pos: 7.5,-8.5
     - type: FaxMachine
-      name: Medical
+      name: Медицинский # RU-Localization
   - uid: 3952
     components:
     - type: Transform
       parent: 2
       pos: -27.5,15.5
     - type: FaxMachine
-      name: Cargo
+      name: Карго # RU-Localization
   - uid: 3953
     components:
     - type: Transform
@@ -25096,14 +25096,14 @@ entities:
       parent: 2
       pos: 25.5,-2.5
     - type: FaxMachine
-      name: HoP's Office
+      name: Офис ГП # RU-Localization
   - uid: 3955
     components:
     - type: Transform
       parent: 2
       pos: -33.5,4.5
     - type: FaxMachine
-      name: Engineering
+      name: Инженерный # RU-Localization
   - uid: 3956
     components:
     - type: Transform
