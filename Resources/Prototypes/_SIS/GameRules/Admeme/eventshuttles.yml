@@ -17,7 +17,14 @@
 # CBURN
 
 - type: entity
-  parent: BaseUnknownShuttleRule
+  parent: BaseGameRule
+  id: SpawnCBURNNoAnnounce
+  components:
+  - type: LoadMapRule
+    gridPath: /Maps/_SIS/Shuttles/ERT-Small-CBURN.yml
+
+- type: entity
+  parent: SpawnCBURNNoAnnounce
   id: SpawnCBURN
   components:
   - type: StationEvent
@@ -26,8 +33,6 @@
       path: /Audio/_SIS/Announcements/attention.ogg # SIS
     duration: 1
     maxOccurrences: 1
-  - type: LoadMapRule
-    gridPath: /Maps/_SIS/Shuttles/ERT-Small-CBURN.yml
 
 # ERT
 
