@@ -1,0 +1,115 @@
+# Deathsquad
+
+- type: entity
+  parent: BaseUnknownShuttleRule
+  id: SpawnDeathsquad
+  components:
+  - type: StationEvent
+    startAnnouncement: station-event-deathsquad-enroute
+    startAudio:
+      path: /Audio/_Goobstation/StationEvents/rescue_imminent.ogg
+    reoccurrenceDelay: 30
+    duration: null
+    maxOccurrences: 1
+  - type: LoadMapRule
+    gridPath: /Maps/_SIS/Shuttles/ERT-Small-Deathsquad.yml
+
+# CBURN
+
+- type: entity
+  parent: BaseUnknownShuttleRule
+  id: SpawnCBURN
+  components:
+  - type: StationEvent
+    startAnnouncement: station-event-cburn-enroute
+    startAudio:
+      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+    duration: 1
+    maxOccurrences: 1
+  - type: LoadMapRule
+    gridPath: /Maps/_SIS/Shuttles/ERT-Small-CBURN.yml
+
+# ERT
+
+- type: entity
+  parent: BaseUnknownShuttleRule
+  id: SpawnERTSecurity
+  components:
+  - type: StationEvent
+    startAnnouncement: station-event-emergencyresponseteam-security-enroute
+    startAudio:
+      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+    duration: 1
+    maxOccurrences: 1
+  - type: LoadMapRule
+    gridPath: /Maps/_SIS/Shuttles/ERT-Small-Sec.yml
+
+- type: entity
+  parent: SpawnERTSecurity
+  id: SpawnERTSecurityDelayed
+  components:
+  - type: StationEvent
+    # Can't make announcement delayed
+    startAnnouncement: null
+    startAudio: null
+  - type: GameRule
+    delay:
+      min: 15
+      max: 20
+  - type: RoundEndRule
+  - type: AlertLevelInterceptionRule
+    alertLevel: Gamma
+    overrideAlert: true
+    locked: true
+
+- type: entity
+  parent: BaseUnknownShuttleRule
+  id: SpawnERTMedical
+  components:
+  - type: StationEvent
+    startAnnouncement: station-event-emergencyresponseteam-medical-enroute
+    startAudio:
+      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+    duration: 1
+    maxOccurrences: 1
+  - type: LoadMapRule
+    gridPath: /Maps/_SIS/Shuttles/ERT-Small-Med.yml
+
+- type: entity
+  parent: BaseUnknownShuttleRule
+  id: SpawnERTEngineering
+  components:
+  - type: StationEvent
+    startAnnouncement: station-event-emergencyresponseteam-engineering-enroute
+    startAudio:
+      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+    duration: 1
+    maxOccurrences: 1
+  - type: LoadMapRule
+    gridPath: /Maps/_SIS/Shuttles/ERT-Small-Eng.yml
+
+- type: entity
+  parent: BaseUnknownShuttleRule
+  id: SpawnERTJanitorial
+  components:
+  - type: StationEvent
+    startAnnouncement: station-event-emergencyresponseteam-generic-enroute
+    startAudio:
+      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+    duration: 1
+    maxOccurrences: 1
+  - type: LoadMapRule
+    gridPath: /Maps/_SIS/Shuttles/ERT-Small-Jani.yml
+
+- type: entity
+  parent: BaseUnknownShuttleRule
+  id: SpawnERTChaplain
+  components:
+  - type: StationEvent
+    startAnnouncement: station-event-emergencyresponseteam-chaplain-enroute
+    startAudio:
+      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+    duration: 1
+    maxOccurrences: 1
+  - type: LoadMapRule
+    gridPath: /Maps/_SIS/Shuttles/ERT-Small-Chap.yml

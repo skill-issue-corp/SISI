@@ -1,35 +1,35 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-# Deathsquad
+# # Deathsquad
 
-- type: entity
-  parent: BaseUnknownShuttleRule
-  id: SpawnDeathsquad
-  components:
-  - type: StationEvent
-    startAnnouncement: station-event-deathsquad-enroute
-    startAudio:
-      path: /Audio/_Goobstation/StationEvents/rescue_imminent.ogg
-    reoccurrenceDelay: 30
-    duration: null
-    maxOccurrences: 1
-  - type: LoadMapRule
-    gridPath: /Maps/_Goobstation/Shuttles/consul.yml
+# - type: entity
+#   parent: BaseUnknownShuttleRule
+#   id: SpawnDeathsquad
+#   components:
+#   - type: StationEvent
+#     startAnnouncement: station-event-deathsquad-enroute
+#     startAudio:
+#       path: /Audio/_Goobstation/StationEvents/rescue_imminent.ogg
+#     reoccurrenceDelay: 30
+#     duration: null
+#     maxOccurrences: 1
+#   - type: LoadMapRule
+#     gridPath: /Maps/_Goobstation/Shuttles/consul.yml
 
-# CBURN
+# # CBURN
 
-- type: entity
-  parent: BaseUnknownShuttleRule
-  id: SpawnCBURN
-  components:
-  - type: StationEvent
-    startAnnouncement: station-event-cburn-enroute
-    startAudio:
-      path: /Audio/_SIS/Announcements/attention.ogg # SIS
-    duration: 1
-    maxOccurrences: 1
-  - type: LoadMapRule
-    gridPath: /Maps/_Goobstation/Shuttles/retort_cburn.yml
+# - type: entity
+#   parent: BaseUnknownShuttleRule
+#   id: SpawnCBURN
+#   components:
+#   - type: StationEvent
+#     startAnnouncement: station-event-cburn-enroute
+#     startAudio:
+#       path: /Audio/_SIS/Announcements/attention.ogg # SIS
+#     duration: 1
+#     maxOccurrences: 1
+#   - type: LoadMapRule
+#     gridPath: /Maps/_Goobstation/Shuttles/retort_cburn.yml
 
 # # ERT
 
