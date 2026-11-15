@@ -4,8 +4,8 @@ meta:
   engineVersion: 288.1.0
   forkId: ""
   forkVersion: ""
-  time: 11/14/2026 18:36:24
-  entityCount: 252
+  time: 11/15/2026 10:34:02
+  entityCount: 253
 maps: []
 grids:
 - 1
@@ -210,7 +210,6 @@ entities:
             color: '#FFFFFFFF'
           decals:
           - -5,-1
-          - -4,-1
     - type: GridAtmosphere
       version: 2
       data:
@@ -1405,7 +1404,7 @@ entities:
     components:
     - type: Transform
       parent: 1
-      pos: -3.5,-0.5
+      pos: -2.5,7.5
 - proto: RandomHumanoidSpawnerERTSecurityEVA
   entities:
   - uid: 7
@@ -1423,6 +1422,11 @@ entities:
     - type: Transform
       parent: 1
       pos: -4.5,-0.5
+  - uid: 253
+    components:
+    - type: Transform
+      parent: 1
+      pos: -3.5,-0.5
 - proto: ShuttleWindow
   entities:
   - uid: 130
