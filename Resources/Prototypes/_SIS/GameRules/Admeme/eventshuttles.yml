@@ -12,7 +12,16 @@
     duration: null
     maxOccurrences: 1
   - type: LoadMapRule
-    gridPath: /Maps/_SIS/Shuttles/ERT-Small-Deathsquad.yml
+    gridPath: /Maps/_SIS/Shuttles/AdminSpawn/ERT-Small-Deathsquad.yml
+
+# HECU
+
+- type: entity
+  parent: BaseUnknownShuttleRule
+  id: SpawnHECU
+  components:
+  - type: LoadMapRule
+    gridPath: /Maps/_SIS/Shuttles/AdminSpawn/ERT-HECU.yml
 
 # CBURN
 
@@ -21,7 +30,7 @@
   id: SpawnCBURNNoAnnounce
   components:
   - type: LoadMapRule
-    gridPath: /Maps/_SIS/Shuttles/ERT-Small-CBURN.yml
+    gridPath: /Maps/_SIS/Shuttles/AdminSpawn/ERT-Small-CBURN.yml
 
 - type: entity
   parent: SpawnCBURNNoAnnounce
@@ -30,7 +39,7 @@
   - type: StationEvent
     startAnnouncement: station-event-cburn-enroute
     startAudio:
-      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+      path: /Audio/_SIS/Announcements/attention.ogg
     duration: 1
     maxOccurrences: 1
 
@@ -43,11 +52,11 @@
   - type: StationEvent
     startAnnouncement: station-event-emergencyresponseteam-security-enroute
     startAudio:
-      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+      path: /Audio/_SIS/Announcements/attention.ogg
     duration: 1
     maxOccurrences: 1
   - type: LoadMapRule
-    gridPath: /Maps/_SIS/Shuttles/ERT-Small-Sec.yml
+    gridPath: /Maps/_SIS/Shuttles/AdminSpawn/ERT-Small-Sec.yml
 
 - type: entity
   parent: SpawnERTSecurity
@@ -74,11 +83,11 @@
   - type: StationEvent
     startAnnouncement: station-event-emergencyresponseteam-medical-enroute
     startAudio:
-      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+      path: /Audio/_SIS/Announcements/attention.ogg
     duration: 1
     maxOccurrences: 1
   - type: LoadMapRule
-    gridPath: /Maps/_SIS/Shuttles/ERT-Small-Med.yml
+    gridPath: /Maps/_SIS/Shuttles/AdminSpawn/ERT-Small-Med.yml
 
 - type: entity
   parent: BaseUnknownShuttleRule
@@ -87,11 +96,11 @@
   - type: StationEvent
     startAnnouncement: station-event-emergencyresponseteam-engineering-enroute
     startAudio:
-      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+      path: /Audio/_SIS/Announcements/attention.ogg
     duration: 1
     maxOccurrences: 1
   - type: LoadMapRule
-    gridPath: /Maps/_SIS/Shuttles/ERT-Small-Eng.yml
+    gridPath: /Maps/_SIS/Shuttles/AdminSpawn/ERT-Small-Eng.yml
 
 - type: entity
   parent: BaseUnknownShuttleRule
@@ -100,11 +109,11 @@
   - type: StationEvent
     startAnnouncement: station-event-emergencyresponseteam-generic-enroute
     startAudio:
-      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+      path: /Audio/_SIS/Announcements/attention.ogg
     duration: 1
     maxOccurrences: 1
   - type: LoadMapRule
-    gridPath: /Maps/_SIS/Shuttles/ERT-Small-Jani.yml
+    gridPath: /Maps/_SIS/Shuttles/AdminSpawn/ERT-Small-Jani.yml
 
 - type: entity
   parent: BaseUnknownShuttleRule
@@ -113,8 +122,8 @@
   - type: StationEvent
     startAnnouncement: station-event-emergencyresponseteam-chaplain-enroute
     startAudio:
-      path: /Audio/_SIS/Announcements/attention.ogg # SIS
+      path: /Audio/_SIS/Announcements/attention.ogg
     duration: 1
     maxOccurrences: 1
   - type: LoadMapRule
-    gridPath: /Maps/_SIS/Shuttles/ERT-Small-Chap.yml
+    gridPath: /Maps/_SIS/Shuttles/AdminSpawn/ERT-Small-Chap.yml
