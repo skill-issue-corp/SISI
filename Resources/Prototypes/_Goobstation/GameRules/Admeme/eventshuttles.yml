@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
+# SIS-ERTOverhaul Start
 # # Deathsquad
 
 # - type: entity
@@ -115,7 +116,7 @@
 #     maxOccurrences: 1
 #   - type: LoadMapRule
 #     gridPath: /Maps/_Goobstation/Shuttles/retort_chaplain.yml
-
+# SIS-ERTOverhaul End
 #Contractor
 - type: entity
   parent: [ BaseAntagGhostRoleRule, BaseUnknownShuttleRule ]
