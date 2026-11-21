@@ -27,6 +27,7 @@ public sealed partial class OrganChipSystem : EntitySystem
     [Dependency] private SharedHandsSystem _hands = default!;
     [Dependency] private SharedDoAfterSystem _doAfter = default!;
     [Dependency] private SharedPopupSystem _popup = default!;
+    [Dependency] private SharedTransformSystem _transform = default!;
     [Dependency] private EntityQuery<BypassInteractionChecksComponent> _bypassQuery = default!;
     [Dependency] private EntityQuery<OrganChipComponent> _query = default!;
     [Dependency] private EntityQuery<OrganChipContainerComponent> _containerQuery = default!;
@@ -249,7 +250,8 @@ public sealed partial class OrganChipSystem : EntitySystem
 
         var user = args.User;
         _popup.PopupEntity($"Вы вытащили чип из {OrganName(ent)}.", user, user); // SIS-TODO: Анхаркод локали
-        _hands.TryPickupAnyHand(user, chip);
+        if (!_hands.TryPickupAnyHand(user, chip))
+            _transform.AttachToGridOrMap(chip);
         _adminLog.Add(LogType.Verb, $"{user:user} removed organ chip {chip:chip} from {ent:target}");
     }
 
@@ -273,8 +275,8 @@ public sealed partial class OrganChipSystem : EntitySystem
         {
             var bodyName = Identity.Name(body.Value, EntityManager);
             var userName = Identity.Name(user, EntityManager);
-            _popup.PopupEntity($"Вы начинаете вставлять чип в {name} {bodyName}!", user, user, PopupType.Large); // SIS-TODO: Анхаркод локали
-            _popup.PopupEntity($"{userName} начинает вставлять чип в {name}!", user, body.Value, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
+            _popup.PopupEntity($"You start inserting a chip into {bodyName}'s {name}!", user, user, PopupType.Large);
+            _popup.PopupEntity($"{userName} starts inserting a chip into {name}!", user, body.Value, PopupType.LargeCaution);
         }
         else
         {
@@ -308,8 +310,8 @@ public sealed partial class OrganChipSystem : EntitySystem
         {
             var bodyName = Identity.Name(body.Value, EntityManager);
             var userName = Identity.Name(user, EntityManager);
-            _popup.PopupEntity($"Вы начинаете вытаскивать чип из {name} {bodyName}!", user, user, PopupType.Large); // SIS-TODO: Анхаркод локали
-            _popup.PopupEntity($"{userName} начинает вытаскивать чип из вашего {name}!", user, body.Value, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
+            _popup.PopupEntity($"You start pulling a chip out of {bodyName}'s {name}!", user, user, PopupType.Large);
+            _popup.PopupEntity($"{userName} starts pulling a chip out of your {name}!", user, body.Value, PopupType.LargeCaution);
         }
         else
         {
@@ -334,10 +336,12 @@ public sealed partial class OrganChipSystem : EntitySystem
         if (!_query.TryComp(chip, out var comp))
             return null;
 
+        // aghosts don't need to hardgrab (they can't)
+        var isAdmin = _bypassQuery.HasComp(user);
         if (_body.GetBody(organ) is { } body)
         {
             bodyEnt = body;
-            if (body != user && _pullableQuery.TryComp(body, out var pullable) && pullable.GrabStage < GrabStage.Hard)
+            if (body != user && !isAdmin && _pullableQuery.TryComp(body, out var pullable) && pullable.GrabStage < GrabStage.Hard)
             {
                 _popup.PopupEntity("Сначала вам нужно крепко схватить их!", body, user); // SIS-TODO: Анхаркод локали
                 return null;

@@ -1,18 +1,14 @@
-using Content.Server.Antag;
 using Content.Server.GameTicking.Rules;
-using Content.Server.GameTicking.Rules.Components;
 using Content.Server.Silicons.Borgs;
 using Content.Shared.Antag;
 using Content.Shared.Destructible;
-using Content.Shared.Mind;
+using Content.Shared.GameTicking.Rules.Components;
 using Content.Shared.Mind.Components;
 using Content.Shared.Roles;
-using Content.Shared.Roles.Components;
 using Content.Shared.Silicons.Borgs.Components;
 using Content.Shared.Xenoborgs.Components;
-using Content.SIS.Common.ChatBriefing;
-using Robust.Shared.Audio;
 using Robust.Shared.Player;
+using Content.SIS.Common.ChatBriefing;
 using Robust.Shared.Prototypes;
 
 namespace Content.Server.Xenoborgs;
@@ -22,7 +18,8 @@ public sealed partial class XenoborgSystem : EntitySystem
     [Dependency] private AntagSelectionSystem _antag = default!;
     [Dependency] private BorgSystem _borg = default!;
     [Dependency] private SharedRoleSystem _roles = default!;
-    [Dependency] private XenoborgsRuleSystem _xenoborgsRule = default!;
+    [Dependency] private ServerXenoborgsRuleSystem _xenoborgsRule = default!;
+
     // SIS-ChatBriefing Start
     [Dependency] private IPrototypeManager _proto = default!;
     [Dependency] private GreetingSystem _greeting = default!;
@@ -94,15 +91,17 @@ public sealed partial class XenoborgSystem : EntitySystem
     {
         _roles.MindAddRole(args.Mind, comp.MindRole, silent: true);
 
-        // SIS-ChatBriefing Start
-        if (MetaData(ent).EntityPrototype is { } protoId
-            && protoId == MothershipCoreAntag)
+        if (!TryComp<ActorComponent>(ent, out var actorComp))
             return;
 
-        var proto = _proto.Index(XenoborgAntag);
-        var entry = _greeting.CreateGreetingEntry("xenoborgs-", proto.Briefing);
-        _antag.SendBriefing(ent, entry);
-        // SIS-ChatBriefing End
+        // The antag selector sends the mothership core briefing.
+        if (MetaData(ent).EntityPrototype?.ID == MothershipCoreAntag.Id)
+            return;
+
+        // SIS-ChatBriefing
+        var entry = _greeting.CreateGreetingEntry("xenoborgs-", _proto.Index(XenoborgAntag).Briefing);
+        entry.Sound ??= comp.BriefingSound;
+        _antag.SendBriefing(actorComp.PlayerSession, entry);
     }
 
     private void OnXenoborgMindRemoved(EntityUid ent, XenoborgComponent comp, MindRemovedMessage args)

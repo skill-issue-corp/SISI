@@ -24,8 +24,9 @@
     description: ghost-role-information-psimonkey-description
     rules: ghost-role-information-freeagent-rules
   - type: GhostTakeoverAvailable
-  - type: Clumsy
-    clumsyDefaultCheck: 1.0
+  - type: PermanentStatusEffects
+    statusEffects: !Clear
+    - StatusEffectClumsyGuaranteed # SIS
   - type: ToolRefinable
     refineResult:
     - id: PsiMonkeyRedBrain

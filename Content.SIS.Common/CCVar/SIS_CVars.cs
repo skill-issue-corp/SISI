@@ -43,8 +43,6 @@ public sealed partial class SIS_CVars
     public static readonly CVarDef<bool> RoundEndWeapons =
         CVarDef.Create("sis.round_end_weapons_enabled", true, CVar.SERVERONLY);
 
-    public static readonly CVarDef<bool> SpaceWhaleAllowStationApproach =
-        CVarDef.Create("sis.space_whale_allow_station_approach", true, CVar.SERVERONLY);
 
     /// <summary>
     /// Offer item.

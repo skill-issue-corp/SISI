@@ -55,22 +55,7 @@
 # SIS-End
 
 - type: entity
-  parent: Spies
-  id: SubSpies
-  components:
-  - type: GameRule
-    minPlayers: 5
-  - type: AntagSelection
-    antags:
-    - !type:LinearAntagCount
-      proto: Spy
-      range:
-        min: 1
-        max: 3
-      playerRatio: 20
-
-- type: entity
-  parent: Changeling
+  parent: ChangelingRuleRoundstart
   id: SubChangeling
   components:
   - type: AntagSelection

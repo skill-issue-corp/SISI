@@ -1,14 +1,7 @@
-<!--
-SPDX-FileCopyrightText: 2023 M3739 <47579354+M3739@users.noreply.github.com>
-SPDX-FileCopyrightText: 2024 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-
-SPDX-License-Identifier: AGPL-3.0-or-later
--->
 
 <Document>
   # Киборги
-  Киборги - это гибриды человека и машины, специально созданные отделом [textlink="робототехники" link="Robotics"] науки для выполнения различных обязанностей на станции. Подчиняясь строго соблюдаемым [color=cyan]законам синтетиков[/color], они безусловно служат экипажу. [italic](Большую часть времени.)[italic]
+  Киборги — гибриды человека и машины, которых [textlink="робототехническое"  link="Robotics"] подразделение инженерного отдела создаёт для работы на станции. Они строго подчиняются [color=cyan]законам кремниевых[/color] и безоговорочно служат экипажу. [italic](В большинстве случаев.)[/italic] <!-- Trauma - sci -> engi -->
 
   ## Основные компоненты
   <Box>
@@ -66,7 +59,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="BorgModuleChemical" Caption="Химия"/>
   </Box>
   <Box>
-    [italic]Примеры специализированных модулей. Обратите внимание на цвет корпуса и печатной платы.
+    [italic]Примеры специализированных модулей. Обратите внимание на цвет корпуса и печатной платы.[/italic]
   </Box>
   Дополнительные модули с продвинутыми или новыми возможностями можно получить с помощью новых [textlink="технологий" link="Technologies"], исследованных учёными.
 </Document>

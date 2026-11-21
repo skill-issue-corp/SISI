@@ -6,9 +6,12 @@ using Content.Server.GameTicking.Rules;
 using Content.Server.Mind;
 using Content.Shared.Mind;
 using Content.Shared.Actions;
+using Content.Shared.Antag;
 using Content.Shared.EntityEffects;
 using Content.Shared.EntityEffects.Effects;
+using Content.Shared.GameTicking;
 using Content.Shared.GameTicking.Components;
+using Content.Shared.GameTicking.Rules;
 using Content.Shared.Overlays;
 using Content.Shared.Roles;
 using Content.Shared.Roles.Components;
@@ -37,14 +40,7 @@ public sealed partial class WerewolfRuleSystem : GameRuleSystem<WerewolfRuleComp
 
     public readonly ProtoId<EntityEffectPrototype> WerewolfSkills = "WerewolfSkills";
 
-    public override void Initialize()
-    {
-        base.Initialize();
-
-        SubscribeLocalEvent<WerewolfRuleComponent, AfterAntagEntitySelectedEvent>(OnSelectAntag);
-        SubscribeLocalEvent<WerewolfInfectionFinishedEvent>(OnInfectionFinished); // goida
-    }
-
+    [SubscribeLocalEvent]
     private void OnSelectAntag(EntityUid uid, WerewolfRuleComponent comp, ref AfterAntagEntitySelectedEvent args)
     {
         MakeWerewolf(args.EntityUid, comp);
@@ -106,10 +102,11 @@ public sealed partial class WerewolfRuleSystem : GameRuleSystem<WerewolfRuleComp
         return true;
     }
 
+    [SubscribeLocalEvent]
     private void OnInfectionFinished(ref WerewolfInfectionFinishedEvent ev)
     {
         var query = QueryActiveRules();
-        while (query.MoveNext(out _, out var rule, out _))
+        while (query.MoveNext(out _, out var rule, out _, out _))
         {
             RemComp<WerewolfBitComponent>(ev.Entity);
             EnsureComp<WerewolfInfectionImmuneComponent>(ev.Entity);
@@ -121,11 +118,7 @@ public sealed partial class WerewolfRuleSystem : GameRuleSystem<WerewolfRuleComp
         }
     }
 
-    protected override void AppendRoundEndText(
-        EntityUid uid,
-        WerewolfRuleComponent component,
-        GameRuleComponent gameRule,
-        ref RoundEndTextAppendEvent args)
+    protected override void AppendRoundEndText(Entity<WerewolfRuleComponent> rule, ref RoundEndTextAppendEvent args)
     {
         var eqe = EntityQueryEnumerator<WerewolfMindComponent, MindComponent>();
         while (eqe.MoveNext(out var mindId, out var werewolf, out var mind))

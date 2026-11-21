@@ -51,7 +51,6 @@
       0: Alive
       50: Critical
       150: Dead
-  - type: Hunger
   - type: Fixtures
     fixtures:
       fix1:
@@ -64,7 +63,6 @@
         - MobMask
         layer:
         - MobLayer
-  - type: Thirst
   - type: VentCrawler
   - type: Inventory
     templateId: kobold

@@ -33,31 +33,24 @@ namespace Content.Shared.Localizations
 
             _loc.LoadCulture(culture);
             _loc.LoadCulture(fallbackCulture); // RU-Localization
-            _loc.SetFallbackCluture(fallbackCulture); // RU-Localization
+            _loc.SetFallbackCulture(fallbackCulture); // RU-Localization
 
-            _loc.AddFunction(culture, "MANY", FormatMany); // RU-Localization
-            _loc.AddFunction(culture, "PRESSURE", FormatPressure);
-            _loc.AddFunction(culture, "POWERWATTS", FormatPowerWatts);
-            _loc.AddFunction(culture, "POWERJOULES", FormatPowerJoules);
-            // NOTE: ENERGYWATTHOURS() still takes a value in joules, but formats as watt-hours.
-            _loc.AddFunction(culture, "ENERGYWATTHOURS", FormatEnergyWattHours);
-            _loc.AddFunction(culture, "UNITS", FormatUnits);
-            _loc.AddFunction(culture, "TOSTRING", args => FormatToString(culture, args));
-            _loc.AddFunction(culture, "LOC", FormatLoc);
-            _loc.AddFunction(culture, "NATURALFIXED", FormatNaturalFixed);
-            _loc.AddFunction(culture, "NATURALPERCENT", FormatNaturalPercent);
-            _loc.AddFunction(culture, "PLAYTIME", FormatPlaytime);
+            foreach (var locale in new[] { culture, fallbackCulture }) // RU-Localization
+            {
+                _loc.AddFunction(locale, "MANY", FormatMany);
+                _loc.AddFunction(locale, "PRESSURE", FormatPressure);
+                _loc.AddFunction(locale, "POWERWATTS", FormatPowerWatts);
+                _loc.AddFunction(locale, "POWERJOULES", FormatPowerJoules);
+                _loc.AddFunction(locale, "ENERGYWATTHOURS", FormatEnergyWattHours);
+                _loc.AddFunction(locale, "UNITS", FormatUnits);
+                _loc.AddFunction(locale, "TOSTRING", args => FormatToString(locale, args));
+                _loc.AddFunction(locale, "LOC", FormatLoc);
+                _loc.AddFunction(locale, "NATURALFIXED", args => FormatNaturalFixed(locale, args));
+                _loc.AddFunction(locale, "NATURALPERCENT", args => FormatNaturalPercent(locale, args));
+                _loc.AddFunction(locale, "PLAYTIME", FormatPlaytime);
+            }
 
-
-            /*
-             * The following language functions are specific to the english localization. When working on your own
-             * localization you should NOT modify these, instead add new functions specific to your language/culture.
-             * This ensures the english translations continue to work as expected when fallbacks are needed.
-             */
-            var cultureEn = new CultureInfo("en-US");
-
-            _loc.AddFunction(cultureEn, "MAKEPLURAL", FormatMakePlural);
-            _loc.AddFunction(cultureEn, "MANY", FormatMany);
+            _loc.AddFunction(fallbackCulture, "MAKEPLURAL", FormatMakePlural);
         }
 
         private ILocValue FormatMany(LocArgs args)
@@ -74,20 +67,20 @@ namespace Content.Shared.Localizations
             }
         }
 
-        private ILocValue FormatNaturalPercent(LocArgs args)
+        private ILocValue FormatNaturalPercent(CultureInfo culture, LocArgs args)
         {
             var number = ((LocValueNumber) args.Args[0]).Value * 100;
             var maxDecimals = (int)Math.Floor(((LocValueNumber) args.Args[1]).Value);
-            var formatter = (NumberFormatInfo)NumberFormatInfo.GetInstance(CultureInfo.GetCultureInfo(Culture)).Clone();
+            var formatter = (NumberFormatInfo)NumberFormatInfo.GetInstance(culture).Clone();
             formatter.NumberDecimalDigits = maxDecimals;
             return new LocValueString(string.Format(formatter, "{0:N}", number).TrimEnd('0').TrimEnd(char.Parse(formatter.NumberDecimalSeparator)) + "%");
         }
 
-        private ILocValue FormatNaturalFixed(LocArgs args)
+        private ILocValue FormatNaturalFixed(CultureInfo culture, LocArgs args)
         {
             var number = ((LocValueNumber) args.Args[0]).Value;
             var maxDecimals = (int)Math.Floor(((LocValueNumber) args.Args[1]).Value);
-            var formatter = (NumberFormatInfo)NumberFormatInfo.GetInstance(CultureInfo.GetCultureInfo(Culture)).Clone();
+            var formatter = (NumberFormatInfo)NumberFormatInfo.GetInstance(culture).Clone();
             formatter.NumberDecimalDigits = maxDecimals;
             return new LocValueString(string.Format(formatter, "{0:N}", number).TrimEnd('0').TrimEnd(char.Parse(formatter.NumberDecimalSeparator)));
         }

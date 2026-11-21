@@ -17,11 +17,11 @@ using Content.Shared.Body;
 using Content.Shared.Body.Systems;
 using Content.Shared.Damage.Systems;
 using Content.Shared.DoAfter;
-using Content.Shared.FixedPoint;
 using Content.Shared.Mobs.Systems;
 using Content.Shared.Nutrition.Components;
 using Content.Shared.Nutrition.EntitySystems;
 using Content.Shared.Polymorph;
+using Content.Shared.Station.Systems;
 using Content.Shared.Store.Components;
 using Robust.Shared.Audio.Systems;
 using Robust.Shared.Prototypes;
@@ -36,11 +36,11 @@ public sealed partial class WerewolfAbilitiesSystem : EntitySystem
     [Dependency] private StoreSystem _store = default!;
     [Dependency] private PopupSystem _popup = default!;
     [Dependency] private MindSystem _mind = default!;
-    [Dependency] private HungerSystem _hunger = default!;
+    [Dependency] private SatiationSystem _satiation = default!;
     [Dependency] private SharedDoAfterSystem _doAfter = default!;
     [Dependency] private IPrototypeManager _proto = default!;
     [Dependency] private DamageableSystem _damage = default!;
-    [Dependency] private SharedBloodstreamSystem _blood = default!;
+    [Dependency] private BloodstreamSystem _blood = default!;
     [Dependency] private BodySystem _body = default!;
     [Dependency] private IRobustRandom _gambling = default!;
     [Dependency] private WoundSystem _wound = default!;
@@ -57,17 +57,12 @@ public sealed partial class WerewolfAbilitiesSystem : EntitySystem
     {
         base.Initialize();
 
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, TransfurmEvent>(TryTransfurm);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfChangeTypeEvent>(OnChangeType);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfOpenStoreEvent>(OnOpenStore);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, PolymorphedEvent>(OnPolymorphed);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfActionRemoveEvent>(OnActionRemove);
-
         InitializeWerewolfSide();
         InitializeBlack();
     }
 
-    # region basic handlers
+    #region basic handlers
+    [SubscribeLocalEvent]
     private void TryTransfurm(EntityUid uid,
         WerewolfAbilitiesComponent component,
         TransfurmEvent args)
@@ -107,24 +102,34 @@ public sealed partial class WerewolfAbilitiesSystem : EntitySystem
             EnsureComp<WerewolfAbilitiesComponent>(furry).Transfurmed = true;
     }
 
+    [SubscribeLocalEvent]
     private void OnPolymorphed(EntityUid uid, WerewolfAbilitiesComponent comp, PolymorphedEvent args)
     {
         if (!comp.Transfurmed)
         {
-            _polymorph.CopyPolymorphComponent<HungerComponent>(uid, args.NewEntity);
+            _polymorph.CopyPolymorphComponent<SatiationComponent>(uid, args.NewEntity);
 
-            if (TryComp<HungerComponent>(uid, out var oldHunger)) // Transfer hunger value
-                _hunger.SetHunger(args.NewEntity, _hunger.GetHunger(oldHunger));
+            TransferHunger(uid, args.NewEntity);
             return;
         }
 
-        if (TryComp<HungerComponent>(uid, out var oldHungerTakeTwo)) // Transfer hunger value
-            _hunger.SetHunger(args.NewEntity, _hunger.GetHunger(oldHungerTakeTwo));
+        TransferHunger(uid, args.NewEntity);
 
         var ev = new SelectFirstMartialArtEvent(args.NewEntity); // when you polymorph, it resets your current selected martial art
         RaiseLocalEvent(ev); // this is a very lazy solution but hey it works
     }
 
+    private void TransferHunger(EntityUid source, EntityUid target)
+    {
+        if (!TryComp<SatiationComponent>(source, out var sourceSatiation) ||
+            !TryComp<SatiationComponent>(target, out var targetSatiation) ||
+            _satiation.GetValueOrNull((source, sourceSatiation), SatiationSystem.Hunger) is not { } hunger)
+            return;
+
+        _satiation.SetValue((target, targetSatiation), SatiationSystem.Hunger, hunger);
+    }
+
+    [SubscribeLocalEvent]
     private void OnOpenStore(Entity<WerewolfAbilitiesComponent> ent, ref WerewolfOpenStoreEvent args)
     {
         if (ent.Comp.Transfurmed)
@@ -142,7 +147,7 @@ public sealed partial class WerewolfAbilitiesSystem : EntitySystem
         // you HAVE to do ts because why? POLYMORPH IS FUCKING SHIT OF COURSE! ig you can store the old uid for store and shit but whatever
         if (mindComp != null && mindComp.Currency > 0)
         {
-            _store.TryAddCurrency(new Dictionary<string, FixedPoint2> { { "Fury", mindComp.Currency } }, ent);
+            _store.TryAddCurrency(new() { { "Fury", mindComp.Currency } }, ent, store);
             mindComp.Currency = 0;
         }
 
@@ -150,6 +155,7 @@ public sealed partial class WerewolfAbilitiesSystem : EntitySystem
         ent.Comp.StoreOpened = true;
     }
 
+    [SubscribeLocalEvent]
     private void OnChangeType(EntityUid uid, WerewolfAbilitiesComponent comp, WerewolfChangeTypeEvent args)
     {
         comp.CurrentMutation = args.WerewolfType;
@@ -163,6 +169,7 @@ public sealed partial class WerewolfAbilitiesSystem : EntitySystem
         args.Handled = true;
     }
 
+    [SubscribeLocalEvent]
     private void OnActionRemove(EntityUid uid, WerewolfAbilitiesComponent comp, WerewolfActionRemoveEvent args)
     {
         _actionContainer.RemoveAction(args.ActionEnt);

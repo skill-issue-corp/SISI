@@ -210,10 +210,7 @@ vox-raider-role-greeting-desc =
 ghost-role-information-clown-goblin-name = Clown goblin
 ghost-role-information-clown-goblin-description = A terrible creature, born out of hell.
 
-ghost-role-information-slasher-token = The Slasher (Token)
-
 ghost-role-information-contractor-name = Syndicate Contractor
-ghost-role-information-contractor-token = Syndicate Contractor (Token)
 ghost-role-information-contractor-description = GET DA... tider..?
 
 # SIS-Start

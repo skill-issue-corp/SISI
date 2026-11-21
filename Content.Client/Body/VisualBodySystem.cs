@@ -5,11 +5,13 @@ using System.Linq;
 using Content.Client.DisplacementMap;
 using Content.Shared.Body;
 using Content.Shared.CCVar;
+using Content.Shared.DisplacementMap;
 using Content.Shared.Humanoid.Markings;
 using Content.Shared.Humanoid;
 using Robust.Client.GameObjects;
 using Robust.Client.Graphics;
 using Robust.Shared.Configuration;
+using Robust.Shared.Prototypes;
 using Robust.Shared.Utility;
 
 namespace Content.Client.Body;
@@ -71,6 +73,7 @@ public sealed partial class VisualBodySystem : SharedVisualBodySystem
         if (Comp<OrganComponent>(ent).Body is not { } body)
             return;
 
+        RemoveVisual(ent, body);
         ApplyVisual(ent, body);
     }
 
@@ -98,7 +101,7 @@ public sealed partial class VisualBodySystem : SharedVisualBodySystem
                 ent.Comp.Layer,
                 out _);
 
-            // SIS-Fix_second_displacement Start // SIS-TODO: Порт Инки
+            // inky
             if (ent.Comp is { SecondLayer: not null, SecondData: not null }
                 && _sprite.LayerMapTryGet(target, ent.Comp.SecondLayer, out var secondIndex, false))
             {
@@ -108,7 +111,12 @@ public sealed partial class VisualBodySystem : SharedVisualBodySystem
                     ent.Comp.SecondLayer,
                     out _);
             }
-            // SIS-Fix_second_displacement End
+            // /inky
+        }
+
+        if (displacement == null)
+        {
+            _displacement.EnsureDisplacementIsNotOnSprite((target, Comp<SpriteComponent>(target)), ent.Comp.Layer);
         }
     }
 
@@ -133,10 +141,10 @@ public sealed partial class VisualBodySystem : SharedVisualBodySystem
 
         _displacement.EnsureDisplacementIsNotOnSprite((target, /* Comp<SpriteComponent>(target) */ sprite), ent.Comp.Layer); // inky edit
 
-        // SIS-Fix_second_displacement Start // SIS-TODO: Порт Инки
+        // inky
         if (ent.Comp.SecondLayer != null)
             _displacement.EnsureDisplacementIsNotOnSprite((target, sprite), ent.Comp.SecondLayer);
-        // SIS-Fix_second_displacement End
+        // /inky
     }
 
     private void OnMarkingsGotInserted(Entity<VisualOrganMarkingsComponent> ent, ref OrganGotInsertedEvent args)
@@ -168,9 +176,10 @@ public sealed partial class VisualBodySystem : SharedVisualBodySystem
         ApplyVisual(ent, body);
     }
 
-    public override void SetOrganMarkings(Entity<VisualOrganMarkingsComponent> ent, Dictionary<HumanoidVisualLayers, List<Marking>> markings) // Trauma - made public
+    // Trauma - made public
+    public override void SetOrganMarkings(Entity<VisualOrganMarkingsComponent> ent, Dictionary<HumanoidVisualLayers, List<Marking>> markings, Dictionary<HumanoidVisualLayers, DisplacementData> displacement)
     {
-        base.SetOrganMarkings(ent, markings);
+        base.SetOrganMarkings(ent, markings, displacement);
 
         if (Comp<OrganComponent>(ent).Body is not { } body)
             return;
@@ -179,9 +188,9 @@ public sealed partial class VisualBodySystem : SharedVisualBodySystem
         ApplyMarkings(ent, body);
     }
 
-    protected override void SetOrganAppearance(Entity<VisualOrganComponent> ent, PrototypeLayerData data)
+    protected override void SetOrganAppearance(Entity<VisualOrganComponent> ent, PrototypeLayerData data, ProtoId<DisplacementDataPrototype>? displacement)
     {
-        base.SetOrganAppearance(ent, data);
+        base.SetOrganAppearance(ent, data, displacement);
 
         if (Comp<OrganComponent>(ent).Body is not { } body)
             return;

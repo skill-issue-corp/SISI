@@ -8,6 +8,8 @@ using Content.Shared.Body.Components;
 using Content.Shared.Damage;
 using Content.Shared.Damage.Prototypes;
 using Content.Shared.DoAfter;
+using Content.Shared.Nutrition.Components;
+using Content.Shared.Nutrition.EntitySystems;
 using Content.Shared.Popups;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
@@ -19,14 +21,9 @@ namespace Content.Inky.Server.Werewolf.Systems;
 /// </summary>
 public sealed partial class WerewolfAbilitiesSystem
 {
-    public void InitializeWerewolfSide()
-    {
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfDevourEvent>(TryDevour);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfDevourDoAfterEvent>(DoDevour);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfGutEvent>(TryGut);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfGutDoAfterEvent>(DoGut);
-    }
-    # region devour
+    public void InitializeWerewolfSide() { }
+    #region devour
+    [SubscribeLocalEvent]
     private void TryDevour(EntityUid uid, WerewolfAbilitiesComponent component, WerewolfDevourEvent args)
     {
         var target = args.Target;
@@ -65,6 +62,8 @@ public sealed partial class WerewolfAbilitiesSystem
     }
 
     public ProtoId<DamageGroupPrototype> DevourDamage = "Brute"; // bro
+
+    [SubscribeLocalEvent]
     private void DoDevour(EntityUid uid, WerewolfAbilitiesComponent comp, WerewolfDevourDoAfterEvent args)
     {
         if (args.Args.Target == null)
@@ -91,10 +90,12 @@ public sealed partial class WerewolfAbilitiesSystem
         mindComp.BittenPeople.Add(args.Args.Target.Value);
         targetComp.BittenBy = mindComp;
 
-        _hunger.ModifyHunger(uid, +80); // todo werewolf maybe put as a var inside a comp or sdome shit
+        if (TryComp<SatiationComponent>(uid, out var satiation))
+            _satiation.ModifyValue((uid, satiation), SatiationSystem.Hunger, +80); // todo werewolf maybe put as a var inside a comp or sdome shit
         _audio.PlayPvs(comp.RipSound, uid);
     }
 
+    [SubscribeLocalEvent]
     private void TryGut(EntityUid uid, WerewolfAbilitiesComponent comp, WerewolfGutEvent args)
     {
         var target = args.Target;
@@ -131,6 +132,7 @@ public sealed partial class WerewolfAbilitiesSystem
 
     #endregion
     #region helpers
+    [SubscribeLocalEvent]
     private void DoGut(EntityUid uid, WerewolfAbilitiesComponent comp, WerewolfGutDoAfterEvent args)
     {
         if (args.Args.Target == null)
@@ -149,7 +151,8 @@ public sealed partial class WerewolfAbilitiesSystem
         if (_mind.TryGetMind(uid, out var mindId, out _) && TryComp<WerewolfMindComponent>(mindId, out var mindComp))
             mindComp.Currency += comp.AmountGut;
 
-        _hunger.ModifyHunger(uid, 20); // todo werewolf maybe put this inside comp
+        if (TryComp<SatiationComponent>(uid, out var satiation))
+            _satiation.ModifyValue((uid, satiation), SatiationSystem.Hunger, 20); // todo werewolf maybe put this inside comp
         _audio.PlayPvs(comp.RipSound, uid);
     }
 

@@ -2,6 +2,7 @@ using Content.Inky.Server.Fun.Components.Rules;
 using Content.Server.GameTicking.Rules;
 using Content.Server.Mind;
 using Content.Server.Polymorph.Systems;
+using Content.Shared.GameTicking.Rules;
 using Content.Shared.Gibbing;
 using Content.Shared.Humanoid;
 using Content.Shared.Mind.Components;
@@ -18,22 +19,14 @@ public sealed partial class FunSkeletonGibSystem : GameRuleSystem<FunSkeletonGib
     [Dependency] private MindSystem _mind = default!;
     private readonly SoundSpecifier Sound = new SoundPathSpecifier("/Audio/_Goobstation/Voice/badtothebone.ogg");
 
-    public override void Initialize()
-    {
-        base.Initialize();
-
-        SubscribeLocalEvent<HumanoidProfileComponent, BeingGibbedEvent>(OnGibbed);
-    }
-
+    [SubscribeLocalEvent]
     private void OnGibbed(EntityUid uid, HumanoidProfileComponent comp, ref BeingGibbedEvent args)
     {
         if (!_fun.CheckRule<FunSkeletonGibRuleComponent>())
             return;
 
-        // SIS-TODO: Порт на Инки Start
         if (HasComp<TransferMindOnGibComponent>(uid))
             return;
-        // SIS-TODO: Порт на Инки End
 
         if (!_mind.TryGetMind(uid, out var mindId, out var mindComp))
             return;

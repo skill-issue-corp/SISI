@@ -15,7 +15,7 @@ namespace Content.SIS.Server.Respawn;
 public sealed partial class RespawnSystem : SharedRespawnSystem
 {
     [Dependency] private SharedActionsSystem _actions = default!;
-    [Dependency] private GameTicker _ticker = default!;
+    [Dependency] private ServerGameTicker _ticker = default!;
     [Dependency] private ISharedAdminLogManager _logManager = default!;
     [Dependency] private SharedUserInterfaceSystem _ui = default!;
     [Dependency] private IGameTiming _timing = default!;

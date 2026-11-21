@@ -4,4 +4,6 @@
   description: trait-clumsy-desc
   category: Disabilities
   components:
-    - type: Clumsy
+  - type: PermanentStatusEffects
+    statusEffects:
+    - StatusEffectClumsyClown # SIS

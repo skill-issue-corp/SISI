@@ -80,7 +80,7 @@ public sealed class GreetingSystem : EntitySystem
         var bgColor = theme?.TitleBgColor ?? BackgroundColorFallback;
         var borderColor = theme?.TitleBorderColor ?? textColor;
 
-        var text = Loc.GetString(section.Title, ("hl1", hl1.ToHex()), ("hl2", hl2.ToHex()));
+        var text = Loc.TryGetString(section.Title, out var title, ("hl1", hl1.ToHex()), ("hl2", hl2.ToHex())) ? title : section.Title;
 
         message.AddMarkupPermissive(BuildBoxMarkup("titlebox", textColor, bgColor, borderColor, text));
         PushNewlines(message, 2);
@@ -97,7 +97,7 @@ public sealed class GreetingSystem : EntitySystem
         var bgColor = theme?.MessageBgColor ?? BackgroundColorFallback;
         var borderColor = theme?.MessageBorderColor ?? textColor;
 
-        var text = Loc.GetString(section.Message, ("hl1", hl1.ToHex()), ("hl2", hl2.ToHex()));
+        var text = Loc.TryGetString(section.Message, out var textValue, ("hl1", hl1.ToHex()), ("hl2", hl2.ToHex())) ? textValue : section.Message;
 
         message.AddMarkupPermissive(BuildBoxMarkup("messagebox", textColor, bgColor, borderColor, text));
     }

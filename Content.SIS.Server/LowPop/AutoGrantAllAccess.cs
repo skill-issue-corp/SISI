@@ -1,6 +1,6 @@
 using System.Linq;
 using Content.Server.Chat.Systems;
-using Content.Server.GameTicking.Events;
+using Content.Shared.GameTicking.Events;
 using Content.Server.Mind;
 using Content.Shared.Access;
 using Content.Shared.Access.Systems;
