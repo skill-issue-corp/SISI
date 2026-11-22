@@ -8,9 +8,6 @@ ent-ClothingShoesBootsChronoUnremoveable = { ent-ClothingShoesBootsChrono }
 ent-ClothingShoesResonant = резонансные туфли
     .desc = Не пришло ли время… великолепному занавесу подняться?
 
-ent-ClothingShoesBootsMagEmergencyResponseTeam = тактические магнитные сапоги ОБР
-    .desc = Смотрите! Спасатель, мы в безопасности!
-
 ent-ClothingShoesBootsMagDeathsquad = магнитные сапоги Эскадрона Смерти
     .desc = Звук этих ботинок — настоящий символ ужаса.
 

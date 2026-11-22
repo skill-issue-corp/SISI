@@ -1,2 +1,2 @@
-ent-ActionRetractableItemArmBlade = Рука-клинок
-    .desc = Сбросьте плоть и превратите её в мясной клинок.
+ent-ActionRetractableItemArmblade = Рука-Клинок
+    .desc = Сбросьте плоть и превратите её в клинок. Переключать можно даже без сознания.

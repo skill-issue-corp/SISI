@@ -85,7 +85,7 @@ public abstract partial class SharedSprintingSystem : EntitySystem
             if (modifier <= 1f)
                 continue;
 
-            _staminaSystem.ModifyStaminaDrain(uid,
+            _staminaSystem.ModifyStaminaDrain((uid, staminaComp),
                 sprinterComp.StaminaDrainKey,
                 sprinterComp.StaminaDrainRate * modifier * sprinterComp.StaminaDrainMultiplier);
         }

@@ -92327,7 +92327,7 @@ entities:
       parent: 2
       pos: -34.5,101.5
     - type: FaxMachine
-      name: Капитанский Факс # RU-Localization
+      name: Факс Капитана # RU-Localization
 - proto: FenceMetalBroken
   entities:
   - uid: 26037

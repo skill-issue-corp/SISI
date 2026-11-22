@@ -1,11 +1,11 @@
-using Content.Server.Antag;
+using Content.Shared.Antag;
 using Content.SIS.Server.Terminator.Components;
 using Content.Shared.Administration;
 using Content.Shared.Database;
 using Content.Shared.Mind.Components;
 using Content.Shared.Verbs;
 using Content.SIS.Server.Contractor;
-using Content.Trauma.Server.GameTicking.Rules.Components;
+using Content.Trauma.Shared.GameTicking.Rules;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Random;

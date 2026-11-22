@@ -39,3 +39,6 @@ ent-ClothingBeltSheathSnakesfangFilled = { ent-ClothingBeltSheathSnakesfang }
 
 ent-ClothingBeltRancher = пояс животновода
     .desc = Идеален для хранения всего, что связано с курами, и не только.
+
+ent-ClothingBeltShankerBelt = самодельная перевязь для ножей
+    .desc = Сшитые куски ткани, в которых можно носить самые разные ножи.

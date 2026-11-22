@@ -1,16 +1,8 @@
 #!/usr/bin/env python3
-"""Точечно заменяет message в записях ченджлога по их id.
+"""Replace messages in place by entry ID, preserving YAML layout.
 
-Сохраняет заголовок файла (Name/Order/AdminOnly/Entries/BOM), порядок ключей,
-однострочные и блочные скаляры. Правки адресуются по id записи, а не по тексту
-message, поэтому дубликаты сообщений безопасны.
-
-Использование:
-    python3 apply_translations.py <file> <translations.json>
-
-JSON: объект {"<id>": ["перевод 1", "перевод 2", ...]}. Число переводов в
-списке должно совпадать с числом changes у записи (иначе предупреждение).
-"""
+Usage: python3 apply_translations.py <file> <translations.json>
+Supply one array of translated messages per ID in change order."""
 
 import json
 import re
@@ -61,8 +53,8 @@ def main():
                 val = m.group(3)
                 if ti >= len(trans):
                     print(
-                        f"ПРЕДУПРЕЖДЕНИЕ: {path} id={idm}: лишнее message "
-                        f"(строка {a + i + 1})",
+                        f"WARNING: {path} id={idm}: extra message "
+                        f"(line {a + i + 1})",
                         file=sys.stderr,
                     )
                     had_warning = True
@@ -89,8 +81,8 @@ def main():
 
         if ti != len(trans):
             print(
-                f"ПРЕДУПРЕЖДЕНИЕ: {path} id={idm}: использовано {ti} переводов "
-                f"из {len(trans)}",
+                f"WARNING: {path} id={idm}: used {ti} translations "
+                f"of {len(trans)}",
                 file=sys.stderr,
             )
             had_warning = True
@@ -98,14 +90,14 @@ def main():
     missing = set(translations) - used_ids
     if missing:
         print(
-            f"ПРЕДУПРЕЖДЕНИЕ: {path}: id не найдены: {sorted(missing)}",
+            f"WARNING: {path}: missing IDs: {sorted(missing)}",
             file=sys.stderr,
         )
         had_warning = True
 
     with open(path, "w", encoding="utf-8") as f:
         f.write("\n".join(out))
-    print(f"Готово: {path} (записей изменено: {len(used_ids)})")
+    print(f"Done: {path} (entries changed: {len(used_ids)})")
     return 1 if had_warning else 0
 
 

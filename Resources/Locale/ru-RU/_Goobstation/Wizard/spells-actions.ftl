@@ -1,10 +1,3 @@
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-# SPDX-FileCopyrightText: 2025 Aviu00 <93730715+Aviu00@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
 action-speech-spell-clown = Х'НК КЛ'ВН!!!
 action-speech-spell-cluwne = Х'НК КЛУ'ВН!!!
 action-speech-spell-magic-missile = Щ'ТК'Р!!!
@@ -30,9 +23,7 @@ action-speech-spell-sanguine-strike = Л'ЛО'ОШК'А!!!
 action-speech-spell-soul-tap = ЛЮБОЙ ЦЕНОЙ!!!
 action-speech-spell-thrown-lightning = ШАБАДЫЫЫЩЬ!!!
 action-speech-spell-rod-form = ПАЛКА-Е'ЛКА!!!
-action-speech-spell-charge = ДЮР'СЭЛЛ!!!
 action-speech-spell-gorilla-form = БАНАНА Ж'Р!!!
 action-speech-spell-summon-stick-minions = Восстаньте, мои творения! Сойдите со страниц в этот мир!
 action-speech-spell-tile-toggle = ПР'КЛ'ТЬЕ ВМ'А!!!
 action-speech-spell-curse-of-byond = ПРОКЛЯТЬЕ БЬЙОНДА!!!
-action-speech-spell-rathen = АРС НАТХ!!!

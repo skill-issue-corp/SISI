@@ -11,10 +11,10 @@ ent-WoodenSupport = деревянная опора
     .desc = Повышает уверенность в том, что камень не свалится на голову.
 
 ent-WoodenSupportBeam = деревянная опорная балка
-    .desc = { ent-BaseWoodenSupport.desc }
+    .desc = Две деревянные балки. Поддерживают конструкцию и оставляют проход свободным.
 
 ent-WoodenSupportWall = деревянная опорная стена
     .desc = Старая, гнилая стена.
 
-ent-WoodenSupportWallBroken = { ent-BaseWoodenSupport }
-    .desc = { ent-BaseWoodenSupport.desc }
+ent-WoodenSupportWallBroken = разбитая деревянная опорная стена
+    .desc = Сломанная, негодная, паршивая старая гнилая стена.

@@ -13,10 +13,6 @@ ent-ClothingHandsGlovesDeathsquad = силовые перчатки mk-3 "ред
     .desc = Пара высокотехнологичных перчаток, способных разрывать двери. Их выдвижные когти покрыты мощным нейротоксином.
     .suffix = НЕ МАППИТЬ
 
-ent-ClothingHandsGlovesDeathsquadUnremovable = { ent-ClothingHandsGlovesDeathsquad }
-    .desc = { ent-ClothingHandsGlovesDeathsquad.desc }
-    .suffix = Несъёмные
-
 ent-ClothingHandsGlovesAtmosInsulated = изолированные атмос-перчатки
     .desc = Как обычные изолированные перчатки, но просто лучше, ведь они из отдела атмосферики.
 

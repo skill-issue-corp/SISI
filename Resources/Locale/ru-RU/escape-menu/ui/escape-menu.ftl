@@ -1,3 +1,4 @@
+
 ### EscapeMenu.xaml
 
 ui-escape-title = Игровое меню
@@ -7,4 +8,8 @@ ui-escape-guidebook = Руководство
 ui-escape-wiki = Wiki
 ui-escape-disconnect = Отключиться
 ui-escape-quit = Выйти
-ui-escape-character = Редактор персонажей
+ui-escape-feedback = Обратная связь
+ui-escape-bug-report = Сообщить об ошибке
+ui-escape-remarks = Админ заметки
+
+ui-escape-remarks-button-disabled = Сервер отключил эту функцию.

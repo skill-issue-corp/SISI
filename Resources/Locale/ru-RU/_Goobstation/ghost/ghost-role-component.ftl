@@ -211,10 +211,7 @@ vox-raider-role-greeting-desc =
 ghost-role-information-clown-goblin-name = Гоблин-клоун
 ghost-role-information-clown-goblin-description = Ужасное создание, гореть ему в Аду.
 
-ghost-role-information-slasher-token = Мясник (Токен)
-
 ghost-role-information-contractor-name = Наёмник Синдиката
-ghost-role-information-contractor-token = Наёмник Синдиката (Токен)
 ghost-role-information-contractor-description = Берите... тайдера?..
 
 # SIS-Start

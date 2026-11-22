@@ -18,16 +18,16 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 admin-smite-chess-self = Вы чувствуете себя необычайно маленьким.
-admin-smite-chess-others = { CAPITALIZE($name) } уменьшается до шахматной доски!
+admin-smite-chess-others = {CAPITALIZE($entity)} сжимается и исчезает в шахматной доске!
 admin-smite-set-alight-self = Вы загораетесь пламенем!
-admin-smite-set-alight-others = { CAPITALIZE($name) } загорается пламенем!
+admin-smite-set-alight-others = {CAPITALIZE($entity)} вспыхивает!
 admin-smite-remove-blood-self = Вы чувствуете лёгкость и прохладу.
-admin-smite-remove-blood-others = { CAPITALIZE($name) } растекается кровью по всему полу!
+admin-smite-remove-blood-others = {CAPITALIZE($entity)} заливает весь пол кровью!
 admin-smite-vomit-organs-self = Вас тошнит, и вы чувствуете себя опустошённо!
-admin-smite-vomit-organs-others = { CAPITALIZE($name) } изрыгает свои органы!
+admin-smite-vomit-organs-others = {CAPITALIZE($entity)} выблёвывает собственные органы!
 admin-smite-remove-hands-self = У вас отваливаются руки!
-admin-smite-remove-hands-other = У { CAPITALIZE($name) } отваливаются руки!
-admin-smite-turned-ash-other = { CAPITALIZE($name) } превращается в кучку пепла!
+admin-smite-remove-hands-other = У {CAPITALIZE($entity)} отваливаются кисти!
+admin-smite-turned-ash-other = {CAPITALIZE($entity)} превращается в кучу пепла!
 admin-smite-stomach-removal-self = Вы ощущаете пустоту в желудке...
 admin-smite-run-walk-swap-prompt = Для бега вы должны нажать Shift!
 admin-smite-super-speed-prompt = Вы двигаетесь почти со скоростью звука!
@@ -42,6 +42,7 @@ admin-smite-set-alight-name = Воспламенить
 admin-smite-monkeyify-name = Превратить в обезьяну
 admin-smite-garbage-can-name = Мусор
 admin-smite-electrocute-name = Поразить током
+admin-smite-heartattack-name = Сердечный приступ
 admin-smite-remove-blood-name = Обескровить
 admin-smite-remove-hands-name = Удалить руки
 admin-smite-remove-hand-name = Удалить руку
@@ -91,7 +92,8 @@ admin-smite-explode-description = Взрывает цель.
 admin-smite-chess-dimension-description = Изгоняет цель в шахматное измерение.
 admin-smite-set-alight-description = Поджигает цель.
 admin-smite-monkeyify-description = Превращает цель в обезьяну.
-admin-smite-electrocute-description = Поражает цель электрическим током, делая бесполезным всё, что было на неё надето.
+admin-smite-electrocute-description = Бьёт током сквозь любую изоляцию.
+admin-smite-heartattack-description = Мгновенно убивает уроном от удушья.
 admin-smite-creampie-description = Кримпай всего одной кнопкой.
 admin-smite-remove-blood-description = Обескровливает цель, кроваво.
 admin-smite-vomit-organs-description = Вызывает у цели рвоту, в том числе и органами.
@@ -168,3 +170,5 @@ admin-trick-pause-map-description = Ставит выбранную карту �
 admin-trick-snap-joints-description = Удаляет все физические шарниры из объекта. К сожалению, не отщёлкивает все кости в теле.
 admin-trick-minigun-fire-description = Заставляет целевое оружие стрелять как миниган (очень быстро).
 admin-trick-set-bullet-amount-description = Быстро устанавливает значение количества незаспавненных патронов в оружии.
+
+admin-smite-ghostkick-reason = Покарано.

@@ -1,8 +1,11 @@
 ent-BaseLathe = { ent-BaseLatheNoSilo }
     .desc = { ent-BaseLatheNoSilo.desc }
 
-ent-BaseRevIndustry = { ent-BaseMachine }
+ent-BaseRevIndustryNoSilo = { ent-BaseMachine }
     .desc = { ent-BaseMachine.desc }
+
+ent-BaseRevIndustry = { ent-BaseRevIndustryNoSilo }
+    .desc = { ent-BaseRevIndustryNoSilo.desc }
 
 ent-RevForge = промышленный горн
     .desc = Эта самодельная машина может производить всевозможные полезные (и опасные) компоненты.
@@ -43,3 +46,6 @@ ent-RevPowerArmorStand = стойка для брони П.О.Б.Е.Д.А.
 
 ent-RevMedFab = скрытый медифаб
     .desc = Скрытый подпольный фабрикатор, способный производить медицинское оборудование.
+
+ent-AbductorBiofabricator = биофабрикатор похитителей
+    .desc = Производит органы и конечности, которые можно хирургически пересадить подопытным против их воли.

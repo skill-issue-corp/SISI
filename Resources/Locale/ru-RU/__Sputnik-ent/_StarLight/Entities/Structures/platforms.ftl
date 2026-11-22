@@ -25,11 +25,11 @@ ent-CMPlatformCornerDark = { ent-CMPlatformCorner }
 ent-RMCPlatformCornerSmallDark = { ent-RMCPlatformCornerSmall }
     .desc = { ent-RMCPlatformCornerSmall.desc }
 
-ent-RMCPlatformStairRightDark = { ent-CMPlatform }
-    .desc = { ent-CMPlatform.desc }
+ent-RMCPlatformStairRightDark = { ent-RMCPlatformStairRight }
+    .desc = { ent-RMCPlatformStairRight.desc }
 
-ent-RMCPlatformStairLeftDark = { ent-CMPlatform }
-    .desc = { ent-CMPlatform.desc }
+ent-RMCPlatformStairLeftDark = { ent-RMCPlatformStairLeft }
+    .desc = { ent-RMCPlatformStairLeft.desc }
 
 ent-CMPlatformWood = { ent-CMPlatform }
     .desc = { ent-CMPlatform.desc }
@@ -40,8 +40,8 @@ ent-CMPlatformCornerWood = { ent-CMPlatformCorner }
 ent-RMCPlatformCornerSmallWood = { ent-RMCPlatformCornerSmall }
     .desc = { ent-RMCPlatformCornerSmall.desc }
 
-ent-RMCPlatformStairRightWood = { ent-CMPlatform }
-    .desc = { ent-CMPlatform.desc }
+ent-RMCPlatformStairRightWood = { ent-RMCPlatformStairRight }
+    .desc = { ent-RMCPlatformStairRight.desc }
 
-ent-RMCPlatformStairLeftWood = { ent-CMPlatform }
-    .desc = { ent-CMPlatform.desc }
+ent-RMCPlatformStairLeftWood = { ent-RMCPlatformStairLeft }
+    .desc = { ent-RMCPlatformStairLeft.desc }

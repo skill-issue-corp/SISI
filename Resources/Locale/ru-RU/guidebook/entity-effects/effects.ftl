@@ -12,8 +12,8 @@
 
 -satiate-3rd-person =
     { $chance ->
-        [1] Утоляет
-        *[other] утолить
+        [1] Насыщает
+        *[other] насыщать
     }
 
 entity-effect-guidebook-spawn-entity =
@@ -67,22 +67,13 @@ entity-effect-guidebook-smoke-area =
         *[other] создать
     } большое количество дыма
 
-entity-effect-guidebook-satiate-thirst =
+entity-effect-guidebook-satiate =
     { $chance ->
         [1] Утоляет
         *[other] утолить
     } { $relative ->
-        [1] жажду в среднем темпе
-        *[other] жажду в {NATURALFIXED($relative, 3)}x от среднего темпа
-    }
-
-entity-effect-guidebook-satiate-hunger =
-    { $chance ->
-        [1] Утоляет
-        *[other] утолить
-    } { $relative ->
-        [1] голод в среднем темпе
-        *[other] голод в {NATURALFIXED($relative, 3)}x от среднего темпа
+        [1] {$type} с обычной скоростью
+        *[other] {$type} со скоростью {NATURALFIXED($relative, 3)}x от обычной
     }
 
 entity-effect-guidebook-health-change =
@@ -512,12 +503,6 @@ entity-effect-guidebook-plant-phalanximine =
         *[other] восстановить
     } жизнеспособность растения, утраченную из-за мутации
 
-entity-effect-guidebook-plant-remove-kudzu =
-    { $chance ->
-        [1] Удаляет
-        *[other] удалить
-    } заросли кудзу с растения
-
 entity-effect-guidebook-plant-diethylamine =
     { $chance ->
         [1] Увеличивает
@@ -541,6 +526,34 @@ entity-effect-guidebook-plant-seeds-remove =
         [1] Удаляет
         *[other] удалить
     } семена растения
+
+entity-effect-guidebook-plant-change-trait =
+    { $chance ->
+        [1] { $change ->
+            [Add] добавляет признак {$trait} у
+            [Remove] удаляет признак {$trait} у
+            [Toggle] переключает признак {$trait} у
+            *[other] меняет признак {$trait} у
+        }
+        *[other] { $change ->
+            [Add] добавить признак {$trait} у
+            [Remove] удалить признак {$trait} у
+            [Toggle] переключить признак {$trait} у
+            *[other] изменить признак {$trait} у
+        }
+    } растения
+
+entity-effect-guidebook-plant-mutate-exude-gasses =
+    { $chance ->
+        [1] Вызывает
+        *[other] вызвать
+    } мутацию растения, чтобы оно выделяло от {$minValue} до {$maxValue} молей газа
+
+entity-effect-guidebook-plant-mutate-consume-gasses =
+    { $chance ->
+        [1] Вызывает
+        *[other] вызвать
+    } мутацию растения, чтобы оно поглощало от {$minValue} до {$maxValue} молей газа
 
 entity-effect-guidebook-plant-mutate-chemicals =
     { $chance ->

@@ -1,76 +1,101 @@
 ent-BaseAnomalyCore = ядро аномалии
     .desc = Ядро уничтоженного непостижимого объекта.
-ent-AnomalyCorePyroclastic = { ent-BaseAnomalyCore }
+
+ent-AnomalyCorePyroclastic = ядро пирокластической аномалии
+    .desc = { ent-BaseAnomalyCore.desc }
     .suffix = Пирокластика
+
+ent-AnomalyCoreGravity = ядро гравитационной аномалии
     .desc = { ent-BaseAnomalyCore.desc }
-ent-AnomalyCoreGravity = { ent-BaseAnomalyCore }
     .suffix = Гравитация
+
+ent-AnomalyCoreIce = ядро ледяной аномалии
     .desc = { ent-BaseAnomalyCore.desc }
-ent-AnomalyCoreIce = { ent-BaseAnomalyCore }
     .suffix = Лёд
-    .desc = { ent-BaseAnomalyCore.desc }
-ent-AnomalyCoreFlesh = { ent-BaseAnomalyCore }
-    .suffix = Плоть
+
+ent-AnomalyCoreFlesh = ядро аномалии плоти
     .desc = Ядро разрушенной аномалии плоти. Тошнотворно пульсирует, но может стать сытным блюдом, если его приготовить.
-ent-AnomalyCoreRock = { ent-BaseAnomalyCore }
+    .suffix = Плоть
+
+ent-AnomalyCoreRock = ядро каменной аномалии
+    .desc = { ent-BaseAnomalyCore.desc }
     .suffix = Камень
+
+ent-AnomalyCoreLiquid = ядро жидкостной аномалии
     .desc = { ent-BaseAnomalyCore.desc }
-ent-AnomalyCoreLiquid = { ent-BaseAnomalyCore }
     .suffix = Жидкость
+
+ent-AnomalyCoreBluespace = ядро блюспейс-аномалии
     .desc = { ent-BaseAnomalyCore.desc }
-ent-AnomalyCoreBluespace = { ent-BaseAnomalyCore }
     .suffix = Блюспейс
+
+ent-AnomalyCoreElectricity = ядро электрической аномалии
     .desc = { ent-BaseAnomalyCore.desc }
-ent-AnomalyCoreElectricity = { ent-BaseAnomalyCore }
     .suffix = Электричество
+
+ent-AnomalyCoreFlora = ядро растительной аномалии
     .desc = { ent-BaseAnomalyCore.desc }
-ent-AnomalyCoreFlora = { ent-BaseAnomalyCore }
     .suffix = Флора
+
+ent-AnomalyCoreShadow = ядро теневой аномалии
     .desc = { ent-BaseAnomalyCore.desc }
-ent-AnomalyCoreShadow = { ent-BaseAnomalyCore }
     .suffix = Тень
+
+ent-AnomalyCoreTech = ядро технологической аномалии
     .desc = { ent-BaseAnomalyCore.desc }
-ent-AnomalyCoreTech = { ent-BaseAnomalyCore }
     .suffix = Тех
+
+ent-AnomalyCoreSanta = ядро аномалии Санты
     .desc = { ent-BaseAnomalyCore.desc }
-ent-AnomalyCoreSanta = { ent-BaseAnomalyCore }
     .suffix = Санта
-    .desc = { ent-BaseAnomalyCore.desc }
+
 ent-BaseAnomalyInertCore = { ent-BaseAnomalyCore }
     .desc = { ent-BaseAnomalyCore.desc }
-ent-AnomalyCorePyroclasticInert = { ent-BaseAnomalyInertCore }
+
+ent-AnomalyCorePyroclasticInert = ядро пирокластической аномалии
+    .desc = { ent-BaseAnomalyInertCore.desc }
     .suffix = Пирокластика, Инертный
+
+ent-AnomalyCoreGravityInert = ядро гравитационной аномалии
     .desc = { ent-BaseAnomalyInertCore.desc }
-ent-AnomalyCoreGravityInert = { ent-BaseAnomalyInertCore }
     .suffix = Гравитация, Инертный
+
+ent-AnomalyCoreIceInert = ядро ледяной аномалии
     .desc = { ent-BaseAnomalyInertCore.desc }
-ent-AnomalyCoreIceInert = { ent-BaseAnomalyInertCore }
     .suffix = Лёд, Инертный
-    .desc = { ent-BaseAnomalyInertCore.desc }
-ent-AnomalyCoreFleshInert = { ent-BaseAnomalyInertCore }
-    .suffix = Плоть, Инертный
+
+ent-AnomalyCoreFleshInert = ядро аномалии плоти
     .desc = Инертное ядро разрушенной аномалии плоти. Тошнотворно пульсирует, но, возможно, в умелых руках станет сытным блюдом?
-ent-AnomalyCoreRockInert = { ent-BaseAnomalyInertCore }
+    .suffix = Плоть, Инертный
+
+ent-AnomalyCoreRockInert = ядро каменной аномалии
+    .desc = { ent-BaseAnomalyInertCore.desc }
     .suffix = Камень, Инертный
+
+ent-AnomalyCoreLiquidInert = ядро жидкостной аномалии
     .desc = { ent-BaseAnomalyInertCore.desc }
-ent-AnomalyCoreLiquidInert = { ent-BaseAnomalyInertCore }
     .suffix = Жидкость, Инертный
+
+ent-AnomalyCoreBluespaceInert = ядро блюспейс-аномалии
     .desc = { ent-BaseAnomalyInertCore.desc }
-ent-AnomalyCoreBluespaceInert = { ent-BaseAnomalyInertCore }
     .suffix = Блюспейс, Инертный
+
+ent-AnomalyCoreElectricityInert = ядро электрической аномалии
     .desc = { ent-BaseAnomalyInertCore.desc }
-ent-AnomalyCoreElectricityInert = { ent-BaseAnomalyInertCore }
     .suffix = Электричество, Инертный
+
+ent-AnomalyCoreFloraInert = ядро растительной аномалии
     .desc = { ent-BaseAnomalyInertCore.desc }
-ent-AnomalyCoreFloraInert = { ent-BaseAnomalyInertCore }
     .suffix = Флора, Инертный
+
+ent-AnomalyCoreShadowInert = ядро теневой аномалии
     .desc = { ent-BaseAnomalyInertCore.desc }
-ent-AnomalyCoreShadowInert = { ent-BaseAnomalyInertCore }
     .suffix = Тень, Инертный
+
+ent-AnomalyCoreTechInert = ядро технологической аномалии
     .desc = { ent-BaseAnomalyInertCore.desc }
-ent-AnomalyCoreTechInert = { ent-BaseAnomalyInertCore }
     .suffix = Тех, Инертный
-    .desc = { ent-BaseAnomalyInertCore.desc }
-ent-AnomalyCoreSantaInert = { ent-BaseAnomalyInertCore }
+
+ent-AnomalyCoreSantaInert = ядро аномалии Санты
     .suffix = Санта, Инертный
     .desc = { ent-BaseAnomalyInertCore.desc }

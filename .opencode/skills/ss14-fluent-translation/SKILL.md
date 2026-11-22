@@ -1,74 +1,10 @@
 ---
 name: ss14-fluent-translation
-description: Use when the user asks to translate SS14 Fluent changes from a Git commit or commit hash, especially files under Resources/Locale/ru-RU. Applies the Russian Fluent translation rules and glossary.
+description: Translate SS14 Fluent changes from a specified commit into Russian.
 ---
 
-# Перевод Fluent-файлов SS14
-
-Используй этот skill, если пользователь просит перевести Fluent-файлы или изменения из указанного Git commit.
-
-## Отслеживание прогресса
-
-Перед началом работы составь и веди список всех затронутых `.ftl` файлов:
-
-- переведённые файлы — отмечай сразу после завершения перевода файла;
-- непереведённые (ещё в очереди) файлы.
-
-Сверяйся со списком после каждого файла, чтобы не потерять и не обработать файл дважды. Если работа прерывается или продолжается в несколько заходов, список — источник правды о том, что уже сделано.
-
-## Работа с автогенерированными блоками TODO(Update_Locale)
-
-Скрипт локализации при изменении английской строки перезаписывает значение ключа на английский текст и оборачивает предыдущий русский перевод в блок:
-
-```ftl
-# AUTOGEN-Start
-# <старый русский перевод>
-# AUTOGEN-End TODO(Update_Locale):
-ent-LockerNanorep = nanotrasen representative locker
-    .desc = { ent-LockerBase.desc }
-```
-
-Правила работы с такими ключами:
-
-1. Основа перевода — всегда актуальный английский текст под `AUTOGEN-End TODO(Update_Locale):`. Переводи именно его.
-2. Старый перевод внутри блока `# AUTOGEN-Start ... # AUTOGEN-End TODO(Update_Locale):` можно использовать как справку — если конкретное слово или фраза в английском тексте не изменились по сравнению с тем, что явно следует из старого перевода, сохрани прежний вариант перевода этого слова/фразы для консистентности. Если английский текст изменился по смыслу — переводи заново, не подгоняй под старую формулировку.
-3. После того как ключ переведён, удали весь блок `# AUTOGEN-Start` ... `# AUTOGEN-End TODO(Update_Locale):` целиком (обе граничные строки и всё между ними). В финальном файле этого блока быть не должно.
-4. Если ключ не переводится в рамках текущей задачи (остаётся в очереди), не трогай его AUTOGEN-блок.
-
-## Область работы
-
-1. Извлеки commit или его полный hash из запроса пользователя.
-2. Рассматривай только изменения этого commit относительно его первого родителя.
-3. Из списка изменений оставь только файлы, путь которых соответствует `Resources/Locale/ru-RU/**/*.ftl`.
-4. Переводи только текст, добавленный или изменённый в diff этого commit.
-5. Не читай, не сравнивай и не изменяй файлы в `Resources/Locale/en-US` или других языковых локалях.
-6. Не добавляй отсутствующие ключи, не восстанавливай удалённые строки и не переводи строки за пределами diff.
-7. Не изменяй уже существующий русский текст, если он не входит в изменённую часть commit или для этого нет явного указания пользователя.
-
-Если commit не содержит подходящих файлов, сообщи об этом и не создавай пустой commit.
-
-## Экономия токенов на проверках
-
-- Не перечитывай уже переведённые файлы целиком повторно. Сразу после перевода файла держи в памяти его состояние и не возвращайся к нему без необходимости.
-- Проверка на шаге 3 «Порядка работы» выполняется один раз, после того как переведены все файлы — по `git diff`, а не путём открытия каждого файла заново. Используй `git diff` и `git diff --check` как основной источник для проверки: они показывают только изменения, а не весь файл.
-- Не открывай файлы, которые не входят в diff текущего commit, и не перечитывай оригинальный английский diff повторно после того как перевод уже сверен с ним.
-- Если нужно проверить конкретный ключ (например, совпадение количества `.desc`/`.suffix` до и после) — проверяй точечно через `grep`/`git diff` по этому ключу, а не весь файл.
-
-## Порядок работы
-
-1. Изучи diff указанного commit (по `git show --first-parent`, не построчным открытием каждого файла).
-2. Примени `RULES.md` из каталога этого skill и глоссарий `.opencode/docs/GLOSSARY.md` (из корня репозитория) к каждому изменённому ключу.
-3. После того как переведены все файлы, выполни единственную финальную проверку перед коммитом:
-    - список переведённых файлов совпадает со списком файлов, попавших в `git diff`;
-    - `git diff --check` не выявил проблем с синтаксисом;
-    - в diff нет ни одного блока `# AUTOGEN-Start ... AUTOGEN-End TODO(Update_Locale):` в переведённых ключах;
-    - количество и имена ключей и атрибутов не изменились;
-    - placeable-конструкции, переменные и вызовы функций сохранены;
-    - изменены только файлы `Resources/Locale/ru-RU/**/*.ftl` и (при необходимости) `.opencode/docs/GLOSSARY.md`.
-4. Создай commit с заголовком:
-
-   ```text
-   Translate Fluent changes from <short-commit-sha>
-   ```
-
-   `<short-commit-sha>` - короткая форма commit, указанного пользователем. Не добавляй AI-метки в заголовок и не используй `Co-authored-by`.
+1. Inspect the requested commit with `git show --first-parent`. Track each affected `Resources/Locale/ru-RU/**/*.ftl` file as pending or done. If none qualify, report this and stop without an empty commit.
+2. Translate only added or changed text in that diff. Leave deleted lines, missing keys and unrelated Russian text alone. Skip other locales entirely, including en-US. Apply [RULES.md](RULES.md) and the repository glossary at `.opencode/docs/GLOSSARY.md`.
+3. For generated updates, translate the current English value below `# AUTOGEN-End TODO(Update_Locale):`. Reuse wording from the commented Russian version where the meaning still matches. Remove the entire block from `# AUTOGEN-Start` through the end marker once its key is translated. Keep pending blocks intact.
+4. Mark each file done immediately and resume from the checklist after interruptions. Review once using `git diff` and `git diff --check`. Match changed paths to the checklist (plus any approved glossary edits). Verify translated keys have no generated blocks left and retain key and attribute names and counts, variables, placeables and function calls subject to RULES.md. For individual doubts, inspect only the relevant hunk.
+5. Commit as `Translate Fluent changes from <short-commit-sha>` using the requested commit's short SHA. Omit AI labels and Co-authored-by trailers.

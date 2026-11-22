@@ -125,31 +125,3 @@ ntr-executive-tier-2-name = Команды реагирования
 ntr-executive-tier-3-name = Персональное
 ntr-executive-tier-4-name = Зловещее
 ntr-executive-tier-5-name = Редкие платы
-
-# insert attempt in console
-ntr-console-insert-deny = Неверно!
-ntr-console-insert-accept = Верно!
-
-ntr-console-insert-deny-stamps = Недействительные печати.
-
-ntr-bounty-console-reward-label = Награда: [color=limegreen]{$reward} очков лояльности[/color]
-ntr-bounty-console-manifest-entry =
-    { $amount ->
-        [1] {$item}
-        *[other] {$item} x{$amount}
-    }
-
-ntr-bounty-console-flavor-left = Задания одобрены Центральным Командованием. Взятки не включены. Наверное.
-
-ntr-console-task-fail-insert = Задача не выполнена.
-ntr-console-reagent-fail = Недостаточно реагентов для выполнения задачи!
-
-# experimental
-ntr-console-no-solution = Не удалось найти раствор {$solutionName} в мензурке.
-ntr-console-missing-reagent = В мензурке отсутствует реагент {$reagent}.
-ntr-console-insufficient-reagent-debug = Недостаточно реагента. Требуется: {$requiredReagent}, найдено: {$actualReagent}. Требуемое количество: {$required}, фактическое: {$actual}.
-ntr-console-reagent-none = нет
-ntr-console-task-fail = Не удалось загрузить задачу.
-
-ntr-bounty-console-menu-title = Консоль заданий ПNT
-ntr-bounty-console-print-button = Принять

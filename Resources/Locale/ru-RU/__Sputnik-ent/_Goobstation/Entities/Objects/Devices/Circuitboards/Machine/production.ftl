@@ -22,10 +22,6 @@ ent-RadiationCollectorCircuitboard = коллектор радиации (маш
     .desc = { ent-BaseMachineCircuitboard.desc }
     .suffix = { ent-BaseMachineCircuitboard.suffix }
 
-ent-PlumbingPumpCircuitboard = жидкостный насос (машинная плата)
-    .desc = { ent-BaseMachineCircuitboard.desc }
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
-
 ent-EnergyChemDispenserMachineCircuitboard = энергетический раздатчик химикатов (машинная плата)
     .desc = { ent-BaseMachineCircuitboard.desc }
     .suffix = { ent-BaseMachineCircuitboard.suffix }

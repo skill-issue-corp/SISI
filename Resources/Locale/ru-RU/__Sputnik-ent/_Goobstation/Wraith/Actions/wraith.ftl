@@ -1,6 +1,9 @@
 ent-BaseWraithAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
 
+ent-BaseCorporealWraithAction = { ent-BaseWraithAction }
+    .desc = { ent-BaseWraithAction.desc }
+
 ent-ActionToggleGhostHearingWraith = { ent-ActionToggleGhostHearing }
     .desc = { ent-ActionToggleGhostHearing.desc }
 
@@ -32,7 +35,7 @@ ent-ActionPossessObject = Овладеть объектом
     .desc = Возьмите под контроль неодушевлённый предмет. Высокий уровень испуга.
 
 ent-ActionWraithEvolve = Эволюционировать
-    .desc = Выберите форму для эволюции после поглощения как минимум 3 душ.
+    .desc = Выберите облик для эволюции.
 
 ent-ActionRaiseSkeleton = Воскрешение скелета
     .desc = Воскресите скелет из трупа или призовите его в шкаф.

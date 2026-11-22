@@ -2,7 +2,7 @@ ent-OrganBase = орган
     .desc = { ent-BaseItem.desc }
 
 ent-OrganBaseOrganic = орган
-    .desc = { ent-OrganBaseFleshy.desc }
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseTorso = торс
     .desc = { ent-OrganBase.desc }
@@ -11,31 +11,31 @@ ent-OrganBaseHead = голова
     .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseArmLeft = левая рука
-    .desc = { ent-OrganBaseArm.desc }
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseArmRight = правая рука
-    .desc = { ent-OrganBaseArm.desc }
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseHandLeft = левая кисть
-    .desc = { ent-OrganBaseHand.desc }
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseHandRight = правая кисть
-    .desc = { ent-OrganBaseHand.desc }
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseLegLeft = левая нога
-    .desc = { ent-OrganBaseLeg.desc }
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseLegRight = правая нога
-    .desc = { ent-OrganBaseLeg.desc }
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseFootLeft = левая стопа
-    .desc = { ent-OrganBaseFoot.desc }
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseFootRight = правая стопа
-    .desc = { ent-OrganBaseFoot.desc }
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseBrain = мозг
-    .desc = { ent-BaseKnowledgeContainer.desc }
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseEyes = глаза
     .desc = { ent-OrganBase.desc }
@@ -79,11 +79,11 @@ ent-OrganBaseHeadSexed = голова
 ent-OrganBaseTorsoSexed = торс
     .desc = { "" }
 
-ent-OrganBaseParent = { ent-OrganBase }
-    .desc = { ent-OrganBase.desc }
+ent-OrganBaseParent = { "" }
+    .desc = { "" }
 
-ent-OrganBaseChildExternal = { ent-OrganBaseExternal }
-    .desc = { ent-OrganBaseExternal.desc }
+ent-OrganBaseChildExternal = { "" }
+    .desc = { "" }
 
-ent-OrganBaseChildInternal = { ent-OrganBase }
-    .desc = { ent-OrganBase.desc }
+ent-OrganBaseChildInternal = { "" }
+    .desc = { "" }

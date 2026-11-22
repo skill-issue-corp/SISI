@@ -1,6 +1,6 @@
-ent-ArmBladeChangeling = { ent-ArmBlade }
+ent-ArmBladeChangeling = { ent-Armblade }
+    .desc = { ent-Armblade.desc }
     .suffix = Неснимаемый
-    .desc = { ent-ArmBlade.desc }
 
 ent-FakeArmBladeChangeling = { ent-ArmBladeChangeling }
     .desc = { ent-ArmBladeChangeling.desc }

@@ -18,4 +18,6 @@ entity-effect-popup-vampire-light-1 = Солнечный свет обжигае
 entity-effect-popup-vampire-light-2 = Вам стоит держаться подальше от космоса...
 entity-effect-popup-vampire-light-3 = Вы выглядите бледным!
 
-entity-effect-popup-strawberry-ice-addiction = Вы чувствуете потребность во вкусной розовой газировке
+entity-effect-popup-pressurized-slime-death = Блоб разрывается, забрызгивая всё вокруг жидкостью!
+
+entity-effect-popup-blood-cult-summon-dagger = У {CAPITALIZE($entity)} на мгновение вспыхивает красным рука.

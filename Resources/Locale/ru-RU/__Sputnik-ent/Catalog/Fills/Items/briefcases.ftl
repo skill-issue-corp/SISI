@@ -23,5 +23,5 @@ ent-BriefcaseWeaponC20Filled = охранный кейс с C-20r
 ent-BriefcaseWeaponBulldogFilled = охранный кейс с Бульдогом
     .desc = { ent-BriefcaseWeapon.desc }
 
-ent-BriefcaseWeaponChinaLakeFilled = охранный кейс с china lake
+ent-BriefcaseWeaponChinaLakeFilled = защищённый кейс с China Lake
     .desc = { ent-BriefcaseWeapon.desc }

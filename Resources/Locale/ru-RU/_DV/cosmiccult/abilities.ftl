@@ -22,6 +22,9 @@ cosmicability-monument-spawn-error-station = Недопустимое место
 cosmicability-monument-spawn-error-intersection = Слишком тесно! Для призыва Монумента требуется свободная область 3x1.
 cosmicability-monument-spawn-error-space = Слишком близко к космосу! Монумент должен находиться на расстоянии не менее {$DISTANCE} м.
 
+cosmicability-chantry-spawn-error-grid = Недопустимое место! Молельню пустоты нужно призывать на устойчивой поверхности.
+cosmicability-chantry-spawn-error-station = Недопустимое место! Молельню пустоты нужно призывать на станции.
+
 cosmicability-chantry-active = Вы не можете начать ритуал молельни, пока другой уже активен!
 
 cosmicability-ingress-bolted = Засовы шлюза не дают его взломать!

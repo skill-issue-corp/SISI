@@ -64,9 +64,6 @@ ent-HunterStealCMORapidSyringeGunObjective = { ent-BaseHunterStealObjective }
 ent-HunterStealExecutiveBriefcaseObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
 
-ent-HunterStealGeminiProjectorObjective = { ent-BaseHunterStealObjective }
-    .desc = { ent-BaseHunterStealObjective.desc }
-
 ent-HunterStealFlippoLighterObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }
 

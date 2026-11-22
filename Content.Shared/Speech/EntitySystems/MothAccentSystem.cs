@@ -4,7 +4,7 @@ using Robust.Shared.Random;
 
 namespace Content.Shared.Speech.EntitySystems;
 
-public sealed partial class MothAccentSystem : RelayAccentSystem<MothAccentComponent> // RU-Localization
+public sealed partial class MothAccentSystem : RelayAccentSystem<MothAccentComponent>
 {
     [Dependency] private IRobustRandom _random = default!; // RU-Localization
 

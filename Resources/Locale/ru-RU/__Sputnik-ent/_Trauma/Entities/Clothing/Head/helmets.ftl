@@ -9,3 +9,6 @@ ent-ClothingHeadHatHelmetVenerator = головной убор венерато�
 
 ent-ClothingHeadHatHelmetMamluk = шлем мамлюка
     .desc = Кольчужный капюшон, остановивший тысячи стрел.
+
+ent-ClothingHeadHelmetCsij = капюшон биокостюма CSIJ
+    .desc = Костюм из извивающейся плоти, которая - погодите, это пена.

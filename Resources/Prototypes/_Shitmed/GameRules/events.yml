@@ -30,11 +30,10 @@
   parent: [ LoneAbductorRule, BaseAntagGhostRoleRule ]
   id: LoneAbductorSpawn
   components:
-  - type: GhostroleAlert
   - type: StationEvent
     earliestStart: 15
     reoccurrenceDelay: 70
-    weight: 1
+    weight: 3
     minimumPlayers: 25 # SIS | 20
     duration: null
 

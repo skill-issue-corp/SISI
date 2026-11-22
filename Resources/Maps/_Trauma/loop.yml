@@ -50814,7 +50814,7 @@ entities:
       parent: 2
       pos: -42.5,67.5
     - type: FaxMachine
-      name: Офис Репортёра # RU-Localization
+      name: Кабинет Репортёра # RU-Localization
   - uid: 7905
     components:
     - type: Transform
@@ -50868,7 +50868,7 @@ entities:
       parent: 2
       pos: -67.5,12.5
     - type: FaxMachine
-      name: Офис Священника # RU-Localization
+      name: Кабинет Священника # RU-Localization
   - uid: 7914
     components:
     - type: Transform
@@ -50898,7 +50898,7 @@ entities:
       parent: 2
       pos: -12.5,70.5
     - type: FaxMachine
-      name: Офис Священника # RU-Localization
+      name: Капитанский Офис # RU-Localization
 - proto: FaxMachineCentcom
   entities:
   - uid: 7917
@@ -50907,7 +50907,7 @@ entities:
       parent: 2
       pos: -14.5,79.5
     - type: FaxMachine
-      name: Офис ПNT/ОСЩ # RU-Localization
+      name: Офис ПNT и ОСЩ # RU-Localization
 - proto: filingCabinetDrawerRandom
   entities:
   - uid: 7918
@@ -90545,19 +90545,16 @@ entities:
     components:
     - type: Transform
       parent: 2
-      rot: 1.5707963267948966 rad
       pos: -74.5,43.5
   - uid: 13630
     components:
     - type: Transform
       parent: 2
-      rot: 1.5707963267948966 rad
       pos: -70.5,34.5
   - uid: 13631
     components:
     - type: Transform
       parent: 2
-      rot: 1.5707963267948966 rad
       pos: -70.5,50.5
   - uid: 13632
     components:

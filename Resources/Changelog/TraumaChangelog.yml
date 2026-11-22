@@ -13164,3 +13164,3276 @@ Entries:
   id: 1448
   time: '2026-08-17T04:53:33.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/4106
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Пользоваться анализатором растений стало удобнее. Теперь у него есть и всплывающие сообщения.
+  id: 1449
+  time: '2026-08-17T18:15:13.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4125
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Убрали слоп с заданиями ПNT. Идите ларпить.
+  - type: Tweak
+    message: Астральная бритва Космического культа теперь использует навык владения инструментами.
+  id: 1450
+  time: '2026-08-17T19:32:20.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4124
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: >-
+      Реагент reagent-name-unknown-reagent переименован в анобтаниум и получил описание.
+  id: 1451
+  time: '2026-08-17T20:00:53.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4120
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Исправлена ошибка, из-за которой главы революции после удаления импланта Щит Разума всё ещё не могли вербовать.
+  id: 1452
+  time: '2026-08-17T20:10:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4127
+- author: Aviu
+  changes:
+  - type: Tweak
+    message: Предметы дороже 100 ТК убраны из списка возможных наград шпиона за заказы.
+  - type: Tweak
+    message: >-
+      Награды за средние заказы теперь начинаются с 20 ТК вместо 30, а за сложные — с 50 ТК вместо 60.
+  - type: Fix
+    message: >-
+      Аплинк шпиона теперь обновляет статус заказа, если его сдаёт кто-то другой.
+  id: 1453
+  time: '2026-08-17T20:24:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4092
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Священникам больше не нужно портить Библию, чтобы зачаровывать предметы.
+  id: 1454
+  time: '2026-08-17T20:38:20.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4131
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена возможность вживить себе уже использованный разрушитель щита.
+  id: 1455
+  time: '2026-08-17T20:39:25.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4132
+- author: THE FOG IS COMING
+  changes:
+  - type: Tweak
+    message: >-
+      Оксид азота по-прежнему усыпляет мгновенно, но теперь виден.
+  id: 1456
+  time: '2026-08-18T04:44:34.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4134
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Слоповый ящик с «Кларком» убран из магазина очков утилизации.
+  id: 1457
+  time: '2026-08-18T19:58:28.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4147
+- author: MayasMischief
+  changes:
+  - type: Tweak
+    message: Обновлены спрайты осколков демонической души.
+  id: 1458
+  time: '2026-08-18T20:17:04.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4146
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Визг тенеморфа больше не действует на глухих. Они вас не слышат.
+  id: 1459
+  time: '2026-08-18T21:08:04.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4139
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Тела с душой теперь можно переработать в биомассу.
+  id: 1460
+  time: '2026-08-18T21:20:12.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4149
+- author: Aviu
+  changes:
+  - type: Add
+    message: Новое побочное знание еретика T2 — граната «Сеятель Ржавчины».
+  - type: Add
+    message: >-
+      Синтетики могут восстановить немного ионного урона, облив себя кремнием.
+  - type: Add
+    message: Винтовка Охотника на Львов позволяет видеть людей сквозь стены, пока вы держите её в руках.
+  - type: Fix
+    message: Исправлено кровотечение и появление ран у органиков от ионного урона.
+  - type: Fix
+    message: Исправлено странное поведение лазерных лучей на движущихся сетках.
+  - type: Remove
+    message: Нож зависти убран из побочных знаний еретика.
+  - type: Add
+    message: Нож зависти добавлен в руины Лаваленда. Теперь им может воспользоваться каждый.
+  - type: Add
+    message: Проволочные щётки теперь удаляют ржавчину с пола. Очистка пола от ржавчины также ускорена.
+  - type: Fix
+    message: Исправлена ошибка, из-за которой еретики пути ржавчины не могли мгновенно уничтожать шлюзы хваткой.
+  - type: Add
+    message: Хватка мансуса теперь быстро перезаряжается, пока вы стоите на руне.
+  - type: Tweak
+    message: >-
+      Потусторонняя эссенция теперь наносит урон выносливости всем, кроме еретиков, вместо оглушения.
+  id: 1461
+  time: '2026-08-19T18:26:12.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4142
+- author: deltanedas
+  changes:
+  - type: Add
+    message: >-
+      При эвакуации Фултоном теперь появляется уведомление, по которому можно нажать, чтобы снять Фултон без контекстного меню.
+  - type: Tweak
+    message: Фултоны теперь работают только с развёрнутым маяком.
+  id: 1462
+  time: '2026-08-19T20:38:07.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4160
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлены визуальные ошибки джаунтера.
+  id: 1463
+  time: '2026-08-19T21:24:24.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4161
+- author: Jack-Silver
+  changes:
+  - type: Tweak
+    message: Шлюзы и камеры теперь легче ломать.
+  id: 1464
+  time: '2026-08-20T04:21:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4163
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Предателям добавлена цель заживо снять шкуру с Пан-Пана.
+  id: 1465
+  time: '2026-08-20T05:21:42.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4168
+- author: FabledTile
+  changes:
+  - type: Fix
+    message: Приспешники Крысиного короля теперь корректно выбирают биооружие целью.
+  id: 1466
+  time: '2026-08-20T16:09:13.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4176
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Исправлена ошибка, из-за которой щиты были вдвое эффективнее.
+  - type: Tweak
+    message: "Прочность щитов: 125 -> 75."
+  id: 1467
+  time: '2026-08-20T17:14:50.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4153
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Больше нельзя вызывать и отзывать эвакуационный шаттл просто так.
+  - type: Tweak
+    message: При вознесении тенеморфа шаттл прибывает за 5 минут вместо 20.
+  - type: Tweak
+    message: При красном коде шаттл снова прибывает за 10 минут.
+  - type: Tweak
+    message: Для установки ещё нескольких настенных предметов больше не нужна стена.
+  id: 1468
+  time: '2026-08-20T17:29:06.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4181
+- author: Sherpack
+  changes:
+  - type: Tweak
+    message: >-
+      Яйца для животноводства теперь называются оплодотворёнными. Больше никакой путаницы! 🥚
+  id: 1469
+  time: '2026-08-20T19:53:22.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4177
+- author: sr483
+  changes:
+  - type: Remove
+    message: У дефибриллятора Синдиката убран широкий замах.
+  - type: Tweak
+    message: Снижен электрический урон дефибриллятора Синдиката и добавлен термический.
+  id: 1470
+  time: '2026-08-20T19:58:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4174
+- author: Cerzix
+  changes:
+  - type: Add
+    message: Добавлен клуоксадон — сильный криогенный препарат от отравлений.
+  id: 1471
+  time: '2026-08-20T20:02:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4172
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Дубинка иерофанта больше не позволяет телепортироваться за пределы Лаваленда.
+  id: 1472
+  time: '2026-08-20T22:46:50.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4191
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлено бесконечное накопление эффектов вспышек...
+  id: 1473
+  time: '2026-08-20T22:53:32.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4192
+- author: assripper. John Joe
+  changes:
+  - type: Add
+    message: новая иллюстрация для лобби с антагонистами Trauma Station
+  id: 1474
+  time: '2026-08-21T05:01:07.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4196
+- author: Hoodsie
+  changes:
+  - type: Fix
+    message: Исправлено утверждение в руководстве, что ксеноморфы могут находиться в космосе без защиты.
+  id: 1475
+  time: '2026-08-21T05:01:45.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4194
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Блоб исправлен и снова включён.
+  - type: Add
+    message: >-
+      Из /tg/station добавлены реагенты «Криогенный Яд», «Энергетическое Желе», «Слайм Под Давлением» и «Самовоспроизводящаяся Пена».
+  - type: Tweak
+    message: >-
+      Ограничение расстояния между тайлами блоба теперь зависит от их типа. Например, фабрики нельзя ставить так же плотно, как узлы.
+  id: 1476
+  time: '2026-08-21T08:09:03.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4202
+- author: NoElkaTheGod
+  changes:
+  - type: Tweak
+    message: Небольшие визуальные улучшения Космического культа.
+  id: 1477
+  time: '2026-08-21T09:19:01.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3614
+- author: Xenobeam-1
+  changes:
+  - type: Tweak
+    message: После изменения в апстриме вёдра занимали 3x4, теперь занимают 2x3.
+  id: 1478
+  time: '2026-08-21T09:30:19.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4205
+- author: Evoluxionary
+  changes:
+  - type: Add
+    message: В гардероб СБ добавлены новые служебные перчатки.
+  id: 1479
+  time: '2026-08-21T11:01:27.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4195
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Для сборки ED209 больше не нужен двигатель экзокостюма.
+  - type: Tweak
+    message: Для сборки машин автоматизации теперь нужна только плата.
+  id: 1480
+  time: '2026-08-21T22:18:52.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4217
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Добавлено автоматическое связывание сигналов между интеракторами и конвейерами. Логические элементы теперь запускают интеракторы.
+  id: 1481
+  time: '2026-08-21T22:49:01.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4218
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Добавлены сигнальные дисплеи. С помощью схемы на них можно вывести любой текст.
+  - type: Add
+    message: В электронные схемы добавлен логический элемент if/else.
+  - type: Fix
+    message: Порты интерактора «Завершено» и «Запущено» теперь работают лучше.
+  id: 1482
+  time: '2026-08-22T01:43:43.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4219
+- author: buunie099
+  changes:
+  - type: Add
+    message: >-
+      В конце раунда теперь показывается персонаж, за которым наблюдали чаще всего.
+  id: 1483
+  time: '2026-08-22T03:58:06.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4183
+- author: mickers7
+  changes:
+  - type: Add
+    message: Возвращена капоэйра.
+  - type: Tweak
+    message: Капоэйра переработана.
+  id: 1484
+  time: '2026-08-22T05:00:03.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4078
+- author: jshoe2
+  changes:
+  - type: Add
+    message: >-
+      Ящик зачарования волшебника заменён Ящиком Демонологии. В нём есть всё для призыва демонов!
+  id: 1485
+  time: '2026-08-22T08:43:07.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4201
+- author: Pi-tanium
+  changes:
+  - type: Remove
+    message: Ионные бури больше не могут назначить набор законов Космического культа.
+  id: 1486
+  time: '2026-08-24T01:56:43.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4249
+- author: badjuju
+  changes:
+  - type: Tweak
+    message: Изменены сопротивления костюма и шлема спационавта.
+  id: 1487
+  time: '2026-08-24T10:58:34.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4243
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Персональные ИИ больше не имеют доступа к бинарному каналу.
+  id: 1488
+  time: '2026-08-24T16:54:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4252
+- author: sr483
+  changes:
+  - type: Tweak
+    message: >-
+      Действие процинил-лазида усилено. Теперь препарат эффективнее, и его стоит изготавливать.
+  id: 1489
+  time: '2026-08-24T17:17:42.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4189
+- author: Big Brother, StarMade, Joel
+  changes:
+  - type: Remove
+    message: безработных убрали вместе с их прикидом
+  - type: Add
+    message: Добавлен 1984.
+  - type: Add
+    message: Точкам спавна профессий теперь можно назначать дополнительные профессии.
+  id: 1490
+  time: '2026-08-24T17:18:43.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4169
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Убрали слоп с одиноким ксеноморфом.
+  id: 1491
+  time: '2026-08-25T00:31:16.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4259
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Солнечные вспышки теперь глушат все источники радиосвязи, включая КПБ, интеркомы и наночат.
+  id: 1492
+  time: '2026-08-25T00:40:18.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4260
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена ошибка, из-за которой капоэйра ускоряла атаки оружием.
+  id: 1493
+  time: '2026-08-25T00:50:01.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4261
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Исправлен непрекращающийся урон от присосавшегося слайма ксенобиологии, который сохранялся даже после удаления слайма.
+  id: 1494
+  time: '2026-08-25T01:33:40.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4262
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена невозможность проецировать голографические знаки на траву ксеноморфов.
+  id: 1495
+  time: '2026-08-25T01:51:37.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4264
+- author: Jack-Silver
+  changes:
+  - type: Tweak
+    message: >-
+      Снижена эффективная прочность многих чрезмерно крепких конструкций станции, включая дверные каркасы, шкафы и настенное оборудование.
+  id: 1496
+  time: '2026-08-25T05:01:52.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4244
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Энергетические раздатчики химикатов теперь работают с клиентским предсказанием, показывают суммарную стоимость синтеза текущего объёма и расходуют гораздо больше энергии.
+  id: 1497
+  time: '2026-08-25T08:19:39.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4267
+- author: Pi-tanium
+  changes:
+  - type: Fix
+    message: Генокрадам больше никогда не нужно поглощать других генокрадов.
+  id: 1498
+  time: '2026-08-25T09:23:51.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4269
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: При изменении доступов на ID-карте значок профессии больше не сбрасывается.
+  - type: Fix
+    message: Исправлена слишком долгая подзарядка энергетических раздатчиков химикатов.
+  id: 1499
+  time: '2026-08-25T15:02:29.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4272
+- author: Wizard25671
+  changes:
+  - type: Fix
+    message: Лёгкий голод больше не замедляет на 25%. Замедление наступает только при истощении.
+  id: 1500
+  time: '2026-08-26T04:11:21.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4281
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Починили кузнечное дело.
+  id: 1501
+  time: '2026-08-26T07:26:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4287
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Убрана бесплатная полная перезарядка атмосферных голопроекторов и щита ксеноборга при отзыве.
+  - type: Tweak
+    message: Радиация от модуля ксеноборга снижена с 4 до 1 рад.
+  id: 1502
+  time: '2026-08-26T07:45:06.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4288
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлен расчёт голода у слаймов ксенобиологии для роста и деления.
+  id: 1503
+  time: '2026-08-26T08:50:41.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4289
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Для КПБ добавлен режим восстановления.
+  id: 1504
+  time: '2026-08-26T16:35:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4293
+- author: Jacob-House
+  changes:
+  - type: Fix
+    message: Маяки подкрепления теперь получают урон конструкциям.
+  id: 1505
+  time: '2026-08-26T17:26:42.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4290
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена невозможность собрать Бипски.
+  id: 1506
+  time: '2026-08-27T02:59:25.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4303
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: При разборке металлических баррикад металл теперь возвращается.
+  id: 1507
+  time: '2026-08-27T03:26:04.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4305
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Игроки без соединения и НИП больше не засыпают через 10 минут.
+  id: 1508
+  time: '2026-08-27T08:00:44.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4304
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Еретиков больше нельзя загипнотизировать.
+  - type: Fix
+    message: >-
+      Исправлено перезаписывание особого рентгеновского зрения путей замка и космоса рентгеновским зрением сдвига реальности.
+  - type: Tweak
+    message: >-
+      Непостижимая Диковина снова работает по-старому (без зоны замедления снарядов). Это снова побочное знание 1-го уровня, а пояс теперь служит фокусом.
+  - type: Tweak
+    message: >-
+      Таинства Силы больше не мешают атаковать, но те, кого вы атакуете, смогут обойти их защиту.
+  - type: Tweak
+    message: >-
+      Пересчитан урон заклинаний пепла и пустоты. Они больше не наносят безумный урон нежизненно важным частям тела.
+  - type: Tweak
+    message: >-
+      Для облачений путей космоса и клинка теперь нужны соответственно лист стекла и нож, как и для ритуалов их клинков.
+  - type: Tweak
+    message: Ритуал знания теперь даёт 3 очка основного пути и 1 очко побочного.
+  - type: Tweak
+    message: Для изготовления потусторонней монеты теперь нужно серебро ИЛИ золото.
+  - type: Tweak
+    message: Пепельные духи и огненные акулы теперь гибнут от воды.
+  - type: Tweak
+    message: "Урон луча пепельного духа в секунду: 30 -> 20."
+  - type: Tweak
+    message: Рывки пепла (обычный и усиленный) стали короче.
+  - type: Tweak
+    message: "Время сбивания с ног от метки ржавчины: 20 -> 5 с."
+  - type: Tweak
+    message: Не Тот Ключ и Обряд Консьержа поменялись местами в прогрессии пути замка.
+  - type: Add
+    message: Ходоки ржавчины получили ночное зрение.
+  id: 1509
+  time: '2026-08-27T09:13:56.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4311
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Удалён неиспользуемый слоп с менторами.
+  id: 1510
+  time: '2026-08-27T12:54:45.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4314
+- author: q7i9VcWs
+  changes:
+  - type: Fix
+    message: При поражении революции больше не появляется ОБР.
+  id: 1511
+  time: '2026-08-27T13:35:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4315
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Отражающие поля ксеноборгов больше не пропускают лазеры.
+  id: 1512
+  time: '2026-08-28T07:25:39.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4325
+- author: Mr_Samuel
+  changes:
+  - type: Fix
+    message: Голограммы «Джемини» больше не выглядят сплошными квадратами.
+  - type: Fix
+    message: Голограммы «Джемини» больше не подвержены мутациям.
+  - type: Fix
+    message: >-
+      Быстрая экипировка «Джемини» больше не снимает мгновенно одежду, на снятие которой нужно время.
+  id: 1513
+  time: '2026-08-28T18:47:00.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4330
+- author: Mr_Samuel
+  changes:
+  - type: Fix
+    message: У модификаций протокинетического ускорителя снова есть задержка установки.
+  id: 1514
+  time: '2026-08-29T06:19:58.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4337
+- author: Floofyshork
+  changes:
+  - type: Tweak
+    message: На урон клешни декапоида теперь влияет навык безоружного боя.
+  id: 1515
+  time: '2026-08-29T06:34:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4317
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: В наборе перчаток класса D вместо противогаза теперь снова серые перчатки.
+  id: 1516
+  time: '2026-08-29T07:05:34.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4349
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлено отсутствие цветов у кусачек.
+  id: 1517
+  time: '2026-08-29T07:07:42.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4350
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлено отсутствие спрайтов штампа ПNT в руках.
+  id: 1518
+  time: '2026-08-29T09:26:38.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4351
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Починили зарядную дубинку.
+  id: 1519
+  time: '2026-08-29T11:17:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4354
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Мутация хамелеона теперь гораздо быстрее раскрывает вас при движении и маскирует, когда вы стоите на месте.
+  id: 1520
+  time: '2026-08-29T11:33:58.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4355
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: >-
+      Фантом теперь может добавлять в растворы 4 новых реагента способностью осквернения.
+  - type: Remove
+    message: Рвота и пепел убраны из списка реагентов осквернения фантома.
+  - type: Tweak
+    message: Мор фантома снова может взламывать боргов как криптографический секвенсор.
+  - type: Tweak
+    message: Осквернение фантома теперь вводит 20 ед. вместо 10.
+  id: 1521
+  time: '2026-08-29T11:40:15.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4320
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Революция больше не побеждает и не проигрывает мгновенно, когда все находятся в терминале прибытия.
+  id: 1522
+  time: '2026-08-29T17:04:28.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4357
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Анализатор растений теперь может внедрять гены в семена, полученные обрезкой.
+  id: 1523
+  time: '2026-08-30T06:53:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4366
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: ИИ снова может хоть что-то делать... почему никто об этом не сообщил
+  id: 1524
+  time: '2026-08-30T07:46:54.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4368
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Слоп с лазером передачи энергии убран, чтобы карго не стало бесполезным.
+  id: 1525
+  time: '2026-08-30T11:21:37.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4373
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Ракеты ксеноборгов больше не исчезают из виду вскоре после выстрела.
+  id: 1526
+  time: '2026-08-30T12:14:34.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4374
+- author: Skull Face
+  changes:
+  - type: Remove
+    message: Английский удалён.
+  id: 1527
+  time: '2026-08-30T13:15:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4375
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Дионам наконец установили CS:S.
+  id: 1528
+  time: '2026-08-30T21:02:56.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4384
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Астральная бритва Космического культа теперь лечит владельца только при атаке на гуманоидов.
+  id: 1529
+  time: '2026-08-31T12:32:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4393
+- author: luminargh
+  changes:
+  - type: Add
+    message: Управляемые игроками ED-209 получили визор СБ.
+  id: 1530
+  time: '2026-08-31T16:13:34.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4390
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена ошибка, из-за которой слаймы ксенобиологии не могли наесться достаточно для деления.
+  id: 1531
+  time: '2026-08-31T18:30:49.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4396
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Интерфейс хирургии теперь обновляет части тела и операции в реальном времени. Больше не надо переоткрывать окно, застрявшее на операции, которую невозможно провести.
+  id: 1532
+  time: '2026-09-01T07:48:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4401
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: На 3D-принтер добавлены модульные ствольные коробки и прямые трубы.
+  - type: Tweak
+    message: >-
+      Книги революционного ближнего боя и революционной стрельбы дают больше разных навыков, чтобы охватить всё оружие, которое могут изготовить революционеры.
+  - type: Tweak
+    message: Скорострельность «Опустошителя» повышена с 1.0 до 1.5.
+  - type: Tweak
+    message: >-
+      Для «Пролетариата» теперь нужно 3 детали революционного оружия вместо 5.
+  - type: Tweak
+    message: Детали для революции теперь печатаются быстрее.
+  - type: Tweak
+    message: Детали революционного огнестрельного оружия теперь печатаются быстрее.
+  - type: Tweak
+    message: Рецепты большинства революционных стволов стали короче.
+  - type: Tweak
+    message: Из изготовления большинства революционных стволов убрана сварка.
+  - type: Tweak
+    message: >-
+      Кованые ножи теперь стоят 2.5 стали и изготавливаются за 5 секунд.
+  - type: Tweak
+    message: >-
+      Для изготовления ключей шифрования революции теперь нужны только пластик, сталь, стекло и золото.
+  - type: Fix
+    message: Книга революционной стрельбы теперь корректно даёт навык оружейного дела.
+  id: 1533
+  time: '2026-09-01T12:02:00.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4399
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: У клонированных людей снова есть кисти.
+  id: 1534
+  time: '2026-09-01T12:25:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4402
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Личинки мотыльков снова доступны как роли призраков.
+  id: 1535
+  time: '2026-09-01T12:44:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4404
+- author: ghostlydragon8
+  changes:
+  - type: Add
+    message: Станки революции теперь поддерживают автоматизацию.
+  id: 1536
+  time: '2026-09-01T17:40:00.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4407
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Исправлен краш сервера при казни гвоздомётом.
+  id: 1537
+  time: '2026-09-03T05:06:10.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4425
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Пицца-бомба ослаблена. Больше нельзя использовать её как ручную гранату, мгновенно лишающую конечностей.
+  id: 1538
+  time: '2026-09-03T05:59:57.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4420
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Дионам больше нельзя пересаживать сердца, почки и печень.
+  id: 1539
+  time: '2026-09-03T08:08:44.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4427
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Абдукторам больше не выпадают задания на вживление железы в слаймов или дион, поскольку у них нет слота сердца.
+  id: 1540
+  time: '2026-09-03T17:16:13.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4428
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Нажатием с Alt на телесферу революции теперь можно подключать машины к её хранилищу ресурсов.
+  - type: Fix
+    message: Исправлена поломка тайломёта ксеноборга из-за застрявших тайлов.
+  - type: Fix
+    message: Ксеноборги теперь могут переключать магнит своего хранилища.
+  - type: Tweak
+    message: >-
+      Дефлекторы ксеноборгов больше не исчезают сами. Если их уничтожат, они всё ещё будут потеряны.
+  id: 1541
+  time: '2026-09-04T00:09:51.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4433
+- author: StarMade, Graves, DieselMohawk
+  changes:
+  - type: Tweak
+    message: Корпоративный закон переписан и заново отформатирован.
+  id: 1542
+  time: '2026-09-04T00:17:14.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4263
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Искры летят медленнее и в целом выглядят лучше.
+  id: 1543
+  time: '2026-09-04T09:43:45.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4440
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Клинки еретика теперь можно использовать в хирургии.
+  id: 1544
+  time: '2026-09-05T07:44:47.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4455
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      ЭМИ электромагнитной паутины блоба усилен и теперь отнимает больше 2% заряда.
+  - type: Fix
+    message: Исправлено отсутствие улучшений тайлов блоба до прочных и отражающих.
+  - type: Fix
+    message: >-
+      Исправлена невидимость существ за пределами поля зрения при превращении в существо без конуса обзора, например в блоб.
+  - type: Fix
+    message: Исправлена нестабильная работа клиентского предсказания узлов блоба.
+  id: 1545
+  time: '2026-09-05T10:47:30.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4456
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Громкость всех голосов теперь примерно одинакова.
+  id: 1546
+  time: '2026-09-05T12:20:39.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4457
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Турели ИИ теперь стреляют в обезьян.
+  - type: Tweak
+    message: Большинство животных больше не нападает на повстанцев. Шива всё ещё злая.
+  id: 1547
+  time: '2026-09-05T12:54:49.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4459
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Исправлена возможность раскрывать невидимые объекты наведением курсора. Исключение составляют дварфы, дионы и воксы.
+  id: 1548
+  time: '2026-09-05T13:11:48.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4460
+- author: yglop
+  changes:
+  - type: Add
+    message: В аплинке появились гранаты с потрошителями.
+  id: 1549
+  time: '2026-09-06T09:29:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4415
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Блоб теперь получает предупреждение, когда на его ядро нападают.
+  - type: Tweak
+    message: Дальность атаки блоба увеличена на полтайла.
+  - type: Fix
+    message: >-
+      Реагенты блоба под давлением больше не перестают работать после 1 атаки или смерти и теперь наносят урон конструкциям.
+  - type: Tweak
+    message: Усилено впрыскивание криогенного яда блобом.
+  id: 1550
+  time: '2026-09-06T14:14:22.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4476
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      У интеракторов появился режим блокировки инструмента, который не даёт подобрать или сбросить его.
+  - type: Tweak
+    message: >-
+      Порт автозапуска интерактора и конструктора теперь называется «Повторение», чтобы меньше путать.
+  id: 1551
+  time: '2026-09-06T14:37:14.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4477
+- author: luminargh
+  changes:
+  - type: Add
+    message: Новая музыка в лобби — «Race to Evac».
+  id: 1552
+  time: '2026-09-06T22:05:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4480
+- author: Bon-Man
+  changes:
+  - type: Tweak
+    message: Снижен урон буров экзокостюмов.
+  id: 1553
+  time: '2026-09-07T05:58:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4485
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Убрали запрет книг.
+  id: 1554
+  time: '2026-09-07T07:45:42.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4490
+- author: Pi-tanium
+  changes:
+  - type: Tweak
+    message: Медицинские борги теперь могут подбирать и держать мешки для тел.
+  id: 1555
+  time: '2026-09-07T07:54:27.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4432
+- author: jshoe2
+  changes:
+  - type: Remove
+    message: Улучшение «Грубый крушитель» убрано из добычи сундуков некрополя.
+  - type: Tweak
+    message: Снижены требования к навыку изготовления улучшений крушителя.
+  id: 1556
+  time: '2026-09-07T12:02:19.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4491
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Призыв окончен.
+  id: 1557
+  time: '2026-09-07T12:17:27.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4492
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Лунолимоны больше не создают растения при сборе и снова могут мутировать в лимонадные деревья.
+  id: 1558
+  time: '2026-09-07T12:30:34.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4493
+- author: paige404
+  changes:
+  - type: Fix
+    message: Демоны резни и смеха вспомнили, как говорить.
+  id: 1559
+  time: '2026-09-08T06:21:57.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4512
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: Двухклинковый энергетический меч теперь отражает всего 8 раз вместо 16.
+  - type: Tweak
+    message: >-
+      Попадание лёгкой атакой двухклинковым энергетическим мечом теперь прибавляет к скорости только +10%.
+  - type: Tweak
+    message: >-
+      Двухклинковый энергетический меч теперь наносит 13 режущего и 13 термического урона. С чипом навыка выходит 30 урона.
+  - type: Tweak
+    message: >-
+      Множитель тяжести ран конечностей от термического и режущего урона двухклинкового энергетического меча теперь составляет только 2x.
+  id: 1560
+  time: '2026-09-08T07:29:40.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4509
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Урон от хирургического сепсиса теперь ограничен 90 единицами урона ядом на часть тела.
+  id: 1561
+  time: '2026-09-08T07:38:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4514
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Гончие плоти больше не исцеляются мгновенно при смене облика.
+  - type: Remove
+    message: Убраны бонус к урону безмолвных мертвецов и эффект кровоточащей стали у клинков.
+  - type: Tweak
+    message: Рывок пепла стал на 1 секунду длиннее, то есть таким же, как раньше.
+  - type: Fix
+    message: Исправлена возможность создать путём плоти больше гулей, чем задумано.
+  id: 1562
+  time: '2026-09-08T10:10:08.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4474
+- author: deltanedas
+  changes:
+  - type: Add
+    message: В CQC возвращена подсечка.
+  - type: Tweak
+    message: >-
+      Большинство приёмов боевых искусств проработано подробнее. Добавлены звуки, броски, требования и прочее.
+  - type: Remove
+    message: Из капоэйры убран подъём рывком. Его и так может выполнить каждый.
+  - type: Remove
+    message: >-
+      Убраны слоповые требования к уровню некоторых боевых приёмов. Теперь они всегда работают одинаково.
+  - type: Tweak
+    message: Большинство книг и свитков по боевым искусствам теперь дают мастерский уровень навыка.
+  id: 1563
+  time: '2026-09-08T11:57:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4518
+- author: luminargh
+  changes:
+  - type: Add
+    message: Зомби теперь говорят на зомбоязе.
+  id: 1564
+  time: '2026-09-08T17:07:44.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4507
+- author: Evoluxionary
+  changes:
+  - type: Add
+    message: Добавлен ларп CSIJ... то есть биокостюм.
+  id: 1565
+  time: '2026-09-09T10:51:56.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4273
+- author: freycyik
+  changes:
+  - type: Tweak
+    message: Зомби теперь вскрывают двери в 5 раз быстрее.
+  id: 1566
+  time: '2026-09-10T06:03:53.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4525
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Убран персональный ИИ из zzzz-the.
+  id: 1567
+  time: '2026-09-10T09:09:40.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4531
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Отбеливатель больше нельзя пить без вреда. Как в жизни.
+  id: 1568
+  time: '2026-09-10T09:21:39.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4533
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Взрывная ручка ослаблена. Она больше не отрывает вам сразу все конечности.
+  id: 1569
+  time: '2026-09-10T09:37:31.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4534
+- author: rivermyth
+  changes:
+  - type: Add
+    message: Электронные шкафы и сейфы теперь предупреждают о взломе.
+  - type: Add
+    message: У шкафов и электронных ящиков появилась панель проводов.
+  - type: Add
+    message: Для шкафов и электронных ящиков добавлены сигналы «Запереть», «Отпереть» и «Переключить».
+  id: 1570
+  time: '2026-09-10T10:47:37.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4364
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Для взаимодействий дронов добавлено клиентское предсказание.
+  - type: Fix
+    message: Дроны больше не могут таскать людей, лол.
+  id: 1571
+  time: '2026-09-10T12:00:52.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4521
+- author: Bon-Man
+  changes:
+  - type: Fix
+    message: Исправлена ошибка, из-за которой все шкафы и ящики били током.
+  id: 1572
+  time: '2026-09-11T06:57:32.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4548
+- author: luminargh
+  changes:
+  - type: Tweak
+    message: Зомби больше не роняют свои перчатки. Удачи!
+  id: 1573
+  time: '2026-09-11T16:24:49.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4552
+- author: TechnicFighter
+  changes:
+  - type: Fix
+    message: Космические культисты теперь могут развиваться и при малом онлайне.
+  id: 1574
+  time: '2026-09-12T07:02:08.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4555
+- author: Aviu
+  changes:
+  - type: Add
+    message: Переработано снаряжение ОБР, Эскадрона Смерти и HECU.
+  - type: Add
+    message: При победе революции теперь появляется HECU вместо ОБР.
+  - type: Fix
+    message: ОБР и похожие роли теперь появляются с нужными чипами навыков.
+  id: 1575
+  time: '2026-09-12T07:47:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4557
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлено отображение спрайтов камер внутри стен.
+  id: 1576
+  time: '2026-09-13T11:56:08.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4570
+- author: Aviu
+  changes:
+  - type: Fix
+    message: >-
+      Негуманоидные гули больше не учитываются в лимите гулей после смерти или снятия превращения.
+  id: 1577
+  time: '2026-09-13T12:01:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4559
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Восстановлены операции, связанные с кровотечением, в том числе пришивание оторванных конечностей.
+  - type: Tweak
+    message: При наведении на этап операции теперь видно, почему его нельзя выполнить.
+  id: 1578
+  time: '2026-09-13T13:30:32.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4571
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: При разрушении свечей духов череп больше не рассыпается.
+  id: 1579
+  time: '2026-09-13T13:34:30.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4572
+- author: WrenTheBun
+  changes:
+  - type: Tweak
+    message: >-
+      Обновлена страница еретика в руководстве. Сдвиги реальности больше не называют потусторонними влияниями.
+  id: 1580
+  time: '2026-09-13T14:52:18.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4573
+- author: luminargh
+  changes:
+  - type: Add
+    message: >-
+      Добавлена новая композиция «Assimilation». Она играет, когда блоб вызывает тревогу «Дельта».
+  id: 1581
+  time: '2026-09-13T14:59:13.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4553
+- author: Endothermix
+  changes:
+  - type: Remove
+    message: У тенеморфа убран «Теневой шаг».
+  - type: Tweak
+    message: Подчинение тенеморфа теперь перезаряжается 1 минуту.
+  - type: Tweak
+    message: >-
+      Базовое подчинение тенеморфа теперь длится дольше оглушающего взгляда. Надевайте на цель наручники, чтобы успеть её обратить.
+  - type: Tweak
+    message: Усиленное подчинение тенеморфа больше не действует на носителей импланта Щит Разума.
+  id: 1582
+  time: '2026-09-13T15:01:39.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4500
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Восстановлена возможность собирать урожай с грибошляпников.
+  - type: Fix
+    message: Исправлена ненадёжная работа электродрелей, омниинструментов и других инструментов.
+  id: 1583
+  time: '2026-09-13T15:04:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4574
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Интерфейс энергетического раздатчика химикатов теперь обновляется, даже если реакция сохраняет исходный объём.
+  id: 1584
+  time: '2026-09-13T15:32:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4575
+- author: Endothermix
+  changes:
+  - type: Fix
+    message: Ядро блоба теперь слышит общий разум блоба и может говорить в нём.
+  id: 1585
+  time: '2026-09-13T18:19:37.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4577
+- author: yglop
+  changes:
+  - type: Add
+    message: Добавлена реактивная броня.
+  id: 1586
+  time: '2026-09-13T18:34:25.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4280
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: >-
+      В сборщике микроэлектроники для революционеров появился новый инструмент — набор инструментов революционера.
+  - type: Add
+    message: В пресс для патронов добавлен .45 Magnum.
+  - type: Tweak
+    message: >-
+      «Либерейтор» теперь стреляет .45 Magnum вместо .35, а его скорострельность снижена до 1.5.
+  - type: Tweak
+    message: >-
+      Боевой факел теперь наносит 8 термического и 2 колющего урона. Попадания по-прежнему усиливают возгорание цели.
+  - type: Tweak
+    message: >-
+      Революционные нагрудники теперь стоят 7.5 стали и лучше защищают от физического урона. При этом они стали уязвимее к нагреву и замедляют на 15%.
+  - type: Tweak
+    message: >-
+      Отражающий бронированный жилет теперь даёт 30% сопротивления колющему урону и задерживает сбивание с ног электродубинкой.
+  - type: Tweak
+    message: >-
+      Для изготовления самодельных турелей, молотов и революционных шлемов больше не нужна сварка.
+  - type: Tweak
+    message: Упрощено изготовление молотов и самодельных турелей.
+  - type: Tweak
+    message: >-
+      Революционные маски теперь стоят 2 пластика, а шлемы — 3 пластали.
+  - type: Tweak
+    message: >-
+      Бронепластины теперь стоят 3 стали, а карты системы опознавания — 0.25 золота вместо 1.5.
+  id: 1587
+  time: '2026-09-13T21:24:23.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4566
+- author: StarMade
+  changes:
+  - type: Tweak
+    message: «Стенающий Конь» теперь наносит режущий урон.
+  id: 1588
+  time: '2026-09-14T16:35:54.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4590
+- author: Nothing98512
+  changes:
+  - type: Remove
+    message: Омниинструмент убран из базового хирургического модуля медборга.
+  id: 1589
+  time: '2026-09-15T06:16:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4593
+- author: Nothing98512
+  changes:
+  - type: Tweak
+    message: Космические кобры больше не беспомощные малыши.
+  id: 1590
+  time: '2026-09-15T15:23:58.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4592
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Наблюдение и похожие действия больше не требуют подтверждения.
+  id: 1591
+  time: '2026-09-15T19:43:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4604
+- author: idkmaybe69
+  changes:
+  - type: Tweak
+    message: В некоторых автоматах, где взлом раньше ничего не открывал, появилась контрабанда.
+  id: 1592
+  time: '2026-09-15T19:48:19.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4569
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Телесфера революции больше не удаляет материалы при подключении к ней машин.
+  id: 1593
+  time: '2026-09-16T07:17:53.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4612
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Жидкостные насосы больше не удаляют содержимое при подключении к химмастеру.
+  id: 1594
+  time: '2026-09-16T09:34:03.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4613
+- author: joel
+  changes:
+  - type: Remove
+    message: Удалён слоповый бот для растений.
+  id: 1595
+  time: '2026-09-16T09:41:13.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4614
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Событие с пауками в вентиляции больше не спамит каждый раунд.
+  id: 1596
+  time: '2026-09-16T09:53:16.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4615
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Турбины ядерных реакторов теперь вырабатывают в 8 раз больше энергии, чтобы соответствовать атмосферным устройствам. Ускоряемся.
+  id: 1597
+  time: '2026-09-16T11:55:28.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4616
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Удалены все камеры Стаи.
+  id: 1598
+  time: '2026-09-16T17:40:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4621
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Исправлена работа доступа парамедика. Он также добавлен на ID-карты главного врача и капитана.
+  - type: Tweak
+    message: Конфигураторы доступа теперь могут назначать доступ боргов.
+  id: 1599
+  time: '2026-09-17T07:10:22.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4633
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Просмотр нательных камер больше не разрывает соединение сразу после открытия.
+  id: 1600
+  time: '2026-09-17T07:19:58.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4634
+- author: TechnicFighter
+  changes:
+  - type: Tweak
+    message: >-
+      Запас здоровья ядерных мышей и ядерных карпов увеличен до 30 и 50 соответственно.
+  - type: Fix
+    message: >-
+      Высушенные голокарп и магикарп в руках больше не выглядят как обычный высушенный карп.
+  id: 1601
+  time: '2026-09-17T11:30:16.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4638
+- author: deltanedas
+  changes:
+  - type: Add
+    message: >-
+      Теперь можно собрать генератор тактовых импульсов вместо старых петель из элементов ИЛИ-НЕ и исключающего ИЛИ.
+  id: 1602
+  time: '2026-09-17T11:32:02.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4635
+- author: Endothermix
+  changes:
+  - type: Fix
+    message: Заброшенные борги теперь получают правильные навыки и модули.
+  id: 1603
+  time: '2026-09-17T13:02:02.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4594
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Мутации от радиационных бурь теперь проще расшифровать и, следовательно, удалить.
+  id: 1604
+  time: '2026-09-17T14:11:13.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4641
+- author: Endothermix
+  changes:
+  - type: Fix
+    message: Мотыльки и арахниды теперь могут дышать плюоксиумом.
+  id: 1605
+  time: '2026-09-17T15:02:51.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4643
+- author: yglop
+  changes:
+  - type: Add
+    message: Обычный лист стекла теперь можно разбить, применив его в руке.
+  id: 1606
+  time: '2026-09-17T19:35:25.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4640
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      При поломке машин, например станка или хранилища, материалы больше не пропадают.
+  id: 1607
+  time: '2026-09-18T11:29:57.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4659
+- author: ReestockMakes
+  changes:
+  - type: Tweak
+    message: У Ядерных оперативников и их вариантов новые значки ID-карт.
+  id: 1608
+  time: '2026-09-18T15:38:05.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4360
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: Скорректированы шансы выпадения некоторых загадочных желёз.
+  - type: Tweak
+    message: Усилены эффекты загадочных желёз дыма, здоровья и электрического разряда.
+  - type: Tweak
+    message: >-
+      От абдукторов чаще выпадают назойливые или вредные задания.
+  id: 1609
+  time: '2026-09-18T17:56:22.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4583
+- author: StarMade
+  changes:
+  - type: Tweak
+    message: Оглушение «Правосудия» теперь работает как у электродубинки.
+  id: 1610
+  time: '2026-09-18T21:16:20.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4663
+- author: TechnicFighter
+  changes:
+  - type: Tweak
+    message: КПБ и борги NT теперь уязвимы к воде.
+  - type: Tweak
+    message: КПБ теперь уязвимы к ионному урону вместо сопротивления (0.8 -> 1.5).
+  - type: Tweak
+    message: Борги теперь уязвимы к электрическому и ионному урону.
+  id: 1611
+  time: '2026-09-19T08:41:22.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4662
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлен обход языковых ограничений шёпотом...
+  id: 1612
+  time: '2026-09-19T12:27:21.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4668
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Удалён ларп.
+  id: 1613
+  time: '2026-09-19T12:54:38.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4670
+- author: NoElkaTheGod
+  changes:
+  - type: Fix
+    message: Ксеноморфы теперь слышат музыку при объявлении.
+  id: 1614
+  time: '2026-09-19T14:31:58.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4669
+- author: IvanKuvalda
+  changes:
+  - type: Add
+    message: Добавлены новые классы голопаразитов.
+  id: 1615
+  time: '2026-09-19T15:03:44.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4631
+- author: jorjorwell
+  changes:
+  - type: Tweak
+    message: Улучшен 1984.
+  id: 1616
+  time: '2026-09-19T23:24:56.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4679
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: >-
+      Цыплята взрослеют в 3.5 раза быстрее, за 60 с вместо 200 с.
+  - type: Tweak
+    message: >-
+      Курам-несушкам нужно меньше еды и времени на то, чтобы снести яйцо, но после этого они сильнее голодают.
+  - type: Tweak
+    message: Петухи теперь быстрее оплодотворяют яйца.
+  - type: Tweak
+    message: Куры теперь живут дольше.
+  - type: Tweak
+    message: Для получения конфетных яиц теперь подходят обычные леденцы.
+  - type: Fix
+    message: >-
+      Цыплята, куры и петухи больше не проходят сквозь перила и двери. Теперь их можно держать в загоне.
+  - type: Fix
+    message: Каменные петухи больше не пытаются превращать неподходящее яйцо в коралловое.
+  - type: Fix
+    message: Исправлена ошибка, из-за которой куры-несушки не ели.
+  - type: Fix
+    message: У петухов-кокатриксов больше нет ограничения на количество гефестия.
+  id: 1617
+  time: '2026-09-20T09:17:48.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4680
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена возможность получить бесплатное всевидение через действие рюкзака.
+  id: 1618
+  time: '2026-09-20T10:31:50.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4686
+- author: StarMade
+  changes:
+  - type: Add
+    message: Добавлен модуль омниинструмента для медборга.
+  id: 1619
+  time: '2026-09-20T17:22:20.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4624
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: >-
+      В руководство по животноводству добавлены сведения, а таблица скрещивания теперь действительно видна.
+  - type: Add
+    message: >-
+      В карго появился новый заказ для животноводства за 4000 спесо. В нём есть всё необходимое для начала.
+  - type: Tweak
+    message: >-
+      Эйджиум теперь навсегда останавливает старение, если ввести животному суммарно 5 ед. Вещество добывают из яиц иксуорта, получаемых при кормлении белой курицы помидорами.
+  - type: Tweak
+    message: >-
+      Бурым петухам теперь требуется меньше счастья, чтобы при оплодотворении получались золотые яйца. Само оплодотворение яйцо не меняет, его нужно положить в инкубатор.
+  - type: Tweak
+    message: У кур теперь постепенно заживают все ожоги и немного урона ядом.
+  - type: Fix
+    message: Исправлены типы урона, которые исцеляет яйцо феникса.
+  id: 1620
+  time: '2026-09-21T08:23:10.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4691
+- author: boyofsin
+  changes:
+  - type: Remove
+    message: Из аплинка повара убрано эксклюзивное для его профессии CQC.
+  - type: Tweak
+    message: Цена капоэйры выросла с 30 до 60 ТК.
+  - type: Tweak
+    message: CQC теперь доступно агентам Синдиката.
+  id: 1621
+  time: '2026-09-21T08:34:53.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4689
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Новый фильтр материалов теперь можно изготовить.
+  - type: Tweak
+    message: >-
+      При осмотре любого фильтра теперь видно, подходит ли ему предмет у вас в руке.
+  id: 1622
+  time: '2026-09-21T08:45:23.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4688
+- author: WrenTheBun
+  changes:
+  - type: Add
+    message: >-
+      Добавлена самодельная перевязь для ножей — немодный аксессуар для любителей клинков. Её можно изготовить.
+  id: 1623
+  time: '2026-09-21T10:43:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4626
+- author: Nothing98512
+  changes:
+  - type: Tweak
+    message: Киборги больше не могут пользоваться консолями связи.
+  id: 1624
+  time: '2026-09-21T13:36:30.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4664
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена невозможность призвать тенедемонов. Ну и обманка.
+  id: 1625
+  time: '2026-09-21T14:24:47.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4696
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Некоторые сигнальные порты в интерфейсе мультитула выделяются цветом по типу данных.
+  id: 1626
+  time: '2026-09-21T14:28:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4697
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: Куры-волшебницы получили работающую способность откладывать яйца.
+  - type: Add
+    message: >-
+      В «МегаСемена» добавлены семена арахиса. Теперь можно вывести кур онагадори.
+  - type: Add
+    message: Яйца феникса, дракона и волшебника помечены как магическая контрабанда.
+  - type: Tweak
+    message: Уменьшен радиус в тайлах, в котором проверяется скученность кур.
+  - type: Tweak
+    message: >-
+      Для получения кур-клувеней теперь достаточно -50 счастья вместо -777.
+  - type: Tweak
+    message: >-
+      Изменён состав реагентов у сталепшеницы, волшебных грибов, прозрачной кукурузы, шароарбузов, синтеплоти и мет-яблок.
+  - type: Tweak
+    message: >-
+      Усилены яйцо сновидений и яйцо феникса. Яйцо сновидений теперь лечит все конечности и больше общего урона, восстанавливает кровь и останавливает кровотечение. Яйцо феникса тоже лечит все конечности и немного больше общего урона.
+  - type: Fix
+    message: Теперь снова можно вывести кур онагадори и кур-фениксов.
+  - type: Fix
+    message: >-
+      Кур снова можно кормить снопами сталепшеницы и риса.
+  id: 1627
+  time: '2026-09-22T08:55:57.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4704
+- author: StarMade
+  changes:
+  - type: Tweak
+    message: Галоши Джека теперь считаются контрабандой уборщика.
+  id: 1628
+  time: '2026-09-22T17:28:00.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4709
+- author: ReestockMakes
+  changes:
+  - type: Tweak
+    message: >-
+      Персонажи класса D теперь могут выбрать оранжевую обувь, оранжевые зимние пальто и тюремные гермокостюмы для плазмолюдей.
+  - type: Tweak
+    message: Обновлены значки роли класса D.
+  id: 1629
+  time: '2026-09-22T17:30:35.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4527
+- author: assripper.
+  changes:
+  - type: Remove
+    message: мгновенный жёсткий захват ксеноморфов остался только у королевы
+  - type: Add
+    message: оглушение толчком ксеноморфа вернулось
+  - type: Tweak
+    message: дроны и стражи ксеноморфов больше не ползают по вентиляции
+  - type: Tweak
+    message: ксеноморфы теперь получают x2 термического урона
+  - type: Tweak
+    message: хвост ксеноморфа укорочен, он был слишком длинным
+  - type: Tweak
+    message: >-
+      ксеноморфов теперь можно оглушить уроном по выносливости, кроме преторианца и королевы
+  id: 1630
+  time: '2026-09-22T20:10:43.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4708
+- author: Wizard25671
+  changes:
+  - type: Fix
+    message: Петухи с дальнобойной атакой снова ею пользуются. Бойтесь драконов.
+  - type: Fix
+    message: Снова можно получить голубиные яйца и яйца пустоты.
+  id: 1631
+  time: '2026-09-22T20:20:50.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4705
+- author: hoodsie
+  changes:
+  - type: Add
+    message: Возвращены описания персонажей.
+  id: 1632
+  time: '2026-09-23T12:56:24.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4720
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Привет!
+  id: 1633
+  time: '2026-09-23T20:38:11.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4724
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Удалён триклор.
+  id: 1634
+  time: '2026-09-24T06:49:20.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4731
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Стеклянные куры больше не взрываются от взгляда.
+  id: 1635
+  time: '2026-09-24T07:14:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4733
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Мышей снова можно разводить.
+  id: 1636
+  time: '2026-09-24T11:44:29.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4738
+- author: TechnicFighter
+  changes:
+  - type: Remove
+    message: Священник больше не может призывать демонов.
+  - type: Tweak
+    message: Переименован чип навыка священника.
+  - type: Tweak
+    message: >-
+      Изменены навыки чипа священника: MagicLit > 25. Lit > 100. Smoke > 100.
+  id: 1637
+  time: '2026-09-25T10:03:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4748
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: "Тесто снова легко приготовить: 125 мл муки и 83.3333333333 мл воды."
+  id: 1638
+  time: '2026-09-25T12:50:15.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4751
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена куча ошибок Культа Крови.
+  id: 1639
+  time: '2026-09-25T15:48:57.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4750
+- author: StarMade
+  changes:
+  - type: Fix
+    message: У еретика пустоты теперь есть сообщение о неудачном скачке.
+  id: 1640
+  time: '2026-09-25T18:45:41.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4753
+- author: StarMade
+  changes:
+  - type: Remove
+    message: Криогенные реагенты больше не сжигают вас заживо.
+  id: 1641
+  time: '2026-09-25T20:27:09.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4758
+- author: StarMade
+  changes:
+  - type: Tweak
+    message: При выборе режима игроки без готовности теперь считаются за половину игрока.
+  id: 1642
+  time: '2026-09-25T21:38:52.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4756
+- author: StarMade
+  changes:
+  - type: Remove
+    message: убран CQC халка
+  id: 1643
+  time: '2026-09-25T21:39:43.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4757
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: >-
+      На шаттл абдукторов добавлен биофабрикатор абдукторов. Он может производить случайные конечности и органы, а также дополнительные загадочные железы.
+  - type: Add
+    message: На шаттл абдукторов добавлена биомасса для работы биофабрикатора.
+  - type: Tweak
+    message: Ускорены операции на операционном столе абдукторов.
+  id: 1644
+  time: '2026-09-27T14:10:43.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4767
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Крошечные взрывы больше не всегда ломают тайлы пола.
+  id: 1645
+  time: '2026-09-27T14:23:11.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4770
+- author: NoElkaTheGod
+  changes:
+  - type: Tweak
+    message: Голосование за карту вернулось и стало лучше, чем когда-либо.
+  id: 1646
+  time: '2026-09-27T15:48:23.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3564
+- author: cog
+  changes:
+  - type: Tweak
+    message: У самодельного костного геля появился свой спрайт.
+  id: 1647
+  time: '2026-09-27T15:56:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4775
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: В биогенераторы добавлены оплодотворённые белые яйца.
+  - type: Add
+    message: Куры-клоуны, клувени и мимы стали чуднее.
+  - type: Add
+    message: >-
+      Появился нормальный способ вывести кур-мимов: скормите курице-клоуну миманы.
+  - type: Add
+    message: Яйца клоунов и клувеней получили особые эффекты.
+  - type: Add
+    message: При поедании яиц рыцаря, клоуна и клувеня теперь показываются особые сообщения.
+  - type: Tweak
+    message: Для приручения раптора теперь достаточно 5–10 поглаживаний.
+  - type: Tweak
+    message: Снаряды электрических петухов стали медленнее, а сами петухи — смертоноснее.
+  - type: Fix
+    message: >-
+      Рыцари теперь выводятся по таблице скрещивания, а не при кормлении курицы иксуорта сталепшеницей.
+  - type: Fix
+    message: Яйца феникса теперь получаются из яиц рыцаря вместо яиц онагадори.
+  id: 1648
+  time: '2026-09-28T06:20:51.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4780
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Убрана задержка при использовании гипоручки на ёмкостях.
+  id: 1649
+  time: '2026-09-28T06:59:44.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4781
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Глава Культа Крови и конструкты больше не получают 2 действия подготовки заклинания.
+  id: 1650
+  time: '2026-09-28T08:19:37.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4784
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Руна воскрешения Культа Крови теперь восстанавливает утраченные конечности, кровь и прочее.
+  id: 1651
+  time: '2026-09-28T08:36:09.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4785
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлено неработающее заклинание телепортации культа (не руна).
+  - type: Fix
+    message: >-
+      Сдвигатель завесы культа теперь переносит и то, что вы тащите, как и обещано в описании.
+  - type: Fix
+    message: Уведомление об усилении больше не обещает невосприимчивость к давлению.
+  id: 1652
+  time: '2026-09-28T11:27:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4789
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: "Исправлено: теневые оковы можно было использовать лишь один раз вместо 4."
+  - type: Tweak
+    message: Для теневых оков теперь нужно сначала оглушить цель.
+  - type: Remove
+    message: >-
+      Призыв боевого снаряжения убран: он делал кузницу культа бесполезной и был слишком сильным.
+  - type: Tweak
+    message: Болы культа теперь можно создать на алтаре культа.
+  - type: Tweak
+    message: Длинные мечи культа теперь можно изготовить в демонической кузнице.
+  id: 1653
+  time: '2026-09-28T11:39:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4790
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Длинный меч культа теперь огромный по размеру вместо среднего.
+  id: 1654
+  time: '2026-09-28T11:53:53.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4791
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Откатили паршивое обновление чата из Hardlight.
+  id: 1655
+  time: '2026-09-28T21:23:10.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4798
+- author: StarMade
+  changes:
+  - type: Tweak
+    message: Убрана большая часть упоминаний старого названия «Космический закон».
+  id: 1656
+  time: '2026-09-28T21:24:17.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4792
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: >-
+      Добавлен новый способ получить яйца клоуна. Кормите белую курицу бананами и поддерживайте её счастливой (60+ счастья).
+  - type: Tweak
+    message: Из яиц клоуна в инкубаторе больше не вылупляются белые цыплята.
+  id: 1657
+  time: '2026-09-29T06:40:45.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4801
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Убрали слоп с «Джемини». Обновите свои знаки зодиака.
+  id: 1658
+  time: '2026-09-29T06:51:27.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4802
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Кажется, новообращённые Культа Крови теперь видят значки культистов, и наоборот.
+  id: 1659
+  time: '2026-09-29T07:24:58.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4804
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена работа портала на Лаваленд.
+  id: 1660
+  time: '2026-09-29T09:05:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4806
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Кровавые обряды теперь работают на лужах, показывают всплывающие сообщения и поглощают не больше 50 ед. за раз.
+  id: 1661
+  time: '2026-09-29T10:28:37.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4808
+- author: TechnicFighter
+  changes:
+  - type: Add
+    message: Добавлен Футляр Со Взрывными Сигарами за 20 ТК.
+  - type: Tweak
+    message: >-
+      Взрывной ошейник усилен, но остаётся довольно слабым, пока его никто не носит.
+  id: 1662
+  time: '2026-09-29T11:55:16.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4584
+- author: Clanky Station Consent Cult
+  changes:
+  - type: Fix
+    message: При обращении в Культ Крови больше нельзя просто отказаться...
+  id: 1663
+  time: '2026-09-29T12:02:41.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4813
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена пустая область состояния в раздельном интерфейсе.
+  id: 1664
+  time: '2026-09-29T19:27:05.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4815
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Культ Крови теперь получает новую цель, если прежнюю нельзя принести в жертву, например если она ушла в криосон.
+  id: 1665
+  time: '2026-09-30T13:22:39.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4820
+- author: SpeltIncorrectyl
+  changes:
+  - type: Add
+    message: >-
+      Перенесён предатель с прогрессией из SS13. Выполняйте подработки за дополнительные ТК и заслужите репутацию живой легенды.
+  id: 1666
+  time: '2026-09-30T13:35:45.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/3074
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: Стартовый запас предателей снижен до 50 ТК с учётом прогрессии.
+  - type: Tweak
+    message: Для финальной цели предателя теперь нужно 2000 репутации.
+  id: 1667
+  time: '2026-09-30T21:29:51.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4823
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлено отсутствие ключей радиосвязи у железяк.
+  id: 1668
+  time: '2026-10-01T16:19:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4839
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Эффекты опьянения и подобные визуальные эффекты больше не длятся вечно.
+  id: 1669
+  time: '2026-10-01T16:31:39.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4840
+- author: Pi-tanium
+  changes:
+  - type: Tweak
+    message: Вакцины теперь можно использовать сколько угодно раз. Так было нужно.
+  id: 1670
+  time: '2026-10-01T17:42:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4829
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: От кристалла суперматерии теперь можно отколоть только один осколок.
+  - type: Tweak
+    message: Нож, которым откололи осколок, обращается в пыль.
+  id: 1671
+  time: '2026-10-01T17:54:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4841
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Интерфейс доски подработок предателя больше не ломается после переподключения.
+  id: 1672
+  time: '2026-10-01T22:06:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4846
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Предатели, начавшие с имплантом аплинка, теперь получают доступ к подработкам.
+  id: 1673
+  time: '2026-10-02T11:08:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4852
+- author: Endothermix
+  changes:
+  - type: Tweak
+    message: >-
+      Мощность бомб на калии с водой и CLF3 существенно снижена. Идите делайте настоящую взрывчатку.
+  id: 1674
+  time: '2026-10-02T14:20:10.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4847
+- author: StarMade
+  changes:
+  - type: Tweak
+    message: Вся броня еретиков теперь защищает от перепадов давления (баллон по-прежнему нужен).
+  id: 1675
+  time: '2026-10-02T19:04:34.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4857
+- author: JohnJJohn
+  changes:
+  - type: Fix
+    message: Приручённые детёныши рапторов больше не дичают, повзрослев.
+  id: 1676
+  time: '2026-10-02T19:15:43.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4856
+- author: StarMade
+  changes:
+  - type: Tweak
+    message: Люксуариум ослаблен.
+  id: 1677
+  time: '2026-10-02T19:25:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4826
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена неудобная форма дубинки в инвентаре.
+  id: 1678
+  time: '2026-10-02T19:30:25.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4860
+- author: momoyawn
+  changes:
+  - type: Tweak
+    message: Святая вода реже убивает мгновенно.
+  id: 1679
+  time: '2026-10-02T20:34:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4861
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Улучшение тайлов блоба больше не бесплатно.
+  id: 1680
+  time: '2026-10-03T08:50:53.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4868
+- author: NoElkaTheGod
+  changes:
+  - type: Remove
+    message: Утилизаторы больше не могут покупать деньги за очки добычи.
+  - type: Add
+    message: В карго добавлены новые заказы.
+  - type: Tweak
+    message: Заказы и почта теперь приносят больше денег.
+  - type: Tweak
+    message: >-
+      В почтовых отправлениях теперь меньше хлама и больше полезных вещей. Иногда попадается даже контрабанда, так что вскрывайте письма!
+  id: 1681
+  time: '2026-10-03T22:43:03.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4854
+- author: Endothermix
+  changes:
+  - type: Remove
+    message: Дизейблер убран из шкафов СБ.
+  id: 1682
+  time: '2026-10-04T20:00:39.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4882
+- author: Endothermix
+  changes:
+  - type: Fix
+    message: >-
+      Метилендиоксистрахинон («Клубничный Лёд») теперь правильно метаболизируется в крови.
+  - type: Tweak
+    message: >-
+      Ломка после метилендиоксистрахинона («Клубничный Лёд») теперь гораздо тяжелее, вплоть до сердечного приступа. Подсадите на него ГСБ.
+  id: 1683
+  time: '2026-10-04T22:05:41.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4864
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Радужная конопля больше не выглядит как ошибка из Garry’s Mod на половине стадий роста.
+  id: 1684
+  time: '2026-10-04T22:23:00.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4886
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Культисты Крови теперь нечестивы...
+  id: 1685
+  time: '2026-10-04T23:48:34.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4889
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Сервер больше не позволяет пройти сквозь барьер, созданный руной барьера культа.
+  id: 1686
+  time: '2026-10-05T00:06:43.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4891
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Кнопки эвакуации больше не блокируются при синем коде.
+  id: 1687
+  time: '2026-10-05T00:09:35.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4892
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Новообращённые Культа Крови теперь получают нимб или красные глаза.
+  - type: Fix
+    message: В описании роли призрака теперь указано, что осколок души очищен.
+  id: 1688
+  time: '2026-10-05T12:30:10.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4901
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлены проблемы с лечением и дальностью пилонов Культа Крови.
+  id: 1689
+  time: '2026-10-05T12:34:35.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4899
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Осколки души из ролей призраков больше не могут перемещаться...
+  - type: Remove
+    message: Осколки души больше не могут создавать теней.
+  id: 1690
+  time: '2026-10-05T12:37:52.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4900
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Убрали слоп со слэшером.
+  id: 1691
+  time: '2026-10-05T13:28:32.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4902
+- author: StarMade
+  changes:
+  - type: Tweak
+    message: >-
+      «Последовательное усыпление» из продвинутого CQC теперь требует критического уровня выносливости и само наносит суммарно 75 урона по выносливости.
+  id: 1692
+  time: '2026-10-05T15:31:42.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4867
+- author: NoElkaTheGod
+  changes:
+  - type: Tweak
+    message: >-
+      Космический культ теперь может размещать пустотные шпили и святилища только на станции.
+  id: 1693
+  time: '2026-10-06T11:26:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4918
+- author: gravest0ne
+  changes:
+  - type: Remove
+    message: Святая вода больше не поджигает нечестивых антагонистов. Используйте святой CLF3.
+  id: 1694
+  time: '2026-10-06T12:13:28.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4915
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: У сотрудников СБ и командования теперь модификатор +50% к шансу стать антагонистом.
+  id: 1694
+  time: '2026-10-07T07:43:12.0000000+00:00'
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: Одинокий абдуктор добавлен в список событий.
+  - type: Tweak
+    message: >-
+      Убрано оповещение о крупном антагонисте для одиноких абдукторов и фантомов, появляющихся в середине раунда.
+  - type: Tweak
+    message: >-
+      Максимальное время ожидания появления фантомов в середине раунда снижено до 20 минут.
+  id: 1695
+  time: '2026-10-07T07:18:44.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4929
+- author: Hoodsie
+  changes:
+  - type: Remove
+    message: Молоко убрано из энергетического раздатчика газировки.
+  id: 1696
+  time: '2026-10-07T09:01:48.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4921
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Ритуальные кинжалы теперь маленькие вместо обычного размера.
+  - type: Fix
+    message: Конструкты Культа Крови теперь получают святой урон.
+  - type: Tweak
+    message: Шкафы больше не отправляют тревогу, если их уничтожает ядерный взрыв или что-то подобное.
+  - type: Tweak
+    message: >-
+      Распечатки портативного сканера генома теперь подписываются идентификатором мутации или именем существа.
+  - type: Fix
+    message: Приспешники теперь могут устанавливать за вас жучки для подработок предателя.
+  id: 1697
+  time: '2026-10-07T09:15:04.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4934
+- author: NoElkaTheGod
+  changes:
+  - type: Fix
+    message: >-
+      Телепортация абдуктора больше не прерывается при сбросе предмета или смене активной руки.
+  - type: Tweak
+    message: Телепортацию абдуктора теперь можно прервать уроном или движением.
+  id: 1698
+  time: '2026-10-07T09:48:31.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4936
+- author: NoElkaTheGod
+  changes:
+  - type: Tweak
+    message: Вытягивание энтропии теперь мгновенное, и его сложнее раскрыть с помощью метагейма.
+  - type: Fix
+    message: Космические культисты снова могут повышать уровень.
+  id: 1699
+  time: '2026-10-07T12:45:37.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4937
+- author: Aineias1
+  changes:
+  - type: Remove
+    message: Шаттл СБ на «Бейгле» убран. Теперь надеемся, что капсулы не смогут повторить то же самое.
+  id: 1700
+  time: '2026-10-07T19:16:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4938
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Ядерные карпы снова доступны как роли призраков.
+  id: 1701
+  time: '2026-10-09T22:06:01.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4971
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: >-
+      Коллекторы радиации убраны. На необновлённых картах придётся пользоваться Теслой.
+  id: 1702
+  time: '2026-10-10T19:15:37.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4980
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Позитронные мозги и ММИ больше не могут стучать в бинарный канал.
+  id: 1703
+  time: '2026-10-10T20:04:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4981
+- author: NoElkaTheGod
+  changes:
+  - type: Fix
+    message: Ещё часть оборудования робототехники перенесена в инженерный отдел.
+  id: 1704
+  time: '2026-10-10T20:17:06.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4946
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Осколки души теперь могут общаться через коллективный разум культа.
+  - type: Fix
+    message: Мимы больше не могут стать культистами крови в начале раунда.
+  - type: Tweak
+    message: У конструктов культа и осколков души теперь есть случайное прилагательное в имени, как у мышей.
+  id: 1705
+  time: '2026-10-10T20:23:29.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4982
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      При обычном выпадении режима Культ Крови теперь получает места для ритуала и цель для жертвоприношения.
+  id: 1706
+  time: '2026-10-10T23:34:17.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4988
+- author: SpeltIncorrectyl
+  changes:
+  - type: Tweak
+    message: Предателям вернули 100 ТК на старте. Доступ к подработкам нужно купить за 50 ТК.
+  id: 1707
+  time: '2026-10-10T23:38:21.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4966
+- author: NoElkaTheGod
+  changes:
+  - type: Add
+    message: Добавлен визуальный эффект облучения.
+  id: 1708
+  time: '2026-10-10T23:55:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4898
+- author: Aviu
+  changes:
+  - type: Remove
+    message: Подрежим шпиона удалён.
+  - type: Tweak
+    message: Шпион теперь доступен при более высоком онлайне, от 15 игроков.
+  id: 1709
+  time: '2026-10-11T18:05:08.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4997
+- author: Aviu
+  changes:
+  - type: Tweak
+    message: Взрывы и расчленение в целом ослаблены.
+  - type: Fix
+    message: Звук перелома больше не проигрывается несколько раз на клиенте.
+  id: 1710
+  time: '2026-10-11T18:08:02.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4996
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Напольный гоблин больше не создаёт кучу фальшивых тайлов на клиенте, вылезая из пола.
+  id: 1711
+  time: '2026-10-12T21:12:40.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5020
+- author: NoElkaTheGod, DVDPlayerOfDiscordFame, iaada
+  changes:
+  - type: Add
+    message: В аплинк Синдиката добавлены 4 новых вида оружия.
+  id: 1712
+  time: '2026-10-12T21:41:11.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4964
+- author: StarMade
+  changes:
+  - type: Remove
+    message: У предателей убраны цели, связанные с DAGD, почтовым мошенничеством и доведением аномалии до критического состояния.
+  - type: Tweak
+    message: >-
+      Изменены шансы оставшихся целей: убийства и выживание выпадают чаще, а захват автоматизированной торговой станции — реже.
+  id: 1713
+  time: '2026-10-14T00:31:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5013
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: >-
+      В яйцо курицы-птичьего духа добавлены новые призраки и проклятия. Такие куры появляются, когда несчастная чёрная шёлковая курица умирает от старости.
+  - type: Remove
+    message: Из яйца курицы-птичьего духа убран тенедемон.
+  - type: Tweak
+    message: Цена продажи золотого яйца выросла с 5000 до 25000 спесо.
+  - type: Tweak
+    message: Жуткое привидение стало ещё жутче и теперь оставляет после себя ядро ледяной аномалии.
+  - type: Tweak
+    message: Живые проклятия теперь опаснее.
+  - type: Tweak
+    message: >-
+      Фризиум метаболизируется медленнее и охлаждает быстрее.
+  - type: Fix
+    message: >-
+      Яйца мима теперь корректно получаются от миманов, даже если курица-клоун слишком счастлива.
+  id: 1714
+  time: '2026-10-14T18:15:45.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5033
+- author: Endothermix
+  changes:
+  - type: Tweak
+    message: Сейф с гранатомётом для подавления беспорядков теперь открывается при синем коде.
+  - type: Fix
+    message: Исправлен размер гранатомёта для подавления беспорядков в рюкзаках.
+  id: 1715
+  time: '2026-10-14T18:22:56.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5026
+- author: Aviu
+  changes:
+  - type: Remove
+    message: Импланты Щит Разума больше не блокируют заклинания Культа Крови.
+  - type: Add
+    message: Оглушающее заклинание Культа Крови переработано. Подробности в руководстве.
+  - type: Add
+    message: >-
+      Кровавыми обрядами стало легче собирать кровь. С их помощью теперь можно создать залп кровавых зарядов в виде заклинания или оружия и кровавую сферу, из которой можно забирать запасённую кровь обратно.
+  - type: Add
+    message: Культисты Крови получили средний навык владения своим оружием и щитом.
+  - type: Fix
+    message: Исправлена невозможность отозвать кровавое копьё.
+  - type: Fix
+    message: Исправлено имя зеркального щита и добавлен недостающий спрайт в руке.
+  - type: Add
+    message: >-
+      Зеркальный щит теперь иногда создаёт иллюзии владельца при блокировании или отражении атак.
+  id: 1716
+  time: '2026-10-15T14:11:50.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5039
+- author: StarMade
+  changes:
+  - type: Fix
+    message: Злой кролик теперь действительно одиночный антагонист.
+  id: 1717
+  time: '2026-10-15T19:40:04.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5049
+- author: StarMade
+  changes:
+  - type: Fix
+    message: Исправлен спрайт дубинки в хранилище.
+  id: 1718
+  time: '2026-10-15T20:15:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5052
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: >-
+      С космических левиафанов выпадает дополнительная добыча. Теперь есть ради чего попробовать их убить.
+  - type: Tweak
+    message: Здоровье космических левиафанов снижено с 4000 до 1500 ОЗ.
+  id: 1719
+  time: '2026-10-16T07:14:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5054
+- author: Endothermix
+  changes:
+  - type: Fix
+    message: Боеприпасы для оружия Гаусса теперь доступны в техфабе СБ при синем коде.
+  id: 1720
+  time: '2026-10-16T08:35:56.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5050
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: >-
+      Для консоли управления телепортом станции теперь нужен доступ научного отдела вместо доступа командования.
+  - type: Tweak
+    message: >-
+      Плата станционного телепорта теперь требует 1 блюспейс-кристалл вместо 10 единиц форонового стекла.
+  - type: Tweak
+    message: Чипы телепорта теперь стоят 0.25 серебра вместо 0.25 форона.
+  id: 1721
+  time: '2026-10-16T08:37:23.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5043
+- author: NoElkaTheGod
+  changes:
+  - type: Fix
+    message: >-
+      Автоматическое голосование за карту больше не выбирает Reach после каждого перезапуска сервера. Теперь оно запускается через 1 минуту.
+  id: 1722
+  time: '2026-10-16T09:02:39.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5045
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена ошибка, из-за которой раунды с малым онлайном иногда не начинались из-за подрежимов.
+  id: 1723
+  time: '2026-10-16T09:06:52.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5059
+- author: ReestockMakes
+  changes:
+  - type: Tweak
+    message: >-
+      Священники теперь могут законно заниматься зачарованием и получили новые средства для этого.
+  - type: Tweak
+    message: >-
+      Священники снова могут зачаровывать на алтарях. Всем остальным по-прежнему придётся потрудиться.
+  - type: Tweak
+    message: Для изготовления магических чернил кровь больше не обязательна.
+  - type: Add
+    message: >-
+      При кремации можно получить святой пепел для зачарования. Подробности в руководстве священника.
+  - type: Tweak
+    message: >-
+      Больше нельзя получить Библию со скидкой 83%, заказав припасы для морга.
+  id: 1724
+  time: '2026-10-16T20:47:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4653
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Исправлена возможность закупать несколько подкреплений подряд в обход таймера пополнения.
+  id: 1725
+  time: '2026-10-17T23:40:00.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5066
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена возможность получить бесконечное количество Ядерных оперативников, отменяя подработку с линейным крейсером.
+  - type: Fix
+    message: Осколки души теперь могут пользоваться коллективным разумом Культа Крови.
+  id: 1726
+  time: '2026-10-18T11:18:41.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5075
+- author: NoElkaTheGod
+  changes:
+  - type: Remove
+    message: Блоб больше не появляется в начале раунда. Он всё ещё может появиться как антагонист в середине раунда.
+  - type: Tweak
+    message: >-
+      Предатели и революционеры выпадают реже, а остальные режимы — чаще.
+  id: 1727
+  time: '2026-10-18T23:11:11.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5038
+- author: UnionsCap
+  changes:
+  - type: Tweak
+    message: Переименованы языки, которых коснулись изменения лора.
+  id: 1728
+  time: '2026-10-18T23:17:08.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5071
+- author: ClockworkRust
+  changes:
+  - type: Tweak
+    message: Качество оружия теперь влияет на урон.
+  id: 1729
+  time: '2026-10-18T23:22:28.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5082
+- author: Endothermix
+  changes:
+  - type: Fix
+    message: Исправлена невозможность атаковать в ближнем бою рядом стволов (больше 30!).
+  id: 1730
+  time: '2026-10-19T11:25:20.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4906
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Пилоны культа теперь исцеляют конструктов и культовые постройки, например шлюзы.
+  - type: Tweak
+    message: >-
+      Конструктов культа теперь можно чинить сваркой или руной воскрешения.
+  - type: Fix
+    message: Руна воскрешения больше не действует на тех, кто не состоит в культе.
+  - type: Fix
+    message: Турели ИИ и подобные устройства теперь атакуют конструктов культа.
+  - type: Tweak
+    message: >-
+      Руна подношения культа больше не действует на людей в критическом состоянии. Убейте или вылечите их либо воспользуйтесь оглушающим заклинанием...
+  id: 1731
+  time: '2026-10-20T10:46:03.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5111
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Переломы больше не возникают от нахождения в открытом космосе и термического урона.
+  - type: Tweak
+    message: Повреждения костей и органов в целом случаются реже.
+  - type: Tweak
+    message: Взрывы немного чаще отрывают конечности.
+  id: 1732
+  time: '2026-10-20T20:43:29.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5114
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: Скелеты из шкафов получили подходящие навыки обращения с оружием ближнего боя.
+  id: 1733
+  time: '2026-10-22T07:58:08.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5120
+- author: ReestockMakes
+  changes:
+  - type: Tweak
+    message: >-
+      Ядерный санитар теперь носит медицинский визор, чтобы видеть состояние товарищей по команде.
+  id: 1734
+  time: '2026-10-22T10:48:10.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5100
+- author: Graves
+  changes:
+  - type: Add
+    message: >-
+      Добавлен вор — новый второстепенный антагонист со свободными целями и ловкими руками!
+  - type: Tweak
+    message: Скорректированы отдельные подрежимы, чтобы добавить разнообразия.
+  id: 1735
+  time: '2026-10-22T19:39:44.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5031
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Исправлено мерцание спрайта теневого плаща, выдававшее владельца.
+  - type: Fix
+    message: У некоторых видов, например дварфов, больше не виден контур под маскировкой.
+  id: 1736
+  time: '2026-10-22T19:40:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5124
+- author: Aviu
+  changes:
+  - type: Add
+    message: >-
+      Кодекс цикатрикс и кодекс морбус теперь могут превращать большинство предметов в карточки и хранить эти карточки.
+  - type: Tweak
+    message: Острая Медаль теперь побочное знание 2-го уровня.
+  - type: Tweak
+    message: Урон «Багрового Раскола» повышен, но теперь он не проходит сквозь стены.
+  - type: Tweak
+    message: "Множитель урона усиленного выстрела винтовки Охотника на Львов: 1 -> 1.5."
+  - type: Tweak
+    message: Сокращена перезарядка хватки разума по области.
+  - type: Tweak
+    message: "Лимит пепельных духов: 2 -> 3."
+  - type: Tweak
+    message: В начале раунда еретики получают дополнительное очко побочных знаний.
+  - type: Fix
+    message: Плащ пустоты больше не виден при просмотре действий с владельцем.
+  - type: Fix
+    message: Космический культ больше не может обращать еретиков.
+  id: 1737
+  time: '2026-10-23T21:07:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5115
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: В горшках с растениями снова можно прятать предметы.
+  - type: Fix
+    message: Описание доксарубиксадона теперь указывает порог ниже 213 K вместо 273 K.
+  id: 1738
+  time: '2026-10-24T13:13:30.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5136
+- author: TechnicFighter
+  changes:
+  - type: Tweak
+    message: Ревенант больше не оглушает сам себя ударной волной.
+  - type: Tweak
+    message: Фантом и его приспешники стали сильнее (несколько правок баланса).
+  - type: Tweak
+    message: Фантом в середине раунда теперь такой же, как фантом в начале раунда.
+  - type: Tweak
+    message: При эволюции фантома теперь появляется шаттл ОБР со священниками.
+  - type: Tweak
+    message: Очки фантома теперь сохраняются при эволюции.
+  - type: Tweak
+    message: Для эволюции фантома теперь нужно больше трупов.
+  - type: Fix
+    message: Соль больше не удерживает дольше заданного времени.
+  - type: Fix
+    message: >-
+      У поглощения фантома появилась перезарядка, которая растёт с каждым поглощением.
+  - type: Fix
+    message: Распад снова взламывает боргов как криптографический секвенсор. Шанс смены законов зависит от шасси.
+  - type: Fix
+    message: Исправлено неработающее ускорение получения очков фантома после поглощения трупов.
+  - type: Fix
+    message: Некоторые существа фантома больше не застревают из-за того, что они толстые.
+  id: 1739
+  time: '2026-10-24T18:15:54.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5117
+- author: NoElkaTheGod
+  changes:
+  - type: Remove
+    message: Миграция карпов убрана. Всё равно не работала.
+  id: 1740
+  time: '2026-10-26T17:51:16.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4974
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: В ШПИЛЕ теперь действительно бесконечная еда.
+  - type: Tweak
+    message: Снижены сопротивления боевого, медицинского и противобунтового скафандров.
+  - type: Tweak
+    message: >-
+      В качестве компенсации снижено замедление медицинского и противобунтового скафандров.
+  - type: Fix
+    message: Шпиль больше не продаётся за 300k спесо.
+  - type: Fix
+    message: У боевого противобунтового скафандра появилось сопротивление колющему урону.
+  id: 1741
+  time: '2026-10-27T06:40:03.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5158
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Печать инъекторов мутации халка теперь требует в 4 раза больше биомассы.
+  id: 1742
+  time: '2026-10-27T08:29:52.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5163
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Кодексы больше не превращают предметы в упаковке для посылок в карточки.
+  - type: Tweak
+    message: >-
+      Урон при атаке оружием в нескольких руках снижается сильнее по мере удлинения цепочки атак. Если используете меньше 3 рук, ничего не меняется.
+  - type: Tweak
+    message: Инженеры теперь эффективнее орудуют молотом и гвоздём одновременно.
+  - type: Tweak
+    message: Потусторонняя монета сначала снимает засовы, а потом пытается открыть или закрыть двери.
+  - type: Tweak
+    message: Эффект страха от Маски Безумия срабатывает быстрее.
+  - type: Tweak
+    message: >-
+      В Непостижимую Диковину снова можно класть предметы вплоть до гигантского размера.
+  id: 1743
+  time: '2026-10-27T09:59:14.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5156
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Сырые пророки теперь могут давать доступ к связи Мансуса.
+  - type: Fix
+    message: Мыши-гули больше не могут откладывать яйца.
+  - type: Fix
+    message: Во время рывка больше нельзя говорить.
+  - type: Fix
+    message: >-
+      Щиты и защитные клинки еретиков больше не проигрывают звук блока несколько раз при нанесении урона владельцу.
+  - type: Tweak
+    message: У «Раненого Солдата» снижен урон и способность наносить раны тем, кто не является еретиком.
+  - type: Tweak
+    message: Урон от эффекта «Раненый Солдат» по самому еретику теперь нельзя заблокировать.
+  id: 1744
+  time: '2026-10-27T14:36:47.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5165
+- author: LuminalGPT
+  changes:
+  - type: Fix
+    message: >-
+      Вампиры теперь восстанавливаются при телепортации в логово, а само логово лечит их кости.
+  - type: Fix
+    message: Исправлено действие вознесения вампира, которое не расходовало кровь.
+  - type: Tweak
+    message: Высасывание крови вампиром стало в 2 раза смертоноснее.
+  id: 1745
+  time: '2026-10-27T15:37:05.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5140
+- author: NoElkaTheGod
+  changes:
+  - type: Fix
+    message: Би-зет больше не самый сильный яд во всей игре.
+  id: 1746
+  time: '2026-10-28T18:18:44.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5182
+- author: yglop
+  changes:
+  - type: Tweak
+    message: Культист Крови теперь может подготовить больше одного экземпляра одного и того же заклинания.
+  id: 1747
+  time: '2026-10-28T18:20:06.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5177
+- author: yglop
+  changes:
+  - type: Tweak
+    message: Облачение культа больше не увеличивает получаемый урон на 40%.
+  id: 1748
+  time: '2026-10-28T18:21:20.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5178
+- author: yglop
+  changes:
+  - type: Fix
+    message: Подготовка заклинаний и начертание рун больше не поражают обе руки культиста.
+  id: 1749
+  time: '2026-10-29T07:20:16.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5179
+- author: yglop
+  changes:
+  - type: Add
+    message: Добавлены новые варианты реактивной брони.
+  - type: Add
+    message: У всех вариантов реактивной брони появилась реакция на ЭМИ.
+  - type: Tweak
+    message: Дальность телепортации реактивной телепортационной брони снижена с 10 до 6.
+  - type: Fix
+    message: Стеклянный стол теперь действительно ранит тех, кого об него ударили.
+  id: 1750
+  time: '2026-10-29T09:16:13.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4816
+- author: Wizard25671
+  changes:
+  - type: Fix
+    message: У подлинных укреплённых доспехов Нар'Си исправлено сопротивление оглушению.
+  id: 1751
+  time: '2026-10-30T11:33:04.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5200
+- author: assripper.
+  changes:
+  - type: Add
+    message: У ксеноморфов улучшены спрайты.
+  id: 1752
+  time: '2026-10-30T12:13:14.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5190
+- author: Aviu
+  changes:
+  - type: Tweak
+    message: У реактивной брони убраны показатели бронирования.
+  - type: Add
+    message: >-
+      Реактивная броня теперь блокирует атаку в дополнение к эффекту ядра, если не отключена ЭМИ.
+  - type: Tweak
+    message: >-
+      Реактивная галлюциногенная броня теперь создаёт иллюзию владельца вместо прежнего эффекта.
+  - type: Tweak
+    message: Реактивная броня теперь считается контрабандой для всех, кроме СБ, командования и научного отдела.
+  id: 1753
+  time: '2026-10-30T12:31:45.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5197
+- author: yglop
+  changes:
+  - type: Fix
+    message: Исправлено вводившее в заблуждение описание этапа сборки основы реактивной брони.
+  id: 1754
+  time: '2026-10-30T16:28:44.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5199
+- author: TechnicFighter, LuminalGPT
+  changes:
+  - type: Tweak
+    message: Одержимые предметы теперь имеют столько же здоровья, сколько оживлённые.
+  - type: Tweak
+    message: Фантом теперь может вселиться в предмет за 450 очков вместо 666.
+  - type: Tweak
+    message: Фантом теперь может применять распад каждые 25 секунд вместо 40.
+  - type: Tweak
+    message: Фантом теперь может пугать каждые 5 секунд вместо 20.
+  - type: Tweak
+    message: Фантом теперь поглощает трупы за 6 секунд вместо 8.
+  - type: Tweak
+    message: У фантома теперь есть вторая жизнь.
+  - type: Tweak
+    message: Фантом больше не может вселяться в закреплённые предметы или оживлять их.
+  - type: Fix
+    message: Исправлена ошибка при вселении в предметы с запасом прочности.
+  - type: Fix
+    message: Фантомы и вампиры снова могут пользоваться рентгеновским зрением.
+  id: 1755
+  time: '2026-10-30T16:59:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5151
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Библия снова работает.
+  - type: Fix
+    message: Конструктам исправлены значки статуса, цели и роли.
+  - type: Fix
+    message: Конструкты теперь могут пользоваться руной телепортации.
+  - type: Tweak
+    message: Дверь культа больше не открывается от простого прикосновения.
+  - type: Add
+    message: >-
+      Святая вода теперь может снять обращение в Культ Крови. Удар ритуальным кинжалом отменяет этот эффект и выводит святую воду из организма культиста.
+  id: 1756
+  time: '2026-10-30T17:15:21.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5183
+- author: Aviu
+  changes:
+  - type: Remove
+    message: Убраны иллюзии зеркального щита.
+  - type: Tweak
+    message: Культ Крови снова может обращать людей в критическом состоянии.
+  id: 1757
+  time: '2026-10-31T11:52:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5218
+- author: TechnicFighter
+  changes:
+  - type: Tweak
+    message: Штурмовой киборг Синдиката теперь получает модуль киборга-оперативника.
+  - type: Tweak
+    message: Медицинский киборг Синдиката теперь получает оружейный модуль.
+  - type: Tweak
+    message: >-
+      В модуле дротикомёта медицинского киборга Синдиката появился дополнительный пустой флакон.
+  - type: Tweak
+    message: "Снижена цена медицинского киборга Синдиката: 300 -> 150."
+  - type: Tweak
+    message: "Снижена цена киборга-диверсанта Синдиката: 300 -> 150."
+  - type: Tweak
+    message: "Снижена цена штурмового киборга Синдиката: 375 -> 250."
+  - type: Fix
+    message: Медицинский киборг Синдиката теперь стерилен.
+  - type: Fix
+    message: >-
+      Медицинский киборг Синдиката теперь может оперировать через одежду.
+  id: 1758
+  time: '2026-11-01T01:36:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5223
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Исправлены неизлечимые повреждения костей и органов.
+  - type: Fix
+    message: Раны теперь заживают, даже если общий урон равен 0.
+  - type: Fix
+    message: Лечение органов одной части тела больше не лечит органы во всех остальных частях.
+  - type: Fix
+    message: Исправлен расчёт урона органам.
+  - type: Remove
+    message: Термический и электрический урон больше не повреждают органы.
+  id: 1759
+  time: '2026-11-01T01:41:01.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5211
+- author: Jacob-House
+  changes:
+  - type: Remove
+    message: Особенность станции «Отключение света» больше не выпадает.
+  id: 1760
+  time: '2026-11-01T13:39:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5220
+- author: yglop
+  changes:
+  - type: Add
+    message: Конструкты Культа Крови получили действия.
+  - type: Add
+    message: >-
+      Созидатель Культа Крови может частично лечить других конструктов, атакуя их.
+  - type: Tweak
+    message: Фантом Культа Крови стал быстрее.
+  - type: Tweak
+    message: Конструкты Культа Крови могут маневрировать в космосе.
+  id: 1761
+  time: '2026-11-01T15:13:40.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5181
+- author: LordZirconium
+  changes:
+  - type: Add
+    message: Теперь на каждой станции есть реактор.
+  id: 1762
+  time: '2026-11-01T20:09:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5174
+- author: Aviu
+  changes:
+  - type: Add
+    message: Культ Крови теперь может выпасть при обычном выборе режима.
+  id: 1763
+  time: '2026-11-02T02:22:47.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5214
+- author: Pi-tanium
+  changes:
+  - type: Tweak
+    message: Эгг-ног лечит кости.
+  id: 1764
+  time: '2026-11-02T06:47:42.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5162
+- author: NoElkaTheGod
+  changes:
+  - type: Fix
+    message: Капюшон брони еретика теперь позволяет пользоваться кислородным баллоном.
+  id: 1765
+  time: '2026-11-02T17:21:48.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5235
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Стеклянные куры больше не могут дублировать пустые свитки.
+  - type: Tweak
+    message: Теперь можно освящать только трупы игроков. Трупы гуманоидных НИП больше не подходят.
+  - type: Fix
+    message: Исправлены типы лазеров, не активировавшие триггер артефакта.
+  id: 1766
+  time: '2026-11-03T08:08:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5238
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Генокрад теперь имитирует Щит Разума сам, без импланта.
+  id: 1767
+  time: '2026-11-03T08:33:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5239
+- author: Thinbug0
+  changes:
+  - type: Add
+    message: >-
+      Добавлено событие «Гигантские грибы». Эти безобидные, но назойливые грибы постоянно выпускают споры.
+  id: 1768
+  time: '2026-11-03T08:36:30.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5084
+- author: yglop
+  changes:
+  - type: Add
+    message: Добавлена мутация грибошляпника в пластиковый гриб.
+  id: 1769
+  time: '2026-11-03T11:24:08.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5176
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Переработано изготовление пластика в химии. Теперь это 2 этапа с новым реагентом — этиленом.
+  - type: Tweak
+    message: Переработка этилена теперь даёт в 5 раз больше листов пластика за партию.
+  id: 1770
+  time: '2026-11-03T12:49:32.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5243
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Удалён слоп с Бетти.
+  id: 1771
+  time: '2026-11-03T15:14:54.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5246
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: Урон по выносливости от шокера снижен со 100 до 60.
+  - type: Fix
+    message: Исправлен урон электродубинки по выносливости. Удар через M1 теперь наносит 55 вместо 80.
+  id: 1772
+  time: '2026-11-03T16:36:26.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5184
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Ибупрофен теперь исцеляет 3.33 ед. физического урона в секунду вместо 6.66.
+  id: 1773
+  time: '2026-11-03T17:27:27.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5249
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: >-
+      Добавлены 3 новых воровских набора: Умельца, Беглеца и Химика.
+  - type: Tweak
+    message: >-
+      Изменено содержимое наборов взломщика, Синдиката, усыпителя и переговорщика. Все усилены, кроме набора Синдиката, который лишь немного изменён.
+  id: 1774
+  time: '2026-11-03T20:15:52.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5175
+- author: Wizard25671
+  changes:
+  - type: Add
+    message: Добавлены разумные гигантские споры, которые могут изредка появляться.
+  - type: Add
+    message: >-
+      Вдыхание фунгалина теперь вызывает дополнительные эффекты. Следите, чтобы фунгалин не попал в воздух.
+  id: 1775
+  time: '2026-11-04T08:48:31.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5266
+- author: TechnicFighter
+  changes:
+  - type: Tweak
+    message: В инвентарь администраторского призрака добавлено больше предметов.
+  id: 1776
+  time: '2026-11-04T10:17:33.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5268
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Фунгалин больше не ломает воздушную сигнализацию.
+  id: 1777
+  time: '2026-11-04T10:20:17.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5267
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: >-
+      Команда forcemap ослаблена. Больше не будет 6 раундов подряд на одной карте после того, как администратор однажды её назначил.
+  id: 1778
+  time: '2026-11-04T13:37:06.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5272
+- author: elNarehate
+  changes:
+  - type: Tweak
+    message: Научный отдел снова может производить вспышки для работы с теневыми аномалиями.
+  - type: Fix
+    message: Гермоперчатки робототехника теперь изолированы.
+  id: 1779
+  time: '2026-11-04T19:55:57.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5265
+- author: yglop
+  changes:
+  - type: Tweak
+    message: Святые арбузы защищают от магии.
+  id: 1780
+  time: '2026-11-05T11:58:37.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5192
+- author: Giltsmith
+  changes:
+  - type: Tweak
+    message: Снижен урон вариантов голопаразитов.
+  id: 1781
+  time: '2026-11-05T12:05:20.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5288
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Электронные схемы теперь поддерживают и дробные числа.
+  - type: Add
+    message: В электронные схемы добавлены тригонометрические функции и элементы возведения в степень.
+  - type: Tweak
+    message: Редактор схем теперь размещает новые элементы с учётом прокрутки.
+  id: 1782
+  time: '2026-11-05T15:09:05.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5289
+- author: Endothermix
+  changes:
+  - type: Fix
+    message: Исправлен урон лазерных пистолетов в ближнем бою.
+  id: 1783
+  time: '2026-11-05T21:29:08.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5294
+- author: elNarehate
+  changes:
+  - type: Fix
+    message: Флаконы с кровью и винтовки Мосина больше не дают очков ПNT.
+  - type: Fix
+    message: >-
+      Низкокачественная броня из хлама больше не увеличивает получаемый урон от взрывов.
+  - type: Fix
+    message: Ящики припасов больше не продаются со скидкой.
+  id: 1784
+  time: '2026-11-06T22:17:34.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5304
+- author: LordZirconium
+  changes:
+  - type: Remove
+    message: С шаттлов космической полиции убраны консоли системы опознавания.
+  id: 1785
+  time: '2026-11-07T08:34:30.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5291
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: Урон и движение больше не прерывают телепортацию абдуктора.
+  - type: Tweak
+    message: Цены биофабрикатора абдукторов снижены вдвое.
+  id: 1786
+  time: '2026-11-07T11:21:06.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5315
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Горячие топливные стержни теперь светятся, как металл при ковке.
+  - type: Fix
+    message: Исправлен расчёт теплообмена топливных стержней с окружающим воздухом.
+  id: 1787
+  time: '2026-11-08T15:50:24.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5313
+- author: NoElkaTheGod
+  changes:
+  - type: Tweak
+    message: Для выпадения революционеров теперь нужно 30 игроков вместо 20.
+  id: 1788
+  time: '2026-11-09T14:18:09.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5326
+- author: mrfoxv
+  changes:
+  - type: Add
+    message: Добавлен костюм EVA «Хамелеон» за 10 ТК.
+  id: 1789
+  time: '2026-11-09T17:13:58.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5275
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Культистам Крови теперь сообщают цель для жертвоприношения.
+  id: 1790
+  time: '2026-11-09T18:48:54.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5340
+- author: TechnicFighter
+  changes:
+  - type: Remove
+    message: Дроны-синтетики удалены.
+  id: 1791
+  time: '2026-11-09T22:40:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5343
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Чипы навыков больше не исчезают при извлечении, когда руки заняты.
+  id: 1792
+  time: '2026-11-09T22:49:53.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5344
+- author: Luminal
+  changes:
+  - type: Remove
+    message: Личность вампира больше не переносится в логово.
+  id: 1793
+  time: '2026-11-10T00:24:06.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5345
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: Базовый урон усиленного режима «Правосудия» снижен с 50 до 20.
+  id: 1794
+  time: '2026-11-10T06:38:22.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5346
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Нар'Си больше нельзя продать в переноске для питомцев.
+  id: 1795
+  time: '2026-11-11T01:30:45.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5351
+- author: yglop
+  changes:
+  - type: Fix
+    message: Машины революции теперь можно уничтожить.
+  id: 1796
+  time: '2026-11-11T13:44:40.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5353
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Абдукторы больше не могут оглушить цель за 1 нажатие, используя 2 чудо-шокера...
+  id: 1797
+  time: '2026-11-11T23:24:45.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5358
+- author: TechnicFighter
+  changes:
+  - type: Tweak
+    message: Фантом выпадает реже.
+  id: 1798
+  time: '2026-11-12T12:57:01.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5359
+- author: yglop
+  changes:
+  - type: Tweak
+    message: Показатель бронирования больше не влияет на цену предметов.
+  - type: Fix
+    message: Снижена неадекватная цена продажи стульев.
+  id: 1799
+  time: '2026-11-12T13:01:40.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5349
+- author: LordZirconium
+  changes:
+  - type: Tweak
+    message: Станция Marathon стала лучше.
+  id: 1800
+  time: '2026-11-12T22:29:32.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5352
+- author: LordZirconium
+  changes:
+  - type: Fix
+    message: Исправлен инженерный отдел станции Cluster.
+  id: 1801
+  time: '2026-11-13T01:09:35.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5363
+- author: LordZirconium
+  changes:
+  - type: Add
+    message: На Packed добавили реакторный слоп.
+  id: 1802
+  time: '2026-11-13T11:45:38.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5364
+- author: VictorJob
+  changes:
+  - type: Tweak
+    message: Изменены спрайты «Инспектора», кобуры и маркеров улик.
+  id: 1803
+  time: '2026-11-13T11:46:54.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5360
+- author: VictorJob
+  changes:
+  - type: Tweak
+    message: Изменены спрайты MK58 и пистолетных магазинов.
+  id: 1804
+  time: '2026-11-14T16:59:12.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5374
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Исправлена ошибка, из-за которой броня вообще ничего не делала.
+  id: 1805
+  time: '2026-11-14T16:59:19.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5375
+- author: LordZirconium
+  changes:
+  - type: Tweak
+    message: На станцию Omega добавлена генетика.
+  id: 1806
+  time: '2026-11-15T01:19:18.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5379
+- author: Wizard25671
+  changes:
+  - type: Tweak
+    message: Базовое сопротивление физическому урону у инопланетного лабораторного халата повышено до 30%.
+  - type: Fix
+    message: Инопланетному лабораторному халату добавлено недостающее сопротивление баллистическому урону.
+  id: 1807
+  time: '2026-11-15T01:21:10.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5377
+- author: Wizard25671
+  changes:
+  - type: Fix
+    message: Исправлено содержание фризиума в перцах. Теперь он содержится в перце чилли, а не в перце чили.
+  id: 1808
+  time: '2026-11-15T09:25:23.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5381
+- author: LordZirconium
+  changes:
+  - type: Tweak
+    message: На Amber расширена кухня.
+  - type: Tweak
+    message: На Cluster добавлена генетика.
+  - type: Tweak
+    message: На Packed добавлены голопады во всех нужных местах.
+  - type: Add
+    message: >-
+      На Oasis, Origin, Packed и Cog проведены линии подачи форона из атмосферного отдела к реактору.
+  id: 1809
+  time: '2026-11-16T20:38:02.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/5386

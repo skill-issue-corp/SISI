@@ -30,7 +30,7 @@ ent-GunSafeJudo = сейф с дзюдо
     .desc = { ent-GunSafeBaseSecure.desc }
 
 ent-GunSafeRiotLauncher = сейф для противоштурмовых пусковых установок
-    .desc = { ent-BaseTraumaGunSafe.desc }
+    .desc = { ent-GunSafeEmptyBlue.desc }
 
 ent-GunSafePhaser = сейф для фазеров
     .desc = { ent-BaseTraumaGunSafe.desc }

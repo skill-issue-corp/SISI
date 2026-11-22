@@ -1,5 +1,5 @@
-names-wraith-dataset-1 = Онсен
-names-wraith-dataset-2 = Люминал
+names-wraith-dataset-1 = Клод
+names-wraith-dataset-2 = Опус
 names-wraith-dataset-3 = Ксароу
 names-wraith-dataset-4 = Наэльш
 names-wraith-dataset-5 = Коурин

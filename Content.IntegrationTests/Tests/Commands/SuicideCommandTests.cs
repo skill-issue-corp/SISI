@@ -18,6 +18,7 @@ using Robust.Server.Player;
 using Robust.Shared.Console;
 using Robust.Shared.GameObjects;
 using Robust.Shared.Prototypes;
+using Content.Trauma.Shared.Silicon.Components; // inky
 
 namespace Content.IntegrationTests.Tests.Commands;
 
@@ -57,6 +58,7 @@ public sealed class SuicideCommandTests : GameTest
   - type: MaterialReclaimer";
     private static readonly ProtoId<TagPrototype> CannotSuicideTag = "CannotSuicide";
     private static readonly ProtoId<DamageTypePrototype> DamageType = "Slash";
+    private static readonly ProtoId<DamageTypePrototype> ShockDamageType = "Shock"; // inky
 
     public override PoolSettings PoolSettings => new PoolSettings
     {
@@ -218,7 +220,7 @@ public sealed class SuicideCommandTests : GameTest
     /// Run the suicide command while the player is holding an execution-capable weapon
     /// </summary>
     [Test]
-    [Explicit] // Trauma - /suicide is disabled // inky - /suicide is enabled // SIS-Explicit_Test
+    // [Explicit] // Trauma - /suicide is disabled // inky - /suicide is enabled
     public async Task TestSuicideByHeldItem()
     {
         var pair = Pair;
@@ -272,12 +274,23 @@ public sealed class SuicideCommandTests : GameTest
             consoleHost.GetSessionShell(playerMan.Sessions.First()).ExecuteCommand("suicide");
             var lethalDamageThreshold = mobThresholdsComp.Thresholds.Keys.Last();
 
+            // inky
+            var expectedDamageType = entManager.HasComponent<SiliconComponent>(player)
+                ? ShockDamageType
+                : DamageType;
+            var damage = damageableSystem.GetAllDamage((player, damageableComp));
+            // /inky
+
             Assert.Multiple(() =>
             {
                 Assert.That(mobStateSystem.IsDead(player, mobStateComp));
                 Assert.That(entManager.TryGetComponent<GhostComponent>(mindComponent.CurrentEntity, out var ghostComp) &&
                             !ghostComp.CanReturnToBody);
-                Assert.That(damageableSystem.GetAllDamage((player, damageableComp)).DamageDict["Slash"], Is.EqualTo(lethalDamageThreshold));
+                // inky edit
+                Assert.That(damage.DamageDict.GetValueOrDefault(expectedDamageType),
+                    Is.EqualTo(lethalDamageThreshold),
+                    $"Expected lethal {expectedDamageType} damage. Actual damage: {damageableSystem.ToPrettyString(damage)}");
+                // /inky edit
             });
         });
     }

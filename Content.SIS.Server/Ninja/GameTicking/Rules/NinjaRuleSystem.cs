@@ -1,5 +1,6 @@
 using System.Linq;
-using Content.Server.Antag;
+using Content.Shared.Antag;
+using Content.Shared.GameTicking.Rules;
 using Content.Server.GameTicking.Rules;
 using Content.Shared.GameTicking.Components;
 using Content.Shared.Station.Components;

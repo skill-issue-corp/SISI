@@ -1,6 +1,7 @@
 using Content.Inky.Common.CCVar;
 using Content.Inky.Server.Fun.Components.Rules;
 using Content.Server.GameTicking;
+using Content.Shared.GameTicking;
 using Robust.Shared.Configuration;
 using Robust.Shared.Random;
 
@@ -12,11 +13,7 @@ public sealed partial class FunnyThingsSystem : EntitySystem
     [Dependency] private IRobustRandom _gambling = default!;
     [Dependency] private GameTicker _gameTicker = default!;
 
-    public override void Initialize()
-    {
-        SubscribeLocalEvent<RoundStartAttemptEvent>(OnRoundStartAttempt);
-    }
-
+    [SubscribeLocalEvent]
     private void OnRoundStartAttempt(RoundStartAttemptEvent ev)
     {
         if (ev.Forced) // integration tests force round starts

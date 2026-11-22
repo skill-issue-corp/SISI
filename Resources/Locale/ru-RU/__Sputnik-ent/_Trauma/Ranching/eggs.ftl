@@ -1,4 +1,4 @@
-ent-BaseRanchingEgg = яйцо
+ent-BaseRanchingEgg = оплодотворённое яйцо
     .desc = { ent-FoodEggBase.desc }
 
 ent-WhiteEgg = { ent-BaseRanchingEgg }
@@ -56,10 +56,6 @@ ent-PigeonEggInedible = яйцо
 ent-CandyEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
     .suffix = Конфетное
-
-ent-SeaEgg = { ent-BaseRanchingEgg }
-    .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Морское
 
 ent-GoldenEgg = золотое куриное яйцо
     .desc = Очень блестящее яйцо!

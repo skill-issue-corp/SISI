@@ -13,6 +13,9 @@ ent-TouchSpellMansusBlade = { ent-TouchSpellMansus }
 ent-TouchSpellMansusCosmos = { ent-TouchSpellMansus }
     .desc = { ent-TouchSpellMansus.desc }
 
+ent-TouchSpellMansusRust = { ent-TouchSpellMansus }
+    .desc = { ent-TouchSpellMansus.desc }
+
 ent-TouchSpellMansusFlesh = { ent-TouchSpellMansus }
     .desc = { ent-TouchSpellMansus.desc }
 

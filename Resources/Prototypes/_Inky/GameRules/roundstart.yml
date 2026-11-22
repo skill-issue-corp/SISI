@@ -1,10 +1,10 @@
 - type: entity
   parent: BaseGameRule
-  id: BaseWerewolfRule # SIS | Werewolf
+  id: BaseWerewolfRule
   components:
   - type: WerewolfRule
   - type: GameRule
-    minPlayers: 20 # Trauma, was 20
+    minPlayers: 20
   - type: AntagPlayerEffects
     effects:
     - !type:NestedEffect
@@ -17,8 +17,20 @@
         min: 2
         max: 5
       playerRatio: 12
-  # SIS-Start
   - type: AntagObjectives
     objectives:
     - EscapeWerewolfShuttleObjective
-  # SIS-End
+
+- type: entity
+  parent: [ BaseRoundstartAntagRule, BaseWerewolfRule ]
+  id: WerewolfRoundstart
+  components:
+  - type: AntagSelection
+    lateJoinAdditional: true
+    antags:
+    - !type:LinearAntagCount
+      proto: Werewolf
+      range:
+        min: 2
+        max: 5
+      playerRatio: 12

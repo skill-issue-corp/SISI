@@ -1,18 +1,7 @@
 #!/usr/bin/env python3
-"""Проверяет полноту и целостность перевода участка ченджлога.
+"""Check YAML structure, untranslated English and message-only diffs.
 
-Проверки:
-  1. Файл парсится как YAML; число записей совпадает с числом строк "- author:".
-  2. Ключи заголовка (всё до первой записи) на месте.
-  3. Во всём непрерывном участке between PR=from и PR=to не осталось
-     непереведённого английского (кроме имён собственных/аббревиатур/URL).
-  4. git diff затрагивает только message и продолжения блочных скаляров.
-
-Использование:
-    python3 verify.py <file> <from> <to> [доп_разрешённые_слова ...]
-
-Код возврата 0 — всё хорошо, 1 — найдены проблемы.
-"""
+Usage: python3 verify.py <file> <from> <to> [allowed_words ...]"""
 
 import re
 import subprocess
@@ -40,7 +29,7 @@ def check_region(path, frm, to, allow):
     first, last = find_span(entries, frm, to)
     problems = []
     if first is None or last is None:
-        return [f"PR {frm} или PR {to} не найдены"]
+        return [f"PR {frm} or PR {to} missing"]
     if first > last:
         first, last = last, first
     for i in range(first, last + 1):
@@ -52,7 +41,7 @@ def check_region(path, frm, to, allow):
             ]
             if words:
                 problems.append(
-                    f"PR {pr_of(e)} id={e.get('id')}: английский остался: "
+                    f"PR {pr_of(e)} id={e.get('id')}: remaining English: "
                     f"{words} :: {msg}"
                 )
     return problems
@@ -63,13 +52,13 @@ def check_structure(path):
     try:
         data, entries = load_entries(path)
     except Exception as ex:  # noqa: BLE001
-        return [f"YAML не парсится: {ex}"]
+        return [f"Invalid YAML: {ex}"]
 
     raw = read_lines(path)
     author_lines = sum(1 for l in raw if l.startswith("- author:"))
     if len(entries) != author_lines:
         problems.append(
-            f"число записей YAML ({len(entries)}) != число строк '- author:' "
+            f"YAML entry count ({len(entries)}) != count of lines matching '- author:' "
             f"({author_lines})"
         )
 
@@ -77,13 +66,13 @@ def check_structure(path):
     header = [l for l in raw[: bounds[1]] if l.strip()]
     if isinstance(data, dict):
         if "Entries" not in data:
-            problems.append("в заголовке пропал ключ 'Entries'")
+            problems.append("header missing key 'Entries'")
     for l in header:
         key = l.split(":", 1)[0]
         if key and key not in ("Entries",):
-            # ключ заголовка должен присутствовать в распарсенном словаре
+            # Check each header key in the parsed mapping
             if isinstance(data, dict) and key not in data:
-                problems.append(f"в заголовке пропал ключ '{key}'")
+                problems.append(f"header missing key '{key}'")
     return problems
 
 
@@ -109,7 +98,7 @@ def check_git_diff(path):
             continue
         if body.startswith("      "):
             continue
-        problems.append(f"git diff затронул не-message строку: {line}")
+        problems.append(f"git diff changed a non-message line: {line}")
     return problems
 
 
@@ -126,11 +115,11 @@ def main():
     problems += check_git_diff(path)
 
     if problems:
-        print(f"ПРОБЛЕМЫ ({len(problems)}):")
+        print(f"PROBLEMS ({len(problems)}):")
         for p in problems:
             print(" -", p)
         return 1
-    print(f"OK: {path}, участок {frm}..{to} переведён полностью")
+    print(f"OK: {path}, span {frm}..{to} fully translated")
     return 0
 
 

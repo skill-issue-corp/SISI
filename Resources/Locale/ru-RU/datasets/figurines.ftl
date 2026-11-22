@@ -118,6 +118,7 @@ figurines-scientist-6 = Аномалия взорвалась!
 
 # Security
 
+# Trauma - Space Law -> Corporate Law
 figurines-hos-1 = Корпоративный закон? Что?
 figurines-hos-2 = Застрелить клоуна.
 figurines-hos-3 = Да, я застрелил клоуна. Нет, я не жалею об этом.
@@ -135,7 +136,8 @@ figurines-security-2 = Вы нарушили статью 1984.
 figurines-security-3 = Всякий раз, как мне становится скучно, я использую клоуна в качестве мишени.
 figurines-security-4 = У тебя есть два права: молчать и поплакать об этом.
 figurines-security-5 = Harmbaton? It sure as hell harms!
-figurines-security-6 = Космической закон? Никогда о таком не слышал.
+# Trauma - Space Law -> Corporate Law
+figurines-security-6 = Корпоративный закон? Никогда о таком не слышал.
 figurines-security-7 = Случайный обыск. Сумку.
 figurines-security-8 = Люблю пончики.
 figurines-security-9 = Грейтайдни это, ублюдок.
@@ -223,7 +225,8 @@ figurines-janitor-9 = Ещё один день, ещё одно тело.
 figurines-lawyer-1 = Лучше звоните Cолу!
 figurines-lawyer-2 = Протестую!
 figurines-lawyer-3 = Вы знали, что у вас есть права?
-figurines-lawyer-4 = Космический закон говорит!
+# Trauma - Space Law -> Corporate Law
+figurines-lawyer-4 = По корпоративному закону!
 figurines-lawyer-5 = Сначала подпишите контракт.
 figurines-lawyer-6 = Мой клиент невиновен!
 figurines-lawyer-7 = Я подаю в суд.

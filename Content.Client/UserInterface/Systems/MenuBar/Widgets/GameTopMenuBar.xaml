@@ -115,5 +115,5 @@
         MinSize="42 64"
         HorizontalExpand="True"
         AppendStyleClass="{x:Static style:StyleClass.ButtonOpenLeft}"
-        /> <!-- Trauma - Replaced a-help loc --> <!-- SIS-Mentor_Remove | ToolTip="{Loc 'ui-options-function-open-mentor'}" -->
+        />
 </widgets:GameTopMenuBar>

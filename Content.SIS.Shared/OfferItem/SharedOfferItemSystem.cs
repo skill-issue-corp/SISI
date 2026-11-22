@@ -4,6 +4,7 @@ using Content.Shared.Hands.EntitySystems;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Interaction;
 using Content.Shared.Popups;
+using Robust.Shared.Prototypes;
 using Robust.Shared.Timing;
 
 namespace Content.SIS.Shared.OfferItem;
@@ -15,8 +16,7 @@ public abstract partial class SharedOfferItemSystem : EntitySystem
     [Dependency] private SharedPopupSystem _popup = default!;
     [Dependency] private IGameTiming _timing = default!;
 
-    [ValidatePrototypeId<AlertPrototype>]
-    protected const string OfferAlert = "Offer";
+    protected static readonly ProtoId<AlertPrototype> OfferAlert = "Offer";
 
     public override void Initialize()
     {

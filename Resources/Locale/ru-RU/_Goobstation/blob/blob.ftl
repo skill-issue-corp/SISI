@@ -1,37 +1,12 @@
-# SIS-Empty_Entity_File Start
-# ent-SpawnPointGhostBlob = Blob spawner
-#     .suffix = DEBUG, Ghost Role Spawner
-#     .desc = { ent-MarkerBase.desc }
-# ent-MobBlobPod = Blob Drop
-#     .desc = An ordinary blob fighter.
-# ent-MobBlobBlobbernaut = Blobbernaut
-#     .desc = An elite blob fighter.
-# ent-BaseBlob = basic blob.
-#     .desc = { "" }
-# ent-NormalBlobTile = Regular Tile Blob
-#     .desc = An ordinary part of the blob required for the construction of more advanced tiles.
-# ent-CoreBlobTile = Blob Core
-#     .desc = The most important organ of the blob. By destroying the core, the infection will cease.
-# ent-FactoryBlobTile = Blob Factory
-#     .desc = Spawns Blob Drops and Blobbernauts over time.
-# ent-ResourceBlobTile = Resource Blob
-#     .desc = Produces resources for the blob.
-# ent-NodeBlobTile = Blob Node
-#     .desc = A mini version of the core that allows you to place special blob tiles around itself.
-# ent-StrongBlobTile = Strong Blob Tile
-#     .desc = A reinforced version of the regular tile. It does not allow air to pass through and protects against brute damage.
-# ent-ReflectiveBlobTile = Blob Reflective Tiles
-#     .desc = It reflects lasers, but does not protect against brute damage as well.
-#     .desc = { "" }
-# SIS-Empty_Entity_File End
 objective-issuer-blob = Блоб
-
 
 ghost-role-information-blobbernaut-name = Блоббернаут
 ghost-role-information-blobbernaut-description = Вы — блоббернаут. Вы должны защищать ядро блоба. Используйте + или +e в чате, чтобы говорить в Коллективный разум Блоба.
+ghost-role-information-blobbernaut-rules = Вы антагонист, защищайте ядро блоба!
 
 ghost-role-information-blob-name = Блоб
 ghost-role-information-blob-description = Вы — инфекция Блоба. Поглощайте станцию.
+ghost-role-information-blob-rules = Вы антагонист, уничтожьте станцию!
 
 roles-antag-blob-name = Блоб
 roles-antag-blob-objective = Достигните критической массы.
@@ -44,7 +19,6 @@ blob-target-factory-blob-invalid = Неверный тип блоба, выбе�
 blob-target-node-blob-invalid = Неверный тип блоба, выберите узловой блоб.
 blob-target-close-to-resource = Слишком близко к другому ресурсному блобу.
 blob-target-nearby-not-node = Поблизости нет узлового или ресурсного блоба.
-blob-target-close-to-node = Слишком близко к другому узлу.
 blob-target-already-produce-blobbernaut = Эта фабрика уже произвела блоббернаута.
 blob-cant-split = Вы не можете разделить ядро блоба.
 blob-not-have-nodes = У вас нет узлов.

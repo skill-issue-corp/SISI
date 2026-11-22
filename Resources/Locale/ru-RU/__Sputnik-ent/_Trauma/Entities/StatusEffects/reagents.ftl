@@ -1,6 +1,3 @@
-ent-TriclorSlowdownStatusEffect = замедление от триклора
-    .desc = { ent-StatusEffectSlowdown.desc }
-
 ent-SarinSlowdownStatusEffect = замедление от зарина
     .desc = { ent-StatusEffectSlowdown.desc }
 
@@ -11,9 +8,6 @@ ent-OleoresinSlowdownStatusEffect = замедление от олеорезин
     .desc = { ent-StatusEffectSlowdown.desc }
 
 ent-FentanylSlowdownStatusEffect = замедление от фентанила
-    .desc = { ent-StatusEffectSlowdown.desc }
-
-ent-AmnestizineSlowdownStatusEffect = замедление от амнестизина
     .desc = { ent-StatusEffectSlowdown.desc }
 
 ent-AranespStatusEffect = ускорение от аранеспа

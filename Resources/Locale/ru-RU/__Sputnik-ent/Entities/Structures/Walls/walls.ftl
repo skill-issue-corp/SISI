@@ -21,7 +21,7 @@ ent-WallMeat = мясная стена
     .desc = Липко.
 
 ent-WallCult = стена культа
-    .desc = { ent-BaseWall.desc }
+    .desc = Не выпускает культистов и не пускает экипаж внутрь.
 
 ent-WallDebug = debug wall
     .desc = { ent-BaseWall.desc }

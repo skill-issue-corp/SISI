@@ -9,7 +9,7 @@ namespace Content.SIS.Shared.Surgery;
 
 public sealed partial class SIS_SharedSurgerySystem
 {
-    [Dependency] private SharedSurgerySystem _surgerySystem = default!;
+    [Dependency] private SurgerySystem _surgerySystem = default!;
     [Dependency] private SharedCorticalBorerSystem _corticalBorer = default!;
 
     private void InitializeSteps()

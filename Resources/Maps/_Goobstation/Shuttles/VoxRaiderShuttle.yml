@@ -1055,7 +1055,7 @@ entities:
       pos: -1.5,-5.5
       parent: 1
     - type: FaxMachine
-      name: Ударник # RU-Localization
+      name: Striker
 - proto: filingCabinetRandom
   entities:
   - uid: 172

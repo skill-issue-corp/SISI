@@ -21,3 +21,6 @@ ent-BorgModuleSyndicateSurgery = модуль борга-хирурга
 
 ent-BorgModuleSyndicateRescue = модуль борга-спасателя
     .desc = { ent-BaseBorgModuleSyndicate.desc }
+
+ent-BorgModuleAdvancedOmniSurgery = продвинутый модуль хирургического мультиинструмента
+    .desc = { ent-BaseBorgModuleMedical.desc }

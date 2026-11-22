@@ -3,3 +3,6 @@ language-Codespeak-description = Секретный код, который дл�
 
 language-Miltech-name = Милтех
 language-Miltech-description = Секретный код, который фабрики биооружия используют для отдачи приказов своим созданиям.
+
+language-Zombish-name = Зомбояз
+language-Zombish-description = Невнятное мычание. Мозги...

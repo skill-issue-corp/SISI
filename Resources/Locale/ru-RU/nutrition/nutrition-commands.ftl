@@ -1,10 +1,12 @@
-cmd-nutrition-error-player = Вы не можете использовать эту команду, если не являетесь игроком.
-cmd-nutrition-error-entity = Вы не можете использовать эту команду без сущности.
-cmd-nutrition-error-component = У вашей сущности отсутствует компонент { $comp }.
-cmd-hungry-desc = вызвать голод
-cmd-hungry-help = устанавливает уровень сытости на Голодание
-cmd-setnutrit-desc = изменить сытость и жажду
-cmd-setnutrit-help = устанавливает голод или жажду на один из заданных порогов
-cmd-setnutrit-error-invalid-threshold = некорректный { $thresholdType } `{ $thresholdString }`
-cmd-thirsty-desc = вызвать жажду
-cmd-thirsty-help = устанавливает уровень жажды на Засуха
+cmd-nutrition-satiation-need = потребность «{$satiation}»
+
+cmd-setsatiation-desc = Задаёт уровень вашей потребности в насыщении.
+cmd-setsatiation-help = Задаёт указанной потребности в насыщении указанный порог.
+
+cmd-nutrition-setsatiation-prototype-error = Недопустимый тип насыщения \"{$satiation-proto-id}\"
+cmd-nutrition-setsatiation-no-matching-key-error = Неизвестный ключ \"{$key}\" для типа насыщения \"{$satiation-proto-id}\"
+cmd-nutrition-setsatiation-hint-key = Ключ Уровня Насыщения
+cmd-nutrition-setsatiation-hint-max-value = Максимальное Значение
+
+cmd-unsatiate-desc = Доводит ваши потребности в насыщении до критического уровня.
+cmd-unsatiate-help = Задаёт указанным потребностям в насыщении критический порог «desperate». Затрагивает указанные типы насыщения или все типы, если ни один не указан.

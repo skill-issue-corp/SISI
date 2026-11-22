@@ -1,3 +1,3 @@
-ent-OptionsVisualizerTest = { "" }
-    .suffix = DEBUG
+ent-OptionsVisualizerTest = OptionsVisualizerTest
     .desc = { "" }
+    .suffix = DEBUG

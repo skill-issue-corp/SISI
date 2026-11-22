@@ -32,7 +32,7 @@ highlights-paramedic = Парамедик, "Парамед", Доктор, "До
 highlights-scientist = Ученый, Наука, "НИО", Робототехника, Робототехник, "Робо"
 highlights-researchassistant = Научный ассистент, Наука, "Науч", "НИР", "НИОКР"
 
-# Civilian
+# Service
 highlights-bartender = Бармен, "Бар"
 highlights-botanist = Ботаник, Ботаника, Гидропоника
 highlights-chaplain = Священник, Святоша
@@ -43,7 +43,6 @@ highlights-lawyer = АВД, Адвокат
 highlights-librarian = Библиотекарь, Библиотека
 highlights-mime = Мим
 highlights-musician = Музыкант, "Музыка", Театр, Сервис, "Серв"
-highlights-passenger = Ассистент, Грейтайд
 highlights-serviceworker = Работник сервиса, Сервис, "Серв"
 
 # Station-specific
@@ -53,3 +52,6 @@ highlights-psychologist = Психолог, Психология
 # Silicon
 highlights-borg = Киборг, Синтетик, Борг, Робототехника, "Робот"
 highlights-stationai = Станционный ИИ, Синтетик, "ИИ", "сИИ"
+
+# Civilian
+highlights-passenger = Ассистент, Грейтайд

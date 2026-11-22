@@ -4,6 +4,10 @@ ent-BaseNuclearReactor = ядерный реактор
 ent-NuclearReactorCrew = { ent-BaseNuclearReactor }
     .desc = { ent-BaseNuclearReactor.desc }
 
+ent-NuclearReactorCrewRunning = { ent-NuclearReactorCrew }
+    .desc = { ent-NuclearReactorCrew.desc }
+    .suffix = Работает
+
 ent-NuclearReactorEmpty = { ent-NuclearReactorCrew }
     .desc = { ent-NuclearReactorCrew.desc }
     .suffix = Пустой

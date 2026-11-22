@@ -1,6 +1,18 @@
 ent-BasePlushie = { ent-SolutionFood }
     .desc = { ent-SolutionFood.desc }
 
+ent-BasePlushieGinormous = { ent-BasePlushie }
+    .desc = { ent-BasePlushie.desc }
+
+ent-BasePlushieNormal = { ent-BasePlushie }
+    .desc = { ent-BasePlushie.desc }
+
+ent-BasePlushieSmall = { ent-BasePlushie }
+    .desc = { ent-BasePlushie.desc }
+
+ent-BasePlushieTiny = { ent-BasePlushie }
+    .desc = { ent-BasePlushie.desc }
+
 ent-PlushieThrongler = плюшевый чамблер
     .desc = Мягкая игрушка, напоминающая грузовым техникам о том, чего у них больше нет.
 

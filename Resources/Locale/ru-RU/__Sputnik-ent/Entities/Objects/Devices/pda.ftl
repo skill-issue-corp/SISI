@@ -143,8 +143,13 @@ ent-AtmosPDA = КПК атмос-техника
 ent-ClearPDA = прозрачный КПК
     .desc = На 99 и 44/100 процента чистый пластик.
 
+ent-PrisonerPDA = { ent-ClearPDA }
+    .desc = { ent-ClearPDA.desc }
+    .suffix = Заключенный
+
 ent-VisitorPDA = { ent-ClearPDA }
     .desc = { ent-ClearPDA.desc }
+    .suffix = Посетитель
 
 ent-SyndiPDA = КПК синдиката
     .desc = Ладно, время быть продуктивным членом... о, круто, я плохой парень, пора убивать людей!
@@ -238,3 +243,4 @@ ent-WizardPDA = КПК волшебника
 
 ent-ScurretPDA = { ent-ClearPDA }
     .desc = Временный КПК, выдаваемый временным сотрудникам — слизнекотикам. Не делает почти ничего. Вава!
+    .suffix = Слизнекотик

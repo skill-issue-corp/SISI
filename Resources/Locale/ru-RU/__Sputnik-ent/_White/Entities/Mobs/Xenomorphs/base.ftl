@@ -8,8 +8,5 @@ ent-BaseMobXenomorphDungeon = { "" }
     .suffix = Подземелье
     .desc = { "" }
 
-ent-BaseXenoTailed = { "" }
-    .desc = { "" }
-
 ent-BaseXenomorphGhostRole = { "" }
     .desc = { "" }

@@ -9,6 +9,12 @@ public sealed partial class GreetingEntry
     public SoundSpecifier? Sound;
 
     [DataField]
+    public string? Text;
+
+    [DataField]
+    public Color? Color;
+
+    [DataField]
     public GreetingTheme? Theme;
 
     [DataField]

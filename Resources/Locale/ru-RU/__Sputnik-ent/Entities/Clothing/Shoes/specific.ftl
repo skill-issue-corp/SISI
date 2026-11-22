@@ -25,9 +25,6 @@ ent-ClothingShoesSpaceNinja = ботинки космического ниндз
 ent-ClothingShoesSwat = ботинки спецназа
     .desc = Когда хотите задать жару.
 
-ent-ClothingShoesWizard = обувь волшебника
-    .desc = Пара волшебных туфель.
-
 ent-ClothingShoesChameleon = чёрные туфли
     .desc = Стильные чёрные туфли.
     .suffix = Хамелеон

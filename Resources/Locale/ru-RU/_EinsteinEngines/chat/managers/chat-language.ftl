@@ -1,37 +1,20 @@
 chat-language-Universal-name = Межгалактический
 chat-language-Psychomantic-name = Психомантия
-chat-language-Bubblish-name = Булькяз
+chat-language-Bubblish-name = Уб'Мола'Р-иен.
 chat-language-RootSpeak-name = Корнеречь
-chat-language-Nekomimetic-name = Неко
-chat-language-Draconic-name = Синта'Унати
+chat-language-Draconic-name = Имперский Драконский
 chat-language-Azaziba-name = Синта'Азазиба
-chat-language-SolCommon-name = Сол-Коммон
-chat-language-NovuNederic-name = Ново-Недирик
-chat-language-TauCetiBasic-name = Бейсик
+chat-language-SolCommon-name = Землеген
+chat-language-NovuNederic-name = Терралингва
+chat-language-TauCetiBasic-name = Корпоративный Стандарт
 chat-language-Tradeband-name = Трейдбэнд
-chat-language-Freespeak-name = Вольный
-chat-language-Elyran-name = Элиранский
-chat-language-Canilunzt-name = Канилунцт
-chat-language-Moffic-name = Моффик
+chat-language-Freespeak-name = Окраинный-Жаргон
+chat-language-Elyran-name = Арабский Сунны
+chat-language-Moffic-name = Объединённый Гудфийский
 chat-language-RobotTalk-name = Бинарник
 chat-language-Calcic-name = Кальцик
-chat-language-ValyrianStandard-name = Валирийский
-chat-language-Sign-name = Жесты
-chat-language-Marish-name = Мариш
-chat-language-Chittin-name = Читин
 chat-language-Xeeplian-name = Ксиплианский
-
-# Дополнительные языки
-
-chat-language-Schechi-name = Шшечи
 chat-language-NewKinPidgin-name = Ка'ракк
-chat-language-NalRasan-name = Наль'расаан
-chat-language-SiikTajr-name = Сиик'таджр
-chat-language-SiikMaas-name = Сиик'маас
-chat-language-YaSsa-name = Я'сса
-chat-language-Delvahii-name = Дельвахии
-chat-language-Shadowmind-name = Тенемыслие
-chat-language-Qiilour-name = Киилур
 
 # Animal Languages
 
@@ -53,4 +36,3 @@ chat-language-Penguin-name = Пингвинный
 chat-language-Pig-name = Свиной
 chat-language-Sheep-name = Овечий
 chat-language-Xeno-name = Ксенский
-chat-language-DroneTalk-name = Дроновый

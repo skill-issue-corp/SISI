@@ -61,7 +61,7 @@ ent-SkillChipCombatEducation = MRAM/HPYS-чип (боевое обучение �
 ent-SkillChipEchelonEducation = MRAM/HPYS-чип (обучение клона эшелона)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
-ent-SkillChipMagLit = MRAM-чип (воспоминания культиста)
+ent-SkillChipChaplain = MRAM-чип (Воспоминания Священника)
     .desc = { ent-BaseSkillChipMRAM.desc }
 
 ent-SkillChipJanitor = MRAM-чип (воспоминания уборщика)

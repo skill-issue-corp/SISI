@@ -1,4 +1,4 @@
-"""Общие утилиты для скриптов перевода ченджлогов SS14."""
+"""Shared SS14 changelog utilities."""
 
 import re
 
@@ -23,7 +23,7 @@ def pr_of(entry):
 
 
 def find_span(entries, frm, to):
-    """Индексы первой записи с PR=frm и последней с PR=to в порядке файла."""
+    """Find the first starting PR and last ending PR in file order."""
     first = last = None
     for i, e in enumerate(entries):
         n = pr_of(e)
@@ -42,7 +42,7 @@ def read_lines(path):
 
 
 def entry_bounds(lines):
-    """Границы блоков: [0]..[первый author] — заголовок, затем записи."""
+    """Return header and entry boundaries in line order."""
     starts = [i for i, l in enumerate(lines) if l.startswith("- author:")]
     return [0] + starts + [len(lines)]
 

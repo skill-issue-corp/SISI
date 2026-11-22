@@ -5,3 +5,7 @@ ent-HolopadScienceXenobiology = { ent-Holopad }
 ent-HolopadScienceGenetics = { ent-Holopad }
     .desc = { ent-Holopad.desc }
     .suffix = Генетика
+
+ent-HolopadEngineeringReactor = { ent-Holopad }
+    .desc = { ent-Holopad.desc }
+    .suffix = Реактор

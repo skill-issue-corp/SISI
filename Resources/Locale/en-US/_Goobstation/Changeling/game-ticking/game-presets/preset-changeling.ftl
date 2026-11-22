@@ -25,6 +25,10 @@ changeling-role-greeting-desc =
     • [color={$hl1}]Эволюция:[/color] покупайте мутации в меню эволюции: боевые клинки, хитиновую броню, регенерацию и химические железы.
     • [color={$hl1}]Скрытность:[/color] вы можете в любой момент изменить свой облик и голос на любой из поглощенных образцов. Не дайте раскрыть себя!
 # SIS-End
+changeling-role-greeting-trauma =
+    You are a changeling who has absorbed and taken the form of {$name}!
+    Your objectives are listed in the character menu.
+    Absorb, shapeshift and evolve to complete them!
 
 changeling-role-greeting-short =
     You are a changeling who has absorbed and taken the initial form of {$name}.

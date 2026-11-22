@@ -1,5 +1,5 @@
-ent-WeaponPistolLiberator = либерейтор
-    .desc = Дерьмовый маленький пистолет, который вмещает всего 6 патронов и заряжается вручную.
+ent-WeaponPistolLiberator = Либерейтор
+    .desc = Дрянной маленький револьвер. Вмещает всего 6 патронов и заряжается вручную.
     .suffix = Полный
 
 ent-WeaponPistolLiberatorEmpty = { ent-WeaponPistolLiberator }

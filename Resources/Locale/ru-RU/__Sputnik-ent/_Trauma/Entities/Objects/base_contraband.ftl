@@ -27,3 +27,6 @@ ent-BaseLibrarianContraband = { ent-BaseRestrictedContraband }
 
 ent-BaseBotanyContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
+
+ent-BaseBloodContraband = { "" }
+    .desc = { "" }

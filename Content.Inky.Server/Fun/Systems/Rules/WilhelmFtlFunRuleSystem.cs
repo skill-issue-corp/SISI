@@ -1,5 +1,6 @@
 using Content.Inky.Server.Fun.Components.Rules;
 using Content.Server.GameTicking.Rules;
+using Content.Shared.GameTicking.Rules;
 using Content.Shared.Humanoid;
 using Content.Shared.Shuttles.Components;
 using Robust.Server.Audio;
@@ -16,13 +17,7 @@ public sealed partial class WilhelmFtlFunRuleSystem : GameRuleSystem<WilhelmFtlF
 
     private static readonly SoundSpecifier Sound = new SoundPathSpecifier("/Audio/Voice/Human/wilhelm_scream.ogg");
 
-    public override void Initialize()
-    {
-        base.Initialize();
-
-        SubscribeLocalEvent<HumanoidProfileComponent, EntParentChangedMessage>(OnParentChanged);
-    }
-
+    [SubscribeLocalEvent]
     private void OnParentChanged(EntityUid uid, HumanoidProfileComponent comp, ref EntParentChangedMessage args)
     {
         if (!_fun.CheckRule<WilhelmFtlFunRuleComponent>())

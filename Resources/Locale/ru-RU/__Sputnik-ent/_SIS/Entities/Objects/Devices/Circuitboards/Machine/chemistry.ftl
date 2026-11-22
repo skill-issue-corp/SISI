@@ -1,3 +1,2 @@
-ent-ColdplateMachineCircuitboard = электроохладитель (машинная плата)
-    .desc = Печатная плата для электроохладителя.
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-ColdplateMachineCircuitboard = машинная плата электрического охладителя
+    .desc = Печатная плата для электрического охладителя.

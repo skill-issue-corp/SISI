@@ -9,6 +9,11 @@
 # Table: null
 
 # inky
+# 2026-10-26
+FoodMango: null
+SpawnMobHumanChangelingArmor: null
+SpawnMobHumanNinjaArmor: null
+# inky
 # 2026-08-29
 # kill skills
 SkillChipHeavy: null
@@ -86,13 +91,16 @@ PosterLegitHelio: null
 # 2026-01-07 # inky - kys
 # GunSafeDisabler: GunSafePhaser
 # WeaponDisabler: WeaponLaserSidearm
-# GunSafePhaser: GunSafeDisabler # SIS
+GunSafePhaser: GunSafeDisabler
 WeaponLaserSidearm: WeaponDisabler
 
 # 2026-01-08 back to wizden mail
 MailTeleporter: CargoMailTeleporter
 MailMetricsCartridge: null
 ComputerShuttleSalvage: ComputerShuttleMiningLavaland # 2 maps had this for some reason...
+
+# 2026-01-10
+ChemDispenser: EnergyChemDispenser
 
 # 2026-01-19 Goob reference purge
 PlushieBingleYakub: null
@@ -184,19 +192,41 @@ SodaDispenser: EnergySodaDispenser
 MaterialSilo: MachineMasterMaterialSilo
 
 # 2026-06-21
-# GunSafeLaserSpec: GunSafeSurplusBallistics # SIS
+GunSafeLaserSpec: GunSafeSurplusBallistics
 
 # 2026-07-25
 WehMedipen: WehMedipenTiny
 
 # 2026-08-03
 BibleCommunistManifesto: Bible
+
+# 2026-08-17
+ComputerNTRTasks: null
+TaskBottle: ChemistryEmptyBottle01
+TaskJug: Jug
+
+# 2026-08-24
+LightReplacerEmpty: LightReplacer
+
+# 2026-08-30
+MachinePowerTransmissionLaser: null
+MachinePowerTransmissionLaserCrate: null
+MachinePowerTransmissionLaserFlatpack: null
+
+# 2026-09-16
+SpawnMobPlantbot: null
+
+# 2026-09-19
+PoweredFloorLight: null
+WallXenoMembrane: ResinMembrane
+WallXenoResin: WallResin
+WallXenoResinThick: WallResin
+
+# 2026-10-10
+CrateEngineeringSingularityCollector: null
+RadiationCollector: null
+RadiationCollectorFlatpack: null
 # </Trauma>
-
-# Goobstation - Submarine from DeltaV
-
-# 2026-01-10 Goobstation Change Mapped Chem to Energy Chem by default
-# ChemDispenser: EnergyChemDispenser - inky
 
 AirlockBoxerGlassLocked: AirlockServiceGlassLocked
 AirlockClownGlassLocked: AirlockServiceGlassLocked
@@ -583,8 +613,8 @@ FoodDonutBlumpkin: FoodDonutBluePumpkin
 FoodDonutJellyBlumpkin: FoodDonutJellyBluePumpkin
 
 # 2024-02-19
-#Drone: null
-#SpawnMobDrone: null
+Drone: null
+SpawnMobDrone: null
 #Onestar: null # I dont think this is even mapped, but just in case
 
 # 2024-02-22
@@ -1293,21 +1323,18 @@ CrateEngineeringThruster: CrateSpaceThruster
 # 2026-08-26 # SIS
 SpawnMobCorgiMouse: null
 
-# 2026-10-11 # SIS
-GunSafeLaserCarbine: null
-GunSafeShotguns: null
-GunSafeLaserSpec: null
-GunSafeSurplusBallistics: null
-GunSafeMelee: null
-GunSafeRiotLauncher: null
-GunSafePhaser: null
-GunSafeHunter: null
-GunSafeJudo: null
-GunSafeShotgunKammerer: null
-GunSafeLaserCarbineOutdated: null
-GunSafeShotgunEnforcer: null
-GunSafeDisabler: null
-GunSafePistolMk58: null
-GunSafeRifleLecter: null
-GunSafeSubMachineGunDrozd: null
-GunSafeSubMachineGunWt550: null
+# 2026-08-12
+LightReplacer: LightReplacerFilled
+
+#2026-08-18
+DrinkNeurotoxinGlass: null
+
+#2026-08-31
+DrinkWaterJug: JugWater
+
+#2026-09-05
+AsimovCircuitBoard: CrewsimovCircuitBoard
+
+# 2026-09-24
+ClothingShoesTourist: ClothingShoesSandalsBlack
+ClothingShoesWizard: ClothingShoesSandalsBrown

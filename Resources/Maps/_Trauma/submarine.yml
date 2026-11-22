@@ -125975,7 +125975,7 @@ entities:
       parent: 2
       pos: -46.5,32.5
     - type: FaxMachine
-      name: Атмос # RU-Localization
+      name: Атмосферный # RU-Localization
   - uid: 3279
     components:
     - type: Transform
@@ -125989,14 +125989,14 @@ entities:
       parent: 2
       pos: -59.5,-4.5
     - type: FaxMachine
-      name: Ботаник # RU-Localization
+      name: Ботаника # RU-Localization
   - uid: 5484
     components:
     - type: Transform
       parent: 2
       pos: 36.5,23.5
     - type: FaxMachine
-      name: Эпистемология # RU-Localization
+      name: Эпистемика # RU-Localization
   - uid: 6535
     components:
     - type: Transform
@@ -126059,7 +126059,7 @@ entities:
       parent: 2
       pos: -7.5,65.5
     - type: FaxMachine
-      name: Адвокат # RU-Localization
+      name: Адвокат в Суде # RU-Localization
   - uid: 18161
     components:
     - type: Transform
@@ -126073,7 +126073,7 @@ entities:
       parent: 2
       pos: -5.5,65.5
     - type: FaxMachine
-      name: Государственный Адвокат # RU-Localization
+      name: Государственный Защитник # RU-Localization
   - uid: 18652
     components:
     - type: Transform
@@ -126092,14 +126092,14 @@ entities:
       parent: 2
       pos: -40.5,12.5
     - type: FaxMachine
-      name: Чулан Уборщика # RU-Localization
+      name: Каморка Уборщика # RU-Localization
   - uid: 22265
     components:
     - type: Transform
       parent: 2
       pos: -6.5,-42.5
     - type: FaxMachine
-      name: Утилизатор # RU-Localization
+      name: Утилизация # RU-Localization
   - uid: 22665
     components:
     - type: Transform
@@ -126134,14 +126134,14 @@ entities:
       parent: 2
       pos: -77.5,3.5
     - type: FaxMachine
-      name: Хонкомната # RU-Localization
+      name: Хонк-комната # RU-Localization
   - uid: 29703
     components:
     - type: Transform
       parent: 2
       pos: -8.5,33.5
     - type: FaxMachine
-      name: Службы Безопасности # RU-Localization
+      name: Глава Службы Безопасности # RU-Localization
   - uid: 30756
     components:
     - type: Transform

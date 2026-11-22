@@ -65,7 +65,7 @@ reagent-name-hephaestium = гефестиум
 reagent-desc-hephaestium = Гефестиум, названный в честь греческого бога камня Гефеста, превращает всё введённое с ним в камень.
 
 reagent-name-ageium = эйджиум
-reagent-desc-ageium = Эйджиум не даёт введённым субъектам стареть!
+reagent-desc-ageium = Эйджиум навсегда останавливает старение, если ввести больше 5u. Эффект необратим.
 
 reagent-name-holy-chlorine-trifluoride = святой трифторид хлора
 reagent-desc-holy-chlorine-trifluoride = Кому пришла в голову эта идея?
@@ -73,5 +73,11 @@ reagent-desc-holy-chlorine-trifluoride = Кому пришла в голову �
 reagent-name-burnite = горнит
 reagent-desc-burnite = Чрезвычайно летучее горящее вещество, обычно получаемое случайным открытием портала в ад. К счастью, это не так-то просто сделать.
 
-reagent-name-unknown-reagent = неизвестный реагент
-reagent-desc-unknown-reagent = неизвестный реагент
+reagent-name-unknown-reagent = анобтаниум
+reagent-desc-unknown-reagent = Этот реагент крайне трудно раздобыть. Известно, что он вызывает крайне нестабильные эффекты при разливе или внесении в растения
+
+reagent-name-fungalin = фунгалин
+reagent-desc-fungalin = Концентрат спор, способных размножаться в дыхательной системе. Повышает урожайность растений, одновременно отравляя их и истощая запасы питательных веществ.
+
+reagent-name-ethylene = этилен
+reagent-desc-ethylene = Легковоспламеняющийся бесцветный газ. Чаще всего применяется в производстве полиэтилена низкой плотности.

@@ -6,7 +6,7 @@ using Content.Server.Ghost.Roles;
 using Content.Server.Ghost.Roles.Components;
 using Content.Server.Medical;
 using Content.Server.Medical.Components;
-using Content.Server.Body.Systems;
+using Content.Shared.Body.Systems;
 using Content.Shared.Administration.Logs;
 using Content.Shared.Alert;
 using Content.Shared.Chemistry.Components;

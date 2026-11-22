@@ -1,5 +1,5 @@
 using Content.Server.Chat.Systems;
-using Content.Server.GameTicking.Events;
+using Content.Shared.GameTicking.Events;
 using Content.Server.Mind;
 using Content.Server.Power.SMES;
 using Content.Shared.Power.Components;

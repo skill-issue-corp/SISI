@@ -2,26 +2,24 @@
 
 using System.Text;
 using Content.Goobstation.Shared.Changeling.Components;
-using Content.Server.Antag;
-using Content.Server.GameTicking.Rules;
 using Content.Server.Mind;
 using Content.Server.Objectives;
+using Content.Shared.Antag;
+using Content.Shared.GameTicking.Rules;
+using Content.Shared.GameTicking.Rules.Components;
 using Content.Shared.NPC.Prototypes;
 using Content.Shared.NPC.Systems;
 using Content.Shared.Roles;
 using Content.Shared.Roles.Components;
 using Content.Shared.Store;
 using Content.Shared.Store.Components;
-using Content.Trauma.Common.Silicon;
 using Robust.Shared.Audio;
-using Content.Shared.Antag;
 using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Goobstation.Server.Changeling.GameTicking.Rules;
 
 public sealed partial class ChangelingRuleSystem : GameRuleSystem<ChangelingRuleComponent>
 {
-    [Dependency] private CommonSiliconSystem _silicon = default!;
     [Dependency] private MindSystem _mind = default!;
     [Dependency] private AntagSelectionSystem _antag = default!;
     [Dependency] private SharedRoleSystem _role = default!;
@@ -40,39 +38,26 @@ public sealed partial class ChangelingRuleSystem : GameRuleSystem<ChangelingRule
 
     public readonly int StartingCurrency = 10; // have to keep this in sync with MindRoleChangeling manually :( // inky edit
 
-    public override void Initialize()
+    [SubscribeLocalEvent]
+    private void OnSelectAntag(Entity<ChangelingRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
     {
-        base.Initialize();
-
-        SubscribeLocalEvent<ChangelingRuleComponent, AfterAntagEntitySelectedEvent>(OnSelectAntag);
-        SubscribeLocalEvent<ChangelingRuleComponent, ObjectivesTextPrependEvent>(OnTextPrepend);
-    }
-
-    private void OnSelectAntag(EntityUid uid, ChangelingRuleComponent comp, ref AfterAntagEntitySelectedEvent args)
-    {
-        MakeChangeling(args.EntityUid, comp, args.Def); // SIS-ChatGreeting
-    }
-
-    public bool MakeChangeling(EntityUid target, ChangelingRuleComponent rule, AntagSpecifierPrototype proto) // SIS-ChatGreeting
-    {
-        if (_silicon.IsSilicon(target))
-            return false;
-
+        var target = args.EntityUid;
         if (!_mind.TryGetMind(target, out var mindId, out var mind))
-            return false;
+            return;
 
         // briefing
         var name = Name(target) ?? Loc.GetString("generic-unknown-title");
         // SIS-ChatGreeting Start
         var briefingShort = Loc.GetString("changeling-role-greeting-short", ("name", name));
-        var entry = _greeting.CreateGreetingEntry("changeling-", proto.Briefing, ("name", name));
+        var entry = _greeting.CreateGreetingEntry("changeling-", args.Def.Briefing, ("name", name));
+        entry.Sound ??= BriefingSound;
         _antag.SendBriefing(target, entry);
         // SIS-ChatGreeting End
 
         if (!_role.MindHasRole<ChangelingRoleComponent>(mindId, out var mr))
         {
             Log.Error($"Changeling {ToPrettyString(target)} had no role!");
-            return false;
+            return;
         }
 
         var role = mr.Value.Owner;
@@ -81,12 +66,9 @@ public sealed partial class ChangelingRuleSystem : GameRuleSystem<ChangelingRule
         // hivemind stuff
         _npcFaction.RemoveFaction(target, NanotrasenFactionId, false);
         _npcFaction.AddFaction(target, ChangelingFactionId);
-
-        rule.ChangelingMinds.Add(mindId);
-
-        return true;
     }
 
+    [SubscribeLocalEvent]
     private void OnTextPrepend(Entity<ChangelingRuleComponent> ent, ref ObjectivesTextPrependEvent args)
     {
         var mostAbsorbedName = string.Empty;

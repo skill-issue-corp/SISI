@@ -28,9 +28,8 @@ ent-ClothingBackpackDuffelSyndicateFilledLMG = { ent-ClothingBackpackDuffelSyndi
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
     .suffix = Набор "L6 Saw"
 
-ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор "China-Lake"
+ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = комплект China-Lake
+    .desc = Старый гранатомёт China Lake с 13 боеприпасами разной разрушительной силы.
 
 ent-ClothingBackpackDuffelSyndicateAmmoFilled = { ent-ClothingBackpackDuffelSyndicate }
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }

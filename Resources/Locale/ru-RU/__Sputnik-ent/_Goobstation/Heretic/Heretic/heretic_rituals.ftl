@@ -7,6 +7,9 @@ ent-RitualAmberFocus = янтарный фокус
 ent-RitualLivingHeart = неутомимое сердцебиение
     .desc = { "" }
 
+ent-RitualCodexCicatrix = Кодекс Цикатрикс
+    .desc = { "" }
+
 ent-RitualFeastOfOwls = пир сов
     .desc = { "" }
 
@@ -115,9 +118,6 @@ ent-RitualPhylacteryOfDamnation = филактерия проклятия
 ent-RitualEtherOfTheNewborn = эфир новорождённого
     .desc = { "" }
 
-ent-RitualEnvyKnife = обряд украденных лиц
-    .desc = { "" }
-
 ent-RitualMaskOfMadness = маска безумия
     .desc = { "" }
 
@@ -155,6 +155,9 @@ ent-RitualLionhunterRifle = ружьё «охотник на львов»
     .desc = { "" }
 
 ent-RitualLionhunterRifleAmmunition = патроны для ружья «охотник на львов»
+    .desc = { "" }
+
+ent-RitualRustSowerGrenade = Граната «Сеятель Ржавчины»
     .desc = { "" }
 
 ent-RitualMaidInTheMirror = дева в зеркале

@@ -18,8 +18,8 @@ ent-MobCarpSalvage = { ent-MobCarp }
     .desc = { ent-MobCarp.desc }
 
 ent-MobCarpDragon = космический карп
+    .desc = { ent-MobDragonBrood.desc }
     .suffix = Драконье Потомство
-    .desc = { ent-MobCarp.desc }
 
 ent-MobCarpDungeon = { ent-MobCarp }
     .suffix = Подземелье
@@ -31,3 +31,7 @@ ent-MobShark = карпоакула
 ent-MobSharkSalvage = { ent-MobShark }
     .suffix = Подземелье
     .desc = { ent-MobShark.desc }
+
+ent-MobSharkDragon = { ent-MobDragonBrood }
+    .desc = { ent-MobDragonBrood.desc }
+    .suffix = Драконье потомство

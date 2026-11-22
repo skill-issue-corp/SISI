@@ -13,6 +13,7 @@ heretic-ability-fail-mirror-jaunt-no-mirrors = Поблизости нет от�
 heretic-ability-fail-not-enough-space = Недостаточно места, чтобы применить это заклинание!
 heretic-ability-fail-arena-nearby = Поблизости есть другая арена!
 heretic-ability-fail-too-close = Цель находится слишком близко!
+heretic-ability-fail-cant-see = Точка назначения вне поля зрения!
 
 heretic-ability-lose-focus-shadow-cloak = Теряя фокус, вы выдёргиваетесь из теней!
 heretic-ability-lose-focus-pale-cloak = Теряя фокус, вы выдёргиваетесь из света!

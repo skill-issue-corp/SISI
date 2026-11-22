@@ -3,12 +3,12 @@ ent-LightPostSmall = фонарный столб
     .suffix = Всегда запитанный
 
 ent-PoweredLightPostSmallEmpty = фонарный столб
-    .desc = Осветительный прибор.
+    .desc = Небольшой фонарный столб. Потребляет энергию и светит, если в него установлена лампа-трубка.
     .suffix = Пустой
 
 ent-PoweredLightPostSmall = фонарный столб
-    .desc = Осветительный прибор. Потребляет энергию и излучает свет, если оснащён лампой-трубкой.
+    .desc = { ent-PoweredLightPostSmallEmpty.desc }
 
 ent-PoweredLEDLightPostSmall = фонарный столб
-    .desc = Осветительный прибор. Потребляет энергию и излучает свет, если оснащён лампой-трубкой.
+    .desc = { ent-PoweredLightPostSmallEmpty.desc }
     .suffix = LED, Светодиод

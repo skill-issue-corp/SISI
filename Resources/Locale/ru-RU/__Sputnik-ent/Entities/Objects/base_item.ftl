@@ -33,3 +33,9 @@ ent-BaseSlicingRefinableFood = { ent-BaseSlicingRefinable }
 
 ent-BaseStash = { "" }
     .desc = { "" }
+
+ent-BaseStashPlushie = { ent-BaseStash }
+    .desc = { ent-BaseStash.desc }
+
+ent-BaseStashCake = { ent-BaseStash }
+    .desc = { ent-BaseStash.desc }

@@ -48,3 +48,9 @@ ent-StatusEffectBlindness = временная слепота
 
 ent-StatusEffectFlashed = ослепление
     .desc = { ent-MobStatusEffectDebuff.desc }
+
+ent-StatusEffectForcedItemCatEars = принудительные кошачьи уши
+    .desc = { ent-MobStatusEffectDebuff.desc }
+
+ent-StatusEffectForcedItemMaid = принудительный костюм горничной
+    .desc = { ent-MobStatusEffectDebuff.desc }

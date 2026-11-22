@@ -2,5 +2,5 @@ ent-ChemistryBottleFormaldehyde = { ent-BaseChemistryBottleFilled }
     .suffix = формальдегид
     .desc = { ent-BaseChemistryBottleFilled.desc }
 
-ent-CrateMorgue = ящик со снабжением морга
-    .desc = Ящик, содержащий одну библию, один шприц, две бутылочки формальдегида, десять мешков для тел и один гроб.
+ent-CrateMorgue = ящик принадлежностей для морга
+    .desc = Содержит 1x шприц, 3x «флакон бальзамирующей жидкости», 4x мешок для тела.

@@ -36,13 +36,17 @@
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваша хватка может открыть что угодно.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Бремя Хранителя Ключей</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Дверь, ID-карта, Железный стержень</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт Потустороннюю Карту, позволяющую связать две двери в качестве порталов для еретиков, но случайным образом телепортирующую язычников. Также может поглощать доступ с ID-карты, съедая её.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Метка Замка</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Хватка накладывает метку Замка и временно лишает жертву доступа.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Обряд Консьержа</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Мелок, Деревянная доска, Мультитул</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт лабиринтовый справочник, магический предмет, способный материализовать баррикады, которые никто не может пройти.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Бремя Хранителя Ключей</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Дверь, ID-карта, железный стержень</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт потустороннюю карту, связывающую две двери. Еретики могут пройти через них как через портал, а язычников перенесёт в случайное место. Карта также поглощает доступы, поедая ID-карты.</Box></ColorBox>
+
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Неверный Ключ</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Отвёртка, изолированные перчатки (подойдут и дешёвые), кусачки</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт ловушку, которая превращает дверь в капкан. Дверь притягивает и давит язычников.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Изящество Взломщика</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
@@ -52,9 +56,9 @@
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваш клинок теперь лучше наносит раны и может вызывать плачущий разрыв при атаке.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Неверный Ключ</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Отвёртка, изолированные перчатки, кусачки</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Предмет, устанавливающий на двери ловушки, из-за которых они затягивают и раздавливают язычников.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Ритуал консьержа</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Мелок, деревянная доска, мультитул</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт руководство по лабиринтам. С его помощью можно возводить непроходимые баррикады.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Отпереть Лабиринт</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Три трупа с удалёнными сердцами</Box></ColorBox>

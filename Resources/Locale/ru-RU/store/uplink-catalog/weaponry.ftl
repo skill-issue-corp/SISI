@@ -1,7 +1,7 @@
 # Weaponry
 
 uplink-pistol-viper-name = Гадюка
-uplink-pistol-viper-desc = Небольшое, легко скрываемое, но несколько слабое оружие. Переоборудовано под полностью автоматический затвор. Использует пистолетные магазины (.35 auto).
+uplink-pistol-viper-desc = Компактный пистолет, который легко спрятать. Переделан под автоматический огонь. Использует удлинённые пистолетные магазины (.35 auto).
 
 uplink-pistol-cobra-name = Кобра
 # Trauma - 9.5mm larp
@@ -24,21 +24,21 @@ uplink-knives-kit-name = Набор метательных ножей
 uplink-knives-kit-desc = Набор из 8 метательных ножей с символикой Синдиката, идеально подходящих для того, чтобы вонзать их в тела жертв. При броске полностью игнорируют броню.
 
 uplink-gloves-north-star-name = Перчатки Полярной звезды
-uplink-gloves-north-star-desc = Пара перчаток, значительно сокращающих время восстановления удара и позволяющих забить человека градом ударов.
+uplink-gloves-north-star-desc = Перчатки, которые ускоряют удары и увеличивают их урон. Позволяют забить противника насмерть градом ударов.
 
 uplink-gloves-knuckleduster-name = Кастеты Синдиката
-uplink-gloves-knuckleduster-desc = Пара пластитановых кастетов, позволяющих ударить с такой силой, чтобы разбить челюсть капитана вдребезги.
+uplink-gloves-knuckleduster-desc = Пара пластитановых кастетов. С ними можно ударить так сильно, что челюсть капитана разлетится на куски.
 
 uplink-eshield-name = Энергетический щит
 # Trauma - reworked
 uplink-eshield-desc = Экзотический энергетический щит, отражающий все лазерные лучи и немного защищающий от пуль и других физических атак. Разряжается от получаемого урона и способен автоматически перезаряжаться. Внимание: импульсы ЭМИ способны разрядить внутреннюю батарею энергетического щита.
 
 uplink-rigged-boxing-gloves-name = Заминированные боксёрские перчатки
-uplink-rigged-boxing-gloves-desc = Порхай как бабочка, жаль как пчела.
+uplink-rigged-boxing-gloves-desc = Порхайте как бабочка, жальте как пчела. Бьёт сильнее, чем кажется.
 
 uplink-sniper-bundle-name = Набор снайпера
 # Trauma - 10 -> 15
-uplink-sniper-bundle-desc = Неприметный кейс, содержащий «Христов», 15 запасных патронов и удобную маскировку.
+uplink-sniper-bundle-desc = Неприметный кейс с винтовкой «Христов», 15 запасными патронами и удобной маскировкой. Пригодится для штурма или покушения, если стрелок достаточно умел.
 
 uplink-hushpup-name = Тихоня
 # Trauma - 12 gauge larp
@@ -60,11 +60,11 @@ uplink-bulldog-bundle-desc = Компактный и злой: содержит 
 uplink-estoc-bundle-name = DMR «Эсток»
 uplink-estoc-bundle-desc = Снайперская винтовка с оптикой средней дальности для боя на дальних дистанциях.
 
-uplink-grenade-launcher-name = «Чайна-Лейк»
-uplink-grenade-launcher-desc = Старый гранатомёт «Чайна-Лейк» с 5 противопехотными боеприпасами.
+uplink-grenade-launcher-name = China Lake
+uplink-grenade-launcher-desc = Старый гранатомёт China Lake с 5 противопехотными боеприпасами.
 
-uplink-grenade-launcher-bundle-name = Набор «Чайна-Лейк»
-uplink-grenade-launcher-bundle-desc = Старый гранатомёт «Чайна-Лейк» с 11 боеприпасами различной разрушительной силы.
+uplink-grenade-launcher-bundle-name = Комплект China Lake
+uplink-grenade-launcher-bundle-desc = Старый гранатомёт China Lake с 11 боеприпасами разной разрушительной силы.
 
 uplink-l6-saw-bundle-name = Набор L6 Saw
 uplink-l6-saw-bundle-desc = Больше дакки: культовый ручной пулемёт L6 с 2 коробчатыми магазинами.

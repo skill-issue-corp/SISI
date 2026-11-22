@@ -6,3 +6,6 @@ ent-ZappyPowerAction = Сила Зэппи
 
 ent-ActionFireballPhoenix = Огненный шар феникса
     .desc = Выпускает взрывающийся огненный шар в указанное место.
+
+ent-ActionMagicMissileWizardChicken = Малая Магическая Стрела
+    .desc = Выпускает малую магическую стрелу в указанную точку

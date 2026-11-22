@@ -10,6 +10,7 @@ using Content.Shared.Fluids;
 using Content.Shared.Mind;
 using Content.Shared.Popups;
 using Content.Shared.Station;
+using Content.Shared.Station.Systems;
 using Content.Shared.Stunnable;
 using Content.Shared.Tag;
 using Content.Shared.Throwing;
@@ -42,7 +43,7 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
     [Dependency] private SharedSolutionContainerSystem _solution = default!;
     [Dependency] private SharedPuddleSystem _puddle = default!;
     [Dependency] private SharedTransformSystem _transform = default!;
-    [Dependency] private SharedStationSystem _station = default!;
+    [Dependency] private StationSystem _station = default!;
     [Dependency] private SharedMapSystem _map = default!;
     [Dependency] private IRobustRandom _gambling = default!;
 
@@ -57,15 +58,6 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
 
     public override void Initialize()
     {
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, HowlEvent>(DoHowl);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, ComponentStartup>(OnStartup);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfUpgradeAbilityEvent>(OnUpgradeAbility);
-
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfAmbushActionEvent>(OnAmbush);
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, ThrowDoHitEvent>(OnHit);
-
-        SubscribeLocalEvent<WerewolfAbilitiesComponent, WerewolfRegenEvent>(TryRegen);
-
         InitializeDire();
         InitializeWhite();
         InitializeBlack();
@@ -121,6 +113,7 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
         UpdateBlack(timePassed); // if there would ever be an infection cure for this, use same shit as _transfurmQueue because it'll probably make eqe shit itself too
     }
 
+    [SubscribeLocalEvent]
     public void OnStartup(EntityUid uid, WerewolfAbilitiesComponent comp, ref ComponentStartup args)
     {
         if (_mind.TryGetMind(uid, out var mindId, out _)
@@ -134,7 +127,8 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
         comp.CurrentMutation = _tag.HasTag(uid, _furryTag) ? "WerewolfTransformWerehuman" : "WerewolfTransformBasic"; // goida
     }
 
-    # region action handlers
+    #region action handlers
+    [SubscribeLocalEvent]
     private void DoHowl(EntityUid uid, WerewolfAbilitiesComponent comp, ref HowlEvent args) //kill me for copying changeling system please
     {
         _audio.PlayPredicted(comp.ShriekSound, uid, uid);
@@ -178,6 +172,7 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
         args.Handled = true;
     }
 
+    [SubscribeLocalEvent]
     private void OnAmbush(EntityUid uid, WerewolfAbilitiesComponent comp, WerewolfAmbushActionEvent args) // partially taken from xenos jump
     {
         if (args.Handled
@@ -189,6 +184,7 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
         args.Handled = true;
     }
 
+    [SubscribeLocalEvent]
     private void OnHit(EntityUid uid, WerewolfAbilitiesComponent comp, ThrowDoHitEvent args)
     {
         // if (args.Handled)
@@ -205,6 +201,7 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
     /// <summary>
     /// Deletes and replaces the args.OldActionId with the args.NewActionId, also adding it to the mind
     /// </summary>
+    [SubscribeLocalEvent]
     private void OnUpgradeAbility(EntityUid uid, WerewolfAbilitiesComponent comp, WerewolfUpgradeAbilityEvent args)
     {
         if (!_mind.TryGetMind(uid, out var mindId, out _))
@@ -236,6 +233,7 @@ public sealed partial class SharedWerewolfAbilitiesSystem : EntitySystem
         return _solution.TryAddSolution(targetSolution.Value, solution);
     }
 
+    [SubscribeLocalEvent]
     private void TryRegen(EntityUid uid, WerewolfAbilitiesComponent comp, WerewolfRegenEvent args)
     {
         var reagents = new Dictionary<string, FixedPoint2> // i hate fixedpoint bru // todo werewolf unhardcode, put into a comp idk

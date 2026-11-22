@@ -1,7 +1,7 @@
 ent-BaseWeaponLauncher = BaseWeaponLauncher
     .desc = Направил, нажал, выстрелил.
 
-ent-WeaponLauncherChinaLake = "чайна лейк"
+ent-WeaponLauncherChinaLake = China Lake
     .desc = ПЛООП.
 
 ent-WeaponLauncherHydra = "гидра"
@@ -14,8 +14,14 @@ ent-WeaponLauncherHydraLethal = { ent-WeaponLauncherHydra }
 ent-WeaponLauncherRocket = РПГ-7
     .desc = Модифицированный старинный ручной противотанковый гранатомет.
 
+ent-WeaponGuidedMissileLauncherXenoborg = XB GML-78
+    .desc = Пусковая установка управляемых ракет.
+
 ent-WeaponLauncherMultipleRocket = многозарядный ракетный гранатомет
     .desc = Модифицированный старинный ручной противотанковый гранатомет.
+
+ent-WeaponRocketLauncherXenoborg = XB MRL-97-D
+    .desc = Инопланетная ракетная установка со специальными ракетами для сноса построек.
 
 ent-WeaponLauncherPirateCannon = пиратская пушка
     .desc = Бабах!

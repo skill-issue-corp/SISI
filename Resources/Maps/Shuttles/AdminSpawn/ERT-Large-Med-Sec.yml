@@ -3187,7 +3187,7 @@ entities:
       pos: -5.5,13.5
       parent: 1
     - type: FaxMachine
-      name: NT-Гигиена # RU-Localization
+      name: NT-Hygieia
 - proto: FirelockEdge
   entities:
   - uid: 402

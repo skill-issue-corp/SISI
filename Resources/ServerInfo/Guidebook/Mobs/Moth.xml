@@ -1,11 +1,3 @@
-<!--
-SPDX-FileCopyrightText: 2024 Errant <35878406+Errant-4@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-SPDX-FileCopyrightText: 2025 Ted Lukin <66275205+pheenty@users.noreply.github.com>
-
-SPDX-License-Identifier: AGPL-3.0-or-later
--->
-
 <Document>
   # Нианы
 
@@ -17,7 +9,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Их крылья дают им лучшее ускорение, если на станции нет гравитации, но они всё равно не могут двигаться без снаряжения, находясь в открытом космосе.
 
-  Они получают [color=#1e90ff]на 30% меньше урона от холода[/color], но [color=#ffa500]на 30% больше урона от тепла и на 6.5% больше урона от грубой силы, а также легче загораются[/color].
+  Они получают [color=#1e90ff]на 30% меньше урона от холода[/color] и [color=#ffa500]на 20% больше урона от тепла, а также легче загораются[/color].
 
   У них есть врождённый навык [textlink="Захват" link="Tackle"], позволяющий совершать рывок на короткое расстояние, а также бонус к захвату при использовании специальных перчаток.
 

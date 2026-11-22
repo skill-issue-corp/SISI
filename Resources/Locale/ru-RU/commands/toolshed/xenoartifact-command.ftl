@@ -26,4 +26,4 @@ command-spawnartifactwithnode-spawn-artifact-item-hint = используйте 
 command-spawnartifactwithnode-spawn-artifact-structure-hint = используйте стационарный артефакт-структуру
 command-spawnartifactwithnode-spawn-artifact-type-hint = <идентификатор прототипа сущности артефакта>
 
-command-xenoartifact-common-node-hint = глубина {$depth}, узел {$nodeId}, триггер {$nodeDetail}
+command-xenoartifact-common-node-hint = глубина {$depth} узел {$nodeId} триггер: «{$trigger}», эффект: «{$effect}»

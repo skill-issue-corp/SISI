@@ -2,6 +2,7 @@ using Content.Inky.Server.Fun.Components;
 using Content.Inky.Server.Fun.Components.Rules;
 using Content.Server.GameTicking.Rules;
 using Content.Shared.Damage.Systems;
+using Content.Shared.GameTicking.Rules;
 using Content.Shared.Stacks;
 
 namespace Content.Inky.Server.Fun.Systems.Rules;
@@ -10,14 +11,7 @@ public sealed partial class EngiSentryFunRuleSystem : GameRuleSystem<EngiSentryF
 {
     [Dependency] private FunnyThingsSystem _fun = default!;
 
-    public override void Initialize()
-    {
-        base.Initialize();
-
-        SubscribeLocalEvent<SpawnOnDamageComponent, ComponentInit>(OnInit);
-        SubscribeLocalEvent<SpawnOnDamageComponent, DamageChangedEvent>(OnDamaged);
-    }
-
+    [SubscribeLocalEvent]
     private void OnInit(EntityUid uid, SpawnOnDamageComponent comp, ComponentInit args)
     {
         if (!_fun.CheckRule<EngiSentryFunRuleComponent>())
@@ -25,6 +19,7 @@ public sealed partial class EngiSentryFunRuleSystem : GameRuleSystem<EngiSentryF
         comp.Active = true;
     }
 
+    [SubscribeLocalEvent]
     private void OnDamaged(EntityUid uid, SpawnOnDamageComponent comp, DamageChangedEvent args)
     {
         if (!comp.Active

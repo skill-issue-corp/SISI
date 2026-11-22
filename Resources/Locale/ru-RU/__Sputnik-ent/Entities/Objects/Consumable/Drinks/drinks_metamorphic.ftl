@@ -360,10 +360,6 @@ ent-DrinkMonkeyBusinessGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = Обезьяньи дела
 
-ent-DrinkNeurotoxinGlass = { ent-DrinkGlass }
-    .desc = { ent-DrinkGlass.desc }
-    .suffix = Нейротоксин
-
 ent-DrinkNothing = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = Ничего
@@ -555,9 +551,6 @@ ent-DrinkVodkaRedBool = { ent-DrinkGlass }
 ent-DrinkVodkaTonicGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
     .suffix = Водка-тоник
-
-ent-DrinkWaterJug = кувшин воды
-    .desc = Не забывайте пить воду.
 
 ent-DrinkWatermelonJuice = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
