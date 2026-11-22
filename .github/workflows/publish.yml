@@ -22,12 +22,15 @@ jobs:
         submodules: 'recursive'
 
     - name: Get Engine Tag
+      working-directory: RobustToolbox # SIS
       run: |
-        cd RobustToolbox
-        ENGINE_TAG=$(git describe --tags --abbrev=0)
-        git remote add wizden https://github.com/space-wizards/RobustToolbox
-        git fetch wizden $ENGINE_TAG # make sure vanilla clients will be able to connect
-        git fetch --depth=1 --tags
+        # SIS-Start
+        # cd RobustToolbox
+        # ENGINE_TAG=$(git describe --tags --abbrev=0)
+        # git remote add wizden https://github.com/space-wizards/RobustToolbox
+        # git fetch wizden $ENGINE_TAG # make sure vanilla clients will be able to connect
+        # SIS-End
+        git fetch --depth=1 --tags origin # SIS
         git describe --tags --abbrev=0
 
     - name: Install dependencies
