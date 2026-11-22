@@ -1,17 +1,17 @@
 <Document>
-  # Ban Durations
+  # Продолжительность банов
 
   <!-- TODO: appeal information -->
 
-  ## Temporary
-  Temporary bans will be lifted automatically after a certain amount of time. If they are a game ban, they will tell you how much time is remaining when you try to connect.
+  ## Временный
+  Временные баны снимаются автоматически по истечении определённого времени. Если это игровой бан, при попытке подключения вам будет показано, сколько времени осталось.
 
-  ## Indefinite
-  These bans will only be removed on a successful appeal. Any ban which doesn't tell you when it expires and doesn't specify otherwise can be presumed to be an indefinite ban.
+  ## Бессрочный
+  Такие баны могут быть сняты только по итогам успешной апелляции. Любой бан, в котором не указан срок истечения и не сказано иное, может считаться бессрочным.
 
-  ## Voucher
-  This is an indefinite ban which may only be appealed both with a successful appeal and which require a voucher of good behavior from the administrative team of a well-known or at least decently active SS13/SS14 server in order for the appeal to be considered. Voucher bans typically cannot be appealed for at least six months after being issued. Without a voucher, a player can only attempt to appeal a voucher ban once, and only if the ban was inappropriately placed. Voucher bans are typically only placed as a result of an unsuccessful appeal of an indefinite game ban by players with a history of bans and of causing issues.
+  ## С поручительством
+  Это бессрочный бан, апелляция по которому может быть рассмотрена только при её успешном прохождении и наличии поручительства о хорошем поведении от административной команды известного или хотя бы достаточно активного сервера SS13/SS14. Баны с поручительством, как правило, нельзя обжаловать в течение как минимум шести месяцев после их наложения. Без поручительства игрок может попытаться подать апелляцию на бан с поручительством только один раз, и только в случае, если бан был наложен ненадлежащим образом. Баны с поручительством обычно накладываются только в результате неудачной апелляции по бессрочному игровому бану у игроков с историей банов и создания проблем.
 
-  ## Permanent
-  This is a ban that is only appealable if the ban was inappropriately placed, including if the ban should not have been permanent. If the result of the appeal is that the ban was appropriately placed, the ban may not be appealed again and will not be lifted. These bans are extremely rare, but are applied to players who continually cause problems even after a voucher ban or users who have completely unacceptable behavior may be permanently removed.
+  ## Постоянный
+  Это бан, который можно обжаловать только в том случае, если он был наложен ненадлежащим образом, включая случаи, когда бан не должен был быть постоянным. Если по результатам апелляции выясняется, что бан был наложен обоснованно, повторная апелляция по нему невозможна, и бан не будет снят. Такие баны крайне редки, но применяются к игрокам, которые продолжают создавать проблемы даже после бана с поручительством, либо к пользователям с абсолютно неприемлемым поведением, которые могут быть удалены на постоянной основе.
 </Document>

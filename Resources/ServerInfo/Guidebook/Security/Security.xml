@@ -21,11 +21,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 Штат [color=#cb0000]Службы Безопасности[/color] состоит из курсантов службы безопасности, офицеров службы безопасности, детектива и бриг-медика. [color=#cb0000]Службой Безопасности[/color] руководят варден и глава службы безопасности.
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Secoff"/>
-    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Detective"/>
-    <GuideEntityEmbed Entity="ToyFigurineBrigmedic" Caption="Brigmedic"/>
-    <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="Warden"/>
-    <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="HoS"/>
+    <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Офицер СБ"/>
+    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Детектив"/>
+    <GuideEntityEmbed Entity="ToyFigurineBrigmedic" Caption="Бригмедик"/>
+    <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="Смотритель"/>
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="ГСБ"/>
   </Box>
 
 ## Снаряжение

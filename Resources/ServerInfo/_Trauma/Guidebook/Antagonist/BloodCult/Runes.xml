@@ -1,104 +1,104 @@
 <Document>
-  # Runes List
+  # Список Рун
 
   <Box>
     <GuideEntityEmbed Entity="CultRuneOffering"/>
   </Box>
 
-  Probably the first rune you'll draw. It's needed to sacrifice the cult's target and convert new members.
+  Вероятно, это первая руна, которую вы начертите. Она нужна, чтобы принести в жертву цель культа и обратить новых культистов.
 
-  Requires 3 invokers to sacrifice a living person, but only 2 to convert and just 1 to sacrifice a corpse.
+  Для жертвоприношения живого нужны 3 участника, для обращения - только 2, а для принесения в жертву трупа хватит 1.
 
-  Constructs can help invoke runes, so you could recover from being the last cultist by sacrificing for a soul stone.
+  Конструкты могут помогать активировать руны. Если вы остались последним культистом, принесите жертву, чтобы получить камень души.
 
 
   <Box>
     <GuideEntityEmbed Entity="CultRuneDimensionalRending"/>
   </Box>
 
-  Bring Nar'Sie into your realm over 45 seconds.
+  Призывает Нар'Си в ваш мир за 45 секунд.
 
-  Requires 9 invokers and it must be drawn in a ritual site.
+  Нужны 9 участников. Начертить руну можно только в месте проведения ритуала.
 
-  This is it, prepare and make it count.
+  Настал решающий момент. Подготовьтесь как следует.
 
 
   <Box>
     <GuideEntityEmbed Entity="CultRuneApocalypse"/>
   </Box>
 
-  A powerful single-use rune that will cause all manner of bad things to happen to the station.
+  Мощная одноразовая руна, которая обрушит на станцию всевозможные бедствия.
 
-  It gets stronger when the cult is outnumbered by the crew.
+  Чем больше численный перевес экипажа над культом, тем сильнее руна.
 
-  Requires 3 invokers and it must be drawn in a ritual site.
+  Нужны 3 участника. Начертить руну можно только в месте проведения ритуала.
 
 
   <Box>
     <GuideEntityEmbed Entity="CultRuneEmpower"/>
   </Box>
 
-  Strengthens the efficacy of your blood magic, letting you prepare spells and draw runes faster.
+  Усиливает вашу магию крови и позволяет быстрее готовить заклинания и чертить руны.
 
-  It has a variety of smaller ability buffs too but doesn't last long.
+  Даёт и другие небольшие усиления способностей, но действует недолго.
 
-  Requires 1 invoker.
+  Нужен 1 участник.
 
 
   <Box>
     <GuideEntityEmbed Entity="CultRuneTeleport"/>
   </Box>
 
-  Once give a name, lets you teleport to any other teleport rune of your choosing.
+  Получив имя, руна позволяет перенестись к любой другой руне телепортации на ваш выбор.
 
-  Can also be used with the teleportation spell.
+  Её также можно использовать с заклинанием телепортации.
 
-  Requires 1 invoker.
+  Нужен 1 участник.
 
 
   <Box>
     <GuideEntityEmbed Entity="CultRuneRevive"/>
   </Box>
 
-  Heals and revives a crit or dead cultist, if the damage is low enough after healing.
+  Исцеляет культиста в критическом состоянии или возвращает к жизни погибшего, если после исцеления остаётся достаточно мало урона.
 
-  Every 3 sacrifices to Nar'Sie grants 1 revival charge, you get 3 charges for free.
+  Каждые 3 жертвоприношения Нар'Си дают 1 заряд воскрешения. Первые 3 заряда достаются бесплатно.
 
-  Use medicine if you can afford to and save these revival charges for emergencies.
+  По возможности пользуйтесь лекарствами и берегите заряды воскрешения на крайний случай.
 
-  Requires 1 invoker.
+  Нужен 1 участник.
 
 
   <Box>
     <GuideEntityEmbed Entity="CultRuneBarrier"/>
   </Box>
 
-  Summons a durable cult barrier. It can be seen through but nothing can pass, unless they destroy it.
+  Создаёт прочный барьер культа. Сквозь него видно, но пройти можно только разрушив его.
 
-  You can use this from 1.5 tiles so you don't have to be right on top of it.
+  Руну можно активировать с расстояния 1.5 тайла. Стоять прямо на ней не обязательно.
 
-  Requires 1 invoker and vanishes after being used.
+  Нужен 1 участник. После использования руна исчезает.
 
 
   <Box>
     <GuideEntityEmbed Entity="CultRuneSummoning"/>
   </Box>
 
-  Summons another cultist to a teleport rune of your choice.
+  Призывает другого культиста к выбранной вами руне телепортации.
 
-  It will fail if the target is cuffed.
+  Не сработает, если цель в наручниках.
 
-  Requires 2 invokers.
+  Нужны 2 участника.
 
 
   <Box>
     <GuideEntityEmbed Entity="CultRuneBloodBoil"/>
   </Box>
 
-  A powerful base defence rune, nonbelievers within 15 tiles will be set alight and shoot blood projectiles at eachother.
+  Мощная руна защиты базы. Неверующие в пределах 15 тайлов загорятся и начнут стрелять друг в друга кровавыми снарядами.
 
-  Completely harmless to the cult, assuming the fire doesn't spread to you.
+  Для культа совершенно безвредна, если огонь не перекинется на вас.
 
-  Requires 3 invokers.
+  Нужны 3 участника.
 
 </Document>

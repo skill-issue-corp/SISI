@@ -18,9 +18,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 Использование медицинского анализатора зачастую эффективнее осмотра, так как некоторые вещи (например, яд или радиация) не проявляются при осмотре. Однако у использования анализатора есть свои недостатки: он издаёт шум и расходует заряд батареи.
 <Box>
-<GuideEntityEmbed Entity="SignExamroom" Caption="examine patient"/>
+<GuideEntityEmbed Entity="SignExamroom" Caption="осмотр пациента"/>
 <GuideEntityEmbed Entity="MedicalPDA"/>
-<GuideEntityEmbed Entity="MedicalInternPDA" Caption="intern PDA"/>
+<GuideEntityEmbed Entity="MedicalInternPDA" Caption="КПК интерна"/>
 <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
 </Box>
 
@@ -41,10 +41,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 <Box>
 <GuideEntityEmbed Entity="MedkitFilled"/>
-<GuideEntityEmbed Entity="MedkitBruteFilled" Caption="brute kit"/>
-<GuideEntityEmbed Entity="MedkitRadiationFilled" Caption="radiation kit"/>
-<GuideEntityEmbed Entity="MedkitBurnFilled" Caption="burn kit"/>
-<GuideEntityEmbed Entity="MedkitToxinFilled" Caption="toxin kit"/>
+<GuideEntityEmbed Entity="MedkitBruteFilled" Caption="аптечка от механических травм"/>
+<GuideEntityEmbed Entity="MedkitRadiationFilled" Caption="противорадиационная аптечка"/>
+<GuideEntityEmbed Entity="MedkitBurnFilled" Caption="противоожоговая аптечка"/>
+<GuideEntityEmbed Entity="MedkitToxinFilled" Caption="токсикологическая аптечка"/>
 </Box>
 
 <Box>
