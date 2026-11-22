@@ -75077,49 +75077,49 @@ entities:
       parent: 2
       pos: -40.5,5.5
     - type: FaxMachine
-      name: Почтовая Комната Карго # RU-Localization
+      name: Cargo Mail Room
   - uid: 12187
     components:
     - type: Transform
       parent: 2
       pos: -5.5,-3.5
     - type: FaxMachine
-      name: Командный Конференц-зал # RU-Localization
+      name: Command Meeting Room
   - uid: 12188
     components:
     - type: Transform
       parent: 2
       pos: -4.5,4.5
     - type: FaxMachine
-      name: Мостик # RU-Localization
+      name: Bridge
   - uid: 12189
     components:
     - type: Transform
       parent: 2
       pos: -11.5,-3.5
     - type: FaxMachine
-      name: Офис ГП # RU-Localization
+      name: HoP's Office
   - uid: 12190
     components:
     - type: Transform
       parent: 2
       pos: -16.5,-31.5
     - type: FaxMachine
-      name: Медицинский # RU-Localization
+      name: 'Medical '
   - uid: 12191
     components:
     - type: Transform
       parent: 2
       pos: -15.5,-36.5
     - type: FaxMachine
-      name: Офис ГВ # RU-Localization
+      name: CMO's Office
   - uid: 12192
     components:
     - type: Transform
       parent: 2
       pos: 12.5,-25.5
     - type: FaxMachine
-      name: НИО # RU-Localization
+      name: RnD
   - uid: 12193
     components:
     - type: Transform
@@ -75131,7 +75131,7 @@ entities:
       parent: 2
       pos: -27.5,-63.5
     - type: FaxMachine
-      name: Офис Священника # RU-Localization
+      name: Chaplain's Office
   - uid: 12195
     components:
     - type: Transform
@@ -75143,35 +75143,35 @@ entities:
       parent: 2
       pos: 10.5,39.5
     - type: FaxMachine
-      name: Безопасность # RU-Localization
+      name: Security
   - uid: 12197
     components:
     - type: Transform
       parent: 2
       pos: 12.5,45.5
     - type: FaxMachine
-      name: Офис ГСБ # RU-Localization
+      name: HoS's Office
   - uid: 12198
     components:
     - type: Transform
       parent: 2
       pos: 13.5,28.5
     - type: FaxMachine
-      name: Офис Детектива # RU-Localization
+      name: Detective's Office
   - uid: 12199
     components:
     - type: Transform
       parent: 2
       pos: 13.5,20.5
     - type: FaxMachine
-      name: Юридический Офис # RU-Localization
+      name: Lawyer's Office
   - uid: 12200
     components:
     - type: Transform
       parent: 2
       pos: -29.5,-6.5
     - type: FaxMachine
-      name: Библиотека # RU-Localization
+      name: Library
   - uid: 12201
     components:
     - type: Transform

@@ -70762,70 +70762,70 @@ entities:
       parent: 2
       pos: -48.5,-17.5
     - type: FaxMachine
-      name: Юридический Офис # RU-Localization
+      name: Lawyer's Office
   - uid: 11289
     components:
     - type: Transform
       parent: 2
       pos: 5.5,-27.5
     - type: FaxMachine
-      name: Офис ГП # RU-Localization
+      name: HoP Office
   - uid: 11290
     components:
     - type: Transform
       parent: 2
       pos: -40.5,5.5
     - type: FaxMachine
-      name: Офис НРа # RU-Localization
+      name: RD Office
   - uid: 11291
     components:
     - type: Transform
       parent: 2
       pos: 49.5,-18.5
     - type: FaxMachine
-      name: Медицинский # RU-Localization
+      name: Medical
   - uid: 11292
     components:
     - type: Transform
       parent: 2
       pos: -53.5,9.5
     - type: FaxMachine
-      name: Наука # RU-Localization
+      name: Science
   - uid: 11293
     components:
     - type: Transform
       parent: 2
       pos: 8.5,21.5
     - type: FaxMachine
-      name: Офис СИ # RU-Localization
+      name: CE's Office
   - uid: 11294
     components:
     - type: Transform
       parent: 2
       pos: 36.5,13.5
     - type: FaxMachine
-      name: Комната Репортёра # RU-Localization
+      name: Reporter's Room
   - uid: 11295
     components:
     - type: Transform
       parent: 2
       pos: -24.5,-30.5
     - type: FaxMachine
-      name: Детектив # RU-Localization
+      name: Detective
   - uid: 11296
     components:
     - type: Transform
       parent: 2
       pos: 47.5,12.5
     - type: FaxMachine
-      name: Карго # RU-Localization
+      name: Cargo
   - uid: 11297
     components:
     - type: Transform
       parent: 2
       pos: 1.5,21.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: Engineering
   - uid: 11298
     components:
     - type: Transform
@@ -70837,7 +70837,7 @@ entities:
       parent: 2
       pos: -30.5,-19.5
     - type: FaxMachine
-      name: Офис Смотрителя # RU-Localization
+      name: Warden's office
 - proto: FaxMachineCaptain
   entities:
   - uid: 11300

@@ -48908,70 +48908,70 @@ entities:
       pos: -5.5,-70.5
       parent: 2
     - type: FaxMachine
-      name: Юридический Офис # RU-Localization
+      name: Law Office
   - uid: 7350
     components:
     - type: Transform
       pos: -0.5,2.5
       parent: 2
     - type: FaxMachine
-      name: Мостик # RU-Localization
+      name: Bridge
   - uid: 7351
     components:
     - type: Transform
       pos: -5.5,-141.5
       parent: 2
     - type: FaxMachine
-      name: Библиотека # RU-Localization
+      name: Library
   - uid: 7352
     components:
     - type: Transform
       pos: 1.5,-201.5
       parent: 2
     - type: FaxMachine
-      name: Офис ГВ # RU-Localization
+      name: CMO Office
   - uid: 7353
     components:
     - type: Transform
       pos: 10.5,-254.5
       parent: 2
     - type: FaxMachine
-      name: Старший Инженер # RU-Localization
+      name: Chief Engineer
   - uid: 7354
     components:
     - type: Transform
       pos: 4.5,-284.5
       parent: 2
     - type: FaxMachine
-      name: Квартирмейстер # RU-Localization
+      name: Quartermaster
   - uid: 7355
     components:
     - type: Transform
       pos: -1.5,-116.5
       parent: 2
     - type: FaxMachine
-      name: Глава Персонала # RU-Localization
+      name: Head of Personnel
   - uid: 7356
     components:
     - type: Transform
       pos: -9.5,-303.5
       parent: 2
     - type: FaxMachine
-      name: Научный Руководитель # RU-Localization
+      name: Research Director
   - uid: 7357
     components:
     - type: Transform
       pos: -2.5,-346.5
       parent: 2
     - type: FaxMachine
-      name: Глава Службы Безопасности # RU-Localization
+      name: Head of Security
   - uid: 17615
     components:
     - type: Transform
       pos: 1.5,-363.5
       parent: 2
     - type: FaxMachine
-      name: Офис Смотрителя # RU-Localization
+      name: Warden Office
 - proto: FaxMachineCaptain
   entities:
   - uid: 7358

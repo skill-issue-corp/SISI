@@ -640,7 +640,7 @@ entities:
       pos: -0.5,1.5
       parent: 1
     - type: FaxMachine
-      name: факс дальнего действия Синдиката # RU-Localization
+      name: syndicate long range fax machine
 - proto: GasPassiveVent
   entities:
   - uid: 108

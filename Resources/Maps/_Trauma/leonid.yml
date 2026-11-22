@@ -5,7 +5,7 @@ meta:
   forkId: ""
   forkVersion: ""
   time: 09/30/2026 02:40:08
-  entityCount: 35861
+  entityCount: 35867
 maps:
 - 1
 grids:
@@ -113362,91 +113362,91 @@ entities:
       parent: 2
       pos: -82.5,-30.5
     - type: FaxMachine
-      name: Офис Репортёра # RU-Localization
+      name: Reporter's Office
   - uid: 18561
     components:
     - type: Transform
       parent: 2
       pos: -21.5,-5.5
     - type: FaxMachine
-      name: Сервис # RU-Localization
+      name: Service
   - uid: 18562
     components:
     - type: Transform
       parent: 2
       pos: -20.5,12.5
     - type: FaxMachine
-      name: Мостик # RU-Localization
+      name: Bridge
   - uid: 18563
     components:
     - type: Transform
       parent: 2
       pos: -31.5,-17.5
     - type: FaxMachine
-      name: Станционный Офис ЦентКом # RU-Localization
+      name: On-Station Centcomm Office
   - uid: 18564
     components:
     - type: Transform
       parent: 2
       pos: -55.5,1.5
     - type: FaxMachine
-      name: Офис Дека # RU-Localization
+      name: Det's Office
   - uid: 18565
     components:
     - type: Transform
       parent: 2
       pos: -66.5,-17.5
     - type: FaxMachine
-      name: Офис ГВ # RU-Localization
+      name: CMO's Office
   - uid: 18566
     components:
     - type: Transform
       parent: 2
       pos: -71.5,19.5
     - type: FaxMachine
-      name: Безопасность # RU-Localization
+      name: Security
   - uid: 18567
     components:
     - type: Transform
       parent: 2
       pos: -31.5,28.5
     - type: FaxMachine
-      name: Атмос # RU-Localization
+      name: Atmos
   - uid: 18568
     components:
     - type: Transform
       parent: 2
       pos: -29.5,32.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: Engineering
   - uid: 18569
     components:
     - type: Transform
       parent: 2
       pos: -9.5,30.5
     - type: FaxMachine
-      name: Офис СИ # RU-Localization
+      name: CE's Office
   - uid: 18571
     components:
     - type: Transform
       parent: 2
       pos: -58.5,-62.5
     - type: FaxMachine
-      name: Офис НРа # RU-Localization
+      name: RD's Office
   - uid: 18572
     components:
     - type: Transform
       parent: 2
       pos: -24.5,15.5
     - type: FaxMachine
-      name: Офис ГП # RU-Localization
+      name: HoP's Office
   - uid: 18573
     components:
     - type: Transform
       parent: 2
       pos: -57.5,34.5
     - type: FaxMachine
-      name: Офис ГСБ # RU-Localization
+      name: HoS' Office
   - uid: 18574
     components:
     - type: MetaData
@@ -113455,7 +113455,7 @@ entities:
       parent: 2
       pos: 7.5,44.5
     - type: FaxMachine
-      name: Библиотека # RU-Localization
+      name: Library
   - uid: 18575
     components:
     - type: MetaData
@@ -113464,7 +113464,7 @@ entities:
       parent: 2
       pos: -57.5,12.5
     - type: FaxMachine
-      name: Юридический Офис # RU-Localization
+      name: Lawyer's Office
   - uid: 18576
     components:
     - type: MetaData
@@ -113474,56 +113474,56 @@ entities:
       parent: 2
       pos: 16.5,67.5
     - type: FaxMachine
-      name: ХОНК!!!!1! # RU-Localization
+      name: HONK!!!!1!
   - uid: 18577
     components:
     - type: Transform
       parent: 2
       pos: -80.5,5.5
     - type: FaxMachine
-      name: Прибытие # RU-Localization
+      name: Arrivals
   - uid: 18578
     components:
     - type: Transform
       parent: 2
       pos: 29.5,-78.5
     - type: FaxMachine
-      name: Комната Ядра ИИ # RU-Localization
+      name: AI core room
   - uid: 18579
     components:
     - type: Transform
       parent: 2
       pos: -10.5,-32.5
     - type: FaxMachine
-      name: Снабжение # RU-Localization
+      name: Supply
   - uid: 18580
     components:
     - type: Transform
       parent: 2
       pos: -31.5,-55.5
     - type: FaxMachine
-      name: Наука # RU-Localization
+      name: Science
   - uid: 18581
     components:
     - type: Transform
       parent: 2
       pos: 0.5,-43.5
     - type: FaxMachine
-      name: Офис КМа # RU-Localization
+      name: QM's Office
   - uid: 18582
     components:
     - type: Transform
       parent: 2
       pos: -40.5,-14.5
     - type: FaxMachine
-      name: Медицинский # RU-Localization
+      name: Medical
   - uid: 18583
     components:
     - type: Transform
       parent: 2
       pos: -8.5,-62.5
     - type: FaxMachine
-      name: Ксенобиология # RU-Localization
+      name: Xenobiology
 - proto: FaxMachineCaptain
   entities:
   - uid: 18584

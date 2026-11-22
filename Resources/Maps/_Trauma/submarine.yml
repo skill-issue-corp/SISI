@@ -125968,112 +125968,112 @@ entities:
       parent: 2
       pos: 53.5,30.5
     - type: FaxMachine
-      name: Библиотека # RU-Localization
+      name: Library
   - uid: 2339
     components:
     - type: Transform
       parent: 2
       pos: -46.5,32.5
     - type: FaxMachine
-      name: Атмос # RU-Localization
+      name: Atmospherics
   - uid: 3279
     components:
     - type: Transform
       parent: 2
       pos: 4.5,29.5
     - type: FaxMachine
-      name: ГП # RU-Localization
+      name: HoP
   - uid: 3314
     components:
     - type: Transform
       parent: 2
       pos: -59.5,-4.5
     - type: FaxMachine
-      name: Ботаник # RU-Localization
+      name: Botany
   - uid: 5484
     components:
     - type: Transform
       parent: 2
       pos: 36.5,23.5
     - type: FaxMachine
-      name: Эпистемология # RU-Localization
+      name: Epistemics
   - uid: 6535
     components:
     - type: Transform
       parent: 2
       pos: -6.5,-25.5
     - type: FaxMachine
-      name: Почтовая Комната # RU-Localization
+      name: Mailroom
   - uid: 7118
     components:
     - type: Transform
       parent: 2
       pos: -14.5,-25.5
     - type: FaxMachine
-      name: Карго # RU-Localization
+      name: Cargo
   - uid: 8856
     components:
     - type: Transform
       parent: 2
       pos: -62.5,17.5
     - type: FaxMachine
-      name: Старший Инженер # RU-Localization
+      name: Chief Engineer
   - uid: 8905
     components:
     - type: Transform
       parent: 2
       pos: -47.5,27.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: Engineering
   - uid: 11666
     components:
     - type: Transform
       parent: 2
       pos: -50.5,-26.5
     - type: FaxMachine
-      name: Бар # RU-Localization
+      name: Bar
   - uid: 12415
     components:
     - type: Transform
       parent: 2
       pos: -52.5,-12.5
     - type: FaxMachine
-      name: Фуд-корт # RU-Localization
+      name: Food Court
   - uid: 13321
     components:
     - type: Transform
       parent: 2
       pos: -73.5,16.5
     - type: FaxMachine
-      name: Зоопарк # RU-Localization
+      name: Zoo
   - uid: 15601
     components:
     - type: Transform
       parent: 2
       pos: -9.5,28.5
     - type: FaxMachine
-      name: Безопасность # RU-Localization
+      name: Security
   - uid: 18134
     components:
     - type: Transform
       parent: 2
       pos: -7.5,65.5
     - type: FaxMachine
-      name: Адвокат # RU-Localization
+      name: Court Defense Attorney
   - uid: 18161
     components:
     - type: Transform
       parent: 2
       pos: -2.5,50.5
     - type: FaxMachine
-      name: Прокурор # RU-Localization
+      name: Prosecutor
   - uid: 18212
     components:
     - type: Transform
       parent: 2
       pos: -5.5,65.5
     - type: FaxMachine
-      name: Государственный Адвокат # RU-Localization
+      name: Public Defense Attorney
   - uid: 18652
     components:
     - type: Transform
@@ -126085,98 +126085,98 @@ entities:
       parent: 2
       pos: -18.5,51.5
     - type: FaxMachine
-      name: Офис Смотрителя # RU-Localization
+      name: Warden's Office
   - uid: 22253
     components:
     - type: Transform
       parent: 2
       pos: -40.5,12.5
     - type: FaxMachine
-      name: Чулан Уборщика # RU-Localization
+      name: Janitorial Closet
   - uid: 22265
     components:
     - type: Transform
       parent: 2
       pos: -6.5,-42.5
     - type: FaxMachine
-      name: Утилизатор # RU-Localization
+      name: Salvage
   - uid: 22665
     components:
     - type: Transform
       parent: 2
       pos: -29.5,-9.5
     - type: FaxMachine
-      name: Репортёр # RU-Localization
+      name: Reporter
   - uid: 23284
     components:
     - type: Transform
       parent: 2
       pos: -27.5,-23.5
     - type: FaxMachine
-      name: Квартирмейстер # RU-Localization
+      name: Quartermaster
   - uid: 23440
     components:
     - type: Transform
       parent: 2
       pos: -3.5,-31.5
     - type: FaxMachine
-      name: Прибытие # RU-Localization
+      name: Arrivals
   - uid: 23705
     components:
     - type: Transform
       parent: 2
       pos: 5.5,7.5
     - type: FaxMachine
-      name: Больница # RU-Localization
+      name: Hospital
   - uid: 29698
     components:
     - type: Transform
       parent: 2
       pos: -77.5,3.5
     - type: FaxMachine
-      name: Хонкомната # RU-Localization
+      name: Honkroom
   - uid: 29703
     components:
     - type: Transform
       parent: 2
       pos: -8.5,33.5
     - type: FaxMachine
-      name: Службы Безопасности # RU-Localization
+      name: Head of Security
   - uid: 30756
     components:
     - type: Transform
       parent: 2
       pos: 46.5,30.5
     - type: FaxMachine
-      name: Мистагог # RU-Localization
+      name: Mystagogue
   - uid: 30879
     components:
     - type: Transform
       parent: 2
       pos: -41.5,34.5
     - type: FaxMachine
-      name: Детектив # RU-Localization
+      name: Detective
   - uid: 38845
     components:
     - type: Transform
       parent: 2
       pos: -11.5,-11.5
     - type: FaxMachine
-      name: Главный Врач # RU-Localization
+      name: Chief Medical Officer
   - uid: 39594
     components:
     - type: Transform
       parent: 2
       pos: 19.5,56.5
     - type: FaxMachine
-      name: Мостик # RU-Localization
+      name: Bridge
   - uid: 39716
     components:
     - type: Transform
       parent: 2
       pos: -23.5,61.5
     - type: FaxMachine
-      name: Психиатрическое Отделение # RU-Localization
+      name: Psych Ward
 - proto: FaxMachineCaptain
   entities:
   - uid: 15124
@@ -126185,7 +126185,7 @@ entities:
       parent: 2
       pos: 29.5,52.5
     - type: FaxMachine
-      name: Капитан # RU-Localization
+      name: Captain
 - proto: FaxMachineCentcom
   entities:
   - uid: 2873

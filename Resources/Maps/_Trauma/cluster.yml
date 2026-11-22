@@ -5,7 +5,7 @@ meta:
   forkId: ""
   forkVersion: ""
   time: 11/15/2026 21:18:32
-  entityCount: 13450
+  entityCount: 13455
 maps:
 - 1
 grids:
@@ -30804,11 +30804,6 @@ entities:
       pos: 23.5,14.5
 - proto: CrateSecurityTrackingMindshieldImplants
   entities:
-  - uid: 8344
-    components:
-    - type: Transform
-      parent: 2
-      pos: 39.5,13.5
   - uid: 9221
     components:
     - type: Transform
@@ -35894,77 +35889,77 @@ entities:
       parent: 2
       pos: -22.5,11.5
     - type: FaxMachine
-      name: Медицинский # RU-Localization
+      name: Medical
   - uid: 5271
     components:
     - type: Transform
       parent: 2
       pos: -8.5,31.5
     - type: FaxMachine
-      name: Мостик # RU-Localization
+      name: Bridge
   - uid: 5272
     components:
     - type: Transform
       parent: 2
       pos: -0.5,21.5
     - type: FaxMachine
-      name: Офис ГП # RU-Localization
+      name: HoP Office
   - uid: 5273
     components:
     - type: Transform
       parent: 2
       pos: 26.5,10.5
     - type: FaxMachine
-      name: Безопасность # RU-Localization
+      name: Security
   - uid: 5274
     components:
     - type: Transform
       parent: 2
       pos: -37.5,-4.5
     - type: FaxMachine
-      name: Библиотека # RU-Localization
+      name: Library
   - uid: 5275
     components:
     - type: Transform
       parent: 2
       pos: 4.5,7.5
     - type: FaxMachine
-      name: Бар # RU-Localization
+      name: Bar
   - uid: 5276
     components:
     - type: Transform
       parent: 2
       pos: -16.5,-3.5
     - type: FaxMachine
-      name: Наука # RU-Localization
+      name: Science
   - uid: 5277
     components:
     - type: Transform
       parent: 2
       pos: 11.5,-12.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: Engineering
   - uid: 5278
     components:
     - type: Transform
       parent: 2
       pos: 11.5,-17.5
     - type: FaxMachine
-      name: Карго # RU-Localization
+      name: Cargo
   - uid: 5279
     components:
     - type: Transform
       parent: 2
       pos: 40.5,33.5
     - type: FaxMachine
-      name: Здание Суда # RU-Localization
+      name: Courthouse
   - uid: 5280
     components:
     - type: Transform
       parent: 2
       pos: 12.5,24.5
     - type: FaxMachine
-      name: Офис ПNT # RU-Localization
+      name: Nanorep Office
 - proto: FaxMachineCaptain
   entities:
   - uid: 5281
@@ -57971,6 +57966,48 @@ entities:
     - type: Transform
       parent: 2
       pos: 37.62379,10.523277
+- proto: GunSafeJudo
+  entities:
+  - uid: 8344
+    components:
+    - type: Transform
+      parent: 2
+      pos: 36.5,12.5
+- proto: GunSafeLaserCarbine
+  entities:
+  - uid: 8345
+    components:
+    - type: Transform
+      parent: 2
+      pos: 37.5,13.5
+- proto: GunSafeMelee
+  entities:
+  - uid: 8346
+    components:
+    - type: Transform
+      parent: 2
+      pos: 38.5,13.5
+- proto: GunSafeRiotLauncher
+  entities:
+  - uid: 8347
+    components:
+    - type: Transform
+      parent: 2
+      pos: 39.5,13.5
+- proto: GunSafeShotguns
+  entities:
+  - uid: 8348
+    components:
+    - type: Transform
+      parent: 2
+      pos: 36.5,13.5
+- proto: GunSafeSurplusBallistics
+  entities:
+  - uid: 8349
+    components:
+    - type: Transform
+      parent: 2
+      pos: 39.5,12.5
 - proto: Handcuffs
   entities:
   - uid: 8350
@@ -83866,6 +83903,37 @@ entities:
     - type: Transform
       parent: 2
       pos: 29.325813,16.812252
+- proto: WeaponLaserSidearm
+  entities:
+  - uid: 12706
+    components:
+    - type: Transform
+      parent: 2
+      pos: 18.427715,15.675229
+    - type: Physics
+      linearDamping: 0
+      angularDamping: 0
+  - uid: 12707
+    components:
+    - type: Transform
+      parent: 2
+      pos: 18.542297,15.51887
+    - type: Physics
+      linearDamping: 0
+      angularDamping: 0
+  - uid: 12708
+    components:
+    - type: Transform
+      parent: 2
+      pos: 18.646465,15.487599
+    - type: Physics
+      linearDamping: 0
+      angularDamping: 0
+  - uid: 12709
+    components:
+    - type: Transform
+      parent: 2
+      pos: 16.47756,15.577075
 - proto: WelderIndustrialAdvanced
   entities:
   - uid: 12710
@@ -84623,35 +84691,4 @@ entities:
     - type: Transform
       parent: 2
       pos: -19.5,-19.5
-- proto: WeaponDisabler
-  entities:
-  - uid: 12706
-    components:
-    - type: Transform
-      parent: 2
-      pos: 18.427715,15.675229
-    - type: Physics
-      linearDamping: 0
-      angularDamping: 0
-  - uid: 12708
-    components:
-    - type: Transform
-      parent: 2
-      pos: 18.646465,15.487599
-    - type: Physics
-      linearDamping: 0
-      angularDamping: 0
-  - uid: 12707
-    components:
-    - type: Transform
-      parent: 2
-      pos: 18.542297,15.51887
-    - type: Physics
-      linearDamping: 0
-      angularDamping: 0
-  - uid: 12709
-    components:
-    - type: Transform
-      parent: 2
-      pos: 16.47756,15.577075
 ...

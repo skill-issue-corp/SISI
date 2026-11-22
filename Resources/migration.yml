@@ -91,7 +91,7 @@ PosterLegitHelio: null
 # 2026-01-07 # inky - kys
 # GunSafeDisabler: GunSafePhaser
 # WeaponDisabler: WeaponLaserSidearm
-# GunSafePhaser: GunSafeDisabler # SIS
+GunSafePhaser: GunSafeDisabler
 WeaponLaserSidearm: WeaponDisabler
 
 # 2026-01-08 back to wizden mail
@@ -192,7 +192,7 @@ SodaDispenser: EnergySodaDispenser
 MaterialSilo: MachineMasterMaterialSilo
 
 # 2026-06-21
-# GunSafeLaserSpec: GunSafeSurplusBallistics # SIS
+GunSafeLaserSpec: GunSafeSurplusBallistics
 
 # 2026-07-25
 WehMedipen: WehMedipenTiny
@@ -1323,24 +1323,6 @@ CrateEngineeringThruster: CrateSpaceThruster
 # 2026-08-26 # SIS
 SpawnMobCorgiMouse: null
 
-# 2026-10-11 # SIS
-GunSafeLaserCarbine: null
-GunSafeShotguns: null
-GunSafeLaserSpec: null
-GunSafeSurplusBallistics: null
-GunSafeMelee: null
-GunSafeRiotLauncher: null
-GunSafePhaser: null
-GunSafeHunter: null
-GunSafeJudo: null
-GunSafeShotgunKammerer: null
-GunSafeLaserCarbineOutdated: null
-GunSafeShotgunEnforcer: null
-GunSafeDisabler: null
-GunSafePistolMk58: null
-GunSafeRifleLecter: null
-GunSafeSubMachineGunDrozd: null
-GunSafeSubMachineGunWt550: null
 # 2026-08-12
 LightReplacer: LightReplacerFilled
 

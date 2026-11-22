@@ -2909,7 +2909,7 @@ entities:
       pos: -2.5,-3.5
       parent: 2
     - type: FaxMachine
-      name: Агенты КНС # RU-Localization
+      name: Space IRS
 - proto: filingCabinetDrawerRandom
   entities:
   - uid: 534

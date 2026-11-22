@@ -64095,42 +64095,42 @@ entities:
       parent: 2
       pos: 2.5,32.5
     - type: FaxMachine
-      name: ГП # RU-Localization
+      name: HoP
   - uid: 10173
     components:
     - type: Transform
       parent: 2
       pos: -12.5,-15.5
     - type: FaxMachine
-      name: Медицинский # RU-Localization
+      name: Medical
   - uid: 10174
     components:
     - type: Transform
       parent: 2
       pos: -33.5,-17.5
     - type: FaxMachine
-      name: Офис ГВ # RU-Localization
+      name: CMO Office
   - uid: 10175
     components:
     - type: Transform
       parent: 2
       pos: -44.5,33.5
     - type: FaxMachine
-      name: Офис Детектива # RU-Localization
+      name: Detective Office
   - uid: 10176
     components:
     - type: Transform
       parent: 2
       pos: -53.5,29.5
     - type: FaxMachine
-      name: Юридический Офис # RU-Localization
+      name: Law Office
   - uid: 10177
     components:
     - type: Transform
       parent: 2
       pos: -21.5,-39.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: Engineering
       destinationAddress: Engineering
   - uid: 10178
     components:
@@ -64145,49 +64145,49 @@ entities:
       parent: 2
       pos: -9.5,-35.5
     - type: FaxMachine
-      name: Офис СИ # RU-Localization
+      name: CE Office
   - uid: 10180
     components:
     - type: Transform
       parent: 2
       pos: 23.5,14.5
     - type: FaxMachine
-      name: Наука # RU-Localization
+      name: Science
   - uid: 10181
     components:
     - type: Transform
       parent: 2
       pos: -5.5,43.5
     - type: FaxMachine
-      name: Мостик # RU-Localization
+      name: Bridge
   - uid: 10182
     components:
     - type: Transform
       parent: 2
       pos: -33.5,54.5
     - type: FaxMachine
-      name: Безопасность # RU-Localization
+      name: Security
   - uid: 10183
     components:
     - type: Transform
       parent: 2
       pos: -82.5,-44.5
     - type: FaxMachine
-      name: Священник # RU-Localization
+      name: Chaplain
   - uid: 10184
     components:
     - type: Transform
       parent: 2
       pos: 15.5,2.5
     - type: FaxMachine
-      name: Карго # RU-Localization
+      name: Cargo
   - uid: 10185
     components:
     - type: Transform
       parent: 2
       pos: -30.5,-0.5
     - type: FaxMachine
-      name: Психология # RU-Localization
+      name: Psych
 - proto: FaxMachineCaptain
   entities:
   - uid: 10186
@@ -64196,7 +64196,7 @@ entities:
       parent: 2
       pos: -21.5,30.5
     - type: FaxMachine
-      name: Капитан # RU-Localization
+      name: Captain
 - proto: filingCabinet
   entities:
   - uid: 10187

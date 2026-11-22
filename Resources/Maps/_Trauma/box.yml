@@ -78614,91 +78614,91 @@ entities:
       parent: 2
       pos: -4.5,-44.5
     - type: FaxMachine
-      name: Офис Представителя Nanotrasen # RU-Localization
+      name: Nanotrasen Representative Office
   - uid: 12655
     components:
     - type: Transform
       parent: 2
       pos: -2.5,-63.5
     - type: FaxMachine
-      name: Офис СИ # RU-Localization
+      name: CE Office
   - uid: 12656
     components:
     - type: Transform
       parent: 2
       pos: 37.5,-38.5
     - type: FaxMachine
-      name: Офис ГВ # RU-Localization
+      name: CMO Office
   - uid: 12657
     components:
     - type: Transform
       parent: 2
       pos: -13.5,-13.5
     - type: FaxMachine
-      name: Конференц-зал # RU-Localization
+      name: Conference Room
   - uid: 12658
     components:
     - type: Transform
       parent: 2
       pos: 37.5,-19.5
     - type: FaxMachine
-      name: Морг # RU-Localization
+      name: Morgue
   - uid: 12659
     components:
     - type: Transform
       parent: 2
       pos: 5.5,-51.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: Engineering
   - uid: 12660
     components:
     - type: Transform
       parent: 2
       pos: -33.5,-26.5
     - type: FaxMachine
-      name: Офис КМа # RU-Localization
+      name: QM Office
   - uid: 12661
     components:
     - type: Transform
       parent: 2
       pos: -11.5,13.5
     - type: FaxMachine
-      name: Юридический офис # RU-Localization
+      name: Law Office
   - uid: 12662
     components:
     - type: Transform
       parent: 2
       pos: 71.5,-37.5
     - type: FaxMachine
-      name: НР # RU-Localization
+      name: RD
   - uid: 12663
     components:
     - type: Transform
       parent: 2
       pos: 12.5,41.5
     - type: FaxMachine
-      name: ГСБ # RU-Localization
+      name: HoS
   - uid: 12664
     components:
     - type: Transform
       parent: 2
       pos: -21.5,-15.5
     - type: FaxMachine
-      name: Почтовая Комната # RU-Localization
+      name: Mail Room
   - uid: 12665
     components:
     - type: Transform
       parent: 2
       pos: 59.5,-2.5
     - type: FaxMachine
-      name: Библиотека # RU-Localization
+      name: Library
   - uid: 12666
     components:
     - type: Transform
       parent: 2
       pos: 33.5,-20.5
     - type: FaxMachine
-      name: Медицинский # RU-Localization
+      name: Medical
 - proto: FaxMachineCaptain
   entities:
   - uid: 12667
@@ -78707,7 +78707,7 @@ entities:
       parent: 2
       pos: 5.5,-15.5
     - type: FaxMachine
-      name: Капитан # RU-Localization
+      name: Captain
 - proto: filingCabinet
   entities:
   - uid: 12668

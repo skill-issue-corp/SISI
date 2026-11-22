@@ -2416,7 +2416,7 @@ entities:
       pos: -0.5,-5.5
       parent: 2
     - type: FaxMachine
-      name: Логово Волшебника # RU-Localization
+      name: Wizard's Den
       responsePings: False
       notifyAdmins: True
 - proto: FenceWoodSmallCorner

@@ -92269,56 +92269,56 @@ entities:
       parent: 2
       pos: -18.5,84.5
     - type: FaxMachine
-      name: Факс ГП # RU-Localization
+      name: HoP Fax
   - uid: 14107
     components:
     - type: Transform
       parent: 2
       pos: -76.5,75.5
     - type: FaxMachine
-      name: Юрист # RU-Localization
+      name: Lawyer
   - uid: 18002
     components:
     - type: Transform
       parent: 2
       pos: 84.5,67.5
     - type: FaxMachine
-      name: Факс ГСБ # RU-Localization
+      name: HoS Fax
   - uid: 18607
     components:
     - type: Transform
       parent: 2
       pos: -17.5,203.5
     - type: FaxMachine
-      name: Факс ГВ # RU-Localization
+      name: CMO Fax
   - uid: 18641
     components:
     - type: Transform
       parent: 2
       pos: -41.5,107.5
     - type: FaxMachine
-      name: Мостик # RU-Localization
+      name: Bridge
   - uid: 18644
     components:
     - type: Transform
       parent: 2
       pos: -22.5,-9.5
     - type: FaxMachine
-      name: Факс КМа # RU-Localization
+      name: QM Fax
   - uid: 19952
     components:
     - type: Transform
       parent: 2
       pos: -88.5,160.5
     - type: FaxMachine
-      name: Факс НРа # RU-Localization
+      name: RD Fax
   - uid: 27626
     components:
     - type: Transform
       parent: 2
       pos: -115.5,56.5
     - type: FaxMachine
-      name: Факс СИ # RU-Localization
+      name: CE Fax
 - proto: FaxMachineCaptain
   entities:
   - uid: 4580
@@ -92327,7 +92327,7 @@ entities:
       parent: 2
       pos: -34.5,101.5
     - type: FaxMachine
-      name: Капитанский Факс # RU-Localization
+      name: Captain Fax
 - proto: FenceMetalBroken
   entities:
   - uid: 26037

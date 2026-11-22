@@ -50800,28 +50800,28 @@ entities:
       parent: 2
       pos: -34.5,39.5
     - type: FaxMachine
-      name: Офис ГСБ # RU-Localization
+      name: HOS Office
   - uid: 7903
     components:
     - type: Transform
       parent: 2
       pos: 1.5,73.5
     - type: FaxMachine
-      name: Офис КМа # RU-Localization
+      name: QM's Office
   - uid: 7904
     components:
     - type: Transform
       parent: 2
       pos: -42.5,67.5
     - type: FaxMachine
-      name: Офис Репортёра # RU-Localization
+      name: Reporter's Office
   - uid: 7905
     components:
     - type: Transform
       parent: 2
       pos: -39.5,44.5
     - type: FaxMachine
-      name: Безопасность # RU-Localization
+      name: Security
   - uid: 7906
     components:
     - type: Transform
@@ -50833,63 +50833,63 @@ entities:
       parent: 2
       pos: 22.5,43.5
     - type: FaxMachine
-      name: Офис НРа # RU-Localization
+      name: RD's Office
   - uid: 7908
     components:
     - type: Transform
       parent: 2
       pos: -66.5,57.5
     - type: FaxMachine
-      name: Библиотека # RU-Localization
+      name: Library
   - uid: 7910
     components:
     - type: Transform
       parent: 2
       pos: -23.5,75.5
     - type: FaxMachine
-      name: Мостик # RU-Localization
+      name: Bridge
   - uid: 7911
     components:
     - type: Transform
       parent: 2
       pos: -30.5,61.5
     - type: FaxMachine
-      name: Офис ГП # RU-Localization
+      name: HOP's Office
   - uid: 7912
     components:
     - type: Transform
       parent: 2
       pos: -10.5,64.5
     - type: FaxMachine
-      name: Юридический Офис # RU-Localization
+      name: Law Office
   - uid: 7913
     components:
     - type: Transform
       parent: 2
       pos: -67.5,12.5
     - type: FaxMachine
-      name: Офис Священника # RU-Localization
+      name: Chaplain's Office
   - uid: 7914
     components:
     - type: Transform
       parent: 2
       pos: -8.5,5.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: Engineering
   - uid: 7915
     components:
     - type: Transform
       parent: 2
       pos: -1.5,25.5
     - type: FaxMachine
-      name: Офис ГВ # RU-Localization
+      name: CMO's Office
   - uid: 7916
     components:
     - type: Transform
       parent: 2
       pos: -28.5,5.5
     - type: FaxMachine
-      name: Офис СИ # RU-Localization
+      name: CE's Office
 - proto: FaxMachineCaptain
   entities:
   - uid: 11475
@@ -50898,7 +50898,7 @@ entities:
       parent: 2
       pos: -12.5,70.5
     - type: FaxMachine
-      name: Офис Священника # RU-Localization
+      name: Captain's office
 - proto: FaxMachineCentcom
   entities:
   - uid: 7917
@@ -50907,7 +50907,7 @@ entities:
       parent: 2
       pos: -14.5,79.5
     - type: FaxMachine
-      name: Офис ПNT/ОСЩ # RU-Localization
+      name: NTR/BSO office
 - proto: filingCabinetDrawerRandom
   entities:
   - uid: 7918

@@ -1585,7 +1585,7 @@ entities:
       pos: -2.5,3.5
       parent: 1
     - type: FaxMachine
-      name: NT-Гриффин # RU-Localization
+      name: NT-Griffin
 - proto: FireAlarm
   entities:
   - uid: 351

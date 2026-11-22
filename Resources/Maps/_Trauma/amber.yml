@@ -75188,105 +75188,105 @@ entities:
       parent: 2
       pos: 24.5,1.5
     - type: FaxMachine
-      name: Уборщик # RU-Localization
+      name: Janitor
   - uid: 10967
     components:
     - type: Transform
       parent: 2
       pos: -27.5,4.5
     - type: FaxMachine
-      name: Безопасность # RU-Localization
+      name: Security
   - uid: 10968
     components:
     - type: Transform
       parent: 2
       pos: 18.5,15.5
     - type: FaxMachine
-      name: Почтовая Комната # RU-Localization
+      name: Mail Room
   - uid: 10969
     components:
     - type: Transform
       parent: 2
       pos: 2.5,20.5
     - type: FaxMachine
-      name: Карго # RU-Localization
+      name: Cargo
   - uid: 10970
     components:
     - type: Transform
       parent: 2
       pos: 18.5,-25.5
     - type: FaxMachine
-      name: Наука # RU-Localization
+      name: Science
   - uid: 10971
     components:
     - type: Transform
       parent: 2
       pos: 22.5,-35.5
     - type: FaxMachine
-      name: Библиотека # RU-Localization
+      name: Library
   - uid: 10972
     components:
     - type: Transform
       parent: 2
       pos: -11.5,-13.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: Engineering
   - uid: 10973
     components:
     - type: Transform
       parent: 2
       pos: -41.5,-52.5
     - type: FaxMachine
-      name: Психология # RU-Localization
+      name: Psychology
   - uid: 10974
     components:
     - type: Transform
       parent: 2
       pos: 35.5,-2.5
     - type: FaxMachine
-      name: Церковь # RU-Localization
+      name: Chapel
   - uid: 10975
     components:
     - type: Transform
       parent: 2
       pos: -12.5,-48.5
     - type: FaxMachine
-      name: ГП # RU-Localization
+      name: HoP
   - uid: 10976
     components:
     - type: Transform
       parent: 2
       pos: 27.5,13.5
     - type: FaxMachine
-      name: Юрист # RU-Localization
+      name: Lawyer
   - uid: 10977
     components:
     - type: Transform
       parent: 2
       pos: -52.5,-23.5
     - type: FaxMachine
-      name: ГВ # RU-Localization
+      name: CMO
   - uid: 10978
     components:
     - type: Transform
       parent: 2
       pos: -37.5,-24.5
     - type: FaxMachine
-      name: Медицинский # RU-Localization
+      name: Medical
   - uid: 10979
     components:
     - type: Transform
       parent: 2
       pos: -17.5,-50.5
     - type: FaxMachine
-      name: Мостик # RU-Localization
+      name: Bridge
   - uid: 10980
     components:
     - type: Transform
       parent: 2
       pos: -29.5,-53.5
     - type: FaxMachine
-      name: Офис Высокопоставленных # RU-Localization
+      name: Dignitries office
 - proto: FaxMachineCaptain
   entities:
   - uid: 10981

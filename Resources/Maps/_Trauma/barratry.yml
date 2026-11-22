@@ -48012,70 +48012,70 @@ entities:
       parent: 2
       pos: -0.5,-3.5
     - type: FaxMachine
-      name: Наука # RU-Localization
+      name: Science
   - uid: 6597
     components:
     - type: Transform
       parent: 2
       pos: -1.5,1.5
     - type: FaxMachine
-      name: Офис НРа # RU-Localization
+      name: RD Office
   - uid: 6598
     components:
     - type: Transform
       parent: 2
       pos: 10.5,25.5
     - type: FaxMachine
-      name: Медицинский # RU-Localization
+      name: Medical
   - uid: 6599
     components:
     - type: Transform
       parent: 2
       pos: -46.5,2.5
     - type: FaxMachine
-      name: Карго # RU-Localization
+      name: Cargo
   - uid: 6600
     components:
     - type: Transform
       parent: 2
       pos: -28.5,13.5
     - type: FaxMachine
-      name: Библиотека # RU-Localization
+      name: Library
   - uid: 6601
     components:
     - type: Transform
       parent: 2
       pos: -19.5,48.5
     - type: FaxMachine
-      name: Офис ГП # RU-Localization
+      name: HoP Office
   - uid: 6602
     components:
     - type: Transform
       parent: 2
       pos: -55.5,58.5
     - type: FaxMachine
-      name: Безопасность # RU-Localization
+      name: Security
   - uid: 6603
     components:
     - type: Transform
       parent: 2
       pos: -36.5,37.5
     - type: FaxMachine
-      name: Бар # RU-Localization
+      name: Bar
   - uid: 6604
     components:
     - type: Transform
       parent: 2
       pos: -10.5,55.5
     - type: FaxMachine
-      name: Мостик # RU-Localization
+      name: Bridge
   - uid: 6605
     components:
     - type: Transform
       parent: 2
       pos: -64.5,25.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: Engineering
   - uid: 12002
     components:
     - type: Transform

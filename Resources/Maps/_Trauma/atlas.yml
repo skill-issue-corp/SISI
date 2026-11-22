@@ -5,7 +5,7 @@ meta:
   forkId: ""
   forkVersion: ""
   time: 09/25/2026 07:37:39
-  entityCount: 9293
+  entityCount: 9298
 maps:
 - 1
 grids:
@@ -25065,7 +25065,7 @@ entities:
       parent: 2
       pos: 9.5,5.5
     - type: FaxMachine
-      name: Безопасность # RU-Localization
+      name: Security
   - uid: 3950
     components:
     - type: Transform
@@ -25077,14 +25077,14 @@ entities:
       parent: 2
       pos: 7.5,-8.5
     - type: FaxMachine
-      name: Медицинский # RU-Localization
+      name: Medical
   - uid: 3952
     components:
     - type: Transform
       parent: 2
       pos: -27.5,15.5
     - type: FaxMachine
-      name: Карго # RU-Localization
+      name: Cargo
   - uid: 3953
     components:
     - type: Transform
@@ -25096,14 +25096,14 @@ entities:
       parent: 2
       pos: 25.5,-2.5
     - type: FaxMachine
-      name: Офис ГП # RU-Localization
+      name: HoP's Office
   - uid: 3955
     components:
     - type: Transform
       parent: 2
       pos: -33.5,4.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: Engineering
   - uid: 3956
     components:
     - type: Transform
@@ -40314,6 +40314,66 @@ entities:
     - type: Transform
       parent: 2
       pos: 10.546922,22.353935
+- proto: GunSafeJudo
+  entities:
+  - uid: 6162
+    components:
+    - type: Transform
+      parent: 2
+      pos: 7.5,25.5
+    - type: AccessReader
+      accessListsOriginal:
+      - - Armory
+- proto: GunSafeLaserCarbine
+  entities:
+  - uid: 6163
+    components:
+    - type: Transform
+      parent: 2
+      pos: 8.5,25.5
+    - type: AccessReader
+      accessListsOriginal:
+      - - Armory
+- proto: GunSafeMelee
+  entities:
+  - uid: 6165
+    components:
+    - type: Transform
+      parent: 2
+      pos: 10.5,25.5
+    - type: AccessReader
+      accessListsOriginal:
+      - - Armory
+- proto: GunSafeRiotLauncher
+  entities:
+  - uid: 6166
+    components:
+    - type: Transform
+      parent: 2
+      pos: 9.5,25.5
+    - type: AccessReader
+      accessListsOriginal:
+      - - Armory
+- proto: GunSafeShotguns
+  entities:
+  - uid: 6167
+    components:
+    - type: Transform
+      parent: 2
+      pos: 7.5,24.5
+    - type: AccessReader
+      accessListsOriginal:
+      - - Armory
+- proto: GunSafeSurplusBallistics
+  entities:
+  - uid: 6164
+    components:
+    - type: Transform
+      parent: 2
+      pos: 10.5,24.5
+    - type: AccessReader
+      accessListsOriginal:
+      - - Armory
 - proto: Handcuffs
   entities:
   - uid: 6168
@@ -58096,6 +58156,14 @@ entities:
     - type: DeviceList
       devices:
       - 9148
+- proto: WeaponLaserSidearm
+  entities:
+  - uid: 9150
+    components:
+    - type: Transform
+      parent: 2
+      rot: -1.5707963267948966 rad
+      pos: -0.3716129,18.63571
 - proto: Welder
   entities:
   - uid: 9151
@@ -58971,19 +59039,4 @@ entities:
     - type: Transform
       parent: 2
       pos: -20.5,-31.5
-- proto: DefaultStationBeaconArmory
-  entities:
-  - uid: 6162
-    components:
-    - type: Transform
-      parent: 2
-      pos: 8.5,24.5
-- proto: WeaponDisabler
-  entities:
-  - uid: 9150
-    components:
-    - type: Transform
-      parent: 2
-      rot: -1.5707963267948966 rad
-      pos: -0.3716129,18.63571
 ...

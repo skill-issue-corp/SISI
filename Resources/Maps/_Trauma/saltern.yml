@@ -33807,14 +33807,14 @@ entities:
       parent: 2
       pos: -4.5,14.5
     - type: FaxMachine
-      name: Безопасность # RU-Localization
+      name: Security
   - uid: 5529
     components:
     - type: Transform
       parent: 2
       pos: 14.5,-4.5
     - type: FaxMachine
-      name: Медицинский # RU-Localization
+      name: Medical
       destinationAddress: Medical
   - uid: 5530
     components:
@@ -33822,14 +33822,14 @@ entities:
       parent: 2
       pos: 40.5,4.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: engineering
   - uid: 5531
     components:
     - type: Transform
       parent: 2
       pos: -17.5,-25.5
     - type: FaxMachine
-      name: Наука # RU-Localization
+      name: Science
       destinationAddress: Science
   - uid: 5532
     components:
@@ -33837,14 +33837,14 @@ entities:
       parent: 2
       pos: 9.5,-28.5
     - type: FaxMachine
-      name: Библиотека # RU-Localization
+      name: library
   - uid: 5533
     components:
     - type: Transform
       parent: 2
       pos: 13.5,12.5
     - type: FaxMachine
-      name: Карго # RU-Localization
+      name: Cargo
       destinationAddress: Cargo
   - uid: 5534
     components:
@@ -33852,14 +33852,14 @@ entities:
       parent: 2
       pos: 8.5,18.5
     - type: FaxMachine
-      name: Офис ГП # RU-Localization
+      name: hop's office
   - uid: 5535
     components:
     - type: Transform
       parent: 2
       pos: 1.5,32.5
     - type: FaxMachine
-      name: Мостик # RU-Localization
+      name: bridge
       destinationAddress: bridge
 - proto: FaxMachineCaptain
   entities:
@@ -33869,7 +33869,7 @@ entities:
       parent: 2
       pos: 7.5,24.5
     - type: FaxMachine
-      name: Капитанский Офис # RU-Localization
+      name: captain's office
 - proto: filingCabinetDrawerRandom
   entities:
   - uid: 5537

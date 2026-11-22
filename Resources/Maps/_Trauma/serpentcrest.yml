@@ -81218,126 +81218,126 @@ entities:
       parent: 2
       pos: -6.5,-19.5
     - type: FaxMachine
-      name: Священник # RU-Localization
+      name: Chaplain
   - uid: 12857
     components:
     - type: Transform
       parent: 2
       pos: -33.5,-26.5
     - type: FaxMachine
-      name: Новостная Комната # RU-Localization
+      name: News room
   - uid: 12858
     components:
     - type: Transform
       parent: 2
       pos: -13.5,-48.5
     - type: FaxMachine
-      name: Фронт Interdyne # RU-Localization
+      name: Interdyne front
   - uid: 12859
     components:
     - type: Transform
       parent: 2
       pos: -14.5,11.5
     - type: FaxMachine
-      name: Командование Gorlex # RU-Localization
+      name: Gorlex command
   - uid: 12860
     components:
     - type: Transform
       parent: 2
       pos: -10.5,6.5
     - type: FaxMachine
-      name: Офис Gorlex # RU-Localization
+      name: Gorlex office
   - uid: 12861
     components:
     - type: Transform
       parent: 2
       pos: -19.5,-13.5
     - type: FaxMachine
-      name: Библиотека # RU-Localization
+      name: Library
   - uid: 12862
     components:
     - type: Transform
       parent: 2
       pos: 57.5,16.5
     - type: FaxMachine
-      name: Офис НРа # RU-Localization
+      name: RD's office
   - uid: 12863
     components:
     - type: Transform
       parent: 2
       pos: 13.5,-56.5
     - type: FaxMachine
-      name: ГВ Interdyne # RU-Localization
+      name: Interdyne CMO
   - uid: 12864
     components:
     - type: Transform
       parent: 2
       pos: -61.5,27.5
     - type: FaxMachine
-      name: Офис СИ # RU-Localization
+      name: CE's office
   - uid: 12865
     components:
     - type: Transform
       parent: 2
       pos: -54.5,4.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: Engineering
   - uid: 12866
     components:
     - type: Transform
       parent: 2
       pos: 52.5,-34.5
     - type: FaxMachine
-      name: Офис КМа # RU-Localization
+      name: QM's office
   - uid: 12867
     components:
     - type: Transform
       parent: 2
       pos: 25.5,47.5
     - type: FaxMachine
-      name: Офис ГП # RU-Localization
+      name: HOP's office
   - uid: 12868
     components:
     - type: Transform
       parent: 2
       pos: -21.5,46.5
     - type: FaxMachine
-      name: Командование Cybersun # RU-Localization
+      name: Cybersun command
   - uid: 12869
     components:
     - type: Transform
       parent: 2
       pos: -49.5,-28.5
     - type: FaxMachine
-      name: Юридический отдел Cybersun # RU-Localization
+      name: Cybersun Legal dept.
   - uid: 12870
     components:
     - type: Transform
       parent: 2
       pos: 48.5,-17.5
     - type: FaxMachine
-      name: Доставка Donk co. # RU-Localization
+      name: Donk co. shipping
   - uid: 12871
     components:
     - type: Transform
       parent: 2
       pos: -0.5,48.5
     - type: FaxMachine
-      name: Зал Заседаний # RU-Localization
+      name: Board room
   - uid: 12872
     components:
     - type: Transform
       parent: 2
       pos: 50.5,9.5
     - type: FaxMachine
-      name: Наука # RU-Localization
+      name: Science
   - uid: 12873
     components:
     - type: Transform
       parent: 2
       pos: 5.5,9.5
     - type: FaxMachine
-      name: Офис Смотрителя # RU-Localization
+      name: Warden's office
 - proto: FaxMachineCaptain
   entities:
   - uid: 12874
@@ -81346,7 +81346,7 @@ entities:
       parent: 2
       pos: -4.5,34.5
     - type: FaxMachine
-      name: Капитанский Офис # RU-Localization
+      name: Captain's office
 - proto: FaxMachineCentcom
   entities:
   - uid: 12875
@@ -81355,7 +81355,7 @@ entities:
       parent: 2
       pos: 5.5,50.5
     - type: FaxMachine
-      name: Офис ПNT # RU-Localization
+      name: NTR office
 - proto: filingCabinetDrawerRandom
   entities:
   - uid: 1360

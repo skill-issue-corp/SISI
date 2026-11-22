@@ -5,7 +5,7 @@ meta:
   forkId: ""
   forkVersion: ""
   time: 11/16/2026 18:25:48
-  entityCount: 15605
+  entityCount: 15610
 maps:
 - 1
 grids:
@@ -7602,7 +7602,7 @@ entities:
   - uid: 104
     components:
     - type: MetaData
-      name: Юридический офис # RU-Localization
+      name: Law Office
     - type: Transform
       parent: 2
       pos: -4.5,-7.5
@@ -44363,98 +44363,98 @@ entities:
       parent: 2
       pos: 63.5,10.5
     - type: FaxMachine
-      name: Офис НРа # RU-Localization
+      name: RD Office
   - uid: 6964
     components:
     - type: Transform
       parent: 2
       pos: 8.5,3.5
     - type: FaxMachine
-      name: Библиотека # RU-Localization
+      name: Library
   - uid: 6965
     components:
     - type: Transform
       parent: 2
       pos: 12.5,-33.5
     - type: FaxMachine
-      name: Офис СИ # RU-Localization
+      name: CE Office
   - uid: 6966
     components:
     - type: Transform
       parent: 2
       pos: 45.5,24.5
     - type: FaxMachine
-      name: Офис ГСБ # RU-Localization
+      name: HoS Office
   - uid: 6967
     components:
     - type: Transform
       parent: 2
       pos: 15.5,25.5
     - type: FaxMachine
-      name: Карго # RU-Localization
+      name: Cargo
   - uid: 6968
     components:
     - type: Transform
       parent: 2
       pos: -1.5,-11.5
     - type: FaxMachine
-      name: Юридический офис # RU-Localization
+      name: Law Office
   - uid: 6969
     components:
     - type: Transform
       parent: 2
       pos: 18.5,29.5
     - type: FaxMachine
-      name: Здание Суда # RU-Localization
+      name: Court House
   - uid: 6970
     components:
     - type: Transform
       parent: 2
       pos: 58.5,-9.5
     - type: FaxMachine
-      name: Офис ГВ # RU-Localization
+      name: CMO Office
   - uid: 6971
     components:
     - type: Transform
       parent: 2
       pos: 18.5,-2.5
     - type: FaxMachine
-      name: Офис ГП # RU-Localization
+      name: HoP Office
   - uid: 6972
     components:
     - type: Transform
       parent: 2
       pos: 19.5,-26.5
     - type: FaxMachine
-      name: Инженерный # RU-Localization
+      name: Engineering
   - uid: 6973
     components:
     - type: Transform
       parent: 2
       pos: 23.5,40.5
     - type: FaxMachine
-      name: Конференц-зал # RU-Localization
+      name: Conference Room
   - uid: 6974
     components:
     - type: Transform
       parent: 2
       pos: 50.5,4.5
     - type: FaxMachine
-      name: Медицинский # RU-Localization
+      name: Medical
   - uid: 6975
     components:
     - type: Transform
       parent: 2
       pos: 57.5,20.5
     - type: FaxMachine
-      name: Наука # RU-Localization
+      name: Science
   - uid: 6976
     components:
     - type: Transform
       parent: 2
       pos: 8.5,36.5
     - type: FaxMachine
-      name: Офис КМа # RU-Localization
+      name: QM Office
   - uid: 6977
     components:
     - type: Transform
@@ -44466,7 +44466,7 @@ entities:
       parent: 2
       pos: 39.5,36.5
     - type: FaxMachine
-      name: Офис Смотрителя # RU-Localization
+      name: Warden Offices
 - proto: FaxMachineCaptain
   entities:
   - uid: 6979
@@ -68032,6 +68032,27 @@ entities:
     - type: Transform
       parent: 2
       pos: 5.5,43.5
+- proto: GunSafeJudo
+  entities:
+  - uid: 10229
+    components:
+    - type: Transform
+      parent: 2
+      pos: 43.5,33.5
+- proto: GunSafeLaserCarbine
+  entities:
+  - uid: 10230
+    components:
+    - type: Transform
+      parent: 2
+      pos: 38.5,27.5
+- proto: GunSafeMelee
+  entities:
+  - uid: 10232
+    components:
+    - type: Transform
+      parent: 2
+      pos: 43.5,34.5
 - proto: GunSafePhaser
   entities:
   - uid: 5690
@@ -68039,6 +68060,27 @@ entities:
     - type: Transform
       parent: 2
       pos: 33.5,17.5
+- proto: GunSafeRiotLauncher
+  entities:
+  - uid: 10234
+    components:
+    - type: Transform
+      parent: 2
+      pos: 38.5,26.5
+- proto: GunSafeShotguns
+  entities:
+  - uid: 10235
+    components:
+    - type: Transform
+      parent: 2
+      pos: 41.5,28.5
+- proto: GunSafeSurplusBallistics
+  entities:
+  - uid: 10231
+    components:
+    - type: Transform
+      parent: 2
+      pos: 38.5,28.5
 - proto: Handcuffs
   entities:
   - uid: 10236
@@ -98975,6 +99017,18 @@ entities:
     - type: DeviceList
       devices:
       - 15401
+- proto: WeaponLaserSidearm
+  entities:
+  - uid: 15404
+    components:
+    - type: Transform
+      parent: 2
+      pos: 36.444263,25.95407
+  - uid: 15405
+    components:
+    - type: Transform
+      parent: 2
+      pos: 36.46103,25.799547
 - proto: WeedSpray
   entities:
   - uid: 15406
@@ -100312,23 +100366,4 @@ entities:
     - type: Transform
       parent: 2
       pos: 79.5,15.5
-- proto: CrateSecurityTrackingMindshieldImplants
-  entities:
-  - uid: 10229
-    components:
-    - type: Transform
-      parent: 2
-      pos: 38.5,26.5
-- proto: WeaponDisabler
-  entities:
-  - uid: 15405
-    components:
-    - type: Transform
-      parent: 2
-      pos: 36.46103,25.799547
-  - uid: 15404
-    components:
-    - type: Transform
-      parent: 2
-      pos: 36.444263,25.95407
 ...

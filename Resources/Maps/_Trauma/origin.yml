@@ -92219,84 +92219,84 @@ entities:
       parent: 2
       pos: -28.5,-9.5
     - type: FaxMachine
-      name: Инженерный Факс # RU-Localization
+      name: engineering fax
   - uid: 15115
     components:
     - type: Transform
       parent: 2
       pos: -34.5,23.5
     - type: FaxMachine
-      name: Факс Карго # RU-Localization
+      name: cargo fax
   - uid: 15116
     components:
     - type: Transform
       parent: 2
       pos: 40.5,-39.5
     - type: FaxMachine
-      name: Факс Науки # RU-Localization
+      name: science fax
   - uid: 15117
     components:
     - type: Transform
       parent: 2
       pos: -25.5,-35.5
     - type: FaxMachine
-      name: Факс Атмоса # RU-Localization
+      name: atmos fax
   - uid: 15118
     components:
     - type: Transform
       parent: 2
       pos: 18.5,-14.5
     - type: FaxMachine
-      name: Факс Детектива # RU-Localization
+      name: detective fax
   - uid: 15119
     components:
     - type: Transform
       parent: 2
       pos: 22.5,23.5
     - type: FaxMachine
-      name: Факс Безопасности # RU-Localization
+      name: security fax
   - uid: 15120
     components:
     - type: Transform
       parent: 2
       pos: 12.5,-5.5
     - type: FaxMachine
-      name: Факс Библиотекаря # RU-Localization
+      name: library fax
   - uid: 15121
     components:
     - type: Transform
       parent: 2
       pos: -22.5,-98.5
     - type: FaxMachine
-      name: Факс Техов # RU-Localization
+      name: maint fax
   - uid: 15122
     components:
     - type: Transform
       parent: 2
       pos: -12.5,-19.5
     - type: FaxMachine
-      name: Факс Уборочной # RU-Localization
+      name: janitorial fax
   - uid: 15123
     components:
     - type: Transform
       parent: 2
       pos: -1.5,-6.5
     - type: FaxMachine
-      name: Офис ГП # RU-Localization
+      name: hop office
   - uid: 15124
     components:
     - type: Transform
       parent: 2
       pos: -17.5,-61.5
     - type: FaxMachine
-      name: Факс Медбея # RU-Localization
+      name: medbay fax
   - uid: 15125
     components:
     - type: Transform
       parent: 2
       pos: 4.5,14.5
     - type: FaxMachine
-      name: Сервисная Комната # RU-Localization
+      name: Service Room
 - proto: FaxMachineCaptain
   entities:
   - uid: 15126
