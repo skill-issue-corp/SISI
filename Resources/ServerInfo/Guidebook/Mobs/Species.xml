@@ -1,14 +1,14 @@
 <Document>
   # Виды
 
-  Nanotrasen нанимает представителей самых разных разумных видов.
+  NanoTrasen нанимает представителей самых разных разумных видов.
 
   <!-- Trauma - Completely rewritten -->
   <Box>
     <GuideEntityEmbed Entity="AppearanceHuman" Caption="Человек"/>
     <GuideEntityEmbed Entity="AppearanceVox" Caption="Вокс"/>
     <GuideEntityEmbed Entity="AppearanceMoth" Caption="Ниан"/>
-    <GuideEntityEmbed Entity="AppearanceReptilian" Caption="Рептилия"/>
+    <GuideEntityEmbed Entity="AppearanceReptilian" Caption="Унатх"/>
   </Box>
   <Box>
     <GuideEntityEmbed Entity="AppearanceArachnid" Caption="Арахнид"/>
@@ -18,6 +18,9 @@
   </Box>
   <Box>
     <GuideEntityEmbed Entity="AppearanceIPC" Caption="КПБ"/>
-    <GuideEntityEmbed Entity="MobDecapoid" Caption="Декаподоид"/>
+  <GuideEntityEmbed Entity="MobDecapoid" Caption="Декапод"/>
+  <!-- inky -->
+  <GuideEntityEmbed Entity="AppearanceUngu" Caption="Унгу"/>
+  <!-- /inky -->
   </Box>
 </Document>

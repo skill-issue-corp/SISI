@@ -71,7 +71,7 @@
     <GuideEntityEmbed Entity="XenoborgModuleConstruction" Caption="строительный модуль"/>
   </Box>
 
-  [bold]Upgrade exclusive modules:[/bold]
+  [bold]Эксклюзивные модули улучшения:[/bold]
   <Box>
     <GuideEntityEmbed Entity="XenoborgModuleDoorControl" Caption="модуль управления дверьми"/>
   </Box>

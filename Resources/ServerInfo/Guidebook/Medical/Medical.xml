@@ -15,10 +15,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 Штат сотрудников [color=#5b97bc]медотсека[/color] состоит из медицинских интернов, врачей, парамедиков и химиков. [color=#5b97bc]Медотсеком[/color] руководит главный врач.
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineMedicalDoctor" Caption="Doctor"/>
-    <GuideEntityEmbed Entity="ToyFigurineParamedic" Caption="Paramedic"/>
-    <GuideEntityEmbed Entity="ToyFigurineChemist" Caption="Chemist"/>
-    <GuideEntityEmbed Entity="ToyFigurineChiefMedicalOfficer" Caption="CMO"/>
+    <GuideEntityEmbed Entity="ToyFigurineMedicalDoctor" Caption="Врач"/>
+    <GuideEntityEmbed Entity="ToyFigurineParamedic" Caption="Парамедик"/>
+    <GuideEntityEmbed Entity="ToyFigurineChemist" Caption="Химик"/>
+    <GuideEntityEmbed Entity="ToyFigurineChiefMedicalOfficer" Caption="Главный врач"/>
   </Box>
 
 На данный момент медотсек разделён на два разных вида ухода:

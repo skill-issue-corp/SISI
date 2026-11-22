@@ -1,36 +1,36 @@
 <Document>
-  # Corporate Law
-  This is the law by which Nanotrasen enforces order upon the station.
+  # Корпоративный Закон
+  Этим законом NanoTrasen поддерживает порядок на станции.
 
 
 
 
-  ## Escalation
-  These are the general practices for escalation. Gross misconduct involving over-escalation may waive punishments that would otherwise go to a violator of Corporate Law.
-  - Arresting: A violator of a Type 3 or less Violation must be hailed before being arrested, and is not to be violently arrested if complying, unless corporal punishment is to be issued.
-  - Issuance of Corporal Punishment: If a violator of a Type 1 violation refuses to rectify the violation upon the first command to do so, and only if a command was issued, corporal punishment may then be applied. It is otherwise approved to do so immediately.
-  - Authorization of lethal force: If an officer feels reasonable concern for their life, or the entitiy has violated a Type 4, 5, or non-standard Violation and is not complying.
+  ## Эскалация
+  Ниже изложены общие правила применения силы. При грубом нарушении этих правил из-за чрезмерного применения силы нарушителя корпоративного закона могут освободить от наказания.
+  - Арест. Перед арестом нарушителя, совершившего нарушение 3-го типа или ниже, нужно окликнуть. Если он подчиняется, силу применять нельзя, кроме случаев, когда ему полагается телесное наказание.
+  - Назначение телесного наказания. Если нарушителю 1-го типа приказали устранить нарушение и он не выполнил первое требование, можно применить телесное наказание. В остальных случаях допускается применить его немедленно.
+  - Разрешение на применение смертоносной силы. Допускается, если офицер обоснованно опасается за свою жизнь или если лицо совершило нарушение 4-го или 5-го типа либо нестандартное нарушение и отказывается подчиниться.
 
-  ## Special Punishments
-  - 1.1: Any Nanotrasen Employees without their company-mandated ID is to stay within custody until their ID is re-acquired or until a new ID is assigned. If forceful methods are needed to keep them in custody, they are to be applied.
-  - 3.1: Dereliction of Duty is not to be punished with brig time, and should first be met with corporal punishment, or reduction of access if the employee fills a dangerous occupation.
-  - 3.2: Any officers who fail to meet the standards such as described are to be immediately demoted to cadet as reduction of access. Further violations are to be punished through application of non-standard violations to escalate to a Type 4 Violation, and to result in immediate demotion to D-Class upon even a single further offense. This applies to both Warden and the Head of security in full.
-  - 4.1: Any grossly incompetent command as described in the violation are to be immediately demoted to D-Class.
-  - 4.2: If the Head of Staff fails the evaluation, a treatment plan shall be issued and the command member's access shall be reduced until said treatment is completed. Failure to comply with said treatment plan may result in demotion to D-Class.
+  ## Особые Наказания
+  - 1.1: Сотрудников NanoTrasen без выданной компанией ID-карты следует держать под стражей, пока им не вернут карту или не выдадут новую. При необходимости их удерживают силой.
+  - 3.1: За неисполнение служебных обязанностей не назначают заключение в бриг. Сначала следует применить телесное наказание или ограничить доступ, если сотрудник занимает опасную должность.
+  - 3.2: Офицера, не соответствующего указанным стандартам, немедленно понижают до кадета, чтобы ограничить его доступ. За дальнейшее нарушение применяют правила о нестандартных нарушениях, повышая его до 4-го типа, и немедленно понижают офицера до класса D даже за один повторный проступок. Это правило в полной мере распространяется на смотрителя и главу службы безопасности.
+  - 4.1: Любого члена командования, проявившего грубую некомпетентность, как описано в составе нарушения, немедленно понижают до класса D.
+  - 4.2: Если глава отдела не проходит оценку, ему назначают курс лечения и ограничивают доступ до его завершения. Отказ соблюдать план лечения может повлечь понижение до класса D.
 
-  ## Definitions
-  - Schedule A Narcotics - Minor and department restricted chemicals.
-  - Schedule B Narcotics - Major restricted chemicals.
-  - Pyrotechnic Chemicals - Flammable and explosive chemicals.
-  - Employee, Nanotrasen Employee - Sentient beings who have a contract with Nanotrasen to serve as an employee aboard the station.
-  - Foreign Agents - Any sentient humanoid which is not a violator of the Taboo Violations.
-  - Command - Sentient Employees with command access assigned by Nanotrasen or appointed by the Captain.
-  - Head of Staff - Members of command who reign over a specific department.
-  - Captain - The Nanotrasen dictated captain of the station. Acting captains are not awarded the same rights as the Nanotrasen appointed one.
-  - D-Class - Disposable Nanotrasen property to be utilized for experimentation, undesirable labor, and any other tasks.
-  - Chaplain - An employee who is capable of divination and supernatural healing via any holy scripture that is associated with an approved faith.
-  - Execution - A punishment of which the sentencing is dictated in the Mandate of the Captain Charter. Methods of execution always involve preventing revival through decapitation and collection of the head, incineration, or other methods that ultimately fully prevent revival.
-  - Trial - A Nanotrasen frontier station trial consists of the Head of Security as the Judge and Prosecutor of the case, against the defendant and legally appointed defender. If there is no Head of Security, the Warden and then Captain should act in their place.
-  - Magic Organs - Organs with abnormal and magical effects, such as those of a Space Cobra. Space Hearts and Space lungs are the sole exceptions to this, as how they function is understood to be scientific.
-  - Approved Faith - A supernatural entity or supernatural mechanism that is mentioned as beneficial within the standard scripture of the Holy Bible, the Quaran, the Tanakh Scrolls, or the Clockwork Slab.
+  ## Определения
+  - Наркотики Списка A - химические вещества с ограничениями для отдельных отделов или незначительными ограничениями.
+  - Наркотики Списка B - химические вещества со строгими ограничениями.
+  - Пиротехнические Вещества - легковоспламеняющиеся и взрывчатые химические вещества.
+  - Сотрудник, Сотрудник NanoTrasen - разумное существо, работающее на борту станции по контракту с NanoTrasen.
+  - Сторонние Лица - любые разумные гуманоиды, не совершившие запретных нарушений.
+  - Командование - разумные сотрудники с командным доступом, назначенные NanoTrasen или капитаном.
+  - Глава Отдела - член командования, руководящий определённым отделом.
+  - Капитан - капитан станции, назначенный NanoTrasen. Исполняющий обязанности капитана не получает тех же прав, что назначенный NanoTrasen капитан.
+  - Класс D - расходное имущество NanoTrasen для экспериментов, нежелательных работ и любых других задач.
+  - Священник - сотрудник, способный к прорицанию и сверхъестественному исцелению с помощью священного писания одобренной веры.
+  - Казнь - наказание, порядок назначения которого установлен в разделе хартии о полномочиях капитана. Способ казни всегда должен исключать воскрешение: обезглавливание и изъятие головы, кремация или иной способ, полностью исключающий возвращение к жизни.
+  - Суд - на пограничной станции NanoTrasen глава службы безопасности выступает судьёй и обвинителем, а другой стороной выступают подсудимый и назначенный по закону защитник. В отсутствие главы службы безопасности его место занимает смотритель, а в отсутствие смотрителя - капитан.
+  - Магические Органы - органы с необычными магическими эффектами, например органы космической кобры. Единственные исключения - космические сердца и лёгкие, поскольку механизм их действия объясняется наукой.
+  - Одобренная Вера - сверхъестественная сущность или явление, о которых говорится как о благих в канонических текстах Библии, Корана, свитков Танаха или Заводной Скрижали.
 </Document>
