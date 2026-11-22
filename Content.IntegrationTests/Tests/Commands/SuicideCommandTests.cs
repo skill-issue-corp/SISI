@@ -220,7 +220,7 @@ public sealed class SuicideCommandTests : GameTest
     /// Run the suicide command while the player is holding an execution-capable weapon
     /// </summary>
     [Test]
-    [Explicit] // Trauma - /suicide is disabled // inky - /suicide is enabled // SIS-Explicit_Test
+    // [Explicit] // Trauma - /suicide is disabled // inky - /suicide is enabled
     public async Task TestSuicideByHeldItem()
     {
         var pair = Pair;
