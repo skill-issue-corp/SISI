@@ -1,13 +1,8 @@
-# Инструкции для агентов
+# Project skills
 
-## Перевод Fluent
+Load the skill for the requested task.
 
-Для задач перевода русской локали загружай skill `ss14-fluent-translation`.
-
-## Перевод гайдбуков
-
-Для задач перевода гайдбуков загружай skill `ss14-guidebook-translation`.
-
-## Перевод ченджлога
-
-Для задач перевода ченджлога по диапазону PR загружай skill `ss14-changelog-translation`.
+- [Russian Fluent translation](.opencode/skills/ss14-fluent-translation/SKILL.md)
+- [Guidebook translation](.opencode/skills/ss14-guidebook-translation/SKILL.md)
+- [Changelog translation by PR range](.opencode/skills/ss14-changelog-translation/SKILL.md)
+- [SIS × Inky merge conflict planning and resolution](.opencode/skills/ss14-upstream-merge/SKILL.md)

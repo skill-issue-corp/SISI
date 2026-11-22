@@ -1,71 +1,11 @@
 ---
 name: ss14-changelog-translation
-description: Use when the user asks to translate an SS14 game changelog file (e.g. Resources/Changelog/TraumaChangelog.yml) or a whole fork/mod changelog set ("trauma", "corvax" etc.) for a given range of PR numbers like "с ПРа 3646 до ПРа 3685". Translates only the `message:` fields of changelog entries into Russian. Начинай с запуска scripts/list_entries.py, затем scripts/apply_translations.py и scripts/verify.py.
+description: Translate SS14 changelog messages into Russian for a file or fork and a PR range.
 ---
 
-# Перевод игрового ченджлога SS14
-
-## Область работы
-
-1. По названию форка/мода определи репозиторий (например "trauma" -> `Trauma-Station/Trauma-Station`).
-2. Найди **все** файлы ченджлогов этого форка, а не только основной:
-   `grep -rl "github.com/<owner>/<repo>/pull" Resources/Changelog`.
-   У одного форка обычно несколько файлов (main / admin / maps / rules). Покажи пользователю найденный список и запроси подтверждение, прежде чем переводить во всех.
-3. Диапазон PR включительный с обеих сторон. Записи в ченджлоге упорядочены **по времени, а не по номеру PR**, поэтому между записью с PR=`from` и записью с PR=`to` могут вклиниваться записи с другими номерами.
-   - Для каждого файла найди в порядке файла первую запись с PR=`from` и последнюю с PR=`to`.
-   - Переводи **весь непрерывный участок** между ними, включая вклинившиеся записи с PR вне диапазона. Пример: между 3685 и 4106 вклинились 3656, 3683, 3682, 2576, 3616, 4107–4114 — их тоже надо перевести.
-   - Если границы не находятся или пользователю нужен строго числовой отбор — уточни.
-4. Внутри каждой записи участка переводи только значения полей `message:` в массиве `changes`. Не трогай `author`, `type`, `id`, `time`, `url`.
-
-## Вспомогательные скрипты
-
-Запускай из каталога скилла (пути к файлам — относительно корня репозитория).
-
-- `scripts/list_entries.py <file> <from> <to>` — печатает непрерывный участок (с вклинившимися PR): индексы, номера строк, id, PR и message.
-- `scripts/apply_translations.py <file> <translations.json>` — заменяет `message` **по id записи**, сохраняя заголовок, порядок ключей и блочные скаляры. JSON: `{"<id>": ["перевод", ...]}`.
-- `scripts/verify.py <file> <from> <to> [доп_слова]` — проверяет парсинг YAML, неизменность числа записей и заголовка, отсутствие английских остатков и что `git diff` затронул только `message`. Ненулевой код возврата — есть проблемы.
-
-Рабочий цикл: `list_entries.py` -> перевод -> `apply_translations.py` -> `verify.py`.
-
-## Отслеживание прогресса
-
-Составь список записей для перевода по их `id` (не по номеру PR: PR может повторяться/вклиниваться). Отмечай запись переведённой сразу после того, как переписан её `message`. Не перечитывай уже переведённые записи целиком повторно.
-
-## Источники контекста
-
-1. Обязательные термины бери из `.opencode/docs/GLOSSARY.md`.
-2. Названия сущностей/оружия/реагентов/должностей сверяй с уже переведённой локалью `Resources/Locale/ru-RU/**/*.ftl` (по ключу `ent-*`/`reagent-*`/`job-*` и т.п.), прежде чем изобретать перевод. Примеры: `Slayer overcoat` -> Плащ И.С.Т.Р.Е.Б.И.Т.Е.Л.Ь., `Burnite` -> горнит, `hardlight bow` -> энергетический лук, `Rancher` -> Животновод, `thrall` -> тралл.
-3. Если `message` слишком лаконичен или содержит специфичную механику/сущность, не ясную из текста (название системы, предмета, фичи форка) — открой соответствующий PR по `url:` через GitHub (описание PR, изменённые файлы, комментарии) для контекста. Не переводи по названию PR буквально — оно не заменяет `message`.
-4. Непереведённые ключи локализации внутри message (например `reagent-name-unknown-reagent`) — намеренный текст-заглушка, оставляй как есть.
-
-## Правила перевода message
-
-- Сохраняй тон и юмор оригинала.
-- Сохраняй регистр слов и букв оригинала.
-- Соблюдай грамматическое время оригинала. Ченджлоги почти всегда пишутся в прошедшем времени (`Added`, `Fixed`, `Tweaked`, `Removed` -> «Добавлено», «Исправлено», «Изменено», «Убрано/Удалено»); не переводи их настоящим или будущим временем и не смешивай времена внутри одной записи. Если оригинал намеренно в настоящем времени (`Spiders can now multiply` -> «Пауки теперь могут размножаться») — сохраняй настоящее.
-- Сохраняй числа, пороги, проценты и обозначения вида `16 > 1` без изменений.
-- `type:` (`Add`/`Tweak`/`Fix`/`Remove` и т.п.) не переводится и не влияет на текст message — это фиксированные теги.
-- Сохраняй markdown-разметку внутри message (если есть) без изменений структуры, переводи только текст.
-
-## YAML-формат — критично
-
-- Никогда не переформатируй файл целиком. Правь записи на месте строго по `id` (текст `message` не уникален — бывают дубликаты).
-- Сохраняй преамбулу перед первым `- author:`: `Name`, `Order`, `AdminOnly`, `Entries` и возможный BOM. При скриптовой разбивке по `- author:` легко потерять заголовок — не теряй.
-- Не меняй порядок ключей внутри записи (`message` и `type` могут идти в любом порядке) и кавычки у `time:` (`'...'`).
-- Сохраняй стиль YAML-значения как в оригинале:
-    - однострочные значения без кавычек остаются однострочными;
-    - блочные скаляры (`>-`, `|-` и т.п.) остаются блочными, с тем же отступом и тем же символом сворачивания строк; не переводи в одну строку и не меняй `>-` на `|-`.
-- Если перевод содержит `: ` или начинается со спецсимвола YAML — оборачивай значение в кавычки.
-
-## Обязательная проверка
-
-После перевода запусти `scripts/verify.py <file> <from> <to>` и добейся нулевого кода возврата. Скрипт проверяет:
-
-1. YAML валиден, число записей совпадает с числом строк `- author:`, заголовок на месте.
-2. Во всём участке не осталось непереведённого английского (кроме имён собственных/аббревиатур/URL); при необходимости передай дополнительные разрешённые слова аргументами.
-3. `git diff` затрагивает только строки `message:` и продолжения блочных скаляров.
-
-## Экономия токенов
-
-- Не перечитывай весь файл целиком после каждой переведённой записи. Извлеки участок один раз через `list_entries.py`, правь пакетно через `apply_translations.py`, финальную проверку делай один раз в конце.
-- Не открывай GitHub PR для записей, где `message` самодостаточен и не требует контекста.
+1. For a fork or mod, identify its repository (e.g. Trauma-Station/Trauma-Station). Find all matching files with `rg -l -F "github.com/<owner>/<repo>/pull" Resources/Changelog`. Show the list and confirm before translating across all files.
+2. In each file, take the inclusive chronological span from the first entry for the starting PR through the last for the ending PR. Include intervening entries regardless of PR number. Clarify missing endpoints or requests for strictly numeric filtering.
+3. From the repository root, run the skill's `scripts/list_entries.py <file> <from> <to>` once per file. Track progress by entry ID because PRs and messages may repeat. Translate only `changes[].message`. Preserve tone, humor, case, tense (usually past), numbers, thresholds, percentages, expressions such as `16 > 1`, Markdown structure and literal localization keys. The type tag is independent of the wording.
+4. Use `.opencode/docs/GLOSSARY.md` and check existing names in `Resources/Locale/ru-RU` by entity, reagent or job key. When a message needs context, consult the PR at its URL (description, files or comments) and translate the message itself.
+5. Batch edits with `scripts/apply_translations.py <file> <translations.json>`, using one array per ID in change order, e.g. `{"123": ["Добавлено освещение"]}`. Mark entries done as applied. Preserve the header (including BOM), metadata, key order, timestamp quotes and scalar styles. Keep plain values on one line, quoting YAML-sensitive text as needed. Preserve block indicators and indentation.
+6. Run `scripts/verify.py <file> <from> <to> [allowed_words ...]` after the batch. Resolve failures until it exits zero. Check YAML, entry count, header, remaining English (allow genuine names, abbreviations and URLs), and that the diff touches only messages and their continuations.

@@ -1,34 +1,9 @@
 ---
 name: ss14-guidebook-translation
-description: Use when the user asks to translate an SS14 guidebook/wiki-style document under Resources/ServerInfo (mixed XML tags like <Document>, <Box>, <GuideEntityEmbed> and BBCode-style tags like [color=], [bold], [italic], [textlink=]). These documents are often partially translated already — the skill finds and translates only the remaining untranslated (English) text, leaving existing Russian text and all markup/tags untouched.
+description: Translate remaining English text in SS14 XML guidebooks under Resources/ServerInfo into Russian.
 ---
 
-# Перевод гайдбуков SS14
-
-## Область работы
-
-1. Определи целевой файл по названию/пути, упомянутому пользователем, в `Resources/ServerInfo/**/*.xml`. Если файл не найден или неоднозначен — уточни у пользователя точный путь.
-2. Документ может быть частично переведён. Пройди по тексту и определи, какие абзацы/строки уже на русском (не трогай их), а какие остались на английском (переводи их).
-3. Не пытайся «улучшить» или заново перевести уже русский текст, даже если формулировка кажется неидеальной — только явное указание пользователя даёт на это право.
-4. Переводи только человекочитаемый текст. Не переводи и не изменяй:
-    - имена и структуру тегов (`<Document>`, `<Box>`, `<GuideEntityEmbed>` и т.п.);
-    - значения атрибутов-идентификаторов (`Entity="RevMace"`, `link="Command"`) — это ссылки на внутренние сущности/якоря, не текст;
-    - BBCode-теги и их параметры (`[color=#5e9cff]`, `[bold]`, `[italic]`) — сохраняй тег, переводи только текст внутри;
-    - хоткеи/команды вида `:j`.
-5. Исключение — атрибут `Caption` в `<GuideEntityEmbed ... Caption="..."/>`: если он не пустой и содержит читаемый текст (подпись к изображению/сущности), переводи содержимое атрибута, оставляя имя атрибута и остальную разметку тега без изменений.
-6. Внутри `[textlink="text" link="Anchor"]` переводи только `"text"` (видимую часть ссылки), `link="Anchor"` не трогай — это внутренняя ссылка на другой раздел документа.
-
-## Источники контекста
-
-- Обязательные термины — из `.opencode/docs/GLOSSARY.md`.
-- Если в тексте встречается название сущности/механики форка, не ясное из контекста — можно свериться с другими уже переведёнными гайдбуками в `Resources/ServerInfo`, где та же сущность/термин мог уже упоминаться, вместо изобретения нового перевода.
-
-## Правила перевода
-
-- Сохраняй тон, юмор, сарказм и уровень формальности оригинала.
-- Сохраняй регистр оригинала.
-- Не добавляй сведений, которых нет в оригинале.
-
-## Проверка перед сдачей
-
-После перевода всех абзацев посчитай количество каждого открывающего и закрывающего BBCode-тега (`[bold]`/`[/bold]`, `[italic]`/`[/italic]`, `[color=...]`/`[/color]` и т.п.) и XML-тега (`<Box>`/`</Box>` и т.п.) в переведённом файле и сверь с оригиналом — числа должны совпадать.
+1. Resolve the requested name or path under `Resources/ServerInfo/**/*.xml`. Ask for the exact path if missing or ambiguous.
+2. Translate only human-readable English. Preserve existing Russian unless the user requests revisions. Match tone, humor, sarcasm, formality and capitalization without adding information. Use `.opencode/docs/GLOSSARY.md` and consult translated guidebooks for unclear fork terminology.
+3. Preserve XML structure, tag names, identifiers, BBCode parameters and hotkeys such as `:j`. Translate visible text inside markup, including readable `Caption` values on `<GuideEntityEmbed>` and the display text in `[textlink="text" link="Anchor"]`. Preserve entity IDs and link targets.
+4. Compare counts of each opening and closing XML and BBCode tag with the original after translation.
