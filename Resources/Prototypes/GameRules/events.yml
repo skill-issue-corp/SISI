@@ -502,7 +502,7 @@
       path: /Audio/_SIS/Announcements/attention.ogg # SIS
     earliestStart: 20
     minimumPlayers: 20
-    weight: 2 # Trauma - was 1.5
+    weight: 1.5
     duration: 5
     maxDuration: 20
   - type: VentHordeRule

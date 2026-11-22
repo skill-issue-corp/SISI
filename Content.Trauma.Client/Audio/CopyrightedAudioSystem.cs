@@ -24,7 +24,7 @@ public sealed partial class CopyrightedAudioSystem : EntitySystem
     {
         base.Initialize();
 
-        Subs.CVar(_cfg, TraumaCVars.StreamerMode, x => { StreamerMode = x; UpdateSounds(); }, true);
+        Subs.CVar(_cfg, TraumaCVars.StreamerMode, OnStreamerModeChanged, true); // SIS-Fix_radio // SIS-TODO: Порт фикса радио на травму
     }
 
     // total dmca ANNIHILATION

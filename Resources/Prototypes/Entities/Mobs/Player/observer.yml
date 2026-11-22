@@ -135,8 +135,8 @@
     interfaces:
       enum.RespawnUiKey.Key:
         type: RespawnBoundUserInterface
+  - type: Respawn
   # SIS-End
-  - type: Respawn # SIS
 
 - type: entity
   parent: BaseMentalAction

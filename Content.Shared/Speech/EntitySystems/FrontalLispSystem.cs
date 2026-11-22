@@ -4,7 +4,7 @@ using Robust.Shared.Random;
 
 namespace Content.Shared.Speech.EntitySystems;
 
-public sealed partial class FrontalLispSystem : RelayAccentSystem<FrontalLispComponent> // RU-Localization
+public sealed partial class FrontalLispSystem : RelayAccentSystem<FrontalLispComponent>
 {
     [Dependency] private IRobustRandom _random = default!; // RU-Localization
 

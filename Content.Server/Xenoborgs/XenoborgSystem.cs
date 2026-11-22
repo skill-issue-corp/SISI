@@ -25,6 +25,8 @@ public sealed partial class XenoborgSystem : EntitySystem
     [Dependency] private GreetingSystem _greeting = default!;
     // SIS-ChatBriefing End
 
+    private static readonly Color XenoborgBriefingColor = Color.BlueViolet;
+
     // SIS-ChatBriefing Start
     private static readonly EntProtoId MothershipCoreAntag = "MothershipCore";
     private static readonly ProtoId<AntagSpecifierPrototype> XenoborgAntag = "Xenoborg";
@@ -94,14 +96,14 @@ public sealed partial class XenoborgSystem : EntitySystem
         if (!TryComp<ActorComponent>(ent, out var actorComp))
             return;
 
-        // The antag selector sends the mothership core briefing.
+        // SIS-ChatBriefing Start
         if (MetaData(ent).EntityPrototype?.ID == MothershipCoreAntag.Id)
             return;
 
-        // SIS-ChatBriefing
         var entry = _greeting.CreateGreetingEntry("xenoborgs-", _proto.Index(XenoborgAntag).Briefing);
         entry.Sound ??= comp.BriefingSound;
         _antag.SendBriefing(actorComp.PlayerSession, entry);
+        // SIS-ChatBriefing End
     }
 
     private void OnXenoborgMindRemoved(EntityUid ent, XenoborgComponent comp, MindRemovedMessage args)

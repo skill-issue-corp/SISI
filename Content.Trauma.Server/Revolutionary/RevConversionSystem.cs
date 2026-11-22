@@ -14,20 +14,23 @@ public sealed partial class RevConversionSystem : EntitySystem
     [Dependency] private AntagSelectionSystem _antag = default!;
     [Dependency] private ServerRevolutionaryRuleSystem _rev = default!;
 
-    // SIS-ChatGreeting
+    // SIS-ChatGreeting Start
     [Dependency] private IPrototypeManager _proto = default!;
     [Dependency] private GreetingSystem _greeting = default!;
     private static readonly ProtoId<AntagSpecifierPrototype> HeadRevAntag = "HeadRev";
+    // SIS-ChatGreeting End
 
     [SubscribeLocalEvent]
     private void OnRevConverted(ref RevConvertedEvent args)
     {
+        // SIS-ChatGreeting Start
         if (TryComp<ActorComponent>(args.Target, out var actor))
         {
             var entry = _greeting.CreateGreetingEntry("rev-", _proto.Index(HeadRevAntag).Briefing);
             entry.Sound ??= args.Target.Comp.RevStartSound;
             _antag.SendBriefing(actor.PlayerSession, entry);
         }
+        // SIS-ChatGreeting End
 
         if (!TryComp<CommandStaffComponent>(args.Target, out var command))
             return;
