@@ -1,2 +1,0 @@
-ent-StorePresetUplink = { "" }
-    .desc = { "" }

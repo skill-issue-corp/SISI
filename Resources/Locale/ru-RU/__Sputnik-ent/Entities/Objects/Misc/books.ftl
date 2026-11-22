@@ -47,7 +47,7 @@ ent-BookChemicalCompendium = Химпендиум
 ent-BookAILawCompendium = Я, робот
     .desc = Словарь всех способов, которыми синтетики могут пойти наперекосяк. Автор: Айзек Крусимов.
 
-ent-BookSpaceLaw = Корпоративный закон
+ent-BookSpaceLaw = корпоративный закон
     .desc = Набор правил NanoTrasen для поддержания закона и порядка на своих космических станциях.
 
 ent-BookRandom = { ent-BookBase }

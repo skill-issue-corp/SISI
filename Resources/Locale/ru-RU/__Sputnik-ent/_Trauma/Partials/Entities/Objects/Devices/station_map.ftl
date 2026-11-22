@@ -1,2 +1,0 @@
-ent-BaseHandheldStationMap = { "" }
-    .desc = { "" }

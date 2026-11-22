@@ -1,3 +1,6 @@
+ent-SpaceCash = { ent-BaseSpaceCash }
+    .desc = { ent-BaseSpaceCash.desc }
+
 ent-SpaceCashCounterfeit = подозрительные кредиты
     .desc = Выглядит нарисованным.
 ent-SpaceCashCounterfeit10 = { ent-SpaceCashCounterfeit }

@@ -19,7 +19,7 @@ ent-TriggerWater = Вода
 ent-TriggerCO2 = Углекислый газ
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerPlasma = нетвёрдая плазма
+ent-TriggerPlasma = Мягкий форон
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
 ent-TriggerTritium = Тритий

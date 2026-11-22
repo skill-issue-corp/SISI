@@ -1,2 +1,0 @@
-ent-BaseStationCargo = { "" }
-    .desc = { "" }

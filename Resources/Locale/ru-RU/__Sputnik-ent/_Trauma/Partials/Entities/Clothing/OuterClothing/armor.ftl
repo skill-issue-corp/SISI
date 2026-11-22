@@ -1,2 +1,0 @@
-ent-ClothingOuterArmorRiot = { "" }
-    .desc = { "" }

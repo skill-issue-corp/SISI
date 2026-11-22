@@ -1,2 +1,0 @@
-ent-CrateBaseSecure = { "" }
-    .desc = { "" }

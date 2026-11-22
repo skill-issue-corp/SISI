@@ -1,2 +1,0 @@
-ent-TableBase = { "" }
-    .desc = { "" }

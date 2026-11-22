@@ -3,8 +3,6 @@ collective-mind-lunarmind = Лунный Разум
 werewolf-beckon-message = {$name} призывает стаю к {$location}.
 
 role-subtype-werewolf = Оборотень
-objective-issuer-werewolf = Оборотень
-guide-entry-werewolf = Боевые Приёмы Оборотня
 roles-antag-werewolf-name = Оборотень
 roles-antag-werewolf-desc = Будь то заражение или наследственность, вам досталось проклятие и/или дар Ликантропии! Не правда ли, вы особенный?
 
