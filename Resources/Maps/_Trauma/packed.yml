@@ -5,7 +5,7 @@ meta:
   forkId: ""
   forkVersion: ""
   time: 11/16/2026 18:25:48
-  entityCount: 15610
+  entityCount: 15611
 maps:
 - 1
 grids:
@@ -39868,6 +39868,13 @@ entities:
     - type: Transform
       parent: 2
       pos: 29.5,47.5
+- proto: CrateSecurityTrackingMindshieldImplants
+  entities:
+  - uid: 15655
+    components:
+    - type: Transform
+      parent: 2
+      pos: 40.5,28.5
 - proto: CrateTrashCart
   entities:
   - uid: 6227

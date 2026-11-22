@@ -5,7 +5,7 @@ meta:
   forkId: ""
   forkVersion: ""
   time: 09/25/2026 07:37:39
-  entityCount: 9298
+  entityCount: 9299
 maps:
 - 1
 grids:
@@ -21995,6 +21995,13 @@ entities:
     - type: Transform
       parent: 2
       pos: -17.5,-19.5
+- proto: DefaultStationBeaconArmory
+  entities:
+  - uid: 9308
+    components:
+    - type: Transform
+      parent: 2
+      pos: 8.5,24.5
 - proto: DefaultStationBeaconArrivals
   entities:
   - uid: 3456
