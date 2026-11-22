@@ -1,6 +1,6 @@
 ent-OrganUnguExternal = { ent-OrganBaseOrganic }
     .desc = { ent-OrganBaseOrganic.desc }
-    .suffix = ungu
+    .suffix = унгу
 
 ent-OrganUnguTorso = { ent-OrganBaseTorso }
     .desc = { ent-OrganBaseTorso.desc }

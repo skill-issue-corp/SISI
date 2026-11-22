@@ -1,2 +1,2 @@
-werewolves-title = Werewolves
-werewolves-description = Ravenous beasts hide among the crew.
+werewolves-title = Оборотни
+werewolves-description = Ненасытные звери скрываются среди экипажа.

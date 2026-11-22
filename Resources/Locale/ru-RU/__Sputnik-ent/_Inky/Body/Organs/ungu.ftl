@@ -1,5 +1,5 @@
-ent-OrganUnguStomach = ungu stomach
-    .desc = A lot going on here.
+ent-OrganUnguStomach = желудок унгу
+    .desc = Тут много чего происходит.
 
 ent-SolutionUnguStomach = { ent-SolutionStomach }
     .desc = { ent-SolutionStomach.desc }

@@ -1,2 +1,2 @@
-ent-UplinkImplant = uplink implant
-    .desc = This implant lets the user secretely access their syndicate store and job board at will.
+ent-UplinkImplant = имплант «аплинк»
+    .desc = Этот имплант позволяет втайне пользоваться магазином Синдиката и доской заданий в любое время.

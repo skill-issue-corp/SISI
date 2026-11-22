@@ -1,2 +1,2 @@
-ent-MobUngu = Urist McHooves
+ent-MobUngu = Урист МакКопыта
     .desc = { ent-BaseMobUngu.desc }

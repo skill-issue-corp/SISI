@@ -1,2 +1,2 @@
-ent-AppearanceUngu = ungu appearance
+ent-AppearanceUngu = внешность унгу
     .desc = { ent-BaseSpeciesAppearance.desc }

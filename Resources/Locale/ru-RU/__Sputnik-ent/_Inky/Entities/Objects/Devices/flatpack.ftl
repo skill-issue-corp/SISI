@@ -1,2 +1,2 @@
-ent-LifeSupportFlatpack = life support flatpack
-    .desc = A flatpack used for constructing a life support machine
+ent-LifeSupportFlatpack = упаковка аппарата жизнеобеспечения
+    .desc = Упаковка для сборки аппарата жизнеобеспечения

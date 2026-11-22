@@ -1,2 +1,2 @@
-chat-emote-name-moo = Moo
-chat-emote-msg-moo = moos.
+chat-emote-name-moo = Мычание
+chat-emote-msg-moo = мычит.
