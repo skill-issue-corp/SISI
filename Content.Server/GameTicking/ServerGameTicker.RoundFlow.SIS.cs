@@ -34,12 +34,6 @@ public sealed partial class ServerGameTicker
 
         stringBuilder.AppendLine(Loc.GetString("round-end-discord-gamemode", ("gamemode", gamemodeTitle)));
 
-        var roundEndTextMarkdown = ConvertBBCodeToMarkdown(roundEndText);
-        if (!string.IsNullOrWhiteSpace(roundEndTextMarkdown))
-        {
-            stringBuilder.AppendLine(Loc.GetString("round-end-discord-info", ("info", roundEndTextMarkdown)));
-        }
-
         var groupedPlayers = playerInfoArray
             .GroupBy(p => new { p.PlayerOOCName, p.PlayerICName })
             .Select(g => new
@@ -56,6 +50,15 @@ public sealed partial class ServerGameTicker
             .Count();
 
         stringBuilder.AppendLine(Loc.GetString("round-end-discord-total-players", ("count", totalUniquePlayers)));
+
+        if (totalUniquePlayers <= 0)
+            return stringBuilder.ToString();
+
+        var roundEndTextMarkdown = ConvertBBCodeToMarkdown(roundEndText);
+        if (!string.IsNullOrWhiteSpace(roundEndTextMarkdown))
+        {
+            stringBuilder.AppendLine(Loc.GetString("round-end-discord-info", ("info", roundEndTextMarkdown)));
+        }
 
         var players = string.Join('\n', groupedPlayers.Select(p => Loc.GetString("round-end-discord-player",
             ("ic", p.PlayerICName ?? string.Empty),
