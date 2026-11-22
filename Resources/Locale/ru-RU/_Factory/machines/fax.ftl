@@ -1,5 +1,5 @@
-signal-port-name-automation-slot-paper = Item: Paper
-signal-port-description-automation-slot-paper = An automation slot for a fax machine's paper tray.
+signal-port-name-automation-slot-paper = Предмет: Бумага
+signal-port-description-automation-slot-paper = Слот автоматизации для лотка с бумагой факсовой машины.
 
-signal-port-name-fax-copy = Copy Fax
-signal-port-description-fax-copy = Signal port to copy a fax machine's paper.
+signal-port-name-fax-copy = Копировать факс
+signal-port-description-fax-copy = Сигнальный порт для копирования бумаги факсовой машины.

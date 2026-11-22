@@ -18,12 +18,12 @@ loadout-group-roboticist-envirosuit = Гермокостюм робототех�
 loadout-group-roboticist-envirogloves = Гермоперчатки робототехника
 
 # DClass
-loadout-group-dclass-jumpsuit = D-Class jumpsuit
-loadout-group-dclass-mask = Mask
-loadout-group-dclass-gloves = Gloves
-loadout-group-dclass-outerclothing = Outer clothing
-loadout-group-dclass-shoes = Shoes
-loadout-group-dclass-neck = Neck
-loadout-group-dclass-envirohelm = D-Class Envirohelm
-loadout-group-dclass-envirosuit = D-Class envirosuit
-loadout-group-dclass-envirogloves = D-Class envirogloves
+loadout-group-dclass-jumpsuit = Комбинезон класса D
+loadout-group-dclass-mask = Маска
+loadout-group-dclass-gloves = Перчатки
+loadout-group-dclass-outerclothing = Верхняя одежда
+loadout-group-dclass-shoes = Обувь
+loadout-group-dclass-neck = Шея
+loadout-group-dclass-envirohelm = Гермошлем Класса D
+loadout-group-dclass-envirosuit = Гермокостюм класса D
+loadout-group-dclass-envirogloves = Гермоперчатки класса D

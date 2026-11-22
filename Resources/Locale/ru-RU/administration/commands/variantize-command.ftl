@@ -1,3 +1,3 @@
-cmd-variantize-desc = Randomizes all tile variants on a given grid.
+cmd-variantize-desc = Случайным образом меняет варианты всех тайлов в указанной сетке.
 cmd-variantize-help = variantize <grid id>
-cmd-variantize-hint-grid = Grid
+cmd-variantize-hint-grid = Грид

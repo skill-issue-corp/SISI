@@ -17,5 +17,5 @@ ui-options-function-targeting-mod = Клавиша-модификатор сме
 ui-options-function-zoom-mod = Клавиша-модификатор масштабирования камеры (колёсико мыши)
 ui-options-function-rotate-mod = Клавиша-модификатор вращения (колёсико мыши)
 
-ui-options-disable-radiation-static = Radiation noise
-ui-options-disable-radiation-static-tooltip = Removes the camera noise caused by radiation.
+ui-options-disable-radiation-static = Помехи от радиации
+ui-options-disable-radiation-static-tooltip = Убирает помехи изображения, вызванные радиацией.

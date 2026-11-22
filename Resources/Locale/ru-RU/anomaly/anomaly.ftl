@@ -43,7 +43,7 @@ anomaly-scanner-particle-unstable-unknown = - [color=plum]Нестабильны
 anomaly-scanner-particle-containment-unknown = - [color=goldenrod]Сдерживающий тип:[/color] [color=red]ОШИБКА[/color]
 anomaly-scanner-particle-transformation-unknown = - [color=#6b75fa]Трансформирующий тип:[/color] [color=red]ОШИБКА[/color]
 anomaly-scanner-pulse-timer = Время до следующего импульса: [color=gray]{ $time }[/color]
-anomaly-scanner-doafter-examine = { CAPITALIZE(SUBJECT($user)) } {CONJUGATE-BE($user)} [color=plum]scanning an anomaly[/color].
+anomaly-scanner-doafter-examine = { CAPITALIZE(SUBJECT($user)) } {CONJUGATE-BE($user)} [color=plum]сканирует аномалию[/color].
 
 anomaly-gorilla-core-slot-name = Ядро аномалии
 anomaly-gorilla-charge-none = Внутри нет [bold]ядра аномалии[/bold].
@@ -98,10 +98,7 @@ anomaly-generator-flavor-right = v1.1
 
 anomaly-behavior-unknown = [color=red]ОШИБКА. Невозможно считать.[/color]
 
-# AUTOGEN-Start
-# Анализ отклонений поведения:
-# AUTOGEN-End TODO(Update_Locale):
-anomaly-behavior-title = Behavior Deviation Analysis:
+anomaly-behavior-title = Анализ Отклонений В Поведении:
 anomaly-behavior-point = [color=gold]Аномалия генерирует { $mod }% очков[/color]
 
 anomaly-behavior-safe = [color=forestgreen]Аномалия чрезвычайно стабильна. Крайне редкие импульсы.[/color]
@@ -119,4 +116,4 @@ anomaly-behavior-inconstancy = [color=crimson]Обнаружено непост�
 anomaly-behavior-fast = [color=crimson]Частота импульсов значительно повышена.[/color]
 anomaly-behavior-strenght = [color=crimson]Мощность импульсов значительно повышена.[/color]
 anomaly-behavior-moving = [color=crimson]Обнаружена координатная нестабильность.[/color]
-anomaly-secret-admin = [color=red](ERROR)[/color]
+anomaly-secret-admin = [color=red](ОШИБКА)[/color]

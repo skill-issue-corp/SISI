@@ -13,11 +13,11 @@ device-frequency-prototype-name-turret = Охранная турель
 device-frequency-prototype-name-turret-control = Управление охранной турелью
 device-frequency-prototype-name-xenoborg = Ксеноборг
 device-frequency-prototype-name-mothership = Материнский шаттл
-device-frequency-prototype-name-arrivals-shuttle-timer = Arrivals Timer
-device-frequency-prototype-name-shuttle-timer = Evac Shuttle Timer
+device-frequency-prototype-name-arrivals-shuttle-timer = Таймер Прибытия
+device-frequency-prototype-name-shuttle-timer = Таймер Эвакуационного Шаттла
 
 ## Camera frequencies
-device-frequency-prototype-name-surveillance-camera = Cameras
+device-frequency-prototype-name-surveillance-camera = Камеры
 device-frequency-prototype-name-surveillance-camera-test = Тест подсети
 device-frequency-prototype-name-surveillance-camera-engineering = Камеры (Инженерный)
 device-frequency-prototype-name-surveillance-camera-security = Камеры (Охрана)
@@ -47,18 +47,15 @@ device-address-prefix-fire-alarm = Пож-
 device-address-prefix-air-alarm = Возд-
 
 # Consoles
-# AUTOGEN-Start
-# МОН-
-# AUTOGEN-End TODO(Update_Locale):
-device-address-prefix-sensor-monitor = SEM-
-device-address-prefix-camera-monitor = SCM-
-device-address-prefix-crew-monitor = MCM-
+device-address-prefix-sensor-monitor = МОН-
+device-address-prefix-camera-monitor = МКН-
+device-address-prefix-crew-monitor = КМЭ-
 
 # Servers and routers
-device-address-prefix-camera-router = CMR-
-device-address-prefix-camera-router-wireless = CMW-
-device-address-prefix-camera = CAM-
-device-address-prefix-crew-monitoring-server = CMS-
+device-address-prefix-camera-router = МРК-
+device-address-prefix-camera-router-wireless = БМК-
+device-address-prefix-camera = КАМ-
+device-address-prefix-crew-monitoring-server = СМЭ-
 
 device-address-examine-message = Адрес устройства: { $address }.
 

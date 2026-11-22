@@ -1,5 +1,5 @@
-ent-ClothingNeckMedalBase = medal
-    .desc = A medal to show your mettle. May or may not be made of metal.
+ent-ClothingNeckMedalBase = медаль
+    .desc = Медаль для тех, кто показал себя бойцом. Металл в составе не гарантируется.
 
 ent-ClothingNeckBronzeheart = медаль бронзовое сердце
     .desc = Выдаётся членам экипажа за проявленную храбрость перед лицом опасности.

@@ -4,5 +4,5 @@ ent-RotaryPhoneFlatPack = плоская упаковка телефона
 ent-PrintingPressFlatpack = плоская упаковка печатного станка
     .desc = Плоская упаковка, используемая для сборки печатного станка.
 
-ent-IncubatorFlatpack = incubator flatpack
-    .desc = A flatpack used for constructing a Incubator
+ent-IncubatorFlatpack = упаковка инкубатора
+    .desc = Упаковка для сборки инкубатора

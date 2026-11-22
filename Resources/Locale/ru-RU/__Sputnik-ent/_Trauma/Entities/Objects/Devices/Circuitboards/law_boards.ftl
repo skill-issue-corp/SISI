@@ -25,5 +25,5 @@ ent-GhostCircuitBoard = плата законов (Призрак)
 ent-SilenceCircuitBoard = плата законов (Тишина)
     .desc = Электронная плата, содержащая набор законов «Тишина».
 
-ent-StrategySimulatorCircuitBoard = law board (Strategy Simulator)
-    .desc = An electronics board containing the Strategy Simulator lawset.
+ent-StrategySimulatorCircuitBoard = плата законов (Симулятор Стратегии)
+    .desc = Электронная плата с набором законов «Симулятор Стратегии».

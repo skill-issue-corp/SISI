@@ -34,12 +34,8 @@ ent-ActionAnimateObject = Оживление объекта
 ent-ActionPossessObject = Овладеть объектом
     .desc = Возьмите под контроль неодушевлённый предмет. Высокий уровень испуга.
 
-# AUTOGEN-Start
-# Эволюционировать
-# .desc = Выберите форму для эволюции после поглощения как минимум 3 душ.
-# AUTOGEN-End TODO(Update_Locale):
-ent-ActionWraithEvolve = Evolve
-    .desc = Choose a form to evolve into.
+ent-ActionWraithEvolve = Эволюционировать
+    .desc = Выберите облик для эволюции.
 
 ent-ActionRaiseSkeleton = Воскрешение скелета
     .desc = Воскресите скелет из трупа или призовите его в шкаф.

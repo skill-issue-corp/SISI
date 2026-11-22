@@ -1,8 +1,8 @@
 ent-BaseBloodCultObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-KillTargetCultObjective = Sacrifice someone
-    .desc = Our Goddess Nar'Sie demands we sacrifice this fool for Her glory.
+ent-KillTargetCultObjective = Принесите кого-нибудь в жертву
+    .desc = Наша Богиня Нар'Си требует принести этого глупца в жертву во славу Её.
 
-ent-SummonNarSieCultObjective = Summon Nar'Sie
-    .desc = Once Her target has been sacrificed, we can perform the Ritual of Dimensional Rending!
+ent-SummonNarSieCultObjective = Призовите Нар'Си
+    .desc = Когда Её цель принесут в жертву, мы сможем провести Ритуал Разрыва Измерений!

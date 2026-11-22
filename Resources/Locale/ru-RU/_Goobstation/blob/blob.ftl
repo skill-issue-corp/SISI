@@ -2,11 +2,11 @@ objective-issuer-blob = Блоб
 
 ghost-role-information-blobbernaut-name = Блоббернаут
 ghost-role-information-blobbernaut-description = Вы — блоббернаут. Вы должны защищать ядро блоба. Используйте + или +e в чате, чтобы говорить в Коллективный разум Блоба.
-ghost-role-information-blobbernaut-rules = You are an antagonist, defend your blob core!
+ghost-role-information-blobbernaut-rules = Вы антагонист, защищайте ядро блоба!
 
 ghost-role-information-blob-name = Блоб
 ghost-role-information-blob-description = Вы — инфекция Блоба. Поглощайте станцию.
-ghost-role-information-blob-rules = You are an antagonist, destroy the station!
+ghost-role-information-blob-rules = Вы антагонист, уничтожьте станцию!
 
 roles-antag-blob-name = Блоб
 roles-antag-blob-objective = Достигните критической массы.

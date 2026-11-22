@@ -1,4 +1,4 @@
-ent-FloorTileItemCosmicCorruption = malign tile
+ent-FloorTileItemCosmicCorruption = зловещий тайл
     .desc = { ent-FloorTileItemBase.desc }
 
 ent-FloorCosmicDecay = энтропийный распад

@@ -7,17 +7,11 @@ selectable-set-thief-anatomy-description =
     бутылочку эфедрина, шприц, пустой шейкер и омега мыло.
 
 selectable-set-thief-breacher-name = Набор взломщика
-# AUTOGEN-Start
-# Что это за звук? Маленький С4 стучится в их дверь.
-# Ни одно препятствие не остановит тебя!
-# Включает: два С4, мультитул, передатчик сигналов, челюсти жизни,
-# продвинутый сварочный аппарат, инженерные очки и изолированные перчатки.
-# AUTOGEN-End TODO(Update_Locale):
 selectable-set-thief-breacher-description =
-    What's that sound? A lil' C4 knockin' at their door.
-    No obstacle can stop you!
-    Includes: Two C4, a multitool, an advanced remote signaller, jaws of death,
-    advanced welder, engineering goggles, and insulated gloves.
+    Что это за звук? Это крошка C4 стучится в их дверь.
+    Ни одна преграда вас не остановит!
+    В комплекте: два заряда C4, мультитул, продвинутый дистанционный передатчик сигналов, челюсти жизни,
+    продвинутый сварочный аппарат, инженерные очки и изолированные перчатки.
 
 selectable-set-thief-chameleon-name = Набор хамелеона
 selectable-set-thief-chameleon-description =
@@ -27,43 +21,26 @@ selectable-set-thief-chameleon-description =
     Маскируйся под кого угодно и что угодно.
 
 selectable-set-thief-syndie-name = Набор синдиката
-# AUTOGEN-Start
-# Безделушки отвергнутого в прошлом агента или просто украденные?
-# Вы обзавелись кое-какими связями. Whiskey, эээ... Что там дальше?
-# Включает: криптографический секвенсор, разрушитель аутентификации, сигареты Interdyne, кодовое слово синдиката,
-# глушитель связи, зажигалку и ТК.
-# AUTOGEN-End TODO(Update_Locale):
 selectable-set-thief-syndie-description =
-    Trinkets from a disavowed past, or stolen from a careless agent?
-    You've made some connections. Whiskey, echo...
-    Includes: An Emag, Syndicate Soap, Interdyne cigs, a Syndicate codeword,
-    a Radio Jammer, a novelty lighter box and some strange red crystals.
+    Безделушки из прошлого, от которого вы отреклись, или добыча у беспечного агента?
+    Вы обзавелись полезными связями. Виски, эхо...
+    В комплекте: криптографический секвенсор, мыло Синдиката, сигареты Interdyne, кодовое слово Синдиката,
+    глушитель связи, коробка с необычной зажигалкой и несколько странных красных кристаллов.
 
 selectable-set-thief-sleeper-name = Набор усыпления
-# AUTOGEN-Start
-# Пока наши глаза не закрыты навсегда, используйте свои нелегальные примочки для усыпления людей.
-# Включает: баллон с веселящим газом, две бутылочки ноктюрина,
-# и гипоспрей.
-# AUTOGEN-End TODO(Update_Locale):
 selectable-set-thief-sleeper-description =
-    Until we close our eyes for good, use your illegal prescriptions
-    to keep others asleep.
-    Includes: Sleepy nitrous oxide tank, two nocturine bottles,
-    a syringe pistol, an empty syringe, and a hypopen.
+    Пока мы не сомкнули глаза навеки, пускайте в ход свои нелегальные рецепты,
+    чтобы остальные продолжали спать.
+    В комплекте: баллон с усыпляющим оксидом азота, две бутылочки ноктюрина,
+    шприцемёт, пустой шприц и гипоручка.
 
 selectable-set-thief-communicator-name = Набор коммуникатора
-# AUTOGEN-Start
-# Деньги — это власть, а секреты — деньги. Используйте своё красноречие
-# и богатство, чтобы подорвать структуру станции.
-# Включает: мастер-ключ для всех каналов станции, ручку CyberSun,
-# маску хамелеона и 20000 кредитов в чемодане.
-# AUTOGEN-End TODO(Update_Locale):
 selectable-set-thief-communicator-description =
-    Money is power, and secrets are money. Use your silver tongue
-    and wealth to subvert the station.
-    Includes: Master key for all station channels, a CyberSun pen,
-    voice chameleon mask, a binary implanter,
-    and 20k spesos inside a briefcase.
+    Деньги — это власть, а секреты — деньги. Используйте красноречие
+    и богатство, чтобы подорвать работу станции.
+    В комплекте: универсальный ключ ко всем каналам станции, ручка CyberSun,
+    голосовая маска-хамелеон, имплантер бинарного канала
+    и 20k спесо в чемодане.
 
 selectable-set-thief-smuggler-name = Набор контрабандиста
 selectable-set-thief-smuggler-description =

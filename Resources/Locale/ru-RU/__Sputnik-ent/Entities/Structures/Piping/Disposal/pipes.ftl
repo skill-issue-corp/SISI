@@ -51,8 +51,8 @@ ent-DisposalSignalRouterFlipped = { ent-DisposalSignalRouter }
 
 ent-DisposalRouterWaste = { ent-DisposalRouter }
     .desc = { ent-DisposalRouter.desc }
-    .suffix = Waste
+    .suffix = Отходы
 
 ent-DisposalRouterFlippedWaste = { ent-DisposalRouterFlipped }
     .desc = { ent-DisposalRouterFlipped.desc }
-    .suffix = Flipped, Waste
+    .suffix = Перевёрнутый, Отходы

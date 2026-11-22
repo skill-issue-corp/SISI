@@ -30,17 +30,12 @@ knowledge-path-flesh-s3-desc =
     Безгласные мертвецы — немые гули с 100 здоровья, способные эффективно использовать Кровавые клинки.
 
 knowledge-path-flesh-s4-name = Метка плоти
-# AUTOGEN-Start
-# Именно тогда я увидел их — отмеченных. Они были вне досягаемости. Они кричали и кричали.
-# Ваш Хват Мансуса теперь накладывает Метку плоти. Она срабатывает при атаке Кровавым клинком.
-# При срабатывании жертва яростно изливает всю свою кровь на землю.
-# AUTOGEN-End TODO(Update_Locale):
 knowledge-path-flesh-s4-desc =
-    I found notes of a dark ritual, unfinished... yet still, I pushed forward.
+    Я нашёл записи о незавершённом тёмном ритуале... и всё же пошёл дальше.
 
-    Allows you to transmute a corpse and a muzzle to create a Voiceless Dead.
-    Voiceless Dead are mute ghouls, which have 100 health and a Bloody Blade.
-    You can only create two at a time.
+    Позволяет превратить труп и намордник в Безмолвного Мертвеца.
+    Безмолвные Мертвецы — немые гули со 100 единицами здоровья и Кровавым Клинком.
+    Одновременно можно создать только двух.
 
 knowledge-path-flesh-s5-name = Сшивание плоти
 knowledge-path-flesh-s5-desc =

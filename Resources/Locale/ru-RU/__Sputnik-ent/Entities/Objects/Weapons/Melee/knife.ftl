@@ -16,8 +16,8 @@ ent-SurvivalKnife = нож для выживания
 ent-KukriKnife = нож-кукри
     .desc = У профессионалов есть правила. Будь вежлив. Работай эффективно. Убивай каждого встречного.
 
-ent-XenoborgBioKnife = bio knife
-    .desc = Melds itself to specific metabolizers and will deal extra damage to those targets!
+ent-XenoborgBioKnife = биоклинок
+    .desc = Приспосабливается к определённому метаболизму и наносит дополнительный урон таким целям!
 
 ent-BladedFlatcapGrey = серая плоская кепка
     .desc = В моде как у рабочего класса, так и у стариков навроде Дженкинса. Острый козырёк скрывает битое стекло.
@@ -36,12 +36,8 @@ ent-ReinforcedShiv = усиленная заточка
 ent-PlasmaShiv = плазменная заточка
     .desc = Грубое оружие, сделанное из куска ткани и осколка плазменного стекла.
 
-# AUTOGEN-Start
-# урановая заточка
-# .desc = Грубое оружие, сделанное из куска ткани и осколка уранового стекла. Нарушает Женевскую конвенцию!
-# AUTOGEN-End TODO(Update_Locale):
-ent-UraniumShiv = uranium shiv
-    .desc = A crude weapon fashioned from a piece of cloth and a uranium glass shard. Violates the Geneva convention!
+ent-UraniumShiv = урановая заточка
+    .desc = Грубое оружие, изготовленное из куска ткани и осколка уранового стекла, нарушает Женевскую конвенцию!
 
 ent-ThrowingKnife = метательный нож
     .desc = Этот кроваво-красный нож очень аэродинамичен и удобен для метания, но удачи вам, если вы попытаетесь сразиться с кем-то врукопашную.

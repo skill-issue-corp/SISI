@@ -1,8 +1,8 @@
-changeling-stasis-active-name = [color=red]Exit Stasis[/color]
-changeling-stasis-active-desc = Exit the stasis, healing all damage to your body.
+changeling-stasis-active-name = [color=red]Выйти Из Стазиса[/color]
+changeling-stasis-active-desc = Выйдите из стазиса, исцелив все раны.
 
-changeling-stasis-enter = We enter stasis, gathering energy to rise once more.
-changeling-stasis-exit = We rise from the dead, healing all injuries.
-changeling-stasis-exit-others = {CAPITALIZE(THE($user))} rises from the dead, their wounds healed.
+changeling-stasis-enter = Мы входим в стазис, чтобы накопить силы и восстать снова.
+changeling-stasis-exit = Мы восстаём из мёртвых, исцелив все раны.
+changeling-stasis-exit-others = {CAPITALIZE($user)} восстаёт из мёртвых. Раны зажили.
 
-suicide-regen-action-popup = This action will kill you until you regenerate. Use it again to confirm.
+suicide-regen-action-popup = Это действие убьёт вас до завершения регенерации. Повторите для подтверждения.

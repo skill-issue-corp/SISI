@@ -10,4 +10,4 @@ seeds-magicmush-name = волшебные грибы
 seeds-synthmeat-name = синтмясо
 seeds-balloonmelon-name = дыня-шар
 seeds-steelwheat-name = стальная пшеница
-seeds-plasticcap-name = plastic cap
+seeds-plasticcap-name = пластиковый гриб

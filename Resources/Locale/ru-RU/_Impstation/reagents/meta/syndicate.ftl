@@ -1,2 +1,2 @@
-reagent-name-echion = echion
-reagent-desc-echion = A volatile form of exotic matter patented by Cybersun's RnD division. Used as the fuel and ammunition for some of their more advanced weapons.
+reagent-name-echion = эхион
+reagent-desc-echion = Нестабильная форма экзотической материи, запатентованная исследовательским отделом CyberSun. Служит топливом и боеприпасом для некоторых образцов их передового оружия.

@@ -1,74 +1,74 @@
 ent-BaseAnomalyCore = { "" }
     .desc = { "" }
 
-ent-AnomalyCorePyroclastic = pyroclastic anomaly core
+ent-AnomalyCorePyroclastic = ядро пирокластической аномалии
     .desc = { "" }
 
-ent-AnomalyCoreGravity = gravity anomaly core
+ent-AnomalyCoreGravity = ядро гравитационной аномалии
     .desc = { "" }
 
-ent-AnomalyCoreIce = ice anomaly core
+ent-AnomalyCoreIce = ядро ледяной аномалии
     .desc = { "" }
 
-ent-AnomalyCoreFlesh = flesh anomaly core
+ent-AnomalyCoreFlesh = ядро аномалии плоти
     .desc = { "" }
 
-ent-AnomalyCoreRock = rock anomaly core
+ent-AnomalyCoreRock = ядро каменной аномалии
     .desc = { "" }
 
-ent-AnomalyCoreLiquid = liquid anomaly core
+ent-AnomalyCoreLiquid = ядро жидкостной аномалии
     .desc = { "" }
 
-ent-AnomalyCoreBluespace = bluespace anomaly core
+ent-AnomalyCoreBluespace = ядро блюспейс-аномалии
     .desc = { "" }
 
-ent-AnomalyCoreElectricity = electricity anomaly core
+ent-AnomalyCoreElectricity = ядро электрической аномалии
     .desc = { "" }
 
-ent-AnomalyCoreFlora = flora anomaly core
+ent-AnomalyCoreFlora = ядро растительной аномалии
     .desc = { "" }
 
-ent-AnomalyCoreShadow = shadow anomaly core
+ent-AnomalyCoreShadow = ядро теневой аномалии
     .desc = { "" }
 
-ent-AnomalyCoreTech = tech anomaly core
+ent-AnomalyCoreTech = ядро технологической аномалии
     .desc = { "" }
 
-ent-AnomalyCoreSanta = santa anomaly core
+ent-AnomalyCoreSanta = ядро аномалии Санты
     .desc = { "" }
 
-ent-AnomalyCorePyroclasticInert = pyroclastic anomaly core
+ent-AnomalyCorePyroclasticInert = ядро пирокластической аномалии
     .desc = { "" }
 
-ent-AnomalyCoreGravityInert = gravity anomaly core
+ent-AnomalyCoreGravityInert = ядро гравитационной аномалии
     .desc = { "" }
 
-ent-AnomalyCoreIceInert = ice anomaly core
+ent-AnomalyCoreIceInert = ядро ледяной аномалии
     .desc = { "" }
 
-ent-AnomalyCoreFleshInert = flesh anomaly core
+ent-AnomalyCoreFleshInert = ядро аномалии плоти
     .desc = { "" }
 
-ent-AnomalyCoreRockInert = rock anomaly core
+ent-AnomalyCoreRockInert = ядро каменной аномалии
     .desc = { "" }
 
-ent-AnomalyCoreLiquidInert = liquid anomaly core
+ent-AnomalyCoreLiquidInert = ядро жидкостной аномалии
     .desc = { "" }
 
-ent-AnomalyCoreBluespaceInert = bluespace anomaly core
+ent-AnomalyCoreBluespaceInert = ядро блюспейс-аномалии
     .desc = { "" }
 
-ent-AnomalyCoreElectricityInert = electricity anomaly core
+ent-AnomalyCoreElectricityInert = ядро электрической аномалии
     .desc = { "" }
 
-ent-AnomalyCoreFloraInert = flora anomaly core
+ent-AnomalyCoreFloraInert = ядро растительной аномалии
     .desc = { "" }
 
-ent-AnomalyCoreShadowInert = shadow anomaly core
+ent-AnomalyCoreShadowInert = ядро теневой аномалии
     .desc = { "" }
 
-ent-AnomalyCoreTechInert = tech anomaly core
+ent-AnomalyCoreTechInert = ядро технологической аномалии
     .desc = { "" }
 
-ent-AnomalyCoreSantaInert = santa anomaly core
+ent-AnomalyCoreSantaInert = ядро аномалии Санты
     .desc = { "" }

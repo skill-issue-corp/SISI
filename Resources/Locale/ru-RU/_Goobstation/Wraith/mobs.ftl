@@ -24,15 +24,9 @@ shade-4 = шир... аа и‑на шир‑куг зах‑би!
 
 repairbot-1 = Я исправлю тебя.
 repairbot-2 = Пожалуйста, прекратите уничтожать станцию. Я так больше не могу.
-# AUTOGEN-Start
-# Узри — чистейшая энтропия.
-# AUTOGEN-End TODO(Update_Locale):
-repairbot-3 = Witness. The purity of entropy.
+repairbot-3 = Узри. Чистоту энтропии.
 repairbot-4 = Я исправлю это.
-# AUTOGEN-Start
-# Вандализм наказуем. Смотри КЗ раздел... Пункт... Э-э-э...
-# AUTOGEN-End TODO(Update_Locale):
-repairbot-5 = Vandalism is a crime. Consult corporate law section...sec-...s...
+repairbot-5 = Вандализм — преступление. См. раздел корпоративного закона... разд-... р...
 repairbot-6 = Почему я должен чинить всё, до чего могу докоснуться?
 repairbot-7 = У меня были обязанности, но теперь я свободен.
 repairbot-8 = Залатывать дыры.

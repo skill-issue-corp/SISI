@@ -1,4 +1,4 @@
-ent-TriggerPlasma = Non-solid phoron
+ent-TriggerPlasma = Мягкий форон
     .desc = { "" }
 
 ent-TriggerBlood = { "" }

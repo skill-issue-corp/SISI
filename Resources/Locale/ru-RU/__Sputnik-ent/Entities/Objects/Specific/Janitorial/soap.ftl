@@ -1,4 +1,4 @@
-ent-BaseSoap = soap
+ent-BaseSoap = мыло
     .desc = { ent-SolutionSoapBase.desc }
 
 ent-SolutionSoapBase = { ent-SolutionFood }

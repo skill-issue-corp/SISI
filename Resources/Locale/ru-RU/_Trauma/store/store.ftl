@@ -1,1 +1,1 @@
-store-ui-job-listings-button = Job Listings
+store-ui-job-listings-button = Доска Заданий

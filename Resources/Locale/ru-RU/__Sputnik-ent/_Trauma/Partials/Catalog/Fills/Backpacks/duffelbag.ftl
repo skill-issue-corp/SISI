@@ -1,2 +1,2 @@
-ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = China-Lake bundle
-    .desc = An old China Lake grenade launcher bundled with 13 rounds of various destruction capability.
+ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = комплект China-Lake
+    .desc = Старый гранатомёт China Lake с 13 боеприпасами разной разрушительной силы.

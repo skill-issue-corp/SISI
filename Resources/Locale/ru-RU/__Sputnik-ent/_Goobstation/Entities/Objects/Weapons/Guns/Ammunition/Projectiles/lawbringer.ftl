@@ -19,5 +19,5 @@ ent-BulletSleepshot = усыпляющий заряд
 ent-BulletBigshot = мощный заряд
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletLawyershot = lawyershot
+ent-BulletLawyershot = адвокатская картечь
     .desc = { ent-BaseBullet.desc }

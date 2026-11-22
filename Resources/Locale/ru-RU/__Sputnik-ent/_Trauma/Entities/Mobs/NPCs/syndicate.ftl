@@ -24,7 +24,7 @@ ent-SolutionVenomSyndicarp = { ent-SolutionWeapon }
 
 ent-MobNukieBehonker = nuclear operative behonker
     .desc = Gorlex thought it would be funny to have a behonker. It was.
-    .suffix = Syndicate
+    .suffix = Синдикат
 
-ent-MobSyndieViscerator = viscerator
-    .desc = A small, twin-bladed machine capable of inflicting very deadly lacerations.
+ent-MobSyndieViscerator = потрошитель
+    .desc = Маленькая машина с двумя лезвиями, способная наносить смертельные рваные раны.

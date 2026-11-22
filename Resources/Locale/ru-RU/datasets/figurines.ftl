@@ -119,10 +119,7 @@ figurines-scientist-6 = Аномалия взорвалась!
 # Security
 
 # Trauma - Space Law -> Corporate Law
-# AUTOGEN-Start
-# Корпоративный закон? Что?
-# AUTOGEN-End TODO(Update_Locale):
-figurines-hos-1 = Corporate law? What?
+figurines-hos-1 = Корпоративный закон? Что?
 figurines-hos-2 = Застрелить клоуна.
 figurines-hos-3 = Да, я застрелил клоуна. Нет, я не жалею об этом.
 figurines-hos-4 = Убить клоуна на месте.
@@ -140,10 +137,7 @@ figurines-security-3 = Всякий раз, как мне становится �
 figurines-security-4 = У тебя есть два права: молчать и поплакать об этом.
 figurines-security-5 = Harmbaton? It sure as hell harms!
 # Trauma - Space Law -> Corporate Law
-# AUTOGEN-Start
-# Космической закон? Никогда о таком не слышал.
-# AUTOGEN-End TODO(Update_Locale):
-figurines-security-6 = Corporate law? Never heard of it.
+figurines-security-6 = Корпоративный закон? Никогда о таком не слышал.
 figurines-security-7 = Случайный обыск. Сумку.
 figurines-security-8 = Люблю пончики.
 figurines-security-9 = Грейтайдни это, ублюдок.
@@ -232,10 +226,7 @@ figurines-lawyer-1 = Лучше звоните Cолу!
 figurines-lawyer-2 = Протестую!
 figurines-lawyer-3 = Вы знали, что у вас есть права?
 # Trauma - Space Law -> Corporate Law
-# AUTOGEN-Start
-# Космический закон говорит!
-# AUTOGEN-End TODO(Update_Locale):
-figurines-lawyer-4 = Corporate law says!
+figurines-lawyer-4 = По корпоративному закону!
 figurines-lawyer-5 = Сначала подпишите контракт.
 figurines-lawyer-6 = Мой клиент невиновен!
 figurines-lawyer-7 = Я подаю в суд.

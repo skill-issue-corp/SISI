@@ -1,5 +1,5 @@
-ent-BloodCultBarrier = cult barrier
-    .desc = An eldritch cultist barrier.
+ent-BloodCultBarrier = барьер культа
+    .desc = Потусторонний барьер культистов.
 
-ent-WallForceCult = glowing wall
-    .desc = An unholy shield that blocks all attacks.
+ent-WallForceCult = светящаяся стена
+    .desc = Нечестивый щит, который блокирует все атаки.

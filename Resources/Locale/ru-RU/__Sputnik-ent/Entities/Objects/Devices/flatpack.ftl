@@ -4,8 +4,8 @@ ent-BaseFlatpack = базовая упаковка
 ent-SolarAssemblyFlatpack = упаковка каркаса солнечной панели
     .desc = Универсально-сборная упаковка, используемая для сборки каркаса солнечной панели.
 
-ent-AmeControllerFlatpack = AME controller flatpack
-    .desc = A flatpack used for constructing the terminal that controls the antimatter engine.
+ent-AmeControllerFlatpack = упаковка контроллера ДАМ
+    .desc = Упаковка для сборки терминала управления двигателем антиматерии.
 
 ent-AmePartFlatpack = упаковка ДАМ
     .desc = Универсально-сборная упаковка, используемая для сборки двигателя антиматерии.
@@ -52,11 +52,11 @@ ent-CrewMonitoringComputerFlatpack = упаковка консоли монит�
 ent-HydroponicsTrayFlatpack = упаковка гидропонного лотка
     .desc = Универсально-сборная упаковка, используемая для сборки гидропонного лотка.
 
-ent-SyndicateMicrowaveFlatpack = donk co. microwave flatpack
-    .desc = A flatpack used for constructing a microwave too hot for Nanotrasen to handle.
+ent-SyndicateMicrowaveFlatpack = упаковка микроволновки donk co.
+    .desc = Упаковка для сборки микроволновки, с которой даже NanoTrasen не в силах справиться.
 
-ent-XenoborgExtractorFlatpack = xenoborg extractor flatpack
-    .desc = A flatpack used for constructing a xenoborg extractor.
+ent-XenoborgExtractorFlatpack = упаковка экстрактора ксеноборгов
+    .desc = Упаковка для сборки экстрактора ксеноборгов.
 
-ent-MachineAnomalyVesselFlatpack = anomaly vessel flatpack
-    .desc = A flatpack used for constructing an anomaly vessel.
+ent-MachineAnomalyVesselFlatpack = упаковка сосуда аномалии
+    .desc = Упаковка для сборки сосуда аномалии.

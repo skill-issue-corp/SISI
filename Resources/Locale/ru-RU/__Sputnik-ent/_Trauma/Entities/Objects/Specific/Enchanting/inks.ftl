@@ -1,8 +1,5 @@
-# AUTOGEN-Start
-# .desc = Флакон магических чернил, может быть использован на свитке для подготовки зачарования или проклятия.
-# AUTOGEN-End TODO(Update_Locale):
 ent-BaseInk = { ent-BaseItem }
-    .desc = A vial of magical ink, can be used on a scroll to prepare an enchantment or curse.
+    .desc = Флакон магических чернил. Нанесите их на свиток, чтобы подготовить чары или проклятие.
 
 ent-MagicInkRandom = случайные магические чернила
     .desc = { ent-BaseItem.desc }

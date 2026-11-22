@@ -10,13 +10,13 @@
 reagent-name-stasizium = стасизиум
 reagent-desc-stasizium = Нестабильная жидкость будущего, способная восстановить тело пациента до исходного состояния. Однако передозировка может разорвать тело на части.
 
-reagent-name-panacea = Changeling Panacea
-reagent-desc-panacea = Tons of singlecell organisms focused soley on purging the changeling of toxic chemicals.
-reagent-popup-panacea = Our cells reconstruct.
+reagent-name-panacea = Панацея Генокрада
+reagent-desc-panacea = Множество одноклеточных организмов, чья единственная задача — очистить тело генокрада от токсичных веществ.
+reagent-popup-panacea = Наши клетки восстанавливаются.
 
-reagent-name-lingdrenaline = Changeling Adrenaline
-reagent-desc-lingdrenaline = A reserve of potent adrenaline stored in a gland capable of immediately recovering a changeling from any fatigue.
-reagent-popup-lingdrenaline = Our entire body violently jitters and shakes.
+reagent-name-lingdrenaline = Адреналин Генокрада
+reagent-desc-lingdrenaline = Запас сильнодействующего адреналина в железе. Мгновенно снимает любую усталость генокрада.
+reagent-popup-lingdrenaline = Всё наше тело бьётся в сильной дрожи.
 
 reagent-name-probital = пробитал
 reagent-desc-probital = Заставляет тело пациента расходовать энергию на создание большего количества исцеляющих соединений. Передозировка вызывает сильную усталость, вынуждая к кратковременному отдыху.
@@ -76,10 +76,7 @@ reagent-name-tehifin = тефифин
 reagent-desc-tehifin = Слабое средство от ожогов с сомнительной безопасностью.
 
 reagent-name-procenyl-lazide = проценил-лазид
-# AUTOGEN-Start
-# Относительно сильное средство для лечения физического урона, с низким порогом передозировки. Требует кристаллизации при низких температурах и отделения от исходного раствора.
-# AUTOGEN-End TODO(Update_Locale):
-reagent-desc-procenyl-lazide = A miracle drug against severe wounds with low overdose threshold, needs to be crystalized at low temperatures and separated out from its precursor solution. Recommended to be used orally, to minimize chance of overdose.
+reagent-desc-procenyl-lazide = Чудодейственное средство от тяжёлых ран с низким порогом передозировки. Требует кристаллизации при низких температурах и отделения от исходного раствора. Рекомендуется принимать внутрь, чтобы снизить риск передозировки.
 
 reagent-name-bozaide = бозайд
 reagent-desc-bozaide = Медленно действующее средство для лечения физического урона, наносит небольшой радиационный урон.

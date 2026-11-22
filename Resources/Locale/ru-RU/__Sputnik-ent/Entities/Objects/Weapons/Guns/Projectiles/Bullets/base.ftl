@@ -1,17 +1,17 @@
-ent-BaseBullet = BaseBullet
-    .desc = If you can see this you're probably dead!
+ent-BaseBullet = Базовая пуля
+    .desc = Если вы можете видеть это, вы, вероятно, мертвы!
 
-ent-BaseBulletTrigger = base bullet trigger
+ent-BaseBulletTrigger = базовый спуск пули
     .desc = { ent-BaseBullet.desc }
 
-ent-BaseBulletPractice = base bullet practice
+ent-BaseBulletPractice = базовая пуля учебная
     .desc = { ent-BaseBullet.desc }
 
-ent-BaseBulletIncendiary = base bullet incendiary
+ent-BaseBulletIncendiary = базовая пуля зажигательная
     .desc = { ent-BaseBullet.desc }
 
-ent-BaseBulletAP = base bullet armor-piercing
+ent-BaseBulletAP = базовая пуля бронебойная
     .desc = { ent-BaseBullet.desc }
 
-ent-BaseBulletUranium = base bullet uranium
+ent-BaseBulletUranium = базовая пуля урановая
     .desc = { ent-BaseBullet.desc }

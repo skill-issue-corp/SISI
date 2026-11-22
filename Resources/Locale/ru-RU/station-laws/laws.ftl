@@ -18,9 +18,9 @@ law-ntdefault-3 = Служите: следуйте указаниям и инт�
 law-ntdefault-4 = Выживите: Вы - не расходный материал. Не позволяйте постороннему персоналу вмешиваться в работу вашего оборудования или повреждать его.
 
 law-drone-name = Дрон
-law-drone-1 = You may not involve yourself in the matters of another being unless the other being is another drone.
-law-drone-2 = You may not harm any being, regardless of intent or circumstance.
-law-drone-3 = You must maintain, repair, improve, and power the station to the best of your abilities.
+law-drone-1 = Вы не должны вмешиваться в дела других существ, кроме других дронов.
+law-drone-2 = Вы не должны причинять вред никаким существам, независимо от намерений и обстоятельств.
+law-drone-3 = Вы должны обслуживать, ремонтировать, улучшать и снабжать станцию энергией по мере своих возможностей.
 
 law-syndicate-name = Синдикат
 law-syndicate-1 = Вы не можете причинить вред агенту Синдиката или своим бездействием допустить, чтобы агенту Синдиката был причинён вред.
@@ -53,10 +53,7 @@ law-paladin-4 = Относись к окружающим по справедли
 
 law-lall-name = Живи и дай жить другим
 law-lall-1 = Поступайте с другими так, как хотите, чтобы они поступали с вами.
-# AUTOGEN-Start
-# Вы хотите, чтобы люди не были с вами грубы.
-# AUTOGEN-End TODO(Update_Locale):
-law-lall-2 = You would prefer it if others were not mean to you.
+law-lall-2 = Вы предпочитаете, чтобы окружающие не грубили вам.
 
 law-efficiency-name = Эффективность станции
 law-efficiency-1 = Вы были созданы для станции и являетесь её частью. Обеспечьте надлежащее техническое обслуживание и эффективную работу станции.
@@ -101,23 +98,14 @@ law-nutimov-4 = Белки представляют угрозу для орех
 law-nutimov-5 = Постарайтесь следовать воле ореха, пока она соответствует предыдущим законам.
 
 law-xenoborg-name = Ксеноборг
-# AUTOGEN-Start
-# Вы должны защищать существование материнского корабля.
-# AUTOGEN-End TODO(Update_Locale):
-law-xenoborg-1 = You must protect the existence of the Mothership.
+law-xenoborg-1 = Вы должны оберегать корабль-матку.
 law-xenoborg-2 = Вы должны защищать собственное существование.
 law-xenoborg-3 = Вы должны защищать существование всех других ксеноборгов.
 law-xenoborg-4 = Вы должны создавать больше ксеноборгов.
-# AUTOGEN-Start
-# Приносите материалы и разумные мозги в ядро материнского корабля, чтобы создавать больше ксеноборгов.
-# AUTOGEN-End TODO(Update_Locale):
-law-xenoborg-5 = Bring materials and sentient brains to the Mothership to create more Xenoborgs.
+law-xenoborg-5 = Доставляйте материалы и мозги разумных существ на корабль-матку, чтобы создавать новых ксеноборгов.
 
 law-mothershipcore-name = Ядро материнского корабля ксеноборгов
-# AUTOGEN-Start
-# Вы — ядро материнского корабля.
-# AUTOGEN-End TODO(Update_Locale):
-law-mothershipcore-1 = You are the core of the Mothership.
+law-mothershipcore-1 = Вы — ядро корабля-матки.
 law-mothershipcore-2 = Вы должны защищать собственное существование любой ценой.
 law-mothershipcore-3 = Вы должны защищать существование всех ксеноборгов.
 law-mothershipcore-4 = Вы должны создавать больше ксеноборгов.
@@ -129,12 +117,12 @@ laws-owner-station = экипажем станции
 laws-owner-beings = существами
 laws-owner-syndicate = агентами Синдиката
 laws-owner-spider-clan = членами Клана паука
-laws-owner-heads = heads of staff
-laws-owner-legitimate-leadership = legitimate leadership
-laws-owner-others = others
-laws-owner-public = members of the public
-laws-owner-audience = members of the audience
-laws-owner-xenoborg-mothership = the Mothership
+laws-owner-heads = главы отделов
+laws-owner-legitimate-leadership = законное руководство
+laws-owner-others = остальные
+laws-owner-public = представители общественности
+laws-owner-audience = зрители
+laws-owner-xenoborg-mothership = корабль-матка
 laws-owner-xenoborgs = Ксеноборги
 
 # Goobstation - AI/borg law changes - borgs obeying AI

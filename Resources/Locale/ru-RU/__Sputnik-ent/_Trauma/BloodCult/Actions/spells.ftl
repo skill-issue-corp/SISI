@@ -4,26 +4,26 @@ ent-BaseActionBloodCult = { ent-BaseAction }
 ent-BaseBloodCultSpell = { ent-BaseActionBloodCult }
     .desc = { ent-BaseActionBloodCult.desc }
 
-ent-ActionBloodCultSpells = Prepare Spell
-    .desc = Choose a single-use spell you can use at any time. Free to use, but takes 2 seconds to prepare.
+ent-ActionBloodCultSpells = Подготовить Заклинание
+    .desc = Выберите одноразовое заклинание, которое можно применить в любое время. Оно ничего не стоит, но подготовка занимает 2 секунды.
 
-ent-ActionBloodCultStun = Stun
-    .desc = Empowers your hand to knock down and mute a victim on contact. Strike them with a cult weapon to complete the invocation, stunning them and extending the mute.
+ent-ActionBloodCultStun = Оглушающий
+    .desc = Зачаровывает вашу руку, чтобы сбить жертву с ног и лишить её речи прикосновением. Ударьте жертву оружием культа, чтобы завершить призыв, оглушить её и продлить немоту.
 
-ent-ActionBloodCultTeleport = Teleport
-    .desc = Empowers your hand to teleport yourself or another cultist to a teleport rune on contact.
+ent-ActionBloodCultTeleport = Телепорт
+    .desc = Зачаровывает вашу руку, чтобы прикосновением телепортировать себя или другого культиста к руне телепортации.
 
-ent-ActionBloodCultEmp = Electromagnetic Pulse
-    .desc = Emits a large electromagnetic pulse.
+ent-ActionBloodCultEmp = Электромагнитный Импульс
+    .desc = Испускает мощный электромагнитный импульс.
 
-ent-ActionBloodCultShadowShackles = Shadow Shackles
-    .desc = Empowers your hand to handcuff an already stunned victim on contact, and mute them if successful.
+ent-ActionBloodCultShadowShackles = Теневые Оковы
+    .desc = Зачаровывает вашу руку, чтобы прикосновением надеть наручники на уже оглушённую жертву и лишить её речи при успехе.
 
-ent-ActionBloodCultTwistedConstruction = Twisted Construction
-    .desc = Empowers your hand to corrupt certain metallic objects.
+ent-ActionBloodCultTwistedConstruction = Искажённое Созидание
+    .desc = Зачаровывает вашу руку, чтобы осквернять некоторые металлические предметы.
 
-ent-ActionBloodCultSummonRitualDagger = Summon Ritual Dagger
-    .desc = Allows you to summon a ritual dagger, in case you've lost the dagger that was given to you.
+ent-ActionBloodCultSummonRitualDagger = Призвать Ритуальный Кинжал
+    .desc = Позволяет призвать ритуальный кинжал, если вы потеряли выданный.
 
-ent-ActionBloodCultBloodRites = Blood Rites
-    .desc = Empowers your hand to absorb blood to be used for advanced rites, or heal a cultist on contact. Use the spell in-hand to cast advanced rites
+ent-ActionBloodCultBloodRites = Обряды Крови
+    .desc = Зачаровывает вашу руку, чтобы поглощать кровь для продвинутых обрядов или исцелять культиста прикосновением. Примените заклинание в руке, чтобы провести продвинутый обряд

@@ -7,5 +7,5 @@ ent-StickyGrenade = липкая граната
 ent-KudzuGrenade = граната с кудзу
     .desc = Любимая граната дионы.
 
-ent-GrenadeViscerators = viscerator delivery grenade
-    .desc = Grenade that deploys a swarm of viscerators upon activation, which will chase down and shred any non-operatives in the area.
+ent-GrenadeViscerators = граната с потрошителями
+    .desc = При активации граната выпускает рой потрошителей, которые преследуют и разрывают на части всех поблизости, кроме оперативников.

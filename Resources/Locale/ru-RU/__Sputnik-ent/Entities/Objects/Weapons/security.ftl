@@ -1,9 +1,5 @@
-# AUTOGEN-Start
-# дубинка-шокер
-# .desc = Электрошоковая дубинка для обездвиживания людей. Слишком усердное причинение вреда с помощью этого предмета считается дурным тоном.
-# AUTOGEN-End TODO(Update_Locale):
-ent-Stunbaton = stun baton
-    .desc = A stun baton for incapacitating people with. Has advanced wrist strap technology to prevent cadets accidentally dropping it.
+ent-Stunbaton = дубинка-шокер
+    .desc = Электродубинка для обезвреживания людей. Оснащена передовой технологией ремешка на запястье, чтобы кадеты случайно её не уронили.
 
 ent-Truncheon = дубинка
     .desc = Жёсткая дубинка со стальным сердечником, предназначенная причинять боль.

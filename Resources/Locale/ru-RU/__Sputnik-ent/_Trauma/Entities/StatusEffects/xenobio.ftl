@@ -1,11 +1,5 @@
-# AUTOGEN-Start
-# отложенный взрыв
-# AUTOGEN-End TODO(Update_Locale):
-ent-XenobioExplodeStatusEffect = delayed explosion
+ent-XenobioExplodeStatusEffect = отложенный взрыв
     .desc = { ent-StatusEffectBase.desc }
 
-# AUTOGEN-Start
-# отложенная металлическая пена
-# AUTOGEN-End TODO(Update_Locale):
-ent-XenobioMetalFoamStatusEffect = delayed metal foam
+ent-XenobioMetalFoamStatusEffect = отложенная металлическая пена
     .desc = { ent-StatusEffectBase.desc }

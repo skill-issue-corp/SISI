@@ -1,1 +1,1 @@
-animate-object-event-anchored = You can't animate an anchored object!
+animate-object-event-anchored = Закреплённый предмет оживить нельзя!

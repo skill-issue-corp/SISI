@@ -1,6 +1,6 @@
 ## CREW EXAMINES
 cosmic-examine-text-contraband = [color=#4cabb3]Это крайне незаконный контрабандный предмет с неизвестными свойствами![/color]
-cosmic-examine-text-basic = [color=#4cabb3]This thing should not exist[/color]
+cosmic-examine-text-basic = [color=#4cabb3]Этого не должно существовать[/color]
 cosmic-examine-text-glyphs = [color=#4cabb3]Вырезанные линии вызывают глубокое чувство тревоги при взгляде на них.[/color]
 cosmic-examine-text-abilityblank = [color=#4cabb3]Их безучастные глаза пульсируют зловещим светом![/color]
 cosmic-examine-text-abilitylapse = [color=#4cabb3]Они выглядят так, будто видят нечто, чего не должны видеть. Никто.[/color]
@@ -11,13 +11,13 @@ cosmic-examine-text-effigy = [color=#4cabb3]Он излучает нестаби
 cosmic-examine-text-god = [color=#4cabb3]конец есть конец есть конец есть конец есть конец есть конец есть конец есть конец есть конец есть конец есть[/color]
 cosmic-examine-text-subtle-mark = [color=#4cabb3]В их глазах мерцают отблески потусторонней энергии.[/color]
 cosmic-examine-text-mote = [color=#4cabb3]На ощупь твёрдое, но пластичное, как будто его можно раздавить голыми руками.[/color]
-cosmic-examine-text-sign = [color=#4cabb3]The training didn't say anything about that kind of warning signs.[/color]
+cosmic-examine-text-sign = [color=#4cabb3]На инструктаже о таких предупреждающих знаках ничего не говорили.[/color]
 
 ## CULTIST EXAMINES
 cosmic-examine-text-forthecult = [color=#4cabb3]Это наших рук дело. Как и должно быть.[/color]
 cosmic-examine-text-cultentity = [color=#4cabb3]Могущественный союзник.[/color]
 cosmic-examine-text-culteffigy = [color=#4cabb3]Это может оказаться полезным.[/color]
-cosmic-examine-text-sign-cult = [color=#4cabb3]It warns about us. We are the hazard.[/color]
+cosmic-examine-text-sign-cult = [color=#4cabb3]Он предупреждает о нас. Опасность — это мы.[/color]
 
 ## GLYPH EXAMINES
 cosmic-examine-glyph-cultcount = {$COUNT ->

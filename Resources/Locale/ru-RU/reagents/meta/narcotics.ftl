@@ -42,17 +42,11 @@ reagent-desc-happiness = Доводит до экстатического оце
 
 reagent-name-Hydroxysomnolene = гидроксисомнолен
 # Trauma - added mention of poison and heart attack
-# AUTOGEN-Start
-# Побочный продукт метаболизма метилендиоксистраваквинона (он же Клубничный лёд). Связывается с освободившимися нейрорецепторами мозга после выведения метилендиоксистраваквинона, вызывая медлительность и сонливость. Чтобы ослабить его действие, остаётся только переждать его или принять ещё немного этой клубничной прелести...
-# AUTOGEN-End TODO(Update_Locale):
-reagent-desc-Hydroxysomnolene = Byproduct of Methylenedioxystraquinone (aka Strawberry Ice) when metabolized. It binds to the newly vacant neuroreceptors in the brain after Methylenedioxystraquinone is flushed out of the system, causing slowness and drowsiness at low amounts, poison at higher amounts, and heart attacks if you go too far. The only ways to reduce its effects is to either wait it out, or take another hit of that strawberry goodness...
+reagent-desc-Hydroxysomnolene = Продукт метаболизма метилендиоксистрахинона (также известного как «Клубничный Лёд»). Когда метилендиоксистрахинон выводится из организма, вещество связывается с освободившимися нейрорецепторами мозга. В малых количествах вызывает вялость и сонливость, в больших — отравление, а при передозировке — сердечный приступ. Ослабить действие можно лишь переждав его или приняв ещё дозу этого клубничного лакомства...
 
 reagent-name-StrawberryIce = метилендиоксистраваквинон
 # Trauma - added mention of heart attack
-# AUTOGEN-Start
-# Особый препарат, созданный для превосходства дезоксиэфедрина. Из-за цвета и вкуса известен как «Клубничный лёд» или «Девичий лёд», вызывает сильнейшее привыкание и сопровождается тяжёлым синдромом отмены. Пока под его воздействием высота полёта выше и пользователи рассказывают о радугах в космосе, прекративших употребление ждут почти вечные ужасы.
-# AUTOGEN-End TODO(Update_Locale):
-reagent-desc-StrawberryIce = A special drug designed to be even stronger than Desoxyephedrine. Known as "Strawberry Ice" or "Girl Ice" given its color and flavor, it is incredibly addictive and comes with strong withdrawal symptoms. While the highs are higher and users report flying in rainbows through space while under its influence, near-eternal horrors and a heart attack await those who cease consuming it.
+reagent-desc-StrawberryIce = Особый наркотик, разработанный так, чтобы действовать ещё сильнее дезоксиэфедрина. За цвет и вкус его прозвали «Клубничным Льдом» или «Девичьим Льдом». Вызывает сильнейшее привыкание и тяжёлую ломку. Кайф от него сильнее, и под его действием люди рассказывают, будто летали по радугам через космос. Того, кто перестанет его принимать, ждут почти нескончаемый ужас и сердечный приступ.
 
-reagent-name-nyctalon = nyctalon
-reagent-desc-nyctalon = An irradiated medicine derived from oculine, this drug stimulates the rod and cone cells of the user's retina, enabling excellent night vision. This comes at a consequence of mild radiation sickness.
+reagent-name-nyctalon = никталон
+reagent-desc-nyctalon = Облучённый препарат на основе окулина. Стимулирует палочки и колбочки сетчатки, давая отличное ночное зрение. Побочный эффект — лёгкая лучевая болезнь.

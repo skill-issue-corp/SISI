@@ -1,38 +1,38 @@
-ent-ProjectileFireball = fireball
-    .desc = You better GITTAH WEIGH.
+ent-ProjectileFireball = огненный шар
+    .desc = По мнению волшебников, является средством от всех проблем.
 
-ent-ProjectileDragonsBreath = dragon's breath
-    .desc = Try not to get toasted.
+ent-ProjectileDragonsBreath = дыхание дракона
+    .desc = Постарайтесь не поджариться.
 
-ent-ProjectileAnomalyFireball = fireball
-    .desc = Hovering blob of flame.
+ent-ProjectileAnomalyFireball = огненный шар
+    .desc = Парящий сгусток пламени.
 
-ent-ProjectileLocker = cursed locker
-    .desc = A cursed magical locker! Can you resist?
+ent-ProjectileLocker = проклятый шкафчик
+    .desc = Проклятый магический шкафчик! Сможете ли вы сопротивляться?
 
 ent-ProjectilePolyboltBase = { ent-BaseBullet }
     .desc = { ent-BaseBullet.desc }
 
-ent-ProjectilePolyboltCarp = carp polybolt
-    .desc = Nooo, I don't wanna be fish!
+ent-ProjectilePolyboltCarp = полизаряд карпа
+    .desc = Неееет, я не хочу быть рыбой!
 
-ent-ProjectilePolyboltMonkey = monkey polybolt
-    .desc = Nooo, I don't wanna be monkey!
+ent-ProjectilePolyboltMonkey = полизаряд обезьяны
+    .desc = Неееет, я не хочу быть обезьяной!
 
-ent-ProjectilePolyboltDoor = door polybolt
-    .desc = Nooo, I don't wanna be door!
+ent-ProjectilePolyboltDoor = полизаряд двери
+    .desc = Неееет, я не хочу быть дверью!
 
-ent-ProjectileHealingBolt = healing bolt
-    .desc = I COMMAND YOU TO LIVE!
+ent-ProjectileHealingBolt = исцеляющий заряд
+    .desc = Я ПРИКАЗЫВАЮ ТЕБЕ ЖИТЬ!
 
-ent-BulletInstakillMagic = magical lead cylinder
-    .desc = This looks familiar.
+ent-BulletInstakillMagic = волшебный свинцовый цилиндр
+    .desc = Выглядит знакомо.
 
-ent-ProjectilePolyboltCluwne = cluwne polybolt
-    .desc = KnoH KnoH!
+ent-ProjectilePolyboltCluwne = полизаряд клувеня
+    .desc = КноХ КноХ!
 
-ent-ProjectileIcicle = icicle
-    .desc = Brrrrr.
+ent-ProjectileIcicle = сосулька
+    .desc = Бррррр.
 
-ent-ProjectilePolyboltBread = bread polybolt
-    .desc = Nooo, I don't wanna be bread!
+ent-ProjectilePolyboltBread = полизаряд хлеба
+    .desc = Неееет, я не хочу быть хлебом!

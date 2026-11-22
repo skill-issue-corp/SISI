@@ -1,2 +1,2 @@
-ent-Armblade = arm blade
-    .desc = A grotesque blade made out of bone and flesh that cleaves through people as a hot knife through butter.
+ent-Armblade = рука-клинок
+    .desc = Гротескный клинок из костей и плоти, который рассекает людей, как горячий нож масло.

@@ -1,6 +1,6 @@
 # Refill Messages
-comp-entity-provider-cannot-receive = {CAPITALIZE(THE($refillTarget))} cannot be refilled!
-comp-entity-provider-cannot-transfer = {CAPITALIZE(THE($provider))} cannot be used to refill!
+comp-entity-provider-cannot-receive = {CAPITALIZE($refillTarget)} нельзя заправить!
+comp-entity-provider-cannot-transfer = {CAPITALIZE($provider)} не подходит для заправки!
 
 # Ejection Messages
-comp-entity-provider-no-ejected = There's nothing to eject!
+comp-entity-provider-no-ejected = Нечего извлекать!

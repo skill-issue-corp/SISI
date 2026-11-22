@@ -7,5 +7,5 @@ ent-BibleTanakh = Танах
 ent-BibleSlabClockwork = заводная пластина
     .desc = Странная металлическая пластина, с постоянно вращающимися часами в центре.
 
-ent-ChaplainUndeterminedBible = bluespace scripture beacon
-    .desc = Though I walk through the valley of the shadow of death I will fear no evil, for you are with me.
+ent-ChaplainUndeterminedBible = маяк блюспейс писания
+    .desc = Если я пойду и долиною смертной тени, не убоюсь зла, потому что Ты со мной.

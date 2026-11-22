@@ -22,5 +22,5 @@ ent-SyndiMedicPDA = КПК медика синдиката
 ent-RancherPDA = КПК животновода
     .desc = Второй лучший друг животновода!
 
-ent-DClassPDA = D-Class PDA
-    .desc = Holding this generally revokes what few rights you would otherwise have.
+ent-DClassPDA = КПК Класса D
+    .desc = С ним вы обычно лишаетесь тех немногих прав, что у вас ещё оставались.

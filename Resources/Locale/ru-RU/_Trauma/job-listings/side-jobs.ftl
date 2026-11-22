@@ -1,11 +1,11 @@
-side-job-steal-title-no-owner = Steal {THE($itemName)}.
-side-job-steal-title = Steal {THE($owner)}'s {$itemName}.
-side-job-steal-description = Steal {THE($itemName)}, then scan it with the provided scanalyzer and claim your reward. We don't care what happens to the item afterwards.
-side-job-steal-description-multiple = Steal all {THE($itemName)}, then scan them with the provided scanalyzer and claim your reward. We don't care what happens to the item afterwards.
+side-job-steal-title-no-owner = Украдите {$itemName}.
+side-job-steal-title = Украдите у {$owner} предмет {$itemName}.
+side-job-steal-description = Украдите {$itemName}, отсканируйте предмет выданным сканализатором и заберите награду. Дальнейшая судьба предмета нас не интересует.
+side-job-steal-description-multiple = Украдите все экземпляры {$itemName}, отсканируйте их выданным сканализатором и заберите награду. Дальнейшая судьба предметов нас не интересует.
 
-side-job-kill-title = Kill {$targetName}, {CAPITALIZE($job)}
+side-job-kill-title = Убить {$targetName}, должность: {CAPITALIZE($job)}
 
-side-job-hack-comms-computer-name = Call in the syndicate battlecruiser
-side-job-hack-comms-computer-description = You have done great work. The station is weak. Hack the communications console and broadcast out to the whole syndicate. They will come.
+side-job-hack-comms-computer-name = Вызовите линейный крейсер Синдиката
+side-job-hack-comms-computer-description = Вы отлично поработали. Станция ослаблена. Взломайте консоль связи и передайте сообщение всему Синдикату. Они придут.
 
-steal-target-groups-comms-computer = Comms Computer
+steal-target-groups-comms-computer = Консоль Связи

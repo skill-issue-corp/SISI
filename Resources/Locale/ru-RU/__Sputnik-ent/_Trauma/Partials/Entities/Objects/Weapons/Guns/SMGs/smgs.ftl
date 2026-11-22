@@ -7,8 +7,8 @@ ent-WeaponSubMachineGunC20r = { "" }
 ent-WeaponSubMachineGunDrozd = { "" }
     .desc = { "" }
 
-ent-WeaponSubMachineGunWt550 = WT550 autorifle
-    .desc = A truly unique firearm, the WT550 was designed by Nanotrasen's Small Arms Division as a compact, cheap, and mass produced submachine gun fully controllable with one hand. It contains an exotic internal recoil buffer and feeds from special top-mounted 9mm magazines.
+ent-WeaponSubMachineGunWt550 = автоматическая винтовка WT550
+    .desc = По-настоящему уникальное оружие. Отдел стрелкового оружия NanoTrasen разработал WT550 как компактный и дешёвый серийный пистолет-пулемёт, которым можно управлять одной рукой. Внутри необычный компенсатор отдачи, а сверху устанавливаются особые магазины 9mm.
 
 ent-WeaponSubMachineGunBriefcase = { "" }
     .desc = { "" }

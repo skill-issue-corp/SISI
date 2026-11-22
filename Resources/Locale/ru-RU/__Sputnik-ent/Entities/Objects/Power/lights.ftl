@@ -22,14 +22,9 @@ ent-WarmLightBulb = тёплая лампа
 ent-LightBulbOld = старая лампа накаливания
     .desc = Старая обычная лампочка.
 
-# AUTOGEN-Start
-# лампа накаливания
-# .desc = Обычная лампочка.
-# .suffix = Сломанный
-# AUTOGEN-End TODO(Update_Locale):
-ent-LightBulbBroken = incandescent light bulb
-    .desc = A broken light bulb.
-    .suffix = Broken
+ent-LightBulbBroken = лампа накаливания
+    .desc = Разбитая лампочка.
+    .suffix = Сломанный
 
 ent-ServiceLightBulb = сервисная лампочка
     .desc = Тусклая зелёная лампочка, используемая в лампах вызова уборщика.
@@ -40,14 +35,9 @@ ent-LightTube = люминесцентная лампа-трубка
 ent-LightTubeOld = старая люминесцентная лампа-трубка
     .desc = Старая световая трубка.
 
-# AUTOGEN-Start
-# люминесцентная лампа-трубка
-# .desc = Это световая трубка.
-# .suffix = Сломанный
-# AUTOGEN-End TODO(Update_Locale):
-ent-LightTubeBroken = fluorescent light tube
-    .desc = A broken light fixture.
-    .suffix = Broken
+ent-LightTubeBroken = люминесцентная лампа-трубка
+    .desc = Сломанный светильник.
+    .suffix = Сломанный
 
 ent-LedLightTube = светодиодная лампа-трубка
     .desc = { ent-BaseLightbulb.desc }

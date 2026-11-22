@@ -4,14 +4,9 @@ ent-CartridgeMagicBullet = патрон с магической пулей
 ent-ScrollTeleport = свиток телепортации
     .desc = Этот свиток может телепортировать вас в любое место станции.
 
-# AUTOGEN-Start
-# свиток телепортации
-# .desc = Этот свиток может телепортировать вас в любое место станции. Только одно использование.
-# .suffix = Ученик
-# AUTOGEN-End TODO(Update_Locale):
 ent-ScrollTeleportApprentice = { ent-ScrollTeleport }
-    .desc = This scroll can teleport you anywhere on the station. Only has one use.
-    .suffix = Apprentice
+    .desc = Этот свиток может телепортировать вас в любое место станции. Только одно использование.
+    .suffix = Ученик
 
 ent-ThrownLightning = пакет заклинания молнии
     .desc = Немного птичьего корма, обёрнутого в ткань, которая потрескивает от электричества.

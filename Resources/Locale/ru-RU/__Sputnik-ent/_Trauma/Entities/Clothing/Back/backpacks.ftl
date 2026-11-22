@@ -4,9 +4,5 @@ ent-ClothingBackpackRev = рюкзак MOLLE
 ent-ClothingBackpackFlamethrower = ранцевый бак для огнемёта
     .desc = Принимает сменные топливные баки для питания огнемёта.
 
-# AUTOGEN-Start
-# рюкзак с баком святой воды
-# .desc = Охлаждаемый рюкзак-бак с водой, способный выпускать святую воду или работать как огнетушитель высокого давления.
-# AUTOGEN-End TODO(Update_Locale):
-ent-ClothingBackpackHolyFirefighterTank = holy fire backpack tank
-    .desc = A backpack tank consecrated by the finest chaplains Nanotrasen could buy the loyalty of. This one begins full of CLF3 and will burn with divine righteousness.
+ent-ClothingBackpackHolyFirefighterTank = ранцевый бак со священным огнём
+    .desc = Ранцевый бак, освящённый лучшими священниками, чью преданность смогла купить NanoTrasen. Уже заправлен CLF3 и будет пылать божественной праведностью.

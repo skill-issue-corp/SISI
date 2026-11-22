@@ -507,7 +507,7 @@ ent-AirlockSyndicateNukeopLocked = { ent-AirlockSyndicate }
 
 ent-AirlockXenoborgLocked = { ent-AirlockXenoborg }
     .desc = { ent-AirlockXenoborg.desc }
-    .suffix = Xenoborg, Locked
+    .suffix = Ксеноборг, Запертый
 
 ent-AirlockExternalShuttleLocked = { ent-AirlockShuttle }
     .suffix = Внешний, Стыковочный, Закрыт
@@ -523,7 +523,7 @@ ent-AirlockExternalShuttleNukeopLocked = { ent-AirlockShuttleSyndicate }
 
 ent-AirlockGlassShuttleXenoborgLocked = { ent-AirlockShuttleXenoborg }
     .desc = { ent-AirlockShuttleXenoborg.desc }
-    .suffix = External, Docking, Xenoborg, Locked
+    .suffix = Внешний, Стыковочный, Ксеноборг, Запертый
 
 ent-AirlockExternalGlassShuttleLocked = { ent-AirlockGlassShuttle }
     .suffix = Внешний, Стеклянный, Стыковочный, Закрыт
@@ -541,16 +541,13 @@ ent-AirlockExternalGlassShuttleEmergencyLocked = { ent-AirlockGlassShuttle }
     .suffix = Внешний, Emergency, Стеклянный, Стыковочный, Закрыт
     .desc = { ent-AirlockGlassShuttle.desc }
 
-# AUTOGEN-Start
-# .suffix = Внешний, Прибытие, Стеклянный, Стыковочный
-# AUTOGEN-End TODO(Update_Locale):
-ent-AirlockExternalGlassShuttleArrivals = arrivals airlock
+ent-AirlockExternalGlassShuttleArrivals = шлюз зоны прибытия
     .desc = { ent-AirlockGlassShuttle.desc }
-    .suffix = External, Arrivals, Glass, Docking
+    .suffix = Внешний, Прибытие, Стеклянный, Стыковочный
 
-ent-AirlockExternalGlassShuttleCargo = cargo airlock
+ent-AirlockExternalGlassShuttleCargo = грузовой шлюз
     .desc = { ent-AirlockGlassShuttle.desc }
-    .suffix = External, Cargo, Glass, Docking
+    .suffix = Внешний, Грузовой, Стеклянный, Стыковочный
 
 ent-AirlockExternalGlassShuttleEscape = { ent-AirlockGlassShuttle }
     .suffix = Внешний, Отбытие 3x4, Стеклянный, Стыковочный
@@ -574,8 +571,8 @@ ent-HighSecArmoryLocked = { ent-HighSecDoor }
 
 ent-AirlockHatchSyndicateLocked = { ent-AirlockHatchSyndicate }
     .desc = { ent-AirlockHatchSyndicate.desc }
-    .suffix = Syndicate, Locked
+    .suffix = Синдикат, Закрыт
 
 ent-AirlockHatchMaintenanceLocked = { ent-AirlockHatchMaintenance }
     .desc = { ent-AirlockHatchMaintenance.desc }
-    .suffix = Locked
+    .suffix = Заперто

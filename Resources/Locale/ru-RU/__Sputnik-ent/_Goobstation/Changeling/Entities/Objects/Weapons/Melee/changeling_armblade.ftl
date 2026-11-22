@@ -1,9 +1,6 @@
-# AUTOGEN-Start
-# .suffix = Неснимаемый
-# AUTOGEN-End TODO(Update_Locale):
 ent-ArmBladeChangeling = { ent-Armblade }
     .desc = { ent-Armblade.desc }
-    .suffix = Unremoveable
+    .suffix = Неснимаемый
 
 ent-FakeArmBladeChangeling = { ent-ArmBladeChangeling }
     .desc = { ent-ArmBladeChangeling.desc }

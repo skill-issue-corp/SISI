@@ -1,8 +1,8 @@
-ent-CartridgeBazookaExp = Leviathan explosive rocket
-    .desc = Guaranteed to ruin someone's day.
+ent-CartridgeBazookaExp = Фугасная ракета для «Левиафана»
+    .desc = Гарантированно испортит кому-нибудь день.
 
-ent-CartridgeBazookaCon = Leviathan concussion rocket
-    .desc = Guaranteed to ruin someone's day.
+ent-CartridgeBazookaCon = Оглушающая ракета для «Левиафана»
+    .desc = Гарантированно испортит кому-нибудь день.
 
-ent-CartridgeBazookaIncendiary = Leviathan incendiary rocket
-    .desc = Guaranteed to ruin someone's day.
+ent-CartridgeBazookaIncendiary = Зажигательная ракета для «Левиафана»
+    .desc = Гарантированно испортит кому-нибудь день.

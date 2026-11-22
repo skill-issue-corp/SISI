@@ -1,40 +1,16 @@
 chat-language-Universal-name = Межгалактический
 chat-language-Psychomantic-name = Психомантия
-# AUTOGEN-Start
-# Булькяз
-# AUTOGEN-End TODO(Update_Locale):
-chat-language-Bubblish-name = Oob'Mola'R-ien.
+chat-language-Bubblish-name = Уб'Мола'Р-иен.
 chat-language-RootSpeak-name = Корнеречь
-# AUTOGEN-Start
-# Синта'Унати
-# AUTOGEN-End TODO(Update_Locale):
-chat-language-Draconic-name = Imperial Dracon
+chat-language-Draconic-name = Имперский Драконский
 chat-language-Azaziba-name = Синта'Азазиба
-# AUTOGEN-Start
-# Сол-Коммон
-# AUTOGEN-End TODO(Update_Locale):
-chat-language-SolCommon-name = EarthGen
-# AUTOGEN-Start
-# Ново-Недирик
-# AUTOGEN-End TODO(Update_Locale):
-chat-language-NovuNederic-name = Terralingua
-# AUTOGEN-Start
-# Бейсик
-# AUTOGEN-End TODO(Update_Locale):
-chat-language-TauCetiBasic-name = Corporate Standard
+chat-language-SolCommon-name = Землеген
+chat-language-NovuNederic-name = Терралингва
+chat-language-TauCetiBasic-name = Корпоративный Стандарт
 chat-language-Tradeband-name = Трейдбэнд
-# AUTOGEN-Start
-# Вольный
-# AUTOGEN-End TODO(Update_Locale):
-chat-language-Freespeak-name = Fringe-Gutter
-# AUTOGEN-Start
-# Элиранский
-# AUTOGEN-End TODO(Update_Locale):
-chat-language-Elyran-name = Sunna Arabic
-# AUTOGEN-Start
-# Моффик
-# AUTOGEN-End TODO(Update_Locale):
-chat-language-Moffic-name = United Gudfic
+chat-language-Freespeak-name = Окраинный-Жаргон
+chat-language-Elyran-name = Арабский Сунны
+chat-language-Moffic-name = Объединённый Гудфийский
 chat-language-RobotTalk-name = Бинарник
 chat-language-Calcic-name = Кальцик
 chat-language-Xeeplian-name = Ксиплианский

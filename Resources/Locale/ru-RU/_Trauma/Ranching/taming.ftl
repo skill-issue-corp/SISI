@@ -1,1 +1,1 @@
-popup-successfully-tamed = The {$entity} seems to act friendlier around you!
+popup-successfully-tamed = Похоже, {$entity} относится к вам дружелюбнее!

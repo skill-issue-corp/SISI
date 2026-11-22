@@ -1,198 +1,63 @@
 # Cat accent
-# AUTOGEN-Start
-# Мяу!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-cat-1 = Meow
-# AUTOGEN-Start
-# Mиау.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-cat-2 = Mow
-# AUTOGEN-Start
-# Мурррр!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-cat-3 = Mrrrow
-# AUTOGEN-Start
-# Ххссс!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-cat-4 = Hhsss
-# AUTOGEN-Start
-# Мррау.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-cat-5 = Brrow
-# AUTOGEN-Start
-# Мяу?
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-cat-6 = Miau
+accent-words-cat-1 = Мяу
+accent-words-cat-2 = Мау
+accent-words-cat-3 = Мр-р-мяу
+accent-words-cat-4 = Хссс
+accent-words-cat-5 = Бр-р-р
+accent-words-cat-6 = Миау
 
 # Dog accent
-# AUTOGEN-Start
-# Гав!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-dog-1 = Bark
-# AUTOGEN-Start
-# Тяв!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-dog-2 = Bork
-# AUTOGEN-Start
-# Вуф!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-dog-3 = Woof
-# AUTOGEN-Start
-# Гаф.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-dog-4 = Arf
-# AUTOGEN-Start
-# Гррр.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-dog-5 = Grrr
+accent-words-dog-1 = Гав
+accent-words-dog-2 = Борк
+accent-words-dog-3 = Вуф
+accent-words-dog-4 = Арф
+accent-words-dog-5 = Гррр
 
 # Mouse
-# AUTOGEN-Start
-# Скуик!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-mouse-1 = Squeak
-# AUTOGEN-Start
-# Пиип!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-mouse-2 = Piep
-# AUTOGEN-Start
-# Чууу!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-mouse-3 = Chuu
-# AUTOGEN-Start
-# Ииии!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-mouse-4 = Eeee
-# AUTOGEN-Start
-# Пип!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-mouse-5 = Pip
-# AUTOGEN-Start
-# Уиип!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-mouse-6 = Fwiep
-# AUTOGEN-Start
-# Иип!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-mouse-7 = Heep
+accent-words-mouse-1 = Писк
+accent-words-mouse-2 = Пип
+accent-words-mouse-3 = Чуу
+accent-words-mouse-4 = Ээээ
+accent-words-mouse-5 = Пип
+accent-words-mouse-6 = Фвип
+accent-words-mouse-7 = Хип
 
 # Mumble
-# AUTOGEN-Start
-# Ммпмв!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-mumble-1 = Mmfph
-# AUTOGEN-Start
-# Мммв-мррввв!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-mumble-2 = Mmmf mrrfff
-# AUTOGEN-Start
-# Мммв-мпвф!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-mumble-3 = Mmmf mnnf
+accent-words-mumble-1 = Ммфф
+accent-words-mumble-2 = Мммф Мррфф
+accent-words-mumble-3 = Мммф мннф
 
 # Silicon
-# AUTOGEN-Start
-# Бип.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-silicon-1 = Beep
-# AUTOGEN-Start
-# Буп.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-silicon-2 = Boop
-# AUTOGEN-Start
-# Жжжж.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-silicon-3 = Whirr
-# AUTOGEN-Start
-# Биб-буп.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-silicon-4 = Beep-boop
+accent-words-silicon-1 = Бип
+accent-words-silicon-2 = Буп
+accent-words-silicon-3 = Жужжать
+accent-words-silicon-4 = Бип-буп
 
 # Xeno
-# AUTOGEN-Start
-# Хиссс.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-xeno-1 = Hiss
-# AUTOGEN-Start
-# Хиссссс!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-xeno-2 = Hisssss
-# AUTOGEN-Start
-# Хисссшу...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-xeno-3 = Hisssuuu
-# AUTOGEN-Start
-# Хисс...!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-xeno-4 = Hiss
+accent-words-xeno-1 = Шипение
+accent-words-xeno-2 = Ш-ш-ш
+accent-words-xeno-3 = Хиссууу
+accent-words-xeno-4 = Шипение
 
 # Zombie
-# AUTOGEN-Start
-# Грруааа...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-1 = Gruaahhhh
-# AUTOGEN-Start
-# Ммуааа...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-2 = Mmuaaaa
-# AUTOGEN-Start
-# Маазгиии...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-3 = Braainnssss
-# AUTOGEN-Start
-# Гррррр...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-4 = Grrrrr
-# AUTOGEN-Start
-# Ууаагххххх...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-5 = Ouuaahhhhh
-# AUTOGEN-Start
-# Граааааоооууллл...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-6 = Graaaaaooohhlll
-# AUTOGEN-Start
-# Мазгии... Ммааазгиии..
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-7 = Brainsss... Braaaiiinnsss
-# AUTOGEN-Start
-# Мазгххх...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-8 = Braughhh
-# AUTOGEN-Start
-# Маазгг...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-9 = Breshhhh
-# AUTOGEN-Start
-# Граааааа...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-10 = Graaaaaa
+accent-words-zombie-1 = Гру-а-а-а
+accent-words-zombie-2 = Ммуа-а-а
+accent-words-zombie-3 = Мозг-и-и-и
+accent-words-zombie-4 = Гррррр
+accent-words-zombie-5 = У-у-а-а-ах
+accent-words-zombie-6 = Гра-а-а-о-олл
+accent-words-zombie-7 = Мозг-и-и... Мо-о-озг-и-и-и
+accent-words-zombie-8 = Браугх
+accent-words-zombie-9 = Бреш-ш-ш
+accent-words-zombie-10 = Граааааааа
 
 # Moth Zombie
-# AUTOGEN-Start
-# Одееежда...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-moth-1 = Clothessss
-# AUTOGEN-Start
-# Ооообувь...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-moth-2 = Shooooesss
-# AUTOGEN-Start
-# Свеееет...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-moth-3 = Liiiiight
-# AUTOGEN-Start
-# Лаааампы...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-moth-4 = Laaamps
-# AUTOGEN-Start
-# Шааапк... Шаааапки...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-moth-5 = Haaaatsss... Hatttssss
-# AUTOGEN-Start
-# Шааарфы...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-zombie-moth-6 = Scarffsss
+accent-words-zombie-moth-1 = Оде-е-ежда
+accent-words-zombie-moth-2 = Ту-у-уфли
+accent-words-zombie-moth-3 = Све-е-ет
+accent-words-zombie-moth-4 = Ла-а-ампы
+accent-words-zombie-moth-5 = Шля-а-апы... Шляп-п-пы
+accent-words-zombie-moth-6 = Шарф-ф-фы
 
 # Goob
 # Dwarf Zombie
@@ -202,222 +67,75 @@ accent-words-zombie-dwarf-3 = Буухлоооо...
 accent-words-zombie-dwarf-4 = Рююююмкаа...
 
 # Generic Aggressive
-# AUTOGEN-Start
-# Грр!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-generic-aggressive-1 = Grr
-# AUTOGEN-Start
-# Рррр!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-generic-aggressive-2 = Rrrr
-# AUTOGEN-Start
-# Грр...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-generic-aggressive-3 = Grrow
+accent-words-generic-aggressive-1 = Грр
+accent-words-generic-aggressive-2 = Рррр
+accent-words-generic-aggressive-3 = Гр-р-рау
 
 # Duck
-# AUTOGEN-Start
-# Ква!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-duck-1 = Quack
-# AUTOGEN-Start
-# Ква.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-duck-2 = Quack quack
-# AUTOGEN-Start
-# Ква?
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-duck-3 = Quack quack quack
+accent-words-duck-1 = Кря
+accent-words-duck-2 = Кря кря
+accent-words-duck-3 = Кря кря кря
 
 # Chicken
-# AUTOGEN-Start
-# Кудах!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-chicken-1 = Cluck
-# AUTOGEN-Start
-# Кудах.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-chicken-2 = Cluck cluck
-# AUTOGEN-Start
-# Кудах?
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-chicken-3 = Cluck cluck cluck
+accent-words-chicken-1 = Ко
+accent-words-chicken-2 = Ко ко
+accent-words-chicken-3 = Ко ко ко
 
 # Pig
-# AUTOGEN-Start
-# Хрю.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-pig-1 = Oink
-# AUTOGEN-Start
-# Хрю?
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-pig-2 = Oink oink
-# AUTOGEN-Start
-# Хрю!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-pig-3 = Oink oink oink
+accent-words-pig-1 = Хрю
+accent-words-pig-2 = Хрю хрю
+accent-words-pig-3 = Хрю хрю хрю
 
 # Kangaroo
-# AUTOGEN-Start
-# Грр!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-kangaroo-1 = Grr
-# AUTOGEN-Start
-# Ххссс!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-kangaroo-2 = Hisss
-# AUTOGEN-Start
-# Шррр!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-kangaroo-3 = Shreak
-# AUTOGEN-Start
-# Чууу!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-kangaroo-4 = Chuu
+accent-words-kangaroo-1 = Грр
+accent-words-kangaroo-2 = Ш-ш
+accent-words-kangaroo-3 = Визг
+accent-words-kangaroo-4 = Чуу
 
 # Slimes
-# AUTOGEN-Start
-# Блюмп.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-slimes-1 = Blyump
-# AUTOGEN-Start
-# Блимпаф?
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-slimes-2 = Blimpuf
-# AUTOGEN-Start
-# Бламп!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-slimes-3 = Blump
-# AUTOGEN-Start
-# Блааамп...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-slimes-4 = Bluuump
-# AUTOGEN-Start
-# Блабл-бламп!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-slimes-5 = Blabl blump
+accent-words-slimes-1 = Блаймп
+accent-words-slimes-2 = Блимпуф
+accent-words-slimes-3 = Блумп
+accent-words-slimes-4 = Блуумп
+accent-words-slimes-5 = Блабл блумп
 
 # Mothroach
-# AUTOGEN-Start
-# Чирик!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-mothroach-1 = Chirp
+accent-words-mothroach-1 = Чирик
 
 # Crab
-# AUTOGEN-Start
-# Чик.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-crab-1 = Click
-# AUTOGEN-Start
-# Чик-клац!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-crab-2 = Click-clack
-# AUTOGEN-Start
-# Клац?
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-crab-3 = Clack
-# AUTOGEN-Start
-# Типи-тап!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-crab-4 = Tipi-tap
-# AUTOGEN-Start
-# Чик-тап.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-crab-5 = Clik-tap
-# AUTOGEN-Start
-# Чикичик.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-crab-6 = Cliliick
+accent-words-crab-1 = Щелчок
+accent-words-crab-2 = Клик-клак
+accent-words-crab-3 = Клэк
+accent-words-crab-4 = Типи-тап
+accent-words-crab-5 = Клик-тап
+accent-words-crab-6 = Клилик
 
 # Kobold
-# AUTOGEN-Start
-# Йип!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-kobold-1 = Yip
-# AUTOGEN-Start
-# Гррар.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-kobold-2 = Grrar
-# AUTOGEN-Start
-# Йап!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-kobold-3 = Yap
-# AUTOGEN-Start
-# Бип.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-kobold-4 = Bip
-# AUTOGEN-Start
-# Скрит?
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-kobold-5 = Screet
-# AUTOGEN-Start
-# Гронк!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-kobold-6 = Gronk
-# AUTOGEN-Start
-# Хисс!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-kobold-7 = Hiss
-# AUTOGEN-Start
-# Йии!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-kobold-8 = Eeee
+accent-words-kobold-1 = Йип
+accent-words-kobold-2 = Гррар
+accent-words-kobold-3 = Тяв
+accent-words-kobold-4 = Бип
+accent-words-kobold-5 = Скрит
+accent-words-kobold-6 = Гронк
+accent-words-kobold-7 = Шипение
+accent-words-kobold-8 = Ээээ
 
 # Nymph
-# AUTOGEN-Start
-# Чирик!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-nymph-1 = Chirp
-# AUTOGEN-Start
-# Чурр...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-nymph-2 = Churr
-# AUTOGEN-Start
-# Чипи?
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-nymph-3 = Cheep
-# AUTOGEN-Start
-# Шрруп!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-nymph-4 = Chrrup
+accent-words-nymph-1 = Чирик
+accent-words-nymph-2 = Чурр
+accent-words-nymph-3 = Чип
+accent-words-nymph-4 = Хрруп
 
 # TomatoKiller
-# AUTOGEN-Start
-# Тотат!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-tomato-1 = Totato
+accent-words-tomato-1 = Тотато
 accent-words-tomato-2 = Тощита
-# AUTOGEN-Start
-# Мастет?
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-tomato-3 = Mastet
-# AUTOGEN-Start
-# Готат!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-tomato-4 = Reaty
-# AUTOGEN-Start
-# Вада...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-tomato-5 = Water
+accent-words-tomato-3 = Мастет
+accent-words-tomato-4 = Реати
+accent-words-tomato-5 = Вода
 
 # Scurret
-# AUTOGEN-Start
-# Ва!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-scurret-1 = Wa
-# AUTOGEN-Start
-# Ва?
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-scurret-2 = Wawa
-# AUTOGEN-Start
-# Ва.
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-scurret-3 = Wa wawa
-# AUTOGEN-Start
-# Ва...
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-scurret-4 = Wawa wa
-# AUTOGEN-Start
-# Вава!
-# AUTOGEN-End TODO(Update_Locale):
-accent-words-scurret-5 = Waaaaaa
+accent-words-scurret-1 = Ва
+accent-words-scurret-2 = Вава
+accent-words-scurret-3 = Ва-вава
+accent-words-scurret-4 = Вава ва
+accent-words-scurret-5 = Ваааааааа

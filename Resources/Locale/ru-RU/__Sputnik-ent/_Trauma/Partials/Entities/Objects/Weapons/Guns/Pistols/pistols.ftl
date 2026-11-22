@@ -8,7 +8,7 @@ ent-WeaponPistolEchis = { "" }
     .desc = { "" }
 
 ent-WeaponPistolCobra = { "" }
-    .desc = Integrally suppressed semi-automatic pistol used by the Syndicate, firing caseless subsonic rounds. Favored by any agent who likes to keep things quiet and leave no evidence behind. Feeds from 9.5mm pistol magazines.
+    .desc = Полуавтоматический пистолет Синдиката со встроенным глушителем и безгильзовыми дозвуковыми патронами. Любимец агентов, которым важны тишина и отсутствие улик. Питается из пистолетных магазинов 9.5mm.
 
 ent-WeaponPistolMk58 = { "" }
     .desc = { "" }

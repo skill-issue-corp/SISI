@@ -16,8 +16,8 @@ ent-ClothingShoesBootsMagBlinding = магнитные сапоги ослепл
 ent-ClothingShoesBootsMagSyndie = кроваво-красные магнитные сапоги
     .desc = Созданные по технологии реверс-инжиниринга магнитные сапоги с встроенными ускорителями. Вмещают 0,75 Л газа.
 
-ent-ClothingShoesBootsMagERT = ERT magboots
-    .desc = Upgraded magnetic boots utilized by Nanotrasen's Emergency Response Teams, they have a heavy magnetic pull and integrated thrusters. It can hold 0.75 L of gas.
+ent-ClothingShoesBootsMagERT = магнитные ботинки ОБР
+    .desc = Улучшенные магнитные ботинки отрядов быстрого реагирования NanoTrasen. У них мощные магниты и встроенные двигатели. Вмещают 0.75 л газа.
 
 ent-ActionToggleMagboots = Переключить магнитные сапоги
     .desc = Включает или выключает магнитные сапоги.

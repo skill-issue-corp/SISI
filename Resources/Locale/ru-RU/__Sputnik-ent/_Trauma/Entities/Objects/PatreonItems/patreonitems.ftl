@@ -76,8 +76,8 @@ ent-PatreonSuperMage = дёргающаяся мышь
 ent-PatreonDino = остеклённый цветок
     .desc = Он странно излучает.
 
-ent-PatreonElk77420 = Koa's King Sized
-    .desc = A king sized carton of premium smokes.
+ent-PatreonElk77420 = Королевский Размер Коа
+    .desc = Большая коробка премиальных сигарет.
 
-ent-KoaCigs = Koa's King Sized
-    .desc = Made with love for those hardworking Engineers and Atmos Techs.
+ent-KoaCigs = Королевский Размер Коа
+    .desc = Сделано с любовью к трудолюбивым инженерам и атмосферным техникам.

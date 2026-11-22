@@ -31,5 +31,5 @@ ent-StatusEffectDesoxyStamina = 2x максимальной выносливос
 ent-StatusEffectStimulantsStamina = 1.5x максимальной выносливости
     .desc = { ent-StaminaModifierStatusEffect.desc }
 
-ent-StatusEffectNightVision = Night Vision
+ent-StatusEffectNightVision = Ночное Видение
     .desc = { ent-MobStatusEffectBase.desc }

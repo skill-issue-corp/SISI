@@ -14,11 +14,11 @@ uplink-cluster-grenade-desc = Три объединённые взрывные �
 uplink-flashbang-pen-name = Ручка-светошумовая граната
 uplink-flashbang-pen-desc = Светошумовое устройство внутри обычной ручки. Имеет 4-секундный запал.
 
-uplink-viscerators-delivery-grenade-name = Viscerator Delivery Grenade
-uplink-viscerators-delivery-grenade-desc = Grenade that deploys a swarm of viscerators upon activation, which will chase down and shred any non-agents in the area.
+uplink-viscerators-delivery-grenade-name = Граната С Потрошителями
+uplink-viscerators-delivery-grenade-desc = При активации граната выпускает рой потрошителей, которые преследуют и разрывают на части всех в зоне действия, кроме агентов.
 
-uplink-viscerators-delivery-grenade-box-name = Viscerator Delivery Grenade Box
-uplink-viscerators-delivery-grenade-box-desc = A box containing unique grenades that deploys a swarm of viscerators upon activation, which will chase down and shred any non-operatives in the area.
+uplink-viscerators-delivery-grenade-box-name = Коробка Гранат С Потрошителями
+uplink-viscerators-delivery-grenade-box-desc = Коробка с особыми гранатами. При активации они выпускают рой потрошителей, которые преследуют и разрывают на части всех поблизости, кроме оперативников.
 
-uplink-cigar-gold-syndicate-name = Explosive Cigar Case
-uplink-cigar-gold-syndicate-desc = Capitalize on the Nanotrasen elite’s love for cigars with this certified Waffle Co. classic!* Just light these bad boys up, wait until the first half of the nicotine is used up, then BOOM!                   *Warning! Assassination plots on political enemies may not succeed!
+uplink-cigar-gold-syndicate-name = Футляр Со Взрывными Сигарами
+uplink-cigar-gold-syndicate-desc = Воспользуйтесь любовью верхушки NanoTrasen к сигарам с проверенной классикой от Waffle Co.!* Подкурите эти штуки, дождитесь, пока уйдёт первая половина никотина, а потом — БАБАХ!                   *Внимание! План покушения на политических противников может провалиться!

@@ -1,2 +1,2 @@
-ent-CultDoor = runed door
-    .desc = It opens, it closes, and maybe crushes you. This one has a strange glowing rune on it.
+ent-CultDoor = руническая дверь
+    .desc = Открывается, закрывается и, возможно, раздавит вас. На ней светится странная руна.

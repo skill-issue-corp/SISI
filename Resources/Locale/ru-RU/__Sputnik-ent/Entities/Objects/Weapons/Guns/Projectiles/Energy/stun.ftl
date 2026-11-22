@@ -1,16 +1,16 @@
-ent-BulletTaser = taser bolt
+ent-BulletTaser = заряд тазера
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletTaserSuper = taser bolt
-    .desc = If you can see this, you've probably been stun-meta'd
+ent-BulletTaserSuper = заряд тазера
+    .desc = Если вы можете видеть это, вероятно, вас застанметили.
 
-ent-BulletDisabler = disabler bolt
+ent-BulletDisabler = заряд дизейблера
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletDisablerPractice = disabler bolt practice
+ent-BulletDisablerPractice = заряд тренировочного дизейблера
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletDisablerSmgBase = disabler smg bolt
+ent-BulletDisablerSmgBase = заряд пистолета-пулемёта с дизейблером
     .desc = { ent-BaseBullet.desc }
 
 ent-BulletDisablerSmgSlowing = { ent-BulletDisablerSmgBase }
@@ -19,8 +19,8 @@ ent-BulletDisablerSmgSlowing = { ent-BulletDisablerSmgBase }
 ent-BulletDisablerSmgStunning = { ent-BulletDisablerSmgBase }
     .desc = { ent-BulletDisablerSmgBase.desc }
 
-ent-BulletDisablerSmgSpread = disabling laser barrage
+ent-BulletDisablerSmgSpread = оглушающий лазерный залп
     .desc = { ent-BulletDisablerSmgStunning.desc }
 
-ent-EnergyCrossbowBolt = energy bolt
-    .desc = This'll hurt.
+ent-EnergyCrossbowBolt = энергетический заряд
+    .desc = Будет больно.

@@ -1,20 +1,20 @@
-blood-cult-title = The Blood Cult
-blood-cult-description = The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.
+blood-cult-title = Культ Крови
+blood-cult-description = Древнейшее и сильнейшее чувство человечества — страх, а древнейший и сильнейший страх — страх перед неизвестным.
 
-roles-antag-blood-cultist-name = Blood cultist
-roles-antag-blood-cultist-objective = Summon the Old God Nar'Sie.
+roles-antag-blood-cultist-name = Культист крови
+roles-antag-blood-cultist-objective = Призовите Древнего Бога Нар'Си.
 
-blood-cult-role-greeting = The Geometer of Blood, Nar-Sie, has sent a number of her followers to Space Station.
-    As a cultist, you have an abundance of cult magics at your disposal, something for all situations.
-    You must work with your brethren to summon an avatar of your eldritch goddess!
+blood-cult-role-greeting = Геометр Крови Нар-Си послала нескольких своих последователей на Космическую Станцию.
+    В вашем распоряжении множество культовых чар на все случаи жизни.
+    Объединитесь с собратьями, чтобы призвать воплощение вашей потусторонней богини!
 
-blood-cult-role-briefing-short = Use '+c' to contact other members of your cult.
-blood-cult-role-briefing-construct = Use '+c' to contact your eldritch creators.
-blood-cult-role-briefing-purified-construct = Help the crew defeat the eldritch cult that stole your life.
+blood-cult-role-briefing-short = Используйте '+c', чтобы связаться с другими членами культа.
+blood-cult-role-briefing-construct = Используйте '+c', чтобы связаться со своими потусторонними создателями.
+blood-cult-role-briefing-purified-construct = Помогите экипажу разгромить потусторонний культ, укравший вашу жизнь.
 
-blood-cult-condition-win = [color=#dc143c]The Geometer of Blood has successfully summoned their Eldritch Goddess![/color]
-blood-cult-condition-draw = [italic]Both the cult and crew were destroyed.[/italic]
-blood-cult-condition-failure = [bold]The crew have managed to stop the rending of reality![/bold]
+blood-cult-condition-win = [color=#dc143c]Почитатели Геометра Крови призвали свою Потустороннюю Богиню![/color]
+blood-cult-condition-draw = [italic]Культ и экипаж уничтожены.[/italic]
+blood-cult-condition-failure = [bold]Экипажу удалось остановить разрыв реальности![/bold]
 
-blood-cultists-list-start = Members of the Geometer of Blood were:
+blood-cultists-list-start = Почитатели Геометра Крови:
 blood-cultists-list-name = [color=White]{ $name }[/color] ([color=gray]{ $user }[/color])

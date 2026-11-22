@@ -10,8 +10,8 @@ ent-WizardsGrimoireNoRefund = гримуар мага
     .desc = { ent-WizardsGrimoire.desc }
 
 ent-WizardsGrimoireDebug = { ent-WizardsGrimoire }
-    .desc = A heavy tome containing complicated arcane formulae for preparing magic spells and conjuring supernatural equipment. Someone wrote "FOR EXPERIMENTAL USE ONLY" on the inside cover.
-    .suffix = Wizard, DEBUG
+    .desc = Тяжёлый фолиант со сложными тайными формулами для подготовки заклинаний и призыва сверхъестественного снаряжения. На внутренней стороне обложки кто-то написал «ТОЛЬКО ДЛЯ ЭКСПЕРИМЕНТОВ».
+    .suffix = Волшебник, DEBUG
 
 ent-SpawnSpellbook = книга заклинания призыв
     .desc = { ent-BaseSpellbook.desc }

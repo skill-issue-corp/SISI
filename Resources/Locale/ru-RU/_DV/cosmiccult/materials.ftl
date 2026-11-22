@@ -1,5 +1,5 @@
 materials-entropy = энтропия
-stack-malign-tile = malign tile
+stack-malign-tile = зловещий тайл
 
 cosmic-entropy-interact-noncultist = Использовать это может только Космический Культист!
 cosmic-entropy-interact-absorb = Вы поглощаете частицу.

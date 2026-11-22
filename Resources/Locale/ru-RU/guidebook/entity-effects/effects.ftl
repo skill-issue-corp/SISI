@@ -1,19 +1,19 @@
 -create-3rd-person =
     { $chance ->
-        [1] Creates
-        *[other] create
+        [1] Создаёт
+        *[other] создать
     }
 
 -cause-3rd-person =
     { $chance ->
-        [1] Causes
-        *[other] cause
+        [1] Вызывает
+        *[other] вызвать
     }
 
 -satiate-3rd-person =
     { $chance ->
-        [1] Satiates
-        *[other] satiate
+        [1] Насыщает
+        *[other] насыщать
     }
 
 entity-effect-guidebook-spawn-entity =
@@ -69,11 +69,11 @@ entity-effect-guidebook-smoke-area =
 
 entity-effect-guidebook-satiate =
     { $chance ->
-        [1] Satiates
-        *[other] satiate
+        [1] Утоляет
+        *[other] утолить
     } { $relative ->
-        [1] {$type} averagely
-        *[other] {$type} at {NATURALFIXED($relative, 3)}x the average rate
+        [1] {$type} с обычной скоростью
+        *[other] {$type} со скоростью {NATURALFIXED($relative, 3)}x от обычной
     }
 
 entity-effect-guidebook-health-change =
@@ -530,30 +530,30 @@ entity-effect-guidebook-plant-seeds-remove =
 entity-effect-guidebook-plant-change-trait =
     { $chance ->
         [1] { $change ->
-            [Add] adds {$trait} to
-            [Remove] removes {$trait} from
-            [Toggle] toggles {$trait} on
-            *[other] changes {$trait} on
+            [Add] добавляет признак {$trait} у
+            [Remove] удаляет признак {$trait} у
+            [Toggle] переключает признак {$trait} у
+            *[other] меняет признак {$trait} у
         }
         *[other] { $change ->
-            [Add] add {$trait} to
-            [Remove] remove {$trait} from
-            [Toggle] toggle {$trait} on
-            *[other] change {$trait} on
+            [Add] добавить признак {$trait} у
+            [Remove] удалить признак {$trait} у
+            [Toggle] переключить признак {$trait} у
+            *[other] изменить признак {$trait} у
         }
-    } the plant
+    } растения
 
 entity-effect-guidebook-plant-mutate-exude-gasses =
     { $chance ->
-        [1] Mutates
-        *[other] mutate
-    } the plant to exude gases between {$minValue} and {$maxValue} moles
+        [1] Вызывает
+        *[other] вызвать
+    } мутацию растения, чтобы оно выделяло от {$minValue} до {$maxValue} молей газа
 
 entity-effect-guidebook-plant-mutate-consume-gasses =
     { $chance ->
-        [1] Mutates
-        *[other] mutate
-    } the plant to consume gases between {$minValue} and {$maxValue} moles
+        [1] Вызывает
+        *[other] вызвать
+    } мутацию растения, чтобы оно поглощало от {$minValue} до {$maxValue} молей газа
 
 entity-effect-guidebook-plant-mutate-chemicals =
     { $chance ->

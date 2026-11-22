@@ -1,2 +1,2 @@
-ent-WeaponFlamerXiuhcoatl = FG13 Xiuhcoatl
-    .desc = Simple as it is deadly, the Xiuhcoatl fulfills a long-standing craving of the Gorlex Marauders for Nanotrasen Barbeque. Uses welding fuel.
+ent-WeaponFlamerXiuhcoatl = FG13 «Шиукоатль»
+    .desc = Простой и смертоносный «Шиукоатль» утоляет давнюю тягу Мародёров Горлекса к шашлыку из NanoTrasen. Использует сварочное топливо.

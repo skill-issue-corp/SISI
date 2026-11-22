@@ -43,24 +43,24 @@ selectable-set-syndicate-door-kicker-description =
 
 # Thief
 
-selectable-set-thief-chemist-name = Chemist Kit
+selectable-set-thief-chemist-name = Набор Химика
 selectable-set-thief-chemist-description =
-    You've acquired plenty of nefarious equipment,
-    Now you just need to put it to use.
-    Includes: Three vials of vestine, an interdyne dart gun,
-    one bluespace beaker, and finally 2 bluespace vials.
+    Вы раздобыли немало злодейского снаряжения,
+    Теперь осталось только пустить его в ход.
+    В комплекте: три флакона вестина, дротикомёт Interdyne,
+    одна блюспейс-мензурка и 2 блюспейс-флакона.
 
-selectable-set-thief-escapist-name = Escapist Kit
+selectable-set-thief-escapist-name = Набор Беглеца
 selectable-set-thief-escapist-description =
-    The perfect set of tools to escape any situation
-    with a bit of risk attached of course...
-    Includes: An experimental syndicate teleporter, smoke implanter,
-    freedom implanter, no slip shoes, and thermal vision goggles.
+    Идеальный набор, чтобы улизнуть из любой передряги,
+    хотя рискнуть, конечно, придётся...
+    В комплекте: экспериментальный телепорт Синдиката, имплантер дыма,
+    имплантер свободы, нескользящая обувь и очки тепловидения.
 
-selectable-set-thief-tinkerer-name = Tinkerer Kit
+selectable-set-thief-tinkerer-name = Набор Умельца
 selectable-set-thief-tinkerer-description =
-    You've learned to adapt and mold the environment to your liking
-    with the various tools provided.
-    Includes: A cybersun access configurator, a syndicate door remote, an agent id,
-    an RCD, insulated gloves, a camera bug,
-    and finally a crafting database skill chip.
+    Вы научились приспосабливать всё вокруг под себя
+    с помощью разных инструментов.
+    В комплекте: конфигуратор доступа CyberSun, пульт от дверей Синдиката, карта агента,
+    РСУ, изолированные перчатки, жучок-камера
+    и чип навыка с базой данных изготовления.

@@ -1,5 +1,5 @@
-ent-BulletFoam = foam dart
-    .desc = I hope you're wearing eye protection.
+ent-BulletFoam = поролоновый дротик
+    .desc = Надеюсь, вы носите защиту для глаз.
 
-ent-BulletCap = cap bullet
+ent-BulletCap = фальшивая пуля
     .desc = { ent-BaseBullet.desc }

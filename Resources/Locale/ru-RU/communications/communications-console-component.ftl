@@ -1,40 +1,31 @@
 # User interface
 comms-console-menu-title = Консоль связи
 comms-console-menu-announcement-placeholder = Текст объявления...
-comms-console-menu-broadcast-placeholder = Broadcast text...
-comms-console-menu-broadcast-bottom-placeholder = Screen bottom line (max 32 characters)
-# AUTOGEN-Start
-# Сделать объявление
-# AUTOGEN-End TODO(Update_Locale):
-comms-console-menu-announcement-button = Announce over radio
+comms-console-menu-broadcast-placeholder = Текст сообщения...
+comms-console-menu-broadcast-bottom-placeholder = Нижняя строка экрана (до 32 символов)
+comms-console-menu-announcement-button = Объявить по радио
 comms-console-menu-announcement-button-tooltip = Отправьте своё сообщение в качестве радиообъявления на всю станцию.
-# AUTOGEN-Start
-# Трансляция
-# AUTOGEN-End TODO(Update_Locale):
-comms-console-menu-broadcast-button = Display on screens
+comms-console-menu-broadcast-button = Вывести на экраны
 comms-console-menu-broadcast-button-tooltip = Транслируйте своё сообщение на настенные экраны по всей станции. Примечание: помещается всего десять символов!
-# AUTOGEN-Start
-# Изменение уровня угрозы станции. Применяется сразу после выбора.
-# AUTOGEN-End TODO(Update_Locale):
-comms-console-menu-alert-level-button-tooltip = Change the station alert level.
-comms-console-change-alert-level-button = Change status
-comms-console-confirm-alert-level-button = Confirm
-comms-console-call-button-label = Call
-comms-console-recall-button-label = Recall
-comms-console-shuttle-status-label = Arrival time
-comms-console-shuttle-controls-header = EMERGENCY SHUTTLE CONTROLS
-comms-console-alert-current-level-header = Alert level
-comms-console-station-announcements-header = Station Announcements
-comms-console-station-broadcast-header = Station Broadcast
-comms-console-announce-tab-title = Radio
-comms-console-broadcast-tab-title = Screen
+comms-console-menu-alert-level-button-tooltip = Изменить уровень тревоги на станции.
+comms-console-change-alert-level-button = Изменить статус
+comms-console-confirm-alert-level-button = Подтвердить
+comms-console-call-button-label = Позвонить
+comms-console-recall-button-label = Отозвать
+comms-console-shuttle-status-label = Время прибытия
+comms-console-shuttle-controls-header = УПРАВЛЕНИЕ ЭВАКУАЦИОННЫМ ШАТТЛОМ
+comms-console-alert-current-level-header = Уровень тревоги
+comms-console-station-announcements-header = Объявления Станции
+comms-console-station-broadcast-header = Радиовещание Станции
+comms-console-announce-tab-title = Рация
+comms-console-broadcast-tab-title = Экран
 comms-console-char-limit = {$count}/{$max}
 
 # Popup
 comms-console-permission-denied = В доступе отказано
 comms-console-shuttle-unavailable = В настоящее время шаттл недоступен
 comms-console-message-too-long = Сообщение слишком длинное
-comms-console-message-cannot-send = Communications temporarily disabled
+comms-console-message-cannot-send = Связь временно отключена
 
 # Placeholder values
 comms-console-announcement-sent-by = Отправитель
@@ -45,14 +36,14 @@ comms-console-announcement-title-station = Консоль связи
 comms-console-announcement-title-centcom = Центральное командование
 comms-console-announcement-title-nukie = Ядерные оперативники Синдиката
 comms-console-announcement-title-station-ai = Станционный ИИ
-comms-console-announcement-title-wizard = Wizard
+comms-console-announcement-title-wizard = Волшебник
 
 # Flavor text for alert levels
-comms-console-level-Green-flavour-label = Work is to proceed as normal
-comms-console-level-Blue-flavour-label = Record suspicious activity with form NT-4772-b
-comms-console-level-Violet-flavour-label = Maintain social distancing
-comms-console-level-Yellow-flavour-label = Prepare to hold your breath
-comms-console-level-Red-flavour-label = Remain vigilant
-comms-console-level-Gamma-flavour-label = Suggest extreme caution
-comms-console-level-Delta-flavour-label = Good luck
-comms-console-level-Epsilon-flavour-label = You're fired
+comms-console-level-Green-flavour-label = Продолжайте работу в штатном режиме
+comms-console-level-Blue-flavour-label = Отмечайте подозрительную активность в форме NT-4772-b
+comms-console-level-Violet-flavour-label = Сохраняйте социальную дистанцию
+comms-console-level-Yellow-flavour-label = Приготовьтесь задержать дыхание
+comms-console-level-Red-flavour-label = Будьте бдительны
+comms-console-level-Gamma-flavour-label = Рекомендуем соблюдать предельную осторожность
+comms-console-level-Delta-flavour-label = Удачи
+comms-console-level-Epsilon-flavour-label = Вы уволены

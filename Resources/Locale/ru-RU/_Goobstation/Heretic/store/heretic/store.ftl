@@ -1,1 +1,1 @@
-store-preset-name-heretic = Knowledge Store
+store-preset-name-heretic = Магазин Знаний

@@ -64,15 +64,15 @@ ent-AirlockCentralCommand = { ent-AirlockCommand }
 ent-AirlockHatch = герметичный люк
     .desc = { ent-Airlock.desc }
 
-ent-AirlockXenoborg = xenoborg airlock
+ent-AirlockXenoborg = ксеноборгский шлюз
     .desc = { ent-Airlock.desc }
 
 ent-AirlockHatchMaintenance = герметичный люк техобслуживания
     .desc = { ent-Airlock.desc }
 
-ent-AirlockHatchSyndicate = airtight hatch
+ent-AirlockHatchSyndicate = герметичный люк
     .desc = { ent-Airlock.desc }
-    .suffix = Syndicate
+    .suffix = Синдикат, Закрыт
 
 ent-AirlockEngineeringGlass = { ent-AirlockGlass }
     .suffix = Инженерный

@@ -25,12 +25,8 @@ ent-ClothingUniformJumpskirtColorDarkGreen = тёмно-зелёная юбка-
 ent-ClothingUniformJumpskirtColorOrange = оранжевая юбка-комбинезон
     .desc = Не носите её рядом с параноидальными сотрудниками службы безопасности.
 
-# AUTOGEN-Start
-# розовая юбка-комбинезон
-# .desc = Просто глядя на это, вы чувствуете себя <i>потрясающе</i>.
-# AUTOGEN-End TODO(Update_Locale):
-ent-ClothingUniformJumpskirtColorPink = pink jumpskirt
-    .desc = Just looking at this makes you feel [italic]fabulous[/italic].
+ent-ClothingUniformJumpskirtColorPink = розовая юбка-комбинезон
+    .desc = От одного взгляда чувствуешь себя [italic]великолепно[/italic].
 
 ent-ClothingUniformJumpskirtColorRed = красная юбка-комбинезон
     .desc = Обычная красная юбка-комбинезон без знаков различия.

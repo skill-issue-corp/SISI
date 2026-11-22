@@ -1,7 +1,7 @@
-ent-CrateLeviathan = leviathan bundle
+ent-CrateLeviathan = комплект «Левиафан»
     .desc = { ent-CrateSyndicate.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-CrateXiuhcoatl = Xiuhcoatl bundle
+ent-CrateXiuhcoatl = Комплект «Шиукоатль»
     .desc = { ent-CrateSyndicate.desc }
-    .suffix = Filled
+    .suffix = Заполнено

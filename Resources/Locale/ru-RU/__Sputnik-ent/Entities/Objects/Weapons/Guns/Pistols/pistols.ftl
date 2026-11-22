@@ -8,13 +8,8 @@ ent-WeaponPistolViper = Гадюка
 ent-WeaponPistolEchis = Эфа
     .desc = Гадюка для боргов. На ходу создаёт патроны калибра .35 из встроенного самозарядного фабрикатора боеприпасов.
 
-# AUTOGEN-Start
-# Кобра
-# .desc = Пистолет суровых робастных агентов, с интегрированным глушителем. Использует патроны калибра .25 безгильзовый.
-# .suffix = Пистолет
-# AUTOGEN-End TODO(Update_Locale):
-ent-WeaponPistolCobra = cobra
-    .desc = Integrally suppressed semi-automatic pistol used by the Syndicate, firing caseless subsonic rounds. Favored by any agent who likes to keep things quiet and leave no evidence behind. Feeds from .25 pistol magazines.
+ent-WeaponPistolCobra = кобра
+    .desc = Полуавтоматический пистолет Синдиката со встроенным глушителем и безгильзовыми дозвуковыми патронами. Любимец агентов, которым важны тишина и отсутствие улик. Питается из пистолетных магазинов .25.
 
 ent-WeaponPistolMk58 = МК 58
     .desc = Дешёвый и распространённый пистолет, производимый дочерней компанией Nanotrasen. Использует патроны калибра .35 авто.

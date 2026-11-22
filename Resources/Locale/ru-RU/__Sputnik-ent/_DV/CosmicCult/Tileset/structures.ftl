@@ -4,12 +4,8 @@ ent-BaseCosmicCultStructure = { "" }
 ent-CosmicChair = зловещее кресло
     .desc = { ent-SeatBase.desc }
 
-# AUTOGEN-Start
-# зловещий обелиск
-# .desc = Загадочное, но безжизненное сооружение. Тревожащее.
-# AUTOGEN-End TODO(Update_Locale):
-ent-CosmicObelisk = malign obelisk
-    .desc = A mysterious-yet-inert structure. Unsettling.
+ent-CosmicObelisk = зловещий обелиск
+    .desc = Загадочное, но неподвижное сооружение. Внушает тревогу.
 
 ent-CosmicLamp = зловещий свет
     .desc = Внутри мерцает крупица не-света.
@@ -21,35 +17,35 @@ ent-AltarCosmic = космический алтарь
 ent-CosmicTable = зловещий стол
     .desc = Непостижимо, по-космически... квадратный.
 
-ent-CosmicBed = malign bed
-    .desc = This is used to lie in... okay, maybe not.
+ent-CosmicBed = зловещая кровать
+    .desc = На этом лежат... хотя, пожалуй, не стоит.
 
-ent-CosmicRack = corrupted rack
-    .desc = An eerie rack for storing eerie things on.
+ent-CosmicRack = искажённый стеллаж
+    .desc = Жуткий стеллаж для жутких вещей.
 
-ent-CosmicRailing = malign railing
-    .desc = Unnerving railing meant to protect idiots like you from falling into endless void.
+ent-CosmicRailing = зловещие перила
+    .desc = Жуткие перила, чтобы такие идиоты, как вы, не свалились в бесконечную пустоту.
 
-ent-CosmicRailingCorner = malign railing
-    .desc = Unnerving railing meant to protect idiots like you from falling into endless void.
+ent-CosmicRailingCorner = зловещие перила
+    .desc = Жуткие перила, чтобы такие идиоты, как вы, не свалились в бесконечную пустоту.
 
-ent-CosmicRailingCornerSmall = malign railing
-    .desc = Unnerving railing meant to protect idiots like you from falling into endless void.
+ent-CosmicRailingCornerSmall = зловещие перила
+    .desc = Жуткие перила, чтобы такие идиоты, как вы, не свалились в бесконечную пустоту.
 
-ent-CosmicRailingRound = malign railing
-    .desc = Unnerving railing meant to protect idiots like you from falling into endless void.
+ent-CosmicRailingRound = зловещие перила
+    .desc = Жуткие перила, чтобы такие идиоты, как вы, не свалились в бесконечную пустоту.
 
-ent-CosmicPoster = the End
-    .desc = A poster advertising the long-awaited final chapter of a niche TV-series. The release date is today. Your name is among the actors.
+ent-CosmicPoster = конец
+    .desc = Плакат рекламирует долгожданную последнюю главу малоизвестного сериала. Премьера сегодня. Среди актёров указано ваше имя.
 
-ent-CosmicFlag = malign flag
-    .desc = A flag depicting an astral brand, symbol of the Unknown's followers. At least this one doesn't glow in the dark.
+ent-CosmicFlag = зловещий флаг
+    .desc = Флаг с астральной меткой, символом последователей Неизвестного. По крайней мере, этот не светится в темноте.
 
-ent-CosmicSign = sign?
-    .desc = A sign indicating the abscense of nothingness in the area.
+ent-CosmicSign = знак?
+    .desc = Знак, указывающий на отсутствие пустоты поблизости.
 
-ent-CosmicSignWarning = psionic warning sign
-    .desc = A sign indicating a psionic hazard.
+ent-CosmicSignWarning = знак псионической опасности
+    .desc = Знак, указывающий на псионическую опасность.
 
-ent-CosmicSignDirectional = "directional" sign
-    .desc = Well, this isn't very helpful.
+ent-CosmicSignDirectional = «указатель»
+    .desc = Что ж, толку от него мало.

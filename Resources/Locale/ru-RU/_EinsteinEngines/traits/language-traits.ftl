@@ -4,47 +4,26 @@
 trait-category-languages = Языки
 
 trait-language-foreigner-light-name = Неуверенный иностранец
-# AUTOGEN-Start
-# Вы понимаете основной язык (Тау-Сети Бейсик), но пока не можете на нём свободно говорить.
-# Вам выдан переводчик для базового понимания языка - не забывайте его заряжать.
-# AUTOGEN-End TODO(Update_Locale):
 trait-language-foreigner-light-desc =
-    You understand the common language, Corporate Standard, but you can't quite speak it yet.
-    You have a translator to help you with your basic understanding of the language, better keep it charged.
+    Вы понимаете основной язык, корпоративный стандарт, но пока не можете на нём говорить.
+    Вам выдали переводчик, чтобы помочь с пониманием языка. Не забывайте его заряжать.
 
 trait-language-foreigner-name = Иностранец
-# AUTOGEN-Start
-# Вы не понимаете основной язык (Тау-Сети Бейсик) и постоянно нуждаетесь в переводчике для общения.
-# Вам предоставлен переводчик для понимания и речи - следите за его зарядкой.
-# AUTOGEN-End TODO(Update_Locale):
 trait-language-foreigner-desc =
-    You can't understand the common language, Corporate Standard, and you require a translator at all times to talk.
-    You have a translator to help you with your understanding and speaking, make sure to keep it charged.
+    Вы не понимаете основной язык, корпоративный стандарт, и для разговора вам всегда нужен переводчик.
+    Вам выдали переводчик, чтобы вы могли понимать речь и говорить. Следите за его зарядом.
 
 trait-language-signlanguage-name = Язык жестов
-# AUTOGEN-Start
-# Использование языка тела, жестов и движений для коммуникации.
-# Вы понимаете и используете стандартный язык жестов Тау-Сети.
-# Даже будучи немым, вы можете общаться через жесты.
-# AUTOGEN-End TODO(Update_Locale):
 trait-language-signlanguage-desc =
-    The use of body language, hand signs, and other forms of dexterous movements to get your point across.
-    You can understand and use Corporate Standard Sign Language.
-    If you are mute for any reason, you can still communicate with sign language.
+    Вы выражаете мысли языком тела, знаками рук и другими ловкими движениями.
+    Вы понимаете и используете жестовый язык корпоративного стандарта.
+    Даже если вы по какой-либо причине лишитесь речи, вы сможете общаться жестами.
 
-# AUTOGEN-Start
-# Общесолнечный
-# AUTOGEN-End TODO(Update_Locale):
-trait-language-solcommon-name = EarthGen
-# AUTOGEN-Start
-# Произошедший от китайского, Общесолнечный стал официальным языком ТСФ,
-# объединяющим все колонии. На нём говорят чиновники, его преподают в школах,
-# и используют те, кто чувствует связь с ТСФ.
-# AUTOGEN-End TODO(Update_Locale):
+trait-language-solcommon-name = Землеген
 trait-language-solcommon-desc =
-    Founded by the World Prosperity Spheres in 2360, it was the original Human Unified Language before the adoption of Corporate Standard for trade.
-    All humans and those who live in human nations are at least familiar with this language, which has become synonymous with humanity. It has its
-    roots in English, Japanese, and Mandarin, giving it a distinct accent and structure.
+    Землеген создали Сферы Мирового Процветания в 2360 году. Он был первым единым языком людей, пока в торговле не приняли корпоративный стандарт.
+    Все люди и жители человеческих государств хотя бы знакомы с этим языком, ставшим олицетворением человечества. В его основе лежат
+    английский, японский и мандаринский китайский, от которых он унаследовал особое произношение и строй.
 
 trait-language-tradeband-name = Трейдбэнд
 trait-language-tradeband-desc =
@@ -52,45 +31,22 @@ trait-language-tradeband-desc =
     Звучит изысканно и структурированно. Популярен среди торговцев, дипломатов
     и ценителей романтизированного прошлого.
 
-# AUTOGEN-Start
-# Вольноговорящий
-# AUTOGEN-End TODO(Update_Locale):
-trait-language-freespeak-name = Fringe-Gutter
-# AUTOGEN-Start
-# Язык фронтира, звучащий как варварская тарабарщина для непосвящённых.
-# Смесь хинди и других земных языков. Его использование - дерзкое заявление
-# о свободолюбии. Граждане ТСФ презрительно называют его "Помойным".
-# AUTOGEN-End TODO(Update_Locale):
+trait-language-freespeak-name = Окраинный-Жаргон
 trait-language-freespeak-desc =
-   The drowl and jumble of various stitched-together languages. The barbarian language finds like-minded company: renegades, frontiersmen, and explorers.
-   It is considered the language of those who live on the fringe, and anyone who speaks it proudly identifies with that crowd.
+   Невнятная мешанина из разных языков. Этот варварский язык пришёлся по душе отступникам, жителям фронтира и исследователям.
+   Его считают языком окраин, и всякий, кто на нём говорит, гордится своей принадлежностью к их обитателям.
 
-# AUTOGEN-Start
-# Элиранский
-# AUTOGEN-End TODO(Update_Locale):
-trait-language-elyran-name = Sunna Arabic
-# AUTOGEN-Start
-# Официальный язык Республики Элира, сочетающий элементы фарси, арабского
-# и турецкого. Влияние всех трёх языков прослеживается в грамматике и лексике.
-# AUTOGEN-End TODO(Update_Locale):
+trait-language-elyran-name = Арабский Сунны
 trait-language-elyran-desc =
-    Influenced by Farsi, Turkish, and Arabic, it is the official language of the Sunna Core. It is a prime symbol of unity and independence from their former master.
-    Traders and merchants sometimes use it, and hearing it on your travels is considered a sign of good luck.
+    Официальный язык Ядра Сунны вобрал в себя фарси, турецкий и арабский. Это главный символ единства и независимости от бывшего господина.
+    На нём иногда говорят торговцы и купцы. Услышать его в путешествии считается доброй приметой.
 
 
-# AUTOGEN-Start
-# Ново-Недирик
-# AUTOGEN-End TODO(Update_Locale):
-trait-language-novunederic-name = Terralingua
-# AUTOGEN-Start
-# Некогда язык мореплавателей и купцов, ныне - космических колонистов.
-# Сохранил резкие согласные и короткие гласные своих земных корней.
-# Популярен среди тех, кто осваивает новые миры, как их предки осваивали моря.
-# AUTOGEN-End TODO(Update_Locale):
+trait-language-novunederic-name = Терралингва
 trait-language-novunederic-desc =
-    Created by a select few Cetian philosophers, it was at first a lingua franca of Cetiburghow, allowing easy communication with other planetary communities.
-    After the establishment of the Terran Union, it has become the national language, and it is taught even in the furthest of her territories. It has a guttural
-    yet rich vowel structure and a melodic quality deliberately made distinct. Its speech has also been made as hard as possible for a non-human to replicate.
+    Несколько философов Тау Кита создали этот язык для общения жителей Кетибургова с другими планетарными сообществами.
+    После основания Земного Союза он стал государственным языком, и его преподают даже в самых отдалённых владениях Союза. Гортанные,
+    богатые гласные и особая мелодика делают его узнаваемым. Произношение намеренно усложнили, чтобы нечеловеческим видам было как можно труднее его воспроизвести.
 
 trait-language-azaziba-name = Синта'Азазиба
 trait-language-azaziba-desc =

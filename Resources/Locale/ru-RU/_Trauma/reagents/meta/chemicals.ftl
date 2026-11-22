@@ -65,10 +65,7 @@ reagent-name-hephaestium = гефестиум
 reagent-desc-hephaestium = Гефестиум, названный в честь греческого бога камня Гефеста, превращает всё введённое с ним в камень.
 
 reagent-name-ageium = эйджиум
-# AUTOGEN-Start
-# Эйджиум не даёт введённым субъектам стареть!
-# AUTOGEN-End TODO(Update_Locale):
-reagent-desc-ageium = Ageium, causes subject to never age once injected with more then 5u, this will never revert
+reagent-desc-ageium = Эйджиум навсегда останавливает старение, если ввести больше 5u. Эффект необратим.
 
 reagent-name-holy-chlorine-trifluoride = святой трифторид хлора
 reagent-desc-holy-chlorine-trifluoride = Кому пришла в голову эта идея?
@@ -76,17 +73,11 @@ reagent-desc-holy-chlorine-trifluoride = Кому пришла в голову �
 reagent-name-burnite = горнит
 reagent-desc-burnite = Чрезвычайно летучее горящее вещество, обычно получаемое случайным открытием портала в ад. К счастью, это не так-то просто сделать.
 
-# AUTOGEN-Start
-# неизвестный реагент
-# AUTOGEN-End TODO(Update_Locale):
-reagent-name-unknown-reagent = unobtainium
-# AUTOGEN-Start
-# неизвестный реагент
-# AUTOGEN-End TODO(Update_Locale):
-reagent-desc-unknown-reagent = An incredibly difficult chemical to come across, known to have very volatile effects whether it be spilled or put into plants
+reagent-name-unknown-reagent = анобтаниум
+reagent-desc-unknown-reagent = Этот реагент крайне трудно раздобыть. Известно, что он вызывает крайне нестабильные эффекты при разливе или внесении в растения
 
-reagent-name-fungalin = fungalin
-reagent-desc-fungalin = A high concentration of spores capable of reproducing inside respiratory systems, Also increases the yield of plants while poisoning and draining their nutrients.
+reagent-name-fungalin = фунгалин
+reagent-desc-fungalin = Концентрат спор, способных размножаться в дыхательной системе. Повышает урожайность растений, одновременно отравляя их и истощая запасы питательных веществ.
 
-reagent-name-ethylene = ethylene
-reagent-desc-ethylene = A highly flammable, colourless gas. Most commonly used in the production of LDPE plastics.
+reagent-name-ethylene = этилен
+reagent-desc-ethylene = Легковоспламеняющийся бесцветный газ. Чаще всего применяется в производстве полиэтилена низкой плотности.

@@ -1,26 +1,26 @@
-uplink-adder-name = Adder bundle
-uplink-adder-desc = One state-of-the-art Adder plasma pistol, bundled with 2 canisters of its proprietary liquid ammo.
+uplink-adder-name = Комплект «Гадюка»
+uplink-adder-desc = Один новейший плазменный пистолет «Гадюка» и 2 канистры фирменных жидких боеприпасов.
 
-uplink-akurra-name = Akurra bundle
-uplink-akurra-desc = Fearsome as it is advanced, the venerable Akurra bundled with 4 canisters of its proprietary liquid ammo.
+uplink-akurra-name = Комплект «Акурра»
+uplink-akurra-desc = Прославленная «Акурра», столь же грозная, сколь и передовая, в комплекте с 4 канистрами фирменных жидких боеприпасов.
 
-uplink-flamethrower-name = FG13 Xiuhcoatl flamethrower
-uplink-flamethrower-desc = Invite Nanotrasen to the cookout with this portable incendiary weapon.
+uplink-flamethrower-name = Огнемёт FG13 «Шиукоатль»
+uplink-flamethrower-desc = Пригласите NanoTrasen на шашлыки с этим переносным зажигательным оружием.
 
-uplink-leviathan-name = Leviathan bundle
-uplink-leviathan-desc = Sometimes, it really is the size that matters.
+uplink-leviathan-name = Комплект «Левиафан»
+uplink-leviathan-desc = Иногда размер и правда имеет значение.
 
-uplink-magazine-echion-name = Echion canister
-uplink-magazine-echion-desc = A special refueling canister containing 75 units of Echion. Compatible with the Adder and Akurra.
+uplink-magazine-echion-name = Канистра с эхионом
+uplink-magazine-echion-desc = Особая заправочная канистра с 75 единицами эхиона. Подходит к «Гадюке» и «Акурре».
 
-uplink-echion-synth-name = Echion synthesizer
-uplink-echion-synth-desc = An advanced catalyser that produces Echion at a steady rate while powered. Compatible with the Adder and Akurra.
+uplink-echion-synth-name = Синтезатор эхиона
+uplink-echion-synth-desc = Продвинутый катализатор, который при подаче питания вырабатывает эхион с постоянной скоростью. Подходит к «Гадюке» и «Акурре».
 
-uplink-rocketexp-name = Leviathan explosive rocket bundle
-uplink-rocketexp-desc = A box containing 3 explosive rockets compatible with the Leviathan.
+uplink-rocketexp-name = Комплект фугасных ракет для «Левиафана»
+uplink-rocketexp-desc = Коробка с 3 фугасными ракетами для «Левиафана».
 
-uplink-rocketinc-name = Leviathan incendiary rocket bundle
-uplink-rocketinc-desc = A box containing 3 incendiary rockets compatible with the Leviathan.
+uplink-rocketinc-name = Комплект зажигательных ракет для «Левиафана»
+uplink-rocketinc-desc = Коробка с 3 зажигательными ракетами для «Левиафана».
 
-uplink-rocketcon-name = Leviathan concussion rocket bundle
-uplink-rocketcon-desc = A box containing 3 concussion rockets compatible with the Leviathan.
+uplink-rocketcon-name = Комплект оглушающих ракет для «Левиафана»
+uplink-rocketcon-desc = Коробка с 3 оглушающими ракетами для «Левиафана».

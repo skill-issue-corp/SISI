@@ -12,8 +12,8 @@ ent-SyndiCrewMonitorEmpty = { ent-SyndiCrewMonitor }
     .desc = { ent-SyndiCrewMonitor.desc }
     .suffix = Пусто
 
-ent-BorgCrewMonitor = integrated crew monitor
-    .desc = An integrated crew monitor for locating crew to rescue.
+ent-BorgCrewMonitor = встроенный монитор экипажа
+    .desc = Встроенный монитор экипажа. Помогает найти тех, кого нужно спасти.
 
 ent-HandheldCrewMonitor = { ent-BaseHandheldCrewMonitor }
     .desc = { ent-BaseHandheldCrewMonitor.desc }

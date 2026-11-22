@@ -3,4 +3,4 @@ ent-PlantAnalyzer = анализатор растений
 
 ent-PlantAnalyzerDebug = { ent-PlantAnalyzer }
     .desc = { ent-PlantAnalyzer.desc }
-    .suffix = Debug
+    .suffix = Отладка

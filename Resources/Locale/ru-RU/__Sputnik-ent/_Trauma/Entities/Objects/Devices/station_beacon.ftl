@@ -8,4 +8,4 @@ ent-DefaultStationBeaconGenetics = { ent-DefaultStationBeaconScience }
 
 ent-DefaultStationBeaconReactor = { ent-DefaultStationBeaconEngineering }
     .desc = { ent-DefaultStationBeaconEngineering.desc }
-    .suffix = Reactor
+    .suffix = Реактор

@@ -1,4 +1,4 @@
-blood-rites-not-enough-blood = You don't have enough blood stored.
-blood-rites-heal-dead = Only a revive rune can bring back the dead.
-blood-rites-no-blood-left = You use the last of drop of blood stored in your blood rites.
-blood-rites-heal-no-bloodstream = You can't heal this bloodless creature.
+blood-rites-not-enough-blood = У вас недостаточно запасённой крови.
+blood-rites-heal-dead = Вернуть мёртвых может только руна воскрешения.
+blood-rites-no-blood-left = Вы расходуете последнюю каплю крови, запасённой в кровавых обрядах.
+blood-rites-heal-no-bloodstream = Вы не можете исцелить это бескровное существо.

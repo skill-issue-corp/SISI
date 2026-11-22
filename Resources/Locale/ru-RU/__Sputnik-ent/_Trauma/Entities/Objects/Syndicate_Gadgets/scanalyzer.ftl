@@ -1,5 +1,5 @@
-ent-SyndicateScanalyzer = syndicate scanalyzer
-    .desc = A fiendish device that reverse engineers the schematics for cutting edge technology.
+ent-SyndicateScanalyzer = сканализатор Синдиката
+    .desc = Дьявольское устройство, которое восстанавливает чертежи новейших технологий по готовым образцам.
 
-ent-SyndicateBroadcastDevice = syndicate broadcast device
-    .desc = A device capable of speaking through communications computer. Who will listen?
+ent-SyndicateBroadcastDevice = вещательное устройство Синдиката
+    .desc = Устройство, позволяющее вещать через консоль связи. Кто вас услышит?

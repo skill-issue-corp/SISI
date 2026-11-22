@@ -96,20 +96,14 @@ ent-WeaponEnergyMagnum = энергетический магнум
 ent-WeaponTemperatureGun = термопушка
     .desc = Продвинутое оружие, стреляющее лучами, изменяющими температуру тела. Лучи не отражаются.
 
-# AUTOGEN-Start
-# лазерный пистолет ксеноборга
-# AUTOGEN-End TODO(Update_Locale):
-ent-WeaponLaserGunXenoborg = xenoborg laser gun
+ent-WeaponLaserGunXenoborg = лазерный пистолет ксеноборга
     .desc = { ent-BaseXenoborgContraband.desc }
 
-# AUTOGEN-Start
-# лазерная пушка ксеноборга
-# AUTOGEN-End TODO(Update_Locale):
-ent-WeaponLaserCannonXenoborg = xenoborg laser cannon
+ent-WeaponLaserCannonXenoborg = лазерная пушка ксеноборга
     .desc = { ent-BaseXenoborgContraband.desc }
 
 ent-WeaponBurstFireLaserXenoborg = очередной лазер ксеноборга
     .desc = Инопланетное оружие, направляющее через призму лазер, стреляющий очередями и поджигающий цели.
 
-ent-WeaponRangeFinderXenoborg = xenoborg range finder
+ent-WeaponRangeFinderXenoborg = ксеноборгский дальномер
     .desc = { ent-BaseWeaponBatteryNoAmmoCounter.desc }

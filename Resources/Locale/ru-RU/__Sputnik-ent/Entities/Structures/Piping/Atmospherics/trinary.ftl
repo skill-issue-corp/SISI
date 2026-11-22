@@ -4,13 +4,9 @@ ent-GasTrinaryBase = { ent-GasPipeBase }
 ent-GasFilter = газовый фильтр
     .desc = Очень полезен для фильтрации газов.
 
-# AUTOGEN-Start
-# газовый фильтр
-# .suffix = Перевёрнутый
-# AUTOGEN-End TODO(Update_Locale):
-ent-GasFilterFlipped = gas filter
+ent-GasFilterFlipped = газовый фильтр
     .desc = { ent-GasFilter.desc }
-    .suffix = Flipped
+    .suffix = Перевёрнутый
 
 ent-GasMixer = газовый смеситель
     .desc = Очень полезен для смешивания газов.

@@ -25,8 +25,8 @@ changeling-role-greeting-desc =
     • [color={$hl1}]Скрытность:[/color] вы можете в любой момент изменить свой облик и голос на любой из поглощенных образцов. Не дайте раскрыть себя!
 # SIS-End
 changeling-role-greeting-trauma =
-    You are a changeling who has absorbed and taken the form of {$name}!
-    Your objectives are listed in the character menu.
-    Absorb, shapeshift and evolve to complete them!
+    Вы генокрад, поглотивший {$name} и принявший этот облик!
+    Ваши цели перечислены в меню персонажа.
+    Поглощайте, меняйте облик и эволюционируйте, чтобы выполнить их!
 
 changeling-role-greeting-short = Вы — генокрад, принявший облик { $name }.

@@ -1,5 +1,5 @@
-ent-SkinPunPunObjective = Skin Pun Pun
-    .desc = He has committed crimes against humanity, skin him and show everyone what this beast deserves.
+ent-SkinPunPunObjective = Снимите Шкуру С Пан-Пана
+    .desc = Он совершил преступления против человечества. Снимите с него шкуру и покажите всем, чего заслуживает этот зверь.
 
 ent-TeleportArmorStealObjective = { ent-BaseRDStealObjective }
     .desc = { ent-BaseRDStealObjective.desc }

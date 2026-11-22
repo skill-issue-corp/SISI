@@ -28,4 +28,4 @@ ent-PlayerBorgSyndicateMedicalBattery = { ent-BorgChassisSyndicateMedical }
 
 ent-PlayerBorgSyndicateMedicalGhostRole = { ent-PlayerBorgSyndicateMedicalBattery }
     .desc = { ent-PlayerBorgSyndicateMedicalBattery.desc }
-    .suffix = Ghost role
+    .suffix = Роль призрака

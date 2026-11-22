@@ -1,1 +1,1 @@
-holopad-engineering-robotics = Engineering - Robotics
+holopad-engineering-robotics = Инженерный Отдел - Робототехника

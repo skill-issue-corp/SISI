@@ -1,2 +1,2 @@
-ent-WardrobeChapel = chaplain's locker
+ent-WardrobeChapel = шкаф священника
     .desc = { ent-LockerBase.desc }

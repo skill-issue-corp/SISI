@@ -1,2 +1,2 @@
-pylon-toggle-on = The pylon whirrs to life!
-pylon-toggle-off = The pylon settles down.
+pylon-toggle-on = Пилон оживает с гулом!
+pylon-toggle-off = Пилон затихает.

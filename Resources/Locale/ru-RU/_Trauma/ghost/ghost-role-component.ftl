@@ -22,8 +22,8 @@ ghost-role-information-goidabot-desc = ГОЙДА
 ghost-role-information-cursed-name = проклятый артефакт
 ghost-role-information-cursed-desc = Вы артефакт, проклятый разумом, сведите своего владельца с ума.
 
-ghost-role-information-giant-spore-name = Giant Spore
-ghost-role-information-giant-spore-desc = A giant spore brought to life destined to die to create more mushrooms, Spend your limited life to best spread the fungal growth
+ghost-role-information-giant-spore-name = Гигантская Спора
+ghost-role-information-giant-spore-desc = Ожившая гигантская спора обречена умереть, чтобы дать жизнь новым грибам. Потратьте отведённое время на распространение грибницы
 
 ghost-role-information-animal-rules = Вы [color={role-type-animal-color}][bold]{role-type-animal-name}[/bold][/color]. Ведите себя так, как подобает вашему животному.
                                          Это значит, что не нужно бесцельно убивать людей или создавать проблемы без причины.

@@ -197,9 +197,12 @@ stack-artifact-fragment =
         [few] фрагмента
        *[other] фрагментов
     } артефакта
-stack-xenoborg-crystal = xenoborg {$amount ->
-    [1] crystal
-    *[other] crystals
+stack-xenoborg-crystal = {$amount ->
+    [1] кристалл ксеноборгов
+    [one] кристалл ксеноборгов
+    [few] кристалла ксеноборгов
+    [many] кристаллов ксеноборгов
+    *[other] кристалла ксеноборгов
 }
 stack-conveyor-belt =
     { $amount ->

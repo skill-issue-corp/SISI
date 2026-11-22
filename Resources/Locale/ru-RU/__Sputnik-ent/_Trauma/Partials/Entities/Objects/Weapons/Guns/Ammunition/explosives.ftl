@@ -1,17 +1,17 @@
-ent-GrenadeBaton = baton grenade (40mm)
+ent-GrenadeBaton = травматический гранатомётный выстрел (40mm)
     .desc = { "" }
 
-ent-GrenadeBlast = blast grenade round (40mm)
+ent-GrenadeBlast = фугасный гранатомётный выстрел (40mm)
     .desc = { "" }
 
-ent-GrenadeFlash = flash grenade round (40mm)
+ent-GrenadeFlash = световой гранатомётный выстрел (40mm)
     .desc = { "" }
 
-ent-GrenadeFrag = frag grenade round (40mm)
+ent-GrenadeFrag = осколочный гранатомётный выстрел (40mm)
     .desc = { "" }
 
-ent-GrenadeCleanade = cleanade grenade round (40mm)
+ent-GrenadeCleanade = чистящий гранатомётный выстрел (40mm)
     .desc = { "" }
 
-ent-GrenadeEMP = EMP grenade round (40mm)
+ent-GrenadeEMP = ЭМИ-гранатомётный выстрел (40mm)
     .desc = { "" }

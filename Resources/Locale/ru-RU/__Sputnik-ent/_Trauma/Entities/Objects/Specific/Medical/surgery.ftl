@@ -1,5 +1,5 @@
 ent-BoneGelMakeshift = самодельный костный гель
     .desc = Плохо сделанный заменитель костного геля. Тот ещё последний вариант...
 
-ent-BorgOmnimedTool = integrated surgery omnitool
-    .desc = An expanded surgical omnitool capable of accelerated function compared to the normal compact version.
+ent-BorgOmnimedTool = встроенный хирургический мультиинструмент
+    .desc = Расширенный хирургический мультиинструмент, который работает быстрее обычной компактной версии.

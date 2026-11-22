@@ -1,2 +1,2 @@
-ent-BluespaceTomatoPlants = bluespace tomato plant
+ent-BluespaceTomatoPlants = блюспейс томат
     .desc = { ent-BlueTomatoPlants.desc }

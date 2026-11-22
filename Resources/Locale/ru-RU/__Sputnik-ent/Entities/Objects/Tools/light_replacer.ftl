@@ -3,7 +3,7 @@ ent-LightReplacer = лампозаменитель
 
 ent-LightReplacerFilled = { ent-LightReplacer }
     .desc = { ent-LightReplacer.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-EjectTubes = { "" }
     .desc = { "" }

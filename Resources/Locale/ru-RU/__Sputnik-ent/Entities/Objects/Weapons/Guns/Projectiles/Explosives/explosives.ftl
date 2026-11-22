@@ -1,32 +1,32 @@
-ent-BulletRocket = rocket
+ent-BulletRocket = ракета
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletWeakRocket = weak rocket
+ent-BulletWeakRocket = слабая ракета
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletGrenadeBaton = baton grenade round
+ent-BulletGrenadeBaton = травматический гранатомётный выстрел
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletGrenadeBlast = blast grenade
+ent-BulletGrenadeBlast = фугасная граната
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletGrenadeFlash = flash grenade
+ent-BulletGrenadeFlash = светошумовая граната
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletGrenadeFrag = frag grenade
+ent-BulletGrenadeFrag = осколочная граната
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletGrenadeCleanade = cleanade grenade round
+ent-BulletGrenadeCleanade = снаряд чистящей гранаты
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletGrenadeEMP = EMP rocket
+ent-BulletGrenadeEMP = ЭМИ ракета
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletCannonBall = cannonball
+ent-BulletCannonBall = пушечное ядро
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletGuidedXenoborgMissile = guided xenoborg missile
+ent-BulletGuidedXenoborgMissile = управляемая ксеноборгская ракета
     .desc = { ent-BulletRocket.desc }
 
-ent-BulletXenoborgMechadermisRocket = mechadermis rocket
+ent-BulletXenoborgMechadermisRocket = мехадермисная ракета
     .desc = { ent-BaseBulletTrigger.desc }

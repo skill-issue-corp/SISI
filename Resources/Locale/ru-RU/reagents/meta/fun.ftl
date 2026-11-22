@@ -48,10 +48,7 @@ reagent-name-hew = сок, заставляющий говорить Хев
 reagent-desc-hew = Чистая сущность инвертированного плюшевого унатха. Заставляет вас говорить Хев!
 
 reagent-name-catessence = фелиназа
-# AUTOGEN-Start
-# Канцерогенный фермент, расщепляющий белки в голосовых связках большинства животных. Смешивание НЕ рекомендуется.
-# AUTOGEN-End TODO(Update_Locale):
-reagent-desc-catessence = A type of carcinogenic enzyme known to break down proteins found within the vocal cords of most animals. Also grants cat-style night vision. Mixing is NOT recommended.
+reagent-desc-catessence = Канцерогенный фермент, расщепляющий белки в голосовых связках большинства животных. Также даёт кошачье ночное зрение. Смешивать НЕ рекомендуется.
 
 reagent-name-canidessence = киназа
 reagent-desc-canidessence = Канцерогенный фермент, расщепляющий белки в голосовых связках большинства животных. Смешивание НЕ рекомендуется.

@@ -4,8 +4,8 @@ ent-ClothingOuterChameleonArmor = жилет
 
 ent-ClothingOuterHardsuitEVAChameleon = { ent-ClothingOuterHardsuitEVA }
     .desc = { ent-ClothingOuterHardsuitEVA.desc }
-    .suffix = Chameleon
+    .suffix = Хамелеон
 
 ent-ClothingHeadHelmetEVAChameleon = { ent-ClothingHeadHelmetEVA }
     .desc = { ent-ClothingHeadHelmetEVA.desc }
-    .suffix = Chameleon
+    .suffix = Хамелеон

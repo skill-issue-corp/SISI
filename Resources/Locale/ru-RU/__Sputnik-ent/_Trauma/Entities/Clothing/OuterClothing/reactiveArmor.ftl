@@ -4,43 +4,43 @@ ent-ClothingOuterArmorReactiveBase = { ent-ClothingOuterBaseMedium }
 ent-ClothingOuterArmorReactiveTeleportBase = { ent-ClothingOuterArmorReactiveBase }
     .desc = { ent-ClothingOuterArmorReactiveBase.desc }
 
-ent-ClothingOuterArmorReactiveUnfinished = reactive armor shell
-    .desc = An experimental suit of armor, awaiting installation of an anomaly core.
-    .suffix = empty
+ent-ClothingOuterArmorReactiveUnfinished = основа реактивной брони
+    .desc = Экспериментальная броня. В неё ещё нужно установить ядро аномалии.
+    .suffix = пустой
 
-ent-ClothingOuterArmorReactiveRD = reactive teleport armor
-    .desc = Someone separated our Research Director from his own head!
-    .suffix = RD
+ent-ClothingOuterArmorReactiveRD = реактивная телепортационная броня
+    .desc = Кто-то отделил нашего научного руководителя от его собственной головы!
+    .suffix = НР
 
-ent-ClothingOuterArmorReactiveTeleport = reactive teleport armor
-    .desc = Doesn't seem to do much for some reason.
+ent-ClothingOuterArmorReactiveTeleport = реактивная телепортационная броня
+    .desc = Почему-то особого эффекта не видно.
 
-ent-ClothingOuterArmorReactiveTesla = reactive tesla armor
-    .desc = An experimental suit of armor with sensitive detectors hooked up to a huge capacitor grid, with emitters strutting out of it. Zap.
+ent-ClothingOuterArmorReactiveTesla = реактивная броня Теслы
+    .desc = Экспериментальная броня с чувствительными датчиками, огромной сеткой конденсаторов и торчащими из неё эмиттерами. Вжух.
 
-ent-ClothingOuterArmorReactiveIncendiary = reactive incendiary armor
-    .desc = An experimental suit of armor with a reactive sensor array rigged to a flame emitter. For the stylish pyromaniac.
+ent-ClothingOuterArmorReactiveIncendiary = реактивная зажигательная броня
+    .desc = Экспериментальная броня с набором реактивных датчиков, соединённых с эмиттером пламени. Для стильного пироманьяка.
 
-ent-ClothingOuterArmorReactiveRepulsive = reactive repulsive armor
-    .desc = An experimental suit of armor that violently throws back attackers.
+ent-ClothingOuterArmorReactiveRepulsive = реактивная отталкивающая броня
+    .desc = Экспериментальная броня, которая с силой отбрасывает нападающих.
 
-ent-ClothingOuterArmorReactiveCryogenic = reactive cryogenic armor
-    .desc = An experimental suit of armor with a reactive sensor array rigged to a cryogenic emitter.
+ent-ClothingOuterArmorReactiveCryogenic = реактивная криогенная броня
+    .desc = Экспериментальная броня с набором реактивных датчиков, соединённых с криогенным эмиттером.
 
-ent-ClothingOuterArmorReactiveAberration = reactive aberration armor
-    .desc = Just by looking at it you feel strange presence, like you are an ant and some old God gazes upon you.
+ent-ClothingOuterArmorReactiveAberration = реактивная броня аберраций
+    .desc = Стоит взглянуть на неё, как вы чувствуете чьё-то присутствие, будто вы муравей под взглядом древнего Бога.
 
-ent-ClothingOuterArmorReactiveRock = reactive rock armor
-    .desc = An experimental suit of armor with matter replicating emitter. Feel yourself as John "Rock" Johnson.
+ent-ClothingOuterArmorReactiveRock = реактивная каменная броня
+    .desc = Экспериментальная броня с эмиттером, который копирует материю. Почувствуйте себя Джоном «Скалой» Джонсоном.
 
-ent-ClothingOuterArmorReactiveHealing = reactive healing armor
-    .desc = An experimental suit of armor with solution auto-injector. Tuned on keeping the user alive.
+ent-ClothingOuterArmorReactiveHealing = реактивная целебная броня
+    .desc = Экспериментальная броня с автоинъектором раствора. Настроена так, чтобы сохранить носителю жизнь.
 
-ent-ClothingOuterArmorReactiveHallucinating = reactive hallucinating armor
-    .desc = An experimental suit of armor with sensitive detectors hooked up to the mind of the wearer, sending mind pulses that causes hallucinations around you.
+ent-ClothingOuterArmorReactiveHallucinating = реактивная галлюциногенная броня
+    .desc = Экспериментальная броня с чувствительными датчиками, связанными с сознанием носителя. Посылает ментальные импульсы, вызывающие галлюцинации у окружающих.
 
-ent-ClothingOuterArmorReactiveStealth = reactive stealth armor
-    .desc = An experimental suit of armor that renders the wearer invisible on detection of imminent harm. You can't fight what you can't see.
+ent-ClothingOuterArmorReactiveStealth = реактивная маскировочная броня
+    .desc = Экспериментальная броня, которая делает носителя невидимым при обнаружении угрозы. Трудно драться с тем, кого не видишь.
 
-ent-ClothingOuterArmorReactiveTable = reactive table armor
-    .desc = An experimental suit of armor that... does something really wierd. Eh, science am i right?
+ent-ClothingOuterArmorReactiveTable = реактивная броня со столами
+    .desc = Экспериментальная броня, которая... делает что-то очень странное. Ну, наука, сами понимаете?

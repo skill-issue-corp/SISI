@@ -1,17 +1,17 @@
-ent-EldritchLongsword = eldritch longsword
-    .desc = A sword humming with unholy energy. It glows with a dim red light.
+ent-EldritchLongsword = потусторонний длинный меч
+    .desc = Меч гудит от нечестивой энергии и светится тусклым красным светом.
 
-ent-BloodSpear = blood spear
-    .desc = A sickening spear composed entirely of crystallized blood.
+ent-BloodSpear = кровавое копьё
+    .desc = Мерзкое копьё, целиком состоящее из кристаллизовавшейся крови.
 
-ent-BloodOrb = blood orb
-    .desc = A solid orb of crystalized blood, likely taken unwillingly. The orb can be used to transfer vitae between the faithful.
+ent-BloodOrb = кровавая сфера
+    .desc = Твёрдая сфера из кристаллизовавшейся крови, вероятно, взятой против воли донора. Сфера позволяет передавать жизненную силу между верующими.
 
-ent-BloodBoltBarrage = blood bolt barrage
-    .desc = A crackling orb of blood-red energy, straining for the chance to kill. Simply point at the target, and let it loose.
+ent-BloodBoltBarrage = залп кровавых зарядов
+    .desc = Потрескивающая сфера кроваво-красной энергии, рвущаяся убивать. Просто направьте её на цель и отпустите.
 
-ent-BloodRitesAura = blood rite aura
-    .desc = Absorbs blood from anything you touch. Touching cultists and constructs can heal them. Use in-hand to cast an advanced rite.
+ent-BloodRitesAura = аура кровавого обряда
+    .desc = Поглощает кровь из всего, к чему вы прикасаетесь. Прикосновение к культистам и конструктам может их исцелить. Примените в руке для продвинутого обряда.
 
-ent-StunningAura = stunning aura
-    .desc = Will knock down and mute a victim on contact. Strike them with a cult weapon to complete the invocation, stunning them and extending the mute.
+ent-StunningAura = оглушающая аура
+    .desc = Сбивает жертву с ног и лишает её речи при прикосновении. Ударьте жертву оружием культа, чтобы завершить призыв, оглушить её и продлить немоту.

@@ -5,25 +5,25 @@ ent-ChemicalMedipen = { "" }
     .desc = { "" }
 
 ent-EmergencyMedipen = { "" }
-    .desc = A rapid and safe way to heal minor damage, stop bleeding, and stabilize patients for personnel without advanced medical knowledge.
+    .desc = Быстрый и безопасный способ вылечить незначительные повреждения, остановить кровотечение и стабилизировать пациентов для персонала без продвинутых медицинских знаний.
 
 ent-AntiPoisonMedipen = { "" }
-    .desc = A rapid dose of anti-poison. Causes extreme stress when mixed with other medications.
+    .desc = Быстрая доза противоядия. Вызывает сильный стресс при смешивании с другими медикаментами.
 
 ent-BruteAutoInjector = { "" }
-    .desc = A rapid dose of bicaridine, salicylic acid, tranexamic acid, and tramadol, intended for combat applications. Usage of multiple is highly recommended against.
+    .desc = Быстродействующая доза бикаридина, салициловой кислоты, транексамовой кислоты и трамадола для применения в бою. Крайне не рекомендуется использовать несколько доз.
 
 ent-BurnAutoInjector = { "" }
-    .desc = A rapid dose of oxandrolone, leporazine, and tramadol, intended for combat applications.
+    .desc = Быстрая доза оксандролона, лепоразина и трамадола, предназначенная для боевого применения.
 
 ent-PunctAutoInjector = { "" }
     .desc = { "" }
 
 ent-PyraAutoInjector = { "" }
-    .desc = A rapid dose of pyrazine and oxandrolone, intended for combat applications.
+    .desc = Быстрая доза пиразина и оксандролона, предназначенная для боевого применения.
 
-ent-SpaceMedipen = environmental stabilization medipen
-    .desc = Contains a mix of chemicals that will temporarily protect you from low pressure environments, and stabilizes your body temperature.
+ent-SpaceMedipen = медипен экологической стабилизации
+    .desc = Содержит смесь химических веществ, которая временно защитит вас от условий низкого давления и стабилизирует температуру вашего тела.
 
 ent-Stimpack = { "" }
     .desc = { "" }

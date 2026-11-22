@@ -1,2 +1,2 @@
-ent-CultPylon = cult pylon
-    .desc = A floating crystal that slowly heals those faithful to Nar'Sie.
+ent-CultPylon = культовый пилон
+    .desc = Парящий кристалл, который медленно исцеляет верных Нар'Си.

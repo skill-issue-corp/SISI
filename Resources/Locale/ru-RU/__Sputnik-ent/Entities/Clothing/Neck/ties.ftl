@@ -1,12 +1,8 @@
-ent-ClothingNeckTieBase = tie
-    .desc = A neosilk clip-on tie.
+ent-ClothingNeckTieBase = связывать
+    .desc = Галстук из неошёлка на зажиме.
 
-# AUTOGEN-Start
-# красный галстук
-# .desc = Красный галстук из нео-шёлка с зажимом.
-# AUTOGEN-End TODO(Update_Locale):
-ent-ClothingNeckTieRed = red tie
-    .desc = A neosilk clip-on red tie.
+ent-ClothingNeckTieRed = красный галстук
+    .desc = Красный галстук из нео-шёлка с зажимом.
 
 ent-ClothingNeckTieDet = галстук детектива
     .desc = Свободно завязанный галстук — идеальный аксессуар для усталого детектива.

@@ -4,92 +4,50 @@ language-Universal-description = Кто ты?
 language-Psychomantic-name = Психомантия
 language-Psychomantic-description = Чистый смысл, свободный от тирании примитивных слов и жестов.
 
-# AUTOGEN-Start
-# Булькяз
-# AUTOGEN-End TODO(Update_Locale):
-language-Bubblish-name = Oob'Mola'R-ien
-# AUTOGEN-Start
-# Язык слаймов. Будучи смесью булькающих звуков и хлопков, он крайне сложен для воспроизведения людьми без механических приспособлений.
-# AUTOGEN-End TODO(Update_Locale):
-language-Bubblish-description = The strange bubbling and popping of the Oob'Mola, mimic human structure without any foundation. It is spoken by the remnants of the slime hivemind and the humanized descendants.
+language-Bubblish-name = Уб'Мола'Р-иен
+language-Bubblish-description = Странное бульканье и хлопки уб'мола смутно подражают строю человеческой речи. На нём говорят остатки коллективного разума слаймов и их очеловеченные потомки.
 
 
 language-RootSpeak-name = Корнеречь
 language-RootSpeak-description = Странный свистящий язык дион, напоминающий шум листвы.
 
-# AUTOGEN-Start
-# Синта-Унати
-# AUTOGEN-End TODO(Update_Locale):
-language-Draconic-name = Imperial Dracon
-# AUTOGEN-Start
-# Общий язык Могес - сочетание шипящих и дребезжащих звуков. Родной язык унати.
-# AUTOGEN-End TODO(Update_Locale):
+language-Draconic-name = Имперский Драконский
 language-Draconic-description =
-    The imperial language of Moghes - composed of sibilant hisses and rattles. It is surprisingly diverse, with many variations spread across the Moghegan worlds.
+    Имперский язык Могеса состоит из свистящих, шипящих и дребезжащих звуков. Он удивительно разнообразен, и в мирах Могеса распространено множество его диалектов.
 
 language-Azaziba-name = Синта-Азазиба
 language-Azaziba-description = Язык Могес, сочетающий речь и жестикуляцию. Хотя он утратил популярность после выхода на галактическую арену, его по-прежнему используют унати, не поддавшиеся культурному влиянию Гегемонии.
 
-# AUTOGEN-Start
-# Общесолнечный
-# AUTOGEN-End TODO(Update_Locale):
-language-SolCommon-name = EarthGen
-# AUTOGEN-Start
-# Уходящий корнями в китайский, Общесолнечный стал официальным языком ОПЗ - объединяющим все колонии. На нём говорят чиновники, его преподают в школах, и используют те, кто чувствует связь с ОПЗ.
-# AUTOGEN-End TODO(Update_Locale):
+language-SolCommon-name = Землеген
 language-SolCommon-description =
-    Founded by the World Prosperity Spheres in 2360, it was the original Human Unified Language before the adoption of Corporate Standard for trade.
-    All humans and those who live in human nations are at least familiar with this language, which has become synonymous with humanity. It has its
-    roots in English, Japanese, and Mandarin, giving it a distinct accent and structure.
+    Землеген создали Сферы Мирового Процветания в 2360 году. Он был первым единым языком людей, пока в торговле не приняли корпоративный стандарт.
+    Все люди и жители человеческих государств хотя бы знакомы с этим языком, ставшим олицетворением человечества. В его основе лежат
+    английский, японский и мандаринский китайский, от которых он унаследовал особое произношение и строй.
 
-# AUTOGEN-Start
-# Ново-Недирик
-# AUTOGEN-End TODO(Update_Locale):
-language-NovuNederic-name = Terralingua
-# AUTOGEN-Start
-# Язык космических колонистов и терраформистов, сохранивший резкие согласные своих земных корней. Популярен среди тех, кто осваивает новые миры.
-# AUTOGEN-End TODO(Update_Locale):
+language-NovuNederic-name = Терралингва
 language-NovuNederic-description =
-    Created by a select few Cetian philosophers, it was at first a lingua franca of Cetiburghow, allowing easy communication with other planetary communities.
-    After the establishment of the Terran Union, it has become the national language, and it is taught even in the furthest of her territories. It has a guttural
-    yet rich vowel structure and a melodic quality deliberately made distinct. Its speech has also been made as hard as possible for a non-human to replicate.
+    Несколько философов Тау Кита создали этот язык для общения жителей Кетибургова с другими планетарными сообществами.
+    После основания Земного Союза он стал государственным языком, и его преподают даже в самых отдалённых владениях Союза. Гортанные,
+    богатые гласные и особая мелодика делают его узнаваемым. Произношение намеренно усложнили, чтобы нечеловеческим видам было как можно труднее его воспроизвести.
 
-# AUTOGEN-Start
-# Тау-Сети Бейсик
-# AUTOGEN-End TODO(Update_Locale):
-language-TauCetiBasic-name = Corporate Standard
-# AUTOGEN-Start
-# Духовный наследник эсперанто, созданный интеллектуалами Тау Кита. Его уникальная структура позволяет использовать его даже инопланетянам.
-# AUTOGEN-End TODO(Update_Locale):
+language-TauCetiBasic-name = Корпоративный Стандарт
 language-TauCetiBasic-description =
-    Created as a unifying language for the Corporate Territory of both NT and its UCSH, it is characterized by its quick, straight-to-the-point nature.
-    The language is incredibly strange to those who don't speak it, sounding robotic and stiff.
+    Этот язык создали, чтобы объединить корпоративные территории NT и её UCSH. На нём принято говорить быстро и по делу.
+    Тем, кто им не владеет, он кажется необычайно странным, механическим и негибким.
 
 language-Tradeband-name = Трейдбэнд
 language-Tradeband-description = Язык торговцев и дипломатов, звучащий изысканно для большинства ушей. Сохраняет романтику земного прошлого.
 
-# AUTOGEN-Start
-# Вольный
-# AUTOGEN-End TODO(Update_Locale):
-language-Freespeak-name = Fringe-Gutter
-# AUTOGEN-Start
-# Язык фронтира, звучащий как варварская тарабарщина для непосвящённых. Его использование - дерзкое заявление о свободолюбии.
-# AUTOGEN-End TODO(Update_Locale):
+language-Freespeak-name = Окраинный-Жаргон
 language-Freespeak-description =
-    The drowl and jumble of various stitched-together languages. The barbarian language finds like-minded company: renegades, frontiersmen, and explorers.
-    It is considered the language of those who live on the fringe, and anyone who speaks it proudly identifies with that crowd.
+    Невнятная мешанина из разных языков. Этот варварский язык пришёлся по душе отступникам, жителям фронтира и исследователям.
+    Его считают языком окраин, и всякий, кто на нём говорит, гордится своей принадлежностью к их обитателям.
 
 language-Elyran-name = Элиранский Стандарт
 language-Elyran-description = Официальный язык Республики Элира, сочетающий элементы фарси, арабского и турецкого.
 
-# AUTOGEN-Start
-# Моффик
-# AUTOGEN-End TODO(Update_Locale):
-language-Moffic-name = United Gudfic
-# AUTOGEN-Start
-# Язык мотыльковых людей, граничащий с полной невнятностью.
-# AUTOGEN-End TODO(Update_Locale):
-language-Moffic-description = The language formed over centuries of the mutated Mothpeople's nomadic journey. It borders on unintelligible squeals, buzzes, and chitters. It was the official language of the National Insectoid Nation, a fact alone that makes it repugnant to much of humanity.
+language-Moffic-name = Объединённый Гудфийский
+language-Moffic-description = Этот язык сложился за века кочевой жизни мутировавшего народа мотыльков. Он напоминает почти неразборчивую смесь писка, жужжания и стрекота. Он был официальным языком Национального Инсектоидного Государства, и одного этого большинству людей достаточно, чтобы его презирать.
 
 language-RobotTalk-name = Роборечь
 language-RobotTalk-description = Язык двоичных сигналов, недоступный для воспроизведения органическими существами без переводчиков.

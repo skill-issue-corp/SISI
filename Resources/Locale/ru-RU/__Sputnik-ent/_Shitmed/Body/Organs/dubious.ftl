@@ -24,15 +24,15 @@ ent-OrganDubiousArtifact = { ent-OrganDubiousBase }
 
 ent-OrganDubiousScrambleDna = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = DNA Scrambler
+    .suffix = Перемешиватель ДНК
 
 ent-OrganDubiousScrambleLocation = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Teleport
+    .suffix = Телепорт
 
 ent-OrganDubiousSpiderEggs = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Spiders
+    .suffix = Пауки
 
 ent-OrganDubiousSlimeEggs = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
@@ -54,7 +54,7 @@ ent-OrganDubiousGas = { ent-OrganDubiousBase }
 
 ent-OrganDubiousSteptriggerImmune = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Noslip
+    .suffix = Защита От Скольжения
 
 ent-OrganDubiousVentcrawler = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }

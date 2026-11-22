@@ -1,23 +1,20 @@
-ent-CrayonInedible = crayon
-    .desc = A colourful crayon. A forbidden flavor.
+ent-CrayonInedible = мелок
+    .desc = Цветной мелок. Запретный вкус.
 
 ent-Crayon = мелок
     .desc = Красочный мелок. Выглядит аппетитно. Мммм...
 
-# AUTOGEN-Start
-# мимский мелок
-# AUTOGEN-End TODO(Update_Locale):
-ent-CrayonMime = mime crayon
+ent-CrayonMime = мимский мелок
     .desc = ...
 
 ent-CrayonRainbow = радужный мелок
     .desc = { ent-Crayon.desc }
 
-ent-CrayonInfinite = infinite crayon
+ent-CrayonInfinite = бесконечный мелок
     .desc = { ent-CrayonRainbow.desc }
 
-ent-CrayonBorg = electric crayon
-    .desc = Supposedly the most delicious crayon type in all the universes; unfortunately, you cannot eat.
+ent-CrayonBorg = электрический мелок
+    .desc = Говорят, это самый вкусный мелок во всех вселенных. Увы, вы не можете есть.
 
 ent-CrayonWhite = белый мелок
     .desc = { ent-Crayon.desc }
@@ -43,8 +40,8 @@ ent-CrayonBlue = синий мелок
 ent-CrayonPurple = фиолетовый мелок
     .desc = { ent-Crayon.desc }
 
-ent-CrayonBoxEmpty = crayon box
-    .desc = It's a box of crayons.
+ent-CrayonBoxEmpty = коробка мелков
+    .desc = Это коробка мелков.
 
 ent-CrayonBox = коробка для мелков
     .desc = Это коробка с мелками.

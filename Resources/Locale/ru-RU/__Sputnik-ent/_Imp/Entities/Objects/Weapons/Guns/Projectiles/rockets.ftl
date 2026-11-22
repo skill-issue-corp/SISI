@@ -1,8 +1,8 @@
-ent-BulletBazookaExp = rocket
+ent-BulletBazookaExp = ракета
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletBazookaCon = rocket
+ent-BulletBazookaCon = ракета
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletBazookaIncendiary = rocket
+ent-BulletBazookaIncendiary = ракета
     .desc = { ent-BaseBulletTrigger.desc }

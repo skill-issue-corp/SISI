@@ -1,6 +1,6 @@
 ent-BaseArea = { "" }
     .desc = { "" }
-    .suffix = Area
+    .suffix = Зона
 
 ent-BaseAreaStation = { ent-BaseArea }
     .desc = { ent-BaseArea.desc }

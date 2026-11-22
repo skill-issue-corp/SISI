@@ -1,1 +1,1 @@
-collective-mind-blood-cult = Blood Cult
+collective-mind-blood-cult = Культ Крови

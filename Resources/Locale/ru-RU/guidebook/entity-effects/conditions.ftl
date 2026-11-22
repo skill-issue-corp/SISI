@@ -27,10 +27,10 @@ entity-condition-guidebook-group-damage =
 
 entity-condition-guidebook-total-satiation =
     { $max ->
-        [2147483648] the target has at least {NATURALFIXED($min, 2)} total {$type}
+        [2147483648] суммарный показатель «{$type}» у цели не ниже {NATURALFIXED($min, 2)}
         *[other] { $min ->
-                    [0] the target has at most {NATURALFIXED($max, 2)} total {$type}
-                    *[other] the target has between {NATURALFIXED($min, 2)} and {NATURALFIXED($max, 2)} total {$type}
+                    [0] суммарный показатель «{$type}» у цели не выше {NATURALFIXED($max, 2)}
+                    *[other] суммарный показатель «{$type}» у цели находится в диапазоне от {NATURALFIXED($min, 2)} до {NATURALFIXED($max, 2)}
                  }
     }
 
@@ -94,4 +94,4 @@ entity-condition-guidebook-internals =
                }
 
 entity-condition-guidebook-mouth-uncovered-condition =
-    the mob has an uncovered mouth
+    у существа открыт рот

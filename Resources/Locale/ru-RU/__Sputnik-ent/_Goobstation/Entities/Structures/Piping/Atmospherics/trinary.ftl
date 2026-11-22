@@ -1,5 +1,5 @@
-ent-BaseGasFilterInline = inline gas filter
-    .desc = Filters gases from a pipenet without splitting it in two.
+ent-BaseGasFilterInline = фильтр газов односторонний
+    .desc = Фильтрует газы в сети труб, не разделяя её надвое.
 
 ent-GasFilterInline = фильтр газов односторонний
     .desc = Фильтрует газы из трубопровода, не разделяя его на две части.

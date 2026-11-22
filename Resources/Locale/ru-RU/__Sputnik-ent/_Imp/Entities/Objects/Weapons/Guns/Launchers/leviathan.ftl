@@ -1,2 +1,2 @@
-ent-WeaponLauncherBazooka = Leviathan
-    .desc = A symbol of hubris, arrogance, and an overwhelming lust for destruction. Uses rockets.
+ent-WeaponLauncherBazooka = Левиафан
+    .desc = Символ гордыни, высокомерия и неудержимой жажды разрушения. Использует ракеты.

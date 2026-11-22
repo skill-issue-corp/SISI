@@ -1,2 +1,2 @@
-ent-PlumbingPump = liquid pump
-    .desc = An electric pump that can transfer liquids between machines that have an automation upgrade installed.
+ent-PlumbingPump = жидкостный насос
+    .desc = Электрический насос способный перегонять жидкости между машинами если установлено улучшение автоматизации.

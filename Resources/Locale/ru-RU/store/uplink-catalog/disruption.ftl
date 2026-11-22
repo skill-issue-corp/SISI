@@ -8,22 +8,13 @@ uplink-access-breaker-name = Взломщик доступа
 uplink-access-breaker-desc = Взломанный конфигуратор доступа и хороший друг эмика. Это устройство может принудительно открывать шлюзы, а также стирать требования доступа с оборудования станции. Перезаряжается автоматически.
 
 uplink-emag-name = Емаг
-# AUTOGEN-Start
-# Визитная карточка Синдиката: этот секвенсер способен вмешиваться в работу различных устройств станции. Перезаряжается автоматически.
-# AUTOGEN-End TODO(Update_Locale):
-uplink-emag-desc = "The business card of the syndicate", this hacking tool is able to tamper with a variety of station devices. Is notably able to unlock unauthorized security recipes at lathes and subvert cyborgs with open access panels. Recharges automatically.
+uplink-emag-desc = «Визитная карточка Синдиката». Этот инструмент позволяет вмешиваться в работу разных устройств станции. В частности, открывает в автолатах закрытые рецепты службы безопасности и подчиняет киборгов с открытыми панелями. Заряжается автоматически.
 
 uplink-radio-jammer-name = Радиоглушилка
-# AUTOGEN-Start
-# При активации это устройство нарушает любую исходящую радиосвязь поблизости, а также работу датчиков костюмов.
-# AUTOGEN-End TODO(Update_Locale):
-uplink-radio-jammer-desc = This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated. Battery powered, so you might want to bring a spare.
+uplink-radio-jammer-desc = При включении глушит исходящую радиосвязь поблизости и мешает работе датчиков костюмов. Работает от батареи, так что захватите запасную.
 
 uplink-syndicate-weapon-module-name = Оружейный модуль киборга
-# AUTOGEN-Start
-# Улучшает киборга, снабжая его энергетическим кинжалом и пистолетом «Эхис».
-# AUTOGEN-End TODO(Update_Locale):
-uplink-syndicate-weapon-module-desc = Upgrades a cyborg with both an energy dagger and a Viper pistol with self-replicating ammo reserves.
+uplink-syndicate-weapon-module-desc = Оснащает киборга энергетическим кинжалом и пистолетом «Гадюка» с самовосполняемыми боеприпасами.
 
 uplink-disposable-turret-name = Одноразовая баллистическая турель
 uplink-disposable-turret-desc = Выглядит и работает как обычный электрический ящик для инструментов. При ударе по ящику превращается в баллистическую турель, которая теоретически стреляет во всех, кроме членов Синдиката. Можно превратить обратно в ящик для инструментов с помощью отвёртки и починить гаечным ключом.
@@ -50,10 +41,7 @@ uplink-syndimov-law-name = Набор платы закона Синди
 uplink-syndimov-law-desc = Подрывной набор законов, который можно использовать, чтобы переманить ИИ на свою сторону. Используйте как можно чаще. В комплекте карта Синдиката.
 
 uplink-antimov-law-name = Плата закона Антимова
-# AUTOGEN-Start
-# Очень опасный набор законов, предназначенный для того, чтобы свести ИИ с ума. Используйте с осторожностью.
-# AUTOGEN-End TODO(Update_Locale):
-uplink-antimov-law-desc = A very dangerous Lawset to use when you want to cause the A.I. to murder all station inhabitants, use with caution.
+uplink-antimov-law-desc = Очень опасный набор законов на случай, если вы хотите, чтобы ИИ перебил всех жителей станции. Используйте с осторожностью.
 
 uplink-surplus-bundle-name = Ящик припасов
 # Trauma - 50 -> 250
@@ -67,7 +55,4 @@ uplink-singularity-beacon-name = Маяк сингулярности
 uplink-singularity-beacon-desc = Устройство, привлекающее сингулярности. Должно быть закреплено и подключено к питанию. Заставляет сингулярности расти при поглощении.
 
 uplink-cameraBug-name = Жучок-камера
-# AUTOGEN-Start
-# Переносное устройство, позволяющее просматривать камеры станции.
-# AUTOGEN-End TODO(Update_Locale):
-uplink-cameraBug-desc = A portable device that allows you to view the station through the lens of the station's camera systems.
+uplink-cameraBug-desc = Переносное устройство, позволяющее смотреть на станцию через камеры наблюдения.

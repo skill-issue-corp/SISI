@@ -45,24 +45,15 @@ knowledge-path-cosmos-s5-desc =
     Если связь сохраняется 8 секунд, жертвы уснут и получат звездную метку, также телепортируются к вам.
 
 knowledge-path-cosmos-armor-name = звёздотканый плащ
-# AUTOGEN-Start
-# Подобно лучистым нитям, звёзды сияли в унисон по шёлковой форме развевающегося плаща, что одновременно и укрывает, и не укрывает мои плечи.
-# Взгляд Зверя покоился на мне и сквозь меня.
-# Позволяет трансмутировать стол (или костюм), маску и лист форона, чтобы создать Звёздотканый плащ,
-# защищающий от опасностей космоса и позволяющий свободно передвигаться в невесомости.
-# Кроме того, находясь на космических полях, позволяет совершать короткий рывок (Tackle), уклоняясь от снарядов.
-# Действует как фокус, если надет капюшон.
-# При трансмутации открывает улучшение пассивной способности 2-го уровня.
-# AUTOGEN-End TODO(Update_Locale):
 knowledge-path-cosmos-armor-desc =
-    Like radiant cords, the stars shone in union across the silken shape of a billowing cloak, that at once does and does not drape my shoulders.
-    The eyes of the Beast rested upon me, and through me.
+    Словно лучистые нити, звёзды сияли на шёлке развевающегося плаща, который и укрывал мои плечи, и не касался их.
+    Зверь смотрел на меня и сквозь меня.
 
-    Allows you to transmute a table (or a suit), a mask and a sheet of glass to create a Starwoven Cloak,
-    grants protection from the hazards of space while granting to the user the ability to move freely in no gravity.
-    Additionally, when standing on cosmic fields, allows you to dash (Tackle) short distance, dodging projectiles.
-    Acts as a focus while hooded.
-    Unlocks tier 2 passive ability upgrade when transmuted.
+    Позволяет превратить стол (или костюм), маску и лист стекла в Звёздотканый Плащ,
+    который защищает от опасностей космоса и позволяет свободно двигаться в невесомости.
+    Кроме того, стоя на космических полях, вы можете совершить короткий рывок (Бросок), чтобы уклониться от снарядов.
+    При поднятом капюшоне служит фокусом.
+    При трансмутации открывает улучшение пассивной способности 2-го уровня.
 
 knowledge-path-cosmos-s6-name = Сверхновая
 knowledge-path-cosmos-s6-desc =

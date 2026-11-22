@@ -10,5 +10,5 @@ ent-BoxHoPCircuitboards = { "" }
 ent-BoxQMCircuitboards = { "" }
     .desc = { "" }
 
-ent-BoxRDCircuitboards = science circuit tote
+ent-BoxRDCircuitboards = набор научных плат
     .desc = { ent-ToteBase.desc }

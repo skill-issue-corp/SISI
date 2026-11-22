@@ -1,5 +1,5 @@
 ent-Stunbaton = { "" }
-    .desc = A stun baton for incapacitating people with. Actively harming with this is considered bad tone.
+    .desc = Электрошоковая дубинка для обездвиживания людей. Слишком усердное причинение вреда с помощью этого предмета считается дурным тоном.
 
 ent-Truncheon = { "" }
     .desc = { "" }

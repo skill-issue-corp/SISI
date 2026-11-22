@@ -1,2 +1,2 @@
-ent-BookSpaceLaw = corporate law
+ent-BookSpaceLaw = корпоративный закон
     .desc = { "" }

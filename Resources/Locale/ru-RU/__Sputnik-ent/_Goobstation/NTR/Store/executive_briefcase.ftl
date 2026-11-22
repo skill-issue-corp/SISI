@@ -4,7 +4,7 @@ ent-ExecutiveBriefcaseEmpty = дипломатический чемодан
 
 ent-ExecutiveBriefcase = { ent-ExecutiveBriefcaseEmpty }
     .desc = { ent-ExecutiveBriefcaseEmpty.desc }
-    .suffix = 25 points
+    .suffix = 25 очков
 
 ent-ExecutiveBriefcaseDebug = { ent-ExecutiveBriefcaseEmpty }
     .suffix = DEBUG

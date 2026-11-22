@@ -7,8 +7,5 @@ encryption-keys-panel-locked = Сначала откройте техничес�
 
 examine-encryption-channels-prefix = Доступные частоты:
 # Trauma - add deviceType
-# AUTOGEN-Start
-# [color=$color]$key для канала $id ({NATURALFIXED($freq, 1)})[/color]
-# AUTOGEN-End TODO(Update_Locale):
-examine-encryption-channel = [color={$color}]{$key} for {$id} ({$freq}) {$deviceType}[/color]
+examine-encryption-channel = [color={$color}]{$key} для {$id} ({$freq}) {$deviceType}[/color]
 examine-encryption-default-channel = Каналом по умолчанию является [color={ $color }]{ $channel }[/color].

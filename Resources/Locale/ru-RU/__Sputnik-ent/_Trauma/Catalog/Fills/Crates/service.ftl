@@ -4,11 +4,11 @@ ent-CrateRotaryPhone = ящик с дисковыми телефонами
 ent-CrateServiceCoconutCrab = ящик с кокосовыми крабами
     .desc = Это крабсолютное безумие!
 
-ent-CratePlantBGoneSpray = bulk Plant-B-Gone spray crate
-    .desc = From Monstano. "Unwanted Weeds, Meet Your Celestial Roundup!"
+ent-CratePlantBGoneSpray = ящик с запасом спрея Plant-B-Gone
+    .desc = Из Монстано. "Назойливые сорняки, встречайте свой смерть!"
 
-ent-CrateHolySuppliesAdvanced = advanced holy supplies crate
-    .desc = Contains holy supplies for religious needs
+ent-CrateHolySuppliesAdvanced = ящик продвинутых священных принадлежностей
+    .desc = Содержит священные принадлежности для религиозных нужд
 
-ent-CrateRanchingSupplies = ranching supplies crate
-    .desc = Contains all the necessary supplies to start ranching, Food not included
+ent-CrateRanchingSupplies = ящик принадлежностей для животноводства
+    .desc = Содержит всё необходимое для начала животноводства. Корм в комплект не входит

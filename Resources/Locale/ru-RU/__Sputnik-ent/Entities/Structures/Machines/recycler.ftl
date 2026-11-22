@@ -1,10 +1,10 @@
 ent-Recycler = переработчик мусора
     .desc = Большая дробящая машина, используемая для неэффективной переработки мелких предметов. На боковой стороне есть лампочки.
 
-ent-IndustrialSmelter = industrial smelter
-    .desc = A massive stationary machine capable of chewing through flooring and walls. Must be powered to function.
-    .suffix = Do Not Map
+ent-IndustrialSmelter = промышленная плавильня
+    .desc = Огромная стационарная машина, которая прогрызает полы и стены. Для работы нужно питание.
+    .suffix = Не Маппить
 
 ent-IndustrialSmelterAdmeme = { ent-IndustrialSmelter }
     .desc = { ent-IndustrialSmelter.desc }
-    .suffix = No Grid Whitelist, Admeme
+    .suffix = Без Списка Разрешённых Сеток, Адмем

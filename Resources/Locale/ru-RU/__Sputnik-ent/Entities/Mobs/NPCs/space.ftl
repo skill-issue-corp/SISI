@@ -52,8 +52,5 @@ ent-MobSnailSpeed = { ent-MobSnail }
     .suffix = Скорость
     .desc = { ent-MobSnail.desc }
 
-# AUTOGEN-Start
-# молитка
-# AUTOGEN-End TODO(Update_Locale):
-ent-MobSnailMoth = snoth
+ent-MobSnailMoth = снежный мотылёк
     .desc = { ent-BaseMobMothroach.desc }

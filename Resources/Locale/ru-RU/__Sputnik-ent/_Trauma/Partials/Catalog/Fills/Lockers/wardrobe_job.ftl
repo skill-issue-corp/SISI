@@ -1,2 +1,2 @@
 ent-WardrobeChapelFilled = { "" }
-    .desc = Clothes? Why would a chapel need a locker for clothes? After all you need so much funeral equipment.
+    .desc = Одежда? Зачем часовне шкаф для одежды? Тут ведь столько погребальных принадлежностей нужно хранить.

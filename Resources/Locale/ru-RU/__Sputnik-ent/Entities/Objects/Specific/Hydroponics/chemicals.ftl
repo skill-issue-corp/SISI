@@ -1,2 +1,2 @@
-ent-ReagentContainerMutagenicFertilizer = Frank's Funky Fertilizer
-    .desc = A sack of questionably sourced fertilizer. Frank guarantees results, but not which results.
+ent-ReagentContainerMutagenicFertilizer = Чудное Удобрение Фрэнка
+    .desc = Мешок удобрения сомнительного происхождения. Фрэнк обещает результат, вот только неизвестно какой.

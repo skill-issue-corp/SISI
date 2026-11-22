@@ -9,7 +9,7 @@ ent-SuperSynthesizerInstrument = суперсинтезатор
 
 ent-SuperSynthesizerNoLimitInstrument = { ent-SuperSynthesizerInstrument }
     .desc = { ent-SuperSynthesizerInstrument.desc }
-    .suffix = NoLimits Admin
+    .suffix = Админ Без Ограничений
 
 ent-AccordionInstrument = аккордеон
     .desc = { ent-BaseKeyedInstrument.desc }

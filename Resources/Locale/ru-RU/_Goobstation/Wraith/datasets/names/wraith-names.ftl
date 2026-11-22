@@ -1,11 +1,5 @@
-# AUTOGEN-Start
-# Онсен
-# AUTOGEN-End TODO(Update_Locale):
-names-wraith-dataset-1 = Claude
-# AUTOGEN-Start
-# Люминал
-# AUTOGEN-End TODO(Update_Locale):
-names-wraith-dataset-2 = Opus
+names-wraith-dataset-1 = Клод
+names-wraith-dataset-2 = Опус
 names-wraith-dataset-3 = Ксароу
 names-wraith-dataset-4 = Наэльш
 names-wraith-dataset-5 = Коурин

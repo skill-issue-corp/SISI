@@ -32,8 +32,8 @@ signal-port-description-right = Этот порт задействуется в�
 signal-port-name-doorstatus = Статус шлюза
 signal-port-description-doorstatus = Этот порт задействуется с высоким уровнем когда с устройством взаимодействуют, и низким уровнем в закрытом состоянии.
 
-signal-port-name-doorboltstatus = Door bolt status
-signal-port-description-doorboltstatus = This port is invoked with HIGH when the door is bolted and LOW when it is unbolted.
+signal-port-name-doorboltstatus = Состояние засова двери
+signal-port-description-doorboltstatus = Порт выдаёт ВЫСОКИЙ сигнал, когда засов закрыт, и НИЗКИЙ, когда засов открыт.
 
 signal-port-name-dockstatus = Статус дока
 signal-port-description-dockstatus = Этот порт задействуется с высоким уровнем когда устройство состыковано, и низким уровнем когда отстыковано.
@@ -47,25 +47,16 @@ signal-port-description-trigger-sender = Этот порт задействуе�
 signal-port-name-timer-trigger = Таймер-триггер
 signal-port-description-timer-trigger = Этот порт задействуется всякий раз, когда срабатывает таймер.
 
-# AUTOGEN-Start
-# Таймер-старт
-# AUTOGEN-End TODO(Update_Locale):
-signal-port-name-timer-start = Timer start
+signal-port-name-timer-start = Запуск таймера
 signal-port-description-timer-start = Этот порт задействуется всякий раз, когда запускается таймер.
 
 signal-port-name-logic-output = Выход
 signal-port-description-logic-output = Этот порт задействуется с высоким или низким уровнем, в зависимости от режима.
 
-# AUTOGEN-Start
-# Высокий уровень
-# AUTOGEN-End TODO(Update_Locale):
-signal-port-name-logic-output-high = High output
+signal-port-name-logic-output-high = Высокий выходной сигнал
 signal-port-description-logic-output-high = Этот порт задействуется всякий раз, когда входной уровень высокий.
 
-# AUTOGEN-Start
-# Низкий уровень
-# AUTOGEN-End TODO(Update_Locale):
-signal-port-name-logic-output-low = Low output
+signal-port-name-logic-output-low = Низкий выходной сигнал
 signal-port-description-logic-output-low = Этот порт задействуется всякий раз, когда входной уровень низкий.
 
 signal-port-name-air-danger = Danger

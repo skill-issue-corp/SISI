@@ -4,7 +4,7 @@ ent-ServiceEnergyChemDispenser = синтезатор энергетическо
 
 ent-BaseEnergyBarDispenser = { ent-BaseEnergyReagentDispenser }
     .desc = { ent-BaseEnergyReagentDispenser.desc }
-    .suffix = Energy
+    .suffix = Энергия
 
 ent-EnergyBoozeDispenser = энергетический диспенсер алкоголя
     .desc = Лучшая мечта пьяницы. Используя силу блюспейса, этот диспенсер расходует энергию станции для производства алкогольных напитков! Теперь вы можете напиться, не покидая бар для пополнения запасов! Никогда больше!

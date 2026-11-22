@@ -23,8 +23,5 @@ ent-BriefcaseWeaponC20Filled = охранный кейс с C-20r
 ent-BriefcaseWeaponBulldogFilled = охранный кейс с Бульдогом
     .desc = { ent-BriefcaseWeapon.desc }
 
-# AUTOGEN-Start
-# охранный кейс с china lake
-# AUTOGEN-End TODO(Update_Locale):
-ent-BriefcaseWeaponChinaLakeFilled = secure China Lake case
+ent-BriefcaseWeaponChinaLakeFilled = защищённый кейс с China Lake
     .desc = { ent-BriefcaseWeapon.desc }

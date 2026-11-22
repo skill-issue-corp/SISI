@@ -20,11 +20,8 @@ ent-WallClown = бананиумовая стена
 ent-WallMeat = мясная стена
     .desc = Липко.
 
-# AUTOGEN-Start
-# стена культа
-# AUTOGEN-End TODO(Update_Locale):
-ent-WallCult = cult wall
-    .desc = Keeps the cult in and the crew out.
+ent-WallCult = стена культа
+    .desc = Не выпускает культистов и не пускает экипаж внутрь.
 
 ent-WallDebug = debug wall
     .desc = { ent-BaseWall.desc }

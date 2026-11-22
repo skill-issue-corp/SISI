@@ -364,11 +364,11 @@ ent-PosterLegitHelio = реклама "Helio Logistics"
 ent-PosterLegitBotanyFear = Страх перед гидропоникой
     .desc = Подумайте трижды, прежде чем открывать шлюз в гидропонику — там может скрываться красная угроза.
 
-ent-PosterLegitRaptor = Raptor - Fact or Fiction?
-    .desc = A poster for an obscure documentary. It attempts to explore the life of space raptors, a species of rare theropods rumored to help stranded spessmen in their time of need.
+ent-PosterLegitRaptor = Раптор - факт или вымысел?
+    .desc = Плакат малоизвестного документального фильма о космических рапторах. По слухам, эти редкие тероподы помогают космонавтам, попавшим в беду.
 
-ent-PosterLegitVulture = Vulture in Sunset
-    .desc = A test print from a photograph, depicting a vulture silhouetted against the backdrop of a tranquil sunset.
+ent-PosterLegitVulture = Стервятник на Закате
+    .desc = Пробный отпечаток фотографии с силуэтом стервятника на фоне тихого заката.
 
 ent-PosterMapBagel = карта Bagel
     .desc = Карта станции Bagel.

@@ -25,12 +25,8 @@ ent-ClothingUniformJumpsuitColorDarkGreen = тёмно-зелёный комби
 ent-ClothingUniformJumpsuitColorOrange = оранжевый комбинезон
     .desc = Не носите его рядом с параноидальными сотрудниками службы безопасности.
 
-# AUTOGEN-Start
-# розовый комбинезон
-# .desc = Просто глядя на это, вы чувствуете себя <i>потрясающе</i>.
-# AUTOGEN-End TODO(Update_Locale):
-ent-ClothingUniformJumpsuitColorPink = pink jumpsuit
-    .desc = Just looking at this makes you feel [italic]fabulous[/italic].
+ent-ClothingUniformJumpsuitColorPink = розовый комбинезон
+    .desc = От одного взгляда чувствуешь себя [italic]великолепно[/italic].
 
 ent-ClothingUniformJumpsuitColorRed = красный комбинезон
     .desc = Обычный красный комбинезон без знаков различия.

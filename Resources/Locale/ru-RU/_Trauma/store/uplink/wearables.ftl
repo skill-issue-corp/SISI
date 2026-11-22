@@ -15,10 +15,7 @@ uplink-slayer-coat-name = Плащ И.С.Т.Р.Е.Б.И.Т.Е.Л.Ь.
 uplink-slayer-coat-desc = Плащ И.С.Т.Р.Е.Б.И.Т.Е.Л.Ь. был специально разработан для ношения поверх плеч и защищает своего носителя от взрывов! Поставляется с постоянной трансляцией на камерные роутеры Нанотрейзен и встроенной связью со станционным радио, так что о скрытности оперативнику, носящему его, придётся забыть!
 
 uplink-bomb-collar-name = Набор «взрывной ошейник»
-# AUTOGEN-Start
-# Идеальный способ убедить кого-то оказать вам услугу. Ну, вы понимаете... из-за намёка.
-# AUTOGEN-End TODO(Update_Locale):
-uplink-bomb-collar-desc = The perfect way to coerce someone into doing you a favour. You know... because of the implication. Pretty useless, unless worn by someone.
+uplink-bomb-collar-desc = Идеальный способ вынудить кого-нибудь оказать вам услугу. Ну, вы понимаете... из-за намёка. Довольно бесполезен, пока его никто не носит.
 
 uplink-clothing-no-slips-shoes-name-trauma = Нескользящие ботинки
 
@@ -30,5 +27,5 @@ uplink-clothing-chameleon-thieving-gloves-desc = Незаметно крадит
 uplink-holster-name = Плечевая кобура
 uplink-holster-desc = Глубокая плечевая кобура, способная вместить множество видов боеприпасов.
 
-uplink-chameleon-eva-suit-name = Chameleon EVA Bundle
-uplink-chameleon-eva-suit-desc = Be prepared for any sort of low pressure situation. Can take the appearance of any suit or coat!
+uplink-chameleon-eva-suit-name = Комплект EVA «Хамелеон»
+uplink-chameleon-eva-suit-desc = Будьте готовы к любой ситуации с низким давлением. Принимает вид любого костюма или пальто!

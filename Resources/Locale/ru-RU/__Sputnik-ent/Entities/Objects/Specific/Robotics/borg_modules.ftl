@@ -166,17 +166,13 @@ ent-XenoborgModuleBasic = базовый модуль ксеноборга
 ent-XenoborgModuleTool = инструментальный модуль ксеноборга
     .desc = Простые инструменты для большинства ксеноборгов.
 
-ent-XenoborgModuleAdvancedTool = advanced tool xenoborg module
-    .desc = Advanced engineering module containing advanced xenoborg technology.
+ent-XenoborgModuleAdvancedTool = продвинутый инструментальный модуль ксеноборга
+    .desc = Продвинутый инженерный модуль с передовыми технологиями ксеноборгов.
 
-# AUTOGEN-Start
-# модуль ксеноборга со взломщиком доступа
-# .desc = Модуль со взломщиком доступа.
-# AUTOGEN-End TODO(Update_Locale):
-ent-XenoborgModuleAccessBreaker = access breaker xenoborg module
-    .desc = Module with an access breaker.
+ent-XenoborgModuleAccessBreaker = модуль ксеноборга со взломщиком доступа
+    .desc = Модуль со взломщиком доступа.
 
-ent-XenoborgModuleConstruction = construction xenoborg module
+ent-XenoborgModuleConstruction = строительный ксеноборг-модуль
     .desc = { ent-BaseXenoborgModuleEngi.desc }
 
 ent-XenoborgModuleDeflectorField = модуль ксеноборга с дефлекторным полем
@@ -206,11 +202,11 @@ ent-XenoborgModuleLaser = модуль ксеноборга с лазером
 ent-XenoborgModuleHeavyLaser = модуль ксеноборга с лазерной пушкой
     .desc = Модуль с лазерной пушкой.
 
-ent-XenoborgModuleGuidedMissileLauncher = guided missile launcher xenoborg module
-    .desc = Module with guided missile launcher and a range finder to set targets.
+ent-XenoborgModuleGuidedMissileLauncher = модуль управляемых ракет ксеноборга
+    .desc = Модуль с пусковой установкой управляемых ракет и дальномером для указания целей.
 
-ent-XenoborgModuleRocket = rocket module
-    .desc = A module with a rocket launcher designed to destroy structures.
+ent-XenoborgModuleRocket = ракетный модуль
+    .desc = Модуль с ракетной установкой для разрушения конструкций.
 
 ent-XenoborgModuleBurstFireLaser = модуль ксеноборга с очередным лазером
     .desc = Модуль с зажигательным лазером, стреляющим очередями.
@@ -230,8 +226,8 @@ ent-XenoborgModuleSword = модуль ксеноборга с ножом
 ent-XenoborgModuleEnergySword = модуль ксеноборга с энергетическим кинжалом
     .desc = Модуль с энергетическим кинжалом.
 
-ent-XenoborgModuleBioKinfe = bio knife xenoborg module
-    .desc = Module with an bio knife.
+ent-XenoborgModuleBioKinfe = модуль биоклинка ксеноборга
+    .desc = Модуль с биоклинком.
 
 ent-XenoborgModuleHypo = модуль ксеноборга с гипоспреем ноктурина
     .desc = Модуль с самозаполняющимся гипоспреем ноктурина.

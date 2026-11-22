@@ -1,4 +1,4 @@
-ent-BaseLighter = basic lighter
+ent-BaseLighter = простая зажигалка
     .desc = { ent-SolutionWelder.desc }
 
 ent-SolutionLighter = { ent-SolutionWelder }

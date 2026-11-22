@@ -47,5 +47,5 @@ ent-RevPowerArmorStand = стойка для брони П.О.Б.Е.Д.А.
 ent-RevMedFab = скрытый медифаб
     .desc = Скрытый подпольный фабрикатор, способный производить медицинское оборудование.
 
-ent-AbductorBiofabricator = abductor biofabricator
-    .desc = Produces organs and limbs that can be surgically implanted or attached to unwilling experiments.
+ent-AbductorBiofabricator = биофабрикатор похитителей
+    .desc = Производит органы и конечности, которые можно хирургически пересадить подопытным против их воли.

@@ -1,3 +1,3 @@
-signal-port-name-radio-message = Radio Message
+signal-port-name-radio-message = Радиосообщение
 
-signal-port-description-radio-message = Signal port invoked when a radio message is received while turned on. Circuits can receive the message string.
+signal-port-description-radio-message = Сигнальный порт, вызываемый при получении радиосообщения во включённом состоянии. Схемы могут получить строку сообщения.

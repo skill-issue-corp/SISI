@@ -27,7 +27,7 @@ changeling-transform-cycle-empty = У нас нет ДНК для трансфо
 changeling-transform-fail-self = Нельзя трансформироваться в текущую форму!
 changeling-transform-fail-choose = Мы не выбрали форму для трансформации!
 changeling-transform-fail-absorbed = Мы не можем трансформироваться в покойника!
-changeling-transform-fail-generic = We can't transform into them!
+changeling-transform-fail-generic = Мы не можем принять этот облик!
 changeling-transform-finish = Теперь мы — { $target }.
 
 changeling-sting = Мы тайно ужалили { CAPITALIZE($target) }.
@@ -43,13 +43,13 @@ changeling-sting-extract-max = Сначала нужно избавиться о
 changeling-dartgun-no-stings = У нас нет эволюционированных жал!
 
 changeling-stasis-enter-damaged = Мы вошли в регенеративный стазис. Полученные травмы будет трудно залечить...
-changeling-stasis-enter-catastrophic = We enter regenerative stasis. Our catastrophic injuries will take extreme time to heal...
-changeling-stasis-enter-fail = Can't enter stasis!
-changeling-stasis-finished = Our regeneration is complete. We are ready to awaken.
+changeling-stasis-enter-catastrophic = Мы входим в регенеративный стазис. Наши тяжелейшие раны будут заживать очень долго...
+changeling-stasis-enter-fail = Не удаётся войти в стазис!
+changeling-stasis-finished = Мы завершили регенерацию. Мы готовы пробудиться.
 changeling-stasis-exit-fail = Мы не в стазисе!
-changeling-stasis-exit-fail-dead = We feel... hollow. It is over.
-changeling-stasis-exit-fail-time = Our body is still recovering!
-changeling-stasis-exit-defib = A shock pulses through us. Our stasis has been interrupted!
+changeling-stasis-exit-fail-dead = Мы чувствуем... пустоту. Всё кончено.
+changeling-stasis-exit-fail-time = Наше тело всё ещё восстанавливается!
+changeling-stasis-exit-defib = Через нас проходит разряд. Наш стазис прерван!
 
 changeling-fail-hands = Сначала нужно освободить руки.
 

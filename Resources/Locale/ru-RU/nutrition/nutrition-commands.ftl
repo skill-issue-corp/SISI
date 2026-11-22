@@ -1,12 +1,12 @@
-cmd-nutrition-satiation-need = {$satiation} satiation need
+cmd-nutrition-satiation-need = потребность «{$satiation}»
 
-cmd-setsatiation-desc = Sets your satiation need.
-cmd-setsatiation-help = Sets your specified satiation need to the specified threshold.
+cmd-setsatiation-desc = Задаёт уровень вашей потребности в насыщении.
+cmd-setsatiation-help = Задаёт указанной потребности в насыщении указанный порог.
 
-cmd-nutrition-setsatiation-prototype-error = Invalid satiation \"{$satiation-proto-id}\"
-cmd-nutrition-setsatiation-no-matching-key-error = Unrecognized key \"{$key}\" for satiation \"{$satiation-proto-id}\"
-cmd-nutrition-setsatiation-hint-key = Satiation Value Key
-cmd-nutrition-setsatiation-hint-max-value = Maximum Value
+cmd-nutrition-setsatiation-prototype-error = Недопустимый тип насыщения \"{$satiation-proto-id}\"
+cmd-nutrition-setsatiation-no-matching-key-error = Неизвестный ключ \"{$key}\" для типа насыщения \"{$satiation-proto-id}\"
+cmd-nutrition-setsatiation-hint-key = Ключ Уровня Насыщения
+cmd-nutrition-setsatiation-hint-max-value = Максимальное Значение
 
-cmd-unsatiate-desc = Makes your satiation needs desperate.
-cmd-unsatiate-help = Sets the specified satiation needs to the "desperate" threshold. Affects specified satiation types, or all types if none are specified.
+cmd-unsatiate-desc = Доводит ваши потребности в насыщении до критического уровня.
+cmd-unsatiate-help = Задаёт указанным потребностям в насыщении критический порог «desperate». Затрагивает указанные типы насыщения или все типы, если ни один не указан.

@@ -39,9 +39,9 @@ ent-DrinkSugarJug = кувшин сахара
     .desc = Некоторые добавляют это в кофе...
     .suffix = Для напитков, Полный
 
-ent-DrinkJuiceLemonJug = lemon juice jug
-    .desc = The very definiton of sour.
-    .suffix = For Drinks, Full
+ent-DrinkJuiceLemonJug = кувшин лимонного сока
+    .desc = Само воплощение кислоты.
+    .suffix = Для напитков, Полный
 
 ent-DrinkLemonLimeJug = кувшин «Смайт»
     .desc = Двойное цитрусовое ощущение.
@@ -49,9 +49,9 @@ ent-DrinkLemonLimeJug = кувшин «Смайт»
 ent-DrinkMeadJug = кувшин мёда (напитка)
     .desc = Хранить медовуху в пластиковом кувшине должно быть преступлением.
 
-ent-DrinkMilkJug = milk jug
-    .desc = Two cartons in one!
-    .suffix = For Drinks, Full
+ent-DrinkMilkJug = кувшин молока
+    .desc = Целых две упаковки в одной!
+    .suffix = Для напитков, Полный
 
 ent-DrinkIceJug = кувшин льда
     .desc = Упрямая вода. Довольно классная.
@@ -71,9 +71,9 @@ ent-DrinkGreenTeaJug = кувшин зелёного чая
 ent-DrinkIcedTeaJug = кувшин холодного чая
     .desc = Для тех случаев, когда обычный чай для вас слишком горячий. Бу-у-у.
 
-ent-DrinkJuicePineappleJug = pineapple juice jug
-    .desc = The very essence of a vacation.
-    .suffix = For Drinks, Full
+ent-DrinkJuicePineappleJug = кувшин ананасового сока
+    .desc = Сама суть отпуска.
+    .suffix = Для напитков, Полный
 
 ent-DrinkDrGibbJug = кувшин «Доктора Гибба»
     .desc = 42 разных вкуса... в кувшине!
@@ -81,13 +81,13 @@ ent-DrinkDrGibbJug = кувшин «Доктора Гибба»
 ent-DrinkRootBeerJug = кувшин рутбира
     .desc = Этот напиток заставляет австралийцев хихикать.
 
-ent-DrinkSolDryJug = sol dry jug
-    .desc = Great for treating a hangover, no wonder the bar has a jug of it.
-    .suffix = For Drinks, Full
+ent-DrinkSolDryJug = кувшин сол-драя
+    .desc = Отличное средство от похмелья. Немудрено, что в баре есть целый кувшин.
+    .suffix = Для напитков, Полный
 
-ent-DrinkJuiceTomatoJug = tomato juice jug
-    .desc = Tastes like a debatably categorized plant.
-    .suffix = For Drinks, Full
+ent-DrinkJuiceTomatoJug = кувшин с томатным соком
+    .desc = На вкус как растение, о котором спорят, овощ оно или фрукт.
+    .suffix = Для напитков, Полный
 
 ent-DrinkWaterMelonJuiceJug = кувшин арбузного сока
     .desc = Может содержать оставшиеся косточки.

@@ -1,4 +1,7 @@
-job-listings-round-end = {$name} completed {$count ->
-    [1] 1 sidejob
-    *[other] {$count} sidejobs
-} and earned {$reputation} reputation, achieving the title [color=red]{$title}[/color].
+job-listings-round-end = {$name} завершает {$count ->
+    [1] 1 подработку
+    [one] {$count} подработку
+    [few] {$count} подработки
+    [many] {$count} подработок
+    *[other] {$count} подработки
+} и получает {$reputation} репутации, достигнув звания [color=red]{$title}[/color].

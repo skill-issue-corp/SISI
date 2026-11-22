@@ -10,7 +10,7 @@ ent-JudoDiscombobulateStatusEffect = замедление от дзюдо-оше
 ent-CircleKickSlowdownStatusEffect = замедление от кругового удара
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-PushKickVulnerabilityStatusEffect = winded
+ent-PushKickVulnerabilityStatusEffect = измотанный
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectAttackSpeed = скорость атаки

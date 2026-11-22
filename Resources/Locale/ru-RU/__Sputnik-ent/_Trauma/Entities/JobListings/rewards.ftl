@@ -1,6 +1,6 @@
 ent-Telecrystal7 = { ent-Telecrystal }
     .desc = { ent-Telecrystal.desc }
-    .suffix = 7 TC
+    .suffix = 7 ТК
 
-ent-SyndicateFinalReward = syndicate lifetime achievement award
-    .desc = You've done it. You've made it. You are a living legend.
+ent-SyndicateFinalReward = награда Синдиката за выдающиеся заслуги
+    .desc = Вы справились. Вы добились своего. Вы — живая легенда.

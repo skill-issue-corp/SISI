@@ -3,4 +3,4 @@ construction-graph-tag-ed-ai-control-module = Модуль ИИ-ядра ED-209
 construction-graph-tag-ed-iff-module = Модуль системы «свой-чужой» ED-209
 construction-graph-tag-ed-weapon-control-module = Модуль управления оружием и наведения ED-209
 
-borg-slot-body-bag-folded-empty = Body Bag
+borg-slot-body-bag-folded-empty = Мешок Для Тела

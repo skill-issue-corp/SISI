@@ -78,8 +78,8 @@ ent-ScrapMopBucket = половина ведра для швабры
     .desc = Тайдеры умирают. Уборщики выживают.
     .suffix = { ent-BaseScrap.suffix }
 
-ent-ScrapTarget = bloodied target
-    .desc = Seems like something must have gotten in the way of its purpose.
+ent-ScrapTarget = окровавленная мишень
+    .desc = Кажется, что-то помешало ей выполнить своё предназначение.
 
 ent-ScrapPAI = персональный ИИ
     .desc = Дружище! Ты ещё там? Алло? Дружище???

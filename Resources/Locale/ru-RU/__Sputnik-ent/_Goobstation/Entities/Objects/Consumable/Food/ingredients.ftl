@@ -1,9 +1,5 @@
-# AUTOGEN-Start
-# пакет с протеиновым порошком
-# .desc = Содержит 10u порошкового протеина. Смешайте с 20u воды.
-# AUTOGEN-End TODO(Update_Locale):
-ent-FoodCondimentPacketProtein = protein powder packet
-    .desc = Contains 8.333333mL of powdered protein. Mix with 8.333333mL of water.
+ent-FoodCondimentPacketProtein = пакет с протеиновым порошком
+    .desc = Содержит 8.333333mL белкового порошка. Смешайте с 8.333333mL воды.
 
 ent-FoodFreedomCheeseBlock = головка сыра свободы
     .desc = Твёрдый блок сыра, закупоривающий артерии, по сомнительному рецепту старого мира. Нарежьте его для друзей… или съешьте весь блок сами, странный вы человек.

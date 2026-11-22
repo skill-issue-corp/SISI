@@ -1,10 +1,10 @@
 # Filter
-plumbing-filter-unset = There is no filter set, [color=green]all reagents[/color] are allowed.
-plumbing-filter-set = There is a filter set to [color=red]{$reagent}[/color], no other reagents are allowed.
-plumbing-filter-changed = Changed the filter to {$reagent}
-plumbing-filter-removed = Removed the set filter
+plumbing-filter-unset = Фильтр не задан, разрешены [color=green]все реагенты[/color].
+plumbing-filter-set = Установлен фильтр на [color=red]{$reagent}[/color], остальные реагенты не пропускаются.
+plumbing-filter-changed = Фильтр настроен на {$reagent}
+plumbing-filter-removed = Фильтр сброшен
 
-plumbing-filter-window-title = Configure liquid filter
-plumbing-filter-window-default = Select a filter to change or remove
-plumbing-filter-window-change = Change the filter to {$reagent}
-plumbing-filter-window-remove = Remove set filter
+plumbing-filter-window-title = Настройка фильтра жидкостей
+plumbing-filter-window-default = Выберите фильтр для изменения или сброса
+plumbing-filter-window-change = Настроить фильтр на {$reagent}
+plumbing-filter-window-remove = Сбросить фильтр

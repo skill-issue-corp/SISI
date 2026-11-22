@@ -1,7 +1,4 @@
-# AUTOGEN-Start
-# яйцо
-# AUTOGEN-End TODO(Update_Locale):
-ent-BaseRanchingEgg = fertilized egg
+ent-BaseRanchingEgg = оплодотворённое яйцо
     .desc = { ent-FoodEggBase.desc }
 
 ent-WhiteEgg = { ent-BaseRanchingEgg }

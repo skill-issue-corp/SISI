@@ -11,5 +11,5 @@ ent-ClothingBagPet = сумка питомца
 ent-ClothingBackpackHarmpack = Н.А.С.И.Л.И.У.М.
     .desc = Теперь вы можете перезаряжаться, драться и кушать одновременно.
 
-ent-XenoborgMaterialBag = silicon storage square
-    .desc = A knockoff version of a bluespace bag, can vacuum up select materials, unfit for use by humanoids due to harmful emissions.
+ent-XenoborgMaterialBag = квадратный контейнер синтетиков
+    .desc = Копия блюспейс-сумки, которая всасывает отдельные материалы. Гуманоидам не подходит из-за вредного излучения.

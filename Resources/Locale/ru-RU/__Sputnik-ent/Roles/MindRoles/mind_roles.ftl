@@ -40,11 +40,8 @@ ent-MindRoleJob = Роль работа
 ent-MindRoleSiliconBrain = Роль мозг борга
     .desc = { ent-BaseMindRole.desc }
 
-# AUTOGEN-Start
-# Роль дефектный синтетик
-# AUTOGEN-End TODO(Update_Locale):
-ent-MindRoleSubvertedSilicon = Subverted Silicon Role
-    .desc = null
+ent-MindRoleSubvertedSilicon = Роль дефектный синтетик
+    .desc = нуль
 
 ent-MindRoleDragon = Роль дракон
     .desc = { ent-BaseMindRoleAntag.desc }
@@ -85,10 +82,10 @@ ent-MindRoleTraitorSleeper = Роль спящий агент
 ent-MindRoleTraitorReinforcement = Роль подкрепление Синдикат
     .desc = { ent-MindRoleTraitor.desc }
 
-ent-MindRoleMothershipCore = Mothership Core Role
+ent-MindRoleMothershipCore = Роль Ядра Корабля-Матки
     .desc = { ent-BaseMindRoleAntag.desc }
 
-ent-MindRoleXenoborg = Xenoborg Role
+ent-MindRoleXenoborg = Роль Ксеноборга
     .desc = { ent-BaseMindRoleAntag.desc }
 
 ent-MindRoleInitialInfected = Роль нулевой пациент
@@ -97,5 +94,5 @@ ent-MindRoleInitialInfected = Роль нулевой пациент
 ent-MindRoleZombie = Роль зомби
     .desc = { ent-MindRoleGhostRoleTeamAntagonistFlock.desc }
 
-ent-MindRoleChangeling = Changeling Role
+ent-MindRoleChangeling = Роль Генокрада
     .desc = { ent-BaseMindRoleAntag.desc }

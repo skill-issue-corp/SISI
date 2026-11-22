@@ -16,8 +16,8 @@ generic-not-available-shorthand = Н/Д
 generic-article-a = это
 generic-article-an = это
 
-generic-and = and
-generic-or = or
+generic-and = и
+generic-or = или
 
 generic-unknown = неизвестно
 generic-unknown-title = Неизвестно
@@ -26,11 +26,11 @@ generic-invalid = недействительно
 
 generic-hours = часов
 generic-minutes = минут
-generic-seconds = seconds
+generic-seconds = сек.
 
 generic-playtime-title = Игровое время
 
 generic-confirm = Подтвердить
-generic-disabled = Disabled
+generic-disabled = Отключено
 
-generic-no-access = Insufficient access.
+generic-no-access = Недостаточно прав доступа.

@@ -175,10 +175,7 @@ ent-MobChickCluwne = клувень-цыплёнок
 ent-MobCluwneHen = клувень-курица
     .desc = { ent-BaseMobHenRanch.desc }
 
-# AUTOGEN-Start
-# клувень-петух
-# AUTOGEN-End TODO(Update_Locale):
-ent-MobCluwneRooster = huOnkHoNkHoeNKs
+ent-MobCluwneRooster = клувень-петух
     .desc = { ent-BaseMobRangedRoosterRanch.desc }
 
 ent-GlassChickenBase = { "" }

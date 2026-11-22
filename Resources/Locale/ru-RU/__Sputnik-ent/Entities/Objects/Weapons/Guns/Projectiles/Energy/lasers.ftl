@@ -1,14 +1,14 @@
-ent-BulletLaser = laser bolt
+ent-BulletLaser = лазерный заряд
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletLaserSpread = wide laser barrage
+ent-BulletLaserSpread = широкий лазерный залп
     .desc = { ent-BulletLaser.desc }
 
-ent-BulletLaserSpreadNarrow = lethal laser barrage
+ent-BulletLaserSpreadNarrow = узкий лазерный залп
     .desc = { ent-BulletLaser.desc }
 
-ent-BulletLaserMagnum = magnum laser bolt
+ent-BulletLaserMagnum = лазерный заряд «Магнум»
     .desc = { ent-BulletLaser.desc }
 
-ent-BulletLaserWindowPiercingMagnum = magnum window-piercing bolt
+ent-BulletLaserWindowPiercingMagnum = пробивающий окна лазерный заряд «Магнум»
     .desc = { ent-BulletLaser.desc }

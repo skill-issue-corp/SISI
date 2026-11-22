@@ -7,10 +7,7 @@
 
 # Traitor single items
 # Trauma
-# AUTOGEN-Start
-# гипоспрей
-# AUTOGEN-End TODO(Update_Locale):
-steal-target-groups-hypospray = prototype hypospray
+steal-target-groups-hypospray = прототип гипоспрея
 steal-target-groups-clothing-hands-knuckledusters-qm = золотые кастеты
 steal-target-groups-handheld-crew-monitor = портативный монитор экипажа
 steal-target-groups-clothing-outer-hardsuit-rd = экспериментальный исследовательский скафандр

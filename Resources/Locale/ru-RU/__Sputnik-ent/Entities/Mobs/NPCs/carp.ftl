@@ -17,13 +17,9 @@ ent-MobCarpSalvage = { ent-MobCarp }
     .suffix = Подземелье
     .desc = { ent-MobCarp.desc }
 
-# AUTOGEN-Start
-# космический карп
-# .suffix = Драконье Потомство
-# AUTOGEN-End TODO(Update_Locale):
-ent-MobCarpDragon = space carp
+ent-MobCarpDragon = космический карп
     .desc = { ent-MobDragonBrood.desc }
-    .suffix = DragonBrood
+    .suffix = Драконье Потомство
 
 ent-MobCarpDungeon = { ent-MobCarp }
     .suffix = Подземелье
@@ -38,4 +34,4 @@ ent-MobSharkSalvage = { ent-MobShark }
 
 ent-MobSharkDragon = { ent-MobDragonBrood }
     .desc = { ent-MobDragonBrood.desc }
-    .suffix = DragonBrood
+    .suffix = Драконье потомство

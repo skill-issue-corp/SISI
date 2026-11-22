@@ -25,5 +25,5 @@ ent-StatusEffectFriction = трение
 ent-StatusEffectStunned = оглушение
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectKnockdown = knockdown
+ent-StatusEffectKnockdown = сбивание с ног
     .desc = { ent-MobStatusEffectDebuff.desc }

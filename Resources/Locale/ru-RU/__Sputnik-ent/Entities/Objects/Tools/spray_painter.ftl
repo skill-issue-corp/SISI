@@ -1,20 +1,13 @@
-# AUTOGEN-Start
-# .suffix = Адмем
-# AUTOGEN-End TODO(Update_Locale):
-ent-SprayPainterRecharging = spray painter
-    .desc = A spray painter for painting airlocks, pipes, and other items.
-    .suffix = Admeme
+ent-SprayPainterRecharging = краскопульт
+    .desc = Краскопульт для окрашивания шлюзов и труб.
+    .suffix = Адмем
 
-# AUTOGEN-Start
-# краскопульт
-# .desc = Краскопульт для окрашивания шлюзов и труб.
-# AUTOGEN-End TODO(Update_Locale):
 ent-SprayPainter = { ent-SprayPainterRecharging }
     .desc = { ent-SprayPainterRecharging.desc }
 
-ent-SprayPainterBorg = experimental spray painter
-    .desc = An experimental recharging spray painter that can infinitely replicate compressed paint.
-    .suffix = Borg
+ent-SprayPainterBorg = экспериментальный распылитель
+    .desc = Экспериментальный подзарядный распылитель, который может бесконечно копировать сжатую краску.
+    .suffix = Борг
 
 ent-SprayPainterEmpty = { ent-SprayPainter }
     .suffix = Пустой

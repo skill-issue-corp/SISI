@@ -4,8 +4,8 @@ ent-GasCanister = газовый баллон
 ent-StorageCanister = баллон для хранения
     .desc = { ent-GasCanister.desc }
 
-ent-AirCanister = air canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain air mixture. It can be attached to connector ports using a wrench.
+ent-AirCanister = баллон с воздухом
+    .desc = Баллон, способный хранить любой газ. В этом должна быть воздушная смесь. Подсоединяется к соединительному порту гаечным ключом.
 
 ent-OxygenCanister = баллон с кислородом
     .desc = Баллон, способный вмещать газ любого типа. Этот предназначен для кислорода. Может быть подключён к коннекторным портам с помощью гаечного ключа.

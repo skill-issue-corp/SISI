@@ -1,1 +1,1 @@
-tiles-cult-floor = cult floor
+tiles-cult-floor = пол культа

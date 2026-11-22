@@ -58,5 +58,5 @@ ent-ClothingNeckAutismPin = значок "аутизм"
 ent-ClothingNeckGoldAutismPin = значок "аутизм"
     .desc = Значок в честь дня распространения информации о проблеме аутизма.
 
-ent-SprayFlowerPin = flower pin
-    .desc = A cute flower pin. Something seems off with it...
+ent-SprayFlowerPin = значок-цветок
+    .desc = Милый цветочный значок. Что-то с ним не так...

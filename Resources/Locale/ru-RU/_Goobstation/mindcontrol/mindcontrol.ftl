@@ -4,7 +4,7 @@ mindcontrol-briefing-start = Вы под контролем разума. Пов
 mindcontrol-briefing-get = ВЫ ПОД КОНТРОЛЕМ РАЗУМА
 mindcontrol-briefing-get-master = Повинуйтесь { $master }
 
-antag-name-mind-controlled = mind controlled
+antag-name-mind-controlled = под контролем разума
 
 ## uplink shop
 uplink-mindcontrol-implant-name = Имплантер Контроля Разума

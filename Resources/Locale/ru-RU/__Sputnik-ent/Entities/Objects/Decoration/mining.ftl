@@ -10,14 +10,11 @@ ent-BaseWoodenSupport = { ent-BaseStructure }
 ent-WoodenSupport = деревянная опора
     .desc = Повышает уверенность в том, что камень не свалится на голову.
 
-# AUTOGEN-Start
-# деревянная опорная балка
-# AUTOGEN-End TODO(Update_Locale):
-ent-WoodenSupportBeam = wooden support beam
-    .desc = A pair of wooden beams, supportive without blocking your way.
+ent-WoodenSupportBeam = деревянная опорная балка
+    .desc = Две деревянные балки. Поддерживают конструкцию и оставляют проход свободным.
 
 ent-WoodenSupportWall = деревянная опорная стена
     .desc = Старая, гнилая стена.
 
-ent-WoodenSupportWallBroken = broken wooden support wall
-    .desc = A broken, no good, lousy old rotten wall.
+ent-WoodenSupportWallBroken = разбитая деревянная опорная стена
+    .desc = Сломанная, негодная, паршивая старая гнилая стена.

@@ -16,7 +16,7 @@ carp-scroll-advance = Вы стали на один шаг ближе к том�
 carp-scroll-complete = Теперь вы мастер Пути Спящего Карпа.
 
 carp-saying-huah = ХУА!
-carp-saying-hya = HYA!
+carp-saying-hya = ХЬЯ!
 carp-saying-choo = ЧУУ!
 carp-saying-wuo = ВУО!
 carp-saying-kya = КЬЯ!
@@ -44,12 +44,12 @@ martial-arts-action-sender = Вы ударили {$name} приёмом {$move}
 martial-arts-action-receiver = {$name} ударил вас приёмом {$move}
 
 martial-arts-fail-prone = Вы не можете использовать это комбо лёжа!
-martial-arts-fail-standing = You can't use this combo while standing up!
+martial-arts-fail-standing = Нельзя выполнить этот приём стоя!
 martial-arts-fail-target-down = Вы не можете использовать это комбо на упавших целях!
 martial-arts-fail-target-standing = Вы не можете использовать это комбо на стоящих целях!
-martial-arts-fail-target-alive = You can only use this on dead targets!
-martial-arts-fail-target-headless = They have no head to rip!
-martial-arts-fail-target-muted = You already took them down!
+martial-arts-fail-target-alive = Этот приём действует только на мёртвых!
+martial-arts-fail-target-headless = У цели нет головы, которую можно оторвать!
+martial-arts-fail-target-muted = Вы уже обезвредили цель!
 capoeira-fail-low-velocity = Вы слишком медлительны, чтобы выполнить это комбо!
 ninjutsu-fail-loss-of-surprise = Ваши намерения раскрыты! Невозможно выполнить этот приём!
 
@@ -64,7 +64,7 @@ cqc-kick = БАМ!
 cqc-restrain = Захват!
 cqc-pressure = Шлёп!
 cqc-consecutive = ПОДРЯД! Р! Б! К!
-cqc-leg-sweep = Hiya!
+cqc-leg-sweep = Хия!
 spacebear-bearjaws = УКУС!
 spacebear-pawslam = УДАР ЛАПОЙ!
 spacebear-smokey = СМОКИ!

@@ -1,9 +1,5 @@
-# AUTOGEN-Start
-# разрыватель щита
-# .desc = Устройство, которое быстро и болезненно вырывает щит разума из человека, может быть использовано только один раз.
-# AUTOGEN-End TODO(Update_Locale):
-ent-RevShieldRipper = shield ripper
-    .desc = A device that quickly and painfully rips the mindshield out of someone. It can only be used once.
+ent-RevShieldRipper = разрушитель щита
+    .desc = Устройство быстро и болезненно вырывает имплант Щит Разума. Одноразовое.
 
 ent-FakeMindShieldImplanterRev = имплантер фальшивого щита разума
     .desc = { ent-BaseImplantOnlyImplanter.desc }

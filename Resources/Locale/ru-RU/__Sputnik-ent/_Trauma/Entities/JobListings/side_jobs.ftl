@@ -14,13 +14,13 @@ ent-StealSideJob = { ent-BaseMajorSideJob }
     .desc = { ent-BaseMajorSideJob.desc }
 
 ent-KillSideJob = { ent-BaseMajorSideJob }
-    .desc = You have been hired to end someone's life. Kill them, then claim your reward. We don't care what happens to them afterwards.
+    .desc = Вас наняли, чтобы оборвать чью-то жизнь. Убейте цель и заберите награду. Дальнейшая судьба цели нас не интересует.
 
 ent-BaseExtremeSideJob = { ent-BaseSideJob }
     .desc = { ent-BaseSideJob.desc }
 
 ent-KillHeadSideJob = { ent-BaseExtremeSideJob }
-    .desc = This is no longer about contract killing - we need to make Nanotrasen afraid. Kill one of them. Kill a head of staff.
+    .desc = Дело уже не в заказном убийстве - нам нужно напугать NanoTrasen. Убейте одного из них. Убейте главу отдела.
 
 ent-BaseFinalSideJob = { ent-BaseSideJob }
     .desc = { ent-BaseSideJob.desc }

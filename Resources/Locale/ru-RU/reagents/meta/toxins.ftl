@@ -1,8 +1,5 @@
 reagent-name-toxin = токсин
-# AUTOGEN-Start
-# Как ни странно, токсичный химикат. Доступен в емагнутом химическом раздатчике.
-# AUTOGEN-End TODO(Update_Locale):
-reagent-desc-toxin = An unsurprisingly toxic chemical.
+reagent-desc-toxin = Как и следовало ожидать, токсичное вещество.
 
 reagent-name-carpotoxin = карпотоксин
 reagent-desc-carpotoxin = Высокотоксичный химикат, содержащийся в космических карпах. Вызывает болезненное чувство жжения.
@@ -88,14 +85,14 @@ reagent-desc-mechanotoxin = Нейротоксин, используемый в 
 reagent-name-toxintrash = мусор
 reagent-desc-toxintrash = Жидкость с ужасным запахом. Смертельна для всех, кроме воксов.
 
-reagent-name-hemorrhinol = hemorrhinol
-reagent-desc-hemorrhinol = A toxin that causes severe damage to blood vessels, causing rapid bleeding.
+reagent-name-hemorrhinol = геморринол
+reagent-desc-hemorrhinol = Токсин, который сильно повреждает кровеносные сосуды и вызывает быстрое кровотечение.
 
-reagent-name-hivarol = hivarol
-reagent-desc-hivarol = A toxin that attacks specific types of cells in the body, damaging hivemind communication and causing severe pain if one is present.
+reagent-name-hivarol = хиварол
+reagent-desc-hivarol = Токсин поражает определённые клетки тела, нарушает связь с коллективным разумом и причиняет сильную боль тем, кто с ним связан.
 
-reagent-name-phosphoric-acid = phosphoric acid
-reagent-desc-phosphoric-acid = An acidic chemical often used in agriculture. Keep away from your eyes.
+reagent-name-phosphoric-acid = фосфорная кислота
+reagent-desc-phosphoric-acid = Кислота, которую часто применяют в сельском хозяйстве. Берегите глаза.
 
-reagent-name-hardlight-toxin = hardlight toxin
-reagent-desc-hardlight-toxin = A highly advanced toxin which inundates a victim's nervous system with ionizing radiation when metabolized.
+reagent-name-hardlight-toxin = токсин твёрдого света
+reagent-desc-hardlight-toxin = Передовой токсин, который при метаболизме подвергает нервную систему жертвы воздействию ионизирующего излучения.

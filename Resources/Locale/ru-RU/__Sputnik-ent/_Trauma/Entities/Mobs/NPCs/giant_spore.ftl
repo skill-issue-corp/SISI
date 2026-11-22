@@ -1,5 +1,5 @@
-ent-GiantSpore = giant spore
-    .desc = A giant yet delicate spore, ready to burst into a similarly giant mushroom.
+ent-GiantSpore = гигантская спора
+    .desc = Гигантская, но хрупкая спора, готовая лопнуть и превратиться в такой же гигантский гриб.
 
-ent-GiantMushroomSpawner = giant mushroom spawner
+ent-GiantMushroomSpawner = точка спавна гигантского гриба
     .desc = { "" }

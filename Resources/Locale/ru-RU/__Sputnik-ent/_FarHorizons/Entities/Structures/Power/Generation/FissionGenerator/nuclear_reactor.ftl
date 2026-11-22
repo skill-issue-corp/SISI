@@ -6,7 +6,7 @@ ent-NuclearReactorCrew = { ent-BaseNuclearReactor }
 
 ent-NuclearReactorCrewRunning = { ent-NuclearReactorCrew }
     .desc = { ent-NuclearReactorCrew.desc }
-    .suffix = Running
+    .suffix = Работает
 
 ent-NuclearReactorEmpty = { ent-NuclearReactorCrew }
     .desc = { ent-NuclearReactorCrew.desc }

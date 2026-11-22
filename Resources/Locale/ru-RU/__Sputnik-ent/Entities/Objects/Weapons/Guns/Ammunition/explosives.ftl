@@ -7,65 +7,35 @@ ent-CartridgeRocketSlow = выстрел ПГ-7ВЛ "Улитка"
 ent-BaseGrenade = базовая граната-снаряд
     .desc = { ent-BaseItem.desc }
 
-# AUTOGEN-Start
-# шоковый снаряд
-# AUTOGEN-End TODO(Update_Locale):
-ent-GrenadeBaton = baton grenade
-    .desc = A grenade round containing a single non-lethal projectile. Like being punched in the solar plexus.
+ent-GrenadeBaton = шоковая граната
+    .desc = Гранатомётный выстрел с одним нелетальным снарядом. Как удар в солнечное сплетение.
 
-# AUTOGEN-Start
-# фугасный снаряд
-# AUTOGEN-End TODO(Update_Locale):
-ent-GrenadeBlast = blast grenade round
-    .desc = A grenade round containing an explosive compound made specifically for breaching the reinforced hulls of space stations.
+ent-GrenadeBlast = фугасный гранатомётный выстрел
+    .desc = Гранатомётный выстрел со взрывчатым составом, предназначенным для пробития усиленной обшивки космических станций.
 
-# AUTOGEN-Start
-# светошумовой снаряд
-# AUTOGEN-End TODO(Update_Locale):
-ent-GrenadeFlash = flash grenade round
-    .desc = A grenade round containing a chemical compound causing a blinding flash of light on impact.
+ent-GrenadeFlash = световой гранатомётный выстрел
+    .desc = Гранатомётный выстрел с составом, который при попадании даёт ослепительную вспышку.
 
-# AUTOGEN-Start
-# осколочный снаряд
-# AUTOGEN-End TODO(Update_Locale):
-ent-GrenadeFrag = frag grenade round
-    .desc = A grenade round containing a concentrated anti-personnel explosive alongside shrapnel, shredding anyone close to the impact zone.
+ent-GrenadeFrag = осколочный гранатомётный выстрел
+    .desc = Гранатомётный выстрел с мощным противопехотным зарядом и шрапнелью. Разрывает всех рядом с местом попадания.
 
-# AUTOGEN-Start
-# чистящий снаряд
-# AUTOGEN-End TODO(Update_Locale):
-ent-GrenadeCleanade = cleanade grenade round
-    .desc = A grenade round containing space cleaner foam. For when you need to declare war on the concept of messiness.
+ent-GrenadeCleanade = чистящий снаряд
+    .desc = Гранатомётный выстрел с пеной космического очистителя. Для тех, кто готов объявить войну самому понятию беспорядка.
 
-# AUTOGEN-Start
-# ЭМИ снаряд
-# AUTOGEN-End TODO(Update_Locale):
-ent-GrenadeEMP = EMP grenade round
-    .desc = A grenade round containing an chemical compound calibrated to cause an electromagnetic pulse on impact.
+ent-GrenadeEMP = ЭМИ-гранатомётный выстрел
+    .desc = Гранатомётный выстрел с составом, который при попадании создаёт электромагнитный импульс.
 
 ent-BaseCannonBall = базовое пушечное ядро
     .desc = { ent-BaseItem.desc }
 
-# AUTOGEN-Start
-# пушечное ядро
-# .suffix = Пират
-# AUTOGEN-End TODO(Update_Locale):
-ent-CannonBall = cannonball
-    .desc = Extreme dodgeball.
-    .suffix = Pirate
+ent-CannonBall = пушечное ядро
+    .desc = Экстремальные вышибалы.
+    .suffix = Пират
 
-# AUTOGEN-Start
-# картечь
-# .suffix = Пираты
-# AUTOGEN-End TODO(Update_Locale):
-ent-CannonBallGrapeshot = grapeshot
-    .desc = A spread of small iron balls that scatter upon being fired. For when you need to send a strongly worded message but don't know exactly where your enemy is.
-    .suffix = Pirate
+ent-CannonBallGrapeshot = картечь
+    .desc = Россыпь мелких железных шариков. Для тех, кто хочет выразить своё возмущение, но не знает, где именно засел противник.
+    .suffix = Пираты
 
-# AUTOGEN-Start
-# стеклянная картечь
-# .suffix = Пираты
-# AUTOGEN-End TODO(Update_Locale):
-ent-CannonBallGlassshot = glassshot
-    .desc = Turns out you can just put a bunch of glass into a cannon and fire it. Causes nasty cuts.
-    .suffix = Pirate
+ent-CannonBallGlassshot = стеклянная картечь
+    .desc = Оказывается, в пушку можно просто засыпать битое стекло и выстрелить. Оставляет жуткие порезы.
+    .suffix = Пираты

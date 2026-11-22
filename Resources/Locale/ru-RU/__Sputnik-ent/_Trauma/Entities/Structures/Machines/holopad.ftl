@@ -8,4 +8,4 @@ ent-HolopadScienceGenetics = { ent-Holopad }
 
 ent-HolopadEngineeringReactor = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Reactor
+    .suffix = Реактор

@@ -37,10 +37,7 @@ alerts-handcuffed-name = [color=yellow]В наручниках[/color]
 alerts-handcuffed-desc = На вас [color=yellow]надели наручники[/color] и вы не можете использовать руки. Если кто-нибудь вас потащит, вы не сможете сопротивляться.
 
 alerts-ensnared-name = [color=yellow]Захваченный[/color]
-# AUTOGEN-Start
-# Вы [color=yellow]попали в ловушку[/color], и это мешает вам двигаться.
-# AUTOGEN-End TODO(Update_Locale):
-alerts-ensnared-desc = You're [color=yellow]ensnared[/color] and is impairing your ability to move. Click with a free hand to remove.
+alerts-ensnared-desc = Вы [color=yellow]опутаны[/color], и вам сложно передвигаться. Нажмите свободной рукой, чтобы освободиться.
 
 alerts-buckled-name = [color=yellow]Пристёгнуты[/color]
 alerts-buckled-desc = Вы к чему-то [color=yellow]пристёгнуты[/color]. Щёлкните по иконке чтобы отстегнуться, если на вас [color=yellow]не надеты наручники.[/color]
@@ -114,5 +111,5 @@ alerts-rooted-desc = Вы укоренились к полу. Вы не може
 alerts-stealthy-name = Карманная кража
 alerts-stealthy-desc = Показывает, совершаете ли вы в данный момент карманную кражу. Нажмите, чтобы переключить.
 
-alerts-prying-name = Prying
-alerts-prying-desc = You can innately pry doors open using alternative interaction.
+alerts-prying-name = Вскрытие
+alerts-prying-desc = Вы можете вскрывать двери без инструментов с помощью альтернативного взаимодействия.

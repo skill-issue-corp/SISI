@@ -1,52 +1,52 @@
 ent-HitscanEffect = { "" }
     .desc = { "" }
 
-ent-BasicHitscan = basic hitscan
+ent-BasicHitscan = базовый хитскан
     .desc = { "" }
 
-ent-LaserHitscanBase = basic laser ray
+ent-LaserHitscanBase = базовый лазерный луч
     .desc = { ent-BasicHitscan.desc }
 
-ent-RedLightLaser = red light laser ray
+ent-RedLightLaser = красный световой лазерный луч
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-RangeLaser = green laser
+ent-RangeLaser = зеленый лазер
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-RedLaser = red laser ray
+ent-RedLaser = красный лазерный луч
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-RedMediumLaser = red amplified laser ray
+ent-RedMediumLaser = усиленный красный лазерный луч
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-XenoborgLaser = blue amplified laser ray
+ent-XenoborgLaser = синий усиленный лазерный луч
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-RedHeavyLaser = red high-energy laser ray
+ent-RedHeavyLaser = красный высокоэнергетический лазерный луч
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-XenoborgFireLaser = xenoborg fire laser ray
+ent-XenoborgFireLaser = огненный лазерный луч ксеноборга
     .desc = { ent-RedMediumLaser.desc }
 
-ent-XenoborgHeavyLaser = blue high-energy laser ray
+ent-XenoborgHeavyLaser = синий высокоэнергетический лазерный луч
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-RedLaserPractice = red practice laser ray
+ent-RedLaserPractice = красный тренировочный лазерный луч
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-XrayLaser = X-ray pulse beam
+ent-XrayLaser = Рентгеновский импульсный луч
     .desc = { ent-BasicHitscan.desc }
 
-ent-Pulse = blue high-energy laser ray
+ent-Pulse = синий высокоэнергетический лазерный луч
     .desc = { ent-BasicHitscan.desc }
 
-ent-RedShuttleLaser = shuttle class red laser ray
+ent-RedShuttleLaser = красный лазерный луч класса шаттла
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-DebugLaser = debug laser ray
+ent-DebugLaser = отладочный лазерный луч
     .desc = { ent-LaserHitscanBase.desc }
     .suffix = DEBUG
 
-ent-DebugLaserGib = debug gibbing ray
+ent-DebugLaserGib = отладочный расчленяющий луч
     .desc = { ent-DebugLaser.desc }
     .suffix = DEBUG

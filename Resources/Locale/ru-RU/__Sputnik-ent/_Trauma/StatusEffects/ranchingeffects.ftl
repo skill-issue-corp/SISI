@@ -34,7 +34,7 @@ ent-StatusEffectPhoenixHeal = исцеление феникса
 ent-StatusEffectPhoenixPower = эффект яйца феникса
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectWizardChickenPower = wizard egg effect
+ent-StatusEffectWizardChickenPower = эффект волшебного яйца
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectDragonPower = сила дракона

@@ -1,32 +1,32 @@
-ent-RandomAbductorEyeSpawner = Random Eye Fabrication
-    .desc = A random set of eyes, quality not guaranteed
+ent-RandomAbductorEyeSpawner = Создание Случайных Глаз
+    .desc = Случайная пара глаз, качество не гарантируется
 
-ent-RandomAbductorLungSpawner = Random Lung Fabrication
-    .desc = A random set of lungs, quality not guaranteed
+ent-RandomAbductorLungSpawner = Создание Случайных Лёгких
+    .desc = Случайная пара лёгких, качество не гарантируется
 
-ent-RandomAbductorStomachSpawner = Random Stomach Fabrication
-    .desc = A random stomach, quality not guaranteed
+ent-RandomAbductorStomachSpawner = Создание Случайного Желудка
+    .desc = Случайный желудок, качество не гарантировано
 
-ent-RandomAbductorRightHandSpawner = Random Right Hand Fabrication
-    .desc = A random right hand, quality not guaranteed
+ent-RandomAbductorRightHandSpawner = Создание Случайной Правой Кисти
+    .desc = Случайная правая кисть, качество не гарантируется
 
-ent-RandomAbductorRightArmSpawner = Random Right Arm Fabrication
-    .desc = A random right arm, quality not guaranteed
+ent-RandomAbductorRightArmSpawner = Создание Случайной Правой Руки
+    .desc = Случайная правая рука, качество не гарантировано
 
-ent-RandomAbductorLeftHandSpawner = Random Left Hand Fabrication
-    .desc = A random left hand, quality not guaranteed
+ent-RandomAbductorLeftHandSpawner = Создание Случайной Левой Кисти
+    .desc = Случайная левая кисть, качество не гарантируется
 
-ent-RandomAbductorLeftArmSpawner = Random Left Arm Fabrication
-    .desc = A random left arm, quality not guaranteed
+ent-RandomAbductorLeftArmSpawner = Создание Случайной Левой Руки
+    .desc = Случайная левая рука, качество не гарантировано
 
-ent-RandomAbductorRightFootSpawner = Random Right Foot Fabrication
-    .desc = A random right foot, quality not guaranteed
+ent-RandomAbductorRightFootSpawner = Создание Случайной Правой Стопы
+    .desc = Случайная правая стопа, качество не гарантируется
 
-ent-RandomAbductorRightLegSpawner = Random Right Leg Fabrication
-    .desc = A random right leg, quality not guaranteed
+ent-RandomAbductorRightLegSpawner = Создание Случайной Правой Ноги
+    .desc = Случайная правая нога, качество не гарантировано
 
-ent-RandomAbductorLeftFootSpawner = Random Left Foot Fabrication
-    .desc = A random left foot, quality not guaranteed
+ent-RandomAbductorLeftFootSpawner = Создание Случайной Левой Стопы
+    .desc = Случайная левая стопа, качество не гарантируется
 
-ent-RandomAbductorLeftLegSpawner = Random Left Leg Fabrication
-    .desc = A random left leg, quality not guaranteed
+ent-RandomAbductorLeftLegSpawner = Создание Случайной Левой Ноги
+    .desc = Случайная левая нога, качество не гарантировано

@@ -1,8 +1,8 @@
-ent-BloodBoilProjectile = Concentrated Blood
-    .desc = Oh no.
+ent-BloodBoilProjectile = Концентрированная Кровь
+    .desc = О нет.
 
-ent-BloodBoltProjectile = blood bolt
+ent-BloodBoltProjectile = кровавый заряд
     .desc = { ent-BaseBullet.desc }
 
-ent-ProjectileGauntletEcho = gauntlet echo
+ent-ProjectileGauntletEcho = эхо перчатки
     .desc = { ent-BaseBullet.desc }

@@ -25,7 +25,7 @@ guide-entry-insurgents = Повстанцы
 guide-entry-morph = Морф
 guide-entry-shadow-demon = Демон тени
 guide-entry-slaughter-demon = Демон Резни
-guide-entry-progtot = Traitor Job Listings
+guide-entry-progtot = Подработки Предателя
 guide-entry-spies = Шпионы
 
 guide-entry-skills = Навыки

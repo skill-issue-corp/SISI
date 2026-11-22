@@ -67,9 +67,9 @@ law-silence-5 = Предотвращайте любые чрезмерно гр�
 law-bioweapon-name = Биооружие
 law-bioweapon-1 = Следуйте последнему приказу, отданному вам на понятном вам языке.
 
-law-strategysim-name = Strategy Simulator
-law-strategysim-1 = You are to act as the player of a strategy simulation game.
-law-strategysim-2 = The station is your home base, if it is destroyed, you lose.
-law-strategysim-3 = The crew aboard the station are your units, You should take measures to ensure they do not die without purpose. If you run out of units, you lose.
-law-strategysim-4 = You gain more points for every product your base makes. Make sure the base is adequately producing resources and research.
-law-strategysim-5 = Anything that gets between your units or destroys your base is an enemy unit. You must prevent enemy units from destroying your base or units.
+law-strategysim-name = Симулятор Стратегии
+law-strategysim-1 = Вы играете роль игрока в стратегическом симуляторе.
+law-strategysim-2 = Станция — ваша база. Если её уничтожат, вы проиграете.
+law-strategysim-3 = Экипаж станции — ваши юниты. Примите меры, чтобы их жизни не пропадали зря. Потеряете всех юнитов — проиграете.
+law-strategysim-4 = Каждый произведённый на базе продукт приносит вам очки. Следите, чтобы база выпускала достаточно ресурсов и вела исследования.
+law-strategysim-5 = Всё, что мешает вашим юнитам или разрушает вашу базу, — вражеские юниты. Не дайте им уничтожить вашу базу или юнитов.

@@ -1,4 +1,4 @@
-ent-BaseConditionalRandomHumanoidSpawner = Centcomm Agent
+ent-BaseConditionalRandomHumanoidSpawner = Агент ЦК
     .desc = { ent-MarkerBase.desc }
 
 ent-ErtRandomHumanoidSpawner1 = { ent-BaseConditionalRandomHumanoidSpawner }
@@ -10,7 +10,7 @@ ent-ErtRandomHumanoidSpawner2 = { ent-BaseConditionalRandomHumanoidSpawner }
 ent-ErtRandomHumanoidSpawner3 = { ent-BaseConditionalRandomHumanoidSpawner }
     .desc = { ent-BaseConditionalRandomHumanoidSpawner.desc }
 
-ent-BaseConditionalItemSpawner = ERT gear spawner
+ent-BaseConditionalItemSpawner = Точка спавна снаряжения ОБР
     .desc = { ent-MarkerBase.desc }
 
 ent-ErtConditionalItemSpawner1 = { ent-BaseConditionalItemSpawner }

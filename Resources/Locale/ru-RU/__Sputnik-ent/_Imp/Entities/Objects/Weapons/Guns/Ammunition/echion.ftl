@@ -1,2 +1,2 @@
-ent-EchionCanister = echion canister
-    .desc = A special, disposable containment device designed for quickly refueling Echion plasma weapons.
+ent-EchionCanister = канистра с эхионом
+    .desc = Особый одноразовый контейнер для быстрой заправки плазменного оружия, использующего эхион.

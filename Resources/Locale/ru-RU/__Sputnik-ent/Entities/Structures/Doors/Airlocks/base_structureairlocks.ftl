@@ -1,5 +1,5 @@
-ent-BaseAirlockIndestructible = airlock
-    .desc = It opens, it closes, and maybe crushes you.
+ent-BaseAirlockIndestructible = шлюз
+    .desc = Он открывается, он закрывается и он может вас раздавить.
 
 ent-Airlock = шлюз
     .desc = Он открывается, он закрывается и он может вас раздавить.

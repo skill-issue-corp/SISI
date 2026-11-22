@@ -1,38 +1,38 @@
-ent-BaseAreaScience = science
+ent-BaseAreaScience = научный отдел
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaScience = science
+ent-AreaScience = наука
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaScienceBreak = science breakroom
+ent-AreaScienceBreak = комната отдыха научного отдела
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaScienceLobby = science lobby
+ent-AreaScienceLobby = холл научного отдела
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaScienceServer = server room
+ent-AreaScienceServer = серверная
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaTeleSci = TeleSci
+ent-AreaTeleSci = Теленаука
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaAnomalyLab = anomaly lab
+ent-AreaAnomalyLab = лаборатория аномалий
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaArtifactLab = artifact lab
+ent-AreaArtifactLab = лаборатория артефактов
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaCytology = cytology
+ent-AreaCytology = цитология
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaGenetics = genetics
+ent-AreaGenetics = генетика
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaXenobio = xenobio
+ent-AreaXenobio = ксенобиология
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaRobotics = robotics
+ent-AreaRobotics = робототехника
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaRoboticsMechBay = mech bay
+ent-AreaRoboticsMechBay = ангар мехов
     .desc = { ent-AreaRobotics.desc }

@@ -17,8 +17,8 @@ reagent-desc-e-z-nutrient = Дайте вашим растениям немно�
 reagent-name-left4-zed = left-4-zed
 reagent-desc-left4-zed = Коктейль из различных мутагенов, которые насыщают питательными веществами, но вредят и влияют на геном жизни растения.
 
-reagent-name-mutagenic-fertilizer = mutagenic fertilizer
-reagent-desc-mutagenic-fertilizer = A pungent fertilizer that mutates plants while keeping them edible.
+reagent-name-mutagenic-fertilizer = мутагенное удобрение
+reagent-desc-mutagenic-fertilizer = Пахучее удобрение, которое вызывает мутации растений и сохраняет их съедобными.
 
 reagent-name-pest-killer = пестициды
 reagent-desc-pest-killer = Смесь, предназначенная для борьбы с вредителями. Несмотря на свою полезность, они медленно отравляют растения токсинами, поэтому будьте осторожны при использовании.
