@@ -220,12 +220,14 @@ public sealed class NameIdentifierTest : GameTest
     [Description("Tests that a localized value is properly fetched and attached.")]
     public async Task LocalizedIdentifier()
     {
+        var localization = Server.ResolveDependency<ILocalizationManager>(); // SIS-Fix_loc_test
         await Server.WaitAssertion(() =>
         {
+            Assert.That(localization.TryGetString("name-identifier-test-1", out var identifier), Is.True); // SIS-Fix_loc_test
             var single = SSpawn(LocTestEnt);
             Assert.That(
                 SEntMan.GetComponent<MetaDataComponent>(single).EntityName,
-                Is.EqualTo($"{LocTestEnt} TestValue"),
+                Is.EqualTo($"{LocTestEnt} {identifier}"), // SIS-Fix_loc_test
                 "Did not create a valid localized name."
                 );
         });
