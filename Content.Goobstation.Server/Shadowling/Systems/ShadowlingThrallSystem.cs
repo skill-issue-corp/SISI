@@ -11,7 +11,6 @@ using Content.Shared.Examine;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Overlays;
 using Content.Trauma.Common.CollectiveMind;
-using Content.Shared.Antag;
 using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Goobstation.Server.Shadowling.Systems;

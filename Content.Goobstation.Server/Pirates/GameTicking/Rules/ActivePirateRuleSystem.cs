@@ -11,7 +11,6 @@ using Content.Shared.NPC.Prototypes;
 using Content.Shared.NPC.Systems;
 using Content.Shared.Roles;
 using Robust.Shared.Audio;
-using Content.Shared.Antag;
 using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Goobstation.Server.Pirates.GameTicking.Rules;

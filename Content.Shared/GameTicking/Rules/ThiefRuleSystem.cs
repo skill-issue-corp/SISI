@@ -3,7 +3,6 @@ using Content.Shared.GameTicking.Rules.Components;
 using Content.Shared.Humanoid;
 using Content.Shared.Roles;
 using Content.Shared.Roles.Components;
-using Content.Shared.Antag;
 using Content.SIS.Common.ChatBriefing;
 
 namespace Content.Shared.GameTicking.Rules;
