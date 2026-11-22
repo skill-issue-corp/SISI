@@ -38,6 +38,9 @@ ent-MobCobraSpaceSalvage = { ent-MobCobraSpace }
 ent-MobSheepSpace = космическая овца
     .desc = Овца... в космосе!
 
+ent-SolutionWoolSpaceSheep = { ent-SolutionWool }
+    .desc = { ent-SolutionWool.desc }
+
 ent-MobSnail = улитка
     .desc = Отвратительна, только если вы не француз.
 
@@ -49,5 +52,8 @@ ent-MobSnailSpeed = { ent-MobSnail }
     .suffix = Скорость
     .desc = { ent-MobSnail.desc }
 
-ent-MobSnailMoth = молитка
-    .desc = { ent-MobSnail.desc }
+# AUTOGEN-Start
+# молитка
+# AUTOGEN-End TODO(Update_Locale):
+ent-MobSnailMoth = snoth
+    .desc = { ent-BaseMobMothroach.desc }

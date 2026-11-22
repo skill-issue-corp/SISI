@@ -143,8 +143,13 @@ ent-AtmosPDA = КПК атмос-техника
 ent-ClearPDA = прозрачный КПК
     .desc = На 99 и 44/100 процента чистый пластик.
 
+ent-PrisonerPDA = { ent-ClearPDA }
+    .desc = { ent-ClearPDA.desc }
+    .suffix = Prisoner
+
 ent-VisitorPDA = { ent-ClearPDA }
     .desc = { ent-ClearPDA.desc }
+    .suffix = Visitor
 
 ent-SyndiPDA = КПК синдиката
     .desc = Ладно, время быть продуктивным членом... о, круто, я плохой парень, пора убивать людей!
@@ -236,5 +241,9 @@ ent-ChameleonAgentPDA = { ent-ChameleonPDA }
 ent-WizardPDA = КПК волшебника
     .desc = Вы слышите из него слабый шёпот.
 
+# AUTOGEN-Start
+# .desc = Временный КПК, выдаваемый временным сотрудникам — слизнекотикам. Не делает почти ничего. Вава!
+# AUTOGEN-End TODO(Update_Locale):
 ent-ScurretPDA = { ent-ClearPDA }
-    .desc = Временный КПК, выдаваемый временным сотрудникам — слизнекотикам. Не делает почти ничего. Вава!
+    .desc = A temporary PDA granted to scurret temps. Doesn't do much. Wawa!
+    .suffix = Scurret

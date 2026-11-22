@@ -1,3 +1,5 @@
+reagent-name-cluoxadone = cluoxadone
+reagent-desc-cluoxadone = A cryogenics chemical that flushes extreme poisoning even from the dead.
 reagent-name-dewormer = Антигельминтный раствор
 reagent-desc-dewormer = Меловидная густая слизь. Токсична для паразитов.
 reagent-name-suffocatium = суффокатиум

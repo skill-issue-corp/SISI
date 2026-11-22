@@ -55,9 +55,6 @@ ent-LanguageUniversal = { ent-BaseLanguageKnowledge }
 ent-LanguageRobotTalk = { ent-BaseLanguageKnowledge }
     .desc = { ent-BaseLanguageKnowledge.desc }
 
-ent-LanguageDroneTalk = { ent-BaseLanguageKnowledge }
-    .desc = { ent-BaseLanguageKnowledge.desc }
-
 ent-LanguagePsychomantic = { ent-BaseLanguageKnowledge }
     .desc = { ent-BaseLanguageKnowledge.desc }
 
@@ -131,4 +128,7 @@ ent-LanguageCodespeak = { ent-BaseLanguageKnowledgeAntag }
     .desc = { ent-BaseLanguageKnowledgeAntag.desc }
 
 ent-LanguageMiltech = { ent-BaseLanguageKnowledgeAntag }
+    .desc = { ent-BaseLanguageKnowledgeAntag.desc }
+
+ent-LanguageZombish = { ent-BaseLanguageKnowledgeAntag }
     .desc = { ent-BaseLanguageKnowledgeAntag.desc }

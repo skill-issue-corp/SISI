@@ -1,4 +1,7 @@
-ent-BaseRanchingEgg = яйцо
+# AUTOGEN-Start
+# яйцо
+# AUTOGEN-End TODO(Update_Locale):
+ent-BaseRanchingEgg = fertilized egg
     .desc = { ent-FoodEggBase.desc }
 
 ent-WhiteEgg = { ent-BaseRanchingEgg }
@@ -56,10 +59,6 @@ ent-PigeonEggInedible = яйцо
 ent-CandyEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
     .suffix = Конфетное
-
-ent-SeaEgg = { ent-BaseRanchingEgg }
-    .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Морское
 
 ent-GoldenEgg = золотое куриное яйцо
     .desc = Очень блестящее яйцо!

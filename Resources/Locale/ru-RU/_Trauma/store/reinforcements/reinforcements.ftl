@@ -94,7 +94,10 @@ reinforcement-janitor-name = Нанять уборщика
 reinforcement-janitor-desc = Наймите уборщика, чтобы станция оставалась чистой и без скользких опасностей. Минимальное время прибытия — три минуты.
 
 reinforcement-lawyer-name = Нанять юриста
-reinforcement-lawyer-desc = Наймите юриста для защиты прав экипажа и превращения космического права в оружие. Минимальное время прибытия — три минуты.
+# AUTOGEN-Start
+# Наймите юриста для защиты прав экипажа и превращения космического права в оружие. Минимальное время прибытия — три минуты.
+# AUTOGEN-End TODO(Update_Locale):
+reinforcement-lawyer-desc = Hire a lawyer to defend crew rights and weaponize corporate law. Minimum arrival time of three minutes.
 
 reinforcement-clown-name = Нанять клоуна
 reinforcement-clown-desc = Наймите клоуна, чтобы развлекать экипаж и сеять хаос. Минимальное время прибытия — три минуты.

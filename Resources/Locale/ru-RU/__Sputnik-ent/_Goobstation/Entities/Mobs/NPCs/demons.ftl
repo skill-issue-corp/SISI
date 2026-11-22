@@ -4,6 +4,9 @@ ent-MobLivingCurse = живая плоть
 ent-MobSpookyGhost1 = ???
     .desc = Без понятия что это!
 
+ent-SolutionSpookyGhost = { ent-SolutionWeapon }
+    .desc = { ent-SolutionWeapon.desc }
+
 ent-BaseMobGlutton = обжора
     .desc = Существо, которое когда-то было клоуном.
 

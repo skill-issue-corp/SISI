@@ -1,6 +1,3 @@
-ent-MobDuckBot = утко-бот
-    .desc = Забавная утка
-
 ent-BoogieBotSpawner = буги-бот
     .desc = Оторвись по полной!
 

@@ -18,6 +18,3 @@ ent-CMORapidSyringeGunStealObjective = { ent-BaseCMOStealObjective }
 
 ent-ExecutiveBriefcaseStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
-
-ent-GeminiProjectorStealObjective = { ent-BaseRDStealObjective }
-    .desc = { ent-BaseRDStealObjective.desc }

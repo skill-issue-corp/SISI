@@ -1,5 +1,6 @@
-ent-HandheldCrewMonitor = портативный монитор экипажа
-    .desc = Ручной монитор экипажа, отображающий состояние датчиков костюма.
+ent-BaseHandheldCrewMonitor = handheld crew monitor
+    .desc = A hand-held crew monitor displaying the status of suit sensors.
+
 ent-HandheldCrewMonitorEmpty = { ent-HandheldCrewMonitor }
     .suffix = Пустой
     .desc = { ent-HandheldCrewMonitor.desc }

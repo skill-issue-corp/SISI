@@ -24,6 +24,3 @@ ent-SleeperAgentsQuiet = { ent-BaseTraitorRule }
 
 ent-WailingHorseQuiet = { ent-WailingHorseSpawn }
     .desc = { ent-WailingHorseSpawn.desc }
-
-ent-LoneXenomorphSpawnRule = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }

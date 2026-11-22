@@ -9,28 +9,43 @@ ent-PoweredlightEmpty = светильник
     .desc = Осветительный прибор. Потребляет энергию и излучает свет, если оснащён лампой-трубкой.
     .suffix = Пустой
 
+# AUTOGEN-Start
+# .desc = Осветительный прибор. Потребляет энергию и излучает свет, если оснащён лампой-трубкой.
+# AUTOGEN-End TODO(Update_Locale):
 ent-Poweredlight = { ent-PoweredlightEmpty }
-    .desc = Осветительный прибор. Потребляет энергию и излучает свет, если оснащён лампой-трубкой.
+    .desc = { ent-PoweredlightEmpty.desc }
 
+# AUTOGEN-Start
+# .desc = Осветительный прибор. Потребляет энергию и излучает свет, если оснащён лампой-трубкой.
+# .suffix = LED, Светодиод
+# AUTOGEN-End TODO(Update_Locale):
 ent-PoweredlightLED = { ent-Poweredlight }
-    .desc = Осветительный прибор. Потребляет энергию и излучает свет, если оснащён лампой-трубкой.
-    .suffix = LED, Светодиод
+    .desc = { ent-Poweredlight.desc }
+    .suffix = LED
 
 ent-AlwaysPoweredLightLED = { ent-AlwaysPoweredWallLight }
     .suffix = Всегда запитанный, LED, Светодиод
     .desc = { ent-AlwaysPoweredWallLight.desc }
 
+# AUTOGEN-Start
+# .desc = Осветительный прибор. Потребляет энергию и излучает свет, если оснащён лампой-трубкой.
+# .suffix = Экстерьер
+# AUTOGEN-End TODO(Update_Locale):
 ent-PoweredlightExterior = { ent-Poweredlight }
-    .desc = Осветительный прибор. Потребляет энергию и излучает свет, если оснащён лампой-трубкой.
-    .suffix = Экстерьер
+    .desc = { ent-Poweredlight.desc }
+    .suffix = Exterior
 
 ent-AlwaysPoweredLightExterior = { ent-AlwaysPoweredWallLight }
     .suffix = Всегда запитанный, Экстерьер
     .desc = { ent-AlwaysPoweredWallLight.desc }
 
+# AUTOGEN-Start
+# .desc = Осветительный прибор. Потребляет энергию и излучает свет, если оснащён лампой-трубкой.
+# .suffix = Натриевый
+# AUTOGEN-End TODO(Update_Locale):
 ent-PoweredlightSodium = { ent-Poweredlight }
-    .desc = Осветительный прибор. Потребляет энергию и излучает свет, если оснащён лампой-трубкой.
-    .suffix = Натриевый
+    .desc = { ent-Poweredlight.desc }
+    .suffix = Sodium
 
 ent-AlwaysPoweredLightSodium = { ent-AlwaysPoweredWallLight }
     .suffix = Всегда запитанный, Натриевый
@@ -62,66 +77,121 @@ ent-PoweredSmallLight = { ent-PoweredSmallLightEmpty }
 ent-EmergencyLight = аварийная лампа
     .desc = Маленькая лампочка с внутренним аккумулятором, которая включается, как только перестаёт получать питание извне. Технология Nanotrasen позволяет ей адаптировать свой цвет для оповещения экипажа об обстановке на станции.
 
-ent-PoweredlightCyan = { ent-Poweredlight }
-    .suffix = Голубой
+ent-PoweredlightColor = { ent-Poweredlight }
     .desc = { ent-Poweredlight.desc }
 
-ent-AlwaysPoweredlightCyan = { ent-AlwaysPoweredWallLight }
-    .suffix = Всегда запитанный, Голубой
+ent-AlwaysPoweredlightColor = { ent-AlwaysPoweredWallLight }
     .desc = { ent-AlwaysPoweredWallLight.desc }
 
-ent-PoweredlightBlue = { ent-Poweredlight }
-    .suffix = Синий
-    .desc = { ent-Poweredlight.desc }
+# AUTOGEN-Start
+# .suffix = Голубой
+# AUTOGEN-End TODO(Update_Locale):
+ent-PoweredlightCyan = { ent-PoweredlightColor }
+    .desc = { ent-PoweredlightColor.desc }
+    .suffix = Cyan
 
-ent-AlwaysPoweredlightBlue = { ent-AlwaysPoweredWallLight }
-    .suffix = Всегда запитанный, Синий
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+# AUTOGEN-Start
+# .suffix = Всегда запитанный, Голубой
+# AUTOGEN-End TODO(Update_Locale):
+ent-AlwaysPoweredlightCyan = { ent-AlwaysPoweredlightColor }
+    .desc = { ent-AlwaysPoweredlightColor.desc }
+    .suffix = Always Powered, Cyan
 
-ent-PoweredlightYellow = { ent-Poweredlight }
-    .suffix = Жёлтый
-    .desc = { ent-Poweredlight.desc }
+# AUTOGEN-Start
+# .suffix = Синий
+# AUTOGEN-End TODO(Update_Locale):
+ent-PoweredlightBlue = { ent-PoweredlightColor }
+    .desc = { ent-PoweredlightColor.desc }
+    .suffix = Blue
 
-ent-AlwaysPoweredlightYellow = { ent-AlwaysPoweredWallLight }
-    .suffix = Всегда запитанный, Жёлтый
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+# AUTOGEN-Start
+# .suffix = Всегда запитанный, Синий
+# AUTOGEN-End TODO(Update_Locale):
+ent-AlwaysPoweredlightBlue = { ent-AlwaysPoweredlightColor }
+    .desc = { ent-AlwaysPoweredlightColor.desc }
+    .suffix = Always Powered, Blue
 
-ent-PoweredlightPink = { ent-Poweredlight }
-    .suffix = Розовый
-    .desc = { ent-Poweredlight.desc }
+# AUTOGEN-Start
+# .suffix = Жёлтый
+# AUTOGEN-End TODO(Update_Locale):
+ent-PoweredlightYellow = { ent-PoweredlightColor }
+    .desc = { ent-PoweredlightColor.desc }
+    .suffix = Yellow
 
-ent-AlwaysPoweredlightPink = { ent-AlwaysPoweredWallLight }
-    .suffix = Всегда запитанный, Розовый
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+# AUTOGEN-Start
+# .suffix = Всегда запитанный, Жёлтый
+# AUTOGEN-End TODO(Update_Locale):
+ent-AlwaysPoweredlightYellow = { ent-AlwaysPoweredlightColor }
+    .desc = { ent-AlwaysPoweredlightColor.desc }
+    .suffix = Always Powered, Yellow
 
-ent-PoweredlightOrange = { ent-Poweredlight }
-    .suffix = Оранжевый
-    .desc = { ent-Poweredlight.desc }
+# AUTOGEN-Start
+# .suffix = Розовый
+# AUTOGEN-End TODO(Update_Locale):
+ent-PoweredlightPink = { ent-PoweredlightColor }
+    .desc = { ent-PoweredlightColor.desc }
+    .suffix = Pink
 
-ent-AlwaysPoweredlightOrange = { ent-AlwaysPoweredWallLight }
-    .suffix = Всегда запитанный, Оранжевый
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+# AUTOGEN-Start
+# .suffix = Всегда запитанный, Розовый
+# AUTOGEN-End TODO(Update_Locale):
+ent-AlwaysPoweredlightPink = { ent-AlwaysPoweredlightColor }
+    .desc = { ent-AlwaysPoweredlightColor.desc }
+    .suffix = Always Powered, Pink
 
-ent-PoweredlightBlack = { ent-Poweredlight }
-    .desc = null
-    .suffix = Чёрный
+# AUTOGEN-Start
+# .suffix = Оранжевый
+# AUTOGEN-End TODO(Update_Locale):
+ent-PoweredlightOrange = { ent-PoweredlightColor }
+    .desc = { ent-PoweredlightColor.desc }
+    .suffix = Orange
 
-ent-AlwaysPoweredlightBlack = { ent-AlwaysPoweredWallLight }
-    .suffix = Всегда запитанный, Чёрный
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+# AUTOGEN-Start
+# .suffix = Всегда запитанный, Оранжевый
+# AUTOGEN-End TODO(Update_Locale):
+ent-AlwaysPoweredlightOrange = { ent-AlwaysPoweredlightColor }
+    .desc = { ent-AlwaysPoweredlightColor.desc }
+    .suffix = Always Powered, Orange
 
-ent-PoweredlightRed = { ent-Poweredlight }
-    .suffix = Красный
-    .desc = { ent-Poweredlight.desc }
+# AUTOGEN-Start
+# .desc = null
+# .suffix = Чёрный
+# AUTOGEN-End TODO(Update_Locale):
+ent-PoweredlightBlack = { ent-PoweredlightColor }
+    .desc = { ent-PoweredlightColor.desc }
+    .suffix = Black
 
-ent-AlwaysPoweredlightRed = { ent-AlwaysPoweredWallLight }
-    .suffix = Всегда запитанный, Красный
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+# AUTOGEN-Start
+# .suffix = Всегда запитанный, Чёрный
+# AUTOGEN-End TODO(Update_Locale):
+ent-AlwaysPoweredlightBlack = { ent-AlwaysPoweredlightColor }
+    .desc = { ent-AlwaysPoweredlightColor.desc }
+    .suffix = Always Powered, Black
 
-ent-PoweredlightGreen = { ent-Poweredlight }
-    .suffix = Зелёный
-    .desc = { ent-Poweredlight.desc }
+# AUTOGEN-Start
+# .suffix = Красный
+# AUTOGEN-End TODO(Update_Locale):
+ent-PoweredlightRed = { ent-PoweredlightColor }
+    .desc = { ent-PoweredlightColor.desc }
+    .suffix = Red
 
-ent-AlwaysPoweredlightGreen = { ent-AlwaysPoweredWallLight }
-    .suffix = Всегда запитанный, Зелёный
-    .desc = { ent-AlwaysPoweredWallLight.desc }
+# AUTOGEN-Start
+# .suffix = Всегда запитанный, Красный
+# AUTOGEN-End TODO(Update_Locale):
+ent-AlwaysPoweredlightRed = { ent-AlwaysPoweredlightColor }
+    .desc = { ent-AlwaysPoweredlightColor.desc }
+    .suffix = Always Powered, Red
+
+# AUTOGEN-Start
+# .suffix = Зелёный
+# AUTOGEN-End TODO(Update_Locale):
+ent-PoweredlightGreen = { ent-PoweredlightColor }
+    .desc = { ent-PoweredlightColor.desc }
+    .suffix = Green
+
+# AUTOGEN-Start
+# .suffix = Всегда запитанный, Зелёный
+# AUTOGEN-End TODO(Update_Locale):
+ent-AlwaysPoweredlightGreen = { ent-AlwaysPoweredlightColor }
+    .desc = { ent-AlwaysPoweredlightColor.desc }
+    .suffix = Always Powered, Green

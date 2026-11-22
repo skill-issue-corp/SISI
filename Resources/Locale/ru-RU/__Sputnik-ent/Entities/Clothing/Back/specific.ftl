@@ -1,9 +1,15 @@
 ent-ClothingBackpackChameleon = рюкзак
     .desc = Вы носите это на спине и кладёте в него предметы.
     .suffix = Хамелеон
+
 ent-ClothingBackpackWaterTank = ранцевый водяной резервуар
     .desc = Вмещает большое количество жидкости. Для разбрызгивания возьмите в руки форсунку. Сбоку имеется слот для форсунки.
+
 ent-ClothingBagPet = сумка питомца
     .desc = Маленькая сумка, предназначенная для использования питомцами и маленькими животными.
+
 ent-ClothingBackpackHarmpack = Н.А.С.И.Л.И.У.М.
     .desc = Теперь вы можете перезаряжаться, драться и кушать одновременно.
+
+ent-XenoborgMaterialBag = silicon storage square
+    .desc = A knockoff version of a bluespace bag, can vacuum up select materials, unfit for use by humanoids due to harmful emissions.

@@ -5,6 +5,9 @@ ent-CodexCicatrix = кодекс Цикатрикс
 ent-CodexMorbus = кодекс морбус
     .desc = Отвратительная, потрёпанная книга, покрытая моргающими по отдельности глазами, которые все смотрят на тебя. Ты понятия не имеешь, как держать эту штуку, и, честно говоря, не уверен, хочешь ли ты этого.
 
+ent-EldritchPaper = eldritch card
+    .desc = Burn it to reveal the contents hidden behind the Veil of Mansus.
+
 ent-HereticPhylactery = филактерия проклятия
     .desc = Используется для похищения крови у будущих жертв.
 

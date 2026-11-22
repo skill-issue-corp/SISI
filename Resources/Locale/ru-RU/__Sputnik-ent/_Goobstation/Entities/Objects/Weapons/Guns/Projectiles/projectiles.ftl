@@ -1,6 +1,3 @@
-ent-BulletMic = болт МИК
-    .desc = Не самый страшный, но всё равно лучше не ловить его.
-
 ent-BulletPlasmaCutter = болт резака
     .desc = Не самый страшный, но всё равно лучше не ловить его.
 
@@ -56,9 +53,6 @@ ent-HolyBulletCharge = святой болт
     .desc = Отмечает цель для дополнительного святого урона.
 
 ent-BulletPistolSilver = пуля (.45 серебряная)
-    .desc = { ent-BaseBullet.desc }
-
-ent-BulletFlock = шоковый болт
     .desc = { ent-BaseBullet.desc }
 
 ent-ProjectileMonkeyDart = дротик дартс-обезьяны

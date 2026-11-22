@@ -1,15 +1,3 @@
-# SPDX-FileCopyrightText: 2023 Kara <lunarautomaton6@gmail.com>
-# SPDX-FileCopyrightText: 2023 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 brainfood1183 <113240905+brainfood1183@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 liltenhead <104418166+liltenhead@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Ed <96445749+TheShuEd@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Lye <128915833+Lyroth001@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 wafehling <wafehling@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
 # you shouldn't be creating new hints for every effect/trigger
 # try and reuse them so that a hint isn't a dead giveaway. -emo
 
@@ -33,63 +21,6 @@ artifact-effect-hint-sentience = Неврологическая активнос
 artifact-effect-hint-polymorph = Трансмогрификационная активность
 artifact-effect-hint-magnet = Магнитные волны
 artifact-effect-hint-visual = Визуальное искажение
-
-# the triggers should be more obvious than the effects
-# gives people an idea of what to do: don't be too specific (i.e. no "welders")
-
-artifact-trigger-hint-electricity = Электричество
-artifact-trigger-hint-heat = Высокая температура
-artifact-trigger-hint-physical = Физические повреждения
-artifact-trigger-hint-tool = Использование инструментов
-artifact-trigger-hint-music = Звуковые вибрации
-artifact-trigger-hint-water = Водочувствительность
-artifact-trigger-hint-blood = Взаимодействие с гематологической жидкостью
-artifact-trigger-hint-magnet = Магнитные волны
-artifact-trigger-hint-death = Эссенция жизни
-artifact-trigger-hint-radiation = Радиация
-artifact-trigger-hint-pressure = Экстремальное давление
-artifact-trigger-hint-regular-gases = Стандартные атмосферные газы
-# Trauma - plasma -> phoron
-artifact-trigger-hint-plasma = Газообразный форон
-artifact-trigger-hint-land = Активное замедление
-artifact-trigger-hint-examine = Внимательное изучение
-artifact-trigger-hint-medical = Терапевтические химикаты
-
-xenoarch-trigger-tip-music = Гармоничные звуковые вибрации
-xenoarch-trigger-tip-heat = Газ высокой температуры
-xenoarch-trigger-tip-cold = Газ низкой температуры
-xenoarch-trigger-tip-no-oxygen = Бескислородная среда
-xenoarch-trigger-tip-water = Вода
-xenoarch-trigger-tip-co2 = Диоксид углерода
-# Trauma - plasma -> phoron
-xenoarch-trigger-tip-plasma = Мягкий форон
-xenoarch-trigger-tip-tritium = Тритий
-xenoarch-trigger-tip-ammonia = Аммиак
-xenoarch-trigger-tip-n2o = Оксид азота
-xenoarch-trigger-tip-frezon = Фрезон
-xenoarch-trigger-tip-radiation = Ионизирующее излучение
-xenoarch-trigger-tip-microwave = Микроволновое излучение
-xenoarch-trigger-tip-brute-damage = Физическое повреждение
-xenoarch-trigger-tip-interaction = Физическое взаимодействие
-xenoarch-trigger-tip-wrenching = Закручивание
-xenoarch-trigger-tip-prying = Поддевание
-xenoarch-trigger-tip-screwing = Вкручивание
-xenoarch-trigger-tip-pulsing = Импульс
-xenoarch-trigger-tip-pressure-low = Низкое давление
-xenoarch-trigger-tip-pressure-high = Высокое давление
-xenoarch-trigger-tip-examine = Тщательный осмотр
-xenoarch-trigger-tip-timer = Периодическая самоактивация
-xenoarch-trigger-tip-blood = Кровь
-xenoarch-trigger-tip-throw = Бросок
-xenoarch-trigger-tip-death = Смерть
-xenoarch-trigger-tip-magnet = Магнитные волны
-xenoarch-trigger-tip-money = Взятка
-xenoarch-trigger-tip-knowledge = Поглощение знаний
-xenoarch-trigger-tip-carbs = Поглощение углеводов
-xenoarch-trigger-tip-meat = Поглощение белка
-xenoarch-trigger-tip-produce = Поглощение здоровой пищи
-xenoarch-trigger-tip-stamp = Бюрократическое одобрение
-xenoarch-trigger-tip-shock = Электрический разряд
 
 ### Description hints
 xenoarch-trigger-examine-wrenching = На поверхности что-то свободно вращается.

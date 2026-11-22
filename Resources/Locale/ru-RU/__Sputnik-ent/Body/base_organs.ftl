@@ -1,8 +1,11 @@
 ent-OrganBase = орган
     .desc = { ent-BaseItem.desc }
 
-ent-OrganBaseOrganic = орган
-    .desc = { ent-OrganBaseFleshy.desc }
+# AUTOGEN-Start
+# орган
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseOrganic = organ
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseTorso = торс
     .desc = { ent-OrganBase.desc }
@@ -10,32 +13,59 @@ ent-OrganBaseTorso = торс
 ent-OrganBaseHead = голова
     .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseArmLeft = левая рука
-    .desc = { ent-OrganBaseArm.desc }
+# AUTOGEN-Start
+# левая рука
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseArmLeft = left arm
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseArmRight = правая рука
-    .desc = { ent-OrganBaseArm.desc }
+# AUTOGEN-Start
+# правая рука
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseArmRight = right arm
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseHandLeft = левая кисть
-    .desc = { ent-OrganBaseHand.desc }
+# AUTOGEN-Start
+# левая кисть
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseHandLeft = left hand
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseHandRight = правая кисть
-    .desc = { ent-OrganBaseHand.desc }
+# AUTOGEN-Start
+# правая кисть
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseHandRight = right hand
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseLegLeft = левая нога
-    .desc = { ent-OrganBaseLeg.desc }
+# AUTOGEN-Start
+# левая нога
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseLegLeft = left leg
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseLegRight = правая нога
-    .desc = { ent-OrganBaseLeg.desc }
+# AUTOGEN-Start
+# правая нога
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseLegRight = right leg
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseFootLeft = левая стопа
-    .desc = { ent-OrganBaseFoot.desc }
+# AUTOGEN-Start
+# левая стопа
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseFootLeft = left foot
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseFootRight = правая стопа
-    .desc = { ent-OrganBaseFoot.desc }
+# AUTOGEN-Start
+# правая стопа
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseFootRight = right foot
+    .desc = { ent-OrganBase.desc }
 
-ent-OrganBaseBrain = мозг
-    .desc = { ent-BaseKnowledgeContainer.desc }
+# AUTOGEN-Start
+# мозг
+# AUTOGEN-End TODO(Update_Locale):
+ent-OrganBaseBrain = brain
+    .desc = { ent-OrganBase.desc }
 
 ent-OrganBaseEyes = глаза
     .desc = { ent-OrganBase.desc }
@@ -79,11 +109,11 @@ ent-OrganBaseHeadSexed = голова
 ent-OrganBaseTorsoSexed = торс
     .desc = { "" }
 
-ent-OrganBaseParent = { ent-OrganBase }
-    .desc = { ent-OrganBase.desc }
+ent-OrganBaseParent = { "" }
+    .desc = { "" }
 
-ent-OrganBaseChildExternal = { ent-OrganBaseExternal }
-    .desc = { ent-OrganBaseExternal.desc }
+ent-OrganBaseChildExternal = { "" }
+    .desc = { "" }
 
-ent-OrganBaseChildInternal = { ent-OrganBase }
-    .desc = { ent-OrganBase.desc }
+ent-OrganBaseChildInternal = { "" }
+    .desc = { "" }

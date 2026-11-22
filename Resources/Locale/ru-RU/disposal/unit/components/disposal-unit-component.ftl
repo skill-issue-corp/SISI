@@ -24,6 +24,7 @@ ui-disposal-unit-label-status = Готов
 
 ui-disposal-unit-button-flush = Смыть
 ui-disposal-unit-button-eject = Извлечь всё
+ui-disposal-unit-button-routing = Routing
 ui-disposal-unit-button-power = Питание
 
 ## Verbs
@@ -39,6 +40,7 @@ disposal-unit-state-Ready = Готов
 # Yes I want it to always say Pressurizing
 disposal-unit-state-Flushed = Нагнетание
 disposal-unit-state-Pressurizing = Нагнетание
+disposal-unit-state-Unpowered = Unpowered
 
 # putting people in
 disposal-unit-being-inserted = { CAPITALIZE($user) } пытается затолкать вас в мусоропровод!

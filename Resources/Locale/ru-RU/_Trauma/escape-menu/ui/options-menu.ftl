@@ -7,8 +7,6 @@ ui-options-function-tackle = Захват
 ui-options-function-strafe = Страфинг (лицом к курсору)
 
 ui-options-show-skill-popups = Показывать всплывающие окна навыков
-
-ui-options-function-open-mentor = Открыть помощь администратора и наставника
 ui-options-function-open-martial-arts-menu = Выбрать боевые искусства
 
 ui-options-mouse-wheel-zoom = Можно масштабировать колёсиком мыши
@@ -18,3 +16,6 @@ ui-options-mouse-wheel-targeting = Можно менять целевую час
 ui-options-function-targeting-mod = Клавиша-модификатор смены цели (колёсико мыши)
 ui-options-function-zoom-mod = Клавиша-модификатор масштабирования камеры (колёсико мыши)
 ui-options-function-rotate-mod = Клавиша-модификатор вращения (колёсико мыши)
+
+ui-options-disable-radiation-static = Radiation noise
+ui-options-disable-radiation-static-tooltip = Removes the camera noise caused by radiation.

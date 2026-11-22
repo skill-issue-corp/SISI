@@ -7,6 +7,9 @@ ent-BaseMobAdultChickenRanch = { ent-BaseMobChickRanch }
 ent-BaseMobRoosterRanch = { ent-BaseMobAdultChickenRanch }
     .desc = { ent-BaseMobAdultChickenRanch.desc }
 
+ent-BaseMobRangedRoosterRanch = { ent-BaseMobAdultChickenRanch }
+    .desc = { ent-BaseMobAdultChickenRanch.desc }
+
 ent-BaseMobHenRanch = { ent-BaseMobAdultChickenRanch }
     .desc = { ent-BaseMobAdultChickenRanch.desc }
 
@@ -163,14 +166,20 @@ ent-MobClownHen = хенк
 ent-MobClownRooster = хенкстер
     .desc = { ent-BaseChickenClown.desc }
 
+ent-BaseChickenCluwne = { "" }
+    .desc = { "" }
+
 ent-MobChickCluwne = клувень-цыплёнок
     .desc = { ent-BaseMobChickRanch.desc }
 
 ent-MobCluwneHen = клувень-курица
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobCluwneRooster = клувень-петух
-    .desc = { ent-BaseMobRoosterRanch.desc }
+# AUTOGEN-Start
+# клувень-петух
+# AUTOGEN-End TODO(Update_Locale):
+ent-MobCluwneRooster = huOnkHoNkHoeNKs
+    .desc = { ent-BaseMobRangedRoosterRanch.desc }
 
 ent-GlassChickenBase = { "" }
     .desc = Выглядит очень хрупким...
@@ -225,6 +234,9 @@ ent-MobSynthHen = синтетическая курица
 
 ent-MobSynthRooster = синтетический петух
     .desc = { ent-BaseMobRoosterRanch.desc }
+
+ent-BaseChickenMime = { "" }
+    .desc = { "" }
 
 ent-MobChickMime = цыплёнок-мим
     .desc = { ent-BaseMobChickRanch.desc }
@@ -285,6 +297,9 @@ ent-MobCockatriceHen = курица-василиск
 
 ent-MobCockatriceRooster = петух-василиск
     .desc = { ent-BaseMobRoosterRanch.desc }
+
+ent-SolutionCockatrice = { ent-SolutionWeapon }
+    .desc = { ent-SolutionWeapon.desc }
 
 ent-BaseChickenLegendary = { "" }
     .desc = { "" }

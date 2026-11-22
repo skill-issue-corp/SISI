@@ -1,0 +1,2 @@
+ent-AirSensorBase = { "" }
+    .desc = { "" }

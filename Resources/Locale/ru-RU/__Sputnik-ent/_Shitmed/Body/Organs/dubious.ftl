@@ -22,6 +22,18 @@ ent-OrganDubiousSpaceAdaptation = { ent-OrganDubiousBase }
 ent-OrganDubiousArtifact = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
 
+ent-OrganDubiousScrambleDna = { ent-OrganDubiousBase }
+    .desc = { ent-OrganDubiousBase.desc }
+    .suffix = DNA Scrambler
+
+ent-OrganDubiousScrambleLocation = { ent-OrganDubiousBase }
+    .desc = { ent-OrganDubiousBase.desc }
+    .suffix = Teleport
+
+ent-OrganDubiousSpiderEggs = { ent-OrganDubiousBase }
+    .desc = { ent-OrganDubiousBase.desc }
+    .suffix = Spiders
+
 ent-OrganDubiousSlimeEggs = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
 
@@ -39,6 +51,10 @@ ent-OrganDubiousSmoke = { ent-OrganDubiousBase }
 
 ent-OrganDubiousGas = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
+
+ent-OrganDubiousSteptriggerImmune = { ent-OrganDubiousBase }
+    .desc = { ent-OrganDubiousBase.desc }
+    .suffix = Noslip
 
 ent-OrganDubiousVentcrawler = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }

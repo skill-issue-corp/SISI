@@ -4,6 +4,15 @@ ent-BaseShield = базовый щит
 ent-BaseShieldDestructible = { "" }
     .desc = { "" }
 
+ent-BaseGinormousShield = { ent-BaseShield }
+    .desc = { ent-BaseShield.desc }
+
+ent-BaseLargeShield = { ent-BaseShield }
+    .desc = { ent-BaseShield.desc }
+
+ent-BaseRoundShield = { ent-BaseLargeShield }
+    .desc = { ent-BaseLargeShield.desc }
+
 ent-BaseRepairableShield = базовый ремонтируемый щит
     .desc = Ремонтируемый щит!
 

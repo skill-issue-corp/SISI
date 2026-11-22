@@ -1,0 +1,2 @@
+ent-MobGiantSpiderAngry = { "" }
+    .desc = { "" }

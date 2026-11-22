@@ -16,3 +16,14 @@ loadout-group-bartenderweapon = Оружие бармена
 loadout-group-roboticist-envirohelm = Гермошлем робототехника
 loadout-group-roboticist-envirosuit = Гермокостюм робототехника
 loadout-group-roboticist-envirogloves = Гермоперчатки робототехника
+
+# DClass
+loadout-group-dclass-jumpsuit = D-Class jumpsuit
+loadout-group-dclass-mask = Mask
+loadout-group-dclass-gloves = Gloves
+loadout-group-dclass-outerclothing = Outer clothing
+loadout-group-dclass-shoes = Shoes
+loadout-group-dclass-neck = Neck
+loadout-group-dclass-envirohelm = D-Class Envirohelm
+loadout-group-dclass-envirosuit = D-Class envirosuit
+loadout-group-dclass-envirogloves = D-Class envirogloves

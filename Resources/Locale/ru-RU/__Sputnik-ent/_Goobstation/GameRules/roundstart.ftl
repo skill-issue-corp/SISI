@@ -1,8 +1,8 @@
 ent-CalmTraitor = { ent-BaseTraitorRule }
     .desc = { ent-BaseTraitorRule.desc }
 
-ent-CalmLing = { ent-Changeling }
-    .desc = { ent-Changeling.desc }
+ent-CalmLing = { ent-ChangelingRuleRoundstart }
+    .desc = { ent-ChangelingRuleRoundstart.desc }
 
 ent-Calmops = { ent-BaseNukeopsRule }
     .desc = { ent-BaseNukeopsRule.desc }

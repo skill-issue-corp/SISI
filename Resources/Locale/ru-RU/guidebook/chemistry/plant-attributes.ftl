@@ -1,10 +1,31 @@
+# SPDX-FileCopyrightText: 2024 Aidenkrz <aiden@djkraz.com>
+# SPDX-FileCopyrightText: 2024 Eris <eris@erisws.com>
+# SPDX-FileCopyrightText: 2024 Flesh <62557990+PolterTzi@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 plant-attribute-growth = возраст
 plant-attribute-water = уровень воды
+plant-attribute-water-consumption = water consumption
 plant-attribute-potency = потенция
 plant-attribute-weeds = уровень сорняков
+plant-attribute-weed-tolerance = weed tolerance
 plant-attribute-toxins = уровень токсинов
+plant-attribute-toxins-tolerance = toxins tolerance
 plant-attribute-nutrition = уровень питания
+plant-attribute-nutrient-consumption = nutrient consumption
 plant-attribute-mutation-level = уровень мутации
 plant-attribute-pests = уровень вредителей
+plant-attribute-pest-tolerance = pest tolerance
 plant-attribute-mutation-mod = модификатор мутации
 plant-attribute-health = здоровье
+plant-attribute-endurance = endurance
+plant-attribute-yield = yield
+plant-attribute-lifespan = lifespan
+plant-attribute-maturation = maturation
+plant-attribute-production = production
+plant-attribute-low-heat-tolerance = low heat tolerance
+plant-attribute-high-heat-tolerance = high heat tolerance
+plant-attribute-low-pressure-tolerance = low pressure tolerance
+plant-attribute-high-pressure-tolerance = high pressure tolerance

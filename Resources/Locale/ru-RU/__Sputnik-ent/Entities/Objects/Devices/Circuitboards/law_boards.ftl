@@ -4,8 +4,8 @@ ent-BaseSiliconLawboard = { ent-BaseElectronics }
 ent-NTDefaultCircuitBoard = плата законов (NT стандарт)
     .desc = Электронная плата, хранящая набор законов ИИ 'NT стандарт'.
 
-ent-AsimovCircuitBoard = плата законов (Крюзимов)
-    .desc = Электронная плата, хранящая набор законов ИИ 'Крюзимов'.
+ent-CrewsimovCircuitBoard = law board (Crewsimov)
+    .desc = An electronics board containing the Crewsimov lawset.
 
 ent-CorporateCircuitBoard = плата законов (Корпорат)
     .desc = Электронная плата, хранящая набор законов ИИ 'Корпорат'.

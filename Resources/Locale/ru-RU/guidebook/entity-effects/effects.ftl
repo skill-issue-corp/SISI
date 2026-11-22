@@ -1,19 +1,19 @@
 -create-3rd-person =
     { $chance ->
-        [1] Создаёт
-        *[other] создать
+        [1] Creates
+        *[other] create
     }
 
 -cause-3rd-person =
     { $chance ->
-        [1] Вызывает
-        *[other] вызвать
+        [1] Causes
+        *[other] cause
     }
 
 -satiate-3rd-person =
     { $chance ->
-        [1] Утоляет
-        *[other] утолить
+        [1] Satiates
+        *[other] satiate
     }
 
 entity-effect-guidebook-spawn-entity =
@@ -67,22 +67,13 @@ entity-effect-guidebook-smoke-area =
         *[other] создать
     } большое количество дыма
 
-entity-effect-guidebook-satiate-thirst =
+entity-effect-guidebook-satiate =
     { $chance ->
-        [1] Утоляет
-        *[other] утолить
+        [1] Satiates
+        *[other] satiate
     } { $relative ->
-        [1] жажду в среднем темпе
-        *[other] жажду в {NATURALFIXED($relative, 3)}x от среднего темпа
-    }
-
-entity-effect-guidebook-satiate-hunger =
-    { $chance ->
-        [1] Утоляет
-        *[other] утолить
-    } { $relative ->
-        [1] голод в среднем темпе
-        *[other] голод в {NATURALFIXED($relative, 3)}x от среднего темпа
+        [1] {$type} averagely
+        *[other] {$type} at {NATURALFIXED($relative, 3)}x the average rate
     }
 
 entity-effect-guidebook-health-change =
@@ -512,12 +503,6 @@ entity-effect-guidebook-plant-phalanximine =
         *[other] восстановить
     } жизнеспособность растения, утраченную из-за мутации
 
-entity-effect-guidebook-plant-remove-kudzu =
-    { $chance ->
-        [1] Удаляет
-        *[other] удалить
-    } заросли кудзу с растения
-
 entity-effect-guidebook-plant-diethylamine =
     { $chance ->
         [1] Увеличивает
@@ -541,6 +526,34 @@ entity-effect-guidebook-plant-seeds-remove =
         [1] Удаляет
         *[other] удалить
     } семена растения
+
+entity-effect-guidebook-plant-change-trait =
+    { $chance ->
+        [1] { $change ->
+            [Add] adds {$trait} to
+            [Remove] removes {$trait} from
+            [Toggle] toggles {$trait} on
+            *[other] changes {$trait} on
+        }
+        *[other] { $change ->
+            [Add] add {$trait} to
+            [Remove] remove {$trait} from
+            [Toggle] toggle {$trait} on
+            *[other] change {$trait} on
+        }
+    } the plant
+
+entity-effect-guidebook-plant-mutate-exude-gasses =
+    { $chance ->
+        [1] Mutates
+        *[other] mutate
+    } the plant to exude gases between {$minValue} and {$maxValue} moles
+
+entity-effect-guidebook-plant-mutate-consume-gasses =
+    { $chance ->
+        [1] Mutates
+        *[other] mutate
+    } the plant to consume gases between {$minValue} and {$maxValue} moles
 
 entity-effect-guidebook-plant-mutate-chemicals =
     { $chance ->

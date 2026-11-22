@@ -2,4 +2,3 @@ charge-holoprojector-no-charges = {CAPITALIZE($item)} пуст, сначала �
 charge-holoprojector-charges-full = {CAPITALIZE($item)} полон, нельзя забрать больше зарядов!
 charge-holoprojector-reclaim = Вы перестаёте проецировать {$sign}.
 charge-holoprojector-reclaim-others = {CAPITALIZE($user)} перестаёт проецировать {$sign}.
-charge-holoprojector-recall-others = {CAPITALIZE($sign)} перестаёт проецироваться.

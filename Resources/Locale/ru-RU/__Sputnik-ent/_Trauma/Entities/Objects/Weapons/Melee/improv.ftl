@@ -10,8 +10,12 @@ ent-NailBoardUnfinished = незаконченная доска с гвоздя�
 ent-NailBoardWeapon = доска с гвоздями
     .desc = Мерзкое оружие, также работает как ловушка.
 
-ent-NailBoardTrap = доска с гвоздями
-    .desc = Мерзкая ловушка, скорее всего, занесёт вам инфекцию в ногу.
+# AUTOGEN-Start
+# доска с гвоздями
+# .desc = Мерзкая ловушка, скорее всего, занесёт вам инфекцию в ногу.
+# AUTOGEN-End TODO(Update_Locale):
+ent-NailBoardTrap = nail board
+    .desc = A nasty trap, probably gonna give your foot an infection.
 
 ent-SpearPipebomb = копьё с трубной бомбой
     .desc = Рискованно, но смертельно.

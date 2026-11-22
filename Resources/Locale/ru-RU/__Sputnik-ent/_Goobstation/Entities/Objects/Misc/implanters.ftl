@@ -55,10 +55,6 @@ ent-KravMagaImplanter = { ent-BaseImplantOnlyImplanterSyndi }
     .suffix = Крав-маг
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
 
-ent-ClumsyImplanter = имплантер Синдиката
-    .suffix = Вождение
-    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-
 ent-BinaryImplanter = имплантер Синдиката
     .suffix = Бинарный декодер
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
@@ -81,17 +77,6 @@ ent-StopTimeImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
 
 ent-NaniteMenderImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
     .suffix = Ремонтник нанитов, НЕ МАППИТЬ
-    .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
-
-ent-BaseAntagImplantOnlyImplanter = имплантер Враждебных
-    .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
-
-ent-AntagImplanterChangeling = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Антагонист, Генокрад
-    .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
-
-ent-AntagImplanterSpaceNinja = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Антагонист, Космический ниндзя
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
 
 ent-XenoCompatibilityImplanter = { ent-BaseImplantOnlyImplanter }

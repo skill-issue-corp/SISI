@@ -1,6 +1,9 @@
 ent-BaseGameRule = { "" }
     .desc = { "" }
 
+ent-BaseSilentGameRule = { "" }
+    .desc = { "" }
+
 ent-BaseRoundstartAntagRule = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -49,9 +52,6 @@ ent-Traitor = { ent-BaseTraitorRule }
 ent-TraitorReinforcement = { ent-BaseTraitorRule }
     .desc = { ent-BaseTraitorRule.desc }
 
-ent-Changeling = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
 ent-Revolutionary = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -91,5 +91,5 @@ ent-RampingStationEventScheduler = { ent-BaseGameRule }
 ent-SpaceTrafficControlEventScheduler = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-BasicRoundstartVariation = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
+ent-BasicRoundstartVariation = { ent-BaseSilentGameRule }
+    .desc = { ent-BaseSilentGameRule.desc }

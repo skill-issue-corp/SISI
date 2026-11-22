@@ -1,3 +1,9 @@
+ent-BaseNukieAnimal = { "" }
+    .desc = { "" }
+
+ent-BaseNukieAnimalSpaceproof = { ent-BaseNukieAnimal }
+    .desc = { ent-BaseNukieAnimal.desc }
+
 ent-MobNukieMouse = nuclear operative mouse
     .desc = A Nuclear Operative... MOUSE?!
     .suffix = Syndicate
@@ -19,3 +25,6 @@ ent-SolutionVenomSyndicarp = { ent-SolutionWeapon }
 ent-MobNukieBehonker = nuclear operative behonker
     .desc = Gorlex thought it would be funny to have a behonker. It was.
     .suffix = Syndicate
+
+ent-MobSyndieViscerator = viscerator
+    .desc = A small, twin-bladed machine capable of inflicting very deadly lacerations.

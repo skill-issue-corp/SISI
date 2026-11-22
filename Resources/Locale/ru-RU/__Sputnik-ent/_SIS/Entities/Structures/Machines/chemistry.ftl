@@ -1,2 +1,2 @@
-ent-ChemistryColdplate = электроохладитель
-    .desc = Потомок микроволновой печи, который так и не научился греть, зато отлично охлаждает мензурки.
+ent-ChemistryColdplate = electric cooler
+    .desc = The descendant of the microwave that never learned to heat, but cools beakers perfectly.

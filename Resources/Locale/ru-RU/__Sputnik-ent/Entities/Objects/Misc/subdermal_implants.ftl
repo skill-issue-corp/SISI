@@ -19,6 +19,9 @@ ent-StorageImplant = имплант "хранилище"
 ent-FreedomImplant = имплант "свобода"
     .desc = Этот имплант позволяет пользователю вырваться из наручников до трёх раз, прежде чем он перестанет функционировать.
 
+ent-RadioImplant = radio implant
+    .desc = This implant grants access to the Syndicate channel without a headset.
+
 ent-UplinkImplant = имплант "аплинк"
     .desc = Этот имплант позволяет пользователю получить доступ к скрытому аплинку Синдиката по желанию.
 

@@ -39,21 +39,35 @@ knowledge-path-blade-s4-desc =
     Крюк разрывается, когда жертва встаёт.
 
 knowledge-path-blade-armor-name = разбитая паноплия
+# AUTOGEN-Start
+# Эхом разносится бесконечная какофония насилия, лишённая направления, вокруг меня.
+# Даже когда стальная паноплия Чемпиона была сорвана с его тела, каждая её часть всё ещё жаждет цели, стремясь перехватить незримых или воображаемых противников.
+# Позволяет превратить стол (или костюм), маску и слиток серебра в Разбитую паноплию.
+# При ношении обеспечивает устойчивость к дубинкам и защиту от электрошока.
+# Действует как фокус, если надет капюшон.
+# При трансмутации открывает улучшение пассивной способности 2-го уровня.
+# AUTOGEN-End TODO(Update_Locale):
 knowledge-path-blade-armor-desc =
-    Эхом разносится бесконечная какофония насилия, лишённая направления, вокруг меня.
-    Даже когда стальная паноплия Чемпиона была сорвана с его тела, каждая её часть всё ещё жаждет цели, стремясь перехватить незримых или воображаемых противников.
+    The echoing, directionless cacophony of violence reverberates about me.
+    Even as the Champion's steel panoply was torn from their form, each piece craves purpose still, seeking to intercept unseen or imagined attackers.
 
-    Позволяет превратить стол (или костюм), маску и слиток серебра в Разбитую паноплию.
-    При ношении обеспечивает устойчивость к дубинкам и защиту от электрошока.
-    Действует как фокус, если надет капюшон.
-    При трансмутации открывает улучшение пассивной способности 2-го уровня.
+    Allows you to transmute a table (or a suit), a mask and a knife to create a Shattered Panoply.
+    Provides baton resistance and shock insulation while worn.
+    Acts as a focus while hooded.
+    Unlocks tier 2 passive ability upgrade when transmuted.
 
 knowledge-path-blade-s5-name = Перестройка
+# AUTOGEN-Start
+# В водовороте смерти он обрёл внутренний покой. Несмотря на непреодолимые преграды, он продолжал идти вперёд.
+# Даёт заклинание "Перестройка", которое на короткое время перестраивает ваше тело.
+# Во время действия заклинания вы быстро восстанавливаете выносливость и выходите из оглушения, но не можете атаковать.
+# AUTOGEN-End TODO(Update_Locale):
 knowledge-path-blade-s5-desc =
-    В водовороте смерти он обрёл внутренний покой. Несмотря на непреодолимые преграды, он продолжал идти вперёд.
+    His general wished to end the war, but the Champion knew there could be no life without death. He would slay the coward himself, and anyone who tried to run.
 
-    Даёт заклинание "Перестройка", которое на короткое время перестраивает ваше тело.
-    Во время действия заклинания вы быстро восстанавливаете выносливость и выходите из оглушения, но не можете атаковать.
+    Grants you Sacraments of Power, a spell that makes you immune to all incoming damage and stamina damage for 5 seconds, the portion of absorbed damage will be sent back to attackers.
+    Harming people while effect is active will force them to bypass it, which allows them to damage you.
+    Takes about 1 second to activate.
 
 knowledge-path-blade-s6-name = Стойка чемпиона
 knowledge-path-blade-s6-desc =

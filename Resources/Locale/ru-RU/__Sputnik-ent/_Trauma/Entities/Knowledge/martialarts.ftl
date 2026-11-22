@@ -19,9 +19,6 @@ ent-MartialArtHellRip = Адский Разрыв
 ent-MartialArtNinjutsu = Ниндзюцу
     .desc = Древнее боевое искусство, сосредоточенное на бесшумных захватах и внезапных атаках.
 
-ent-MartialArtDragon = Кунг-фу Дракона
-    .desc = Убей онтаг
-
 ent-MartialArtSleepingCarp = Спящий Карп
     .desc = Восточное боевое искусство, используемое теми, кто находится в гармонии с космическими карпами.
 
@@ -42,7 +39,6 @@ ent-MartialArtMimejutsu = Мимодзюцу
 
 ent-MartialArtAdminfu = Админ-фу
     .desc = AHELP: клоун гриферит меня, пожалуйста забаньте его
-
 
 ent-MartialArtArmstrongKarate = Карате Стиля Армстронга
     .desc = Стиль карате, рожденный из боли и самоанализа.

@@ -1,0 +1,2 @@
+ent-MobSkeletonCloset = { "" }
+    .desc = { "" }

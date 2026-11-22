@@ -34,6 +34,9 @@ ent-BunnySpawn = { ent-BaseStationEventShortDelay }
 ent-SpiderCrabSpawn = { ent-BaseStationEventShortDelay }
     .desc = { ent-BaseStationEventShortDelay.desc }
 
+ent-GiantMushroomSpawnHorde = { ent-BaseStationEventShortDelay }
+    .desc = { ent-BaseStationEventShortDelay.desc }
+
 ent-FugitiveSpawn = { ent-BaseAntagGhostRoleRule }
     .desc = { ent-BaseAntagGhostRoleRule.desc }
 

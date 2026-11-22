@@ -1,0 +1,2 @@
+ent-PenExploding = { "" }
+    .desc = { "" }

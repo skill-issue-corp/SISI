@@ -4,9 +4,6 @@ ent-BaseMidroundAntagRule = { "" }
 ent-TraitorMidround = { ent-BaseMidroundAntagRule }
     .desc = { ent-BaseMidroundAntagRule.desc }
 
-ent-ChangelingMidround = { ent-BaseMidroundAntagRule }
-    .desc = { ent-BaseMidroundAntagRule.desc }
-
 ent-HereticMidround = { ent-BaseMidroundAntagRule }
     .desc = { ent-BaseMidroundAntagRule.desc }
 
@@ -48,9 +45,3 @@ ent-VoxRaidersMidround = { ent-BaseAntagGhostRoleRule }
 
 ent-ClownGoblinMigration = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
-
-ent-SlasherRule = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
-ent-SlasherSpawn = { ent-SlasherRule }
-    .desc = { ent-SlasherRule.desc }

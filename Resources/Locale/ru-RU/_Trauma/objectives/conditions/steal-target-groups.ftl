@@ -6,3 +6,4 @@ steal-target-groups-gorilla-gloves = перчатки гориллы
 steal-target-groups-cane-blade-librarian = лезвие трости библиотекаря
 steal-target-groups-cane-blade-nanotrasen = лезвие трости Нанотрейзен
 steal-target-groups-security-katana = катана службы безопасности
+steal-target-groups-teleport-armor = reactive teleport armor

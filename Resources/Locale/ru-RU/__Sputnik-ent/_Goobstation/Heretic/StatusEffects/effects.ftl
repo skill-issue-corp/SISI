@@ -76,6 +76,9 @@ ent-ShadowCloakStatusEffect = теневой плащ
 ent-ShadowCloakPaleStatusEffect = лесные наставления
     .desc = { ent-StatusEffectWormBlacklist.desc }
 
+ent-EldritchRustStatusEffect = eldritch rust slowdown
+    .desc = { ent-StatusEffectSlowdown.desc }
+
 ent-ShadowCloakRevealStatusEffect = теневой плащ раскрыт
     .desc = { ent-StatusEffectSlowdown.desc }
 
@@ -101,4 +104,7 @@ ent-SilverMaelstromStatusEffect = серебряный водоворот
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectInfluenceXray = влияние рентгена
+    .desc = { ent-MobStatusEffectBase.desc }
+
+ent-StatusEffectXRayHeretic = x-ray vision
     .desc = { ent-MobStatusEffectBase.desc }

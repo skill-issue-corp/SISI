@@ -11,7 +11,7 @@ ent-CherryBombSeeds = пакет семян вишни
     .desc = Вот только на самом деле это бомбы, потому что вы злодей.
     .suffix = бомба
 
-ent-deliciousAppleSeeds = пакет семян аппетитного яблока
+ent-DeliciousAppleSeeds = packet of delicious apple seeds
     .desc = { ent-AppleSeeds.desc }
 
 ent-MethAppleSeeds = пакет семян метамфетаминового яблока
@@ -23,7 +23,10 @@ ent-ClearCornSeeds = пакет семян прозрачной кукурузы
 ent-PeanutSeeds = пакет семян арахиса
     .desc = { ent-SeedBase.desc }
 
-ent-MagicMushroomSeeds = пакет семян волшебных грибов
+# AUTOGEN-Start
+# пакет семян волшебных грибов
+# AUTOGEN-End TODO(Update_Locale):
+ent-MagicMushroomSeeds = packet of magic mushroom spores
     .desc = { ent-SeedBase.desc }
 
 ent-SynthMeatSeeds = пакет семян синтмяса
@@ -33,4 +36,7 @@ ent-BalloonMelonSeeds = пакет семян дыни-шара
     .desc = { ent-WatermelonSeeds.desc }
 
 ent-SteelWheatSeeds = пакет семян стальной пшеницы
+    .desc = { ent-SeedBase.desc }
+
+ent-PlasticcapSeeds = packet of plastic cap spores
     .desc = { ent-SeedBase.desc }

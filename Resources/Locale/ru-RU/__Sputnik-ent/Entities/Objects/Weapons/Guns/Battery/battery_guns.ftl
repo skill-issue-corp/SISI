@@ -1,5 +1,8 @@
-ent-BaseWeaponBattery = { ent-BaseItem }
+ent-BaseWeaponBatteryNoAmmoCounter = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
+
+ent-BaseWeaponBattery = { ent-BaseWeaponBatteryNoAmmoCounter }
+    .desc = { ent-BaseWeaponBatteryNoAmmoCounter.desc }
 
 ent-BaseLaserRifle = { ent-BaseWeaponBattery }
     .desc = { ent-BaseWeaponBattery.desc }
@@ -7,8 +10,11 @@ ent-BaseLaserRifle = { ent-BaseWeaponBattery }
 ent-BaseWeaponPowerCell = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-BaseWeaponBatterySmall = { ent-BaseWeaponBattery }
-    .desc = { ent-BaseWeaponBattery.desc }
+ent-BaseWeaponBatterySmallNoAmmoCounter = { ent-BaseWeaponBatteryNoAmmoCounter }
+    .desc = { ent-BaseWeaponBatteryNoAmmoCounter.desc }
+
+ent-BaseWeaponBatterySmall = { ent-BaseWeaponBatterySmallNoAmmoCounter }
+    .desc = { ent-BaseWeaponBatterySmallNoAmmoCounter.desc }
 
 ent-BaseWeaponPowerCellSmall = { ent-BaseWeaponPowerCell }
     .desc = { ent-BaseWeaponPowerCell.desc }
@@ -90,11 +96,20 @@ ent-WeaponEnergyMagnum = энергетический магнум
 ent-WeaponTemperatureGun = термопушка
     .desc = Продвинутое оружие, стреляющее лучами, изменяющими температуру тела. Лучи не отражаются.
 
-ent-WeaponLaserGunXenoborg = лазерный пистолет ксеноборга
-    .desc = { ent-WeaponAdvancedLaser.desc }
+# AUTOGEN-Start
+# лазерный пистолет ксеноборга
+# AUTOGEN-End TODO(Update_Locale):
+ent-WeaponLaserGunXenoborg = xenoborg laser gun
+    .desc = { ent-BaseXenoborgContraband.desc }
 
-ent-WeaponLaserCannonXenoborg = лазерная пушка ксеноборга
-    .desc = { ent-WeaponLaserCannon.desc }
+# AUTOGEN-Start
+# лазерная пушка ксеноборга
+# AUTOGEN-End TODO(Update_Locale):
+ent-WeaponLaserCannonXenoborg = xenoborg laser cannon
+    .desc = { ent-BaseXenoborgContraband.desc }
 
 ent-WeaponBurstFireLaserXenoborg = очередной лазер ксеноборга
     .desc = Инопланетное оружие, направляющее через призму лазер, стреляющий очередями и поджигающий цели.
+
+ent-WeaponRangeFinderXenoborg = xenoborg range finder
+    .desc = { ent-BaseWeaponBatteryNoAmmoCounter.desc }

@@ -28,9 +28,11 @@ ent-ClothingBackpackDuffelSyndicateFilledLMG = { ent-ClothingBackpackDuffelSyndi
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
     .suffix = Набор "L6 Saw"
 
-ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор "China-Lake"
+# AUTOGEN-Start
+# .suffix = Набор "China-Lake"
+# AUTOGEN-End TODO(Update_Locale):
+ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = China Lake bundle
+    .desc = An old China Lake grenade launcher bundled with 11 rounds of various destruction capability.
 
 ent-ClothingBackpackDuffelSyndicateAmmoFilled = { ent-ClothingBackpackDuffelSyndicate }
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }

@@ -57,15 +57,6 @@ knowledge-path-side-t1-realignment-desc =
     Во время этого процесса вы быстро восстанавливаете выносливость и быстро приходите в себя после оглушения, но не можете атаковать.
     Не требует фокуса для применения.
 
-knowledge-path-side-t1-envy-name = Обряд украденных лиц
-knowledge-path-side-t1-envy-desc =
-    Однажды вор устал красть золото, поэтому начал красть нечто гораздо более ценное: личности.
-
-    Превратите нож, сердце и маску клоуна или мима, чтобы создать Нож зависти.
-    Нож зависти меняет вашу внешность и имя на внешность и имя того, кого вы им закололи.
-    Вы можете вернуть свою личность в любой момент.
-    Вознесение раскрывает вашу истинную личность и лишает вас возможности использовать нож.
-
 knowledge-path-side-t1-mask-name = Маска безумия
 knowledge-path-side-t1-mask-desc =
     Страх пронзает вас до глубины души, каждый инстинкт кричит отвести взгляд, но уже слишком поздно...
@@ -79,11 +70,16 @@ knowledge-path-side-t1-mask-desc =
     Её также можно надеть на язычника насильно, чтобы он не смог её снять...
 
 knowledge-path-side-t1-coin-name = Эльдрическая монета
+# AUTOGEN-Start
+# Мансус — место всевозможных грехов. Но алчность занимает в нём особое место.
+# Позволяет превратить слиток серебра и золота в Эльдрическую монету.
+# Монета открывает или закрывает ближайшие двери, если выпадает орёл, и переключает их засовы, если выпадает решка.
+# AUTOGEN-End TODO(Update_Locale):
 knowledge-path-side-t1-coin-desc =
-    Мансус — место всевозможных грехов. Но алчность занимает в нём особое место.
+    The Mansus is a place of all sorts of sins. But greed held a special role.
 
-    Позволяет превратить слиток серебра и золота в Эльдрическую монету.
-    Монета открывает или закрывает ближайшие двери, если выпадает орёл, и переключает их засовы, если выпадает решка.
+    Allows you to transmute a bar of silver or gold to create an Eldritch Coin.
+    The coin will open or close nearby doors when landing on heads and toggle their bolts when landing on tails.
 
 knowledge-path-side-t1-ice-spear-name = Тайны Творения
 knowledge-path-side-t1-ice-spear-desc =
@@ -93,16 +89,17 @@ knowledge-path-side-t1-ice-spear-desc =
     при попадании, но что важнее, оно раскалывается при броске, нанося значительный урон и временно замораживая цель в глыбу льда.
     Копьё можно свободно призвать обратно в руку, если оно не уничтожено.
 
+knowledge-path-side-t1-curio-name = Unfatomable Curio
+knowledge-path-side-t1-curio-desc =
+    Along the way, on this long journey, I encounter all sorts of wonders.
+    My passion for collecting is insatiable, and I would not let a single thing slip by.
+    After all, my own ascension may depend on it.
+
+    Allows you to transmute 3 rods, lungs, and utility belt into an Unfathomable Curio -
+    a belt that has a lot of storage space, and also functions as a focus. Whilst worn it will veil you,
+    blocking one blow of incoming damage, at the cost of the veil. The veil will recharge itself out of combat.
+
 ## T2
-knowledge-path-side-t2-curio-name = Непостижимая диковина
-knowledge-path-side-t2-curio-desc =
-    Мансус хранит немало диковин, некоторые не предназначены для смертного взора.
-
-    Позволяет превратить 3 прута, лёгкие и рабочий пояс в Непостижимую диковину —
-    пояс с большим количеством мест для хранения. Во время ношения он окутывает вас пеленой,
-    блокирующей один удар входящего урона ценой этой пелены. Пелена восстанавливается вне боя.
-    Кроме того, пока пелена активна, вы получаете ауру, значительно замедляющую пролетающие мимо снаряды.
-
 knowledge-path-side-t2-rustwalker-name = Ржавый ритуал
 knowledge-path-side-t2-rustwalker-desc =
     Я объединил своё знание творения со своей жаждой порчи. Маршал знал моё имя, и Ржавые холмы отозвались эхом.
@@ -120,15 +117,24 @@ knowledge-path-side-t2-knife-desc =
     Также сгодится как удобное метательное оружие.
 
 knowledge-path-side-t2-morbus-name = Кодекс Морбус
+# AUTOGEN-Start
+# Корешок этого фолианта в кожаном переплёте скрипит жутко болезненным вздохом.
+# Отделить страницу от места стоит немалых усилий, и я не смею задерживаться на том, что предлагает эта книга, дольше необходимого.
+# Она говорит о грядущих чумах, об ожидающих просителях мёртвых и забытых богов, о крушении рода смертных.
+# Она говорит об иглах, сдирающих кожу мира и оставляющих её гноиться. И она обращается ко мне по имени.
+# Позволяет соединить кодекс цикатрикс и тело в Кодекс Морбус.
+# Он чертит руны и вытягивает сущности быстрее.
+# Альт-клик по руне с открытым кодексом проклинает членов экипажа; на руне должна быть кровь или ДНК цели (кровь даёт больший эффект), чтобы проклятие сработало (лучше всего сочетать с Филактерией проклятия).
+# AUTOGEN-End TODO(Update_Locale):
 knowledge-path-side-t2-morbus-desc =
-    Корешок этого фолианта в кожаном переплёте скрипит жутко болезненным вздохом.
-    Отделить страницу от места стоит немалых усилий, и я не смею задерживаться на том, что предлагает эта книга, дольше необходимого.
-    Она говорит о грядущих чумах, об ожидающих просителях мёртвых и забытых богов, о крушении рода смертных.
-    Она говорит об иглах, сдирающих кожу мира и оставляющих её гноиться. И она обращается ко мне по имени.
+    The spine of this leather-bound tome creaks with an eerily pained sigh.
+    To ply page from place takes considerable effort, and I dare not linger on the suggestions the book makes for longer than necessary.
+    It speaks of coming plagues, of waiting supplicants of dead and forgotten gods, and the undoing of mortal kind.
+    It speaks of needles to peel the skin of the world back and leaving it to fester. And it speaks to me by name.
 
-    Позволяет соединить кодекс цикатрикс и тело в Кодекс Морбус.
-    Он чертит руны и вытягивает сущности быстрее.
-    Альт-клик по руне с открытым кодексом проклинает членов экипажа; на руне должна быть кровь или ДНК цели (кровь даёт больший эффект), чтобы проклятие сработало (лучше всего сочетать с Филактерией проклятия).
+    Allows you to to combine a codex cicatrix, and a body into a Codex Morbus.
+    It draws runes, converts items into papers and siphons essences faster. It also can store more papers inside.
+    Alt-Click on a rune with open codex to curse crewmembers, the puddle of target's blood or DNA (blood has greater effect) is required to be on the rune for a curse to take effect (Best combined with Phylactery Of Damnation).
 
 knowledge-path-side-t2-greaves-name = Поножи пророка
 knowledge-path-side-t2-greaves-desc =
@@ -177,17 +183,45 @@ knowledge-path-side-t2-sword-desc =
     Меч не может активировать метку самостоятельно — лучше всего использовать его в сочетании с еретическим клинком.
 
 knowledge-path-side-t2-rifle-name = Винтовка охотника на львов
+# AUTOGEN-Start
+# Я встретил старика в антикварной лавке, владевшего весьма необычным оружием.
+# Тогда я не смог его купить, но он показал мне, как сделал его много лет назад.
+# Позволяет превратить кусок дерева, любой плотский орган и КПК в Винтовку охотника на львов.
+# Винтовка охотника на львов — дальнобойное баллистическое оружие с тремя выстрелами.
+# Эти выстрелы функционируют как обычные, хотя и слабые высококалиберные боеприпасы.
+# Вы можете прицелиться из винтовки в дальнюю цель, кликнув по ней правой кнопкой мыши в боевом режиме,
+# из-за чего выстрел пометит жертву вашим хватом, телепортирует вас прямо к ней и нанесёт двойной урон.
+# 
+# Вы можете превратить 3 баллистические гильзы (использованные или нет) любого калибра, включая патроны для дробовика, в дополнительные боеприпасы для Винтовки охотника на львов.
+# AUTOGEN-End TODO(Update_Locale):
 knowledge-path-side-t2-rifle-desc =
-    Я встретил старика в антикварной лавке, владевшего весьма необычным оружием.
-    Тогда я не смог его купить, но он показал мне, как сделал его много лет назад.
+    I met an old man in an antique shop who wielded a very unusual weapon.
+    I could not purchase it at the time, but they showed me how they made it ages ago.
 
-    Позволяет превратить кусок дерева, любой плотский орган и КПК в Винтовку охотника на львов.
-    Винтовка охотника на львов — дальнобойное баллистическое оружие с тремя выстрелами.
-    Эти выстрелы функционируют как обычные, хотя и слабые высококалиберные боеприпасы.
-    Вы можете прицелиться из винтовки в дальнюю цель, кликнув по ней правой кнопкой мыши в боевом режиме,
-    из-за чего выстрел пометит жертву вашим хватом, телепортирует вас прямо к ней и нанесёт двойной урон.
+    Allows you to transmute a piece of wood, with any flesh organ, and a PDA to create the Lionhunter's rifle.
+    The Lionhunter's Rifle is a long ranged ballistic weapon with three shots.
+    These shots function as normal, albeit weak high-caliber munitions when fired.
+    You can aim the rifle at distant foes by right-clicking them in Combat Mode,
+    causing the shot to mark your victim with your grasp, teleport you directly to them and deal double damage.
+    Allows you to see people through walls when wielded.
 
-    Вы можете превратить 3 баллистические гильзы (использованные или нет) любого калибра, включая патроны для дробовика, в дополнительные боеприпасы для Винтовки охотника на львов.
+    You can transmute 3 ballistic ammo casings (used or unused) of any caliber, including shotgun shells to create extra ammunition for the Lionhunter Rifle.
+
+knowledge-path-side-t2-rustgrenade-name = Rust Sower Grenade
+knowledge-path-side-t2-rustgrenade-desc =
+    The choked vines of the Rusted Hills are burdened with such overripe fruits. It undoes the markers of progress, leaving a clean slate to work into new shapes.
+
+    Transmute a modular grenade casing, a rag and two pieces of trash to create the cursed grenade filled with Eldritch Rust.
+    Upon detonation, it releases a huge cloud that blinds organics, rusts affected turfs and obliterates silicons and mechs.
+
+knowledge-path-side-t2-medal-name = Sharp Medal
+knowledge-path-side-t2-medal-desc =
+    They say that the craftsman who forged this charm did not use ordinary fuel,
+    but his own fingers, which he threw into the forge one by one.
+    The Sharp Medal remembers this and demands more.
+
+    Transmute a hand, eyes and a knife to create the Sharp Medal.
+    The Sharp Medal allows you to throw your blades akin to boomerangs, and also functions as a focus.
 
 ## T3
 knowledge-path-side-t3-grasp-name = Хват разума
@@ -236,19 +270,16 @@ knowledge-path-side-t3-admonitions-desc =
     Лесные увещевания сложнее раскрыть уроном по сравнению с Плащом тени, но и перезарядка у них дольше.
     Пока способность активна, вы также распространяете вокруг себя бледный туман, приглушающий звуки, ослабляющий язычников и отключающий плащ тени у других еретиков.
 
-knowledge-path-side-t3-medal-name = Острая медаль
-knowledge-path-side-t3-medal-desc =
-    Говорят, кузнец, выковавший этот амулет, использовал не обычное топливо,
-    а собственные пальцы, которые бросал в горн один за другим.
-    Острая медаль помнит это и требует ещё.
-
-    Превратите 2 руки, глаза и нож, чтобы создать Острую медаль.
-    Острая медаль позволяет метать ваши клинки как бумеранги, а также действует как фокус.
-
 knowledge-path-side-t3-ash-spirit-name = Пепельный ритуал
+# AUTOGEN-Start
+# Я объединил свой принцип голода с желанием разрушения. Маршал знал моё имя, а Ночной дозорный взирал.
+# Позволяет трансмутировать костёр и книгу, чтобы создать Пепельного духа.
+# Пепельные духи обладают дальним рывком и способностью плавить врагов на расстоянии.
+# Одновременно можно создать только двух.
+# AUTOGEN-End TODO(Update_Locale):
 knowledge-path-side-t3-ash-spirit-desc =
-    Я объединил свой принцип голода с желанием разрушения. Маршал знал моё имя, а Ночной дозорный взирал.
+    I combined my principle of hunger with my desire for destruction. The Marshal knew my name, and the Nightwatcher gazed on.
 
-    Позволяет трансмутировать костёр и книгу, чтобы создать Пепельного духа.
-    Пепельные духи обладают дальним рывком и способностью плавить врагов на расстоянии.
-    Одновременно можно создать только двух.
+    Allows you to transmute a Bonfire and a book to create an Ash Spirit.
+    Ash Spirits have a long range jaunt and the ability to melt the foes at range.
+    You can only create three at a time.

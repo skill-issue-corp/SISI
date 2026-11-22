@@ -4,6 +4,9 @@ ent-MobSkeletonCommander = командир скелетов
 ent-MobVoidSpiker = тентаклевый монстр
     .desc = Стоять на месте, вероятно, плохая идея.
 
+ent-SolutionVoidSpiker = { ent-SolutionWeapon }
+    .desc = { ent-SolutionWeapon.desc }
+
 ent-MobVoidHound = гончая Пустоты
     .desc = Вам, вероятно, не стоит пялиться на эту штуку.
 

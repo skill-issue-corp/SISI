@@ -7,8 +7,5 @@ ent-SubHeretic = { ent-HereticRoundstart }
 ent-SubVampire = { ent-Vampire }
     .desc = { ent-Vampire.desc }
 
-ent-SubSpies = { ent-Spies }
-    .desc = { ent-Spies.desc }
-
-ent-SubChangeling = { ent-Changeling }
-    .desc = { ent-Changeling.desc }
+ent-SubChangeling = { ent-ChangelingRuleRoundstart }
+    .desc = { ent-ChangelingRuleRoundstart.desc }

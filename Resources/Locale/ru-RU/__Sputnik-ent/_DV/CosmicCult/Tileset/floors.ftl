@@ -1,3 +1,6 @@
+ent-FloorTileItemCosmicCorruption = malign tile
+    .desc = { ent-FloorTileItemBase.desc }
+
 ent-FloorCosmicDecay = энтропийный распад
     .desc = Один только взгляд на это заставляет мурашки пробежать по вашей спине.
 

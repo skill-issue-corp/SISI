@@ -1,5 +1,8 @@
-ent-FoodCakeBase = { ent-FoodInjectableBase }
-    .desc = { ent-FoodInjectableBase.desc }
+ent-FoodCakeBaseNoSecretStash = { ent-SolutionNormal }
+    .desc = { ent-SolutionNormal.desc }
+
+ent-FoodCakeBase = { ent-FoodCakeBaseNoSecretStash }
+    .desc = { ent-FoodCakeBaseNoSecretStash.desc }
 
 ent-FoodCakeSliceBase = { ent-FoodCakeBase }
     .desc = Просто кусок торта, хватит на всех.

@@ -1,0 +1,2 @@
+ent-HighSecDoor = { "" }
+    .desc = { "" }

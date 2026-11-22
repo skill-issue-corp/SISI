@@ -1,12 +1,13 @@
-ent-BaseBigBox = картонная коробка
-    .desc = А? Просто коробка...
+ent-BigBox = cardboard box
+    .desc = Huh? Just a box...
 
-ent-StealthBox = { ent-BaseBigBox }
-    .desc = Заставил вас ждать, да?
-    .suffix = Невидимость
-
-ent-BigBox = { ent-BaseBigBox }
-    .desc = { ent-BaseBigBox.desc }
+# AUTOGEN-Start
+# .desc = Заставил вас ждать, да?
+# .suffix = Невидимость
+# AUTOGEN-End TODO(Update_Locale):
+ent-StealthBox = { ent-BigBox }
+    .desc = Kept ya waiting, huh?
+    .suffix = stealth
 
 ent-GhostBox = призрачная коробка
     .desc = Остерегайтесь!

@@ -30,8 +30,12 @@ guide-entry-rules-s4 = S4
 guide-entry-rules-s5 = S5
 guide-entry-rules-s6 = S6
 
-guide-entry-rules-space-law = Космический закон
+# AUTOGEN-Start
+# Космический закон
+# AUTOGEN-End TODO(Update_Locale):
+guide-entry-rules-space-law = Corporate Law
 guide-entry-rules-sl-crime-list = Список преступлений
+guide-entry-rules-sl-rights-charter = Rights Charter
 guide-entry-rules-sl-controlled-substances = Контролируемые вещества
 guide-entry-rules-sl-restricted-gear = Ограниченное снаряжение
 guide-entry-rules-sl-restricted-weapons = Ограниченное оружие

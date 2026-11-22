@@ -1,3 +1,9 @@
+ent-BaseAnimalGhostRole = { "" }
+    .desc = { "" }
+
+ent-BaseMobTrashPanda = { "" }
+    .desc = { "" }
+
 ent-MobMonkeyGhostrole = { ent-MobMonkey }
     .desc = { ent-MobMonkey.desc }
     .suffix = Призрачная роль

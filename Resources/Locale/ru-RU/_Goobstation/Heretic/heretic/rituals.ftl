@@ -21,11 +21,17 @@ heretic-ritual-basic-heart = Неумолимое сердцебиение
 heretic-ritual-basic-heart-desc = Превратите сердце, ручку и бумагу, чтобы перетасовать свои цели. Возможно выпадение тех же целей. Используйте только в крайней необходимости.
 
 heretic-ritual-basic-codex = Кодекс Цикатрикс
+# AUTOGEN-Start
+# Культ оставляет обрывки знаний и силы повсюду. Кодекс Цикатрикс — один из таких примеров. На его кожаных переплётах и древних страницах раскрывается путь в Мансус.
+# Позволяет превратить книгу, любую ручку и любой кусок мяса или не искусственный орган в Кодекс Цикатрикс.
+# Кодекс можно использовать для вытягивания влияний, чтобы получать дополнительные знания, но с большим риском быть замеченным. Его также можно применять для упрощённого создания и удаления рун трансмутации и в качестве фокуса для заклинаний в экстренной ситуации.
+# AUTOGEN-End TODO(Update_Locale):
 heretic-ritual-basic-codex-desc =
-    Культ оставляет обрывки знаний и силы повсюду. Кодекс Цикатрикс — один из таких примеров. На его кожаных переплётах и древних страницах раскрывается путь в Мансус.
+    The occult leaves fragments of knowledge and power anywhere and everywhere. The Codex Cicatrix is one such example. Within the leather-bound faces and age old pages, a path into the Mansus is revealed.
 
-    Позволяет превратить книгу, любую ручку и любой кусок мяса или не искусственный орган в Кодекс Цикатрикс.
-    Кодекс можно использовать для вытягивания влияний, чтобы получать дополнительные знания, но с большим риском быть замеченным. Его также можно применять для упрощённого создания и удаления рун трансмутации и в качестве фокуса для заклинаний в экстренной ситуации.
+    Allows you to transmute a book, any pen, and flesh organ or body part to create a Codex Cicatrix.
+    The Codex Cicatrix can be used for gaining more power from influences. It can also be used to enchant items, draw and remove transmutation runes, and as a spell focus in a pinch.
+    Use Codex Cicatrix on an item to convert it into eldritch card. Eldritch cards are easy to store (codex itself can hold 4) and can be reverted by burning the card.
 
 heretic-ritual-basic-reminiscence = Воспоминание
 heretic-ritual-basic-reminiscence-desc = Трансмутируйте стул, чтобы мгновенно вернуть один из своих потерянных клинков.

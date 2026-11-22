@@ -1,7 +1,7 @@
 ent-AppearanceIPC = внешность КПБ
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobIPC = { ent-AppearanceIPC }
+ent-MobIPC = Urist McPositronic
     .desc = { ent-AppearanceIPC.desc }
 
 ent-OrganIPC = { "" }

@@ -4,3 +4,4 @@ heretic-curse-window-cant-curse = Невозможно проклясть это
 heretic-curse-provider-curse = Проклясть члена экипажа
 heretic-curse-provider-no-dna = Кровь или ДНК жертвы не найдены
 heretic-curse-provider-cursed = Вы прокляты!
+heretic-curse-provider-far-away = Rune not close enough!

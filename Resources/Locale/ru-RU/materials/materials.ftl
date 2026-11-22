@@ -35,6 +35,7 @@ materials-coal = уголь
 materials-diamond = алмазы
 materials-gunpowder = чёрный порох
 materials-cotton = шёлк
+materials-xenoborg-crystal = xenoborg crystal
 
 # Ores
 materials-raw-iron = руда железа

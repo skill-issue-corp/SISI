@@ -1,2 +1,5 @@
 ent-WeaponRifleFAL = Saive Automatique
     .desc = Винтовка XX века со Старой Терры, из-за того, что её приняли на вооружение множество капиталистических стран, она получила прозвище «правая рука свободного мира»
+
+ent-BaseStockHit = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }

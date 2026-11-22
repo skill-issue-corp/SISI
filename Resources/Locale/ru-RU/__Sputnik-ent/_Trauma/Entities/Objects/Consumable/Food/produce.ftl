@@ -42,3 +42,6 @@ ent-MelonBalloon = дыня-шар
 
 ent-SteelWheatBushel = сноп стальной пшеницы
     .desc = Эх... стальная пшеница... сталь-зерно?
+
+ent-PlasticLog = plastic-cap log
+    .desc = Plastic mushroom, not even micro this time. Ages 3 and up.

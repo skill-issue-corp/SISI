@@ -109,8 +109,12 @@ ent-ClothingUniformJumpsuitHydroponics = комбинезон гидропони
 ent-ClothingUniformJumpsuitJanitor = комбинезон уборщика
     .desc = Комбинезон для бедолаги со шваброй.
 
-ent-ClothingUniformJumpsuitKimono = кимоно
-    .desc = Традиционная китайская одежда.
+# AUTOGEN-Start
+# кимоно
+# .desc = Традиционная китайская одежда.
+# AUTOGEN-End TODO(Update_Locale):
+ent-ClothingUniformJumpsuitKimono = kimono
+    .desc = Traditional Japanese clothing.
 
 ent-ClothingUniformJumpsuitMedicalDoctor = комбинезон врача
     .desc = Он сделан из особого волокна, обеспечивающего незначительную защиту от биологической опасности. На груди изображён крест, обозначающий, что владелец — обученный медицинский персонал.

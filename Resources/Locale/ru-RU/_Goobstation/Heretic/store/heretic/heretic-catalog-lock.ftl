@@ -38,12 +38,23 @@ knowledge-path-lock-s4-desc =
     Атакуйте отмеченного, чтобы лишить его возможности проходить через любые двери на время действия метки.
     Даже шлюзы с общим доступом перестанут его впускать.
 
-knowledge-path-lock-s5-name = Обряд консьержа
+# AUTOGEN-Start
+# Обряд консьержа
+# AUTOGEN-End TODO(Update_Locale):
+knowledge-path-lock-s5-name = Wrong Key
+# AUTOGEN-Start
+# Консьерж вписал моё имя в Справочник. «Добро пожаловать в свой новый дом, коллега-Смотритель».
+# 
+# Позволяет преобразовать мелок, деревянную доску и мультитул в Справочник лабиринта.
+# Он может материализовать баррикаду на расстоянии, через которую никто не сможет пройти. Имеет 5 зарядов, которые со временем восстанавливаются.
+# AUTOGEN-End TODO(Update_Locale):
 knowledge-path-lock-s5-desc =
-    Консьерж вписал моё имя в Справочник. «Добро пожаловать в свой новый дом, коллега-Смотритель».
+    There are keys that open doors; then there are keys that alter the reality itself.
+    The Steward knows which key fits the keyhole and which will curse the door with madness.
 
-    Позволяет преобразовать мелок, деревянную доску и мультитул в Справочник лабиринта.
-    Он может материализовать баррикаду на расстоянии, через которую никто не сможет пройти. Имеет 5 зарядов, которые со временем восстанавливаются.
+    Allows you to transmute a screwdriver, a pair of (budget) insulated gloves and a wirecutter to create a Serpentclave.
+    It can trap airlocks; trapped doors will pull heathens with a tentacle and crush them when attempted to be interacted with, dealing damage and stunning them.
+    Doors linked by the eldritch ID cannot be trapped.
 
 knowledge-path-lock-armor-name = меняющееся обличье
 knowledge-path-lock-armor-desc =
@@ -69,14 +80,23 @@ knowledge-path-lock-s7-desc =
     Даёт вам заклинание "Ловкость Вора" — однократное, по цели.
     Позволяет мгновенно забрать случайный предмет из рюкзака цели прямо к себе в руку.
 
-knowledge-path-lock-s8-name = Не тот ключ
+# AUTOGEN-Start
+# Не тот ключ
+# AUTOGEN-End TODO(Update_Locale):
+knowledge-path-lock-s8-name = Concierge's Rite
+# AUTOGEN-Start
+# Есть ключи, что открывают двери; а есть ключи, что меняют саму реальность.
+# Смотритель знает, какой ключ подходит к замку, а какой проклянёт дверь безумием.
+# 
+# Позволяет превратить отвёртку, пару изолированных перчаток и кусачки в Змеиный анклав.
+# Он способен ловить в ловушку шлюзы; захваченные двери будут хватать еретиков щупальцем и раздавливать их при попытке взаимодействия, нанося урон и оглушая их.
+# Двери, связанные эльдрической ID-картой, не могут быть захвачены в ловушку.
+# AUTOGEN-End TODO(Update_Locale):
 knowledge-path-lock-s8-desc =
-    Есть ключи, что открывают двери; а есть ключи, что меняют саму реальность.
-    Смотритель знает, какой ключ подходит к замку, а какой проклянёт дверь безумием.
+    The Concierge scribbled my name into the Handbook. "Welcome to your new home, fellow Steward."
 
-    Позволяет превратить отвёртку, пару изолированных перчаток и кусачки в Змеиный анклав.
-    Он способен ловить в ловушку шлюзы; захваченные двери будут хватать еретиков щупальцем и раздавливать их при попытке взаимодействия, нанося урон и оглушая их.
-    Двери, связанные эльдрической ID-картой, не могут быть захвачены в ловушку.
+    Allows you to transmute a crayon, a wooden plank, and a multitool to create a Labyrinth Handbook.
+    It can materialize a barricade at range that noone can pass. Has 5 charges which regenerate over time.
 
 knowledge-path-lock-s9-name = Последнее убежище Смотрителя
 knowledge-path-lock-s9-desc =

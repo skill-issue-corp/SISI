@@ -13,9 +13,6 @@ ent-LuckyWinnerRule = { ent-BaseGameRule }
 ent-AnomalyStormRule = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-CarpInfestationRule = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
 ent-IonStormScheduler = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 

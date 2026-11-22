@@ -4,6 +4,9 @@ ent-OrganTorsoGhoul = { ent-OrganBaseTorso }
 ent-BaseMobHereticSummon = { ent-BaseSimpleMob }
     .desc = { ent-BaseSimpleMob.desc }
 
+ent-BaseMobHereticSummonFiery = { "" }
+    .desc = { "" }
+
 ent-BaseMobHereticGhoul = { "" }
     .desc = { "" }
 

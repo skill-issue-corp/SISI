@@ -8,6 +8,9 @@ age-markup-senior = [color=#d1d1d1]Двигается медленно, а ше�
 grabbed-shatter-popup = Курица разбивается!
 
 dream-egg-popup = Вы чувствуете, как ваши мышцы отключаются, проходя регенерацию...
+knight-egg-popup = Your skin feels tougher then usual.
+clown-egg-popup = You feel clumsy.
+cluwne-egg-popup = You feel dangerously clumsy.
 medusa-popup = Вы превращаетесь в каменную статую!
 
 # Bizarre....

@@ -18,16 +18,34 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 admin-smite-chess-self = Вы чувствуете себя необычайно маленьким.
-admin-smite-chess-others = { CAPITALIZE($name) } уменьшается до шахматной доски!
+# AUTOGEN-Start
+# {CAPITALIZE($name)} уменьшается до шахматной доски!
+# AUTOGEN-End TODO(Update_Locale):
+admin-smite-chess-others = {CAPITALIZE($entity)} shrinks into the chessboard!
 admin-smite-set-alight-self = Вы загораетесь пламенем!
-admin-smite-set-alight-others = { CAPITALIZE($name) } загорается пламенем!
+# AUTOGEN-Start
+# {CAPITALIZE($name)} загорается пламенем!
+# AUTOGEN-End TODO(Update_Locale):
+admin-smite-set-alight-others = {CAPITALIZE($entity)} bursts into flames!
 admin-smite-remove-blood-self = Вы чувствуете лёгкость и прохладу.
-admin-smite-remove-blood-others = { CAPITALIZE($name) } растекается кровью по всему полу!
+# AUTOGEN-Start
+# {CAPITALIZE($name)} растекается кровью по всему полу!
+# AUTOGEN-End TODO(Update_Locale):
+admin-smite-remove-blood-others = {CAPITALIZE($entity)} leaks blood all over the floor!
 admin-smite-vomit-organs-self = Вас тошнит, и вы чувствуете себя опустошённо!
-admin-smite-vomit-organs-others = { CAPITALIZE($name) } изрыгает свои органы!
+# AUTOGEN-Start
+# {CAPITALIZE($name)} изрыгает свои органы!
+# AUTOGEN-End TODO(Update_Locale):
+admin-smite-vomit-organs-others = {CAPITALIZE($entity)} vomits up their organs!
 admin-smite-remove-hands-self = У вас отваливаются руки!
-admin-smite-remove-hands-other = У { CAPITALIZE($name) } отваливаются руки!
-admin-smite-turned-ash-other = { CAPITALIZE($name) } превращается в кучку пепла!
+# AUTOGEN-Start
+# У {CAPITALIZE($name)} отваливаются руки!
+# AUTOGEN-End TODO(Update_Locale):
+admin-smite-remove-hands-other = {CAPITALIZE($entity)}'s hands fall off!
+# AUTOGEN-Start
+# {CAPITALIZE($name)} превращается в кучку пепла!
+# AUTOGEN-End TODO(Update_Locale):
+admin-smite-turned-ash-other = {CAPITALIZE($entity)} turns into a pile of ash!
 admin-smite-stomach-removal-self = Вы ощущаете пустоту в желудке...
 admin-smite-run-walk-swap-prompt = Для бега вы должны нажать Shift!
 admin-smite-super-speed-prompt = Вы двигаетесь почти со скоростью звука!
@@ -42,6 +60,7 @@ admin-smite-set-alight-name = Воспламенить
 admin-smite-monkeyify-name = Превратить в обезьяну
 admin-smite-garbage-can-name = Мусор
 admin-smite-electrocute-name = Поразить током
+admin-smite-heartattack-name = Heart Attack
 admin-smite-remove-blood-name = Обескровить
 admin-smite-remove-hands-name = Удалить руки
 admin-smite-remove-hand-name = Удалить руку
@@ -91,7 +110,11 @@ admin-smite-explode-description = Взрывает цель.
 admin-smite-chess-dimension-description = Изгоняет цель в шахматное измерение.
 admin-smite-set-alight-description = Поджигает цель.
 admin-smite-monkeyify-description = Превращает цель в обезьяну.
-admin-smite-electrocute-description = Поражает цель электрическим током, делая бесполезным всё, что было на неё надето.
+# AUTOGEN-Start
+# Поражает цель электрическим током, делая бесполезным всё, что было на неё надето.
+# AUTOGEN-End TODO(Update_Locale):
+admin-smite-electrocute-description = Electrocutes them through any insulation.
+admin-smite-heartattack-description = Immediately kills them with asphyxiation damage.
 admin-smite-creampie-description = Кримпай всего одной кнопкой.
 admin-smite-remove-blood-description = Обескровливает цель, кроваво.
 admin-smite-vomit-organs-description = Вызывает у цели рвоту, в том числе и органами.
@@ -168,3 +191,5 @@ admin-trick-pause-map-description = Ставит выбранную карту �
 admin-trick-snap-joints-description = Удаляет все физические шарниры из объекта. К сожалению, не отщёлкивает все кости в теле.
 admin-trick-minigun-fire-description = Заставляет целевое оружие стрелять как миниган (очень быстро).
 admin-trick-set-bullet-amount-description = Быстро устанавливает значение количества незаспавненных патронов в оружии.
+
+admin-smite-ghostkick-reason = Smitten.

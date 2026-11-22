@@ -4,8 +4,8 @@ ent-StatusEffectMutedDevil = { ent-StatusEffectMuted }
 ent-StatusEffectMutedGhoul = { ent-StatusEffectMuted }
     .desc = { ent-StatusEffectMuted.desc }
 
-ent-StatusEffectMutedJaunt = { ent-StatusEffectMuted }
-    .desc = { ent-StatusEffectMuted.desc }
+ent-StatusEffectMutedJaunt = { ent-StatusEffectBase }
+    .desc = { ent-StatusEffectBase.desc }
 
 ent-StatusEffectMutedMutation = { ent-StatusEffectMuted }
     .desc = { ent-StatusEffectMuted.desc }

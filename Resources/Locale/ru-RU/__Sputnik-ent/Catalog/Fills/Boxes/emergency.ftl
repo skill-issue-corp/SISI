@@ -1,3 +1,6 @@
+ent-BaseBoxSurvival = { ent-BoxCardboardSmall }
+    .desc = { ent-BoxCardboardSmall.desc }
+
 ent-BoxSurvival = аварийный запас
     .desc = Коробка с базовым набором для выживания.
 

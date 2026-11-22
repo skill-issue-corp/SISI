@@ -177,8 +177,8 @@ ent-MobPenguin = пингвин
 ent-MobGrenadePenguin = пингвин гренадёр
     .desc = Маленький пингвин с гранатой на шее. Заготавливается Синдикатом на неблагоприятных ледяных планетах.
 
-ent-MobSnake = змея
-    .desc = Шшшш! Укусы не ядовиты.
+ent-MobSnake = snake
+    .desc = Hissss! Bites aren't poisonous.
 
 ent-MobSpiderBase = { ent-BaseMobGiantSpider }
     .desc = { ent-BaseMobGiantSpider.desc }

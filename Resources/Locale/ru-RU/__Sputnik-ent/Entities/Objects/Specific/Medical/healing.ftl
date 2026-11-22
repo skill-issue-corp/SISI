@@ -134,6 +134,10 @@ ent-PillCanisterTricordrazine = баночка для таблеток
     .suffix = Трикордразин 10 ед, 5 шт
     .desc = { ent-PillCanister.desc }
 
+ent-PillCanisterAmbuzol = pill canister
+    .desc = { ent-PillCanister.desc }
+    .suffix = Ambuzol 15u, 2
+
 ent-PillBicaridine = таблетка
     .desc = { ent-Pill.desc }
     .suffix = Бикаридин 10 ед

@@ -4,6 +4,9 @@ signal-port-description-autoclose = Переключает, должно ли у
 signal-port-name-toggle = Переключить
 signal-port-description-toggle = Переключает состояние устройства.
 
+signal-port-name-dock-toggle = Toggle docking
+signal-port-description-dock-toggle = Enables the docking clamp of a device when HIGH.
+
 signal-port-name-on-receiver = Вкл
 signal-port-description-on-receiver = Включает устройство.
 
@@ -27,6 +30,9 @@ signal-port-description-doorbolt = Меняет статус болтирова�
 
 signal-port-name-trigger-receiver = Триггер
 signal-port-description-trigger-receiver = Запускает определённый механизм на устройстве.
+
+signal-port-name-timer = Timer
+signal-port-description-timer = Starts the timer countdown of the device.
 
 signal-port-name-order-sender = Отправитель заказа
 signal-port-description-order-sender = Отправляет заказ на консоль заказа грузов
@@ -87,5 +93,14 @@ signal-port-description-logic-memory-input = Сигнал для загрузк�
 signal-port-name-logic-enable = Включение
 signal-port-description-logic-enable = Загружает входной сигнал в ячейку памяти только при значении HIGH.
 
-signal-port-name-logic-random-input = Вход
+# AUTOGEN-Start
+# Вход
+# AUTOGEN-End TODO(Update_Locale):
+signal-port-name-logic-random-input = Input signal
 signal-port-description-logic-random-input = Входной порт, который принимает любой сигнал для активации случайного Выхода.
+
+signal-port-name-target-receiver = Target receiver
+signal-port-description-target-receiver = Receives target information from a target finder.
+
+signal-port-name-target-source = Target finder
+signal-port-description-target-source = Sends target information to a target receiver.

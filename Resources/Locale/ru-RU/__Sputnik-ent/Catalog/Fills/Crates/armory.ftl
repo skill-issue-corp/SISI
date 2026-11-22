@@ -4,6 +4,9 @@ ent-CrateArmorySMG = ящик с ПП
 ent-CrateArmoryShotgun = ящик с дробовиками
     .desc = На случай, когда врага нужно заменить свинцом. Содержит два боевых дробовика «Enforcer» и несколько стандартных патронов для дробовика. Требуется доступ к Арсеналу для открытия.
 
+ent-CrateArmoryMosin = mosin crate
+    .desc = Reliable, dirt cheap, and loud as hell. Contains three mosin rifles and 12 speedloaders of .30 rifle ammunition. Requires Armory access to open.
+
 ent-CrateTrackingImplants = следящие импланты
     .desc = Содержит несколько имплантеров слежения. Хороши для заключённых, которых вы хотели бы отпустить, но всё же держать под наблюдением.
 

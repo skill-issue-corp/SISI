@@ -1,6 +1,11 @@
-ent-RandomHumanoidSpawnerDeathSquad = Агент Эскадрона Смерти
-    .suffix = Роль ОБР, Эскадрон Смерти
+# AUTOGEN-Start
+# Агент Эскадрона Смерти
+# .suffix = Роль ОБР, Эскадрон Смерти
+# .desc = 
+# AUTOGEN-End TODO(Update_Locale):
+ent-RandomHumanoidSpawnerDeathSquad = Death Squad Agent
     .desc = { "" }
+    .suffix = ERTRole, Death Squad
 
 ent-RandomHumanoidSpawnerERTLeader = ОБР лидер
     .suffix = Роль ОБР, Базовый

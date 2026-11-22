@@ -1,8 +1,12 @@
 ent-BaseWeaponLauncher = BaseWeaponLauncher
     .desc = Направил, нажал, выстрелил.
 
-ent-WeaponLauncherChinaLake = "чайна лейк"
-    .desc = ПЛООП.
+# AUTOGEN-Start
+# "чайна лейк"
+# .desc = ПЛООП.
+# AUTOGEN-End TODO(Update_Locale):
+ent-WeaponLauncherChinaLake = China Lake
+    .desc = PLOOP.
 
 ent-WeaponLauncherHydra = "гидра"
     .desc = ПЛООП... ФССССС...
@@ -14,8 +18,14 @@ ent-WeaponLauncherHydraLethal = { ent-WeaponLauncherHydra }
 ent-WeaponLauncherRocket = РПГ-7
     .desc = Модифицированный старинный ручной противотанковый гранатомет.
 
+ent-WeaponGuidedMissileLauncherXenoborg = XB GML-78
+    .desc = A guided missile launcher.
+
 ent-WeaponLauncherMultipleRocket = многозарядный ракетный гранатомет
     .desc = Модифицированный старинный ручной противотанковый гранатомет.
+
+ent-WeaponRocketLauncherXenoborg = XB MRL-97-D
+    .desc = A alien rocket launcher fitted with special demolition rockets.
 
 ent-WeaponLauncherPirateCannon = пиратская пушка
     .desc = Бабах!

@@ -6,7 +6,11 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Traitor single items
-steal-target-groups-hypospray = гипоспрей
+# Trauma
+# AUTOGEN-Start
+# гипоспрей
+# AUTOGEN-End TODO(Update_Locale):
+steal-target-groups-hypospray = prototype hypospray
 steal-target-groups-clothing-hands-knuckledusters-qm = золотые кастеты
 steal-target-groups-handheld-crew-monitor = портативный монитор экипажа
 steal-target-groups-clothing-outer-hardsuit-rd = экспериментальный исследовательский скафандр

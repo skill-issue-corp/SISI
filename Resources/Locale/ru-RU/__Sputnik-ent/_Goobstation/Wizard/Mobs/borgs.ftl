@@ -25,3 +25,7 @@ ent-PlayerBorgService = { ent-BorgChassisService }
 ent-PlayerBorgSyndicateMedicalBattery = { ent-BorgChassisSyndicateMedical }
     .suffix = Батарея, Модуль, Оперативник
     .desc = { ent-BorgChassisSyndicateMedical.desc }
+
+ent-PlayerBorgSyndicateMedicalGhostRole = { ent-PlayerBorgSyndicateMedicalBattery }
+    .desc = { ent-PlayerBorgSyndicateMedicalBattery.desc }
+    .suffix = Ghost role

@@ -25,3 +25,6 @@ ent-ClothingHandsGlovesGripper = самодельные перчатки зах�
 
 ent-ClothingHandsGlovesForge = кузнечные перчатки
     .desc = Хороши для работы с металлом без риска обжечься.
+
+ent-ClothingHandsGlovesSecurityDuty = security duty gloves
+    .desc = Standard duty gloves of Nanotrasen security forces.

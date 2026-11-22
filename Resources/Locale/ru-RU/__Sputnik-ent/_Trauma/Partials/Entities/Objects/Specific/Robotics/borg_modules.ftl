@@ -1,0 +1,2 @@
+ent-BorgModuleRescue = { "" }
+    .desc = { "" }

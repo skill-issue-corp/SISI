@@ -6,3 +6,6 @@ ent-JawsOfLife = { ent-JawsOfLifeBase }
 
 ent-SyndicateJawsOfLife = гидравлические челюсти смерти
     .desc = Полезны для проникновения в охраняемые зоны и других коварных дел.
+
+ent-XenoborgJawsOfLife = xenoborg jaws of death
+    .desc = Useful for prying open bolted doors where organics are hiding.

@@ -21,3 +21,5 @@ entity-condition-guidebook-organ-slot = у {$part} цели {$inverted ->
     [true] нет слота
     *[false] есть слот
 } {$slot}
+
+entity-condition-guidebook-moving = the target is moving at least { $speed } m/s

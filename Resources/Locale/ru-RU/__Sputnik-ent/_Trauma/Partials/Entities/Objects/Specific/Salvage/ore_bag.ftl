@@ -1,0 +1,2 @@
+ent-OreBag = { "" }
+    .desc = { "" }

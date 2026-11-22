@@ -18,6 +18,3 @@ ent-SpawnMobXenomorphSentinel = спавнер ксеноморфа-стража
 
 ent-SpawnMobXenomorphQueen = спавнер ксеноморфа-королевы
     .desc = { ent-MarkerBase.desc }
-
-ent-SpawnPointGhostLoneXenomorph = { ent-BaseAntagSpawner }
-    .desc = { ent-BaseAntagSpawner.desc }

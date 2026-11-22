@@ -209,8 +209,11 @@ ent-FoodBerries = ягоды
 ent-FoodBungo = плод бунго
     .desc = Скромный плод бунго.
 
-ent-FoodBungoPit = косточка бунго
-    .desc = { ent-FoodInjectableBase.desc }
+# AUTOGEN-Start
+# косточка бунго
+# AUTOGEN-End TODO(Update_Locale):
+ent-FoodBungoPit = bungo pit
+    .desc = { ent-FoodUnperishableInjectableBase.desc }
 
 ent-FoodPeaPod = стручок гороха
     .desc = Любимое лакомство уток!

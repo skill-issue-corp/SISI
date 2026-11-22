@@ -13,8 +13,11 @@ ent-ClothingShoeSlippersDuck = тапочки-уточки
 ent-ClothingShoeSlippersLizard = тапочки-плюшевые ящерки
     .desc = Очаровательная пара тапочек, напоминающих ящеролюда. Сочетайте их с другой зелёной одеждой, и вы станете самым крутым членом экипажа на станции!
 
-ent-ClothingShoesTourist = туристические сандалии
-    .desc = Эти дешёвые сандалии выглядят не очень удобными.
+ent-ClothingShoesSandalsBlack = black sandals
+    .desc = Best paired with robes or Hawaiian shirts. Worst paired with socks.
+
+ent-ClothingShoesSandalsBrown = brown sandals
+    .desc = Best paired with robes or Hawaiian shirts. Worst paired with socks.
 
 ent-ClothingShoesDameDane = ботинки якудзы
     .desc = Наконец-то...

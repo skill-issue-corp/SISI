@@ -29,8 +29,11 @@ ent-GunSafeMelee = сейф для холодного оружия
 ent-GunSafeJudo = сейф с дзюдо
     .desc = { ent-GunSafeBaseSecure.desc }
 
-ent-GunSafeRiotLauncher = сейф для противоштурмовых пусковых установок
-    .desc = { ent-BaseTraumaGunSafe.desc }
+# AUTOGEN-Start
+# сейф для противоштурмовых пусковых установок
+# AUTOGEN-End TODO(Update_Locale):
+ent-GunSafeRiotLauncher = riot launcher safe
+    .desc = { ent-GunSafeEmptyBlue.desc }
 
 ent-GunSafePhaser = сейф для фазеров
     .desc = { ent-BaseTraumaGunSafe.desc }

@@ -6,3 +6,15 @@ ent-CrateSecurityGunpowder = ящик с порохом
 
 ent-CrateSkillChipsSec = ящик с чипами навыков службы безопасности
     .desc = Ящик с чипами навыков службы безопасности. Для открытия требуется доступ службы безопасности.
+
+ent-GunSafeLaserRandom = laser safe
+    .desc = { ent-GunSafeBaseSecure.desc }
+
+ent-GunSafeBallisticRandom = ballistic safe
+    .desc = { ent-GunSafeBaseSecure.desc }
+
+ent-GunSafeTruncheon = truncheon safe
+    .desc = { ent-GunSafeBaseSecure.desc }
+
+ent-GunSafeCburnSpear = dispatch spear safe
+    .desc = { ent-GunSafeBaseSecure.desc }
