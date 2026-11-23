@@ -1,4 +1,5 @@
 using Content.Inky.Shared.Werewolf.Components;
+using Content.Shared.Administration;
 using Content.Shared.Antag;
 using Content.Shared.Database;
 using Content.Shared.Mind.Components;
@@ -14,6 +15,16 @@ public sealed partial class InkyAdminVerbSystem
 
     private void AddAdminVerbs(GetVerbsEvent<Verb> args)
     {
+        // SIS-Adminverb_fix Start // SIS-TODO: Порт на Инки
+        if (!TryComp<ActorComponent>(args.User, out var actor))
+            return;
+
+        var player = actor.PlayerSession;
+
+        if (!_adminManager.HasAdminFlag(player, AdminFlags.Fun))
+            return;
+        // SIS-Adminverb_fix End
+
         if (!HasComp<MindContainerComponent>(args.Target) || !TryComp<ActorComponent>(args.Target, out var targetActor))
             return;
 
