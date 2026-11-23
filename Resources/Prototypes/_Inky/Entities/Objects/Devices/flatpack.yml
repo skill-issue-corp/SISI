@@ -7,4 +7,4 @@
   description: A flatpack used for constructing a life support machine
   components:
   - type: Flatpack
-    entity: StructureLifeSupport
+    entity: StructureLifeSupportFilled # SIS
