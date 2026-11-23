@@ -3,6 +3,7 @@ using Content.Shared.Mech.Components;
 using Content.Shared.Mech.EntitySystems;
 using Content.Shared.Rejuvenate;
 // </Trauma>
+using Content.Medical.Common.Body;
 using System.Linq;
 using Content.Server.Administration.Managers;
 using Content.Server.Atmos.Components;
@@ -152,6 +153,7 @@ public sealed partial class ZombieSystem
         //we need to basically remove all of these because zombies shouldn't
         //get diseases, breath, be thirst, be hungry, die in space, get double sentience, have offspring or be paraplegic.
         RemComp<RespiratorComponent>(target);
+        EnsureComp<BreathingImmunityComponent>(target); // SIS
         RemComp<BarotraumaComponent>(target);
         RemComp<SatiationComponent>(target);
         RemComp<ReproductiveComponent>(target);
