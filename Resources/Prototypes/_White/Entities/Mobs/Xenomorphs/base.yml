@@ -11,6 +11,7 @@
   id: BaseMobXenomorph
   abstract: true
   components:
+  - type: BreathingImmunity # SIS
   - type: LanguageHivemind
     language: XenoHivemind
   - type: Xenomorph

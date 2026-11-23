@@ -44,6 +44,7 @@
   - MobNightVision
   id: MobShattered
   components:
+  - type: BreathingImmunity # SIS
   - type: FootprintOwner
   - type: StunVisuals
   - type: FireVisuals

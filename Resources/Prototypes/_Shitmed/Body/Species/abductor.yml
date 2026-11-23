@@ -42,6 +42,7 @@
   id: MobAbductor
   name: Urist McAlien
   components:
+  - type: BreathingImmunity # SIS
   - type: Absorbable
   - type: WraithAbsorbable
   - type: Bloodstream
