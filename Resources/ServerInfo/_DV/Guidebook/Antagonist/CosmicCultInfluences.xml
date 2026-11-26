@@ -1,32 +1,32 @@
 <Document>
-  # Influences
+  # Влияния
 
-  Culists begin with two powerful inflences, and will gradually unlock more as they progress the Monument through its three stages.
+  Культисты начинают с двумя мощными влияниями и постепенно разблокируют новые по мере продвижения Монумента через три его стадии.
 
-  Once a cultist reaches the third stage, any time a cultist uses an influence, they have a chance to generate a telltale [color=#4cabb3]Malign Echo[/color]. These will fade after a short time, but may alert outsiders to the presence of your cult prematurely!
+  Как только культист достигает третьей стадии, каждый раз при использовании влияния у него появляется шанс создать выдающий [color=#4cabb3]Зловещее Эхо[/color]. Оно исчезнет через короткое время, но может преждевременно выдать посторонним присутствие вашего культа!
 
-  Using Siphon Entropy will never generate a Malign Echo.
+  Использование Высасывания Энтропии никогда не создаёт Зловещее Эхо.
 
   <Box>
     <GuideEntityEmbed Entity="CosmicEchoVfx" Caption=""/>
   </Box>
 
-  ## Starting Influences
-  - [color=#4cabb3][bold]Siphon Entropy:[/bold][/color] Silently siphon entropy from your target. If the target is in critical condition, it will finish them off, but also give much more entropy.
-  - [color=#4cabb3][bold]Attune Influence:[/bold][/color] Check the cult's progress, and spend gathered entropy to unlock better, more powerful Influences.
+  ## Начальные Влияния
+  - [color=#4cabb3][bold]Высосать Энтропию:[/bold][/color] Незаметно высосите энтропию из вашей цели. Если цель находится в критическом состоянии, это добьёт её, но также даст гораздо больше энтропии.
+  - [color=#4cabb3][bold]Настроить Влияние:[/bold][/color] Проверьте прогресс культа и потратьте накопленную энтропию, чтобы разблокировать более сильные и мощные Влияния.
 
-  ## Special Influences
-  - [color=#4cabb3][bold]Null Fragmentation:[/bold][/color] Transfer malign empowerment into a digital system, such as an AI Upload Console or Cyborg, corrupting it in the process. Doing so will expend empowerment.
+  ## Особые Влияния
+  - [color=#4cabb3][bold]Нулевая Фрагментация:[/bold][/color] Перенесите зловещее могущество в цифровую систему, например в Консоль Загрузки ИИ или Киборга, повреждая её в процессе. Это израсходует ваше могущество.
 
-  ## Unlockable Influences
-  - [color=#4cabb3][bold]Null Glare:[/bold][/color] Emit a horrific pulse of cosmic light, slowing and disorienting everyone around you.
-  - [color=#4cabb3][bold]Abberant Lapse:[/bold][/color] Lapse your target's corporeal form, temporarily rendering it immutable, impassible, and frozen in place.
-  - [color=#4cabb3][bold]Force Ingress:[/bold][/color] Use a concentrated blast of power to force any lock open.
-  - [color=#4cabb3][bold]Unbound Step:[/bold][/color] You move relative only to the starless black - your movement is no longer affected by gravity.
-  - [color=#4cabb3][bold]Corrupt Matter:[/bold][/color] Pour malign power into an item, transforming it into something else. You can see what items can be transmuted by examining them.
-  - [color=#4cabb3][bold]Shunt Subjectivity:[/bold][/color] Shunt your target's mind out of their body and unto the cosmic dark, temporarily rendering their body mindless.
-  - [color=#4cabb3][bold]Astral Stride:[/bold][/color] Astral energy invigorates your movement, allowing you to run at incredible speed for a short amount of time.
-  - [color=#4cabb3][bold]Shatter Cognition:[/bold][/color] Share the Knowledge with an unsuspecting crewmember, leaving them with no choice but to join your cause.
-  - [color=#4cabb3][bold]Astral Nova:[/bold][/color] Hurl a large and disruptive blast of astral energy, wreaking havoc upon a large area.
-  - [color=#4cabb3][bold]Vacuous Imposition:[/bold][/color] Negate any incoming damage for a short time, at the cost of slowing down your movement.
+  ## Разблокируемые Влияния
+  - [color=#4cabb3][bold]Нулевое Сияние:[/bold][/color] Испустите ужасающий импульс космического света, замедляющий и дезориентирующий всех вокруг вас.
+  - [color=#4cabb3][bold]Аберрантный Разлом:[/bold][/color] Разорвите телесную форму вашей цели, временно сделав её неизменной, непроницаемой и застывшей на месте.
+  - [color=#4cabb3][bold]Силовой Взлом:[/bold][/color] Используйте сконцентрированный всплеск силы, чтобы взломать любой замок.
+  - [color=#4cabb3][bold]Освобождённый Шаг:[/bold][/color] Вы движетесь относительно лишь беззвёздной тьмы — на ваше передвижение больше не влияет гравитация.
+  - [color=#4cabb3][bold]Осквернить Материю:[/bold][/color] Влейте зловещую силу в предмет, превращая его во что-то иное. Вы можете увидеть, какие предметы поддаются трансмутации, осмотрев их.
+  - [color=#4cabb3][bold]Вытолкнуть Сознание:[/bold][/color] Вытолкните разум вашей цели из тела в космическую тьму, временно лишив её тело сознания.
+  - [color=#4cabb3][bold]Астральный Шаг:[/bold][/color] Астральная энергия придаёт вашему движению стремительность, позволяя вам бежать с невероятной скоростью в течение короткого времени.
+  - [color=#4cabb3][bold]Разбить Сознание:[/bold][/color] Поделитесь Знанием с ничего не подозревающим членом экипажа, не оставляя ему иного выбора, кроме как присоединиться к вашему делу.
+  - [color=#4cabb3][bold]Астральная Нова:[/bold][/color] Обрушьте мощный и разрушительный взрыв астральной энергии, сея хаос на большой площади.
+  - [color=#4cabb3][bold]Пустотное Наложение:[/bold][/color] Аннулируйте любой входящий урон на короткое время ценой замедления вашего передвижения.
 </Document>

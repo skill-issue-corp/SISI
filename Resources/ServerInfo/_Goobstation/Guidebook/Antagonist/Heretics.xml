@@ -1,175 +1,175 @@
 <Document>
-  # The Mansus Veil Weakens
-  So you're a Heretic? Well, get ready for magic and battle. Grab influences, complete sacrifices, accomplish rituals, and ascend to godhood.
+  # Завеса Мансуса Слабеет
+  Итак, вы еретик? Что ж, готовьтесь к магии и битвам. Собирайте влияния, совершайте жертвоприношения, выполняйте ритуалы и восходите к божественности.
 
-  Your ultimate goal is to ascend and become all powerful, but to do that you must gain knowledge.
-  In order to ascend, you must complete your objectives, research final ascension knowledge and perform ascension ritual on transmutation rune.
+  Ваша конечная цель - вознестись и стать всемогущим, но для этого вам нужно получить знания.
+  Чтобы вознестись, вам необходимо выполнить свои задачи, изучить знание финального вознесения и провести ритуал вознесения на руне трансмутации.
 
-  To start, you need to choose a path, currently there are six paths:
-  - The [textlink="Ashen Path" link="AshPath"]: Focuses on fire, damage over time, and early mobility. Great for new heretics.
-  - The [textlink="Path of Void" link="VoidPath"]: Focuses on cold, silence, and stealth. Also great for new heretics.
-  - The [textlink="Path of Flesh" link="FleshPath"]: Focuses on necromancy and summoning. Good for heretics that want friends.
-  - The [textlink="Path of Lock" link="LockPath"]: Focuses on mobility, access, and stealth. Good for heretics that want to be sneaky.
-  - The [textlink="Rusted Path" link="RustPath"]: Focuses on area control, and rapid healing. Good for heretics that want to be extremely tanky.
-  - The [textlink="Path of Blade" link="BladePath"]: Focuses on sheer melee power. Good for heretics that want a bloodbath.
-  - The [textlink="Path of Cosmos" link="CosmosPath"]: Focuses on teleportation and confusion! A very difficult heretic path to master.
+  Для начала вам нужно выбрать путь, на данный момент существует шесть путей:
+  - [textlink="Пепельный Путь" link="AshPath"]: Сосредоточен на огне, уроне со временем и ранней мобильности. Отлично подходит для новых еретиков.
+  - [textlink="Путь Пустоты" link="VoidPath"]: Сосредоточен на холоде, тишине и скрытности. Также отлично подходит для новых еретиков.
+  - [textlink="Путь Плоти" link="FleshPath"]: Сосредоточен на некромантии и призыве. Хорош для еретиков, желающих обзавестись друзьями.
+  - [textlink="Путь Засова" link="LockPath"]: Сосредоточен на мобильности, доступе и скрытности. Хорош для еретиков, которые хотят действовать незаметно.
+  - [textlink="Путь Ржавчины" link="RustPath"]: Сосредоточен на контроле территории и быстром исцелении. Хорош для еретиков, желающих быть чрезвычайно живучими.
+  - [textlink="Путь Клинка" link="BladePath"]: Сосредоточен на чистой мощи ближнего боя. Хорош для еретиков, жаждущих кровавой бани.
+  - [textlink="Путь Космоса" link="CosmosPath"]: Сосредоточен на телепортации и путанице! Очень сложный путь еретика для освоения.
 
-  [textlink="Click here to see more information and list of starting and side knowledge" link="HereticRituals"]
+  [textlink="Нажмите здесь, чтобы увидеть больше информации и список начальных и побочных знаний" link="HereticRituals"]
 
-  After choosing your path; it's time to gather your first influences, this can be done in three ways.
-  - Sacrificing crew members your dark patrons hunger for.
-  - Automatically getting one knowledge point every 20 minutes.
-  - Draining influences that spawn randomly after you complete a sacrifice.
+  После выбора пути настало время собрать первые влияния, это можно сделать тремя способами.
+  - Принося в жертву членов экипажа, которых жаждут ваши тёмные покровители.
+  - Автоматически получая одно очко знания каждые 20 минут.
+  - Поглощая влияния, которые появляются в случайных местах после завершения жертвоприношения.
 
 
-  ## Reality Shifts
+  ## Разломы Реальности
 
   <Box>
-    <GuideEntityEmbed Entity="EldritchInfluence" Caption="Reality Shift"/>
+    <GuideEntityEmbed Entity="EldritchInfluence" Caption="Разлом Реальности"/>
   </Box>
-  Reality shifts are the easy way to gain power points. Anytime a Heretic completes a sacrifice, shifts will randomly spawn across the station.
-  Coming near a Reality Shift will temporarily grant Heretic the ability to see them through walls, making it easier to locate them.
-  They are not visible to the naked eye of a crew member, however they [bold]will[/bold] become visible after harvesting, aside from suddenly changing colors.
-  Shifts give 1 knowledge point when harvested normally, and can be harvested with either [color=green]Codex Cicatrix[/color] or [color=green]Codex Morbus[/color] to get a knowledge point in addition to a side point.
+  Разломы реальности — простой способ получить очки знания. После каждого жертвоприношения еретика в случайных местах станции появляются новые разломы.
+  Приблизившись к разлому, еретик на время сможет видеть разломы сквозь стены.
+  Экипаж не видит нетронутые разломы. После сбора они меняют цвет и [bold]становятся[/bold] видимыми для всех.
+  Обычный сбор даёт одно очко знания. С помощью [color=green]Кодекса Цикатрикс[/color] или [color=green]Кодекса Морбус[/color] вы также получите очко побочного знания.
   <Box>
-    <GuideEntityEmbed Entity="EldritchInfluenceSpent" Caption="Harvested Reality Fracture. Notice the glow."/>
+    <GuideEntityEmbed Entity="EldritchInfluenceSpent" Caption="Собранный разлом реальности. Обратите внимание на свечение."/>
   </Box>
 
-  Each reality shift can only be harvested once, so try to get them before other heretics, even if that means killing other heretics.
+  Каждый разлом можно собрать лишь однажды. Постарайтесь опередить других еретиков, даже если с ними придётся расправиться.
 
 
-  ## Transmutation is Key
+  ## Трансмутация
 
-  Eventually, you'll need to start using proper magics. To draw a transmutation rune, you'll need a writing tool, such as a pen or crayon.
-  Activate [color=green]Mansus Grasp[/color] in your offhand and click on the floor to start drawing a rune.
-  These runes are highly noticeable and take up a 3x3 area.
-  You can freely remove runes by using your pen with the activated [color=green]Mansus Grasp[/color] on it, and you can also freely use other Heretic's runes.
+  Для начертания руны трансмутации понадобится ручка или мелок.
+  Активируйте [color=green]Хватку Мансуса[/color] в свободной руке и нажмите на пол, чтобы начать чертить руну.
+  Руны хорошо видны и занимают площадь 3×3.
+  Чтобы стереть руну, используйте на ней ручку с активной [color=green]Хваткой Мансуса[/color]. Можно пользоваться и рунами других еретиков.
 
-  To [bold]transmute[/bold], simply click the rune with your empty hand to choose the needed ritual, after that use your [color=green]Mansus Grasp[/color] on the rune to see what objects you require for the ritual.
-  You can always see your chosen ritual by [bold]inspecting[/bold] the rune.
+  Чтобы [bold]провести трансмутацию[/bold], просто щёлкните по руне пустой рукой, чтобы выбрать нужный ритуал, после чего используйте [color=green]Хватку Мансуса[/color] на руне, чтобы увидеть, какие предметы вам нужны для ритуала.
+  Вы всегда можете увидеть выбранный вами ритуал, [bold]осмотрев[/bold] руну.
 
-  Transmutation Rituals allow you to create powerful artifacts, demonic monsters, and many useful tools that will help you progress towards ultimate power.
-
-
-  ## Sacrifices
-
-  The primary method for getting knowledge is by sacrificing crewmates.
-  The Mansus desires only a select few Heathens (non-heretics) at any moment.
-
-  At the start of the round you will be assigned four-five sacrifice targets.
-
-  - One target will be a Head of Staff.
-  - One target will be a member of Security.
-  - Other targets will be completely random crewmembers.
-
-  Sacrificing a Head of Staff or member of security will reward you 3 knowledge points, sacrificing any other crewmember will reward 2. You cannot sacrifice regular non-target crewmembers.
-
-  Other heretics are an exception. You can always sacrifice another heretic and get 3 knowledge points for doing so.
-
-  Follow your [color=red]Living Heart[/color] to your target of choice and incapacitate them through any means necessary. If your target is incapacitated, they're ready to sacrifice.
-  Drag them over a transmutation rune and invoke the [color=yellow]Sacrifice[/color] to sacrifice them.
-
-  First, drag a body on the rune, then select the ritual by clicking the rune with an empty hand. Then click on the rune with your Mansus Grasp to invoke the ritual and sacrifice the body.
-
-  You can reroll your targets by invoking [color=yellow]Relentless Heartbeat[/color] ritual.
+  Ритуалы трансмутации позволяют создавать мощные артефакты, демонических монстров и множество полезных инструментов, которые помогут вам продвинуться к абсолютной силе.
 
 
-  ## Mansus Grasp
+  ## Жертвоприношения
 
-  A powerful spell that garbles target speech, knocks them down and deals 40 stamina damage. It has additional effects based on your chosen path.
-  [color=red]Important:[/color] Mansus Grasp cannot be used by clicking a mob using context menu. But it works in [color=red]Combat Mode[/color], Left click in combat mode only affects mobs, and right click acts like left click, but affects everything. Note that Mansus Grasp cannot miss.
+  Основной способ получить знания — принести в жертву члена экипажа.
+  Мансус в каждый момент принимает лишь нескольких избранных язычников.
 
+  В начале раунда вам будут назначены четыре-пять целей для жертвоприношения.
 
-  ## The Heretic Blade
+  - Одной целью будет глава отдела.
+  - Одной целью будет сотрудник службы безопасности.
+  - Остальные цели будут выбраны совершенно случайным образом среди членов экипажа.
 
-  The Sickly Blade will be your first unlocked research. It can be created by transmuting a common knife (this includes even Shivs, which are made by wrapping Glass Shards with Cloth) with a secondary ingredient based on your path, and serves as a powerful melee weapon as well as a one time use escape tool.
+  Жертвоприношение главы отдела или сотрудника службы безопасности вознаградит вас 3 очками знания, жертвоприношение любого другого члена экипажа - 2 очками. Вы не можете приносить в жертву обычных членов экипажа, не являющихся целями.
 
-  All paths have their own kind of blade, which only differ in appearance and name without any additional research. As with the Mansus Grasp, your blade will be upgraded by your research over time. Said upgrades will differ depending on the path you choose.
+  Другие еретики являются исключением. Вы всегда можете принести в жертву другого еретика и получить за это 3 очка знания.
 
-  You are limited in the amounts of blades you can create at a time - most paths limit you to two blades, and Blade limits you to four.
+  Следуйте за своим [color=red]Живым Сердцем[/color] к выбранной цели и лишите её дееспособности любым необходимым способом. Если ваша цель недееспособна, она готова к жертвоприношению.
+  Оттащите её на руну трансмутации и произнесите ритуал [color=yellow]Жертвоприношение[/color], чтобы принести её в жертву.
 
-  Additionally, you can break your blade by activating it in-hand to teleport to a random, (mostly) safe location in a pinch. Better to lose your weapon and live another day than die fighting. The ability to blade break is lost once your Path Robes are crafted or you acquire 10 knowledge points or research Blade upgrade.
+  Сначала перетащите тело на руну, затем выберите ритуал, щёлкнув по руне пустой рукой. Затем щёлкните по руне своей Хваткой Мансуса, чтобы провести ритуал и принести тело в жертву.
 
-
-  ## The Heretic Robe
-
-  Heretic Robes are unlocked as you progress through the Research Tree, you can find them in [bold]Special Knowledge[/bold] tab when it is available.
-
-  To conjure them, you'll need to transmute various materials on a Transmutation Rune, namely: table or suit with sensors, any mask and extra step/ingredient that matches your path's blade creation ritual.
-  Each path has its own Robes, and each robes have their unique effects.
+  Вы можете перевыбрать свои цели, произнеся ритуал [color=yellow]Неумолимое Сердцебиение[/color].
 
 
-  ## Passive Abilities
+  ## Хватка Мансуса
 
-  Upon selecting a path, the Heretic will receive a passive ability that can be upgraded a couple of times.
-
-  Crafting your robes upgrades your passive to Tier 2, which unlocks the Ritual of Knowledge. This ritual requires a set of random items; completing it grants 4 Knowledge Points and the final passive upgrade.
-
-
-  ## Heretical Research
-
-  Once you have some power points, it's time to research! Open up your knowledge store using the action button.
-  The research menu forms a branching tree, and your first selection will be to commit to a path that defines your abilities and Final Ascension.
-  You can learn side knowledge available to all paths, but overall your chosen path will heavily influence your play-style.
+  Мощное заклинание, искажающее речь цели, сбивающее её с ног и наносящее 40 урона выносливости. Обладает дополнительными эффектами в зависимости от выбранного вами пути.
+  [color=red]Важно:[/color] Хватку Мансуса нельзя использовать, щёлкая по существу через контекстное меню. Но она работает в [color=red]Боевом Режиме[/color], левый клик в боевом режиме затрагивает только существ, а правый клик действует как левый, но затрагивает всё. Обратите внимание, что Хватка Мансуса не может промахнуться.
 
 
-  ## Focus is Necessary
+  ## Клинок Еретика
 
-  To cast more advanced spells, you must focus by wearing an [color=orange]Amber Focus[/color].
-  You can acquire Amber Focus using the eponymous ritual.
-  Some more powerful heretical equipment also functions as a focus - namely, the Ominous Armor from the Armorer's Ritual (when the hood is flipped up).
-  [color=yellow]Ascension[/color] disables the need for a focus.
+  Хилый Клинок будет вашим первым доступным исследованием. Его можно создать, трансмутировав обычный нож (сюда относятся даже заточки, которые изготавливаются оборачиванием осколков стекла тканью) со вторым ингредиентом, зависящим от вашего пути, и он служит как мощным оружием ближнего боя, так и одноразовым инструментом для побега.
 
+  У всех путей есть свой собственный вид клинка, которые отличаются только внешним видом и названием без каких-либо дополнительных исследований. Как и Хватка Мансуса, ваш клинок будет улучшаться по мере ваших исследований. Эти улучшения будут различаться в зависимости от выбранного вами пути.
 
-  ## Point of No Return: The Heretic Aura
+  Вы ограничены в количестве клинков, которые можете создать одновременно - большинство путей ограничивают вас двумя клинками, а Путь Клинка - четырьмя.
 
-  This is the most important turning point for any Heretic. When you either craft your [bold]Path-Specific Robes[/bold] or acquire [bold]10 knowledge points[/bold] or researching [bold]Path-Specific Blade Upgrade[/bold] (whichever comes first), the following permanent changes occur:
-
-  - You lose the ability to Blade Break (emergency teleport by activating blade in-hand).
-  - You gain a permanent visible aura that identifies you as a Heretic to everyone. This makes you valid to kill.
-
-  If you choose [color=yellow]Feast of Owls[/color] (reject ascension for points) or pick the [color=purple]Lock Path[/color], you will not receive the aura.
-
-Once the aura appears, there is no hiding what you are. Plan accordingly.
+  В крайнем случае активируйте клинок в руке, чтобы разбить его и телепортироваться в случайное, обычно безопасное место. Возможность исчезнет, когда вы изготовите одеяние своего пути, наберёте 10 очков знания или исследуете улучшение клинка.
 
 
-  ## Heretic Ascension
+  ## Одеяние Еретика
 
-  Ascension is unlocked when purchasing final path knowledge and completing the final ritual, after completing which, heretic becomes much more powerful, and their passive ability automatically levels up to level 3.
+  Одеяния открываются по мере исследований. Ищите их на вкладке [bold]«Особые Знания»[/bold].
 
-  Ritual is different for every path, but it always requires 3-4 [bold]humanoid[/bold] bodies that had [color=yellow]soul[/color] at some point of time.
-
-  For example, decapitated body [bold]will[/bold] work if it was controlled by player at some point, but unidentified corpse from salvage wreck usually [bold]wont[/bold].
-
-  Most paths require bodies to be under certain condition, consult path specific guidebook page to learn more about it.
-
-  Remember that [color=yellow]Feast of Owls[/color] ritual disables ascension entirely.
+  Для трансмутации понадобятся стол или костюм с датчиками, любая маска и дополнительный ингредиент или действие из ритуала создания клинка вашего пути.
+  У каждого пути своё одеяние с особыми эффектами.
 
 
-  ## The Chaplain
-  A powerful foe indeed, try to steer clear of the Chaplain! Their Null Rod and it's variants will block magic and deal holy damage to you while you're wielding heretical equipment!
+  ## Пассивные Способности
 
-  Heretics can heal holy damage a few ways:
-  - Standing on a transmutation rune.
-  - Standing on rust as rusted path heretic.
-  - Being near raw prophets as flesh heretic.
-  - Drinking from the Eldritch Flask.
-  - Using Nightwatcher's Rebirth ashen path ability.
-  - Hitting living people with your blades as ascended blade heretic.
+  При выборе пути еретик получает пассивную способность, которую можно улучшить несколько раз.
+
+  Создание ваших одеяний улучшает вашу пассивную способность до 2 уровня, что открывает Ритуал Знания. Этот ритуал требует набор случайных предметов; его выполнение даёт 4 очка знания и финальное улучшение пассивной способности.
 
 
-  ## Tips
-  - All heretic blades penetrate armor to some extent, trigger marks, and can be used in hand to teleport away from danger.
-  - Your Mansus Grasp will temporarily garble the speech of people who you use it on. This can let you get away with murder while comms are online. It also breaks their suit sensors temporarily, making them invisible on crew monitors.
-  - Your blade and your mark act as surgery tools. You can use them to extract organs from people or heal yourself as a last resort.
-  - Your blade creation ritual has a limited amount of blades you can create. 2 for most paths and 4 for blade path. Performing this ritual again, while limit is reached, will instead teleport one of your lost blades on the transmutation rune.
-  - Need vomit for rituals? Spin or do a flip multiple times in a quick succession to make yourself vomit.
-  - You can enchant items using your Codex Cicatrix and Transmutation rune. [textlink="For more info on enchanting, click here." link="Enchanting"]
-  - Codex has an unique feature of "compressing" various items into eldritch cards that can free up inventory space; Codex itself can also store some cards inside it.
-  - Be wary of other heretics. They worship false gods, and will sacrifice you for knowledge just as easily as they would any other heathen. However, you can sacrifice them to the Mansus as well. Let the strongest god win.
-  - As a [color=purple]Raw Prophet[/color], your [color=green]Mansus Link[/color] ability is extremely useful for communication. When you use it on someone, they gain a hivemind similar to changelings with +m key to talk privately.
-  - [color=purple]Influences[/color] can spawn in almost any location on the station, ranging from the main hallways and public restrooms to [color=cyan]Command staff offices[/color] and [color=red]restricted security areas[/color] in the Brig. It's best to check every area you can access, public and department.
-  - Monkeys and other animals make for great, usually non-suspicious sources of organs or corpses for your heretical rituals.
-  - Most summoned ghouls will drop organs on death. While having them to die is not ideal, you can easily grab the parts and summon another.
-  - [color=yellow]Eldritch Flask[/color], a Tier 1 side path knowledge acts like a cryostasis beaker and has a total capacity of 100 units, meaning you can create deadly mixes that are easily triggered.
+  ## Еретические Исследования
+
+  Набрав очки, откройте меню знаний кнопкой способности.
+  Дерево исследований ветвится. Первым выбором вы определяете свой путь, способности и итоговое вознесение.
+  Побочные знания доступны всем, но выбранный путь во многом определяет ваш стиль игры.
+
+
+  ## Фокусировка
+
+  Для продвинутых заклинаний наденьте [color=orange]Янтарный Фокус[/color].
+  Его можно получить одноимённым ритуалом.
+  Некоторые более мощные предметы тоже служат фокусом. Например, Зловещая броня из ритуала бронника при поднятом капюшоне.
+  После [color=yellow]Вознесения[/color] фокус больше не нужен.
+
+
+  ## Точка Невозврата — Аура Еретика
+
+  Как только вы изготовите [bold]Одеяние Своего Пути[/bold], наберёте [bold]10 очков знания[/bold] или исследуете [bold]Улучшение Клинка Своего Пути[/bold], произойдут следующие необратимые изменения:
+
+  - Вы теряете способность разбивать клинок (экстренная телепортация путём активации клинка в руке).
+  - Вы получаете постоянную видимую ауру, которая опознаёт вас как еретика для всех окружающих. Это делает вас законной мишенью для убийства.
+
+  Если вы выберете [color=yellow]Пир Сов[/color] (отказ от вознесения в обмен на очки) или изберёте [color=purple]Путь Засова[/color], вы не получите ауру.
+
+  Как только аура появится, скрыть, кто вы есть, будет уже невозможно. Планируйте соответственно.
+
+
+  ## Вознесение Еретика
+
+  Изучите последнее знание своего пути и завершите финальный ритуал. После вознесения вы станете гораздо сильнее, а ваша пассивная способность автоматически достигнет третьего уровня.
+
+  Ритуал различается от пути к пути, но всегда требует 3–4 тела [bold]гуманоидов[/bold], у которых когда-то была [color=yellow]душа[/color].
+
+  Так, обезглавленное тело [bold]подойдёт[/bold], если им когда-то управлял игрок. Неопознанный труп с обломков обычно [bold]не подойдёт[/bold].
+
+  У большинства путей есть особые требования к состоянию тел. Подробности указаны на странице соответствующего пути.
+
+  Ритуал [color=yellow]«Пир Сов»[/color] полностью закрывает возможность вознесения.
+
+
+  ## Священник
+  Избегайте священника. Его Нулевой Жезл и его разновидности блокируют магию и наносят священный урон, пока вы пользуетесь еретическим снаряжением.
+
+  Еретики могут лечить священный урон несколькими способами:
+  - Стоя на руне трансмутации.
+  - Стоя на ржавчине, если вы еретик ржавого пути.
+  - Находясь рядом с сырыми пророками, если вы еретик пути плоти.
+  - Выпив из Потусторонней Фляги.
+  - Используя способность пепельного пути «Возрождение Ночного Стража».
+  - Нанося удары клинками по живым людям, если вы вознёсшийся еретик пути клинка.
+
+
+  ## Советы
+  - Все клинки еретика в той или иной мере пробивают броню, активируют метки и позволяют телепортироваться при активации в руке.
+  - Хватка Мансуса временно искажает речь цели и выводит из строя датчики её костюма. На мониторе экипажа она на время исчезнет.
+  - Клинок и метка работают как хирургические инструменты. Ими можно извлекать органы или в крайнем случае лечить себя.
+  - Ритуал создаёт до двух клинков у большинства путей и до четырёх у пути Клинка. При повторном ритуале сверх лимита один из утраченных клинков переместится на руну.
+  - Нужна рвота для ритуала? Несколько раз подряд быстро покрутитесь или сделайте сальто.
+  - Кодекс Цикатрикс и руна трансмутации позволяют зачаровывать вещи. [textlink="Подробнее о зачаровании" link="Enchanting"]
+  - Кодекс умеет превращать предметы в потусторонние карты, экономя место в инвентаре. Часть карт можно хранить в самом кодексе.
+  - Остерегайтесь других еретиков: они могут принести вас в жертву ради знаний. Вы тоже можете принести их в жертву Мансусу. Да победит сильнейший бог.
+  - [color=purple]Сырому Пророку[/color] для связи пригодится [color=green]Связь Мансуса[/color]. Цель получает доступ к закрытому общему разуму наподобие генокрадского с префиксом +m.
+  - [color=purple]Разломы[/color] могут появиться почти где угодно, от коридоров и уборных до [color=cyan]кабинетов командования[/color] и [color=red]закрытых помещений службы безопасности[/color]. Проверьте все доступные вам места.
+  - Обезьяны и другие животные — удобный и обычно не вызывающий подозрений источник органов или тел для ритуалов.
+  - Большинство призванных гулей после гибели оставляют органы. Соберите их и при необходимости призовите нового гуля.
+  - [color=yellow]Потусторонняя Колба[/color] из побочных знаний первого уровня действует как криостазная мензурка и вмещает 100 единиц реагентов.
 </Document>

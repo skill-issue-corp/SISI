@@ -1,22 +1,22 @@
 <Document>
-  # Ranching
-  Ranching in trauma station is a near copy of the ranching for goon-station most things from that wiki are applicable to trauma with some modifications so keep in mind
+  # Разведение Животных
+  Разведение животных на Trauma Station почти полностью повторяет механику Goonstation. Большая часть сведений из той вики применима и здесь, с некоторыми поправками.
 
-  # Getting Started
-  You start your ranching journey buy hatching a white chicken egg that you have been supplied with in your ranching locker, in the incubator which should be on your farm.
+  # Начало Работы
+  Вы начинаете свой путь животновода с вылупления белого куриного яйца, которое вам выдали в шкафчике животновода, в инкубаторе, который должен находиться на вашей ферме.
 
-  # Unlocking every chickens
-  To unlock every chicken in the game you can follow this guide, most chickens are unlocked by simplify feeding the previous chicken something but others are more complex.
+  # Открытие всех кур
+  Чтобы открыть всех кур в игре, вы можете следовать этому руководству; большинство кур открываются простым кормлением предыдущей курицы чем-либо, но другие сложнее.
 
 <Box>
-  <GuideEntityEmbed Entity="GuidebookRanchingGuide" Caption="The ranching field guide!"/>
+  <GuideEntityEmbed Entity="GuidebookRanchingGuide" Caption="Полевой справочник по животноводству!"/>
 </Box>
 
-  # Needs of your chickens
-  Chickens need to be fed and petted every so often, don't hurt them or the roosters will attack you, don't overcrowd them, or they'll become upset.
-  In order for a hen to lay eggs they must be sufficiently happy and fed, If you notice your hens not laying eggs try petting them or feeding them food if a chicken is unhappy enough it will not lay eggs.
-  Keep in mind some chickens have special effects whilst alive and some have obtuse methods to obtain them always keep in mind your safety
+  # Потребности ваших кур
+  Кур нужно время от времени кормить и гладить. Если их обидеть, петухи нападут. В тесноте куры становятся недовольными.
+  Курица несёт яйца, когда она сыта и довольна. Если яиц нет, попробуйте погладить или покормить курицу. Сильно недовольные куры не несутся.
+  У некоторых кур есть особые эффекты, а некоторых трудно получить. Помните о своей безопасности.
 
-  # Eggs
-   Some chicken eggs have special effects when eaten, Not all eggs however have effects just try out on your own and see what kind of eggs do what
+  # Яйца
+   Некоторые яйца дают особый эффект, если их съесть. Попробуйте разные яйца и выясните, какие эффекты они дают.
 </Document>

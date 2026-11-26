@@ -7,44 +7,44 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Autodoc Mk.XIV
+# Автодок Mk.XIV
 
-With designs rescued from the derelict KC13, this powerhouse of a mechanical surgeon can be programmed to do just about anything.
+Созданный по чертежам, спасённым с заброшенного КС13, этот мощнейший механический хирург может быть запрограммирован практически на что угодно.
 
-WARNING: Operation of this device requires proper medical certification and adherence to established medical protocols.
+ВНИМАНИЕ: эксплуатация данного устройства требует соответствующей медицинской квалификации и соблюдения установленных медицинских протоколов.
 
-To get started, use a multitool to link it to a nearby operating table, once it detects a patient sleeping on it, you are ready to operate!
+Для начала работы используйте мультитул, чтобы привязать устройство к ближайшему операционному столу - как только оно обнаружит спящего на столе пациента, вы готовы к операции!
 
-Before operating put any items a program needs in its storage trays. The Autodoc cannot pick up items off your dirty, blood-stained floor.
+Перед началом операции поместите все предметы, необходимые программе, в его лотки хранения. Автодок не может подбирать предметы с вашего грязного, залитого кровью пола.
 
-# How I make it do the thing help
+# Как заставить его делать эту штуку, помогите
 
-An autodoc unit has a list of programs, which have steps that are completed in order until the program is complete.
+Блок автодока имеет список программ, состоящих из шагов, которые выполняются по порядку до завершения программы.
 
-Should any issues arise during these steps, it will immediately abort the procedure, unless the program has safety disabled.
+Если во время выполнения этих шагов возникнут какие-либо проблемы, устройство немедленно прервёт процедуру, если только в программе не отключена безопасность.
 
-To get started, create a new program with a memorable name, such as "organ stealy". Hit "ADD STEP" to add different kinds of steps:
-- PERFORM SURGERY, the beast itself. Can target any bodypart and complete any surgery. It is up to the programmer to ensure that compatible surgeries are selected, it's a bad idea to install a brain in someones feet.
-  You do not need to add prerequesites like opening the ribcage, they are automatically done.
-- GRAB ITEM, this will look in its item trays for an item with that exact name and grab it for use in surgeries. Use a hand labeler to distinguish multiple of the same item.
-- GRAB ORGAN, this is a shorthand to grab any kind of organ.
-- GRAB PART, this is a shorthand to grab any kind of bodypart.
-- STORE ITEM, this puts the held item in the item trays (if they aren't full). You have to do this after removing an item from the patient, or future operations will get dropped on the floor!
-- SET LABEL, gives the held item a short label. Extremely useful for organ transplants, where specific a organ is needed.
-- WAIT, this just waits a length of time before continuing.
+Для начала создайте новую программу с запоминающимся названием, например «кража органов». Нажмите «ДОБАВИТЬ ШАГ», чтобы добавить различные виды шагов:
+- ВЫПОЛНИТЬ ОПЕРАЦИЮ - сама суть устройства. Может воздействовать на любую часть тела и выполнить любую операцию. Программист сам должен убедиться, что выбраны совместимые операции - устанавливать мозг кому-то в ступню не самая лучшая идея.
+Вам не нужно добавлять предварительные условия, такие как вскрытие грудной клетки - они выполняются автоматически.
+- ВЗЯТЬ ПРЕДМЕТ - устройство будет искать в своих лотках предмет с точно таким названием и возьмёт его для использования в операциях. Используйте маркировщик для рук, чтобы различать несколько одинаковых предметов.
+- ВЗЯТЬ ОРГАН - это сокращённый вариант для взятия любого вида органа.
+- ВЗЯТЬ ЧАСТЬ ТЕЛА - это сокращённый вариант для взятия любой части тела.
+- ПОЛОЖИТЬ ПРЕДМЕТ - помещает удерживаемый предмет в лотки хранения (если они не заполнены). Это нужно делать после извлечения предмета из пациента, иначе последующие операции сбросят его на пол!
+- УСТАНОВИТЬ МЕТКУ - даёт удерживаемому предмету краткую метку. Чрезвычайно полезно при трансплантации органов, когда требуется конкретный орган.
+- ЖДАТЬ - просто ожидает некоторое время перед продолжением.
 
-So what are you waiting for comrade? Commit war crimes today!
+Так чего же вы ждёте, товарищ? Совершайте военные преступления уже сегодня!
 
-# Additional program usage
+# Дополнительное использование программ
 
-- Disabling a program's safety makes it skip failed steps instead of aborting the entire program.
-  Only do this if you know what you are doing!
-- Selecting a step lets you remove it or add a new step before it, instead of always inserting at the end.
+- Отключение безопасности программы заставляет её пропускать неудавшиеся шаги вместо прерывания всей программы.
+Делайте это только если знаете, что делаете!
+- Выбор шага позволяет удалить его или добавить новый шаг перед ним, вместо того чтобы всегда вставлять его в конец.
 
-# Caveats
+# Предостережения
 
-- Do not under any circumstances snip the machines SAFETY wire, automated personnel medical license would be void.
-  Anesthesia is REQUIRED for safe operation and disabling the need for it is highly unethical to patients.
-- Amputating legs or arms will detach their feet and hands to the floor. Manual intervention will be required, so cut them off first if you need them.
-- If the storage trays are filled, storing items will be impossible and the device will essentially seize up.
+- Ни при каких обстоятельствах не перерезайте провод БЕЗОПАСНОСТИ устройства - это аннулирует автоматизированную медицинскую лицензию персонала.
+Анестезия ОБЯЗАТЕЛЬНА для безопасной эксплуатации, и отключение необходимости в ней крайне неэтично по отношению к пациентам.
+- Ампутация ног или рук приведёт к отделению стоп и кистей на пол. Потребуется ручное вмешательство, поэтому отрежьте их заранее, если они вам нужны.
+- Если лотки хранения заполнены, поместить предметы будет невозможно, и устройство фактически заклинит.
 </Document>

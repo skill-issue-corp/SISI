@@ -1,26 +1,26 @@
 <Document>
-  # Species
+  # Виды
 
-  Nanotrasen employs a variety of sapient species.
+  NanoTrasen нанимает представителей самых разных разумных видов.
 
   <!-- Trauma - Completely rewritten -->
   <Box>
-    <GuideEntityEmbed Entity="AppearanceHuman" Caption="Human"/>
-    <GuideEntityEmbed Entity="AppearanceVox" Caption="Vox"/>
-    <GuideEntityEmbed Entity="AppearanceMoth" Caption="Moth Person"/>
-    <GuideEntityEmbed Entity="AppearanceReptilian" Caption="Reptilian"/>
+    <GuideEntityEmbed Entity="AppearanceHuman" Caption="Человек"/>
+    <GuideEntityEmbed Entity="AppearanceVox" Caption="Вокс"/>
+    <GuideEntityEmbed Entity="AppearanceMoth" Caption="Ниан"/>
+    <GuideEntityEmbed Entity="AppearanceReptilian" Caption="Унатх"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="AppearanceArachnid" Caption="Arachnid"/>
-    <GuideEntityEmbed Entity="AppearanceDiona" Caption="Diona"/>
-    <GuideEntityEmbed Entity="AppearanceDwarf" Caption="Dwarf"/>
-    <GuideEntityEmbed Entity="AppearanceSlimePerson" Caption="Slime Person"/>
+    <GuideEntityEmbed Entity="AppearanceArachnid" Caption="Арахнид"/>
+    <GuideEntityEmbed Entity="AppearanceDiona" Caption="Диона"/>
+    <GuideEntityEmbed Entity="AppearanceDwarf" Caption="Дворф"/>
+    <GuideEntityEmbed Entity="AppearanceSlimePerson" Caption="Слаймолюд"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="AppearanceIPC" Caption="IPC"/>
-  <GuideEntityEmbed Entity="MobDecapoid" Caption="Decapoid"/>
+    <GuideEntityEmbed Entity="AppearanceIPC" Caption="КПБ"/>
+  <GuideEntityEmbed Entity="MobDecapoid" Caption="Декапод"/>
   <!-- inky -->
-  <GuideEntityEmbed Entity="AppearanceUngu" Caption="Ungu"/>
+  <GuideEntityEmbed Entity="AppearanceUngu" Caption="Унгу"/>
   <!-- /inky -->
   </Box>
 </Document>

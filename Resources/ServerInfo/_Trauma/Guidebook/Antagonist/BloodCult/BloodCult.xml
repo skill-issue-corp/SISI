@@ -1,77 +1,77 @@
 <Document>
-  # Blood Cult
+  # Культ Крови
   <Box>
     <GuideEntityEmbed Entity="RitualDagger" Caption=""/>
     <GuideEntityEmbed Entity="CultRuneDimensionalRending" Caption=""/>
     <GuideEntityEmbed Entity="RitualDagger" Caption=""/>
   </Box>
 
-  The [color=#dc143c]Geometer of Blood[/color], commonly known as the [color=#dc143c]Blood Cult[/color], seeks to summon their elder goddess [color=#dc143c][bold]Nar'Sie[/bold][/color] into this realm.
+  Последователи [color=#dc143c]Геометра Крови[/color], более известные как [color=#dc143c]Культ Крови[/color], стремятся призвать в этот мир свою древнюю богиню [color=#dc143c][bold]Нар'Си[/bold][/color].
 
-  They practice a single magical branch: [color=#dc143c]Blood Magic[/color].
+  Они практикуют лишь одну ветвь магии: [color=#dc143c]Магию Крови[/color].
 
-  All cultists have an ability to carve a spell into their own flesh, which they can then perform at will.
-  Some spell invocations include summoning a spare ritual dagger, teleporting to special runes and placing victims in shadow shackles.
+  Каждый культист может вырезать на собственной плоти заклинание, которое затем сможет применить по своему желанию.
+  Некоторые заклинания призывают запасной ритуальный кинжал, переносят к особым рунам или заключают жертв в теневые оковы.
 
-  All cultists and their constructs have access to a collective mind, use [color=#dc143c]+c[/color] to communicate in it.
+  Культисты и их конструкты связаны коллективным разумом. Для общения в нём используйте [color=#dc143c]+c[/color].
 
-  ## Goal
+  ## Цель
 
-  In order to summon [color=#dc143c]Nar'Sie[/color]'s dark avatar, the cult needs to invoke the [color=#dc143c]Rune of Dimensional Rending[/color].
+  Чтобы призвать тёмное воплощение [color=#dc143c]Нар'Си[/color], культ должен активировать [color=#dc143c]Руну Разрыва Измерений[/color].
 
-  This rune can only be drawn in a [bold]ritual site[/bold] explained below, after a special target has been sacrificed.
+  Эту руну можно начертить только в [bold]месте проведения ритуала[/bold], описанном ниже, и только после принесения особой цели в жертву.
 
-  This target is shown in your objectives and is picked randomly when starting the cult.
+  Цель выбирается случайно при появлении культа и отображается в ваших задачах.
 
-  In order to get strong enough to do this, and even invoke the rune, you will need at least 9 cult members.
+  Чтобы набраться сил для этого и вообще суметь активировать руну, вам понадобится как минимум 9 членов культа.
 
-  Use the [color=#dc143c]Rune of Offering[/color] to convert or sacrifice crew, soulless ones will become a soul shard for use in constructs. Living converts will be healed a bit too incase you had to crit them.
+  Используйте [color=#dc143c]Руну Подношения[/color], чтобы обращать или приносить в жертву членов экипажа. Из тех, у кого нет души, получится осколок души для создания конструктов. Обращение живого немного его исцелит, если вам пришлось довести его до критического состояния.
 
-  ## Leader
+  ## Лидер
 
-  One of the cultists is the [color=#dc143c]Leader[/color], who is in charge of commanding the other members.
+  Один из культистов становится [color=#dc143c]Лидером[/color] и командует остальными.
 
-  Defer to the leader on important decisions like where to attack, where to build your main cult base or where to summon [color=#dc143c]Nar'Sie[/color].
+  Доверьте лидеру важные решения о том, где атаковать, где устроить основную базу культа и где призвать [color=#dc143c]Нар'Си[/color].
 
-  ## Spells
+  ## Заклинания
 
-  Spells are obtained by carving your flesh with the [italic]Prepare Spell[/italic] ability.
+  Чтобы получить заклинание, вырежьте его на своей плоти способностью [italic]Подготовить Заклинание[/italic].
 
-  They will require you to spill some blood, have a medibot on standby.
+  Для этого придётся пролить немного крови. Держите рядом медбота.
 
-  Usually you can only have 1 spell queued up, if you are empowered you can have [bold]4[/bold] instead, and they are much faster to prepare.
+  Обычно можно держать наготове только 1 заклинание. При усилении можно подготовить [bold]4[/bold], причём гораздо быстрее.
 
-  [bold]Using spells is very obvious, don't use them in public if you don't want to be revealed![/bold]
+  [bold]Применение заклинаний бросается в глаза. Не колдуйте на публике, если не хотите выдать себя![/bold]
 
-  [textlink="See the full list of spells here" link="BloodCultSpells"/]
+  [textlink="Полный список заклинаний" link="BloodCultSpells"/]
 
-  ## Runes
+  ## Руны
 
-  Runes are a more powerful magic that require spilling your blood then carving it into a unique eldritch symbol.
+  Руны - более сильная магия. Чтобы начертить особый потусторонний символ, нужно пролить собственную кровь.
 
-  Some of the basic runes can be used solo, but the powerful runes will require multiple cultists nearby to help you invoke it.
+  Некоторые простые руны можно активировать в одиночку. Для мощных рун потребуется помощь нескольких культистов поблизости.
 
-  [textlink="See the full list of runes here" link="BloodCultRunes"/]
+  [textlink="Полный список рун" link="BloodCultRunes"/]
 
-  The most important runes required for the cult to summon [color=#dc143c]Nar'Sie[/color] are:
-  - Offering, so you can grow your cult's numbers and sacrifice the target.
-  - Dimensional Rending, which brings Her into your dimension.
+  Для призыва [color=#dc143c]Нар'Си[/color] культу особенно важны следующие руны:
+  - Подношение, чтобы пополнить ряды культа и принести цель в жертву.
+  - Разрыв измерений, чтобы привести Её в ваше измерение.
 
-  ## Ritual Sites
+  ## Места Проведения Ритуалов
 
-  Ritual Sites are a randomly picked of areas on the station where the veil of reality is weakest.
+  Места Проведения Ритуалов случайно выбираются из тех участков станции, где завеса реальности тоньше всего.
 
-  You can see all available ritual sites in your objectives.
+  Все доступные места проведения ритуалов указаны в ваших задачах.
 
-  These sites are the only locations you can draw the runes of [color=#dc143c]Apocalypse[/color] and [color=#dc143c]Dimensional Rending[/color].
+  Только в этих местах можно начертить руны [color=#dc143c]Апокалипсиса[/color] и [color=#dc143c]Разрыва Измерений[/color].
 
-  Once you draw these unique runes, that ritual site cannot be used for another rune. Choose wisely.
+  Начертив одну из этих особых рун, вы уже не сможете использовать это место для другой. Выбирайте с умом.
 
-  ## Threats to the Cult
+  ## Угрозы для Культа
 
-  Even with access to a large amount of different runes and blood magic, there are still several threats to the cult on the station.
+  Даже с таким разнообразием рун и заклинаний магии крови на станции остаются угрозы для культа.
 
-  ### Security and the Chaplain
+  ### Служба Безопасности и Священник
 
-  Even the best prepared cultists will have trouble defending themselves against the united power of security. Especially if the Chaplain helps them. The Chaplain is immune to cult magic thanks to their [bold]null rod[/bold], and is in possession of a [bold]bible[/bold]. Said bible is able to turn normal water into Holy Water, which will turn cultists back to normal people, if you force them to drink enough (the process of deconversion can be reversed by hitting the cultist using the [bold]ritual dagger[/bold]). Additionally, cult runes can be cleared by the Chaplain using bible or by spraying holy water on them.
+  Даже хорошо подготовленным культистам трудно противостоять сплочённой службе безопасности, особенно если ей помогает священник. Благодаря [bold]нуль-жезлу[/bold] священник невосприимчив к магии культа. У него также есть [bold]библия[/bold], которая превращает обычную воду в святую. Если заставить культиста выпить достаточно святой воды, он снова станет обычным человеком. Чтобы вернуть его в культ, ударьте его [bold]ритуальным кинжалом[/bold]. Священник также может стереть руны культа библией или окропить их святой водой.
 </Document>

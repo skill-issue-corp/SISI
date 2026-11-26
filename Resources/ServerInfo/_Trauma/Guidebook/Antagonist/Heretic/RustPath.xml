@@ -1,99 +1,99 @@
 <Document>
 
-  # Rusted Path
+  # Путь Ржавчины
 
-  Difficulty: [color=orange]Medium[/color]
+  Сложность: [color=orange]Средне[/color]
 
-  The Path of Rust revolves around durability, corruption and brute forcing your way through obstacles.
-  Pick this path if you enjoy a standing your ground and letting the fight come to you.
+  Путь Ржавчины вращается вокруг живучести, порчи и прохода через препятствия напролом.
+  Выбирайте этот путь, если вам нравится стоять на своём и позволять бою прийти к вам.
 
-  ## Pros
+  ## Плюсы
 
-  - Standing on rusted tiles makes you highly durable; regenerating wounds and removing stuns.
-  - You are able to destroy walls, objects, mechs, structures and airlocks using your grasp with ease.
-  - You can instantly obliterate silicons or synthetic crew members with your Mansus Grasp.
-  - You have a high amount of disruption abilities to make it easier to fight in your territory.
+  - Стояние на ржавых плитках делает вас крайне живучим: заживляет раны и снимает оглушение.
+  - Вы способны легко уничтожать стены, объекты, мехов, конструкции и шлюзы своей хваткой.
+  - Вы можете мгновенно уничтожить синтетиков или синтетических членов экипажа своей Хваткой Мансуса.
+  - У вас есть большое количество способностей для нарушения порядка, облегчающих бой на вашей территории.
 
-  ## Cons
+  ## Минусы
 
-  - Extremely overt; throws stealth completely out as an option.
-  - If you are not on rusted tiles, you become significantly more vulnerable.
-  - Being locked to a territorial conflict makes it much easier to use destructive tools (like bombs) against you.
-  - Your high amount of defensive power is at the cost of offensive power.
+  - Крайне явный путь; полностью исключает скрытность как вариант.
+  - Если вы не находитесь на ржавых плитках, вы становитесь значительно более уязвимы.
+  - Привязанность к территориальному конфликту значительно облегчает использование против вас разрушительных инструментов (например, бомб).
+  - Ваша высокая защитная мощь достигается за счёт наступательной мощи.
 
-  ## Knowledge
+  ## Знания
 
   <Table Columns="3">
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Knowledge Name</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Ingredients/Type</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Description</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Название Знания</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Ингредиенты/Тип</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Описание</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Blacksmith's Tale</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Knife, Trash</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Creates a rusty blade.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Сказ Кузнеца</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Нож, Мусор</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт ржавый клинок.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Grasp of Rust</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Passive Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Your grasp can destroy most things non-living. It can also rust tiles or walls.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Хватка Ржавчины</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваша хватка способна уничтожить большинство неживых объектов. Также может покрывать ржавчиной плитки или стены.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Mark of Rust</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Passive Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Your grasp will now apply the rust mark, making victims vomit uncontrollably.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Метка Ржавчины</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваша хватка теперь накладывает метку ржавчины, заставляя жертв неконтролируемо рвать.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Aggressive Spread</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Active Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Spreads rust in a large area around you.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Агрессивное Распространение</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Распространяет ржавчину на большую область вокруг вас.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Rust Construction</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Active Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Raises a wall of rust out of any rusted tile, knocking heathens away.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Ржавая Конструкция</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Возводит стену ржавчины из любой ржавой плитки, отбрасывая язычников.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Entropic Plume</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Active Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Sends out a wave of rust, blinding, poisoning, and forcing anyone caught in it to attack nearby non-heretics. Also spreads rust.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Энтропийный Шлейф</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Испускает волну ржавчины, ослепляя, отравляя и заставляя всех, кто в неё попал, атаковать находящихся поблизости не-еретиков.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Toxic Blade</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Passive Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Your blade now deals toxic damage and rots corpses it hits. Additionally, your grasp can now break reinforced walls.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Токсичный Клинок</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваш клинок теперь наносит токсичный урон и разлагает трупы, по которым попадает. Кроме того, ваша хватка теперь может ломать усиленные стены.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Rust Charge</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Active Ability</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Charges from a rusted tile, rusting any tile you come across, destroying walls, and hurting people.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Ржавый Рывок</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Совершает рывок со ржавой плитки, покрывая ржавчиной любую плитку на своём пути, разрушая стены и раня людей.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Rustbringer's Oath</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Three rotten or silicon corpses</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Rust spread from your ritual rune. Your rust healing is even stronger.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Клятва Носителя Ржавчины</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Три гнилых или синтетических трупа</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ржавчина распространяется от вашей ритуальной руны. Ваше лечение ржавчиной становится ещё сильнее.</Box></ColorBox>
   </Table>
 
 
-  ## Armor and Passive Ability
+  ## Броня и Пассивная Способность
 
   <Table Columns="2">
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Name</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Effect</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="5">Название</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5">Эффект</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">T1 Passive</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5"></Box>Standing on rust grants you regeneration, chem resistance, and stun resistance.</ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">1 ур. Пассивная</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Стояние на ржавчине даёт вам регенерацию, сопротивление химикатам и сопротивление оглушению.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Salvaged Remains</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Much greater resistances and tackle immunity when standing on rust.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Утилизированные Останки</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Значительно большие сопротивления и иммунитет к захвату при стоянии на ржавчине.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">T2 Passive</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Rust heals your bones. Healing increased.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">2 ур. Пассивная</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ржавчина лечит ваши кости. Лечение усилено.</Box></ColorBox>
 
-    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">T3 Passive</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Rust restores your lost body parts. Healing increased.</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">3 ур. Пассивная</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ржавчина восстанавливает ваши утраченные части тела. Лечение усилено.</Box></ColorBox>
   </Table>
 
 
-  ## Tips
+  ## Советы
 
-  - Your Mansus Grasp will instantly destroy mechs, silicons and androids. Hitting a marked target with your blade will cause heavy disgust and make them vomit, knocking them down briefly.
-  - Your Mansus Grasp and your spells are capable of rusting walls and floors, making them beneficial to you. Spread rust as much as possible.
-  - Rusted turfs will heal you, regulate your blood temperature, make you resistant to batons knockdown, regenerate your stamina and blood and heal your wound and limbs once you ascend.
-  - Always fight on your turf. Your opponent entering your turf are at a significant disadvantage.
-  - Your ability to destroy objects and walls improves as you progress; eventually you will be able to melt through airlocks and reinforced walls.
-  - Spreading rust can be fairly slow, especially early on. Consider summoning a few rust walkers to help you expand your domain.
-  - Rust Construction allows you to produce barriers for cover or escape, or even block off someone else's escape in a pinch. Make the most of it to manipulate the environment to your needs.
+  - Ваша Хватка Мансуса мгновенно уничтожает мехов, синтетиков и андроидов. Удар клинком по помеченной цели вызовет сильное отвращение и заставит её рвать, ненадолго сбивая с ног.
+  - Ваша Хватка Мансуса и ваши заклинания способны покрывать ржавчиной стены и полы, что идёт вам на пользу. Распространяйте ржавчину как можно больше.
+  - Ржавая местность будет лечить вас, регулировать температуру вашей крови, делать вас устойчивым к сбиванию с ног дубинками, восстанавливать вашу выносливость и кровь, а также залечивать ваши раны и конечности после вознесения.
+  - Всегда сражайтесь на своей территории. Противники, заходящие на вашу территорию, оказываются в значительном невыгодном положении.
+  - Ваша способность уничтожать объекты и стены улучшается по мере прогресса; в конце концов вы сможете прожигать шлюзы и усиленные стены.
+  - Распространение ржавчины может быть довольно медленным, особенно на раннем этапе. Рассмотрите возможность призыва нескольких ржавых ходоков, чтобы помочь расширить ваши владения.
+  - Ржавая Конструкция позволяет создавать барьеры для укрытия или побега, или даже перекрыть путь отступления кому-то другому в трудной ситуации. Используйте это по максимуму, чтобы манипулировать окружением под свои нужды.
 
 </Document>

@@ -1,55 +1,55 @@
 <Document>
-    Good evening, agent.
-    Your mission - should you choose to accept it - is to infiltrate Space Station 14, steal valuable items, and sabotage their operations.
-    You will be deployed to the station in their latest batch of research personnel. Our contacts have prepared a disguise as one of the members of the crew for you to take on.
-    As always, should you be caught or killed, we will disavow any knowledge of your actions.
-    [color=red][italic]This guidebook page will self destruct in 5 seconds[/italic][/color]. Good luck agent.
+    Добрый вечер, агент.
+    Ваша миссия — если вы решите её принять — проникнуть на космическую станцию 14, украсть ценные предметы и саботировать их операции.
+    Вас отправят на станцию в составе их последней партии научного персонала. Наши контакты подготовили для вас маскировку под одного из членов экипажа.
+    Как всегда, если вас поймают или убьют, мы откажемся от каких-либо знаний о ваших действиях.
+    [color=red][italic]Эта страница руководства самоуничтожится через 5 секунд[/italic][/color]. Удачи, агент.
 
-## Your Mission
+## Ваша Миссия
 
-As a Spy, you are tasked with any number of random mission suggestions.
-These may include anything from "Setting the Engineering department on fire" (something they usually accomplish on their own) to "Frame someone for a crime they didn't commit".
-These objectives are purely suggestions: Feel free to come up with your own mission to undergo. Or just steal things. Whichever's more fun to you!
+Как Шпион, вы получаете любое количество случайных предложений по миссиям.
+Они могут включать всё что угодно: от «Поджога инженерного отдела» (с которым они обычно справляются сами) до «Подставы кого-либо в преступлении, которого он не совершал».
+Эти цели — лишь предложения: не стесняйтесь придумать собственную миссию. Или просто воровать вещи. Что вам больше по душе!
 
-## Your Equipment
+## Ваше Снаряжение
 
-As a Spy, you are equipped with a Spy Uplink.
-The Spy Uplink is similar to a Traitor's Syndicate Uplink, but with some key differences:
-- Only you and any other Spy can access your Spy uplink.
-- You don't need to concern yourself with remembering to lock it when you're done.
-- You cannot directly buy gear with telecrystals the way normal traitors can
+Как Шпион, вы оснащены шпионским аплинком.
+Шпионский аплинк похож на аплинк Синдиката предателя, но имеет несколько ключевых отличий:
+- Только вы и любой другой Шпион могут получить доступ к вашему шпионскому аплинку.
+- Вам не нужно беспокоиться о том, чтобы не забыть заблокировать его после использования.
+- Вы не можете напрямую покупать снаряжение за телекристаллы, как обычные предатели
 
-By default, your uplink is implanted into your PDA. If you don't have a PDA, or you lost one, you can always [bold]Right Click[/bold] any PDA and make it into your new uplink.
+По умолчанию ваш аплинк вживлён в ваш КПК. Если у вас нет КПК или вы его потеряли, вы всегда можете [bold]Щёлкнуть Правой Кнопкой[/bold] по любому КПК и превратить его в свой новый аплинк.
 
-To access your uplink, simply [bold]Right Click[/bold] your PDA and select "View Bounties"
+Чтобы открыть аплинк, просто [bold]Щёлкните Правой Кнопкой[/bold] по своему КПК и выберите «Просмотреть награды»
 
-## Your Bounties
+## Ваши Награды
 
-Spy Bounties are your method of acquiring equipment to accomplish your mission.
+Шпионские награды — это ваш способ получать снаряжение для выполнения миссии.
 
-Using your uplink in hand will open up the Spy Bounty list. These bounties and their corresponding rewards are shared between [bold]ALL SPIES[/bold] on board, and only one spy can claim a bounty, meaning it's in your best interest not to share your identity with other agents if you can help it! If you see that bounty is already [bold]Claimed[/bold] - it means you are too late and someone else already stole it.
+Использование аплинка в руке откроет список шпионских наград. Эти награды и соответствующие им вознаграждения являются общими для [bold]ВСЕХ ШПИОНОВ[/bold] на борту, и только один шпион может забрать награду, так что в ваших интересах не раскрывать свою личность другим агентам, если это возможно! Если вы видите, что награда уже [bold]Получена[/bold] — значит, вы опоздали, и кто-то другой уже украл её.
 
-Bounties consist of minor tasks to steal certain items, machines, or body parts from the crew. These can be anything from a basic pair of insulated gloves, to the AI upload, to the clown's pie-ing arm.
+Награды состоят из небольших заданий по краже определённых предметов, машин или частей тела у экипажа. Это может быть что угодно: от обычной пары изолирующих перчаток до консоли загрузки ИИ или руки клоуна, которой он кидается пирогами.
 
-To claim a bounty, [bold]Click[/bold] on the bounty target with your uplink. It will take a moment, show a (pretty obvious) visual tell and a (less obvious) audible tell, so remember to be sneaky!
+Чтобы забрать награду, [bold]Щёлкните[/bold] по цели награды с аплинком. Это займёт мгновение, сопровождаясь (довольно очевидным) визуальным и (менее очевидным) звуковым сигналом, так что помните о скрытности!
 
-But what do you get for claiming bounties? Rewards! For stealing items, your employer will use their black market ties to acquire you one of many Illegal Syndicate Devices!
+Но что вы получаете за выполнение наград? Вознаграждения! За кражу предметов ваш работодатель использует свои связи на чёрном рынке, чтобы добыть вам одно из множества нелегальных устройств Синдиката!
 
-This includes most Traitor items, but also some items only available to Nuclear Operative and Spy agents!
+Сюда входят большинство предметов Предателей, а также некоторые предметы, доступные только Ядерным Оперативникам и агентам-Шпионам!
 
-The more difficult the bounty, the more valuable the reward. Start small and build up to the big guns! The general difficulty of a bounty is determined by the text it appears in, green meaning easy, yellow being medium, and red being hard.
+Чем сложнее награда, тем ценнее вознаграждение. Начните с малого и дойдите до тяжёлой артиллерии! Общая сложность награды определяется цветом текста, в котором она отображается: зелёный означает лёгкую, жёлтый — среднюю, красный — сложную.
 
-After a set period of time, all bounties will refresh - claimed or not - giving all spies a new set of items to pursue.
+По истечении определённого времени все награды обновятся — полученные или нет — давая всем шпионам новый набор предметов для добычи.
 
-## Why can't I claim the bounty?
+## Почему я не могу забрать награду?
 
-Bounty could be claimed by someone else, check your uplink and see if it is marked as claimed.
+Награду мог забрать кто-то другой; проверьте свой аплинк и посмотрите, помечена ли она как полученная.
 
-Some bounties require target to be extracted in specific area which is mentioned in bounty description.
+Некоторые награды требуют извлечь цель в определённой области, которая указана в описании награды.
 
-Some departments and jobs are blacklisted from certain bounties which should be mentioned in bounty description as well.
+Некоторые отделы и должности внесены в чёрный список для определённых наград, о чём также должно быть указано в описании награды.
 
-Most bounties require specific items that already existed on the station prior to bounty refresh.
-You cannot just construct a machine and steal it - you need the machine that already was present on the station.
+Большинство наград требуют конкретных предметов, которые уже существовали на станции до обновления наград.
+Вы не можете просто построить машину и украсть её — вам нужна машина, которая уже была на станции.
 
 </Document>

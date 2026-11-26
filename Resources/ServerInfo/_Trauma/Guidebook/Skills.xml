@@ -1,24 +1,24 @@
 <Document>
-# Skills
+# Навыки
 
-Skills are a thing innate to non-simple mobs. They're stored on the brain.
+Навыки — это нечто, присущее немассовым мобам. Они хранятся в мозге.
 
-Skills determine several aspects of your character, such as innate toughness or quality crafting. Skills can be broken down into six distinct categories:
+Навыки определяют несколько аспектов вашего персонажа, таких как врождённая выносливость или качество крафта. Навыки можно разделить на шесть отдельных категорий:
 
 <GuideKnowledgeMasteryEmbed/>
 
-You can buy skills at character creation, found under the skills tab, to improve your character.
+Вы можете приобрести навыки при создании персонажа, во вкладке навыков, чтобы улучшить своего персонажа.
 
-It goes without saying, but skills can also be improved. If you practice what that skill does, you will gain experience in that skill. When you get enough, the game will automatically roll a new level.
+Само собой разумеется, но навыки также можно улучшать. Если вы практикуете то, что делает данный навык, вы будете получать опыт в нём. Когда его накопится достаточно, игра автоматически повысит уровень.
 
-Different masteries unlocks different benefits and maluses to gameplay. Experiment and see what works.
+Разные мастерства открывают разные преимущества и штрафы в геймплее. Экспериментируйте и смотрите, что работает.
 
-There are also skill chips:
+Также существуют чипы навыков:
 
 <Box>
   <GuideEntityEmbed Entity="SkillChipPassenger"/>
 </Box>
 
-Every job has one and they provide job specific skills. They can be inserted or removed from the body through surgery.
+Каждая должность имеет свой чип, предоставляющий специфичные для неё навыки. Их можно вставить или извлечь из тела с помощью хирургии.
 
 </Document>

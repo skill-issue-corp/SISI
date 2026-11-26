@@ -1,159 +1,131 @@
 <Document>
-# ChemiCompiler
+# Химкомпилятор
 
-The ChemiCompiler is a chemistry machine you program instead of click. It holds ten beakers, and runs
-short programs that move reagents between them, heat them, and package the results into pills, vials or
-medical patches.
+Химкомпилятор — это химический аппарат, который вы программируете, а не просто кликаете. В него помещается десять мензурок, и он выполняет короткие программы, которые перемещают реагенты между ними, нагревают их и упаковывают результат в таблетки, флаконы или медицинские пластыри.
 
-Build one from a [bold]ChemiCompiler M7 machine board[/bold], printed at a medical lathe.
+Соберите его из [bold]машинной платы Химкомпилятор M7[/bold], напечатанной на медицинском техфабе.
 
-# The Interface
+# Интерфейс
 
-The big box at the top is where you write code. It is not saved anywhere until you put it in a slot.
+Большое поле сверху — это место, где вы пишете код. Он нигде не сохраняется, пока вы не поместите его в слот.
 
-Below it are [bold]Save[/bold], [bold]Load[/bold], and six numbered slots. The slot buttons do whatever the
-Save and Load buttons say they do:
+Под ним находятся кнопки [bold]Сохранить[/bold], [bold]Загрузить[/bold] и шесть пронумерованных слотов. Кнопки слотов действуют в соответствии с тем, что говорят кнопки «Сохранить» и «Загрузить»:
 
-- With neither pressed, clicking a slot [bold]runs[/bold] the program in it.
-- With Save pressed, clicking a slot stores the code from the editor into it.
-- With Load pressed, clicking a slot pulls its code back into the editor.
+- Если ни одна из них не нажата, клик по слоту [bold]запускает[/bold] находящуюся в нём программу.
+- С нажатой кнопкой «Сохранить» клик по слоту сохраняет в него код из редактора.
+- С нажатой кнопкой «Загрузить» клик по слоту возвращает его код в редактор.
 
-Slots holding a program are highlighted green. The Halt button stops a running program early.
+Слоты, содержащие программу, подсвечиваются зелёным. Кнопка «Остановить» досрочно останавливает выполняющуюся программу.
 
-Below those are the ten reservoirs, r1 to r10. Click one with a beaker in hand to load it, click it
-empty-handed to take the beaker back. Full reservoirs are highlighted blue. Under them are the registers,
-which only update when a program stops. That makes them a debugger of last resort: run a program, see
-where the registers ended up, work out where it went wrong.
+Под ними находятся десять резервуаров, от r1 до r10. Кликните по нему с мензуркой в руке, чтобы загрузить её, или кликните пустой рукой, чтобы забрать мензурку обратно. Полные резервуары подсвечиваются синим. Под ними находятся регистры, которые обновляются только тогда, когда программа останавливается. Это делает их отладчиком последней надежды: запустите программу, посмотрите, где оказались регистры, и выясните, что пошло не так.
 
-The right-hand corner lists the materials loaded into the machine.
+В правом углу перечислены материалы, загруженные в машину.
 
-While a program is running everything is locked, including the beakers.
+Пока программа выполняется, всё заблокировано, включая мензурки.
 
-# Memory
+# Память
 
-A program has 1024 memory cells, each holding a number from 0 to 255, and a pointer that starts at the first
-one. Almost every instruction works on whichever cell the pointer is currently sitting on.
+Программа имеет 1024 ячейки памяти, каждая из которых хранит число от 0 до 255, а также указатель, который начинается с первой из них. Почти каждая инструкция работает с той ячейкой, на которой в данный момент находится указатель.
 
-There is no way to type a number directly. If you want a cell to hold 25, you write twenty-five [bold]+[/bold]
-signs. This is not a mistake, it is the whole personality of the language. Copy and paste is your friend.
+Напрямую ввести число невозможно. Если вы хотите, чтобы ячейка содержала 25, вы пишете двадцать пять знаков [bold]+[/bold]. Это не ошибка — в этом вся суть языка. Копирование и вставка — ваши друзья.
 
-# Registers
+# Регистры
 
-Three registers decide what the chemistry instructions actually do:
+Три регистра определяют, что именно делают химические инструкции:
 
-- [bold]sx[/bold], the source. Which reservoir, 1 to 10, an instruction reads from.
-- [bold]tx[/bold], the target. Where things go. 1 to 10 for a reservoir, 11 for the pill generator,
-  12 for the vial generator, 13 to throw it away, and 14 to 17 for the patch generators:
-  14 a patch, 15 a rapid patch, 16 a large patch, 17 a therapeutic patch.
-- [bold]ax[/bold], the amount. How many units to move, and how far to heat.
+- [bold]sx[/bold], источник. Из какого резервуара, от 1 до 10, читает инструкция.
+- [bold]tx[/bold], цель. Куда всё направляется. От 1 до 10 — резервуар, 11 — генератор таблеток,
+  12 — генератор флаконов, 13 — выбросить, и от 14 до 17 — генераторы пластырей:
+  14 — пластырь, 15 — быстрый пластырь, 16 — большой пластырь, 17 — терапевтический пластырь.
+- [bold]ax[/bold], количество. Сколько единиц переместить и до какой степени нагреть.
 
-You set them by putting a number in a memory cell and then copying that cell into the register.
+Вы задаёте их, помещая число в ячейку памяти, а затем копируя эту ячейку в регистр.
 
-# Materials
+# Материалы
 
-The pill generator is free, but everything else the machine prints costs the same materials it would cost
-to print at a lathe. Load sheets into the machine by hand; what it is holding shows in the corner of the
-interface.
+Генератор таблеток бесплатен, но всё остальное, что печатает машина, стоит столько же материалов, сколько стоило бы при печати на техфабе. Загружайте листы в машину вручную; то, что она содержит, отображается в углу интерфейса.
 
-- A vial costs 1 glass.
-- Any patch costs 1 cloth and 1 plastic.
+- На флакон требуется 1 стекло.
+- На любой пластырь требуется 1 ткань и 1 пластик.
 
-Each of those makes one container per instruction,with however much you sent it. Anything that will not
-fit goes back to the reservoir it came from. If the materials aren't there the instruction fails like any
-other: the machine buzzes, your reagents stay where they were, and the program carries on regardless.
+Каждое из них создаёт один контейнер за инструкцию, с тем количеством, которое вы отправили. Всё, что не поместилось, возвращается в резервуар, откуда прибыло. Если материалов нет, инструкция терпит неудачу, как и любая другая: машина издаёт гудение, ваши реагенты остаются на месте, а программа продолжает выполняться.
 
-# Instructions
+# Инструкции
 
-Anything that isn't an instruction is ignored, so you can leave spaces and notes in your programs.
+Всё, что не является инструкцией, игнорируется, поэтому вы можете оставлять в своих программах пробелы и заметки.
 
-## Pointer and arithmetic
+## Указатель и арифметика
 
-- [bold]\>[/bold] move the pointer one cell right
-- [bold]\<[/bold] move the pointer one cell left
-- [bold]+[/bold] add one to the current cell
-- [bold]-[/bold] subtract one from the current cell
+- [bold]\>[/bold] сдвинуть указатель на одну ячейку вправо
+- [bold]\<[/bold] сдвинуть указатель на одну ячейку влево
+- [bold]+[/bold] прибавить единицу к текущей ячейке
+- [bold]-[/bold] вычесть единицу из текущей ячейки
 
-## Loops
+## Циклы
 
-- [bold]\[[/bold] if the current cell is zero, skip past the matching \]
-- [bold]\][/bold] if the current cell is not zero, jump back to the matching \[
+- [bold]\[[/bold] если текущая ячейка равна нулю, пропустить до парной \]
+- [bold]\][/bold] если текущая ячейка не равна нулю, вернуться к парной \[
 
-Loops nest. A program with brackets that don't pair up is refused rather than run, so a stray \] will not
-brick the machine. A program that loops forever is abandoned after ten minutes.
+Циклы вкладываются друг в друга. Программа с непарными скобками отклоняется, а не выполняется, так что случайная \] не превратит машину в кирпич. Программа, зациклившаяся навсегда, прерывается через десять минут.
 
-## Registers
+## Регистры
 
-Each register has one instruction to write it from the current cell, and one to read it back into the cell.
+У каждого регистра есть одна инструкция для записи в него из текущей ячейки и одна для чтения обратно в ячейку.
 
-- [bold]}[/bold] and [bold]{[/bold] write and read [bold]sx[/bold]
-- [bold])[/bold] and [bold]([/bold] write and read [bold]tx[/bold]
-- [bold]'[/bold] and [bold]^[/bold] write and read [bold]ax[/bold]
+- [bold]}[/bold] и [bold]{[/bold] записывают и читают [bold]sx[/bold]
+- [bold])[/bold] и [bold]([/bold] записывают и читают [bold]tx[/bold]
+- [bold]'[/bold] и [bold]^[/bold] записывают и читают [bold]ax[/bold]
 
-The brace-style symbol of each pair writes the register from memory; the other reads it back. A program that
-appears to run cleanly but moves nothing has almost always got one of these pairs the wrong way round.
+Символ в стиле скобки в каждой паре записывает регистр из памяти; другой читает его обратно. Программа, которая, казалось бы, выполняется чисто, но ничего не перемещает, почти всегда содержит одну из этих пар в перевёрнутом порядке.
 
-## Chemistry
+## Химия
 
-- [bold],[/bold] measure how full reservoir sx is and put that number in ax
-- [bold]$[/bold] bring reservoir sx to (273 - tx) + ax Kelvin. Takes a few seconds.
-  To heat rather than cool, leave tx at 0 and put the temperature above freezing in ax.
-- [bold]@[/bold] move ax units from reservoir sx to wherever tx points
-- [bold]#[/bold] move ax units of one single reagent from sx to tx. Which reagent is taken from the current
-  memory cell, counting from 1, in the order they are listed in the beaker.
+- [bold],[/bold] измерить, насколько полон резервуар sx, и поместить это число в ax
+- [bold]$[/bold] довести резервуар sx до (273 - tx) + ax Кельвинов. Занимает несколько секунд.
+  Чтобы нагреть, а не охладить, оставьте tx равным 0 и укажите в ax температуру выше точки замерзания.
+- [bold]@[/bold] переместить ax единиц из резервуара sx туда, куда указывает tx
+- [bold]#[/bold] переместить ax единиц одного-единственного реагента из sx в tx. Какой именно реагент
+  берётся, определяется текущей ячейкой памяти, отсчёт с 1, в порядке перечисления в мензурке.
 
-Anything that will not fit in the target goes back where it came from. Reagents are never quietly lost,
-except at the ejection port, which is what the ejection port is for.
+Всё, что не помещается в цель, возвращается туда, откуда прибыло. Реагенты никогда не теряются незаметно, кроме как через порт выброса, для чего он и предназначен.
 
-## Everything else
+## Всё остальное
 
-- [bold].[/bold] add the current cell to a line of text, as a character. Writing a newline (10) makes the
-  machine say the line out loud; anything still unsaid is spoken when the program stops.
-- [bold]~[/bold] lock this program so Load can no longer read it back. It can still be overwritten.
-- [bold]*[/bold] pauses briefly, for reactions that take time.
+- [bold].[/bold] добавить текущую ячейку к строке текста в виде символа. Запись символа новой строки (10) заставляет
+  машину произнести строку вслух; всё, что осталось невысказанным, произносится при остановке программы.
+- [bold]~[/bold] заблокировать эту программу, чтобы «Загрузить» больше не мог её прочитать. Её всё ещё можно перезаписать.
+- [bold]*[/bold] делает короткую паузу для реакций, требующих времени.
 
-# Speed
+# Скорость
 
-Instructions are not free. Moving the pointer and counting up and down are quick, shuffling registers costs
-a little more, and anything that reaches into a beaker — transferring, isolating, measuring — takes about
-half a second on its own. Standing still on purpose with [bold]*[/bold] is the slowest single instruction
-there is, at a full second.
+Инструкции не бесплатны. Перемещение указателя и прибавление/вычитание единиц выполняются быстро, перестановка регистров стоит немного больше, а всё, что тянется в мензурку — перенос, выделение, измерение — само по себе занимает около половины секунды. Намеренное бездействие с помощью [bold]*[/bold] — самая медленная одиночная инструкция: целая секунда.
 
-That means the expensive part of a program is the chemistry, not the arithmetic, which is how it should be.
-Don't agonise over shaving \+ signs off your constants; think about how many times you're moving reagents.
+Это означает, что дорогостоящая часть программы — это химия, а не арифметика, как и должно быть. Не мучайтесь, убирая знаки \+ из своих констант; подумайте о том, сколько раз вы перемещаете реагенты.
 
-Heating is slower still. The machine pushes heat at the same rate a hotplate does, so bringing a full beaker
-up to reaction temperature takes the better part of a minute. Automating chemistry saves you clicking, not
-time.
+Нагрев ещё медленнее. Машина подаёт тепло с той же скоростью, что и нагревательная плита, поэтому доведение полной мензурки до температуры реакции занимает большую часть минуты. Автоматизация химии экономит вам клики, а не время.
 
-# Sounds
+# Звуки
 
-You cannot see the registers while a program runs, so listening to the machine is how you follow it.
+Во время выполнения программы вы не видите регистры, поэтому следить за ней приходится на слух.
 
-- Two beeps as a program starts.
-- One beep every time reagents leave a reservoir, whether they go to another beaker, a pill, a vial, a patch
-  or the bin. Count them against your plan and you know how far it has got.
-- A low beep when heating begins, and the same low beep again once the reservoir is up to temperature.
-  Silence between the two is normal; heating is slow.
-- A high beep when the program finishes and the beakers unlock.
-- A buzzer when an instruction could not be carried out. This is the one to listen for.
+- Два гудка при запуске программы.
+- Один гудок каждый раз, когда реагенты покидают резервуар, неважно — отправляются ли они в другую мензурку, таблетку, флакон, пластырь или в мусор. Считайте их согласно своему плану, и вы будете знать, как далеко она зашла.
+- Низкий гудок при начале нагрева и такой же низкий гудок, когда резервуар достигает нужной температуры.
+  Тишина между ними — это нормально; нагрев идёт медленно.
+- Высокий гудок, когда программа завершается и мензурки разблокируются.
+- Зуммер, когда инструкцию не удалось выполнить. Именно его и стоит слушать.
 
-# Failures
+# Сбои
 
-If an instruction can't be carried out, usually because sx or tx points at a reservoir with no beaker in it,
-or because the machine has run out of the materials a vial or patch needs, it beeps loudly and carries
-straight on to the next instruction. It does not stop. A program that
-buzzes repeatedly is a program that is doing nothing at all, very confidently.
+Если инструкцию невозможно выполнить — обычно потому, что sx или tx указывает на резервуар без мензурки, или потому, что в машине закончились материалы, необходимые для флакона или пластыря, — она громко сигналит и сразу переходит к следующей инструкции. Она не останавливается. Программа, которая раз за разом гудит, — это программа, которая с полной уверенностью не делает вообще ничего.
 
-# Writing a program
+# Написание программы
 
-Plan on paper first. Seriously. Write down every beaker, what is in it, how full it is, and every transfer
-in order, before you write a single symbol. Then translate the plan one line at a time.
+Сначала спланируйте всё на бумаге. Серьёзно. Запишите каждую мензурку, что в ней, насколько она полна, и каждый перенос по порядку, прежде чем напишете хотя бы один символ. Затем переносите план строка за строкой.
 
-A useful opening move is to fill the first several cells with small numbers you'll need later:
+Полезный первый ход — заполнить несколько первых ячеек небольшими числами, которые понадобятся позже:
 
 [bold]+\>++\>+++\>++++\>+++++[/bold]
 
-That leaves 1, 2, 3, 4 and 5 in the first five cells, which are exactly the reservoir numbers you will be
-loading into sx and tx all program. Add whatever transfer amounts you need on the end, and from then on
-setting a register is just walking the pointer to the right cell and copying it.
+Это оставит 1, 2, 3, 4 и 5 в первых пяти ячейках — ровно те номера резервуаров, которые вы будете загружать в sx и tx всю программу. Добавьте в конец нужные вам объёмы переноса, и с этого момента установка регистра — это просто перемещение указателя к нужной ячейке и её копирование.
 </Document>

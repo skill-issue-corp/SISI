@@ -1,62 +1,62 @@
 <Document>
-  # Spells List
+  # Список Заклинаний
 
   <Box>
     <GuideEntityEmbed Entity="ActionBloodCultBloodRites"/>
   </Box>
 
-  Summons a grasp-like spell focus to your hand. It needs blood to cast spells, feed it from a living being's blood or a puddle on the ground.
+  Призывает в вашу руку магический фокус в виде хватки. Чтобы применять заклинания, питайте его кровью живого существа или из лужи на полу.
 
-  It can also be used to heal cultists, constructs and yourself. Healing yourself is 2x less effective.
+  Фокусом также можно исцелять культистов, конструктов и себя. Самоисцеление в 2 раза менее эффективно.
 
 
   <Box>
     <GuideEntityEmbed Entity="ActionBloodCultTwistedConstruction"/>
   </Box>
 
-  Can be used on some objects like airlocks and plasteel, turning them into cult versions.
+  Превращает некоторые предметы, например шлюзы и пласталь, в их культовые версии.
 
-  [bold]This is how you get [color=#dc143c]runed metal[/color]![/bold]
+  [bold]Так вы можете получить [color=#dc143c]рунный металл[/color]![/bold]
 
-  [bold]It can also transmute cyborgs into constructs![/bold]
+  [bold]А ещё можно превращать киборгов в конструктов![/bold]
 
 
   <Box>
     <GuideEntityEmbed Entity="ActionBloodCultShadowShackles"/>
   </Box>
 
-  Cuffs and mutes a victim with ethereal [bold]shadow shackles[/bold], which disintegrate if removed so they can't be used against you.
+  Сковывает жертву призрачными [bold]теневыми оковами[/bold] и лишает её возможности говорить. Если снять оковы, они рассыплются и их не смогут использовать против вас.
 
-  This only works if the victim is [bold]already stunned[/bold], consider using the stun spell or a trusty batong.
+  Действует, только если жертва [bold]уже оглушена[/bold]. Попробуйте заклинание оглушения или верную дубинку.
 
 
   <Box>
     <GuideEntityEmbed Entity="ActionBloodCultStun"/>
   </Box>
 
-  Knocks down, mutes and marks the victim. Keep hitting marked target with cult weapons until they are stunned.
+  Сбивает жертву с ног, лишает её возможности говорить и ставит метку. Бейте отмеченную цель оружием культа, пока она не будет оглушена.
 
-  Borgs get stunned for lengthy duration under the effect of this spell instead of getting marked.
+  Киборгов это заклинание надолго оглушает вместо того, чтобы ставить метку.
 
-  [color=red]Important:[/color] Cannot be used via context menu, but it does work in [color=red]Combat Mode[/color], which only works on mobs and cannot miss.
+  [color=red]Важно:[/color] через контекстное меню применить заклинание нельзя. Оно работает в [color=red]Боевом Режиме[/color], действует только на существ и не может промахнуться.
 
 
   <Box>
     <GuideEntityEmbed Entity="ActionBloodCultTeleport"/>
   </Box>
 
-  Can be cast on yourself or a fellow cultist, teleporting them to a teleport rune of your choice after a few seconds.
+  Можно применить к себе или другому культисту. Через несколько секунд цель перенесётся к выбранной вами руне телепортации.
 
 
   <Box>
     <GuideEntityEmbed Entity="ActionBloodCultEmp"/>
   </Box>
 
-  Creates a 20 second EMP instantly, taking out sec's batongs and such.
+  Мгновенно создаёт ЭМИ на 20 секунд, выводя из строя дубинки СБ и прочую технику.
 
   <Box>
     <GuideEntityEmbed Entity="ActionBloodCultSummonRitualDagger"/>
   </Box>
 
-  Gives you another ritual dagger incase you lost the one you spawned with.
+  Даёт запасной ритуальный кинжал, если вы потеряли выданный в начале.
 </Document>
