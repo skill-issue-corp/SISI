@@ -1,0 +1,2 @@
+ent-BaseMobBody = { "" }
+    .desc = { "" }

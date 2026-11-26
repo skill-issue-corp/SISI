@@ -1,0 +1,2 @@
+ent-MawedCrucible = mawed crucible
+    .desc = A deep basin made of cast iron, immortalized by steel-like teeth holding it in place. Staring at the vile extract within fills your mind with terrible ideas.

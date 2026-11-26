@@ -1,0 +1,2 @@
+ent-ClothingShoesGreavesHeretic = joint-snap sabatons
+    .desc = Sabatons made out of rugged, worn iron. Feels more stable than the ground they tread on. They're caked in a thin layer of rust - and yet, the sight of it fills you with odd relief.

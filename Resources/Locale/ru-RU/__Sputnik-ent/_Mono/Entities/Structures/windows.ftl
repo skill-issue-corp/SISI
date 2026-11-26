@@ -1,0 +1,31 @@
+ent-ReinforcedWindowOutpost = reinforced window
+    .desc = { ent-ReinforcedWindow.desc }
+    .suffix = OUTPOST ONLY
+
+ent-ReinforcedWindowDiagonalOutpost = { ent-ReinforcedWindowDiagonal }
+    .desc = { ent-ReinforcedWindowDiagonal.desc }
+    .suffix = diagonal, OUTPOST ONLY
+
+ent-PlastitaniumWindowOutpost = { ent-PlastitaniumWindow }
+    .desc = { ent-PlastitaniumWindow.desc }
+    .suffix = OUTPOST ONLY
+
+ent-PlastitaniumWindowDiagonalOutpost = { ent-PlastitaniumWindowDiagonal }
+    .desc = { ent-PlastitaniumWindowDiagonal.desc }
+    .suffix = diagonal, OUTPOST ONLY
+
+ent-PlasturaniumWindowDiagonalRadProof = plasturanium window
+    .desc = Don't smudge up the rads down there.
+    .suffix = Rad-Proof
+
+ent-PlasturaniumWindowRadProof = plasturanium window
+    .desc = Don't smudge up the rads down there.
+    .suffix = Rad-Proof
+
+ent-PlasturaniumWindowDiagonalRadProofIndestructible = plasturanium window
+    .desc = Don't smudge up the rads down there.
+    .suffix = Rad-Proof, Indestructible
+
+ent-PlasturaniumWindowRadProofIndestructible = plasturanium window
+    .desc = Don't smudge up the rads down there.
+    .suffix = Rad-Proof, Indestructible

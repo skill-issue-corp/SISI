@@ -1,0 +1,2 @@
+ent-WeaponSubMachineGunDrozdROW = Drozd ROW
+    .desc = A burst-fire drozd submachine gun for use by cyborgs. Creates .35 caliber ammo on the fly from an internal ammo fabricator, which slowly self-charges.

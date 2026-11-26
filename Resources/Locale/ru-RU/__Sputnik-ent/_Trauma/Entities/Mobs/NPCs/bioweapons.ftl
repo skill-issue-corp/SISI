@@ -1,0 +1,2 @@
+ent-MobBioweapon = Bioweapon
+    .desc = A bioweapon supplied to the security department by one of Nanotrasen's many genetic alteration subsidiaries. It follow the orders of those who speak the proper dialect.

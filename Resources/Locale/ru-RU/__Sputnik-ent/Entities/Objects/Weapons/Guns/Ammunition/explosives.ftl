@@ -1,0 +1,41 @@
+ent-CartridgeRocket = PG-7VL grenade
+    .desc = A 1.5 warhead designed for the RPG-7 launcher. Has tubular shape.
+
+ent-CartridgeRocketSlow = PG-7VL grenade "Snail-Rocket"
+    .desc = A 1.5 warhead designed for the RPG-7 launcher. It's unusually slow.
+
+ent-BaseGrenade = base grenade
+    .desc = { ent-BaseItem.desc }
+
+ent-GrenadeBaton = baton grenade
+    .desc = A grenade round containing a single non-lethal projectile. Like being punched in the solar plexus.
+
+ent-GrenadeBlast = blast grenade round
+    .desc = A grenade round containing an explosive compound made specifically for breaching the reinforced hulls of space stations.
+
+ent-GrenadeFlash = flash grenade round
+    .desc = A grenade round containing a chemical compound causing a blinding flash of light on impact.
+
+ent-GrenadeFrag = frag grenade round
+    .desc = A grenade round containing a concentrated anti-personnel explosive alongside shrapnel, shredding anyone close to the impact zone.
+
+ent-GrenadeCleanade = cleanade grenade round
+    .desc = A grenade round containing space cleaner foam. For when you need to declare war on the concept of messiness.
+
+ent-GrenadeEMP = EMP grenade round
+    .desc = A grenade round containing an chemical compound calibrated to cause an electromagnetic pulse on impact.
+
+ent-BaseCannonBall = base cannon ball
+    .desc = { ent-BaseItem.desc }
+
+ent-CannonBall = cannonball
+    .desc = Extreme dodgeball.
+    .suffix = Pirate
+
+ent-CannonBallGrapeshot = grapeshot
+    .desc = A spread of small iron balls that scatter upon being fired. For when you need to send a strongly worded message but don't know exactly where your enemy is.
+    .suffix = Pirate
+
+ent-CannonBallGlassshot = glassshot
+    .desc = Turns out you can just put a bunch of glass into a cannon and fire it. Causes nasty cuts.
+    .suffix = Pirate

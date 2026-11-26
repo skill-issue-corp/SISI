@@ -1,0 +1,38 @@
+ent-BaseWeaponLauncher = BaseWeaponLauncher
+    .desc = A rooty tooty point and shooty.
+
+ent-WeaponLauncherChinaLake = China Lake
+    .desc = PLOOP.
+
+ent-WeaponLauncherHydra = hydra
+    .desc = PLOOP... FSSSSSS...
+
+ent-WeaponLauncherHydraLethal = { ent-WeaponLauncherHydra }
+    .desc = { ent-WeaponLauncherHydra.desc }
+    .suffix = frag
+
+ent-WeaponLauncherRocket = RPG-7
+    .desc = A modified ancient rocket-propelled grenade launcher.
+
+ent-WeaponGuidedMissileLauncherXenoborg = XB GML-78
+    .desc = A guided missile launcher.
+
+ent-WeaponLauncherMultipleRocket = multiple rocket launcher
+    .desc = A modified ancient rocket-propelled grenade launcher.
+
+ent-WeaponRocketLauncherXenoborg = XB MRL-97-D
+    .desc = A alien rocket launcher fitted with special demolition rockets.
+
+ent-WeaponLauncherPirateCannon = pirate cannon
+    .desc = Kaboom!
+
+ent-WeaponGrapplingGun = grappling gun
+    .desc = { ent-BaseItem.desc }
+
+ent-WeaponLauncherAdmemeMeteorLarge = meteor launcher
+    .desc = It fires large meteors.
+    .suffix = Admeme
+
+ent-WeaponLauncherAdmemeImmovableRodSlow = immovable rod launcher
+    .desc = It fires slow immovable rods.
+    .suffix = Admeme

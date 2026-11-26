@@ -1,0 +1,19 @@
+ent-ClothingBackpackStasisBattery = stasis storage
+    .desc = Stores energy to freeze time flow, warping the space inside for more capacity.
+
+ent-ClothingBackpackStasisBatteryUnremoveable = { ent-ClothingBackpackStasisBattery }
+    .desc = { ent-ClothingBackpackStasisBattery.desc }
+    .suffix = Unremoveable
+
+ent-ClothingBackpackStasisBatteryUnremoveableFilled = { ent-ClothingBackpackStasisBatteryUnremoveable }
+    .desc = { ent-ClothingBackpackStasisBatteryUnremoveable.desc }
+    .suffix = Filled, Unremoveable
+
+ent-ClothingBackpackDuffelGman = strange duffelbag
+    .desc = A strange, unremovable, bag capable of containing an absurd amount of items. Seemingly invisible to the naked eye.
+
+ent-ClothingBackpackLMGBattery = energy LMG powerbank
+    .desc = Accepts specialized car batteries to power the energy LMG.
+
+ent-ClothingBackpackFirefighterTank = firefighter water tank backpack
+    .desc = A refrigerated water tank backpack that can switch modes to launch ATMOS resin or work as a high pressure extinguisher.

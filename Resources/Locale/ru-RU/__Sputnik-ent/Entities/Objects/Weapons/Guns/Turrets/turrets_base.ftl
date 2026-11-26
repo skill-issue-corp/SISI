@@ -1,0 +1,20 @@
+ent-BaseWeaponTurretIndestructible = turret
+    .desc = { ent-BaseStructure.desc }
+
+ent-BaseTurretDestructible = { "" }
+    .desc = { "" }
+
+ent-BaseWeaponTurret = { ent-BaseWeaponTurretIndestructible }
+    .desc = { ent-BaseWeaponTurretIndestructible.desc }
+
+ent-BaseWeaponBallisticTurretIndestructible = ballistic turret
+    .desc = A ballistic machine gun auto-turret.
+
+ent-BaseWeaponBallisticTurret = { ent-BaseWeaponBallisticTurretIndestructible }
+    .desc = { ent-BaseWeaponBallisticTurretIndestructible.desc }
+
+ent-BaseWeaponEnergyTurretIndestructible = laser turret
+    .desc = An auto-turret armed with a heavy laser. Its weapon will recharge while connected to an active power grid.
+
+ent-BaseWeaponEnergyTurret = { ent-BaseWeaponEnergyTurretIndestructible }
+    .desc = { ent-BaseWeaponEnergyTurretIndestructible.desc }

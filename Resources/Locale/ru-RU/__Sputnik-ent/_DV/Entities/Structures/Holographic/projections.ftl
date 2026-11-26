@@ -1,0 +1,2 @@
+ent-BaseHoloSignNoDespawn = { "" }
+    .desc = { "" }

@@ -1,0 +1,2 @@
+ent-GuidebookRanchingGuide = ranching field manual
+    .desc = The texture rect for document files, Jeremy, where's the texture rect? NO TEXTURE RECT? You fucking idiot, Jeremy! You total fucking idiot! That was YOUR job, you fucking moron! You DUMBASS! YOU'RE A FUCKHEAD! THAT'S WHAT YOU ARE! A FUCKING SHITHEAD!

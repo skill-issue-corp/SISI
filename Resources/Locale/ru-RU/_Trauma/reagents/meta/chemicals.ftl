@@ -1,0 +1,83 @@
+reagent-name-cement = cement
+reagent-desc-cement = A chemical used for making bricks.
+
+reagent-name-potassium-sulfate = potassium sulfate
+reagent-desc-potassium-sulfate = Potassium in a water-soluble form, providing both potassium and sulfur. Used primarily as a fertilizer for plants.
+
+reagent-name-sodium-bicarbonate = sodium bicarbonate
+reagent-desc-sodium-bicarbonate = A white, odorless, water-soluble salt that has a wide range of uses.  Also known as baking soda.
+
+reagent-name-sodium-acetate = sodium acetate
+reagent-desc-sodium-acetate = A white, odorless, water-soluble salt that results from mixing vinegar and baking soda.
+
+reagent-name-methane = methane
+reagent-desc-methane = A colorless, odorless, and flammable gas, being the simplest alkane. Do not breath.
+
+reagent-name-methanol = methanol
+reagent-desc-methanol = A colorless, odorless, and flammable liquid similar to ethanol however, it is extra toxic.
+
+reagent-name-hexamine = hexamine
+reagent-desc-hexamine = A white crystalline solid that smells fishy. Used in making explosives.
+
+reagent-name-cyclonite = cyclonite
+reagent-desc-cyclonite = A yellowish crystal that is used in plastic explosives. Also known as RDX. This reaction is exothermic. Explodes at 576K.
+
+reagent-name-ammonium-nitrate = ammonium nitrate
+reagent-desc-ammonium-nitrate = A white, crystalline solid that is highly soluble in water. It is a potent fertilizer.
+
+reagent-name-ethenone = ethenone
+reagent-desc-ethenone = A colorless, flammable gas with a penetrating odor. Also known as ketene.
+
+reagent-name-acetic-anhydride = acetic anhydride
+reagent-desc-acetic-anhydride = A colorless liquid that smells like vinegar. Used in manufacturing explosives.
+
+reagent-name-ammonium-nitrate-fuel-oil = ammonium nitrate fuel oil
+reagent-desc-ammonium-nitrate-fuel-oil = An off white, crystalline solid mixed with fuel often used as a blasting agent. Explodes at 576K.
+
+reagent-name-octogen = octogen
+reagent-desc-octogen = A white, opaque powder that has detonation velocity similar to re-entry speeds. Also known as HMX. Explodes at 553K.
+
+reagent-name-nanomachines = nanomachines
+reagent-desc-nanomachines = A black, dark fluid that seems to move on it's own. Converts people into cyborgs.
+
+reagent-name-nanoprocessor = nanoprocessor
+reagent-desc-nanoprocessor = A white fluid that is responsible for computing at the nanoscopic level.
+
+reagent-name-calcium-carbonate = calcium carbonate
+reagent-desc-calcium-carbonate = Also known as lime, typically found in limestone and egg shells.
+
+reagent-name-calcium-oxide = calcium oxide
+reagent-desc-calcium-oxide = Also known as quicklime, used in cement, reacts with water to produce heat and calcium hydroxide
+
+reagent-name-calcium-hydroxide = calcium hydroxide
+reagent-desc-calcium-hydroxide = The result of calcium oxide reacting with water.
+
+reagent-name-unstable-compound = unstable compound
+reagent-desc-unstable-compound = An incredibly volatile variant of unstable mutagen, much more effective at mutating viruses and plants compared to normal mutagen.
+
+reagent-name-reaper-delight = reaper's delight
+reagent-desc-reaper-delight = A very potent fertilizer with no limit to its potency-boosting effects on plants. Use it in limited quantities however, as excessive usage can easily kill almost any plant.
+
+reagent-name-stellarium = stellarium
+reagent-desc-stellarium = An artifically synthesized anti-toxin that is incredibly effective against poisons, Also works very well as a fertilizer to keep your plants alive.
+
+reagent-name-hephaestium = hephaestium
+reagent-desc-hephaestium = hephaestium, named after the greek god of stone Hephaestus, known to turn anything injected with it into stone.
+
+reagent-name-ageium = ageium
+reagent-desc-ageium = Ageium, causes subject to never age once injected with more then 5u, this will never revert
+
+reagent-name-holy-chlorine-trifluoride = Holy Chlorine Trifluoride
+reagent-desc-holy-chlorine-trifluoride = whose idea was this?
+
+reagent-name-burnite = burnite
+reagent-desc-burnite = A highly volatile flaming chemical that's typically only made by accidentally opening a portal to hell. Luckily, this isn't an easy feat to do.
+
+reagent-name-unknown-reagent = unobtainium
+reagent-desc-unknown-reagent = An incredibly difficult chemical to come across, known to have very volatile effects whether it be spilled or put into plants
+
+reagent-name-fungalin = fungalin
+reagent-desc-fungalin = A high concentration of spores capable of reproducing inside respiratory systems, Also increases the yield of plants while poisoning and draining their nutrients.
+
+reagent-name-ethylene = ethylene
+reagent-desc-ethylene = A highly flammable, colourless gas. Most commonly used in the production of LDPE plastics.

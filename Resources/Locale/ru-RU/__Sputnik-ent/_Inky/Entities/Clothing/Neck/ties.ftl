@@ -1,0 +1,2 @@
+ent-ClothingNeckTieElysium = horrowing necktie
+    .desc = Adorned with a garish pattern. Its disturbingly vivid. Somehow you feel as if it would be wrong to ever take it off. Its your friend now. You will betray it if you change it for some boring scarf.

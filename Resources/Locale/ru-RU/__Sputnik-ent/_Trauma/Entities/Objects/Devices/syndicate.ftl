@@ -1,0 +1,13 @@
+ent-AppraisalToolRadioJammer = { ent-AppraisalTool }
+    .desc = { ent-AppraisalTool.desc }
+    .suffix = Jammer
+
+ent-DoorRemoteSyndicate = syndicate door remote
+    .desc = A gadget which can open and bolt doors remotely. This one works for syndicate agents.
+
+ent-BorgRadioJammer = radio jammer
+    .desc = { ent-BaseJammer.desc }
+
+ent-HandheldStationMapRecordsTablet = station map
+    .desc = Displays a readout of the current station.
+    .suffix = Records Tablet

@@ -1,0 +1,14 @@
+ent-LightPostSmall = post light
+    .desc = An always powered light.
+    .suffix = Always Powered
+
+ent-PoweredLightPostSmallEmpty = post light
+    .desc = A small light post. Draws power and produces light when equipped with a light tube.
+    .suffix = Empty
+
+ent-PoweredLightPostSmall = post light
+    .desc = { ent-PoweredLightPostSmallEmpty.desc }
+
+ent-PoweredLEDLightPostSmall = post light
+    .desc = { ent-PoweredLightPostSmallEmpty.desc }
+    .suffix = LED

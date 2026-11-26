@@ -1,0 +1,20 @@
+ent-WoodenSign = wooden sign
+    .desc = He's pointing somewhere.
+
+ent-WoodenSignRight = { ent-WoodenSign }
+    .desc = { ent-WoodenSign.desc }
+
+ent-BaseWoodenSupport = { ent-BaseStructure }
+    .desc = { ent-BaseStructure.desc }
+
+ent-WoodenSupport = wooden support
+    .desc = Increases your confidence that a rock won't fall on your head.
+
+ent-WoodenSupportBeam = wooden support beam
+    .desc = A pair of wooden beams, supportive without blocking your way.
+
+ent-WoodenSupportWall = wooden support wall
+    .desc = An old, rotten wall.
+
+ent-WoodenSupportWallBroken = broken wooden support wall
+    .desc = A broken, no good, lousy old rotten wall.

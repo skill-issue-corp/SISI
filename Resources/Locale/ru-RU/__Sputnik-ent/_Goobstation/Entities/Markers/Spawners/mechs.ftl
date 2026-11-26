@@ -1,0 +1,43 @@
+ent-SpawnMechRipley2 = Ripley APLU MK-II Spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMechHonkerFilled = H.O.N.K. Spawner
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Filled
+
+ent-SpawnMechClarke = Clarke Spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMechGygax = Gygax Spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMechDurand = Durand Spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMechMarauder = Marauder Spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMechMarauderFilled = Marauder Spawner
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Filled
+
+ent-SpawnMechSeraph = Seraph Spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMechSeraphFilled = Seraph Spawner
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Filled
+
+ent-SpawnMechGygaxSyndie = Dark Gygax Spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMechGygaxSyndieFilled = Dark Gygax Spawner
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Filled
+
+ent-SpawnMechMaulerSyndie = Mauler Spawner
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMechMaulerSyndieFilled = Mauler Spawner
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Filled

@@ -1,0 +1,23 @@
+ent-MobHumanGreyTide = The Greytide
+    .desc = { ent-MobHuman.desc }
+
+ent-MobHumanTunnelClown = Tunnel clown
+    .desc = { ent-MobHuman.desc }
+
+ent-MobHumanSingulothKnight = Singuloth Knight
+    .desc = { ent-MobHuman.desc }
+
+ent-MobHumanDarkLord = The Dark Lord
+    .desc = { ent-MobHuman.desc }
+
+ent-MobHumanChosenOne = The chosen one
+    .desc = { ent-MobHuman.desc }
+
+ent-MobHumanMimeAssassin = Mime assassin
+    .desc = { ent-MobHuman.desc }
+
+ent-MobHumanDarkPriest = Dark Priest
+    .desc = { ent-MobHuman.desc }
+
+ent-MobVoxRaider = Vox Raider
+    .desc = { ent-MobVox.desc }

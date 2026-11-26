@@ -1,0 +1,13 @@
+seeds-lemonade-name = lemonade
+seeds-cocaplant-name = coca leaf
+seeds-coconut-name = coconut
+seeds-cherrybomb-name = cherry bomb
+seeds-appledelicious-name = delicious looking apple
+seeds-applemeth-name = meth apple
+seeds-clearcorn-name = clear corn
+seeds-peanut-name = peanut
+seeds-magicmush-name = magic mushrooms
+seeds-synthmeat-name = synthmeat
+seeds-balloonmelon-name = melon balloon
+seeds-steelwheat-name = steel wheat
+seeds-plasticcap-name = plastic cap

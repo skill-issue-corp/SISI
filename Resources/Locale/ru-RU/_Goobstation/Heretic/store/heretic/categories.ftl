@@ -1,0 +1,11 @@
+store-heretic-path-ash = Ashen Path
+store-heretic-path-lock = Path of Lock
+store-heretic-path-flesh = Path of Flesh
+store-heretic-path-void = Path of Void
+store-heretic-path-rust = Rusted Path
+store-heretic-path-blade = Path of Blade
+store-heretic-path-cosmos = Path of Cosmos
+store-heretic-path-special = Special Knowledge
+store-heretic-path-side-t1 = T1 Side Knowledge
+store-heretic-path-side-t2 = T2 Side Knowledge
+store-heretic-path-side-t3 = T3 Side Knowledge

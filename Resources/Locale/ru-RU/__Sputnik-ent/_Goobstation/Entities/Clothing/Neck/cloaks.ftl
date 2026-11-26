@@ -1,0 +1,29 @@
+ent-ClothingNeckCloakHelldiver = salvage pure loyality cape
+    .desc = A representation of the thankfulness of those infinite crew whose wealthy existence we strive to ensure.
+
+ent-ClothingNeckCloakResonant = resonant cape
+    .desc = The stage calls for us. We should gladly play along.
+
+ent-ClothingNeckCloakCarp = carp cloak
+    .desc = Getting up to some fishy business are we?
+
+ent-ClothingNeckCloakCarpAlt = carp cloak
+    .desc = Restricted to extraterrestrial entities. That means NOT you.
+
+ent-ClothingNeckCloakSanabi = brigadier general cloak
+    .desc = A tattered, yet imposing cloak, worn by elite warriors.
+
+ent-ClothingNeckCloakVetCap = Veteran Captain's cloak
+    .desc = Captains Aura Cloak
+
+ent-ClothingNeckCloakHighCommand = high central command cloak
+    .desc = A magnificent green cloak featuring luxurious gold-lined edges.
+
+ent-ClothingNeckCloakHighCommandCape = high central command cape
+    .desc = A lavish green-and-red cape decorated with gold trim and ornate epaulettes.
+
+ent-ClothingNeckCloakGoldenCentComm = gilded central command cloak
+    .desc = A luxurious gold-gilded cloak worn by the highest-ranking officials.
+
+ent-ClothingNeckCloakCentComPoncho = central command poncho
+    .desc = A regal green-and-black poncho embellished with rich golden accents.
