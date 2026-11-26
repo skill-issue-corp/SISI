@@ -53,7 +53,7 @@
   ## Поручения
   ### Поставить Жучок В Кабинете
   <Box>
-    <GuideEntityEmbed Entity="SyndicateBugCmo" Caption=""/>
+    <GuideEntityEmbed Entity="CameraBug" Caption=""/> <!-- SIS -->
   </Box>
   [bold]Доступно со Звания:[/bold] «Безвестный Паинька»
 
