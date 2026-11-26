@@ -1,2 +1,0 @@
-ent-Garlic = { "" }
-    .desc = { "" }

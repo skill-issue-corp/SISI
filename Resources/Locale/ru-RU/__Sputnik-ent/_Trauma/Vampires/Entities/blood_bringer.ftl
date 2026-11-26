@@ -1,2 +1,0 @@
-ent-BloodBeam = { "" }
-    .desc = { "" }

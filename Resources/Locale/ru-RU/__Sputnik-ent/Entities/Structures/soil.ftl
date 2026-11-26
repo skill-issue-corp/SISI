@@ -1,8 +1,0 @@
-ent-BaseHydroponicsSoil = { ent-SolutionLarge }
-    .desc = { ent-SolutionLarge.desc }
-
-ent-hydroponicsSoil = почва
-    .desc = { "" }
-
-ent-FungalSoil = грибная почва
-    .desc = Смесь органических веществ и корней грибов, создающая почву для выращивания растений в космосе. Кажется сухой.

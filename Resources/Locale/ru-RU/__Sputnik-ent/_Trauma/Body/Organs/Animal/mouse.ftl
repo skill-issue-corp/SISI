@@ -1,5 +1,0 @@
-ent-OrganMouseEggSack = мышиный яичный мешок
-    .desc = Этот орган позволяет мышам размножаться бесполым путём. Его ткани выглядят... чужеродно, неужели это действительно создала природа?
-
-ent-OrganAnimalStomachFast = { ent-OrganAnimalStomach }
-    .desc = { ent-OrganAnimalStomach.desc }

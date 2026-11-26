@@ -1,1 +1,0 @@
-secret-stash-briefcase = чемодан

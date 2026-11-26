@@ -1,1 +1,0 @@
-plantbot-harvest = Сбор урожая.

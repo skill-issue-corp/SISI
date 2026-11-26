@@ -1,9 +1,0 @@
-ent-WindoorSecureGeneticsLocked = { ent-WindoorSecureScienceLocked }
-    .desc = { ent-WindoorSecureScienceLocked.desc }
-    .suffix = Генетика, Заперто
-ent-WindoorSecureRoboticsLocked = { ent-WindoorSecureScienceLocked }
-    .desc = { ent-WindoorSecureScienceLocked.desc }
-    .suffix = Робототехника, Заперто
-ent-WindoorLibraryLocked = { ent-WindoorServiceLocked }
-    .desc = { ent-WindoorServiceLocked.desc }
-    .suffix = Библиотека, Заперто
