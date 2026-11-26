@@ -1,5 +1,5 @@
 <Document>
-  # Дельта давления
+  # Дельта Давления
   Дельта давления, или ΔP, - разница давления между двумя зонами.
   Эта разница давления может создавать силу, воздействующую на объекты между этими двумя зонами, нанося [bold]урон давлением[/bold] некоторым объектам на своём пути.
 
@@ -11,7 +11,7 @@
 
   На такие объекты, как стены, шлюзы и противопожарные шлюзы, ΔP не влияет.
 
-  ## Стандартное стекло и объекты
+  ## Стандартное Стекло и Объекты
   <Box>
     <GuideEntityEmbed Entity="Window" Caption=""/>
     <GuideEntityEmbed Entity="WindowDirectional" Caption=""/>
@@ -24,7 +24,7 @@
 
   Четвертьразмерное стекло, такое как направленные окна, способно выдержать ΔP до [color=orange][protodata="WindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] кПа[/color], прежде чем начнёт трескаться.
 
-  ## Усиленное стекло и объекты
+  ## Усиленное Стекло и Объекты
   <Box>
     <GuideEntityEmbed Entity="ReinforcedWindow" Caption=""/>
     <GuideEntityEmbed Entity="WindowReinforcedDirectional" Caption=""/>
@@ -36,7 +36,7 @@
 
   Усиленное четвертьразмерное стекло способно выдержать ΔP до [color=orange][protodata="WindowReinforcedDirectional" comp="DeltaPressure" member="MinPressureDelta"/] кПа[/color], прежде чем начнёт трескаться.
 
-  ## Плазменное/урановое стекло
+  ## Плазменное/Урановое Стекло
   <Box>
     <GuideEntityEmbed Entity="PlasmaWindow" Caption=""/>
     <GuideEntityEmbed Entity="PlasmaWindowDirectional" Caption=""/>
@@ -50,7 +50,7 @@
 
   Плазменное и урановое четвертьразмерное стекло способны выдержать ΔP до [color=orange][protodata="PlasmaWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] кПа[/color], прежде чем начнут трескаться.
 
-  ## Усиленное плазменное/урановое стекло
+  ## Усиленное Плазменное/Урановое Стекло
 
   <Box>
     <GuideEntityEmbed Entity="ReinforcedPlasmaWindow" Caption=""/>

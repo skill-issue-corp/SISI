@@ -6,7 +6,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Воздушный инжектор
+  # Воздушный Инжектор
   Воздушный инжектор - специальная вентиляция, принудительно нагнетающая газы в атмосферу, с которой она контактирует.
   <Box>
     <GuideEntityEmbed Entity="GasOutletInjector"/>

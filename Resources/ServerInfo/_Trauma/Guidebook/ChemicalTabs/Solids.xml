@@ -1,13 +1,13 @@
 <Document>
 
-# Твёрдые вещества
+# Твёрдые Вещества
 
 Рецепты здесь - это твёрдые предметы, создаваемые с помощью химии.
 
 ## Крем Алоэ
   <Box>
-    <GuideEntityEmbed Entity="FoodAloe" Caption="Сырое алоэ"/>
-    <GuideEntityEmbed Entity="AloeCream" Caption="Крем алоэ"/>
+    <GuideEntityEmbed Entity="FoodAloe" Caption="Сырое Алоэ"/>
+    <GuideEntityEmbed Entity="AloeCream" Caption="Крем Алоэ"/>
   </Box>
 
 Крем алоэ можно создать, поместив сырое алоэ в микроволновку на 10 секунд.
@@ -56,7 +56,7 @@
 
 ## Пластик
   <Box>
-    <GuideEntityEmbed Entity="SheetPlastic" Caption="Листы пластика"/>
+    <GuideEntityEmbed Entity="SheetPlastic" Caption="Листы Пластика"/>
   </Box>
 
 Пластик изготовляют в два этапа через этилен.
@@ -69,7 +69,7 @@
 
 Смешайте этилен с кислородом и нагрейте до 453 К. За один цикл получится 5 листов пластика.
 
-## Регенеративная сетка
+## Регенеративная Сетка
   <Box>
     <GuideEntityEmbed Entity="RegenerativeMesh" Caption="Сетка"/>
   </Box>
@@ -77,7 +77,7 @@
 Сетки можно создать, поместив следующие ингредиенты в микроволновку на 10 секунд:
 
   <Box>
-    <GuideEntityEmbed Entity="FoodAloe" Caption="Сырое алоэ"/>
+    <GuideEntityEmbed Entity="FoodAloe" Caption="Сырое Алоэ"/>
     <GuideEntityEmbed Entity="Ointment" Caption="Мазь"/>
     <GuideEntityEmbed Entity="MaterialCloth" Caption="Ткань"/>
   </Box>
@@ -122,9 +122,9 @@
 - 20 единиц Транексамовой кислоты
 - 20 единиц Криптобиолина
 
-  ## Синтетическое мясо
+  ## Синтетическое Мясо
     <Box>
-      <GuideEntityEmbed Entity="FoodSynthMeat" Caption="Синтетическое мясо"/>
+      <GuideEntityEmbed Entity="FoodSynthMeat" Caption="Синтетическое Мясо"/>
     </Box>
 
 Синтетическое мясо можно создать, смешав следующие ингредиенты

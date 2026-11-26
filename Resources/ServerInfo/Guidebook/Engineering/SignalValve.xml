@@ -6,7 +6,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Сигнальный клапан
+  # Сигнальный Клапан
   Сигнальный клапан - это клапан, которым можно управлять через [textlink="сигналы." link="Networking"]
   <Box>
     <GuideEntityEmbed Entity="SignalControlledValve"/>

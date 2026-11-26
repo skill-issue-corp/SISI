@@ -42,7 +42,7 @@
 
   Шквал ударов кулаками.
 
-  ### Огненный шар
+  ### Огненный Шар
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
@@ -52,7 +52,7 @@
 
   Взрыв пылающих эмоций.
 
-  ### Удар головой
+  ### Удар Головой
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>

@@ -15,14 +15,14 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   У них нет костей.
 
   <Box>
-    <GuideEntityEmbed Entity="PositronicBrain" Caption="Позитронный мозг"/>
+    <GuideEntityEmbed Entity="PositronicBrain" Caption="Позитронный Мозг"/>
   </Box>
   Как и борги, КПБ используют позитронный мозг в качестве источника обработки данных. Однако, в отличие от боргов, КПБ нельзя собрать заново. «Дешевле создать оболочку, которая тебя слушается, чем ту, что не слушается! *подмигивает*»
 
   ## Подзарядка КПБ
   <Box>
     <GuideEntityEmbed Entity="APCBasic" Caption="Терминал ТСЭ"/>
-    <GuideEntityEmbed Entity="BorgCharger" Caption="Зарядная станция для боргов"/>
+    <GuideEntityEmbed Entity="BorgCharger" Caption="Зарядная Станция для Боргов"/>
     <GuideEntityEmbed Entity="PowerCellMedium" Caption="Батареи"/>
   </Box>
   КПБ могут подзаряжаться тремя разными способами:
@@ -33,7 +33,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Батареи: КПБ могут пить энергию из батарей, чтобы зарядить свой внутренний аккумулятор. [color=yellow]Нажмите правой кнопкой мыши и выберите «Слить»[/color] на батарее или устройстве, работающем от батареи, чтобы забрать из него энергию.
 
-  ## Встроенное радио
+  ## Встроенное Радио
   <Box>
     <GuideEntityEmbed Entity="EncryptionKeyScience" Caption="Ключ шифрования"/>
   </Box>
@@ -43,16 +43,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   ## Ремонт
   <Box HorizontalAlignment="Stretch">
-    <GuideEntityEmbed Entity="WelderIndustrialAdvanced" Caption="Сварочный аппарат"/>
-    Сварочные аппараты можно использовать для устранения урона от [color=yellow]грубой силы[/color].
+    <GuideEntityEmbed Entity="WelderIndustrialAdvanced" Caption="Сварочный Аппарат"/>
+    Сварочные аппараты можно использовать для устранения урона от [color=yellow]Грубой силы[/color].
   </Box>
   <Box HorizontalAlignment="Stretch">
     <GuideEntityEmbed Entity="CableApcStack" Caption="Кабели (любого типа)"/>
-    Кабели можно использовать для устранения [color=yellow]ожогов[/color].
+    Кабели можно использовать для устранения [color=yellow]Ожогов[/color].
   </Box>
   <Box HorizontalAlignment="Stretch">
     <GuideEntityEmbed Entity="SheetGlass" Caption="Листы стекла (любого типа)"/>
-    Листы стекла можно использовать для устранения [color=yellow]слепоты[/color].
+    Листы стекла можно использовать для устранения [color=yellow]Слепоты[/color].
   </Box>
   <Box HorizontalAlignment="Stretch">
     Если КПБ погибает, после полного ремонта его следует перезапустить с помощью кнопки [color=yellow]«Перезапустить»[/color] (доступна по правому клику).

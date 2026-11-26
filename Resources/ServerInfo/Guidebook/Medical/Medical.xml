@@ -12,7 +12,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 Это отдел, куда люди отправляются, когда они получили травму, и именно работающим здесь предстоит их вылечить.
 
 ## Персонал
-Штат сотрудников [color=#5b97bc]медотсека[/color] состоит из медицинских интернов, врачей, парамедиков и химиков. [color=#5b97bc]Медотсеком[/color] руководит главный врач.
+Штат сотрудников [color=#5b97bc]Медотсека[/color] состоит из медицинских интернов, врачей, парамедиков и химиков. [color=#5b97bc]Медотсеком[/color] руководит главный врач.
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineMedicalDoctor" Caption="Врач"/>
@@ -23,7 +23,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 На данный момент медотсек разделён на два разных вида ухода:
 
-## Медицинское лечение
+## Медицинское Лечение
   <Box>
     <GuideEntityEmbed Entity="Brutepack"/>
     <GuideEntityEmbed Entity="Bloodpack"/>
@@ -31,7 +31,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="Gauze"/>
     <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
   </Box>
-## Производство химикатов
+## Производство Химикатов
   <Box>
     <GuideEntityEmbed Entity="ChemDispenser"/>
     <GuideEntityEmbed Entity="LargeBeaker"/>

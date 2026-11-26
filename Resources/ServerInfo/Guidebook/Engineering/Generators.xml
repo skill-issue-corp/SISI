@@ -27,7 +27,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="Turbine" Caption=""/>
   </Box>
   <Box>
-    ## Ядерный генератор
+    ## Ядерный Генератор
   </Box>
   <Box>
     [color=#999999][italic]Использует энергию ядерного деления для питания станции.[italic][/color]
@@ -38,7 +38,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
   </Box>
   <Box>
-    ## Антиматериальный двигатель
+    ## Антиматериальный Двигатель
   </Box>
   <Box>
     [color=#999999][italic]Генератор кратковременной поддержки для станции[italic][/color]
@@ -50,7 +50,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="TegCirculator" Caption="" Margin="0"/>
   </Box>
   <Box>
-    ## Термоэлектрический генератор
+    ## Термоэлектрический Генератор
   </Box>
   <Box>
     [color=#999999][italic]Продвинутый атмосферный генератор, использующий энергию газов[italic][/color]
@@ -62,7 +62,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="SolarPanel" Caption=""/>
   </Box>
   <Box>
-    ## Солнечные панели
+    ## Солнечные Панели
   </Box>
   <Box>
     [color=#999999][italic]Пассивный источник энергии, не требующий обслуживания[italic][/color]
@@ -75,7 +75,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="PortableGeneratorSuperPacman" Caption="" />
   </Box>
   <Box>
-    ## Переносные генераторы
+    ## Переносные Генераторы
   </Box>
   <Box>
     [color=#999999][italic]Переносные генераторы для использования экипажем и аварийного электроснабжения[italic][/color]
@@ -85,7 +85,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="GeneratorRTG" Caption="" />
   </Box>
   <Box>
-    ## Радиоизотопный термоэлектрический генератор
+    ## Радиоизотопный Термоэлектрический Генератор
   </Box>
   <Box>
     [color=#999999][italic]Пассивный источник энергии, не требующий обслуживания[italic][/color]

@@ -9,7 +9,7 @@
     <GuideEntityEmbed Entity="FishFatFuckingCunt" Caption="ТУПОЕ"/>
   </Box>
 
-# Начало работы
+# Начало Работы
 Начните с приобретения удочки. Вы можете скрафтить удочку или заказать её из карго. Не все удочки одинаковы по характеристикам.
 
   <Box>
@@ -26,9 +26,9 @@
     <GuideEntityEmbed Entity="PlasmaFishingPool" Caption="Заказывается из карго"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="FloorWaterEntity" Caption="Встречается в природе"/>
-    <GuideEntityEmbed Entity="FloorLavaEntity" Caption="Встречается в природе"/>
-    <GuideEntityEmbed Entity="FloorLiquidPlasmaEntity" Caption="Встречается в природе"/>
+    <GuideEntityEmbed Entity="FloorWaterEntity" Caption="Встречается в Природе"/>
+    <GuideEntityEmbed Entity="FloorLavaEntity" Caption="Встречается в Природе"/>
+    <GuideEntityEmbed Entity="FloorLiquidPlasmaEntity" Caption="Встречается в Природе"/>
   </Box>
   <Box>
     <GuideEntityEmbed Entity="ToiletDirtyWater" Caption="Фу!"/>

@@ -2,23 +2,23 @@
 # Ковка
 Ковка требует серьёзной подготовки, но позволяет создавать мощные предметы, которые иначе трудно или невозможно получить.
 
-# Начало работы
+# Начало Работы
 Начните с получения цемента, либо из техтоннелей, либо из химии, и смешайте его с водой, чтобы получить влажный цемент. Из него можно сделать влажные кирпичи, которые после высыхания можно использовать для изготовления сыродутных горнов.
 
   <Box>
-    <GuideEntityEmbed Entity="ReagentContainerCement" Caption="Мешок цемента"/>
+    <GuideEntityEmbed Entity="ReagentContainerCement" Caption="Мешок Цемента"/>
     <GuideEntityEmbed Entity="WetCement" Caption="Цемент"/>
-    <GuideEntityEmbed Entity="WetBrick" Caption="Влажный кирпич"/>
+    <GuideEntityEmbed Entity="WetBrick" Caption="Влажный Кирпич"/>
     <GuideEntityEmbed Entity="Brick1" Caption="Кирпич"/>
   </Box>
 
-# Сыродутный горн
+# Сыродутный Горн
 Сыродутные горны можно загрузить углём и металлическим ломом, чтобы получить крицу; как только они закончат обжиг, разбейте их, чтобы получить крицу.
 
   <Box>
-    <GuideEntityEmbed Entity="BloomeryCold" Caption="Сыродутный горн"/>
-    <GuideEntityEmbed Entity="BloomeryLitSteel" Caption="Активный сыродутный горн"/>
-    <GuideEntityEmbed Entity="BloomeryCompleteSteel" Caption="Готовый сыродутный горн"/>
+    <GuideEntityEmbed Entity="BloomeryCold" Caption="Сыродутный Горн"/>
+    <GuideEntityEmbed Entity="BloomeryLitSteel" Caption="Активный Сыродутный Горн"/>
+    <GuideEntityEmbed Entity="BloomeryCompleteSteel" Caption="Готовый Сыродутный Горн"/>
   </Box>
 
 # Ковка

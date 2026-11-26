@@ -6,7 +6,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Мониторинг и управление устройствами
+  # Мониторинг и Управление Устройствами
   Учитывая станционный масштаб атмосферной сети, важно иметь возможность отслеживать и управлять устройствами из центрального местоположения.
 
   Используя эти системы, атмосферный отдел может отслеживать и контролировать атмосферу по всей станции.
@@ -16,7 +16,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="AirSensor" Caption=""/>
   </Box>
   <Box>
-    ## Воздушные тревоги
+    ## Воздушные Тревоги
   </Box>
   <Box>
     [color=#999999][italic]Мониторинг и управление атмосферными устройствами в широкой области[italic][/color]
@@ -26,7 +26,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="ComputerAlert" Caption=""/>
   </Box>
   <Box>
-    ## Консоль атмосферной сигнализации
+    ## Консоль Атмосферной Сигнализации
   </Box>
   <Box>
     [color=#999999][italic]Мониторинг воздушных тревог по всей станции[italic][/color]
@@ -37,10 +37,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="GasPipeSensor" Caption=""/>
   </Box>
   <Box>
-    ## Монитор атмосферной сети
+    ## Монитор Атмосферной Сети
   </Box>
   <Box>
-    [color=#999999][italic]Мониторинг целых трубопроводных сетей[italic][/color]
+    [color=#999999][italic]Мониторинг целых сетей труб[italic][/color]
   </Box>
 
 </Document>

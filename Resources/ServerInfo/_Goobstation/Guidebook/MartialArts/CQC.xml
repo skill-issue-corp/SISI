@@ -1,6 +1,6 @@
 <Document>
 
-  # Ближний бой
+  # Ближний Бой
 
   <Box>
     <GuideEntityEmbed Entity="CQCManual" Caption=""/>
@@ -25,7 +25,7 @@
 
   Швыряет противника, сбивая его с ног и нанося тупой урон. Работает только против стоящих противников.
 
-  ### Удар ногой
+  ### Удар Ногой
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>

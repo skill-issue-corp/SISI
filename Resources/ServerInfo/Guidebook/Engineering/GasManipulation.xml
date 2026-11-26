@@ -6,7 +6,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Манипуляция газом
+  # Манипуляция Газом
   Атмосферный отдел располагает широким набором инструментов и оборудования для манипуляции газами по всей станции.
 
   [bold]Внимание: откручивание (снятие с помощью гаечного ключа) большинства устройств, содержащих газ, приведёт к [color=red]утечке газа[/color] в атмосферу.[/bold]
@@ -45,7 +45,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="PortableScrubber" Caption=""/>
   </Box>
   <Box>
-    ## Ввод и вывод атмосферы
+    ## Ввод и Вывод Атмосферы
   </Box>
   <Box>
     [color=#999999][italic]Введение и извлечение газов из имеющейся (или отсутствующей) атмосферы[italic][/color]
@@ -70,7 +70,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="GasFilter" Caption=""/>
   </Box>
   <Box>
-    ## Смешивание и фильтрация
+    ## Смешивание и Фильтрация
   </Box>
   <Box>
     [color=#999999][italic]Изменение состава газа[italic][/color]
@@ -85,7 +85,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="GasPort" Caption=""/>
   </Box>
   <Box>
-    ## Газовые баллоны
+    ## Газовые Баллоны
   </Box>
   <Box>
     [color=#999999][italic]Хранение и транспортировка газа для удобного использования экипажем[italic][/color]
@@ -98,17 +98,17 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="HeatExchanger" Caption=""/>
   </Box>
   <Box>
-    ## Термомашины и радиаторы
+    ## Термомашины и Радиаторы
   </Box>
   <Box>
-    [color=#999999][italic]Изменение температуры газов в трубопроводной сети или атмосфере[italic][/color]
+    [color=#999999][italic]Изменение температуры газов в сети труб или атмосфере[italic][/color]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="BaseGasCondenser" Caption=""/>
   </Box>
   <Box>
-    ## Конденсация газа
+    ## Конденсация Газа
   </Box>
   <Box>
     [color=#999999][italic]Конденсация газов для дальнейшего использования[italic][/color]

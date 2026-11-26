@@ -1,5 +1,5 @@
 <Document>
-  # Голографические генераторы
+  # Голографические Генераторы
   <Box>
     <GuideEntityEmbed Entity="HolographicFieldGenerator" Caption="" Rotation="90" Margin="0"/>
     <GuideEntityEmbed Entity="HolographicField" Caption="" Rotation="90" Margin="0"/>

@@ -9,7 +9,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Радиоизотопный термоэлектрический генератор (РИТЭГ)
+  # Радиоизотопный Термоэлектрический Генератор (РИТЭГ)
 
   <Box>
     <GuideEntityEmbed Entity="GeneratorRTG" Caption="РИТЭГ" />

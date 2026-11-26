@@ -28,7 +28,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="ToyFigurineQuartermaster" Caption="Квартирмейстер"/>
   </Box>
 
-  ## Зарабатывание денег
+  ## Зарабатывание Денег
 
   Главная проблема любого отдела Карго - нехватка денег.
 
@@ -56,7 +56,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Вы также можете заработать ещё больше денег, выполняя [textlink="заказы" link="CargoBounties"] или продавая ценные предметы с [textlink="утилизации" link="Salvage"].
 
-  ## Заказ товаров
+  ## Заказ Товаров
 
   <Box>
     <GuideEntityEmbed Entity="ComputerCargoOrders"/>

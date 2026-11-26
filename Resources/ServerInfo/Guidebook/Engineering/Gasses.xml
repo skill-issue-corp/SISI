@@ -43,7 +43,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Некоторые виды, такие как слаймы, дышат азотом, а виду воксов для дыхания требуется исключительно азот.
 
-  ## Воздушная смесь
+  ## Воздушная Смесь
   <Box>
     <GuideEntityEmbed Entity="AirCanister" Caption=""/>
     <GuideEntityEmbed Entity="AirTank" Caption=""/>
@@ -53,7 +53,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   Она состоит из 21% кислорода и 79% азота.
 
 
-  ## Углекислый газ
+  ## Углекислый Газ
   <Box>
     <GuideEntityEmbed Entity="CarbonDioxideCanister" Caption=""/>
   </Box>
@@ -62,7 +62,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Несмотря на кажущуюся бесполезность, некоторые отделы используют его в своей работе.
 
-  ## Водяной пар
+  ## Водяной Пар
   <Box>
     <GuideEntityEmbed Entity="WaterVaporCanister" Caption=""/>
   </Box>
@@ -120,7 +120,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Помните, атмосферный отдел - это всё об экспериментах и оптимизации процессов. Пробуйте, пока не добьётесь результата!
 
-  ## Оксид азота
+  ## Оксид Азота
   <Box>
     <GuideEntityEmbed Entity="NitrousOxideCanister" Caption=""/>
     <GuideEntityEmbed Entity="EmergencyFunnyOxygenTank" Caption=""/>

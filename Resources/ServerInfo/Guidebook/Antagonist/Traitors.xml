@@ -29,7 +29,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Предателем может быть кто угодно, кроме [textlink="глав отделов" link="Command"] или членов [textlink="Службы Безопасности" link="Security"].
 
-  ## Аплинк и активация
+  ## Аплинк и Активация
   [color=cyan]Аплинк[/color] - ваш важнейший инструмент как предателя. Вы можете обменять 100 [color=red]телекристаллов[/color] (ТК), с которыми вы начинаете, на предметы, которые помогут вам в выполнении заданий.
 
   Нажав [color=yellow][bold][keybind="OpenCharacterMenu"][/bold][/color], вы увидите свой личный код аплинка. Чтобы активировать аплинк, установите этот код в качестве рингтона вашего КПК. Это может сделать [bold]любой КПК и любой человек[/bold], так что будьте осторожны, делясь им!
@@ -49,7 +49,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   <Box>
     <GuideEntityEmbed Entity="WeaponPistolViper" Caption="Оружие"/>
-    <GuideEntityEmbed Entity="FireAxe" State="icon" Caption="Холодное оружие"/>
+    <GuideEntityEmbed Entity="FireAxe" State="icon" Caption="Холодное Оружие"/>
     <GuideEntityEmbed Entity="C4" Caption=" Взрывчатка"/>
     <GuideEntityEmbed Entity="Syringe" Caption="Импланты"/>
     <GuideEntityEmbed Entity="ClothingBackpackDuffelSyndicate" Caption="Наборы"/>
@@ -73,7 +73,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Помните, Синдикату нужна смерть только ваших целей. [color=red]Старайтесь избегать массовых убийств или серьёзного ущерба станции,[/color] ведь чем больше невинных жизней вы заберёте, тем более обременительным вы становитесь.
 
-  ## Побег и самоликвидация
+  ## Побег и Самоликвидация
   Ваши задания могут потребовать от вас [italic][color=cyan]добраться до ЦентКома, не будучи убитым или захваченным.[/color][/italic] Не дайте [color=#cb0000]Службе Безопасности[/color] остановить вас, выполните остальные задания и [bold]вернитесь живым.[/bold]
 
   Либо же ваши задания могут потребовать от вас [italic][color=cyan]умереть славной смертью.[/color][/italic] [bold]Убедитесь, что не воскреснете из мёртвых,[/bold] иначе вы можете проснуться в наручниках.
@@ -84,7 +84,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   Цель может находиться в их кабинете либо при них лично. Может понадобиться убить того, кто её несёт, если вы не сможете украсть её незаметно.
 
   Среди заданий, которые могут вам поручить:
-  - Украсть у [color=yellow]Капитана[/color] [bold]ID-карту[/bold], [bold]антикварный лазерный пистолет[/bold], [bold]джетпак[/bold] или [bold]диск ядерной аутентификации[/bold].
+  - Украсть у [color=yellow]Капитана[/color] [bold]ID-Карту[/bold], [bold]антикварный лазерный пистолет[/bold], [bold]джетпак[/bold] или [bold]диск ядерной аутентификации[/bold].
   <Box>
     <GuideEntityEmbed Entity="CaptainIDCard" Caption=""/>
     <GuideEntityEmbed Entity="WeaponAntiqueLaser" Caption=""/>

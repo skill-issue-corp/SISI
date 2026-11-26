@@ -26,7 +26,7 @@
 
   Наносит огромный режущий урон и вызывает кровотечение у цели.
 
-  ### Отрывание головы
+  ### Отрывание Головы
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
@@ -37,7 +37,7 @@
 
   Отрывает голову мёртвому противнику, очень смертоносно. Не может быть выполнено, пока цель жива.
 
-  ### Адский швырок
+  ### Адский Швырок
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
@@ -46,7 +46,7 @@
 
   Сбивает противника с ног и наносит тяжёлый урон выносливости. Если вы лежите на земле, поднимаетесь на ноги.
 
-  ### Бросок с ног
+  ### Бросок с Ног
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>

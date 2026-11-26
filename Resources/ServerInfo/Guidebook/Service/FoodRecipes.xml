@@ -18,14 +18,14 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 <Document>
 
-# Рецепты для микроволновки
+# Рецепты для Микроволновки
 
 Это последняя опубликованная версия сборника рецептов Kitchen de Cuisine Центрального Командования «NanoTrasen» для шеф-поваров на кораблях «NanoTrasen».
 
 ## Пицца
 <GuideMicrowaveGroupEmbed Group="Pizza"/>
 
-## Сытные блюда
+## Сытные Блюда
 <GuideMicrowaveGroupEmbed Group="Savory"/>
 
 ## Хлеб
@@ -34,22 +34,22 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 ## Завтраки
 <GuideMicrowaveGroupEmbed Group="Breakfast"/>
 
-## Еда для мотыльков
+## Еда для Мотыльков
 <GuideMicrowaveGroupEmbed Group="Moth"/>
 
-## Паста и лапша
+## Паста и Лапша
 <GuideMicrowaveGroupEmbed Group="Pasta"/>
 
-## Выпечка и десерты
+## Выпечка и Десерты
 <GuideMicrowaveGroupEmbed Group="Dessert"/>
 
-## Супы и рагу
+## Супы и Рагу
 <GuideMicrowaveGroupEmbed Group="Soup"/>
 
-## Пироги и тарты
+## Пироги и Тарты
 <GuideMicrowaveGroupEmbed Group="Pie"/>
 
-## Батончики и печенье
+## Батончики и Печенье
 <GuideMicrowaveGroupEmbed Group="BarsAndCookies"/>
 
 ## Торты
@@ -58,7 +58,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 ## Салаты
 <GuideMicrowaveGroupEmbed Group="Salad"/>
 
-## Лекарственные рецепты
+## Лекарственные Рецепты
 <GuideMicrowaveGroupEmbed Group="Medicinal"/>
 
 ## Прочее

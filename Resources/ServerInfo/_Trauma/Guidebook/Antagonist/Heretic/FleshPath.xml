@@ -34,11 +34,11 @@
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Создаёт кровавый клинок.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Хватка Плоти</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная Способность</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваша хватка может поднимать мёртвых как преданных вурдалаков.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Метка Плоти</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная Способность</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваша хватка теперь накладывает метку плоти, создавая плотяного двойника жертвы, который атакует её при активации.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Несовершенный Ритуал</Box></ColorBox>
@@ -46,7 +46,7 @@
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Поднимает труп как Безмолвного Мертвеца, сильного, но безмолвного миньона.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Плетение Плоти</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Активная Способность</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Даёт заклинание, работающее как все хирургические инструменты, лечит миньонов, а также предоставляет анализ здоровья и худ.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Сырой Ритуал</Box></ColorBox>
@@ -54,7 +54,7 @@
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Призывает сырого пророка, существо, способное связывать разумы ваших призванных существ через связь мансуса. Также является сильным разведчиком и лечит еретиков и монстров вокруг себя.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Кровоточащая Сталь</Box></ColorBox>
-    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная способность</Box></ColorBox>
+    <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Пассивная Способность</Box></ColorBox>
     <ColorBox><Box HorizontalAlignment="Stretch" VerticalAlignment="Center" Margin="5">Ваши кровавые клинки теперь вызывают сильное кровотечение при атаке.</Box></ColorBox>
 
     <ColorBox><Box HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5">Одинокий Ритуал</Box></ColorBox>
@@ -91,7 +91,7 @@
 
   - Ваша Хватка Мансуса позволяет превращать мёртвых гуманоидов в вурдалаков (даже гуманоидов со Щитом Разума, таких как офицеры безопасности и капитан). Она также оставляет метку, которая при активации вашим кровавым клинком создаёт преданного мимика плоти.
   - Как Еретик Плоти, органы и трупы — ваши лучшие друзья! Вы можете использовать их для ритуалов, исцеления или получения усилений.
-  - Вы можете отозвать своих вурдалаков или призванных существ, [color=yellow]кликнув с Alt[/color] по ритуальной руне с помощью Хватки Мансуса.
+  - Вы можете отозвать своих вурдалаков или призванных существ, [color=yellow]Кликнув с Alt[/color] по ритуальной руне с помощью Хватки Мансуса.
   - Ваше заклинание Плетения Плоти может лечить ваших призванных существ. Оно также работает как хороший хирургический инструмент, пропускающий этапы операции и действующий через одежду.
   - Сырые пророки могут связать вас и других призванных существ в телепатическую сеть, позволяя координировать действия на больших расстояниях. Они также обладают лечащей аурой для вас и ваших миньонов.
   - Гончие плоти — неплохие бойцы, способные маскироваться под различных существ. Они также могут использовать заклинание Багрового Раскола.

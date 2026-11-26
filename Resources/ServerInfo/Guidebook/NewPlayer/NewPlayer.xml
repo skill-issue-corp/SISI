@@ -7,9 +7,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Добро пожаловать в Space Station 14!
+# Добро Пожаловать в Space Station 14!
 
-Вы только что начали свою смену на борту космической станции Nanotrasen.
+Вы только что начали свою смену на борту космической станции NanoTrasen.
 Вам и вашим товарищам по экипажу предстоит работать сообща, выживать и получать удовольствие от игры!
 
 [bold]Обязательно соблюдайте все правила сервера.[/bold] Вы можете задать вопросы или сообщить о нарушении правил [color=#EB2D3A][bold]команде администрации[/bold][/color], воспользовавшись [bold]меню админ-хелпа[/bold]. ([italic]доступно по нажатию[/italic] [color=yellow][bold][keybind="OpenAHelp"/][/bold][/color])
@@ -18,7 +18,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 Это руководство можно снова открыть в любой момент, нажав [color=yellow][bold][keybind="OpenGuidebook"][/bold][/color].
 
-## Основные элементы управления
+## Основные Элементы Управления
 Ниже перечислены элементы управления, которые понадобятся вам для обычной игры:
 
 - Бегайте с помощью [color=yellow][bold][keybind="MoveUp"][keybind="MoveLeft"][keybind="MoveDown"][keybind="MoveRight"][/bold][/color]. Удерживайте [color=yellow][bold][keybind="Walk"][/bold][/color], чтобы идти шагом

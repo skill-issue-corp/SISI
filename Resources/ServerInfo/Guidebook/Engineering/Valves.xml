@@ -7,7 +7,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 <Document>
   # Клапаны
-  Клапаны — это быстрый способ остановить или разрешить поток газа через [textlink="трубопроводную сеть" link="PipeNetworks"].
+  Клапаны — это быстрый способ остановить или разрешить поток газа через [textlink="сеть труб" link="PipeNetworks"].
   <Box>
     <GuideEntityEmbed Entity="GasValve"/>
     <GuideEntityEmbed Entity="SignalControlledValve"/>

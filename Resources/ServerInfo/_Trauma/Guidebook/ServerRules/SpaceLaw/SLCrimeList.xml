@@ -14,7 +14,7 @@
     <ColorBox Color="#734225"><Box HorizontalAlignment="Left" Margin="4">
       За такое нарушение назначают до пяти минут в бриге, телесное наказание или ограничение доступа.
     </Box></ColorBox>
-    <ColorBox Color="#000000"><Box>Нарушения 4-го Типа | Преступления, За Которые Возможно Увольнение</Box></ColorBox>
+    <ColorBox Color="#000000"><Box>Нарушения 4-го Типа | Преступления, за Которые Возможно Увольнение</Box></ColorBox>
     <ColorBox Color="#5c1417"><Box HorizontalAlignment="Left" Margin="4">
       Такое нарушение может повлечь лишение прав, предоставленных корпоративным законом. Обычно за него назначают понижение до класса D, пять минут в бриге \n и/или суровое телесное наказание. Могут применить все три меры. В исключительных случаях возможно бессрочное заключение с условно-досрочным освобождением за хорошее поведение, \n но только с одобрения главы службы безопасности или капитана.
     </Box></ColorBox>
@@ -61,7 +61,7 @@
     <ColorBox Color="#1b5712"><Box HorizontalAlignment="Left" Margin="4">
       Курение или использование вейпа вне отведённых для этого мест, таких как бары, комнаты отдыха, театры, столовые и кабинеты.
     </Box></ColorBox>
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Выдача Себя За Сотрудника Отдела</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Выдача Себя за Сотрудника Отдела</Box></ColorBox>
     <ColorBox Color="#1b5712"><Box HorizontalAlignment="Left" Margin="4">
       Ношение формы отдела лицом, которое в нём не работает.
     </Box></ColorBox>
@@ -85,7 +85,7 @@
     <ColorBox Color="#1b5712"><Box HorizontalAlignment="Left" Margin="4">
       Предложение или получение взятки - предмета, одолжения или услуги в обмен на незаконное преимущество. За нарушения, совершённые в результате взятки, отвечают и тот, кто её предложил, и тот, кто её принял.
     </Box></ColorBox>
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Хранение Наркотиков Списка A Для Личного Употребления</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Хранение Наркотиков Списка A для Личного Употребления</Box></ColorBox>
     <ColorBox Color="#1b5712"><Box HorizontalAlignment="Left" Margin="4">
       Хранение не более 50 единиц запрещённых наркотиков списка A с целью личного употребления.
     </Box></ColorBox>
@@ -112,7 +112,7 @@
     <ColorBox Color="#262087"><Box HorizontalAlignment="Left" Margin="4">
       Отказ исполнить законное распоряжение офицера СБ или любое распоряжение, направленное на устранение нарушения 1-го типа.
     </Box></ColorBox>
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Уклонение От Задержания</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Уклонение от Задержания</Box></ColorBox>
     <ColorBox Color="#262087"><Box HorizontalAlignment="Left" Margin="4">
       Бегство или отказ остановиться, когда служба безопасности преследует вас или требует остановиться, без применения силы.
     </Box></ColorBox>
@@ -136,7 +136,7 @@
     <ColorBox Color="#262087"><Box HorizontalAlignment="Left" Margin="4">
       Хранение запрещённого оружия, не подпадающее под другие разделы или статьи.
     </Box></ColorBox>
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Хранение Наркотиков Списка B Для Личного Употребления</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Хранение Наркотиков Списка B для Личного Употребления</Box></ColorBox>
     <ColorBox Color="#262087"><Box HorizontalAlignment="Left" Margin="4">
       Хранение не более 50 единиц запрещённых наркотиков списка B.
     </Box></ColorBox>
@@ -160,7 +160,7 @@
     <ColorBox Color="#262087"><Box HorizontalAlignment="Left" Margin="4">
       Кража чужого предмета, не подпадающая под другие разделы или статьи.
     </Box></ColorBox>
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Проникновение Со Взломом</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Проникновение со Взломом</Box></ColorBox>
     <ColorBox Color="#262087"><Box HorizontalAlignment="Left" Margin="4">
       Незаконное проникновение с применением силы в зону, к которой у нарушителя нет доступа.
     </Box></ColorBox>
@@ -205,7 +205,7 @@
     <ColorBox Color="#262087"><Box HorizontalAlignment="Left" Margin="4">
       Организация или провоцирование беспорядков либо незаконного собрания.
     </Box></ColorBox>
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Создание Опасности По Неосторожности</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Создание Опасности по Неосторожности</Box></ColorBox>
     <ColorBox Color="#262087"><Box HorizontalAlignment="Left" Margin="4">
       Создание угрозы безопасности других сотрудников необдуманными действиями или бездействием.
     </Box></ColorBox>
@@ -216,15 +216,15 @@
   ### Насилие И Неподчинение
   Нарушения 3-го типа, связанные с насилием или неподчинением службе безопасности.
   <Table Columns="2">
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Нападение При Отягчающих Обстоятельствах</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Нападение при Отягчающих Обстоятельствах</Box></ColorBox>
     <ColorBox Color="#734225"><Box HorizontalAlignment="Left" Margin="4">
       Умышленное причинение физического вреда другому сотруднику с применением оружия либо с намерением причинить тяжкий вред здоровью или смерть.
     </Box></ColorBox>
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Угроза Нападением При Отягчающих Обстоятельствах</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Угроза Нападением при Отягчающих Обстоятельствах</Box></ColorBox>
     <ColorBox Color="#734225"><Box HorizontalAlignment="Left" Margin="4">
       Угроза немедленно причинить сотруднику физический вред с применением оружия либо с намерением причинить тяжкий вред здоровью или смерть.
     </Box></ColorBox>
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Причинение Смерти По Неосторожности</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Причинение Смерти по Неосторожности</Box></ColorBox>
     <ColorBox Color="#734225"><Box HorizontalAlignment="Left" Margin="4">
       Непреднамеренное причинение смерти другому сотруднику необдуманными действиями или бездействием.
     </Box></ColorBox>
@@ -284,7 +284,7 @@
     <ColorBox Color="#734225"><Box HorizontalAlignment="Left" Margin="4">
       Производство веществ списка A или B с целью извлечения прибыли.
     </Box></ColorBox>
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Хранение Наркотиков В Количестве Для Сбыта</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Хранение Наркотиков В Количестве для Сбыта</Box></ColorBox>
     <ColorBox Color="#734225"><Box HorizontalAlignment="Left" Margin="4">
       Хранение веществ списка A или B в количестве свыше 50 единиц.
     </Box></ColorBox>
@@ -343,7 +343,7 @@
     <ColorBox Color="#5c1417"><Box HorizontalAlignment="Left" Margin="4">
       Любая угроза причинить вред сотруднику службы безопасности, капитану или представителю NanoTrasen, независимо от намерения убить.
     </Box></ColorBox>
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Покушение На Убийство</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Покушение на Убийство</Box></ColorBox>
     <ColorBox Color="#5c1417"><Box HorizontalAlignment="Left" Margin="4">
       Попытка убить другого сотрудника.
     </Box></ColorBox>
@@ -434,11 +434,11 @@
   <ColorBox Color="#571d50"><Box HorizontalAlignment="Left" Margin="4">
     Массовое насилие или разрушения, направленные против корпорации в идеологических или политических целях
   </Box></ColorBox>
-  <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Государственный Переворот</Box></ColorBox>
+  <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Государственный переворот</Box></ColorBox>
   <ColorBox Color="#571d50"><Box HorizontalAlignment="Left" Margin="4">
     Внезапный незаконный захват власти у капитана без достаточных оснований влечёт немедленную казнь всех причастных членов командования.
   </Box></ColorBox>
-  <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Отказ От Импланта «Щит Разума»</Box></ColorBox>
+  <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Отказ от импланта «щит разума»</Box></ColorBox>
   <ColorBox Color="#571d50"><Box HorizontalAlignment="Left" Margin="4">
     Отказ от установки импланта «Щит Разума» при обоснованных подозрениях или достаточно серьёзной угрозе может повлечь немедленную казнь, если это необходимо. Согласие капитана не требуется.
   </Box></ColorBox>
@@ -472,11 +472,11 @@
   ## Нестандартные Нарушения
   Нестандартные нарушения обычно касаются освобождённых заключённых, условно-досрочно освобождённых и рецидивистов. Они также могут относиться к отдельным оговорённым нарушениям и обычно повышают категорию совершённого нарушения вместо назначения конкретной категории.
   <Table Columns="2">
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Нарушение Режима Содержания Под Стражей</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Нарушение Режима Содержания под Стражей</Box></ColorBox>
     <ColorBox Color="#756322"><Box HorizontalAlignment="Left" Margin="4">
       Вывод арестованного из охраняемой зоны с целью его освобождения либо самостоятельный побег арестованного. Обычно наказание повышается на одну категорию.
     </Box></ColorBox>
-    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Уклонение От Наблюдения</Box></ColorBox>
+    <ColorBox Color="#000000"><Box HorizontalAlignment="Left" Margin="4">Уклонение от Наблюдения</Box></ColorBox>
     <ColorBox Color="#756322"><Box HorizontalAlignment="Left" Margin="4">
       Умышленное уклонение освобождённого или условно-досрочно освобождённого лица от наблюдения службы безопасности путём отключения передачи координат. Наказание может включать телесное наказание и принудительную установку импланта слежения.
     </Box></ColorBox>
