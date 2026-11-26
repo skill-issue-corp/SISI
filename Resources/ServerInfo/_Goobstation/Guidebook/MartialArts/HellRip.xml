@@ -1,22 +1,22 @@
 <Document>
 
-  # Адское Потрошение
+  # Hell Ripte
 
   <Box>
     <GuideEntityEmbed Entity="LegionnaireBonfire" Caption=""/>
   </Box>
 
-  Адское Потрошение — это [textlink="боевое искусство" link="MartialArts"], сосредоточенное на том, чтобы с беспощадной эффективностью
-  прорываться сквозь толпы демонов. Овладеть этим искусством способны только демоны-мясники ада, поскольку для этого требуется огромная физическая мощь и сила.
-  Полное овладение этим искусством позволит вам окрасить станцию в красный цвет. Никто не будет в безопасности от вашей резни.
+  Hell Ripte, is a [textlink="martial art" link="MartialArts"] that focuses on ripping through crowds of demons with
+  brutal efficiency. This art can only be mastered by the slaughter demons of hell, as it requires an enormous amount of raw strength and power to master.
+  A full understanding of this art will allow you to paint the station red. None will be safe from your carnage.
 
-  ## Особые способности
+  ## Special abilities
 
-  Мастера Адское Потрошение наносят колоссальный урон за короткие промежутки времени, что делает их непревзойдёнными в рукопашном бою.
+  Hell Ripte masters do extreme amounts of damage in short windows, making them unmatched in hand to hand combat.
 
-  ## Комбо-атаки
+  ## Combo attacks
 
-  ### Разрыв
+  ### Tear Down
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
@@ -24,9 +24,9 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
   </Box>
 
-  Наносит огромный режущий урон и вызывает кровотечение у цели.
+  Deals massive slashing damage and bleeds the target.
 
-  ### Отрывание головы
+  ### Head Rip
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
@@ -35,24 +35,24 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
   </Box>
 
-  Отрывает голову мёртвому противнику, очень смертоносно. Не может быть выполнено, пока цель жива.
+  Rip off the head of an opponent who is dead, very lethal. Cannot be done while target is alive.
 
-  ### Адский швырок
+  ### Hellish Slam
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
   </Box>
 
-  Сбивает противника с ног и наносит тяжёлый урон выносливости. Если вы лежите на земле, поднимаетесь на ноги.
+  Knocks an opponent down and deals heavy stamina damage. If you are downed you pull yourself up.
 
-  ### Бросок с ног
+  ### Drop Kick
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
   </Box>
 
-  Запускает в полёт лежащего противника. Отлично подходит для «покраски». Не может быть выполнено, находясь на земле.
+  Launch a downed opponent. Great for painting. Cannot be done while on the ground.
 
 </Document>

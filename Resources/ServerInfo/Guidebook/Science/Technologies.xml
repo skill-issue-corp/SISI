@@ -7,22 +7,22 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Технологии
+# Technologies
 
-У всех технологий есть стоимость и требование к уровню для исследования. Их открытие добавляет различные рецепты, которые можно печатать на разных станках.
+All technologies have a cost and a tier requirement in order to be researched. Unlocking them adds a variety of recipes that can be printed at various lathes.
 
-Различные технологии и их соответствующие дисциплины перечислены ниже.
+The different technologies and their respective discipline are listed below.
 
-## Промышленность
+## Industrial
 <GuideTechDisciplineEmbed Discipline="Industrial"/>
 
-## Арсенал
+## Arsenal
 <GuideTechDisciplineEmbed Discipline="Arsenal"/>
 
-## Экспериментальная
+## Experimental
 <GuideTechDisciplineEmbed Discipline="Experimental"/>
 
-## Гражданская служба
+## Civilian Services
 <GuideTechDisciplineEmbed Discipline="CivilianServices"/>
 
 </Document>

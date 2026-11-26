@@ -7,14 +7,14 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Люди
+  # Humans
 
   <Box>
     <GuideEntityEmbed Entity="AppearanceHuman" Caption=""/>
   </Box>
 
-  В зависимости от того, кого спросить, люди — либо ничем не примечательный вид, либо универсальный эталон, с которым сравнивают всё остальное.
+  Depending on who you ask, humans are either unremarkable or the universal standard to which everything else is compared.
 
-  Они взаимодействуют с объектами [color=#ffa500]примерно на 20% быстрее[/color] по сравнению с другими видами.
+  They interact [color=#ffa500]about 20% faster[/color] compared to other species.
 
 </Document>

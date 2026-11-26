@@ -1,224 +1,224 @@
 <Document>
-  ## Смертность
+  ## Mortality
   <Box>
-    [color=#999999][italic]-135 веса[/italic][/color]
+    [color=#999999][italic]-135 Weight[/italic][/color]
   </Box>
 
-  - Даёт цели неограниченное количество самостоятельных воскрешений.
+  - Grants the target an unlimited amount of self revives.
 
-  ## Слабость
+  ## Weakness
   <Box>
-    [color=#999999][italic]-35 веса[/italic][/color]
+    [color=#999999][italic]-35 Weight[/italic][/color]
   </Box>
 
-  - Сокращает весь урон, получаемый контрактантом, вдвое.
-  - Увеличивает получаемый священный урон.
+  - Cuts all damage the contractee takes in half.
+  - Increases holy damage taken.
 
-  ## Страх смерти
+  ## Fear of Death
   <Box>
-    [color=#999999][italic]-25 веса[/italic][/color]
+    [color=#999999][italic]-25 Weight[/italic][/color]
   </Box>
 
-  - Лишает контрактанта критического состояния. Либо он стоит на ногах, либо умирает.
+  - Makes the contractee have no critical state. You stand, or you die.
 
-  ## Смерть
+  ## Death
   <Box>
-    [color=#999999][italic]-25 веса[/italic][/color]
+    [color=#999999][italic]-25 Weight[/italic][/color]
   </Box>
 
-  - Позволяет контрактанту воскреснуть ровно один раз после смерти.
-  - Присутствует в каждом контракте по умолчанию.
+  - Allows the contractee to revive themselves exactly once on death.
+  - Default on every contract.
 
-  ## Тени
+  ## Shadows
   <Box>
-    [color=#999999][italic]-25 веса[/italic][/color]
+    [color=#999999][italic]-25 Weight[/italic][/color]
   </Box>
 
-  - Делает контрактанта невидимым.
+  - Makes the contractee invisible.
 
-  ## Безденежье
+  ## Brokeness
   <Box>
-    [color=#999999][italic]-20 веса[/italic][/color]
+    [color=#999999][italic]-20 Weight[/italic][/color]
   </Box>
 
-  - Дарует контрактанту офигенные кроссовки, подписанные лично Майклом Джорданом.
+  - Grants the contractee a pair of sick fucking jays, signed by Micheal Jordan himself.
 
-  ## Страх огня
+  ## Fear of Fire
   <Box>
-    [color=#999999][italic]-20 веса[/italic][/color]
+    [color=#999999][italic]-20 Weight[/italic][/color]
   </Box>
 
-  - Делает контрактанта невосприимчивым к огню и к тому, чтобы быть подожжённым.
+  - Makes the contractee immune to fire, and immune to being lit on fire.
 
-  ## Случай
+  ## Chance
   <Box>
-    [color=#999999][italic]-15 веса[/italic][/color]
+    [color=#999999][italic]-15 Weight[/italic][/color]
   </Box>
 
-  - Даёт контрактанту совершенно случайный пункт. Хотите испытать удачу?
+  - Grants the contractee a completely random clause. Want to try your luck?
 
-  ## Страх света
+  ## Fear of Light
   <Box>
-    [color=#999999][italic]-15 веса[/italic][/color]
+    [color=#999999][italic]-15 Weight[/italic][/color]
   </Box>
 
-  - Делает контрактанта невосприимчивым к вспышкам.
+  - Makes the contractee immune to flashes.
 
 
-  ## Страх электричества
+  ## Fear of Electricity
   <Box>
-    [color=#999999][italic]-15 веса[/italic][/color]
+    [color=#999999][italic]-15 Weight[/italic][/color]
   </Box>
 
-  - Делает контрактанта невосприимчивым к поражению электрическим током.
+  - Makes the contractee immune to electrical shocks.
 
-  ## Чревоугодие
+  ## Gluttony
   <Box>
-    [color=#999999][italic]-10 веса[/italic][/color]
+    [color=#999999][italic]-10 Weight[/italic][/color]
   </Box>
 
-  - Избавляет контрактанта от необходимости в еде и воде.
+  - Makes the contractee not need food or water.
 
-  ## Страх утопления
+  ## Fear of Drowning
   <Box>
-    [color=#999999][italic]-10 веса[/italic][/color]
+    [color=#999999][italic]-10 Weight[/italic][/color]
   </Box>
 
-  - Отключает необходимость контрактанта дышать.
+  - Disables the contractees need to breathe.
 
-  ## Страх клоунов
+  ## Fear of Clowns
   <Box>
-    [color=#999999][italic]-10 веса[/italic][/color]
+    [color=#999999][italic]-10 Weight[/italic][/color]
   </Box>
 
-  - Отключает способность контрактанта поскальзываться.
+  - Disables the contractees ability to slip.
 
-  ## Страх раздавливания
+  ## Fear of Crushing
   <Box>
-    [color=#999999][italic]-10 веса[/italic][/color]
+    [color=#999999][italic]-10 Weight[/italic][/color]
   </Box>
 
-  - Делает контрактанта невосприимчивым к урону от давления.
+  - Makes the contractee immune to pressure damage.
 
-  ## Страх замерзания
+  ## Fear of Freezing
   <Box>
-    [color=#999999][italic]-10 веса[/italic][/color]
+    [color=#999999][italic]-10 Weight[/italic][/color]
   </Box>
 
-  - Делает контрактанта невосприимчивым к низким температурам.
+  - Makes the contractee immune to low temperatures.
 
-  ## Жадность
+  ## Greed
   <Box>
-    [color=#999999][italic]-10 веса[/italic][/color]
+    [color=#999999][italic]-10 Weight[/italic][/color]
   </Box>
 
-  - Даёт цели кучу денег-бабла.
+  - Grants the target a ton of cash-money.
 
-  ## Боль
+  ## Pain
   <Box>
-    [color=#999999][italic]-5 веса[/italic][/color]
+    [color=#999999][italic]-5 Weight[/italic][/color]
   </Box>
 
-  - Делает так, что контрактант не чувствует боли и не страдает от её негативных эффектов.
+  - Makes the contractee feel no pain, and suffer no negatives from pain.
 
-  ## Внутренний покой
+  ## Inner Peace
   <Box>
-    [color=#999999][italic]5 веса[/italic][/color]
+    [color=#999999][italic]5 Weight[/italic][/color]
   </Box>
 
-  - Дарует цели покой. Вечный.
+  - Grants the target peace. Everlasting.
 
-  ## Голос
+  ## Voice
   <Box>
-    [color=#999999][italic]20 веса[/italic][/color]
+    [color=#999999][italic]20 Weight[/italic][/color]
   </Box>
 
-  - Навсегда лишает контрактанта дара речи.
+  - Permanently mutes the contractee.
 
-  ## Рука
+  ## A hand
   <Box>
-    [color=#999999][italic]20 веса[/italic][/color]
+    [color=#999999][italic]20 Weight[/italic][/color]
   </Box>
 
-  - Немедленно отрезает одну из рук контрактанта.
+  - Immediately severs one of the contractees hands.
 
-  ## Нога
+  ## A leg
   <Box>
-    [color=#999999][italic]20 веса[/italic][/color]
+    [color=#999999][italic]20 Weight[/italic][/color]
   </Box>
 
-  - Немедленно отрезает одну из ног контрактанта.
+  - Immediately severs one of the contractees legs.
 
-  ## Право на душу
+  ## Soul Ownership
   <Box>
-    [color=#999999][italic]25 веса[/italic][/color]
+    [color=#999999][italic]25 Weight[/italic][/color]
   </Box>
 
-  - Передаёт право владения душой контрактору.
-  - Присутствует в каждом контракте по умолчанию.
+  - Transfers ownership of a soul to the contractor.
+  - Default on every contract.
 
-  ## Сила
+  ## Strength
   <Box>
-    [color=#999999][italic]30 веса[/italic][/color]
+    [color=#999999][italic]30 Weight[/italic][/color]
   </Box>
 
-  - Заставляет контрактанта получать удвоенный урон.
+  - Makes the contractee take double damage.
 
-  ## Связность
+  ## Coherence
   <Box>
-    [color=#999999][italic]30 веса[/italic][/color]
+    [color=#999999][italic]30 Weight[/italic][/color]
   </Box>
 
-  - Делает контрактанта неуклюжим и портит его речь.
+  - Makes the contractee clumsy and messes up their speech.
 
-  ## Бодрствование
+  ## Awake
   <Box>
-    [color=#999999][italic]35 веса[/italic][/color]
+    [color=#999999][italic]35 Weight[/italic][/color]
   </Box>
 
-  - Делает цель нарколептиком.
+  - Turns the target narcoleptic.
 
-  ## Орган
+  ## An organ
   <Box>
-    [color=#999999][italic]30 веса[/italic][/color]
+    [color=#999999][italic]30 Weight[/italic][/color]
   </Box>
 
-  - Вываливает один из органов контрактанта на землю.
-  - Скорее всего, это будет сердце.
+  - Dumps one of the contractees organs on the ground.
+  - This is most likely the heart.
 
-  ## Ноги
+  ## Legs
   <Box>
-    [color=#999999][italic]40 веса[/italic][/color]
+    [color=#999999][italic]40 Weight[/italic][/color]
   </Box>
 
-  - Навсегда парализует обе ноги контрактанта.
+  - Permanently paralyzes both of the contractees legs.
 
-  ## Зрение
+  ## Sight
   <Box>
-    [color=#999999][italic]60 веса[/italic][/color]
+    [color=#999999][italic]60 Weight[/italic][/color]
   </Box>
 
-  - Навсегда ослепляет контрактанта.
+  - Permanently blinds the contractee.
 
-  ## Воля к борьбе
+  ## Will to fight
   <Box>
-    [color=#999999][italic]60 веса[/italic][/color]
+    [color=#999999][italic]60 Weight[/italic][/color]
   </Box>
 
-  - Навсегда усмиряет контрактанта.
+  - Permanently pacifies the contractee.
 
-  ## Человечность
+  ## Humanity
   <Box>
-    [color=#999999][italic]80 веса[/italic][/color]
+    [color=#999999][italic]80 Weight[/italic][/color]
   </Box>
 
-  - Превращает контрактанта в лягушку.
-  - Это необратимо.
+  - Turns the contractee into a frog.
+  - This is permanent.
 
-  ## Время
+  ## Time
   <Box>
-    [color=#999999][italic]150 веса[/italic][/color]
+    [color=#999999][italic]150 Weight[/italic][/color]
   </Box>
 
-  - Убивает контрактанта спустя пять минут.
+  - Kills the contractee after five minutes.
 </Document>

@@ -1,28 +1,28 @@
 <Document>
-  # Повстанцы
+  # Insurgents
 
   <Box>
     <GuideEntityEmbed Entity="ClothingMaskGas" Caption=""/>
     <GuideEntityEmbed Entity="ClothingNeckBombCollarBroken" Caption=""/>
   </Box>
 
-  Повстанцы появляются на маленьком шаттле каждый раунд, их цель - просто чудить и создавать хаос.
+  Insurgents spawn in a small shuttle every round, their goal is just to be shitters and mess around.
 
-  На данный момент никаких настоящих целей нет, так что у вас есть полная свобода для творчества! Устройте фабрику дробовиков в технических тоннелях, возьмите в заложники научный отдел, разнесите бар и так далее.
+  There are currently no real objectives, so you have the freedom to be creative! Make a shotgun factory in maints, take science hostage, smash up the bar, etc.
 
-  # Ошейник-бомба
+  # Bomb collar
 
   <Box>
     <GuideEntityEmbed Entity="ClothingNeckBombCollarBroken"/>
   </Box>
 
-  Повстанцы - это мятежные субъекты D-класса, которые когда-то носили ошейники-бомбы. Сейчас эти ошейники отключены, но снять их невозможно.
-  Увидеть [color=red]ошейник-бомбу[/color] - [italic]как правило[/italic], верное доказательство того, что перед вами [color=red]повстанец[/color]!
+  Insurgents are rebel D-class subjects who once had bomb collars. These collars are now disabled, but they cannot be removed.
+  Seeing a [color=red]bomb collar[/color] is [italic]usually[/italic] definitive proof someone is an [color=red]insurgent[/color]!
 
-  # Особые правила
+  # Special Rules
 
-  Повстанцы обязаны следовать особым правилам из [bold]Правила S5[/bold]:
-  - В отличие от других антагонистов, [bold]вам всё равно нужно эскалировать насилие постепенно[/bold].
-  - Не устраивайте массовые убийства, если это не является крайне обоснованным или креативным / забавным.
-  - Не жалуйтесь через AHelp на то, что вас убили - это часть роли, и такое будет происходить очень часто.
+  Insurgents have to follow special rules, from [bold]Rule S5[/bold]:
+  - Unlike other antagonists, [bold]you still have to escalate in violence[/bold].
+  - Don't mass murder unless it is extremely justified or creative / funny.
+  - Don't AHelp about being killed, it's part of this role and will happen very often.
 </Document>

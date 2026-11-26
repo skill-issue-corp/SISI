@@ -1,9 +1,9 @@
 <Document>
-  # Правило роли 2: Ассистенты и сотрудники класса D
+  # Specific Role Rule 2: Assistants/D-Class
 
-  - Роль ассистента предназначена для новичков, которые учатся играть.
-  - За использование любой из этих ролей для игры в антагониста без соответствующей роли вы получите бан на сервере.
-  - Если хотите свободно вести себя как антагонист, включите роль повстанца в настройках персонажа. Это ассистент или сотрудник класса D с правом действовать как антагонист.
-  - Под классом D здесь подразумеваются только сотрудники класса D на стороне экипажа, которые появляются из лобби. Сотрудники класса D, появившиеся через роли призраков, действуют самостоятельно.
+  - Assistant is a role intended for new players to learn how to play the game.
+  - Hijacking either of these roles to self antag will result in a server ban.
+  - If you want to freely self antag, enable insurgent in your character settings. It is Assistant/D-Class with self-antag rights.
+  - D-Class only refers to crew-aligned D-Class, which are those who spawn from the lobby. D-Class who spawn from the ghostrole are free agents.
 
 </Document>

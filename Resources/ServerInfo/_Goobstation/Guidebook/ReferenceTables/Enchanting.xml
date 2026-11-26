@@ -1,13 +1,13 @@
 <Document>
-  # Зачарование
+# Enchanting
 
-Владеющие магической грамотой благодаря учёбе, дару или редкому чипу навыка могут зачаровывать предметы и наделять их новыми свойствами.
+Those with magical literacy, through years of study or a magical gift, (or a rare skillchip), have access to the arcane art of Enchanting, to imbue items with additional stats and properties.
 
-# Снаряжение
+# Equipment
 
-Подходящее оборудование зависит от того, кто занимается зачарованием.
+Depending on who or what you are, you may have to use different equipment for enchanting.
 
-## Только для священников:
+## Only chaplains can use:
 
 <Box>
   <GuideEntityEmbed Entity="Bible"/>
@@ -19,7 +19,7 @@
   <GuideEntityEmbed Entity="AltarChaos"/>
 </Box>
 
-## Доступно всем
+## Anyone can use:
 
 <Box>
   <GuideEntityEmbed Entity="BloodEnchanter"/>
@@ -30,80 +30,80 @@
   <GuideEntityEmbed Entity="AltarFangs"/>
 </Box>
 
-[color=red]Большинство магических предметов считается [color=purple][bold]особо опасной магической контрабандой[/bold][/color]. Служба безопасности может заключить вас под стражу до конца смены за их использование.[/color] Статус контрабанды можно проверить, осмотрев предмет.
+[color=red]Most magical items are considered [color=purple][bold]highly illegal magical contraband[/bold][/color] which security can permenantly confine you for using.[/color] This can be checked by viewing the object's contraband status.
 
-Даже законную магическую практику следует согласовать со священником, иначе вам грозит то же наказание.
+Even legal forms of magical practice must be approved by a chaplain, otherwise you risk the same punishment.
 
-## Доступно клоунам
+## Clowns can use:
 
 <Box>
   <GuideEntityEmbed Entity="AltarBananium"/>
 </Box>
 
-# Зачарование предмета
+# Enchanting an item
 
-Для зачарования понадобятся подношение и предмет. В качестве подношения подойдут, например, ядра аномалий, свитки зачарования или алмазы.
+To enchant an item, you need an offering and an item to enchant. The offering can range from anomaly cores, to enchanting scrolls, to diamonds.
 
-Свитки зачарования можно писать с помощью магических чернил.
+Enchanting scrolls can be scribed using magical inks.
 
-Положите предмет и подношение на алтарь, затем нажмите на предмет с магическим томом в руке. Волшебники используют гримуар, священники — Библию или другое священное писание, а еретики — Кодекс Цикатрикс.
+Place an item on your altar alongside the offering and press the item with your magical tome in hand. For wizards, this is their Wizard's Grimoire. For Chaplain, their Bible or other religious texts. For Heretics, their Codex Cicatrix.
 
-  Если предмет и подношение совместимы, подношение будет израсходовано, а предмет станет зачарованным. Если вы используете ядро аномалии, ядра от критических аномалий более мощны, чем инертные ядра, и усиливают ваш предмет более эффективно.
+If the item and offering are compatible, the offering will be consumed and the item will become enchanted. If you use an anomaly core, those from critical anomalies are more potent than inert cores, and empower your item more effectively.
 
-  # Пределы зачарования
+# Enchantment limits
 
-Предмет можно зачаровать только двумя видами зачарования, если только вы не проведёте ритуал. Убив любое живое существо с душой на руне рядом с вашим зачарованным предметом, вы поглотите его душу и увеличите лимит зачарований.
+An item can only be enchanted with two kinds of enchantment, unless you perform a ritual. By killing any living entity with a soul on top of a rune alongside your enchanted item, their soul will be consumed and increase the enchantment limit.
 
-  Жертву можно будет оживить, но она будет страдать от дурных последствий потери души, подобно тому, как если бы продала свою душу Дьяволу.
+The sacrifice will be possible to revive, but have the ill effects of losing their soul, akin to selling their soul to a Devil.
 
-Одно жертвоприношение даёт запас до десяти зачарований.
+Sacrifices can be made up to 10 enchantments worth.
 
-Поглощение души само по себе не преступление: НаноТрейзен занимается этим постоянно. За нарушения закона, совершённые ради добычи души, всё равно придётся ответить.
+Consuming peoples' souls is not actually a crime, because NanoTrasen does it all the time. Crime done in the name of obtaining a soul is however not approved by law.
 
-# Типы зачарований
+# Types of enchantments
 
-  ### Огненный Аспект
-  Огненный Аспект поджигает ваших врагов при ударе оружием. Получается из ядер Пирокластической Аномалии.
+  ### Fire Aspect
+Fire Aspect causes your weapon to set your foes on fire. Obtainable from Pyroclastic Anomaly cores.
 
-  ### Лавакованный
-  Лавакованный даёт вашему снаряжению способность защищать вас от лавы. Получается из ядер Пирокластической Аномалии.
+  ### Lavaforged
+Lavaforged grants your equipment the ability to protect you from lava. Obtainable from Pyroclastic Anomaly cores.
 
-  ### Отбрасывание
-  Отбрасывание отбрасывает людей назад при ударе вашим оружием. Получается из ядер Гравитационной Аномалии.
+  ### Knockback
+Knockback causes your weapon to knock people back on hit. Obtainable from Gravity Anomaly cores.
 
-  ### Огнестойкость
-  Огнестойкость даёт вашей броне защиту от... Огня. Получается из ядер Ледяной Аномалии.
+  ### Fire Protection
+Fire Protection grants your armor protection from... Fire. Obtainable from Ice Anomaly cores.
 
-  ### Заточка
-  Заточка затачивает ваше оружие и даёт четыре дополнительных единицы урона резаком за уровень. Получается из ядер Плотской Аномалии.
+  ### Sharpness
+Sharpness sharpens your weapon and grants four bonus Slash damage per level. Obtainable from Flesh Anomaly cores.
 
-  ### Небьющийся
-  Небьющийся снижает весь урон на 50%. Из-за сложных ограничений магического права применимо только к мышам. Получается из ядер Каменной Аномалии.
+  ### Unbreaking
+Unbreaking reduces all damage by 50%. Due to complicated magical law restrictions, this is only applicable to mice. Obtainable from Rock Anomaly cores.
 
-  ### Защита
-  Защита даёт вашему снаряжению сопротивление урону. Получается из ядер Каменной Аномалии.
+  ### Protection
+Protection grants your equipment damage resistance. Obtainable from Rock Anomaly cores.
 
-  ### Скользкий
-  Скользкий заставляет любой предмет вызывать поскальзывание у людей. Получается из ядер Жидкостной Аномалии.
+  ### Slippery
+Slippery makes any item slip people. Obtainable from Liquid Anomaly cores.
 
-  ### Нескользящий
-  Нескользящий делает любую обувь дающей иммунитет к поскальзыванию. Получается из ядер Жидкостной Аномалии.
+  ### Unslippable
+Unslippable makes any shoes grant immunity to slipping. Obtainable from Liquid Anomaly cores.
 
-  ### Изолирован?
-  Изолирован? даёт перчаткам шанс не получить удар током от источников электричества. Получается из инертных ядер Электрической Аномалии.
+  ### Insulated?
+Insulated? grants a chance to not be shocked by sources of electricity to gloves. Obtainable from inert Elecricity Anomaly cores.
 
-  ### Изолирован
-  Изолирован даёт перчаткам полную изоляцию от электричества. Получается из критических ядер Электрической Аномалии.
+  ### Insulated
+Insulated grants gloves full insulation from electricity. Obtainable from critical Elecricity Anomaly cores.
 
-  ### Шипы
-  Шипы можно применить к броне, они наносят атакующим в ближнем бою 4 единицы урона резаком за уровень. Получается из ядер Цветочной Аномалии.
+  ### Thorns
+Thorns can be applied to armor, and damages melee attackers with 4 slash damage per level. Obtainable from Floral Anomaly cores.
 
-  ### Удача
-  Удача даёт шанс увеличить добычу руды для дрелей и кирок, шанс пропорционален уровню зачарования. Получается из ядер Аномалии Санты и алмазов.
+  ### Fortune
+Fortune has a chance to increase ore yield for drills and pickaxes, chance proportional to enchantment level. Obtainable from Santa Anomaly cores and diamonds.
 
-  ## Прочее
-Другие зачарования и даже причудливые проклятия можно получить из свитков, написанных магическими чернилами. Чернила можно изготовить из осколков демонической души или священного пепла.
+  ## More
+There are many other enchantments and even wacky curses obtainable from scrolls inscribed with magic ink. Magic ink can be crafted using demonic soul fragments or holy ash.
 
-Экспериментируйте и посмотрите, что получится!
+Experiment and see what you get!
 
 </Document>

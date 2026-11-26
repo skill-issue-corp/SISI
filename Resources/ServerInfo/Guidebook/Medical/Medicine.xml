@@ -8,9 +8,9 @@ SPDX-License-Identifier: MIT
 
 <Document>
 
-# Основные медикаменты
+# Core Medications
 
-Эти медикаменты почти всегда полезны для медотсека тем или иным образом.
+These medications are almost always useful to medbay in one way or another.
 
 <GuideReagentEmbed Reagent="Bicaridine"/>
 <GuideReagentEmbed Reagent="Kelotane"/>
@@ -21,9 +21,9 @@ SPDX-License-Identifier: MIT
 <GuideReagentEmbed Reagent="DexalinPlus"/>
 <GuideReagentEmbed Reagent="Iron"/>
 
-# Специализированные медикаменты
+# Specialty Medications
 
-Эти медикаменты обычно используются в определённых случаях.
+These medications tend to have specific use cases.
 
 <GuideReagentEmbed Reagent="Cryoxadone"/>
 <GuideReagentEmbed Reagent="Epinephrine"/>
@@ -35,9 +35,9 @@ SPDX-License-Identifier: MIT
 <GuideReagentEmbed Reagent="Ambuzol"/>
 <GuideReagentEmbed Reagent="Oculine"/>
 
-# Все медикаменты
+# All Medications
 
-Это список -всех- доступных медикаментов, включая перечисленные выше.
+This is a list of -all- medications available, including ones previously listed.
 
 <GuideReagentGroupEmbed Group="Medicine"/>
 

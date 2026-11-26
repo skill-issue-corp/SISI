@@ -1,17 +1,17 @@
 <Document>
 
-  # Боевые Приёмы Оборотня
+  # Werewolf Combat Techniques
 
   <Box>
     <GuideEntityEmbed Entity="WerewolfWerewolf" Caption=""/>
   </Box>
 
-  Оборотни - скрытные ночные хищники, которые таятся среди экипажа, пока не настанет подходящий момент. После превращения они осваивают
-  [textlink="боевое искусство" link="MartialArts"] CQC «Ликантроп» - набор жестоких приёмов, позволяющих рвать плоть и ломать кости.
+  Werewolves are stealthy nocturnal predators, hiding among the crew until the time is right. After transforming, they gain the
+  [textlink="martial art" link="MartialArts"] Lycanthrope CQC, a set of vicious techniques that tear flesh and break bones.
 
-  ## Комбо-атаки
+  ## Combo attacks
 
-  ### Вскрытие Вен
+  ### Open Veins
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="grab"/>
@@ -19,9 +19,9 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
   </Box>
 
-  Раздирает жертву когтями, нанося режущий урон и вызывая сильное кровотечение.
+  Mauls the victim with claws, dealing Slash damage and causing severe bleeding.
 
-  ### Жестокий Бросок
+  ### Vicious Toss
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
@@ -29,9 +29,9 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
   </Box>
 
-  Отбрасывает противника на большое расстояние и сбивает его с ног.
+  Hurls the opponent a considerable distance and knocks them down.
 
-  ### Расчленение
+  ### Dismemberment
 
   <Box>
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="disarm"/>
@@ -40,6 +40,6 @@
     <TextureEmbed Sprite="_Goobstation/Interface/Misc/intents.rsi" State="harm"/>
   </Box>
 
-  Отрывает противнику одну руку. Приём не сработает повторно на том, кому вы уже оторвали руку.
+  Tears off one of the opponent's arms. Does not work a second time on someone whose arm you have already torn off.
 
 </Document>

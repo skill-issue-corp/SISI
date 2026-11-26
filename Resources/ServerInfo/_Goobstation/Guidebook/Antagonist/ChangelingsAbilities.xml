@@ -6,299 +6,299 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Начальные способности
+  # Starting Abilities
 
-  ## Поглощение ДНК
+  ## Absorb DNA
   <Box>
-    [color=#999999][italic]0 химикатов[italic][/color]
+    [color=#999999][italic]0 Chems[italic][/color]
   </Box>
 
-  - Позволяет медленно и шумно поглотить мёртвого, находящегося в крите, скованного наручниками или крепко схваченного члена экипажа. Это добавляет его ДНК в ваш запас, даёт 2 очка эволюции и восполняет вашу биомассу.
-  - Если поглощён другой генокрад, вместо этого вы получаете половину его общих очков эволюции и половину его максимального запаса химикатов.
-  - Для использования этой способности цель должна быть в КРЕПКОМ захвате.
-  - Может использоваться в низшей форме.
-  - Не может использоваться, пока вы горите.
+  - Allows you to slowly and noisily absorb a dead, crit, cuffed or hard-grabbed crewmate. This adds their DNA to your pool, gives you 2 evolution points, and refills your biomass.
+  - If another changeling is absorbed, you instead get half of their total evolution points and half of their max chemicals.
+  - Target must be in a HARD grab to use this ability.
+  - Can be used in lesser form.
+  - Cannot be used while on fire.
 
-  ## Жало извлечения ДНК
+  ## Extract DNA Sting
 
   <Box>
-    [color=#999999][italic]25 химикатов[italic][/color]
+    [color=#999999][italic]25 Chems[italic][/color]
   </Box>
 
-  - Добавляет ДНК ужаленного игрока в ваш запас.
-  - Может использоваться в наручниках или в низшей форме.
+  - Adds the stung player's DNA to your pool.
+  - Can be used while cuffed or in lesser form.
 
-  ## Смена ДНК
+  ## Cycle DNA
   <Box>
-    [color=#999999][italic]0 химикатов[italic][/color]
+    [color=#999999][italic]0 Chems[italic][/color]
   </Box>
 
-  - Изменяет активную ДНК, используемую для трансформации.
-  - Может использоваться в наручниках или в низшей форме.
+  - Changes the active DNA used for transform.
+  - Can be used while cuffed or in lesser form.
 
-  ## Трансформация
+  ## Transform
   <Box>
-    [color=#999999][italic]5 химикатов[italic][/color]
+    [color=#999999][italic]5 Chems[italic][/color]
   </Box>
 
-  - Превращает вас, придавая точное имя и голос вашей текущей активной ДНК, при этом ДНК расходуется.
-  - Может использоваться в наручниках или в низшей форме.
+  - Transforms you to have the exact name and voice of your currently active DNA, consumes the DNA.
+  - Can be used while cuffed or in lesser form.
 
-  ## Войти в регенеративный стазис
+  ## Enter Regenerative Statis
   <Box>
-    [color=#999999][italic]0 химикатов[italic][/color]
+    [color=#999999][italic]0 chems[italic][/color]
   </Box>
 
-  - Генокрад мгновенно умирает, и разблокируется способность выхода из стазиса.
-  - Может использоваться в наручниках или в низшей форме.
-  - Может использоваться, пока вы горите.
+  - Changeling instantly dies, and the exit stasis ability is unlocked.
+  - Can be used while cuffed or in lesser form.
+  - Can be used while on fire.
 
-  ## Выйти из регенеративного стазиса
+  ## Exit Regenerative Statis
   <Box>
-    [color=#999999][italic]30 химикатов[italic][/color]
+    [color=#999999][italic]30 Chems[italic][/color]
   </Box>
 
-  - Генокрад мгновенно оживает, всё здоровье полностью восстанавливается.
-  - Может использоваться в наручниках или в низшей форме.
-  - Может использоваться, пока вы горите.
-  - Может использоваться только по истечении определённого времени. Оно зависит от полученного до стазиса урона, вплоть до 180 секунд.
+  - Changeling instantly revives, all health is fully recovered.
+  - Can be used while cuffed or in lesser form.
+  - Can be used while on fire.
+  - Can only be used after a set duration. This scales with damage taken prior to stasis, up to 180 seconds.
 
-  # Боевые способности
+  # Combat Abilities
 
-  ## Диссонирующий визг
+  ## Dissonant Shriek
   <Box>
-    [color=#999999][italic] 2 очка эволюции / 30 химикатов / 1 поглощённый органик [italic][/color]
+    [color=#999999][italic] 2 Evolution Points / 30 Chems / 1 Absorbed Organic [italic][/color]
   </Box>
 
-  - Генокрад испускает ЭМИ-импульс, выводящий из строя киборгов, СЛИ, координаты скафандров и прочее электронное оборудование.
-  - Может использоваться в наручниках или в низшей форме.
-  - Может использоваться, пока вы горите.
+  - Changeling emits an EMP blast, disabling borgs, IPCs, suit coordinates, and other electronic equipment.
+  - Can be used while cuffed or in lesser form.
+  - Can be used while on fire.
 
-  ## Резонирующий визг
+  ## Resonant Shriek
   <Box>
-    [color=#999999][italic] 2 очка эволюции / 30 химикатов / 1 поглощённый органик [italic][/color]
+    [color=#999999][italic] 2 Evolution Points / 30 Chems / 1 Absorbed Organic [italic][/color]
   </Box>
-  - Издаёт визг, ослепляющий всех поблизости, у кого нет защиты от вспышек, а также разбивает находящиеся рядом источники света.
-  - Может использоваться в наручниках или в низшей форме.
-  - Может использоваться, пока вы горите.
+  - Screeches, blinding anyone in the nearby area without flash protection, breaks nearby lights as well.
+  - Can be used while cuffed or in lesser form.
+  - Can be used while on fire.
 
-  ## Органический щит
+  ## Organic Shield
   <Box>
-    [color=#999999][italic] 2 очка эволюции / 20 химикатов / 1 поглощённый органик [italic][/color]
+    [color=#999999][italic] 2 Evolution Points / 20 Chems / 1 Absorbed Organic [italic][/color]
   </Box>
 
-  - Превращает одну из своих рук в крепкий щит, поглощающий 50% входящего урона, пока не будет уничтожен.
+  - Grows one of its arms into a robust shield, absorbs 50% of incoming damage until destroyed.
 
-  ## Напряжённые мышцы
+  ## Strained Muscles
   <Box>
-    [color=#999999][italic] 2 очка эволюции / 0 химикатов [italic][/color]
+    [color=#999999][italic] 2 Evolution Points / 0 Chems [italic][/color]
   </Box>
-  - Значительно ускоряет генокрада, но со временем наносит ему самому серьёзный урон выносливости. Включается и выключается.
-  - Может использоваться в наручниках или в низшей форме.
-  - Может использоваться, пока вы горите.
+  - Speeds the changeling up greatly, but deals heavy stamina damage over time to self. Toggles on and off.
+  - Can be used while cuffed or in lesser form.
+  - Can be used while on fire
 
-  ## Костяной осколок
+  ## Bone Shard
   <Box>
-    [color=#999999][italic] 3 очка эволюции / 15 химикатов [italic][/color]
+    [color=#999999][italic] 3 Evolution Points / 15 Chems [italic][/color]
   </Box>
-  - Генокрад формирует метательное оружие из костяного осколка, которое жёстко оглушает после двух попаданий, осколки растворяются через некоторое время.
+  - Changeling forms a bone shard throwing weapon that hardstuns in two hits, shards dissolve after a short while.
 
-  ## Дротикомёт
+  ## Dart Gun
   <Box>
-    [color=#999999][italic] 3 очка эволюции / 15 химикатов [italic][/color]
+    [color=#999999][italic] 3 Evolution Points / 15 Chems [italic][/color]
   </Box>
-  - Генокрад превращает руку в дротикомёт. Дротикомёт стреляет любым из изученных генокрадом жал, стоимость одного выстрела - 1/3 от стоимости соответствующего жала в химикатах.
-  - Может стрелять и выбирать тип дротиков, пока вы горите (если активирован/включён).
+  - Changeling forms an arm into a dart gun. Dart gun fires any of the lings evolved stings, costs 1/3 the stings cost in chems per shot.
+  - Can shoot and select darts while on fire (if in use/toggled)
 
-  ## Рука-клинок
+  ## Arm Blade
   <Box>
-    [color=#999999][italic] 4 очка эволюции / 15 химикатов [italic][/color]
+    [color=#999999][italic] 4 Evolution Points / 15 Chems [italic][/color]
   </Box>
-  - Генокрад превращает руку в клинок. Наносит серьёзный урон конечности при лёгкой атаке, если целится в конечность.
+  - Changeling forms an arm into a blade. Deals heavy limb damage on light attack when targeting a limb.
 
-  ## Рука-коготь
+  ## Arm Claw
   <Box>
-    [color=#999999][italic] 4 очка эволюции / 15 химикатов [italic][/color]
+    [color=#999999][italic] 4 Evolution Points / 15 Chems [italic][/color]
   </Box>
-  - Генокрад превращает руку в коготь. Когти могут схватывать организмы и мешать им двигаться. Коготь не может использоваться для атаки во время захвата.
+  - Changeling forms an arm into a claw. Claws can grab organisms and prevent them from moving. Claw cannot be used to attack while grabbing.
 
-  ## Рука-молот
+  ## Arm Hammer
   <Box>
-    [color=#999999][italic] 4 очка эволюции / 15 химикатов [italic][/color]
+    [color=#999999][italic] 4 Evolution Points / 15 Chems [italic][/color]
   </Box>
-  - Генокрад превращает руку в молот. Наносит дробящий урон, сбивает с ног и отбрасывает цели при лёгкой атаке.
+  - Changeling forms an arm into a hammer. Deals blunt damage, knocks down, and flings targets on light attack.
 
-  ## Хитиновая броня
+  ## Chitinous Armor
   <Box>
-    [color=#999999][italic] 4 очка эволюции / 25 химикатов / 2 поглощённых органика [italic][/color]
+    [color=#999999][italic] 4 Evolution Points / 25 Chems / 2 Absorbed Organics [italic][/color]
   </Box>
-  - Генокрад превращает своё тело в массу брони, использовать можно только если слоты верхней одежды и головы пусты.
-  - Броня замедляет генокрада на 15 процентов.
-  - Броня снижает весь урон на 50 процентов.
-  - Броня на голове снижает урон от порезов/ударов и ожогов на 10 процентов.
-  - Обеспечивает неплохую защиту от огня.
-  - Замедляет скорость восстановления химикатов на 25%.
+  - Changeling forms body into a mass of armor, only usable when outerwear and head slots are empty.
+  - Armor slows ling by 15 percent
+  - Armor reduces all damage by 50 percent
+  - Head armor reduces brute and burn damages by 10 percent
+  - Has decent protection against fires
+  - Slows down chem regen rate by 25%.
 
-  # Способности жал
+  # Stings Abilities
 
-  ## Ослепляющее жало
+  ## Blind Sting
   <Box>
-    [color=#999999][italic] 2 очка эволюции / 20 химикатов [italic][/color]
+    [color=#999999][italic] 2 Evolution Points / 20 Chems [italic][/color]
   </Box>
-  - Генокрад впрыскивает органику 2 единицы ослепляющего токсина, ослепляя цель на 12 секунд.
-  - Может использоваться в наручниках или в низшей форме.
-  - Может суммироваться само с собой.
+  - Changeling injects organic with 2 units of blind toxin, blinding the target for 12 seconds.
+  - Can be used while cuffed or in lesser form.
+  - Can stack with itself.
 
-  ## Криогенное жало
+  ## Cryogenic Sting
   <Box>
-    [color=#999999][italic] 2 очка эволюции / 20 химикатов [italic][/color]
+    [color=#999999][italic] 2 Evolution Points / 20 Chems [italic][/color]
   </Box>
-  - Генокрад впрыскивает органику 10 единиц фрезиума, в большинстве случаев снижая её температуру до 0 градусов по Цельсию.
-  - Охлаждённые организмы двигаются значительно медленнее.
-  - Может использоваться в наручниках или в низшей форме.
-  - Может суммироваться само с собой.
+  - Changeling injects organic with 10 units of fresium, dropping their temperature to 0 degrees Celsius in most cases.
+  - Cold organics move far slower.
+  - Can be used while cuffed or in lesser form.
+  - Can stack with itself.
 
-  ## Немое жало
+  ## Mute Sting
   <Box>
-    [color=#999999][italic] 2 очка эволюции / 20 химикатов [italic][/color]
+    [color=#999999][italic] 2 Evolution Points / 20 Chems [italic][/color]
   </Box>
-  - Генокрад впрыскивает органику 2 единицы немого токсина, лишая цель речи на 40 секунд.
-  - Может использоваться в наручниках или в низшей форме.
-  - Может суммироваться само с собой.
+  - Changeling injects organic with 2 units of mute toxin, muting the target for 40 seconds.
+  - Can be used while cuffed or in lesser form.
+  - Can stack with itself.
 
-  ## Летаргическое жало
+  ## Lethargic Sting
   <Box>
-    [color=#999999][italic] 3 очка эволюции / 30 химикатов [italic][/color]
+    [color=#999999][italic] 3 Evolution Points / 30 Chems [italic][/color]
   </Box>
-  - Генокрад впрыскивает органику 5 единиц импредрезина и тиризина, вызывая ряд эффектов.
-  - Замедляет цель на 35%.
-  - Наносит 20 урона ядом.
-  - Наносит 15 урона выносливости в секунду в течение десяти секунд.
-  - Может использоваться в наручниках или в низшей форме.
-  - Может суммироваться само с собой.
+  - Changeling injects organic with 5 units of impredrezene and tirizene, causing numerous effects.
+  - Slows target by 35%
+  - Deals 20 poison damage
+  - Deals 15 stamina damage per second for ten seconds
+  - Can be used while cuffed or in lesser form.
+  - Can stack with itself.
 
-  ## Жало ложного клинка
+  ## False Armblade Sting
   <Box>
-    [color=#999999][italic] 4 очка эволюции / 50 химикатов [italic][/color]
+    [color=#999999][italic] 4 Evolution Points / 50 Chems [italic][/color]
   </Box>
-  - Генокрад впрыскивает органику часть своего генома, заставляя её вырастить временный бесполезный клинок вместо руки.
-  - Может использоваться в наручниках или в низшей форме.
-  - Длится примерно 60 секунд.
+  - Changeling injects organic with some of its genome, forcing the organic to grow a temporary useless armblade.
+  - Can be used while cuffed or in lesser form.
+  - Lasts roughly 60 seconds.
 
-  # Вспомогательные способности
+  # Utility Abilities
 
-  ## Пробуждённый инстинкт
+  ## Awakened Instinct
   <Box>
-    [color=#999999][italic] Бесплатно [italic][/color]
+    [color=#999999][italic] Free [italic][/color]
   </Box>
-  - Даёт фиксированный прирост в 25% к восстановлению химикатов.
-  - Пользователю потребуется биомасса для поддержания жизнедеятельности.
-  - Биомасса восполняется путём поглощения совместимых гуманоидов.
-  - Максимальный запас биомассы можно увеличить, поглощая других генокрадов.
-  - Если биомасса закончится, пользователь будет поглощён и навсегда убит.
+  - Gain a flat 25% boost to chemical regeneration.
+  - The user will require biomass to sustain themselves.
+  - Biomass is replenished by absorbing compatible humanoids.
+  - Maximum biomass capacity can be increased by absorbing other changelings.
+  - Running out of biomass will cause the user to be absorbed, and permanently killed.
 
-  ## Анатомическая панацея
+  ## Anatomic Panacea
   <Box>
-    [color=#999999][italic] 2 очка эволюции / 30 химикатов [italic][/color]
+    [color=#999999][italic] 2 Evolution Points / 30 Chems [italic][/color]
   </Box>
-  - Производит внутри генокрада 10 единиц панацеи генокрада.
-  - Лечит 60 генетического урона, урона от радиации и яда.
-  - Излечивает нарушения (постоянную слепоту, нарколепсию, паралич ног и т.д.)
-  - Может использоваться в наручниках или в низшей форме.
+  - Produces 10 units of Ling Panacea within the changeling.
+  - Heals 60 genetic, radiation and poison damage.
+  - Cures disabilities (permanent blindness, narcolepsy, leg paralysis ect)
+  - Can be used while cuffed or in lesser form.
 
-  ## Последнее средство
+  ## Last Resort
   <Box>
-    [color=#999999][italic] 2 очка эволюции / 20 химикатов [italic][/color]
+    [color=#999999][italic] 2 Evolution Points / 20 Chems [italic][/color]
   </Box>
-  - Взрывает текущее тело генокрада и превращает его в головослизня.
-  - Головослизни чрезвычайно быстры, могут ползать по вентиляции и заползать под двери.
-  - Может использоваться в наручниках, но не может использоваться в низшей форме.
-  - Головослизни могут заразить непустотелый труп, превратившись через некоторое время в генокрада низшей формы.
-  - Если заражённое тело будет уничтожено, головослизень не оживёт и будет потерян навсегда.
-  - Может быть активировано, пока вы горите.
+  - Explodes the changelings current body and turns them into a headslug.
+  - Headslugs are extremely fast, can ventcrawl, and can crawl under doors.
+  - It can be used while cuffed but cannot be used in lesser form.
+  - Headslugs can infect a non-hollow corpse to turn into a lesser form changeling after a short timer.
+  - If the infected body is destroyed, the headslug will not revive, and will be forever lost.
+  - Can be activated while on fire.
 
-  ## Низшая форма
+  ## Lesser Form
   <Box>
-    [color=#999999][italic] 2 очка эволюции / 20 химикатов [italic][/color]
+    [color=#999999][italic] 2 Evolution Points / 20 Chems [italic][/color]
   </Box>
-  - Генокрад превращается в обезьяну.
-  - Снимает наручники с генокрада.
-  - Обезьяна может ползать по вентиляции, но теряет некоторые способности, которые иначе были бы доступны генокраду.
+  - Changeling turns into a monkey.
+  - Uncuffs changeling.
+  - Money can ventcrawl, but loses some abilities that the ling would otherwise have.
 
-  ## Поглощение биоматерии
+  ## Absorb Biomatter
   <Box>
-    [color=#999999][italic] 3 очка эволюции [italic][/color]
+    [color=#999999][italic] 3 Evolution Points [italic][/color]
   </Box>
-  - Употребление мясных продуктов восстанавливает запасы химикатов генокрада.
+  - Consuming meat products restores the changelings chemical stores.
 
-  ## Усиленное зрение
+  ## Augmented Eyesight
   <Box>
-    [color=#999999][italic] 4 очка эволюции / 0 химикатов [italic][/color]
+    [color=#999999][italic] 4 Evolution Points / 0 Chems [italic][/color]
   </Box>
-  - Генокрад может переключаться между устойчивостью к вспышкам и тепловым зрением.
-  - При использовании теплового зрения вспышки оглушают генокрада в два раза дольше.
-  - Тепловое зрение также даёт генокраду ночное зрение.
-  - Может использоваться в наручниках или в низшей форме.
+  - Changeling can toggle eyesight between flash resistant and thermal vision.
+  - While using thermal vision, flashes stun the changeling for twice as long.
+  - Thermal vision also provides changeling with night vision.
+  - Can be used while cuffed or in lesser form.
 
-  ## Биоразложение
+  ## Biodegrade
   <Box>
-    [color=#999999][italic] 4 очка эволюции / 30 химикатов [italic][/color]
+    [color=#999999][italic] 4 Evolution Points / 30 Chems [italic][/color]
   </Box>
-  - Выжигает наручники с генокрада.
-  - Снимает наручники с генокрада.
-  - Обрызгивает кислотой любого, кто держит генокрада, нанося небольшой едкий урон, ослепляя и сбивая его с ног.
-  - Может использоваться в наручниках или в низшей форме.
-  - Может использоваться, пока вы горите.
+  - Burns cuffs off the changeling.
+  - Uncuffs changeling.
+  - Splashes anyone grabbing changeling with acid, doing slight caustic damage, blinding them and knocking them down.
+  - Can be used while cuffed or in lesser form.
+  - Can be used while on fire.
 
-  ## Кожа хамелеона
+  ## Chameleon Skin
   <Box>
-    [color=#999999][italic] 4 очка эволюции / 20 химикатов [italic][/color]
+    [color=#999999][italic] 4 Evolution Points / 20 Chems [italic][/color]
   </Box>
-  - Генокрад получает невидимость.
-  - Невидимость усиливается, пока он стоит на месте.
-  - Невидимость быстро ослабевает при движении.
-  - Может использоваться в наручниках.
-  - Замедляет скорость восстановления химикатов на 25%.
+  - Changeling gains invisibility.
+  - Invisibility increases while standing still.
+  - Invisibility rapidly decreases while moving.
+  - Can be used while cuffed.
+  - Slows down chem regen rate by 25%.
 
-  ## Адреналиновые запасы
+  ## Adrenaline Reserves
   <Box>
-    [color=#999999][italic] 4 очка эволюции / 25 химикатов [italic][/color]
+    [color=#999999][italic] 4 Evolution Points / 25 Chems [italic][/color]
   </Box>
-  - Генокрад производит 5 единиц адреналина генокрада.
-  - При немедленном повторном использовании наносит генокраду 6.75 урона ядом.
-  - Снимает оглушение, время нахождения на земле после сбивания и делает вас невосприимчивым к большинству форм усталости.
-  - Может использоваться в наручниках или в низшей форме.
-  - Может использоваться, пока вы горите.
+  - Changeling produces 5 units of Changeling Adrenaline.
+  - Deals 6.75 poison damage to changeling upon immediate second use.
+  - Removes stuns, knockdown times, and makes you impervious to most forms of fatigue.
+  - Can be used while cuffed or in lesser form.
+  - Can be used while on fire.
 
-  ## Доступ к улью
+  ## Hivemind Access
   <Box>
-    [color=#999999][italic] 4 очка эволюции [italic][/color]
+    [color=#999999][italic] 4 Evolution Points [italic][/color]
   </Box>
-  - Показывает символ над всеми генокрадами, обладающими этой способностью.
-  - Включается и выключается.
-  - Даёт доступ к каналу улья - :g
+  - Shows a symbol above all changelings with this ability.
+  - Togglable on and off.
+  - Grants access to the hivemind channel - :g
 
-  ## Адаптация к пустоте
+  ## Void Adaption
   <Box>
-    [color=#999999][italic] 4 очка эволюции / 0 химикатов / 2 поглощённых органика [italic][/color]
+    [color=#999999][italic] 4 Evolution Points / 0 Chems / 2 Absorbed Organics [italic][/color]
   </Box>
-  - Делает вас невосприимчивым к баротравме (нахождению в вакууме), пока активна.
-  - Невосприимчивость к низким температурам и их эффектам, пока активна.
-  - Не защищает от урона холодом.
-  - Генокраду больше не нужно дышать, пока способность активна.
-  - Замедляет скорость восстановления химикатов на 25%.
+  - Renders you immune to barotrauma (spacing) damage if active.
+  - Immune to freezing temperatures and its effects if active.
+  - Does not protect from cold damage.
+  - Changeling no longer needs to breathe if active.
+  - Slows down chem regen rate by 25%.
 
-  ## Восстановление плоти
+  ## Fleshmend
   <Box>
-    [color=#999999][italic] 5 очков эволюции / 35 химикатов [italic][/color]
+    [color=#999999][italic] 5 Evolution Points / 35 Chems [italic][/color]
   </Box>
-  - Пользователь получает статус-эффект «Восстановление плоти», длящийся 10 секунд.
-  - Эффекты «Восстановления плоти» временно прекращаются, пока вы горите.
-  - Лечит 10 общего физического урона за тик (100 всего).
-  - Лечит 5 общего урона от ожогов за тик (50 всего).
-  - Лечит 2 урона от удушья за тик (20 всего).
-  - Снижает тяжесть кровотечения на 2.5 за тик (25 всего).
-  - Восстанавливает примерно 3.5% уровня крови за тик (35% всего).
-  - Может использоваться в критическом состоянии.
-  - Может использоваться в наручниках или в низшей форме.
+  - User is given the "Fleshmend" status effect, lasting for 10 seconds.
+  - Fleshmend's effects will temporarily cease while on fire.
+  - Heals 10 overall brute damage per tick (100 in total).
+  - Heals 5 overall burn damage per tick (50 in total).
+  - Heals 2 asphyxiation damage per tick (20 in total).
+  - Reduces bleeding severity by 2.5 per tick (25 in total).
+  - Restores roughly 3.5% blood level per tick (35% in total).
+  - Usable while in critical condition.
+  - Can be used while cuffed or in lesser form.
 </Document>

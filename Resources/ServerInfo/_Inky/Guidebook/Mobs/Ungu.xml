@@ -1,13 +1,13 @@
 <!-- SPDX-License-Identifier: AGPL-3.0-or-later -->
 
 <Document>
-  # Унгу
+  # Ungu
 
   <Box>
     <GuideEntityEmbed Entity="AppearanceUngu" Caption=""/>
   </Box>
 
-  Унгу - сильный широкоплечий народ. Вне боевого режима они двигаются медленно. Включите [color=yellow]Боевой Режим[/color], чтобы разогнаться, но будьте осторожны на поворотах. Столкновение со стеной на большой скорости может причинить боль и ненадолго оглушить.
+  Ungu are a powerful, broad-shouldered species. They move slowly outside combat mode. Toggle [color=yellow]Combat Mode[/color] to pick up speed, but watch your corners. Hitting a wall at high speed can hurt and briefly stun you.
 
-  Используйте [color=yellow]Рывок[/color], чтобы броситься вперёд на расстояние до четырёх тайлов в ту сторону, куда вы смотрите. Рывок может повредить цели и разрушаемые препятствия на пути. Для рывка нужна гравитация, а его перезарядка занимает 25 секунд.
+  Use [color=yellow]Dash[/color] to charge up to four tiles in the direction you're facing. The charge can damage targets and breakable obstacles in your path. Dash requires gravity and has a 25-second cooldown.
 </Document>

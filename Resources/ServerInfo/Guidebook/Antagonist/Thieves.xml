@@ -6,85 +6,85 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Воры
+  # Thieves
 
   <Box>
-    [color=#999999][italic]«Хвать! Это я забираю! И это тоже! Ой, а почему бы и нет!»[/italic][/color]
+    [color=#999999][italic]"Yoink! I'll be taking that! And that! Ooh, don't mind if I do!"[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="ClothingNeckCloakVoid" Caption=""/>
   </Box>
 
-  Воры - мелкие, но хитрые [color=green]преступники[/color], которые не могут удержать руки при себе. После последнего ареста вам принудительно вживили [bold]имплант пацифизма[/bold], но это не остановит вас от пополнения вашей коллекции.
+  Thieves are petty yet crafty [color=green]criminals[/color] who can't keep their hands to themselves. You were forcefully given a [bold]pacifism implant[/bold] after your last arrest, but you won't let that stop you from trying to add to your collection.
 
 
-  ## Искусство кражи
-  В отличие от других антагонистов, из-за вашего импланта пацифизма важно [bold]держаться подальше от неприятностей[/bold].
-  Хотя в крайнем случае вы всё ещё можете использовать [color=yellow]оглушающее оружие[/color], вам стоит бежать, если [color=#cb0000]Служба Безопасности[/color] затеет с вами драку.
-  Вы работаете в одиночку, и у вас нет друзей, которые вытащат вас из опасности.
+  ## Art of the Steal
+  Unlike other antagonists, it's important to [bold]stay out of trouble[/bold] because of your pacifism implant.
+  While you can still use [color=yellow]stun weapons[/color] in a pinch, you should run if [color=#cb0000]Security[/color] picks a fight with you.
+  You work alone, and you don't have any friends to pull you out of danger.
 
-  Но вопреки всему вы успешно стащите то, что захотите, благодаря решимости, ловкости рук, нескольким инструментам и вашим [color=cyan]навыкам карманника[/color].
+  But against all odds, you'll successfully swipe what you want using determination, sleight of hand, a few tools, and your [color=cyan]pickpocketing skills[/color].
 
-  Ваши навыки карманника дают вам огромное преимущество: [bold]способность забирать вещи у людей так, что они этого даже не замечают[/bold]. Немного практики — и вы сможете украсть их кошелёк, одновременно поддерживая беседу.
+  The pickpocketing skills you have give you a major advantage: [bold]the ability to take things from people without them even noticing[/bold]. With a little practice, you can steal their wallet and keep up a conversation at the same time.
 
-  Рекомендуется раздобыть пару перчаток, так как ваши отпечатки пальцев всё ещё могут привести к украденным вещам, если их найдут.
+  It is advised to get a pair of gloves, as your fingerprints could still be traced back to the stolen goods if they're found.
 
 
-  ## Инструменты ремесла
-  У вас в краденом рукаве припасено ещё два козыря: ваш [color=cyan]воровской маяк[/color] и ваша [color=cyan]воровская сумка[/color].
+  ## Tools of the Trade
+  You've got two more aces up your stolen sleeves: your [color=cyan]thieving beacon[/color] and your [color=cyan]thieving satchel[/color].
 
-  Ваш [color=cyan]воровской маяк[/color] обеспечивает безопасную доставку домой безделушек, которые может быть неудобно нести с собой на эвакуационном шаттле. Просто найдите уединённое место на станции, чтобы развернуть воровской маяк, затем задайте его координаты на ваше убежище.
-  Любые ценности рядом с ним будут [bold]телепортированы в ваше хранилище по окончании смены[/bold], что засчитает ваши цели.
+  Your [color=cyan]thieving beacon[/color] provides safe passage home for trinkets that may not be easy to carry with you on the evac shuttle. Simply find a secluded part of the station to unfold the thieving beacon, then set its coordinates to your hideout.
+  Any shinies near it will be [bold]teleported to your vault when the shift ends[/bold], fulfilling your objectives.
 
-  Однако, если маяк найдут, это моментально вас выдаст и предельно облегчит людям возврат их «пропавшего» имущества. [bold]Обязательно хорошо его спрячьте![/bold]
+  However, this will instantly out you if found and make it extremely easy for people to reclaim their "missing" possessions. [bold]Make sure to hide it well![/bold]
 
   <Box>
     <GuideEntityEmbed Entity="ThiefBeacon"/>
   </Box>
 
-  Ваша [color=cyan]воровская сумка[/color] содержит... ну, всё, что вы не забыли взять. [bold]Вы можете выбрать два готовых набора[/bold], которые помогут вам провернуть более грандиозные кражи.
+  Your [color=cyan]thieving satchel[/color] contains... well, whatever you remembered to pack. [bold]You can select two pre-made kits[/bold] to help you complete grander heists.
 
   <Box>
     <GuideEntityEmbed Entity="SatchelThief"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="Implanter" Caption="Анатомия"/>
-    <GuideEntityEmbed Entity="C4" Caption="Взломщик"/>
-    <GuideEntityEmbed Entity="ChameleonProjector" Caption="Хамелеон"/>
-    <GuideEntityEmbed Entity="BaseUplinkRadio" Caption="Связист"/>
+    <GuideEntityEmbed Entity="Implanter" Caption="Anatomy"/>
+    <GuideEntityEmbed Entity="C4" Caption="Breacher"/>
+    <GuideEntityEmbed Entity="ChameleonProjector" Caption="Chameleon"/>
+    <GuideEntityEmbed Entity="BaseUplinkRadio" Caption="Communicator"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="NitrousOxideTank" Caption="Усыпитель"/>
-    <GuideEntityEmbed Entity="Fulton" Caption="Контрабандист"/>
-    <GuideEntityEmbed Entity="Telecrystal" Caption="Синдикатовец"/>
+    <GuideEntityEmbed Entity="NitrousOxideTank" Caption="Sleeper"/>
+    <GuideEntityEmbed Entity="Fulton" Caption="Smuggler"/>
+    <GuideEntityEmbed Entity="Telecrystal" Caption="Syndie"/>
   </Box>
   <Box>
     <GuideEntityEmbed Entity="ClothingBackpackSatchelSmugglerUnanchored"/>
   </Box>
 
-  После подтверждения выбора наборы развернутся в [color=cyan]сумку контрабандиста[/color].
-  Наборы покрупнее упадут на пол вокруг вас.
-  [bold]Не позволяйте никому увидеть ваши наборы или сумку контрабандиста[/bold] — их распознают как контрабанду!
-  Сумку контрабандиста можно прикрутить к обшивке корпуса под напольными плитками, если вам нужно спрятать предметы от любопытных глаз.
+  After approving your selection, the kits will fold out into a [color=cyan]smuggler's satchel[/color].
+  Larger kits will fall onto the floor around you.
+  [bold]Don't let anyone see your kits or smuggler's satchel[/bold], as they will recognize it as contraband!
+  The smuggler's satchel can be wrenched to the hull plating underneath floor tiles if you need to hide items from prying eyes.
 
 
-  ## Жемчужина Коллекции
-  Ваша клептомания заведёт вас далеко. В один день вам захочется украсть пару фигурок. В другой день вам захочется украсть промышленный станок.
+  ## Centerpiece of the Collection
+  Your kleptomania will take you places. One day, you'll feel like stealing a few figurines. Another day, you'll feel like stealing an industrial machine.
 
-  Неважно. Со временем всё это станет частью вашей коллекции.
+  No matter. They'll all be a part of your collection within a matter of time.
 
-  Вы можете украсть предметы, [bold]имея их при себе[/bold], когда доберётесь до ЦК. В противном случае вы можете украсть крупные предметы, [bold]оставив их у своего воровского маяка.[/bold]
+  You can steal items by [bold]having them on your person[/bold] when you get to CentComm. Failing this, you can steal larger items by [bold]leaving them by your thieving beacon.[/bold]
 
-  Некоторые из более [italic]живых[/italic] целей могут не желать сотрудничать с вами. Убедитесь, что они живы и находятся с вами или у вашего воровского маяка, когда смена закончится.
-  [color=cyan]Переноска для питомцев[/color] необязательна, но с ней может быть проще управиться со зверьками.
+  Some of the more [italic]animate[/italic] objectives may not cooperate with you. Make sure they're alive and with you or your thieving beacon when the shift ends.
+  A [color=cyan]pet carrier[/color] is optional, but might make the critters easier to handle.
 
-  Вещи, которые вы можете пожелать заполучить, включают, помимо прочего:
+  Things that you may desire include but are not limited to:
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineGreytider" Caption="Фигурки"/>
-    <GuideEntityEmbed Entity="PassengerIDCard" Caption="ID-карты"/>
-    <GuideEntityEmbed Entity="ChemDispenser" Caption="Сооружения"/>
-    <GuideEntityEmbed Entity="MobCorgiIan" Caption="Животные/Питомцы"/>
+    <GuideEntityEmbed Entity="ToyFigurineGreytider" Caption="Figurines"/>
+    <GuideEntityEmbed Entity="PassengerIDCard" Caption="ID cards"/>
+    <GuideEntityEmbed Entity="ChemDispenser" Caption="Structures"/>
+    <GuideEntityEmbed Entity="MobCorgiIan" Caption="Animals/Pets"/>
   </Box>
 
 </Document>

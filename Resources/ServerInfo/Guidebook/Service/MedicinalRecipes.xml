@@ -7,9 +7,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 <Document>
 
-# Лекарственные рецепты
+# Medicinal Recipes
 
-Эти блюда обладают интересными медицинскими эффектами или же являются самыми настоящими лекарствами.
+These preparations have interesting medical effects, or are just straight-up medicines.
 
 <GuideMicrowaveGroupEmbed Group="Medicinal"/>
 

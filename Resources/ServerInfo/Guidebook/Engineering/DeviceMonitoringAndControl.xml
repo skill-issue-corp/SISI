@@ -6,30 +6,30 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Мониторинг и управление устройствами
-  Учитывая станционный масштаб атмосферной сети, важно иметь возможность отслеживать и управлять устройствами из центрального местоположения.
+  # Device Monitoring and Control
+  Given the station-wide nature of the atmospherics network, it is important to have a way to monitor and control devices from a central location.
 
-  Используя эти системы, атмосферный отдел может отслеживать и контролировать атмосферу по всей станции.
+  Using these systems, Atmospherics can monitor and control the atmosphere across the entire station.
 
   <Box>
     <GuideEntityEmbed Entity="AirAlarm" Caption=""/>
     <GuideEntityEmbed Entity="AirSensor" Caption=""/>
   </Box>
   <Box>
-    ## Воздушные тревоги
+    ## Air Alarms
   </Box>
   <Box>
-    [color=#999999][italic]Мониторинг и управление атмосферными устройствами в широкой области[italic][/color]
+    [color=#999999][italic]Wide area monitoring and control over atmos devices[italic][/color]
   </Box>
 
   <Box>
     <GuideEntityEmbed Entity="ComputerAlert" Caption=""/>
   </Box>
   <Box>
-    ## Консоль атмосферной сигнализации
+    ## Atmospheric Alerts Computer
   </Box>
   <Box>
-    [color=#999999][italic]Мониторинг воздушных тревог по всей станции[italic][/color]
+    [color=#999999][italic]Station-wide monitoring of air alarms[italic][/color]
   </Box>
 
   <Box>
@@ -37,10 +37,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="GasPipeSensor" Caption=""/>
   </Box>
   <Box>
-    ## Монитор атмосферной сети
+    ## Atmospheric Network Monitor
   </Box>
   <Box>
-    [color=#999999][italic]Мониторинг целых трубопроводных сетей[italic][/color]
+    [color=#999999][italic]Monitoring of whole pipe networks[italic][/color]
   </Box>
 
 </Document>

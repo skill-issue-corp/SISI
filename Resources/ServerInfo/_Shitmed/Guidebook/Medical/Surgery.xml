@@ -8,55 +8,55 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Хирургия
-Ваше привычное еженедельное занятие. Проводя хирургические операции над своими пациентами, вы можете лечить раны, удалять или добавлять части тела, органы и многое другое.
+# Surgery
+Your usual weekly activity. By performing surgical operations on your patients, you can heal wounds, remove or add body parts, organs, and more.
 
-## Основы
-Для начала операции ваш пациент должен лежать, и в идеале - находиться под седацией.
+## The Basics
+To start surgery your patient needs to be laying down, and ideally sedated.
 
-Если пациент не находится под седацией, он будет испытывать сильную боль, что снижает его настроение и ухудшает состояние хирургических ран.
-
-<Box>
-<GuideEntityEmbed Entity="NitrousOxideTank" Caption="закись азота"/>
-<GuideEntityEmbed Entity="ClothingMaskBreathMedical" Caption="любой дыхательный аппарат"/>
-</Box>
-
-Вам также необходимо надеть защитное снаряжение, такое как маска и перчатки, чтобы предотвратить причинение вреда пациенту из-за загрязнения.
+If they are not sedated, they will be in a lot of pain, which decreases their mood, and will make surgical wounds worse.
 
 <Box>
-<GuideEntityEmbed Entity="ClothingMaskSterile" Caption="любая маска"/>
-<GuideEntityEmbed Entity="ClothingHandsGlovesNitrile" Caption="любые перчатки"/>
+<GuideEntityEmbed Entity="NitrousOxideTank" Caption="nitrous oxide"/>
+<GuideEntityEmbed Entity="ClothingMaskBreathMedical" Caption="any breathing tool"/>
 </Box>
 
-## Начало работы
-
-Чтобы приступить к операции, вам понадобится набор хирургических инструментов.
+You also need to wear protective gear such as a mask and gloves to prevent harming the patient due to contamination.
 
 <Box>
-<GuideEntityEmbed Entity="Scalpel" Caption="скальпель"/>
-<GuideEntityEmbed Entity="Retractor" Caption="ретрактор"/>
-<GuideEntityEmbed Entity="Hemostat" Caption="кровоостанавливающий зажим"/>
-<GuideEntityEmbed Entity="Drill" Caption="дрель"/>
+<GuideEntityEmbed Entity="ClothingMaskSterile" Caption="any mask"/>
+<GuideEntityEmbed Entity="ClothingHandsGlovesNitrile" Caption="any gloves"/>
+</Box>
+
+## Getting Started
+
+To engage in surgery, you'll need a set of surgical tools.
+
+<Box>
+<GuideEntityEmbed Entity="Scalpel" Caption="scalpel"/>
+<GuideEntityEmbed Entity="Retractor" Caption="retractor"/>
+<GuideEntityEmbed Entity="Hemostat" Caption="hemostat"/>
+<GuideEntityEmbed Entity="Drill" Caption="drill"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="Saw" Caption="пила"/>
-<GuideEntityEmbed Entity="Cautery" Caption="каутер"/>
-<GuideEntityEmbed Entity="BoneGel" Caption="костный гель"/>
+<GuideEntityEmbed Entity="Saw" Caption="saw"/>
+<GuideEntityEmbed Entity="Cautery" Caption="cautery"/>
+<GuideEntityEmbed Entity="BoneGel" Caption="bone gel"/>
 </Box>
 
-Как только у вас в руках окажутся инструменты, взаимодействуйте с пациентом, чтобы начать операцию. Вы сможете выбрать, на какой части тела проводить операцию.
+Once you've got tools in hand, interact with your patient to begin surgery. You'll be able to choose which part you want to operate on.
 
-## Хирургия для бедных
+## Ghetto Surgery
 
-В крайнем случае можно использовать некоторые нехирургические инструменты - используйте значок осмотра скальпеля, чтобы увидеть, насколько хорош или плох тот или иной инструмент.
+Certain non-surgical tools can be used in a pinch, use the scalpel examine icon to see how good or bad something is.
 <Box>
-<GuideEntityEmbed Entity="Welder" Caption="сварочный аппарат"/>
-<GuideEntityEmbed Entity="Wirecutter" Caption="кусачки"/>
-<GuideEntityEmbed Entity="KitchenKnife" Caption="нож"/>
-<GuideEntityEmbed Entity="Crowbar" Caption="лом"/>
-<GuideEntityEmbed Entity="CableApcStack" Caption="кабель НН"/>
+<GuideEntityEmbed Entity="Welder" Caption="welder"/>
+<GuideEntityEmbed Entity="Wirecutter" Caption="wirecutter"/>
+<GuideEntityEmbed Entity="KitchenKnife" Caption="knife"/>
+<GuideEntityEmbed Entity="Crowbar" Caption="crowbar"/>
+<GuideEntityEmbed Entity="CableApcStack" Caption="lv cable"/>
 </Box>
 
-Они не так хороши, как настоящее хирургическое оборудование, но в крайнем случае сгодятся!
+They aren't ideal compared to real surgical equipment, but they'll do in a pinch!
 
 </Document>
