@@ -19,7 +19,8 @@ public sealed partial class MapMigrationSystem : EntitySystem
 {
     [Dependency] private IResourceManager _resMan = default!;
 
-    private const string MigrationFile = "/migration.yml";
+    // private const string MigrationFile = "/migration.yml"; // SIS-Migration
+    private readonly List<string> MigrationFiles = ["/migration.yml", "/migrationSIS.yml"]; // SIS-Migration
 
     public override void Initialize()
     {
@@ -27,23 +28,28 @@ public sealed partial class MapMigrationSystem : EntitySystem
         SubscribeLocalEvent<BeforeEntityReadEvent>(OnBeforeReadEvent);
 
 #if DEBUG
-        if (!TryReadFile(out var mappings))
-            return;
-
-        // Verify that all of the entries map to valid entity prototypes.
-        foreach (var node in mappings.Children.Values)
+        // SIS-Migration Start
+        foreach (var migrationFile in MigrationFiles)
         {
-            var newId = ((ValueDataNode) node).Value;
-            if (!string.IsNullOrEmpty(newId) && newId != "null")
-                DebugTools.Assert(ProtoMan.HasIndex<EntityPrototype>(newId), $"{newId} is not an entity prototype.");
+            if (!TryReadFile(migrationFile, out var mappings))
+                continue;
+
+            // Verify that all of the entries map to valid entity prototypes.
+            foreach (var node in mappings.Children.Values)
+            {
+                var newId = ((ValueDataNode) node).Value;
+                if (!string.IsNullOrEmpty(newId) && newId != "null")
+                    DebugTools.Assert(ProtoMan.HasIndex<EntityPrototype>(newId), $"{newId} is not an entity prototype.");
+            }
         }
+        // SIS-Migration End
 #endif
     }
 
-    private bool TryReadFile([NotNullWhen(true)] out MappingDataNode? mappings)
+    private bool TryReadFile(string migrationFile, [NotNullWhen(true)] out MappingDataNode? mappings) // SIS-Migration
     {
         mappings = null;
-        var path = new ResPath(MigrationFile);
+        var path = new ResPath(migrationFile); // SIS-Migration
         if (!_resMan.TryContentFileRead(path, out var stream))
             return false;
 
@@ -59,18 +65,29 @@ public sealed partial class MapMigrationSystem : EntitySystem
 
     private void OnBeforeReadEvent(BeforeEntityReadEvent ev)
     {
-        if (!TryReadFile(out var mappings))
-            return;
-
-        foreach (var (key, value) in mappings)
+        // SIS-Migration Start
+        foreach (var migrationFile in MigrationFiles)
         {
-            if (value is not ValueDataNode valueNode)
+            if (!TryReadFile(migrationFile, out var mappings))
                 continue;
 
-            if (string.IsNullOrWhiteSpace(valueNode.Value) || valueNode.Value == "null")
-                ev.DeletedPrototypes.Add(key);
-            else
-                ev.RenamedPrototypes.Add(key, valueNode.Value);
+            foreach (var (key, value) in mappings)
+            {
+                if (value is not ValueDataNode valueNode)
+                    continue;
+
+                if (string.IsNullOrWhiteSpace(valueNode.Value) || valueNode.Value == "null")
+                {
+                    ev.DeletedPrototypes.Add(key);
+                    ev.RenamedPrototypes.Remove(key);
+                }
+                else
+                {
+                    ev.DeletedPrototypes.Remove(key);
+                    ev.RenamedPrototypes[key] = valueNode.Value;
+                }
+            }
         }
+        // SIS-Migration End
     }
 }

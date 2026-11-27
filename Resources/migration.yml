@@ -1320,9 +1320,6 @@ CrateEngineeringMiniJetpack: CrateSpaceMiniJetpack
 CrateEngineeringShuttle: CrateSpaceShuttlePower
 CrateEngineeringThruster: CrateSpaceThruster
 
-# 2026-08-26 # SIS
-SpawnMobCorgiMouse: null
-
 # 2026-08-12
 LightReplacer: LightReplacerFilled
 
