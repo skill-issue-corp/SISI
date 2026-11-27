@@ -73,7 +73,11 @@ public sealed partial class EnergyReagentDispenserWindow : FancyWindow
     {
         ReagentList.Children.Clear();
 
-        foreach (var (id, cost) in _comp.Reagents)
+        // SIS-Energy_reagent_dispenser Start // SIS-TODO: Порт сортировки на Травму
+        var reagents = _comp.Reagents
+            .OrderBy(r => _proto.Index(r.Key).LocalizedName, StringComparer.CurrentCulture);
+        // SIS-Energy_reagent_dispenser End
+        foreach (var (id, cost) in reagents) // SIS-Energy_reagent_dispenser
         {
             var card = new EnergyReagentCardControl(_proto.Index(id), cost);
             card.OnPressed += id => OnDispenseReagent?.Invoke(id);
