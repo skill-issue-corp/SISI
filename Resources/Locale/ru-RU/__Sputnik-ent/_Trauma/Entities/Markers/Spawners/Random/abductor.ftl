@@ -1,32 +1,32 @@
-ent-RandomAbductorEyeSpawner = Создание Случайных Глаз
+ent-RandomAbductorEyeSpawner = Изготовление Случайных Глаз
     .desc = Случайная пара глаз, качество не гарантируется
 
-ent-RandomAbductorLungSpawner = Создание Случайных Лёгких
+ent-RandomAbductorLungSpawner = Изготовление Случайных Лёгких
     .desc = Случайная пара лёгких, качество не гарантируется
 
-ent-RandomAbductorStomachSpawner = Создание Случайного Желудка
-    .desc = Случайный желудок, качество не гарантировано
+ent-RandomAbductorStomachSpawner = Изготовление Случайного Желудка
+    .desc = Случайный желудок, качество не гарантируется
 
-ent-RandomAbductorRightHandSpawner = Создание Случайной Правой Кисти
+ent-RandomAbductorRightHandSpawner = Изготовление Случайной Правой Кисти
     .desc = Случайная правая кисть, качество не гарантируется
 
-ent-RandomAbductorRightArmSpawner = Создание Случайной Правой Руки
-    .desc = Случайная правая рука, качество не гарантировано
+ent-RandomAbductorRightArmSpawner = Изготовление Случайной Правой Руки
+    .desc = Случайная правая рука, качество не гарантируется
 
-ent-RandomAbductorLeftHandSpawner = Создание Случайной Левой Кисти
+ent-RandomAbductorLeftHandSpawner = Изготовление Случайной Левой Кисти
     .desc = Случайная левая кисть, качество не гарантируется
 
-ent-RandomAbductorLeftArmSpawner = Создание Случайной Левой Руки
-    .desc = Случайная левая рука, качество не гарантировано
+ent-RandomAbductorLeftArmSpawner = Изготовление Случайной Левой Руки
+    .desc = Случайная левая рука, качество не гарантируется
 
-ent-RandomAbductorRightFootSpawner = Создание Случайной Правой Стопы
+ent-RandomAbductorRightFootSpawner = Изготовление Случайной Правой Стопы
     .desc = Случайная правая стопа, качество не гарантируется
 
-ent-RandomAbductorRightLegSpawner = Создание Случайной Правой Ноги
-    .desc = Случайная правая нога, качество не гарантировано
+ent-RandomAbductorRightLegSpawner = Изготовление Случайной Правой Ноги
+    .desc = Случайная правая нога, качество не гарантируется
 
-ent-RandomAbductorLeftFootSpawner = Создание Случайной Левой Стопы
+ent-RandomAbductorLeftFootSpawner = Изготовление Случайной Левой Стопы
     .desc = Случайная левая стопа, качество не гарантируется
 
-ent-RandomAbductorLeftLegSpawner = Создание Случайной Левой Ноги
-    .desc = Случайная левая нога, качество не гарантировано
+ent-RandomAbductorLeftLegSpawner = Изготовление Случайной Левой Ноги
+    .desc = Случайная левая нога, качество не гарантируется

@@ -1,2 +1,2 @@
-ent-XenobioSlimeBabySpawner = спавнер случайный слайм 1-го уровня
+ent-XenobioSlimeBabySpawner = спавнер случайного ксенобиологического слайма T1
     .desc = { ent-MarkerBase.desc }

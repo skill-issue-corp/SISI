@@ -1,1 +1,1 @@
-comp-storagevoicecontrol-self-insert = Вы не можете поместить { $entity } в него же!
+comp-storagevoicecontrol-self-insert = Нельзя поместить { $entity } внутрь самого себя!

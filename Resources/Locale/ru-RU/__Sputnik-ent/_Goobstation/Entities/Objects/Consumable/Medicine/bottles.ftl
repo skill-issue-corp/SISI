@@ -1,11 +1,11 @@
-ent-RandomChemistryBottleMedicalSpawner = спавнер случайной медицинской химической бутылки
+ent-RandomChemistryBottleMedicalSpawner = спавнер случайной бутылочки с медицинским реагентом
     .desc = { ent-MarkerBase.desc }
 
-ent-RandomChemistryBottleMedicalTier1Spawner = спавнер случайной медицинской химической бутылки (уровень 1)
+ent-RandomChemistryBottleMedicalTier1Spawner = случайная бутылочка с медицинским реагентом (уровень 1)
     .desc = { ent-MarkerBase.desc }
 
-ent-RandomChemistryBottleMedicalTier2Spawner = спавнер случайной медицинской химической бутылки (уровень 2)
+ent-RandomChemistryBottleMedicalTier2Spawner = случайная бутылочка с медицинским реагентом (уровень 2)
     .desc = { ent-MarkerBase.desc }
 
-ent-RandomChemistryBottleMedicalTier3Spawner = спавнер случайной медицинской химической бутылки (уровень 3)
+ent-RandomChemistryBottleMedicalTier3Spawner = случайная бутылочка с медицинским реагентом (уровень 3)
     .desc = { ent-MarkerBase.desc }

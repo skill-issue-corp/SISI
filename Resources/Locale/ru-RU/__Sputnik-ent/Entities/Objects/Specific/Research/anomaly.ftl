@@ -1,34 +1,31 @@
 ent-AnomalyScanner = сканер аномалий
-    .desc = Ручной сканер, предназначенный для получения информации о различных аномальных объектах.
+    .desc = Ручной сканер для сбора сведений о различных аномальных объектах.
 
-ent-AnomalyScannerAdmin = сканер аномалий администратора
-    .desc = Ручной сканер для сбора данных об аномальных объектах. Похоже, у этого есть несколько дополнительных функций.
-    .suffix = Админ
+ent-AnomalyScannerAdmin = администраторский сканер аномалий
+    .desc = Ручной сканер для сбора сведений о различных аномальных объектах. У этого, похоже, есть несколько дополнительных функций.
+    .suffix = Администрация
 
 ent-AnomalyLocatorUnpowered = локатор аномалий
-    .desc = Устройство, предназначенное для помощи в поиске аномалий. Вы уже проверили газодобытчики?
-    .suffix = Не требует питания
+    .desc = Прибор для поиска аномалий. Проверяли газодобытчики?
+    .suffix = Всегда Под Напряжением
 
 ent-AnomalyLocator = { ent-AnomalyLocatorUnpowered }
-    .suffix = Заряжен
     .desc = { ent-AnomalyLocatorUnpowered.desc }
 
-ent-AnomalyLocatorEmpty = { ent-AnomalyLocatorUnpowered }
-    .suffix = Пустой
-    .desc = { ent-AnomalyLocatorUnpowered.desc }
+ent-AnomalyLocatorEmpty = { ent-AnomalyLocator }
+    .desc = { ent-AnomalyLocator.desc }
+    .suffix = Пусто
 
-ent-AnomalyLocatorWideUnpowered = локатор аномалий широкого спектра
-    .desc = Устройство, способное обнаруживать аномалии на большом расстоянии, но без возможности определить расстояние до них.
-    .suffix = Не требует питания
+ent-AnomalyLocatorWideUnpowered = широкодиапазонный локатор аномалий
+    .desc = Прибор, способный обнаруживать аномалии на большом расстоянии, но не определять дальность до них.
+    .suffix = Всегда Под Напряжением
 
 ent-AnomalyLocatorWide = { ent-AnomalyLocatorWideUnpowered }
-    .suffix = Заряжен
     .desc = { ent-AnomalyLocatorWideUnpowered.desc }
 
 ent-AnomalyLocatorWideEmpty = { ent-AnomalyLocatorWide }
-    .suffix = Пустой
     .desc = { ent-AnomalyLocatorWide.desc }
+    .suffix = Пусто
 
 ent-WeaponGauntletGorilla = перчатка Г.О.Р.И.Л.Л.А.
-    .suffix = Горилла
-    .desc = Робастная часть исследовательского снаряжения. Будучи запитанным от ядра аномалии, способно одним ударом отправить в полёт аномальный объект.
+    .desc = Робастное научное оборудование. С ядром аномалии в качестве источника питания может одним ударом подбросить аномальный объект в воздух.

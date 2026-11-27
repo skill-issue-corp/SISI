@@ -1,2 +1,2 @@
-ent-ActionGoliathTentacleCrew = [color=red]Удар щупальцами[/color]
-    .desc = Используйте свои щупальца, чтобы схватить и оглушить цель!
+ent-ActionGoliathTentacleCrew = [color=red]Удар Щупальцами[/color]
+    .desc = Схватите щупальцами другого игрока и оглушите его!

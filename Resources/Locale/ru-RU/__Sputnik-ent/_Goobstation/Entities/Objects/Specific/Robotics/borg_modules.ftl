@@ -1,6 +1,8 @@
-ent-BorgModuleSyndicateWeaponAdvanced = продвинутый оружейный модуль борга
+ent-BorgModuleSyndicateWeaponAdvanced = усовершенствованный оружейный модуль борга
     .desc = { ent-BaseBorgModule.desc }
+
 ent-BorgModuleLollypop = леденцовый модуль борга
     .desc = { ent-BaseBorgModule.desc }
-ent-BorgModulePKA = прото-кинетический модуль борга
+
+ent-BorgModulePKA = протокинетический модуль борга
     .desc = { ent-BaseBorgModuleCargo.desc }

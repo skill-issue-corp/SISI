@@ -7,15 +7,15 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 apc-menu-title = ЛКП
-apc-menu-breaker-label = Главный рубильник
+apc-menu-breaker-label = Главный Выключатель
 apc-menu-power-label = Нагрузка
-apc-menu-external-label = Внешнее питание
-apc-menu-charge-label = Заряд {$percent}
+apc-menu-external-label = Внешнее Питание
+apc-menu-charge-label = Заряд: {$percent}
 
 # For the power state label
 
-apc-menu-power-state-good = Хорошее
-apc-menu-power-state-low = Слабое
+apc-menu-power-state-good = Нормальное
+apc-menu-power-state-low = Низкое
 apc-menu-power-state-none = Отсутствует
 apc-menu-power-state-label-text = { POWERWATTS($power) } / { POWERWATTS($maxLoad) }
 apc-menu-power-state-label-tripped = ПЕРЕГРУЗКА

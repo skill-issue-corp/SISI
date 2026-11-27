@@ -1,27 +1,26 @@
-ent-CrateMaterialGlass = ящик стекла
-    .desc = 90 единиц стекла, упакованных с заботой.
+ent-CrateMaterialGlass = ящик листового стекла
+    .desc = 90 листов стекла, упакованных с заботой.
 
-ent-CrateMaterialSteel = ящик стали
-    .desc = 90 единиц стали.
+ent-CrateMaterialSteel = ящик листовой стали
+    .desc = 90 листов стали.
 
-ent-CrateMaterialCloth = ящик с тканью
-    .desc = 90 единиц ткани.
+ent-CrateMaterialCloth = ящик ткани
+    .desc = 90 кусков ткани.
 
-ent-CrateMaterialPlastic = ящик пластика
-    .desc = 90 единиц пластика.
+ent-CrateMaterialPlastic = ящик листового пластика
+    .desc = 90 листов пластика.
 
-ent-CrateMaterialWood = ящик дерева
+ent-CrateMaterialWood = ящик древесины
     .desc = Куча деревянных досок.
 
 ent-CrateMaterialBrass = ящик латуни
-    .desc = 90 единиц латуни.
+    .desc = 90 листов латуни.
 
 ent-CrateMaterialPlasteel = ящик пластали
-    .desc = 30 единиц пластали.
+    .desc = 30 листов пластали.
 
 ent-CrateMaterialPlasma = ящик твёрдой плазмы
-    .suffix = Защищённый
-    .desc = 30 единиц плазмы.
+    .desc = 30 листов плазмы.
 
 ent-CrateMaterialGold = ящик золота
     .desc = 30 слитков золота.
@@ -30,16 +29,16 @@ ent-CrateMaterialSilver = ящик серебра
     .desc = 30 слитков серебра.
 
 ent-CrateMaterialCardboard = ящик картона
-    .desc = 60 единиц картона.
+    .desc = 90 кусков картона.
 
 ent-CrateMaterialPaper = ящик бумаги
     .desc = 90 листов бумаги.
 
 ent-CrateMaterialRandom = излишки материалов
-    .desc = Откуда-то взятые излишки материалов.
+    .desc = Лишние материалы откуда-то.
 
-ent-CrateMaterialSilo = ящик материалов сило
-    .desc = Пакет, включающий все материалы для сило.
+ent-CrateMaterialSilo = ящик для сборки хранилища материалов
+    .desc = Комплект со всеми материалами для сборки хранилища материалов.
 
-ent-CrateMaterialBasicResource = ящик с базовыми листами
+ent-CrateMaterialBasicResource = ящик основных листовых материалов
     .desc = 30 листов стали, стекла и пластика.

@@ -1,6 +1,6 @@
-job-supervisors-ntr-centcom = Представитель NanoTrasen
-job-supervisors-command = командный состав станции
-job-supervisors-null = никто, кроме тебя самого.
+job-supervisors-ntr-centcom = Представителю NanoTrasen и Центральному Командованию
+job-supervisors-command = командованию станции
+job-supervisors-null = только себе.
 
-job-supervisor-syndicate = Представитель Синдиката
-job-supervisors-credits = Представитель Спинварда
+job-supervisor-syndicate = Синдикату Вращательного Рукава
+job-supervisors-credits = Тем, Кто Больше Заплатит

@@ -1,88 +1,87 @@
 ent-BaseFastDrawImplanter = имплантер быстрого извлечения
-    .desc = Шприц с инструментами для быстрой замены имплантов. На корпусе маленькие золотые звёздочки.
+    .desc = Шприц с инструментами для быстрого извлечения имплантов. На корпусе маленькие золотые звёздочки.
 
 ent-RevsFastDrawImplanter = { ent-BaseFastDrawImplanter }
     .desc = { ent-BaseFastDrawImplanter.desc }
 
-ent-BaseImplantOnlyImplanterCentcomm = имплантер ЦК
-    .desc = Компактный одноразовый шприц, специально разработанный для введения подкожных имплантов. Игла покрыта анестетиком.
+ent-BaseImplantOnlyImplanterCentcomm = имплантер цк
+    .desc = Компактный одноразовый шприц, предназначенный только для введения подкожных имплантов. Игла покрыта обезболивающим.
 
 ent-BluespaceLifelineImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Блюспейс спасатель
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Блюспейс-Спасатель
 
 ent-CentcommFreedomImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Свобода
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Свобода
 
 ent-CentcommStorageImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Хранилище
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Хранилище
 
 ent-CentcommMindShieldImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Щит разума
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Щит Разума
 
 ent-CentcommNutrimentImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Питательный насос ЦК
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Питательная Помпа
 
 ent-CentcommSpaceproofImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Космическая защита
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Защита от Космоса
 
 ent-CentcommStypticStimulatorImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Сосудосуживающий стимулятор
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Стимулятор Регенерации
 
 ent-PacifismImplanter = { ent-BaseImplantOnlyImplanter }
-    .suffix = Пацифизм
     .desc = { ent-BaseImplantOnlyImplanter.desc }
+    .suffix = Пацифизм
 
 ent-SmokeImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Дым
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Дым
 
 ent-NutrimentImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Питательный насос
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Питательная Помпа
 
 ent-StypticStimulatorImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Сосудосуживающий стимулятор
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Стимулятор Регенерации
 
 ent-KravMagaImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Крав-маг
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Крав-Мага
 
-ent-BinaryImplanter = имплантер Синдиката
-    .suffix = Бинарный декодер
+ent-BinaryImplanter = { ent-BaseImplantOnlyImplanterSyndi }
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Двоичный Декодер
 
 ent-VaporizeImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Испарение, НЕ МАППИТЬ
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Испарение, НЕ МАППИТЬ
 
 ent-ShiftImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Скачок, НЕ МАППИТЬ
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Сдвиг, НЕ МАППИТЬ
 
 ent-BlinkImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Моргание, НЕ МАППИТЬ
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Уход в Иное Измерение, НЕ МАППИТЬ
 
 ent-StopTimeImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Остановка времени, НЕ МАППИТЬ
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Остановка Времени, НЕ МАППИТЬ
 
 ent-NaniteMenderImplanter = { ent-BaseImplantOnlyImplanterCentcomm }
-    .suffix = Ремонтник нанитов, НЕ МАППИТЬ
     .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Нанитовый Целитель, НЕ МАППИТЬ
 
-ent-XenoCompatibilityImplanter = { ent-BaseImplantOnlyImplanter }
-    .suffix = Ксено совместимость
+ent-XenoCompatibilityImplanter = имплантер совместимости с ксеноморфами
     .desc = { ent-BaseImplantOnlyImplanter.desc }
 
 ent-RedspaceLifelineImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Редспейс коридор
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Редспейс-Спасатель

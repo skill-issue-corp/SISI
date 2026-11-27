@@ -1,18 +1,25 @@
-ent-BaseHierophantShape = спавнер атака Иерофанта
+ent-BaseHierophantShape = точка спавна атаки иерофанта
     .desc = { ent-MarkerBase.desc }
-ent-HierophantShapeCrossBishop = спавнер атаки Иерофанта крест слона
+
+ent-HierophantShapeCrossBishop = точка спавна диагонального креста иерофанта
     .desc = { ent-BaseHierophantShape.desc }
-ent-HierophantShapeCrossRook = спавнер атаки Иерофанта крест ладьи
+
+ent-HierophantShapeCrossRook = точка спавна прямого креста иерофанта
     .desc = { ent-BaseHierophantShape.desc }
-ent-HierophantShapeCrossQueen = спавнер атаки Иерофанта крест ферзя
+
+ent-HierophantShapeCrossQueen = точка спавна восьмилучевого креста иерофанта
     .desc = { ent-BaseHierophantShape.desc }
-ent-HierophantShapeBlink = спавнер атаки Иерофанта скачок
+
+ent-HierophantShapeBlink = точка спавна атаки скачком иерофанта
     .desc = { ent-BaseHierophantShape.desc }
-ent-HierophantShapeBlinkSafe = спавнер атаки Иерофанта безопасный скачок
+
+ent-HierophantShapeBlinkSafe = точка спавна безопасного скачка иерофанта
     .desc = { ent-HierophantShapeBlink.desc }
-ent-HierophantShapeBoxExpanding = спавнер атаки Иерофанта расширяющийся квадрат
-    .suffix = Гнев
+
+ent-HierophantShapeBoxExpanding = точка спавна растущего квадрата иерофанта
     .desc = { ent-MarkerBase.desc }
-ent-HierophantShapeCrossSequence = спавнер атаки Иерофанта последовательность крестов
-    .suffix = Гнев
+    .suffix = Ярость
+
+ent-HierophantShapeCrossSequence = точка спавна череды крестов иерофанта
     .desc = { ent-MarkerBase.desc }
+    .suffix = Ярость

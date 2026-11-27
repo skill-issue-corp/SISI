@@ -1,14 +1,21 @@
 ent-BaseSpeedLoaderMagnum = спидлоадер (.45 магнум)
     .desc = { ent-BaseItem.desc }
+
 ent-SpeedLoaderMagnum = спидлоадер (.45 магнум)
-    .desc = { ent-BaseSpeedLoaderMagnum.desc }
+    .desc = Позволяет быстро зарядить в пустой револьвер до шести патронов .45 магнум. Предназначен для обычных кинетических боеприпасов.
+
 ent-SpeedLoaderMagnumEmpty = спидлоадер (.45 магнум любые)
-    .desc = { ent-SpeedLoaderMagnum.desc }
+    .desc = Позволяет быстро зарядить в пустой револьвер до шести патронов .45 магнум.
+    .suffix = пусто
+
 ent-SpeedLoaderMagnumIncendiary = спидлоадер (.45 магнум зажигательные)
-    .desc = { ent-SpeedLoaderMagnum.desc }
+    .desc = Позволяет быстро зарядить в пустой револьвер до шести патронов .45 магнум. Предназначен для самовоспламеняющихся зажигательных боеприпасов.
+
 ent-SpeedLoaderMagnumPractice = спидлоадер (.45 магнум учебные)
-    .desc = { ent-BaseSpeedLoaderMagnum.desc }
+    .desc = Позволяет быстро зарядить в пустой револьвер до шести патронов .45 магнум. Предназначен для безвредных учебных боеприпасов.
+
 ent-SpeedLoaderMagnumAP = спидлоадер (.45 магнум бронебойные)
-    .desc = { ent-BaseSpeedLoaderMagnum.desc }
+    .desc = Позволяет быстро зарядить в пустой револьвер до шести патронов .45 магнум. Предназначен для специальных бронебойных боеприпасов.
+
 ent-SpeedLoaderMagnumUranium = спидлоадер (.45 магнум урановые)
-    .desc = { ent-BaseSpeedLoaderMagnum.desc }
+    .desc = Позволяет быстро зарядить в пустой револьвер до шести патронов .45 магнум. Предназначен для экзотических боеприпасов с урановым сердечником.

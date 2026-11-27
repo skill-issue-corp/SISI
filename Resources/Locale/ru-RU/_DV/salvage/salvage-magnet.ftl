@@ -4,6 +4,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-salvage-map-wreck-size-unknown = [color=purple]Неопознанный[/color]
+salvage-map-wreck-size-unknown = [color=purple]Не опознано[/color]
 
-salvage-magnet-mining-points-cost = Стоимость: {$points} Шахтёрских Очков
+salvage-magnet-mining-points-cost = Стоимость: {$points} { $points ->
+    [one] Шахтёрское Очко
+    [few] Шахтёрских Очка
+   *[other] Шахтёрских Очков
+}

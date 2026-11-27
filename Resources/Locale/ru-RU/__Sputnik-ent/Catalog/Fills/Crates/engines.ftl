@@ -1,46 +1,35 @@
-ent-CrateEngineeringAMEShielding = ящик компонентов ДАМ
-    .suffix = Защищённый
-    .desc = 9 частей для создания нового или расширения существующего двигателя антиматерии.
+ent-CrateEngineeringAMEShielding = ящик упаковок реактора антиматерии
+    .desc = 9 деталей для корпуса реактора антиматерии или расширения существующего.
 
-ent-CrateEngineeringAMEJar = ящик антиматериевого топлива
-    .suffix = Защищённый
-    .desc = Три канистры антиматериевого топлива, для заправки двигателя антиматерии.
+ent-CrateEngineeringAMEJar = ящик банок с антиматерией
+    .desc = 3 банки с антиматерией для заправки реактора антиматерии.
 
-ent-CrateEngineeringAMEControl = ящик с контроллером управления ДАМ
-    .suffix = Защищённый
-    .desc = Управляющий компьютер ДАМ.
+ent-CrateEngineeringAMEControl = ящик блока управления антиматерией
+    .desc = Блок управления реактором антиматерии.
 
-ent-CrateEngineeringSingularityEmitter = ящик с эмиттером
-    .suffix = Защищённый
-    .desc = Эмиттер, используемый в сингулярном двигателе.
+ent-CrateEngineeringSingularityEmitter = ящик эмиттера
+    .desc = Эмиттер, особенно полезен для двигателей на сингулярности.
 
-ent-CrateEngineeringSingularityCollector = ящик с коллектором радиации
-    .suffix = Защищённый
-    .desc = Коллектор для радиации, используемый в сингулярном двигателе. Плазма входит в комплект.
+ent-CrateEngineeringSingularityCollector = ящик коллектора радиации
+    .desc = Коллектор радиации, особенно полезен для двигателей на сингулярности. Плазма в комплекте.
 
-ent-CrateEngineeringSingularityContainment = ящик с генератором сдерживающего поля
-    .suffix = Защищённый
-    .desc = Генератор сдерживающего поля, удерживает сингулярность под контролем.
+ent-CrateEngineeringSingularityContainment = ящик генератора поля сдерживания
+    .desc = Генератор поля сдерживания, держит сингу в узде.
 
-ent-CrateEngineeringSingularityGenerator = ящик с генератором сингулярности
-    .suffix = Защищённый
-    .desc = Генератор сингулярности, матерь монстра.
+ent-CrateEngineeringSingularityGenerator = ящик генератора сингулярности
+    .desc = Генератор сингулярности, прародитель чудовища.
 
-ent-CrateEngineeringParticleAccelerator = ящик с ускорителем частиц
-    .suffix = Защищённый
-    .desc = Сложная в настройке, но чертовски полезная.
+ent-CrateEngineeringParticleAccelerator = ящик плат УЧ
+    .desc = Настраивать сложно, зато, блядь, какой результат. Содержит платы для всех компонентов ускорителя частиц.
 
-ent-CrateEngineeringSolar = ящик сборных солнечных панелей
-    .desc = Набор с упаковками и стеклом для строительства десяти солнечных панелей.
+ent-CrateEngineeringSolar = ящик солнечной сборки
+    .desc = Набор с упаковками солнечных панелей и стеклом для сборки десяти солнечных панелей.
 
-ent-CrateEngineeringTeslaGenerator = ящик с генератором Теслы
-    .suffix = Защищённый
-    .desc = Генератор Теслы. Храни вас Господь.
+ent-CrateEngineeringTeslaGenerator = ящик генератора теслы
+    .desc = Генератор теслы. Господь да хранит вас.
 
-ent-CrateEngineeringTeslaCoil = ящик с катушкой Теслы
-    .suffix = Защищённый
-    .desc = Катушка Теслы. Притягивает молнии и вырабатывает из них энергию.
+ent-CrateEngineeringTeslaCoil = ящик катушки теслы
+    .desc = Катушка теслы. Притягивает молнии и вырабатывает из них энергию.
 
-ent-CrateEngineeringTeslaGroundingRod = ящик с заземляющим стержнем Теслы
-    .suffix = Защищённый
-    .desc = Заземляющий стержень, идеален для защиты от молний.
+ent-CrateEngineeringTeslaGroundingRod = ящик заземляющего стержня теслы
+    .desc = Заземляющий стержень, лучшее средство защиты от молний.

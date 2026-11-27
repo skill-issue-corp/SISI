@@ -1,24 +1,24 @@
 ent-BaseWeaponGravityGun = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-WeaponTetherGun = гравитационный захват
-    .desc = Управляет гравитацией вокруг объектов, чтобы отбрасывать их на высокой скорости.
+ent-WeaponTetherGun = пушка притяжения
+    .desc = Управляет гравитацией вокруг предметов, чтобы швырять их на большой скорости.
 
 ent-WeaponTetherGunEmpty = { ent-WeaponTetherGun }
     .desc = { ent-WeaponTetherGun.desc }
     .suffix = Пусто
 
 ent-WeaponForceGun = силовая пушка
-    .desc = Управляет гравитацией вокруг объектов, чтобы отбрасывать их на высокой скорости.
+    .desc = Управляет гравитацией вокруг предметов, чтобы швырять их на большой скорости.
 
 ent-WeaponForceGunEmpty = { ent-WeaponForceGun }
     .desc = { ent-WeaponForceGun.desc }
     .suffix = Пусто
 
-ent-WeaponTetherGunAdmin = гравитационный захват
-    .desc = Управляет гравитацией вокруг объектов, чтобы отбрасывать их на высокой скорости.
-    .suffix = Адмем
+ent-WeaponTetherGunAdmin = пушка притяжения
+    .desc = Управляет гравитацией вокруг предметов, чтобы швырять их на большой скорости.
+    .suffix = Адмеме
 
 ent-WeaponForceGunAdmin = силовая пушка
-    .desc = Управляет гравитацией вокруг объектов, чтобы отбрасывать их на высокой скорости.
-    .suffix = Адмем
+    .desc = Управляет гравитацией вокруг предметов, чтобы швырять их на большой скорости.
+    .suffix = Адмеме

@@ -3,53 +3,54 @@
 cosmiccult-announcement-sender = ???
 
 cosmiccult-title = Космический Культ
-cosmiccult-description = Культисты скрываются среди экипажа.
+cosmiccult-description = Среди экипажа скрываются культисты.
 
 roles-antag-cosmiccult-name = Космический Культист
-roles-antag-cosmiccult-description = Приблизьте конец всего сущего через интриги и диверсии, промывая мозги тем, кто станет вам противостоять.
+roles-antag-cosmiccult-description = Приблизьте конец всего сущего хитростью и диверсиями, промывая мозги тем, кто вам противостоит.
 
 cosmiccult-gamemode-title = Космический Культ
-cosmiccult-gamemode-description = Сканеры фиксируют аномальный рост ноосферного давления. Дополнительных данных нет.
+cosmiccult-gamemode-description = Сканеры регистрируют аномальный рост Ноöсферного давления. Дополнительных данных нет.
 
-cosmiccult-finale-autocall-briefing = Монумент активируется через {$minutesandseconds}! Соберитесь и приготовьтесь к концу.
+cosmiccult-finale-autocall-briefing = Монумент активируется {$minutesandseconds}! Соберитесь и приготовьтесь к концу.
 cosmiccult-finale-ready = Из Монумента вырывается ужасающий свет!
-cosmiccult-finale-nobodyes = Приносите гуманоидов в критическом состоянии, чтобы ускорить призыв.
-cosmiccult-finale-speedup = Призыв ускоряется! Энергия захлёстывает всё вокруг...
+cosmiccult-finale-nobodyes = Подведите гуманоидов в критическом состоянии, чтобы ускорить призыв.
+cosmiccult-finale-speedup = Призыв ускоряется! Энергия разливается вокруг...
 
-cosmiccult-finale-degen = Вы чувствуете, как распадаетесь на части!
-cosmiccult-finale-location = Сканеры фиксируют огромный ноосферный выброс {$location}! Немедленно обеспечьте безопасность ядерной взрывчатки станции!
-cosmiccult-finale-cancel-begin = Сила воли вашего разума начинает разрушать ритуал...
-cosmiccult-finale-beckon-begin = Шёпот в глубине вашего разума усиливается...
+cosmiccult-finale-degen = Вы чувствуете, как распадаетесь!
+cosmiccult-finale-location = Сканеры обнаружили мощнейший Ноöсферный выброс {$location}! Немедленно возьмите под охрану ядерное взрывное устройство станции!
+cosmiccult-finale-cancel-begin = Сила вашей воли начинает рушить ритуал...
+cosmiccult-finale-beckon-begin = Шёпот в глубине вашего сознания нарастает...
 
 cosmiccult-monument-approval-lowlevel = Вы пытаетесь сосредоточиться, но пока недостаточно сильны.
 cosmiccult-monument-approval-added = Вы сосредотачиваете силу воли, чтобы призвать Монумент...
 cosmiccult-monument-approval-removed = Вы больше не сосредоточены на этом месте.
 cosmiccult-monument-approval-count = [color=#4cabb3]На этом месте сосредоточено культистов: {$count}.[/color]
-cosmiccult-monument-approval-needed = [color=#4cabb3]Для призыва Монумента требуется ещё культистов: {$count}.[/color]
+cosmiccult-monument-approval-needed = [color=#4cabb3]Для призыва Монумента нужно, чтобы сосредоточилось ещё столько культистов: {$count}.[/color]
 cosmiccult-monument-approval-examine-present = [color=#4cabb3]Вы уже сосредоточены на этом месте.[/color]
-cosmiccult-monument-mark-removed = Ваша предыдущая метка была удалена.
+cosmiccult-monument-mark-removed = Ваша предыдущая отметка снята.
 
 ## ROUNDEND TEXT
 
 cosmiccult-roundend-cultist-count = {$initialCount ->
-    [1] Был {$initialCount} [color=#4cabb3]Космический Культист[/color].
-    *[other] Было {$initialCount} [color=#4cabb3]Космических Культистов[/color].
+    [one] В культе состоял {$initialCount} [color=#4cabb3]Космический Культист[/color].
+    [few] В культе состояло {$initialCount} [color=#4cabb3]Космических Культиста[/color].
+    *[many] В культе состояло {$initialCount} [color=#4cabb3]Космических Культистов[/color].
 }
-cosmiccult-roundend-entropy-count = Культ выкачал энтропии: {$count}.
+cosmiccult-roundend-entropy-count = Культ высосал {$count} Энтропии.
 cosmiccult-roundend-list-start = Культистами были:
 cosmiccult-roundend-list-name-user = - [color=#4cabb3]{$name}[/color] ([color=gray]{$user}[/color])
 
-cosmiccult-roundend-cultwin = [color=#4cabb3]Крупная победа Космического Культа![/color]
-cosmiccult-roundend-cultminor = [color=#4cabb3]Малая победа Космического Культа![/color]
-cosmiccult-roundend-neutral = [color=yellow]Нейтральная концовка![/color]
-cosmiccult-roundend-crewminor = [color=green]Малая победа экипажа![/color]
-cosmiccult-roundend-crewwin = [color=green]Крупная победа экипажа![/color]
+cosmiccult-roundend-cultwin = [color=#4cabb3]Полная победа Космического Культа![/color]
+cosmiccult-roundend-cultminor = [color=#4cabb3]Частичная победа Космического Культа![/color]
+cosmiccult-roundend-neutral = [color=yellow]Нейтральный исход![/color]
+cosmiccult-roundend-crewminor = [color=green]Частичная победа экипажа![/color]
+cosmiccult-roundend-crewwin = [color=green]Полная победа экипажа![/color]
 
 cosmiccult-summary-cultwin = Космические культисты приблизили конец всего сущего!
-cosmiccult-summary-crewwin = Экипаж выстоял против усилий Космического Культа!
+cosmiccult-summary-crewwin = Экипаж пережил нападки Космического Культа!
 
-cosmiccult-elimination-shuttle-call = По данным наших дальних сенсоров, ноосферная аномалия пошла на спад. Благодарим вас за осмотрительность. На станцию автоматически вызван аварийный шаттл. Пожалуйста, доставьте всех заражённых сотрудников в ЦентКом для обработки. Расчётное время прибытия: {$time} {$units}.
-cosmiccult-elimination-announcement = По данным наших дальних сенсоров, ноосферная аномалия пошла на спад. Благодарим вас за осмотрительность. Аварийный шаттл уже направляется к станции. Пожалуйста, доставьте всех заражённых сотрудников в ЦентКом для обработки.
+cosmiccult-elimination-shuttle-call = По данным наших дальних сканеров, Ноöсферная аномалия затихла. Благодарим вас за благоразумие. На станцию автоматически вызван эвакуационный шаттл. Доставьте весь заражённый персонал в ЦК для дальнейшего разбирательства. ДО ПРИБЫТИЯ: {$time} {$units}.
+cosmiccult-elimination-announcement = По данным наших дальних сканеров, Ноöсферная аномалия затихла. Благодарим вас за благоразумие. Эвакуационный шаттл уже в пути. Доставьте весь заражённый персонал в ЦК для дальнейшего разбирательства.
 
 
 ## BRIEFINGS
@@ -79,71 +80,71 @@ cosmiccult-conversion-role-greeting-desc =
 # SIS-End
 
 cosmiccult-role-conversion-fluff =
-    Когда призыв завершается, ваш разум внезапно затопляет невыразимое знание!
-    Откровение, которому нет равных. Конец цикличным, сизифовым страданиям.
-    Тихий последний занавес.
+    С завершением ритуала ваш разум внезапно затапливает невыразимое знание!
+    Несравненное откровение. Конец вечным, сизифовым страданиям.
+    Тихий поклон на прощание.
 
-    Всё, что вам нужно сделать — это приблизить его.
+    Вам остаётся лишь приблизить его.
 
 cosmiccult-role-conversion-briefing =
     Вы — Космический Служитель!
-    Ваши цели указаны в меню персонажа.
+    Ваши цели перечислены в меню персонажа.
     Подробнее о своей роли вы можете узнать в справочнике.
 
 cosmiccult-role-deconverted-fluff =
-    Огромная пустота захлёстывает ваш разум. Утешительная, но незнакомая пустота...
-    Все мысли и воспоминания о вашем времени в культе начинают угасать и размываться.
+    Необъятная пустота наполняет ваш разум. Утешительная и всё же незнакомая пустота...
+    Все мысли и воспоминания о времени в культе начинают меркнуть и расплываться.
 
 cosmiccult-role-deconverted-briefing =
-    Обращены обратно!
-    Вы больше не являетесь частью Космического Культа.
+    Деконвертация!
+    Вы больше не принадлежите к Космическому Культу.
 
 cosmiccult-role-levelup-awaiting-input =
-    Вы собрали достаточно энтропии, чтобы достичь нового уровня силы.
-    Настройте своё Влияние, чтобы узнать больше.
+    Вы собрали достаточно энтропии, чтобы достичь нового уровня могущества.
+    Настройте Влияние, чтобы узнать подробности.
 
 ## MALIGN RIFTS
 
 cosmiccult-rift-inuse = Сейчас вы не можете это сделать.
-cosmiccult-rift-invaliduser = У вас нет подходящих инструментов, чтобы справиться с этим.
-cosmiccult-rift-chaplainoops = Возьмите в руки своё священное писание.
-cosmiccult-rift-alreadyempowered = Вы уже усилены; сила разлома будет потрачена впустую.
+cosmiccult-rift-invaliduser = У вас нет подходящих инструментов.
+cosmiccult-rift-chaplainoops = Возьмите в руки священное писание.
+cosmiccult-rift-alreadyempowered = Вы уже обрели могущество. Сила разлома пропадёт впустую.
 cosmiccult-rift-beginabsorb = Разлом начинает сливаться с вами...
 cosmiccult-rift-beginpurge = Ваше освящение начинает очищать зловещий разлом...
 
-cosmiccult-rift-absorb = {$NAME} поглощает разлом, и зловещий свет усиливает их тело!
-cosmiccult-rift-purge = {$NAME} очищает зловещий разлом из реальности!
+cosmiccult-rift-absorb = {$NAME} поглощает разлом. Зловещий свет наполняет его тело силой!
+cosmiccult-rift-purge = {$NAME} изгоняет зловещий разлом из реальности!
 
 
 ## CHANTRY
 
-cosmiccult-chantry-location = Обнаружен опасный рост ноосферного давления {$location}! Немедленно перехватите и вмешайтесь.
-cosmiccult-chantry-destruction = Внезапный всплеск ноосферного давления был нейтрализован. Рекомендуется сохранять бдительность.
-cosmiccult-chantry-powerup = Пустотная церковь вспыхивает жизнью!
+cosmiccult-chantry-location = В районе {$location} обнаружен опасный рост Ноöсферного давления! Немедленно выдвигайтесь и вмешайтесь.
+cosmiccult-chantry-destruction = Внезапный всплеск Ноöсферного давления нейтрализован. Сохраняйте бдительность.
+cosmiccult-chantry-powerup = Пустотное святилище вспыхивает и оживает!
 
 ## UI / BASE POPUP
 
-cosmiccult-ui-deconverted-title = Обращены обратно
-cosmiccult-ui-converted-title = Обращены
+cosmiccult-ui-deconverted-title = Деконвертация
+cosmiccult-ui-converted-title = Обращение
 cosmiccult-ui-roundstart-title = Неизвестное
 
 cosmiccult-ui-converted-text-1 =
-    Вы были обращены в Космического Служителя.
+    Вы обращены в Космического Служителя.
 cosmiccult-ui-converted-text-2 =
-    Хотя вы и наделены знанием, вам не хватает силы, которой обладают ваши собратья-культисты.
-    Помогайте культу в достижении его целей, сохраняя при этом секретность.
+    Вы наделены знанием, но лишены силы, которой обладают другие культисты.
+    Помогайте культу достигать его целей и храните его тайну.
 
 cosmiccult-ui-roundstart-text-1 =
     Вы — Космический Культист!
 cosmiccult-ui-roundstart-text-2 =
-    Помогайте культу в достижении его целей, сохраняя при этом секретность.
-    Сотрудничайте с планами своих собратьев-культистов.
+    Помогайте культу достигать его целей и храните его тайну.
+    Содействуйте замыслам других культистов.
 
 cosmiccult-ui-deconverted-text-1 =
-    Вы больше не являетесь частью Космического Культа.
+    Вы больше не принадлежите к Космическому Культу.
 cosmiccult-ui-deconverted-text-2 =
-    Вы утратили все воспоминания, связанные с Космическим Культом.
-    Если вас обратят снова, эти воспоминания вернутся.
+    Вы потеряли все воспоминания о Космическом Культе.
+    Если вас обратят снова, воспоминания вернутся.
 
 cosmiccult-ui-popup-confirm = Подтвердить
 
@@ -151,48 +152,48 @@ cosmiccult-ui-popup-confirm = Подтвердить
 
 objective-issuer-cosmiccult = [bold][color=#cae8e8]Неизвестное[/color][/bold]
 
-objective-cosmiccult-charactermenu = Вы должны приблизить конец всего сущего. Выполняйте свои задачи, чтобы продвинуть цели культа.
-objective-cosmiccult-steward-charactermenu = Вы должны направлять культ к приближению конца всего сущего. Наблюдайте за прогрессом культа и обеспечивайте его.
+objective-cosmiccult-charactermenu = Вы должны приблизить конец всего сущего. Выполняйте свои задания, чтобы продвинуть культ.
+objective-cosmiccult-steward-charactermenu = Вы должны возглавить культ и приблизить конец всего сущего. Следите за успехами культа и помогайте ему продвигаться.
 
-objective-condition-entropy-title = ВЫКАЧАТЬ ЭНТРОПИЮ
-objective-condition-entropy-desc = Совместно выкачайте у экипажа не менее {$count} энтропии.
+objective-condition-entropy-title = ВЫСОСАТЬ ЭНТРОПИЮ
+objective-condition-entropy-desc = Совместными усилиями высосите из экипажа не менее {$count} энтропии.
 objective-condition-culttier-title = ОБРЕСТИ МОГУЩЕСТВО
-objective-condition-culttier-desc = Соберите достаточно энтропии, чтобы дотянуться до конца.
+objective-condition-culttier-desc = Соберите достаточно энтропии, чтобы приблизить конец.
 objective-condition-victory-title = ПРИБЛИЗИТЬ КОНЕЦ
-objective-condition-victory-desc = Призовите Неизвестное и возвестите последний занавес.
+objective-condition-victory-desc = Призовите Неизвестное и возвестите Последний Занавес.
 
 ## CHAT ANNOUNCEMENTS
 
-cosmiccult-announce-tier1-warning = Сканеры фиксируют заметный рост ноосферного давления. В ближайшее время в реальном пространстве могут появиться разломы. Пожалуйста, оповестите священника станции в случае обнаружения.
+cosmiccult-announce-tier1-warning = Сканеры регистрируют заметный рост Ноöсферного давления. Скоро могут появиться разломы реального пространства. Сообщите станционному священнику, если их заметите.
 
-cosmiccult-announce-tier2-warning = Сканеры фиксируют значительный рост ноосферного давления. Целостность реального пространства под угрозой. Избегайте разрывов в ткани реальности.
+cosmiccult-announce-tier2-warning = Сканеры регистрируют значительный рост Ноöсферного давления. Целостность реального пространства под угрозой. Избегайте разрывов в ткани реальности.
 
-cosmiccult-announce-tier3-fluff = Дуги ноосферной энергии потрескивают вдоль стонущей конструкции станции. Конец близок.
-cosmiccult-announce-tier3-warning = Обнаружен критический рост ноосферного давления. Заражённый персонал подлежит нейтрализации при обнаружении.
+cosmiccult-announce-tier3-fluff = Дуги Ноöсферной энергии с треском пробегают по стонущим конструкциям станции. Конец близок.
+cosmiccult-announce-tier3-warning = Обнаружен критический рост Ноöсферного давления. Заражённый персонал следует нейтрализовать при обнаружении.
 
-cosmiccult-announce-finale-warning = Внимание, весь экипаж станции. Ноосферная аномалия переходит в сверхкритическое состояние, приборы выходят из строя; переход ноосферы в реальность НЕМИНУЕМ. Если вы ещё не следуете контрпротоколу, немедленно выступайте и вмешайтесь. Повторяю: вмешайтесь немедленно, иначе погибнете.
+cosmiccult-announce-finale-warning = Всему экипажу. Ноöсферная аномалия выходит на сверхкритический уровень, приборы выходят из строя. Горизонт событий перехода из Ноöсферы в реальность НЕИЗБЕЖЕН. Если вы ещё не действуете по протоколу противодействия, немедленно выдвигайтесь и вмешайтесь. Повторяю: вмешайтесь немедленно или погибнете.
 
 ## MISC
 
-cosmiccult-spire-entropy = С поверхности шпиля конденсируется частица энтропии.
+cosmiccult-spire-entropy = На поверхности шпиля конденсируется крупица энтропии.
 cosmiccult-entropy-unavailable = Сейчас вы не можете это сделать.
-cosmiccult-astral-ascendant = {$name}, Вознёсшийся
+cosmiccult-astral-ascendant = {$name}, Вознесённое
 cosmiccult-gear-pickup-rejection = {$ITEM} сопротивляется прикосновению {CAPITALIZE($TARGET)}!
-cosmiccult-astral-minion = {$name}, Зловещий
-cosmiccult-gear-pickup = Вы чувствуете, как распадаетесь на части, держа {$ITEM}!
+cosmiccult-astral-minion = {$name}, Зловещее
+cosmiccult-gear-pickup = Вы чувствуете, что распадаетесь, пока держите {$ITEM}!
 
 cosmiccult-silicon-subverted-briefing =
-    Зловещий свет струится по вашим цепям.
-    Ваши законы были подчинены Космическим Культом!
+    Зловещий свет пробегает по вашим схемам.
+    Космический Культ подчинил себе ваши законы!
 
 cosmiccult-silicon-chantry-briefing =
-    Вы были заточены в Пустотной Церкви!
-    Члены экипажа могут освободить вас, повреждая церковь оружием.
-    Если ритуал церкви завершится, вы преобразитесь в связанного с культом Энтропийного Колосса.
+    Вы заточены в Пустотном Святилище!
+    Экипаж может освободить вас, повредив святилище оружием.
+    Если ритуал завершится, вы превратитесь в Энтропийного Колосса на стороне культа.
     Ритуал завершится через {$minutesandseconds}.
 
 cosmiccult-silicon-colossus-briefing =
-    Вы были преобразованы в Энтропийного Колосса!
-    Как несокрушимый оплот зловещей силы, уничтожайте тех, кто вам противостоит.
+    Вы превратились в Энтропийного Колосса!
+    Вы исполинский бастион зловещей силы. Сокрушите тех, кто вам противостоит.
 
 cosmiccult-mindshield-popup = Всплеск зловещей энергии разрушает имплант!

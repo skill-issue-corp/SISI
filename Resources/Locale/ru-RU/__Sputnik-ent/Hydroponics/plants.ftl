@@ -4,16 +4,16 @@ ent-BasePlant = { "" }
 ent-WheatPlants = стебель пшеницы
     .desc = { ent-BasePlant.desc }
 
-ent-MeatWheatPlants = стебель мясопшеницы
+ent-MeatWheatPlants = стебель мясной пшеницы
     .desc = { ent-BasePlant.desc }
 
-ent-OatPlants = овсяной стебель
+ent-OatPlants = стебель овса
     .desc = { ent-BasePlant.desc }
 
-ent-BananaPlants = банановый куст
+ent-BananaPlants = банановое растение
     .desc = { ent-BasePlant.desc }
 
-ent-MimanaPlants = мимановый куст
+ent-MimanaPlants = мимана
     .desc = { ent-BasePlant.desc }
 
 ent-CarrotPlants = морковь
@@ -25,7 +25,7 @@ ent-LaughinPeaPlants = смешливый горох
 ent-LemonPlants = лимонное дерево
     .desc = { ent-BasePlant.desc }
 
-ent-LemoonPlants = лунолимонное дерево
+ent-LemoonPlants = дерево лунолимона
     .desc = { ent-BasePlant.desc }
 
 ent-LimePlants = лаймовое дерево
@@ -37,10 +37,10 @@ ent-OrangePlants = апельсиновое дерево
 ent-ExtradimensionalOrangePlants = внепространственное апельсиновое дерево
     .desc = { ent-BasePlant.desc }
 
-ent-PineapplePlants = ананасовый куст
+ent-PineapplePlants = ананас
     .desc = { ent-BasePlant.desc }
 
-ent-PotatoPlants = картошка
+ent-PotatoPlants = картофель
     .desc = { ent-BasePlant.desc }
 
 ent-SugarcanePlants = сахарный тростник
@@ -52,22 +52,22 @@ ent-TeaPlantPlants = чайный куст
 ent-PapercanePlants = бумажный тростник
     .desc = { ent-BasePlant.desc }
 
-ent-TowercapPlants = грибошляпник
+ent-TowercapPlants = башнегриб
     .desc = { ent-BasePlant.desc }
 
-ent-SteelcapPlants = сталешляпник
+ent-SteelcapPlants = сталегриб
     .desc = { ent-BasePlant.desc }
 
-ent-TomatoPlants = куст томата
+ent-TomatoPlants = томатный куст
     .desc = { ent-BasePlant.desc }
 
-ent-BlueTomatoPlants = куст синего томата
+ent-BlueTomatoPlants = куст синих томатов
     .desc = { ent-BasePlant.desc }
 
-ent-BloodTomatoPlants = куст кровяного томата
+ent-BloodTomatoPlants = куст кровавых томатов
     .desc = { ent-BasePlant.desc }
 
-ent-KillerTomatoPlants = куст томата-убийцы
+ent-KillerTomatoPlants = куст томатов-убийц
     .desc = { ent-BasePlant.desc }
 
 ent-EggplantPlants = баклажан
@@ -76,7 +76,7 @@ ent-EggplantPlants = баклажан
 ent-CabbagePlants = капуста
     .desc = { ent-BasePlant.desc }
 
-ent-GarlicPlants = чеснок
+ent-GarlicPlants = головка чеснока
     .desc = { ent-BasePlant.desc }
 
 ent-ApplePlants = яблоня
@@ -85,7 +85,7 @@ ent-ApplePlants = яблоня
 ent-GoldenApplePlants = золотая яблоня
     .desc = { ent-BasePlant.desc }
 
-ent-CornPlants = початок кукурузы
+ent-CornPlants = кукурузный початок
     .desc = { ent-BasePlant.desc }
 
 ent-OnionPlants = лук
@@ -94,10 +94,10 @@ ent-OnionPlants = лук
 ent-OnionRedPlants = красный лук
     .desc = { ent-BasePlant.desc }
 
-ent-ChanterellePlants = гриб-лисичка
+ent-ChanterellePlants = лисичка
     .desc = { ent-BasePlant.desc }
 
-ent-EggyPlants = яйцефрут
+ent-EggyPlants = яйцекуст
     .desc = { ent-BasePlant.desc }
 
 ent-CannabisPlants = конопля
@@ -106,19 +106,19 @@ ent-CannabisPlants = конопля
 ent-RainbowCannabisPlants = радужная конопля
     .desc = { ent-BasePlant.desc }
 
-ent-TobaccoPlants = табачный куст
+ent-TobaccoPlants = табак
     .desc = { ent-BasePlant.desc }
 
 ent-NettlePlants = крапива
     .desc = { ent-BasePlant.desc }
 
-ent-DeathNettlePlants = смертокрапива
+ent-DeathNettlePlants = смертоносная крапива
     .desc = { ent-BasePlant.desc }
 
 ent-ChiliPlants = перец чили
     .desc = { ent-BasePlant.desc }
 
-ent-ChillyPlants = перец чилли
+ent-ChillyPlants = морозный перец
     .desc = { ent-BasePlant.desc }
 
 ent-PoppyPlants = мак
@@ -142,55 +142,55 @@ ent-AmbrosiaDeusPlants = амброзия деус
 ent-GalaxythistlePlants = галактический чертополох
     .desc = { ent-BasePlant.desc }
 
-ent-GlasstlePlants = стеклочертополох
+ent-GlasstlePlants = стеклянный чертополох
     .desc = { ent-BasePlant.desc }
 
 ent-FlyAmanitaPlants = мухомор
     .desc = { ent-BasePlant.desc }
 
-ent-GatfruitPlants = гатфруктовое дерево
+ent-GatfruitPlants = дерево пушкоплодов
     .desc = { ent-BasePlant.desc }
 
-ent-FakeCapfruitPlants = пистофруктовое дерево
+ent-FakeCapfruitPlants = дерево пистоноплодов
     .desc = { ent-BasePlant.desc }
 
-ent-RealCapfruitPlants = пистофруктовое дерево
+ent-RealCapfruitPlants = дерево пистоноплодов
     .desc = { ent-BasePlant.desc }
 
-ent-RicePlants = рисовый стебель
+ent-RicePlants = стебель риса
     .desc = { ent-BasePlant.desc }
 
 ent-SoybeanPlants = соя
     .desc = { ent-BasePlant.desc }
 
-ent-SpacemansTrumpetPlants = космонавтская труба
+ent-SpacemansTrumpetPlants = труба космонавта
     .desc = { ent-BasePlant.desc }
 
-ent-KoibeanPlants = коибобы
+ent-KoibeanPlants = куст кои-бобов
     .desc = { ent-BasePlant.desc }
 
 ent-GrapePlants = виноград
     .desc = { ent-BasePlant.desc }
 
-ent-WatermelonPlants = арбузная лоза
+ent-WatermelonPlants = арбузная плеть
     .desc = { ent-BasePlant.desc }
 
-ent-HolymelonPlants = лоза святого арбуза
+ent-HolymelonPlants = плеть священного арбуза
     .desc = { ent-BasePlant.desc }
 
-ent-CocoaPlants = шоколадное дерево
+ent-CocoaPlants = какао
     .desc = { ent-BasePlant.desc }
 
 ent-BerryPlants = ягодный куст
     .desc = { ent-BasePlant.desc }
 
-ent-BungoPlants = куст бунго
+ent-BungoPlants = бунго
     .desc = { ent-BasePlant.desc }
 
-ent-PeaPlants = гороховая лоза
+ent-PeaPlants = плеть гороха
     .desc = { ent-BasePlant.desc }
 
-ent-WorldPeaPlants = лоза мирового гороха
+ent-WorldPeaPlants = плеть всемирного гороха
     .desc = { ent-BasePlant.desc }
 
 ent-PumpkinPlants = тыква
@@ -199,10 +199,10 @@ ent-PumpkinPlants = тыква
 ent-BluePumpkinPlants = синяя тыква
     .desc = { ent-BasePlant.desc }
 
-ent-CottonPlants = куст хлопка
+ent-CottonPlants = хлопчатник
     .desc = { ent-BasePlant.desc }
 
-ent-PyrottonPlants = куст пирохлопка
+ent-PyrottonPlants = огнехлопчатник
     .desc = { ent-BasePlant.desc }
 
 ent-CherryPlants = вишнёвое дерево
@@ -211,5 +211,5 @@ ent-CherryPlants = вишнёвое дерево
 ent-AnomalyBerryPlants = аномальная ягода
     .desc = { ent-BasePlant.desc }
 
-ent-BloonionPlants = лук-летун
+ent-BloonionPlants = луковица шаролука
     .desc = { ent-BasePlant.desc }

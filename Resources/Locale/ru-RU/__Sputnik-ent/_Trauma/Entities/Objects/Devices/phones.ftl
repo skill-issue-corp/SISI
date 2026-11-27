@@ -1,86 +1,115 @@
 ent-RotaryPhone = телефон
     .desc = это телефон
-ent-RotaryPhoneStand = телефонная подставка
-    .desc = это телефонная подставка
+
+ent-RotaryPhoneStand = подставка для телефона
+    .desc = это подставка для телефона
+
 ent-RotaryPhoneStandNoRot = { ent-RotaryPhoneStand }
     .desc = { ent-RotaryPhoneStand.desc }
+
 ent-RMCRotaryPhoneWallmount = настенный телефон
-    .desc = Это настенный телефон. Мелкий текст гласит: чтобы зарегистрировать свои данные в мейнфрейме, вставьте вашу карту-ключ в разъём ниже. К сожалению, разъём заклинило. Однако телефоном всё же можно пользоваться.
+    .desc = Это настенный телефон. Мелким шрифтом написано: «Чтобы зарегистрировать свои данные в центральном компьютере, вставьте ключ-карту в слот ниже». К сожалению, слот заклинило. Но телефоном всё ещё можно пользоваться.
+
 ent-RotaryPhoneCommand = { ent-RotaryPhone }
     .desc = { ent-RotaryPhone.desc }
     .suffix = Командование
+
 ent-RotaryPhoneSecurity = { ent-RotaryPhone }
     .desc = { ent-RotaryPhone.desc }
-    .suffix = Служба безопасности
+    .suffix = Служба Безопасности
+
 ent-RotaryPhoneSecurity911 = { ent-RotaryPhone }
     .desc = { ent-RotaryPhone.desc }
-    .suffix = Служба безопасности
+    .suffix = Служба Безопасности
+
 ent-RotaryPhoneEngineering = { ent-RotaryPhone }
     .desc = { ent-RotaryPhone.desc }
-    .suffix = Инженерный отдел
+    .suffix = Инженерный Отдел
+
 ent-RotaryPhoneCargo = { ent-RotaryPhone }
     .desc = { ent-RotaryPhone.desc }
-    .suffix = Снабжение
+    .suffix = Карго
+
 ent-RotaryPhoneMedical = { ent-RotaryPhone }
     .desc = { ent-RotaryPhone.desc }
-    .suffix = Медицинский отдел
+    .suffix = Медотсек
+
 ent-RotaryPhoneScience = { ent-RotaryPhone }
     .desc = { ent-RotaryPhone.desc }
-    .suffix = Научный отдел
+    .suffix = Наука
+
 ent-RotaryPhoneService = { ent-RotaryPhone }
     .desc = { ent-RotaryPhone.desc }
-    .suffix = Сфера обслуживания
+    .suffix = Обслуживание
+
 ent-RotaryPhoneHidden = { ent-RotaryPhone }
     .desc = { ent-RotaryPhone.desc }
     .suffix = Скрытый
+
 ent-RotaryPhoneStandCommand = { ent-RotaryPhoneStandNoRot }
     .desc = { ent-RotaryPhoneStandNoRot.desc }
     .suffix = Командование
+
 ent-RotaryPhoneStandSecurity = { ent-RotaryPhoneStandNoRot }
     .desc = { ent-RotaryPhoneStandNoRot.desc }
-    .suffix = Служба безопасности
+    .suffix = Служба Безопасности
+
 ent-RotaryPhoneStandSecurity911 = { ent-RotaryPhoneStandNoRot }
     .desc = { ent-RotaryPhoneStandNoRot.desc }
-    .suffix = Служба безопасности (911)
+    .suffix = СБ (911)
+
 ent-RotaryPhoneStandMedical = { ent-RotaryPhoneStandNoRot }
     .desc = { ent-RotaryPhoneStandNoRot.desc }
-    .suffix = Медицинский отдел
+    .suffix = Медотсек
+
 ent-RotaryPhoneStandEngineering = { ent-RotaryPhoneStandNoRot }
     .desc = { ent-RotaryPhoneStandNoRot.desc }
-    .suffix = Инженерный отдел
+    .suffix = Инженерный Отдел
+
 ent-RotaryPhoneStandCargo = { ent-RotaryPhoneStandNoRot }
     .desc = { ent-RotaryPhoneStandNoRot.desc }
-    .suffix = Снабжение
+    .suffix = Карго
+
 ent-RotaryPhoneStandScience = { ent-RotaryPhoneStandNoRot }
     .desc = { ent-RotaryPhoneStandNoRot.desc }
-    .suffix = Научный отдел
+    .suffix = Наука
+
 ent-RotaryPhoneStandService = { ent-RotaryPhoneStandNoRot }
     .desc = { ent-RotaryPhoneStandNoRot.desc }
-    .suffix = Сфера обслуживания
+    .suffix = Обслуживание
+
 ent-RotaryPhoneStandHidden = { ent-RotaryPhoneStandNoRot }
     .desc = { ent-RotaryPhoneStandNoRot.desc }
     .suffix = Скрытый
+
 ent-RotaryPhoneStandWallCommand = { ent-RMCRotaryPhoneWallmount }
     .desc = { ent-RMCRotaryPhoneWallmount.desc }
     .suffix = Командование
+
 ent-RotaryPhoneStandWallSecurity = { ent-RMCRotaryPhoneWallmount }
     .desc = { ent-RMCRotaryPhoneWallmount.desc }
-    .suffix = Служба безопасности
+    .suffix = Служба Безопасности
+
 ent-RotaryPhoneStandWallMedical = { ent-RMCRotaryPhoneWallmount }
     .desc = { ent-RMCRotaryPhoneWallmount.desc }
-    .suffix = Медицинский отдел
+    .suffix = Медотсек
+
 ent-RotaryPhoneStandWallEngineering = { ent-RMCRotaryPhoneWallmount }
     .desc = { ent-RMCRotaryPhoneWallmount.desc }
-    .suffix = Инженерный отдел
+    .suffix = Инженерный Отдел
+
 ent-RotaryPhoneStandWallCargo = { ent-RMCRotaryPhoneWallmount }
     .desc = { ent-RMCRotaryPhoneWallmount.desc }
-    .suffix = Снабжение
+    .suffix = Карго
+
 ent-RotaryPhoneStandWallScience = { ent-RMCRotaryPhoneWallmount }
     .desc = { ent-RMCRotaryPhoneWallmount.desc }
-    .suffix = Научный отдел
+    .suffix = Наука
+
 ent-RotaryPhoneStandWallService = { ent-RMCRotaryPhoneWallmount }
     .desc = { ent-RMCRotaryPhoneWallmount.desc }
-    .suffix = Сфера обслуживания
+    .suffix = Обслуживание
+
 ent-RotaryPhoneStandWallHidden = { ent-RMCRotaryPhoneWallmount }
     .desc = { ent-RMCRotaryPhoneWallmount.desc }
     .suffix = Скрытый

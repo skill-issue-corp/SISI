@@ -1,13 +1,18 @@
 ent-BaseMagazineRifle = магазин (.20 винтовочные)
     .desc = { ent-BaseItem.desc }
+
 ent-MagazineRifle = магазин (.20 винтовочные)
-    .desc = { ent-BaseMagazineRifle.desc }
+    .desc = Двухрядный магазин на 25 патронов для боевых винтовок. Предназначен для обычных кинетических боеприпасов.
+
 ent-MagazineRifleEmpty = магазин (.20 винтовочные любые)
-    .suffix = Пустой
-    .desc = { ent-MagazineRifle.desc }
+    .desc = Двухрядный магазин на 25 патронов для боевых винтовок.
+    .suffix = пусто
+
 ent-MagazineRifleIncendiary = магазин (.20 винтовочные зажигательные)
-    .desc = { ent-MagazineRifle.desc }
+    .desc = Двухрядный магазин на 25 патронов для боевых винтовок. Предназначен для самовоспламеняющихся зажигательных боеприпасов.
+
 ent-MagazineRiflePractice = магазин (.20 винтовочные учебные)
-    .desc = { ent-BaseMagazineRifle.desc }
+    .desc = Двухрядный магазин на 25 патронов для боевых винтовок. Предназначен для безвредных учебных боеприпасов.
+
 ent-MagazineRifleUranium = магазин (.20 винтовочные урановые)
-    .desc = { ent-BaseMagazineRifle.desc }
+    .desc = Двухрядный магазин на 25 патронов для боевых винтовок. Предназначен для экзотических боеприпасов с урановым сердечником.

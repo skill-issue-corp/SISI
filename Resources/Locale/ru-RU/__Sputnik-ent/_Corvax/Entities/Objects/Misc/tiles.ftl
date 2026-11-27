@@ -1,36 +1,53 @@
 ent-FloorTileItemWoodParquet = деревянный паркет
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodBlack = деревянный чёрный пол
+
+ent-FloorTileItemWoodBlack = чёрный деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodDark = деревянный тёмный пол
+
+ent-FloorTileItemWoodDark = тёмный деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodLight = деревянный светлый пол
+
+ent-FloorTileItemWoodLight = белый деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodRed = деревянный красный пол
+
+ent-FloorTileItemWoodRed = красный деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodLargeBlack = большой деревянный чёрный пол
+
+ent-FloorTileItemWoodLargeBlack = чёрный деревянный пол из широких досок
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodLargeDark = большой деревянный тёмный пол
+
+ent-FloorTileItemWoodLargeDark = тёмный деревянный пол из широких досок
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodLargeLight = большой деревянный светлый пол
+
+ent-FloorTileItemWoodLargeLight = светлый деревянный пол из широких досок
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodLargeRed = большой деревянный красный пол
+
+ent-FloorTileItemWoodLargeRed = красный деревянный пол из широких досок
     .desc = { ent-FloorTileItemBase.desc }
+
 ent-FloorTileItemWoodParquetBlack = чёрный деревянный паркет
     .desc = { ent-FloorTileItemBase.desc }
+
 ent-FloorTileItemWoodParquetDark = тёмный деревянный паркет
     .desc = { ent-FloorTileItemBase.desc }
+
 ent-FloorTileItemWoodParquetLight = светлый деревянный паркет
     .desc = { ent-FloorTileItemBase.desc }
+
 ent-FloorTileItemWoodParquetRed = красный деревянный паркет
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodChess = деревянный шахматный пол
+
+ent-FloorTileItemWoodChess = клетчатый деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodChessBlack = чёрный деревянный шахматный пол
+
+ent-FloorTileItemWoodChessBlack = чёрный клетчатый деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodChessDark = тёмный деревянный шахматный пол
+
+ent-FloorTileItemWoodChessDark = тёмный клетчатый деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodChessLight = светлый деревянный шахматный пол
+
+ent-FloorTileItemWoodChessLight = светлый клетчатый деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
-ent-FloorTileItemWoodChessRed = красный деревянный шахматный пол
+
+ent-FloorTileItemWoodChessRed = красный клетчатый деревянный пол
     .desc = { ent-FloorTileItemBase.desc }

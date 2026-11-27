@@ -1,8 +1,8 @@
-ent-CigCartonSyndicate = блок Interdyne Herbals
-    .desc = Блок, содержащий 6 пачек Interdyne Herbals.
+ent-CigCartonSyndicate = блок сигарет «Интердайн Хербалс»
+    .desc = Блок из 6 пачек сигарет «Интердайн Хербалс».
 
-ent-CigCartonBotany = блок Hydroponic Herbals
-    .desc = Блок, содержащий 6 пачек Hydroponic Herbals.
+ent-CigCartonBotany = блок «Гидропонных Травяных»
+    .desc = Блок из 6 пачек «Гидропонных Травяных».
 
-ent-CigCartonMedical = блок Chemlab menthols
-    .desc = Блок, содержащий 6 пачек Chemlab menthols.
+ent-CigCartonMedical = блок ментоловых сигарет «ХимЛаб»
+    .desc = Блок из 6 пачек ментоловых сигарет «ХимЛаб».

@@ -3,14 +3,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-collective-mind-dragon = Разум Дракона
+collective-mind-dragon = Рыбий Разум
 collective-mind-lingmind = Разум Улья
-collective-mind-tidemind = Разум Грейтайдов
-collective-mind-blobmind = Разум Блоба
+collective-mind-tidemind = Коллективный Разум Тайдеров
+collective-mind-blobmind = Коллективный Разум Блоба
 collective-mind-mansus-link = Связь Мансуса
-collective-mind-abductormind = Разум Серых
-collective-mind-binary = Двоичный разум
-collective-mind-mousemind = Разум Мышей
-collective-mind-bingle = Связь Бинглов
-collective-mind-shadow-mind = Разум Теней
+collective-mind-abductormind = Глорп-разум
+collective-mind-binary = Двоичный
+collective-mind-mousemind = Писк-разум
+collective-mind-bingle = Коллективный Разум Бинглов
+collective-mind-shadow-mind = Разум Тьмы
 collective-mind-xeno = Разум Улья

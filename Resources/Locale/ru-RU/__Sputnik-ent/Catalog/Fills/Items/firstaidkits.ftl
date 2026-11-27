@@ -1,27 +1,35 @@
 ent-MedkitFilled = { ent-Medkit }
-    .suffix = Заполненная
     .desc = { ent-Medkit.desc }
+    .suffix = Заполнено
+
 ent-MedkitBurnFilled = { ent-MedkitBurn }
-    .suffix = Заполненная
     .desc = { ent-MedkitBurn.desc }
+    .suffix = Заполнено
+
 ent-MedkitBruteFilled = { ent-MedkitBrute }
-    .suffix = Заполненная
     .desc = { ent-MedkitBrute.desc }
+    .suffix = Заполнено
+
 ent-MedkitToxinFilled = { ent-MedkitToxin }
-    .suffix = Заполненная
     .desc = { ent-MedkitToxin.desc }
+    .suffix = Заполнено
+
 ent-MedkitOxygenFilled = { ent-MedkitO2 }
-    .suffix = Заполненная
     .desc = { ent-MedkitO2.desc }
+    .suffix = Заполнено
+
 ent-MedkitRadiationFilled = { ent-MedkitRadiation }
-    .suffix = Заполненная
     .desc = { ent-MedkitRadiation.desc }
+    .suffix = Заполнено
+
 ent-MedkitAdvancedFilled = { ent-MedkitAdvanced }
-    .suffix = Заполненная
     .desc = { ent-MedkitAdvanced.desc }
+    .suffix = Заполнено
+
 ent-MedkitCombatFilled = { ent-MedkitCombat }
-    .suffix = Заполненная
     .desc = { ent-MedkitCombat.desc }
+    .suffix = Заполнено
+
 ent-StimkitFilled = { ent-Medkit }
-    .suffix = Стимпак, Заполненная
     .desc = { ent-Medkit.desc }
+    .suffix = Аптечка стимуляторов, Заполнено

@@ -1,8 +1,8 @@
 ent-DisposalUnitBase = { ent-BaseMachinePowered }
-    .desc = Пневматическая установка для утилизации отходов.
+    .desc = Пневматическое устройство для сброса мусора.
 
-ent-DisposalUnit = утилизационный блок
+ent-DisposalUnit = мусоросброс
     .desc = { ent-DisposalUnitBase.desc }
 
-ent-MailingUnit = почтовый блок
-    .desc = Пневматическая установка для доставки почты.
+ent-MailingUnit = почтовый терминал
+    .desc = Пневматическое устройство для доставки почты.

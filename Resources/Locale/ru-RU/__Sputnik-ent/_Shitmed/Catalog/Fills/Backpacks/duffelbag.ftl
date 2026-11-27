@@ -1,2 +1,2 @@
-ent-ClothingBackpackDuffelAbductorFilled = вещмешок для инопланетных инструментов
-    .desc = Обычная хирургическая сумка, сотканная из прочного волокна.
+ent-ClothingBackpackDuffelAbductorFilled = инопланетный хирургический вещмешок
+    .desc = Обычный хирургический вещмешок, сшитый из прочного волокна.

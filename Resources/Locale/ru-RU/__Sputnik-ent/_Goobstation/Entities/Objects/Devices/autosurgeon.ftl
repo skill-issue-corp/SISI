@@ -1,30 +1,32 @@
 ent-BaseAutosurgeon = { ent-BaseStructure }
-    .desc = Одноразовая автооперация для замены или улучшения ваших частей кибернетическими имплантами. Разорвите эту станцию и сделайте её частью себя.
-ent-BaseAutosurgeonSingle = { ent-BaseAutosurgeon }
-    .desc = A single-use autosurgeon for replacing or upgrading your parts with cybernetic implants. Rip that station apart and make it a part of you.
-ent-BaseAutosurgeonMultiple = { ent-BaseAutosurgeon }
-    .desc = A single-use autosurgeon for replacing or upgrading your parts with cybernetic implants. Rip that station apart and make it a part of you.
-ent-BaseAutosurgeonSyndicateSingle = { ent-BaseAutosurgeonSingle }
-    .desc = { ent-BaseAutosurgeonSingle.desc }
-ent-BaseAutosurgeonSyndicateMultiple = { ent-BaseAutosurgeonMultiple }
-    .desc = { ent-BaseAutosurgeonMultiple.desc }
+    .desc = Одноразовый автохирург для замены или улучшения частей вашего тела киберимплантами. Разберите станцию на части и сделайте её частью себя.
+
 ent-BaseAutosurgeonSyndicate = { ent-BaseAutosurgeon }
     .desc = { ent-BaseAutosurgeon.desc }
-ent-AutosurgeonRightSpeedLeg = автооперацию (правая нога Б.Е.Г.У.Н)
+
+ent-AutosurgeonRightSpeedLeg = автохирург (правая нога S.P.E.E.D)
     .desc = { ent-BaseAutosurgeon.desc }
-ent-AutosurgeonLeftSpeedLeg = автооперацию (левая нога Б.Е.Г.У.Н)
+
+ent-AutosurgeonLeftSpeedLeg = автохирург (левая нога S.P.E.E.D)
     .desc = { ent-BaseAutosurgeon.desc }
-ent-AutosurgeonRightMantisBlade = автооперацию синдиката (правые клинки богомола)
+
+ent-AutosurgeonRightMantisBlade = автохирург синдиката (правый клинок богомола)
     .desc = { ent-BaseAutosurgeonSyndicate.desc }
-ent-AutosurgeonLeftMantisBlade = автооперацию синдиката (левые клинки богомола)
+
+ent-AutosurgeonLeftMantisBlade = автохирург синдиката (левый клинок богомола)
     .desc = { ent-BaseAutosurgeonSyndicate.desc }
-ent-AutosurgeonSmartLink = автооперацию синдиката (смартлинк, руки)
-    .desc = { ent-BaseAutosurgeonSyndicateMultiple.desc }
-ent-AutosurgeonRecoilAbsorber = автооперацию синдиката (подавление отдачи, руки)
-    .desc = { ent-BaseAutosurgeonSyndicateMultiple.desc }
-ent-AutosurgeonBerserker = автооперацию синдиката (сердце берсерка)
-    .desc = { ent-BaseAutosurgeonSyndicateSingle.desc }
-ent-AutosurgeonJumpstarter = автооперацию синдиката (сердце стартера)
-    .desc = { ent-BaseAutosurgeonSyndicateSingle.desc }
-ent-AutosurgeonSandevistan = автооперацию синдиката (сандевистан)
+
+ent-AutosurgeonSandevistan = автохирург синдиката (сандевистан)
+    .desc = { ent-BaseAutosurgeonSyndicate.desc }
+
+ent-AutosurgeonSmartLink = автохирург синдиката (руки со смартлинком)
+    .desc = { ent-BaseAutosurgeonSyndicate.desc }
+
+ent-AutosurgeonRecoilAbsorber = автохирург синдиката (руки с поглощением отдачи)
+    .desc = { ent-BaseAutosurgeonSyndicate.desc }
+
+ent-AutosurgeonBerserker = автохирург синдиката (сердце берсерка)
+    .desc = { ent-BaseAutosurgeonSyndicate.desc }
+
+ent-AutosurgeonJumpstarter = автохирург синдиката (сердце с пусковым устройством)
     .desc = { ent-BaseAutosurgeonSyndicate.desc }

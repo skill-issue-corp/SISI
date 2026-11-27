@@ -1,26 +1,46 @@
-objective-condition-slaughter-devour-title = ПОГЛОЩАЙТЕ
-objective-condition-slaughter-devour-desc = Поглотите { $count } членов экипажа.
-objective-condition-kill-wizard-first = [color=#FF0000]ПЕРВОЕ,[/color]
-objective-condition-kill-everyone-else = [color=#FF0000]ВТОРОЕ,[/color]
-objective-condition-kill-wizard-title = УБЕЙТЕ МАГА, КОТОРЫЙ ВАС ПРИЗВАЛ
+objective-condition-slaughter-devour-title = ПОЖИРАЙТЕ
+objective-condition-slaughter-devour-desc = Пожрите {$count} { $count ->
+    [one] члена экипажа
+   *[other] членов экипажа
+}.
+
+objective-condition-kill-wizard-first = [color=#FF0000]СНАЧАЛА,[/color]
+objective-condition-kill-everyone-else = [color=#FF0000]ЗАТЕМ,[/color]
+objective-condition-kill-wizard-title = УБЕЙТЕ ПРИЗВАВШЕГО ВАС ВОЛШЕБНИКА
 objective-condition-kill-everyone-else-title = УБЕЙТЕ ВСЕХ ОСТАЛЬНЫХ
-objective-condition-kill-everyone-title = УБЕЙТЕ ВСЕХ
+
 objective-condition-hug-and-tickle-title = ОБНИМИТЕ ИХ ВСЕХ
-objective-condition-hug-and-tickle-desc = Экипаж так в восторге, что разбрызгивает вишнёвое варенье повсюду! Хорошо, что вы обожаете варенье! Ура!
+objective-condition-hug-and-tickle-desc = Экипажу так нравится, что кетчуп летит во все стороны! Хорошо, что вы любите кетчуп! Ура-а-а!
+
 objective-kill-wizard-desc =
-    Тот, кто осмелился призвать вас, заплатит высокую цену.
-    Арканическая кровь зовёт вас — найдите их, охотьтесь и отправляйте их души вопя в пустоту.
-    Их магия кончается здесь.
+    Тот, кто посмел вас призвать, заплатит высшую цену.
+    Волшебная кровь зовёт вас. Выследите его, настигните и отправьте его душу с воплем в пустоту.
+    Здесь его магии конец.
+
 objective-kill-everyone-desc =
-    Это место смердит смертной плотью.
-    Окропите эти коридоры багровым цветом, заставьте их сердца замирать от каждого вашего удара.
-    Не оставьте ничего, кроме эха ужаса и рек крови.
+    Этот мир смердит смертной плотью.
+    Окрасьте эти залы в багровый цвет. Пусть замрёт каждое сердце.
+    Оставьте лишь отголоски ужаса и реки крови.
+
 # true fluff
-objective-annihilate-janitors-title = Уничтожьте всех уборщиков и их роботизированных заменителей.
-objective-spare-crew-title = Пощадите нескольких членов экипажа, чтобы они кровоточили перед финальным ударом.
-objective-hunt-for-brave-title = Охотьтесь на смельчаков, которые первыми попытаются напасть на вас.
-objective-hunt-the-cowards-title = Охотьтесь на трусов, убегающих от вас.
+objective-annihilate-janitors-title =
+    Истребите всех Уборщиков и их роботов-заместителей.
+
+objective-spare-crew-title =
+    Пощадите нескольких членов экипажа, чтобы перед последним ударом пустить им кровь.
+
+objective-hunt-for-brave-title =
+    Охотьтесь на храбрецов, которые решатся первыми выйти на охоту за вами.
+
+objective-hunt-the-cowards-title =
+    Охотьтесь на бегущих от вас трусов.
+
 # almost fluff
-objective-spread-blood = Разбросайте кровь по { $area }.
-objective-show-power-title = Покажите { $targetName } истинную силу.
-objective-drive-insane-title = Обезумьте { $targetName } своим демоническим шёпотам.
+objective-spread-blood =
+    Залейте кровью {$area}.
+
+objective-show-power-title =
+    Покажите {$targetName} истинную силу крови.
+
+objective-drive-insane-title =
+    Сведите {$targetName} с ума демоническим шёпотом.

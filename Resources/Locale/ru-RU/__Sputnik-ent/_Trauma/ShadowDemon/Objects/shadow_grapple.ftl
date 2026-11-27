@@ -1,2 +1,2 @@
-ent-ShadowGrappleProjectile = теневой захват
+ent-ShadowGrappleProjectile = теневой крюк
     .desc = { "" }

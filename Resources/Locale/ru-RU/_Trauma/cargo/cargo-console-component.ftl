@@ -1,7 +1,7 @@
-cargo-console-alert-level = Недостаточный уровень тревоги
+cargo-console-alert-level = Недостаточный уровень угрозы
 
-cargo-console-destination-lost = Телепад назначения уничтожен или отсутствует!
+cargo-console-destination-lost = Телепад назначения разрушен или отсутствует!
 
-cargo-console-menu-tab-title-destination = Пункт назначения
-cargo-console-menu-no-destinations = Нет доступных пунктов назначения! Постройте телепад или выполните ФТЛ-прыжок до станции.
-cargo-console-menu-set-destination = Установить пункт назначения для одобренных заказов:
+cargo-console-menu-tab-title-destination = Место назначения
+cargo-console-menu-no-destinations = Нет доступных мест назначения! Постройте телепад или совершите ФТЛ-прыжок к станции.
+cargo-console-menu-set-destination = Выберите место назначения для одобренных заказов:

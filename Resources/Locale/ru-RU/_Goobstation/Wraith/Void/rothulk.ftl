@@ -1,2 +1,2 @@
-ghost-role-information-rothulk-name = Гнилой гигант
-ghost-role-information-rothulk-description = Призванный Фантомом, вы — жалкая солянка из грязи и слизи. Уничтожайте всё на своём пути и предсмертно разорвитесь во взрыве смертоносного яда.
+ghost-role-information-rothulk-name = Гнилой Гигант
+ghost-role-information-rothulk-description = Фантом призвал вас, жалкое порождение грязи и слизи. Уничтожьте всё на своём пути и погибните в великолепном облаке яда.

@@ -1,72 +1,72 @@
 # Eyes
-marking-DecapoidEyesDefault = Обычные глаза
-marking-DecapoidEyesDefault-eyes-1 = Обычные глаза
+marking-DecapoidEyesDefault = Обычные Глаза
+marking-DecapoidEyesDefault-eyes-1 = Обычные Глаза
 
-marking-DecapoidEyesThree = Три глаза
-marking-DecapoidEyesThree-eyes-2 = Три глаза
+marking-DecapoidEyesThree = Три Глаза
+marking-DecapoidEyesThree-eyes-2 = Три Глаза
 
-marking-DecapoidEyesWideClose = Широко близко посаженные глаза
-marking-DecapoidEyesWideClose-eyes-3 = Широко близко посаженные глаза
+marking-DecapoidEyesWideClose = Широкие Сближенные Глаза
+marking-DecapoidEyesWideClose-eyes-3 = Широкие Сближенные Глаза
 
-marking-DecapoidEyesStalks = Глаза на стебельках
-marking-DecapoidEyesStalks-eyes-4 = Глаза на стебельках
+marking-DecapoidEyesStalks = Глаза на Стебельках
+marking-DecapoidEyesStalks-eyes-4 = Глаза на Стебельках
 
-marking-DecapoidEyesWideFar = Широко далеко посаженные глаза
-marking-DecapoidEyesWideFar-eyes-5 = Широко далеко посаженные глаза
+marking-DecapoidEyesWideFar = Широкие Расставленные Глаза
+marking-DecapoidEyesWideFar-eyes-5 = Широкие Расставленные Глаза
 
-marking-DecapoidEyesSpider = Паучьи глаза
-marking-DecapoidEyesSpider-eyes-6 = Паучьи глаза
+marking-DecapoidEyesSpider = Паучьи Глаза
+marking-DecapoidEyesSpider-eyes-6 = Паучьи Глаза
 
 # Head
-marking-DecapoidFlatHead = Плоская голова
-marking-DecapoidFlatHead-flathead = Плоская голова
+marking-DecapoidFlatHead = Плоская Голова
+marking-DecapoidFlatHead-flathead = Плоская Голова
 
 marking-DecapoidGills1 = Жабры
 marking-DecapoidGills1-gills = Жабры
 
 # Chest
-marking-DecapoidPecPlate = Грудная пластина
-marking-DecapoidPecPlate-pectoralplate = Грудная пластина
+marking-DecapoidPecPlate = Грудная Пластина
+marking-DecapoidPecPlate-pectoralplate = Грудная Пластина
 
-marking-DecapoidAbPlate = Брюшная пластина
-marking-DecapoidAbPlate-abdominalplate = Брюшная пластина
+marking-DecapoidAbPlate = Брюшная Пластина
+marking-DecapoidAbPlate-abdominalplate = Брюшная Пластина
 
-marking-DecapoidLowerPlate = Нижняя брюшная пластина
-marking-DecapoidLowerPlate-lowerplate = Нижняя брюшная пластина
+marking-DecapoidLowerPlate = Нижняя Брюшная Пластина
+marking-DecapoidLowerPlate-lowerplate = Нижняя Брюшная Пластина
 
 # Arms
-marking-DecapoidPauldronRight = Правый наплечник
-marking-DecapoidPauldronRight-pauldronright = Правый наплечник
+marking-DecapoidPauldronRight = Правый Наплечник
+marking-DecapoidPauldronRight-pauldronright = Правый Наплечник
 
-marking-DecapoidPauldronSpike = Левый шип наплечника
-marking-DecapoidPauldronSpike-pauldronspike = Левый шип наплечника
+marking-DecapoidPauldronSpike = Шип Левого Наплечника
+marking-DecapoidPauldronSpike-pauldronspike = Шип Левого Наплечника
 
-marking-DecapoidPauldronLeft = Левый наплечник
-marking-DecapoidPauldronLeft-pauldronleft = Левый наплечник
+marking-DecapoidPauldronLeft = Левый Наплечник
+marking-DecapoidPauldronLeft-pauldronleft = Левый Наплечник
 
-marking-DecapoidClawPlate = Большая клешня
-marking-DecapoidClawPlate-clawplate = Большая клешня
+marking-DecapoidClawPlate = Большая Клешня
+marking-DecapoidClawPlate-clawplate = Большая Клешня
 
-marking-DecapoidRHandPlate = Малая клешня
-marking-DecapoidRHandPlate-righthandplate = Малая клешня
+marking-DecapoidRHandPlate = Малая Клешня
+marking-DecapoidRHandPlate-righthandplate = Малая Клешня
 
-marking-DecapoidClawGradient = Градиент большой клешни
-marking-DecapoidClawGradient-clawgradient = Градиент большой клешни
+marking-DecapoidClawGradient = Градиент Большой Клешни
+marking-DecapoidClawGradient-clawgradient = Градиент Большой Клешни
 
-marking-DecapoidRHandGradient = Градиент малой клешни
-marking-DecapoidRHandGradient-righthandgradient = Градиент малой клешни
+marking-DecapoidRHandGradient = Градиент Малой Клешни
+marking-DecapoidRHandGradient-righthandgradient = Градиент Малой Клешни
 
-marking-DecapoidBabyClaw = Малая клешня
-marking-DecapoidBigClaw = Большая клешня
-marking-DecapoidShoulderPlate = Плечевая пластина
-marking-DecapoidShoulderPlateSmall = Плечевая пластина
-marking-DecapoidHeadSpike = Шипастая голова
-marking-DecapoidHeadAnvil = Голова-наковальня
-marking-DecapoidHeadAbnormal = Аномальная голова
-marking-DecapoidEyesWide = Широко посаженные глаза
-marking-DecapoidEyesTired = Уставшие глаза
-marking-DecapoidEyesMono = Один глаз
-marking-DecapoidEyesGungeoneer = Тройные глаза
-marking-DecapoidEyescomposite = Составные глаза
-marking-DecapoidEyesAngry = Злые глаза
-marking-DecapoidSoftBody = Мягкое тело
+marking-DecapoidBabyClaw = Малая Клешня
+marking-DecapoidBigClaw = Большая Клешня
+marking-DecapoidShoulderPlate = Наплечная Пластина
+marking-DecapoidShoulderPlateSmall = Наплечная Пластина
+marking-DecapoidHeadSpike = Шипастая Голова
+marking-DecapoidHeadAnvil = Голова-Наковальня
+marking-DecapoidHeadAbnormal = Необычная Голова
+marking-DecapoidEyesWide = Широкие Глаза
+marking-DecapoidEyesTired = Усталые Глаза
+marking-DecapoidEyesMono = Один Глаз
+marking-DecapoidEyesGungeoneer = Тройные Глаза
+marking-DecapoidEyescomposite = Фасеточные Глаза
+marking-DecapoidEyesAngry = Злые Глаза
+marking-DecapoidSoftBody = Мягкое Тело

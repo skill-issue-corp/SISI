@@ -1,4 +1,4 @@
-ent-StatusEffectShink = уменьшен
+ent-StatusEffectShink = уменьшение
     .desc = { ent-MobStatusEffectDebuff.desc }
 
 ent-StatusEffectDamageMod = модификатор урона изменён
@@ -7,22 +7,22 @@ ent-StatusEffectDamageMod = модификатор урона изменён
 ent-StatusEffectDamageModKnightEgg = { ent-StatusEffectDamageMod }
     .desc = { ent-StatusEffectDamageMod.desc }
 
-ent-StatusEffectDreamEgg = эффект сонного яйца
+ent-StatusEffectDreamEgg = эффект яйца сна
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectCockatricePower = эффект яйца василиска
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectMedusa = Превращён в камень
+ent-StatusEffectMedusa = Превращение в камень
     .desc = { ent-MobStatusEffectDebuff.desc }
 
 ent-SnowEggEffect = Снежный след!
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-DreamsicleEggEffect = Апельсиновый приход
+ent-DreamsicleEggEffect = Апельсиновый Кайф
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectZappyPower = эффект яйца Зэппи
+ent-StatusEffectZappyPower = эффект яйца громчика
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-SnowEggEffectNoDamage = Снежный след!
@@ -34,7 +34,7 @@ ent-StatusEffectPhoenixHeal = исцеление феникса
 ent-StatusEffectPhoenixPower = эффект яйца феникса
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectWizardChickenPower = эффект волшебного яйца
+ent-StatusEffectWizardChickenPower = эффект яйца волшебника
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectDragonPower = сила дракона

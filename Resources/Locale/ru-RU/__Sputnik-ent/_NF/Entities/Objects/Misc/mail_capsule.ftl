@@ -1,5 +1,6 @@
 ent-MailCapsulePrimed = почтовая капсула
-    .suffix = Запечатаная
     .desc = { ent-BaseItem.desc }
+    .suffix = Взведённая
+
 ent-BoxMailCapsulePrimed = коробка почтовых капсул
-    .desc = Коробка с почтовыми капсулами.
+    .desc = Коробка взведённых почтовых капсул.

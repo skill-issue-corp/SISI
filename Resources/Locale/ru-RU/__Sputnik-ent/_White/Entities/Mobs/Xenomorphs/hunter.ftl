@@ -1,5 +1,5 @@
-ent-BaseMobXenomorphHunter = ксеноморф Охотник
-    .desc = Специализированный на охоте юнит, созданный для отслеживания и уничтожения целей. Чрезвычайно опасен в ближнем бою.
+ent-BaseMobXenomorphHunter = охотник ксеноморфов
+    .desc = Особь, приспособленная выслеживать и уничтожать добычу. Превосходный хищник, чрезвычайно опасный в ближнем бою.
 
 ent-MobXenomorphHunter = { ent-BaseMobXenomorphHunter }
     .desc = { ent-BaseMobXenomorphHunter.desc }

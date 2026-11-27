@@ -1,2 +1,2 @@
-ent-MindRoleSlaughterDemon = Роль призрака (Демон резни)
+ent-MindRoleSlaughterDemon = Роль Демона Резни
     .desc = { ent-BaseMindRoleAntag.desc }

@@ -1,2 +1,2 @@
 ent-SpeedLoaderLightRifle = спидлоадер (.30 винтовочные)
-    .desc = { ent-BaseItem.desc }
+    .desc = Обойма на 5 патронов для быстрого перезаряжания Kardashev-Mosin. Предназначен для обычных кинетических боеприпасов.

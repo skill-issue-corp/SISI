@@ -1,1 +1,1 @@
-xenoborg-dartgun = Дротикомёт ксеноборга
+xenoborg-dartgun = Дротиковая Винтовка Ксеноборга

@@ -1,14 +1,14 @@
-shadowling-condition-win = Тенеморфы успешно вознеслись в свою финальную форму!
-shadowling-condition-draw = Обе стороны понесли тяжёлые потери, но экипажу удалось выжить.
-shadowling-condition-failure = Экипажу удалось помешать тенеморфам вознестись!
+shadowling-condition-win = Тенеморфы успешно вознеслись, достигнув своей окончательной формы!
+shadowling-condition-draw = Обе стороны понесли большие потери, но экипаж выжил.
+shadowling-condition-failure = Экипажу удалось помешать вознесению тенеморфов!
 
-shadowling-list-start = Тенеморфами были:
-thrall-list-start = Траллами были:
+shadowling-list-start = Тенеморфы:
+thrall-list-start = Траллы:
 
 shadowling-list-name = [color=#880808]{ $name }[/color] ([color=gray]{ $user }[/color])
 
 shadowling-title = Тенеморфы
-shadowling-description = Тень — величайший учитель на пути к свету.
+shadowling-description = Никто не научит выходить к свету лучше, чем тень.
 
 shadowling-round-end-name = тенеморф
 
@@ -23,7 +23,8 @@ shadowling-role-greeting-desc =
     • [color={$hl1}]Финальная метаморфоза:[/color] соберите стаю подконтрольных слуг для завершения [gradient angle="45" spread="70" color1="{$hl1}" color2="{$hl2}" speed="1.4"]Великого Вознесения[/gradient] в бессмертную форму жизни.
 # SIS-End
 
-shadowling-role-greeting-short = Вы — Тенеморф, пробудившийся в теле { $name }.
+shadowling-role-greeting-short =
+    Вы — тенеморф, пробудившийся в теле {$name}.
 
 # SIS-Start
 thrall-role-greeting =
@@ -37,10 +38,11 @@ thrall-role-greeting-desc =
     • [color={$hl1}]Главная цель:[/color] [gradient angle="45" spread="65" color1="{$hl1}" color2="{$hl2}" speed="1.5"]помогите тенеморфу совершить великое Вознесение[/gradient]!
 # SIS-End
 
-shadowling-briefing = Отринь эту низшую форму и начни путь к вознесению.
+shadowling-briefing =
+    Сбросьте низшую форму и начните путь к вознесению.
 
 thrall-briefing =
-    Вы больше не связаны своими прежними убеждениями.
-    Помогите своему тенеморфу вознестись любой ценой.
+    Прежние убеждения больше вас не связывают.
+    Любой ценой помогите своему тенеморфу вознестись.
 
 objective-issuer-shadowling = Тенеморф

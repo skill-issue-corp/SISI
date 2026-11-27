@@ -1,6 +1,7 @@
 ent-MobMousePlague = { ent-MobMouse }
     .desc = { ent-MobMouse.desc }
-    .suffix = Заражённая
-ent-MobMousePandemic = { ent-MobMouse }
-    .desc = { ent-MobMouse.desc }
-    .suffix = Заражённая, Админ
+    .suffix = Чума
+
+ent-MobMousePandemic = { ent-MobMousePlague }
+    .desc = { ent-MobMousePlague.desc }
+    .suffix = Чума, Адмеме

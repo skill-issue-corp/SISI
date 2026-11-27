@@ -1,2 +1,2 @@
-ent-MindRoleMorph = Роль морфа
+ent-MindRoleMorph = Роль Морфа
     .desc = { ent-BaseMindRoleAntag.desc }

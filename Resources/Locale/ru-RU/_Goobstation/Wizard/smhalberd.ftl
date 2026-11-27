@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-supermatter-halberd-execution-start-user = Вы высоко поднимаете { $used }, готовясь сокрушить { $target }!
-supermatter-halberd-execution-start-other = { CAPITALIZE($user) } высоко поднимает { $used }, готовясь сокрушить { $target }!
-supermatter-halberd-execution-cancel = Вы опускаете { $used }. Еще будет возможность уничтожить их...
-supermatter-halberd-execution-end-user = Вы опускаете { $used }, сокрушая { $target } мощным ударом!
-supermatter-halberd-execution-end-other = { CAPITALIZE($user) } опускает { $used }, сокрушая { $target } мощным ударом!
+supermatter-halberd-execution-start-user = Вы высоко поднимаете {$used}, готовясь обрушить на {$target}!
+supermatter-halberd-execution-start-other = {CAPITALIZE($user)} высоко поднимает {$used}, готовясь обрушить на {$target}!
+supermatter-halberd-execution-cancel = Вы опускаете {$used}. Уничтожить цель можно и позже...
+supermatter-halberd-execution-end-user = Вы обрушиваете {$used} и уничтожаете {$target} тяжёлым ударом!
+supermatter-halberd-execution-end-other = {CAPITALIZE($user)} обрушивает {$used} и уничтожает {$target} тяжёлым ударом!

@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-bin-component-on-examine-text = Looks like there's {$count} items left.
+bin-component-on-examine-text = Похоже, осталось предметов: {$count}.

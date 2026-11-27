@@ -1,9 +1,10 @@
-bloodtrak-dna-saved = ДНК сохранено, цикл готов.
-bloodtrak-scan-failed = Сканирование цели не удалось.
-bloodtrak-no-dna = В растворе нет действительной последовательности ДНК.
-bloodtrak-cooldown-active = Устройство перезаряжается. Пожалуйста, подождите { $num } секунд.
-bloodtrak-no-target = Цель для отслеживания недействительна.
-bloodtrak-target-lost = Цель для отслеживания потеряна.
+bloodtrak-dna-saved = ДНК: «{$dna}» записана, Цикл готов к запуску.
+bloodtrak-scan-failed = Недопустимая цель сканирования.
+bloodtrak-no-dna = Раствор не содержит действительной последовательности ДНК.
+
+bloodtrak-cooldown-active = Устройство заряжается. Подождите {$num} сек.
+bloodtrak-no-target = Недопустимая Цель отслеживания.
+bloodtrak-target-lost = Недопустимая Цель отслеживания.
 bloodtrak-tracking-expired = Цикл отслеживания завершён.
-bloodtrak-no-match = Последовательность ДНК не найдена в базе данных!
+bloodtrak-no-match = Последовательность ДНК отсутствует в базе!
 bloodtrak-sample-expired = Образец крови слишком сухой.

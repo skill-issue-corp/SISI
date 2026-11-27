@@ -1,4 +1,6 @@
-ent-LavalandCursedHeart = сердце
-    .desc = Мне жаль бессердечного ублюдка, который потерял это.
+ent-LavalandCursedHeart = { ent-OrganHumanHeart }
+    .desc = Жаль того бессердечного ублюдка, который его потерял.
+    .suffix = Проклятое
+
 ent-LavalandVampirismCrystal = красный кристалл
     .desc = { ent-BasePKAUpgrade.desc }

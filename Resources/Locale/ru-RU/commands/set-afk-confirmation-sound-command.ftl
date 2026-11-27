@@ -1,6 +1,6 @@
-cmd-setafkconfirmationsound-desc = Устанавливает звук, воспроизводимый окном подтверждения AFK.
+cmd-setafkconfirmationsound-desc = Устанавливает звук, который воспроизводится при проверке АФК.
 cmd-setafkconfirmationsound-help = Использование: setafkconfirmationsound <respath>
-cmd-setafkconfirmationsound-invalid-arguments = Ожидается ровно один аргумент — путь к ресурсу.
+cmd-setafkconfirmationsound-invalid-arguments = Ожидается ровно один аргумент с путём к ресурсу.
 cmd-setafkconfirmationsound-not-rooted = Путь к ресурсу должен начинаться с /.
-cmd-setafkconfirmationsound-success = Звук подтверждения AFK установлен на {$path}.
+cmd-setafkconfirmationsound-success = Установлен звук проверки АФК: {$path}.
 cmd-setafkconfirmationsound-hint = Путь к звуковому ресурсу

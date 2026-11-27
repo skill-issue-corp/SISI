@@ -1,3 +1,3 @@
-vaccinator-toggle-live-injector = Режим инжектора
-vaccinator-toggle-vaccine = Режим вакцины
-live-injector-inject = В вас вводят инжектор. Вы будете заражены.
+vaccinator-toggle-live-injector = Режим Введения Живой Культуры
+vaccinator-toggle-vaccine = Режим Вакцинации
+live-injector-inject = Вам вводят живую культуру. Вы заразитесь болезнью.

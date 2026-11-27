@@ -1,29 +1,29 @@
-ent-ShadowlingGlareEffect = эффект тенеморф Взор
+ent-ShadowlingGlareEffect = эффект взгляда тенеморфа
     .desc = { "" }
 
-ent-ShadowlingShadowWalkInEffect = эффект тенеморф Теневой шаг вход
+ent-ShadowlingShadowWalkInEffect = эффект входа в теневой шаг тенеморфа
     .desc = { "" }
 
-ent-ShadowlingShadowWalkOutEffect = эффект тенеморф Теневой шаг выход
+ent-ShadowlingShadowWalkOutEffect = эффект выхода из теневого шага тенеморфа
     .desc = { "" }
 
-ent-ShadowlingCollectiveMindEffect = эффект тенеморф Коллективный разум
+ent-ShadowlingCollectiveMindEffect = эффект коллективного разума тенеморфа
     .desc = { "" }
 
-ent-ShadowlingRapidRehatchEffect = эффект тенеморф Феникс
+ent-ShadowlingRapidRehatchEffect = эффект быстрого перевылупления тенеморфа
     .desc = { "" }
 
-ent-ShadowlingIcyVeinsEffect = эффект тенеморф Лёд по венам
+ent-ShadowlingIcyVeinsEffect = эффект ледяных жил тенеморфа
     .desc = { "" }
 
-ent-ShadowlingNullChargeEffect = эффект тенеморф Перегруз
+ent-ShadowlingNullChargeEffect = эффект нулевого заряда тенеморфа
     .desc = { "" }
 
-ent-ShadowlingSonicScreechEffect = эффект тенеморф Визг
+ent-ShadowlingSonicScreechEffect = эффект звукового визга тенеморфа
     .desc = { "" }
 
-ent-ShadowlingBlackRecuperationEffect = эффект тенеморф Восстановление
+ent-ShadowlingBlackRecuperationEffect = эффект чёрного восстановления тенеморфа
     .desc = { "" }
 
-ent-ShadowlingAscendingEffect = эффект тенеморф Вознесение
+ent-ShadowlingAscendingEffect = эффект вознесения тенеморфа
     .desc = { "" }

@@ -1,16 +1,16 @@
-ent-AppearanceDwarf = внешний вид дварфа
+ent-AppearanceDwarf = облик дворфа
     .desc = { ent-AppearanceHuman.desc }
 
-ent-MobDwarf = Урист МакХэндс Дварф
+ent-MobDwarf = Дворф Урист МакРуки
     .desc = { ent-AppearanceDwarf.desc }
 
 ent-OrganDwarf = { ent-OrganBaseOrganic }
     .desc = { ent-OrganBaseOrganic.desc }
-    .suffix = Дварф
+    .suffix = Дворф
 
 ent-OrganDwarfAppearance = { ent-OrganDwarf }
     .desc = { ent-OrganDwarf.desc }
-    .suffix = Дварф
+    .suffix = Дворф
 
 ent-OrganDwarfMetabolizer = { ent-OrganDwarf }
     .desc = { ent-OrganDwarf.desc }

@@ -1,7 +1,7 @@
 ent-StatusEffectDamageModArmorReactiveRock = модификатор урона изменён
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-ForcedTrueStealthStatusEffect = камуфляж
+ent-ForcedTrueStealthStatusEffect = маскировка
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-PointLight10StatusEffect = точечный свет

@@ -1,6 +1,7 @@
 ent-IngotPlutonium = слиток плутония
     .desc = { ent-IngotBase.desc }
-    .suffix = Полный
+    .suffix = Полностью заполнено
+
 ent-IngotPlutonium1 = слиток плутония
     .desc = { ent-IngotPlutonium.desc }
-    .suffix = Один
+    .suffix = Один предмет

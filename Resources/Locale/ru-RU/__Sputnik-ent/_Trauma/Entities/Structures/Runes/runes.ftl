@@ -4,29 +4,29 @@ ent-BaseSummoningRune = { ent-BaseStructure }
 ent-BaseCarvedRune = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
 
-ent-EnchantingRuneCarved = незаконченная руна
-    .desc = Незаконченная руна, нужна кровь.
+ent-EnchantingRuneCarved = незавершённая руна
+    .desc = Незавершённая руна, нужна кровь.
 
 ent-EnchantingRune = руна зачарования
-    .desc = Руна, используемая для зачарования предметов.
+    .desc = Руна для зачарования предметов.
 
 ent-BaseDemonRune = { ent-BaseSummoningRune }
     .desc = { ent-BaseSummoningRune.desc }
 
 ent-MinorDemonRune = малый круг призыва
-    .desc = Руна, используемая для призыва малых демонов.
+    .desc = Руна для призыва младших демонов.
 
-ent-MinorRuneCarved = незаконченная руна
-    .desc = Незаконченная руна, нужна кровь.
+ent-MinorRuneCarved = незавершённая руна
+    .desc = Незавершённая руна, нужна кровь.
 
 ent-MediumDemonRune = круг призыва
-    .desc = Руна, используемая для призыва демонов.
+    .desc = Руна для призыва демонов.
 
-ent-MediumRuneCarved = незаконченная руна
-    .desc = Незаконченная руна, нужна кровь.
+ent-MediumRuneCarved = незавершённая руна
+    .desc = Незавершённая руна, нужна кровь.
 
-ent-MajorDemonRune = большой круг призыва
-    .desc = Руна, используемая для призыва великих демонов.
+ent-MajorDemonRune = великий круг призыва
+    .desc = Руна для призыва старших демонов.
 
-ent-MajorRuneCarved = незаконченная руна
-    .desc = Незаконченная руна, нужна кровь.
+ent-MajorRuneCarved = незавершённая руна
+    .desc = Незавершённая руна, нужна кровь.

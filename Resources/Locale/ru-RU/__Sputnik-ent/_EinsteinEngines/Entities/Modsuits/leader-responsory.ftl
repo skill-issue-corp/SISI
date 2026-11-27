@@ -1,13 +1,21 @@
-ent-ClothingModsuitResponsoryLeader = контроллер скафандра лидера ОБР
-    .desc = Основной контроллер скафандра лидера ОБР.
-ent-ClothingModsuitGauntletsResponsoryLeader = перчатки скафандра лидера ОБР
-    .desc = Пара перчаток, изготовленных для скафандра лидера ОБР.
-ent-ClothingModsuitHelmetResponsoryLeader = шлем скафандра лидера ОБР
-    .desc = Передовой шлем, разработанный Nanotrasen для скафандра лидера ОБР. Имеет встроенный ИЛС.
-ent-ClothingModsuitChestplateResponsoryLeader = нагрудная пластина скафандра лидера ОБР
-    .desc = Передовой нагрудник, разработанный Nanotrasen для скафандра лидера ОБР. Оснащён сервоприводами для снижения нагрузки.
-ent-ClothingModsuitBootsResponsoryLeader = ботинки скафандра лидера ОБР
-    .desc = Передовая пара магнитных ботинок для скафандра лидера ОБР.
+ent-BaseModsuitPieceERTLeader = { "" }
+    .desc = { "" }
+
+ent-ClothingModsuitResponsoryLeader = блок управления модсьюта «Командир ОБР»
+    .desc = Основной блок управления модсьютом «Командир ОБР».
+
+ent-ClothingModsuitGauntletsResponsoryLeader = перчатки модсьюта «Командир ОБР»
+    .desc = Пара перчаток для модсьюта «Командир ОБР».
+
+ent-ClothingModsuitHelmetResponsoryLeader = шлем модсьюта «Командир ОБР»
+    .desc = Передовой шлем, разработанный NanoTrasen для модсьюта «Командир ОБР». Оснащён встроенным визором.
+
+ent-ClothingModsuitChestplateResponsoryLeader = нагрудник модсьюта «Командир ОБР»
+    .desc = Передовой нагрудник, разработанный NanoTrasen для модсьюта «Командир ОБР». Встроенные сервоприводы снижают нагрузку от снаряжения.
+
+ent-ClothingModsuitBootsResponsoryLeader = ботинки модсьюта «Командир ОБР»
+    .desc = Передовые магнитные ботинки для модсьюта «Командир ОБР». Пока на костюм подаётся питание, ботинки не замедляют владельца.
+
 ent-SuitStorageResponsoryLeader = { ent-SuitStorageBase }
-    .suffix = модульный скафандр лидера ОБР
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Модсьют «Командир ОБР»

@@ -1,41 +1,41 @@
-job-name-futureagent = агент будущего
-job-name-salvagediver = спасатель
-job-name-ntr = представитель NanoTrasen
-job-name-tider = грейтайд
+job-name-futureagent = Агент Будущего
+job-name-salvagediver = Дайвер-Утилизатор
+job-name-ntr = Представитель NanoTrasen
+job-name-tider = Тайдер
 
-job-name-exec = служебный доступ
+job-name-exec = Допуск Руководства
 
 # event-resctricted jobs
-job-name-security-clown = Клоун службы безопасности
-job-name-command-maid = Командная горничная
-job-name-party-maker = Организатор вечеринок
+job-name-security-clown = Клоун Службы Безопасности
+job-name-command-maid = Горничная Командования
+job-name-party-maker = Организатор Вечеринок
 
 # Syndicate
 
-job-name-highcommander = Офицер Синдиката
+job-name-highcommander = Верховный Командующий
 
 # Half Life
 
-job-name-hecu = агент HECU
-job-name-governmentman = G-Man
+job-name-hecu = Оперативник HECU
+job-name-governmentman = Джи-Мэн
 
 # Misc
 
-job-name-conquest = конквест
-job-name-mercenarycaptain = капитан Наёмников
-job-name-radiohost = радиоведущий
-job-name-phonemerchant = Телефонный торговец
+job-name-conquest = Конквест
+job-name-mercenarycaptain = Капитан Наёмников
+job-name-radiohost = Радиоведущий
+job-name-phonemerchant = Торговец Телефонами
 
 # Role timers - Make these alphabetical or I cut you (dont listen to upstream, i copied and pasted this, make it very un-alphabetical :godo:)
 
-JobCommandMaid = Командная горничная
-JobNanotrasenRepresentative = представитель NanoTrasen
-JobHecuOperative = агент HECU
-JobGovernmentMan = G-Man
-JobConquest = конквест
-JobMercenaryCaptain = капитан наёмников
-JobPartyMaker = Организатор вечеринок
-JobRoboticist = робототехник
-JobRadioHost = радиоведущий
-JobSecurityClown = Клоун службы безопасности
-JobVirologist = вирусолог
+JobCommandMaid = Горничная Командования
+JobNanotrasenRepresentative = Представитель NanoTrasen
+JobHecuOperative = Оперативник HECU
+JobGovernmentMan = Джи-Мэн
+JobConquest = Конквест
+JobMercenaryCaptain = Капитан Наёмников
+JobPartyMaker = Организатор Вечеринок
+JobRoboticist = Робототехник
+JobRadioHost = Радиоведущий
+JobSecurityClown = Клоун Службы Безопасности
+JobVirologist = Вирусолог

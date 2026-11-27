@@ -1,2 +1,2 @@
 ent-TorchWall = факел
-    .desc = Просто факел.
+    .desc = Факел

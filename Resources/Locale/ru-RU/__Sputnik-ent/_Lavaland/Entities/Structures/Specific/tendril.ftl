@@ -1,20 +1,26 @@
-ent-LavalandTendrilBase = шип Некрополя
-    .desc = Огромное строение.
-ent-LavalandTendrilGoliath = шип Некрополя
-    .desc = Огромное строение.
+ent-LavalandTendrilBase = щупальце
+    .desc = Огромная конструкция.
+
+ent-LavalandTendrilGoliath = щупальце
+    .desc = Огромная конструкция.
     .suffix = Голиаф
-ent-LavalandTendrilLegion = шип Некрополя
-    .desc = Огромное строение.
+
+ent-LavalandTendrilLegion = щупальце
+    .desc = Огромная конструкция.
     .suffix = Легион
-ent-LavalandTendrilLavaWatcher = шип Некрополя
-    .desc = Огромное строение.
+
+ent-LavalandTendrilLavaWatcher = щупальце
+    .desc = Огромная конструкция.
     .suffix = Наблюдатель
-ent-LavalandTendrilIcewingWatcher = шип Некрополя
-    .desc = Огромное строение.
-    .suffix = Ледяной наблюдатель
-ent-LavalandTendrilMagmawingWatcher = шип Некрополя
-    .desc = Огромное строение.
-    .suffix = Магмовый наблюдатель
-ent-LavalandTendrilSpaceCarp = шип Некрополя
-    .desc = Огромное строение.
+
+ent-LavalandTendrilIcewingWatcher = щупальце
+    .desc = Огромная конструкция.
+    .suffix = Ледяной Наблюдатель
+
+ent-LavalandTendrilMagmawingWatcher = щупальце
+    .desc = Огромная конструкция.
+    .suffix = Магмовый Наблюдатель
+
+ent-LavalandTendrilSpaceCarp = щупальце
+    .desc = Огромная конструкция.
     .suffix = Карп

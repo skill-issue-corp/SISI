@@ -1,2 +1,2 @@
-ent-MindRoleShadowDemon = Роль теневого демона
+ent-MindRoleShadowDemon = Роль Тенедемона
     .desc = { ent-BaseMindRoleAntag.desc }

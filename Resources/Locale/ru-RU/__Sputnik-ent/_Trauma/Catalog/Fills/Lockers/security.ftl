@@ -1,40 +1,40 @@
-ent-BaseTraumaGunSafe = сейф для оружия
+ent-BaseTraumaGunSafe = оружейный сейф
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Замок по уровню тревоги
+    .suffix = Замок по Уровню Угрозы
 
-ent-GunSafeEmptyBlue = сейф для оружия
+ent-GunSafeEmptyBlue = оружейный сейф
     .desc = { ent-GunSafeBaseSecure.desc }
     .suffix = Синий
 
-ent-GunSafeEmptyRed = сейф для оружия
+ent-GunSafeEmptyRed = оружейный сейф
     .desc = { ent-GunSafeBaseSecure.desc }
     .suffix = Красный
 
-ent-GunSafeLaserCarbine = сейф для лазерных карабинов
+ent-GunSafeLaserCarbine = сейф для лазеров
     .desc = { ent-BaseTraumaGunSafe.desc }
 
-ent-GunSafeShotguns = сейф для баллистического оружия
+ent-GunSafeShotguns = сейф огнестрельного оружия
     .desc = { ent-BaseTraumaGunSafe.desc }
 
-ent-GunSafeLaserSpec = сейф для специального лазерного оружия
+ent-GunSafeLaserSpec = сейф специального лазерного оружия
     .desc = { ent-BaseTraumaGunSafe.desc }
-    .suffix = Устарело, НЕ МАППИТЬ
+    .suffix = Устарело, Не Маппить
 
-ent-GunSafeSurplusBallistics = сейф для излишков баллистического оружия
-    .desc = { ent-BaseTraumaGunSafe.desc }
-
-ent-GunSafeMelee = сейф для холодного оружия
+ent-GunSafeSurplusBallistics = сейф с запасным огнестрельным оружием
     .desc = { ent-BaseTraumaGunSafe.desc }
 
-ent-GunSafeJudo = сейф с дзюдо
+ent-GunSafeMelee = сейф оружия ближнего боя
+    .desc = { ent-BaseTraumaGunSafe.desc }
+
+ent-GunSafeJudo = сейф дзюдо
     .desc = { ent-GunSafeBaseSecure.desc }
 
-ent-GunSafeRiotLauncher = сейф для противоштурмовых пусковых установок
+ent-GunSafeRiotLauncher = сейф с гранатомётами для подавления беспорядков
     .desc = { ent-GunSafeEmptyBlue.desc }
 
-ent-GunSafePhaser = сейф для фазеров
+ent-GunSafePhaser = сейф с фазерами
     .desc = { ent-BaseTraumaGunSafe.desc }
 
-ent-GunSafeHunter = сейф для оружия
+ent-GunSafeHunter = оружейный сейф
     .desc = { ent-BaseTraumaGunSafe.desc }
-    .suffix = Охотничий, Заблокировано
+    .suffix = Охотник, Заперто

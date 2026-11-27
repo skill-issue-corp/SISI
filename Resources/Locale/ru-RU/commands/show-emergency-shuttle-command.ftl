@@ -1,2 +1,2 @@
-cmd-showemergencyshuttle-desc = Показывает ожидаемую позицию аварийного шаттла.
-cmd-showemergencyshuttle-status = Режим отладки аварийного шаттла установлен на { $status }.
+cmd-showemergencyshuttle-desc = Показывает предполагаемое положение эвакуационного шаттла.
+cmd-showemergencyshuttle-status = Отладка эвакуационного шаттла установлена на {$status}.

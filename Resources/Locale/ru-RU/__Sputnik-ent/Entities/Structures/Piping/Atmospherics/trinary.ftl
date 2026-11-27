@@ -6,14 +6,48 @@ ent-GasFilter = газовый фильтр
 
 ent-GasFilterFlipped = газовый фильтр
     .desc = { ent-GasFilter.desc }
-    .suffix = Перевёрнутый
+    .suffix = Отражён
 
 ent-GasMixer = газовый смеситель
     .desc = Очень полезен для смешивания газов.
 
 ent-GasMixerFlipped = газовый смеситель
-    .suffix = Перевёрнутый
     .desc = { ent-GasMixer.desc }
+    .suffix = Отражён
 
 ent-PressureControlledValve = пневматический клапан
-    .desc = Двунаправленный клапан, управляемый давлением. Открывается, если давление в выходной трубе ниже давления в контрольной трубе на 101,325 кПа.
+    .desc = Двунаправленный клапан, управляемый давлением. Открывается, если давление в выходной трубе на 101.325 кПа ниже, чем в управляющей.
+
+ent-GasFilterAlt1 = { ent-GasFilter }
+    .desc = { ent-GasFilter.desc }
+
+ent-GasFilterAlt2 = { ent-GasFilter }
+    .desc = { ent-GasFilter.desc }
+
+ent-GasFilterFlippedAlt1 = { ent-GasFilterFlipped }
+    .desc = { ent-GasFilterFlipped.desc }
+    .suffix = { ent-GasFilterFlipped.suffix }
+
+ent-GasFilterFlippedAlt2 = { ent-GasFilterFlipped }
+    .desc = { ent-GasFilterFlipped.desc }
+    .suffix = { ent-GasFilterFlipped.suffix }
+
+ent-GasMixerAlt1 = { ent-GasMixer }
+    .desc = { ent-GasMixer.desc }
+
+ent-GasMixerAlt2 = { ent-GasMixer }
+    .desc = { ent-GasMixer.desc }
+
+ent-GasMixerFlippedAlt1 = { ent-GasMixerFlipped }
+    .desc = { ent-GasMixerFlipped.desc }
+    .suffix = { ent-GasMixerFlipped.suffix }
+
+ent-GasMixerFlippedAlt2 = { ent-GasMixerFlipped }
+    .desc = { ent-GasMixerFlipped.desc }
+    .suffix = { ent-GasMixerFlipped.suffix }
+
+ent-PressureControlledValveAlt1 = { ent-PressureControlledValve }
+    .desc = { ent-PressureControlledValve.desc }
+
+ent-PressureControlledValveAlt2 = { ent-PressureControlledValve }
+    .desc = { ent-PressureControlledValve.desc }

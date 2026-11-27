@@ -1,34 +1,34 @@
 ent-BaseCrystalStalagmite = кристалл
-    .desc = Твёрдое кристаллическое образование.
+    .desc = Твёрдое кристаллическое тело.
 
-ent-CrystalGreen = кристалл
-    .desc = Твёрдое кристаллическое образование.
-    .suffix = Зелёный
+ent-CrystalGreen = { ent-BaseCrystalStalagmite }
+    .desc = { ent-BaseCrystalStalagmite.desc }
+    .suffix = зелёный
 
 ent-CrystalPink = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = Розовый
+    .suffix = розовый
 
 ent-CrystalGrey = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = Красный
+    .suffix = красный
 
 ent-CrystalOrange = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = Оранжевый
+    .suffix = оранжевый
 
 ent-CrystalBlack = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = Чёрный
+    .suffix = чёрный
 
 ent-CrystalBlue = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = Синий
+    .suffix = синий
 
 ent-CrystalYellow = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = Жёлтый
+    .suffix = жёлтый
 
 ent-CrystalCyan = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = Голубой
+    .suffix = бирюзовый

@@ -1,38 +1,38 @@
 ent-AiHeld = { "" }
-    .desc = Компоненты, добавляемые / удаляемые у сущности, которая вставляется в ядро ИИ.
+    .desc = Компоненты, добавляемые к сущности или удаляемые из неё при помещении в ядро ИИ.
 
 ent-AiHeldIntellicard = { "" }
-    .desc = Компоненты, добавляемые / удаляемые у сущности, которая вставляется в интеллекткарту.
+    .desc = Компоненты, добавляемые к сущности или удаляемые из неё при помещении в Интелликарту.
 
 ent-AiHolder = { "" }
-    .desc = Обрабатывает взаимодействия ИИ через голокарты + ядра ИИ
+    .desc = Обрабатывает взаимодействие ИИ с голокартами и ядрами ИИ
 
-ent-Intellicard = интеллекткарта
-    .desc = Устройство хранения для ИИ.
+ent-Intellicard = интелликарта
+    .desc = Устройство для хранения ИИ.
     .suffix = Пусто
 
 ent-PlayerStationAiPreview = { "" }
     .desc = { "" }
 
 ent-PlayerStationAiEmpty = ядро ИИ
-    .desc = Новейшая разработка в области искусственного интеллекта.
+    .desc = Последнее слово в области Искусственного Интеллекта.
     .suffix = Пусто
 
 ent-PlayerStationAi = { ent-PlayerStationAiEmpty }
     .desc = { ent-PlayerStationAiEmpty.desc }
-    .suffix = Спавн для должности
+    .suffix = Точка спавна должности
 
-ent-PlayerStationAiAssembly = сборка ядра ИИ
-    .desc = Незавершённое компьютерное ядро для размещения искусственного интеллекта.
+ent-PlayerStationAiAssembly = каркас ядра ИИ
+    .desc = Недостроенное компьютерное ядро для размещения искусственного интеллекта.
 
 ent-StationAiBrain = { ent-PositronicBrain }
     .desc = { ent-PositronicBrain.desc }
 
 ent-StationAiHolo = глаз ИИ
-    .desc = Видеокамера ИИ.
+    .desc = Средство наблюдения ИИ.
 
 ent-StationAiHoloLocal = голограмма ИИ
-    .desc = Голографическое представление ИИ.
+    .desc = Голографическое изображение ИИ.
 
 ent-PlayerBorgBattery = { ent-BorgChassisSelectable }
     .desc = { ent-BorgChassisSelectable.desc }
@@ -44,7 +44,7 @@ ent-PlayerBorgSyndicateAssaultBattery = { ent-BorgChassisSyndicateAssault }
 
 ent-PlayerBorgSyndicateAssaultGhostRole = { ent-PlayerBorgSyndicateAssaultBattery }
     .desc = { ent-PlayerBorgSyndicateAssaultBattery.desc }
-    .suffix = Призрачная роль
+    .suffix = Роль призрака
 
 ent-PlayerBorgSyndicateSaboteurBattery = { ent-BorgChassisSyndicateSaboteur }
     .desc = { ent-BorgChassisSyndicateSaboteur.desc }
@@ -52,9 +52,9 @@ ent-PlayerBorgSyndicateSaboteurBattery = { ent-BorgChassisSyndicateSaboteur }
 
 ent-PlayerBorgSyndicateSaboteurGhostRole = { ent-PlayerBorgSyndicateSaboteurBattery }
     .desc = { ent-PlayerBorgSyndicateSaboteurBattery.desc }
-    .suffix = Призрачная роль
+    .suffix = Роль призрака
 
-ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = спавнер борга-вторжения синдиката
+ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = точка спавна боргов вторжения синдиката
     .desc = { ent-MarkerBase.desc }
 
 ent-PlayerEngineeringBorgDerelict = { ent-EngineeringBorgChassisDerelict }
@@ -63,7 +63,7 @@ ent-PlayerEngineeringBorgDerelict = { ent-EngineeringBorgChassisDerelict }
 
 ent-PlayerEngineeringBorgDerelictGhostRole = { ent-PlayerEngineeringBorgDerelict }
     .desc = { ent-PlayerEngineeringBorgDerelict.desc }
-    .suffix = Призрачная роль
+    .suffix = Роль призрака
 
 ent-PlayerBorgDerelict = { ent-BorgChassisDerelict }
     .desc = { ent-BorgChassisDerelict.desc }
@@ -71,7 +71,7 @@ ent-PlayerBorgDerelict = { ent-BorgChassisDerelict }
 
 ent-PlayerBorgDerelictGhostRole = { ent-PlayerBorgDerelict }
     .desc = { ent-PlayerBorgDerelict.desc }
-    .suffix = Призрачная роль
+    .suffix = Роль призрака
 
 ent-PlayerJanitorBorgDerelict = { ent-JanitorBorgChassisDerelict }
     .desc = { ent-JanitorBorgChassisDerelict.desc }
@@ -79,7 +79,7 @@ ent-PlayerJanitorBorgDerelict = { ent-JanitorBorgChassisDerelict }
 
 ent-PlayerJanitorBorgDerelictGhostRole = { ent-PlayerJanitorBorgDerelict }
     .desc = { ent-PlayerJanitorBorgDerelict.desc }
-    .suffix = Призрачная роль
+    .suffix = Роль призрака
 
 ent-PlayerMedicalBorgDerelict = { ent-MedicalBorgChassisDerelict }
     .desc = { ent-MedicalBorgChassisDerelict.desc }
@@ -87,7 +87,7 @@ ent-PlayerMedicalBorgDerelict = { ent-MedicalBorgChassisDerelict }
 
 ent-PlayerMedicalBorgDerelictGhostRole = { ent-PlayerMedicalBorgDerelict }
     .desc = { ent-PlayerMedicalBorgDerelict.desc }
-    .suffix = Призрачная роль
+    .suffix = Роль призрака
 
 ent-PlayerMiningBorgDerelict = { ent-MiningBorgChassisDerelict }
     .desc = { ent-MiningBorgChassisDerelict.desc }
@@ -95,7 +95,7 @@ ent-PlayerMiningBorgDerelict = { ent-MiningBorgChassisDerelict }
 
 ent-PlayerMiningBorgDerelictGhostRole = { ent-PlayerMiningBorgDerelict }
     .desc = { ent-PlayerMiningBorgDerelict.desc }
-    .suffix = Призрачная роль
+    .suffix = Роль призрака
 
 ent-PlayerSyndicateAssaultBorgDerelict = { ent-SyndicateAssaultBorgChassisDerelict }
     .desc = { ent-SyndicateAssaultBorgChassisDerelict.desc }
@@ -103,4 +103,4 @@ ent-PlayerSyndicateAssaultBorgDerelict = { ent-SyndicateAssaultBorgChassisDereli
 
 ent-PlayerBorgSyndicateDerelictGhostRole = { ent-PlayerSyndicateAssaultBorgDerelict }
     .desc = { ent-PlayerSyndicateAssaultBorgDerelict.desc }
-    .suffix = Призрачная роль
+    .suffix = Роль призрака

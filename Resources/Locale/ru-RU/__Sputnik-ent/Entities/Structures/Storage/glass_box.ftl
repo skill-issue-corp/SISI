@@ -1,29 +1,29 @@
 ent-BaseGlassBox = { ent-BaseStructureDynamic }
     .desc = { ent-BaseStructureDynamic.desc }
 
-ent-GlassBox = стеклянный короб
-    .desc = Прочная витрина для дорогостоящего экспоната.
+ent-GlassBox = стеклянная витрина
+    .desc = Прочная витрина для дорогого экспоната.
 
 ent-GlassBoxLaser = { ent-GlassBox }
     .desc = { ent-GlassBox.desc }
-    .suffix = Антикварный лазер
+    .suffix = АнтикварныйЛазер
 
 ent-GlassBoxLaserOpen = { ent-GlassBoxLaser }
-    .suffix = Антикварный лазер, Открытый
     .desc = { ent-GlassBoxLaser.desc }
+    .suffix = АнтикварныйЛазер, Открыто
 
 ent-GlassBoxLaserFilled = { ent-GlassBoxLaser }
-    .suffix = Антикварный лазер, Заполненный
     .desc = { ent-GlassBoxLaser.desc }
+    .suffix = АнтикварныйЛазер, Заполнено, Блокировка По Уровню Тревоги
 
 ent-GlassBoxLaserFilledOpen = { ent-GlassBoxLaserFilled }
-    .suffix = Антикварный лазер, Заполненный, Открытый
     .desc = { ent-GlassBoxLaserFilled.desc }
+    .suffix = АнтикварныйЛазер, Заполнено, Открыто
 
-ent-GlassBoxFrame = каркас стеклянного короба
-    .desc = Неостеклённая витрина для дорогостоящего экспоната.
+ent-GlassBoxFrame = каркас стеклянной витрины
+    .desc = Прочная витрина для дорогого экспоната, пока без стекла.
     .suffix = Каркас
 
-ent-GlassBoxBroken = разбитый стеклянный короб
-    .desc = Разбитая витрина для дорогостоящего экспоната.
-    .suffix = Разбитый
+ent-GlassBoxBroken = разбитая стеклянная витрина
+    .desc = Разбитая витрина для украденного дорогого экспоната.
+    .suffix = Сломано

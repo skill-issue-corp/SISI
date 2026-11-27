@@ -1,2 +1,2 @@
-ent-SpawnPodNTRDimension = SpawnPodNTRDimension
+ent-SpawnPodNTRDimension = КапсулаСпавнаИзмеренияПНТ
     .desc = { ent-SpawnSupplyEmpty.desc }

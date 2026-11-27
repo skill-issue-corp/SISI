@@ -1,9 +1,9 @@
 ent-BaseEnergyReagentDispenser = { ent-SmallConstructibleMachine }
     .desc = { ent-SmallConstructibleMachine.desc }
-    .suffix = Энергия
+    .suffix = Энергетический
 
 ent-BaseEnergyReagentDispenserAnimated = { ent-BaseEnergyReagentDispenser }
     .desc = { ent-BaseEnergyReagentDispenser.desc }
 
 ent-EnergyChemDispenser = энергетический раздатчик химикатов
-    .desc = Блюспейс раздатчик химикатов, использующий энергию для синтеза реагентов. Будущее уже наступило.
+    .desc = Блюспейсный Раздатчик Химикатов, который использует энергию станции для синтеза Реагентов. Будущее уже здесь.

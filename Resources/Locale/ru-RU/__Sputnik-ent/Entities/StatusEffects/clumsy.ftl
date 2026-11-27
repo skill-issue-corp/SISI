@@ -1,4 +1,4 @@
-ent-StatusEffectClumsyAll = неуклюжий
+ent-StatusEffectClumsyAll = неуклюжесть
     .desc = { ent-StatusEffectBase.desc }
 
 ent-StatusEffectClumsyClown = { ent-StatusEffectClumsyAll }

@@ -1,20 +1,20 @@
-ent-CrateSecurityWeaponLaserSidearm = ящик с фазерами
-    .desc = Содержит три фазера. Для открытия требуется доступ службы безопасности.
+ent-CrateSecurityWeaponLaserSidearm = ящик фазеров
+    .desc = Содержит три фазера. Для открытия нужен доступ службы безопасности.
 
-ent-CrateSecurityGunpowder = ящик с порохом
-    .desc = Содержит одну партию пороха. Для открытия требуется доступ службы безопасности.
+ent-CrateSecurityGunpowder = ящик пороха
+    .desc = Содержит одну партию пороха. Для открытия нужен доступ службы безопасности.
 
-ent-CrateSkillChipsSec = ящик с чипами навыков службы безопасности
-    .desc = Ящик с чипами навыков службы безопасности. Для открытия требуется доступ службы безопасности.
+ent-CrateSkillChipsSec = ящик чипов навыков службы безопасности
+    .desc = Ящик с чипами навыков службы безопасности. Для открытия нужен доступ службы безопасности.
 
-ent-GunSafeLaserRandom = сейф с лазерным оружием
+ent-GunSafeLaserRandom = сейф для лазеров
     .desc = { ent-GunSafeBaseSecure.desc }
 
-ent-GunSafeBallisticRandom = сейф с баллистическим оружием
+ent-GunSafeBallisticRandom = сейф огнестрельного оружия
     .desc = { ent-GunSafeBaseSecure.desc }
 
-ent-GunSafeTruncheon = сейф с дубинкой
+ent-GunSafeTruncheon = сейф боевых дубинок
     .desc = { ent-GunSafeBaseSecure.desc }
 
-ent-GunSafeCburnSpear = сейф с копьём для усмирения
+ent-GunSafeCburnSpear = сейф с копьями для добивания
     .desc = { ent-GunSafeBaseSecure.desc }

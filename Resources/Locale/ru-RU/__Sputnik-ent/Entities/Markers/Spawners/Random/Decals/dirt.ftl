@@ -1,17 +1,22 @@
 ent-DecalSpawnerDirtBase = { ent-DecalSpawnerBase }
     .desc = { ent-DecalSpawnerBase.desc }
+
 ent-DecalSpawnerDirtSingle = { ent-DecalSpawnerDirtBase }
+    .desc = { ent-DecalSpawnerDirtBase.desc }
     .suffix = Грязь, Радиус 0
-    .desc = { ent-DecalSpawnerDirtBase.desc }
+
 ent-DecalSpawnerDirtNear = { ent-DecalSpawnerDirtBase }
+    .desc = { ent-DecalSpawnerDirtBase.desc }
     .suffix = Грязь, Радиус 1.5
-    .desc = { ent-DecalSpawnerDirtBase.desc }
+
 ent-DecalSpawnerDirtWide = { ent-DecalSpawnerDirtBase }
+    .desc = { ent-DecalSpawnerDirtBase.desc }
     .suffix = Грязь, Радиус 3
-    .desc = { ent-DecalSpawnerDirtBase.desc }
+
 ent-DecalSpawnerDirtMonospace = { ent-DecalSpawnerDirtBase }
-    .suffix = Грязь, Моно, Радиус 1
     .desc = { ent-DecalSpawnerDirtBase.desc }
+    .suffix = Грязь, Моноспейс, Радиус 1
+
 ent-DecalSpawnerBurns = { ent-DecalSpawnerDirtMonospace }
-    .suffix = Сгоревшее, Радиус 1
     .desc = { ent-DecalSpawnerDirtMonospace.desc }
+    .suffix = Подпалины, Радиус 1

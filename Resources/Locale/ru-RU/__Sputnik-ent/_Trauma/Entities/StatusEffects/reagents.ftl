@@ -4,7 +4,7 @@ ent-SarinSlowdownStatusEffect = замедление от зарина
 ent-MicroplasticsStatusEffect = накопление микропластика
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-OleoresinSlowdownStatusEffect = замедление от олеорезина
+ent-OleoresinSlowdownStatusEffect = замедление от масляной смолы
     .desc = { ent-StatusEffectSlowdown.desc }
 
 ent-FentanylSlowdownStatusEffect = замедление от фентанила
@@ -22,10 +22,10 @@ ent-TirimolSlowdownStatusEffect = замедление от тиримола
 ent-AtropineSlowdownStatusEffect = замедление от атропина
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-EpinephrineStatusEffect = прилив от эпинефрина
+ent-EpinephrineStatusEffect = прилив сил от эпинефрина
     .desc = { ent-StatusEffectSpeed.desc }
 
-ent-CaffeineRushStatusEffect = кофеиновый прилив
+ent-CaffeineRushStatusEffect = прилив сил от кофеина
     .desc = { ent-StatusEffectSpeed.desc }
 
 ent-CaffeineSlowdownStatusEffect = замедление от кофеина

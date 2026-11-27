@@ -1,18 +1,26 @@
 ent-ClothingHandModsuitBase = { ent-ClothingHandsBase }
     .desc = { ent-ClothingHandsBase.desc }
-ent-ClothingModsuitGauntletsStandard = стандартные перчатки скафандра MOD
-    .desc = Специальные модульные перчатки костюма, защищающие владельца от электрического удара.
-ent-ClothingModsuitGauntletsSecurity = перчатки скафандра MOD «Солдат»
-    .desc = Прочные модульные перчатки костюма для крепкого захвата преступников и оружия.
-ent-ClothingModsuitGauntletsParamedic = перчатки скафандра MOD «Санитар»
-    .desc = Чёрно-белые модульные перчатки костюма для надёжного захвата шприцов и пациентов.
-ent-ClothingModsuitGauntletsHeadOfSecurity = перчатки скафандра MOD «Бастион»
-    .desc = Прочные модульные перчатки костюма для крепкого захвата преступников и оружия. Изолированные.
-ent-ClothingModsuitGauntletsEngineer = перчатки скафандра MOD «Сапёр»
-    .desc = Заляпанные маслом модульные перчатки костюма для лёгкого нажатия кнопок на РСУ.
-ent-ClothingModsuitGauntletsAtmostech = перчатки скафандра MOD «Эол»
-    .desc = Модульные перчатки костюма с асбестовой подкладкой для лёгкого нажатия кнопок на РФУ.
-ent-ClothingModsuitGauntletsResearchDirector = перчатки скафандра MOD «Минерва»
-    .desc = Чтобы сохранить пальцы целыми, когда артефакт термоядерит тебя.
-ent-ClothingModsuitGauntletsCaptain = перчатки скафандра MOD "Магнат"
-    .desc = С особыми канавками и вырезами, чтобы удобнее держать этот чёртов диск.
+
+ent-ClothingModsuitGauntletsStandard = перчатки стандартного модсьюта
+    .desc = Стандартные перчатки модульного костюма, защищающие руки при касании ламп.
+
+ent-ClothingModsuitGauntletsSecurity = перчатки модсьюта «солдат»
+    .desc = Робастные перчатки модульного костюма, чтобы крепче держать нарушителей и оружие.
+
+ent-ClothingModsuitGauntletsParamedic = перчатки модсьюта «санитар»
+    .desc = Чёрно-белые перчатки модульного костюма, чтобы крепче держать таблетки и пациентов.
+
+ent-ClothingModsuitGauntletsHeadOfSecurity = перчатки модсьюта «бастион»
+    .desc = Робастные перчатки модульного костюма, чтобы крепче держать нарушителей и оружие. Изолирующие.
+
+ent-ClothingModsuitGauntletsEngineer = перчатки модсьюта «сапёр»
+    .desc = Перчатки модульного костюма в масляных пятнах. В них удобно нажимать кнопки РСУ.
+
+ent-ClothingModsuitGauntletsAtmostech = перчатки модсьюта «эол»
+    .desc = Перчатки модульного костюма с асбестовой подкладкой. В них удобно нажимать кнопки РУП.
+
+ent-ClothingModsuitGauntletsResearchDirector = перчатки модсьюта «минерва»
+    .desc = Чтобы все 10 пальцев остались при вас, когда артефакт устроит термоядерный взрыв.
+
+ent-ClothingModsuitGauntletsCaptain = перчатки модсьюта «магнат»
+    .desc = Особые выемки и прорези, чтобы удобнее было держать этот сраный диииск.

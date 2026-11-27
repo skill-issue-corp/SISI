@@ -1,37 +1,37 @@
-ent-SalvageMaterialCrateSpawner = спавнер обломок ящик материалов
+ent-SalvageMaterialCrateSpawner = Спавнер Ящика Материалов для Утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SalvageLootSpawner = спавнер обломок добыча
+ent-SalvageLootSpawner = спавнер добычи для утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SalvageMobSpawner = спавнер обломок моб
+ent-SalvageMobSpawner = Спавнер Существ для Утилизаторов
     .desc = { ent-MarkerBase.desc }
     .suffix = 25
 
 ent-SalvageMobSpawner75 = { ent-SalvageMobSpawner }
+    .desc = { ent-SalvageMobSpawner.desc }
     .suffix = 75
-    .desc = { ent-SalvageMobSpawner.desc }
 
-ent-SpaceTickSpawner = спавнер космический клещ
+ent-SpaceTickSpawner = Спавнер Космических Клещей для Утилизаторов
+    .desc = { ent-MarkerBase.desc }
     .suffix = 100
+
+ent-SpawnMobBearSalvage = Спавнер Космических Медведей для Утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobBearSalvage = спавнер обломок космический медведь
+ent-SpawnMobKangarooSalvage = Спавнер Космических Кенгуру для Утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobKangarooSalvage = спавнер обломок космический кенгуру
+ent-SpawnMobSpiderSalvage = Спавнер Космических Пауков для Утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobSpiderSalvage = спавнер обломок космический паук
+ent-SpawnMobCobraSalvage = Спавнер Космических Кобр для Утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobCobraSalvage = спавнер обломок космическая кобра
+ent-SalvageFleshSpawner = Спавнер Плоти для Утилизаторов
     .desc = { ent-MarkerBase.desc }
-
-ent-SalvageFleshSpawner = спавнер обломок плоть
     .suffix = 100
-    .desc = { ent-SalvageMobSpawner.desc }
 
-ent-SalvageLivingLightSpawner = спавнер живого светильника
+ent-SalvageLivingLightSpawner = Спавнер Живого Света для Утилизаторов
     .desc = { ent-MarkerBase.desc }
     .suffix = 100

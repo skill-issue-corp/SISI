@@ -1,9 +1,9 @@
-ent-AppearanceSlaughterDemon = внешность демона-мясника
+ent-AppearanceSlaughterDemon = внешность демона резни
     .desc = { ent-BaseMobBody.desc }
 
 ent-OrganSlaughterDemon = { ent-OrganBase }
     .desc = { ent-OrganBase.desc }
-    .suffix = Демон-мясник
+    .suffix = демон резни
 
 ent-OrganSlaughterDemonInternal = { ent-OrganSlaughterDemon }
     .desc = { ent-OrganSlaughterDemon.desc }

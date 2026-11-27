@@ -1,5 +1,5 @@
-ent-ClothingHandsBase = { ent-Clothing }
-    .desc = { ent-Clothing.desc }
+ent-ClothingHandsBase = { ent-SolutionFood }
+    .desc = { ent-SolutionFood.desc }
 
 ent-ClothingHandsButcherable = { ent-ClothingHandsBase }
     .desc = { ent-ClothingHandsBase.desc }
@@ -14,4 +14,4 @@ ent-GoldRingBase = { "" }
     .desc = { "" }
 
 ent-SilverRingBase = серебряное кольцо
-    .desc = Выглядит немного дешевле золотого.
+    .desc = Выглядит чуть дешевле золотого.

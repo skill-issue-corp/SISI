@@ -1,2 +1,2 @@
-weldbot-start-weld = Стойте на месте, пожалуйста.
-weldbot-finish-weld = Выполнено.
+weldbot-start-weld = Пожалуйста, не двигайтесь.
+weldbot-finish-weld = Готово.

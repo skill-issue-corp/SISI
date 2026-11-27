@@ -1,10 +1,10 @@
 ent-CandyBowlFilledLollypopsMystery = { ent-CandyBowl }
-    .suffix = Загадочный, Лекарственные
     .desc = { ent-CandyBowl.desc }
+    .suffix = сюрприз, хороший
 
 ent-DeterrentCaseFilled = { ent-DeterrentCase }
-    .suffix = Заполненный, ЦК
     .desc = { ent-DeterrentCase.desc }
+    .suffix = Заполнено, ЦК
 
 ent-ClothingShoesBootsJackAdvancedFilled = { ent-ClothingShoesBootsJackAdvanced }
     .desc = { ent-ClothingShoesBootsJackAdvanced.desc }

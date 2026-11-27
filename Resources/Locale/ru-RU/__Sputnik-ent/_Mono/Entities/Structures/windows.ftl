@@ -1,24 +1,31 @@
-ent-ReinforcedWindowOutpost = усиленное окно
+ent-ReinforcedWindowOutpost = бронеокно
     .desc = { ent-ReinforcedWindow.desc }
-    .suffix = ТОЛЬКО ДЛЯ АЎТПОСТА
+    .suffix = ТОЛЬКО ДЛЯ АВАНПОСТОВ
+
 ent-ReinforcedWindowDiagonalOutpost = { ent-ReinforcedWindowDiagonal }
     .desc = { ent-ReinforcedWindowDiagonal.desc }
-    .suffix = Диагональное, ТОЛЬКО ДЛЯ АУТПОСТА
+    .suffix = диагональное, ТОЛЬКО ДЛЯ АВАНПОСТОВ
+
 ent-PlastitaniumWindowOutpost = { ent-PlastitaniumWindow }
     .desc = { ent-PlastitaniumWindow.desc }
-    .suffix = ТОЛЬКО ДЛЯ АУТПОСТА
+    .suffix = ТОЛЬКО ДЛЯ АВАНПОСТОВ
+
 ent-PlastitaniumWindowDiagonalOutpost = { ent-PlastitaniumWindowDiagonal }
     .desc = { ent-PlastitaniumWindowDiagonal.desc }
-    .suffix = Диагональное, ТОЛЬКО ДЛЯ АУТПОСТА
-ent-PlasturaniumWindowDiagonalRadProof = плазтурановое окно
-    .desc = Не разводите там грязь среди радиации.
-    .suffix = Радиационностойкое
-ent-PlasturaniumWindowRadProof = плазтурановое окно
-    .desc = Не разводите там грязь среди радиации.
-    .suffix = Радиационностойкое
-ent-PlasturaniumWindowDiagonalRadProofIndestructible = плазтурановое окно
-    .desc = Не разводите там грязь среди радиации.
-    .suffix = Радиационностойкое, Неразрушимое
-ent-PlasturaniumWindowRadProofIndestructible = плазтурановое окно
-    .desc = Не разводите там грязь среди радиации.
-    .suffix = Радиационностойкое, Неразрушимое
+    .suffix = диагональное, ТОЛЬКО ДЛЯ АВАНПОСТОВ
+
+ent-PlasturaniumWindowDiagonalRadProof = пластурановое окно
+    .desc = Не размажьте там радиацию.
+    .suffix = Защита от Радиации
+
+ent-PlasturaniumWindowRadProof = пластурановое окно
+    .desc = Не размажьте там радиацию.
+    .suffix = Защита от Радиации
+
+ent-PlasturaniumWindowDiagonalRadProofIndestructible = пластурановое окно
+    .desc = Не размажьте там радиацию.
+    .suffix = Защита от Радиации, Неразрушимое
+
+ent-PlasturaniumWindowRadProofIndestructible = пластурановое окно
+    .desc = Не размажьте там радиацию.
+    .suffix = Защита от Радиации, Неразрушимое

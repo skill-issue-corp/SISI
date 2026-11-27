@@ -1,5 +1,5 @@
-ent-ClothingHeadEnvirohelmBase = экошлем базовые
+ent-ClothingHeadEnvirohelmBase = базовый экошлем
     .desc = { ent-ClothingHeadBase.desc }
 
-ent-ClothingHeadEnvirohelmCustomBase = экошлем кастомный
+ent-ClothingHeadEnvirohelmCustomBase = базовый перекрашиваемый экошлем
     .desc = { ent-ClothingHeadEnvirohelmBase.desc }

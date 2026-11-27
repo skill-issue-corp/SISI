@@ -1,8 +1,10 @@
-revenant-crush-chaplain = Какая-то таинственная сила защищает его от вашего влияния.
-revenant-crush-start = Ревенант тянется к вам, совершая сокрушительные действия.
-revenant-crush-you = Вы полностью раздавлены.
-revenant-touch-of-evil-start = Вам кажется, что вы способны справиться с кем угодно!
-revenant-touch-of-evil-end = Эффект прикосновения исчезает...
-wraith-must-be-corporeal = Для использования этого действия вы должны находиться в материальной форме.
-collective-mind-wraith = Разум Фантома
-wraith-wp-action-needs = [color=Red]{ $wp }ФС[/color]
+revenant-crush-chaplain = Некая таинственная сила защищает их от вашего влияния.
+revenant-crush-start = Ревенант тянется к вам и сжимает руку, словно хочет раздавить.
+revenant-crush-you = Вас раздавило.
+
+revenant-touch-of-evil-start = Вам кажется, что вы справитесь с кем угодно!!
+revenant-touch-of-evil-end = Эффект прикосновения проходит...
+
+wraith-must-be-corporeal = Для этого действия нужна материальная форма.
+collective-mind-wraith = Коллективный Разум Фантомов
+wraith-wp-action-needs = [color=Red]{$wp}ФО[/color]

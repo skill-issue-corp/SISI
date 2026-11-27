@@ -1,7 +1,6 @@
-cmd-powerstat-desc = Показывает статистику электропитания.
+cmd-powerstat-desc = Показывает статистику pow3r.
 cmd-powerstat-help = Использование: powerstat
-cmd-powerstat-output =
-    Сети:   { $networks }
-    Нагрузка:      { $loads }
-    Запасы:   { $supplies }
-    Батареи:  { $batteries }
+cmd-powerstat-output = Сети:        {$networks}
+                       Нагрузки:    {$loads}
+                       Источники:   {$supplies}
+                       Батареи:     {$batteries}

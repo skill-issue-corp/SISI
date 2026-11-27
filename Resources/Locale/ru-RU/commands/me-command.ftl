@@ -1,2 +1,2 @@
-cmd-me-desc = Выполняет действие.
+cmd-me-desc = Выполнить действие.
 cmd-me-help = Использование: me <text>

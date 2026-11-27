@@ -1,8 +1,11 @@
 ent-OrganPizza = { ent-OrganBase }
-    .desc = Для тех случаев, когда вы хотите превратить кого-то в Спейс Джонс.
+    .desc = На случай, если вам захочется превратить кого-нибудь в «Космо Джона».
+
 ent-OrganPizzaExternal = { ent-OrganPizza }
     .desc = { ent-OrganPizza.desc }
-ent-OrganPizzaArmLeft = левая рука-пицца
+
+ent-OrganPizzaArmLeft = левая рука из пиццы
     .desc = { ent-OrganBaseArmLeft.desc }
-ent-OrganPizzaArmRight = правая рука-пицца
+
+ent-OrganPizzaArmRight = правая рука из пиццы
     .desc = { ent-OrganBaseArmRight.desc }

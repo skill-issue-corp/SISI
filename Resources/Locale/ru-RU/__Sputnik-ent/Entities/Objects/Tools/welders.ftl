@@ -2,28 +2,28 @@ ent-BaseWelder = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
 
 ent-Welder = сварочный аппарат
-    .desc = Плавит всё что угодно, пока заправлен. Не забывайте о защите глаз!
+    .desc = Плавит всё, пока есть топливо. Не забудьте защитить глаза!
 
 ent-SolutionToolWelder = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
 
 ent-WelderIndustrial = промышленный сварочный аппарат
-    .desc = Промышленный сварочный аппарат с увеличенным более чем вдвое запасом топлива.
+    .desc = Промышленный сварочный аппарат с более чем вдвое увеличенным топливным баком.
 
 ent-SolutionToolWelderIndsutrial = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
 
 ent-WelderIndustrialAdvanced = продвинутый промышленный сварочный аппарат
-    .desc = Продвинутый промышленный сварочный аппарат с увеличенным более чем вдвое запасом топлива и более мощным пламенем.
+    .desc = Продвинутый промышленный сварочный аппарат с более чем вдвое увеличенным топливным баком и более горячим пламенем.
 
 ent-WelderExperimental = экспериментальный сварочный аппарат
-    .desc = Экспериментальный сварочный аппарат, способный самостоятельно вырабатывать топливо, менее вреден для глаз.
+    .desc = Экспериментальный сварочный аппарат, вырабатывающий собственное топливо и меньше вредящий глазам.
 
 ent-SolutionToolWelderExperimental = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
 
 ent-WelderMini = аварийный сварочный аппарат
-    .desc = Миниатюрный сварочный аппарат, используемый во время чрезвычайных ситуаций.
+    .desc = Миниатюрный сварочный аппарат для чрезвычайных ситуаций.
 
 ent-SolutionToolWelderMiniEmergency = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
@@ -31,5 +31,5 @@ ent-SolutionToolWelderMiniEmergency = { ent-SolutionWelder }
 ent-SolutionToolWelderMini = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
 
-ent-RefuelingWelder = самозаполняющийся сварочный аппарат
-    .desc = Медленный сварочный аппарат, восполняющий топливо со временем.
+ent-RefuelingWelder = самозаправляющийся сварочный аппарат
+    .desc = Медленный сварочный аппарат, автоматически восполняющий топливо со временем.

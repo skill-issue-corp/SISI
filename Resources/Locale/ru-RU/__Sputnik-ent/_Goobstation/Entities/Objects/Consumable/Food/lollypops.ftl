@@ -1,289 +1,289 @@
-ent-FoodSnackLollypopWrappedBase = { ent-FoodBase }
-    .desc = Обычный леденец в обертке.
+ent-FoodSnackLollypopWrappedBase = { ent-BaseItem }
+    .desc = Самый обычный леденец на палочке. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopBase = { ent-FoodBase }
-    .desc = Обычный леденец со вкусом вишни.
+ent-FoodSnackLollypopBase = { ent-FoodUnperishableInjectableBase }
+    .desc = Самый обычный леденец на палочке. Со вкусом вишни.
 
-ent-FoodSnackLollypopWrappedBaseSyndicate = леденец синдиката в обертке
-    .desc = Леденец, вероятно, наполненный опасной химией. Всё ещё в обертке.
+ent-FoodSnackLollypopWrappedBaseSyndicate = леденец синдиката на палочке в обёртке
+    .desc = Леденец на палочке с химикатами, наверное, опасный. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopBaseSyndicate = леденец
-    .desc = Обычный леденец, вызывающий дурное предчувствие.
+ent-FoodSnackLollypopBaseSyndicate = леденец на палочке
+    .desc = Самый обычный леденец на палочке. От этого вам почему-то не по себе.
 
-ent-FoodSnackLollypopWrappedBaseNanotrasen = леденец NanoTrasen в обертке
-    .desc = Вероятно дорогой леденец, всё ещё в золотой обертке.
+ent-FoodSnackLollypopWrappedBaseNanotrasen = леденец NanoTrasen на палочке в обёртке
+    .desc = Леденец на палочке, наверное, дорогой. Всё ещё в золотой обёртке.
 
-ent-FoodSnackLollypopBaseNanotrasen = леденец NanoTrasen
-    .desc = Леденец с дорогим вкусом.
+ent-FoodSnackLollypopBaseNanotrasen = леденец NanoTrasen на палочке
+    .desc = Леденец на палочке со вкусом роскоши.
 
-ent-FoodSnackLollypopWrappedBaseCentcomm = леденец ЦК в обертке
-    .desc = Очень дорогой леденец, всё ещё в золотой обертке.
+ent-FoodSnackLollypopWrappedBaseCentcomm = леденец ЦК на палочке в обёртке
+    .desc = Очень дорогой леденец на палочке. Всё ещё в золотой обёртке.
 
-ent-FoodSnackLollypopBaseCentcomm = леденец ЦК
-    .desc = Чрезвычайно дорогой леденец. Может содержать немыслимое количество химикатов.
+ent-FoodSnackLollypopBaseCentcomm = леденец ЦК на палочке
+    .desc = Леденец на палочке со вкусом баснословной роскоши. Вмещает неприличное количество химикатов.
 
-ent-FoodSnackLollypopWrapped = леденец в обертке
-    .desc = Обычный леденец в обертке.
+ent-FoodSnackLollypopWrapped = леденец на палочке в обёртке
+    .desc = Самый обычный леденец на палочке. Всё ещё в обёртке.
 
-ent-FoodSnackLollypop = леденец
-    .desc = Обычный вишневый леденец!
+ent-FoodSnackLollypop = леденец на палочке
+    .desc = Самый обычный леденец на палочке. Со вкусом вишни!
 
-ent-FoodSnackLollypopWrappedRainbow = радужный леденец в обертке
-    .desc = Радужный леденец. Настоящая роскошь!
+ent-FoodSnackLollypopWrappedRainbow = радужный леденец на палочке в обёртке
+    .desc = Леденец на палочке всех цветов радуги. Как изысканно!
 
-ent-FoodSnackLollypopRainbow = радужный леденец
-    .desc = Радужный леденец со вкусом слёз единорога.
+ent-FoodSnackLollypopRainbow = радужный леденец на палочке
+    .desc = Леденец на палочке всех цветов радуги. Со вкусом слёз единорога.
 
-ent-FoodSnackLollypopWrappedCarp = леденец в форме карпа в обертке
-    .desc = Леденец в форме карпа. Забавно!
+ent-FoodSnackLollypopWrappedCarp = леденец-карп на палочке в обёртке
+    .desc = Леденец на палочке в форме карпа. Какая глупость!
 
-ent-FoodSnackLollypopCarp = леденец в форме карпа
-    .desc = Леденец в форме карпа. Осторожно, кусается!
+ent-FoodSnackLollypopCarp = леденец-карп на палочке
+    .desc = Леденец на палочке в форме карпа. Осторожно, кусается!
 
-ent-FoodSnackLollypopWrappedCaptain = леденец капитана в обертке
-    .desc = Экстравагантный леденец, всё ещё в обертке.
+ent-FoodSnackLollypopWrappedCaptain = капитанский леденец на палочке в обёртке
+    .desc = Роскошный леденец на палочке. Всё ещё в обёртке
 
-ent-FoodSnackLollypopCaptain = леденец капитана
-    .desc = Голубоватый леденец с потенциально вредным количеством золота. Только для лучших капитанов.
+ent-FoodSnackLollypopCaptain = капитанский леденец на палочке
+    .desc = Синеватый леденец на палочке, в котором подозрительно много сусального золота. Только для самых-пресамых хороших капитанов.
 
-ent-FoodSnackLollypopWrappedCentComm = леденец ЦК в обертке
-    .desc = Ещё более экстравагантный леденец, всё ещё в обертке.
+ent-FoodSnackLollypopWrappedCentComm = леденец ЦК на палочке в обёртке
+    .desc = Ещё более роскошный леденец на палочке. Всё ещё в обёртке
 
-ent-FoodSnackLollypopCentcomm = леденец ЦК
-    .desc = Зелёный леденец с крайне вредным количеством золота. Только для лучших агентов ЦентКом.
+ent-FoodSnackLollypopCentcomm = леденец ЦК на палочке
+    .desc = Зелёный леденец на палочке с крайне вредным количеством сусального золота. Только для лучших агентов ЦК.
 
-ent-FoodSnackLollypopWrappedBicaridine = леденец с бикаридином в обертке
-    .desc = Леденец с бикаридином, в обертке.
+ent-FoodSnackLollypopWrappedBicaridine = леденец на палочке с бикаридином в обёртке
+    .desc = Леденец на палочке с бикаридином. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopBicaridine = леденец с бикаридином
-    .desc = Леденец с бикаридином, со вкусом апельсинов.
+ent-FoodSnackLollypopBicaridine = леденец на палочке с бикаридином
+    .desc = Леденец на палочке с бикаридином. Со вкусом апельсинов.
 
-ent-FoodSnackLollypopWrappedProbital = леденец с пробиталом в обертке
-    .desc = Леденец с пробиталом, в обертке.
+ent-FoodSnackLollypopWrappedProbital = леденец на палочке с пробиталом в обёртке
+    .desc = Леденец на палочке с пробиталом. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopProbital = солнечный леденец
-    .desc = Ярко-жёлтый леденец, наполненный пробиталом. Любимец Сола!
+ent-FoodSnackLollypopProbital = солнечный леденец на палочке
+    .desc = Ярко-жёлтый леденец на палочке с пробиталом. Любимое лакомство Солнца!
 
-ent-FoodSnackLollypopWrappedKelotane = леденец с келотаном в обертке
-    .desc = Леденец с келотаном, в обертке.
+ent-FoodSnackLollypopWrappedKelotane = леденец на палочке с келотаном в обёртке
+    .desc = Леденец на палочке с келотаном. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopKelotane = леденец с келотаном
-    .desc = Леденец с келотаном. Рекомендуется есть вместе с дермалином для максимального эффекта.
+ent-FoodSnackLollypopKelotane = леденец на палочке с келотаном
+    .desc = Леденец на палочке с келотаном. Для максимального эффекта съешьте одновременно с леденцом с дермалином.
 
-ent-FoodSnackLollypopWrappedDermaline = леденец с дермалином в обертке
-    .desc = Леденец с дермалином, в обертке.
+ent-FoodSnackLollypopWrappedDermaline = леденец на палочке с дермалином в обёртке
+    .desc = Леденец на палочке с дермалином. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopDermaline = леденец с дермалином
-    .desc = Леденец с дермалином, со вкусом... синего?
+ent-FoodSnackLollypopDermaline = леденец на палочке с дермалином
+    .desc = Леденец на палочке с дермалином. Со вкусом... синего?
 
-ent-FoodSnackLollypopWrappedTricordrazine = леденец с трикордразином в обертке
-    .desc = Леденец с трикордразином, в обертке.
+ent-FoodSnackLollypopWrappedTricordrazine = леденец на палочке с трикордразином в обёртке
+    .desc = Леденец на палочке с Трикордразином. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopTricordrazine = леденец с трикордразином
-    .desc = Леденец с трикордразином. Любимец докторов!
+ent-FoodSnackLollypopTricordrazine = леденец на палочке с Трикордразином
+    .desc = Леденец на палочке с Трикордразином. Любимое лакомство врачей!
 
-ent-FoodSnackLollypopWrappedDylovene = леденец с диловеном в обертке
-    .desc = Леденец с диловеном, в обертке.
+ent-FoodSnackLollypopWrappedDylovene = леденец на палочке с диловеном в обёртке
+    .desc = Леденец на палочке с диловеном. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopDylovene = леденец с диловеном
-    .desc = Леденец с диловеном. Тускло-фиолетовый.
+ent-FoodSnackLollypopDylovene = леденец на палочке с диловеном
+    .desc = Леденец на палочке с диловеном. Тускло-фиолетового цвета.
 
-ent-FoodSnackLollypopWrappedOmnizine = леденец с омнизином в обертке
-    .desc = Леденец с омнизином, в обертке.
+ent-FoodSnackLollypopWrappedOmnizine = леденец на палочке с омнизином в обёртке
+    .desc = Леденец на палочке с омнизином. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopOmnizine = леденец с омнизином
-    .desc = Леденец с омнизином. Для лучших пациентов.
+ent-FoodSnackLollypopOmnizine = леденец на палочке с омнизином
+    .desc = Леденец на палочке с омнизином. Приберегают для лучших пациентов.
 
-ent-FoodSnackLollypopWrappedDexalinPlus = леденец с дексалином плюс в обертке
-    .desc = Леденец с дексалином плюс, в обертке.
+ent-FoodSnackLollypopWrappedDexalinPlus = леденец на палочке с дексалином плюс в обёртке
+    .desc = Леденец на палочке с дексалином плюс. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopDexalinPlus = леденец с дексалином плюс
-    .desc = Леденец с дексалином плюс. Обычно заставляют принимать тех, кто забыл про внутренности.
+ent-FoodSnackLollypopDexalinPlus = леденец на палочке с дексалином плюс
+    .desc = Леденец на палочке с дексалином плюс. Обычно его насильно скармливают тем, кто забыл дыхательное снаряжение.
 
-ent-FoodSnackLollypopWrappedHyronalin = леденец с хироналином в обертке
-    .desc = Леденец с хироналином, в обертке.
+ent-FoodSnackLollypopWrappedHyronalin = леденец на палочке с хироналином в обёртке
+    .desc = Леденец на палочке с хироналином. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopHyronalin = леденец с хироналином
-    .desc = Леденец с хироналином. Не настолько эффективен, как хотелось бы.
+ent-FoodSnackLollypopHyronalin = леденец на палочке с хироналином
+    .desc = Леденец на палочке с хироналином. Не так эффективен, как хотелось бы.
 
-ent-FoodSnackLollypopWrappedIbuprofen = леденец с ибупрофеном в обертке
-    .desc = Леденец с ибупрофеном, в обертке.
+ent-FoodSnackLollypopWrappedIbuprofen = леденец на палочке с ибупрофеном в обёртке
+    .desc = Леденец на палочке с ибупрофеном. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopIbuprofen = леденец с ибупрофеном
-    .desc = Леденец с ибупрофеном. Оставляет неприятное послевкусие.
+ent-FoodSnackLollypopIbuprofen = леденец на палочке с ибупрофеном
+    .desc = Леденец на палочке с ибупрофеном. Оставляет неприятное послевкусие.
 
-ent-FoodSnackLollypopWrappedAntihol = леденец с антихолом в обертке
-    .desc = Леденец с антихолом, в обертке.
+ent-FoodSnackLollypopWrappedAntihol = леденец на палочке с антихолом в обёртке
+    .desc = Леденец на палочке с антихолом. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopAntihol = леденец с антихолом
-    .desc = Леденец с калоем. Лучший друг пьяниц.
+ent-FoodSnackLollypopAntihol = леденец на палочке с антихолом
+    .desc = Леденец на палочке с каломелью. Лучший друг пьяницы.
 
-ent-FoodSnackLollypopWrappedMitotrophin = леденец с митотрофином в обертке
-    .desc = Леденец с митотрофином, в обертке.
+ent-FoodSnackLollypopWrappedMitotrophin = леденец на палочке с митотрофином в обёртке
+    .desc = Леденец на палочке с митотрофином. Всё ещё в обёртке.
 
-ent-FoodSnackLollypopMitotrophin = леденец с митотрофином
-    .desc = Леденец с митотрофином. Ужасно на вкус, но быстро выздоравливаешь.
+ent-FoodSnackLollypopMitotrophin = леденец на палочке с митотрофином
+    .desc = Леденец на палочке с митотрофином. Ужасен на вкус, зато вам мигом станет лучше.
 
-ent-FoodSnackLollypopWrappedMystery = загадочный леденец в обертке
-    .desc = Загадочный леденец. Идеален для врачебных нужд.
-    .suffix = хороший
+ent-FoodSnackLollypopWrappedMystery = загадочный леденец на палочке в обёртке
+    .desc = Загадочный леденец на палочке. Идеален для любых врачебных нужд.
+    .suffix = добрый
 
-ent-FoodSnackLollypopWrappedMysteryNeutral = нейтральный загадочный леденец в обертке
-    .desc = Загадочный леденец. Может быть любым из них!
+ent-FoodSnackLollypopWrappedMysteryNeutral = загадочный леденец на палочке в обёртке
+    .desc = Загадочный леденец на палочке. Может оказаться любым из них!
     .suffix = нейтральный
 
-ent-FoodSnackLollypopWrappedMysteryEvil = злой загадочный леденец в обертке
-    .desc = Загадочный леденец. Вызывает дурное предчувствие.
+ent-FoodSnackLollypopWrappedMysteryEvil = загадочный леденец на палочке в обёртке
+    .desc = Загадочный леденец на палочке. От этого вам почему-то не по себе.
     .suffix = злой
 
-ent-FoodSnackLollypopWrappedSyndicate = леденец синдиката в обертке
-    .desc = Сделан компанией Donk co, идеально подходит для скрытого хранения химикатов.
+ent-FoodSnackLollypopWrappedSyndicate = леденец синдиката на палочке в обёртке
+    .desc = Изготовлен компанией «Донк» и идеально подходит для незаметного хранения химикатов.
 
-ent-FoodSnackLollypopSyndicate = леденец
-    .desc = Обычный леденец, вызывает дурное предчувствие.
+ent-FoodSnackLollypopSyndicate = леденец на палочке
+    .desc = Самый обычный леденец на палочке. От этого вам почему-то не по себе.
 
-ent-FoodSnackLollypopWrappedLexorin = леденец с лексорином в обертке
-    .desc = Леденец с лексорином. При разворачивании выглядит обычным.
+ent-FoodSnackLollypopWrappedLexorin = леденец синдиката на палочке в обёртке
+    .desc = Леденец на палочке с лексорином. Без обёртки выглядит совершенно обычно.
     .suffix = лексорин
 
-ent-FoodSnackLollypopLexorin = леденец с лексорином
+ent-FoodSnackLollypopLexorin = леденец на палочке
     .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
     .suffix = лексорин
 
-ent-FoodSnackLollypopWrappedRomerol = леденец с ромеролом в обертке
-    .desc = Леденец с ромеролом. При разворачивании выглядит обычным.
+ent-FoodSnackLollypopWrappedRomerol = леденец синдиката на палочке в обёртке
+    .desc = Леденец на палочке с ромеролом. Без обёртки выглядит совершенно обычно.
     .suffix = ромерол
 
-ent-FoodSnackLollypopRomerol = леденец с ромеролом
+ent-FoodSnackLollypopRomerol = леденец на палочке
     .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
     .suffix = ромерол
 
-ent-FoodSnackLollypopWrappedNocturine = леденец с ноктурином в обертке
-    .desc = Леденец с ноктурином. При разворачивании выглядит обычным.
-    .suffix = ноктурин
+ent-FoodSnackLollypopWrappedNocturine = леденец синдиката на палочке в обёртке
+    .desc = Леденец на палочке с ноктюрином. Без обёртки выглядит совершенно обычно.
+    .suffix = ноктюрин
 
-ent-FoodSnackLollypopNocturine = леденец с ноктурином
+ent-FoodSnackLollypopNocturine = леденец на палочке
     .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
-    .suffix = ноктурин
+    .suffix = Ноктюрин
 
-ent-FoodSnackLollypopWrappedHyperzine = леденец с гиперзином в обертке
-    .desc = Леденец с гиперзином. При разворачивании выглядит обычным.
+ent-FoodSnackLollypopWrappedHyperzine = леденец синдиката на палочке в обёртке
+    .desc = Леденец на палочке с гиперзином. Без обёртки выглядит совершенно обычно.
     .suffix = гиперзин
 
-ent-FoodSnackLollypopHyperzine = леденец с гиперзином
+ent-FoodSnackLollypopHyperzine = леденец на палочке
     .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
     .suffix = гиперзин
 
-ent-FoodSnackLollypopWrappedSynaptizine = завернутый синдикатовский леденец
-    .desc = Леденец с синаптизином. В распакованном виде выглядит совершенно обычным.
+ent-FoodSnackLollypopWrappedSynaptizine = леденец синдиката на палочке в обёртке
+    .desc = Леденец на палочке с синаптизином. Без обёртки выглядит совершенно обычно.
     .suffix = синаптизин
 
-ent-FoodSnackLollypopSynaptizine = леденец
-    .suffix = Синаптиzin
+ent-FoodSnackLollypopSynaptizine = леденец на палочке
     .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
+    .suffix = Синаптизин
 
-ent-FoodSnackLollypopWrappedCarpoToxin = завернутый синдикатовский леденец
+ent-FoodSnackLollypopWrappedCarpoToxin = леденец синдиката на палочке в обёртке
     .desc = Кто, чёрт возьми, такая Одри Уайт?
     .suffix = карпотоксин
 
-ent-FoodSnackLollypopCarpoToxin = леденец
+ent-FoodSnackLollypopCarpoToxin = леденец на палочке
     .desc = Кто, чёрт возьми, такая Одри Уайт?
-    .suffix = Карпотоксин
+    .suffix = КарпоТоксин
 
-ent-FoodSnackLollypopWrappedFentanyl = завернутый леденец с фентанилом
-    .desc = Вот почему родители предупреждали тебя не брать конфеты у незнакомцев. В распакованном виде выглядит обычным.
+ent-FoodSnackLollypopWrappedFentanyl = леденец на палочке с фентанилом в обёртке
+    .desc = Вот почему родители запрещали вам брать конфеты у незнакомцев. Без обёртки выглядит как обычный леденец.
     .suffix = фентанил
 
-ent-FoodSnackLollypopFentanyl = леденец
+ent-FoodSnackLollypopFentanyl = леденец на палочке
+    .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
     .suffix = фентанил
-    .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
 
-ent-FoodSnackLollypopWrappedPhlogiston = завернутый синдикатовский леденец
-    .desc = Леденец с флогистоном. В распакованном виде выглядит совершенно обычным.
+ent-FoodSnackLollypopWrappedPhlogiston = леденец синдиката на палочке в обёртке
+    .desc = Леденец на палочке с флогистоном. Без обёртки выглядит совершенно обычно.
     .suffix = флогистон
 
-ent-FoodSnackLollypopPhlogiston = леденец
+ent-FoodSnackLollypopPhlogiston = леденец на палочке
+    .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
     .suffix = флогистон
-    .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
 
-ent-FoodSnackLollypopWrappedCyanide = завернутый синдикатовский леденец
-    .desc = Леденец с цианидом. В распакованном виде выглядит совершенно обычным.
+ent-FoodSnackLollypopWrappedCyanide = леденец синдиката на палочке в обёртке
+    .desc = Леденец на палочке с цианидом. Без обёртки выглядит совершенно обычно.
     .suffix = цианид
 
-ent-FoodSnackLollypopCyanide = леденец
+ent-FoodSnackLollypopCyanide = леденец на палочке
+    .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
     .suffix = цианид
-    .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
 
-ent-FoodSnackLollypopWrappedTirizene = завернутый синдикатовский леденец
-    .desc = Леденец с тиризеном. В распакованном виде выглядит совершенно обычным.
+ent-FoodSnackLollypopWrappedTirizene = леденец синдиката на палочке в обёртке
+    .desc = Леденец на палочке с тиризеном. Без обёртки выглядит совершенно обычно.
     .suffix = тиризен
 
-ent-FoodSnackLollypopTirizene = леденец
+ent-FoodSnackLollypopTirizene = леденец на палочке
+    .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
     .suffix = тиризен
-    .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
 
-ent-FoodSnackLollypopWrappedAnacea = завернутый синдикатовский леденец
-    .desc = Леденец с анацеей. В распакованном виде выглядит совершенно обычным.
+ent-FoodSnackLollypopWrappedAnacea = леденец синдиката на палочке в обёртке
+    .desc = Леденец на палочке с анацеей. Без обёртки выглядит совершенно обычно.
     .suffix = анацея
 
-ent-FoodSnackLollypopAnacea = леденец
+ent-FoodSnackLollypopAnacea = леденец на палочке
+    .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
     .suffix = анацея
-    .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
 
-ent-FoodSnackLollypopWrappedPotassiumBomb = завернутый синдикатовский леденец
-    .desc = Взрывной леденец. В распакованном виде выглядит совершенно обычным.
+ent-FoodSnackLollypopWrappedPotassiumBomb = леденец синдиката на палочке в обёртке
+    .desc = Взрывной леденец на палочке. Без обёртки выглядит совершенно обычно.
     .suffix = калиевая бомба
 
-ent-FoodSnackLollypopPotassiumBomb = леденец
-    .suffix = калиевая бомба
+ent-FoodSnackLollypopPotassiumBomb = леденец на палочке
     .desc = { ent-FoodSnackLollypopBaseSyndicate.desc }
+    .suffix = калиевая бомба
 
-ent-FoodSnackLollypopWrappedCognizine = завернутый когнизиновый леденец
-    .desc = Леденец, наполненный когнизином. Всё ещё в упаковке.
+ent-FoodSnackLollypopWrappedCognizine = леденец на палочке с когнизином в обёртке
+    .desc = Леденец на палочке с когнизином. Всё ещё в обёртке.
     .suffix = когнизин
 
-ent-FoodSnackLollypopCognizine = когнизиновый леденец
-    .desc = Леденец, наполненный когнизином. Он мерцает гипнотизирующим фиолетовым.
+ent-FoodSnackLollypopCognizine = леденец на палочке с когнизином
+    .desc = Леденец на палочке с когнизином. Переливается завораживающим фиолетовым.
 
-ent-FoodSnackLollypopWrappedWeh = завернутый леденец с Вех!
-    .desc = Леденец, наполненный Вех! Всё ещё в упаковке.
+ent-FoodSnackLollypopWrappedWeh = леденец «ве!» на палочке в обёртке
+    .desc = Леденец на палочке с Ве! Всё ещё в обёртке.
 
-ent-FoodSnackLollypopWeh = леденец с Вех!
-    .desc = Леденец, наполненный Вех! Вех!
+ent-FoodSnackLollypopWeh = леденец «Ве!» на палочке
+    .desc = Леденец на палочке с Ве! Ве!
 
-ent-FoodSnackLollypopWrappedCarpEvil = завернутый леденец в форме карпа
-    .desc = Леденец в форме карпа. Как забавно!
+ent-FoodSnackLollypopWrappedCarpEvil = леденец-карп на палочке в обёртке
+    .desc = Леденец на палочке в форме карпа. Какая глупость!
 
-ent-FoodSnackLollypopCarpEvil = леденец в форме карпа
-    .desc = Кто, чёрт возьми, такой Обри Уайт?
-    .suffix = ЗЛОЙ
+ent-FoodSnackLollypopCarpEvil = леденец-карп на палочке
+    .desc = Кто, чёрт возьми, такая Обри Уайт?
+    .suffix = ЗЛО
 
-ent-FoodSnackLollypopWrappedMouseBites = завернутый синдикатовский леденец
-    .desc = Леденец с мышиными укусами. В распакованном виде выглядит совершенно обычным.
+ent-FoodSnackLollypopWrappedMouseBites = леденец синдиката на палочке в обёртке
+    .desc = Леденец на палочке с мышиными укусами. Без обёртки выглядит совершенно обычно.
     .suffix = мышиные укусы
 
-ent-FoodSnackLollypopMouseBites = леденец с мышиными укусами
-    .desc = Ему нужны мышиные укусы, чтобы жить.
+ent-FoodSnackLollypopMouseBites = леденец на палочке с мышиными укусами
+    .desc = Чтобы выжить, ему нужны мышиные укусы.
     .suffix = мышиные укусы
 
-ent-FoodSnackLollypopWrappedMindbreakerToxin = завернутый леденец с токсином Майндбрейкер
-    .desc = Леденец, наполненный токсином Майндбрейкер. Всё ещё в упаковке.
-    .suffix = токсин Майндбрейкер
+ent-FoodSnackLollypopWrappedMindbreakerToxin = леденец с токсином разрушителя разума на палочке в обёртке
+    .desc = Леденец на палочке с токсином разрушителя разума. Всё ещё в обёртке.
+    .suffix = токсин разрушителя разума
 
-ent-FoodSnackLollypopMindbreakerToxin = леденец с токсином Майндбрейкер
-    .desc = Леденец с токсином Майндбрейкер. Стоит ли... это есть?
+ent-FoodSnackLollypopMindbreakerToxin = леденец на палочке с токсином разрушителя разума
+    .desc = Леденец на палочке с токсином разрушителя разума. А стоит ли... это есть?
 
 ent-FoodPacketLollypopTrash = палочка от леденца
-    .desc = Немного погрызена.
+    .desc = Её слегка погрызли.
 
-ent-FoodSnackLollypopTrash = обёртка от леденца
+ent-FoodSnackLollypopTrash = обёртка от леденца на палочке
     .desc = { ent-FoodPacketTrash.desc }
 
-ent-FoodSnackLollypopTrashSyndicate = обёртка от синдикатовского леденца
-    .desc = Кто-то был непослушным...
+ent-FoodSnackLollypopTrashSyndicate = обёртка от леденца синдиката на палочке
+    .desc = Кто-то плохо себя вёл...
 
-ent-FoodSnackLollypopTrashNanotrasen = обёртка от леденца NanoTrasen
-    .desc = Наверное, за неё можно выручить неплохие деньги.
+ent-FoodSnackLollypopTrashNanotrasen = обёртка от леденца NanoTrasen на палочке
+    .desc = Наверное, за неё можно выручить кругленькую сумму.
 
-ent-FoodSnackLollypopTrashCentcomm = обёртка от леденца ЦК
-    .desc = Настолько тяжёлая, что золото на ней может быть настоящим.
+ent-FoodSnackLollypopTrashCentcomm = обёртка от леденца ЦК на палочке
+    .desc = Такая тяжёлая, что золото на ней вполне может быть настоящим.

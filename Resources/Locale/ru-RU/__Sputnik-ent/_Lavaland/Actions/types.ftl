@@ -1,2 +1,2 @@
-ent-ActionTogglePKALight = Переключить свет ПКА
-    .desc = Включает или выключает свет ПКА.
+ent-ActionTogglePKALight = Переключить Фонарь ПКА
+    .desc = Включает или выключает фонарь ПКА.

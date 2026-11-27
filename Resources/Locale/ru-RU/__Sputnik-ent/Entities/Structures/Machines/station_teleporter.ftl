@@ -1,35 +1,35 @@
-ent-StationTeleporter = телепортер
-    .desc = Вершина блюспейс-технологий. Огромный телепортер, позволяющий путешествовать на колоссальные расстояния в мгновение ока.
-    .suffix = Неизвестные координаты, без автосоединения
+ent-StationTeleporter = телепорт
+    .desc = Вершина блюспейс-технологий. Гигантский телепорт, позволяющий в мгновение ока преодолевать огромные расстояния.
+    .suffix = Неизвестные Координаты, Без Автосвязи
 
 ent-StationTeleporterNanotrasen = { ent-StationTeleporter }
     .desc = { ent-StationTeleporter.desc }
-    .suffix = Неизвестные координаты, сеть Nanotrasen
+    .suffix = Неизвестные Координаты, Сеть NanoTrasen
 
 ent-StationTeleporterCenter = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Центр, Nanotrasen
+    .suffix = Центр, NanoTrasen
 
 ent-StationTeleporterSalvage = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Утилизация, Nanotrasen
+    .suffix = Утилизаторская, NanoTrasen
 
 ent-StationTeleporterMedical = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Медицина, Nanotrasen
+    .suffix = Медотсек, NanoTrasen
 
 ent-StationTeleporterEngineering = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Инженерия, Nanotrasen
+    .suffix = Инженерия, NanoTrasen
 
 ent-StationTeleporterSecurity = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Безопасность, Nanotrasen
+    .suffix = Служба Безопасности, NanoTrasen
 
 ent-StationTeleporterScience = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Наука, Nanotrasen
+    .suffix = Наука, NanoTrasen
 
 ent-StationTeleporterCargo = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Карго, Nanotrasen
+    .suffix = Карго, NanoTrasen

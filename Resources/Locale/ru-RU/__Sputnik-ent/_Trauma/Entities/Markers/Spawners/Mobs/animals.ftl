@@ -1,12 +1,17 @@
-ent-SpawnMobDartFrog1 = спавнер клубничной ядовитой лягушки
+ent-SpawnMobDartFrog1 = Точка Спавна Клубничного Древолаза
     .desc = { ent-MarkerBase.desc }
-ent-SpawnMobDartFrog3 = спавнер лазурной ядовитой лягушки
+
+ent-SpawnMobDartFrog3 = Точка Спавна Лазурного Древолаза
     .desc = { ent-MarkerBase.desc }
-ent-SpawnMobDartFrog6 = спавнер розовой ядовитой лягушки
+
+ent-SpawnMobDartFrog6 = Точка Спавна Розового Древолаза
     .desc = { ent-MarkerBase.desc }
-ent-SpawnMobBunny = спавнер кролика
+
+ent-SpawnMobBunny = Точка Спавна Кролика
     .desc = { ent-MarkerBase.desc }
-ent-SpawnMobBunnySea = спавнер морского кролика
+
+ent-SpawnMobBunnySea = Точка Спавна Морского Зайца
     .desc = { ent-MarkerBase.desc }
-ent-SpawnMobSnakeGrass = спавнер травяной змеи
+
+ent-SpawnMobSnakeGrass = Точка Спавна Ужа
     .desc = { ent-MarkerBase.desc }

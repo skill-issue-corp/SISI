@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-honkops-title = ХОНКлеар Оперативники
-honkops-description = Оперативники ХОНКлеар нацелились на станцию. Постарайтесь не дать им вооружиться и взорвать ядерную боеголовку, защищая ядерный диск!
+honkops-title = Оперативники Хонклеар
+honkops-description = Оперативники хонклеар нацелились на станцию. Защитите ядерный диск, чтобы они не смогли активировать и взорвать ядерную бомбу!
 
 # SIS-Start
 honkops-role-greeting =
@@ -20,32 +20,32 @@ honkops-role-greeting-desc =
     {"["}rainbow speed="0.1"]Смерть NanoTrasen! Да начнётся великий ХОНК![/rainbow]
 # SIS-End
 
-honkops-opsmajor = [color=crimson]Великая победа Хонкиката![/color]
+honkops-opsmajor = [color=crimson]Крупная победа Хонкиката![/color]
 honkops-opsminor = [color=crimson]Малая победа Хонкиката![/color]
-honkops-neutral = [color=yellow]Нейтральный исход![/color]
+honkops-neutral = [color=yellow]Ничейный исход![/color]
 honkops-crewminor = [color=green]Малая победа экипажа![/color]
-honkops-crewmajor = [color=green]Великая победа экипажа![/color]
+honkops-crewmajor = [color=green]Крупная победа экипажа![/color]
 
-honkops-cond-nukeexplodedoncorrectstation = Хонк-оперативники взорвали станцию.
-honkops-cond-nukeexplodedonnukieoutpost = База Хонкиката была уничтожена ядерным взрывом.
-honkops-cond-nukeexplodedonincorrectlocation = ХОНКлеар бомба взорвалась вне станции.
-honkops-cond-nukeactiveinstation = ХОНКлеар бомба осталась на станции в боевой готовности.
-honkops-cond-nukeactiveatcentcom = ХОНКлеар бомба была доставлена в Центральное Командование!
-honkops-cond-nukediskoncentcom = Экипаж сбежал с диском хонк авторизации.
-honkops-cond-nukedisknotoncentcom = Экипаж оставил диск хонк авторизации.
-honkops-cond-nukiesabandoned = Оперативники сбежали.
-honkops-cond-allnukiesdead = Все оперативники погибли.
-honkops-cond-somenukiesalive = Некоторые оперативники погибли.
-honkops-cond-allnukiesalive = Ни один оперативник не погиб.
+honkops-cond-nukeexplodedoncorrectstation = Оперативникам хонклеар удалось взорвать станцию.
+honkops-cond-nukeexplodedonnukieoutpost = Хонклеарный взрыв уничтожил аванпост оперативников хонклеар.
+honkops-cond-nukeexplodedonincorrectlocation = Хонклеарная бомба взорвалась за пределами станции.
+honkops-cond-nukeactiveinstation = Хонклеарная бомба осталась на станции в активированном состоянии.
+honkops-cond-nukeactiveatcentcom = Хонклеарную бомбу доставили в Центральное Командование!
+honkops-cond-nukediskoncentcom = Экипаж эвакуировался с диском хонклеарной аутентификации.
+honkops-cond-nukedisknotoncentcom = Экипаж оставил диск хонклеарной аутентификации.
+honkops-cond-nukiesabandoned = Оперативников хонклеар бросили на произвол судьбы.
+honkops-cond-allnukiesdead = Все оперативники хонклеар погибли.
+honkops-cond-somenukiesalive = Некоторые оперативники хонклеар погибли.
+honkops-cond-allnukiesalive = Ни один оперативник хонклеар не погиб.
 
-honkops-list-start = Хонк-оперативниками были:
+honkops-list-start = Оперативниками хонклеар были:
 honkops-list-name = - [color=White]{$name}[/color]
 honkops-list-name-user = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
-honkops-not-enough-ready-players = Недостаточно игроков готовы к игре! Готовы были { $readyPlayersCount } из { $minimumPlayers } необходимых. Хонкопс не может начаться.
-honkops-no-one-ready = Нет ни одного готового игрока! Хонкопс не может начаться.
+honkops-not-enough-ready-players = Недостаточно готовых игроков! Готовых игроков: {$readyPlayersCount}, требуется {$minimumPlayers}. Не удалось запустить Хонкопс.
+honkops-no-one-ready = Нет готовых игроков! Не удалось запустить Хонкопс.
 
-honkops-role-commander = Хонк Командир
-honkops-role-agent = Хонк Агент
-honkops-role-operator = Хонк Оператор
+honkops-role-commander = Хонк-Командир
+honkops-role-agent = Хонк-Агент
+honkops-role-operator = Хонк-Оператор
 
 loadout-group-honkops-mask = Маска Хонкопс

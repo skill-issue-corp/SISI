@@ -1,35 +1,36 @@
 ent-SprayBottleBase = { ent-DrinkBaseMaterialPlastic }
     .desc = { ent-DrinkBaseMaterialPlastic.desc }
 
-ent-SprayBottle = распылитель
-    .desc = Распылитель с отвинчивающимся верхом.
-    .suffix = Пустой
+ent-SprayBottle = пульверизатор
+    .desc = Флакон с распылителем и отвинчивающейся крышкой.
+    .suffix = Пусто
 
-ent-MegaSprayBottle = мега-распылитель
-    .desc = Большая бутылка-распылитель, обладающая непревзойдённой чистящей силой.
-    .suffix = Пустой
+ent-MegaSprayBottle = мегапульверизатор
+    .desc = Огромный пульверизатор с непревзойдённой уборочной мощью.
+    .suffix = Пусто
 
-ent-SprayBottleWater = распылитель
-    .suffix = Полный
+ent-SprayBottleWater = пульверизатор
     .desc = { ent-SprayBottle.desc }
+    .suffix = Заполнено
 
-ent-SprayBottleSpaceCleaner = космический очиститель
-    .desc = Непенящийся очиститель бренда BLAM!
-
-ent-MegaSprayBottleSpaceCleaner = { ent-MegaSprayBottle }
-    .desc = Непенящийся космический очиститель бренда BLAM!, теперь в большей упаковке для тех огромных луж крови!
+ent-SprayBottleSpaceCleaner = { ent-SprayBottle }
+    .desc = Непенящийся космический очиститель марки «БАХ!»!
     .suffix = Космический Очиститель
 
-ent-BorgSprayBottle = внутренний пульверизатор
-    .desc = Герметичный резервуар для распыления реагентов, установленный непосредственно в уборочного борга. Обычно заполняется космическим очистителем для устранения неприятных луж.
-    .suffix = Заполненный
+ent-MegaSprayBottleSpaceCleaner = { ent-MegaSprayBottle }
+    .desc = Непенящийся космический очиститель марки «БАХ!», теперь в большой упаковке для огромных луж крови!
+    .suffix = Космический Очиститель
 
-ent-BorgMegaSprayBottle = продвинутый внутренний пульверизатор
-    .desc = Усовершенствованная версия встроенного распылителя, установленного непосредственно в уборочного уиборга. Обычно заполняется космическим очистителем для устранения неприятных луж.
-    .suffix = Заполненный
+ent-BorgSprayBottle = встроенный распылитель
+    .desc = Ёмкость под давлением для распыления реагентов, встроенная в киборга-уборщика. Обычно её заправляют космическим очистителем для особо мерзких луж.
+    .suffix = Заполнено
+
+ent-BorgMegaSprayBottle = улучш. встроенный распылитель
+    .desc = Улучшенный распылитель, встроенный в киборга-уборщика. Может производить космический очиститель из влаги в воздухе.
+    .suffix = Заполнено
 
 ent-Vapor = пар
-    .desc = { "" }
+    .desc = { ent-SolutionSmall.desc }
 
 ent-BigVapor = { ent-Vapor }
     .desc = { ent-Vapor.desc }

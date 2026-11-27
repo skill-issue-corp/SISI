@@ -13,5 +13,5 @@ ent-LaughterDemonRule = { ent-BaseSlaughterDemonRule }
 ent-LaughterDemonSummon = { ent-LaughterDemonRule }
     .desc = { ent-LaughterDemonRule.desc }
 
-ent-SlaughterDemonMidround = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
+ent-SlaughterDemonMidround = { ent-SlaughterDemonSummon }
+    .desc = { ent-SlaughterDemonSummon.desc }

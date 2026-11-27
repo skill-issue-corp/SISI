@@ -2,8 +2,8 @@ ent-BigBox = картонная коробка
     .desc = А? Просто коробка...
 
 ent-StealthBox = { ent-BigBox }
-    .desc = Заставил вас ждать, да?
-    .suffix = невидимость
+    .desc = Заждался, а?
+    .suffix = скрытный
 
-ent-GhostBox = призрачная коробка
-    .desc = Остерегайтесь!
+ent-GhostBox = коробка с призраком
+    .desc = Берегитесь!

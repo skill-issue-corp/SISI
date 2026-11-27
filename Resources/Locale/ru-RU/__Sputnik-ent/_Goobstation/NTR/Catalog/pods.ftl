@@ -1,104 +1,104 @@
-ent-SpawnPodEvaKit = набор эва
+ent-SpawnPodEvaKit = Спавн Комплекта EVA
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodSpesos = малый набор спесо
+ent-SpawnPodSpesos = Спавн Малой Партии Спесо
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodDisks = набор дисков очков
+ent-SpawnPodDisks = Спавн Дисков с Очками
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodEmergencyMed = набор аварийной медицины
+ent-SpawnPodEmergencyMed = Спавн Экстренных Медприпасов
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodDisablers = набор шокеров
+ent-SpawnPodDisablers = Спавн Дизейблеров
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodTools = набор инструментов
+ent-SpawnPodTools = Спавн Инструментов
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodInterns = набор стажёров
+ent-SpawnPodInterns = Спавн Стажёров
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodDagger = набор с кинжалом
+ent-SpawnPodDagger = Спавн Кинжала
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodCoin = набор монеты стажёра
+ent-SpawnPodCoin = Спавн Монеты Вызова Стажёра
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodHardsuitExperimental = набор скафандра
+ent-SpawnPodHardsuitExperimental = Спавн Скафандра
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodGoldCase = набор сигар
+ent-SpawnPodGoldCase = Спавн Сигары
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodWhiskey = набор виски
+ent-SpawnPodWhiskey = Спавн Виски
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodCentCommGlasses = набор очков ЦентКома
+ent-SpawnPodCentCommGlasses = Спавн Очков ЦК
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodSvalinn = набор свалинн
+ent-SpawnPodSvalinn = Спавн Svalinn
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodDeckard = набор декарда
+ent-SpawnPodDeckard = Спавн Deckard
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodTelecom = набор телекома
+ent-SpawnPodTelecom = Спавн Телекома
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodFat = набор жира
+ent-SpawnPodFat = Спавн Извлекателя Жира
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodGrav = набор гравитации
+ent-SpawnPodGrav = Спавн Генератора Гравитации
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodTeleporter = набор телепорта
+ent-SpawnPodTeleporter = Спавн Телепада Карго
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodHolopad = набор голопада
+ent-SpawnPodHolopad = Спавн Голопада
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodMonitoring = набор мониторинга
+ent-SpawnPodMonitoring = Спавн Оборудования Мониторинга
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodRnd = набор нии
+ent-SpawnPodRnd = Спавн Оборудования НиО
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodComms = набор связи
+ent-SpawnPodComms = Спавн Оборудования Связи
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodCargo = набор карго
+ent-SpawnPodCargo = Спавн Припасов Карго
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodCargoShuttle = набор шаттла карго
+ent-SpawnPodCargoShuttle = Спавн Грузового Шаттла
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodShuttle = набор шаттла
+ent-SpawnPodShuttle = Спавн Шаттла
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodMedkit = набор аптечки
+ent-SpawnPodMedkit = Спавн Аптечки
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodMindshield = набор ментощита
+ent-SpawnPodMindshield = Спавн Щита Разума
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodSecHardsuit = набор скафандра СБ
+ent-SpawnPodSecHardsuit = Спавн Скафандра СБ
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodMarlen = набор марлен
+ent-SpawnPodMarlen = Спавн «Марлен»
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodNTRCigs = набор сигарет NT
+ent-SpawnPodNTRCigs = Спавн Сигарет Представителя NT
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodNTRSoap = набор мыла NT
+ent-SpawnPodNTRSoap = Спавн Мыла Представителя NT
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodCargoBingle = набор бингла карго
+ent-SpawnPodCargoBingle = Спавн Бингла Карго
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodWaterCoolerGold = набор золотого кулера
+ent-SpawnPodWaterCoolerGold = Спавн Золотого Кулера
     .desc = { ent-SpawnSupplyEmpty.desc }
 
-ent-SpawnPodNTRCassettePlayer = набор кассетного плеера NT
+ent-SpawnPodNTRCassettePlayer = Спавн Кассетного Плеера Представителя NT
     .desc = { ent-SpawnSupplyEmpty.desc }

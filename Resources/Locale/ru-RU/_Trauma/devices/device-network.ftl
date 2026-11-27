@@ -1,1 +1,1 @@
-device-address-prefix-circuit = IC-
+device-address-prefix-circuit = ИС-

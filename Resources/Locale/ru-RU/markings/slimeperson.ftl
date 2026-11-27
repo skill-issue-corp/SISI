@@ -1,16 +1,23 @@
-marking-SlimeGradientLeftArm-gradient_l_arm = Слаймолюд, левая рука (Градиент)
-marking-SlimeGradientRightArm-gradient_r_arm = Слаймолюд, правая рука (Градиент)
-marking-SlimeGradientLeftArm = Слаймолюд, левая рука (Градиент)
-marking-SlimeGradientLeftLeg-gradient_l_leg = Слаймолюд, левая нога (Градиент)
-marking-SlimeGradientLeftFoot-gradient_l_foot = Слаймолюд, левая стопа (Градиент)
-marking-SlimeGradientLeftFoot = Слаймолюд, левая стопа (Градиент)
-marking-SlimeGradientRightFoot-gradient_r_foot = Слаймолюд, правая стопа (Градиент)
-marking-SlimeGradientRightFoot = Слаймолюд, правая стопа (Градиент)
-marking-SlimeGradientRightLeg-gradient_r_leg = Слаймолюд, правая нога (Градиент)
-marking-SlimeGradientRightArm = Слаймолюд, правая рука (Градиент)
-marking-SlimeGradientLeftHand-gradient_l_hand = Слаймолюд, кисть левой руки (Градиент)
-marking-SlimeGradientRightHand-gradient_r_hand = Слаймолюд, кисть правой руки (Градиент)
-marking-SlimeGradientLeftLeg = Слаймолюд, левая нога (Градиент)
-marking-SlimeGradientRightLeg = Слаймолюд, правая нога (Градиент)
-marking-SlimeGradientLeftHand = Слаймолюд, кисть левой руки (Градиент)
-marking-SlimeGradientRightHand = Слаймолюд, кисть правой руки (Градиент)
+marking-SlimeGradientLeftArm-gradient_l_arm = Левая Рука Слаймолюда (Градиент)
+marking-SlimeGradientLeftArm = Левая Рука Слаймолюда (Градиент)
+
+marking-SlimeGradientRightArm-gradient_r_arm = Правая Рука Слаймолюда (Градиент)
+marking-SlimeGradientRightArm = Правая Рука Слаймолюда (Градиент)
+
+marking-SlimeGradientLeftFoot-gradient_l_foot = Левая Стопа Слаймолюда (Градиент)
+marking-SlimeGradientLeftFoot = Левая Стопа Слаймолюда (Градиент)
+
+marking-SlimeGradientRightFoot-gradient_r_foot = Правая Стопа Слаймолюда (Градиент)
+marking-SlimeGradientRightFoot = Правая Стопа Слаймолюда (Градиент)
+
+marking-SlimeGradientLeftLeg-gradient_l_leg = Левая Нога Слаймолюда (Градиент)
+marking-SlimeGradientLeftLeg = Левая Нога Слаймолюда (Градиент)
+
+marking-SlimeGradientRightLeg-gradient_r_leg = Правая Нога Слаймолюда (Градиент)
+marking-SlimeGradientRightLeg = Правая Нога Слаймолюда (Градиент)
+
+marking-SlimeGradientLeftHand-gradient_l_hand = Левая Кисть Слаймолюда (Градиент)
+marking-SlimeGradientLeftHand = Левая Кисть Слаймолюда (Градиент)
+
+marking-SlimeGradientRightHand-gradient_r_hand = Правая Кисть Слаймолюда (Градиент)
+marking-SlimeGradientRightHand = Правая Кисть Слаймолюда (Градиент)

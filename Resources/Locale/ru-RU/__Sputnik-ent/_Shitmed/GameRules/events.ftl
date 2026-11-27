@@ -10,5 +10,5 @@ ent-LoneAbductorSpawn = { ent-LoneAbductorRule }
 ent-AbductorVictim = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-DuoAbductorSpawn = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
+ent-DuoAbductorSpawn = { ent-LoneAbductorSpawn }
+    .desc = { ent-LoneAbductorSpawn.desc }

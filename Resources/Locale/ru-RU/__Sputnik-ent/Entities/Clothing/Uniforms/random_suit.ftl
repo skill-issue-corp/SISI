@@ -1,21 +1,21 @@
 ent-ClothingUniformRandom = { ent-ClothingUniformBase }
-    .desc = Сгенерировано нейросетью на основе последних тенденций моды.
-    .suffix = Случайный вид
-ent-ClothingRandomSpawner = случайный яркий костюм
+    .desc = Сгенерировано нейросетями по последним тенденциям моды.
+    .suffix = Случайный внешний вид
+
+ent-ClothingRandomSpawner = случайный разноцветный костюм
     .desc = { ent-ClothingUniformRandom.desc }
-    .suffix = Случайный вид
-ent-ClothingUniformRandomArmless = яркий костюм с безрукавкой
+
+ent-ClothingUniformRandomArmless = разноцветный костюм без рукавов
     .desc = { ent-ClothingUniformRandom.desc }
-    .suffix = Случайный вид
-ent-ClothingUniformRandomStandard = яркий костюм
+
+ent-ClothingUniformRandomStandard = разноцветный костюм
     .desc = { ent-ClothingUniformRandom.desc }
-    .suffix = Случайный вид
-ent-ClothingUniformRandomBra = яркий костюм с топом
+
+ent-ClothingUniformRandomBra = разноцветный бюстгальтер
     .desc = { ent-ClothingUniformRandom.desc }
-    .suffix = Случайный вид
-ent-ClothingUniformRandomShorts = яркие штаны
+
+ent-ClothingUniformRandomShorts = разноцветные брюки
     .desc = { ent-ClothingUniformRandom.desc }
-    .suffix = Случайный вид
-ent-ClothingUniformRandomShirt = яркий костюм
+
+ent-ClothingUniformRandomShirt = разноцветный костюм
     .desc = { ent-ClothingUniformRandom.desc }
-    .suffix = Случайный вид

@@ -5,8 +5,8 @@ disease-dna-sampler-success = Вы взяли образец ДНК у {$target}
 
 # UI
 
-disease-dna-sampler-window-title = ДНК-сэмплер 6000
+disease-dna-sampler-window-title = Пробоотборник ДНК 6000
 disease-dna-sampler-no-disease = Запас ретровируса исчерпан!
-disease-dna-sampler-disease = Загружен ретровирус: {$name}
-disease-dna-sampler-create-injector = Создать инъектор!
-disease-dna-sampler-no-dna = Целевая ДНК не взята, отсканируйте объект, чтобы начать
+disease-dna-sampler-disease = Загруженный ретровирус: {$name}
+disease-dna-sampler-create-injector = Создать Инъектор!
+disease-dna-sampler-no-dna = Образец ДНК отсутствует. Отсканируйте объект, чтобы начать

@@ -8,7 +8,7 @@ ent-MobHereticFleshAscendSegmentBase = { "" }
     .desc = { "" }
 
 ent-MobHereticFleshAscend = Владыка Ночи
-    .desc = Мерзость, состоящая из десятков и десятков отсечённых и уродливых конечностей, вцепившихся друг в друга.
+    .desc = Мерзость из десятков и десятков отрубленных и искорёженных конечностей, цепляющихся друг за друга.
 
-ent-MobHereticFleshAscendSegment = червячий хвост
-    .desc = Хвост чего-то большего.
+ent-MobHereticFleshAscendSegment = хвост червя
+    .desc = Хвост чего-то более крупного.

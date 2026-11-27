@@ -1,1 +1,1 @@
-gun-lavaland-restricted-message = Это оружие способно стрелять только на планетах!
+gun-lavaland-restricted-message = Это оружие стреляет только на планетах!

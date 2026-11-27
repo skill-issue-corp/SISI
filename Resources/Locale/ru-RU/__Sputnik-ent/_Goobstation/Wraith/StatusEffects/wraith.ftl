@@ -1,8 +1,11 @@
 ent-StatusEffectTouchOfEvil = прикосновение зла
     .desc = { ent-MobStatusEffectBase.desc }
-ent-StatusEffectRally = сплочение
+
+ent-StatusEffectRally = воодушевление
     .desc = { ent-MobStatusEffectBase.desc }
-ent-StatusEffectShuffle = протискивание
+
+ent-StatusEffectShuffle = перетасовка
     .desc = { ent-MobStatusEffectBase.desc }
+
 ent-StatusEffectWeakenedWraith = ослабление
     .desc = { ent-MobStatusEffectBase.desc }

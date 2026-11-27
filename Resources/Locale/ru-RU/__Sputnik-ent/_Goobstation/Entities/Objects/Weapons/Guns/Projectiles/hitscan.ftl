@@ -1,16 +1,16 @@
-ent-SmallRedLaser = маленький красный лазер
+ent-SmallRedLaser = малый красный лазер
     .desc = { ent-RedLightLaser.desc }
 
-ent-SmallIonLaser = маленький ионный лазер
+ent-SmallIonLaser = малый ионный лазер
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-SmallXrayLaser = маленький рентгеновский лазер
+ent-SmallXrayLaser = малый рентгеновский лазер
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-SmallOverchargedLaser = маленький перезаряженный лазер
+ent-SmallOverchargedLaser = малый сверхзаряженный лазер
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-SmallPulseLaser = маленький импульсный лазер
+ent-SmallPulseLaser = малый импульсный лазер
     .desc = { ent-LaserHitscanBase.desc }
 
 ent-MediumRedLaser = средний красный лазер
@@ -22,11 +22,11 @@ ent-MediumIonLaser = средний ионный лазер
 ent-MediumXrayLaser = средний рентгеновский лазер
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-MediumOverchargedLaser = средний перезаряженный лазер
+ent-MediumOverchargedLaser = средний сверхзаряженный лазер
     .desc = { ent-LaserHitscanBase.desc }
 
 ent-MediumPulseLaser = средний импульсный лазер
     .desc = { ent-LaserHitscanBase.desc }
 
-ent-RedHeavyLaserShock = тяжёлый красный шоковый лазер
+ent-RedHeavyLaserShock = красный тяжёлый ударный лазер
     .desc = { ent-RedHeavyLaser.desc }

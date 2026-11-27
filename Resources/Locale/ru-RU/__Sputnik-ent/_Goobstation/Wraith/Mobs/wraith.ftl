@@ -1,11 +1,11 @@
 ent-MobWraith = Фантом
-    .desc = ОЧЕНЬ страшный призрак.
+    .desc = ОЧЕНЬ жуткий призрачек.
 
-ent-MobWraithPlague = Чумная крыса
+ent-MobWraithPlague = Чумоносец
     .desc = { ent-MobWraith.desc }
 
-ent-MobWraithHarbinger = Глашатай Пустоты
+ent-MobWraithHarbinger = Предвестник Пустоты
     .desc = { ent-MobWraith.desc }
 
-ent-MobWraithTrickster = Обманщик
+ent-MobWraithTrickster = Трикстер
     .desc = { ent-MobWraith.desc }

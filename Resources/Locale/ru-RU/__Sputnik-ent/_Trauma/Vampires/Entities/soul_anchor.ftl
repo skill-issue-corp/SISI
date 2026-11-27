@@ -1,2 +1,2 @@
-ent-ShadowAnchor = Теневой якорь
+ent-ShadowAnchor = Теневой Якорь
     .desc = теневой якорь.

@@ -5,15 +5,15 @@ ent-SpyCrewMonitorEmpty = { ent-SpyCrewMonitor }
     .desc = { ent-SpyCrewMonitor.desc }
     .suffix = Пусто
 
-ent-SyndiCrewMonitor = синдикатский монитор экипажа
-    .desc = Синдикатская версия монитора экипажа, перехватывает информацию с сервера.
+ent-SyndiCrewMonitor = монитор экипажа синдиката
+    .desc = Синдикатская версия монитора экипажа. Перехватывает данные с сервера.
 
 ent-SyndiCrewMonitorEmpty = { ent-SyndiCrewMonitor }
     .desc = { ent-SyndiCrewMonitor.desc }
     .suffix = Пусто
 
 ent-BorgCrewMonitor = встроенный монитор экипажа
-    .desc = Встроенный монитор экипажа. Помогает найти тех, кого нужно спасти.
+    .desc = Встроенный монитор, позволяющий находить членов экипажа, которым нужна помощь.
 
 ent-HandheldCrewMonitor = { ent-BaseHandheldCrewMonitor }
     .desc = { ent-BaseHandheldCrewMonitor.desc }

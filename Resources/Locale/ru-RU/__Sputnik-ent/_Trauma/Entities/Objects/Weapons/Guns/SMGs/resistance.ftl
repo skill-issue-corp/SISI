@@ -1,7 +1,7 @@
 ent-WeaponSMGResistance = Resistance
-    .desc = Маленький и неточный пистолет-пулемёт, ни во что не попадёт, но зато с магазином.
-    .suffix = Полный
+    .desc = Мелкая и неточная пушка. Попасть из неё ни во что нельзя, зато у неё хотя бы есть магазин.
+    .suffix = Полностью заполнено
 
 ent-WeaponSMGResistanceEmpty = { ent-WeaponSMGResistance }
     .desc = { ent-WeaponSMGResistance.desc }
-    .suffix = Пустой
+    .suffix = Пусто

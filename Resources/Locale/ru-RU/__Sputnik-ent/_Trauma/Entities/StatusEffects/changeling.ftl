@@ -1,2 +1,2 @@
-ent-StatusEffectFleshmend = заживление плоти
+ent-StatusEffectFleshmend = восстановление плоти
     .desc = { ent-MobStatusEffectBase.desc }

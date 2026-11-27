@@ -3,7 +3,7 @@ ent-ImmovableRod = неподвижный стержень
 
 ent-ImmovableRodDespawn = { ent-ImmovableRod }
     .desc = { ent-ImmovableRod.desc }
-    .suffix = Исчезающий
+    .suffix = Исчезает
 
 ent-ImmovableRodSlow = { ent-ImmovableRodDespawn }
     .desc = { ent-ImmovableRodDespawn.desc }
@@ -11,36 +11,36 @@ ent-ImmovableRodSlow = { ent-ImmovableRodDespawn }
 
 ent-ImmovableRodKeepTiles = { ent-ImmovableRodDespawn }
     .desc = { ent-ImmovableRodDespawn.desc }
-    .suffix = Сохраняет плитку
+    .suffix = Сохраняет Тайлы
 
 ent-ImmovableRodWizard = { ent-ImmovableRod }
     .desc = { ent-ImmovableRod.desc }
-    .suffix = Волшебный
+    .suffix = Волшебник
 
 ent-ImmovableRodKeepTilesStill = { ent-ImmovableRodKeepTiles }
     .desc = { ent-ImmovableRodKeepTiles.desc }
-    .suffix = Сохраняет плитку, неподвижный
+    .suffix = Сохраняет Тайлы, Неподвижный
 
 ent-ImmovableRodMop = неподвижная швабра
-    .desc = Метается, словно копьё, с силой тысячи разъярённых уборщиков.
+    .desc = Брошена как дротик, с силой тысячи разъярённых уборщиков.
 
 ent-ImmovableRodShark = неподвижная акула
-    .desc = АКУЛЬИЙ ТОРНАДО!
+    .desc = АКУЛЬЕ ТОРНАДО!
 
 ent-ImmovableRodClown = неподвижный клоун
-    .desc = Выброшен с соседней станции, расположенной в одной солнечной системе отсюда. ХОНК!
+    .desc = Выброшен с соседней станции в другой звёздной системе. ХОНК!
 
 ent-ImmovableRodBanana = неподвижный банан
-    .desc = По крайней мере, на нём вы не поскользнётесь.
+    .desc = По крайней мере, вы на нём не поскользнётесь.
 
-ent-ImmovableRodHammer = неподвижный молоток
-    .desc = Бвойнк.
+ent-ImmovableRodHammer = неподвижный молот
+    .desc = Бвоиньк.
 
-ent-ImmovableRodThrongler = неподвижный чамблер
-    .desc = Если поймаете его, можете оставить себе.
+ent-ImmovableRodThrongler = неподвижный тронглер
+    .desc = Если поймаете, можете оставить себе.
 
-ent-ImmovableRodGibstick = неподвижная гибстик
+ent-ImmovableRodGibstick = неподвижная палочка для фарша
     .desc = А чего вы ожидали?
 
-ent-ImmovableRodWeh = неподвижный вех
-    .desc = ВЕХ!
+ent-ImmovableRodWeh = неподвижный уэх
+    .desc = УЭХ!

@@ -6,18 +6,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-limited-charges-charges-remaining =
-    Имеется { $charges } { $charges ->
-        [one] заряд
-        [few] заряда
-       *[other] зарядов
-    }.
+limited-charges-charges-remaining = {$charges ->
+    [one] Остался [color=fuchsia]{$charges}[/color] заряд.
+    [few] Осталось [color=fuchsia]{$charges}[/color] заряда.
+    *[many] Осталось [color=fuchsia]{$charges}[/color] зарядов.
+}
 
-limited-charges-max-charges = Имеет [color=green]максимум[/color] зарядов.
-limited-charges-recharging =
-    До нового заряда { $seconds ->
-        [one] осталась [color=yellow]{ $seconds }[/color] секунда.
-        [few] осталось [color=yellow]{ $seconds }[/color] секунды.
-       *[other] осталось [color=yellow]{ $seconds }[/color] секунд.
-    }
+limited-charges-max-charges = Накоплено [color=green]максимальное[/color] число зарядов.
+limited-charges-recharging = {$seconds ->
+    [one] До следующего заряда осталась [color=yellow]{$seconds}[/color] секунда.
+    [few] До следующего заряда осталось [color=yellow]{$seconds}[/color] секунды.
+    *[many] До следующего заряда осталось [color=yellow]{$seconds}[/color] секунд.
+}
 limited-charges-no-charges = Заряды закончились!

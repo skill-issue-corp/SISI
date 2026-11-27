@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-kill-person-title = Убейте или не дайте покинуть станцию {$targetName}, должность: {CAPITALIZE($job)}
-objective-condition-kill-maroon-title = Убейте и не дайте покинуть станцию {$targetName}, должность: {CAPITALIZE($job)}
-objective-condition-kill-station-ai = Уничтожьте {$targetName}, должность: {CAPITALIZE($job)}, и убедитесь, что они выведены из строя окончательно.
-objective-condition-maroon-person-title = Не дайте {$targetName}, должность: {CAPITALIZE($job)}, добраться до ЦентКома.
+objective-condition-kill-person-title = Убейте {$targetName} ({CAPITALIZE($job)}) или не дайте покинуть станцию
+objective-condition-kill-maroon-title = Убейте {$targetName} ({CAPITALIZE($job)}) и не дайте покинуть станцию
+objective-condition-kill-station-ai = Уничтожьте {$targetName} ({CAPITALIZE($job)}) и убедитесь, что цель не вернётся в строй.
+objective-condition-maroon-person-title = Не дайте {$targetName} ({CAPITALIZE($job)}) добраться до ЦК.

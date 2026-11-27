@@ -1,15 +1,20 @@
-ent-LootSpawnerMaterials = спавнер материалы
-    .suffix = Строительные материалы
+ent-LootSpawnerMaterials = спавнер материалов
     .desc = { ent-MarkerBase.desc }
-ent-LootSpawnerMaterialsSupplementary = спавнер материалы
-    .suffix = Вспомогательные материалы
+    .suffix = Строительные Материалы
+
+ent-LootSpawnerMaterialsSupplementary = спавнер материалов
     .desc = { ent-MarkerBase.desc }
-ent-LootSpawnerMaterialsHighValueConstruction = спавнер дорогостоящие материалы
-    .suffix = Строительные материалы
+    .suffix = Дополнительные Материалы
+
+ent-LootSpawnerMaterialsHighValueConstruction = спавнер ценных материалов
     .desc = { ent-MarkerBase.desc }
-ent-LootSpawnerMaterialsHighValue = спавнер дорогостоящие материалы
+    .suffix = Строительные Материалы
+
+ent-LootSpawnerMaterialsHighValue = спавнер ценных материалов
     .desc = { ent-MarkerBase.desc }
-ent-LootSpawnerMaterialsSurplus = спавнер запас материалов
+
+ent-LootSpawnerMaterialsSurplus = спавнер излишков материалов
     .desc = { ent-MarkerBase.desc }
-ent-LootSpawnerCableCoil = спавнер моток кабеля
+
+ent-LootSpawnerCableCoil = спавнер мотка кабеля
     .desc = { ent-MarkerBase.desc }

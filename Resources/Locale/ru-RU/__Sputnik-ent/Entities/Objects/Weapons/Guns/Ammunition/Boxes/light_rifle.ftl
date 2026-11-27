@@ -1,13 +1,17 @@
 ent-BaseMagazineBoxLightRifle = коробка патронов (.30 винтовочные)
     .desc = { ent-BaseItem.desc }
-ent-MagazineBoxLightRifleBig = ящик патронов (.30 винтовочные)
+
+ent-MagazineBoxLightRifleBig = коробка патронов (.30 винтовочные)
     .desc = { ent-BaseMagazineBoxLightRifle.desc }
-    .suffix = Большой
+
 ent-MagazineBoxLightRifle = коробка патронов (.30 винтовочные)
-    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+    .desc = Картонная коробка с винтовочными патронами .30. Предназначена для обычных кинетических боеприпасов.
+
 ent-MagazineBoxLightRiflePractice = коробка патронов (.30 винтовочные учебные)
-    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+    .desc = Картонная коробка с винтовочными патронами .30. Предназначена для безвредных учебных боеприпасов.
+
 ent-MagazineBoxLightRifleIncendiary = коробка патронов (.30 винтовочные зажигательные)
-    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+    .desc = Картонная коробка с винтовочными патронами .30. Предназначена для самовоспламеняющихся зажигательных боеприпасов.
+
 ent-MagazineBoxLightRifleUranium = коробка патронов (.30 винтовочные урановые)
-    .desc = { ent-BaseMagazineBoxLightRifle.desc }
+    .desc = Картонная коробка с винтовочными патронами .30. Предназначена для экзотических боеприпасов с урановым сердечником.

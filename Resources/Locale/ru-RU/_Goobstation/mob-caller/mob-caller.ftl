@@ -1,1 +1,1 @@
-mob-caller-occluded = [color=red]Не работает из-за отсутствия воздействия космоса.[/color]
+mob-caller-occluded = [color=red]Для работы нужен выход в открытый космос.[/color]

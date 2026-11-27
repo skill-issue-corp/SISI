@@ -10,7 +10,7 @@ ent-AnomalousParticleEpsilon = эпсилон-частицы
 ent-AnomalousParticleEpsilonStrong = { ent-AnomalousParticleEpsilon }
     .desc = { ent-AnomalousParticleEpsilon.desc }
 
-ent-AnomalousParticleZeta = зета-частицы
+ent-AnomalousParticleZeta = дзета-частицы
     .desc = { ent-AnomalousParticleDelta.desc }
 
 ent-AnomalousParticleZetaStrong = { ent-AnomalousParticleZeta }

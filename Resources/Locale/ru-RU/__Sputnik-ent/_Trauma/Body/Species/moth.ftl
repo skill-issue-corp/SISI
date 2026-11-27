@@ -6,4 +6,4 @@ ent-OrganMothWingsBurntOff = обгоревшие крылья
 
 ent-OrganMothWingsDefault = { ent-OrganMothWings }
     .desc = { ent-OrganMothWings.desc }
-    .suffix = Моль, Стандартные
+    .suffix = Ниан, По Умолчанию

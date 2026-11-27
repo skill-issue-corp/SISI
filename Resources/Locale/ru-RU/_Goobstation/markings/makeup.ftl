@@ -1,12 +1,17 @@
 marking-MakeupLips-lips = Губы
 marking-MakeupLips = Губы
+
 marking-MakeupBlush-blush = Румяна
 marking-MakeupBlush = Румяна
-marking-MakeupNailPolishLeft-nail_polish_l = Левый лак для ногтей
-marking-MakeupNailPolishLeft = Левый лак для ногтей
-marking-MakeupNailPolishRight-nail_polish_r = Правый лак для ногтей
-marking-MakeupNailPolishRight = Правый лак для ногтей
-marking-MakeupMothBlush-moth_blush = Мотыльковые румяна
-marking-MakeupMothBlush = Мотыльковые румяна
-marking-MakeupMothLips-moth_lips = Мотыльковая помада
-marking-MakeupMothLips = Мотыльковая помада
+
+marking-MakeupNailPolishLeft-nail_polish_l = Лак Для Ногтей (Левая Рука)
+marking-MakeupNailPolishLeft = Лак Для Ногтей (Левая Рука)
+
+marking-MakeupNailPolishRight-nail_polish_r = Лак Для Ногтей (Правая Рука)
+marking-MakeupNailPolishRight = Лак Для Ногтей (Правая Рука)
+
+marking-MakeupMothBlush-moth_blush = Румяна Ниана
+marking-MakeupMothBlush = Румяна Ниана
+
+marking-MakeupMothLips-moth_lips = Помада Ниана
+marking-MakeupMothLips = Помада Ниана

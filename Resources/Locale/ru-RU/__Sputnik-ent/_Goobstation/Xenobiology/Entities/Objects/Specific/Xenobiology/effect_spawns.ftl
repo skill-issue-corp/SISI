@@ -1,11 +1,11 @@
-ent-XenoExtractChronofield = сепиевое хронополе
+ent-XenoExtractChronofield = сепийное хронополе
     .desc = { ent-Chronofield.desc }
 
-ent-XenoExtractChronofieldSpawner = спавнер сепиевого хронополя
+ent-XenoExtractChronofieldSpawner = спавнер сепийного хронополя
     .desc = { ent-MarkerBase.desc }
 
-ent-XenoGooWall = желеобразный нарост
-    .desc = Это вполне может быть блоб из космического LIDL.
+ent-XenoGooWall = студенистый нарост
+    .desc = Вполне может оказаться блобом из космического LIDL.
 
 ent-RHostileMobSpawner = спавнер случайного враждебного существа
     .desc = { ent-MarkerBase.desc }
@@ -19,8 +19,8 @@ ent-RNeutralMobSpawner = спавнер случайного нейтральн�
 ent-RandomNeutralMobSpawner = спавнер случайного нейтрального существа
     .desc = { ent-MarkerBase.desc }
 
-ent-RPassiveMobSpawner = спавнер случайного пассивного существа
+ent-RPassiveMobSpawner = спавнер случайного мирного существа
     .desc = { ent-MarkerBase.desc }
 
-ent-RandomPassiveMobSpawner = спавнер случайного пассивного существа
+ent-RandomPassiveMobSpawner = спавнер случайного мирного существа
     .desc = { ent-MarkerBase.desc }

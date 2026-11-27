@@ -1,30 +1,44 @@
-ent-PartModsuit = часть MOD
-    .desc = Деталь, используемая при создании скафандра MOD.
-ent-ModsuitChestplate = нагрудная пластина скафандра MOD
+ent-PartModsuit = деталь МОД
+    .desc = Деталь для сборки модсьюта.
+
+ent-ModsuitChestplate = нагрудник модсьюта
     .desc = { ent-PartModsuit.desc }
-ent-ModsuitBoots = ботинки скафандра MOD
+
+ent-ModsuitBoots = ботинки модсьюта
     .desc = { ent-PartModsuit.desc }
-ent-ModsuitHelmet = шлем скафандра MOD
+
+ent-ModsuitHelmet = шлем модсьюта
     .desc = { ent-PartModsuit.desc }
-ent-ModsuitGauntlets = перчатки скафандра MOD
+
+ent-ModsuitGauntlets = перчатки модсьюта
     .desc = { ent-PartModsuit.desc }
-ent-ModsuitShell = корпус скафандра MOD
+
+ent-ModsuitShell = корпус МОД
     .desc = { ent-PartModsuit.desc }
-ent-ModsuitPlatingExternal = стандартное покрытие MOD
-    .desc = { ent-PartModsuit.desc }
-ent-ModsuitPlatingParamedic = медицинское покрытие MOD "Санитар"
-    .desc = { ent-PartModsuit.desc }
-ent-ModsuitPlatingEngineer = инженерное покрытие MOD "Сапёр"
-    .desc = { ent-PartModsuit.desc }
-ent-ModsuitPlatingSecurity = защитное покрытие MOD "Солдат"
-    .desc = { ent-PartModsuit.desc }
-ent-ModsuitPlatingHeadOfSecurity = защитное покрытие MOD "Бастион"
-    .desc = { ent-PartModsuit.desc }
-ent-ModsuitPlatingCaptain = роскошное покрытие MOD
-    .desc = { ent-PartModsuit.desc }
-ent-ModsuitPlatingRD = защитное покрытие MOD "Минерва"
-    .desc = { ent-PartModsuit.desc }
-ent-ModsuitPlatingAtmostech = атмосферостойкое покрытие MOD "Эол"
-    .desc = { ent-PartModsuit.desc }
-ent-ModsuitCoreStandard = ядро скафандра MOD
-    .desc = В самых пышных и плодородных районах планеты Спраут растет кристалл, известный как Сердечный цветок. Эти редкие органические пьезоэлектрические кристаллы имеют невероятное культурное значение для творческой касты Эфириалов благодаря своему внешнему виду, который в точности повторяет форму сердца Эфириала. Какой из них встроен в ваш костюм, неясно, но в любом случае он был переделан в качестве внутреннего источника питания для модульного устройства для верхней одежды.
+
+ent-ModsuitPlatingExternal = стандартная внешняя обшивка МОД
+    .desc = Деталь для сборки модсьюта.
+
+ent-ModsuitPlatingParamedic = стандартная обшивка МОД парамедика «санитар»
+    .desc = Деталь для сборки модсьюта.
+
+ent-ModsuitPlatingEngineer = стандартная обшивка МОД инженера «сапёр»
+    .desc = Деталь для сборки модсьюта.
+
+ent-ModsuitPlatingSecurity = стандартная обшивка МОД службы безопасности «солдат»
+    .desc = Деталь для сборки модсьюта.
+
+ent-ModsuitPlatingHeadOfSecurity = стандартная обшивка МОД главы службы безопасности «бастион»
+    .desc = Деталь для сборки модсьюта.
+
+ent-ModsuitPlatingCaptain = стандартная обшивка МОД капитана «магнат»
+    .desc = Деталь для сборки модсьюта.
+
+ent-ModsuitPlatingRD = стандартная обшивка МОД НР «минерва»
+    .desc = Деталь для сборки модсьюта.
+
+ent-ModsuitPlatingAtmostech = стандартная обшивка МОД атмосферного техника «эол»
+    .desc = Деталь для сборки модсьюта.
+
+ent-ModsuitCoreStandard = стандартное ядро МОД
+    .desc = В самых пышных и плодородных краях планеты Росток растёт кристалл Сердцецвет. Эти редкие органические пьезоэлектрические кристаллы чрезвычайно важны для каст художников Эфириалов: с виду они точь-в-точь как сердце Эфириала. Неясно, что именно досталось вашему скафандру, но в любом случае его приспособили под внутренний источник питания для Модульного Одежного Устройства.

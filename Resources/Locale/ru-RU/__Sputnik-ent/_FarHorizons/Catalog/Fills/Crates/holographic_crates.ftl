@@ -1,4 +1,5 @@
-ent-CrateEngineeringHolographicFieldGenerator = ящик с генератором голографического поля
-    .desc = Ящик, содержащий пару флэтпаков генератора голографического поля.
-ent-CrateSecurityHolographicBarrierGenerator = ящик с генератором голографического барьера
-    .desc = Ящик, содержащий пару флэтпаков генератора голографического барьера.
+ent-CrateEngineeringHolographicFieldGenerator = Ящик с Генераторами Голографического Поля
+    .desc = Ящик с парой Упаковок Генераторов Голографического Поля.
+
+ent-CrateSecurityHolographicBarrierGenerator = Ящик с Генераторами Голографического Барьера
+    .desc = Ящик с парой Упаковок Генераторов Голографического Барьера.

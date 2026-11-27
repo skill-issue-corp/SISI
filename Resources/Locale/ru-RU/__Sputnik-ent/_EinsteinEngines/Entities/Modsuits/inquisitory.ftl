@@ -1,21 +1,21 @@
 ent-BaseModsuitPieceERTChaplain = { "" }
     .desc = { "" }
 
-ent-ClothingModsuitInquisitory = контроллер скафандра инквизитора
-    .desc = Основной контроллер скафандра инквизитора.
+ent-ClothingModsuitInquisitory = блок управления модсьюта «Инквизитор»
+    .desc = Основной блок управления модсьютом «Инквизитор».
 
-ent-ClothingModsuitGauntletsInquisitory = перчатки скафандра инквизитора
-    .desc = Пара перчаток, изготовленных для скафандра инквизитора.
+ent-ClothingModsuitGauntletsInquisitory = перчатки модсьюта «Инквизитор»
+    .desc = Пара перчаток для модсьюта «Инквизитор».
 
-ent-ClothingModsuitHelmetInquisitory = шлем скафандра инквизитора
-    .desc = Передовой шлем, разработанный NanoTrasen для скафандра инквизитора. Имеет встроенный ИЛС.
+ent-ClothingModsuitHelmetInquisitory = шлем модсьюта «Инквизитор»
+    .desc = Передовой шлем, разработанный NanoTrasen для модсьюта «Инквизитор». Оснащён встроенным визором.
 
-ent-ClothingModsuitChestplateInquisitory = нагрудная пластина скафандра инквизитора
-    .desc = Передовой нагрудник, разработанный NanoTrasen для скафандра инквизитора. Оснащён сервоприводами для снижения нагрузки.
+ent-ClothingModsuitChestplateInquisitory = нагрудник модсьюта «Инквизитор»
+    .desc = Передовой нагрудник, разработанный NanoTrasen для модсьюта «Инквизитор». Встроенные сервоприводы снижают нагрузку от снаряжения.
 
-ent-ClothingModsuitBootsInquisitory = ботинки скафандра инквизитора
-    .desc = Передовая пара магнитных ботинок для скафандра инквизитора.
+ent-ClothingModsuitBootsInquisitory = ботинки модсьюта «Инквизитор»
+    .desc = Передовые магнитные ботинки для модсьюта «Инквизитор».
 
 ent-SuitStorageInquisitory = { ent-SuitStorageBase }
-    .suffix = модульный скафандр инквизитора
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Модсьют «Инквизитор»

@@ -1,4 +1,4 @@
-cmd-destroymechanism-desc = Уничтожает механизм у вашей сущности.
+cmd-destroymechanism-desc = Уничтожает механизм у вашего объекта.
 cmd-destroymechanism-help = Использование: destroymechanism <mechanism>
-cmd-destroymechanism-success = Механизм с названием { $name } был уничтожен.
-cmd-destroymechanism-no-mechanism-found = Механизм с названием { $name } не найден.
+cmd-destroymechanism-success = Механизм с именем {$name} уничтожен.
+cmd-destroymechanism-no-mechanism-found = Механизм с именем {$name} не найден.

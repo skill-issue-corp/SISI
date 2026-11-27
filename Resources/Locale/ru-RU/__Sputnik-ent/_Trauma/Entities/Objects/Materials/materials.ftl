@@ -1,14 +1,14 @@
 ent-MaterialGunpowder30 = { ent-MaterialGunpowder }
     .desc = { ent-MaterialGunpowder.desc }
-    .suffix = Полный
+    .suffix = полностью заполнено
 
-ent-Charcoal = уголь
-    .desc = Создаётся при сжигании дерева с минимальным количеством кислорода, горит намного горячее дерева.
-    .suffix = Полный
+ent-Charcoal = древесный уголь
+    .desc = Получается при обжиге дерева с минимальным доступом кислорода. Горит гораздо жарче дерева.
+    .suffix = Полностью заполнено
 
 ent-Charcoal1 = { ent-Charcoal }
     .desc = { ent-Charcoal.desc }
-    .suffix = Одна штука
+    .suffix = Один предмет
 
 ent-Charcoal5 = { ent-Charcoal }
     .desc = { ent-Charcoal.desc }
@@ -23,21 +23,21 @@ ent-Charcoal15 = { ent-Charcoal }
     .suffix = Пятнадцать
 
 ent-Brick = кирпич
-    .desc = Теплоизоляционный кирпич, идеально подходит для сыродутной печи.
-    .suffix = Полный
+    .desc = Теплоизоляционный кирпич, идеально подходит для сыродутного горна.
+    .suffix = Полностью заполнено
 
 ent-Brick1 = { ent-Brick }
     .desc = { ent-Brick.desc }
-    .suffix = Одна штука
+    .suffix = Один предмет
 
 ent-MaterialBananium5 = { ent-MaterialBananium }
     .desc = { ent-MaterialBananium.desc }
     .suffix = 5
 
 ent-BarbedWire = колючая проволока
-    .desc = Проволока с нарезанными на ней шипами.
-    .suffix = Полный
+    .desc = Проволока с насечёнными шипами.
+    .suffix = Полностью заполнено
 
 ent-BarbedWire1 = { ent-BarbedWire }
     .desc = { ent-BarbedWire.desc }
-    .suffix = Одна штука
+    .suffix = Один предмет

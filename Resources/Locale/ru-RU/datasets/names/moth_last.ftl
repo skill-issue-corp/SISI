@@ -1,51 +1,59 @@
 # Ascalapha odorata
-names-moth-last-dataset-1 = Блэквитч
+names-moth-last-dataset-1 = Чёрная Ведьма
+
 # Refers to any of the 3 Acherontia
-names-moth-last-dataset-2 = Дедшед
+names-moth-last-dataset-2 = Мёртвая Голова
+
 # Saturniinae
 names-moth-last-dataset-3 = Император
+
 # Plagodis dolabraria
-names-moth-last-dataset-4 = Скорхидвинг
+names-moth-last-dataset-4 = Обугленное Крыло
+
 # Temnora
 names-moth-last-dataset-5 = Темнора
+
 # Usta
 names-moth-last-dataset-6 = Уста
+
 # Thysania agrippina
-names-moth-last-dataset-7 = Вайтвитч
+names-moth-last-dataset-7 = Белая Ведьма
+
 # Operophtera brumata
-names-moth-last-dataset-8 = Винтер
+names-moth-last-dataset-8 = Зима
 
 ## Other languages
-
 # Ancient Greek "moth"
-names-moth-last-dataset-9 = Епилос
+names-moth-last-dataset-9 = Эпиолос
+
 # Conceivably any Old Norse descendant of mǫlr but probably more Danish than anything. "oe" digraph for ø.
-names-moth-last-dataset-10 = Моеллер
+names-moth-last-dataset-10 = Мёллер
+
 # Literal pseudo-translation of German Nachtfalter
-names-moth-last-dataset-11 = Найтфлайтер
+names-moth-last-dataset-11 = Ночелёт
 
 ## Myth and legend
-
 # Belief of moths flying at night signalling the reception of a letter
-names-moth-last-dataset-12 = Херальд
+names-moth-last-dataset-12 = Вестник
+
 # Greek figure associated with Hero, and similar sounding to Oleander hawk-moth
-names-moth-last-dataset-13 = Лендер
+names-moth-last-dataset-13 = Леандр
+
 # Split between being a myth reference and actual possible surname given the actual Goodman, Hoffman, Newman, Coleman, etc.
-names-moth-last-dataset-14 = Мотхман
+names-moth-last-dataset-14 = Мотылёк
 
 ## Fun names
-
-names-moth-last-dataset-15 = Кометридер
-names-moth-last-dataset-16 = Евентид
-names-moth-last-dataset-17 = Фаерфлай
-names-moth-last-dataset-18 = Фаербруш
-names-moth-last-dataset-19 = Фаеркоат
-names-moth-last-dataset-20 = Лайтвивер
-names-moth-last-dataset-21 = Мунденсер
-names-moth-last-dataset-22 = Найтвиш
-names-moth-last-dataset-23 = Найтайс
-names-moth-last-dataset-24 = Овлбейн
-names-moth-last-dataset-25 = Силктонг
-names-moth-last-dataset-26 = Спаркдров
-names-moth-last-dataset-27 = Старгейзер
-names-moth-last-dataset-28 = Старсикер
+names-moth-last-dataset-15 = Кометогон
+names-moth-last-dataset-16 = Сумерки
+names-moth-last-dataset-17 = Светляк
+names-moth-last-dataset-18 = Огненная Кисть
+names-moth-last-dataset-19 = Пламенный Плащ
+names-moth-last-dataset-20 = Светопряд
+names-moth-last-dataset-21 = Лунный Танцор
+names-moth-last-dataset-22 = Ночное Желание
+names-moth-last-dataset-23 = Ночной Взор
+names-moth-last-dataset-24 = Гроза Сов
+names-moth-last-dataset-25 = Шёлковый Язык
+names-moth-last-dataset-26 = Искроманимый
+names-moth-last-dataset-27 = Звездочёт
+names-moth-last-dataset-28 = Звездоискатель

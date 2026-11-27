@@ -1,2 +1,2 @@
-ent-GunneryControlComputerCircuitboard = консоль контроля артиллерии (консольная плата)
-    .desc = Консольная плата для консоли контроля артиллерии.
+ent-GunneryControlComputerCircuitboard = плата компьютера управления огнём
+    .desc = Печатная плата для компьютера управления огнём.

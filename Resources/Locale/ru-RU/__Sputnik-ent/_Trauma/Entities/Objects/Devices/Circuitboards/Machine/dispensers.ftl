@@ -1,8 +1,8 @@
-ent-EnergyFoodSynthesizerMachineCircuitboard = машинная плата синтезатора энергетической еды
-    .desc = Печатная плата синтезатора энергетической еды.
+ent-EnergyFoodSynthesizerMachineCircuitboard = машинная плата энергетического синтезатора пищи
+    .desc = Печатная плата для энергетического синтезатора пищи.
 
-ent-EnergyBoozeDispenserMachineCircuitboard = машинная плата раздатчика энергетического алкоголя
-    .desc = Печатная плата синтезатора энергетической еды.
+ent-EnergyBoozeDispenserMachineCircuitboard = машинная плата энергетического раздатчика выпивки
+    .desc = Печатная плата для энергетического синтезатора пищи.
 
-ent-EnergySodaDispenserMachineCircuitboard = машинная плата раздатчика энергетической газировки
-    .desc = Печатная плата синтезатора энергетической еды.
+ent-EnergySodaDispenserMachineCircuitboard = машинная плата энергетического раздатчика газировки
+    .desc = Печатная плата для энергетического синтезатора пищи.

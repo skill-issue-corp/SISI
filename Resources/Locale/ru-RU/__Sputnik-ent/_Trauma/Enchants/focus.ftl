@@ -1,2 +1,2 @@
-ent-EnchantFocus = Фокус
+ent-EnchantFocus = Концентрация
     .desc = { ent-BaseEnchant.desc }

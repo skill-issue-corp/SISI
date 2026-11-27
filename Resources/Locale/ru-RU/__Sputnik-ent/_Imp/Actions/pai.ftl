@@ -1,2 +1,2 @@
 ent-ActionDronePlayMidi = Играть MIDI
-    .desc = Разбавьте эмбиент.
+    .desc = Добавьте немного атмосферы.

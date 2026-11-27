@@ -1,2 +1,2 @@
 pylon-toggle-on = Пилон оживает с гулом!
-pylon-toggle-off = Пилон затихает.
+pylon-toggle-off = Гул пилона стихает.

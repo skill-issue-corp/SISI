@@ -6,5 +6,5 @@ materials-brass-ingot = латунный слиток
 materials-steel-ingot = стальной слиток
 materials-plasteel-ingot = пласталевый слиток
 materials-whetstone = точильный камень
-materials-bracing = крепление
-materials-drillhead = буровая коронка
+materials-bracing = распорка
+materials-drillhead = буровая головка

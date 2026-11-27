@@ -1,4 +1,5 @@
-loudspeaker-examine-toggleable = Функциональность громкоговорителя можно переключать. Громкоговоритель [color=yellow]{ $state }[/color].
-loudspeaker-examine-generic = Имеет функционал громкоговорителя.
+loudspeaker-examine-toggleable = Громкоговоритель можно включать и выключать. Состояние: [color=yellow]{$state}[/color].
+loudspeaker-examine-generic = Оборудовано громкоговорителем.
+
 loudspeaker-toggle = Переключить громкоговоритель
-loudspeaker-toggle-popup = Громкоговоритель { $state }.
+loudspeaker-toggle-popup = Громкоговоритель {$state}.

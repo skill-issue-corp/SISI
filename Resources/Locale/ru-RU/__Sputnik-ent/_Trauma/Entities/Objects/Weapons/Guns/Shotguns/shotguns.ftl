@@ -1,19 +1,19 @@
 ent-WeaponShotgunKammererEmpty = { ent-WeaponShotgunKammerer }
     .desc = { ent-WeaponShotgunKammerer.desc }
-    .suffix = Пустой
+    .suffix = Пусто
 
-ent-WeaponShotgunDevastator = Опустошитель
-    .desc = Четырёхствольный дробовик, точность отвратительная, но результаты говорят сами за себя. Использует патроны для дробовика 12 калибра.
-    .suffix = Полный
+ent-WeaponShotgunDevastator = Devastator
+    .desc = Дробовик с 4 стволами. Чертовски неточный, но результат говорит сам за себя. Использует ружейные патроны 12 калибра.
+    .suffix = Полностью заполнено
 
 ent-WeaponShotgunDevastatorEmpty = { ent-WeaponShotgunDevastator }
     .desc = { ent-WeaponShotgunDevastator.desc }
-    .suffix = Пустой
+    .suffix = Пусто
 
 ent-WeaponShotgunDoubleBarreledEngraved = двуствольный дробовик
-    .desc = Хорошо ухоженный дробовик с вертикально спаренными стволами, его гравировка не даёт абсолютно никакого тактического преимущества.
-    .suffix = С гравировкой
+    .desc = Ухоженная вертикалка. Гравировка на ней не даёт ни малейшего тактического преимущества.
+    .suffix = Гравировка
 
 ent-WeaponShotgunDoubleBarreledEngravedBeanbag = { ent-WeaponShotgunDoubleBarreledEngraved }
     .desc = { ent-WeaponShotgunDoubleBarreledEngraved.desc }
-    .suffix = С гравировкой, несмертельный
+    .suffix = Гравировка, Нелетальный

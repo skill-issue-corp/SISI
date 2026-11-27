@@ -1,155 +1,155 @@
 ent-AirlockAssemblyAtmospherics = { ent-AirlockAssembly }
-    .suffix = Атмосферный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Атмосферный Отсек
 
 ent-AirlockAssemblyAtmosphericsGlass = { ent-AirlockAssembly }
-    .suffix = Атмосферный, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Атмосферный Отсек, Стекло
 
 ent-AirlockAssemblyCargo = { ent-AirlockAssembly }
-    .suffix = Снабжение
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Карго
 
 ent-AirlockAssemblyCargoGlass = { ent-AirlockAssembly }
-    .suffix = Снабжение, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Карго, Стекло
 
 ent-PinionAirlockAssembly = каркас шлюза
-    .suffix = Шестерня, Заводной
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Шестерня, Часовой Механизм
 
 ent-PinionAirlockAssemblyGlass = { ent-PinionAirlockAssembly }
-    .suffix = Шестерня, Заводной, Стеклянный
     .desc = { ent-PinionAirlockAssembly.desc }
+    .suffix = Шестерня, Часовой Механизм, Стекло
 
 ent-AirlockAssemblyCommand = { ent-AirlockAssembly }
-    .suffix = Командный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Командование
 
 ent-AirlockAssemblyCommandGlass = { ent-AirlockAssembly }
-    .suffix = Командный, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Командование, Стекло
 
 ent-AirlockAssemblyEngineering = { ent-AirlockAssembly }
-    .suffix = Инженерный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Инженерный Отдел
 
 ent-AirlockAssemblyEngineeringGlass = { ent-AirlockAssembly }
-    .suffix = Инженерный, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Инженерия, Стекло
 
 ent-AirlockAssemblyExternal = { ent-AirlockAssembly }
-    .suffix = Внешний
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Внешний
 
 ent-AirlockAssemblyExternalGlass = { ent-AirlockAssembly }
-    .suffix = Внешний, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Внешний, Стекло
 
 ent-AirlockAssemblyGlass = { ent-AirlockAssembly }
-    .suffix = Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Стекло
 
 ent-AirlockAssemblyFreezer = { ent-AirlockAssembly }
-    .suffix = Холодильник
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Морозильник
 
 ent-AirlockAssemblyHydroponics = { ent-AirlockAssembly }
-    .suffix = Гидропоника
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Гидропоника
 
 ent-AirlockAssemblyHydroponicsGlass = { ent-AirlockAssembly }
-    .suffix = Гидропоника, Стекло
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Гидропоника, Стекло
 
 ent-AirlockAssemblyMaintenance = { ent-AirlockAssembly }
-    .suffix = Техобслуживание
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Техтоннели
 
 ent-AirlockAssemblyMaintenanceGlass = { ent-AirlockAssembly }
-    .suffix = Техобслуживание, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Техтоннели, Стекло
 
 ent-AirlockAssemblyMedical = { ent-AirlockAssembly }
-    .suffix = Медицинский
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Медотсек
 
 ent-AirlockAssemblyMedicalGlass = { ent-AirlockAssembly }
-    .suffix = Медицинский, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Медотсек, Стекло
 
 ent-AirlockAssemblySalvage = { ent-AirlockAssembly }
-    .suffix = Утилизаторы
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Утилизаторская
 
 ent-AirlockAssemblySalvageGlass = { ent-AirlockAssembly }
-    .suffix = Утилизаторы, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Утилизация, Стекло
 
 ent-AirlockAssemblyScience = { ent-AirlockAssembly }
-    .suffix = Научный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Наука
 
 ent-AirlockAssemblyScienceGlass = { ent-AirlockAssembly }
-    .suffix = Научный, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Наука, Стекло
 
 ent-AirlockAssemblySecurity = { ent-AirlockAssembly }
-    .suffix = Служба Безопасности
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Служба Безопасности
 
 ent-AirlockAssemblySecurityGlass = { ent-AirlockAssembly }
-    .suffix = Служба Безопасности, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Служба Безопасности, Стекло
 
 ent-AirlockAssemblyShuttle = { ent-AirlockAssembly }
-    .suffix = Шаттл
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Шаттл
 
 ent-AirlockAssemblyShuttleGlass = { ent-AirlockAssembly }
-    .suffix = Шаттл, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Шаттл, Стекло
 
 ent-AirlockAssemblyVirology = { ent-AirlockAssembly }
-    .suffix = Вирусология
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Вирусология
 
 ent-AirlockAssemblyVirologyGlass = { ent-AirlockAssembly }
-    .suffix = Вирусология, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Вирусология, Стекло
 
 ent-AirlockAssemblyCentralCommand = { ent-AirlockAssembly }
-    .suffix = ЦК
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = ЦентральноеКомандование
 
 ent-AirlockAssemblyCentralCommandGlass = { ent-AirlockAssembly }
-    .suffix = ЦК, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = ЦентральноеКомандование, Стекло
 
 ent-AirlockAssemblyMining = { ent-AirlockAssembly }
-    .suffix = Шахтёрский
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Добыча
 
 ent-AirlockAssemblyMiningGlass = { ent-AirlockAssembly }
-    .suffix = Шахтёрский, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Добыча, Стекло
 
 ent-AirlockAssemblySyndicate = { ent-AirlockAssembly }
-    .suffix = Синдикат
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Синдикат
 
 ent-AirlockAssemblySyndicateGlass = { ent-AirlockAssembly }
-    .suffix = Синдикат, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Синдикат, Стекло
 
 ent-AirlockAssemblyShuttleSyndicate = { ent-AirlockAssembly }
-    .suffix = Шаттл Синдиката
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = ШаттлСиндиката
 
 ent-AirlockAssemblyShuttleSyndicateGlass = { ent-AirlockAssembly }
-    .suffix = Шаттл Синдиката, Стеклянный
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = ШаттлСиндиката, Стекло
 
 ent-AirlockAssemblyHighSec = { ent-AirlockAssembly }
-    .suffix = Бронированная дверь
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = ОсобоЗащищённый

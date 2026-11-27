@@ -1,5 +1,5 @@
-ghost-role-information-pirate-name = Член экипажа пиратской шхуны
-ghost-role-information-pirate-description = Следуйте приказам капитана. Грабьте, мародёрствуйте, убивайте.
+ghost-role-information-pirate-name = Матрос Пиратской Шхуны
+ghost-role-information-pirate-description = Выполняйте приказы капитана. Грабьте, разоряйте, убивайте.
 
-ghost-role-information-pirate-captain-name = Капитан пиратской шхуны
-ghost-role-information-pirate-captain-description = Командуйте экипажем. Богатейте.
+ghost-role-information-pirate-captain-name = Капитан Пиратской Шхуны
+ghost-role-information-pirate-captain-description = Командуйте матросами. Богатейте.

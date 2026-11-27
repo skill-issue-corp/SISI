@@ -1,5 +1,5 @@
 ent-BaseBow = лук
-    .desc = Самый первый пример дерзай — налетай, целься и стреляй.
+    .desc = Тот самый, изначальный пуль-пулятор.
 
-ent-BowImprovised = { ent-BaseBow }
+ent-BowImprovised = самодельный короткий лук
     .desc = { ent-BaseBow.desc }

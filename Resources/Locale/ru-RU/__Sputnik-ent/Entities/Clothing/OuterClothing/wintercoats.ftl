@@ -1,10 +1,10 @@
 ent-ClothingOuterWinterCoat = зимняя куртка
-    .desc = Тяжёлая куртка из «синтетического» меха животных.
+    .desc = Тяжёлая куртка из «синтетического» звериного меха.
 
 ent-ClothingOuterWinterCoatToggleable = зимняя куртка с капюшоном
     .desc = { ent-ClothingOuterWinterCoat.desc }
 
-ent-ClothingOuterWinterAtmos = зимняя куртка атмос-техника
+ent-ClothingOuterWinterAtmos = зимняя куртка атмосферного отсека
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
 ent-ClothingOuterWinterBar = зимняя куртка бармена
@@ -13,7 +13,7 @@ ent-ClothingOuterWinterBar = зимняя куртка бармена
 ent-ClothingOuterWinterCap = зимняя куртка капитана
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterCargo = зимняя куртка грузчика
+ent-ClothingOuterWinterCargo = зимняя куртка карго
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
 ent-ClothingOuterWinterCE = зимняя куртка старшего инженера
@@ -22,8 +22,8 @@ ent-ClothingOuterWinterCE = зимняя куртка старшего инже�
 ent-ClothingOuterWinterCentcom = зимняя куртка ЦК
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterChef = морозильная куртка шеф-повара
-    .desc = Куртка, разработанная специально для работы в холодильных камерах, столь необходимая хладнокровным поварам-унатхам.
+ent-ClothingOuterWinterChef = куртка повара для морозилки
+    .desc = Куртка специально для работы в морозильной камере, совершенно необходимая холоднокровным поварам-ящерам.
 
 ent-ClothingOuterWinterChem = зимняя куртка химика
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
@@ -32,7 +32,7 @@ ent-ClothingOuterWinterCMO = зимняя куртка главного врач
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
 ent-ClothingOuterWinterClown = зимняя куртка клоуна
-    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
+    .desc = { ent-ClothingOuterWinterCoat.desc }
 
 ent-ClothingOuterWinterEngi = зимняя куртка инженера
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
@@ -41,15 +41,15 @@ ent-ClothingOuterWinterGen = зимняя куртка генетика
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
 ent-ClothingOuterWinterHoP = зимняя куртка главы персонала
-    .desc = { ent-ClothingOuterWinterCoat.desc }
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterHoS = зимняя бронекуртка главы службы безопасности
-    .desc = Прочная, утилитарная зимняя куртка, предназначенная для защиты главы службы безопасности от любых угроз, связанных с бригом и переохлаждением.
+ent-ClothingOuterWinterHoS = бронированная зимняя куртка главы службы безопасности
+    .desc = Прочная, практичная зимняя куртка защищает главу службы безопасности от любых угроз, которым самое место в бриге, и от переохлаждения.
 
 ent-ClothingOuterWinterHoSUnarmored = зимняя куртка главы службы безопасности
-    .desc = Прочная куртка, тёплая куртка, но не бронированная куртка.
+    .desc = Куртка прочная, куртка тёплая, но куртка не бронированная.
 
-ent-ClothingOuterWinterHydro = зимняя куртка ботаника
+ent-ClothingOuterWinterHydro = зимняя куртка гидропоники
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
 ent-ClothingOuterWinterJani = зимняя куртка уборщика
@@ -85,26 +85,26 @@ ent-ClothingOuterWinterSec = зимняя куртка службы безопа
 ent-ClothingOuterWinterViro = зимняя куртка вирусолога
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterWarden = зимняя бронекуртка смотрителя
-    .desc = Прочная, утилитарная зимняя куртка, предназначенная для защиты смотрителя от любых угроз, связанных с бригом и переохлаждением.
+ent-ClothingOuterWinterWarden = бронированная зимняя куртка смотрителя
+    .desc = Прочная, практичная зимняя куртка защищает смотрителя от любых угроз, которым самое место в бриге, и от переохлаждения.
 
 ent-ClothingOuterWinterWardenUnarmored = зимняя куртка смотрителя
-    .desc = Прочная куртка, тёплая куртка, но не бронированная куртка.
+    .desc = Куртка прочная, куртка тёплая, но куртка не бронированная.
 
-ent-ClothingOuterWinterSyndieCap = зимняя куртка Синдиката
-    .desc = Зимняя куртка Синдиката изготовлено из прочной ткани с позолоченными узорами и грубой шерсти.
+ent-ClothingOuterWinterSyndieCap = зимняя куртка синдиката
+    .desc = Зимняя куртка синдиката сшита из прочной ткани и грубой шерсти и украшена позолоченными узорами.
 
-ent-ClothingOuterWinterSyndieCapArmored = зимняя бронекуртка Синдиката
-    .desc = Зимняя бронекуртка Синдиката изготовлена из прочной ткани с позолоченными узорами и грубой шерсти.
+ent-ClothingOuterWinterSyndieCapArmored = бронированная зимняя куртка синдиката
+    .desc = Бронированная зимняя куртка синдиката сшита из прочной ткани и грубой шерсти и украшена позолоченными узорами.
 
-ent-ClothingOuterWinterSyndie = зимняя куртка Синдиката
-    .desc = Утеплённая зимняя куртка, похожая на товар из "Синдиленда".
+ent-ClothingOuterWinterSyndie = зимняя куртка синдиката
+    .desc = Утеплённая зимняя куртка, похожая на сувенир из «Синдиленда».
 
 ent-ClothingOuterWinterMusician = зимняя куртка музыканта
-    .desc = Безразмерный пластилиновый космический фрак, который заставит людей спрашивать: "Вы меня знаете?".
+    .desc = Огромный пластилиновый космический смокинг, из-за которого все будут спрашивать: «Мы знакомы?»
 
-ent-ClothingOuterWinterWeb = паутинная зимняя куртка
-    .desc = Даёт ощущение, словно вы внутри кокона, не то чтобы из-за этого вам стало менее страшно оказаться в настоящем.
+ent-ClothingOuterWinterWeb = зимняя куртка из паутины
+    .desc = Как будто вы внутри кокона. Вряд ли от этого вам будет менее страшно оказаться в настоящем коконе.
 
 ent-ClothingOuterWinterColorBlack = чёрная зимняя куртка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }

@@ -1,7 +1,7 @@
-ent-AppearanceHuman = внешность человека
+ent-AppearanceHuman = облик человека
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobHuman = Урист МакХендс
+ent-MobHuman = Урист МакРуки
     .desc = { ent-AppearanceHuman.desc }
 
 ent-OrganHuman = { ent-OrganBaseOrganic }

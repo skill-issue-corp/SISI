@@ -2,13 +2,13 @@ ent-BaseFireExtinguisher = { ent-SolutionSpray }
     .desc = { ent-SolutionSpray.desc }
 
 ent-FireExtinguisher = огнетушитель
-    .desc = Он тушит пожары.
+    .desc = Тушит пожары.
 
 ent-SolutionFireExtinguisher = { ent-SolutionSpray }
     .desc = { ent-SolutionSpray.desc }
 
-ent-BorgFireExtinguisher = маневровый джет
-    .desc = Основан на технологии огнетушителя, маневровый джет — это... ну да, это просто огнетушитель побольше.
+ent-BorgFireExtinguisher = маневровый двигатель
+    .desc = Маневровый двигатель, созданный на базе огнетушителя... ну да, это просто огнетушитель побольше.
 
 ent-SolutionFireExtinguisherLarge = { ent-SolutionSpray }
     .desc = { ent-SolutionSpray.desc }
@@ -17,10 +17,10 @@ ent-ExtinguisherSpray = струя огнетушителя
     .desc = { ent-Vapor.desc }
 
 ent-FireExtinguisherMini = карманный огнетушитель
-    .desc = Лёгкая и компактная модель огнетушителя в стекловолоконном корпусе. Вмещает меньше воды, чем его старший брат.
+    .desc = Лёгкий компактный огнетушитель в стеклопластиковом корпусе. Вмещает меньше воды, чем его старший брат.
 
 ent-SolutionFireExtinguisherMini = { ent-SolutionSpray }
     .desc = { ent-SolutionSpray.desc }
 
-ent-SelfRechargingFireExtinguisher = самозаполняющийся огнетушитель
-    .desc = Он тушит пожары. Он медленно заполняется водой.
+ent-SelfRechargingFireExtinguisher = самозаряжающийся огнетушитель
+    .desc = Тушит пожары. медленно наполняется водой сам.

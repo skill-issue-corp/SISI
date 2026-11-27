@@ -1,34 +1,30 @@
 ent-BaseWeaponCrusher = крушитель
-    .desc = Ранняя версия протокинетического ускорителя.
+    .desc = Ранняя модель протокинетического ускорителя.
 
 ent-WeaponCrusher = топор-крушитель
-    .desc = Ранняя версия протокинетического ускорителя.
+    .desc = Ранняя модель протокинетического ускорителя.
 
 ent-WeaponCrusherGlaive = глефа-крушитель
-    .desc = Ранняя версия протокинетического ускорителя в форме глефы. Обеспечивает больше лечения ценой меньшего урона.
+    .desc = Ранняя модель протокинетического ускорителя в форме глефы. Лучше лечит, но наносит меньше урона заряженным ударом.
 
 ent-WeaponCrusherHammer = молот-крушитель
-    .desc = Мощное двуручное оружие, которое откидывает и наносит больше урона, чем крушитель.
+    .desc = Увесистое двуручное оружие, которое отбрасывает противников и наносит больше урона, чем крушитель.
 
 ent-WeaponCrusherHalberd = алебарда-крушитель
-    .desc = Универсальное оружие, которое совмещает силу крушителя и длину копья.
+    .desc = Универсальное оружие, сочетающее мощь крушителя и дальность копья.
 
 ent-CrusherRandomUpgradesFill = { "" }
-    .suffix = Случайные улучшения
     .desc = { "" }
+    .suffix = Случайные Улучшения
 
 ent-WeaponCrusherFilledRandom = { ent-WeaponCrusher }
-    .suffix = Случайные улучшения
     .desc = { ent-WeaponCrusher.desc }
 
 ent-WeaponCrusherGlaiveFilledRandom = { ent-WeaponCrusherGlaive }
-    .suffix = Случайные улучшения
     .desc = { ent-WeaponCrusherGlaive.desc }
 
 ent-WeaponCrusherHammerFilledRandom = { ent-WeaponCrusherHammer }
-    .suffix = Случайные улучшения
     .desc = { ent-WeaponCrusherHammer.desc }
 
 ent-WeaponCrusherHalberdFilledRandom = { ent-WeaponCrusherHalberd }
-    .suffix = Случайные улучшения
     .desc = { ent-WeaponCrusherHalberd.desc }

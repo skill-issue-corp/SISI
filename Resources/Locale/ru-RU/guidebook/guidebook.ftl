@@ -7,14 +7,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-guidebook-window-title = Руководство
-guidebook-placeholder-text = Выберите запись.
-guidebook-placeholder-text-2 = Если вы новичок, то начните с записи "Новичок? Вам сюда!".
-guidebook-filter-placeholder-text = Фильтр
-guidebook-toc-header = Содержание
+guidebook-window-title = Справочник
+guidebook-placeholder-text = Выберите статью.
+guidebook-placeholder-text-2 = Если вы новичок, откройте раздел «Новичок? Начните здесь!»
+guidebook-filter-placeholder-text = Фильтр статей
+guidebook-toc-header = Оглавление
 
-guidebook-parser-error = Ошибка парсера
-guidebook-error-message = Сообщение об ошибке
+guidebook-parser-error = Ошибка Разбора
+guidebook-error-message = Сообщение об Ошибке
 
-guidebook-monkey-unspin = Отперевернуть обезьяну
-guidebook-monkey-disco = Диско обезьяна
+guidebook-monkey-unspin = Остановить Вращение Обезьяны
+guidebook-monkey-disco = Диско-Обезьяна

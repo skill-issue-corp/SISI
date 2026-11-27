@@ -1,2 +1,2 @@
-ent-VehicleSkeletonMotorcycle = мотоцикл
-    .desc = Плохо заканчивается для костей.
+ent-VehicleSkeletonMotorcycle = мотоцикл скелета
+    .desc = Крутой до Мозга Костей.

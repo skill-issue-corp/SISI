@@ -1,2 +1,2 @@
-ent-BulletStasis = пуля стазиса
+ent-BulletStasis = стазисный заряд
     .desc = { ent-BaseBullet.desc }

@@ -1,6 +1,7 @@
-ent-RandomVending = спавнер случайный торговый автомат
+ent-RandomVending = спавнер случайного торгового автомата
     .desc = { ent-MarkerBase.desc }
-    .suffix = Случайный
-ent-RandomVendingClothing = спавнер случайный торговый автомат
+    .suffix = Любой
+
+ent-RandomVendingClothing = спавнер случайного торгового автомата
+    .desc = { ent-MarkerBase.desc }
     .suffix = Одежда
-    .desc = { ent-MarkerBase.desc }

@@ -1,7 +1,7 @@
-hypoport-fail-missing = У {$target} нет гипопорта для инъекции!
-hypoport-fail-access = Гипопорт {$target} заблокирован!
+hypoport-fail-missing = У {CAPITALIZE($target)} нет гипопорта для инъекций!
+hypoport-fail-access = Гипопорт {CAPITALIZE($target)} заблокирован!
 hypoport-fail-grab = Сначала нужно схватить {$target}!
 
-hypoport-detail-examine = {CAPITALIZE(POSS-ADJ($target))} шее есть [color=blue]гипопорт[/color] для использования с гипоспреями.
+hypoport-detail-examine = На {CAPITALIZE(POSS-ADJ($target))} шее есть [color=blue]гипопорт[/color] для гипоспреев.
 
 item-slot-name-vial = Флакон

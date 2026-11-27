@@ -1,6 +1,6 @@
 ent-RevShieldRipper = разрушитель щита
-    .desc = Устройство быстро и болезненно вырывает имплант Щит Разума. Одноразовое.
+    .desc = Быстро и болезненно вырывает щит разума. Одноразовое устройство.
 
-ent-FakeMindShieldImplanterRev = имплантер фальшивого щита разума
+ent-FakeMindShieldImplanterRev = имплантер поддельного щита разума
     .desc = { ent-BaseImplantOnlyImplanter.desc }
-    .suffix = Фальшивый щит разума
+    .suffix = Поддельный Щит Разума

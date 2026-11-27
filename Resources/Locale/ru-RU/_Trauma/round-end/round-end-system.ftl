@@ -1,5 +1,5 @@
 round-end-system-shuttle-called-announcement-caller-reason =
-    Эвакуационный шаттл вызван: {$caller}.
+    Эвакуационный шаттл вызван. Инициатор: {$caller}.
     Причина: {$reason}
-    Прибытие через: {$time} {$units}.
-round-end-system-shuttle-recalled-announcement-caller-reason = Эвакуационный шаттл отозван: {$caller}: {$reason}
+    ВРЕМЯ ПРИБЫТИЯ: {$time} {$units}.
+round-end-system-shuttle-recalled-announcement-caller-reason = Вызов эвакуационного шаттла отменён. Инициатор: {$caller}. Причина: {$reason}

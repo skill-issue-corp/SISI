@@ -1,35 +1,46 @@
-ent-BaseAnomalyInjector = инъектор аномалии
+ent-BaseAnomalyInjector = инъектор аномалий
     .desc = { ent-MarkerBase.desc }
+
 ent-AnomalyTrapPyroclastic = { ent-BaseAnomalyInjector }
-    .suffix = Пирокластика
     .desc = { ent-BaseAnomalyInjector.desc }
+    .suffix = Пирокластическая
+
 ent-AnomalyTrapElectricity = { ent-BaseAnomalyInjector }
-    .suffix = Электричество
     .desc = { ent-BaseAnomalyInjector.desc }
+    .suffix = Электрическая
+
 ent-AnomalyTrapShadow = { ent-BaseAnomalyInjector }
-    .suffix = Тень
     .desc = { ent-BaseAnomalyInjector.desc }
+    .suffix = Теневая
+
 ent-AnomalyTrapIce = { ent-BaseAnomalyInjector }
+    .desc = { ent-BaseAnomalyInjector.desc }
     .suffix = Лёд
-    .desc = { ent-BaseAnomalyInjector.desc }
+
 ent-AnomalyTrapFlora = { ent-BaseAnomalyInjector }
-    .suffix = Флора
     .desc = { ent-BaseAnomalyInjector.desc }
+    .suffix = Растительная
+
 ent-AnomalyTrapBluespace = { ent-BaseAnomalyInjector }
+    .desc = { ent-BaseAnomalyInjector.desc }
     .suffix = Блюспейс
-    .desc = { ent-BaseAnomalyInjector.desc }
+
 ent-AnomalyTrapFlesh = { ent-BaseAnomalyInjector }
+    .desc = { ent-BaseAnomalyInjector.desc }
     .suffix = Плоть
-    .desc = { ent-BaseAnomalyInjector.desc }
+
 ent-AnomalyTrapGravity = { ent-BaseAnomalyInjector }
-    .suffix = Гравитация
     .desc = { ent-BaseAnomalyInjector.desc }
+    .suffix = Гравитационная
+
 ent-AnomalyTrapTech = { ent-BaseAnomalyInjector }
-    .suffix = Тех
     .desc = { ent-BaseAnomalyInjector.desc }
+    .suffix = Технологическая
+
 ent-AnomalyTrapRock = { ent-BaseAnomalyInjector }
-    .suffix = Камень
     .desc = { ent-BaseAnomalyInjector.desc }
+    .suffix = Каменная
+
 ent-AnomalyTrapSanta = { ent-BaseAnomalyInjector }
-    .suffix = Санта
     .desc = { ent-BaseAnomalyInjector.desc }
+    .suffix = Санта

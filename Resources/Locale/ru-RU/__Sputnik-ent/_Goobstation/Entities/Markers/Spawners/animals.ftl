@@ -1,4 +1,5 @@
-ent-SpawnMobHorse = спавнер лошадь
+ent-SpawnMobHorse = Точка Спавна Лошади
     .desc = { ent-MarkerBase.desc }
-ent-SpawnMobHorseTrevor = спавнер тревор
+
+ent-SpawnMobHorseTrevor = Точка Спавна Тревора
     .desc = { ent-MarkerBase.desc }

@@ -17,10 +17,10 @@ ent-MobHumanSyndicateAgentThief = вор синдиката
 
 ent-MobHumanSyndicateAgentNukeops = { ent-MobHumanSyndicateAgentBase }
     .desc = { ent-MobHumanSyndicateAgentBase.desc }
-    .suffix = Человек, Ядерные оперативники
+    .suffix = Человек, Ядерные Оперативники
 
-ent-MobHumanNukeOp = ядерный оперативник
+ent-MobHumanNukeOp = Ядерный Оперативник
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperative = одинокий оперативник
+ent-MobHumanLoneNuclearOperative = Одинокий Оперативник
     .desc = { ent-MobHuman.desc }

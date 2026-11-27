@@ -1,97 +1,97 @@
 ent-TableFrame = каркас стола
-    .desc = Металлические детали, составляющие каркас стола.
+    .desc = Металлические детали, из которых собран каркас стола.
 
-ent-CounterWoodFrame = деревянный каркас стойки
-    .desc = Деревянные детали, составляющие каркас стола.
+ent-CounterWoodFrame = каркас деревянной стойки
+    .desc = Деревянные детали, из которых собран каркас стола.
 
-ent-CounterMetalFrame = металлический каркас стойки
-    .desc = Металлические детали, составляющие каркас стола.
+ent-CounterMetalFrame = каркас металлической стойки
+    .desc = Металлические детали, из которых собран каркас стола.
 
 ent-Table = стол
-    .desc = Квадратный лист металла, стоящий на четырёх металлических ножках.
+    .desc = Квадратный кусок металла на четырёх металлических ножках.
 
-ent-TableReinforced = укреплённый стол
-    .desc = Квадратный лист металла, стоящий на четырёх металлических ножках. Очень прочный.
+ent-TableReinforced = усиленный стол
+    .desc = Квадратный кусок металла на четырёх металлических ножках. Особо робастный.
 
 ent-TableGlass = стеклянный стол
-    .desc = Квадратный лист стекла, стоящий на четырёх металлических ножках.
+    .desc = Квадратный кусок стекла на четырёх металлических ножках.
 
 ent-TableCard = картонный стол
     .desc = Листы картона, обёрнутые вокруг металлического каркаса стола.
 
 ent-TableReinforcedGlass = стол из бронестекла
-    .desc = Квадратный лист стекла, стоящий на четырёх металлических ножках. Очень прочный.
+    .desc = Квадратный кусок стекла на четырёх металлических ножках. Особо робастный.
 
 ent-TablePlasmaGlass = стол из плазменного стекла
-    .desc = Квадратный лист плазмы, стоящий на четырёх металлических ножках. Красивый!
+    .desc = Квадратный кусок плазменного стекла на четырёх металлических ножках. Красота!
 
 ent-TableBrass = латунный стол
-    .desc = Блестящий, устойчивый к коррозии стол из латуни. Стимпанк!
+    .desc = Блестящий латунный стол, устойчивый к коррозии. Стимпанк!
 
 ent-TableWood = деревянный стол
-    .desc = Беречь от огня. По слухам, он легко горит.
+    .desc = Не подносите к нему огонь. Говорят, он легко загорается.
 
 ent-TableCarpet = игорный стол
-    .desc = Сыграй с нами, ковбой.
+    .desc = Играй, ковбой.
 
 ent-TableStone = каменный стол
-    .desc = Буквально самая прочная вещь, которую вы когда-либо видели.
+    .desc = Буквально самая прочная вещь из всех, что вы когда-либо видели.
 
-ent-TableWeb = паутинный стол
-    .desc = Очень гладкий и удивительно прочный.
+ent-TableWeb = стол из паутины
+    .desc = Очень гладкий и на удивление прочный.
 
-ent-TableXeno = ксено-стол
-    .desc = Я бы не стал класть на него столовые приборы.
+ent-TableXeno = стол ксеноморфов
+    .desc = Я бы не стал класть на него столовое серебро.
 
-ent-TableFancyBase = красивый стол
+ent-TableFancyBase = нарядный стол
     .desc = Дорого и богато.
 
 ent-TableFancyBlue = { ent-TableFancyBase }
-    .suffix = Синий
     .desc = { ent-TableFancyBase.desc }
+    .suffix = Синий
 
 ent-TableFancySkyBlue = { ent-TableFancyBase }
     .desc = { ent-TableFancyBase.desc }
-    .suffix = Небесно-Голубой
+    .suffix = НебесноГолубой
 
 ent-TableFancyCyan = { ent-TableFancyBase }
-    .suffix = Голубой
     .desc = { ent-TableFancyBase.desc }
+    .suffix = Голубой
 
 ent-TableFancyBlack = { ent-TableFancyBase }
-    .suffix = Чёрный
     .desc = { ent-TableFancyBase.desc }
+    .suffix = Чёрный
 
 ent-TableFancyRed = { ent-TableFancyBase }
-    .suffix = Красный
     .desc = { ent-TableFancyBase.desc }
+    .suffix = Красный
 
 ent-TableFancyPurple = { ent-TableFancyBase }
-    .suffix = Фиолетовый
     .desc = { ent-TableFancyBase.desc }
+    .suffix = Фиолетовый
 
 ent-TableFancyPink = { ent-TableFancyBase }
-    .suffix = Розовый
     .desc = { ent-TableFancyBase.desc }
+    .suffix = Розовый
 
 ent-TableFancyGreen = { ent-TableFancyBase }
-    .suffix = Зелёный
     .desc = { ent-TableFancyBase.desc }
+    .suffix = Зелёный
 
 ent-TableFancyOrange = { ent-TableFancyBase }
-    .suffix = Оранжевый
     .desc = { ent-TableFancyBase.desc }
+    .suffix = Оранжевый
 
 ent-TableFancyWhite = { ent-TableFancyBase }
-    .suffix = Белый
     .desc = { ent-TableFancyBase.desc }
+    .suffix = Белый
 
 ent-TableDebug = стол
-    .desc = ИДЕАЛЬНО ДЛЯ НОЖЕК В ЧУЛОЧКАХ!!
+    .desc = НАДЕВАЙ НОСКИ КОДЕРА!!
     .suffix = DEBUG
 
 ent-TableCounterWood = деревянная стойка
-    .desc = Беречь от огня. По слухам, она легко горит.
+    .desc = Не подносите к нему огонь. Говорят, он легко загорается.
 
 ent-TableCounterMetal = металлическая стойка
-    .desc = Отличное место, чтобы пропустить стаканчик.
+    .desc = Похоже, сюда удобно поставить напиток.

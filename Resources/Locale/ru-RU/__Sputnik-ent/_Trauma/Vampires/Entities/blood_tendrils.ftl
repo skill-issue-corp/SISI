@@ -1,6 +1,8 @@
 ent-BloodTendrilPre = { "" }
     .desc = { "" }
-ent-BloodTendril = Кровавое щупальце
+
+ent-BloodTendril = Кровавое Щупальце
     .desc = Странное щупальце.
+
 ent-BloodTendrilImmobilizeEffect = { "" }
     .desc = { "" }

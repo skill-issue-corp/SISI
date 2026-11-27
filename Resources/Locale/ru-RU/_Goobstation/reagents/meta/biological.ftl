@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-alien-blood = инопланетная кровь
-reagent-desc-alien-blood = Кровь существа не из этой галактики. Возможно, она со вкусом винограда.
+reagent-name-alien-blood = кровь пришельца
+reagent-desc-alien-blood = Существо, из которого она вытекла, родом из другой галактики. Может, у неё вкус винограда.

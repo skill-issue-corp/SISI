@@ -1,20 +1,20 @@
-ent-CrateVendingMachineRestockEngineeringFilled = ящик пополнения ИнжеМат
-    .desc = Содержит коробку пополнения для ИнжеМат. Также подходит для ТвоИнструменты.
+ent-CrateVendingMachineRestockEngineeringFilled = ящик пополнения «ИнжиВенд»
+    .desc = Содержит коробку пополнения для «ИнжиВенд». Подходит и для «ТвойИнструмент».
 
-ent-CrateVendingMachineRestockMedicalFilled = ящик пополнения НаноМед
-    .desc = Содержит коробку пополнения, совместимую с НаноМед и НаноМед Плюс.
+ent-CrateVendingMachineRestockMedicalFilled = ящик пополнения «НаноМед»
+    .desc = Содержит коробку пополнения, совместимую с «НаноМед» и «НаноМедПлюс».
 
-ent-CrateVendingMachineRestockChemVendFilled = ящик пополнения ХимкоМат
-    .desc = Содержит коробку пополнения для ХимкоМат.
+ent-CrateVendingMachineRestockChemVendFilled = ящик пополнения «ХимВенд»
+    .desc = Содержит коробку пополнения для «ХимВенд».
 
-ent-CrateVendingMachineRestockNutriMaxFilled = ящик пополнения БотаМакс
-    .desc = Содержит коробку пополнения для торгового автомата БотаМакс.
+ent-CrateVendingMachineRestockNutriMaxFilled = ящик пополнения «НутриМакс»
+    .desc = Содержит коробку пополнения для торгового автомата «НутриМакс».
 
-ent-CrateVendingMachineRestockSecTechFilled = ящик пополнения СБТех
-    .desc = Содержит коробку пополнения для торгового автомата СБТех.
+ent-CrateVendingMachineRestockSecTechFilled = ящик пополнения «СекТек»
+    .desc = Содержит коробку пополнения для торгового автомата «СекТек».
 
-ent-CrateVendingMachineRestockSeedsFilled = ящик пополнения МегаРаздатчик Семян
-    .desc = Содержит коробку пополнения для торгового автомата МегаРаздатчик Семян.
+ent-CrateVendingMachineRestockSeedsFilled = ящик пополнения «МегаСемена»
+    .desc = Содержит коробку пополнения для торгового автомата «МегаСемена».
 
-ent-CrateVendingMachineRestockRoboticsFilled = ящик пополнения Роботех Делюкс
-    .desc = Содержит коробку пополнения для торгового автомата Роботех Делюкс.
+ent-CrateVendingMachineRestockRoboticsFilled = ящик пополнения «РобоТех Делюкс»
+    .desc = Содержит коробку пополнения для торгового автомата «РобоТех Делюкс».

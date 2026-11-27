@@ -1,2 +1,2 @@
-ent-OilSlimeExtract = маслянный экстракт слайма
+ent-OilSlimeExtract = экстракт нефтяного слайма
     .desc = { ent-BaseSlimeExtract.desc }

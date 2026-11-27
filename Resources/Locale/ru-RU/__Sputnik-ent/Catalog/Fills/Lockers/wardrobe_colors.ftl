@@ -1,48 +1,63 @@
 ent-WardrobeGreyFilled = { ent-WardrobeGrey }
-    .suffix = Заполненный
     .desc = { ent-WardrobeGrey.desc }
+    .suffix = Заполнено
+
 ent-ClosetWallWardrobeGreyFilled = { ent-ClosetWallGrey }
-    .suffix = Заполненный
     .desc = { ent-ClosetWallGrey.desc }
+    .suffix = Заполнено
+
 ent-WardrobeMixedFilled = { ent-WardrobeMixed }
-    .suffix = Заполненный
     .desc = { ent-WardrobeMixed.desc }
+    .suffix = Заполнено
+
 ent-ClosetWallWardrobeMixedFilled = { ent-ClosetWallMixed }
-    .suffix = Заполненный
     .desc = { ent-ClosetWallMixed.desc }
+    .suffix = Заполнено
+
 ent-WardrobeYellowFilled = { ent-WardrobeYellow }
-    .suffix = Заполненный
     .desc = { ent-WardrobeYellow.desc }
+    .suffix = Заполнено
+
 ent-ClosetWallWardrobeYellowFilled = { ent-ClosetWallYellow }
-    .suffix = Заполненный
     .desc = { ent-ClosetWallYellow.desc }
+    .suffix = Заполнено
+
 ent-WardrobeWhiteFilled = { ent-WardrobeWhite }
-    .suffix = Заполненный
     .desc = { ent-WardrobeWhite.desc }
+    .suffix = Заполнено
+
 ent-ClosetWallWardrobeWhiteFilled = { ent-ClosetWallWhite }
-    .suffix = Заполненный
     .desc = { ent-ClosetWallWhite.desc }
+    .suffix = Заполнено
+
 ent-WardrobeBlueFilled = { ent-WardrobeBlue }
-    .suffix = Заполненный
     .desc = { ent-WardrobeBlue.desc }
+    .suffix = Заполнено
+
 ent-ClosetWallWardrobeBlueFilled = { ent-ClosetWallBlue }
-    .suffix = Заполненный
     .desc = { ent-ClosetWallBlue.desc }
+    .suffix = Заполнено
+
 ent-WardrobePinkFilled = { ent-WardrobePink }
-    .suffix = Заполненный
     .desc = { ent-WardrobePink.desc }
+    .suffix = Заполнено
+
 ent-ClosetWallWardrobePinkFilled = { ent-ClosetWallPink }
-    .suffix = Заполненный
     .desc = { ent-ClosetWallPink.desc }
+    .suffix = Заполнено
+
 ent-WardrobeBlackFilled = { ent-WardrobeBlack }
-    .suffix = Заполненный
     .desc = { ent-WardrobeBlack.desc }
+    .suffix = Заполнено
+
 ent-ClosetWallWardrobeBlackFilled = { ent-ClosetWallBlack }
-    .suffix = Заполненный
     .desc = { ent-ClosetWallBlack.desc }
+    .suffix = Заполнено
+
 ent-WardrobeGreenFilled = { ent-WardrobeGreen }
-    .suffix = Заполненный
     .desc = { ent-WardrobeGreen.desc }
+    .suffix = Заполнено
+
 ent-ClosetWallWardrobeGreenFilled = { ent-ClosetWallGreen }
-    .suffix = Заполненный
     .desc = { ent-ClosetWallGreen.desc }
+    .suffix = Заполнено

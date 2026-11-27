@@ -1,38 +1,38 @@
-ent-BaseWeaponLauncher = BaseWeaponLauncher
-    .desc = Направил, нажал, выстрелил.
+ent-BaseWeaponLauncher = ГранатомётБазовый
+    .desc = Наводи да пали!
 
 ent-WeaponLauncherChinaLake = China Lake
-    .desc = ПЛООП.
+    .desc = ПЛЮХ.
 
-ent-WeaponLauncherHydra = "гидра"
-    .desc = ПЛООП... ФССССС...
+ent-WeaponLauncherHydra = hydra
+    .desc = ПЛЮХ... ФШШШШШ...
 
 ent-WeaponLauncherHydraLethal = { ent-WeaponLauncherHydra }
     .desc = { ent-WeaponLauncherHydra.desc }
-    .suffix = Фраг
+    .suffix = осколочный
 
-ent-WeaponLauncherRocket = РПГ-7
-    .desc = Модифицированный старинный ручной противотанковый гранатомет.
+ent-WeaponLauncherRocket = RPG-7
+    .desc = Модифицированный старинный реактивный гранатомёт.
 
 ent-WeaponGuidedMissileLauncherXenoborg = XB GML-78
     .desc = Пусковая установка управляемых ракет.
 
-ent-WeaponLauncherMultipleRocket = многозарядный ракетный гранатомет
-    .desc = Модифицированный старинный ручной противотанковый гранатомет.
+ent-WeaponLauncherMultipleRocket = многоствольный гранатомёт
+    .desc = Модифицированный старинный реактивный гранатомёт.
 
 ent-WeaponRocketLauncherXenoborg = XB MRL-97-D
-    .desc = Инопланетная ракетная установка со специальными ракетами для сноса построек.
+    .desc = Инопланетная пусковая установка со специальными ракетами для сноса укреплений.
 
 ent-WeaponLauncherPirateCannon = пиратская пушка
     .desc = Бабах!
 
-ent-WeaponGrapplingGun = крюк-кошка
+ent-WeaponGrapplingGun = пушка с крюком
     .desc = { ent-BaseItem.desc }
 
-ent-WeaponLauncherAdmemeMeteorLarge = метеоритная пушка
-    .desc = Стреляет большими метеоритами.
+ent-WeaponLauncherAdmemeMeteorLarge = метеоромёт
+    .desc = Стреляет крупными метеорами.
     .suffix = Адмеме
 
-ent-WeaponLauncherAdmemeImmovableRodSlow = пусковая установка неподвижного стержня
+ent-WeaponLauncherAdmemeImmovableRodSlow = пусковая установка неподвижных стержней
     .desc = Стреляет медленными неподвижными стержнями.
     .suffix = Адмеме

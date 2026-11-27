@@ -1,13 +1,21 @@
-ent-ClothingModsuitResponsorySecurity = контроллер скафандра офицера ОБР
-    .desc = Основной контроллер скафандра офицера ОБР.
-ent-ClothingModsuitGauntletsResponsorySecurity = перчатки скафандра офицера ОБР
-    .desc = Пара перчаток, изготовленных для скафандра офицера ОБР.
-ent-ClothingModsuitHelmetResponsorySecurity = шлем скафандра офицера ОБР
-    .desc = Передовой шлем, разработанный Nanotrasen для скафандра офицера ОБР. Имеет встроенный ИЛС.
-ent-ClothingModsuitChestplateResponsorySecurity = нагрудная пластина скафандра офицера ОБР
-    .desc = Передовой нагрудник, разработанный Nanotrasen для скафандра офицера ОБР. Оснащён сервоприводами для снижения нагрузки.
-ent-ClothingModsuitBootsResponsorySecurity = ботинки скафандра офицера ОБР
-    .desc = Передовая пара магнитных ботинок для скафандра офицера ОБР.
+ent-BaseModsuitPieceERTSecurity = { "" }
+    .desc = { "" }
+
+ent-ClothingModsuitResponsorySecurity = блок управления модсьюта «Боец ОБР»
+    .desc = Основной блок управления модсьютом «Боец ОБР».
+
+ent-ClothingModsuitGauntletsResponsorySecurity = перчатки модсьюта «Боец ОБР»
+    .desc = Пара перчаток для модсьюта «Боец ОБР».
+
+ent-ClothingModsuitHelmetResponsorySecurity = шлем модсьюта «Боец ОБР»
+    .desc = Передовой шлем, разработанный NanoTrasen для модсьюта «Боец ОБР». Оснащён встроенным визором.
+
+ent-ClothingModsuitChestplateResponsorySecurity = нагрудник модсьюта «Боец ОБР»
+    .desc = Передовой нагрудник, разработанный NanoTrasen для модсьюта «Боец ОБР». Встроенные сервоприводы снижают нагрузку от снаряжения.
+
+ent-ClothingModsuitBootsResponsorySecurity = ботинки модсьюта «Боец ОБР»
+    .desc = Передовые магнитные ботинки для модсьюта «Боец ОБР».
+
 ent-SuitStorageResponsorySecurity = { ent-SuitStorageBase }
-    .suffix = модульный скафандр офицера ОБР
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Модсьют «Боец ОБР»

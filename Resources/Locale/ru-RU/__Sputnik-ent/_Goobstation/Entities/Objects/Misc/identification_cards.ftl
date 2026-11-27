@@ -1,34 +1,34 @@
-ent-ChronoIDCard = ID-карта будущего
-    .desc = Карта, при помощи которой изначально можно было получить доступ ко всему во вселенной.
+ent-ChronoIDCard = футуристичная ID-карта
+    .desc = Изначально у этой карты был доступ ко всему в этой вселенной
 
-ent-HelldiverIDCard = ID-карта спасателя
+ent-HelldiverIDCard = ID-карта дайвера-утилизатора
     .desc = { ent-SalvageIDCard.desc }
 
 ent-HecuIDCard = ID-карта HECU
     .desc = { ent-IDCardStandard.desc }
 
-ent-NanotrasenRepresentativeIDCard = ID-карта инспектора Nanotrasen
+ent-NanotrasenRepresentativeIDCard = ID-карта представителя NanoTrasen
     .desc = { ent-IDCardStandard.desc }
 
-ent-ExecutiveIDCard = карта доступа руководителя
-    .desc = Сотрудники Nanotrasen, по закону, обязаны прослушивать сообщения пользователей при помощи одного из этих устройств. Кроме того, программа способна переопределять блокировки доступа на большинстве устройств.
+ent-ExecutiveIDCard = карта доступа руководства
+    .desc = Сотрудники NanoTrasen по закону обязаны слушаться владельца этой карты. Она также может обходить блокировку доступа на большинстве устройств.
 
-ent-ExecutiveIDCardChameleon = карта доступа руководителя
-    .desc = Те же функции, что и в оригинальной версии, но внешний вид может быть изменен.
+ent-ExecutiveIDCardChameleon = карта доступа руководства
+    .desc = Те же функции, что у оригинала, но можно менять внешний вид.
 
 ent-GmanIDCard = странная ID-карта
-    .desc = Карта, с помощью которой изначально можно было получить доступ ко всему в этой вселенной.
+    .desc = Изначально у этой карты был доступ ко всему в этой вселенной
 
-ent-HighCommandIDCard = ID-карта высшего командования
-    .desc = Особенно роскошная карта Синдиката. Встроенный взломщик доступа позволяет открыть почти любую дверь.
+ent-HighCommandIDCard = ID-карта верховного командования
+    .desc = Особенно вычурная ID-карта Синдиката. Встроенный взломщик доступа открывает почти любую дверь.
 
-ent-SecurityClownIDCard = ID-карта СБ клоуна
+ent-SecurityClownIDCard = ID-карта клоуна службы безопасности
     .desc = { ent-IDCardStandard.desc }
 
-ent-CommandMaidIDCard = ID-карта горничной командования
+ent-CommandMaidIDCard = ID-карта командной горничной
     .desc = { ent-IDCardStandard.desc }
 
-ent-PartyMakerIDCard = ID-карта патимейкера
+ent-PartyMakerIDCard = ID-карта организатора вечеринок
     .desc = { ent-IDCardStandard.desc }
 
 ent-RoboticistIDCard = ID-карта робототехника

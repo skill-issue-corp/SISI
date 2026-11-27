@@ -9,21 +9,21 @@ artifact-verb-make-always-active = Сделать артефакт постоя�
 artifact-verb-activate = Активировать артефакт
 
 ### Unlocking
-artifact-unlock-state-begin = Он начинает меняться странным образом...
+artifact-unlock-state-begin = Артефакт начинает странно меняться...
 artifact-unlock-state-continue = Изменения продолжаются и усиливаются...
-artifact-unlock-state-end-success = Он замедляется, визуально меняясь.
-artifact-unlock-state-end-failure = Он замедляется, а затем плавно останавливается.
+artifact-unlock-state-end-success = Изменения замедляются. Артефакт заметно преобразился.
+artifact-unlock-state-end-failure = Изменения замедляются и сходят на нет.
 
 ### Activation
 artifact-activation-fail = Ничего не происходит...
 artifact-activation-artifexium = Жидкость просачивается в поры артефакта...
 
 ### Misc.
-artifact-examine-trigger-desc = [color=gray][italic]Я у тебя в уме?[/italic][/color]
+artifact-examine-trigger-desc = [color=gray][italic]Вы думаете обо мне?[/italic][/color]
 
-artifact-node-class-1 = [color=#ff2bb1]Материальный[/color]
-artifact-node-class-2 = [color=#ff8b2b]Психический[/color]
-artifact-node-class-3 = [color=#a9ff38]Пневматический[/color]
-artifact-node-class-4 = [color=#2bfff8]Архон[/color]
-artifact-node-class-5 = [color=#7883ff]Луминарный[/color]
+artifact-node-class-1 = [color=#ff2bb1]Гилик[/color]
+artifact-node-class-2 = [color=#ff8b2b]Психик[/color]
+artifact-node-class-3 = [color=#a9ff38]Пневматик[/color]
+artifact-node-class-4 = [color=#2bfff8]Архонт[/color]
+artifact-node-class-5 = [color=#7883ff]Светило[/color]
 artifact-node-class-6 = [color=#be78ff]Демиург[/color]

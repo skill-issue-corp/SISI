@@ -3,9 +3,9 @@
 #
 # SPDX-License-Identifier: MIT
 
-access-reader-unknown-id = Неизвестный
+access-reader-unknown-id = Неизвестно
 access-reader-access-label = [color=yellow]{$access}[/color]
-access-reader-examination = Доступ обычно ограничен персоналом с допуском {$access}.
-access-reader-examination-functionality-restricted = Для использования некоторых функций может потребоваться допуск {$access}.
-access-reader-access-settings-modified-message = [italic]Считыватель доступа был изменён, теперь он принимает персонал с допуском {$access}.[/italic]
-access-reader-access-settings-removed-message = [italic]Настройки считывателя доступа были удалены.[/italic]
+access-reader-examination = Обычно доступ разрешён только персоналу с допуском «{$access}».
+access-reader-examination-functionality-restricted = Для некоторых функций может требоваться допуск «{$access}».
+access-reader-access-settings-modified-message = [italic]Считыватель настроен на персонал с допуском «{$access}».[/italic]
+access-reader-access-settings-removed-message = [italic]Настройки считывателя доступа удалены.[/italic]

@@ -1,11 +1,14 @@
-ent-BaseMagazineGaussgun = магазин гаусс-оружия
-    .desc = Магазин на 15 патронов для гаусс-оружия, может содержать различные типы боеприпасов.
-    .suffix = Полный
+ent-BaseMagazineGaussgun = магазин для гаусс-оружия
+    .desc = Магазин на 15 патронов для гаусс-пушек. Вмещает боеприпасы разных типов.
+    .suffix = Полностью заполнено
+
 ent-MagazineGaussgun = { ent-BaseMagazineGaussgun }
     .desc = { ent-BaseMagazineGaussgun.desc }
-    .suffix = Пустой
-ent-MagazineGaussgunImprov = самодельный магазин гаусс-оружия
-    .desc = Некачественный магазин для гаусс-оружия, сойдёт в крайнем случае.
-    .suffix = Пустой
-ent-CraftingGaussMagazineImprov = недоделанный самодельный магазин
+    .suffix = Пусто
+
+ent-MagazineGaussgunImprov = самодельный магазин для гаусс-оружия
+    .desc = Некачественный магазин для гаусс-оружия, на крайний случай сойдёт.
+    .suffix = Пусто
+
+ent-CraftingGaussMagazineImprov = незаконченный самодельный магазин
     .desc = Незаконченный магазин для гаусс-оружия.

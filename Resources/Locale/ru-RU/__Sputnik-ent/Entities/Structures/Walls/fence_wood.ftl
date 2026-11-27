@@ -1,11 +1,11 @@
 ent-BaseFenceWood = деревянный забор
-    .desc = Часть деревянного забора. Надеюсь, за ним находится бабушкин сад.
+    .desc = Деревянное ограждение. Надеюсь, за ним бабушкин огород.
 
 ent-BaseFenceWoodHigh = { ent-BaseFenceWood }
     .desc = { ent-BaseFenceWood.desc }
 
-ent-BaseFenceWoodSmall = небольшой деревянный забор
-    .desc = Часть небольшого деревянного забора. Лучшее средство для ограждения частной территории!
+ent-BaseFenceWoodSmall = маленький деревянный забор
+    .desc = Секция маленького деревянного забора. Лучшая защита для частной территории!
 
 ent-FenceWoodHighStraight = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
@@ -21,26 +21,26 @@ ent-FenceWoodHighCorner = { ent-BaseFenceWoodHigh }
 
 ent-FenceWoodHighTJunction = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
-    .suffix = Т-образный
+    .suffix = Т-Образный Стык
 
-ent-FenceWoodHighGate = ворота деревянного забора
-    .desc = Имеешь ли ты представление, что ждёт тебя за этими воротами? Это может быть как туалет, так и роскошный особняк. А ты продолжай любить своих эмобоев.
+ent-FenceWoodHighGate = деревянная калитка
+    .desc = Вы хоть представляете, что ждёт вас за этой калиткой? Там может быть как туалет, так и роскошный особняк. Но вы всё равно продолжаете любить своих эмо-мальчиков.
 
 ent-FenceWoodSmallStraight = { ent-BaseFenceWoodSmall }
-    .suffix = Прямой
     .desc = { ent-BaseFenceWoodSmall.desc }
+    .suffix = Прямой
 
 ent-FenceWoodSmallEnd = { ent-BaseFenceWoodSmall }
-    .suffix = Конец
     .desc = { ent-BaseFenceWoodSmall.desc }
+    .suffix = Конец
 
 ent-FenceWoodSmallCorner = { ent-BaseFenceWoodSmall }
-    .suffix = Угол
     .desc = { ent-BaseFenceWoodSmall.desc }
+    .suffix = Угол
 
 ent-FenceWoodSmallTJunction = { ent-BaseFenceWoodSmall }
-    .suffix = Т-образный
     .desc = { ent-BaseFenceWoodSmall.desc }
+    .suffix = Т-Образный Стык
 
-ent-FenceWoodSmallGate = ворота деревянного забора
-    .desc = Глядя на эти ворота, в голове всплывает знакомый образ. Где мой поросёнок?
+ent-FenceWoodSmallGate = деревянная калитка
+    .desc = При виде этой калитки перед глазами всплывает знакомая картина. Где мой поросёнок?

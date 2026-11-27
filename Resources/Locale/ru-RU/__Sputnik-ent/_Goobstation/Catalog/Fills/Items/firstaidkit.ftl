@@ -1,15 +1,11 @@
-ent-MedkitCombatStasiziumFilled = футуристический медкит
-    .desc = Медкит, наполненный лекарствами будущего
+ent-MedkitCombatStasiziumFilled = футуристическая аптечка
+    .desc = Аптечка с лекарствами будущего
     .suffix = Стазизиум
-ent-MedkitBSOFilled = { ent-MedkitBSO }
-    .suffix = Заполненный
-    .desc = { ent-MedkitBSO.desc }
-ent-MedkitBSOIPCFilled = { ent-MedkitBSOIPC }
-    .suffix = Заполненный
-    .desc = { ent-MedkitBSOIPC.desc }
+
 ent-MedkitCombatBlueFilled = { ent-MedkitCombatBlue }
-    .suffix = Заполненный, Таблетки
     .desc = { ent-MedkitCombatBlue.desc }
+    .suffix = Заполнено, Таблетки
+
 ent-MedkitCombatPurpleFilled = { ent-MedkitCombatPurple }
-    .suffix = Заполненный, КПБ
     .desc = { ent-MedkitCombatPurple.desc }
+    .suffix = Заполнено, КПБ

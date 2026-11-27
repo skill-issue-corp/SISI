@@ -7,13 +7,13 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 entity-category-name-actions = Действия
-entity-category-name-game-rules = Игровые режимы
+entity-category-name-game-rules = Правила Игры
 entity-category-name-objectives = Цели
-entity-category-name-roles = Роли сознания
+entity-category-name-roles = Роли Разума
 entity-category-name-mapping = Маппинг
-entity-category-name-donotmap = НЕ МАППИТЬ
-entity-category-name-status-effects = Эффекты
-entity-category-name-xeno-artifact-effects = Эффекты ксено-артефактов
-entity-category-name-xeno-artifact-triggers = Триггеры ксеноартефакта
+entity-category-name-donotmap = Не маппить
+entity-category-name-status-effects = Эффекты Состояния
+entity-category-name-xeno-artifact-effects = Эффекты Ксеноартефактов
+entity-category-name-xeno-artifact-triggers = Триггеры ксеноартефактов
 
 entity-category-suffix-donotmap = НЕ МАППИТЬ

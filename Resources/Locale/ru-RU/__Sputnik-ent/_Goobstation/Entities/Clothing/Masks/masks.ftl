@@ -1,26 +1,26 @@
-ent-ClothingMaskGasChrono = футуристическая противогазовая маска
-    .desc = Футуристическая противогазовая маска неизвестного дизайна с невероятным количеством фильтровальных систем.
+ent-ClothingMaskGasChrono = футуристичный противогаз
+    .desc = Футуристичный противогаз неизвестной конструкции с немыслимым количеством систем фильтрации
 
 ent-ClothingMaskGasChronoUnremoveable = { ent-ClothingMaskGasChrono }
-    .suffix = Неснимаемый
     .desc = { ent-ClothingMaskGasChrono.desc }
+    .suffix = Несъёмный
 
-ent-ClothingMaskClownUnremoveable = неснимаемая маска и парик бананового клоуна
+ent-ClothingMaskClownUnremoveable = неснимаемые парик и маска бананового клоуна
     .desc = { ent-ClothingMaskClown.desc }
 
-ent-ClothingMaskGasVoiceCraftable = Маска-модулятор голоса
-    .desc = Плохо собранный голосовой модулятор из противогаза и голосового триггера.
-    .suffix = Маска голоса, создаваемая
+ent-ClothingMaskGasVoiceCraftable = Маска с Модулятором Голоса
+    .desc = Кое-как собранный голосовой модулятор из противогаза и голосового триггера.
+    .suffix = Голосовая Маска, Изготавливаемая
 
-ent-ClothingMaskGasHalf = респиратор
-    .desc = Противогаз... Но только его половина.
+ent-ClothingMaskGasHalf = противогаз-полумаска
+    .desc = Противогаз... только половинка.
 
-ent-ClothingMaskMuzzleSecure = намордник Службы Безопасности
-    .desc = Может предотвратить укусы вампиров или помешать назойливым людям говорить.
+ent-ClothingMaskMuzzleSecure = запираемый намордник
+    .desc = Не даёт вампирам кусать людей, а назойливым людям – говорить.
 
 ent-ClothingMaskMuzzleShock = шоковый намордник
-    .desc = Намордник, предназначенный для предотвращения укусов. Оснащён системой коррекции поведения.
+    .desc = Намордник, который не даёт кусаться. Этот оснащён системой коррекции поведения.
 
 ent-ClothingMaskGasUnremoveable = { ent-ClothingMaskGas }
-    .suffix = Неснимаемый
     .desc = { ent-ClothingMaskGas.desc }
+    .suffix = Несъёмный

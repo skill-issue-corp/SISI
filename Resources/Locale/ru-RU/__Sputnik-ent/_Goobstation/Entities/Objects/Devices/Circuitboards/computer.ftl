@@ -1,4 +1,5 @@
-ent-XenobiologyBountyComputerCircuitboard = консоль ксенобиологических заказов (консольная плата)
-    .desc = Консольная плата для консоли ксенобиологических заказов.
-ent-VirologyComputerCircuitboard = консоль вирусологии (консольная плата)
-    .desc = Консольная плата для консоли вирусологии.
+ent-XenobiologyBountyComputerCircuitboard = плата консоли заказов ксенобиологии
+    .desc = Компьютерная печатная плата консоли заказов ксенобиологии.
+
+ent-VirologyComputerCircuitboard = плата компьютера вирусологии
+    .desc = Компьютерная печатная плата консоли вирусологии.

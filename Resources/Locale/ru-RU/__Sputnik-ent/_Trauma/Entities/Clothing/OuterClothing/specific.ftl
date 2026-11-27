@@ -1,6 +1,6 @@
 ent-ClothingOuterChameleonArmor = жилет
-    .desc = Толстый жилет с резиноподобной водостойкой оболочкой.
-    .suffix = Хамелеон, броня
+    .desc = Плотный жилет с прорезиненным водостойким покрытием.
+    .suffix = Хамелеон, Броня
 
 ent-ClothingOuterHardsuitEVAChameleon = { ent-ClothingOuterHardsuitEVA }
     .desc = { ent-ClothingOuterHardsuitEVA.desc }

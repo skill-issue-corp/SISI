@@ -1,13 +1,21 @@
-ent-ClothingModsuitResponsoryMedical = контроллер скафандра медицинского ОБР
-    .desc = Основной контроллер скафандра медицинского ОБР.
-ent-ClothingModsuitGauntletsResponsoryMedical = перчатки скафандра медицинского ОБР
-    .desc = Пара перчаток, изготовленных для скафандра медицинского ОБР.
-ent-ClothingModsuitHelmetResponsoryMedical = шлем скафандра медицинского ОБР
-    .desc = Передовой шлем, разработанный Nanotrasen для скафандра медицинского ОБР. Имеет встроенный ИЛС.
-ent-ClothingModsuitChestplateResponsoryMedical = нагрудная пластина скафандра медицинского ОБР
-    .desc = Передовой нагрудник, разработанный Nanotrasen для скафандра медицинского ОБР. Оснащён сервоприводами для снижения нагрузки.
-ent-ClothingModsuitBootsResponsoryMedical = ботинки скафандра медицинского ОБР
-    .desc = Передовая пара магнитных ботинок для скафандра медицинского ОБР.
+ent-BaseModsuitPieceERTMedical = { "" }
+    .desc = { "" }
+
+ent-ClothingModsuitResponsoryMedical = блок управления модсьюта «Медик ОБР»
+    .desc = Основной блок управления модсьютом «Медик ОБР».
+
+ent-ClothingModsuitGauntletsResponsoryMedical = перчатки модсьюта «Медик ОБР»
+    .desc = Пара перчаток для скафандра «Медик ОБР».
+
+ent-ClothingModsuitHelmetResponsoryMedical = шлем модсьюта «Медик ОБР»
+    .desc = Передовой шлем, разработанный NanoTrasen для модсьюта «Медик ОБР». Оснащён встроенным визором.
+
+ent-ClothingModsuitChestplateResponsoryMedical = нагрудник модсьюта «Медик ОБР»
+    .desc = Передовой нагрудник, разработанный NanoTrasen для модсьюта «Медик ОБР». Встроенные сервоприводы снижают нагрузку от снаряжения.
+
+ent-ClothingModsuitBootsResponsoryMedical = ботинки модсьюта «Медик ОБР»
+    .desc = Передовые магнитные ботинки для модсьюта «Медик ОБР».
+
 ent-SuitStorageResponsoryMedical = { ent-SuitStorageBase }
-    .suffix = модульный скафандр медицинского ОБР
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Модсьют «Медик ОБР»

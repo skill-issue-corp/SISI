@@ -7,17 +7,17 @@ ent-StatusEffectStutter = заикание
 ent-StatusEffectSlurred = невнятная речь
     .desc = { ent-SpeechStatusEffectBase.desc }
 
-ent-StatusEffectScrambled = искажённая речь
+ent-StatusEffectScrambled = перемешанная речь
     .desc = { ent-SpeechStatusEffectBase.desc }
 
-ent-StatusEffectOwO = увушный акцент
+ent-StatusEffectOwO = овоакцент
     .desc = { ent-SpeechStatusEffectBase.desc }
 
-ent-StatusEffectAllCaps = акцент капсом
+ent-StatusEffectAllCaps = капсакцент
     .desc = { ent-SpeechStatusEffectBase.desc }
 
-ent-StatusEffectRatvarianLanguage = ратварианская речь
+ent-StatusEffectRatvarianLanguage = ратварианские речевые обороты
     .desc = { ent-SpeechStatusEffectBase.desc }
 
-ent-StatusEffectBark = акцент лая
+ent-StatusEffectBark = лающий акцент
     .desc = { ent-SpeechStatusEffectBase.desc }

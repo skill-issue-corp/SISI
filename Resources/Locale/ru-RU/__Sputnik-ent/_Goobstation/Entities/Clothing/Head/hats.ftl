@@ -1,32 +1,32 @@
-ent-ClothingHeadMailCarrier = шапка почтальона
-    .desc = Пахнет хорошей пенсией.
+ent-ClothingHeadMailCarrier = кепка почтальона
+    .desc = Пахнет достойной пенсией.
 
-ent-ClothingHeadHatPropeller = шапка с пропеллером
-    .desc = Ох, ну надо же!
+ent-ClothingHeadHatPropeller = шапочка с пропеллером
+    .desc = Ой, ёлки-палки!
 
-ent-ClothingHeadHatPropellerFlipped = шапка с пропеллером
+ent-ClothingHeadHatPropellerFlipped = { ent-ClothingHeadHatPropeller }
     .desc = { ent-ClothingHeadHatPropeller.desc }
 
 ent-ClothingHeadHatImam = головной убор имама
     .desc = Хвала Аллаху.
 
 ent-ClothingHeadHatBeretHeadOfSecurityAdvanced = парадный берет главы службы безопасности
-    .desc = Особенно украшенный берет, предназначенный для начальника службы безопасности.
+    .desc = Особенно пышный позолоченный берет для Главы Службы Безопасности.
 
 ent-ClothingHeadHatBeretSeniorBotanist = ботанический берет
-    .desc = Зелёный берет с маленьким синим цветком для опытных ботаников.
+    .desc = Зелёный берет с маленьким синим цветком, который выдают опытным ботаникам.
 
-ent-ClothingHeadSanabi = фуражка генерала бригадира
+ent-ClothingHeadSanabi = фуражка бригадного генерала
     .desc = Пахнет сталью.
 
 ent-ClothingHeadHatJanitorCap = кепка уборщика
-    .desc = Вычурная фиолетовая кепка только для ЛУЧШИХ уборщиков.
+    .desc = Экстравагантная лиловая кепка только для ЛУЧШИХ сотрудников службы уборки.
 
 ent-ClothingHeadHatTinfoilHat = шапочка из фольги
-    .desc = Высокотехнологичный шлем, состоящий из алюминиевой фольги.
+    .desc = Высокотехнологичный шлем из алюминиевой фольги.
 
-ent-ClothingHeadHatGoldCentcom = золотая фуражка ЦентКома
-    .desc = Позолоченная бело-золотая фуражка, которую носят высокопоставленные члены Центрального Командования.
+ent-ClothingHeadHatGoldCentcom = золотая фуражка ЦК
+    .desc = Золочёная белая фуражка, которую носят высшие чины Центрального Командования.
 
-ent-ClothingHeadHatCowboyCentcom = ковбойская шляпа ЦентКома
-    .desc = Чёрно-зелёная ковбойская шляпа с золотой лентой, которую носят офицеры Центрального Командования из «южан».
+ent-ClothingHeadHatCowboyCentcom = ковбойская шляпа цк
+    .desc = Чёрно-зелёная ковбойская шляпа с золотой лентой для офицеров-«южан» Центрального Командования.

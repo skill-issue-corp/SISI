@@ -1,18 +1,29 @@
-ent-NotekeeperCartridge = картридж Заметки
-    .desc = Программа для хранения заметок.
-ent-NanoTaskCartridge = картридж NanoTask
-    .desc = Программа для управления списками дел и отслеживания их выполнения.
-ent-NewsReaderCartridge = картридж NanoNews
+ent-BasePDACartridge = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+
+ent-NotekeeperCartridge = картридж блокнота
+    .desc = Программа для ведения заметок.
+
+ent-NanoTaskCartridge = картридж НаноТаска
+    .desc = Программа для ведения списка задач.
+
+ent-NewsReaderCartridge = картридж новостей
     .desc = Программа для чтения новостей.
-ent-CrewManifestCartridge = картридж Манифест
-    .desc = Программа для отображения списка членов экипажа.
-ent-NetProbeCartridge = картридж NetProbe
-    .desc = Программа для получения адресов и частот сетевых устройств.
-ent-LogProbeCartridge = картридж LogProbe
-    .desc = Программа для получения логов открытия шлюзов с устройств.
-ent-WantedListCartridge = картридж WatchDog
-    .desc = Программа, позволяющая получить список находящихся в розыске лиц.
-ent-MedTekCartridge = картридж MedTek
-    .desc = Программа, предоставляющая инструменты для медицинской диагностики.
-ent-AstroNavCartridge = картридж AstroNav
-    .desc = Навигационная программа, предоставляющая GPS-координаты.
+
+ent-CrewManifestCartridge = картридж списка экипажа
+    .desc = Программа для просмотра списка членов экипажа.
+
+ent-NetProbeCartridge = картридж СетевогоЗонда
+    .desc = Программа для определения адреса и частоты сетевых устройств.
+
+ent-LogProbeCartridge = картридж ЖурналаДоступа
+    .desc = Программа для получения журналов доступа с устройств.
+
+ent-WantedListCartridge = картридж списка Разыскиваемых
+    .desc = Программа для просмотра списка разыскиваемых лиц.
+
+ent-MedTekCartridge = картридж МедТека
+    .desc = Программа с инструментами для медицинской диагностики.
+
+ent-AstroNavCartridge = картридж АстроНава
+    .desc = Навигационная программа, показывающая координаты GPS.

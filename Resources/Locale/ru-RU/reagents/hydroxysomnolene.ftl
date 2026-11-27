@@ -1,3 +1,3 @@
 hydroxysomnolene-effect-flavor = Вам хочется шипучего розового вкуса.
-hydroxysomnolene-effect-another-hit = Не помешала бы ещё одна доза.
-hydroxysomnolene-effect-sluggish = Вы чувствуете себя вялым и усталым.
+hydroxysomnolene-effect-another-hit = Вам бы не помешала ещё одна доза.
+hydroxysomnolene-effect-sluggish = Вы чувствуете вялость и усталость.

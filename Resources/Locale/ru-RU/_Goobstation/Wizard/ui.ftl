@@ -4,11 +4,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-wizard-teleport-target-window-title = Телепортироваться к...
+wizard-teleport-target-window-title = Телепортация в...
+
 store-refund-window-title = Возврат
-store-refund-window-refund-all = Вернуть все товары
-store-refund-window-refund-disabled = Возвраты отключены.
-store-refund-window-nothing-to-refund = Нет товаров для возврата.
+store-refund-window-refund-all = Вернуть Все Покупки
+store-refund-window-refund-disabled = Возврат отключён.
+store-refund-window-nothing-to-refund = Возвращать нечего.
+
 store-caregory-spellbook-summons = Призывы
 store-caregory-spellbook-special = Особое
 store-caregory-spellbook-bundles = Наборы

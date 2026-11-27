@@ -31,7 +31,7 @@ ent-MobSlimeXenobioBabySilver = серебряный слайм
 ent-MobSlimeXenobioBabyBluespace = блюспейс-слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
 
-ent-MobSlimeXenobioBabySepia = сепиевый слайм
+ent-MobSlimeXenobioBabySepia = слайм цвета сепии
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
 
 ent-MobSlimeXenobioBabyCerulean = лазурный слайм
@@ -52,7 +52,7 @@ ent-MobSlimeXenobioBabyPink = розовый слайм
 ent-MobSlimeXenobioBabyGold = золотой слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
 
-ent-MobSlimeXenobioBabyOil = маслянистый слайм
+ent-MobSlimeXenobioBabyOil = нефтяной слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
 
 ent-MobSlimeXenobioBabyLightPink = светло-розовый слайм
@@ -61,5 +61,5 @@ ent-MobSlimeXenobioBabyLightPink = светло-розовый слайм
 ent-MobSlimeXenobioBabyBlack = чёрный слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }
 
-ent-MobSlimeXenobioBabyAdamantine = адамантиновый слайм
+ent-MobSlimeXenobioBabyAdamantine = адамантитовый слайм
     .desc = { ent-MobSlimeXenobioBabyPending.desc }

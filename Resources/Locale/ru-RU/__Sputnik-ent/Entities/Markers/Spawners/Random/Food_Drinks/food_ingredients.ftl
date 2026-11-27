@@ -1,3 +1,3 @@
-ent-RandomIngredient = спавнер случайный ингредиент
-    .suffix = не растение
+ent-RandomIngredient = спавнер случайного ингредиента
     .desc = { ent-MarkerBase.desc }
+    .suffix = Нерастительный

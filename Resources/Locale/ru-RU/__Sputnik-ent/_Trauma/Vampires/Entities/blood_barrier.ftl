@@ -1,5 +1,5 @@
 ent-BloodBarrierPoint = { "" }
     .desc = { "" }
 
-ent-BloodBarrier = Кровавый барьер
-    .desc = Барьер, созданный из чистой крови.
+ent-BloodBarrier = Кровавый Барьер
+    .desc = Барьер из чистой крови.

@@ -1,16 +1,16 @@
-ent-PelletShotgunSlug = дробина (.50 пуля)
+ent-PelletShotgunSlug = пуля (.50)
     .desc = { ent-BaseBulletKinetic.desc }
 
-ent-PelletShotgunBeanbag = дробина (.50)
+ent-PelletShotgunBeanbag = травматический снаряд (.50)
     .desc = { ent-BaseBullet.desc }
 
-ent-PelletShotgun = дробина (.50)
+ent-PelletShotgun = картечина (.50)
     .desc = { ent-BaseBulletKinetic.desc }
 
 ent-PelletShotgunSpread = { ent-PelletShotgun }
     .desc = { ent-PelletShotgun.desc }
 
-ent-PelletShotgunIncendiary = дробина (.50 зажигательная)
+ent-PelletShotgunIncendiary = картечина (.50 зажигательная)
     .desc = { ent-BaseBulletIncendiary.desc }
 
 ent-PelletShotgunIncendiarySpread = { ent-PelletShotgunIncendiary }
@@ -22,31 +22,31 @@ ent-PelletShotgunPractice = дробина (.50 учебная)
 ent-PelletShotgunPracticeSpread = { ent-PelletShotgunPractice }
     .desc = { ent-PelletShotgunPractice.desc }
 
-ent-PelletShotgunImprovised = самодельная дробинка
+ent-PelletShotgunImprovised = самодельная дробина
     .desc = { ent-BaseBulletKinetic.desc }
 
 ent-PelletShotgunImprovisedSpread = { ent-PelletShotgunImprovised }
     .desc = { ent-PelletShotgunImprovised.desc }
 
-ent-PelletShotgunTranquilizer = дробина (.50 транквилизатор)
+ent-PelletShotgunTranquilizer = дротик (.50 транквилизатор)
     .desc = { ent-SolutionAmmo.desc }
 
-ent-PelletShotgunFlare = дробина (.50 фальшфейер)
+ent-PelletShotgunFlare = сигнальный снаряд (.50)
     .desc = { "" }
 
-ent-PelletShotgunUranium = дробина (.50 урановая)
+ent-PelletShotgunUranium = картечина (.50 урановая)
     .desc = { ent-BaseBulletUranium.desc }
 
 ent-PelletShotgunUraniumSpread = { ent-PelletShotgunUranium }
     .desc = { ent-PelletShotgunUranium.desc }
 
-ent-PelletGrapeshot = картечина
+ent-PelletGrapeshot = пушечная картечина
     .desc = { ent-BaseBullet.desc }
 
 ent-PelletGrapeshotSpread = { ent-PelletGrapeshot }
     .desc = { ent-PelletGrapeshot.desc }
 
-ent-PelletGlass = стеклянный осколок
+ent-PelletGlass = осколок стекла
     .desc = { ent-BaseBullet.desc }
 
 ent-PelletGlassSpread = { ent-PelletGlass }

@@ -1,5 +1,5 @@
 ent-BaseReinforcementBeacon = маяк подкрепления
-    .desc = Маяк подкрепления, установленный командным составом NanoTrasen, можно уничтожить, чтобы предотвратить прибытие подкрепления.
+    .desc = Маяк подкрепления, установленный членом командования NanoTrasen. Его можно разрушить, чтобы подкрепление не прибыло.
 
 ent-ReinforcementBeaconDetective = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
@@ -7,35 +7,35 @@ ent-ReinforcementBeaconDetective = { ent-BaseReinforcementBeacon }
 
 ent-ReinforcementBeaconSecurityOfficer = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
-    .suffix = Служба безопасности
+    .suffix = Служба Безопасности
 
 ent-ReinforcementBeaconSecurityOfficerFast = { ent-ReinforcementBeaconSecurityOfficer }
     .desc = { ent-ReinforcementBeaconSecurityOfficer.desc }
-    .suffix = Служба безопасности, быстрый
+    .suffix = СБ, Быстрый
 
 ent-ReinforcementBeaconSpecialistOfficerLaser = { ent-ReinforcementBeaconSecurityOfficer }
     .desc = { ent-ReinforcementBeaconSecurityOfficer.desc }
-    .suffix = Служба безопасности, лазер
+    .suffix = СБ, Лазер
 
 ent-ReinforcementBeaconSpecialistOfficerRiotMelee = { ent-ReinforcementBeaconSecurityOfficer }
     .desc = { ent-ReinforcementBeaconSecurityOfficer.desc }
-    .suffix = Служба безопасности, спецотряд, ближний бой
+    .suffix = СБ, Подавление Бунтов, Ближний Бой
 
 ent-ReinforcementBeaconSpecialistOfficerRiotRanged = { ent-ReinforcementBeaconSecurityOfficer }
     .desc = { ent-ReinforcementBeaconSecurityOfficer.desc }
-    .suffix = Служба безопасности, спецотряд, дальний бой
+    .suffix = СБ, Подавление Бунтов, Дальний Бой
 
 ent-ReinforcementBeaconSpecialistOfficerHeavyLaser = { ent-ReinforcementBeaconSecurityOfficer }
     .desc = { ent-ReinforcementBeaconSecurityOfficer.desc }
-    .suffix = Служба безопасности, тяжёловооруженный
+    .suffix = СБ, Тяжёлый, Лазер
 
 ent-ReinforcementBeaconSpecialistOfficerShield = { ent-ReinforcementBeaconSecurityOfficer }
     .desc = { ent-ReinforcementBeaconSecurityOfficer.desc }
-    .suffix = Служба безопасности, щит
+    .suffix = СБ, Щит
 
 ent-ReinforcementBeaconSpecialistOfficerBrigmedic = { ent-ReinforcementBeaconSecurityOfficer }
     .desc = { ent-ReinforcementBeaconSecurityOfficer.desc }
-    .suffix = Служба безопасности, бригмедик
+    .suffix = СБ, Бригмедик
 
 ent-ReinforcementBeaconCadet = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
@@ -63,7 +63,7 @@ ent-ReinforcementBeaconPsychologist = { ent-BaseReinforcementBeacon }
 
 ent-ReinforcementBeaconMedicalIntern = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
-    .suffix = Медицинский интерн
+    .suffix = Медицинский Интерн
 
 ent-ReinforcementBeaconSci = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
@@ -79,19 +79,19 @@ ent-ReinforcementBeaconGeneticist = { ent-BaseReinforcementBeacon }
 
 ent-ReinforcementBeaconResearchAssistant = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
-    .suffix = Ассистент исследователя
+    .suffix = Научный Ассистент
 
 ent-ReinforcementBeaconDClass = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
-    .suffix = Класс-Д
+    .suffix = Класс D
 
 ent-ReinforcementBeaconCargo = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
-    .suffix = Техник снабжения
+    .suffix = Техник Карго
 
 ent-ReinforcementBeaconSalv = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
-    .suffix = Утилизатор
+    .suffix = Утилизация
 
 ent-ReinforcementBeaconEngi = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
@@ -99,7 +99,7 @@ ent-ReinforcementBeaconEngi = { ent-BaseReinforcementBeacon }
 
 ent-ReinforcementBeaconAtmos = { ent-ReinforcementBeaconEngi }
     .desc = { ent-ReinforcementBeaconEngi.desc }
-    .suffix = Атмосферный техник
+    .suffix = Атмос
 
 ent-ReinforcementBeaconTechnician = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
@@ -123,7 +123,7 @@ ent-ReinforcementBeaconJanitor = { ent-BaseReinforcementBeacon }
 
 ent-ReinforcementBeaconLawyer = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
-    .suffix = Юрист
+    .suffix = Адвокат
 
 ent-ReinforcementBeaconClown = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
@@ -151,7 +151,7 @@ ent-ReinforcementBeaconReporter = { ent-BaseReinforcementBeacon }
 
 ent-ReinforcementBeaconServiceWorker = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }
-    .suffix = Работник сферы обслуживания
+    .suffix = Работник Сервиса
 
 ent-ReinforcementBeaconAssistant = { ent-BaseReinforcementBeacon }
     .desc = { ent-BaseReinforcementBeacon.desc }

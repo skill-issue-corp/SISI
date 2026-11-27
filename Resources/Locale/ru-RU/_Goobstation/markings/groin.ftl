@@ -1,2 +1,2 @@
-marking-MobIPCGroinDefault = Стандартное шасси (Маскулинное)
-marking-MobIPCGroinFemaleDefault = Стандартное шасси (Феминное)
+marking-MobIPCGroinDefault = Стандартное Шасси Робота (Мужское)
+marking-MobIPCGroinFemaleDefault = Стандартное Шасси Робота (Женское)

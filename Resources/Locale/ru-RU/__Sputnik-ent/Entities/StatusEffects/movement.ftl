@@ -1,19 +1,19 @@
 ent-StatusEffectSlowdown = замедление
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectSpeed = скорость
+ent-StatusEffectSpeed = ускорение
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-ReagentSpeedStatusEffect = скорость от реагента
+ent-ReagentSpeedStatusEffect = изменение скорости от реагента
     .desc = { ent-StatusEffectSpeed.desc }
 
 ent-VomitingSlowdownStatusEffect = замедление от рвоты
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-TaserSlowdownStatusEffect = замедление от выстрела тазером
+ent-TaserSlowdownStatusEffect = замедление от попадания из тазера
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-FlashSlowdownStatusEffect = замедление от воздействия вспышки
+ent-FlashSlowdownStatusEffect = замедление от вспышки
     .desc = { ent-StatusEffectSlowdown.desc }
 
 ent-StatusEffectStaminaLow = низкая выносливость

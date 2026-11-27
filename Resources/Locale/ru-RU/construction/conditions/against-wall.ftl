@@ -1,1 +1,1 @@
-construction-step-condition-against-wall = Вы должны разместить это вплотную к стене.
+construction-step-condition-against-wall = Это нужно разместить вплотную к стене.

@@ -1,62 +1,55 @@
-ent-ClothingModsuitStandard = стандартный скафандр MOD
-    .desc = Специальный контроллер скафандром, содержащий все необходимые части костюма.
+ent-ClothingModsuitStandard = { ent-ClothingModsuitStandardNoStorage }
+    .desc = { ent-ClothingModsuitStandardNoStorage.desc }
 
-ent-ClothingModsuitStandardNoStorage = стандартный скафандр MOD
-    .desc = Специальный контроллер скафандром, содержащий все необходимые части костюма.
+ent-ClothingModsuitStandardNoStorage = блок управления стандартным модсьютом
+    .desc = Особый блок управления модсьютом, содержащий все необходимые детали модульного скафандра.
 
 ent-BaseModsuitBattery = { "" }
     .desc = { "" }
-    .suffix = батарея высокой ёмкости
+    .suffix = Батарея Повышенной Ёмкости
 
 ent-ClothingModsuitStandardPowerCell = { ent-ClothingModsuitStandard }
-    .suffix = батарея высокой ёмкости
     .desc = { ent-ClothingModsuitStandard.desc }
 
-ent-ClothingModsuitSecurity = контроллер скафандра MOD "Солдат"
-    .desc = Надёжный контроллер скафандром для уничтожения врагов в космосе.
+ent-ClothingModsuitSecurity = блок управления модсьютом сб «солдат»
+    .desc = Робастный блок управления модульным скафандром, чтобы лупить коммуняк в космосе.
 
 ent-ClothingModsuitSecurityPowerCell = { ent-ClothingModsuitSecurity }
-    .suffix = батарея высокой ёмкости
     .desc = { ent-ClothingModsuitSecurity.desc }
 
-ent-ClothingModsuitHeadOfSecurity = контроллер скафандра MOD "Бастион"
-    .desc = Надёжный контроллер скафандром главы службы безопасности.
+ent-ClothingModsuitHeadOfSecurity = блок управления модсьютом главы службы безопасности «бастион»
+    .desc = Робастный блок управления модульным МЕГАскафандром для главы службы безопасности.
 
 ent-ClothingModsuitHeadOfSecurityPowerCell = { ent-ClothingModsuitHeadOfSecurity }
-    .suffix = батарея высокой ёмкости
     .desc = { ent-ClothingModsuitHeadOfSecurity.desc }
 
-ent-ClothingModsuitParamedic = контроллер скафандра MOD "Санитар"
-    .desc = Надёжный контроллер скафандра для парамедиков.
+ent-ClothingModsuitParamedic = блок управления модсьютом «санитар»
+    .desc = Блок управления модульным скафандром для парамедиков.
 
 ent-ClothingModsuitParamedicPowerCell = { ent-ClothingModsuitParamedic }
-    .suffix = батарея высокой ёмкости
     .desc = { ent-ClothingModsuitParamedic.desc }
 
-ent-ClothingModsuitEngineer = контроллер скафандра MOD "Сапёр"
-    .desc = Надёжный контроллер скафандра, предназначенный для выдерживания самых серьёзных опасностей на работе.
+ent-ClothingModsuitEngineer = блок управления инженерным модсьютом «сапёр»
+    .desc = Блок управления модульным скафандром, который выдержит самые суровые рабочие условия.
 
 ent-ClothingModsuitEngineerPowerCell = { ent-ClothingModsuitEngineer }
-    .suffix = батарея высокой ёмкости
     .desc = { ent-ClothingModsuitEngineer.desc }
 
-ent-ClothingModsuitAtmostech = контроллер скафандра MOD "Эол"
-    .desc = Надёжный контроллер скафандра, предназначенный для выдерживания самых серьёзных опасностей на работе.
+ent-ClothingModsuitAtmostech = блок управления модсьютом атмосферного техника «эол»
+    .desc = Блок управления модульным скафандром, который выдержит самые суровые рабочие условия.
 
 ent-ClothingModsuitAtmostechPowerCell = { ent-ClothingModsuitAtmostech }
-    .suffix = батарея высокой ёмкости
     .desc = { ent-ClothingModsuitAtmostech.desc }
 
-ent-ClothingModsuitResearchDirector = контроллер скафандра MOD "Минерва"
-    .desc = Надёжный контроллер скафандра, способный выдержать ещё одну бомбёжку шаттла.
+ent-ClothingModsuitResearchDirector = блок управления модсьютом НР «минерва»
+    .desc = Блок управления модульным скафандром, который выдержит очередной взрыв шаттла.
 
 ent-ClothingModsuitResearchDirectorPowerCell = { ent-ClothingModsuitResearchDirector }
-    .suffix = батарея высокой ёмкости
     .desc = { ent-ClothingModsuitResearchDirector.desc }
 
-ent-ClothingModsuitCaptain = контроллер скафандра MOD "Магнат"
-    .desc = Украшенный драгоценными камнями, зеркально отполированный и абсолютно бронированный скафандр. Охлаждающая жидкость — кровь дракона, разбавленная доктором Гиббом. Это для тебя очень дорого.
+ent-ClothingModsuitCaptain = блок управления модсьютом капитана «магнат»
+    .desc = Инкрустированный камнями, отполированный до блеска и абсолютно МАГНАТСКИЙ бронированный модсьют. Охлаждающая жидкость – кровь драконов, разбавленная «Доктором Гиббом». Тебе Эта хрень нипочём, чувак.
 
 ent-ClothingModsuitCaptainPowerCell = { ent-ClothingModsuitCaptain }
-    .suffix = батарея высокой ёмкости
     .desc = { ent-ClothingModsuitCaptain.desc }
+    .suffix = Батарея Повышенной Ёмкости

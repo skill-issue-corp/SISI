@@ -1,2 +1,2 @@
-ntr-executive-nuclear-codes-name = Ядерные коды
-ntr-executive-nuclear-codes-desc = Будь готов к моему прибытию, червь.
+ntr-executive-nuclear-codes-name = Ядерные Коды
+ntr-executive-nuclear-codes-desc = Готовься к моему прибытию, червь.

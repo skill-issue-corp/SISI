@@ -6,6 +6,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-power-receiver-component-on-examine-main = Похоже, питание {$stateText}.
-power-receiver-component-on-examine-powered = [color=darkgreen]имеется[/color]
-power-receiver-component-on-examine-unpowered = [color=darkred]отсутствует[/color]
+power-receiver-component-on-examine-main = Похоже, устройство {$stateText}.
+power-receiver-component-on-examine-powered = [color=darkgreen]под напряжением[/color]
+power-receiver-component-on-examine-unpowered =  [color=darkred]обесточено[/color]

@@ -1,10 +1,10 @@
 ent-StatusEffectWormBlacklist = { ent-StatusEffectBase }
     .desc = { ent-StatusEffectBase.desc }
 
-ent-StatusEffectCursed = проклятый
+ent-StatusEffectCursed = проклятие
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectCurseOfCorrosion = проклятие разъедания
+ent-StatusEffectCurseOfCorrosion = проклятие коррозии
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectCurseOfParalysis = проклятие паралича
@@ -19,25 +19,25 @@ ent-StatusEffectCurseOfAmok = проклятие амока
 ent-StatusEffectCurseOfFragility = проклятие хрупкости
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectFireBlasted = обожжённый огнём
+ent-StatusEffectFireBlasted = поражение огненной вспышкой
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectStarMark = звёздная метка
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectStarTouched = звёздное прикосновение
+ent-StatusEffectStarTouched = звёздное касание
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-CarvingAlertedStatusEffect = предупреждён
+ent-CarvingAlertedStatusEffect = тревога
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectCrucibleSoul = душа горнила
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectCrucibleSoulCooldown = перезарядка души горнила
+ent-StatusEffectCrucibleSoulCooldown = перезарядка души тигля
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectDuskAndDawn = сумерки и рассвет
+ent-StatusEffectDuskAndDawn = закат и рассвет
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectWoundedSoldier = раненый солдат
@@ -46,64 +46,64 @@ ent-StatusEffectWoundedSoldier = раненый солдат
 ent-StatusEffectWoundedSoldierCooldown = перезарядка раненого солдата
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-ExaminedMirrorMaidStatusEffect = осмотр зеркальной девы
+ent-ExaminedMirrorMaidStatusEffect = дева в зеркале осмотрена
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectNewbornEther = потусторонний сон
+ent-StatusEffectNewbornEther = потусторонняя дрёма
     .desc = { ent-StatusEffectWormBlacklist.desc }
 
 ent-SacramentsOfPowerStatusEffect = таинства силы
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-RealignmentStatusEffect = перестройка
+ent-RealignmentStatusEffect = перенастройка
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-BlockProtectiveBladeShootStatusEffect = блокировка стрельбы защитных клинков
+ent-BlockProtectiveBladeShootStatusEffect = запрет броска защитного клинка
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-HideHereticAuraStatusEffect = скрытие ауры еретика
+ent-HideHereticAuraStatusEffect = сокрытие ауры еретика
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-ExaminedRiftStatusEffect = осмотр пронзённой реальности
+ent-ExaminedRiftStatusEffect = разлом реальности осмотрен
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-MansusGraspAffectedStatusEffect = под воздействием хватки мансуса
+ent-MansusGraspAffectedStatusEffect = воздействие хватки мансуса
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-ShadowCloakStatusEffect = теневой плащ
+ent-ShadowCloakStatusEffect = плащ тени
     .desc = { ent-StatusEffectWormBlacklist.desc }
 
-ent-ShadowCloakPaleStatusEffect = лесные наставления
+ent-ShadowCloakPaleStatusEffect = лесные предостережения
     .desc = { ent-StatusEffectWormBlacklist.desc }
 
-ent-EldritchRustStatusEffect = замедление от потусторонней ржавчины
+ent-EldritchRustStatusEffect = замедление потусторонней ржавчиной
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-ShadowCloakRevealStatusEffect = теневой плащ раскрыт
+ent-ShadowCloakRevealStatusEffect = раскрытие плаща тени
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-PaleFogAffectedStatusEffect = под воздействием бледного тумана
+ent-PaleFogAffectedStatusEffect = воздействие бледного тумана
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-StarGazerInactiveStatusEffect = звёздный наблюдатель неактивен
+ent-StarGazerInactiveStatusEffect = звездочёт неактивен
     .desc = { ent-StatusEffectBase.desc }
 
-ent-VoidCamouflageStatusEffect = камуфляж пустоты
+ent-VoidCamouflageStatusEffect = маскировка пустоты
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-LockMarkedStatusEffect = замок помечен
+ent-LockMarkedStatusEffect = метка засова
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-LastRefugeStatusEffect = последнее убежище хранителя
+ent-LastRefugeStatusEffect = последнее убежище консьержа
     .desc = { ent-StatusEffectWormBlacklist.desc }
 
 ent-FuriousSteelStatusEffect = яростная сталь
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-SilverMaelstromStatusEffect = серебряный водоворот
+ent-SilverMaelstromStatusEffect = серебряный вихрь
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectInfluenceXray = влияние рентгена
+ent-StatusEffectInfluenceXray = рентгеновское зрение для поиска влияний
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectXRayHeretic = рентгеновское зрение

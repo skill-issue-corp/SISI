@@ -16,7 +16,7 @@ ent-StatusEffectForcedSleeping = принудительный сон
 ent-StatusEffectSSDSleeping = принудительный сон
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectPressureImmunity = иммунитет к давлению
+ent-StatusEffectPressureImmunity = невосприимчивость к давлению
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-MutedStatusEffectBase = немота
@@ -46,11 +46,11 @@ ent-StatusEffectDrunk = опьянение
 ent-StatusEffectBlindness = временная слепота
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectFlashed = ослепление
+ent-StatusEffectFlashed = ослепление вспышкой
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectForcedItemCatEars = принудительные кошачьи уши
+ent-StatusEffectForcedItemCatEars = принудительное ношение кошачьих ушей
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectForcedItemMaid = принудительный костюм горничной
+ent-StatusEffectForcedItemMaid = принудительное ношение формы горничной
     .desc = { ent-MobStatusEffectDebuff.desc }

@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ninja-katana-recalled = Ваша энергокатана телепортируется вам в руку!
+ninja-katana-recalled = Ваша Энергокатана телепортируется вам в руку!
 ninja-hands-full = Ваши руки заняты!
 
-dash-ability-not-held = Вы не держите свою катану!
+dash-ability-not-held = Вы не держите катану!

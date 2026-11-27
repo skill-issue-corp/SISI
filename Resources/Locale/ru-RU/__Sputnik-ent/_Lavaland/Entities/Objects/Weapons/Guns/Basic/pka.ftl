@@ -1,24 +1,24 @@
 ent-WeaponProtoKineticShotgun = протокинетический дробовик
-    .desc = Выпускает множество кинетических зарядов с низким уроном, которые в два раза менее эффективны при добыче полезных ископаемых.
+    .desc = Выпускает веер кинетических зарядов с небольшим уроном, вдвое менее эффективных при добыче руды.
 
-ent-WeaponProtoKineticRepeater = протокинетический повторитель
-    .desc = Выпускает шквал кинетических разрядов среднего урона на близком расстоянии.
+ent-WeaponProtoKineticRepeater = протокинетический карабин
+    .desc = Выпускает шквал кинетических зарядов со средним уроном на близкой дистанции.
 
 ent-WeaponProtoKineticPistol = протокинетический пистолет
-    .desc = Стреляет кинетическими разрядами с низким уроном, обладает более высокой модулирующей способностью.
+    .desc = Стреляет кинетическими зарядами с небольшим уроном, но вмещает больше модификаций.
 
 ent-WeaponProtoKineticAcceleratorSpace = { ent-WeaponProtoKineticAccelerator }
-    .suffix = Космическое улучшение
     .desc = { ent-WeaponProtoKineticAccelerator.desc }
+    .suffix = Космическое улучшение
 
 ent-WeaponProtoKineticShotgunSpace = { ent-WeaponProtoKineticShotgun }
-    .suffix = Космическое улучшение
     .desc = { ent-WeaponProtoKineticShotgun.desc }
+    .suffix = Космическое улучшение
 
 ent-WeaponProtoKineticRepeaterSpace = { ent-WeaponProtoKineticRepeater }
-    .suffix = Космическое улучшение
     .desc = { ent-WeaponProtoKineticRepeater.desc }
+    .suffix = Космическое улучшение
 
 ent-WeaponProtoKineticPistolSpace = { ent-WeaponProtoKineticPistol }
-    .suffix = Космическое улучшение
     .desc = { ent-WeaponProtoKineticPistol.desc }
+    .suffix = Космическое улучшение

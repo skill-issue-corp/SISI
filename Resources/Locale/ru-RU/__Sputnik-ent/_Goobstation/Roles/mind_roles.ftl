@@ -4,13 +4,13 @@ ent-DevilMindRole = Роль Дьявола
 ent-MindRoleHeretic = Роль Еретика
     .desc = { ent-BaseMindRoleAntag.desc }
 
-ent-MindRoleGhoul = Роль Гуля
+ent-MindRoleGhoul = Гуль
     .desc = { ent-BaseMindRoleAntag.desc }
 
 ent-MindRoleArenaParticipant = Участник Арены
     .desc = { ent-BaseMindRoleAntag.desc }
 
-ent-MindRoleBrainwashed = Роль Порабощённого
+ent-MindRoleBrainwashed = Роль Зомбированного
     .desc = { ent-BaseMindRoleAntag.desc }
 
 ent-MindRoleChangelingmidround = Роль Спящего Генокрада

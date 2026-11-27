@@ -1,3 +1,3 @@
-cmd-mindinfo-desc = Показывает информацию о разуме указанного игрока.
-cmd-mindinfo-help = Использование: mindinfo <ID сессии>
+cmd-mindinfo-desc = Выводит сведения о разуме указанного игрока.
+cmd-mindinfo-help = Использование: mindinfo <session ID>
 cmd-mindinfo-mind-not-found = Не удалось найти этот разум.

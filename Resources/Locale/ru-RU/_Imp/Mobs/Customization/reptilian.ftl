@@ -1,43 +1,50 @@
 # Chest
 
-marking-BadMoltChest = Шрам (Плохая линька)
-marking-BadMoltChest-badmolt = Шрам (Плохая линька)
+marking-BadMoltChest = Шрам (Неудачная Линька)
+marking-BadMoltChest-badmolt = Шрам (Неудачная Линька)
 
 # Head
 
-marking-BadMoltHead = Шрам (Плохая линька)
-marking-BadMoltHead-badmolt = Шрам (Плохая линька)
-marking-ScarSlash = Шрам (Резаный)
-marking-ScarSlash-snoutscar = Шрам (Резаный)
-marking-ScarTalons = Шрам (Царапина когтем)
-marking-ScarTalons-talonscar = Шрам (Царапина когтем)
+marking-BadMoltHead = Шрам (Неудачная Линька)
+marking-BadMoltHead-badmolt = Шрам (Неудачная Линька)
+
+marking-ScarSlash = Шрам (Рассечение)
+marking-ScarSlash-snoutscar = Шрам (Рассечение)
+
+marking-ScarTalons = Шрам (Следы Когтей)
+marking-ScarTalons-talonscar = Шрам (Следы Когтей)
 
 # Snout
 
-marking-Fangs = Ящеричные клыки
+marking-Fangs = Клыки Унатха
 marking-Fangs-Fangs = Клыки
-marking-LizardBeard = Ящеричная борода
+
+marking-LizardBeard = Борода Унатха
 marking-LizardBeard-beard = Борода
-marking-LizardDroopySnout = Ящеричный рыла (Опущенное)
-marking-LizardDroopySnout-droopy = Рыло
+
+marking-LizardDroopySnout = Морда Унатха (Опущенная)
+marking-LizardDroopySnout-droopy = Морда
+
 marking-LizardSnoutpiercings = Пирсинг
 marking-LizardSnoutpiercings-piercings1 = Пирсинг
-marking-LizardSnoutTall = Ящеричное рыло (Высокое)
-marking-LizardSnoutTall-tall = Рыло
-marking-LizardUpperSnout = Ящеричное рыло (Высокие ноздри)
-marking-LizardUpperSnout-upper = Рыло
+
+marking-LizardSnoutTall = Морда Унатха (Высокая)
+marking-LizardSnoutTall-tall = Морда
+
+marking-LizardUpperSnout = Морда Унатха (Высокие Ноздри)
+marking-LizardUpperSnout-upper = Морда
 
 # Eyes
 
 # RArm
 
-marking-BadMoltRArm = Шрам (Плохая линька, правая рука)
-marking-BadMoltRArm-badmolt = Шрам (Плохая линька, правая рука)
+marking-BadMoltRArm = Шрам (Неудачная Линька Справа)
+marking-BadMoltRArm-badmolt = Шрам (Неудачная Линька Справа)
 
 # LArm
 
-marking-BadMoltLArm = Шрам (Плохая линька, левая рука)
-marking-BadMoltLArm-badmolt = Шрам (Плохая линька, левая рука)
+marking-BadMoltLArm = Шрам (Неудачная Линька Слева)
+marking-BadMoltLArm-badmolt = Шрам (Неудачная Линька Слева)
 
 # RLeg
 
@@ -59,48 +66,61 @@ marking-BadMoltLArm-badmolt = Шрам (Плохая линька, левая р
 
 # HeadSide
 
-marking-BurqaSolidLizard = Бурка
-marking-BurqaSolidLizard-burqasolidlizard = Бурка
-marking-HijabFashionableLizard = Хиджаб (модный)
-marking-HijabFashionableLizard-hijabchiclizard = Хиджаб (модный)
-marking-HijabSimpleLizard = Хиджаб (простой)
-marking-HijabSimpleLizard-hijabsimplelizard = Хиджаб (простой)
-marking-LizardKoboldEarsMid = Уши ящерицы (мягкие кобольды)
+marking-BurqaSolidLizard = Паранджа
+marking-BurqaSolidLizard-burqasolidlizard = Паранджа
+
+marking-HijabFashionableLizard = Хиджаб (Модный)
+marking-HijabFashionableLizard-hijabchiclizard = Хиджаб (Модный)
+
+marking-HijabSimpleLizard = Хиджаб (Простой)
+marking-HijabSimpleLizard-hijabsimplelizard = Хиджаб (Простой)
+
+marking-LizardKoboldEarsMid = Уши Унатха (Кобольдьи Мягкие)
 marking-LizardKoboldEarsMid-koboldearsmid = Уши
-marking-LizardKoboldEarsTall = Уши ящерицы (жёсткие кобольды)
+
+marking-LizardKoboldEarsTall = Уши Унатха (Кобольдьи Жёсткие)
 marking-LizardKoboldEarsTall-koboldearstall = Уши
+
 marking-NiqabLizard = Никаб
 marking-NiqabLizard-niqablizard = Никаб
-marking-TichelSimpleLizard = Тичель (простой)
-marking-TichelSimpleLizard-tichelsimplelizard = Тичель (простой)
-marking-TichelFashionableLizard = Тичель (модный)
-marking-TichelFashionableLizard-tichelfashionablelizard = Тичель (модный)
+
+marking-TichelSimpleLizard = Тихель (Простой)
+marking-TichelSimpleLizard-tichelsimplelizard = Тихель (Простой)
+
+marking-TichelFashionableLizard = Тихель (Модный)
+marking-TichelFashionableLizard-tichelfashionablelizard = Тихель (Модный)
 
 # HeadTop
 
-marking-LizardHeadFlat = Плоская голова
-marking-LizardHeadFlat-flat = Плоская голова
-marking-LizardFrill = Воротник на голове
-marking-LizardFrill-frill = Воротник на голове
-marking-LizardHornsKoboldEarspiercings = Уши ящерицы (кобольд, с пирсингом)
+marking-LizardHeadFlat = Плоская Голова
+marking-LizardHeadFlat-flat = Плоская Голова
+
+marking-LizardFrill = Воротник на Голове
+marking-LizardFrill-frill = Воротник на Голове
+
+marking-LizardHornsKoboldEarspiercings = Уши Унатха (Кобольдьи, с Пирсингом)
 marking-LizardHornsKoboldEarspiercings-koboldears = Уши
 marking-LizardHornsKoboldEarspiercings-kobold_earspiercings = Пирсинг
-marking-LizardHornsNubby-nubby = Рога ящерицы (припухлые)
-marking-LizardHornsNubby = Рога ящерицы (припухлые)
-marking-LizardLittleHorns = Рога ящерицы (маленькие)
+
+marking-LizardHornsNubby-nubby = Рога Унатха (Короткие Отростки)
+marking-LizardHornsNubby = Рога Унатха (Короткие Отростки)
+
+marking-LizardLittleHorns = Рога Унатха (Маленькие)
 marking-LizardLittleHorns-small = Рога
+
 
 # Tail
 
-marking-TailDropped = Сброшенный хвост
-marking-TailDropped-dropped = Сброшенный хвост
-marking-TailGecko = Хвост геккона
-marking-TailGecko-gecko1 = Хвост геккона
+marking-TailDropped = Сброшенный Хвост
+marking-TailDropped-dropped = Сброшенный Хвост
+
+marking-TailGecko = Хвост Геккона
+marking-TailGecko-gecko1 = Хвост Геккона
 marking-TailGecko-gecko2 = Пятна
-marking-TailSnailLizard = Улиточный панцирь
-marking-TailSnailLizard-snizard1 = Панцирь
+
+marking-TailSnailLizard = Раковина Улитки
+marking-TailSnailLizard-snizard1 = Раковина
 marking-TailSnailLizard-snizard2 = Хвост
-marking-TailSnailLizard-snizard3 = Подхвостье
+marking-TailSnailLizard-snizard3 = Нижняя Сторона Хвоста
 
 # RArmExtension
-

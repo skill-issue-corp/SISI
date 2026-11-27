@@ -1,31 +1,31 @@
 ent-ClothingShoesBootsWork = рабочие ботинки
-    .desc = Инженерные рабочие ботинки на шнуровке, для настоящих работяг.
+    .desc = Инженерные рабочие ботинки на шнуровке для самых работящих.
 
-ent-ClothingShoesBootsJack = подкованные сапоги
-    .desc = Обувь службы безопасности Nanotrasen, для боевых операций или боевых действий. Борьба — всё, борьба — всегда.
+ent-ClothingShoesBootsJack = берцы
+    .desc = Штатные боевые ботинки службы Безопасности NanoTrasen для боевых условий и боевых ситуаций. Всегда в бою.
 
-ent-ClothingShoesBootsSalvage = ботинки утилизаторов
-    .desc = Специализированные ботинки со стальными носками для работ по утилизации в опасных условиях.
+ent-ClothingShoesBootsSalvage = ботинки утилизатора
+    .desc = Ботинки со стальными носками для утилизации в опасных условиях.
 
-ent-ClothingShoesBootsPerformer = ботинки артиста
-    .desc = Эти ботинки обеспечивают отличное сцепление с поверхностью, когда вы выходите на сцену.
+ent-ClothingShoesBootsPerformer = сценические ботинки
+    .desc = В этих ботинках вы не поскользнётесь на сцене.
 
-ent-ClothingShoesBootsCombat = армейские ботинки
-    .desc = Надёжные армейские ботинки, для боевых операций или боевых действий. Борьба — всё, борьба — всегда.
+ent-ClothingShoesBootsCombat = боевые ботинки
+    .desc = Робастные боевые ботинки для боевых условий и боевых ситуаций. Всегда в бою.
 
-ent-ClothingShoesHighheelBoots = сапоги на высоком каблуке
-    .desc = Удобные сапожки для тех случаев, когда вы хотите быть стильным, и одновременно подготовленным.
+ent-ClothingShoesHighheelBoots = сапоги на высоких каблуках
+    .desc = Шикарные сапоги для тех, кто хочет выглядеть стильно и быть наготове.
 
 ent-ClothingShoesBootsMerc = ботинки наёмника
-    .desc = Ботинки, прошедшие через множество конфликтов и доказавшие свою боевую надёжность.
+    .desc = Ботинки, прошедшие немало конфликтов и доказавшие свою надёжность в бою.
 
-ent-ClothingShoesBootsLaceup = шнурованные туфли
-    .desc = Последний писк моды, и поставляются сразу отполированными!
+ent-ClothingShoesBootsLaceup = туфли на шнуровке
+    .desc = Вершина моды, да ещё и начищены заранее!
 
 ent-ClothingShoesBootsWinter = зимние ботинки
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 
-ent-ClothingShoesBootsWinterCargo = зимние ботинки снабжения
+ent-ClothingShoesBootsWinterCargo = зимние ботинки карго
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 
 ent-ClothingShoesBootsWinterEngi = инженерные зимние ботинки
@@ -34,26 +34,26 @@ ent-ClothingShoesBootsWinterEngi = инженерные зимние ботин�
 ent-ClothingShoesBootsWinterMed = медицинские зимние ботинки
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 
-ent-ClothingShoesBootsWinterSci = научные зимние ботинки
+ent-ClothingShoesBootsWinterSci = зимние ботинки научного отдела
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 
-ent-ClothingShoesBootsWinterSec = зимние ботинки охраны
+ent-ClothingShoesBootsWinterSec = зимние ботинки службы безопасности
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 
-ent-ClothingShoesBootsWinterSyndicate = зимние ботинки Синдиката
-    .desc = Прочные тяжёлые ботинки, выглядят как мерч из "Синдиленда".
+ent-ClothingShoesBootsWinterSyndicate = зимние ботинки синдиката
+    .desc = Прочные тяжёлые ботинки, похожие на сувенир из «Синдиленда».
 
 ent-ClothingShoesBootsWinterWeb = зимние ботинки из паутины
-    .desc = Ботинки из плотной паутины, которые помогут пережить даже самую холодную зиму.
+    .desc = Ботинки из плотной паутины, в которых можно пережить даже самую холодную зиму.
 
-ent-ClothingShoesBootsCowboyBrown = коричневые ковбойские ботинки
-    .desc = На них шпоры, которые звенят и/или бренчат.
+ent-ClothingShoesBootsCowboyBrown = коричневые ковбойские сапоги
+    .desc = Шпоры на них звенят и/или бренчат.
 
-ent-ClothingShoesBootsCowboyBlack = чёрные ковбойские ботинки
+ent-ClothingShoesBootsCowboyBlack = чёрные ковбойские сапоги
     .desc = { ent-ClothingShoesBootsCowboyBrown.desc }
 
-ent-ClothingShoesBootsCowboyWhite = белые ковбойские ботинки
+ent-ClothingShoesBootsCowboyWhite = белые ковбойские сапоги
     .desc = { ent-ClothingShoesBootsCowboyBrown.desc }
 
-ent-ClothingShoesBootsCowboyFancy = модные ковбойские ботинки
+ent-ClothingShoesBootsCowboyFancy = нарядные ковбойские сапоги
     .desc = { ent-ClothingShoesBootsCowboyBrown.desc }

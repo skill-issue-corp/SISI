@@ -1,20 +1,20 @@
-ent-SpawnerChristmasTinselWhite = спавнер белая рожденственская мишура
+ent-SpawnerChristmasTinselWhite = { ent-MarkerBase }
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnerChristmasTinselRed = спавнер красная рожденственская мишура
+ent-SpawnerChristmasTinselRed = { ent-MarkerBase }
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnerChristmasTinselBlue = спавнер синяя рожденственская мишура
+ent-SpawnerChristmasTinselBlue = { ent-MarkerBase }
     .desc = { ent-MarkerBase.desc }
 
 ent-BaseChristmasTinsel = мишура
-    .desc = Немного белой мишуры. Она слегка блестит.
+    .desc = Белая мишура. Немного блестит.
 
 ent-BaseChristmasTinselRed = { ent-BaseChristmasTinsel }
-    .desc = Немного красной мишуры. Она слегка блестит.
+    .desc = Красная мишура. Немного блестит.
 
 ent-BaseChristmasTinselBlue = { ent-BaseChristmasTinsel }
-    .desc = Немного синей мишуры. Она слегка блестит.
+    .desc = Синяя мишура. Немного блестит.
 
 ent-ChristmasTinselWhite1 = { ent-BaseChristmasTinsel }
     .desc = { ent-BaseChristmasTinsel.desc }

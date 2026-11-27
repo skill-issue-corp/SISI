@@ -1,12 +1,14 @@
-translator-component-shutoff = { $translator } отключен.
-translator-component-turnon = { $translator } включен.
-translator-implanter-refuse = { $implanter } больше не действует на { $target }.
-translator-implanter-success = { $implanter } успешно введен в { $target }.
-translator-implanter-ready = Имплантер готов к использованию.
-translator-implanter-used = Имплантер выглядит пустым.
-translator-examined-langs-understood = Может переводить с: [color=green]{ $languages }[/color].
-translator-examined-langs-spoken = Может переводить на: [color=green]{ $languages }[/color].
-translator-examined-requires-any = Вам необходимо знать хотя бы один из этих языков: [color=yellow]{ $languages }[/color].
-translator-examined-requires-all = Вам необходимо знать данные языки: [color=yellow]{ $languages }[/color].
-translator-examined-enabled = Должно быть [color=green]активно[/color].
-translator-examined-disabled = Должно быть [color=red]выключенно[/color].
+translator-component-shutoff = {$translator} выключается.
+translator-component-turnon = {$translator} включается.
+
+translator-implanter-refuse = {$implanter} не действует на {$target}.
+translator-implanter-success = {$implanter} успешно вводит имплант в {$target}.
+translator-implanter-ready = Похоже, имплантер готов к работе.
+translator-implanter-used = Похоже, имплантер пуст.
+
+translator-examined-langs-understood = Может переводить с языков: [color=green]{$languages}[/color].
+translator-examined-langs-spoken = Может переводить на языки: [color=green]{$languages}[/color].
+translator-examined-requires-any = Нужно знать хотя бы один из этих языков: [color=yellow]{$languages}[/color].
+translator-examined-requires-all = Нужно знать все эти языки: [color=yellow]{$languages}[/color].
+translator-examined-enabled = Похоже, переводчик [color=green]активен[/color].
+translator-examined-disabled = Похоже, переводчик [color=red]выключен[/color].

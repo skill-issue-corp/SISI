@@ -1,24 +1,24 @@
 ent-EmergencyPlasmaTank = аварийный баллон с фороном
-    .desc = Легко переносимый баллон для экстренных случаев. Содержит очень мало форона, предназначен только для выживания.
+    .desc = Лёгкий переносной баллон для чрезвычайных ситуаций. Форона в нём совсем мало, запас лишь на выживание.
 
 ent-EmergencyPlasmaTankFilled = { ent-EmergencyPlasmaTank }
-    .suffix = Заполненный
     .desc = { ent-EmergencyPlasmaTank.desc }
+    .suffix = Заполнено
 
 ent-ExtendedEmergencyPlasmaTank = аварийный баллон с фороном повышенной ёмкости
-    .desc = Аварийный баллон с увеличенной ёмкостью. Технически рассчитан на продолжительное использование.
+    .desc = Аварийный баллон повышенной ёмкости. Формально рассчитан на длительное использование.
 
 ent-ExtendedEmergencyPlasmaTankFilled = { ent-ExtendedEmergencyPlasmaTank }
-    .suffix = Заполненный
     .desc = { ent-ExtendedEmergencyPlasmaTank.desc }
+    .suffix = Заполнено
 
-ent-DoubleEmergencyPlasmaTank = аварийный баллон с фороном для Плазмалюдов
-    .desc = Баллон с фороновым газом, предназначенный для использования Плазмалюдов.
+ent-DoubleEmergencyPlasmaTank = фороновый дыхательный баллон
+    .desc = Баллон с газообразным фороном для дыхания Плазмаменов.
 
 ent-DoubleEmergencyPlasmaTankFilled = { ent-DoubleEmergencyPlasmaTank }
-    .suffix = Заполненный
     .desc = { ent-DoubleEmergencyPlasmaTank.desc }
+    .suffix = Заполнено
 
-ent-PlasmaTankFilledInternals = фороновый баллон
+ent-PlasmaTankFilledInternals = баллон с фороном
     .desc = { ent-PlasmaTankFilled.desc }
-    .suffix = Заполненный, аварийное снаряжение Плазмалюда
+    .suffix = Заполнен, Дыхательный Баллон Плазмамена

@@ -1,18 +1,20 @@
-ent-ClothingHeadHatHoodZeusHood = капюшон Зевса
-    .desc = Гарантированно не слетит с головы при прыжках с небоскрёба на небоскрёб.
-ent-ClothingHeadHatHoodWinterBso = капюшон зимней куртки офицера "Синий Щит"
+ent-ClothingHeadHatHoodZeusHood = капюшон «зевс»
+    .desc = Гарантированно не слетит, когда вы перепрыгиваете с небоскрёба на небоскрёб.
+
+ent-ClothingHeadHatHoodWinterCapFancy = капюшон нарядной зимней куртки капитана
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
-ent-ClothingHeadHatHoodWinterCapFancy = капюшон зимней куртки капитана
-    .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
+
 ent-ClothingHeadHatHoodHereticCostume = оккультный капюшон
-    .desc = Порванный, покрытый пылью капюшон. Под ним размыто виднеются глаза.
+    .desc = Рваный капюшон, покрытый слоем пыли. Изнутри он испещрён размазанными глазами.
+
 ent-ClothingHeadHatHoodHereticVoidCostume = { ent-ClothingHeadHatHoodHereticCostume }
     .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }
+
 ent-ClothingHeadHatHoodHereticAshCostume = { ent-ClothingHeadHatHoodHereticCostume }
     .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }
+
 ent-ClothingHeadHatHoodHereticFleshCostume = { ent-ClothingHeadHatHoodHereticCostume }
     .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }
+
 ent-ClothingHeadHatHoodHereticBladeCostume = { ent-ClothingHeadHatHoodHereticCostume }
     .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }
-ent-ClothingHeadHatHoodSchemaMonk = капюшон монашеского облачения
-    .desc = Удобный капюшон монашеского облачения.

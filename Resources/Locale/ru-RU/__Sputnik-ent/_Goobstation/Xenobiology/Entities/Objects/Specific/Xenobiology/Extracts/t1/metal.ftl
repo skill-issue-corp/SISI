@@ -1,2 +1,2 @@
-ent-MetalSlimeExtract = металлический экстракт слайма
+ent-MetalSlimeExtract = экстракт металлического слайма
     .desc = { ent-BaseSlimeExtract.desc }

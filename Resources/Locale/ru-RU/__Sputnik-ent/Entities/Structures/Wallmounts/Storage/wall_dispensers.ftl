@@ -1,8 +1,8 @@
-ent-BaseDispenser = { ent-BaseWallmountMetallic }
-    .desc = { ent-BaseWallmountMetallic.desc }
+ent-BaseDispenser = { ent-SolutionTank }
+    .desc = { ent-SolutionTank.desc }
 
 ent-CleanerDispenser = раздатчик космического очистителя
-    .desc = Настенный дозатор реагентов.
+    .desc = Настенный раздатчик Космического Очистителя.
 
-ent-FuelDispenser = раздатчик сварочного топлива
-    .desc = { ent-CleanerDispenser.desc }
+ent-FuelDispenser = раздатчик топлива
+    .desc = Настенный раздатчик Топлива.

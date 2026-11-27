@@ -1,2 +1,2 @@
-ent-MobGoidaBot = гойдабот
+ent-MobGoidaBot = гойда-бот
     .desc = ГОЙДА

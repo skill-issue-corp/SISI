@@ -1,4 +1,4 @@
-ent-AppearanceVox = внешность вокса
+ent-AppearanceVox = облик вокса
     .desc = { ent-BaseSpeciesAppearance.desc }
 
 ent-MobVox = Урист МакВокс
@@ -50,8 +50,8 @@ ent-OrganVoxFootLeft = { ent-OrganBaseFootLeft }
 ent-OrganVoxFootRight = { ent-OrganBaseFootRight }
     .desc = { ent-OrganBaseFootRight.desc }
 
-ent-OrganVoxBrain = кортикальный блок
-    .desc = Блок, содержащий все воспоминания и переживания вокса, с остатками мягкой мозговой ткани.
+ent-OrganVoxBrain = кортикальный накопитель
+    .desc = Накопитель со всеми воспоминаниями и жизненным опытом вокса, к которому всё ещё прилипли ошмётки мозга.
 
 ent-OrganVoxEyes = { ent-OrganVoxVisual }
     .desc = { ent-OrganVoxVisual.desc }
@@ -65,17 +65,17 @@ ent-OrganVoxAppendix = { ent-OrganBaseAppendix }
 ent-OrganVoxEars = { ent-OrganBaseEars }
     .desc = { ent-OrganBaseEars.desc }
 
-ent-OrganVoxLungs = газообменные мешки
-    .desc = Орган, отвечающий за газообмен в организме вокса.
+ent-OrganVoxLungs = мешки газообмена
+    .desc = Орган, отвечающий за газообмен в организме Вокса.
 
-ent-OrganVoxHeart = циркуляционный насос
-    .desc = Странный фиолетовый орган, прокачивающий циркуляционную жидкость по телу вокса.
+ent-OrganVoxHeart = насос кровообращения
+    .desc = Странный фиолетовый орган, который прокачивает циркулирующую жидкость по телу Вокса.
 
-ent-OrganVoxStomach = процессор материалов
-    .desc = Орган, отвечающий за переработку материалов, потребляемых воксом.
+ent-OrganVoxStomach = переработчик веществ
+    .desc = Орган, отвечающий за переработку веществ, поступающих в организм Вокса.
 
-ent-OrganVoxLiver = основной токсиновый фильтр
-    .desc = Один из двух органов, отвечающих за фильтрацию токсинов из кровотока вокса.
+ent-OrganVoxLiver = основной фильтр токсинов
+    .desc = Один из двух органов, фильтрующих токсины в кровотоке Вокса.
 
-ent-OrganVoxKidneys = вспомогательный токсиновый фильтр
-    .desc = Один из двух органов, отвечающих за фильтрацию токсинов из кровотока вокса.
+ent-OrganVoxKidneys = вспомогательный фильтр токсинов
+    .desc = Один из двух органов, фильтрующих токсины в кровотоке Вокса.

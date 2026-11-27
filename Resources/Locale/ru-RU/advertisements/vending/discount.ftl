@@ -1,17 +1,24 @@
-advertisement-discount-1 = Discount Dan's, он — мужик!
-advertisement-discount-2 = Нет ничего лучше в этом мире, чем кусочек тайны.
-advertisement-discount-3 = Не слушайте другие автоматы, покупайте мои товары!
-advertisement-discount-4 = Количество превыше Качества!
-advertisement-discount-5 = Не слушайте этих яйцеголовых из санэпидемстанции, покупайте сейчас!
-advertisement-discount-6 = Discount Dan's: Мы полезны вам! Не-а, не могу произнести это без смеха.
-advertisement-discount-7 = Discount Dan's: Только высококачественная проду-*БЗзз
-advertisement-discount-8 = Discount Dan(tm) не несёт ответственности за любой ущерб, вызванный неправильным использованием его продукции.
-advertisement-discount-9 = Мы предлагаем широкий ассортимент недорогих снеков!
-thankyou-discount-1 = Благодарим за исп-*БЗЗЗ
-thankyou-discount-2 = И помните: деньги не возвращаем!
+# SPDX-FileCopyrightText: 2021 Visne <39844191+Visne@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Tayrtahn <tayrtahn@gmail.com>
+# SPDX-FileCopyrightText: 2024 Ubaser <134914314+UbaserB@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+#
+# SPDX-License-Identifier: MIT
+
+advertisement-discount-1 = Дэн со Скидкой - парень что надо!
+advertisement-discount-2 = Нет ничего вкуснее куска не пойми чего.
+advertisement-discount-3 = Не слушайте другие автоматы, покупайте мой товар!
+advertisement-discount-4 = Количество важнее Качества!
+advertisement-discount-5 = Не слушайте умников из санэпиднадзора, покупайте сейчас!
+advertisement-discount-6 = Дисконт Дэна: Мы вам на пользу! Нет, без смеха не скажу.
+advertisement-discount-7 = Дисконт Дэна: Только продукция высшего каче-*БЗЗТ
+advertisement-discount-8 = Дэн со Скидкой(tm) не отвечает за ущерб, причинённый неправильным использованием его продукции.
+advertisement-discount-9 = У нас большой выбор дешёвых закусок!
+thankyou-discount-1 = Спасибо, что воспо-*БЗЗТ
+thankyou-discount-2 = Помните: возврата нет!
 thankyou-discount-3 = Теперь это ваша проблема!
-thankyou-discount-4 = По закону мы обязаны напомнить вам, чтобы вы не ели это.
+thankyou-discount-4 = Мы обязаны напомнить вам, что это нельзя есть.
 thankyou-discount-5 = Пожалуйста, не подавайте на нас в суд!
-thankyou-discount-6 = При загрузке оно так и выглядело, клянёмся!
-thankyou-discount-7 = Ага, удачи с этим.
-thankyou-discount-8 = Наслаждайтесь своими, ээ... "снеками".
+thankyou-discount-6 = Клянёмся, оно так выглядело ещё при загрузке!
+thankyou-discount-7 = Ага, удачи вам с этим.
+thankyou-discount-8 = Наслаждайтесь своим, э-э... «перекусом».

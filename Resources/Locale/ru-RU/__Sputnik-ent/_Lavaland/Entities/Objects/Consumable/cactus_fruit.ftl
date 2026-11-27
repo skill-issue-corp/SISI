@@ -1,2 +1,2 @@
-ent-FoodMealCactusFruit = плод кактуса
+ent-FoodMealCactusFruit = плодоносящие кактусы
     .desc = Плод кактуса с толстой красноватой кожурой. И немного пепла.

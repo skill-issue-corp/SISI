@@ -1,7 +1,6 @@
-xenomorph-caste-larva = Грудолом
+xenomorph-caste-larva = Личинка
 xenomorph-caste-drone = Дрон
 xenomorph-caste-hunter = Охотник
-xenomorph-caste-sentinel = Плевальщик
-xenomorph-caste-maid = Ксеномейдочка
+xenomorph-caste-sentinel = Страж
 xenomorph-caste-praetorian = Преторианец
 xenomorph-caste-queen = Королева

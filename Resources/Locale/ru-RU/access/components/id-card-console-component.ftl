@@ -9,18 +9,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-id-card-console-window-privileged-id = Основная ID:
-id-card-console-window-target-id = Целевая ID:
+id-card-console-window-privileged-id = Карта с Допуском:
+id-card-console-window-target-id = Редактируемая Карта:
 id-card-console-window-full-name-label = Полное имя:
 id-card-console-window-save-button = Сохранить
-id-card-console-window-job-title-label = Должность:
+id-card-console-window-job-title-label = Название должности:
 id-card-console-window-eject-button = Извлечь
 id-card-console-window-insert-button = Вставить
-id-card-console-window-job-selection-label = Предустановки должностей (задаёт иконку отдела и должности):
-id-card-console-window-select-all-button = Выдать всё
-id-card-console-window-deselect-all-button = Отозвать всё
+id-card-console-window-job-selection-label = Шаблон должности (задаёт отдел и значок должности):
+id-card-console-window-select-all-button = Выдать все допуски
+id-card-console-window-deselect-all-button = Отозвать все допуски
 
 access-id-card-console-component-no-hands-error = У вас нет рук.
-id-card-console-privileged-id = Основная ID
-id-card-console-target-id = Целевая ID
-id-card-console-damaged = Нарушение структурной целостности, выброс содержимого.
+id-card-console-privileged-id = Карта с Допуском
+id-card-console-target-id = Редактируемая Карта
+id-card-console-damaged = Нарушена целостность корпуса. Содержимое извлекается.

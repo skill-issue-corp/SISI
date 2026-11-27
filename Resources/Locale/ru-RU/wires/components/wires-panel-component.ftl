@@ -1,5 +1,15 @@
-wires-panel-component-on-examine-open = [color=lightgray]Техническая панель[/color] [color=red]открыта[/color].
-wires-panel-component-on-examine-closed = [color=lightgray]Техническая панель[/color] [color=darkgreen]закрыта[/color].
+# SPDX-FileCopyrightText: 2023 Slava0135 <40753025+Slava0135@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+#
+# SPDX-License-Identifier: MIT
+
+wires-panel-component-on-examine-open = [color=lightgray]Сервисная панель[/color] [color=red]открыта[/color].
+wires-panel-component-on-examine-closed = [color=lightgray]Сервисная панель[/color] [color=darkgreen]закрыта[/color].
+
+wires-panel-verb-view-panel = Осмотреть сервисную панель
+
+# wire colors
+
 wire-name-color-red = Красный
 wire-name-color-blue = Синий
 wire-name-color-green = Зелёный
@@ -11,7 +21,8 @@ wire-name-color-cyan = Голубой
 wire-name-color-navy = Тёмно-синий
 wire-name-color-purple = Фиолетовый
 wire-name-color-pink = Розовый
-wire-name-color-fuchsia = Пурпурный
+wire-name-color-fuchsia = Фуксия
+
 # letter names
 wire-letter-name-alpha = Альфа
 wire-letter-name-beta = Бета

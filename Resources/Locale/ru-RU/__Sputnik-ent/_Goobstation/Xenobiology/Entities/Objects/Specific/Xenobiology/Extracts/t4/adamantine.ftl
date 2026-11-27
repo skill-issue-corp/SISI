@@ -1,2 +1,2 @@
-ent-AdamantineSlimeExtract = адамантиевый экстракт слайма
+ent-AdamantineSlimeExtract = экстракт адамантинового слайма
     .desc = { ent-BaseSlimeExtract.desc }

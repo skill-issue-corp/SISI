@@ -1,4 +1,4 @@
-fibers-red-and-black-woven = красно-чёрные плетёные
-fibers-blue-and-black-woven = сине-чёрные плетёные
-fibers-maroon = тёмно-бордовые
+fibers-red-and-black-woven = красно-чёрные тканые
+fibers-blue-and-black-woven = сине-чёрные тканые
+fibers-maroon = бордовые
 fibers-pink = розовые

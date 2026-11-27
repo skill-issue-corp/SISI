@@ -1,9 +1,9 @@
 ent-AmeController = контроллер ДАМ
-    .desc = Это контроллер для двигателя антиматерии.
+    .desc = Контроллер двигателя антиматерии.
 
 ent-AmeControllerUnanchored = { ent-AmeController }
-    .suffix = Не закреплено
     .desc = { ent-AmeController.desc }
+    .suffix = Откреплено
 
 ent-AmeShielding = экранирование ДАМ
-    .desc = Впускает антиматерию и выпускает материю.
+    .desc = Антиматерию держит внутри, материю - снаружи.

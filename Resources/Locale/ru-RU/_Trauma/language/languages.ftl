@@ -1,8 +1,8 @@
 language-Codespeak-name = Кодоречь
-language-Codespeak-description = Секретный код, который для непосвящённых слушателей звучит как бессмысленный набор слов.
+language-Codespeak-description = Для непосвящённых этот тайный код звучит как бессмыслица.
 
 language-Miltech-name = Милтех
-language-Miltech-description = Секретный код, который фабрики биооружия используют для отдачи приказов своим созданиям.
+language-Miltech-description = Тайный код, на котором производители биооружия отдают приказы своим творениям.
 
 language-Zombish-name = Зомбояз
 language-Zombish-description = Невнятное мычание. Мозги...

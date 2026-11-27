@@ -1,44 +1,44 @@
-ent-FoodSoupBingle = суп «Бингл»
-    .desc = Почему-то теперь пахнет ещё хуже.
+ent-FoodSoupBingle = суп из бингла
+    .desc = Каким-то образом теперь пахнет ещё хуже.
 
-ent-FoodSoupBlood = кровяной суп
-    .desc = Популярен среди русских.
+ent-FoodSoupBlood = суп из крови
+    .desc = Популярен у Русских.
 
-ent-FoodBreadSandwich = хлебный сэндвич
-    .desc = Кусок хлеба, зажатый между двумя кусками хлеба.
+ent-FoodBreadSandwich = хлебный бутерброд
+    .desc = Кусок хлеба между двумя кусками хлеба.
 
-ent-FoodChickenParm = курица пармезан
-    .desc = 4 апреля, 19:30.
+ent-FoodChickenParm = курица с пармезаном
+    .desc = 4 апреля, 7:30 вечера.
 
-ent-FoodCornDog = кон-дог
-    .desc = глиззи в кляре
+ent-FoodCornDog = корн-дог
+    .desc = сосиска в кляре
 
 ent-FoodHotDog = хот-дог
-    .desc = глиззи без кляра
+    .desc = сосиска без кляра
 
-ent-FoodEggToast = яйцо на тосте
+ent-FoodEggToast = тост с яйцом
     .desc = Это яйцо на тосте!
 
 ent-FoodEggRaw = сырое яйцо
     .desc = Оно сырое!
 
 ent-FoodEggFried = яичница
-    .desc = Есть безопасно и вкусно!
+    .desc = Есть можно, да ещё и вкусно!
 
-ent-FoodFairyBread = «хлеб феи»
+ent-FoodFairyBread = сказочный хлеб
     .desc = Из Австралии.
 
 ent-FoodGoulash = гуляш
     .desc = Традиционное блюдо в Польше.
 
-ent-FoodOffal = субпродукты
-    .desc = Насыщенное блюдо из внутренних органов.
+ent-FoodOffal = потроха
+    .desc = Сытное блюдо из внутренних органов.
 
 ent-FoodRoastedMonkey = жареная обезьяна
-    .desc = Королевское пиршество! Родом из Бразилии!
+    .desc = Царское угощение! Родом из Бразилии!
 
 ent-FoodSausage = колбаса
-    .desc = Древнее блюдо, приготовленное из молотого мяса внутри кишки.
+    .desc = Древнее блюдо из фарша, приготовленного в кишке.
 
 ent-FoodSpire = ШПИЛЬ
-    .desc = Вавилонская башня возносится...
+    .desc = Вавилонская башня растёт...

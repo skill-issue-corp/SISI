@@ -1,23 +1,23 @@
-ent-MobHumanWizardDebug = маг
-    .suffix = DEBUG
+ent-MobHumanWizardDebug = Волшебник
     .desc = { ent-MobHuman.desc }
-
-ent-MobHumanWizardDebugSuit = маг (костюм)
     .suffix = DEBUG
+
+ent-MobHumanWizardDebugSuit = Волшебник в Одеянии
     .desc = { ent-MobHumanWizardDebug.desc }
-
-ent-MobHumanHereticArmor = Урист МакБес
     .suffix = DEBUG
-    .desc = { ent-MobHuman.desc }
 
-ent-MobHumanCaptainHardsuit = Урист МакЮденич (скафандр)
-    .suffix = DEBUG
+ent-MobHumanHereticArmor = Урист Еретик
     .desc = { ent-MobHuman.desc }
+    .suffix = DEBUG
 
-ent-MobHumanCaptainModsuit = Урист МакЮденич (MOD)
-    .suffix = DEBUG
+ent-MobHumanCaptainHardsuit = Урист МакКапитан
     .desc = { ent-MobHuman.desc }
+    .suffix = DEBUG
 
-ent-MobHumanCaptainDebug = Урист МакЮденич
-    .suffix = DEBUG
+ent-MobHumanCaptainModsuit = Урист МакКапитан Могсьют
     .desc = { ent-MobHuman.desc }
+    .suffix = DEBUG
+
+ent-MobHumanCaptainDebug = Урист МакКапитан
+    .desc = { ent-MobHuman.desc }
+    .suffix = DEBUG

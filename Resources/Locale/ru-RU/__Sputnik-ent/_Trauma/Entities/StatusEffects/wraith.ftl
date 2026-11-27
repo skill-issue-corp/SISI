@@ -1,2 +1,2 @@
-ent-WraithWeaknessSlowdownStatusEffect = замедление от истощения
+ent-WraithWeaknessSlowdownStatusEffect = замедление от ослабления
     .desc = { ent-StatusEffectSlowdown.desc }

@@ -1,7 +1,7 @@
-ent-SodaDispenserEmpty = { ent-SodaDispenser }
-    .suffix = Пустой
-    .desc = { ent-SodaDispenser.desc }
+ent-SodaDispenserEmpty = раздатчик газировки
+    .desc = Раздатчик нескольких видов газировки и других популярных напитков. Один слот для наполнения ёмкостей.
+    .suffix = Пусто
 
-ent-SodaDispenser = раздатчик безалкоголя
-    .desc = Разливочный автомат с ассортиментом из газировки и ряда других популярных напитков. Имеет один слот для ёмкостей.
-    .suffix = Заполненный
+ent-SodaDispenser = { ent-SodaDispenserEmpty }
+    .desc = { ent-SodaDispenserEmpty.desc }
+    .suffix = Заполнено

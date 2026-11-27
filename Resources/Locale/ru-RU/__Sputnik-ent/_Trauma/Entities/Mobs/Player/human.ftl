@@ -1,4 +1,5 @@
-ent-MobHumanSyndicateAgentGrenadier = гренадёр Синдиката
+ent-MobHumanSyndicateAgentGrenadier = гренадёр синдиката
     .desc = { ent-MobHumanSyndicateAgent.desc }
-ent-MobHumanSyndicateAgentHitman = киллер Синдиката
+
+ent-MobHumanSyndicateAgentHitman = киллер синдиката
     .desc = { ent-MobHumanSyndicateAgent.desc }

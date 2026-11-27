@@ -1,20 +1,26 @@
-ent-PaperAcquisitionSlip = квитанция о приобретении
-    .desc = Квитанция с деталями заказа. Её можно отдать в отдел снабжения, чтобы завершить заказ.
+ent-PaperAcquisitionSlip = бланк заказа
+    .desc = Бланк с деталями заказа. Передайте его в Карго, чтобы завершить заказ.
+
 ent-PaperAcquisitionSlipMedical = { ent-PaperAcquisitionSlip }
-    .suffix = Медицинский
     .desc = { ent-PaperAcquisitionSlip.desc }
+    .suffix = Медотсек
+
 ent-PaperAcquisitionSlipScience = { ent-PaperAcquisitionSlip }
-    .suffix = Научный
     .desc = { ent-PaperAcquisitionSlip.desc }
+    .suffix = Наука
+
 ent-PaperAcquisitionSlipSecurity = { ent-PaperAcquisitionSlip }
-    .suffix = СБ
     .desc = { ent-PaperAcquisitionSlip.desc }
+    .suffix = Служба Безопасности
+
 ent-PaperAcquisitionSlipService = { ent-PaperAcquisitionSlip }
-    .suffix = Сервис
     .desc = { ent-PaperAcquisitionSlip.desc }
+    .suffix = Обслуживание
+
 ent-PaperAcquisitionSlipCargo = { ent-PaperAcquisitionSlip }
-    .suffix = Снабжение
     .desc = { ent-PaperAcquisitionSlip.desc }
+    .suffix = Карго
+
 ent-PaperAcquisitionSlipEngineering = { ent-PaperAcquisitionSlip }
-    .suffix = Инженерный
     .desc = { ent-PaperAcquisitionSlip.desc }
+    .suffix = Инженерный Отдел

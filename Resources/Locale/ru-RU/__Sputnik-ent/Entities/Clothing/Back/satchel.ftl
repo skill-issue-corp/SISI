@@ -1,60 +1,60 @@
 ent-ClothingBackpackSatchel = сумка
-    .desc = Модная сумка.
+    .desc = Сумка модного вида.
 
 ent-ClothingBackpackSatchelLeather = кожаная сумка
-    .desc = Модная сумка из ушедшей эпохи.
+    .desc = Сумка из ушедшей эпохи, когда она задавала моду.
 
-ent-ClothingBackpackSatchelEngineering = сумка инженера
+ent-ClothingBackpackSatchelEngineering = инженерная сумка
     .desc = Прочная сумка с дополнительными карманами.
 
-ent-ClothingBackpackSatchelAtmospherics = сумка атмос-инженера
-    .desc = Прочная сумка из огнестойких волокон. Пахнет плазмой.
+ent-ClothingBackpackSatchelAtmospherics = сумка атмосферного техника
+    .desc = Прочная сумка из огнестойкого волокна. Пахнет плазмой.
 
 ent-ClothingBackpackSatchelClown = сумка клоуна
     .desc = Чтобы быстро убегать от охраны.
 
 ent-ClothingBackpackSatchelMime = сумка мима
-    .desc = Сумка, предназначенная для тихого и выразительного искусства мимики.
+    .desc = Сумка для безмолвного и выразительного искусства пантомимы.
 
-ent-ClothingBackpackSatchelMedical = сумка медика
-    .desc = Стерильная сумка, используемая в медицинских отсеках.
+ent-ClothingBackpackSatchelMedical = медицинская сумка
+    .desc = Стерильная сумка, которую используют в медицинских отделах.
 
 ent-ClothingBackpackSatchelChemistry = сумка химика
-    .desc = Стерильная сумка аптечной расцветки.
+    .desc = Стерильная сумка в цветах химика.
 
 ent-ClothingBackpackSatchelVirology = сумка вирусолога
-    .desc = Сумка, изготовленная из гипоаллергенных волокон. Она предназначена для предотвращения распространения болезней. Пахнет обезьянами.
+    .desc = Сумка из гипоаллергенных волокон. Помогает остановить распространение болезней. Пахнет обезьяной.
 
 ent-ClothingBackpackSatchelGenetics = сумка генетика
-    .desc = Стерильная сумка расцветки генетического подотдела.
+    .desc = Стерильная сумка в цветах генетика.
 
-ent-ClothingBackpackSatchelScience = сумка учёного
-    .desc = Пригодится для хранения материалов для исследований.
+ent-ClothingBackpackSatchelScience = научная сумка
+    .desc = Подходит для хранения исследовательских материалов.
 
-ent-ClothingBackpackSatchelSecurity = сумка охраны
-    .desc = Прочная сумка для нужд службы безопасности.
+ent-ClothingBackpackSatchelSecurity = сумка службы безопасности
+    .desc = Робастная сумка для нужд службы безопасности.
 
 ent-ClothingBackpackSatchelBrigmedic = сумка бригмедика
     .desc = Стерильная сумка для медицинских нужд.
 
 ent-ClothingBackpackSatchelCaptain = сумка капитана
-    .desc = Это особая сумка, изготовленная исключительно для офицеров NanoTrasen.
+    .desc = Только для офицеров NanoTrasen.
 
 ent-ClothingBackpackSatchelHydroponics = сумка ботаника
-    .desc = Сумка, изготовленная только из натуральных волокон.
+    .desc = Сумка из полностью натуральных волокон.
 
-ent-ClothingBackpackSatchelCargo = сумка грузчика
-    .desc = Прочная сумка для воровства добычи.
+ent-ClothingBackpackSatchelCargo = сумка карго
+    .desc = Робастная сумка для кражи добычи карго.
 
 ent-ClothingBackpackSatchelSalvage = сумка утилизатора
-    .desc = Прочная сумка для хранения добычи.
+    .desc = Робастная сумка, чтобы прятать добычу.
 
 ent-ClothingBackpackSatchelNinja = сумка клана паука
-    .desc = Прочная сумка для хранения добычи.
+    .desc = Робастная сумка, чтобы прятать добычу.
 
-ent-ClothingBackpackSatchelHolding = бездонная сумка
-    .desc = Сумка, открывающаяся в локальный карман блюспейса.
+ent-ClothingBackpackSatchelHolding = блюспейс-сумка
+    .desc = Сумка, открывающаяся в небольшой карман блюспейса.
 
-ent-ClothingBackpackSatchelAdmin = сумка админа
-    .desc = Если вы как-то это увидели, то вам показалось.
-    .suffix = Адмем
+ent-ClothingBackpackSatchelAdmin = сумка администрации
+    .desc = Если вы каким-то образом это видите, то вам показалось.
+    .suffix = Администрация

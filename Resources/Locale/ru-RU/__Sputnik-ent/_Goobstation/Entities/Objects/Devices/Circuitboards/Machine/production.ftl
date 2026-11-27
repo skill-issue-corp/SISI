@@ -1,31 +1,23 @@
-ent-EngineeringTechFabCircuitboard = инженерный ТехФаб (машинная плата)
-    .desc = { ent-BaseMachineCircuitboard.desc }
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-EngineeringTechFabCircuitboard = плата инженерного техфаба
+    .desc = Печатная плата инженерного техфаба.
 
-ent-CargoTechFabCircuitboard = ТехФаб снабжения (машинная плата)
-    .desc = { ent-BaseMachineCircuitboard.desc }
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-CargoTechFabCircuitboard = плата техфаба карго
+    .desc = Печатная плата техфаба карго.
 
-ent-ScienceTechFabCircuitboard = научный ТехФаб (машинная плата)
-    .desc = { ent-BaseMachineCircuitboard.desc }
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-ScienceTechFabCircuitboard = плата научного техфаба
+    .desc = Печатная плата научного техфаба.
 
-ent-ServiceTechFabCircuitboard = сервисный ТехФаб (машинная плата)
-    .desc = { ent-BaseMachineCircuitboard.desc }
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-ServiceTechFabCircuitboard = плата сервисного техфаба
+    .desc = Печатная плата сервисного техфаба.
 
-ent-TeslaCoilCircuitboard = катушка теслы (машинная плата)
+ent-TeslaCoilCircuitboard = плата катушки теслы
     .desc = { ent-BaseMachineCircuitboard.desc }
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
 
-ent-RadiationCollectorCircuitboard = коллектор радиации (машинная плата)
+ent-RadiationCollectorCircuitboard = плата коллектора радиации
     .desc = { ent-BaseMachineCircuitboard.desc }
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
 
-ent-EnergyChemDispenserMachineCircuitboard = энергетический раздатчик химикатов (машинная плата)
-    .desc = { ent-BaseMachineCircuitboard.desc }
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-EnergyChemDispenserMachineCircuitboard = плата энергетического раздатчика химикатов
+    .desc = Печатная плата энергетического раздатчика химикатов.
 
-ent-TelecomTransmitterCircuitboard = телекоммуникационный передатчик (машинная плата)
-    .desc = { ent-BaseMachineCircuitboard.desc }
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-TelecomTransmitterCircuitboard = плата телекоммуникационного передатчика
+    .desc = Печатная плата телекоммуникационного передатчика.

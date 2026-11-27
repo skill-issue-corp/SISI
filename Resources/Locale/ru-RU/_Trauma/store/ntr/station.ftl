@@ -1,8 +1,8 @@
-ntr-executive-cargo-bingle-name = Призвать грузового Бингла
-ntr-executive-cargo-bingle-desc = После поимки у бездонных Бинглов удаляют острые зубы и перевозят их по станциям для помощи с переноской тяжёлых грузов. Их эмоциональное благополучие игнорируется.
+ntr-executive-cargo-bingle-name = Вызвать грузового бингла
+ntr-executive-cargo-bingle-desc = Пойманным бинглам без ямы удаляют острые зубы и перевозят их по станциям для помощи с тяжёлыми грузами. Их эмоциональное благополучие никого не волнует.
 
-ntr-executive-eva-crate-name = Ящик скафандров EVA
-ntr-executive-eva-crate-desc = Ящик с 3 парами скафандров EVA, чтобы сохранить жизнь вам и вашим людям в катастрофической ситуации.
+ntr-executive-eva-crate-name = Ящик EVA
+ntr-executive-eva-crate-desc = В ящике 3 пары скафандров EVA, чтобы вы и ваши люди выжили в катастрофе.
 
-ntr-executive-mindshield-name = Ящик имплантов щита разума
-ntr-executive-mindshield-desc = Ящик с 3 имплантами щита разума. Корпорация всё равно советует покупать их в отделе снабжения.
+ntr-executive-mindshield-name = Ящик Щитов Разума
+ntr-executive-mindshield-desc = В ящике 3 импланта «щит разума». Корпорация всё равно рекомендует покупать их в карго.

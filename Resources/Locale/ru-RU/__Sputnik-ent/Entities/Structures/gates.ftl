@@ -1,41 +1,41 @@
-ent-LogicEmptyCircuit = пустая плата
-    .desc = Кажется, чего-то не хватает.
+ent-LogicEmptyCircuit = пустая схема
+    .desc = Похоже, чего-то не хватает.
 
-ent-BaseLogicItem = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
+ent-BaseLogicItem = { ent-LogicEmptyCircuit }
+    .desc = { ent-LogicEmptyCircuit.desc }
 
 ent-LogicGateOr = логический элемент
-    .desc = Логический элемент с двумя портами на вход и одним на выход. Можно изменить логическую операцию с помощью отвёртки.
-    .suffix = ИЛИ
+    .desc = Логический элемент с двумя входами и одним выходом. Техник может сменить режим работы отвёрткой.
+    .suffix = Или
 
 ent-LogicGateAnd = { ent-LogicGateOr }
-    .suffix = И
     .desc = { ent-LogicGateOr.desc }
+    .suffix = И
 
 ent-LogicGateXor = { ent-LogicGateOr }
-    .suffix = Исключающее ИЛИ
     .desc = { ent-LogicGateOr.desc }
+    .suffix = ИсклИли
 
 ent-LogicGateNor = { ent-LogicGateOr }
-    .suffix = ИЛИ-НЕ
     .desc = { ent-LogicGateOr.desc }
+    .suffix = НеИли
 
 ent-LogicGateNand = { ent-LogicGateOr }
-    .suffix = И-НЕ
     .desc = { ent-LogicGateOr.desc }
+    .suffix = НеИ
 
 ent-LogicGateXnor = { ent-LogicGateOr }
-    .suffix = Исключающее ИЛИ-НЕ
     .desc = { ent-LogicGateOr.desc }
+    .suffix = НеИсклИли
 
-ent-EdgeDetector = детектор сигнала
-    .desc = Определяет уровень сигнала и разделяет его. Устройство игнорирует импульсные сигналы.
+ent-EdgeDetector = детектор фронтов
+    .desc = Преобразует передний и задний фронты в разные импульсы и определяет, насколько вы остры на язык.
 
 ent-PowerSensor = датчик питания
-    .desc = Генерирует сигналы в ответ на изменение напряжения в сети. Может циклически переключаться между напряжениями кабеля.
+    .desc = Генерирует сигналы при изменениях электросети. Можно переключать между напряжениями кабелей.
 
 ent-MemoryCell = ячейка памяти
-    .desc = Схема D-триггер защелки, хранящая сигнал, который может быть изменён в зависимости от входного и разрешающего портов.
+    .desc = Схема D-защёлки, которая хранит сигнал и изменяет его в зависимости от входа данных и входа разрешения.
 
-ent-RandomGate = случайный логический элемент
-    .desc = Логический элемент, выдающий случайный сигнал при изменении входного сигнала.
+ent-RandomGate = случайный элемент
+    .desc = Логический элемент, выдающий случайный сигнал при изменении входа.

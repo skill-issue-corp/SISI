@@ -1,5 +1,5 @@
-ent-ClothingOuterArmorAbductor = жилет агента-абдуктора
+ent-ClothingOuterArmorAbductor = жилет агента
     .desc = { ent-ClothingOuterBase.desc }
 
 ent-ClothingOuterCoatAbductor = инопланетный лабораторный халат
-    .desc = Халат инопланетного происхождения, защищающий от различных травм, а также от разливов химических веществ.
+    .desc = Костюм инопланетного происхождения, защищающий от различных травм и проливов химикатов.

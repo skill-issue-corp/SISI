@@ -1,1 +1,1 @@
-slot-block-component-blocked = { $item } блокирует данный слот!
+slot-block-component-blocked = Эту ячейку блокирует {$item}!

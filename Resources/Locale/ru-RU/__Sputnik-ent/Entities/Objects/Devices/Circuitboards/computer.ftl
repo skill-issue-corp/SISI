@@ -1,149 +1,149 @@
 ent-BaseComputerCircuitboard = консольная плата
     .desc = { ent-BaseItem.desc }
 
-ent-AlertsComputerCircuitboard = консоль атмосферной сигнализации (консольная плата)
-    .desc = Консольная плата для консоли атмосферной сигнализации.
+ent-AlertsComputerCircuitboard = плата консоли атмосферной сигнализации
+    .desc = Печатная плата для консоли атмосферной сигнализации.
 
-ent-AtmosMonitoringComputerCircuitboard = консоль мониторинга атмосферной сети (консольная плата)
-    .desc = Консольная плата для консоли мониторинга атмосферной сети.
+ent-AtmosMonitoringComputerCircuitboard = плата мониторинга атмосферной сети
+    .desc = Печатная плата для мониторинга атмосферной сети.
 
-ent-PowerComputerCircuitboard = консоль контроля питания (консольная плата)
-    .desc = Консольная плата для консоли контроля питания.
+ent-PowerComputerCircuitboard = плата консоли мониторинга питания
+    .desc = Печатная плата для консоли мониторинга питания.
 
-ent-MedicalRecordsComputerCircuitboard = консоль медицинских карт (консольная плата)
-    .desc = Консольная плата для консоли медицинских карт.
+ent-MedicalRecordsComputerCircuitboard = плата консоли медицинских записей
+    .desc = Печатная плата для консоли медицинских записей.
 
-ent-CriminalRecordsComputerCircuitboard = консоль криминальных записей (консольная плата)
-    .desc = Консольная плата для консоли криминальных записей.
+ent-CriminalRecordsComputerCircuitboard = плата консоли криминальных записей
+    .desc = Печатная плата для консоли криминальных записей.
 
-ent-StationRecordsComputerCircuitboard = консоль станционного учёта (консольная плата)
-    .desc = Консольная плата для консоли станционного учёта.
+ent-StationRecordsComputerCircuitboard = плата консоли станционных записей
+    .desc = Печатная плата для консоли станционных записей.
 
-ent-CargoRequestComputerCircuitboard = консоль заказа грузов (консольная плата)
-    .desc = Консольная плата для консоли заказа грузов.
+ent-CargoRequestComputerCircuitboard = плата консоли запросов карго
+    .desc = Печатная плата для консоли запросов карго.
 
-ent-CargoRequestEngineeringComputerCircuitboard = инженерная консоль заказа грузов (консольная плата)
-    .desc = Консольная плата для инженерной консоли заказа грузов.
+ent-CargoRequestEngineeringComputerCircuitboard = плата консоли запросов инженерного отдела
+    .desc = Печатная плата для консоли запросов инженерного отдела.
 
-ent-CargoRequestMedicalComputerCircuitboard = медицинская консоль заказа грузов (консольная плата)
-    .desc = Консольная плата для медицинской консоли заказа грузов.
+ent-CargoRequestMedicalComputerCircuitboard = плата консоли запросов медотсека
+    .desc = Печатная плата для консоли запросов медотсека.
 
-ent-CargoRequestScienceComputerCircuitboard = научная консоль заказа грузов (консольная плата)
-    .desc = Консольная плата для научной консоли заказа грузов.
+ent-CargoRequestScienceComputerCircuitboard = плата консоли запросов научного отдела
+    .desc = Печатная плата для консоли запросов научного отдела.
 
-ent-CargoRequestSecurityComputerCircuitboard = охранная консоль заказа грузов (консольная плата)
-    .desc = Консольная плата для охранной консоли заказа грузов.
+ent-CargoRequestSecurityComputerCircuitboard = плата консоли запросов службы безопасности
+    .desc = Печатная плата для консоли запросов службы безопасности.
 
-ent-CargoRequestServiceComputerCircuitboard = сервисная консоль заказа грузов (консольная плата)
-    .desc = Консольная плата для сервисной консоли заказа грузов.
+ent-CargoRequestServiceComputerCircuitboard = плата консоли запросов сервиса
+    .desc = Печатная плата для консоли запросов сервиса.
 
-ent-FundingAllocationComputerCircuitboard = консоль распределения средств (консольная плата)
-    .desc = Консольная плата для консоли распределения средств.
+ent-FundingAllocationComputerCircuitboard = плата консоли распределения финансирования
+    .desc = Печатная плата для консоли карт распределения финансирования.
 
-ent-CargoSaleComputerCircuitboard = консоль продажи товаров (консольная плата)
-    .desc = Консольная плата для консоли продажи товаров.
+ent-CargoSaleComputerCircuitboard = плата консоли продаж карго
+    .desc = Печатная плата для консоли продаж карго.
 
-ent-CargoBountyComputerCircuitboard = консоль запросов (консольная плата)
-    .desc = Консольная плата для консоли запросов.
+ent-CargoBountyComputerCircuitboard = плата консоли заказов карго
+    .desc = Печатная плата для консоли заказов карго.
 
-ent-SalvageJobBoardComputerCircuitboard = доска утилизаторских работ (консольная плата)
-    .desc = Консольная плата для консоли с доской утилизаторских работ.
+ent-SalvageJobBoardComputerCircuitboard = плата консоли доски заданий утилизаторов
+    .desc = Печатная плата для консоли доски заданий утилизаторов.
 
-ent-SalvageExpeditionsComputerCircuitboard = консоль утилизаторских экспедиций (консольная плата)
-    .desc = Консольная плата для консоли утилизаторских экспедиций.
+ent-SalvageExpeditionsComputerCircuitboard = плата консоли экспедиций утилизаторов
+    .desc = Печатная плата для консоли экспедиций утилизаторов.
 
-ent-CargoShuttleConsoleCircuitboard = консоль управления грузовым шаттлом (консольная плата)
-    .desc = Консольная плата для консоли управления грузовым шаттлом.
+ent-CargoShuttleConsoleCircuitboard = плата консоли грузового шаттла
+    .desc = Печатная плата для консоли грузового шаттла.
 
-ent-SurveillanceCameraMonitorCircuitboard = монитор камер наблюдения (консольная плата)
-    .desc = Консольная плата для монитора камер наблюдения.
+ent-SurveillanceCameraMonitorCircuitboard = плата монитора камер наблюдения
+    .desc = Печатная плата для монитора камер наблюдения.
 
-ent-SurveillanceWirelessCameraMonitorCircuitboard = монитор беспроводных камер наблюдения (консольная плата)
-    .desc = Консольная плата для монитора беспроводных камер наблюдения.
+ent-SurveillanceWirelessCameraMonitorCircuitboard = плата монитора беспроводных камер наблюдения
+    .desc = Печатная плата для монитора беспроводных камер наблюдения.
 
-ent-XenoborgCameraMonitorCircuitboard = плата монитора камер ксеноборга
-    .desc = Компьютерная печатная плата для монитора камер ксеноборга.
+ent-XenoborgCameraMonitorCircuitboard = плата монитора камер ксеноборгов
+    .desc = Печатная плата для монитора камер ксеноборгов.
 
-ent-ComputerTelevisionCircuitboard = телевизор (консольная плата)
-    .desc = Консольная плата для телевизора.
+ent-ComputerTelevisionCircuitboard = плата телевизора
+    .desc = Печатная плата для телевизора.
 
-ent-ResearchComputerCircuitboard = консоль исследований (консольная плата)
-    .desc = Консольная плата для консоль исследований.
+ent-ResearchComputerCircuitboard = плата консоли НиО
+    .desc = Печатная плата для консоли НиО.
 
-ent-AnalysisComputerCircuitboard = аналитическая консоль (консольная плата)
-    .desc = Консольная плата для аналитической консоли.
+ent-AnalysisComputerCircuitboard = плата консоли анализа
+    .desc = Печатная плата для консоли анализа.
 
-ent-TechDiskComputerCircuitboard = терминал технологических дисков (консольная плата)
-    .desc = Консольная плата для терминала технологических дисков.
+ent-TechDiskComputerCircuitboard = плата терминала дисков технологий
+    .desc = Печатная плата для терминала дисков технологий.
 
-ent-CrewMonitoringComputerCircuitboard = консоль мониторинга экипажа (консольная плата)
-    .desc = Консольная плата для консоли мониторинга экипажа.
+ent-CrewMonitoringComputerCircuitboard = плата консоли мониторинга экипажа
+    .desc = Печатная плата для консоли мониторинга экипажа.
 
-ent-IDComputerCircuitboard = консоль ID-карт (консольная плата)
-    .desc = Консольная плата для консоли ID-карт.
+ent-IDComputerCircuitboard = плата консоли ID-карт
+    .desc = Печатная плата для консоли ID-карт.
 
-ent-BodyScannerComputerCircuitboard = консоль сканера тела (консольная плата)
-    .desc = Консольная плата для консоли сканера тела.
+ent-BodyScannerComputerCircuitboard = плата консоли сканера тела
+    .desc = Печатная плата для консоли сканера тела.
 
-ent-CommsComputerCircuitboard = консоль связи (консольная плата)
-    .desc = Консольная плата для консоли связи.
+ent-CommsComputerCircuitboard = плата консоли связи
+    .desc = Печатная плата для консоли связи.
 
-ent-SyndicateCommsComputerCircuitboard = консоль связи Синдиката (консольная плата)
-    .desc = Консольная плата для консоли связи Синдиката.
+ent-SyndicateCommsComputerCircuitboard = плата консоли связи синдиката
+    .desc = Печатная плата для консоли связи синдиката.
 
-ent-CentcommCommsComputerCircuitboard = консоль связи ЦК(консольная плата)
-    .desc = Консольная плата для консоли связи Центрального командования.
+ent-CentcommCommsComputerCircuitboard = плата консоли связи центрального командования
+    .desc = Печатная плата для консоли связи центрального командования.
 
-ent-RadarConsoleCircuitboard = консоль сканера массы (консольная плата)
+ent-RadarConsoleCircuitboard = плата консоли сканера массы
     .desc = { ent-BaseComputerCircuitboard.desc }
 
-ent-SolarControlComputerCircuitboard = консоль контроля солнечных батарей (консольная плата)
-    .desc = Консольная плата для консоли контроля солнечных батарей.
+ent-SolarControlComputerCircuitboard = плата консоли управления солнечными панелями
+    .desc = Печатная плата для консоли управления солнечными панелями.
 
-ent-SpaceVillainArcadeComputerCircuitboard = аркада Космический злодей (консольная плата)
-    .desc = Консольная плата для аркады Космический злодей.
+ent-SpaceVillainArcadeComputerCircuitboard = плата игрового автомата «космический злодей»
+    .desc = Печатная плата для игрового автомата «космический злодей».
 
-ent-BlockGameArcadeComputerCircuitboard = аркада Блоки (консольная плата)
-    .desc = Консольная плата для аркады Блоки.
+ent-BlockGameArcadeComputerCircuitboard = плата игрового автомата с блоками
+    .desc = Печатная плата для игрового автомата с блоками.
 
-ent-ParticleAcceleratorComputerCircuitboard = консоль управления УЧ (консольная плата)
-    .desc = Консольная плата для консоли управления ускорителем частиц.
+ent-ParticleAcceleratorComputerCircuitboard = плата блока управления УЧ
+    .desc = Печатная плата для блока управления ускорителем частиц.
 
-ent-ShuttleConsoleCircuitboard = консоль управления шаттлом (консольная плата)
-    .desc = Консольная плата для консоли управления шаттлом.
+ent-ShuttleConsoleCircuitboard = плата консоли шаттла
+    .desc = Печатная плата для консоли шаттла.
 
-ent-SyndicateShuttleConsoleCircuitboard = консоль управления шаттлом Синдиката (консольная плата)
-    .desc = Консольная плата для консоли управления шаттлом Синдиката.
+ent-SyndicateShuttleConsoleCircuitboard = плата консоли шаттла синдиката
+    .desc = Печатная плата для консоли шаттла синдиката.
 
-ent-CloningConsoleComputerCircuitboard = консоль клонирования (консольная плата)
-    .desc = Консольная плата для консоли клонирования.
+ent-CloningConsoleComputerCircuitboard = плата консоли клонирования
+    .desc = Печатная плата для консоли клонирования.
 
-ent-ComputerIFFCircuitboard = консоль системы опознавания (консольная плата)
-    .desc = Позволяет управлять параметрами системы опознавания судна.
+ent-ComputerIFFCircuitboard = плата консоли системы опознавания
+    .desc = Позволяет управлять параметрами системы опознавания этого судна.
 
-ent-ComputerIFFSyndicateCircuitboard = консоль системы опознавания Синдиката (консольная плата)
-    .desc = Позволяет управлять параметрами скрытности и системы опознавания судна.
+ent-ComputerIFFSyndicateCircuitboard = плата консоли системы опознавания синдиката
+    .desc = Позволяет управлять параметрами системы опознавания и маскировки этого судна.
 
-ent-ComputerMassMediaCircuitboard = консоль управления новостями (консольная плата)
-    .desc = Отправьте своё послание миру!
+ent-ComputerMassMediaCircuitboard = плата консоли новостей
+    .desc = Напишите послание миру!
 
-ent-SensorConsoleCircuitboard = консоль мониторинга датчиков (консольная плата)
-    .desc = Консольная плата для консоли мониторинга датчиков.
+ent-SensorConsoleCircuitboard = плата консоли мониторинга датчиков
+    .desc = Печатная плата для консоли мониторинга датчиков.
 
-ent-RoboticsConsoleCircuitboard = консоль управления робототехникой (консольная плата)
-    .desc = Консольная плата для консоли управления робототехникой.
+ent-RoboticsConsoleCircuitboard = плата консоли управления робототехникой
+    .desc = Печатная плата для консоли управления робототехникой.
 
 ent-ComputerXenoborgsControlCircuitboard = плата консоли управления ксеноборгами
-    .desc = Компьютерная печатная плата для консоли управления ксеноборгами.
+    .desc = Печатная плата для консоли управления ксеноборгами.
 
-ent-StationAiUploadCircuitboard = консоль загрузки ИИ (консольная плата)
-    .desc = Консольная плата для консоли загрузки ИИ.
+ent-StationAiUploadCircuitboard = плата консоли загрузки ИИ
+    .desc = Печатная плата для консоли загрузки ИИ.
 
-ent-StationTeleportersControlCircuitboard = плата консоли управления телепортерами
-    .desc = Компьютерная печатная плата для консоли управления телепортером.
+ent-StationTeleportersControlCircuitboard = плата консоли управления телепортами
+    .desc = Печатная плата для консоли управления телепортами.
 
-ent-SyndicateTeleportersControlCircuitboard = плата консоли управления телепортерами Синдиката
-    .desc = Компьютерная печатная плата для консоли управления телепортером.
+ent-SyndicateTeleportersControlCircuitboard = плата консоли управления телепортами синдиката
+    .desc = Печатная плата для консоли управления телепортами.
 
 ent-StationAiFixerCircuitboard = плата консоли восстановления ИИ
-    .desc = Компьютерная печатная плата для консоли восстановления ИИ.
+    .desc = Печатная плата для консоли восстановления ИИ.

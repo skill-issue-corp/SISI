@@ -1,53 +1,53 @@
-ent-ClothingHandsGlovesChronoLegioneer = футуристические перчатки
-    .desc = Футуристические перчатки из неизвестного материала, не оставляющего никаких следов.
+ent-ClothingHandsGlovesChronoLegioneer = футуристичные перчатки
+    .desc = Футуристичные перчатки из неизвестного материала, не оставляющего следов
 
 ent-ClothingHandsGlovesChronoLegioneerUnremoveable = { ent-ClothingHandsGlovesChronoLegioneer }
     .desc = { ent-ClothingHandsGlovesChronoLegioneer.desc }
-    .suffix = Несъёмные
+    .suffix = Несъёмный
 
 ent-ClothingHandsGlovesExplosiveShock = { ent-ClothingHandsGlovesColorYellow }
     .desc = { ent-ClothingHandsGlovesColorYellow.desc }
-    .suffix = Взрывающиеся
+    .suffix = Взрывающийся
 
-ent-ClothingHandsGlovesDeathsquad = силовые перчатки mk-3 "редактор"
-    .desc = Пара высокотехнологичных перчаток, способных разрывать двери. Их выдвижные когти покрыты мощным нейротоксином.
+ent-ClothingHandsGlovesDeathsquad = силовые перчатки мк-3 «редактор»
+    .desc = Передовые перчатки, способные разрывать двери. Их выдвижные когти покрыты сильным нейротоксином.
     .suffix = НЕ МАППИТЬ
 
-ent-ClothingHandsGlovesAtmosInsulated = изолированные атмос-перчатки
-    .desc = Как обычные изолированные перчатки, но просто лучше, ведь они из отдела атмосферики.
+ent-ClothingHandsGlovesAtmosInsulated = изолирующие перчатки атмоса
+    .desc = Как обычные изолирующие перчатки, только лучше: они из Атмосферного Отсека.
 
 ent-ClothingHandsGlovesHeavyGoldenTrim = тяжёлые перчатки с золотой отделкой
-    .desc = Пара перчаток с золотой отделкой, изготовленных для сотрудников Центрального Командования. Эти изолированы.
+    .desc = Перчатки с золотой отделкой для персонала Центрального Командования. Эти изолирующие.
 
 ent-ClothingHandsGlovesGoldenTrim = перчатки с золотой отделкой
-    .desc = Пара перчаток с золотой отделкой, изготовленных для сотрудников Центрального Командования. Не изолированы.
+    .desc = Перчатки с золотой отделкой для персонала Центрального Командования. Без изоляции.
 
-ent-ClothingHandsGlovesConquest = вилтрумитский протез
+ent-ClothingHandsGlovesConquest = вильтрумитский протез
     .desc = Готовься к моему прибытию, червь.
 
-ent-ClothingHandsGlovesConquestUnremovable = вилтрумитский протез
+ent-ClothingHandsGlovesConquestUnremovable = вильтрумитский протез
     .desc = Готовься к моему прибытию, червь.
-    .suffix = Несъёмные
+    .suffix = Несъёмный
 
 ent-ClothingHandsGlovesColorYellowUnremovable = { ent-ClothingHandsGlovesColorYellow }
     .desc = { ent-ClothingHandsGlovesColorYellow.desc }
-    .suffix = Несъёмные
+    .suffix = Несъёмный
 
 ent-ClothingHandsKnuckleDustersBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
 ent-ClothingHandsKnuckleDusters = кастет
-    .desc = Прочный кастет из пласталя. Придаёт вашим ударам куда больше веса.
+    .desc = Прочный пласталевый кастет. Ваши удары станут гораздо увесистее.
 
 ent-ClothingHandsKnuckleDustersBrass = латунный кастет
-    .desc = Латунный кастет. Сделан так же, как делали раньше, и бьёт всё так же сильно.
+    .desc = Латунный кастет. Как в старые добрые времена, и бьёт всё так же больно.
 
-ent-ClothingHandsKnuckleDustersSyndicate = кастет Синдиката
-    .desc = Пласттитановый кастет с логотипом Синдиката. Настоящий мужчина забивает кого-нибудь до смерти именно таким.
+ent-ClothingHandsKnuckleDustersSyndicate = кастет синдиката
+    .desc = Пластитановый кастет с логотипом синдиката. Настоящий мужик таким и до смерти забьёт.
 
 ent-ClothingHandsKnuckleDustersQM = гравированный кастет квартирмейстера
-    .desc = Выкованный лучшими мастерами по заказу квартирмейстера, этот твёрдый и плотный кастет предназначен для нанесения костедробящих ударов и повреждения внутренних органов незадачливой жертвы.
+    .desc = Этот твёрдый увесистый кастет выковали лучшие мастера по заказу Квартирмейстера. Им можно крушить кости и повреждать внутренние органы несчастной жертвы.
     .suffix = НЕ МАППИТЬ
 
-ent-ClothingHandsKnuckleBoneCrushers = костедробители
-    .desc = Благословлены богами для того, чтобы сокрушать всех непокорных.
+ent-ClothingHandsKnuckleBoneCrushers = костоломы
+    .desc = Благословлены Богами, чтобы ломать всех непокорных.

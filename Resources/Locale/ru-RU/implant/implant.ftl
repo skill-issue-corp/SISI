@@ -21,32 +21,32 @@
 ## Implanter Attempt Messages
 
 # SIS-Fix_Loc Start
-implanter-component-implanting-target = {CAPITALIZE($user)} пытается имплантировать в вас что-то!
-implanter-component-draw-target = {CAPITALIZE($user)} пытается извлечь что-то из вас!
+implanter-component-implanting-target = {CAPITALIZE($user)} пытается ввести вам имплант!
+implanter-component-draw-target = {CAPITALIZE($user)} пытается что-то из вас извлечь!
 # SIS-Fix_Loc End
-implanter-component-implant-failed = { $implant } нельзя имплантировать в { $target }!
-implanter-draw-failed-permanent = { $implant } вросся в { $target } и не может быть удалён!
-implanter-draw-failed = Вы пытаетесь удалить имплант, но ничего не находите.
-implanter-draw-failed-catastrophically = Имплантер ничего не находит и катастрофически выходит из строя, впивая генетический материал в руку { $user }!
+implanter-component-implant-failed = Нельзя ввести {$implant} цели {$target}!
+implanter-draw-failed-permanent = Имплант {$implant} в теле {$target} сросся с { OBJECT($target) }. Извлечь его невозможно!
+implanter-draw-failed = Вы пытаетесь извлечь имплант, но ничего не находите.
+implanter-draw-failed-catastrophically = Имплантер ничего не находит и ломается, впрыскивая генетический материал в руку {$user}!
 # SIS-Fix_Loc Start
-implanter-component-implant-already = У {CAPITALIZE($target)} уже есть {$implant}!
+implanter-component-implant-already = {CAPITALIZE($target)} уже имеет имплант {$implant}!
 # SIS-Fix_Loc End
 
 ## UI
-implanter-set-draw-verb = Установить извлечение импланта
-implanter-set-draw-window = Установить извлечение импланта
-implanter-set-draw-info = Выберите тип импланта, который должен быть извлечён.
+implanter-set-draw-verb = Выбрать Извлекаемый Имплант
+implanter-set-draw-window = Выбрать Извлекаемый Имплант
+implanter-set-draw-info = Выберите тип импланта, который должен извлекать этот имплантер:
 implanter-set-draw-type = Тип импланта:
 
-implanter-draw-text = Извлечение
-implanter-inject-text = Установка
+implanter-draw-text = Извлечь
+implanter-inject-text = Ввести
 
 implanter-empty-text = Пусто
 
-implanter-label-inject = [color=green]{ $implantName }[/color]
-    Режим: [color=white]{ $modeString }[/color]
+implanter-label-inject = [color=green]{$implantName}[/color]
+    Режим: [color=white]{$modeString}[/color]
 
-implanter-label-draw = [color=red]{ $implantName }[/color]
-    Режим: [color=white]{ $modeString }[/color]
+implanter-label-draw = [color=red]{$implantName}[/color]
+    Режим: [color=white]{$modeString}[/color]
 
 implanter-contained-implant-text = [color=green]{$desc}[/color]

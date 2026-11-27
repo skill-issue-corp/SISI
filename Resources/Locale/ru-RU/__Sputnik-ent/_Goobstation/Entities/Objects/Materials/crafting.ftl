@@ -1,12 +1,15 @@
 ent-MaterialHexNut = стальная шестигранная гайка
-    .desc = Грубо произведённая стальная гайка.
-    .suffix = Полный
+    .desc = Грубо согнутая стальная гайка.
+    .suffix = Полностью заполнено
+
 ent-MaterialHexNutSingle = { ent-MaterialHexNut }
-    .suffix = Один
     .desc = { ent-MaterialHexNut.desc }
+    .suffix = Один предмет
+
 ent-MaterialScrew = стальной винт
-    .desc = Этот винт сильно заржавел, вы бы не хотели порезаться об него...
-    .suffix = Полный
+    .desc = Этот винт весь в ржавчине. Лучше о него не порезаться...
+    .suffix = Полностью заполнено
+
 ent-MaterialScrewSingle = { ent-MaterialScrew }
-    .suffix = Один
     .desc = { ent-MaterialScrew.desc }
+    .suffix = Один предмет

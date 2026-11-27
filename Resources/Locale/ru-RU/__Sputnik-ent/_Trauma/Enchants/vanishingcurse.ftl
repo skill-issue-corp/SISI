@@ -1,2 +1,2 @@
-ent-CurseVanishing = Проклятье Исчезновения
+ent-CurseVanishing = Проклятие Исчезновения
     .desc = { ent-BaseEnchant.desc }

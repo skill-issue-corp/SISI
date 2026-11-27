@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ingestion-blocker-block-smoke-examine = Эта маска оснащена боевыми фильтрами, которые блокируют попадание дыма, даже если внутренние системы выключены.
+ingestion-blocker-block-smoke-examine = Встроенные в маску боевые фильтры не дают вдыхать дым даже при отключённом кислородном снаряжении

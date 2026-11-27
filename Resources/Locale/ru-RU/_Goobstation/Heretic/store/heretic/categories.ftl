@@ -1,10 +1,10 @@
-store-heretic-path-ash = Путь пепла
-store-heretic-path-lock = Путь замка
-store-heretic-path-flesh = Путь плоти
-store-heretic-path-void = Путь пустоты
-store-heretic-path-rust = Путь ржавчины
-store-heretic-path-blade = Путь клинка
-store-heretic-path-cosmos = Путь космоса
+store-heretic-path-ash = Пепельный Путь
+store-heretic-path-lock = Путь Замка
+store-heretic-path-flesh = Путь Плоти
+store-heretic-path-void = Путь Пустоты
+store-heretic-path-rust = Путь Ржавчины
+store-heretic-path-blade = Путь Клинка
+store-heretic-path-cosmos = Путь Космоса
 store-heretic-path-special = Особые Знания
 store-heretic-path-side-t1 = Побочные Знания T1
 store-heretic-path-side-t2 = Побочные Знания T2

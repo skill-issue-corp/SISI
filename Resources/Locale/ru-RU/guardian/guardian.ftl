@@ -1,12 +1,12 @@
 ## Guardian host specific
 
-guardian-created = Вы чувствуете... Одержимость.
-guardian-already-present-invalid-creation = Вы НЕ переживёте заново ту одержимость!
-guardian-no-actions-invalid-creation = У вас нет возможности содержать в себе стража!
-guardian-activator-invalid-target = {CAPITALIZE($entity)} не способен принять в себя стража!
-guardian-no-soul = У вашего стража нет души.
-guardian-available = У вашего стража теперь есть душа.
-guardian-inside-container = Здесь не хватает места, чтобы высвободить стража!
+guardian-created = Кажется... вас преследует призрак.
+guardian-already-present-invalid-creation = Вы НЕ хотите переживать этот кошмар снова!
+guardian-no-actions-invalid-creation = Вы не можете стать носителем защитника!
+guardian-activator-invalid-target = {CAPITALIZE($entity)} не может стать носителем защитника!
+guardian-no-soul = У вашего защитника нет души.
+guardian-available = У вашего защитника появилась душа.
+guardian-inside-container = Здесь нет места, чтобы выпустить защитника!
 
 ## Injector specific
 guardian-injector-empty-invalid-creation = Инъектор пуст.
@@ -14,16 +14,16 @@ guardian-injector-empty-examine = [color=#ba1919]Инъектор пуст.[/col
 
 ## Guardian deck specific
 
-guardian-deck-invalid-creation = Колода может предоставить только одного стража за раз!
-guardian-deck-used-examine = [color=#ba1919]Магия колоды исчерпана.[/color]
+guardian-deck-invalid-creation = Колода позволяет призвать только одного защитника одновременно!
+guardian-deck-used-examine = [color=#ba1919]Магия колоды иссякла.[/color]
 
 ## Guardian entity specific
 
-guardian-entity-recall = Страж исчезает в воздухе!
-guardian-entity-taking-damage = Ваш страж получает урон!
+guardian-entity-recall = Защитник растворяется в воздухе!
+guardian-entity-taking-damage = Ваш защитник получает урон!
 
 ## Health warnings
-guardian-host-critical-warn = ВАШ ХОЗЯИН РАНЕН!
-guardian-host-death-warn = ВЫ ПЕРЕСТАЁТЕ СУЩЕСТВОВАТЬ
-guardian-death-warn = ВАШЕ ТЕЛО ПРОНЗАЕТ СУБАТОМНАЯ БОЛЬ, КОГДА ОНО РАСПАДАЕТСЯ!
-guardian-attack-host = Вы не можете атаковать своего хозяина.
+guardian-host-critical-warn = ВАШ НОСИТЕЛЬ РАНЕН!
+guardian-host-death-warn = ВАША ФОРМА РАСТВОРЯЕТСЯ В НЕБЫТИИ!
+guardian-death-warn = ВАШЕ ТЕЛО РАСПАДАЕТСЯ, ПРОНЗЁННОЕ СУБАТОМНОЙ БОЛЬЮ!
+guardian-attack-host = Вы не можете нападать на своего носителя.

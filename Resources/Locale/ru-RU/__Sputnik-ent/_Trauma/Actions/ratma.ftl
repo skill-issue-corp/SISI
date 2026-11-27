@@ -1,2 +1,2 @@
-ent-ActionRatmaJump = прыжок
-    .desc = Прыгнуть за едой.
+ent-ActionRatmaJump = Прыгнуть
+    .desc = Прыгните за едой.

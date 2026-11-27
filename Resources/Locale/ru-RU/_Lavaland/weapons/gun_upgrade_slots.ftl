@@ -5,7 +5,8 @@ weapon-upgrade-slot-name-second = Второй слот улучшения
 weapon-upgrade-slot-name-third = Третий слот улучшения
 weapon-upgrade-slot-name-fourth = Четвёртый слот улучшения
 weapon-upgrade-slot-name-fifth = Пятый слот улучшения
+
 weapon-upgrade-slot-name-main = Основное улучшение
-weapon-upgrade-slot-name-blade = Улучшение лезвия
+weapon-upgrade-slot-name-blade = Улучшение клинка
 weapon-upgrade-slot-name-handle = Улучшение рукояти
 weapon-upgrade-slot-name-special = Особое улучшение

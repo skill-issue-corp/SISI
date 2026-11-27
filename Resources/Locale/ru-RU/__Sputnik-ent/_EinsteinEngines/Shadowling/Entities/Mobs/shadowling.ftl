@@ -1,6 +1,5 @@
-ent-BaseMobShadowlingAscendant = возвышенный тенеморф
-    .desc = Возвышенный тенеморф. Если ты его видишь, вероятно, ты уже мёртв.
+ent-BaseMobShadowlingAscendant = вознесённый тенеморф
+    .desc = Вознесённый тенеморф. Если вы это видите, то, скорее всего, уже мертвы.
 
-ent-BaseMobShadowlingAscendantAdminSpawn = { ent-BaseMobShadowlingAscendant }
-    .desc = { ent-BaseMobShadowlingAscendant.desc }
-    .suffix = Админ спавн
+ent-BaseMobShadowlingAscendantAdminSpawn = вознесённый тенеморф
+    .desc = Вознесённый тенеморф. Если вы это видите, то, скорее всего, уже мертвы.

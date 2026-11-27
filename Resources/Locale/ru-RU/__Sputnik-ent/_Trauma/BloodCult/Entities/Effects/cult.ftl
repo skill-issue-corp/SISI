@@ -1,10 +1,10 @@
 ent-CultTileSpawnEffect = эффект тайла культа
     .desc = { "" }
 
-ent-CultTeleportInEffect = Телепортироваться внутрь
+ent-CultTeleportInEffect = Прибытие телепортацией
     .desc = { "" }
 
-ent-CultTeleportOutEffect = Телепортироваться наружу
+ent-CultTeleportOutEffect = Убытие телепортацией
     .desc = { ent-CultTeleportInEffect.desc }
 
 ent-PuddleDrainBeamEntity = { "" }

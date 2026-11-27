@@ -1,12 +1,17 @@
 ent-BaseModularGrenadeTrigger = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-ent-MinibombTimerTrigger = таймерный триггер минибомбы
+
+ent-MinibombTimerTrigger = таймер минибомбы
     .desc = Зловещий таймер.
-ent-WhiteHoleTimerTrigger = таймерный триггер белой дыры
+
+ent-WhiteHoleTimerTrigger = таймер белой дыры
     .desc = Отталкивающий таймер.
-ent-SupermatterTimerTrigger = таймер супраматерии
+
+ent-SupermatterTimerTrigger = таймер суперматерии
     .desc = Притягательный таймер.
-ent-HolyTimer = таймерный триггер святыни
-    .desc = Ради Грааля...
-ent-SilentTimerTrigger = механический штифтовый триггер
-    .desc = Механический таймерный триггер без писка.
+
+ent-HolyTimer = святой таймер
+    .desc = За Грааль...
+
+ent-SilentTimerTrigger = механический спуск с чекой
+    .desc = Механический таймер без звукового сигнала.

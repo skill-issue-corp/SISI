@@ -1,9 +1,9 @@
 slaughter-round-end-agent-name = демон резни
 laughter-round-end-agent-name = демон смеха
-lesser-slaughter-round-end-agent-name = низший демон резни
+lesser-slaughter-round-end-agent-name = малый демон резни
 
 objective-issuer-slaughter-satan = [color=#FF0000]Сатана[/color]
-objective-issuer-slaughter-bubblegum = [color=#9F2B68]Король демонов[/color]
+objective-issuer-slaughter-bubblegum = [color=#9F2B68]Баблгам[/color]
 objective-issuer-slaughter-devil = [color=#FFC0CB]Дьявол[/color]
 
 # SIS-Start
@@ -40,9 +40,9 @@ laughter-role-greeting-desc =
 # SIS-End
 
 # actions
-demonic-whisper-title = Демонический шёпот
-demonic-whisper-popup = Вдруг в вашей голове раздаётся странный демонический голос...
-demonic-whisper-whisper = Вы шепчете { $name }: { $message }
+demonic-whisper-title = Демонический Шёпот
+demonic-whisper-popup = Вдруг у вас в голове раздаётся странный демонический голос...
+demonic-whisper-whisper = Вы шепчете {$name}: {$message}
 
 # metadata
-name-format-slaughter = { $part1 }, { $part0 }
+name-format-slaughter = {$part1}, {$part0}

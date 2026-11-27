@@ -1,25 +1,25 @@
-ent-ShadowlingGlareStatusEffect = замедление от взгляда теневика
+ent-ShadowlingGlareStatusEffect = замедление от взгляда тенеморфа
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-ShadowlingAbominationStatusEffect = мерзость теневика
+ent-ShadowlingAbominationStatusEffect = тенеморфное чудовище
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-OrganSlowdownStatusEffect = замедление от повреждённого органа
+ent-OrganSlowdownStatusEffect = замедление из-за разрушенного органа
     .desc = { ent-StatusEffectSlowdown.desc }
 
 ent-InLavaStatusEffect = в лаве
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-InXenoResinEffect = в ксеносмоле
+ent-InXenoResinEffect = в смоле ксеноморфа
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-TentacleHookStatusEffect = замедление от щупальца-крюка
+ent-TentacleHookStatusEffect = замедление от захвата щупальцем
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-NitriumStatusEffect = ускорение от нитрия
+ent-NitriumStatusEffect = ускорение от нитриума
     .desc = { ent-StatusEffectSpeed.desc }
 
-ent-HyperStatusEffect = гипер
+ent-HyperStatusEffect = гиперактивность
     .desc = { ent-StatusEffectSpeed.desc }
 
 ent-SluggishStatusEffect = вялость

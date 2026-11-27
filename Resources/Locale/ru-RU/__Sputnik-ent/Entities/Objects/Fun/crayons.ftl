@@ -1,10 +1,10 @@
 ent-CrayonInedible = мелок
     .desc = Цветной мелок. Запретный вкус.
 
-ent-Crayon = мелок
-    .desc = Красочный мелок. Выглядит аппетитно. Мммм...
+ent-Crayon = { ent-CrayonInedible }
+    .desc = Цветной мелок. Выглядит аппетитно. М-м-м...
 
-ent-CrayonMime = мимский мелок
+ent-CrayonMime = мелок мима
     .desc = ...
 
 ent-CrayonRainbow = радужный мелок
@@ -14,7 +14,7 @@ ent-CrayonInfinite = бесконечный мелок
     .desc = { ent-CrayonRainbow.desc }
 
 ent-CrayonBorg = электрический мелок
-    .desc = Говорят, это самый вкусный мелок во всех вселенных. Увы, вы не можете есть.
+    .desc = Говорят, это самый вкусный вид мелков во всех вселенных; к сожалению, вы не умеете есть.
 
 ent-CrayonWhite = белый мелок
     .desc = { ent-Crayon.desc }
@@ -41,7 +41,8 @@ ent-CrayonPurple = фиолетовый мелок
     .desc = { ent-Crayon.desc }
 
 ent-CrayonBoxEmpty = коробка мелков
-    .desc = Это коробка мелков.
+    .desc = Коробка с мелками.
 
-ent-CrayonBox = коробка для мелков
-    .desc = Это коробка с мелками.
+ent-CrayonBox = { ent-CrayonBoxEmpty }
+    .desc = { ent-CrayonBoxEmpty.desc }
+    .suffix = Заполнено

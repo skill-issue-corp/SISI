@@ -1,37 +1,37 @@
 ent-BaseBloomery = незажжённый сыродутный горн
     .desc = { ent-BaseStructure.desc }
 
-ent-BaseBloomeryLit = разожжённый сыродутный горн
+ent-BaseBloomeryLit = зажжённый сыродутный горн
     .desc = { ent-BaseBloomery.desc }
 
 ent-BaseBloomeryComplete = дымящийся сыродутный горн
-    .desc = Выглядит готовым, разбейте его.
+    .desc = Похоже, готово. Разбейте горн.
 
-ent-BloomeryCold = потухший сыродутный горн
-    .desc = Перед розжигом нужно загрузить углём и металлическим ломом.
+ent-BloomeryCold = незажжённый сыродутный горн
+    .desc = Перед обжигом нужно загрузить древесный уголь и металлический лом.
 
 ent-BloomeryColdBrass = { ent-BaseBloomery }
-    .desc = Загружен латунью, осталось только разжечь.
+    .desc = Загружена латунь, осталось разжечь горн.
     .suffix = Латунь
 
 ent-BloomeryColdPlasteel = { ent-BaseBloomery }
-    .desc = Загружен пласталью, осталось только разжечь.
+    .desc = Загружена пласталь, осталось разжечь горн.
     .suffix = Пласталь
 
 ent-BloomeryColdSteel = { ent-BaseBloomery }
-    .desc = Загружен сталью, осталось только разжечь.
+    .desc = Загружена сталь, осталось разжечь горн.
     .suffix = Сталь
 
 ent-BloomeryLitBrass = { ent-BaseBloomeryLit }
-    .desc = Загружен латунью, дайте ему немного погореть, и он будет готов.
+    .desc = Загружена латунь, дайте горну прогореть, и всё будет готово.
     .suffix = Латунь
 
 ent-BloomeryLitSteel = { ent-BaseBloomeryLit }
-    .desc = Загружен сталью, дайте ему немного погореть, и он будет готов.
+    .desc = Загружена сталь, дайте горну прогореть, и всё будет готово.
     .suffix = Сталь
 
-ent-BloomeryLitPlasteel = разожжённый сыродутный горн
-    .desc = Загружен пласталью, дайте ему немного погореть, и он будет готов.
+ent-BloomeryLitPlasteel = зажжённый сыродутный горн
+    .desc = Загружена пласталь, дайте горну прогореть, и всё будет готово.
 
 ent-BloomeryCompletePlasteel = { ent-BaseBloomeryComplete }
     .desc = { ent-BaseBloomeryComplete.desc }

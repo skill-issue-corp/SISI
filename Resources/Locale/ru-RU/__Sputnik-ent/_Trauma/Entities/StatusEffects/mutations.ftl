@@ -1,4 +1,4 @@
-ent-DnaMeltingStatusEffect = плавление ДНК
+ent-DnaMeltingStatusEffect = распад ДНК
     .desc = { ent-StatusEffectBase.desc }
 
 ent-DecloningStatusEffect = деклонирование

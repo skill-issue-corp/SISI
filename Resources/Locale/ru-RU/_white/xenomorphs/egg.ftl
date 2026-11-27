@@ -1,1 +1,1 @@
-xenomorph-egg-clean-butsting-egg = Вы очищаете вылупившееся яйцо.
+xenomorph-egg-clean-butsting-egg = Вы убираете пустое яйцо.

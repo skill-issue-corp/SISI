@@ -7,8 +7,8 @@ ent-BaseDoAfterAction = { ent-BaseAction }
 ent-BaseMentalAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
 
-ent-BaseSuicideAction = { "" }
-    .desc = { "" }
+ent-BaseSuicideAction = { ent-BaseMentalAction }
+    .desc = { ent-BaseMentalAction.desc }
 
 ent-BaseImplantAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
@@ -19,104 +19,104 @@ ent-BaseToggleAction = { ent-BaseAction }
 ent-ActionScream = Крикнуть
     .desc = ААААААААААААААААААААААААА
 
-ent-ActionTurnUndead = Обратиться в зомби
-    .desc = Поддайтесь заражению и превратитесь в зомби.
+ent-ActionTurnUndead = Стать Нежитью
+    .desc = Поддайтесь инфекции и станьте зомби.
 
-ent-ActionToggleLight = Переключить фонарь
-    .desc = Включает или выключает фонарь.
+ent-ActionToggleLight = Переключить Свет
+    .desc = Включите или выключите свет.
 
-ent-ActionOpenStorageImplant = Переключить имплант Хранилище
-    .desc = Открывает или закрывает доступ к хранилищу, спрятанному под вашей кожей.
+ent-ActionOpenStorageImplant = Переключить Имплант-Хранилище
+    .desc = Открывает или закрывает вживлённый под кожу имплант-хранилище
 
-ent-ActionActivateMicroBomb = Активировать имплант Микробомба
-    .desc = Активирует вживлённую микробомбу, полностью уничтожая вас и ваше снаряжение.
+ent-ActionActivateMicroBomb = Активировать Микробомбу
+    .desc = Активирует вживлённую микробомбу, полностью уничтожая вас и ваше снаряжение
 
-ent-ActionActivateDeathAcidifier = Активировать имплант Посмертный растворитель
-    .desc = Активирует вживлённый запас кислоты, полностью растворяя вас и ваше снаряжение.
+ent-ActionActivateDeathAcidifier = Активировать Имплант-Растворитель
+    .desc = Активирует ваш имплант-растворитель, полностью растворяя вас и ваше снаряжение
 
-ent-ActionActivateFreedomImplant = Активировать имплант Свобода
-    .desc = Освобождает вас от наручников и других ограничителей.
+ent-ActionActivateFreedomImplant = Вырваться на Свободу
+    .desc = Активируйте имплант свободы, чтобы снять с рук любые путы
 
-ent-ActionOpenUplinkImplant = Открыть аплинк
-    .desc = Открывает аплинк Синдиката, скрытый под вашей кожей.
+ent-ActionOpenUplinkImplant = Открыть Аплинк
+    .desc = Открывает вживлённый под кожу аплинк синдиката
 
 ent-ActionActivateEmpImplant = Активировать ЭМИ
-    .desc = Вызывает небольшой ЭМ импульс вокруг вас.
+    .desc = Вызывает слабый электромагнитный импульс вокруг вас
 
-ent-ActionActivateScramImplant = УДРАТЬ!
-    .desc = Случайным образом телепортирует вас на большое расстояние.
+ent-ActionActivateScramImplant = ДЁРУ!
+    .desc = Телепортирует вас в случайную точку в пределах большого радиуса.
 
-ent-ActionActivateDnaScramblerImplant = Перемешать ДНК
-    .desc = Меняет ваше имя и внешность случайным образом.
+ent-ActionActivateDnaScramblerImplant = Изменить ДНК
+    .desc = Случайным образом меняет ваши имя и внешность.
 
-ent-ActionToggleSuitPiece = Переключить элементы костюма
-    .desc = Не забудьте экипировать важные части костюма, прежде чем приступать к действиям.
+ent-ActionToggleSuitPiece = Переключить Часть Костюма
+    .desc = Не забудьте надеть важные части костюма перед тем, как приступить к делу.
 
-ent-ActionCombatModeToggle = [color=red]Боевой режим[/color]
-    .desc = Войти в боевой режим
+ent-ActionCombatModeToggle = [color=red]Боевой Режим[/color]
+    .desc = Войдите в боевой режим
 
-ent-ActionCombatModeToggleOff = [color=red]Боевой режим[/color]
-    .desc = Войти в боевой режим
+ent-ActionCombatModeToggleOff = { ent-ActionCombatModeToggle }
+    .desc = { ent-ActionCombatModeToggle.desc }
 
-ent-ActionChangeVoiceMask = Изменить имя
-    .desc = Измените имя, которое все слышат, на другое.
+ent-ActionChangeVoiceMask = Задать имя
+    .desc = Замените имя, которое слышат окружающие, на другое.
 
-ent-ActionShootWater = Распылить воду!
-    .desc = Распыляет воду во врагов.
+ent-ActionShootWater = Брызнуть водой!
+    .desc = Брызните водой в сторону врагов.
 
-ent-ActionVendingThrow = Выдать предмет
-    .desc = Выдаёт случайный предмет из вашего инвентаря.
+ent-ActionVendingThrow = Выдать Предмет
+    .desc = Выдайте случайный предмет из ваших запасов.
 
-ent-ActionToggleBlock = Блокирование
-    .desc = Поднимите или опустите свой щит.
+ent-ActionToggleBlock = Блокировать
+    .desc = Поднимите или опустите щит.
 
-ent-ActionClearNetworkLinkOverlays = Очистить оверлей сетевых соединений
-    .desc = Очищает оверлей сетевых соединений.
+ent-ActionClearNetworkLinkOverlays = Скрыть отображение сетевых связей
+    .desc = Скройте отображение сетевых связей.
 
-ent-ActionAnimalLayEgg = Отложить яйцо
-    .desc = Использует голод, чтобы отложить яйцо.
+ent-ActionAnimalLayEgg = Снести яйцо
+    .desc = Снести яйцо можно за счёт сытости.
 
-ent-ActionSleep = Спать
-    .desc = Лечь спать.
+ent-ActionSleep = Уснуть
+    .desc = Ложитесь спать.
 
 ent-ActionWake = Проснуться
-    .desc = Перестать спать.
+    .desc = Прервите сон.
 
-ent-ActionActivateHonkImplant = Хонк!
-    .desc = Активирует ваш хонк-имплант, который будет издавать фирменный звук клоуна.
+ent-ActionActivateHonkImplant = Хонкнуть
+    .desc = Активирует ваш хонкающий имплант, который издаст фирменный звук клоуна.
 
 ent-ActionFireStarter = Поджечь
-    .desc = Поджигает противников в радиусе вокруг вас.
+    .desc = Поджигает врагов в радиусе действия вокруг вас.
 
-ent-ActionToggleEyes = Открыть/закрыть глаза
-    .desc = Закройте глаза, чтобы защитить их, или откройте, чтобы насладиться яркими цветами.
+ent-ActionToggleEyes = Открыть/Закрыть глаза
+    .desc = Закройте глаза, чтобы поберечь глазки, или откройте их, чтобы полюбоваться красивыми огоньками.
 
-ent-ActionToggleWagging = Махать хвостом
-    .desc = Начать/перестать махать хвостом.
+ent-ActionToggleWagging = Виляние Хвостом
+    .desc = Включите или выключите виляние хвостом.
 
-ent-FakeMindShieldToggleAction = [color=green]Переключить фальшивый Щит разума[/color]
-    .desc = Переключить трансляцию фальшивого Щита разума
+ent-FakeMindShieldToggleAction = [color=green]Переключить Поддельный Щит Разума[/color]
+    .desc = Включите/выключите передачу сигнала имплантом Поддельного Щита Разума
 
 ent-ActionToggleNightVision = Переключить ночное зрение
-    .desc = Включает или выключает ночное зрение.
+    .desc = Включает и выключает ночное зрение.
 
 ent-ActionToggleWaggingVulpkanin = { ent-ActionToggleWagging }
     .desc = { ent-ActionToggleWagging.desc }
 
 ent-ActionGravityJump = Прыгнуть
-    .desc = Активирует продвинутую систему ускорения, перемещает вас на короткое расстояние в направлении взгляда.
+    .desc = Включив усовершенствованную двигательную систему, вы перемещаетесь на небольшое расстояние в направлении взгляда.
 
-ent-ActionJumpBoost = Прыгнуть с ускорением
+ent-ActionJumpBoost = Усиление прыжка
     .desc = { ent-ActionGravityJump.desc }
 
-ent-ActionVulpkaninGravityJump = Прыжок
-    .desc = Используйте свои ловкие ноги, чтобы прыгнуть на короткое расстояние. Будьте осторожны, не врежьтесь во что-нибудь!
+ent-ActionVulpkaninGravityJump = Скакнуть
+    .desc = Мощным толчком ног прыгните на небольшое расстояние. Смотрите ни во что не врежьтесь!
 
-ent-ActionToggleRootable = Укоренение
-    .desc = Начать или прекратить укореняться в полу.
+ent-ActionToggleRootable = Укорениться
+    .desc = Пустите корни в пол или втяните их обратно.
 
-ent-ActionChameleonController = Изменить одежду
-    .desc = Быстро смените свой внешний вид!
+ent-ActionChameleonController = Управлять одеждой
+    .desc = Быстро смените весь наряд!
 
 ent-ActionIntrinsicStore = Магазин
     .desc = Открывает магазин

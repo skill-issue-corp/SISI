@@ -1,7 +1,7 @@
-ent-AppearanceSlimePerson = Внешний вид слаймолюда
+ent-AppearanceSlimePerson = облик Слаймолюда
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobSlimePerson = Урист МакВоббл
+ent-MobSlimePerson = Урист МакКач
     .desc = { ent-AppearanceSlimePerson.desc }
 
 ent-OrganSlimePerson = { ent-OrganBaseOrganic }
@@ -47,7 +47,7 @@ ent-OrganSlimePersonFootLeft = { ent-OrganBaseFootLeft }
 ent-OrganSlimePersonFootRight = { ent-OrganBaseFootRight }
     .desc = { ent-OrganBaseFootRight.desc }
 
-ent-OrganSlimePersonCore = разумное ядро слайма
+ent-OrganSlimePersonCore = ядро разумного слайма
     .desc = { ent-OrganBaseBrain.desc }
 
 ent-OrganSlimePersonEyes = { ent-OrganBaseEyes }

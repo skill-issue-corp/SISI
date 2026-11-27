@@ -22,32 +22,32 @@ ent-ClosetBombFilled = { ent-ClosetBomb }
     .desc = { ent-ClosetBomb.desc }
     .suffix = Заполнено
 
-ent-GunSafeDisabler = сейф дизейблеров
+ent-GunSafeDisabler = сейф для дизейблеров
     .desc = { ent-GunSafeBaseSecure.desc }
 
-ent-GunSafePistolMk58 = сейф mk58
+ent-GunSafePistolMk58 = сейф для mk58
     .desc = { ent-GunSafeBaseSecure.desc }
 
-ent-GunSafeRifleLecter = сейф лектеров
+ent-GunSafeRifleLecter = сейф для lecter
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Лектер, Замок по уровню тревоги
+    .suffix = Lecter, Замок по Уровню Тревоги
 
-ent-GunSafeSubMachineGunDrozd = сейф дроздов
+ent-GunSafeSubMachineGunDrozd = сейф для drozd
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Дрозд, Замок по уровню тревоги
+    .suffix = Drozd, Замок по Уровню Тревоги
 
-ent-GunSafeShotgunEnforcer = сейф силовиков
+ent-GunSafeShotgunEnforcer = сейф для enforcer
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Силовкик, Замок по уровню тревоги
+    .suffix = Enforcer, Замок по Уровню Тревоги
 
-ent-GunSafeShotgunKammerer = сейф каммереров
+ent-GunSafeShotgunKammerer = сейф для kammerer
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Каммерер, Замок по уровню тревоги
+    .suffix = Kammerer, Замок по Уровню Тревоги
 
-ent-GunSafeSubMachineGunWt550 = сейф wt550
+ent-GunSafeSubMachineGunWt550 = сейф для wt550
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = wt550, Замок по уровню тревоги
+    .suffix = wt550, Замок по Уровню Тревоги
 
-ent-GunSafeLaserCarbineOutdated = сейф лазерок
+ent-GunSafeLaserCarbineOutdated = сейф для лазеров
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Карбин, Замок по уровню тревоги
+    .suffix = Карбид, Замок по Уровню Тревоги

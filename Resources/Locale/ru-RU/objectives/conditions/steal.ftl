@@ -14,14 +14,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-steal-title-no-owner = Украсть {$itemName}.
-objective-condition-steal-title-alive-no-owner = Украсть {$itemName}.
-objective-condition-steal-title = Украсть {$itemName}, валделец: {$owner}.
-objective-condition-steal-description = Нам нужно, чтобы вы украли {$itemName}. Не попадитесь.
+objective-condition-steal-title-no-owner = Украдите предмет «{$itemName}».
+objective-condition-steal-title-alive-no-owner = Украдите «{$itemName}».
+objective-condition-steal-title = Украдите «{$itemName}». Владелец: {$owner}.
+objective-condition-steal-description = Нам нужно, чтобы вы украли «{$itemName}». Не попадитесь.
 
 objective-condition-steal-station = станция
 objective-condition-steal-Ian = корги главы персонала
 
-objective-condition-thief-description = {$itemName} станет отличным пополнением моей коллекции!
-objective-condition-thief-animal-description = {$itemName} станет отличным пополнением моей коллекции! Главное - живым.
-objective-condition-thief-multiply-description = Мне нужно собрать {$count} {$itemName} (любых) и увезти их с собой.
+objective-condition-thief-description = Для моей коллекции отлично подойдёт «{$itemName}»!
+objective-condition-thief-animal-description = Для моей коллекции отлично подойдёт «{$itemName}»! Главное, чтобы добыча осталась живой.
+objective-condition-thief-multiply-description = Мне надо добыть «{$itemName}» в количестве {$count} (любые) и забрать с собой.

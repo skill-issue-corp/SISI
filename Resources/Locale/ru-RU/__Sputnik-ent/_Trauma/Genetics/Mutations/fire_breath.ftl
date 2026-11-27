@@ -1,4 +1,5 @@
-ent-MutationFireBreath = Огненное дыхание
-    .desc = Древняя мутация, дающая ящерам огненное дыхание.
-ent-ActionFireBreath = [color=orange]Дохнуть огнём[/color]
-    .desc = Извергните пламя из лёгких!
+ent-MutationFireBreath = Огненное Дыхание
+    .desc = Древняя мутация, наделяющая ящериц огненным дыханием.
+
+ent-ActionFireBreath = [color=orange]Выдохнуть Огонь[/color]
+    .desc = Изрыгните пламя из своих лёгких!

@@ -1,5 +1,5 @@
-ent-EmoteVomitCounterStatusEffect = эмоция «рвота»
+ent-EmoteVomitCounterStatusEffect = эмоция рвоты
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-BlockVomitEmotesStatusEffect = блокировка эмоций рвоты
+ent-BlockVomitEmotesStatusEffect = запрет эмоций рвоты
     .desc = { ent-MobStatusEffectBase.desc }

@@ -2,7 +2,7 @@ ent-SpiderWebBase = { "" }
     .desc = { "" }
 
 ent-SpiderWeb = паутина
-    .desc = Она вязкая и липкая.
+    .desc = Волокнистая и липкая.
 
 ent-SpiderWebClown = клоунская паутина
-    .desc = Она вязкая и скользкая.
+    .desc = Волокнистая и скользкая.

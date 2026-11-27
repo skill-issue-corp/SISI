@@ -1,5 +1,5 @@
-ent-BaseBorgChassisNotIonStormable = борг
-    .desc = Гибрид машины и человека, помогающий в работе станции. Они обожают, когда их снова и снова просят назвать свои законы.
+ent-BaseBorgChassisNotIonStormable = киборг
+    .desc = Гибрид человека и машины, помогающий в работе станции. Обожает, когда его снова и снова просят зачитать законы.
 
 ent-BaseBorgChassis = { ent-BaseBorgChassisNotIonStormable }
     .desc = { ent-BaseBorgChassisNotIonStormable.desc }
@@ -23,7 +23,7 @@ ent-BaseBorgChassisSyndicateDerelict = { ent-BaseBorgChassis }
     .desc = { ent-BaseBorgChassis.desc }
 
 ent-BaseXenoborgChassis = ксеноборг
-    .desc = Гибрид машины и человека, стремящийся к самовоспроизведению. Они любят извлекать мозги и вставлять их в новые шасси ксеноборгов, чтобы пополнять свою армию.
+    .desc = Гибрид человека и машины, стремящийся размножиться. Ксеноборги обожают извлекать мозги и вставлять их в новые шасси Ксеноборгов, наращивая свою армию.
 
 ent-BaseXenoborgDestructible = { "" }
     .desc = { "" }

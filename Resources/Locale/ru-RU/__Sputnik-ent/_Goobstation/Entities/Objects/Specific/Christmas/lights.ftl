@@ -1,20 +1,20 @@
-ent-SpawnerChristmasLightsWhite = спавнер белые рождественские гирлянды
+ent-SpawnerChristmasLightsWhite = { ent-MarkerBase }
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnerChristmasLightsRed = спавнер красные рождественские гирлянды
+ent-SpawnerChristmasLightsRed = { ent-MarkerBase }
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnerChristmasLightsBlue = спавнер синие рождественские гирлянды
+ent-SpawnerChristmasLightsBlue = { ent-MarkerBase }
     .desc = { ent-MarkerBase.desc }
 
-ent-BaseChristmasLights = рождественские гирлянды
-    .desc = Несколько белых рождественских гирлянд.
+ent-BaseChristmasLights = рождественская гирлянда
+    .desc = Белая Рождественская гирлянда.
 
 ent-BaseChristmasLightsRed = { ent-BaseChristmasLights }
-    .desc = Несколько красных рождественских гирлянд.
+    .desc = Красная Рождественская гирлянда.
 
 ent-BaseChristmasLightsBlue = { ent-BaseChristmasLights }
-    .desc = Несколько синих рождественских гирлянд.
+    .desc = Синяя Рождественская гирлянда.
 
 ent-ChristmasLightsWhite1 = { ent-BaseChristmasLights }
     .desc = { ent-BaseChristmasLights.desc }

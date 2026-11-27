@@ -1,28 +1,28 @@
 ent-ShardCrystalBase = осколок кристалла
-    .desc = Небольшой кусочек кристалла.
+    .desc = Небольшой осколок кристалла.
 
-ent-ShardCrystalCyan = голубой осколок кристалла
-    .desc = Небольшой кусочек кристалла.
+ent-ShardCrystalCyan = осколок бирюзового кристалла
+    .desc = Небольшой осколок кристалла.
 
-ent-ShardCrystalBlue = синий осколок кристалла
+ent-ShardCrystalBlue = осколок синего кристалла
     .desc = { ent-ShardCrystalBase.desc }
 
-ent-ShardCrystalYellow = жёлтый осколок кристалла
+ent-ShardCrystalYellow = осколок жёлтого кристалла
     .desc = { ent-ShardCrystalBase.desc }
 
-ent-ShardCrystalOrange = оранжевый осколок кристалла
+ent-ShardCrystalOrange = осколок оранжевого кристалла
     .desc = { ent-ShardCrystalBase.desc }
 
-ent-ShardCrystalBlack = чёрный осколок кристалла
+ent-ShardCrystalBlack = осколок чёрного кристалла
     .desc = { ent-ShardCrystalBase.desc }
 
-ent-ShardCrystalPink = розовый осколок кристалла
+ent-ShardCrystalPink = осколок розового кристалла
     .desc = { ent-ShardCrystalBase.desc }
 
-ent-ShardCrystalGreen = зелёный осколок кристалла
+ent-ShardCrystalGreen = осколок зелёного кристалла
     .desc = { ent-ShardCrystalBase.desc }
 
-ent-ShardCrystalRed = красный осколок кристалла
+ent-ShardCrystalRed = осколок красного кристалла
     .desc = { ent-ShardCrystalBase.desc }
 
 ent-ShardCrystalRandom = случайный осколок кристалла

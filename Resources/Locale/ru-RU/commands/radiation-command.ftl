@@ -1,2 +1,2 @@
-cmd-showradiation-desc = Переключить отображение лучей радиации, исходящих от радиационных источников
+cmd-showradiation-desc = Переключает отображение лучей от источников радиации
 cmd-showradiation-help = Использование: showradiation

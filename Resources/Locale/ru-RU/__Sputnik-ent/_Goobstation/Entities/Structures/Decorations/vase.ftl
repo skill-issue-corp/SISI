@@ -1,20 +1,29 @@
 ent-VaseBase = ваза
-    .desc = Это ваза. Это держит цветы.
+    .desc = Это ваза. В ней держат цветы.
+
 ent-VasePlant0 = пустая ваза
-    .desc = Это ваза. Это держит цветы. Это пустое.
+    .desc = Это ваза. В ней держат цветы. Эта пустая.
+
 ent-VasePlant1 = { ent-VaseBase }
     .desc = { ent-VaseBase.desc }
+
 ent-VasePlant2 = { ent-VaseBase }
     .desc = { ent-VaseBase.desc }
+
 ent-VasePlant3 = { ent-VaseBase }
     .desc = { ent-VaseBase.desc }
+
 ent-VasePlant4 = { ent-VaseBase }
     .desc = { ent-VaseBase.desc }
+
 ent-VasePlant5 = { ent-VaseBase }
     .desc = { ent-VaseBase.desc }
+
 ent-VasePlant6 = { ent-VaseBase }
     .desc = { ent-VaseBase.desc }
+
 ent-VasePlant7 = { ent-VaseBase }
     .desc = { ent-VaseBase.desc }
+
 ent-VasePlant8 = { ent-VaseBase }
     .desc = { ent-VaseBase.desc }

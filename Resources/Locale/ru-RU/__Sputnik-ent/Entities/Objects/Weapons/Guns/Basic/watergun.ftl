@@ -1,11 +1,11 @@
-ent-WeaponWaterGunBase = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
+ent-WeaponWaterGunBase = { ent-SolutionGun }
+    .desc = { ent-SolutionGun.desc }
 
 ent-WeaponWaterPistol = водяной пистолет
-    .desc = Самое маленькое водяное оружие. Вы готовы поклясться, что спусковой крючок ничего не делает.
+    .desc = Крохотнейшее водяное оружие. Вы готовы поклясться, что спусковой крючок ничего не делает.
 
 ent-WeaponWaterBlaster = водяной бластер
-    .desc = С этим плохишом вы станете самым крутым чуваком на летнем барбекю.
+    .desc = С этой штукой вы будете самым крутым ребёнком на летнем пикнике.
 
-ent-WeaponWaterBlasterSuper = водяной супер-бластер
+ent-WeaponWaterBlasterSuper = суперводяной бластер
     .desc = Нет! Нет! Только не в глаза!

@@ -1,10 +1,13 @@
 ent-Cigar = сигара
-    .desc = Коричневая скрутка табака и... ну, вы не совсем уверены.
+    .desc = Коричневый свёрток табака и... ну, вы сами толком не знаете чего.
+
 ent-CigarSpent = { ent-Cigar }
-    .suffix = Окурок
     .desc = { ent-Cigar.desc }
-ent-CigarGold = премиум Гаванская сигара
-    .desc = Сигара, предназначенная только для лучших из лучших.
+    .suffix = израсходовано
+
+ent-CigarGold = элитная Гаванская сигара
+    .desc = Сигара, достойная лишь лучших из лучших.
+
 ent-CigarGoldSpent = { ent-CigarGold }
-    .suffix = Окурок
     .desc = { ent-CigarGold.desc }
+    .suffix = израсходовано

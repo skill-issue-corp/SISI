@@ -1,14 +1,14 @@
-counter-attack-verb = Контратака
+counter-attack-verb = Контратаковать
 
-counter-attack-fail-npc-message = Они слишком непредсказуемы для контратаки!
+counter-attack-fail-npc-message = Противник слишком непредсказуем для контратаки!
 counter-attack-self-message = Вы готовитесь контратаковать {$target}...
-counter-attack-others-message = {$user} расширяет {POSS-ADJ($user)} стойку, {POSS-ADJ($user)} рука зависает над {$sheath}
+counter-attack-others-message = {$user} меняет стойку: {POSS-ADJ($user)} ноги расставлены шире, а {POSS-ADJ($user)} рука зависла над {$sheath}
 
 alerts-counter-attacking-name = Контратака
-alerts-counter-attacking-desc = Вы готовы нанести контратаку...
+alerts-counter-attacking-desc = Вы готовы нанести ответный удар...
 
-alerts-counter-attacking-blocked-name = Контратака заблокирована
-alerts-counter-attacking-blocked-desc = Вы не можете контратаковать некоторое время...
+alerts-counter-attacking-blocked-name = Контратака недоступна
+alerts-counter-attacking-blocked-desc = Некоторое время вы не сможете контратаковать...
 
-alerts-parry-exhaustion-name = Истощение от парирования
-alerts-parry-exhaustion-desc = Чем больше вы истощены, тем меньше атак вы способны парировать.
+alerts-parry-exhaustion-name = Усталость от Парирования
+alerts-parry-exhaustion-desc = Чем сильнее вы устали, тем меньше атак сможете парировать.

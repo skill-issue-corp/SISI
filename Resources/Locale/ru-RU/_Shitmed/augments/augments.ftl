@@ -1,8 +1,8 @@
-augments-no-power-cell-slot = У вас не установлен слот энергоячейки
-augments-power-cell-info = Батарея заряжена на {$percent}% и потребляет {$draw}Вт.
+augments-no-power-cell-slot = У вас не установлен слот батареи
+augments-power-cell-info = Батарея заряжена на {$percent}%, потребление - {$draw}Вт.
 
-augment-tool-panel-hand-full = В вашей руке что-то есть
-augment-tool-panel-cannot-pick-up = Ваша рука не способна это удержать
-augment-tool-panel-retracted = Ваш {$item} втягивается обратно в вашу руку.
-augment-tool-panel-selected = {CAPITALIZE($item)} появляется из вашей руки.
-augment-tool-panel-no-hand = У вас нет руки!
+augment-tool-panel-hand-full = У вас в руке уже что-то есть
+augment-tool-panel-cannot-pick-up = Ваша кисть не может удерживать этот предмет
+augment-tool-panel-retracted = Ваш инструмент {$item} убирается обратно в руку.
+augment-tool-panel-selected = {CAPITALIZE($item)} выдвигается из вашей руки.
+augment-tool-panel-no-hand = У вас нет кисти!

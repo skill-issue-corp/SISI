@@ -4,22 +4,22 @@ ent-LemonadePlants = лимонадное дерево
 ent-CocaPlants = куст коки
     .desc = { ent-BasePlant.desc }
 
-ent-CoconutPlants = кокосовое дерево
+ent-CoconutPlants = кокосовая пальма
     .desc = { ent-BasePlant.desc }
 
-ent-CherryBombPlants = дерево вишни-бомбы
+ent-CherryBombPlants = дерево вишнёвой бомбы
     .desc = { ent-CherryPlants.desc }
 
-ent-DeliciousApplePlants = аппетитная яблоня
-    .desc = Аппетитно выглядят яблоки. Сама яблоня — как обычно.
+ent-DeliciousApplePlants = дерево с аппетитными яблоками
+    .desc = Аппетитно выглядят яблоки, а не дерево.
 
-ent-MethApplePlants = дерево метамфетаминовых яблок
+ent-MethApplePlants = дерево метовых яблок
     .desc = { ent-ApplePlants.desc }
 
 ent-ClearCornPlants = початок прозрачной кукурузы
     .desc = { ent-CornPlants.desc }
 
-ent-PeanutPlants = растение арахиса
+ent-PeanutPlants = куст арахиса
     .desc = { ent-BasePlant.desc }
 
 ent-MagicMushroomsPlants = волшебные грибы
@@ -28,11 +28,11 @@ ent-MagicMushroomsPlants = волшебные грибы
 ent-SynthMeatPlants = растение синтмяса
     .desc = { ent-BasePlant.desc }
 
-ent-BalloonWatermelonPlants = растение дыни-шара
+ent-BalloonWatermelonPlants = растение дынных шариков
     .desc = { ent-WatermelonPlants.desc }
 
-ent-SteelWheatPlants = стебель сталепшеницы
+ent-SteelWheatPlants = стебель стальной пшеницы
     .desc = { ent-WheatPlants.desc }
 
-ent-PlasticcapPlants = пластиковый гриб
+ent-PlasticcapPlants = пластиковая шляпка
     .desc = { ent-SteelcapPlants.desc }

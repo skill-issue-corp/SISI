@@ -1,44 +1,51 @@
+# SPDX-FileCopyrightText: 2021 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2021 Galactic Chimp <63882831+GalacticChimp@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 ### Voting system related console commands
 
 ## 'createvote' command
 
 cmd-createvote-desc = Создаёт голосование
 cmd-createvote-help = Использование: createvote <'restart'|'preset'|'map'>
-cmd-createvote-cannot-call-vote-now = Сейчас вы не можете запустить голосование!
-cmd-createvote-invalid-vote-type = Неверный тип голосования
-cmd-createvote-arg-vote-type = <vote type>
+cmd-createvote-cannot-call-vote-now = Сейчас вы не можете начать голосование!
+cmd-createvote-invalid-vote-type = Недопустимый тип голосования
+cmd-createvote-arg-vote-type = <тип голосования>
 
 ## 'customvote' command
 
 cmd-customvote-desc = Создаёт настраиваемое голосование
-cmd-customvote-help = Использование: customvote <title> <option1> <option2> [option3...]
-cmd-customvote-on-finished-tie = Ничья между { $ties }!
-cmd-customvote-on-finished-win = { $winner } побеждает!
-cmd-customvote-arg-title = <title>
-cmd-customvote-arg-option-n = <option{ $n }>
+cmd-customvote-help = Использование: customvote <заголовок> <вариант1> <вариант2> [вариант3...]
+cmd-customvote-on-finished-tie = Голосование «{$title}» завершилось ничьей между {$ties}!
+cmd-customvote-on-finished-win = Голосование «{$title}» завершилось! Победитель: {$winner}!
+cmd-customvote-arg-title = <заголовок>
+cmd-customvote-arg-option-n = <вариант{ $n }>
 
 ## 'vote' command
 
-cmd-vote-desc = Голосует в активном голосовании
+cmd-vote-desc = Отдаёт голос в текущем голосовании
 cmd-vote-help = vote <voteId> <option>
-cmd-vote-cannot-call-vote-now = Сейчас вы не можете запустить голосование!
-cmd-vote-on-execute-error-must-be-player = Должен быть игроком
-cmd-vote-on-execute-error-invalid-vote-id = Неверное ID голосования
-cmd-vote-on-execute-error-invalid-vote-options = Неверные параметры голосования
-cmd-vote-on-execute-error-invalid-vote = Неверное голосование
-cmd-vote-on-execute-error-invalid-option = Неверный параметр
+cmd-vote-cannot-call-vote-now = Сейчас вы не можете начать голосование!
+cmd-vote-on-execute-error-must-be-player = Команда доступна только игрокам
+cmd-vote-on-execute-error-invalid-vote-id = Недопустимый ID голосования
+cmd-vote-on-execute-error-invalid-vote-options = Недопустимые варианты голосования
+cmd-vote-on-execute-error-invalid-vote = Недопустимое голосование
+cmd-vote-on-execute-error-invalid-option = Недопустимый вариант
 
 ## 'listvotes' command
 
-cmd-listvotes-desc = Перечисляет активные голосования
+cmd-listvotes-desc = Показывает текущие голосования
 cmd-listvotes-help = Использование: listvotes
 
 ## 'cancelvote' command
 
 cmd-cancelvote-desc = Отменяет текущее голосование
-cmd-cancelvote-help =
-    Использование: cancelvote <id>
-    Вы можете найти ID с помощью команды listvotes.
-cmd-cancelvote-error-invalid-vote-id = Неверный ID голосования
+cmd-cancelvote-help = Использование: cancelvote <id>
+                      ID можно узнать с помощью команды listvotes.
+cmd-cancelvote-error-invalid-vote-id = Недопустимый ID голосования
 cmd-cancelvote-error-missing-vote-id = Отсутствует ID
 cmd-cancelvote-arg-id = <id>

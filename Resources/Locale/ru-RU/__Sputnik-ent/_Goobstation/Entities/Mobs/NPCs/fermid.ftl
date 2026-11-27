@@ -1,14 +1,14 @@
 ent-MobFermidBase = фермид
-    .desc = Чрезвычайно враждебные насекомые, обитающие на астероидах. Лучше избегать их при любой возможности.
+    .desc = Крайне агрессивные жуки, обитающие на астероидах. По возможности лучше держаться от них подальше.
 
-ent-MobFermidSmall = { ent-MobFermidBase }
+ent-MobFermidSmall = фермид
     .desc = { ent-MobFermidBase.desc }
 
-ent-MobFermidLarge = { ent-MobFermidBase }
+ent-MobFermidLarge = фермид
     .desc = { ent-MobFermidBase.desc }
 
-ent-MobFermidWarrior = фермид воин
+ent-MobFermidWarrior = фермид-воин
     .desc = { ent-MobFermidBase.desc }
 
-ent-MobFermidQueen = фермид королева
-    .desc = Кто-нибудь принес аэрозоль от насекомых?
+ent-MobFermidQueen = королева фермидов
+    .desc = Кто-нибудь взял средство от насекомых?

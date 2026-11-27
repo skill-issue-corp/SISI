@@ -2,20 +2,27 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-language-FloorGoblin-name = Гоблин-тапкокрад
-language-FloorGoblin-description = Мимими мимими ои и и и а о мимимими бябябябя бебебебе мимим мимими!
-chat-language-FloorGoblin-name = Гоблин-тапкокрад
-chat-speech-verb-name-floor-goblin = Гоблин-тапкокрад
+language-FloorGoblin-name = Гоблин-Тапкокрад
+language-FloorGoblin-description =
+    Мимими мимими ийойойо мемимимими бибибибиби мимим мимими
+
+chat-language-FloorGoblin-name = Гоблин-Тапкокрад
+
+chat-speech-verb-name-floor-goblin = Гоблин-Тапкокрад
 chat-speech-verb-floor-goblin-1 = бормочет
-chat-speech-verb-floor-goblin-2 = визжит
-chat-speech-verb-floor-goblin-3 = вопит
-ghost-role-information-floor-goblin-name = Гоблин-тапкокрад
-ghost-role-information-floor-goblin-description = Красть боты, кусать пятки, бежать от злiй грейтайдов.
-crawl-under-floor-toggle-on = { $name } пролез под пол.
-crawl-under-floor-toggle-off = { $name } вылез из-под пола.
-crawl-under-floor-toggle-on-self = Ты пролезаешь под пол.
-crawl-under-floor-toggle-off-self = Ты вылез из-под пол.
-steal-shoes-event = Ты украл { $shoes } у { $target }!
-steal-shoes-no-shoes = Нет обуви для кражи!
-steal-shoes-covered = Ты не можешь достать обувь отсюда!
-shoes-stolen-target-event = Твою обувь украли!
+chat-speech-verb-floor-goblin-2 = верещит
+chat-speech-verb-floor-goblin-3 = визжит
+
+ghost-role-information-floor-goblin-name = Гоблин-Тапкокрад
+ghost-role-information-floor-goblin-description = Крадите обувь, кусайте за лодыжки, убегайте от тайдеров с ломами.
+
+crawl-under-floor-toggle-on = {$name} заползает под пол.
+crawl-under-floor-toggle-off = {$name} выползает из-под пола.
+crawl-under-floor-toggle-on-self = Вы заползаете под пол.
+crawl-under-floor-toggle-off-self = Вы выползаете из-под пола.
+
+steal-shoes-event = Вы крадёте у {$target} обувь – {$shoes}!
+steal-shoes-no-shoes = Обуви для кражи нет!
+steal-shoes-covered = Отсюда до обуви не дотянуться!
+
+shoes-stolen-target-event = Вашу обувь украли!

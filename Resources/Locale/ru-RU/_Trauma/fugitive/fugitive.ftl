@@ -31,7 +31,7 @@ hunter-russians-role-greeting =
     Они прячутся на станции. Приведите их и избегайте ненужных убийств.
 
 hunter-russians-role-greeting-desc =
-    • [color={$hl1}]Снаряжение:[/color] [color={$hl1}]шок-палка[/color] и [color={$hl1}]наручники из колючей проволоки[/color], а в оружейной — [color={$hl1}]АКМ[/color] и [color={$hl1}]Кардашёв-Мосин[/color].
+    • [color={$hl1}]Снаряжение:[/color] [color={$hl1}]шок-палка[/color] и [color={$hl1}]наручники из колючей проволоки[/color], а в оружейной — [color={$hl1}]AKM[/color] и [color={$hl1}]Kardashev-Mosin[/color].
     • [color={$hl1}]Отчёт:[/color] изучите досье на беглецов — их приметы, ДНК и отпечатки помогут вычислить цели.
     • [color={$hl1}]Сделка:[/color] [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]КосмоПол[/gradient] простит ваши преступления, если вы приведёте беглецов — избегайте ненужных убийств.
 
@@ -40,19 +40,19 @@ hunter-bounty-role-greeting =
     Ваша награда — их головы. [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Выполните контракт[/gradient], не трогая лишних.
 
 hunter-bounty-role-greeting-desc =
-    • [color={$hl1}]Снаряжение:[/color] [color={$hl1}]катана[/color], [color={$hl1}]револьвер Декард[/color] и [color={$hl1}]прибор теплового видения[/color], и на сладкое — [color={$hl1}]М-90[/color].
+    • [color={$hl1}]Снаряжение:[/color] [color={$hl1}]катана[/color], [color={$hl1}]револьвер Deckard[/color] и [color={$hl1}]прибор теплового видения[/color], и на сладкое — [color={$hl1}]M-90[/color].
     • [color={$hl1}]Отчёт:[/color] изучите досье на беглецов — их приметы, ДНК и отпечатки помогут вычислить цели.
     • [color={$hl1}]Контракт:[/color] вам заплатили за [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]ликвидацию беглецов[/gradient] — они должны умереть.
 # SIS-End
 
 fugitive-announcement-spacepol = КосмоПол
 
-station-event-fugitive-hunt-announcement = На борту станции замечены опасные беглецы. Охотники за беглецами были отправлены на задание. Не мешайте.
+station-event-fugitive-hunt-announcement = На борту станции замечены опасные беглецы. Охотники за беглецами уже направлены к вам. Не вмешивайтесь.
 
 fugitive-objective-unknown = неизвестный беглец
 fugitive-objective-age-young = молодой
 fugitive-objective-age-middle = средних лет
 fugitive-objective-age-old = пожилой
 fugitive-objective-identifier-dna = ДНК: {$dna}
-fugitive-objective-identifier-prints = Отпечатки пальцев: {$prints}
+fugitive-objective-identifier-prints = Отпечаток пальца: {$prints}
 fugitive-objective-description = {$age} {$species} {$sex}

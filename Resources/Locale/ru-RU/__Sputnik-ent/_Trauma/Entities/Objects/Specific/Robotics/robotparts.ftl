@@ -1,14 +1,20 @@
-ent-EDShell = деталь корпуса ED-209
+ent-EDShell = корпус ED-209
     .desc = { ent-BaseItem.desc }
+
 ent-EDLegR = деталь левой ноги ED-209
     .desc = { ent-BaseItem.desc }
+
 ent-EDLegL = деталь правой ноги ED-209
     .desc = { ent-BaseItem.desc }
+
 ent-EDHead = деталь головы ED-209
     .desc = { ent-BaseItem.desc }
-ent-EDAiCoreElectronics = модуль ИИ-ядра ED-209
+
+ent-EDAiCoreElectronics = Модуль ядра ИИ ED-209
     .desc = Центр управления ИИ для ED-209.
-ent-EDIFFElectronics = модуль СРЦ ED-209
-    .desc = Электрический модуль системы распознавания «свой-чужой» для ED-209.
-ent-EDWeaponControlsElectronics = модуль управления оружием и наведением ED-209
-    .desc = Электрический модуль наведения оружия для ED-209.
+
+ent-EDIFFElectronics = Модуль системы опознавания ED-209
+    .desc = Электронный модуль системы опознавания для ED-209.
+
+ent-EDWeaponControlsElectronics = Модуль управления оружием и наведения ED-209
+    .desc = Электронный модуль управления наведением для ED-209.

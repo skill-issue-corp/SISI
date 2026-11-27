@@ -1,12 +1,12 @@
-ent-AppearanceShattered = облик «Разбитый»
+ent-AppearanceShattered = Внешность расколотого
     .desc = { ent-BaseSpeciesAppearanceOrganless.desc }
 
-ent-MobShattered = Юрист МакРазбитый
+ent-MobShattered = Урист МакРасколотый
     .desc = { ent-AppearanceShattered.desc }
 
 ent-OrganShattered = { ent-OrganBaseExternal }
     .desc = { ent-OrganBaseExternal.desc }
-    .suffix = Разбитый
+    .suffix = Расколотый
 
 ent-OrganShatteredExternal = { ent-OrganShattered }
     .desc = { ent-OrganShattered.desc }

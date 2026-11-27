@@ -1,7 +1,7 @@
 ent-AreaAirlock = шлюз
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaArcade = аркада
+ent-AreaArcade = игровой автомат
     .desc = { ent-BaseAreaStation.desc }
 
 ent-AreaArrivals = прибытие
@@ -13,22 +13,22 @@ ent-AreaCryosleep = криосон
 ent-AreaDock = стыковочный узел
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaDorms = жилой отсек
+ent-AreaDorms = жилые помещения
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaDisposals = утилизация
+ent-AreaDisposals = мусоросброс
     .desc = { ent-BaseAreaStation.desc }
 
 ent-AreaEscapePods = спасательные капсулы
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaEvacHall = эвакуационный зал
+ent-AreaEvacHall = эвакуационный коридор
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaEvacLounge = эвакуационная гостиная
+ent-AreaEvacLounge = зал ожидания эвакуации
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaFitness = фитнес
+ent-AreaFitness = спортзал
     .desc = { ent-BaseAreaStation.desc }
 
 ent-AreaGarden = сад
@@ -46,7 +46,7 @@ ent-AreaLaserTag = лазертаг
 ent-AreaLaundry = прачечная
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaLounge = гостиная
+ent-AreaLounge = зал отдыха
     .desc = { ent-BaseAreaStation.desc }
 
 ent-AreaPool = бассейн
@@ -67,5 +67,5 @@ ent-AreaShower = душевая
 ent-AreaToilet = туалет
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaVacantRoom = пустующая комната
+ent-AreaVacantRoom = свободная комната
     .desc = { ent-BaseAreaStation.desc }

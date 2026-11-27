@@ -1,20 +1,20 @@
 ### EmitterComponent
 
 # Shows when attempting to turn the emitter on or off without proper access
-comp-emitter-access-locked = Доступ к { $target } заблокирован!
+comp-emitter-access-locked = {$target}: доступ заблокирован!
 
 # Shows when turning the emitter on/off
-comp-emitter-turned-on = { $target } включается.
+comp-emitter-turned-on = {$target} включается.
 
-comp-emitter-turned-off = { $target } отключается.
+comp-emitter-turned-off = {$target} выключается.
 
 # Shows if the user attempts to activate the emitter while it's un-anchored.
-comp-emitter-not-anchored = { $target } не закреплён!
+comp-emitter-not-anchored = {$target} не закреплён на полу!
 
-emitter-component-current-type = Установленный тип: { $type }.
-emitter-component-type-set = Установить тип: { $type }
+emitter-component-current-type = Сейчас выбран тип: [color=yellow]{$type}[/color].
+emitter-component-type-set = Установлен тип: {$type}
 
-emitter-destroyed-broadcast = Работающий эмиттер {$location} уничтожен.
-emitter-unlocked-broadcast = Работающий эмиттер {$location} откреплён.
-emitter-unpowered-broadcast = Работающий эмиттер {$location} потерял питание.
-emitter-turn-off-broadcast = Работающий эмиттер {$location} выключен.
+emitter-destroyed-broadcast = Эмиттер под напряжением уничтожен {$location}.
+emitter-unlocked-broadcast = Эмиттер под напряжением разблокирован {$location}.
+emitter-unpowered-broadcast = Эмиттер {$location} потерял питание.
+emitter-turn-off-broadcast = Эмиттер под напряжением выключен {$location}.

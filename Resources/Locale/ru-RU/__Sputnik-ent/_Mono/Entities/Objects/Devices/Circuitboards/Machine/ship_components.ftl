@@ -1,12 +1,11 @@
-ent-MachineGCSLowCircuitboard = маломощный сервер контроля артиллерийских орудий (машинная плата)
-    .desc = Машинная плата для сервера космических артиллерийских орудий.
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
-ent-MachineGCSMediumCircuitboard = среднемощный сервер контроля артиллерийских орудий (машинная плата)
-    .desc = Машинная плата для сервера космических артиллерийских орудий.
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
-ent-MachineGCSHighCircuitboard = мощный сервер контроля артиллерийских орудий (машинная плата)
-    .desc = Машинная плата для сервера космических артиллерийских орудий.
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
-ent-MachineGCSUltraCircuitboard = ультра мощный сервер контроля артиллерийских орудий (машинная плата)
-    .desc = Машинная плата для сервера космических артиллерийских орудий.
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-MachineGCSLowCircuitboard = плата маломощного сервера управления огнём
+    .desc = Машинная плата для сервера управления огнём.
+
+ent-MachineGCSMediumCircuitboard = плата сервера управления огнём средней мощности
+    .desc = Машинная плата для сервера управления огнём.
+
+ent-MachineGCSHighCircuitboard = плата сервера управления огнём высокой мощности
+    .desc = Машинная плата для сервера управления огнём.
+
+ent-MachineGCSUltraCircuitboard = плата сверхмощного сервера управления огнём
+    .desc = Машинная плата для сервера управления огнём.

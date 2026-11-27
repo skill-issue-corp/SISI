@@ -1,2 +1,2 @@
-ent-EnchantLavaforged = Выкованный из лавы
+ent-EnchantLavaforged = Лавакованный
     .desc = { ent-BaseEnchant.desc }

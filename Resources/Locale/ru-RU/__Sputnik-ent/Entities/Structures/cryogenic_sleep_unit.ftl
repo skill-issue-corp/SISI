@@ -1,8 +1,10 @@
-ent-CryogenicSleepUnit = капсула криогенного сна
-    .desc = Сверхохлаждаемый контейнер, обеспечивающий сохранность членов экипажа во время космических путешествий.
+ent-CryogenicSleepUnit = установка криосна
+    .desc = Сверхохлаждённый контейнер, защищающий членов экипажа во время космического полёта.
+
 ent-CryogenicSleepUnitSpawner = { ent-CryogenicSleepUnit }
-    .suffix = Спавнер, Начало раунда, Все должности
     .desc = { ent-CryogenicSleepUnit.desc }
+    .suffix = Точка Спавна, НачалоРаунда ВсеДолжности
+
 ent-CryogenicSleepUnitSpawnerLateJoin = { ent-CryogenicSleepUnit }
-    .suffix = Спавнер, Позднее присоединение
     .desc = { ent-CryogenicSleepUnit.desc }
+    .suffix = Точка Спавна, ПозднееПодключение

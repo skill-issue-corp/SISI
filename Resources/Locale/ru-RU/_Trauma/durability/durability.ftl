@@ -1,15 +1,15 @@
 durability-examine-condition =
     {"[color=#815dc9]"}Текущее состояние: [color={$color}]{$state}[/color][/color]
 durability-examine-weapon =
-    {"[color=#815dc9]"}Имеет модификатор урона [color={$color}]{$mod}x[/color].[/color]
+    {"[color=#815dc9]"}Множитель урона: [color={$color}]{$mod}x[/color].[/color]
 durability-examine-gun =
-    {"[color=#815dc9]"}К характеристикам оружия применён модификатор [color={$color}]{$mod}x[/color].[/color]
+    {"[color=#815dc9]"}К характеристикам оружия применяется множитель [color={$color}]{$mod}x[/color].[/color]
 durability-attempt-melee-destroyed =
-    {$weapon} слишком сломан, чтобы им пользоваться!
+    {$weapon} слишком повреждён для использования!
 durability-repair-popup =
-    {$weapon} был отремонтирован на {$amount}.
+    {$weapon} восстановлен на {$amount}.
 durability-reinforce-popup =
-    {$weapon} был усилен на {$amount}.
+    {$weapon} укреплён на {$amount}.
 durability-repair-max =
     {$weapon} уже полностью отремонтирован.
 durability-repair-irreparable =
@@ -18,18 +18,18 @@ durability-repair-irreparable =
 durability-repair-colortext =
     {"[color=#644f8f]"}- {$data}[/color]
 durability-repair-needed =
-    {""}[color=#644f8f]Для ремонта вам нужно{$requirements}[/color]
+    {""}[color=#644f8f]Для ремонта требуется{$requirements}[/color]
 durability-repair-single =
     {""}: {""}
 durability-repair-multiple =
-    {""} одно из следующего:
+    {""} что-то из следующего:
 
 # suffix durability-tool- with the tool quality
 durability-tool-anchoring =
     Любой гаечный ключ
 durability-tool-welding =
-    Любая сварка
+    Любой сварочный аппарат
 durability-tool-screwing =
     Любая отвёртка
 durability-tool-prying =
-    Любой монтировочный инструмент
+    Любой инструмент для поддевания

@@ -1,5 +1,5 @@
 ent-WeaponEnergyCrossbowBase = { ent-BaseWeaponBatterySmallNoAmmoCounter }
     .desc = { ent-BaseWeaponBatterySmallNoAmmoCounter.desc }
 
-ent-WeaponEnergyCrossbow = мини энергетический арбалет
-    .desc = Выпускает возобновляемые токсичные стрелы, способные мгновенно свалить цель с ног.
+ent-WeaponEnergyCrossbow = миниатюрный энергетический арбалет
+    .desc = Стреляет самовосполняющимися ядовитыми стрелами, способными моментально сбить цель с ног.

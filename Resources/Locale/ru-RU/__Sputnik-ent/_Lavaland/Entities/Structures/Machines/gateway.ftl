@@ -1,5 +1,6 @@
-ent-GatewayLavaland = врата Лаваленда
-    .desc = Прямо в пекло.
-ent-GatewayLavalandStation = врата Лаваленда
-    .desc = Прямо в пекло.
+ent-GatewayLavaland = врата в Лаваленд
+    .desc = Прямиком в ад.
+
+ent-GatewayLavalandStation = врата в Лаваленд
+    .desc = Прямиком в ад.
     .suffix = Станция

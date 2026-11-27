@@ -1,2 +1,2 @@
-ent-WatcherBoltIcewing = заряд ледокрылого наблюдателя
+ent-WatcherBoltIcewing = снаряд ледокрылого наблюдателя
     .desc = { ent-WatcherBolt.desc }

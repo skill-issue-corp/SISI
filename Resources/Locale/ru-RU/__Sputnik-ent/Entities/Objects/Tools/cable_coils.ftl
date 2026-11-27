@@ -1,42 +1,42 @@
 ent-CableStack = моток кабеля
-    .suffix = Полный
-    .desc = { ent-BaseItem.desc }
+    .desc = { ent-SolutionCompositeSmallStackable.desc }
+    .suffix = Полностью заполнено
 
 ent-CableHVStack = моток ВВ-кабеля
-    .suffix = Полный
-    .desc = Моток высоковольтных проводов для подключения генераторов энергии к СМЭС, подстанциям и специальному оборудованию.
+    .desc = ВВ-кабели для подключения двигателей к мощному оборудованию, СМЭСам и подстанциям.
+    .suffix = Полностью заполнено
 
 ent-CableHVStack10 = { ent-CableHVStack }
-    .suffix = 10
     .desc = { ent-CableHVStack.desc }
+    .suffix = 10
 
 ent-CableHVStack1 = { ent-CableHVStack }
-    .suffix = 1
     .desc = { ent-CableHVStack.desc }
+    .suffix = 1
 
 ent-CableMVStack = моток СВ-кабеля
-    .suffix = Полный
-    .desc = Моток средневольтных проводов для подключения подстанций к ЛКП, а также для питания некоторого оборудования, например, эмиттеров.
+    .desc = СВ-кабели для подключения подстанций к ЛКП и питания некоторых устройств, например эмиттеров.
+    .suffix = Полностью заполнено
 
 ent-SolutionCompositeCable = { ent-SolutionCompositeSmallStackable }
     .desc = { ent-SolutionCompositeSmallStackable.desc }
 
 ent-CableMVStack10 = { ent-CableMVStack }
-    .suffix = 10
     .desc = { ent-CableMVStack.desc }
+    .suffix = 10
 
 ent-CableMVStack1 = { ent-CableMVStack }
-    .suffix = 1
     .desc = { ent-CableMVStack.desc }
+    .suffix = 1
 
 ent-CableApcStack = моток НВ-кабеля
-    .desc = Моток низковольтных проводов для соединения ЛКП с устройствами, а также для других задач.
-    .suffix = Полный
+    .desc = Моток Низковольтных проводов для подключения машин к ЛКП и других задач.
+    .suffix = Полностью заполнено
 
 ent-CableApcStack10 = { ent-CableApcStack }
-    .suffix = 10
     .desc = { ent-CableApcStack.desc }
+    .suffix = 10
 
 ent-CableApcStack1 = { ent-CableApcStack }
-    .suffix = 1
     .desc = { ent-CableApcStack.desc }
+    .suffix = 1

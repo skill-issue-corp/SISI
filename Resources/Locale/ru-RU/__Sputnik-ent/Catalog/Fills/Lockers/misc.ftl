@@ -1,39 +1,39 @@
 ent-LockerSyndicatePersonalFilled = { ent-LockerSyndicatePersonal }
-    .desc = Это личный шкафчик для хранения снаряжения оперативника.
-    .suffix = Ядерный оперативник, Заполненный
+    .desc = Личный шкафчик для снаряжения оперативников.
+    .suffix = Ядерный, Заполнено
 
-ent-LockerSyndicateWallFilled = { ent-BaseWallLocker }
-    .desc = Это личный шкафчик для хранения снаряжения оперативника.
-    .suffix = Ядерный оперативник, Заполненный
+ent-LockerSyndicateWallFilled = { ent-LockerWallSyndicate }
+    .desc = Личный шкафчик для снаряжения оперативников.
+    .suffix = Ядерный, Заполнено
 
 ent-ClosetEmergencyFilledRandom = { ent-ClosetEmergency }
     .desc = { ent-ClosetEmergency.desc }
-    .suffix = Заполненный, Случайный
+    .suffix = Заполнено, Случайно
 
 ent-ClosetWallEmergencyFilledRandom = { ent-ClosetWallEmergency }
     .desc = { ent-ClosetWallEmergency.desc }
-    .suffix = Заполненный, Случайный
+    .suffix = Заполнено, Случайно
 
 ent-ClosetEmergencyN2FilledRandom = { ent-ClosetEmergencyN2 }
     .desc = { ent-ClosetEmergencyN2.desc }
-    .suffix = Заполненный, Случайный
+    .suffix = Заполнено, Случайно
 
 ent-ClosetWallEmergencyN2FilledRandom = { ent-ClosetWallEmergencyN2 }
     .desc = { ent-ClosetWallEmergencyN2.desc }
-    .suffix = Заполненный, Случайный
+    .suffix = Заполнено, Случайно
 
 ent-ClosetFireFilled = { ent-ClosetFire }
     .desc = { ent-ClosetFire.desc }
-    .suffix = Заполненный
+    .suffix = Заполнено
 
 ent-ClosetWallFireFilledRandom = { ent-ClosetWallFire }
     .desc = { ent-ClosetWallFire.desc }
-    .suffix = Заполненный
+    .suffix = Заполнено
 
 ent-ClosetMaintenanceFilledRandom = { ent-ClosetMaintenance }
     .desc = { ent-ClosetMaintenance.desc }
-    .suffix = Заполненный, Случайный
+    .suffix = Заполнено, Случайно
 
 ent-ClosetWallMaintenanceFilledRandom = { ent-ClosetWall }
     .desc = { ent-ClosetWall.desc }
-    .suffix = Заполненный, Случайный
+    .suffix = Заполнено, Случайно

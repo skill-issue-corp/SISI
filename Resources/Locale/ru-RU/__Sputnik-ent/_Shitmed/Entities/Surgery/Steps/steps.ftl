@@ -1,16 +1,16 @@
 ent-SurgeryStepBase = { "" }
     .desc = { "" }
 
-ent-SurgeryStepOpenIncisionScalpel = Разрезать скальпелем
+ent-SurgeryStepOpenIncisionScalpel = Сделать надрез скальпелем
     .desc = { ent-SurgeryStepBase.desc }
 
 ent-SurgeryStepClampBleeders = Пережать кровоточащие сосуды
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepCloseBloodOutputs = Зашить повреждённые ткани
+ent-SurgeryStepCloseBloodOutputs = Ушить разрушенные ткани
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepRetractSkin = Оттянуть кожу
+ent-SurgeryStepRetractSkin = Развести края кожи
     .desc = { ent-SurgeryStepBase.desc }
 
 ent-SurgeryStepRemoveSeveredSkin = Удалить омертвевшую кожу
@@ -19,46 +19,46 @@ ent-SurgeryStepRemoveSeveredSkin = Удалить омертвевшую кож�
 ent-SurgeryStepSawBones = Распилить кости
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepRemoveLeftoverBones = Убрать костные обломки
+ent-SurgeryStepRemoveLeftoverBones = Удалить костные обломки
     .desc = { ent-SurgeryStepBase.desc }
 
 ent-SurgeryStepMendBones = Срастить кости
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepHealOrgans = Вылечить органы
+ent-SurgeryStepHealOrgans = Лечение Органов
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepPriseOpenBones = Раскрыть кости
+ent-SurgeryStepPriseOpenBones = Развести кости
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepCloseBones = Сомкнуть кости
+ent-SurgeryStepCloseBones = Свести кости
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepSealBones = Запечатать кости
+ent-SurgeryStepSealBones = Соединить кости
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepSealSkull = Запечатать череп
+ent-SurgeryStepSealSkull = Закрыть череп
     .desc = { ent-SurgeryStepSealBones.desc }
 
-ent-SurgeryStepSealRibcage = Запечатать грудную клетку
+ent-SurgeryStepSealRibcage = Закрыть грудную клетку
     .desc = { ent-SurgeryStepSealBones.desc }
 
-ent-SurgeryStepCloseIncision = Зашить разрез
+ent-SurgeryStepCloseIncision = Закрыть разрез
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepInsertFeature = Вставить часть
+ent-SurgeryStepInsertFeature = Установить часть тела
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepSealWounds = Запечатать раны
+ent-SurgeryStepSealWounds = Закрыть раны
     .desc = { ent-SurgeryStepBase.desc }
 
 ent-SurgeryStepSawFeature = Распилить кости
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepClampInternalBleeders = Пережать внутренние кровоточащие сосуды
+ent-SurgeryStepClampInternalBleeders = Пережать кровоточащие внутренние сосуды
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepRemoveFeature = Ампутировать часть
+ent-SurgeryStepRemoveFeature = Ампутировать часть тела
     .desc = { ent-SurgeryStepBase.desc }
 
 ent-SurgeryStepCarefulIncisionScalpel = Сделать аккуратный разрез
@@ -70,10 +70,10 @@ ent-SurgeryStepRepairBruteTissue = Восстановить повреждённ
 ent-SurgeryStepRepairBurnTissue = Восстановить обожжённую ткань
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepSealTendWound = Запечатать рану
+ent-SurgeryStepSealTendWound = Закрыть рану
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepSealDismembermentWound = Зашить рану от ампутации
+ent-SurgeryStepSealDismembermentWound = Ушить рану от отрыва конечности
     .desc = { ent-SurgeryStepBase.desc }
 
 ent-SurgeryStepInsertItem = Поместить предмет в полость
@@ -82,29 +82,29 @@ ent-SurgeryStepInsertItem = Поместить предмет в полость
 ent-SurgeryStepRemoveItem = Извлечь предмет из полости
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepRemoveOrgan = Удалить орган
+ent-SurgeryStepRemoveOrgan = Извлечь орган
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepInsertOrgan = Добавить орган
+ent-SurgeryStepInsertOrgan = Установить орган
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepOpenOrganSlot = Вырезать полость
+ent-SurgeryStepOpenOrganSlot = Сформировать полость
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepSealOrganWound = Запечатать раны
+ent-SurgeryStepSealOrganWound = Закрыть раны
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepInsertAugmentPowerCellSlot = Добавить слот под батарею
+ent-SurgeryStepInsertAugmentPowerCellSlot = Установить отсек для батареи
     .desc = { ent-SurgeryStepInsertOrgan.desc }
 
-ent-SurgeryStepInsertAugmentPowerCellCharger = Добавить зарядное устройство батареи
+ent-SurgeryStepInsertAugmentPowerCellCharger = Установить зарядник батареи
     .desc = { ent-SurgeryStepInsertOrgan.desc }
 
-ent-SurgeryStepInsertAugmentArm = Добавить аугментацию руки
+ent-SurgeryStepInsertAugmentArm = Установить имплант руки
     .desc = { ent-SurgeryStepInsertOrgan.desc }
 
-ent-SurgeryStepLobotomize = Провести лоботомию пациента
+ent-SurgeryStepLobotomize = Провести лоботомию пациенту
     .desc = { ent-SurgeryStepBase.desc }
 
-ent-SurgeryStepMendBrainTissue = Восстановить ткань мозга
+ent-SurgeryStepMendBrainTissue = Восстановить мозговую ткань
     .desc = { ent-SurgeryStepBase.desc }

@@ -6,7 +6,7 @@ ent-MobPlasmaman = Урист МакПлазма
 
 ent-OrganPlasmaman = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = Плазмамен
+    .suffix = плазмамен
 
 ent-OrganPlasmamanInternal = { ent-OrganPlasmaman }
     .desc = { ent-OrganPlasmaman.desc }

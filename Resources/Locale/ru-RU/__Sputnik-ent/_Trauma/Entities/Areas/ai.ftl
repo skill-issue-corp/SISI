@@ -1,8 +1,8 @@
 ent-AreaAi = ИИ
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaAiCore = Ядро ИИ
+ent-AreaAiCore = ядро ИИ
     .desc = { ent-AreaAi.desc }
 
-ent-AreaAiUpload = Загрузка ИИ
+ent-AreaAiUpload = загрузка законов ИИ
     .desc = { ent-AreaAi.desc }

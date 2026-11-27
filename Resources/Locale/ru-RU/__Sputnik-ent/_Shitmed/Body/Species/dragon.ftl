@@ -3,7 +3,7 @@ ent-AppearanceDragon = внешность дракона
 
 ent-OrganDragon = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = Дракон
+    .suffix = дракон
 
 ent-OrganDragonExternal = { ent-OrganDragon }
     .desc = { ent-OrganDragon.desc }

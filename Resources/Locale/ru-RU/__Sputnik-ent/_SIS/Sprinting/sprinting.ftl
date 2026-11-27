@@ -1,8 +1,8 @@
 ent-SprintAnimation = Облако пыли
-    .desc = Ого, осторожно!
+    .desc = Эй, берегитесь!
 
-ent-SmallSprintAnimation = Маленькое облако пыли
-    .desc = Ого, осторожно!
+ent-SmallSprintAnimation = Небольшое облако пыли
+    .desc = Эй, берегитесь!
 
 ent-TinySprintAnimation = Крошечное облако пыли
-    .desc = Ого, осторожно!
+    .desc = Эй, берегитесь!

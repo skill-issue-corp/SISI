@@ -1,13 +1,13 @@
 ent-AppraisalToolRadioJammer = { ent-AppraisalTool }
     .desc = { ent-AppraisalTool.desc }
-    .suffix = Глушитель
+    .suffix = Глушилка
 
-ent-DoorRemoteSyndicate = пульт для дверей синдиката
-    .desc = Устройство, способное открывать и запирать двери на расстоянии. Эта версия работает для агентов Синдиката.
+ent-DoorRemoteSyndicate = пульт управления шлюзами синдиката
+    .desc = Устройство для удалённого открытия и блокировки шлюзов. Этот пульт предназначен для агентов синдиката.
 
 ent-BorgRadioJammer = радиоглушитель
     .desc = { ent-BaseJammer.desc }
 
 ent-HandheldStationMapRecordsTablet = карта станции
-    .desc = Показывает сведения о текущей станции.
-    .suffix = Планшет записей
+    .desc = Показывает карту текущей станции.
+    .suffix = Планшет Личных Дел

@@ -6,39 +6,42 @@
 
 reagent-effect-guidebook-deal-stamina-damage =
     { $chance ->
-        [1]
-            { $deltasign ->
+        [1] { $deltasign ->
                 [1] Наносит
-               *[-1] Восстанавливает
+                *[-1] Восстанавливает
             }
-       *[other]
+        *[other]
             { $deltasign ->
                 [1] наносит
-               *[-1] восстанавливает
+                *[-1] восстанавливает
             }
     } { $amount } { $immediate ->
-        [true] немедленный
-       *[false] постепенный
-    } урон выносливости
+                    [true] сразу
+                    *[false] постепенно
+                  } ед. урона выносливости
+
 reagent-effect-guidebook-stealth-entities = Маскирует живых существ поблизости.
-reagent-effect-guidebook-change-faction = Меняет фракцию существа на { $faction }.
-reagent-effect-guidebook-mutate-plants-nearby = Случайным образом мутирует ближайшие растения.
-reagent-effect-guidebook-dnascramble = Перемешивает ДНК существа.
-reagent-effect-guidebook-change-species = Превращает цель в { $species }.
-reagent-effect-guidebook-change-species-random = Превращает цель в совершенно случайный вид.
-reagent-effect-guidebook-sex-change = Изменяет половую принадлежность цели.
+
+reagent-effect-guidebook-change-faction = Меняет фракцию существа на {$faction}.
+
+reagent-effect-guidebook-mutate-plants-nearby = Вызывает случайные мутации растений поблизости.
+
+reagent-effect-guidebook-dnascramble = Перемешивает ДНК персонажа.
+
+reagent-effect-guidebook-change-species = Превращает цель в представителя вида {$species}.
+
+reagent-effect-guidebook-change-species-random = Превращает цель в представителя случайного вида.
+
 reagent-effect-guidebook-immunity-modifier =
     { $chance ->
         [1] Изменяет
-       *[other] изменяет
-    } скорость повышения иммунитета на { NATURALFIXED($gainrate, 5) }, силу на { NATURALFIXED($strength, 5) } как минимум на { NATURALFIXED($time, 3) } { $time ->
-        [one] секунду
-        [few] секунды
-       *[other] секунд
-    }
+        *[other] изменяет
+    } скорость выработки иммунитета на {NATURALFIXED($gainrate, 5)}, силу на {NATURALFIXED($strength, 5)} не менее чем на {guidebook-duration-seconds}
+
 reagent-effect-guidebook-disease-progress-change =
     { $chance ->
         [1] Изменяет
-       *[other] изменяет
-    } прогресс заболевания с типом { $type } на { NATURALFIXED($amount, 5) }
-reagent-effect-guidebook-disease-mutate = Мутирует заболевания на { NATURALFIXED($amount, 4) }
+        *[other] изменяет
+    } течение болезней типа {$type} на {NATURALFIXED($amount, 5)}
+
+reagent-effect-guidebook-disease-mutate = Вызывает мутации болезней на {NATURALFIXED($amount, 4)}

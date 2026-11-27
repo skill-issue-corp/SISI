@@ -1,7 +1,9 @@
-ent-BaseMagazineShotgunLeverRifle = магазин (8 калибр)
+ent-BaseMagazineShotgunLeverRifle = магазин (8 Калибр)
     .desc = { ent-BaseItem.desc }
-ent-MagazineShotgunLeverRifle = магазин для рычажной винтовки (8 калибр)
+
+ent-MagazineShotgunLeverRifle = магазин рычажной винтовки (8 Калибр)
     .desc = { ent-BaseMagazineShotgunLeverRifle.desc }
+
 ent-MagazineShotgunLeverRifleEmpty = { ent-MagazineShotgunLeverRifle }
-    .suffix = Пустой
     .desc = { ent-MagazineShotgunLeverRifle.desc }
+    .suffix = Пусто

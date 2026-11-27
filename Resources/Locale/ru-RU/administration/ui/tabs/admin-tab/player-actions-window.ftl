@@ -1,9 +1,9 @@
 admin-player-actions-window-ban = Панель банов
-admin-player-actions-window-admin-ghost = Админ призрак
-admin-player-actions-window-permissions = Панель доступов
-admin-player-actions-window-announce = Сделать объявление
-admin-player-actions-window-shuttle = Вызвать/отозвать шаттл
+admin-player-actions-window-admin-ghost = Призрак Администратора
+admin-player-actions-window-permissions = Панель Разрешений
+admin-player-actions-window-announce = Объявить
+admin-player-actions-window-shuttle = Вызвать/Отозвать Шаттл
 admin-player-actions-window-event-log = Журнал событий
-admin-player-actions-window-admin-logs = Админ логи
-admin-player-actions-window-admin-fax = Админ факс
-admin-player-actions-window-admin-chat = Админ чат
+admin-player-actions-window-admin-logs = Административный Журнал
+admin-player-actions-window-admin-fax = Факс Администратора
+admin-player-actions-window-admin-chat = Чат Администраторов

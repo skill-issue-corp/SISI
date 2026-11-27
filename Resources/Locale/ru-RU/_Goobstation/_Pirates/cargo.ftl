@@ -4,5 +4,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-pirates-ransom-irs-name = Налоговые обязательства
-pirates-ransom-irs-desc = Уплатите { $num } кредитов в виде налогов.
+pirates-ransom-irs-name = Налоговые Обязательства
+pirates-ransom-irs-desc = Уплатите {$num} { $num ->
+    [one] кредит
+    [few] кредита
+    [many] кредитов
+   *[other] кредита
+} в счёт налогов.

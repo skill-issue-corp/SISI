@@ -4,11 +4,11 @@ ent-BulletLaser = лазерный заряд
 ent-BulletLaserSpread = широкий лазерный залп
     .desc = { ent-BulletLaser.desc }
 
-ent-BulletLaserSpreadNarrow = узкий лазерный залп
+ent-BulletLaserSpreadNarrow = летальный лазерный залп
     .desc = { ent-BulletLaser.desc }
 
-ent-BulletLaserMagnum = лазерный заряд «Магнум»
+ent-BulletLaserMagnum = лазерный заряд магнума
     .desc = { ent-BulletLaser.desc }
 
-ent-BulletLaserWindowPiercingMagnum = пробивающий окна лазерный заряд «Магнум»
+ent-BulletLaserWindowPiercingMagnum = заряд магнума, пробивающий окна
     .desc = { ent-BulletLaser.desc }

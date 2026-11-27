@@ -1,49 +1,49 @@
-ent-ActionMimeMalaiseII = Мимическая апатия II
+ent-ActionMimeMalaiseII = Мимическая Апатия II
     .desc = { ent-ActionMimeMalaise.desc }
 
-ent-ActionMimeMalaiseIII = Мимическая апатия III
+ent-ActionMimeMalaiseIII = Мимическая Апатия III
     .desc = { ent-ActionMimeMalaise.desc }
 
-ent-ActionMimeMalaiseIV = Мимическая апатия IV
+ent-ActionMimeMalaiseIV = Мимическая Апатия IV
     .desc = { ent-ActionMimeMalaise.desc }
 
-ent-ActionMimeMalaiseV = Мимическая апатия V
+ent-ActionMimeMalaiseV = Мимическая Апатия V
     .desc = { ent-ActionMimeMalaise.desc }
 
-ent-ActionCluwneCurseII = Проклятие КлУвНи II
+ent-ActionCluwneCurseII = Проклятие Клувеня II
     .desc = { ent-ActionCluwneCurse.desc }
 
-ent-ActionCluwneCurseIII = Проклятие КлУвНи III
+ent-ActionCluwneCurseIII = Проклятие Клувеня III
     .desc = { ent-ActionCluwneCurse.desc }
 
-ent-ActionBananaTouchII = Прикосновение банана II
+ent-ActionBananaTouchII = Прикосновение Банана II
     .desc = { ent-ActionBananaTouch.desc }
 
-ent-ActionBananaTouchIII = Прикосновение банана III
+ent-ActionBananaTouchIII = Прикосновение Банана III
     .desc = { ent-ActionBananaTouch.desc }
 
-ent-ActionBananaTouchIV = Прикосновение банана IV
+ent-ActionBananaTouchIV = Прикосновение Банана IV
     .desc = { ent-ActionBananaTouch.desc }
 
-ent-ActionBananaTouchV = Прикосновение банана V
+ent-ActionBananaTouchV = Прикосновение Банана V
     .desc = { ent-ActionBananaTouch.desc }
 
-ent-ActionMagicMissileII = Магические снаряды II
+ent-ActionMagicMissileII = Волшебная Стрела II
     .desc = { ent-ActionMagicMissile.desc }
 
-ent-ActionMagicMissileIII = Магические снаряды III
+ent-ActionMagicMissileIII = Волшебная Стрела III
     .desc = { ent-ActionMagicMissile.desc }
 
-ent-ActionDisableTechII = Отключение техники II
+ent-ActionDisableTechII = Отключение Техники II
     .desc = { ent-ActionDisableTech.desc }
 
-ent-ActionDisableTechIII = Отключение техники III
+ent-ActionDisableTechIII = Отключение Техники III
     .desc = { ent-ActionDisableTech.desc }
 
-ent-ActionDisableTechIV = Отключение техники IV
+ent-ActionDisableTechIV = Отключение Техники IV
     .desc = { ent-ActionDisableTech.desc }
 
-ent-ActionDisableTechV = Отключение техники V
+ent-ActionDisableTechV = Отключение Техники V
     .desc = { ent-ActionDisableTech.desc }
 
 ent-ActionSmokeII = Дым II
@@ -64,10 +64,10 @@ ent-ActionRepulseIV = Отталкивание IV
 ent-ActionRepulseV = Отталкивание V
     .desc = { ent-ActionRepulse.desc }
 
-ent-ActionStopTimeII = Остановка времени II
+ent-ActionStopTimeII = Остановка Времени II
     .desc = { ent-ActionStopTime.desc }
 
-ent-ActionStopTimeIII = Остановка времени III
+ent-ActionStopTimeIII = Остановка Времени III
     .desc = { ent-ActionStopTime.desc }
 
 ent-ActionBlindII = Ослепление II
@@ -82,19 +82,19 @@ ent-ActionBlindIV = Ослепление IV
 ent-ActionBlindV = Ослепление V
     .desc = { ent-ActionBlindSpell.desc }
 
-ent-ActionMutateII = Мутация II
+ent-ActionMutateII = Мутировать II
     .desc = { ent-ActionMutateSpell.desc }
 
-ent-ActionTeslaBlastII = Тесла-взрыв II
+ent-ActionTeslaBlastII = Взрыв Теслы II
     .desc = { ent-ActionTeslaBlast.desc }
 
-ent-ActionTeslaBlastIII = Тесла-взрыв III
+ent-ActionTeslaBlastIII = Взрыв Теслы III
     .desc = { ent-ActionTeslaBlast.desc }
 
-ent-ActionTeslaBlastIV = Тесла-взрыв IV
+ent-ActionTeslaBlastIV = Взрыв Теслы IV
     .desc = { ent-ActionTeslaBlast.desc }
 
-ent-ActionTeslaBlastV = Тесла-взрыв V
+ent-ActionTeslaBlastV = Взрыв Теслы V
     .desc = { ent-ActionTeslaBlast.desc }
 
 ent-ActionLightningBoltII = Молния II
@@ -109,52 +109,52 @@ ent-ActionLightningBoltIV = Молния IV
 ent-ActionLightningBoltV = Молния V
     .desc = { ent-ActionLightningBolt.desc }
 
-ent-ActionHomingToolboxII = Самонаводящийся ящик II
+ent-ActionHomingToolboxII = Самонаводящийся Ящик II
     .desc = { ent-ActionHomingToolbox.desc }
 
-ent-ActionHomingToolboxIII = Самонаводящийся ящик III
+ent-ActionHomingToolboxIII = Самонаводящийся Ящик III
     .desc = { ent-ActionHomingToolbox.desc }
 
-ent-ActionHomingToolboxIV = Самонаводящийся ящик IV
+ent-ActionHomingToolboxIV = Самонаводящийся Ящик IV
     .desc = { ent-ActionHomingToolbox.desc }
 
-ent-ActionHomingToolboxV = Самонаводящийся ящик V
+ent-ActionHomingToolboxV = Самонаводящийся Ящик V
     .desc = { ent-ActionHomingToolbox.desc }
 
-ent-ActionArcaneBarrageII = Арканный залп II
+ent-ActionArcaneBarrageII = Мистический Шквал II
     .desc = { ent-ActionArcaneBarrage.desc }
 
-ent-ActionArcaneBarrageIII = Арканный залп III
+ent-ActionArcaneBarrageIII = Мистический Шквал III
     .desc = { ent-ActionArcaneBarrage.desc }
 
-ent-ActionLesserSummonGunsII = Малый призыв оружия II
+ent-ActionLesserSummonGunsII = Малый Призыв Оружия II
     .desc = { ent-ActionLesserSummonGuns.desc }
 
-ent-ActionLesserSummonGunsIII = Малый призыв оружия III
+ent-ActionLesserSummonGunsIII = Малый Призыв Оружия III
     .desc = { ent-ActionLesserSummonGuns.desc }
 
-ent-ActionBarnyardCurseII = Проклятие скотного двора II
+ent-ActionBarnyardCurseII = Проклятие Скотного Двора II
     .desc = { ent-ActionBarnyardCurse.desc }
 
-ent-ActionBarnyardCurseIII = Проклятие скотного двора III
+ent-ActionBarnyardCurseIII = Проклятие Скотного Двора III
     .desc = { ent-ActionBarnyardCurse.desc }
 
-ent-ActionScreamForMeII = Кричи для меня II
+ent-ActionScreamForMeII = Кричи Для Меня II
     .desc = { ent-ActionScreamForMe.desc }
 
-ent-ActionScreamForMeIII = Кричи для меня III
+ent-ActionScreamForMeIII = Кричи Для Меня III
     .desc = { ent-ActionScreamForMe.desc }
 
-ent-ActionScreamForMeIV = Кричи для меня IV
+ent-ActionScreamForMeIV = Кричи Для Меня IV
     .desc = { ent-ActionScreamForMe.desc }
 
-ent-ActionScreamForMeV = Кричи для меня V
+ent-ActionScreamForMeV = Кричи Для Меня V
     .desc = { ent-ActionScreamForMe.desc }
 
-ent-ActionTeleportII = Телепортация II
+ent-ActionTeleportII = Телепортироваться II
     .desc = { ent-ActionTeleportWizard.desc }
 
-ent-ActionTeleportIII = Телепортация III
+ent-ActionTeleportIII = Телепортироваться III
     .desc = { ent-ActionTeleportWizard.desc }
 
 ent-ActionTrapsII = Ловушки! II
@@ -169,16 +169,16 @@ ent-ActionTrapsIV = Ловушки! IV
 ent-ActionTrapsV = Ловушки! V
     .desc = { ent-ActionTrapsSpell.desc }
 
-ent-ActionLesserSummonBeesII = Малый призыв пчел II
+ent-ActionLesserSummonBeesII = Малый Призыв Пчёл II
     .desc = { ent-ActionLesserSummonBees.desc }
 
-ent-ActionLesserSummonBeesIII = Малый призыв пчел III
+ent-ActionLesserSummonBeesIII = Малый Призыв Пчёл III
     .desc = { ent-ActionLesserSummonBees.desc }
 
-ent-ActionSanguineStrikeII = Кровавый удар II
+ent-ActionSanguineStrikeII = Кровавый Удар II
     .desc = { ent-ActionSanguineStrike.desc }
 
-ent-ActionSanguineStrikeIII = Кровавый удар III
+ent-ActionSanguineStrikeIII = Кровавый Удар III
     .desc = { ent-ActionSanguineStrike.desc }
 
 ent-ActionSwapII = Обмен II
@@ -187,52 +187,52 @@ ent-ActionSwapII = Обмен II
 ent-ActionSwapIII = Обмен III
     .desc = { ent-ActionSwapSpell.desc }
 
-ent-ActionBlinkII = Прыжок II
+ent-ActionBlinkII = Скачок II
     .desc = { ent-ActionBlinkSpell.desc }
 
-ent-ActionBlinkIII = Прыжок III
+ent-ActionBlinkIII = Скачок III
     .desc = { ent-ActionBlinkSpell.desc }
 
-ent-ActionForceWallII = Силовой барьер II
+ent-ActionForceWallII = Силовая Стена II
     .desc = { ent-ActionForceWall.desc }
 
-ent-ActionForceWallIII = Силовой барьер III
+ent-ActionForceWallIII = Силовая Стена III
     .desc = { ent-ActionForceWall.desc }
 
-ent-ActionForceWallIV = Силовой барьер IV
+ent-ActionForceWallIV = Силовая Стена IV
     .desc = { ent-ActionForceWall.desc }
 
-ent-ActionForceWallV = Силовой барьер V
+ent-ActionForceWallV = Силовая Стена V
     .desc = { ent-ActionForceWall.desc }
 
-ent-ActionChargeII = Заряд II
+ent-ActionChargeII = Зарядка II
     .desc = { ent-ActionChargeSpell.desc }
 
-ent-ActionChargeIII = Заряд III
+ent-ActionChargeIII = Зарядка III
     .desc = { ent-ActionChargeSpell.desc }
 
-ent-ActionChargeIV = Заряд IV
+ent-ActionChargeIV = Зарядка IV
     .desc = { ent-ActionChargeSpell.desc }
 
-ent-ActionChargeV = Заряд V
+ent-ActionChargeV = Зарядка V
     .desc = { ent-ActionChargeSpell.desc }
 
-ent-ActionMindSwapII = Обмен Сознаниями II
+ent-ActionMindSwapII = Обмен Разумами II
     .desc = { ent-ActionMindSwap.desc }
 
-ent-ActionMindSwapIII = Обмен Сознаниями III
+ent-ActionMindSwapIII = Обмен Разумами III
     .desc = { ent-ActionMindSwap.desc }
 
-ent-ActionSmiteII = Дезинтегрирование II
+ent-ActionSmiteII = Кара II
     .desc = { ent-ActionSmite.desc }
 
-ent-ActionSmiteIII = Дезинтегрирование III
+ent-ActionSmiteIII = Кара III
     .desc = { ent-ActionSmite.desc }
 
-ent-ActionKnockII = Стук II
+ent-ActionKnockII = Взлом II
     .desc = { ent-ActionKnock.desc }
 
-ent-ActionKnockIII = Стук III
+ent-ActionKnockIII = Взлом III
     .desc = { ent-ActionKnock.desc }
 
 ent-ActionSpellCardsII = Карты Заклинаний II
@@ -241,16 +241,16 @@ ent-ActionSpellCardsII = Карты Заклинаний II
 ent-ActionSpellCardsIII = Карты Заклинаний III
     .desc = { ent-ActionSpellCards.desc }
 
-ent-ActionPolymorphWizardRodII = Форма Жезла II
+ent-ActionPolymorphWizardRodII = Форма Стержня II
     .desc = { ent-ActionPolymorphWizardRod.desc }
 
-ent-ActionPolymorphWizardRodIII = Форма Жезла III
+ent-ActionPolymorphWizardRodIII = Форма Стержня III
     .desc = { ent-ActionPolymorphWizardRod.desc }
 
-ent-ActionPolymorphWizardRodIV = Форма Жезла IV
+ent-ActionPolymorphWizardRodIV = Форма Стержня IV
     .desc = { ent-ActionPolymorphWizardRod.desc }
 
-ent-ActionPolymorphWizardRodV = Форма Жезла V
+ent-ActionPolymorphWizardRodV = Форма Стержня V
     .desc = { ent-ActionPolymorphWizardRod.desc }
 
 ent-ActionSummonSimiansII = Призыв Приматов II

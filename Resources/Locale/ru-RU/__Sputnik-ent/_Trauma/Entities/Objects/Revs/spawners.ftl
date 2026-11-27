@@ -1,8 +1,11 @@
-ent-RevDropPodTraps = маяк грузового модуля (форма для шипов)
-    .desc = Взламывает ближайший грузовой модуль с нужными предметами и перенаправляет его к вашему местоположению.
-ent-RevDropPodMelees = маяк грузового модуля (форма для улучшений ближнего боя)
+ent-RevDropPodTraps = маяк десантной капсулы (форма для литья шипов)
+    .desc = Перехватывает ближайшую грузовую капсулу с нужными предметами и перенаправляет её к вам.
+
+ent-RevDropPodMelees = маяк десантной капсулы (форма для литья улучшенного оружия ближнего боя)
     .desc = { ent-RevDropPodTraps.desc }
-ent-SpawnPodRevTraps = модуль революционных шипов
+
+ent-SpawnPodRevTraps = капсула с шипами для ревов
     .desc = { ent-SpawnSupplyEmpty.desc }
-ent-SpawnPodRevMelees = модуль революционных улучшений ближнего боя
+
+ent-SpawnPodRevMelees = капсула с улучшениями оружия ближнего боя для ревов
     .desc = { ent-SpawnSupplyEmpty.desc }

@@ -1,63 +1,63 @@
-ent-ClothingHeadHatBunny = кроличьи ушки
-    .desc = Милые ушки кролика.
+ent-ClothingHeadHatBunny = заячьи ушки
+    .desc = Милые заячьи ушки.
 
-ent-ClothingHeadHatCake = шляпа с тортом
+ent-ClothingHeadHatCake = шляпа-торт
     .desc = Вы надели торт на голову. Гениально.
 
-ent-ClothingHeadHatChickenhead = голова цыплёнка
-    .desc = Это голова цыплёнка. Бок-бок-бок!
+ent-ClothingHeadHatChickenhead = куриная голова
+    .desc = Это куриная голова. Ко-ко-ко!
 
 ent-ClothingHeadHatFlowerWreath = цветочный венок
-    .desc = Венок из красочных цветов. Можно носить как на голове, так и на шее.
+    .desc = Венок из разноцветных цветов. Можно носить и на голове, и на шее.
 
-ent-ClothingHeadHatPumpkin = шляпа из тыквы
-    .desc = Светильник Джека! Считается, что он отпугивает злых духов.
+ent-ClothingHeadHatPumpkin = шляпа-тыква
+    .desc = Светильник джека! Считается, что он отпугивает злых духов.
 
-ent-ClothingHeadHatPwig = парик
-    .desc = Честно говоря, они выглядят просто смешно.
+ent-ClothingHeadHatPwig = пудреный парик
+    .desc = Если честно, они выглядят нелепо.
 
 ent-ClothingHeadMirror = налобный рефлектор
-    .desc = Сомневаюсь, что даже главный врач знает, как пользоваться этой штукой.
+    .desc = Сомневаюсь, что даже ГВ знает, как этим пользоваться.
 
-ent-ClothingHeadHatRichard = Ричард
-    .desc = Тебе нравится причинять боль людям?
+ent-ClothingHeadHatRichard = ричард
+    .desc = Тебе нравится причинять людям боль?
 
-ent-ClothingHeadHatSkub = шапка скаб
-    .desc = Лучше всего сочетается с костюмом скаба.
+ent-ClothingHeadHatSkub = шапка скаба
+    .desc = Лучше всего носить с Костюмом Скаба.
 
-ent-ClothingHeadHatShrineMaidenWig = парик святой девы
-    .desc = На этикетке написано: "Все вырученные средства пойдут в храм Хакурей".
+ent-ClothingHeadHatShrineMaidenWig = парик храмовой жрицы
+    .desc = На бирке написано «Вся выручка идёт храму Хакурэй».
 
-ent-ClothingHeadHatCone = предупредительный конус
+ent-ClothingHeadHatCone = сигнальный конус
     .desc = Этот конус пытается вас о чём-то предупредить!
 
-ent-ClothingHeadHatFancyCrown = причудливая корона
-    .desc = Пахнет дохлой крысой. Позволяет тебе говорить как она!
+ent-ClothingHeadHatFancyCrown = шикарная корона
+    .desc = Пахнет дохлой крысой. Позволяет говорить, как она!
 
 ent-ClothingHeadHatCatEars = кошачьи ушки
     .desc = НЯ!
 
 ent-ClothingHeadHatCatEarsValid = { ent-ClothingHeadHatCatEars }
-    .suffix = Valid, НЕ МАППИТЬ!
     .desc = { ent-ClothingHeadHatCatEars.desc }
+    .suffix = Валид, НЕ МАППИТЬ
 
-ent-ActionBecomeValid = Стать валидом
-    .desc = *замечает ваш знак смерти* owo whats this
+ent-ActionBecomeValid = Стать Валидом
+    .desc = *замечает твой знак на убийство* ово а это что
 
 ent-ClothingHeadHatDogEars = собачьи ушки
     .desc = Только для хороших мальчиков.
 
-ent-ClothingHeadHatSquid = сквидди
-    .desc = Напугайте своих друзей этой маской древнего ужаса.
+ent-ClothingHeadHatSquid = кальмарчик
+    .desc = Напугайте друзей этой потусторонней маской.
 
-ent-ClothingHeadHatRedRacoon = шапка рыжего енота
-    .desc = Пушистая шапка рыжего енота!
+ent-ClothingHeadHatRedRacoon = шапка красной панды
+    .desc = Пушистая шапка в виде красной панды!
 
-ent-WaterDropletHat = капелька воды
-    .desc = Делает 8-глазых друзей в 8 раз очаровательнее!
+ent-WaterDropletHat = капля воды
+    .desc = Делает 8-глазых друзей в 8 раз милее!
 
 ent-ClothingHeadHatHairflower = цветок для волос
-    .desc = Красивый цветок для волос, который можно вставить между локонами.
+    .desc = Красивый цветок, который можно вставить между прядями волос.
 
 ent-ClothingHeadPerformerWig = парик артиста
-    .desc = При детальном рассмотрении оказывается, что он сделан из оптического волокна.
+    .desc = При ближайшем рассмотрении оказывается, что он сделан из оптоволокна.

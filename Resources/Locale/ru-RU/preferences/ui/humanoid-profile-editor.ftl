@@ -1,26 +1,26 @@
 humanoid-profile-editor-randomize = Случайно
-humanoid-profile-editor-randomize-unlocked-button = Рандомизировать незаблокированное
+humanoid-profile-editor-randomize-unlocked-button = Случайно заполнить разблокированные поля
 humanoid-profile-editor-randomize-name-button = Имя
-humanoid-profile-editor-randomize-species-button = Раса
+humanoid-profile-editor-randomize-species-button = Вид
 humanoid-profile-editor-randomize-age-button = Возраст
 humanoid-profile-editor-randomize-sex-button = Пол
 humanoid-profile-editor-randomize-skin-button = Цвет кожи
 humanoid-profile-editor-randomize-eye-button = Цвет глаз
-humanoid-profile-editor-randomize-markings-button = Черты внешности
+humanoid-profile-editor-randomize-markings-button = Особенности внешности
 humanoid-profile-editor-name-label = Имя:
 humanoid-profile-editor-appearance-tab = Внешность
-humanoid-profile-editor-clothing = Отображать одежду
-humanoid-profile-editor-clothing-show = Переключить
+humanoid-profile-editor-clothing = Показывать одежду
+humanoid-profile-editor-clothing-show = Показать
 humanoid-profile-editor-sex-label = Пол:
 humanoid-profile-editor-sex-male-text = Мужской
 humanoid-profile-editor-sex-female-text = Женский
-humanoid-profile-editor-sex-unsexed-text = Отсутствует
+humanoid-profile-editor-sex-unsexed-text = Нет
 humanoid-profile-editor-voice-label = Голос:
 humanoid-profile-editor-age-label = Возраст:
 humanoid-profile-editor-skin-color-label = Цвет кожи:
-humanoid-profile-editor-species-label = Раса:
-humanoid-profile-editor-randomizer-lock-tooltip = Не позволяет значению быть рандомизированным
-humanoid-profile-editor-pronouns-label = Личное местоимение:
+humanoid-profile-editor-species-label = Вид:
+humanoid-profile-editor-randomizer-lock-tooltip = Запрещает случайное изменение этого значения
+humanoid-profile-editor-pronouns-label = Местоимения:
 humanoid-profile-editor-pronouns-male-text = Он / Его
 humanoid-profile-editor-pronouns-female-text = Она / Её
 humanoid-profile-editor-pronouns-epicene-text = Они / Их
@@ -34,23 +34,23 @@ humanoid-profile-editor-reset-button = Сбросить
 humanoid-profile-editor-spawn-priority-label = Приоритет спавна:
 humanoid-profile-editor-eyes-label = Цвет глаз:
 humanoid-profile-editor-jobs-tab = Должности
-humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Остаться в лобби, если должность недоступна.
-humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Получить должность «{ $overflowJob }», если должность недоступна.
+humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Остаться в лобби, если выбранная должность недоступна.
+humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Если выбранная должность недоступна, начать как {$overflowJob}.
 humanoid-profile-editor-preference-jumpsuit = Комбинезон
 humanoid-profile-editor-preference-jumpskirt = Юбка-комбинезон
 humanoid-profile-editor-preference-backpack = Рюкзак
 humanoid-profile-editor-preference-satchel = Сумка
 humanoid-profile-editor-preference-duffelbag = Вещмешок
-humanoid-profile-editor-guidebook-button-tooltip = Кликните для получения дополнительной информации
+humanoid-profile-editor-guidebook-button-tooltip = Нажмите, чтобы узнать больше
 
 # Spawn priority
 humanoid-profile-editor-preference-spawn-priority-none = Нет
-humanoid-profile-editor-preference-spawn-priority-arrivals = Зал прибытия
-humanoid-profile-editor-preference-spawn-priority-cryosleep = Капсула криосна
+humanoid-profile-editor-preference-spawn-priority-arrivals = Прибытие
+humanoid-profile-editor-preference-spawn-priority-cryosleep = Криосон
 
-humanoid-profile-editor-jobs-amount-in-department-tooltip = { $departmentName }
-humanoid-profile-editor-department-jobs-label = { $departmentName }
-humanoid-profile-editor-antags-tab = Антагонисты
+humanoid-profile-editor-jobs-amount-in-department-tooltip = Должности в отделе «{$departmentName}»
+humanoid-profile-editor-department-jobs-label = {$departmentName}: должности
+humanoid-profile-editor-antags-tab = Антаги
 humanoid-profile-editor-antag-preference-yes-button = Да
 humanoid-profile-editor-antag-preference-no-button = Нет
 
@@ -58,22 +58,22 @@ humanoid-profile-editor-job-priority-high-button = Высокий
 humanoid-profile-editor-job-priority-medium-button = Средний
 humanoid-profile-editor-job-priority-low-button = Низкий
 humanoid-profile-editor-job-priority-never-button = Никогда
-humanoid-profile-editor-naming-rules-warning = Внимание: Оскорбительные или странные имена и описания могут повлечь за собой беседу с администрацией. Прочитайте \[Правила\].
-humanoid-profile-editor-markings-tab = Черты внешности
+humanoid-profile-editor-naming-rules-warning = Внимание: за оскорбительные имена и имена в стиле LRP и описания персонажей администрация примет меры. Подробнее см. \[Правила\].
+humanoid-profile-editor-markings-tab = Особенности внешности
 humanoid-profile-editor-flavortext-tab = Описание
 
 # Traits
-humanoid-profile-editor-traits-tab = Черты персонажа
+humanoid-profile-editor-traits-tab = Черты
 humanoid-profile-editor-no-traits = Нет доступных черт
 
-humanoid-profile-editor-trait-count-hint = Доступно очков: [{ $current }/{ $max }]
+humanoid-profile-editor-trait-count-hint = Доступно очков: [{$current}/{$max}]
 
-trait-category-disabilities = Ограничения
-trait-category-speech = Черты речи
+trait-category-disabilities = Ограничения здоровья
+trait-category-speech = Особенности речи
 trait-category-quirks = Причуды
 
 # Voices
 humanoid-profile-editor-voice-masculine = Мужской
 humanoid-profile-editor-voice-feminine = Женский
 humanoid-profile-editor-voice-neutral = Нейтральный
-humanoid-profile-editor-voice-none = Безымянный голос
+humanoid-profile-editor-voice-none = Голос Без Названия

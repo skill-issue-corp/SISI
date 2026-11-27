@@ -1,7 +1,7 @@
 ent-AppearanceIPC = внешность КПБ
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobIPC = Урист МакПозитрон
+ent-MobIPC = Урист МакПозитроник
     .desc = { ent-AppearanceIPC.desc }
 
 ent-OrganIPC = { "" }
@@ -14,34 +14,34 @@ ent-OrganIPCInternal = { ent-OrganIPC }
 ent-OrganIPCExternal = { ent-OrganIPC }
     .desc = { ent-OrganIPC.desc }
 
-ent-OrganIPCTorso = торс КПБ
+ent-OrganIPCTorso = { ent-OrganIPCExternal }
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCHead = голова КПБ
+ent-OrganIPCHead = { ent-OrganIPCExternal }
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCArmLeft = левая рука КПБ
+ent-OrganIPCArmLeft = { ent-OrganIPCExternal }
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCArmRight = правая рука КПБ
+ent-OrganIPCArmRight = { ent-OrganIPCExternal }
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCHandLeft = левая кисть КПБ
+ent-OrganIPCHandLeft = { ent-OrganIPCExternal }
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCHandRight = правая кисть КПБ
+ent-OrganIPCHandRight = { ent-OrganIPCExternal }
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCLegLeft = левая нога КПБ
+ent-OrganIPCLegLeft = { ent-OrganIPCExternal }
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCLegRight = правая нога КПБ
+ent-OrganIPCLegRight = { ent-OrganIPCExternal }
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCFootLeft = левая ступня КПБ
+ent-OrganIPCFootLeft = { ent-OrganIPCExternal }
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCFootRight = правая ступня КПБ
+ent-OrganIPCFootRight = { ent-OrganIPCExternal }
     .desc = { ent-OrganIPCExternal.desc }
 
 ent-OrganIPCEyes = роботизированные глаза
@@ -54,4 +54,4 @@ ent-OrganIPCEars = звуковые рецепторы
     .desc = { ent-OrganIPCInternal.desc }
 
 ent-OrganIPCPump = микронасос
-    .desc = Микронасос, используемый для циркуляции хладагента.
+    .desc = Микронасос, обеспечивающий циркуляцию охлаждающей жидкости.

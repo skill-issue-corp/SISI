@@ -1,2 +1,2 @@
-ent-ClothingBackpackAbductor = инопланетная сумка
-    .desc = Обычный рюкзак, сотканный из прочного волокна.
+ent-ClothingBackpackAbductor = инопланетный рюкзак
+    .desc = Обычный рюкзак, сшитый из прочного волокна.

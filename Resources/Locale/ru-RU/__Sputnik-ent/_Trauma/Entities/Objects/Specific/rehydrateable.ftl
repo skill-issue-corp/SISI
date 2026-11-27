@@ -1,7 +1,7 @@
 ent-ShrimpCube = кубик креветки
     .desc = Просто добавьте воды! На свой страх и риск.
 
-ent-MantisShrimpCube = кубик креветки-богомола
+ent-MantisShrimpCube = кубик рака-богомола
     .desc = Просто добавьте воды! На свой страх и риск.
 
 ent-SpiderCrabCube = кубик краба-паука
@@ -19,7 +19,7 @@ ent-EelCube = кубик угря
 ent-HoloCarpCube = кубик голокарпа
     .desc = Просто добавьте воды! На свой страх и риск.
 
-ent-BrullbarCube = кубик брулбара
+ent-BrullbarCube = кубик бруллбара
     .desc = Просто добавьте воды! На свой страх и риск.
 
 ent-MantisCube = кубик богомола

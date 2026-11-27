@@ -1,36 +1,36 @@
-ent-WeaponHitscanDebug = бах хитскан 1 урон
-    .desc = пиу-пиу!
+ent-WeaponHitscanDebug = бах хитскан 1урона
+    .desc = пиу пиу!
     .suffix = DEBUG
 
-ent-WeaponHitscanDebugGib = бах хитскан гибер
+ent-WeaponHitscanDebugGib = бах хитскан гибалка
     .desc = { ent-WeaponHitscanDebug.desc }
 
-ent-WeaponPistolDebug = бах, готов
-    .desc = готов
+ent-WeaponPistolDebug = бах, труп
+    .desc = труп
     .suffix = DEBUG
 
-ent-MagazinePistolDebug = бах, готов магазин
-    .suffix = DEBUG
+ent-MagazinePistolDebug = бах, магазин труп
     .desc = { ent-BaseMagazinePistol.desc }
-
-ent-BulletDebug = бах, готова пуля
     .suffix = DEBUG
+
+ent-BulletDebug = бах, пуля труп
     .desc = { ent-BaseBullet.desc }
-
-ent-CartridgeDebug = бах, готов патрон
     .suffix = DEBUG
+
+ent-CartridgeDebug = бах, патрон труп
     .desc = { ent-BaseCartridgePistol.desc }
-
-ent-MeleeDebugGib = палка-бабах гибер
-    .desc = бей сильно, да
     .suffix = DEBUG
 
-ent-MeleeDebug100 = палка-бабах 100 урона
+ent-MeleeDebugGib = палка гиба
+    .desc = долбит сильно ага
+    .suffix = DEBUG
+
+ent-MeleeDebug100 = губ-палка 100урона
     .desc = { ent-MeleeDebugGib.desc }
 
-ent-MeleeDebug200 = палка-бабах 200 урона
+ent-MeleeDebug200 = губ-палка 200урона
     .desc = { ent-MeleeDebugGib.desc }
 
-ent-MeleeDebugUnbang = палка-небабах
-    .desc = бей мягко, да
+ent-MeleeDebugUnbang = палка антибаха
+    .desc = долбит слабо ага
     .suffix = DEBUG

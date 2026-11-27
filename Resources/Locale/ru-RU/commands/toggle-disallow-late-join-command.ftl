@@ -1,4 +1,4 @@
-cmd-toggledisallowlatejoin-desc = Разрешает или запрещает позднее подключение в раунд.
+cmd-toggledisallowlatejoin-desc = Разрешает или запрещает вход в уже начавшийся раунд.
 cmd-toggledisallowlatejoin-help = Использование: toggledisallowlatejoin <disallow>
-cmd-toggledisallowlatejoin-disabled = Позднее подключение отключено.
-cmd-toggledisallowlatejoin-enabled = Позднее подключение включено.
+cmd-toggledisallowlatejoin-disabled = Вход в начавшийся раунд запрещён.
+cmd-toggledisallowlatejoin-enabled = Вход в начавшийся раунд разрешён.

@@ -1,9 +1,12 @@
-ent-RevRadioJammer = революционный радиоглушитель
+ent-RevRadioJammer = радиоглушилка революционеров
     .desc = { ent-BaseRevMajorContraband.desc }
-ent-RevIDCard = революционная карта доступа
+
+ent-RevIDCard = карта доступа революционеров
     .desc = { ent-AgentIDCard.desc }
-ent-RevDoorFlatpack = плоскопак революционного шлюза
-    .desc = Плоскопак, используемый для постройки двери, запертой для карт доступа революционеров.
+
+ent-RevDoorFlatpack = упаковка шлюза революционеров
+    .desc = Упаковка для сборки шлюза, который открывается картами доступа революционеров.
+
 ent-AirlockRevolutionary = { ent-AirlockSyndicate }
     .desc = { ent-AirlockSyndicate.desc }
     .suffix = Революционный, Заперт

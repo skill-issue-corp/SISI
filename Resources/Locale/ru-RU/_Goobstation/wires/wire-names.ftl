@@ -1,1 +1,1 @@
-wires-board-name-camera = Камера наблюдения
+wires-board-name-camera = Камера Наблюдения

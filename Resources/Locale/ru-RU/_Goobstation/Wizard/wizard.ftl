@@ -4,18 +4,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-roles-antag-wizard-description-goob = Сейте хаос и разрушения на станции.
+roles-antag-wizard-description-goob = Сейте хаос и разрушение на станции.
 
-roles-antag-apprentice-name = Подмастерье
-roles-antag-apprentice-description = Помогай магу, который тебя призвал, и защищай его жизнь.
+roles-antag-apprentice-name = Ученик
+roles-antag-apprentice-description = Помогайте призвавшему вас волшебнику и оберегайте его жизнь.
 
-apprentice-roundend-name = подмастерье
+apprentice-roundend-name = ученик
 
-roles-wizard-name = Маг
-roles-wizard-objective = Семь бед и разрушений на станции.
+roles-wizard-name = Волшебник
+roles-wizard-objective = Сейте хаос и разрушение на станции.
 
-wizard-role-briefing = Вы — могущественный космический маг. Выживи и посей хаос на станции.
-apprentice-role-briefing = Вы — подмастерье космического мага. Сохраняй в живых того, кто тебя призвал.
+wizard-role-briefing = Вы космический волшебник. Выживите и устройте этим простакам настоящий хаос.
+apprentice-role-briefing = Вы ученик космического волшебника. Сохраните жизнь тому, кто вас призвал.
 
 # SIS-Start
 apprentice-role-greeting =
@@ -29,7 +29,7 @@ apprentice-role-greeting-desc =
 # SIS-End
 
 lich-greeting =
-    С отвратительным чувством пустоты вы в ужасе и восхищении наблюдаете, как кожа слезает с костей! Кровь закипает, нервы распадаются, глаза кипят! Пока ваши органы превращаются в пыль в безмясной груди, вы принимаете свой выбор.
-    Вы — лич.
+    С жутким чувством опустошения вы заворожённо и с ужасом смотрите, как кожа сползает с костей! Кровь кипит, нервы распадаются, глаза вскипают в глазницах! Пока органы рассыпаются в пыль в вашей лишённой плоти груди, вы примиряетесь со своим выбором.
+    Вы лич.
 
-objective-condition-wizard-alive-title = Убедитесь, что маг { $targetName } останется в живых.
+objective-condition-wizard-alive-title = Убедитесь, что волшебник {$targetName} останется в живых.

@@ -1,1 +1,1 @@
-inspect-mind-verb-get-data-text = Изучить Сознание
+inspect-mind-verb-get-data-text = Осмотреть Разум

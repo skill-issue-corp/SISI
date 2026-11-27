@@ -16,11 +16,23 @@ cortical-borer-sugar-block = Вы чувствуете что-то сладко�
 cortical-borer-already-control = Вы уже контролируете своего носителя.
 
 ## UI
-cortical-borer-dispenser-window-cost = {$cost} химикатов
+cortical-borer-dispenser-window-cost = {$cost} { $cost ->
+    [one] химикат
+    [few] химиката
+   *[other] химикатов
+}
 cortical-borer-ghostrole-name = Кортикальный Червь
 cortical-borer-ghostrole-desc = Космический червь, единственная цель которого - проникать в головы людей и откладывать там яйца.
 cortical-borer-ghostrole-rules = Откладывайте яйца и распространяйте свой улей, вы здесь не для того, чтобы убивать потенциальных носителей. Работайте с носителем или против него, чтобы добиться распространения, но не убивайте его без веской причины!
 
 ## Examine Text
-infested-control-examined = У вас осталось [color=#d842fc]{$timeremaining}[/color] секунд контроля над этим телом.
-cortical-borer-self-examine = У вас [color=#d842fc]{$chempoints}[/color] химикатов.
+infested-control-examined = У вас осталось [color=#d842fc]{$timeremaining}[/color] { $timeremaining ->
+    [one] секунда
+    [few] секунды
+   *[other] секунд
+} контроля над этим телом.
+cortical-borer-self-examine = У вас [color=#d842fc]{$chempoints}[/color] { $chempoints ->
+    [one] химикат
+    [few] химиката
+   *[other] химикатов
+}.

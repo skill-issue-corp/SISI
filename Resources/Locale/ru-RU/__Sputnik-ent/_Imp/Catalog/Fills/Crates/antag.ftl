@@ -1,7 +1,7 @@
-ent-CrateLeviathan = комплект «Левиафан»
+ent-CrateLeviathan = комплект leviathan
     .desc = { ent-CrateSyndicate.desc }
     .suffix = Заполнено
 
-ent-CrateXiuhcoatl = Комплект «Шиукоатль»
+ent-CrateXiuhcoatl = комплект Xiuhcoatl
     .desc = { ent-CrateSyndicate.desc }
     .suffix = Заполнено

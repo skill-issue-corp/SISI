@@ -1,4 +1,4 @@
-nuclear-centrifuge-insert-item = {CAPITALIZE($user)} поместил(а) {$item} в {$machine}.
+nuclear-centrifuge-insert-item = {CAPITALIZE($user)} помещает {$item} в {$machine}.
 
-nuclear-centrifuge-wrong-item = Вы не можете поместить {$item} сюда, оно не подходит.
-nuclear-centrifuge-unfit-item = {$item} не готов(о) к переработке.
+nuclear-centrifuge-wrong-item = Сюда нельзя поместить {$item}, он не подходит.
+nuclear-centrifuge-unfit-item = {$item} пока не годится для переработки.

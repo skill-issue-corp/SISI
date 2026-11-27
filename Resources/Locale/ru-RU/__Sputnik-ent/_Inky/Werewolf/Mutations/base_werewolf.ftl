@@ -1,5 +1,5 @@
 ent-BaseWerewolf = волк
-    .desc = Будем надеяться, он не укусит.
+    .desc = Будем надеяться, что он не кусается.
 
 ent-BaseWerewolfUnholy = { "" }
     .desc = { "" }

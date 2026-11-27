@@ -1,79 +1,79 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cqc-fail-notself = Вы не можете никого обучить с помощью {CAPITALIZE($manual)}.
+cqc-fail-notself = Вы не можете обучать других при помощи {CAPITALIZE($manual)}.
 
-cqc-fail-changeling = Мы выше использования этого.
-cqc-fail-knowanother = Вы уже знаете другое боевое искусство.
-cqc-fail-already = Вы уже знаете боевое искусство.
-cqc-success-unblocked = Ваши навыки РБК больше не привязаны к кухне.
-cqc-success-learned = Вы изучили РБК. Учебник испепеляется в ваших руках...
-capoeira-success-learned = Вы изучили капоэйру. Учебник испепеляется в ваших руках...
-dragon-success-learned = Вы изучили кунг-фу Дракона. Учебник испепеляется в ваших руках...
-ninjutsu-success-learned = Вы изучили ниндзюцу. Свиток испепеляется в ваших руках...
+cqc-fail-changeling = Мы уже переросли это.
+cqc-fail-knowanother = Вы уже владеете другим боевым искусством.
+cqc-fail-already = Вы уже владеете боевым искусством.
+cqc-success-unblocked = Ваши навыки ближнего боя теперь работают и за пределами кухни.
+cqc-success-learned = Вы освоили Ближний Рукопашный Бой. Руководство сгорает у вас в руках...
+capoeira-success-learned = Вы освоили Капоэйру. Руководство сгорает у вас в руках...
+dragon-success-learned = Вы освоили Драконье Кунг-Фу. Руководство сгорает у вас в руках...
+ninjutsu-success-learned = Вы освоили Ниндзюцу. Свиток сгорает у вас в руках...
 
-carp-scroll-waiting = Путь в тысячу ли начинается с одного шага, и путь мудрости проходят медленно, урок за уроком.
-carp-scroll-advance = Вы стали на один шаг ближе к тому, чтобы стать мастером Пути Спящего Карпа.
+carp-scroll-waiting = Путь в тысячу миль начинается с одного шага, а путь к мудрости проходят неторопливо, усваивая урок за уроком.
+carp-scroll-advance = Вы стали на шаг ближе к тому, чтобы стать мастером Пути Спящего Карпа.
 carp-scroll-complete = Теперь вы мастер Пути Спящего Карпа.
 
-carp-saying-huah = ХУА!
+carp-saying-huah = ХУАХ!
 carp-saying-hya = ХЬЯ!
-carp-saying-choo = ЧУУ!
-carp-saying-wuo = ВУО!
+carp-saying-choo = ЧУ!
+carp-saying-wuo = УО!
 carp-saying-kya = КЬЯ!
 carp-saying-huh = ХА!
-carp-saying-hiyoh = ХИЁ!
+carp-saying-hiyoh = ХИЙО!
 carp-saying-strike = УДАР КАРПА!
 carp-saying-bite = УКУС КАРПА!
 
 carp-saying-banzai = БАНЗАААЙ!
-carp-saying-kiya = КИЯААА!
-carp-saying-omae = ОМАЕ ВА МОУ СИНДЕИРУ!
+carp-saying-kiya = КИЯ-А-А-А!
+carp-saying-omae = ТЫ УЖЕ МЁРТВ!
 carp-saying-see = ТЫ МЕНЯ НЕ ВИДИШЬ!
 carp-saying-time = МОЁ ВРЕМЯ ПРИШЛО!!
 carp-saying-cowabunga = КАВАБАНГА!
 
-judo-saying-gold = ЗОЛОТО!
-judo-saying-en = ЭН!
+judo-saying-gold = ЗОЛО!
+judo-saying-en = ТО!
 judo-saying-blast = ВЗРЫВ!
 
 martial-arts-saying-generic = ХА!
 
-krav-maga-ready = Вы готовите {$action}
+krav-maga-ready = Вы готовите приём «{$action}»
 
-martial-arts-action-sender = Вы ударили {$name} приёмом {$move}
-martial-arts-action-receiver = {$name} ударил вас приёмом {$move}
+martial-arts-action-sender = Вы бьёте {$name}, используя «{$move}»
+martial-arts-action-receiver = {$name} бьёт вас, используя «{$move}»
 
-martial-arts-fail-prone = Вы не можете использовать это комбо лёжа!
-martial-arts-fail-standing = Нельзя выполнить этот приём стоя!
-martial-arts-fail-target-down = Вы не можете использовать это комбо на упавших целях!
-martial-arts-fail-target-standing = Вы не можете использовать это комбо на стоящих целях!
-martial-arts-fail-target-alive = Этот приём действует только на мёртвых!
-martial-arts-fail-target-headless = У цели нет головы, которую можно оторвать!
-martial-arts-fail-target-muted = Вы уже обезвредили цель!
-capoeira-fail-low-velocity = Вы слишком медлительны, чтобы выполнить это комбо!
-ninjutsu-fail-loss-of-surprise = Ваши намерения раскрыты! Невозможно выполнить этот приём!
+martial-arts-fail-prone = Нельзя выполнить эту комбинацию лёжа!
+martial-arts-fail-standing = Нельзя выполнить эту комбинацию стоя!
+martial-arts-fail-target-down = Нельзя применять эту комбинацию к лежащим целям!
+martial-arts-fail-target-standing = Нельзя применять эту комбинацию к стоящим целям!
+martial-arts-fail-target-alive = Этот приём работает только на мёртвых целях!
+martial-arts-fail-target-headless = Нет головы, которую можно оторвать!
+martial-arts-fail-target-muted = Вы уже прикончили цель!
+capoeira-fail-low-velocity = Вы движетесь слишком медленно для этой комбинации!
+ninjutsu-fail-loss-of-surprise = Ваши намерения раскрыты! Приём не выполнить!
 
-alerts-sneak-attack-name = Внезапная атака
-alerts-sneak-attack-desc = Для истинного синоби первый удар и последний удар — это одно и то же.
+alerts-sneak-attack-name = Скрытая Атака
+alerts-sneak-attack-desc = Для истинного синоби первый удар и последний — одно и то же.
 
-alerts-loss-of-surprise-name = Потеря внезапности
-alerts-loss-of-surprise-desc = Ваши намерения раскрыты! Вам потребуется некоторое время, прежде чем вы сможете снова напасть внезапно.
+alerts-loss-of-surprise-name = Утрата Внезапности
+alerts-loss-of-surprise-desc = Ваши намерения раскрыты! Пройдёт несколько мгновений, прежде чем вы сможете снова атаковать исподтишка.
 
-cqc-slam = БАБАХ!
-cqc-kick = БАМ!
-cqc-restrain = Захват!
+cqc-slam = БАМ!
+cqc-kick = БАХ!
+cqc-restrain = Хватай!
 cqc-pressure = Шлёп!
-cqc-consecutive = ПОДРЯД! Р! Б! К!
+cqc-consecutive = СЕРИЯ! Б! Р! Б!
 cqc-leg-sweep = Хия!
-spacebear-bearjaws = УКУС!
+spacebear-bearjaws = КУСЬ!
 spacebear-pawslam = УДАР ЛАПОЙ!
-spacebear-smokey = СМОКИ!
-judo-discombobulate = СБИВАНИЕ С ТОЛКУ!
-judo-eyepoke = ТЫК В ГЛАЗ!
+spacebear-smokey = СМОУКИ!
+judo-discombobulate = ОШЕЛОМИТЬ!
+judo-eyepoke = ТЫЧОК В ГЛАЗА!
 judo-throw = БРОСОК!
-judo-armbar = БОЛЕВОЙ НА РУКУ!
+judo-armbar = РЫЧАГ ЛОКТЯ!
 judo-wheelthrow = БРОСОК КОЛЕСОМ!
 
-no-martial-art = Нет боевого искусства
+no-martial-art = Без Боевого Искусства
 
-melee-clumsy-self-hit = Вы ударили сами себя!
+melee-clumsy-self-hit = Вы бьёте себя!

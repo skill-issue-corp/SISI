@@ -1,7 +1,7 @@
 language-RaiderSpeak-name = Набегаторский
-language-RaiderSpeak-description = Древний и надёжный язык, созданный во время второй войны тайдеров коммунистами-иммигрантами на станциях NanoTrasen.
+language-RaiderSpeak-description = Древний и робастный язык, созданный во время вторых войн тайдеров иммигрантами-коммунистами на станциях NanoTrasen.
 
 chat-language-RaiderSpeak-name = Набегаторский
 
 trait-language-raiderspeak-name = Набегаторский
-trait-language-raiderspeak-desc = Древний и надёжный язык, на котором в основном говорят набегеры. У обладателей щита разума не может быть этого языка.
+trait-language-raiderspeak-desc = Древний и робастный язык, на котором в основном говорят тайдеры. Носители щита разума не могут им владеть.

@@ -1,7 +1,7 @@
 ent-BaseAreaAbandoned = { ent-AreaMaints }
     .desc = { ent-AreaMaints.desc }
 
-ent-AreaAbandonedArcade = заброшенный зал автоматов
+ent-AreaAbandonedArcade = заброшенный аркадный зал
     .desc = { ent-BaseAreaAbandoned.desc }
 
 ent-AreaAbandonedBar = заброшенный бар
@@ -22,7 +22,7 @@ ent-AreaAbandonedLibrary = заброшенная библиотека
 ent-AreaAbandonedMed = заброшенный медотсек
     .desc = { ent-BaseAreaAbandoned.desc }
 
-ent-AreaAbandonedSci = заброшенный научный отсек
+ent-AreaAbandonedSci = заброшенный научный отдел
     .desc = { ent-BaseAreaAbandoned.desc }
 
 ent-AreaAbandonedTheatre = заброшенный театр

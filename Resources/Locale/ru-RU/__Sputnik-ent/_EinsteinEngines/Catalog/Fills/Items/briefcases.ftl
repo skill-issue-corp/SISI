@@ -1,9 +1,11 @@
 ent-BriefcaseSyndieLobbyingBundlePlasmamanFilled = { ent-BriefcaseSyndie }
-    .suffix = Синдикат, Кредиты, Плазмалюд
     .desc = { ent-BriefcaseSyndie.desc }
+    .suffix = Синдикат, Спесо, Плазмамен
+
 ent-ClothingOuterCoatJensenFilled = { ent-ClothingOuterCoatJensen }
-    .suffix = Флаг Синдиката
     .desc = { ent-ClothingOuterCoatJensen.desc }
+    .suffix = Внутри Флаг Синдиката
+
 ent-BriefcaseThiefBribingBundlePlasmamanFilled = { ent-BriefcaseSyndie }
-    .suffix = Вор, Кредиты, Плазмалюд
     .desc = { ent-BriefcaseSyndie.desc }
+    .suffix = Вор, Спесо, Плазмамен

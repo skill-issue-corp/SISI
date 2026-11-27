@@ -13,5 +13,5 @@ mode-select-verb-text = Выбрать режим стрельбы
 mode-selected = Выбран режим {$mode}
 
 # RequiresDualWieldComponent
-dual-wield-component-requires = Это недостаточно круто, вам нужно держать оружие в обеих руках.
-gun-requires-dual-wield-component-examine = Это оружие нужно держать в обеих руках, в паре с таким же, чтобы стрелять.
+dual-wield-component-requires = Так недостаточно круто. Нужно взять оружие в обе руки.
+gun-requires-dual-wield-component-examine = Из этого оружия можно стрелять только с парой таких же, по одному в каждой руке.

@@ -1,7 +1,7 @@
-deep-fried-examine = [color=#bf8a2e]Это обжарено во фритюре до золотистой корочки.[/color]
+deep-fried-examine = [color=#bf8a2e]Обжарено во фритюре до золотистой корочки.[/color]
 
 deep-fryer-not-enough-liquid = Во фритюрнице недостаточно масла!
-deep-fryer-no-power = Фритюрница должна быть подключена к питанию!
-deep-fryer-item-cooked = Фритюрница шипит, похоже, что-то уже готово!
+deep-fryer-no-power = Фритюрнице нужно питание!
+deep-fryer-item-cooked = Фритюрница шипит. Похоже, что-то приготовилось!
 
-deep-fried-item = жареный {$name}
+deep-fried-item = обжаренный во фритюре {$name}

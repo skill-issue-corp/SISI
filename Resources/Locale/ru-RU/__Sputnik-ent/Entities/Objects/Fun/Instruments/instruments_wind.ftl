@@ -2,25 +2,25 @@ ent-BaseWoodwindInstrument = { ent-BaseHandheldInstrument }
     .desc = { ent-BaseHandheldInstrument.desc }
 
 ent-SaxophoneInstrument = саксофон
-    .desc = Инструмент. Вероятно, вы можете перемолоть его в сырой джаз.
+    .desc = Музыкальный инструмент. Если смолоть, наверняка получится сырой джаз.
 
 ent-HarmonicaInstrument = губная гармошка
-    .desc = { ent-BaseHandheldInstrument.desc }
+    .desc = { ent-BaseWoodwindInstrument.desc }
 
 ent-ClarinetInstrument = кларнет
-    .desc = Фаворит осьминога со дна океана.
+    .desc = Сквидвард тинтаклейз.
 
 ent-FluteInstrument = флейта
-    .desc = Достигая новых высот ужасающей пронзительности.
+    .desc = Достигает новых высот в кошмарной пронзительности.
 
 ent-RecorderInstrument = блокфлейта
-    .desc = Доступна в различных цветах модного пластика!
+    .desc = Модный пластик разных цветов на выбор!
 
-ent-PanFluteInstrument = флейта Пана
-    .desc = Она же многоствольная флейта. Идеально подходит для заманивания древних мифических существ на танец с вами.
+ent-PanFluteInstrument = флейта пана
+    .desc = Идеально подходит, чтобы заманить древних мифических существ к себе на танцы.
 
 ent-OcarinaInstrument = окарина
-    .desc = Хороша для исполнения колыбельных.
+    .desc = Хороша для колыбельных.
 
 ent-BagpipeInstrument = волынка
-    .desc = Прекрасно сочетается с килтом.
+    .desc = Хорошо сочетается с килтом.

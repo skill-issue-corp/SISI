@@ -1,7 +1,7 @@
 genetics-printout-title = ГЕНЕТИЧЕСКИЙ СКАНЕР 4000
-genetics-printout-subject = ОБЪЕКТ: {$name}
-genetics-printout-sequences = ПРИСУТСТВУЕТ ПОСЛЕДОВАТЕЛЬНОСТЕЙ: {$count}
+genetics-printout-subject = ОБРАЗЕЦ : {$name}
+genetics-printout-sequences = НАЙДЕНО ПОСЛЕДОВАТЕЛЬНОСТЕЙ : {$count}
 genetics-printout-sequence = -- \[{$rarity}\] {$number}
 
-genetics-printout-sequence-title = ПОСЛЕДОВАТЕЛЬНОСТЬ: {$number}
-genetics-printout-sequence-rarity = РЕДКОСТЬ: {CAPITALIZE($rarity)}
+genetics-printout-sequence-title = ПОСЛЕДОВАТЕЛЬНОСТЬ : {$number}
+genetics-printout-sequence-rarity = РЕДКОСТЬ : {CAPITALIZE($rarity)}

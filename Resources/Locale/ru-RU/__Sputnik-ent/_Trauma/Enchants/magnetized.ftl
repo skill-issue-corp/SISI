@@ -1,2 +1,2 @@
-ent-EnchantMagnetized = Намагниченность
+ent-EnchantMagnetized = Намагничивание
     .desc = { ent-BaseEnchant.desc }

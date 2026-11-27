@@ -1,33 +1,43 @@
 ent-DefaultStationBeaconLavalandRuin = { ent-DefaultStationBeacon }
-    .suffix = Руины командования
     .desc = { ent-DefaultStationBeacon.desc }
+    .suffix = Командование
+
 ent-DefaultStationBeaconRuinAbductor = { ent-DefaultStationBeaconLavalandRuin }
-    .suffix = Руины абдукторов
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
+    .suffix = Руины Абдукторов
+
 ent-DefaultStationBeaconRuinArrivals = { ent-DefaultStationBeaconLavalandRuin }
-    .suffix = Руины отбытия
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
+    .suffix = Руины Зоны Прибытия
+
 ent-DefaultStationBeaconRuinBeachBiodome = { ent-DefaultStationBeaconLavalandRuin }
-    .suffix = Руины пляжного биодома
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
+    .suffix = Руины Пляжного Биокупола
+
 ent-DefaultStationBeaconRuinChemistryLab = { ent-DefaultStationBeaconLavalandRuin }
+    .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
     .suffix = Руины Синдиката
-    .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
+
 ent-DefaultStationBeaconRuinGolemShuttle = { ent-DefaultStationBeaconLavalandRuin }
-    .suffix = Руины шаттла голема
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
+    .suffix = Руины Шаттла Големов
+
 ent-DefaultStationBeaconRuinHierophantArena = { ent-DefaultStationBeaconLavalandRuin }
-    .suffix = Руины арены Иерофанта
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
+    .suffix = Руины Арены Иерофанта
+
 ent-DefaultStationBeaconRuinHunterShelter = { ent-DefaultStationBeaconLavalandRuin }
-    .suffix = Руины лагерь охотника
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
+    .suffix = Руины Укрытия Охотника
+
 ent-DefaultStationBeaconRuinSmallOutpost = { ent-DefaultStationBeaconLavalandRuin }
-    .suffix = Руины маленького аванпоста
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
+    .suffix = Руины Малого Аванпоста
+
 ent-DefaultStationBeaconRuinRougeAI = { ent-DefaultStationBeaconLavalandRuin }
-    .suffix = Руины грубого ИИ
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
+    .suffix = Руины Взбунтовавшегося ИИ
+
 ent-DefaultStationBeaconRuinSnowBiodome = { ent-DefaultStationBeaconLavalandRuin }
-    .suffix = Руины снежного биодома
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
+    .suffix = Руины Снежного Биокупола

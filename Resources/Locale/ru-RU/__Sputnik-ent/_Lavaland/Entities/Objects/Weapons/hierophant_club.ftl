@@ -1,5 +1,5 @@
-ent-LavalandHierophantClub = посох Иерофанта
-    .desc = Стал предметом, прикол.
+ent-LavalandHierophantClub = палица иерофанта
+    .desc = Теперь ты предмет, лол
 
-ent-LavalandHierophantMarker = странный маркер
-    .desc = Что это такое?
+ent-LavalandHierophantMarker = загадочная метка
+    .desc = Что это вообще такое?

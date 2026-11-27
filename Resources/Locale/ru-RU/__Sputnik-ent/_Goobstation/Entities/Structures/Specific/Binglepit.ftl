@@ -1,5 +1,6 @@
-ent-BinglePit = бинглпит
-    .desc = Выглядит голодным.
+ent-BinglePit = яма бинглов
+    .desc = Выглядит Голодной
+
 ent-BinglePitBingleless = { ent-BinglePit }
-    .suffix = Без начального
     .desc = { ent-BinglePit.desc }
+    .suffix = без начального бингла

@@ -1,23 +1,17 @@
-ent-VinylPlayerCircuitboard = виниловый проигрыватель (машинная плата)
+ent-VinylPlayerCircuitboard = плата винилового проигрывателя
     .desc = Печатная плата винилового проигрывателя.
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
 
-ent-TapeDeckCircuitboard = магнитофон (машинная плата)
-    .desc = Печатная плата магнитофона.
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-TapeDeckCircuitboard = плата кассетной деки
+    .desc = Печатная плата кассетной деки.
 
-ent-StationRadioServerCircuitboard = радиосервер (машинная плата)
-    .desc = Печатная плата радиосервера.
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-StationRadioServerCircuitboard = плата сервера станционного радио
+    .desc = Печатная плата сервера станционного радио.
 
-ent-StationRadioRigCircuitboard = радиоустановка (машинная плата)
-    .desc = Печатная плата радиоустановки.
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-StationRadioRigCircuitboard = плата оборудования станционного радио
+    .desc = Печатная плата оборудования станционного радио.
 
-ent-StationRadioCircuitboard = станционное радио (машинная плата)
-    .desc = Печатная плата станционного радио.
-    .suffix = { ent-BaseMachineCircuitboard.suffix }
+ent-StationRadioCircuitboard = плата станционного радио
+    .desc = Печатная плата приёмника станционного радио.
 
-ent-VirologyServerMachineCircuitboard = сервер вирусологии (машинная плата)
+ent-VirologyServerMachineCircuitboard = плата сервера вирусологии
     .desc = Печатная плата сервера вирусологии.
-    .suffix = { ent-BaseMachineCircuitboard.suffix }

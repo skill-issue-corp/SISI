@@ -1,4 +1,5 @@
-ent-BulletRocketLAW = кумулятивная ракета 84мм
+ent-BulletRocketLAW = 84мм кумулятивная ракета
     .desc = { ent-BaseBulletTrigger.desc }
-ent-BulletRocketShmel = термобарическая ракета 93мм
+
+ent-BulletRocketShmel = 93мм термобарическая ракета
     .desc = { ent-BaseBulletTrigger.desc }

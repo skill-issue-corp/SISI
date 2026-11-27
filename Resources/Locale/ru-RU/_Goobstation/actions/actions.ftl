@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-world-target-out-of-range = Ваша цель находится не в вашем пространстве. Попробуйте добраться до неё при помощи БСС.
-action-speech-implant-vaporize = Это такой конец...
+world-target-out-of-range = Ваша цель находится на другой карте. Попробуйте совершить туда ФТЛ-прыжок.
+action-speech-implant-vaporize = На этом всё.
 action-speech-implant-stoptime = Готовьтесь к непредвиденным последствиям.
-action-popup-lay-egg-unable = Вы больше не можете создавать потомство...
+action-popup-lay-egg-unable = Вы больше не можете производить потомство...

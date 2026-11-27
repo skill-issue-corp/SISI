@@ -1,6 +1,6 @@
-location-blob-core = ядро Блоба
-location-lord-of-the-night = повелитель ночи
-location-nuclear-reactor = Ядерный реактор
+location-blob-core = ядро блоба
+location-lord-of-the-night = владыка ночи
+location-nuclear-reactor = Ядерный Реактор
 location-space-leviathan = космический левиафан
 location-star-gazer = звездочёт
 location-supermatter = суперматерия

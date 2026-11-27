@@ -3,15 +3,16 @@
 changeling-round-end-agent-name = генокрад
 
 objective-issuer-hivemind = [color=orange]Улей[/color]
-objective-issuer-tiger = [color=crimson]Tiger Cooperative[/color]
+objective-issuer-tiger = [color=crimson]Кооператив «Тигр»[/color]
 
-roundend-prepend-changeling-absorbed-named = [color=white]{ $name }[/color] поглотил всего [color=red]{ $number }[/color] организмов.
-roundend-prepend-changeling-stolen-named = [color=white]{ $name }[/color] извлёк всего [color=orange]{ $number }[/color] ДНК.
-roundend-prepend-changeling-absorbed = Кто-то поглотил всего [color=red]{ $number }[/color] организмов.
-roundend-prepend-changeling-stolen = Кто-то извлек всего [color=orange]{ $number }[/color] ДНК.
+roundend-prepend-changeling-absorbed-named = [color=white]{$name}[/color] поглощает органические существа. Всего поглощено: [color=red]{$number}[/color].
+roundend-prepend-changeling-stolen-named = [color=white]{$name}[/color] извлекает образцы ДНК. Всего извлечено: [color=orange]{$number}[/color].
+roundend-prepend-changeling-absorbed = Кто-то поглощает органические существа. Всего поглощено: [color=red]{$number}[/color].
+roundend-prepend-changeling-stolen = Кто-то извлекает образцы ДНК. Всего извлечено: [color=orange]{$number}[/color].
 
 changeling-gamemode-title = Генокрады
-changeling-gamemode-description = Улей Генокрадов захватил станцию, и готов забрать всё что только пожелает — ваше снаряжение, ваши лица, ваши жизни!
+changeling-gamemode-description =
+    Улей генокрадов проник на станцию и готов забрать всё, что пожелает – ваше снаряжение, ваши лица или ваши жизни!
 
 # SIS-Start
 changeling-role-greeting =
@@ -29,4 +30,5 @@ changeling-role-greeting-trauma =
     Ваши цели перечислены в меню персонажа.
     Поглощайте, меняйте облик и эволюционируйте, чтобы выполнить их!
 
-changeling-role-greeting-short = Вы — генокрад, принявший облик { $name }.
+changeling-role-greeting-short =
+    Вы генокрад, поглотивший {$name} и принявший этот облик в самом начале.

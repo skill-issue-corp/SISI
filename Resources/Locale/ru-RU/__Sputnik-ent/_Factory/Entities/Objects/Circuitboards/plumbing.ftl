@@ -1,2 +1,2 @@
-ent-PlumbingPumpCircuitboard = жидкостный насос (машинная плата)
+ent-PlumbingPumpCircuitboard = плата жидкостного насоса
     .desc = { ent-BaseMachineCircuitboard.desc }

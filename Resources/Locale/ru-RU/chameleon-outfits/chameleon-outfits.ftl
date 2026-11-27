@@ -1,1 +1,1 @@
-chameleon-outfit-sus-name = Сас
+chameleon-outfit-sus-name = Подозрительный

@@ -16,13 +16,19 @@ pirate-role-greeting-desc =
 # SIS-End
 
 antag-pirate-briefing-short =
-    Вы — пират.
-    Защищайте корабль, выкачивайте кредиты со станции и грабьте её ради ещё большей добычи!
+    Вы пират.
+    Защищайте корабль, выкачивайте кредиты со станции и совершайте налёты ради ещё большей добычи!
 
-pirate-roundend-append = Пиратская команда ограбила станцию на сумму в [color=yellow]{ $num }[/color] кредитов!
+pirate-roundend-append = Пиратская команда награбила на станции ценностей на общую сумму [color=yellow]{$num}[/color] { $num ->
+    [one] кредит
+    [few] кредита
+    [many] кредитов
+   *[other] кредита
+}!
 
-pirate-roundend-append-siphon = [color=green]Пиратам удалось выкачать[/color] [color=yellow]{ $num }[/color] [color=green]кредитов со станции![/color]
+pirate-roundend-append-siphon = [color=green]Пиратской команде удалось выкачать[/color] [color=yellow]{$num}[/color] [color=green]кредитов со станции![/color]
 
-pirate-roundend-append-lose = [color=red]Пираты потеряли свой банк данных![/color]
+pirate-roundend-append-lose = [color=red]Пиратская команда потеряла свой банк данных![/color]
 
-pirate-roundend-list = Пиратами были:
+pirate-roundend-list =
+    Пиратами были:

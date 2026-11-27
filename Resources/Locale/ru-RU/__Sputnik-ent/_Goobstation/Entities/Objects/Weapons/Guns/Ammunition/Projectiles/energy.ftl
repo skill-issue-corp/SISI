@@ -1,11 +1,9 @@
-ent-RifleBulletEnergyGunLethal = энергетический заряд винтовки
+ent-RifleBulletEnergyGunIon = Винтовочный ионный заряд
+    .desc = { ent-BaseBulletTrigger.desc }
+
+ent-RifleBulletEnergyGunAsh = испепеляющий энергетический заряд
     .desc = { ent-BaseBullet.desc }
-ent-RifleBulletEnergyGunIon = ионный заряд винтовки
-    .desc = { ent-BaseBullet.desc }
-ent-RifleBulletEnergyGunDisabler = станящий заряд винтовки
-    .desc = { ent-BaseBullet.desc }
-ent-RifleBulletEnergyGunAsh = озоляющий энергетический заряд
     .suffix = DEBUG
-    .desc = { ent-BaseBullet.desc }
-ent-RifleBulletEnergyGunOverchargeLethal = перегруженный энергетический заряд винтовки
+
+ent-RifleBulletEnergyGunOverchargeLethal = винтовочный энергетический заряд повышенной мощности
     .desc = { ent-BaseBulletIncendiary.desc }

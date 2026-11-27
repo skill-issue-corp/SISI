@@ -1,16 +1,23 @@
-ent-NTRCrateSpesosSmall = субсидия кредитов
-    .desc = Трудные времена требуют капиталистических решений..
-ent-NTRCratePointDisks = субсидия исследовательских дисков
-    .desc = Прогресс, мой друг, прогресс.
-ent-NTRCrateEmergencyMed = экстренные медицинские запасы
-    .desc = Подумай, как бы ты объяснил это NanoTrasen.
-ent-NTRCrateDisablers = ящик дизейблеров
-    .desc = Ящик со дизейблерами... зачем он тебе?
-ent-NTRCrateToolsSmall = ящик инструментов
-    .desc = Ящик стандартных инструментов NanoTrasen.
-ent-NTRBoardTelecom = ящик плат серверов телекоммуникации
-    .desc = Ящик, содержащий 2 машинные платы серверов телекоммуникации.
-ent-NTRBoardHolopad = ящик плат голопадов
-    .desc = Ящик, содержащий 2 машинные платы голопадов.
-ent-NTRBoardShuttle = ящик набора для шаттла
+ent-NTRCrateSpesosSmall = Грантовая выплата в спесо
+    .desc = Трудные времена требуют капиталистических решений.
+
+ent-NTRCratePointDisks = Грантовая выплата дисками с очками исследований
+    .desc = Прогресс, друг мой, прогресс.
+
+ent-NTRCrateEmergencyMed = Экстренные медицинские припасы
+    .desc = Подумайте, как будете объясняться перед NT.
+
+ent-NTRCrateDisablers = Ящик с дизейблерами
+    .desc = Ящик с дизейблерами. И зачем он вам?
+
+ent-NTRCrateToolsSmall = Ящик с инструментами
+    .desc = Ящик со стандартными инструментами NanoTrasen.
+
+ent-NTRBoardTelecom = Ящик с платами телекоммуникационного сервера
+    .desc = В ящике 2 машинные платы телекоммуникационного сервера.
+
+ent-NTRBoardHolopad = Ящик с голопадами
+    .desc = В ящике 2 машинные платы голопада.
+
+ent-NTRBoardShuttle = Ящик с набором для шаттлостроения
     .desc = { ent-CrateEngineeringSecure.desc }

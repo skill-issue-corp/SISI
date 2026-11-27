@@ -1,4 +1,4 @@
 research-discipline-robotic = Робототехника
-research-technology-military-bots = Робототехника военного класса
-research-technology-mech-basic-equipment = Базовое оборудование для меха
-research-technology-service-energy-chem = Органический электросинтез
+research-technology-military-bots = Робототехника Военного Класса
+research-technology-mech-basic-equipment = Базовое Оборудование Мехов
+research-technology-service-energy-chem = Электросинтез Органики

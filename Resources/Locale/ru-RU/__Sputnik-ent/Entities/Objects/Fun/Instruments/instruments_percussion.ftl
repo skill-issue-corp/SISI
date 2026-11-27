@@ -1,14 +1,20 @@
 ent-BasePercussionInstrument = { ent-BaseHandheldInstrument }
     .desc = { ent-BaseHandheldInstrument.desc }
+
 ent-GlockenspielInstrument = глокеншпиль
-    .desc = { ent-BaseHandheldInstrument.desc }
+    .desc = { ent-BasePercussionInstrument.desc }
+
 ent-MusicBoxInstrument = музыкальная шкатулка
-    .desc = Её мелодия заставляет вас не бояться страшных аниматроников.
+    .desc = Когда она играет, кажется, что жуткие аниматроники до вас не доберутся.
+
 ent-XylophoneInstrument = ксилофон
-    .desc = Радужный глокеншпиль.
+    .desc = Глокеншпиль всех цветов радуги.
+
 ent-MicrophoneInstrument = микрофон
-    .desc = Идеален чтобы петь во весь голос.
-ent-WoodblockInstrument = коробочка
-    .desc = Достаточно долгое прослушивание заставляет её звучание въедаться в вашу голову.
-ent-ReverseCymbalsInstrument = реверс-цимбалы
-    .desc = Вы уверены, что держите их правильно?
+    .desc = Идеально подходит, чтобы напеться от души.
+
+ent-WoodblockInstrument = вуд-блок
+    .desc = Если долго слушать, этот стук сам начнёт вбиваться вам в голову.
+
+ent-ReverseCymbalsInstrument = обратные тарелки
+    .desc = Кажется, вы держите их не той стороной?

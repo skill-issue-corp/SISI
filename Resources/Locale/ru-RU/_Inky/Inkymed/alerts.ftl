@@ -1,22 +1,22 @@
 alerts-fibr-name = Фибрилляция
-alerts-fibr-desc = Ваш сердечный ритм кажется мучительно странным. Вам следует как можно скорее получить медицинскую помощь.
+alerts-fibr-desc = Ваше сердце бьётся до боли странно. Как можно скорее обратитесь за медицинской помощью.
 
-alerts-heartstop-name = Остановка сердца
-alerts-heartstop-desc = Вы больше не чувствуете биения сердца в груди, ваше состояние критическое.
+alerts-heartstop-name = Остановка Сердца
+alerts-heartstop-desc = Вы больше не чувствуете, как сердце бьётся в груди. Ваше состояние критическое.
 
-alerts-joyfull-name = Аутист
-alerts-joyfull-desc = Вы чувствуете себя таким весёлым и причудливым!
+alerts-joyfull-name = Аутизм
+alerts-joyfull-desc = Вы чувствуете себя таким жизнерадостным и чудным!
 admin-verbs-smite-autism-name = Развеселить
-admin-verbs-smite-autism-desc = Делает цель весёлой и причудливой, дав ей аутизм. Не делает ничего, кроме отображения оповещения у цели.
+admin-verbs-smite-autism-desc = Придаёт цели жизнерадостность и причудливость с помощью аутизма. Только показывает цели соответствующее оповещение.
 
-alerts-lobotomy-name = Лоботомированый
-alerts-lobotomy-desc = Ваша голова больше не болит, вы чувствуете себя таким... свободным... как в фортнайте...
+alerts-lobotomy-name = Лоботомия
+alerts-lobotomy-desc = Голова больше не болит. Вы чувствуете себя... свободно... как в фортнайте...
 
 alerts-brain-oxygen-unstable-name = Головокружение
-alerts-brain-oxygen-unstable-desc = Что-то не так с воздухом, которым вы дышите. Наденьте [color=green]подачу воздуха[/color].
+alerts-brain-oxygen-unstable-desc = С воздухом, которым вы дышите, что-то не так. Наденьте [color=green]кислородное снаряжение[/color].
 
 alerts-brain-oxygen-dangerous-name = Головокружение
-alerts-brain-oxygen-dangerous-desc = Что-то не так с воздухом, которым вы дышите. Наденьте [color=green]подачу воздуха[/color].
+alerts-brain-oxygen-dangerous-desc = С воздухом, которым вы дышите, что-то не так. Наденьте [color=green]кислородное снаряжение[/color].
 
 alerts-brain-oxygen-critical-name = Удушье
-alerts-brain-oxygen-critical-desc = Жизнь... кажется... такой... медленной...
+alerts-brain-oxygen-critical-desc = Жизнь... будто... так... замедлилась...

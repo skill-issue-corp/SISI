@@ -1,1 +1,1 @@
-guide-entry-solids = Твёрдые вещества
+guide-entry-solids = Твёрдые Вещества

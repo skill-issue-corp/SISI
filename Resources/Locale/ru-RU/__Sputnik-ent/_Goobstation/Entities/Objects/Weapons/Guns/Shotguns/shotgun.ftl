@@ -1,2 +1,2 @@
-ent-WeaponShotgunBulldogLegallyDistinct = EX-12 "Гончая"
-    .desc = Полностью оригинальный дизайн Nanotrasen, который юридически отличается от любого другого оружия, которое может быть представлено на рынке.
+ent-WeaponShotgunBulldogLegallyDistinct = EX-12 «Foxhound»
+    .desc = Совершенно оригинальная разработка NanoTrasen, юридически отличная от любого другого оружия, которое может быть на рынке.

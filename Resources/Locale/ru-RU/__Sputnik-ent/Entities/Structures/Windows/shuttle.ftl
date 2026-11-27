@@ -1,6 +1,6 @@
-ent-ShuttleWindow = окно шаттла
-    .desc = { ent-WindowRCDResistant.desc }
+ent-ShuttleWindow = шаттловое окно
+    .desc = { ent-BaseDeltaPressureReinforcedGlass.desc }
 
 ent-ShuttleWindowDiagonal = { ent-ShuttleWindow }
-    .suffix = Диагональ
     .desc = { ent-ShuttleWindow.desc }
+    .suffix = по диагонали

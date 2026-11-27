@@ -1,14 +1,14 @@
 ent-VampireStatusEffect = { ent-MobStatusEffectBase }
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-VampireCoffinStatusEffect = вампирский гроб
+ent-VampireCoffinStatusEffect = гроб вампира
     .desc = { ent-VampireStatusEffect.desc }
 
-ent-VampireLairStatusEffect = вампирское логово
+ent-VampireLairStatusEffect = логово вампира
     .desc = { ent-VampireStatusEffect.desc }
 
-ent-VampireChapelStatusEffect = вампирская церковь
+ent-VampireChapelStatusEffect = вампир в часовне
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-VampireSpaceStatusEffect = вампирский космос
+ent-VampireSpaceStatusEffect = вампир в космосе
     .desc = { ent-MobStatusEffectBase.desc }

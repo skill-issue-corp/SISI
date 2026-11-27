@@ -1,9 +1,8 @@
-ent-BaseMobXenomorphLarva = грудолом
-    .desc = Ранняя стадия развития, характеризующаяся небольшими размерами, червеобразной формой тела и отсутствием выраженных конечностей.
+ent-BaseMobXenomorphLarva = личинка ксеноморфов
+    .desc = Ранняя стадия развития. У личинки небольшое червеобразное тело без отчётливо выраженных конечностей.
 
 ent-MobXenomorphLarva = { ent-BaseMobXenomorphLarva }
     .desc = { ent-BaseMobXenomorphLarva.desc }
 
-ent-MobXenomorphLarvaDungeon = { ent-BaseMobXenomorphLarva }
-    .suffix = Подземелье
-    .desc = { ent-BaseMobXenomorphLarva.desc }
+ent-MobXenomorphLarvaDungeon = { ent-BaseMobXenomorphDungeon }
+    .desc = { ent-BaseMobXenomorphDungeon.desc }

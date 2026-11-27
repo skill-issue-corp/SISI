@@ -1,7 +1,7 @@
 names-hologram-dataset-1 = Аполлон
-names-hologram-dataset-2 = Дата
-names-hologram-dataset-3 = ГЛИММЕР
-names-hologram-dataset-4 = Эль Рой
+names-hologram-dataset-2 = Дейта
+names-hologram-dataset-3 = МЕРЦАНИЕ
+names-hologram-dataset-4 = Эль Рои
 names-hologram-dataset-5 = Гефест
 names-hologram-dataset-6 = Голо-ИИ
 names-hologram-dataset-7 = Голо-Друг

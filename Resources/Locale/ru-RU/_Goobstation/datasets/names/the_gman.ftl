@@ -1,1 +1,1 @@
-names-gman-dataset-1 = G-Man
+names-gman-dataset-1 = Джи-Мэн

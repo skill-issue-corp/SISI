@@ -1,32 +1,47 @@
-ent-ClothingUniformJumpskirtBlackElegantDress = элегантное чёрное платье
+ent-ClothingUniformJumpskirtBlackElegantDress = чёрное элегантное платье
     .desc = Элегантное платье с красивым бантом.
-ent-ClothingUniformJumpskirtRedElegantDress = элегантное красное платье
-    .desc = { ent-ClothingUniformJumpskirtBlackElegantDress.desc }
-ent-ClothingUniformJumpskirtGreenElegantDress = элегантное зелёное платье
-    .desc = { ent-ClothingUniformJumpskirtBlackElegantDress.desc }
-ent-ClothingUniformJumpskirtBlueElegantDress = элегантное синее платье
-    .desc = { ent-ClothingUniformJumpskirtBlackElegantDress.desc }
-ent-ClothingUniformJumpskirtPurpleElegantDress = элегантное фиолетовое платье
-    .desc = { ent-ClothingUniformJumpskirtBlackElegantDress.desc }
-ent-ClothingUniformJumpskirtCyanStripedDress = полосатое голубое платье
+
+ent-ClothingUniformJumpskirtRedElegantDress = красное элегантное платье
+    .desc = Элегантное платье с красивым бантом.
+
+ent-ClothingUniformJumpskirtGreenElegantDress = зелёное элегантное платье
+    .desc = Элегантное платье с красивым бантом.
+
+ent-ClothingUniformJumpskirtBlueElegantDress = синее элегантное платье
+    .desc = Элегантное платье с красивым бантом.
+
+ent-ClothingUniformJumpskirtPurpleElegantDress = фиолетовое элегантное платье
+    .desc = Элегантное платье с красивым бантом.
+
+ent-ClothingUniformJumpskirtCyanStripedDress = голубое полосатое платье
     .desc = Милое полосатое платье.
-ent-ClothingUniformJumpskirtRedStripedDress = полосатое красное платье
-    .desc = { ent-ClothingUniformJumpskirtCyanStripedDress.desc }
-ent-ClothingUniformJumpskirtGreenStripedDress = полосатое зелёное платье
-    .desc = { ent-ClothingUniformJumpskirtCyanStripedDress.desc }
-ent-ClothingUniformJumpskirtPinkStripedDress = полосатое розовое платье
-    .desc = { ent-ClothingUniformJumpskirtCyanStripedDress.desc }
-ent-ClothingUniformJumpskirtOrangeStripedDress = полосатое оранжевое платье
-    .desc = { ent-ClothingUniformJumpskirtCyanStripedDress.desc }
+
+ent-ClothingUniformJumpskirtRedStripedDress = красное полосатое платье
+    .desc = Милое полосатое платье.
+
+ent-ClothingUniformJumpskirtGreenStripedDress = зелёное полосатое платье
+    .desc = Милое полосатое платье.
+
+ent-ClothingUniformJumpskirtPinkStripedDress = розовое полосатое платье
+    .desc = Милое полосатое платье.
+
+ent-ClothingUniformJumpskirtOrangeStripedDress = оранжевое полосатое платье
+    .desc = Милое полосатое платье.
+
 ent-ClothingUniformJumpskirtPurpleTurtleneckDress = фиолетовое платье-водолазка
-    .desc = Платье-водолазка с уникальным дизайном.
+    .desc = Платье-водолазка необычного кроя.
+
 ent-ClothingUniformJumpskirtRedTurtleneckDress = красное платье-водолазка
-    .desc = { ent-ClothingUniformJumpskirtPurpleTurtleneckDress.desc }
+    .desc = Платье-водолазка необычного кроя.
+
 ent-ClothingUniformJumpskirtGreenTurtleneckDress = зелёное платье-водолазка
-    .desc = { ent-ClothingUniformJumpskirtPurpleTurtleneckDress.desc }
+    .desc = Платье-водолазка необычного кроя.
+
 ent-ClothingUniformJumpskirtBlueTurtleneckDress = синее платье-водолазка
-    .desc = { ent-ClothingUniformJumpskirtPurpleTurtleneckDress.desc }
+    .desc = Платье-водолазка необычного кроя.
+
 ent-ClothingUniformJumpskirtYellowTurtleneckDress = жёлтое платье-водолазка
-    .desc = { ent-ClothingUniformJumpskirtPurpleTurtleneckDress.desc }
-ent-ClothingUniformJumpskirtYellowOldDress = старое жёлтое платье
-    .desc = Классическое платье в стиле вестерн.
+    .desc = Платье-водолазка необычного кроя.
+
+ent-ClothingUniformJumpskirtYellowOldDress = жёлтое старинное платье
+    .desc = Классическое платье в стиле дикого запада.

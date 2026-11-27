@@ -1,4 +1,4 @@
-ent-TouchSpellMansus = Хват Мансуса
+ent-TouchSpellMansus = хватка мансуса
     .desc = Сила Древних Богов, направленная через вашу хватку.
 
 ent-TouchSpellMansusAsh = { ent-TouchSpellMansus }

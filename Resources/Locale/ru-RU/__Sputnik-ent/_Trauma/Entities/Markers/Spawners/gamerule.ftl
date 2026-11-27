@@ -10,7 +10,7 @@ ent-ErtRandomHumanoidSpawner2 = { ent-BaseConditionalRandomHumanoidSpawner }
 ent-ErtRandomHumanoidSpawner3 = { ent-BaseConditionalRandomHumanoidSpawner }
     .desc = { ent-BaseConditionalRandomHumanoidSpawner.desc }
 
-ent-BaseConditionalItemSpawner = Точка спавна снаряжения ОБР
+ent-BaseConditionalItemSpawner = точка спавна снаряжения ОБР
     .desc = { ent-MarkerBase.desc }
 
 ent-ErtConditionalItemSpawner1 = { ent-BaseConditionalItemSpawner }

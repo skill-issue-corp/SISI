@@ -1,26 +1,26 @@
 ent-GoldChemistryVial = { ent-ChemistryEmptyVial }
     .desc = { ent-ChemistryEmptyVial.desc }
-    .suffix = золотой
+    .suffix = золото
 
 ent-SilverChemistryVial = { ent-ChemistryEmptyVial }
     .desc = { ent-ChemistryEmptyVial.desc }
-    .suffix = серебряный
+    .suffix = серебро
 
 ent-UraniumChemistryVial = { ent-ChemistryEmptyVial }
     .desc = { ent-ChemistryEmptyVial.desc }
-    .suffix = урановый
+    .suffix = уран
 
 ent-TirimolChemistryVial = { ent-ChemistryEmptyVial }
     .desc = { ent-ChemistryEmptyVial.desc }
-    .suffix = тиримоловый
+    .suffix = тиримол
 
 ent-OmnizineChemistryVial = { ent-ChemistryEmptyVial }
     .desc = { ent-ChemistryEmptyVial.desc }
-    .suffix = омнизиновый
+    .suffix = омнизин
 
 ent-ProcenylLazideChemistryVial = { ent-ChemistryEmptyVial }
     .desc = { ent-ChemistryEmptyVial.desc }
-    .suffix = процениллазидный
+    .suffix = процениллазид
 
-ent-BluespaceChemistryVial = синепространственный флакон
-    .desc = Внутри он длиннее, чем снаружи!
+ent-BluespaceChemistryVial = блюспейс-виала
+    .desc = Внутри длиннее!

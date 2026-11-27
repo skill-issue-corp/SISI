@@ -4,6 +4,8 @@ Use the listed Russian terms without substituting synonyms. Match source capital
 
 Keep these spellings unchanged: EVA, DEBUG, NT, NanoTrasen.
 
+For weapon names, translate generic descriptions and weapon types (`double-barreled shotgun` → `двуствольный дробовик`). Keep model names and designations in their original spelling (`Lecter` → `Lecter`, `WT550` → `WT550`), even if an older Russian localization transliterates them. In a name containing both, translate the descriptive part (`Lecter rifle` → `винтовка Lecter`).
+
 | English | Russian |
 | --- | --- |
 | air alarm | воздушная сигнализация |
@@ -19,7 +21,7 @@ Keep these spellings unchanged: EVA, DEBUG, NT, NanoTrasen.
 | CBURN | РХБЗЗ |
 | CentComm | ЦК |
 | central command | центральное командование |
-| cluster | кластер |
+| cluster | кластер / кластерный |
 | cluwne | клувень |
 | codex cicatrix | кодекс цикатрикс |
 | containment field | поле сдерживания |
@@ -28,6 +30,7 @@ Keep these spellings unchanged: EVA, DEBUG, NT, NanoTrasen.
 | crimson cleave | багровый раскол |
 | deathsquad | эскадрон смерти |
 | distro | дистро |
+| DO NOT MAP | НЕ МАППИТЬ |
 | eldritch essence | потусторонняя эссенция |
 | emitter | эмиттер |
 | ERT | ОБР |
@@ -96,6 +99,7 @@ Keep these spellings unchanged: EVA, DEBUG, NT, NanoTrasen.
 | shadow walk | теневой шаг |
 | larp | ларп / ларпить |
 | abductee | похищенный абдукторами |
+| admeme | адмеме |
 | ahelp | ahelp |
 | AME | ДАМ |
 | antag | антаг |
@@ -232,6 +236,7 @@ Keep these spellings unchanged: EVA, DEBUG, NT, NanoTrasen.
 | PKA | ПКА |
 | plasmaman | плазмамен |
 | protolathe | протолат |
+| Pun Pun | Пун Пун |
 | QM | КМ |
 | R&D server | сервер НиО |
 | R&D | НиО |

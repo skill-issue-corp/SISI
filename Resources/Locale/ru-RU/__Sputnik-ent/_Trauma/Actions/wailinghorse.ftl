@@ -1,5 +1,5 @@
-ent-BloodCrawlActionWailing = Воющее Ползание
-    .desc = Найдите путь ближе к раненым.
+ent-BloodCrawlActionWailing = Заунывный Переход
+    .desc = Найдите путь поближе к раненым.
 
-ent-Wailing = Вой
+ent-Wailing = Завыть
     .desc = Отбросьте их от себя.

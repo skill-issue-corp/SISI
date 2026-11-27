@@ -1,2 +1,2 @@
-ent-CartridgeLowCaliber = пуля (5x23-мм)
+ent-CartridgeLowCaliber = патрон (5x23мм)
     .desc = { ent-BaseCartridge.desc }

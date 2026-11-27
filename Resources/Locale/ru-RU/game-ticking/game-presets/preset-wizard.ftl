@@ -2,38 +2,43 @@
 
 roles-antag-survivor-name = Выживший
 # It's a Halo reference
-roles-antag-survivor-objective = Текущая задача: Выжить
+roles-antag-survivor-objective = Текущая Цель: Выжить
 
 survivor-role-greeting =
-    Вы - выживший.
-    Ваша главная задача остаться в живых и вернуться на ЦК.
-    Накопите столько огневой мощи, сколько необходимо для гарантии вашего выживания.
+    Вы Выживший. Главное - добраться до Центрального Командования живым.
+    Соберите столько оружия, сколько нужно, чтобы наверняка выжить.
     Никому не доверяйте.
 
 survivor-round-end-dead-count =
-    { $deadCount ->
-        [one] [color=red]{ $deadCount }[/color] выживший умер.
-       *[other] [color=red]{ $deadCount }[/color] выживших умерло.
-    }
+{
+    $deadCount ->
+        [one] Погиб [color=red]{$deadCount}[/color] выживший.
+        [few] Погибло [color=red]{$deadCount}[/color] выживших.
+        *[many] Погибло [color=red]{$deadCount}[/color] выживших.
+}
 
 survivor-round-end-alive-count =
-    { $aliveCount ->
-        [one] [color=yellow]{ $aliveCount }[/color] выживший остался на станции.
-       *[other] [color=yellow]{ $aliveCount }[/color] выживших осталось на станции.
-    }
+{
+    $aliveCount ->
+        [one] [color=yellow]{$aliveCount}[/color] выживший остался на станции.
+        [few] [color=yellow]{$aliveCount}[/color] выживших осталось на станции.
+        *[many] [color=yellow]{$aliveCount}[/color] выживших осталось на станции.
+}
 
 survivor-round-end-alive-on-shuttle-count =
-    { $aliveCount ->
-        [one] [color=green]{ $aliveCount }[/color] выживший выбрался живым.
-       *[other] [color=green]{ $aliveCount }[/color] выживших выбралось живыми.
-    }
+{
+    $aliveCount ->
+        [one] [color=green]{$aliveCount}[/color] выживший выбрался живым.
+        [few] [color=green]{$aliveCount}[/color] выживших выбрались живыми.
+        *[many] [color=green]{$aliveCount}[/color] выживших выбрались живыми.
+}
 
 ## Wizard
 
-objective-issuer-swf = [color=turquoise]Федерация космических волшебников[/color]
+objective-issuer-swf = [color=turquoise]Космическая Федерация Волшебников[/color]
 
 wizard-title = Волшебник
-wizard-description = На станции волшебник! Никогда не знаешь, что он может выкинуть.
+wizard-description = На станции появился Волшебник! Никогда не знаешь, что он выкинет.
 
 roles-antag-wizard-name = Волшебник
 roles-antag-wizard-objective = Преподайте им урок, который они никогда не забудут.

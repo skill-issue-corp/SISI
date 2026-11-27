@@ -1,4 +1,4 @@
-knowledge-no-martial-art = Вы не знаете никаких боевых искусств.
-knowledge-martial-art-selected = Вы готовитесь использовать {$name}.
-knowledge-martial-art-deselected = Вы расслабляете стойку.
-knowledge-martial-arts-name = Боевые искусства: {$name}
+knowledge-no-martial-art = Вы не владеете боевыми искусствами.
+knowledge-martial-art-selected = Вы готовитесь применить «{$name}».
+knowledge-martial-art-deselected = Вы выходите из боевой стойки.
+knowledge-martial-arts-name = Боевые Искусства: {$name}

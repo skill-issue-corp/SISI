@@ -1,43 +1,43 @@
-ent-ClothingShoesBootsChrono = футуристические ботинки
-    .desc = Продвинутая футуристическая обувь, гарантирующая комфорт и отличное сцепление на любой поверхности.
+ent-ClothingShoesBootsChrono = футуристичные ботинки
+    .desc = Передовая обувь из будущего, гарантирующая владельцу комфорт и надёжное сцепление с любой поверхностью
 
 ent-ClothingShoesBootsChronoUnremoveable = { ent-ClothingShoesBootsChrono }
-    .suffix = Несъёмные
     .desc = { ent-ClothingShoesBootsChrono.desc }
+    .suffix = Несъёмный
 
 ent-ClothingShoesResonant = резонансные туфли
-    .desc = Не пришло ли время… великолепному занавесу подняться?
+    .desc = Разве не настало время… поднять великолепный занавес?
 
-ent-ClothingShoesBootsMagDeathsquad = магнитные сапоги Эскадрона Смерти
-    .desc = Звук этих ботинок — настоящий символ ужаса.
+ent-ClothingShoesBootsMagDeathsquad = магнитные ботинки эскадрона смерти
+    .desc = Звук этих ботинок ни с чем не спутаешь. Это звук ужаса.
 
 ent-ClothingShoesRealJordans = эйр джорданы
-    .desc = Современные, официальные Джорданы без заломов, защищающие от скольжения при активации.
-    .suffix = Магнитные
+    .desc = Ультрасовременные оригинальные Джорданы без заломов. Когда их включают, вы не скользите.
+    .suffix = Магнитные Ботинки
 
-ent-ClothingShoesFakeJordans = поддельные эйр джорданы
-    .desc = При ближайшем рассмотрении что-то кажется не таким. Они что, с заломами? Нет, не может быть. Подождите, логотип выглядит немного странно...
-    .suffix = поддельные
+ent-ClothingShoesFakeJordans = эйр джорданы
+    .desc = Стоит присмотреться, и с ними явно что-то не так. На них.. заломы? Нет, не может быть. Погодите, и логотип какой-то странный...
+    .suffix = подделка
 
-ent-ClothingShoesCreasedJordans = эйр джорданы с заломами
-    .desc = Нет, подождите... Не может быть... ОНИ С ЗАЛОМАМИ!
+ent-ClothingShoesCreasedJordans = мятые эйр джорданы
+    .desc = Нет, погодите... не может быть.... ОНИ МЯТЫЕ!
 
-ent-ClothingShoesBootsJackAdvanced = продвинутые офицерские сапоги
-    .desc = Магпространственно усиленные боевые ботинки безопасности NanoTrasen для боевых операций. Эта пара предназначена для начальника службы безопасности.
+ent-ClothingShoesBootsJackAdvanced = усовершенствованные берцы
+    .desc = Эти берцы разработали для Главы Службы Безопасности. Никто не знает, почему они усовершенствованные, но по стилю уж точно на шаг впереди.
 
 ent-ClothingShoesRealJordansAutographed = эйр джорданы
-    .desc = Это не просто Джорданы — их подписал сам Майкл Джордан. Они должны стоить целое состояние.
+    .desc = Это не простые Джорданы, их подписал сам Майкл Джордан. Должно быть, они стоят ЦЕЛОЕ СОСТОЯНИЕ.
     .suffix = Дьявол
 
-ent-ClothingShoesWinterCombatBoots = боевые снежные ботинки
-    .desc = Боевые ботинки службы безопасности NanoTrasen для боевых ситуаций. Теперь в зимнем исполнении.
+ent-ClothingShoesWinterCombatBoots = зимние берцы
+    .desc = Штатные боевые берцы Службы Безопасности NanoTrasen для боевой обстановки или боевых ситуаций. Теперь в зимнем исполнении.
 
 ent-ClothingShoesColorBlackUnremoveable = { ent-ClothingShoesColorBlack }
-    .suffix = Неснимаемый
     .desc = { ent-ClothingShoesColorBlack.desc }
+    .suffix = Несъёмный
 
-ent-ClothingShoesBootsCowboyBrownRobust = истинные коричневые ковбойские ботинки
-    .desc = Для настоящих ковбоев.
+ent-ClothingShoesBootsCowboyBrownRobust = настоящие коричневые ковбойские сапоги
+    .desc = Для настоящего ковбоя.
 
-ent-ClothingShoesBootsJackGaloshes = галоши Сакуи
-    .desc = Эта пара галош была создана для элитных горничных. Возможно, самый желанный предмет на станции.
+ent-ClothingShoesBootsJackGaloshes = Берцы-Галоши
+    .desc = Эти берцы созданы для элитных горничных нашей станции. Пожалуй, самая желанная вещь на станции.

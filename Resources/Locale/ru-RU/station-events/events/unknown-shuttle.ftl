@@ -1,1 +1,7 @@
-station-event-unknown-shuttle-incoming = Внимание! Неопознанный космический корабль был замечен на подходе к вашему сектору.
+# SPDX-FileCopyrightText: 2024 Ed <96445749+TheShuEd@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+station-event-unknown-shuttle-incoming = Внимание! К вашему сектору приближается неопознанный космический шаттл.

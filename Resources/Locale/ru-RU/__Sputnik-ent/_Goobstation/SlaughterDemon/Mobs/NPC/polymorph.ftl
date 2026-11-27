@@ -1,5 +1,5 @@
 ent-BasePolymorphBloodCrawlJaunt = Неизвестно
-    .desc = Вы не можете понять, что это.
+    .desc = Вы никак не можете понять, что это такое.
 
 ent-PolymorphBloodCrawlJaunt = { ent-BasePolymorphBloodCrawlJaunt }
     .desc = { ent-BasePolymorphBloodCrawlJaunt.desc }

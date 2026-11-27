@@ -1,5 +1,5 @@
 ent-ProjectileFireball = огненный шар
-    .desc = По мнению волшебников, является средством от всех проблем.
+    .desc = Лучше СВАЛИВАЙ С ДОРОГИ.
 
 ent-ProjectileDragonsBreath = дыхание дракона
     .desc = Постарайтесь не поджариться.
@@ -8,31 +8,31 @@ ent-ProjectileAnomalyFireball = огненный шар
     .desc = Парящий сгусток пламени.
 
 ent-ProjectileLocker = проклятый шкафчик
-    .desc = Проклятый магический шкафчик! Сможете ли вы сопротивляться?
+    .desc = Проклятый волшебный шкафчик! Устоите ли вы?
 
 ent-ProjectilePolyboltBase = { ent-BaseBullet }
     .desc = { ent-BaseBullet.desc }
 
-ent-ProjectilePolyboltCarp = полизаряд карпа
-    .desc = Неееет, я не хочу быть рыбой!
+ent-ProjectilePolyboltCarp = заряд превращения в карпа
+    .desc = Не-е-ет, я не хочу быть рыбой!
 
-ent-ProjectilePolyboltMonkey = полизаряд обезьяны
-    .desc = Неееет, я не хочу быть обезьяной!
+ent-ProjectilePolyboltMonkey = заряд превращения в обезьяну
+    .desc = Не-е-ет, я не хочу быть обезьяной!
 
-ent-ProjectilePolyboltDoor = полизаряд двери
-    .desc = Неееет, я не хочу быть дверью!
+ent-ProjectilePolyboltDoor = заряд превращения в дверь
+    .desc = Не-е-ет, я не хочу быть дверью!
 
 ent-ProjectileHealingBolt = исцеляющий заряд
-    .desc = Я ПРИКАЗЫВАЮ ТЕБЕ ЖИТЬ!
+    .desc = ПРИКАЗЫВАЮ ТЕБЕ ЖИТЬ!
 
 ent-BulletInstakillMagic = волшебный свинцовый цилиндр
     .desc = Выглядит знакомо.
 
-ent-ProjectilePolyboltCluwne = полизаряд клувеня
+ent-ProjectilePolyboltCluwne = заряд клувенизации
     .desc = КноХ КноХ!
 
 ent-ProjectileIcicle = сосулька
-    .desc = Бррррр.
+    .desc = Бр-р-р-р.
 
-ent-ProjectilePolyboltBread = полизаряд хлеба
-    .desc = Неееет, я не хочу быть хлебом!
+ent-ProjectilePolyboltBread = заряд превращения в хлеб
+    .desc = Не-е-ет, я не хочу быть хлебом!

@@ -1,16 +1,18 @@
-possession-fail-changeling = Здесь нет души, с которой можно было бы что-то сделать!
-possession-fail-heretic = Сила Мансуса мешает тебе овладеть этим телом!
+possession-fail-changeling = Здесь нет души, на которую можно повлиять!
+possession-fail-heretic = Сила мансуса не даёт вам вселиться!
 possession-fail-ghoul = Здесь нет разума, которым можно завладеть!
-possession-fail-devil = Ты не можешь овладеть другим дьяволом!
+possession-fail-devil = Вы не можете вселиться в другого дьявола!
 possession-fail-ghost = Здесь нет разума, которым можно завладеть!
 possession-fail-temporary = Здесь нет разума, которым можно завладеть!
 possession-fail-target-dead = Здесь нет разума, которым можно завладеть!
-possession-fail-target-shielded = Назойливый щит мешает тебе добраться до их разума!
-possession-fail-target-already-possessed = Кто-то уже овладел этим разумом...
-possession-fail-target-chaplain = Святая сила мешает тебе овладеть этой целью!
-possession-fail-target-immune = Необычный барьер блокирует вашу попытку вселения!
+possession-fail-target-shielded = Проклятый щит мешает проникнуть в разум!
+possession-fail-target-already-possessed = Кто-то уже захватил этот разум...
+possession-fail-target-chaplain = Святая сила не даёт вам вселиться в эту цель!
+possession-fail-target-immune = Необычный барьер мешает вселиться!
 possession-fail-target-polymorphed = Эта форма слишком нестабильна для вселения!
-possession-popup-others = Конечности { $target } искажаются в странной форме, глаза { POSS-ADJ($target) } закатываются.
-possession-popup-self = Вашу душу силой вытаскивают из тела!
-possession-end-popup = { $target } бьётся в конвульсиях и падает на землю без сознания.
-possessed-component-examined = У вас осталось { $timeremaining } секунд в этом теле.
+
+possession-popup-others = Конечности {$target} странно изгибаются, {POSS-ADJ($target)} глаза закатываются в {POSS-ADJ($target)} голове.
+possession-popup-self = Вашу душу выталкивает из тела!
+possession-end-popup = {$target} цепенеет и безвольно падает на землю.
+
+possessed-component-examined = Вам осталось {$timeremaining} сек. в этом теле.

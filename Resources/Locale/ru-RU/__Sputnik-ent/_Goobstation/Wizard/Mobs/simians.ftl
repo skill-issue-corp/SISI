@@ -1,22 +1,23 @@
 ent-MobGorillaAngry = { ent-MobGorilla }
-    .suffix = Злой
     .desc = { ent-MobGorilla.desc }
+    .suffix = Злой
 
 ent-MobGorillaAngryTemp = { ent-MobGorillaAngry }
-    .suffix = Злой, Младший, Временный
     .desc = { ent-MobGorillaAngry.desc }
+    .suffix = Злой, Малый, Временный
 
 ent-MobGorillaWizard = { ent-MobGorillaAngry }
-    .suffix = Маг
     .desc = { ent-MobGorillaAngry.desc }
+    .suffix = Волшебник
 
 ent-MobMonkeyAngry = обезьяна
-    .desc = Нео-дарвинисты из Новой церкви верят, что КАЖДОЕ животное произошло от обезьяны. На вкус как свинина, а убивать их весело и расслабляюще.
-    .suffix = Злая
+    .desc = В новой церкви неодарвинистов всерьёз считают, что ВСЕ животные произошли от обезьяны. На вкус как свинина, а убивать их весело и даже успокаивает.
+    .suffix = Злой
 
 ent-MobKoboldAngry = кобольд
-    .desc = Двоюродные братья разумной расы людей-ящеров. Кобольды сливаются с естественной средой обитания и мерзки как обезьяны; готовы выдрать вам волосы и заколоть насмерть.
+    .desc = Родичи разумных унатхов, кобольды отлично сливаются с родной средой и пакостят не хуже обезьян. Могут выдрать вам волосы и заколоть насмерть.
+    .suffix = Злой
 
 ent-MobMonkeyAngryTemp = { ent-MobMonkeyAngry }
-    .suffix = Злая, Младшая, Временная
     .desc = { ent-MobMonkeyAngry.desc }
+    .suffix = Злой, Малый, Временный

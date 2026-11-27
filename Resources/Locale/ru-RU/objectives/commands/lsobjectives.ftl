@@ -4,5 +4,5 @@
 # SPDX-License-Identifier: MIT
 
 # lsobjectives
-cmd-lsobjectives-desc = Выводит список всех целей сознания игрока.
-cmd-lsobjectives-help = Использование: lsobjectives <username>
+cmd-lsobjectives-desc = Перечисляет все цели разума игрока.
+cmd-lsobjectives-help = Использование: lsobjectives <имя пользователя>

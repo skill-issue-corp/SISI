@@ -1,5 +1,5 @@
 ent-Telecrystal = телекристалл
-    .desc = Кажется, он пульсирует подозрительно манящей энергией.
+    .desc = Похоже, он пульсирует подозрительно притягательной энергией.
     .suffix = 100 ТК
 
 ent-Telecrystal1 = { ent-Telecrystal }
@@ -15,7 +15,7 @@ ent-Telecrystal10 = { ent-Telecrystal }
     .suffix = 10 ТК
 
 ent-BaseUplinkRadio = аплинк синдиката
-    .desc = Подозрительно выглядящее старое радио...
+    .desc = Подозрительного вида старое радио...
     .suffix = Пусто
 
 ent-BaseUplinkRadio50TC = { ent-BaseUplinkRadio }
@@ -24,7 +24,7 @@ ent-BaseUplinkRadio50TC = { ent-BaseUplinkRadio }
 
 ent-BaseUplinkRadio50TCNukeOps = { ent-BaseUplinkRadio }
     .desc = { ent-BaseUplinkRadio.desc }
-    .suffix = 50 ТК, подкрепление ядерных оперативников
+    .suffix = 50 ТК, Подкрепление Ядерных Оперативников
 
 ent-BaseUplinkRadio100TC = { ent-BaseUplinkRadio }
     .desc = { ent-BaseUplinkRadio.desc }
@@ -40,7 +40,7 @@ ent-BaseUplinkRadio200TC = { ent-BaseUplinkRadio }
 
 ent-BaseUplinkRadio350TC = { ent-BaseUplinkRadio }
     .desc = { ent-BaseUplinkRadio.desc }
-    .suffix = 350 ТК, командир
+    .suffix = 350 ТК, Командир
 
 ent-BaseUplinkRadioDebug = { ent-BaseUplinkRadio }
     .desc = { ent-BaseUplinkRadio.desc }

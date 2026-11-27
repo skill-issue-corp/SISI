@@ -1,8 +1,8 @@
 ent-PermaKillRandomPersonObjective = { ent-BaseTraitorObjective }
-    .desc = Убей их любым способом, лишь бы они больше не дышали.
+    .desc = Действуйте как угодно. Главное, чтобы цель перестала дышать.
 
 ent-RandomTraitorTargetAliveObjective = { ent-BaseTraitorSocialObjective }
-    .desc = Враждебные агенты собираются ликвидировать эту цель. Опознайся на свой страх и риск.
+    .desc = Агенты-соперники намерены убить эту цель. Раскрывайте себя на свой страх и риск.
 
 ent-StealSupermatterSliverObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }

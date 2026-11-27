@@ -4,69 +4,69 @@ ent-BaseAreaEngineering = инженерный отдел
 ent-AreaEngineering = инженерный отдел
     .desc = { ent-BaseAreaEngineering.desc }
 
-ent-AreaEngine = машинное отделение
+ent-AreaEngine = машинный зал
     .desc = { ent-AreaEngineering.desc }
 
-ent-AreaEngineBreak = комната отдыха инженеров
+ent-AreaEngineBreak = комната отдыха инжей
     .desc = { ent-AreaEngineering.desc }
 
-ent-AreaEngineControl = комната управления двигателем
+ent-AreaEngineControl = пульт управления двигателем
     .desc = { ent-AreaEngineering.desc }
 
-ent-AreaEngineLobby = холл инженерного отдела
+ent-AreaEngineLobby = вестибюль инжей
     .desc = { ent-AreaEngineering.desc }
 
-ent-AreaEngineMonitor = комната мониторинга двигателя
+ent-AreaEngineMonitor = пост наблюдения за двигателем
     .desc = { ent-AreaEngineering.desc }
 
-ent-AreaEngineSM = двигатель на сверхматерии
+ent-AreaEngineSM = двигатель суперматерии
     .desc = { ent-AreaEngineering.desc }
 
-ent-AreaEngineSMRoom = комната сверхматерии
+ent-AreaEngineSMRoom = отсек суперматерии у инжей
     .desc = { ent-AreaEngineering.desc }
 
-ent-AreaEngineSmes = комната СМЭС инженерного отдела
+ent-AreaEngineSmes = отсек СМЭС у инжей
     .desc = { ent-AreaEngineering.desc }
 
-ent-AreaEngineStorage = склад инженерного отдела
+ent-AreaEngineStorage = склад инжей
     .desc = { ent-AreaEngineering.desc }
 
-ent-AreaAtmos = атмосферный отдел
+ent-AreaAtmos = атмосферный отсек
     .desc = { ent-BaseAreaEngineering.desc }
 
-ent-AreaAtmosEngine = атмосферный двигатель
+ent-AreaAtmosEngine = двигатель атмосферного отсека
     .desc = { ent-BaseAreaEngineering.desc }
     .suffix = ТЭГ
 
-ent-AreaAtmosOffice = офис атмосферного отдела
+ent-AreaAtmosOffice = офис атмосферного отсека
     .desc = { ent-BaseAreaEngineering.desc }
 
-ent-AreaAtmosGasStorage = газовое хранилище атмосферного отдела
+ent-AreaAtmosGasStorage = газовое хранилище атмосферного отсека
     .desc = { ent-BaseAreaEngineering.desc }
 
-ent-AreaAtmosBurnChamber = камера сжигания
+ent-AreaAtmosBurnChamber = камера сгорания
     .desc = { ent-BaseAreaEngineering.desc }
 
-ent-AreaAtmosGasMiner = газовый майнер
+ent-AreaAtmosGasMiner = газодобытчик
     .desc = { ent-BaseAreaEngineering.desc }
 
 ent-AreaSubstation = шкаф подстанции
     .desc = { ent-BaseAreaEngineering.desc }
 
-ent-AreaGravGen = гравитационный генератор
+ent-AreaGravGen = генератор гравитации
     .desc = { ent-BaseAreaEngineering.desc }
 
 ent-AreaSolarPanels = солнечные панели
-    .desc = Для шлюзов солнечных панелей, считается частью инженерного отдела.
+    .desc = Для шлюзов у солнечных панелей эта зона считается частью отсека инжей.
 
-ent-AreaStationAnchor = станционный якорь
+ent-AreaStationAnchor = якорь станции
     .desc = { ent-BaseAreaEngineering.desc }
 
-ent-AreaTechStorage = склад техники
+ent-AreaTechStorage = технический склад
     .desc = { ent-BaseAreaEngineering.desc }
 
 ent-AreaTelecomms = телекоммуникации
     .desc = { ent-BaseAreaEngineering.desc }
 
-ent-AreaShuttleBuilding = цех сборки шаттлов
+ent-AreaShuttleBuilding = зал шаттлостроения
     .desc = { ent-AreaEngineering.desc }

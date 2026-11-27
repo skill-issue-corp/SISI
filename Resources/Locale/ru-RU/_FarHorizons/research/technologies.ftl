@@ -1,2 +1,2 @@
-research-technology-nuclear-power = Ядерная энергия
-research-technology-nuclear-recycling = Переработка ядерных отходов
+research-technology-nuclear-power = Ядерная Энергетика
+research-technology-nuclear-recycling = Переработка Ядерных Отходов

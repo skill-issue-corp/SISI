@@ -1,14 +1,14 @@
-ent-BulletAcid = плевок кислоты
+ent-BulletAcid = кислотный плевок
     .desc = { ent-BaseBullet.desc }
 
 ent-BulletWaterShot = вода
     .desc = { ent-SolutionVapor.desc }
 
-ent-BulletHivebot = пуля ройбота
+ent-BulletHivebot = пуля бота улья
     .desc = { ent-BaseBullet.desc }
 
-ent-GrapplingHook = якорь
+ent-GrapplingHook = крюк-кошка
     .desc = { "" }
 
-ent-StickyHandPalm = липкая ладонь
+ent-StickyHandPalm = ладонь липкой руки
     .desc = { ent-GrapplingHook.desc }

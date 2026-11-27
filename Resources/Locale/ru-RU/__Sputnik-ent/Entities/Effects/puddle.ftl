@@ -3,7 +3,7 @@ ent-PuddleTemporary = { ent-Puddle }
 
 ent-PuddleSmear = { ent-PuddleTemporary }
     .desc = { ent-PuddleTemporary.desc }
-    .suffix = Мазня
+    .suffix = Мазок
 
 ent-PuddleVomit = { ent-PuddleTemporary }
     .desc = { ent-PuddleTemporary.desc }
@@ -15,23 +15,23 @@ ent-PuddleEgg = { ent-PuddleTemporary }
 
 ent-PuddleTomato = { ent-PuddleTemporary }
     .desc = { ent-PuddleTemporary.desc }
-    .suffix = Помидор
+    .suffix = Томат
 
 ent-PuddleBloodSmall = { ent-PuddleTemporary }
-    .suffix = Кровь (5u)
     .desc = { ent-PuddleTemporary.desc }
+    .suffix = Кровь (5 ед.)
 
 ent-PuddleBlood = { ent-PuddleTemporary }
-    .suffix = Кровь (30u)
     .desc = { ent-PuddleTemporary.desc }
+    .suffix = Кровь (30 ед.)
 
 ent-PuddleFluorosulfuricAcidSmall = { ent-PuddleTemporary }
     .desc = { ent-PuddleTemporary.desc }
-    .suffix = Фторсерная Кислота (5u)
+    .suffix = Фторсульфоновая Кислота (5 ед.)
 
 ent-PuddleFluorosulfuricAcid = { ent-PuddleTemporary }
     .desc = { ent-PuddleTemporary.desc }
-    .suffix = Фторсерная Кислота (15u)
+    .suffix = Фторсульфоновая Кислота (15 ед.)
 
 ent-PuddleWatermelon = { ent-PuddleTemporary }
     .desc = { ent-PuddleTemporary.desc }
@@ -41,7 +41,7 @@ ent-PuddleFlour = { ent-PuddleTemporary }
     .desc = { ent-PuddleTemporary.desc }
     .suffix = Мука
 
-ent-PuddleSparkle = Блеск
+ent-PuddleSparkle = искра
     .desc = { "" }
 
 ent-Puddle = лужа

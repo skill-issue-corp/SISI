@@ -5,29 +5,29 @@ guide-entry-mutations = Список мутаций
 guide-entry-xenobiology = Ксенобиология
 
 guide-entry-counterattack = Контратака
-guide-entry-tackle = Захват
-guide-entry-forging = Ковка
+guide-entry-tackle = Захват в Прыжке
+guide-entry-forging = Кузнечное Дело
 guide-entry-fishing = Рыбалка
 guide-entry-circuits = Схемы
-guide-entry-chemicompiler = Химкомпилятор
+guide-entry-chemicompiler = ХимКомпилятор
 
-guide-entry-civilian = Гражданские должности
+guide-entry-civilian = Гражданские Профессии
 
-guide-entry-ranching = Разведение животных
+guide-entry-ranching = Разведение Животных
 
 guide-entry-bingle = Бингл
-guide-entry-changelings = Морфы и генокрады
-guide-entry-changeling-abilities = Способности морфов-подменышей
-guide-entry-corporate-agents = Корпоративные агенты
+guide-entry-changelings = Генокрады
+guide-entry-changeling-abilities = Способности Генокрадов
+guide-entry-corporate-agents = Корпоративные Агенты
 guide-entry-devil = Дьявол
-guide-entry-devil-clauses = Дьявольские договоры
+guide-entry-devil-clauses = Условия Дьявола
 guide-entry-insurgents = Повстанцы
 guide-entry-morph = Морф
-guide-entry-shadow-demon = Демон тени
+guide-entry-shadow-demon = Тенедемон
 guide-entry-slaughter-demon = Демон Резни
-guide-entry-progtot = Подработки Предателя
+guide-entry-progtot = Доска Заданий Предателя
 guide-entry-spies = Шпионы
 
 guide-entry-skills = Навыки
 
-guide-entry-chaplain-nullrodforms = Формы нуль-жезла
+guide-entry-chaplain-nullrodforms = Формы Нуль-Жезла

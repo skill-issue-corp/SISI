@@ -1,4 +1,4 @@
-ent-BaseAreaMedical = медицинский отдел
+ent-BaseAreaMedical = медотсек
     .desc = { ent-BaseAreaStation.desc }
 
 ent-AreaMedical = медотсек
@@ -7,22 +7,22 @@ ent-AreaMedical = медотсек
 ent-AreaMedicalBreak = комната отдыха медотсека
     .desc = { ent-BaseAreaMedical.desc }
 
-ent-AreaMedicalLobby = холл медотсека
+ent-AreaMedicalLobby = вестибюль медотсека
     .desc = { ent-BaseAreaMedical.desc }
 
 ent-AreaMedicalStorage = склад медотсека
     .desc = { ent-BaseAreaMedical.desc }
 
-ent-AreaSurgery = операционная
+ent-AreaSurgery = хирургия
     .desc = { ent-BaseAreaMedical.desc }
 
-ent-AreaSurgeryTheatre = операционный зал
+ent-AreaSurgeryTheatre = операционная
     .desc = { ent-BaseAreaMedical.desc }
 
 ent-AreaMorgue = морг
     .desc = { ent-BaseAreaMedical.desc }
 
-ent-AreaPsychology = психология
+ent-AreaPsychology = кабинет психолога
     .desc = { ent-BaseAreaMedical.desc }
 
 ent-AreaCloning = клонирование
@@ -31,13 +31,13 @@ ent-AreaCloning = клонирование
 ent-AreaParamedic = парамедик
     .desc = { ent-BaseAreaMedical.desc }
 
-ent-AreaPatientRoom = палата пациента
+ent-AreaPatientRoom = палата
     .desc = { ent-BaseAreaMedical.desc }
 
 ent-AreaPharmacy = аптека
     .desc = { ent-BaseAreaMedical.desc }
 
-ent-AreaChem = химия
+ent-AreaChem = хим
     .desc = { ent-BaseAreaMedical.desc }
 
 ent-AreaCryoPods = криокапсулы

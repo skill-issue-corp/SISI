@@ -1,98 +1,100 @@
 ent-BaseImplanter = имплантер
-    .desc = Шприц, специально предназначенный для введения и извлечения подкожных имплантов. Будьте осторожны при извлечении имплантатов, так как неправильные настройки извлечения могут травмировать пользователя.
+    .desc = { ent-BaseItem.desc }
 
-ent-Implanter = { ent-BaseImplanter }
-    .desc = Одноразовый шприц, специально предназначенный для введения и извлечения подкожных имплантов.
+ent-Implanter = экстрактор имплантов
+    .desc =
+        Шприц двойного назначения для извлечения выбранных подкожных имплантов. Извлечённый имплант остаётся внутри, и его можно ввести повторно.
+        ВНИМАНИЕ: Ошибка оператора, например выбор отсутствующего импланта, наносит оператору тяжёлые генетические повреждения.
 
 ent-ImplanterAdmeme = { ent-Implanter }
-    .suffix = Адмемы
     .desc = { ent-Implanter.desc }
+    .suffix = Адмеме
 
 ent-BaseImplantOnlyImplanter = { ent-Implanter }
-    .desc = Одноразовый шприц, специально предназначенный для введения подкожных имплантов.
+    .desc = Одноразовый шприц исключительно для введения подкожных имплантов.
 
-ent-BaseImplantOnlyImplanterSyndi = имплантер Синдиката
-    .desc = Компактный одноразовый шприц, специально предназначенный для введения подкожных имплантов.
+ent-BaseImplantOnlyImplanterSyndi = имплантер синдиката
+    .desc = Компактный одноразовый шприц исключительно для введения подкожных имплантов. После использования обязательно отмойте его мылом от следов ДНК!
 
 ent-SadTromboneImplanter = { ent-BaseImplantOnlyImplanter }
-    .suffix = Грустный тромбон
     .desc = { ent-BaseImplantOnlyImplanter.desc }
+    .suffix = Печальный Тромбон
 
 ent-LightImplanter = { ent-BaseImplantOnlyImplanter }
-    .suffix = Свет
     .desc = { ent-BaseImplantOnlyImplanter.desc }
+    .suffix = Свет
 
 ent-BikeHornImplanter = { ent-BaseImplantOnlyImplanter }
-    .suffix = Клаксон
     .desc = { ent-BaseImplantOnlyImplanter.desc }
+    .suffix = Велосипедный Гудок
 
 ent-TrackingImplanter = { ent-BaseImplantOnlyImplanter }
-    .suffix = Трекер
     .desc = { ent-BaseImplantOnlyImplanter.desc }
+    .suffix = Слежение
 
 ent-StorageImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Хранилище
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Хранилище
 
 ent-FreedomImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Свобода
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Свобода
 
 ent-RadioImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Радио Синдикат
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Радио Синдиката
 
 ent-UplinkImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Аплинк
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Аплинк
 
 ent-EmpImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = ЭМИ
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = ЭМИ
 
 ent-ScramImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Побег
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Побег
 
 ent-DnaScramblerImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Миксер ДНК
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = перемешиватель ДНК
 
-ent-ChameleonControllerImplanter = имплантер "контроллер хамелеона"
-    .suffix = Контроллер хамелеона
+ent-ChameleonControllerImplanter = { ent-BaseImplantOnlyImplanterSyndi }
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Контроллер Хамелеона
 
-ent-VoiceMaskImplanter = имплантер маскировки личности
+ent-VoiceMaskImplanter = имплантер смены личности
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
 
 ent-MicroBombImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Микробомба
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Микробомба
 
 ent-MacroBombImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Макробомба
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Макробомба
 
 ent-DeathRattleImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Предсмертный хрип
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Предсмертный Хрип
 
 ent-DeathAcidifierImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Посмертный растворитель
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Посмертный Растворитель
 
 ent-FakeMindShieldImplanter = { ent-BaseImplantOnlyImplanterSyndi }
-    .suffix = Фальшивый щит разума
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+    .suffix = Поддельный Щит Разума
 
 ent-MindShieldImplanter = { ent-BaseImplantOnlyImplanter }
-    .suffix = Щит разума
     .desc = { ent-BaseImplantOnlyImplanter.desc }
+    .suffix = Щит Разума
 
-ent-RadioImplanterCentcomm = { ent-BaseImplantOnlyImplanter }
+ent-RadioImplanterCentcomm = { ent-BaseImplantOnlyImplanterCentcomm }
+    .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
     .suffix = Радио ЦК
-    .desc = { ent-BaseImplantOnlyImplanter.desc }
 
-ent-DeathRattleImplanterCentcomm = { ent-BaseImplantOnlyImplanter }
-    .suffix = Предсмертный хрип ЦК
-    .desc = { ent-BaseImplantOnlyImplanter.desc }
+ent-DeathRattleImplanterCentcomm = { ent-BaseImplantOnlyImplanterCentcomm }
+    .desc = { ent-BaseImplantOnlyImplanterCentcomm.desc }
+    .suffix = Предсмертный Хрип

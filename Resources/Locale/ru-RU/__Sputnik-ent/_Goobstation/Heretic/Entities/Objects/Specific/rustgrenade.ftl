@@ -1,8 +1,8 @@
 ent-RustSowerSmokeBase = { "" }
     .desc = { "" }
 
-ent-BulletShrapnelRustSower = шрапнель сеятеля ржавчины
+ent-BulletShrapnelRustSower = осколок сеятеля ржавчины
     .desc = { ent-RustSowerSmokeBase.desc }
 
 ent-RustSowerGrenade = сеятель ржавчины
-    .desc = Занятная штуковина, взрывающаяся облаком ржавчины. Стирает боргов и мехов с лица земли.
+    .desc = Занятная штуковина, которая при взрыве разбрасывает ржавчину. В щепки разносит боргов и мехов.

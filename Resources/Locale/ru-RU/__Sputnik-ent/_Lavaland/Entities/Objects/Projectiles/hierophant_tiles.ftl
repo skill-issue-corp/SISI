@@ -1,9 +1,10 @@
-ent-LavalandHierophantSquare = квадрат Иерофанта
-    .suffix = НЕ МАППИТЬ
+ent-LavalandHierophantSquare = квадрат иерофанта
     .desc = { "" }
-ent-LavalandHierophantChaser = след Иерофанта
-    .suffix = НЕ МАППИТЬ
+
+ent-LavalandHierophantChaser = преследователь иерофанта
     .desc = { "" }
+    .suffix = НЕ МАППИТЬ
+
 ent-LavalandHierophantSquareSafe = { ent-LavalandHierophantSquare }
-    .suffix = Безопасный
     .desc = { ent-LavalandHierophantSquare.desc }
+    .suffix = Безопасный

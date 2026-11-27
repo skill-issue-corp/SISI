@@ -1,9 +1,9 @@
-lavaland-examine-pressure-in-range-buff = Это оборудование достигает максимальной эффективности при давлении в диапозоне от [color=yellow]{ $min } до { $max } кПа[/color], нанося в [color=yellow]{ $modifier } раза[/color] больше урона!
-lavaland-examine-pressure-in-range-debuff = Это оборудование ослаблено при давлении в диапозоне от [color=yellow]{ $min } до { $max } кПа[/color], нанося в [color=yellow]{ $modifier } раза[/color] меньше урона!
-lavaland-examine-pressure-out-range-buff = Это оборудование работает лучше вне диапазона от [color=yellow]{ $min } до { $max } кПа[/color], нанося в [color=yellow]{ $modifier } раза[/color] больше урона!
-lavaland-examine-pressure-out-range-debuff = Это оборудование ослаблено вне диапазона от [color=yellow]{ $min } до { $max } кПа[/color], нанося в [color=yellow]{ $modifier } раза[/color] меньше урона!
+lavaland-examine-pressure-in-range-buff = Это снаряжение наиболее эффективно при давлении [color=yellow]{$min} - {$max} кПа[/color] и наносит [color=yellow]{$modifier}×[/color] обычного урона!
+lavaland-examine-pressure-in-range-debuff = Это снаряжение ослабевает при давлении [color=yellow]{$min} - {$max} кПа[/color] и наносит [color=yellow]{$modifier}×[/color] обычного урона!
+lavaland-examine-pressure-out-range-buff = Это снаряжение эффективнее за пределами диапазона [color=yellow]{$min} - {$max} кПа[/color] и наносит [color=yellow]{$modifier}×[/color] обычного урона!
+lavaland-examine-pressure-out-range-debuff = Это снаряжение ослабевает за пределами диапазона [color=yellow]{$min} - {$max} кПа[/color] и наносит [color=yellow]{$modifier}×[/color] обычного урона!
 
-lavaland-examine-pressure-armor-in-range-buff = Этот элемент брони достигает максимальной эффективности в при давлении диапазоне от [color=yellow]{ $min } до { $max } кПа[/color], позволяя пробивать её на [color=yellow]{ $modifier }%[/color] слабее!
-lavaland-examine-pressure-armor-in-range-debuff = Этот элемент брони ослаблен при давлении в диапозоне от [color=yellow]{ $min } до { $max } кПа[/color], позволяя пробивать её на [color=yellow]{ $modifier }%[/color] сильнее!
-lavaland-examine-pressure-armor-out-range-buff = Этот элемент брони работает лучше вне диапазона от [color=yellow]{ $min } до { $max } кПа[/color], позволяя пробивать её на [color=yellow]{ $modifier }%[/color] слабее!
-lavaland-examine-pressure-armor-out-range-debuff = Этот элемент брони ослаблен вне диапазона от [color=yellow]{ $min } до { $max } кПа[/color], позволяя пробивать её на [color=yellow]{ $modifier }%[/color] сильнее!
+lavaland-examine-pressure-armor-in-range-buff = Эта броня наиболее эффективна при давлении [color=yellow]{$min} - {$max} кПа[/color] и пробивается на [color=yellow]{$modifier}%[/color] хуже!
+lavaland-examine-pressure-armor-in-range-debuff = Эта броня ослабевает при давлении [color=yellow]{$min} - {$max} кПа[/color] и пробивается на [color=yellow]{$modifier}%[/color] легче!
+lavaland-examine-pressure-armor-out-range-buff = Эта броня эффективнее за пределами диапазона [color=yellow]{$min} - {$max} кПа[/color] и пробивается на [color=yellow]{$modifier}%[/color] хуже!
+lavaland-examine-pressure-armor-out-range-debuff = Эта броня ослабевает за пределами диапазона [color=yellow]{$min} - {$max} кПа[/color] и пробивается на [color=yellow]{$modifier}%[/color] легче!

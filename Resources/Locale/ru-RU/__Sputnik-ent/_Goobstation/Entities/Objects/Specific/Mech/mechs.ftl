@@ -10,78 +10,78 @@ ent-SpecialMech = { "" }
 ent-SmallMech = { "" }
     .desc = { "" }
 
-ent-MechRipley2 = Рипли АТМЕ МК-II
-    .desc = "МК-II" оснащен герметичной кабиной для космических полетов, но дополнительный вес замедлил его работу.
+ent-MechRipley2 = Рипли АПГУ MK-II
+    .desc = У «MK-II» есть герметичная кабина для работы в космосе, но из-за дополнительного веса он стал медленнее.
 
 ent-MechRipley2Battery = { ent-MechRipley2 }
-    .suffix = Батарея
     .desc = { ent-MechRipley2.desc }
+    .suffix = Батарея
 
 ent-MechClarke = Кларк
-    .desc = Быстроходный робот для космических путешествий. У него есть встроенные функции доверия.
+    .desc = Быстрый мех для космических путешествий. Оснащён встроенными двигателями.
 
 ent-MechClarkeBattery = { ent-MechClarke }
-    .suffix = Батарея
     .desc = { ent-MechClarke.desc }
+    .suffix = Батарея
 
 ent-MechHonkerFilled = { ent-MechHonkerBattery }
-    .suffix = Батарея, Заполненный
     .desc = { ent-MechHonkerBattery.desc }
+    .suffix = Батарея, Заполнено
 
 ent-MechGygax = Гигакс
-    .desc = Несмотря на легкую броню, Гигакс обладает невероятной мобильностью благодаря своей способности пробивать стены на высокой скорости.
+    .desc = Хотя у Гайгэкса лёгкая броня, он невероятно подвижен: на высокой скорости он может проламывать стены.
 
 ent-MechGygaxBattery = { ent-MechGygax }
-    .suffix = Батарея
     .desc = { ent-MechGygax.desc }
+    .suffix = Батарея
 
 ent-MechDurand = Дюранд
-    .desc = Медленный, но мощный боевой экзоскелет, который особенно страшен в ограниченном пространстве из-за своих ударов. Ксеносы его ненавидят!
+    .desc = Медленный, но крепкий боевой экзокостюм. В тесных помещениях его удары особенно страшны. Ксеноморфы его ненавидят!
 
 ent-MechDurandBattery = { ent-MechDurand }
-    .suffix = Батарея
     .desc = { ent-MechDurand.desc }
+    .suffix = Батарея
 
-ent-MechMarauder = Марадёр
+ent-MechMarauder = Мародёр
     .desc = Похоже, мы все спасены.
 
 ent-MechMarauderBattery = { ent-MechMarauder }
-    .suffix = Батарея
     .desc = { ent-MechMarauder.desc }
+    .suffix = Батарея
 
 ent-MechMarauderFilled = { ent-MechMarauderBattery }
-    .suffix = Батарея, Заполненный
     .desc = { ent-MechMarauderBattery.desc }
+    .suffix = Батарея, Заполнено
 
 ent-MechSeraph = Серафим
-    .desc = Это последнее, что ты увидишь.
+    .desc = Это последнее, что вы увидите.
 
 ent-MechSeraphBattery = { ent-MechSeraph }
-    .suffix = Батарея
     .desc = { ent-MechSeraph.desc }
+    .suffix = Батарея
 
 ent-MechSeraphFilled = { ent-MechSeraphBattery }
-    .suffix = Батарея, Заполненный
     .desc = { ent-MechSeraphBattery.desc }
+    .suffix = Батарея, Заполнено
 
-ent-MechGygaxSyndie = Тёмный Гигакс
-    .desc = Модифицированный Гигакс, используемый в неблаговидных целях. На обратной стороне брони есть надпись "Cybersun Inc.".
+ent-MechGygaxSyndie = Тёмный Гайгэкс
+    .desc = Модифицированный Гайгэкс для тёмных дел. На тыльной стороне бронепластины красуется надпись «Cybersun Inc.»
 
 ent-MechGygaxSyndieBattery = { ent-MechGygaxSyndie }
-    .suffix = Батарея
     .desc = { ent-MechGygaxSyndie.desc }
+    .suffix = Батарея
 
 ent-MechGygaxSyndieFilled = { ent-MechGygaxSyndieBattery }
-    .suffix = Батарея, Заполненный
     .desc = { ent-MechGygaxSyndieBattery.desc }
+    .suffix = Батарея, Заполнено
 
 ent-MechMaulerSyndie = Маулер
-    .desc = Модифицированный "Мародер", используемый Синдикатом, который не так маневренен, как "Темный Гигакс", но компенсирует это броней и огневой мощью. На обратной стороне брони есть надпись "Cybersun Inc".
+    .desc = Модифицированный Мародёр Синдиката. Он менее манёвренный, чем Тёмный Гайгэкс, но компенсирует это бронёй и огромной огневой мощью. На тыльной стороне бронепластины красуется надпись «Cybersun Inc.»
 
 ent-MechMaulerSyndieBattery = { ent-MechMaulerSyndie }
-    .suffix = Батарея
     .desc = { ent-MechMaulerSyndie.desc }
+    .suffix = Батарея
 
 ent-MechMaulerSyndieFilled = { ent-MechMaulerSyndieBattery }
-    .suffix = Батарея, Заполненный
     .desc = { ent-MechMaulerSyndieBattery.desc }
+    .suffix = Батарея, Заполнено

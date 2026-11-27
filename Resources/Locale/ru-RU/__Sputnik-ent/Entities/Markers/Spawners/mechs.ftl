@@ -1,4 +1,5 @@
-ent-SpawnMechRipley = спавнер Рипли АВП
+ent-SpawnMechRipley = Спавнер АПЛУ «Рипли»
     .desc = { ent-MarkerBase.desc }
-ent-SpawnMechHonker = спавнер Х.О.Н.К.
+
+ent-SpawnMechHonker = Спавнер Х.О.Н.К.
     .desc = { ent-MarkerBase.desc }

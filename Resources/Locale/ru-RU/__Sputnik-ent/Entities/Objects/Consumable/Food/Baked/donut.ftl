@@ -1,59 +1,84 @@
-ent-FoodDonutBase = { ent-FoodInjectableBase }
-    .desc = Отлично сочетается с крепким кофе.
+ent-FoodDonutBase = { ent-SolutionVeryTiny }
+    .desc = Отлично сочетается с робастным кофе.
+
 ent-FoodDonutFruitBase = { ent-FoodDonutBase }
     .desc = { ent-FoodDonutBase.desc }
+
 ent-FoodDonutPlain = обычный пончик
     .desc = { ent-FoodDonutBase.desc }
-ent-FoodDonutJellyPlain = обычный желейный пончик
-    .desc = { ent-FoodDonutBase.desc }
+
+ent-FoodDonutJellyPlain = обычный пончик с желе
+    .desc = { ent-FoodDonutFruitBase.desc }
+
 ent-FoodDonutHomer = пончик
     .desc = { ent-FoodDonutBase.desc }
+
 ent-FoodDonutChaos = пончик хаоса
-    .desc = Как и жизнь, вкус никогда не бывает одинаковым.
+    .desc = Как и жизнь, никогда не бывает одинаковым на вкус.
+
 ent-FoodDonutMeat = мясной пончик
-    .desc = На вкус такая же гадость, как и на вид.
+    .desc = На вкус такой же мерзкий, как на вид.
+
 ent-FoodDonutPink = розовый пончик
     .desc = Отлично сочетается с соевым латте.
-ent-FoodDonutSpaceman = космонавтский пончик
-    .desc = Отлично сочетается с холодным стаканом солода.
+
+ent-FoodDonutSpaceman = пончик космонавта
+    .desc = Отлично сочетается с холодной мензуркой малока.
+
 ent-FoodDonutApple = яблочный пончик
     .desc = Отлично сочетается с рюмкой коричного шнапса.
+
 ent-FoodDonutCaramel = карамельный пончик
     .desc = Отлично сочетается с кружкой горячего какао.
+
 ent-FoodDonutChocolate = шоколадный пончик
     .desc = Отлично сочетается со стаканом тёплого молока.
-ent-FoodDonutBluePumpkin = синетыквенный пончик
-    .desc = Отлично сочетается с кружкой успокаивающего напитка из синей тыквы.
-ent-FoodDonutBungo = бунго пончик
-    .desc = Отлично сочетается с закаточной банкой "Восторга хиппи".
-ent-FoodDonut = матча пончик
-    .desc = L-теанин в этом пончике расслабляет, но не вызывает эйфории. Отлично сочетается с чашечкой чая.
-ent-FoodDonutSweetpea = пончик из душистого горошка
-    .desc = Отлично сочетается с бутылкой "Бастион Бурбон"!
-ent-FoodDonutJellyHomer = желейный пончик
-    .desc = Ты желе?
-ent-FoodDonutJellyPink = желейный розовый пончик
+
+ent-FoodDonutBluePumpkin = пончик с синей тыквой
+    .desc = Отлично сочетается с кружкой успокаивающей пьяной синей тыквы.
+
+ent-FoodDonutBungo = пончик с бунго
+    .desc = Отлично сочетается с банкой услады хиппи.
+
+ent-FoodDonut = пончик с матчей
+    .desc = L-теанин в этом пончике расслабляет, но не вызывает эйфории. Отлично сочетается с чашкой чая.
+
+ent-FoodDonutSweetpea = пончик со сладким горохом
+    .desc = Отлично сочетается с бутылкой «Бастиона Бурбона»!
+
+ent-FoodDonutJellyHomer = пончик с желе
+    .desc = Зажелели?
+
+ent-FoodDonutJellyPink = розовый пончик с желе
     .desc = Отлично сочетается с соевым латте.
-ent-FoodDonutJellySpaceman = желейный космонавтский пончик
-    .desc = Отлично сочетается с холодным стаканом солода.
-ent-FoodDonutJellyApple = желейный яблочный пончик
+
+ent-FoodDonutJellySpaceman = пончик космонавта с желе
+    .desc = Отлично сочетается с холодной мензуркой малока.
+
+ent-FoodDonutJellyApple = яблочный пончик с желе
     .desc = Отлично сочетается с рюмкой коричного шнапса.
-ent-FoodDonutJellyCaramel = желейный карамельный пончик
+
+ent-FoodDonutJellyCaramel = карамельный пончик с желе
     .desc = Отлично сочетается с кружкой горячего какао.
-ent-FoodDonutJellyBluePumpkin = синетыквенный желейный пончик
-    .desc = Отлично сочетается с кружкой успокаивающего напитка из синей тыквы.
-ent-FoodDonutJellyChocolate = желейный шоколадный пончик
+
+ent-FoodDonutJellyChocolate = шоколадный пончик с желе
     .desc = Отлично сочетается со стаканом тёплого молока.
-ent-FoodDonutJellyBungo = желейный бунго пончик
-    .desc = Отлично сочетается с закаточной банкой "Восторга хиппи".
-ent-FoodDonutJelly = желейный матча пончик
-    .desc = L-теанин в этом пончике расслабляет, но не вызывает эйфории. Отлично сочетается с чашечкой чая.
-ent-FoodDonutJellySweetpea = желейный пончик из душистого горошка
-    .desc = Отлично сочетается с бутылкой "Бастион Бурбон"!
-ent-FoodDonutJellyScurret = желейный пончик скюррета
-    .desc = В этом пончике нет отверстий на случай, если появится подозрительный столб.
-ent-FoodDonutJellySlugcat = желейный слизнекотовый пончик
-    .desc = В этом пончике нет отверстий на случай, если появится подозрительный столб.
+
+ent-FoodDonutJellyBluePumpkin = пончик с синей тыквой и желе
+    .desc = Отлично сочетается с кружкой успокаивающей пьяной синей тыквы.
+
+ent-FoodDonutJellyBungo = пончик с бунго и желе
+    .desc = Отлично сочетается с банкой услады хиппи.
+
+ent-FoodDonutJelly = пончик с матчей и желе
+    .desc = L-теанин в этом пончике с желе расслабляет, но не вызывает эйфории. Отлично сочетается с чашкой чая.
+
+ent-FoodDonutJellySweetpea = пончик со сладким горохом и желе
+    .desc = Отлично сочетается с бутылкой «Бастиона Бурбона»!
+
+ent-FoodDonutJellyScurret = пончик-слизнекотик с желе
+    .desc = У этого пончика нет дырки, на случай если объявится подозрительный шест.
+
 ent-FoodDonutPoison = { ent-FoodDonutPink }
     .desc = { ent-FoodDonutPink.desc }
     .suffix = Яд

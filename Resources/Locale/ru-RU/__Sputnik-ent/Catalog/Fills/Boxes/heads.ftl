@@ -1,26 +1,26 @@
-ent-BoxCaptainCircuitboards = набор плат мостика
+ent-BoxCaptainCircuitboards = контейнер плат мостика
     .desc = { ent-ToteBase.desc }
 
-ent-BoxCECircuitboards = набор инженерных плат
+ent-BoxCECircuitboards = контейнер плат инженерного отдела
     .desc = { ent-ToteBase.desc }
 
-ent-BoxCMOCircuitboards = набор медицинских плат
+ent-BoxCMOCircuitboards = контейнер плат медотсека
     .desc = { ent-ToteBase.desc }
 
-ent-BoxHoPCircuitboards = набор плат главы персонала
+ent-BoxHoPCircuitboards = контейнер плат главы персонала
     .desc = { ent-ToteBase.desc }
 
 ent-BoxHoPStamps = коробка печатей главы персонала
     .desc = { ent-BoxStamps.desc }
 
-ent-BoxHoSCircuitboards = набор плат службы безопасности
+ent-BoxHoSCircuitboards = контейнер плат СБ
     .desc = { ent-ToteBase.desc }
 
-ent-BoxQMCircuitboards = набор плат отдела снабжения
+ent-BoxQMCircuitboards = контейнер плат карго
     .desc = { ent-ToteBase.desc }
 
 ent-BoxQMStamps = коробка печатей квартирмейстера
-    .desc = { ent-ToteBase.desc }
+    .desc = { ent-BoxStamps.desc }
 
-ent-BoxRDCircuitboards = набор научных плат
+ent-BoxRDCircuitboards = контейнер плат научного отдела
     .desc = { ent-ToteBase.desc }

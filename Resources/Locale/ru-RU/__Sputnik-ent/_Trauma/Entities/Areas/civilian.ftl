@@ -1,4 +1,4 @@
-ent-BaseAreaCivilian = гражданский отсек
+ent-BaseAreaCivilian = гражданская зона
     .desc = { ent-BaseAreaStation.desc }
 
 ent-AreaLibrary = библиотека
@@ -7,7 +7,7 @@ ent-AreaLibrary = библиотека
 ent-AreaCourtRoom = зал суда
     .desc = { ent-BaseAreaCivilian.desc }
 
-ent-AreaLawOffice = юридическая контора
+ent-AreaLawOffice = кабинет адвоката
     .desc = { ent-BaseAreaCivilian.desc }
 
 ent-AreaStage = сцена
@@ -16,13 +16,13 @@ ent-AreaStage = сцена
 ent-AreaTheatre = театр
     .desc = { ent-BaseAreaCivilian.desc }
 
-ent-AreaJanitor = каптёрка уборщика
+ent-AreaJanitor = уборщик
     .desc = { ent-BaseAreaCivilian.desc }
 
-ent-AreaChapel = церкви
+ent-AreaChapel = часовня
     .desc = { ent-BaseAreaCivilian.desc }
 
-ent-AreaChapelOffice = кабинет церкви
+ent-AreaChapelOffice = кабинет священника
     .desc = { ent-AreaChapel.desc }
 
 ent-AreaChapelCremate = крематорий

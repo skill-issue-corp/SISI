@@ -1,6 +1,7 @@
-ent-ShelfWallFreezerWhite = настенный морозильник
+ent-ShelfWallFreezerWhite = настенная морозилка
     .desc = Удобное место для хранения скоропортящихся продуктов.
-    .suffix = Фронтир, Светлый
-ent-ShelfWallFreezerDark = настенный морозильник
-    .suffix = Фронтир, Тёмный
+    .suffix = Фронтир, Белая
+
+ent-ShelfWallFreezerDark = настенная морозилка
     .desc = { ent-ShelfWallFreezerWhite.desc }
+    .suffix = Фронтир, Тёмная

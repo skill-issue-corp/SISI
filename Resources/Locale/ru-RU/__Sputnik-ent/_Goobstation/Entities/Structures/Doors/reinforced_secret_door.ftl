@@ -1,9 +1,9 @@
-ent-BaseReinforcedSecretDoor = усиленная стена
-    .desc = Не выпускает воздух и не впускает грейтайдеров.
-    .suffix = Секретная дверь
+ent-BaseReinforcedSecretDoor = укреплённая стена
+    .desc = Удерживает воздух внутри, а грейтайд — снаружи.
+    .suffix = потайная дверь
 
-ent-ReinforcedSecretDoorAssembly = каркас укреплённой секретной двери
+ent-ReinforcedSecretDoorAssembly = каркас укреплённой потайной двери
     .desc = { ent-BaseSecretDoorAssembly.desc }
 
-ent-ReinforcedSecretDoor = усиленная стена
+ent-ReinforcedSecretDoor = укреплённая стена
     .desc = { ent-BaseReinforcedSecretDoor.desc }

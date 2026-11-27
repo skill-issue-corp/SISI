@@ -1,2 +1,2 @@
-ent-CrateBingle = ящик бингла
+ent-CrateBingle = ящик бинглов
     .desc = { ent-CrateBaseWeldable.desc }

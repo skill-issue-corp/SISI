@@ -4,9 +4,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-hulk-unhulked = Вы чувствуете себя гораздо слабее.
-hulk-roar-1 = РРААААААРГХ!
-hulk-roar-2 = НННННННННГГГГГГХ!
-hulk-roar-3 = ГВААААААААРРРХХХ!
-hulk-roar-4 = ННННННННГГГГГГГГХХ!
-hulk-roar-5 = АААААААРРРГХ!
+hulk-unhulked = Вы чувствуете, что стали намного слабее.
+
+hulk-roar-1 = РА-А-А-А-А-РГХ!
+hulk-roar-2 = Н-Н-Н-Н-Н-ГХ-Х-Х!
+hulk-roar-3 = ГВА-А-А-А-А-Р-Р-РХ!
+hulk-roar-4 = Н-Н-Н-Н-Г-Г-Г-ГХ!
+hulk-roar-5 = А-А-А-А-А-Р-Р-ГХ!

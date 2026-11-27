@@ -1,2 +1,2 @@
-ent-ClothingBackpackDuffelSalvageConscription = набор шахтёра
-    .desc = Вещмешок, содержащий всё необходимое для шахтёра.
+ent-ClothingBackpackDuffelSalvageConscription = набор призывника горной службы
+    .desc = Вещмешок со всем необходимым, чтобы член экипажа мог помочь шахтёру на выезде.

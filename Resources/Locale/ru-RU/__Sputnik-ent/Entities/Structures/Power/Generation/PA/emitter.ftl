@@ -1,15 +1,20 @@
-ent-ParticleAcceleratorEmitterPort = левый сдерживающий излучатель УЧ
-    .desc = Запускает Альфа-частицы, не стоит стоять перед ним.
-ent-ParticleAcceleratorEmitterFore = центральный сдерживающий излучатель УЧ
-    .desc = Запускает Альфа-частицы, не стоит стоять перед ним.
-ent-ParticleAcceleratorEmitterStarboard = правый сдерживающий излучатель УЧ
-    .desc = Запускает Альфа-частицы, не стоит стоять перед ним.
-ent-ParticleAcceleratorEmitterPortUnfinished = левый сдерживающий излучатель УЧ
-    .desc = Запускает Альфа-частицы, не стоит стоять перед ним. Выглядит незаконченным.
-    .suffix = Незаконченный, Левый
-ent-ParticleAcceleratorEmitterForeUnfinished = центральный сдерживающий излучатель УЧ
-    .desc = Запускает Альфа-частицы, не стоит стоять перед ним. Выглядит незаконченным.
-    .suffix = Незаконченный, Центральный
-ent-ParticleAcceleratorEmitterStarboardUnfinished = правый сдерживающий излучатель УЧ
-    .desc = Запускает Альфа-частицы, не стоит стоять перед ним. Выглядит незаконченным.
-    .suffix = Незаконченный, Правый
+ent-ParticleAcceleratorEmitterPort = эмиттер сдерживания УЧ, левый борт
+    .desc = Запускает Альфа-частицы. Лучше не стоять перед ним.
+
+ent-ParticleAcceleratorEmitterFore = эмиттер сдерживания УЧ, нос
+    .desc = Запускает Альфа-частицы. Лучше не стоять перед ним.
+
+ent-ParticleAcceleratorEmitterStarboard = эмиттер сдерживания УЧ, правый борт
+    .desc = Запускает Альфа-частицы. Лучше не стоять перед ним.
+
+ent-ParticleAcceleratorEmitterPortUnfinished = эмиттер сдерживания УЧ, левый борт
+    .desc = Запускает Альфа-частицы. Лучше не стоять перед ним. Похоже, ещё не собран.
+    .suffix = Не Готово, Левый Борт
+
+ent-ParticleAcceleratorEmitterForeUnfinished = эмиттер сдерживания УЧ, нос
+    .desc = Запускает Альфа-частицы. Лучше не стоять перед ним. Похоже, ещё не собран.
+    .suffix = Не Готово, Нос
+
+ent-ParticleAcceleratorEmitterStarboardUnfinished = эмиттер сдерживания УЧ, правый борт
+    .desc = Запускает Альфа-частицы. Лучше не стоять перед ним. Похоже, ещё не собран.
+    .suffix = Не Готово, Правый Борт

@@ -1,6 +1,6 @@
 ent-ChemistryBottleBingleJuice = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }
-    .suffix = бингл-сок
+    .suffix = бингловый сок
 
 ent-ChemistryBottlePlasma = { ent-BaseChemistryBottleFilled }
     .desc = { ent-BaseChemistryBottleFilled.desc }

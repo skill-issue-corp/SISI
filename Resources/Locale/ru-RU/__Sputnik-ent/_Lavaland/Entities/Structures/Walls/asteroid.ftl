@@ -1,4 +1,4 @@
-ent-WallRockGibtonite = порода
+ent-WallRockGibtonite = скала
     .desc = { ent-BaseRockGibtonite.desc }
 
 ent-WallRockBasaltGibtonite = базальт

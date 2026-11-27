@@ -1,11 +1,11 @@
 ent-ProjectileCosmicNova = Астральная Нова
-    .desc = Ох-ох.
+    .desc = Ой-ой.
 
-ent-ProjectileCosmic = Зловещий Заряд
-    .desc = Отмечает цель для дополнительного урона.
+ent-ProjectileCosmic = Зловещий Снаряд
+    .desc = Ай.
 
-ent-ProjectileCosmicRazor = Астральный Болт
-    .desc = Отмечает цель для дополнительного урона.
+ent-ProjectileCosmicRazor = Астральный Снаряд
+    .desc = Ай.
 
 ent-BulletImpactEffectCosmic = { "" }
     .desc = { "" }

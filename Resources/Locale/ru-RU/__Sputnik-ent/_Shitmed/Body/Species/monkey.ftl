@@ -3,7 +3,7 @@ ent-AppearanceMonkey = внешность обезьяны
 
 ent-OrganMonkey = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = Обезьяна
+    .suffix = обезьяна
 
 ent-OrganMonkeyExternal = { ent-OrganMonkey }
     .desc = { ent-OrganMonkey.desc }

@@ -1,2 +1,2 @@
-ai-cam-warp-ui-menu-title = Отправиться к камере
+ai-cam-warp-ui-menu-title = Прыжок К Камере
 ai-camera-ui-menu-refresh = Обновить

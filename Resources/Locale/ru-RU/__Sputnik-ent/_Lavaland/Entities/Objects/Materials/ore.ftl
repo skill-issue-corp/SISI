@@ -1,123 +1,123 @@
-ent-ArtifactFragmentOre = фрагмент артефакта
-    .suffix = Полный
+ent-ArtifactFragmentOre = руда с фрагментом артефакта
     .desc = { ent-OreBase.desc }
+    .suffix = Полностью заполнено
 
 ent-ArtifactFragmentOre1 = { ent-ArtifactFragmentOre }
-    .suffix = Один
     .desc = { ent-ArtifactFragmentOre.desc }
+    .suffix = Один предмет
 
 ent-GoldOreUnprocessed = необработанная золотая руда
-    .suffix = Полный
     .desc = { ent-GoldOre.desc }
+    .suffix = Полностью заполнено
 
 ent-GoldOre1Unprocessed = необработанная золотая руда
-    .suffix = Один
     .desc = { ent-GoldOreUnprocessed.desc }
+    .suffix = Один предмет
 
 ent-DiamondOreUnprocessed = необработанная алмазная руда
-    .suffix = Полный
     .desc = { ent-DiamondOre.desc }
+    .suffix = Полностью заполнено
 
 ent-DiamondOre1Unprocessed = необработанная алмазная руда
-    .suffix = Один
     .desc = { ent-DiamondOreUnprocessed.desc }
+    .suffix = Один предмет
 
 ent-SteelOreUnprocessed = необработанная железная руда
-    .suffix = Полный
     .desc = { ent-SteelOre.desc }
+    .suffix = Тридцать
 
 ent-SteelOre1Unprocessed = { ent-SteelOreUnprocessed }
     .desc = { ent-SteelOreUnprocessed.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
 ent-SteelOre60Unprocessed = { ent-SteelOreUnprocessed }
     .desc = { ent-SteelOreUnprocessed.desc }
     .suffix = Шестьдесят
 
 ent-SteelOre90Unprocessed = необработанная железная руда
-    .suffix = Полный
     .desc = { ent-SteelOreUnprocessed.desc }
+    .suffix = Полностью заполнено
 
 ent-PlasmaOreUnprocessed = необработанная фороновая руда
     .desc = { ent-PlasmaOre.desc }
-    .suffix = Полный
+    .suffix = Полностью заполнено
 
 ent-PlasmaOre1Unprocessed = { ent-PlasmaOreUnprocessed }
     .desc = { ent-PlasmaOreUnprocessed.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
 ent-SilverOreUnprocessed = необработанная серебряная руда
-    .suffix = Полный
     .desc = { ent-SilverOre.desc }
+    .suffix = Полностью заполнено
 
 ent-SilverOre1Unprocessed = { ent-SilverOreUnprocessed }
     .desc = { ent-SilverOreUnprocessed.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
 ent-SpaceQuartzUnprocessed = необработанный космический кварц
-    .suffix = Полный
     .desc = { ent-SpaceQuartz.desc }
+    .suffix = Тридцать
 
 ent-SpaceQuartz1Unprocessed = необработанный космический кварц
-    .suffix = Один
     .desc = { ent-SpaceQuartzUnprocessed.desc }
+    .suffix = Один предмет
 
 ent-SpaceQuartz60Unprocessed = необработанный космический кварц
-    .suffix = 60
     .desc = { ent-SpaceQuartzUnprocessed.desc }
+    .suffix = Шестьдесят
 
 ent-SpaceQuartz90Unprocessed = необработанный космический кварц
-    .suffix = Полный
     .desc = { ent-SpaceQuartzUnprocessed.desc }
+    .suffix = Полностью заполнено
 
 ent-UraniumOreUnprocessed = необработанная урановая руда
-    .suffix = Полный
     .desc = { ent-UraniumOre.desc }
+    .suffix = Полностью заполнено
 
 ent-UraniumOre1Unprocessed = необработанная урановая руда
-    .suffix = Один
     .desc = { ent-UraniumOreUnprocessed.desc }
+    .suffix = Один предмет
 
 ent-BananiumOreUnprocessed = необработанная бананиумовая руда
-    .suffix = Полный
     .desc = { ent-BananiumOre.desc }
+    .suffix = Полностью заполнено
 
 ent-BananiumOre1Unprocessed = необработанная бананиумовая руда
-    .suffix = Один
     .desc = { ent-BananiumOreUnprocessed.desc }
+    .suffix = Один предмет
 
 ent-CoalUnprocessed = необработанный уголь
-    .suffix = Полный
     .desc = { ent-Coal.desc }
+    .suffix = Тридцать
 
 ent-Coal1Unprocessed = необработанный уголь
-    .suffix = Один
     .desc = { ent-CoalUnprocessed.desc }
+    .suffix = Один предмет
 
 ent-Coal5Unprocessed = необработанный уголь
-    .suffix = 5
     .desc = { ent-CoalUnprocessed.desc }
+    .suffix = Пять
 
 ent-Coal10Unprocessed = необработанный уголь
-    .suffix = 10
     .desc = { ent-CoalUnprocessed.desc }
+    .suffix = Десять
 
 ent-Coal15Unprocessed = необработанный уголь
-    .suffix = 15
     .desc = { ent-CoalUnprocessed.desc }
+    .suffix = Пятнадцать
 
 ent-Coal60Unprocessed = необработанный уголь
-    .suffix = 60
     .desc = { ent-CoalUnprocessed.desc }
+    .suffix = Шестьдесят
 
 ent-Coal90Unprocessed = необработанный уголь
-    .suffix = Полный
     .desc = { ent-CoalUnprocessed.desc }
+    .suffix = Полностью заполнено
 
-ent-ArtifactFragmentOreUnprocessed = необработанный фрагмент артефакта
-    .suffix = Полный
+ent-ArtifactFragmentOreUnprocessed = необработанная руда с фрагментом артефакта
     .desc = { ent-ArtifactFragmentOre.desc }
+    .suffix = Полностью заполнено
 
-ent-ArtifactFragmentOre1Unprocessed = необработанный фрагмент артефакта
-    .suffix = Один
+ent-ArtifactFragmentOre1Unprocessed = необработанная руда с фрагментом артефакта
     .desc = { ent-ArtifactFragmentOreUnprocessed.desc }
+    .suffix = Один предмет

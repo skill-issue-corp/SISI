@@ -1,7 +1,11 @@
-xeno-vacuum-examined = Внутри содержится [color=yellow]{$n}[/color] сущностей.
-xeno-vacuum-clear-popup = Вы извлекаете {$ent}!
-xeno-vacuum-suction-succeed-popup = Вы засасываете {$ent}!
+xeno-vacuum-examined = Внутри { $n ->
+    [one] находится [color=yellow]{$n}[/color] существо
+    [few] находятся [color=yellow]{$n}[/color] существа
+   *[other] находится [color=yellow]{$n}[/color] существ
+}.
+xeno-vacuum-clear-popup = Вы выпускаете {$ent}!
+xeno-vacuum-suction-succeed-popup = Вы всасываете {$ent}!
 
-xeno-vacuum-suction-fail-no-tank-popup = У вас не подключён резервуар!
-xeno-vacuum-suction-fail-invalid-entity-popup = Вы не можете засосать {$ent}!
-xeno-vacuum-suction-fail-tank-full-popup = Ваш резервуар полон!
+xeno-vacuum-suction-fail-no-tank-popup = Резервуар не подключён!
+xeno-vacuum-suction-fail-invalid-entity-popup = Нельзя всосать {$ent}!
+xeno-vacuum-suction-fail-tank-full-popup = Ваш резервуар заполнен!

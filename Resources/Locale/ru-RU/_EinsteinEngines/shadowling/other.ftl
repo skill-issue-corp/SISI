@@ -1,32 +1,45 @@
-shadowling-on-try-equip-clothes = Это бесполезно для тебя...
+shadowling-on-try-equip-clothes = Для вас это бесполезно...
+
 reagent-name-shadowling-toxin = токсин тенеморфа
-reagent-desc-shadowling-toxin = Таинственный химикат, который лечит всех тенеморфов и их траллов, но ослепляет остальных.
-alerts-shadowling-light-name = Индикатор света
-alerts-shadowling-light-desc = Это твой индикатор света. Если он достигнет нуля, ты начнёшь получать урон. Старайся оставаться в тени.
-chat-manager-shadowling-channel-name = Разум тьмы
-shadowling-dead = Странным образом ты возвращаешь себе рассудок.
-shadowling-thrall-examined = Это ваш тралл.
-shadowling-thrall-other-examined = Глаза { CAPITALIZE(POSS-ADJ($target)) } словно смотрят в иную реальность...
+reagent-desc-shadowling-toxin = Загадочное вещество, исцеляющее любого тенеморфа и его траллов, но ослепляющее всех остальных
+
+alerts-shadowling-light-name = Индикатор Освещения
+alerts-shadowling-light-desc = Это ваш индикатор освещения. При значении 0 вы начинаете получать урон. Старайтесь держаться в тени.
+
+chat-manager-shadowling-channel-name = Разум Тьмы
+
+shadowling-dead = Странно, но ваш разум снова принадлежит вам.
+
+shadowling-thrall-examined = Это ваш Тралл.
+shadowling-thrall-other-examined = {CAPITALIZE(POSS-ADJ($target))} взгляд словно устремлён в другую реальность...
+
 guide-entry-shadowlings = Тенеморфы
+
 reagent-effect-guidebook-blind-non-sling =
     { $chance ->
-        [1] Ослепляет любого
-       *[other] ослепить любого
-    } не тенеморфа
+        [1] Ослепляет
+        *[other] ослепить
+    } любого, кто не является тенеморфом
+
 reagent-effect-guidebook-heal-sling =
     { $chance ->
-        [1] Исцеляет любого
-       *[other] исцелить любого
-    } тенеморфа и тралла
-marking-LesserShadowlingEyes = Глаза низшего тенеморфа
-marking-AbominationHorns = Рога чудовища
-marking-AbominationTorso = Туловище чудовища
+        [1] Исцеляет
+        *[other] исцелить
+    } любого тенеморфа и тралла
+
+marking-LesserShadowlingEyes = Глаза Младшего Тенеморфа
+marking-AbominationHorns = Рога Мерзости
+marking-AbominationTorso = Туловище Мерзости
+
 admin-verb-make-shadowling = Превратить цель в тенеморфа.
-admin-verb-text-make-shadowling = Сделать тенеморфом
-species-name-shadowling = тенеморф
-species-name-shadow = тень
+admin-verb-text-make-shadowling = Сделать Тенеморфом
+
+species-name-shadowling = Тенеморф
+species-name-shadow = Тень
+
 # Examine Texts
-shadowling-examine-self = [color=#D22B2B]Ты получаешь { $damage } урона от света[/color]
+shadowling-examine-self = [color=#D22B2B]Свет наносит вам {$damage} ед. урона ожогами[/color]
+
 # UI
-asc-broadcast-title = Вознесённое вещание
+asc-broadcast-title = Объявление Вознесённого
 asc-broadcast-prompt = Сообщение

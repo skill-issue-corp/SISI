@@ -4,98 +4,98 @@ ent-FoodCakeBaseNoSecretStash = { ent-SolutionNormal }
 ent-FoodCakeBase = { ent-FoodCakeBaseNoSecretStash }
     .desc = { ent-FoodCakeBaseNoSecretStash.desc }
 
-ent-FoodCakeSliceBase = { ent-FoodCakeBase }
-    .desc = Просто кусок торта, хватит на всех.
+ent-FoodCakeSliceBase = { ent-SolutionVeryTiny }
+    .desc = Всего один кусок торта, но всем хватит.
 
 ent-FoodCakeBlueberry = черничный торт
-    .desc = Окрашивает зубы.
+    .desc = Пачкает зубы.
 
 ent-FoodCakeBlueberrySlice = кусок черничного торта
-    .desc = Окрашивает зубы.
+    .desc = Пачкает зубы.
 
 ent-FoodCakePlain = торт
-    .desc = Простой торт, не ложь.
+    .desc = Обычный торт, никакого обмана.
 
 ent-FoodCakePlainSlice = кусок торта
     .desc = { ent-FoodCakeSliceBase.desc }
 
 ent-FoodCakeCarrot = морковный торт
-    .desc = Любимый десерт одного озорного кволика.
+    .desc = Любимый десерт одного хитвого кволика.
 
 ent-FoodCakeCarrotSlice = кусок морковного торта
-    .desc = Оранжевый кусок морковного торта. Морковь полезна для глаз!
+    .desc = Морковный кусок морковного торта. Морковь полезна для глаз!
 
-ent-FoodCakeBrain = торт с мозгами
-    .desc = Хлюпающее кондитерское изделие.
+ent-FoodCakeBrain = торт из мозга
+    .desc = Мягкая штука вроде торта.
 
-ent-FoodCakeBrainSlice = кусок торта с мозгами
-    .desc = Я расскажу вам кое-что о прионах. ОНИ ОЧЕНЬ ВКУСНЫЕ.
+ent-FoodCakeBrainSlice = кусок торта из мозга
+    .desc = Ща скажу вам кое-что про прионы. ОНИ ВКУСНЫЕ.
 
-ent-FoodCakeCheese = сырный торт
+ent-FoodCakeCheese = чизкейк
     .desc = ОПАСНО сырный.
 
-ent-FoodCakeCheeseSlice = кусок сырного торта
-    .desc = Кусок чистейшего сырослаждения.
+ent-FoodCakeCheeseSlice = кусок чизкейка
+    .desc = Кусочек сырного удовлетворения.
 
 ent-FoodCakeOrange = апельсиновый торт
-    .desc = Торт с апельсинами.
+    .desc = Торт с добавлением апельсина.
 
 ent-FoodCakeOrangeSlice = кусок апельсинового торта
     .desc = { ent-FoodCakeSliceBase.desc }
 
 ent-FoodCakeLime = лаймовый торт
-    .desc = Торт с лаймами.
+    .desc = Торт с добавлением лайма.
 
 ent-FoodCakeLimeSlice = кусок лаймового торта
     .desc = { ent-FoodCakeSliceBase.desc }
 
 ent-FoodCakeLemon = лимонный торт
-    .desc = Торт с лимонами.
+    .desc = Торт с добавлением лимона.
 
 ent-FoodCakeLemonSlice = кусок лимонного торта
     .desc = { ent-FoodCakeSliceBase.desc }
 
-ent-FoodCakeLemoon = лилунный торт
-    .desc = Торт, символизирующий земную луну.
+ent-FoodCakeLemoon = лунолимонный торт
+    .desc = Торт в виде луны земли.
 
-ent-FoodCakeLemoonSlice = кусок лилунного торта
-    .desc = Осколок луны, пахнущий молоком.
+ent-FoodCakeLemoonSlice = осколок лунолимонного торта
+    .desc = Осколок луны, пахнет молоком.
 
 ent-FoodCakeChocolate = шоколадный торт
-    .desc = Торт с шоколадом.
+    .desc = Торт с добавлением шоколада.
 
 ent-FoodCakeChocolateSlice = кусок шоколадного торта
     .desc = { ent-FoodCakeSliceBase.desc }
 
 ent-FoodCakeApple = яблочный торт
-    .desc = Торт с яблочком в центре.
+    .desc = Торт с яблочной начинкой.
 
 ent-FoodCakeAppleSlice = кусок яблочного торта
-    .desc = Кусок райского торта.
+    .desc = Кусок божественного торта.
 
-ent-FoodCakeSlime = слаймовый торт
-    .desc = Торт из слаймов. Скорее всего, не наэлектризованный.
+ent-FoodCakeSlime = торт из слаймов
+    .desc = Торт из слаймов. Вероятно, не под напряжением.
 
-ent-FoodCakeSlimeSlice = кусок слаймового торта
-    .desc = Кусок слаймового торта.
+ent-FoodCakeSlimeSlice = кусок торта из слаймов
+    .desc = Кусок торта из слаймов.
 
 ent-FoodCakePumpkin = пряный тыквенный торт
-    .desc = Пирог с настоящей тыквой, и отверстием в середине.
+    .desc = Полый торт с настоящей тыквой.
 
 ent-FoodCakePumpkinSlice = кусок пряного тыквенного торта
-    .desc = Пряный кусок тыквенной вкуснятины.
+    .desc = Пряный кусок тыквенного лакомства.
 
 ent-FoodCakeChristmas = рождественский торт
-    .desc = Торт, сделанный из Рождества.
+    .desc = Торт, сделанный из рождества.
 
 ent-FoodCakeChristmasSlice = кусок рождественского торта
     .desc = { ent-FoodCakeSliceBase.desc }
 
-ent-FoodCakeBirthday = именинный торт
-    .desc = С днём рождения, маленький клоун...
+ent-FoodCakeBirthday = торт ко дню рождения
+    .desc = С Днём Рождения, маленький клоун...
 
-ent-FoodCakeBirthdaySlice = кусок именинного торта
-    .desc = Кусок вашего дня рождения.
+ent-FoodCakeBirthdaySlice = кусок торта ко дню рождения
+    .desc = Кусочек вашего дня рождения.
 
 ent-FoodCakeVanilla = ванильный торт
     .desc = Торт с ванильной глазурью.
@@ -107,31 +107,31 @@ ent-FoodCakeClown = клоунский торт
     .desc = Забавный торт с лицом клоуна.
 
 ent-FoodCakeClownSlice = кусок клоунского торта
-    .desc = Долька плохих шуток и глупого реквизита.
+    .desc = Кусочек плохих шуток и дурацкого реквизита.
 
-ent-FoodCakeSpaceman = космонавтский торт
-    .desc = Торт из трубы космонавта с глазурью.
+ent-FoodCakeSpaceman = торт космонавта
+    .desc = Торт с глазурью из трубы космонавта.
 
-ent-FoodCakeSpacemanSlice = кусок космонавтского торта
-    .desc = Торт из трубы космонавта с глазурью.
+ent-FoodCakeSpacemanSlice = кусок торта космонавта
+    .desc = Торт с глазурью из трубы космонавта.
 
-ent-MobCatCake = Корт
-    .desc = Это кот. Это торт. Это корт.
+ent-MobCatCake = которт
+    .desc = Это торт. Это кот. Это которт.
 
-ent-FoodCakeSuppermatter = суперматерия
-    .desc = Чрезвычайно плотная и мощная пища.
+ent-FoodCakeSuppermatter = суперъеда
+    .desc = Чрезвычайно плотная и мощная еда.
 
-ent-FoodCakeSuppermatterSlice = осколок суперматерии
+ent-FoodCakeSuppermatterSlice = осколок суперъеды
     .desc = Одна порция мощи.
 
 ent-FoodCakeCotton = хлопковый торт
-    .desc = Торт с хлопковой глазурью и шариком хлопка на верхушке.
+    .desc = Торт с глазурью из волокон и комком хлопка сверху.
 
 ent-FoodCakeCottonSlice = кусок хлопкового торта
-    .desc = Кусок хлопкового торта. Можешь просто слизать глазурь, ничего страшного.
+    .desc = Кусок хлопкового торта. Можно просто слизать глазурь, ничего страшного.
 
 ent-FoodCakeBerryDelight = ягодное наслаждение
-    .desc = Этот торт надвигается.
+    .desc = Этот торт приближается.
 
 ent-FoodCakeBerryDelightSlice = кусок ягодного наслаждения
-    .desc = Вставь вилку, твой голод развеется.
+    .desc = Вонзи вилку, оставь голод в изоляции.

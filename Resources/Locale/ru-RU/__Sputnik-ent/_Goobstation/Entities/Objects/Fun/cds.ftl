@@ -1,80 +1,80 @@
-ent-BaseCdDisk = CD
-    .desc = CD, обычно использующийся для прокрутки рекламы.
+ent-BaseCdDisk = компакт-диск
+    .desc = Компакт-диск, обычно содержит рекламу.
 
-ent-CdDiskDanitosBurritos = CD "Данитос Буритос"
+ent-CdDiskDanitosBurritos = компакт-диск (Буррито Данито)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskBillMovie = CD "Фильм Билла"
+ent-CdDiskBillMovie = компакт-диск (фильм билла)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskCapTraining = CD "СРП Капитана"
+ent-CdDiskCapTraining = компакт-диск (ролик о подготовке капитанов)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskCargonia = CD "Каргония"
+ent-CdDiskCargonia = компакт-диск (Каргония)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskChemistry = CD "Химия"
+ent-CdDiskChemistry = компакт-диск (Химия)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskCloningPsa = CD "СРП клонирования"
+ent-CdDiskCloningPsa = компакт-диск (ролик о клонировании)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskDansTickets = CD "Билеты Дэна"
+ent-CdDiskDansTickets = компакт-диск (Билеты Дэна)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskGrones = CD "Гроунс"
+ent-CdDiskGrones = компакт-диск (гроны)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskPopeCrunchCereal = CD "Хлопья Pope Crunch"
+ent-CdDiskPopeCrunchCereal = компакт-диск (Хлопья «Хруст Папы»)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskQuikNoodles = CD "Бич-пакет"
+ent-CdDiskQuikNoodles = компакт-диск (Квик Лапша)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskRobotics = CD "Робототехника"
+ent-CdDiskRobotics = компакт-диск (робототехника)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskSecurityPsa = CD "СРП СБ"
+ent-CdDiskSecurityPsa = компакт-диск (ролик о службе безопасности)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskGroupPsa = CD "Группа psa"
+ent-CdDiskGroupPsa = компакт-диск (ролик о группах)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskWeird = странный CD
-    .desc = Странно выглядящий CD. Что-то вам подсказывает, что на нём записана не реклама.
+ent-CdDiskWeird = странный компакт-диск
+    .desc = Странный компакт-диск. Что-то подсказывает вам, что на этом рекламы нет.
 
-ent-CdDiskCommanderAnnouncement = CD "Объявление командира"
+ent-CdDiskCommanderAnnouncement = компакт-диск (объявление командира)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskCommanderFigurines = CD "Фигурки командира"
+ent-CdDiskCommanderFigurines = компакт-диск (фигурки командира)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskCommanderResignation = CD "Отставка командира"
+ent-CdDiskCommanderResignation = компакт-диск (отставка командира)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskCommanderSupport = CD "Поддержка командира"
+ent-CdDiskCommanderSupport = компакт-диск (поддержка командира)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskHeisenbeeTrial = CD "Судебный процесс Хэйзенби"
+ent-CdDiskHeisenbeeTrial = компакт-диск (суд над Хайзенпчелой)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskXgOnboarding1 = CD "XG онбординг 1"
+ent-CdDiskXgOnboarding1 = компакт-диск (вводный курс xg 1)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskXgOnboarding2 = CD "XG онбординг 2"
+ent-CdDiskXgOnboarding2 = компакт-диск (вводный курс xg 2)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskXgOnboarding3 = CD "XG онбординг 3"
+ent-CdDiskXgOnboarding3 = компакт-диск (вводный курс xg 3)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskXgOnboarding4 = CD "XG онбординг 4"
+ent-CdDiskXgOnboarding4 = компакт-диск (вводный курс xg 4)
     .desc = { ent-CdDiskWeird.desc }
 
 ent-SyndiCdDisk = { ent-BaseSyndicateContraband }
-    .desc = Берите диск!
+    .desc = Хватай диск!
 
-ent-CdDiskNumber = CD "Числа"
-    .desc = Свяжитесь с ближайшим постом прослушивания синдиката для подкрепления!
+ent-CdDiskNumber = компакт-диск (Числа)
+    .desc = Свяжитесь с ближайшим постом прослушивания синдиката, чтобы вызвать подкрепление!
 
-ent-CdDiskFelinids = CD "Фелинидов не существует"
+ent-CdDiskFelinids = компакт-диск (фелинидов не существует)
     .desc = { ent-CdDiskWeird.desc }

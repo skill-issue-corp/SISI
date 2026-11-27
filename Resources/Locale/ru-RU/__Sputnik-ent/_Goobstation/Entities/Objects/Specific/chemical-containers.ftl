@@ -3,9 +3,9 @@ ent-JugHolyWater = { ent-Jug }
     .suffix = святая вода
 
 ent-JugSalicylicAcid = { ent-Jug }
-    .suffix = Салициловая кислота
     .desc = { ent-Jug.desc }
+    .suffix = салициловая кислота
 
 ent-JugOxandrolone = { ent-Jug }
-    .suffix = Оксандролон
     .desc = { ent-Jug.desc }
+    .suffix = оксандролон

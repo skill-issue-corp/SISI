@@ -1,59 +1,59 @@
 ent-ClothingBeltUtilityFilled = { ent-ClothingBeltUtility }
     .desc = { ent-ClothingBeltUtility.desc }
-    .suffix = Заполненный
+    .suffix = Заполнено
 
 ent-ClothingBeltUtilityEngineering = { ent-ClothingBeltUtility }
-    .suffix = Инженерный
     .desc = { ent-ClothingBeltUtility.desc }
+    .suffix = Инженерный
 
 ent-ClothingBeltChiefEngineerFilled = { ent-ClothingBeltChiefEngineer }
     .desc = { ent-ClothingBeltChiefEngineer.desc }
-    .suffix = Заполненный
+    .suffix = Заполнено
 
 ent-ClothingBeltSecurityFilled = { ent-ClothingBeltSecurity }
     .desc = { ent-ClothingBeltSecurity.desc }
-    .suffix = Заполненный
+    .suffix = Заполнено
 
 ent-ClothingBeltSecurityWebbingFilled = { ent-ClothingBeltSecurityWebbing }
-    .suffix = Заполненный
     .desc = { ent-ClothingBeltSecurityWebbing.desc }
+    .suffix = Заполнено
 
 ent-ClothingBeltJanitorFilled = { ent-ClothingBeltJanitor }
     .desc = { ent-ClothingBeltJanitor.desc }
-    .suffix = Заполненный
+    .suffix = Заполнено
 
 ent-ClothingBeltMedicalFilled = { ent-ClothingBeltMedical }
-    .suffix = Заполненный
     .desc = { ent-ClothingBeltMedical.desc }
+    .suffix = Заполнено
 
 ent-ClothingBeltMedicalEMTFilled = { ent-ClothingBeltMedicalEMT }
-    .suffix = Заполненный, Парамедик
     .desc = { ent-ClothingBeltMedicalEMT.desc }
+    .suffix = Парамедик, Заполнено
 
 ent-ClothingBeltPlantFilled = { ent-ClothingBeltPlant }
-    .suffix = Заполненный
     .desc = { ent-ClothingBeltPlant.desc }
+    .suffix = Заполнено
 
 ent-ClothingBeltSheathFilled = { ent-ClothingBeltSheath }
-    .suffix = Заполненный
     .desc = { ent-ClothingBeltSheath.desc }
+    .suffix = Заполнено, Капитан
 
-ent-ClothingBeltMilitaryWebbingGrenadeFilled = тактический жилет гренадёра
-    .suffix = Заполненный
+ent-ClothingBeltMilitaryWebbingGrenadeFilled = РПС гренадёра
     .desc = { ent-ClothingBeltMilitaryWebbing.desc }
+    .suffix = Заполнено
 
 ent-ClothingBeltMilitaryWebbingMedFilled = { ent-ClothingBeltMilitaryWebbingMed }
-    .suffix = Заполненный
     .desc = { ent-ClothingBeltMilitaryWebbingMed.desc }
+    .suffix = Заполнено
 
 ent-ClothingBeltWandFilled = { ent-ClothingBeltWand }
-    .suffix = Заполненный
     .desc = { ent-ClothingBeltWand.desc }
+    .suffix = Заполнено
 
 ent-ClothingBeltHolsterFilled = { ent-ClothingBeltHolster }
-    .suffix = Заполненный
     .desc = { ent-ClothingBeltHolster.desc }
+    .suffix = Заполнено, Инспектор
 
 ent-ClothingBeltChefFilled = { ent-ClothingBeltChef }
-    .suffix = Заполненный
     .desc = { ent-ClothingBeltChef.desc }
+    .suffix = Заполнено

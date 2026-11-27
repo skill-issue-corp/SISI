@@ -1,22 +1,22 @@
 ent-BaseNightVisionGoggles = { "" }
     .desc = { "" }
 
-ent-ClothingEyesNightVisionGoggles = прибор ночного видения
-    .desc = Теперь вы можете видеть в темноте!
+ent-ClothingEyesNightVisionGoggles = очки ночного видения
+    .desc = Теперь вы видите в темноте!
 
-ent-ClothingEyesNightVisionGogglesSyndie = прибор ночного видения синдиката
-    .desc = Высокотехнологичные прибор ночного видения со встроенным медицинским визором.
+ent-ClothingEyesNightVisionGogglesSyndie = очки ночного видения синдиката
+    .desc = Высокотехнологичные очки ночного видения со встроенным медицинским сканером.
 
 ent-ClothingEyesNightVisionGogglesNukie = { ent-ClothingEyesNightVisionGogglesSyndie }
-    .suffix = Ядерные оперативники
     .desc = { ent-ClothingEyesNightVisionGogglesSyndie.desc }
+    .suffix = Ядерные Оперативники
 
-ent-ClothingEyesThermalVisionGoggles = прибор теплового видения
-    .desc = Теперь вы можете видеть всех!
+ent-ClothingEyesThermalVisionGoggles = очки теплового видения
+    .desc = Теперь вы видите всех!
 
-ent-ClothingEyesThermalVisionGogglesSyndie = прибор теплового видения
-    .desc = Высокотехнологичный тепловизионный прибор.
+ent-ClothingEyesThermalVisionGogglesSyndie = очки теплового видения
+    .desc = Высокотехнологичные тепловизионные очки.
 
 ent-ClothingEyesThermalVisionGogglesNukie = { ent-ClothingEyesThermalVisionGogglesSyndie }
-    .suffix = Ядерные оперативники
     .desc = { ent-ClothingEyesThermalVisionGogglesSyndie.desc }
+    .suffix = Ядерные Оперативники

@@ -1,35 +1,34 @@
 ent-BaseWindowStructure = окно
-    .desc = Не заляпайте стекло внизу.
+    .desc = Только не заляпайте там стекло.
 
-ent-Window = окно
-    .desc = Смотри не заляпай.
+ent-Window = { ent-BaseWindowStructure }
+    .desc = { ent-BaseWindowStructure.desc }
 
-ent-TintedWindow = матовое окно
-    .desc = { ent-Window.desc }
+ent-TintedWindow = тонированное окно
+    .desc = Умное тонированное окно с возможностью переключения состояния.
 
 ent-TintedWindowTransparent = { ent-TintedWindow }
-    .suffix = Прозрачное
     .desc = { ent-TintedWindow.desc }
+    .suffix = Прозрачное
 
 ent-BaseRCDResistant = { "" }
     .desc = { "" }
 
 ent-WindowRCDResistant = { ent-Window }
-    .suffix = РСУ защита
     .desc = { ent-Window.desc }
 
 ent-BaseWindowStructureDirectional = направленное окно
-    .desc = Не заляпайте стекло внизу.
+    .desc = Только не заляпайте там стекло.
 
-ent-WindowDirectional = направленное окно
-    .desc = Смотри не заляпай.
+ent-WindowDirectional = { ent-BaseWindowStructureDirectional }
+    .desc = { ent-BaseWindowStructureDirectional.desc }
 
 ent-WindowDirectionalRCDResistant = { ent-WindowDirectional }
     .desc = { ent-WindowDirectional.desc }
 
 ent-WindowFrostedDirectional = направленное матовое окно
-    .desc = Смотри не заляпай.
+    .desc = Только не заляпайте там стекло.
 
 ent-WindowDiagonal = { ent-Window }
-    .suffix = Диагональ
     .desc = { ent-Window.desc }
+    .suffix = по диагонали

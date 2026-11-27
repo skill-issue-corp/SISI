@@ -1,5 +1,5 @@
-ent-ProximitySensor = датчик движения
-    .desc = Чувствует предметы в непосредственной близости.
+ent-ProximitySensor = датчик приближения
+    .desc = Обнаруживает объекты поблизости.
 
 ent-PartSilicon = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }

@@ -1,2 +1,2 @@
-ent-XenoborgWindow = окно ксеноборга
+ent-XenoborgWindow = окно ксеноборгов
     .desc = { ent-PlastitaniumWindow.desc }

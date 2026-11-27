@@ -1,2 +1,2 @@
-ent-clientsideclone = клиентсторонакопия
+ent-clientsideclone = клиентскийклон
     .desc = { "" }

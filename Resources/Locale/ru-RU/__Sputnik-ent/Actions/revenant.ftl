@@ -1,11 +1,11 @@
 ent-ActionRevenantShop = Магазин
     .desc = Открывает магазин способностей.
 
-ent-ActionRevenantDefile = Осквернение
-    .desc = Цена 30 эссенций.
+ent-ActionRevenantDefile = Осквернить
+    .desc = Разбивает окна и тайлы, а также вскрывает ближайшие контейнеры. Стоит 30 Эссенции.
 
-ent-ActionRevenantOverloadLights = Перегрузка ламп
-    .desc = Цена 40 эссенций.
+ent-ActionRevenantOverloadLights = Перегрузить Освещение
+    .desc = Вызывает разряды молний из ближайших светильников. Стоит 40 Эссенции.
 
-ent-ActionRevenantMalfunction = Сбой
-    .desc = Цена 60 эссенций.
+ent-ActionRevenantMalfunction = Вызвать Сбой
+    .desc = Вызывает сбои в ближайших механизмах. Стоит 60 Эссенции.

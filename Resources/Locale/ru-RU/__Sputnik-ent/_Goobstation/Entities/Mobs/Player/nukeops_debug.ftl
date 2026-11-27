@@ -1,21 +1,20 @@
-ent-MobHumanLoneNuclearOperativeSuitDebug = одиночный ядерный оперативник (скафандр)
+ent-MobHumanLoneNuclearOperativeSuitDebug = Одиночный Оперативник в Скафандре DEBUG
     .desc = { ent-MobHuman.desc }
-    .suffix = DEBUG
-ent-MobHumanLoneNuclearOperativeSuitEliteDebug = одиночный ядерный оперативник (элита)
+
+ent-MobHumanLoneNuclearOperativeSuitEliteDebug = Одиночный Оперативник в Элитном Скафандре DEBUG
     .desc = { ent-MobHuman.desc }
-    .suffix = DEBUG
-ent-MobHumanLoneNuclearOperativeSuitJuggDebug = одиночный ядерный оперативник (джаггернаут)
+
+ent-MobHumanLoneNuclearOperativeSuitJuggDebug = Одиночный Оперативник в Скафандре Джаггернаута DEBUG
     .desc = { ent-MobHuman.desc }
-    .suffix = DEBUG
-ent-MobHumanLoneNuclearOperativeSuitCommanderDebug = одиночный ядерный оперативник (командир)
+
+ent-MobHumanLoneNuclearOperativeSuitCommanderDebug = Одиночный Оперативник в Командирском Скафандре DEBUG
     .desc = { ent-MobHuman.desc }
-    .suffix = DEBUG
-ent-MobHumanLoneNuclearOperativeSuitStealthDebug = одиночный ядерный оперативник (пустотный)
+
+ent-MobHumanLoneNuclearOperativeSuitStealthDebug = Одиночный Оперативник в Скафандре Скрытности DEBUG
     .desc = { ent-MobHuman.desc }
-    .suffix = DEBUG
-ent-MobHumanLoneNuclearOperativeSuitMedicDebug = одиночный ядерный оперативник (медик)
+
+ent-MobHumanLoneNuclearOperativeSuitMedicDebug = Одиночный Оперативник в Медицинском Скафандре DEBUG
     .desc = { ent-MobHuman.desc }
-    .suffix = DEBUG
-ent-MobHumanLoneNuclearOperativeSuitDreadDebug = одиночный ядерный оперативник (дредноут)
+
+ent-MobHumanLoneNuclearOperativeSuitDreadDebug = Одиночный Оперативник в Скафандре «Ужас» DEBUG
     .desc = { ent-MobHuman.desc }
-    .suffix = DEBUG

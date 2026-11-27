@@ -1,7 +1,16 @@
-ent-BlastDoor = гермозатвор
-    .desc = Имеется надпись "ОПАСНОСТЬ ВЗРЫВА".
+ent-BlastDoor = взрывозащитная дверь
+    .desc = На этой написано «ВЗРЫВОЗАЩИТНЫЙ ДУРЬ».
+
 ent-BlastDoorOpen = { ent-BlastDoor }
-    .suffix = Открытый
     .desc = { ent-BlastDoor.desc }
-ent-BlastDoorFrame = каркас гермозатвора
-    .desc = { ent-BlastDoor.desc }
+    .suffix = Открыто
+
+ent-BlastDoorFrame = каркас взрывозащитной двери
+    .desc = На этой написано «ВЗРЫВОЗАЩИТНЫЙ ДУРЬ».
+
+ent-BlastDoorXenoborg = взрывозащитная дверь ксеноборгов
+    .desc = Не потеряйте голову!
+
+ent-BlastDoorXenoborgOpen = { ent-BlastDoorXenoborg }
+    .desc = { ent-BlastDoorXenoborg.desc }
+    .suffix = Открыто

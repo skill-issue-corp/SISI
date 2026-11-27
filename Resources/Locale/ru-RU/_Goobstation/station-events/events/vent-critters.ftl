@@ -4,5 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-goob-station-event-vent-creatures-skibidi-start-announcement = Внимание. На станции обнаружен высокий уровень Скибиди Риззa. Пожалуйста, избавьтесь от этих существ, прежде чем станция превратится в Огайо. Чат, это реально?
-
+goob-station-event-vent-creatures-skibidi-start-announcement = Внимание. На станции выявлен высокий уровень Скибиди Ризза. Избавьтесь от этих тварей, пока станция не превратилась в Огайо. Чат, это реально?

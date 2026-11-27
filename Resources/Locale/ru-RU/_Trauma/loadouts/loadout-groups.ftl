@@ -1,7 +1,7 @@
 # PDA
-loadout-group-captain-id = ID капитана
-loadout-group-ntr-id = ID представителя Nanotrasen
-loadout-group-hop-id = ID главы персонала
+loadout-group-captain-id = ID Карта Капитана
+loadout-group-ntr-id = ID Карта Представителя NanoTrasen
+loadout-group-hop-id = ID Карта Главы Персонала
 
 # Errors
 loadout-group-player-restriction = У вас нет доступа к этому предмету.
@@ -13,17 +13,17 @@ loadout-group-exclusive = Эксклюзив
 loadout-group-bartenderweapon = Оружие бармена
 
 # Roboticist
-loadout-group-roboticist-envirohelm = Гермошлем робототехника
-loadout-group-roboticist-envirosuit = Гермокостюм робототехника
-loadout-group-roboticist-envirogloves = Гермоперчатки робототехника
+loadout-group-roboticist-envirohelm = Экошлем робототехника
+loadout-group-roboticist-envirosuit = Экокостюм робототехника
+loadout-group-roboticist-envirogloves = Экоперчатки робототехника
 
 # DClass
-loadout-group-dclass-jumpsuit = Комбинезон класса D
+loadout-group-dclass-jumpsuit = Комбинезон Класса D
 loadout-group-dclass-mask = Маска
 loadout-group-dclass-gloves = Перчатки
 loadout-group-dclass-outerclothing = Верхняя одежда
 loadout-group-dclass-shoes = Обувь
-loadout-group-dclass-neck = Шея
-loadout-group-dclass-envirohelm = Гермошлем Класса D
-loadout-group-dclass-envirosuit = Гермокостюм класса D
-loadout-group-dclass-envirogloves = Гермоперчатки класса D
+loadout-group-dclass-neck = На шею
+loadout-group-dclass-envirohelm = Экошлем Класса D
+loadout-group-dclass-envirosuit = Экокостюм Класса D
+loadout-group-dclass-envirogloves = Экоперчатки Класса D

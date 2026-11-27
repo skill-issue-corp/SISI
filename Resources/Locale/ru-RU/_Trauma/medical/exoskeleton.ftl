@@ -1,1 +1,1 @@
-exoskeleton-inject-fail = Вы пытаетесь сделать инъекцию {$target}, но игла не может пробить {POSS-ADJ($target)} панцирь!
+exoskeleton-inject-fail = Вы пытаетесь сделать инъекцию {CAPITALIZE($target)}, но игла не пробивает {POSS-ADJ($target)} панцирь!

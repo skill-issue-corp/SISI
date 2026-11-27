@@ -1,5 +1,5 @@
 ent-WeaponPistolIradomini = iradomini
-    .desc = Мощный арбалет для крестоносца со стилем.
+    .desc = Мощный арбалет для стильного крестоносца.
 
 ent-WeaponPistolFaith = faith
-    .desc = Ведь без веры никак.
+    .desc = Потому что у вас должна быть Вера.

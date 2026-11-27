@@ -1,4 +1,5 @@
-ent-BaseSpeedLoaderCap = зарядник пистонов
+ent-BaseSpeedLoaderCap = спидлоадер для пистонного пистолета
     .desc = { ent-BaseItem.desc }
-ent-SpeedLoaderCap = зарядник пистонов
-    .desc = { ent-BaseSpeedLoaderCap.desc }
+
+ent-SpeedLoaderCap = спидлоадер для пистонного пистолета
+    .desc = Позволяет быстро зарядить в пустой пистонный пистолет до шести пистонов.

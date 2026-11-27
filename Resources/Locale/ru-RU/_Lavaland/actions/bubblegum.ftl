@@ -1,1 +1,1 @@
-bubblegum-summon = ГРРРААААААУУУУУУУУУУУ!
+bubblegum-summon = ГРАААААААХХХХХХХХХ!

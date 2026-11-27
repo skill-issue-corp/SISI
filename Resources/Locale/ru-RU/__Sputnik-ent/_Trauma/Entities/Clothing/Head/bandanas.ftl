@@ -1,3 +1,3 @@
 ent-ClothingHeadBandRev = тёмно-зелёная бандана
     .desc = { ent-ClothingHeadBandBase.desc }
-    .suffix = Головной убор
+    .suffix = Повязка на Голове

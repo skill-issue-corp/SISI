@@ -1,6 +1,6 @@
-ent-LavalandCrateNecropolis = ящик Некрополя
+ent-LavalandCrateNecropolis = сундук некрополя
     .desc = Стальной и прочный.
 
-ent-LavalandCrateNecropolisFilled = ящик Некрополя
-    .suffix = Заполненный
+ent-LavalandCrateNecropolisFilled = сундук некрополя
     .desc = { ent-LavalandCrateNecropolis.desc }
+    .suffix = Заполнено

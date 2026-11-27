@@ -1,11 +1,11 @@
-ent-SkillChipMagicalDampener = PSON-чип (подавление магического таланта)
+ent-SkillChipMagicalDampener = Чип PSON (Подавление Магического Таланта)
     .desc = { ent-BaseSkillChipPSON.desc }
 
-ent-SkillChipCombatDampener = PSON-чип (подавление боевого таланта)
+ent-SkillChipCombatDampener = Чип PSON (Подавление Боевого Таланта)
     .desc = { ent-BaseSkillChipPSON.desc }
 
-ent-SkillChipMindPurge = PSON-чип (очистка разума)
+ent-SkillChipMindPurge = Чип PSON (Очистка Разума)
     .desc = { ent-SkillChipCombatDampener.desc }
 
-ent-SkillChipTiderDampener = PSON-чип (нейронный подавитель)
+ent-SkillChipTiderDampener = Чип PSON (Нейронный Подавитель)
     .desc = { ent-BaseSkillChipPSON.desc }

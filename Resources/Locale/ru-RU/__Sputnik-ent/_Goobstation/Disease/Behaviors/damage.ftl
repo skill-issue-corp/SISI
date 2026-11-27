@@ -1,11 +1,11 @@
 ent-DiseaseBehaviorCancer = Рак
-    .desc = Наносит генетический урон со временем.
+    .desc = Со временем наносит генетический урон.
 
-ent-DiseaseBehaviorPoison = Отравление
-    .desc = Наносит урон ядом со временем.
+ent-DiseaseBehaviorPoison = Яд
+    .desc = Со временем наносит урон ядом.
 
 ent-DiseaseBehaviorBlunt = Разрушение тканей
-    .desc = Наносит тупой урон со временем.
+    .desc = Со временем наносит дробящий урон.
 
 ent-DiseaseBehaviorGunemia = Пулемия
     .desc = Заставляет вас кашлять пулями. Механизм неизвестен.

@@ -6,16 +6,16 @@ round-end-discord-duration-hours = {$hours ->
         [few] {$hours} часа
        *[other] {$hours} часов
     }
-round-end-discord-duration-minutes = {$minutes ->
-        [one] {$minutes} минуту
-        [few] {$minutes} минуты
-       *[other] {$minutes} минут
-    }
-round-end-discord-duration-seconds = {$seconds ->
-        [one] {$seconds} секунду
-        [few] {$seconds} секунды
-       *[other] {$seconds} секунд
-    }
+round-end-discord-duration-minutes = { $minutes } { $minutes ->
+    [one] минута
+    [few] минуты
+   *[other] минут
+}
+round-end-discord-duration-seconds = { $seconds } { $seconds ->
+    [one] секунда
+    [few] секунды
+   *[other] секунд
+}
 
 round-end-discord-gamemode = Режим: `{$gamemode}`
 round-end-discord-info =

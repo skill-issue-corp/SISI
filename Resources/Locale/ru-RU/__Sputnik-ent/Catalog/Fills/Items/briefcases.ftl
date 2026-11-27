@@ -1,27 +1,27 @@
-ent-BriefcaseBrownFilled = коричневый чемодан
-    .suffix = Заполненный, Бумага
+ent-BriefcaseBrownFilled = { ent-BriefcaseBrown }
     .desc = { ent-BriefcaseBrown.desc }
+    .suffix = Заполнено, Бумага
 
-ent-BriefcaseSyndieSniperBundleFilled = коричневый чемодан
-    .suffix = Заполненный, Христов
+ent-BriefcaseSyndieSniperBundleFilled = { ent-BriefcaseBrown }
+    .desc = { ent-BriefcaseBrown.desc }
+    .suffix = Синдикат, Снайперский Комплект
+
+ent-BriefcaseSyndieLobbyingBundleFilled = { ent-BriefcaseSyndie }
     .desc = { ent-BriefcaseSyndie.desc }
+    .suffix = Синдикат, Спесо
 
-ent-BriefcaseSyndieLobbyingBundleFilled = коричневый чемодан
-    .suffix = Синдикат, Кредиты
+ent-BriefcaseThiefBribingBundleFilled = { ent-BriefcaseSyndie }
     .desc = { ent-BriefcaseSyndie.desc }
+    .suffix = Вор, Спесо
 
-ent-BriefcaseThiefBribingBundleFilled = коричневый чемодан
-    .suffix = Вор, Кредиты
-    .desc = { ent-BriefcaseSyndie.desc }
-
-ent-BriefcaseWeaponHushpupFilled = охранный кейс с hushpup
+ent-BriefcaseWeaponHushpupFilled = защищённый кейс «тихони»
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponC20Filled = охранный кейс с C-20r
+ent-BriefcaseWeaponC20Filled = защищённый кейс C-20r
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-BriefcaseWeaponBulldogFilled = охранный кейс с Бульдогом
+ent-BriefcaseWeaponBulldogFilled = защищённый кейс Bulldog
     .desc = { ent-BriefcaseWeapon.desc }
 
-ent-BriefcaseWeaponChinaLakeFilled = защищённый кейс с China Lake
+ent-BriefcaseWeaponChinaLakeFilled = защищённый кейс China Lake
     .desc = { ent-BriefcaseWeapon.desc }

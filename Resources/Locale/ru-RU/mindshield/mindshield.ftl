@@ -1,2 +1,2 @@
-fake-mindshield-enabled = Ваш имплант защиты разума активируется.
-fake-mindshield-disabled = Ваш имплант защиты разума деактивируется.
+fake-mindshield-enabled = Ваш имплант «щит разума» активируется.
+fake-mindshield-disabled = Ваш имплант «щит разума» деактивируется.

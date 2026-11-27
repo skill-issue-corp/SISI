@@ -1,8 +1,8 @@
-ent-ActionThankDriver = Поблагодарить водителя
-    .desc = Показать водителю, что вам нравится быть ассистентом.
+ent-ActionThankDriver = Поблагодарить Водителя
+    .desc = Покажите водителю, что вам нравится быть пассажиром
 
-ent-ActionQuietBackThere = Тише там сзади
-    .desc = Попросить ассистентов вести себя тихо.
+ent-ActionQuietBackThere = Потише там сзади
+    .desc = Попросите пассажиров вести себя потише
 
-ent-ActionDrivingWithStyle = Водить на стильке
-    .desc = Покажите всем ваши навыки езды.
+ent-ActionDrivingWithStyle = Музыкальный Автомат
+    .desc = Езжайте под музыку

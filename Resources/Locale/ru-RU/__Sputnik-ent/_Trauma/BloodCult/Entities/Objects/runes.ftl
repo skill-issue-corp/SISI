@@ -2,13 +2,13 @@ ent-BaseCultBlood = { ent-BaseBloodContraband }
     .desc = { ent-BaseBloodContraband.desc }
 
 ent-BaseCultRune = { ent-BaseCultBlood }
-    .desc = Замысловатый потусторонний узор, вырезанный и выведенный кровью. Кто знает, для чего он нужен?
+    .desc = Сложный потусторонний узор из кровавых мазков и насечек. Кто знает, для чего он нужен?
 
 ent-CultRuneUnfinishedRegular = кровавый круг
-    .desc = Большой мазок крови. Это определённо не красный мелок.
+    .desc = Большое пятно размазанной крови. Это точно не красный мелок.
 
 ent-CultRuneUnfinishedLarge = большой кровавый круг
-    .desc = Огромный круг, начертанный кровью. В нём есть что-то злое и противоестественное.
+    .desc = Огромный круг размазанной крови, явно зловещий и противоестественный.
 
 ent-CultRuneOffering = руна подношения
     .desc = { ent-BaseCultRune.desc }
@@ -19,7 +19,7 @@ ent-CultRuneEmpower = руна усиления
 ent-CultRuneTeleport = руна телепортации
     .desc = { ent-BaseCultRune.desc }
 
-ent-CultRuneRevive = руна восстановления
+ent-CultRuneRevive = руна воскрешения
     .desc = { ent-BaseCultRune.desc }
 
 ent-CultRuneBarrier = руна барьера
@@ -28,7 +28,7 @@ ent-CultRuneBarrier = руна барьера
 ent-CultRuneSummoning = руна призыва
     .desc = { ent-BaseCultRune.desc }
 
-ent-CultRuneBloodBoil = руна закипания крови
+ent-CultRuneBloodBoil = руна кипящей крови
     .desc = { ent-BaseCultRune.desc }
 
 ent-CultRuneApocalypse = руна апокалипсиса

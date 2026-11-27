@@ -1,6 +1,8 @@
-ent-FireballChain = искажённый огненный шар
-    .desc = Ой-ой.
+ent-ProjectileWaveRust = длань покровителя
+    .desc = Ядовито.
+
 ent-ProjectileStarBall = звёздный шар
     .desc = { ent-BaseBullet.desc }
-ent-ProjectileWaveRust = ржавая волна
-    .desc = Токсично.
+
+ent-BulletLionhunter = пуля (.60 охотничья)
+    .desc = { ent-BaseBullet.desc }

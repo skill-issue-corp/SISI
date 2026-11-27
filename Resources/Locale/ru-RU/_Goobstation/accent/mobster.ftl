@@ -1,2 +1,2 @@
-accent-mobster-suffix-boss-4 = , капикола.
-accent-mobster-suffix-boss-5 = , как оно ничего?
+accent-mobster-suffix-boss-4 = , габагул.
+accent-mobster-suffix-boss-5 = , как жизнь?

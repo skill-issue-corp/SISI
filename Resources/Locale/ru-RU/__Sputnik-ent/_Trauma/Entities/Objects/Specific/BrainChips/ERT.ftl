@@ -1,5 +1,5 @@
-ent-SkillChipDeathSquad = PSON-чип (перезапись Эскадрона Смерти)
+ent-SkillChipDeathSquad = Чип PSON (Перезапись Личностью Бойца Эскадрона Смерти)
     .desc = { ent-BaseSkillChipPSON.desc }
 
-ent-SkillChipERT = PSON-чип (перезапись ОБР)
+ent-SkillChipERT = Чип PSON (Перезапись Личностью Бойца ОБР)
     .desc = { ent-BaseSkillChipPSON.desc }

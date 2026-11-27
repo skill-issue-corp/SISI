@@ -1,90 +1,90 @@
 ent-BaseCurtains = шторы
-    .desc = Скрывают то, что не должны видеть другие.
+    .desc = Скрывают то, чего другим видеть не следует.
 
 ent-HospitalCurtains = { ent-BaseCurtains }
     .desc = Содержат менее 1% ртути.
     .suffix = Больничные
 
 ent-HospitalCurtainsOpen = { ent-HospitalCurtains }
-    .suffix = Открытые, Больничные
     .desc = { ent-HospitalCurtains.desc }
+    .suffix = Открыто, Больничные
 
 ent-CurtainsBlack = { ent-BaseCurtains }
-    .suffix = Красивые чёрные
     .desc = { ent-BaseCurtains.desc }
+    .suffix = Нарядные чёрные
 
 ent-CurtainsBlackOpen = { ent-CurtainsBlack }
-    .suffix = Открытые, Красивые чёрные
     .desc = { ent-CurtainsBlack.desc }
+    .suffix = Открыто, Нарядные чёрные
 
 ent-CurtainsBlue = { ent-BaseCurtains }
-    .suffix = Красивые синие
     .desc = { ent-BaseCurtains.desc }
+    .suffix = Нарядные синие
 
 ent-CurtainsSkyBlue = { ent-BaseCurtains }
     .desc = { ent-BaseCurtains.desc }
-    .suffix = Красивые небесно-синие
+    .suffix = Нарядные небесно-голубые
 
 ent-CurtainsBlueOpen = { ent-CurtainsBlue }
-    .suffix = Открытые, Красивые синие
     .desc = { ent-CurtainsBlue.desc }
+    .suffix = Открыто, Нарядные синие
 
 ent-CurtainsSkyBlueOpen = { ent-CurtainsSkyBlue }
     .desc = { ent-CurtainsSkyBlue.desc }
-    .suffix = Открытые, Красивые небесно-синие
+    .suffix = Открыто, Нарядные небесно-голубые
 
 ent-CurtainsCyan = { ent-BaseCurtains }
-    .suffix = Красивые голубые
     .desc = { ent-BaseCurtains.desc }
+    .suffix = Нарядные бирюзовые
 
 ent-CurtainsCyanOpen = { ent-CurtainsCyan }
-    .suffix = Открытые, Красивые голубые
     .desc = { ent-CurtainsCyan.desc }
+    .suffix = Открыто, Нарядные бирюзовые
 
 ent-CurtainsGreen = { ent-BaseCurtains }
-    .suffix = Красивые зелёные
     .desc = { ent-BaseCurtains.desc }
+    .suffix = Нарядные зелёные
 
 ent-CurtainsGreenOpen = { ent-CurtainsGreen }
-    .suffix = Открытые, Красивые зелёные
     .desc = { ent-CurtainsGreen.desc }
+    .suffix = Открыто, Нарядные зелёные
 
 ent-CurtainsOrange = { ent-BaseCurtains }
-    .suffix = Красивые оранжевые
     .desc = { ent-BaseCurtains.desc }
+    .suffix = Нарядные оранжевые
 
 ent-CurtainsOrangeOpen = { ent-CurtainsOrange }
-    .suffix = Открытые, Красивые оранжевые
     .desc = { ent-CurtainsOrange.desc }
+    .suffix = Открыто, Нарядные оранжевые
 
 ent-CurtainsPink = { ent-BaseCurtains }
-    .suffix = Красивые розовые
     .desc = { ent-BaseCurtains.desc }
+    .suffix = Нарядные розовые
 
 ent-CurtainsPinkOpen = { ent-CurtainsPink }
-    .suffix = Открытые, Красивые розовые
     .desc = { ent-CurtainsPink.desc }
+    .suffix = Открыто, Нарядные розовые
 
 ent-CurtainsPurple = { ent-BaseCurtains }
-    .suffix = Красивые фиолетовые
     .desc = { ent-BaseCurtains.desc }
+    .suffix = Нарядные фиолетовые
 
 ent-CurtainsPurpleOpen = { ent-CurtainsPurple }
-    .suffix = Открытые, Красивые фиолетовые
     .desc = { ent-CurtainsPurple.desc }
+    .suffix = Открыто, Нарядные фиолетовые
 
 ent-CurtainsRed = { ent-BaseCurtains }
-    .suffix = Красивые красные
     .desc = { ent-BaseCurtains.desc }
+    .suffix = Нарядные красные
 
 ent-CurtainsRedOpen = { ent-CurtainsRed }
-    .suffix = Открытые, Красивые красные
     .desc = { ent-CurtainsRed.desc }
+    .suffix = Открыто, Нарядные красные
 
 ent-CurtainsWhite = { ent-BaseCurtains }
-    .suffix = Красивые белые
     .desc = { ent-BaseCurtains.desc }
+    .suffix = Нарядные белые
 
 ent-CurtainsWhiteOpen = { ent-CurtainsWhite }
-    .suffix = Открытые, Красивые белые
     .desc = { ent-CurtainsWhite.desc }
+    .suffix = Открыто, Нарядные белые

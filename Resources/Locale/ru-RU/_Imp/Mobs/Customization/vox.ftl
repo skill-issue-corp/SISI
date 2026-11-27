@@ -1,226 +1,289 @@
 # Chest
 
-marking-ScarsVoxClawTorso = Царапина от когтя
-marking-ScarsVoxClawTorso-claw = Царапина от когтя
-marking-SpotsChest = Пятнистая грудь
+marking-ScarsVoxClawTorso = Шрам от Когтей
+marking-ScarsVoxClawTorso-claw = Шрам от Когтей
+
+marking-SpotsChest = Пятнистая Грудь
 marking-SpotsChest-spots1 = Пятна
 marking-SpotsChest-spots2 = Живот
-marking-VChest = V-образный
+
+marking-VChest = Узор «V»
 marking-VChest-v1 = Верх
-marking-VChest-v2 = Средина
+marking-VChest-v2 = Середина
 marking-VChest-v3 = Низ
+
 marking-VoxBelly = Живот
 marking-VoxBelly-belly = Живот
-marking-VoxChestPlumage = Оперение груди
-marking-VoxChestPlumage-plumage = Оперение груди
-marking-VoxScarIncision = Рубец (Разрез)
-marking-VoxScarIncision-scarincision = Рубец (Разрез)
-marking-VoxScarMangled = Рубец (Израненный)
-marking-VoxScarMangled-scarmangled = Рубец (Израненный)
-marking-VoxScarSpinal = Рубец (Позвоночный)
-marking-VoxScarSpinal-scarspinal = Рубец (Позвоночный)
-marking-VoxTailSingleStripe = Одинарная полоса на хвосте
-marking-VoxTailSingleStripe-tailsinglestripe = Одинарная полоса на хвосте
-marking-VoxTailStripes = Полосы на хвосте
-marking-VoxTailStripes-tailstripes = Полосы на хвосте
+
+marking-VoxChestPlumage = Оперение на Груди
+marking-VoxChestPlumage-plumage = Оперение на Груди
+
+marking-VoxScarIncision = Шрам (Разрез)
+marking-VoxScarIncision-scarincision = Шрам (Разрез)
+
+marking-VoxScarMangled = Шрам (Увечье)
+marking-VoxScarMangled-scarmangled = Шрам (Увечье)
+
+marking-VoxScarSpinal = Шрам (на Позвоночнике)
+marking-VoxScarSpinal-scarspinal = Шрам (на Позвоночнике)
+
+marking-VoxTailSingleStripe = Одиночная Полоса на Хвосте
+marking-VoxTailSingleStripe-tailsinglestripe = Одиночная Полоса на Хвосте
+
+marking-VoxTailStripes = Полосы на Хвосте
+marking-VoxTailStripes-tailstripes = Полосы на Хвосте
 
 # Head
 
-marking-ScarsVoxBigslashLeftHead = Большой разрез (слева)
-marking-ScarsVoxBigslashLeftHead-bigslashleft = Большой разрез (слева)
-marking-ScarsVoxBigslashRightHead = Большой разрез (справа)
-marking-ScarsVoxBigslashRightHead-roadrashright = Большой разрез (справа)
-marking-ScarsVoxRoadrashLeftHead = Ссадина (слева)
-marking-ScarsVoxRoadrashLeftHead-roadrashleft = Ссадина (слева)
-marking-ScarsVoxRoadrashRightHead = Ссадина (справа)
-marking-ScarsVoxRoadrashRightHead-roadrashright = Ссадина (справа)
-marking-ScarsVoxSlashLeftHead = Рубец (слева)
-marking-ScarsVoxSlashLeftHead-slashleft = Рубец (слева)
-marking-ScarsVoxSlashRightHead = Рубец (справа)
-marking-ScarsVoxSlashRightHead-slashright = Рубец (справа)
+marking-ScarsVoxBigslashLeftHead = Глубокий Порез (Слева)
+marking-ScarsVoxBigslashLeftHead-bigslashleft = Глубокий Порез (Слева)
+
+marking-ScarsVoxBigslashRightHead = Глубокий Порез (Справа)
+marking-ScarsVoxBigslashRightHead-roadrashright = Глубокий Порез (Справа)
+
+marking-ScarsVoxRoadrashLeftHead = Ссадины от Падения (Слева)
+marking-ScarsVoxRoadrashLeftHead-roadrashleft = Ссадины от Падения (Слева)
+
+marking-ScarsVoxRoadrashRightHead = Ссадины от Падения (Справа)
+marking-ScarsVoxRoadrashRightHead-roadrashright = Ссадины от Падения (Справа)
+
+marking-ScarsVoxSlashLeftHead = Порез (Слева)
+marking-ScarsVoxSlashLeftHead-slashleft = Порез (Слева)
+
+marking-ScarsVoxSlashRightHead = Порез (Справа)
+marking-ScarsVoxSlashRightHead-slashright = Порез (Справа)
+
 marking-VoxCheeks = Щёки
 marking-VoxCheeks-cheeks = Щёки
-marking-VoxEarhole = Барабанная перепонка
-marking-VoxEarhole-earhole = Барабанная перепонка
+
+marking-VoxEarhole = Барабанная Перепонка
+marking-VoxEarhole-earhole = Барабанная Перепонка
+
 marking-VoxHeadGradient = Градиент
-marking-VoxHeadGradient-gradient1 = Перед
-marking-VoxHeadGradient-gradient2 = Средина
-marking-VoxHeadGradient-gradient3 = Зад
-marking-VoxNeckband = Шейная повязка
-marking-VoxNeckband-neckband = Шейная повязка
-marking-VoxScarBlasted = Рубец (Обожжённый)
-marking-VoxScarBlasted-scarheadblasted = Рубец (Обожжённый)
+marking-VoxHeadGradient-gradient1 = Спереди
+marking-VoxHeadGradient-gradient2 = Середина
+marking-VoxHeadGradient-gradient3 = Сзади
+
+marking-VoxNeckband = Полоса на Шее
+marking-VoxNeckband-neckband = Полоса на Шее
+
+marking-VoxScarBlasted = Шрам (от Выстрела)
+marking-VoxScarBlasted-scarheadblasted = Шрам (от Выстрела)
 
 # Snout
 
-marking-VoxBeakColor = Клюв с цветом
-marking-VoxBeakColor-color = Клюв с цветом
-marking-VoxBeakSplit = Разделённый цвет клюва
+marking-VoxBeakColor = Окрашиваемый Клюв
+marking-VoxBeakColor-color = Окрашиваемый Клюв
+
+marking-VoxBeakSplit = Двухцветный Клюв
 marking-VoxBeakSplit-split1 = Верх
 marking-VoxBeakSplit-split2 = Низ
-marking-VoxBeakTipped = Окантовка клюва
-marking-VoxBeakTipped-tipped = Окантовка клюва
-marking-VoxBeak = Стандартный клюв
+
+marking-VoxBeakTipped = Клюв с Цветным Кончиком
+marking-VoxBeakTipped-tipped = Клюв с Цветным Кончиком
 
 # Eyes
 
 # RArm
 
-marking-SpotsArmR = Пятнистая правая рука
-marking-SpotsArmR-spots = Пятнистая правая рука
-marking-VoxArmsStripesRHand = Полосы (правая рука)
-marking-VoxArmsStripesRHand-stripes = Полосы (правая рука)
-marking-VoxRArmScales = Чешуя руки правая
+marking-SpotsArmR = Пятнистая Правая Рука
+marking-SpotsArmR-spots = Пятнистая Правая Рука
+
+marking-VoxArmsStripesRHand = Полосы (Правая Рука)
+marking-VoxArmsStripesRHand-stripes = Полосы (Правая Рука)
+
+marking-VoxRArmScales = Чешуя Правой Руки
 
 # LArm
 
-marking-SpotsArmL = Пятнистая левая рука
-marking-SpotsArmL-spots = Пятнистая левая рука
-marking-VoxArmsStripesLHand = Полосы (левая рука)
-marking-VoxArmsStripesLHand-stripes = Полосы (левая рука)
-marking-VoxLArmScales = Чешуя руки левая
+marking-SpotsArmL = Пятнистая Левая Рука
+marking-SpotsArmL-spots = Пятнистая Левая Рука
+
+marking-VoxArmsStripesLHand = Полосы (Левая Рука)
+marking-VoxArmsStripesLHand-stripes = Полосы (Левая Рука)
+
+marking-VoxLArmScales = Чешуя Левой Руки
 
 # RLeg
 
-marking-FeatheredLegR = Опёртая правая нога
-marking-FeatheredLegR-feathered = Опёртая правая нога
-marking-VoxLegGradientRLeg = Сплошной (правая нога)
-marking-VoxLegGradientRLeg-gradient = Сплошной (правая нога)
-marking-VoxLegsStripesRLeg = Полосы (правая)
-marking-VoxLegsStripesRLeg-stripes = Полосы (правая)
-marking-VoxRLegScales = Чешуя ноги правая
+marking-FeatheredLegR = Оперённая Правая Нога
+marking-FeatheredLegR-feathered = Оперённая Правая Нога
+
+marking-VoxLegGradientRLeg = Однотонная (Правая Нога)
+marking-VoxLegGradientRLeg-gradient = Однотонная (Правая Нога)
+
+marking-VoxLegsStripesRLeg = Полосы (Справа)
+marking-VoxLegsStripesRLeg-stripes = Полосы (Справа)
+
+marking-VoxRLegScales = Чешуя Правой Ноги
 
 # LLeg
 
-marking-FeatheredLegL = Опёртая левая нога
-marking-FeatheredLegL-feathered = Опёртая левая нога
-marking-VoxLegGradientLLeg = Сплошной (левая нога)
-marking-VoxLegGradientLLeg-gradient = Сплошной (левая нога)
-marking-VoxLegsStripesLLeg = Полосы (левая)
-marking-VoxLegsStripesLLeg-stripes = Полосы (левая)
-marking-VoxLLegScales = Чешуя ноги левая
+marking-FeatheredLegL = Оперённая Левая Нога
+marking-FeatheredLegL-feathered = Оперённая Левая Нога
+
+marking-VoxLegGradientLLeg = Однотонная (Левая Нога)
+marking-VoxLegGradientLLeg-gradient = Однотонная (Левая Нога)
+
+marking-VoxLegsStripesLLeg = Полосы (Слева)
+marking-VoxLegsStripesLLeg-stripes = Полосы (Слева)
+
+marking-VoxLLegScales = Чешуя Левой Ноги
 
 # LFoot
 
-marking-VoxFootGradientLFoot = Сплошной (левая ступня)
-marking-VoxFootGradientLFoot-gradient = Сплошной (левая ступня)
-marking-VoxLFootScales = Чешуя стопы левая
+marking-VoxFootGradientLFoot = Однотонная (Левая Стопа)
+marking-VoxFootGradientLFoot-gradient = Однотонная (Левая Стопа)
+
+marking-VoxLFootScales = Чешуя Левой Стопы
 
 # RFoot
 
-marking-VoxFootGradientRFoot = Сплошной (правая ступня)
-marking-VoxFootGradientRFoot-gradient = Сплошной (правая ступня)
-marking-VoxRFootScales = Чешуя стопы правая
+marking-VoxFootGradientRFoot = Однотонная (Правая Стопа)
+marking-VoxFootGradientRFoot-gradient = Однотонная (Правая Стопа)
+
+marking-VoxRFootScales = Чешуя Правой Стопы
 
 # LHand
 
-marking-VoxHandGradientLHand = Градиент (левая рука)
+marking-VoxHandGradientLHand = Градиент (Левая Кисть)
 marking-VoxHandGradientLHand-gradient1 = Низ
-marking-VoxHandGradientLHand-gradient2 = Средина
+marking-VoxHandGradientLHand-gradient2 = Середина
 marking-VoxHandGradientLHand-gradient3 = Верх
-marking-VoxLArmProsthetic = Протез (левая)
-marking-VoxLArmProsthetic-prosthetic = Протез (левая)
-marking-VoxLHandScales = Чешуя (левая)
+
+marking-VoxLArmProsthetic = Протез (Левый)
+marking-VoxLArmProsthetic-prosthetic = Протез (Левый)
+
+marking-VoxLHandScales = Чешуя Левой Кисти
 
 # RHand
 
-marking-VoxHandGradientRHand = Градиент (правая рука)
+marking-VoxHandGradientRHand = Градиент (Правая Кисть)
 marking-VoxHandGradientRHand-gradient1 = Низ
-marking-VoxHandGradientRHand-gradient2 = Средина
+marking-VoxHandGradientRHand-gradient2 = Середина
 marking-VoxHandGradientRHand-gradient3 = Верх
-marking-VoxRArmProsthetic = Протез (правая)
-marking-VoxRArmProsthetic-prosthetic = Протез (правая)
-marking-VoxRHandScales = Чешуя руки правая
+
+marking-VoxRArmProsthetic = Протез (Правый)
+marking-VoxRArmProsthetic-prosthetic = Протез (Правый)
+
+marking-VoxRHandScales = Чешуя Правой Кисти
 
 # FacialHair
 
-marking-BeardPadovana = Падована
-marking-BeardPadovana-padovana = Падована
-marking-LargeWattle = Кожистый нарост (Большой)
-marking-LargeWattle-largewattle = Кожистый нарост (Большой)
-marking-SmallWattle = Кожистый нарост (Малый)
-marking-SmallWattle-smallwattle = Кожистый нарост (Малый)
+marking-BeardPadovana = Падуанка
+marking-BeardPadovana-padovana = Падуанка
+
+marking-LargeWattle = Серёжка (Крупная)
+marking-LargeWattle-largewattle = Серёжка (Крупная)
+
+marking-SmallWattle = Серёжка (Маленькая)
+marking-SmallWattle-smallwattle = Серёжка (Маленькая)
 
 # Hair
 
-marking-HairPadovana = Падована
-marking-HairPadovana-padovana = Падована
+marking-HairPadovana = Падуанка
+marking-HairPadovana-padovana = Падуанка
+
 marking-HijabSimpleVox = Хиджаб (Простой)
 marking-HijabSimpleVox-hijabsimple = Хиджаб (Простой)
+
 marking-HijabFashionableVox = Хиджаб (Модный)
 marking-HijabFashionableVox-hijabchic = Хиджаб (Модный)
-marking-LargeComb = Гребень (Большой)
-marking-LargeComb-largecomb = Гребень (Большой)
-marking-TichelSimpleVox = Тичель (Простой)
-marking-TichelSimpleVox-tichelsimple = Тичель (Простой)
-marking-TichelFashionableVox = Тичель (Модный)
-marking-TichelFashionableVox-tichelfashionable = Тичель (Модный)
-marking-VoxBald = Лысеющий
-marking-VoxBald-balding = Лысеющий
-marking-VoxEmover = Emover
-marking-VoxEmover-hairemover = Emover
-marking-VoxPolish = Полировка
-marking-VoxPolish-hairpolish = Полировка
-marking-VoxWindswept = Разметённый ветром
-marking-VoxWindswept-hairwindswept = Разметённый ветром
+
+marking-LargeComb = Гребень (Крупный)
+marking-LargeComb-largecomb = Гребень (Крупный)
+
+marking-TichelSimpleVox = Тихель (Простой)
+marking-TichelSimpleVox-tichelsimple = Тихель (Простой)
+
+marking-TichelFashionableVox = Тихель (Модный)
+marking-TichelFashionableVox-tichelfashionable = Тихель (Модный)
+
+marking-VoxBald = Залысины
+marking-VoxBald-balding = Залысины
+
+marking-VoxEmover = Эмочёска
+marking-VoxEmover-hairemover = Эмочёска
+
+marking-VoxPolish = Польский Хохолок
+marking-VoxPolish-hairpolish = Польский Хохолок
+
+marking-VoxWindswept = Растрёпанные Ветром
+marking-VoxWindswept-hairwindswept = Растрёпанные Ветром
 
 # HeadSide
 
-marking-SideQuills = Щетинки
+marking-SideQuills = Иглы
 marking-SideQuills-quills1 = Верх и низ
-marking-SideQuills-quills2 = Средний верх
-marking-SideQuills-quills3 = Средний низ
+marking-SideQuills-quills2 = Середина сверху
+marking-SideQuills-quills3 = Середина снизу
+
 marking-VoxStreamers = Ленты
-marking-VoxStreamers-streamers1 = Щетинка
-marking-VoxStreamers-streamers2 = Пламя
+marking-VoxStreamers-streamers1 = Игла
+marking-VoxStreamers-streamers2 = Трубка
 marking-VoxStreamers-streamers3 = Глаз
 
 # HeadTop
 
 # Tail
 
-marking-FriendsOfAFeather = Перо друга
+marking-FriendsOfAFeather = Перо Друга
 marking-FriendsOfAFeather-friendsfeather1 = Перо
 marking-FriendsOfAFeather-friendsfeather2 = Перо
-marking-SpotsTail = Пятнистый хвост
-marking-SpotsTail-spots = Пятнистый хвост
+
+marking-SpotsTail = Пятнистый Хвост
+marking-SpotsTail-spots= Пятнистый Хвост
+
 marking-TailBloom = Цветение
 marking-TailBloom-bloom1 = Цветок
 marking-TailBloom-bloom2 = Цветок
 marking-TailBloom-bloom3 = Куст
-marking-VoxChains = Цепи
-marking-VoxChains-chains = Цепи
+
+marking-VoxChains = Цепочки
+marking-VoxChains-chains = Цепочки
+
 marking-VoxCocktail = Коктейль
 marking-VoxCocktail-cocktail1 = Перья
 marking-VoxCocktail-cocktail2 = Перья
 marking-VoxCocktail-cocktail3 = Перья
 marking-VoxCocktail-cocktail4 = Хвост
-marking-VoxFootSpines = Шипы на ногах
-marking-VoxFootSpines-footspines = Шипы на ногах
-marking-VoxTailBack = Задний хвост
-marking-VoxBackTail-colorable = Задний хвост
-marking-VoxTailBalled = Thrasher
-marking-VoxTailBalled-balled = Thrasher
-marking-VoxTailBell = Колокольчик
-marking-VoxTailBell-bell1 = Колокольчик
-marking-VoxTailBell-bell2 = Задний хвост
+
+marking-VoxFootSpines = Шипы на Ногах
+marking-VoxFootSpines-footspines = Шипы на Ногах
+
+marking-VoxTailBack = Хвост на Спине
+marking-VoxBackTail-colorable = Хвост на Спине
+
+marking-VoxTailBalled = Хвост-Молотилка
+marking-VoxTailBalled-balled = Хвост-Молотилка
+
+marking-VoxTailBell = Колокол
+marking-VoxTailBell-bell1 = Колокол
+marking-VoxTailBell-bell2 = Хвост на Спине
+
 marking-VoxTailLantern = Фонарь
 marking-VoxTailLantern-lantern = Фонарь
-marking-VoxTailNub = Пупок
+
+marking-VoxTailNub = Культя
 marking-VoxTailNub-nub1 = Хвост
-marking-VoxTailNub-nub2 = Рубец
-marking-VoxTailRaptor = Хищник
+marking-VoxTailNub-nub2 = Шрам
+
+marking-VoxTailRaptor = Раптор
 marking-VoxTailRaptor-raptor = Хвост
-marking-VoxTailShort1 = Короткий (Вниз)
+
+marking-VoxTailShort1 = Короткий Вниз
 marking-VoxTailShort1-short = Хвост
-marking-VoxTailShort-short = Хвост
-marking-VoxTailShort2 = Короткий (Вверх)
+
+marking-VoxTailShort2 = Короткий Вверх
 marking-VoxTailShort2-short2 = Хвост
-marking-VoxTailSmallPlume = Малое перо
-marking-VoxTailSmallPlume-smallplume = Малое перо
-marking-VoxTailSpines = Шипы на хвосте
-marking-VoxTailSpines-spines = Шипы на хвосте
-marking-VoxTailSplit = Раздвоенный
-marking-VoxTailSplit-split = Раздвоенный
+
+marking-VoxTailSmallPlume = Маленький Плюмаж
+marking-VoxTailSmallPlume-smallplume = Маленький Плюмаж
+
+marking-VoxTailSpines = Шипы на Хвосте
+marking-VoxTailSpines-spines = Шипы на Хвосте
+
 marking-VoxSunAndMoon = Солнце и Луна
 marking-VoxSunAndMoon-sunandmoon = Солнце и Луна
+
+# RArmExtension

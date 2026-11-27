@@ -1,42 +1,43 @@
 ent-MaterialWatcherWing = крыло наблюдателя
-    .desc = Они прочные и при этом легко соединяются друг с другом, что делает их отличным материалом для создания новых инструментов.
-ent-MaterialWatcherWing1 = { ent-MaterialWatcherWing }
-    .suffix = 1
-    .desc = { ent-MaterialWatcherWing.desc }
-ent-MaterialWatcherWing5 = { ent-MaterialWatcherWing }
-    .suffix = 5
-    .desc = { ent-MaterialWatcherWing.desc }
-ent-MaterialWatcherMagmaWing = крыло магматического наблюдателя
-    .desc = Крыло с протекающей внутри магмой. Они прочные и при этом легко сливаются друг с другом, что делает их отличным материалом для создания новых инструментов.
-ent-MaterialWatcherMagmaWing1 = { ent-MaterialWatcherMagmaWing }
-    .suffix = 1
-    .desc = { ent-MaterialWatcherMagmaWing.desc }
-ent-MaterialWatcherMagmaWing5 = { ent-MaterialWatcherMagmaWing }
-    .suffix = 5
-    .desc = { ent-MaterialWatcherMagmaWing.desc }
-ent-MaterialWatcherIceWing = крыло ледяного наблюдателя
-    .desc = Крыло изо льда, которое каким-то образом отказывается таять. Они прочные и при этом легко сливаются друг с другом, что делает их отличным материалом для создания новых инструментов.
-ent-MaterialWatcherIceWing1 = { ent-MaterialWatcherIceWing }
-    .suffix = 1
-    .desc = { ent-MaterialWatcherIceWing.desc }
-ent-MaterialWatcherIceWing5 = { ent-MaterialWatcherIceWing }
-    .suffix = 5
-    .desc = { ent-MaterialWatcherIceWing.desc }
-ent-MaterialLegionSkull = череп легиона
-    .desc = Серый деформированный череп давно исчезнувшего гуманоидного существа. На мгновение вам показалось, что он смотрит прямо вам в душу.
-ent-MaterialLegionSkull1 = { ent-MaterialLegionSkull }
-    .suffix = 1
-    .desc = { ent-MaterialLegionSkull.desc }
-ent-MaterialLegionSkull5 = { ent-MaterialLegionSkull }
-    .suffix = 5
-    .desc = { ent-MaterialLegionSkull.desc }
+    .desc = Крылья прочны, но легко срастаются друг с другом. Отличный материал для новых инструментов.
 
-ent-MaterialAshwoodPlank = доска пепельного дерева
-    .suffix = 30
-    .desc = Сырой материал
-ent-MaterialAshwoodPlank1 = { ent-MaterialAshwoodPlank }
+ent-MaterialWatcherWing1 = { ent-MaterialWatcherWing }
+    .desc = { ent-MaterialWatcherWing.desc }
     .suffix = 1
-    .desc = { ent-MaterialAshwoodPlank.desc }
-ent-MaterialAshwoodPlank10 = { ent-MaterialAshwoodPlank }
-    .suffix = 10
-    .desc = { ent-MaterialAshwoodPlank.desc }
+
+ent-MaterialWatcherWing5 = { ent-MaterialWatcherWing }
+    .desc = { ent-MaterialWatcherWing.desc }
+    .suffix = 5
+
+ent-MaterialWatcherMagmaWing = магмовое крыло наблюдателя
+    .desc = Крыло, внутри которого течёт магма. Крылья прочны, но легко срастаются друг с другом. Отличный материал для новых инструментов.
+
+ent-MaterialWatcherMagmaWing1 = { ent-MaterialWatcherMagmaWing }
+    .desc = { ent-MaterialWatcherMagmaWing.desc }
+    .suffix = 1
+
+ent-MaterialWatcherMagmaWing5 = { ent-MaterialWatcherMagmaWing }
+    .desc = { ent-MaterialWatcherMagmaWing.desc }
+    .suffix = 5
+
+ent-MaterialWatcherIceWing = ледяное крыло наблюдателя
+    .desc = Крыло сделано изо льда, но почему-то не тает. Крылья прочны, но легко срастаются друг с другом. Отличный материал для новых инструментов.
+
+ent-MaterialWatcherIceWing1 = { ent-MaterialWatcherIceWing }
+    .desc = { ent-MaterialWatcherIceWing.desc }
+    .suffix = 1
+
+ent-MaterialWatcherIceWing5 = { ent-MaterialWatcherIceWing }
+    .desc = { ent-MaterialWatcherIceWing.desc }
+    .suffix = 5
+
+ent-MaterialLegionSkull = череп легиона
+    .desc = Серый деформированный череп давно погибшего гуманоида. На мгновение вам показалось, что он заглянул вам прямо в душу.
+
+ent-MaterialLegionSkull1 = { ent-MaterialLegionSkull }
+    .desc = { ent-MaterialLegionSkull.desc }
+    .suffix = 1
+
+ent-MaterialLegionSkull5 = { ent-MaterialLegionSkull }
+    .desc = { ent-MaterialLegionSkull.desc }
+    .suffix = 5

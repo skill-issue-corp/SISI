@@ -4,9 +4,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-damage-group-brute = Механические
-damage-group-burn = Физические
-damage-group-airloss = Нехватка воздуха
+damage-group-brute = Механические Травмы
+damage-group-burn = Ожоги
+damage-group-airloss = Нехватка Воздуха
 damage-group-toxin = Токсины
-damage-group-genetic = Генетические
-damage-group-metaphysical = Метафизические
+damage-group-genetic = Генетический
+damage-group-metaphysical = Метафизический

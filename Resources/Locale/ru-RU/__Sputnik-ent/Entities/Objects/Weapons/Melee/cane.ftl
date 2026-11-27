@@ -1,13 +1,13 @@
 ent-Cane = трость
-    .desc = Деревянная трость.
+    .desc = Обычная деревянная трость. Помогает людям с инвалидностью легче передвигаться.
 
-ent-CaneBlade = трость с клинком
-    .desc = Острый клинок с рукоятью в виде трости.
+ent-CaneBlade = трость-клинок
+    .desc = Острый клинок с рукоятью в форме трости. Один книголюб наделил его силой огня.
 
 ent-CaneSheath = { ent-Cane }
-    .suffix = Пустой
     .desc = { ent-Cane.desc }
+    .suffix = Пусто
 
 ent-CaneSheathFilled = { ent-CaneSheath }
-    .suffix = Полный
     .desc = { ent-CaneSheath.desc }
+    .suffix = Заполнено

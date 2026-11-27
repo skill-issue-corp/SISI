@@ -1,33 +1,43 @@
 # Chest
 
-marking-bubble = Пузыри
-marking-bubble-bubble = Пузыри
+marking-bubble = Пузырьки
+marking-bubble-bubble = Пузырьки
+
 marking-fishbowl = Аквариум
-marking-fishbowl-fishbowl1 = Рыба
-marking-fishbowl-fishbowl2 = Рыбные пузыри
-marking-SlimeBonechest = Плавающая грудная клетка
-marking-SlimeBonechest-bone = Плавающая грудная клетка
+marking-fishbowl-fishbowl1 = Рыбка
+marking-fishbowl-fishbowl2 = Рыбьи пузырьки
+
+marking-SlimeBonechest = Плавающая Грудная Клетка
+marking-SlimeBonechest-bone = Плавающая Грудная Клетка
+
 marking-SlimeCore = Ядро
 marking-SlimeCore-core = Ядро
-marking-SlimeCoreGlowing = Ядро (светящееся)
-marking-SlimeCoreGlowing-core = Ядро (светящееся)
+
+marking-SlimeCoreGlowing = Ядро (Светящееся)
+marking-SlimeCoreGlowing-core = Ядро (Светящееся)
+
 marking-SlimeLungs = Лёгкие
 marking-SlimeLungs-lungs = Лёгкие
 
 # Head
 
-marking-FadingStars = Исчезающий свет звёзд
-marking-FadingStars-fadingstars1 = Самый яркий
+marking-FadingStars = Угасающий Звёздный Свет
+marking-FadingStars-fadingstars1 = Самый Яркий
 marking-FadingStars-fadingstars2 = Средний
-marking-FadingStars-fadingstars3 = Самый тёмный
+marking-FadingStars-fadingstars3 = Самый Тёмный
+
 marking-fizz = Шипение
 marking-fizz-fizz = Шипение
-marking-SlimeBonehead = Плавающий череп
-marking-SlimeBonehead-bone = Плавающий череп
-marking-SlimeNose = Нос (профиль)
-marking-SlimeNose-nose = Нос (профиль)
+
+marking-SlimeBonehead = Плавающий Череп
+marking-SlimeBonehead-bone = Плавающий Череп
+
+marking-SlimeNose = Нос (Профиль)
+marking-SlimeNose-nose = Нос (Профиль)
+
 marking-SlimeMouth = Рот
 marking-SlimeMouth-mouth = Рот
+
 marking-SlimeBrain = Мозг
 marking-SlimeBrain-brain = Мозг
 
@@ -36,37 +46,42 @@ marking-SlimeBrain-brain = Мозг
 # Eyes
 
 marking-SlimeEyesDefault = Глаза
-marking-SlimeEyesDefault-eyes = Глаза (по умолчанию)
-marking-SlimeEyeglow = Светящиеся глаза
-marking-SlimeEyeglow-glow = Светящиеся глаза
-marking-SlimeEyesDroopy = Опущенные глаза
-marking-SlimeEyesDroopy-droopy = Опущенные глаза
-marking-SlimeEyesDroopyGlowing = Опущенные светящиеся глаза
-marking-SlimeEyesDroopyGlowing-droopyglow = Опущенные светящиеся глаза
-marking-SlimeEyesCyclops = Циклоп глаз
-marking-SlimeEyesCyclops-cyclops = Циклоп глаз
-marking-SlimeEyesCyclopsGlowing = Светящийся глаз циклопа
-marking-SlimeEyesCyclopsGlowing-cyclopsglow = Светящийся глаз циклопа
+marking-SlimeEyesDefault-eyes = Глаза (Обычные)
+
+marking-SlimeEyeglow = Светящиеся Глаза
+marking-SlimeEyeglow-glow = Светящиеся Глаза
+
+marking-SlimeEyesDroopy = Опущенные Глаза
+marking-SlimeEyesDroopy-droopy = Опущенные Глаза
+
+marking-SlimeEyesDroopyGlowing = Опущенные Светящиеся Глаза
+marking-SlimeEyesDroopyGlowing-droopyglow = Опущенные Светящиеся Глаза
+
+marking-SlimeEyesCyclops = Глаз Циклопа
+marking-SlimeEyesCyclops-cyclops = Глаз Циклопа
+
+marking-SlimeEyesCyclopsGlowing = Светящийся Глаз Циклопа
+marking-SlimeEyesCyclopsGlowing-cyclopsglow = Светящийся Глаз Циклопа
 
 # RArm
 
-marking-SlimeBonearmright = Плавающие кости (правая рука)
-marking-SlimeBonearmright-bone = Плавающие кости (правая рука)
+marking-SlimeBonearmright = Плавающие Кости (Правая Рука)
+marking-SlimeBonearmright-bone = Плавающие Кости (Правая Рука)
 
 # LArm
 
-marking-SlimeBonearmleft = Плавающие кости (левая рука)
-marking-SlimeBonearmleft-bone = Плавающие кости (левая рука)
+marking-SlimeBonearmleft = Плавающие Кости (Левая Рука)
+marking-SlimeBonearmleft-bone = Плавающие Кости (Левая Рука)
 
 # RLeg
 
-marking-SlimeBonelegright = Плавающие кости (правая нога)
-marking-SlimeBonelegright-bone = Плавающие кости (правая нога)
+marking-SlimeBonelegright = Плавающие Кости (Правая Нога)
+marking-SlimeBonelegright-bone = Плавающие Кости (Правая Нога)
 
 # LLeg
 
-marking-SlimeBonelegleft = Плавающие кости (левая нога)
-marking-SlimeBonelegleft-bone = Плавающие кости (левая нога)
+marking-SlimeBonelegleft = Плавающие Кости (Левая Нога)
+marking-SlimeBonelegleft-bone = Плавающие Кости (Левая Нога)
 
 # UndergarmentBottom
 
@@ -74,23 +89,23 @@ marking-SlimeBonelegleft-bone = Плавающие кости (левая ног
 
 # LFoot
 
-marking-SlimeBonefootleft = Плавающие кости (левая ступня)
-marking-SlimeBonefootleft-bone = Плавающие кости (левая ступня)
+marking-SlimeBonefootleft = Плавающие Кости (Левая Стопа)
+marking-SlimeBonefootleft-bone = Плавающие Кости (Левая Стопа)
 
 # RFoot
 
-marking-SlimeBonefootright = Плавающие кости (правая ступня)
-marking-SlimeBonefootright-bone = Плавающие кости (правая ступня)
+marking-SlimeBonefootright = Плавающие Кости (Правая Стопа)
+marking-SlimeBonefootright-bone = Плавающие Кости (Правая Стопа)
 
 # LHand
 
-marking-SlimeBonehandleft = Плавающие кости (левая рука)
-marking-SlimeBonehandleft-bone = Плавающие кости (левая рука)
+marking-SlimeBonehandleft = Плавающие Кости (Левая Кисть)
+marking-SlimeBonehandleft-bone = Плавающие Кости (Левая Кисть)
 
 # RHand
 
-marking-SlimeBonehandright = Плавающие кости (правая рука)
-marking-SlimeBonehandright-bone = Плавающие кости (правая рука)
+marking-SlimeBonehandright = Плавающие Кости (Правая Кисть)
+marking-SlimeBonehandright-bone = Плавающие Кости (Правая Кисть)
 
 # FacialHair
 
@@ -103,4 +118,3 @@ marking-SlimeBonehandright-bone = Плавающие кости (правая р
 # Tail
 
 # RArmExtension
-

@@ -1,5 +1,5 @@
-ent-ActionViewLaws = Просмотреть законы
-    .desc = Просмотреть законы, которым вы должны следовать.
+ent-ActionViewLaws = Посмотреть Законы
+    .desc = Посмотрите законы, которым вы обязаны следовать.
 
-ent-ActionSelectBorgType = Выбрать тип борга
-    .desc = { "" }
+ent-ActionSelectBorgType = Выбрать Тип Киборга
+    .desc = { ent-BaseAction.desc }

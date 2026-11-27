@@ -1,14 +1,22 @@
+# SPDX-FileCopyrightText: 2023 brainfood1183 <113240905+brainfood1183@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Tayrtahn <tayrtahn@gmail.com>
+# SPDX-FileCopyrightText: 2024 Ubaser <134914314+UbaserB@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 advertisement-happyhonk-1 = Хонк! Хонк! Почему бы сегодня не заказать обед Хэппи Хонк?
-advertisement-happyhonk-2 = Клоуны заслуживают обнимашек, если вы увидите одного из них — обязательно выразите свою признательность.
-advertisement-happyhonk-3 = Если вы найдёте золотой хонкер, то помолитесь богам — вы счастливчик.
-advertisement-happyhonk-4 = Хэппи Хонк обед, оценит даже главмед, заглянув к нам на пирушку не забудь забрать игрушку.
-advertisement-happyhonk-5 = Что такое чёрно-белое и красное? Мим, и она скончалась от удара тупым предметом по голове.
-advertisement-happyhonk-6 = Сколько офицеров службы безопасности требуется чтобы арестовать вас? Трое: один чтобы избить вас до смерти, один чтобы надеть на вас наручники, и один чтобы оттащить ваше тело в техтоннель.
-advertisement-happyhonk-7 = Хэппи Хонк не несёт ответственности за качество продуктов, помещённых в наши коробки для обедов Хэппи Хонк.
-advertisement-happyhonk-8 = Почему бы не заказать нашу лимитированную серию обеда Мим Хэппи Хонк?
-advertisement-happyhonk-9 = Хэппи Хонк является зарегистрированной торговой маркой "Honk! co.", и мы гораздо круче чем "Robust Nukie Food corp.".
-advertisement-happyhonk-10 = Наши обеды Хэппи Хонк непременно преподнесут вам отличный сюрприз!
+advertisement-happyhonk-2 = Клоуны заслуживают объятий. Увидите клоуна - не забудьте показать, что цените его.
+advertisement-happyhonk-3 = Найдёте Золотую Гуделку - молитесь богам, вам несказанно повезло.
+advertisement-happyhonk-4 = Хэппи Хонк: обед на славу, цена на радость, игрушка из пластика - взвизгнете от счастья.
+advertisement-happyhonk-5 = Что чёрно-белое и всё в красном? Мим. Она умерла от тупой травмы головы.
+advertisement-happyhonk-6 = Сколько офицеров службы безопасности надо, чтобы арестовать вас? Трое: один забьёт до смерти, второй наденет наручники, третий сбросит тело в техтоннели.
+advertisement-happyhonk-7 = Хэппи Хонк не отвечает за качество еды в наших коробках с обедами Хэппи Хонк.
+advertisement-happyhonk-8 = Почему бы вам не попросить лимитированный Мимский Обед Хэппи Хонк?
+advertisement-happyhonk-9 = Хэппи Хонк - торговая марка компании Хонк! и намного лучше продукции корпорации Робастная Еда для Ядерщиков.
+advertisement-happyhonk-10 = В наших обедах Хэппи Хонк вас обязательно ждёт отличный сюрприз!
 thankyou-happyhonk-1 = Хонк!
-thankyou-happyhonk-2 = Хонк хонк!
+thankyou-happyhonk-2 = Хонк-хонк!
 thankyou-happyhonk-3 = Поделитесь весельем! Хонк!
-thankyou-happyhonk-4 = Идите и подскользните кого-нибудь! Хонк!
+thankyou-happyhonk-4 = Пусть все поскользнутся! Хонк!

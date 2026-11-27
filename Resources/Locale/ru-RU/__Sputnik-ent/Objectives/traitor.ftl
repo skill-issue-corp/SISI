@@ -7,26 +7,26 @@ ent-BaseTraitorSocialObjective = { ent-BaseTraitorObjective }
 ent-BaseTraitorStealObjective = { ent-BaseTraitorObjective }
     .desc = { ent-BaseTraitorObjective.desc }
 
-ent-EscapeShuttleObjective = Улететь на ЦК живым и свободным.
-    .desc = Один из наших агентов под прикрытием допросит вас по прибытии. Не дайте себя арестовать.
+ent-EscapeShuttleObjective = Добраться до ЦК на эвакуационном шаттле живым и без пут.
+    .desc = По прибытии один из наших агентов под прикрытием расспросит вас о задании. Только не являйтесь в наручниках.
 
-ent-DieObjective = Умереть славной смертью.
+ent-DieObjective = Умереть славной смертью
     .desc = Умрите.
 
-ent-HijackShuttleObjective = Завладейте эвакуационным шаттлом
-    .desc = Улетите на шаттле свободным и без лояльного экипажа NanoTrasen на борту. Используйте ЛЮБЫЕ доступные вам методы. Агенты Синдиката, враги NanoTrasen и заложники в наручниках могут оставаться на шаттле живыми. Игнорируйте помощь от кого-либо, кроме агента поддержки.
+ent-HijackShuttleObjective = Захватить эвакуационный шаттл
+    .desc = Улетите на шаттле, избавившись от всех верных NanoTrasen членов экипажа на борту. Используйте ЛЮБЫЕ доступные вам методы. Агенты Синдиката, враги NanoTrasen и заложники в наручниках могут остаться в живых на шаттле. Принимайте помощь только от агента поддержки.
 
 ent-KillRandomPersonObjective = { ent-BaseTraitorObjective }
-    .desc = Сделайте это, как посчитаете нужным. Только убедитесь, что цель не улетит на Центральное Командование.
+    .desc = Действуйте как угодно, лишь бы цель не покинула станцию.
 
 ent-KillRandomHeadObjective = { ent-BaseTraitorObjective }
-    .desc = Нам нужно, чтобы этот глава исчез, и вы, вероятно, знаете, почему. Удачи, агент.
+    .desc = Нам нужно избавиться от этого главы, и вы наверняка знаете почему. Не дайте цели добраться до ЦК даже мёртвой. Удачи, агент.
 
 ent-KillStationAiObjective = { ent-BaseTraitorObjective }
-    .desc = NanoTrasen с гордостью хвастается своим передовым искусственным интеллектом. Напомните им, что это всего лишь ещё одна игрушка, которую можно сломать.
+    .desc = NanoTrasen гордится своим передовым искусственным интеллектом. Напомните им, что это всего лишь очередная игрушка, которую можно сломать.
 
 ent-RandomTraitorProgressObjective = { ent-BaseTraitorSocialObjective }
-    .desc = Раскрывайте себя на свой страх и риск. Нам просто нужно, чтобы у них всё получилось.
+    .desc = Раскрывайте свою личность на свой страх и риск. Нам важно лишь, чтобы другой агент справился.
 
 ent-BaseCMOStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }
@@ -74,10 +74,10 @@ ent-NukeDiskStealObjective = { ent-BaseCaptainObjective }
     .desc = { ent-BaseCaptainObjective.desc }
 
 ent-SupercritAnomaliesObjective = { ent-BaseTraitorObjective }
-    .desc = NanoTrasen очень интересуют аномалии с потенциально катастрофическими последствиями. Познакомьте их с огнём, с которым они играют.
+    .desc = NanoTrasen очень интересуют аномалии с потенциально катастрофическими последствиями. Дайте им почувствовать жар огня, с которым они играют.
 
-ent-HijackTradeStationObjective = Захватите автоматизированную торговую станцию.
-    .desc = Ваш аплинк авторизован на один маяк захвата. Установите его на автоматизированной торговой станции и защищайте, пока он захватывает станцию.
+ent-HijackTradeStationObjective = Захватить Автоматическую Торговую Станцию.
+    .desc = Ваш аплинк получил разрешение на один маяк захвата. Разверните его на Автоматической Торговой Станции и защищайте, пока он её захватывает.
 
 ent-MailFraudObjective = { ent-BaseTraitorObjective }
     .desc = Нас интересует переписка NanoTrasen. Нож для вскрытия писем не прилагается.

@@ -9,7 +9,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-zombie-transform = {CAPITALIZE($target)} превратился в зомби!
+zombie-transform = {CAPITALIZE($target)} превращается в зомби!
 
 # SIS-Start
 zombie-role-greeting =
@@ -25,11 +25,11 @@ zombie-role-greeting-desc =
 
 zombie-generic = зомби
 zombie-name-prefix = зомбированный {$baseName}
-zombie-role-desc = Злобное порождение мертвых.
-zombie-role-rules = Вы - [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Выискивайте живых и кусайте их, чтобы заразить и превратить в зомби. Работайте вместе с другими зомби и оставшимися нулевыми заражёнными, чтобы захватить станцию.
+zombie-role-desc =  Злобное существо из мира мёртвых.
+zombie-role-rules = Ваша роль — [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Ищите живых и кусайте их, чтобы заразить и превратить в зомби. Объединитесь с другими зомби и оставшимися нулевыми пациентами, чтобы захватить станцию.
 
-zombie-permadeath = На этот раз вы мертвы по-настоящему.
+zombie-permadeath = На этот раз вы действительно мертвы.
 
-zombification-resistance-coefficient-value = - Шанс [color=violet]заражения[/color] снижен на [color=lightblue]{$value}%[/color].
+zombification-resistance-coefficient-value = - Вероятность [color=violet]Заражения[/color] снижена на [color=lightblue]{$value}%[/color].
 
-zombie-roleban-ghosted = Вы были отправлены в наблюдатели, поскольку у вас есть бан на роль зомби.
+zombie-roleban-ghosted = Вы стали призраком, потому что вам запрещено играть в роли Зомби.

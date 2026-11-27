@@ -6,4 +6,4 @@ flavor-complex-blood = как кровь
 
 flavor-complex-apotheosis = как апофеоз
 
-flavor-complex-rich = насыщенное
+flavor-complex-rich = насыщенный

@@ -1,2 +1,2 @@
-ent-FleshBlocker = комок плоти
-    .desc = Раздражающий комок плоти.
+ent-FleshBlocker = ком плоти
+    .desc = Надоедливый ком плоти.

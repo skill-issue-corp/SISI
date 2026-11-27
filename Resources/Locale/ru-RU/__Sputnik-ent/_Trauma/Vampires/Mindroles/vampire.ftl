@@ -1,4 +1,5 @@
-ent-MindRoleVampire = Роль вампира
+ent-MindRoleVampire = Роль Вампира
     .desc = { ent-BaseMindRoleAntag.desc }
-ent-MindRoleVampireThrall = Роль раба вампира
+
+ent-MindRoleVampireThrall = Роль Тралла Вампира
     .desc = { ent-BaseMindRoleAntag.desc }

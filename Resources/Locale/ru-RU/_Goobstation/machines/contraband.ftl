@@ -4,8 +4,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-signal-port-name-contraband-detected = Обнаружение контрабанды
-signal-port-description-contraband-detected = Передаёт сигнал при обнаружении контрабандных предметов сканером.
-contraband-detector-popup-detected = Обнаружена контрабанда
+signal-port-name-contraband-detected = Обнаружение Контрабанды
+signal-port-description-contraband-detected = Передаёт сигнал, когда сканер обнаруживает контрабанду.
+contraband-detector-popup-detected = Обнаружена Контрабанда
+
 contraband-detector-construction-name = детектор контрабанды
-contraband-detector-construction-desc = Устройство безопасности, сканирующее на наличие контрабандных предметов.
+contraband-detector-construction-desc = Устройство службы безопасности, обнаруживающее контрабанду.

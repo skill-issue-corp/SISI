@@ -1,8 +1,11 @@
-ent-FoodBagelBase = { ent-FoodInjectableBase }
-    .desc = Вкуснейший бублик.
-ent-FoodBagel = бублик
+ent-FoodBagelBase = { ent-SolutionVeryTiny }
+    .desc = Вкусный бейгл.
+
+ent-FoodBagel = бейгл
     .desc = { ent-FoodBagelBase.desc }
-ent-FoodBagelPoppy = бублик с маком
-    .desc = Вкуснейший бублик с маковыми семечками, содержащими бикаридин.
-ent-FoodBagelCotton = хлопковый бублик
-    .desc = Вкуснейший бублик из хлопкового теста.
+
+ent-FoodBagelPoppy = бейгл с маком
+    .desc = Вкусный бейгл с маком, пропитанным бикаридином.
+
+ent-FoodBagelCotton = хлопковый бейгл
+    .desc = Вкусный бейгл из хлопкового теста.

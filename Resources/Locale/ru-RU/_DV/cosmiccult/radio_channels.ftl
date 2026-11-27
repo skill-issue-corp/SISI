@@ -1,1 +1,1 @@
-chat-radio-cosmiccult = Астральный шёпот
+chat-radio-cosmiccult = Астральный Шёпот

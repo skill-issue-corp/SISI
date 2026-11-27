@@ -1,9 +1,9 @@
-ent-ClothingBackpackXenoBioTank = ксено-контейнер
-    .desc = Содержит ксенофауну. Также оснащён вакуумной насадкой сбоку. Почувствуй себя слайм рэнчером!
+ent-ClothingBackpackXenoBioTank = резервуар ксенопылесоса
+    .desc = Вмещает ксенофауну. Сбоку есть всасывающая насадка. Прямо как в slime rancher.
 
 ent-ClothingBackpackXenoBioTankFilled = { ent-ClothingBackpackXenoBioTank }
     .desc = { ent-ClothingBackpackXenoBioTank.desc }
-    .suffix = Заполнен
+    .suffix = Заполнено
 
-ent-WeaponXenoVacNozzle = слаймопушка
-    .desc = Мощная вакуумная насадка, используемая вместе с ксено-контейнером для хранения слаймов.
+ent-WeaponXenoVacNozzle = насадка ксенопылесоса
+    .desc = Мощная всасывающая насадка, которая загоняет слаймов в резервуар за спиной.

@@ -1,2 +1,2 @@
-ent-WraithMidround = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
+ent-WraithMidround = { ent-BaseAntagGhostRoleRule }
+    .desc = { ent-BaseAntagGhostRoleRule.desc }

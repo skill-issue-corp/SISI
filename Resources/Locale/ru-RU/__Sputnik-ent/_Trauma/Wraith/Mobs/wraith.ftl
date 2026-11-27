@@ -1,2 +1,2 @@
-ent-MobWraithMidround = Призрак
-    .desc = Немного жутковатый призрак.
+ent-MobWraithMidround = Фантом
+    .desc = Ну ТИПА жутенькое привиденьице.

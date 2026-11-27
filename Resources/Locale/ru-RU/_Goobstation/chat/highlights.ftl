@@ -1,2 +1,2 @@
 #Central Command
-highlights-nanotrasen-representative = Nanotrasen Representative, "Central Command", "NTR", "NT", "CC", Bridge, "Command"
+highlights-nanotrasen-representative = Представитель NanoTrasen, "Центральное Командование", "ПНТ", "NT", "ЦК", Мостик, "Командование"

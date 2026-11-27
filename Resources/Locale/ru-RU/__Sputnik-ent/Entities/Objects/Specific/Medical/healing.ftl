@@ -2,157 +2,156 @@ ent-BaseHealingItem = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
 ent-Ointment = мазь
-    .desc = Используется для лечения этих неприятных ожогов. Менее эффективна при кислотных ожогах.
-    .suffix = Полный
+    .desc = Помогает при мерзких ожогах. При химических ожогах менее эффективна.
+    .suffix = Полностью заполнено
 
 ent-Ointment1 = { ent-Ointment }
     .desc = { ent-Ointment.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
-ent-RegenerativeMesh = регенеративная сеть
-    .desc = Применяется для лечения даже самых неприятных ожогов. Эффективна также при кислотных ожогах.
-    .suffix = Полный
+ent-RegenerativeMesh = регенерирующая сетка
+    .desc = Помогает даже при самых мерзких ожогах. Эффективна и при химических ожогах.
+    .suffix = Полностью заполнено
 
 ent-OintmentAdvanced1 = { ent-RegenerativeMesh }
     .desc = { ent-RegenerativeMesh.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
-ent-Brutepack = набор для ушибов
-    .desc = Терапевтический набор гелей и пластырей, предназначенных для лечения ушибов.
-    .suffix = Полный
+ent-Brutepack = набор от ушибов
+    .desc = Пакет с лечебным гелем и бинты для лечения тупых травм.
+    .suffix = Полностью заполнено
 
 ent-Brutepack1 = { ent-Brutepack }
     .desc = { ent-Brutepack.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
-ent-MedicatedSuture = медицинская нить
-    .desc = Нить, пропитанная лекарством, эффективно лечит механические травмы и закрывает раны.
-    .suffix = Полный
+ent-MedicatedSuture = лечебная нить
+    .desc = Пропитанная лекарством шовная нить. Эффективно лечит тупые травмы и закрывает раны.
+    .suffix = Полностью заполнено
 
 ent-BrutepackAdvanced1 = { ent-MedicatedSuture }
     .desc = { ent-MedicatedSuture.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
 ent-Bloodpack = пакет крови
-    .desc = { ent-Bloodpack.desc }
-    .suffix = Полный
-    .desc = { ent-Bloodpack.desc }
+    .desc = Содержит передовой универсальный заменитель крови, разработанный медицинскими специалистами NanoTrasen.
+    .suffix = Полностью заполнено
 
 ent-Bloodpack1 = { ent-Bloodpack }
     .desc = { ent-Bloodpack.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
-ent-Tourniquet = жгут-турникет
-    .desc = Остановит кровотечение! Надеемся.
+ent-Tourniquet = жгут
+    .desc = Останавливает кровотечение! Будем надеяться.
 
-ent-Gauze = марлевый бинт
-    .desc = Несколько стерильных марлевых полосок для оборачивания кровоточащих культей.
-    .suffix = Полный
+ent-Gauze = рулон марли
+    .desc = Стерильная марля, чтобы перевязывать окровавленные культи.
+    .suffix = Полностью заполнено
 
 ent-Gauze1 = { ent-Gauze }
     .desc = { ent-Gauze.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
-ent-AloeCream = алоэ крем
-    .desc = Крем для наружного применения при ожогах.
+ent-AloeCream = крем с алоэ
+    .desc = Крем от ожогов для наружного применения.
 
-ent-HealingToolbox = лечащий тулбокс
-    .desc = Мощный тулбокс, пропитанный энергией робаста. Залечит ваши ранения и наполнит вас убийственными намерениями.
+ent-HealingToolbox = лечебный тулбокс
+    .desc = Могучий тулбокс, пропитанный робастной энергией. Может залечить ваши раны и пробудить жажду убийства.
 
 ent-PillDexalin = таблетка
     .desc = { ent-Pill.desc }
-    .suffix = Дексалин 10 ед
+    .suffix = Дексалин 20 ед.
 
 ent-PillCanisterDexalin = баночка для таблеток
-    .suffix = Дексалин 10 ед, 7
     .desc = { ent-PillCanister.desc }
+    .suffix = Дексалин 20 ед., 15
 
 ent-PillDylovene = таблетка
     .desc = { ent-Pill.desc }
-    .suffix = Диловен 10 ед
+    .suffix = Диловен 20 ед.
 
 ent-PillCanisterDylovene = баночка для таблеток
-    .suffix = Диловен 10 ед, 5 шт
     .desc = { ent-PillCanister.desc }
+    .suffix = Диловен 20 ед., 15
 
 ent-PillHyronalin = таблетка
     .desc = { ent-Pill.desc }
-    .suffix = Хироналин 10 ед
+    .suffix = Хироналин 20 ед.
 
 ent-PillCanisterHyronalin = баночка для таблеток
-    .suffix = Хироналин 10 ед, 5 шт
     .desc = { ent-PillCanister.desc }
+    .suffix = Хироналин 20 ед., 15
 
 ent-PillPotassiumIodide = таблетка
-    .suffix = Иодид калия 10 ед
     .desc = { ent-Pill.desc }
+    .suffix = Йодид калия 20 ед.
 
 ent-PillCanisterPotassiumIodide = баночка для таблеток
-    .suffix = Иодид калия 10 ед, 5 шт
     .desc = { ent-PillCanister.desc }
+    .suffix = Йодид калия 20 ед., 15
 
 ent-PillIron = таблетка
     .desc = { ent-Pill.desc }
-    .suffix = Железо 10 ед
+    .suffix = Железо 20 ед.
 
 ent-PillCopper = таблетка
     .desc = { ent-Pill.desc }
-    .suffix = Медь 10 ед
+    .suffix = Медь 20 ед.
 
 ent-PillCanisterIron = баночка для таблеток
-    .suffix = Железо 10 ед, 5 шт
     .desc = { ent-PillCanister.desc }
+    .suffix = Железо 20 ед., 15
 
 ent-PillCanisterCopper = баночка для таблеток
-    .suffix = Медь 10 ед, 5 шт
     .desc = { ent-PillCanister.desc }
+    .suffix = Медь 20 ед., 15
 
 ent-PillKelotane = таблетка
     .desc = { ent-Pill.desc }
-    .suffix = Келотан 10 ед
+    .suffix = Келотан 20 ед.
 
 ent-PillCanisterKelotane = баночка для таблеток
-    .suffix = Келотан 10 ед, 5 шт
     .desc = { ent-PillCanister.desc }
+    .suffix = Келотан 20 ед., 15
 
 ent-PillDermaline = таблетка
     .desc = { ent-Pill.desc }
-    .suffix = Дермалин 10 ед
+    .suffix = Дермалин 20 ед.
 
 ent-PillCanisterDermaline = баночка для таблеток
-    .suffix = Дермалин 10 ед, 5 шт
     .desc = { ent-PillCanister.desc }
+    .suffix = Дермалин 20 ед., 15
 
-ent-PillSpaceDrugs = космические наркотики
+ent-PillSpaceDrugs = космический мираж
     .desc = { ent-Pill.desc }
 
 ent-PillTricordrazine = таблетка
     .desc = { ent-Pill.desc }
-    .suffix = Трикордразин 10 ед
+    .suffix = Трикордразин 20 ед.
 
 ent-PillCanisterTricordrazine = баночка для таблеток
-    .suffix = Трикордразин 10 ед, 5 шт
     .desc = { ent-PillCanister.desc }
+    .suffix = Трикордразин 20 ед., 15
 
 ent-PillCanisterAmbuzol = баночка для таблеток
     .desc = { ent-PillCanister.desc }
-    .suffix = Амбузол 15u, 2
+    .suffix = Амбузол 15 ед., 2
 
 ent-PillBicaridine = таблетка
     .desc = { ent-Pill.desc }
-    .suffix = Бикаридин 10 ед
+    .suffix = Бикаридин 20 ед.
 
 ent-PillCanisterBicaridine = баночка для таблеток
-    .suffix = Бикаридин 10 ед, 5 шт
     .desc = { ent-PillCanister.desc }
+    .suffix = Бикаридин 20 ед., 15
 
 ent-PillCharcoal = таблетка
     .desc = { ent-Pill.desc }
-    .suffix = Уголь 10 ед
+    .suffix = Активированный уголь 20 ед.
 
 ent-PillCanisterCharcoal = баночка для таблеток
-    .suffix = Уголь 10 ед, 3
     .desc = { ent-PillCanister.desc }
+    .suffix = Активированный уголь 20 ед., 15
 
 ent-PillRomerol = таблетка ромерола
     .desc = { ent-Pill.desc }
@@ -164,61 +163,61 @@ ent-PillAmbuzolPlus = таблетка амбузола плюс
     .desc = { ent-Pill.desc }
 
 ent-PillCanisterRandom = { ent-PillCanister }
-    .suffix = Случайный
     .desc = { ent-PillCanister.desc }
+    .suffix = Случайная
 
 ent-SyringeEphedrine = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Эфедрин
+    .suffix = эфедрин
 
 ent-SyringeInaprovaline = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Инапровалин
+    .suffix = инапровалин
 
 ent-SyringeTranexamicAcid = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Транексамовая кислота
+    .suffix = транексамовая кислота
 
 ent-SyringeBicaridine = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Бикаридин
+    .suffix = бикаридин
 
 ent-SyringeDermaline = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Дермалин
+    .suffix = дермалин
 
 ent-SyringeHyronalin = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Хироналин
+    .suffix = хироналин
 
 ent-SyringeIpecac = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Ипекак
+    .suffix = ипекак
 
 ent-SyringeAmbuzol = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Амбузол
+    .suffix = амбузол
 
 ent-SyringeSigynate = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Сигинат
+    .suffix = сигинат
 
 ent-SyringeEthylredoxrazine = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Этилредоксразин
+    .suffix = этилредоксразин
 
 ent-SyringePhalanximine = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Фалангимин
+    .suffix = фалангимин
 
 ent-SyringeSaline = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Физраствор
+    .suffix = физраствор
 
 ent-SyringeRomerol = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Ромерол
+    .suffix = ромерол
 
 ent-SyringeStimulants = { ent-PrefilledSyringe }
     .desc = { ent-PrefilledSyringe.desc }
-    .suffix = Стимулятор
+    .suffix = гиперзин

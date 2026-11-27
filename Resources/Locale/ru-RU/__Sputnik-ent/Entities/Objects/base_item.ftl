@@ -4,7 +4,7 @@ ent-BaseItem = предмет
 ent-BaseItemDestructible = { "" }
     .desc = { "" }
 
-ent-BaseStorageItem = предмет хранения
+ent-BaseStorageItem = предмет-хранилище
     .desc = { ent-BaseItem.desc }
 
 ent-BaseBagOpenClose = { "" }
@@ -16,10 +16,10 @@ ent-BasePaperLabelable = { "" }
 ent-BasePaperLabelableVisualized = { ent-BasePaperLabelable }
     .desc = { ent-BasePaperLabelable.desc }
 
-ent-PowerCellSlotSmallItem = a
+ent-PowerCellSlotSmallItem = { "" }
     .desc = { "" }
 
-ent-PowerCellSlotMediumItem = a
+ent-PowerCellSlotMediumItem = { "" }
     .desc = { "" }
 
 ent-PowerCellSlotHighItem = { "" }

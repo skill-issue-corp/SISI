@@ -1,2 +1,2 @@
-ent-MindBase = разум
+ent-MindBase = сознание
     .desc = { "" }

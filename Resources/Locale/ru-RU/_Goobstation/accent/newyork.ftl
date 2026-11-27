@@ -1,296 +1,443 @@
-accent-newyork-words-1 = ой
-accent-newyork-words-replace-1 = ой-вей
-accent-newyork-words-2 = черт
-accent-newyork-words-replace-2 = ой-вей
-accent-newyork-words-3 = блин
-accent-newyork-words-replace-3 = ой-вей
-accent-newyork-words-4 = да
-accent-newyork-words-replace-4 = таки да
-accent-newyork-words-5 = нет
-accent-newyork-words-replace-5 = таки нет
-accent-newyork-words-6 = что
-accent-newyork-words-replace-6 = шо
-accent-newyork-words-7 = главное
-accent-newyork-words-replace-7 = весь цимес
-accent-newyork-words-8 = суть
-accent-newyork-words-replace-8 = весь цимес
-accent-newyork-words-9 = основное
-accent-newyork-words-replace-9 = весь цимес
-accent-newyork-words-10 = наглость
-accent-newyork-words-replace-10 = хуцпа
-accent-newyork-words-11 = смелость
-accent-newyork-words-replace-11 = хуцпа
-accent-newyork-words-12 = дерзость
-accent-newyork-words-replace-12 = хуцпа
-accent-newyork-words-13 = нормальный человек
-accent-newyork-words-replace-13 = менш
-accent-newyork-words-14 = достойный
-accent-newyork-words-replace-14 = менш
-accent-newyork-words-15 = неудачник
-accent-newyork-words-replace-15 = шлимазл
-accent-newyork-words-16 = дети
-accent-newyork-words-replace-16 = киндерлах
-accent-newyork-words-17 = странная вещь
-accent-newyork-words-replace-17 = штукенция
-accent-newyork-words-18 = штуковина
-accent-newyork-words-replace-18 = штукенция
-accent-newyork-words-19 = предмет
-accent-newyork-words-replace-19 = штукенция
-accent-newyork-words-20 = мелочь
-accent-newyork-words-replace-20 = фаршмак
-accent-newyork-words-21 = ерунда
-accent-newyork-words-replace-21 = фаршмак
-accent-newyork-words-22 = ничего важного
-accent-newyork-words-replace-22 = фаршмак
-accent-newyork-words-23 = х
-accent-newyork-words-replace-23 = х
-accent-newyork-words-24 = хуйня
-accent-newyork-words-replace-24 = фаршмак
-accent-newyork-words-25 = вот беда
-accent-newyork-words-replace-25 = ай-ай-ай
-accent-newyork-words-26 = плохо дело
-accent-newyork-words-replace-26 = ай-ай-ай
-accent-newyork-words-27 = поздравляю
-accent-newyork-words-replace-27 = мазл тов
-accent-newyork-words-28 = хч
-accent-newyork-words-replace-28 = хч
-accent-newyork-words-29 = пустяк
-accent-newyork-words-replace-29 = клопс
-accent-newyork-words-30 = пустяки
-accent-newyork-words-replace-30 = клопс
-accent-newyork-words-31 = тяжело
-accent-newyork-words-replace-31 = ох, трудновато, таки да
-accent-newyork-words-32 = сложно
-accent-newyork-words-replace-32 = ох, трудновато, таки да
-accent-newyork-words-33 = тяжко
-accent-newyork-words-replace-33 = ох, трудновато, таки да
-accent-newyork-words-34 = медленно
-accent-newyork-words-replace-34 = не спеши, шойне
-accent-newyork-words-35 = медленнее
-accent-newyork-words-replace-35 = не спеши, шойне
-accent-newyork-words-36 = не торопись
-accent-newyork-words-replace-36 = не спеши, шойне
-accent-newyork-words-37 = слушай
-accent-newyork-words-replace-37 = послухай
-accent-newyork-words-38 = послушай
-accent-newyork-words-replace-38 = послухай
-accent-newyork-words-39 = друг
-accent-newyork-words-replace-39 = хавер
-accent-newyork-words-40 = приятель
-accent-newyork-words-replace-40 = хавер
-accent-newyork-words-41 = кент
-accent-newyork-words-replace-41 = хавер
-accent-newyork-words-42 = кентафарик
-accent-newyork-words-replace-42 = хавер
-accent-newyork-words-43 = бро
-accent-newyork-words-replace-43 = хавер
-accent-newyork-words-44 = бабушка
-accent-newyork-words-replace-44 = бубе
-accent-newyork-words-45 = бабуля
-accent-newyork-words-replace-45 = бубе
-accent-newyork-words-46 = старушка
-accent-newyork-words-replace-46 = бубе
-accent-newyork-words-47 = беда
-accent-newyork-words-replace-47 = ой-гэвальт
-accent-newyork-words-48 = проблема
-accent-newyork-words-replace-48 = ой-гэвальт
-accent-newyork-words-49 = успокойся
-accent-newyork-words-replace-49 = шалом, шалем
-accent-newyork-words-50 = не волнуйся
-accent-newyork-words-replace-50 = шалом, шалем
-accent-newyork-words-51 = все нормально
-accent-newyork-words-replace-51 = всё по-кашеру
-accent-newyork-words-52 = норм
-accent-newyork-words-replace-52 = всё по-кашеру
-accent-newyork-words-53 = безделушка
-accent-newyork-words-replace-53 = хламчик
-accent-newyork-words-54 = фигня
-accent-newyork-words-replace-54 = хламчик
-accent-newyork-words-55 = шум
-accent-newyork-words-replace-55 = трескеле
-accent-newyork-words-56 = грохот
-accent-newyork-words-replace-56 = трескеле
-accent-newyork-words-57 = ворчать
-accent-newyork-words-replace-57 = квахтать
-accent-newyork-words-58 = жаловаться
-accent-newyork-words-replace-58 = квахтать
-accent-newyork-words-59 = смотри
-accent-newyork-words-replace-59 = гляньке
-accent-newyork-words-60 = глянь
-accent-newyork-words-replace-60 = гляньке
-accent-newyork-words-61 = посмотри
-accent-newyork-words-replace-61 = гляньке
-accent-newyork-words-62 = хитрость
-accent-newyork-words-replace-62 = финтеле
-accent-newyork-words-63 = уловка
-accent-newyork-words-replace-63 = финтеле
-accent-newyork-words-64 = работа
-accent-newyork-words-replace-64 = халтурке
-accent-newyork-words-65 = работе
-accent-newyork-words-replace-65 = халтурке
-accent-newyork-words-66 = задание
-accent-newyork-words-replace-66 = халтурке
-accent-newyork-words-67 = задача
-accent-newyork-words-replace-67 = халтурке
-accent-newyork-words-68 = устал
-accent-newyork-words-replace-68 = уже весь махайе
-accent-newyork-words-69 = задолбался
-accent-newyork-words-replace-69 = уже весь махайе
-accent-newyork-words-70 = заебался
-accent-newyork-words-replace-70 = уже весь махайе
-accent-newyork-words-71 = ужас
-accent-newyork-words-replace-71 = какой балаган
-accent-newyork-words-72 = кошмар
-accent-newyork-words-replace-72 = какой балаган
-accent-newyork-words-73 = беспорядок
-accent-newyork-words-replace-73 = балаган
-accent-newyork-words-74 = бардак
-accent-newyork-words-replace-74 = балаган
-accent-newyork-words-75 = враг
-accent-newyork-words-replace-75 = ойфрейт
-accent-newyork-words-76 = недоброжелатель
-accent-newyork-words-replace-76 = ойфрейт
-accent-newyork-words-77 = хитрый
-accent-newyork-words-replace-77 = хохем
-accent-newyork-words-78 = ловкач
-accent-newyork-words-replace-78 = хохем
-accent-newyork-words-79 = болтун
-accent-newyork-words-replace-79 = трепач-малах
-accent-newyork-words-80 = распизделся
-accent-newyork-words-replace-80 = трепач-малах
-accent-newyork-words-81 = ладно
-accent-newyork-words-replace-81 = ну, гут
-accent-newyork-words-82 = хорошо
-accent-newyork-words-replace-82 = ну, гут
-accent-newyork-words-83 = подожди
-accent-newyork-words-replace-83 = стойке-минутке
-accent-newyork-words-84 = стой
-accent-newyork-words-replace-84 = стойке-минутке
-accent-newyork-words-85 = обман
-accent-newyork-words-replace-85 = шулерство
-accent-newyork-words-86 = подстава
-accent-newyork-words-replace-86 = шулерство
-accent-newyork-words-87 = обманщик
-accent-newyork-words-replace-87 = шулер
-accent-newyork-words-88 = врун
-accent-newyork-words-replace-88 = шулер
-accent-newyork-words-89 = врунишка
-accent-newyork-words-replace-89 = шулер
-accent-newyork-words-90 = шутка
-accent-newyork-words-replace-90 = шмонес
-accent-newyork-words-91 = прикол
-accent-newyork-words-replace-91 = шмонес
-accent-newyork-words-92 = анекдот
-accent-newyork-words-replace-92 = шмонес
-accent-newyork-words-93 = пойдем
-accent-newyork-words-replace-93 = нуч, пошли
-accent-newyork-words-94 = пошли
-accent-newyork-words-replace-94 = нуч, пошли
-accent-newyork-words-95 = подожди секунду
-accent-newyork-words-replace-95 = минутке-хоминутке
-accent-newyork-words-96 = подожди секундочку
-accent-newyork-words-replace-96 = минутке-хоминутке
-accent-newyork-words-97 = осторожно
-accent-newyork-words-replace-97 = шмайле осторожно
-accent-newyork-words-98 = аккуратно
-accent-newyork-words-replace-98 = шмайле аккуратно
-accent-newyork-words-99 = не повезло
-accent-newyork-words-replace-99 = шлимазл
-accent-newyork-words-100 = неудача
-accent-newyork-words-replace-100 = шлимазл
-accent-newyork-words-101 = подожди немного
-accent-newyork-words-replace-101 = шойне-шойне, не спеши
-accent-newyork-words-102 = мало
-accent-newyork-words-replace-102 = мало-мальски
-accent-newyork-words-103 = недостаточно
-accent-newyork-words-replace-103 = мало-мальски
-accent-newyork-words-104 = не переживай
-accent-newyork-words-replace-104 = не кипешуй
-accent-newyork-words-105 = все плохо
-accent-newyork-words-replace-105 = ой-вей, какой траур
-accent-newyork-words-106 = отличный
-accent-newyork-words-replace-106 = ай кошерный
-accent-newyork-words-107 = крутой
-accent-newyork-words-replace-107 = ай кошерный
-accent-newyork-words-108 = отлично
-accent-newyork-words-replace-108 = кошерно
-accent-newyork-words-109 = круто
-accent-newyork-words-replace-109 = кошерно
-accent-newyork-words-110 = классно
-accent-newyork-words-replace-110 = кошерно
-accent-newyork-words-111 = еда
-accent-newyork-words-replace-111 = мандес-кусочек
-accent-newyork-words-112 = еду
-accent-newyork-words-replace-112 = мандес-кусочек
-accent-newyork-words-113 = закуска
-accent-newyork-words-replace-113 = мандес-кусочек
-accent-newyork-words-114 = закуску
-accent-newyork-words-replace-114 = мандес-кусочек
-accent-newyork-words-115 = бедняга
-accent-newyork-words-replace-115 = ой, бедный мейделе
-accent-newyork-words-116 = бедный
-accent-newyork-words-replace-116 = ой, бедный мейделе
-accent-newyork-words-117 = хитрый план
-accent-newyork-words-replace-117 = такой хохем-план
-accent-newyork-words-118 = сумасшествие
-accent-newyork-words-replace-118 = полный мишуга
-accent-newyork-words-119 = хаос
-accent-newyork-words-replace-119 = полный мишуга
-accent-newyork-words-120 = неразбериха
-accent-newyork-words-replace-120 = полный мишуга
-accent-newyork-words-121 = бред
-accent-newyork-words-replace-121 = полный мишуга
-accent-newyork-words-122 = плохой человек
-accent-newyork-words-replace-122 = такой ну, не менч
-accent-newyork-words-123 = вранье
-accent-newyork-words-replace-123 = шмонес
-accent-newyork-words-124 = чушь
-accent-newyork-words-replace-124 = шмонес
-accent-newyork-words-125 = хороший человек
-accent-newyork-words-replace-125 = такой душевный менчеле
-accent-newyork-words-126 = опять
-accent-newyork-words-replace-126 = таки снова
-accent-newyork-words-127 = снова
-accent-newyork-words-replace-127 = таки снова
-accent-newyork-words-128 = не хочу
-accent-newyork-words-replace-128 = таки не желаю
-accent-newyork-words-129 = не буду
-accent-newyork-words-replace-129 = таки не желаю
-accent-newyork-words-130 = помоги мне
-accent-newyork-words-replace-130 = помоги, хабер
-accent-newyork-words-131 = прекрати
-accent-newyork-words-replace-131 = ну всё, стопке-мах
-accent-newyork-words-132 = громко
-accent-newyork-words-replace-132 = шум стоит как на базаре
-accent-newyork-words-133 = шумно
-accent-newyork-words-replace-133 = шум стоит как на базаре
-accent-newyork-words-134 = нет времени
-accent-newyork-words-replace-134 = времени ни шойне
-accent-newyork-words-135 = иди сюда
-accent-newyork-words-replace-135 = нуч, подойди-ка
-accent-newyork-words-136 = уйди отсюда
-accent-newyork-words-replace-136 = ай, ступай отсюда
-accent-newyork-words-137 = прекрасный
-accent-newyork-words-replace-137 = загляденье
-accent-newyork-words-138 = красиво
-accent-newyork-words-replace-138 = загляденье
-accent-newyork-words-139 = we could not
-accent-newyork-words-replace-139 = we couldn’t
-accent-newyork-words-140 = they could not
-accent-newyork-words-replace-140 = they couldn’t
-accent-newyork-words-141 = I should not
-accent-newyork-words-replace-141 = I shouldn’t
-accent-newyork-words-142 = you should not
-accent-newyork-words-replace-142 = you shouldn’t
-accent-newyork-words-143 = we should not
-accent-newyork-words-replace-143 = we shouldn’t
-accent-newyork-words-144 = they should not
-accent-newyork-words-replace-144 = they shouldn’t
-accent-newyork-words-145 = would not
-accent-newyork-words-replace-145 = wouldn’t
-accent-newyork-words-146 = could not
-accent-newyork-words-replace-146 = couldn’t
-accent-newyork-words-147 = should not
-accent-newyork-words-replace-147 = shouldn’t
-accent-newyork-words-148 = let me
-accent-newyork-words-replace-148 = lemme
+accent-newyork-words-1 = девушка
+accent-newyork-words-replace-1 = красотка
+
+accent-newyork-words-2 = мальчик
+accent-newyork-words-replace-2 = малой
+
+accent-newyork-words-3 = мужчина
+accent-newyork-words-replace-3 = тип
+
+accent-newyork-words-4 = женщина
+accent-newyork-words-replace-4 = дама
+
+accent-newyork-words-5 = друг
+accent-newyork-words-replace-5 = приятель
+
+accent-newyork-words-6 = начальник
+accent-newyork-words-replace-6 = шеф
+
+accent-newyork-words-7 = отец
+accent-newyork-words-replace-7 = папаша
+
+accent-newyork-words-8 = мама
+accent-newyork-words-replace-8 = ма
+
+accent-newyork-words-9 = маленький
+accent-newyork-words-replace-9 = маленький-то
+
+accent-newyork-words-10 = небольшой
+accent-newyork-words-replace-10 = крохотный
+
+accent-newyork-words-11 = большой
+accent-newyork-words-replace-11 = здоровенный
+
+accent-newyork-words-12 = хорошо
+accent-newyork-words-replace-12 = чётко
+
+accent-newyork-words-13 = плохо
+accent-newyork-words-replace-13 = паршиво
+
+accent-newyork-words-14 = злой
+accent-newyork-words-replace-14 = вскипевший
+
+accent-newyork-words-15 = сумасшедший
+accent-newyork-words-replace-15 = чокнутый
+
+accent-newyork-words-16 = удивлён
+accent-newyork-words-replace-16 = в шоке
+
+accent-newyork-words-17 = устал
+accent-newyork-words-replace-17 = как выжатый лимон
+
+accent-newyork-words-18 = голодный
+accent-newyork-words-replace-18 = с голоду помирает
+
+accent-newyork-words-19 = еда
+accent-newyork-words-replace-19 = жратва
+
+accent-newyork-words-20 = должность
+accent-newyork-words-replace-20 = халтура
+
+accent-newyork-words-21 = работа
+accent-newyork-words-replace-21 = пахота
+
+accent-newyork-words-22 = улица
+accent-newyork-words-replace-22 = квартал
+
+accent-newyork-words-23 = здание
+accent-newyork-words-replace-23 = заведеньице
+
+accent-newyork-words-24 = дом
+accent-newyork-words-replace-24 = хата
+
+accent-newyork-words-25 = бар
+accent-newyork-words-replace-25 = забегаловка
+
+accent-newyork-words-26 = магазин
+accent-newyork-words-replace-26 = бодега
+
+accent-newyork-words-27 = метро
+accent-newyork-words-replace-27 = подземка
+
+accent-newyork-words-28 = машина
+accent-newyork-words-replace-28 = тачка
+
+accent-newyork-words-29 = деньги
+accent-newyork-words-replace-29 = бабки
+
+accent-newyork-words-30 = ассистент
+accent-newyork-words-replace-30 = помощничек
+
+accent-newyork-words-31 = телефон
+accent-newyork-words-replace-31 = труба
+
+accent-newyork-words-32 = полиция
+accent-newyork-words-replace-32 = копы
+
+accent-newyork-words-33 = офицер
+accent-newyork-words-replace-33 = синий мундир
+
+accent-newyork-words-34 = грейтайдер
+accent-newyork-words-replace-34 = джо
+
+accent-newyork-words-35 = под прикрытием
+accent-newyork-words-replace-35 = в штатском
+
+accent-newyork-words-36 = тюрьма
+accent-newyork-words-replace-36 = зона
+
+accent-newyork-words-37 = подозреваемый
+accent-newyork-words-replace-37 = подозрик
+
+accent-newyork-words-38 = преступник
+accent-newyork-words-replace-38 = жулик
+
+accent-newyork-words-39 = вор
+accent-newyork-words-replace-39 = карманник
+
+accent-newyork-words-40 = забудь об этом
+accent-newyork-words-replace-40 = дазабу-удь
+
+accent-newyork-words-41 = эй
+accent-newyork-words-replace-41 = йо
+
+accent-newyork-words-42 = что
+accent-newyork-words-replace-42 = чё
+
+accent-newyork-words-43 = когда
+accent-newyork-words-replace-43 = када
+
+accent-newyork-words-44 = как
+accent-newyork-words-replace-44 = как оно
+
+accent-newyork-words-45 = где
+accent-newyork-words-replace-45 = гдэ
+
+accent-newyork-words-46 = почему
+accent-newyork-words-replace-46 = с чего вдруг
+
+accent-newyork-words-47 = да
+accent-newyork-words-replace-47 = ага
+
+accent-newyork-words-48 = нет
+accent-newyork-words-replace-48 = не-а
+
+accent-newyork-words-49 = в порядке
+accent-newyork-words-replace-49 = нармуль
+
+accent-newyork-words-50 = иду
+accent-newyork-words-replace-50 = топаю
+
+accent-newyork-words-51 = собираюсь
+accent-newyork-words-replace-51 = ща буду
+
+accent-newyork-words-52 = хочу
+accent-newyork-words-replace-52 = охота
+
+accent-newyork-words-53 = надо
+accent-newyork-words-replace-53 = придётся
+
+accent-newyork-words-54 = не делай
+accent-newyork-words-replace-54 = не делай-ка
+
+accent-newyork-words-55 = ты
+accent-newyork-words-replace-55 = вы-то
+
+accent-newyork-words-56 = себя
+accent-newyork-words-replace-56 = себя-то
+
+accent-newyork-words-57 = я являюсь
+accent-newyork-words-replace-57 = Я и есть
+
+accent-newyork-words-58 = мы являемся
+accent-newyork-words-replace-58 = мы и есть
+
+accent-newyork-words-59 = они являются
+accent-newyork-words-replace-59 = они и есть
+
+accent-newyork-words-60 = было
+accent-newyork-words-replace-60 = было ж
+
+accent-newyork-words-61 = есть
+accent-newyork-words-replace-61 = ес'
+
+accent-newyork-words-62 = это
+accent-newyork-words-replace-62 = эт
+
+accent-newyork-words-63 = этот
+accent-newyork-words-replace-63 = энтот
+
+accent-newyork-words-64 = туда
+accent-newyork-words-replace-64 = туды
+
+accent-newyork-words-65 = от
+accent-newyork-words-replace-65 = от'
+
+accent-newyork-words-66 = об этом
+accent-newyork-words-replace-66 = про энто
+
+accent-newyork-words-67 = потому что
+accent-newyork-words-replace-67 = потшто
+
+accent-newyork-words-68 = ничего
+accent-newyork-words-replace-68 = ничё
+
+accent-newyork-words-69 = что-то
+accent-newyork-words-replace-69 = чё-то
+
+accent-newyork-words-70 = всё
+accent-newyork-words-replace-70 = всё-всё
+
+accent-newyork-words-71 = ладно
+accent-newyork-words-replace-71 = нармуль
+
+accent-newyork-words-72 = позволь мне
+accent-newyork-words-replace-72 = дай-ка мне
+
+accent-newyork-words-73 = дай мне
+accent-newyork-words-replace-73 = давай сюда
+
+accent-newyork-words-74 = скажи мне
+accent-newyork-words-replace-74 = ну-ка скажи
+
+accent-newyork-words-75 = покажи мне
+accent-newyork-words-replace-75 = дай глянуть
+
+accent-newyork-words-76 = запомни
+accent-newyork-words-replace-76 = заруби на носу
+
+accent-newyork-words-77 = понимаешь
+accent-newyork-words-replace-77 = врубаешься
+
+accent-newyork-words-78 = слушай
+accent-newyork-words-replace-78 = слышь
+
+accent-newyork-words-79 = мудак
+accent-newyork-words-replace-79 = мудачила
+
+accent-newyork-words-80 = иди сюда
+accent-newyork-words-replace-80 = иди-ка сюды
+
+accent-newyork-words-81 = проваливай
+accent-newyork-words-replace-81 = вали отсюда
+
+accent-newyork-words-82 = нормально
+accent-newyork-words-replace-82 = нармуль
+
+accent-newyork-words-83 = кпб
+accent-newyork-words-replace-83 = железяка
+
+accent-newyork-words-84 = дурак
+accent-newyork-words-replace-84 = шмук
+
+accent-newyork-words-85 = кое-что
+accent-newyork-words-replace-85 = чё-нить
+
+accent-newyork-words-86 = надоело
+accent-newyork-words-replace-86 = по горло
+
+accent-newyork-words-87 = починить
+accent-newyork-words-replace-87 = подлатать
+
+accent-newyork-words-88 = сломан
+accent-newyork-words-replace-88 = раздолбан
+
+accent-newyork-words-89 = не нужно
+accent-newyork-words-replace-89 = не надо
+
+accent-newyork-words-90 = нельзя
+accent-newyork-words-replace-90 = не выйдет
+
+accent-newyork-words-91 = Я есть
+accent-newyork-words-replace-91 = Я и есть
+
+accent-newyork-words-92 = вы являетесь
+accent-newyork-words-replace-92 = вы и есть
+
+accent-newyork-words-93 = мы есть
+accent-newyork-words-replace-93 = мы и есть
+
+accent-newyork-words-94 = они есть
+accent-newyork-words-replace-94 = они и есть
+
+accent-newyork-words-95 = Я буду
+accent-newyork-words-replace-95 = Я бу
+
+accent-newyork-words-96 = вам предстоит
+accent-newyork-words-replace-96 = вам скоро
+
+accent-newyork-words-97 = нам предстоит
+accent-newyork-words-replace-97 = нам скоро
+
+accent-newyork-words-98 = им предстоит
+accent-newyork-words-replace-98 = им скоро
+
+accent-newyork-words-99 = мог бы уже
+accent-newyork-words-replace-99 = мог б уже
+
+accent-newyork-words-100 = следовало бы
+accent-newyork-words-replace-100 = следовало б
+
+accent-newyork-words-101 = мог бы
+accent-newyork-words-replace-101 = мог б
+
+accent-newyork-words-102 = Я бы
+accent-newyork-words-replace-102 = Я б
+
+accent-newyork-words-103 = вы бы
+accent-newyork-words-replace-103 = вы б
+
+accent-newyork-words-104 = мы бы
+accent-newyork-words-replace-104 = мы б
+
+accent-newyork-words-105 = они бы
+accent-newyork-words-replace-105 = они б
+
+accent-newyork-words-106 = не является
+accent-newyork-words-replace-106 = не есь
+
+accent-newyork-words-107 = не являются
+accent-newyork-words-replace-107 = не суть
+
+accent-newyork-words-108 = не являюсь
+accent-newyork-words-replace-108 = не есь
+
+accent-newyork-words-109 = иметь
+accent-newyork-words-replace-109 = заполучить
+
+accent-newyork-words-110 = там есть
+accent-newyork-words-replace-110 = там имеется
+
+accent-newyork-words-111 = там имеются
+accent-newyork-words-replace-111 = там есть-то
+
+accent-newyork-words-112 = давайте
+accent-newyork-words-replace-112 = давай-ка
+
+accent-newyork-words-113 = псионика
+accent-newyork-words-replace-113 = башко-фу
+
+accent-newyork-words-114 = хочется
+accent-newyork-words-replace-114 = охота
+
+accent-newyork-words-115 = приходится
+accent-newyork-words-replace-115 = придётся
+
+accent-newyork-words-116 = подай мне
+accent-newyork-words-replace-116 = давай сюда
+
+accent-newyork-words-117 = вы знаете
+accent-newyork-words-replace-117 = знаешь-то
+
+accent-newyork-words-118 = что вы
+accent-newyork-words-replace-118 = чё вы
+
+accent-newyork-words-119 = планируешь делать
+accent-newyork-words-replace-119 = ща делать будешь
+
+accent-newyork-words-120 = У меня есть
+accent-newyork-words-replace-120 = У мя есть
+
+accent-newyork-words-121 = у вас есть
+accent-newyork-words-replace-121 = у вас-то есть
+
+accent-newyork-words-122 = у нас есть
+accent-newyork-words-replace-122 = у нас-то есть
+
+accent-newyork-words-123 = у них есть
+accent-newyork-words-replace-123 = у них-то есть
+
+accent-newyork-words-124 = он является
+accent-newyork-words-replace-124 = он и есть
+
+accent-newyork-words-125 = она является
+accent-newyork-words-replace-125 = она и есть
+
+accent-newyork-words-126 = оно является
+accent-newyork-words-replace-126 = оно и есть
+
+accent-newyork-words-127 = кто там
+accent-newyork-words-replace-127 = кто-тамсь
+
+accent-newyork-words-128 = что это
+accent-newyork-words-replace-128 = чё это
+
+accent-newyork-words-129 = где это
+accent-newyork-words-replace-129 = гдэ это
+
+accent-newyork-words-130 = когда это
+accent-newyork-words-replace-130 = када это
+
+accent-newyork-words-131 = почему это
+accent-newyork-words-replace-131 = чё это вдруг
+
+accent-newyork-words-132 = как это
+accent-newyork-words-replace-132 = как так-то
+
+accent-newyork-words-133 = Я не стал бы
+accent-newyork-words-replace-133 = Я б не стал
+
+accent-newyork-words-134 = вы не стали бы
+accent-newyork-words-replace-134 = вы б не стали
+
+accent-newyork-words-135 = мы не стали бы
+accent-newyork-words-replace-135 = мы б не стали
+
+accent-newyork-words-136 = они не стали бы
+accent-newyork-words-replace-136 = они б не стали
+
+accent-newyork-words-137 = Я не смог бы
+accent-newyork-words-replace-137 = Я б не смог
+
+accent-newyork-words-138 = вы не смогли бы
+accent-newyork-words-replace-138 = вы б не смогли
+
+accent-newyork-words-139 = мы не смогли бы
+accent-newyork-words-replace-139 = мы б не смогли
+
+accent-newyork-words-140 = они не смогли бы
+accent-newyork-words-replace-140 = они б не смогли
+
+accent-newyork-words-141 = Мне не стоит
+accent-newyork-words-replace-141 = Мне б не стоило
+
+accent-newyork-words-142 = вам не стоит
+accent-newyork-words-replace-142 = вам б не стоило
+
+accent-newyork-words-143 = нам не стоит
+accent-newyork-words-replace-143 = нам б не стоило
+
+accent-newyork-words-144 = им не стоит
+accent-newyork-words-replace-144 = им б не стоило
+
+accent-newyork-words-145 = не стал бы
+accent-newyork-words-replace-145 = не стал б
+
+accent-newyork-words-146 = не смог бы
+accent-newyork-words-replace-146 = не смог б
+
+accent-newyork-words-147 = не следовало бы
+accent-newyork-words-replace-147 = не надо б
+
+accent-newyork-words-148 = дайте мне
+accent-newyork-words-replace-148 = дайте-ка мне

@@ -1,108 +1,108 @@
-ent-FoodBakedBase = { ent-FoodInjectableBase }
-    .desc = { ent-FoodInjectableBase.desc }
+ent-FoodBakedBase = { ent-SolutionVeryTiny }
+    .desc = { ent-SolutionVeryTiny.desc }
 
 ent-FoodBakedMuffin = маффин
-    .desc = Вкусный и пышный кекс.
+    .desc = Маленький вкусный и воздушный кекс.
 
 ent-FoodBakedMuffinBerry = ягодный маффин
-    .desc = Вкусный и пышный кекс с ягодами.
+    .desc = Маленький вкусный и воздушный кекс с ягодами.
 
 ent-FoodBakedMuffinCherry = вишнёвый маффин
     .desc = Сладкий маффин с кусочками вишни.
 
-ent-FoodBakedMuffinBluecherry = маффин с голубой вишней
-    .desc = Голубые вишни внутри вкусного маффина.
+ent-FoodBakedMuffinBluecherry = маффин с синей вишней
+    .desc = Синие вишни внутри вкусного маффина.
 
-ent-FoodBakedMuffinChocolate = шоколадный кекс
-    .desc = Вкусный и нежный шоколадный кекс.
+ent-FoodBakedMuffinChocolate = шоколадный маффин
+    .desc = Вкусный и воздушный шоколадный маффин.
 
-ent-FoodBakedMuffinBanana = банановый кекс
-    .desc = Вкусный и нежный банановый кекс.
+ent-FoodBakedMuffinBanana = банановый маффин
+    .desc = Вкусный и воздушный банановый маффин.
 
 ent-FoodBakedBunHoney = медовая булочка
-    .desc = Булочка из липкого теста, глазированная мёдом.
+    .desc = Липкая сдобная булочка в медовой глазури.
 
-ent-FoodBakedBunHotX = булочка хоткросс
-    .desc = Булочка из липкого теста, глазированная отчётливым белым крестом.
+ent-FoodBakedBunHotX = крестовая булочка
+    .desc = Липкая сдобная булочка с отчётливым белым крестом из глазури.
 
-ent-FoodBakedBunMeat = мясная булочка
-    .desc = Имеет все шансы не быть собакой.
+ent-FoodBakedBunMeat = булочка с мясом
+    .desc = Возможно, даже не с собачатиной.
 
 ent-FoodBakedCookie = печенье
-    .desc = КУУКИ!!!
+    .desc = ПЕЧЕНЬЕ!!!
 
 ent-FoodBakedCookieOatmeal = овсяное печенье
-    .desc = Лучшее из печенья, лучшее из овса.
+    .desc = Всё лучшее от печенья и овсянки.
 
 ent-FoodBakedCookieRaisin = печенье с изюмом
     .desc = Зачем класть изюм в печенье?
 
 ent-FoodBakedCookieSugar = сахарное печенье
-    .desc = По маминому рецепту.
+    .desc = Совсем как у мамы.
 
 ent-FoodBakedNugget = куриный наггетс
-    .desc = «Куриный» наггетс, его очертания крайне смутные.
+    .desc = «Куриный» наггетс, отдалённо напоминающий какой-то предмет.
 
-ent-FoodBakedPancake = блинчик
-    .desc = Пышный блинчик. Превосходит родственницу вафлю по мягкости.
+ent-FoodBakedPancake = панкейк
+    .desc = Пышный панкейк. Более мягкий и удачный родственник вафли.
 
-ent-FoodBakedPancakeBb = блинчик с черникой
-    .desc = Пышный и вкусный черничный блинчик.
+ent-FoodBakedPancakeBb = черничный панкейк
+    .desc = Пышный и вкусный панкейк с черникой.
 
-ent-FoodBakedPancakeCc = блинчик с шоколадной крошкой
-    .desc = Пышный и вкусный шоколадный блинчик.
+ent-FoodBakedPancakeCc = панкейк с шоколадной крошкой
+    .desc = Пышный и вкусный панкейк с шоколадной крошкой.
 
 ent-FoodBakedWaffle = вафли
-    .desc = Ммм, вафли.
+    .desc = М-м-м, вафли.
 
 ent-FoodBakedWaffleSoy = соевые вафли
-    .desc = Вы чувствуете себя здоровее и... женственнее?
+    .desc = Вы чувствуете себя здоровее и - женственнее?
 
-ent-FoodBakedWaffleSoylent = сойлент вафли
+ent-FoodBakedWaffleSoylent = соилентовые вафли
     .desc = Не из людей. Честно.
 
-ent-FoodBakedWaffleRoffle = roffle-вафли
-    .desc = Вафли от Roffle. Co.
+ent-FoodBakedWaffleRoffle = вафли рофл
+    .desc = Вафли от «Рофл Ко.».
 
 ent-FoodBakedPretzel = крендель с маком
-    .desc = Как всё закручено!
+    .desc = Весь закручен!
 
 ent-FoodBakedCannoli = канноли
-    .desc = Сицилийское лакомство, превращает вас в мудреца.
+    .desc = Сицилийское лакомство, превращающее вас в мафиози.
 
 ent-FoodBakedDumplings = пельмени
-    .desc = Усреднённый рецепт мяса в тесте.
+    .desc = Обычные кусочки мяса в тесте.
 
-ent-FoodBakedChevreChaud = шевре шод
-    .desc = Кружок слегка подтаявшего козьего сыра (шевре), уложенного на кростини, и поджаренного со всех сторон.
+ent-FoodBakedChevreChaud = шевр шо
+    .desc = Кружок слегка расплавленного козьего сыра на кростини, поджаренный со всех сторон.
 
-ent-FoodBakedChevreChaudCotton = хлопковый шевре шод
-    .desc = Кружок слегка подтаявшего козьего сыра (шевре), уложенного на... хлопковый кростини, и поджаренного со всех сторон.
+ent-FoodBakedChevreChaudCotton = хлопковый шевр шо
+    .desc = Кружок слегка расплавленного козьего сыра на... хлопковом кростини, поджаренный со всех сторон.
 
 ent-FoodBakedBrownieBatch = брауни
-    .desc = Противень брауни.
+    .desc = Целый противень брауни.
 
 ent-FoodBakedBrownie = брауни
-    .desc = Свежеиспечённый брауни.
+    .desc = Свежевыпеченный брауни.
     .suffix = Свежий
 
 ent-FoodBakedCannabisBrownieBatch = особые брауни
-    .desc = Противень "особых" брауни.
+    .desc = Противень «особых» брауни.
 
 ent-FoodBakedCannabisBrownie = особый брауни
-    .desc = "Особое" брауни.
+    .desc = «Особый» брауни.
 
 ent-FoodOnionRings = луковые кольца
-    .desc = Можно съесть, а можно сделать предложение своим возлюбленным.
+    .desc = Можно съесть, а можно сделать предложение любимому человеку.
 
 ent-FoodBakedCroissant = круассан
-    .desc = Маслянистое, слоистое лакомство.
+    .desc = Слоёное масляное великолепие.
 
 ent-FoodBakedCroissantCotton = хлопковый круассан
-    .desc = Маслянистое, слоистое, волокнистое лакомство.
+    .desc = Слоёное, масляное, волокнистое великолепие.
 
-ent-FoodBakedGrilledCheeseSandwich = сэндвич с жареным сыром
-    .desc = Хлеб и сыр, поджаренные с маслом, идеально подходят для прохладного дня в космосе.
+ent-FoodBakedGrilledCheeseSandwich = горячий сэндвич с сыром
+    .desc = Хлеб и сыр, поджаренные на масле. Отличный выбор для холодного дня в космосе.
 
-ent-FoodBakedGrilledCheeseSandwichCotton = хлопковый сэндвич с жареным сыром
-    .desc = Cлегка обжаренный в масле хлопковый хлеб с расплавленным сыром. Молям трудно противостоять такому сочетанию.
+ent-FoodBakedGrilledCheeseSandwichCotton = горячий хлопковый сэндвич с сыром
+    .desc = Хлопковый хлеб, слегка подгоревший на масле, с расплавленным сыром. Нианам трудно устоять перед таким сочетанием.

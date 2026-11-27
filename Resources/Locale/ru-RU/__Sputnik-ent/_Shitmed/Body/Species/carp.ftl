@@ -3,7 +3,7 @@ ent-AppearanceCarp = внешность карпа
 
 ent-OrganCarp = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = Карп
+    .suffix = карп
 
 ent-OrganCarpExternal = { ent-OrganCarp }
     .desc = { ent-OrganCarp.desc }

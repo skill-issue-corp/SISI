@@ -1,2 +1,2 @@
-ent-CartridgeAntiMateriel = патрон (.60 крупнокалиберный)
-    .desc = { ent-BaseCartridge.desc }
+ent-CartridgeAntiMateriel = патрон (.60 антиматериальные)
+    .desc = Мощный патрон для высокоточных винтовок.

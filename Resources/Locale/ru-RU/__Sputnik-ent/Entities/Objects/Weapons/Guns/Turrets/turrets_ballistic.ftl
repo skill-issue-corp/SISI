@@ -1,23 +1,23 @@
 ent-WeaponTurretSyndicate = { ent-BaseWeaponBallisticTurret }
-    .suffix = Синдикат
     .desc = { ent-BaseWeaponBallisticTurret.desc }
+    .suffix = Синдикат
 
-ent-WeaponTurretSyndicateDisposable = баллистическая турель
+ent-WeaponTurretSyndicateDisposable = одноразовая баллистическая турель
     .desc = { ent-BaseWeaponBallisticTurretIndestructible.desc }
-    .suffix = Синдикат, тулбокс, ящик
+    .suffix = Синдикат, Одноразовая
 
 ent-WeaponTurretNanoTrasen = { ent-BaseWeaponBallisticTurret }
-    .suffix = Nanotrasen
     .desc = { ent-BaseWeaponBallisticTurret.desc }
+    .suffix = NanoTrasen
 
 ent-WeaponTurretHostile = { ent-BaseWeaponBallisticTurret }
-    .suffix = Враждебная
     .desc = { ent-BaseWeaponBallisticTurret.desc }
+    .suffix = Враждебный
 
 ent-WeaponTurretAllHostile = { ent-BaseWeaponBallisticTurret }
-    .suffix = Враждебная всем
     .desc = { ent-BaseWeaponBallisticTurret.desc }
+    .suffix = Все враги
 
-ent-WeaponTurretXeno = ксено турель
-    .desc = Стреляет кислотными зарядами калибра 9 мм.
+ent-WeaponTurretXeno = ксено-турель
+    .desc = Стреляет кислотными снарядами 9мм.
     .suffix = Ксено

@@ -8,9 +8,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-physical-desc-calming = успокаивающий
-reagent-physical-desc-stasizium = статичный
+reagent-physical-desc-calming = успокаивающее
+reagent-physical-desc-stasizium = статичное
 reagent-physical-desc-sigma = сигма
-reagent-physical-desc-ling = живой
-reagent-physical-desc-comforting = утешающий
-reagent-physical-desc-alien = чужеродный
+reagent-physical-desc-ling = живое
+reagent-physical-desc-comforting = утешительное
+reagent-physical-desc-alien = инопланетное

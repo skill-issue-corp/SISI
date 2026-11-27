@@ -1,6 +1,8 @@
 ent-BaseMutationAdmeme = { ent-BaseFreeMutation }
     .desc = { ent-BaseFreeMutation.desc }
-ent-MutationUnstableDna = нестабильная ДНК
+
+ent-MutationUnstableDna = Нестабильная ДНК
     .desc = ???
-ent-MutationMouse = мышь
-    .desc = Пиип!
+
+ent-MutationMouse = Мышь
+    .desc = Пип!

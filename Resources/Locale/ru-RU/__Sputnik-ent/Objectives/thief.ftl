@@ -145,5 +145,5 @@ ent-ShivaStealObjective = { ent-BaseThiefStealAnimalObjective }
 ent-TropicoStealObjective = { ent-BaseThiefStealAnimalObjective }
     .desc = { ent-BaseThiefStealAnimalObjective.desc }
 
-ent-EscapeThiefShuttleObjective = Сбежать живым и не связанным на спасательном шаттле в ЦентКом.
-    .desc = Вы же не хотите, чтобы кто-то узнал о вашей незаконной деятельности?
+ent-EscapeThiefShuttleObjective = Добраться до ЦК на эвакуационном шаттле живым и без пут.
+    .desc = Вы ведь не хотите, чтобы кто-нибудь узнал о ваших незаконных делах?

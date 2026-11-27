@@ -5,53 +5,53 @@ ent-SolutionRiggable = { ent-Solution }
     .desc = { ent-Solution.desc }
 
 ent-PowerCellPotato = картофельная батарея
-    .desc = Кто-то воткнул два гвоздя и несколько проводов в большую картофелину. Каким-то образом это обеспечивает небольшой заряд. Вы можете запихнуть его в слот среднего размера.
+    .desc = Кто-то воткнул два гвоздя и немного проволоки в большую картофелину. Каким-то образом она даёт немного заряда.
 
 ent-PowerCellSmall = батарея малой ёмкости
-    .desc = Перезаряжаемый элемент питания. Самый дешёвый из всех доступных.
-    .suffix = Полный
+    .desc = Перезаряжаемая батарея. Самая дешёвая из тех, что можно найти.
+    .suffix = Полностью заполнено
 
 ent-PowerCellSmallPrinted = { ent-PowerCellSmall }
-    .suffix = Пустой
     .desc = { ent-PowerCellSmall.desc }
+    .suffix = Пусто
 
 ent-PowerCellSmallNuclear = ядерная батарея малой ёмкости
-    .desc = Самозаряжаемый элемент питания, разработанный для быстрой зарядки за счёт уменьшения ёмкости.
+    .desc = Самозаряжающаяся батарея с высокой скоростью зарядки в ущерб ёмкости.
 
 ent-PowerCellMedium = батарея средней ёмкости
-    .desc = Перезаряжаемый элемент питания. Популярный и надёжный вариант.
-    .suffix = Полный
+    .desc = Перезаряжаемая батарея. Популярная и надёжная модель.
+    .suffix = Полностью заполнено
 
 ent-PowerCellMediumPrinted = { ent-PowerCellMedium }
-    .suffix = Пустой
     .desc = { ent-PowerCellMedium.desc }
+    .suffix = Пусто
 
 ent-PowerCellHigh = батарея высокой ёмкости
-    .desc = Стандартизированный перезаряжаемый элемент питания. Этот премиальный накопитель большой ёмкости вмещает на 50% больше энергии, по сравнению с конкурентами.
-    .suffix = Полный
+    .desc = Стандартная перезаряжаемая батарея. Премиальная марка, которая вмещает до 50% больше энергии, чем конкуренты.
+    .suffix = Полностью заполнено
 
 ent-PowerCellHighPrinted = { ent-PowerCellHigh }
-    .suffix = Пустой
     .desc = { ent-PowerCellHigh.desc }
+    .suffix = Пусто
 
-ent-PowerCellHyper = батарея гипер ёмкости
-    .desc = Стандартизированный перезаряжаемый элемент питания. Выглядит как редкий и мощный прототип.
-    .suffix = Полный
+ent-PowerCellHyper = батарея сверхвысокой ёмкости
+    .desc = Стандартная перезаряжаемая батарея. Новая модель расширяет пределы переносных источников питания. Её ёмкость на 66% выше, чем у предшественницы.
+    .suffix = Полностью заполнено
 
 ent-PowerCellHyperPrinted = { ent-PowerCellHyper }
-    .suffix = Пустой
     .desc = { ent-PowerCellHyper.desc }
+    .suffix = Пусто
 
 ent-PowerCellMicroreactor = микрореакторная батарея
-    .desc = Стандартизированный перезаряжаемый микрореактор. Имеет пониженную ёмкость, но медленно заряжается сама по себе.
-    .suffix = Полный
+    .desc = Стандартная перезаряжаемая микрореакторная батарея. Ёмкость ниже, зато она медленно заряжается сама.
+    .suffix = Полностью заполнено
 
 ent-PowerCellMicroreactorPrinted = { ent-PowerCellMicroreactor }
-    .suffix = Пустой
     .desc = { ent-PowerCellMicroreactor.desc }
+    .suffix = Пусто
 
-ent-PowerCellAntiqueProto = прототип древней батареи
-    .desc = Маленький самозаряжающийся элемент питания. Использовался в старых разработках лазерного оружия.
+ent-PowerCellAntiqueProto = прототип старинной батареи
+    .desc = Небольшая самозаряжающаяся батарея. Когда-то её использовали при разработке лазерного оружия.
 
 ent-BasePowerCage = { ent-BasePowerCell }
     .desc = { ent-BasePowerCell.desc }
@@ -59,23 +59,23 @@ ent-BasePowerCage = { ent-BasePowerCell }
 ent-SolutionRiggableLarge = { ent-SolutionRiggable }
     .desc = { ent-SolutionRiggable.desc }
 
-ent-PowerCageSmall = энергоячейка малой ёмкости
-    .desc = Перезаряжаемая энергетическая ячейка для больших устройств. Это самая дешёвая разновидность, которую вы можете найти.
+ent-PowerCageSmall = аккумуляторный блок малой ёмкости
+    .desc = Перезаряжаемый аккумуляторный блок для крупных устройств. Самый дешёвый из тех, что можно найти.
 
-ent-PowerCageMedium = энергоячейка средней ёмкости
-    .desc = Перезаряжаемая энергетическая ячейка для больших устройств. Золотой стандарт ёмкости и стоимости.
+ent-PowerCageMedium = аккумуляторный блок средней ёмкости
+    .desc = Перезаряжаемый аккумуляторный блок для крупных устройств. Золотой стандарт по соотношению ёмкости и цены.
 
-ent-PowerCageHigh = энергоячейка высокой ёмкости
-    .desc = Перезаряжаемая энергетическая ячейка для больших устройств. Увеличенная ёмкость для увеличенного уровня мощности.
+ent-PowerCageHigh = аккумуляторный блок высокой ёмкости
+    .desc = Перезаряжаемый аккумуляторный блок для крупных устройств. Повышенная ёмкость для работы на повышенной мощности.
 
 ent-PowerCageSmallEmpty = { ent-PowerCageSmall }
-    .suffix = Пустой
     .desc = { ent-PowerCageSmall.desc }
+    .suffix = Пусто
 
 ent-PowerCageMediumEmpty = { ent-PowerCageMedium }
-    .suffix = Пустой
     .desc = { ent-PowerCageMedium.desc }
+    .suffix = Пусто
 
 ent-PowerCageHighEmpty = { ent-PowerCageHigh }
-    .suffix = Пустой
     .desc = { ent-PowerCageHigh.desc }
+    .suffix = Пусто

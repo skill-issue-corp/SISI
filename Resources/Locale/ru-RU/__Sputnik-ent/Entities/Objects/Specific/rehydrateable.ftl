@@ -2,10 +2,10 @@ ent-RehydratableItem = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
 ent-SolutionCube = кубик
-    .desc = если вы это читаете, ну уж нет! оформите баг-репорт.
+    .desc = если вы это читаете, не-а! отправьте отчёт об ошибке.
 
 ent-RehydratableAnimalCube = { ent-SolutionTiny }
-    .desc = Просто добавь воды!
+    .desc = Просто добавьте воды!
 
 ent-MonkeyCube = кубик обезьяны
     .desc = { ent-RehydratableAnimalCube.desc }
@@ -19,33 +19,33 @@ ent-CowCube = кубик коровы
 ent-GoatCube = кубик козы
     .desc = { ent-RehydratableAnimalCube.desc }
 
-ent-MothroachCube = кубик мотроча
+ent-MothroachCube = кубик таракамоли
     .desc = { ent-RehydratableAnimalCube.desc }
 
-ent-MoproachCube = кубик мопроча
+ent-MoproachCube = кубик швабромоли
     .desc = { ent-RehydratableAnimalCube.desc }
 
 ent-MouseCube = кубик мыши
     .desc = { ent-RehydratableAnimalCube.desc }
 
 ent-CockroachCube = кубик таракана
-    .desc = Просто добавь во- О БОЖЕ!
+    .desc = Просто добавьте во- О БОЖЕ!
 
 ent-SpaceCarpCube = кубик карпа
-    .desc = Просто добавь воды! На свой страх и риск.
+    .desc = Просто добавьте воды! На свой страх и риск.
 
 ent-SpaceTickCube = кубик клеща
-    .desc = Просто добавь воды! На свой страх и риск.
+    .desc = Просто добавьте воды! На свой страх и риск.
 
 ent-AbominationCube = кубик мерзости
-    .desc = Просто добавь крови!
+    .desc = Просто добавьте крови!
 
 ent-DehydratedSpaceCarp = обезвоженный космический карп
-    .desc = Выглядит как игрушечный плюшевый карп, но просто добавь воды, и он станет настоящим живым космическим карпом!
+    .desc = Выглядит как плюшевый карп, но стоит добавить воды, и он превратится в живого космического карпа!
 
 ent-SyndicateSponge = { ent-MonkeyCube }
     .desc = { ent-MonkeyCube.desc }
     .suffix = Синдикат
 
-ent-MopBucketCube = кубик ведра со шваброй
-    .desc = Просто добавь воды! А потом ещё воды!
+ent-MopBucketCube = кубик ведра для швабры
+    .desc = Просто добавьте воды! А потом ещё воды!

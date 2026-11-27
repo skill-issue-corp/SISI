@@ -1,15 +1,15 @@
-slime-action-latch-success = {$slime} присасывается к {$target}!
+slime-action-latch-success = {$slime} прицепляется к {$target}!
 
-slime-latch-attempt = {$slime} пытается присосаться к {$ent}!
+slime-latch-attempt = {$slime} пытается прицепиться к {$ent}!
 
-slime-latch-fail-target-dead = Вы не хотите поглощать {$ent} — оно мертво!
+slime-latch-fail-target-dead = Вы не хотите есть {$ent}: это мертвечина!
 
-slime-latch-fail-max-entities = Вы не можете поглотить {$ent}, вы сыты!
+slime-latch-fail-max-entities = Вы не можете съесть {$ent}: вы сыты!
 
-slime-examined-stomach = [color=red]Вы видите, как внутри что-то шевелится![/color]
+slime-examined-stomach = [color=red]Внутри что-то шевелится![/color]
 
-slime-examined-tamer = [color=green]Похоже, оно радо вас видеть![/color]
+slime-examined-tamer = [color=green]Похоже, он рад вас видеть![/color]
 
-slime-interaction-tame = Похоже, теперь вы ему нравитесь!
+slime-interaction-tame = Кажется, теперь вы ему нравитесь!
 
-slime-interaction-tame-fail = Похоже, вы ему не интересны.
+slime-interaction-tame-fail = Похоже, вы ему неинтересны.

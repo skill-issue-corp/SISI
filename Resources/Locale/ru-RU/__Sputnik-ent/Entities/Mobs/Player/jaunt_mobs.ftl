@@ -1,10 +1,10 @@
-ent-BaseMobJaunt = прыжок
-    .desc = Здесь сохранились слабые следы гуманоидной фигуры.
+ent-BaseMobJaunt = рывок
+    .desc = Здесь видны слабые очертания гуманоидной фигуры
     .suffix = Эфирный
 
-ent-EtherealJaunt = прыжок
-    .suffix = Волшебный
+ent-EtherealJaunt = рывок
     .desc = { ent-BaseMobJaunt.desc }
+    .suffix = Волшебник
 
 ent-DesynchronizedPocket = рассинхронизированный карман
     .desc = Карман в пространстве-времени, удерживающий пользователя на долю секунды в будущем.

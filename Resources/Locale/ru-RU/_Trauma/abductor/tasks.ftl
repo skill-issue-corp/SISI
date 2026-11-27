@@ -1,27 +1,27 @@
 # Special
 
-abductor-task-InstallGland = Заменить сердце субъекта нашей особой железой
+abductor-task-InstallGland = Заменить сердце подопытного нашей особой железой
 
 # Organs
 
-abductor-task-RemoveWings = Удалить крылья субъекта
-abductor-task-FixWings = Прикрепить субъекту новые крылья
-abductor-task-RemoveTail = Удалить хвост субъекта
-abductor-task-EndRacism = Прикрепить субъекту хвост рептилии 👽
-abductor-task-CyberEyes = Установить субъекту в череп кибернетические глаза
-abductor-task-InsertCavity = Спрятать что-то 👽 в грудной полости субъекта
+abductor-task-RemoveWings = Удалить крылья подопытного
+abductor-task-FixWings = Прикрепить подопытному новые крылья
+abductor-task-RemoveTail = Удалить хвост подопытного
+abductor-task-EndRacism = Прикрепить подопытному хвост унатха 👽
+abductor-task-CyberEyes = Установить кибернетические глаза в череп подопытного
+abductor-task-InsertCavity = Спрятать что-нибудь 👽 в грудной полости подопытного
 
 # Damage
 
-abductor-task-FullyHeal = Полностью излечить субъекта
-abductor-task-Beating = Нанести субъекту 30 тупого урона
-abductor-task-BurnMoth = Нанести пушистому субъекту 30 урона огнём 👽
+abductor-task-FullyHeal = Полностью вылечить подопытного
+abductor-task-Beating = Нанести подопытному 30 тупого урона
+abductor-task-BurnMoth = Нанести пушистому подопытному 30 урона ожогами 👽
 
 # Abuse
 
-abductor-task-RemoveArms = Отрезать субъекту руки
-abductor-task-RemoveLegs = Отрезать субъекту ноги
-abductor-task-RemoveTongue = Извлечь язык субъекта
-abductor-task-RemoveKidneys = Извлечь почки субъекта
-abductor-task-RemoveStomach = Извлечь желудок субъекта
-abductor-task-RemoveHair = Сделать субъекта лысым, как мы 👽👽, используя наш высокотехнологичный экстрактор 👽
+abductor-task-RemoveArms = Отсечь руки подопытного
+abductor-task-RemoveLegs = Отсечь ноги подопытного
+abductor-task-RemoveTongue = Извлечь язык подопытного
+abductor-task-RemoveKidneys = Извлечь почки подопытного
+abductor-task-RemoveStomach = Извлечь желудок подопытного
+abductor-task-RemoveHair = Сделать подопытного таким же лысым, как мы 👽👽, при помощи нашего высокотехнологичного ретрактора 👽

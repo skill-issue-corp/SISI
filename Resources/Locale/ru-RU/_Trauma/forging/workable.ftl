@@ -1,9 +1,9 @@
-workable-metal-popup-too-cold = Металл недостаточно горячий, чтобы его обрабатывать!
+workable-metal-popup-too-cold = Металл ещё не нагрелся до температуры ковки!
 
-workable-metal-examine = Выглядит {$workable ->
-    [true] достаточно горячим, чтобы придать форму ударами
-    *[false] так, будто нужно больше нагреть для обработки
+workable-metal-examine = Похоже, металл {$workable ->
+    [true] достаточно нагрелся для ковки
+    *[false] нужно нагреть сильнее
 }.
 
 workable-metal-overheat-popup = {$name} стал хрупким от перегрева!
-metal-melted-popup = {$name} расплавляется в шлак!
+metal-melted-popup = {$name} плавится, превращаясь в шлак!

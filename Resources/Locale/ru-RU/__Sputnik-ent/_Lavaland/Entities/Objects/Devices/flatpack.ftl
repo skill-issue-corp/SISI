@@ -1,2 +1,2 @@
-ent-GatewayFlatpackLavaland = упакованные врата на Лаваленд
-    .desc = { ent-BaseMob.desc }
+ent-GatewayFlatpackLavaland = упаковка врат в лаваленд
+    .desc = Упаковка, которая доставляет через блюспейс врата для путешествия в Лаваленд.

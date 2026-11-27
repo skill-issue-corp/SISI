@@ -1,1 +1,1 @@
-comp-light-replacer-recycle-progress = До новой лампы осталось { $num }%.
+comp-light-replacer-recycle-progress = Готовность новой лампы составляет {$num}%.

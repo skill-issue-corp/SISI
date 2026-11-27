@@ -6,4 +6,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 species-name-gingerbread = Пряник
-gingerbread-hurt-by-water-popup = Вода растапливает вас!
+gingerbread-hurt-by-water-popup = Вода растворяет часть вашего тела!

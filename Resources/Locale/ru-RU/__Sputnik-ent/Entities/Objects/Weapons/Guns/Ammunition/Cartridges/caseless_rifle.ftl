@@ -1,6 +1,8 @@
-ent-BaseCartridgeCaselessRifle = патрон (.25 винтовочный)
+ent-BaseCartridgeCaselessRifle = патрон (9.5мм)
     .desc = { ent-BaseCartridge.desc }
-ent-CartridgeCaselessRifle = патрон (.25 безгильзовый)
-    .desc = { ent-BaseCartridgeCaselessRifle.desc }
-ent-CartridgeCaselessRiflePractice = патрон (.25 безгильзовый учебный)
-    .desc = { ent-BaseCartridgeCaselessRifle.desc }
+
+ent-CartridgeCaselessRifle = патрон (9.5мм HP)
+    .desc = Малокалиберный безгильзовый патрон, в котором обычную латунную гильзу заменяет затвердевший метательный состав. Обычные кинетические патроны широко распространены и пригодны в большинстве ситуаций.
+
+ent-CartridgeCaselessRiflePractice = патрон (9.5мм учебные)
+    .desc = Малокалиберный безгильзовый патрон, в котором обычную латунную гильзу заменяет затвердевший метательный состав. Учебный патрон стреляет меловой пулей, которая жалит, но не причиняет серьёзного вреда.

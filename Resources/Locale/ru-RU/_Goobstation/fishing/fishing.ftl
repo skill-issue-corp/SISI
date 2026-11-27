@@ -1,5 +1,5 @@
-fishing-rod-remove-lure = { $ent } наматывает леску
-fishing-progress-success = Вам удалось что-то вытащить!
-fishing-progress-fail = Не удалось поймать...
-fishing-progress-lost-rod = Вы потеряли контроль над { $ent }!
-fishing-progress-start = Вы чувствуете, как что-то тянет леску!
+fishing-rod-remove-lure = Леска у { $ent } сматывается
+fishing-progress-success = Вы что-то выуживаете!
+fishing-progress-fail = Не удалось подсечь...
+fishing-progress-lost-rod = Вы упустили { $ent }!
+fishing-progress-start = Вы чувствуете, как что-то цепляется за приманку!

@@ -1,38 +1,56 @@
 ent-BaseSurgeryOpenXenoCavity = { ent-SurgeryOpenCavityBase }
     .desc = { ent-SurgeryOpenCavityBase.desc }
-ent-SurgeryOpenXenoCavityHiveNode = Открыть полость узла улья
+
+ent-SurgeryOpenXenoCavityHiveNode = Вскрытие Полости для Узла Улья
     .desc = { ent-BaseSurgeryOpenXenoCavity.desc }
-ent-SurgeryOpenXenoCavityResinSpinner = Открыть полость cмоляного прядильщика
+
+ent-SurgeryOpenXenoCavityResinSpinner = Вскрытие Полости для Железы Смолы
     .desc = { ent-BaseSurgeryOpenXenoCavity.desc }
-ent-SurgeryOpenXenoCavityNeurotoxinGland = Открыть полость нейротоксиновой железы
+
+ent-SurgeryOpenXenoCavityNeurotoxinGland = Вскрытие Полости для Железы Нейротоксина
     .desc = { ent-BaseSurgeryOpenXenoCavity.desc }
-ent-SurgeryOpenXenoCavityAcidGland = Открыть полость кислотной железы
+
+ent-SurgeryOpenXenoCavityAcidGland = Вскрытие Полости для Кислотной Железы
     .desc = { ent-BaseSurgeryOpenXenoCavity.desc }
-ent-SurgeryOpenXenoCavityPlasmaVessel = Открыть полость сосуда с плазмой
+
+ent-SurgeryOpenXenoCavityPlasmaVessel = Вскрытие Полости для Плазменного Сосуда
     .desc = { ent-BaseSurgeryOpenXenoCavity.desc }
-ent-SurgeryOpenXenoCavityEggSack = Открыть полость мешка для яиц
+
+ent-SurgeryOpenXenoCavityEggSack = Вскрытие Полости для Яйцевого Мешка
     .desc = { ent-BaseSurgeryOpenXenoCavity.desc }
-ent-SurgeryInsertHiveNode = Пересадить узел улья
+
+ent-SurgeryInsertHiveNode = Пересадка Узла Улья
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-ent-SurgeryInsertResinSpinner = Пересадить смолокрут
+
+ent-SurgeryInsertResinSpinner = Пересадка Железы Смолы
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-ent-SurgeryInsertNeurotoxinGland = Пересадить нейротоксиновую железу
+
+ent-SurgeryInsertNeurotoxinGland = Пересадка Железы Нейротоксина
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-ent-SurgeryInsertAcidGland = Пересадить кислотную железу
+
+ent-SurgeryInsertAcidGland = Пересадка Кислотной Железы
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-ent-SurgeryInsertPlasmaVessel = Пересадить сосуд с плазмой
+
+ent-SurgeryInsertPlasmaVessel = Пересадка Плазменного Сосуда
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-ent-SurgeryInsertEggSack = Пересадить мешок для яиц
+
+ent-SurgeryInsertEggSack = Пересадка Яйцевого Мешка
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
-ent-SurgeryRemoveHiveNode = Удалить пересаженный узел улья
+
+ent-SurgeryRemoveHiveNode = Извлечение Пересаженного Узла Улья
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-ent-SurgeryRemoveResinSpinner = Удалить пересаженный cмоляной прядильщик
+
+ent-SurgeryRemoveResinSpinner = Извлечение Пересаженной Железы Смолы
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-ent-SurgeryRemoveNeurotoxinGland = Удалить пересаженную нейротоксиновую железу
+
+ent-SurgeryRemoveNeurotoxinGland = Извлечение Пересаженной Железы Нейротоксина
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-ent-SurgeryRemoveAcidGland = Удалить пересаженную кислотную железу
+
+ent-SurgeryRemoveAcidGland = Извлечение Пересаженной Кислотной Железы
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-ent-SurgeryRemovePlasmaVessel = Удалить пересаженный сосуд с плазмой
+
+ent-SurgeryRemovePlasmaVessel = Извлечение Пересаженного Плазменного Сосуда
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
-ent-SurgeryRemoveEggSack = Удалить пересаженный мешок для яиц
+
+ent-SurgeryRemoveEggSack = Извлечение Пересаженного Яйцевого Мешка
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }

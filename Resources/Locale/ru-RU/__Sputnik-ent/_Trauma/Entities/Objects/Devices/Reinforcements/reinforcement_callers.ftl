@@ -1,14 +1,14 @@
-ent-BaseReinforcementCaller = вызыватель подкрепления
-    .desc = Устройство, вызывающее подкрепление для станции.
+ent-BaseReinforcementCaller = устройство вызова подкрепления
+    .desc = Устройство, вызывающее подкрепление на станцию.
 
 ent-ReinforcementCallerHos = { ent-BaseReinforcementCaller }
     .desc = { ent-BaseReinforcementCaller.desc }
-    .suffix = Глава службы безопасности
+    .suffix = ГСБ
 
 ent-ReinforcementCallerHoP = { ent-BaseReinforcementCaller }
     .desc = { ent-BaseReinforcementCaller.desc }
-    .suffix = Глава персонала
+    .suffix = ГП
 
 ent-DebugReinforcementCaller = { ent-BaseReinforcementCaller }
     .desc = { ent-BaseReinforcementCaller.desc }
-    .suffix = Debug
+    .suffix = DEBUG

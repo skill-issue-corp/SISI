@@ -1,189 +1,189 @@
-ent-ClothingHeadEnvirohelm = фороновый экошлем скафандра
-    .desc = Специальный герметичный шлем, позволяющий фороновым формам жизни безопасно существовать в среде с кислородом.
+ent-ClothingHeadEnvirohelm = фороновый экошлем
+    .desc = Особый герметичный шлем, в котором фороновые формы жизни могут безопасно находиться в кислородной среде.
 
 ent-ClothingHeadEnvirohelmEmpty = { ent-ClothingHeadEnvirohelm }
-    .suffix = Пустой
     .desc = { ent-ClothingHeadEnvirohelm.desc }
+    .suffix = Пусто
 
 ent-ClothingHeadEnvirohelmAtmos = экошлем атмосферного техника
-    .desc = Космический шлем, специально разработанный для атмосферных техников-плазмалюдей, обычные фиолетовые полосы заменены синими атмосферными.
+    .desc = Космопригодный шлем для Плазмаменов, работающих атмосферными техниками. Вместо обычных фиолетовых полос у него синие, как у атмосферных техников.
 
 ent-ClothingHeadEnvirohelmCargo = экошлем грузчика
-    .desc = Экошлем плазмалюда, предназначенный для грузчиков.
+    .desc = Экошлем для Плазмаменов, работающих грузчиками.
 
 ent-ClothingHeadEnvirohelmCaptain = экошлем капитана
-    .desc = Специальный герметичный шлем, предназначенный для капитана.
+    .desc = Особый герметичный шлем для Капитана.
 
 ent-ClothingHeadEnvirohelmChiefEngineer = экошлем старшего инженера
-    .desc = Специальный герметичный шлем для главного инженера, обычные фиолетовые полосы заменены зелёными.
+    .desc = Особый герметичный шлем для Старшего Инженера. Вместо обычных фиолетовых полос у него зелёные, как положено старшему инженеру.
 
 ent-ClothingHeadEnvirohelmChaplain = экошлем священника
-    .desc = Экошлем, специально предназначенный для самых набожных плазмалюдей.
+    .desc = Экошлем, разработанный исключительно для самых набожных Плазмаменов.
 
 ent-ClothingHeadEnvirohelmDetective = экошлем детектива
-    .desc = Специальный герметичный шлем для детективов, защищающий от ожогов и других неприятностей.
+    .desc = Особый герметичный шлем для детективов. Защищает их от сгорания заживо и прочих неприятностей.
 
 ent-ClothingHeadEnvirohelmChemist = экошлем химика
-    .desc = Экошлем плазмалюда для химиков, с двумя оранжевыми полосами на лице.
+    .desc = Шлем экокостюма для Плазмаменов-химиков. Спереди у него две оранжевые полосы.
 
 ent-ClothingHeadEnvirohelmClown = экошлем клоуна
-    .desc = Макияж нарисован, чудо, что он не осыпается. HONK!
+    .desc = Грим нарисован прямо на шлеме, чудом не облупился. ХОНК!
 
 ent-ClothingHeadEnvirohelmCMO = экошлем главного врача
-    .desc = Специальный герметичный шлем для главного врача. Золотая полоса отличает его от других медработников.
+    .desc = Особый герметичный шлем для Главного Врача. Золотая полоса отличает его от других медработников.
 
 ent-ClothingHeadEnvirohelmEngineering = экошлем инженера
-    .desc = Космический шлем, специально разработанный для инженеров-плазмалюдей, обычные фиолетовые полосы заменены оранжевыми.
+    .desc = Космопригодный шлем для Плазмаменов-инженеров. Вместо обычных фиолетовых полос у него оранжевые, как у инженеров.
 
 ent-ClothingHeadEnvirohelmHoP = экошлем главы персонала
-    .desc = Специальный герметичный шлем для главы персонала.
+    .desc = Особый герметичный шлем для Главы Персонала.
 
-ent-ClothingHeadEnvirohelmHoS = экошлем ГСБ
-    .desc = Специальный герметичный шлем для главы службы безопасности. Пара золотых полос отличает его от остальных сотрудников безопасности.
+ent-ClothingHeadEnvirohelmHoS = экошлем главы службы безопасности
+    .desc = Особый герметичный шлем для Главы Службы Безопасности. Пара золотых полос отличает его от других сотрудников службы безопасности.
 
 ent-ClothingHeadEnvirohelmHydroponics = экошлем ботаника
-    .desc = Зелёно-голубой экошлем, обозначающий носителя как ботаника.
+    .desc = Зелёно-синий экошлем, по которому можно узнать ботаника.
 
 ent-ClothingHeadEnvirohelmJanitor = экошлем уборщика
-    .desc = Серый шлем с парой фиолетовых полос, обозначающих уборщика.
+    .desc = Серый шлем с парой фиолетовых полос, по которому можно узнать уборщика.
 
-ent-ClothingHeadEnvirohelmAncientVoid = NTSRA экошлем
-    .desc = Из модифицированного костюма NTSRA, первый экошлем для плазмалюдей, разработанный Nanotrasen.
+ent-ClothingHeadEnvirohelmAncientVoid = экошлем NTSRA
+    .desc = Этот шлем переделан из скафандра NTSRA и стал первым экошлемом, разработанным NanoTrasen для Плазмаменов.
 
-ent-ClothingHeadEnvirohelmMedicalDoctor = экошлем врача
-    .desc = Экошлем для медицинского персонала-плазмалюдей, с двумя полосами, обозначающими это.
+ent-ClothingHeadEnvirohelmMedicalDoctor = экошлем медика
+    .desc = Экошлем для Медицинского персонала из числа Плазмаменов. Принадлежность к отделу обозначена двумя продольными полосами.
 
 ent-ClothingHeadEnvirohelmGenitcs = экошлем генетика
-    .desc = Экошлем плазмалюда для генетиков.
+    .desc = Экошлем для Плазмаменов-генетиков.
 
 ent-ClothingHeadEnvirohelmMime = экошлем мима
-    .desc = Макияж нарисован, чудо, что он не осыпается. Не слишком красочный.
+    .desc = Грим нарисован прямо на шлеме, чудом не облупился. Он не очень яркий.
 
 ent-ClothingHeadEnvirohelmParamedic = экошлем парамедика
-    .desc = Экошлем для парамедиков-плазмалюдей, с тёмно-синими полосами по сравнению с медицинским.
+    .desc = Экошлем для Плазмаменов-парамедиков, с более тёмными синими полосами, чем у медицинской модели.
 
 ent-ClothingHeadEnvirohelmPrisoner = экошлем заключённого
-    .desc = Герметичный шлем плазмалюда для заключённых.
+    .desc = Герметичный шлем для Плазмаменов-заключённых.
 
 ent-ClothingHeadEnvirohelmResearchDirector = экошлем научного руководителя
-    .desc = Специальный герметичный шлем для научного руководителя. Светло-коричневый дизайн отличает его от других учёных.
+    .desc = Особый герметичный шлем для Научного Руководителя. Светло-коричневый узор отличает его от других учёных.
 
 ent-ClothingHeadEnvirohelmRoboticist = экошлем робототехника
-    .desc = Экошлем плазмалюда для робототехников.
+    .desc = Экошлем для Плазмаменов-робототехников.
 
 ent-ClothingHeadEnvirohelmSalvage = экошлем утилизатора
-    .desc = Хаки-шлем для плазмалюдей, работающих на утилизации.
+    .desc = Шлем цвета хаки, который выдают Плазмаменам-утилизаторам.
 
 ent-ClothingHeadEnvirohelmScientist = экошлем учёного
-    .desc = Экошлем плазмалюда для учёных.
+    .desc = Экошлем для Плазмаменов-учёных.
 
-ent-ClothingHeadEnvirohelmSec = экошлем СБ
-    .desc = Герметичный шлем плазмалюда для офицеров безопасности, защищающий от ожогов и других неприятностей.
+ent-ClothingHeadEnvirohelmSec = экошлем офицера службы безопасности
+    .desc = Герметичный шлем для Плазмаменов из службы безопасности. Защищает их от сгорания заживо и прочих неприятностей.
 
-ent-ClothingHeadEnvirohelmSecBlue = синий экошлем СБ
-    .desc = Голубой экошлем для службы безопасности плазмалюдей.
+ent-ClothingHeadEnvirohelmSecBlue = синий экошлем службы безопасности
+    .desc = Стильный синий экошлем для Плазмаменов из Службы Безопасности.
 
-ent-ClothingHeadEnvirohelmSecGrey = серый экошлем СБ
-    .desc = Светло-серый экошлем с ярко-красными акцентами для службы безопасности плазмалюдей.
+ent-ClothingHeadEnvirohelmSecGrey = серый экошлем службы безопасности
+    .desc = Светло-серый экошлем с ярко-красными вставками для Плазмаменов из Службы Безопасности.
 
 ent-ClothingHeadEnvirohelmVirology = экошлем вирусолога
-    .desc = Шлем, носимый самыми безопасными людьми на станции, полностью невосприимчивыми к создаваемым ими монстрам.
+    .desc = Шлем самых защищённых людей на станции, совершенно невосприимчивых к мерзостям собственного изготовления.
 
 ent-ClothingHeadEnvirohelmWarden = экошлем смотрителя
-    .desc = Герметичный шлем плазмалюда для смотрителя. Добавлена пара белых полос, чтобы отличать от других сотрудников безопасности.
+    .desc = Герметичный шлем для Плазмамена-смотрителя. Пара белых полос отличает его от других сотрудников службы безопасности.
 
 ent-ClothingHeadEnvirohelmOperative = экошлем оперативника
-    .desc = Любой, кто носит этот шлем, крут и заслуживает хотя бы кивка уважения.
+    .desc = Тот, кто это носит, крут и заслуживает хотя бы беглого уважительного кивка.
 
 ent-ClothingHeadEnvirohelmTacticool = тактикульный экошлем
-    .desc = Нет сомнений, этот шлем ставит вас выше всех других плазмалюдей.
+    .desc = Без сомнения, этот шлем ставит вас выше ВСЕХ остальных Плазмаменов.
 
 ent-ClothingHeadEnvirohelmCentcomAgent = экошлем агента ЦК
-    .desc = Специальный герметичный шлем для юридического отделения ЦК. Чтобы пролившийся кофе не убил беднягу.
+    .desc = Особый герметичный шлем для юридического отдела ЦК. Ну, чтобы бедолагу не прикончила пролитая чашка кофе.
 
 ent-ClothingHeadEnvirohelmCentcomOfficial = экошлем представителя ЦК
-    .desc = Специальный герметичный шлем для сотрудников Центрального Командования. Они явно любят зелёный.
+    .desc = Особый герметичный шлем для Сотрудников ЦК. Вот уж кто любит зелёный.
 
 ent-ClothingHeadEnvirohelmCentcomOfficer = экошлем офицера ЦК
-    .desc = Специальный герметичный шлем для офицеров Центрального Командования.
+    .desc = Особый герметичный шлем для Офицеров ЦК.
 
-ent-ClothingHeadEnvirohelmCourier = экошлем курьерский
+ent-ClothingHeadEnvirohelmCourier = экошлем курьера
     .desc = Экошлем для курьера.
 
 ent-ClothingHeadEnvirohelmMailCarrier = экошлем почтальона
-    .desc = Пахнет хорошей пенсией.
+    .desc = Пахнет достойной пенсией.
 
 ent-ClothingHeadEnvirohelmMusician = экошлем музыканта
-    .desc = Эксперты удивлены, как плазмалюди всё ещё могут играть на трубе в этом шлеме.
+    .desc = Эксперты недоумевают, как Плазмамены умудряются играть на трубе в этом шлеме.
 
 ent-ClothingHeadEnvirohelmReporter = экошлем репортёра
     .desc = Экошлем для репортёра.
 
-ent-ClothingHeadEnvirohelmGladiator = гладиаторский экошлем
+ent-ClothingHeadEnvirohelmGladiator = экошлем гладиатора
     .desc = Защищает голову от игрушечных копий и ядовитого кислорода.
 
 ent-ClothingHeadEnvirohelmMantis = экошлем мантиса
-    .desc = Экошлем для судебного мантиса с красивой золотой полосой.
+    .desc = Экошлем для мантиса-криминалиста с изящной золотой полосой.
 
-ent-ClothingHeadEnvirohelmSafari = сафари экошлем
-    .desc = Делает вас целью для местных.
+ent-ClothingHeadEnvirohelmSafari = экошлем для сафари
+    .desc = Делает вас мишенью для местных.
 
-ent-ClothingHeadEnvirohelmMartialGi = боевой экошлем
-    .desc = Белый экошлем с чёрными полосами для боевых искусств.
+ent-ClothingHeadEnvirohelmMartialGi = экошлем для кэйкоги
+    .desc = Белый экошлем с чёрными полосами для занятий боевыми искусствами.
 
 ent-ClothingHeadEnvirohelmQM = экошлем квартирмейстера
-    .desc = Специальный герметичный шлем для офицера логистики.
+    .desc = Особый герметичный шлем для Квартирмейстера.
 
-ent-ClothingHeadEnvirohelmBoxing = экошлем боксёра
+ent-ClothingHeadEnvirohelmBoxing = боксёрский экошлем
     .desc = Белый экошлем с красными полосами.
 
 ent-ClothingHeadEnvirohelmAdminAssistant = экошлем административного ассистента
     .desc = Белый экошлем с тёмно-синими полосами.
 
-ent-ClothingHeadEnvirohelmBlackPink = черно-розовый экошлем
-    .desc = Ты педовка?
+ent-ClothingHeadEnvirohelmBlackPink = чёрно-розовый экошлем
+    .desc = Ну как вам этот экошлем?
 
-ent-ClothingHeadEnvirohelmBlackPinkAlt = черно-розовый экошлем
-    .desc = Этот экошлем заставляет вас сжечь сентябрь.
+ent-ClothingHeadEnvirohelmBlackPinkAlt = чёрно-розовый экошлем
+    .desc = В этом экошлеме так и хочется убить эту любовь.
     .suffix = Альтернативный
 
-ent-ClothingHeadEnvirohelmTrans = трансильванский экошлем
-    .desc = Предпочтительная защита головы Плазмалюдов из Трансильвании, предотвращающая ожоги от кислорода.
+ent-ClothingHeadEnvirohelmTrans = транс-экошлем
+    .desc = Любимый головной убор Трансильванских Плазмаменов для защиты от возгорания на кислороде.
 
-ent-ClothingHeadEnvirohelmPrisonGuard = экошлем охранника тюрьмы
-    .desc = Надеемся, заключённый не отберёт его у вас!
+ent-ClothingHeadEnvirohelmPrisonGuard = экошлем тюремного охранника
+    .desc = Остаётся надеяться, что заключённый не выхватит его у вас!
 
-ent-ClothingHeadEnvirohelmBrigmedic = экошлем бригмедика
-    .desc = Экошлем, предоставляемый Плазмалюдам-медикам Корпуса.
+ent-ClothingHeadEnvirohelmBrigmedic = экошлем санитара
+    .desc = Шлем, который выдают Плазмаменам-Санитарам.
 
 ent-ClothingHeadEnvirohelmNanotrasenRepresentative = экошлем представителя NanoTrasen
-    .desc = Чёрный экошлем для представителя Nanotrasen с чёрными и золотыми акцентами.
+    .desc = Чёрный экошлем Представителя NanoTrasen с чёрными и золотыми вставками.
 
 ent-ClothingHeadEnvirohelmMagistrate = экошлем магистрата
-    .desc = Белый экошлем с жёлтыми полосами.
+    .desc = Простой белый экокостюм с жёлтыми полосами.
 
 ent-ClothingHeadEnvirohelmColorWhite = белый экошлем
-    .desc = Универсальный белый экошлем.
+    .desc = Обычный белый экошлем.
 
 ent-ClothingHeadEnvirohelmColorGrey = серый экошлем
     .desc = Серый экошлем.
 
-ent-ClothingHeadEnvirohelmColorBlack = черный экошлем
+ent-ClothingHeadEnvirohelmColorBlack = чёрный экошлем
     .desc = Чёрный экошлем.
 
 ent-ClothingHeadEnvirohelmColorRed = красный экошлем
     .desc = Красный экошлем.
 
-ent-ClothingHeadEnvirohelmColorGreen = зеленый экошлем
+ent-ClothingHeadEnvirohelmColorGreen = зелёный экошлем
     .desc = Зелёный экошлем.
 
-ent-ClothingHeadEnvirohelmColorDarkGreen = темно-зеленый экошлем
+ent-ClothingHeadEnvirohelmColorDarkGreen = тёмно-зелёный экошлем
     .desc = Тёмно-зелёный экошлем.
 
 ent-ClothingHeadEnvirohelmColorBlue = синий экошлем
     .desc = Синий экошлем.
 
-ent-ClothingHeadEnvirohelmColorDarkBlue = темно-синий экошлем
+ent-ClothingHeadEnvirohelmColorDarkBlue = тёмно-синий экошлем
     .desc = Тёмно-синий экошлем.
 
 ent-ClothingHeadEnvirohelmColorTeal = бирюзовый экошлем
@@ -193,9 +193,9 @@ ent-ClothingHeadEnvirohelmColorMaroon = бордовый экошлем
     .desc = Бордовый экошлем.
 
 ent-ClothingHeadEnvirohelmColorPink = розовый экошлем
-    .desc = Розовый экошлем. Стильно!
+    .desc = Розовый экошлем. Отвал башки!
 
-ent-ClothingHeadEnvirohelmColorYellow = желтый экошлем
+ent-ClothingHeadEnvirohelmColorYellow = жёлтый экошлем
     .desc = Жёлтый экошлем.
 
 ent-ClothingHeadEnvirohelmColorPurple = фиолетовый экошлем
@@ -207,24 +207,24 @@ ent-ClothingHeadEnvirohelmColorOrange = оранжевый экошлем
 ent-ClothingHeadEnvirohelmColorLightBrown = светло-коричневый экошлем
     .desc = Светло-коричневый экошлем.
 
-ent-ClothingHeadEnvirohelmColorBrown = коричневый
+ent-ClothingHeadEnvirohelmColorBrown = коричневый экошлем
     .desc = Коричневый экошлем.
 
-ent-ClothingHeadEnvirohelmEnviroslacksColorRed = красный стильный экошлем
-    .desc = Личный проект особенно изысканного Плазмалюда, экошлем с красными акцентами. Шикарно!
+ent-ClothingHeadEnvirohelmEnviroslacksColorRed = экошлем для экобрюк с красными вставками
+    .desc = Любимый проект одного особенно щеголеватого Плазмамена. У этого экошлема красные вставки. Шикарно!
 
-ent-ClothingHeadEnvirohelmEnviroslacksColorOrange = оранжевый стильный экошлем
-    .desc = Личный проект особенно изысканного Плазмалюда, экошлем с оранжевыми акцентами. Энергично!
+ent-ClothingHeadEnvirohelmEnviroslacksColorOrange = экошлем для экобрюк с оранжевыми вставками
+    .desc = Любимый проект одного особенно щеголеватого Плазмамена. У этого экошлема оранжевые вставки. Сочно!
 
-ent-ClothingHeadEnvirohelmEnviroslacksColorGreen = зеленый стильный экошлем
-    .desc = Личный проект особенно изысканного Плазмалюда, экошлем с зелёными акцентами. Листья!
+ent-ClothingHeadEnvirohelmEnviroslacksColorGreen = экошлем для экобрюк с зелёными вставками
+    .desc = Любимый проект одного особенно щеголеватого Плазмамена. У этого экошлема зелёные вставки. Лиственно!
 
-ent-ClothingHeadEnvirohelmEnviroslacksColorBlue = синий стильный экошлем
-    .desc = Личный проект особенно изысканного Плазмалюда, экошлем с синими акцентами. Круто!
+ent-ClothingHeadEnvirohelmEnviroslacksColorBlue = экошлем для экобрюк с синими вставками
+    .desc = Любимый проект одного особенно щеголеватого Плазмамена. У этого экошлема синие вставки. Круто!
 
-ent-ClothingHeadEnvirohelmEnviroslacksMNK = экошлем MNK
-    .desc = Элегантный экошлем от MNK. Классика!
+ent-ClothingHeadEnvirohelmEnviroslacksMNK = экошлем для экобрюк MNK
+    .desc = Изящный экошлем от MNK. Классика!
 
-ent-ClothingHeadEnvirohelmEnviroslacksMNKAlt = монохромный экошлем
-    .desc = Элегантный экошлем от MNK. Нуар!
+ent-ClothingHeadEnvirohelmEnviroslacksMNKAlt = монохромный экошлем для экобрюк
+    .desc = Изящный экошлем от MNK. Нуар!
     .suffix = Альтернативный

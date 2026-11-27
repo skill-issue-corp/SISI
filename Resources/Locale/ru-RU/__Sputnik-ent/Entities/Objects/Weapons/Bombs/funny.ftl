@@ -1,10 +1,17 @@
 ent-HotPotato = горячая картошка
-    .desc = После активации вы не сможете бросить эту бомбу с часовым механизмом — ударьте ею кого-нибудь другого, чтобы спасти себя! Не обожгите руки!
+    .desc = После активации эту бомбу с таймером уже не бросить - ударьте ею кого-нибудь, чтобы спастись! Берегите руки!
+
 ent-HotPotatoEffect = { "" }
     .desc = { "" }
-ent-TrashBananaPeelExplosive = банановая кожура
-    .suffix = Взрывчатка
+
+ent-TrashBananaPeelExplosive = { ent-TrashBananaPeel }
     .desc = { ent-TrashBananaPeel.desc }
+    .suffix = Взрывная
+
 ent-TrashBananaPeelExplosiveUnarmed = банан
-    .desc = Что-то в этом банане не так.
-    .suffix = Не активирован
+    .desc = С этим бананом что-то не так.
+    .suffix = Не взведена
+
+ent-SnapPopExplosive = { ent-SnapPop }
+    .desc = { ent-SnapPop.desc }
+    .suffix = взрывная

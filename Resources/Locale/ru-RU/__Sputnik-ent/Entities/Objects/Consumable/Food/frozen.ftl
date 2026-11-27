@@ -1,36 +1,53 @@
-ent-FoodFrozenBase = { ent-FoodInjectableBase }
-    .desc = { ent-FoodInjectableBase.desc }
-ent-FoodFrozenSandwich = мороженое-сэндвич
-    .desc = Мороженое в собственной упаковке.
-ent-FoodFrozenSandwichStrawberry = клубничное мороженое-сэндвич
-    .desc = Мороженое в собственной упаковке с клубничным вкусом.
-ent-FoodFrozenFreezy = космическая заморозка
+ent-FoodFrozenBase = { ent-SolutionVeryTiny }
+    .desc = { ent-SolutionVeryTiny.desc }
+
+ent-FoodFrozenSandwich = сэндвич с мороженым
+    .desc = Мороженое, которое удобно носить с собой, в собственной упаковке.
+
+ent-FoodFrozenSandwichStrawberry = сэндвич с клубничным мороженым
+    .desc = Клубничное мороженое, которое удобно носить с собой, в собственной упаковке.
+
+ent-FoodFrozenFreezy = космофризи
     .desc = Лучшее мороженое в космосе.
-ent-FoodFrozenSundae = мороженое сандей
+
+ent-FoodFrozenSundae = сандей
     .desc = Классический десерт.
+
 ent-FoodFrozenCornuto = корнуто
-    .desc = Рожок неаполитанского мороженого с ванилью и шоколадом. Украшается посыпкой из карамелизированных орехов.
-ent-FoodFrozenPopsicleOrange = апельсиново-сливочное мороженое
-    .desc = Классическое апельсиново-сливочное мороженое. Замороженное солнечное лакомство.
-ent-FoodFrozenPopsicleBerry = ягодно-сливочное мороженое
-    .desc = Яркое ягодно-сливочное мороженое. Замороженное ягодное лакомство.
-ent-FoodFrozenPopsicleJumbo = мороженое-джамбо
-    .desc = Роскошное мороженое, обильно покрытое шоколадом. Оно меньше, чем вы помните.
-ent-FoodFrozenSnowconeBase = сладкий снежный конус
-    .desc = Это всего лишь толчёный лёд и простой сироп, минимум усилий.
-ent-FoodFrozenSnowcone = безвкусный снежный конус
-    .desc = Это всего лишь толчёный лёд. Но его всё равно весело грызть.
-ent-FoodFrozenSnowconeBerry = ягодный снежный конус
-    .desc = Ягодный сироп, вылитый на снежок в бумажном стаканчике.
-ent-FoodFrozenSnowconeFruit = фруктовый снежный конус
-    .desc = Восхитительная смесь цитрусовых сиропов, вылитая на снежок в бумажном стаканчике.
-ent-FoodFrozenSnowconeClown = клоунконус
-    .desc = Смех, покрошенный на снежок в бумажном стаканчике.
-ent-FoodFrozenSnowconeMime = мимский снежный конус
+    .desc = Неаполитанский рожок с ванильным и шоколадным мороженым. Угрожающе посыпан орехами в карамели.
+
+ent-FoodFrozenPopsicleOrange = апельсиновое эскимо
+    .desc = Классическое апельсиновое эскимо. Солнечное замороженное лакомство.
+
+ent-FoodFrozenPopsicleBerry = ягодное эскимо
+    .desc = Яркое ягодное эскимо. Ягодно хорошее замороженное лакомство.
+
+ent-FoodFrozenPopsicleJumbo = джамбо-мороженое
+    .desc = Роскошное мороженое в густом шоколаде. Оно меньше, чем вы помните.
+
+ent-FoodFrozenSnowconeBase = сладкий снежный рожок
+    .desc = Просто ледяная крошка с сахарным сиропом. Минимум усилий.
+
+ent-FoodFrozenSnowcone = снежный рожок без вкуса
+    .desc = Просто ледяная крошка. Всё равно приятно похрустеть.
+
+ent-FoodFrozenSnowconeBerry = ягодный снежный рожок
+    .desc = Снежок в бумажном стаканчике, политый ягодным сиропом.
+
+ent-FoodFrozenSnowconeFruit = снежный рожок «фруктовый салат»
+    .desc = Снежок в бумажном стаканчике, политый чудесной смесью цитрусовых сиропов.
+
+ent-FoodFrozenSnowconeClown = клоунский рожок
+    .desc = Снежок в бумажном стаканчике, политый смехом.
+
+ent-FoodFrozenSnowconeMime = снежный рожок мима
     .desc = ...
-ent-FoodFrozenSnowconeRainbow = радужный снежный конус
-    .desc = Разноцветный снежок в бумажном стаканчике.
-ent-FoodFrozenSnowconeTrash = бумажный конус
-    .desc = Мятый бумажный конус, используемый для ледяных лакомств. Бесполезен.
-ent-FoodFrozenPopsicleTrash = палочка для мороженого
-    .desc = Когда-то на нём хранилось вкусное угощение. Теперь он пуст.
+
+ent-FoodFrozenSnowconeRainbow = радужный снежный рожок
+    .desc = Очень яркий снежок в бумажном стаканчике.
+
+ent-FoodFrozenSnowconeTrash = бумажный рожок
+    .desc = Смятый бумажный рожок из-под ледяного лакомства. Ничего не стоит.
+
+ent-FoodFrozenPopsicleTrash = палочка от мороженого
+    .desc = Когда-то держала вкусное лакомство. Ныне - пуста.

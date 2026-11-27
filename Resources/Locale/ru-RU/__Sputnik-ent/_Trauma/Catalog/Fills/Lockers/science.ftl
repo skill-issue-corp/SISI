@@ -1,7 +1,7 @@
 ent-LockerRoboticsFilled = { ent-LockerRoboticist }
     .desc = { ent-LockerRoboticist.desc }
-    .suffix = Заполненный
+    .suffix = Заполнено
 
 ent-LockerGeneticistFilled = { ent-LockerGeneticist }
     .desc = { ent-LockerGeneticist.desc }
-    .suffix = Заполненный
+    .suffix = Заполнено

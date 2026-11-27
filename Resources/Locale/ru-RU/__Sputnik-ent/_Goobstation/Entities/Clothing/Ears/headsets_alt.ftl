@@ -1,21 +1,27 @@
 ent-ClothingHeadsetAltLoudspeaker = { ent-ClothingHeadsetAlt }
     .desc = { ent-ClothingHeadsetAlt.desc }
-ent-ClothingHeadsetAltSyndicateCommander = кроваво-красная полноразмерная гарнитура
+
+ent-ClothingHeadsetAltSyndicateCommander = кроваво-красная полноразмерная гарнитура командира
     .desc = { ent-ClothingHeadsetAltSyndicate.desc }
-ent-ClothingHeadsetChronolegioneer = полноразмерная футуристическая гарнитура
-    .desc = Гарнитура из будущего, способная принимать большинство частот станции.
+
+ent-ClothingHeadsetChronolegioneer = футуристичная полноразмерная гарнитура
+    .desc = Гарнитура из будущего, способная принимать большинство станционных частот.
+
 ent-ClothingHeadsetChronolegioneerUnremoveable = { ent-ClothingHeadsetChronolegioneer }
-    .suffix = Не снимаются
     .desc = { ent-ClothingHeadsetChronolegioneer.desc }
+    .suffix = Несъёмный
+
 ent-ClothingHeadsetAltWarden = полноразмерная гарнитура смотрителя
-    .desc = Модифицированный модульный интерком, позволяющий быстро связываться с командным составом.
-ent-ClothingHeadsetDeathsquad = полноразмерная гарнитура Эскадрона Смерти
+    .desc = Усовершенствованная модульная гарнитура для быстрой связи с командованием.
+
+ent-ClothingHeadsetDeathsquad = полноразмерная гарнитура эскадрона смерти
     .desc = { ent-ClothingHeadsetAlt.desc }
+
 ent-ClothingHeadsetAltSecurityRegular = полноразмерная гарнитура службы безопасности
     .desc = { ent-ClothingHeadsetAlt.desc }
-ent-ClothingHeadsetAltBlueshield = полноразмерная гарнитура офицера "Синий Щит"
-    .desc = { ent-ClothingHeadsetAlt.desc }
-ent-ClothingHeadsetCommandService = полноразмерная гарнитура сервиса
-    .desc = Гарнитура с командный и сервисным каналом.
-ent-ClothingHeadsetAltRadioHost = наушники радиоведущего
-    .desc = Накладные наушники с дополнительной поролоновой подкладкой вокруг ушей.
+
+ent-ClothingHeadsetCommandService = командно-сервисная гарнитура
+    .desc = Гарнитура с каналами командования и сервиса.
+
+ent-ClothingHeadsetAltRadioHost = полноразмерная гарнитура радиоведущего
+    .desc = Полноразмерная гарнитура с дополнительными поролоновыми накладками вокруг ушей.

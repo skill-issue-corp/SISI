@@ -12,7 +12,7 @@ cosmiccolossus-titles-dataset-3 = Колоссальный
 cosmiccolossus-titles-lone-dataset-1 = Геркулесов
 cosmiccolossus-titles-lone-dataset-2 = Мифический
 cosmiccolossus-titles-lone-dataset-3 = Апокрифический
-cosmiccolossus-titles-lone-dataset-4 = Гигантский
+cosmiccolossus-titles-lone-dataset-4 = Исполинский
 cosmiccolossus-titles-lone-dataset-5 = Монументальный
 
 name-format-colossus = {$part0}, {$part1}

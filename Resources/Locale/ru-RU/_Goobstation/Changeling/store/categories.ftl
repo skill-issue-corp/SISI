@@ -6,5 +6,5 @@
 
 # Changeling
 store-ling-category-combat = Бой
-store-ling-category-sting = Укусы
-store-ling-category-utility = Примочки
+store-ling-category-sting = Жала
+store-ling-category-utility = Вспомогательные

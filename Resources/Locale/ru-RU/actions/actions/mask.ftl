@@ -6,18 +6,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-action-mask-pull-up-popup-message = Вы натягиваете { $mask } на лицо.
-action-mask-pull-down-popup-message = Вы приспускаете { $mask } с лица.
+action-mask-pull-up-popup-message = Вы поднимаете {$mask}.
+action-mask-pull-down-popup-message = Вы опускаете {$mask}.
 
 verb-name-mask-pull-up = Поднять Маску
-verb-description-mask-pull-up = Поднимите маску на другом персонаже.
+verb-description-mask-pull-up = Поднять маску на другом персонаже.
 verb-name-mask-pull-down = Опустить Маску
-verb-description-mask-pull-down = Опустите маску на другом персонаже.
+verb-description-mask-pull-down = Опустить маску на другом персонаже.
 
-verb-mask-pull-up-popup-message = {CAPITALIZE($puller)} поднимает вашу маску {$mask}!
-verb-mask-pull-down-popup-message = {CAPITALIZE($puller)} опускает вашу маску {$mask}!
+verb-mask-pull-up-popup-message = {CAPITALIZE($puller)} поднимает вашу маску ({$mask})!
+verb-mask-pull-down-popup-message = {CAPITALIZE($puller)} опускает вашу маску ({$mask})!
 
-verb-mask-pulled-up-popup-message = Вы поднимаете маску {$mask} на {$wearer}.
-verb-mask-pulled-down-popup-message = Вы опускаете маску {$mask} на {$wearer}.
-verb-mask-other-pulled-up-popup-message = {CAPITALIZE($puller)} поднял вашу маску {$mask}.
-verb-mask-other-pulled-down-popup-message = {CAPITALIZE($puller)} опустил вашу маску {$mask}.
+verb-mask-pulled-up-popup-message = Вы поднимаете {$mask} на {$wearer}.
+verb-mask-pulled-down-popup-message = Вы опускаете {$mask} на {$wearer}.
+verb-mask-other-pulled-up-popup-message = {CAPITALIZE($puller)} поднимает вашу маску ({$mask}).
+verb-mask-other-pulled-down-popup-message = {CAPITALIZE($puller)} опускает вашу маску ({$mask}).

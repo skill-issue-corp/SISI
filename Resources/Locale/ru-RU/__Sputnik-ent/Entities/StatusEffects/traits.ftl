@@ -7,7 +7,7 @@ ent-ChangelingStatusEffectBase = { "" }
 ent-TraitStatusEffectHemophilia = { ent-BloodstreamStatusEffectBase }
     .desc = { ent-BloodstreamStatusEffectBase.desc }
 
-ent-TraitStatusEffectPainNumbness = онемение боли
+ent-TraitStatusEffectPainNumbness = нечувствительность к боли
     .desc = { ent-PainNumbnessStatusEffectBase.desc }
 
 ent-TraitStatusEffectMuted = { ent-MutedStatusEffectBase }

@@ -1,1 +1,1 @@
-construction-guide-condition-stack-count = Соберите {$count} шт.
+construction-guide-condition-stack-count = Соберите детали: {$count}

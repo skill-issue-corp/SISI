@@ -1,8 +1,8 @@
-ent-CartridgeBazookaExp = Фугасная ракета для «Левиафана»
+ent-CartridgeBazookaExp = фугасная ракета для Leviathan
     .desc = Гарантированно испортит кому-нибудь день.
 
-ent-CartridgeBazookaCon = Оглушающая ракета для «Левиафана»
+ent-CartridgeBazookaCon = оглушающая ракета для Leviathan
     .desc = Гарантированно испортит кому-нибудь день.
 
-ent-CartridgeBazookaIncendiary = Зажигательная ракета для «Левиафана»
+ent-CartridgeBazookaIncendiary = зажигательная ракета для Leviathan
     .desc = Гарантированно испортит кому-нибудь день.

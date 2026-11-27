@@ -7,5 +7,5 @@ ent-BulletEnergyTurretLaser = лазерный заряд
 ent-BulletEnergyTurretDisabler = заряд дизейблера
     .desc = { ent-BulletEnergyTurretBase.desc }
 
-ent-TeslaGunBullet = молния Тесла-пушки
+ent-TeslaGunBullet = молния пушки теслы
     .desc = { ent-BaseBullet.desc }

@@ -1,2 +1,2 @@
-marking-CatEars = Кошачьи уши
-marking-CatTail = Кошачий хвост
+marking-CatEars = Кошачьи Уши
+marking-CatTail = Кошачий Хвост

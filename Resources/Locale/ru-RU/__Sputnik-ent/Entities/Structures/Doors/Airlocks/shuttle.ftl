@@ -1,22 +1,20 @@
-ent-AirlockShuttle = стыковочный шлюз
-    .desc = Необходим для соединения двух космических кораблей вместе.
+ent-AirlockShuttle = внешний шлюз
+    .desc = Нужен для стыковки двух космических кораблей.
     .suffix = Стыковочный
 
-ent-AirlockGlassShuttle = стыковочный шлюз
-    .desc = Необходим для соединения двух космических кораблей вместе.
-    .suffix = Стыковочный, Стеклянный
+ent-AirlockGlassShuttle = { ent-AirlockShuttle }
+    .desc = { ent-AirlockShuttle.desc }
+    .suffix = Стекло, Стыковочный
 
-ent-AirlockShuttleAssembly = каркас стыковочного шлюза
-    .desc = Незавершённая конструкция, необходимая для соединения двух космических кораблей вместе.
+ent-AirlockShuttleAssembly = каркас внешнего шлюза
+    .desc = Незавершённая конструкция, необходимая для стыковки двух космических кораблей.
     .suffix = Стыковочный
 
-ent-AirlockGlassShuttleSyndicate = стыковочный шлюз
-    .desc = Необходим для соединения двух космических кораблей вместе.
-    .suffix = Стыковочный, Стеклянный
+ent-AirlockGlassShuttleSyndicate = { ent-AirlockGlassShuttle }
+    .desc = { ent-AirlockGlassShuttle.desc }
 
-ent-AirlockShuttleSyndicate = стыковочный шлюз
-    .desc = Необходим для соединения двух космических кораблей вместе.
-    .suffix = Стыковочный
+ent-AirlockShuttleSyndicate = { ent-AirlockShuttle }
+    .desc = { ent-AirlockShuttle.desc }
 
 ent-AirlockShuttleXenoborg = { ent-AirlockShuttle }
     .desc = { ent-AirlockShuttle.desc }

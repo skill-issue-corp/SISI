@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tendril-destroyed-warning-message = Земля рушится под натиском щупалец! БЕГИ!!!
+tendril-destroyed-warning-message = Земля под щупальцем проваливается! БЕГИТЕ!!!

@@ -1,6 +1,6 @@
 ent-CableDetStack = взрывной шнур
-    .desc = Взрывной шнур для устранения всего, что стоит у вас на пути.
-    .suffix = Полный
+    .desc = Взрывной шнур, чтобы убрать всё, что встанет на пути.
+    .suffix = Полностью заполнено
 
 ent-CableDetStack10 = { ent-CableDetStack }
     .desc = { ent-CableDetStack.desc }

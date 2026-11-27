@@ -1,8 +1,8 @@
-ent-DeepFryerCircuitboard = плата фритюрницы
-    .desc = Печатная плата станка для фритюрницы.
+ent-DeepFryerCircuitboard = машинная плата фритюрницы
+    .desc = Печатная плата для фритюрницы.
 
-ent-ChemiCompilerMachineCircuitboard = машинная плата ХимКомпилятор M7
-    .desc = Печатная плата машины ХимКомпилятор M7.
+ent-ChemiCompilerMachineCircuitboard = машинная плата «ХимКомпилятора M7»
+    .desc = Печатная плата для «ХимКомпилятора M7».
 
-ent-AbductorBiofabMachineBoard = машинная плата биофабрикатора похитителей
-    .desc = Печатная плата для биофабрикатора похитителей.
+ent-AbductorBiofabMachineBoard = машинная плата биофабрикатора абдукторов
+    .desc = Печатная плата для биофабрикатора абдукторов.

@@ -1,2 +1,2 @@
-viewcone-modifier-examine-increase = Ношение этого увеличит угол вашего поля зрения на [color=green]{$percent}[/color]%.
-viewcone-modifier-examine-decrease = Ношение этого уменьшит угол вашего поля зрения на [color=crimson]{$percent}[/color]%.
+viewcone-modifier-examine-increase = При ношении увеличивает угол обзора на [color=green]{$percent}[/color]%.
+viewcone-modifier-examine-decrease = При ношении уменьшает угол обзора на [color=crimson]{$percent}[/color]%.

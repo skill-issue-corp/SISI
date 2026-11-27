@@ -1,1 +1,1 @@
-ftl-drive-window-title = БСС полёт
+ftl-drive-window-title = ФТЛ-Двигатель

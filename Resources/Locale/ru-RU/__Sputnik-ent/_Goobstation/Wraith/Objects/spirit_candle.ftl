@@ -1,5 +1,5 @@
-ent-SpiritCandle = спиритическая свеча
-    .desc = Для создания жуткой атмосферы!
+ent-SpiritCandle = духовная свеча
+    .desc = От неё веет смутной угрозой!
 
-ent-SpiritCandleRevealArea = область спиритической свечи
-    .desc = Вы не должны это видеть, если чё.
+ent-SpiritCandleRevealArea = область духовной свечи
+    .desc = Вы не должны это видеть.

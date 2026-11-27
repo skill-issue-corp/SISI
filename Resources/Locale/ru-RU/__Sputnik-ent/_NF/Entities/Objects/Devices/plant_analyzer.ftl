@@ -1,5 +1,5 @@
 ent-PlantAnalyzer = анализатор растений
-    .desc = Портативное устройство, позволяющее сканировать и сращивать гены растений.
+    .desc = Ручной прибор для сканирования и редактирования генов растений.
 
 ent-PlantAnalyzerDebug = { ent-PlantAnalyzer }
     .desc = { ent-PlantAnalyzer.desc }

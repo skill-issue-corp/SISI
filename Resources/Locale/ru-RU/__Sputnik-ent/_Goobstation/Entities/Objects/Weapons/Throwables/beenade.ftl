@@ -1,2 +1,2 @@
-ent-BeeGrenade = Пчелана́та
+ent-BeeGrenade = Пчелограната
     .desc = Только не пчёлы!!!

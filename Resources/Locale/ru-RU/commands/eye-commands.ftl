@@ -1,7 +1,9 @@
-parse-bool-fail = Невозможно интерпретировать { $arg } как логическое значение
-parse-float-fail = Невозможно интерпретировать { $arg } как число с плавающей запятой
-cmd-lockeyes-desc = Предотвращает дальнейшее вращение глаз.
+parse-bool-fail = Не удалось разобрать {$arg} как bool
+parse-float-fail = Не удалось разобрать {$arg} как float
+
+cmd-lockeyes-desc = Блокирует дальнейший поворот камер.
 cmd-lockeyes-help = Использование: lockeyes <true/false>
-cmd-rotateeyes-desc = Вращает глаза каждого игрока на указанное значение.
+
+cmd-rotateeyes-desc = Поворачивает текущую камеру каждого игрока на указанный угол
 cmd-rotateeyes-help = rotateeyes <градусы (по умолчанию 0)>
-cmd-rotateeyes-command-count = Установлено { $count } вращений глаз
+cmd-rotateeyes-command-count = Настроено поворотов камер: {$count}

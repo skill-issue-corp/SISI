@@ -9,46 +9,46 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-tranquility = спокойствие
-reagent-desc-tranquility = Ты чувствуешь странное спокойствие...
-reagent-popup-tranquility = Ты чувствуешь странное спокойствие...
+reagent-name-tranquility = умиротворение
+reagent-desc-tranquility = На вас находит странное спокойствие...
+reagent-popup-tranquility = На вас находит странное спокойствие...
 
-reagent-name-binglejuice = бингл сок
-reagent-desc-binglejuice = Бинг бонг.
-reagent-popup-binglejuice = Мысль, должно быть, приходила тебе в голову. Мысль, что ты зашёл слишком далеко. Мысль, что это — односторонняя дорога. Так зачем бороться с неизбежным? Лучше принять это. Просто ляг и отдохни. В этой темноте есть красота, которую можно использовать, чтобы привести к чему-то новому.
+reagent-name-binglejuice = бингловый сок
+reagent-desc-binglejuice = Бинг-бонг.
+reagent-popup-binglejuice = Вам ведь наверняка приходило это в голову. Что вы забрались слишком глубоко. Что путь только в одну сторону. Зачем же бороться с неизбежным, если можно его принять? Просто лягте и отдохните. В этой тьме есть красота. Её можно обратить в силу и дать начало чему-то новому.
 
 reagent-name-carpolin = карполин
-reagent-desc-carpolin = Вызывает трансформацию метаболизатора в превосходную форму жизни.
-reagent-popup-carpolin = Ты чувствуешь... странность.
+reagent-desc-carpolin = Превращает усвоивший его организм в высшую форму жизни.
+reagent-popup-carpolin = Вы чувствуете себя... странно.
 
 # CREATED BY Goldminermac
 # https://github.com/space-wizards/space-station-14/pull/31149
 # LICENSED UNDER THE MIT LICENSE
 # SEE README.MD AND LICENSE.TXT IN THE ROOT OF THIS REPOSITORY FOR MORE INFORMATION
 reagent-name-profanol = профанол
-reagent-desc-profanol = Химическое вещество, заставляющее людей неукротимо материться. Разрушитель множества семейных встреч и похорон.
+reagent-desc-profanol = Химическое соединение, вызывающее непреодолимое желание ругаться матом. Испортило бесчисленные семейные встречи и похороны.
 # END OF MIT-LICENSED CODE
 
 reagent-name-copium = копиум
-reagent-desc-copium = Когда нужен подъем настроения.
-reagent-popup-copium-1 = Ты чувствуешь себя очень сильным.
-reagent-popup-copium-2 = Кажется, скоро тебя повысят.
-reagent-popup-copium-3 = Ты никогда не ошибаешься.
-reagent-popup-copium-4 = Ты герой этой истории.
-reagent-popup-copium-5 = Твои инвестиции взлетают до небес.
-reagent-popup-copium-6 = Ты — тот самый парень.
-reagent-popup-copium-7 = Ты можешь остановиться в любой момент.
-reagent-popup-copium-8 = Ты контролируешь ситуацию.
-reagent-popup-copium-9 = Ты должен быть капитаном.
-reagent-popup-copium-10 = Ты управляешь этой станцией.
-reagent-popup-copium-11 = Ты знаешь, что лучше.
-reagent-popup-copium-12 = Ты мог бы его победить.
+reagent-desc-copium = На случай, когда нужно поднять настроение.
+reagent-popup-copium-1 = Вы чувствуете себя очень робастно.
+reagent-popup-copium-2 = Вам кажется, что скоро вам повысят зарплату.
+reagent-popup-copium-3 = Вы никогда не ошибаетесь.
+reagent-popup-copium-4 = Вы герой этой истории.
+reagent-popup-copium-5 = Ваши инвестиции летят на луну.
+reagent-popup-copium-6 = Вы ровно тот самый.
+reagent-popup-copium-7 = Вы можете остановиться когда захотите.
+reagent-popup-copium-8 = Вы всё держите под контролем.
+reagent-popup-copium-9 = Капитаном должны быть вы.
+reagent-popup-copium-10 = Это вы управляете станцией.
+reagent-popup-copium-11 = Вы лучше знаете, как надо.
+reagent-popup-copium-12 = Вы бы с ним справились.
 
 reagent-name-cat-drugs = кошачьи наркотики
-reagent-desc-cat-drugs = Кошачьи наркотики? Наркотики для кошек? Наркотики от кошек? Лучше не спрашивать.
+reagent-desc-cat-drugs = Кошачьи наркотики? Наркотики для кошек? Наркотики из кошек? Лучше не спрашивать.
 
 reagent-name-nostalgia = ностальгия
 reagent-desc-nostalgia = Зачем это здесь?
 
 reagent-name-tilenol = тиленол
-reagent-desc-tilenol = Ты чувствуешь, как становишься сильнее, просто держась за это.
+reagent-desc-tilenol = Вы чувствуете себя робастнее, даже просто держа его в руке.

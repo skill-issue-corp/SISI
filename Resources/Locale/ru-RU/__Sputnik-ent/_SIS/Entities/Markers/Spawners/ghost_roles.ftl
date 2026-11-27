@@ -1,15 +1,15 @@
-ent-SpawnPointGhostPsiBasilisk = спавнер призрачной роли пси-василиска
+ent-SpawnPointGhostPsiBasilisk = точка спавна роли призрака
     .desc = { ent-SpawnPointGhostRemilia.desc }
-    .suffix = Пси-василиск
+    .suffix = ПсиВасилиск
 
-ent-SpawnPointGhostFirePsiMonkey = спавнер призрачной роли пси-обезьяны
+ent-SpawnPointGhostFirePsiMonkey = точка спавна пси-обезьяны
     .desc = { ent-MarkerBase.desc }
 
 ent-SpawnPointGhostIcePsiMonkey = { ent-SpawnPointGhostFirePsiMonkey }
     .desc = { ent-SpawnPointGhostFirePsiMonkey.desc }
 
-ent-SpawnPointGhostCorticalBorer = спавнер призрачной роли кортикального червя
+ent-SpawnPointGhostCorticalBorer = точка спавна кортикального червя
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnPointGhostTerminator = спавнер призрачной роли терминатора
+ent-SpawnPointGhostTerminator = точка спавна терминатора
     .desc = { ent-BaseAntagSpawner.desc }

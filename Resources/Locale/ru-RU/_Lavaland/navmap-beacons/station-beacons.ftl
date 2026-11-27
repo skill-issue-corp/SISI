@@ -1,10 +1,11 @@
-station-beacon-ruin-abductor = Инопланетный сигнал
-station-beacon-ruin-arrivals = Сигнал шаттла эвакуации
-station-beacon-ruin-beach-biodome = Пляжный биодом
-station-beacon-ruin-golem-shuttle = Сигнал фрилансеров
-station-beacon-ruin-hierophant-arena = Невозможный сигнал
-station-beacon-ruin-hunter-shelter = Сигнал охотника
-station-beacon-ruin-small-outpost = Малый аванпост
-station-beacon-ruin-rouge-ai = Неизвестная лаборатория
-station-beacon-ruin-snow-biodome = Снежный биодом
+station-beacon-ruin-abductor = Сигнал Пришельцев
+station-beacon-ruin-arrivals = Сигнал Шаттла Прибытия
+station-beacon-ruin-beach-biodome = Пляжный Биокупол
+station-beacon-ruin-golem-shuttle = Сигнал Вольного Наёмника
+station-beacon-ruin-hierophant-arena = Сигнал Ревнителя
+station-beacon-ruin-hunter-shelter = Сигнал Охотника
+station-beacon-ruin-small-outpost = Малый Аванпост
+station-beacon-ruin-rouge-ai = Неизвестная Лаборатория
+station-beacon-ruin-snow-biodome = Снежный Биокупол
+
 station-beacon-ruin-syndicate = Сигнал Синдиката

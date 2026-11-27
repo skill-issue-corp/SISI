@@ -1,17 +1,17 @@
-ent-BaseCrowbar = монтировка
-    .desc = { ent-BaseItem.desc }
+ent-BaseCrowbar = лом
+    .desc = Многоцелевой инструмент: им можно вскрыть двери или огреть межпространственного захватчика.
 
 ent-Crowbar = { ent-BaseCrowbar }
-    .desc = Многофункциональный инструмент для открывания дверей и борьбы с межпространственными захватчиками.
+    .desc = { ent-BaseCrowbar.desc }
 
-ent-CrowbarRed = аварийная монтировка
-    .desc = Аварийный лом, предназначенный для открывания дверей и замков во время отключения электричества.
+ent-CrowbarRed = { ent-BaseCrowbar }
+    .desc = { ent-BaseCrowbar.desc }
 
 ent-CrowbarGreen = { ent-BaseCrowbar }
-    .desc = Многофункциональный инструмент для открывания дверей и борьбы с межпространственными захватчиками, напечатанный на лате.
+    .desc = { ent-BaseCrowbar.desc }
 
 ent-CrowbarOrange = { ent-BaseCrowbar }
-    .desc = Многофункциональный инструмент для открывания дверей и борьбы с межпространственными захватчиками, который можно найти в ящиках для инструментов.
+    .desc = { ent-BaseCrowbar.desc }
 
 ent-CrowbarYellow = { ent-BaseCrowbar }
-    .desc = Многофункциональный инструмент для открывания дверей и борьбы с межпространственными захватчиками, получаемый инженерами.
+    .desc = { ent-BaseCrowbar.desc }

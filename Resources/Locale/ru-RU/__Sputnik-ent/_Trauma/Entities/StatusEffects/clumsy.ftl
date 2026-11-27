@@ -10,7 +10,7 @@ ent-StatusEffectClumsyDevil = { ent-StatusEffectClumsyClown }
 ent-StatusEffectClumsyCurse = { ent-StatusEffectClumsyClown }
     .desc = { ent-StatusEffectClumsyClown.desc }
 
-ent-StatusEffectClumsyDecapoid = клешни декапоида
+ent-StatusEffectClumsyDecapoid = клешни декапода
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectClumsyScurret = { ent-StatusEffectClumsyAll }

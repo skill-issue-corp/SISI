@@ -1,5 +1,5 @@
 ent-AltarBase = алтарь
-    .desc = Алтарь богов.
+    .desc = Алтарь Богов.
 
 ent-AltarNanotrasen = алтарь NanoTrasen
     .desc = { ent-AltarBase.desc }
@@ -13,7 +13,7 @@ ent-AltarDruid = алтарь друидов
 ent-AltarToolbox = алтарь ящика для инструментов
     .desc = { ent-AltarNanotrasen.desc }
 
-ent-AltarSpaceChristian = космо-Христианский алтарь
+ent-AltarSpaceChristian = алтарь космо-Христиан
     .desc = { ent-AltarNanotrasen.desc }
 
 ent-AltarSatana = сатанинский алтарь
@@ -25,7 +25,7 @@ ent-AltarTechnology = алтарь технологий
 ent-AltarConvertFestival = праздничный алтарь
     .desc = { ent-AltarBase.desc }
 
-ent-AltarConvertMaint = алтарь техтуннелей
+ent-AltarConvertMaint = алтарь техов
     .desc = { ent-AltarConvertFestival.desc }
 
 ent-AltarConvertBlue = синий алтарь
@@ -55,5 +55,5 @@ ent-AltarHeaven = небесный алтарь
 ent-AltarFangs = клыкастый алтарь
     .desc = { ent-AltarHeaven.desc }
 
-ent-AltarBananium = алтарь Хонкоматери
-    .desc = Бананиумовый алтарь, посвящённый Хонкоматери.
+ent-AltarBananium = алтарь хонкоматери
+    .desc = Бананиумовый алтарь, посвящённый хонкоматери.

@@ -1,22 +1,22 @@
 command-description-inventory-getflags =
-    Gets all entities in slots on the piped inventory entity matching a certain slot flag.
+    Получает все объекты из слотов переданного инвентаря по флагу слота.
 command-description-inventory-getnamed =
-    Gets all entities in slots on the piped inventory entity matching a certain slot name.
+    Получает все объекты из слотов переданного инвентаря по имени слота.
 command-description-inventory-forceput =
-    Puts a given entity on the first piped entity that has a slot matching the given flag, deleting any item previously in that slot.
+    Помещает объект в подходящий по флагу слот первого переданного объекта, у которого такой слот есть. Удаляет предмет, ранее занимавший слот.
 command-description-inventory-forcespawn =
-    Spawns a given prototype on the first piped entity that has a slot matching the given flag, deleting any item previously in that slot.
+    Создаёт объект указанного прототипа в подходящем по флагу слоте первого переданного объекта, у которого такой слот есть. Удаляет предмет, ранее занимавший слот.
 command-description-inventory-put =
-    Puts a given entity on the first piped entity that has a slot matching the given flag, unequiping any item previously in that slot.
+    Помещает объект в подходящий по флагу слот первого переданного объекта, у которого такой слот есть. Снимает предмет, ранее занимавший слот.
 command-description-inventory-spawn =
-    Spawns a given prototype on the first piped entity that has a slot matching the given flag, unequiping any item previously in that slot.
+    Создаёт объект указанного прототипа в подходящем по флагу слоте первого переданного объекта, у которого такой слот есть. Снимает предмет, ранее занимавший слот.
 command-description-inventory-tryput =
-    Tries to put a given entity on the first piped entity that has a slot matching the given flag, failing if any item is in currently in that slot.
+    Пробует поместить объект в подходящий по флагу слот первого переданного объекта, у которого такой слот есть. Завершается ошибкой, если слот занят.
 command-description-inventory-tryspawn =
-    Tries to spawn a given prototype on the first piped entity that has a slot matching the given flag, failing if any item is in currently in that slot.
+    Пробует создать объект указанного прототипа в подходящем по флагу слоте первого переданного объекта, у которого такой слот есть. Завершается ошибкой, если слот занят.
 command-description-inventory-ensure =
-    Puts a given entity on the first piped entity that has a slot matching the given flag if none exists, passing through the UID of whatever is in the slot by the end.
+    Если подходящий по флагу слот первого переданного объекта пуст, помещает туда указанный объект. Передаёт дальше UID объекта, который в итоге занимает слот.
 command-description-inventory-ensurespawn =
-    Spawns a given prototype on the first piped entity that has a slot matching the given flag if none exists, passing through the UID of whatever is in the slot by the end.
+    Если подходящий по флагу слот первого переданного объекта пуст, создаёт там объект указанного прототипа. Передаёт дальше UID объекта, который в итоге занимает слот.
 command-description-inventory-contents =
-    Gets the entities in the inventory slots of the piped entities and passes them along.
+    Получает объекты из слотов инвентаря переданных объектов и передаёт их дальше.

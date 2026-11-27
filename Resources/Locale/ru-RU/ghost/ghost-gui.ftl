@@ -22,48 +22,48 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ghost-gui-return-to-body-button = Вернуться в тело
-ghost-gui-ghost-warp-button = Телепорт призрака
-ghost-gui-ghost-roles-button = Роли призраков ({ $count })
+ghost-gui-ghost-warp-button = Перемещение Призрака
+ghost-gui-ghost-roles-button = Роли Призраков ({$count})
 ghost-gui-toggle-ghost-visibility-popup-on = Видимость призраков включена.
 ghost-gui-toggle-ghost-visibility-popup-off = Видимость призраков выключена.
 ghost-gui-toggle-lighting-manager-popup-normal = Обычное освещение.
-ghost-gui-toggle-lighting-manager-popup-half-bright = Half-Bright.
+ghost-gui-toggle-lighting-manager-popup-half-bright = Половинная Яркость.
 ghost-gui-toggle-lighting-manager-popup-fullbright = Полная яркость.
-ghost-gui-toggle-fov-popup = Поле зрения переключено.
+ghost-gui-toggle-fov-popup = Режим поля зрения переключён.
 
-ghost-gui-toggle-hearing-popup-on = Теперь вы слышите все фразы.
-ghost-gui-toggle-hearing-popup-off = Теперь вы слышите только радиосвязь и фразы поблизости.
+ghost-gui-toggle-hearing-popup-on = Теперь вы слышите все сообщения.
+ghost-gui-toggle-hearing-popup-off = Теперь вы слышите только радио и сообщения поблизости.
 
-ghost-target-window-title = Телепорт призрака
-ghost-target-window-current-button = Телепорт в: { $name }
-ghost-target-window-warp-to-title = [bold]Быстрый телепорт[/bold]
-ghost-target-window-warp-to-most-followed = За самым отслеживаемым
-ghost-target-window-warp-to-random-followed = За случайным отслеживаемым
-ghost-target-window-warp-to-random = Случайный
-ghost-target-window-warp-to-most-followed-tooltip = Телепортироваться к самому отслеживаемому игроку
-ghost-target-window-warp-to-random-followed-tooltip = Телепортироваться к случайному отслеживаемому игроку
-ghost-target-window-warp-to-random-tooltip = Телепортироваться к случайному игроку
+ghost-target-window-title = Перемещение Призрака
+ghost-target-window-current-button = Переместиться: {$name}
+ghost-target-window-warp-to-title = [bold]Быстрое Перемещение[/bold]
+ghost-target-window-warp-to-most-followed = Больше Всего Наблюдателей
+ghost-target-window-warp-to-random-followed = Случайный Игрок с Наблюдателями
+ghost-target-window-warp-to-random = Случайный игрок
+ghost-target-window-warp-to-most-followed-tooltip = Переместиться к игроку с наибольшим числом наблюдателей
+ghost-target-window-warp-to-random-followed-tooltip = Переместиться к случайному игроку, за которым наблюдают
+ghost-target-window-warp-to-random-tooltip = Переместиться к случайному игроку
 
-ghost-roles-window-title = Роли призраков
-ghost-roles-window-available-button = Доступно ({ $rolesCount })
-ghost-roles-window-join-raffle-button = Участвовать в лотерее
+ghost-roles-window-title = Роли Призраков
+ghost-roles-window-available-button = Доступно ({$rolesCount})
+ghost-roles-window-join-raffle-button = Участвовать в розыгрыше
 ghost-roles-window-raffle-in-progress-button =
-    Участвовать в лотерее (Осталось { $time }, { $players ->
-        [one] { $players } игрок
-        [few] { $players } игрока
-       *[other] { $players } игроков
+    Участвовать в розыгрыше (осталось {$time}, { $players ->
+         [one] {$players} игрок
+         [few] {$players} игрока
+        *[many] {$players} игроков
     })
 ghost-roles-window-leave-raffle-button =
-    Покинуть (Осталось { $time }, { $players ->
-        [one] { $players } игрок
-        [few] { $players } игрока
-       *[other] { $players } игроков
+    Покинуть розыгрыш (осталось {$time}, { $players ->
+         [one] {$players} игрок
+         [few] {$players} игрока
+        *[many] {$players} игроков
     })
 ghost-roles-window-request-role-button = Запросить
-ghost-roles-window-request-role-button-timer = Запросить ({ $time }сек.)
-ghost-roles-window-follow-role-button = Следовать
-ghost-roles-window-no-roles-available-label = В настоящее время нет доступных ролей призраков.
-ghost-roles-window-rules-footer = Кнопка станет доступна через { $time } секунд (эта задержка нужна, чтобы убедиться, что вы прочитали правила).
+ghost-roles-window-request-role-button-timer = Запросить ({$time} сек.)
+ghost-roles-window-follow-role-button = Наблюдать
+ghost-roles-window-no-roles-available-label = Сейчас нет доступных ролей призраков.
+ghost-roles-window-rules-footer = Кнопка станет доступна через {$time} сек. (это время даётся на чтение правил).
 
-ghost-return-to-body-title = Вернуться в тело
-ghost-return-to-body-text = Вас воскрешают! Вернуться в своё тело?
+ghost-return-to-body-title = Вернуться в Тело
+ghost-return-to-body-text = Медотсек настолько хорош, что вас уже оживляют! Вернуться в тело?

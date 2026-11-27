@@ -1,7 +1,7 @@
 ent-MobRotHulk = вздувшаяся мерзость
-    .desc = Гниющая, шагающая масса плоти.
+    .desc = Гниющая ходячая масса плоти.
     .suffix = Фантом
 
-ent-MobRotHulkBuff = огромный чумной голиаф
-    .suffix = Фантом
+ent-MobRotHulkBuff = Огромный зачумлённый голиаф
     .desc = { ent-MobRotHulk.desc }
+    .suffix = Фантом

@@ -6,27 +6,27 @@
 
 reagent-effect-condition-guidebook-stamina-damage-threshold =
     { $max ->
-        [2147483648] у цели как минимум {NATURALFIXED($min, 2)} урона выносливости
+        [2147483648] цель получила не менее {NATURALFIXED($min, 2)} ед. урона выносливости
         *[other] { $min ->
-                    [0] у цели не более {NATURALFIXED($max, 2)} урона выносливости
-                    *[other] у цели от {NATURALFIXED($min, 2)} до {NATURALFIXED($max, 2)} урона выносливости
+                    [0] цель получила не более {NATURALFIXED($max, 2)} ед. урона выносливости
+                    *[other] цель получила от {NATURALFIXED($min, 2)} до {NATURALFIXED($max, 2)} ед. урона выносливости
                  }
     }
 
 reagent-effect-condition-guidebook-unique-bloodstream-chem-threshold =
     { $max ->
         [2147483648] { $min ->
-                        [1] присутствует как минимум {$min} реагент
-                        *[other] присутствует как минимум {$min} реагентов
+                        [one] присутствует не менее {$min} реагента
+                        *[other] присутствует не менее {$min} реагентов
                      }
         [1] { $min ->
                [0] присутствует не более {$max} реагента
-               *[other] присутствует от {$min} до {$max} реагентов
+               *[other] присутствует от {$min} до {$max} реагента
             }
         *[other] { $min ->
-                    [-1] присутствует не более {$max} реагентов
-                    *[other] присутствует от {$min} до {$max} реагентов
+                    [-1] присутствует не более {$max} {sis-guidebook-reagent-count-genitive}
+                    *[other] присутствует от {$min} до {$max} {sis-guidebook-reagent-count-genitive}
                  }
     }
 
-reagent-effect-condition-guidebook-typed-damage-threshold = у цели не более { $changes } урона
+reagent-effect-condition-guidebook-typed-damage-threshold = цель получила не более { $changes } ед. урона

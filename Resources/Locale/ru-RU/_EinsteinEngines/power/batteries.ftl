@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-battery-electrocute-charge = Батарея заряжается!
+battery-electrocute-charge = Батарею переполняет энергия!

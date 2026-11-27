@@ -4,31 +4,31 @@ ent-BaseChemistryVial = { ent-DrinkBaseMaterialGlass }
 ent-BaseChemistryAmpoule = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-ChemistryEmptyVial = флакон
-    .desc = Маленький флакон.
+ent-ChemistryEmptyVial = пробирка
+    .desc = Небольшая пробирка.
 
-ent-ChemistryEmptyVialSmall = мини-флакон
-    .desc = Флакон меньшего размера.
+ent-ChemistryEmptyVialSmall = мини-пробирка
+    .desc = Пробирка поменьше.
 
 ent-ChemistryEmptyAmpoule = ампула
-    .desc = Разбейте, чтобы открыть.
+    .desc = Надломите, чтобы открыть.
 
 ent-VestineChemistryVial = { ent-ChemistryEmptyVial }
     .desc = { ent-ChemistryEmptyVial.desc }
-    .suffix = Вестин
+    .suffix = вестин
 
 ent-RadiumChemistryVial = { ent-ChemistryEmptyVialSmall }
     .desc = { ent-ChemistryEmptyVialSmall.desc }
-    .suffix = Радий
+    .suffix = радий
 
 ent-ChlorineChemistryVial = { ent-ChemistryEmptyVialSmall }
     .desc = { ent-ChemistryEmptyVialSmall.desc }
-    .suffix = Хлор
+    .suffix = хлор
 
 ent-PlasmaChemistryVial = { ent-ChemistryEmptyVialSmall }
     .desc = { ent-ChemistryEmptyVialSmall.desc }
-    .suffix = Плазма
+    .suffix = плазма
 
 ent-XenoborgOilChemistryAmpoule = { ent-ChemistryEmptyAmpoule }
     .desc = { ent-ChemistryEmptyAmpoule.desc }
-    .suffix = масло ксеноборга
+    .suffix = масло ксеноборгов

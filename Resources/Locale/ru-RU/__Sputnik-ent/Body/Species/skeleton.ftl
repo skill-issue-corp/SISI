@@ -1,12 +1,12 @@
-ent-AppearanceSkeletonPerson = внешний вид скелетоида
+ent-AppearanceSkeletonPerson = облик скелета
     .desc = { ent-BaseSpeciesAppearanceOrganless.desc }
 
-ent-MobSkeletonPerson = Урист МакБоунс
+ent-MobSkeletonPerson = Урист МакКости
     .desc = { ent-AppearanceSkeletonPerson.desc }
 
 ent-OrganSkeletonPerson = { ent-OrganBaseOrganic }
     .desc = { ent-OrganBaseOrganic.desc }
-    .suffix = Скелетоид
+    .suffix = Скелет
 
 ent-OrganSkeletonPersonExternal = { ent-OrganSkeletonPerson }
     .desc = { ent-OrganSkeletonPerson.desc }

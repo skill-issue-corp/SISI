@@ -9,13 +9,13 @@ battery-status-state = Состояние: {$state}
 
 # Charge Status
 charge-status-count = Заряды: [color=fuchsia]{$current}/{$max}[/color]
-charge-status-recharge = Перезарядка: [color=yellow]{$seconds}s[/color]
+charge-status-recharge = Перезарядка: [color=yellow]{$seconds} с[/color]
 
 # Tank Pressure Status
-tank-pressure-status = Давл.: [color=orange]{$pressure} kPa[/color]
+tank-pressure-status = Давл.: [color=orange]{$pressure} кПа[/color]
 tank-status-switchable-state = { $state ->
-        [open] [color=red]Открыт[/color]
-        [closed] [color=green]Закрыт[/color]
+        [open] [color=red]Открыто[/color]
+        [closed] [color=green]Закрыто[/color]
         *[other] Неизвестно
 }
 tank-status-state = Состояние: {$state}
@@ -24,13 +24,13 @@ tank-status-state = Состояние: {$state}
 magazine-status-rounds = Патроны: [color=yellow]{$current}/{$max}[/color]
 
 # Guardian Status
-guardian-status-used = [color=red]Использован[/color]
-guardian-status-ready = [color=green]Готов[/color]
+guardian-status-used = [color=red]Использовано[/color]
+guardian-status-ready = [color=green]Готово[/color]
 
 # Anomaly Status
 anomaly-status-infinite = [color=gold]Бесконечные заряды[/color]
-anomaly-status-charges = [color=orange]{$charges} зарядов[/color]
+anomaly-status-charges = [color=orange]Заряды: {$charges}[/color]
 
 # Timer Trigger Status
-timer-trigger-status-delay = Задержка: [color=white]{$delay}s[/color]
-timer-trigger-status-delay-unknown = Заданная Задержка: [color=gray]???[/color]
+timer-trigger-status-delay = Выбранная Задержка: [color=white]{$delay} с[/color]
+timer-trigger-status-delay-unknown = Выбранная Задержка: [color=gray]???[/color]

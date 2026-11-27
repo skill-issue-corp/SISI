@@ -1,4 +1,4 @@
-stack-artifact-fragment-ore = необработанный фрагмент артефакта
+stack-artifact-fragment-ore = руда с фрагментом артефакта
 
 stack-unprocessed-gold-ore = необработанная золотая руда
 stack-unprocessed-diamond-ore = необработанная алмазная руда
@@ -7,27 +7,11 @@ stack-unprocessed-plasma-ore = необработанная фороновая �
 stack-unprocessed-silver-ore = необработанная серебряная руда
 stack-unprocessed-quartz-ore = необработанная кварцевая руда
 stack-unprocessed-uranium-ore = необработанная урановая руда
-stack-unprocessed-bananium-ore = необработанная бананиумная руда
+stack-unprocessed-bananium-ore = необработанная бананиумовая руда
 stack-unprocessed-coal = необработанный уголь
-stack-unprocessed-artifact-fragment-ore = незавершённый фрагмент артефакта
+stack-unprocessed-artifact-fragment-ore = необработанная руда с фрагментом артефакта
 
-stack-watcher-wing =
-    { $amount ->
-        [1] крыло наблюдателя
-       *[other] крыльев наблюдателя
-    }
-stack-magma-wing =
-    { $amount ->
-        [1] крыло магматического наблюдателя
-       *[other] крыльев магматического наблюдателя
-    }
-stack-ice-wing =
-    { $amount ->
-        [1] крыло ледяного наблюдателя
-       *[other] крыльев ледяного наблюдателя
-    }
-stack-legion-skull =
-    { $amount ->
-        [1] череп легиона
-       *[other] черепов легиона
-    }
+stack-watcher-wing = крыло наблюдателя
+stack-magma-wing = крыло магмового наблюдателя
+stack-ice-wing = крыло ледяного наблюдателя
+stack-legion-skull = череп легиона

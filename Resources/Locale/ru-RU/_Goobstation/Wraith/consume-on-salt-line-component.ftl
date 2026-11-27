@@ -1,1 +1,1 @@
-consume-on-salt-line-component-not-enough-salt-message = Недостаточно соли для создания барьера из неё!
+consume-on-salt-line-component-not-enough-salt-message = Недостаточно соли, чтобы начертить соляную линию!

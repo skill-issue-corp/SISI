@@ -5,7 +5,7 @@ ent-EffectElectricity = { "" }
     .desc = { "" }
 
 ent-Chronofield = хронополе
-    .desc = ZA WARUDO!
+    .desc = ЗА ВАРУДО!
 
 ent-ActionTargetMark = { "" }
     .desc = { "" }
@@ -40,7 +40,7 @@ ent-StunTrapFlashEffect = { ent-BaseFlashEffect }
 ent-DamageTrapFlashEffect = { ent-BaseFlashEffect }
     .desc = { ent-BaseFlashEffect.desc }
 
-ent-EffectSpark = sparks
+ent-EffectSpark = искры
     .desc = { "" }
 
 ent-EtherealJauntStartEffect = { "" }

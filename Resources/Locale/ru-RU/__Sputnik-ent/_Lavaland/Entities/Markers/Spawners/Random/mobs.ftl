@@ -1,9 +1,7 @@
-ent-SpawnerRandomMobLavaland = спавнер случайный моб Лаваленда
+ent-SpawnerRandomMobLavaland = точка спавна тяжёлого моба лаваленда
+    .desc = { ent-MarkerBase.desc }
     .suffix = Лаваленд
+
+ent-SpawnerRandomLightMobLavaland = точка спавна лёгкого моба лаваленда
     .desc = { ent-MarkerBase.desc }
-ent-SpawnerRandomLightMobLavaland = спавнер случайный лёгкий моб Лаваленда
     .suffix = Лаваленд
-    .desc = { ent-MarkerBase.desc }
-ent-MobGoliathRandom = голиаф
-    .suffix = Случайный
-    .desc = { ent-MarkerBase.desc }

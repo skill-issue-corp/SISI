@@ -5,5 +5,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 carry-verb = Нести
-carry-too-heavy = Вы недостаточно сильны.
-carry-started = { $carrier } пытается вас поднять!
+
+carry-too-heavy = У вас не хватает сил.
+carry-started = {$carrier} пытается поднять вас!

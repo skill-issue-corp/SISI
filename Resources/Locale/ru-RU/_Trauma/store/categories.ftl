@@ -1,3 +1,3 @@
 # Uplink
 store-category-skills = Чипы Навыков
-store-category-contractors = Наборы Контрактников
+store-category-contractors = Комплекты Наёмников Синдиката

@@ -23,8 +23,8 @@ ent-ClothingOuterStorageFoldableBase = { ent-ClothingOuterStorageBase }
     .desc = { ent-ClothingOuterStorageBase.desc }
 
 ent-ClothingOuterStorageFoldableBaseOpened = { ent-ClothingOuterStorageFoldableBase }
-    .suffix = Открытый
     .desc = { ent-ClothingOuterStorageFoldableBase.desc }
+    .suffix = расстёгнуто
 
 ent-ClothingOuterJacketToggleableBase = { ent-ClothingOuterJacketBase }
     .desc = { ent-ClothingOuterJacketBase.desc }
@@ -38,7 +38,7 @@ ent-ClothingOuterHardsuitBase = базовый скафандр
 ent-ClothingOuterEVASuitBaseToggleable = { ent-ClothingOuterEVASuitBase }
     .desc = { ent-ClothingOuterEVASuitBase.desc }
 
-ent-ClothingOuterBaseToggleable = худи с капюшоном
+ent-ClothingOuterBaseToggleable = толстовка с капюшоном
     .desc = { ent-ClothingOuterBase.desc }
 
 ent-ClothingOuterBaseMedium = { ent-ClothingOuterBase }

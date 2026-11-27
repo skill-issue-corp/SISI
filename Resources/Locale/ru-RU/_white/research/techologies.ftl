@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-research-technology-night-vision = Технология ночного виденья
-research-technology-thermal-vision = Технология термального виденья
+research-technology-night-vision = Технология Ночного Видения
+research-technology-thermal-vision = Технология Теплового Видения

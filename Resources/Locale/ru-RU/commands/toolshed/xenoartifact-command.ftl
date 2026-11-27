@@ -1,29 +1,29 @@
 command-description-xenoartifact-list =
-    List all EntityUids of spawned artifacts.
+    Выводит EntityUid всех созданных артефактов.
 command-description-xenoartifact-printmatrix =
-    Prints out matrix that displays all edges between nodes.
+    Выводит матрицу всех связей между узлами.
 command-description-xenoartifact-totalresearch =
-    Gets all research points that can be extracted from artifact currently.
+    Возвращает общее количество очков исследований, которое сейчас можно получить из артефакта.
 command-description-xenoartifact-averageresearch =
-    Calculates amount of research points average generated xeno artifact will output when fully activated.
+    Вычисляет, сколько очков исследований в среднем даёт сгенерированный ксеноартефакт после полной активации.
 command-description-xenoartifact-unlockallnodes =
-    Unlocks all nodes of artifact.
+    Открывает все узлы артефакта.
 
 command-description-xenoartifact-createnode =
-    Создаёт узел в артефакте (новый на глубине 0 или присоединённый рядом с существующим).
+    Создаёт узел в артефакте (новый на глубине 0 или смежный с существующим).
 command-description-xenoartifact-createnodeatdepth =
-    Добавляет новый узел к указанному артефакту.
+    Добавляет новый узел указанному артефакту.
 command-description-xenoartifact-spawnartwithnode =
-    Создаёт новый ксеноартефакт с одним узлом, указанными триггером и эффектом.
+    Создаёт новый ксеноартефакт с одним узлом, заданным условием активации и эффектом.
 command-description-xenoartifact-unlocknode =
-    Помечает узел как открытый.
+    Помечает узел открытым.
 command-description-xenoartifact-removenode =
-    Удаляет узел из ксеноартефакта.
+    Удаляет узел ксеноартефакта.
 command-description-xenoartifact-addedge =
-    Добавляет связь между двумя узлами ксеноартефакта.
+    Соединяет два узла ксеноартефакта.
 
-command-spawnartifactwithnode-spawn-artifact-item-hint = используйте переносной артефакт
-command-spawnartifactwithnode-spawn-artifact-structure-hint = используйте стационарный артефакт-структуру
-command-spawnartifactwithnode-spawn-artifact-type-hint = <идентификатор прототипа сущности артефакта>
+command-spawnartifactwithnode-spawn-artifact-item-hint = использовать переносной артефакт
+command-spawnartifactwithnode-spawn-artifact-structure-hint = использовать стационарный артефакт
+command-spawnartifactwithnode-spawn-artifact-type-hint = <ID прототипа объекта артефакта>
 
-command-xenoartifact-common-node-hint = глубина {$depth} узел {$nodeId} триггер: «{$trigger}», эффект: «{$effect}»
+command-xenoartifact-common-node-hint = глубина {$depth}, узел {$nodeId}, условие активации: «{$trigger}», эффект: «{$effect}»

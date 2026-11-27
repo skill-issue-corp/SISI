@@ -1,1 +1,1 @@
-ape-unlocked-broadcast = Работающий A.P.E. {$location} откреплён.
+ape-unlocked-broadcast = Подключённый к питанию М.А.К.А.К. {$location} разблокировано.

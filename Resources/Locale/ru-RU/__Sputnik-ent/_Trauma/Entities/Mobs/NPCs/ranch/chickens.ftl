@@ -1,5 +1,5 @@
 ent-BaseMobChickRanch = курица
-    .desc = Появляется раньше яйца и ЯВЛЯЕТСЯ динозавром!
+    .desc = Появилась раньше яйца и ЯВЛЯЕТСЯ динозавром!
 
 ent-BaseMobAdultChickenRanch = { ent-BaseMobChickRanch }
     .desc = { ent-BaseMobChickRanch.desc }
@@ -22,31 +22,31 @@ ent-MobWhiteHen = белая курица
 ent-MobWhiteRooster = белый петух
     .desc = { ent-BaseMobRoosterRanch.desc }
 
-ent-MobChickBrown = коричневый цыплёнок
+ent-MobChickBrown = бурый цыплёнок
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobBrownHen = коричневая курица
+ent-MobBrownHen = бурая курица
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobBrownRooster = коричневый петух
+ent-MobBrownRooster = бурый петух
     .desc = { ent-BaseMobRoosterRanch.desc }
 
-ent-MobChickVoid = цыплёнок Пустоты
+ent-MobChickVoid = цыплёнок пустоты
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobVoidHen = курица Пустоты
+ent-MobVoidHen = курица пустоты
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobVoidRooster = петух Пустоты
+ent-MobVoidRooster = петух пустоты
     .desc = { ent-BaseMobRoosterRanch.desc }
 
-ent-MobChickIxworth = иксвортский цыплёнок
+ent-MobChickIxworth = цыплёнок породы иксуорт
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobIxworthHen = иксвортская курица
+ent-MobIxworthHen = курица породы иксуорт
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobIxworthRooster = иксвортский петух
+ent-MobIxworthRooster = петух породы иксуорт
     .desc = { ent-BaseMobRoosterRanch.desc }
 
 ent-MobChickSilkie = шёлковый цыплёнок
@@ -76,13 +76,13 @@ ent-MobWhiteSilkieHen = белая шёлковая курица
 ent-MobWhiteSilkieRooster = белый шёлковый петух
     .desc = { ent-BaseMobRoosterRanch.desc }
 
-ent-MobChickSelkie = селки-цыплёнок
+ent-MobChickSelkie = цыплёнок селки
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobSelkieHen = селки-курица
+ent-MobSelkieHen = курица селки
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobSelkieRooster = селки-петух
+ent-MobSelkieRooster = петух селки
     .desc = { ent-BaseMobRoosterRanch.desc }
 
 ent-BaseChickenCold = { "" }
@@ -97,22 +97,22 @@ ent-MobSnowHen = снежная курица
 ent-MobSnowRooster = снежный петух
     .desc = { ent-BaseChickenCold.desc }
 
-ent-MobChickDream = сновидческий цыплёнок
+ent-MobChickDream = цыплёнок из снов
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobDreamRooster = сновидческий петух
+ent-MobDreamRooster = петух из снов
     .desc = { ent-BaseMobRoosterRanch.desc }
 
-ent-MobDreamHen = сновидческая курица
+ent-MobDreamHen = курица из снов
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobChickPoultrygeist = цыплёнок-птичий дух
+ent-MobChickPoultrygeist = цыплёнок-курогейст
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobPoultrygeistHen = курица-птичий дух
+ent-MobPoultrygeistHen = курица-курогейст
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobPoultrygeistRooster = петух-птичий дух
+ent-MobPoultrygeistRooster = петух-курогейст
     .desc = { ent-BaseMobRoosterRanch.desc }
 
 ent-BaseChickenSpicy = { "" }
@@ -127,7 +127,7 @@ ent-MobSpicyHen = острая курица
 ent-MobSpicyRooster = острый петух
     .desc = { ent-BaseChickenSpicy.desc }
 
-ent-MobChickPigeon = почтовый голубь-цыплёнок
+ent-MobChickPigeon = почтовый голубёнок
     .desc = { ent-BaseMobChickRanch.desc }
 
 ent-MobPigeonHen = почтовая голубка
@@ -136,13 +136,13 @@ ent-MobPigeonHen = почтовая голубка
 ent-MobPigeonRooster = почтовый голубь
     .desc = { ent-BaseMobRoosterRanch.desc }
 
-ent-MobChickCandy = леденцовый цыплёнок
+ent-MobChickCandy = цыплёнок из сахарной ваты
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobCandyHen = леденцовая курица
+ent-MobCandyHen = курица из сахарной ваты
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobCandyRooster = леденцовый петух
+ent-MobCandyRooster = петух из сахарной ваты
     .desc = { ent-BaseMobRoosterRanch.desc }
 
 ent-MobChickGolden = золотой цыплёнок
@@ -157,25 +157,25 @@ ent-MobGoldenRooster = золотой петух
 ent-BaseChickenClown = { "" }
     .desc = { "" }
 
-ent-MobChickClown = клоунский цыплёнок
+ent-MobChickClown = цыплёнок-клоун
     .desc = { ent-BaseChickenClown.desc }
 
-ent-MobClownHen = хенк
+ent-MobClownHen = курхонк
     .desc = { ent-BaseChickenClown.desc }
 
-ent-MobClownRooster = хенкстер
+ent-MobClownRooster = петухонк
     .desc = { ent-BaseChickenClown.desc }
 
 ent-BaseChickenCluwne = { "" }
     .desc = { "" }
 
-ent-MobChickCluwne = клувень-цыплёнок
+ent-MobChickCluwne = хуОнкХоНкХоэНКс
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobCluwneHen = клувень-курица
+ent-MobCluwneHen = хуОнкХоНкХоэНКс
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobCluwneRooster = клувень-петух
+ent-MobCluwneRooster = хуОнкХоНкХоэНКс
     .desc = { ent-BaseMobRangedRoosterRanch.desc }
 
 ent-GlassChickenBase = { "" }
@@ -191,7 +191,7 @@ ent-MobGlassRooster = стеклянный петух
     .desc = { ent-GlassChickenBase.desc }
 
 ent-BaseChickenRaptor = { "" }
-    .desc = Выглядит голодным...
+    .desc = Кажется, он голоден...
 
 ent-MobChickRaptor = цыплёнок-раптор
     .desc = { ent-BaseChickenRaptor.desc }
@@ -199,37 +199,37 @@ ent-MobChickRaptor = цыплёнок-раптор
 ent-MobRaptorHen = курица-раптор
     .desc = { ent-BaseChickenRaptor.desc }
 
-ent-MobRaptorRooster = ястреб-петух
+ent-MobRaptorRooster = самец сокола
     .desc = { ent-BaseChickenRaptor.desc }
 
-ent-MobChickOnagadori = онагадорский цыплёнок
+ent-MobChickOnagadori = цыплёнок породы онагадори
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobOnagadoriHen = онагадорская курица
+ent-MobOnagadoriHen = курица породы онагадори
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobOnagadoriRooster = онагадорский петух
+ent-MobOnagadoriRooster = петух породы онагадори
     .desc = { ent-BaseMobRoosterRanch.desc }
 
 ent-BaseChickenWizard = { "" }
     .desc = { "" }
 
-ent-MobChickWizard = волшебный цыплёнок
+ent-MobChickWizard = цыплёнок-волшебник
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobWizardHen = ведьмокурица
+ent-MobWizardHen = курьма
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobWizardRooster = волшебный петух
+ent-MobWizardRooster = петухотворец
     .desc = { ent-BaseChickenWizard.desc }
 
-ent-MobChickSynth = синтетический цыплёнок
+ent-MobChickSynth = цыплёнок-синтетик
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobSynthHen = синтетическая курица
+ent-MobSynthHen = курица-синтетик
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobSynthRooster = синтетический петух
+ent-MobSynthRooster = петух-синтетик
     .desc = { ent-BaseMobRoosterRanch.desc }
 
 ent-BaseChickenMime = { "" }
@@ -244,13 +244,13 @@ ent-MobMimeHen = курица-мим
 ent-MobMimeRooster = петух-мим
     .desc = { ent-BaseMobRoosterRanch.desc }
 
-ent-MobChickBalloon = воздушный цыплёнок
+ent-MobChickBalloon = цыплёнок-шарик
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobBalloonHen = воздушная курица
+ent-MobBalloonHen = курица-шарик
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobBalloonRooster = воздушный петух
+ent-MobBalloonRooster = петух-шарик
     .desc = { ent-BaseMobRoosterRanch.desc }
 
 ent-BaseChickenRobot = { "" }
@@ -265,13 +265,13 @@ ent-MobRobotHen = курица-робот
 ent-MobRobotRooster = петух-робот
     .desc = { ent-BaseChickenRobot.desc }
 
-ent-MobChickKnight = оруженосец-цыплёнок
+ent-MobChickKnight = цыплёнок-оруженосец
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobKnightHen = щитоносная курица
+ent-MobKnightHen = Щитоносица
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobKnightRooster = куриный рыцарь
+ent-MobKnightRooster = Петушиный Тесак
     .desc = { ent-BaseMobRoosterRanch.desc }
 
 ent-BaseChickenStone = { "" }
@@ -286,13 +286,13 @@ ent-MobStoneHen = каменная курица
 ent-MobStoneRooster = каменный петух
     .desc = { ent-BaseChickenStone.desc }
 
-ent-MobChickCockatrice = цыплёнок-василиск
+ent-MobChickCockatrice = цыплёнок-кокатрикс
     .desc = { ent-BaseMobChickRanch.desc }
 
-ent-MobCockatriceHen = курица-василиск
+ent-MobCockatriceHen = курица-кокатрикс
     .desc = { ent-BaseMobHenRanch.desc }
 
-ent-MobCockatriceRooster = петух-василиск
+ent-MobCockatriceRooster = петух-кокатрикс
     .desc = { ent-BaseMobRoosterRanch.desc }
 
 ent-SolutionCockatrice = { ent-SolutionWeapon }
@@ -316,13 +316,13 @@ ent-MobSicleRooster = серповидный петух
 ent-BaseChickenZappy = { ent-BaseChickenLegendary }
     .desc = { ent-BaseChickenLegendary.desc }
 
-ent-MobChickZappy = зэппи-цыплёнок
+ent-MobChickZappy = электрический цыплёнок
     .desc = { ent-BaseChickenZappy.desc }
 
-ent-MobZappyHen = зэппи-курица
+ent-MobZappyHen = электрическая курица
     .desc = { ent-BaseChickenZappy.desc }
 
-ent-MobZappyRooster = зэппи-петух
+ent-MobZappyRooster = электрический петух
     .desc = { ent-BaseChickenZappy.desc }
 
 ent-BaseChickenPhoenix = { ent-BaseChickenLegendary }

@@ -1,2 +1,2 @@
-item-added-gamerule = Вы что-то вызвали, используя этот предмет
-item-already-added-gamerule = Вы уже что-то вызвали
+item-added-gamerule = Этим предметом вы что-то призвали
+item-already-added-gamerule = Вы уже что-то призвали

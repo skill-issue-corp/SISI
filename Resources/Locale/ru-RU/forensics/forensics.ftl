@@ -14,33 +14,33 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 forensic-scanner-interface-title = Криминалистический сканер
-forensic-scanner-interface-fingerprints = Отпечатки
+forensic-scanner-interface-fingerprints = Отпечатки пальцев
 forensic-scanner-interface-fibers = Волокна
 forensic-scanner-interface-dnas = ДНК
-forensic-scanner-interface-residues = Остатки
-forensic-scanner-interface-no-data = Нет данных для сканирования
-forensic-scanner-interface-print = Распечатать
+forensic-scanner-interface-residues = Следы
+forensic-scanner-interface-no-data = Данных сканирования нет
+forensic-scanner-interface-print = Печать
 forensic-scanner-interface-clear = Очистить
-forensic-scanner-report-title = Заключение криминалистической экспертизы: { $entity }
-forensic-pad-unused = Она ещё не использовалась
-forensic-pad-sample = Она содержит образец: { $sample }
-forensic-pad-no-access-due = Не удаётся получить доступ к отпечатку пальца из-за { $entity }.
-forensic-pad-no-access = Не удаётся получить доступ к отпечатку пальца.
-forensic-pad-start-scan-target = { CAPITALIZE($user) } пытается снять отпечатки ваших пальцев.
-forensic-pad-start-scan-user = Вы начинаете снимать отпечатки пальцев { CAPITALIZE($target) }.
-forensic-pad-already-used = Эта пластинка уже использована.
-forensic-scanner-match-fiber = Найдены совпадения по волокнам!
-forensic-scanner-match-fingerprint = Найдены совпадения по отпечаткам пальцев!
+forensic-scanner-report-title = Криминалистический Отчёт: {$entity}
+forensic-pad-unused = Салфетку ещё не использовали.
+forensic-pad-sample = На ней есть образец: {$sample}
+forensic-pad-no-access-due = Не удаётся снять отпечаток. Мешает {$entity}.
+forensic-pad-no-access = Не удаётся снять отпечаток.
+forensic-pad-start-scan-target = {CAPITALIZE($user)} пытается снять ваши отпечатки пальцев.
+forensic-pad-start-scan-user = Вы начинаете снимать отпечатки пальцев {CAPITALIZE($target)}.
+forensic-pad-already-used = Этой салфеткой уже пользовались.
+forensic-scanner-match-fiber = Найдено совпадение по волокнам!
+forensic-scanner-match-fingerprint = Найдено совпадение по отпечатку!
 forensic-scanner-match-none = Совпадений не найдено!
-forensic-scanner-printer-not-ready = Принтер не готов.
+forensic-scanner-printer-not-ready = Принтер ещё не готов.
 forensic-scanner-verb-text = Сканировать
-forensic-scanner-verb-message = Выполняется криминалистическое сканирование
+forensic-scanner-verb-message = Провести криминалистическое сканирование
 
 forensics-dna-unknown = неизвестная ДНК
 
-forensics-verb-text = Счистить улики
-forensics-verb-message = Счистить отпечатки пальцев и остатки ДНК с объекта!
-forensics-cleaning-user = Вы начинаете стирать улики с {$target}...
-forensics-cleaning-others = {CAPITALIZE($user)} начинает стирать улики с {$target}.
+forensics-verb-text = Удалить улики
+forensics-verb-message = Удалить с предмета отпечатки пальцев и следы ДНК!
+forensics-cleaning-user = Вы начинаете убирать улики с {$target}...
+forensics-cleaning-others = {CAPITALIZE($user)} начинает убирать улики с {$target}.
 
-forensics-cleaning-cannot-clean = Ничего нельзя счистить с { $target }!
+forensics-cleaning-cannot-clean = На {$target} нечего убирать!

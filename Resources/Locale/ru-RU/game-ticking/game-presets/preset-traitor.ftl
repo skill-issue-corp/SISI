@@ -1,6 +1,6 @@
 ## Traitor
 
-traitor-round-end-codewords = Кодовыми словами были: [color=White]{ $codewords }[/color].
+traitor-round-end-codewords = Кодовые слова: [color=White]{$codewords}[/color]
 traitor-round-end-agent-name = предатель
 
 objective-issuer-syndicate = [color=crimson]Синдикат[/color]
@@ -8,17 +8,17 @@ objective-issuer-unknown = [color=white]Неизвестно[/color]
 
 # Shown at the end of a round of Traitor
 
-traitor-title = Предатели
+traitor-title = Предатель
 traitor-description = Среди нас есть предатели...
-traitor-not-enough-ready-players = Недостаточно игроков готовы к игре! Из { $minimumPlayers } необходимых игроков готовы { $readyPlayersCount }. Нельзя запустить пресет Предатели.
-traitor-no-one-ready = Нет готовых игроков! Нельзя запустить пресет Предатели.
+traitor-not-enough-ready-players = Недостаточно готовых игроков! Готово {$readyPlayersCount} из {$minimumPlayers} необходимых. Не удалось запустить режим «Предатель».
+traitor-no-one-ready = Никто из игроков не готов! Не удалось запустить режим «Предатель».
 
 ## TraitorDeathMatch
-traitor-death-match-title = Бой насмерть предателей
-traitor-death-match-description = Все — предатели. Все хотят смерти друг друга.
-traitor-death-match-station-is-too-unsafe-announcement = На станции слишком опасно, чтобы продолжать. У вас есть одна минута.
-traitor-death-match-end-round-description-first-line = КПК были восстановлены...
-traitor-death-match-end-round-description-entry = КПК { $originalName }, с { $tcBalance } ТК
+traitor-death-match-title = Дезматч Предателей
+traitor-death-match-description = Все предатели. Каждый хочет убить остальных.
+traitor-death-match-station-is-too-unsafe-announcement = На станции слишком опасно продолжать. У вас одна минута.
+traitor-death-match-end-round-description-first-line = КПК, найденные после бойни...
+traitor-death-match-end-round-description-entry = КПК владельца {$originalName}, баланс {$tcBalance} ТК
 
 ## TraitorRole
 
@@ -52,6 +52,6 @@ traitor-role-uplink-implant =
 # don't need all the flavour text for character menu
 traitor-role-codewords-short =
     Кодовые слова:
-    { $codewords }.
-traitor-role-uplink-code-short = Ваш код аплинка: {$code}. Установите его в качестве рингтона КПК для доступа к аплинку.
-traitor-role-uplink-implant-short = Ваш аплинк был имплантирован. Получите к нему доступ через меню действий.
+    {$codewords}.
+traitor-role-uplink-code-short = Ваш код аплинка - {$code}. Установите его как мелодию вызова КПК, чтобы открыть аплинк.
+traitor-role-uplink-implant-short = Вам вживили аплинк. Откройте его из меню действий.

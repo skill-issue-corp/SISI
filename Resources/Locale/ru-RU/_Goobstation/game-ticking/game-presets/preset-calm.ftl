@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-sleeper-title = Спокойный
-sleeper-description = Спокойный опыт с рядом мирных событий.
+sleeper-title = Призрак
+sleeper-description = Спокойная игра с разнообразными мирными событиями.

@@ -1,28 +1,28 @@
-ent-IDCardStandard = ID-карта
-    .desc = Карта, необходимая для доступа к различным областям станции.
+ent-IDCardStandard = идентификационная карта
+    .desc = Карта, дающая доступ в разные помещения станции.
 
 ent-PassengerIDCard = ID-карта ассистента
     .desc = { ent-IDCardStandard.desc }
 
-ent-TechnicalAssistantIDCard = ID-карта ассистента-техника
+ent-TechnicalAssistantIDCard = ID-карта технического ассистента
     .desc = { ent-PassengerIDCard.desc }
 
-ent-MedicalInternIDCard = ID-карта врача-интерна
+ent-MedicalInternIDCard = ID-карта медицинского интерна
     .desc = { ent-PassengerIDCard.desc }
 
 ent-ResearchAssistantIDCard = ID-карта научного ассистента
     .desc = { ent-PassengerIDCard.desc }
 
-ent-SecurityCadetIDCard = ID-карта кадета СБ
+ent-SecurityCadetIDCard = ID-карта кадета службы безопасности
     .desc = { ent-PassengerIDCard.desc }
 
-ent-ServiceWorkerIDCard = ID-карта обслуживающего персонала
+ent-ServiceWorkerIDCard = ID-карта работника сервиса
     .desc = { ent-PassengerIDCard.desc }
 
 ent-CaptainIDCard = ID-карта капитана
     .desc = { ent-IDCardStandard.desc }
 
-ent-SecurityIDCard = ID-карта службы безопасности
+ent-SecurityIDCard = ID-карта офицера службы безопасности
     .desc = { ent-IDCardStandard.desc }
 
 ent-WardenIDCard = ID-карта смотрителя
@@ -31,7 +31,7 @@ ent-WardenIDCard = ID-карта смотрителя
 ent-EngineeringIDCard = ID-карта инженера
     .desc = { ent-IDCardStandard.desc }
 
-ent-MedicalIDCard = ID-карта медика
+ent-MedicalIDCard = ID-карта врача
     .desc = { ent-IDCardStandard.desc }
 
 ent-ParamedicIDCard = ID-карта парамедика
@@ -70,10 +70,10 @@ ent-JanitorIDCard = ID-карта уборщика
 ent-BartenderIDCard = ID-карта бармена
     .desc = { ent-IDCardStandard.desc }
 
-ent-PunPunIDCard = ID-карта Пун Пуна
+ent-PunPunIDCard = ID-карта пун пуна
     .desc = { ent-IDCardStandard.desc }
 
-ent-ChefIDCard = ID-карта шеф-повара
+ent-ChefIDCard = ID-карта повара
     .desc = { ent-IDCardStandard.desc }
 
 ent-BotanistIDCard = ID-карта ботаника
@@ -106,10 +106,10 @@ ent-VisitorIDCard = ID-карта посетителя
 ent-BrigmedicIDCard = ID-карта бригмедика
     .desc = { ent-IDCardStandard.desc }
 
-ent-CentcomIDCard = ID-карта старшего офицера
+ent-CentcomIDCard = ID-карта офицера командования
     .desc = { ent-IDCardStandard.desc }
 
-ent-ERTLeaderIDCard = ID-карта лидера ОБР
+ent-ERTLeaderIDCard = ID-карта командира ОБР
     .desc = { ent-IDCardStandard.desc }
 
 ent-ERTChaplainIDCard = ID-карта священника ОБР
@@ -121,39 +121,39 @@ ent-ERTEngineerIDCard = ID-карта инженера ОБР
 ent-ERTJanitorIDCard = ID-карта уборщика ОБР
     .desc = { ent-IDCardStandard.desc }
 
-ent-ERTMedicIDCard = ID-карта врача ОБР
+ent-ERTMedicIDCard = ID-карта медика ОБР
     .desc = { ent-IDCardStandard.desc }
 
-ent-ERTSecurityIDCard = ID-карта офицера ОБР
+ent-ERTSecurityIDCard = ID-карта бойца ОБР
     .desc = { ent-IDCardStandard.desc }
 
 ent-MusicianIDCard = ID-карта музыканта
     .desc = { ent-IDCardStandard.desc }
 
-ent-CentcomIDCardDeathsquad = ID-карта Эскадрона Смерти
+ent-CentcomIDCardDeathsquad = ID-карта эскадрона смерти
     .desc = { ent-IDCardStandard.desc }
 
-ent-AgentIDCard = { ent-PassengerIDCard }
-    .suffix = Агентская
+ent-AgentIDCard = ID-карта ассистента
     .desc = { ent-IDCardStandard.desc }
+    .suffix = Агент
 
-ent-NukieAgentIDCard = ID-карта ассистента
-    .suffix = Оперативники
+ent-NukieAgentIDCard = { ent-AgentIDCard }
     .desc = { ent-AgentIDCard.desc }
+    .suffix = Ядерный Оперативник
 
 ent-AtmosIDCard = ID-карта атмосферного техника
     .desc = { ent-IDCardStandard.desc }
 
-ent-SyndicateIDCard = ID-карта Синдиката
+ent-SyndicateIDCard = ID-карта синдиката
     .desc = { ent-IDCardStandard.desc }
 
-ent-SyndiOperativeIDCard = ID-карта оперативника Синдиката
+ent-SyndiOperativeIDCard = ID-карта оперативника синдиката
     .desc = { ent-SyndicateIDCard.desc }
 
-ent-SyndiCorpsmanIDCard = ID-карта санитара Синдиката
+ent-SyndiCorpsmanIDCard = ID-карта санитара синдиката
     .desc = { ent-SyndiOperativeIDCard.desc }
 
-ent-SyndiCommanderIDCard = ID-карта командира Синдиката
+ent-SyndiCommanderIDCard = ID-карта командира синдиката
     .desc = { ent-SyndiOperativeIDCard.desc }
 
 ent-NinjaIDCard = ID-карта ниндзя
@@ -176,28 +176,28 @@ ent-DetectiveIDCard = ID-карта детектива
     .desc = { ent-IDCardStandard.desc }
 
 ent-PrisonerIDCard = ID-карта заключённого
-    .desc = Шаблонная, напечатанная ID-карта для мерзких заключённых.
+    .desc = Стандартная ID-карта для мерзавцев-заключённых.
 
 ent-CBURNIDcard = ID-карта РХБЗЗ
     .desc = { ent-CentcomIDCard.desc }
     .suffix = РХБЗЗ
 
 ent-CluwneIDCard = ID-карта клувеня
-    .suffix = Неснимаемый
     .desc = { ent-IDCardStandard.desc }
+    .suffix = Несъёмный
 
 ent-SeniorEngineerIDCard = ID-карта ведущего инженера
     .desc = { ent-EngineeringIDCard.desc }
 
-ent-SeniorResearcherIDCard = ID-карта ведущего учёного
+ent-SeniorResearcherIDCard = ID-карта ведущего исследователя
     .desc = { ent-ResearchIDCard.desc }
 
 ent-SeniorPhysicianIDCard = ID-карта ведущего врача
     .desc = { ent-MedicalIDCard.desc }
 
-ent-SeniorOfficerIDCard = ID-карта инструктора СБ
+ent-SeniorOfficerIDCard = ID-карта старшего офицера
     .desc = { ent-SecurityIDCard.desc }
 
 ent-UniversalIDCard = универсальная ID-карта
-    .desc = ID-карта, которая позволит вам осуществить свои самые сокровенные желания.
-    .suffix = Админ
+    .desc = ID-карта, открывающая доступ, о котором вы даже не мечтали.
+    .suffix = Администрация

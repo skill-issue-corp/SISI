@@ -1,2 +1,2 @@
-ent-hoverentity = сущность наведения
+ent-hoverentity = сущность при наведении
     .desc = { "" }

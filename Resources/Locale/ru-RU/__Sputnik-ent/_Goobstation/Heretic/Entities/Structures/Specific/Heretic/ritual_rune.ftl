@@ -1,11 +1,11 @@
 ent-HereticRuneRitual = руна трансмутации
-    .desc = Древний рисунок, используемый зловещими личностями для жертвоприношений.
+    .desc = Древний рисунок, которым зловещие личности пользуются для жертвоприношений.
 
 ent-HereticRuneRitualDrawAnimation = незаконченная руна трансмутации
-    .desc = Незаконченный древний рисунок, используемый зловещими личностями для жертвоприношений.
+    .desc = Незаконченный древний рисунок, которым зловещие личности пользуются для жертвоприношений.
 
 ent-HereticRuneRitualDrawAnimationMorbus = { ent-HereticRuneRitualDrawAnimation }
     .desc = { ent-HereticRuneRitualDrawAnimation.desc }
 
 ent-HereticRuneRitualAnimation = руна трансмутации
-    .desc = Вы не должны видеть это описание.
+    .desc = вы не должны видеть это описание

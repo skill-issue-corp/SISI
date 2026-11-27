@@ -1,14 +1,14 @@
 ent-ClothingHeadHelmetRev = шлем
-    .desc = Этот боевой шлем часто используется революционерами и одновременно прочен и лёгок.
+    .desc = Прочный и лёгкий боевой шлем, который часто носят революционеры.
 
-ent-ClothingHelmetRevFlame = шлем огненного десантника
+ent-ClothingHelmetRevFlame = шлем огнемётчика
     .desc = { ent-ClothingHeadHelmetArmoredBase.desc }
 
-ent-ClothingHeadHatHelmetVenerator = головной убор венератора
-    .desc = Свет Христов, что удивительно, не излучает света.
+ent-ClothingHeadHatHelmetVenerator = головной убор почитателя
+    .desc = Свет христов. Странно, что от него совсем не светло.
 
-ent-ClothingHeadHatHelmetMamluk = шлем мамлюка
+ent-ClothingHeadHatHelmetMamluk = мамлюкский шлем
     .desc = Кольчужный капюшон, остановивший тысячи стрел.
 
 ent-ClothingHeadHelmetCsij = капюшон биокостюма CSIJ
-    .desc = Костюм из извивающейся плоти, которая - погодите, это пена.
+    .desc = Костюм из извивающейся плоти, которая... погодите, это поролон.

@@ -1,19 +1,19 @@
-ent-MaintenanceFluffSpawner = спавнер добыча тех туннели
-    .suffix = Разное+Одежда
+ent-MaintenanceFluffSpawner = Спавнер Добычи в Техах
     .desc = { ent-MarkerBase.desc }
+    .suffix = Хлам+Одежда
 
-ent-MaintenanceToolSpawner = спавнер добыча тех туннели
+ent-MaintenanceToolSpawner = Спавнер Добычи в Техах
+    .desc = { ent-MarkerBase.desc }
     .suffix = Инструменты+Батареи+Материалы
-    .desc = { ent-MarkerBase.desc }
 
-ent-MaintenanceWeaponSpawner = спавнер добыча тех туннели
-    .suffix = Хлам+Оружие
+ent-MaintenanceWeaponSpawner = Спавнер Добычи в Техах
     .desc = { ent-MarkerBase.desc }
+    .suffix = Лом+Оружие
 
-ent-MaintenancePlantSpawner = спавнер добыча тех туннели
+ent-MaintenancePlantSpawner = Спавнер Добычи в Техах
+    .desc = { ent-MarkerBase.desc }
     .suffix = Растения
-    .desc = { ent-MarkerBase.desc }
 
-ent-MaintenanceInsulsSpawner = спавнер добыча тех туннели
-    .suffix = Изольки, безопасный
+ent-MaintenanceInsulsSpawner = Спавнер Добычи в Техах
     .desc = { ent-MarkerBase.desc }
+    .suffix = Диэлектрические перчатки, безопасно

@@ -1,8 +1,8 @@
-ent-StatusEffectCocaineStamina = кокаиновый прилив
+ent-StatusEffectCocaineStamina = прилив сил от кокаина
     .desc = { ent-StaminaModifierStatusEffect.desc }
 
 ent-StatusEffectBlurryVision = размытое зрение
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectWingsOpen = раскрытые крылья
+ent-StatusEffectWingsOpen = крылья расправлены
     .desc = { ent-MobStatusEffectBase.desc }

@@ -1,2 +1,2 @@
-ent-OrganArachnidAppendages = паучьи конечности
+ent-OrganArachnidAppendages = паучьи придатки
     .desc = { ent-OrganBaseWings.desc }

@@ -31,23 +31,23 @@ ent-ForgedHammer = { ent-BaseForgedProduct }
 ent-ForgedScrewdriver = { ent-BaseForgedProduct }
     .desc = { ent-BaseForgedProduct.desc }
 
-ent-ForgedSword = боевой меч
+ent-ForgedSword = одноручный меч
     .desc = { ent-BaseForgedProductCrossGuard.desc }
 
 ent-ForgedHalberd = алебарда
-    .desc = Мощное древковое оружие со странно изогнутым наконечником.
+    .desc = Мощное древковое оружие с наконечником необычной формы.
 
 ent-ForgedLongsword = длинный меч
-    .desc = Похож на меч, только длиннее. Чтобы владеть им как следует, нужны обе руки.
+    .desc = Как меч, только длиннее. Чтобы управляться с ним как следует, нужны обе руки.
 
 ent-ForgedWarhammer = боевой молот
-    .desc = У каждого гнома должен быть такой, а то и сорок тысяч.
+    .desc = У каждого дворфа должен быть такой. Или, может, сорок тысяч таких.
 
 ent-ForgedPickaxe = { ent-BaseForgedProductSeparateHead }
     .desc = { ent-BaseForgedProductSeparateHead.desc }
 
 ent-ForgedKatana = катана
-    .desc = Пока они гуляли на вечеринках, я оттачивал клинок.
+    .desc = Пока они тусовались, я упражнялся с клинком.
 
 ent-ForgedArrow = стрела
     .desc = { ent-BaseMetallicProcGen.desc }
@@ -56,4 +56,4 @@ ent-ForgedSpear = { ent-BaseForgedProductSeparateHead }
     .desc = { ent-BaseForgedProductSeparateHead.desc }
 
 ent-ForgedMorningstar = моргенштерн
-    .desc = Вам ОЧЕНЬ не захочется получить этим по черепу...
+    .desc = Вы ТОЧНО не захотите, чтобы вам проломили череп этой штукой...

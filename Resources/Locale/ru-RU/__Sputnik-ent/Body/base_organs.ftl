@@ -73,10 +73,10 @@ ent-OrganBaseKidneys = почки
 ent-OrganSpriteHumanInternal = { "" }
     .desc = { "" }
 
-ent-OrganBaseHeadSexed = голова
+ent-OrganBaseHeadSexed = { "" }
     .desc = { "" }
 
-ent-OrganBaseTorsoSexed = торс
+ent-OrganBaseTorsoSexed = { "" }
     .desc = { "" }
 
 ent-OrganBaseParent = { "" }

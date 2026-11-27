@@ -1,6 +1,8 @@
-ent-BaseMagazineShotgunHeavy = барабан (снаряды 2-го калибра)
+ent-BaseMagazineShotgunHeavy = барабанный магазин (2 калибр ружейные)
     .desc = { ent-BaseItem.desc }
-ent-MagazineShotgunHeavy = барабан (взрывная дробь 2-го калибра)
+
+ent-MagazineShotgunHeavy = барабанный магазин (2 калибр ОФ картечь)
     .desc = { ent-BaseMagazineShotgunHeavy.desc }
-ent-MagazineShotgunHeavySlug = барабан (взрывные пули 2-го калибра)
+
+ent-MagazineShotgunHeavySlug = барабанный магазин (2 калибр ОФ пуля)
     .desc = { ent-BaseMagazineShotgunHeavy.desc }

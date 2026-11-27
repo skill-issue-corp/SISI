@@ -1,117 +1,159 @@
-ent-DoorElectronicsService = { ent-DoorElectronics }
-    .suffix = Сервис, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsTheatre = { ent-DoorElectronics }
-    .suffix = Театр, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsChapel = { ent-DoorElectronics }
-    .suffix = Храм, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsJanitor = { ent-DoorElectronics }
-    .suffix = Уборщик, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsBarKitchen = { ent-DoorElectronics }
-    .suffix = Бар, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsKitchen = { ent-DoorElectronics }
-    .suffix = Кухня, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsBar = { ent-DoorElectronics }
-    .suffix = Бар, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsHydroponics = { ent-DoorElectronics }
-    .suffix = Гидропоника, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsLawyer = { ent-DoorElectronics }
-    .suffix = Юридический, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsKitchenHydroponics = { ent-DoorElectronics }
-    .suffix = Кухня/Гидропоника, Закрыт
-    .desc = { ent-DoorElectronics.desc }
 ent-DoorElectronicsCaptain = { ent-DoorElectronics }
-    .suffix = Капитан, Закрыт
     .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsExternal = { ent-DoorElectronics }
-    .suffix = Внешний, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsCargo = { ent-DoorElectronics }
-    .suffix = Снабжение, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsServiceTheatre = { ent-DoorElectronics }
-    .suffix = Сервисный, Театр, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsEngineering = { ent-DoorElectronics }
-    .suffix = Инженерный, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsAtmospherics = { ent-DoorElectronics }
-    .suffix = Атмосферный, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsSalvage = { ent-DoorElectronics }
-    .suffix = Утилизаторский, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsMedical = { ent-DoorElectronics }
-    .suffix = Медицинский, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsChemistry = { ent-DoorElectronics }
-    .suffix = Химия, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsResearch = { ent-DoorElectronics }
-    .suffix = Научный, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsMorgue = { ent-DoorElectronics }
-    .suffix = Морг, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsMedicalResearch = { ent-DoorElectronics }
-    .suffix = Медицинский/Научный, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsCommand = { ent-DoorElectronics }
-    .suffix = Командный, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsCentralCommand = { ent-DoorElectronics }
-    .suffix = ЦК, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsChiefMedicalOfficer = { ent-DoorElectronics }
-    .suffix = Главный врач, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsChiefEngineer = { ent-DoorElectronics }
-    .suffix = Старший инженер, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsHeadOfSecurity = { ent-DoorElectronics }
-    .suffix = Глава службы безопасности, Закрыт
-    .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsResearchDirector = { ent-DoorElectronics }
-    .suffix = Научный руководитель, Закрыт
-    .desc = { ent-DoorElectronics.desc }
+    .suffix = Капитан, Заперто
+
 ent-DoorElectronicsHeadOfPersonnel = { ent-DoorElectronics }
-    .suffix = Глава персонала, Закрыт
     .desc = { ent-DoorElectronics.desc }
+    .suffix = ГлаваПерсонала, Заперто
+
+ent-DoorElectronicsCommand = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Командование, Заперто
+
+ent-DoorElectronicsBar = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Бар, Заперто
+
+ent-DoorElectronicsBarKitchen = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Бар, Заперто
+
+ent-DoorElectronicsHydroponics = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Гидропоника, Заперто
+
+ent-DoorElectronicsChapel = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Часовня, Заперто
+
+ent-DoorElectronicsTheatre = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Театр, Заперто
+
+ent-DoorElectronicsKitchen = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Кухня, Заперто
+
+ent-DoorElectronicsKitchenHydroponics = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Кухня/Гидропоника, Заперто
+
+ent-DoorElectronicsJanitor = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Уборщик, Заперто
+
+ent-DoorElectronicsLawyer = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Адвокат, Заперто
+
+ent-DoorElectronicsService = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Обслуживание, Заперто
+
+ent-DoorElectronicsServiceTheatre = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Сервис, Театр, Заперто
+
 ent-DoorElectronicsQuartermaster = { ent-DoorElectronics }
-    .suffix = Квартирмейстер, Закрыт
     .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsSecurity = { ent-DoorElectronics }
-    .suffix = Служба безопасности, Закрыт
+    .suffix = Квартирмейстер, Заперто
+
+ent-DoorElectronicsSalvage = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsSecurityLawyer = { ent-DoorElectronics }
-    .suffix = Служба безопасности/Юридический, Закрыт
+    .suffix = Утилизация, Заперто
+
+ent-DoorElectronicsCargo = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsDetective = { ent-DoorElectronics }
-    .suffix = Детектив, Закрыт
+    .suffix = Карго, Заперто
+
+ent-DoorElectronicsChiefEngineer = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsBrig = { ent-DoorElectronics }
-    .suffix = Бриг, Закрыт
+    .suffix = СтаршийИнженер, Заперто
+
+ent-DoorElectronicsAtmospherics = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
+    .suffix = Атмосферный Отсек, Заперто
+
+ent-DoorElectronicsEngineering = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Инженерия, Заперто
+
+ent-DoorElectronicsMorgue = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Морг, Заперто
+
+ent-DoorElectronicsResearchDirector = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = НаучныйРуководитель, Заперто
+
+ent-DoorElectronicsMedicalResearch = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Медотсек/Наука, Заперто
+
+ent-DoorElectronicsResearch = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Исследования, Заперто
+
+ent-DoorElectronicsHeadOfSecurity = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = ГлаваСлужбыБезопасности, Заперто
+
 ent-DoorElectronicsArmory = { ent-DoorElectronics }
-    .suffix = Оружейная, Закрыт
     .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsVault = { ent-DoorElectronics }
-    .suffix = Хранилище, Закрыт
+    .suffix = Оружейная, Заперто
+
+ent-DoorElectronicsDetective = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsMaintenance = { ent-DoorElectronics }
-    .suffix = Техобслуживание, Закрыт
+    .suffix = Детектив, Заперто
+
+ent-DoorElectronicsSecurity = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-ent-DoorElectronicsSyndicateAgent = { ent-DoorElectronics }
-    .suffix = Агенты Синдиката, Закрыт
+    .suffix = Служба Безопасности, Заперто
+
+ent-DoorElectronicsSecurityLawyer = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
+    .suffix = Служба Безопасности/Адвокат, Заперто
+
+ent-DoorElectronicsBrig = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Бриг, Заперто
+
+ent-DoorElectronicsChiefMedicalOfficer = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = ГлавныйВрач, Заперто
+
+ent-DoorElectronicsChemistry = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Химия, Заперто
+
+ent-DoorElectronicsMedical = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Медотсек, Заперто
+
 ent-DoorElectronicsNukeop = { ent-DoorElectronics }
-    .suffix = Ядерные Оперативники, Закрыт
     .desc = { ent-DoorElectronics.desc }
+    .suffix = Ядерный Оперативник, Заперто
+
+ent-DoorElectronicsSyndicateAgent = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = АгентСиндиката, Заперто
+
+ent-DoorElectronicsCentralCommand = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = ЦентральноеКомандование, Заперто
+
+ent-DoorElectronicsExternal = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Внешний, Заперто
+
+ent-DoorElectronicsMaintenance = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Техтоннели, Заперто
+
+ent-DoorElectronicsVault = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Хранилище, Заперто
+
+ent-DoorElectronicsXenoborg = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Ксеноборг, Заперто

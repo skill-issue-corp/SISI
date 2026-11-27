@@ -1,13 +1,13 @@
 ent-HypnoflashSyndicate = гипновспышка
-    .desc = Особая вспышка производства Interdyne. Стирает кратковременную память у всех, на кого подействовала, и заставляет первые услышанные слова эхом звучать в их сознании.
+    .desc = Особая вспышка производства «Интердайн». Стирает недавние воспоминания у всякого, кого ослепит, а первые услышанные после этого слова эхом звучат у него в голове.
     .suffix = синдикат, 1 заряд
 
 ent-HypnoflashDebug = { ent-HypnoflashSyndicate }
     .desc = { ent-HypnoflashSyndicate.desc }
     .suffix = Отладка
 
-ent-BriefcaseSyndieSuperValidEmpty = чемодан
-    .desc = Один лысый тип точно носил такую штуку.
+ent-BriefcaseSyndieSuperValidEmpty = портфель
+    .desc = Один лысый тип точно носил такой.
     .suffix = пустой
 
 ent-PaperWrittenHypnoflashAd = { ent-Paper }
@@ -18,8 +18,8 @@ ent-BriefcaseSyndieSuperValidHypnoflash = { ent-BriefcaseSyndieSuperValidEmpty }
     .desc = { ent-BriefcaseSyndieSuperValidEmpty.desc }
     .suffix = заполнен, гипновспышка
 
-ent-HypnotizedObjective = Загипнотизированный
+ent-HypnotizedObjective = Загипнотизированы
     .desc = В вашем разуме воцаряется тишина.
 
-ent-MindRoleHypnotized = Загипнотизированный
+ent-MindRoleHypnotized = Загипнотизированы
     .desc = { ent-BaseMindRoleAntag.desc }

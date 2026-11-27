@@ -1,81 +1,81 @@
-ent-LockerBooze = хранилище алкоголя
-    .desc = Здесь бармен хранит алкоголь.
+ent-LockerBooze = шкаф для выпивки
+    .desc = Здесь бармен хранит выпивку.
 
-ent-LockerSteel = защищенный шкаф
+ent-LockerSteel = защищённый шкаф
     .desc = { ent-LockerBase.desc }
 
-ent-LockerQuarterMaster = шкафчик квартирмейстера
+ent-LockerQuarterMaster = шкаф квартирмейстера
     .desc = { ent-LockerBase.desc }
 
-ent-LockerSalvageSpecialist = шкафчик специалиста по утилизации
-    .desc = Содержит снаряжение, полезное для исследования космоса.
+ent-LockerSalvageSpecialist = шкаф утилизатора
+    .desc = Содержит снаряжение для исследования космоса.
 
-ent-LockerCaptain = шкафчик капитана
+ent-LockerCaptain = шкаф капитана
     .desc = { ent-LockerBase.desc }
 
-ent-LockerHeadOfPersonnel = шкафчик главы персонала
+ent-LockerHeadOfPersonnel = шкаф главы персонала
     .desc = { ent-LockerBase.desc }
 
-ent-LockerChiefEngineer = шкафчик старшего инженера
+ent-LockerChiefEngineer = шкаф старшего инженера
     .desc = { ent-LockerBase.desc }
 
-ent-LockerElectricalSupplies = шкаф с электротехническими принадлежностями
+ent-LockerElectricalSupplies = шкаф электротехнических принадлежностей
     .desc = { ent-LockerBase.desc }
 
-ent-LockerWeldingSupplies = шкаф со сварочными принадлежностями
+ent-LockerWeldingSupplies = шкаф сварочного снаряжения
     .desc = { ent-LockerBase.desc }
 
-ent-LockerAtmospherics = шкафчик атмосферного техника
+ent-LockerAtmospherics = шкаф атмосферного техника
     .desc = { ent-LockerBase.desc }
 
-ent-LockerEngineer = шкафчик инженера
+ent-LockerEngineer = шкаф инженера
     .desc = { ent-LockerBase.desc }
 
-ent-LockerEvacRepair = аварийный шкафчик эвакуационного шаттла
-    .desc = Сплошные аварии до самого дна.
+ent-LockerEvacRepair = аварийный шкаф эвакуационного шаттла
+    .desc = Авария на аварии и аварией погоняет.
 
 ent-LockerFreezerBase = морозильник
     .desc = { ent-LockerBase.desc }
-    .suffix = Без доступа
+    .suffix = Без Ограничений Доступа
 
 ent-LockerFreezer = морозильник
     .desc = { ent-LockerFreezerBase.desc }
-    .suffix = Кухня, заперто
+    .suffix = Кухня, Заперто
 
-ent-LockerBotanist = шкафчик ботаника
+ent-LockerBotanist = шкаф ботаника
     .desc = { ent-LockerBase.desc }
 
-ent-LockerMedicine = шкафчик с медикаментами
-    .desc = Заполнен под завязку медицинским барахлом.
+ent-LockerMedicine = шкаф для медикаментов
+    .desc = Доверху забит медицинским барахлом.
 
-ent-LockerMedical = шкафчик врача
+ent-LockerMedical = шкаф врача
     .desc = { ent-LockerBase.desc }
 
-ent-LockerParamedic = шкафчик парамедика
+ent-LockerParamedic = шкаф парамедика
     .desc = { ent-LockerBase.desc }
 
-ent-LockerChemistry = химический шкафчик
+ent-LockerChemistry = шкаф химика
     .desc = { ent-LockerBase.desc }
 
-ent-LockerChiefMedicalOfficer = шкафчик главного врача
+ent-LockerChiefMedicalOfficer = шкаф главного врача
     .desc = { ent-LockerBase.desc }
 
-ent-LockerResearchDirector = шкафчик директора исследований
+ent-LockerResearchDirector = шкаф научного руководителя
     .desc = { ent-LockerBase.desc }
 
-ent-LockerScientist = шкафчик ученого
+ent-LockerScientist = шкаф учёного
     .desc = { ent-LockerBase.desc }
 
-ent-LockerHeadOfSecurity = шкафчик главы службы безопасности
+ent-LockerHeadOfSecurity = шкаф главы службы безопасности
     .desc = { ent-LockerBase.desc }
 
-ent-LockerWarden = шкафчик смотрителя
+ent-LockerWarden = шкаф смотрителя
     .desc = { ent-LockerBase.desc }
 
-ent-LockerBrigmedic = шкафчик бригмедика
+ent-LockerBrigmedic = шкаф бригмедика
     .desc = { ent-LockerBase.desc }
 
-ent-LockerSecurity = шкафчик сотрудника службы безопасности
+ent-LockerSecurity = шкаф офицера службы безопасности
     .desc = { ent-LockerBase.desc }
 
 ent-GunSafe = оружейный сейф
@@ -83,13 +83,13 @@ ent-GunSafe = оружейный сейф
 
 ent-GunSafeBaseSecure = { ent-GunSafe }
     .desc = { ent-GunSafe.desc }
-    .suffix = Оружейная, заперто
+    .suffix = Оружейная, Заперто
 
 ent-GenpopBase = { "" }
     .desc = { "" }
 
-ent-LockerPrisoner = шкафчик заключенного
-    .desc = Это защищенный шкафчик для личных вещей заключенного на время его пребывания в тюрьме.
+ent-LockerPrisoner = шкаф заключённого
+    .desc = Защищённый шкаф для личных вещей заключённого на время отбывания срока.
     .suffix = 1
 
 ent-LockerPrisoner2 = { ent-LockerPrisoner }
@@ -120,25 +120,25 @@ ent-LockerPrisoner8 = { ent-LockerPrisoner }
     .desc = { ent-LockerPrisoner.desc }
     .suffix = 8
 
-ent-LockerDetective = шкаф детектива
-    .desc = Обычно холодный и пустой... как ваше сердце.
+ent-LockerDetective = тумба детектива
+    .desc = Обычно холодная и пустая... как ваше сердце.
 
-ent-LockerEvidence = шкафчик для улик
-    .desc = Для хранения пакетов с гильзами и личными вещами задержанных.
+ent-LockerEvidence = шкаф для улик
+    .desc = Для хранения пакетов с гильзами и вещей задержанных.
 
 ent-LockerSyndicatePersonal = кроваво-красный шкафчик
-    .desc = Это личный шкаф для хранения с кроваво-красным дизайном.
+    .desc = Личный шкафчик с кроваво-красным оформлением.
     .suffix = Заперто
 
-ent-LockerBluespaceStation = блюспейс-шкафчик
-    .desc = Продвинутая технология шкафчиков.
-    .suffix = Один раз до станции
+ent-LockerBluespaceStation = блюспейс-шкаф
+    .desc = Передовые шкафные технологии.
+    .suffix = однократно на станцию
 
-ent-LockerClown = шкафчик клоуна
+ent-LockerClown = шкаф клоуна
     .desc = { ent-LockerBase.desc }
 
-ent-LockerMime = шкафчик мима
+ent-LockerMime = шкаф мима
     .desc = { ent-LockerBase.desc }
 
-ent-LockerRepresentative = шкафчик представителя
+ent-LockerRepresentative = шкаф представителя
     .desc = { ent-LockerBase.desc }

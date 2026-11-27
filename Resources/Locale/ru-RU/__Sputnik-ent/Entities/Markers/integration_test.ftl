@@ -1,2 +1,2 @@
-ent-IntegrationTestMarker = маркер интеграционного теста
+ent-IntegrationTestMarker = Маркер Интеграционного Теста
     .desc = { ent-MarkerBase.desc }

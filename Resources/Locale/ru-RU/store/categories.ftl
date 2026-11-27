@@ -1,24 +1,29 @@
 # Uplink
-store-category-debug = Debug категория
-store-category-debug2 = Debug категория 2
+store-category-debug = категория отладки
+store-category-debug2 = категория отладки 2
 store-category-weapons = Вооружение
 store-category-ammo = Боеприпасы
 store-category-explosives = Взрывчатка
 store-category-chemicals = Химикаты
-store-category-deception = Обман
+store-category-deception = Маскировка
 store-category-disruption = Саботаж
-store-category-allies = Союзники
-store-category-wearables = Экипировка
 store-category-implants = Импланты
-store-category-job = Работа
+store-category-allies = Союзники
+store-category-job = Профессия
+store-category-wearables = Одежда
 store-category-pointless = Безделушки
-store-category-contractor = Наёмник
+store-category-objective = Цель
 store-discounted-items = Скидки
+
 # Revenant
 store-category-abilities = Способности
+
 # Wizard
-store-caregory-spellbook-offensive = Атакующие заклинания
-store-caregory-spellbook-defensive = Защитные заклинания
-store-caregory-spellbook-utility = Вспомогательные заклинания
-store-caregory-spellbook-equipment = Волшебное снаряжение
-store-caregory-spellbook-events = Заклинания событий
+store-caregory-spellbook-offensive = Атакующие Заклинания
+store-caregory-spellbook-defensive = Защитные Заклинания
+store-caregory-spellbook-utility = Вспомогательные Заклинания
+store-caregory-spellbook-equipment = Снаряжение Мага
+store-caregory-spellbook-events = Заклинания Событий
+
+# Nukie Delivery
+store-category-nukie-delivery = Предложения

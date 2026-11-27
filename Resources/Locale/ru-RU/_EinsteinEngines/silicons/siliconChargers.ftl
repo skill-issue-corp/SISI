@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-silicon-charger-overheatwarning = Вы чувствуете себя как в микроволновке!
-silicon-charger-chargerate-string = Скорость заряда
+silicon-charger-overheatwarning = Вам кажется, будто вы в микроволновке!
+silicon-charger-chargerate-string = Скорость зарядки
 silicon-charger-efficiency-string = Эффективность
-silicon-charger-list-full = { CAPITALIZE($charger) } может вместить лишь ограниченное количество!
+silicon-charger-list-full = {CAPITALIZE($charger)} не вмещает столько целей!

@@ -1,2 +1,2 @@
-job-name-shaftminer = шахтёр
-job-description-shaftminer = Исследуйте поверхности планет, сражайтесь с фауной и добывайте руду.
+job-name-shaftminer = Шахтёр
+job-description-shaftminer = Исследуйте поверхность планет, сражайтесь с местной фауной и добывайте руду.

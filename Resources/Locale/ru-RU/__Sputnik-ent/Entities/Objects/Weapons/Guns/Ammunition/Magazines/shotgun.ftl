@@ -1,13 +1,18 @@
-ent-BaseMagazineShotgun = барабан (.50 дробь)
+ent-BaseMagazineShotgun = барабанный магазин (12 Калибр патроны)
     .desc = { ent-BaseItem.desc }
-ent-MagazineShotgunEmpty = барабан (.50 любые)
-    .suffix = Пустой
-    .desc = { ent-BaseMagazineShotgun.desc }
-ent-MagazineShotgun = барабан (.50 дробь)
-    .desc = { ent-BaseMagazineShotgun.desc }
-ent-MagazineShotgunBeanbag = барабан (.50 травматические)
-    .desc = { ent-BaseMagazineShotgun.desc }
-ent-MagazineShotgunSlug = барабан (.50 пуля)
-    .desc = { ent-BaseMagazineShotgun.desc }
-ent-MagazineShotgunIncendiary = барабан (.50 зажигательные)
-    .desc = { ent-BaseMagazineShotgun.desc }
+
+ent-MagazineShotgunEmpty = барабанный магазин (12 Калибр любые патроны)
+    .desc = Вместительный барабанный магазин для некоторых армейских автоматических дробовиков.
+    .suffix = пусто
+
+ent-MagazineShotgun = барабанный магазин (12 Калибр картечь)
+    .desc = Вместительный барабанный магазин для некоторых армейских автоматических дробовиков. Предназначен для обычных кинетических боеприпасов.
+
+ent-MagazineShotgunBeanbag = барабанный магазин (12 Калибр травматические)
+    .desc = Вместительный барабанный магазин для некоторых армейских автоматических дробовиков. Предназначен для травматических боеприпасов с мягкими снарядами.
+
+ent-MagazineShotgunSlug = барабанный магазин (12 Калибр пуля)
+    .desc = Вместительный барабанный магазин для некоторых армейских автоматических дробовиков. Предназначен для дальнобойных пулевых боеприпасов.
+
+ent-MagazineShotgunIncendiary = барабанный магазин (12 Калибр зажигательные)
+    .desc = Вместительный барабанный магазин для некоторых армейских автоматических дробовиков. Предназначен для самовоспламеняющихся зажигательных боеприпасов.

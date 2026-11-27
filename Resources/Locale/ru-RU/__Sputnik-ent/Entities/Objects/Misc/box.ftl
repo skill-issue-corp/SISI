@@ -7,5 +7,5 @@ ent-BoxBaseSmall = { ent-BoxBase }
 ent-BoxBaseHug = { ent-BaseBoxSurvival }
     .desc = { ent-BaseBoxSurvival.desc }
 
-ent-ToteBase = сумка для плат
-    .desc = Большая сумка для переноски печатных плат.
+ent-ToteBase = короб для плат
+    .desc = Большой короб для переноски печатных плат.

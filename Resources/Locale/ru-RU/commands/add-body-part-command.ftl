@@ -1,2 +1,2 @@
-cmd-addbodypart-desc = Добавляет указанную сущность в состав тела.
+cmd-addbodypart-desc = Добавляет указанный объект в тело.
 cmd-addbodypart-help = Использование: addbodypart <entity uid> <body uid> <part slot> <part type>

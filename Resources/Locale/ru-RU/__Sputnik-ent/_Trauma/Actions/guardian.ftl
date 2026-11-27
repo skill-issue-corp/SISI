@@ -1,2 +1,2 @@
-ent-ActionSelfToggleGuardian = призыв себя
-    .desc = Возвращает вас обратно в тело вашего носителя
+ent-ActionSelfToggleGuardian = Вернуться в Носителя
+    .desc = Возвращает вас в тело вашего носителя

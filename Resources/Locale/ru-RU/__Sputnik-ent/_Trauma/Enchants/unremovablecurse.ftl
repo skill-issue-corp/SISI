@@ -1,2 +1,2 @@
-ent-CurseUnremovable = Проклятье Привязки
+ent-CurseUnremovable = Проклятие Привязки
     .desc = { ent-BaseEnchant.desc }

@@ -1,4 +1,5 @@
-ent-RandomSmokables = случайный спавнер табачные изделия
+ent-RandomSmokables = спавнер случайных курительных принадлежностей
     .desc = { ent-MarkerBase.desc }
-ent-RandomSoakedCigarette = случайный спавнер пропитанная сигарета
+
+ent-RandomSoakedCigarette = спавнер случайной пропитанной сигареты
     .desc = { ent-MarkerBase.desc }

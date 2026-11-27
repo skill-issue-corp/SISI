@@ -1,2 +1,2 @@
-ent-GreenSlimeExtract = зелёный экстракт слайма
+ent-GreenSlimeExtract = экстракт зелёного слайма
     .desc = { ent-BaseSlimeExtract.desc }

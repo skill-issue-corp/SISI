@@ -1,5 +1,5 @@
-ent-WeaponTileGun = плиткострел
-    .desc = Странное оружие, стреляющее плитками. Стреляйте в них полом!
+ent-WeaponTileGun = плиткомёт
+    .desc = Странная пушка, стреляющая плиткой. Палите в них полом!
 
 ent-WeaponTileGunEmpty = { ent-WeaponTileGun }
     .desc = { ent-WeaponTileGun.desc }

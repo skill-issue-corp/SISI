@@ -1,1 +1,1 @@
-objective-salvage-mine-desc = Добывайте руду и разбивайте камни, норма — {$quota} очков добычи!
+objective-salvage-mine-desc = Добывайте руду и разбивайте камни. Квота: {$quota} очк. добычи!

@@ -1,9 +1,17 @@
-advertisement-sovietsoda-1 = За товарища и страну.
-advertisement-sovietsoda-2 = Выполнили ли вы сегодня свою норму питания?
+# SPDX-FileCopyrightText: 2021 Visne <39844191+Visne@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Tayrtahn <tayrtahn@gmail.com>
+# SPDX-FileCopyrightText: 2024 Ubaser <134914314+UbaserB@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+advertisement-sovietsoda-1 = За товарища и родину.
+advertisement-sovietsoda-2 = Вы выполнили норму питания на сегодня?
 advertisement-sovietsoda-3 = Очень хорошо!
-advertisement-sovietsoda-4 = Мы простые люди, потому что это всё, что мы едим.
-advertisement-sovietsoda-5 = Если есть человек, значит, есть проблема. Если нет человека, то нет и проблемы.
-advertisement-sovietsoda-6 = Если оно достаточно хорошо для повседневной жизни, то оно достаточно хорошо и для нас!
-thankyou-sovietsoda-1 = Приятного аппетита, товарищ!
-thankyou-sovietsoda-2 = А теперь возвращайтесь к работе.
-thankyou-sovietsoda-3 = Вы получили всё, что положено.
+advertisement-sovietsoda-4 = Мы люди простые, только этим и питаемся.
+advertisement-sovietsoda-5 = Есть человек - есть проблема. Нет человека - нет проблемы.
+advertisement-sovietsoda-6 = Годится на каждый день - значит, и нам годится!
+thankyou-sovietsoda-1 = Угощайтесь, товарищ!
+thankyou-sovietsoda-2 = А теперь за работу.
+thankyou-sovietsoda-3 = Больше вам не положено.

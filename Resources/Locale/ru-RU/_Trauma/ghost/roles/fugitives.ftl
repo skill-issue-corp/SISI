@@ -1,17 +1,17 @@
-ghost-role-information-fugitive-hunter-name = Охотник на беглецов
+ghost-role-information-fugitive-hunter-name = Охотник За Беглецами
 
-ghost-role-information-syndicate-hunter-description = Вы агент Синдиката по возвращению беглецов, замаскированный под офицера космической полиции. Вам поручено поймать беглецов, скрывающихся на этой станции. Не попадитесь. Не провалите задание.
-ghost-role-information-syndicate-hunter-rules = Вы [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Сосредоточьтесь на поимке беглецов. Постарайтесь не убить их или сотрудников службы безопасности.
+ghost-role-information-syndicate-hunter-description = Вы Агент Синдиката По Возвращению Беглецов, выдающий себя за Офицера Космической Полиции. Вам поручили поймать беглецов, скрывающихся на станции. Не попадитесь. Не подведите.
+ghost-role-information-syndicate-hunter-rules = Ваша роль – [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Сосредоточьтесь на поимке беглецов. Постарайтесь обойтись без гибели беглецов и сотрудников СБ.
 
-ghost-role-information-spacepol-hunter-description = Вы офицер космической полиции. Вам поручено поймать беглецов, скрывающихся на этой станции. Служба безопасности станции может вам не помогать. Сведите насилие к минимуму.
-ghost-role-information-spacepol-hunter-rules = Вы [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Сосредоточьтесь на поимке беглецов. Не допускайте ненужных жертв.
+ghost-role-information-spacepol-hunter-description = Вы Офицер Космической Полиции. Вам поручили поймать беглецов, скрывающихся на станции. Служба безопасности станции может не помогать вам. Сведите насилие к минимуму.
+ghost-role-information-spacepol-hunter-rules = Ваша роль – [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Сосредоточьтесь на поимке беглецов. Избегайте лишних жертв.
 
-ghost-role-information-russian-hunter-description = Вы русский космический контрабандист. КосмоПол согласился простить ваши преступления, если вы приведёте беглецов, скрывающихся на этой станции. Избегайте ненужных убийств.
-ghost-role-information-russian-hunter-rules = Вы [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Сосредоточьтесь на поимке беглецов. Постарайтесь не убить их или сотрудников службы безопасности.
+ghost-role-information-russian-hunter-description = Вы Русский Космический Контрабандист. КосмоПол согласился простить ваши преступления, если вы доставите беглецов, скрывающихся на этой станции. Избегайте ненужных убийств.
+ghost-role-information-russian-hunter-rules = Ваша роль – [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Сосредоточьтесь на поимке беглецов. Постарайтесь обойтись без гибели беглецов и сотрудников СБ.
 
-ghost-role-information-bounty-hunter-description = Вы охотник за головами. Вам заплатили за убийство беглецов на борту этой станции. Избегайте ненужных убийств.
-ghost-role-information-bounty-hunter-rules = Вы [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Сосредоточьтесь на поимке беглецов. Не допускайте ненужных жертв.
+ghost-role-information-bounty-hunter-description = Вы Охотник За Головами. Вам заплатили за ликвидацию беглецов на этой станции. Избегайте ненужных убийств.
+ghost-role-information-bounty-hunter-rules = Ваша роль – [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Сосредоточьтесь на поимке беглецов. Избегайте лишних жертв.
 
 ghost-role-information-fugitive-name = Беглец
-ghost-role-information-fugitive-description = Вы сбежавший заключённый. Ваше прошлое наконец настигло вас, но вы не позволите ему схватить вас. Не сегодня.
-ghost-role-information-fugitive-rules = Вы [color={role-type-team-antagonist-color}][bold]{role-type-solo-antagonist-name}[/bold][/color]. Старайтесь не привлекать внимания, вместо того чтобы напрямую противостоять охотникам или службе безопасности.
+ghost-role-information-fugitive-description = Вы Сбежавший Заключённый. Ваше прошлое наконец вас настигло, но вы ещё можете ускользнуть. Не сегодня.
+ghost-role-information-fugitive-rules = Ваша роль – [color={role-type-team-antagonist-color}][bold]{role-type-solo-antagonist-name}[/bold][/color]. Старайтесь не привлекать внимания и избегайте прямых стычек с охотниками и СБ.

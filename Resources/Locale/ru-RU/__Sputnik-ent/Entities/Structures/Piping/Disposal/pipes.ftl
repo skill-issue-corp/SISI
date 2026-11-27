@@ -1,53 +1,53 @@
 ent-DisposalPipeBase = { "" }
     .desc = { "" }
 
-ent-DisposalHolder = держатель утилизационного блока
+ent-DisposalHolder = контейнер мусоросброса
     .desc = { "" }
 
-ent-DisposalPipeBroken = повреждённая утилизационная труба
-    .desc = БПТ (большая повреждённая труба).
+ent-DisposalPipeBroken = сломанная труба мусоросброса
+    .desc = БСТ (большая сломанная труба).
 
-ent-DisposalPipe = участок утилизационной трубы
-    .desc = Большой сегмент трубы, используемый при создании системы утилизации.
+ent-DisposalPipe = секция трубы мусоросброса
+    .desc = Огромная секция трубы для сборки мусоросброса.
 
-ent-DisposalTagger = маркировщик утилизационной трубы
-    .desc = Труба, маркирующая объекты для отправки определённому адресату.
+ent-DisposalTagger = маркировщик мусоросброса
+    .desc = Труба, помечающая объекты для маршрутизации.
 
-ent-DisposalSignaller = утилизационный передатчик сигналов
-    .desc = Труба, подающая сигнал при прохождении предмета.
+ent-DisposalSignaller = сигнализатор мусоросброса
+    .desc = Труба, подающая сигнал, когда через неё проходит предмет.
 
-ent-DisposalTrunk = ствол утилизационной трубы
-    .desc = Труба, используемая в качестве точки входа в систему утилизации.
+ent-DisposalTrunk = впуск мусоросброса
+    .desc = Впускной патрубок для подключения устройств к мусоросбросу.
 
-ent-DisposalRouter = маршрутизатор утилизационной трубы
-    .desc = Трёхсторонний маршрутизатор. Объекты с совпадающими маркерами уходят в сторону с помощью настраиваемых фильтров.
+ent-DisposalRouter = маршрутизатор мусоросброса
+    .desc = Трёхходовой маршрутизатор. Объекты с подходящими метками уходят в боковое ответвление по настраиваемому фильтру.
 
 ent-DisposalRouterFlipped = { ent-DisposalRouter }
-    .suffix = Перевёрнутый
-    .desc = { ent-DisposalRouter.desc }
+    .desc = Трёхходовой маршрутизатор. Объекты с подходящими метками уходят в боковое ответвление.
+    .suffix = перевёрнуто
 
-ent-DisposalJunction = развязка утилизационной трубы
-    .desc = Трёхсторонняя развязка. Стрелка указывает на место выхода объектов.
+ent-DisposalJunction = тройник мусоросброса
+    .desc = Трёхходовое соединение. Стрелка показывает, куда выходят предметы.
 
 ent-DisposalJunctionFlipped = { ent-DisposalJunction }
-    .desc = { ent-DisposalJunction.desc }
-    .suffix = Перевёрнутый
+    .desc = Трёхходовое соединение. Стрелка показывает, куда выходят предметы.
+    .suffix = перевёрнуто
 
-ent-DisposalYJunction = Y-развязка утилизационной трубы
-    .desc = Трёхсторонняя развязка с альтернативным местом выхода.
+ent-DisposalYJunction = Y-образный тройник мусоросброса
+    .desc = Трёхходовое соединение с дополнительным выходом.
 
-ent-DisposalXJunction = X-развязка утилизационной трубы
-    .desc = Четырёхсторонняя развязка. Стрелка указывает в сторону движения предметов.
+ent-DisposalXJunction = крестовина мусоросброса
+    .desc = Четырёхходовое соединение. Стрелка показывает, куда выходят предметы.
 
-ent-DisposalBend = изгиб утилизационной трубы
-    .desc = Труба, согнутая под прямым углом.
+ent-DisposalBend = колено мусоросброса
+    .desc = Труба, согнутая под углом 90 градусов.
 
-ent-DisposalSignalRouter = сигнальный утилизационный маршрутизатор
-    .desc = Трёхсторонний маршрутизатор, управляемый сигналами.
+ent-DisposalSignalRouter = сигнальный маршрутизатор мусоросброса
+    .desc = Трёхходовой маршрутизатор, управляемый сигналом.
 
 ent-DisposalSignalRouterFlipped = { ent-DisposalSignalRouter }
-    .suffix = Перевёрнутый
     .desc = { ent-DisposalSignalRouter.desc }
+    .suffix = перевёрнуто
 
 ent-DisposalRouterWaste = { ent-DisposalRouter }
     .desc = { ent-DisposalRouter.desc }
@@ -55,4 +55,4 @@ ent-DisposalRouterWaste = { ent-DisposalRouter }
 
 ent-DisposalRouterFlippedWaste = { ent-DisposalRouterFlipped }
     .desc = { ent-DisposalRouterFlipped.desc }
-    .suffix = Перевёрнутый, Отходы
+    .suffix = Отражён, Отходы

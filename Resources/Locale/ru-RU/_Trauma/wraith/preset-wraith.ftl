@@ -1,2 +1,2 @@
-wraith-title = Дух
-wraith-description = Станцию преследует злой жуткий призрак.
+wraith-title = Фантом
+wraith-description = На станции поселился злой и жуткий призрак.

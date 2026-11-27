@@ -1,2 +1,2 @@
-ent-ActionBingleUpgrade = Улучшение
-    .desc = Улучшить бингла в более сильную версию.
+ent-ActionBingleUpgrade = Улучшить
+    .desc = Превращает бингла в более сильную форму

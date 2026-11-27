@@ -1,4 +1,5 @@
-ent-SlaughterDemonJauntEffect = телепортация демона резни
+ent-SlaughterDemonJauntEffect = рывок демона резни
     .desc = { "" }
-ent-SlaughterDemonJauntUpEffect = телепортация демона резни вверх
+
+ent-SlaughterDemonJauntUpEffect = выход из рывка демона резни
     .desc = { "" }

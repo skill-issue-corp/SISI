@@ -1,25 +1,25 @@
-ent-CrateGenericSteel = стальной ящик
+ent-CrateGenericSteel = ящик
     .desc = { ent-CrateBaseWeldable.desc }
 
 ent-CratePlastic = пластиковый ящик
     .desc = { ent-CrateBaseWeldable.desc }
 
-ent-CrateFreezer = холодильник
+ent-CrateFreezer = морозильник
     .desc = { ent-CratePlastic.desc }
 
-ent-CrateHydroponics = гидропонный ящик
+ent-CrateHydroponics = ящик гидропоники
     .desc = { ent-CratePlastic.desc }
 
 ent-CrateMedical = медицинский ящик
     .desc = { ent-CratePlastic.desc }
 
 ent-CrateRadiation = ящик противорадиационного снаряжения
-    .desc = На самом деле не имеет свинцовой обшивки. Не храните в нём свой плутоний.
+    .desc = На самом деле не обшит свинцом. Не храните в нём плутоний.
 
-ent-CrateInternals = ящик аварийного кислородного снаряжения
+ent-CrateInternals = кислородный ящик
     .desc = { ent-CratePlastic.desc }
 
-ent-CrateElectrical = электротехнический ящик
+ent-CrateElectrical = ящик электротехнического снаряжения
     .desc = { ent-CrateGenericSteel.desc }
 
 ent-CrateEngineering = инженерный ящик
@@ -31,117 +31,100 @@ ent-CrateScience = научный ящик
 ent-CrateSurgery = хирургический ящик
     .desc = { ent-CrateGenericSteel.desc }
 
-ent-CrateWeb = паутинный ящик
+ent-CrateWeb = ящик из паутины
     .desc = { ent-BaseCrate.desc }
 
-ent-CrateSecgear = ящик оборудования службы безопасности
-    .suffix = Защищённый
+ent-CrateSecgear = ящик снаряжения СБ
     .desc = { ent-CrateBaseSecure.desc }
 
 ent-CrateEngineeringSecure = защищённый инженерный ящик
-    .suffix = Защищённый
     .desc = { ent-CrateBaseSecure.desc }
 
 ent-CrateMedicalSecure = защищённый медицинский ящик
-    .suffix = Защищённый
     .desc = { ent-CrateBaseSecure.desc }
 
 ent-CrateChemistrySecure = защищённый химический ящик
-    .suffix = Защищённый
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CratePrivateSecure = специальный ящик
-    .suffix = Защищённый
+ent-CratePrivateSecure = личный ящик
     .desc = { ent-CrateBaseSecure.desc }
 
 ent-CrateScienceSecure = защищённый научный ящик
-    .suffix = Защищённый
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CratePlasma = плазменный ящик
-    .suffix = Защищённый
+ent-CratePlasma = ящик плазмы
     .desc = { ent-CrateBaseSecure.desc }
 
 ent-CrateSecure = защищённый ящик
-    .suffix = Защищённый
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CrateHydroSecure = защищённый гидропонный ящик
-    .suffix = Защищённый
+ent-CrateHydroSecure = защищённый ящик гидропоники
     .desc = { ent-CrateBaseSecure.desc }
 
 ent-CrateWeaponSecure = защищённый оружейный ящик
-    .suffix = Защищённый
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CrateContrabandStorageSecure = ящик для хранения контрабанды
-    .desc = Запирающийся ящик для хранения контрабанды, конфискованной у подозреваемых или заключённых. Чтобы открыть, необходим уровень доступа Оружейная.
-    .suffix = Защищённый, доступ Оружейная
+ent-CrateContrabandStorageSecure = ящик для контрабанды
+    .desc = Запирающийся ящик с доступом оружейной для хранения контрабанды, изъятой у подозреваемых или заключённых.
+    .suffix = Оружейная, Защищённый
 
-ent-CrateCommandSecure = ящик командования
-    .suffix = Защищённый
+ent-CrateCommandSecure = командный ящик
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CrateSyndicateSecure = защищённый ящик Синдиката
-    .desc = Стальной ящик тёмного цвета с красными полосами и выдавленной на передней панели литерой S.
+ent-CrateSyndicateSecure = защищённый ящик синдиката
+    .desc = Ящик из тёмной стали с красными полосами и выдавленной буквой S на лицевой стороне.
 
 ent-CrateLivestock = ящик для скота
     .desc = { ent-BaseCrate.desc }
 
-ent-CrateRodentCage = хомячья клетка
+ent-CrateRodentCage = клетка для хомяка
     .desc = { ent-BaseCrate.desc }
 
 ent-CrateBaseLockBox = ящик с замком
-    .desc = Защищённый ящик с замком. Прибыль с его продажи будет начислена обратно отделу. Но помните: Карго всегда получает свою долю.
+    .desc = Защищённый ящик с замком. Выручка от продажи поступит обратно в отдел. Только помните: Карго всегда берёт свою долю.
 
 ent-CrateLockBoxEngineering = инженерный ящик с замком
-    .suffix = Защищённый
     .desc = { ent-CrateBaseLockBox.desc }
 
 ent-CrateLockBoxMedical = медицинский ящик с замком
-    .suffix = Защищённый
     .desc = { ent-CrateBaseLockBox.desc }
 
 ent-CrateLockBoxScience = научный ящик с замком
-    .suffix = Защищённый
     .desc = { ent-CrateBaseLockBox.desc }
 
-ent-CrateLockBoxSecurity = охраннный ящик с замком
-    .suffix = Защищённый
+ent-CrateLockBoxSecurity = ящик СБ с замком
     .desc = { ent-CrateBaseLockBox.desc }
 
-ent-CrateLockBoxService = сервисный ящик с замком
-    .suffix = Защищённый
+ent-CrateLockBoxService = ящик обслуживания с замком
     .desc = { ent-CrateBaseLockBox.desc }
 
 ent-CratePirate = пиратский сундук
-    .desc = Сундук космического пирата, не для станционных крыс.
+    .desc = Сундук космических пиратов, не для станционных крыс.
 
-ent-CrateToyBox = коробка игрушек
-    .desc = Коробка, переполненная весельем.
-    .suffix = Пустой
+ent-CrateToyBox = ящик для игрушек
+    .desc = Ящик, переполненный весельем.
+    .suffix = Пусто
 
 ent-CrateCoffin = гроб
-    .desc = Удобный гроб, прекрасное место для вампиров и покойников.
+    .desc = Уютный гроб, отличное место для вампиров и трупов.
 
 ent-CrateWoodenGrave = могила
     .desc = Здесь кто-то умер...
-    .suffix = Дерево
+    .suffix = деревянная
 
 ent-CrateStoneGrave = могила
     .desc = Здесь кто-то умер...
-    .suffix = Камень
+    .suffix = каменная
 
-ent-CrateSyndicate = ящик Синдиката
-    .desc = Стальной ящик тёмного цвета с красными полосами и выдавленной на передней панели литерой S.
+ent-CrateSyndicate = ящик синдиката
+    .desc = Ящик из тёмной стали с красными полосами и выдавленной буквой S на лицевой стороне.
 
 ent-CrateTrashCart = мусорная тележка
     .desc = { ent-StructureWheeled.desc }
 
 ent-CrateTrashCartJani = мусорная тележка уборщика
-    .suffix = Защищённый
     .desc = { ent-CrateBaseSecure.desc }
 
 ent-InvisibleCrate = { ent-CrateBaseWeldable }
-    .suffix = Стелс
     .desc = { ent-CrateBaseWeldable.desc }
+    .suffix = Скрытная

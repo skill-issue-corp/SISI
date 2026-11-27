@@ -1,11 +1,11 @@
 ent-BaseBorgModuleSecurity = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
 
-ent-BorgModuleDrozd = модуль киборга Дрозд ROW
-    .desc = Модуль с пистолетом-пулемётом Дрозд, стреляющим очередями.
+ent-BorgModuleDrozd = модуль киборга Drozd ROW
+    .desc = Оружейный модуль, оснащённый оружием для стрельбы очередями.
 
-ent-BorgModuleAdvancedSecurity = продвинутый охранный модуль киборга
-    .desc = Продвинутый охранный модуль, содержащий продвинутое летальное снаряжение.
+ent-BorgModuleAdvancedSecurity = продвинутый модуль киборга СБ
+    .desc = Продвинутый модуль СБ с летальным оружием.
 
-ent-BorgModuleSecurity = охранный модуль киборга
+ent-BorgModuleSecurity = модуль киборга СБ
     .desc = { ent-BaseBorgModuleSecurity.desc }

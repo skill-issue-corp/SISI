@@ -1,6 +1,11 @@
+ent-RollingOfficeChairBase = стул
+    .desc = Катайтесь от стола к столу, ведь вставать — удел стажёров.
+
 ent-ChairOfficeRocketBase = { ent-ChairOfficeLight }
-    .desc = Запускается из отдела в отдел, потому что ходят пешком только ассистенты.
+    .desc = Летайте из отдела в отдел, ведь ходить — удел стажёров.
+
 ent-ChairOfficeWhiteRocket = белое ракетное кресло
     .desc = { ent-ChairOfficeRocketBase.desc }
-ent-ChairOfficeDarkRocket = чёрное ракетное кресло
+
+ent-ChairOfficeDarkRocket = тёмное ракетное кресло
     .desc = { ent-ChairOfficeRocketBase.desc }

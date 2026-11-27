@@ -1,26 +1,26 @@
 ent-ClothingShoesModsuitBase = { ent-ClothingShoesBase }
     .desc = { ent-ClothingShoesBase.desc }
 
-ent-ClothingModsuitBootsStandard = стандартные ботинки скафандра MOD
-    .desc = Специальные модульные ботинки, разработанные для компактного хранения в модульном скафандра.
+ent-ClothingModsuitBootsStandard = ботинки стандартного модсьюта
+    .desc = Особые ботинки модульного костюма. Компактно складываются в блок управления.
 
-ent-ClothingModsuitBootsSecurity = ботинки скафандра MOD «Солдат»
-    .desc = ЖЕЛЕЗНЫЕ БОТИНКИ - ЗАКОН.
+ent-ClothingModsuitBootsSecurity = ботинки модсьюта «солдат»
+    .desc = ЖЕЛЕЗНЫЕ БОТИНКИ ЗАКОНА.
 
-ent-ClothingModsuitBootsHeadOfSecurity = ботинки скафандра MOD «Бастион»
-    .desc = Я называю их своими топтунами коммунистов.
+ent-ClothingModsuitBootsHeadOfSecurity = ботинки модсьюта «бастион»
+    .desc = Я зову их коммунякотопами.
 
-ent-ClothingModsuitBootsParamedic = ботинки скафандра MOD «Санитар»
-    .desc = Созданы, чтобы испачкаться кровью.
+ent-ClothingModsuitBootsParamedic = ботинки модсьюта «санитар»
+    .desc = Созданы, чтобы заляпаться кровью.
 
-ent-ClothingModsuitBootsEngineer = ботинки скафандра MOD «Сапёр»
-    .desc = Созданы, чтобы испачкаться маслом.
+ent-ClothingModsuitBootsEngineer = ботинки модсьюта «сапёр»
+    .desc = Созданы, чтобы пропитаться маслом.
 
-ent-ClothingModsuitBootsAtmostech = ботинки скафандра MOD «Эол»
-    .desc = Созданы, чтобы обжечься.
+ent-ClothingModsuitBootsAtmostech = ботинки модсьюта «эол»
+    .desc = Созданы, чтобы обуглиться.
 
-ent-ClothingModsuitBootsResearchDirector = ботинки скафандра MOD «Минерва»
-    .desc = Не спасут от скольжения по собственной крови, когда голокарп летит за тобой.
+ent-ClothingModsuitBootsResearchDirector = ботинки модсьюта «минерва»
+    .desc = Не спасут от скольжения на собственной крови, когда до вас доберётся голокарп.
 
-ent-ClothingModsuitBootsCaptain = ботинки скафандра MOD "Магнат"
-    .desc = Эти ботинки разработаны самим МАЙКЛОМ ДЖОРДАНОМ и выкованы из древних сплавов, чувак.
+ent-ClothingModsuitBootsCaptain = ботинки модсьюта «магнат»
+    .desc = Эти ботинки разработал САМ Майкл Джордан, и сделали их из древних сплавов, чувак.

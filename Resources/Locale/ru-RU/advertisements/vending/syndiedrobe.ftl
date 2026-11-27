@@ -1,36 +1,44 @@
+# SPDX-FileCopyrightText: 2023 Puro <103608145+PuroSlavKing@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Tayrtahn <tayrtahn@gmail.com>
+# SPDX-FileCopyrightText: 2024 Ubaser <134914314+UbaserB@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 advertisement-syndiedrobe-1 = Совершенно новые наряды!
-advertisement-syndiedrobe-2 = Крышесносные наряды для любого случая!
-advertisement-syndiedrobe-3 = Быть негодяем может быть стильно.
-advertisement-syndiedrobe-4 = Исходя из анализа: одеваясь красиво - ваши шансы на успех повышаются на 0.0098%!
-advertisement-syndiedrobe-5 = Эй! Ты давно не заглядывал в мой ассортимент!
+advertisement-syndiedrobe-2 = Крышесносные наряды на все случаи жизни!
+advertisement-syndiedrobe-3 = Негодяем можно быть со стилем.
+advertisement-syndiedrobe-4 = По результатам анализа: стильная одежда повышает вероятность успеха ваших действий на 0.0098%!
+advertisement-syndiedrobe-5 = Эй, по-моему, вы давно не смотрели мой ассортимент!
 advertisement-syndiedrobe-6 = Смерть NT!
-advertisement-syndiedrobe-7 = Эй красавчик, возьми новый костюм за наш счёт!
+advertisement-syndiedrobe-7 = Эй, красавчик, берите бесплатный наряд за наш счёт!
 advertisement-syndiedrobe-8 = Правду говорят - убивает не пуля, а отсутствие стиля.
-advertisement-syndiedrobe-9 = Он не стильный, станция не стильная — но ты имеешь стильную одежду, потому что я дам её тебе. Если хочешь уничтожить NT, в первую очередь надо быть стильным.
-advertisement-syndiedrobe-10 = Кто ищет, тот всегда найдёт ... если он одет в стильные вещи.
-advertisement-syndiedrobe-11 = Если кто-то сказал, что наша форма отстой, это не повод грустить, это повод пустить ему пулю!
-advertisement-syndiedrobe-12 = Вы можете перевести врагов на свою сторону, одев их в лучшие костюмы галактики!
-advertisement-syndiedrobe-13 = Если ты хочешь жить - одевайся стильно!
-advertisement-syndiedrobe-14 = Вставай, Синдикат. Время сжечь станцию до тла.
-advertisement-syndiedrobe-15 = Эй! Подходите разбирайте, самая стильная одежда в галактике!
-advertisement-syndiedrobe-16 = Когда-нибудь мечтали одеваться стильно? Тогда вы по адресу!
-advertisement-syndiedrobe-17 = Цитирую великого писателя: "Посмотри мой ассортимент."
-advertisement-syndiedrobe-18 = Исходя из данных сканирования местности - здесь отстойно, тебе нужно исправить это одев лучшие вещи из моего ассортимента!
-advertisement-syndiedrobe-19 = Когда-нибудь мечтали стать звездой? Тогда вам к нам!
-advertisement-syndiedrobe-20 = Что может быть лучше, чем новые вещи из СиндиШкафа!
-advertisement-syndiedrobe-21 = Пугайте всех своим появлением, только в наших вещах!
+advertisement-syndiedrobe-9 = У него нет красивой одежды, у станции нет красивой одежды - а у вас есть красивая одежда, потому что я вам её дам. Хотите уничтожить NT? Вот первый шаг - красиво оденьтесь.
+advertisement-syndiedrobe-10 = Кто ищет, тот всегда найдёт... если, конечно, красиво одет.
+advertisement-syndiedrobe-11 = Если кто-то сказал, что наши наряды отстой, это повод не расстраиваться, а всадить пулю!
+advertisement-syndiedrobe-12 = Переманивайте врагов на свою сторону, наряжая их в лучшую одежду во вселенной!
+advertisement-syndiedrobe-13 = Хотите жить - одевайтесь красиво!
+advertisement-syndiedrobe-14 = Просыпайтесь, синдикат. Нам ещё станцию сжигать.
+advertisement-syndiedrobe-15 = Эй! Подходите, разбирайте самую стильную одежду в галактике!
+advertisement-syndiedrobe-16 = Всегда мечтали одеваться стильно? Тогда подходите скорее!
+advertisement-syndiedrobe-17 = Цитирую великого писателя: «Посмотрите на мой ассортимент ассортимента одежды»
+advertisement-syndiedrobe-18 = По результатам сканирования зоны - здесь отстой. Исправьте это, взяв лучшую одежду из моего ассортимента!
+advertisement-syndiedrobe-19 = Мечтали одеваться стильно? Тогда вам к нам!
+advertisement-syndiedrobe-20 = Что может быть лучше новой одежды из СиндиШкафа!
+advertisement-syndiedrobe-21 = Пугайте всех своим видом только в нашей одежде!
 advertisement-syndiedrobe-22 = Мы не продаём бомбы.
-advertisement-syndiedrobe-23 = Мы не несём ответственнности в необоснованной агрессии в сторону нашей формы.
-advertisement-syndiedrobe-24 = Стиль и элегантность! Практичность и шарм! СиндиШкаф!
-advertisement-syndiedrobe-25 = Лучшая ткань в андерграунде!
-advertisement-syndiedrobe-26 = Наша форма не видна в темноте, как и пятна крови на ней, что может быть лучше?
-advertisement-syndiedrobe-27 = Вы мечтали вызывать панику на станции лиж своим видом? Тогда вам к нам!
-advertisement-syndiedrobe-28 = Наши костюмы влагостойкие, а это значит, что мы можете не бояться испачкаться кровью!
+advertisement-syndiedrobe-23 = Мы не отвечаем за повышенную агрессию к нашей форме.
+advertisement-syndiedrobe-24 = Мода и элегантность! Практичность и шарм! СиндиШкаф!
+advertisement-syndiedrobe-25 = Лучшие волокна во всём подполье!
+advertisement-syndiedrobe-26 = Нашей формы не видно в темноте, а кровь на ней трудно заметить. Что может быть лучше?
+advertisement-syndiedrobe-27 = Хотите навести панику на станции одним своим видом? Мы к вашим услугам!
+advertisement-syndiedrobe-28 = Наши костюмы влагостойкие, так что можете не бояться испачкаться в крови!
 advertisement-syndiedrobe-29 = Лучшие в галактике!
-advertisement-syndiedrobe-30 = Что может быть лучше, чем запах нашей формы по утрам?
-advertisement-syndiedrobe-31 = Вы можете оставить отзыв о нашей форме по горячей линии Тайпана, главное не ошибитесь номером!
-thankyou-syndiedrobe-1 = Найдите этому достойное применение!
+advertisement-syndiedrobe-30 = Что может быть лучше запаха нашей формы по утрам?
+advertisement-syndiedrobe-31 = Оставить отзыв об удобстве формы можно через нашу горячую линию «Тайпан». Главное - не перепутайте номер!
+thankyou-syndiedrobe-1 = Распорядитесь с толком!
 thankyou-syndiedrobe-2 = Смерть NT!
-thankyou-syndiedrobe-3 = Продемонстрируйте им силу стиля.
-thankyou-syndiedrobe-4 = Счастливых убийств!
-thankyou-syndiedrobe-5 = Наслаждайтесь резнёй!
+thankyou-syndiedrobe-3 = Покажите им силу стиля.
+thankyou-syndiedrobe-4 = Удачной охоты!
+thankyou-syndiedrobe-5 = Наслаждайтесь бойней!

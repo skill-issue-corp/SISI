@@ -1,10 +1,10 @@
 ent-UnfinishedMachineFrame = каркас машины
-    .desc = Строящаяся машина. Требуется больше деталей.
-    .suffix = Незаконченный
+    .desc = Машина в процессе сборки. Нужны ещё детали.
+    .suffix = Не Готово
 
 ent-MachineFrame = каркас машины
-    .suffix = Готовый
     .desc = { "" }
+    .suffix = Готово
 
 ent-MachineFrameDestroyed = разрушенный каркас машины
     .desc = { ent-BaseStructureDynamic.desc }

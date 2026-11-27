@@ -9,27 +9,27 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mech-verb-enter = Войти
+mech-verb-enter = Залезть
 mech-verb-exit = Извлечь пилота
 
-mech-equipment-begin-install = { CAPITALIZE($item) } устанавливается...
-mech-equipment-finish-install = Установка { $item } завершена
+mech-equipment-begin-install = Установка {$item}...
+mech-equipment-finish-install = Установка {$item} завершена
 
-mech-equipment-select-popup = Выбрано следующее: { $item }
+mech-equipment-select-popup = Выбрано: {$item}
 mech-equipment-select-none-popup = Ничего не выбрано
 
 mech-ui-open-verb = Открыть панель управления
 
-mech-menu-title = Панель управления меха
+mech-menu-title = панель управления мехом
 
-mech-integrity-display = Целостность: { $amount }%
-mech-energy-display = Энергия: { $amount }%
+mech-integrity-display = Целостность: {$amount}%
+mech-energy-display = Энергия: {$amount}%
 mech-energy-missing = Энергия: ОТСУТСТВУЕТ
-mech-slot-display = Доступно слотов: { $amount }
+mech-slot-display = Свободные Слоты: {$amount}
 
-mech-no-enter = Вы не можете пилотировать это.
+mech-no-enter = Вы не можете этим управлять.
 
-mech-eject-pilot-alert = { $user } вытаскивает пилота из { $item }!
+mech-eject-pilot-alert = {$user} вытаскивает пилота из {$item}!
 
 mech-construction-guide-string = Все детали меха должны быть прикреплены к каркасу.
 mech-construction-guide-string-vim = К каркасу нужно прикрепить две ноги борга и шлем EVA.

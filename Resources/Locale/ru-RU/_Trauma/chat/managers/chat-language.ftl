@@ -1,4 +1,4 @@
-chat-language-Codespeak-name = Кодовая речь
+chat-language-Codespeak-name = Кодоречь
 
 chat-language-Miltech-name = Милтех
 

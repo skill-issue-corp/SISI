@@ -1,2 +1,2 @@
-ent-SpawnLootLootbug = спавнер жука-сборщика
+ent-SpawnLootLootbug = точка спавна добычи Жука-барахольщика
     .desc = { ent-MarkerBase.desc }

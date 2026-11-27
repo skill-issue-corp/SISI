@@ -1,2 +1,2 @@
-ent-CurseInvisibility = Проклятье Невидимости
+ent-CurseInvisibility = Проклятие Невидимости
     .desc = { ent-BaseEnchant.desc }

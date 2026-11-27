@@ -1,5 +1,5 @@
 ent-CosmicStairs = { ent-RMCStairs }
-    .desc = Выглядит жутковато, но ничем не уступает любой другой лестнице.
+    .desc = Слегка жутковатая, но ничуть не хуже любой другой лестницы.
 
 ent-CosmicStairsLeft = { ent-CosmicStairs }
     .desc = { ent-CosmicStairs.desc }
@@ -11,8 +11,8 @@ ent-CosmicStairsRight = { ent-CosmicStairs }
 
 ent-CosmicStairsSolo = { ent-CosmicStairs }
     .desc = { ent-CosmicStairs.desc }
-    .suffix = Одиночный
+    .suffix = Соло
 
 ent-CosmicStairsCorner = { ent-CosmicStairs }
     .desc = { ent-CosmicStairs.desc }
-    .suffix = Угловой
+    .suffix = Угол

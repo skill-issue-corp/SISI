@@ -1,4 +1,4 @@
-ent-SidearmBulletBase = фазерный болт
+ent-SidearmBulletBase = снаряд фазера
     .desc = { ent-BaseBullet.desc }
 
 ent-LaserSidearmBullet = { ent-SidearmBulletBase }

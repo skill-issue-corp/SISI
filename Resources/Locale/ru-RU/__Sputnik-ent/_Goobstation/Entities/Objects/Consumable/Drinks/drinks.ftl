@@ -1,8 +1,8 @@
 ent-DrinkBasePlastic = { ent-DrinkBase }
     .desc = { ent-DrinkBase.desc }
 
-ent-DrinkFitnessShakerBlack = фитнес шейкер
-    .desc = Достаточно большой, чтобы вместить достаточно белка для идеального накачивания. Не обращайте внимания на частицы.
+ent-DrinkFitnessShakerBlack = фитнес-шейкер
+    .desc = Сюда влезет достаточно протеина, чтобы как следует накачаться. На комочки внимания не обращайте.
 
 ent-DrinkFitnessShakerRed = { ent-DrinkFitnessShakerBlack }
     .desc = { ent-DrinkFitnessShakerBlack.desc }
@@ -10,5 +10,5 @@ ent-DrinkFitnessShakerRed = { ent-DrinkFitnessShakerBlack }
 ent-DrinkFitnessShakerBlue = { ent-DrinkFitnessShakerBlack }
     .desc = { ent-DrinkFitnessShakerBlack.desc }
 
-ent-DrinkMilkBottleFull = стакан молока
-    .desc = А как плазмалюды пьют из него?
+ent-DrinkMilkBottleFull = бутылка молока
+    .desc = Как плазмамены вообще это пьют?

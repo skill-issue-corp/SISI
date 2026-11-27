@@ -7,7 +7,7 @@ ent-AreaSecurity = служба безопасности
 ent-AreaBrig = бриг
     .desc = { ent-BaseAreaSecurity.desc }
 
-ent-AreaSecurityCheckpoint = контрольно-пропускной пункт СБ
+ent-AreaSecurityCheckpoint = КПП СБ
     .desc = { ent-BaseAreaSecurity.desc }
 
 ent-AreaDetective = детектив
@@ -16,13 +16,13 @@ ent-AreaDetective = детектив
 ent-AreaArmory = оружейная
     .desc = { ent-BaseAreaSecurity.desc }
 
-ent-AreaBrigMed = медотсек брига
+ent-AreaBrigMed = бригмед
     .desc = { ent-BaseAreaSecurity.desc }
 
 ent-AreaExecution = комната казни
     .desc = { ent-BaseAreaSecurity.desc }
 
-ent-AreaFiringRange = стрельбище
+ent-AreaFiringRange = тир
     .desc = { ent-BaseAreaSecurity.desc }
 
 ent-AreaInterrogation = допросная
@@ -37,10 +37,10 @@ ent-AreaLaborCamp = трудовой лагерь
 ent-AreaPrison = тюрьма
     .desc = { ent-BaseAreaSecurity.desc }
 
-ent-AreaPrisonShower = душевая тюрьмы
+ent-AreaPrisonShower = тюремная душевая
     .desc = { ent-AreaPrison.desc }
 
-ent-AreaPrisonVisit = комната свиданий тюрьмы
+ent-AreaPrisonVisit = комната свиданий
     .desc = { ent-AreaPrison.desc }
 
 ent-AreaWarden = смотритель

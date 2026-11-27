@@ -1,20 +1,29 @@
 ent-BaseAmmoProvider = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
+
 ent-AmmoProviderShotgunShell = { ent-BaseAmmoProvider }
     .desc = { ent-BaseAmmoProvider.desc }
-ent-BoxBeanbag = коробка ружейных патронов (.50 травматические)
-    .desc = { ent-AmmoProviderShotgunShell.desc }
-ent-BoxLethalshot = коробка ружейных патронов (.50 дробь)
-    .desc = { ent-AmmoProviderShotgunShell.desc }
-ent-BoxShotgunSlug = коробка ружейных патронов (.50 пуля)
-    .desc = { ent-AmmoProviderShotgunShell.desc }
-ent-BoxShotgunFlare = коробка ружейных патронов (.50 фальшфейеры)
-    .desc = { ent-AmmoProviderShotgunShell.desc }
-ent-BoxShotgunIncendiary = коробка ружейных патронов (.50 зажигательные)
-    .desc = { ent-AmmoProviderShotgunShell.desc }
-ent-BoxShotgunUranium = коробка ружейных патронов (.50 урановые)
-    .desc = { ent-AmmoProviderShotgunShell.desc }
-ent-BoxShotgunPractice = коробка ружейных патронов (.50 учебные)
-    .desc = { ent-AmmoProviderShotgunShell.desc }
-ent-BoxShellTranquilizer = коробка ружейных патронов (.50 транквилизаторы)
-    .desc = { ent-AmmoProviderShotgunShell.desc }
+
+ent-BoxBeanbag = коробка патронов (12 Калибр травматические)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для травматических боеприпасов с мягкими снарядами.
+
+ent-BoxLethalshot = коробка патронов (12 Калибр картечь)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для обычных кинетических боеприпасов.
+
+ent-BoxShotgunSlug = коробка патронов (12 Калибр пуля)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для дальнобойных пулевых боеприпасов.
+
+ent-BoxShotgunFlare = коробка патронов (12 Калибр сигнальные)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для осветительных боеприпасов.
+
+ent-BoxShotgunIncendiary = коробка патронов (12 Калибр зажигательные)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для самовоспламеняющихся зажигательных боеприпасов.
+
+ent-BoxShotgunUranium = коробка патронов (12 Калибр урановые)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для экзотических боеприпасов с урановым сердечником.
+
+ent-BoxShotgunPractice = коробка патронов (12 Калибр учебные)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для безвредных учебных боеприпасов.
+
+ent-BoxShellTranquilizer = коробка патронов (12 Калибр транквилизатор)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для нелетальных боеприпасов с транквилизатором.

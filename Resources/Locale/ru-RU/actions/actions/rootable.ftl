@@ -1,2 +1,2 @@
-action-name-toggle-rootable = Корни
-action-description-toggle-rootable = Начать или прекратить укоренение к полу.
+action-name-toggle-rootable = Укоренение
+action-description-toggle-rootable = Укорениться в полу или вырвать корни.

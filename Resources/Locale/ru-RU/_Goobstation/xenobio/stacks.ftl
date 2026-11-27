@@ -1,2 +1,2 @@
-stack-bluespace-tile = блюспейс ковёр
-stack-sepia-tile = сепия ковёр
+stack-bluespace-tile = блюспейс-тайл
+stack-sepia-tile = тайл сепии

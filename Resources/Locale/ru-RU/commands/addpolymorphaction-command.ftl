@@ -1,2 +1,2 @@
-cmd-addpolymorphaction-desc = Takes an entity and gives them a voluntary polymorph.
-cmd-addpolymorphaction-help = Usage: addpolymorphaction <id> <polymorph prototype>
+cmd-addpolymorphaction-desc = Даёт объекту действие для добровольного превращения.
+cmd-addpolymorphaction-help = Использование: addpolymorphaction <id> <polymorph prototype>

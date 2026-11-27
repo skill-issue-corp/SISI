@@ -1,2 +1,2 @@
 ent-VendingMachineSyndieContraband = КонтраВенд
-    .desc = В розыске во многих секторах!
+    .desc = Разыскивается в нескольких секторах!

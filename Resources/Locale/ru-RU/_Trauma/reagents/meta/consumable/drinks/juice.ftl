@@ -1,2 +1,2 @@
 reagent-name-juice-lemonade = Лимонадный сок
-reagent-desc-juice-lemonade = Спутать это с напитком может стать последней вашей ошибкой в жизни.
+reagent-desc-juice-lemonade = Перепутать его с напитком может стать вашей последней ошибкой.

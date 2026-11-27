@@ -1,2 +1,2 @@
 command-description-addaccesslog =
-    Adds an access log to this entity. Do note that this bypasses the log's default limit and pause check.
+    Добавляет объекту запись в журнал доступа. При этом игнорируются предел размера журнала и состояние паузы.

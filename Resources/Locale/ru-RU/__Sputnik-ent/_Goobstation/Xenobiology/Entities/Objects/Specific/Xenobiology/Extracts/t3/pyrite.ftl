@@ -1,2 +1,2 @@
-ent-PyriteSlimeExtract = пиритовый экстракт слайма
+ent-PyriteSlimeExtract = экстракт пиритового слайма
     .desc = { ent-BaseSlimeExtract.desc }

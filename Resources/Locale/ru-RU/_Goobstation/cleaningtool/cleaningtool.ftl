@@ -1,1 +1,1 @@
-cleaning-tool-scrubbing-start = { $user } начинает тереть пол
+cleaning-tool-scrubbing-start = {$user} начинает оттирать пол

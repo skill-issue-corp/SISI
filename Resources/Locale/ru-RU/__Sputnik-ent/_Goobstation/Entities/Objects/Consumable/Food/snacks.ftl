@@ -1,117 +1,117 @@
 ent-FoodSnackProteinbar = протеиновый батончик
-    .desc = Протеиновые батончики бренда SwoleMAX, гарантированно вызывают чрезмерную уверенность в себе.
+    .desc = Протеиновые батончики марки «КачокМАКС». Гарантированно придадут вам совершенно чрезмерную уверенность в себе.
 
-ent-FoodSnackMothdog = моль в тесте
-    .desc = Он в прайме.
+ent-FoodSnackMothdog = мотьдог
+    .desc = Он в самом расцвете сил.
 
-ent-FoodSnackLunacakeWrapped = запакованный лунакейк
-    .desc = Теперь с на 20% меньше регофлита, вызывающего судебные иски!
+ent-FoodSnackLunacakeWrapped = лунный кекс в обёртке
+    .desc = Теперь на 20% меньше реголита, дающего повод для судебного иска!
 
-ent-FoodSnackLunacake = лунакейк
-    .desc = Теперь с на 20% меньше регофлита, вызывающего судебные иски!
+ent-FoodSnackLunacake = лунный кекс
+    .desc = Теперь на 20% меньше реголита, дающего повод для судебного иска!
 
-ent-FoodSnackMochicakeWrapped = запакованный мочикак
-    .desc = Конничива! Много счастья и удачи в будущем благодаря рисовым лепёшкам!
+ent-FoodSnackMochicakeWrapped = кекс моти в обёртке
+    .desc = Конничива! Много счастья и рисовый пирожок ждать впереди!
 
-ent-FoodSnackMochicake = мочикак
-    .desc = Конничива! Много счастья и удачи в будущем благодаря рисовым лепёшкам!
+ent-FoodSnackMochicake = кекс моти
+    .desc = Конничива! Много счастья и рисовый пирожок ждать впереди!
 
-ent-FoodSnackMooncakeWrapped = запакованный мункейк
-    .desc = Исследуй тёмную сторону! Может содержать следы восстановленного какао.
+ent-FoodSnackMooncakeWrapped = лунный пряник в обёртке
+    .desc = Исследуйте тёмную сторону! Может содержать следы восстановленного какао.
 
-ent-FoodSnackMooncake = мункейк
-    .desc = Исследуй тёмную сторону! Может содержать следы восстановленного какао.
+ent-FoodSnackMooncake = лунный пряник
+    .desc = Исследуйте тёмную сторону! Может содержать следы восстановленного какао.
 
-ent-FoodSnackTidegobs = солёные гобсы
-    .desc = Содержит более 9000% от вашей суточной нормы соли.
+ent-FoodSnackTidegobs = хлопья грейтайдера
+    .desc = Содержит более 9000% рекомендованной суточной нормы соли.
 
-ent-FoodSnackSaturnos = сатурн-ос
-    .desc = Суточная норма соли, пенопласта и, возможно, опилок.
+ent-FoodSnackSaturnos = сатурн-колечки
+    .desc = Дневная норма соли, пенопласта и, возможно, опилок.
 
-ent-FoodSnackJoveGello = джов желе
-    .desc = Во имя Джова! Это какой-то гель.
+ent-FoodSnackJoveGello = юпитерское желе
+    .desc = Клянусь Юпитером! Это какой-то гель.
 
 ent-FoodSnackPlutoniumrods = плутониевые стержни
-    .desc = Безвкусные питательные стержни для поддержания сил. Теперь вызывают ещё меньше сыпи!
+    .desc = Бессмысленные безвкусные питательноплотные стержни, чтобы продержаться весь день. Теперь сыпь бывает ещё реже!
 
 ent-FoodSnackMarsFrouka = фрука
-    .desc = Отпразднуйте день основания с горячей самонагревающейся чашей сладких яиц и картофеля!
+    .desc = Отпразднуйте день основания, взяв дымящуюся самонагревающуюся миску сладких яиц с картошечкой!
 
-ent-FoodSnackVenusianhotcakes = венерианские горячие лепёшки
-    .desc = Горячие версии горячих лепёшек — классика, наконец подходящая для человеческого потребления!
+ent-FoodSnackVenusianhotcakes = венерианские оладьи
+    .desc = Горячая новинка среди горячих оладий. Бессмертная классика наконец-то пригодна для употребления человеком!
 
-ent-FoodSnackOortrocks = оортовские камни
-    .desc = Поп-роки, тематически связанные с самым важным промышленным сектором Соли, новая формула гарантирует меньше осколочных травм рта.
+ent-FoodSnackOortrocks = шипучие камушки облака оорта
+    .desc = Шипучие конфеты в честь важнейшего промышленного сектора Солнечной системы. Новая формула гарантирует меньше осколочных ран во рту.
 
-ent-FoodSnackRedalertnuts = орехи "Красный сигнал"
-    .desc = Пакет острых орехов бренда Red Alert! Отлично сочетаются с пивом!
+ent-FoodSnackRedalertnuts = орешки «красная тревога»
+    .desc = Пакет острых орешков марки «Красная Тревога!». Отлично идут к пиву!
 
-ent-FoodSnackRicecake = рисовый пирог
-    .desc = Древняя земная закуска из слепленного риса.
+ent-FoodSnackRicecake = рисовый пирожок
+    .desc = Древняя земная закуска из скатанных в шарики рисовых зёрен.
 
-ent-FoodSnackPokeysticks = шоколадные палочки
-    .desc = Пучок печенья, покрытого шоколадом.
+ent-FoodSnackPokeysticks = печенье «поки»
+    .desc = Пучок бисквитных палочек в шоколаде.
 
-ent-FoodSnackChocobanana = шоколадный банан
-    .desc = Банан в шоколаде с посыпкой. На палочке.
+ent-FoodSnackChocobanana = шокобанан
+    .desc = Банан в шоколаде с посыпкой. На палочке
 
 ent-FoodSnackDango = данго
-    .desc = Крашеные рисовые клецки на палочке.
+    .desc = Рисовые клёцки на палочке, окрашенные пищевым красителем.
 
 ent-FoodSnackAncientBurger = космический бургер
-    .desc = В своё время, вероятно, выглядел вкусно.
+    .desc = Когда-то это, наверное, выглядело аппетитно.
     .suffix = древний
 
 ent-FoodSnackAncientPizza = космическая пицца
-    .desc = В своё время, вероятно, выглядела вкусно.
+    .desc = Когда-то это, наверное, выглядело аппетитно.
 
 ent-FoodSnackAncientFries = космическая картошка фри
-    .desc = Похоже, соль сохранила её, но она всё ещё черствая и невкусная.
+    .desc = Похоже, соль их сохранила. Всё равно затхлые и отвратительные.
 
-ent-FoodSnackAncientHotdog = космический хотдог
-    .desc = Вероятно, только немного менее опасен для еды, чем когда его впервые приготовили.
+ent-FoodSnackAncientHotdog = космический хот-дог
+    .desc = Наверное, есть его лишь чуть опаснее, чем сразу после приготовления..
 
-ent-FoodSnackAncientTaco = космическое тако
-    .desc = Интересно, что оболочка размягчилась, а начинка зачерствела.
+ent-FoodSnackAncientTaco = космический тако
+    .desc = Любопытно, что лепёшка размякла, а начинка зачерствела.
 
-ent-FoodPacketLunacakeTrash = упаковка лунакейка
+ent-FoodPacketLunacakeTrash = обёртка от лунного кекса
     .desc = { ent-FoodPacketTrash.desc }
 
-ent-FoodPacketMochicakeTrash = упаковка мочикака
+ent-FoodPacketMochicakeTrash = обёртка от кекса моти
     .desc = { ent-FoodPacketLunacakeTrash.desc }
 
-ent-FoodPacketMooncakeTrash = упаковка мункейка
+ent-FoodPacketMooncakeTrash = обёртка от лунного пряника
     .desc = { ent-FoodPacketLunacakeTrash.desc }
 
-ent-FoodPacketTidegobsTrash = мусор от солёных гобсов
+ent-FoodPacketTidegobsTrash = упаковка от хлопьев грейтайдера
     .desc = { ent-FoodPacketLunacakeTrash.desc }
 
-ent-FoodPacketSaturnosTrash = упаковка сатурн-оса
+ent-FoodPacketSaturnosTrash = упаковка от сатурн-колечек
     .desc = { ent-FoodPacketLunacakeTrash.desc }
 
-ent-FoodPacketJoveGelloTrash = упаковка джов желе
+ent-FoodPacketJoveGelloTrash = упаковка от юпитерского желе
     .desc = { ent-FoodPacketLunacakeTrash.desc }
 
-ent-FoodPacketPlutoniumrodsTrash = упаковка плутониевых стержней
+ent-FoodPacketPlutoniumrodsTrash = упаковка от плутониевых стержней
     .desc = { ent-FoodPacketLunacakeTrash.desc }
 
-ent-FoodPacketMarsFroukaTrash = упаковка фруки
+ent-FoodPacketMarsFroukaTrash = упаковка от марсианской фруки
     .desc = { ent-FoodPacketLunacakeTrash.desc }
 
-ent-FoodPacketVenusTrash = упаковка венерианских лепёшек
+ent-FoodPacketVenusTrash = упаковка от венерианских оладий
     .desc = { ent-FoodPacketLunacakeTrash.desc }
 
-ent-FoodPacketOortrocksTrash = упаковка оортовских камней
+ent-FoodPacketOortrocksTrash = упаковка от шипучих камушков оорта
     .desc = { ent-FoodPacketLunacakeTrash.desc }
 
-ent-FoodSnackMothdogTrash = палочка моли в тесте
-    .desc = Он больше не в прайме.
+ent-FoodSnackMothdogTrash = палочка от мотьдога
+    .desc = Он уже не в расцвете сил.
 
-ent-FoodPacketRedalertnutsTrash = упаковка орехов "Красный сигнал"
+ent-FoodPacketRedalertnutsTrash = пакет от орешков «красная тревога»
     .desc = { ent-FoodPacketLunacakeTrash.desc }
 
 ent-FoodPacketStickTrash = палочка
     .desc = { ent-FoodPacketLunacakeTrash.desc }
 
-ent-FoodPacketProteinbarTrash = упаковка протеинового батончика
+ent-FoodPacketProteinbarTrash = обёртка от протеинового батончика
     .desc = { ent-FoodPacketLunacakeTrash.desc }

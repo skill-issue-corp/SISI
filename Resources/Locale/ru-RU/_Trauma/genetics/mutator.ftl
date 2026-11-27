@@ -1,8 +1,8 @@
 mutator-depleted = Он пуст.
-mutator-examine-loaded = В нём заряжен мутаген.
-mutator-examine-spent = Его мутаген израсходован.
+mutator-examine-loaded = В него загружен мутаген.
+mutator-examine-spent = Мутаген израсходован.
 
-mutator-cant-mutate = {CAPITALIZE($target)} не может быть подвергнут мутации
+mutator-cant-mutate = {CAPITALIZE($target)} не поддаётся мутации
 
-mutator-mutating-you = {CAPITALIZE($user)} вводит вам {$item}!
-mutator-mutating-others = {CAPITALIZE($user)} вводит {$target} {$item}!
+mutator-mutating-you = {CAPITALIZE($user)} делает вам инъекцию с помощью {$item}!
+mutator-mutating-others = {CAPITALIZE($user)} делает инъекцию {$target} с помощью {$item}!

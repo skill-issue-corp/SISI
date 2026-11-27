@@ -1,6 +1,7 @@
 ent-BaseModsuitBatteryAntique = { "" }
     .desc = { "" }
-    .suffix = Антикварный элемент питания
+    .suffix = Антикварная Батарея
+
 ent-BaseModsuitBatteryMicroreactor = { "" }
     .desc = { "" }
     .suffix = Микрореактор

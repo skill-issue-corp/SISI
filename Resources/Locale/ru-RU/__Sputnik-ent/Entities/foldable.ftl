@@ -1,4 +1,5 @@
-ent-BaseFoldable = складной
+ent-BaseFoldable = складной предмет
     .desc = { "" }
-ent-BaseDeployFoldable = разворачиваемый складной
+
+ent-BaseDeployFoldable = развёртываемый складной предмет
     .desc = { ent-BaseFoldable.desc }

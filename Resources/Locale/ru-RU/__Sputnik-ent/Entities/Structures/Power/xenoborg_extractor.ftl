@@ -1,6 +1,6 @@
 ent-XenoborgExtractor = экстрактор ксеноборгов
-    .desc = Потребляет электроэнергию из сети и производит кристаллы ксеноборгов термоядерным синтезом.
-    .suffix = Не Закреплён
+    .desc = Потребляет энергию из сети, чтобы создавать кристаллы ксеноборгов термоядерным синтезом.
+    .suffix = Откреплено
 
 ent-XenoborgExtractorAnchored = { ent-XenoborgExtractor }
     .desc = { ent-XenoborgExtractor.desc }

@@ -1,4 +1,4 @@
-ent-PelletShotgunBreaching = дробь (.50)
+ent-PelletShotgunBreaching = дробина (.50)
     .desc = { ent-BaseBullet.desc }
 
 ent-PelletShotgunBreachingSpread = { ent-PelletShotgunBreaching }

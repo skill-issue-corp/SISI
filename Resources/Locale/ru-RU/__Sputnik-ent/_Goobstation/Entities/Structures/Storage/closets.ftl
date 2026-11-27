@@ -1,6 +1,7 @@
-ent-SuitStorageHEV = { ent-SuitStorageBase }
-    .desc = { ent-SuitStorageBase.desc }
-    .suffix = HEV, Пустой
+ent-SuitStorageHEV = установка хранения костюма H.E.V
+    .desc = Модная высокотехнологичная установка для хранения костюма H.E.V.
+    .suffix = Пусто
+
 ent-SuitStorageHEVFilled = { ent-SuitStorageHEV }
-    .suffix = HEV, Заполненный
     .desc = { ent-SuitStorageHEV.desc }
+    .suffix = Заполнено

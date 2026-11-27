@@ -1,11 +1,11 @@
 ent-BaseClothingBeltSheath = { ent-ClothingBeltBase }
     .desc = { ent-ClothingBeltBase.desc }
 
-ent-ClothingBeltRevWebbing = разгрузочный жилет
-    .desc = Идеально подходит для хранения всего: от боеприпасов до оружия и предметов первой необходимости в бою.
+ent-ClothingBeltRevWebbing = разгрузка
+    .desc = Идеально подходит для хранения чего угодно, от боеприпасов до оружия и прочего снаряжения для боя.
 
-ent-ClothingBeltKnifeRig = крепление для метательных ножей
-    .desc = Специальная перевязь, предназначенная для хранения метательных ножей.
+ent-ClothingBeltKnifeRig = разгрузка для метательных ножей
+    .desc = Специальная перевязь для метательных ножей.
 
 ent-BaseSheathCounterAttackWeak = { "" }
     .desc = { "" }
@@ -17,28 +17,28 @@ ent-BaseSheathCounterAttackStrong = { ent-BaseSheathCounterAttackWeak }
     .desc = { ent-BaseSheathCounterAttackWeak.desc }
 
 ent-ClothingBeltSheathKatana = ножны для катаны
-    .desc = Ножны, предназначенные для хранения клинка офицера.
+    .desc = Ножны для офицерского клинка.
 
 ent-ClothingBeltSheathKatanaFilled = { ent-ClothingBeltSheathKatana }
     .desc = { ent-ClothingBeltSheathKatana.desc }
-    .suffix = Заполненный
+    .suffix = Заполнено
 
 ent-ClothingBeltSheathKatanaNinja = ножны для энергетической катаны
-    .desc = Высокотехнологичные ножны для катаны, позволяющие совершать быстрые движения клинком.
+    .desc = Высокотехнологичные ножны, из которых катану можно выхватить мгновенно.
 
 ent-ClothingBeltSheathKatanaNinjaFilled = { ent-ClothingBeltSheathKatanaNinja }
     .desc = { ent-ClothingBeltSheathKatanaNinja.desc }
-    .suffix = Заполненный
+    .suffix = Заполнено
 
-ent-ClothingBeltSheathSnakesfang = ножны «жало змеи»
-    .desc = Могут вмещать скимитары.
+ent-ClothingBeltSheathSnakesfang = ножны змеиного клыка
+    .desc = Вмещают ятаганы.
 
 ent-ClothingBeltSheathSnakesfangFilled = { ent-ClothingBeltSheathSnakesfang }
     .desc = { ent-ClothingBeltSheathSnakesfang.desc }
-    .suffix = Заполненный
+    .suffix = Заполнено
 
 ent-ClothingBeltRancher = пояс животновода
-    .desc = Идеален для хранения всего, что связано с курами, и не только.
+    .desc = В него отлично помещается всё, что нужно для ухода за курами, и даже больше.
 
-ent-ClothingBeltShankerBelt = самодельная перевязь для ножей
-    .desc = Сшитые куски ткани, в которых можно носить самые разные ножи.
+ent-ClothingBeltShankerBelt = самодельная разгрузка для ножей
+    .desc = Сшита из лоскутов ткани и вмещает самые разные ножи.

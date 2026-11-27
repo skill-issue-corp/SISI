@@ -19,7 +19,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-verb-system-null-server-response = Сущность не в поле зрения. Вы не должны видеть этого.
+verb-system-null-server-response = Сущность вне поля зрения. Вы не должны видеть это сообщение.
 
 
 # if verbs have a range of targets (e.g., multiple ejectables) you can
@@ -29,8 +29,8 @@ verb-self-target-pronoun = Вы
 
 # verb categories & common verbs. These appear across multiple systems, so they may as well go here.
 
-verb-categories-admin = Админ
-verb-categories-debug = Дебаг
+verb-categories-admin = Администрирование
+verb-categories-debug = Отладка
 verb-categories-examine = Осмотреть
 verb-categories-eject = Извлечь
 verb-categories-insert = Вставить
@@ -39,23 +39,23 @@ verb-categories-unbuckle = Отстегнуть
 verb-categories-rotate = Повернуть
 verb-categories-smite = Покарать
 verb-categories-tricks = Трюки
-verb-categories-transfer = Перемещаемое кол-во
+verb-categories-transfer = Задать Объём Переливания
 verb-categories-split = Разделить
-verb-categories-instrument-style = Стиль инструмента
+verb-categories-instrument-style = Стиль Инструмента
 verb-categories-channel-select = Каналы
-verb-categories-set-sensor = Датчики
-verb-categories-timer = Установить задержку
+verb-categories-set-sensor = Датчик
+verb-categories-timer = Задать Задержку
 verb-categories-lever = Рычаг
-verb-categories-select-type = Выбрать тип
-verb-categories-fax = Задать место назначения
-verb-categories-power-level = Уровень мощности
-verb-categories-adjust = Отрегулировать
+verb-categories-select-type = Выбрать Тип
+verb-categories-fax = Задать Получателя
+verb-categories-power-level = Уровень Мощности
+verb-categories-adjust = Настроить
 verb-categories-select-target = Задать Цель
 
 verb-common-toggle-light = Переключить свет
 verb-common-close = Закрыть
 verb-common-open = Открыть
-verb-common-close-ui = Закрыть UI
-verb-common-open-ui = Открыть UI
+verb-common-close-ui = Закрыть Интерфейс
+verb-common-open-ui = Открыть Интерфейс
 verb-common-enter = Войти
 verb-common-exit = Выйти

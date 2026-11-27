@@ -1,12 +1,36 @@
-hand-labeler-ui-header = Ручной этикетировщик
+# SPDX-FileCopyrightText: 2021 Watermelon914 <37270891+Watermelon914@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 CommieFlowers <rasmus.cedergren@hotmail.com>
+# SPDX-FileCopyrightText: 2022 rolfero <45628623+rolfero@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 lzk <124214523+lzk228@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+hand-labeler-ui-header = Ручной Маркиратор
+
 # The content of the label in the UI above the text entry input.
 hand-labeler-current-text-label = Этикетка:
+
+# The text on the button in the UI to reset the text entry input to the content it had when the UI was opened
+hand-labeler-ui-reset-label-text = Сбросить
+
+# The text on the button in the UI to clear the text entry input
+hand-labeler-ui-clear-label-text = Очистить
+
 # When the hand labeler applies a label successfully
-hand-labeler-successfully-applied = Этикетка успешно наклеена
+hand-labeler-successfully-applied = Этикетка наклеена
+
 # When the hand labeler removes a label successfully
-hand-labeler-successfully-removed = Этикетка успешно удалена
+hand-labeler-successfully-removed = Этикетка снята
+
 # Appended to the description of an object with a label on input
-hand-labeler-has-label = На объекте имеется этикетка "{ $label }"
+hand-labeler-has-label = На этом предмете есть этикетка с надписью «{$label}»
+
 # Verb text
-hand-labeler-remove-label-text = Удалить этикетку
+hand-labeler-remove-label-text = Снять этикетку
 hand-labeler-add-label-text = Наклеить этикетку
+
+# Shown when the labeler is examined
+hand-labeler-examine-blank = На этикетке ничего не написано.
+hand-labeler-examine-label-text = На этикетке написано «{$label-text}».

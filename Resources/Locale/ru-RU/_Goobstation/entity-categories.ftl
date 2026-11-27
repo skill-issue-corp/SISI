@@ -1,2 +1,2 @@
-entity-category-name-enchants = Зачарования
+entity-category-name-enchants = Чары
 entity-category-name-diseases = Болезни

@@ -4,7 +4,7 @@ ent-BaseMindRoleBloodCult = { ent-BaseMindRoleAntag }
 ent-MindRoleBloodCultist = Роль Культиста Крови
     .desc = { ent-BaseMindRoleBloodCult.desc }
 
-ent-MindRoleBloodCultLeader = Роль Главы Культа Крови
+ent-MindRoleBloodCultLeader = Роль Лидера Культа Крови
     .desc = { ent-MindRoleBloodCultist.desc }
 
 ent-MindRoleBloodCultConstruct = Роль Конструкта Культа Крови

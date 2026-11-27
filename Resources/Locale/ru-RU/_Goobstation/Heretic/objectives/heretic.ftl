@@ -7,7 +7,18 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 objective-issuer-heretic = [color=#8e24aa]Мансус[/color]
-objective-condition-knowledge-title = Изучите как минимум { $count } знаний Мансуса.
-objective-condition-sacrifice-title = Принесите в жертву как минимум { $count } членов экипажа.
-objective-condition-sacrifice-head-title = Принесите в жертву как минимум { $count } глав отделов.
-objective-condition-description-ascend = Я должен сделать это, чтобы вознестись!
+
+objective-condition-knowledge-title = Изучите не менее {$count} { $count ->
+    [one] знания
+   *[other] знаний
+} Мансуса.
+objective-condition-sacrifice-title = Принесите в жертву не менее {$count} { $count ->
+    [one] члена экипажа
+   *[other] членов экипажа
+}.
+objective-condition-sacrifice-head-title = Принесите в жертву не менее {$count} { $count ->
+    [one] главы отдела
+   *[other] глав отделов
+}.
+
+objective-condition-description-ascend = Без этого я не смогу вознестись!

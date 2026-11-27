@@ -1,66 +1,59 @@
-salvage-expedition-structure-examine = Это необходимо [color=#B02E26]уничтожить[/color]
-salvage-expedition-structure-remaining =
-    Осталось разрушить { $count } { $count ->
-        [one] цель.
-        [few] цели.
-       *[other] целей.
-    }
-salvage-expedition-type = Миссии
-salvage-expedition-window-title = Утилизаторские экспедиции
+salvage-expedition-type = Задание
+salvage-expedition-window-title = Экспедиции утилизаторов
 salvage-expedition-window-difficulty = Сложность:
 salvage-expedition-window-details = Подробности:
-salvage-expedition-window-hostiles = Враги:
-salvage-expedition-window-duration = Продолжительность:
+salvage-expedition-window-hostiles = Противники:
+salvage-expedition-window-duration = Длительность:
 salvage-expedition-window-biome = Биом:
 salvage-expedition-window-modifiers = Модификаторы:
+
 offering-window-claimed = Принято
 offering-window-claim = Принять
+
 salvage-expedition-window-next = Следующее предложение
-salvage-expedition-difficulty-players = Рекомендовано утилизаторов:
+
 salvage-expedition-difficulty-Moderate = Умеренная
-salvage-expedition-difficulty-Hazardous = Высокая
+salvage-expedition-difficulty-Hazardous = Опасная
 salvage-expedition-difficulty-Extreme = Экстремальная
+
+salvage-expedition-difficulty-players = Рекомендуемое число утилизаторов:
+
 # Runner
-salvage-expedition-not-all-present = Не все утилизаторы вернулись на борт шаттла!
-# Runner
-salvage-expedition-announcement-countdown-minutes =
-    До окончания экспедиции осталась { $duration } { $duration ->
-        [one] минута
-        [few] минуты
-       *[other] минут
-    }.
-salvage-expedition-announcement-countdown-seconds =
-    До окончания экспедиции осталось { $duration } { $duration ->
-        [one] секунда
-        [few] секунды
-       *[other] секунд
-    }.
-salvage-expedition-reward-description = Награда за завершение миссии
-salvage-expedition-announcement-dungeon = Подземелье расположено от вас на { $direction }.
-salvage-expedition-completed = Экспедиция окончена.
+salvage-expedition-not-all-present = Не все утилизаторы на борту шаттла!
+
+salvage-expedition-announcement-countdown-minutes = До конца экспедиции осталось {$duration} мин.
+salvage-expedition-announcement-countdown-seconds = До конца экспедиции осталось {$duration} сек.
+salvage-expedition-announcement-dungeon = Подземелье находится {$direction}.
+salvage-expedition-completed = Экспедиция завершена.
+salvage-expedition-reward-description = Награда за выполнение задания
+
 # Salvage biome mod
 salvage-biome-mod-caves = Пещеры
-salvage-biome-mod-grasslands = Луга
-salvage-biome-mod-snow = Снега
+salvage-biome-mod-grasslands = Травянистые равнины
+salvage-biome-mod-snow = Снег
 salvage-biome-mod-lava = Лава
+
 # Salvage mods
-salvage-light-mod-daylight = День
+salvage-light-mod-daylight = Дневной свет
 salvage-light-mod-evening = Вечер
 salvage-light-mod-night = Ночь
+
 salvage-temperature-mod-room-temperature = Комнатная температура
-salvage-temperature-mod-hot = Жара
+salvage-temperature-mod-hot = Жарко
 salvage-temperature-mod-high-temperature = Высокая температура
 salvage-temperature-mod-extreme-heat = Экстремальная жара
-salvage-temperature-mod-cold = Холод
+salvage-temperature-mod-cold = Холодно
 salvage-temperature-mod-low-temperature = Низкая температура
 salvage-temperature-mod-extreme-cold = Экстремальный холод
-salvage-air-mod-no-atmosphere = Отсутствие атмосферы
-salvage-air-mod-breathable-atmosphere = Пригодная атмосфера
+
+salvage-air-mod-no-atmosphere = Нет атмосферы
+salvage-air-mod-breathable-atmosphere = Пригодная для дыхания атмосфера
 salvage-air-mod-dangerous-atmosphere = Опасная атмосфера
 salvage-air-mod-toxic-atmosphere = Токсичная атмосфера
-salvage-air-mod-volatile-atmosphere = Изменчивая атмосфера
-salvage-dungeon-mod-lava-brig = Лавовый бриг
-salvage-dungeon-mod-snowy-labs = Снежная лаборатория
+salvage-air-mod-volatile-atmosphere = Взрывоопасная атмосфера
+
+salvage-dungeon-mod-lava-brig = Лавовый Бриг
+salvage-dungeon-mod-snowy-labs = Заснеженные лаборатории
 salvage-dungeon-mod-experiment = Эксперимент
-salvage-dungeon-mod-haunted = Призраки
+salvage-dungeon-mod-haunted = С призраками
 salvage-dungeon-mod-mineshaft = Шахта

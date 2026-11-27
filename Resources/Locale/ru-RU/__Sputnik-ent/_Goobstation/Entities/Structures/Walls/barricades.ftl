@@ -1,16 +1,23 @@
 ent-BaseMetalBarricade = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
+
 ent-BaseMetalBarricadeFolding = { ent-BaseMetalBarricade }
     .desc = { ent-BaseMetalBarricade.desc }
+
 ent-BaseBarricadeSteel = { "" }
     .desc = { "" }
+
 ent-BarricadeSteel = стальная баррикада
-    .desc = Прочная баррикада, созданная, чтобы держать зло снаружи.
+    .desc = Прочная баррикада, которая не пускает ничего плохого.
+
 ent-BarricadeSteelFolding = складная стальная баррикада
-    .desc = Прочная баррикада, созданная, чтобы держать зло снаружи. Эту можно открыть при помощи защёлки.
+    .desc = Прочная баррикада, которая не пускает ничего плохого. Эту можно открыть, отодвинув задвижку.
+
 ent-BaseBarricadePlasteel = { "" }
     .desc = { "" }
-ent-BarricadePlasteel = укреплённая баррикада
-    .desc = Укреплённая баррикада, созданная, чтобы держать особенно опасное зло снаружи.
-ent-BarricadePlasteelFolding = складная укреплённая баррикада
-    .desc = Укреплённая баррикада, созданная, чтобы держать особенно опасное зло снаружи. Эту можно открыть при помощи защёлки.
+
+ent-BarricadePlasteel = пласталевая баррикада
+    .desc = Укреплённая баррикада, которая не пускает ничего особенно плохого.
+
+ent-BarricadePlasteelFolding = складная пласталевая баррикада
+    .desc = Укреплённая баррикада, которая не пускает ничего особенно плохого. Эту можно открыть, отодвинув задвижку.

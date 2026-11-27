@@ -1,12 +1,32 @@
-gs-balanceui-shop-buy-token-minor-antag = Купить токен на мелкого антагониста - { $price } коинов
+gs-balanceui-shop-buy-token-minor-antag = Купить токен на мелкого антагониста - { $price } { $price ->
+    [one] коин
+    [few] коина
+   *[other] коинов
+}
 
-gs-balanceui-shop-buy-token-medium-antag = Купить токен на среднего антагониста - { $price } коинов
+gs-balanceui-shop-buy-token-medium-antag = Купить токен на среднего антагониста - { $price } { $price ->
+    [one] коин
+    [few] коина
+   *[other] коинов
+}
 
-gs-balanceui-shop-buy-token-high-antag = Купить токен на крупного антагониста - { $price } коинов
+gs-balanceui-shop-buy-token-high-antag = Купить токен на крупного антагониста - { $price } { $price ->
+    [one] коин
+    [few] коина
+   *[other] коинов
+}
 
-gs-balanceui-shop-buy-token-light-admin-abuse = Купить токен на лёгкий админ абуз - { $price } коинов
+gs-balanceui-shop-buy-token-light-admin-abuse = Купить токен на лёгкий админ абуз - { $price } { $price ->
+    [one] коин
+    [few] коина
+   *[other] коинов
+}
 
-gs-balanceui-shop-buy-token-hard-admin-abuse = Купить токен на крупный админ абуз - { $price } коинов
+gs-balanceui-shop-buy-token-hard-admin-abuse = Купить токен на крупный админ абуз - { $price } { $price ->
+    [one] коин
+    [few] коина
+   *[other] коинов
+}
 
 gs-balanceui-shop-token-minor-antag = Токен мелкого антагониста
 

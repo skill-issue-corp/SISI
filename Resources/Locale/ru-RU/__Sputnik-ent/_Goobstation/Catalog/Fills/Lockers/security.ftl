@@ -1,5 +1,6 @@
-ent-GunSafeLauncherNonLethal = сейф для гранатомета
+ent-GunSafeLauncherNonLethal = сейф с гранатомётами для разгона беспорядков
     .desc = { ent-GunSafeBaseSecure.desc }
+
 ent-LockerDetectiveFilledHardsuit = { ent-LockerDetective }
-    .suffix = Заполненный, Скафандр
     .desc = { ent-LockerDetective.desc }
+    .suffix = Заполнено, Скафандр

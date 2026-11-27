@@ -1,1 +1,1 @@
-construction-group-revolutionary = Революционер
+construction-group-revolutionary = Революционное

@@ -8,7 +8,7 @@
 
 dragon-round-end-agent-name = дракон
 
-objective-issuer-dragon = [color=#7567b6]Космический дракон[/color]
+objective-issuer-dragon = [color=#7567b6]Космический Дракон[/color]
 
 # SIS-Start
 dragon-role-greeting =

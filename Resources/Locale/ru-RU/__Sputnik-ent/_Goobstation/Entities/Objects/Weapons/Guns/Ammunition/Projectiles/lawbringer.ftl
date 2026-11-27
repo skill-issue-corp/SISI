@@ -1,23 +1,23 @@
-ent-BulletClownshot = клоунский заряд
+ent-BulletClownshot = клоунский выстрел
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletPulse = импульсный заряд
+ent-BulletPulse = импульс
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletDetain = удерживающий заряд
+ent-BulletDetain = задержание
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletExecute = карающий заряд
+ent-BulletExecute = казнить
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletHotshot = зажигательный заряд
+ent-BulletHotshot = горячий выстрел
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletSleepshot = усыпляющий заряд
+ent-BulletSleepshot = усыпляющий выстрел
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletBigshot = мощный заряд
+ent-BulletBigshot = мощный выстрел
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletLawyershot = адвокатская картечь
+ent-BulletLawyershot = адвокатский выстрел
     .desc = { ent-BaseBullet.desc }

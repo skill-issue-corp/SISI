@@ -2,95 +2,95 @@ ent-RandomHumanoidSpawnerDeathSquad = Агент Эскадрона Смерти
     .desc = { "" }
     .suffix = Роль ОБР, Эскадрон Смерти
 
-ent-RandomHumanoidSpawnerERTLeader = ОБР лидер
-    .suffix = Роль ОБР, Базовый
+ent-RandomHumanoidSpawnerERTLeader = командир ОБР
     .desc = { "" }
+    .suffix = Роль ОБР, Базовый
 
-ent-RandomHumanoidSpawnerERTLeaderEVA = ОБР лидер
-    .suffix = Роль ОБР, Бронескафандр
+ent-RandomHumanoidSpawnerERTLeaderEVA = командир ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
+    .suffix = Роль ОБР, EVA
 
 ent-RandomHumanoidSpawnerERTLeaderArmed = { ent-RandomHumanoidSpawnerERTLeaderEVA }
     .desc = { ent-RandomHumanoidSpawnerERTLeaderEVA.desc }
-    .suffix = Роль ОБР, Базовый
+    .suffix = Роль ОБР, Вооружён, EVA
 
-ent-RandomHumanoidSpawnerERTChaplain = ОБР священник
-    .suffix = Роль ОБР, Базовый
+ent-RandomHumanoidSpawnerERTChaplain = священник ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
+    .suffix = Роль ОБР, Базовый
 
-ent-RandomHumanoidSpawnerERTChaplainEVA = ОБР священник
-    .suffix = Роль ОБР, Бронескафандр
+ent-RandomHumanoidSpawnerERTChaplainEVA = священник ОБР
     .desc = { ent-RandomHumanoidSpawnerERTChaplain.desc }
+    .suffix = Роль ОБР, EVA
 
-ent-RandomHumanoidSpawnerERTJanitor = ОБР уборщик
-    .suffix = Роль ОБР, Базовый
+ent-RandomHumanoidSpawnerERTJanitor = уборщик ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
+    .suffix = Роль ОБР, Базовый
 
-ent-RandomHumanoidSpawnerERTJanitorEVA = ОБР уборщик
-    .suffix = Роль ОБР, Бронескафандр
+ent-RandomHumanoidSpawnerERTJanitorEVA = { ent-RandomHumanoidSpawnerERTJanitor }
     .desc = { ent-RandomHumanoidSpawnerERTJanitor.desc }
+    .suffix = Роль ОБР, EVA
 
-ent-RandomHumanoidSpawnerERTEngineer = ОБР инженер
-    .suffix = Роль ОБР, Базовый
+ent-RandomHumanoidSpawnerERTEngineer = инженер ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
+    .suffix = Роль ОБР, Базовый
 
-ent-RandomHumanoidSpawnerERTEngineerEVA = ОБР инженер
-    .suffix = Роль ОБР, Бронескафандр
+ent-RandomHumanoidSpawnerERTEngineerEVA = { ent-RandomHumanoidSpawnerERTEngineer }
     .desc = { ent-RandomHumanoidSpawnerERTEngineer.desc }
+    .suffix = Роль ОБР, EVA
 
 ent-RandomHumanoidSpawnerERTEngineerArmed = { ent-RandomHumanoidSpawnerERTEngineerEVA }
     .desc = { ent-RandomHumanoidSpawnerERTEngineerEVA.desc }
-    .suffix = Роль ОБР, Базовый
+    .suffix = Роль ОБР, Вооружён, EVA
 
-ent-RandomHumanoidSpawnerERTSecurity = ОБР офицер безопасности
-    .suffix = Роль ОБР, Базовый
+ent-RandomHumanoidSpawnerERTSecurity = боец СБ ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
+    .suffix = Роль ОБР, Базовый
 
-ent-RandomHumanoidSpawnerERTSecurityEVA = ОБР офицер безопасности
-    .suffix = Роль ОБР, Бронескафандр
+ent-RandomHumanoidSpawnerERTSecurityEVA = боец СБ ОБР
     .desc = { ent-RandomHumanoidSpawnerERTSecurity.desc }
+    .suffix = Роль ОБР, EVA
 
-ent-RandomHumanoidSpawnerERTSecurityArmedRifle = ОБР офицер безопасности стрелок
+ent-RandomHumanoidSpawnerERTSecurityArmedRifle = стрелок СБ ОБР
     .desc = { ent-RandomHumanoidSpawnerERTSecurityEVA.desc }
-    .suffix = Роль ОБР, Базовый
+    .suffix = Роль ОБР, Вооружён, EVA
 
-ent-RandomHumanoidSpawnerERTSecurityArmedGrenade = ОБР офицер безопасности гренадёр
+ent-RandomHumanoidSpawnerERTSecurityArmedGrenade = гренадёр СБ ОБР
     .desc = { ent-RandomHumanoidSpawnerERTSecurityEVA.desc }
-    .suffix = Роль ОБР, Базовый
+    .suffix = Роль ОБР, Вооружён, EVA
 
-ent-RandomHumanoidSpawnerERTSecurityArmedVanguard = лидер ОБР офицер безопасности
+ent-RandomHumanoidSpawnerERTSecurityArmedVanguard = авангард СБ ОБР
     .desc = { ent-RandomHumanoidSpawnerERTSecurityEVA.desc }
-    .suffix = Роль ОБР, Базовый
+    .suffix = Роль ОБР, Вооружён, EVA
 
-ent-RandomHumanoidSpawnerERTSecurityArmedShotgun = ОБР офицер безопасности прорывник
+ent-RandomHumanoidSpawnerERTSecurityArmedShotgun = штурмовик СБ ОБР
     .desc = { ent-RandomHumanoidSpawnerERTSecurityEVA.desc }
-    .suffix = Роль ОБР, Базовый
+    .suffix = Роль ОБР, Вооружён, EVA
 
-ent-RandomHumanoidSpawnerERTMedical = ОБР медик
-    .suffix = Роль ОБР, Базовый
+ent-RandomHumanoidSpawnerERTMedical = медик ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
+    .suffix = Роль ОБР, Базовый
 
-ent-RandomHumanoidSpawnerERTMedicalEVA = ОБР медик
-    .suffix = Роль ОБР, Бронескафандр
+ent-RandomHumanoidSpawnerERTMedicalEVA = { ent-RandomHumanoidSpawnerERTMedical }
     .desc = { ent-RandomHumanoidSpawnerERTMedical.desc }
+    .suffix = Роль ОБР, EVA
 
 ent-RandomHumanoidSpawnerERTMedicalArmed = { ent-RandomHumanoidSpawnerERTMedicalEVA }
     .desc = { ent-RandomHumanoidSpawnerERTMedicalEVA.desc }
-    .suffix = Роль ОБР, Базовый
+    .suffix = Роль ОБР, Вооружён, EVA
 
 ent-RandomHumanoidSpawnerCBURNUnit = Агент РХБЗЗ
+    .desc = { "" }
     .suffix = Роль ОБР
+
+ent-RandomHumanoidSpawnerCentcomOfficial = представитель ЦК
     .desc = { "" }
 
-ent-RandomHumanoidSpawnerCentcomOfficial = Представитель ЦК
+ent-RandomHumanoidSpawnerSyndicateAgent = агент синдиката
     .desc = { "" }
 
-ent-RandomHumanoidSpawnerSyndicateAgent = Агент Синдиката
-    .desc = { "" }
-
-ent-RandomHumanoidSpawnerNukeOp = Ядерный оперативник
+ent-RandomHumanoidSpawnerNukeOp = Ядерный Оперативник
     .desc = { "" }
 
 ent-RandomHumanoidSpawnerCluwne = Клувень
-    .suffix = Спавнит клувня
     .desc = { "" }
+    .suffix = создаёт клувеня

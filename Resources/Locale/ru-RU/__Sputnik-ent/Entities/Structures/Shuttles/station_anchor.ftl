@@ -1,15 +1,14 @@
-ent-StationAnchorBase = станционный якорь
-    .desc = Предотвращает смещение станций.
+ent-StationAnchorBase = якорь станции
+    .desc = Удерживает станцию на месте.
     .suffix = Включён
 
 ent-StationAnchorIndestructible = { ent-StationAnchorBase }
-    .suffix = Неразрушимый, Не требует питания
     .desc = { ent-StationAnchorBase.desc }
+    .suffix = Неразрушимый, Обесточен
 
 ent-StationAnchor = { ent-StationAnchorBase }
     .desc = { ent-StationAnchorBase.desc }
-    .suffix = Включён
 
 ent-StationAnchorOff = { ent-StationAnchor }
-    .suffix = Выключен
     .desc = { ent-StationAnchor.desc }
+    .suffix = Выключен

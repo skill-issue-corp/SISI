@@ -1,5 +1,5 @@
-ent-DionaGibAction = Развалить себя!
-    .desc = Разделиться на трёх нимф.
+ent-DionaGibAction = Распасться!
+    .desc = Распадитесь на 3 нимф.
 
-ent-DionaReformAction = Переформироваться
-    .desc = Переформироваться в цельную диону.
+ent-DionaReformAction = Воссоединиться
+    .desc = Снова станьте целой Дионой.

@@ -1,16 +1,21 @@
-ent-BoxSoapsAssorted = набор душистого мыла
-    .desc = Коробка с различными видами душистого мыла. Ооо, запах лаванды.
-ent-BoxSoapsAssortedOmega = набор душистого мыла
-    .desc = Коробка с различными видами душистого мыла. Ммм, запах блюспейса.
-ent-BoxBuildABuddyHuman = набор Создай-Друга
-    .desc = Набор для создания приятеля "Генри-человек". Требуется сборка.
+ent-BoxSoapsAssorted = пробный набор ароматизированного мыла
+    .desc = Коробка мыла с разными ароматами. О-о, лаванда.
+
+ent-BoxSoapsAssortedOmega = { ent-BoxSoapsAssorted }
+    .desc = Коробка мыла с разными ароматами. О-о, блюспейс.
+
+ent-BoxBuildABuddyHuman = набор «Собери-Друга»
+    .desc = «Человек Генри», набор «Собери-Друга». Потребуется сборка.
     .suffix = Человек
-ent-BoxBuildABuddyReptilian = набор Создай-Друга
-    .desc = Набор для создания приятеля "Рэнди-унатх". Требуется сборка.
+
+ent-BoxBuildABuddyReptilian = { ent-BoxBuildABuddyHuman }
+    .desc = «Унатх Рэнди», набор «Собери-Друга». Потребуется сборка.
     .suffix = Унатх
-ent-BoxBuildABuddySlime = набор Создай-Друга
-    .desc = Набор для создания приятеля "Стивен-слизнечеловек". Требуется сборка.
-    .suffix = Слизнечеловек
-ent-BoxBuildABuddyVulpkanin = набор Создай-Друга
-    .desc = Набор для создания приятеля "Валерия-вулпканинка". Требуется сборка.
-    .suffix = Вульпа!
+
+ent-BoxBuildABuddySlime = { ent-BoxBuildABuddyHuman }
+    .desc = «Слайм Стивен», набор «Собери-Друга». Потребуется сборка.
+    .suffix = Слайм
+
+ent-BoxBuildABuddyVox = { ent-BoxBuildABuddyHuman }
+    .desc = «Вокс Витикики», набор «Собери-Друга». Потребуется сборка.
+    .suffix = Вокс

@@ -1,4 +1,4 @@
-upgrade-kit-invalid-target = Вы не можете улучшить это!
+upgrade-kit-invalid-target = Это нельзя улучшить!
 
-lathe-upgrade-kit-hyper-convection = [color=cyan]Гиперконвекция[/color]: [color=green]снижает расход материалов[/color], но [color=red]работает медленнее и нагревает окружение[/color].
-lathe-upgrade-kit-cryo-stabilizing = [color=cyan]Криостабилизация[/color]: [color=green]работает быстрее[/color], но [color=red]охлаждает окружение[/color].
+lathe-upgrade-kit-hyper-convection = [color=cyan]Гиперконвекция[/color]: [color=green]Экономит ресурсы[/color], но [color=red]замедляет работу и выделяет тепло[/color].
+lathe-upgrade-kit-cryo-stabilizing = [color=cyan]Криостабилизация[/color]: [color=green]Ускоряет работу[/color], но [color=red]замораживает всё вокруг[/color].

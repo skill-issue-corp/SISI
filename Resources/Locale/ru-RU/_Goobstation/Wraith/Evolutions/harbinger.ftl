@@ -1,6 +1,8 @@
-wraith-raise-body-refuse = Это тело отказывается подчинять свой скелет вашей воле.
-wraith-raise-no-corpse = Здесь нет трупов в виде скелета для поднятия!
-wraith-portal-blocked = Что-то блокирует путь!
-wraith-portal-gathering = Вы собираете свою энергию и открываете портал.
-wraith-portal-cannot-open = Вы не можете открыть портал здесь.
-wraith-portal-already = Если у вас уже есть портал, предыдущий уничтожится. Вы уверены?
+wraith-raise-body-refuse = Тело не подчиняет свой скелет вашей воле.
+wraith-raise-no-corpse = Здесь нет скелетированных трупов, которые можно поднять!
+
+wraith-portal-blocked = Что-то мешает!
+wraith-portal-gathering = Вы собираете энергию и открываете портал.
+wraith-portal-cannot-open = Здесь нельзя открыть портал.
+
+wraith-portal-already = Если у вас уже есть портал, он будет уничтожен. Вы уверены?

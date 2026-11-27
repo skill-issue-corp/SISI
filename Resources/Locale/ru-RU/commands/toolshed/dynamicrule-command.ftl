@@ -1,16 +1,16 @@
 command-description-dynamicrule-list =
-    Lists all currently active dynamic rules, usually this is just one.
+    Выводит все действующие динамические правила. Обычно оно одно.
 command-description-dynamicrule-get =
-    Gets the currently active dynamic rule.
+    Получает действующее динамическое правило.
 command-description-dynamicrule-budget =
-    Gets the current budget of the piped dynamic rule(s).
+    Получает текущий бюджет переданных динамических правил.
 command-description-dynamicrule-adjust =
-    Adjusts the budget of the piped dynamic rule(s) by the specified amount.
+    Изменяет бюджет переданных динамических правил на указанную величину.
 command-description-dynamicrule-set =
-    Sets the budget of the piped dynamic rule(s) to the specified amount.
+    Устанавливает бюджет переданных динамических правил на указанную величину.
 command-description-dynamicrule-dryrun =
-    Returns a list of rules that could be activated if the rule ran at this moment with all current context. This is not a complete list of every single rule that could be run, just a sample of the current valid ones.
+    Возвращает выборку правил, которые могли бы активироваться при запуске прямо сейчас с учётом всех текущих условий.
 command-description-dynamicrule-executenow =
-    Executes the piped dynamic rule as if it had reached its regular update time.
+    Выполняет переданное динамическое правило так, словно пришло время его очередного обновления.
 command-description-dynamicrule-rules =
-    Gets a list of all the rules spawned by the piped dynamic rule.
+    Получает список всех правил, запущенных переданным динамическим правилом.

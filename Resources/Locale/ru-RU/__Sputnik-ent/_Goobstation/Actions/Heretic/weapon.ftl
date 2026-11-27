@@ -1,2 +1,2 @@
-ent-ActionRunebreak = разрушитель рун
+ent-ActionRunebreak = Разрушить Руны
     .desc = Уничтожает все руны, вырезанные этим клинком.

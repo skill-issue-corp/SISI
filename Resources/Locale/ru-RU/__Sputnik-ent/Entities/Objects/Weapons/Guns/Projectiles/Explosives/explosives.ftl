@@ -10,23 +10,23 @@ ent-BulletGrenadeBaton = травматический гранатомётный
 ent-BulletGrenadeBlast = фугасная граната
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletGrenadeFlash = светошумовая граната
+ent-BulletGrenadeFlash = световая граната
     .desc = { ent-BaseBulletTrigger.desc }
 
 ent-BulletGrenadeFrag = осколочная граната
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletGrenadeCleanade = снаряд чистящей гранаты
+ent-BulletGrenadeCleanade = чистящий гранатомётный выстрел
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletGrenadeEMP = ЭМИ ракета
+ent-BulletGrenadeEMP = ракета ЭМИ
     .desc = { ent-BaseBulletTrigger.desc }
 
 ent-BulletCannonBall = пушечное ядро
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletGuidedXenoborgMissile = управляемая ксеноборгская ракета
+ent-BulletGuidedXenoborgMissile = управляемая ракета ксеноборга
     .desc = { ent-BulletRocket.desc }
 
-ent-BulletXenoborgMechadermisRocket = мехадермисная ракета
+ent-BulletXenoborgMechadermisRocket = ракета мехадермиса
     .desc = { ent-BaseBulletTrigger.desc }

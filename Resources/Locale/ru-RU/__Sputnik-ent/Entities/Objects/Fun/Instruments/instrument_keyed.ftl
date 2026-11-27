@@ -5,14 +5,15 @@ ent-SynthesizerInstrument = синтезатор
     .desc = { ent-BaseKeyedInstrument.desc }
 
 ent-SuperSynthesizerInstrument = суперсинтезатор
-    .desc = Разрываем гетто с помощью Touhou MIDIs с 2020 года.
+    .desc = Сотрясает гетто MIDI из Touhou с 2020 года.
+    .suffix = Администрация
 
 ent-SuperSynthesizerNoLimitInstrument = { ent-SuperSynthesizerInstrument }
     .desc = { ent-SuperSynthesizerInstrument.desc }
-    .suffix = Админ Без Ограничений
+    .suffix = БезЛимитов Админ
 
 ent-AccordionInstrument = аккордеон
     .desc = { ent-BaseKeyedInstrument.desc }
 
 ent-KalimbaInstrument = калимба
-    .desc = Мощь фортепиано прямо под вашими пальцами.
+    .desc = Вся мощь пианино прямо под большими пальцами.

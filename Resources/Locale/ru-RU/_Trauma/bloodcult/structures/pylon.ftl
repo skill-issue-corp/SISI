@@ -1,1 +1,1 @@
-pylon-placement-another-pylon-nearby = Здесь нельзя установить пилон: рядом уже есть другой пилон.
+pylon-placement-another-pylon-nearby = Здесь нельзя разместить пилон: рядом уже есть другой.

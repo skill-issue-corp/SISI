@@ -1,3 +1,3 @@
-ent-SpawnMobHuman = спавнер Урист
-    .suffix = DEBUG
+ent-SpawnMobHuman = Спавнер Уриста
     .desc = { ent-MarkerBase.desc }
+    .suffix = DEBUG

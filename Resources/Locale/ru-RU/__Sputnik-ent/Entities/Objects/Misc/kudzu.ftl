@@ -2,25 +2,25 @@ ent-BaseKudzu = { "" }
     .desc = { "" }
 
 ent-Kudzu = кудзу
-    .desc = Быстрорастущее, опасное растение. ЗАЧЕМ ВЫ ОСТАНОВИЛИСЬ ПОСМОТРЕТЬ НА НЕГО?!
+    .desc = Быстрорастущее опасное растение. ЗАЧЕМ ВЫ ОСТАНОВИЛИСЬ ПОСМОТРЕТЬ НА НЕГО?!
 
 ent-WeakKudzu = { ent-Kudzu }
-    .suffix = Слабый
     .desc = { ent-Kudzu.desc }
+    .suffix = Слабое
 
 ent-KudzuFlowerFriendly = цветочный ковёр
-    .desc = Пёстрый ковёр из цветов, расстилающийся во все стороны. Вы не уверены, убирать его или лучше оставить.
-    .suffix = Аномалия Флора, Дружелюбный
+    .desc = Красочный ковёр из цветов, расползающийся во все стороны. Неясно, сорвать его или оставить.
+    .suffix = Дружелюбная, Цветочная Аномалия
 
 ent-KudzuFlowerAngry = { ent-KudzuFlowerFriendly }
-    .suffix = Аномалия Флора, Злой
     .desc = { ent-KudzuFlowerFriendly.desc }
+    .suffix = Злая, Цветочная Аномалия
 
 ent-BaseFleshKudzu = сухожилия
-    .desc = Быстрорастущее скопление мясистых сухожилий. ЗАЧЕМ ВЫ ОСТАНОВИЛИСЬ ПОСМОТРЕТЬ НА НИХ?!
+    .desc = Быстрорастущий кластер мясистых сухожилий. ЗАЧЕМ ВЫ ОСТАНОВИЛИСЬ ПОСМОТРЕТЬ НА НИХ?!
 
-ent-FleshKudzu = сухожилия
-    .desc = Быстрорастущее скопление мясистых сухожилий. ЗАЧЕМ ВЫ ОСТАНОВИЛИСЬ ПОСМОТРЕТЬ НА НИХ?!
+ent-FleshKudzu = { ent-BaseFleshKudzu }
+    .desc = { ent-BaseFleshKudzu.desc }
 
 ent-FleshKudzuSpace = { ent-BaseFleshKudzu }
     .desc = { ent-BaseFleshKudzu.desc }

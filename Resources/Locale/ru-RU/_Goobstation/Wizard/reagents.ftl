@@ -4,19 +4,19 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-effect-condition-guidebook-has-component =
-    цель { $invert ->
-        [true] не
-       *[false] имеет
-    } { $comp }
 reagent-effect-guidebook-drop-items =
     { $chance ->
-        [1] заставляет
-       *[other] заставляют
-    } ронять удерживаемые предметы
+        [1] Заставляет
+        *[other] заставляет
+    } выронить предметы из рук
+
 reagent-name-thick-smoke = густой дым
-reagent-desc-thick-smoke = Очень густой дым с магическими свойствами. Вдыхать его не рекомендуется.
-reagent-name-mugwort = полынный чай
-reagent-desc-mugwort = Довольно горькая трава, некогда считавшаяся обладающей защитными магическими свойствами.
-reagent-comp-condition-wizard-or-apprentice = волшебник или ученик
-reagent-physical-desc-magical = магический
+reagent-desc-thick-smoke = Чрезвычайно густой дым с магическими свойствами. Вдыхать его не стоит.
+
+reagent-name-mugwort = чай из полыни
+reagent-desc-mugwort = Довольно горькая трава, которой когда-то приписывали магические защитные свойства.
+
+entity-condition-wizard-or-apprentice = цель – волшебник или ученик
+entity-condition-not-wizard-or-apprentice = цель не волшебник и не ученик
+
+reagent-physical-desc-magical = магическое

@@ -1,62 +1,62 @@
-ent-ClothingNeckPinBase = нагрудный значок
-    .desc = Значок с булавкой.
+ent-ClothingNeckPinBase = значок
+    .desc = Будь никем, твори преступления.
 
 ent-ClothingGenderPinBase = { ent-ClothingNeckPinBase }
     .desc = { ent-ClothingNeckPinBase.desc }
 
-ent-ClothingNeckLGBTPin = { ent-ClothingNeckPinBase }
-    .desc = Разноцветный металлический значок с булавкой.
+ent-ClothingNeckLGBTPin = значок ЛГБТ
+    .desc = Будь геем, твори преступления.
 
-ent-ClothingNeckAllyPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckAllyPin = значок гетеросоюзника
+    .desc = Будь союзником, твори преступления.
 
-ent-ClothingNeckAromanticPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckAromanticPin = значок аромантика
+    .desc = Будь аро, твори преступления.
 
-ent-ClothingNeckAroacePin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckAroacePin = значок ароэйса
+    .desc = Будь ароэйсом, твори преступления.
 
-ent-ClothingNeckAsexualPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckAsexualPin = значок асексуала
+    .desc = Будь эйсом, твори преступления.
 
-ent-ClothingNeckBisexualPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckBisexualPin = значок бисексуала
+    .desc = Будь би, твори преступления.
 
-ent-ClothingNeckGayPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckGayPin = значок гея
+    .desc = Будь геем~ твори преступления.
 
-ent-ClothingNeckIntersexPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckIntersexPin = значок интерсекс
+    .desc = Будь интерсекс, твори преступления.
 
-ent-ClothingNeckLesbianPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckLesbianPin = значок лесбиянки
+    .desc = Будь лесбиянкой, твори преступления.
 
-ent-ClothingNeckNonBinaryPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckNonBinaryPin = небинарный значок
+    .desc = 01100010 01100101 00100000 01100101 01101110 01100010 01111001 00100000 01100100 01101111 00100000 01100011 01110010 01101001 01101101 01100101
 
-ent-ClothingNeckPansexualPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckPansexualPin = значок пансексуала
+    .desc = Будь пан, твори преступления.
 
-ent-ClothingNeckPluralPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckPluralPin = значок множественности
+    .desc = Будь множеством, твори преступления.
 
-ent-ClothingNeckOmnisexualPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckOmnisexualPin = значок омнисексуала
+    .desc = Будь омни, твори преступления.
 
-ent-ClothingNeckGenderqueerPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckGenderqueerPin = значок гендерквира
+    .desc = будь преступлением, твори гендер
 
-ent-ClothingNeckGenderfluidPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckGenderfluidPin = значок гендерфлюида
+    .desc = будь гендером, будь текучим
 
-ent-ClothingNeckTransPin = { ent-ClothingNeckLGBTPin }
-    .desc = { ent-ClothingNeckLGBTPin.desc }
+ent-ClothingNeckTransPin = трансгендерный значок
+    .desc = Будь транс, твори преступления.
 
-ent-ClothingNeckAutismPin = значок "аутизм"
-    .desc = Значок в честь дня распространения информации о проблеме нейродивергентов.
+ent-ClothingNeckAutismPin = значок нейроотличия
+    .desc = Будь нейроотличным, твори преступления.
 
-ent-ClothingNeckGoldAutismPin = значок "аутизм"
-    .desc = Значок в честь дня распространения информации о проблеме аутизма.
+ent-ClothingNeckGoldAutismPin = значок аутизма
+    .desc = Будь аутичным, твори преступления.
 
 ent-SprayFlowerPin = значок-цветок
-    .desc = Милый цветочный значок. Что-то с ним не так...
+    .desc = Милый значок-цветок. Что-то с ним не так...

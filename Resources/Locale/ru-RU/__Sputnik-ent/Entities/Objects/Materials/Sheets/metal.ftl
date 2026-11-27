@@ -1,38 +1,38 @@
-ent-SheetMetalBase = { ent-BaseItem }
-    .desc = Металлический лист, широко применяемый на станции в различных целях.
+ent-SheetMetalBase = { ent-BaseSheet }
+    .desc = Лист металла. На станции его часто используют для самых разных целей.
 
 ent-SheetSteel = сталь
-    .suffix = Полный
     .desc = { ent-SheetMetalBase.desc }
+    .suffix = Полностью заполнено
 
 ent-SheetSteel10 = сталь
-    .suffix = 10
     .desc = { ent-SheetSteel.desc }
+    .suffix = 10
 
 ent-SheetSteel1 = сталь
-    .suffix = Один
     .desc = { ent-SheetSteel.desc }
+    .suffix = Один предмет
 
 ent-SheetBrass = латунь
-    .desc = Лист латуни, в основном используемый любителями часовых механизмов и остатками культа Ратвара.
-    .suffix = Полный
+    .desc = Лист латуни. Им пользуются в основном любители заводных механизмов и остатки Ратварианских культов.
+    .suffix = Полностью заполнено
 
 ent-SheetBrass10 = латунь
-    .suffix = 10
     .desc = { ent-SheetBrass.desc }
+    .suffix = 10
 
 ent-SheetBrass1 = латунь
-    .suffix = Один
     .desc = { ent-SheetBrass.desc }
+    .suffix = Один предмет
 
 ent-SheetPlasteel = пласталь
-    .suffix = Полный
     .desc = { ent-SheetMetalBase.desc }
+    .suffix = Полностью заполнено
 
 ent-SheetPlasteel10 = пласталь
-    .suffix = 10
     .desc = { ent-SheetPlasteel.desc }
+    .suffix = 10
 
 ent-SheetPlasteel1 = пласталь
-    .suffix = Один
     .desc = { ent-SheetPlasteel.desc }
+    .suffix = Один предмет

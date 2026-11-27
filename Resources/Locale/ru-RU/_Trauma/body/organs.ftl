@@ -1,3 +1,3 @@
 markings-organ-Hypoport = Гипопорт
 
-wings-burned-message = {CAPITALIZE($ent)} сгорели!
+wings-burned-message = {CAPITALIZE($ent)} сгорел!

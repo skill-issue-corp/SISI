@@ -1,2 +1,2 @@
-ent-RandomInstruments = спавнер случайный инструмент
+ent-RandomInstruments = спавнер случайных инструментов
     .desc = { ent-MarkerBase.desc }

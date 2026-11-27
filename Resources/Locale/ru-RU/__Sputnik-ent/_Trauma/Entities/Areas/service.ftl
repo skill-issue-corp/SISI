@@ -1,13 +1,13 @@
-ent-BaseAreaService = сфера обслуживания
+ent-BaseAreaService = обслуживание
     .desc = { ent-BaseAreaStation.desc }
 
 ent-AreaKitchen = кухня
     .desc = { ent-BaseAreaService.desc }
 
-ent-AreaCafeteria = столовая
+ent-AreaCafeteria = кафетерий
     .desc = { ent-AreaKitchen.desc }
 
-ent-AreaColdRoom = холодная комната
+ent-AreaColdRoom = холодильная камера
     .desc = { ent-AreaKitchen.desc }
 
 ent-AreaKitchenBackRoom = подсобка кухни
@@ -28,7 +28,7 @@ ent-AreaDiner = закусочная
 ent-AreaBotany = гидропоника
     .desc = { ent-BaseAreaService.desc }
 
-ent-AreaServiceHall = холл сферы обслуживания
+ent-AreaServiceHall = коридор сервисного отдела
     .desc = { ent-BaseAreaService.desc }
 
 ent-AreaRanch = ранчо

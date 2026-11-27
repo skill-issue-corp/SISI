@@ -4,26 +4,26 @@ ent-BaseNukieAnimal = { "" }
 ent-BaseNukieAnimalSpaceproof = { ent-BaseNukieAnimal }
     .desc = { ent-BaseNukieAnimal.desc }
 
-ent-MobNukieMouse = nuclear operative mouse
-    .desc = A Nuclear Operative... MOUSE?!
-    .suffix = Syndicate
+ent-MobNukieMouse = мышь - ядерный оперативник
+    .desc = Ядерный Оперативник... МЫШЬ?!
+    .suffix = Синдикат
 
-ent-MobNukieSpider = nuclear operative tarantula
-    .desc = A spider? A NUKIE SPIDER?!
-    .suffix = Syndicate
+ent-MobNukieSpider = тарантул - ядерный оперативник
+    .desc = Паук? ЯДЕРНЫЙ ПАУК?!
+    .suffix = Синдикат
 
 ent-SolutionVenomSpiderNukie = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
-ent-MobNukieCarp = nuclear operative carp
-    .desc = A blood-red carp trained in carp-to-carp combat.
-    .suffix = Syndicate
+ent-MobNukieCarp = карп - ядерный оперативник
+    .desc = Кроваво-красный карп, обученный сражаться с другими карпами.
+    .suffix = Синдикат
 
 ent-SolutionVenomSyndicarp = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
-ent-MobNukieBehonker = nuclear operative behonker
-    .desc = Gorlex thought it would be funny to have a behonker. It was.
+ent-MobNukieBehonker = бехонкер - ядерный оперативник
+    .desc = В Горлексе решили, что бехонкер - это смешно. Так и вышло.
     .suffix = Синдикат
 
 ent-MobSyndieViscerator = потрошитель

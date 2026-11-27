@@ -1,19 +1,19 @@
 ent-MobCreature = существо
-    .desc = Разрушающее рассудок чудище из преисподней.
+    .desc = Сводящая с ума тварь из потустороннего мира.
 
 ent-MobCreatureWizard = Симмонс
     .desc = Он голоден.
 
-ent-SpawnMobCreature = Генератор существ
+ent-SpawnMobCreature = Спавнер Существа
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobCreatureWizard = Генератор существ мага
+ent-SpawnMobCreatureWizard = Спавнер Волшебного Существа
     .desc = { ent-SpawnMobCreature.desc }
 
-ent-MobStickman = злой стикмен
-    .desc = Существо из мира, где всего 2 измерения. По крайней мере, он пытается оставаться повёрнутым к вам лицом.
+ent-MobStickman = злой человечек из палочек
+    .desc = Существо из мира, в котором всего 2 измерения. По крайней мере оно старается оставаться к вам лицом.
     .suffix = ИИ
 
 ent-MobStickmanTemp = { ent-MobStickman }
-    .suffix = Временный
     .desc = { ent-MobStickman.desc }
+    .suffix = Временный

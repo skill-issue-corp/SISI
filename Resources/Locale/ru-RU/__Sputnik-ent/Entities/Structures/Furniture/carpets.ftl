@@ -1,5 +1,5 @@
 ent-CarpetBase = ковёр
-    .desc = Приятная поверхность для ходьбы.
+    .desc = Нарядное покрытие для ходьбы.
 
 ent-Carpet = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
@@ -27,22 +27,22 @@ ent-CarpetOrange = { ent-CarpetBase }
 
 ent-CarpetSBlue = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
-    .suffix = Небесно-голубой
+    .suffix = Небесно-Голубой
 
 ent-CarpetPurple = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
     .suffix = Фиолетовый
 
 ent-CarpetCyan = { ent-CarpetBase }
-    .suffix = Голубой
     .desc = { ent-CarpetBase.desc }
+    .suffix = Голубой
 
 ent-CarpetWhite = { ent-CarpetBase }
-    .suffix = Белый
     .desc = { ent-CarpetBase.desc }
+    .suffix = Белый
 
-ent-CarpetChapel = ковёр церкви
+ent-CarpetChapel = ковёр часовни
     .desc = { ent-BaseStructure.desc }
 
-ent-CarpetCard = картонный "ковёр"
+ent-CarpetCard = картонный «ковёр»
     .desc = Даже линолеум лучше.

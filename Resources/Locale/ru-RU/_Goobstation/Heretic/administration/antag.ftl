@@ -6,5 +6,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-verb-make-heretic = Сделать выбранную цель еретиком.
-admin-verb-text-make-heretic = Сделать еретиком
+admin-verb-make-heretic = Превратить цель в еретика.
+
+admin-verb-text-make-heretic = Сделать Еретиком

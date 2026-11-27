@@ -1,2 +1,2 @@
 ent-LavalandBossAshDrake = пепельный дракон
-    .desc = Защитник Некрополиса.
+    .desc = Страж Некрополя.

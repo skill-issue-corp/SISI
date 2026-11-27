@@ -1,2 +1,2 @@
-ent-DarkBlueSlimeExtract = тёмно-синий экстракт слайма
+ent-DarkBlueSlimeExtract = экстракт тёмно-синего слайма
     .desc = { ent-BaseSlimeExtract.desc }

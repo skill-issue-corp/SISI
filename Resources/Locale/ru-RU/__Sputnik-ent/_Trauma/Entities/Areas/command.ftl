@@ -4,25 +4,25 @@ ent-BaseAreaCommand = { ent-BaseAreaStation }
 ent-AreaBridge = мостик
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaBridgeHall = зал мостика
+ent-AreaBridgeHall = коридор мостика
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaCommand = командование
+ent-AreaCommand = командный отдел
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaCommandMeetingRoom = переговорная командования
+ent-AreaCommandMeetingRoom = зал совещаний командования
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaCommandGateway = портал командования
+ent-AreaCommandGateway = шлюз командного отдела
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaCommandShowroom = демонстрационный зал командования
+ent-AreaCommandShowroom = выставочный зал командного отдела
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaCommandTeleporter = телепорт командования
+ent-AreaCommandTeleporter = телепорт командного отдела
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaEvaRoom = комната EVA
+ent-AreaEvaRoom = отсек EVA
     .desc = { ent-BaseAreaCommand.desc }
 
 ent-AreaVault = хранилище
@@ -31,26 +31,26 @@ ent-AreaVault = хранилище
 ent-AreaNukeStorage = хранилище ядерной бомбы
     .desc = { ent-AreaVault.desc }
 
-ent-AreaCapQuarters = каюта капитана
+ent-AreaCapQuarters = каюта кэпа
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaOfficeCE = Офис СИ
+ent-AreaOfficeCE = кабинет СИ
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaOfficeCmo = Офис ГВ
+ent-AreaOfficeCmo = кабинет ГВ
     .desc = { ent-BaseAreaCommand.desc }
 
 ent-AreaOfficeHop = ГП
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaOfficeHos = Офис ГСБ
+ent-AreaOfficeHos = кабинет ГСБ
     .desc = { ent-BaseAreaCommand.desc }
 
 ent-AreaOfficeNtr = кабинет представителя NanoTrasen
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaOfficeRd = Офис НИ
+ent-AreaOfficeRd = кабинет НР
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaOfficeQm = Офис КС
+ent-AreaOfficeQm = кабинет КМ
     .desc = { ent-BaseAreaCommand.desc }

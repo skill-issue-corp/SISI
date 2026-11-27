@@ -1,99 +1,80 @@
 ent-ClothingBackpackDuffelSurgeryFilled = хирургический вещмешок
-    .desc = Большой вещевой мешок для хранения дополнительного медицинского снаряжения - похоже, этот мешок предназначен для хранения хирургических инструментов.
+    .desc = Большой вещмешок для запасных медикаментов - этот, похоже, предназначен для хирургических инструментов.
 
-ent-ClothingBackpackDuffelSyndicateFilledMedical = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор Хирурга Синдиката
+ent-ClothingBackpackDuffelSyndicateFilledMedical = хирургический вещмешок синдиката
+    .desc = Большой вещмешок с полным набором хирургических инструментов.
 
 ent-ClothingBackpackDuffelSyndicateFilledMedicine = медицинский вещмешок синдиката
-    .desc = Большой вещмешок, содержащий необходимые медицинские реагенты.
+    .desc = Большой вещмешок с необходимыми лекарственными реагентами.
 
-ent-ClothingBackpackDuffelSyndicateFilledShotgun = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор "Бульдог"
+ent-ClothingBackpackDuffelSyndicateFilledShotgun = комплект Bulldog
+    .desc = Ничего лишнего: содержит популярный Дробовик Bulldog, один барабан с пулями 12g и четыре барабана с картечью 12g.
 
-ent-ClothingBackpackDuffelSyndicateFilledSMG = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор "C-20r"
+ent-ClothingBackpackDuffelSyndicateFilledSMG = комплект C-20r
+    .desc = Старый надёжный друг: классический Пистолет-Пулемёт C-20r в комплекте с тремя магазинами.
 
-ent-ClothingBackpackDuffelSyndicateFilledRifle = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор "Эсток"
+ent-ClothingBackpackDuffelSyndicateFilledRifle = комплект Estoc
+    .desc = Estoc для меткой стрельбы на средней дистанции. В комплекте три магазина.
 
-ent-ClothingBackpackDuffelSyndicateFilledRevolver = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор "Питон"
+ent-ClothingBackpackDuffelSyndicateFilledRevolver = комплект Python
+    .desc = Заявите о себе во весь голос с полностью заряженным Магнумом Python и двумя спидлоадерами в комплекте.
 
-ent-ClothingBackpackDuffelSyndicateFilledLMG = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор "L6 Saw"
+ent-ClothingBackpackDuffelSyndicateFilledLMG = комплект L6 Saw
+    .desc = Больше дакки: легендарный ручной пулемёт L6 в комплекте с 2 коробчатыми магазинами.
 
-ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = комплект China-Lake
-    .desc = Старый гранатомёт China Lake с 13 боеприпасами разной разрушительной силы.
+ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = комплект China Lake
+    .desc = Старый гранатомёт China Lake в комплекте с 13 выстрелами разной разрушительной силы.
 
-ent-ClothingBackpackDuffelSyndicateAmmoFilled = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор боеприпасов
+ent-ClothingBackpackDuffelSyndicateAmmoFilled = комплект боеприпасов
+    .desc = Перезаряжаюсь! Содержит 4 магазина для C-20r, 5 барабанов для Bulldog, 3 магазина для винтовки Estoc, 2 патронных короба для L6 SAW и 3 магазина для Burner.
 
 ent-ClothingBackpackDuffelSyndicateCostumeClown = { ent-ClothingBackpackDuffelClown }
     .desc = { ent-ClothingBackpackDuffelClown.desc }
-    .suffix = Набор Клоуна Синдиката
+    .suffix = синдикат
 
-ent-ClothingBackpackDuffelSyndicateCarpSuit = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор с Костюма карпа
+ent-ClothingBackpackDuffelSyndicateCarpSuit = вещмешок с костюмом карпа
+    .desc = Содержит костюм карпа и несколько друзей для игр.
 
-ent-ClothingBackpackDuffelSyndicatePyjamaBundle = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор пижам Синдиката
+ent-ClothingBackpackDuffelSyndicatePyjamaBundle = вещмешок с пижамами синдиката
+    .desc = Содержит 3 пижамы синдиката и 4 плюшевые игрушки для лучшей ночёвки в вашей жизни.
 
-ent-ClothingBackpackDuffelSyndicateC4tBundle = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор C-4 Синдиката
+ent-ClothingBackpackDuffelSyndicateC4tBundle = комплект C-4 синдиката
+    .desc = Содержит много зарядов C-4.
 
-ent-ClothingBackpackChameleonFill = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор Хамелеона
+ent-ClothingBackpackChameleonFill = { ent-ClothingBackpackChameleon }
+    .desc = { ent-ClothingBackpackChameleon.desc }
+    .suffix = Заполнен, Хамелеон
 
 ent-ClothingBackpackChameleonFillAgent = { ent-ClothingBackpackChameleon }
     .desc = { ent-ClothingBackpackChameleon.desc }
-    .suffix = Заполненный, Хамелеон, Синди
+    .suffix = Заполнен, Хамелеон, Синди
 
-ent-ClothingBackpackDuffelSyndicateEVABundle = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор EVA Синдиката
+ent-ClothingBackpackDuffelSyndicateEVABundle = комплект EVA синдиката
+    .desc = Содержит одобренный Синдикатом костюм EVA.
 
-ent-ClothingBackpackDuffelSyndicateHardsuitBundle = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор скафандров Синдиката
+ent-ClothingBackpackDuffelSyndicateHardsuitBundle = комплект скафандра синдиката
+    .desc = Содержит фирменный кроваво-красный скафандр Синдиката.
 
-ent-ClothingBackpackDuffelSyndicateEliteHardsuitBundle = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор элитных скафандров Синдиката
+ent-ClothingBackpackDuffelSyndicateEliteHardsuitBundle = комплект элитного скафандра синдиката
+    .desc = Содержит элитный скафандр Синдиката и ещё кое-что внутри.
 
-ent-ClothingBackpackDuffelSyndicateHardsuitExtrasBundle = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор дополнений скафандров Синдиката
+ent-ClothingBackpackDuffelSyndicateHardsuitExtrasBundle = комплект дополнений к пустотному костюму синдиката
+    .desc = Содержит всё, чем вам обязательно захочется обзавестись, покупая пустотный костюм.
 
-ent-ClothingBackpackDuffelZombieBundle = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Зомби набор Синдиката
+ent-ClothingBackpackDuffelZombieBundle = комплект зомби синдиката
+    .desc = Всё необходимое, чтобы выпустить нежить на станции.
 
-ent-ClothingBackpackDuffelSyndicateMedicalBundleFilled = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор медикаментов
+ent-ClothingBackpackDuffelSyndicateMedicalBundleFilled = медицинский комплект
+    .desc = Всё, что нужно, чтобы вернуть товарищей в строй.
 
-ent-ClothingBackpackDuffelSyndicateDecoyKitFilled = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор обманок
+ent-ClothingBackpackDuffelSyndicateDecoyKitFilled = комплект приманок
+    .desc = Содержит средства отвлечения, и звуковые, и визуальные. Скоро добавим и запах.
 
-ent-ClothingBackpackDuffelAcolyteBundle = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор с бронёй преспешника
+ent-ClothingBackpackDuffelAcolyteBundle = комплект брони аколита
+    .desc = Содержит Броню Аколита - незаменимую вещь для любого главы культа.
 
-ent-ClothingBackpackDuffelSyndicateFilledStarterKit = { ent-ClothingBackpackDuffelSyndicate }
-    .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
-    .suffix = Набор Оперативника
+ent-ClothingBackpackDuffelSyndicateFilledStarterKit = базовый комплект оперативника
+    .desc = Содержит оружие, медикаменты, инструменты для взлома, запасные боеприпасы и простое снаряжение.
 
-ent-ClothingBackpackDuffelSyndicateFilledHushpup = Набор Hushpup
-    .desc = Содержит Hushpup в комплекте с коробкой картечи. Четвертак прилагается.
+ent-ClothingBackpackDuffelSyndicateFilledHushpup = комплект «Тихоня»
+    .desc = Содержит «Тихоню» и коробку картечи. Монета в двадцать пять центов прилагается.

@@ -1,2 +1,2 @@
-ent-ClothingBackpackDuffelSyndicateChameleonEVABundle = комплект EVA «Хамелеон»
-    .desc = Внутри все необходимые для маскировки костюмы, пригодные для открытого космоса.
+ent-ClothingBackpackDuffelSyndicateChameleonEVABundle = комплект EVA «хамелеон»
+    .desc = Содержит все необходимые маскировочные костюмы для выхода в космос.

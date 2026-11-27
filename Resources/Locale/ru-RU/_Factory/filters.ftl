@@ -1,36 +1,39 @@
 automation-filter-examine-empty = [color=red]Этот фильтр ещё не настроен.[/color]
 automation-filter-examine-string = Фильтр настроен на «{$name}»
-stack-filter-examine = Фильтр настроен на стопки размером от [color=green]{$size}[/color] единиц.
-combined-filter-examine = Фильтр настроен на сравнение входов по условию {INDEFINITE($gate)} [color=green]{$gate}[/color].
-pressure-filter-examine = Фильтр настроен на диапазон от [color=green]{$min}[/color] кПа до [color=green]{$max}[/color] кПа.
+stack-filter-examine = Фильтр пропускает стопки минимум из [color=green]{$size}[/color] { $size ->
+    [one] предмета
+   *[other] предметов
+}.
+combined-filter-examine = Для сравнения входов фильтра используется [color=green]{$gate}[/color].
+pressure-filter-examine = Фильтр настроен на давление от [color=green]{$min}[/color] кПа до [color=green]{$max}[/color] кПа.
 
-label-filter-window-title = Редактировать этикетку фильтра
-label-filter-placeholder = этикетка для поиска
+label-filter-window-title = Настройка Фильтра по Этикетке
+label-filter-placeholder = этикетка для сравнения
 
-name-filter-window-title = Редактировать имя фильтра
+name-filter-window-title = Настройка Фильтра по Названию
 name-filter-mode-Contain = Содержит
 name-filter-mode-Start = Начинается с
 name-filter-mode-End = Заканчивается на
-name-filter-mode-Match = Совпадает
+name-filter-mode-Match = Совпадает полностью
 
-stack-filter-window-title = Редактировать фильтр стопки
-stack-filter-min-stack-size = Минимальный размер стопки
-stack-filter-stack-chunk-size = Размер пачки вывода
+stack-filter-window-title = Настройка Стекового Фильтра
+stack-filter-min-stack-size = Мин. размер стопки
+stack-filter-stack-chunk-size = Размер порции на выходе
 
-pressure-filter-window-title = Настройка фильтра давления
-pressure-filter-min-pressure = Минимальное давление
-pressure-filter-max-pressure = Максимальное давление
+pressure-filter-window-title = Настройка Фильтра Давления
+pressure-filter-min-pressure = Мин. Давление
+pressure-filter-max-pressure = Макс. Давление
 
-anchor-filter-examine-enabled = Настроено на пропуск только закреплённых или закрепляемых объектов.
-anchor-filter-examine-disabled = Настроено на пропуск только не закреплённых, но закрепляемых объектов.
+anchor-filter-examine-enabled = Пропускает только закреплённые объекты, которые можно открепить.
+anchor-filter-examine-disabled = Пропускает только незакреплённые объекты, которые можно закрепить.
 
-mob-filter-window-title = Редактировать фильтр существ
-mob-filter-examine-unset = Состояния существ не настроены
-mob-filter-examine-set = Фильтр пропускает существ в следующих состояниях: {$states}
+mob-filter-window-title = Настройка Фильтра Существ
+mob-filter-examine-unset = Состояния существ не выбраны
+mob-filter-examine-set = Пропускает существ в следующих состояниях: {$states}
 mob-state-Alive = Жив
-mob-state-SoftCrit = Лёгкий крит
-mob-state-Critical = Критическом
+mob-state-SoftCrit = Софт-крит
+mob-state-Critical = Крит
 mob-state-Dead = Мёртв
 
-cuff-filter-examine-enabled = Настроено на пропуск существ только в наручниках.
-cuff-filter-examine-disabled = Настроено на пропуск существ только без наручников.
+cuff-filter-examine-enabled = Пропускает только существ в наручниках.
+cuff-filter-examine-disabled = Пропускает только существ без наручников.

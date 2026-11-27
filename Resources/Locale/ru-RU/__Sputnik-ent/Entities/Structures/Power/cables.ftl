@@ -1,29 +1,29 @@
 ent-CablePhysBase = { "" }
     .desc = { "" }
 
-ent-CableBase = { "" }
-    .desc = { "" }
+ent-CableBase = { ent-CablePhysBase }
+    .desc = { ent-CablePhysBase.desc }
 
-ent-CableHV = ВВ кабель
-    .desc = Оранжевый высоковольтный кабель.
+ent-CableHV = ВВ-кабель
+    .desc = Оранжевый высоковольтный силовой кабель.
 
 ent-CableHVUncuttable = { ent-CableHV }
-    .suffix = Невозможно перерезать
     .desc = { ent-CableHV.desc }
+    .suffix = нельзя перерезать
 
-ent-CableMV = СВ кабель
-    .desc = Средневольтный кабель.
+ent-CableMV = СВ-кабель
+    .desc = Силовой кабель среднего напряжения.
 
 ent-CableMVUncuttable = { ent-CableMV }
-    .suffix = Невозможно перерезать
     .desc = { ent-CableMV.desc }
+    .suffix = нельзя перерезать
 
-ent-CableApcExtension = НВ кабель
-    .desc = Кабель, используемый для подключения устройств к ЛКП.
+ent-CableApcExtension = НВ-кабель
+    .desc = Кабель для подключения оборудования к ЛКП.
 
 ent-CableApcExtensionUncuttable = { ent-CableApcExtension }
-    .suffix = Невозможно перерезать
     .desc = { ent-CableApcExtension.desc }
+    .suffix = нельзя перерезать
 
-ent-CableDet = детонирующий шнур
+ent-CableDet = взрывной шнур
     .desc = Спагетти для тех, кто ненавидит стены.

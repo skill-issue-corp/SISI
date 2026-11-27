@@ -9,11 +9,11 @@
 ## ConstructionMenu.xaml.cs
 
 construction-menu-title = Строительство
-construction-menu-place-ghost = Разместить призрак конструкции
-construction-menu-clear-all = Очистить всё
-construction-menu-eraser-mode = Режим ластика
-construction-menu-craft = Создание
+construction-menu-place-ghost = Разместить контур постройки
+construction-menu-clear-all = Очистить Всё
+construction-menu-eraser-mode = Режим Ластика
+construction-menu-craft = Изготовить
 construction-menu-search = Поиск
-construction-menu-grid-view = Вид плиткой
+construction-menu-grid-view = Вид Сеткой
 construction-menu-history-select-previous-recipe = ◄ Назад
-construction-menu-history-select-next-recipe = Вперёд ►
+construction-menu-history-select-next-recipe = Далее ►

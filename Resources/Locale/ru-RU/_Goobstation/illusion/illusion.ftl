@@ -1,1 +1,1 @@
-illusion-comp-death-message = { $ent } растворяется в воздухе! Это была обманка!
+illusion-comp-death-message = {$ent} растворяется в воздухе! Это была иллюзия!

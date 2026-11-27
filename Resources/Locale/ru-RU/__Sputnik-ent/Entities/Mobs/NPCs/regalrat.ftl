@@ -1,27 +1,27 @@
 ent-MobRatKing = крысиный король
-    .desc = Он крысюк и он тут босс.
+    .desc = Он главная крыса. Он тут правила диктует.
 
 ent-MobRatKingBuff = { ent-MobRatKing }
-    .suffix = Качок
     .desc = { ent-MobRatKing.desc }
+    .suffix = Усиленный
 
 ent-MobRatServant = крысиный слуга
-    .desc = Он мини-крысюк и он тут не босс.
+    .desc = Он мелкая крыса. Не ему тут правила диктовать.
 
-ent-ActionRatKingRaiseArmy = Призвать армию
-    .desc = Потратьте некоторое количество голода, чтобы призвать дружественную крысу для вашей защиты.
+ent-ActionRatKingRaiseArmy = Собрать Армию
+    .desc = Пожертвуйте сытостью, чтобы призвать крысу, которая будет вас защищать.
 
-ent-ActionRatKingDomain = Крысиное королевство
-    .desc = Потратьте некоторое количество голода, чтобы выпустить в воздух облако аммиака.
+ent-ActionRatKingDomain = Владения Крысиного Короля
+    .desc = Пожертвуйте сытостью, чтобы выпустить в воздух облако аммиака.
 
-ent-ActionRatKingOrderStay = Отдых
-    .desc = Прикажите своей армии стоять на месте.
+ent-ActionRatKingOrderStay = Стоять
+    .desc = Прикажите своей армии оставаться на месте.
 
-ent-ActionRatKingOrderFollow = Следовать
+ent-ActionRatKingOrderFollow = За мной
     .desc = Прикажите своей армии следовать за вами.
 
-ent-ActionRatKingOrderCheeseEm = Убить
-    .desc = Прикажите своей армии атаковать тех, на кого вы укажете.
+ent-ActionRatKingOrderCheeseEm = В Сыр Их
+    .desc = Прикажите своей армии напасть на того, на кого вы укажете.
 
 ent-ActionRatKingOrderLoose = Вольно
-    .desc = Прикажите своей армии действовать на своё усмотрение.
+    .desc = Прикажите своей армии действовать по своему усмотрению.

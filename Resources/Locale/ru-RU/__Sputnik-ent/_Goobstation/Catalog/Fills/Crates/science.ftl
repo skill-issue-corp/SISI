@@ -1,3 +1,2 @@
-ent-CrateScienceModsuitCoresFilled = ящик с ядрами скафандра MOD
-    .suffix = Защищённый
-    .desc = Содержит три ядра MOD внутри.
+ent-CrateScienceModsuitCoresFilled = ящик с ядрами МОД
+    .desc = Внутри три ядра МОД.

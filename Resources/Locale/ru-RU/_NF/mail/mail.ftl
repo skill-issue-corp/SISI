@@ -5,12 +5,11 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 mail-large-item-name-unaddressed = посылка
-mail-large-item-name-addressed = посылка ({ $recipient })
+mail-large-item-name-addressed = посылка ({$recipient})
 mail-large-desc-far = Большая посылка.
-mail-large-desc-close = Большая посылка, адресованная { CAPITALIZE($name) }, { $job }.
+mail-large-desc-close = Большая посылка. Получатель: {CAPITALIZE($name)}, {$job}.
 
 ### Frontier: mailtestbulk
-
-command-mailtestbulk = Отправляет по одной посылке каждого типа на указанный почтовый телепортер. Автоматически вызывает посылку.
-command-mailtestbulk-help = Использование: { $command } <teleporter_id>
-command-mailtestbulk-success = Успех! Все почтовые телепортеры скоро доставят очередную партию посылок.
+command-mailtestbulk = Отправляет по одной посылке каждого вида в указанный почтовый телепортатор. Заодно вызывает mailnow.
+command-mailtestbulk-help = Использование: {$command} <teleporter_id>
+command-mailtestbulk-success = Успех! Все почтовые телепортаторы скоро доставят ещё одну партию почты.

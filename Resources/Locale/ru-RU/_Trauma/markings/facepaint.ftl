@@ -1,2 +1,2 @@
-marking-FacePaintSplitter-splitter = Раскраска лица (Сплиттер)
-marking-FacePaintSplitter = Раскраска лица (Сплиттер)
+marking-FacePaintSplitter-splitter = Раскраска Лица (Разделитель)
+marking-FacePaintSplitter = Раскраска Лица (Разделитель)

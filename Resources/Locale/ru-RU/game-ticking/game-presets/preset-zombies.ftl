@@ -10,13 +10,13 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 zombie-title = Зомби
-zombie-description = На станции появились ожившие мертвецы! Работайте сообща с другими членами экипажа, чтобы пережить эпидемию и защитить станцию.
+zombie-description = На станции появилась нежить! Действуйте сообща с экипажем, чтобы пережить вспышку заражения и обезопасить станцию.
 
-zombieteors-title = Зомбитеоры
-zombieteors-description = На станции во время катаклизмического метеоритного дождя появились зомби! Работайте вместе с членами экипажа и сделайте всё возможное, чтобы выжить!
+zombieteors-title = Зомбиетеоры
+zombieteors-description = На станции появилась нежить посреди катастрофического метеоритного дождя! Действуйте сообща с экипажем и постарайтесь выжить!
 
-zombie-not-enough-ready-players = Недостаточно игроков готовы к игре! { $readyPlayersCount } игроков из необходимых { $minimumPlayers } готовы. Нельзя запустить пресет Зомби.
-zombie-no-one-ready = Нет готовых игроков! Нельзя запустить пресет Зомби.
+zombie-not-enough-ready-players = Недостаточно готовых игроков! Готово {$readyPlayersCount} из {$minimumPlayers} необходимых. Не удалось запустить режим «Зомби».
+zombie-no-one-ready = Никто из игроков не готов! Не удалось запустить режим «Зомби».
 
 # SIS-Start
 zombie-patientzero-role-greeting =
@@ -35,34 +35,34 @@ zombie-patientzero-role-briefing =
     Ваша цель: захватить станцию, обратив весь экипаж в живых мертвецов.
 # SIS-End
 
-zombie-healing = You feel a stirring in your flesh
-zombie-infection-warning = Вы чувствуете, как зомби-вирус берёт верх
-zombie-infection-underway = Ваша кровь начинает сгущаться
+zombie-healing = Вы чувствуете, как шевелится ваша плоть
+zombie-infection-warning = Вы чувствуете, как зомби-вирус захватывает ваше тело
+zombie-infection-underway = Ваша кровь начинает густеть
 
 ## goob edit
-zombie-start-announcement = Подтверждена вспышка биологической угрозы 7 уровня на борту станции. Весь персонал обязан сдержать распространение.
+zombie-start-announcement = На борту станции подтверждена вспышка биологической угрозы 7 уровня. Служба безопасности больше не может вас защитить. Направляйтесь в защищённые зоны и укройтесь там до эвакуации.
 ### Over
-zombie-alone = Вы чувствуете себя совершенно одиноким.
+zombie-alone = Вы чувствуете, что остались совсем одни.
 
-zombie-shuttle-call = Мы зафиксировали, что зомби захватили станцию. Аварийный шаттл был отправлен для эвакуации оставшегося персонала.
+zombie-shuttle-call = Мы обнаружили, что нежить захватила станцию. Высылаем эвакуационный шаттл для оставшегося персонала.
 
-zombie-round-end-initial-count =
-    { $initialCount ->
-        [one] Единственным нулевым пациентом был:
-       *[other] Нулевых пациентов было { $initialCount }, ими были:
-    }
-zombie-round-end-user-was-initial = - [color=plum]{ $name }[/color] ([color=gray]{ $username }[/color]) был одним из нулевых пациентов.
+zombie-round-end-initial-count = {$initialCount ->
+    [one] Был {$initialCount} нулевой пациент:
+    [few] Было {$initialCount} нулевых пациента:
+    *[many] Было {$initialCount} нулевых пациентов:
+}
+zombie-round-end-user-was-initial = - [color=plum]{$name}[/color] ([color=gray]{$username}[/color]) в числе нулевых пациентов.
 
-zombie-round-end-amount-none = [color=green]Все зомби были уничтожены![/color]
-zombie-round-end-amount-low = [color=green]Почти все зомби были уничтожены.[/color]
-zombie-round-end-amount-medium = [color=yellow]{ $percent }% экипажа были обращены в зомби.[/color]
-zombie-round-end-amount-high = [color=crimson]{ $percent }% экипажа были обращены в зомби.[/color]
-zombie-round-end-amount-all = [color=darkred]Весь экипаж обратился в зомби![/color]
+zombie-round-end-amount-none = [color=green]Все зомби уничтожены![/color]
+zombie-round-end-amount-low = [color=green]Почти все зомби истреблены.[/color]
+zombie-round-end-amount-medium = [color=yellow]{$percent}% экипажа превратились в зомби.[/color]
+zombie-round-end-amount-high = [color=crimson]{$percent}% экипажа превратились в зомби.[/color]
+zombie-round-end-amount-all = [color=darkred]Весь экипаж превратился в зомби![/color]
 
-zombie-round-end-survivor-count =
-    { $count ->
-        [one] Единственным выжившим стал:
-       *[other] Осталось всего { $count } выживших, это:
-    }
-zombie-round-end-user-was-survivor = - [color=White]{ $name }[/color] ([color=gray]{ $username }[/color]) пережил заражение.
+zombie-round-end-survivor-count = {$count ->
+    [one] Остался только {$count} выживший:
+    [few] Осталось только {$count} выживших:
+    *[many] Осталось только {$count} выживших:
+}
+zombie-round-end-user-was-survivor = - [color=White]{$name}[/color] ([color=gray]{$username}[/color]) пережил вспышку заражения.
 

@@ -29,7 +29,7 @@ ent-CosmicNovaImpactVfx = { "" }
     .desc = { "" }
 
 ent-CosmicEchoVfx = зловещее эхо
-    .desc = A trace of malign light..
+    .desc = След зловещего света..
 
 ent-NoosphericVFX2 = { ent-BaseCosmicVFX }
     .desc = { ent-BaseCosmicVFX.desc }

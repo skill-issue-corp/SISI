@@ -1,24 +1,31 @@
+# SPDX-FileCopyrightText: 2021 E F R <602406+Efruit@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2021 TemporalOroboros <TemporalOroboros@gmail.com>
+# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
 ## Standard SI prefixes
-units-si--y = и
-units-si--z = з
-units-si--a = а
-units-si--f = ф
-units-si--p = п
-units-si--n = н
-units-si--u = мк
-units-si--m = м
+units-si--y = y
+units-si--z = z
+units-si--a = a
+units-si--f = f
+units-si--p = p
+units-si--n = n
+units-si--u = µ
+units-si--m = m
 units-si = {""}
-units-si-k = к
-units-si-m = М
-units-si-g = Г
-units-si-t = Т
-units-si-p = П
-units-si-e = Э
-units-si-z = З
-units-si-y = И
+units-si-k = k
+units-si-m = M
+units-si-g = G
+units-si-t = T
+units-si-p = P
+units-si-e = E
+units-si-z = Z
+units-si-y = Y
 
 ### Long form
-units-si--y-long = иокто
+units-si--y-long = йокто
 units-si--z-long = зепто
 units-si--a-long = атто
 units-si--f-long = фемто
@@ -34,62 +41,62 @@ units-si-t-long = тера
 units-si-p-long = пета
 units-si-e-long = экса
 units-si-z-long = зетта
-units-si-y-long = иотта
+units-si-y-long = йотта
 
 ## Pascals (Pressure)
-units-u--pascal = мкПа
-units-m--pascal = мПа
-units-pascal = Па
-units-k-pascal = кПа
-units-m-pascal = МПа
-units-g-pascal = ГПа
+units-u--pascal = µPa
+units-m--pascal = mPa
+units-pascal = Pa
+units-k-pascal = kPa
+units-m-pascal = MPa
+units-g-pascal = GPa
 
-units-u--pascal-long = микропаскаль
-units-m--pascal-long = миллипаскаль
-units-pascal-long = паскаль
-units-k-pascal-long = килопаскаль
-units-m-pascal-long = мегапаскаль
-units-g-pascal-long = гигапаскаль
+units-u--pascal-long = Микропаскаль
+units-m--pascal-long = Миллипаскаль
+units-pascal-long = Паскаль
+units-k-pascal-long = Килопаскаль
+units-m-pascal-long = Мегапаскаль
+units-g-pascal-long = Гигапаскаль
 
 ## Watts (Power)
-units-u--watt = мкВт
-units-m--watt = мВт
-units-watt = Вт
-units-k-watt = кВт
-units-m-watt = МВт
-units-g-watt = ГВт
+units-u--watt = µW
+units-m--watt = mW
+units-watt = W
+units-k-watt = kW
+units-m-watt = MW
+units-g-watt = GW
 
-units-u--watt-long = микроватт
-units-m--watt-long = милливатт
-units-watt-long = ватт
-units-k-watt-long = киловатт
-units-m-watt-long = мегаватт
-units-g-watt-long = гигаватт
+units-u--watt-long = Микроватт
+units-m--watt-long = Милливатт
+units-watt-long = Ватт
+units-k-watt-long = Киловатт
+units-m-watt-long = Мегаватт
+units-g-watt-long = Гигаватт
 
 ## Joule (Energy)
-units-u--joule = мкДж
-units-m--joule = мДж
-units-joule = Дж
-units-k-joule = кДж
-units-m-joule = МДж
+units-u--joule = µJ
+units-m--joule = mJ
+units-joule = J
+units-k-joule = kJ
+units-m-joule = MJ
 
-units-u--joule-long = микроджоуль
-units-m--joule-long = миллиджоуль
-units-joule-long = джоуль
-units-k-joule-long = килоджоуль
-units-m-joule-long = мегаджоуль
+units-u--joule-long = Микроджоуль
+units-m--joule-long = Миллиджоуль
+units-joule-long = Джоуль
+units-k-joule-long = Килоджоуль
+units-m-joule-long = Мегаджоуль
 
 ## Kelvin (Temperature)
-units-u--kelvin = мкК
-units-m--kelvin = мК
-units-kelvin = К
-units-k-kelvin = кК
-units-m-kelvin = МК
-units-g-kelvin = ГК
+units-u--kelvin = µK
+units-m--kelvin = mK
+units-kelvin = K
+units-k-kelvin = kK
+units-m-kelvin = MK
+units-g-kelvin = GK
 
-units-u--kelvin-long = микрокельвин
-units-m--kelvin-long = милликельвин
-units-kelvin-long = кельвин
-units-k-kelvin-long = килокельвин
-units-m-kelvin-long = мегакельвин
-units-g-kelvin-long = гигакельвин
+units-u--kelvin-long = Микрокельвин
+units-m--kelvin-long = Милликельвин
+units-kelvin-long = Кельвин
+units-k-kelvin-long = Килокельвин
+units-m-kelvin-long = Мегакельвин
+units-g-kelvin-long = Гигакельвин

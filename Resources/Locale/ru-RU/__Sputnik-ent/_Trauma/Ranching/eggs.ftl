@@ -3,7 +3,7 @@ ent-BaseRanchingEgg = оплодотворённое яйцо
 
 ent-WhiteEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Белое
+    .suffix = Белый
 
 ent-BrownEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
@@ -11,7 +11,7 @@ ent-BrownEgg = { ent-BaseRanchingEgg }
 
 ent-VoidEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Пустоты
+    .suffix = Пустота
 
 ent-IxworthEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
@@ -19,15 +19,15 @@ ent-IxworthEgg = { ent-BaseRanchingEgg }
 
 ent-SilkieEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Шёлковое
+    .suffix = Шёлковая
 
 ent-WhiteSilkieEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Белое шёлковое
+    .suffix = Белая Шёлковая
 
 ent-BlackSilkieEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Чёрное шёлковое
+    .suffix = Чёрная Шёлковая
 
 ent-SelkieEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
@@ -35,46 +35,46 @@ ent-SelkieEgg = { ent-BaseRanchingEgg }
 
 ent-DreamEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Сновидение
+    .suffix = Сон
 
 ent-PoultrygeistEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Птичий дух
+    .suffix = Курогейст
 
 ent-SpicyEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Острый
+    .suffix = Острое
 
 ent-PigeonEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Голубиный
+    .suffix = Голубь
 
 ent-PigeonEggInedible = яйцо
     .desc = { ent-BaseItem.desc }
-    .suffix = Голубиное, несъедобное
+    .suffix = Голубь, несъедобное
 
 ent-CandyEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Конфетное
+    .suffix = Конфетка
 
 ent-GoldenEgg = золотое куриное яйцо
     .desc = Очень блестящее яйцо!
 
 ent-ClownEgg = яйцо?
-    .desc = На мой взгляд, не очень похоже на яйцо.
-    .suffix = Клоунское
+    .desc = на яйцо что-то мало похоже.
+    .suffix = Клоун
 
 ent-CluwneEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Клувенское
+    .suffix = Клувень
 
 ent-SnowEgg = { ent-BaseChickenCold }
     .desc = { ent-BaseChickenCold.desc }
-    .suffix = Снежное
+    .suffix = Снег
 
 ent-GlassEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Стеклянное
+    .suffix = Стекло
 
 ent-RaptorEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
@@ -86,38 +86,38 @@ ent-OnagadoriEgg = { ent-BaseRanchingEgg }
 
 ent-WizardEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Волшебное
+    .suffix = Волшебник
 
 ent-SynthEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Синтетическое
+    .suffix = Синтетика
 
 ent-MimeEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Мимское
+    .suffix = Мим
 
 ent-BalloonEggSpawner = { "" }
     .desc = { "" }
 
 ent-BalloonEggBlue = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Синее, кислородное
+    .suffix = Синее, Кислород
 
 ent-BalloonEggRed = { ent-BalloonEggBlue }
     .desc = { ent-BalloonEggBlue.desc }
-    .suffix = Красное, плазменное
+    .suffix = Красное, Плазма
 
 ent-RobotEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Роботизированное
+    .suffix = Робот
 
 ent-KnightEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Рыцарское
+    .suffix = Рыцарь
 
 ent-StoneEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Каменное
+    .suffix = Стоун
 
 ent-CockatriceEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
@@ -125,11 +125,11 @@ ent-CockatriceEgg = { ent-BaseRanchingEgg }
 
 ent-SickleEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Серповидное
+    .suffix = Серп
 
 ent-ZappyEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Зэппи
+    .suffix = Громчик
 
 ent-PhoenixEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
@@ -137,8 +137,8 @@ ent-PhoenixEgg = { ent-BaseRanchingEgg }
 
 ent-DragonEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Курица-дракон
+    .suffix = Драконья Курица
 
 ent-CoralEgg = { ent-BaseRanchingEgg }
     .desc = { ent-BaseRanchingEgg.desc }
-    .suffix = Коралловое
+    .suffix = Коралл

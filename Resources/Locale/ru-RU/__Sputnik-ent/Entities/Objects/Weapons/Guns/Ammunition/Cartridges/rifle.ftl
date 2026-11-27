@@ -1,10 +1,14 @@
-ent-BaseCartridgeRifle = патрон (.20 винтовочный)
+ent-BaseCartridgeRifle = патрон (.20 винтовочные)
     .desc = { ent-BaseCartridge.desc }
-ent-CartridgeRifle = патрон (.20 винтовочный)
-    .desc = { ent-BaseCartridgeRifle.desc }
-ent-CartridgeRiflePractice = патрон (.20 винтовочный учебный)
-    .desc = { ent-BaseCartridgeRifle.desc }
-ent-CartridgeRifleIncendiary = патрон (.20 винтовочный зажигательный)
-    .desc = { ent-BaseCartridgeRifle.desc }
-ent-CartridgeRifleUranium = патрон (.20 винтовочный урановый)
-    .desc = { ent-BaseCartridgeRifle.desc }
+
+ent-CartridgeRifle = патрон (.20 винтовочные)
+    .desc = Современный промежуточный патрон для боевых винтовок. Обычные кинетические патроны широко распространены и пригодны в большинстве ситуаций.
+
+ent-CartridgeRiflePractice = патрон (.20 винтовочные учебные)
+    .desc = Современный промежуточный патрон для боевых винтовок. Учебный патрон стреляет меловой пулей, которая жалит, но не причиняет серьёзного вреда.
+
+ent-CartridgeRifleIncendiary = патрон (.20 винтовочные зажигательные)
+    .desc = Современный промежуточный патрон для боевых винтовок. Зажигательные боеприпасы содержат самовоспламеняющийся состав, поджигающий цель.
+
+ent-CartridgeRifleUranium = патрон (.20 винтовочные урановые)
+    .desc = Современный промежуточный патрон для боевых винтовок. В урановых патронах свинцовый сердечник пули заменён делящимся материалом, который облучает цель изнутри.

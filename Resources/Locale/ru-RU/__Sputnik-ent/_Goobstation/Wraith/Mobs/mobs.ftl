@@ -1,29 +1,29 @@
 ent-MobSkeletonGoon = злобный скелет
-    .desc = Враждебный скелет, призванный Фантомом.
+    .desc = Враждебный скелет, призванный фантомом.
 
-ent-MobCrunched = учёный-попаданец
-    .desc = Человек, которого, похоже, выбросило между измерениями. Быть в таком состоянии — плохая идея.
+ent-MobCrunched = перемещённый учёный
+    .desc = Беднягу, похоже, швырнуло между измерениями. Состояние так себе.
 
 ent-MobShade = тьма
-    .desc = О боже...
+    .desc = О боже.
 
-ent-MobMonstrosityHead = механическая мерзость
-    .desc = Сильно изуродованная человеческая голова, насильно поддерживаемая в живых механическими частями...
+ent-MobMonstrosityHead = механическое чудовище
+    .desc = Сильно изуродованное человеческое туловище, в котором насильно поддерживают жизнь механические детали...
 
-ent-MobMonstrosityBody = механическая мерзость
-    .desc = Сильно изуродованный человеческий торс, насильно поддерживаемый в живых механическими частями...
+ent-MobMonstrosityBody = механическое чудовище
+    .desc = Сильно изуродованное человеческое туловище, в котором насильно поддерживают жизнь механические детали...
 
 ent-MobLion = лев
-    .desc = Ох, чёрт.
+    .desc = Господи боже.
 
 ent-MobAncientRepairBot = странный робот
-    .desc = Похоже на какого-то парящего ремонтного робота или что-то вроде того?
+    .desc = Похоже, какой-то летающий ремонтный бот или что-то в этом роде?
 
 ent-MobAncientGuardBot = странный робот
-    .desc = Охранный робот, но с ним явно что-то не так.
+    .desc = Охранный Робот. Что-то с ним не так.
 
 ent-MobAncientRobot1 = ???
-    .desc = Что это, чёрт возьми, такое?
+    .desc = Какого чёрта это такое?
 
 ent-MobAncientRobot2 = { ent-MobAncientRobot1 }
     .desc = { ent-MobAncientRobot1.desc }
@@ -35,69 +35,69 @@ ent-MobAncientLegs = { ent-MobAncientRobot1 }
     .desc = { ent-MobAncientRobot1.desc }
 
 ent-MobSkeletonGoonLesser = { ent-MobSkeletonGoon }
-    .suffix = Низший
     .desc = { ent-MobSkeletonGoon.desc }
+    .suffix = Малый
 
 ent-MobSkeletonGoonWraith = { ent-MobSkeletonGoon }
-    .suffix = Фантом
     .desc = { ent-MobSkeletonGoon.desc }
+    .suffix = Фантом
 
 ent-MobCrunchedWraith = { ent-MobCrunched }
-    .suffix = Фантом
     .desc = { ent-MobCrunched.desc }
+    .suffix = Фантом
 
 ent-MobShadeWraith = { ent-MobShade }
-    .suffix = Фантом
     .desc = { ent-MobShade.desc }
+    .suffix = Фантом
 
 ent-MobMonstrosityHeadWraith = { ent-MobMonstrosityHead }
-    .suffix = Фантом
     .desc = { ent-MobMonstrosityHead.desc }
+    .suffix = Фантом
 
 ent-MobMonstrosityBodyWraith = { ent-MobMonstrosityBody }
-    .suffix = Фантом
     .desc = { ent-MobMonstrosityBody.desc }
+    .suffix = Фантом
 
 ent-MobLionWraith = { ent-MobLion }
-    .suffix = Фантом
     .desc = { ent-MobLion.desc }
+    .suffix = Фантом
 
 ent-MobAncientRepairBotWraith = { ent-MobAncientRepairBot }
-    .suffix = Фантом
     .desc = { ent-MobAncientRepairBot.desc }
+    .suffix = Фантом
 
 ent-MobAncientGuardBotWraith = { ent-MobAncientGuardBot }
-    .suffix = Фантом
     .desc = { ent-MobAncientGuardBot.desc }
+    .suffix = Фантом
 
 ent-MobAncientRobot1Wraith = { ent-MobAncientRobot1 }
-    .suffix = Фантом
     .desc = { ent-MobAncientRobot1.desc }
+    .suffix = Фантом
 
 ent-MobAncientRobot2Wraith = { ent-MobAncientRobot2 }
-    .suffix = Фантом
     .desc = { ent-MobAncientRobot2.desc }
+    .suffix = Фантом
 
 ent-MobAncientRobot3Wraith = { ent-MobAncientRobot3 }
-    .suffix = Фантом
     .desc = { ent-MobAncientRobot3.desc }
+    .suffix = Фантом
 
 ent-MobAncientLegsWraith = { ent-MobAncientLegs }
-    .suffix = Фантом
     .desc = { ent-MobAncientLegs.desc }
+    .suffix = Фантом
 
 ent-MobBearGoonWraith = { ent-MobBearGoon }
-    .suffix = Фантом
     .desc = { ent-MobBearGoon.desc }
+    .suffix = Фантом
 
 ent-MobBrullbarWraith = { ent-MobBrullbar }
-    .suffix = Фантом
     .desc = { ent-MobBrullbar.desc }
+    .suffix = Фантом
 
 ent-MobBGunbotWraith = { ent-GunBot }
-    .suffix = Фантом
     .desc = { ent-GunBot.desc }
+    .suffix = Фантом
 
 ent-MobNukebotWraith = { ent-NukeBot }
-    .suffix = Фантом
     .desc = { ent-NukeBot.desc }
+    .suffix = Фантом

@@ -1,2 +1,2 @@
-ent-BetrayalKnife = нож предателя
-    .desc = Смотри в оба!
+ent-BetrayalKnife = нож предательства
+    .desc = Берегите спину!

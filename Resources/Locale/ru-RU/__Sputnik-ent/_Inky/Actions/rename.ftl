@@ -1,2 +1,2 @@
-ent-ActionSelfRename = Переименовать
-    .desc = Переименуйте себя!
+ent-ActionSelfRename = Переименоваться
+    .desc = Смените своё имя!

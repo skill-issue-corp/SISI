@@ -1,8 +1,10 @@
 ent-MobPlasmamanRandom = { ent-MobPlasmaman }
     .desc = { ent-MobPlasmaman.desc }
-    .suffix = Случайная внешность
+    .suffix = Случайная Внешность
+
 ent-MobPlasmamanFishing = { ent-MobPlasmamanRandom }
     .desc = { ent-MobPlasmamanRandom.desc }
+
 ent-MobDecapoidRandom = { ent-MobDecapoid }
     .desc = { ent-MobDecapoid.desc }
-    .suffix = Случайная внешность
+    .suffix = Случайная Внешность

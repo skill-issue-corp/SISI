@@ -1,14 +1,14 @@
 ent-BaseMorphAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
 
-ent-ActionMorphReplicate = репликация
+ent-ActionMorphReplicate = Создать Копию
     .desc = Копирует ваши клетки, создавая вашу копию. Стоит 150 биомассы.
 
-ent-ActionMorph = морф
-    .desc = Изменяет ваше тело, придавая ему вид почти чего угодно.
+ent-ActionMorph = Морф
+    .desc = Меняет форму вашего тела, чтобы сымитировать облик почти чего угодно.
 
-ent-ActionUnMorph = размoрф
-    .desc = Пытается вернуть вам изначальную форму, если вы были трансформированы.
+ent-ActionUnMorph = Сбросить Облик
+    .desc = Пытается вернуть вам исходный облик, если он был изменён.
 
 ent-ActionMorphDevour = { ent-ActionDevour }
-    .desc = Попытаться съесть предмет или существо, увеличив свою биомассу.
+    .desc = Попытайтесь съесть предмет или существо, чтобы увеличить запас биомассы.

@@ -8,35 +8,44 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Spells
-spellbook-fireball-name = Огненный шар
+spellbook-fireball-name = Огненный Шар
 spellbook-fireball-desc =
-    Выпускает огненный шар в цель. Настоящий classic.
-    Не требует мантии и шляпы волшебника для произнесения.
+    Выпускает в цель взрывающийся огненный шар. Считается классикой среди волшебников.
+    Для сотворения заклинания мантия и шляпа волшебника не требуются.
 
-spellbook-blink-name = Прыжок
+spellbook-blink-name = Скачок
 spellbook-blink-desc =
-    Это заклинание случайным образом телепортирует вас на небольшое расстояние.
-    Требует мантии и шляпы волшебника для произнесения.
+    Это заклинание телепортирует вас на небольшое расстояние в случайном направлении.
+    Для сотворения заклинания нужны мантия и шляпа волшебника.
 
-spellbook-force-wall-name = Силовой барьер
+spellbook-force-wall-name = Силовая Стена
 spellbook-force-wall-desc =
-    Создаёт три стены чистой силы, через которые можете пройти только вы.
-    Не требует мантии и шляпы волшебника для произнесения.
+    Создаёт три стены из чистой силы, сквозь которые можете пройти только вы.
+    Для сотворения заклинания мантия и шляпа волшебника не требуются.
 
-spellbook-polymoprh-spider-name = Превращение в паука
-spellbook-polymorph-spider-desc = Превращает вас в паука! А чего вы ожидали?
+spellbook-polymoprh-spider-name = Полиморф в Паука
+spellbook-polymorph-spider-desc = Превращает вас в паука, мужик!
 
-spellbook-polymorph-rod-name = Превращение в жезл
-spellbook-polymorph-rod-desc = Превратитесь в неподвижный жезл с ограниченной возможностью передвижения.
+spellbook-polymorph-rod-name = Форма Стержня
+spellbook-polymorph-rod-desc =
+    Примите форму неподвижного стержня и сметите всё на своём пути. Улучшение заклинания увеличивает урон и дальность полёта стержня.
+    Для сотворения заклинания нужны мантия и шляпа волшебника.
 
 spellbook-charge-name = Зарядка
-spellbook-charge-desc = Добавляет заряд вашей палочке!
+spellbook-charge-desc =
+    Это заклинание заряжает разные предметы у вас в руках, от магических артефактов до электрических компонентов. Изобретательный волшебник может даже наделить магической силой своего собрата.
+    Для сотворения заклинания мантия и шляпа волшебника не требуются.
 
-spellbook-ethereal-jaunt-name = Эфирный рывок
-spellbook-ethereal-jaunt-description = Перейдите в Эфирную плоскость чтобы ускользнуть от врагов!
+spellbook-ethereal-jaunt-name = Эфирный Рывок
+spellbook-ethereal-jaunt-description =
+    Это заклинание на время обращает вас в эфир, позволяя стать невидимым и проходить сквозь стены.
+    Для сотворения заклинания нужны мантия и шляпа волшебника.
 
-spellbook-mind-swap-name = Обмен разумом
-spellbook-mind-swap-description = Обменяйтесь телами с другим человеком!
+spellbook-mind-swap-name = Обмен Разумами
+spellbook-mind-swap-description =
+    Позволяет поменяться телами с целью рядом с вами. Вы оба упадёте, и любой, кто это увидит, легко догадается, что вы теперь в теле цели.
+    Не действует на генокрадов, еретиков, гулей, призраков и временных существ.
+    Для сотворения заклинания мантия и шляпа дискорда не требуются.
 
 spellbook-animate-name = Оживление
 spellbook-animate-description = Оживите неодушевлённый предмет!
@@ -45,50 +54,50 @@ spellbook-smite-name = Кара
 # Goob - rewritten
 #spellbook-smite-desc = Don't like them? EXPLODE them into giblets! Requires Wizard Robe & Hat.
 
-spellbook-cluwne-name = Проклятие клувеня
-spellbook-cluwne-desc = Если вы кого-то действительно ненавидите, а кары недостаточно. Требует мантию и шляпу волшебника.
+spellbook-cluwne-name = Проклятие Клувеня
+spellbook-cluwne-desc = Для тех, кого вы ненавидите настолько, что одной Кары мало. Требуются Мантия и Шляпа Волшебника.
 
-spellbook-slip-name = Скользкий склон
-spellbook-slip-desc = Изучите древние методы уборщиков и прокляните цель, сделав её скользкой.
+spellbook-slip-name = Скользкий Склон
+spellbook-slip-desc = Постигните древнее искусство Уборщика и прокляните цель, чтобы она стала скользкой.
 
-spellbook-item-recall-name = Возврат предмета
-spellbook-item-recall-description = Отметьте удерживаемый предмет и в любой момент призовите его обратно щелчком пальцев!
+spellbook-item-recall-name = Возврат Предмета
+spellbook-item-recall-description = Пометьте предмет в руке и в любой момент призовите его обратно одним щелчком пальцев!
 
 spellbook-guardian-deck-name = Колода Таро
-spellbook-guardian-deck-description = Странная колода карт, дарующая вам призрачного стража при использовании.
+spellbook-guardian-deck-description = Диковинная колода карт, которая при использовании дарует вам призрачного стража.
 
 # Equipment
 
-spellbook-wand-polymorph-door-name = Волшебная палочка побега
+spellbook-wand-polymorph-door-name = Посох Создания Дверей
 spellbook-wand-polymorph-door-description =
-    Особый посох, способный превращать твёрдые стены в изящные двери. Полезно для перемещения при отсутствии иных способов транспортировки. Не работает на стёкла.
-    Автоматически перезаряжается каждые 2 секунды.
+    Особый посох, способный превращать сплошные стены в вычурные двери. Пригодится, когда других путей нет. На стекло не действует.
+    Автоматически восстанавливает заряд раз в 2 секунды.
 
-spellbook-wand-polymorph-carp-name = Волшебная палочка карпа
-spellbook-wand-polymorph-carp-description = На случай, когда вам срочно нужно филе карпа, а клоун выглядит уж очень аппетитно.
+spellbook-wand-polymorph-carp-name = Жезл Превращения в Карпа
+spellbook-wand-polymorph-carp-description = Для случаев, когда срочно нужно филе карпа, а клоун выглядит аппетитно.
 
-spellbook-wand-locker-name = Волшебная палочка шкафчика
+spellbook-wand-locker-name = Посох Шкафчиков
 spellbook-wand-locker-description =
-    Стреляйте проклятыми шкафами в своих врагов и запирайте их внутри!
-    Автоматически перезаряжается каждые 4 секунды.
+    Стреляйте во врагов проклятыми шкафами и запирайте их внутри!
+    Автоматически восстанавливает заряд раз в 10 секунд.
 
 # Events
 
-spellbook-event-summon-ghosts-name = Призыв призраков
+spellbook-event-summon-ghosts-name = Призыв Призраков
 spellbook-event-summon-ghosts-description =
-    Напугайте экипаж, заставив их видеть мёртвых. Но будьте осторожны! Призраки капризны и временами мстительны, и некоторые будут использовать свои ничтожные способности, чтобы вас раздражать.
-    Это заклинание вступает в силу сразу после покупки.
-    Не подлежит возврату.
+    Напугайте экипаж, заставив его видеть мертвецов. Учтите, что призраки капризны и порой мстительны, а некоторые пустят в ход свои ничтожные способности, чтобы вам досадить.
+    Заклинание вступает в силу сразу после покупки.
+    Возврат невозможен.
 
-spellbook-event-summon-guns-name = Призыв оружия
-spellbook-event-summon-guns-description = АК-47 для всех! Размещает перед каждым случайное огнестрельное оружие. Отключает возврат средств при покупке!
+spellbook-event-summon-guns-name = Призыв Оружия
+spellbook-event-summon-guns-description = По AK47 каждому! Перед всеми появляется случайное оружие. После покупки возвраты отключаются!
 
-spellbook-event-summon-magic-name = Призыв магии
-spellbook-event-summon-magic-description = Размещает перед каждым случайный магический предмет. Что может пойти не так? Отключает возврат средств при покупке!
+spellbook-event-summon-magic-name = Призыв Магии
+spellbook-event-summon-magic-description = Перед всеми появляется случайный магический предмет. Что может пойти не так! После покупки возвраты отключаются!
 
 # Upgrades
-spellbook-upgrade-fireball-name = Улучшение Огненного шара
-spellbook-upgrade-fireball-description = Позволяет улучшить Огненный шар до максимального 3-го уровня!
+spellbook-upgrade-fireball-name = Улучшение Огненного Шара
+spellbook-upgrade-fireball-description = Улучшает Огненный Шар вплоть до уровня 3!
 
-spellbook-upgrade-jaunt-name = Улучшение Эфирного рывка
-spellbook-upgrade-jaunt-description = Позволяет улучшить Эфирный рывок до максимального 3-го уровня!
+spellbook-upgrade-jaunt-name = Улучшение Эфирного Рывка
+spellbook-upgrade-jaunt-description = Улучшает Рывок вплоть до уровня 3!

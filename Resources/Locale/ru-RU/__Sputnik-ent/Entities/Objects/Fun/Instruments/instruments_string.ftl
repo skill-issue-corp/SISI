@@ -5,32 +5,32 @@ ent-BaseStringInstrumentClothing = { ent-BaseStringInstrument }
     .desc = { ent-BaseStringInstrument.desc }
 
 ent-ElectricGuitarInstrument = электрогитара
-    .desc = Почувствуйте себя рок-звездой!
+    .desc = Вот с ней вы точно почувствуете себя рок-звездой!
 
 ent-BassGuitarInstrument = бас-гитара
-    .desc = Вы чувствуете себя очень крутым, держа её в руках. Досадно, что вы одни так думаете.
+    .desc = С ней в руках вы чувствуете себя круто. Жаль, больше никто так не считает.
 
 ent-FretlessBassGuitarInstrument = безладовая бас-гитара
-    .desc = Держа её, вы чувствуете себя очень круто. Жаль, так думают только бас-гитаристы с ладами.
+    .desc = С ней в руках вы чувствуете себя круто. Жаль, так думают только басисты с ладовыми гитарами.
 
 ent-RockGuitarInstrument = рок-гитара
     .desc = Вот это топор!
 
 ent-AcousticGuitarInstrument = акустическая гитара
-    .desc = Короче, сыграем "Wonderwall".
+    .desc = Ну ладно, вот вам Wonderwall.
 
-ent-GuitarlessFretsInstrument = безгитарные лады
-    .desc = Кому вообще нужен корпус?
-    .suffix = Адмемы
+ent-GuitarlessFretsInstrument = лады без гитары
+    .desc = Да кому вообще нужен корпус?
+    .suffix = Адмеме
 
 ent-BanjoInstrument = банджо
-    .desc = { ent-BaseHandheldInstrument.desc }
+    .desc = { ent-BaseStringInstrumentClothing.desc }
 
 ent-ViolinInstrument = скрипка
-    .desc = Любимица музыкантов-виртуозов и блюграсс-групп.
+    .desc = Любимый инструмент виртуозов и блюграсс-ансамблей.
 
-ent-ViolaInstrument = виола
+ent-ViolaInstrument = альт
     .desc = Как скрипка, только хуже.
 
 ent-CelloInstrument = виолончель
-    .desc = Пижоны называют такие chell'ями.
+    .desc = Умники зовут её виолончелью.

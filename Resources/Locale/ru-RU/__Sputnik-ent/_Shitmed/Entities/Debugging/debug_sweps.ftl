@@ -1,12 +1,16 @@
-ent-MeleeDebugSever = дебаг клинок
-    .desc = Рассечет вас на части за долю секунды.
+ent-MeleeDebugSever = бах-отсекатель
+    .desc = через неделю тя по частям разберёт
     .suffix = DEBUG
-ent-MeleeDebugSever100 = дебаг клинок 100урн
+
+ent-MeleeDebugSever100 = бах-отсекатель 100 урона
     .desc = { ent-MeleeDebugSever.desc }
-ent-MeleeDebugSever200 = дебаг клинок 200урн
+
+ent-MeleeDebugSever200 = бах-отсекатель 200 урона
     .desc = { ent-MeleeDebugSever.desc }
-ent-MeleeDebugBurner = дебаг поджигатель
-    .desc = Сожжёт вас за долю секунды.
+
+ent-MeleeDebugBurner = бах-обжигатель
+    .desc = поджарит тя по частям
     .suffix = DEBUG
-ent-MeleeDebugBurner200 = дебаг поджигатель 200урн
+
+ent-MeleeDebugBurner200 = бах-обжигатель 200 урона
     .desc = { ent-MeleeDebugBurner.desc }

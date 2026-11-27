@@ -1,2 +1,2 @@
-ent-DiseaseBehaviorCough = Кашель
-    .desc = Заставляет носителя кашлять. Способствует распространению.
+ent-DiseaseBehaviorCough = Кашлянуть
+    .desc = Вызывает кашель. Заразен.

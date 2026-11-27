@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-vent-creatures-start-announcement-deltav = Внимание. Обнаружено проникновение крупных неизвестных форм жизни в вентиляционные системы в районе {$location}. Весь персонал должен немедленно покинуть зону.
+station-event-vent-creatures-start-announcement-deltav = Внимание. В вентиляции в районе {$location} обнаружено множество неизвестных форм жизни. Всему персоналу немедленно покинуть этот район.

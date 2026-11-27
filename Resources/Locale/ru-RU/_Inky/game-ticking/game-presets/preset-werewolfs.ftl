@@ -1,2 +1,2 @@
 werewolves-title = Оборотни
-werewolves-description = Ненасытные звери скрываются среди экипажа.
+werewolves-description = Среди экипажа прячутся прожорливые звери.

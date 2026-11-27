@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-rechargeable-blocking-discharged = Он [color=red]разряжен[/color].
-rechargeable-blocking-remaining-time = Осталось времени для зарядки: [color=green]{ $remainingTime }[/color] секунд.
-rechargeable-blocking-remaining-time-popup = Осталось { $remainingTime } секунд до зарядки.
+rechargeable-blocking-discharged = Щит [color=red]разряжен[/color].
+rechargeable-blocking-remaining-time = До полного заряда: [color=green]{ $remainingTime }[/color] сек.
+rechargeable-blocking-remaining-time-popup = До полного заряда { $remainingTime } сек.
 rechargeable-blocking-not-enough-charge-popup = Недостаточно заряда.

@@ -1,2 +1,2 @@
-ent-XenomorphsInfestation = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
+ent-XenomorphsInfestation = { ent-BaseXenomorphsRule }
+    .desc = { ent-BaseXenomorphsRule.desc }

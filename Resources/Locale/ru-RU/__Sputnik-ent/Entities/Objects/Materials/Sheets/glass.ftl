@@ -1,62 +1,61 @@
 ent-SheetGlassBase = стекло
-    .desc = Лист стекла, широко применяемого на станции в различных целях.
+    .desc = Лист стекла. На станции его часто используют для самых разных целей.
 
 ent-SheetGlass = { ent-SheetGlassBase }
-    .suffix = Полный
     .desc = { ent-SheetGlassBase.desc }
+    .suffix = Полностью заполнено
 
 ent-SheetGlass10 = { ent-SheetGlass }
-    .suffix = 10
     .desc = { ent-SheetGlass.desc }
+    .suffix = 10
 
 ent-SheetGlass1 = { ent-SheetGlass }
-    .suffix = Один
     .desc = { ent-SheetGlass.desc }
+    .suffix = Один предмет
 
 ent-SheetRGlass = бронестекло
-    .suffix = Полный
-    .desc = Лист армированного стекла.
+    .desc = Лист бронестекла.
+    .suffix = Полностью заполнено
 
 ent-SheetRGlass1 = бронестекло
-    .suffix = Один
     .desc = { ent-SheetRGlass.desc }
+    .suffix = Один предмет
 
-ent-SheetPGlass = плазменное стекло
-    .suffix = Полный
-    .desc = Лист полупрозрачной плазмы.
+ent-SheetPGlass = фороновое стекло
+    .desc = Лист полупрозрачного форона.
+    .suffix = Полностью заполнено
 
 ent-SheetPGlass1 = { ent-SheetPGlass }
     .desc = { ent-SheetPGlass.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
-ent-SheetRPGlass = плазменное бронестекло
-    .suffix = Полный
-    .desc = Лист армированной полупрозрачной плазмы.
+ent-SheetRPGlass = фороновое бронестекло
+    .desc = Укреплённый лист полупрозрачного форона.
+    .suffix = Полностью заполнено
 
 ent-SheetRPGlass1 = { ent-SheetRPGlass }
     .desc = { ent-SheetRPGlass.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
 ent-SheetUGlass = урановое стекло
     .desc = Лист уранового стекла.
-    .suffix = Полный
+    .suffix = Полностью заполнено
 
 ent-SheetUGlass1 = урановое стекло
-    .suffix = Один
     .desc = { ent-SheetUGlass.desc }
+    .suffix = Один предмет
 
 ent-SheetRUGlass = урановое бронестекло
-    .desc = Лист армированного уранового стекла.
-    .suffix = Полный
+    .desc = Укреплённый лист урана.
 
 ent-SheetRUGlass1 = урановое бронестекло
-    .suffix = Один
     .desc = { ent-SheetRUGlass.desc }
+    .suffix = Один предмет
 
 ent-SheetClockworkGlass = заводное стекло
-    .desc = Лист укреплённого латунью стекла, в основном используемый любителями часовых механизмов и остатками культа Ратвара.
-    .suffix = Полный
+    .desc = Лист стекла, укреплённого латунью. Им пользуются в основном любители заводных механизмов и остатки Ратварианских культов.
+    .suffix = Полностью заполнено
 
 ent-SheetClockworkGlass1 = заводное стекло
-    .suffix = Один
     .desc = { ent-SheetClockworkGlass.desc }
+    .suffix = Один предмет

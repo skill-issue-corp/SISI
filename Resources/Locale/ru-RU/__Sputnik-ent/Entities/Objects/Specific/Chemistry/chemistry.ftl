@@ -5,68 +5,68 @@ ent-BaseBeakerMetallic = { ent-SolutionBeaker }
     .desc = { ent-SolutionBeaker.desc }
 
 ent-Beaker = мензурка
-    .desc = Используется для хранения умеренного количества химикатов и растворов.
+    .desc = Вмещает умеренное количество химикатов и растворов.
 
 ent-CryoxadoneBeakerSmall = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = Криоксадон
+    .suffix = криоксадон
 
 ent-BeakerSmallArith = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = Аритразин
+    .suffix = аритразин
 
 ent-BeakerSmallSigy = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = Сигинат
+    .suffix = сигинат
 
 ent-BeakerSmallPhal = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = Фаланксимин
+    .suffix = фалангимин
 
 ent-BeakerSmallDiph = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = Дифенгидрамин
+    .suffix = дифенгидрамин
 
 ent-BeakerSmallBruiz = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = Бруизин
+    .suffix = бруизин
 
 ent-BeakerSmallLace = { ent-Beaker }
     .desc = { ent-Beaker.desc }
-    .suffix = Ласеринол
+    .suffix = лацеринол
 
 ent-LargeBeaker = большая мензурка
-    .desc = Используется для хранения большого количества химикатов или растворов.
+    .desc = Вмещает большое количество химикатов или растворов.
 
 ent-CryostasisBeaker = криостазисная мензурка
-    .desc = Используется для хранения химикатов или растворов без возникновения реакций.
+    .desc = Хранит химикаты и растворы, не давая им реагировать.
 
-ent-BluespaceBeaker = бluspace-мензурка
-    .desc = Работает на экспериментальной технологии блюспейса.
+ent-BluespaceBeaker = блюспейс-мензурка
+    .desc = Работает на экспериментальной блюспейс-технологии.
 
 ent-Dropper = пипетка
-    .desc = Используется для переноса небольшого количества химического раствора между контейнерами.
+    .desc = Используется для переноса небольшого количества раствора между ёмкостями.
 
 ent-BorgDropper = гидравлическая пипетка
-    .desc = Современная гидравлическая пипетка, созданная для киборгов.
+    .desc = Высокотехнологичная гидравлическая пипетка для киборгов.
 
 ent-BaseSyringe = шприц
-    .desc = Используется для забора образцов крови у существ или для введения им реагентов.
+    .desc = Используется для взятия проб крови у существ или введения им реагентов.
 
 ent-Syringe = { ent-BaseSyringe }
     .desc = { ent-BaseSyringe.desc }
 
 ent-MiniSyringe = мини-шприц
-    .desc = Обычный шприц, переработанный так, чтобы помещаться внутрь оружия.
+    .desc = Обычный шприц, переделанный так, чтобы помещаться в оружие.
 
 ent-PrefilledSyringe = { ent-BaseSyringe }
     .desc = { ent-BaseSyringe.desc }
 
 ent-SyringeBluespace = блюспейс-шприц
-    .desc = Вводит вещества с помощью передовой технологии блюспейса.
+    .desc = Делает инъекции с помощью передовой блюспейс-технологии.
 
 ent-SyringeCryostasis = криостазисный шприц
-    .desc = Улучшенный шприц, используемый для хранения химикатов или растворов без возникновения реакций.
+    .desc = Улучшенный шприц. Хранит химикаты и растворы, не давая им реагировать.
 
 ent-Pill = таблетка
     .desc = Это не суппозиторий.
@@ -74,5 +74,5 @@ ent-Pill = таблетка
 ent-SolutionPill = { ent-SolutionFood }
     .desc = { ent-SolutionFood.desc }
 
-ent-PillCanister = контейнер для таблеток
+ent-PillCanister = баночка для таблеток
     .desc = Вмещает до 15 таблеток.

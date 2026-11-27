@@ -1,7 +1,7 @@
-ent-AppearanceDiona = внешний вид дионы
+ent-AppearanceDiona = облик дионы
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobDiona = Урист МакПлантс
+ent-MobDiona = Урист МакРосток
     .desc = { ent-AppearanceDiona.desc }
 
 ent-OrganDiona = { ent-OrganBaseOrganic }
@@ -67,15 +67,15 @@ ent-BaseNymphingOrgan = { "" }
 
 ent-OrganDionaBrainNymphing = { ent-OrganDionaBrain }
     .desc = { ent-OrganDionaBrain.desc }
-    .suffix = Диона, нимфа
+    .suffix = Диона, Даёт Нимфу
 
 ent-OrganDionaLungsNymphing = { ent-OrganDionaLungs }
     .desc = { ent-OrganDionaLungs.desc }
-    .suffix = Диона, нимфа
+    .suffix = Диона, Даёт Нимфу
 
 ent-OrganDionaStomachNymphing = { ent-OrganDionaStomach }
     .desc = { ent-OrganDionaStomach.desc }
-    .suffix = Диона, нимфа
+    .suffix = Диона, Даёт Нимфу
 
 ent-OrganDionaNymphBrain = { ent-MobDionaNymph }
     .desc = { ent-MobDionaNymph.desc }

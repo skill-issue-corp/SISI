@@ -1,54 +1,80 @@
 ent-WardrobeBase = { ent-ClosetSteelBase }
-    .desc = Стандартное хранилище Nanotrasen для одежды и снаряжения.
+    .desc = Шкаф для стандартной одежды NanoTrasen.
+
 ent-WardrobeBlue = синий гардероб
-    .desc = Гардероб, наполненный стильной синей одеждой.
+    .desc = Гардероб, набитый стильной синей одеждой.
+
 ent-WardrobePink = розовый гардероб
-    .desc = Гардероб, наполненный стильной розовой одеждой.
+    .desc = Гардероб, набитый шикарной розовой одеждой.
+
 ent-WardrobeBlack = чёрный гардероб
-    .desc = Гардероб, наполненный стильной чёрной одеждой.
+    .desc = Гардероб, набитый стильной чёрной одеждой.
+
 ent-WardrobeGreen = зелёный гардероб
-    .desc = Гардероб, наполненный стильной зелёной одеждой.
+    .desc = Гардероб, набитый стильной зелёной одеждой.
+
 ent-WardrobePrison = тюремный гардероб
     .desc = { ent-WardrobeBase.desc }
+
 ent-WardrobeYellow = жёлтый гардероб
-    .desc = Гардероб, наполненный стильной жёлтой одеждой.
+    .desc = Гардероб, набитый стильной жёлтой одеждой.
+
 ent-WardrobeWhite = белый гардероб
-    .desc = Гардероб, наполненный стильной белой одеждой.
+    .desc = Гардероб, набитый стильной белой одеждой.
+
 ent-WardrobeGrey = серый гардероб
-    .desc = Гардероб, наполненный волной серой одежды.
-ent-WardrobeMixed = смешанный гардероб
-    .desc = Гардероб, наполненный разноцветной одеждой.
+    .desc = Гардероб, доверху набитый серой одеждой.
+
+ent-WardrobeMixed = разноцветный гардероб
+    .desc = Гардероб, набитый пёстрой одеждой разных цветов.
+
 ent-WardrobeSecurity = гардероб службы безопасности
     .desc = { ent-WardrobeBase.desc }
-ent-WardrobeAtmospherics = гардероб атмосферного снаряжения
+
+ent-WardrobeAtmospherics = гардероб атмосферного отсека
     .desc = { ent-WardrobeBase.desc }
+
 ent-ClosetJanitor = шкаф уборщика
-    .desc = Здесь хранятся санитарно-техническая одежда и оборудование.
-ent-WardrobeFormal = официально-деловой гардероб
-    .desc = Хранилище одежды строгого стиля.
-ent-ClosetChef = поварской гардероб
-    .desc = Хранилище кухонной одежды и мышеловок.
-ent-WardrobeChapel = шкаф священника
-    .desc = Хранилище религиозной атрибутики, одобренной Nanotrasen.
-ent-ClosetLegal = адвокатский шкаф
-    .desc = Хранилище судебных принадлежностей и одежды.
-ent-WardrobeCargo = гардероб грузчика
+    .desc = Шкаф для одежды и снаряжения уборщика.
+
+ent-WardrobeFormal = шкаф официальной одежды
+    .desc = Шкаф для официальной одежды.
+
+ent-ClosetChef = шкаф повара
+    .desc = Шкаф для одежды работников кухни и мышеловок.
+
+ent-WardrobeChapel = гардероб священника
+    .desc = Шкаф для религиозных одеяний, одобренных NanoTrasen.
+
+ent-ClosetLegal = шкаф юриста
+    .desc = Шкаф для одежды и принадлежностей для суда.
+
+ent-WardrobeCargo = гардероб карго
     .desc = { ent-WardrobePrison.desc }
-ent-WardrobeSalvage = гардероб утилизатора
-    .desc = К сожалению, не утилизируется.
-ent-WardrobeEngineering = гардероб инженера
+
+ent-WardrobeSalvage = гардероб утилизаторов
+    .desc = Примечательно, что не из утиля.
+
+ent-WardrobeEngineering = инженерный гардероб
     .desc = { ent-WardrobeYellow.desc }
-ent-WardrobeMedicalDoctor = гардероб врача
+
+ent-WardrobeMedicalDoctor = гардероб врачей
     .desc = { ent-WardrobeWhite.desc }
-ent-WardrobeRobotics = гардероб робототехника
+
+ent-WardrobeRobotics = гардероб робототехников
     .desc = { ent-WardrobeBlack.desc }
-ent-WardrobeChemistry = гардероб химика
+
+ent-WardrobeChemistry = гардероб химиков
     .desc = { ent-WardrobeWhite.desc }
-ent-WardrobeGenetics = гардероб генетика
+
+ent-WardrobeGenetics = гардероб генетиков
     .desc = { ent-WardrobeWhite.desc }
-ent-WardrobeVirology = гардероб вирусолога
+
+ent-WardrobeVirology = гардероб вирусологов
     .desc = { ent-WardrobeWhite.desc }
-ent-WardrobeScience = гардероб учёного
+
+ent-WardrobeScience = гардероб учёных
     .desc = { ent-WardrobeWhite.desc }
-ent-WardrobeBotanist = гардероб ботаника
+
+ent-WardrobeBotanist = гардероб ботаников
     .desc = { ent-WardrobeGreen.desc }

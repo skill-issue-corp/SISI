@@ -35,7 +35,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   </Box>
 
   ## Активация
-  Чтобы активировать бомбу, вы можете либо [color=yellow]нажать правой кнопкой мыши[/color] и выбрать [color=yellow]Начать отсчёт[/click], либо [color=yellow]альт-кликнуть[/color] по бомбе. Она начнёт пищать.
+  Чтобы активировать бомбу, вы можете либо [color=yellow]нажать правой кнопкой мыши[/color] и выбрать [color=yellow]«Начать отсчёт»[/click], либо [color=yellow]альт-кликнуть[/color] по бомбе. Она начнёт пищать.
 
   ## Время
   У бомбы ограниченное время: минимум [protodata="SyndicateBomb" comp="TimerTrigger" member="ShortestDelayOption"/] секунд и максимум [protodata="SyndicateBomb" comp="TimerTrigger" member="LongestDelayOption"/] секунд. Вы можете увидеть таймер, осмотрев бомбу, если только провод Proceed не перерезан. Как только таймер достигнет нуля, бомба взорвётся.

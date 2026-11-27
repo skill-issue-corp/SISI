@@ -1,4 +1,5 @@
-ent-IDCardTide = ID-карта грейтайда
-    .desc = Самодельная ID-карта, собранная из хрен знает чего.
-ent-IDCardTideUnfinished = незаконченная ID-карта грейтайда
-    .desc = Бог милостив.
+ent-IDCardTide = ID-карта тайдера
+    .desc = Самодельная ID-карта из бог знает чего.
+
+ent-IDCardTideUnfinished = незаконченная самодельная ID-карта
+    .desc = Господи, помилуй.

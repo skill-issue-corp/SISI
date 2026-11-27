@@ -14,9 +14,9 @@ ent-CosmicFinalityObjective = { ent-BaseCosmicCultObjective }
     .desc = { ent-BaseCosmicCultObjective.desc }
 
 ent-ColossusSurviveObjective = ВЫСТОЯТЬ
-    .desc = Продержитесь до конца всего сущего.
+    .desc = Выстоите до конца всего сущего.
 
-ent-ColossusEffigyObjective = ПРИЗОВИ
+ent-ColossusEffigyObjective = ПРИЗВАТЬ
     .desc = Призовите Изваяние Энтропии.
 
 ent-ColossusFinalityObjective = { ent-BaseCosmicColossusObjective }

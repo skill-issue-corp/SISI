@@ -1,13 +1,21 @@
-ent-ClothingModsuitApocryphal = контроллер апокрифического скафандра MOD
-    .desc = Основной контроллер апокрифического модсьюта.
-ent-ClothingModsuitGauntletsApocryphal = перчатки апокрифического скафандра
-    .desc = Пара перчаток, изготовленных для апокрифического скафандра.
-ent-ClothingModsuitHelmetApocryphal = шлем апокрифического скафандра
-    .desc = Передовой шлем, разработанный NanoTrasen для апокрифического скафандра. Имеет встроенный ИЛС.
-ent-ClothingModsuitChestplateApocryphal = нагрудная пластина апокрифического скафандра
-    .desc = Передовой нагрудник, разработанный NanoTrasen для апокрифического скафандра. Оснащён сервоприводами для снижения нагрузки.
-ent-ClothingModsuitBootsApocryphal = ботинки апокрифического скафандра
-    .desc = Передовая пара магнитных ботинок для апокрифического скафандра. Пока костюм питается энергией, эти ботинки не замедляют владельца.
+ent-ClothingModsuitApocryphal = блок управления модсьюта «Апокриф»
+    .desc = Основной блок управления модсьютом «Апокриф».
+
+ent-BaseModsuitPieceDeathsquad = { "" }
+    .desc = { "" }
+
+ent-ClothingModsuitGauntletsApocryphal = перчатки модсьюта «Апокриф»
+    .desc = Пара перчаток для модсьюта «Апокриф».
+
+ent-ClothingModsuitHelmetApocryphal = шлем модсьюта «Апокриф»
+    .desc = Передовой шлем, разработанный NanoTrasen для модсьюта «Апокриф». Оснащён встроенным визором.
+
+ent-ClothingModsuitChestplateApocryphal = нагрудник модсьюта «Апокриф»
+    .desc = Передовой нагрудник, разработанный NanoTrasen для Модсьюта «Апокриф». Встроенные сервоприводы снижают нагрузку от снаряжения.
+
+ent-ClothingModsuitBootsApocryphal = ботинки модсьюта «Апокриф»
+    .desc = Передовые магнитные ботинки для модсьюта «Апокриф». Пока на костюм подаётся питание, ботинки не замедляют владельца.
+
 ent-SuitStorageApocryphal = { ent-SuitStorageBase }
-    .suffix = модульный апокрифический скафандр
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Модсьют «Апокриф»

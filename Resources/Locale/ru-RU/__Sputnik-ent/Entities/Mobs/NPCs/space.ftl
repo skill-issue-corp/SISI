@@ -1,39 +1,39 @@
 ent-MobSpaceBasic = базовый
-    .desc = Выглядит дружелюбно. Почему бы тебе не обнять его?
+    .desc = Выглядит дружелюбно. Почему бы вам его не обнять?
 
 ent-MobBearSpace = космический медведь
-    .desc = Выглядит дружелюбно. Почему бы тебе не обнять его?
+    .desc = Выглядит дружелюбно. Почему бы вам его не обнять?
 
 ent-MobBearSpaceSalvage = { ent-MobBearSpace }
-    .suffix = Правила Обломков. Обломок
     .desc = { ent-MobBearSpace.desc }
+    .suffix = Правила Утилизации
 
 ent-MobKangarooSpace = космический кенгуру
-    .desc = Выглядит дружелюбно. Почему бы тебе не обнять его?
+    .desc = Выглядит дружелюбно. Почему бы вам его не обнять?
 
 ent-MobKangarooSpaceSalvage = { ent-MobKangarooSpace }
-    .suffix = Правила Обломков. Обломок
     .desc = { ent-MobKangarooSpace.desc }
+    .suffix = Правила Утилизации
 
 ent-MobSpiderSpace = космический паук
-    .desc = Светится так, что выглядит опасно.
+    .desc = Так ярко светится, что выглядит опасным.
 
 ent-SolutionVenomSpiderSpace = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
 ent-MobSpiderSpaceSalvage = { ent-MobSpiderSpace }
-    .suffix = Правила Обломков. Обломок
     .desc = { ent-MobSpiderSpace.desc }
+    .suffix = Правила Утилизации
 
 ent-MobCobraSpace = космическая кобра
-    .desc = Длинные клыки, светящийся капюшон и манящий взгляд так и манят подойти поближе.
+    .desc = Длинные клыки, светящийся капюшон и манящий взгляд так и зовут подойти поближе.
 
 ent-SolutionVenomCobraSpace = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
 ent-MobCobraSpaceSalvage = { ent-MobCobraSpace }
-    .suffix = Правила Обломков
     .desc = { ent-MobCobraSpace.desc }
+    .suffix = Правила Утилизации
 
 ent-MobSheepSpace = космическая овца
     .desc = Овца... в космосе!
@@ -42,15 +42,15 @@ ent-SolutionWoolSpaceSheep = { ent-SolutionWool }
     .desc = { ent-SolutionWool.desc }
 
 ent-MobSnail = улитка
-    .desc = Отвратительна, только если вы не француз.
+    .desc = Отвратительна, если вы не француз.
 
 ent-MobSnailInstantDeath = { ent-MobSnail }
-    .suffix = Кара
     .desc = { ent-MobSnail.desc }
+    .suffix = Кара
 
 ent-MobSnailSpeed = { ent-MobSnail }
-    .suffix = Скорость
     .desc = { ent-MobSnail.desc }
+    .suffix = Скорость
 
-ent-MobSnailMoth = снежный мотылёк
+ent-MobSnailMoth = улиткомоль
     .desc = { ent-BaseMobMothroach.desc }

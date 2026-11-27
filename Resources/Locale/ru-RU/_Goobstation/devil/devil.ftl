@@ -1,11 +1,11 @@
 devil-roundend-name = Дьявол
 objective-issuer-devil = Дьявол
 
-roundend-prepend-devil-contracts = Кто-то заключил [color=red]{ $number }[/color] успешных контрактов.
-roundend-prepend-devil-contracts-named = [color=white]{ $name }[/color] заключил [color=red]{ $number }[/color] успешных контрактов.
+roundend-prepend-devil-contracts = Кто-то успешно заключает договоры в количестве [color=red]{$number}[/color].
+roundend-prepend-devil-contracts-named = [color=white]{$name}[/color] успешно заключает договоры в количестве [color=red]{$number}[/color].
 
-devil-component-examined = [color=darkred]{ CAPITALIZE(POSS-ADJ($target)) } глаза светятся тускло-красным светом.[/color]
-condemned-component-examined = [color=chartreuse]Глаза { CAPITALIZE($target) } пусты и бездушны.[/color]
+devil-component-examined = [color=darkred]{CAPITALIZE(POSS-ADJ($target))} глаза тускло светятся красным.[/color]
+condemned-component-examined = [color=chartreuse]У {CAPITALIZE($target)} пустые, безжизненные глаза.[/color]
 
 # SIS-Start
 devil-role-greeting =
@@ -20,30 +20,30 @@ devil-role-greeting-desc =
     • [color={$hl1}]Опасность веры:[/color] Священник станции, Библии и Святая Вода способны сжечь вашу плоть и сорвать ваши планы!
 # SIS-End
 
-devil-true-name-heard = Произнесение { $speaker } истинного имени { $target } заставляет { POSS-ADJ($target) } замолчать.
-devil-true-name-heard-chaplain = Священные слова { $speaker }, произнесённые с истинным именем, жгут душу { $target }.
+devil-true-name-heard = Когда {$speaker} повелевает, произнося истинное имя {$target}, {POSS-ADJ($target)} воля бессильна.
+devil-true-name-heard-chaplain = Священные слова {$speaker}, произносящего истинное имя, жгут саму душу {$target}.
 
-objective-condition-contract-title = Собери души
-objective-condition-contract-description = Собери как можно больше душ.
+objective-condition-contract-title = Собрать Души
+objective-condition-contract-description = Соберите как можно больше душ.
 
-objective-condition-weight-title = Совершайте выгодные сделки.
-objective-condition-weight-description = Следите, чтобы сделки приносили вам как можно больше выгоды.
+objective-condition-weight-title = Заключайте выгодные сделки.
+objective-condition-weight-description = Сделайте так, чтобы сделки принесли вам как можно больше пользы.
 
-hand-shake-prompt-verb = Предложить руку { $target }
-hand-shake-accept-verb = Пожать руку { $target }
+hand-shake-prompt-verb = Предложить рукопожатие {$target}
+hand-shake-accept-verb = Пожать руку {$target}
 
-handshake-success = Пожав руку { $user }, вы чувствуете лёгкость в душе.
-handshake-fail = Вы пожимаете руку { POSS-ADJ($user) }, но ничего не происходит!
+handshake-success = Вы пожимаете руку {$user} и чувствуете лёгкость.
+handshake-fail =  Вы пожимаете {POSS-ADJ($user)} руку, но ничего не происходит!
 
-handshake-offer-popup = { $user } протягивает вам руку, с хитрой улыбкой на лице.
-handshake-offer-popup-self = Вы протягиваете руку { $target }, хитро улыбаясь.
+handshake-offer-popup = {$user} протягивает вам {POSS-ADJ($user)} руку, на {POSS-ADJ($user)} лице хитрая усмешка.
+handshake-offer-popup-self = Вы с хитрой усмешкой протягиваете руку {$target}.
 
-weaktoholy-component-bible-sizzle = Кожа { $target } опалилась от { $item }!
-devil-banish-begin = { $user } начинает проводить обряд экзорцизма над { $target }!
-devil-exorcised = Земля трескается под { $target }, когда его насильно возвращают в ад!
+weaktoholy-component-bible-sizzle = Кожа {$target} обугливается от прикосновения к {$item}!
+devil-banish-begin = {$user} начинает проводить экзорцизм над {$target}!
+devil-exorcised = Земля под {$target} трещит и крошится, когда того силой возвращают в ад!
 
-invalid-possession-target = Вы не можете овладеть этой целью!
+invalid-possession-target = Вы не можете вселиться в эту цель!
 
-devil-power-level-increase-weak = Из пальцев вырываются искры пламени. Ваша связь с адом усиливается.
-devil-power-level-increase-moderate = Вы чувствуете прилив сил. Ваша связь с адом усиливается.
-devil-power-level-increase-powerful = Все цели почти готовы. Осталось собрать ещё немного душ.
+devil-power-level-increase-weak = На кончиках ваших пальцев вспыхивают язычки пламени. Ваша связь с адом окрепла.
+devil-power-level-increase-moderate = Вы чувствуете прилив сил. Ваша связь с адом окрепла.
+devil-power-level-increase-powerful = Ваша задача почти выполнена. Ещё несколько душ.

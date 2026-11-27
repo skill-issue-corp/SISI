@@ -1,1 +1,1 @@
-materials-runed-metal = рунический металл
+materials-runed-metal = рунный металл

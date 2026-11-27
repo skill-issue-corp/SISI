@@ -1,15 +1,23 @@
 ent-ClothingBackpackWizardClownBundle = { ent-ClothingBackpackClown }
-    .suffix = Набор Клоун-Мага
     .desc = { ent-ClothingBackpackClown.desc }
+    .suffix = Набор Волшебника-Клоуна
+
 ent-ClothingBackpackWizardMimeBundle = { ent-ClothingBackpackMime }
-    .suffix = Набор Мим-Мага
     .desc = { ent-ClothingBackpackMime.desc }
+    .suffix = Набор Волшебника-Мима
+
 ent-ClothingBackpackOblivionEnforcerBundle = { ent-ClothingBackpack }
-    .suffix = Набор Стража Бездны
     .desc = { ent-ClothingBackpack.desc }
+    .suffix = Набор Волшебника-Стража Забвения
+
+ent-ClothingBackpackPaper = { ent-ClothingBackpack }
+    .desc = { ent-ClothingBackpack.desc }
+    .suffix = Набор Бумажного Волшебника
+
 ent-ToolboxTider = { ent-ToolboxMechanical }
-    .desc = Готовы к новому порядку тайдеров?
+    .desc = Готовы к новому тайдерскому порядку?
     .suffix = Тайдер
+
 ent-ToolboxTiderFilled = { ent-ToolboxTider }
-    .suffix = Набор Мага-Тайдера
     .desc = { ent-ToolboxTider.desc }
+    .suffix = Набор Волшебника-Тайдера

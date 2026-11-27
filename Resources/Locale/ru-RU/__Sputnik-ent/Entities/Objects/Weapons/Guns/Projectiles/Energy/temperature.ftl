@@ -1,4 +1,4 @@
-ent-BoltTempgunCold = морозящий заряд
+ent-BoltTempgunCold = замораживающий заряд
     .desc = { ent-WatcherBolt.desc }
 
 ent-BoltTempgunHot = обжигающий заряд

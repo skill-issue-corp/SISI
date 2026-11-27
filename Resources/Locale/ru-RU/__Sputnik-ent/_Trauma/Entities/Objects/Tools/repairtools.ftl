@@ -2,21 +2,21 @@ ent-WhetstoneBase = { ent-MaterialBase }
     .desc = { ent-MaterialBase.desc }
 
 ent-Whetstone = точильный камень
-    .desc = Точильный камень, используемый для ухода за холодным оружием.
-    .suffix = полный
+    .desc = Точильный камень для ухода за клинковым оружием.
+    .suffix = полностью заполнено
 
 ent-Whetstone1 = { ent-Whetstone }
     .desc = { ent-Whetstone.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
-ent-WeaponBracing = крепёжный материал для оружия
-    .desc = Крепёжные материалы, используемые для ремонта различного оружия.
-    .suffix = полный
+ent-WeaponBracing = крепления для оружия
+    .desc = Крепёжные материалы для ремонта многих видов оружия.
+    .suffix = полностью заполнено
 
 ent-WeaponBracing1 = { ent-WeaponBracing }
     .desc = { ent-WeaponBracing.desc }
-    .suffix = Один
+    .suffix = Один предмет
 
-ent-DrillHead = сверло
-    .desc = Запасное сверло для ручных дрелей.
-    .suffix = Полный
+ent-DrillHead = буровая головка
+    .desc = Сменная головка для ручных буров.
+    .suffix = полностью заполнено

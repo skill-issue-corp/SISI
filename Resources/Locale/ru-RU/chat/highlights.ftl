@@ -1,57 +1,57 @@
 # Command
 highlights-captain = Капитан, "Кэп", "Мостик", "Командование"
-highlights-headofpersonnel = Глава персонала, "ГП", Сервис, "Мостик", "Командование"
-highlights-chiefengineer = Главный инженер, "ГИ", Инженерный, Инженер, "Инжи", "Мостик", "Командование"
-highlights-chiefmedicalofficer = Главный врач, "ГВ", Медбей, Медицинский, "Мед", "Мостик", "Командование"
-highlights-headofsecurity = Глава службы безопасности, "ГСБ", Арсенал, Безопасность, "Сек", "Мостик", "Командование"
+highlights-headofpersonnel = Глава Персонала, "ГП", Обслуживание, "Мостик", "Командование"
+highlights-chiefengineer = Старший Инженер, "СИ", Инженерия, Инженер, "Инж", "Мостик", "Командование"
+highlights-chiefmedicalofficer = Главный Врач, "ГВ", Медотсек, Медицинский, "Мед", "Мостик", "Командование"
+highlights-headofsecurity = Глава Службы Безопасности, "ГСБ", Оружейная, Служба Безопасности, "СБ", "Мостик", "Командование"
 highlights-quartermaster = Квартирмейстер, "КМ", Карго, Снабжение, "Мостик", "Командование"
-highlights-researchdirector = Научный руководитель, "НР", Наука, "Науч", "НИР", "НИОКР", "Мостик", "Командование"
+highlights-researchdirector = Научный Руководитель, "НР", Наука, "Научный", "НИО", "НиО", "Мостик", "Командование"
 
 # Security
-highlights-detective = Детектив, "Дек", Служба безопасности, Бриг, "СБ", "КЗ"
-highlights-securitycadet = Кадет службы безопасности, Офицер СБ, Кадет, Арсенал, Безопасность, "Сек"
-highlights-securityofficer = Офицер службы безопасности, Офицер СБ, Офицер, Арсенал, Безопасность, "Сек"
-highlights-warden = Смотритель, "Варден", Служба безопасности, Бриг, "СБ", "КЗ", "Перма", Пермабриг
+highlights-detective = Детектив, "Дет", Оружейная, Служба Безопасности, "СБ"
+highlights-securitycadet = Курсант Службы Безопасности, СБшник, Курсант, Оружейная, Служба Безопасности, "СБ"
+highlights-securityofficer = Офицер Службы Безопасности, СБшник, Офицер, Оружейная, Служба Безопасности, "СБ"
+highlights-warden = Смотритель, "Смотр", Бриг, Общая Камера, КПЗ, "Тюрьма", Оружейная, Служба Безопасности, "СБ"
 
 # Cargo
-highlights-cargotechnician = Техник снабжения, Техник карго, "Карго", Снабжение
-highlights-salvagespecialist = Специалист по утилизации, Утилизатор, Утилизация, "Утил", Шахтёр, "Карго", Снабжение
+highlights-cargotechnician = Грузчик, Техник Карго, "Карго", Снабжение
+highlights-salvagespecialist = Специалист по Утилизации, Утилизатор, Утилизация, "Утиль", Шахтёр, "Карго", Снабжение
 
 # Engineering
-highlights-atmospherictechnician = Атмосферный техник, Атмос-техник, Атмосфера, Инженерный, "Атмос", "Инжи"
-highlights-stationengineer = Станционный инженер, Инженерный, Инженер, "Инжи"
-highlights-technicalassistant = Технический ассистент, Техассистент, Инженерный, Инженер, "Инжи"
+highlights-atmospherictechnician = Атмосферный Техник, Техник по Атмосфере, Атмосферный, Инженерия, "Атмос", "Инж"
+highlights-stationengineer = Станционный Инженер, Инженерия, Инженер, "Инж"
+highlights-technicalassistant = Технический Ассистент, Техассистент, Инженерия, Инженер, "Инж"
 
 # Medical
-highlights-chemist = Химик, Химическая, "Хим", Химка, Химическая лаборатория, Медбей, "Мед", Медицинский
-highlights-medicaldoctor = Врач, Доктор, "Док", Медбей, Медицинский, "Мед"
-highlights-medicalintern = Медицинский интерн, Интерн, Медбей, Медицинский, "Мед"
-highlights-paramedic = Парамедик, "Парамед", Доктор, "Док", "Медик", Медбей, "Мед", Медицинский
+highlights-chemist = Химик, Химия, "Хим", Медотсек, Медицинский, "Мед"
+highlights-medicaldoctor = Врач, Доктор, "Док", Медотсек, Медицинский, "Мед"
+highlights-medicalintern = Медицинский Интерн, Интерн, Медотсек, Медицинский, "Мед"
+highlights-paramedic = Парамедик, "Парамед", "Медик", Медотсек, Медицинский, "Мед"
 
 # Science
-highlights-scientist = Ученый, Наука, "НИО", Робототехника, Робототехник, "Робо"
-highlights-researchassistant = Научный ассистент, Наука, "Науч", "НИР", "НИОКР"
+highlights-scientist = Учёный, Наука, "Научный", "НИО", "НиО"
+highlights-researchassistant = Научный Ассистент, Наука, "Научный", "НИО", "НиО"
 
 # Service
-highlights-bartender = Бармен, "Бар"
-highlights-botanist = Ботаник, Ботаника, Гидропоника
-highlights-chaplain = Священник, Святоша
-highlights-chef = Шеф, Повар, Кухня
-highlights-clown = Клоун, Клуня, Хонк
-highlights-janitor = Уборщик
-highlights-lawyer = АВД, Адвокат
-highlights-librarian = Библиотекарь, Библиотека
-highlights-mime = Мим
-highlights-musician = Музыкант, "Музыка", Театр, Сервис, "Серв"
-highlights-serviceworker = Работник сервиса, Сервис, "Серв"
+highlights-bartender = Бармен, Барменша, Бармен, "Бар", Обслуживание, "Серв"
+highlights-botanist = Ботаник, Ботаника, Гидропоника, Обслуживание, "Серв"
+highlights-chaplain = Священник, "Свящ", Часовня, Обслуживание, "Серв"
+highlights-chef = Шеф-Повар, "Повар", Кухня, Обслуживание, "Серв"
+highlights-clown = Клоун, Театр, Сцена, Обслуживание, "Серв"
+highlights-janitor = Уборщик, "Убор", Обслуживание, "Серв"
+highlights-lawyer = Адвокат, Юрист, "Закон", Обслуживание, "Серв"
+highlights-librarian = Библиотекарь, Библиотека, Обслуживание, "Серв"
+highlights-mime = Мим, Театр, Сцена, Обслуживание, "Серв"
+highlights-musician = Музыкант, "Музыка", Театр, Сцена, Обслуживание, "Серв"
+highlights-serviceworker = Работник Сервиса, Обслуживание, "Серв"
 
 # Station-specific
-highlights-reporter = Репортер, Журналист
-highlights-psychologist = Психолог, Психология
+highlights-reporter = Репортёр, Журналист, Редакция, Новости
+highlights-psychologist = Психолог, Психология, "Псих", Медотсек, Медицинский, "Мед"
 
 # Silicon
 highlights-borg = Киборг, Синтетик, Борг, Робототехника, "Робот"
 highlights-stationai = Станционный ИИ, Синтетик, "ИИ", "сИИ"
 
 # Civilian
-highlights-passenger = Ассистент, Грейтайд
+highlights-passenger = Пассажир, Грейтайдер, Серый Прилив, "Тайдер", "Тайд"

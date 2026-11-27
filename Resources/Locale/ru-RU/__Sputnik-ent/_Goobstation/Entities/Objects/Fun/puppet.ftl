@@ -1,2 +1,2 @@
-ent-LilCal = маленький Кал
+ent-LilCal = малыш кэл
     .desc = { ent-MrChips.desc }

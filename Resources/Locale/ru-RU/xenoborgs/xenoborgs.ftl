@@ -1,3 +1,3 @@
-xenoborgs-no-more-threat-mothership-core-alive-announcement = Long-range sensors indicate that all xenoborgs were destroyed. The mothership core remains adrift in space.
-xenoborgs-no-more-threat-mothership-core-dead-announcement = Long-range sensors indicate that all xenoborgs were destroyed along side the mothership core.
-mothership-destroyed-announcement = Long-range sensors indicate that the mothership core was destroyed.
+xenoborgs-no-more-threat-mothership-core-alive-announcement = Дальние датчики показывают, что все ксеноборги уничтожены. Ядро материнского корабля дрейфует в космосе.
+xenoborgs-no-more-threat-mothership-core-dead-announcement = Дальние датчики показывают, что все ксеноборги уничтожены вместе с ядром материнского корабля.
+mothership-destroyed-announcement = Дальние датчики показывают, что ядро материнского корабля уничтожено.

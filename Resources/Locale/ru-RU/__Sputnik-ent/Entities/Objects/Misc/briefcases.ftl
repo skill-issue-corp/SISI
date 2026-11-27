@@ -1,17 +1,17 @@
 ent-BriefcaseBase = { ent-BaseStorageItem }
-    .desc = Пригодится для переноски предметов в руках.
+    .desc = Удобен для переноски предметов в руках.
 
-ent-BriefcaseBrown = коричневый чемодан
+ent-BriefcaseBrown = коричневый портфель
     .desc = { ent-BriefcaseBase.desc }
 
 ent-BriefcaseSyndie = { ent-BriefcaseBrown }
-    .suffix = Синдикат, Пустой
     .desc = { ent-BriefcaseBrown.desc }
+    .suffix = Синдикат, Пусто
 
 ent-BriefcaseWeapon = защищённый оружейный кейс
-    .desc = Полезен для начинающих наёмников, сражаетесь ли вы за компанию, государство или кого-то ещё. Или просто готовите очень большой омлет.
-    .suffix = Оружие, пустой
+    .desc = Пригодится начинающим наёмникам, сражаетесь ли вы за компанию, страну или кого угодно ещё. Или если вы просто готовите очень большой омлет.
+    .suffix = Оружие, Пусто
 
 ent-BriefcaseWeaponSmall = { ent-BriefcaseWeapon }
     .desc = { ent-BriefcaseWeapon.desc }
-    .suffix = Оружие, маленький, пустой
+    .suffix = Оружие, Малый, Пусто

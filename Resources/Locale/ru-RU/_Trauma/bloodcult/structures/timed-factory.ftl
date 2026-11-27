@@ -1,1 +1,1 @@
-timed-factory-cooldown = Ещё перезаряжается, подождите {$cooldown} сек.
+timed-factory-cooldown = Устройство ещё заряжается, подождите {$cooldown} сек.

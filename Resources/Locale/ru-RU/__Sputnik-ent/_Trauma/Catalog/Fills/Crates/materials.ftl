@@ -1,2 +1,2 @@
-ent-CrateMaterialDurathread = ящик с дюратканью
-    .desc = 30 единиц дюраткани.
+ent-CrateMaterialDurathread = ящик дюраткани
+    .desc = 30 кусков дюраткани.

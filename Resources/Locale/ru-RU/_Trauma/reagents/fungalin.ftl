@@ -1,2 +1,2 @@
-fungalin-effect-lungs-movement = Вы чувствуете, как в лёгких что-то шевелится!
+fungalin-effect-lungs-movement = Вы чувствуете движение в лёгких!
 fungalin-effect-lungs-itch = У вас чешутся лёгкие!

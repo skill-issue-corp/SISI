@@ -1,8 +1,10 @@
 ent-XenomorphEgg = яйцо ксеноморфа
-    .desc = Большое пятнистое яйцо.
+    .desc = Крупное пятнистое яйцо.
+
 ent-XenomorphEggGrown = { ent-XenomorphEgg }
-    .suffix = Выросшее
     .desc = { ent-XenomorphEgg.desc }
+    .suffix = Созрело
+
 ent-XenomorphEggBurst = { ent-XenomorphEgg }
-    .suffix = Лопающее
     .desc = { ent-XenomorphEgg.desc }
+    .suffix = Лопнуло

@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-guide-title = Стандартный
-guide-description = В основном спокойный опыт с сочетанием боевых и мирных событий.
+guide-title = Проводник
+guide-description = В основном спокойная игра с боевыми и мирными событиями

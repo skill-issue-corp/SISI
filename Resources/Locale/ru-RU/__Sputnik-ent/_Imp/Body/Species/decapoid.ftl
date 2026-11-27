@@ -1,4 +1,4 @@
-ent-AppearanceDecapoid = Внешность декапоида
+ent-AppearanceDecapoid = внешность декапода
     .desc = { ent-BaseSpeciesAppearanceDecapoid.desc }
 
 ent-MobDecapoid = Урист МакКраб
@@ -6,7 +6,7 @@ ent-MobDecapoid = Урист МакКраб
 
 ent-OrganDecapoid = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = Декапод
+    .suffix = декапод
 
 ent-OrganDecapoidExternal = { ent-OrganDecapoid }
     .desc = { ent-OrganDecapoid.desc }
@@ -26,7 +26,7 @@ ent-OrganDecapoidArmRight = правая рука декапода
 ent-OrganDecapoidHandLeft = большая клешня декапода
     .desc = { ent-OrganBaseHandLeft.desc }
 
-ent-OrganDecapoidHandRight = малая правая клешня
+ent-OrganDecapoidHandRight = правая малая клешня
     .desc = { ent-OrganBaseHandRight.desc }
 
 ent-OrganDecapoidLegLeft = передние ноги декапода
@@ -45,7 +45,7 @@ ent-OrganDecapoidEyes = { ent-OrganBaseEyes }
     .desc = { ent-OrganBaseEyes.desc }
 
 ent-OrganDecapoidLungs = дыхательная система декапода
-    .desc = Извлекает растворённый в воде кислород и использует его для поддержания жизнедеятельности клеток.
+    .desc = Извлекает растворённый в воде кислород и поддерживает им жизнедеятельность клеток.
 
 ent-OrganDecapoidStomach = { ent-OrganBaseStomach }
     .desc = { ent-OrganBaseStomach.desc }

@@ -1,2 +1,2 @@
-ent-BluespaceSlimeExtract = блюспейс экстракт слайма
+ent-BluespaceSlimeExtract = экстракт блюспейс-слайма
     .desc = { ent-BaseSlimeExtract.desc }

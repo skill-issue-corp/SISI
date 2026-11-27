@@ -1,2 +1,2 @@
-hydroxysomnolene-effect-heart-attack = У вас болит в груди!
-hydroxysomnolene-effect-numb = Ваши пальцы немеют.
+hydroxysomnolene-effect-heart-attack = У вас болит грудь!
+hydroxysomnolene-effect-numb = Вы чувствуете онемение в пальцах.

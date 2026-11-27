@@ -1,12 +1,12 @@
 ent-AppearanceShadow = внешность тени
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobShadow = Урист МакШэдоу
+ent-MobShadow = Урист МакТень
     .desc = { ent-AppearanceShadow.desc }
 
 ent-OrganShadow = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = Тень
+    .suffix = тень
 
 ent-OrganShadowInternal = { ent-OrganShadow }
     .desc = { ent-OrganShadow.desc }

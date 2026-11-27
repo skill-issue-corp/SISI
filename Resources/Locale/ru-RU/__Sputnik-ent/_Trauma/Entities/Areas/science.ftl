@@ -1,4 +1,4 @@
-ent-BaseAreaScience = научный отдел
+ent-BaseAreaScience = наука
     .desc = { ent-BaseAreaStation.desc }
 
 ent-AreaScience = наука
@@ -7,13 +7,13 @@ ent-AreaScience = наука
 ent-AreaScienceBreak = комната отдыха научного отдела
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaScienceLobby = холл научного отдела
+ent-AreaScienceLobby = вестибюль научного отдела
     .desc = { ent-BaseAreaScience.desc }
 
 ent-AreaScienceServer = серверная
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaTeleSci = Теленаука
+ent-AreaTeleSci = ТелеНаука
     .desc = { ent-BaseAreaScience.desc }
 
 ent-AreaAnomalyLab = лаборатория аномалий
@@ -28,7 +28,7 @@ ent-AreaCytology = цитология
 ent-AreaGenetics = генетика
     .desc = { ent-BaseAreaScience.desc }
 
-ent-AreaXenobio = ксенобиология
+ent-AreaXenobio = ксенобио
     .desc = { ent-BaseAreaScience.desc }
 
 ent-AreaRobotics = робототехника

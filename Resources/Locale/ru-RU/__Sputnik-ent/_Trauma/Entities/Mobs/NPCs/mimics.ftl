@@ -1,25 +1,25 @@
 ent-BaseMobMimic = { ent-MobSpaceBasic }
-    .desc = Последнее, что вы увидите в жизни.
+    .desc = Последнее, что вы увидите.
 
-ent-MobMimicToolBox = мимик-ящик для инструментов
+ent-MobMimicToolBox = мимик ящика для инструментов
     .desc = { ent-BaseMobMimic.desc }
 
-ent-ToolboxEmergencyMimic = аварийный ящик для инструментов
-    .desc = Ярко-красный ящик для инструментов, укомплектованный аварийными инструментами. Почему он дышит?
+ent-ToolboxEmergencyMimic = аварийный тулбокс
+    .desc = Ярко-красный ящик с аварийными инструментами. Почему он дышит?
     .suffix = Мимик
 
-ent-MobMimicLocker = мимик-шкафчик
+ent-MobMimicLocker = мимик шкафа
     .desc = { ent-BaseMobMimic.desc }
 
-ent-LockerMimic = шкаф техобслуживания
-    .desc = Это хранилище. Почему оно дышит?
+ent-LockerMimic = шкаф техтоннелей
+    .desc = Это шкаф для хранения вещей. Почему он дышит?
     .suffix = Мимик
 
-ent-MobMimicVendor = мимик-торговый автомат
+ent-MobMimicVendor = мимик торгового автомата
     .desc = { ent-BaseMobMimic.desc }
 
-ent-BulletMimic = банка виски-пансуса
-    .desc = Банка газировки с торчащими сверху зубами.
+ent-BulletMimic = банка по щам
+    .desc = Банка газировки с зубами, торчащими из крышки.
 
 ent-BaseVendorMimic = { "" }
     .desc = Почему он дышит?

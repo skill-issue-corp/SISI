@@ -1,1 +1,1 @@
-flavor-complex-mango = манговое
+flavor-complex-mango = со вкусом манго

@@ -19,20 +19,20 @@ ent-Foam = пена
 ent-MetalFoam = металлическая пена
     .desc = { ent-Foam.desc }
 
-ent-IronMetalFoam = железная пена
+ent-IronMetalFoam = пена из железа
     .desc = { ent-MetalFoam.desc }
 
-ent-AluminiumMetalFoam = алюминиевая пена
+ent-AluminiumMetalFoam = пена из алюминия
     .desc = { ent-MetalFoam.desc }
 
-ent-BaseFoamedMetal = base foamed metal
+ent-BaseFoamedMetal = базовый вспененный металл
     .desc = { "" }
 
 ent-FoamedIronMetal = вспененное железо
-    .desc = Для заделывания пробоин в корпусе.
+    .desc = Для заделывания пробоин в обшивке.
 
 ent-FoamedAluminiumMetal = вспененный алюминий
-    .desc = Для заделывания пробоин в корпусе.
+    .desc = Остатки рыхлой пены от гранаты с алюминиевой пеной. Легко разрушается.
 
 ent-ReactionFlash = { "" }
     .desc = { "" }

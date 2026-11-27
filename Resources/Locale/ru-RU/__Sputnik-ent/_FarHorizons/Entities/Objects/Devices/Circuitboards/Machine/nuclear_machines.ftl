@@ -1,4 +1,5 @@
-ent-NuclearFabricatorMachineCircuitboard = плата ядерного фабрикатора
-    .desc = Печатная плата для станка, используемая для производства ядерного фабрикатора.
-ent-NuclearCentrifugeMachineCircuitboard = плата ядерной центрифуги
-    .desc = Печатная плата для станка, используемая для производства ядерной центрифуги.
+ent-NuclearFabricatorMachineCircuitboard = машинная плата ядерного фабрикатора
+    .desc = Печатная плата для сборки ядерного фабрикатора.
+
+ent-NuclearCentrifugeMachineCircuitboard = машинная плата ядерной центрифуги
+    .desc = Печатная плата для сборки ядерной центрифуги.
