@@ -1,87 +1,87 @@
 ent-ReagentSlimeCocaine = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Cocaine
+    .suffix = Кокаин
 
 ent-ReagentSlimeCrackCocaine = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = CrackCocaine
+    .suffix = КрэкКокаин
 
 ent-ReagentSlimeFrezon = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Frezon
+    .suffix = Фрезон
 
 ent-ReagentSlimeFresium = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Fresium
+    .suffix = Фрезиум
 
 ent-ReagentSlimeAluite = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Aluite
+    .suffix = Алуит
 
 ent-ReagentSlimeAmatoxin = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Amatoxin
+    .suffix = Аматоксин
 
 ent-ReagentSlimeArtifexium = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Artifexium
+    .suffix = Артифексиум
 
 ent-ReagentSlimeUnstableCompound = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = UnstableCompound
+    .suffix = НестабильноеСоединение
 
 ent-ReagentSlimeCyanide = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Cyanide
+    .suffix = Цианид
 
 ent-ReagentSlimeAnacea = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Anacea
+    .suffix = Анацея
 
 ent-ReagentSlimeHemorrhinol = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Hemorrhinol
+    .suffix = Геморринол
 
 ent-ReagentSlimeLead = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Lead
+    .suffix = Свинец
 
 ent-ReagentSlimeChlorineTrifluoride = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = ChlorineTrifluoride
+    .suffix = ТрифторидХлора
 
 ent-ReagentSlimeBurnite = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Burnite
+    .suffix = Бёрнит
 
 ent-ReagentSlimeMold = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Mold
+    .suffix = Плесень
 
 ent-ReagentSlimeRazorium = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Razorium
+    .suffix = Разориум
 
 ent-ReagentSlimePolytrinicAcid = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = PolytrinicAcid
+    .suffix = ПолитриноваяКислота
 
 ent-ReagentSlimeGenecide = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Genecide
+    .suffix = Геноцид
 
 ent-ReagentSlimeProcenylLazide = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = ProcenylLazide
+    .suffix = ПроценилЛазид
 
 ent-ReagentSlimeBruizine = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Bruizine
+    .suffix = Бруизин
 
 ent-ReagentSlimeUltravasculine = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Ultravasculine
+    .suffix = Ультраваскулин
 
 ent-ReagentSlimeTilenol = { ent-ReagentSlime }
     .desc = { ent-ReagentSlime.desc }
-    .suffix = Tilenol
+    .suffix = Тиленол

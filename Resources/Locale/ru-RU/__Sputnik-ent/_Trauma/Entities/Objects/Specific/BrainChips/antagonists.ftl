@@ -1,8 +1,5 @@
-# AUTOGEN-Start
-# Чип MRAM (горлекс)
-# AUTOGEN-End TODO(Update_Locale):
-ent-SkillChipNukie = IVYL-Chip (Gorlex)
-    .desc = A highly advanced skill chip used by Nuclear operatives.
+ent-SkillChipNukie = IVYL-Чип (Горлекс)
+    .desc = Высокотехнологичный чип навыка, которым пользуются Ядерные оперативники.
 
 ent-SkillChipSyndieSoldierTeamLeader = Чип MRAM (лидер синдиката)
     .desc = { ent-SkillChipNukie.desc }
@@ -25,5 +22,5 @@ ent-SkillChipBlackmarketeer = Чип MRAM (торговец с чёрного р
 ent-SkillChipCossack = Чип MRAM (казак)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipMagicalKnowledge = IVYL-Chip (Magical Knowledge)
+ent-SkillChipMagicalKnowledge = IVYL-Чип (Магические Знания)
     .desc = { ent-BaseSkillChipIVYL.desc }

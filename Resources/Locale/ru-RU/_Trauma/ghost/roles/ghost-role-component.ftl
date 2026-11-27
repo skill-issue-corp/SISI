@@ -1,2 +1,2 @@
-roles-ghost-cryopod-sleeper-name = old cryogenics pod sleeper
-roles-ghost-cryopod-sleeper-objective = Work as a team with your fellow survivors aboard a ruined, ancient space station.
+roles-ghost-cryopod-sleeper-name = спящий в старой криокапсуле
+roles-ghost-cryopod-sleeper-objective = Действуйте сообща с другими выжившими на борту древней космической станции, лежащей в руинах.

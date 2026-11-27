@@ -141,26 +141,26 @@ werewolf-black-call-desc = Последняя ступень принятия и
 
 # hell
 
-werewolf-store-choose-hell-name = Hellhound
-werewolf-store-choose-hell-desc = Anger. Hell. Blood. I am the coming of death, the Reapers hound. Let slip the dogs of war.
+werewolf-store-choose-hell-name = Адская Гончая
+werewolf-store-choose-hell-desc = Ярость. Ад. Кровь. Я несу смерть, я гончая Жнеца. Спустите псов войны с цепи.
 
-    You become immune to fire, your claws deal less damage, but further upgrades allow you to set your targets on fire.
-    Your howl burns those in range, and your ambush will put fire where you step.
-    You become significantly weaker to cold, slightly weaker to physical ammunition but become stronger against lasers.
-    Holy damage damages you slightly more, also, You Glow!
+    Вы становитесь невосприимчивы к огню. Ваши когти наносят меньше урона, но дальнейшие улучшения позволят вам поджигать цели.
+    Ваш вой поджигает всех поблизости, а при «Засаде» вы оставляете за собой огненный след.
+    Вы становитесь гораздо уязвимее к холоду и немного уязвимее к обычным боеприпасам, зато лучше переносите попадания лазеров.
+    Святой урон ранит вас чуть сильнее, и ещё Вы Светитесь!
 
-werewolf-store-hell-burn-name = Thousand Degrees
-werewolf-store-hell-burn-desc = Your claws now set people on fire on attack. Also you become a bit brighter.
+werewolf-store-hell-burn-name = Тысяча Градусов
+werewolf-store-hell-burn-desc = Теперь ваши когти поджигают людей при ударе. Вы также светитесь чуть ярче.
 
-werewolf-store-jump-hell-name = Blitz And Burn
-werewolf-store-jump-hell-desc = Dash forward, leaving fire where you step for a short period of time afterwards and during the dash.
+werewolf-store-jump-hell-name = Рвануть И Сжечь
+werewolf-store-jump-hell-desc = Рванитесь вперёд. Во время рывка и ещё недолго после него ваши шаги оставляют огненный след.
 
-werewolf-store-howl-hell-name = Gather Of The Damned
-werewolf-store-howl-hell-desc = Your howl now puts people affected in radius on fire!
+werewolf-store-howl-hell-name = Сбор Проклятых
+werewolf-store-howl-hell-desc = Теперь ваш вой поджигает всех, на кого действует!
 
-werewolf-store-banish-name = Banish
-werewolf-store-banish-desc = A target of your choosing will become paralysed for a short while. The stun time increases depending on how much the target is on fire, upwards of 10 times the duration.
+werewolf-store-banish-name = Изгнание
+werewolf-store-banish-desc = Выбранная вами цель ненадолго окажется парализована. Чем сильнее она горит, тем дольше длится оглушение. Оно может длиться в 10 раз дольше обычного.
 
-    (can be cast in a human form)
+    (можно применить в человеческом облике)
 
-werewolf-store-hell = Literally Satan
+werewolf-store-hell = Буквально Сатана

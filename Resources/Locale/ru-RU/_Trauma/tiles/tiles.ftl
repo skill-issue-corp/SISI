@@ -1,4 +1,4 @@
-tiles-beam = horizontal channel beam
-tiles-beam-reinforced = horizontal reinforced channel beam
-tiles-beam-vertical = vertical channel beam
-tiles-beam-reinforced-vertical = vertical reinforced channel beam
+tiles-beam = горизонтальная балка из швеллера
+tiles-beam-reinforced = горизонтальная усиленная балка из швеллера
+tiles-beam-vertical = вертикальная балка из швеллера
+tiles-beam-reinforced-vertical = вертикальная усиленная балка из швеллера

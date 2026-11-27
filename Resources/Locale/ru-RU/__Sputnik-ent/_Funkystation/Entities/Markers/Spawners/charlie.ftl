@@ -1,37 +1,37 @@
-ent-MobHumanCryoSleeperSci = researcher
+ent-MobHumanCryoSleeperSci = исследователь
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanCryoSleeperEngineer = engineer
+ent-MobHumanCryoSleeperEngineer = инженер
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanCryoSleeperSecurity = officer
+ent-MobHumanCryoSleeperSecurity = офицер
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanCryoSleeperDoctor = doctor
+ent-MobHumanCryoSleeperDoctor = врач
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanCryoSleeperRepresentative = representative
+ent-MobHumanCryoSleeperRepresentative = представитель
     .desc = { ent-MobHuman.desc }
 
-ent-SpawnPointGhostCryoPodSleeperBase = old cryopod sleeper
+ent-SpawnPointGhostCryoPodSleeperBase = спящий в старой криокапсуле
     .desc = { ent-MarkerBase.desc }
 
 ent-SpawnPointGhostCryoPodSleeperSci = { ent-SpawnPointGhostCryoPodSleeperBase }
     .desc = { ent-SpawnPointGhostCryoPodSleeperBase.desc }
-    .suffix = Science
+    .suffix = Наука
 
 ent-SpawnPointGhostCryoPodSleeperEng = { ent-SpawnPointGhostCryoPodSleeperBase }
     .desc = { ent-SpawnPointGhostCryoPodSleeperBase.desc }
-    .suffix = Engineer
+    .suffix = Инженер
 
 ent-SpawnPointGhostCryoPodSleeperSec = { ent-SpawnPointGhostCryoPodSleeperBase }
     .desc = { ent-SpawnPointGhostCryoPodSleeperBase.desc }
-    .suffix = Security Officer
+    .suffix = Офицер СБ
 
 ent-SpawnPointGhostCryoPodSleeperDoc = { ent-SpawnPointGhostCryoPodSleeperBase }
     .desc = { ent-SpawnPointGhostCryoPodSleeperBase.desc }
-    .suffix = Doctor
+    .suffix = Врач
 
 ent-SpawnPointGhostCryoPodSleeperRep = { ent-SpawnPointGhostCryoPodSleeperBase }
     .desc = { ent-SpawnPointGhostCryoPodSleeperBase.desc }
-    .suffix = Representative
+    .suffix = Представитель

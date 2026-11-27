@@ -1,17 +1,17 @@
-ent-IDCardAncient = A perfectly retrograde identification card
-    .desc = A perfectly retrograde identification card. Looks like it could use some flavor.
+ent-IDCardAncient = Совершенно старомодное удостоверение личности
+    .desc = Совершенно старомодное удостоверение личности. На вид ему явно не хватает изюминки.
 
-ent-IDCardAncientScience = Scientist ID
-    .desc = A clip on ID Badge, has one of those fancy new magnetic strips built in. This one is encoded for the Science Dept.
+ent-IDCardAncientScience = ID-карта Учёного
+    .desc = Именная ID-Карта с клипсой и встроенной магнитной полосой, одной из этих новомодных. Эта запрограммирована для Научного Отдела.
 
-ent-IDCardAncientMedical = Medical ID
-    .desc = A clip on ID Badge, has one of those fancy new magnetic strips built in. This one is encoded for the Medical Dept.
+ent-IDCardAncientMedical = ID-карта Медотсека
+    .desc = Именная ID-Карта с клипсой и встроенной магнитной полосой, одной из этих новомодных. Эта запрограммирована для Медицинского Отдела.
 
-ent-IDCardAncientEngineering = Engineering ID
-    .desc = A clip on ID Badge, has one of those fancy new magnetic strips built in. This one is encoded for the Engineering Dept.
+ent-IDCardAncientEngineering = ID-карта Инженерного Отдела
+    .desc = Именная ID-Карта с клипсой и встроенной магнитной полосой, одной из этих новомодных. Эта запрограммирована для Инженерного Отдела.
 
-ent-IDCardAncientSecurity = Security ID
-    .desc = A clip on ID Badge, has one of those fancy new magnetic strips built in. This one is encoded for the Security Dept.
+ent-IDCardAncientSecurity = ID-карта Службы Безопасности
+    .desc = Именная ID-Карта с клипсой и встроенной магнитной полосой, одной из этих новомодных. Эта запрограммирована для Службы Безопасности.
 
-ent-IDCardAncientNanotrasen = Nanotrasen ID
-    .desc = A clip on ID Badge, has one of those fancy new magnetic strips built in. This one is for a Nanotrasen Representative.
+ent-IDCardAncientNanotrasen = ID-карта NanoTrasen
+    .desc = Именная ID-Карта с клипсой и встроенной магнитной полосой, одной из этих новомодных. Эта предназначена для Представителя NanoTrasen.

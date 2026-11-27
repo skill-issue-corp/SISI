@@ -49,11 +49,11 @@ ent-ActionWerewolfBequeath = Назначить преемника
 ent-ActionWerewolfBlackCall = Чёрный Зов
     .desc = Принудительно и навсегда превращает вас и всю вашу стаю. Удваивает здоровье вам и членам вашей стаи. Для применения нужно не менее 4 членов стаи.
 
-ent-ActionWerewolfJumpHell = Blitz And Burn
-    .desc = Jump and burn your foes!
+ent-ActionWerewolfJumpHell = Рвануть И Сжечь
+    .desc = Прыгните и сожгите врагов!
 
-ent-ActionWerewolfHowlHell = Gather the Damned
-    .desc = Howl, setting people around you on fire.
+ent-ActionWerewolfHowlHell = Сбор Проклятых
+    .desc = Взвойте, поджигая тех, кто рядом с вами.
 
-ent-ActionWerewolfBanish = Banish
-    .desc = Strike a target in range, stunning it accordingly to how much 'on fire' they are.
+ent-ActionWerewolfBanish = Изгнание
+    .desc = Ударьте цель в пределах досягаемости. Чем сильнее она «горит», тем дольше продлится оглушение.

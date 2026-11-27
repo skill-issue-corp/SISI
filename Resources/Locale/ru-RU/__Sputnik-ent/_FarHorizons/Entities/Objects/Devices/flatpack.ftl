@@ -4,11 +4,11 @@ ent-BaseStructureFlatpack = базовая упаковка конструкци
 ent-NuclearReactorFlatpack = упаковка ядерного реактора
     .desc = Упаковка для сборки ядерного реактора. Детали продаются отдельно.
 
-ent-SmallNuclearReactorFlatpack = small nuclear reactor flatpack
-    .desc = A flatpack used for constructing a small nuclear reactor. Parts sold separately.
+ent-SmallNuclearReactorFlatpack = упаковка малого ядерного реактора
+    .desc = Упаковка для сборки малого ядерного реактора. Детали продаются отдельно.
 
 ent-GasTurbineFlatpack = упаковка газовой турбины
     .desc = Упаковка для сборки газовой турбины.
 
-ent-SmallGasTurbineFlatpack = small gas turbine flatpack
-    .desc = A flatpack used for constructing a small gas turbine.
+ent-SmallGasTurbineFlatpack = упаковка малой газовой турбины
+    .desc = Упаковка для сборки малой газовой турбины.

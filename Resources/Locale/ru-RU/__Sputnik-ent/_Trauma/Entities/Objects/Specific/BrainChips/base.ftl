@@ -13,5 +13,5 @@ ent-BaseSkillChipPSON = Чип PSON
 ent-BaseSkillChipHPYS = Чип HPYS
     .desc = Стерильный микрочип, способный подключаться напрямую к мозгу. Эта модель меняет баланс гормонов, улучшая физические характеристики.
 
-ent-BaseSkillChipIVYL = IVYL-Chip
-    .desc = A sterilized microchip assembly that can directly interface with the brain. This one changes multiple aspects of the brain to assist the wearer in any malicious activity.
+ent-BaseSkillChipIVYL = IVYL-Чип
+    .desc = Стерильный микрочип, способный подключаться напрямую к мозгу. Эта модель меняет работу мозга, помогая носителю во всех его злодеяниях.

@@ -1,5 +1,5 @@
-ent-BoxDemolition = precise demolition box
-    .desc = A box with 2 detonators, 2 triggers, a remote signaller and 2 full coils of explosive cord.
+ent-BoxDemolition = коробка для точного подрыва
+    .desc = Коробка с 2 детонаторами, 2 триггерами, дистанционным передатчиком и 2 полными мотками взрывного шнура.
 
-ent-BoxExplosiveCord = explosive cord box
-    .desc = A box with 4 full coils of explosive cord, enough for most of your destructive needs.
+ent-BoxExplosiveCord = коробка взрывного шнура
+    .desc = Коробка с 4 полными мотками взрывного шнура. На большинство ваших разрушительных затей хватит.

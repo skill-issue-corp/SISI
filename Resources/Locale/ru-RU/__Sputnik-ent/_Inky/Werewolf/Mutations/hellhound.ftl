@@ -1,5 +1,5 @@
-ent-WerewolfHell = hellhound
-    .desc = Some call it the Reapers hound, you can probably understand why.
+ent-WerewolfHell = адская гончая
+    .desc = Некоторые зовут её гончей Жнеца. Вы наверняка понимаете почему.
 
 ent-WerewolfHellBurn = { ent-WerewolfHell }
     .desc = { ent-WerewolfHell.desc }

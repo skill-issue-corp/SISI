@@ -1,2 +1,2 @@
-ent-CryogenicSleepUnitAncient = old cryogenic sleep unit
-    .desc = An ancient cryogenic sleep unit that has been forced open by a safety mechanism.
+ent-CryogenicSleepUnitAncient = старая установка криогенного сна
+    .desc = Древняя установка криогенного сна, вскрытая защитным механизмом.
