@@ -1,0 +1,50 @@
+ent-ClothingUniformJumpsuitBotanistSyndicate = syndicate botanist jumpsuit
+    .desc = Perfect wear for when you need to grow some illegal plants.
+
+ent-ClothingUniformJumpsuitBartenderSyndicate = syndicate bartender jumpsuit
+    .desc = Secretly spiking suspicious sodas has never been more fancy.
+
+ent-ClothingUniformJumpsuitLibrarianSyndicate = syndicate librarian jumpsuit
+    .desc = You aren't going to be casting any spells with your books, but they'll still be cursed.
+
+ent-ClothingUniformJumpsuitScientistSyndicate = syndicate scientist jumpsuit
+    .desc = Far ahead of Nanotrasen in research. Even farther ahead in style.
+
+ent-ClothingUniformJumpsuitScientistWhiteSyndicate = syndicate white scientist jumpsuit
+    .desc = Far ahead of Nanotrasen in research. Even farther ahead in style.
+
+ent-ClothingUniformJumpsuitGCMSyndicate = gorlex commanding mercenary jumpsuit
+    .desc = Even Gorlex needs someone to keep things under control. This jumpsuit is worn by the person who does just that.
+
+ent-ClothingUniformJumpsuitCCRSyndicate = cybersun chief researcher jumpsuit
+    .desc = The brain behind all of Cybersun's scientific advancements' jumpsuit.
+
+ent-ClothingUniformJumpsuitIMDSyndicate = interdyne medical director jumpsuit
+    .desc = Someone has to take care of the agents who just can't do their job without getting hurt.
+
+ent-ClothingUniformJumpsuitWSMSyndicate = waffle co. supply manager jumpsuit
+    .desc = The jumpsuit of the person who manages the supply intake and output of Waffle Co.
+
+ent-ClothingUniformJumpsuitHRDSyndicate = donk co. hr director jumpsuit
+    .desc = The jumpsuit of the HR director of donk co.
+
+ent-ClothingUniformJumpsuitCHESyndicate = cybersun head engineer jumpsuit
+    .desc = Perfect wear for when you decide to declare sovereignty from the rest of the station.
+
+ent-ClothingUniformJumpsuitHCRSyndicate = high command representative jumpsuit
+    .desc = A member of the Syndicate High Command's jumpsuit.
+
+ent-ClothingUniformJumpsuitAncientDoc = ancient doctor jumpsuit
+    .desc = An ancient jumpsuit fit for an ancient doctor.
+
+ent-ClothingUniformJumpsuitAncientSci = ancient scientist jumpsuit
+    .desc = An ancient jumpsuit fit for an ancient scientist.
+
+ent-ClothingUniformJumpsuitAncientEng = ancient engineer jumpsuit
+    .desc = An ancient jumpsuit fit for an ancient engineer.
+
+ent-ClothingUniformJumpsuitAncientSec = ancient security jumpsuit
+    .desc = An ancient jumpsuit fit for an ancient security officer.
+
+ent-ClothingUniformJumpsuitAncientRep = ancient nanotrasen jumpsuit
+    .desc = An ancient jumpsuit fit for an ancient nanotrasen representative.

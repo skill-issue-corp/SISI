@@ -9,7 +9,6 @@ cult-revive-rune-no-charges = Невозможно провести ритуал
 cult-revive-rune-already-alive = Цель уже жива.
 
 cult-rending-drawing-finished = Последователи Геометра Крови начертили руну конца возле {$area}!
-cult-rending-target-alive = Невозможно начать ритуал: цель жива.
 cult-rending-already-summoning = Невозможно начать ритуал: он уже идёт.
 cult-rending-started = Последователи Геометра Крови начали ритуал Разрыва Измерений!
 cult-rending-prevented = Кто-то прервал ритуал.

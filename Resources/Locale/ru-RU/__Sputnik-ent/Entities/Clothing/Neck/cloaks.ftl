@@ -43,8 +43,12 @@ ent-ClothingNeckCloakSalvagerSupreme = плащ верховного утили�
 ent-ClothingNeckCloakTrans = плащ вампира
     .desc = Его носят высокопоставленные вампиры из трансильванского общества вампиров.
 
-ent-ClothingNeckCloakGoliathCloak = плащ из шкуры голиафа
-    .desc = Плащ из шкуры выносливого зверя с далёкой планеты.
+# AUTOGEN-Start
+# плащ из шкуры голиафа
+# .desc = Плащ из шкуры выносливого зверя с далёкой планеты.
+# AUTOGEN-End TODO(Update_Locale):
+ent-ClothingNeckCloakGoliathCloak = goliath cloak
+    .desc = A cloak made from the hide of resilient fauna from a distant planet, though its protective value has faded with its age.
 
 ent-ClothingNeckCloakPirateCap = плащ пиратского капитана
     .desc = Весьма эффектный чёрный пиратский плащ с узором из черепов.

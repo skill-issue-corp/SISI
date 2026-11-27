@@ -1,5 +1,5 @@
-ent-ActionBaseWerewolf = { "" }
-    .desc = { "" }
+ent-ActionBaseWerewolf = { ent-BaseAction }
+    .desc = { ent-BaseAction.desc }
 
 ent-ActionWerewolfHowl = Завыть
     .desc = Кричите как можно громче, чтобы оглушить всех поблизости.
@@ -48,3 +48,12 @@ ent-ActionWerewolfBequeath = Назначить преемника
 
 ent-ActionWerewolfBlackCall = Чёрный Зов
     .desc = Принудительно и навсегда превращает вас и всю вашу стаю. Удваивает здоровье вам и членам вашей стаи. Для применения нужно не менее 4 членов стаи.
+
+ent-ActionWerewolfJumpHell = Blitz And Burn
+    .desc = Jump and burn your foes!
+
+ent-ActionWerewolfHowlHell = Gather the Damned
+    .desc = Howl, setting people around you on fire.
+
+ent-ActionWerewolfBanish = Banish
+    .desc = Strike a target in range, stunning it accordingly to how much 'on fire' they are.
