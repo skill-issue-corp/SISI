@@ -1,20 +1,20 @@
 ent-BaseHandheldGrinder = { ent-SolutionToolSmall }
     .desc = { ent-SolutionToolSmall.desc }
 
-ent-MortarAndPestle = mortar and pestle
-    .desc = Used for grinding small amounts of objects.
+ent-MortarAndPestle = ступка с пестиком
+    .desc = Используется для измельчения небольшого количества продуктов.
 
-ent-MortarAndPestleMakeshift = makeshift mortar and pestle
-    .desc = Used for grinding small amounts of objects. Inferior version made out of wood.
+ent-MortarAndPestleMakeshift = самодельная ступка с пестиком
+    .desc = Используется для измельчения небольшого количества продуктов. Упрощённая версия из дерева.
 
-ent-HandheldJuicer = handheld juicer
-    .desc = Used for juicing small amounts of objects.
+ent-HandheldJuicer = ручная соковыжималка
+    .desc = Используется для выжимания сока из небольшого количества продуктов.
 
-ent-HandheldJuicerMakeshift = makeshift juicer
-    .desc = Used for juicing small amounts of objects. Inferior version made out of wood.
+ent-HandheldJuicerMakeshift = самодельная соковыжималка
+    .desc = Используется для выжимания сока из небольшого количества продуктов. Упрощённая версия из дерева.
 
-ent-IncompleteMortarAndPestle = incomplete mortar and pestle
-    .desc = A few planks of wood stuck together.
+ent-IncompleteMortarAndPestle = незаконченная ступка с пестиком
+    .desc = Несколько скреплённых деревянных дощечек.
 
-ent-IncompleteHandheldJuicer = incomplete handheld juicer
-    .desc = A some wood and plastic stuck together.
+ent-IncompleteHandheldJuicer = незаконченная ручная соковыжималка
+    .desc = Скреплённые куски дерева и пластика.

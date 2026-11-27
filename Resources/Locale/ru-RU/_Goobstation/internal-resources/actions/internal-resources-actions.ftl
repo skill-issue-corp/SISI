@@ -1,5 +1,5 @@
-internal-resources-debug-name = debug resource
-internal-resources-debug-desc = debug resource desc
+internal-resources-debug-name = отладочный ресурс
+internal-resources-debug-desc = описание отладочного ресурса
 
-internal-resources-chemicals-name = chemicals
-internal-resources-chemicals-desc = Chemicals that used for biological creatures genetic transformations.
+internal-resources-chemicals-name = химикаты
+internal-resources-chemicals-desc = Химикаты, с помощью которых биологические существа меняют свой геном.

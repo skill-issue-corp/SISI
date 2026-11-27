@@ -1,17 +1,17 @@
-ent-VendingMachineFitness = SweatMAX
-    .desc = An exercise aid and nutrition supplement vendor that preys on your inadequacy.
+ent-VendingMachineFitness = ПотМАКС
+    .desc = Автомат товаров для тренировок и пищевых добавок, наживающийся на вашей неуверенности.
 
-ent-VendingMachineHotfood = hot foods
-    .desc = An old vending machine promising 'hot foods'. You doubt any of its contents are still edible.
+ent-VendingMachineHotfood = горячие блюда
+    .desc = Старый торговый автомат, обещающий «горячие блюда». Вы сомневаетесь, что в нём осталось хоть что-то съедобное.
 
-ent-VendingMachineSolsnack = Mars Mart
-    .desc = A SolCentric vending machine dispensing treats from home.
+ent-VendingMachineSolsnack = Марс Маркет
+    .desc = Торговый автомат Солнечного Центра с лакомствами из родных краёв.
 
-ent-VendingMachineWeeb = Nippon-tan
-    .desc = A distressingly ethnic vending machine loaded with high sucrose low calorie for lack of better words snacks.
+ent-VendingMachineWeeb = Ниппон-тян
+    .desc = До неловкости этнический торговый автомат, набитый низкокалорийными, но богатыми сахарозой, за неимением лучшего слова, закусками.
 
-ent-VendingMachineMailDrobe = MailDrobe
-    .desc = Neither solar flares nor meteors nor plasma fire nor void of space stays these couriers from the swift completion of their appointed rounds.
+ent-VendingMachineMailDrobe = ПочтоШкаф
+    .desc = Ни солнечные вспышки, ни метеоры, ни плазменный огонь, ни пустота космоса не помешают этим курьерам быстро обойти свой маршрут.
 
-ent-VendingMachineSweetToof = sweet-toof co. candy
-    .desc = A vending machine selling an unhealthy amount of candy. You'd have to have a 'sweet-tooth' to enjoy it.
+ent-VendingMachineSweetToof = конфеты компании «сладкоежка»
+    .desc = Торговый автомат с неприлично большим количеством конфет. Чтобы оценить его по достоинству, нужно быть «сладкоежкой».

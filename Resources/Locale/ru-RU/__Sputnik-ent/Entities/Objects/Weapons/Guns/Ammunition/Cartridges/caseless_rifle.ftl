@@ -1,8 +1,8 @@
-ent-BaseCartridgeCaselessRifle = cartridge (9.5mm)
+ent-BaseCartridgeCaselessRifle = патрон (9.5мм)
     .desc = { ent-BaseCartridge.desc }
 
-ent-CartridgeCaselessRifle = cartridge (9.5mm HP)
-    .desc = A small caliber utilizing caseless technology, omitting conventional brass casing in favor of hardened propellant. Standard kinetic ammunition is common and useful in most situations.
+ent-CartridgeCaselessRifle = патрон (9.5мм HP)
+    .desc = Малокалиберный безгильзовый патрон, в котором обычную латунную гильзу заменяет затвердевший метательный состав. Обычные кинетические патроны широко распространены и пригодны в большинстве ситуаций.
 
-ent-CartridgeCaselessRiflePractice = cartridge (9.5mm practice)
-    .desc = A small caliber utilizing caseless technology, omitting conventional brass casing in favor of hardened propellant. Practice ammunition fires a chalk projectile that stings a little, but otherwise causes no lasting damage.
+ent-CartridgeCaselessRiflePractice = патрон (9.5мм учебные)
+    .desc = Малокалиберный безгильзовый патрон, в котором обычную латунную гильзу заменяет затвердевший метательный состав. Учебный патрон стреляет меловой пулей, которая жалит, но не причиняет серьёзного вреда.

@@ -1,2 +1,2 @@
-ent-StasisBaton = futuristic stunbaton
-    .desc = An advanced security baton for shutting down interfering tiders
+ent-StasisBaton = футуристичная электродубинка
+    .desc = Передовая дубинка службы безопасности для усмирения мешающих тайдеров

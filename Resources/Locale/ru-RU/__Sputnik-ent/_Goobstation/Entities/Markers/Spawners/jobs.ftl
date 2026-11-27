@@ -1,11 +1,11 @@
-ent-SpawnPointNanotrasenRepresentative = nanotrasenrepresentative
+ent-SpawnPointNanotrasenRepresentative = представитель NanoTrasen
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointRoboticist = SpawnPointRoboticist
+ent-SpawnPointRoboticist = Точка Спавна Робототехника
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointRadioHost = SpawnPointRadioHost
+ent-SpawnPointRadioHost = Точка Спавна Радиоведущего
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointVirologist = virologist
+ent-SpawnPointVirologist = вирусолог
     .desc = { ent-SpawnPointJobBase.desc }

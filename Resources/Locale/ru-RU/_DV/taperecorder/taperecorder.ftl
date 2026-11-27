@@ -1,27 +1,27 @@
-cassette-repair-start = You start winding the tape back into {THE($item)}.
-cassette-repair-finish = You manage to wind the tape back into {THE($item)}.
-tape-cassette-position = The cassette is about [color=green]{$position}%[/color] the way through.
-tape-cassette-damaged = The cassette is unspooled, use a pen or screwdriver to repair it.
-tape-recorder-playing = The tape recorder is in [color=green]playback[/color] mode.
-tape-recorder-stopped = The tape recorder is stopped.
-tape-recorder-empty = The tape recorder is empty.
-tape-recorder-recording = The tape recorder is in [color=red]recording[/color] mode.
-tape-recorder-rewinding = The tape recorder is in [color=yellow]rewinding[/color] mode.
-tape-recorder-locked = Cant eject while the tape recorder is running.
-tape-recorder-voice-unknown = Unknown
-tape-recorder-voice-unintelligible = Unintelligible
+cassette-repair-start = Вы начинаете сматывать ленту обратно в {$item}.
+cassette-repair-finish = Вам удаётся смотать ленту обратно в {$item}.
+tape-cassette-position = Кассета прокручена примерно на [color=green]{$position}%[/color].
+tape-cassette-damaged = Лента кассеты размоталась. Воспользуйтесь ручкой или отвёрткой, чтобы её починить.
+tape-recorder-playing = Диктофон в режиме [color=green]воспроизведения[/color].
+tape-recorder-stopped = Диктофон остановлен.
+tape-recorder-empty = В диктофоне нет кассеты.
+tape-recorder-recording = Диктофон в режиме [color=red]записи[/color].
+tape-recorder-rewinding = Диктофон в режиме [color=yellow]перемотки[/color].
+tape-recorder-locked = Кассету нельзя извлечь, пока диктофон работает.
+tape-recorder-voice-unknown = Неизвестно
+tape-recorder-voice-unintelligible = Неразборчиво
 tape-recorder-message-corruption = #
 
-tape-recorder-menu-title = Tape Recorder
-tape-recorder-menu-controls-label = Controls:
-tape-recorder-menu-stopped-button = Pause
-tape-recorder-menu-recording-button = Record
-tape-recorder-menu-playing-button = Playback
-tape-recorder-menu-rewinding-button = Rewind
-tape-recorder-menu-print-button = Print record transcript
-tape-recorder-menu-cassette-label = Cassette tape: {$cassetteName}
-tape-recorder-menu-no-cassette-label = Cassette tape is not inserted
+tape-recorder-menu-title = Кассетный Диктофон
+tape-recorder-menu-controls-label = Управление:
+tape-recorder-menu-stopped-button = Пауза
+tape-recorder-menu-recording-button = Запись
+tape-recorder-menu-playing-button = Воспроизведение
+tape-recorder-menu-rewinding-button = Перемотка
+tape-recorder-menu-print-button = Распечатать расшифровку записи
+tape-recorder-menu-cassette-label = Аудиокассета: {$cassetteName}
+tape-recorder-menu-no-cassette-label = Аудиокассета не вставлена
 
-tape-recorder-print-start-text = [bold]Start of recorded transcript[/bold]
+tape-recorder-print-start-text = [bold]Начало расшифровки записи[/bold]
 tape-recorder-print-message-text = [bold][{$time}] {$source}: [/bold] {$message}
-tape-recorder-print-end-text = [bold]End of recorded transcript[/bold]
+tape-recorder-print-end-text = [bold]Конец расшифровки записи[/bold]

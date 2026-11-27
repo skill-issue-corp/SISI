@@ -1,17 +1,17 @@
-ent-BaseEffectTeleportation = teleportation
-    .desc = A pink haze is swirling around, unlike anything you've ever seen...
+ent-BaseEffectTeleportation = телепортация
+    .desc = Вокруг клубится розовое марево, не похожее ни на что прежде виденное...
 
 ent-EffectTeleportation = { ent-BaseEffectTeleportation }
     .desc = { ent-BaseEffectTeleportation.desc }
 
 ent-EffectTeleportationEntity = { ent-BaseEffectTeleportation }
     .desc = { ent-BaseEffectTeleportation.desc }
-    .suffix = Entity
+    .suffix = Сущность
 
 ent-EffectTeleportationShort = { ent-EffectTeleportation }
     .desc = { ent-EffectTeleportation.desc }
-    .suffix = Short
+    .suffix = Короткая
 
 ent-EffectTeleportationEntityShort = { ent-EffectTeleportationEntity }
     .desc = { ent-EffectTeleportationEntity.desc }
-    .suffix = Entity, Short
+    .suffix = Сущность, Короткая

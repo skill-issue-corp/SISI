@@ -1,5 +1,5 @@
-heretic-flesh-grasp-recall-ghoul = Recall ghouls
-heretic-flesh-grasp-recall-search-filter = Search...
-heretic-flesh-grasp-recall-no-ghouls = No ghouls to recall.
-heretic-flesh-grasp-recall-distance = distance: {$dist}
-heretic-flesh-grasp-recall-distance-far = far
+heretic-flesh-grasp-recall-ghoul = Отозвать гулей
+heretic-flesh-grasp-recall-search-filter = Поиск...
+heretic-flesh-grasp-recall-no-ghouls = Нет гулей для отзыва.
+heretic-flesh-grasp-recall-distance = расстояние: {$dist}
+heretic-flesh-grasp-recall-distance-far = далеко

@@ -1,11 +1,11 @@
-ent-MutationGeladikinesis = Geladikinesis
-    .desc = Allows the user to concentrate moisture and sub-zero forces into snow.
+ent-MutationGeladikinesis = Геладикинез
+    .desc = Позволяет создавать снег, собирая влагу и силу мороза.
 
-ent-MutationCryokinesis = Cryokinesis
-    .desc = Draws negative energy from the sub-zero void to freeze surrounding temperatures at subject's will.
+ent-MutationCryokinesis = Криокинез
+    .desc = Черпает отрицательную энергию из ледяной пустоты, позволяя испытуемому замораживать всё вокруг по своему желанию.
 
-ent-ActionMutationGeladikinesis = Create Snow
-    .desc = Concentrates cryokinetic forces to create snow, useful for snow-like construction.
+ent-ActionMutationGeladikinesis = Создать Снег
+    .desc = Концентрирует силу криокинеза для создания снега, который годится для снежных построек.
 
-ent-ActionMutationCryokinesis = Cryobeam
-    .desc = This power fires a frozen bolt at a target.
+ent-ActionMutationCryokinesis = Криолуч
+    .desc = Способность выпускает в цель ледяной снаряд.

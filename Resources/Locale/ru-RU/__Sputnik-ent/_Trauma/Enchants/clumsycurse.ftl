@@ -1,2 +1,2 @@
-ent-CurseClumsy = The Clowns Curse
+ent-CurseClumsy = Проклятие Клоуна
     .desc = { ent-BaseEnchant.desc }

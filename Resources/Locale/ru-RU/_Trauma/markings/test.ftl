@@ -1,5 +1,5 @@
 # test prototypes
-marking-SingleColorMarking = single color marking
-marking-MenOnlyMarking = men only marking
-marking-EyesMarking = eyes marking
-marking-ChestMarking = chest marking
+marking-SingleColorMarking = одноцветная отметина
+marking-MenOnlyMarking = отметина только для мужчин
+marking-EyesMarking = отметина на глазах
+marking-ChestMarking = отметина на груди

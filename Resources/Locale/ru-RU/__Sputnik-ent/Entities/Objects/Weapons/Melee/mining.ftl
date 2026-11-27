@@ -1,8 +1,8 @@
-ent-Pickaxe = pickaxe
-    .desc = Notched to perfection, for jamming it into rocks.
+ent-Pickaxe = кирка
+    .desc = Идеально насечена, чтобы вонзать её в породу.
 
-ent-MiningDrill = mining drill
-    .desc = Powerful tool used to quickly drill through rocks.
+ent-MiningDrill = шахтёрский бур
+    .desc = Мощный инструмент для быстрого бурения породы.
 
-ent-MiningDrillDiamond = diamond tipped mining drill
-    .desc = A significantly more efficient mining drill tipped with diamond.
+ent-MiningDrillDiamond = шахтёрский бур с алмазным наконечником
+    .desc = Гораздо более эффективный шахтёрский бур с алмазным наконечником.

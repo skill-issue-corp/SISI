@@ -1,20 +1,20 @@
-ent-ActionHereticRealignment = Realignment
-    .desc = Recover from all stuns knockdowns, and restraints, gaining short term pacifism.
+ent-ActionHereticRealignment = Восстановление
+    .desc = Избавьтесь от всех эффектов оглушения, сбивания с ног и связывания. Ненадолго станьте пацифистом.
 
-ent-ActionHereticIceSpear = Mysteries of Creation
-    .desc = Recall the Glacier Spear to you.
+ent-ActionHereticIceSpear = Тайны Творения
+    .desc = Призовите Ледниковое Копьё обратно к себе.
 
-ent-ActionHereticCleave = Crimson Cleave
-    .desc = A targeted spell that heals you while damaging the enemies. It cleanses you of all wounds as well.
+ent-ActionHereticCleave = Багровый Раскол
+    .desc = Заклинание на выбранную цель, которое лечит вас и наносит урон врагам. Также исцеляет все ваши раны.
 
-ent-ActionActivateEmp = Activate EMP
-    .desc = Triggers EMP pulse around you
+ent-ActionActivateEmp = Активировать ЭМИ
+    .desc = Создаёт ЭМИ вокруг вас
 
-ent-ActionHereticSpacePhase = Space Phase
-    .desc = Allows you to phase in and out of existence while in space or a low-pressure, outdoor area.
+ent-ActionHereticSpacePhase = Космофаза
+    .desc = Позволяет исчезать и вновь появляться в космосе или на открытом участке с низким давлением.
 
-ent-ActionMirrorJaunt = Mirror Walk
-    .desc = Allows you to traverse invisibly and freely across the station within the realm of the mirror. You can only enter and exit the realm of mirrors when near reflective items and surfaces, such windows or mirrors.
+ent-ActionMirrorJaunt = Зеркальный Шаг
+    .desc = Позволяет свободно и незаметно перемещаться по станции через зеркальный мир. Войти в зазеркалье и выйти из него можно только рядом с отражающими предметами и поверхностями вроде окон и зеркал.
 
-ent-ActionHereticForestAdmonitions = Forest Admonitions
-    .desc = Completely conceals your identity, and makes you invisible. Can be activated early to disable it. While cloaked, you move slightly faster, but undergo actions much slower. Taking damage while cloaked may cause it to lift suddenly. Spreads pale fog around while active.
+ent-ActionHereticForestAdmonitions = Лесные Предостережения
+    .desc = Полностью скрывает вашу личность и делает вас невидимым. Повторная активация снимает эффект досрочно. Под покровом вы двигаетесь немного быстрее, но совершаете действия гораздо медленнее. При получении урона покров может внезапно рассеяться. Пока он активен, вокруг стелется бледный туман.

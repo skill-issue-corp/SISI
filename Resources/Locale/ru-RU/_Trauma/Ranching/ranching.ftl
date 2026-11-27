@@ -1,19 +1,19 @@
-internal-resources-happiness-name = happiness
-internal-resources-happiness-desc = Kuwabara kuwabara...
+internal-resources-happiness-name = счастье
+internal-resources-happiness-desc = Кувабара кувабара...
 
-age-markup-baby = [color=#e6d925]It's so cute![/color]
-age-markup-adult = It's in it's golden years
-age-markup-senior = [color=#d1d1d1]It's movements are slow and it's hairs are turning gray[/color]
+age-markup-baby = [color=#e6d925]Какая прелесть![/color]
+age-markup-adult = В самом расцвете сил
+age-markup-senior = [color=#d1d1d1]Движения замедлились, а волоски седеют[/color]
 
-grabbed-shatter-popup = The chicken shatters!
+grabbed-shatter-popup = Курица разлетается на осколки!
 
-dream-egg-popup = You feel your muscles shut down as they undergo regeneration...
-knight-egg-popup = Your skin feels tougher then usual.
-clown-egg-popup = You feel clumsy.
-cluwne-egg-popup = You feel dangerously clumsy.
-medusa-popup = You turn into a stone statue!
+dream-egg-popup = Вы чувствуете, как мышцы отказывают, пока идут процессы регенерации...
+knight-egg-popup = Ваша кожа кажется прочнее обычного.
+clown-egg-popup = Вы чувствуете себя неуклюже.
+cluwne-egg-popup = Вы чувствуете себя опасно неуклюже.
+medusa-popup = Вы превращаетесь в каменную статую!
 
 # Bizarre....
-action-speech-spell-fireball-phoenix = MAGICIAN'S RED!!!!
+action-speech-spell-fireball-phoenix = МАГИШЕНС РЭД!!!!
 
-entity-effect-popup-fear-affected = Your body shuts down as fear controls you!!
+entity-effect-popup-fear-affected = Ваше тело цепенеет под властью страха!!

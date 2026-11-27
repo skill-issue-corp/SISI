@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-carpetium-effect-blood-fibrous = Your blood feels oddly fibrous today.
-carpetium-effect-jumpsuit-insides = You feel like there's a jumpsuit inside you, for some reason.
+carpetium-effect-blood-fibrous = Сегодня кровь кажется вам странно волокнистой.
+carpetium-effect-jumpsuit-insides = Вам почему-то кажется, будто у вас внутри комбинезон.

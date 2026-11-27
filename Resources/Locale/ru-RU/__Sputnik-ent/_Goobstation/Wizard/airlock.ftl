@@ -1,27 +1,27 @@
 ent-DoorElectronicsWizard = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Wizard, Locked
+    .suffix = Волшебник, Закрыт
 
 ent-AirlockUranium = { ent-Airlock }
     .desc = { ent-Airlock.desc }
-    .suffix = Uranium
+    .suffix = Уран
 
 ent-AirlockUraniumGlass = { ent-AirlockGlass }
     .desc = { ent-AirlockGlass.desc }
-    .suffix = Uranium, Glass
+    .suffix = Урановый, Стеклянный
 
 ent-AirlockUraniumWizardLocked = { ent-AirlockUranium }
     .desc = { ent-AirlockUranium.desc }
-    .suffix = Wizard, Locked
+    .suffix = Волшебник, Закрыт
 
 ent-AirlockUraniumGlassWizardLocked = { ent-AirlockUraniumGlass }
     .desc = { ent-AirlockUraniumGlass.desc }
-    .suffix = Wizard, Locked
+    .suffix = Волшебник, Закрыт
 
-ent-AirlockUraniumAssembly = airlock assembly
+ent-AirlockUraniumAssembly = каркас шлюза
     .desc = { ent-AirlockAssembly.desc }
-    .suffix = Uranium
+    .suffix = Уран
 
 ent-AirlockUraniumAssemblyGlass = { ent-AirlockUraniumAssembly }
     .desc = { ent-AirlockUraniumAssembly.desc }
-    .suffix = Uranium, Glass
+    .suffix = Урановый, Стеклянный

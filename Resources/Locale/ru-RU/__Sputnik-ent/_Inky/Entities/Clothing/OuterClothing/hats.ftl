@@ -1,2 +1,2 @@
-ent-ClothingHeadHatUshankaTransparent = transparent ushanka
-    .desc = God bless ouг тeсноlоgies дnd ouг тiмe.
+ent-ClothingHeadHatUshankaTransparent = прозрачная ушанка
+    .desc = Дa блaгocлoвит Бoг нaши тeхнoлoгии и нaшe вpeмя.

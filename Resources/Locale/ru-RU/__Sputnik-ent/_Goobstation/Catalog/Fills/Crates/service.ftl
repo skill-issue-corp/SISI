@@ -1,14 +1,14 @@
-ent-CrateFishingGoodies = fishing goodies crate
-    .desc = A couple of fishing rods, a bear, and a hat. Everything you need to catch all fish on the station!
+ent-CrateFishingGoodies = ящик с рыбацкими принадлежностями
+    .desc = Пара удочек, медведь и шляпа. Всё необходимое, чтобы выловить всю рыбу на станции!
 
-ent-CrateHolySupplies = holy supplies crate
-    .desc = Contains a Bible and 2 Jugs of holy water for religious needs
+ent-CrateHolySupplies = ящик со святыми припасами
+    .desc = Внутри Библия и 2 Канистры святой воды для религиозных нужд
 
-ent-CrateCargoForklift = Forklift crate
-    .desc = A perfect utility vehicle for cargo.
+ent-CrateCargoForklift = Ящик с погрузчиком
+    .desc = Идеальный рабочий транспорт для карго.
 
-ent-CrateRadioStationAds = ads crate
-    .desc = A whole crate which sole purpose is to store 6 exclusive ads, aint capitalism great?
+ent-CrateRadioStationAds = ящик с рекламой
+    .desc = Целый ящик, предназначенный исключительно для хранения 6 эксклюзивных рекламных записей. Разве капитализм не прекрасен?
 
-ent-CrateRadioStationVinyls = vinyls crate
-    .desc = A crate with 12 vinyls so you'll NEVER play the same song twice, they come in sleeves!
+ent-CrateRadioStationVinyls = ящик с пластинками
+    .desc = Ящик с 12 пластинками, чтобы вам НИКОГДА не пришлось ставить одну и ту же песню дважды. И все в конвертах!

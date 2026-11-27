@@ -1,31 +1,31 @@
-ent-ClothingOuterHardsuitChronolegioneer = futuristic hardsuit
-    .desc = A hardsuit covered in an unknown material that protects against most material and temporal damage.
+ent-ClothingOuterHardsuitChronolegioneer = футуристичный скафандр
+    .desc = Скафандр с покрытием из неизвестного материала, защищающего от большинства физических и временных повреждений.
 
 ent-ClothingOuterHardsuitChronolegioneerUnremoveable = { ent-ClothingOuterHardsuitChronolegioneer }
     .desc = { ent-ClothingOuterHardsuitChronolegioneer.desc }
-    .suffix = Unremoveable
+    .suffix = Несъёмный
 
-ent-ClothingOuterHardsuitCybersunStealth = cybersun stealth hardsuit
-    .desc = A hardsuit with photo-reactive plating for sneaky operations, the shielding doesn't work while you're moving though! Needs the helmet on to finish the stealth field.
-    .suffix = stealth
+ent-ClothingOuterHardsuitCybersunStealth = маскировочный скафандр «киберсан»
+    .desc = Скафандр с фотореактивным покрытием для скрытных операций, но на ходу маскировка не работает! Чтобы замкнуть поле маскировки, нужно надеть шлем.
+    .suffix = стелс
 
-ent-ClothingOuterHardsuitCybersunDreadnought = Cybersun dreadnought suit
-    .desc = The Syndicate places its glory on your shoulders, do not disappoint.
+ent-ClothingOuterHardsuitCybersunDreadnought = скафандр «дредноут» от «Киберсан»
+    .desc = Синдикат возлагает на ваши плечи свою славу, не подведите его.
 
-ent-ClothingOuterVoidsuitSecurity = security hardsuit
-    .desc = A light hardsuit with an in-built plate carrier to provide moderate protection while remaining mobile.
+ent-ClothingOuterVoidsuitSecurity = скафандр службы безопасности
+    .desc = Лёгкий скафандр со встроенным бронежилетом, который даёт умеренную защиту и сохраняет подвижность.
 
-ent-ClothingOuterHardsuitHeadOfSecurityExperimental = FI-52 "Honor Guard" parade hardsuit
-    .desc = A special hardsuit that protects against hazardous, low pressure environments. Has an experimental inbuilt stimulant autoinjector system.
+ent-ClothingOuterHardsuitHeadOfSecurityExperimental = парадный скафандр FI-52 «Почётный Караул»
+    .desc = Особый скафандр, защищающий в опасных условиях низкого давления. Оснащён экспериментальной системой автоматического введения стимуляторов.
 
-ent-ClothingOuterHardsuitExperimentalNanorep = NTX5-Mirrorduss
-    .desc = A crude dark exosuit of reinforced plating, etched with faintly glowing Bluespace circuits. You can tell someone attempted to scratch out part of the text — Prototype No. 2
+ent-ClothingOuterHardsuitExperimentalNanorep = NTX5-Миррордусс
+    .desc = Грубый тёмный экзокостюм из усиленных пластин с выгравированными на них слабо светящимися Блюспейс-контурами. Видно, что кто-то пытался соскрести часть надписи – Прототип № 2
 
-ent-ClothingSingulothArmor = singuloth knight's armor
-    .desc = A ceremonial armor from the chapter of the Singuloth Knights, It's made of pure forged adamantium.
+ent-ClothingSingulothArmor = доспех рыцаря сингулота
+    .desc = Церемониальные доспехи ордена Рыцарей Сингулота, Выкованы из чистого адамантия.
 
-ent-ClothingOuterHardsuitVoxRaiderStealth = vox raider stealth suit
-    .desc = A sleek black suit. It seems to have a tail, and is very heavy.
+ent-ClothingOuterHardsuitVoxRaiderStealth = стелс-костюм вокса-налётчика
+    .desc = Чёрный обтекаемый костюм. Похоже, у него есть хвост, и он очень тяжёлый.
 
-ent-ClothingOuterHardsuitDetective = detective hardsuit
-    .desc = A hardsuit custom-made for the Detective. It has a strong smell of alcohol and cigarettes.
+ent-ClothingOuterHardsuitDetective = скафандр детектива
+    .desc = Скафандр, сшитый на заказ для Детектива. От него сильно несёт алкоголем и сигаретами.

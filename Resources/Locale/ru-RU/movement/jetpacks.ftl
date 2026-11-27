@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-jetpack-no-station = Can't use jetpacks under gravity
-jetpack-to-grid = The jetpack turns off
+jetpack-no-station = Джетпаки не работают в условиях гравитации
+jetpack-to-grid = Джетпак отключается

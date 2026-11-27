@@ -1,29 +1,29 @@
-ent-MusicalLungInstrument = musical lung
-    .desc = The spiritual and magical lung of a former opera singer. Though, to be honest, the vocal chords make the performance.
+ent-MusicalLungInstrument = музыкальное лёгкое
+    .desc = Волшебное лёгкое бывшего оперного певца, в котором таится его душа. Хотя, если честно, на сцене всё решают голосовые связки.
 
-ent-SeashellInstrument = seashell
-    .desc = For laying down the shoreline beat.
+ent-SeashellInstrument = морская раковина
+    .desc = Чтобы задать ритм на берегу.
 
-ent-BirdToyInstrument = bird whistle
-    .desc = A delightful little whistle in the shape of a bird. It sings beautifully.
+ent-BirdToyInstrument = свистулька-птичка
+    .desc = Очаровательная свистулька в форме птички. Прекрасно поёт.
 
-ent-PhoneInstrument = red phone
-    .desc = Should anything ever go wrong...
+ent-PhoneInstrument = красный телефон
+    .desc = Если вдруг что-то пойдёт не так...
 
-ent-PhoneInstrumentSyndicate = blood-red phone
-    .desc = For evil people to call their friends.
+ent-PhoneInstrumentSyndicate = кроваво-красный телефон
+    .desc = Чтобы злодеи могли позвонить друзьям.
 
-ent-HelicopterInstrument = toy helicopter
-    .desc = Ch-ka-ch-ka-ch-ka-ch-ka-ch-ka-ch-ka...
+ent-HelicopterInstrument = игрушечный вертолёт
+    .desc = Ч-ка-ч-ка-ч-ка-ч-ка-ч-ка-ч-ка...
 
-ent-CannedApplauseInstrument = canned applause
-    .desc = Seems like someone already used it all up...
+ent-CannedApplauseInstrument = консервированные аплодисменты
+    .desc = Похоже, кто-то уже всё израсходовал...
 
-ent-GunpetInstrument = gunpet
-    .desc = Why do you need to examine this? Is it not self-explanatory?
+ent-GunpetInstrument = трубострел
+    .desc = Зачем вы это осматриваете? Разве и так не ясно, что это?
 
-ent-BikeHornInstrument = gilded bike horn
-    .desc = An exquisitely decorated bike horn, capable of honking in a variety of notes.
+ent-BikeHornInstrument = позолоченный велосипедный гудок
+    .desc = Изысканно украшенный велосипедный гудок, который умеет хонкать на разные ноты.
 
-ent-BananaPhoneInstrument = banana phone
-    .desc = A direct line to the Honkmother. Seems to always go to voicemail.
+ent-BananaPhoneInstrument = телефон-банан
+    .desc = Прямая линия с Хонкоматерью. Похоже, всегда переадресует на голосовую почту.

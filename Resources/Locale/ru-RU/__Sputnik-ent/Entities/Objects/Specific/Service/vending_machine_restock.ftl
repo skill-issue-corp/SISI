@@ -1,80 +1,80 @@
-ent-BaseVendingMachineRestock = vending machine restock box
-    .desc = A box for restocking vending machines with corporate goodies.
+ent-BaseVendingMachineRestock = коробка пополнения торговых автоматов
+    .desc = Коробка с корпоративными вкусностями для пополнения торговых автоматов.
 
-ent-VendingMachineRestockBooze = Booze-O-Mat restock box
-    .desc = Slot into your Booze-O-Mat to start the party! Not for sale to passengers below the legal age.
+ent-VendingMachineRestockBooze = коробка пополнения «Бухло-О-Мата»
+    .desc = Вставьте в «Бухло-О-Мат», и вечеринка начнётся! Не продаётся пассажирам, не достигшим разрешённого возраста.
 
-ent-VendingMachineRestockChang = Mr. Chang's restock box
-    .desc = A box covered in white labels with bold red Chinese characters, ready to be loaded into the nearest Mr. Chang's vending machine.
+ent-VendingMachineRestockChang = коробка пополнения «Мистера Чанга»
+    .desc = Коробка сплошь в белых этикетках с крупными красными Китайскими иероглифами. Готова к загрузке в ближайший автомат «Мистер Чанг».
 
-ent-VendingMachineRestockChefvend = ChefVend restock box
-    .desc = Refill the ChefVend. Just don't break any more of the eggs.
+ent-VendingMachineRestockChefvend = коробка пополнения «ШефВенда»
+    .desc = Пополните «ШефВенд». Только больше не разбивайте яйца.
 
-ent-VendingMachineRestockCondimentStation = condiment station restock box
-    .desc = Refill the condiment station. Mmmm, cold sauce.
+ent-VendingMachineRestockCondimentStation = коробка пополнения станции приправ
+    .desc = Пополните станцию приправ. М-м-м, холодный соус.
 
-ent-VendingMachineRestockClothes = wardrobe restock box
-    .desc = It's time to step up your fashion! Place inside any clothes vendor restock slot to begin.
+ent-VendingMachineRestockClothes = коробка пополнения гардеробов
+    .desc = Пора прокачать свой стиль! Для начала вставьте в отсек пополнения любого автомата с одеждой.
 
-ent-VendingMachineRestockCostumes = AutoDrobe restock box
-    .desc = A panoply of NanoTrasen employees are prancing about a colorful theater in a tragicomedy. You can join them too! Load this into your nearest AutoDrobe vending machine.
+ent-VendingMachineRestockCostumes = коробка пополнения «АвтоГардероба»
+    .desc = На подмостках пёстрого театра в трагикомедии резвится целая плеяда сотрудников NanoTrasen. Присоединяйтесь! Вставьте коробку в ближайший «АвтоГардероб».
 
-ent-VendingMachineRestockDinnerware = Plasteel Chef's restock box
-    .desc = It's never raw in this kitchen! Drop into the restock slot on the Plasteel Chef to begin.
+ent-VendingMachineRestockDinnerware = коробка пополнения «Пласталевого Шефа»
+    .desc = На этой кухне ничего не подают сырым! Для начала вставьте коробку в отсек пополнения «Пласталевого Шефа».
 
-ent-VendingMachineRestockDiscountDans = Discount Dan's restock box
-    .desc = A box full of salt and starch. Why suffer Quality when you can have Quantity? Discount Dan's!
+ent-VendingMachineRestockDiscountDans = коробка пополнения «Дэна со Скидкой»
+    .desc = Коробка, полная соли и крахмала. Зачем терпеть Качество, если можно взять Количеством? «Дэн со Скидкой»!
 
-ent-VendingMachineRestockDonut = Robust Donuts restock box
-    .desc = A box full of toroidal bundles of fried dough for restocking a vending machine. Use only as directed by Robust Industries, LLC.
+ent-VendingMachineRestockDonut = коробка пополнения «Робастных Пончиков»
+    .desc = Коробка полна жареных колец из теста для пополнения торгового автомата. Использовать только по инструкции ООО «Робаст Индастриз».
 
-ent-VendingMachineRestockEngineering = EngiVend restock box
-    .desc = Only to be used by certified professionals.
+ent-VendingMachineRestockEngineering = коробка пополнения «ИнжиВенда»
+    .desc = Только для сертифицированных специалистов.
 
-ent-VendingMachineRestockGames = Good Clean Fun restock box
-    .desc = It's time to roll for initiative, dice dragons! Load up at the Good Clean Fun vending machine!
+ent-VendingMachineRestockGames = коробка пополнения «Хорошего Чистого Веселья»
+    .desc = Пора бросать на инициативу, драконы игральных костей! Пополните запасы в автомате «Хорошее Чистое Веселье»!
 
-ent-VendingMachineRestockGetmoreChocolateCorp = GetMore Chocolate restock box
-    .desc = A box loaded with the finest ersatz cacao. Only to be used in official Getmore Chocolate vending machines.
+ent-VendingMachineRestockGetmoreChocolateCorp = коробка пополнения Шоколада «Гетмор»
+    .desc = Коробка с лучшим суррогатом какао. Только для официальных Шоколадных автоматов «Гетмор».
 
-ent-VendingMachineRestockHotDrinks = Solar's Best restock box
-    .desc = Toasty! For use in Solar's Best Hot Drinks or other affiliate vending machines.
+ent-VendingMachineRestockHotDrinks = коробка пополнения «Лучшего от Солар»
+    .desc = Горяченько! Для автомата Горячих Напитков «Лучшее от Солар» и других автоматов сети.
 
-ent-VendingMachineRestockMedical = NanoMed restock box
-    .desc = Slot into your department's NanoMed or NanoMedPlus to dispense. Handle with care.
+ent-VendingMachineRestockMedical = коробка пополнения «НаноМеда»
+    .desc = Вставьте в «НаноМед» или «НаноМедПлюс» вашего отдела. Обращайтесь с осторожностью.
 
-ent-VendingMachineRestockNutriMax = NutriMax restock box
-    .desc = We'll make your thumbs green with our tools. Let's get to harvesting! Load into a NutriMax vending machine.
+ent-VendingMachineRestockNutriMax = коробка пополнения «НутриМакса»
+    .desc = С нашими инструментами вы станете прирождённым садоводом. За урожаем! Загрузите в автомат «НутриМакс».
 
-ent-VendingMachineRestockPTech = PTech restock box
-    .desc = All the bureaucracy you can handle, and more! Load into the PTech vending machine to get started.
+ent-VendingMachineRestockPTech = коробка пополнения «ПиТека»
+    .desc = Больше бюрократии, чем вы готовы выдержать! Для начала загрузите в автомат «ПиТек».
 
-ent-VendingMachineRestockRobustSoftdrinks = beverage restock box
-    .desc = A cold, clunky container of colliding chilly cylinders. Use only as directed by Robust Industries, LLC.
+ent-VendingMachineRestockRobustSoftdrinks = коробка пополнения напитков
+    .desc = Холодный, громоздкий контейнер с гремящими ледяными цилиндрами. Использовать только по инструкции ООО «Робаст Индастриз».
 
-ent-VendingMachineRestockSecTech = SecTech restock box
-    .desc = Communists beware: the reinforcements have arrived! A label reads SECURITY PERSONNEL ONLY.
+ent-VendingMachineRestockSecTech = коробка пополнения «СекТека»
+    .desc = Коммунисты, берегитесь: прибыло подкрепление! На этикетке написано «ТОЛЬКО ДЛЯ СОТРУДНИКОВ СЛУЖБЫ БЕЗОПАСНОСТИ».
 
-ent-VendingMachineRestockSalvageEquipment = Salvage Vendor restock box
-    .desc = Strike the earth ere the space carp nip your behind! Slam into a salvage vendor to begin.
+ent-VendingMachineRestockSalvageEquipment = коробка пополнения Автомата утилизаторов
+    .desc = Ударьте по земле, пока космический карп не цапнул вас за зад! Для начала вставьте коробку в автомат утилизаторов.
 
-ent-VendingMachineRestockSeeds = MegaSeed restock box
-    .desc = A label says they're heirloom seeds, passed down from our ancestors. Pack it into the MegaSeed Servitor!
+ent-VendingMachineRestockSeeds = коробка пополнения «МегаСемян»
+    .desc = На этикетке сказано, что эти старинные сорта передали нам предки. Загрузите в автомат «Слуга МегаСемян»!
 
-ent-VendingMachineRestockSmokes = ShadyCigs restock box
-    .desc = It's hard to see anything under all the Surgeon General warnings, but it mentions loading it into a vending machine.
+ent-VendingMachineRestockSmokes = коробка пополнения «Мутных Сигарет»
+    .desc = Под всеми предупреждениями Минздрава почти ничего не разобрать, но что-то написано про загрузку в торговый автомат.
 
-ent-VendingMachineRestockTankDispenser = tank dispenser restock box
-    .desc = Capable of replacing tanks in a gas tank dispenser. Handle with care.
+ent-VendingMachineRestockTankDispenser = коробка пополнения раздатчика баллонов
+    .desc = Заменяет баллоны в раздатчике газовых баллонов. Обращайтесь с осторожностью.
 
-ent-VendingMachineRestockVendomat = Vendomat restock box
-    .desc = A box full of parts for various machinery. Load it into a Vendomat to begin.
+ent-VendingMachineRestockVendomat = коробка пополнения «Вендомата»
+    .desc = Коробка с деталями для разных машин. Для начала загрузите в «Вендомат».
 
-ent-VendingMachineRestockRobotics = Robotech Deluxe restock box
-    .desc = A box full of tools for creating borgs. Load it into a Robotech Deluxe to begin.
+ent-VendingMachineRestockRobotics = коробка пополнения «РобоТех Делюкс»
+    .desc = Коробка с инструментами для сборки боргов. Для начала загрузите в «РобоТех Делюкс».
 
-ent-VendingMachineRestockHappyHonk = Happy Honk restock box
-    .desc = Place this box full of fun into the restock slot on the Happy Honk Dispenser to begin.
+ent-VendingMachineRestockHappyHonk = коробка пополнения «Хэппи Хонк»
+    .desc = Вставьте эту полную веселья коробку в отсек пополнения Раздатчика «Хэппи Хонк».
 
-ent-VendingMachineRestockChemVend = ChemVend restock box
-    .desc = A box filled with chemicals and covered in dangerous-looking NFPA diamonds. Load it into a ChemVend to begin.
+ent-VendingMachineRestockChemVend = коробка пополнения «ХимВенда»
+    .desc = Коробка с химикатами, покрытая угрожающими ромбами NFPA. Для начала загрузите в «ХимВенд».

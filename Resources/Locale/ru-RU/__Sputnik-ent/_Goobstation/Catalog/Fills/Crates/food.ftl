@@ -1,5 +1,5 @@
-ent-CrateFoodPizzaLarge = disaster pizza delivery
-    .desc = In the ultimate event that all else has failed, Find comfort in that more pizza solves everything. Includes 16 pizzas.
+ent-CrateFoodPizzaLarge = доставка пиццы на случай катастрофы
+    .desc = Когда все прочие средства исчерпаны, Утешьтесь тем, что добавка пиццы решает любую проблему. В комплекте 16 пицц.
 
-ent-CrateFoodSoftdrinksLarge = softdrinks bulk crate
-    .desc = Lots of sodas taken straight out of Centcomm's own vending machines, because you just can't leave your department. Includes 32 sodas.
+ent-CrateFoodSoftdrinksLarge = ящик с газировкой оптом
+    .desc = Куча газировки прямо из торговых автоматов ЦК, потому что из своего отдела вам никак не выйти. В комплекте 32 банки газировки.

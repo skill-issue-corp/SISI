@@ -8,17 +8,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-bleach = bleach
-reagent-desc-bleach = Heavy duty cleaner that can clean tiles better than Space Cleaner. Extremely toxic when ingested.
+reagent-name-bleach = отбеливатель
+reagent-desc-bleach = Мощное чистящее средство, которое отмывает тайлы лучше Космического Очистителя. Крайне токсичен при проглатывании.
 
-reagent-name-space-cleaner = space cleaner
-reagent-desc-space-cleaner = This is able to clean almost all surfaces of almost anything that may dirty them. The janitor is likely to appreciate refills.
+reagent-name-space-cleaner = космический очиститель
+reagent-desc-space-cleaner = Отмывает почти любую поверхность от почти любых загрязнений. Уборщик наверняка будет рад пополнению запасов.
 
-reagent-name-soap = soap
-reagent-desc-soap = I wouldn't clean my mouth out with this if I were you.
+reagent-name-soap = мыло
+reagent-desc-soap = На вашем месте я бы не стал мыть этим рот.
 
-reagent-name-space-lube = space lube
-reagent-desc-space-lube = Space Lube is a high performance lubricant intended for maintenance of extremely complex mechanical equipment (and certainly not used to make people slip).
+reagent-name-space-lube = космическая смазка
+reagent-desc-space-lube = Космическая Смазка — высокоэффективный смазочный материал для обслуживания чрезвычайно сложного механического оборудования (и уж точно не для того, чтобы люди поскальзывались).
 
-reagent-name-space-glue = space glue
-reagent-desc-space-glue = Space Glue is a high performance glue intended for maintenance of extremely complex mechanical equipment (and certainly not used to make people stick to the floor).
+reagent-name-space-glue = космический клей
+reagent-desc-space-glue = Космический Клей — высокоэффективный клей для обслуживания чрезвычайно сложного механического оборудования (и уж точно не для того, чтобы приклеивать людей к полу).

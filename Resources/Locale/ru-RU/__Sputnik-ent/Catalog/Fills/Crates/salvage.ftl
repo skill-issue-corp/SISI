@@ -1,34 +1,34 @@
-ent-CrateSalvageEquipment = salvage equipment crate
-    .desc = For the daring.
-    .suffix = Filled
+ent-CrateSalvageEquipment = ящик снаряжения утилизаторов
+    .desc = Для отважных.
+    .suffix = Заполнено
 
 ent-CrateSalvageAssortedGoodies = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
-    .suffix = Filled, Salvage Random
+    .suffix = Заполнено, Случайное Снаряжение Утилизаторов
 
-ent-CrateCrusherDagger = crusher dagger crate
-    .desc = Contains 4 crusher daggers for use by salvage.
+ent-CrateCrusherDagger = ящик кинжалов-крушителей
+    .desc = Содержит 4 кинжала-крушителя для утилизаторов.
 
-ent-CrateSeismicCharge = seismic charge crate
-    .desc = Contains 6 seismic charges for use by salvage.
+ent-CrateSeismicCharge = ящик сейсмических зарядов
+    .desc = Содержит 6 сейсмических зарядов для утилизаторов.
 
-ent-CrateDoubleEmergencyTank = double emergency tank crate
-    .desc = Contains 2 double emergency oxygen tanks and 2 double emergency nitrogen tanks
+ent-CrateDoubleEmergencyTank = ящик двойных аварийных баллонов
+    .desc = Содержит 2 двойных аварийных кислородных баллона и 2 двойных аварийных азотных баллона
 
-ent-CrateCrusher = crusher crate
-    .desc = Contains 2 crushers for use by salvage.
+ent-CrateCrusher = ящик крушителей
+    .desc = Содержит 2 крушителя для утилизаторов.
 
-ent-CrateFulton = fulton crate
-    .desc = Contains a fulton beacon and 8 fultons.
+ent-CrateFulton = ящик фултонов
+    .desc = Содержит маяк фултона и 8 фултонов.
 
-ent-CrateVoidJetpack = void jetpack crate
-    .desc = Contains a single void jetpack.
+ent-CrateVoidJetpack = ящик пустотного джетпака
+    .desc = Содержит один пустотный джетпак.
 
-ent-CrateSalvageHardsuit = mining hardsuit crate
-    .desc = Contains a mining hardsuit, breath mask, and one tank of both oxygen and nitrogen.
+ent-CrateSalvageHardsuit = ящик скафандра шахтёра
+    .desc = Содержит скафандр шахтёра, дыхательную маску и по одному баллону кислорода и азота.
 
-ent-CrateCrusherGlaive = crusher glaive crate
-    .desc = Contains a crusher glaive for use by salvage.
+ent-CrateCrusherGlaive = ящик глефы-крушителя
+    .desc = Содержит глефу-крушитель для утилизаторов.
 
-ent-CrateSupremeSalvagerCloak = supreme salvager cloak crate
-    .desc = Contains a cloak only to be worn by supreme salvagers. Wearing it undeservedly will result in your doom.
+ent-CrateSupremeSalvagerCloak = ящик плаща верховного утилизатора
+    .desc = Содержит плащ, который могут носить только верховные утилизаторы. Наденете без права на него - вас ждёт погибель.

@@ -1,2 +1,2 @@
-shadow-crawl-cancelled = You must stand on darkness to crawl.
-shadow-crawl-success = You become one with the darkness and take less damage from lights.
+shadow-crawl-cancelled = Чтобы ползти, нужно стоять в темноте.
+shadow-crawl-success = Вы сливаетесь с тьмой и получаете меньше урона от света.

@@ -1,7 +1,7 @@
-ent-MobContractor = Syndicate Contractor
+ent-MobContractor = Наёмник Синдиката
     .desc = { ent-MobHuman.desc }
 
-ent-SpawnPointContractor = contractor spawner
+ent-SpawnPointContractor = точка спавна наёмника синдиката
     .desc = { ent-MarkerBase.desc }
 
 ent-ContractorSpawner = { ent-BaseAntagSpawner }

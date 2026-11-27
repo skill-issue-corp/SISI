@@ -5,13 +5,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-dinnerware-1 = Mm, food stuffs!
-advertisement-dinnerware-2 = Food and food accessories.
-advertisement-dinnerware-3 = Get your plates!
-advertisement-dinnerware-4 = You like forks?
-advertisement-dinnerware-5 = I like forks.
-advertisement-dinnerware-6 = Woo, utensils.
-advertisement-dinnerware-7 = You don't really need these...
-advertisement-dinnerware-8 = Take them if you want them!
-advertisement-dinnerware-9 = I'm pretty sure beakers are a must-have.
-advertisement-dinnerware-10 = WHY ARE THERE SO MANY KINDS OF MUGS?
+advertisement-dinnerware-1 = М-м, съестное!
+advertisement-dinnerware-2 = Еда и принадлежности для еды.
+advertisement-dinnerware-3 = Разбирайте тарелки!
+advertisement-dinnerware-4 = Любите вилки?
+advertisement-dinnerware-5 = А я люблю вилки.
+advertisement-dinnerware-6 = У-у, столовые приборы.
+advertisement-dinnerware-7 = Вам это, вообще-то, ни к чему...
+advertisement-dinnerware-8 = Хотите - берите!
+advertisement-dinnerware-9 = Почти уверен, что без мензурок не обойтись.
+advertisement-dinnerware-10 = ЗАЧЕМ СТОЛЬКО РАЗНЫХ КРУЖЕК?

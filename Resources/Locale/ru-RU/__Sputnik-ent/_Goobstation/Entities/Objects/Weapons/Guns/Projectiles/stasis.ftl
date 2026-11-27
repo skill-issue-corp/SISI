@@ -1,2 +1,2 @@
-ent-BulletStasis = stasis bolt
+ent-BulletStasis = стазисный заряд
     .desc = { ent-BaseBullet.desc }

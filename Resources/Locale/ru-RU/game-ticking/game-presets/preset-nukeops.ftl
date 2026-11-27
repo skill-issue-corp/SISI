@@ -1,5 +1,5 @@
-nukeops-title = Nuclear Operatives
-nukeops-description = Nuclear operatives have targeted the station. Try to keep them from arming and detonating the nuke by protecting the nuke disk!
+nukeops-title = Ядерные Оперативники
+nukeops-description = Ядерные оперативники нацелились на станцию. Защищайте ядерный диск, чтобы помешать им активировать и взорвать ядерную бомбу!
 
 # SIS-Start
 nukeops-role-greeting =
@@ -15,45 +15,45 @@ nukeops-role-greeting-desc =
     {"["}color={$hl1}]Начинайте миссию.[/color]
 # SIS-End
 
-nukeops-briefing = Your objectives are simple. Deliver the payload and get out before the payload detonates. Begin mission.
+nukeops-briefing = Ваша задача проста. Доставьте заряд и уходите, пока он не взорвался. Приступайте к заданию.
 
-nukeops-opsmajor = [color=crimson]Syndicate major victory![/color]
-nukeops-opsminor = [color=crimson]Syndicate minor victory![/color]
-nukeops-neutral = [color=yellow]Neutral outcome![/color]
-nukeops-crewminor = [color=green]Crew minor victory![/color]
-nukeops-crewmajor = [color=green]Crew major victory![/color]
+nukeops-opsmajor = [color=crimson]Полная победа Синдиката![/color]
+nukeops-opsminor = [color=crimson]Частичная победа Синдиката![/color]
+nukeops-neutral = [color=yellow]Нейтральный исход![/color]
+nukeops-crewminor = [color=green]Частичная победа экипажа![/color]
+nukeops-crewmajor = [color=green]Полная победа экипажа![/color]
 
-nukeops-cond-nukeexplodedoncorrectstation = The nuclear operatives managed to blow up the station.
-nukeops-cond-nukeexplodedonnukieoutpost = The nuclear operative outpost was destroyed by a nuclear blast!
-nukeops-cond-nukeexplodedonincorrectlocation = The nuclear bomb detonated off-station.
-nukeops-cond-nukeactiveinstation = The nuclear bomb was left armed on-station.
-nukeops-cond-nukeactiveatcentcom = The nuclear bomb was armed and delivered to Central Command!
-nukeops-cond-nukediskoncentcom = The crew escaped with the nuclear authentication disk.
-nukeops-cond-nukedisknotoncentcom = The crew left the nuclear authentication disk behind.
-nukeops-cond-nukiesabandoned = The nuclear operatives were abandoned.
-nukeops-cond-allnukiesdead = All nuclear operatives have died.
-nukeops-cond-somenukiesalive = Some nuclear operatives died.
-nukeops-cond-allnukiesalive = No nuclear operatives died.
+nukeops-cond-nukeexplodedoncorrectstation = Ядерным оперативникам удалось взорвать станцию.
+nukeops-cond-nukeexplodedonnukieoutpost = База ядерных оперативников уничтожена ядерным взрывом!
+nukeops-cond-nukeexplodedonincorrectlocation = Ядерная бомба взорвалась за пределами станции.
+nukeops-cond-nukeactiveinstation = Активированная ядерная бомба осталась на станции.
+nukeops-cond-nukeactiveatcentcom = Ядерную бомбу активировали и доставили в Центральное Командование!
+nukeops-cond-nukediskoncentcom = Экипаж эвакуировался с диском ядерной аутентификации.
+nukeops-cond-nukedisknotoncentcom = Экипаж бросил диск ядерной аутентификации.
+nukeops-cond-nukiesabandoned = Ядерных оперативников бросили.
+nukeops-cond-allnukiesdead = Все ядерные оперативники погибли.
+nukeops-cond-somenukiesalive = Часть ядерных оперативников погибла.
+nukeops-cond-allnukiesalive = Все ядерные оперативники выжили.
 
-nukeops-disk-location-title = Final location of Disk:
-nukeops-disk-carried-by = {" "}carried by [color=White]{$name}[/color], [color=orange]{$job}[/color], {$location} { $user ->
+nukeops-disk-location-title = Последнее местонахождение Диска:
+nukeops-disk-carried-by = {" "}у [color=White]{$name}[/color], [color=orange]{$job}[/color], {$location} { $user ->
     [unknown] { "" }
     *[other] ([color=gray]{$user}[/color])
 }
 
 storage-hierarchy-list = { $items-left ->
   [0] { $existing-text } { $item },
-  *[other] { $existing-text } { $item }, in
+  *[other] { $existing-text } { $item }, внутри:
 }
 
-nukeops-list-start = The nuclear operatives were:
+nukeops-list-start = Ядерные оперативники:
 nukeops-list-name = - [color=White]{$name}[/color]
 nukeops-list-name-user = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
-nukeops-not-enough-ready-players = Not enough players readied up for the game! There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start Nukeops.
-nukeops-no-one-ready = No players readied up! Can't start Nukeops.
+nukeops-not-enough-ready-players = Недостаточно готовых игроков! Готово {$readyPlayersCount} из {$minimumPlayers} необходимых. Не удалось запустить режим «Ядерные Оперативники».
+nukeops-no-one-ready = Никто из игроков не готов! Не удалось запустить режим «Ядерные Оперативники».
 
-nukeops-role-commander = Commander
-nukeops-role-agent = Corpsman
-nukeops-role-operator = Operator
+nukeops-role-commander = Командир
+nukeops-role-agent = Санитар
+nukeops-role-operator = Оперативник
 
-nukeops-roundend-name = nuclear operative
+nukeops-roundend-name = ядерный оперативник

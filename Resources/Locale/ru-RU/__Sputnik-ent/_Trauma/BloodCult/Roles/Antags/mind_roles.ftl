@@ -1,14 +1,14 @@
 ent-BaseMindRoleBloodCult = { ent-BaseMindRoleAntag }
     .desc = { ent-BaseMindRoleAntag.desc }
 
-ent-MindRoleBloodCultist = Blood Cultist Role
+ent-MindRoleBloodCultist = Роль Культиста Крови
     .desc = { ent-BaseMindRoleBloodCult.desc }
 
-ent-MindRoleBloodCultLeader = Blood Cult Leader Role
+ent-MindRoleBloodCultLeader = Роль Лидера Культа Крови
     .desc = { ent-MindRoleBloodCultist.desc }
 
-ent-MindRoleBloodCultConstruct = Blood Cult Construct Role
+ent-MindRoleBloodCultConstruct = Роль Конструкта Культа Крови
     .desc = { ent-BaseMindRoleBloodCult.desc }
 
-ent-MindRolePurifiedConstruct = Purified Construct Role
+ent-MindRolePurifiedConstruct = Роль Очищенного Конструкта
     .desc = { ent-BaseMindRole.desc }

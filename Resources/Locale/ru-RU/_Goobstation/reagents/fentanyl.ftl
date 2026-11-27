@@ -4,12 +4,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-fentanyl-effect-lostsomething = Where is it?
-fentanyl-effect-fakepresence = You feel someone looking over your shoulder
-fentanyl-effect-skincrawl = Your skin feels like it's crawling
-fentanyl-effect-rushing = Everything is moving so fast...
-fentanyl-effect-giddy = You almost start laughing
-fentanyl-effect-skinworms = They're under my skin, they're crawling through my bones!
-fentanyl-effect-breathingrazors = You feel a sharp pain in your lungs
-fentanyl-effect-lungstight = Your lungs refuse to inhale
-fentanyl-effect-observed = They're all staring right at you
+fentanyl-effect-lostsomething = Где он?
+fentanyl-effect-fakepresence = Вы чувствуете, что кто-то заглядывает вам через плечо
+fentanyl-effect-skincrawl = Такое чувство, будто по коже кто-то ползает
+fentanyl-effect-rushing = Всё движется так быстро...
+fentanyl-effect-giddy = Вы едва не начинаете смеяться
+fentanyl-effect-skinworms = Они под моей кожей, они ползут сквозь мои кости!
+fentanyl-effect-breathingrazors = Вы чувствуете резкую боль в лёгких
+fentanyl-effect-lungstight = Ваши лёгкие отказываются вдыхать
+fentanyl-effect-observed = Они все смотрят прямо на вас

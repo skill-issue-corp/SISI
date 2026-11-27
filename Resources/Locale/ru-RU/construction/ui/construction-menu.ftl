@@ -8,12 +8,12 @@
 
 ## ConstructionMenu.xaml.cs
 
-construction-menu-title = Construction
-construction-menu-place-ghost = Place construction ghost
-construction-menu-clear-all = Clear All
-construction-menu-eraser-mode = Eraser Mode
-construction-menu-craft = Craft
-construction-menu-search = Search
-construction-menu-grid-view = Grid View
-construction-menu-history-select-previous-recipe = ◄ Back
-construction-menu-history-select-next-recipe = Next ►
+construction-menu-title = Строительство
+construction-menu-place-ghost = Разместить контур постройки
+construction-menu-clear-all = Очистить Всё
+construction-menu-eraser-mode = Режим Ластика
+construction-menu-craft = Изготовить
+construction-menu-search = Поиск
+construction-menu-grid-view = Вид Сеткой
+construction-menu-history-select-previous-recipe = ◄ Назад
+construction-menu-history-select-next-recipe = Далее ►

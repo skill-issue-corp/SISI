@@ -1,56 +1,56 @@
 ent-BaseAreaCommand = { ent-BaseAreaStation }
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaBridge = bridge
+ent-AreaBridge = мостик
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaBridgeHall = bridge hall
+ent-AreaBridgeHall = коридор мостика
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaCommand = command
+ent-AreaCommand = командный отдел
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaCommandMeetingRoom = command meeting room
+ent-AreaCommandMeetingRoom = зал совещаний командования
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaCommandGateway = command gateway
+ent-AreaCommandGateway = шлюз командного отдела
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaCommandShowroom = command showroom
+ent-AreaCommandShowroom = выставочный зал командного отдела
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaCommandTeleporter = command teleporter
+ent-AreaCommandTeleporter = телепорт командного отдела
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaEvaRoom = eva room
+ent-AreaEvaRoom = отсек EVA
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaVault = vault
+ent-AreaVault = хранилище
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaNukeStorage = nuke storage
+ent-AreaNukeStorage = хранилище ядерной бомбы
     .desc = { ent-AreaVault.desc }
 
-ent-AreaCapQuarters = cap quarters
+ent-AreaCapQuarters = каюта кэпа
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaOfficeCE = CE office
+ent-AreaOfficeCE = кабинет СИ
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaOfficeCmo = CMO office
+ent-AreaOfficeCmo = кабинет ГВ
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaOfficeHop = HOP
+ent-AreaOfficeHop = ГП
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaOfficeHos = HOS office
+ent-AreaOfficeHos = кабинет ГСБ
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaOfficeNtr = NTR office
+ent-AreaOfficeNtr = кабинет представителя NanoTrasen
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaOfficeRd = RD office
+ent-AreaOfficeRd = кабинет НР
     .desc = { ent-BaseAreaCommand.desc }
 
-ent-AreaOfficeQm = QM office
+ent-AreaOfficeQm = кабинет КМ
     .desc = { ent-BaseAreaCommand.desc }

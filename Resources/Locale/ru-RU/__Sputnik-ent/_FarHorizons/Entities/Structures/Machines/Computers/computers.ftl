@@ -1,5 +1,5 @@
-ent-NuclearReactorMonitor = nuclear reactor monitor
-    .desc = A device that monitors the state of a connected nuclear reactor.
+ent-NuclearReactorMonitor = монитор ядерного реактора
+    .desc = Устройство для наблюдения за состоянием подключённого ядерного реактора.
 
-ent-GasTurbineMonitor = gas turbine monitor
-    .desc = A device that monitors the state of a connected gas turbine.
+ent-GasTurbineMonitor = монитор газовой турбины
+    .desc = Устройство для наблюдения за состоянием подключённой газовой турбины.

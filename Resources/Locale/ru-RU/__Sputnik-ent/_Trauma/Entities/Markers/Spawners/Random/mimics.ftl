@@ -1,20 +1,20 @@
-ent-SpawnLootToolboxMimic = toolbox mimic loot spawner
+ent-SpawnLootToolboxMimic = точка спавна добычи мимика ящика для инструментов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnLootVendorMimic = vendor mimic loot spawner
+ent-SpawnLootVendorMimic = точка спавна добычи мимика торгового автомата
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnLootLockerMimic = locker mimic loot spawner
+ent-SpawnLootLockerMimic = точка спавна добычи мимика шкафа
     .desc = { ent-MarkerBase.desc }
 
-ent-RandomVendingDrinksMimic = random vending machine spawner
+ent-RandomVendingDrinksMimic = точка спавна случайного торгового автомата
     .desc = { ent-MarkerBase.desc }
-    .suffix = Drinks_Mimic
+    .suffix = Напитки_Мимик
 
-ent-RandomVendingSnacksMimic = random vending machine spawner
+ent-RandomVendingSnacksMimic = точка спавна случайного торгового автомата
     .desc = { ent-MarkerBase.desc }
-    .suffix = Snacks_Mimic
+    .suffix = Закуски_Мимик
 
-ent-RandomVendingAnyMimic = random vending machine spawner
+ent-RandomVendingAnyMimic = точка спавна случайного торгового автомата
     .desc = { ent-MarkerBase.desc }
-    .suffix = Any_Mimic
+    .suffix = Любой_Мимик

@@ -1,2 +1,2 @@
 ent-DiseaseFoxDie = FOXDIE
-    .desc = A genetically engineered retrovirus, designed to kill based on the target's DNA.
+    .desc = Генно-модифицированный ретровирус, созданный для убийства цели по её ДНК.

@@ -1,7 +1,7 @@
-ent-CratePirateChestCaptain = captains pirate chest
+ent-CratePirateChestCaptain = пиратский сундук капитана
     .desc = { ent-CratePirate.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-CratePirateChest = crews pirate chest
+ent-CratePirateChest = пиратский сундук команды
     .desc = { ent-CratePirate.desc }
-    .suffix = Filled
+    .suffix = Заполнено

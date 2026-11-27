@@ -1,310 +1,310 @@
 # Surplus Voidsuits
 
-uplink-hardsuit-syndiemedic-name = Gorlex Agent Hardsuit
-uplink-hardsuit-syndiemedic-desc = A bundle with a surplus combat medic hardsuit, straight from the sets of Gorlex Entertainment!
+uplink-hardsuit-syndiemedic-name = Скафандр Агента «Горлекс»
+uplink-hardsuit-syndiemedic-desc = Комплект с излишками скафандра боевого медика, прямо со съёмочной площадки «Горлекс Энтертейнмент»!
 
-uplink-hardsuit-syndiecommander-name = Gorlex Commander Hardsuit
-uplink-hardsuit-syndiecommander-desc = A Commander Hardsuit from Gorlex Entertainment, this luxury suit will make you stand out like the true villain you are! Does not come in a bag. No refunds.
+uplink-hardsuit-syndiecommander-name = Скафандр Командира «Горлекс»
+uplink-hardsuit-syndiecommander-desc = Скафандр Командира от «Горлекс Энтертейнмент». В этом роскошном скафандре вы будете выделяться, как и подобает настоящему злодею! Без сумки. Возврата нет.
 
 # Cybersun Stealth
 
-uplink-hardsuit-cybersun-stealth-name = Cybersun Stealth Hardsuit
-uplink-hardsuit-cybersun-stealth-desc = Reverse-engineered from World Prosperity Sphere technology, this hardsuit has stealth plating in it to remain undetected. Slightly slower and less armored than other hardsuits.
+uplink-hardsuit-cybersun-stealth-name = Маскировочный Скафандр «Киберсан»
+uplink-hardsuit-cybersun-stealth-desc = Создан путём обратной разработки технологий Сферы Мирового Процветания. Скрытное покрытие помогает оставаться незамеченным. Немного медленнее и хуже бронирован, чем другие скафандры.
 
 # Cybersun Dreadnought suit
-uplink-hardsuit-cybersun-dreadnought-name = Cybersun Dreadnought suit
-uplink-hardsuit-cybersun-dreadnought-desc = An insanely tough combat hardsuit utilizing hyper-bluespace enhanced plasteel to make an almost impenetrable wall out of the wearer. However, only the absolutely insane syndicate followers will put this on. Because of its weight, it must be tightened very hard, to the point of impaling the user and being unable to be taken off without completely ripping off their skin. The syndicate sends their regards.
+uplink-hardsuit-cybersun-dreadnought-name = Скафандр «Дредноут» от «Киберсан»
+uplink-hardsuit-cybersun-dreadnought-desc = Невероятно прочный боевой скафандр из усиленного гиперблюспейсом пластали, превращающий владельца в почти непробиваемую стену. Но надеть его решатся лишь совершенно безумные сторонники синдиката. Из-за большого веса крепления затягиваются так сильно, что пронзают тело. Снять его можно лишь вместе с кожей. Синдикат передаёт привет.
 
 # Misc
 
-uplink-gondola-name = Gondola Crate
-uplink-gondola-desc = Crate containing one standard issue gondola.
+uplink-gondola-name = Ящик с Гондолой
+uplink-gondola-desc = Содержит одну гондолу стандартного образца.
 
-uplink-operative-radio-name = Nuclear Operative Teleporter
-uplink-operative-radio-desc = Radio in a nuclear operative of extremely questionable quality. No off button, buy this if you're ready to party. They have basic nuclear operative gear.
+uplink-operative-radio-name = Телепортатор Ядерного Оперативника
+uplink-operative-radio-desc = Вызовите по рации ядерного оперативника крайне сомнительного качества. Кнопки отмены нет, так что покупайте, если готовы к веселью. Снаряжение у оперативника базовое.
 
-uplink-mobroach-microbomb-name = SyndiRoach Teleporter
-uplink-mobroach-microbomb-desc = Call in a handy mothroach equipped with a microbomb implant. Explodes when seriously injured.
+uplink-mobroach-microbomb-name = Телепортатор Синдимоли
+uplink-mobroach-microbomb-desc = Вызовите полезную таракамоль с имплантом микробомбы. При серьёзном ранении взрывается.
 
-uplink-signaller-name = Advanced Remote Signaller
-uplink-signaller-desc = A device that can trigger signals at any distance. You can link items with a multitool or network configurator.
+uplink-signaller-name = Продвинутый Дистанционный Передатчик
+uplink-signaller-desc = Устройство, отправляющее сигналы на любое расстояние. Предметы можно связать мультитулом или сетевым конфигуратором.
 
 # bang bang pew pew eat it up i gota go
 
-uplink-hardlight-bow-name = Hardlight Bow
-uplink-hardlight-bow-desc = A modern bow that can fabricate hardlight arrows, designed for silent takedowns of targets. Has 7 different firing modes. Can be folded.
+uplink-hardlight-bow-name = Лук Твёрдого Света
+uplink-hardlight-bow-desc = Современный лук, создающий стрелы из твёрдого света для бесшумного устранения целей. У него 7 режимов стрельбы. Складывается.
 
 # Job-specific
 
-uplink-pie-cannon-name = Regenerating Pie Cannon
-uplink-pie-cannon-desc = A pie cannon that automatically regenerates pies, one every ten seconds.
+uplink-pie-cannon-name = Самозарядная Пироговая Пушка
+uplink-pie-cannon-desc = Пироговая пушка, которая сама создаёт новый пирог раз в десять секунд.
 
-uplink-beenade-name = Beenade
-uplink-beenade-desc = A non-explosive grenade full of... bees?! NOT THE BEES!!!
+uplink-beenade-name = Пчелограната
+uplink-beenade-desc = Невзрывная граната, полная... пчёл?! ТОЛЬКО НЕ ПЧЁЛЫ!!!
 
-uplink-dart-gun-name = Dart Gun
-uplink-dart-gun-desc = This gun applies inside chemicals to its regenerating dart supply, allowing to distantly heal allies or to commit war crimes by poisoning foes.
+uplink-dart-gun-name = Дротикомёт
+uplink-dart-gun-desc = Заряжает самовосстанавливающиеся дротики химикатами из резервуара. Можно лечить союзников на расстоянии или совершать военные преступления, отравляя противников.
 
-uplink-his-grace-name = His Grace
-uplink-his-grace-desc = An otherworldly entity trapping in a toolbox. Grows in power for every kill, but will consume you if not fed. Activate in-hand to bind yourself.
+uplink-his-grace-name = Его Милость
+uplink-his-grace-desc = Потустороннее существо, заточённое в ящике с инструментами. С каждым убийством крепнет, а если не кормить, сожрёт вас. Активируйте в руке, чтобы связать себя с ним.
 
-uplink-magazine-nailgun-name = Nail Gun Magazine (AP)
-uplink-magazine-nailgun-desc = Almost like a normal magazine for your nail gun. The only difference is that this one is armor-piercing.
+uplink-magazine-nailgun-name = Магазин для Гвоздомёта (Бронебойный)
+uplink-magazine-nailgun-desc = Почти обычный магазин для вашего гвоздомёта. Единственное отличие — он бронебойный.
 
-uplink-pressure-modkit-name = Pressure Modkit
-uplink-pressure-modkit-desc = This illegal modkit takes 30 capacity of your proto-kinetic accelerator and overclocks it to deal full damage even in unsuitable pressure.
+uplink-pressure-modkit-name = Модкит для Работы под Давлением
+uplink-pressure-modkit-desc = Этот нелегальный модкит занимает 30 единиц ёмкости протокинетического ускорителя и разгоняет его, чтобы он наносил полный урон даже при неподходящем давлении.
 
-uplink-grey-tide-name = Grey Tide
-uplink-grey-tide-desc = An ancient artifact with magical properties. Identical to glass-phoron spear but capable of summoning illusions upon hitting living mob if wielder is an Assistant.
+uplink-grey-tide-name = Грейтайд
+uplink-grey-tide-desc = Древний артефакт с магическими свойствами. Не отличается от копья из форонового стекла, но вызывает иллюзии при попадании по живому существу, если владелец — Ассистент.
 
-uplink-adv-mimery-name = Guide to Advanced Mimery Series
-uplink-adv-mimery-desc = The classical two part series on how to further hone your mime skills. Upon studying the series, the user should be able to make 3x1 invisible walls, and shoot bullets out of their fingers.
+uplink-adv-mimery-name = Серия «Руководство по Продвинутой Пантомиме»
+uplink-adv-mimery-desc = Классическая серия из двух частей о том, как совершенствовать ремесло мима. После изучения вы сможете создавать невидимые стены 3x1 и стрелять пулями из пальцев.
 
 # Weapons
 
-uplink-contractor-baton-name = Contractor Baton
-uplink-contractor-baton-desc = A compact, specialised baton assigned to Syndicate contractors. Applies light electrical shocks to targets. These shocks are capable of affecting the inner circuitry of most robots as well, applying a short stun.
+uplink-contractor-baton-name = Дубинка Наёмника Синдиката
+uplink-contractor-baton-desc = Компактная специальная дубинка, которую выдают наёмникам Синдиката. Бьёт цель лёгкими электрическими разрядами. Разряды действуют и на схемы большинства роботов, ненадолго оглушая их.
 
-uplink-weapon-burner-name = Burner Heavy Rifle
-uplink-weapon-burner-desc = The Burner Heavy Rifle, an excellent breaching and suppression weapon.
+uplink-weapon-burner-name = Тяжёлая Винтовка Burner
+uplink-weapon-burner-desc = Тяжёлая Винтовка Burner — отличное оружие для прорыва и подавления.
 
-uplink-weapon-heavy-shotgun-name = NZ CSG-242 Heavy Shotgun
-uplink-weapon-heavy-shotgun-desc = Merciless heavy explosive weapon. The recoil when firing it is so extreme that it can knock you off your feet.
+uplink-weapon-heavy-shotgun-name = Тяжёлый Дробовик NZ CSG-242
+uplink-weapon-heavy-shotgun-desc = Беспощадное тяжёлое оружие со взрывными боеприпасами. Отдача при выстреле так сильна, что может сбить вас с ног.
 
 uplink-l6-saw-name = L6 Saw
-uplink-l6-saw-desc = More dakka: The iconic L6 light machine gun.
+uplink-l6-saw-desc = Больше дакки: легендарный ручной пулемёт L6.
 
 uplink-m90-name = M-90
-uplink-m90-desc = An M-90 combat rifle.
+uplink-m90-desc = Боевая винтовка M-90.
 
-uplink-syndicate-disabler-name = Syndicate Disabler
-uplink-syndicate-disabler-desc = An advanced disabler built from a reverse-engineered Nanotrasen prototype. While it lacks a bit of stopping power, it makes up for it with a recharging cell.
+uplink-syndicate-disabler-name = Дизейблер Синдиката
+uplink-syndicate-disabler-desc = Продвинутый дизейблер, собранный путём обратной разработки прототипа NanoTrasen. Уступает в останавливающей силе, но компенсирует это самозарядной батареей.
 
-uplink-dualetta-bundle-name = Dualetta Bundle
-uplink-dualetta-bundle-desc = Comes with 2 Dualetta pistols, 2 machine pistol magazines, combat gloves, noir suit, detectives trenchcoat, and laceup shoes.
+uplink-dualetta-bundle-name = Комплект Dualetta
+uplink-dualetta-bundle-desc = В комплекте 2 пистолета Dualetta, 2 магазина для автоматического пистолета, боевые перчатки, костюм в стиле нуар, плащ детектива и ботинки на шнуровке.
 
 uplink-anaconda-name = Anaconda
-uplink-anaconda-desc = The pride of the Cybersun arms concern, this heavy pistol is designed to feed itself with the built-in fabricator.
+uplink-anaconda-desc = Гордость оружейного концерна «Киберсан». Этот тяжёлый пистолет сам производит боеприпасы во встроенном фабрикаторе.
 
-uplink-bulk-mosin-name = Syndicate bulk rifle crate
-uplink-bulk-mosin-desc = 10 WW4-era rifles to arm you, your friends, and your cat. Saves 40% on shipping costs by buying in bulk.
+uplink-bulk-mosin-name = Ящик с оптовой партией винтовок Синдиката
+uplink-bulk-mosin-desc = 10 винтовок времён 4-й мировой, чтобы вооружить вас, ваших друзей и вашего кота. Оптовая покупка экономит 40% на доставке.
 
-uplink-whimsy-bundle-name = Syndicate Joy & Whimsy Bundle
-uplink-whimsy-bundle-desc = Do YOU like spreading joy & whimsy? Well, Donk Co. has the solution for you! Contains a LIMITED EDITION axe and enough candy to kill a man.
+uplink-whimsy-bundle-name = Комплект Радости и Веселья Синдиката
+uplink-whimsy-bundle-desc = А ВЫ любите дарить радость и творить чудеса? У «Донк Ко.» есть решение! Внутри топор ОГРАНИЧЕННОЙ СЕРИИ и столько сладостей, что ими можно убить человека.
 
-uplink-m7s-name = M7S "Ventilator"
-uplink-m7s-desc = The spread of this submachine gun gets tighter the longer you suppress your foes with it. The gunshots are suppressed too. Pretty convenient.
+uplink-m7s-name = M7S «Ventilator»
+uplink-m7s-desc = Чем дольше вы подавляете врагов огнём из этого пистолета-пулемёта, тем меньше разброс. Звук выстрелов тоже подавлен. Удобно.
 
-uplink-combat-shotgun-name = 'Bojevic' Combat shotgun
-uplink-combat-shotgun-desc = A beefy pump-action shotgun chambered in 8 gauge, with a 5 round magazine tube.
+uplink-combat-shotgun-name = Боевой дробовик Bojevic'
+uplink-combat-shotgun-desc = Мощный помповый дробовик 8 калибра с трубчатым магазином на 5 патронов.
 
-uplink-he1sg8-bundle-name = HE1S-G8 Bundle
-uplink-he1sg8-bundle-desc = High Energy One-Shell rifle bundle. Comes with 10 demolishing and 9 hypercharged Gauss-8 cartridges for some extra funny.
+uplink-he1sg8-bundle-name = Комплект HE1S-G8
+uplink-he1sg8-bundle-desc = Комплект одноразрядной высокоэнергетической винтовки. Внутри 10 пробивных и 9 гиперзаряженных патронов «Гаусс-8» для особого веселья.
 
 # Ammo
 
-uplink-blast-grenade-name = Blast Grenade (40mm)
-uplink-blast-grenade-desc = Higher damage, smaller radius. Compatible with the China-Lake.
+uplink-blast-grenade-name = Фугасная Граната (40 мм)
+uplink-blast-grenade-desc = Больше урона, меньше радиус. Подходит для China Lake.
 
-uplink-frag-grenade-name = Frag Grenade (40mm)
-uplink-frag-grenade-desc = Lower damage, bigger radius. Compatible with the China-Lake.
+uplink-frag-grenade-name = Осколочная Граната (40 мм)
+uplink-frag-grenade-desc = Меньше урона, больше радиус. Подходит для China Lake.
 
-uplink-mpapers-grenade-name = MP-APERS Shell (40mm)
-uplink-mpapers-grenade-desc = Fires out 20 small pellets to turn your grenade launcher into a shotgun. Compatible with the China-Lake.
+uplink-mpapers-grenade-name = Картечный Снаряд MP-APERS (40 мм)
+uplink-mpapers-grenade-desc = Выпускает 20 мелких дробин, превращая гранатомёт в дробовик. Подходит для China Lake.
 
-uplink-l6-box-name = Magazine Box (.30 rifle)
-uplink-l6-box-desc = Magazine box with 100 catridges. Compatible with the L6 SAW.
+uplink-l6-box-name = Магазинная Коробка (.30 винтовочный)
+uplink-l6-box-desc = Магазинная коробка на 100 патронов. Подходит для L6 SAW.
 
-uplink-shotgun-magazine-name = Shotgun Drum (12 gauge pellet)
-uplink-shotgun-magazine-desc = Shotgun drum with 8 pellet shells. Compatible with the Bulldog.
+uplink-shotgun-magazine-name = Барабан для Дробовика (12 калибр, дробь)
+uplink-shotgun-magazine-desc = Барабан для дробовика с 8 дробовыми патронами. Подходит для Bulldog.
 
-uplink-shotgun-magazine-slug-name = Shotgun Drum (12 gauge slug)
-uplink-shotgun-magazine-slug-desc = Shotgun drum with 8 slug shells. Compatible with the Bulldog.
+uplink-shotgun-magazine-slug-name = Барабан для Дробовика (12 калибр, пуля)
+uplink-shotgun-magazine-slug-desc = Барабан для дробовика с 8 пулевыми патронами. Подходит для Bulldog.
 
-uplink-high-caliber-magazine-name = Rifle Magazine (.50 anti-materiel)
-uplink-high-caliber-magazine-desc = Heavy rifle magazine with 15 cartridges. Compatible with the Burner.
+uplink-high-caliber-magazine-name = Винтовочный Магазин (.50 антиматериальный)
+uplink-high-caliber-magazine-desc = Магазин тяжёлой винтовки на 15 патронов. Подходит для Burner.
 
-uplink-high-caliber-explosive-magazine-name = Rifle Magazine (.50 HEI)
-uplink-high-caliber-explosive-magazine-desc = Heavy rifle magazine with 15 High Explosive Incendiary cartridges. Compatible with the Burner.
+uplink-high-caliber-explosive-magazine-name = Винтовочный Магазин (.50 ОФЗ)
+uplink-high-caliber-explosive-magazine-desc = Магазин тяжёлой винтовки на 15 Осколочно-Фугасно-Зажигательных патронов. Подходит для Burner.
 
-uplink-high-caliber-box-name = .50 Ammo box
-uplink-high-caliber-box-desc = A box of 30 .50 caliber anti-materiel rounds.
+uplink-high-caliber-box-name = Коробка Патронов .50
+uplink-high-caliber-box-desc = Коробка на 30 антиматериальных патронов калибра .50.
 
-uplink-highcap-pistol-mag-name = High Capacity Pistol Magazine (.35 auto)
-uplink-highcap-pistol-mag-desc = High capacity pistol magazine holds 4 extra bullets for a total of 16 rounds.
+uplink-highcap-pistol-mag-name = Увеличенный Пистолетный Магазин (.35 авто)
+uplink-highcap-pistol-mag-desc = Увеличенный магазин вмещает 4 дополнительных патрона — всего 16.
 
-uplink-heavy-shotgun-magazine-name = Heavy Shotgun Drum (2 gauge HE pellet)
-uplink-heavy-shotgun-magazine-desc = Shotgun magazine with 15 high-explosive pellet shells. Compatible with the NZ CSG-242.
+uplink-heavy-shotgun-magazine-name = Барабан для Тяжёлого Дробовика (2 калибр, ОФ дробь)
+uplink-heavy-shotgun-magazine-desc = Магазин для дробовика с 15 фугасными дробовыми патронами. Подходит для NZ CSG-242.
 
-uplink-heavy-shotgun-magazine-slug-name = Heavy Shotgun Drum (2 gauge HE slug)
-uplink-heavy-shotgun-magazine-slug-desc = Shotgun magazine with 15 high-eplosive shrapnel slug shells. Compatible with the NZ CSG-242.
+uplink-heavy-shotgun-magazine-slug-name = Барабан для Тяжёлого Дробовика (2 калибр, ОФ пуля)
+uplink-heavy-shotgun-magazine-slug-desc = Магазин для дробовика с 15 осколочно-фугасными пулевыми патронами. Подходит для NZ CSG-242.
 
-uplink-m7s-mag-name = Side-mounted SMG Magazine (5x23mm)
-uplink-m7s-mag-desc = A 48 round 5x23mm rifle magazine. Compatible with M7S.
+uplink-m7s-mag-name = Боковой Магазин для ПП (5x23 мм)
+uplink-m7s-mag-desc = Винтовочный магазин на 48 патронов 5x23 мм. Подходит для M7S.
 
-uplink-cartridge-G8-demolishing-name = G8 demolishing cartridge
-uplink-cartridge-G8-demolishing-desc = This cartridge shots "The Spear of Ares" bullet, demolishing whole lines of walls, dealing massive stamina damage to people and overcharging energy vortexes. Used by HE1S-G8.
+uplink-cartridge-G8-demolishing-name = пробивной патрон G8
+uplink-cartridge-G8-demolishing-desc = Этот патрон выпускает пулю «Копьё Ареса», которая сносит целые ряды стен, сильно истощает выносливость людей и перегружает энергетические вихри. Используется в HE1S-G8.
 
-uplink-cartridge-G8-hypercharged-name = G8 hypercharged cartridge
-uplink-cartridge-G8-hypercharged-desc = This cartridge shots "The Bolt of Zeus" bullet, shocking everyone on its way and creating an energy vortex at its destination point, that creates a massive explosion on overcharge. Used by HE1S-G8.
+uplink-cartridge-G8-hypercharged-name = гиперзаряженный патрон G8
+uplink-cartridge-G8-hypercharged-desc = Этот патрон выпускает пулю «Молния Зевса». Она бьёт током всех на своём пути и создаёт в точке попадания энергетический вихрь, который при перегрузке мощно взрывается. Используется в HE1S-G8.
 
-uplink-high-caliber-shotgun-box-name = 8 Gauge shell box
-uplink-high-caliber-shotgun-box-desc = 16 shells of 8 Gauge shells, for the combat shotgun.
+uplink-high-caliber-shotgun-box-name = Коробка дробовых патронов 8 Калибра
+uplink-high-caliber-shotgun-box-desc = 16 дробовых патронов 8 Калибра для боевого дробовика.
 
-uplink-high-caliber-shotgun-box-slug-name = 8 Gauge slug box
-uplink-high-caliber-shotgun-box-slug-desc = 16 shells of 8 Gauge slugs, for the combat shotgun.
+uplink-high-caliber-shotgun-box-slug-name = Коробка пулевых патронов 8 Калибра
+uplink-high-caliber-shotgun-box-slug-desc = 16 пулевых патронов 8 Калибра для боевого дробовика.
 
-uplink-high-caliber-shotgun-box-flash-slug-name = 8 Gauge flash shell box
-uplink-high-caliber-shotgun-box-flash-slug-desc = 16 shells of 8 Gauge flashbang shells, for the combat shotgun. Doesn't down those with flash protection.
+uplink-high-caliber-shotgun-box-flash-slug-name = Коробка светошумовых патронов 8 Калибра
+uplink-high-caliber-shotgun-box-flash-slug-desc = 16 светошумовых патронов 8 Калибра для боевого дробовика. Не сбивают с ног тех, кто защищён от вспышек.
 
-uplink-high-caliber-shotgun-box-sarin-name = 8 Gauge sarin gas shell box
-uplink-high-caliber-shotgun-box-sarin-desc = 16 shells of 8 Gauge sarin shells for the combat shotgun, which release a small plus-shaped cloud of sarin gas.
+uplink-high-caliber-shotgun-box-sarin-name = Коробка патронов 8 Калибра с зарином
+uplink-high-caliber-shotgun-box-sarin-desc = 16 патронов 8 Калибра с зарином для боевого дробовика. При попадании выпускают небольшое крестообразное облако зарина.
 
 # Grenades
 
-uplink-sarin-gas-grenade-name = Sarin Gas Grenade
-uplink-sarin-gas-grenade-desc = A brutal neurotoxin gas that stuns, blinds, and poisons anybody unlucky enough to catch a whiff as well as burning anyone not in a voidsuit, leaving them writhing on the floor begging to be finished off.
+uplink-sarin-gas-grenade-name = Газовая Граната с Зарином
+uplink-sarin-gas-grenade-desc = Сильный газообразный нейротоксин, который оглушает, ослепляет и отравляет всякого, кому не повезло его вдохнуть. Тем, кто без скафандра, он обжигает кожу. Жертвы корчатся на полу и молят их добить.
 
-uplink-M172LAW-name = M172 Light Anti-Structure Weapon
-uplink-M172LAW-desc = A single shot disposable rocket launcher for taking out singular walls/machines with minimal collateral damage. can be stored in your backpack conveniently.
+uplink-M172LAW-name = Лёгкий Гранатомёт для Разрушения Конструкций M172
+uplink-M172LAW-desc = Одноразовый гранатомёт на один выстрел. Разрушает отдельные стены и машины с минимальным побочным уроном. удобно помещается в рюкзак.
 
-uplink-RPOA-name = RPO-A 'Shmel'
-uplink-RPOA-desc = A single shot disposable thermobaric rocket launcher, which lights hostiles and hostages on fire in a wide radius. can be stored in your backpack.
+uplink-RPOA-name = RPO-A «Shmel»
+uplink-RPOA-desc = Одноразовый термобарический гранатомёт на один выстрел. Поджигает врагов и заложников в большом радиусе. помещается в рюкзак.
 
-uplink-ExplosivePayloadBlueprint-name = Explosive Payload Blueprint
-uplink-ExplosivePayloadBlueprint-desc = A blueprint that will allow a single lathe to print explosive payloads, an illegal and dangerous device that can be used in grenades.
+uplink-ExplosivePayloadBlueprint-name = Чертёж Взрывного Заряда
+uplink-ExplosivePayloadBlueprint-desc = Чертёж, позволяющий одному лату печатать взрывные заряды — опасные нелегальные устройства для установки в гранаты.
 
 # Mechs
 
-uplink-mech-teleporter-heavy-name = Heavy Mech Teleporter
-uplink-mech-teleporter-heavy-desc = Contains a heavily armored Cybersun mech with an integrated chainsword, Ultra AC-2, LBX AC 10 "Scattershot", BRM-6 Missile Rack and P-X Tesla Cannon.
+uplink-mech-teleporter-heavy-name = Телепортатор Тяжёлого Меха
+uplink-mech-teleporter-heavy-desc = Содержит тяжело бронированный мех «Киберсан» со встроенным цепным мечом, Ultra AC-2, LBX AC 10 «Scattershot», Ракетной Установкой BRM-6 и пушкой Теслы P-X.
 
-uplink-mech-teleporter-assault-name = Assault Mech Teleporter
-uplink-mech-teleporter-assault-desc = Contains a lightly armored Cybersun mech with an integrated chainsword, LBX AC 10 "Scattershot", SRM-8 Light Missile Rack and P-X Tesla Cannon.
+uplink-mech-teleporter-assault-name = Телепортатор Штурмового Меха
+uplink-mech-teleporter-assault-desc = Содержит легкобронированный мех «Киберсан» со встроенным цепным мечом, LBX AC 10 «Scattershot», лёгкой Ракетной Установкой SRM-8 и пушкой Теслы P-X.
 
 # Chemicals
 
-uplink-lollypop-bundle-name = Donk Co. Lollypop Box
-uplink-lollypop-bundle-desc = Contains 9 completely random lollypops. What could they contain?
+uplink-lollypop-bundle-name = Коробка Леденцов «Донк Ко.»
+uplink-lollypop-bundle-desc = Содержит 9 совершенно случайных леденцов. Что же у них внутри?
 
-uplink-lollypop-bundle-big-name = Donk Co. Candy Bundle
-uplink-lollypop-bundle-big-desc = Contains an ungodly amount of candy. What could they contain?
+uplink-lollypop-bundle-big-name = Набор Сладостей «Донк Ко.»
+uplink-lollypop-bundle-big-desc = Внутри немыслимое количество сладостей. Что же у них внутри?
 
-uplink-medical-beam-gun-name = Medical Beam Gun
-uplink-medical-beam-gun-desc = Heal your teammates with this new device! Runs on internal battery, and automatically recharges after discharging. You can heal only one teammate at once.
+uplink-medical-beam-gun-name = Медицинская Лучевая Пушка
+uplink-medical-beam-gun-desc = Лечите товарищей этим новым устройством! Работает от внутренней батареи и автоматически перезаряжается после разрядки. Одновременно можно лечить только одного товарища.
 
-uplink-advanced-combat-medipen-name = Advanced Combat Medipen
-uplink-advanced-combat-medipen-desc = An advanced single-use medipen containing chemicals that will rapidly heal most types of damage taken in a fight.
+uplink-advanced-combat-medipen-name = Продвинутый Боевой Медипен
+uplink-advanced-combat-medipen-desc = Продвинутый одноразовый медипен с химикатами, которые быстро исцеляют большинство боевых повреждений.
 
-uplink-syringe-pistol-name = Syringe Pistol
-uplink-syringe-pistol-desc = A gun that takes syringes as ammunition, and injects their contents to its victims. Injects faster than normal syringe guns and can fit in pockets.
+uplink-syringe-pistol-name = Шприцевой Пистолет
+uplink-syringe-pistol-desc = Оружие, стреляющее шприцами и впрыскивающее их содержимое в цели. Вводит реагенты быстрее обычного шприцемёта и помещается в карман.
 
-uplink-combat-medkit-pills-name = Combat Medical Kit (Pills)
-uplink-combat-medkit-pills-desc = Contains most medicines you need to recover from injuries and illnesses, all in a convenient pill form.
+uplink-combat-medkit-pills-name = Боевая Аптечка (Таблетки)
+uplink-combat-medkit-pills-desc = Содержит большинство лекарств, нужных для лечения травм и болезней. Всё в удобной форме таблеток.
 
-uplink-combat-medkit-ipc-name = Combat Medical Kit (IPC)
-uplink-combat-medkit-ipc-desc = Contains everything you need to heal an IPC; includes LV wire, industrial welder, a high capacity cell and meson goggles.
+uplink-combat-medkit-ipc-name = Боевая Аптечка (КПБ)
+uplink-combat-medkit-ipc-desc = Содержит всё для ремонта КПБ: НВ-кабель, промышленный сварочный аппарат, батарею высокой ёмкости и мезонные очки.
 
 # Implants
 
-uplink-smoke-implant-name = Smoke Implant
-uplink-smoke-implant-desc = Releases a cloud of smoke when activated.
+uplink-smoke-implant-name = Дымовой Имплант
+uplink-smoke-implant-desc = При активации выпускает облако дыма.
 
-uplink-nutriment-implant-name = Nutriment Pump Implant
-uplink-nutriment-implant-desc = Removes the users need to consume food and/or drinks.
+uplink-nutriment-implant-name = Имплант Подачи Питательных Веществ
+uplink-nutriment-implant-desc = Устраняет потребность пользователя в еде и/или питье.
 
-uplink-krav-maga-implant-name = Krav Maga Implanter
-uplink-krav-maga-implant-desc = Allows the user to perform various Krav Maga moves.
+uplink-krav-maga-implant-name = Имплантер Крав-Мага
+uplink-krav-maga-implant-desc = Позволяет пользователю выполнять различные приёмы Крав-Мага.
 
-uplink-binary-implant-name = Binary Decoder Implanter
-uplink-binary-implant-desc = Lets the user tap into the silicons' binary channel. Talking on it is ill-advised though, at least until the AI goes malf.
+uplink-binary-implant-name = Имплантер Двоичного Декодера
+uplink-binary-implant-desc = Даёт доступ к двоичному каналу синтетиков. Говорить в нём не стоит, по крайней мере пока ИИ не взбунтуется.
 
-uplink-autosurgeon-right-mantis-blade-name = Right Mantis Blade Autosurgeon
-uplink-autosurgeon-left-mantis-blade-name = Left Mantis Blade Autosurgeon
-uplink-autosurgeon-mantis-blade-desc = Modifies the user's arm to include the Mantis Blade cyberware extending from it at will, works best when paired. Requires too much fine tuning for a human to provide, comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-right-mantis-blade-name = Автохирург Правого Клинка Богомола
+uplink-autosurgeon-left-mantis-blade-name = Автохирург Левого Клинка Богомола
+uplink-autosurgeon-mantis-blade-desc = Встраивает в руку пользователя киберимплант «Клинок Богомола», который можно выдвигать по желанию. Лучше всего работают в паре. Требуется настройка, слишком тонкая для человека, поэтому для установки прилагается одноразовый автохирург.
 
-uplink-autosurgeon-sandevistan-name = Sandevistan Autosurgeon
-uplink-autosurgeon-sandevistan-desc = Replaces the user's heart with Sandevistan, a synthetic organ that drastically increases the user's speed at the cost of their endurance. Requires too much fine tuning for a human to provide, comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-sandevistan-name = Автохирург «Сандевистан»
+uplink-autosurgeon-sandevistan-desc = Заменяет сердце пользователя «Сандевистаном» — синтетическим органом, который резко увеличивает скорость ценой выносливости. Требуется настройка, слишком тонкая для человека, поэтому для установки прилагается одноразовый автохирург.
 
-uplink-davids-jacket-name = Edgerunner Jacket
-uplink-davids-jacket-desc = A jacket for those particularly interested in improving their bodies, just like you.
+uplink-davids-jacket-name = Куртка Киберпанка
+uplink-davids-jacket-desc = Куртка для тех, кто особенно увлечён улучшением своего тела. Для таких, как вы.
 
-uplink-autosurgeon-smartlink-name = Smartlink Autosurgeon
-uplink-autosurgeon-smartlink-desc = Modifies the user's arms to include smartlink cyberware, improving aim with ranged weapons. Requires too much fine tuning for a human to provide, comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-smartlink-name = Автохирург «Смартлинк»
+uplink-autosurgeon-smartlink-desc = Встраивает в руки пользователя киберимплант «смартлинк», повышающий точность стрельбы. Требуется настройка, слишком тонкая для человека, поэтому для установки прилагается одноразовый автохирург.
 
-uplink-autosurgeon-recoil-absorbing-name = Recoil Absorbing Arms Autosurgeon
-uplink-autosurgeon-recoil-absorbing-desc = Modifies the user's arms to include recoil absorbing cyberware, drastically reducing recoil when firing ranged weapons. Requires too much fine tuning for a human to provide, comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-recoil-absorbing-name = Автохирург для Рук с Подавлением Отдачи
+uplink-autosurgeon-recoil-absorbing-desc = Встраивает в руки пользователя киберимпланты, резко снижающие отдачу при стрельбе. Требуется настройка, слишком тонкая для человека, поэтому для установки прилагается одноразовый автохирург.
 
-uplink-autosurgeon-berserker-heart-name = Berserker Heart Autosurgeon
-uplink-autosurgeon-berserker-heart-desc = Replaces the user's heart with a berserker implant, that allows them to enter a berserk state, greatly increasing their melee damage, speed and preventing from critical damage. Requires too much fine tuning for a human to provide, comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-berserker-heart-name = Автохирург Сердца Берсерка
+uplink-autosurgeon-berserker-heart-desc = Заменяет сердце пользователя имплантом берсерка. Он позволяет впасть в ярость, заметно повышает урон в ближнем бою и скорость и защищает от критического урона. Требуется настройка, слишком тонкая для человека, поэтому для установки прилагается одноразовый автохирург.
 
-uplink-autosurgeon-jumpstarter-heart-name = Jumpstarter Heart Autosurgeon
-uplink-autosurgeon-jumpstarter-heart-desc = Replaces the user's heart with a jumpstarter implant, that injects enough omnizine to get up once you got critical damage. Has a 3 minutes cooldown. Requires too much fine tuning for a human to provide, comes with a one-use autosurgeon for installation.
+uplink-autosurgeon-jumpstarter-heart-name = Автохирург Сердца-Реаниматора
+uplink-autosurgeon-jumpstarter-heart-desc = Заменяет сердце пользователя имплантом, который при критическом уроне вводит достаточно омнизина, чтобы вы встали на ноги. Перезарядка занимает 3 минуты. Требуется настройка, слишком тонкая для человека, поэтому для установки прилагается одноразовый автохирург.
 
 # Wearables
 
-uplink-helmet-swat-name = Syndicate SWAT Helmet
-uplink-helmet-swat-desc = Robust helmet that offers good protection and also suppresses flashbang sounds to some extent.
+uplink-helmet-swat-name = Шлем Спецназа Синдиката
+uplink-helmet-swat-desc = Робастный шлем, который хорошо защищает и частично глушит звук светошумовых гранат.
 
-uplink-reverse-bear-trap-name = Reverse Bear Trap
-uplink-reverse-bear-trap-desc = An ingenious execution device worn on (or forced onto) the head. Arming it starts a configurable timer (30-120 seconds) mounted on the bear trap. When it goes off, the trap's jaws will violently open, instantly killing anyone wearing it by tearing their jaws in half. To arm, attack someone with it while they're not wearing headgear.
+uplink-reverse-bear-trap-name = Обратный Медвежий Капкан
+uplink-reverse-bear-trap-desc = Хитроумное устройство для казни, которое надевают (в том числе насильно) на голову. При взведении запускает встроенный настраиваемый таймер (30-120 секунд). По истечении времени челюсти капкана резко раскрываются, разрывая челюсть жертвы надвое и мгновенно убивая её. Чтобы взвести устройство, атакуйте им персонажа без головного убора.
 
-uplink-belt-rig-name = Grenadier Belt
-uplink-belt-rig-desc = A specialised belt rig to hold so many grenades that your arm gets tired from throwing them all. Can also store a sidearm and magazines for it.
+uplink-belt-rig-name = РПС Гренадёра
+uplink-belt-rig-desc = Специальная разгрузка вмещает столько гранат, что устанете их бросать. В неё также помещается пистолет и магазины к нему.
 
 # Deception
 
-uplink-clothing-explosive-gloves-name = Explosive Insulated Gloves
-uplink-clothing-explosive-gloves-desc = Gloves that look just like normal insulated gloves, but explode a second after being shocked, disabling the user's hands.
+uplink-clothing-explosive-gloves-name = Взрывные Изолированные Перчатки
+uplink-clothing-explosive-gloves-desc = Выглядят как обычные изолированные перчатки, но через секунду после удара током взрываются и выводят руки владельца из строя.
 
 # Disruption
 
-uplink-syndicate-weapon-module-advanced-name = Advanced Weapons Module
-uplink-syndicate-weapon-module-advanced-desc = Upgrades a cyborg with an energy sword and an anaconda pistol.
+uplink-syndicate-weapon-module-advanced-name = Продвинутый Модуль Вооружения
+uplink-syndicate-weapon-module-advanced-desc = Оснащает киборга энергетическим мечом и пистолетом anaconda.
 
-uplink-carpcaller-name = Space Carp Caller
-uplink-carpcaller-desc = A device exploiting carp psychology that, when anchored, powered, and exposed to open space, will attract wild space carp. Keep in mind you're not their friend.
+uplink-carpcaller-name = Манок для Космических Карпов
+uplink-carpcaller-desc = Устройство, использующее повадки карпов. Если закрепить его, подать питание и открыть доступ к космосу, оно приманит диких космических карпов. Имейте в виду, что вы им не друг.
 
-uplink-reagent-grenades-name = Box of Reagent Grenades
-uplink-reagent-grenades-desc = Contains 2 Glue grenades and 2 Lube Grenades
+uplink-reagent-grenades-name = Коробка Гранат с Реагентами
+uplink-reagent-grenades-desc = Содержит 2 гранаты с Клеем и 2 гранаты со Смазкой
 
 # Martial Arts
 
-uplink-cqc-name = CQC Manual
-uplink-cqc-desc = A manual that teaches a single user tactical Close-Quarters Combat before self-destructing. CQC is primarily an aggressive fighting style that focuses on dealing stamina damage to targets - designed to quickly subdue opponents and overpower them with pressure technique and crushing blows.
+uplink-cqc-name = Руководство по CQC
+uplink-cqc-desc = Руководство, которое учит одного пользователя тактическому Ближнему Бою, а затем самоуничтожается. CQC — агрессивный стиль, направленный на истощение выносливости противника. Позволяет быстро подчинить и одолеть цель болевыми приёмами и сокрушительными ударами.
 
-uplink-capoeira-name = Capoeira Manual
-uplink-capoeira-desc = A manual that teaches a single user Capoeira before self-destructing. Capoeira focuses on swift attacks that link into flowing combos, with each move faster and harder than the last one, fueled by relentless momentum.
+uplink-capoeira-name = Руководство по Капоэйре
+uplink-capoeira-desc = Руководство, которое учит одного пользователя Капоэйре, а затем самоуничтожается. Капоэйра строится на стремительных атаках, перетекающих в комбинации. За счёт непрерывного движения каждый следующий удар быстрее и сильнее предыдущего.
 
-uplink-sleeping-carp-name = Way of the Sleeping Carp Scroll
-uplink-sleeping-carp-desc = This single-use scroll contains the secrets of an ancient martial arts technique. You will master unarmed combat, deflecting ranged weapon fire, and space carp will become friendly to you. Learning this art means you will also refuse to use dishonorable ranged weaponry. Unable to be understood by changelings.
+uplink-sleeping-carp-name = Свиток Пути Спящего Карпа
+uplink-sleeping-carp-desc = В этом одноразовом свитке заключены тайны древнего боевого искусства. Вы овладеете рукопашным боем, научитесь отражать выстрелы, а космические карпы станут к вам дружелюбны. Изучив это искусство, вы откажетесь от бесчестного дальнобойного оружия. Генокрады не способны его постичь.
 
 
 # Misc
 
-uplink-dimension-pot-name = Dimension Pot
-uplink-dimension-pot-desc = A portal to your own pocket dimension disguised in the form of a potted plant, for when stashing one item isn't quite enough.
+uplink-dimension-pot-name = Горшок с Измерением
+uplink-dimension-pot-desc = Портал в ваше собственное карманное измерение, замаскированный под горшок с растением. На случай, когда спрятать один предмет недостаточно.
 
-uplink-pizza-bomb-name = Nefarious Pizza bomb
-uplink-pizza-bomb-desc = First pioneered by terrorists, now is used by the syndicate for eliminating high value targets. Do not open before explosion.
+uplink-pizza-bomb-name = Зловещая Пицца-бомба
+uplink-pizza-bomb-desc = Придумана террористами, теперь используется синдикатом для устранения особо важных целей. Не вскрывать до взрыва.
 
-uplink-pizza-party-crate-name = Pizza Party Crate
-uplink-pizza-party-crate-desc = A crate coming in the form of disaster pizza delivery. Filled with pizzas and pizza bombs to throw the most explosive pizza party ever. Unfortunately you can't seem to remember which one is which.
+uplink-pizza-party-crate-name = Ящик для Пицца-Вечеринки
+uplink-pizza-party-crate-desc = Ящик, доставленный как пицца катастроф. Полон обычных пицц и пицц-бомб для самой взрывной вечеринки. К сожалению, вы никак не вспомните, какие из них какие.
 
-uplink-energy-pickaxe-name = Energy Pickaxe
-uplink-energy-pickaxe-desc = A holographic mining tool with blades comprised of hard light that also serves a deadly melee weapon. Rock and stone!
+uplink-energy-pickaxe-name = Энергетическая Кирка
+uplink-energy-pickaxe-desc = Голографический инструмент для добычи с лезвиями из твёрдого света. Служит и смертоносным оружием ближнего боя. За камень и скалу!
 
-uplink-bloodred-cassette-name = Blood-Red Casette Player
-uplink-bloodred-cassette-desc = Provided by the most egotistical fashion designers of Cybersun, a portable music player!
+uplink-bloodred-cassette-name = Кроваво-Красный Кассетный Проигрыватель
+uplink-bloodred-cassette-desc = От самых самовлюблённых модельеров «Киберсан» — портативный музыкальный проигрыватель!
 
-uplink-syndiedrobe-name = Syndiedrobe
-uplink-syndiedrobe-desc = A vending machine stocked with Syndicate-branded clothing. Simple, sharp, and unmistakably red-and-black, it offers operatives a way to dress with Syndicate style.
+uplink-syndiedrobe-name = Синдишкаф
+uplink-syndiedrobe-desc = Торговый автомат с фирменной одеждой Синдиката. Просто, строго и неизменно в красно-чёрных цветах — так одеваются стильные оперативники.
 
-uplink-customboard-name = Custom Syndicate Lawboard
-uplink-customboard-desc = A modified lawboard that allows the user to change the laws to anything they want. Comes with Antimov pre-installed.
+uplink-customboard-name = Настраиваемая Плата Законов Синдиката
+uplink-customboard-desc = Модифицированная плата, позволяющая менять законы по своему усмотрению. Поставляется с предустановленным Антимовом.
 
-uplink-cddisksyndicate-name = Syndicate Advertisement CD
-uplink-cddisksyndicate-desc = 102.9 Syndicate radio
+uplink-cddisksyndicate-name = Рекламный Диск Синдиката
+uplink-cddisksyndicate-desc = Радио Синдиката 102.9
 
-uplink-cddisknumber-name = Number Station CD
-uplink-cddisknumber-desc = Call in a threat to distract the station... good luck playing the whole thing.
+uplink-cddisknumber-name = Диск Номерной Радиостанции
+uplink-cddisknumber-desc = Передайте угрозу, чтобы отвлечь станцию... удачи проиграть запись до конца.

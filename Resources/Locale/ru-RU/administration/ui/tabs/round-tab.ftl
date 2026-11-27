@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-administration-ui-round-tab-start-round = Start Round
-administration-ui-round-tab-end-round = End Round
-administration-ui-round-tab-restart-round = Restart Round
-administration-ui-round-tab-restart-round-now = Restart NOW
+administration-ui-round-tab-start-round = Начать Раунд
+administration-ui-round-tab-end-round = Завершить Раунд
+administration-ui-round-tab-restart-round = Перезапустить Раунд
+administration-ui-round-tab-restart-round-now = Перезапустить СЕЙЧАС

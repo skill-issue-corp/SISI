@@ -1,23 +1,23 @@
-ent-ActionHereticOpenStore = Open Knowledge Store
-    .desc = Open the Knowledge Store.
+ent-ActionHereticOpenStore = Открыть Магазин Знаний
+    .desc = Открывает Магазин Знаний.
 
-ent-ActionHereticMansusGrasp = Mansus Grasp
-    .desc = Channel the power of the Old Gods through your grip.
+ent-ActionHereticMansusGrasp = Хватка Мансуса
+    .desc = Направьте силу Древних Богов через свою хватку.
 
-ent-ActionHereticLivingHeart = Living Heart
-    .desc = Use your heart to get your sacrifice targets location.
+ent-ActionHereticLivingHeart = Живое Сердце
+    .desc = Используйте сердце, чтобы узнать, где находятся цели для жертвоприношения.
 
-ent-ActionHereticMansusLink = Mansus Link
-    .desc = Pierce through reality and connect minds to one another. Default key is +m
+ent-ActionHereticMansusLink = Связь Мансуса
+    .desc = Пронзите реальность и свяжите разумы между собой. Клавиша по умолчанию: +m
 
-ent-ActionHereticShadowCloak = Cloak of Shadow
-    .desc = Completely conceals your identity, but does not make you invisible. Can be activated early to disable it. While cloaked, you move faster, but undergo actions much slower. Taking damage while cloaked may cause it to lift suddenly.
+ent-ActionHereticShadowCloak = Плащ Тени
+    .desc = Полностью скрывает вашу личность, сохраняя вас видимым. Повторная активация снимает эффект досрочно. Под покровом вы двигаетесь быстрее, но совершаете действия гораздо медленнее. При получении урона покров может внезапно рассеяться.
 
-ent-ActionHereticShapeshift = Shapechange
-    .desc = A spell that allows you to take on the form of another creature, gaining their abilities.
+ent-ActionHereticShapeshift = Смена Облика
+    .desc = Заклинание, позволяющее принять облик другого существа и получить его способности.
 
-ent-DisguiseRevertAction = Revert
-    .desc = Revert back into your original identity.
+ent-DisguiseRevertAction = Вернуться
+    .desc = Вернитесь к своей исходной личности.
 
-ent-ActionToggleAbyssalMask = Toggle Abyssal Mask
-    .desc = Toggles between the night vision mode and fear/eye protection mode
+ent-ActionToggleAbyssalMask = Переключить Маску Бездны
+    .desc = Переключает режим ночного зрения и режим защиты глаз и от страха

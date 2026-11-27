@@ -1,8 +1,8 @@
-ent-ProjectileWaveRust = patron's reach
-    .desc = Toxic.
+ent-ProjectileWaveRust = длань покровителя
+    .desc = Ядовито.
 
-ent-ProjectileStarBall = star ball
+ent-ProjectileStarBall = звёздный шар
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletLionhunter = bullet (.60 hunter's)
+ent-BulletLionhunter = пуля (.60 охотничья)
     .desc = { ent-BaseBullet.desc }

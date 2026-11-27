@@ -1,2 +1,2 @@
-ent-SpawnMobGoidaBot = goidabot spawner
+ent-SpawnMobGoidaBot = точка спавна гойда-бота
     .desc = { ent-MarkerBase.desc }

@@ -1,2 +1,2 @@
-ent-HoloprojectorMedical = holobarrier projector
-    .desc = Creates a solid but fragile holographic barrier.
+ent-HoloprojectorMedical = проектор голографической баррикады
+    .desc = Создаёт прочную, но хрупкую голографическую преграду.

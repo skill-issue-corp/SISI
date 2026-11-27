@@ -1,33 +1,33 @@
 # Named frequencies
-device-frequency-prototype-name-atmos = Atmospheric Devices
-device-frequency-prototype-name-suit-sensors = Suit Sensors
-device-frequency-prototype-name-crew-monitor = Crew Monitor
-device-frequency-prototype-name-lights = Smart Lights
-device-frequency-prototype-name-mailing-units = Mailing Units
-device-frequency-prototype-name-pdas = PDAs
-device-frequency-prototype-name-fax = Fax
-device-frequency-prototype-name-basic-device = Basic Devices
-device-frequency-prototype-name-cyborg-control = Cyborg Control
-device-frequency-prototype-name-robotics-console = Robotics Console
-device-frequency-prototype-name-turret = Sentry Turret
-device-frequency-prototype-name-turret-control = Sentry Turret Control
-device-frequency-prototype-name-xenoborg = Xenoborg
-device-frequency-prototype-name-mothership = Mothership
-device-frequency-prototype-name-arrivals-shuttle-timer = Arrivals Timer
-device-frequency-prototype-name-shuttle-timer = Evac Shuttle Timer
+device-frequency-prototype-name-atmos = Атмосферные Устройства
+device-frequency-prototype-name-suit-sensors = Датчики Костюмов
+device-frequency-prototype-name-crew-monitor = Монитор Экипажа
+device-frequency-prototype-name-lights = Умное Освещение
+device-frequency-prototype-name-mailing-units = Почтовые Терминалы
+device-frequency-prototype-name-pdas = КПК
+device-frequency-prototype-name-fax = Факс
+device-frequency-prototype-name-basic-device = Базовые Устройства
+device-frequency-prototype-name-cyborg-control = Управление Киборгами
+device-frequency-prototype-name-robotics-console = Консоль Робототехники
+device-frequency-prototype-name-turret = Сторожевая Турель
+device-frequency-prototype-name-turret-control = Управление Сторожевыми Турелями
+device-frequency-prototype-name-xenoborg = Ксеноборг
+device-frequency-prototype-name-mothership = Материнский Корабль
+device-frequency-prototype-name-arrivals-shuttle-timer = Таймер Прибытия
+device-frequency-prototype-name-shuttle-timer = Таймер Эвакуационного Шаттла
 
 ## Camera frequencies
-device-frequency-prototype-name-surveillance-camera = Cameras
-device-frequency-prototype-name-surveillance-camera-test = Subnet Test
-device-frequency-prototype-name-surveillance-camera-engineering = Engineering Cameras
-device-frequency-prototype-name-surveillance-camera-security = Security Cameras
-device-frequency-prototype-name-surveillance-camera-science = Science Cameras
-device-frequency-prototype-name-surveillance-camera-supply = Supply Cameras
-device-frequency-prototype-name-surveillance-camera-command = Command Cameras
-device-frequency-prototype-name-surveillance-camera-service = Service Cameras
-device-frequency-prototype-name-surveillance-camera-medical = Medical Cameras
-device-frequency-prototype-name-surveillance-camera-general = General Cameras
-device-frequency-prototype-name-surveillance-camera-entertainment = Entertainment Cameras
+device-frequency-prototype-name-surveillance-camera = Камеры
+device-frequency-prototype-name-surveillance-camera-test = Проверка Подсети
+device-frequency-prototype-name-surveillance-camera-engineering = Камеры Инженерии
+device-frequency-prototype-name-surveillance-camera-security = Камеры Службы Безопасности
+device-frequency-prototype-name-surveillance-camera-science = Камеры Науки
+device-frequency-prototype-name-surveillance-camera-supply = Камеры Снабжения
+device-frequency-prototype-name-surveillance-camera-command = Камеры Командования
+device-frequency-prototype-name-surveillance-camera-service = Камеры Обслуживания
+device-frequency-prototype-name-surveillance-camera-medical = Камеры Медотсека
+device-frequency-prototype-name-surveillance-camera-general = Общие Камеры
+device-frequency-prototype-name-surveillance-camera-entertainment = Камеры Зоны Развлечений
 
 # Prefixes for randomly generated device addresses
 device-address-prefix-vent = VNT-
@@ -57,15 +57,15 @@ device-address-prefix-camera-router-wireless = CMW-
 device-address-prefix-camera = CAM-
 device-address-prefix-crew-monitoring-server = CMS-
 
-device-address-examine-message = The device's address is {$address}.
+device-address-examine-message = Адрес устройства: {$address}.
 
 # Device net ID names
-device-net-id-private = Private
-device-net-id-wired = Wired
-device-net-id-wireless = Wireless
-device-net-id-apc = Apc
-device-net-id-atmos-devices = Atmos Devices
-device-net-id-reserved = Reserved
+device-net-id-private = Частная
+device-net-id-wired = Проводная
+device-net-id-wireless = Беспроводная
+device-net-id-apc = ЛКП
+device-net-id-atmos-devices = Атмосферные Устройства
+device-net-id-reserved = Зарезервированная
 
 # Unknown
 device-address-unknown = ????-????

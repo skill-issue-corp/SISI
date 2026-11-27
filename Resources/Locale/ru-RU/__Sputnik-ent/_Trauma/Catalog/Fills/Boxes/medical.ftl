@@ -1,2 +1,2 @@
-ent-BoxEmbalmingFluid = embalming fluid bottle box
-    .desc = A small box containing three bottles of "embalming fluid".
+ent-BoxEmbalmingFluid = коробка флаконов с бальзамирующей жидкостью
+    .desc = Маленькая коробка с тремя флаконами «бальзамирующей жидкости».

@@ -1,2 +1,2 @@
-ent-MobCarpSleepy = sleepy carp
+ent-MobCarpSleepy = сонный карп
     .desc = { ent-BaseMobCarp.desc }

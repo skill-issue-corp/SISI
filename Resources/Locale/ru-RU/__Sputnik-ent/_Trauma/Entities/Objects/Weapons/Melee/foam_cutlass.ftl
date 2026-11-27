@@ -1,3 +1,3 @@
-ent-RealFoamCutlass = foam cutlass
-    .desc = Cosplay as a pirate and force your friends to walk the plank.
-    .suffix = Real
+ent-RealFoamCutlass = поролоновая сабля
+    .desc = Нарядитесь пиратом и заставьте друзей пройтись по доске.
+    .suffix = Настоящая

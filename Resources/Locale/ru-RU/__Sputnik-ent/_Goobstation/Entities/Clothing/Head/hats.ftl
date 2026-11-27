@@ -1,32 +1,32 @@
-ent-ClothingHeadMailCarrier = mail carrier's hat
-    .desc = Smells like a good pension.
+ent-ClothingHeadMailCarrier = кепка почтальона
+    .desc = Пахнет достойной пенсией.
 
-ent-ClothingHeadHatPropeller = propeller hat
-    .desc = Aw gee willickers!
+ent-ClothingHeadHatPropeller = шапочка с пропеллером
+    .desc = Ой, ёлки-палки!
 
 ent-ClothingHeadHatPropellerFlipped = { ent-ClothingHeadHatPropeller }
     .desc = { ent-ClothingHeadHatPropeller.desc }
 
-ent-ClothingHeadHatImam = imam head wrap
-    .desc = Praise Allah.
+ent-ClothingHeadHatImam = головной убор имама
+    .desc = Хвала Аллаху.
 
-ent-ClothingHeadHatBeretHeadOfSecurityAdvanced = head of security's parade beret
-    .desc = A particularly gilded beret, designed for the Head of Security.
+ent-ClothingHeadHatBeretHeadOfSecurityAdvanced = парадный берет главы службы безопасности
+    .desc = Особенно пышный позолоченный берет для Главы Службы Безопасности.
 
-ent-ClothingHeadHatBeretSeniorBotanist = botanical beret
-    .desc = A green beret featuring a small blue flower given to experienced botanists.
+ent-ClothingHeadHatBeretSeniorBotanist = ботанический берет
+    .desc = Зелёный берет с маленьким синим цветком, который выдают опытным ботаникам.
 
-ent-ClothingHeadSanabi = brigadier general hat
-    .desc = Smells like steel.
+ent-ClothingHeadSanabi = фуражка бригадного генерала
+    .desc = Пахнет сталью.
 
-ent-ClothingHeadHatJanitorCap = janitorial cap
-    .desc = An extravagant purple cap for only the BEST of janitorial workers.
+ent-ClothingHeadHatJanitorCap = кепка уборщика
+    .desc = Экстравагантная лиловая кепка только для ЛУЧШИХ сотрудников службы уборки.
 
-ent-ClothingHeadHatTinfoilHat = tinfoil hat
-    .desc = A high tech helmet crafted from aluminum foil.
+ent-ClothingHeadHatTinfoilHat = шапочка из фольги
+    .desc = Высокотехнологичный шлем из алюминиевой фольги.
 
-ent-ClothingHeadHatGoldCentcom = golden Centcom cap
-    .desc = A gold-and-white gilded cap worn by the highest-ranking members of Central Command.
+ent-ClothingHeadHatGoldCentcom = золотая фуражка ЦК
+    .desc = Золочёная белая фуражка, которую носят высшие чины Центрального Командования.
 
-ent-ClothingHeadHatCowboyCentcom = centcom cowboy hat
-    .desc = A black and green cowboy hat with a gold band, worn by 'southerner' Central Command officers.
+ent-ClothingHeadHatCowboyCentcom = ковбойская шляпа цк
+    .desc = Чёрно-зелёная ковбойская шляпа с золотой лентой для офицеров-«южан» Центрального Командования.

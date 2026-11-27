@@ -1,16 +1,16 @@
 # Foldable
 
-foldable-fold-fail = You can't fold the {$object} here.
-foldable-unfold-fail = You can't unfold the {$object} here.
+foldable-fold-fail = Здесь нельзя сложить {$object}.
+foldable-unfold-fail = Здесь нельзя разложить {$object}.
 
-foldable-deploy-fail = You can't deploy the {$object} here.
-fold-verb = Fold
-unfold-verb = Unfold
+foldable-deploy-fail = Здесь нельзя развернуть {$object}.
+fold-verb = Сложить
+unfold-verb = Разложить
 
-fold-flip-verb = Flip
+fold-flip-verb = Перевернуть
 
-fold-zip-verb = Zip up
-fold-unzip-verb = Unzip
+fold-zip-verb = Застегнуть
+fold-unzip-verb = Расстегнуть
 
-fold-verb-clothing-jacket = Take off jacket
-unfold-verb-clothing-jacket = Put on jacket
+fold-verb-clothing-jacket = Снять куртку
+unfold-verb-clothing-jacket = Надеть куртку

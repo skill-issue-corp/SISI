@@ -1,2 +1,2 @@
-ent-MobBioweapon = Bioweapon
-    .desc = A bioweapon supplied to the security department by one of Nanotrasen's many genetic alteration subsidiaries. It follow the orders of those who speak the proper dialect.
+ent-MobBioweapon = Биооружие
+    .desc = Биооружие, поставленное службе безопасности одной из многочисленных дочерних компаний NanoTrasen по генетической модификации. Выполняет приказы тех, кто говорит на нужном диалекте.

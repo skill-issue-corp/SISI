@@ -5,6 +5,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-metabolism-component-is-comfortable = You feel comfortable
-metabolism-component-is-sweating = You are sweating
-metabolism-component-is-shivering = You are shivering
+metabolism-component-is-comfortable = Вам комфортно
+metabolism-component-is-sweating = Вы потеете
+metabolism-component-is-shivering = Вы дрожите от холода

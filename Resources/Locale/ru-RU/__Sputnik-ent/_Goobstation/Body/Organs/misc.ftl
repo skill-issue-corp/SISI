@@ -1,11 +1,11 @@
 ent-OrganSyndicateHeart = { ent-OrganHumanHeart }
     .desc = { ent-OrganHumanHeart.desc }
 
-ent-OrganHeartSandevistan = Sandevistan
-    .desc = Illegal cyberware that replaces the user's heart and allows them to greatly increase their speed for the cost of the endurance.
+ent-OrganHeartSandevistan = Сандевистан
+    .desc = Незаконный киберимплант, который заменяет сердце и позволяет значительно ускориться за счёт выносливости.
 
-ent-SyndicateBerserkerHeart = berserker heart
-    .desc = A next-gen combat circulatory core that allows the user to enter a berserk state, greatly increasing their speed and reflexes for a short time at the cost of endurance and some pain resistance. Highly illegal.
+ent-SyndicateBerserkerHeart = сердце берсерка
+    .desc = Боевое ядро кровообращения нового поколения, позволяющее впасть в ярость. На короткое время значительно повышает скорость и обостряет рефлексы за счёт выносливости и некоторой устойчивости к боли. Строго запрещено.
 
-ent-SyndicateJumpstarterHeart = jumpstarter heart
-    .desc = A next-gen combat circulatory core that injects a large amount of omnizine into the user's bloodstream when they are critically injured, saving them from death. Highly illegal.
+ent-SyndicateJumpstarterHeart = сердце-реаниматор
+    .desc = Боевое ядро кровообращения нового поколения, которое при критических ранениях вводит в кровь большую дозу омнизина, спасая владельца от смерти. Строго запрещено.

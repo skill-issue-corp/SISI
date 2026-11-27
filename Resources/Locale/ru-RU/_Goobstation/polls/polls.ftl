@@ -1,36 +1,39 @@
 # Poll Voting Window
-poll-voting-window-title = Community Polls
-poll-voting-window-active-polls = Active Polls
-poll-voting-window-refresh = Refresh
-poll-voting-window-loading = Loading polls...
-poll-voting-window-no-polls = No active polls
+poll-voting-window-title = Опросы Сообщества
+poll-voting-window-active-polls = Активные Опросы
+poll-voting-window-refresh = Обновить
+poll-voting-window-loading = Загрузка опросов...
+poll-voting-window-no-polls = Активных опросов нет
 poll-voting-window-polls-count = {$count} {$count ->
-    [one] active poll
-    *[other] active polls
+    [one] активный опрос
+    [few] активных опроса
+    *[many] активных опросов
 }
-poll-voting-window-error = Error: {$error}
+poll-voting-window-error = Ошибка: {$error}
 
 # Poll Control
-poll-control-created-by = Created by {$name}
-poll-control-ends-in-days = Ends in {$days} {$days ->
-    [one] day
-    *[other] days
+poll-control-created-by = Автор: {$name}
+poll-control-ends-in-days = До завершения осталось {$days} {$days ->
+    [one] день
+    [few] дня
+    *[many] дней
 }
-poll-control-ends-in-hours = Ends in {$hours} {$hours ->
-    [one] hour
-    *[other] hours
+poll-control-ends-in-hours = До завершения осталось {$hours} {$hours ->
+    [one] час
+    [few] часа
+    *[many] часов
 }
-poll-control-ended = Ended
-poll-control-no-end-time = No end time
-poll-control-options = Options:
+poll-control-ended = Завершён
+poll-control-no-end-time = Срок окончания не задан
+poll-control-options = Варианты:
 
 # Poll Commands
-poll-command-create-success = Poll created successfully!
-poll-command-create-fail = Failed to create poll.
-poll-command-close-success = Poll {$id} has been closed.
-poll-command-list-no-polls = No active polls.
-poll-command-info-not-found = Poll {$id} not found.
+poll-command-create-success = Опрос успешно создан!
+poll-command-create-fail = Не удалось создать опрос.
+poll-command-close-success = Опрос {$id} закрыт.
+poll-command-list-no-polls = Активных опросов нет.
+poll-command-info-not-found = Опрос {$id} не найден.
 
 # Client Commands
-cmd-polls-desc = Opens the community polls window.
-cmd-polls-help = Usage: polls
+cmd-polls-desc = Открывает окно опросов сообщества.
+cmd-polls-help = Использование: polls

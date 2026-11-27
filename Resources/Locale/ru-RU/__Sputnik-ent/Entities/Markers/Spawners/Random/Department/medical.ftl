@@ -1,5 +1,5 @@
-ent-LootSpawnerMedicalMinor = healing supplies spawner
+ent-LootSpawnerMedicalMinor = спавнер лечебных припасов
     .desc = { ent-MarkerBase.desc }
 
-ent-LootSpawnerMedicalClassy = medical loot spawner
+ent-LootSpawnerMedicalClassy = спавнер медицинской добычи
     .desc = { ent-MarkerBase.desc }

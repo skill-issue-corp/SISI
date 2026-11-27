@@ -1,20 +1,20 @@
 ent-BaseHoloSign = { "" }
     .desc = { "" }
 
-ent-HolosignWetFloor = wet floor sign
-    .desc = The words flicker as if they mean nothing.
+ent-HolosignWetFloor = табличка «мокрый пол»
+    .desc = Слова мерцают, словно ничего не значат.
 
-ent-HoloFan = holofan
-    .desc = A barrier of hard light that blocks air, but nothing else.
+ent-HoloFan = голофан
+    .desc = Барьер из твёрдого света. Задерживает только воздух.
 
-ent-HoloPeel = holopeel
-    .desc = A banana peel made of slippery hard light, watch your step!
+ent-HoloPeel = голокожура
+    .desc = Банановая кожура из скользкого твёрдого света. Смотрите под ноги!
 
-ent-HolosignSecurity = holographic barrier
-    .desc = A barrier of hard light that blocks movement, but pretty weak.
+ent-HolosignSecurity = голографический барьер
+    .desc = Барьер из твёрдого света, препятствующий движению. Довольно хрупкий.
 
-ent-XenoborgDeflectorField = deflector field
-    .desc = An energy matrix, comprised of interlocking fields that deflect projectiles. Powerful, but short-lived.
+ent-XenoborgDeflectorField = отклоняющее поле
+    .desc = Энергетическая матрица из сцепленных полей, отклоняющих снаряды. Мощная, но недолговечная.
 
-ent-HolosignForcefield = holographic force field
-    .desc = A powerful temporal containment field that doesn't let anything through, not even a tesla or singularity.
+ent-HolosignForcefield = голографическое силовое поле
+    .desc = Мощное временное поле сдерживания, через которое не пройдёт даже тесла или сингулярность.

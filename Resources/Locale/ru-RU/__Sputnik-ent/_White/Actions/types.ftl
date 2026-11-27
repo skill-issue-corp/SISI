@@ -1,5 +1,5 @@
-ent-ToggleThermalVision = Toggle Thermal Vision
-    .desc = Toggles thermal vision.
+ent-ToggleThermalVision = Переключить Тепловое Зрение
+    .desc = Включает или выключает тепловое видение.
 
-ent-PulseThermalVision = Pulse Thermal Vision
-    .desc = Activate thermal vision temporarily.
+ent-PulseThermalVision = Импульс Теплового Видения
+    .desc = Ненадолго активирует тепловое видение.

@@ -3,12 +3,12 @@ ent-SpaceCash = { ent-BaseSpaceCash }
 
 ent-SpaceCashCounterfeit = { ent-BaseSpaceCash }
     .desc = { ent-BaseSpaceCash.desc }
-    .suffix = Counterfeit
+    .suffix = Подделка
 
 ent-SpaceCashCounterfeit10 = { ent-SpaceCashCounterfeit }
     .desc = { ent-SpaceCashCounterfeit.desc }
-    .suffix = Counterfeit, 10
+    .suffix = Подделка, 10
 
 ent-SpaceCashCounterfeit250 = { ent-SpaceCashCounterfeit }
     .desc = { ent-SpaceCashCounterfeit.desc }
-    .suffix = Counterfeit, 250
+    .suffix = Подделка, 250

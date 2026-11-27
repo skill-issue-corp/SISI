@@ -1,10 +1,10 @@
-ent-FireBomb = fire bomb
-    .desc = A weak, improvised incendiary device.
+ent-FireBomb = зажигательная бомба
+    .desc = Слабое самодельное зажигательное устройство.
 
-ent-FireBombEmpty = fire bomb
-    .desc = A weak, improvised incendiary device. This one has no fuel.
-    .suffix = empty
+ent-FireBombEmpty = зажигательная бомба
+    .desc = Слабое самодельное зажигательное устройство. В этом нет топлива.
+    .suffix = пусто
 
 ent-FireBombFuel = { ent-FireBombEmpty }
-    .desc = A weak, improvised incendiary device. This one is missing wires.
-    .suffix = fuel
+    .desc = Слабое самодельное зажигательное устройство. У этого нет проводов.
+    .suffix = топливо

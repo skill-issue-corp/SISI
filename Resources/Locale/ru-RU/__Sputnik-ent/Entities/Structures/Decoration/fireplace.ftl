@@ -1,2 +1,2 @@
-ent-Fireplace = fireplace
-    .desc = A place that has fire. Cozy!
+ent-Fireplace = камин
+    .desc = Место, где горит огонь. Уютно!

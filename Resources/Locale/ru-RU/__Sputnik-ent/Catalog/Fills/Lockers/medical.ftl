@@ -1,23 +1,23 @@
 ent-LockerMedicineFilled = { ent-LockerMedicine }
     .desc = { ent-LockerMedicine.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-LockerWallMedicalFilled = medicine wall locker
+ent-LockerWallMedicalFilled = настенный шкафчик для лекарств
     .desc = { ent-LockerWallMedical.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-LockerMedicalFilled = { ent-LockerMedical }
     .desc = { ent-LockerMedical.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-LockerWallMedicalDoctorFilled = medical doctor's wall locker
+ent-LockerWallMedicalDoctorFilled = настенный шкафчик врача
     .desc = { ent-LockerWallMedical.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-LockerChemistryFilled = { ent-LockerChemistry }
     .desc = { ent-LockerChemistry.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-LockerParamedicFilled = { ent-LockerParamedic }
     .desc = { ent-LockerParamedic.desc }
-    .suffix = Filled
+    .suffix = Заполнено

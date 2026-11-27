@@ -1,6 +1,6 @@
-terror-slaughter-demon = Attention crew, it appears that someone on your station has made an unexpected communication with a bloody man-devourer in nearby space.
-terror-lone-operative = Attention crew, it appears that someone on your station has made an unexpected communication with a rival corporation in nearby space.
-terror-wraith = Attention crew, it appears that someone on your station has made an unexpected communication with a vengeful spirit in nearby space.
-terror-vox = Attention crew, it appears that someone on your station has made an unexpected communication with a group of raiders in nearby space.
-terror-blob = Attention crew, it appears that someone on your station has made an unexpected communication with a mad scientist in nearby space.
-terror-grey-tide = Attention crew, it appears that someone on your station has made an unexpected communication with a very robust individual in nearby space.
+terror-slaughter-demon = Внимание экипажу! Похоже, кто-то на вашей станции неожиданно вышел на связь с кровавым пожирателем людей в ближнем космосе.
+terror-lone-operative = Внимание экипажу! Похоже, кто-то на вашей станции неожиданно вышел на связь с конкурирующей корпорацией в ближнем космосе.
+terror-wraith = Внимание экипажу! Похоже, кто-то на вашей станции неожиданно вышел на связь с мстительным духом в ближнем космосе.
+terror-vox = Внимание экипажу! Похоже, кто-то на вашей станции неожиданно вышел на связь с группой налётчиков в ближнем космосе.
+terror-blob = Внимание экипажу! Похоже, кто-то на вашей станции неожиданно вышел на связь с безумным учёным в ближнем космосе.
+terror-grey-tide = Внимание экипажу! Похоже, кто-то на вашей станции неожиданно вышел на связь с очень робастным типом в ближнем космосе.

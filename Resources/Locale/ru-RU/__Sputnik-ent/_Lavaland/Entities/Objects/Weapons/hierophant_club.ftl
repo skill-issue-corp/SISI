@@ -1,5 +1,5 @@
-ent-LavalandHierophantClub = hierophant club
-    .desc = Get item'ed lol
+ent-LavalandHierophantClub = палица иерофанта
+    .desc = Теперь ты предмет, лол
 
-ent-LavalandHierophantMarker = mysterious marker
-    .desc = What even is this?
+ent-LavalandHierophantMarker = загадочная метка
+    .desc = Что это вообще такое?

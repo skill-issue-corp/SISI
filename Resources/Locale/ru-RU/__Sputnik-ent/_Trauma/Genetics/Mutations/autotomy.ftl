@@ -1,5 +1,5 @@
-ent-MutationAutotomy = Autotomy
-    .desc = Allows a creature to voluntary discard a random appendage.
+ent-MutationAutotomy = Автотомия
+    .desc = Позволяет существу по своему желанию отбросить случайный придаток.
 
-ent-ActionMutationAutotomy = Drop a limb
-    .desc = Concentrate to make a random limb pop right off your body.
+ent-ActionMutationAutotomy = Отбросить конечность
+    .desc = Сосредоточьтесь, и случайная конечность сама отскочит от вашего тела.

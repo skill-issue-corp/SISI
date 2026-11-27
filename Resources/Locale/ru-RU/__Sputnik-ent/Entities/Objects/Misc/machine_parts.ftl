@@ -1,6 +1,6 @@
-ent-BaseStockPart = stock part
-    .desc = What?
+ent-BaseStockPart = типовая деталь
+    .desc = Что?
 
-ent-MicroManipulatorStockPart = modular machine part
-    .desc = A basic machine part used in the construction of a variety of devices.
-    .suffix = Rating 1
+ent-MicroManipulatorStockPart = модульная деталь машины
+    .desc = Базовая деталь для сборки самых разных устройств.
+    .suffix = Уровень 1

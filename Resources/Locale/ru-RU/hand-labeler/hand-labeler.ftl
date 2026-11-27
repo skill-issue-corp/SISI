@@ -7,30 +7,30 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-hand-labeler-ui-header = Hand Labeler
+hand-labeler-ui-header = Ручной Маркиратор
 
 # The content of the label in the UI above the text entry input.
-hand-labeler-current-text-label = Label:
+hand-labeler-current-text-label = Этикетка:
 
 # The text on the button in the UI to reset the text entry input to the content it had when the UI was opened
-hand-labeler-ui-reset-label-text = Reset
+hand-labeler-ui-reset-label-text = Сбросить
 
 # The text on the button in the UI to clear the text entry input
-hand-labeler-ui-clear-label-text = Clear
+hand-labeler-ui-clear-label-text = Очистить
 
 # When the hand labeler applies a label successfully
-hand-labeler-successfully-applied = Applied label successfully
+hand-labeler-successfully-applied = Этикетка наклеена
 
 # When the hand labeler removes a label successfully
-hand-labeler-successfully-removed = Removed label successfully
+hand-labeler-successfully-removed = Этикетка снята
 
 # Appended to the description of an object with a label on input
-hand-labeler-has-label = This object has a label on it, which reads '{$label}'
+hand-labeler-has-label = На этом предмете есть этикетка с надписью «{$label}»
 
 # Verb text
-hand-labeler-remove-label-text = Remove label
-hand-labeler-add-label-text = Apply label
+hand-labeler-remove-label-text = Снять этикетку
+hand-labeler-add-label-text = Наклеить этикетку
 
 # Shown when the labeler is examined
-hand-labeler-examine-blank = The label text is blank.
-hand-labeler-examine-label-text = The label text is '{$label-text}'.
+hand-labeler-examine-blank = На этикетке ничего не написано.
+hand-labeler-examine-label-text = На этикетке написано «{$label-text}».

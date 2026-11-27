@@ -1,60 +1,60 @@
 ent-ArmorHeretic = { "" }
     .desc = { "" }
 
-ent-ClothingOuterArmorHeretic = ominous armor
-    .desc = A ragged, dusty set of robes. Strange eyes line the inside.
+ent-ClothingOuterArmorHeretic = зловещая броня
+    .desc = Драные, пыльные одеяния. Изнутри они усеяны странными глазами.
 
 ent-ArmorHereticRust = { ent-ArmorHeretic }
     .desc = { ent-ArmorHeretic.desc }
 
-ent-ClothingOuterArmorHereticRust = salvaged remains
-    .desc = Touching the folds of this plain robe seem to fill you with unease. Even looking fills you with a sense of vertigo. Some pulse threatening to pull you within.
-    .suffix = Rust
+ent-ClothingOuterArmorHereticRust = уцелевшие остатки
+    .desc = Прикосновение к складкам этой невзрачной робы вселяет тревогу. Даже при одном взгляде на неё кружится голова. Что-то пульсирует и будто вот-вот затянет вас внутрь.
+    .suffix = Ржавчина
 
 ent-ArmorHereticVoid = { ent-ArmorHeretic }
     .desc = { ent-ArmorHeretic.desc }
 
-ent-ClothingOuterArmorHereticVoid = hollow weave
-    .desc = At first, the empty canvas of this robe seems to shimmer with a faint, cold light. Yet upon tracking the shape of the folds more carefully, it is better to describe it as the absence of such a thing.
-    .suffix = Void
+ent-ClothingOuterArmorHereticVoid = пустое плетение
+    .desc = Поначалу пустое полотно этой робы будто мерцает тусклым холодным светом. Но если внимательнее всмотреться в складки, скорее заметишь отсутствие всякого света.
+    .suffix = Пустота
 
 ent-ArmorHereticAsh = { ent-ArmorHeretic }
     .desc = { ent-ArmorHeretic.desc }
 
-ent-ClothingOuterArmorHereticAsh = scorched mantle
-    .desc = Left to burn to tatters, what remains is naught but a blackened echo of the mantle of the Watch. Yet the soot-choked folds turn blade and flame from the form within. A brief reprieve before its gaze turns inwards.
-    .suffix = Ash
+ent-ClothingOuterArmorHereticAsh = опалённая мантия
+    .desc = От мантии Дозора, выгоревшей дотла, осталась лишь обугленная тень. И всё же пропитанные сажей складки отводят клинок и пламя от тела под ними. Короткая передышка, прежде чем мантия обратит взор внутрь.
+    .suffix = Пепел
 
 ent-ArmorHereticFlesh = { ent-ArmorHeretic }
     .desc = { ent-ArmorHeretic.desc }
 
-ent-ClothingOuterArmorHereticFlesh = writhing embrace
-    .desc = A rotten carcass, or perhaps several, twisted into fleshy polyps, knotted intestines and cracked bone. How one 'wears' this baffles reasonable understanding. It moves when it believes itself unobserved.
-    .suffix = Flesh
+ent-ClothingOuterArmorHereticFlesh = извивающиеся объятия
+    .desc = Гнилая туша, а может, несколько, скрученных в мясистые полипы, узлы кишок и обломки костей. Как это вообще «носят», уму непостижимо. Оно шевелится, когда думает, что за ним никто не наблюдает.
+    .suffix = Плоть
 
 ent-ArmorHereticBlade = { ent-ArmorHeretic }
     .desc = { ent-ArmorHeretic.desc }
 
-ent-ClothingOuterArmorHereticBlade = shattered panoply
-    .desc = The sharpened edges of this ancient suit of armor assert a revelation known to aspirants of battle; a true warrior can not be distinguished from the blade they wield.
-    .suffix = Blade
+ent-ClothingOuterArmorHereticBlade = разбитые доспехи
+    .desc = Острые края этих древних доспехов возвещают истину, знакомую тем, кто жаждет битвы: настоящего воина невозможно отличить от его клинка.
+    .suffix = Клинок
 
 ent-ArmorHereticCosmos = { ent-ArmorHeretic }
     .desc = { ent-ArmorHeretic.desc }
 
-ent-ClothingOuterArmorHereticCosmos = starwoven cloak
-    .desc = Gleaming gems conjure forth wisps of power, turning about to illuminate the wearer in a dim radiance. Gazing upon the robe, you cannot help but feel noticed.
-    .suffix = Cosmos
+ent-ClothingOuterArmorHereticCosmos = звёздотканый плащ
+    .desc = Сверкающие самоцветы вызывают вихри силы, которые кружат вокруг владельца и освещают его тусклым сиянием. Глядя на плащ, вы невольно чувствуете, что вас заметили.
+    .suffix = Космос
 
 ent-ArmorHereticLock = { ent-ArmorHeretic }
     .desc = { ent-ArmorHeretic.desc }
 
-ent-ClothingOuterArmorHereticLock = shifting guise
+ent-ClothingOuterArmorHereticLock = переменчивое обличье
     .desc = { ent-ArmorHereticLock.desc }
-    .suffix = Lock
+    .suffix = Засов
 
 ent-ArmorHereticVoidCloak = { "" }
     .desc = { "" }
 
-ent-ClothingOuterArmorCloakVoid = void cloak
-    .desc = Black like tar, reflecting no light. Runic symbols line the outside. With each flash you lose comprehension of what you are seeing.
+ent-ClothingOuterArmorCloakVoid = плащ пустоты
+    .desc = Чёрный, как смола, он совсем не отражает свет. Снаружи выведены руны. С каждой вспышкой вам всё труднее понять, на что вы смотрите.

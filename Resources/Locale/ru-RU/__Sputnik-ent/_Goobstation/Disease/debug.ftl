@@ -1,23 +1,23 @@
 ent-DiseaseBehaviorDebug = { ent-DiseaseBehaviorBase }
     .desc = { ent-DiseaseBehaviorBase.desc }
 
-ent-DiseaseBehaviorTurboCancer = turbocancer
-    .desc = Deals genetic and blunt damage over time. A short time.
+ent-DiseaseBehaviorTurboCancer = турборак
+    .desc = Со временем наносит генетический и дробящий урон. За очень короткое время.
 
-ent-DiseaseBehaviorSpreadDebug = debug spread
-    .desc = The plague.
+ent-DiseaseBehaviorSpreadDebug = DEBUG-распространение
+    .desc = Чума.
 
-ent-DiseaseBehaviorForceSpreadDebug = omega spread
-    .desc = Worlds will rot.
+ent-DiseaseBehaviorForceSpreadDebug = омега-распространение
+    .desc = Миры сгниют.
 
-ent-DiseaseBehaviorTurboBlunt = poison
-    .desc = Deals lots of blunt damage over time.
+ent-DiseaseBehaviorTurboBlunt = яд
+    .desc = Со временем наносит большой дробящий урон.
 
-ent-DiseaseBehaviorDeconstructFloor = tile prying
-    .desc = Deconstructs the floor.
+ent-DiseaseBehaviorDeconstructFloor = отрыв тайлов
+    .desc = Разбирает пол.
 
-ent-DiseaseTurboCancer = turbo cancer
-    .desc = Deals lots of genetic damage to the infected. Better prepare the funeral.
+ent-DiseaseTurboCancer = турборак
+    .desc = Наносит заражённым большой генетический урон. Лучше готовиться к похоронам.
 
-ent-DiseaseTheRot = the rot
-    .desc = If you are reading this, you've invoked the gods' wrath.
+ent-DiseaseTheRot = гниль
+    .desc = Если вы это читаете, значит, вы навлекли на себя гнев богов.

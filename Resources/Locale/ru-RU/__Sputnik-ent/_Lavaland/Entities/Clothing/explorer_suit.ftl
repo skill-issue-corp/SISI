@@ -1,31 +1,31 @@
-ent-LavalandEquipmentExplorerSuit = explorer suit
-    .desc = An armoured suit for exploring harsh environments.
-    .suffix = Lava
+ent-LavalandEquipmentExplorerSuit = костюм исследователя
+    .desc = Бронированный костюм для исследований в суровых условиях.
+    .suffix = Лава
 
-ent-LavalandEquipmentExplorerHood = explorer hood
-    .desc = An armoured hood for exploring harsh environments.
-    .suffix = Lava
+ent-LavalandEquipmentExplorerHood = капюшон исследователя
+    .desc = Бронированный капюшон для исследований в суровых условиях.
+    .suffix = Лава
 
-ent-LavalandEquipmentExplorerSuitReinforced1 = reinforced explorer suit
-    .desc = An armoured suit for exploring harsh environments. Lightly reinforced with goliath plates.
-    .suffix = Reinforced
+ent-LavalandEquipmentExplorerSuitReinforced1 = усиленный костюм исследователя
+    .desc = Бронированный костюм для исследований в суровых условиях. Слегка усилен пластинами голиафа.
+    .suffix = Укреплено
 
-ent-LavalandEquipmentExplorerHoodReinforced1 = reinforced explorer hood
-    .desc = An armoured hood for exploring harsh environments. Lightly reinforced with goliath plates.
-    .suffix = Reinforced
+ent-LavalandEquipmentExplorerHoodReinforced1 = усиленный капюшон исследователя
+    .desc = Бронированный капюшон для исследований в суровых условиях. Слегка усилен пластинами голиафа.
+    .suffix = Укреплено
 
-ent-LavalandEquipmentExplorerSuitReinforced2 = reinforced explorer suit
-    .desc = An armoured suit for exploring harsh environments. Mostly reinforced with goliath plates.
-    .suffix = Reinforced
+ent-LavalandEquipmentExplorerSuitReinforced2 = усиленный костюм исследователя
+    .desc = Бронированный костюм для исследований в суровых условиях. Большей частью усилен пластинами голиафа.
+    .suffix = Укреплено
 
-ent-LavalandEquipmentExplorerHoodReinforced2 = reinforced explorer hood
-    .desc = An armoured hood for exploring harsh environments. Mostly reinforced with goliath plates.
-    .suffix = Reinforced
+ent-LavalandEquipmentExplorerHoodReinforced2 = усиленный капюшон исследователя
+    .desc = Бронированный капюшон для исследований в суровых условиях. Большей частью усилен пластинами голиафа.
+    .suffix = Укреплено
 
-ent-LavalandEquipmentExplorerSuitReinforced3 = reinforced explorer suit
-    .desc = An armoured suit for exploring harsh environments. Fully reinforced with goliath plates.
-    .suffix = Reinforced
+ent-LavalandEquipmentExplorerSuitReinforced3 = усиленный костюм исследователя
+    .desc = Бронированный костюм для исследований в суровых условиях. Полностью усилен пластинами голиафа.
+    .suffix = Укреплено
 
-ent-LavalandEquipmentExplorerHoodReinforced3 = reinforced explorer hood
-    .desc = An armoured hood for exploring harsh environments. Fully reinforced with goliath plates.
-    .suffix = Reinforced
+ent-LavalandEquipmentExplorerHoodReinforced3 = усиленный капюшон исследователя
+    .desc = Бронированный капюшон для исследований в суровых условиях. Полностью усилен пластинами голиафа.
+    .suffix = Укреплено

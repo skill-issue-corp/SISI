@@ -1,2 +1,2 @@
-ent-FreeformLawboard = freeform lawboard
-    .desc = The RD's freeform law board for setting custom laws.
+ent-FreeformLawboard = настраиваемая плата законов
+    .desc = Плата свободной формы НР для задания собственных законов.

@@ -3,4 +3,4 @@ ent-AppearanceXenomorphSentinel = { ent-AppearanceXenomorphBase }
 
 ent-OrganXenomorphHeadSentinel = { ent-OrganXenomorphHead }
     .desc = { ent-OrganXenomorphHead.desc }
-    .suffix = xenomorph sentinel
+    .suffix = страж ксеноморфов

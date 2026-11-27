@@ -6,9 +6,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-theater-1 = Dress for success!
-advertisement-theater-2 = Suited and booted!
-advertisement-theater-3 = It's show time!
-advertisement-theater-4 = Why leave style up to fate? Use AutoDrobe!
-advertisement-theater-5 = All wacky outfits and clothes, from gladiator robes to who knows what!
-advertisement-theater-6 = The clown will appreciate your outfit!
+advertisement-theater-1 = Одевайтесь для успеха!
+advertisement-theater-2 = При параде с головы до пят!
+advertisement-theater-3 = Шоу начинается!
+advertisement-theater-4 = Зачем полагаться на судьбу в выборе стиля? Воспользуйтесь АвтоШкафом!
+advertisement-theater-5 = Всяческие безумные наряды и одежда, от гладиаторских одеяний до чёрт знает чего!
+advertisement-theater-6 = Клоун оценит ваш наряд!

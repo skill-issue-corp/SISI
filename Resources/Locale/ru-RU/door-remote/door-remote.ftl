@@ -8,17 +8,17 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ## UI
-door-remote-toggle-eletrify-text = Toggle overcharge
-door-remote-open-close-text = Opens and Closes Doors
-door-remote-toggle-bolt-text = Toggles Bolts
-door-remote-emergency-access-text = Toggles Emergency Access
-door-remote-invalid-text = Invalid
-door-remote-mode-label = Mode: [color=white]{$modeString}[/color]
+door-remote-toggle-eletrify-text = Переключить подачу высокого напряжения
+door-remote-open-close-text = Открытие и Закрытие Дверей
+door-remote-toggle-bolt-text = Управление Болтами
+door-remote-emergency-access-text = Управление Аварийным Доступом
+door-remote-invalid-text = Недопустимо
+door-remote-mode-label = Режим: [color=white]{$modeString}[/color]
 
 ## Entity
 
-door-remote-switch-state-open-close = You switch the remote to open and close doors
-door-remote-switch-state-toggle-bolts = You switch the remote to toggle bolts
-door-remote-switch-state-toggle-emergency-access = You switch the remote to toggle emergency access
-door-remote-no-power = The door is not powered
-door-remote-denied = Access denied
+door-remote-switch-state-open-close = Вы переключаете пульт в режим открытия и закрытия дверей
+door-remote-switch-state-toggle-bolts = Вы переключаете пульт в режим управления болтами
+door-remote-switch-state-toggle-emergency-access = Вы переключаете пульт в режим управления аварийным доступом
+door-remote-no-power = Дверь обесточена
+door-remote-denied = Доступ запрещён

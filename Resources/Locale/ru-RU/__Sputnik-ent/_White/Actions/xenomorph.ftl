@@ -7,50 +7,50 @@ ent-ActionCombatModeToggleXenomorph = { ent-BaseXenomorphAction }
 ent-ToggleThermalVisionXenomorph = { ent-BaseXenomorphAction }
     .desc = { ent-BaseXenomorphAction.desc }
 
-ent-ActionEvolution = Evolve
-    .desc = Evolve into a higher xenomorph caste.
+ent-ActionEvolution = Эволюционировать
+    .desc = Эволюционируйте в высшую касту ксеноморфов.
 
-ent-ActionEvolutionPraetorian = Evolve to praetorian (500)
-    .desc = Evolve into the main defender of the hive.
+ent-ActionEvolutionPraetorian = Эволюционировать в преторианца (500)
+    .desc = Станьте главным защитником улья.
 
-ent-ActionEvolutionQueen = Evolve to queen (500)
-    .desc = Produce an internal egg sac capable of spawning children. Only one queen can exist at a time.
+ent-ActionEvolutionQueen = Эволюционировать в королеву (500)
+    .desc = Развивает внутренний яйцевой мешок, позволяющий производить потомство. Одновременно может существовать только одна королева.
 
-ent-ActionSpawnResinWeedNode = Plant weeds (50)
-    .desc = Plants some xenomorph weeds.
+ent-ActionSpawnResinWeedNode = Посадить сорняки (50)
+    .desc = Сажает несколько ксеноморфных сорняков.
 
-ent-ActionSpawnXenomorphEgg = Lay egg (75)
-    .desc = Lay an egg to produce facehuggers to impregnate prey with.
+ent-ActionSpawnXenomorphEgg = Отложить яйцо (75)
+    .desc = Отложите яйцо, из которого вылупится лицехват и заразит добычу.
 
-ent-ActionSpawnWallResin = Build a resin wall (50)
-    .desc = Secrete tough malleable resin.
+ent-ActionSpawnWallResin = Построить стену из смолы (50)
+    .desc = Выделяет прочную податливую смолу.
 
-ent-ActionSpawnResinDoor = Build a resin door (75)
+ent-ActionSpawnResinDoor = Построить дверь из смолы (75)
     .desc = { ent-ActionSpawnWallResin.desc }
 
-ent-ActionSpawnResinNest = Build a resin nest (50)
+ent-ActionSpawnResinNest = Построить гнездо из смолы (50)
     .desc = { ent-ActionSpawnWallResin.desc }
 
-ent-ActionTailLash = Tail lash
-    .desc = Hit your opponent with your tail.
+ent-ActionTailLash = Удар хвостом
+    .desc = Ударьте противника хвостом.
 
-ent-ActionAcid = Corrosive acid (100)
-    .desc = Drench an object in acid, destroying it over time.
+ent-ActionAcid = Едкая кислота (100)
+    .desc = Окатывает предмет кислотой, которая постепенно его разрушает.
 
-ent-ActionJumpXenomorph = Jump
-    .desc = Stun your enemies with a quick jump.
+ent-ActionJumpXenomorph = Прыжок
+    .desc = Оглушите врагов быстрым прыжком.
 
-ent-ActionTransferPlasma = Transfer plasma (50)
-    .desc = Passes plasma to your friend.
+ent-ActionTransferPlasma = Передать плазму (50)
+    .desc = Передаёт плазму вашему сородичу.
 
-ent-ActionXenomorphPromotion = Promote to Praetorian (500)
-    .desc = Directly promote a xenomorph to Praetorian status.
+ent-ActionXenomorphPromotion = Повысить до Преторианца (500)
+    .desc = Напрямую возводит ксеноморфа в ранг Преторианца.
 
-ent-ActionAcidSpit = Acid spit (20)
-    .desc = Toggle the ability to spit neurotoxin. When enabled, use (M2) to shoot.
+ent-ActionAcidSpit = Плевок кислотой (20)
+    .desc = Переключает способность плеваться нейротоксином. Когда она включена, для выстрела используйте (M2).
 
-ent-ActionFaceHuggerLeap = Leap
-    .desc = Leap onto a target's face to attach yourself.
+ent-ActionFaceHuggerLeap = Бросок
+    .desc = Прыгните цели на лицо, чтобы вцепиться в него.
 
-ent-ActionQueenroar = Roar
-    .desc = Roar loudly to stun all enemies around you.
+ent-ActionQueenroar = Рёв
+    .desc = Громко взревите, чтобы оглушить всех врагов поблизости.

@@ -1,23 +1,23 @@
 ent-ClothingBackpackWizardClownBundle = { ent-ClothingBackpackClown }
     .desc = { ent-ClothingBackpackClown.desc }
-    .suffix = Wizard Clown Bundle
+    .suffix = Набор Волшебника-Клоуна
 
 ent-ClothingBackpackWizardMimeBundle = { ent-ClothingBackpackMime }
     .desc = { ent-ClothingBackpackMime.desc }
-    .suffix = Wizard Mime Bundle
+    .suffix = Набор Волшебника-Мима
 
 ent-ClothingBackpackOblivionEnforcerBundle = { ent-ClothingBackpack }
     .desc = { ent-ClothingBackpack.desc }
-    .suffix = Wizard Oblivion Enforcer Bundle
+    .suffix = Набор Волшебника-Стража Забвения
 
 ent-ClothingBackpackPaper = { ent-ClothingBackpack }
     .desc = { ent-ClothingBackpack.desc }
-    .suffix = Wizard Paper Bundle
+    .suffix = Набор Бумажного Волшебника
 
 ent-ToolboxTider = { ent-ToolboxMechanical }
-    .desc = Are you ready for the new tide order?
-    .suffix = Tider
+    .desc = Готовы к новому тайдерскому порядку?
+    .suffix = Тайдер
 
 ent-ToolboxTiderFilled = { ent-ToolboxTider }
     .desc = { ent-ToolboxTider.desc }
-    .suffix = Wizard Tider Bundle
+    .suffix = Набор Волшебника-Тайдера

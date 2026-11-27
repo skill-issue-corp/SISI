@@ -1,21 +1,21 @@
 ent-BaseModsuitPieceERTMedical = { "" }
     .desc = { "" }
 
-ent-ClothingModsuitResponsoryMedical = Medical Responsory modsuit control unit
-    .desc = The main controller for a Medical Responsory modsuit.
+ent-ClothingModsuitResponsoryMedical = блок управления модсьюта «Медик ОБР»
+    .desc = Основной блок управления модсьютом «Медик ОБР».
 
-ent-ClothingModsuitGauntletsResponsoryMedical = Medical Responsory modsuit gauntlets
-    .desc = A pair of gauntlets made for the Medical Responsory hardsuit.
+ent-ClothingModsuitGauntletsResponsoryMedical = перчатки модсьюта «Медик ОБР»
+    .desc = Пара перчаток для скафандра «Медик ОБР».
 
-ent-ClothingModsuitHelmetResponsoryMedical = Medical Responsory modsuit helmet
-    .desc = A state-of-the-art helmet designed by NanoTrasen for the Medical Responsory modsuit. It includes a built-in HUD.
+ent-ClothingModsuitHelmetResponsoryMedical = шлем модсьюта «Медик ОБР»
+    .desc = Передовой шлем, разработанный NanoTrasen для модсьюта «Медик ОБР». Оснащён встроенным визором.
 
-ent-ClothingModsuitChestplateResponsoryMedical = Medical Responsory modsuit chestplate
-    .desc = A state of the art chestplate designed by NanoTrasen for the Medical Responsory modsuit. It incorporates powered servos to reduce the equipment load.
+ent-ClothingModsuitChestplateResponsoryMedical = нагрудник модсьюта «Медик ОБР»
+    .desc = Передовой нагрудник, разработанный NanoTrasen для модсьюта «Медик ОБР». Встроенные сервоприводы снижают нагрузку от снаряжения.
 
-ent-ClothingModsuitBootsResponsoryMedical = Medical Responsory modsuit boots
-    .desc = A state-of-the-art pair of magboots for the Medical Responsory modsuit.
+ent-ClothingModsuitBootsResponsoryMedical = ботинки модсьюта «Медик ОБР»
+    .desc = Передовые магнитные ботинки для модсьюта «Медик ОБР».
 
 ent-SuitStorageResponsoryMedical = { ent-SuitStorageBase }
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Medical Responsory Modsuit
+    .suffix = Модсьют «Медик ОБР»

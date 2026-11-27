@@ -1,5 +1,5 @@
-ent-CharcoalForgeUnlit = unlit charcoal forge
-    .desc = A charcoal forge, will burn for a long time when lit.
+ent-CharcoalForgeUnlit = незажжённая угольная кузница
+    .desc = Угольная кузница. Если её разжечь, она будет гореть долго.
 
-ent-CharcoalForgeLit = charcoal forge
-    .desc = A charcoal forge, it will be burning for quite some time.
+ent-CharcoalForgeLit = угольная кузница
+    .desc = Угольная кузница. Будет гореть ещё довольно долго.

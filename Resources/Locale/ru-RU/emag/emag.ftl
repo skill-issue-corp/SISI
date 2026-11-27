@@ -7,5 +7,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-emag-success = The device zaps something in {THE($target)}.
-emag-no-charges = No charges left!
+emag-success = Устройство замыкает какие-то контакты в {$target}.
+emag-no-charges = Заряды закончились!

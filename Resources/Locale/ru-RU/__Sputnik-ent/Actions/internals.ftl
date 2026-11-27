@@ -1,2 +1,2 @@
-ent-ActionToggleInternals = Toggle Internals
-    .desc = Breathe from the equipped gas tank. Also requires equipped breath mask.
+ent-ActionToggleInternals = Переключить Баллон
+    .desc = Дышите газом из надетого баллона. Для этого также нужна надетая дыхательная маска.

@@ -1,106 +1,106 @@
 -create-3rd-person =
     { $chance ->
-        [1] Creates
-        *[other] create
+        [1] Создаёт
+        *[other] создать
     }
 
 -cause-3rd-person =
     { $chance ->
-        [1] Causes
-        *[other] cause
+        [1] Вызывает
+        *[other] вызвать
     }
 
 -satiate-3rd-person =
     { $chance ->
-        [1] Satiates
-        *[other] satiate
+        [1] Восполняет
+        *[other] восполнить
     }
 
 entity-effect-guidebook-spawn-entity =
     { $chance ->
-        [1] Creates
-        *[other] create
+        [1] Создаёт
+        *[other] создать
     } { $amount ->
-        [1] {INDEFINITE($entname)}
-        *[other] {$amount} {$entname}
+        [1] {$entname}
+        *[other] «{$entname}», количество: {$amount}
     }
 
 entity-effect-guidebook-destroy =
     { $chance ->
-        [1] Destroys
-        *[other] destroy
-    } the object
+        [1] Уничтожает
+        *[other] уничтожить
+    } предмет
 
 entity-effect-guidebook-break =
     { $chance ->
-        [1] Breaks
-        *[other] break
-    } the object
+        [1] Ломает
+        *[other] сломать
+    } предмет
 
 entity-effect-guidebook-explosion =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } an explosion
+        [1] Вызывает
+        *[other] вызвать
+    } взрыв
 
 entity-effect-guidebook-emp =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } an electromagnetic pulse
+        [1] Вызывает
+        *[other] вызвать
+    } электромагнитный импульс
 
 entity-effect-guidebook-flash =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } a blinding flash
+        [1] Вызывает
+        *[other] вызвать
+    } ослепляющую вспышку
 
 entity-effect-guidebook-foam-area =
     { $chance ->
-        [1] Creates
-        *[other] create
-    } large quantities of foam
+        [1] Создаёт
+        *[other] создать
+    } много пены
 
 entity-effect-guidebook-smoke-area =
     { $chance ->
-        [1] Creates
-        *[other] create
-    } large quantities of smoke
+        [1] Создаёт
+        *[other] создать
+    } много дыма
 
 entity-effect-guidebook-satiate =
     { $chance ->
-        [1] Satiates
-        *[other] satiate
+        [1] Восполняет
+        *[other] восполнить
     } { $relative ->
-        [1] {$type} averagely
-        *[other] {$type} at {NATURALFIXED($relative, 3)}x the average rate
+        [1] {$type} со средней скоростью
+        *[other] {$type} со скоростью {NATURALFIXED($relative, 3)}x от средней
     }
 
 entity-effect-guidebook-health-change =
     { $chance ->
         [1] { $healsordeals ->
-                [heals] Heals
-                [deals] Deals
-                *[both] Modifies health by
+                [heals] Исцеляет
+                [deals] Наносит
+                *[both] Изменяет здоровье на
              }
         *[other] { $healsordeals ->
-                    [heals] heal
-                    [deals] deal
-                    *[both] modify health by
+                    [heals] исцелить
+                    [deals] нанести
+                    *[both] изменить здоровье на
                  }
     } { $changes }
 
 entity-effect-guidebook-even-health-change =
     { $chance ->
         [1] { $healsordeals ->
-            [heals] Evenly heals
-            [deals] Evenly deals
-            *[both] Evenly modifies health by
+            [heals] Равномерно исцеляет
+            [deals] Равномерно наносит
+            *[both] Равномерно изменяет здоровье на
         }
         *[other] { $healsordeals ->
-            [heals] evenly heal
-            [deals] evenly deal
-            *[both] evenly modify health by
+            [heals] равномерно исцелить
+            [deals] равномерно нанести
+            *[both] равномерно изменить здоровье на
         }
     } { $changes }
 
@@ -108,452 +108,469 @@ entity-effect-guidebook-even-health-change =
 entity-effect-guidebook-status-effect-old =
     { $type ->
         [update]{ $chance ->
-                    [1] Causes
-                     *[other] cause
-                 } {$key} for at least {NATURALFIXED($time, 3)} {MANY("second", $time)} without accumulation
+                    [1] Вызывает
+                     *[other] вызвать
+                 } эффект «{$key}» не менее чем на {guidebook-duration-seconds} без накопления длительности
         [add]   { $chance ->
-                    [1] Causes
-                    *[other] cause
-                } {$key} for at least {NATURALFIXED($time, 3)} {MANY("second", $time)} with accumulation
+                    [1] Вызывает
+                    *[other] вызвать
+                } эффект «{$key}» не менее чем на {guidebook-duration-seconds} с накоплением длительности
         [set]  { $chance ->
-                    [1] Causes
-                    *[other] cause
-                } {$key} for {NATURALFIXED($time, 3)} {MANY("second", $time)} without accumulation
+                    [1] Вызывает
+                    *[other] вызвать
+                } эффект «{$key}» на {guidebook-duration-seconds} без накопления длительности
         *[remove]{ $chance ->
-                    [1] Removes
-                    *[other] remove
-                } {NATURALFIXED($time, 3)} {MANY("second", $time)} of {$key}
+                    [1] Убирает
+                    *[other] убрать
+                } {guidebook-duration-seconds} длительности эффекта «{$key}»
     }
 
 # Trauma - removed LOC() from all of these, its already localized
 entity-effect-guidebook-status-effect =
     { $type ->
         [update]{ $chance ->
-                    [1] Causes
-                    *[other] cause
-                 } {$key} for at least {NATURALFIXED($time, 3)} {MANY("second", $time)} without accumulation
+                    [1] Вызывает
+                    *[other] вызвать
+                 } эффект «{$key}» не менее чем на {guidebook-duration-seconds} без накопления длительности
         [add]   { $chance ->
-                    [1] Causes
-                    *[other] cause
-                } {$key} for at least {NATURALFIXED($time, 3)} {MANY("second", $time)} with accumulation
+                    [1] Вызывает
+                    *[other] вызвать
+                } эффект «{$key}» не менее чем на {guidebook-duration-seconds} с накоплением длительности
         [set]  { $chance ->
-                    [1] Causes
-                    *[other] cause
-                } {$key} for at least {NATURALFIXED($time, 3)} {MANY("second", $time)} without accumulation
+                    [1] Вызывает
+                    *[other] вызвать
+                } эффект «{$key}» не менее чем на {guidebook-duration-seconds} без накопления длительности
         *[remove]{ $chance ->
-                    [1] Removes
-                    *[other] remove
-                } {NATURALFIXED($time, 3)} {MANY("second", $time)} of {$key}
+                    [1] Убирает
+                    *[other] убрать
+                } {guidebook-duration-seconds} длительности эффекта «{$key}»
     } { $delay ->
-        [0] immediately
-        *[other] after a {NATURALFIXED($delay, 3)} second delay
+        [0] сразу
+        *[other] спустя {NATURALFIXED($delay, 3)} сек.
     }
 
 # Trauma - removed LOC() from all of these, its already localized
 entity-effect-guidebook-status-effect-indef =
     { $type ->
         [update]{ $chance ->
-                    [1] Causes
-                    *[other] cause
-                 } permanent {$key}
+                    [1] Вызывает
+                    *[other] вызвать
+                 } постоянный эффект «{$key}»
         [add]   { $chance ->
-                    [1] Causes
-                    *[other] cause
-                } permanent {$key}
+                    [1] Вызывает
+                    *[other] вызвать
+                } постоянный эффект «{$key}»
         [set]  { $chance ->
-                    [1] Causes
-                    *[other] cause
-                } permanent {$key}
+                    [1] Вызывает
+                    *[other] вызвать
+                } постоянный эффект «{$key}»
         *[remove]{ $chance ->
-                    [1] Removes
-                    *[other] remove
+                    [1] Убирает
+                    *[other] убрать
                 } {$key}
     } { $delay ->
-        [0] immediately
-        *[other] after a {NATURALFIXED($delay, 3)} second delay
+        [0] сразу
+        *[other] спустя {NATURALFIXED($delay, 3)} сек.
     }
 
 # Trauma - LOC($key) -> knockdown, copy paste major
 entity-effect-guidebook-knockdown =
     { $type ->
         [update]{ $chance ->
-                    [1] Causes
-                    *[other] cause
-                    } knockdown for at least {NATURALFIXED($time, 3)} {MANY("second", $time)} without accumulation
+                    [1] Вызывает
+                    *[other] вызвать
+                    } падение не менее чем на {guidebook-duration-seconds} без накопления длительности
         [add]   { $chance ->
-                    [1] Causes
-                    *[other] cause
-                } knockdown for at least {NATURALFIXED($time, 3)} {MANY("second", $time)} with accumulation
+                    [1] Вызывает
+                    *[other] вызвать
+                } падение не менее чем на {guidebook-duration-seconds} с накоплением длительности
         *[set]  { $chance ->
-                    [1] Causes
-                    *[other] cause
-                } knockdown for at least {NATURALFIXED($time, 3)} {MANY("second", $time)} without accumulation
+                    [1] Вызывает
+                    *[other] вызвать
+                } падение не менее чем на {guidebook-duration-seconds} без накопления длительности
         [remove]{ $chance ->
-                    [1] Removes
-                    *[other] remove
-                } {NATURALFIXED($time, 3)} {MANY("second", $time)} of knockdown
+                    [1] Убирает
+                    *[other] убрать
+                } {guidebook-duration-seconds} длительности падения
     }
 
 entity-effect-guidebook-set-solution-temperature-effect =
     { $chance ->
-        [1] Sets
-        *[other] set
-    } the solution temperature to exactly {NATURALFIXED($temperature, 2)}k
+        [1] Задаёт
+        *[other] задать
+    } температуру раствора ровно {NATURALFIXED($temperature, 2)} к
 
 entity-effect-guidebook-adjust-solution-temperature-effect =
     { $chance ->
         [1] { $deltasign ->
-                [1] Adds
-                *[-1] Removes
+                [1] Добавляет
+                *[-1] Удаляет
             }
         *[other]
             { $deltasign ->
-                [1] add
-                *[-1] remove
+                [1] добавить
+                *[-1] удалить
             }
-    } heat { $deltasign ->
-                [1] to
-                *[-1] from
-           } the solution until it reaches { $deltasign ->
-                [1] at most {NATURALFIXED($maxtemp, 2)}k
-                *[-1] at least {NATURALFIXED($mintemp, 2)}k
+    } тепло { $deltasign ->
+                [1] в раствор
+                *[-1] из раствора
+           }, пока его температура не достигнет значения { $deltasign ->
+                [1] не выше {NATURALFIXED($maxtemp, 2)} к
+                *[-1] не ниже {NATURALFIXED($mintemp, 2)} к
             }
 
 entity-effect-guidebook-adjust-reagent-reagent =
     { $chance ->
         [1] { $deltasign ->
-                [1] Adds
-                *[-1] Removes
+                [1] Добавляет
+                *[-1] Удаляет
             }
         *[other]
             { $deltasign ->
-                [1] add
-                *[-1] remove
+                [1] добавить
+                *[-1] удалить
             }
-    } {NATURALFIXED($amount, 2)}u of {$reagent} { $deltasign ->
-        [1] to
-        *[-1] from
-    } the solution
+    } {NATURALFIXED($amount, 2)} ед. реагента «{$reagent}» { $deltasign ->
+        [1] в раствор
+        *[-1] из раствора
+    }
 
 entity-effect-guidebook-adjust-reagent-group =
     { $chance ->
         [1] { $deltasign ->
-                [1] Adds
-                *[-1] Removes
+                [1] Добавляет
+                *[-1] Удаляет
             }
         *[other]
             { $deltasign ->
-                [1] add
-                *[-1] remove
+                [1] добавить
+                *[-1] удалить
             }
-    } {NATURALFIXED($amount, 2)}u of reagents in the group {$group} { $deltasign ->
-            [1] to
-            *[-1] from
-        } the solution
+    } {NATURALFIXED($amount, 2)} ед. реагентов группы «{$group}» { $deltasign ->
+            [1] в раствор
+            *[-1] из раствора
+        }
 
 entity-effect-guidebook-adjust-temperature =
     { $chance ->
         [1] { $deltasign ->
-                [1] Adds
-                *[-1] Removes
+                [1] Добавляет
+                *[-1] Удаляет
             }
         *[other]
             { $deltasign ->
-                [1] add
-                *[-1] remove
+                [1] добавить
+                *[-1] удалить
             }
-    } {POWERJOULES($amount)} of heat { $deltasign ->
-            [1] to
-            *[-1] from
-        } the body it's in
+    } {POWERJOULES($amount)} тепла { $deltasign ->
+            [1] в организм
+            *[-1] из организма
+        }, в котором находится реагент
 
 entity-effect-guidebook-chem-cause-disease =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } the disease { $disease }
+        [1] Вызывает
+        *[other] вызвать
+    } заболевание «{ $disease }»
 
 entity-effect-guidebook-chem-cause-random-disease =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } the diseases { $diseases }
+        [1] Вызывает
+        *[other] вызвать
+    } заболевания: { $diseases }
 
 entity-effect-guidebook-jittering =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } jittering
+        [1] Вызывает
+        *[other] вызвать
+    } дрожь
 
 entity-effect-guidebook-clean-bloodstream =
     { $chance ->
-        [1] Cleanses
-        *[other] cleanse
-    } the bloodstream of other chemicals
+        [1] Очищает
+        *[other] очистить
+    } кровоток от других химикатов
 
 entity-effect-guidebook-cure-disease =
     { $chance ->
-        [1] Cures
-        *[other] cure
-    } diseases
+        [1] Лечит
+        *[other] вылечить
+    } заболевания
 
 entity-effect-guidebook-eye-damage =
     { $chance ->
         [1] { $deltasign ->
-                [1] Deals
-                *[-1] Heals
+                [1] Наносит
+                *[-1] Исцеляет
             }
         *[other]
             { $deltasign ->
-                [1] deal
-                *[-1] heal
+                [1] нанести
+                *[-1] исцелить
             }
-    } eye damage
+    } повреждения глаз
 
 entity-effect-guidebook-vomit =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } vomiting
+        [1] Вызывает
+        *[other] вызвать
+    } рвоту
 
 entity-effect-guidebook-create-gas =
     { $chance ->
-        [1] Creates
-        *[other] create
+        [1] Создаёт
+        *[other] создать
     } { $moles } { $moles ->
-        [1] mole
-        *[other] moles
-    } of { $gas }
+        [one] моль
+        [few] моля
+        [many] молей
+       *[other] моля
+    } газа «{ $gas }»
 
 entity-effect-guidebook-drunk =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } drunkness
+        [1] Вызывает
+        *[other] вызвать
+    } опьянение
 
 entity-effect-guidebook-electrocute =
     { $chance ->
         [1] { $stuns ->
-            [true] Electrocutes
-            *[false] Shocks
+            [true] Поражает током
+            *[false] Бьёт током
             }
         *[other] { $stuns ->
-            [true] electrocute
-            *[false] shock
+            [true] поразить током
+            *[false] ударить током
             }
-    } the metabolizer for {NATURALFIXED($time, 3)} {MANY("second", $time)}
+    } того, кто усваивает реагент, на {guidebook-duration-seconds}
 
 entity-effect-guidebook-emote =
     { $chance ->
-        [1] Will force
-        *[other] force
-    } the metabolizer to [bold][color=white]{$emote}[/color][/bold]
+        [1] Заставляет
+        *[other] заставить
+    } цель выразить эмоцию [bold][color=white]{$emote}[/color][/bold]
 
 entity-effect-guidebook-extinguish-reaction =
     { $chance ->
-        [1] Extinguishes
-        *[other] extinguish
-    } fire
+        [1] Тушит
+        *[other] потушить
+    } огонь
 
 # Trauma - $direction is set from the Flammable effect's multiplier sign, so negative Flammable reagents read "Decreases flammability"; defaults to increase
 entity-effect-guidebook-flammable-reaction =
     { $chance ->
         [1] { $direction ->
-                [decrease] Decreases
-                *[increase] Increases
+                [decrease] Снижает
+                *[increase] Повышает
             }
         *[other] { $direction ->
-                [decrease] decrease
-                *[increase] increase
+                [decrease] снизить
+                *[increase] повысить
             }
-    } flammability
+    } горючесть
 
 entity-effect-guidebook-ignite =
     { $chance ->
-        [1] Ignites
-        *[other] ignite
-    } the metabolizer
+        [1] Поджигает
+        *[other] поджечь
+    } того, кто усваивает реагент
 
 entity-effect-guidebook-make-sentient =
     { $chance ->
-        [1] Makes
-        *[other] make
-    } the metabolizer sentient
+        [1] Делает
+        *[other] сделать
+    } того, кто усваивает реагент, разумным
 
 entity-effect-guidebook-make-polymorph =
     { $chance ->
-        [1] Polymorphs
-        *[other] polymorph
-    } the metabolizer into a { $entityname }
+        [1] Превращает
+        *[other] превратить
+    } того, кто усваивает реагент, в существо: { $entityname }
 
 entity-effect-guidebook-modify-bleed-amount =
     { $chance ->
         [1] { $deltasign ->
-                [1] Induces
-                *[-1] Reduces
+                [1] Вызывает
+                *[-1] Ослабляет
             }
         *[other] { $deltasign ->
-                    [1] induce
-                    *[-1] reduce
+                    [1] вызвать
+                    *[-1] ослабить
                  }
-    } bleeding
+    } кровотечение
 
 entity-effect-guidebook-modify-blood-level =
     { $chance ->
         [1] { $deltasign ->
-                [1] Increases
-                *[-1] Decreases
+                [1] Повышает
+                *[-1] Снижает
             }
         *[other] { $deltasign ->
-                    [1] increases
-                    *[-1] decreases
+                    [1] повысить
+                    *[-1] снизить
                  }
-    } blood level
+    } объём крови
 
 entity-effect-guidebook-paralyze =
     { $chance ->
-        [1] Paralyzes
-        *[other] paralyze
-    } the metabolizer for at least {NATURALFIXED($time, 3)} {MANY("second", $time)}
+        [1] Парализует
+        *[other] парализовать
+    } того, кто усваивает реагент не менее чем на {guidebook-duration-seconds}
 
 entity-effect-guidebook-movespeed-modifier =
     { $chance ->
-        [1] Modifies
-        *[other] modify
-    } movement speed by {NATURALFIXED($sprintspeed, 3)}x for at least {NATURALFIXED($time, 3)} {MANY("second", $time)}
+        [1] Изменяет
+        *[other] изменить
+    } скорость передвижения с множителем {NATURALFIXED($sprintspeed, 3)}x не менее чем на {guidebook-duration-seconds}
 
 entity-effect-guidebook-reset-narcolepsy =
     { $chance ->
-        [1] Temporarily staves
-        *[other] temporarily stave
-    } off narcolepsy
+        [1] Временно подавляет
+        *[other] временно подавить
+    } нарколепсию
 
 entity-effect-guidebook-wash-cream-pie-reaction =
     { $chance ->
-        [1] Washes
-        *[other] wash
-    } off cream pie from one's face
+        [1] Смывает
+        *[other] смыть
+    } крем от пирога с лица
 
 entity-effect-guidebook-cure-zombie-infection =
     { $chance ->
-        [1] Cures
-        *[other] cure
-    } an ongoing zombie infection
+        [1] Лечит
+        *[other] вылечить
+    } зомби-инфекцию
 
 entity-effect-guidebook-cause-zombie-infection =
     { $chance ->
-        [1] Gives
-        *[other] give
-    } an individual the zombie infection
+        [1] Заражает
+        *[other] заразить
+    } цель зомби-инфекцией
 
 entity-effect-guidebook-innoculate-zombie-infection =
     { $chance ->
-        [1] Cures
-        *[other] cure
-    } an ongoing zombie infection, and provides immunity to future infections
+        [1] Лечит
+        *[other] вылечить
+    } зомби-инфекцию и даёт иммунитет к повторному заражению
 
 entity-effect-guidebook-reduce-rotting =
     { $chance ->
-        [1] Regenerates
-        *[other] regenerate
-    } {NATURALFIXED($time, 3)} {MANY("second", $time)} of rotting
+        [1] Обращает вспять
+        *[other] обратить вспять
+    } {guidebook-duration-seconds} разложения
 
 entity-effect-guidebook-area-reaction =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } a smoke or foam reaction for {NATURALFIXED($duration, 3)} {MANY("second", $duration)}
+        [1] Вызывает
+        *[other] вызвать
+    } реакцию с выделением дыма или пены на {NATURALFIXED($duration, 3)} { $duration ->
+        [one] секунду
+        [few] секунды
+        [many] секунд
+       *[other] секунды
+    }
 
 entity-effect-guidebook-add-to-solution-reaction =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } {$reagent} to be added to its internal solution container
+        [1] Вызывает
+        *[other] вызвать
+    } добавление реагента «{$reagent}» во внутренний контейнер для раствора
 
 entity-effect-guidebook-artifact-unlock =
     { $chance ->
-        [1] Helps
-        *[other] help
-        } unlock an alien artifact.
+        [1] Помогает
+        *[other] помочь
+        } открыть инопланетный артефакт.
 
 entity-effect-guidebook-artifact-durability-restore =
-    Restores {$restored} durability in active alien artifact nodes.
+    Восстанавливает {$restored} ед. прочности активных узлов инопланетного артефакта.
 
 entity-effect-guidebook-plant-attribute =
     { $chance ->
-        [1] Adjusts
-        *[other] adjust
-    } {$attribute} by {$positive ->
+        [1] Изменяет
+        *[other] изменить
+    } показатель «{$attribute}» на {$positive ->
     [false] [color=red]{$amount}[/color]
     *[true] [color=green]{$amount}[/color]
     }
 
 entity-effect-guidebook-plant-cryoxadone =
     { $chance ->
-        [1] Ages back
-        *[other] age back
-    } the plant, depending on the plant's age and time to grow
+        [1] Омолаживает
+        *[other] омолодить
+    } растение в зависимости от его возраста и срока роста
 
 entity-effect-guidebook-plant-phalanximine =
     { $chance ->
-        [1] Restores
-        *[other] restore
-    } viability to a plant rendered nonviable by a mutation
+        [1] Восстанавливает
+        *[other] восстановить
+    } жизнеспособность растения, которую оно утратило из-за мутации
 
 entity-effect-guidebook-plant-diethylamine =
     { $chance ->
-        [1] Increases
-        *[other] increase
-    } the plant's lifespan and/or base health with 10% chance for each
+        [1] Повышает
+        *[other] повысить
+    } продолжительность жизни и/или базовое здоровье растения с вероятностью 10% для каждого показателя
 
 entity-effect-guidebook-plant-robust-harvest =
     { $chance ->
-        [1] Increases
-        *[other] increase
-    } the plant's potency by {$increase} up to a maximum of {$limit}. Causes the plant to lose its seeds once the potency reaches {$seedlesstreshold}. Trying to add potency over {$limit} may cause decrease in yield at a 10% chance
+        [1] Повышает
+        *[other] повысить
+    } концентрацию веществ в растении на {$increase} до предела {$limit}. Когда концентрация достигает {$seedlesstreshold}, растение перестаёт давать семена. Попытка повысить концентрацию сверх {$limit} может снизить урожайность с вероятностью 10%
 
 entity-effect-guidebook-plant-seeds-add =
     { $chance ->
-        [1] Restores the
-        *[other] restore the
-    } seeds of the plant
+        [1] Восстанавливает
+        *[other] восстановить
+    } семена растения
 
 entity-effect-guidebook-plant-seeds-remove =
     { $chance ->
-        [1] Removes the
-        *[other] remove the
-    } seeds of the plant
+        [1] Удаляет
+        *[other] удалить
+    } семена растения
 
 entity-effect-guidebook-plant-change-trait =
     { $chance ->
         [1] { $change ->
-            [Add] adds {$trait} to
-            [Remove] removes {$trait} from
-            [Toggle] toggles {$trait} on
-            *[other] changes {$trait} on
+            [Add] добавляет признак «{$trait}» у
+            [Remove] удаляет признак «{$trait}» у
+            [Toggle] переключает признак «{$trait}» у
+            *[other] изменяет признак «{$trait}» у
         }
         *[other] { $change ->
-            [Add] add {$trait} to
-            [Remove] remove {$trait} from
-            [Toggle] toggle {$trait} on
-            *[other] change {$trait} on
+            [Add] добавить признак «{$trait}» у
+            [Remove] удалить признак «{$trait}» у
+            [Toggle] переключить признак «{$trait}» у
+            *[other] изменить признак «{$trait}» у
         }
-    } the plant
+    } растения
 
 entity-effect-guidebook-plant-mutate-exude-gasses =
     { $chance ->
-        [1] Mutates
-        *[other] mutate
-    } the plant to exude gases between {$minValue} and {$maxValue} moles
+        [1] Меняет
+        *[other] изменить
+    } растение так, что оно выделяет от {$minValue} до {$maxValue} { $maxValue ->
+        [one] моля
+        [few] молей
+        [many] молей
+       *[other] моля
+    } газа
 
 entity-effect-guidebook-plant-mutate-consume-gasses =
     { $chance ->
-        [1] Mutates
-        *[other] mutate
-    } the plant to consume gases between {$minValue} and {$maxValue} moles
+        [1] Меняет
+        *[other] изменить
+    } растение так, что оно поглощает от {$minValue} до {$maxValue} { $maxValue ->
+        [one] моля
+        [few] молей
+        [many] молей
+       *[other] моля
+    } газа
 
 entity-effect-guidebook-plant-mutate-chemicals =
     { $chance ->
-        [1] Mutates
-        *[other] mutate
-    } a plant to produce {$name}
+        [1] Меняет
+        *[other] изменить
+    } растение так, что оно вырабатывает «{$name}»

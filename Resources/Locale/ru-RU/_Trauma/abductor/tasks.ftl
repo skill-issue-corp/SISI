@@ -1,27 +1,27 @@
 # Special
 
-abductor-task-InstallGland = Replace the subject's heart with our special gland
+abductor-task-InstallGland = Заменить сердце подопытного нашей особой железой
 
 # Organs
 
-abductor-task-RemoveWings = Remove the subject's wings
-abductor-task-FixWings = Attach new wings to the subject
-abductor-task-RemoveTail = Remove the subject's tail
-abductor-task-EndRacism = Attach a reptilian's tail 👽 to the subject
-abductor-task-CyberEyes = Install cybernetic eyes in the subject's skull
-abductor-task-InsertCavity = Hide something 👽 inside the subject's chest cavity
+abductor-task-RemoveWings = Удалить крылья подопытного
+abductor-task-FixWings = Прикрепить подопытному новые крылья
+abductor-task-RemoveTail = Удалить хвост подопытного
+abductor-task-EndRacism = Прикрепить подопытному хвост унатха 👽
+abductor-task-CyberEyes = Установить кибернетические глаза в череп подопытного
+abductor-task-InsertCavity = Спрятать что-нибудь 👽 в грудной полости подопытного
 
 # Damage
 
-abductor-task-FullyHeal = Completely heal the subject
-abductor-task-Beating = Apply 30 blunt damage to the subject
-abductor-task-BurnMoth = Apply 30 burn damage to the fluffy subject 👽
+abductor-task-FullyHeal = Полностью вылечить подопытного
+abductor-task-Beating = Нанести подопытному 30 тупого урона
+abductor-task-BurnMoth = Нанести пушистому подопытному 30 урона ожогами 👽
 
 # Abuse
 
-abductor-task-RemoveArms = Sever the subject's arms
-abductor-task-RemoveLegs = Sever the subject's legs
-abductor-task-RemoveTongue = Extract the subject's tongue
-abductor-task-RemoveKidneys = Extract the subject's kidneys
-abductor-task-RemoveStomach = Extract the subject's stomach
-abductor-task-RemoveHair = Make the subject bald like us 👽👽, using our high-tech retractor 👽
+abductor-task-RemoveArms = Отсечь руки подопытного
+abductor-task-RemoveLegs = Отсечь ноги подопытного
+abductor-task-RemoveTongue = Извлечь язык подопытного
+abductor-task-RemoveKidneys = Извлечь почки подопытного
+abductor-task-RemoveStomach = Извлечь желудок подопытного
+abductor-task-RemoveHair = Сделать подопытного таким же лысым, как мы 👽👽, при помощи нашего высокотехнологичного ретрактора 👽

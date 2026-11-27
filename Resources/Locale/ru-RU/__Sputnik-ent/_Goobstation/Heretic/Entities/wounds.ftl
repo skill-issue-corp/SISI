@@ -1,2 +1,2 @@
-ent-WeepingAvulsion = weeping avulsion
+ent-WeepingAvulsion = мокнущая отрывная рана
     .desc = { ent-WoundBase.desc }

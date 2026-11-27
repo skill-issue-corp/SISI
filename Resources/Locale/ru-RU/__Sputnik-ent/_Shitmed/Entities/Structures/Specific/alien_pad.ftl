@@ -1,2 +1,2 @@
-ent-AbductorAlienPad = alien pad
-    .desc = Beam in the inferior lifeforms and dig in.
+ent-AbductorAlienPad = инопланетная платформа
+    .desc = Телепортируйте низшие формы жизни и принимайтесь за дело.

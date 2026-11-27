@@ -1,27 +1,27 @@
-ent-MobHumanApprenticeBase = apprentice
+ent-MobHumanApprenticeBase = ученик
     .desc = { ent-MobHuman.desc }
-    .suffix = Human, Apprentice
+    .suffix = Человек, Ученик
 
-ent-MobHumanApprenticeDestruction = destruction apprentice
+ent-MobHumanApprenticeDestruction = ученик разрушения
     .desc = { ent-MobHumanApprenticeBase.desc }
 
-ent-MobHumanApprenticeEthereal = ethereal apprentice
+ent-MobHumanApprenticeEthereal = ученик эфира
     .desc = { ent-MobHumanApprenticeBase.desc }
 
-ent-MobHumanApprenticeSummon = summoning apprentice
+ent-MobHumanApprenticeSummon = ученик призыва
     .desc = { ent-MobHumanApprenticeBase.desc }
 
-ent-MobHumanApprenticeGun = gunslinger apprentice
+ent-MobHumanApprenticeGun = ученик-стрелок
     .desc = { ent-MobHumanApprenticeBase.desc }
 
-ent-MobHumanApprenticeArcane = arcane apprentice
+ent-MobHumanApprenticeArcane = ученик мистических искусств
     .desc = { ent-MobHumanApprenticeBase.desc }
 
-ent-MobHumanApprenticeSanguine = sanguine apprentice
+ent-MobHumanApprenticeSanguine = ученик магии крови
     .desc = { ent-MobHumanApprenticeBase.desc }
 
-ent-MobHumanApprenticeRobeless = robeless apprentice
+ent-MobHumanApprenticeRobeless = ученик без робы
     .desc = { ent-MobHumanApprenticeBase.desc }
 
-ent-MobHumanApprenticeChaos = chaos apprentice
+ent-MobHumanApprenticeChaos = ученик хаоса
     .desc = { ent-MobHumanApprenticeBase.desc }

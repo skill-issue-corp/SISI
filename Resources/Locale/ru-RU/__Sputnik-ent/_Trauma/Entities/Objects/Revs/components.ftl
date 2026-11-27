@@ -4,23 +4,23 @@ ent-BaseRevPart = { ent-BaseStockPart }
 ent-BaseRevComponent = { ent-BaseRevPart }
     .desc = { ent-BaseRevPart.desc }
 
-ent-RevGear = gear
-    .desc = A gear, used in quite a few devices.
+ent-RevGear = шестерня
+    .desc = Шестерня, которая используется во множестве устройств.
 
-ent-RevBolt = pile of bolts
-    .desc = Some bolts, used in quite a few devices.
+ent-RevBolt = кучка болтов
+    .desc = Несколько болтов, которые используются во множестве устройств.
 
-ent-RevNut = pile of nuts
-    .desc = Some nuts, used in quite a few devices.
+ent-RevNut = кучка гаек
+    .desc = Несколько гаек, которые используются во множестве устройств.
 
-ent-RevTurretElectronics = revolutionary turret circuit board
-    .desc = Used in the creation of turrets, they are programmed to shoot anything without an IFF badge so be careful.
+ent-RevTurretElectronics = плата революционной турели
+    .desc = Применяются при сборке турелей. Учтите, что они запрограммированы стрелять по всем, у кого нет карты системы опознавания.
 
-ent-RevGunParts = gun parts
-    .desc = A small pile of gun parts. Useless on their own, but you have plans for them.
+ent-RevGunParts = детали оружия
+    .desc = Небольшая кучка оружейных деталей. Сами по себе бесполезны, но у вас есть на них планы.
 
-ent-RevEngineParts = engine parts
-    .desc = A pile of engine parts. Useless on their own, but you have plans for them.
+ent-RevEngineParts = детали двигателя
+    .desc = Кучка деталей двигателя. Сами по себе бесполезны, но у вас есть на них планы.
 
-ent-RevBallBearings = ball bearings
-    .desc = A small handfull of metal balls.
+ent-RevBallBearings = шариковые подшипники
+    .desc = Небольшая горсть металлических шариков.

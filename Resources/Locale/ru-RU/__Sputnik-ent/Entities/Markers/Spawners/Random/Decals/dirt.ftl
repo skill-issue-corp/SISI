@@ -3,20 +3,20 @@ ent-DecalSpawnerDirtBase = { ent-DecalSpawnerBase }
 
 ent-DecalSpawnerDirtSingle = { ent-DecalSpawnerDirtBase }
     .desc = { ent-DecalSpawnerDirtBase.desc }
-    .suffix = Dirt, 0 Radius
+    .suffix = Грязь, Радиус 0
 
 ent-DecalSpawnerDirtNear = { ent-DecalSpawnerDirtBase }
     .desc = { ent-DecalSpawnerDirtBase.desc }
-    .suffix = Dirt, 1.5 Radius
+    .suffix = Грязь, Радиус 1.5
 
 ent-DecalSpawnerDirtWide = { ent-DecalSpawnerDirtBase }
     .desc = { ent-DecalSpawnerDirtBase.desc }
-    .suffix = Dirt, 3 Radius
+    .suffix = Грязь, Радиус 3
 
 ent-DecalSpawnerDirtMonospace = { ent-DecalSpawnerDirtBase }
     .desc = { ent-DecalSpawnerDirtBase.desc }
-    .suffix = Dirt, Monospace, 1 Radius
+    .suffix = Грязь, Моноспейс, Радиус 1
 
 ent-DecalSpawnerBurns = { ent-DecalSpawnerDirtMonospace }
     .desc = { ent-DecalSpawnerDirtMonospace.desc }
-    .suffix = Burns, 1 Radius
+    .suffix = Подпалины, Радиус 1

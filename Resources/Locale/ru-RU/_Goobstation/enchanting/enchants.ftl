@@ -10,5 +10,5 @@ enchant-examine-level = [color=lightblue]{$enchant} {$level ->
     [8] VIII
     [9] IX
     [10] X
-    *[other] $level
+    *[other] {$level}
 }[/color]

@@ -6,23 +6,23 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-VoxFacialHairBeard = Vox Beard (Quills)
-marking-VoxFacialHairBeard-beard_s = Vox Beard (Quills)
+marking-VoxFacialHairBeard = Борода Вокса (Перья)
+marking-VoxFacialHairBeard-beard_s = Борода Вокса (Перья)
 
-marking-VoxFacialHairColonel = Vox Moustache (Colonel)
-marking-VoxFacialHairColonel-colonel_s = Vox Moustache (Colonel)
+marking-VoxFacialHairColonel = Усы Вокса (Полковник)
+marking-VoxFacialHairColonel-colonel_s = Усы Вокса (Полковник)
 
-marking-VoxFacialHairFu = Vox Moustache (Quill Fu)
-marking-VoxFacialHairFu-fu_s = Vox Moustache (Quill Fu)
+marking-VoxFacialHairFu = Усы Вокса (Перьевой Фу)
+marking-VoxFacialHairFu-fu_s = Усы Вокса (Перьевой Фу)
 
-marking-VoxFacialHairNeck = Vox Beard (Neck Quills)
-marking-VoxFacialHairNeck-neck_s = Vox Beard (Neck Quills)
+marking-VoxFacialHairNeck = Борода Вокса (Перья на Шее)
+marking-VoxFacialHairNeck-neck_s = Борода Вокса (Перья на Шее)
 
-marking-VoxFacialHairMane = Vox Beard (Mane)
-marking-VoxFacialHairMane-mane_s = Vox Beard (Mane)
+marking-VoxFacialHairMane = Борода Вокса (Грива)
+marking-VoxFacialHairMane-mane_s = Борода Вокса (Грива)
 
-marking-VoxFacialHairManeSmall = Vox Beard (Small Mane)
-marking-VoxFacialHairManeSmall-manesmall_s = Vox Beard (Small Mane)
+marking-VoxFacialHairManeSmall = Борода Вокса (Малая Грива)
+marking-VoxFacialHairManeSmall-manesmall_s = Борода Вокса (Малая Грива)
 
-marking-VoxFacialHairTufts = Vox Sideburns (Tufts)
-marking-VoxFacialHairTufts-tuft_s = Vox Sideburns (Tufts)
+marking-VoxFacialHairTufts = Бакенбарды Вокса (Пучки)
+marking-VoxFacialHairTufts-tuft_s = Бакенбарды Вокса (Пучки)

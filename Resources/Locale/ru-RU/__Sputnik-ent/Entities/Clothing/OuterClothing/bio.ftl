@@ -1,23 +1,23 @@
-ent-ClothingOuterBioGeneral = bio suit
-    .desc = A suit that protects against biological contamination.
-    .suffix = Generic
+ent-ClothingOuterBioGeneral = биозащитный костюм
+    .desc = Костюм для защиты от биологических загрязнений.
+    .suffix = Обычный
 
-ent-ClothingOuterBioCmo = bio suit
-    .desc = An advanced suit that protects against biological contamination, in CMO colors.
-    .suffix = CMO
+ent-ClothingOuterBioCmo = биозащитный костюм
+    .desc = Усовершенствованный костюм в цветах ГВ для защиты от биологических загрязнений.
+    .suffix = ГВ
 
-ent-ClothingOuterBioJanitor = bio suit
-    .desc = A suit that protects against biological contamination and caustic spills.
-    .suffix = Janitor
+ent-ClothingOuterBioJanitor = биозащитный костюм
+    .desc = Костюм для защиты от биологических загрязнений и брызг едких веществ.
+    .suffix = Уборщик
 
-ent-ClothingOuterBioScientist = bio suit
-    .desc = A suit that protects against biological contamination, in Scientist colors.
-    .suffix = Science
+ent-ClothingOuterBioScientist = биозащитный костюм
+    .desc = Костюм для защиты от биологических загрязнений в цветах Научного Отдела.
+    .suffix = Наука
 
-ent-ClothingOuterBioSecurity = bio suit
-    .desc = A suit that protects against biological contamination, kitted out with additional armor.
-    .suffix = Security
+ent-ClothingOuterBioSecurity = биозащитный костюм
+    .desc = Костюм для защиты от биологических загрязнений, усиленный дополнительной бронёй.
+    .suffix = Служба Безопасности
 
-ent-ClothingOuterBioVirology = bio suit
-    .desc = A suit that strongly protects against biological contamination.
-    .suffix = Virology
+ent-ClothingOuterBioVirology = биозащитный костюм
+    .desc = Костюм с усиленной защитой от биологических загрязнений.
+    .suffix = Вирусология

@@ -4,8 +4,8 @@ ent-BaseStructureComputerIndestructible = { ent-BaseStructure }
 ent-BaseStructureComputer = { ent-BaseStructureComputerIndestructible }
     .desc = { ent-BaseStructureComputerIndestructible.desc }
 
-ent-ComputerFrame = computer frame
-    .desc = A computer under construction.
+ent-ComputerFrame = каркас компьютера
+    .desc = Компьютер в процессе сборки.
 
-ent-ComputerBroken = broken computer
-    .desc = This computer has seen better days.
+ent-ComputerBroken = сломанный компьютер
+    .desc = Этот компьютер знавал лучшие времена.

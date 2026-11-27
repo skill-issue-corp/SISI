@@ -1,2 +1,2 @@
-ent-RespawnAction = Revival
-    .desc = Rebirth in a new guise. It takes 10 minutes to recharge.
+ent-RespawnAction = Возрождение
+    .desc = Перерождение в новом облике. Перезарядка занимает 10 минут.

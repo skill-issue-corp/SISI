@@ -1,14 +1,14 @@
-uplink-codespeak-manual-name = Codespeak Manual
-uplink-codespeak-manual-desc = Syndicate agents can be trained to use a series of codewords to convey complex information, which sounds like random concepts and drinks to anyone listening. This manual teaches you this Codespeak. This is the deluxe edition, which has unlimited uses.
+uplink-codespeak-manual-name = Учебник Кодоречи
+uplink-codespeak-manual-desc = Агентов Синдиката обучают передавать сложную информацию с помощью кодовых слов. Для непосвящённых это звучит как случайный набор понятий и названий напитков. Это руководство обучает Кодовому Языку. Издание люкс можно использовать сколько угодно.
 
-uplink-storage-briefcase-name = False Bottomed Briefcase
-uplink-storage-briefcase-desc = A briefcase with a hidden compartment that can store anything normal-sized or smaller. To use the hidden compartment, use a screwdriver on the briefcase, and then place the desired item inside before closing the compartment by using the screwdriver again. Be warned that anyone with the proper tools can use this briefcase's hidden function or open the compartment!
+uplink-storage-briefcase-name = Портфель с Двойным Дном
+uplink-storage-briefcase-desc = Портфель с потайным отделением для предметов обычного размера и меньше. Откройте отделение отвёрткой, положите внутрь нужный предмет и закройте отделение той же отвёрткой. Учтите, что любой человек с подходящими инструментами может открыть отделение и воспользоваться тайником!
 
-uplink-observation-kit-name = Observation Kit
-uplink-observation-kit-desc = Includes a syndicate crew monitor, camera bug,  microreactor power cell and security hud disguised as sunglasses.
+uplink-observation-kit-name = Набор для Наблюдения
+uplink-observation-kit-desc = В комплекте монитор экипажа синдиката, жучок для камер, микрореакторная батарея и очки с интерфейсом службы безопасности под видом солнцезащитных.
 
-uplink-records-tablet-name = Records Tablet
-uplink-records-tablet-desc = A tablet that lets you view the station records of any crewmember, handily disguised as a station map. One per agent.
+uplink-records-tablet-name = Планшет Личных Дел
+uplink-records-tablet-desc = Позволяет просматривать личные дела любого члена экипажа. Удобно замаскирован под карту станции. По одному на агента.
 
-uplink-ultrabright-lantern-name = Extra-Bright Lantern
-uplink-ultrabright-lantern-desc = This ultra-bright lantern can be used to blind people, similar to a flash.
+uplink-ultrabright-lantern-name = Сверхъяркий Фонарь
+uplink-ultrabright-lantern-desc = Этот сверхъяркий фонарь может ослепить людей, как вспышка.

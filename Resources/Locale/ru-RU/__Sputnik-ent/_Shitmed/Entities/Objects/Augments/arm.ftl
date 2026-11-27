@@ -1,8 +1,8 @@
 ent-BaseArmAugment = { ent-BaseAugment }
     .desc = { ent-BaseAugment.desc }
 
-ent-ActionAugmentOpenToolsPanel = Open tools panel
-    .desc = Access the tools implanted within you
+ent-ActionAugmentOpenToolsPanel = Открыть панель инструментов
+    .desc = Получите доступ к инструментам, имплантированным в ваше тело
 
 ent-BaseAugmentToolPanel = { ent-BaseArmAugment }
     .desc = { ent-BaseArmAugment.desc }
@@ -10,47 +10,47 @@ ent-BaseAugmentToolPanel = { ent-BaseArmAugment }
 ent-BaseAugmentElectronics = { ent-BaseElectronics }
     .desc = { ent-BaseElectronics.desc }
 
-ent-AugmentUtilityPanelElectronics = utility tools panel electronics
-    .desc = An electronics board that programs a tool panel to hold a specific type of item. This one holds utility tools.
+ent-AugmentUtilityPanelElectronics = электроника панели вспомогательных инструментов
+    .desc = Плата, программирующая панель инструментов на хранение определённого типа предметов. Эта панель вмещает вспомогательные инструменты.
 
-ent-AugmentBotanyPanelElectronics = botany tools panel electronics
-    .desc = An electronics board that programs a tool panel to hold a specific type of item. This one holds botanical tools.
+ent-AugmentBotanyPanelElectronics = электроника панели инструментов ботаника
+    .desc = Плата, программирующая панель инструментов на хранение определённого типа предметов. Эта панель вмещает ботанические инструменты.
 
-ent-AugmentSurgeryPanelElectronics = surgery tools panel electronics
-    .desc = An electronics board that programs a tool panel to hold a specific type of item. This one holds surgical tools.
+ent-AugmentSurgeryPanelElectronics = электроника панели хирургических инструментов
+    .desc = Плата, программирующая панель инструментов на хранение определённого типа предметов. Эта панель вмещает хирургические инструменты.
 
-ent-AugmentStrengthElectronics = strength augment electronics
-    .desc = An electronics board that controls a strength augment.
+ent-AugmentStrengthElectronics = электроника импланта усиления
+    .desc = Плата управления имплантом усиления.
 
 ent-BaseIncompleteAugmentToolPanel = { ent-BaseItem }
-    .desc = Can be implanted into a body to provide access to specific tools. This one is incomplete.
+    .desc = Можно имплантировать в тело, чтобы получить доступ к определённым инструментам. Сборка ещё не завершена.
 
-ent-AugmentToolPanelCasing = tools panel augment casing
+ent-AugmentToolPanelCasing = корпус импланта панели инструментов
     .desc = { ent-BaseIncompleteAugmentToolPanel.desc }
 
-ent-AugmentToolPanelCables = tools panel augment casing with cables
+ent-AugmentToolPanelCables = корпус импланта панели инструментов с проводами
     .desc = { ent-BaseIncompleteAugmentToolPanel.desc }
 
-ent-AugmentToolsPanel = utility tools panel augment
-    .desc = A panel that can be augmented into a patient's arm to provide them access to its contents. This one can hold basic tools.
+ent-AugmentToolsPanel = имплант панели вспомогательных инструментов
+    .desc = Панель можно имплантировать в руку пациента, чтобы дать ему доступ к содержимому. Эта вмещает основные инструменты.
 
-ent-AugmentBotanyPanel = botanical tools panel augment
-    .desc = A panel that can be augmented into a patient's arm to provide them access to its contents. This one can hold botanical tools.
+ent-AugmentBotanyPanel = имплант панели инструментов ботаника
+    .desc = Панель можно имплантировать в руку пациента, чтобы дать ему доступ к содержимому. Эта вмещает ботанические инструменты.
 
-ent-AugmentSurgicalPanel = surgical tools panel augment
-    .desc = A panel that can be augmented into a patient's arm to provide them access to its contents. This one can hold surgical tools.
+ent-AugmentSurgicalPanel = имплант панели хирургических инструментов
+    .desc = Панель можно имплантировать в руку пациента, чтобы дать ему доступ к содержимому. Эта вмещает хирургические инструменты.
 
 ent-BaseIncompleteAugmentStrength = { ent-BaseItem }
-    .desc = Can be implanted into a body to increase physical strength. This one is incomplete.
+    .desc = Можно имплантировать в тело для увеличения физической силы. Сборка ещё не завершена.
 
-ent-AugmentStrengthCasing = strength augment casing
+ent-AugmentStrengthCasing = корпус импланта усиления
     .desc = { ent-BaseIncompleteAugmentStrength.desc }
 
-ent-AugmentStrengthCables = strength augment casing with cables
+ent-AugmentStrengthCables = корпус импланта усиления с проводами
     .desc = { ent-BaseIncompleteAugmentStrength.desc }
 
-ent-ActionAugmentToggleStrength = Toggle strength augment
-    .desc = Increases your melee damage by 25%, consumes 30W while active.
+ent-ActionAugmentToggleStrength = Переключить имплант усиления
+    .desc = Повышает ваш урон в ближнем бою на 25%, при работе потребляет 30 Вт.
 
-ent-AugmentStrength = strength augment
-    .desc = Can be implanted into a body to increase physical strength.
+ent-AugmentStrength = имплант усиления
+    .desc = Можно имплантировать в тело для увеличения физической силы.

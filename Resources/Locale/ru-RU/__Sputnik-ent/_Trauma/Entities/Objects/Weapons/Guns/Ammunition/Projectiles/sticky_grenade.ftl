@@ -1,2 +1,2 @@
-ent-BulletStickyGrenade = sticky grenade
+ent-BulletStickyGrenade = липкая граната
     .desc = { ent-BaseBullet.desc }

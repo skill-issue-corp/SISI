@@ -1,69 +1,69 @@
-objective-issuer-blob = Blob
+objective-issuer-blob = Блоб
 
-ghost-role-information-blobbernaut-name = Blobbernaut
-ghost-role-information-blobbernaut-description = You are a Blobbernaut. You must defend the blob core. Use + or +e in chat to talk in the Blobmind.
-ghost-role-information-blobbernaut-rules = You are an antagonist, defend your blob core!
+ghost-role-information-blobbernaut-name = Блоббернаут
+ghost-role-information-blobbernaut-description = Вы Блоббернаут. Защищайте ядро блоба. Используйте + или +e в чате для общения через коллективный разум Блоба.
+ghost-role-information-blobbernaut-rules = Вы антагонист. Защищайте своё ядро блоба!
 
-ghost-role-information-blob-name = Blob
-ghost-role-information-blob-description = You are the Blob Infection. Consume the station.
-ghost-role-information-blob-rules = You are an antagonist, destroy the station!
+ghost-role-information-blob-name = Блоб
+ghost-role-information-blob-description = Вы Инфекция Блоба. Поглотите станцию.
+ghost-role-information-blob-rules = Вы антагонист. Уничтожьте станцию!
 
-roles-antag-blob-name = Blob
-roles-antag-blob-objective = Reach critical mass.
+roles-antag-blob-name = Блоб
+roles-antag-blob-objective = Достигните критической массы.
 
-guide-entry-blob = Blob
+guide-entry-blob = Блоб
 
 # Popups
-blob-target-normal-blob-invalid = Wrong blob type, select a normal blob.
-blob-target-factory-blob-invalid = Wrong blob type, select a factory blob.
-blob-target-node-blob-invalid = Wrong blob type, select a node blob.
-blob-target-close-to-resource = Too close to another resource blob.
-blob-target-nearby-not-node = No node or resource blob nearby.
-blob-target-already-produce-blobbernaut = This factory has already produced a blobbernaut.
-blob-cant-split = You can not split the blob core.
-blob-not-have-nodes = You have no nodes.
-blob-not-enough-resources = Not enough resources.
-blob-help = Only God can help you.
-blob-swap-chem = In development.
-blob-mob-attack-blob = You can not attack a blob.
+blob-target-normal-blob-invalid = Неподходящий тип блоба. Выберите обычный блоб.
+blob-target-factory-blob-invalid = Неподходящий тип блоба. Выберите фабрику блоба.
+blob-target-node-blob-invalid = Неподходящий тип блоба. Выберите узел блоба.
+blob-target-close-to-resource = Слишком близко к другому ресурсному блобу.
+blob-target-nearby-not-node = Поблизости нет узла или ресурсного блоба.
+blob-target-already-produce-blobbernaut = Эта фабрика уже создала блоббернаута.
+blob-cant-split = Нельзя разделить ядро блоба.
+blob-not-have-nodes = У вас нет узлов.
+blob-not-enough-resources = Недостаточно ресурсов.
+blob-help = Вам поможет только Бог.
+blob-swap-chem = В разработке.
+blob-mob-attack-blob = Нельзя атаковать блоб.
 blob-get-resource = +{ $point }
 blob-spent-resource = -{ $point }
-blobberaut-not-on-blob-tile = You are dying while not on blob tiles.
-carrier-blob-alert = You have { $second } seconds left before transformation.
+blobberaut-not-on-blob-tile = Вне тайлов блоба вы умираете.
+carrier-blob-alert = До превращения осталось { $second } сек.
 
-blob-mob-zombify-second-start = { $pod } starts turning you into a zombie.
-blob-mob-zombify-third-start = { $pod } starts turning { $target } into a zombie.
+blob-mob-zombify-second-start = { $pod } начинает превращать вас в зомби.
+blob-mob-zombify-third-start = { $pod } начинает превращать { $target } в зомби.
 
-blob-mob-zombify-second-end = { $pod } turns you into a zombie.
-blob-mob-zombify-third-end = { $pod } turns { $target } into a zombie.
+blob-mob-zombify-second-end = { $pod } превращает вас в зомби.
+blob-mob-zombify-third-end = { $pod } превращает { $target } в зомби.
 
-blobberaut-factory-destroy = factory destroy
-blob-target-already-connected = already connected
+blobberaut-factory-destroy = разрушение фабрики
+blob-target-already-connected = уже соединено
 
 
 # UI
-blob-chem-swap-ui-window-name = Swap chemicals
+blob-chem-swap-ui-window-name = Сменить химикаты
 
-blob-alert-out-off-station = The blob was removed because it was found outside the station!
+blob-alert-out-off-station = Блоб удалён, потому что оказался за пределами станции!
 
 # Announcment
-blob-alert-recall-shuttle = The emergency shuttle can not be sent while there is a level 5 biohazard present on the station.
-blob-alert-detect = Confirmed outbreak of level 5 biohazard aboard the station. All personnel must contain the outbreak.
-blob-alert-critical = Biohazard level critical, nuclear authentication codes have been sent to the station. Central Command orders any remaining personnel to activate the self-destruction mechanism.
-blob-alert-critical-NoNukeCode = Biohazard level critical. Central Command orders any remaining personnel to seek shelter, and await resque.
-blob-alert-shuttle-arrived = Biohazard detected on board. All personnel must evacuate immediately.
+blob-alert-recall-shuttle = Эвакуационный шаттл не может вылететь, пока на станции присутствует биологическая угроза 5 уровня.
+blob-alert-detect = Подтверждена вспышка биологической угрозы 5 уровня на борту станции. Всему персоналу надлежит локализовать вспышку.
+blob-alert-critical = Уровень биологической угрозы критический. На станцию отправлены коды ядерной аутентификации. Центральное Командование приказывает оставшемуся персоналу запустить механизм самоуничтожения.
+blob-alert-critical-NoNukeCode = Уровень биологической угрозы критический. Центральное Командование приказывает оставшемуся персоналу укрыться и ждать спасения.
+blob-alert-shuttle-arrived = На борту обнаружена биологическая угроза. Всему персоналу немедленно эвакуироваться.
 
 # Actions
-blob-teleport-to-node-action-name = Jump to Node (0)
-blob-teleport-to-node-action-desc = Teleports you to a random blob node.
-blob-help-action-name = Help
-blob-help-action-desc = Get basic information about playing as blob.
+blob-teleport-to-node-action-name = Прыжок к Узлу (0)
+blob-teleport-to-node-action-desc = Телепортирует вас к случайному узлу блоба.
+blob-help-action-name = Справка
+blob-help-action-desc = Получить основные сведения об игре за блоб.
 
 # Ghost role
-blob-carrier-role-name = Blob carrier
-blob-carrier-role-desc =  A blob-infected creature.
-blob-carrier-role-rules = You are an antagonist. You have 10 minutes before you transform into a blob.
-                        Use this time to find a safe spot on the station. Keep in mind that you will be very weak right after the transformation.
+blob-carrier-role-name = Носитель блоба
+blob-carrier-role-desc =  Заражённое блобом существо.
+blob-carrier-role-rules = Вы антагонист. У вас есть 10 минут до превращения в блоб.
+                        Найдите за это время безопасное место на станции. Сразу после превращения вы будете очень слабы.
 # SIS-Start
 blob-carrier-role-greeting =
     Вы [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Носитель Блоба[/gradient]!
@@ -77,14 +77,14 @@ blob-carrier-role-greeting-desc =
 # SIS-End
 
 # Verbs
-blob-pod-verb-zombify = Zombify
-blob-verb-remove-blob-tile = Remove Blob
+blob-pod-verb-zombify = Превратить в зомби
+blob-verb-remove-blob-tile = Удалить Блоб
 
 # Alerts
-blob-resource-alert-name = Core Resources
-blob-resource-alert-desc = Your resources produced by the core and resource blobs. Use them to expand and create special blobs.
-blob-health-alert-name = Core Health
-blob-health-alert-desc = Your core's health. You will die if it reaches zero.
+blob-resource-alert-name = Ресурсы Ядра
+blob-resource-alert-desc = Ресурсы, которые производят ядро и ресурсные блобы. Используйте их, чтобы расти и создавать особые тайлы блоба.
+blob-health-alert-name = Здоровье Ядра
+blob-health-alert-desc = Здоровье вашего ядра. Если оно упадёт до нуля, вы погибнете.
 
 # Greeting
 # SIS-Start
@@ -97,23 +97,27 @@ blob-role-greeting-desc =
     • [color={$hl1}]Экономика:[/color] стройте ресурсные клетки и фабрики [color={$hl1}]рядом с Узлами или Ядром[/color].
     • [color={$hl1}]Коллективный разум:[/color] используйте [color={$hl1}]+[/color] или [color={$hl1}]+e[/color] в чате для командования подчинёнными.
 # SIS-End
-blob-zombie-greeting = You were infected and raised by a blob spore. Now you must help the blob take over the station. Use +e in chat to talk in the Blobmind.
+blob-zombie-greeting = Спора блоба заразила и оживила вас. Теперь помогите блобу захватить станцию. Используйте +e в чате для общения через коллективный разум Блоба.
 
 # End round
-blob-round-end-agent-name = blob infection
+blob-round-end-agent-name = инфекция блоба
 
 # Objectivies
-objective-condition-blob-capture-title = Take over the station
-objective-condition-blob-capture-description = Your only goal is to take over the whole station. You need to have at least {$count} blob tiles.
-objective-condition-success = { $condition } | [color={ $markupColor }]Success![/color]
-objective-condition-fail = { $condition } | [color={ $markupColor }]Failure![/color] ({ $progress }%)
+objective-condition-blob-capture-title = Захватить станцию
+objective-condition-blob-capture-description = Ваша единственная цель – захватить всю станцию. Вам нужно как минимум {$count} { $count ->
+    [one] тайл
+    [few] тайла
+   *[other] тайлов
+} блоба.
+objective-condition-success = { $condition } | [color={ $markupColor }]Успех![/color]
+objective-condition-fail = { $condition } | [color={ $markupColor }]Провал![/color] ({ $progress }%)
 
 # Admin Verbs
 
-admin-verb-make-blob = Make the target into a blob carrier.
-admin-verb-text-make-blob = Make Blob Carrier
+admin-verb-make-blob = Превратить цель в носителя блоба.
+admin-verb-text-make-blob = Сделать Носителем Блоба
 
 # Language
-language-Blob-name = Blob
-chat-language-Blob-name = Blob
-language-Blob-description = Bleeb bob! Blob blob!
+language-Blob-name = Блоб
+chat-language-Blob-name = Блоб
+language-Blob-description = Блиб боб! Блоб блоб!

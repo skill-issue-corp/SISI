@@ -1,8 +1,8 @@
 ent-BaseHydroponicsSoil = { ent-SolutionLarge }
     .desc = { ent-SolutionLarge.desc }
 
-ent-hydroponicsSoil = soil
-    .desc = A mix of organic matter and minerals creating a soil to grow your plant in space. Seems to be dry.
+ent-hydroponicsSoil = почва
+    .desc = Смесь органики и минералов образует почву, на которой можно вырастить растение в космосе. Похоже, она сухая.
 
-ent-FungalSoil = fungal soil
-    .desc = A mix of organic matter and fungal root creating a soil to grow your plant in space. Seems to be dry.
+ent-FungalSoil = грибная почва
+    .desc = Смесь органики и грибницы образует почву, на которой можно вырастить растение в космосе. Похоже, она сухая.

@@ -3,21 +3,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tiles-wood-parquet = wooden parquet
-tiles-wood-chess = wooden chess floor
-tiles-wood-black = black wooden floor
-tiles-wood-large-black = large black wooden floor
-tiles-wood-parquet-black = black wooden parquet
-tiles-wood-chess-black = black wooden chess floor
-tiles-wood-dark = dark wooden floor
-tiles-wood-large-dark = large dark wooden floor
-tiles-wood-parquet-dark = dark wooden parquet
-tiles-wood-chess-dark = dark wooden chess floor
-tiles-wood-light = white wooden floor
-tiles-wood-large-light = large white wooden floor
-tiles-wood-parquet-light = white wooden parquet
-tiles-wood-chess-light = white wooden chess floor
-tiles-wood-red = red wooden floor
-tiles-wood-large-red = large red wooden floor
-tiles-wood-parquet-red = red wooden parquet
-tiles-wood-chess-red = red wooden chess floor
+tiles-wood-parquet = деревянный паркет
+tiles-wood-chess = деревянный пол в шашечку
+tiles-wood-black = чёрный деревянный пол
+tiles-wood-large-black = чёрный деревянный пол из крупных плиток
+tiles-wood-parquet-black = чёрный деревянный паркет
+tiles-wood-chess-black = чёрный деревянный пол в шашечку
+tiles-wood-dark = тёмный деревянный пол
+tiles-wood-large-dark = тёмный деревянный пол из крупных плиток
+tiles-wood-parquet-dark = тёмный деревянный паркет
+tiles-wood-chess-dark = тёмный деревянный пол в шашечку
+tiles-wood-light = белый деревянный пол
+tiles-wood-large-light = белый деревянный пол из крупных плиток
+tiles-wood-parquet-light = белый деревянный паркет
+tiles-wood-chess-light = белый деревянный пол в шашечку
+tiles-wood-red = красный деревянный пол
+tiles-wood-large-red = красный деревянный пол из крупных плиток
+tiles-wood-parquet-red = красный деревянный паркет
+tiles-wood-chess-red = красный деревянный пол в шашечку

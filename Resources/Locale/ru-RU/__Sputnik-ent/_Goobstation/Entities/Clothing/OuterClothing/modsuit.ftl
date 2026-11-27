@@ -1,26 +1,26 @@
 ent-ClothingOuterModsuitBase = { ent-ClothingOuterBase }
     .desc = { ent-ClothingOuterBase.desc }
 
-ent-ClothingModsuitChestplateStandard = standard modsuit chestplate
-    .desc = A special modular suit spaceproof cover designed for compact folding inside modular suit control.
+ent-ClothingModsuitChestplateStandard = нагрудник стандартного модсьюта
+    .desc = Особая герметичная оболочка модульного костюма. Компактно складывается в блок управления.
 
-ent-ClothingModsuitChestplateSecurity = soldat modsuit chestplate
-    .desc = A robust modular suit cover with ceramic inserts for extra protection.
+ent-ClothingModsuitChestplateSecurity = нагрудник модсьюта «солдат»
+    .desc = Робастная оболочка модульного костюма с керамическими вставками для дополнительной защиты.
 
-ent-ClothingModsuitChestplateHeadOfSecurity = bulwark modsuit chestplate
-    .desc = A robust modular suit cover with EXTRA ceramic inserts for slightly more protection.
+ent-ClothingModsuitChestplateHeadOfSecurity = нагрудник модсьюта «бастион»
+    .desc = Робастная оболочка модульного костюма с ДОПОЛНИТЕЛЬНЫМИ керамическими вставками для чуть лучшей защиты.
 
-ent-ClothingModsuitChestplateParamedic = sanitater modsuit chestplate
-    .desc = A white and blue-ish-grey steel plate for keeping out the harsh void of space and the occasional bullet.
+ent-ClothingModsuitChestplateParamedic = нагрудник модсьюта «санитар»
+    .desc = Бело-серо-голубая стальная пластина, защищающая от сурового космического вакуума и случайной пули.
 
-ent-ClothingModsuitChestplateEngineer = sapper modsuit chestplate
-    .desc = A tough armor plate to defend against harsh atmospheric conditions and shockwaves.
+ent-ClothingModsuitChestplateEngineer = нагрудник модсьюта «сапёр»
+    .desc = Прочная бронепластина, защищающая от агрессивной атмосферы и ударных волн.
 
-ent-ClothingModsuitChestplateAtmostech = aeolus modsuit chestplate
-    .desc = A fire-proof armor plate to defend against harsh atmospheric conditions.
+ent-ClothingModsuitChestplateAtmostech = нагрудник модсьюта «эол»
+    .desc = Огнестойкая бронепластина, защищающая от агрессивной атмосферы.
 
-ent-ClothingModsuitChestplateResearchDirector = minerva modsuit chestplate
-    .desc = A bulky bomb and bat proof chunk of steel.
+ent-ClothingModsuitChestplateResearchDirector = нагрудник модсьюта «минерва»
+    .desc = Громоздкая глыба стали, которой нипочём бомбы и биты.
 
-ent-ClothingModsuitChestplateCaptain = magnate modsuit chestplate
-    .desc = This shit is made out of DIAMONDS, man, this armor was forged with GEMS.
+ent-ClothingModsuitChestplateCaptain = нагрудник модсьюта «магнат»
+    .desc = Эту хрень сделали из АЛМАЗОВ, чувак, доспехи выковали из САМОЦВЕТОВ.

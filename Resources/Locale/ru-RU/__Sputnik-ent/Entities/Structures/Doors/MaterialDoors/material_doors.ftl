@@ -1,32 +1,32 @@
-ent-BaseMaterialDoor = door
-    .desc = A door, where will it lead?
+ent-BaseMaterialDoor = дверь
+    .desc = Дверь, куда же она ведёт?
 
 ent-BaseMaterialDoorNavMap = { ent-BaseMaterialDoor }
     .desc = { ent-BaseMaterialDoor.desc }
 
-ent-MetalDoor = metal door
+ent-MetalDoor = металлическая дверь
     .desc = { ent-BaseMaterialDoorNavMap.desc }
 
-ent-PlasmaDoor = plasma door
+ent-PlasmaDoor = плазменная дверь
     .desc = { ent-BaseMaterialDoorNavMap.desc }
 
-ent-GoldDoor = gold door
+ent-GoldDoor = золотая дверь
     .desc = { ent-BaseMaterialDoorNavMap.desc }
 
-ent-SilverDoor = silver door
+ent-SilverDoor = серебряная дверь
     .desc = { ent-BaseMaterialDoorNavMap.desc }
 
-ent-BananiumDoor = bananium door
+ent-BananiumDoor = бананиумовая дверь
     .desc = { ent-BaseMaterialDoorNavMap.desc }
 
-ent-WoodDoor = wooden door
+ent-WoodDoor = деревянная дверь
     .desc = { ent-BaseMaterialDoorNavMap.desc }
 
-ent-PaperDoor = paper door
+ent-PaperDoor = бумажная дверь
     .desc = { ent-BaseMaterialDoorNavMap.desc }
 
-ent-WebDoor = web door
-    .desc = A door, leading to the lands of the spiders... or a spaced room.
+ent-WebDoor = дверь из паутины
+    .desc = Дверь, ведущая в земли пауков... или в разгерметизированную комнату.
 
-ent-CardDoor = cardboard door
+ent-CardDoor = картонная дверь
     .desc = { ent-BaseMaterialDoorNavMap.desc }

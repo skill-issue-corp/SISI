@@ -1,16 +1,16 @@
-ent-BoxFolderNuclearCodes = nuclear code folder
+ent-BoxFolderNuclearCodes = папка с ядерными кодами
     .desc = { ent-BaseItem.desc }
 
-ent-BoxFolderBaseEmpty = folder
-    .desc = A folder filled with top secret paperwork.
+ent-BoxFolderBaseEmpty = папка
+    .desc = Папка, полная совершенно секретных бумаг.
 
 ent-BoxFolderFill = { "" }
     .desc = { "" }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-BoxFolderFillThreePapers = { "" }
     .desc = { "" }
-    .suffix = 3 papers
+    .suffix = 3 листа
 
 ent-BoxFolderBase = { ent-BoxFolderBaseEmpty }
     .desc = { ent-BoxFolderBaseEmpty.desc }
@@ -20,101 +20,101 @@ ent-BoxFolderBaseThreePapers = { ent-BoxFolderBaseEmpty }
 
 ent-BoxFolderRedEmpty = { ent-BoxFolderBaseEmpty }
     .desc = { ent-BoxFolderBaseEmpty.desc }
-    .suffix = Red
+    .suffix = Красный
 
 ent-BoxFolderRed = { ent-BoxFolderRedEmpty }
     .desc = { ent-BoxFolderRedEmpty.desc }
-    .suffix = Red, Filled
+    .suffix = Красная, Заполнена
 
 ent-BoxFolderRedThreePapers = { ent-BoxFolderRedEmpty }
     .desc = { ent-BoxFolderRedEmpty.desc }
-    .suffix = Red, 3 papers
+    .suffix = Красная, 3 листа
 
 ent-BoxFolderBlueEmpty = { ent-BoxFolderBaseEmpty }
     .desc = { ent-BoxFolderBaseEmpty.desc }
-    .suffix = Blue
+    .suffix = Синий
 
 ent-BoxFolderBlue = { ent-BoxFolderBlueEmpty }
     .desc = { ent-BoxFolderBlueEmpty.desc }
-    .suffix = Blue, Filled
+    .suffix = Синяя, Заполнена
 
 ent-BoxFolderBlueThreePapers = { ent-BoxFolderBlueEmpty }
     .desc = { ent-BoxFolderBlueEmpty.desc }
-    .suffix = Blue, 3 papers
+    .suffix = Синяя, 3 листа
 
 ent-BoxFolderYellowEmpty = { ent-BoxFolderBaseEmpty }
     .desc = { ent-BoxFolderBaseEmpty.desc }
-    .suffix = Yellow
+    .suffix = Жёлтая
 
 ent-BoxFolderYellow = { ent-BoxFolderYellowEmpty }
     .desc = { ent-BoxFolderYellowEmpty.desc }
-    .suffix = Yellow, Filled
+    .suffix = Жёлтая, Заполнена
 
 ent-BoxFolderYellowThreePapers = { ent-BoxFolderYellowEmpty }
     .desc = { ent-BoxFolderYellowEmpty.desc }
-    .suffix = Yellow, 3 papers
+    .suffix = Жёлтая, 3 листа
 
 ent-BoxFolderGreyEmpty = { ent-BoxFolderBaseEmpty }
     .desc = { ent-BoxFolderBaseEmpty.desc }
-    .suffix = Grey
+    .suffix = Серая
 
 ent-BoxFolderGrey = { ent-BoxFolderGreyEmpty }
     .desc = { ent-BoxFolderGreyEmpty.desc }
-    .suffix = Grey, Filled
+    .suffix = Серая, Заполнена
 
 ent-BoxFolderGreyThreePapers = { ent-BoxFolderGreyEmpty }
     .desc = { ent-BoxFolderGreyEmpty.desc }
-    .suffix = Grey, 3 papers
+    .suffix = Серая, 3 листа
 
 ent-BoxFolderBlackEmpty = { ent-BoxFolderBaseEmpty }
     .desc = { ent-BoxFolderBaseEmpty.desc }
-    .suffix = Black
+    .suffix = Чёрный
 
 ent-BoxFolderBlack = { ent-BoxFolderBlackEmpty }
     .desc = { ent-BoxFolderBlackEmpty.desc }
-    .suffix = Black, Filled
+    .suffix = Чёрная, Заполнена
 
 ent-BoxFolderBlackThreePapers = { ent-BoxFolderBlackEmpty }
     .desc = { ent-BoxFolderBlackEmpty.desc }
-    .suffix = Black, 3 papers
+    .suffix = Чёрная, 3 листа
 
 ent-BoxFolderGreenEmpty = { ent-BoxFolderBaseEmpty }
     .desc = { ent-BoxFolderBaseEmpty.desc }
-    .suffix = Green
+    .suffix = Зелёный
 
 ent-BoxFolderGreen = { ent-BoxFolderGreenEmpty }
     .desc = { ent-BoxFolderGreenEmpty.desc }
-    .suffix = Green, Filled
+    .suffix = Зелёная, Заполнена
 
 ent-BoxFolderGreenThreePapers = { ent-BoxFolderGreenEmpty }
     .desc = { ent-BoxFolderGreenEmpty.desc }
-    .suffix = Green, 3 papers
+    .suffix = Зелёная, 3 листа
 
 ent-BoxFolderWhiteEmpty = { ent-BoxFolderBaseEmpty }
     .desc = { ent-BoxFolderBaseEmpty.desc }
-    .suffix = White
+    .suffix = Белый
 
 ent-BoxFolderWhite = { ent-BoxFolderWhiteEmpty }
     .desc = { ent-BoxFolderWhiteEmpty.desc }
-    .suffix = White, Filled
+    .suffix = Белая, Заполнена
 
 ent-BoxFolderWhiteThreePapers = { ent-BoxFolderWhiteEmpty }
     .desc = { ent-BoxFolderWhiteEmpty.desc }
-    .suffix = White, 3 papers
+    .suffix = Белая, 3 листа
 
-ent-BoxFolderCentComEmpty = CentComm folder
-    .desc = CentComm's miserable little pile of secrets!
+ent-BoxFolderCentComEmpty = папка ЦК
+    .desc = Жалкая маленькая кучка секретов ЦК!
 
 ent-BoxFolderCentCom = { ent-BoxFolderCentComEmpty }
     .desc = { ent-BoxFolderCentComEmpty.desc }
-    .suffix = DO NOT MAP; Filled
+    .suffix = НЕ МАППИТЬ; Заполнена
 
 ent-BoxFolderCentComThreePapers = { ent-BoxFolderCentComEmpty }
     .desc = { ent-BoxFolderCentComEmpty.desc }
-    .suffix = DO NOT MAP; 3 papers
+    .suffix = НЕ МАППИТЬ; 3 листа
 
-ent-BoxFolderClipboardEmpty = clipboard
-    .desc = The weapon of choice for those on the front lines of bureaucracy.
+ent-BoxFolderClipboardEmpty = планшет с зажимом
+    .desc = Излюбленное оружие тех, кто сражается на передовой бюрократии.
 
 ent-BoxFolderClipboard = { ent-BoxFolderClipboardEmpty }
     .desc = { ent-BoxFolderClipboardEmpty.desc }
@@ -122,8 +122,8 @@ ent-BoxFolderClipboard = { ent-BoxFolderClipboardEmpty }
 ent-BoxFolderClipboardThreePapers = { ent-BoxFolderClipboardEmpty }
     .desc = { ent-BoxFolderClipboardEmpty.desc }
 
-ent-BoxFolderPlasticClipboardEmpty = plastic clipboard
-    .desc = A cheap clipboard made of blue plastic. For those who aren't yet ready to wield the bureaucratic might of a proper wooden clipboard.
+ent-BoxFolderPlasticClipboardEmpty = пластиковый планшет с зажимом
+    .desc = Дешёвый планшет из синего пластика. Для тех, кто ещё не готов обрушить на мир бюрократическую мощь настоящего деревянного планшета.
 
 ent-BoxFolderPlasticClipboard = { ent-BoxFolderPlasticClipboardEmpty }
     .desc = { ent-BoxFolderPlasticClipboardEmpty.desc }
@@ -131,8 +131,8 @@ ent-BoxFolderPlasticClipboard = { ent-BoxFolderPlasticClipboardEmpty }
 ent-BoxFolderPlasticClipboardThreePapers = { ent-BoxFolderPlasticClipboardEmpty }
     .desc = { ent-BoxFolderPlasticClipboardEmpty.desc }
 
-ent-BoxFolderCentComClipboardEmpty = CentComm clipboard
-    .desc = A luxurious clipboard upholstered with green velvet. Often seen carried by CentComm officials, seldom seen actually used.
+ent-BoxFolderCentComClipboardEmpty = планшет ЦК
+    .desc = Роскошный планшет с обивкой из зелёного бархата. Часто можно увидеть в руках чиновников ЦК, редко - в деле.
 
 ent-BoxFolderCentComClipboard = { ent-BoxFolderCentComClipboardEmpty }
     .desc = { ent-BoxFolderCentComClipboardEmpty.desc }
@@ -140,5 +140,5 @@ ent-BoxFolderCentComClipboard = { ent-BoxFolderCentComClipboardEmpty }
 ent-BoxFolderCentComClipboardThreePapers = { ent-BoxFolderCentComClipboardEmpty }
     .desc = { ent-BoxFolderCentComClipboardEmpty.desc }
 
-ent-BoxFolderQmClipboard = requisition digi-board
-    .desc = A bulky electric clipboard, filled with shipping orders and financing details. With so many compromising documents, you ought to keep this safe.
+ent-BoxFolderQmClipboard = цифровой планшет заявок
+    .desc = Громоздкий электронный планшет, полный заявок на поставку и финансовых сведений. Столько компрометирующих документов следует хранить в надёжном месте.

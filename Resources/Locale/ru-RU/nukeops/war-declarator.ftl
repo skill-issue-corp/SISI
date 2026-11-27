@@ -6,18 +6,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-war-declarator-not-working = The device makes beeping noises, but nothing happens...
-war-declarator-ui-header = Declaration of War
-war-declarator-ui-war-button = DECLARE WAR!
-war-declarator-ui-try-war-button = Try to declare war
-war-declarator-conditions-small-crew = There are not enough nuclear operatives to declare war!
-war-declarator-conditions-left-outpost = Shuttle left the syndicate outpost
-war-declarator-conditions-time-out = War declaration time passed
-war-declarator-conditions-ready = Shuttle can leave the outpost!
-war-declarator-conditions-unknown = Unknown
-war-declarator-boost-possible = Able to declare war
-war-declarator-boost-impossible = Unable to declare war
-war-declarator-boost-declared = War declared! Shuttle may be disabled for...
-war-declarator-boost-timer = Time left: {$time} minutes.
-war-declarator-default-message = A syndicate fringe group has declared their intent to utterly destroy station with a nuclear device, and dares the crew to try and stop them.
-war-declarator-message-placeholder = Write a custom declaration of war here...
+war-declarator-not-working = Устройство пищит, но ничего не происходит...
+war-declarator-ui-header = Объявление Войны
+war-declarator-ui-war-button = ОБЪЯВИТЬ ВОЙНУ!
+war-declarator-ui-try-war-button = Попытаться объявить войну
+war-declarator-conditions-small-crew = Для объявления войны недостаточно ядерных оперативников!
+war-declarator-conditions-left-outpost = Шаттл покинул базу синдиката
+war-declarator-conditions-time-out = Время на объявление войны истекло
+war-declarator-conditions-ready = Шаттл может покинуть базу!
+war-declarator-conditions-unknown = Неизвестно
+war-declarator-boost-possible = Войну можно объявить
+war-declarator-boost-impossible = Объявить войну нельзя
+war-declarator-boost-declared = Война объявлена! Шаттл может быть заблокирован ещё...
+war-declarator-boost-timer = Осталось времени: {$time} мин.
+war-declarator-default-message = Радикальная группировка синдиката объявила о намерении стереть станцию с лица космоса ядерным зарядом и бросила вызов экипажу.
+war-declarator-message-placeholder = Введите текст объявления войны...

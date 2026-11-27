@@ -1,47 +1,47 @@
-ent-BikeHorn = bike horn
-    .desc = A horn off of a bicycle.
+ent-BikeHorn = велосипедный гудок
+    .desc = Гудок, снятый с велосипеда.
 
-ent-CluwneHorn = broken bike horn
-    .desc = A broken horn off of a bicycle.
+ent-CluwneHorn = сломанный велосипедный гудок
+    .desc = Сломанный гудок, снятый с велосипеда.
 
-ent-GoldenBikeHorn = golden honker
-    .desc = A happy honk prize, pray to the gods for your reward.
+ent-GoldenBikeHorn = золотая хонкалка
+    .desc = Приз из набора «хэппи хонк». Молитесь богам, чтобы получить награду.
 
-ent-BananiumHorn = bananium horn
-    .desc = An air horn made from bananium.
+ent-BananiumHorn = бананиумовый гудок
+    .desc = Пневматический гудок из бананиума.
 
-ent-PushHorn = push horn
-    .desc = This powerful bikehorn is sure to blast frowns away.
+ent-PushHorn = гудок-толкатель
+    .desc = Мощный велосипедный гудок, который точно сдует хмурые лица.
 
-ent-BaseWhistle = whistle
-    .desc = Someone forgot to turn off a kettle?
+ent-BaseWhistle = свисток
+    .desc = Кто-то забыл выключить чайник?
 
 ent-Whistle = { ent-BaseWhistle }
     .desc = { ent-BaseWhistle.desc }
 
 ent-SecurityWhistle = { ent-BaseWhistle }
-    .desc = The sound of it brings fear.
+    .desc = Его звук внушает страх.
 
-ent-SyndicateWhistle = trench whistle
-    .desc = A whistle used by Syndicate commanders to draw attention. Avanti!
+ent-SyndicateWhistle = окопный свисток
+    .desc = Свисток, которым командиры Синдиката привлекают внимание. Вперёд!
 
 ent-BaseRubberToy = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-ToyRubberDuck = rubber ducky
-    .desc = Not carried here by ocean currents.
+ent-ToyRubberDuck = резиновая уточка
+    .desc = Не океанским течением её сюда занесло.
 
-ent-RubberChicken = rubber chicken
-    .desc = A stress inducing parody of nature's most delectable avian.
+ent-RubberChicken = резиновая курица
+    .desc = Пародия на самую вкусную птицу в природе. Действует на нервы.
 
-ent-NewtonCradle = newton cradle
-    .desc = A device bored paper pushers use to remind themselves that time did not stop yet. Contains gravity.
+ent-NewtonCradle = маятник ньютона
+    .desc = Этой штукой скучающие бумажные крысы напоминают себе, что время ещё не остановилось. Содержит гравитацию.
 
-ent-ClownRecorder = clown recorder
-    .desc = When you just can't get those laughs coming the natural way!
+ent-ClownRecorder = клоунский диктофон
+    .desc = На случай, когда рассмешить публику естественным путём никак не выходит!
 
-ent-WhoopieCushion = whoopie cushion
-    .desc = A practical joke device involving flatulence humour.
+ent-WhoopieCushion = подушка-пердушка
+    .desc = Приспособление для тех, кому смешно, когда кто-то пукает.
 
-ent-Skub = skub
-    .desc = Skub is the fifth Chaos God.
+ent-Skub = скаб
+    .desc = Скаб - пятый Бог Хаоса.

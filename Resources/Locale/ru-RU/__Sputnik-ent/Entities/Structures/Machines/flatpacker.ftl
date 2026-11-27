@@ -1,5 +1,5 @@
-ent-MachineFlatpacker = Flatpacker 1001
-    .desc = An industrial machine used for expediting machine construction across the station.
+ent-MachineFlatpacker = Упаковщик 1001
+    .desc = Промышленная машина, ускоряющая сборку оборудования по всей станции.
 
 ent-FlatpackerNoBoardEffect = { "" }
     .desc = { "" }

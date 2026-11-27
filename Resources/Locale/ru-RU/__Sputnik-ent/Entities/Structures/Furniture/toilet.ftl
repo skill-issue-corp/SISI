@@ -1,30 +1,30 @@
-ent-BaseToilet = toilet
-    .desc = The HT-451, a torque rotation-based, waste disposal unit for small matter. This one seems remarkably clean.
+ent-BaseToilet = унитаз
+    .desc = HT-451, устройство для утилизации небольших отходов за счёт вращения под действием крутящего момента. Этот на редкость чист.
 
-ent-ConstructedToilet = toilet
-    .desc = The HT-451, a torque rotation-based, waste disposal unit for small matter. This one seems remarkably clean.
-    .suffix = Constructed, Unplungable
+ent-ConstructedToilet = унитаз
+    .desc = HT-451, устройство для утилизации небольших отходов за счёт вращения под действием крутящего момента. Этот на редкость чист.
+    .suffix = Собранный, БезПрочистки
 
-ent-ToiletEmpty = toilet
-    .desc = The HT-451, a torque rotation-based, waste disposal unit for small matter. This one seems remarkably clean.
-    .suffix = Empty
+ent-ToiletEmpty = унитаз
+    .desc = HT-451, устройство для утилизации небольших отходов за счёт вращения под действием крутящего момента. Этот на редкость чист.
+    .suffix = Пусто
 
 ent-ToiletDirtyWater = { ent-ToiletEmpty }
     .desc = { ent-ToiletEmpty.desc }
-    .suffix = Dirty Water
+    .suffix = Грязная Вода
 
 ent-ToiletFilled = { ent-ToiletEmpty }
     .desc = { ent-ToiletEmpty.desc }
-    .suffix = Empty, Random Cistern Loot
+    .suffix = Пустой, Случайная Добыча в Бачке
 
 ent-ToiletDirtyWaterFilled = { ent-ToiletDirtyWater }
     .desc = { ent-ToiletDirtyWater.desc }
-    .suffix = Dirty Water, Random Cistern Loot
+    .suffix = Грязная Вода, Случайная Добыча в Бачке
 
-ent-ToiletGoldenEmpty = golden toilet
-    .desc = The HT-451G is the gold version of the device. It says on the side that it is made of the purest Mercurian gold and a real leather seat.
-    .suffix = Empty
+ent-ToiletGoldenEmpty = золотой унитаз
+    .desc = HT-451G - золотая версия устройства. На боку указано, что оно изготовлено из чистейшего меркурианского золота и оснащено сиденьем из натуральной кожи.
+    .suffix = Пусто
 
 ent-ToiletGoldenDirtyWater = { ent-ToiletGoldenEmpty }
     .desc = { ent-ToiletGoldenEmpty.desc }
-    .suffix = Dirty Water, StealTarget
+    .suffix = Грязная Вода, ЦельКражи

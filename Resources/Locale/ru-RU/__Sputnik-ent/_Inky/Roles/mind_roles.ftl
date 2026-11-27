@@ -1,2 +1,2 @@
-ent-MindRoleWerewolf = Werewolf Role
+ent-MindRoleWerewolf = Роль Оборотня
     .desc = { ent-BaseMindRoleAntag.desc }

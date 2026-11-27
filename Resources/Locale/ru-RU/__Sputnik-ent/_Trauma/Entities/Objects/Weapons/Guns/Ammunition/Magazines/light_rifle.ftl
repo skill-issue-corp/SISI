@@ -1,14 +1,14 @@
-ent-BaseMagazineLightRifle20rd = straight magazine (.30 rifle)
+ent-BaseMagazineLightRifle20rd = прямой магазин (.30 винтовочные)
     .desc = { ent-BaseMagazineLightRifle.desc }
 
-ent-MagazineLightRifle20rd = straight magazine (.30 rifle)
-    .desc = Straight 20-round double stack magazine for combat rifles. Intended to hold general-purpose kinetic ammunition.
+ent-MagazineLightRifle20rd = прямой магазин (.30 винтовочные)
+    .desc = Прямой двухрядный магазин на 20 патронов для боевых винтовок. Предназначен для кинетических боеприпасов общего назначения.
 
-ent-MagazineLightRiflePractice20rd = straight magazine (.30 rifle practice)
-    .desc = Straight 20-round double stack magazine for combat rifles. Intended to hold harmless practice ammunition.
+ent-MagazineLightRiflePractice20rd = прямой магазин (.30 винтовочные учебные)
+    .desc = Прямой двухрядный магазин на 20 патронов для боевых винтовок. Предназначен для безвредных учебных боеприпасов.
 
-ent-MagazineLightRifleUranium20rd = straight magazine (.30 rifle uranium)
-    .desc = Straight 20-round double stack magazine for combat rifles. Intended to hold exotic uranium-core ammunition.
+ent-MagazineLightRifleUranium20rd = прямой магазин (.30 винтовочные урановые)
+    .desc = Прямой двухрядный магазин на 20 патронов для боевых винтовок. Предназначен для необычных боеприпасов с урановым сердечником.
 
-ent-MagazineLightRifleIncendiary20rd = straight magazine (.30 rifle incendiary)
-    .desc = Straight 20-round double stack magazine for combat rifles. Intended to hold self-igniting incendiary ammunition.
+ent-MagazineLightRifleIncendiary20rd = прямой магазин (.30 винтовочные зажигательные)
+    .desc = Прямой двухрядный магазин на 20 патронов для боевых винтовок. Предназначен для самовоспламеняющихся зажигательных боеприпасов.

@@ -1,50 +1,50 @@
-ent-EncryptionKey = encryption key
-    .desc = A small cypher chip for headsets.
+ent-EncryptionKey = ключ шифрования
+    .desc = Небольшой шифровальный чип для гарнитуры.
 
-ent-EncryptionKeyCommon = common encryption key
-    .desc = An encryption key used by anyone.
+ent-EncryptionKeyCommon = ключ шифрования общего канала
+    .desc = Ключ шифрования, которым пользуются все.
 
-ent-EncryptionKeyCargo = cargo encryption key
-    .desc = An encryption key used by supply employees.
+ent-EncryptionKeyCargo = ключ шифрования карго
+    .desc = Ключ шифрования, которым пользуются сотрудники снабжения.
 
-ent-EncryptionKeyCentCom = central command encryption key
-    .desc = An encryption key used by captain's bosses.
+ent-EncryptionKeyCentCom = ключ шифрования центрального командования
+    .desc = Ключ шифрования, которым пользуется начальство капитана.
 
-ent-EncryptionKeyStationMaster = station master encryption key
-    .desc = An encryption key used by station's bosses.
+ent-EncryptionKeyStationMaster = мастер-ключ шифрования станции
+    .desc = Ключ шифрования, которым пользуется начальство станции.
 
-ent-EncryptionKeyCommand = command encryption key
-    .desc = An encryption key used by crew's bosses.
+ent-EncryptionKeyCommand = ключ шифрования командования
+    .desc = Ключ шифрования, которым пользуется начальство экипажа.
 
-ent-EncryptionKeyEngineering = engineering encryption key
-    .desc = An encryption key used by the engineers.
+ent-EncryptionKeyEngineering = ключ шифрования инженерного отдела
+    .desc = Ключ шифрования, которым пользуются инженеры.
 
-ent-EncryptionKeyMedical = medical encryption key
-    .desc = An encryption key used by those who save lives.
+ent-EncryptionKeyMedical = ключ шифрования медотсека
+    .desc = Ключ шифрования, которым пользуются те, кто спасает жизни.
 
-ent-EncryptionKeyMedicalScience = med-sci encryption key
-    .desc = An encryption key used by someone who hasn't decided which side to take.
+ent-EncryptionKeyMedicalScience = ключ шифрования медотсека и науки
+    .desc = Ключ шифрования того, кто ещё не решил, на чьей он стороне.
 
-ent-EncryptionKeyScience = science encryption key
-    .desc = An encryption key used by scientists. Maybe it is plasmaproof?
+ent-EncryptionKeyScience = ключ шифрования научного отдела
+    .desc = Ключ шифрования, которым пользуются учёные. Может, ему не страшна плазма?
 
-ent-EncryptionKeyRobo = robotech encryption key
-    .desc = An encryption key used by robototech engineers. Maybe it has a LAH-6000 on it?
+ent-EncryptionKeyRobo = ключ шифрования робототехники
+    .desc = Ключ шифрования, которым пользуются инженеры-робототехники. Может, на нём есть LAH-6000?
 
-ent-EncryptionKeySecurity = security encryption key
-    .desc = An encryption key used by security.
+ent-EncryptionKeySecurity = ключ шифрования службы безопасности
+    .desc = Ключ шифрования, которым пользуется служба безопасности.
 
-ent-EncryptionKeyService = service encryption key
-    .desc = An encryption key used by the service staff, tasked with keeping the station full, happy and clean.
+ent-EncryptionKeyService = ключ шифрования сервиса
+    .desc = Ключ шифрования, которым пользуются работники сервиса. Им поручено следить, чтобы станция была сытой, довольной и чистой.
 
-ent-EncryptionKeySyndie = blood-red encryption key
-    .desc = An encryption key used by... wait... Who is the owner of this chip?
+ent-EncryptionKeySyndie = кроваво-красный ключ шифрования
+    .desc = Ключ шифрования, которым пользуется... погодите... Чей это чип?
 
-ent-EncryptionKeyBinary = binary translator key
-    .desc = An encryption key that translates binary signals used by silicons.
+ent-EncryptionKeyBinary = ключ двоичного переводчика
+    .desc = Ключ шифрования, переводящий двоичные сигналы синтетиков.
 
-ent-EncryptionKeyBinarySyndicate = binary translator key
-    .desc = A syndicate encryption key that translates binary signals used by silicons.
+ent-EncryptionKeyBinarySyndicate = ключ двоичного переводчика
+    .desc = Ключ шифрования синдиката, переводящий двоичные сигналы синтетиков.
 
-ent-EncryptionKeyFreelance = freelancer encryption key
-    .desc = An encryption key used by freelancers, who may or may not have an affiliation. It looks like it's worn out.
+ent-EncryptionKeyFreelance = ключ шифрования фрилансера
+    .desc = Ключ шифрования для фрилансеров, которые могут быть с кем-то связаны, а могут и нет. Выглядит потрёпанным.

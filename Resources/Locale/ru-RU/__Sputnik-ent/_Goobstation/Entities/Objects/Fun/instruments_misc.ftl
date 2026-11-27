@@ -1,11 +1,11 @@
 ent-BaseCassette = { ent-BaseHandheldInstrument }
     .desc = { ent-BaseHandheldInstrument.desc }
 
-ent-BloodredCassette = blood-red cassette player
-    .desc = The least subtle way to enjoy your favorite tunes.
+ent-BloodredCassette = кроваво-красный кассетный плеер
+    .desc = Самый броский способ послушать любимые мелодии.
 
-ent-CrewCassette = cassette player
-    .desc = Regular old cassette player to enjoy your tunes on the go.
+ent-CrewCassette = кассетный плеер
+    .desc = Старый добрый кассетный плеер, чтобы слушать музыку на ходу.
 
-ent-ExecutiveCassette = executive cassette player
-    .desc = Perfect to make you look like you do mergers and acquisitions.
+ent-ExecutiveCassette = кассетный плеер руководителя
+    .desc = С этим плеером вы будете выглядеть так, будто занимаетесь слияниями и поглощениями.

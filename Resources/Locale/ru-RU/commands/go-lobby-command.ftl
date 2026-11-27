@@ -1,4 +1,4 @@
-cmd-golobby-desc = Enables the lobby and restarts the round.
-cmd-golobby-help = Usage: golobby / golobby <preset>
-cmd-golobby-success = Enabling the lobby and restarting the round.
-cmd-golobby-success-with-preset = Enabling the lobby and restarting the round with preset {$preset}.
+cmd-golobby-desc = Включает лобби и перезапускает раунд.
+cmd-golobby-help = Использование: golobby / golobby <preset>
+cmd-golobby-success = Лобби включается, раунд перезапускается.
+cmd-golobby-success-with-preset = Лобби включается, раунд перезапускается с пресетом {$preset}.

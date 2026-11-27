@@ -1,2 +1,2 @@
-ent-NinjutsuScroll = ninjutsu scroll
-    .desc = A green scroll containing some Japanese script. Its lessons are written for those who strike unseen.
+ent-NinjutsuScroll = свиток ниндзюцу
+    .desc = Зелёный свиток с Японскими письменами. Его уроки предназначены для тех, кто наносит удары незаметно.

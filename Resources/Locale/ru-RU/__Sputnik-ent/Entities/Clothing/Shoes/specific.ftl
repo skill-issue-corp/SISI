@@ -1,47 +1,47 @@
-ent-ClothingShoesChef = chef shoes
-    .desc = Sturdy shoes that minimize injury from falling objects or knives.
+ent-ClothingShoesChef = туфли повара
+    .desc = Прочная обувь, защищающая от травм при падении предметов или ножей.
 
 ent-ClothingShoesClownBase = { ent-ClothingShoesBaseButcherable }
     .desc = { ent-ClothingShoesBaseButcherable.desc }
 
-ent-ClothingShoesClown = clown shoes
-    .desc = The prankster's standard-issue clowning shoes. Damn they're huge!
+ent-ClothingShoesClown = клоунские туфли
+    .desc = Стандартные клоунские туфли шутника. Чёрт, какие же они огромные!
 
-ent-ClothingShoesClownBanana = banana clown shoes
-    .desc = When humor and footwear combine into new levels of absurdity.
+ent-ClothingShoesClownBanana = банановые клоунские туфли
+    .desc = Когда юмор и обувь сливаются на новом уровне абсурда.
 
-ent-ClothingShoesBling = bling clown shoes
-    .desc = Made of refined bananium and shined with the pulp of a fresh banana peel. These make a flashy statement.
+ent-ClothingShoesBling = блестящие клоунские туфли
+    .desc = Изготовлены из очищенного бананиума и отполированы мякотью свежей банановой кожуры. Заявляют о себе ярко.
 
-ent-ClothingShoesCult = cult shoes
-    .desc = A pair of boots worn by the followers of Nar'Sie.
+ent-ClothingShoesCult = обувь культа
+    .desc = Ботинки, которые носят последователи Нар'Си.
 
-ent-ClothingShoesGaloshes = galoshes
-    .desc = Specialised non-slip rubber boots, designed to reduce janitorial workplace accidents; a tider's treasure.
+ent-ClothingShoesGaloshes = галоши
+    .desc = Особые нескользящие резиновые сапоги, снижающие травматизм у уборщиков. Сокровище тайдера.
 
-ent-ClothingShoesSpaceNinja = space ninja shoes
-    .desc = A pair of nano-enhanced boots with built-in magnetic suction cups.
+ent-ClothingShoesSpaceNinja = обувь космического ниндзя
+    .desc = Ботинки с наноусилением и встроенными магнитными присосками.
 
-ent-ClothingShoesSwat = swat shoes
-    .desc = When you want to turn up the heat.
+ent-ClothingShoesSwat = ботинки спецназа
+    .desc = Когда хочется добавить жару.
 
-ent-ClothingShoesChameleon = black shoes
-    .desc = Stylish black shoes.
-    .suffix = Chameleon
+ent-ClothingShoesChameleon = чёрные туфли
+    .desc = Стильные чёрные туфли.
+    .suffix = Хамелеон
 
-ent-ClothingShoesChameleonNoSlips = black shoes
-    .desc = Stylish black shoes.
-    .suffix = No-slip, Chameleon
+ent-ClothingShoesChameleonNoSlips = чёрные туфли
+    .desc = Стильные чёрные туфли.
+    .suffix = Нескользящие, Хамелеон
 
-ent-ClothingShoesJester = jester shoes
-    .desc = A court jester's shoes, updated with modern squeaking technology.
+ent-ClothingShoesJester = туфли шута
+    .desc = Туфли придворного шута, оснащённые современными технологиями писка.
 
-ent-ClothingShoesCluwne = cluwne shoes
-    .desc = Cursed pair of cluwne shoes.
-    .suffix = Unremoveable
+ent-ClothingShoesCluwne = туфли клувеня
+    .desc = Проклятые туфли клувеня.
+    .suffix = Несъёмный
 
-ent-ClothingShoesClownLarge = large clown shoes
-    .desc = When you need to stand out in a room full of clowns!
+ent-ClothingShoesClownLarge = большие клоунские туфли
+    .desc = Когда нужно выделиться в комнате, полной клоунов!
 
-ent-ClothingShoesSkates = roller skates
-    .desc = Get your skates on!
+ent-ClothingShoesSkates = роликовые коньки
+    .desc = Вставайте на ролики!

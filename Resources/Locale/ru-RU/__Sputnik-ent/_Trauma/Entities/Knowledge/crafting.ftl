@@ -1,23 +1,23 @@
-ent-FabricationKnowledge = Fabrication
-    .desc = Higher tiers of fabrication allow you to craft and construct more advanced recipes from memory.
+ent-FabricationKnowledge = Изготовление
+    .desc = Чем выше навык изготовления, тем более сложные предметы и конструкции вы можете создавать по памяти.
 
-ent-WeaponsKnowledge = Weaponsmithing
-    .desc = Determines quality of handmade and forged weapons.
+ent-WeaponsKnowledge = Оружейное Дело
+    .desc = Определяет качество оружия, изготовленного вручную или выкованного.
 
-ent-ArmorKnowledge = Armorsmithing
-    .desc = Determines quality of handmade armor.
+ent-ArmorKnowledge = Изготовление Доспехов
+    .desc = Определяет качество доспехов, изготовленных вручную.
 
-ent-MetalworkingKnowledge = Metalworking
-    .desc = Determines quality of metal construction and all forged items.
+ent-MetalworkingKnowledge = Металлообработка
+    .desc = Определяет качество металлических конструкций и всех кованых изделий.
 
-ent-CarvingKnowledge = Carving
-    .desc = Determines quality of wooden construction.
+ent-CarvingKnowledge = Резьба
+    .desc = Определяет качество деревянных конструкций.
 
-ent-GunsmithingKnowledge = Gunsmithing
-    .desc = Determines quality of handmade firearms.
+ent-GunsmithingKnowledge = Изготовление Огнестрельного Оружия
+    .desc = Определяет качество огнестрельного оружия, изготовленного вручную.
 
-ent-MechanicsKnowledge = Mechanics
-    .desc = Determines quality of some machines and improvised devices.
+ent-MechanicsKnowledge = Механика
+    .desc = Определяет качество некоторых машин и самодельных устройств.
 
-ent-TailoringKnowledge = Tailoring
-    .desc = Determines quality of handmade clothing.
+ent-TailoringKnowledge = Портняжное Дело
+    .desc = Определяет качество одежды, сшитой вручную.

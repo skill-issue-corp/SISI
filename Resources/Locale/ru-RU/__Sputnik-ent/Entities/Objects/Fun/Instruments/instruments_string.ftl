@@ -4,33 +4,33 @@ ent-BaseStringInstrument = { ent-BaseHandheldInstrument }
 ent-BaseStringInstrumentClothing = { ent-BaseStringInstrument }
     .desc = { ent-BaseStringInstrument.desc }
 
-ent-ElectricGuitarInstrument = electric guitar
-    .desc = Now this makes you feel like a rock star!
+ent-ElectricGuitarInstrument = электрогитара
+    .desc = Вот с ней вы точно почувствуете себя рок-звездой!
 
-ent-BassGuitarInstrument = bass guitar
-    .desc = You feel really cool holding this. Shame you're the only one that thinks that.
+ent-BassGuitarInstrument = бас-гитара
+    .desc = С ней в руках вы чувствуете себя круто. Жаль, больше никто так не считает.
 
-ent-FretlessBassGuitarInstrument = fretless bass guitar
-    .desc = You feel really cool holding this. Shame only fretted bass players think that.
+ent-FretlessBassGuitarInstrument = безладовая бас-гитара
+    .desc = С ней в руках вы чувствуете себя круто. Жаль, так думают только басисты с ладовыми гитарами.
 
-ent-RockGuitarInstrument = rock guitar
-    .desc = What an axe!
+ent-RockGuitarInstrument = рок-гитара
+    .desc = Вот это топор!
 
-ent-AcousticGuitarInstrument = acoustic guitar
-    .desc = Anyway, here's Wonderwall.
+ent-AcousticGuitarInstrument = акустическая гитара
+    .desc = Ну ладно, вот вам Wonderwall.
 
-ent-GuitarlessFretsInstrument = guitarless frets
-    .desc = Who even needs a body?
-    .suffix = Admeme
+ent-GuitarlessFretsInstrument = лады без гитары
+    .desc = Да кому вообще нужен корпус?
+    .suffix = Адмеме
 
-ent-BanjoInstrument = banjo
+ent-BanjoInstrument = банджо
     .desc = { ent-BaseStringInstrumentClothing.desc }
 
-ent-ViolinInstrument = violin
-    .desc = The favorite of musical virtuosos and bluegrass bands.
+ent-ViolinInstrument = скрипка
+    .desc = Любимый инструмент виртуозов и блюграсс-ансамблей.
 
-ent-ViolaInstrument = viola
-    .desc = Like a violin, but worse.
+ent-ViolaInstrument = альт
+    .desc = Как скрипка, только хуже.
 
-ent-CelloInstrument = cello
-    .desc = The nerds call these violoncellos.
+ent-CelloInstrument = виолончель
+    .desc = Умники зовут её виолончелью.

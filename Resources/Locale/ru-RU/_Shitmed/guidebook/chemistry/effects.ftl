@@ -1,1 +1,1 @@
-reagent-effect-guidebook-adjust-bone-damage = Reduces bone damage by {$amount}
+reagent-effect-guidebook-adjust-bone-damage = Уменьшает повреждение костей на {$amount}

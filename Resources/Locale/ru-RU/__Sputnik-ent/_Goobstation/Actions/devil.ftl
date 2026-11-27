@@ -1,20 +1,20 @@
-ent-ActionCreateContract = Summon infernal contract
-    .desc = Creates an infernal contract in the Devil's hand.
+ent-ActionCreateContract = Призвать инфернальный контракт
+    .desc = Создаёт инфернальный контракт в руке Дьявола.
 
-ent-ActionCreateRevivalContract = Summon revival contract
-    .desc = Creates a revival contract in the Devil's hand.
+ent-ActionCreateRevivalContract = Призвать контракт воскрешения
+    .desc = Создаёт контракт воскрешения в руке Дьявола.
 
-ent-ActionShadowJaunt = Shadow jaunt
-    .desc = Melt into the shadows.
+ent-ActionShadowJaunt = Теневой рывок
+    .desc = Растворитесь в тенях.
 
-ent-ActionDevilPossess = Possess target
-    .desc = Temporarily possess a target.
+ent-ActionDevilPossess = Вселиться в цель
+    .desc = Временно вселитесь в цель.
 
-ent-ActionEndPossession = End possession
-    .desc = Cancel this possession early.
+ent-ActionEndPossession = Прекратить одержимость
+    .desc = Досрочно прекратите одержимость.
 
-ent-ActionDevilGrip = Devils Grip
-    .desc = What little fraction of your power remains in this realm, channeled into your hands.
+ent-ActionDevilGrip = Хватка Дьявола
+    .desc = Крохи вашей силы, оставшиеся в этом мире, сосредоточены в ваших руках.
 
-ent-ActionCheatDeath = Cheat Death
-    .desc = Laugh in the Grim Reapers face. You've still got time.
+ent-ActionCheatDeath = Обмануть Смерть
+    .desc = Рассмейтесь Смерти с Косой в лицо. Ваше время ещё не вышло.

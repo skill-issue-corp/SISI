@@ -1,2 +1,2 @@
-ent-MaintsMonsterSpawner = maintenance monster spawner
+ent-MaintsMonsterSpawner = точка спавна монстра из техтоннелей
     .desc = { ent-MarkerBase.desc }

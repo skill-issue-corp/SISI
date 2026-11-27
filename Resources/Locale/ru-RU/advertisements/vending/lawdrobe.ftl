@@ -9,17 +9,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-lawdrobe-1 = OBJECTION! Get the rule of law for yourself!
-advertisement-lawdrobe-2 = Go pester security until they abide by your own rules!
-advertisement-lawdrobe-3 = A new case just came in? Go get them out of jail!
-advertisement-lawdrobe-4 = A dougnut a day keeps security away!
-advertisement-lawdrobe-5 = No one is above the law!
-advertisement-lawdrobe-6 = No officer, I do not consent to a search!
-advertisement-lawdrobe-7 = Injecting space drugs leaves no evidence!
-advertisement-lawdrobe-8 = You or a loved one hurt by Nanotrasen? Too bad!
-advertisement-lawdrobe-9 = Case closed! Defendant has too much drip!
-thankyou-lawdrobe-1 = You can win any case in that outfit!
-thankyou-lawdrobe-2 = Get one for your client as well!
-thankyou-lawdrobe-3 = Win or lose, you get paid either way!
-thankyou-lawdrobe-4 = Remember: It's only illegal if you get caught!
-thankyou-lawdrobe-5 = OBJECTION! That outfit is too cool for court!
+advertisement-lawdrobe-1 = ПРОТЕСТУЮ! Возьмите закон в свои руки!
+advertisement-lawdrobe-2 = Докучайте СБ, пока они не начнут играть по вашим правилам!
+advertisement-lawdrobe-3 = Подвернулось новое дело? Вытаскивайте клиента из тюрьмы!
+advertisement-lawdrobe-4 = По пончику в день - и СБ держится подальше!
+advertisement-lawdrobe-5 = Никто не выше закона!
+advertisement-lawdrobe-6 = Нет, офицер, я не даю согласия на обыск!
+advertisement-lawdrobe-7 = Инъекции космических наркотиков не оставляют улик!
+advertisement-lawdrobe-8 = NanoTrasen навредила вам или вашим близким? Вот незадача!
+advertisement-lawdrobe-9 = Дело закрыто! Подсудимый слишком стильно одет!
+thankyou-lawdrobe-1 = В таком наряде вы выиграете любое дело!
+thankyou-lawdrobe-2 = Возьмите такой и для клиента!
+thankyou-lawdrobe-3 = Выиграете или проиграете, вам всё равно заплатят!
+thankyou-lawdrobe-4 = Помните: Это незаконно, только если вас поймают!
+thankyou-lawdrobe-5 = ПРОТЕСТУЮ! Этот наряд слишком крут для зала суда!

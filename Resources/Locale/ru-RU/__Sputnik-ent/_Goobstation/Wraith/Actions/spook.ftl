@@ -1,23 +1,23 @@
 ent-BaseWraithSpookAction = { ent-BaseWraithAction }
     .desc = { ent-BaseWraithAction.desc }
 
-ent-ActionFlipLights = Flip light switches
-    .desc = Light switches that are on turn off and off on.
+ent-ActionFlipLights = Щёлкнуть выключателями
+    .desc = Включённые выключатели выключаются, а выключенные включаются.
 
-ent-ActionBurnLights = Burn lights
-    .desc = Breaks up to four light tubes and bulbs in the area, creating sparks that can ignite flammables.
+ent-ActionBurnLights = Пережечь лампы
+    .desc = Разбивает до четырёх ламп и ламповых трубок поблизости, высекая искры, которые могут поджечь горючие материалы.
 
-ent-ActionOpenDoors = Open doors, lockers, crates
-    .desc = Opens and closes a few random doors, lockers, and crates in the area.
+ent-ActionOpenDoors = Открыть двери, шкафы и ящики
+    .desc = Открывает и закрывает несколько случайных дверей, шкафов и ящиков поблизости.
 
-ent-ActionCreateSmoke = Create smoke
-    .desc = Creates multiple clouds of smoke near you that can completely obscure people's vision. Clouds persist for about a minute.
+ent-ActionCreateSmoke = Создать дым
+    .desc = Создаёт вокруг вас несколько облаков дыма, которые могут полностью лишить людей обзора. Облака держатся около минуты.
 
-ent-ActionCreateEctoplasm = Create ectoplasm
-    .desc = Spawns a few globs of ectoplasm in the area.
+ent-ActionCreateEctoplasm = Создать эктоплазму
+    .desc = Создаёт поблизости несколько сгустков эктоплазмы.
 
-ent-ActionSapApc = Sap APC
-    .desc = Drains a bit of power from the area's APC. The higher your WP regen rate, the more power drained. Cannot drain multiple APCs.
+ent-ActionSapApc = Разрядить ЛКП
+    .desc = Отбирает немного энергии у местного ЛКП. Чем быстрее у вас восстанавливаются ФО, тем больше энергии высасывается. Можно разрядить только один ЛКП.
 
-ent-ActionSpookRandom = Random
-    .desc = Does one random action.
+ent-ActionSpookRandom = Случайное действие
+    .desc = Выполняет одно случайное действие.

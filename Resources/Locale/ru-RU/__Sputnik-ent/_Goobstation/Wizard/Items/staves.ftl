@@ -1,8 +1,8 @@
-ent-WeaponStaffChange = staff of change
-    .desc = An artefact that spits bolts of coruscating energy which cause the target's very form to reshape itself.
+ent-WeaponStaffChange = посох преображения
+    .desc = Артефакт, изрыгающий сгустки искрящейся энергии, от которой сама форма цели меняется.
 
-ent-WeaponStaffChaos = staff of chaos
-    .desc = An artefact that spits bolts of chaotic magic that can potentially do anything.
+ent-WeaponStaffChaos = посох хаоса
+    .desc = Артефакт, изрыгающий сгустки хаотической магии, способные сотворить что угодно.
 
-ent-WeaponStaffSlipping = staff of slipping
-    .desc = An artefact that spits... bananas?
+ent-WeaponStaffSlipping = посох скольжения
+    .desc = Артефакт, изрыгающий... бананы?

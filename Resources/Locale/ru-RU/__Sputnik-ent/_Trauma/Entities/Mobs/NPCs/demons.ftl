@@ -1,86 +1,86 @@
-ent-BaseDemon = demon
-    .desc = It came from hell.
+ent-BaseDemon = демон
+    .desc = Он пришёл из ада.
 
-ent-DemonAcid = demonic acid spit
+ent-DemonAcid = демонический кислотный плевок
     .desc = { ent-BaseBullet.desc }
 
-ent-MinorDemonGuy = twisted clown
-    .desc = What happens when a clown pies one too many chaplains. Actions have consequences.
+ent-MinorDemonGuy = искажённый клоун
+    .desc = Вот что бывает, когда клоун закидает пирогами слишком много священников. У поступков есть последствия.
 
-ent-MinorDemonIncel = jealousy incarnate
-    .desc = A hellish creature that dwells in the second layer of hell, tiringly talkative.
+ent-MinorDemonIncel = воплощённая зависть
+    .desc = Адское существо со второго круга ада, утомительно болтливое.
 
-ent-MinorDemonUrist = sinner
-    .desc = A wicked human sent to suffer in hell forever.
+ent-MinorDemonUrist = грешник
+    .desc = Злодей, обречённый на вечные муки в аду.
 
-ent-MinorDemonIan = flesh hound
-    .desc = After enough time in hell, souls begin to assume a more… primal form.
+ent-MinorDemonIan = гончая плоти
+    .desc = Со временем души в аду начинают принимать более… первобытный облик.
 
-ent-MinorDemonVox = outcast
-    .desc = Hated by even the most repulsive demons, it wanders the planes of Hell alone.
+ent-MinorDemonVox = изгой
+    .desc = Его ненавидят даже самые отвратительные демоны. Он в одиночестве скитается по планам Ада.
 
-ent-MinorDemonVulp = wrathful beast
-    .desc = The dominant species of a bygone era, now tortured in Hell for their hubris.
+ent-MinorDemonVulp = яростный зверь
+    .desc = Некогда господствующий вид, а теперь он терпит муки в Аду за свою гордыню.
 
-ent-MinorDemonCentifiend = lesser centifiend
-    .desc = A juvenile demon, it progresses the potent diseases of its greater brethren.
+ent-MinorDemonCentifiend = младшая демоносороконожка
+    .desc = Юный демон, ускоряющий развитие тяжёлых болезней, которыми заражают его старшие сородичи.
 
-ent-MinorDemonFlesh = miserable flesh thing
-    .desc = A disgusting living mass of fat, muscle tissue, mucus and blood. The ritual must have failed somehow, and this wretched thing is the result.
+ent-MinorDemonFlesh = жалкая тварь из плоти
+    .desc = Отвратительная живая масса из жира, мышц, слизи и крови. Должно быть, в ритуале что-то пошло не так, и получилось это убожество.
 
-ent-MediumDemonCentifiend = centifiend
-    .desc = One of the most common demons in Hell, this oversized arthropod spreads pestilence with its bite.
+ent-MediumDemonCentifiend = демоносороконожка
+    .desc = Один из самых распространённых демонов Ада. Этот огромный членистоногий разносит мор своими укусами.
 
-ent-MediumDemonChad = prideful demon
-    .desc = It takes great pride in its mustache. It used to take pride in its skin…
+ent-MediumDemonChad = горделивый демон
+    .desc = Он очень гордится своими усами. Раньше он гордился своей кожей…
 
-ent-MediumDemonHamlet = hellmet
-    .desc = Bred as livestock in hell, rumors say Hellmets taste like chicken.
+ent-MediumDemonHamlet = адошлем
+    .desc = Их разводят в аду на мясо. Говорят, на вкус Адошлемы как курица.
 
-ent-MediumDemonMindflayer = mindflayer
-    .desc = A primordial beast, it's kin have existed since the dawn of Hell. Barely intelligent, it uses inate psychic abilities to feed on the intellect of its prey.
+ent-MediumDemonMindflayer = свежеватель разума
+    .desc = Первобытный зверь, чей род существует с зарождения Ада. Едва разумен и питается интеллектом жертв благодаря врождённым псионическим способностям.
 
-ent-MediumDemonAbomination = abomination
-    .desc = A grotesque amalgamation of sickly flesh, muscle quivers underneath it's rotting skin and it constantly drools a corrosive mucus.
+ent-MediumDemonAbomination = мерзость
+    .desc = Уродливый ком больной плоти. Под гниющей кожей дёргаются мышцы, а из пасти постоянно течёт едкая слизь.
 
-ent-MediumDemonImp = imp
-    .desc = Miserable, weak and disfigured beings, they often find themselves the lackeys of more powerful demons. Lords of Hell often use imps as cannon fodder for their armies.
+ent-MediumDemonImp = бес
+    .desc = Жалкие, слабые и уродливые существа часто становятся прислужниками более могущественных демонов. Владыки Ада часто используют бесов в своих армиях как пушечное мясо.
 
-ent-MediumDemonDark = darkling
-    .desc = Strange shadowy beings, darklings hide in the deepest recesses of Hell, only emerging to drag down the odd sinner into the darkness.
+ent-MediumDemonDark = теневик
+    .desc = Странные теневые существа, которые скрываются в самых тёмных глубинах Ада и выходят лишь затем, чтобы утащить в темноту очередного грешника.
 
-ent-MajorAngelHuman = Aspect of Greed
-    .desc = After consuming a great number of Hellish souls, it's possible a lowly Sinner may become an Aspect. Humans embody the aspect of Greed.
+ent-MajorAngelHuman = Аспект Алчности
+    .desc = Поглотив множество Адских душ, жалкий Грешник может стать Аспектом. Люди воплощают аспект Алчности.
 
-ent-MajorAngelLizard = Aspect of Predation
-    .desc = After consuming a great number of Hellish souls, it's possible a lowly Sinner may become an aspect. Lizards embody the aspect of Predation.
+ent-MajorAngelLizard = Аспект Хищничества
+    .desc = Поглотив множество Адских душ, жалкий Грешник может стать аспектом. Унатхи воплощают аспект Хищничества.
 
-ent-MajorAngelMoth = Aspect of Madness
-    .desc = After consuming a great number of Hellish souls, it's possible a lowly Sinner may become an aspect. Moths embody the aspect of Madness.
+ent-MajorAngelMoth = Аспект Безумия
+    .desc = Поглотив множество Адских душ, жалкий Грешник может стать аспектом. Нианы воплощают аспект Безумия.
 
-ent-MajorDemonBosche = bosche
-    .desc = Born from the dreams of a mad painter, all it knows is to consume.
+ent-MajorDemonBosche = босх
+    .desc = Родился из снов безумного художника и умеет лишь пожирать.
 
-ent-MajorDemonFeverbird = feverbird
-    .desc = Your head hurts. Something is wrong. Onion layer one. Onion layer two. Onion layer three…
+ent-MajorDemonFeverbird = лихорадочная птица
+    .desc = У вас болит голова. Что-то не так. Первый слой луковицы. Второй слой луковицы. Третий слой луковицы…
 
-ent-MajorDemonHanged = hanged
-    .desc = After being sent to the gallows, the souls of criminals enter the flora of Hell, they are back to exact revenge.
+ent-MajorDemonHanged = висельник
+    .desc = Души повешенных преступников вселяются в растения Ада, а теперь они вернулись отомстить.
 
-ent-MajorDemonHiver = hiver
-    .desc = Weaker demons that formed a symbiotic relationship with infernal bees. yes Hell has bees, lots of them.
+ent-MajorDemonHiver = ульевик
+    .desc = Мелкие демоны, вступившие в симбиоз с адскими пчёлами. да, в Аду есть пчёлы, много пчёл.
 
-ent-BeeLaughterDemon = demon bee
+ent-BeeLaughterDemon = пчела-демон
     .desc = { ent-BeeLaughter.desc }
 
-ent-MajorDemonSteamer = steamer
-    .desc = Steamers are demons that were born from the souls of those who died to welderbombing. Their anger manifests as blazing oil within their gut.
+ent-MajorDemonSteamer = парочник
+    .desc = Парочники - демоны, рождённые из душ погибших от взрыва сварочного бака. Их гнев превращается в пылающее масло в их утробе.
 
-ent-MajorDemonButcher = butcher
-    .desc = The butchers march through hell, like a plague of locusts, flaying and consuming all in their path.
+ent-MajorDemonButcher = мясник
+    .desc = Мясники идут по аду, словно туча саранчи, сдирая кожу со всех на пути и пожирая их.
 
-ent-MajorDemonGhost = Spectre
-    .desc = Torn from their bodies, they seek to warm their hands on the warm flesh of the living.
+ent-MajorDemonGhost = Призрак
+    .desc = Вырванные из собственных тел, они ищут, где согреть руки о тёплую плоть живых.
 
-ent-MajorDemonSaturn = saturnite
-    .desc = Many demonologists perform rituals to give themselves stronger physical forms, saturnites form when said rituals go terribly wrong.
+ent-MajorDemonSaturn = сатурнит
+    .desc = Многие демонологи проводят ритуалы, чтобы придать своим телам больше силы. Сатурниты рождаются, когда такой ритуал заканчивается катастрофой.

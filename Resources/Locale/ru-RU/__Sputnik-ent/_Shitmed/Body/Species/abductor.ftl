@@ -1,12 +1,12 @@
-ent-AppearanceAbductor = abductor appearance
+ent-AppearanceAbductor = внешность абдуктора
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobAbductor = Urist McAlien
+ent-MobAbductor = Урист МакПришелец
     .desc = { ent-AppearanceAbductor.desc }
 
 ent-OrganAbductor = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = abductor
+    .suffix = абдуктор
 
 ent-OrganAbductorInternal = { ent-OrganAbductor }
     .desc = { ent-OrganAbductor.desc }
@@ -50,8 +50,8 @@ ent-OrganAbductorBrain = { ent-OrganBaseBrain }
 ent-OrganAbductorEyes = { ent-OrganBaseEyes }
     .desc = { ent-OrganBaseEyes.desc }
 
-ent-OrganAbductorTongue = superlingual matrix
-    .desc = A mysterious structure that allows for instant communication between users. Pretty impressive until you need to eat something.
+ent-OrganAbductorTongue = надъязыковая матрица
+    .desc = Загадочная структура, позволяющая носителям мгновенно общаться. Впечатляет, пока не понадобится что-нибудь съесть.
 
 ent-OrganAbductorAppendix = { ent-OrganBaseAppendix }
     .desc = { ent-OrganBaseAppendix.desc }

@@ -1,5 +1,5 @@
-ent-ClothingOuterCoatDiscoBlazer = Disco Blazer
-    .desc = Looks like someone skinned this blazer off some long extinct disco-animal.
+ent-ClothingOuterCoatDiscoBlazer = Диско-Пиджак
+    .desc = Похоже, кто-то содрал этот пиджак с давно вымершего диско-зверя.
 
-ent-ClothingOuterCoatTransparentBlazer = transparent blazer
-    .desc = You freak, now everyone can see you naked.
+ent-ClothingOuterCoatTransparentBlazer = прозрачный пиджак
+    .desc = Ну вы и извращенец. Теперь все могут увидеть вас голышом.

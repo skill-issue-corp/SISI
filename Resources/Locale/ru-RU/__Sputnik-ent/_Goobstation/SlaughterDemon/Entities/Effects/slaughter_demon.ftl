@@ -1,5 +1,5 @@
-ent-SlaughterDemonJauntEffect = slaughter demon jaunt
+ent-SlaughterDemonJauntEffect = рывок демона резни
     .desc = { "" }
 
-ent-SlaughterDemonJauntUpEffect = slaughter demon jaunt up
+ent-SlaughterDemonJauntUpEffect = выход из рывка демона резни
     .desc = { "" }

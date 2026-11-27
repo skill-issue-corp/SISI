@@ -1,6 +1,6 @@
-admin-event-log-title = Event log
-admin-event-round = Round{" "}
-admin-event-round-reset = Reset
-admin-event-round-reset-with-id = Reset (#{$id})
-admin-event-description-placeholder = Event description...
-admin-event-send = Send log
+admin-event-log-title = Журнал событий
+admin-event-round = Раунд{" "}
+admin-event-round-reset = Сбросить
+admin-event-round-reset-with-id = Сбросить (#{$id})
+admin-event-description-placeholder = Описание события...
+admin-event-send = Отправить запись

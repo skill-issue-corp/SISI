@@ -1,14 +1,14 @@
-blood-swell-effect-name = Blood Swell
-blood-swell-effect-description = You take reduced brute, burn and stamina damage, but you're unable to use guns.
+blood-swell-effect-name = Прилив Крови
+blood-swell-effect-description = Вы получаете меньше физического урона, ожогов и урона выносливости, но не можете пользоваться огнестрельным оружием.
 
-blood-rush-effect-name = Blood Rush
-blood-rush-effect-description = Your movement speed is doubled.
+blood-rush-effect-name = Бурление Крови
+blood-rush-effect-description = Скорость вашего движения удваивается.
 
-gladiator-effect-name = Gladiator
-gladiator-effect-description = You constantly heal in the arena.
+gladiator-effect-name = Гладиатор
+gladiator-effect-description = На арене вы непрерывно исцеляетесь.
 
-cloak-darkness-effect-name = Cloak of Darkness
-cloak-darkness-effect-description = You gain extra movement speed, and invisibility in the dark. However, you are prone to fire.
+cloak-darkness-effect-name = Покров Тьмы
+cloak-darkness-effect-description = Вы двигаетесь быстрее и становитесь невидимы во тьме. Однако вы легко загораетесь.
 
-blood-bond-effect-name = Blood Bond
-blood-bond-effect-description = You are linked via a blood bond. You share damage with anyone linked.
+blood-bond-effect-name = Кровные Узы
+blood-bond-effect-description = Вы связаны кровными узами. Полученный урон делится между всеми связанными.

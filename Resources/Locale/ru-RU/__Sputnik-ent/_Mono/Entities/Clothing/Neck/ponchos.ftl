@@ -1,8 +1,8 @@
-ent-ClothingNeckPonchoBlack = black cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. The truth is that it's itchy, stuffy, and a little baggy - but at least it's not cold. This one is black.
+ent-ClothingNeckPonchoBlack = чёрное зимнее пончо
+    .desc = Зимнее Пончо, которое расхваливают как шедевр защиты от непогоды. На деле оно колется, в нём душно, да и сидит оно мешковато - зато не холодно. Это чёрное.
 
-ent-ClothingNeckPonchoArctic = cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. The truth is that it's itchy, stuffy, and a little baggy - but at least it's not cold.
+ent-ClothingNeckPonchoArctic = зимнее пончо
+    .desc = Зимнее Пончо, которое расхваливают как шедевр защиты от непогоды. На деле оно колется, в нём душно, да и сидит оно мешковато - зато не холодно.
 
-ent-ClothingNeckPonchoSyndicate = black and red cold weather poncho
-    .desc = The Cold Weather Poncho, advertised as a masterpiece of elemental protection. The truth is that it's itchy, stuffy, and a little baggy - but at least it's not cold. This one seems vaguely sinister...
+ent-ClothingNeckPonchoSyndicate = чёрно-красное зимнее пончо
+    .desc = Зимнее Пончо, которое расхваливают как шедевр защиты от непогоды. На деле оно колется, в нём душно, да и сидит оно мешковато - зато не холодно. В этом есть что-то зловещее...

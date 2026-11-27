@@ -1,3 +1,3 @@
-ent-RandomMaintsCloset = maintenance closet
+ent-RandomMaintsCloset = шкаф техтоннелей
     .desc = { ent-MarkerBase.desc }
-    .suffix = Random Filled/Mimic
+    .suffix = Случайный Заполненный/Мимик

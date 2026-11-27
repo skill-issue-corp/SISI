@@ -1,18 +1,18 @@
-ent-ClothingModsuitContractor = Contractor modsuit control unit
-    .desc = The main controller for a Contractor modsuit.
+ent-ClothingModsuitContractor = блок управления модсьютом Наёмника Синдиката
+    .desc = Главный контроллер модсьюта Наёмника Синдиката.
 
-ent-ClothingModsuitGauntletsContractor = Contractor modsuit gauntlets
-    .desc = A pair of gauntlets made for the Contractor modsuit.
+ent-ClothingModsuitGauntletsContractor = перчатки модсьюта Наёмника Синдиката
+    .desc = Пара перчаток для модсьюта Наёмника Синдиката.
 
-ent-ClothingModsuitHelmetContractor = Contractor modsuit helmet
-    .desc = A state-of-the-art helmet designed by the Syndicate for the Contractor modsuit. It includes a built-in HUD.
+ent-ClothingModsuitHelmetContractor = шлем модсьюта Наёмника Синдиката
+    .desc = Передовой шлем, разработанный Синдикатом для модсьюта Наёмника Синдиката. Имеет встроенный визор.
 
-ent-ClothingModsuitChestplateContractor = Contractor modsuit chestplate
-    .desc = A state of the art chestplate designed by the Syndicate for the Contractor modsuit. It incorporates powered servos to reduce the equipment load.
+ent-ClothingModsuitChestplateContractor = нагрудник модсьюта Наёмника Синдиката
+    .desc = Передовой нагрудник, разработанный Синдикатом для модсьюта Наёмника Синдиката. Встроенные сервоприводы помогают нести снаряжение.
 
-ent-ClothingModsuitBootsContractor = Contractor modsuit boots
-    .desc = A state-of-the-art pair of magboots for the Contractor modsuit. So long as the suit is powered, these will not slow the wearer down.
+ent-ClothingModsuitBootsContractor = ботинки модсьюта Наёмника Синдиката
+    .desc = Пара передовых магнитных ботинок для модсьюта Наёмника Синдиката. Пока костюм получает питание, они не замедляют владельца.
 
 ent-SuitStorageContractor = { ent-SuitStorageBase }
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Contractor Modsuit
+    .suffix = Модсьют Наёмника Синдиката

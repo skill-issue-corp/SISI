@@ -1,51 +1,51 @@
-ent-CrateServiceBarSupply = bartending supplies crate
-    .desc = Extra bar supplies, in case the clown was allowed in the bar unsupervised.
+ent-CrateServiceBarSupply = ящик барных принадлежностей
+    .desc = Запасные принадлежности для бара на случай, если клоуна пустили туда без присмотра.
 
-ent-CrateServiceCooking = kitchen supplies crate
-    .desc = Extra kitchen supplies, in case the botanists are absent.
+ent-CrateServiceCooking = ящик кухонных припасов
+    .desc = Запасные припасы для кухни на случай отсутствия ботаников.
 
-ent-CrateServiceDinnerware = kitchen dinnerware crate
-    .desc = Extra kitchen supplies, in case the clown was allowed in the cafeteria unsupervised.
+ent-CrateServiceDinnerware = ящик столовой посуды
+    .desc = Запасные кухонные принадлежности на случай, если клоуна пустили в столовую без присмотра.
 
-ent-CrateServiceGetMore = Getmore Bakemore crate
-    .desc = Getmore branded snacks and baking supplies for the creative chef, all without the need of emptying your station's Getmore machines!
+ent-CrateServiceGetMore = ящик «Гетмор Бейкмор»
+    .desc = Фирменные закуски «Гетмор» и всё для выпечки творческому повару, и не нужно опустошать автоматы «Гетмор» на станции!
 
-ent-CrateServiceSmokeables = smokeables crate
-    .desc = Tired of a quick death on the station? Order this crate and chain-smoke your way to a coughy demise!
+ent-CrateServiceSmokeables = ящик курительных принадлежностей
+    .desc = Надоело слишком быстро умирать на станции? Закажите этот ящик и курите сигарету за сигаретой, пока не докашляетесь до смерти!
 
-ent-CrateServiceTheatre = theatrical performances crate
-    .desc = Contains a moth cloak, barber scissors, maid uniform, clown and mime attributes, and other performance charms.
+ent-CrateServiceTheatre = ящик театральных принадлежностей
+    .desc = Содержит плащ ниана, парикмахерские ножницы, форму горничной, принадлежности клоуна и мима и прочий сценический реквизит.
 
-ent-CrateServiceCustomSmokable = DIY smokeables crate
-    .desc = Want to get a little creative with what you use to destroy your lungs? Then this crate is for you! Has everything you need to roll your own cigarettes.
+ent-CrateServiceCustomSmokable = ящик для самокруток
+    .desc = Хочется подойти творчески к тому, чем вы губите лёгкие? Тогда этот ящик для вас! Внутри всё необходимое, чтобы скрутить собственные сигареты.
 
-ent-CrateServiceBureaucracy = bureaucracy crate
-    .desc = Several stacks of paper, a few pens and an office toy. What more could you ask for?
+ent-CrateServiceBureaucracy = ящик для бюрократии
+    .desc = Несколько стопок бумаги, несколько ручек и офисная игрушка. Чего ещё желать?
 
-ent-CrateServiceFaxMachine = fax machine crate
-    .desc = A fax machine and a screwdriver to set the name with.
+ent-CrateServiceFaxMachine = ящик факса
+    .desc = Факс и отвёртка, чтобы задать ему имя.
 
-ent-CrateServicePersonnel = personnel crate
-    .desc = Contains a box of blank ID cards and PDAs.
+ent-CrateServicePersonnel = ящик для работы с персоналом
+    .desc = Содержит коробку чистых ID-карт и КПК.
 
-ent-CrateServiceBooks = books crate
-    .desc = Contains 10 empty books of random appearance.
+ent-CrateServiceBooks = ящик книг
+    .desc = Содержит 10 пустых книг случайного вида.
 
-ent-CrateServiceGuidebooks = guidebooks crate
-    .desc = Contains guidebooks.
+ent-CrateServiceGuidebooks = ящик руководств
+    .desc = Содержит руководства.
 
-ent-CrateServiceSodaDispenser = soda dispenser refill crate
-    .desc = Contains refills for soda dispensers.
+ent-CrateServiceSodaDispenser = ящик заправок для автомата с газировкой
+    .desc = Содержит заправки для автоматов с газировкой.
 
-ent-CrateServiceBoozeDispenser = booze dispenser refill crate
-    .desc = Contains refills for booze dispensers.
+ent-CrateServiceBoozeDispenser = ящик заправок для автомата с алкоголем
+    .desc = Содержит заправки для автоматов с алкоголем.
 
-ent-CrateServiceBox = boxes crate
-    .desc = Contains 6 empty multipurpose boxes.
+ent-CrateServiceBox = ящик коробок
+    .desc = Содержит 6 пустых универсальных коробок.
 
 ent-CrateTrashCartFilled = { ent-CrateTrashCart }
     .desc = { ent-CrateTrashCart.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-CrateCandles = candles crate
-    .desc = Contains 4 boxes of candles, 2 large and 2 small. For atmosphere or something.
+ent-CrateCandles = ящик свечей
+    .desc = Содержит 4 коробки свечей, 2 большие и 2 маленькие. Для атмосферы или вроде того.

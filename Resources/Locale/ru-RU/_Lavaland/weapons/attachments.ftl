@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-attachment-bayonet-slot-name = Bayonet
-attachment-light-slot-name = Flashlight
+attachment-bayonet-slot-name = Штык
+attachment-light-slot-name = Фонарик

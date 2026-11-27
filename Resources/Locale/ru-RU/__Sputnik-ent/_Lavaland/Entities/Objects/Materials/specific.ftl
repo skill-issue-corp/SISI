@@ -1,5 +1,5 @@
-ent-MaterialWatcherWing = watcher's wing
-    .desc = They are tough and yet easily merge together, it should be a great material for new tools.
+ent-MaterialWatcherWing = крыло наблюдателя
+    .desc = Крылья прочны, но легко срастаются друг с другом. Отличный материал для новых инструментов.
 
 ent-MaterialWatcherWing1 = { ent-MaterialWatcherWing }
     .desc = { ent-MaterialWatcherWing.desc }
@@ -9,8 +9,8 @@ ent-MaterialWatcherWing5 = { ent-MaterialWatcherWing }
     .desc = { ent-MaterialWatcherWing.desc }
     .suffix = 5
 
-ent-MaterialWatcherMagmaWing = watcher's magma wing
-    .desc = A wing with magma flowing inside. They are tough and yet easily merge together, it should be a great material for new tools.
+ent-MaterialWatcherMagmaWing = магмовое крыло наблюдателя
+    .desc = Крыло, внутри которого течёт магма. Крылья прочны, но легко срастаются друг с другом. Отличный материал для новых инструментов.
 
 ent-MaterialWatcherMagmaWing1 = { ent-MaterialWatcherMagmaWing }
     .desc = { ent-MaterialWatcherMagmaWing.desc }
@@ -20,8 +20,8 @@ ent-MaterialWatcherMagmaWing5 = { ent-MaterialWatcherMagmaWing }
     .desc = { ent-MaterialWatcherMagmaWing.desc }
     .suffix = 5
 
-ent-MaterialWatcherIceWing = watcher's ice wing
-    .desc = A wing that is made out of ice, but it somehow refuses to melt. They are tough and yet easily merge together, it should be a great material for new tools.
+ent-MaterialWatcherIceWing = ледяное крыло наблюдателя
+    .desc = Крыло сделано изо льда, но почему-то не тает. Крылья прочны, но легко срастаются друг с другом. Отличный материал для новых инструментов.
 
 ent-MaterialWatcherIceWing1 = { ent-MaterialWatcherIceWing }
     .desc = { ent-MaterialWatcherIceWing.desc }
@@ -31,8 +31,8 @@ ent-MaterialWatcherIceWing5 = { ent-MaterialWatcherIceWing }
     .desc = { ent-MaterialWatcherIceWing.desc }
     .suffix = 5
 
-ent-MaterialLegionSkull = legion skull
-    .desc = A grey deformed skull of a long gone humanoid. Just for a brief moment, you felt like it is staring right at your soul.
+ent-MaterialLegionSkull = череп легиона
+    .desc = Серый деформированный череп давно погибшего гуманоида. На мгновение вам показалось, что он заглянул вам прямо в душу.
 
 ent-MaterialLegionSkull1 = { ent-MaterialLegionSkull }
     .desc = { ent-MaterialLegionSkull.desc }

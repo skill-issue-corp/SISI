@@ -1,30 +1,30 @@
 ent-FlaskBase = { ent-DrinkBaseMaterialStrongMetal }
     .desc = { ent-DrinkBaseMaterialStrongMetal.desc }
 
-ent-DrinkFlaskOld = old flask
-    .desc = A decrepit old flask, its lid seems to be missing.
+ent-DrinkFlaskOld = старая фляжка
+    .desc = Дряхлая старая фляжка. Похоже, крышка потерялась.
 
-ent-DrinkShinyFlask = shiny flask
-    .desc = A shiny metal flask. It appears to have a Greek symbol inscribed on it.
+ent-DrinkShinyFlask = блестящая фляжка
+    .desc = Блестящая металлическая фляжка. Кажется, с выгравированным Греческим символом.
 
-ent-DrinkMREFlask = MRE flask
-    .desc = An old military flask, filled with the finest contents for soldiers.
-    .suffix = Full
+ent-DrinkMREFlask = фляжка из ИРП
+    .desc = Старая военная фляжка с лучшим содержимым для солдат.
+    .suffix = Полностью заполнено
 
-ent-DrinkDetFlask = inspector's flask
-    .desc = A metal flask with a leather band and golden badge belonging to the inspector.
+ent-DrinkDetFlask = фляжка инспектора
+    .desc = Металлическая фляжка с кожаным ремешком и золотым значком. Принадлежит инспектору.
 
-ent-DrinkHosFlask = hos's flask
-    .desc = A metal flask, fit for a hard working HoS.
+ent-DrinkHosFlask = фляжка гсб
+    .desc = Металлическая фляжка для трудолюбивого ГСБ.
 
-ent-DrinkFlask = captain's flask
-    .desc = A metal flask belonging to the captain.
+ent-DrinkFlask = фляжка капитана
+    .desc = Металлическая фляжка капитана.
 
-ent-DrinkFlaskBar = flask
-    .desc = A reusable metal flask. Classier than drinking straight from a bottle.
+ent-DrinkFlaskBar = фляжка
+    .desc = Многоразовая металлическая фляжка. Из неё пить изящнее, чем из бутылки.
 
-ent-DrinkLithiumFlask = lithium flask
-    .desc = A flask with a Lithium Atom symbol on it.
+ent-DrinkLithiumFlask = литиевая фляжка
+    .desc = На этой фляжке изображён символ Атома Лития.
 
-ent-DrinkVacuumFlask = vacuum flask
-    .desc = Keeping your drinks at the perfect temperature since 1892.
+ent-DrinkVacuumFlask = термос
+    .desc = Поддерживаем идеальную температуру ваших напитков с 1892 года.

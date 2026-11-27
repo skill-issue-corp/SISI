@@ -1,41 +1,41 @@
-objective-issuer-hypnotized = Hypnotized
-role-subtype-hypnotized-victim = Hypnotized
+objective-issuer-hypnotized = Загипнотизирован
+role-subtype-hypnotized-victim = Загипнотизирован
 
-hypnoflash-latch = The device latches into your hand!
+hypnoflash-latch = Устройство прицепляется к вашей руке!
 
-paper-text-hypnoflash-info = SPESSMAN ARE YOU....
-    Feeling restless? Curious?
-    Let me tell you about Hypnoflash...
-    Made by INTERDYNE, powered by the secret force of SYNDICATE.
-    It’s more than just a flash -
-    It’s a gateway to your mind.
-    Close your eyes, listen...
-    Feel the waves, the pull, the whisper...
-    Hypnoflash is your key to unlock hidden depths.
-    Control. Power. Serenity.
-    Are you ready?
+paper-text-hypnoflash-info = КОСМОНАВТ, ТЫ....
+    Места себе не находишь? Любопытно?
+    Я расскажу тебе о Гипновспышке...
+    Создана ИНТЕРДАЙНОМ, питается тайной силой СИНДИКАТА.
+    Это больше, чем просто вспышка -
+    Это врата в твой разум.
+    Закрой глаза, слушай...
+    Почувствуй волны, влечение, шёпот...
+    Гипновспышка — твой ключ к скрытым глубинам.
+    Контроль. Власть. Безмятежность.
+    Ты готов?
     =====================
-    CALL NOW!!!
+    ЗВОНИ ПРЯМО СЕЙЧАС!!!
     +S65-656-56
-    SAY MANGO TO GET EXTRA DISCOUNT!
+    СКАЖИ «МАНГО» И ПОЛУЧИ ДОПОЛНИТЕЛЬНУЮ СКИДКУ!
 
-    Before use, make sure that:
-    1. You or your affiliates wear eye protection.
-    2. Your targets do not wear eye protection.
-    3. Your targets do not have mindshield implant.
-    4. There are no sound sources nearby.
+    Перед применением убедитесь, что:
+    1. Вы и ваши сообщники надели защиту для глаз.
+    2. Ваши цели не носят защиту для глаз.
+    3. У ваших целей нет импланта «щит разума».
+    4. Поблизости нет источников звука.
 
-    Usage:
-    Activate in hand, and wait for the device to flash.
-    Every target that meets requirements in the 4 meter radius will be affected.
-    After the flash, you have 10 seconds to speak the designated objective, that will be encoded into the affected targets brain.
-    Chosen objective should be spoken in one sentence in the 10 seconds after the flash was activated. Failure to do so will result in the product malfunction.
+    Применение:
+    Активируйте устройство в руке и дождитесь вспышки.
+    Устройство подействует на каждую подходящую цель в радиусе 4 метров.
+    После вспышки у вас есть 10 секунд, чтобы произнести задание, которое запишется в мозг цели.
+    Выбранное задание нужно произнести одним предложением в течение 10 секунд после активации вспышки. Иначе изделие даст сбой.
 
-    FLASH IS SINGLE USE, UNLESS STATED OTHERWISE BY THE INTERDYNE INC IN THE PACKAGING OF SAID DEVICE. INTERDYNE IS NOT RESPONSIBLE FOR ANY DAMAGES THIS MAY CAUSE OR MAY NOT CAUSE AFTER THE FLASH IS USED.
+    ВСПЫШКА ОДНОРАЗОВАЯ, ЕСЛИ ИНТЕРДАЙН ИНК НЕ УКАЗАЛА ИНОЕ НА УПАКОВКЕ УСТРОЙСТВА. ИНТЕРДАЙН НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ ЗА УЩЕРБ, КОТОРЫЙ МОЖЕТ БЫТЬ ИЛИ НЕ БЫТЬ ПРИЧИНЁН ПОСЛЕ ПРИМЕНЕНИЯ ВСПЫШКИ.
 
-hypnotized-victim-role-name-freeagent = Hypnotized (free agent)
+hypnotized-victim-role-name-freeagent = Загипнотизирован (свободный агент)
 
 
-uplink-hypnoflash-name = Hypnoflash bundle
-uplink-hypnoflash-desc = The Pinnacle of Interdyne's Neuroengineering teams". Contains a briefcase with a hypnoflash, a single use device that will hypnotize everyone in its activation radius upon activation. Hypnotized people will follow the first sentence they hear after being flashed.
-roles-antag-hypnotized = hypnotized
+uplink-hypnoflash-name = Комплект с гипновспышкой
+uplink-hypnoflash-desc = Вершина разработок нейроинженеров «Интердайн». В портфеле гипновспышка — одноразовое устройство, гипнотизирующее всех в радиусе действия. Загипнотизированные выполнят первое предложение, которое услышат после вспышки.
+roles-antag-hypnotized = загипнотизированный

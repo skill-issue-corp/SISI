@@ -1,2 +1,2 @@
-ent-DeviceQuantumSpinInverter = quantum spin inverter
-    .desc = An experimental device that is able to swap the locations of two entities by switching their particles' spin values. Must be linked to another device to function.
+ent-DeviceQuantumSpinInverter = квантовый инвертор спина
+    .desc = Экспериментальное устройство, меняющее местами две сущности путём переключения спинов их частиц. Для работы его надо связать со вторым устройством.

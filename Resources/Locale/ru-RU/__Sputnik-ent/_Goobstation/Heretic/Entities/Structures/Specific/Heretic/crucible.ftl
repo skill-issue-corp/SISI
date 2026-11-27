@@ -1,2 +1,2 @@
-ent-MawedCrucible = mawed crucible
-    .desc = A deep basin made of cast iron, immortalized by steel-like teeth holding it in place. Staring at the vile extract within fills your mind with terrible ideas.
+ent-MawedCrucible = зубастое горнило
+    .desc = Глубокая чугунная чаша, которую намертво удерживают стальные на вид зубы. Стоит заглянуть в мерзкий экстракт внутри, как голову наполняют ужасные мысли.

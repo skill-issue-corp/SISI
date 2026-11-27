@@ -1,16 +1,16 @@
-ent-ShipRailgunProjectile = M381 CHARON 280mm 75.25 kg slug
+ent-ShipRailgunProjectile = болванка M381 CHARON 280 мм 75.25 кг
     .desc = { ent-BaseBulletTrigger.desc }
 
 ent-20mmBulletBase = { ent-BaseBullet }
     .desc = { ent-BaseBullet.desc }
 
-ent-20mmBulletArmorPiercing = 20mm AP bullet
+ent-20mmBulletArmorPiercing = бронебойная пуля 20 мм
     .desc = { ent-20mmBulletBase.desc }
 
-ent-ShipDravonProjectile = DRAVON 57mm projectile
+ent-ShipDravonProjectile = снаряд DRAVON 57 мм
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-90mmBulletBase = shell
+ent-90mmBulletBase = снаряд
     .desc = { ent-BaseBulletTrigger.desc }
 
 ent-90mmBulletArmorPiercing = { ent-90mmBulletExplosiveBase }
@@ -19,17 +19,17 @@ ent-90mmBulletArmorPiercing = { ent-90mmBulletExplosiveBase }
 ent-90mmBulletExplosiveBase = { ent-90mmBulletBase }
     .desc = { ent-90mmBulletBase.desc }
 
-ent-ShipTarnyxProjectile = TARNYX 150mm projectile
+ent-ShipTarnyxProjectile = снаряд TARNYX 150 мм
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-ShipCyrexaProjectile = CYREXA 220mm projectile
+ent-ShipCyrexaProjectile = снаряд CYREXA 220 мм
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-ShipBoforsProjectile = Bofors 255mm projectile
+ent-ShipBoforsProjectile = снаряд Bofors 255 мм
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-ShipKargilProjectile = Kargil 203mm projectile
+ent-ShipKargilProjectile = снаряд Kargil 203 мм
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-ShipHadesProjectile = HADES 305mm projectile
-    .desc = I feel a primal fear. The omen comes for me.
+ent-ShipHadesProjectile = снаряд HADES 305 мм
+    .desc = Я чувствую первобытный страх. Предзнаменование идёт за мной.

@@ -1,8 +1,8 @@
-item-toggle-examined-on = The light is currently [color=darkgreen]on[/color].
-item-toggle-examined-off = The light is currently [color=darkred]off[/color].
+item-toggle-examined-on = Индикатор сейчас [color=darkgreen]горит[/color].
+item-toggle-examined-off = Индикатор сейчас [color=darkred]не горит[/color].
 
-item-toggle-examined-active = {CAPITALIZE(OBJECT($target))} {CONJUGATE-BE($target)} currently [color=darkgreen]activated[/color].
+item-toggle-examined-active = {CAPITALIZE(OBJECT($target))} {CONJUGATE-BE($target)}сейчас можно считать [color=darkgreen]включённым[/color].
 # Trauma - use $target instead of just target
-item-toggle-examined-not-active = {CAPITALIZE(OBJECT($target))} {CONJUGATE-BE($target)} currently [color=darkred]deactivated[/color].
+item-toggle-examined-not-active = {CAPITALIZE(OBJECT($target))} {CONJUGATE-BE($target)}сейчас можно считать [color=darkred]выключенным[/color].
 
-item-toggle-activated-low-charge = Insufficient charge...
+item-toggle-activated-low-charge = Недостаточно заряда...

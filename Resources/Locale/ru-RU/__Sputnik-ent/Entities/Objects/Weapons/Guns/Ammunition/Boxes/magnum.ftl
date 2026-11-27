@@ -1,17 +1,17 @@
 ent-BaseMagazineBoxMagnum = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-MagazineBoxMagnum = ammunition box (.45 magnum)
-    .desc = A cardboard box of .45 magnum rounds. Intended to hold general-purpose kinetic ammunition.
+ent-MagazineBoxMagnum = коробка патронов (.45 магнум)
+    .desc = Картонная коробка с патронами .45 магнум. Предназначена для обычных кинетических боеприпасов.
 
-ent-MagazineBoxMagnumPractice = ammunition box (.45 magnum practice)
-    .desc = A cardboard box of .45 magnum rounds. Intended to hold harmless practice ammunition.
+ent-MagazineBoxMagnumPractice = коробка патронов (.45 магнум учебные)
+    .desc = Картонная коробка с патронами .45 магнум. Предназначена для безвредных учебных боеприпасов.
 
-ent-MagazineBoxMagnumIncendiary = ammunition box (.45 magnum incendiary)
-    .desc = A cardboard box of .45 magnum rounds. Intended to hold self-igniting incendiary ammunition.
+ent-MagazineBoxMagnumIncendiary = коробка патронов (.45 магнум зажигательные)
+    .desc = Картонная коробка с патронами .45 магнум. Предназначена для самовоспламеняющихся зажигательных боеприпасов.
 
-ent-MagazineBoxMagnumUranium = ammunition box (.45 magnum uranium)
-    .desc = A cardboard box of .45 magnum rounds. Intended to hold exotic uranium-core ammunition.
+ent-MagazineBoxMagnumUranium = коробка патронов (.45 магнум урановые)
+    .desc = Картонная коробка с патронами .45 магнум. Предназначена для экзотических боеприпасов с урановым сердечником.
 
-ent-MagazineBoxMagnumAP = ammunition box (.45 magnum armor-piercing)
-    .desc = A cardboard box of .45 magnum rounds. Intended to hold specialized armor-piercing ammunition.
+ent-MagazineBoxMagnumAP = коробка патронов (.45 магнум бронебойные)
+    .desc = Картонная коробка с патронами .45 магнум. Предназначена для специальных бронебойных боеприпасов.

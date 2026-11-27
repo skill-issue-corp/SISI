@@ -1,2 +1,2 @@
-satiation-type-hunger = hunger
-satiation-type-thirst = thirst
+satiation-type-hunger = голод
+satiation-type-thirst = жажда

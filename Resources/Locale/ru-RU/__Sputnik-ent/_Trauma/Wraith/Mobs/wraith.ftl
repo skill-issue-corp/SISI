@@ -1,2 +1,2 @@
-ent-MobWraithMidround = Wraith
-    .desc = A KINDA spooky ghostie.
+ent-MobWraithMidround = Фантом
+    .desc = Ну ТИПА жутенькое привиденьице.

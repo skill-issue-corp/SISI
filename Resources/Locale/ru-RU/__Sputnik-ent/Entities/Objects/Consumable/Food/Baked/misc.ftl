@@ -1,108 +1,108 @@
 ent-FoodBakedBase = { ent-SolutionVeryTiny }
     .desc = { ent-SolutionVeryTiny.desc }
 
-ent-FoodBakedMuffin = muffin
-    .desc = A delicious and spongy little cake.
+ent-FoodBakedMuffin = маффин
+    .desc = Маленький вкусный и воздушный кекс.
 
-ent-FoodBakedMuffinBerry = berry muffin
-    .desc = A delicious and spongy little cake, with berries.
+ent-FoodBakedMuffinBerry = ягодный маффин
+    .desc = Маленький вкусный и воздушный кекс с ягодами.
 
-ent-FoodBakedMuffinCherry = cherry muffin
-    .desc = A sweet muffin with cherry bits.
+ent-FoodBakedMuffinCherry = вишнёвый маффин
+    .desc = Сладкий маффин с кусочками вишни.
 
-ent-FoodBakedMuffinBluecherry = bluecherry muffin
-    .desc = Blue cherries inside a delicious muffin.
+ent-FoodBakedMuffinBluecherry = маффин с синей вишней
+    .desc = Синие вишни внутри вкусного маффина.
 
-ent-FoodBakedMuffinChocolate = chocolate muffin
-    .desc = A delicious and spongy chocolate muffin.
+ent-FoodBakedMuffinChocolate = шоколадный маффин
+    .desc = Вкусный и воздушный шоколадный маффин.
 
-ent-FoodBakedMuffinBanana = banana muffin
-    .desc = A delicious and spongy banana muffin.
+ent-FoodBakedMuffinBanana = банановый маффин
+    .desc = Вкусный и воздушный банановый маффин.
 
-ent-FoodBakedBunHoney = honey bun
-    .desc = A sticky pastry bun glazed with honey.
+ent-FoodBakedBunHoney = медовая булочка
+    .desc = Липкая сдобная булочка в медовой глазури.
 
-ent-FoodBakedBunHotX = hotcross bun
-    .desc = A sticky pastry bun glazed with a distinct white cross.
+ent-FoodBakedBunHotX = крестовая булочка
+    .desc = Липкая сдобная булочка с отчётливым белым крестом из глазури.
 
-ent-FoodBakedBunMeat = meat bun
-    .desc = Has the potential to not be dog.
+ent-FoodBakedBunMeat = булочка с мясом
+    .desc = Возможно, даже не с собачатиной.
 
-ent-FoodBakedCookie = cookie
-    .desc = COOKIE!!!
+ent-FoodBakedCookie = печенье
+    .desc = ПЕЧЕНЬЕ!!!
 
-ent-FoodBakedCookieOatmeal = oatmeal cookie
-    .desc = The best of both cookie and oat.
+ent-FoodBakedCookieOatmeal = овсяное печенье
+    .desc = Всё лучшее от печенья и овсянки.
 
-ent-FoodBakedCookieRaisin = raisin cookie
-    .desc = Why would you put raisins in a cookie?
+ent-FoodBakedCookieRaisin = печенье с изюмом
+    .desc = Зачем класть изюм в печенье?
 
-ent-FoodBakedCookieSugar = sugar cookie
-    .desc = Just like your mom used to make.
+ent-FoodBakedCookieSugar = сахарное печенье
+    .desc = Совсем как у мамы.
 
-ent-FoodBakedNugget = chicken nugget
-    .desc = A "chicken" nugget vaguely shaped into an object.
+ent-FoodBakedNugget = куриный наггетс
+    .desc = «Куриный» наггетс, отдалённо напоминающий какой-то предмет.
 
-ent-FoodBakedPancake = pancake
-    .desc = A fluffy pancake. The softer, superior relative of the waffle.
+ent-FoodBakedPancake = панкейк
+    .desc = Пышный панкейк. Более мягкий и удачный родственник вафли.
 
-ent-FoodBakedPancakeBb = blueberry pancake
-    .desc = A fluffy and delicious blueberry pancake.
+ent-FoodBakedPancakeBb = черничный панкейк
+    .desc = Пышный и вкусный панкейк с черникой.
 
-ent-FoodBakedPancakeCc = chocolate chip pancake
-    .desc = A fluffy and delicious chocolate chip pancake.
+ent-FoodBakedPancakeCc = панкейк с шоколадной крошкой
+    .desc = Пышный и вкусный панкейк с шоколадной крошкой.
 
-ent-FoodBakedWaffle = waffles
-    .desc = Mmm, waffles.
+ent-FoodBakedWaffle = вафли
+    .desc = М-м-м, вафли.
 
-ent-FoodBakedWaffleSoy = soy waffles
-    .desc = You feel healthier and - more feminine?
+ent-FoodBakedWaffleSoy = соевые вафли
+    .desc = Вы чувствуете себя здоровее и - женственнее?
 
-ent-FoodBakedWaffleSoylent = soylent waffles
-    .desc = Not made of people. Honest.
+ent-FoodBakedWaffleSoylent = соилентовые вафли
+    .desc = Не из людей. Честно.
 
-ent-FoodBakedWaffleRoffle = roffle waffles
-    .desc = Waffles from Roffle. Co.
+ent-FoodBakedWaffleRoffle = вафли рофл
+    .desc = Вафли от «Рофл Ко.».
 
-ent-FoodBakedPretzel = poppy pretzel
-    .desc = It's all twisted up!
+ent-FoodBakedPretzel = крендель с маком
+    .desc = Весь закручен!
 
-ent-FoodBakedCannoli = cannoli
-    .desc = A Sicilian treat that makes you into a wise guy.
+ent-FoodBakedCannoli = канноли
+    .desc = Сицилийское лакомство, превращающее вас в мафиози.
 
-ent-FoodBakedDumplings = dumplings
-    .desc = Average recipe for meat in doughs.
+ent-FoodBakedDumplings = пельмени
+    .desc = Обычные кусочки мяса в тесте.
 
-ent-FoodBakedChevreChaud = chèvre chaud
-    .desc = A disk of slightly melted chèvre flopped on top of a crostini, and toasted all-round.
+ent-FoodBakedChevreChaud = шевр шо
+    .desc = Кружок слегка расплавленного козьего сыра на кростини, поджаренный со всех сторон.
 
-ent-FoodBakedChevreChaudCotton = cotton chèvre chaud
-    .desc = A disk of slightly melted chèvre flopped on top of a... cotton crostini, and toasted all-round.
+ent-FoodBakedChevreChaudCotton = хлопковый шевр шо
+    .desc = Кружок слегка расплавленного козьего сыра на... хлопковом кростини, поджаренный со всех сторон.
 
-ent-FoodBakedBrownieBatch = brownies
-    .desc = A pan of brownies.
+ent-FoodBakedBrownieBatch = брауни
+    .desc = Целый противень брауни.
 
-ent-FoodBakedBrownie = brownie
-    .desc = A fresh baked brownie.
-    .suffix = Fresh
+ent-FoodBakedBrownie = брауни
+    .desc = Свежевыпеченный брауни.
+    .suffix = Свежий
 
-ent-FoodBakedCannabisBrownieBatch = special brownies
-    .desc = A pan of "special" brownies.
+ent-FoodBakedCannabisBrownieBatch = особые брауни
+    .desc = Противень «особых» брауни.
 
-ent-FoodBakedCannabisBrownie = special brownie
-    .desc = A "special" brownie.
+ent-FoodBakedCannabisBrownie = особый брауни
+    .desc = «Особый» брауни.
 
-ent-FoodOnionRings = onion rings
-    .desc = You can eat it or propose to your loved ones.
+ent-FoodOnionRings = луковые кольца
+    .desc = Можно съесть, а можно сделать предложение любимому человеку.
 
-ent-FoodBakedCroissant = croissant
-    .desc = Buttery, flaky goodness.
+ent-FoodBakedCroissant = круассан
+    .desc = Слоёное масляное великолепие.
 
-ent-FoodBakedCroissantCotton = cotton croissant
-    .desc = Buttery, flaky, fibery goodness.
+ent-FoodBakedCroissantCotton = хлопковый круассан
+    .desc = Слоёное, масляное, волокнистое великолепие.
 
-ent-FoodBakedGrilledCheeseSandwich = grilled cheese sandwich
-    .desc = Bread and cheese toasted with butter, perfect for a chilly day in space.
+ent-FoodBakedGrilledCheeseSandwich = горячий сэндвич с сыром
+    .desc = Хлеб и сыр, поджаренные на масле. Отличный выбор для холодного дня в космосе.
 
-ent-FoodBakedGrilledCheeseSandwichCotton = cotton grilled cheese sandwich
-    .desc = Cotton bread slightly burnt in butter, with melted cheese. Moths find it difficult to resist this combination.
+ent-FoodBakedGrilledCheeseSandwichCotton = горячий хлопковый сэндвич с сыром
+    .desc = Хлопковый хлеб, слегка подгоревший на масле, с расплавленным сыром. Нианам трудно устоять перед таким сочетанием.

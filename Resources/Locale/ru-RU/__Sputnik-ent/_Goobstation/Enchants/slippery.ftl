@@ -1,2 +1,2 @@
-ent-EnchantSlippery = Slippery
+ent-EnchantSlippery = Скользкий
     .desc = { ent-BaseEnchant.desc }

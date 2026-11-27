@@ -1,11 +1,11 @@
-ent-WeaponHeadOfSecurityRifle = X-8 "Station Sweeper"
-    .desc = An elaborately designed rifle, firing shots of pure phoron. Low fire rate, high damage.
+ent-WeaponHeadOfSecurityRifle = X-8 «Station Sweeper»
+    .desc = Искусно сконструированная винтовка, стреляющая зарядами чистого форона. Низкая скорострельность, высокий урон.
 
-ent-WeaponHeadOfSecuritySMG = X-6 "Threadripper"
-    .desc = An elaborately designed SMG, firing shots of pure phoron. Amazing for laying down suppressive fire.
+ent-WeaponHeadOfSecuritySMG = X-6 «Threadripper»
+    .desc = Искусно сконструированный ПП, стреляющий зарядами чистого форона. Идеален для огня на подавление.
 
-ent-WeaponHeadOfSecurityShotgun = X-12 "Flamberge"
-    .desc = An elaborately designed shotgun, firing shots of pure phoron. Built to break down defenses, and it does that job well.
+ent-WeaponHeadOfSecurityShotgun = X-12 «Flamberge»
+    .desc = Искусно сконструированный дробовик, стреляющий зарядами чистого форона. Создан прорывать оборону и отлично с этим справляется.
 
-ent-WeaponHeadOfSecuritySniper = X-18 "Ranought"
-    .desc = An elaborately designed sniper rifle, firing shots of pure phoron. You won't want to get hit by this.
+ent-WeaponHeadOfSecuritySniper = X-18 «Ranought»
+    .desc = Искусно сконструированная снайперская винтовка, стреляющая зарядами чистого форона. Под такой выстрел лучше не попадать.

@@ -1,15 +1,15 @@
 ent-ShowHealthRelatedIcons = { "" }
     .desc = { "" }
 
-ent-ClothingEyesHudChrono = futuristic visor
-    .desc = A visior from the future, capable of displaying almost anything.
+ent-ClothingEyesHudChrono = футуристичный визор
+    .desc = Визор из будущего, который может показывать почти всё что угодно.
 
 ent-ClothingEyesHudChronoUnremoveable = { ent-ClothingEyesHudChrono }
     .desc = { ent-ClothingEyesHudChrono.desc }
-    .suffix = Unremoveable
+    .suffix = Несъёмный
 
-ent-ClothingEyesHudDiagnosticMedical = meddiag hud
-    .desc = A heads-up display combining both medical and diagnostic information.
+ent-ClothingEyesHudDiagnosticMedical = медицинский диагностический визор
+    .desc = Визор, объединяющий медицинские и диагностические данные.
 
-ent-ClothingEyesHudViro = viro hud
-    .desc = A medical HUD upgraded with advanced disease scanning.
+ent-ClothingEyesHudViro = вирусологический визор
+    .desc = Медицинский ВИЗОР с усовершенствованным сканером болезней.

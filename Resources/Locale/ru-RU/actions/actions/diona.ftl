@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-diona-gib-action-use = {$name} splits apart in an instant!
+diona-gib-action-use = {$name} мгновенно распадается на части!
 
-diona-reform-attempt = {$name} attempts to reform!
+diona-reform-attempt = {$name} пытается собраться вновь!

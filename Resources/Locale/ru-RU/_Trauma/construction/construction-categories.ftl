@@ -1,3 +1,3 @@
-construction-category-antagonist = Antagonist
-construction-category-forging = Forging
-construction-category-demonology = Demonology
+construction-category-antagonist = Антагонисты
+construction-category-forging = Кузнечное Дело
+construction-category-demonology = Демонология

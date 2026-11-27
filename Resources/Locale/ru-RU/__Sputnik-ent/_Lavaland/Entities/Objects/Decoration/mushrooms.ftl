@@ -1,3 +1,3 @@
-ent-Lavashroom = lavashroom
-    .desc = A wild mushroom that likes to grow in hot, moist environments.
-    .suffix = Structure
+ent-Lavashroom = лавовый гриб
+    .desc = Дикий гриб, который любит жаркие и влажные места.
+    .suffix = Конструкция

@@ -1,11 +1,11 @@
-devil-roundend-name = Devil
-objective-issuer-devil = Devil
+devil-roundend-name = Дьявол
+objective-issuer-devil = Дьявол
 
-roundend-prepend-devil-contracts = Someone has made [color=red]{$number}[/color] successful contracts.
-roundend-prepend-devil-contracts-named = [color=white]{$name}[/color] has made [color=red]{$number}[/color] successful contracts.
+roundend-prepend-devil-contracts = Кто-то успешно заключает договоры в количестве [color=red]{$number}[/color].
+roundend-prepend-devil-contracts-named = [color=white]{$name}[/color] успешно заключает договоры в количестве [color=red]{$number}[/color].
 
-devil-component-examined = [color=darkred]{CAPITALIZE(POSS-ADJ($target))} eyes glow a faint red.[/color]
-condemned-component-examined = [color=chartreuse]{CAPITALIZE($target)}'s eyes are hollow and soulless.[/color]
+devil-component-examined = [color=darkred]{CAPITALIZE(POSS-ADJ($target))} глаза тускло светятся красным.[/color]
+condemned-component-examined = [color=chartreuse]У {CAPITALIZE($target)} пустые, безжизненные глаза.[/color]
 
 # SIS-Start
 devil-role-greeting =
@@ -20,30 +20,30 @@ devil-role-greeting-desc =
     • [color={$hl1}]Опасность веры:[/color] Священник станции, Библии и Святая Вода способны сжечь вашу плоть и сорвать ваши планы!
 # SIS-End
 
-devil-true-name-heard = The act of {$speaker} commanding {$target}'s true name compels {POSS-ADJ($target)} to stop.
-devil-true-name-heard-chaplain = The act of {$speaker}'s holy words commanding their true name burns away at {$target}'s very soul.
+devil-true-name-heard = Когда {$speaker} повелевает, произнося истинное имя {$target}, {POSS-ADJ($target)} воля бессильна.
+devil-true-name-heard-chaplain = Священные слова {$speaker}, произносящего истинное имя, жгут саму душу {$target}.
 
-objective-condition-contract-title = Collect Souls
-objective-condition-contract-description = Collect as many souls as possible.
+objective-condition-contract-title = Собрать Души
+objective-condition-contract-description = Соберите как можно больше душ.
 
-objective-condition-weight-title = Make profitable deals.
-objective-condition-weight-description = Ensure the deals benefit you as much as possible.
+objective-condition-weight-title = Заключайте выгодные сделки.
+objective-condition-weight-description = Сделайте так, чтобы сделки принесли вам как можно больше пользы.
 
-hand-shake-prompt-verb = Offer handshake to {$target}
-hand-shake-accept-verb = Shake {$target}'s hand
+hand-shake-prompt-verb = Предложить рукопожатие {$target}
+hand-shake-accept-verb = Пожать руку {$target}
 
-handshake-success = You feel slightly lighter as you shake {$user}'s hand.
-handshake-fail =  You shake {POSS-ADJ($user)} hand, but nothing happens!
+handshake-success = Вы пожимаете руку {$user} и чувствуете лёгкость.
+handshake-fail =  Вы пожимаете {POSS-ADJ($user)} руку, но ничего не происходит!
 
-handshake-offer-popup = {$user} offers {POSS-ADJ($user)} hand to you, a sly grin on {POSS-ADJ($user)} face.
-handshake-offer-popup-self = You outstretch your hand to {$target}, a sly grin on your face.
+handshake-offer-popup = {$user} протягивает вам {POSS-ADJ($user)} руку, на {POSS-ADJ($user)} лице хитрая усмешка.
+handshake-offer-popup-self = Вы с хитрой усмешкой протягиваете руку {$target}.
 
-weaktoholy-component-bible-sizzle = {$target}'s skin is singed with the {$item}!
-devil-banish-begin = {$user} begins to perform an exorcism on {$target}!
-devil-exorcised = The ground cracks and splinters beneath {$target} as they are forcefully returned to hell!
+weaktoholy-component-bible-sizzle = Кожа {$target} обугливается от прикосновения к {$item}!
+devil-banish-begin = {$user} начинает проводить экзорцизм над {$target}!
+devil-exorcised = Земля под {$target} трещит и крошится, когда того силой возвращают в ад!
 
-invalid-possession-target = You cannot possess this target!
+invalid-possession-target = Вы не можете вселиться в эту цель!
 
-devil-power-level-increase-weak = Bits of flame flare out from your fingertips. Your connection with hell has strengthened.
-devil-power-level-increase-moderate = You feel your power surge. Your connection with hell has strengthened.
-devil-power-level-increase-powerful = You've almost completed your tasks here. Just a few more souls.
+devil-power-level-increase-weak = На кончиках ваших пальцев вспыхивают язычки пламени. Ваша связь с адом окрепла.
+devil-power-level-increase-moderate = Вы чувствуете прилив сил. Ваша связь с адом окрепла.
+devil-power-level-increase-powerful = Ваша задача почти выполнена. Ещё несколько душ.

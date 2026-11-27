@@ -1,10 +1,10 @@
-ghost-role-information-shadow-demon-name = Shadow Demon
-ghost-role-information-shadow-demon-description = The darkness needs a King, and you got summoned to wear that crown.
+ghost-role-information-shadow-demon-name = Тенедемон
+ghost-role-information-shadow-demon-description = Тьме нужен Король, и вас призвали, чтобы вы надели эту корону.
 ghost-role-information-shadow-demon-rules =
-    As a shadow demon, your task is to cause as much chaos as possible,
-    so grapple your way into the halls of the station, and feast on the innocent crew.
-    YOU ARE IMMUNE TO LIGHT FOR 20 SECONDS SINCE YOU SPAWN, DON'T PANIC.
-    Use darkness to your advantage, because nobody can take you on there,
-    and remember that [color=red]all demons are your allies[/color], so don't hesitate to work with another demon.
+    Ваша задача как тенедемона — посеять как можно больше хаоса,
+    так что проберитесь в коридоры станции на крюке и пируйте, пожирая невинный экипаж.
+    ПЕРВЫЕ 20 СЕКУНД ПОСЛЕ СПАВНА СВЕТ ВАМ НЕ СТРАШЕН, НЕ ПАНИКУЙТЕ.
+    Используйте темноту в свою пользу: там с вами никто не справится,
+    и помните, что [color=red]все демоны — ваши союзники[/color], поэтому смело действуйте сообща.
 
-roles-shadow-demon-name-token = Shadow Demon (Token)
+roles-shadow-demon-name-token = Тенедемон (Жетон)

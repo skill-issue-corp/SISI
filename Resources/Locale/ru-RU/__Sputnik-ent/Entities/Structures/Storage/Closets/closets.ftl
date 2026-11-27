@@ -1,26 +1,26 @@
-ent-ClosetTool = tool closet
-    .desc = It's a storage unit for tools.
+ent-ClosetTool = шкаф для инструментов
+    .desc = Шкаф для хранения инструментов.
 
-ent-ClosetRadiationSuit = radiation suit closet
-    .desc = More comfortable than radiation poisioning.
+ent-ClosetRadiationSuit = шкаф противорадиационных костюмов
+    .desc = Удобнее лучевой болезни.
 
-ent-ClosetEmergency = emergency closet
-    .desc = It's a storage unit for emergency breath masks and O2 tanks.
+ent-ClosetEmergency = аварийный шкаф
+    .desc = Шкаф для аварийных дыхательных масок и баллонов O2.
 
-ent-ClosetEmergencyN2 = emergency nitrogen closet
-    .desc = It's full of life-saving equipment. Assuming, that is, that you breathe nitrogen.
+ent-ClosetEmergencyN2 = аварийный шкаф с азотом
+    .desc = Полон спасательного снаряжения. При условии, конечно, что вы дышите азотом.
 
-ent-ClosetFire = fire-safety closet
-    .desc = It's a storage unit for fire-fighting supplies.
+ent-ClosetFire = пожарный шкаф
+    .desc = Шкаф для противопожарного снаряжения.
 
-ent-ClosetBomb = EOD closet
-    .desc = It's a storage unit for explosion-protective suits.
+ent-ClosetBomb = шкаф сапёра
+    .desc = Шкаф для взрывозащитных костюмов.
 
-ent-ClosetJanitorBomb = janitorial bomb suit closet
-    .desc = It's a storage unit for janitorial explosion-protective suits.
+ent-ClosetJanitorBomb = шкаф со взрывозащитными костюмами уборщиков
+    .desc = Шкаф для взрывозащитных костюмов уборщиков.
 
-ent-ClosetL3 = level 3 biohazard gear closet
-    .desc = It's a storage unit for level 3 biohazard gear.
+ent-ClosetL3 = шкаф снаряжения биозащиты 3-го уровня
+    .desc = Шкаф для снаряжения биозащиты 3-го уровня.
 
 ent-ClosetL3Science = { ent-ClosetL3 }
     .desc = { ent-ClosetL3.desc }
@@ -34,16 +34,16 @@ ent-ClosetL3Security = { ent-ClosetL3 }
 ent-ClosetL3Janitor = { ent-ClosetL3 }
     .desc = { ent-ClosetL3.desc }
 
-ent-ClosetMaintenance = maintenance closet
-    .desc = It's a storage unit.
+ent-ClosetMaintenance = шкаф техтоннелей
+    .desc = Шкаф для хранения вещей.
 
-ent-LockerSyndicate = blood-red closet
-    .desc = It's a storage unit with a blood-red design.
+ent-LockerSyndicate = кроваво-красный шкаф
+    .desc = Шкаф с кроваво-красным оформлением.
 
-ent-ClosetBluespace = suspicious closet
-    .desc = It's a storage unit... right?
-    .suffix = Bluespace
+ent-ClosetBluespace = подозрительный шкаф
+    .desc = Это шкаф для вещей... верно?
+    .suffix = Блюспейс
 
-ent-ClosetBluespaceUnstable = suspicious closet
-    .desc = It's a storage unit... right?
-    .suffix = Bluespace unstable
+ent-ClosetBluespaceUnstable = подозрительный шкаф
+    .desc = Это шкаф для вещей... верно?
+    .suffix = Блюспейс нестабильный

@@ -1,21 +1,21 @@
-knowledge-level-up-popup = You gained {$mastery} mastery in {$knowledge}!
-knowledge-unit-learned-popup = You have learned {$knowledge}!
-knowledge-unit-forgotten-popup = You have forgotten the secrets of {$knowledge}!
-knowledge-could-not-learn = This has no more secrets for you to find.
-knowledge-level-more = You learn more about {$knowledge}.
-knowledge-level-epiphany = You have reached a sudden epiphany regarding {$knowledge}!
+knowledge-level-up-popup = Вы достигли уровня «{$mastery}» в навыке «{$knowledge}»!
+knowledge-unit-learned-popup = Вы освоили «{$knowledge}»!
+knowledge-unit-forgotten-popup = Вы забыли секреты навыка «{$knowledge}»!
+knowledge-could-not-learn = Вы уже раскрыли все секреты.
+knowledge-level-more = Вы узнаёте больше о навыке «{$knowledge}».
+knowledge-level-epiphany = Вы внезапно постигли суть навыка «{$knowledge}»!
 
 knowledge-info-description = {$mastery} | {$level}
 
-knowledge-language-speaks-understands = {$language} : Speaks and understands
-knowledge-language-speaks = {$language} : Speaks
-knowledge-language-understands = {$language} : Understands
+knowledge-language-speaks-understands = {$language} : Говорит и понимает
+knowledge-language-speaks = {$language} : Говорит
+knowledge-language-understands = {$language} : Понимает
 
-knowledge-construction-name = Construction: {$group}
+knowledge-construction-name = Строительство: {$group}
 
-language-curse-pain = You hear bad language!
+language-curse-pain = Вы слышите брань!
 
-trauma-knowledge-title = Knowledge Tab
-trauma-character-title = Character Tab
+trauma-knowledge-title = Вкладка Навыков
+trauma-character-title = Вкладка Персонажа
 
-knowledge-zenkai-boost = Your body is filled with a second wind as you finally understand something.
+knowledge-zenkai-boost = Вы наконец кое-что поняли, и у вас открылось второе дыхание.

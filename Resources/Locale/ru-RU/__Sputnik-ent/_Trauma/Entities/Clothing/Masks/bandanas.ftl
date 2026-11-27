@@ -1,2 +1,2 @@
-ent-ClothingMaskBandRev = dark green bandana
-    .desc = To conceal your identity, or cover your hair.
+ent-ClothingMaskBandRev = тёмно-зелёная бандана
+    .desc = Скрывает лицо или прикрывает волосы.

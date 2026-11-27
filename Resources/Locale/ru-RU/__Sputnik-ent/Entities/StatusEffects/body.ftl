@@ -4,32 +4,32 @@ ent-BloodstreamStatusEffectBase = { ent-MobStatusEffectBase }
 ent-BloodstreamStatusEffectDebuff = { ent-BloodstreamStatusEffectBase }
     .desc = { ent-BloodstreamStatusEffectBase.desc }
 
-ent-StatusEffectBloodloss = bloodloss
+ent-StatusEffectBloodloss = кровопотеря
     .desc = { ent-BloodstreamStatusEffectDebuff.desc }
 
 ent-PainNumbnessStatusEffectBase = { ent-MobStatusEffectBase }
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectAnticoagulant = thin blood
+ent-StatusEffectAnticoagulant = разжижение крови
     .desc = { ent-BloodstreamStatusEffectDebuff.desc }
 
-ent-StatusEffectHemorrhage = hemorrhage
+ent-StatusEffectHemorrhage = кровоизлияние
     .desc = { ent-BloodstreamStatusEffectDebuff.desc }
 
-ent-StatusEffectPainNumbness = pain numbness
+ent-StatusEffectPainNumbness = нечувствительность к боли
     .desc = { ent-PainNumbnessStatusEffectBase.desc }
 
-ent-StatusEffectAdrenaline = adrenaline
+ent-StatusEffectAdrenaline = адреналин
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StaminaModifierStatusEffect = { ent-MobStatusEffectBase }
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectDesoxyStamina = 2x max stamina
+ent-StatusEffectDesoxyStamina = 2x максимальная выносливость
     .desc = { ent-StaminaModifierStatusEffect.desc }
 
-ent-StatusEffectStimulantsStamina = 1.5x max stamina
+ent-StatusEffectStimulantsStamina = 1.5x максимальная выносливость
     .desc = { ent-StaminaModifierStatusEffect.desc }
 
-ent-StatusEffectNightVision = Night Vision
+ent-StatusEffectNightVision = Ночное Зрение
     .desc = { ent-MobStatusEffectBase.desc }

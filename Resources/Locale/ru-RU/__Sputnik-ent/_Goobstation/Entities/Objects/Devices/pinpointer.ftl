@@ -1,18 +1,18 @@
-ent-PinpointerAnomaly = anomaly pinpointer
-    .desc = A handheld tracking device that locks onto any anomaly while off. Keep upright to retain accuracy.
+ent-PinpointerAnomaly = пинпоинтер аномалий
+    .desc = Ручной прибор слежения, который в выключенном состоянии наводится на любую аномалию. Для точности держите вертикально.
 
-ent-PinpointerArtifact = artifact pinpointer
-    .desc = A handheld tracking device that tracks all near artifacts. Keep upright to retain accuracy.
+ent-PinpointerArtifact = пинпоинтер артефактов
+    .desc = Ручной прибор слежения, который отслеживает все артефакты поблизости. Для точности держите вертикально.
 
-ent-PinpointerBorg = borg pinpointer
-    .desc = A handheld tracking device that locks onto any silicon while off. Keep upright to retain accuracy.
+ent-PinpointerBorg = пинпоинтер боргов
+    .desc = Ручной прибор слежения, который в выключенном состоянии наводится на любого синтетика. Для точности держите вертикально.
 
-ent-PinpointerGeneric = generic pinpointer
-    .desc = A handheld tracking device that locks onto any item while off. Keep upright to retain accuracy.
-    .suffix = Admin
+ent-PinpointerGeneric = универсальный пинпоинтер
+    .desc = Ручной прибор слежения, который в выключенном состоянии наводится на любой предмет. Для точности держите вертикально.
+    .suffix = Администрация
 
-ent-PinpointerStationGoob = station pinpointer
-    .desc = A handheld tracking device that tracks all near stations. Keep upright to retain accuracy.
+ent-PinpointerStationGoob = станционный пинпоинтер
+    .desc = Ручной прибор слежения, который отслеживает все станции поблизости. Для точности держите вертикально.
 
-ent-PinpointerSyndicateNuclearFission = syndicate nuke pinpointer
-    .desc = Produced specifically for nuclear operative missions, get that nuclear bomb!
+ent-PinpointerSyndicateNuclearFission = пинпоинтер ядерной бомбы синдиката
+    .desc = Разработан специально для заданий ядерных оперативников. Добудьте эту ядерку!

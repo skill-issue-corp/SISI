@@ -1,5 +1,5 @@
 ent-BaseSmokable = { ent-SolutionSmokable }
-    .desc = If you want to get cancer, might as well do it in style.
+    .desc = Если уж зарабатывать рак, то хотя бы со стилем.
 
 ent-BaseCigar = { ent-BaseSmokable }
     .desc = { ent-BaseSmokable.desc }

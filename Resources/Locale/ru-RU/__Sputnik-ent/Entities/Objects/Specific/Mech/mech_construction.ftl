@@ -7,20 +7,20 @@ ent-BaseRipleyPart = { ent-BaseMechPart }
 ent-BaseRipleyPartItem = { ent-BaseRipleyPart }
     .desc = { ent-BaseRipleyPart.desc }
 
-ent-RipleyHarness = ripley harness
-    .desc = The core of the Ripley APLU.
+ent-RipleyHarness = каркас рипли
+    .desc = Основа Рипли АПЛУ.
 
-ent-RipleyLArm = ripley left arm
-    .desc = The left arm of the Ripley APLU. It belongs on the chassis of the mech.
+ent-RipleyLArm = левая рука рипли
+    .desc = Левая рука Рипли АПЛУ. Крепится к шасси меха.
 
-ent-RipleyLLeg = ripley left leg
-    .desc = The left leg of the Ripley APLU. It belongs on the chassis of the mech.
+ent-RipleyLLeg = левая нога рипли
+    .desc = Левая нога Рипли АПЛУ. Крепится к шасси меха.
 
-ent-RipleyRLeg = ripley right leg
-    .desc = The right leg of the Ripley APLU. It belongs on the chassis of the mech.
+ent-RipleyRLeg = правая нога рипли
+    .desc = Правая нога Рипли АПЛУ. Крепится к шасси меха.
 
-ent-RipleyRArm = ripley right arm
-    .desc = The right arm of the Ripley APLU. It belongs on the chassis of the mech.
+ent-RipleyRArm = правая рука рипли
+    .desc = Правая рука Рипли АПЛУ. Крепится к шасси меха.
 
 ent-BaseHonkerPart = { ent-BaseMechPart }
     .desc = { ent-BaseMechPart.desc }
@@ -28,20 +28,20 @@ ent-BaseHonkerPart = { ent-BaseMechPart }
 ent-BaseHonkerPartItem = { ent-BaseHonkerPart }
     .desc = { ent-BaseHonkerPart.desc }
 
-ent-HonkerHarness = H.O.N.K. harness
-    .desc = The core of the H.O.N.K. mech
+ent-HonkerHarness = каркас Х.О.Н.К.
+    .desc = Основа меха Х.О.Н.К.
 
-ent-HonkerLArm = H.O.N.K. left arm
-    .desc = A H.O.N.K. left arm, with unique sockets that accept odd weaponry designed by clown scientists.
+ent-HonkerLArm = левая рука Х.О.Н.К.
+    .desc = Левая рука Х.О.Н.К. с особыми креплениями для странного оружия, созданного учёными-клоунами.
 
-ent-HonkerLLeg = H.O.N.K. left leg
-    .desc = A H.O.N.K. left leg. The foot appears just large enough to fully accommodate a clown shoe.
+ent-HonkerLLeg = левая нога Х.О.Н.К.
+    .desc = Левая нога Х.О.Н.К. Ступня как раз достаточно большая, чтобы вместить клоунский башмак целиком.
 
-ent-HonkerRLeg = H.O.N.K. right leg
-    .desc = A H.O.N.K. right leg. The foot appears just large enough to fully accommodate a clown shoe.
+ent-HonkerRLeg = правая нога Х.О.Н.К.
+    .desc = Правая нога Х.О.Н.К. Ступня как раз достаточно большая, чтобы вместить клоунский башмак целиком.
 
-ent-HonkerRArm = H.O.N.K. right arm
-    .desc = A H.O.N.K. right arm, with unique sockets that accept odd weaponry designed by clown scientists.
+ent-HonkerRArm = правая рука Х.О.Н.К.
+    .desc = Правая рука Х.О.Н.К. с особыми креплениями для странного оружия, созданного учёными-клоунами.
 
 ent-BaseHamtrPart = { ent-BaseMechPart }
     .desc = { ent-BaseMechPart.desc }
@@ -49,20 +49,20 @@ ent-BaseHamtrPart = { ent-BaseMechPart }
 ent-BaseHamtrPartItem = { ent-BaseHamtrPart }
     .desc = { ent-BaseHamtrPart.desc }
 
-ent-HamtrHarness = HAMTR harness
-    .desc = The core of the HAMTR.
+ent-HamtrHarness = каркас ХАМТР
+    .desc = Основа ХАМТР.
 
-ent-HamtrLArm = HAMTR left arm
-    .desc = The left arm of the HAMTR. It belongs on the chassis of the mech.
+ent-HamtrLArm = левая рука ХАМТР
+    .desc = Левая рука ХАМТР. Крепится к шасси меха.
 
-ent-HamtrLLeg = HAMTR left leg
-    .desc = The left leg of the HAMTR. It belongs on the chassis of the mech.
+ent-HamtrLLeg = левая нога ХАМТР
+    .desc = Левая нога ХАМТР. Крепится к шасси меха.
 
-ent-HamtrRLeg = HAMTR right leg
-    .desc = The right leg of the HAMTR. It belongs on the chassis of the mech.
+ent-HamtrRLeg = правая нога ХАМТР
+    .desc = Правая нога ХАМТР. Крепится к шасси меха.
 
-ent-HamtrRArm = HAMTR right arm
-    .desc = The right arm of the HAMTR. It belongs on the chassis of the mech.
+ent-HamtrRArm = правая рука ХАМТР
+    .desc = Правая рука ХАМТР. Крепится к шасси меха.
 
 ent-BaseVimPart = { ent-BaseMechPart }
     .desc = { ent-BaseMechPart.desc }
@@ -70,5 +70,5 @@ ent-BaseVimPart = { ent-BaseMechPart }
 ent-BaseVimPartItem = { ent-BaseVimPart }
     .desc = { ent-BaseVimPart.desc }
 
-ent-VimHarness = vim harness
-    .desc = A small mounting bracket for vim parts.
+ent-VimHarness = каркас вим
+    .desc = Небольшая рама для крепления деталей вим.

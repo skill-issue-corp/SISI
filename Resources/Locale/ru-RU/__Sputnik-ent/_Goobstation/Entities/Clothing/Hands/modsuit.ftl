@@ -1,26 +1,26 @@
 ent-ClothingHandModsuitBase = { ent-ClothingHandsBase }
     .desc = { ent-ClothingHandsBase.desc }
 
-ent-ClothingModsuitGauntletsStandard = standard modsuit gauntlets
-    .desc = Standard modular suit gloves that protect the wearer from touching lights.
+ent-ClothingModsuitGauntletsStandard = перчатки стандартного модсьюта
+    .desc = Стандартные перчатки модульного костюма, защищающие руки при касании ламп.
 
-ent-ClothingModsuitGauntletsSecurity = soldat modsuit gauntlets
-    .desc = Robust modular suit gloves for gripping perps and guns tight.
+ent-ClothingModsuitGauntletsSecurity = перчатки модсьюта «солдат»
+    .desc = Робастные перчатки модульного костюма, чтобы крепче держать нарушителей и оружие.
 
-ent-ClothingModsuitGauntletsParamedic = sanitater modsuit gauntlets
-    .desc = Black and white modular suit gloves for gripping percs and patients tight.
+ent-ClothingModsuitGauntletsParamedic = перчатки модсьюта «санитар»
+    .desc = Чёрно-белые перчатки модульного костюма, чтобы крепче держать таблетки и пациентов.
 
-ent-ClothingModsuitGauntletsHeadOfSecurity = bulwark modsuit gauntlets
-    .desc = Robust modular suit gloves for gripping perps and guns tight. Insulated.
+ent-ClothingModsuitGauntletsHeadOfSecurity = перчатки модсьюта «бастион»
+    .desc = Робастные перчатки модульного костюма, чтобы крепче держать нарушителей и оружие. Изолирующие.
 
-ent-ClothingModsuitGauntletsEngineer = sapper modsuit gauntlets
-    .desc = Oil stained modular suit gloves for easily pushing buttons on an RCD.
+ent-ClothingModsuitGauntletsEngineer = перчатки модсьюта «сапёр»
+    .desc = Перчатки модульного костюма в масляных пятнах. В них удобно нажимать кнопки РСУ.
 
-ent-ClothingModsuitGauntletsAtmostech = aeolus modsuit gauntlets
-    .desc = Asbestos-lined modular suit gloves for easily pushing buttons on an RPD.
+ent-ClothingModsuitGauntletsAtmostech = перчатки модсьюта «эол»
+    .desc = Перчатки модульного костюма с асбестовой подкладкой. В них удобно нажимать кнопки РУП.
 
-ent-ClothingModsuitGauntletsResearchDirector = minerva modsuit gauntlets
-    .desc = For keeping your digits at 10 after the artifact goes thermonuclear on you.
+ent-ClothingModsuitGauntletsResearchDirector = перчатки модсьюта «минерва»
+    .desc = Чтобы все 10 пальцев остались при вас, когда артефакт устроит термоядерный взрыв.
 
-ent-ClothingModsuitGauntletsCaptain = magnate modsuit gauntlets
-    .desc = Has specialised grooves and cuts for holding dat fukn diiisskk easier.
+ent-ClothingModsuitGauntletsCaptain = перчатки модсьюта «магнат»
+    .desc = Особые выемки и прорези, чтобы удобнее было держать этот сраный диииск.

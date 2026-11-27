@@ -1,6 +1,6 @@
-advertisement-atmosdrobe-1 = Get your inflammable clothing right here!!!
+advertisement-atmosdrobe-1 = Негорючая одежда прямо здесь!!!
 # Trauma - plasma -> phoron
-advertisement-atmosdrobe-2 = Protects you against phoron fires!
-advertisement-atmosdrobe-3 = Enjoy your off-brand engineering clothing!
-advertisement-atmosdrobe-4 = Always under control of your atmosphere!
-advertisement-atmosdrobe-5 = Providing comfort in every breath!
+advertisement-atmosdrobe-2 = Защитит вас от фороновых пожаров!
+advertisement-atmosdrobe-3 = Наслаждайтесь небрендовой инженерной одеждой!
+advertisement-atmosdrobe-4 = Всегда под контролем вашей атмосферы!
+advertisement-atmosdrobe-5 = Комфорт в каждом вдохе!

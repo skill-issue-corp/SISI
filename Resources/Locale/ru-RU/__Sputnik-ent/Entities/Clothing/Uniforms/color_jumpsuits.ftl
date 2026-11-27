@@ -1,50 +1,50 @@
-ent-ClothingUniformJumpsuitColorWhite = white jumpsuit
-    .desc = A generic white jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorWhite = белый комбинезон
+    .desc = Обычный белый комбинезон без знаков различия.
 
-ent-ClothingUniformJumpsuitColorGrey = grey jumpsuit
-    .desc = A tasteful grey jumpsuit that reminds you of the good old days.
+ent-ClothingUniformJumpsuitColorGrey = серый комбинезон
+    .desc = Элегантный серый комбинезон напоминает о старых добрых временах.
 
-ent-ClothingUniformJumpsuitColorBlack = black jumpsuit
-    .desc = A generic black jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorBlack = чёрный комбинезон
+    .desc = Обычный чёрный комбинезон без знаков различия.
 
-ent-ClothingUniformJumpsuitColorBlue = blue jumpsuit
-    .desc = A generic blue jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorBlue = синий комбинезон
+    .desc = Обычный синий комбинезон без знаков различия.
 
-ent-ClothingUniformJumpsuitColorDarkBlue = dark blue jumpsuit
-    .desc = A generic dark blue jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorDarkBlue = тёмно-синий комбинезон
+    .desc = Обычный тёмно-синий комбинезон без знаков различия.
 
-ent-ClothingUniformJumpsuitColorTeal = teal jumpsuit
-    .desc = A generic teal jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorTeal = бирюзовый комбинезон
+    .desc = Обычный бирюзовый комбинезон без знаков различия.
 
-ent-ClothingUniformJumpsuitColorGreen = green jumpsuit
-    .desc = A generic green jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorGreen = зелёный комбинезон
+    .desc = Обычный зелёный комбинезон без знаков различия.
 
-ent-ClothingUniformJumpsuitColorDarkGreen = dark green jumpsuit
-    .desc = A generic dark green jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorDarkGreen = тёмно-зелёный комбинезон
+    .desc = Обычный тёмно-зелёный комбинезон без знаков различия.
 
-ent-ClothingUniformJumpsuitColorOrange = orange jumpsuit
-    .desc = Don't wear this near paranoid security officers.
+ent-ClothingUniformJumpsuitColorOrange = оранжевый комбинезон
+    .desc = Не носите рядом с параноидальными офицерами службы безопасности.
 
-ent-ClothingUniformJumpsuitColorPink = pink jumpsuit
-    .desc = Just looking at this makes you feel [italic]fabulous[/italic].
+ent-ClothingUniformJumpsuitColorPink = розовый комбинезон
+    .desc = Достаточно одного взгляда, чтобы почувствовать себя [italic]великолепно[/italic].
 
-ent-ClothingUniformJumpsuitColorRed = red jumpsuit
-    .desc = A generic red jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorRed = красный комбинезон
+    .desc = Обычный красный комбинезон без знаков различия.
 
-ent-ClothingUniformJumpsuitColorYellow = yellow jumpsuit
-    .desc = A generic yellow jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorYellow = жёлтый комбинезон
+    .desc = Обычный жёлтый комбинезон без знаков различия.
 
-ent-ClothingUniformJumpsuitColorPurple = purple jumpsuit
-    .desc = A generic light purple jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorPurple = фиолетовый комбинезон
+    .desc = Обычный светло-фиолетовый комбинезон без знаков различия.
 
-ent-ClothingUniformJumpsuitColorLightBrown = light brown jumpsuit
-    .desc = A generic light brown jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorLightBrown = светло-коричневый комбинезон
+    .desc = Обычный светло-коричневый комбинезон без знаков различия.
 
-ent-ClothingUniformJumpsuitColorBrown = brown jumpsuit
-    .desc = A generic brown jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorBrown = коричневый комбинезон
+    .desc = Обычный коричневый комбинезон без знаков различия.
 
-ent-ClothingUniformJumpsuitColorMaroon = maroon jumpsuit
-    .desc = A generic maroon jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorMaroon = бордовый комбинезон
+    .desc = Обычный бордовый комбинезон без знаков различия.
 
-ent-ClothingUniformColorRainbow = rainbow jumpsuit
-    .desc = A multi-colored jumpsuit!
+ent-ClothingUniformColorRainbow = радужный комбинезон
+    .desc = Разноцветный комбинезон!

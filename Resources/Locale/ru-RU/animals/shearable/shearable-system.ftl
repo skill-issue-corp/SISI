@@ -1,7 +1,7 @@
 ### Shearable system
 
-shearable-system-success = You shear off some {$product} from {THE($target)}.
-shearable-system-no-product = {THE($target)} hasn't grown enough {$product} to shear off.
-shearable-system-wrong-tool = You can't {$shearVerb} {THE($target)} with that tool.
+shearable-system-success = Вы получаете немного материала «{$product}», обстригая {$target}.
+shearable-system-no-product = У {$target} ещё не выросло достаточно материала «{$product}» для стрижки.
+shearable-system-wrong-tool = Этим инструментом не получится {$shearVerb} {$target}.
 
-shearable-system-verb-shear = Shear
+shearable-system-verb-shear = Стричь

@@ -1,65 +1,65 @@
-ent-BulletPlasmaCutter = cutter bolt
-    .desc = Not too bad, but you still don't want to get hit by it.
+ent-BulletPlasmaCutter = заряд резака
+    .desc = Не так уж страшно, но лучше под удар не попадать.
 
 ent-BulletPlasmaCutterStrong = { ent-BulletPlasmaCutter }
     .desc = { ent-BulletPlasmaCutter.desc }
 
-ent-BulletHighCaliber = bullet (.50 anti-materiel)
+ent-BulletHighCaliber = пуля (.50 для поражения техники)
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletHighCaliberExplosive = bullet (.50 high-explosive incendiary)
+ent-BulletHighCaliberExplosive = пуля (.50 осколочно-зажигательная)
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-HeavyPulse = heavy pulse beam
+ent-HeavyPulse = тяжёлый импульсный луч
     .desc = { ent-BasicHitscan.desc }
 
-ent-LightPulse = light pulse beam
+ent-LightPulse = лёгкий импульсный луч
     .desc = { ent-BasicHitscan.desc }
 
-ent-LaserSniper = laser sniper
+ent-LaserSniper = луч лазерной снайперской винтовки
     .desc = { ent-BasicHitscan.desc }
 
-ent-RedMediumSplitLaser = red medium split laser
+ent-RedMediumSplitLaser = красный средний расщеплённый лазер
     .desc = { ent-BasicHitscan.desc }
 
-ent-BulletLaserHeavy = heavy laser bolt
+ent-BulletLaserHeavy = тяжёлый лазерный заряд
     .desc = { ent-BulletLaser.desc }
 
-ent-BulletLaserHeavyStructural = heavy laser bolt
+ent-BulletLaserHeavyStructural = тяжёлый лазерный заряд
     .desc = { ent-BulletLaserHeavy.desc }
 
-ent-BulletLaserSpreadHeavy = heavy laser barrage
+ent-BulletLaserSpreadHeavy = залп тяжёлого лазера
     .desc = { ent-BulletLaserHeavy.desc }
 
-ent-StunPulse = stun pulse
+ent-StunPulse = оглушающий импульс
     .desc = { ent-BasicHitscan.desc }
 
-ent-BulletTemperatureCold = cold temperature bolt
-    .desc = Chilling!
+ent-BulletTemperatureCold = охлаждающий заряд
+    .desc = Леденит!
 
-ent-BulletTemperatureHot = hot temperature bolt
-    .desc = Burning!
+ent-BulletTemperatureHot = нагревающий заряд
+    .desc = Обжигает!
 
-ent-BulletEnergyGunDisabler = disabler bolt
+ent-BulletEnergyGunDisabler = заряд дизейблера
     .desc = { ent-BulletDisabler.desc }
 
-ent-BulletSyndicateDisabler = disabler bolt
+ent-BulletSyndicateDisabler = заряд дизейблера
     .desc = { ent-BulletDisabler.desc }
 
-ent-BulletGrenadeTeargas = tear gas grenade
+ent-BulletGrenadeTeargas = граната со слезоточивым газом
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-HolyBulletCharge = holy bolt
-    .desc = Marks a target for additional holy damage.
+ent-HolyBulletCharge = святой заряд
+    .desc = Помечает цель для дополнительного священного урона.
 
-ent-BulletPistolSilver = bullet (.45 silver)
+ent-BulletPistolSilver = пуля (.45 серебряная)
     .desc = { ent-BaseBullet.desc }
 
-ent-ProjectileMonkeyDart = monkey-thrown dart
+ent-ProjectileMonkeyDart = дротик, брошенный обезьяной
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletMime = bullet (silent)
+ent-BulletMime = пуля (бесшумная)
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletSingularityBusterRocket = singularity buster rocket
+ent-BulletSingularityBusterRocket = ракета «разрушителя сингулярности»
     .desc = { ent-BulletRocket.desc }

@@ -8,38 +8,38 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-fax-machine-popup-source-unknown = unknown
-fax-machine-popup-received = Received correspondence from { $from }.
-fax-machine-popup-name-long = Fax name is too long
-fax-machine-popup-name-exist = Fax with same name already exist in network
-fax-machine-popup-name-set = Fax name has been updated
-fax-machine-popup-error = ERROR - jam in paper feed
-fax-machine-popup-copy-error = ERROR - unable to copy!
+fax-machine-popup-source-unknown = неизвестно
+fax-machine-popup-received = Получена корреспонденция от { $from }.
+fax-machine-popup-name-long = Название факса слишком длинное
+fax-machine-popup-name-exist = Факс с таким названием уже есть в сети
+fax-machine-popup-name-set = Название факса обновлено
+fax-machine-popup-error = ОШИБКА - бумага застряла в податчике
+fax-machine-popup-copy-error = ОШИБКА - не удалось скопировать!
 
-fax-machine-dialog-rename = Rename
-fax-machine-dialog-field-name = Name
+fax-machine-dialog-rename = Переименовать
+fax-machine-dialog-field-name = Имя
 
-fax-machine-ui-window = Fax Machine
-fax-machine-ui-file-button = Print File
-fax-machine-ui-paper-button-normal = Plain Paper
-fax-machine-ui-paper-button-office = Office Paper
-fax-machine-ui-copy-button = Copy
-fax-machine-ui-send-button = Send
-fax-machine-ui-refresh-button = Refresh
-fax-machine-ui-no-peers = No Peers
-fax-machine-ui-to = To:
-fax-machine-ui-from = From:
-fax-machine-ui-paper = Paper:
-fax-machine-ui-paper-inserted = Paper in tray
-fax-machine-ui-paper-not-inserted = No paper
+fax-machine-ui-window = Факс
+fax-machine-ui-file-button = Напечатать Файл
+fax-machine-ui-paper-button-normal = Обычная Бумага
+fax-machine-ui-paper-button-office = Офисная Бумага
+fax-machine-ui-copy-button = Копировать
+fax-machine-ui-send-button = Отправить
+fax-machine-ui-refresh-button = Обновить
+fax-machine-ui-no-peers = Нет Получателей
+fax-machine-ui-to = Кому:
+fax-machine-ui-from = От кого:
+fax-machine-ui-paper = Бумага:
+fax-machine-ui-paper-inserted = Бумага в лотке
+fax-machine-ui-paper-not-inserted = Нет бумаги
 
-fax-machine-chat-notify = Received new fax message from "{$fax}" fax
+fax-machine-chat-notify = Получен новый факс от «{$fax}»
 
-fax-machine-printed-paper-name = printed paper
+fax-machine-printed-paper-name = печатный лист
 
 fax-machine-sender-info =
     ─────────────────────────────────────
-    Fax sent
-    from: {$sender_name} [address: {$sender_addr}]
-    to: {$recipient_name} [address: {$recipient_addr}]
-    at: {$time}
+    Факс отправлен
+    от: {$sender_name} [адрес: {$sender_addr}]
+    кому: {$recipient_name} [адрес: {$recipient_addr}]
+    время: {$time}

@@ -4,12 +4,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-solar-control-window-title = Solar Control Console
-solar-control-window-output-power = Output Power:
-solar-control-window-watts = W
-solar-control-window-sun-angle = Sun Angle:
+solar-control-window-title = Консоль Управления Солнечными Панелями
+solar-control-window-output-power = Выходная Мощность:
+solar-control-window-watts = Вт
+solar-control-window-sun-angle = Угол Солнца:
 solar-control-window-degrees = °
-solar-control-window-panel-angle = Panel Angle:
-solar-control-window-panel-angular-velocity = Panel Angular Velocity:
-solar-control-window-degrees-per-minute = °/min.
-solar-control-window-press-enter-to-confirm = Press Enter to confirm.
+solar-control-window-panel-angle = Угол Панелей:
+solar-control-window-panel-angular-velocity = Угловая Скорость Панелей:
+solar-control-window-degrees-per-minute = °/мин.
+solar-control-window-press-enter-to-confirm = Нажмите Enter для подтверждения.

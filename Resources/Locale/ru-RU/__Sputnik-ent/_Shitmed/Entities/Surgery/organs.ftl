@@ -10,44 +10,44 @@ ent-BaseSurgeryRemoveOrgan = { ent-SurgeryBase }
 ent-BaseSurgeryRemoveOrganChest = { ent-BaseSurgeryRemoveOrgan }
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
 
-ent-SurgeryInsertBrain = Insert Brain
+ent-SurgeryInsertBrain = Установка Мозга
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
 
-ent-SurgeryInsertEyes = Insert Eyes
+ent-SurgeryInsertEyes = Установка Глаз
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
 
-ent-SurgeryInsertEars = Insert Ear Organs
+ent-SurgeryInsertEars = Установка Органов Слуха
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
 
-ent-SurgeryInsertHeart = Insert Heart
+ent-SurgeryInsertHeart = Установка Сердца
     .desc = { ent-BaseSurgeryInsertOrganChest.desc }
 
-ent-SurgeryInsertLungs = Insert Lungs
+ent-SurgeryInsertLungs = Установка Лёгких
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
 
-ent-SurgeryInsertLiver = Insert Liver
+ent-SurgeryInsertLiver = Установка Печени
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
 
-ent-SurgeryInsertStomach = Insert Stomach
+ent-SurgeryInsertStomach = Установка Желудка
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
 
-ent-SurgeryRemoveBrain = Remove Brain
+ent-SurgeryRemoveBrain = Извлечение Мозга
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
 
-ent-SurgeryRemoveEyes = Remove Eyes
+ent-SurgeryRemoveEyes = Извлечение Глаз
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
 
-ent-SurgeryRemoveEars = Remove Ear Organs
+ent-SurgeryRemoveEars = Извлечение Органов Слуха
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
 
-ent-SurgeryRemoveHeart = Remove Heart
+ent-SurgeryRemoveHeart = Извлечение Сердца
     .desc = { ent-BaseSurgeryRemoveOrganChest.desc }
 
-ent-SurgeryRemoveLungs = Remove Lungs
+ent-SurgeryRemoveLungs = Извлечение Лёгких
     .desc = { ent-BaseSurgeryRemoveOrganChest.desc }
 
-ent-SurgeryRemoveLiver = Remove Liver
+ent-SurgeryRemoveLiver = Извлечение Печени
     .desc = { ent-BaseSurgeryRemoveOrganChest.desc }
 
-ent-SurgeryRemoveStomach = Remove Stomach
+ent-SurgeryRemoveStomach = Извлечение Желудка
     .desc = { ent-BaseSurgeryRemoveOrganChest.desc }

@@ -1,16 +1,16 @@
-ent-MobMorphBase = morph
-    .desc = A revolting, pulsating pile of flesh.
+ent-MobMorphBase = морф
+    .desc = Отвратительная пульсирующая куча плоти.
 
 ent-MobMorph = { ent-MobMorphBase }
     .desc = { ent-MobMorphBase.desc }
-    .suffix = Ghost role
+    .suffix = Роль призрака
 
 ent-MobMorphWizard = { ent-MobMorphBase }
     .desc = { ent-MobMorphBase.desc }
-    .suffix = wizard pet
+    .suffix = питомец волшебника
 
 ent-ChameleonDisguiseMorph = { ent-ChameleonDisguise }
     .desc = { ent-ChameleonDisguise.desc }
 
-ent-ClownDummy = Yummy Clown
+ent-ClownDummy = Вкусный Клоун
     .desc = { "" }

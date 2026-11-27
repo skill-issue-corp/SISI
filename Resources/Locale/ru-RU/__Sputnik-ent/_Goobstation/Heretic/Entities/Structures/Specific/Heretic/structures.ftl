@@ -1,16 +1,16 @@
 ent-BaseWallHereticArena = { ent-BaseStructureWall }
     .desc = { ent-BaseStructureWall.desc }
-    .suffix = indestructible
+    .suffix = неразрушимое
 
-ent-WallHereticArena = rose stone wall
+ent-WallHereticArena = стена из розового камня
     .desc = { ent-BaseWallHereticArena.desc }
 
-ent-WallHereticArenaOuter = eldritch wall
-    .desc = A wall penning in the sheep amongst the wolves. It glows with malevolent energy - prodding it is likely unwise.
+ent-WallHereticArenaOuter = потусторонняя стена
+    .desc = Стена, запирающая овец среди волков. Она светится злой энергией - трогать её, пожалуй, не стоит.
 
-ent-WindowHereticArena = stone window
+ent-WindowHereticArena = каменное окно
     .desc = { ent-PlastitaniumWindowBase.desc }
-    .suffix = indestructible
+    .suffix = неразрушимое
 
-ent-HereticArena = arena
+ent-HereticArena = арена
     .desc = { "" }

@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-suspicion-title = Suspicion
-suspicion-description = Suspicion on the Space Station. There are traitors on board... Can you kill them before they kill you?
+suspicion-title = Подозрение
+suspicion-description = На Космической Станции неспокойно. На борту предатели... Сможете ли вы убить их прежде, чем они убьют вас?

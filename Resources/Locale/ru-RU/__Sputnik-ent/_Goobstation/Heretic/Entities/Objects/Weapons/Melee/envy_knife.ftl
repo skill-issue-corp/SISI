@@ -1,2 +1,2 @@
-ent-EnvyKnife = envy's knife
-    .desc = Their success will be yours.
+ent-EnvyKnife = нож зависти
+    .desc = Их успех станет вашим.

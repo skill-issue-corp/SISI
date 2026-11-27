@@ -1,91 +1,91 @@
-ent-BaseScrap = scrap
-    .desc = Worthless junk. You could probably get some materials out of it though.
-    .suffix = Scrap
+ent-BaseScrap = лом
+    .desc = Бесполезный хлам. Хотя из него, наверное, можно извлечь немного материалов.
+    .suffix = Лом
 
-ent-BaseScrapLarge = scrap
-    .desc = Worthless junk. You could probably get some materials out of it though.
-    .suffix = Scrap
+ent-BaseScrapLarge = лом
+    .desc = Бесполезный хлам. Хотя из него, наверное, можно извлечь немного материалов.
+    .suffix = Лом
 
-ent-ScrapSteel = blasted steel pile
-    .desc = An pile of steel welded together in extreme heat. It's of a decent size overall; you could probably get a fair amount of sheets out of it.
+ent-ScrapSteel = груда спёкшейся стали
+    .desc = Груда стали, спёкшейся от сильного жара. Груда немаленькая; из неё наверняка можно получить приличное количество листов.
 
-ent-ScrapGlass = scrap circuitry
-    .desc = A huge lump of various circuits, strangely fused together. You could likely extract some materials out of this.
+ent-ScrapGlass = обломки плат
+    .desc = Огромный ком из разных плат, странным образом сплавившихся воедино. Из него, скорее всего, можно извлечь немного материалов.
 
-ent-ScrapAirlock1 = airlock door
-    .desc = This used to keep air in. Now it doesn't seem to be doing anything at all.
+ent-ScrapAirlock1 = створка шлюза
+    .desc = Раньше она удерживала воздух. Теперь, похоже, не делает вообще ничего.
 
-ent-ScrapAirlock2 = airlock light
-    .desc = Serves it right for flashing red all those times.
+ent-ScrapAirlock2 = лампочка шлюза
+    .desc = Так ей и надо. Нечего было столько раз мигать красным.
 
-ent-ScrapBucket = busted bucket
-    .desc = Dear god...
+ent-ScrapBucket = разбитое ведро
+    .desc = Боже мой...
 
-ent-ScrapCamera = broken camera
-    .desc = It might still be watching.
+ent-ScrapCamera = сломанная камера
+    .desc = Возможно, она до сих пор за вами следит.
 
-ent-ScrapCanister1 = canister handle
-    .desc = Helpful for holding a canister. Now you just need the actual canister part.
+ent-ScrapCanister1 = ручка канистры
+    .desc = Удобно держать канистру. Осталось найти саму канистру.
 
-ent-ScrapCanister2 = canister valve
-    .desc = A valve from a gas canister.
+ent-ScrapCanister2 = вентиль канистры
+    .desc = Вентиль от газовой канистры.
 
-ent-ScrapCloset = closet door
-    .desc = A blown off door from a maintenance closet. Looks like a nice piece of wall decor.
+ent-ScrapCloset = дверца шкафа
+    .desc = Дверца шкафа из техтоннелей, сорванная взрывом. Неплохое украшение для стены.
 
-ent-ScrapFaxMachine = fax machine
-    .desc = The unfortunate result of one too many ASCII arts being sent to Central Command.
+ent-ScrapFaxMachine = факс
+    .desc = Печальный итог отправки одной лишней картинки из ASCII в Центральное Командование.
 
-ent-ScrapFireExtinguisher = split fire extinguisher
-    .desc = The large gash down the center makes you worry for the previous user.
+ent-ScrapFireExtinguisher = расколотый огнетушитель
+    .desc = Глубокая прореха посередине заставляет переживать за того, кто пользовался им раньше.
 
-ent-ScrapFirelock1 = firelock door
-    .desc = At least you still know what it's meant for.
+ent-ScrapFirelock1 = створка пожарного шлюза
+    .desc = По крайней мере, ещё можно понять, для чего она нужна.
 
-ent-ScrapFirelock2 = firelock door
-    .desc = OH! That's where the other half went!
+ent-ScrapFirelock2 = створка пожарного шлюза
+    .desc = АХ! Вот куда делась вторая половина!
 
-ent-ScrapFirelock3 = firelock frame
+ent-ScrapFirelock3 = каркас пожарного шлюза
     .desc = { ent-BaseScrap.desc }
 
-ent-ScrapIntercom = intercom scrap
-    .desc = You wish it at least came with some encryption keys.
+ent-ScrapIntercom = обломки интеркома
+    .desc = Хоть бы ключи шифрования остались.
 
-ent-ScrapJetpack = busted jetpack
-    .desc = Looks like it won't be flying any more.
+ent-ScrapJetpack = сломанный джетпак
+    .desc = Похоже, больше он не полетит.
 
-ent-ScrapMedkit = snapped medkit
-    .desc = Hopefully they got some use out of it.
+ent-ScrapMedkit = разломанная аптечка
+    .desc = Будем надеяться, аптечка успела кому-нибудь пригодиться.
 
-ent-ScrapMopBucket = half a mop bucket
-    .desc = Tiders die. Janitors survive.
+ent-ScrapMopBucket = половина ведра для швабры
+    .desc = Тайдеры гибнут. Уборщики выживают.
 
-ent-ScrapTarget = bloodied target
-    .desc = Seems like something must have gotten in the way of its purpose.
+ent-ScrapTarget = окровавленная мишень
+    .desc = Похоже, что-то помешало использовать её по назначению.
 
-ent-ScrapPAI = personal ai device
-    .desc = A buddy! You still in there? Hello? Buddy???
+ent-ScrapPAI = устройство пии
+    .desc = Дружок! Ты ещё там? Алло? Дружок???
 
-ent-ScrapPAIGold = gilded personal ai device
-    .desc = Wow! What a one-in-a-million find! This would be worth a fortune... if it was in good condition.
+ent-ScrapPAIGold = позолоченное устройство пии
+    .desc = Ого! Такая находка выпадает раз на миллион! Она стоила бы целое состояние... будь она в хорошем состоянии.
 
-ent-ScrapTube = shattered sample tube
-    .desc = A glass tube containing some kind of rare sample. Or at least, it used to contain it. Not much left in there now.
+ent-ScrapTube = разбитая пробирка с образцом
+    .desc = Стеклянная пробирка с каким-то редким образцом. Во всяком случае, он там когда-то был. Теперь от него мало что осталось.
 
-ent-ScrapGeneratorPlasmaLeaking = leaking P.A.C.M.A.N. generator
-    .desc = An old looking P.A.C.M.A.N. generator whos plasma tanks started leaking.
+ent-ScrapGeneratorPlasmaLeaking = протекающий генератор типа П.А.К.М.А.Н.
+    .desc = Видавший виды генератор типа П.А.К.М.А.Н., у которого потекли баки с фороном.
 
-ent-ScrapGeneratorPlasma = old P.A.C.M.A.N. generator
-    .desc = An old looking P.A.C.M.A.N. generator. It's in very poor condition and non functional.
+ent-ScrapGeneratorPlasma = старый генератор типа П.А.К.М.А.Н.
+    .desc = Видавший виды генератор типа П.А.К.М.А.Н. Он в плачевном состоянии и не работает.
 
-ent-ScrapGeneratorUraniumLeaking = leaking S.U.P.E.R.P.A.C.M.A.N. generator
-    .desc = A S.U.P.E.R.P.A.C.M.A.N. generator that appears to have had some kind of catastrophic failure. It's leaking uranium.
+ent-ScrapGeneratorUraniumLeaking = протекающий генератор типа С.У.П.Е.Р.П.А.К.М.А.Н.
+    .desc = Генератор типа С.У.П.Е.Р.П.А.К.М.А.Н., который, похоже, пережил какую-то серьёзную аварию. Из него вытекает уран.
 
-ent-ScrapGeneratorUranium = destroyed S.U.P.E.R.P.A.C.M.A.N. generator
-    .desc = A S.U.P.E.R.P.A.C.M.A.N. generator that appears to have had some kind of catastrophic failure.
+ent-ScrapGeneratorUranium = разрушенный генератор типа С.У.П.Е.Р.П.А.К.М.А.Н.
+    .desc = Генератор типа С.У.П.Е.Р.П.А.К.М.А.Н., который, похоже, пережил какую-то серьёзную аварию.
 
-ent-ScrapGeneratorFrame = generator frame
-    .desc = A frame of a P.A.C.M.A.N. or S.U.P.E.R.P.A.C.M.A.N. type generator. Where is the rest of it?
+ent-ScrapGeneratorFrame = каркас генератора
+    .desc = Каркас генератора типа П.А.К.М.А.Н. или С.У.П.Е.Р.П.А.К.М.А.Н. А где всё остальное?
 
-ent-ScrapGeneratorFuelTank = fuel tank
-    .desc = A fuel tank from a S.U.P.E.R.P.A.C.M.A.N. type generator. The gauge indicates its got a little fuel left.
+ent-ScrapGeneratorFuelTank = топливный бак
+    .desc = Топливный бак от генератора типа С.У.П.Е.Р.П.А.К.М.А.Н. Судя по указателю, в нём осталось немного топлива.

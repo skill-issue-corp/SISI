@@ -4,33 +4,33 @@ ent-MobBingleTrauma = { ent-MobBingle }
 ent-MobBingleUpgradedTrauma = { ent-MobBingleTrauma }
     .desc = { ent-MobBingleTrauma.desc }
 
-ent-BulletBingle = acid spit
+ent-BulletBingle = кислотный плевок
     .desc = { ent-BaseBullet.desc }
 
 ent-MobBinglePrimeTrauma = { ent-MobBingleBoney }
     .desc = { ent-MobBingleBoney.desc }
-    .suffix = Prime
+    .suffix = Первый
 
-ent-BulletBingleStrong = strong acid spit
+ent-BulletBingleStrong = мощный кислотный плевок
     .desc = { ent-BaseBullet.desc }
 
-ent-MobBingleHunk = hunkish bingle
-    .desc = This one is rather large.
+ent-MobBingleHunk = здоровенный бингл
+    .desc = Этот довольно крупный.
 
-ent-MobBingleSlavering = slavering bingle
-    .desc = This one leaks acid.
+ent-MobBingleSlavering = слюнявый бингл
+    .desc = Из этого сочится кислота.
 
-ent-MobBingleBoney = boney bingle
-    .desc = This ones faster than the others.
+ent-MobBingleBoney = костлявый бингл
+    .desc = Этот быстрее остальных.
 
-ent-MobBingleUpgradedHunk = hulking bingle
-    .desc = This one is an absolute tank.
-    .suffix = Upgraded
+ent-MobBingleUpgradedHunk = громадный бингл
+    .desc = Этот просто танк.
+    .suffix = Улучшено
 
-ent-MobBingleUpgradedSlavering = melting bingle
-    .desc = This one is melting to nothing.
-    .suffix = Upgraded
+ent-MobBingleUpgradedSlavering = тающий бингл
+    .desc = Этот тает на глазах.
+    .suffix = Улучшено
 
-ent-MobBingleUpgradedBoney = skeletal bingle
-    .desc = This one is incredibly fast.
-    .suffix = Upgraded
+ent-MobBingleUpgradedBoney = бингл-скелет
+    .desc = Этот невероятно быстр.
+    .suffix = Улучшено

@@ -12,24 +12,24 @@
 
 ### Locale for wielding items; i.e. two-handing them
 
-wieldable-verb-text-wield = Wield
-wieldable-verb-text-unwield = Unwield
+wieldable-verb-text-wield = Взять обеими руками
+wieldable-verb-text-unwield = Освободить руку
 
-wieldable-component-successful-wield = You wield { THE($item) }.
-wieldable-component-failed-wield = You unwield { THE($item) }.
-wieldable-component-successful-wield-other = { CAPITALIZE(THE($user)) } wields { THE($item) }.
-wieldable-component-failed-wield-other = { CAPITALIZE(THE($user)) } unwields { THE($item) }.
-wieldable-component-blocked-wield = { CAPITALIZE(THE($blocker)) } blocks you from wielding { THE($item) }.
+wieldable-component-successful-wield = Вы берёте { $item } обеими руками.
+wieldable-component-failed-wield = Вы освобождаете руку, в которой держали { $item }.
+wieldable-component-successful-wield-other = { CAPITALIZE($user) } берёт { $item } обеими руками.
+wieldable-component-failed-wield-other = { CAPITALIZE($user) } освобождает руку, в которой держит { $item }.
+wieldable-component-blocked-wield = { CAPITALIZE($blocker) } мешает вам взять { $item } обеими руками.
 
-wieldable-component-no-hands = You don't have enough hands!
+wieldable-component-no-hands = У вас не хватает рук!
 wieldable-component-not-enough-free-hands = {$number ->
-    [one] You need a free hand to wield { THE($item) }.
-    *[other] You need { $number } free hands to wield { THE($item) }.
+    [1] Чтобы взять { $item } обеими руками, нужна свободная рука.
+    *[other] Чтобы взять { $item } обеими руками, нужно свободных рук: { $number }.
 }
-wieldable-component-not-in-hands = { CAPITALIZE(THE($item)) } isn't in your hands!
+wieldable-component-not-in-hands = { CAPITALIZE($item) } у вас в руках нет!
 
-wieldable-component-requires = { CAPITALIZE(THE($item))} must be wielded!
+wieldable-component-requires = { CAPITALIZE($item)} нужно держать обеими руками!
 
-gunwieldbonus-component-examine = This weapon has improved accuracy when wielded.
+gunwieldbonus-component-examine = Это оружие стреляет точнее, если держать его обеими руками.
 
-gunrequireswield-component-examine = This weapon can only be fired when wielded.
+gunrequireswield-component-examine = Из этого оружия можно стрелять только обеими руками.

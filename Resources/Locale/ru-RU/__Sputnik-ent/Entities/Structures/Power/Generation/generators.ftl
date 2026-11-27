@@ -1,35 +1,35 @@
-ent-BaseGenerator = generator
-    .desc = A high efficiency thermoelectric generator.
+ent-BaseGenerator = генератор
+    .desc = Высокоэффективный термоэлектрический генератор.
 
-ent-BaseGeneratorWallmount = wallmount generator
-    .desc = A high efficiency thermoelectric generator stuffed in a wall cabinet.
+ent-BaseGeneratorWallmount = настенный генератор
+    .desc = Высокоэффективный термоэлектрический генератор, втиснутый в настенный шкаф.
 
-ent-BaseGeneratorWallmountFrame = wallmount generator frame
-    .desc = A construction frame for a wallmount generator.
+ent-BaseGeneratorWallmountFrame = каркас настенного генератора
+    .desc = Каркас для сборки настенного генератора.
 
 ent-GeneratorBasic = { ent-BaseGenerator }
     .desc = { ent-BaseGenerator.desc }
-    .suffix = Basic, 3kW
+    .suffix = Базовый, 3кВт
 
 ent-GeneratorBasic15kW = { ent-BaseGenerator }
     .desc = { ent-BaseGenerator.desc }
-    .suffix = Basic, 15kW
+    .suffix = Базовый, 15кВт
 
 ent-GeneratorWallmountBasic = { ent-BaseGeneratorWallmount }
     .desc = { ent-BaseGeneratorWallmount.desc }
-    .suffix = Basic, 3kW
+    .suffix = Базовый, 3кВт
 
-ent-GeneratorWallmountAPU = shuttle APU
-    .desc = An auxiliary power unit for a shuttle - 6kW.
-    .suffix = APU, 6kW
+ent-GeneratorWallmountAPU = ВСУ шаттла
+    .desc = Вспомогательная силовая установка шаттла - 6кВт.
+    .suffix = ВСУ, 6кВт
 
 ent-BaseRTG = { ent-BaseMachine }
     .desc = { ent-BaseMachine.desc }
 
-ent-GeneratorRTG = RTG
-    .desc = A Radioisotope Thermoelectric Generator for long term power.
-    .suffix = 10kW
+ent-GeneratorRTG = РИТЭГ
+    .desc = Радиоизотопный Термоэлектрический Генератор для длительного электроснабжения.
+    .suffix = 10кВт
 
-ent-GeneratorRTGDamaged = damaged RTG
-    .desc = A Radioisotope Thermoelectric Generator for long term power. This one has damaged shielding.
-    .suffix = 10kW
+ent-GeneratorRTGDamaged = повреждённый РИТЭГ
+    .desc = Радиоизотопный Термоэлектрический Генератор для длительного электроснабжения. У этого повреждено экранирование.
+    .suffix = 10кВт

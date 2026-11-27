@@ -1,2 +1,2 @@
-ent-JanitorServiceLight = janitorial service light
-    .desc = A wall-mounted janitorial sign. If the light is blinking, a janitor's service is required.
+ent-JanitorServiceLight = табличка вызова уборщика
+    .desc = Настенная табличка вызова уборщика. Если лампочка мигает, требуется уборщик.

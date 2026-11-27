@@ -1,5 +1,5 @@
-ent-BluespaceLifeline = bluespace lifeline
-    .desc = Teleports your body to save your life!
+ent-BluespaceLifeline = блюспейс-спасатель
+    .desc = Телепортирует ваше тело, чтобы спасти вам жизнь!
 
-ent-BluespaceLifelineSpawnCore = bluespace lifeline
-    .desc = Teleports your body to save your life!
+ent-BluespaceLifelineSpawnCore = блюспейс-спасатель
+    .desc = Телепортирует ваше тело, чтобы спасти вам жизнь!

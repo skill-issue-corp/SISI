@@ -1,7 +1,7 @@
-ent-MobRotHulk = bloated abomination
-    .desc = A rotting, walking mass of flesh.
-    .suffix = Wraith
+ent-MobRotHulk = вздувшаяся мерзость
+    .desc = Гниющая ходячая масса плоти.
+    .suffix = Фантом
 
-ent-MobRotHulkBuff = Huge plague-ridden goliath
+ent-MobRotHulkBuff = Огромный зачумлённый голиаф
     .desc = { ent-MobRotHulk.desc }
-    .suffix = Wraith
+    .suffix = Фантом

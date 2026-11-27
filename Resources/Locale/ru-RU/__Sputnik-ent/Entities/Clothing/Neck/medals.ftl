@@ -1,26 +1,26 @@
-ent-ClothingNeckMedalBase = medal
-    .desc = A medal to show your mettle. May or may not be made of metal.
+ent-ClothingNeckMedalBase = медаль
+    .desc = Медаль для тех, у кого крепкий характер. Возможно, даже из крепкого металла.
 
-ent-ClothingNeckBronzeheart = bronzeheart medal
-    .desc = Given to crewmates for exemplary bravery in the face of danger.
+ent-ClothingNeckBronzeheart = медаль «бронзовое сердце»
+    .desc = Вручается членам экипажа за образцовую храбрость перед лицом опасности.
 
-ent-ClothingNeckGoldmedal = gold medal of crewmanship
-    .desc = Given to crewmates who display excellent crewmanship.
+ent-ClothingNeckGoldmedal = золотая медаль за работу в экипаже
+    .desc = Вручается членам экипажа за выдающуюся работу в команде.
 
-ent-ClothingNeckCargomedal = cargo medal
-    .desc = Given for the best work in the cargo department.
+ent-ClothingNeckCargomedal = медаль карго
+    .desc = Вручается за лучшую работу в отделе карго.
 
-ent-ClothingNeckEngineermedal = engineer medal
-    .desc = Given for the best work in the engineering department.
+ent-ClothingNeckEngineermedal = инженерная медаль
+    .desc = Вручается за лучшую работу в инженерном отделе.
 
-ent-ClothingNeckMedicalmedal = medical medal
-    .desc = Given for the best work in the medical department.
+ent-ClothingNeckMedicalmedal = медицинская медаль
+    .desc = Вручается за лучшую работу в медицинском отделе.
 
-ent-ClothingNeckSciencemedal = science medal
-    .desc = Given for the best work in the science department.
+ent-ClothingNeckSciencemedal = научная медаль
+    .desc = Вручается за лучшую работу в научном отделе.
 
-ent-ClothingNeckSecuritymedal = security medal
-    .desc = Given for the best work in the security department.
+ent-ClothingNeckSecuritymedal = медаль службы безопасности
+    .desc = Вручается за лучшую работу в службе безопасности.
 
-ent-ClothingNeckClownmedal = clown medal
-    .desc = Given for the best joke in the universe. HONK!
+ent-ClothingNeckClownmedal = медаль клоуна
+    .desc = Вручается за лучшую шутку во вселенной. ХОНК!

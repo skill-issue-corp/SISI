@@ -5,12 +5,12 @@
 #
 # SPDX-License-Identifier: MIT
 
-decal-placer-window-title = Decal Placer
-decal-placer-window-use-color = Custom Color
-decal-placer-window-rotation = Rotation
-decal-placer-window-zindex = Draw Depth
-decal-placer-window-enable-auto = Use Automatic Settings
-decal-placer-window-enable-snap = Snap To Tile
-decal-placer-window-enable-cleanable = Cleanable
-decal-placer-window-palette = Palette
-palette-color-picker-window-title = Palettes
+decal-placer-window-title = Размещение Декалей
+decal-placer-window-use-color = Свой Цвет
+decal-placer-window-rotation = Поворот
+decal-placer-window-zindex = Глубина Отрисовки
+decal-placer-window-enable-auto = Использовать Автоматические Настройки
+decal-placer-window-enable-snap = Привязка К Тайлу
+decal-placer-window-enable-cleanable = Можно Смыть
+decal-placer-window-palette = Палитра
+palette-color-picker-window-title = Палитры

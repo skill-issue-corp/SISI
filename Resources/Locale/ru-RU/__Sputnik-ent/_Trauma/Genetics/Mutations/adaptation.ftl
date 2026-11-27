@@ -1,14 +1,14 @@
 ent-BaseMutationAdaptation = { ent-BaseMutation }
     .desc = { ent-BaseMutation.desc }
 
-ent-MutationColdAdaptation = Cold Adaptation
-    .desc = A strange mutation that renders the host immune to damage from low temperature environments.
+ent-MutationColdAdaptation = Адаптация к Холоду
+    .desc = Странная мутация, которая защищает носителя от урона при низкой температуре окружающей среды.
 
-ent-MutationHeatAdaptation = Heat Adaptation
-    .desc = A strange mutation that renders the host immune to damage from high temperature, including being set alight, though the flame itself still burns clothing. It also seems to make the host resist ash storms.
+ent-MutationHeatAdaptation = Адаптация к Жаре
+    .desc = Странная мутация, которая защищает носителя от урона при высокой температуре и возгорании, хотя огонь всё равно сжигает одежду. Похоже, она также повышает устойчивость носителя к пепельным бурям.
 
-ent-MutationThermalAdaptation = Thermal Adaptation
-    .desc = A strange mutation that renders the host immune to damage from both low and high temperature environments. Does not protect from high or low pressure environments.
+ent-MutationThermalAdaptation = Температурная Адаптация
+    .desc = Странная мутация, которая защищает носителя от урона как при низкой, так и при высокой температуре окружающей среды. Не защищает от высокого или низкого давления.
 
-ent-MutationPressureAdaptation = Pressure Adaptation
-    .desc = A strange mutation that renders the host immune to damage from both low and high pressure environments. Does not protect from temperature, including the cold of space.
+ent-MutationPressureAdaptation = Адаптация к Давлению
+    .desc = Странная мутация, которая защищает носителя от урона как при низком, так и при высоком давлении. Не защищает от перепадов температуры, в том числе от холода космоса.

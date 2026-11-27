@@ -1,8 +1,8 @@
-ent-GrenadeMPAPERS = MP-APERS shell (40mm)
+ent-GrenadeMPAPERS = снаряд MP-APERS (40мм)
     .desc = { ent-BaseGrenade.desc }
 
-ent-GrenadeTeargas = tear gas shell (40mm)
+ent-GrenadeTeargas = снаряд со слезоточивым газом (40мм)
     .desc = { ent-BaseGrenade.desc }
 
-ent-CartridgeRocketSingularityBuster = rocket-propelled anti-singularity grenade
-    .desc = A warhead containing a large amount of anti-particles. Upon hitting a singularity, the anti-particles are released, decomposing the singularity. Warranty void if the rocket hits anything besides a singularity or tesla.
+ent-CartridgeRocketSingularityBuster = реактивная антисингулярная граната
+    .desc = Боеголовка с большим количеством античастиц. При попадании в сингулярность античастицы высвобождаются и разлагают её. Гарантия аннулируется, если ракета попадает во что-либо, кроме сингулярности или теслы.

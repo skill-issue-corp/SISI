@@ -1,86 +1,86 @@
-marking-VoxHairAfro = Vox Afro
-marking-VoxHairAfro-afro_s = Vox Afro
+marking-VoxHairAfro = Афро Вокса
+marking-VoxHairAfro-afro_s = Афро Вокса
 
-marking-VoxHairBraids = Vox Braids
-marking-VoxHairBraids-braid_s = Vox Braids
+marking-VoxHairBraids = Косы Вокса
+marking-VoxHairBraids-braid_s = Косы Вокса
 
-marking-VoxHairCrestedQuills = Vox Crested Quills
-marking-VoxHairCrestedQuills-crestedquills_s = Vox Crested Quills
+marking-VoxHairCrestedQuills = Хохлатые Перья Вокса
+marking-VoxHairCrestedQuills-crestedquills_s = Хохлатые Перья Вокса
 
-marking-VoxHairEmperorQuills = Vox Emperor Quills
-marking-VoxHairEmperorQuills-emperorquills_s = Vox Emperor Quills
+marking-VoxHairEmperorQuills = Императорские Перья Вокса
+marking-VoxHairEmperorQuills-emperorquills_s = Императорские Перья Вокса
 
-marking-VoxHairFlowing = Vox Flowing
-marking-VoxHairFlowing-flowing_s = Vox Flowing
+marking-VoxHairFlowing = Струящиеся Перья Вокса
+marking-VoxHairFlowing-flowing_s = Струящиеся Перья Вокса
 
-marking-VoxHairHawk = Vox Hawk
-marking-VoxHairHawk-hawk_s = Vox Hawk
+marking-VoxHairHawk = Ястреб Вокса
+marking-VoxHairHawk-hawk_s = Ястреб Вокса
 
-marking-VoxHairHorns = Vox Horns
-marking-VoxHairHorns-horns_s = Vox Horns
+marking-VoxHairHorns = Рога Вокса
+marking-VoxHairHorns-horns_s = Рога Вокса
 
-marking-VoxHairKeelQuills = Vox Keel Quills
-marking-VoxHairKeelQuills-keelquills_s = Vox Keel Quills
+marking-VoxHairKeelQuills = Килевые Перья Вокса
+marking-VoxHairKeelQuills-keelquills_s = Килевые Перья Вокса
 
-marking-VoxHairKeetQuills = Vox Keet Quills
-marking-VoxHairKeetQuills-keetquills_s = Vox Keet Quills
+marking-VoxHairKeetQuills = Попугайчиковые Перья Вокса
+marking-VoxHairKeetQuills-keetquills_s = Попугайчиковые Перья Вокса
 
-marking-VoxHairKingly = Vox Kingly
-marking-VoxHairKingly-kingly_s = Vox Kingly
+marking-VoxHairKingly = Царская Причёска Вокса
+marking-VoxHairKingly-kingly_s = Царская Причёска Вокса
 
-marking-VoxHairLongBraid = Vox Long Braid
-marking-VoxHairLongBraid-long_braid_s = Vox Long Braid
+marking-VoxHairLongBraid = Длинная Коса Вокса
+marking-VoxHairLongBraid-long_braid_s = Длинная Коса Вокса
 
-marking-VoxHairMange = Vox Mange
-marking-VoxHairMange-mange_s = Vox Mange
+marking-VoxHairMange = Плешивый Вокс
+marking-VoxHairMange-mange_s = Плешивый Вокс
 
-marking-VoxHairMohawk = Vox Mohawk
-marking-VoxHairMohawk-mohawk_s = Vox Mohawk
+marking-VoxHairMohawk = Ирокез Вокса
+marking-VoxHairMohawk-mohawk_s = Ирокез Вокса
 
-marking-VoxHairNights = Vox Nights
-marking-VoxHairNights-nights_s = Vox Nights
+marking-VoxHairNights = Ночи Вокса
+marking-VoxHairNights-nights_s = Ночи Вокса
 
-marking-VoxHairPony = Vox Pony
-marking-VoxHairPony-ponytail_s = Vox Pony
+marking-VoxHairPony = Конский Хвост Вокса
+marking-VoxHairPony-ponytail_s = Конский Хвост Вокса
 
-marking-VoxHairRazorClipped = Vox Razor (Clipped)
-marking-VoxHairRazorClipped-razor_clipped_s = Vox Razor (Clipped)
+marking-VoxHairRazorClipped = Бритва Вокса (Подстриженная)
+marking-VoxHairRazorClipped-razor_clipped_s = Бритва Вокса (Подстриженная)
 
-marking-VoxHairRazor = Vox Razor
-marking-VoxHairRazor-razor_s = Vox Razor
+marking-VoxHairRazor = Бритва Вокса
+marking-VoxHairRazor-razor_s = Бритва Вокса
 
-marking-VoxHairSortBraid = Vox Short Braid
-marking-VoxHairSortBraid-short_braid_s = Vox Short Braid
+marking-VoxHairSortBraid = Короткая Коса Вокса
+marking-VoxHairSortBraid-short_braid_s = Короткая Коса Вокса
 
-marking-VoxHairShortQuills = Vox Short Quills
-marking-VoxHairShortQuills-shortquills_s = Vox Short Quills
+marking-VoxHairShortQuills = Короткие Перья Вокса
+marking-VoxHairShortQuills-shortquills_s = Короткие Перья Вокса
 
-marking-VoxHairSurf = Vox Surf
-marking-VoxHairSurf-surf_s = Vox Surf
+marking-VoxHairSurf = Сёрф Вокса
+marking-VoxHairSurf-surf_s = Сёрф Вокса
 
-marking-VoxHairTielQuills = Vox Tiel Quills
-marking-VoxHairTielQuills-tielquills_s = Vox Tiel Quills
+marking-VoxHairTielQuills = Перья Вокса (Корелла)
+marking-VoxHairTielQuills-tielquills_s = Перья Вокса (Корелла)
 
-marking-VoxHairYasu = Vox Yasuhiro
-marking-VoxHairYasu-yasu_s = Vox Yasuhiro
+marking-VoxHairYasu = Ясухиро Вокса
+marking-VoxHairYasu-yasu_s = Ясухиро Вокса
 
-marking-VoxHairWiseBraid = Vox Wise Braids
-marking-VoxHairWiseBraid-wise_braid_s = Vox Wise Braids
+marking-VoxHairWiseBraid = Мудрые Косы Вокса
+marking-VoxHairWiseBraid-wise_braid_s = Мудрые Косы Вокса
 
-marking-VoxHairSpotty = Vox Spotty Quills
-marking-VoxHairSpotty-spotty_s = Vox Spotty Quills
+marking-VoxHairSpotty = Пятнистые Перья Вокса
+marking-VoxHairSpotty-spotty_s = Пятнистые Перья Вокса
 
-marking-VoxHairMadScientist = Vox Mad Scientist
-marking-VoxHairMadScientist-mad_scientist_s = Vox Mad Scientist
+marking-VoxHairMadScientist = Безумный Учёный Вокса
+marking-VoxHairMadScientist-mad_scientist_s = Безумный Учёный Вокса
 
-marking-VoxHairHedgehog = Vox Hedgehog
-marking-VoxHairHedgehog-hedgehog_s = Vox Hedgehog
+marking-VoxHairHedgehog = Ёжик Вокса
+marking-VoxHairHedgehog-hedgehog_s = Ёжик Вокса
 
-marking-VoxHairBushy = Vox Bushy Quills
-marking-VoxHairBushy-bushy_s = Vox Bushy Quills
+marking-VoxHairBushy = Густые Перья Вокса
+marking-VoxHairBushy-bushy_s = Густые Перья Вокса
 
-marking-VoxHairSlick = Vox Slick Quills
-marking-VoxHairSlick-slick_s = Vox Slick Quills
+marking-VoxHairSlick = Приглаженные Перья Вокса
+marking-VoxHairSlick-slick_s = Приглаженные Перья Вокса
 
-marking-VoxHairCatfish = Vox Catfish
-marking-VoxHairCatfish-catfish_s = Vox Catfish
+marking-VoxHairCatfish = Сом Вокса
+marking-VoxHairCatfish-catfish_s = Сом Вокса

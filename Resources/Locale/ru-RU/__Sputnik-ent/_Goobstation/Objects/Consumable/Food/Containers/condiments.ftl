@@ -1,5 +1,5 @@
-ent-FoodShakerSaltEmpty = salt shaker
-    .desc = An empty salt shaker.
+ent-FoodShakerSaltEmpty = солонка
+    .desc = Пустая солонка.
 
-ent-FoodShakerPepperEmpty = pepper shaker
-    .desc = An empty pepper shaker.
+ent-FoodShakerPepperEmpty = перечница
+    .desc = Пустая перечница.

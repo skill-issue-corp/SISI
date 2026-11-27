@@ -1,46 +1,46 @@
-ent-BaseBloomery = unlit bloomery
+ent-BaseBloomery = незажжённый сыродутный горн
     .desc = { ent-BaseStructure.desc }
 
-ent-BaseBloomeryLit = lit bloomery
+ent-BaseBloomeryLit = зажжённый сыродутный горн
     .desc = { ent-BaseBloomery.desc }
 
-ent-BaseBloomeryComplete = smoking bloomery
-    .desc = Looks ready, smash it open.
+ent-BaseBloomeryComplete = дымящийся сыродутный горн
+    .desc = Похоже, готово. Разбейте горн.
 
-ent-BloomeryCold = unlit bloomery
-    .desc = Needs to be loaded with charcoal and metal scraps before firing.
+ent-BloomeryCold = незажжённый сыродутный горн
+    .desc = Перед обжигом нужно загрузить древесный уголь и металлический лом.
 
 ent-BloomeryColdBrass = { ent-BaseBloomery }
-    .desc = Loaded with brass, just needs firing.
-    .suffix = Brass
+    .desc = Загружена латунь, осталось разжечь горн.
+    .suffix = Латунь
 
 ent-BloomeryColdPlasteel = { ent-BaseBloomery }
-    .desc = Loaded with plasteel, just needs firing.
-    .suffix = Plasteel
+    .desc = Загружена пласталь, осталось разжечь горн.
+    .suffix = Пласталь
 
 ent-BloomeryColdSteel = { ent-BaseBloomery }
-    .desc = Loaded with steel, just needs firing.
-    .suffix = Steel
+    .desc = Загружена сталь, осталось разжечь горн.
+    .suffix = Сталь
 
 ent-BloomeryLitBrass = { ent-BaseBloomeryLit }
-    .desc = Loaded with brass, give it some time to burn and it will be ready.
-    .suffix = Brass
+    .desc = Загружена латунь, дайте горну прогореть, и всё будет готово.
+    .suffix = Латунь
 
 ent-BloomeryLitSteel = { ent-BaseBloomeryLit }
-    .desc = Loaded with steel, give it some time to burn and it will be ready.
-    .suffix = Steel
+    .desc = Загружена сталь, дайте горну прогореть, и всё будет готово.
+    .suffix = Сталь
 
-ent-BloomeryLitPlasteel = lit bloomery
-    .desc = Loaded with plasteel, give it some time to burn and it will be ready.
+ent-BloomeryLitPlasteel = зажжённый сыродутный горн
+    .desc = Загружена пласталь, дайте горну прогореть, и всё будет готово.
 
 ent-BloomeryCompletePlasteel = { ent-BaseBloomeryComplete }
     .desc = { ent-BaseBloomeryComplete.desc }
-    .suffix = Plasteel
+    .suffix = Пласталь
 
 ent-BloomeryCompleteSteel = { ent-BaseBloomeryComplete }
     .desc = { ent-BaseBloomeryComplete.desc }
-    .suffix = Steel
+    .suffix = Сталь
 
 ent-BloomeryCompleteBrass = { ent-BaseBloomeryComplete }
     .desc = { ent-BaseBloomeryComplete.desc }
-    .suffix = Brass
+    .suffix = Латунь

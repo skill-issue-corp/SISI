@@ -1,5 +1,5 @@
 ent-BaseDemonBottle = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-BottleOfShadow = vial of shadow
-    .desc = A magically infused bottle of pure darkness, distilled from ground up shadowling bones. Used in dark rituals to attract dark creatures.
+ent-BottleOfShadow = флакон тени
+    .desc = Зачарованный флакон чистой тьмы, которую перегнали из растолчённых костей тенеморфа. Используется в тёмных ритуалах для привлечения тёмных существ.

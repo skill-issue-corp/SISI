@@ -1,17 +1,17 @@
-gps-window-title = GLOBAL POSITIONING SYSTEM
-gps-window-name-label = Designation
+gps-window-title = ГЛОБАЛЬНАЯ СИСТЕМА ПОЗИЦИОНИРОВАНИЯ
+gps-window-name-label = Обозначение
 
-gps-window-gps-position-label = GPS Coords
-gps-window-tracked-position-label = Tracked Coords
-gps-window-position-none = N/A
+gps-window-gps-position-label = Координаты GPS
+gps-window-tracked-position-label = Координаты Цели
+gps-window-position-none = Н/Д
 
-gps-window-clear-tracking-button = Clear
+gps-window-clear-tracking-button = Очистить
 
-gps-window-visibility-on = Visibility: On
-gps-window-visibility-off = Visibility: Off
+gps-window-visibility-on = Видимость: Вкл.
+gps-window-visibility-off = Видимость: Выкл.
 
-gps-window-visibility-tooltip = Controls visibility of this GPS on other radars.
-gps-window-alarm-tooltip = Alarm button: highlights this GPS on other radars. Use in emergencies!
-gps-window-clear-tooltip = Clears selection of the current target.
+gps-window-visibility-tooltip = Управляет видимостью этого GPS на других радарах.
+gps-window-alarm-tooltip = Кнопка тревоги: выделяет этот GPS на других радарах. Используйте в экстренных случаях!
+gps-window-clear-tooltip = Снимает выбор текущей цели.
 
-gps-window-footer-text = Remember to enable visibility to not get lost!
+gps-window-footer-text = Не забудьте включить видимость, чтобы не потеряться!

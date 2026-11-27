@@ -1,0 +1,9 @@
+sis-guide-entry-rules-c0 = R0. Не обходите правила
+sis-guide-entry-rules-c1 = R1. Гриферство
+sis-guide-entry-rules-c2 = R2. Взаимодействие с игроками ССД (АФК)
+sis-guide-entry-rules-c3 = R3. Правила общения
+sis-guide-entry-rules-c4 = R4. Нарушение логики персонажа
+sis-guide-entry-rules-c4-1 = R4.1. Оставайтесь в роли
+sis-guide-entry-rules-c5 = R5. Правила антагонистов
+sis-guide-entry-rules-c6 = R6. Преимущество над игроками неигровым путем
+sis-guide-entry-rules-c7 = R7. Эротическая ролевая игра (Erotic Role Play)

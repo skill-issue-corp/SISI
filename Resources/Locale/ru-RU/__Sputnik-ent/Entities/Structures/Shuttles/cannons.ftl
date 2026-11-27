@@ -1,20 +1,20 @@
-ent-ShuttleGunBase = shittle gun
+ent-ShuttleGunBase = шаттловая пушка
     .desc = { ent-BaseStructure.desc }
 
-ent-ShuttleGunSvalinnMachineGun = LSE-400c "Svalinn machine gun"
-    .desc = Basic stationary laser unit. Effective against live targets and electronics. Uses regular power cells to fire, and has an extremely high rate of fire.
+ent-ShuttleGunSvalinnMachineGun = LSE-400c «пулемёт Свальн»
+    .desc = Базовая стационарная лазерная установка. Эффективна против живых целей и электроники. Стреляет с питанием от обычных батарей и отличается чрезвычайной скорострельностью.
 
-ent-ShuttleGunPerforator = LSE-1200c "Perforator"
-    .desc = Advanced stationary laser unit. Annihilates electronics and is extremely dangerous to health! Uses the power cage to fire.
+ent-ShuttleGunPerforator = LSE-1200c «Перфоратор»
+    .desc = Продвинутая стационарная лазерная установка. Уничтожает электронику и крайне опасна для здоровья! Для стрельбы использует накопитель энергии.
 
-ent-ShuttleGunFriendship = EXP-320g "Friendship"
-    .desc = A small stationary grenade launcher that holds 2 grenades.
+ent-ShuttleGunFriendship = EXP-320g «Дружба»
+    .desc = Небольшой стационарный гранатомёт, вмещающий 2 гранаты.
 
-ent-ShuttleGunDuster = EXP-2100g "Duster"
-    .desc = A powerful stationary grenade launcher. A cartridge is required for use.
+ent-ShuttleGunDuster = EXP-2100g «Пыльник»
+    .desc = Мощный стационарный гранатомёт. Для использования нужен картридж.
 
-ent-ShuttleGunPirateCannon = pirate ship cannon
-    .desc = Kaboom!
+ent-ShuttleGunPirateCannon = пушка пиратского корабля
+    .desc = Бабах!
 
-ent-ShuttleGunKinetic = PTK-800 "Matter Dematerializer"
-    .desc = Salvage stationary mining turret. Gradually accumulates charges on its own, extremely effective for asteroid excavation.
+ent-ShuttleGunKinetic = PTK-800 «Дематериализатор Материи»
+    .desc = Стационарная буровая турель утилизаторов. Сама постепенно накапливает заряды и чрезвычайно эффективна при разработке астероидов.

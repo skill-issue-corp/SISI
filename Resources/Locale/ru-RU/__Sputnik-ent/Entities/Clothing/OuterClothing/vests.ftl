@@ -1,11 +1,11 @@
-ent-ClothingOuterVestHazard = hi-viz vest
-    .desc = A high-visibility vest used in work zones.
+ent-ClothingOuterVestHazard = сигнальный жилет
+    .desc = Жилет повышенной видимости для работ в опасных зонах.
 
-ent-ClothingOuterVest = vest
-    .desc = A thick vest with a rubbery, water-resistant shell.
+ent-ClothingOuterVest = жилет
+    .desc = Плотный жилет с прорезиненным водостойким покрытием.
 
-ent-ClothingOuterVestTank = tank harness
-    .desc = A simple harness that can hold a gas tank.
+ent-ClothingOuterVestTank = лямки для баллона
+    .desc = Простые лямки, на которых можно закрепить газовый баллон.
 
-ent-ClothingOuterVestPress = press vest
-    .desc = A cloth vest for the fearless reporter in the field. Go land an interview with that space dragon!
+ent-ClothingOuterVestPress = жилет прессы
+    .desc = Тканевый жилет для бесстрашного репортёра на выезде. Вперёд, возьмите интервью у того космического дракона!

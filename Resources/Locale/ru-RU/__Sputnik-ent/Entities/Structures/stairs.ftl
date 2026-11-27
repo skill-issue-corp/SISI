@@ -1,31 +1,31 @@
-ent-Stairs = stairs
-    .desc = The greatest invention since rocket-propelled grenades.
-    .suffix = Steel
+ent-Stairs = лестница
+    .desc = Величайшее изобретение со времён реактивных гранат.
+    .suffix = Сталь
 
 ent-StairStage = { ent-Stairs }
     .desc = { ent-Stairs.desc }
-    .suffix = Steel, stage
+    .suffix = Сталь, сцена
 
 ent-StairWhite = { ent-Stairs }
     .desc = { ent-Stairs.desc }
-    .suffix = White
+    .suffix = Белый
 
 ent-StairStageWhite = { ent-Stairs }
     .desc = { ent-Stairs.desc }
-    .suffix = White, stage
+    .suffix = Белая, сцена
 
 ent-StairDark = { ent-Stairs }
     .desc = { ent-Stairs.desc }
-    .suffix = Dark
+    .suffix = Тёмная
 
 ent-StairStageDark = { ent-Stairs }
     .desc = { ent-Stairs.desc }
-    .suffix = Dark, stage
+    .suffix = Тёмная, сцена
 
 ent-StairWood = { ent-Stairs }
     .desc = { ent-Stairs.desc }
-    .suffix = Wood
+    .suffix = Дерево
 
 ent-StairStageWood = { ent-Stairs }
     .desc = { ent-Stairs.desc }
-    .suffix = Wood, stage
+    .suffix = Дерево, сцена

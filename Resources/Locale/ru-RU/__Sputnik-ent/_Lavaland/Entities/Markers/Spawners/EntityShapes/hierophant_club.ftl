@@ -1,7 +1,7 @@
-ent-HierophantClubShapeExpandingBox = hierophant attack box expanding spawner
+ent-HierophantClubShapeExpandingBox = точка спавна растущего квадрата иерофанта
     .desc = { ent-MarkerBase.desc }
-    .suffix = Hierophant club
+    .suffix = Палица иерофанта
 
-ent-HierophantClubShapeRandomCross = hierophant attack cross sequence spawner
+ent-HierophantClubShapeRandomCross = точка спавна череды крестов иерофанта
     .desc = { ent-MarkerBase.desc }
-    .suffix = Hierophant club
+    .suffix = Палица иерофанта

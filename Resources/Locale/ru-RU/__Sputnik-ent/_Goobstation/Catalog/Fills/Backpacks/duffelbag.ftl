@@ -1,20 +1,20 @@
-ent-ClothingBackpackDuffelSyndicateMedicHardsuitBundle = syndicate medic hardsuit bundle
-    .desc = A surplus combat medic hardsuit, bundled for your LARP.
+ent-ClothingBackpackDuffelSyndicateMedicHardsuitBundle = комплект со скафандром медика синдиката
+    .desc = Списанный скафандр боевого медика, упакованный специально для вашего ЛАРПа.
 
-ent-ClothingBackpackDuffelSyndicateStealthHardsuitBundle = cybersun stealthsuit bundle
-    .desc = An advanced cybersun stealth hardsuit bundle.
+ent-ClothingBackpackDuffelSyndicateStealthHardsuitBundle = комплект со стелс-скафандром киберсан
+    .desc = Комплект с усовершенствованным стелс-скафандром киберсан.
 
-ent-ClothingBackpackDuffelSyndicateBurner = Burner Bundle
-    .desc = A high caliber Burner rifle, comes with some anti materiel and high explosive ammunition.
+ent-ClothingBackpackDuffelSyndicateBurner = Комплект с Burner
+    .desc = Крупнокалиберная винтовка Burner с противоматериальными и фугасными боеприпасами.
 
-ent-ClothingBackpackDuffelSyndicateM90Bundle = M-90 bundle
-    .desc = A bundle carrying the syndicate's M-90 assault rifle, packed with 2 spare magazines.
+ent-ClothingBackpackDuffelSyndicateM90Bundle = комплект с M-90
+    .desc = Комплект со штурмовой винтовкой синдиката M-90 и 2 запасными магазинами.
 
-ent-ClothingBackpackDuffelSyndicateFilledWhimsy = syndicate joy & whimsy bundle
-    .desc = A bundle containing everything a syndicate needs to have a jolly good time.
+ent-ClothingBackpackDuffelSyndicateFilledWhimsy = комплект радости и веселья синдиката
+    .desc = В комплекте всё, что нужно синдикату, чтобы от души повеселиться.
 
-ent-ClothingBackpackDuffelSyndicateFilledCandy = candy bundle
-    .desc = A bundle packed to the brim with candy. Someone's got a sweet tooth!
+ent-ClothingBackpackDuffelSyndicateFilledCandy = комплект сладостей
+    .desc = Набит сладостями до отказа. Кто-то тут сладкоежка!
 
-ent-ClothingBackpackDuffelSyndicateFilledHE1SG8 = HE1S-G8 bundle
-    .desc = This bundle holds the HE1S-G8 rifle paired with 19 cartridges for some extra funny.
+ent-ClothingBackpackDuffelSyndicateFilledHE1SG8 = комплект HE1S-G8
+    .desc = В комплекте винтовка HE1S-G8 и 19 патронов, чтобы было ещё веселее.

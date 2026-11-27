@@ -1,2 +1,2 @@
-ent-MutationFarsight = Farsight
-    .desc = The subject's eyes are able to see further than normal.
+ent-MutationFarsight = Зоркость
+    .desc = Глаза испытуемого видят дальше обычного.

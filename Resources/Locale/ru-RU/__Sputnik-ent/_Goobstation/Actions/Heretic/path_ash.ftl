@@ -1,20 +1,20 @@
-ent-ActionHereticJaunt = Ashen Passage
-    .desc = A short range spell that allows you to pass unimpeded through walls.
+ent-ActionHereticJaunt = Пепельный Переход
+    .desc = Заклинание малого радиуса, позволяющее беспрепятственно проходить сквозь стены.
 
-ent-ActionHereticJauntLong = Ashen Passage
-    .desc = A long range spell that allows you to pass unimpeded through walls.
+ent-ActionHereticJauntLong = Пепельный Переход
+    .desc = Заклинание большого радиуса, позволяющее беспрепятственно проходить сквозь стены.
 
-ent-ActionHereticVolcanoBlast = Volcano Blast
-    .desc = Charge up a blast of fire that chains between nearby targets, setting them ablaze. Targets already on fire will take priority. If the target fails to catch ablaze, or extinguishes themselves before it bounces, the chain will stop.
+ent-ActionHereticVolcanoBlast = Вулканический Взрыв
+    .desc = Накопите заряд и выпустите вспышку пламени, которая перескакивает между целями поблизости и поджигает их. Уже горящие цели имеют приоритет. Если цель не загорится или успеет потушить себя до следующего скачка, цепь прервётся.
 
-ent-ActionHereticNightwatcherRebirth = Nightwatcher's Rebirth
-    .desc = Drains nearby heathens engulfed in flames of their life force.
+ent-ActionHereticNightwatcherRebirth = Возрождение Ночного Дозорного
+    .desc = Высасывает жизненную силу у охваченных пламенем неверных поблизости.
 
-ent-ActionHereticAscension1 = Oath of Flame
-    .desc = Create a ring of fire around you.
+ent-ActionHereticAscension1 = Клятва Пламени
+    .desc = Создайте вокруг себя огненное кольцо.
 
-ent-ActionHereticAscension2 = Fire Cascade
-    .desc = Burn everything in a large distance.
+ent-ActionHereticAscension2 = Огненный Каскад
+    .desc = Сожгите всё в большом радиусе.
 
-ent-ActionHereticScorchedMantleToggleFlames = Toggle Flames
-    .desc = Toggles passive fire stack generation.
+ent-ActionHereticScorchedMantleToggleFlames = Переключить Пламя
+    .desc = Включает или выключает пассивное накопление зарядов горения.

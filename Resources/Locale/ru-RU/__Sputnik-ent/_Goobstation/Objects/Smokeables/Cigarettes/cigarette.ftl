@@ -1,3 +1,3 @@
-ent-CigaretteMedical = cigarette
-    .desc = An extra absorbant chemlab cigarette, smells off.
-    .suffix = Medical
+ent-CigaretteMedical = сигарета
+    .desc = Сверхвпитывающая сигарета из химлаборатории, пахнет подозрительно.
+    .suffix = Медотсек

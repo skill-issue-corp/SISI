@@ -1,8 +1,8 @@
-ent-SpawnMobKobold = Kobold Spawner
+ent-SpawnMobKobold = Точка Спавна Кобольда
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobKoboldGhostrole = Kobold Ghostrole Spawner
+ent-SpawnMobKoboldGhostrole = Точка Спавна Кобольда для Роли Призрака
     .desc = { ent-SpawnMobKobold.desc }
 
-ent-SpawnMobMonkeyGhostrole = Monkey Ghostrole Spawner
+ent-SpawnMobMonkeyGhostrole = Точка Спавна Обезьяны для Роли Призрака
     .desc = { ent-SpawnMobMonkey.desc }

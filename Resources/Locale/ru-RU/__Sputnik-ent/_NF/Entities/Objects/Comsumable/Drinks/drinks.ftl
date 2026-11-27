@@ -1,19 +1,19 @@
 ent-DrinkGinAndSonic = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = gin and sonic
+    .suffix = джин-соник
 
 ent-DrinkGoldenCat = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = golden cat
+    .suffix = золотой кот
 
 ent-DrinkPineappleBlast = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = pineapple blast
+    .suffix = ананасовый взрыв
 
 ent-DrinkTorpedoJuice = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = torpedo juice
+    .suffix = торпедный сок
 
 ent-DrinkBeesKnees = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = bee's knees
+    .suffix = пчелиные коленки

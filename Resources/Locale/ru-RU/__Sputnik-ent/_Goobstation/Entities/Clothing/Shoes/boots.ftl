@@ -1,43 +1,43 @@
-ent-ClothingShoesBootsChrono = futuristic boots
-    .desc = An advanced futuristic shoe that guarantees wearer comfort and full traction on any surface
+ent-ClothingShoesBootsChrono = футуристичные ботинки
+    .desc = Передовая обувь из будущего, гарантирующая владельцу комфорт и надёжное сцепление с любой поверхностью
 
 ent-ClothingShoesBootsChronoUnremoveable = { ent-ClothingShoesBootsChrono }
     .desc = { ent-ClothingShoesBootsChrono.desc }
-    .suffix = Unremoveable
+    .suffix = Несъёмный
 
-ent-ClothingShoesResonant = resonant shoes
-    .desc = Is it not time yet… for the splendid curtain to rise?
+ent-ClothingShoesResonant = резонансные туфли
+    .desc = Разве не настало время… поднять великолепный занавес?
 
-ent-ClothingShoesBootsMagDeathsquad = deathsquad magboots
-    .desc = The sound of these boots are iconic; the sound of terror.
+ent-ClothingShoesBootsMagDeathsquad = магнитные ботинки эскадрона смерти
+    .desc = Звук этих ботинок ни с чем не спутаешь. Это звук ужаса.
 
-ent-ClothingShoesRealJordans = air jordans
-    .desc = State-of-the-art, official, uncreased Jordans that protect you from slipping when turned on.
-    .suffix = Magboots
+ent-ClothingShoesRealJordans = эйр джорданы
+    .desc = Ультрасовременные оригинальные Джорданы без заломов. Когда их включают, вы не скользите.
+    .suffix = Магнитные Ботинки
 
-ent-ClothingShoesFakeJordans = air jordans
-    .desc = Upon closer inspection, something feels off about these. Are they.. creased? No, it can't be that. Wait, the logo looks a little off...
-    .suffix = fake
+ent-ClothingShoesFakeJordans = эйр джорданы
+    .desc = Стоит присмотреться, и с ними явно что-то не так. На них.. заломы? Нет, не может быть. Погодите, и логотип какой-то странный...
+    .suffix = подделка
 
-ent-ClothingShoesCreasedJordans = creased air jordans
-    .desc = No wait... this can't be.... THEY'RE CREASED!
+ent-ClothingShoesCreasedJordans = мятые эйр джорданы
+    .desc = Нет, погодите... не может быть.... ОНИ МЯТЫЕ!
 
-ent-ClothingShoesBootsJackAdvanced = advanced jackboots
-    .desc = This pair of jackboots was designed for the Head of Security. No one knows why are they called advanced, but they are for sure advanced in drip.
+ent-ClothingShoesBootsJackAdvanced = усовершенствованные берцы
+    .desc = Эти берцы разработали для Главы Службы Безопасности. Никто не знает, почему они усовершенствованные, но по стилю уж точно на шаг впереди.
 
-ent-ClothingShoesRealJordansAutographed = air jordans
-    .desc = These aren't just any Jordans, these were signed my Micheal Jordan himself. These must be worth a FORTUNE.
-    .suffix = Devil
+ent-ClothingShoesRealJordansAutographed = эйр джорданы
+    .desc = Это не простые Джорданы, их подписал сам Майкл Джордан. Должно быть, они стоят ЦЕЛОЕ СОСТОЯНИЕ.
+    .suffix = Дьявол
 
-ent-ClothingShoesWinterCombatBoots = snowjacks boots
-    .desc = Nanotrasen-issue Security combat boots for combat scenarios or combat situations. Now in winter edition.
+ent-ClothingShoesWinterCombatBoots = зимние берцы
+    .desc = Штатные боевые берцы Службы Безопасности NanoTrasen для боевой обстановки или боевых ситуаций. Теперь в зимнем исполнении.
 
 ent-ClothingShoesColorBlackUnremoveable = { ent-ClothingShoesColorBlack }
     .desc = { ent-ClothingShoesColorBlack.desc }
-    .suffix = Unremoveable
+    .suffix = Несъёмный
 
-ent-ClothingShoesBootsCowboyBrownRobust = authentic brown cowboy boots
-    .desc = For a real cowboy.
+ent-ClothingShoesBootsCowboyBrownRobust = настоящие коричневые ковбойские сапоги
+    .desc = Для настоящего ковбоя.
 
-ent-ClothingShoesBootsJackGaloshes = Jack Galoshes
-    .desc = This pair of jackboots was designed for the elite maids of our station. Perhaps the most coveted item on station.
+ent-ClothingShoesBootsJackGaloshes = Берцы-Галоши
+    .desc = Эти берцы созданы для элитных горничных нашей станции. Пожалуй, самая желанная вещь на станции.

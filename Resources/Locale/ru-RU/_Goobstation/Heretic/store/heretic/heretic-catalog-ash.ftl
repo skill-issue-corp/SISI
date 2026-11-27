@@ -1,91 +1,91 @@
 knowledge-path-ash-passive-desc-1 =
-    Grants you immunity high temperatures.
-    Upon reaching 3 fire stacks on your body, your spells will become empowered.
+    Даёт вам иммунитет к высоким температурам.
+    Когда на вас накопится 3 заряда пламени, ваши заклинания усилятся.
 
-knowledge-path-ash-passive-desc-2 = Being on fire speeds you up based on the amount of fire stacks.
-knowledge-path-ash-passive-desc-3 = Grants you immunity temporary blindness and vision blur.
+knowledge-path-ash-passive-desc-2 = Пока вы горите, скорость движения растёт пропорционально зарядам пламени.
+knowledge-path-ash-passive-desc-3 = Даёт вам иммунитет к временному ослеплению и размытию зрения.
 
-knowledge-path-ash-s1-name = Nightwatcher's Secret
+knowledge-path-ash-s1-name = Тайна Ночного Дозорного
 knowledge-path-ash-s1-desc =
-    The City Guard know their watch. If you ask them at night, they may tell you about the ashy lantern.
+    Городская Стража знает своё дело. Спросите их ночью, и, быть может, они расскажут о пепельном фонаре.
 
-    Opens up the Path of Ash to you.
-    Allows you to transmute a match and a knife into an Ashen Blade.
-    You can only create two at a time.
+    Открывает вам Пепельный Путь.
+    Позволяет превратить спичку и нож в Пепельный Клинок.
+    Одновременно можно иметь не больше двух клинков.
 
-knowledge-path-ash-s2-name = Grasp of Ash
+knowledge-path-ash-s2-name = Хватка Пепла
 knowledge-path-ash-s2-desc =
-    The Nightwatcher was the first of them, his treason started it all. Their lantern, expired to ash - their watch, absent.
+    Ночной Дозорный был первым из них. Всё началось с его предательства. Его фонарь истлел в пепел, его дозор опустел.
 
-    Your Mansus Grasp will burn the eyes of the victim, damaging them and blurring their vision.
+    Хватка Мансуса обжигает глаза жертвы, повреждает их и затуманивает зрение.
 
-knowledge-path-ash-s3-name = Mark of Ash
+knowledge-path-ash-s3-name = Метка Пепла
 knowledge-path-ash-s3-desc =
-    He was a very particular man, always watching in the dead of night.
-    But in spite of his duty, he regularly tranced through the Manse with his blazing lantern held high.
-    He shone brightly in the darkness, until the blaze begin to die.
+    Он был человеком необычным и всегда нёс дозор в глубокой ночи.
+    Но, несмотря на свой долг, он часто бродил в забытьи по Дому, высоко подняв горящий фонарь.
+    Он ярко сиял во мраке, пока пламя не стало угасать.
 
-    Your Mansus Grasp now applies the Mark of Ash. The mark is triggered from an attack with your Ashen Blade.
-    When triggered, all your spells have their cooldown slightly reduced, the victim takes additional burn damage, and the mark is transferred to a nearby heathen.
-    Damage dealt is decreased with each transfer.
+    Хватка Мансуса накладывает Метку Пепла. Она срабатывает при ударе Пепельным Клинком.
+    При срабатывании метки все ваши заклинания восстанавливаются чуть быстрее, жертва получает дополнительный урон ожогами, а метка переходит к ближайшему язычнику.
+    С каждым переходом урон снижается.
 
-knowledge-path-ash-s4-name = Ashen Passsage
+knowledge-path-ash-s4-name = Пепельный Переход
 knowledge-path-ash-s4-desc =
-    He knew how to walk between the planes.
+    Он умел ходить между измерениями.
 
-    Grants you Ashen Passage, a spell that lets you phase out of reality, allowing you to traverse a short distance, passing though any walls.
-    When empowered, it will break you out of any stuns and restraints, and will have a longer range.
+    Даёт Пепельный Переход, заклинание, которое позволяет выйти из реальности и преодолеть небольшое расстояние сквозь любые стены.
+    Усиленное заклинание снимает оглушение и оковы, а также действует дальше.
 
-knowledge-path-ash-s5-name = Volcano Blast
+knowledge-path-ash-s5-name = Вулканический Взрыв
 knowledge-path-ash-s5-desc =
-    No fire was hot enough to rekindle them. No fire was bright enough to save them. No fire is eternal.
+    Ни один огонь не был достаточно жарок, чтобы вновь разжечь их. Ни один огонь не был достаточно ярок, чтобы спасти их. Ни один огонь не вечен.
 
-    Grants you Volcano Blast, a spell that - after a short charge - fires off a beam of energy at a nearby enemy,
-    setting them on fire and burning them.
-    If they do not extinguish themselves, the beam will continue to another target.
-    When empowered, lasts enemies with more flames.
+    Даёт Вулканический Взрыв, заклинание, которое после короткой подготовки выпускает луч энергии в ближайшего врага,
+    поджигая его и нанося урон ожогами.
+    Если цель не потушит себя, луч перекинется на следующую.
+    Усиленное заклинание сильнее поджигает врагов.
 
-knowledge-path-ash-armor-name = Scorched Mantle
+knowledge-path-ash-armor-name = Опалённая Мантия
 knowledge-path-ash-armor-desc =
-    The Watch remain as they fell, crumbling away from sight.
-    Yet the winds blowing through the city call them back to service, dust kicked into the air, a drifting silhouette of the fallen.
+    Дозор остался там, где пал, и рассыпался на глазах.
+    Но ветры, гуляющие по городу, вновь зовут его на службу, взметая пыль, летучий силуэт павших.
 
-    Allows you to transmute a table (or a suit), a mask and a match to create a Scorched Mantle.
-    It provides completes protection from fire, and is able to produce more flames passively if you are already on fire.
-    Acts as a focus while hooded.
-    Unlocks tier 2 passive ability upgrade when transmuted.
+    Позволяет превратить стол (или одежду), маску и спичку в Опалённую Мантию.
+    Даёт полную защиту от огня и пассивно раздувает пламя, если вы уже горите.
+    С поднятым капюшоном служит фокусом.
+    Трансмутация открывает 2 уровень пассивной способности.
 
-knowledge-path-ash-s6-name = Cracked Lantern
+knowledge-path-ash-s6-name = Треснувший Фонарь
 knowledge-path-ash-s6-desc =
-    The Nightwatcher was lost. That's what the Watch believed. Yet he walked the world, unnoticed by the masses.
+    Ночной Дозорный пропал. Так считал Дозор. Но он ходил по миру, незаметный для толпы.
 
-    Allows you to transmute a lantern or a flashlight, a flare, a pile of ash and a lighter to create a Cracked Lantern.
-    The lantern works as a flash that also ignites victims.
-    It is a home to Hint, a creature that reveals itself when you hold lantern in your hand.
-    Hint follows behind you and attacks enemies when nearby.
-    You can hit a person with the lantern, which will force Hint to follow that person.
-    After taking enough damage or moving too far away from the lantern, hint will return to you.
+    Позволяет превратить фонарь или фонарик, сигнальный огонь, кучку пепла и зажигалку в Треснувший Фонарь.
+    Фонарь работает как вспышка, которая ещё и поджигает жертв.
+    В нём обитает Намёк, существо, которое показывается, когда вы держите фонарь в руке.
+    Намёк следует за вами и нападает на ближайших врагов.
+    Если ударить кого-нибудь фонарём, Намёк начнёт следовать за этим человеком.
+    Получив достаточно урона или слишком далеко отойдя от фонаря, Намёк вернётся к вам.
 
-knowledge-path-ash-s7-name = Fiery Blade
+knowledge-path-ash-s7-name = Пламенный Клинок
 knowledge-path-ash-s7-desc =
-    He returned, blade in hand, he swung and swung as the ash fell from the skies.
-    His city, the people he swore to watch... and watch he did, as they all burnt to cinders.
+    Он вернулся с клинком в руке и наносил удар за ударом, пока пепел падал с небес.
+    Его город, люди, которых он поклялся стеречь... И он смотрел, пока они не сгорели дотла.
 
-    Your blade now lights enemies ablaze on attack.
+    Теперь ваш клинок поджигает врагов при ударе.
 
-knowledge-path-ash-s8-name = Nightwatcher's Rebirth
+knowledge-path-ash-s8-name = Возрождение Ночного Дозорного
 knowledge-path-ash-s8-desc =
-    The fire was inescapable, and yet, life remained in his charred body. The Nightwatcher was a particular man, always watching.
+    От огня не было спасения, и всё же жизнь теплилась в его обугленном теле. Ночной Дозорный был человеком необычным и вечно нёс дозор.
 
-    Grants you Nightwatcher's Rebirth, a spell that extinguishes you and burns all nearby heathens who are currently on fire, healing you for every victim afflicted.
-    If any victims afflicted are in critical condition, they will also instantly die.
-    When empowered, damage and heal is increased.
+    Даёт Возрождение Ночного Дозорного, заклинание, которое тушит вас и обжигает всех горящих язычников поблизости. Каждая поражённая жертва лечит вас.
+    Поражённая жертва в критическом состоянии мгновенно погибает.
+    Усиленное заклинание наносит больше урона и сильнее исцеляет.
 
-knowledge-path-ash-s9-name = Ashlord's Rite
+knowledge-path-ash-s9-name = Обряд Владыки Пепла
 knowledge-path-ash-s9-desc =
-    The ascension ritual of the Path of Ash.
-    Bring 3 burning or husked corpses to a transmutation rune to complete the ritual.
-    When completed, you become a harbinger of flames, gaining two abilites.
-    Cascade, which causes a massive, growing ring of fire around you,
-    and Oath of Flame, causing you to passively create a ring of flames as you walk.
-    You will also become immune to flames, space, and similar environmental hazards.
+    Ритуал вознесения Пепельного Пути.
+    Чтобы завершить ритуал, принесите 3 горящих или иссушенных тела к руне трансмутации.
+    После завершения вы станете предвестником пламени и получите две способности.
+    Каскад создаёт вокруг вас огромное разрастающееся кольцо огня,
+    а Клятва Пламени пассивно создаёт кольцо огня, пока вы идёте.
+    Вы также получите иммунитет к огню, космосу и сходным угрозам среды.

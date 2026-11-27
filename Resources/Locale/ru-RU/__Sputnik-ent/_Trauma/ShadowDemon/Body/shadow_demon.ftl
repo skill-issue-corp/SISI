@@ -1,12 +1,12 @@
-ent-AppearanceShadowDemon = shadow demon appearance
+ent-AppearanceShadowDemon = внешность тенедемона
     .desc = { ent-BaseMobBody.desc }
 
 ent-OrganShadowDemon = { ent-OrganBase }
     .desc = { ent-OrganBase.desc }
-    .suffix = shadow demon
+    .suffix = тенедемон
 
 ent-OrganShadowDemonInternal = { ent-OrganShadowDemon }
     .desc = { ent-OrganShadowDemon.desc }
 
-ent-OrganShadowDemonHeart = heart of darkness
-    .desc = It still beats furiously, emitting an aura of fear.
+ent-OrganShadowDemonHeart = сердце тьмы
+    .desc = Оно всё ещё бешено бьётся, излучая ауру страха.

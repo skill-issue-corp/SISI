@@ -1,5 +1,5 @@
-ent-WeaponAlien = alien pistol
-    .desc = Is this a war crime? Probably.
+ent-WeaponAlien = инопланетный пистолет
+    .desc = Это военное преступление? Вероятно.
 
-ent-WeaponDecloner = decloner
-    .desc = Is this a war crime? Absolutely.
+ent-WeaponDecloner = деклонер
+    .desc = Это военное преступление? Безусловно.

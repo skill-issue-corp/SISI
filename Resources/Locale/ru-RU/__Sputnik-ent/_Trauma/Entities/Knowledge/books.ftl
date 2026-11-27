@@ -1,80 +1,80 @@
-ent-CrateRandomSkillbooks = skillbooks crate
-    .desc = Contains skillbooks.
+ent-CrateRandomSkillbooks = ящик учебников
+    .desc = Содержит учебники.
 
 ent-BookSkillbook = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-BookDebug = The Hitchikers Guide to the Galaxy
-    .desc = Teaches you everything.
-    .suffix = debug
+ent-BookDebug = Путеводитель Автостопщика по Галактике
+    .desc = Научит вас всему.
+    .suffix = DEBUG
 
-ent-BookSchematic = blueprint
+ent-BookSchematic = чертёж
     .desc = { ent-BookSkillbook.desc }
 
 ent-BookMeleePrintedRev = ГОЙДА! Д
-    .desc = It contains cyrillic instructions about melee combat and some of the weapons used.
-    .suffix = melee
+    .desc = Содержит написанные кириллицей инструкции по ближнему бою и некоторым видам оружия.
+    .suffix = ближний бой
 
 ent-BookShootingPrintedRev = ГОЙДА! Б
-    .desc = It contains cyrillic instructions about firearms and their manufacturing.
-    .suffix = shooting
+    .desc = Содержит написанные кириллицей инструкции по огнестрельному оружию и его изготовлению.
+    .suffix = стрельба
 
-ent-BookJanitor = WHY I LOVE SOAP AND WHY YOU SHOULD TOO
-    .desc = Voxes supposedly love this one, its mostly useless rambling.
-    .suffix = janitor
+ent-BookJanitor = ПОЧЕМУ Я ЛЮБЛЮ МЫЛО И ПОЧЕМУ ВАМ ТОЖЕ СТОИТ ЕГО ПОЛЮБИТЬ
+    .desc = Говорят, воксы обожают эту книгу, хотя там в основном бесполезная болтовня.
+    .suffix = уборщик
 
-ent-BookFabrication = Home Crafters Monthly
-    .desc = Mostly advertisements, but there are some nice tips in here.
-    .suffix = fabrication
+ent-BookFabrication = Ежемесячник Домашних Мастеров
+    .desc = В основном реклама, но есть и дельные советы.
+    .suffix = изготовление
 
-ent-BookFabricationPrinted = Principles of Engineering in Space - 17th Edition
-    .desc = Used to guarantee you a bright future. Now it guarantees you wage slavery.
-    .suffix = fabrication
+ent-BookFabricationPrinted = Основы Инженерного Дела в Космосе - 17-е Издание
+    .desc = Раньше эта книга гарантировала вам светлое будущее. Теперь гарантирует работу за гроши.
+    .suffix = изготовление
 
-ent-BookSurvival = BSA handbook
-    .desc = Has a plethora of knowledge on plants you will never see and animals that died out long ago. At least it teaches you how to carve.
-    .suffix = survival
+ent-BookSurvival = справочник BSA
+    .desc = Полон сведений о растениях, которых вы никогда не увидите, и о давно вымерших животных. Зато научит резьбе.
+    .suffix = выживание
 
-ent-BookSurvivalPrinted = Wood and Bone Carving Techniques
-    .desc = Niche books for niche hobbies.
-    .suffix = survival
+ent-BookSurvivalPrinted = Приёмы Резьбы по Дереву и Кости
+    .desc = Книги на любителя для увлечений на любителя.
+    .suffix = выживание
 
 ent-BookDoors = { ent-BookSchematic }
-    .desc = A blueprint with designs for doors.
-    .suffix = doors
+    .desc = Чертёж с проектами дверей.
+    .suffix = двери
 
 ent-BookAirlocks = { ent-BookSchematic }
-    .desc = A blueprint with designs for airlocks.
-    .suffix = airlocks
+    .desc = Чертёж с проектами шлюзов.
+    .suffix = шлюзы
 
 ent-BookBananium = { ent-BookSchematic }
-    .desc = A blueprint with designs for bananium structures.
-    .suffix = bananium
+    .desc = Чертёж с проектами сооружений из бананиума.
+    .suffix = бананиум
 
 ent-BookBots = { ent-BookSchematic }
-    .desc = A blueprint with designs for robots.
-    .suffix = bots
+    .desc = Чертёж с проектами роботов.
+    .suffix = боты
 
 ent-BookFurniture = { ent-BookSchematic }
-    .desc = A blueprint with designs for furniture.
-    .suffix = furniture
+    .desc = Чертёж с проектами мебели.
+    .suffix = мебель
 
 ent-BookInfrastructure = { ent-BookSchematic }
-    .desc = A blueprint with designs for various pieces of infrastructure.
-    .suffix = infrastructure
+    .desc = Чертёж с проектами различных элементов инфраструктуры.
+    .suffix = инфраструктура
 
 ent-BookElectronics = { ent-BookSchematic }
-    .desc = A blueprint with designs for various electronics.
-    .suffix = electronics
+    .desc = Чертёж с проектами различных электронных устройств.
+    .suffix = электроника
 
 ent-BookWalls = { ent-BookSchematic }
-    .desc = A blueprint with designs for walls.
-    .suffix = walls
+    .desc = Чертёж с проектами стен.
+    .suffix = стены
 
 ent-BookWindows = { ent-BookSchematic }
-    .desc = A blueprint with designs for windows.
-    .suffix = windows
+    .desc = Чертёж с проектами окон.
+    .suffix = окна
 
 ent-BookSmokeables = { ent-BookSchematic }
-    .desc = A blueprint with designs for blunts.
-    .suffix = smokeables
+    .desc = Чертёж со схемами сворачивания блантов.
+    .suffix = курительные изделия

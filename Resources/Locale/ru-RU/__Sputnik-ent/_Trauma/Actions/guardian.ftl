@@ -1,2 +1,2 @@
-ent-ActionSelfToggleGuardian = Recall Self
-    .desc = Recalls yourself back into your host's body
+ent-ActionSelfToggleGuardian = Вернуться в Носителя
+    .desc = Возвращает вас в тело вашего носителя

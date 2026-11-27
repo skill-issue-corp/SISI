@@ -1,12 +1,12 @@
 command-description-tag-list =
-    Lists tags on the given entities.
+    Выводит теги указанных объектов.
 command-description-tag-with =
-    Returns only the entities with the given tag from the piped list of entities.
+    Возвращает из переданного списка только объекты с указанным тегом.
 command-description-tag-add =
-    Adds a tag to the given entities.
+    Добавляет тег указанным объектам.
 command-description-tag-rm =
-    Removes a tag from the given entities.
+    Удаляет тег у указанных объектов.
 command-description-tag-addmany =
-    Adds a list of tags to the given entities.
+    Добавляет указанный список тегов объектам.
 command-description-tag-rmmany =
-    Removes a list of tags from the given entities.
+    Удаляет у объектов указанные теги.

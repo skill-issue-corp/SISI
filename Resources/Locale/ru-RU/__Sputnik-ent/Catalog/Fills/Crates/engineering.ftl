@@ -1,53 +1,53 @@
-ent-CrateEngineeringGear = engineering gear crate
-    .desc = Various engineering gear parts.
+ent-CrateEngineeringGear = ящик инженерного снаряжения
+    .desc = Разные детали инженерного снаряжения.
 
-ent-CrateEngineeringToolbox = toolbox crate
-    .desc = Two mechanical and two electrical toolboxes.
+ent-CrateEngineeringToolbox = ящик инструментальных ящиков
+    .desc = Два ящика для инструментов механика и два для инструментов электрика.
 
-ent-CrateEngineeringCableLV = LV cable crate
-    .desc = 3 coils of LV cables.
+ent-CrateEngineeringCableLV = ящик НВ-кабелей
+    .desc = 3 катушки НВ-кабелей.
 
-ent-CrateEngineeringCableMV = MV cable crate
-    .desc = 3 coils of MV cables.
+ent-CrateEngineeringCableMV = ящик СВ-кабелей
+    .desc = 3 катушки СВ-кабелей.
 
-ent-CrateEngineeringCableHV = HV cable crate
-    .desc = 3 coils of HV cables.
+ent-CrateEngineeringCableHV = ящик ВВ-кабелей
+    .desc = 3 катушки ВВ-кабелей.
 
-ent-CrateEngineeringFoamGrenade = sealant grenade crate
-    .desc = 5 metal foam sealant grenades.
+ent-CrateEngineeringFoamGrenade = ящик герметизирующих гранат
+    .desc = 5 герметизирующих гранат с металлической пеной.
 
-ent-CrateEngineeringCableBulk = bulk cable crate
-    .desc = 2 coils each for every cable type.
+ent-CrateEngineeringCableBulk = оптовый ящик кабелей
+    .desc = По 2 катушки кабеля каждого типа.
 
-ent-CrateEngineeringElectricalSupplies = electrical supplies crate
-    .desc = NT is not responsible for any workplace infighting relating to the insulated gloves included within these crates.
+ent-CrateEngineeringElectricalSupplies = ящик электрооборудования
+    .desc = NT не несёт ответственности за ссоры на рабочем месте из-за диэлектрических перчаток из этого ящика.
 
-ent-CrateEngineeringStationBeaconBundle = station beacon bundle
-    .desc = A crate containing 5 station beacon assemblies for modifying the station map.
+ent-CrateEngineeringStationBeaconBundle = набор станционных маяков
+    .desc = Ящик с 5 сборками станционных маяков для изменения карты станции.
 
-ent-CrateAirlockKit = airlock kit
-    .desc = A kit for building 6 airlocks, doesn't include tools.
+ent-CrateAirlockKit = набор для сборки шлюзов
+    .desc = Набор для сборки 6 шлюзов. Инструменты не прилагаются.
 
-ent-CrateRCDAmmo = compressed matter crate
-    .desc = Contains three compressed matter cartridges.
+ent-CrateRCDAmmo = ящик сжатой материи
+    .desc = Содержит три картриджа сжатой материи.
 
-ent-CrateRCD = RCD crate
-    .desc = A crate containing a single rapid construction device.
+ent-CrateRCD = ящик РСУ
+    .desc = Ящик с одним ручным строительным устройством.
 
-ent-CrateParticleDecelerators = particle decelerators crate
-    .desc = A crate containing 3 Particle Decelerators.
+ent-CrateParticleDecelerators = ящик замедлителей частиц
+    .desc = Ящик с 3 Замедлителями Частиц.
 
-ent-CrateEngineeringSpaceHeater = space heater crate
-    .desc = Contains a space heater for climate control.
+ent-CrateEngineeringSpaceHeater = ящик обогревателя
+    .desc = Содержит обогреватель для управления климатом.
 
-ent-CrateTechBoardRandom = surplus boards
-    .desc = Surplus boards from somewhere.
+ent-CrateTechBoardRandom = излишки плат
+    .desc = Лишние платы откуда-то.
 
-ent-CrateRPD = RPD crate
-    .desc = A crate containing a single rapid piping device.
+ent-CrateRPD = ящик РУП
+    .desc = Ящик с одним ручным устройством прокладки труб.
 
-ent-CrateEngineeringFirefighterBackpackTank = firefighter crate
-    .desc = Contains a firefighter backpack water tank.
+ent-CrateEngineeringFirefighterBackpackTank = ящик пожарного
+    .desc = Содержит ранцевый бак пожарного.
 
-ent-CrateAirGrenade = air grenade crate
-    .desc = A crate containing 3 air grenades.
+ent-CrateAirGrenade = ящик воздушных гранат
+    .desc = Ящик с 3 воздушными гранатами.

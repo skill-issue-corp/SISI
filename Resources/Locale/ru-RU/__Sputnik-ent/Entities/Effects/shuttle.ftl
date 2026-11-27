@@ -1,2 +1,2 @@
 ent-FtlVisualizerEntity = { "" }
-    .desc = Visualizer for shuttles arriving. You shouldn't see this!
+    .desc = Показывает прибытие шаттлов. Вы не должны это видеть!

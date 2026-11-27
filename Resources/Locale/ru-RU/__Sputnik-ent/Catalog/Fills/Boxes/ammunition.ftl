@@ -1,53 +1,53 @@
-ent-BoxMagazine = box of magazines
-    .desc = A box full of magazines.
+ent-BoxMagazine = коробка магазинов
+    .desc = Коробка с магазинами.
 
-ent-BoxMagazinePistolCaselessRifle = box of 9.5mm HP magazines
-    .desc = A box full of 9.5mm caseless magnum hollow-point magazines.
+ent-BoxMagazinePistolCaselessRifle = коробка магазинов 9.5мм (экспансивные)
+    .desc = Коробка с магазинами безгильзовых экспансивных патронов магнум 9.5мм.
 
-ent-BoxMagazinePistolCaselessRiflePractice = box of 9.5mm (practice) magazines
-    .desc = A box full of 9.5mm caseless magnum practice magazines.
+ent-BoxMagazinePistolCaselessRiflePractice = коробка магазинов 9.5мм (учебные)
+    .desc = Коробка с магазинами безгильзовых учебных патронов магнум 9.5мм.
 
-ent-BoxMagazineLightRifle = box of .30 rifle magazines
-    .desc = A box full of .30 rifle magazines.
+ent-BoxMagazineLightRifle = коробка винтовочных магазинов .30
+    .desc = Коробка с винтовочными магазинами .30.
 
-ent-BoxMagazineLightRiflePractice = box of .30 rifle (practice) magazines
-    .desc = A box full of .30 rifle (practice) magazines.
+ent-BoxMagazineLightRiflePractice = коробка винтовочных магазинов .30 (учебные)
+    .desc = Коробка с винтовочными магазинами .30 (учебные).
 
-ent-BoxMagazinePistolSubMachineGunTopMounted = box of WT550 .35 auto magazines
-    .desc = A box full of WT550 .35 auto magazines.
+ent-BoxMagazinePistolSubMachineGunTopMounted = коробка магазинов для WT550 .35 авто
+    .desc = Коробка с магазинами для WT550 .35 авто.
 
-ent-BoxMagazinePistol = box of pistol .35 auto magazines
-    .desc = A box full of pistol .35 auto magazines.
+ent-BoxMagazinePistol = коробка пистолетных магазинов .35 авто
+    .desc = Коробка с пистолетными магазинами .35 авто.
 
-ent-BoxMagazinePistolPractice = box of pistol .35 auto (practice) magazines
-    .desc = A box full of  magazines.
+ent-BoxMagazinePistolPractice = коробка пистолетных магазинов .35 авто (учебные)
+    .desc = Коробка с  магазинами.
 
-ent-BoxMagazinePistolHighCapacity = box of machine pistol .35 auto magazines
-    .desc = A box full of machine pistol .35 auto magazines.
+ent-BoxMagazinePistolHighCapacity = коробка магазинов для автоматического пистолета .35 авто
+    .desc = Коробка с магазинами для автоматического пистолета .35 авто.
 
-ent-BoxMagazinePistolHighCapacityPractice = box of machine pistol .35 auto (practice) magazines
-    .desc = A box full of machine pistol .35 auto (practice) magazines.
+ent-BoxMagazinePistolHighCapacityPractice = коробка магазинов для автоматического пистолета .35 авто (учебные)
+    .desc = Коробка с магазинами для автоматического пистолета .35 авто (учебные).
 
-ent-BoxMagazinePistolSubMachineGun = box of SMG .35 auto magazines
-    .desc = A box full of SMG .35 auto magazines.
+ent-BoxMagazinePistolSubMachineGun = коробка магазинов для ПП .35 авто
+    .desc = Коробка с магазинами для ПП .35 авто.
 
-ent-BoxMagazinePistolSubMachineGunPractice = box of SMG .35 auto (practice) magazines
-    .desc = A box full of SMG .35 auto (practice) magazines.
+ent-BoxMagazinePistolSubMachineGunPractice = коробка магазинов для ПП .35 авто (учебные)
+    .desc = Коробка с магазинами для ПП .35 авто (учебные).
 
-ent-BoxMagazineShotgun = box of (.50 pellet) ammo drums
-    .desc = A box full of (.50 pellet) ammo drums.
+ent-BoxMagazineShotgun = коробка патронных барабанов (.50 дробь)
+    .desc = Коробка с патронными барабанами (.50 дробь).
 
-ent-BoxMagazineShotgunBeanbag = box of (.50 beanbag) ammo drums
-    .desc = A box full of (.50 beanbag) ammo drums.
+ent-BoxMagazineShotgunBeanbag = коробка патронных барабанов (.50 травматические)
+    .desc = Коробка с патронными барабанами (.50 травматические).
 
-ent-BoxMagazineShotgunSlug = box of (.50 slug) ammo drums
-    .desc = A box full of (.50 slug) ammo drums.
+ent-BoxMagazineShotgunSlug = коробка патронных барабанов (.50 пуля)
+    .desc = Коробка с патронными барабанами (.50 пуля).
 
-ent-BoxMagazineShotgunIncendiary = box of (.50 incendiary) ammo drums
-    .desc = A box full of (.50 incendiary) ammo drums.
+ent-BoxMagazineShotgunIncendiary = коробка патронных барабанов (.50 зажигательные)
+    .desc = Коробка с патронными барабанами (.50 зажигательные).
 
-ent-BoxMagazineRifle = box of .20 rifle magazines
-    .desc = A box full of .20 rifle magazines.
+ent-BoxMagazineRifle = коробка винтовочных магазинов .20
+    .desc = Коробка с винтовочными магазинами .20.
 
-ent-BoxMagazineRiflePractice = box of .20 rifle (practice) magazines
-    .desc = A box full of .20 rifle (practice) magazines.
+ent-BoxMagazineRiflePractice = коробка винтовочных магазинов .20 (учебные)
+    .desc = Коробка с винтовочными магазинами .20 (учебные).

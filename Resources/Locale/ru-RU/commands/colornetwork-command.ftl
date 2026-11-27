@@ -3,8 +3,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-colornetwork-desc = Paints the atmos devices in the specified color
-cmd-colornetwork-help = colornetwork <uid> Pipe <HexColor>
-cmd-colornetwork-no-access = You are not currently able to use mapping commands.
-shell-entity-is-not-node-container = Target entity is not a node container.
-shell-node-group-is-invalid = Invalid node group specified. Valid groups: { $groups }.
+cmd-colornetwork-desc = Красит устройства атмосферы в указанный цвет
+cmd-colornetwork-help = colornetwork <uid> Pipe <Шестнадцатеричный Цвет>
+cmd-colornetwork-no-access = Сейчас вы не можете использовать команды редактирования карт.
+shell-entity-is-not-node-container = Целевой объект не является контейнером узлов.
+shell-node-group-is-invalid = Указана недопустимая группа узлов. Допустимые группы: { $groups }.

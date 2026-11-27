@@ -1,11 +1,11 @@
-ent-AirAlarm = air alarm
-    .desc = An air alarm. Alarms... air?
+ent-AirAlarm = воздушная сигнализация
+    .desc = Воздушная сигнализация. Подаёт сигнал... воздуху?
 
-ent-AirAlarmAssembly = air alarm assembly
-    .desc = An air alarm. Doesn't look like it'll be alarming air any time soon.
+ent-AirAlarmAssembly = каркас воздушной сигнализации
+    .desc = Воздушная сигнализация. Вряд ли она в ближайшее время подаст сигнал воздуху.
 
 ent-AirAlarmXeno = { ent-AirAlarm }
-    .desc = An alien air alarm. Hopefully they didn't breathe poison.
+    .desc = Инопланетная воздушная сигнализация. Надеюсь, они не дышали ядом.
 
 ent-AirAlarmAssemblyXeno = { ent-AirAlarmAssembly }
-    .desc = An alien air alarm. Why are the wires pulsating?...
+    .desc = Инопланетная воздушная сигнализация. Почему провода пульсируют?...

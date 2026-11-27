@@ -4,9 +4,9 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-megaseed-1 = We like plants!
-advertisement-megaseed-2 = Grow some crops
-advertisement-megaseed-3 = Grow, baby, growww!
-advertisement-megaseed-4 = Aw h'yeah son!
-advertisement-megaseed-5 = Mutating plants is fun!
-advertisement-megaseed-6 = All in for GMO!
+advertisement-megaseed-1 = Мы любим растения!
+advertisement-megaseed-2 = Выращивайте урожай
+advertisement-megaseed-3 = Расти, детка, расти-и-и!
+advertisement-megaseed-4 = О да-а-а, сынок!
+advertisement-megaseed-5 = Вызывать мутации у растений - это весело!
+advertisement-megaseed-6 = Мы за ГМО!

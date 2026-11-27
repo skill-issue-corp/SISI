@@ -1,34 +1,34 @@
-ent-BorgChassisDerelictSyndicateAssault = derelict syndicate assasult cyborg
-    .desc = A lean, mean killing machine with access to a variety of deadly modules. This one is in a state of great disrepair.
+ent-BorgChassisDerelictSyndicateAssault = заброшенный штурмовой киборг синдиката
+    .desc = Стройная и беспощадная машина для убийств с целым арсеналом смертоносных модулей. Этот экземпляр в ужасном состоянии.
 
-ent-BorgChassisUrist = Urist McBorg
-    .desc = An abomination that supposedly assists in station activity.
+ent-BorgChassisUrist = Урист МакБорг
+    .desc = Мерзость, которая якобы помогает в работе станции.
 
 ent-PlayerBorgUrist = { ent-BorgChassisUrist }
     .desc = { ent-BorgChassisUrist.desc }
-    .suffix = Battery, Module
+    .suffix = Батарея, Модуль
 
 ent-PlayerBorgUristGhostRole = { ent-PlayerBorgUrist }
     .desc = { ent-PlayerBorgUrist.desc }
-    .suffix = Ghost role
+    .suffix = Роль призрака
 
-ent-BorgChassisMiningBasic = basic mining cyborg
+ent-BorgChassisMiningBasic = базовый киборг-шахтёр
     .desc = { ent-BorgChassisMining.desc }
 
-ent-BorgChassisEngineerBasic = basic engineer cyborg
+ent-BorgChassisEngineerBasic = базовый киборг-инженер
     .desc = { ent-BorgChassisEngineer.desc }
 
-ent-BorgChassisJanitorBasic = basic janitor cyborg
+ent-BorgChassisJanitorBasic = базовый киборг-уборщик
     .desc = { ent-BorgChassisJanitor.desc }
 
-ent-BorgChassisMedicalMedbot = medbot cyborg
+ent-BorgChassisMedicalMedbot = киборг-медбот
     .desc = { ent-BorgChassisMedical.desc }
 
-ent-BorgChassisServiceBrobot = brobot cyborg
+ent-BorgChassisServiceBrobot = киборг-бробот
     .desc = { ent-BorgChassisService.desc }
 
-ent-BorgChassisServiceWaitress = waitress cyborg
+ent-BorgChassisServiceWaitress = киборг-официантка
     .desc = { ent-BorgChassisService.desc }
 
-ent-BorgChassisServiceRich = rich cyborg
+ent-BorgChassisServiceRich = богатый киборг
     .desc = { ent-BorgChassisService.desc }

@@ -1,14 +1,14 @@
-ent-ClothingOuterCultArmor = true nar'sien hardened armor
-    .desc = heavily-armored exosuit worn by warriors of the Nar'Sien cult. It can withstand hard vacuum.
+ent-ClothingOuterCultArmor = истинная укреплённая броня нар'си
+    .desc = тяжёлый бронированный экзокостюм воинов культа Нар'Си. Выдерживает глубокий вакуум.
 
-ent-ClothingHeadHelmetCultArmor = true nar'sien hardened helmet
-    .desc = A heavily-armored helmet worn by warriors of the Nar'Sien cult. It can withstand hard vacuum.
+ent-ClothingHeadHelmetCultArmor = истинный укреплённый шлем нар'си
+    .desc = Тяжёлый бронированный шлем воинов культа Нар'Си. Выдерживает глубокий вакуум.
 
-ent-ClothingOuterRobesCultTrue = flagellant's robe
-    .desc = Blood-soaked robes infused with dark magic; allows the user to move at inhuman speeds.
+ent-ClothingOuterRobesCultTrue = роба флагелланта
+    .desc = Пропитанная кровью роба, наделённая тёмной магией; позволяет двигаться с нечеловеческой скоростью.
 
-ent-ClothingHeadHatHoodCultHoodTrue = flagellant's hood
-    .desc = A blood-soaked hood infused with dark magic.
+ent-ClothingHeadHatHoodCultHoodTrue = капюшон флагелланта
+    .desc = Пропитанный кровью капюшон, наделённый тёмной магией.
 
-ent-ClothingEyeCultBlindfold = zealot's blindfold
-    .desc = May Nar'Sie guide you through the darkness and shield you from the light
+ent-ClothingEyeCultBlindfold = повязка фанатика
+    .desc = Да проведёт вас Нар'Си сквозь тьму и убережёт от света

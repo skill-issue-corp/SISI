@@ -1,17 +1,17 @@
-ent-SprayPainterRecharging = spray painter
-    .desc = A spray painter for painting airlocks, pipes, and other items.
-    .suffix = Admeme
+ent-SprayPainterRecharging = краскопульт
+    .desc = Краскопульт для окрашивания шлюзов, труб и других предметов.
+    .suffix = Адмеме
 
 ent-SprayPainter = { ent-SprayPainterRecharging }
     .desc = { ent-SprayPainterRecharging.desc }
 
-ent-SprayPainterBorg = experimental spray painter
-    .desc = An experimental recharging spray painter that can infinitely replicate compressed paint.
-    .suffix = Borg
+ent-SprayPainterBorg = экспериментальный краскопульт
+    .desc = Экспериментальный самозаряжающийся краскопульт, способный бесконечно воспроизводить сжатую краску.
+    .suffix = Борг
 
 ent-SprayPainterEmpty = { ent-SprayPainter }
     .desc = { ent-SprayPainter.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-SprayPainterAmmo = compressed paint
-    .desc = A cartridge of highly compressed paint, commonly used in spray painters.
+ent-SprayPainterAmmo = сжатая краска
+    .desc = Картридж с сильно сжатой краской, обычно используется в краскопультах.

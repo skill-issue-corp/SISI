@@ -1,58 +1,58 @@
-ent-CMBaseXeno = ancient base xeno
-    .desc = An alien drone.
+ent-CMBaseXeno = базовый древний ксенос
+    .desc = Инопланетный дрон.
 
-ent-CMMobXenoDrone = ancient drone
+ent-CMMobXenoDrone = древний дрон
     .desc = { ent-CMBaseXeno.desc }
 
-ent-CMMobXenoBurrower = ancient Burrower
-    .desc = A beefy alien with sharp claws.
+ent-CMMobXenoBurrower = древний Землерой
+    .desc = Крупный пришелец с острыми когтями.
 
-ent-CMMobXenoWarrior = ancient warrior
-    .desc = A beefy alien with an armored carapace.
+ent-CMMobXenoWarrior = древний воин
+    .desc = Крупный пришелец с бронированным панцирем.
 
-ent-CMMobXenoCrusher = ancient crusher
-    .desc = A huge alien with an enormous armored crest.
+ent-CMMobXenoCrusher = древний крушитель
+    .desc = Огромный пришелец с массивным бронированным гребнем.
 
-ent-CMMobXenoRavager = ancient ravager
-    .desc = A huge, nasty red alien with enormous scythed claws.
+ent-CMMobXenoRavager = древний опустошитель
+    .desc = Огромный злобный красный пришелец с громадными серповидными когтями.
 
-ent-CMMobXenoKing = ancient king
-    .desc = A massive alien covered in spines and armoured plates.
+ent-CMMobXenoKing = древний король
+    .desc = Массивный пришелец, покрытый шипами и бронепластинами.
 
-ent-CMMobXenoQueen = ancient queen
-    .desc = The Queen, in all her glory.
+ent-CMMobXenoQueen = древняя королева
+    .desc = Королева во всём своём великолепии.
 
-ent-CMMobXenoRogueKing = ancient rogue king
-    .desc = Driven into isolation, after all these years, this King has grown to be an unstoppable killing machine.
+ent-CMMobXenoRogueKing = древний король-изгой
+    .desc = Изгнанный, за все эти годы Король превратился в неудержимую машину для убийств.
 
 ent-CMMobXenoDroneSentient = { ent-CMMobXenoDrone }
     .desc = { ent-CMMobXenoDrone.desc }
-    .suffix = Sentient
+    .suffix = Разумный
 
 ent-CMMobXenoBurrowerSentient = { ent-CMMobXenoBurrower }
     .desc = { ent-CMMobXenoBurrower.desc }
-    .suffix = Sentient
+    .suffix = Разумный
 
 ent-CMMobXenoWarriorSentient = { ent-CMMobXenoWarrior }
     .desc = { ent-CMMobXenoWarrior.desc }
-    .suffix = Sentient
+    .suffix = Разумный
 
 ent-CMMobXenoCrusherSentient = { ent-CMMobXenoCrusher }
     .desc = { ent-CMMobXenoCrusher.desc }
-    .suffix = Sentient
+    .suffix = Разумный
 
 ent-CMMobXenoRavagerSentient = { ent-CMMobXenoRavager }
     .desc = { ent-CMMobXenoRavager.desc }
-    .suffix = Sentient
+    .suffix = Разумный
 
 ent-CMMobXenoKingSentient = { ent-CMMobXenoKing }
     .desc = { ent-CMMobXenoKing.desc }
-    .suffix = Sentient
+    .suffix = Разумный
 
 ent-CMMobXenoQueenSentient = { ent-CMMobXenoQueen }
     .desc = { ent-CMMobXenoQueen.desc }
-    .suffix = Sentient
+    .suffix = Разумный
 
 ent-CMMobXenoRogueKingSentient = { ent-CMMobXenoRogueKing }
     .desc = { ent-CMMobXenoRogueKing.desc }
-    .suffix = Sentient
+    .suffix = Разумный

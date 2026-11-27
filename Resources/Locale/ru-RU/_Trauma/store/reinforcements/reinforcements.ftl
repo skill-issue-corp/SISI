@@ -1,127 +1,127 @@
-store-preset-name-reinforcements = Reinforcements
+store-preset-name-reinforcements = Подкрепления
 
-reinforcement-detective-name = Hire Detective
-reinforcement-detective-desc = Hire a detective to investigate crimes and assist security. Minimum arrival time of three minutes.
+reinforcement-detective-name = Нанять Детектива
+reinforcement-detective-desc = Нанять детектива для расследования преступлений и помощи службе безопасности. Прибудет не раньше чем через три минуты.
 
-reinforcement-sec-name = Hire Security Officer
-reinforcement-sec-desc = Hire a security officer to help maintain order on the station. Minimum arrival time of three minutes.
+reinforcement-sec-name = Нанять Офицера Службы Безопасности
+reinforcement-sec-desc = Нанять офицера службы безопасности, чтобы он помогал поддерживать порядок на станции. Прибудет не раньше чем через три минуты.
 
-reinforcement-sec-express-name = Hire Security Officer (Express)
-reinforcement-sec-express-desc = Hire a security officer for rapid response. Minimum arrival time of thirty seconds.
+reinforcement-sec-express-name = Нанять Офицера Службы Безопасности (Экспресс)
+reinforcement-sec-express-desc = Нанять офицера службы безопасности для быстрого реагирования. Прибудет не раньше чем через тридцать секунд.
 
-reinforcement-sec-specialist-name = Hire Security Specialist
-reinforcement-sec-specialist-desc = Hire an armored and armed security specialist. Minimum arrival time of three minutes.
+reinforcement-sec-specialist-name = Нанять Специалиста Службы Безопасности
+reinforcement-sec-specialist-desc = Нанять специалиста службы безопасности с бронёй и оружием. Прибудет не раньше чем через три минуты.
 
-reinforcement-sec-specialist-laser-name = Hire Security Specialist (Laser)
-reinforcement-sec-specialist-laser-desc = Hire an armored security specialist equipped with a laser carbine. Minimum arrival time of three minutes.
+reinforcement-sec-specialist-laser-name = Нанять Специалиста Службы Безопасности (Лазер)
+reinforcement-sec-specialist-laser-desc = Нанять специалиста службы безопасности с бронёй и лазерным карабином. Прибудет не раньше чем через три минуты.
 
-reinforcement-sec-specialist-riot-melee-name = Hire Security Specialist (Riot - Melee)
-reinforcement-sec-specialist-riot-melee-desc = Hire an armored security specialist equipped for close-quarters riot control. Minimum arrival time of three minutes.
+reinforcement-sec-specialist-riot-melee-name = Нанять Специалиста Службы Безопасности (Беспорядки - Ближний Бой)
+reinforcement-sec-specialist-riot-melee-desc = Нанять специалиста службы безопасности с бронёй и снаряжением для подавления беспорядков в ближнем бою. Прибудет не раньше чем через три минуты.
 
-reinforcement-sec-specialist-riot-ranged-name = Hire Security Specialist (Riot - Ranged)
-reinforcement-sec-specialist-riot-ranged-desc = Hire an armored security specialist equipped for ranged riot control. Minimum arrival time of three minutes.
+reinforcement-sec-specialist-riot-ranged-name = Нанять Специалиста Службы Безопасности (Беспорядки - Дальний Бой)
+reinforcement-sec-specialist-riot-ranged-desc = Нанять специалиста службы безопасности с бронёй и снаряжением для подавления беспорядков на расстоянии. Прибудет не раньше чем через три минуты.
 
-reinforcement-sec-specialist-heavy-laser-name = Hire Security Specialist (Heavy Laser)
-reinforcement-sec-specialist-heavy-laser-desc = Hire an armored security specialist equipped with a laser cannon. Minimum arrival time of three minutes.
+reinforcement-sec-specialist-heavy-laser-name = Нанять Специалиста Службы Безопасности (Тяжёлый Лазер)
+reinforcement-sec-specialist-heavy-laser-desc = Нанять специалиста службы безопасности с бронёй и лазерной пушкой. Прибудет не раньше чем через три минуты.
 
-reinforcement-sec-specialist-shield-name = Hire Security Specialist (Shield)
-reinforcement-sec-specialist-shield-desc = Hire an armored security specialist equipped with a ballistic shield. Minimum arrival time of three minutes.
+reinforcement-sec-specialist-shield-name = Нанять Специалиста Службы Безопасности (Щит)
+reinforcement-sec-specialist-shield-desc = Нанять специалиста службы безопасности с бронёй и баллистическим щитом. Прибудет не раньше чем через три минуты.
 
-reinforcement-sec-specialist-brigmedic-name = Hire Security Specialist (Brigmedic)
-reinforcement-sec-specialist-brigmedic-desc = Hire a security brigmedic trained in both combat and medicine. Minimum arrival time of three minutes.
+reinforcement-sec-specialist-brigmedic-name = Нанять Специалиста Службы Безопасности (Бригмедик)
+reinforcement-sec-specialist-brigmedic-desc = Нанять бригмедика с боевой и медицинской подготовкой. Прибудет не раньше чем через три минуты.
 
-reinforcement-cadet-name = Hire Security Cadet
-reinforcement-cadet-desc = Hire a security cadet, eager to learn and assist the department. Minimum arrival time of three minutes.
+reinforcement-cadet-name = Нанять Курсанта Службы Безопасности
+reinforcement-cadet-desc = Нанять курсанта службы безопасности, готового учиться и помогать отделу. Прибудет не раньше чем через три минуты.
 
-reinforcement-doctor-name = Hire Doctor
-reinforcement-doctor-desc = Hire a doctor to keep the crew alive and patched up. Minimum arrival time of three minutes.
+reinforcement-doctor-name = Нанять Врача
+reinforcement-doctor-desc = Нанять врача, чтобы он лечил экипаж и сохранял ему жизнь. Прибудет не раньше чем через три минуты.
 
-reinforcement-chemist-name = Hire Chemist
-reinforcement-chemist-desc = Hire a chemist to synthesize medicine, stimulants, and suspicious liquids. Minimum arrival time of three minutes.
+reinforcement-chemist-name = Нанять Химика
+reinforcement-chemist-desc = Нанять химика для синтеза лекарств, стимуляторов и подозрительных жидкостей. Прибудет не раньше чем через три минуты.
 
-reinforcement-paramedic-name = Hire Paramedic
-reinforcement-paramedic-desc = Hire a paramedic for rapid medical response and corpse retrieval. Minimum arrival time of three minutes.
+reinforcement-paramedic-name = Нанять Парамедика
+reinforcement-paramedic-desc = Нанять парамедика для оказания экстренной помощи и эвакуации трупов. Прибудет не раньше чем через три минуты.
 
-reinforcement-virologist-name = Hire Virologist
-reinforcement-virologist-desc = Hire a virologist to research diseases and hopefully not end the station. Minimum arrival time of three minutes.
+reinforcement-virologist-name = Нанять Вирусолога
+reinforcement-virologist-desc = Нанять вирусолога, чтобы он изучал болезни и, будем надеяться, не погубил станцию. Прибудет не раньше чем через три минуты.
 
-reinforcement-psychologist-name = Hire Psychologist
-reinforcement-psychologist-desc = Hire a psychologist to keep the crew sane through traumatic incidents. Minimum arrival time of three minutes.
+reinforcement-psychologist-name = Нанять Психолога
+reinforcement-psychologist-desc = Нанять психолога, чтобы он помогал экипажу сохранить рассудок в тяжёлых ситуациях. Прибудет не раньше чем через три минуты.
 
-reinforcement-medical-intern-name = Hire Medical Intern
-reinforcement-medical-intern-desc = Hire a medical intern to assist doctors and learn on the job. Minimum arrival time of three minutes.
+reinforcement-medical-intern-name = Нанять Медицинского Интерна
+reinforcement-medical-intern-desc = Нанять медицинского интерна, чтобы он помогал врачам и учился на практике. Прибудет не раньше чем через три минуты.
 
-reinforcement-scientist-name = Hire Scientist
-reinforcement-scientist-desc = Hire a scientist to conduct dangerous experiments and advance station research. Minimum arrival time of three minutes.
+reinforcement-scientist-name = Нанять Учёного
+reinforcement-scientist-desc = Нанять учёного для проведения опасных экспериментов и развития науки на станции. Прибудет не раньше чем через три минуты.
 
-reinforcement-roboticist-name = Hire Roboticist
-reinforcement-roboticist-desc = Hire a roboticist to construct cyborgs, repair silicon life, and keep the station's silicons operational. Minimum arrival time of three minutes.
+reinforcement-roboticist-name = Нанять Робототехника
+reinforcement-roboticist-desc = Нанять робототехника, чтобы он собирал киборгов и поддерживал синтетиков станции в рабочем состоянии. Прибудет не раньше чем через три минуты.
 
-reinforcement-geneticist-name = Hire Geneticist
-reinforcement-geneticist-desc = Hire a geneticist to research genetics and explore the mysteries hidden inside DNA. Minimum arrival time of three minutes.
+reinforcement-geneticist-name = Нанять Генетика
+reinforcement-geneticist-desc = Нанять генетика для исследований и раскрытия тайн ДНК. Прибудет не раньше чем через три минуты.
 
-reinforcement-research-assistant-name = Hire Research Assistant
-reinforcement-research-assistant-desc = Hire a research assistant to support scientific operations. Minimum arrival time of three minutes.
+reinforcement-research-assistant-name = Нанять Научного Ассистента
+reinforcement-research-assistant-desc = Нанять научного ассистента для помощи в исследованиях. Прибудет не раньше чем через три минуты.
 
-reinforcement-dclass-name = Purchase D-Class
-reinforcement-dclass-desc = Hire a disposable, taken from some backwater planet. Minimum arrival time of three minutes.
+reinforcement-dclass-name = Купить Сотрудника Класса D
+reinforcement-dclass-desc = Нанять расходный персонал с какой-то захолустной планеты. Прибудет не раньше чем через три минуты.
 
-reinforcement-cargo-name = Hire Cargo Technician
-reinforcement-cargo-desc = Hire a cargo technician to move crates and do bounties. Minimum arrival time of three minutes.
+reinforcement-cargo-name = Нанять Грузчика
+reinforcement-cargo-desc = Нанять грузчика для перевозки ящиков и выполнения заказов. Прибудет не раньше чем через три минуты.
 
-reinforcement-salvage-name = Hire Salvage Specialist
-reinforcement-salvage-desc = Hire a Lavaland salvage specialist skilled in mining ore, and surviving hostile expeditions. Minimum arrival time of three minutes.
+reinforcement-salvage-name = Нанять Утилизатора
+reinforcement-salvage-desc = Нанять утилизатора с Лаваленда, умеющего добывать руду и выживать в опасных экспедициях. Прибудет не раньше чем через три минуты.
 
-reinforcement-engineer-name = Hire Engineer
-reinforcement-engineer-desc = Hire an engineer to repair the station and curse the power grid. Tools included. Minimum arrival time of three minutes.
+reinforcement-engineer-name = Нанять Инженера
+reinforcement-engineer-desc = Нанять инженера, чтобы он чинил станцию и проклинал электросеть. Инструменты в комплекте. Прибудет не раньше чем через три минуты.
 
-reinforcement-atmos-name = Hire Atmos Tech
-reinforcement-atmos-desc = Hire an atmos tech to keep the air breathable and the phoron contained. Tools included. Minimum arrival time of three minutes.
+reinforcement-atmos-name = Нанять Атмосферного Техника
+reinforcement-atmos-desc = Нанять атмосферного техника, чтобы воздух оставался пригодным для дыхания, а форон не вытекал. Инструменты в комплекте. Прибудет не раньше чем через три минуты.
 
-reinforcement-technician-name = Hire Technical Assistant
-reinforcement-technician-desc = Hire a technical assistant to help engineers with maintenance duties. Minimum arrival time of three minutes.
+reinforcement-technician-name = Нанять Технического Ассистента
+reinforcement-technician-desc = Нанять технического ассистента, чтобы он помогал инженерам обслуживать станцию. Прибудет не раньше чем через три минуты.
 
-reinforcement-bartender-name = Hire Bartender
-reinforcement-bartender-desc = Hire a bartender to serve drinks and listen to crew complaints. Minimum arrival time of three minutes.
+reinforcement-bartender-name = Нанять Бармена
+reinforcement-bartender-desc = Нанять бармена, чтобы он подавал напитки и выслушивал жалобы экипажа. Прибудет не раньше чем через три минуты.
 
-reinforcement-chef-name = Hire Chef
-reinforcement-chef-desc = Hire a chef to feed the crew something hopefully edible. Minimum arrival time of three minutes.
+reinforcement-chef-name = Нанять Повара
+reinforcement-chef-desc = Нанять повара, чтобы он кормил экипаж чем-нибудь, будем надеяться, съедобным. Прибудет не раньше чем через три минуты.
 
-reinforcement-botanist-name = Hire Botanist
-reinforcement-botanist-desc = Hire a botanist to grow crops, herbs, and occasionally dangerous plants. Minimum arrival time of three minutes.
+reinforcement-botanist-name = Нанять Ботаника
+reinforcement-botanist-desc = Нанять ботаника для выращивания урожая, трав и иногда опасных растений. Прибудет не раньше чем через три минуты.
 
-reinforcement-janitor-name = Hire Janitor
-reinforcement-janitor-desc = Hire a janitor to keep the station clean and free of slippery hazards. Minimum arrival time of three minutes.
+reinforcement-janitor-name = Нанять Уборщика
+reinforcement-janitor-desc = Нанять уборщика, чтобы на станции было чисто и никто не подскальзывался. Прибудет не раньше чем через три минуты.
 
-reinforcement-lawyer-name = Hire Lawyer
-reinforcement-lawyer-desc = Hire a lawyer to defend crew rights and weaponize corporate law. Minimum arrival time of three minutes.
+reinforcement-lawyer-name = Нанять Адвоката
+reinforcement-lawyer-desc = Нанять адвоката для защиты прав экипажа и использования корпоративного права в качестве оружия. Прибудет не раньше чем через три минуты.
 
-reinforcement-clown-name = Hire Clown
-reinforcement-clown-desc = Hire a clown to entertain the crew and spread chaos. Minimum arrival time of three minutes.
+reinforcement-clown-name = Нанять Клоуна
+reinforcement-clown-desc = Нанять клоуна, чтобы он развлекал экипаж и сеял хаос. Прибудет не раньше чем через три минуты.
 
-reinforcement-mime-name = Hire Mime
-reinforcement-mime-desc = Hire a mime to perform silent arts and confuse the crew. Minimum arrival time of three minutes.
+reinforcement-mime-name = Нанять Мима
+reinforcement-mime-desc = Нанять мима для безмолвных представлений, сбивающих экипаж с толку. Прибудет не раньше чем через три минуты.
 
-reinforcement-chaplain-name = Hire Chaplain
-reinforcement-chaplain-desc = Hire a chaplain to provide spiritual guidance and funeral services. Minimum arrival time of three minutes.
+reinforcement-chaplain-name = Нанять Священника
+reinforcement-chaplain-desc = Нанять священника для духовного наставления и погребальных обрядов. Прибудет не раньше чем через три минуты.
 
-reinforcement-librarian-name = Hire Librarian
-reinforcement-librarian-desc = Hire a librarian to archive knowledge and shush loud crew members. Minimum arrival time of three minutes.
+reinforcement-librarian-name = Нанять Библиотекаря
+reinforcement-librarian-desc = Нанять библиотекаря, чтобы он хранил знания и шикал на шумных членов экипажа. Прибудет не раньше чем через три минуты.
 
-reinforcement-musician-name = Hire Musician
-reinforcement-musician-desc = Hire a musician to boost morale through questionable performances. Minimum arrival time of three minutes.
+reinforcement-musician-name = Нанять Музыканта
+reinforcement-musician-desc = Нанять музыканта для поднятия боевого духа сомнительными выступлениями. Прибудет не раньше чем через три минуты.
 
-reinforcement-reporter-name = Hire Reporter
-reinforcement-reporter-desc = Hire a reporter to document station events and spread gossip professionally. Minimum arrival time of three minutes.
+reinforcement-reporter-name = Нанять Репортёра
+reinforcement-reporter-desc = Нанять репортёра, чтобы он освещал события на станции и профессионально разносил сплетни. Прибудет не раньше чем через три минуты.
 
-reinforcement-service-worker-name = Hire Service Worker
-reinforcement-service-worker-desc = Hire a service worker to fill whatever role nobody else wants. Minimum arrival time of three minutes.
+reinforcement-service-worker-name = Нанять Работника Сервиса
+reinforcement-service-worker-desc = Нанять работника сервиса на любую должность, которую никто больше не хочет. Прибудет не раньше чем через три минуты.
 
-reinforcement-assistant-name = Hire Assistant
-reinforcement-assistant-desc = Hire an assistant, fent not included. Minimum arrival time of three minutes.
+reinforcement-assistant-name = Нанять Ассистента
+reinforcement-assistant-desc = Нанять ассистента. Фентанил не входит в комплект. Прибудет не раньше чем через три минуты.
 
-bioweapon-manual-name = Purchase a bioweapon instruction manual
-bioweapon-manual-desc = Purchase a bioweapon manual that teaches the codes needed to command bioweapons.
+bioweapon-manual-name = Купить руководство по управлению биооружием
+bioweapon-manual-desc = Купить руководство, в котором описаны кодовые команды для управления биооружием.
 
-bioweapon-name = Purchase a bioweapon
-bioweapon-desc = Purchase a bioweapon mutant to carry out the orders of security.
+bioweapon-name = Купить биооружие
+bioweapon-desc = Купить мутанта-биооружие, который будет выполнять приказы службы безопасности.

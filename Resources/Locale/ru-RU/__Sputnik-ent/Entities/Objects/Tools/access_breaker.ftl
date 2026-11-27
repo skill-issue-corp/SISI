@@ -1,11 +1,11 @@
-ent-AccessBreakerUnlimited = authentication disruptor
-    .desc = A hacked access configurator, specialized to unlock and erase access from digital locks.
-    .suffix = Unlimited
+ent-AccessBreakerUnlimited = взломщик доступа
+    .desc = Взломанный конфигуратор доступа, предназначенный для отпирания цифровых замков и стирания их настроек доступа.
+    .suffix = Неограниченный
 
 ent-AccessBreaker = { ent-AccessBreakerUnlimited }
     .desc = { ent-AccessBreakerUnlimited.desc }
-    .suffix = Limited
+    .suffix = Ограниченный
 
-ent-XenoborgAccessBreaker = xenoborg authentication disruptor
-    .desc = An access scrubbing device, engineered by xenoborgs for disrupting digital locks.
-    .suffix = Limited
+ent-XenoborgAccessBreaker = взломщик доступа ксеноборгов
+    .desc = Устройство для стирания настроек доступа, разработанное ксеноборгами для взлома цифровых замков.
+    .suffix = Ограниченный

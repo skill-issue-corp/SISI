@@ -1,2 +1,2 @@
-ghost-role-information-rothulk-name = Rot Hulk
-ghost-role-information-rothulk-description = Summoned by the Wraith, you are a wretched abomination of filth and slime. Destroy everything in your path and die in a burst of glorious toxin.
+ghost-role-information-rothulk-name = Гнилой Гигант
+ghost-role-information-rothulk-description = Фантом призвал вас, жалкое порождение грязи и слизи. Уничтожьте всё на своём пути и погибните в великолепном облаке яда.

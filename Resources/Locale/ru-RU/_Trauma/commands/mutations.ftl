@@ -1,7 +1,7 @@
-command-description-mutation-add = Adds an active mutation from an entity.
-command-description-mutation-remove = Removes an active mutation from an entity.
-command-description-mutation-clear = Removes all active and dormant mutations from an entity.
-command-description-mutation-list = Returns a list of active mutations an entity has.
-command-description-mutation-dormant = Returns a list of dormant mutations an entity has.
-command-description-mutation-scramble = Clears then randomizes an entity's dormant mutations.
-command-description-mutation-dump = Lists the active and dormant mutations an entity has, as well as their round number and entityuid.
+command-description-mutation-add = Добавляет сущности активную мутацию.
+command-description-mutation-remove = Удаляет у сущности активную мутацию.
+command-description-mutation-clear = Удаляет у сущности все активные и спящие мутации.
+command-description-mutation-list = Возвращает список активных мутаций сущности.
+command-description-mutation-dormant = Возвращает список спящих мутаций сущности.
+command-description-mutation-scramble = Стирает спящие мутации сущности и назначает новые случайным образом.
+command-description-mutation-dump = Выводит активные и спящие мутации сущности, а также номер раунда и entityuid.

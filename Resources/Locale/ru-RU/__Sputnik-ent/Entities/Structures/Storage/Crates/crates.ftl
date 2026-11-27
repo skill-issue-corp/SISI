@@ -1,130 +1,130 @@
-ent-CrateGenericSteel = crate
+ent-CrateGenericSteel = ящик
     .desc = { ent-CrateBaseWeldable.desc }
 
-ent-CratePlastic = plastic crate
+ent-CratePlastic = пластиковый ящик
     .desc = { ent-CrateBaseWeldable.desc }
 
-ent-CrateFreezer = freezer
+ent-CrateFreezer = морозильник
     .desc = { ent-CratePlastic.desc }
 
-ent-CrateHydroponics = hydroponics crate
+ent-CrateHydroponics = ящик гидропоники
     .desc = { ent-CratePlastic.desc }
 
-ent-CrateMedical = medical crate
+ent-CrateMedical = медицинский ящик
     .desc = { ent-CratePlastic.desc }
 
-ent-CrateRadiation = radiation gear crate
-    .desc = Is not actually lead lined. Do not store your plutonium in this.
+ent-CrateRadiation = ящик противорадиационного снаряжения
+    .desc = На самом деле не обшит свинцом. Не храните в нём плутоний.
 
-ent-CrateInternals = oxygen crate
+ent-CrateInternals = кислородный ящик
     .desc = { ent-CratePlastic.desc }
 
-ent-CrateElectrical = electrical crate
+ent-CrateElectrical = ящик электротехнического снаряжения
     .desc = { ent-CrateGenericSteel.desc }
 
-ent-CrateEngineering = engineering crate
+ent-CrateEngineering = инженерный ящик
     .desc = { ent-CrateGenericSteel.desc }
 
-ent-CrateScience = science crate
+ent-CrateScience = научный ящик
     .desc = { ent-CrateGenericSteel.desc }
 
-ent-CrateSurgery = surgery crate
+ent-CrateSurgery = хирургический ящик
     .desc = { ent-CrateGenericSteel.desc }
 
-ent-CrateWeb = web crate
+ent-CrateWeb = ящик из паутины
     .desc = { ent-BaseCrate.desc }
 
-ent-CrateSecgear = secgear crate
+ent-CrateSecgear = ящик снаряжения СБ
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CrateEngineeringSecure = secure engineering crate
+ent-CrateEngineeringSecure = защищённый инженерный ящик
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CrateMedicalSecure = secure medical crate
+ent-CrateMedicalSecure = защищённый медицинский ящик
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CrateChemistrySecure = secure chemistry crate
+ent-CrateChemistrySecure = защищённый химический ящик
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CratePrivateSecure = private crate
+ent-CratePrivateSecure = личный ящик
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CrateScienceSecure = secure science crate
+ent-CrateScienceSecure = защищённый научный ящик
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CratePlasma = plasma crate
+ent-CratePlasma = ящик плазмы
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CrateSecure = secure crate
+ent-CrateSecure = защищённый ящик
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CrateHydroSecure = secure hydroponics crate
+ent-CrateHydroSecure = защищённый ящик гидропоники
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CrateWeaponSecure = secure weapon crate
+ent-CrateWeaponSecure = защищённый оружейный ящик
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CrateContrabandStorageSecure = contraband storage crate
-    .desc = An armory access locked crate for storing contraband confiscated from suspects or prisoners.
-    .suffix = Armory, Secure
+ent-CrateContrabandStorageSecure = ящик для контрабанды
+    .desc = Запирающийся ящик с доступом оружейной для хранения контрабанды, изъятой у подозреваемых или заключённых.
+    .suffix = Оружейная, Защищённый
 
-ent-CrateCommandSecure = command crate
+ent-CrateCommandSecure = командный ящик
     .desc = { ent-CrateBaseSecure.desc }
 
-ent-CrateSyndicateSecure = secure syndicate crate
-    .desc = A dark steel crate with red bands and a letter S embossed on the front.
+ent-CrateSyndicateSecure = защищённый ящик синдиката
+    .desc = Ящик из тёмной стали с красными полосами и выдавленной буквой S на лицевой стороне.
 
-ent-CrateLivestock = livestock crate
+ent-CrateLivestock = ящик для скота
     .desc = { ent-BaseCrate.desc }
 
-ent-CrateRodentCage = hamster cage
+ent-CrateRodentCage = клетка для хомяка
     .desc = { ent-BaseCrate.desc }
 
-ent-CrateBaseLockBox = lock box
-    .desc = A secure lock box. Funds from its sale will be distributed back to the department. Just remember: Cargo always takes a cut.
+ent-CrateBaseLockBox = ящик с замком
+    .desc = Защищённый ящик с замком. Выручка от продажи поступит обратно в отдел. Только помните: Карго всегда берёт свою долю.
 
-ent-CrateLockBoxEngineering = engineering lock box
+ent-CrateLockBoxEngineering = инженерный ящик с замком
     .desc = { ent-CrateBaseLockBox.desc }
 
-ent-CrateLockBoxMedical = medical lock box
+ent-CrateLockBoxMedical = медицинский ящик с замком
     .desc = { ent-CrateBaseLockBox.desc }
 
-ent-CrateLockBoxScience = science lock box
+ent-CrateLockBoxScience = научный ящик с замком
     .desc = { ent-CrateBaseLockBox.desc }
 
-ent-CrateLockBoxSecurity = security lock box
+ent-CrateLockBoxSecurity = ящик СБ с замком
     .desc = { ent-CrateBaseLockBox.desc }
 
-ent-CrateLockBoxService = service lock box
+ent-CrateLockBoxService = ящик обслуживания с замком
     .desc = { ent-CrateBaseLockBox.desc }
 
-ent-CratePirate = pirate chest
-    .desc = A space pirate chest, not for station lubbers.
+ent-CratePirate = пиратский сундук
+    .desc = Сундук космических пиратов, не для станционных крыс.
 
-ent-CrateToyBox = toy box
-    .desc = A box overflowing with fun.
-    .suffix = Empty
+ent-CrateToyBox = ящик для игрушек
+    .desc = Ящик, переполненный весельем.
+    .suffix = Пусто
 
-ent-CrateCoffin = coffin
-    .desc = A comfy coffin, excellent place for the vampires and corpses.
+ent-CrateCoffin = гроб
+    .desc = Уютный гроб, отличное место для вампиров и трупов.
 
-ent-CrateWoodenGrave = grave
-    .desc = Someone died here...
-    .suffix = wooden
+ent-CrateWoodenGrave = могила
+    .desc = Здесь кто-то умер...
+    .suffix = деревянная
 
-ent-CrateStoneGrave = grave
-    .desc = Someone died here...
-    .suffix = stone
+ent-CrateStoneGrave = могила
+    .desc = Здесь кто-то умер...
+    .suffix = каменная
 
-ent-CrateSyndicate = syndicate crate
-    .desc = A dark steel crate with red bands and a letter S embossed on the front.
+ent-CrateSyndicate = ящик синдиката
+    .desc = Ящик из тёмной стали с красными полосами и выдавленной буквой S на лицевой стороне.
 
-ent-CrateTrashCart = trash cart
+ent-CrateTrashCart = мусорная тележка
     .desc = { ent-StructureWheeled.desc }
 
-ent-CrateTrashCartJani = janitorial trash cart
+ent-CrateTrashCartJani = мусорная тележка уборщика
     .desc = { ent-CrateBaseSecure.desc }
 
 ent-InvisibleCrate = { ent-CrateBaseWeldable }
     .desc = { ent-CrateBaseWeldable.desc }
-    .suffix = Stealth
+    .suffix = Скрытная

@@ -1,2 +1,2 @@
-ent-KeyRingJanitor = janitor's key ring
-    .desc = A janitor's best friend; their trusty old key ring. You can never quite remember which key goes where.
+ent-KeyRingJanitor = связка ключей уборщика
+    .desc = Лучший друг уборщика – старая добрая связка ключей. Вечно не вспомнить, какой ключ куда подходит.

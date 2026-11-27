@@ -1,5 +1,5 @@
-ent-CarpRift = carp rift
-    .desc = A rift akin to the ones space carp use to travel long distances.
+ent-CarpRift = карпий разлом
+    .desc = Разлом, подобный тем, через которые космические карпы преодолевают большие расстояния.
 
 ent-MobDragonBrood = { "" }
     .desc = { "" }

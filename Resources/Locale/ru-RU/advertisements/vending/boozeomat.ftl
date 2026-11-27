@@ -6,25 +6,25 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-boozeomat-1 = I hope nobody asks me for a bloody cup o' tea...
-advertisement-boozeomat-2 = Alcohol is humanity's friend. Would you abandon a friend?
-advertisement-boozeomat-3 = Quite delighted to serve you!
-advertisement-boozeomat-4 = Is nobody thirsty on this station?
-advertisement-boozeomat-5 = Drink up!
-advertisement-boozeomat-6 = Booze is good for you!
-advertisement-boozeomat-7 = Alcohol is humanity's best friend.
-advertisement-boozeomat-8 = Care for a nice, cold beer?
-advertisement-boozeomat-9 = Nothing cures you like booze!
-advertisement-boozeomat-10 = Have a sip!
-advertisement-boozeomat-11 = Have a drink!
-advertisement-boozeomat-12 = Have a beer!
-advertisement-boozeomat-13 = Beer is good for you!
-advertisement-boozeomat-14 = Only the finest alcohol!
-advertisement-boozeomat-15 = Best quality booze since 2053!
-advertisement-boozeomat-16 = Award-winning wine!
-advertisement-boozeomat-17 = Maximum alcohol!
-advertisement-boozeomat-18 = Man loves beer.
-advertisement-boozeomat-19 = A toast for progress!
-thankyou-boozeomat-1 = Please drink responsibly!
-thankyou-boozeomat-2 = Please drink un-responsibly!
-thankyou-boozeomat-3 = Please enjoy your drink!
+advertisement-boozeomat-1 = Надеюсь, никто не попросит у меня чёртову чашку чая...
+advertisement-boozeomat-2 = Алкоголь - друг человечества. Вы бы бросили друга?
+advertisement-boozeomat-3 = Очень рад вас обслужить!
+advertisement-boozeomat-4 = На этой станции никто не хочет пить?
+advertisement-boozeomat-5 = Пейте до дна!
+advertisement-boozeomat-6 = Выпивка вам на пользу!
+advertisement-boozeomat-7 = Алкоголь - лучший друг человечества.
+advertisement-boozeomat-8 = Хотите холодненького пива?
+advertisement-boozeomat-9 = Ничто не лечит так, как выпивка!
+advertisement-boozeomat-10 = Сделайте глоток!
+advertisement-boozeomat-11 = Выпейте!
+advertisement-boozeomat-12 = Возьмите пива!
+advertisement-boozeomat-13 = Пиво вам на пользу!
+advertisement-boozeomat-14 = Только лучшие напитки!
+advertisement-boozeomat-15 = Лучшая выпивка с 2053 года!
+advertisement-boozeomat-16 = Вино, отмеченное наградами!
+advertisement-boozeomat-17 = Максимум алкоголя!
+advertisement-boozeomat-18 = Человек любит пиво.
+advertisement-boozeomat-19 = Тост за прогресс!
+thankyou-boozeomat-1 = Пожалуйста, пейте ответственно!
+thankyou-boozeomat-2 = Пожалуйста, пейте безответственно!
+thankyou-boozeomat-3 = Пожалуйста, наслаждайтесь своим напитком!

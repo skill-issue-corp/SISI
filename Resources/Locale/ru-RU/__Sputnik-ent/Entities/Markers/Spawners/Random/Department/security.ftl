@@ -1,19 +1,19 @@
-ent-LootSpawnerSecurityBasic = security loot spawner
+ent-LootSpawnerSecurityBasic = спавнер добычи СБ
     .desc = { ent-MarkerBase.desc }
-    .suffix = Gear, Simple
+    .suffix = Снаряжение, Простое
 
-ent-LootSpawnerSecurity = security loot spawner
+ent-LootSpawnerSecurity = спавнер добычи СБ
     .desc = { ent-MarkerBase.desc }
-    .suffix = Gear, Better
+    .suffix = Снаряжение, Улучшенное
 
-ent-LootSpawnerArmory = armory loot spawner
+ent-LootSpawnerArmory = спавнер добычи из оружейной
     .desc = { ent-MarkerBase.desc }
-    .suffix = Guns, Armor
+    .suffix = Оружие, Броня
 
-ent-LootSpawnerArmoryGunsOnly = armory loot spawner
+ent-LootSpawnerArmoryGunsOnly = спавнер добычи из оружейной
     .desc = { ent-MarkerBase.desc }
-    .suffix = Guns
+    .suffix = Оружие
 
-ent-LootSpawnerArmoryArmorOnly = armory loot spawner
+ent-LootSpawnerArmoryArmorOnly = спавнер добычи из оружейной
     .desc = { ent-MarkerBase.desc }
-    .suffix = Armor
+    .suffix = Броня

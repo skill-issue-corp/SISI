@@ -1,18 +1,18 @@
-ent-BaseMagazineRifle = magazine (.20 rifle)
+ent-BaseMagazineRifle = магазин (.20 винтовочные)
     .desc = { ent-BaseItem.desc }
 
-ent-MagazineRifle = magazine (.20 rifle)
-    .desc = 25-round double stack magazine for combat rifles. Intended to hold general-purpose kinetic ammunition.
+ent-MagazineRifle = магазин (.20 винтовочные)
+    .desc = Двухрядный магазин на 25 патронов для боевых винтовок. Предназначен для обычных кинетических боеприпасов.
 
-ent-MagazineRifleEmpty = magazine (.20 rifle any)
-    .desc = 25-round double stack magazine for combat rifles.
-    .suffix = empty
+ent-MagazineRifleEmpty = магазин (.20 винтовочные любые)
+    .desc = Двухрядный магазин на 25 патронов для боевых винтовок.
+    .suffix = пусто
 
-ent-MagazineRifleIncendiary = magazine (.20 rifle incendiary)
-    .desc = 25-round double stack magazine for combat rifles. Intended to hold self-igniting incendiary ammunition.
+ent-MagazineRifleIncendiary = магазин (.20 винтовочные зажигательные)
+    .desc = Двухрядный магазин на 25 патронов для боевых винтовок. Предназначен для самовоспламеняющихся зажигательных боеприпасов.
 
-ent-MagazineRiflePractice = magazine (.20 rifle practice)
-    .desc = 25-round double stack magazine for combat rifles. Intended to hold harmless practice ammunition.
+ent-MagazineRiflePractice = магазин (.20 винтовочные учебные)
+    .desc = Двухрядный магазин на 25 патронов для боевых винтовок. Предназначен для безвредных учебных боеприпасов.
 
-ent-MagazineRifleUranium = magazine (.20 rifle uranium)
-    .desc = 25-round double stack magazine for combat rifles. Intended to hold exotic uranium-core ammunition.
+ent-MagazineRifleUranium = магазин (.20 винтовочные урановые)
+    .desc = Двухрядный магазин на 25 патронов для боевых винтовок. Предназначен для экзотических боеприпасов с урановым сердечником.

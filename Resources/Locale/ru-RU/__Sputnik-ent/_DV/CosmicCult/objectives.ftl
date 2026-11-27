@@ -13,11 +13,11 @@ ent-CosmicMonumentObjective = { ent-BaseCosmicCultObjective }
 ent-CosmicFinalityObjective = { ent-BaseCosmicCultObjective }
     .desc = { ent-BaseCosmicCultObjective.desc }
 
-ent-ColossusSurviveObjective = PERSIST
-    .desc = Persist until the end of all things.
+ent-ColossusSurviveObjective = ВЫСТОЯТЬ
+    .desc = Выстоите до конца всего сущего.
 
-ent-ColossusEffigyObjective = BECKON
-    .desc = Call forth an Effigy of Entropy.
+ent-ColossusEffigyObjective = ПРИЗВАТЬ
+    .desc = Призовите Изваяние Энтропии.
 
 ent-ColossusFinalityObjective = { ent-BaseCosmicColossusObjective }
     .desc = { ent-BaseCosmicColossusObjective.desc }

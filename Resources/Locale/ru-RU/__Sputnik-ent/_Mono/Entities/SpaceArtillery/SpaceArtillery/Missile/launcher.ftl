@@ -1,11 +1,11 @@
-ent-WeaponShuttleMissileVespera = ADMP VESPERA missile launcher
-    .desc = A rapid-fire swarm missile pod manufactured by Aetherion Dynamics. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleMissileVespera = ракетная установка ADMP VESPERA
+    .desc = Скорострельная установка залпового пуска ракет производства «Этерион Дайнэмикс». Можно активировать дистанционно или подключить к серверу управления огнём.
 
-ent-WeaponShuttleMissileWhirlwind = ASM Whirlwind missile launcher
-    .desc = ASM-501 Smerchs heavy torpedo launcher. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleMissileWhirlwind = ракетная установка ASM Whirlwind
+    .desc = Установка пуска тяжёлых торпед ASM-501 «Смерч». Можно активировать дистанционно или подключить к серверу управления огнём.
 
-ent-WeaponShuttleMissileVanyk = ASM Vanyk missile launcher
-    .desc = ASM-302 Vanyk basic guided missile pod. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleMissileVanyk = ракетная установка ASM Vanyk
+    .desc = Базовая пусковая установка для управляемых ракет ASM-302 Vanyk. Можно активировать дистанционно или подключить к серверу управления огнём.
 
-ent-WeaponShuttleMissileTovek = TOVEK missile launcher
-    .desc = A hybrid EMP missile pod manufactured by Aetherion Dynamics. Deals both physical and EMP damage. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleMissileTovek = ракетная установка TOVEK
+    .desc = Установка пуска гибридных ЭМИ-ракет производства «Этерион Дайнэмикс». Наносит физический урон и поражает электронику электромагнитным импульсом. Можно активировать дистанционно или подключить к серверу управления огнём.

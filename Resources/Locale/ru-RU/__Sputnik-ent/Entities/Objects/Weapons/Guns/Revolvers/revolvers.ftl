@@ -1,29 +1,29 @@
-ent-BaseWeaponRevolver = BaseWeaponRevolver
-    .desc = A rooty tooty point and shooty.
+ent-BaseWeaponRevolver = РевольверБазовый
+    .desc = Наводи да пали!
 
 ent-WeaponRevolverDeckard = Deckard
-    .desc = A beautifully machined, custom-built revolver. Used when there is no time for the Voight-Kampff test. Loads 5 rounds of .45 magnum.
+    .desc = Изящный револьвер, изготовленный на заказ. Пригодится, когда нет времени на тест Войта-Кампфа. Вмещает 5 патронов .45 магнум.
 
 ent-WeaponRevolverInspector = Inspector
-    .desc = A double-action revolver manufactured by various companies. It is readily available on the civilian market, making it a popular choice among private investigators. You feel lucky just holding it. Loads 6 rounds of .45 magnum.
+    .desc = Револьвер двойного действия. Его выпускают разные компании, и он свободно продаётся на гражданском рынке, поэтому популярен среди частных сыщиков. Стоит взять его в руки, и кажется, что вам повезёт. Вмещает 6 патронов .45 магнум.
 
 ent-WeaponRevolverMateba = Mateba
-    .desc = A modern revolver used by Nanotrasen’s elite, near mythical ‘Death Squad’ task force. Its unique trigger action and barrel placement enable a high fire rate with minimal muzzle flip. Many have looked down this barrel, but few have lived to tell of it. Loads 6 rounds of .45 magnum.
+    .desc = Современный револьвер элитной, почти мифической оперативной группы NanoTrasen «Эскадрон Смерти». Необычный спусковой механизм и расположение ствола обеспечивают высокую скорострельность при минимальном подбросе. Многие смотрели в этот ствол, но мало кто выжил, чтобы об этом рассказать. Вмещает 6 патронов .45 магнум.
 
 ent-WeaponRevolverMatebaAP = { ent-WeaponRevolverMateba }
     .desc = { ent-WeaponRevolverMateba.desc }
-    .suffix = armor-piercing
+    .suffix = бронебойные
 
 ent-WeaponRevolverPython = Python
-    .desc = A powerful double-action revolver manufactured by the Syndicate. Loud and flashy, perfect for any agent looking to make a statement. Loads 6 rounds of .45 magnum.
+    .desc = Мощный револьвер двойного действия производства Синдиката. Громкий и эффектный — то, что нужно агенту, который хочет заявить о себе. Вмещает 6 патронов .45 магнум.
 
 ent-WeaponRevolverPythonAP = { ent-WeaponRevolverPython }
     .desc = { ent-WeaponRevolverPython.desc }
-    .suffix = armor-piercing
+    .suffix = бронебойные
 
-ent-WeaponRevolverPirate = pirate revolver
-    .desc = A crude single-action revolver handmade by a space pirate. Old and covered in rust, it somehow still works. Loads 5 rounds of .45 magnum.
+ent-WeaponRevolverPirate = пиратский револьвер
+    .desc = Грубо сделанный револьвер одинарного действия, который смастерил космический пират. Старый и ржавый, но каким-то чудом всё ещё работает. Вмещает 5 патронов .45 магнум.
 
 ent-WeaponRevolverPirateEmpty = { ent-WeaponRevolverPirate }
     .desc = { ent-WeaponRevolverPirate.desc }
-    .suffix = Empty
+    .suffix = Пусто

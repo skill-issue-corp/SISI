@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-petting-success-spider-egg = You pet {THE($target)} gently... It moved?
-petting-failure-spider-egg = You pet {THE($target)} gently... Nothing happened.
+petting-success-spider-egg = Вы осторожно гладите {$target}... Оно пошевелилось?
+petting-failure-spider-egg = Вы осторожно гладите {$target}... Ничего не произошло.

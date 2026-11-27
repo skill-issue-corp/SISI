@@ -1,8 +1,8 @@
-ent-AdvancedCombatMedipen = advanced combat medipen
-    .desc = A single-use advanced medipen containing chemicals extracted from eldritch beasts.
+ent-AdvancedCombatMedipen = продвинутый боевой медипен
+    .desc = Одноразовый продвинутый медипен с веществами, извлечёнными из потусторонних тварей.
 
-ent-MedkitCombatBlue = combat medical kit
-    .desc = Contains most medicines you need to recover from injuries and illnesses, all in a convenient pill form.
+ent-MedkitCombatBlue = боевая аптечка
+    .desc = Содержит большинство лекарств, нужных для лечения травм и болезней. Всё в удобной форме таблеток.
 
-ent-MedkitCombatPurple = combat medical kit
-    .desc = For the IPCs among us.
+ent-MedkitCombatPurple = боевая аптечка
+    .desc = Для тех из нас, кто КПБ.

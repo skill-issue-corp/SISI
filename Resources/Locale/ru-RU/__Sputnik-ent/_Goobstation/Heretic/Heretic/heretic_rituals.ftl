@@ -1,170 +1,170 @@
-ent-RitualSacrifice = Sacrifice
+ent-RitualSacrifice = Жертвоприношение
     .desc = { "" }
 
-ent-RitualAmberFocus = Amber Focus
+ent-RitualAmberFocus = Янтарный Фокус
     .desc = { "" }
 
-ent-RitualLivingHeart = Relentless Heartbeat
+ent-RitualLivingHeart = Неумолимое Сердцебиение
     .desc = { "" }
 
-ent-RitualCodexCicatrix = Codex Cicatrix
+ent-RitualCodexCicatrix = Кодекс Цикатрикс
     .desc = { "" }
 
-ent-RitualFeastOfOwls = Feast of Owls
+ent-RitualFeastOfOwls = Пир Сов
     .desc = { "" }
 
-ent-RitualBladeAsh = Nightwatcher's Secret
+ent-RitualBladeAsh = Тайна Ночного Дозорного
     .desc = { "" }
 
-ent-RitualArmorAsh = Scorched Mantle
+ent-RitualArmorAsh = Опалённая Мантия
     .desc = { "" }
 
-ent-RitualCrackedLantern = Cracked Lantern
+ent-RitualCrackedLantern = Треснувший Фонарь
     .desc = { "" }
 
-ent-RitualAscensionAsh = Ashlord's Rite
+ent-RitualAscensionAsh = Обряд Владыки Пепла
     .desc = { "" }
 
-ent-RitualBladeBlade = Cutting Edge
+ent-RitualBladeBlade = Режущая Кромка
     .desc = { "" }
 
-ent-RitualArmorBlade = Shattered Panoply
+ent-RitualArmorBlade = Разбитые Доспехи
     .desc = { "" }
 
-ent-RitualAscensionBlade = Maelstrom of Silver
+ent-RitualAscensionBlade = Серебряный Вихрь
     .desc = { "" }
 
-ent-RitualBladeFlesh = Principle of Hunger
+ent-RitualBladeFlesh = Принцип Голода
     .desc = { "" }
 
-ent-RitualArmorFlesh = Writhing Embrace
+ent-RitualArmorFlesh = Извивающиеся Объятия
     .desc = { "" }
 
-ent-RitualImperfect = Imperfect Ritual
+ent-RitualImperfect = Несовершенный Ритуал
     .desc = { "" }
 
-ent-RitualRaw = Raw Ritual
+ent-RitualRaw = Сырой Ритуал
     .desc = { "" }
 
-ent-RitualLonely = Lonely Ritual
+ent-RitualLonely = Одинокий Ритуал
     .desc = { "" }
 
-ent-RitualAscensionFlesh = Priest’s Final Hymn
+ent-RitualAscensionFlesh = Последний Гимн Жреца
     .desc = { "" }
 
-ent-RitualBladeVoid = Glimmer of Winter
+ent-RitualBladeVoid = Проблеск Зимы
     .desc = { "" }
 
-ent-RitualArmorVoid = Hollow Weave
+ent-RitualArmorVoid = Пустое Плетение
     .desc = { "" }
 
-ent-RitualAscensionVoid = Waltz at the End of Time
+ent-RitualAscensionVoid = Вальс в Конце Времён
     .desc = { "" }
 
-ent-RitualBladeRust = Blacksmith's Tale
+ent-RitualBladeRust = Рассказ Кузнеца
     .desc = { "" }
 
-ent-RitualArmorRust = Salvaged Remains
+ent-RitualArmorRust = Уцелевшие Остатки
     .desc = { "" }
 
-ent-RitualAscensionRust = Rustbringer's Oath
+ent-RitualAscensionRust = Клятва Несущего Ржавчину
     .desc = { "" }
 
-ent-RitualBladeCosmos = Eternal Gate
+ent-RitualBladeCosmos = Вечные Врата
     .desc = { "" }
 
-ent-RitualArmorCosmos = Starwoven Cloak
+ent-RitualArmorCosmos = Звёздотканый Плащ
     .desc = { "" }
 
-ent-RitualAscensionCosmos = Creators's Gift
+ent-RitualAscensionCosmos = Дар Создателя
     .desc = { "" }
 
-ent-RitualBladeLock = A Steward's Secret
+ent-RitualBladeLock = Тайна Хранителя
     .desc = { "" }
 
-ent-RitualArmorLock = Shifting Guise
+ent-RitualArmorLock = Переменчивое Обличье
     .desc = { "" }
 
-ent-RitualEldritchId = Key Keeper's Burden
+ent-RitualEldritchId = Бремя Ключника
     .desc = { "" }
 
-ent-RitualConcierge = Concierge's Rite
+ent-RitualConcierge = Обряд Консьержа
     .desc = { "" }
 
-ent-RitualSerpentclave = Wrong Key
+ent-RitualSerpentclave = Неверный Ключ
     .desc = { "" }
 
-ent-RitualAscensionLock = Unlock the Labyrinth
+ent-RitualAscensionLock = Отпереть Лабиринт
     .desc = { "" }
 
-ent-RitualKnowledge = Ritual of Knowledge
+ent-RitualKnowledge = Ритуал Знания
     .desc = { "" }
 
-ent-RitualPriest = Priest's Ritual
+ent-RitualPriest = Ритуал Жреца
     .desc = { "" }
 
-ent-RitualAshenEyes = Ashen Eyes
+ent-RitualAshenEyes = Пепельные Глаза
     .desc = { "" }
 
-ent-RitualVoidCloak = Void Cloak
+ent-RitualVoidCloak = Плащ Пустоты
     .desc = { "" }
 
-ent-RitualScorchingShark = Scorching Shark
+ent-RitualScorchingShark = Испепеляющая Акула
     .desc = { "" }
 
-ent-RitualPhylacteryOfDamnation = Phylactery of Damnation
+ent-RitualPhylacteryOfDamnation = Филактерия Проклятия
     .desc = { "" }
 
-ent-RitualEtherOfTheNewborn = Ether of the Newborn
+ent-RitualEtherOfTheNewborn = Эфир Новорождённого
     .desc = { "" }
 
-ent-RitualMaskOfMadness = Mask of Madness
+ent-RitualMaskOfMadness = Маска Безумия
     .desc = { "" }
 
-ent-RitualEldritchCoin = Eldritch Coin
+ent-RitualEldritchCoin = Потусторонняя Монета
     .desc = { "" }
 
-ent-RitualIceSpear = Mysteries of Creation
+ent-RitualIceSpear = Тайны Творения
     .desc = { "" }
 
-ent-RitualUnfathomableCurio = Unfathomable Curio
+ent-RitualUnfathomableCurio = Непостижимая Диковина
     .desc = { "" }
 
-ent-RitualRusted = Rusted Ritual
+ent-RitualRusted = Ритуал Ржавчины
     .desc = { "" }
 
-ent-RitualCarvingKnife = Carving Knife
+ent-RitualCarvingKnife = Нож для Начертания
     .desc = { "" }
 
-ent-RitualCodexMorbus = Codex Morbus
+ent-RitualCodexMorbus = Кодекс Морбус
     .desc = { "" }
 
-ent-RitualGreavesOfTheProphet = Greaves of the Prophet
+ent-RitualGreavesOfTheProphet = Поножи Пророка
     .desc = { "" }
 
-ent-RitualShattered = Shattered Ritual
+ent-RitualShattered = Ритуал Осколков
     .desc = { "" }
 
-ent-RitualMawedCrucible = Mawed Crucible
+ent-RitualMawedCrucible = Зубастое Горнило
     .desc = { "" }
 
-ent-RitualThroughTheBoundary = Through the Boundary
+ent-RitualThroughTheBoundary = За Гранью
     .desc = { "" }
 
-ent-RitualLionhunterRifle = Lionhunter's Rifle
+ent-RitualLionhunterRifle = Винтовка Охотника на Львов
     .desc = { "" }
 
-ent-RitualLionhunterRifleAmmunition = Lionhunter's Rifle Ammunition
+ent-RitualLionhunterRifleAmmunition = Боеприпасы для Винтовки Охотника на Львов
     .desc = { "" }
 
-ent-RitualRustSowerGrenade = Rust Sower Grenade
+ent-RitualRustSowerGrenade = Граната-Сеятель Ржавчины
     .desc = { "" }
 
-ent-RitualMaidInTheMirror = Maid in the Mirror
+ent-RitualMaidInTheMirror = Дева в Зеркале
     .desc = { "" }
 
-ent-RitualSharpMedal = Sharp Medal
+ent-RitualSharpMedal = Острая Медаль
     .desc = { "" }
 
-ent-RitualAshSpirit = Ashen Ritual
+ent-RitualAshSpirit = Пепельный Ритуал
     .desc = { "" }

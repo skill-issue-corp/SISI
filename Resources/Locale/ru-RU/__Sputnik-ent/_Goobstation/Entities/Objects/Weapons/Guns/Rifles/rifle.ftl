@@ -1,8 +1,8 @@
 ent-WeaponRifleBurner = Burner
-    .desc = A high caliber syndicate gun chambered in .50 caliber, capable of firing anti-materiel and high explosive rounds.
+    .desc = Крупнокалиберное оружие синдиката под .50. Стреляет боеприпасами для поражения техники и осколочно-фугасными снарядами.
 
 ent-WeaponRifleM90 = M-90
-    .desc = A revision of the M-90gl that removes the inbuilt grenade launcher. Uses .20 rifle ammo.
+    .desc = Версия M-90gl без встроенного гранатомёта. Использует винтовочные патроны .20.
 
 ent-WeaponRifleAnnie = Annie
-    .desc = A beast designed to shoulder the weight of impossible missions. Uses .30 rifle ammo.
+    .desc = Зверь, на чьи плечи можно взвалить невозможные задания. Использует винтовочные патроны .30.

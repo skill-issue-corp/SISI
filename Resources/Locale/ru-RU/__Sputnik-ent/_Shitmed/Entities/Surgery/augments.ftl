@@ -7,29 +7,29 @@ ent-SurgeryInstallAugmentBase = { ent-SurgeryBase }
 ent-SurgeryRemoveAugmentBase = { ent-SurgeryBase }
     .desc = { ent-SurgeryBase.desc }
 
-ent-SurgeryInsertPowerCellSlot = Insert Power Cell Slot
+ent-SurgeryInsertPowerCellSlot = Установка Отсека для Батареи
     .desc = { ent-SurgeryInstallAugmentBase.desc }
 
-ent-SurgeryOpenPowerCellSlot = Open Cavity For Power Cell Slot
+ent-SurgeryOpenPowerCellSlot = Вскрытие Полости Для Отсека Для Батареи
     .desc = { ent-SurgeryOpenCavityBase.desc }
 
-ent-SurgeryRemovePowerCellSlot = Remove Power Cell Slot
+ent-SurgeryRemovePowerCellSlot = Извлечение Отсека для Батареи
     .desc = { ent-SurgeryRemoveAugmentBase.desc }
 
-ent-SurgeryInsertPowerCellCharger = Insert Internal Power Cell Charger
+ent-SurgeryInsertPowerCellCharger = Установка Встроенного Зарядника Батареи
     .desc = { ent-SurgeryInstallAugmentBase.desc }
 
-ent-SurgeryOpenPowerCellCharger = Open Cavity For Power Cell Charger
+ent-SurgeryOpenPowerCellCharger = Вскрытие Полости Для Зарядника Батареи
     .desc = { ent-SurgeryOpenCavityBase.desc }
 
-ent-SurgeryRemovePowerCellCharger = Remove Internal Power Cell Charger
+ent-SurgeryRemovePowerCellCharger = Извлечение Встроенного Зарядника Батареи
     .desc = { ent-SurgeryRemoveAugmentBase.desc }
 
-ent-SurgeryOpenArmAugment = Open Cavity For Arm Augments
+ent-SurgeryOpenArmAugment = Вскрытие Полости Для Имплантов Руки
     .desc = { ent-SurgeryOpenCavityBase.desc }
 
-ent-SurgeryInsertArmAugment = Insert Arm Augment
+ent-SurgeryInsertArmAugment = Установка Импланта Руки
     .desc = { ent-SurgeryInstallAugmentBase.desc }
 
-ent-SurgeryRemoveArmAugment = Remove Arm Augment
+ent-SurgeryRemoveArmAugment = Извлечение Импланта Руки
     .desc = { ent-SurgeryRemoveAugmentBase.desc }

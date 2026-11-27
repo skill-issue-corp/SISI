@@ -1,9 +1,9 @@
-paired-extendable-hand-busy = Your hand must be free in order to extend this.
+paired-extendable-hand-busy = Для выдвижения освободите руку.
 
-mantis-blade-disabled-emp = The mantis blade is disabled by a EMP and is not responding.
-mantis-blade-arm-examine = [color=red]This arm contains an illegal cyberware that allows the user to extend a mantis blade from it.[/color]
+mantis-blade-disabled-emp = Клинок богомола выведен из строя ЭМИ и не реагирует.
+mantis-blade-arm-examine = [color=red]В этой руке установлен нелегальный киберимплант, из которого можно выдвинуть клинок богомола.[/color]
 
-sandevistan-overload-0 = Your heart pounds on your chest.
-sandevistan-overload-1 = Your body struggles to keep up.
-sandevistan-overload-2 = Your body begins to fail.
-sandevistan-overload-3 = Your body is failing.
+sandevistan-overload-0 = Сердце колотится у вас в груди.
+sandevistan-overload-1 = Ваше тело едва справляется с нагрузкой.
+sandevistan-overload-2 = Ваше тело начинает сдавать.
+sandevistan-overload-3 = Ваше тело отказывает.

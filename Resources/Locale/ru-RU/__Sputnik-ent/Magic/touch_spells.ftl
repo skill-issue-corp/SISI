@@ -4,14 +4,14 @@ ent-BaseEntitySpellAction = { ent-BaseAction }
 ent-BaseSmiteAction = { ent-BaseEntitySpellAction }
     .desc = { ent-BaseEntitySpellAction.desc }
 
-ent-ActionSmite = Smite
-    .desc = Instantly gibs a target.
+ent-ActionSmite = Кара
+    .desc = Мгновенно разрывает цель на куски.
 
 ent-ActionSmiteNoReq = { ent-ActionSmite }
     .desc = { ent-ActionSmite.desc }
 
-ent-ActionCluwne = Cluwne's Curse
-    .desc = Turns someone into a Cluwne!
+ent-ActionCluwne = Проклятие Клувеня
+    .desc = Превращает кого-то в Клувеня!
 
-ent-ActionSlippery = Slippery Slope
-    .desc = Make someone slippery.
+ent-ActionSlippery = Скользкий Склон
+    .desc = Сделайте кого-нибудь скользким.

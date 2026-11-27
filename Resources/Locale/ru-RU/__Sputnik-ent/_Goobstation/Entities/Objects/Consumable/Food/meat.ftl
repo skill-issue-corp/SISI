@@ -1,14 +1,14 @@
-ent-FoodMeatGondola = raw gondola meat
-    .desc = You monster.
+ent-FoodMeatGondola = сырое мясо гондолы
+    .desc = Вы чудовище.
 
-ent-FoodMeatGondolaCooked = gondola steak
-    .desc = Cooked, tough gondola meat.
+ent-FoodMeatGondolaCooked = стейк из гондолы
+    .desc = Приготовленное жёсткое мясо гондолы.
 
-ent-FoodMeatBingle = raw bingle meat
-    .desc = Smells like shit.
+ent-FoodMeatBingle = сырое мясо бингла
+    .desc = Воняет дерьмом.
 
-ent-FoodMeatBingleCooked = bingle steak
-    .desc = Still smells like shit.
+ent-FoodMeatBingleCooked = стейк из бингла
+    .desc = По-прежнему воняет дерьмом.
 
-ent-FoodMeatVoxFried = fried "chicken"
-    .desc = A juicy hunk of chicken meat... I think...
+ent-FoodMeatVoxFried = жареная «курица»
+    .desc = Сочный кусок куриного мяса... наверное...

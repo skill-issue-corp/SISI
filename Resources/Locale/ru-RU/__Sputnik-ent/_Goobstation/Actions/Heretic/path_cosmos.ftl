@@ -1,20 +1,20 @@
-ent-ActionHereticCosmicRune = Cosmic Rune
-    .desc = Creates a cosmic rune at your position, only two can exist at a time. Invoking one rune transports you to the other. Anyone with a star mark gets transported along with you.
+ent-ActionHereticCosmicRune = Космическая Руна
+    .desc = Создаёт космическую руну на вашем месте. Одновременно могут существовать только две руны. Активация одной переносит вас к другой. Вместе с вами переносятся все со звёздной меткой.
 
-ent-ActionHereticStarTouch = Star Touch
-    .desc = Can be used to apply a star mark to a target. If your victim is already star marked, tethers you to your target with a cosmic ray. If the tether remains unbroken for 8 seconds, they will be put to sleep and teleported to you. Star Touch can also remove Cosmic Runes, or teleport you to your Star Gazer when used in hand.
+ent-ActionHereticStarTouch = Звёздное Касание
+    .desc = Можно пометить цель звёздной меткой. Если на жертве уже есть метка, вас свяжет с ней космический луч. Если связь продержится 8 секунд, жертва уснёт и телепортируется к вам. Звёздное Касание также удаляет Космические Руны, а при активации в руке переносит вас к Звездочёту.
 
-ent-ActionHereticStarBlast = Star Blast
-    .desc = This spell fires an unstoppable disk with cosmic energies at a target, spreading the star mark. When recasted, you will be teleported to the disk, and cosmic fields will generate from the disk and from the caster, pulling nearby heathens into it.
+ent-ActionHereticStarBlast = Звёздный Взрыв
+    .desc = Заклинание выпускает в цель неудержимый диск космической энергии, распространяющий звёздную метку. Повторное применение перенесёт вас к диску. Вокруг вас и диска возникнут космические поля, которые притянут ближайших неверных.
 
-ent-ActionHereticCosmicExpansion = Cosmic Expansion
-    .desc = This spell generates a 5x5 domain of cosmic fields. Creatures up to 7 tiles away will also receive a star mark.
+ent-ActionHereticCosmicExpansion = Космическое Расширение
+    .desc = Заклинание создаёт область космических полей 5x5. Существа на расстоянии до 7 тайлов также получат звёздную метку.
 
-ent-ActionStarGaze = Star Gaze
-    .desc = Generates a massive death beam that eradicates everything in it's path. Has it's own gravitational pull, sucking in new victims.
+ent-ActionStarGaze = Звёздный Взор
+    .desc = Создаёт огромный смертоносный луч, уничтожающий всё на своём пути. Его собственное притяжение затягивает новых жертв.
 
-ent-ActionResetStarGazerConsciousness = Reset Star Gazer Consciousness
-    .desc = Replaces the mind of your summon with that of a different ghost.
+ent-ActionResetStarGazerConsciousness = Сменить Разум Звездочёта
+    .desc = Заменяет разум призванного существа разумом другого призрака.
 
-ent-ActionStarGazerSeekMaster = Seek Master
-    .desc = Teleports you to your master.
+ent-ActionStarGazerSeekMaster = Найти Хозяина
+    .desc = Телепортирует вас к хозяину.

@@ -1,5 +1,5 @@
-ent-DiseaseDiagnoser = Disease Diagnoser Delta Extreme
-    .desc = A machine that analyzes disease samples.
+ent-DiseaseDiagnoser = Диагност Болезней Дельта Экстрим
+    .desc = Аппарат для анализа образцов болезней.
 
-ent-DiagnosisReportPaper = disease diagnoser report
-    .desc = A chilling medical receipt.
+ent-DiagnosisReportPaper = отчёт диагноста болезней
+    .desc = Леденящий душу медицинский чек.

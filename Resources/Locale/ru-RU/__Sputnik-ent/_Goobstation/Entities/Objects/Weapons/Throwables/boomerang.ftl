@@ -1,5 +1,5 @@
-ent-boomerang = boomerang
-    .desc = Made from wood. You should give this to a monkey.
+ent-boomerang = бумеранг
+    .desc = Сделан из дерева. Стоит отдать обезьяне.
 
-ent-boomerangIncomplete = incomplete boomerang
-    .desc = Apply knife to get a fresh boomerang.
+ent-boomerangIncomplete = незаконченный бумеранг
+    .desc = Обработайте ножом, чтобы получить готовый бумеранг.

@@ -3,15 +3,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-gibb-1 = Delicious!
-advertisement-gibb-2 = Recommended by at least one doctor!
-advertisement-gibb-3 = Over 1 million drinks sold!
-advertisement-gibb-4 = Dr. Gibb, what's the worst that could happen?
-advertisement-gibb-5 = Dr. Gibb, the flavor explosion!
-advertisement-gibb-6 = Trust me, I'm a doctor!
-advertisement-gibb-7 = The best sugar infusion in the galaxy!
-advertisement-gibb-8 = Space Cola can get Gibbed!
-thankyou-gibb-1 = The Dr. is in... your belly!
-thankyou-gibb-2 = Prognosis: flavor!
-thankyou-gibb-3 = Enjoy the 42 flavors!
-thankyou-gibb-4 = Enjoy the syrupy goodness!
+advertisement-gibb-1 = Вкусно!
+advertisement-gibb-2 = Рекомендует как минимум один врач!
+advertisement-gibb-3 = Продано более 1 миллиона напитков!
+advertisement-gibb-4 = Доктор Гибб, что может пойти не так?
+advertisement-gibb-5 = Доктор Гибб - взрыв вкуса!
+advertisement-gibb-6 = Поверьте, я врач!
+advertisement-gibb-7 = Лучший сахарный настой в галактике!
+advertisement-gibb-8 = Космическую Колу - прямиком в фарш!
+thankyou-gibb-1 = Доктор принимает... прямо у вас в животе!
+thankyou-gibb-2 = Прогноз: вкус!
+thankyou-gibb-3 = Наслаждайтесь всеми 42 вкусами!
+thankyou-gibb-4 = Наслаждайтесь сладким сиропом!

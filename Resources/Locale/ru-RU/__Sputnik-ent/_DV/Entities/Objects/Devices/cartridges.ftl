@@ -1,2 +1,2 @@
-ent-NanoChatCartridge = NanoChat cartridge
-    .desc = Lets you message other people!
+ent-NanoChatCartridge = картридж НаноЧата
+    .desc = Позволяет отправлять сообщения другим людям!

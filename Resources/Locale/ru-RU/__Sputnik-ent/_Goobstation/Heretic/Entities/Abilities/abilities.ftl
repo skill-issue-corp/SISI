@@ -1,4 +1,4 @@
-ent-EntropicPlume = entropic plume
+ent-EntropicPlume = энтропический шлейф
     .desc = { "" }
 
 ent-EffectCleave = { "" }
@@ -19,11 +19,11 @@ ent-EffectVoidBlinkOut = { "" }
 ent-BaseShadowCloakEntity = { "" }
     .desc = { "" }
 
-ent-ShadowCloakEntity = a shadow?
-    .desc = Something is there! Against all reason, this shadow lurks at the corners of your vision. You close your eyes, but still, it is there. No matter how far you run, it is there. In pitchest black, it is there.
+ent-ShadowCloakEntity = тень?
+    .desc = Там что-то есть! Вопреки всякому здравому смыслу эта тень притаилась на краю поля зрения. Вы закрываете глаза, но она всё ещё там. Как бы далеко вы ни бежали, она там. В самой кромешной тьме она там.
 
-ent-ShadowCloakEntityPale = a pale figure
-    .desc = There was nothing here a moment ago, but now you see the faintest outline of strange creature lurking in the woods. Its warm embrace siphons your strength, as death approaches peacefully. The forest hums the soothing lullaby and you become the part of its enternal hymn.
+ent-ShadowCloakEntityPale = бледная фигура
+    .desc = Мгновение назад здесь ничего не было, а теперь вы различаете едва заметные очертания странного существа, затаившегося в лесу. Его тёплые объятия отнимают ваши силы, и тихо приближается смерть. Лес напевает ласковую колыбельную, и вы становитесь частью его вечного гимна.
 
 ent-EffectCosmicDiamond = { "" }
     .desc = { "" }
@@ -52,8 +52,8 @@ ent-EffectGazerOrb = { "" }
 ent-EffectVoidPrisonEnd = { "" }
     .desc = { "" }
 
-ent-VoidConduit = Void Conduit
-    .desc = An open gate which leads to nothingness. Releases pulses which you do not want to get hit by.
+ent-VoidConduit = Проводник Пустоты
+    .desc = Открытые врата в небытие. Испускают импульсы, под которые лучше не попадать.
 
-ent-TentacleProjectile = tentacle
+ent-TentacleProjectile = щупальце
     .desc = { "" }

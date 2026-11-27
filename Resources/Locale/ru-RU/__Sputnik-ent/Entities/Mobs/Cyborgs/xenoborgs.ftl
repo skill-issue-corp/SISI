@@ -1,31 +1,31 @@
-ent-XenoborgEngi = engi xenoborg
-    .desc = A man-machine hybrid that aims to replicate itself. They love extracting brains to insert into fresh Xenoborg chassis to grow their army. This one seems to be an engineering type, as it has more tools for supporting the other Xenoborgs.
-    .suffix = with brain
+ent-XenoborgEngi = ксеноборг-инж
+    .desc = Гибрид человека и машины, стремящийся размножиться. Ксеноборги обожают извлекать мозги и вставлять их в новые шасси Ксеноборгов, наращивая свою армию. Этот, похоже, инженерной модели - у него больше инструментов, чтобы помогать другим Ксеноборгам.
+    .suffix = с мозгом
 
-ent-XenoborgHeavy = heavy xenoborg
-    .desc = A man-machine hybrid that aims to replicate itself. They love extracting brains to insert into fresh Xenoborg chassis to grow their army. This type is has heavy lasers and is covered in thick armor plates. It may be tougher, but its speed matches its brawn.
-    .suffix = with brain
+ent-XenoborgHeavy = тяжёлый ксеноборг
+    .desc = Гибрид человека и машины, стремящийся размножиться. Ксеноборги обожают извлекать мозги и вставлять их в новые шасси Ксеноборгов, наращивая свою армию. Эта модель оснащена тяжёлыми лазерами и покрыта толстыми бронеплитами. Он крепче прочих, но и нетороплив, как танк.
+    .suffix = с мозгом
 
-ent-XenoborgScout = scout xenoborg
-    .desc = A man-machine hybrid that aims to replicate itself. They love extracting brains to insert into fresh Xenoborg chassis to grow their army. This is a scout type, its nimble thrusters allow it to move quickly through space.
-    .suffix = with brain
+ent-XenoborgScout = ксеноборг-разведчик
+    .desc = Гибрид человека и машины, стремящийся размножиться. Ксеноборги обожают извлекать мозги и вставлять их в новые шасси Ксеноборгов, наращивая свою армию. Это разведчик, его маневровые двигатели позволяют быстро перемещаться в космосе.
+    .suffix = с мозгом
 
-ent-XenoborgStealth = stealth xenoborg
-    .desc = A man-machine hybrid that aims to replicate itself. They love extracting brains to insert into fresh Xenoborg chassis to grow their army. This one is a stealth type. Its armor shimmers in the light like no other material you've seen.
-    .suffix = with brain
+ent-XenoborgStealth = скрытный ксеноборг
+    .desc = Гибрид человека и машины, стремящийся размножиться. Ксеноборги обожают извлекать мозги и вставлять их в новые шасси Ксеноборгов, наращивая свою армию. Эта модель предназначена для скрытных операций. Её броня на свету мерцает так, как ни один знакомый вам материал.
+    .suffix = с мозгом
 
 ent-XenoborgEngiPrinted = { ent-XenoborgEngi }
     .desc = { ent-XenoborgEngi.desc }
-    .suffix = no brain
+    .suffix = без мозга
 
 ent-XenoborgHeavyPrinted = { ent-XenoborgHeavy }
     .desc = { ent-XenoborgHeavy.desc }
-    .suffix = no brain
+    .suffix = без мозга
 
 ent-XenoborgScoutPrinted = { ent-XenoborgScout }
     .desc = { ent-XenoborgScout.desc }
-    .suffix = no brain
+    .suffix = без мозга
 
 ent-XenoborgStealthPrinted = { ent-XenoborgStealth }
     .desc = { ent-XenoborgStealth.desc }
-    .suffix = no brain
+    .suffix = без мозга

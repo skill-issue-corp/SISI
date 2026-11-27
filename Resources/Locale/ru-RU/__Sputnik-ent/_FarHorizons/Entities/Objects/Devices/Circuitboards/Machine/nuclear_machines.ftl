@@ -1,5 +1,5 @@
-ent-NuclearFabricatorMachineCircuitboard = nuclear fabricator machine board
-    .desc = A machine printed circuit board for a nuclear fabricator.
+ent-NuclearFabricatorMachineCircuitboard = машинная плата ядерного фабрикатора
+    .desc = Печатная плата для сборки ядерного фабрикатора.
 
-ent-NuclearCentrifugeMachineCircuitboard = nuclear centrifuge machine board
-    .desc = A machine printed circuit board for a nuclear centrifuge.
+ent-NuclearCentrifugeMachineCircuitboard = машинная плата ядерной центрифуги
+    .desc = Печатная плата для сборки ядерной центрифуги.

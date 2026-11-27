@@ -1,8 +1,8 @@
-ent-AITimedSpawner = AI Timed Spawner
+ent-AITimedSpawner = Спавнер ИИ с Таймером
     .desc = { ent-MarkerBase.desc }
 
-ent-MouseTimedSpawner = Mouse Timed Spawner
+ent-MouseTimedSpawner = Спавнер Мыши с Таймером
     .desc = { ent-MarkerBase.desc }
 
-ent-CockroachTimedSpawner = Cockroach Timed Spawner
+ent-CockroachTimedSpawner = Спавнер Таракана с Таймером
     .desc = { ent-MouseTimedSpawner.desc }

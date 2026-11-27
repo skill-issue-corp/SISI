@@ -4,27 +4,27 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-sealable-clothing-equipment-not-toggled = Deploy all parts first!
-sealable-clothing-equipment-seal-failed = Sealing failed!
-sealable-clothing-seal-verb = Toggle Seals
+sealable-clothing-equipment-not-toggled = Сперва разверните все части!
+sealable-clothing-equipment-seal-failed = Герметизация не удалась!
+sealable-clothing-seal-verb = Переключить Герметизацию
 
-sealable-clothing-seal-up = The {$partName} is sealing
-sealable-clothing-seal-up-helmet =  The {$partName} hisses as it closes
-sealable-clothing-seal-up-gauntlets = The {$partName} tightens around your fingers and wrists
-sealable-clothing-seal-up-chestplate = The {$partName} clenches tightly around your chest
-sealable-clothing-seal-up-boots = The {$partName} seals around your feet
+sealable-clothing-seal-up = Герметизируется: {$partName}
+sealable-clothing-seal-up-helmet =  С шипением закрывается: {$partName}
+sealable-clothing-seal-up-gauntlets = Пальцы и запястья обжимает {$partName}
+sealable-clothing-seal-up-chestplate = Грудь плотно обжимает {$partName}
+sealable-clothing-seal-up-boots = Вокруг ступней герметизируется {$partName}
 
-sealable-clothing-seal-down = The {$partName} is unsealing
-sealable-clothing-seal-down-helmet = The {$partName} hisses open
-sealable-clothing-seal-down-gauntlets = The {$partName} become loose around your fingers
-sealable-clothing-seal-down-chestplate = The {$partName} releases your chest
-sealable-clothing-seal-down-boots= The {$partName} relaxs its grip on your legs
+sealable-clothing-seal-down = Разгерметизируется: {$partName}
+sealable-clothing-seal-down-helmet = С шипением открывается: {$partName}
+sealable-clothing-seal-down-gauntlets = Пальцы и запястья освобождает {$partName}
+sealable-clothing-seal-down-chestplate = Грудь освобождает {$partName}
+sealable-clothing-seal-down-boots= Хватку на ногах ослабляет {$partName}
 
-sealable-clothing-sealed-process-toggle-fail = Suit is already shutting down!
-sealable-clothing-unsealed-process-toggle-fail = Suit is already starting up!
-sealable-clothing-sealed-toggle-fail = Deactivate the suit first!
-sealable-clothing-seal-was-broken = The Seal on the suit Breaks!
+sealable-clothing-sealed-process-toggle-fail = Костюм уже отключается!
+sealable-clothing-unsealed-process-toggle-fail = Костюм уже включается!
+sealable-clothing-sealed-toggle-fail = Сперва отключите костюм!
+sealable-clothing-seal-was-broken = Герметичность костюма Нарушена!
 
-sealable-clothing-not-powered = Suit is not powered!
-sealable-clothing-open-sealed-panel-fail = Wiring panel is too tightly sealed!
-sealable-clothing-close-panel-first = Close wiring panel first!
+sealable-clothing-not-powered = Костюм обесточен!
+sealable-clothing-open-sealed-panel-fail = Панель проводки слишком плотно закрыта!
+sealable-clothing-close-panel-first = Сперва закройте панель проводки!

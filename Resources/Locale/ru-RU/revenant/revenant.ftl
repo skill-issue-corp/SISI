@@ -6,26 +6,26 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-revenant-essence-amount = You have [color=plum]{$current} Essence[/color]. Your regen amount is [color=plum]{$max} Essence[/color].
-revenant-max-essence-increased = Your max essence has increased!
+revenant-essence-amount = У вас [color=plum]{$current} ед. Эссенции[/color]. Вы восстанавливаете до [color=plum]{$max} ед. Эссенции[/color].
+revenant-max-essence-increased = Ваш предел запаса эссенции вырос!
 
-revenant-not-enough-essence = Not enough essence!
-revenant-in-solid = You cannot use this ability while within a solid object.
+revenant-not-enough-essence = Недостаточно эссенции!
+revenant-in-solid = Эту способность нельзя использовать внутри твёрдого объекта.
 
-revenant-soul-too-powerful = This soul is too strong to harvest!
-revenant-soul-harvested = This soul has already been harvested!
+revenant-soul-too-powerful = Эта душа слишком сильна, чтобы её забрать!
+revenant-soul-harvested = Эту душу уже забрали!
 
-revenant-soul-searching = You search for the soul of {THE($target)}.
+revenant-soul-searching = Вы ищете душу {$target}.
 
-revenant-soul-yield-high = {CAPITALIZE(THE($target))} has an above average soul!
-revenant-soul-yield-average = {CAPITALIZE(THE($target))} has an average soul.
-revenant-soul-yield-low = {CAPITALIZE(THE($target))} has a below average soul.
+revenant-soul-yield-high = {CAPITALIZE($target)} обладает душой сильнее среднего!
+revenant-soul-yield-average = {CAPITALIZE($target)} обладает душой средней силы.
+revenant-soul-yield-low = {CAPITALIZE($target)} обладает душой слабее среднего.
 
-revenant-soul-begin-harvest = {CAPITALIZE(THE($target))} suddenly rises slightly into the air, {POSS-ADJ($target)} skin turning an ashy gray.
-revenant-soul-finish-harvest = {CAPITALIZE(THE($target))} slumps onto the ground!
+revenant-soul-begin-harvest = {CAPITALIZE($target)} внезапно слегка приподнимается в воздухе, а {POSS-ADJ($target)} кожа становится пепельно-серой.
+revenant-soul-finish-harvest = {CAPITALIZE($target)} валится на пол!
 
 # UI
-revenant-user-interface-title = Ability Shop
-revenant-user-interface-essence-amount = [color=plum]{$amount}[/color] Stolen Essence
+revenant-user-interface-title = Магазин Способностей
+revenant-user-interface-essence-amount = [color=plum]{$amount}[/color] ед. Украденной Эссенции
 
-revenant-user-interface-cost = {$price} Essence
+revenant-user-interface-cost = {$price} ед. Эссенции

@@ -1,2 +1,2 @@
-ent-DehydratedMagicCarp = dehydrated magic carp
-    .desc = Looks like a plush toy magic carp, but just add water and it becomes a real-life magic carp!
+ent-DehydratedMagicCarp = обезвоженный магический карп
+    .desc = Похож на плюшевого магического карпа, но стоит добавить воды, и он превратится в настоящего магического карпа!

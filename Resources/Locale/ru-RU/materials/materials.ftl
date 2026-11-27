@@ -1,50 +1,50 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Glass
-materials-glass = glass
-materials-reinforced-glass = reinforced glass
+materials-glass = стекло
+materials-reinforced-glass = бронестекло
 # <Trauma>
-materials-plasma-glass = glass-phoron
-materials-reinforced-plasma-glass = reinforced glass-phoron
+materials-plasma-glass = фороновое стекло
+materials-reinforced-plasma-glass = фороновое бронестекло
 # </Trauma>
-materials-uranium-glass = uranium glass
-materials-reinforced-uranium-glass = reinforced uranium glass
+materials-uranium-glass = урановое стекло
+materials-reinforced-uranium-glass = урановое бронестекло
 
 # Metals
-materials-steel = steel
-materials-gold = gold
-materials-silver = silver
-materials-plasteel = plasteel
+materials-steel = сталь
+materials-gold = золото
+materials-silver = серебро
+materials-plasteel = пласталь
 
 # Other
-materials-biomass = biomass
-materials-cardboard = cardboard
-materials-cloth = cloth
-materials-durathread = durathread
+materials-biomass = биомасса
+materials-cardboard = картон
+materials-cloth = ткань
+materials-durathread = дюраткань
 # Trauma - plasma -> phoron
-materials-plasma = phoron
-materials-plastic = plastic
-materials-wood = wood
-materials-paper = paper
-materials-uranium = uranium
-materials-bananium = bananium
-materials-meat = meat
-materials-web = silk
-materials-bones = bone
-materials-coal = coal
-materials-diamond = diamond
-materials-gunpowder = gunpowder
-materials-cotton = cotton
-materials-xenoborg-crystal = xenoborg crystal
+materials-plasma = фороновый лист
+materials-plastic = пластик
+materials-wood = дерево
+materials-paper = бумага
+materials-uranium = уран
+materials-bananium = бананиум
+materials-meat = мясо
+materials-web = шёлк
+materials-bones = кость
+materials-coal = уголь
+materials-diamond = алмаз
+materials-gunpowder = порох
+materials-cotton = хлопок
+materials-xenoborg-crystal = кристалл ксеноборгов
 
 # Ores
-materials-raw-iron = raw iron
-materials-raw-quartz = raw quartz
-materials-raw-gold = raw gold
-materials-raw-silver = raw silver
+materials-raw-iron = необработанное железо
+materials-raw-quartz = необработанный кварц
+materials-raw-gold = необработанное золото
+materials-raw-silver = необработанное серебро
 # Trauma - plasma -> phoron
-materials-raw-plasma = raw phoron
-materials-raw-uranium = raw uranium
-materials-raw-bananium = raw bananium
-materials-raw-salt = raw salt
-materials-raw-diamond = raw diamond
+materials-raw-plasma = необработанный форон
+materials-raw-uranium = необработанный уран
+materials-raw-bananium = необработанный бананиум
+materials-raw-salt = необработанная соль
+materials-raw-diamond = необработанный алмаз

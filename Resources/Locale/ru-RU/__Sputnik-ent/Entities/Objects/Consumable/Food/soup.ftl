@@ -1,134 +1,134 @@
 ent-FoodBowlBase = { ent-SolutionSmall }
     .desc = { ent-SolutionSmall.desc }
 
-ent-FoodSoupPea = pea soup
-    .desc = A humble split pea soup.
+ent-FoodSoupPea = гороховый суп
+    .desc = Простой суп из колотого гороха.
 
-ent-FoodSaladAesir = aesir salad
-    .desc = Probably too incredible for mortals to fully enjoy.
+ent-FoodSaladAesir = салат асов
+    .desc = Пожалуй, слишком великолепен, чтобы смертные могли оценить его сполна.
 
-ent-FoodSaladHerb = herb salad
-    .desc = A tasty salad with apples on top.
+ent-FoodSaladHerb = салат из зелени
+    .desc = Вкусный салат с яблоками сверху.
 
-ent-FoodSaladValid = valid salad
-    .desc = It's just an herb salad with meatballs and fried potato slices. Nothing suspicious about it.
+ent-FoodSaladValid = валидный салат
+    .desc = Просто салат из зелени с фрикадельками и жареным картофелем. Ничего подозрительного.
 
-ent-FoodSaladColeslaw = coleslaw
-    .desc = Shredded cabbage and red onions dressed with a vinaigrette.
+ent-FoodSaladColeslaw = коулсло
+    .desc = Шинкованная капуста и красный лук под заправкой из уксуса и масла.
 
-ent-FoodSaladCaesar = caesar salad
-    .desc = A simple yet flavorful salad of onions, lettuce, croutons, and shreds of cheese dressed in oil. Comes with a slice of pita bread!
+ent-FoodSaladCaesar = салат цезарь
+    .desc = Простой, но ароматный салат из лука, листьев салата, гренок и стружки сыра под масляной заправкой. Подаётся с кусочком питы!
 
-ent-FoodSaladKimchi = kimchi salad
-    .desc = It really is just a spicy salad.
+ent-FoodSaladKimchi = салат кимчи
+    .desc = Это и правда просто острый салат.
 
-ent-FoodSaladFruit = fruit salad
-    .desc = Your standard fruit salad.
+ent-FoodSaladFruit = фруктовый салат
+    .desc = Обычный фруктовый салат.
 
-ent-FoodSaladJungle = jungle salad
-    .desc = Exotic fruits in a bowl.
+ent-FoodSaladJungle = салат джунглей
+    .desc = Экзотические фрукты в миске.
 
-ent-FoodSaladCitrus = citrus salad
-    .desc = Citrus overload!
+ent-FoodSaladCitrus = цитрусовый салат
+    .desc = Передозировка цитрусами!
 
-ent-FoodSaladEden = salad of eden
-    .desc = A salad brimming with untapped potential.
+ent-FoodSaladEden = салат эдема
+    .desc = Салат, полный нераскрытого потенциала.
 
-ent-FoodRiceBoiled = boiled rice
-    .desc = A warm bowl of rice.
+ent-FoodRiceBoiled = варёный рис
+    .desc = Миска тёплого риса.
 
-ent-FoodRiceEgg = egg-fried rice
-    .desc = A bowl of rice with a fried egg.
+ent-FoodRiceEgg = жареный рис с яйцом
+    .desc = Миска риса с жареным яйцом.
 
-ent-FoodRicePork = rice and pork
-    .desc = Well, it looks like pork...
+ent-FoodRicePork = рис со свининой
+    .desc = Ну, на свинину похоже...
 
-ent-FoodRicePudding = rice pudding
-    .desc = Everybody loves rice pudding!
+ent-FoodRicePudding = рисовый пудинг
+    .desc = Все любят рисовый пудинг!
 
-ent-FoodRiceGumbo = black-eyed gumbo
-    .desc = A spicy and savory meat and rice dish.
+ent-FoodRiceGumbo = гамбо с черноглазой фасолью
+    .desc = Острое и пряное блюдо из мяса и риса.
 
-ent-FoodOatmeal = oatmeal
-    .desc = A nice bowl of oatmeal.
+ent-FoodOatmeal = овсянка
+    .desc = Славная миска овсянки.
 
-ent-FoodJellyDuff = space liberty duff
-    .desc = Jello gelatin, from Alfred Hubbard's cookbook.
+ent-FoodJellyDuff = космический пудинг свободы
+    .desc = Желе из поваренной книги Альфреда Хаббарда.
 
-ent-FoodJellyAmanita = amanita jelly
-    .desc = It's evil, don't touch it!
+ent-FoodJellyAmanita = мухоморное желе
+    .desc = Оно злое, не трогайте!
 
-ent-FoodSoupMeatball = meatball soup
-    .desc = You've got balls kid, BALLS!
+ent-FoodSoupMeatball = суп с фрикадельками
+    .desc = Вот это у тебя шары, малец, ШАРЫ!
 
-ent-FoodSoupSlime = slime soup
-    .desc = If no water is available, you may substitute tears.
+ent-FoodSoupSlime = суп из слайма
+    .desc = Если воды нет, можете заменить её слезами.
 
-ent-FoodSoupTomatoBlood = tomato soup
-    .desc = Smells like copper... is that a bone?
+ent-FoodSoupTomatoBlood = томатный суп
+    .desc = Пахнет медью... это кость?
 
-ent-FoodSoupWingFangChu = wing fang chu
-    .desc = A savory dish of alien wing wang in soy.
+ent-FoodSoupWingFangChu = вин-фан-чу
+    .desc = Сытное блюдо из инопланетного винг-ванга в соевом соусе.
 
-ent-FoodSoupClown = clown's tears
-    .desc = Not very funny.
+ent-FoodSoupClown = слёзы клоуна
+    .desc = Не очень смешно.
 
-ent-FoodSoupVegetable = vegetable soup
-    .desc = A true vegan meal.
+ent-FoodSoupVegetable = овощной суп
+    .desc = Настоящее веганское блюдо.
 
-ent-FoodSoupNettle = nettle soup
-    .desc = To think, the botanist would've beat you to death with one of these.
+ent-FoodSoupNettle = суп из крапивы
+    .desc = Подумать только, ботаник мог забить вас этим до смерти.
 
-ent-FoodSoupMystery = mystery soup
-    .desc = The mystery is, why aren't you eating it?
+ent-FoodSoupMystery = загадочный суп
+    .desc = Загадка в том, почему вы его не едите.
 
-ent-FoodSoupChiliHot = bowl of hot chili
-    .desc = A Texan five-alarm chili!
+ent-FoodSoupChiliHot = миска острого чили
+    .desc = Техасский чили на пять тревог!
 
-ent-FoodSoupChiliCold = cold chili
-    .desc = This slush is barely a liquid!
+ent-FoodSoupChiliCold = холодный чили
+    .desc = Эта ледяная каша едва ли жидкость!
 
-ent-FoodSoupChiliClown = chili con carnival
-    .desc = A delicious stew of meat, chilies, and salty, salty clown tears.
+ent-FoodSoupChiliClown = чили кон карнавал
+    .desc = Вкусное рагу из мяса, перца чили и солёных-солёных клоунских слёз.
 
-ent-FoodSoupMonkey = monkey's delight
-    .desc = A delicious soup with hunks of monkey meat simmered to perfection, in a broth that tastes faintly of bananas.
+ent-FoodSoupMonkey = обезьянья услада
+    .desc = Вкусный суп с кусками обезьяньего мяса, томлёнными до совершенства в бульоне с лёгким банановым привкусом.
 
-ent-FoodSoupTomato = tomato soup
-    .desc = Drinking this feels like being a vampire! A tomato vampire...
+ent-FoodSoupTomato = томатный суп
+    .desc = Пьёшь и чувствуешь себя вампиром! Томатным вампиром...
 
-ent-FoodSoupEyeball = eyeball soup
-    .desc = It's looking back at you...
+ent-FoodSoupEyeball = суп из глазных яблок
+    .desc = Он смотрит на вас в ответ...
 
-ent-FoodSoupMiso = miso soup
-    .desc = Salty, fishy soup, best had with ramen.
+ent-FoodSoupMiso = мисо-суп
+    .desc = Солёный суп с рыбным вкусом. Лучше всего с раменом.
 
-ent-FoodSoupMushroom = mushroom soup
-    .desc = A delicious and hearty mushroom soup.
+ent-FoodSoupMushroom = грибной суп
+    .desc = Вкусный и сытный грибной суп.
 
-ent-FoodSoupBeet = beet soup
-    .desc = Wait, how do you spell it again..?
+ent-FoodSoupBeet = свекольный суп
+    .desc = Погодите, как это пишется..?
 
-ent-FoodSoupBeetRed = red beet soup
-    .desc = Quite a delicacy.
+ent-FoodSoupBeetRed = суп из красной свёклы
+    .desc = Прямо деликатес.
 
-ent-FoodSoupStew = stew
-    .desc = A nice and warm stew. Healthy and strong.
+ent-FoodSoupStew = рагу
+    .desc = Славное тёплое рагу. Полезное и сытное.
 
-ent-FoodSoupPotato = sweet potato soup
-    .desc = Delicious sweet potato in soup form.
+ent-FoodSoupPotato = суп из батата
+    .desc = Вкусный батат в виде супа.
 
-ent-FoodSoupOnion = french onion soup
-    .desc = Good enough to make a grown mime cry.
+ent-FoodSoupOnion = французский луковый суп
+    .desc = Так хорош, что даже взрослый мим расплачется.
 
-ent-FoodSoupBisque = bisque
-    .desc = A classic entrée from Space France.
+ent-FoodSoupBisque = биск
+    .desc = Классическое блюдо из Космической Франции.
 
-ent-FoodSoupElectron = electron soup
-    .desc = A gastronomic curiosity of ethereal origin.
+ent-FoodSoupElectron = электронный суп
+    .desc = Гастрономическая диковинка эфирного происхождения.
 
-ent-FoodSoupBungo = bungo curry
-    .desc = A spicy vegetable curry made with the humble bungo fruit, Exotic!
+ent-FoodSoupBungo = карри из бунго
+    .desc = Острое овощное карри из скромного плода бунго. Экзотика!
 
-ent-FoodSoupEscargot = escargot
-    .desc = A creamy and rich bowl of snails, bon appetit!
+ent-FoodSoupEscargot = эскарго
+    .desc = Миска улиток в густом сливочном соусе. Приятного аппетита!

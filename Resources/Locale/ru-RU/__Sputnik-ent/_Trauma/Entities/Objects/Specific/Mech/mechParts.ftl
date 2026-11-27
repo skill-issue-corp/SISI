@@ -1,32 +1,32 @@
 ent-T45PartBase = { ent-BaseItem }
-    .desc = A part for the T-45 P.O.W.A.R armor.
+    .desc = Деталь брони T-45 P.O.W.A.R.
 
-ent-T45Helmet = T-45 Helmet
+ent-T45Helmet = Шлем T-45
     .desc = { ent-T45PartBase.desc }
 
-ent-T45Chest = T-45 Chest
+ent-T45Chest = Нагрудник T-45
     .desc = { ent-T45PartBase.desc }
 
-ent-T45ArmL = T-45 left arm
+ent-T45ArmL = левая рука T-45
     .desc = { ent-T45PartBase.desc }
 
-ent-T45ArmR = T-45 right arm
+ent-T45ArmR = правая рука T-45
     .desc = { ent-T45PartBase.desc }
 
-ent-T45LegR = T-45 right leg
+ent-T45LegR = правая нога T-45
     .desc = { ent-T45PartBase.desc }
 
-ent-T45LegL = T-45 left leg
+ent-T45LegL = левая нога T-45
     .desc = { ent-T45PartBase.desc }
 
-ent-FusionCore = fusion core
-    .desc = A fusion core, can be used as a battery with a very high capacity, but is more often used to power, P.O.W.A.R armor suits.
-    .suffix = Full
+ent-FusionCore = термоядерное ядро
+    .desc = Термоядерное ядро можно использовать как батарею очень большой ёмкости, но чаще оно питает бронекостюмы P.O.W.A.R.
+    .suffix = Полностью заполнено
 
-ent-WeaponMechMeleePowerFist = power fist
-    .desc = An armored gauntlet, with a powered ram or similar device which improves the impact of the wielder's strikes, used in the T-45 P.O.W.A.R armor.
-    .suffix = Mech Weapon, Melee
+ent-WeaponMechMeleePowerFist = силовой кулак
+    .desc = Бронированная перчатка с приводным поршнем или похожим устройством, усиливающим удары. Используется в броне T-45 P.O.W.A.R.
+    .suffix = Оружие Меха, Ближний Бой
 
-ent-WeaponMechCombatFlameThrower = fO-46 mk3 heavy flamer
-    .desc = Fires flame from its thrower, can be used in the T-45 P.O.W.A.R armor.
-    .suffix = Mech Weapon, Gun, Combat, Flame
+ent-WeaponMechCombatFlameThrower = тяжёлый огнемёт fO-46 mk3
+    .desc = Струя пламени вырывается из огнемёта. Совместим с бронёй T-45 P.O.W.A.R.
+    .suffix = Оружие Меха, Стрелковое, Боевое, Пламя

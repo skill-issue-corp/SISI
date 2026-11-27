@@ -1,5 +1,5 @@
-ent-OreBagOfHolding = ore bag of holding
-    .desc = A robust bag of holding for salvage billionaires and rich miners alike to carry large amounts of ore. Magnetises any nearby ores when attached to a belt.
+ent-OreBagOfHolding = бездонная сумка для руды
+    .desc = Робастная бездонная сумка для утилизаторов-миллиардеров и богатых шахтёров, вмещающая много руды. Притягивает руду поблизости, если закреплена на поясе.
 
-ent-BorgOreBagOfHolding = integrated ore bag of holding
-    .desc = A very large ore bag built into the frame of a rich mining cyborg. Magnetises any nearby ores when held.
+ent-BorgOreBagOfHolding = встроенная бездонная сумка для руды
+    .desc = Очень большая сумка для руды, встроенная в корпус богатого шахтёрского киборга. Притягивает руду поблизости, когда её держат в руке.

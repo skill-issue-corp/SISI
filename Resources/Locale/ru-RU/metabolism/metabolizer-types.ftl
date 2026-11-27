@@ -4,14 +4,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-metabolizer-type-animal = Animal
-metabolizer-type-bloodsucker = Bloodsucker
-metabolizer-type-dragon = Dragon
-metabolizer-type-human = Human
-metabolizer-type-slime = Slime
-metabolizer-type-vox = Vox
-metabolizer-type-rat = Rat
-metabolizer-type-plant = Plant
-metabolizer-type-dwarf = Dwarf
-metabolizer-type-moth = Moth
-metabolizer-type-arachnid = Arachnid
+metabolizer-type-animal = Животное
+metabolizer-type-bloodsucker = Кровосос
+metabolizer-type-dragon = Дракон
+metabolizer-type-human = Человек
+metabolizer-type-slime = Слайм
+metabolizer-type-vox = Вокс
+metabolizer-type-rat = Крыса
+metabolizer-type-plant = Растение
+metabolizer-type-dwarf = Дворф
+metabolizer-type-moth = Ниан
+metabolizer-type-arachnid = Арахнид

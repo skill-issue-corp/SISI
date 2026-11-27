@@ -9,10 +9,10 @@
 
 # Playtime Stats
 
-ui-playtime-stats-title = User Playtime Stats
-ui-playtime-overall-base = Overall Playtime:
-ui-playtime-overall = Overall Playtime: {PLAYTIME($time)}
-ui-playtime-first-time = First Time Playing
-ui-playtime-roles = Playtime per Role
-ui-playtime-header-role-type = Role
-ui-playtime-header-role-time = Time
+ui-playtime-stats-title = Статистика Игрового Времени Пользователя
+ui-playtime-overall-base = Общее Игровое Время:
+ui-playtime-overall = Общее Игровое Время: {PLAYTIME($time)}
+ui-playtime-first-time = Первая Игровая Сессия
+ui-playtime-roles = Игровое Время по Ролям
+ui-playtime-header-role-type = Роль
+ui-playtime-header-role-time = Время

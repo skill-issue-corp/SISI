@@ -1,6 +1,6 @@
-ent-ClothingHeadHatChameleon = beret
-    .desc = A beret, an artists favorite headwear.
-    .suffix = Chameleon
+ent-ClothingHeadHatChameleon = берет
+    .desc = Берет, любимый головной убор художников.
+    .suffix = Хамелеон
 
-ent-ClothingHeadHatDetGadget = go go hat
-    .desc = A novel hat with a built in toolkit. Automatically stores and retrieves items at the say of a phrase!
+ent-ClothingHeadHatDetGadget = шляпа «вперёд-вперёд»
+    .desc = Новинка среди шляп со встроенным набором инструментов. По голосовой команде сама убирает и достаёт предметы!

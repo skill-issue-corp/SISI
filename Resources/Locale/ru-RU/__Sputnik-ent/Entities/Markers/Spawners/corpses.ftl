@@ -1,23 +1,23 @@
-ent-SalvageHumanCorpseSpawner = Human Corpse Spawner
+ent-SalvageHumanCorpseSpawner = Спавнер Человеческого Трупа
     .desc = { ent-MarkerBase.desc }
 
-ent-RandomServiceCorpseSpawner = Random Service Corpse Spawner
+ent-RandomServiceCorpseSpawner = Спавнер Случайного Трупа Сервиса
     .desc = { ent-SalvageHumanCorpseSpawner.desc }
 
-ent-RandomEngineerCorpseSpawner = Random Engineer Corpse Spawner
+ent-RandomEngineerCorpseSpawner = Спавнер Случайного Трупа Инженера
     .desc = { ent-SalvageHumanCorpseSpawner.desc }
 
-ent-RandomCargoCorpseSpawner = Random Cargo Corpse Spawner
+ent-RandomCargoCorpseSpawner = Спавнер Случайного Трупа Карго
     .desc = { ent-SalvageHumanCorpseSpawner.desc }
 
-ent-RandomMedicCorpseSpawner = Random Medic Corpse Spawner
+ent-RandomMedicCorpseSpawner = Спавнер Случайного Трупа Медика
     .desc = { ent-SalvageHumanCorpseSpawner.desc }
 
-ent-RandomScienceCorpseSpawner = Random Science Corpse Spawner
+ent-RandomScienceCorpseSpawner = Спавнер Случайного Трупа Науки
     .desc = { ent-SalvageHumanCorpseSpawner.desc }
 
-ent-RandomSecurityCorpseSpawner = Random Security Corpse Spawner
+ent-RandomSecurityCorpseSpawner = Спавнер Случайного Трупа СБ
     .desc = { ent-SalvageHumanCorpseSpawner.desc }
 
-ent-RandomCommandCorpseSpawner = Random Command Corpse Spawner
+ent-RandomCommandCorpseSpawner = Спавнер Случайного Трупа Командования
     .desc = { ent-SalvageHumanCorpseSpawner.desc }

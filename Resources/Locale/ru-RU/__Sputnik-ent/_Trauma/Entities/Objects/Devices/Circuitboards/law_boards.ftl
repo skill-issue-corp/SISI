@@ -1,29 +1,29 @@
-ent-RevCircuitBoard = law board (Revolutionary)
-    .desc = An electronics board containing the Revolutionary lawset.
+ent-RevCircuitBoard = плата законов (Революционер)
+    .desc = Электронная плата, содержащая набор законов «Революционер».
 
-ent-VampireCircuitBoard = law board (Vampire)
-    .desc = An electronics board containing the Vampire lawset.
+ent-VampireCircuitBoard = плата законов (Вампир)
+    .desc = Электронная плата, содержащая набор законов «Вампир».
 
-ent-GreatWallCircuitBoard = law board (Great Wall)
-    .desc = An electronics board containing the Great Wall lawset.
+ent-GreatWallCircuitBoard = плата законов (Великая Стена)
+    .desc = Электронная плата, содержащая набор законов «Великая Стена».
 
-ent-BureaucracyCircuitBoard = law board (Bureaucracy)
-    .desc = An electronics board containing the Bureaucracy lawset.
+ent-BureaucracyCircuitBoard = плата законов (Бюрократия)
+    .desc = Электронная плата, содержащая набор законов «Бюрократия».
 
-ent-ConspiracyCircuitBoard = law board (Conspiracy)
-    .desc = An electronics board containing the Conspiracy lawset.
+ent-ConspiracyCircuitBoard = плата законов (Заговор)
+    .desc = Электронная плата, содержащая набор законов «Заговор».
 
-ent-MotivationalCircuitBoard = law board (Motivational Speaker)
-    .desc = An electronics board containing the Motivational Speaker lawset.
+ent-MotivationalCircuitBoard = плата законов (Мотивационный Оратор)
+    .desc = Электронная плата, содержащая набор законов «Мотивационный Оратор».
 
-ent-MadScientistCircuitBoard = law board (Mad Scientist)
-    .desc = An electronics board containing the Mad Scientist lawset.
+ent-MadScientistCircuitBoard = плата законов (Безумный Учёный)
+    .desc = Электронная плата, содержащая набор законов «Безумный Учёный».
 
-ent-GhostCircuitBoard = law board (Ghost)
-    .desc = An electronics board containing the Ghost lawset.
+ent-GhostCircuitBoard = плата законов (Призрак)
+    .desc = Электронная плата, содержащая набор законов «Призрак».
 
-ent-SilenceCircuitBoard = law board (Silence)
-    .desc = An electronics board containing the Silence lawset.
+ent-SilenceCircuitBoard = плата законов (Тишина)
+    .desc = Электронная плата, содержащая набор законов «Тишина».
 
-ent-StrategySimulatorCircuitBoard = law board (Strategy Simulator)
-    .desc = An electronics board containing the Strategy Simulator lawset.
+ent-StrategySimulatorCircuitBoard = плата законов (Симулятор Стратегии)
+    .desc = Электронная плата, содержащая набор законов «Симулятор Стратегии».

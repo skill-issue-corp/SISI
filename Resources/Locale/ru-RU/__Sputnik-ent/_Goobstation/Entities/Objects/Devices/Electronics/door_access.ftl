@@ -1,19 +1,19 @@
 ent-DoorElectronicsCentralCommandCaptain = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = CentCommCap, Locked
+    .suffix = КапитанЦК, Закрыто
 
 ent-DoorElectronicsNTR = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = NanotrasenRepresentative, Locked
+    .suffix = ПредставительNanoTrasen, Закрыто
 
 ent-DoorElectronicsRobotics = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Robotics, Locked
+    .suffix = Робототехника, Заперто
 
 ent-DoorElectronicsAllService = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = All Service, Locked
+    .suffix = Весь Сервис, Закрыто
 
 ent-DoorElectronicsJournalism = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Journalism, Locked
+    .suffix = Журналистика, Закрыто

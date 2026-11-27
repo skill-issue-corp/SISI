@@ -1,20 +1,20 @@
-ent-HereticFireAA = fire
-    .desc = Damn that's hot.
+ent-HereticFireAA = огонь
+    .desc = Чертовски горячо.
 
-ent-HereticPaleFog = pale fog
-    .desc = Something is there...
+ent-HereticPaleFog = бледный туман
+    .desc = Там что-то есть...
 
-ent-TileHereticVoid = void
-    .desc = Damn that's cold.
+ent-TileHereticVoid = пустота
+    .desc = Чертовски холодно.
 
-ent-TileHereticRustRune = rune
-    .desc = Rusty...
+ent-TileHereticRustRune = руна
+    .desc = Ржавое...
 
-ent-HereticRustAscensionSpreader = rust
-    .desc = It grows...
+ent-HereticRustAscensionSpreader = ржавчина
+    .desc = Она растёт...
 
-ent-WallFieldCosmic = cosmic field
-    .desc = A field that cannot be passed by people marked with a cosmic star.
+ent-WallFieldCosmic = космическое поле
+    .desc = Поле, через которое не могут пройти люди с космической звёздной меткой.
 
-ent-WallLabyrinth = labyrinth pages
-    .desc = A field of papers flying in the air, repulsing heathens with impossible force.
+ent-WallLabyrinth = страницы лабиринта
+    .desc = Барьер из летающих листов бумаги, с невероятной силой отталкивающий неверных.

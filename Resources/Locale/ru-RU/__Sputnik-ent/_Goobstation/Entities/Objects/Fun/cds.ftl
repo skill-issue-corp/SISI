@@ -1,80 +1,80 @@
-ent-BaseCdDisk = cd disk
-    .desc = A cd disk, usually contains ads.
+ent-BaseCdDisk = компакт-диск
+    .desc = Компакт-диск, обычно содержит рекламу.
 
-ent-CdDiskDanitosBurritos = cd disk (Danitos Burritos)
+ent-CdDiskDanitosBurritos = компакт-диск (Буррито Данито)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskBillMovie = cd disk (bill movie)
+ent-CdDiskBillMovie = компакт-диск (фильм билла)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskCapTraining = cd disk (captain training PSA)
+ent-CdDiskCapTraining = компакт-диск (ролик о подготовке капитанов)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskCargonia = cd disk (Cargonia)
+ent-CdDiskCargonia = компакт-диск (Каргония)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskChemistry = cd disk (Chemistry)
+ent-CdDiskChemistry = компакт-диск (Химия)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskCloningPsa = cd disk (cloning PSA)
+ent-CdDiskCloningPsa = компакт-диск (ролик о клонировании)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskDansTickets = cd disk (Dans Tickets)
+ent-CdDiskDansTickets = компакт-диск (Билеты Дэна)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskGrones = cd disk (grones)
+ent-CdDiskGrones = компакт-диск (гроны)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskPopeCrunchCereal = cd disk (Pope Crunch Cereal)
+ent-CdDiskPopeCrunchCereal = компакт-диск (Хлопья «Хруст Папы»)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskQuikNoodles = cd disk (Quik Noodles)
+ent-CdDiskQuikNoodles = компакт-диск (Квик Лапша)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskRobotics = cd disk (robotics)
+ent-CdDiskRobotics = компакт-диск (робототехника)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskSecurityPsa = cd disk (security psa)
+ent-CdDiskSecurityPsa = компакт-диск (ролик о службе безопасности)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskGroupPsa = cd disk (groups psa)
+ent-CdDiskGroupPsa = компакт-диск (ролик о группах)
     .desc = { ent-BaseCdDisk.desc }
 
-ent-CdDiskWeird = weird cd disk
-    .desc = A weird cd disk, something tells you that this one doesn't contain ads.
+ent-CdDiskWeird = странный компакт-диск
+    .desc = Странный компакт-диск. Что-то подсказывает вам, что на этом рекламы нет.
 
-ent-CdDiskCommanderAnnouncement = cd disk (commander announcement)
+ent-CdDiskCommanderAnnouncement = компакт-диск (объявление командира)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskCommanderFigurines = cd disk (commander figurines)
+ent-CdDiskCommanderFigurines = компакт-диск (фигурки командира)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskCommanderResignation = cd disk (commander resignation)
+ent-CdDiskCommanderResignation = компакт-диск (отставка командира)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskCommanderSupport = cd disk (commander support)
+ent-CdDiskCommanderSupport = компакт-диск (поддержка командира)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskHeisenbeeTrial = cd disk (trial of Heisenbee)
+ent-CdDiskHeisenbeeTrial = компакт-диск (суд над Хайзенпчелой)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskXgOnboarding1 = cd disk (xg onboarding 1)
+ent-CdDiskXgOnboarding1 = компакт-диск (вводный курс xg 1)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskXgOnboarding2 = cd disk (xg onboarding 2)
+ent-CdDiskXgOnboarding2 = компакт-диск (вводный курс xg 2)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskXgOnboarding3 = cd disk (xg onboarding 3)
+ent-CdDiskXgOnboarding3 = компакт-диск (вводный курс xg 3)
     .desc = { ent-CdDiskWeird.desc }
 
-ent-CdDiskXgOnboarding4 = cd disk (xg onboarding 4)
+ent-CdDiskXgOnboarding4 = компакт-диск (вводный курс xg 4)
     .desc = { ent-CdDiskWeird.desc }
 
 ent-SyndiCdDisk = { ent-BaseSyndicateContraband }
-    .desc = Get da disk!
+    .desc = Хватай диск!
 
-ent-CdDiskNumber = cd disk (Numbers)
-    .desc = Contact the nearest syndicate listening post for reinforcements!
+ent-CdDiskNumber = компакт-диск (Числа)
+    .desc = Свяжитесь с ближайшим постом прослушивания синдиката, чтобы вызвать подкрепление!
 
-ent-CdDiskFelinids = cd disk (felinids aren't real)
+ent-CdDiskFelinids = компакт-диск (фелинидов не существует)
     .desc = { ent-CdDiskWeird.desc }

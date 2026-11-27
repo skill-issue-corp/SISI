@@ -1,5 +1,5 @@
-ent-BaseMobXenomorphDrone = xenomorph drone
-    .desc = A specialized individual designed to build and maintain a hive. Less aggressive than other xenomorph forms, but still deadly when approached.
+ent-BaseMobXenomorphDrone = дрон ксеноморфов
+    .desc = Особь, приспособленная строить и поддерживать улей. Менее агрессивна, чем другие формы ксеноморфов, но вблизи так же смертельно опасна.
 
 ent-MobXenomorphDrone = { ent-BaseMobXenomorphDrone }
     .desc = { ent-BaseMobXenomorphDrone.desc }

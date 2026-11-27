@@ -1,2 +1,2 @@
-ent-OrangeSlimeExtract = orange slime extract
+ent-OrangeSlimeExtract = экстракт оранжевого слайма
     .desc = { ent-BaseSlimeExtract.desc }

@@ -1,5 +1,5 @@
-ent-ActionInvisibleBlockade = Invisible Blockade
-    .desc = Form an invisible three tile wide blockade.
+ent-ActionInvisibleBlockade = Невидимая Баррикада
+    .desc = Создайте невидимую баррикаду шириной в три тайла.
 
-ent-ActionFingerGuns = Finger Guns
-    .desc = Shoot up to three mimed bullets from your fingers that damage and mute their targets. Can't be used if you have something in your hands.
+ent-ActionFingerGuns = Пальцы-Пистолеты
+    .desc = Выстрелите из пальцев не более чем тремя мимическими пулями, которые ранят цели и лишают их голоса. Для этого руки должны быть свободны.

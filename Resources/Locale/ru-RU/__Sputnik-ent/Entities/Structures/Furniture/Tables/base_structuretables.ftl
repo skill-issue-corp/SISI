@@ -1,5 +1,5 @@
-ent-TableBase = table
-    .desc = A square piece of metal standing on four metal legs.
+ent-TableBase = стол
+    .desc = Квадратный кусок металла на четырёх металлических ножках.
 
-ent-CounterBase = counter
+ent-CounterBase = стойка
     .desc = { ent-TableBase.desc }

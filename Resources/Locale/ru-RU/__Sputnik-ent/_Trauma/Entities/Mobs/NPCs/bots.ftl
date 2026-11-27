@@ -1,8 +1,8 @@
-ent-BoogieBotSpawner = boogie bot
-    .desc = Get down on it!
+ent-BoogieBotSpawner = буги-бот
+    .desc = Зажигайте!
 
-ent-BaseMobBoogieBot = boogie bot
-    .desc = Get down on it!
+ent-BaseMobBoogieBot = буги-бот
+    .desc = Зажигайте!
 
 ent-MobBoogieBotD1 = { ent-BaseMobBoogieBot }
     .desc = { ent-BaseMobBoogieBot.desc }
@@ -14,7 +14,7 @@ ent-MobBoogieBotD3 = { ent-BaseMobBoogieBot }
     .desc = { ent-BaseMobBoogieBot.desc }
 
 ent-MobED209 = ED-209
-    .desc = Officer Beepsky's bigger brother
+    .desc = Старший брат офицера Бипски
 
-ent-ED209Endoskeleton = ED-209 endoskeleton
-    .desc = A frame that the ED-209 is built on.
+ent-ED209Endoskeleton = эндоскелет ED-209
+    .desc = Каркас, на котором собирают ED-209.

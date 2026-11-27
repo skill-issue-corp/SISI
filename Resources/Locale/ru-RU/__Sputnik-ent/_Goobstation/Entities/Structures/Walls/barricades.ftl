@@ -7,17 +7,17 @@ ent-BaseMetalBarricadeFolding = { ent-BaseMetalBarricade }
 ent-BaseBarricadeSteel = { "" }
     .desc = { "" }
 
-ent-BarricadeSteel = steel barricade
-    .desc = A tough barricade built to keep the bad out.
+ent-BarricadeSteel = стальная баррикада
+    .desc = Прочная баррикада, которая не пускает ничего плохого.
 
-ent-BarricadeSteelFolding = folding steel barricade
-    .desc = A tough barricade built to keep the bad out. This one can be opened with a latch.
+ent-BarricadeSteelFolding = складная стальная баррикада
+    .desc = Прочная баррикада, которая не пускает ничего плохого. Эту можно открыть, отодвинув задвижку.
 
 ent-BaseBarricadePlasteel = { "" }
     .desc = { "" }
 
-ent-BarricadePlasteel = plasteel barricade
-    .desc = A hardened barricade built to keep the extra bad out.
+ent-BarricadePlasteel = пласталевая баррикада
+    .desc = Укреплённая баррикада, которая не пускает ничего особенно плохого.
 
-ent-BarricadePlasteelFolding = folding plasteel barricade
-    .desc = A hardened barricade built to keep the extra bad out. This one can be opened with a latch.
+ent-BarricadePlasteelFolding = складная пласталевая баррикада
+    .desc = Укреплённая баррикада, которая не пускает ничего особенно плохого. Эту можно открыть, отодвинув задвижку.

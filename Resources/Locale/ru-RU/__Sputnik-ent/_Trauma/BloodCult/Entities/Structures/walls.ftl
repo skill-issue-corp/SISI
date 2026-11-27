@@ -1,2 +1,2 @@
-ent-CultGirder = runed girder
-    .desc = Framework made of a strange and shockingly cold metal. It doesn't seem to have any bolts
+ent-CultGirder = рунный каркас
+    .desc = Каркас из странного, поразительно холодного металла. Похоже, на нём нет ни одного болта

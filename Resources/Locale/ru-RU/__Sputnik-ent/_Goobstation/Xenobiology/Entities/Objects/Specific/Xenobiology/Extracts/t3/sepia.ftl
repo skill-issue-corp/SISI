@@ -1,2 +1,2 @@
-ent-SepiaSlimeExtract = sepia slime extract
+ent-SepiaSlimeExtract = экстракт слайма цвета сепии
     .desc = { ent-BaseSlimeExtract.desc }

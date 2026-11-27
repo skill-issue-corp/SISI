@@ -1,8 +1,8 @@
-ent-CrateSalvageHardsuitLuxury = luxury salvage hardsuit crate
-    .desc = Contains a luxury salvage hardsuit, breath mask, and oxygen tank. Lucky you.
+ent-CrateSalvageHardsuitLuxury = ящик роскошного скафандра утилизатора
+    .desc = Содержит роскошный скафандр утилизатора, дыхательную маску и кислородный баллон. Повезло вам.
 
-ent-CrateCrusherHammer = crusher hammer crate
-    .desc = Contains a crusher hammer for use by salvage.
+ent-CrateCrusherHammer = ящик молота-крушителя
+    .desc = Содержит молот-крушитель для утилизаторов.
 
-ent-CrateCrusherHalberd = crusher halberd crate
-    .desc = Contains a crusher halberd for use by salvage.
+ent-CrateCrusherHalberd = ящик алебарды-крушителя
+    .desc = Содержит алебарду-крушитель для утилизаторов.

@@ -13,123 +13,123 @@ ent-BasePlushieSmall = { ent-BasePlushie }
 ent-BasePlushieTiny = { ent-BasePlushie }
     .desc = { ent-BasePlushie.desc }
 
-ent-PlushieThrongler = throngler plushie
-    .desc = A stuffed toy to remind cargo techs of what they can no longer have.
+ent-PlushieThrongler = плюшевый тронглер
+    .desc = Мягкая игрушка, напоминающая грузчикам о том, чего им больше не видать.
 
-ent-PlushieGhost = ghost soft toy
-    .desc = The start of your personal GHOST GANG!
+ent-PlushieGhost = плюшевое привидение
+    .desc = Соберите собственную БАНДУ ПРИВИДЕНИЙ!
 
-ent-PlushieGhostRevenant = revenant soft toy
-    .desc = So soft it almost makes you want to take a nap...
+ent-PlushieGhostRevenant = плюшевый ревенант
+    .desc = Такой мягкий, что прямо хочется вздремнуть...
 
-ent-PlushieBee = bee plushie
-    .desc = A cute toy that resembles an even cuter programmer. You'd have to be a monster to grind this up.
+ent-PlushieBee = плюшевая пчёлка
+    .desc = Милая игрушка, похожая на ещё более милого программиста. Надо быть чудовищем, чтобы сунуть её в измельчитель.
 
-ent-PlushieHampter = hampter plushie
-    .desc = A cute stuffed toy that resembles a hamster. Its face looks squished.
+ent-PlushieHampter = плюшевый ха́мстер
+    .desc = Милая мягкая игрушка, похожая на хомячка. Мордочка будто сплющена.
 
-ent-PlushieRGBee = RGBee plushie
-    .desc = A cute toy that resembles a bee plushie while you're on LSD.
+ent-PlushieRGBee = плюшевая RGBпчёлка
+    .desc = Милая игрушка, похожая на плюшевую пчёлку, если смотреть на неё под ЛСД.
 
-ent-PlushieNuke = nukie plushie
-    .desc = A stuffed toy that resembles a syndicate nuclear operative. The tag claims operatives to be purely fictitious.
+ent-PlushieNuke = плюшевый ядерный оперативник
+    .desc = Мягкая игрушка в виде ядерного оперативника синдиката. На ярлычке уверяют, что оперативники целиком вымышлены.
 
-ent-PlushieRouny = rouny plushie
-    .desc = Rouny.
+ent-PlushieRouny = плюшевый рауни
+    .desc = Рауни.
 
-ent-PlushieLamp = lamp plushie
-    .desc = A light emitting friend!
+ent-PlushieLamp = плюшевая лампа
+    .desc = Друг, от которого исходит свет!
 
-ent-PlushieArachind = arachnid plushie
-    .desc = An adorable stuffed toy that resembles an arachnid. It feels silky..
+ent-PlushieArachind = плюшевый арахнид
+    .desc = Очаровательная мягкая игрушка в виде арахнида. Шелковистая на ощупь..
 
-ent-PlushieLizard = lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson. Made by CentComm as a token initiative to combat speciesism in work environments. "Welcome your new colleagues as you do this plush, with open arms!"
+ent-PlushieLizard = плюшевый унатх
+    .desc = Очаровательная мягкая игрушка в виде унатха. Выпущена ЦК в знак борьбы с видовой дискриминацией на рабочих местах. «Встречайте новых коллег, как эту игрушку, с распростёртыми объятиями!»
 
-ent-PlushieExperiment = experiment plushie
-    .desc = A plushie of a canid of sorts. It yearns to be detonated on a landmine.
+ent-PlushieExperiment = плюшевый эксперимент
+    .desc = Плюшевая игрушка, похожая на какого-то псового. Так и рвётся взорваться на мине.
 
-ent-PlushieRainbowLizard = rainbow lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson of every color. You just might trip while staring at it...
+ent-PlushieRainbowLizard = радужный плюшевый унатх
+    .desc = Очаровательная мягкая игрушка в виде унатха всех цветов радуги. Засмотритесь - ещё и споткнётесь...
 
 ent-PlushieLizardMirrored = { ent-PlushieLizard }
     .desc = { ent-PlushieLizard.desc }
-    .suffix = Mirrored
+    .suffix = Зеркальный
 
-ent-PlushieSpaceLizard = space lizard plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson in an EVA suit. Made by CentComm as a token initiative to combat speciesism in space environments. "Welcome your new colleagues as you do this plush, with open arms!"
+ent-PlushieSpaceLizard = плюшевый космический унатх
+    .desc = Очаровательная мягкая игрушка в виде унатха в скафандре EVA. Выпущена ЦК в знак борьбы с видовой дискриминацией в космосе. «Встречайте новых коллег, как эту игрушку, с распростёртыми объятиями!»
 
-ent-PlushieLizardInversed = drazil plushie
-    .desc = An adorable stuffed toy that resembles a lizardperson from an inversed dimension. Hew!
+ent-PlushieLizardInversed = плюшевый хтану
+    .desc = Очаровательная мягкая игрушка в виде унатха из зеркального измерения. Хэу!
 
-ent-PlushieDiona = diona plushie
-    .desc = An adorable stuffed toy that resembles a diona. Love water and cuddles. Do not wet!
+ent-PlushieDiona = плюшевая диона
+    .desc = Очаровательная мягкая игрушка в виде дионы. Любит воду и обнимашки. Не мочить!
 
-ent-PlushieSharkBlue = blue shark soft toy
-    .desc = Big and safe to have by your side if you want to discover the world below the surface of the ocean.
+ent-PlushieSharkBlue = синяя плюшевая акула
+    .desc = Большая и надёжная спутница, если вы захотите исследовать мир под поверхностью океана.
 
-ent-PlushieSharkPink = pink shark soft toy
-    .desc = Hehe shonk :)
+ent-PlushieSharkPink = розовая плюшевая акула
+    .desc = Хе-хе, акула :)
 
-ent-PlushieSharkGrey = grey shark soft toy
-    .desc = A quiet, reserved kind of shonk. Loves to ride the grey tide.
+ent-PlushieSharkGrey = серая плюшевая акула
+    .desc = Тихая, сдержанная акулка. Любит плыть на волне грейтайда.
 
-ent-PlushieRatvar = ratvar plushie
-    .desc = A large stuffed doll of the elder god Ratvar.
+ent-PlushieRatvar = плюшевый ратвар
+    .desc = Большая мягкая кукла в виде древнего бога Ратвара.
 
-ent-PlushieNar = nar'sie plushie
-    .desc = A large stuffed doll of the elder goddess Nar'Sie.
+ent-PlushieNar = плюшевая нар'си
+    .desc = Большая мягкая кукла в виде древней богини Нар'Си.
 
-ent-PlushieCarp = carp plushie
-    .desc = An adorable stuffed toy that resembles the monstrous space carp.
+ent-PlushieCarp = плюшевый карп
+    .desc = Очаровательная мягкая игрушка в виде чудовищного космического карпа.
 
-ent-PlushieMagicarp = magicarp plushie
-    .desc = An adorable stuffed toy resembling the exceedingly rare magicarp.
+ent-PlushieMagicarp = плюшевый магикарп
+    .desc = Очаровательная мягкая игрушка в виде редчайшего магикарпа.
 
-ent-PlushieRainbowCarp = rainbow carp plushie
-    .desc = An adorable stuffed toy resembling the legendary rainbow carp.
+ent-PlushieRainbowCarp = плюшевый радужный карп
+    .desc = Очаровательная мягкая игрушка в виде легендарного радужного карпа.
 
-ent-PlushieHolocarp = holocarp plushie
-    .desc = A holographic stuffed toy resembling science's nemesis - the holocarp.
+ent-PlushieHolocarp = плюшевый голокарп
+    .desc = Голографическая мягкая игрушка в виде заклятого врага науки - голокарпа.
 
-ent-PlushieSlime = slime plushie
-    .desc = An adorable stuffed toy that resembles a slime. It's basically a hacky sack.
+ent-PlushieSlime = плюшевый слайм
+    .desc = Очаровательная мягкая игрушка в виде слайма. По сути, мячик для сокса.
 
-ent-PlushieSnake = snake plushie
-    .desc = An adorable stuffed toy that resembles a snake.
+ent-PlushieSnake = плюшевая змея
+    .desc = Очаровательная мягкая игрушка в виде змеи.
 
-ent-ToyMouse = mouse toy
-    .desc = A colorful toy mouse!
+ent-ToyMouse = игрушечная мышь
+    .desc = Яркая игрушечная мышка!
 
-ent-PlushieVox = vox plushie
-    .desc = SKREEEEEEEEEEEE!
+ent-PlushieVox = плюшевый вокс
+    .desc = СКРИИИИИИИИИИИ!
 
-ent-PlushieAtmosian = atmosian plushie
-    .desc = An adorable stuffed toy that resembles a brave atmosian. Unfortunately, he won't fix those depressurizations for you.
+ent-PlushieAtmosian = плюшевый атмос
+    .desc = Очаровательная мягкая игрушка в виде отважного атмоса. К сожалению, разгерметизацию он за вас не устранит.
 
-ent-PlushieXeno = xeno plushie
-    .desc = An adorable stuffed toy that resembles a scary xenomorf. You're lucky it's just a toy.
+ent-PlushieXeno = плюшевый ксеноморф
+    .desc = Очаровательная мягкая игрушка в виде жуткого ксеноморфа. Повезло вам, что это всего лишь игрушка.
 
-ent-PlushiePenguin = penguin plushie
-    .desc = I use arch btw!
+ent-PlushiePenguin = плюшевый пингвин
+    .desc = Я на arch кста!
 
-ent-PlushieHuman = human plushie
-    .desc = This is a felt plush of a human. All craftsmanship is of the lowest quality. The human is naked. The human is crying. The human is screaming.
+ent-PlushieHuman = плюшевый человек
+    .desc = Войлочная игрушка в виде человека. Вся работа самого низкого качества. Человек гол. Человек плачет. Человек кричит.
 
-ent-PlushieMoth = moth plushie
-    .desc = Cute and fluffy moth plushie. Enjoy, bz!
+ent-PlushieMoth = плюшевый ниан
+    .desc = Милый и пушистый плюшевый ниан. Наслаждайтесь, бз!
 
-ent-PlushieSheep = sheep plushie
-    .desc = A soft, wooly, stuffed sheep. 100% cotton.
+ent-PlushieSheep = плюшевая овечка
+    .desc = Мяхонькая, шерстистая, набитая ватой овечка. 100% хлопок.
 
-ent-PlushieSpaceSheep = space sheep plushie
-    .desc = A soft, wooly, cosmically stuffed sheep. 100% cotton.
+ent-PlushieSpaceSheep = плюшевая космическая овечка
+    .desc = Мяхонькая, шерстистая, набитая космосом овечка. 100% хлопок.
 
-ent-PlushieVulp = vulpkanin plushie
-    .desc = An adorable stuffed toy that resembles a vulpkanin. Yip! Yap!
+ent-PlushieVulp = плюшевый вульпканин
+    .desc = Очаровательная мягкая игрушка в виде вульпканина. Тяв! Тяф!
 
-ent-ToyIan = ian toy
-    .desc = Unable to eat, but just as fluffy as the real guy!
+ent-ToyIan = игрушечный иан
+    .desc = Есть не умеет, зато такой же пушистый, как настоящий!
 
-ent-ToyAmongPequeno = among pequeño
-    .desc = Sus!
+ent-ToyAmongPequeno = амонг пекеньо
+    .desc = Сус!

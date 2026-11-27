@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-teg-generator-examine-power = It's currently supplying [color=yellow]{ POWERWATTS($power) }[/color].
-teg-generator-examine-power-max-output = It's capable of supplying [color=yellow]{ POWERWATTS($power) }[/color].
-teg-generator-examine-connection = To function, a [color=white]circulator[/color] must be attached on both sides.
+teg-generator-examine-power = Текущая выработка: [color=yellow]{ POWERWATTS($power) }[/color].
+teg-generator-examine-power-max-output = Максимальная выработка: [color=yellow]{ POWERWATTS($power) }[/color].
+teg-generator-examine-connection = Для работы к каждой стороне нужно присоединить [color=white]циркулятор[/color].

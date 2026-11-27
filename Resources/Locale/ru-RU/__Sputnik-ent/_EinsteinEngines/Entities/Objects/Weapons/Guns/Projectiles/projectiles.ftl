@@ -13,5 +13,5 @@ ent-BulletGrenadeSpread00Buckshot = { ent-PelletShotgun }
 ent-BulletGrenadeSpread0000Buckshot = { ent-PelletShotgun }
     .desc = { ent-PelletShotgun.desc }
 
-ent-BulletGrenadeSlug = slug grenade
+ent-BulletGrenadeSlug = граната-пуля
     .desc = { ent-BaseBullet.desc }

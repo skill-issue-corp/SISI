@@ -1,29 +1,29 @@
-ent-SolarPanelBasePhysSprite = solar panel
+ent-SolarPanelBasePhysSprite = солнечная панель
     .desc = { "" }
 
-ent-SolarPanelPlasma = solar panel plasma
-    .desc = A few sheets of plasma glass that generate electricity when hit by photons.
+ent-SolarPanelPlasma = плазменная солнечная панель
+    .desc = Несколько листов плазменного стекла, вырабатывающих электричество при попадании фотонов.
 
-ent-SolarPanelUranium = solar panel uranium
-    .desc = A few sheets of uranium glass that generate electricity when hit by photons.
+ent-SolarPanelUranium = урановая солнечная панель
+    .desc = Несколько листов уранового стекла, вырабатывающих электричество при попадании фотонов.
 
-ent-SolarPanel = solar panel
-    .desc = A few sheets of glass that generate electricity when hit by photons.
+ent-SolarPanel = солнечная панель
+    .desc = Несколько листов стекла, вырабатывающих электричество при попадании фотонов.
 
-ent-SolarPanelBroken = solar panel
-    .desc = A broken solar panel.
-    .suffix = Broken
+ent-SolarPanelBroken = солнечная панель
+    .desc = Сломанная солнечная панель.
+    .suffix = Сломано
 
-ent-SolarPanelPlasmaBroken = plasma solar panel
-    .desc = A broken plasma solar panel.
-    .suffix = Broken
+ent-SolarPanelPlasmaBroken = плазменная солнечная панель
+    .desc = Сломанная плазменная солнечная панель.
+    .suffix = Сломано
 
-ent-SolarPanelUraniumBroken = uranium solar panel
-    .desc = A broken uranium solar panel.
-    .suffix = Broken
+ent-SolarPanelUraniumBroken = урановая солнечная панель
+    .desc = Сломанная урановая солнечная панель.
+    .suffix = Сломано
 
-ent-SolarAssembly = solar assembly
-    .desc = A solar assembly. Insert glass to build a solar panel.
+ent-SolarAssembly = каркас солнечной панели
+    .desc = Каркас солнечной панели. Вставьте стекло, чтобы закончить сборку.
 
-ent-SolarTracker = solar tracker
-    .desc = A solar tracker. Tracks the nearest star.
+ent-SolarTracker = солнечный трекер
+    .desc = Солнечный трекер. Отслеживает ближайшую звезду.

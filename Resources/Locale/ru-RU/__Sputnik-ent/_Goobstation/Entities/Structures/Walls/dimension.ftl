@@ -1,2 +1,2 @@
-ent-WallDimension = dimension wall
+ent-WallDimension = стена измерения
     .desc = { ent-BaseStructure.desc }

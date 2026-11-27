@@ -1,34 +1,34 @@
-ent-ClothingBeltMilitaryWebbingCMO = chief medical officer's chest rig
-    .desc = A medical chest rig with deep pockets, for use by health professionals.
+ent-ClothingBeltMilitaryWebbingCMO = разгрузка главного врача
+    .desc = Медицинская разгрузка с глубокими карманами для специалистов здравоохранения.
 
-ent-ClothingBeltDeathsquadWebbing = deathsquad operative chestrig
-    .desc = A robust and durable chestrig, containing everything you need to keep you in the fight. You probably won't need to use it.
-    .suffix = DO NOT MAP
+ent-ClothingBeltDeathsquadWebbing = РПС оперативника эскадрона смерти
+    .desc = Робастная и прочная разгрузка со всем необходимым, чтобы держаться в бою. Вряд ли вам придётся ею воспользоваться.
+    .suffix = НЕ МАППИТЬ
 
-ent-ClothingBeltSecurityWebbingMedical = ert doctor's chest rig
-    .desc = A medical chest rig with deep pockets, for use by ERT operatives.
+ent-ClothingBeltSecurityWebbingMedical = разгрузка врача обр
+    .desc = Медицинская разгрузка с глубокими карманами для оперативников ОБР.
 
-ent-ClothingBeltCorporateJudo = Corporate Judo Belt
-    .desc = Teaches the wearer NT Corporate Judo.
+ent-ClothingBeltCorporateJudo = Пояс Корпоративного Дзюдо
+    .desc = Обучает владельца Корпоративному Дзюдо NT.
 
-ent-ClothingBeltChemBagSyndi = syndicate medical pouch
-    .desc = A robust pouch for medical supplies worn by Gorlex Marauder operatives. It smells of desoxyephedrine.
+ent-ClothingBeltChemBagSyndi = медицинский подсумок синдиката
+    .desc = Робастный подсумок для медицинских припасов, который носят оперативники Мародёров Горлекса. Пахнет дезоксиэфедрином.
 
-ent-ClothingBeltSheathHeadOfSecurity = head of security's sheath
-    .desc = A rugged sheath, designed to hold the Head of Security's custom energy sword.
+ent-ClothingBeltSheathHeadOfSecurity = ножны главы службы безопасности
+    .desc = Прочные ножны для особого энергетического меча Главы Службы Безопасности.
 
-ent-ClothingBeltMilitaryRigGrenadier = grenadier belt
-    .desc = A specialised belt rig to hold so many grenades that your arm gets tired from throwing them all. Can also store a sidearm and magazines for it.
+ent-ClothingBeltMilitaryRigGrenadier = РПС гренадёра
+    .desc = Специальная разгрузка вмещает столько гранат, что устанете их бросать. В неё также помещается пистолет и магазины к нему.
 
-ent-ClothingBeltChemBagXenobiology = xenobiology pouch
-    .desc = A slime-resistant pouch intended for use by Xenobiologists. Smells of.. plasma?
+ent-ClothingBeltChemBagXenobiology = подсумок ксенобиолога
+    .desc = Устойчивый к слаймам подсумок для Ксенобиологов. Пахнет... плазмой?
 
-ent-ClothingBeltChemBagXenobiologyHolding = xenobiology pouch of holding
-    .desc = A larger slime-resistant pouch intended for use by Xenobiologists. Smells of bluespace extract and monkey hair.
+ent-ClothingBeltChemBagXenobiologyHolding = блюспейс-подсумок ксенобиолога
+    .desc = Увеличенный устойчивый к слаймам подсумок для Ксенобиологов. Пахнет блюспейс-экстрактом и обезьяньей шерстью.
 
 ent-ClothingBeltUtilityFilledUnremoveable = { ent-ClothingBeltUtilityFilled }
     .desc = { ent-ClothingBeltUtilityFilled.desc }
-    .suffix = Unremoveable
+    .suffix = Несъёмный
 
-ent-ClothingBeltSecurityWebbingContractorFilled = contractor's chest rig
-    .desc = A chest rig with deep pockets, often used by contractors and bounty hunters.
+ent-ClothingBeltSecurityWebbingContractorFilled = разгрузка наёмника синдиката
+    .desc = Разгрузка с глубокими карманами, которую часто носят наёмники синдиката и охотники за головами.

@@ -1,14 +1,14 @@
-ent-MobLivingCurse = living curse
-    .desc = Exceedingly slow, but is immune to all forms of damage, except holy.
+ent-MobLivingCurse = живое проклятие
+    .desc = Крайне медлительное, но невосприимчиво ко всем видам урона, кроме святого.
 
 ent-MobSpookyGhost1 = ???
-    .desc = You have no idea what this is!
+    .desc = Вы понятия не имеете, что это такое!
 
 ent-SolutionSpookyGhost = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
-ent-BaseMobGlutton = glutton
-    .desc = Something that was once a clown.
+ent-BaseMobGlutton = обжора
+    .desc = Нечто, когда-то бывшее клоуном.
 
-ent-MobAbyssCrawler = abyss crawler
-    .desc = A pale mass of heaving flesh that gropes around in the gloom. It doesn't appear to have any eyes.
+ent-MobAbyssCrawler = ползун из бездны
+    .desc = Бледный ком пульсирующей плоти шарит впотьмах. Похоже, глаз у него нет.

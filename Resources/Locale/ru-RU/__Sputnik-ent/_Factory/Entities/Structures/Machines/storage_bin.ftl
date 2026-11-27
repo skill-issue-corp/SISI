@@ -1,2 +1,2 @@
-ent-StorageBin = storage bin
-    .desc = An electronically controlled storage bin intended for use with robotic arms.
+ent-StorageBin = накопительный бункер
+    .desc = Хранилище с электронным управлением, предназначенное для работы с роботизированными руками.

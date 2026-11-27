@@ -1,14 +1,14 @@
-ent-AirlockShuttle = external airlock
-    .desc = Necessary for connecting two space craft together.
-    .suffix = Docking
+ent-AirlockShuttle = внешний шлюз
+    .desc = Нужен для стыковки двух космических кораблей.
+    .suffix = Стыковочный
 
 ent-AirlockGlassShuttle = { ent-AirlockShuttle }
     .desc = { ent-AirlockShuttle.desc }
-    .suffix = Glass, Docking
+    .suffix = Стекло, Стыковочный
 
-ent-AirlockShuttleAssembly = external airlock assembly
-    .desc = An incomplete structure necessary for connecting two space craft together.
-    .suffix = Docking
+ent-AirlockShuttleAssembly = каркас внешнего шлюза
+    .desc = Незавершённая конструкция, необходимая для стыковки двух космических кораблей.
+    .suffix = Стыковочный
 
 ent-AirlockGlassShuttleSyndicate = { ent-AirlockGlassShuttle }
     .desc = { ent-AirlockGlassShuttle.desc }

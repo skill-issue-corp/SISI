@@ -1,41 +1,41 @@
-ent-LogicEmptyCircuit = empty circuit
-    .desc = Something seems to be missing.
+ent-LogicEmptyCircuit = пустая схема
+    .desc = Похоже, чего-то не хватает.
 
 ent-BaseLogicItem = { ent-LogicEmptyCircuit }
     .desc = { ent-LogicEmptyCircuit.desc }
 
-ent-LogicGateOr = logic gate
-    .desc = A logic gate with two inputs and one output. Technicians can change its mode of operation using a screwdriver.
-    .suffix = Or
+ent-LogicGateOr = логический элемент
+    .desc = Логический элемент с двумя входами и одним выходом. Техник может сменить режим работы отвёрткой.
+    .suffix = Или
 
 ent-LogicGateAnd = { ent-LogicGateOr }
     .desc = { ent-LogicGateOr.desc }
-    .suffix = And
+    .suffix = И
 
 ent-LogicGateXor = { ent-LogicGateOr }
     .desc = { ent-LogicGateOr.desc }
-    .suffix = Xor
+    .suffix = ИсклИли
 
 ent-LogicGateNor = { ent-LogicGateOr }
     .desc = { ent-LogicGateOr.desc }
-    .suffix = Nor
+    .suffix = НеИли
 
 ent-LogicGateNand = { ent-LogicGateOr }
     .desc = { ent-LogicGateOr.desc }
-    .suffix = Nand
+    .suffix = НеИ
 
 ent-LogicGateXnor = { ent-LogicGateOr }
     .desc = { ent-LogicGateOr.desc }
-    .suffix = Xnor
+    .suffix = НеИсклИли
 
-ent-EdgeDetector = edge detector
-    .desc = Splits rising and falling edges into unique pulses and detects how edgy you are.
+ent-EdgeDetector = детектор фронтов
+    .desc = Преобразует передний и задний фронты в разные импульсы и определяет, насколько вы остры на язык.
 
-ent-PowerSensor = power sensor
-    .desc = Generates signals in response to powernet changes. Can be cycled between cable voltages.
+ent-PowerSensor = датчик питания
+    .desc = Генерирует сигналы при изменениях электросети. Можно переключать между напряжениями кабелей.
 
-ent-MemoryCell = memory cell
-    .desc = A D-Latch circuit that stores a signal which can be changed depending on input and enable ports.
+ent-MemoryCell = ячейка памяти
+    .desc = Схема D-защёлки, которая хранит сигнал и изменяет его в зависимости от входа данных и входа разрешения.
 
-ent-RandomGate = random gate
-    .desc = A logic gate that outputs a random signal when input changes.
+ent-RandomGate = случайный элемент
+    .desc = Логический элемент, выдающий случайный сигнал при изменении входа.

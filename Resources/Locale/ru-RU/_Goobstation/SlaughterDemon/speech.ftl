@@ -1,57 +1,57 @@
-accent-demonic-words-1 = human
-accent-demonic-words-replace-1 = rotting carcass
+accent-demonic-words-1 = человек
+accent-demonic-words-replace-1 = гниющая туша
 
-accent-demonic-words-2 = dwarf
-accent-demonic-words-replace-2 = stubborn mound of grime
+accent-demonic-words-2 = дворф
+accent-demonic-words-replace-2 = упрямая куча грязи
 
-accent-demonic-words-3 = reptilian
-accent-demonic-words-replace-3 = slithering abomination
+accent-demonic-words-3 = унатх
+accent-demonic-words-replace-3 = ползучая мерзость
 
-accent-demonic-words-4 = slime
-accent-demonic-words-replace-4 = bubbling filth
+accent-demonic-words-4 = слайм
+accent-demonic-words-replace-4 = бурлящие помои
 
-accent-demonic-words-5 = diona
-accent-demonic-words-replace-5 = thorned peasant
+accent-demonic-words-5 = диона
+accent-demonic-words-replace-5 = колючий холоп
 
-accent-demonic-words-6 = arachnid
-accent-demonic-words-replace-6 = crawling scum
+accent-demonic-words-6 = арахнид
+accent-demonic-words-replace-6 = ползучая дрянь
 
-accent-demonic-words-7 = moth
-accent-demonic-words-replace-7 = fluttering wisp of dust
+accent-demonic-words-7 = ниан
+accent-demonic-words-replace-7 = порхающий комок пыли
 
-accent-demonic-words-8 = skeleton
-accent-demonic-words-replace-8 = rattling bonesack
+accent-demonic-words-8 = скелет
+accent-demonic-words-replace-8 = гремучий мешок костей
 
-accent-demonic-words-9 = vox
-accent-demonic-words-replace-9 = metal-clanking fool
+accent-demonic-words-9 = вокс
+accent-demonic-words-replace-9 = лязгающий болван
 
-accent-demonic-words-10 = captain
-accent-demonic-words-replace-10 = deluded tyrant
+accent-demonic-words-10 = капитан
+accent-demonic-words-replace-10 = чокнутый тиран
 
-accent-demonic-words-11 = hos
-accent-demonic-words-replace-11 = glorified nurse
+accent-demonic-words-11 = гсб
+accent-demonic-words-replace-11 = прославленная нянька
 
-accent-demonic-words-12 = warden
-accent-demonic-words-replace-12 = jailhouse dog
+accent-demonic-words-12 = смотритель
+accent-demonic-words-replace-12 = тюремная псина
 
-accent-demonic-words-13 = officer
-accent-demonic-words-replace-13 = bootlicking pawn
+accent-demonic-words-13 = офицер
+accent-demonic-words-replace-13 = пешка-подлиза
 
-accent-demonic-words-14 = clown
-accent-demonic-words-replace-14 = circus abomination
+accent-demonic-words-14 = клоун
+accent-demonic-words-replace-14 = цирковая мерзость
 
-accent-demonic-words-15 = wizard
-accent-demonic-words-replace-15 = spell slinging worm
+accent-demonic-words-15 = волшебник
+accent-demonic-words-replace-15 = червь с заклинаниями
 
-accent-demonic-suffix-1 = {" "}YOU WERE BORN TO BLEED.
-accent-demonic-suffix-2 = {" "}FLESH IS WEAK.
-accent-demonic-suffix-3 = {" "}RIP AND TEAR.
-accent-demonic-suffix-4 = {" "}DIE SCREAMING.
-accent-demonic-suffix-5 = {" "}I HEAR YOUR HEART.
-accent-demonic-suffix-6 = {" "}OFFER YOUR BONES.
-accent-demonic-suffix-7 = {" "}BLOOD WILL DROWN YOU.
+accent-demonic-suffix-1 = {" "}ВЫ РОДИЛИСЬ, ЧТОБЫ ИСТЕЧЬ КРОВЬЮ.
+accent-demonic-suffix-2 = {" "}ПЛОТЬ СЛАБА.
+accent-demonic-suffix-3 = {" "}РВИ И КРОМСАЙ.
+accent-demonic-suffix-4 = {" "}УМРИ С КРИКОМ.
+accent-demonic-suffix-5 = {" "}Я СЛЫШУ ТВОЁ СЕРДЦЕ.
+accent-demonic-suffix-6 = {" "}ОТДАЙ МНЕ СВОИ КОСТИ.
+accent-demonic-suffix-7 = {" "}КРОВЬ ВАС ЗАТОПИТ.
 
 # speech verbs
-chat-speech-verb-name-demon = Slaughter Demon
-chat-speech-verb-demon-1 = wails
-chat-speech-verb-demon-2 = screeches
+chat-speech-verb-name-demon = Демон Резни
+chat-speech-verb-demon-1 = завывает
+chat-speech-verb-demon-2 = визжит

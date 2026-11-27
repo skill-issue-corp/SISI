@@ -1,1 +1,1 @@
-connecting-title-inky = Inky Station
+connecting-title-inky = Станция Инки

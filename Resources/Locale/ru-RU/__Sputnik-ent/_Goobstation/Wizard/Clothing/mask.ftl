@@ -1,11 +1,11 @@
-ent-ClothingMaskPig = pig mask
-    .desc = A rubber pig mask with a built-in voice modulator.
+ent-ClothingMaskPig = маска свиньи
+    .desc = Резиновая маска свиньи со встроенным модулятором голоса.
 
-ent-ClothingMaskFrog = frog mask
-    .desc = An ancient mask carved in the shape of a frog. Sanity is like gravity, all it needs is a push.
+ent-ClothingMaskFrog = маска лягушки
+    .desc = Древняя маска, вырезанная в форме лягушки. Рассудок как гравитация: достаточно лёгкого толчка.
 
-ent-ClothingMaskCow = cow mask
-    .desc = A mask made of soft vinyl and latex, representing the head of a cow.
+ent-ClothingMaskCow = маска коровы
+    .desc = Маска из мягкого винила и латекса в виде головы коровы.
 
-ent-ClothingMaskHorse = horse mask
-    .desc = A mask made of soft vinyl and latex, representing the head of a horse.
+ent-ClothingMaskHorse = маска лошади
+    .desc = Маска из мягкого винила и латекса в виде головы лошади.

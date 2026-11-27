@@ -2,85 +2,85 @@ ent-FoodPieBase = { ent-SolutionNormal }
     .desc = { ent-SolutionNormal.desc }
 
 ent-FoodPieSliceBase = { ent-FoodInjectableBase }
-    .desc = A slice of pie. Tasty!
+    .desc = Кусок пирога. Вкуснятина!
 
-ent-FoodPieApple = apple pie
-    .desc = A pie containing sweet, sweet love... or apple.
+ent-FoodPieApple = яблочный пирог
+    .desc = Пирог, полный сладкой-сладкой любви... или яблок.
 
-ent-FoodPieAppleSlice = slice of apple pie
+ent-FoodPieAppleSlice = кусок яблочного пирога
     .desc = { ent-FoodPieSliceBase.desc }
 
-ent-FoodPieBaklava = baklava
-    .desc = A delightful healthy snack made of nut layers with thin bread.
+ent-FoodPieBaklava = пахлава
+    .desc = Вкусное и полезное лакомство из слоёв орехов и тонкого теста.
 
-ent-FoodPieBaklavaSlice = slice of baklava
-    .desc = A portion of a delightful healthy snack made of nut layers with thin bread.
+ent-FoodPieBaklavaSlice = кусок пахлавы
+    .desc = Порция вкусного и полезного лакомства из слоёв орехов и тонкого теста.
 
-ent-FoodPieBananaCream = banana cream pie
-    .desc = Just like back home, on clown planet! HONK!
+ent-FoodPieBananaCream = банановый пирог с кремом
+    .desc = Прямо как дома, на планете клоунов! ХОНК!
 
-ent-FoodPieBananaCreamSlice = slice of banana cream pie
-    .desc = Just like back home, on clown planet! HONK!
+ent-FoodPieBananaCreamSlice = кусок бананового пирога с кремом
+    .desc = Прямо как дома, на планете клоунов! ХОНК!
 
-ent-FoodPieClafoutis = berry clafoutis
-    .desc = No black birds, this is a good sign.
+ent-FoodPieClafoutis = ягодный клафути
+    .desc = Чёрных птиц не видать, это хороший знак.
 
-ent-FoodPieClafoutisSlice = slice of berry clafoutis
+ent-FoodPieClafoutisSlice = кусок ягодного клафути
     .desc = { ent-FoodPieSliceBase.desc }
 
-ent-FoodPieCherry = cherry pie
-    .desc = Tastes good enough to make a grown man cry.
+ent-FoodPieCherry = вишнёвый пирог
+    .desc = Так вкусно, что и взрослый мужчина расплачется.
 
-ent-FoodPieCherrySlice = slice of cherry pie
+ent-FoodPieCherrySlice = кусок вишнёвого пирога
     .desc = { ent-FoodPieSliceBase.desc }
 
-ent-FoodPieMeat = meat pie
-    .desc = An old barber recipe, very delicious!
+ent-FoodPieMeat = мясной пирог
+    .desc = Старый рецепт цирюльника. Очень вкусно!
 
-ent-FoodPieMeatSlice = slice of meat pie
+ent-FoodPieMeatSlice = кусок мясного пирога
     .desc = { ent-FoodPieSliceBase.desc }
 
-ent-FoodPiePumpkin = pumpkin pie
-    .desc = Someone should turn this into a latte!
+ent-FoodPiePumpkin = тыквенный пирог
+    .desc = Кто-нибудь, сделайте из этого латте!
 
-ent-FoodPiePumpkinSlice = slice of pumpkin pie
+ent-FoodPiePumpkinSlice = кусок тыквенного пирога
     .desc = { ent-FoodPieSliceBase.desc }
 
-ent-FoodPieXeno = xeno pie
+ent-FoodPieXeno = ксенопирог
     .desc = { ent-FoodPieBase.desc }
 
-ent-FoodPieXenoSlice = slice of xeno pie
+ent-FoodPieXenoSlice = кусок ксенопирога
     .desc = { ent-FoodPieSliceBase.desc }
 
-ent-FoodPieFrosty = frosty pie
-    .desc = Tastes like blue and cold.
+ent-FoodPieFrosty = морозный пирог
+    .desc = На вкус сине и холодно.
 
-ent-FoodPieFrostySlice = slice of frosty pie
+ent-FoodPieFrostySlice = кусок морозного пирога
     .desc = { ent-FoodPieSliceBase.desc }
 
-ent-FoodTartMime = mime tart
+ent-FoodTartMime = тарт мима
     .desc = "      "
 
-ent-FoodTartMimeSlice = slice of mime tart
+ent-FoodTartMimeSlice = кусок тарта мима
     .desc = { ent-FoodPieSliceBase.desc }
 
-ent-FoodPieAmanita = amanita pie
-    .desc = Sweet and tasty poison pie.
+ent-FoodPieAmanita = пирог с мухоморами
+    .desc = Сладкий и вкусный ядовитый пирог.
 
-ent-FoodPieAmanitaSlice = slice of amanita pie
+ent-FoodPieAmanitaSlice = кусок пирога с мухоморами
     .desc = { ent-FoodPieSliceBase.desc }
 
-ent-FoodPiePlump = plump pie
-    .desc = I bet you love stuff made out of plump helmets!
+ent-FoodPiePlump = пирог с пухлошлемниками
+    .desc = Спорим, вы обожаете всё из пухлошлемников!
 
-ent-FoodPiePlumpSlice = slice of plump pie
+ent-FoodPiePlumpSlice = кусок пирога с пухлошлемниками
     .desc = { ent-FoodPieSliceBase.desc }
 
-ent-FoodTartGrape = grape tart
-    .desc = A tasty dessert that reminds you of the wine you didn't make.
+ent-FoodTartGrape = виноградный тарт
+    .desc = Вкусный десерт, напоминающий о вине, которое вы не сделали.
 
-ent-FoodTartGapple = golden apple streusel tart
-    .desc = A tasty dessert that won't make it through a metal detector.
+ent-FoodTartGapple = тарт с золотым яблоком и штрейзелем
+    .desc = Вкусный десерт, который не пройдёт через металлоискатель.
 
-ent-FoodTartCoco = chocolate lava tart
-    .desc = A tasty dessert made of chocolate, with a liquid core.
+ent-FoodTartCoco = шоколадный тарт с жидкой начинкой
+    .desc = Вкусный шоколадный десерт с жидкой сердцевиной.

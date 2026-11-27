@@ -1,20 +1,20 @@
-ent-ActionDanEnthrall = Enthrall
-    .desc = Bends someone to your will after a 15 second channel. Can't thrall mindshielded, vampires, and the chaplain.
+ent-ActionDanEnthrall = Поработить
+    .desc = Подчиняет цель вашей воле после 15 секунд применения. Нельзя обратить в тралла вампира, капеллана или того, у кого есть щит разума.
 
-ent-ActionPacify = Pacify
-    .desc = Select a target within 7 tiles to render them passive for 40 seconds.
+ent-ActionPacify = Усмирить
+    .desc = Выберите цель в пределах 7 тайлов, чтобы сделать её пассивной на 40 секунд.
 
-ent-ActionSubspaceSwap = Subspace Swap
-    .desc = Select a target within 7 tiles and swap positions with them.
+ent-ActionSubspaceSwap = Подпространственный Обмен
+    .desc = Выберите цель в пределах 7 тайлов и поменяйтесь с ней местами.
 
-ent-ActionDeployDecoy = Deploy Decoy
-    .desc = Deploy Decoy
+ent-ActionDeployDecoy = Создать Приманку
+    .desc = Создать Приманку
 
-ent-ActionRallyThralls = Rally Thralls
-    .desc = Instantly remove all incapacitating effects from all thralls within 7 tiles, this includes stamina crit, stuns and sleeping.
+ent-ActionRallyThralls = Взбодрить Траллов
+    .desc = Мгновенно снимает все обездвиживающие эффекты со всех траллов в пределах 7 тайлов, в том числе крит от истощения, оглушение и сон.
 
-ent-ActionBloodBond = Blood Bond
-    .desc = On cast, link to all nearby thralls. if a thrall goes more than 7 tiles away from you, the link is broken. All members of the network share damage equally between each-other.
+ent-ActionBloodBond = Кровные Узы
+    .desc = При применении связывает вас со всеми траллами поблизости. если тралл отойдёт от вас дальше чем на 7 тайлов, связь оборвётся. Урон распределяется поровну между всеми участниками связи.
 
-ent-ActionMassHysteria = Mass Hysteria
-    .desc = Briefly blind anyone within 8 tiles, then cause them to see everyone else as random animals for the duration. Thralls are not affected.
+ent-ActionMassHysteria = Массовая Истерия
+    .desc = Ненадолго ослепляет всех в пределах 8 тайлов, после чего они до конца действия эффекта видят окружающих в облике случайных животных. На траллов не действует.

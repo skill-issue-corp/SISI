@@ -1,23 +1,23 @@
-ghost-role-information-xenomorph-drone-name = xenomorph drone
-ghost-role-information-xenomorph-drone-description = You're a xenomorph drone. Make your hive grow.
+ghost-role-information-xenomorph-drone-name = дрон ксеноморфов
+ghost-role-information-xenomorph-drone-description = Вы - дрон ксеноморфов. Помогите своему улью вырасти.
 
-ghost-role-information-xenomorph-hunter-name = xenomorph hunter
-ghost-role-information-xenomorph-hunter-description = You're a xenomorph hunter. Hunt humanoids and infect them with facehuggers.
+ghost-role-information-xenomorph-hunter-name = охотник ксеноморфов
+ghost-role-information-xenomorph-hunter-description = Вы - охотник ксеноморфов. Охотьтесь на гуманоидов и заражайте их лицехватами.
 
-ghost-role-information-xenomorph-larva-name = xenomorph larva
-ghost-role-information-xenomorph-larva-description = You're a xenomorph larva. Help your hive expand and evolve into a higher caste.
+ghost-role-information-xenomorph-larva-name = личинка ксеноморфов
+ghost-role-information-xenomorph-larva-description = Вы - личинка ксеноморфов. Помогите своему улью расшириться и эволюционируйте в высшую касту.
 
-ghost-role-information-xenomorph-maid-name = xenomorph maid
-ghost-role-information-xenomorph-maid-description = You're a xeno-maid. Do the most important job in your hive - clean the hive.
+ghost-role-information-xenomorph-maid-name = горничная ксеноморфов
+ghost-role-information-xenomorph-maid-description = Вы - ксеногорничная. Выполняйте самую важную работу в улье - наводите чистоту.
 
-ghost-role-information-xenomorph-praetorian-name = xenomorph praetorian
-ghost-role-information-xenomorph-praetorian-description = You're a xenomorph praetorian. Protect the hive and the queen. Strike fear into your enemies.
+ghost-role-information-xenomorph-praetorian-name = преторианец ксеноморфов
+ghost-role-information-xenomorph-praetorian-description = Вы - преторианец ксеноморфов. Защищайте улей и королеву. Вселяйте страх во врагов.
 
-ghost-role-information-xenomorph-queen-name = xenomorph queen
-ghost-role-information-xenomorph-queen-description = You're a xenomorph queen. Produce offspring and manage the hive, and most importantly DON'T DIE.
+ghost-role-information-xenomorph-queen-name = королева ксеноморфов
+ghost-role-information-xenomorph-queen-description = Вы - королева ксеноморфов. Производите потомство и управляйте ульем, а главное - НЕ УМРИТЕ.
 
-ghost-role-information-xenomorph-sentinel-name = xenomorph sentinel
-ghost-role-information-xenomorph-sentinel-description = You're a xenomorph sentinel. Help the praetorian defend the hive and attack the humanoids if necessary.
+ghost-role-information-xenomorph-sentinel-name = страж ксеноморфов
+ghost-role-information-xenomorph-sentinel-description = Вы - страж ксеноморфов. Помогайте преторианцу защищать улей и при необходимости нападайте на гуманоидов.
 
-ghost-role-information-xenomorph-facehugger-name = xenomorph facehugger
-ghost-role-information-xenomorph-facehugger-description = You're a xenomorph facehugger. Find humanoids to infect so your hive can grow stronger.
+ghost-role-information-xenomorph-facehugger-name = лицехват ксеноморфов
+ghost-role-information-xenomorph-facehugger-description = Вы - лицехват ксеноморфов. Ищите гуманоидов, чтобы заразить их и укрепить свой улей.

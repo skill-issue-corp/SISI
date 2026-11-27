@@ -1,2 +1,2 @@
-ent-DubiousOrganSpawner = Mysterious Gland Fabrication
-    .desc = A random mysterious gland, Quality not guaranteed
+ent-DubiousOrganSpawner = Изготовление Загадочной Железы
+    .desc = Случайная загадочная железа, Качество не гарантируется

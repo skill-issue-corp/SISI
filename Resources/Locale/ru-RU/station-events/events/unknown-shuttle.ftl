@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-unknown-shuttle-incoming = Attention! An unidentified space shuttle has been spotted approaching your sector.
+station-event-unknown-shuttle-incoming = Внимание! К вашему сектору приближается неопознанный космический шаттл.

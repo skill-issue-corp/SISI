@@ -1,34 +1,34 @@
-ent-BaseCrystalStalagmite = crystal
-    .desc = A crystaline solid.
+ent-BaseCrystalStalagmite = кристалл
+    .desc = Твёрдое кристаллическое тело.
 
 ent-CrystalGreen = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = green
+    .suffix = зелёный
 
 ent-CrystalPink = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = pink
+    .suffix = розовый
 
 ent-CrystalGrey = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = red
+    .suffix = красный
 
 ent-CrystalOrange = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = orange
+    .suffix = оранжевый
 
 ent-CrystalBlack = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = black
+    .suffix = чёрный
 
 ent-CrystalBlue = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = blue
+    .suffix = синий
 
 ent-CrystalYellow = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = yellow
+    .suffix = жёлтый
 
 ent-CrystalCyan = { ent-BaseCrystalStalagmite }
     .desc = { ent-BaseCrystalStalagmite.desc }
-    .suffix = cyan
+    .suffix = бирюзовый

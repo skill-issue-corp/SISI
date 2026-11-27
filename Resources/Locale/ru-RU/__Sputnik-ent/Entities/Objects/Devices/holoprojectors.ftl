@@ -1,41 +1,41 @@
-ent-Holoprojector = holographic sign projector
-    .desc = A handy-dandy holographic projector that displays a janitorial sign.
+ent-Holoprojector = проектор голографической таблички
+    .desc = Удобный голографический проектор, отображающий табличку уборщика.
 
 ent-HoloprojectorEmpty = { ent-Holoprojector }
     .desc = { ent-Holoprojector.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-HoloprojectorBorg = holosign projector
-    .desc = A modified holographic sign projector for use in custodial cyborgs. Automatically self-charges.
-    .suffix = borg
+ent-HoloprojectorBorg = проектор голотаблички
+    .desc = Модифицированный проектор голографической таблички для киборгов-уборщиков. Сам заряжается.
+    .suffix = борг
 
-ent-HoloprojectorClownBorg = holopeel projector
-    .desc = A holopeel projector that creates a slippery, hard light banana peel. It recharges, so that the fun never ends!
-    .suffix = borg
+ent-HoloprojectorClownBorg = проектор голокожуры
+    .desc = Проектор голокожуры создаёт скользкую банановую кожуру из твёрдого света. Он подзаряжается, так что веселье не закончится!
+    .suffix = борг
 
-ent-HolofanProjector = holofan projector
-    .desc = Stop suicidal passengers from killing everyone during atmos emergencies.
+ent-HolofanProjector = проектор голобарьера
+    .desc = Не даёт самоубийственно настроенным пассажирам угробить всех во время атмосферной аварии.
 
 ent-HolofanProjectorEmpty = { ent-HolofanProjector }
     .desc = { ent-HolofanProjector.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-HolofanProjectorBorg = integrated holofan
-    .desc = Stops idiots from causing more crew harm during atmospheric emergencies. Installed directly into an engineering cyborg, it recharges over time.
+ent-HolofanProjectorBorg = встроенный голобарьер
+    .desc = Не даёт идиотам подвергать экипаж ещё большей опасности во время атмосферных аварий. Встроен в киборга-инженера и со временем подзаряжается.
 
-ent-HoloprojectorXenoField = Xenoborg deflector field projector
-    .desc = An alien device, projecting fields that deflect projectiles.
+ent-HoloprojectorXenoField = проектор отклоняющего поля Ксеноборгов
+    .desc = Инопланетное устройство, создающее поля, которые отклоняют снаряды.
 
-ent-HoloprojectorField = force field projector
-    .desc = Creates an impassable forcefield that won't let anything through. Close proximity may or may not cause cancer.
+ent-HoloprojectorField = проектор силового поля
+    .desc = Создаёт непроходимое силовое поле, которое ничего не пропускает. Если стоять рядом, можно заболеть раком. А может, и нет.
 
 ent-HoloprojectorFieldEmpty = { ent-HoloprojectorField }
     .desc = { ent-HoloprojectorField.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-HoloprojectorSecurity = holobarrier projector
-    .desc = Creates a solid but fragile holographic barrier.
+ent-HoloprojectorSecurity = проектор голографической баррикады
+    .desc = Создаёт прочную на вид, но хрупкую голографическую преграду.
 
 ent-HoloprojectorSecurityEmpty = { ent-HoloprojectorSecurity }
     .desc = { ent-HoloprojectorSecurity.desc }
-    .suffix = Empty
+    .suffix = Пусто

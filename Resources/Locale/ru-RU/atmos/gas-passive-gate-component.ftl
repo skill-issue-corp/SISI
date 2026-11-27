@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-gas-passive-gate-examined = The flow rate meter indicates [color=lightblue]{$flowRate} liters/sec[/color].
+gas-passive-gate-examined = Расходомер показывает [color=lightblue]{$flowRate} л/с[/color].

@@ -1,8 +1,8 @@
-ent-UnlitMolotov = Unlit molotov
-    .desc = Soon to be a throwable firely explosive.
+ent-UnlitMolotov = Незажжённый молотов
+    .desc = Скоро станет метательным зажигательным снарядом.
 
-ent-Molotov = molotov
-    .desc = Throwable fiery explosive
+ent-Molotov = молотов
+    .desc = Метательный зажигательный снаряд
 
-ent-MolotovFire = fire
-    .desc = It is burning
+ent-MolotovFire = огонь
+    .desc = Горит

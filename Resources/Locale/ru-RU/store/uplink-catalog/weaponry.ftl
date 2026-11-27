@@ -1,70 +1,70 @@
 # Weaponry
 
 uplink-pistol-viper-name = Viper
-uplink-pistol-viper-desc = A small and easily concealable pistol. Retrofitted with a fully automatic receiver. Uses extended pistol magazines (.35 auto).
+uplink-pistol-viper-desc = Маленький пистолет, который легко спрятать. Переделан под автоматический огонь. Использует удлинённые пистолетные магазины (.35 авто).
 
 uplink-pistol-cobra-name = Cobra
 # Trauma - 9.5mm larp
-uplink-pistol-cobra-desc = A rugged, robust operator handgun with inbuilt silencer. Uses 9.5mm caseless magnum, comes loaded with a hollow-point magazine.
+uplink-pistol-cobra-desc = Прочный и надёжный пистолет оперативников со встроенным глушителем. Использует безгильзовые патроны 9.5мм магнум и поставляется с магазином экспансивных патронов.
 
 uplink-rifle-mosin-name = Kardashev-Mosin
-uplink-rifle-mosin-desc = A bolt action service rifle that has seen many wars. Not modern by any standard, hand loaded, and terrible recoil, but it is cheap.
+uplink-rifle-mosin-desc = Армейская винтовка с продольно-скользящим затвором, повидавшая немало войн. Безнадёжно устарела, заряжается вручную, отдача ужасная. Зато дёшево.
 
-uplink-esword-name = Energy Sword
+uplink-esword-name = Энергетический Меч
 # Trauma - energy shots
-uplink-esword-desc = A very dangerous energy sword that can reflect energy shots. Can be stored in pockets when turned off. Makes a lot of noise when used or turned on.
+uplink-esword-desc = Очень опасный энергетический меч, способный отражать энергетические выстрелы. В выключенном виде помещается в карман. Громко шумит при включении и использовании.
 
-uplink-edagger-name = Energy Dagger
-uplink-edagger-desc = A small energy blade conveniently disguised in the form of a pen.
+uplink-edagger-name = Энергетический Кинжал
+uplink-edagger-desc = Маленькое энергетическое лезвие, для удобства замаскированное под ручку.
 
-uplink-energycrossbow-name = Mini Energy Crossbow
-uplink-energycrossbow-desc = The go-to sidearm of any operative who prefers their victims not to be moving. Fires regenerating toxic arrows that floors victims in an instant.
+uplink-energycrossbow-name = Миниатюрный Энергетический Арбалет
+uplink-energycrossbow-desc = Любимое оружие оперативников, которые предпочитают, чтобы их жертвы не двигались. Стреляет самовосполняющимися ядовитыми стрелами, которые мгновенно валят жертв с ног.
 
-uplink-knives-kit-name = Throwing Knives Kit
-uplink-knives-kit-desc = A set of 8 syndicate branded throwing knives, perfect for embedding into the body of your victims. Capable of ignoring armor entirely when thrown.
+uplink-knives-kit-name = Набор Метательных Ножей
+uplink-knives-kit-desc = Набор из 8 фирменных метательных ножей синдиката, которые так и просятся вонзиться в ваших жертв. При броске полностью игнорируют броню.
 
-uplink-gloves-north-star-name = Gloves of the North Star
-uplink-gloves-north-star-desc = A pair of gloves that improve the damage and speed of your punches, allowing you to beat people to death in a flurry of blows.
+uplink-gloves-north-star-name = Перчатки Полярной Звезды
+uplink-gloves-north-star-desc = Усиливают и ускоряют удары кулаками, позволяя забить противника насмерть градом ударов.
 
-uplink-gloves-knuckleduster-name = Syndicate Knuckle Dusters
-uplink-gloves-knuckleduster-desc = A pair of plastitanium knuckle dusters that let you punch hard enough to break the captain's jaw into pieces.
+uplink-gloves-knuckleduster-name = Кастет Синдиката
+uplink-gloves-knuckleduster-desc = Пара пластитановых кастетов, с которыми хватит силы раздробить капитану челюсть.
 
-uplink-eshield-name = Energy Shield
+uplink-eshield-name = Энергетический Щит
 # Trauma - reworked
-uplink-eshield-desc = Exotic energy shield that reflects all laser beams and offers a little protection from bullets and other physical attacks. It is discharged from received damage and is able to recharge automatically. Warning: EMP pulses are able to discharge energy shield internal battery.
+uplink-eshield-desc = Экзотический энергетический щит, отражающий все лазерные лучи и дающий небольшую защиту от пуль и прочих физических атак. Получая урон, расходует заряд, который восстанавливается автоматически. Внимание: ЭМИ может разрядить встроенную батарею щита.
 
-uplink-rigged-boxing-gloves-name = Rigged Boxing Gloves
-uplink-rigged-boxing-gloves-desc = Float like a butterfly, sting like a bee. Hits harder than you'd expect.
+uplink-rigged-boxing-gloves-name = Утяжелённые Боксёрские Перчатки
+uplink-rigged-boxing-gloves-desc = Порхайте как бабочка, жальте как пчела. Бьют сильнее, чем можно подумать.
 
-uplink-sniper-bundle-name = Sniper Bundle
+uplink-sniper-bundle-name = Снайперский Набор
 # Trauma - 10 -> 15
-uplink-sniper-bundle-desc = An inconspicuous briefcase that contains a Hristov, 15 spare bullets and a convenient disguise. Useful for breaching operations or assassination attempts, assuming the wielder is skilled enough.
+uplink-sniper-bundle-desc = Неприметный портфель с винтовкой Hristov, 15 запасными патронами и удобной маскировкой. Пригодится для операций со штурмом или покушений, если у стрелка хватит умения.
 
 uplink-hushpup-name = Hushpup
 # Trauma - 12 gauge larp
-uplink-hushpup-desc = A powerful silenced shotgun with a low magazine capacity. Uses 12 gauge shells.
+uplink-hushpup-desc = Мощный дробовик с глушителем и небольшим магазином. Использует патроны 12 калибра.
 
 uplink-c20r-name = C-20r
-uplink-c20r-desc = Old faithful: The classic C-20r Submachine Gun.
+uplink-c20r-desc = Старый друг: классический Пистолет-Пулемёт C-20r.
 
-uplink-c20r-bundle-name = C-20r Bundle
-uplink-c20r-bundle-desc = Old faithful: The classic C-20r Submachine Gun, bundled with three magazines.
+uplink-c20r-bundle-name = Комплект C-20r
+uplink-c20r-bundle-desc = Старый друг: классический Пистолет-Пулемёт C-20r в комплекте с тремя магазинами.
 
 uplink-bulldog-name = Bulldog
-uplink-bulldog-desc = Lean and mean: Contains the popular Bulldog Shotgun.
+uplink-bulldog-desc = Компактный и злой: внутри популярный Дробовик Bulldog.
 
-uplink-bulldog-bundle-name = Bulldog Bundle
-uplink-bulldog-bundle-desc = Lean and mean: Contains the popular Bulldog Shotgun, a 12g slug drum, and four 12g buckshot drums.
+uplink-bulldog-bundle-name = Комплект Bulldog
+uplink-bulldog-bundle-desc = Компактный и злой: внутри популярный Дробовик Bulldog, один барабан с пулями 12 калибра и четыре барабана с картечью 12 калибра.
 
 # Trauma - debundled
-uplink-estoc-bundle-name = Estoc DMR
-uplink-estoc-bundle-desc = A designated marksman rifle, fitted with a mid-range optic for longer-range combat.
+uplink-estoc-bundle-name = Марксманская Винтовка Estoc
+uplink-estoc-bundle-desc = Марксманская винтовка с оптикой средней кратности для боя на большой дистанции.
 
 uplink-grenade-launcher-name = China Lake
-uplink-grenade-launcher-desc = An old China Lake grenade launcher bundled with 5 rounds of anti-personnel ammo.
+uplink-grenade-launcher-desc = Старый гранатомёт China Lake в комплекте с 5 противопехотными боеприпасами.
 
-uplink-grenade-launcher-bundle-name = China Lake Bundle
-uplink-grenade-launcher-bundle-desc = An old China Lake grenade launcher bundled with 11 rounds of varying destructive capability.
+uplink-grenade-launcher-bundle-name = Комплект China Lake
+uplink-grenade-launcher-bundle-desc = Старый гранатомёт China Lake в комплекте с 11 боеприпасами разной разрушительной силы.
 
-uplink-l6-saw-bundle-name = L6 Saw Bundle
-uplink-l6-saw-bundle-desc = More dakka: The iconic L6 light machine gun, bundled with 2 box magazines.
+uplink-l6-saw-bundle-name = Комплект L6 Saw
+uplink-l6-saw-bundle-desc = Больше дакки: знаменитый ручной пулемёт L6 в комплекте с 2 коробчатыми магазинами.

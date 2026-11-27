@@ -1,2 +1,2 @@
-ent-ReinforcementRadioSyndicateSyndiRoach = syndiroach reinforcement radio
-    .desc = Calls in a faithfully trained mothroach with a microbomb to assist you.
+ent-ReinforcementRadioSyndicateSyndiRoach = рация вызова синдимоли
+    .desc = Вызывает верную дрессированную таракамоль с микробомбой вам на помощь.

@@ -1,14 +1,14 @@
-ent-OffsetCane = standard offset cane
-    .desc = A standard offset cane, essential for getting around when your legs aren't up to the task. May or may not grant you the wisdom of the elderly.
+ent-OffsetCane = стандартная трость со смещённой рукоятью
+    .desc = Стандартная трость со смещённой рукоятью. Незаменима, если ноги подводят. Может, подарит вам мудрость стариков. А может, и нет.
 
-ent-OffsetCaneClown = rainbow offset cane
-    .desc = A rainbow offset cane, perfect for clowns and those who enjoy a splash of color in their lives.
+ent-OffsetCaneClown = радужная трость со смещённой рукоятью
+    .desc = Радужная трость со смещённой рукоятью. Идеальна для клоунов и тех, кто любит раскрасить свою жизнь.
 
-ent-OffsetCaneMime = striped offset cane
-    .desc = A black and white striped cane, perfect for silent performances.
+ent-OffsetCaneMime = полосатая трость со смещённой рукоятью
+    .desc = Трость в чёрно-белую полоску идеально подходит для безмолвных выступлений.
 
-ent-OffsetCaneNT = nanotrasen offset cane
-    .desc = A nanotrasen standard issue offset cane with the NT logo, favored by those who prefer a more corporate look.
+ent-OffsetCaneNT = трость NanoTrasen со смещённой рукоятью
+    .desc = Стандартная трость NanoTrasen со смещённой рукоятью и логотипом NT. Её выбирают те, кому по душе корпоративный стиль.
 
-ent-OffsetCaneWood = wooden offset cane
-    .desc = A wooden offset cane, a classic choice for those who appreciate natural materials and a sturdy grip.
+ent-OffsetCaneWood = деревянная трость со смещённой рукоятью
+    .desc = Деревянная трость со смещённой рукоятью. Классический выбор для ценителей натуральных материалов и надёжного хвата.

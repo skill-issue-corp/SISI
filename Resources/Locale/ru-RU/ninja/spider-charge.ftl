@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-spider-charge-not-ninja = While it appears normal, you can't seem to detonate the charge.
-spider-charge-too-far = This isn't the location you're supposed to use this!
+spider-charge-not-ninja = Хотя заряд выглядит исправным, взорвать его не удаётся.
+spider-charge-too-far = Это место не подходит для установки заряда!

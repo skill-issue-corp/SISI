@@ -6,8 +6,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-thruster-comp-enabled = The thruster is turned [color=green]on[/color].
-thruster-comp-disabled = The thruster is turned [color=red]off[/color].
-thruster-comp-nozzle-direction = The nozzle is facing [color=yellow]{$direction}[/color].
-thruster-comp-nozzle-exposed = The nozzle [color=green]exposed[/color] to space.
-thruster-comp-nozzle-not-exposed = The nozzle [color=red]is not exposed[/color] to space.
+thruster-comp-enabled = Двигатель [color=green]включён[/color].
+thruster-comp-disabled = Двигатель [color=red]выключен[/color].
+thruster-comp-nozzle-direction = Сопло направлено [color=yellow]{$direction}[/color].
+thruster-comp-nozzle-exposed = Сопло [color=green]открыто[/color] в космос.
+thruster-comp-nozzle-not-exposed = Сопло [color=red]не открыто[/color] в космос.

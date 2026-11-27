@@ -1,2 +1,2 @@
-ent-CartridgeTurret = cartridge (.22 short)
-    .desc = A weak round with little stopping power, usually mass produced by communists and other assholes.
+ent-CartridgeTurret = патрон (.22 короткий)
+    .desc = Слабый патрон с низким останавливающим действием. Обычно его массово производят коммунисты и прочие мудаки.

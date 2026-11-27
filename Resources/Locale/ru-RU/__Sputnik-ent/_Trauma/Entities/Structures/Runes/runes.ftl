@@ -4,29 +4,29 @@ ent-BaseSummoningRune = { ent-BaseStructure }
 ent-BaseCarvedRune = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
 
-ent-EnchantingRuneCarved = unfinished rune
-    .desc = An unfinished rune, needs blood.
+ent-EnchantingRuneCarved = незавершённая руна
+    .desc = Незавершённая руна, нужна кровь.
 
-ent-EnchantingRune = enchantment rune
-    .desc = A rune used for enchanting items.
+ent-EnchantingRune = руна зачарования
+    .desc = Руна для зачарования предметов.
 
 ent-BaseDemonRune = { ent-BaseSummoningRune }
     .desc = { ent-BaseSummoningRune.desc }
 
-ent-MinorDemonRune = minor summoning circle
-    .desc = A rune used to summon minor demons.
+ent-MinorDemonRune = малый круг призыва
+    .desc = Руна для призыва младших демонов.
 
-ent-MinorRuneCarved = unfinished rune
-    .desc = An unfinished rune, needs blood.
+ent-MinorRuneCarved = незавершённая руна
+    .desc = Незавершённая руна, нужна кровь.
 
-ent-MediumDemonRune = summoning circle
-    .desc = A rune used to summon demons.
+ent-MediumDemonRune = круг призыва
+    .desc = Руна для призыва демонов.
 
-ent-MediumRuneCarved = unfinished rune
-    .desc = An unfinished rune, needs blood.
+ent-MediumRuneCarved = незавершённая руна
+    .desc = Незавершённая руна, нужна кровь.
 
-ent-MajorDemonRune = major summoning circle
-    .desc = A rune used to summon major demons.
+ent-MajorDemonRune = великий круг призыва
+    .desc = Руна для призыва старших демонов.
 
-ent-MajorRuneCarved = unfinished rune
-    .desc = An unfinished rune, needs blood.
+ent-MajorRuneCarved = незавершённая руна
+    .desc = Незавершённая руна, нужна кровь.

@@ -1,2 +1,2 @@
-ent-RevenantAbilities = Revenant Abilities
+ent-RevenantAbilities = Способности Ревенанта
     .desc = { "" }

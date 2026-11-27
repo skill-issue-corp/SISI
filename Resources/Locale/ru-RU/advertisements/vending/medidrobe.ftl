@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-medidrobe-1 = Make those blood stains look fashionable!!
-advertisement-medidrobe-2 = Clean and hygienic! Don't get too many bloodstains on yourself!
-advertisement-medidrobe-3 = With these outfits, you'll look like a professional doctor now!
-advertisement-medidrobe-4 = Jumpsuit, check. Coat, check. Someone who will wear this? Check!
+advertisement-medidrobe-1 = Пусть пятна крови выглядят модно!!
+advertisement-medidrobe-2 = Чисто и гигиенично! Только не забрызгайтесь кровью!
+advertisement-medidrobe-3 = В этих нарядах вы будете выглядеть как настоящий врач!
+advertisement-medidrobe-4 = Комбинезон - есть. Халат - есть. Кто это наденет? Есть!

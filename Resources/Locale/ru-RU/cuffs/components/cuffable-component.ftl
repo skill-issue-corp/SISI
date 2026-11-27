@@ -8,22 +8,22 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cuffable-component-cannot-interact-message = You can't do that!
-cuffable-component-cannot-remove-cuffs-too-far-message = You are too far away to remove the restraints.
+cuffable-component-cannot-interact-message = Вы не можете этого сделать!
+cuffable-component-cannot-remove-cuffs-too-far-message = Вы слишком далеко, чтобы снять путы.
 
-cuffable-component-start-uncuffing-self = You start to painfully wriggle out of your restraints.
-cuffable-component-start-uncuffing-observer = {$user} starts unrestraining {$target}!
-cuffable-component-start-uncuffing-self-observer = {$user} starts unrestraining {REFLEXIVE($target)}!
-cuffable-component-start-uncuffing-target-message = You start unrestraining {$targetName}.
-cuffable-component-start-uncuffing-by-other-message = {$otherName} starts unrestraining you!
+cuffable-component-start-uncuffing-self = Вы с болью пытаетесь выскользнуть из пут.
+cuffable-component-start-uncuffing-observer = {$user} начинает снимать путы с {$target}!
+cuffable-component-start-uncuffing-self-observer = {$user} начинает освобождать {REFLEXIVE($target)} от пут!
+cuffable-component-start-uncuffing-target-message = Вы начинаете снимать путы с {$targetName}.
+cuffable-component-start-uncuffing-by-other-message = {$otherName} начинает снимать с вас путы!
 
-cuffable-component-remove-cuffs-success-message = You successfully remove the restraints.
-cuffable-component-remove-cuffs-push-success-message = You successfully remove the restraints and push {$otherName} down.
-cuffable-component-remove-cuffs-by-other-success-message = {$otherName} unrestrains your hands.
-cuffable-component-remove-cuffs-to-other-partial-success-message = You successfully remove the restraints. {$cuffedHandCount} of {$otherName}'s hands remain restrained.
-cuffable-component-remove-cuffs-by-other-partial-success-message = {$otherName} removes your restraints. {$cuffedHandCount} of your hands remain restrained.
-cuffable-component-remove-cuffs-partial-success-message = You successfully remove the restraints. {$cuffedHandCount} of your hands remain restrained.
-cuffable-component-remove-cuffs-fail-message = You fail to remove the restraints.
+cuffable-component-remove-cuffs-success-message = Вы снимаете путы.
+cuffable-component-remove-cuffs-push-success-message = Вы снимаете путы и валите {$otherName} с ног.
+cuffable-component-remove-cuffs-by-other-success-message = {$otherName} освобождает вам руки.
+cuffable-component-remove-cuffs-to-other-partial-success-message = Вы снимаете путы. Число рук, которые всё ещё связаны у {$otherName}: {$cuffedHandCount}.
+cuffable-component-remove-cuffs-by-other-partial-success-message = {$otherName} снимает с вас путы. Число рук, которые всё ещё связаны: {$cuffedHandCount}.
+cuffable-component-remove-cuffs-partial-success-message = Вы снимаете путы. Число рук, которые всё ещё связаны: {$cuffedHandCount}.
+cuffable-component-remove-cuffs-fail-message = Вам не удаётся снять путы.
 
 # UnrestrainVerb
-uncuff-verb-get-data-text = Unrestrain
+uncuff-verb-get-data-text = Снять путы

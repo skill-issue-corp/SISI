@@ -1,28 +1,28 @@
-ent-GhostRoleSpawnerInsurgent = insurgent ghost role spawner
+ent-GhostRoleSpawnerInsurgent = точка спавна повстанца для роли призрака
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-GhostRoleSpawnerMorph = morph ghost role spawner
+ent-GhostRoleSpawnerMorph = точка спавна морфа для роли призрака
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-GhostRoleSpawnerShadowling = shadowling ghost role spawner
+ent-GhostRoleSpawnerShadowling = точка спавна тенеморфа для роли призрака
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostRoleFugitive = fugitive spawn
+ent-SpawnPointGhostRoleFugitive = точка спавна беглеца
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostRoleHunterSyndicate = fugitive hunter spawn (syndicate)
+ent-SpawnPointGhostRoleHunterSyndicate = точка спавна охотника за беглецами (синдикат)
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostRoleHunterSpacepol = fugitive hunter spawn (spacepol)
+ent-SpawnPointGhostRoleHunterSpacepol = точка спавна охотника за беглецами (космополиция)
     .desc = { ent-SpawnPointGhostRoleHunterSyndicate.desc }
 
-ent-SpawnPointGhostRoleHunterRussian = fugitive hunter spawn (russian)
+ent-SpawnPointGhostRoleHunterRussian = точка спавна охотника за беглецами (русские)
     .desc = { ent-SpawnPointGhostRoleHunterSyndicate.desc }
 
-ent-SpawnPointGhostRoleHunterBounty = fugitive hunter spawn (bounty)
+ent-SpawnPointGhostRoleHunterBounty = точка спавна охотника за беглецами (наёмник)
     .desc = { ent-SpawnPointGhostRoleHunterSyndicate.desc }
 
-ent-SpawnPointPirateCaptain = Pirate spawn point
+ent-SpawnPointPirateCaptain = точка спавна пирата
     .desc = { ent-BaseAntagSpawner.desc }
 
 ent-SpawnPointGhostWraithRoundstart = { ent-BaseAntagSpawner }

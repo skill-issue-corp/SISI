@@ -1,14 +1,14 @@
-ent-BaseCartridgeLightRifle = cartridge (.30 rifle)
+ent-BaseCartridgeLightRifle = патрон (.30 винтовочные)
     .desc = { ent-BaseCartridge.desc }
 
-ent-CartridgeLightRifle = cartridge (.30 rifle)
-    .desc = A classic intermediate cartridge used by many combat rifles and LMGs. Standard kinetic ammunition is common and useful in most situations.
+ent-CartridgeLightRifle = патрон (.30 винтовочные)
+    .desc = Классический промежуточный патрон для многих боевых винтовок и ручных пулемётов. Обычные кинетические патроны широко распространены и пригодны в большинстве ситуаций.
 
-ent-CartridgeLightRiflePractice = cartridge (.30 rifle practice)
-    .desc = A classic intermediate cartridge used by many combat rifles and LMGs. Practice ammunition fires a chalk projectile that stings a little, but otherwise causes no lasting damage.
+ent-CartridgeLightRiflePractice = патрон (.30 винтовочные учебные)
+    .desc = Классический промежуточный патрон для многих боевых винтовок и ручных пулемётов. Учебный патрон стреляет меловой пулей, которая жалит, но не причиняет серьёзного вреда.
 
-ent-CartridgeLightRifleIncendiary = cartridge (.30 rifle incendiary)
-    .desc = A classic intermediate cartridge used by many combat rifles and LMGs. Incendiary ammunition contains a self-igniting compound that sets targets ablaze.
+ent-CartridgeLightRifleIncendiary = патрон (.30 винтовочные зажигательные)
+    .desc = Классический промежуточный патрон для многих боевых винтовок и ручных пулемётов. Зажигательные боеприпасы содержат самовоспламеняющийся состав, поджигающий цель.
 
-ent-CartridgeLightRifleUranium = cartridge (.30 rifle uranium)
-    .desc = A classic intermediate cartridge used by many combat rifles and LMGs. Uranium ammunition replaces the lead core of the bullet with fissile material, irradiating targets from the inside.
+ent-CartridgeLightRifleUranium = патрон (.30 винтовочные урановые)
+    .desc = Классический промежуточный патрон для многих боевых винтовок и ручных пулемётов. В урановых патронах свинцовый сердечник пули заменён делящимся материалом, который облучает цель изнутри.

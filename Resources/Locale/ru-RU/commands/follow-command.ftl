@@ -1,2 +1,2 @@
-cmd-follow-desc = Makes you begin following an entity.
-cmd-follow-help = Usage: follow [netEntity]
+cmd-follow-desc = Включает слежение за объектом.
+cmd-follow-help = Использование: follow [netEntity]

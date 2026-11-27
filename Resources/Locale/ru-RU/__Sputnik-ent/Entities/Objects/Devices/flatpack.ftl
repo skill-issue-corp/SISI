@@ -1,62 +1,62 @@
-ent-BaseFlatpack = base flatpack
-    .desc = A flatpack used for constructing something.
+ent-BaseFlatpack = базовая упаковка
+    .desc = Упаковка для сборки чего-то.
 
-ent-SolarAssemblyFlatpack = solar assembly flatpack
-    .desc = A flatpack used for constructing a solar assembly.
+ent-SolarAssemblyFlatpack = упаковка солнечной панели
+    .desc = Упаковка для сборки солнечной панели.
 
-ent-AmeControllerFlatpack = AME controller flatpack
-    .desc = A flatpack used for constructing the terminal that controls the antimatter engine.
+ent-AmeControllerFlatpack = упаковка контроллера ДАМ
+    .desc = Упаковка для сборки терминала управления двигателем антиматерии.
 
-ent-AmePartFlatpack = AME flatpack
-    .desc = A flatpack used for constructing an antimatter engine reactor.
+ent-AmePartFlatpack = упаковка ДАМ
+    .desc = Упаковка для сборки реактора двигателя антиматерии.
 
-ent-SingularityGeneratorFlatpack = singularity generator flatpack
-    .desc = A flatpack used for constructing a singularity generator.
+ent-SingularityGeneratorFlatpack = упаковка генератора сингулярности
+    .desc = Упаковка для сборки генератора сингулярности.
 
-ent-RadiationCollectorFlatpack = radiation collector flatpack
-    .desc = A flatpack used for constructing a radiation collector.
+ent-RadiationCollectorFlatpack = упаковка коллектора радиации
+    .desc = Упаковка для сборки коллектора радиации.
 
-ent-ContainmentFieldGeneratorFlatpack = containment field generator flatpack
-    .desc = A flatpack used for constructing a containment field generator.
+ent-ContainmentFieldGeneratorFlatpack = упаковка генератора поля сдерживания
+    .desc = Упаковка для сборки генератора поля сдерживания.
 
-ent-EmitterFlatpack = emitter flatpack
-    .desc = A flatpack used for constructing an emitter.
+ent-EmitterFlatpack = упаковка эмиттера
+    .desc = Упаковка для сборки эмиттера.
 
-ent-TeslaGeneratorFlatpack = tesla generator flatpack
-    .desc = A flatpack used for constructing a tesla generator.
+ent-TeslaGeneratorFlatpack = упаковка генератора теслы
+    .desc = Упаковка для сборки генератора теслы.
 
-ent-TeslaCoilFlatpack = tesla coil flatpack
-    .desc = A flatpack used for constructing a tesla coil.
+ent-TeslaCoilFlatpack = упаковка катушки теслы
+    .desc = Упаковка для сборки катушки теслы.
 
-ent-TeslaGroundingRodFlatpack = grounding rod flatpack
-    .desc = A flatpack used for constructing a grounding rod.
+ent-TeslaGroundingRodFlatpack = упаковка заземляющего стержня
+    .desc = Упаковка для сборки заземляющего стержня.
 
-ent-GyroscopeFlatpack = gyroscope flatpack
-    .desc = A flatpack used for constructing a gyroscope.
+ent-GyroscopeFlatpack = упаковка гироскопа
+    .desc = Упаковка для сборки гироскопа.
 
-ent-ThrusterFlatpack = thruster flatpack
-    .desc = A flatpack used for constructing a thruster.
+ent-ThrusterFlatpack = упаковка двигателя
+    .desc = Упаковка для сборки двигателя.
 
-ent-SpaceHeaterFlatpack = space heater flatpack
-    .desc = A flatpack used for constructing a space heater.
+ent-SpaceHeaterFlatpack = упаковка обогревателя
+    .desc = Упаковка для сборки обогревателя.
 
-ent-FaxMachineFlatpack = fax machine flatpack
-    .desc = A flatpack used for constructing a fax machine.
+ent-FaxMachineFlatpack = упаковка факса
+    .desc = Упаковка для сборки факса.
 
-ent-CrewMonitoringServerFlatpack = crew monitoring server flatpack
-    .desc = A flatpack used for constructing a crew monitoring server.
+ent-CrewMonitoringServerFlatpack = упаковка сервера мониторинга экипажа
+    .desc = Упаковка для сборки сервера мониторинга экипажа.
 
-ent-CrewMonitoringComputerFlatpack = crew monitoring computer flatpack
-    .desc = A flatpack used for constructing a crew monitoring console.
+ent-CrewMonitoringComputerFlatpack = упаковка консоли мониторинга экипажа
+    .desc = Упаковка для сборки консоли мониторинга экипажа.
 
-ent-HydroponicsTrayFlatpack = hydroponics tray flatpack
-    .desc = A flatpack used for constructing a hydroponics tray.
+ent-HydroponicsTrayFlatpack = упаковка гидропонного лотка
+    .desc = Упаковка для сборки гидропонного лотка.
 
-ent-SyndicateMicrowaveFlatpack = donk co. microwave flatpack
-    .desc = A flatpack used for constructing a microwave too hot for Nanotrasen to handle.
+ent-SyndicateMicrowaveFlatpack = упаковка микроволновки «донк ко.»
+    .desc = Упаковка для сборки микроволновки, слишком горячей даже для NanoTrasen.
 
-ent-XenoborgExtractorFlatpack = xenoborg extractor flatpack
-    .desc = A flatpack used for constructing a xenoborg extractor.
+ent-XenoborgExtractorFlatpack = упаковка экстрактора ксеноборгов
+    .desc = Упаковка для сборки экстрактора ксеноборгов.
 
-ent-MachineAnomalyVesselFlatpack = anomaly vessel flatpack
-    .desc = A flatpack used for constructing an anomaly vessel.
+ent-MachineAnomalyVesselFlatpack = упаковка сосуда аномалий
+    .desc = Упаковка для сборки сосуда аномалий.

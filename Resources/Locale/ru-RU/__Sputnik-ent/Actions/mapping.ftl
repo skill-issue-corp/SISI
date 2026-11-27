@@ -7,7 +7,7 @@ ent-BaseMappingDecalAction = { ent-BaseMappingAction }
 ent-BaseMappingSpawnAction = { ent-BaseMappingAction }
     .desc = { ent-BaseMappingAction.desc }
 
-ent-ActionMappingEraser = Erase Entity
+ent-ActionMappingEraser = Стереть Сущность
     .desc = { ent-BaseMappingAction.desc }
 
 ent-BaseMappingEntityAction = { ent-BaseMappingSpawnAction }

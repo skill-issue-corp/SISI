@@ -1,43 +1,43 @@
 ent-MaterialGunpowder30 = { ent-MaterialGunpowder }
     .desc = { ent-MaterialGunpowder.desc }
-    .suffix = full
+    .suffix = полностью заполнено
 
-ent-Charcoal = charcoal
-    .desc = Created by burning wood with minimal oxygen, it burns much hotter than wood.
-    .suffix = Full
+ent-Charcoal = древесный уголь
+    .desc = Получается при обжиге дерева с минимальным доступом кислорода. Горит гораздо жарче дерева.
+    .suffix = Полностью заполнено
 
 ent-Charcoal1 = { ent-Charcoal }
     .desc = { ent-Charcoal.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
 ent-Charcoal5 = { ent-Charcoal }
     .desc = { ent-Charcoal.desc }
-    .suffix = Five
+    .suffix = Пять
 
 ent-Charcoal10 = { ent-Charcoal }
     .desc = { ent-Charcoal.desc }
-    .suffix = Ten
+    .suffix = Десять
 
 ent-Charcoal15 = { ent-Charcoal }
     .desc = { ent-Charcoal.desc }
-    .suffix = Fifteen
+    .suffix = Пятнадцать
 
-ent-Brick = brick
-    .desc = An insulative brick, perfect for a bloomery.
-    .suffix = Full
+ent-Brick = кирпич
+    .desc = Теплоизоляционный кирпич, идеально подходит для сыродутного горна.
+    .suffix = Полностью заполнено
 
 ent-Brick1 = { ent-Brick }
     .desc = { ent-Brick.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
 ent-MaterialBananium5 = { ent-MaterialBananium }
     .desc = { ent-MaterialBananium.desc }
     .suffix = 5
 
-ent-BarbedWire = barbed wire
-    .desc = Some wire with barbs cut into it.
-    .suffix = Full
+ent-BarbedWire = колючая проволока
+    .desc = Проволока с насечёнными шипами.
+    .suffix = Полностью заполнено
 
 ent-BarbedWire1 = { ent-BarbedWire }
     .desc = { ent-BarbedWire.desc }
-    .suffix = Single
+    .suffix = Один предмет

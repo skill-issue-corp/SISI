@@ -1,2 +1,2 @@
-ent-RadioImplantHeadrev = headrev radio implant
-    .desc = This implant grants access to the Revolutionary and special Head Rev radio channels.
+ent-RadioImplantHeadrev = радиоимплант главы революции
+    .desc = Имплант даёт доступ к каналу Революционеров и специальному каналу Главы Революции.

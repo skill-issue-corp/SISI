@@ -1,10 +1,10 @@
-dice-component-on-examine-message-part-1 = A {$name} with [color=lightgray]{$sidesAmount}[/color] sides.
-dice-component-on-roll-land = { CAPITALIZE(THE($die)) } lands on {$currentSide}.
+dice-component-on-examine-message-part-1 = Кость {$name} с числом граней [color=lightgray]{$sidesAmount}[/color].
+dice-component-on-roll-land = { CAPITALIZE($die) } останавливается на {$currentSide}.
 
-dice-component-type-die = die
+dice-component-type-die = игральная кость
 
-dice-component-roll-generic = It has landed on a [color=white]{$currentSide}[/color].
-dice-component-roll-specific = It has landed on [color=white]{$currentSide}[/color].
+dice-component-roll-generic = Выпало [color=white]{$currentSide}[/color].
+dice-component-roll-specific = Выпало [color=white]{$currentSide}[/color].
 
-dice-component-coin-value-1 = heads
-dice-component-coin-value-2 = tails
+dice-component-coin-value-1 = орёл
+dice-component-coin-value-2 = решка

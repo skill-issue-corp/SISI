@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-skeleton-healed-by-milk-popup = Calcium restored.
-skeleton-sprayed-by-oat-milk-popup = Feels like fake milk. You feel nothing.
+skeleton-healed-by-milk-popup = Запас кальция восполнен.
+skeleton-sprayed-by-oat-milk-popup = Похоже, молоко ненастоящее. Вы ничего не чувствуете.

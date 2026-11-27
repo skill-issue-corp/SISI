@@ -4,71 +4,71 @@ ent-BaseMilitaryPowerCell = { ent-BasePowerCell }
 ent-BaseMilitaryPowerCellSMG = { ent-BaseMilitaryPowerCell }
     .desc = { ent-BaseMilitaryPowerCell.desc }
 
-ent-PowerCellIRSMG = SMG power cell
-    .desc = A militarized power cell compatible with SMG scale lasers.
-    .suffix = Full
+ent-PowerCellIRSMG = батарея для ПП
+    .desc = Боевая батарея для лазерных ПП.
+    .suffix = Полностью заполнено
 
-ent-PowerCellXraySMG = x-ray SMG power cell
-    .desc = A militarized power cell compatible with SMG scale lasers that fires x-rays.
-    .suffix = Full
+ent-PowerCellXraySMG = рентгеновская батарея для ПП
+    .desc = Боевая батарея для лазерных ПП. Позволяет стрелять рентгеновскими лучами.
+    .suffix = Полностью заполнено
 
-ent-PowerCellOverchargedSMG = overclocked SMG power cell
-    .desc = A militarized power cell compatible with SMG scale lasers that has been overclocked.
-    .suffix = Full
+ent-PowerCellOverchargedSMG = разогнанная батарея для ПП
+    .desc = Разогнанная боевая батарея для лазерных ПП.
+    .suffix = Полностью заполнено
 
-ent-PowerCellPulseSMG = pulse SMG power cell
-    .desc = A militarized power cell compatible with SMG scale lasers that fires pulse beams.
-    .suffix = Full
+ent-PowerCellPulseSMG = импульсная батарея для ПП
+    .desc = Боевая батарея для лазерных ПП. Позволяет стрелять импульсными лучами.
+    .suffix = Полностью заполнено
 
-ent-PowerCellIonSMG = ion SMG power cell
-    .desc = A militarized power cell compatible with SMG scale lasers that fires ion beams.
-    .suffix = Full
+ent-PowerCellIonSMG = ионная батарея для ПП
+    .desc = Боевая батарея для лазерных ПП. Позволяет стрелять ионными лучами.
+    .suffix = Полностью заполнено
 
 ent-BaseMilitaryPowerCellSniper = { ent-BaseMilitaryPowerCell }
     .desc = { ent-BaseMilitaryPowerCell.desc }
 
-ent-PowerCellIRSniper = sniper power cell
-    .desc = A militarized power cell compatible with laser snipers.
-    .suffix = Full
+ent-PowerCellIRSniper = батарея для снайперской винтовки
+    .desc = Боевая батарея для лазерных снайперских винтовок.
+    .suffix = Полностью заполнено
 
-ent-PowerCellXraySniper = x-ray sniper power cell
-    .desc = A militarized power cell compatible with laser snipers that fires x-rays.
-    .suffix = Full
+ent-PowerCellXraySniper = рентгеновская батарея для снайперской винтовки
+    .desc = Боевая батарея для лазерных снайперских винтовок. Позволяет стрелять рентгеновскими лучами.
+    .suffix = Полностью заполнено
 
-ent-PowerCellOverchargedSniper = overclocked sniper power cell
-    .desc = A militarized power cell compatible with laser snipers that has been overclocked.
-    .suffix = Full
+ent-PowerCellOverchargedSniper = разогнанная батарея для снайперской винтовки
+    .desc = Разогнанная боевая батарея для лазерных снайперских винтовок.
+    .suffix = Полностью заполнено
 
-ent-PowerCellPulseSniper = pulse sniper power cell
-    .desc = A militarized power cell compatible with laser snipers that fires pulse beams.
-    .suffix = Full
+ent-PowerCellPulseSniper = импульсная батарея для снайперской винтовки
+    .desc = Боевая батарея для лазерных снайперских винтовок. Позволяет стрелять импульсными лучами.
+    .suffix = Полностью заполнено
 
-ent-PowerCellIonSniper = ion sniper power cell
-    .desc = A militarized power cell compatible with laser snipers that fires ion beams.
-    .suffix = Full
+ent-PowerCellIonSniper = ионная батарея для снайперской винтовки
+    .desc = Боевая батарея для лазерных снайперских винтовок. Позволяет стрелять ионными лучами.
+    .suffix = Полностью заполнено
 
 ent-BaseMilitaryPowerCellRevolver = { ent-BaseMilitaryPowerCell }
     .desc = { ent-BaseMilitaryPowerCell.desc }
 
-ent-PowerCellIRRevolver = revolver power cell
-    .desc = A power cell compatible with laser revolvers.
-    .suffix = Full
+ent-PowerCellIRRevolver = батарея для револьвера
+    .desc = Батарея для лазерных револьверов.
+    .suffix = Полностью заполнено
 
-ent-PowerCellXrayRevolver = x-ray revolver power cell
-    .desc = A power cell compatible with laser revolvers, this one fires Xrays.
-    .suffix = Full
+ent-PowerCellXrayRevolver = рентгеновская батарея для револьвера
+    .desc = Батарея для лазерных револьверов. Позволяет стрелять Рентгеновскими лучами.
+    .suffix = Полностью заполнено
 
-ent-PowerCellOverchargedRevolver = overclocked revolver power cell
-    .desc = A power cell compatible with laser revolvers, this one burns hot enough to ignite targets.
-    .suffix = Full
+ent-PowerCellOverchargedRevolver = разогнанная батарея для револьвера
+    .desc = Батарея для лазерных револьверов. Выстрелы настолько горячие, что поджигают цели.
+    .suffix = Полностью заполнено
 
-ent-PowerCellPulseRevolver = pulse revolver power cell
-    .desc = A militarized power cell compatible with laser revolvers that fires pulse beams.
-    .suffix = Full
+ent-PowerCellPulseRevolver = импульсная батарея для револьвера
+    .desc = Боевая батарея для лазерных револьверов. Позволяет стрелять импульсными лучами.
+    .suffix = Полностью заполнено
 
-ent-PowerCellIonRevolver = ion revolver power cell
-    .desc = A power cell compatible with laser revolvers, this one fires ion beams.
-    .suffix = Full
+ent-PowerCellIonRevolver = ионная батарея для револьвера
+    .desc = Батарея для лазерных револьверов. С этой можно стрелять ионными лучами.
+    .suffix = Полностью заполнено
 
-ent-MilitaryPowerCellLMG = LMG battery
-    .desc = A car battery compatible with laser LMG, attachable to charge provider backpack.
+ent-MilitaryPowerCellLMG = аккумулятор для РП
+    .desc = Автомобильный аккумулятор, совместимый с лазерным РП. Его можно прикрепить к рюкзаку-заряднику.

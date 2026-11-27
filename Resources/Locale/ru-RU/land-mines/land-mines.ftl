@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-land-mine-triggered = You step on the { $mine }!
-land-mine-verb-begin = Arm
+land-mine-triggered = Вы наступаете на { $mine }!
+land-mine-verb-begin = Привести в боевое положение

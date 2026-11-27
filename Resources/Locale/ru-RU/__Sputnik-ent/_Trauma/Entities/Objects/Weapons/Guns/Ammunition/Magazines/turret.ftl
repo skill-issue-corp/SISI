@@ -1,15 +1,15 @@
-ent-BaseMagazineTurret = magazine (.22 short)
-    .desc = 60 round low-caliber magazine, often used in anti-personnel turrets.
-    .suffix = Full
+ent-BaseMagazineTurret = магазин (.22 короткий)
+    .desc = Магазин на 60 малокалиберных патронов, часто используемый в противопехотных турелях.
+    .suffix = Полностью заполнено
 
 ent-BaseMagazineTurretEmpty = { ent-BaseMagazineTurret }
     .desc = { ent-BaseMagazineTurret.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-BaseMagazineTurretHeavy = pan magazine (.22 short)
-    .desc = 240 round low-caliber pan magazine, often used by communists and other assholes.
-    .suffix = Full
+ent-BaseMagazineTurretHeavy = дисковый магазин (.22 короткий)
+    .desc = Дисковый магазин на 240 малокалиберных патронов. Часто используется коммунистами и прочими мудаками.
+    .suffix = Полностью заполнено
 
 ent-BaseMagazineTurretHeavyEmpty = { ent-BaseMagazineTurretHeavy }
     .desc = { ent-BaseMagazineTurretHeavy.desc }
-    .suffix = Empty
+    .suffix = Пусто

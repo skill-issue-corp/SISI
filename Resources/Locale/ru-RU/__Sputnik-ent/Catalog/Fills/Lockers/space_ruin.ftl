@@ -1,11 +1,11 @@
-ent-LockerOldAISat = closet
+ent-LockerOldAISat = шкафчик
     .desc = { ent-LockerSyndicate.desc }
-    .suffix = NTSRA voidsuit locker
+    .suffix = шкафчик пустотного костюма NTSRA
 
 ent-LockerSyndicateShipGearBasic = { ent-LockerSyndicate }
     .desc = { ent-LockerSyndicate.desc }
-    .suffix = Basic ship gear, Random
+    .suffix = Базовое корабельное снаряжение, Случайно
 
 ent-LockerSyndicateShipGearBasicChameleonKit = { ent-LockerSyndicateShipGearBasic }
     .desc = { ent-LockerSyndicateShipGearBasic.desc }
-    .suffix = Basic ship gear, Random, Chameleon Kit
+    .suffix = Базовое корабельное снаряжение, Случайно, Комплект Хамелеона

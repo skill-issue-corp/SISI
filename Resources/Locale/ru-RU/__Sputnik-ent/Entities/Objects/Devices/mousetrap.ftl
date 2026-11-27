@@ -1,6 +1,6 @@
-ent-Mousetrap = mousetrap
-    .desc = Useful for catching rodents sneaking into your kitchen.
+ent-Mousetrap = мышеловка
+    .desc = Пригодится, чтобы ловить грызунов, пробравшихся на вашу кухню.
 
-ent-MousetrapArmed = mousetrap
-    .desc = Useful for catching rodents sneaking into your kitchen.
-    .suffix = Armed
+ent-MousetrapArmed = мышеловка
+    .desc = Пригодится, чтобы ловить грызунов, пробравшихся на вашу кухню.
+    .suffix = Взведена

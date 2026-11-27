@@ -1,24 +1,44 @@
-trauma-balanceui-shop-buy-minor-roundstart-token-antag = Buy a Minor Roundstart Antag Token - {$price} Evil Coins
-trauma-balanceui-shop-buy-major-roundstart-token-antag = Buy a Major Roundstart Antag Token - {$price} Evil Coins
-trauma-balanceui-shop-buy-minor-midround-token-antag = Buy a Minor Midround Antag Token - {$price} Evil Coins
-trauma-balanceui-shop-buy-major-midround-token-antag = Buy a Major Midround Antag Token - {$price} Evil Coins
-trauma-balanceui-shop-buy-wizard-token-antag = Buy a Wizard Antag Token - {$price} Evil Coins
+trauma-balanceui-shop-buy-minor-roundstart-token-antag = Купить Жетон Малого Антага на Начало Раунда - {$price} { $price ->
+    [one] Злая Монета
+    [few] Злые Монеты
+   *[other] Злых Монет
+}
+trauma-balanceui-shop-buy-major-roundstart-token-antag = Купить Жетон Крупного Антага на Начало Раунда - {$price} { $price ->
+    [one] Злая Монета
+    [few] Злые Монеты
+   *[other] Злых Монет
+}
+trauma-balanceui-shop-buy-minor-midround-token-antag = Купить Жетон Малого Антага на Середину Раунда - {$price} { $price ->
+    [one] Злая Монета
+    [few] Злые Монеты
+   *[other] Злых Монет
+}
+trauma-balanceui-shop-buy-major-midround-token-antag = Купить Жетон Крупного Антага на Середину Раунда - {$price} { $price ->
+    [one] Злая Монета
+    [few] Злые Монеты
+   *[other] Злых Монет
+}
+trauma-balanceui-shop-buy-wizard-token-antag = Купить Жетон Антага-Волшебника - {$price} { $price ->
+    [one] Злая Монета
+    [few] Злые Монеты
+   *[other] Злых Монет
+}
 
-trauma-balanceui-shop-minor-roundstart-token-antag = Minor Roundstart Antag Token
-trauma-balanceui-shop-major-roundstart-token-antag = Major Roundstart Antag Token
-trauma-balanceui-shop-minor-midround-token-antag = Minor Midround Antag Token
-trauma-balanceui-shop-major-midround-token-antag = Major Midround Antag Token
-trauma-balanceui-shop-wizard-token-antag = Wizard Antag Token
+trauma-balanceui-shop-minor-roundstart-token-antag = Жетон Малого Антага на Начало Раунда
+trauma-balanceui-shop-major-roundstart-token-antag = Жетон Крупного Антага на Начало Раунда
+trauma-balanceui-shop-minor-midround-token-antag = Жетон Малого Антага на Мидраунд
+trauma-balanceui-shop-major-midround-token-antag = Жетон Крупного Антага на Мидраунд
+trauma-balanceui-shop-wizard-token-antag = Жетон Антага-Волшебника
 
 # TODO: Add Werewolf once it is done
-trauma-balanceui-shop-buy-minor-roundstart-token-antag-desc = Allows you to choose from these antags: Insurgents, Vampire, Thief, Traitor, Devil, Spy.
-trauma-balanceui-shop-buy-major-roundstart-token-antag-desc = Allows you to choose from these antags: Wraith, Xenomorphs, Heretic, Changeling, Shadowling, HeadRev, Blood Cultist, Initial Infected, Cosmic Cult, Xenoborgs, Blob.
-trauma-balanceui-shop-buy-minor-midround-token-antag-desc = Allows you to choose from these antags: Lone Xenomorph, Lone Abductor, Paradox Clone, Rat King.
-trauma-balanceui-shop-buy-major-midround-token-antag-desc = Allows you to choose from these antags: Wraith, Space Dragon, Bingle, Ninja, Entropic Colossus, Slaughter/Shadow Demon, Morph, Blob, LoneOp, Singuloth Knights, Vox Raiders.
-trauma-balanceui-shop-buy-wizard-token-antag-desc = Allows you to become a wizard.
+trauma-balanceui-shop-buy-minor-roundstart-token-antag-desc = Позволяет выбрать одного из антагов: Повстанцы, Вампир, Вор, Предатель, Дьявол, Шпион.
+trauma-balanceui-shop-buy-major-roundstart-token-antag-desc = Позволяет выбрать одного из антагов: Фантом, Ксеноморфы, Еретик, Генокрад, Тенеморф, Глава Революции, Культист Крови, Нулевой Пациент, Космический Культ, Ксеноборги, Блоб.
+trauma-balanceui-shop-buy-minor-midround-token-antag-desc = Позволяет выбрать одного из антагов: Одинокий Ксеноморф, Одинокий Абдуктор, Парадоксальный Клон, Крысиный Король.
+trauma-balanceui-shop-buy-major-midround-token-antag-desc = Позволяет выбрать одного из антагов: Фантом, Космический Дракон, Бингл, Ниндзя, Энтропийный Колосс, Демон Резни/Тенедемон, Морф, Блоб, Лон, Рыцари Сингулота, Воксы-Налётчики.
+trauma-balanceui-shop-buy-wizard-token-antag-desc = Позволяет стать волшебником.
 
-trauma-balanceui-remark-minor-roundstart-token-antag = Bought a minor roundstart antag token. Can be exchanged for these antags: Insurgents, Vampire, Thief, Traitor, Devil, Spy.
-trauma-balanceui-remark-major-roundstart-token-antag = Bought a major roundstart antag token. Can be exchanged for these antags: Wraith, Xenomorphs, Heretic, Changeling, Shadowling, HeadRev, Blood Cultist, Initial Infected, Cosmic Cult, Xenoborgs, Blob.
-trauma-balanceui-remark-minor-midround-token-antag = Bought a minor midround antag token. Can be exchanged for these antags: Lone Abductor, Paradox Clone, Rat King.
-trauma-balanceui-remark-major-midround-token-antag = Bought a major midround antag token. Can be exchanged for these antags: Wraith, Space Dragon, Lone Xenomorph, Bingle, Ninja, Entropic Colossus, Slaughter/Shadow Demon, Morph, Blob, LoneOp, Singuloth Knights, Vox Raiders.
-trauma-balanceui-remark-wizard-token-antag = Bought a wizard antag token.
+trauma-balanceui-remark-minor-roundstart-token-antag = Куплен жетон малого антага на начало раунда. Можно обменять на одну из ролей: Повстанцы, Вампир, Вор, Предатель, Дьявол, Шпион.
+trauma-balanceui-remark-major-roundstart-token-antag = Куплен жетон крупного антага на начало раунда. Можно обменять на одну из ролей: Фантом, Ксеноморфы, Еретик, Генокрад, Тенеморф, Глава Революции, Культист Крови, Нулевой Пациент, Космический Культ, Ксеноборги, Блоб.
+trauma-balanceui-remark-minor-midround-token-antag = Куплен жетон малого антага на мидраунд. Можно обменять на одну из ролей: Одинокий Абдуктор, Парадоксальный Клон, Крысиный Король.
+trauma-balanceui-remark-major-midround-token-antag = Куплен жетон крупного антага на мидраунд. Можно обменять на одну из ролей: Фантом, Космический Дракон, Одинокий Ксеноморф, Бингл, Ниндзя, Энтропийный Колосс, Демон Резни/Тенедемон, Морф, Блоб, Лон, Рыцари Сингулота, Воксы-Налётчики.
+trauma-balanceui-remark-wizard-token-antag = Куплен жетон антага-волшебника.

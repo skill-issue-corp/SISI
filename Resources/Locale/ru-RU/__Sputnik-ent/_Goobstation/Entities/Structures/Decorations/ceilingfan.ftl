@@ -1,2 +1,2 @@
-ent-CeilingFan = ceiling fan
-    .desc = An antiquated method of cooling the room, but it sure has a charm to it.
+ent-CeilingFan = потолочный вентилятор
+    .desc = Старомодный способ охладить комнату, но в нём определённо есть своё очарование.

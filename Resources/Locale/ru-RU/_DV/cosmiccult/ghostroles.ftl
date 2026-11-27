@@ -1,27 +1,27 @@
 # THE UNKNOWN
 
-ghost-role-information-theunknown-name = The Unknown
-ghost-role-information-theunknown-description = The Cosmic Cult has won. An fragment of cosmic power extrudes into realspace.
+ghost-role-information-theunknown-name = Неизвестное
+ghost-role-information-theunknown-description = Космический Культ победил. Обломок космической силы прорывается в реальное пространство.
 ghost-role-information-theunknown-rules = ...
 
 # COLOSSUS
 
-ghost-role-information-colossus-name = Entropic Colossus
-ghost-role-information-colossus-description = Call upon an Effigy of Entropy to perpetuate your existence and accelerate the end of all things! You have 15 minutes to do so or your energies will be extinguished.
-ghost-role-information-colossus-rules = You are a [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] with any cosmic cultists that may be present.
+ghost-role-information-colossus-name = Энтропийный Колосс
+ghost-role-information-colossus-description = Призовите Изваяние Энтропии, чтобы продлить своё существование и ускорить конец всего сущего! У вас 15 минут, иначе ваша энергия угаснет.
+ghost-role-information-colossus-rules = Вы [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] вместе с космическими культистами, если они есть.
 
-ghost-role-information-chantry-victim-name = Vacuous Chantry Prisoner
-ghost-role-information-chantry-victim-description = A cyborg trapped inside a Vacuous Chantry. If the ritual completes, you will transform into an Entropic Colossus.
+ghost-role-information-chantry-victim-name = Узник Пустотного Святилища
+ghost-role-information-chantry-victim-description = Киборг, заточённый в Пустотном Святилище. Если ритуал завершится, вы превратитесь в Энтропийного Колосса.
 
-ghost-role-information-custodian-name = Malign Custodian
-ghost-role-information-lodestar-name = Malign Lodestar
-ghost-role-information-colossus-summon-description = Help the Colossus defend it's Effigy.
+ghost-role-information-custodian-name = Зловещий Хранитель
+ghost-role-information-lodestar-name = Зловещая Путеводная Звезда
+ghost-role-information-colossus-summon-description = Помогите Колоссу защитить его Изваяние.
 
 
-terror-colossus = Attention crew, it appears that someone on your station has drawn the attention of an enormous malign anomaly.
+terror-colossus = Внимание, экипаж! По всей видимости, кто-то на станции привлёк внимание огромной зловещей аномалии.
 
-ghost-role-colossus-charactermenu = You must usher in the end of all things. Wreak untold havoc upon all before you.
-ghost-role-colossus-objective = Call forth an Effigy of Entropy and persist until the end of all things.
+ghost-role-colossus-charactermenu = Вы должны приблизить конец всего сущего. Сейте невиданный хаос повсюду, куда ступите.
+ghost-role-colossus-objective = Призовите Изваяние Энтропии и продержитесь до конца всего сущего.
 
 # SIS-Start
 ghost-role-colossus-briefing =
@@ -30,30 +30,30 @@ ghost-role-colossus-briefing =
     Подробнее о своей роли вы можете узнать в справочнике.
 # SIS-End
 
-ghost-role-colossus-death = The colossus collapses, its surface desintegrating rapidly.
-ghost-role-colossus-hibernate = The colossus begins drawing in energy!
-ghost-role-colossus-effigy-confirm = If placement is valid, press again to Beckon an Effigy.
+ghost-role-colossus-death = Колосс рушится, его поверхность стремительно распадается.
+ghost-role-colossus-hibernate = Колосс начинает втягивать энергию!
+ghost-role-colossus-effigy-confirm = Если место подходит, нажмите ещё раз, чтобы Призвать Изваяние.
 
-ghost-role-colossus-effigy-error-grid = Invalid location! An Effigy must be beckoned upon a stable surface.
-ghost-role-colossus-effigy-error-location = Invalid location! The Effigy must be beckoned near {$LOCATION}.
-ghost-role-colossus-effigy-error-intersection = Too crowded! An Effigy requires an empty tile to be beckoned.
-ghost-role-colossus-effigy-error-space = Too close to space! An Effigy must be be at least {$DISTANCE}m away.
+ghost-role-colossus-effigy-error-grid = Неподходящее место! Изваяние нужно призывать на устойчивую поверхность.
+ghost-role-colossus-effigy-error-location = Неподходящее место! Изваяние нужно призывать рядом с {$LOCATION}.
+ghost-role-colossus-effigy-error-intersection = Слишком тесно! Для призыва Изваяния нужен свободный тайл.
+ghost-role-colossus-effigy-error-space = Слишком близко к космосу! Изваяние должно быть не ближе {$DISTANCE} м.
 
-objective-condition-effigy-no-target = Beckon an Effigy wherever you desire.
-objective-condition-effigy = Beckon an Effigy near "{$location}".
+objective-condition-effigy-no-target = Призовите Изваяние в любом месте.
+objective-condition-effigy = Призовите Изваяние рядом с «{$location}».
 
 # MINDSINK (Positronic Brain)
 
-ghost-role-mindsink-installed = Whispers hum from its surface!
-ghost-role-mindsink-off = It lies dormant.
-ghost-role-mindsink-still-searching = It is drawing upon the noösphere...
-ghost-role-mindsink-searching = It has started drawing upon the noösphere...
-ghost-role-mindsink-role-name = Malign Mindsink
-ghost-role-mindsink-role-description = Serve the station crew, despite your unusual origins.
-ghost-role-mindsink-wipe-device-verb-text = Erase Mind
-ghost-role-mindsink-wiped-device = The mind was snuffed out.
-ghost-role-mindsink-stop-searching-verb-text = Stop Seeking
-ghost-role-mindsink-stopped-searching = Noöspheric resonance halted.
-ghost-role-mindsink-slot-component-slot-name-brain = Brain
+ghost-role-mindsink-installed = От его поверхности исходит гул шёпота!
+ghost-role-mindsink-off = Оно пребывает в спячке.
+ghost-role-mindsink-still-searching = Оно черпает силу из ноöсферы...
+ghost-role-mindsink-searching = Оно начинает черпать силу из ноöсферы...
+ghost-role-mindsink-role-name = Зловещий Поглотитель Разума
+ghost-role-mindsink-role-description = Служите экипажу станции, несмотря на своё необычное происхождение.
+ghost-role-mindsink-wipe-device-verb-text = Стереть Разум
+ghost-role-mindsink-wiped-device = Разум угас.
+ghost-role-mindsink-stop-searching-verb-text = Прекратить Поиск
+ghost-role-mindsink-stopped-searching = Ноöсферный резонанс прекращён.
+ghost-role-mindsink-slot-component-slot-name-brain = Мозг
 
-name-identifier-format-mindsink = ASTRAL-{$number}
+name-identifier-format-mindsink = АСТРАЛ-{$number}

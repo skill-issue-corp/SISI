@@ -1,11 +1,11 @@
-ent-ClothingRevolutionaryIFF = Revolutionary IFF Card
-    .desc = Shows constructed turrets that you are a friend.
+ent-ClothingRevolutionaryIFF = Карта Системы Опознавания Революционеров
+    .desc = Даёт построенным турелям понять, что вы свой.
 
-ent-ClothingNeckBombCollarBroken = disabled bomb collar
-    .desc = A disabled bomb collar, it will no longer explode, but it will give away your criminal history.
+ent-ClothingNeckBombCollarBroken = обезвреженный ошейник-бомба
+    .desc = Обезвреженный ошейник-бомба. Уже не взорвётся, зато выдаст ваше уголовное прошлое.
 
-ent-ClothingNeckBombCollar = bomb collar
-    .desc = A bomb collar, it explodes.
+ent-ClothingNeckBombCollar = ошейник-бомба
+    .desc = Ошейник-бомба. Взрывается.
 
-ent-ClothingNeckSlayerCoat = S.L.A.Y.E.R coat
-    .desc = The Syndicate Lightly Armored Yet Explosive Resistant Overcoat, or S.L.A.Y.E.R. Overcoat for short, is Gorlex Entertainment's only overcoat capable of protecting the wearer's limbs from explosive damage, if worn over the shoulders. Its interior is lined with hooks. Comes with proprietary technology that allows it to patch into Nanotrasen systems like a camera, and broadcast to station radios. Not for the faint of heart.
+ent-ClothingNeckSlayerCoat = пальто S.L.A.Y.E.R
+    .desc = Синдикатское Легкобронированное, Однако Взрывостойкое Пальто, или просто Пальто S.L.A.Y.E.R., — единственное пальто от «Горлекс Энтертейнмент», защищающее конечности от взрывов, если накинуть его на плечи. Внутри пальто усеяно крючками. Фирменная технология позволяет подключаться к системам NanoTrasen в качестве камеры и вещать по станционной радиосвязи. Для крепких духом.

@@ -6,9 +6,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ninja-round-end-agent-name = ninja
+ninja-round-end-agent-name = ниндзя
 
-objective-issuer-spiderclan = [color=#33cc00]Spider Clan[/color]
+objective-issuer-spiderclan = [color=#33cc00]Клан Паука[/color]
 
 # SIS-Start
 ninja-role-greeting =

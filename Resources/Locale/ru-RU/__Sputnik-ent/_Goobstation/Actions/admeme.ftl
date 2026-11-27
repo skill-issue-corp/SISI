@@ -1,11 +1,11 @@
-ent-ActionVaporizeFreeman = Vaporize
-    .desc = That will be all.
+ent-ActionVaporizeFreeman = Испарить
+    .desc = На этом всё.
 
-ent-ActionBlinkFreeman = Blink
-    .desc = Wisely done, Mr. Freeman. I will see you up ahead.
+ent-ActionBlinkFreeman = Скачок
+    .desc = Мудрое решение, Мистер Фримен. До встречи впереди.
 
-ent-ActionShiftFreeman = Shift
-    .desc = Is it really that time again?
+ent-ActionShiftFreeman = Переместиться
+    .desc = Неужели снова пора?
 
-ent-ActionStopTimeFreeman = Stop Time
-    .desc = I realize this moment may not be the most convienient time for a heart-to-heart.
+ent-ActionStopTimeFreeman = Остановка Времени
+    .desc = Понимаю, сейчас, возможно, не самый удобный момент для разговора по душам.

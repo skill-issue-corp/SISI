@@ -1,2 +1,2 @@
-fold-showhair-verb = Show hair
-fold-hidehair-verb = Hide hair
+fold-showhair-verb = Показать волосы
+fold-hidehair-verb = Скрыть волосы

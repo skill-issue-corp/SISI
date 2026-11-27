@@ -1,21 +1,21 @@
 ent-BaseModsuitPieceCorporate = { "" }
     .desc = { "" }
 
-ent-ClothingModsuitCorporate = Corporate modsuit control unit
-    .desc = The main controller for a Corporate modsuit.
+ent-ClothingModsuitCorporate = блок управления модсьюта «Корпоративный»
+    .desc = Основной блок управления модсьютом «Корпоративный».
 
-ent-ClothingModsuitGauntletsCorporate = Corporate modsuit gauntlets
-    .desc = A pair of gauntlets made for the Corporate modsuit.
+ent-ClothingModsuitGauntletsCorporate = перчатки модсьюта «Корпоративный»
+    .desc = Пара перчаток для модсьюта «Корпоративный».
 
-ent-ClothingModsuitHelmetCorporate = Corporate modsuit helmet
-    .desc = A state-of-the-art helmet designed by NanoTrasen for the Corporate modsuit. It includes a built-in HUD.
+ent-ClothingModsuitHelmetCorporate = шлем модсьюта «Корпоративный»
+    .desc = Передовой шлем, разработанный NanoTrasen для модсьюта «Корпоративный». Оснащён встроенным визором.
 
-ent-ClothingModsuitChestplateCorporate = Corporate modsuit chestplate
-    .desc = A state of the art chestplate designed by NanoTrasen for the Corporate modsuit. It incorporates powered servos to reduce the equipment load.
+ent-ClothingModsuitChestplateCorporate = нагрудник модсьюта «Корпоративный»
+    .desc = Передовой нагрудник, разработанный NanoTrasen для модсьюта «Корпоративный». Встроенные сервоприводы снижают нагрузку от снаряжения.
 
-ent-ClothingModsuitBootsCorporate = Corporate modsuit boots
-    .desc = A state-of-the-art pair of magboots for the Corporate modsuit. So long as the suit is powered, these will not slow the wearer down.
+ent-ClothingModsuitBootsCorporate = ботинки модсьюта «Корпоративный»
+    .desc = Передовые магнитные ботинки для модсьюта «Корпоративный». Пока на костюм подаётся питание, ботинки не замедляют владельца.
 
 ent-SuitStorageCorporate = { ent-SuitStorageBase }
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Corporate Modsuit
+    .suffix = Модсьют «Корпоративный»

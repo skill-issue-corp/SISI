@@ -1,5 +1,5 @@
-alerts-low-plasma-name = [color=red]Low Phoron[/color]
-alerts-low-plasma-desc = There is [color=red]not enough phoron[/color] in the air you are breathing. Put on [color=green]internals[/color].
+alerts-low-plasma-name = [color=red]Мало Форона[/color]
+alerts-low-plasma-desc = В воздухе, которым вы дышите, [color=red]не хватает форона[/color]. Наденьте [color=green]кислородное снаряжение[/color].
 
-alerts-high-oxygen-name = [color=red]High Oxygen[/color]
-alerts-high-oxygen-desc = There is [color=red]too much oxygen[/color] in the air you are breathing. Put on [color=green]internals[/color].
+alerts-high-oxygen-name = [color=red]Много Кислорода[/color]
+alerts-high-oxygen-desc = В воздухе, которым вы дышите, [color=red]слишком много кислорода[/color]. Наденьте [color=green]кислородное снаряжение[/color].

@@ -1,1 +1,1 @@
-station-event-vent-creatures-start-announcement = "Lifeforms detected inside the stations ventilation system."
+station-event-vent-creatures-start-announcement = «В вентиляционной системе станции обнаружены формы жизни».

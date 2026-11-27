@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-syndicate-business-card-base = {"           "} It's nothing personal, it's just business
+syndicate-business-card-base = {"           "} Ничего личного, это просто бизнес

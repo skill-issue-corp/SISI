@@ -1,14 +1,14 @@
-ent-BlankHandyFlag = blank handheld flag
-    .desc = Some piece of white cloth wound on a stick.
+ent-BlankHandyFlag = белый ручной флаг
+    .desc = Кусок белой ткани, намотанный на палочку.
 
-ent-NTHandyFlag = Nanotrasen handheld flag
-    .desc = Glory to NT! Wait, they really made a handheld flag for a corporation?
+ent-NTHandyFlag = ручной флаг NanoTrasen
+    .desc = Слава NT! Погодите, они и правда сделали ручной флаг для корпорации?
 
-ent-SyndieHandyFlag = syndicate handheld flag
-    .desc = For truly rebellious patriots. Death to NT!
+ent-SyndieHandyFlag = ручной флаг синдиката
+    .desc = Для патриотов, готовых восстать. Смерть NT!
 
-ent-LGBTQHandyFlag = LGBTQ handheld flag
-    .desc = The be gay do crime handy flag.
+ent-LGBTQHandyFlag = ручной флаг ЛГБТК
+    .desc = Ручной флаг «будь геем, нарушай закон».
 
-ent-PirateHandyFlag = pirate handheld flag
-    .desc = Holding it in your hands, show these carp that you're not kidding.
+ent-PirateHandyFlag = пиратский ручной флаг
+    .desc = Возьмите его в руки и покажите этим карпам, что вы не шутите.

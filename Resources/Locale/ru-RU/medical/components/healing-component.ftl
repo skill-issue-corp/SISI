@@ -5,8 +5,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-medical-item-finished-using = You have finished healing with the {$item}.
-medical-item-cant-use = There is no damage you can heal with the {$item}.
-medical-item-stop-bleeding = {CAPITALIZE($target)} has stopped bleeding.
-medical-item-stop-bleeding-self = You have stopped bleeding.
-medical-item-popup-target = {CAPITALIZE(THE($user))} is trying to heal you with the {$item}!
+medical-item-finished-using = Вы заканчиваете лечение с помощью {$item}.
+medical-item-cant-use = {$item} не поможет вылечить имеющиеся повреждения.
+medical-item-stop-bleeding = Кровотечение у {CAPITALIZE($target)} остановилось.
+medical-item-stop-bleeding-self = Ваше кровотечение остановилось.
+medical-item-popup-target = {CAPITALIZE($user)} пытается лечить вас с помощью {$item}!

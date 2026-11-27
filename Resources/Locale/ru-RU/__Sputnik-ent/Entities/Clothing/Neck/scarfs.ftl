@@ -1,71 +1,71 @@
-ent-ClothingNeckScarfStripedRed = striped red scarf
-    .desc = A stylish striped red scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedRed = полосатый красный шарф
+    .desc = Стильный полосатый красный шарф. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedBlue = striped blue scarf
-    .desc = A stylish striped blue scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedBlue = полосатый синий шарф
+    .desc = Стильный полосатый синий шарф. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedGreen = striped green scarf
-    .desc = A stylish striped green scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedGreen = полосатый зелёный шарф
+    .desc = Стильный полосатый зелёный шарф. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedBlack = striped black scarf
-    .desc = A stylish striped black scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedBlack = полосатый чёрный шарф
+    .desc = Стильный полосатый чёрный шарф. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedBrown = striped brown scarf
-    .desc = A stylish striped brown scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedBrown = полосатый коричневый шарф
+    .desc = Стильный полосатый коричневый шарф. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedLightBlue = striped light blue scarf
-    .desc = A stylish striped light blue scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedLightBlue = полосатый голубой шарф
+    .desc = Стильный полосатый голубой шарф. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedOrange = striped orange scarf
-    .desc = A stylish striped orange scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedOrange = полосатый оранжевый шарф
+    .desc = Стильный полосатый оранжевый шарф. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedPurple = striped purple scarf
-    .desc = A stylish striped purple scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedPurple = полосатый фиолетовый шарф
+    .desc = Стильный полосатый фиолетовый шарф. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedSyndieGreen = striped syndicate green scarf
-    .desc = A stylish striped syndicate green scarf. The perfect winter accessory for those with a keen fashion sense, and those who are in the mood to steal something.
+ent-ClothingNeckScarfStripedSyndieGreen = полосатый зелёный шарф синдиката
+    .desc = Стильный полосатый зелёный шарф синдиката. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кому хочется что-нибудь стащить.
 
-ent-ClothingNeckScarfStripedSyndieRed = striped syndicate red scarf
-    .desc = A stylish striped syndicate red scarf. The perfect winter accessory for those with a keen fashion sense, and those who are in the mood to steal something.
+ent-ClothingNeckScarfStripedSyndieRed = полосатый красный шарф синдиката
+    .desc = Стильный полосатый красный шарф синдиката. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кому хочется что-нибудь стащить.
 
-ent-ClothingNeckScarfStripedCentcom = striped CentComm scarf
-    .desc = A stylish striped centcomm colored scarf. The perfect winter accessory for those with a keen fashion sense, and those who need to do paperwork in the cold.
+ent-ClothingNeckScarfStripedCentcom = полосатый шарф ЦК
+    .desc = Стильный полосатый шарф в цветах цк. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кому приходится возиться с бумагами на холоде.
 
-ent-ClothingNeckScarfStripedZebra = zebra scarf
-    .desc = A striped scarf, a mandatory accessory for artists.
+ent-ClothingNeckScarfStripedZebra = шарф-зебра
+    .desc = Полосатый шарф, обязательный аксессуар художников.
 
-ent-ClothingNeckScarfStripedAce = striped asexual scarf
-    .desc = A stylish striped asexual scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedAce = полосатый шарф асексуалов
+    .desc = Стильный полосатый шарф асексуалов. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedAro = striped aromantic scarf
-    .desc = A stylish striped aromantic scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedAro = полосатый шарф аромантиков
+    .desc = Стильный полосатый шарф аромантиков. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedAroace = striped aroace scarf
-    .desc = A stylish striped aroace scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedAroace = полосатый шарф ароэйсов
+    .desc = Стильный полосатый шарф ароэйсов. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedBiSexual = striped bisexual scarf
-    .desc = A stylish striped bisexual scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedBiSexual = полосатый шарф бисексуалов
+    .desc = Стильный полосатый шарф бисексуалов. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedGay = striped gay scarf
-    .desc = A stylish striped gay scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedGay = полосатый шарф геев
+    .desc = Стильный полосатый шарф геев. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedInter = striped intersex scarf
-    .desc = A stylish striped intersex scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedInter = полосатый интерсекс-шарф
+    .desc = Стильный полосатый интерсекс-шарф. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedLesbian = striped lesbian scarf
-    .desc = A stylish striped lesbian scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedLesbian = полосатый шарф лесбиянок
+    .desc = Стильный полосатый шарф лесбиянок. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedPan = striped pan scarf
-    .desc = A stylish striped pan scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedPan = полосатый шарф пансексуалов
+    .desc = Стильный полосатый шарф пансексуалов. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedNonBinary = striped non-binary scarf
-    .desc = A stylish striped non-binary scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedNonBinary = полосатый небинарный шарф
+    .desc = Стильный полосатый небинарный шарф. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedRainbow = rainbow scarf
-    .desc = A stylish rainbow scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedRainbow = радужный шарф
+    .desc = Стильный радужный шарф. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedTrans = striped trans scarf
-    .desc = A stylish striped trans scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedTrans = полосатый транс-шарф
+    .desc = Стильный полосатый транс-шарф. Идеальный зимний аксессуар для тех, кто разбирается в моде, и тех, кто просто не выносит холодного ветра за шиворотом.
 
-ent-ClothingNeckScarfStripedLesbianLong = long bacon
-    .desc = Long bacon! Perfect for sharing with your girlfriend!
+ent-ClothingNeckScarfStripedLesbianLong = длинный бекон
+    .desc = Длинный бекон! Идеально, чтобы поделиться со своей девушкой!

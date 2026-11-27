@@ -1,5 +1,5 @@
-ent-ActionRiseFish = Summon Carp Horde
-    .desc = Summons 3 carps on the spot to protect you from danger!
+ent-ActionRiseFish = Призвать Орду Карпов
+    .desc = Призывает на месте 3 карпов, чтобы защитить вас от опасности!
 
-ent-ActionDragonRoar = Wing flap
-    .desc = Flap your wings to stun all enemies around you!
+ent-ActionDragonRoar = Взмах крыльями
+    .desc = Взмахните крыльями, чтобы оглушить всех врагов вокруг вас!

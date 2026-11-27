@@ -1,15 +1,15 @@
-ent-BaseWindowStructure = window
-    .desc = Don't smudge up the glass down there.
+ent-BaseWindowStructure = окно
+    .desc = Только не заляпайте там стекло.
 
 ent-Window = { ent-BaseWindowStructure }
     .desc = { ent-BaseWindowStructure.desc }
 
-ent-TintedWindow = tinted window
-    .desc = Smart tinted window with state switching option.
+ent-TintedWindow = тонированное окно
+    .desc = Умное тонированное окно с возможностью переключения состояния.
 
 ent-TintedWindowTransparent = { ent-TintedWindow }
     .desc = { ent-TintedWindow.desc }
-    .suffix = Transparent
+    .suffix = Прозрачное
 
 ent-BaseRCDResistant = { "" }
     .desc = { "" }
@@ -17,8 +17,8 @@ ent-BaseRCDResistant = { "" }
 ent-WindowRCDResistant = { ent-Window }
     .desc = { ent-Window.desc }
 
-ent-BaseWindowStructureDirectional = directional window
-    .desc = Don't smudge up the glass down there.
+ent-BaseWindowStructureDirectional = направленное окно
+    .desc = Только не заляпайте там стекло.
 
 ent-WindowDirectional = { ent-BaseWindowStructureDirectional }
     .desc = { ent-BaseWindowStructureDirectional.desc }
@@ -26,9 +26,9 @@ ent-WindowDirectional = { ent-BaseWindowStructureDirectional }
 ent-WindowDirectionalRCDResistant = { ent-WindowDirectional }
     .desc = { ent-WindowDirectional.desc }
 
-ent-WindowFrostedDirectional = directional frosted window
-    .desc = Don't smudge up the glass down there.
+ent-WindowFrostedDirectional = направленное матовое окно
+    .desc = Только не заляпайте там стекло.
 
 ent-WindowDiagonal = { ent-Window }
     .desc = { ent-Window.desc }
-    .suffix = diagonal
+    .suffix = по диагонали

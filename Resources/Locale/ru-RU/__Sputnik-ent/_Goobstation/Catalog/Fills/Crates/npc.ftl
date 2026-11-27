@@ -1,5 +1,5 @@
-ent-CrateNPCGondola = gondola crate
-    .desc = A crate containing a gondola.
+ent-CrateNPCGondola = ящик с гондолой
+    .desc = Ящик, в котором сидит гондола.
 
-ent-CrateNPCLootbug = crate of lootbugs
-    .desc = A crate containing three lootbugs.
+ent-CrateNPCLootbug = ящик с жуками-барахольщиками
+    .desc = В ящике сидят три жука-барахольщика.

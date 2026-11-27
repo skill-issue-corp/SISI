@@ -1,1 +1,1 @@
-interaction-system-pull-self = You get a hold of yourself.
+interaction-system-pull-self = Вы берёте себя в руки.

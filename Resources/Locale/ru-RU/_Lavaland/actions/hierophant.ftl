@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-action-hierophant-tile-movement-cast = AS'CELLA!
+action-hierophant-tile-movement-cast = АС'ЦЕЛЛА!

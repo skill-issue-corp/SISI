@@ -1,2 +1,2 @@
-ent-SyndicateBug = syndicate bug
-    .desc = A rather conspicious listening device used to spy on important people.
+ent-SyndicateBug = жучок синдиката
+    .desc = Довольно заметное подслушивающее устройство для слежки за важными персонами.

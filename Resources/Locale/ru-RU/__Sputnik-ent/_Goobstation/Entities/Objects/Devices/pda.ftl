@@ -1,41 +1,41 @@
-ent-ChronoPDA = futuristic PDA
-    .desc = A powerful quantum computer disguised as a regular pda for disguise.
+ent-ChronoPDA = футуристичный КПК
+    .desc = Мощный квантовый компьютер, для маскировки замаскированный под обычный кпк.
 
-ent-GmanPDA = strange PDA
-    .desc = Your mind can't quite comprehend this.
+ent-GmanPDA = странный КПК
+    .desc = Ваш разум не в состоянии это осмыслить.
 
-ent-HelldiverPDA = salvage diver PDA
-    .desc = Smells like corpses of insects and androids.
+ent-HelldiverPDA = КПК дайвера-утилизатора
+    .desc = Пахнет трупами насекомых и андроидов.
 
-ent-HecuPDA = HECU PDA
-    .desc = Smells of gunpowder.
+ent-HecuPDA = КПК HECU
+    .desc = Пахнет порохом.
 
-ent-DeathsquadPDA = deathsquad PDA
-    .desc = Rip and tear until it is done.
+ent-DeathsquadPDA = КПК эскадрона смерти
+    .desc = Рви и кромсай, пока всё не кончится.
 
-ent-NanotrasenRepresentativePDA = nanotrasen representative's PDA
-    .desc = The devil's in the details.
+ent-NanotrasenRepresentativePDA = КПК представителя NanoTrasen
+    .desc = Дьявол кроется в деталях.
 
-ent-SyndiPDANukie = syndicate PDA
-    .desc = Ok, time to be a productive member of- oh cool I'm a bad guy time to kill people!
+ent-SyndiPDANukie = КПК синдиката
+    .desc = Так, пора стать полезным членом... О, круто, я злодей, пора убивать людей!
 
-ent-HighCommandPDA = high commander PDA
-    .desc = An ordinary syndicate PDA, adorned with gilded symbols. It's owner is clearly of a higher standing.
+ent-HighCommandPDA = КПК верховного командующего
+    .desc = Обычный КПК синдиката, украшенный позолоченными символами. Его владелец явно занимает высокий пост.
 
-ent-VirologistPDA = virology PDA
-    .desc = You're not sure if touching it is safe.
+ent-VirologistPDA = КПК вирусолога
+    .desc = Вы не уверены, что к нему безопасно прикасаться.
 
-ent-SecurityClownPDA = security clown PDA
-    .desc = Who has a pink PDA in security?
+ent-SecurityClownPDA = КПК клоуна службы безопасности
+    .desc = У кого в службе безопасности розовый КПК?
 
-ent-CommandMaidPDA = command maid PDA
+ent-CommandMaidPDA = КПК командной горничной
     .desc = { ent-JanitorPDA.desc }
 
-ent-PartyMakerPDA = party maker PDA
-    .desc = The best helper to make a party.
+ent-PartyMakerPDA = КПК организатора вечеринок
+    .desc = Лучший помощник в устройстве вечеринки.
 
-ent-RoboticistPDA = roboticist PDA
-    .desc = It's covered with failed ambitions.
+ent-RoboticistPDA = КПК робототехника
+    .desc = Весь в следах несбывшихся амбиций.
 
-ent-RadioHostPDA = radio host PDA
-    .desc = You're listening to the smooth sounds of 145.9 FM.
+ent-RadioHostPDA = КПК радиоведущего
+    .desc = Вы слушаете мягкие звуки 145.9 FM.

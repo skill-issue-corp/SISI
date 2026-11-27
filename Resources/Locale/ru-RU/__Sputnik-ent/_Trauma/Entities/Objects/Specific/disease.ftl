@@ -1,6 +1,6 @@
-ent-DiseaseDnaSampler = syndicate DNA sampler
-    .desc = A genetic engineering device which can scan and encode DNA onto a stored retrovirus. Single-use only.
-    .suffix = Empty
+ent-DiseaseDnaSampler = пробоотборник ДНК синдиката
+    .desc = Генно-инженерное устройство, способное считывать ДНК и записывать её в содержащийся внутри ретровирус. Одноразовое.
+    .suffix = Пусто
 
 ent-DiseaseDnaSamplerFoxDie = { ent-DiseaseDnaSampler }
     .desc = { ent-DiseaseDnaSampler.desc }

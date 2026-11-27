@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-weldable-component-examine-is-welded = It has been welded shut.
+weldable-component-examine-is-welded = Наглухо заварено.

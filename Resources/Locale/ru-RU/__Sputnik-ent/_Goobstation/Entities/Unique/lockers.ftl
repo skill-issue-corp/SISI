@@ -1,3 +1,3 @@
 ent-UniqueLockerNanorepFilled = { ent-LockerNanorepFilled }
     .desc = { ent-LockerNanorepFilled.desc }
-    .suffix = MAP THIS, Unique, Filled
+    .suffix = СТАВИТЬ НА КАРТУ, Уникальный, Заполненный

@@ -1,38 +1,38 @@
-ent-LemonadePlants = lemonade tree
+ent-LemonadePlants = лимонадное дерево
     .desc = { ent-LemonPlants.desc }
 
-ent-CocaPlants = coca plant
+ent-CocaPlants = куст коки
     .desc = { ent-BasePlant.desc }
 
-ent-CoconutPlants = coconut tree
+ent-CoconutPlants = кокосовая пальма
     .desc = { ent-BasePlant.desc }
 
-ent-CherryBombPlants = cherry bomb tree
+ent-CherryBombPlants = дерево вишнёвой бомбы
     .desc = { ent-CherryPlants.desc }
 
-ent-DeliciousApplePlants = delicious-looking apple tree
-    .desc = The apples look delicious, not the tree.
+ent-DeliciousApplePlants = дерево с аппетитными яблоками
+    .desc = Аппетитно выглядят яблоки, а не дерево.
 
-ent-MethApplePlants = meth apple tree
+ent-MethApplePlants = дерево метовых яблок
     .desc = { ent-ApplePlants.desc }
 
-ent-ClearCornPlants = ear of clear corn
+ent-ClearCornPlants = початок прозрачной кукурузы
     .desc = { ent-CornPlants.desc }
 
-ent-PeanutPlants = peanut plant
+ent-PeanutPlants = куст арахиса
     .desc = { ent-BasePlant.desc }
 
-ent-MagicMushroomsPlants = magic mushrooms
+ent-MagicMushroomsPlants = волшебные грибы
     .desc = { ent-ChanterellePlants.desc }
 
-ent-SynthMeatPlants = synthmeat plant
+ent-SynthMeatPlants = растение синтмяса
     .desc = { ent-BasePlant.desc }
 
-ent-BalloonWatermelonPlants = melon balloon plant
+ent-BalloonWatermelonPlants = растение дынных шариков
     .desc = { ent-WatermelonPlants.desc }
 
-ent-SteelWheatPlants = steel wheet stalk
+ent-SteelWheatPlants = стебель стальной пшеницы
     .desc = { ent-WheatPlants.desc }
 
-ent-PlasticcapPlants = plastic cap
+ent-PlasticcapPlants = пластиковая шляпка
     .desc = { ent-SteelcapPlants.desc }

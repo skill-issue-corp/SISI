@@ -1,23 +1,23 @@
-ent-ActionCloakDarkness = Cloak of Darkness
-    .desc = When activated, slightly increases your speed and decreases your visibility by 15% in the dark. Increases burn damage taken by 10%. Completely disabled by fire.
+ent-ActionCloakDarkness = Покров Тьмы
+    .desc = При активации немного повышает вашу скорость и снижает вашу заметность в темноте на 15%. Повышает получаемый урон от ожогов на 10%. Огонь полностью отключает эффект.
 
-ent-ActionShadowSnare = Shadow Snare
-    .desc = Turn a tile into a trap, blinding those who spring it and deactivating any lights they have. Disarm the trap with prolonged exposure to light (about 5 seconds) or by flashing it.
+ent-ActionShadowSnare = Теневая Ловушка
+    .desc = Превратите тайл в ловушку, которая ослепляет тех, кто её активирует, и гасит все их источники света. Обезвредить её можно длительным освещением (около 5 секунд) или вспышкой.
 
-ent-ActionShadowAnchor = Shadow Anchor
-    .desc = Summon a soul anchor at your location after a delay. Recast to teleport yourself back to the anchor. After 2 minutes, a shadow clone will be spawned at the anchor to trick onlookers, and you will become invisible for 4 seconds.
+ent-ActionShadowAnchor = Теневой Якорь
+    .desc = Через небольшую задержку призовите якорь души туда, где находитесь. Примените способность повторно, чтобы телепортироваться к якорю. Через 2 минуты у якоря появится теневой двойник, чтобы обмануть наблюдателей, а вы станете невидимы на 4 секунды.
 
-ent-ActionDarkPassage = Dark Passage
-    .desc = Click on a turf to teleport to it. Works even when stunned.
+ent-ActionDarkPassage = Тёмный Переход
+    .desc = Нажмите на тайл, чтобы телепортироваться на него. Работает даже в оглушении.
 
-ent-ActionExtinguish = Extinguish
-    .desc = Turns off any light sources in view and destroys glowshrooms. Has no effect on fire or flares.
+ent-ActionExtinguish = Погасить
+    .desc = Гасит все источники света в поле зрения и уничтожает светящиеся грибы. Не действует на огонь и фальшфейеры.
 
-ent-ActionShadowBoxing = Shadow Boxing
-    .desc = Select a target and send out shadow clones to beat them up. only works if you remain within 2 tiles of the target.
+ent-ActionShadowBoxing = Бой с Тенью
+    .desc = Выберите цель и пошлите теневых двойников, чтобы избить её. действует, пока вы остаётесь в пределах 2 тайлов от цели.
 
-ent-ActionEternalDarkness = Eternal Darkness
-    .desc = Summons a wave of shadow over a massive area around the vampire, which slows/reduces the damage of lasers as they pass through it. Anyone caught in these shadows will have their body temperature slowly reduced, except for the caster.
+ent-ActionEternalDarkness = Вечная Тьма
+    .desc = Распространяет тень на обширную область вокруг вампира. Тень замедляет проходящие через неё лазеры/снижает их урон. Температура тела всех, кто попал в тень, постепенно снижается, кроме самого создателя тени.
 
-ent-ActionUmbralSight = Umbral Sight
-    .desc = Gain X-ray vision.
+ent-ActionUmbralSight = Теневое Зрение
+    .desc = Обретите рентгеновское зрение.

@@ -9,18 +9,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-id-card-console-window-privileged-id = Privileged ID:
-id-card-console-window-target-id = Target ID:
-id-card-console-window-full-name-label = Full name:
-id-card-console-window-save-button = Save
-id-card-console-window-job-title-label = Job title:
-id-card-console-window-eject-button = Eject
-id-card-console-window-insert-button = Insert
-id-card-console-window-job-selection-label = Job preset (sets department and job icon):
-id-card-console-window-select-all-button = Grant all
-id-card-console-window-deselect-all-button = Revoke all
+id-card-console-window-privileged-id = Карта с Допуском:
+id-card-console-window-target-id = Редактируемая Карта:
+id-card-console-window-full-name-label = Полное имя:
+id-card-console-window-save-button = Сохранить
+id-card-console-window-job-title-label = Название должности:
+id-card-console-window-eject-button = Извлечь
+id-card-console-window-insert-button = Вставить
+id-card-console-window-job-selection-label = Шаблон должности (задаёт отдел и значок должности):
+id-card-console-window-select-all-button = Выдать все допуски
+id-card-console-window-deselect-all-button = Отозвать все допуски
 
-access-id-card-console-component-no-hands-error = You have no hands.
-id-card-console-privileged-id = Privileged ID
-id-card-console-target-id = Target ID
-id-card-console-damaged = Structural integrity compromised, ejecting contents.
+access-id-card-console-component-no-hands-error = У вас нет рук.
+id-card-console-privileged-id = Карта с Допуском
+id-card-console-target-id = Редактируемая Карта
+id-card-console-damaged = Нарушена целостность корпуса. Содержимое извлекается.

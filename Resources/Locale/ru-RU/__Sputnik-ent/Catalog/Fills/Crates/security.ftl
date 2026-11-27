@@ -1,20 +1,20 @@
-ent-CrateSecurityArmor = armor crate
-    .desc = Contains three standard-issue helmets and three bulletproof vests. Requires Security access to open.
+ent-CrateSecurityArmor = ящик брони
+    .desc = Содержит три штатных шлема и три бронежилета. Для открытия требуется доступ Службы Безопасности.
 
-ent-CrateSecurityNonlethal = nonlethals crate
-    .desc = Contains a mix of disablers, stun batons, and flashes. Requires Security access to open.
+ent-CrateSecurityNonlethal = ящик нелетального оружия
+    .desc = Содержит разные дизейблеры, электрошоковые дубинки и вспышки. Для открытия требуется доступ Службы Безопасности.
 
-ent-CrateSecuritySupplies = security supplies crate
-    .desc = Contains various supplies for the station's Security team. Requires Security access to open.
+ent-CrateSecuritySupplies = ящик принадлежностей СБ
+    .desc = Содержит разные принадлежности для Службы Безопасности станции. Для открытия требуется доступ Службы Безопасности.
 
-ent-CrateRestraints = restraints crate
-    .desc = Contains two boxes each of handcuffs and zipties. Requires Security access to open.
+ent-CrateRestraints = ящик средств сдерживания
+    .desc = Содержит по две коробки наручников и стяжек. Для открытия требуется доступ Службы Безопасности.
 
-ent-CrateSecurityBiosuit = security bio suit crate
-    .desc = Contains 2 biohazard suits to ensure that no disease will distract you from your duties. Requires Security access to open.
+ent-CrateSecurityBiosuit = ящик костюмов биозащиты СБ
+    .desc = Содержит 2 костюма биозащиты, чтобы ни одна болезнь не отвлекала вас от службы. Для открытия требуется доступ Службы Безопасности.
 
-ent-CrateSecurityTrackingMindshieldImplants = implanter crate
-    .desc = Contains 4 MindShield implants and 4 tracking implant. Requires Security access to open.
+ent-CrateSecurityTrackingMindshieldImplants = ящик имплантеров
+    .desc = Содержит 4 импланта щита разума и 4 импланта слежения. Для открытия требуется доступ Службы Безопасности.
 
-ent-CrateSecNonlethalThrowables = nonlethal throwables crate
-    .desc = Contains one box each of flashbangs, stingers, tear gas grenades, and four bolas. Requires Security access to open.
+ent-CrateSecNonlethalThrowables = ящик нелетальных метательных средств
+    .desc = Содержит по коробке светошумовых, травматических и слезоточивых гранат, а также четыре болы. Для открытия требуется доступ Службы Безопасности.

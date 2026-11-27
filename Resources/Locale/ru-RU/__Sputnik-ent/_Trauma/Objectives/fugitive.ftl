@@ -7,20 +7,20 @@ ent-BaseHunterObjective = { ent-BaseObjective }
 ent-BaseHunterStealObjective = { ent-BaseHunterObjective }
     .desc = { ent-BaseHunterObjective.desc }
 
-ent-FugitiveEscapeObjective = Evade law enforcement
-    .desc = You will never atone for your crimes, make sure of it by blending into the crowd.
+ent-FugitiveEscapeObjective = Скрыться от служителей закона
+    .desc = Вам никогда не придётся отвечать за свои преступления. Затеряйтесь в толпе, чтобы так и осталось.
 
-ent-FugitiveKillObjective = Kill the snitch
-    .desc = Snitches get stitches. Did they really believe they would get away with selling you out?
+ent-FugitiveKillObjective = Убить стукача
+    .desc = Стукачей отправляют зашивать. Неужели стукач и правда думал, что сможет сдать вас и остаться безнаказанным?
 
-ent-HunterKillFugitiveObjective = Eliminate the fugitive
-    .desc = The fugitive is considered too dangerous to be taken alive. Use the report to identify them and make sure they don't make it off the station.
+ent-HunterKillFugitiveObjective = Ликвидировать беглеца
+    .desc = Беглец считается слишком опасным, чтобы брать его живым. Опознайте его по отчёту и не дайте покинуть станцию.
 
-ent-HunterArrestFugitiveObjective = Apprehend the fugitive
-    .desc = Locate the fugitive using the report and ensure they do not escape on the evacuation shuttle. Bring them to justice, alive.
+ent-HunterArrestFugitiveObjective = Задержать беглеца
+    .desc = Найдите беглеца по отчёту и не дайте ему скрыться на эвакуационном шаттле. Доставьте его к правосудию живым.
 
 ent-HunterKillRandomPersonObjective = { ent-BaseHunterObjective }
-    .desc = While you're there, do us this favour.
+    .desc = Раз уж вы там, окажите нам эту услугу.
 
 ent-HunterStealNukeDiskObjective = { ent-BaseHunterStealObjective }
     .desc = { ent-BaseHunterStealObjective.desc }

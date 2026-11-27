@@ -1,2 +1,2 @@
-event-log-webhook-title = Event Logged
-event-log-webhook-footer = server: { $serverName }, round: { $roundId }
+event-log-webhook-title = Событие Записано
+event-log-webhook-footer = сервер: { $serverName }, раунд: { $roundId }

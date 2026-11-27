@@ -1,23 +1,23 @@
-cult-item-component-generic = The item refuses to obey your will. You can't use it.
-cult-item-component-attack-fail = The weapon refuses to obey your will. You can't attack with it.
-cult-item-component-equip-fail = The armor refuses to obey your will. You can't equip it.
-cult-item-component-throw-fail = The weapon refuses to obey your will. You can't throw it.
-cult-item-component-block-fail = The shield betrays you!
+cult-item-component-generic = Предмет не подчиняется вашей воле. Вы не можете его использовать.
+cult-item-component-attack-fail = Оружие не подчиняется вашей воле. Вы не можете им атаковать.
+cult-item-component-equip-fail = Броня не подчиняется вашей воле. Вы не можете её надеть.
+cult-item-component-throw-fail = Оружие не подчиняется вашей воле. Вы не можете его бросить.
+cult-item-component-block-fail = Щит предаёт вас!
 
-ghost-role-information-soul-shard-name = Soul Shard
-ghost-role-information-soul-shard-description = Become the servant of The Blood Cult.
-ghost-role-information-soul-shard-rules = Take the form of one of the constructs and help your Masters bring their Old Goddess back to the world!
+ghost-role-information-soul-shard-name = Осколок Души
+ghost-role-information-soul-shard-description = Станьте слугой Культа Крови.
+ghost-role-information-soul-shard-rules = Примите облик одного из конструктов и помогите своим Господам вернуть их Древнюю Богиню в этот мир!
 
-ghost-role-information-purified-soul-shard-name = Purified Soul Shard
-ghost-role-information-purified-soul-shard-description = Help the crew fight back against The Blood Cult.
-ghost-role-information-purified-soul-shard-rules = Take the form of a purified construct and help the crew defeat your eldritch creators!
+ghost-role-information-purified-soul-shard-name = Очищенный Осколок Души
+ghost-role-information-purified-soul-shard-description = Помогите экипажу дать отпор Культу Крови.
+ghost-role-information-purified-soul-shard-rules = Примите облик очищенного конструкта и помогите экипажу одолеть своих потусторонних создателей!
 
-shuttle-curse-cant-activate = Nar'Sien power doesn't seem to work.
-shuttle-curse-max-charges = You try to shatter the orb, but it remains as solid as a rock!
-shuttle-curse-shuttle-arrived = The shuttle has already arived! You can't delay it anymore.
-shuttle-curse-shuttle-not-called = The shuttle has not yet been called.
+shuttle-curse-cant-activate = Похоже, сила Нар'Си не срабатывает.
+shuttle-curse-max-charges = Вы пытаетесь разбить сферу, но она остаётся твёрдой как камень!
+shuttle-curse-shuttle-arrived = Шаттл уже прибыл! Его больше не задержать.
+shuttle-curse-shuttle-not-called = Шаттл ещё не вызвали.
 
-shuttle-curse-system-failure = SYSTEM FAILURE
-shuttle-curse-success-global = The shuttle will be delayed by {$time} minutes.
+shuttle-curse-system-failure = СБОЙ СИСТЕМЫ
+shuttle-curse-success-global = Шаттл задержится на {$time} мин.
 
-veil-shifter-cant-teleport = Couldn't find a place to teleport you. Try again!
+veil-shifter-cant-teleport = Не удалось найти место для телепортации. Попробуйте ещё раз!

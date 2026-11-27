@@ -1,3 +1,3 @@
-chat-radio-revolutionary = Revolutionary
-chat-radio-head-revolutionary = Head Revolutionary
-chat-radio-egg = Egg
+chat-radio-revolutionary = Революционер
+chat-radio-head-revolutionary = Глава Революции
+chat-radio-egg = Яйцо

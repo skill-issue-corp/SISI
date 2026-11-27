@@ -1,5 +1,5 @@
-ent-SpiritCandle = spirit candle
-    .desc = Feels vaguely ominous!
+ent-SpiritCandle = духовная свеча
+    .desc = От неё веет смутной угрозой!
 
-ent-SpiritCandleRevealArea = spirit candle area
-    .desc = You shouldn't see this.
+ent-SpiritCandleRevealArea = область духовной свечи
+    .desc = Вы не должны это видеть.

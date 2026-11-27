@@ -1,11 +1,11 @@
-ent-WiredApronBase = wired apron
-    .desc = An apron threaded with cabling. It looks incomplete.
+ent-WiredApronBase = фартук с проводами
+    .desc = Фартук, через который продели провода. Выглядит незаконченным.
 
-ent-SteelApronBase = steel-covered apron
-    .desc = An apron with steel plating haphazardly affixed by spare cabling. In it's current state, it would fall apart immediately if worn.
+ent-SteelApronBase = фартук со стальными пластинами
+    .desc = Фартук со стальными пластинами, кое-как примотанными обрезками провода. Если надеть его в таком виде, он тут же развалится.
 
-ent-WeldedSteelApronBase = welded steel apron
-    .desc = An apron affixed with welded steel plating attached to spare cabling. The armor is no longer in danger of falling apart, but requires additional work to be worn securely.
+ent-WeldedSteelApronBase = фартук с приваренными стальными пластинами
+    .desc = Фартук с приваренными стальными пластинами, закреплёнными обрезками провода. Броня уже не развалится, но её ещё надо доделать, чтобы она надёжно держалась на теле.
 
-ent-ClothingOuterArmorScrap = scrap armor
-    .desc = A tider's gleaming plate mail. Bail up, or you're a dead man.
+ent-ClothingOuterArmorScrap = самодельная броня
+    .desc = Сверкающие латы тайдера. Гони всё, что есть, или тебе конец.

@@ -12,12 +12,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-carp-rift-warning = A rift is causing an unnaturally large energy flux {$location}. Stop it at all costs!
-carp-rift-duplicate = Cannot have 2 charging rifts at the same time!
-carp-rift-examine = It is [color=yellow]{$percentage}%[/color] charged!
-carp-rift-max = You have reached your maximum amount of rifts
-carp-rift-anchor = Rifts require a stable surface to spawn.
-carp-rift-proximity = Too close to a nearby rift! Need to be at least {$proximity}m away.
-carp-rift-space-proximity = Too close to space! Need to be at least {$proximity}m away.
-carp-rift-weakened = You are unable to summon more rifts in your weakened state.
-carp-rift-destroyed = A rift has been destroyed! You are now weakened temporarily.
+carp-rift-warning = Разлом вызывает неестественно сильные энергетические колебания {$location}. Остановите его любой ценой!
+carp-rift-duplicate = Одновременно не могут заряжаться 2 разлома!
+carp-rift-examine = Заряжен на [color=yellow]{$percentage}%[/color]!
+carp-rift-max = Вы уже создали максимально возможное число разломов
+carp-rift-anchor = Для появления разлома нужна устойчивая поверхность.
+carp-rift-proximity = Слишком близко к другому разлому! Нужно отойти хотя бы на {$proximity} м.
+carp-rift-space-proximity = Слишком близко к открытому космосу! Нужно отойти хотя бы на {$proximity} м.
+carp-rift-weakened = Вы слишком ослаблены, чтобы открыть новые разломы.
+carp-rift-destroyed = Разлом уничтожен! Вы временно ослаблены.

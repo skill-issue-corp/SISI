@@ -1,10 +1,10 @@
-armor-coverage-value = - This armor protects your [color=yellow]{ $type }[/color].
-armor-coverage-type-arm = arms
-armor-coverage-type-hand = hands
-armor-coverage-type-foot = feet
-armor-coverage-type-leg = legs
-armor-coverage-type-torso = torso
-armor-coverage-type-wings = wings
-armor-coverage-type-head = head
-armor-coverage-type-tail = tail
-armor-coverage-type-other = other parts
+armor-coverage-value = - Под защитой этой брони у вас [color=yellow]{ $type }[/color].
+armor-coverage-type-arm = руки
+armor-coverage-type-hand = кисти
+armor-coverage-type-foot = стопы
+armor-coverage-type-leg = ноги
+armor-coverage-type-torso = туловище
+armor-coverage-type-wings = крылья
+armor-coverage-type-head = голова
+armor-coverage-type-tail = хвост
+armor-coverage-type-other = прочие части тела

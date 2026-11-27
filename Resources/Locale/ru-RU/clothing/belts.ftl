@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-sheath-insert-verb = Sheathe
-sheath-eject-verb = Unsheathe
+sheath-insert-verb = Вложить в ножны
+sheath-eject-verb = Достать из ножен

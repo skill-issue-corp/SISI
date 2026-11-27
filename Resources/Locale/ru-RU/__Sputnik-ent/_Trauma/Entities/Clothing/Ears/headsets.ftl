@@ -1,5 +1,5 @@
-ent-ClothingHeadsetRevolutionary = revolutionary headset
-    .desc = A modular intercom that fits over the head, takes encryption keys and protects from flashbangs.
+ent-ClothingHeadsetRevolutionary = гарнитура революционера
+    .desc = Модульная гарнитура с оголовьем, гнёздами для ключей шифрования и защитой от светошумовых гранат.
 
-ent-ClothingHeadsetAltHunter = spacepol officers over-ear headset
+ent-ClothingHeadsetAltHunter = полноразмерная гарнитура офицера космопола
     .desc = { ent-ClothingHeadsetAltLoudspeaker.desc }

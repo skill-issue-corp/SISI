@@ -1,9 +1,9 @@
-store-category-security = Security
-store-category-specialists = Specialist Officers
-store-category-bioweapons = Bioweaponry
+store-category-security = Служба Безопасности
+store-category-specialists = Специалисты СБ
+store-category-bioweapons = Биооружие
 
-store-category-service = Service
-store-category-engineering = Engineering
-store-category-science = Science
-store-category-medical = Medical
-store-category-cargo = Cargo
+store-category-service = Обслуживание
+store-category-engineering = Инженерный Отдел
+store-category-science = Наука
+store-category-medical = Медотсек
+store-category-cargo = Карго

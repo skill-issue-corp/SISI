@@ -7,14 +7,14 @@ ent-SpawnerChristmasTinselRed = { ent-MarkerBase }
 ent-SpawnerChristmasTinselBlue = { ent-MarkerBase }
     .desc = { ent-MarkerBase.desc }
 
-ent-BaseChristmasTinsel = tinsel
-    .desc = Some white tinsel. It's a bit sparkly.
+ent-BaseChristmasTinsel = мишура
+    .desc = Белая мишура. Немного блестит.
 
 ent-BaseChristmasTinselRed = { ent-BaseChristmasTinsel }
-    .desc = Some red tinsel. It's a bit sparkly.
+    .desc = Красная мишура. Немного блестит.
 
 ent-BaseChristmasTinselBlue = { ent-BaseChristmasTinsel }
-    .desc = Some blue tinsel. It's a bit sparkly.
+    .desc = Синяя мишура. Немного блестит.
 
 ent-ChristmasTinselWhite1 = { ent-BaseChristmasTinsel }
     .desc = { ent-BaseChristmasTinsel.desc }

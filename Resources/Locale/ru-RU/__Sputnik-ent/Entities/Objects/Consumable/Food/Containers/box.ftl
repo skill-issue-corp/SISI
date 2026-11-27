@@ -1,82 +1,82 @@
-ent-FoodBoxDonut = donut box
-    .desc = Mmm, Donuts.
+ent-FoodBoxDonut = коробка для пончиков
+    .desc = М-м-м, Пончики.
 
-ent-FoodContainerEgg = egg carton
-    .desc = Don't drop 'em!
+ent-FoodContainerEgg = коробка для яиц
+    .desc = Смотрите не уроните!
 
 ent-EggBoxBroken = { ent-FoodContainerEgg }
     .desc = { ent-FoodContainerEgg.desc }
-    .suffix = Broken
+    .suffix = Сломано
 
-ent-FoodBoxPizza = pizza box
-    .desc = A box for pizza. It keeps in the heat, the smell, and the memories of the best five minutes of your life.
+ent-FoodBoxPizza = коробка для пиццы
+    .desc = Коробка для пиццы. Сохраняет тепло, запах и воспоминания о лучших пяти минутах вашей жизни.
 
 ent-FoodBoxPizzaFilled = { ent-FoodBoxPizza }
     .desc = { ent-FoodBoxPizza.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-FoodBoxPizzaCotton = { ent-FoodBoxPizza }
     .desc = { ent-FoodBoxPizza.desc }
-    .suffix = Cotton Pizza
+    .suffix = Хлопковая Пицца
 
-ent-FoodBoxNugget = chicken nuggets
-    .desc = You suddenly have an urge to trade on the intergalactic stock market.
+ent-FoodBoxNugget = куриные наггетсы
+    .desc = Внезапно вам захотелось поторговать на межгалактической бирже.
 
-ent-FoodBoxDonkpocket = box of donk-pockets
-    .desc = Instructions: Heat in microwave. Product will cool if not eaten within seven minutes.
+ent-FoodBoxDonkpocket = коробка донк-покетов
+    .desc = Инструкция: Разогрейте в микроволновке. Продукт остынет, если не съесть его за семь минут.
 
-ent-FoodBoxDonkpocketSpicy = box of spicy-flavoured donk-pockets
+ent-FoodBoxDonkpocketSpicy = коробка острых донк-покетов
     .desc = { ent-FoodBoxDonkpocket.desc }
 
-ent-FoodBoxDonkpocketTeriyaki = box of teriyaki-flavoured donk-pockets
+ent-FoodBoxDonkpocketTeriyaki = коробка донк-покетов со вкусом терияки
     .desc = { ent-FoodBoxDonkpocket.desc }
 
-ent-FoodBoxDonkpocketPizza = box of pizza-flavoured donk-pockets
+ent-FoodBoxDonkpocketPizza = коробка донк-покетов со вкусом пиццы
     .desc = { ent-FoodBoxDonkpocket.desc }
 
-ent-FoodBoxDonkpocketStonk = box of limited edition stonk-pockets
+ent-FoodBoxDonkpocketStonk = коробка стонк-покетов ограниченной серии
     .desc = { ent-FoodBoxDonkpocket.desc }
 
-ent-FoodBoxDonkpocketCarp = box of carp-pockets
+ent-FoodBoxDonkpocketCarp = коробка карп-покетов
     .desc = { ent-FoodBoxDonkpocket.desc }
 
-ent-FoodBoxDonkpocketBerry = box of berry-flavoured donk-pockets
+ent-FoodBoxDonkpocketBerry = коробка донк-покетов с ягодным вкусом
     .desc = { ent-FoodBoxDonkpocket.desc }
 
-ent-FoodBoxDonkpocketHonk = box of banana-flavoured donk-pockets
+ent-FoodBoxDonkpocketHonk = коробка донк-покетов с банановым вкусом
     .desc = { ent-FoodBoxDonkpocket.desc }
 
-ent-FoodBoxDonkpocketDink = box of dink-pockets
-    .desc = Net Zero carbohydrates! No need for heating!
+ent-FoodBoxDonkpocketDink = коробка динк-покетов
+    .desc = Чистый Ноль углеводов! Разогревать не нужно!
 
-ent-FoodBoxDonkpocketMoth = box of moth-pockets
+ent-FoodBoxDonkpocketMoth = коробка моль-покетов
     .desc = { ent-FoodBoxDonkpocket.desc }
 
-ent-HappyHonk = happy honk meal
-    .desc = The toy is more edible than the food.
-    .suffix = Toy Safe
+ent-HappyHonk = набор «хэппи хонк»
+    .desc = Игрушка съедобнее еды.
+    .suffix = Игрушка Безопасна
 
 ent-HappyHonkMime = { ent-HappyHonk }
-    .desc = A limited mime edition of the happy honk meal.
-    .suffix = Toy Safe
+    .desc = Ограниченная мимская серия набора «хэппи хонк».
+    .suffix = Игрушка Безопасна
 
-ent-HappyHonkNukie = robust nukie meal
-    .desc = A sus meal with a potentially explosive surprise.
-    .suffix = Toy Unsafe
+ent-HappyHonkNukie = робастный обед ядерного оперативника
+    .desc = Какой-то сус-обед с сюрпризом, который может рвануть.
+    .suffix = Игрушка Опасна
 
-ent-HappyHonkNukieSnacks = syndicate snack box
+ent-HappyHonkNukieSnacks = коробка закусок синдиката
     .desc = { ent-HappyHonkNukie.desc }
-    .suffix = Toy Unsafe, Snacks
+    .suffix = Игрушка Опасна, Закуски
 
-ent-HappyHonkCluwne = woeful cluwne meal
-    .desc = Nothing good can come of this.
+ent-HappyHonkCluwne = унылый обед клувеня
+    .desc = Ничего хорошего из этого не выйдет.
 
 ent-FoodMealHappyHonkClown = { ent-HappyHonk }
     .desc = { ent-HappyHonk.desc }
-    .suffix = random food spawner meal
+    .suffix = обед со случайной едой
 
-ent-FoodMealHappyHonkBigBite = Happy Honk Big Bite Meal
-    .desc = Someone paid good money to get this fast food meal shipped out this way. It smells fresh, somehow.
+ent-FoodMealHappyHonkBigBite = Набор «Хэппи Хонк Большой Кусь»
+    .desc = Кто-то выложил кругленькую сумму за доставку этого фастфуда сюда. Он каким-то чудом всё ещё пахнет свежим.
 
-ent-FoodBoxCloth = box of FlutterSoft-brand cloth
-    .desc = Fiber is the most important moth meal of the day! Don't skip it or use bottom-of-the-locker junk, buy high-quality FlutterSoft-brand cloth instead.
+ent-FoodBoxCloth = коробка ткани марки «ФлаттерСофт»
+    .desc = Клетчатка - главный приём пищи ниана за день! Не пропускайте его и не ешьте старьё со дна шкафа. Покупайте качественную ткань марки «ФлаттерСофт».

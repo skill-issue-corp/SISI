@@ -1,33 +1,33 @@
-ent-FoodTinBase = tin
-    .desc = A tin of something, sealed tight.
+ent-FoodTinBase = консервная банка
+    .desc = Герметично запечатанная банка с чем-то внутри.
 
-ent-FoodTinBaseTrash = empty tin
-    .desc = An empty tin. Could get a bit of metal from this.
+ent-FoodTinBaseTrash = пустая консервная банка
+    .desc = Пустая банка. Можно добыть немного металла.
 
-ent-FoodTinPeaches = tinned peaches
-    .desc = Just a nice can of ripe peaches swimming in their own juices.
+ent-FoodTinPeaches = консервированные персики
+    .desc = Приятная баночка спелых персиков в собственном соку.
 
-ent-FoodTinPeachesTrash = tinned peaches
+ent-FoodTinPeachesTrash = консервированные персики
     .desc = { ent-FoodTinBaseTrash.desc }
 
-ent-FoodTinPeachesMaint = maintenance peaches
+ent-FoodTinPeachesMaint = персики из техтоннелей
     .desc = { ent-FoodTinPeaches.desc }
 
 ent-FoodTinPeachesMaintOpen = { ent-FoodTinPeachesMaint }
     .desc = { ent-FoodTinPeachesMaint.desc }
-    .suffix = Open
+    .suffix = Открыто
 
-ent-FoodTinPeachesMaintTrash = maintenance peaches
+ent-FoodTinPeachesMaintTrash = персики из техтоннелей
     .desc = { ent-FoodTinBaseTrash.desc }
 
-ent-FoodTinBeans = tin of beans
-    .desc = Musical fruit in a slightly less musical container.
+ent-FoodTinBeans = банка фасоли
+    .desc = Музыкальные бобы в чуть менее музыкальной таре.
 
-ent-FoodTinBeansTrash = tin of beans
+ent-FoodTinBeansTrash = банка фасоли
     .desc = { ent-FoodTinBaseTrash.desc }
 
-ent-FoodTinMRE = tinned meat
-    .desc = A standard issue tin of meat with a convenient pull tab.
+ent-FoodTinMRE = консервированное мясо
+    .desc = Стандартная банка мясных консервов с удобным кольцом для открывания.
 
-ent-FoodTinMRETrash = tinned meat
+ent-FoodTinMRETrash = консервированное мясо
     .desc = { ent-FoodTinBaseTrash.desc }

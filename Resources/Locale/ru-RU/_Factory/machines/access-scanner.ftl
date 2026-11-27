@@ -1,8 +1,8 @@
-signal-port-name-access-active = Active
-signal-port-description-access-active = Signal port set to HIGH when at least 1 ID card with access is within range, set to LOW otherwise.
+signal-port-name-access-active = Активен
+signal-port-description-access-active = На порту устанавливается ВЫСОКИЙ уровень, когда в радиусе действия есть хотя бы 1 ID-карта с доступом. В остальных случаях устанавливается НИЗКИЙ.
 
-signal-port-name-access-name = ID Name
-signal-port-description-access-name = Signal port invoked with the name of the latest ID that entered range. Circuits can use the string value.
+signal-port-name-access-name = Имя на ID-карте
+signal-port-description-access-name = Передаёт имя с последней ID-карты, попавшей в радиус действия. Схемы могут использовать это строковое значение.
 
-signal-port-name-access-job = ID Job
-signal-port-description-access-job = Signal port invoked with the job title of the latest ID that entered range. Circuits can use the string value.
+signal-port-name-access-job = Должность на ID-карте
+signal-port-description-access-job = Передаёт должность с последней ID-карты, попавшей в радиус действия. Схемы могут использовать это строковое значение.

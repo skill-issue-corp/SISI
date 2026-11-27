@@ -1,4 +1,4 @@
-shadow-demon-round-end-agent-name = shadow demon
+shadow-demon-round-end-agent-name = тенедемон
 
 # SIS-Start
 shadow-demon-role-greeting =

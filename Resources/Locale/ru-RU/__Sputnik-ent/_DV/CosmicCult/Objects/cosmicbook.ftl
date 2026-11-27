@@ -1,2 +1,2 @@
-ent-BookCosmicCult = The Unknowledge
-    .desc = It appears to be a feeble attempt of a mortal mind to describe an indelible truth through paper.
+ent-BookCosmicCult = Незнание
+    .desc = Похоже на жалкую попытку смертного разума описать на бумаге неизгладимую истину.

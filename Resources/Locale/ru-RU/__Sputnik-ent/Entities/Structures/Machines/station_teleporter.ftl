@@ -1,35 +1,35 @@
-ent-StationTeleporter = teleporter
-    .desc = The peak of bluespace technology. A giant teleporter that allows you to travel vast distances in the blink of an eye.
-    .suffix = Unknown Coordinates, Without Autolink
+ent-StationTeleporter = телепорт
+    .desc = Вершина блюспейс-технологий. Гигантский телепорт, позволяющий в мгновение ока преодолевать огромные расстояния.
+    .suffix = Неизвестные Координаты, Без Автосвязи
 
 ent-StationTeleporterNanotrasen = { ent-StationTeleporter }
     .desc = { ent-StationTeleporter.desc }
-    .suffix = Unknown Coordinates, Nanotrasen Network
+    .suffix = Неизвестные Координаты, Сеть NanoTrasen
 
 ent-StationTeleporterCenter = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Center, Nanotrasen
+    .suffix = Центр, NanoTrasen
 
 ent-StationTeleporterSalvage = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Salvage, Nanotrasen
+    .suffix = Утилизаторская, NanoTrasen
 
 ent-StationTeleporterMedical = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Medical, Nanotrasen
+    .suffix = Медотсек, NanoTrasen
 
 ent-StationTeleporterEngineering = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Engineering, Nanotrasen
+    .suffix = Инженерия, NanoTrasen
 
 ent-StationTeleporterSecurity = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Security, Nanotrasen
+    .suffix = Служба Безопасности, NanoTrasen
 
 ent-StationTeleporterScience = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Science, Nanotrasen
+    .suffix = Наука, NanoTrasen
 
 ent-StationTeleporterCargo = { ent-StationTeleporterNanotrasen }
     .desc = { ent-StationTeleporterNanotrasen.desc }
-    .suffix = Cargo, Nanotrasen
+    .suffix = Карго, NanoTrasen

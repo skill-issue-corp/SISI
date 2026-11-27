@@ -1,5 +1,5 @@
-fishing-rod-remove-lure = { $ent } is reeling
-fishing-progress-success = You pull something up from the spot!
-fishing-progress-fail = You missed it...
-fishing-progress-lost-rod = You lost control over the { $ent }!
-fishing-progress-start = You feel something clinging to the fishing lure!
+fishing-rod-remove-lure = Леска у { $ent } сматывается
+fishing-progress-success = Вы что-то выуживаете!
+fishing-progress-fail = Не удалось подсечь...
+fishing-progress-lost-rod = Вы упустили { $ent }!
+fishing-progress-start = Вы чувствуете, как что-то цепляется за приманку!

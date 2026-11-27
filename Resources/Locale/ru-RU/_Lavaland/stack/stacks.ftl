@@ -1,17 +1,17 @@
-stack-artifact-fragment-ore = artifact fragment ore
+stack-artifact-fragment-ore = руда с фрагментом артефакта
 
-stack-unprocessed-gold-ore = unprocessed gold ore
-stack-unprocessed-diamond-ore = unprocessed diamond ore
-stack-unprocessed-steel-ore = unprocessed steel ore
-stack-unprocessed-plasma-ore = unprocessed phoron ore
-stack-unprocessed-silver-ore = unprocessed silver ore
-stack-unprocessed-quartz-ore = unprocessed quartz ore
-stack-unprocessed-uranium-ore = unprocessed uranium ore
-stack-unprocessed-bananium-ore = unprocessed bananium ore
-stack-unprocessed-coal = unprocessed coal
-stack-unprocessed-artifact-fragment-ore = unprocessed artifact fragment ore
+stack-unprocessed-gold-ore = необработанная золотая руда
+stack-unprocessed-diamond-ore = необработанная алмазная руда
+stack-unprocessed-steel-ore = необработанная железная руда
+stack-unprocessed-plasma-ore = необработанная фороновая руда
+stack-unprocessed-silver-ore = необработанная серебряная руда
+stack-unprocessed-quartz-ore = необработанная кварцевая руда
+stack-unprocessed-uranium-ore = необработанная урановая руда
+stack-unprocessed-bananium-ore = необработанная бананиумовая руда
+stack-unprocessed-coal = необработанный уголь
+stack-unprocessed-artifact-fragment-ore = необработанная руда с фрагментом артефакта
 
-stack-watcher-wing = watcher wing
-stack-magma-wing = magma watcher wing
-stack-ice-wing = ice watcher wing
-stack-legion-skull = legion skull
+stack-watcher-wing = крыло наблюдателя
+stack-magma-wing = крыло магмового наблюдателя
+stack-ice-wing = крыло ледяного наблюдателя
+stack-legion-skull = череп легиона

@@ -1,8 +1,8 @@
 ent-AirSensorBase = { "" }
     .desc = { "" }
 
-ent-AirSensor = air sensor
-    .desc = Air sensor. It senses air.
+ent-AirSensor = датчик воздуха
+    .desc = Датчик воздуха. Он чует воздух.
 
-ent-AirSensorAssembly = air sensor assembly
-    .desc = Air sensor assembly. An assembly of air sensors?
+ent-AirSensorAssembly = каркас датчика воздуха
+    .desc = Каркас датчика воздуха. Сборка из датчиков воздуха?

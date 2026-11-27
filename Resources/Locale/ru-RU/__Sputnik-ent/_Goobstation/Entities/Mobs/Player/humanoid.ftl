@@ -1,87 +1,87 @@
 ent-MobHumanRandom = { ent-MobHuman }
     .desc = { ent-MobHuman.desc }
-    .suffix = Random Appearance
+    .suffix = Случайная Внешность
 
 ent-MobDionaRandom = { ent-MobDiona }
     .desc = { ent-MobDiona.desc }
-    .suffix = Random Appearance
+    .suffix = Случайная Внешность
 
 ent-MobGingerbreadRandom = { ent-MobGingerbread }
     .desc = { ent-MobGingerbread.desc }
-    .suffix = Random Appearance
+    .suffix = Случайная Внешность
 
 ent-MobMothRandom = { ent-MobMoth }
     .desc = { ent-MobMoth.desc }
-    .suffix = Random Appearance
+    .suffix = Случайная Внешность
 
 ent-MobDwarfRandom = { ent-MobDwarf }
     .desc = { ent-MobDwarf.desc }
-    .suffix = Random Appearance
+    .suffix = Случайная Внешность
 
 ent-MobReptilianRandom = { ent-MobReptilian }
     .desc = { ent-MobReptilian.desc }
-    .suffix = Random Appearance
+    .suffix = Случайная Внешность
 
 ent-MobSlimePersonRandom = { ent-MobSlimePerson }
     .desc = { ent-MobSlimePerson.desc }
-    .suffix = Random Appearance
+    .suffix = Случайная Внешность
 
 ent-MobVoxRandom = { ent-MobVox }
     .desc = { ent-MobVox.desc }
-    .suffix = Random Appearance
+    .suffix = Случайная Внешность
 
-ent-RandomHumanoidSpawnerDeathSquadNoReq = Death Squad Lackey
+ent-RandomHumanoidSpawnerDeathSquadNoReq = Прислужник Эскадрона Смерти
     .desc = { ent-RandomHumanoidSpawnerDeathSquad.desc }
-    .suffix = ERTRole, Death Squad, No Requirements
+    .suffix = РольОБР, Эскадрон Смерти, Без Требований
 
-ent-RandomHumanoidSpawnerERTLeaderNoReq = ERT Leader Stand-in
+ent-RandomHumanoidSpawnerERTLeaderNoReq = Заместитель Командира ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
-    .suffix = ERTRole, Basic, No Requirements
+    .suffix = РольОБР, Базовый, Без Требований
 
-ent-RandomHumanoidSpawnerERTLeaderEVANoReq = ERT Leader Stand-in
+ent-RandomHumanoidSpawnerERTLeaderEVANoReq = Заместитель Командира ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeaderNoReq.desc }
-    .suffix = ERTRole, Armored EVA, No Requirements
+    .suffix = РольОБР, Бронированный EVA, Без Требований
 
-ent-RandomHumanoidSpawnerERTChaplainNoReq = ERT Deacon
+ent-RandomHumanoidSpawnerERTChaplainNoReq = Дьякон ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
-    .suffix = ERTRole, Basic, No Requirements
+    .suffix = РольОБР, Базовый, Без Требований
 
-ent-RandomHumanoidSpawnerERTChaplainEVANoReq = ERT Deacon
+ent-RandomHumanoidSpawnerERTChaplainEVANoReq = Дьякон ОБР
     .desc = { ent-RandomHumanoidSpawnerERTChaplainNoReq.desc }
-    .suffix = ERTRole, Enviro EVA
+    .suffix = РольОБР, Экокостюм EVA
 
-ent-RandomHumanoidSpawnerERTJanitorNoReq = ERT Janitor Intern
+ent-RandomHumanoidSpawnerERTJanitorNoReq = Уборщик-Стажёр ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeaderNoReq.desc }
-    .suffix = ERTRole, Basic, No Requirements
+    .suffix = РольОБР, Базовый, Без Требований
 
-ent-RandomHumanoidSpawnerERTJanitorEVANoReq = ERT Janitor Intern
+ent-RandomHumanoidSpawnerERTJanitorEVANoReq = Уборщик-Стажёр ОБР
     .desc = { ent-RandomHumanoidSpawnerERTJanitorNoReq.desc }
-    .suffix = ERTRole, Enviro EVA, No Requirements
+    .suffix = РольОБР, Экокостюм EVA, Без Требований
 
-ent-RandomHumanoidSpawnerERTEngineerNoReq = ERT Engineer Intern
+ent-RandomHumanoidSpawnerERTEngineerNoReq = Инженер-Стажёр ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeaderNoReq.desc }
-    .suffix = ERTRole, Basic, No Requirements
+    .suffix = РольОБР, Базовый, Без Требований
 
-ent-RandomHumanoidSpawnerERTEngineerEVANoReq = ERT Engineer Intern
+ent-RandomHumanoidSpawnerERTEngineerEVANoReq = Инженер-Стажёр ОБР
     .desc = { ent-RandomHumanoidSpawnerERTEngineerNoReq.desc }
-    .suffix = ERTRole, Enviro EVA, No Requirements
+    .suffix = РольОБР, Экокостюм EVA, Без Требований
 
-ent-RandomHumanoidSpawnerERTSecurityNoReq = ERT Security Cadet
+ent-RandomHumanoidSpawnerERTSecurityNoReq = Кадет Службы Безопасности ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeaderNoReq.desc }
-    .suffix = ERTRole, Basic, No Requirements
+    .suffix = РольОБР, Базовый, Без Требований
 
-ent-RandomHumanoidSpawnerERTSecurityEVANoReq = ERT Security Cadet
+ent-RandomHumanoidSpawnerERTSecurityEVANoReq = Кадет Службы Безопасности ОБР
     .desc = { ent-RandomHumanoidSpawnerERTSecurity.desc }
-    .suffix = ERTRole, Armored EVA, No Requirements
+    .suffix = РольОБР, Бронированный EVA, Без Требований
 
-ent-RandomHumanoidSpawnerERTMedicalNoReq = ERT Medic Intern
+ent-RandomHumanoidSpawnerERTMedicalNoReq = Медик-Стажёр ОБР
     .desc = { ent-RandomHumanoidSpawnerERTLeaderNoReq.desc }
-    .suffix = ERTRole, Basic, No Requirements
+    .suffix = РольОБР, Базовый, Без Требований
 
-ent-RandomHumanoidSpawnerERTMedicalEVANoReq = ERT Medic Intern
+ent-RandomHumanoidSpawnerERTMedicalEVANoReq = Медик-Стажёр ОБР
     .desc = { ent-RandomHumanoidSpawnerERTMedical.desc }
-    .suffix = ERTRole, Armored EVA, No Requirements
+    .suffix = РольОБР, Бронированный EVA, Без Требований
 
-ent-RandomHumanoidSpawnerCBURNUnitNoReq = CBURN Agent Cadet
+ent-RandomHumanoidSpawnerCBURNUnitNoReq = Кадет РХБЗЗ
     .desc = { "" }
-    .suffix = ERTRole, No Requirements
+    .suffix = РольОБР, Без Требований

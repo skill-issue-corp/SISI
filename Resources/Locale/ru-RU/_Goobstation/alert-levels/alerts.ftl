@@ -8,14 +8,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-alerts-stasis-name = [color=cyan]Temporal stasis[/color]
-alerts-stasis-desc = You are placed in temporary stasis. You cannot interact with the world, nor can it interact with you.
+alerts-stasis-name = [color=cyan]Временной стазис[/color]
+alerts-stasis-desc = Вы находитесь во временном стазисе. Вы не можете взаимодействовать с окружающим миром, а он – с вами.
 
-alerts-knocked-down-name = [color=yellow]Knocked down[/color]
-alerts-knocked-down-desc = [color=yellow]Knocked down[/color]! You can't get up.
+alerts-knocked-down-name = [color=yellow]Сбиты с ног[/color]
+alerts-knocked-down-desc = [color=yellow]Вы сбиты с ног[/color]! Вы не можете встать.
 
-alerts-modsuit-power-name = [color=yellow]Modsuit Power[/color]
-alerts-modsuit-power-desc = Displays the current power level of your modsuit. Low power may affect suit functionality.
+alerts-modsuit-power-name = [color=yellow]Заряд Модсьюта[/color]
+alerts-modsuit-power-desc = Показывает текущий заряд вашего модсьюта. Низкий заряд может повлиять на работу костюма.
 
-alerts-centered-name = Centered
-alerts-centered-desc = You feel in touch with your roots. Specifically the roots that keep you centered on tiles.
+alerts-centered-name = По Центру
+alerts-centered-desc = Вы чувствуете связь со своими корнями. Точнее, с теми, что удерживают вас в центре тайлов.

@@ -1,99 +1,99 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ghost-role-information-nukie-reinforcement-name = Nuclear Operative
-ghost-role-information-nukie-reinforcement-description = The nuclear operatives need reinforcements. You, a reserve agent, will help them.
-ghost-role-information-nukie-reinforcement-rules = You are a [color=red][bold]Team Antagonist[/bold][/color] with the nuclear operatives who summoned you.
+ghost-role-information-nukie-reinforcement-name = Ядерный Оперативник
+ghost-role-information-nukie-reinforcement-description = Ядерным оперативникам нужно подкрепление. Вы агент резерва и поможете им.
+ghost-role-information-nukie-reinforcement-rules = Вы [color=red][bold]Командный Антагонист[/bold][/color] вместе с призвавшими вас ядерными оперативниками.
 
-ghost-role-information-SyndiRoach-name = SyndiRoach
-ghost-role-information-SyndiRoach-description = You're the faithful trained pet of nuclear operatives with a microbomb. Serve your master to the death!
-ghost-role-information-SyndiRoach-rules = You are a [color=red][bold]Team Antagonist[/bold][/color] with the agent who summoned you.
+ghost-role-information-SyndiRoach-name = СиндиМоль
+ghost-role-information-SyndiRoach-description = Вы верный дрессированный питомец ядерных оперативников с микробомбой. Служите хозяину до смерти!
+ghost-role-information-SyndiRoach-rules = Вы [color=red][bold]Командный Антагонист[/bold][/color] вместе с агентом, который вас призвал.
 
-ghost-role-information-skibidi-toilet-name = Skibidi Toilet
-ghost-role-information-skibidi-toilet-description = Unalive people with your skibidi ohio rizz.
-ghost-role-information-skibidi-toilet-rules = You are a [color=red][bold]Antagonist[/bold][/color] with the objective of unaliving as many ohioans as you can.
+ghost-role-information-skibidi-toilet-name = Скибиди Туалет
+ghost-role-information-skibidi-toilet-description = Отправляйте людей в огайо своим скибиди-риззом.
+ghost-role-information-skibidi-toilet-rules = Вы [color=red][bold]Антагонист[/bold][/color]. Ваша цель – отправить в Огайо как можно больше огайцев.
 
-ghost-role-information-Hecu-name = HECU Operative
-ghost-role-information-Hecu-description = Central Command needs something done.
-ghost-role-information-Hecu-rules = You are required to obey orders given by your superior, you are effectively their [color=#6495ed][bold]Familiar[/bold][/color].
+ghost-role-information-Hecu-name = Оперативник HECU
+ghost-role-information-Hecu-description = Центральному Командованию нужно кое-что сделать.
+ghost-role-information-Hecu-rules = Вы обязаны выполнять приказы начальства. По сути, вы их [color=#6495ed][bold]Фамильяр[/bold][/color].
 
-ghost-role-information-lootbug-name = LootBug
-ghost-role-information-lootbug-description = Try not to be butchered by tiders.
+ghost-role-information-lootbug-name = Жук-Барахольщик
+ghost-role-information-lootbug-description = Постарайтесь не дать тайдерам себя разделать.
 
-ghost-role-information-homunculus-name = homunculus
-ghost-role-information-homunculus-description = Obey the one who has created you, if there are nowhere to be found, do as you will.
+ghost-role-information-homunculus-name = гомункул
+ghost-role-information-homunculus-description = Подчиняйтесь тому, кто вас создал. Если создателя нигде нет, поступайте как угодно.
 
-ghost-role-information-huborg-name = Urist McBorg
-ghost-role-information-huborg-description = You are a disgusting abomination of a cyborg.
+ghost-role-information-huborg-name = Урист МакБорг
+ghost-role-information-huborg-description = Вы отвратительное подобие киборга.
 
-ghost-role-information-c4-name = Composition C-4
-ghost-role-information-c4-description = Assist your user with bombing things.
+ghost-role-information-c4-name = Взрывчатка C-4
+ghost-role-information-c4-description = Помогайте своему пользователю взрывать вещи.
 
-ghost-role-information-derelict-cyborg-syndicate-name = Derelict Syndicate Cyborg
-ghost-role-information-derelict-cyborg-syndicate-description = You were lost during an assault on a station. After years of exposure to ion storms you find yourself near a space station.
+ghost-role-information-derelict-cyborg-syndicate-name = Потерянный Киборг Синдиката
+ghost-role-information-derelict-cyborg-syndicate-description = Вы потерялись при штурме станции. Проведя годы в ионных бурях, вы оказались рядом с космической станцией.
 
-ghost-role-information-sentient-shark-name = Sentient Sharkminnow
-ghost-role-information-plague-mouse-name = Plague Mouse
-ghost-role-information-plague-mouse-description = A hungry and mischievous mouse. This one carries a disease and will spread it on bite.
+ghost-role-information-sentient-shark-name = Разумная Космическая Акула
+ghost-role-information-plague-mouse-name = Чумная Мышь
+ghost-role-information-plague-mouse-description = Голодная и проказливая мышь. Переносит болезнь и заражает укусом.
 
-ghost-role-information-trevor-name = Trevor
-ghost-role-information-trevor-description = Securities trusted battle steed.
+ghost-role-information-trevor-name = Тревор
+ghost-role-information-trevor-description = Верный боевой скакун службы безопасности.
 
 # Half Life
 
-ghost-role-information-Gman-name = The G-Man
-ghost-role-information-Gman-description = The right man in the wrong place can make all the difference in the world.
-ghost-role-information-Gman-rules = You are beholden to no rules or boundaries. Death cannot hold you, and neither can Nanotrasen.
+ghost-role-information-Gman-name = Джи-Мэн
+ghost-role-information-Gman-description = Нужный человек не в том месте может перевернуть мир.
+ghost-role-information-Gman-rules = Вы свободны от правил и ограничений. Ни смерть, ни NanoTrasen не в силах вас удержать.
 
 # interns
-ghost-role-intern-name = CentComm intern
-ghost-role-nerd-intern-name = CentComm Nerd Intern
-ghost-role-lead-intern-name = CentComm Lead Intern
-ghost-role-intern-desc = You are a CentComm intern, you're underpaid, hungry, with a large student debt to pay off, but you have no other options so you better listen up!
-ghost-role-intern-rules = Follow the orders given you by the [color=yellow][bold]NanoTrasen Representative[/bold][/color] & CentComm, protect command, listen to the Lead intern.
-ghost-role-lead-intern-rules = Follow the orders given you by the [color=yellow][bold]NanoTrasen Representative[/bold][/color] & CentComm, protect command, give orders to other interns.
+ghost-role-intern-name = стажёр ЦК
+ghost-role-nerd-intern-name = Стажёр-Зубрила ЦК
+ghost-role-lead-intern-name = Старший Стажёр ЦК
+ghost-role-intern-desc = Вы стажёр ЦК. Вам мало платят, вы голодаете и вам ещё выплачивать огромный студенческий долг. Других вариантов у вас нет, так что лучше слушайте внимательно!
+ghost-role-intern-rules = Выполняйте приказы [color=yellow][bold]Представителя NanoTrasen[/bold][/color] и ЦК, защищайте командование, слушайтесь Старшего стажёра.
+ghost-role-lead-intern-rules = Выполняйте приказы [color=yellow][bold]Представителя NanoTrasen[/bold][/color] и ЦК, защищайте командование, отдавайте приказы другим стажёрам.
 
 # cargo bingle
-ghost-role-cargo-bingle-name = Cargo bingle
-ghost-role-cargo-bingle-desc = Serve the Nanotrasen Representative and their interests, do not injure crew members, help cargo and the station.
+ghost-role-cargo-bingle-name = бингл Карго
+ghost-role-cargo-bingle-desc = Служите Представителю NanoTrasen и его интересам, не причиняйте вреда экипажу, помогайте карго и станции.
 
 # shuttle roles
 
-ghost-role-information-alien-tourist-name = Alien Tourist
-ghost-role-information-alien-tourist-description = Look around the station. Glorp at people. Get shot by a trigger-happy officer.
+ghost-role-information-alien-tourist-name = Турист-Пришелец
+ghost-role-information-alien-tourist-description = Осмотрите станцию. Глорпайте при виде людей. Поймайте пулю от чересчур прыткого офицера.
 
 # Conquest?
 
-ghost-role-information-conquest-name = Conquest
-ghost-role-information-conquest-description = This station was given orders, they were given time. They were given more leeway than most.
-ghost-role-information-conquest-rules = Prepare this station for the arrival of the Viltrum Empire.
+ghost-role-information-conquest-name = Конквест
+ghost-role-information-conquest-description = Этой станции отдали приказ, ей дали время. Ей позволили больше, чем большинству.
+ghost-role-information-conquest-rules = Подготовьте эту станцию к прибытию Вильтрумской Империи.
 
 # Justice Persona Role
-justice-role-name = Justice Persona
-justice-role-description = Help the HOS carry out arrests by shouting phrases for them while they deliver Justice.
+justice-role-name = Личность Правосудия
+justice-role-description = Помогайте ГСБ проводить аресты, выкрикивая реплики, пока он вершит Правосудие.
 
 # Ancient Xenos
 
-ghost-role-information-ancient-queen-name = Ancient Xeno Queen
-ghost-role-information-ancient-king-name = Ancient Xeno King
-ghost-role-information-ancient-rogue-king-name = Ancient Rogue Xeno King
+ghost-role-information-ancient-queen-name = Древняя Королева Ксеноморфов
+ghost-role-information-ancient-king-name = Древний Король Ксеноморфов
+ghost-role-information-ancient-rogue-king-name = Древний Король-Изгой Ксеноморфов
 
-ghost-role-information-ancient-xeno-description = A creature thought to be extinct, and yet...
-ghost-role-information-ancient-rogue-king-description = The lone king, with only vengeance in its eyes. Show them no mercy!
+ghost-role-information-ancient-xeno-description = Существо, которое считали вымершим, и всё же...
+ghost-role-information-ancient-rogue-king-description = Одинокий король, в глазах которого одна лишь жажда мести. Не щадите никого!
 
-ghost-role-information-ancient-rogue-king-rules = You bow to no one. Kill anything that stands in your way.
+ghost-role-information-ancient-rogue-king-rules = Вы ни перед кем не склоняетесь. Убивайте всё, что встаёт на вашем пути.
 
-ghost-role-information-rules-default-xeno = You are a [color={role-type-team-antagonist-color}][bold]Xenomorph[/bold][/color].
-                                            Your objective is to protect your Queen and expand your Hive.
-                                            Achieve this by bringing your Queen crewmembers to infest.
+ghost-role-information-rules-default-xeno = Вы [color={role-type-team-antagonist-color}][bold]Ксеноморф[/bold][/color].
+                                            Ваша цель – защитить Королеву и расширить Улей.
+                                            Для этого приводите к Королеве членов экипажа, чтобы она могла их заразить.
 
 # Misc-Midround Antags
 
-grey-tide-role-greeting = Long forgotten in the depths of maints, you are [color=#880808]THE GREY-TIDE [/color], the clothes you wear have fused with your body from extensive robusting, this station isn't theirs to conquer...
-tide-objective-kill-everyone-desc = This station has wronged you for the last time, robust and tide until they are all dead.
-tide-objective-condition-kill-everyone-else-title = Robust everyone.
+grey-tide-role-greeting = Давно забытый в глубинах техов, вы [color=#880808]ГРЕЙТАЙД [/color]. От долгого робаста одежда срослась с вашим телом. Станция не им достанется...
+tide-objective-kill-everyone-desc = Эта станция в последний раз обошлась с вами несправедливо. Робастьте и устраивайте грейтайд, пока они все не погибнут.
+tide-objective-condition-kill-everyone-else-title = Заробастьте всех.
 
-ghost-role-information-tunnel-clown-name = Tunnel Clown
-ghost-role-information-tunnel-clown-description = A clown gang member whos made their home in maintenance.
+ghost-role-information-tunnel-clown-name = Тех-Клоун
+ghost-role-information-tunnel-clown-description = Член клоунской банды, обосновавшейся в техтоннелях.
 
 # SIS-Start
 tunnel-clown-role-greeting =
@@ -107,13 +107,13 @@ tunnel-clown-role-greeting-desc =
     • [color={$hl1}]Кровавый цирк:[/color] ваши цели указаны в меню персонажа. ХОНК!
 # SIS-End
 
-tunnel-clown-objective-maints-slasher-desc = This stations maintenance has been your home for as long as you can remember, hiding from the crew in lockers is all that you knew until now. Thoses station goers have invaded your home for the last time, kill anyone who dares to distrupt your home.
-tunnel-clown-objective-condition-maints-slasher-title = Protect maintenance.
-tunnel-clown-business-card = Tunnel Clown, licensed to kill.
+tunnel-clown-objective-maints-slasher-desc = Техтоннели станции были вашим домом столько, сколько вы себя помните. До сих пор вам оставалось только прятаться от экипажа в шкафчиках. Эти станционные крысы в последний раз вторглись в ваш дом. Убейте каждого, кто осмелится нарушить ваш покой.
+tunnel-clown-objective-condition-maints-slasher-title = Защитите техтоннели.
+tunnel-clown-business-card = Тех-Клоун, лицензия на убийство.
 
-ghost-role-information-Singuloth-Knight-name = Singuloth Knight
-ghost-role-information-Singuloth-Knight-description = Once master engineers, now followers of Lord Singuloth. Wielding a singularity hammer they are a force to be reckoned with!
-objective-issuer-lord-singuloth = [color=#320022]Lord Singuloth[/color]
+ghost-role-information-Singuloth-Knight-name = Рыцарь Сингулота
+ghost-role-information-Singuloth-Knight-description = Когда-то мастера инженерного дела, теперь последователи Лорда Сингулота. С молотом сингулярности в руках с ними приходится считаться!
+objective-issuer-lord-singuloth = [color=#320022]Лорд Сингулот[/color]
 
 # SIS-Start
 singuloth-knight-role-greeting =
@@ -127,8 +127,8 @@ singuloth-knight-role-greeting-desc =
     • [color={$hl1}]Свободный агент:[/color] ваши персональные задачи указаны в меню персонажа.
 # SIS-End
 
-ghost-role-information-dark-lord-name = Dark Lord
-ghost-role-information-dark-lord-description = A syndicate agent themed after a sith lord, use your lightning powers and energy sword to complete your objectives!
+ghost-role-information-dark-lord-name = Тёмный Лорд
+ghost-role-information-dark-lord-description = Агент синдиката, подражающий лорду ситхов. Используйте молнии и энергетический меч, чтобы выполнять свои задачи!
 
 # SIS-Start
 dark-lord-role-greeting =
@@ -142,8 +142,8 @@ dark-lord-role-greeting-desc =
     • [color={$hl1}]Задачи Синдиката:[/color] ваши персональные цели указаны в меню персонажа.
 # SIS-End
 
-ghost-role-information-chosen-one-name = The Chosen One
-ghost-role-information-chosen-one-description = A special agent sent to the station by Nanotrasen to defeat a dark lord.
+ghost-role-information-chosen-one-name = Избранный
+ghost-role-information-chosen-one-description = Специальный агент, которого NanoTrasen отправила на станцию победить тёмного лорда.
 
 # SIS-Start
 chosen-one-role-greeting =
@@ -157,10 +157,10 @@ chosen-one-role-greeting-desc =
     • [color={$hl1}]Великая Дуэль:[/color] ваша главная цель — разыскать и уничтожить [gradient color1="{$hl1}" color2="{$hl2}" speed="0.8"]Тёмного Лорда[/gradient] в честном бою. Судьба сектора в ваших руках!
 # SIS-End
 
-objective-condition-dark-lord-kill-title = Ensure Dark Lord {$targetName} dies.
+objective-condition-dark-lord-kill-title = Добейтесь гибели Тёмного Лорда {$targetName}.
 
-ghost-role-information-mime-Assassin-name = Mime Assassin
-ghost-role-information-mime-Assassin-description = An assassin that uses mime clothes and favors silent kills, their name? well they probably can't tell you, but thats what makes then so good!
+ghost-role-information-mime-Assassin-name = Ассамим
+ghost-role-information-mime-Assassin-description = Убийца, который одевается как мим и предпочитает убивать без шума. Как его зовут? Вряд ли он вам скажет. В этом и секрет его мастерства!
 
 # SIS-Start
 mime-assassin-role-greeting =
@@ -174,8 +174,8 @@ mime-assassin-role-greeting-desc =
     • [color={$hl1}]Скрытный отход:[/color] используйте фальшивые стены и вентиляцию. Не дайте охране загнать себя в тупик!
 # SIS-End
 
-ghost-role-information-dark-priest-name = Dark Priest
-ghost-role-information-dark-priest-description = An agent of the dark gods, sent to kill someone, protect someone and hire someone who has roused their interest as their apprentice, Carries the "blessing of the reaper".
+ghost-role-information-dark-priest-name = Тёмный Жрец
+ghost-role-information-dark-priest-description = Посланник тёмных богов с поручением убить одного, защитить другого и взять в ученики того, кто его заинтересует. Несёт «благословение жнеца».
 
 # SIS-Start
 dark-priest-role-greeting =
@@ -189,11 +189,11 @@ dark-priest-role-greeting-desc =
     • [color={$hl1}]Священная миссия:[/color] ваши точные цели и имя будущего ученика указаны в меню персонажа.
 # SIS-End
 
-objective-condition-other-alive-title = Ensure crew member {$targetName}, {CAPITALIZE($job)} stays alive.
-objective-issuer-self = [color=#7851A9]For your own interests[/color]
+objective-condition-other-alive-title = Убедитесь, что член экипажа {$targetName}, {CAPITALIZE($job)}, останется в живых.
+objective-issuer-self = [color=#7851A9]В собственных интересах[/color]
 
-ghost-role-information-vox-raider-name = Vox Raider
-ghost-role-information-vox-raider-description = Vox that swear their loyalty to the Shoal. It is unclear what their intentions or whether they plan on trading or thieving from the station. It is always best to use caution when they show up.
+ghost-role-information-vox-raider-name = Вокс-Налётчик
+ghost-role-information-vox-raider-description = Вокс, поклявшийся в верности Стае. Его намерения неизвестны: то ли он хочет торговать со станцией, то ли обкрадывать её. При его появлении лучше держать ухо востро.
 
 # SIS-Start
 vox-raider-role-greeting =
@@ -207,11 +207,11 @@ vox-raider-role-greeting-desc =
     • [color={$hl1}]Тактика Воксов:[/color] используйте игломёты, прыжковые ранцы и стайную охоту против тяжёлой охраны станции.
 # SIS-End
 
-ghost-role-information-clown-goblin-name = Clown goblin
-ghost-role-information-clown-goblin-description = A terrible creature, born out of hell.
+ghost-role-information-clown-goblin-name = гоблин-Клоун
+ghost-role-information-clown-goblin-description = Ужасное существо, рождённое в аду.
 
-ghost-role-information-contractor-name = Syndicate Contractor
-ghost-role-information-contractor-description = GET DA... tider..?
+ghost-role-information-contractor-name = Наёмник Синдиката
+ghost-role-information-contractor-description = ХВАТАЙ ЭТОГО... тайдера..?
 
 # SIS-Start
 contractor-role-greeting =

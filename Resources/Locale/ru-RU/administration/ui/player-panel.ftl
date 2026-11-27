@@ -5,30 +5,30 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-player-panel-title = information for {$player}
-player-panel-username = Username: {$player}
-player-panel-whitelisted = Whitelisted:
-player-panel-bans = Total Bans: {$totalBans}
-player-panel-rolebans = Total Role Bans: {$totalRoleBans}
-player-panel-notes = Total Notes: {$totalNotes}
-player-panel-playtime = Total Playtime: {$days}d:{$hours}h:{$minutes}m
-player-panel-shared-connections = Shared Connections: {$sharedConnections}
-player-panel-trust-score = Trust Score: {TOSTRING($trustScore, "P0")}
-player-panel-account-creation = Account Created: {TOSTRING($date, "yyyy-MM-dd")}
+player-panel-title = сведения об игроке {$player}
+player-panel-username = Имя пользователя: {$player}
+player-panel-whitelisted = В белом списке:
+player-panel-bans = Всего Банов: {$totalBans}
+player-panel-rolebans = Всего Банов на Роли: {$totalRoleBans}
+player-panel-notes = Всего Примечаний: {$totalNotes}
+player-panel-playtime = Общее Время Игры: {$days}д:{$hours}ч:{$minutes}м
+player-panel-shared-connections = Общие Подключения: {$sharedConnections}
+player-panel-trust-score = Рейтинг Доверия: {TOSTRING($trustScore, "P0")}
+player-panel-account-creation = Аккаунт Создан: {TOSTRING($date, "yyyy-MM-dd")}
 
-player-panel-copy-username = Copy
-player-panel-show-notes = Notes
-player-panel-show-bans = Show Bans
+player-panel-copy-username = Копировать
+player-panel-show-notes = Примечания
+player-panel-show-bans = Показать Баны
 player-panel-help = Ahelp
-player-panel-freeze-and-mute = Freeze & Mute
-player-panel-freeze = Freeze
-player-panel-unfreeze = Unfreeze
-player-panel-kick = Kick
-player-panel-ban = Ban
-player-panel-logs = Logs
-player-panel-delete = Delete
-player-panel-rejuvenate = Rejuvenate
-player-panel-false = False
-player-panel-true = True
-player-panel-follow = Follow
-player-panel-camera = Camera
+player-panel-freeze-and-mute = Заморозить и Заглушить
+player-panel-freeze = Заморозить
+player-panel-unfreeze = Разморозить
+player-panel-kick = Кикнуть
+player-panel-ban = Забанить
+player-panel-logs = Журнал
+player-panel-delete = Удалить
+player-panel-rejuvenate = Исцелить
+player-panel-false = Нет
+player-panel-true = Да
+player-panel-follow = Следить
+player-panel-camera = Камера

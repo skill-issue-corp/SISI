@@ -1,18 +1,18 @@
-ent-ParcelWrap = parcel wrap
-    .desc = Paper used contain items for transport.
+ent-ParcelWrap = упаковочная бумага
+    .desc = Бумага для упаковки предметов при перевозке.
 
-ent-ParcelWrapAdmeme = bluespace wrap
-    .desc = Paper used contain items for transport. This one seems to be able to store an unusual amount of space within it.
-    .suffix = Admeme
+ent-ParcelWrapAdmeme = блюспейс-бумага
+    .desc = Бумага для упаковки предметов при перевозке. Похоже, внутри неё помещается необычайно много пространства.
+    .suffix = Адмеме
 
 ent-BaseWrappedParcel = { ent-BasePaperLabelable }
     .desc = { ent-BasePaperLabelable.desc }
 
-ent-WrappedParcel = wrapped parcel
-    .desc = Something wrapped up in paper. I wonder what's inside...
+ent-WrappedParcel = свёрток
+    .desc = Что-то завёрнуто в бумагу. Интересно, что внутри...
 
-ent-WrappedParcelHumanoid = wrapped parcel
-    .desc = Something wrapped up in paper. It's suspiciously human-shaped.
+ent-WrappedParcelHumanoid = свёрток
+    .desc = Что-то завёрнуто в бумагу. Форма подозрительно напоминает человека.
 
-ent-ParcelWrapTrash = parcel wrap
-    .desc = The disappointing remnants of an unwrapped parcel.
+ent-ParcelWrapTrash = упаковочная бумага
+    .desc = Разочаровывающие остатки распакованного свёртка.

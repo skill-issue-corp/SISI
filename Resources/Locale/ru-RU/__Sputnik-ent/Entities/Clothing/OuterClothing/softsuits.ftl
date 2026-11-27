@@ -1,17 +1,17 @@
-ent-ClothingOuterHardsuitEVA = EVA suit
-    .desc = A lightweight space suit with the basic ability to protect the wearer from the vacuum of space.
+ent-ClothingOuterHardsuitEVA = костюм EVA
+    .desc = Лёгкий космический костюм, который защищает от вакуума.
 
-ent-ClothingOuterEVASuitSyndicate = syndicate EVA suit
-    .desc = Has a tag on the back that reads: 'Totally not property of an enemy corporation, honest!'
+ent-ClothingOuterEVASuitSyndicate = костюм EVA синдиката
+    .desc = На спине бирка с надписью: «Совершенно точно не собственность вражеской корпорации, честное слово!»
 
-ent-ClothingOuterSuitEmergency = emergency pressure suit
-    .desc = This bulky, uninsulated pressure suit was clearly not meant for extended use in outer space, despite NanoTrasen's claims that it passes corporate regulations.
+ent-ClothingOuterSuitEmergency = аварийный гермокостюм
+    .desc = Громоздкий гермокостюм без теплоизоляции явно не рассчитан на длительное пребывание в открытом космосе, хотя NanoTrasen утверждает, что он соответствует корпоративным нормам.
 
-ent-ClothingOuterHardsuitEVAPrisoner = prisoner pressure suit
-    .desc = An emergency pressure suit meant for prisoners. It's not fully rated for extended use in outer space, but some wardens consider the lack of thermal insulation a feature.
+ent-ClothingOuterHardsuitEVAPrisoner = гермокостюм заключённого
+    .desc = Аварийный гермокостюм для заключённых. Он не рассчитан на долгое пребывание в открытом космосе, но некоторые смотрители считают отсутствие теплоизоляции преимуществом.
 
-ent-ClothingOuterHardsuitAncientEVA = NTSRA voidsuit
-    .desc = An ancient space suit, designed by the NTSRA branch of CentComm. It is very finely crafted, allowing for greater mobility than most modern space suits.
+ent-ClothingOuterHardsuitAncientEVA = пустотный костюм NTSRA
+    .desc = Древний космический костюм, разработанный в отделе NTSRA ЦК. Искусно сделан и стесняет движения меньше, чем большинство современных космических костюмов.
 
-ent-ClothingOuterHardsuitVoidParamed = paramedic hardsuit
-    .desc = A hardsuit made for paramedics.
+ent-ClothingOuterHardsuitVoidParamed = скафандр парамедика
+    .desc = Скафандр для парамедиков.

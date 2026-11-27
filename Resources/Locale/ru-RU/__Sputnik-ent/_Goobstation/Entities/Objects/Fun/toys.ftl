@@ -1,104 +1,104 @@
-ent-PlushieLouie = louie plushie
-    .desc = A cute stuffed toy that resembles a rat. You feel a strange compulsion to say hi to the rat.
+ent-PlushieLouie = плюшевый луи
+    .desc = Милая мягкая игрушка в виде крысы. Вам почему-то очень хочется с ней поздороваться.
 
-ent-FoamThrongler = Foam Throngler
-    .desc = Not the Throngler you wanted, But the Throngler you deserve.
+ent-FoamThrongler = Поролоновый Тронглер
+    .desc = Не тот Тронглер, которого вы хотели, Зато тот Тронглер, которого вы заслуживаете.
 
-ent-PlushieDurk = Durk plushie
-    .desc = A cute stuffed toy that resembles a certain atmospheric technician. You feel like a great breaking of the universe approaches while holding this
+ent-PlushieDurk = плюшевый Дёрк
+    .desc = Милая мягкая игрушка, похожая на одного атмосферного техника. С ней в руках кажется, что вселенная вот-вот расколется
 
-ent-FoamWonderprod = Toy Wonderprod
-    .desc = Using this will make sec kill you.
+ent-FoamWonderprod = Игрушечный Чудо-Жезл
+    .desc = Воспользуетесь этим, и СБ вас прикончит.
 
 ent-BaseBinglePlushie = { ent-BasePlushie }
     .desc = { ent-BasePlushie.desc }
 
-ent-PlushieBingle = full size bingle plushie
-    .desc = A cute stuffed toy that resembles a blue alien. You feel a strange compulsion to say bingle
+ent-PlushieBingle = плюшевый бингл в натуральную величину
+    .desc = Милая мягкая игрушка в виде синего пришельца. Вам почему-то очень хочется сказать «бингл»
 
-ent-PlushieBingleSmall = bingle plushie
-    .desc = A cute stuffed toy that resembles a blue alien. You feel a strange compulsion to say bingle
+ent-PlushieBingleSmall = плюшевый бингл
+    .desc = Милая мягкая игрушка в виде синего пришельца. Вам почему-то очень хочется сказать «бингл»
 
-ent-PlushieBingleYakub = yakub bingle plushie
-    .desc = A cute stuffed toy that resembles a blue alien. You feel a strange compulsion to say bingle
+ent-PlushieBingleYakub = плюшевый бингл якуб
+    .desc = Милая мягкая игрушка в виде синего пришельца. Вам почему-то очень хочется сказать «бингл»
 
-ent-PlushieBongle = bongle plushie
-    .desc = A cute stuffed toy that resembles a red alien. You feel a strange compulsion to say bongle
+ent-PlushieBongle = плюшевый бонгл
+    .desc = Милая мягкая игрушка в виде красного пришельца. Вам почему-то очень хочется сказать «бонгл»
 
-ent-PlushieBinglePony = bingle pony plushie
-    .desc = A cute stuffed toy that resembles a blue alien. You feel a strange compulsion to say bingle
+ent-PlushieBinglePony = плюшевый бингл-пони
+    .desc = Милая мягкая игрушка в виде синего пришельца. Вам почему-то очень хочется сказать «бингл»
 
-ent-PlushieAbductor = alien plush
-    .desc = Glorp Zap Zeeble Glarp "Plush" Bleeble
+ent-PlushieAbductor = плюшевый пришелец
+    .desc = Глорп Зап Зибл Гларп «Плюш» Блибл
 
-ent-GrenadeToy = prank grenade
+ent-GrenadeToy = граната-розыгрыш
     .desc = { ent-BaseGrenade.desc }
 
-ent-BulletGrenadeToy = prank grenade
+ent-BulletGrenadeToy = граната-розыгрыш
     .desc = { ent-BaseBulletTrigger.desc }
 
 ent-WeaponLauncherTaiwanPond = taiwan pond
-    .desc = PLOOP.
+    .desc = ПЛЮХ.
 
-ent-PlushieSamantha = jane blueshield plushie
-    .desc = A cute stuffed toy that resembles a veteran blueshield officer. You feel a sudden urge for lollypops while holding it.
+ent-PlushieSamantha = плюшевая джейн из синего щита
+    .desc = Милая мягкая игрушка, похожая на ветерана синего щита. Берёте её в руки, и вам вдруг хочется леденцов на палочке.
 
-ent-PlushieJvne = jvne plushie
-    .desc = It's been a rough day...
+ent-PlushieJvne = плюшевая джвн
+    .desc = Денёк выдался тяжёлый...
 
-ent-PlushieFern = mystical lizard plushie
-    .desc = You feel as if something else is watching you... just out of sight, in the shadows.
+ent-PlushieFern = плюшевая мистическая ящерица
+    .desc = Кажется, будто за вами наблюдает кто-то ещё... где-то за пределами видимости, в тенях.
 
-ent-PlushieNigel = handsome plushie
-    .desc = Smells like greatness, and a distinct smell of adalamin brand perfume?
+ent-PlushieNigel = плюшевый красавчик
+    .desc = Пахнет величием и, кажется, отчётливо духами марки «адаламин»?
 
-ent-PlushieBoggle = Boggle plushie
-    .desc = You can feel money inside.
+ent-PlushieBoggle = плюшевый Боггл
+    .desc = По ощущениям, внутри деньги.
 
-ent-PlushieLehmin = Lehmin plushie
-    .desc = Smells like chemicals, you feel uneasy holding it.
+ent-PlushieLehmin = плюшевый Лемин
+    .desc = Пахнет химикатами. Держать его в руках тревожно.
 
-ent-DiscoBeachBall = disco beach ball
-    .desc = A disco beach ball turns any beach trip into Studio 54.
+ent-DiscoBeachBall = пляжный диско-мяч
+    .desc = Пляжный диско-мяч превратит любую поездку на пляж в «Студию 54».
 
-ent-ThronglerToy = The Throngler
-    .desc = Why would you make this?
-    .suffix = Toy
+ent-ThronglerToy = Тронглер
+    .desc = Зачем вы это сделали?
+    .suffix = Игрушка
 
-ent-ToyMansusGrasp = green grasp
-    .desc = The power of the Prank Gods, channeled through your grip. Security won't appreciate the prank.
-    .suffix = Toy
+ent-ToyMansusGrasp = зелёная хватка
+    .desc = Сила Богов Розыгрыша, направленная через вашу хватку. Служба безопасности шутку не оценит.
+    .suffix = Игрушка
 
-ent-ToyBladeEldritch = replica eldritch blade
-    .desc = A plastic green crescent blade, decorated with an ornamental eye. You feel like you're being watched...
-    .suffix = Toy
+ent-ToyBladeEldritch = копия потустороннего клинка
+    .desc = Пластмассовый зелёный клинок-полумесяц, украшенный декоративным глазом. Кажется, за вами наблюдают...
+    .suffix = Игрушка
 
-ent-ToyBladeAsh = replica ashen blade
-    .desc = Molten and unwrought, a hunk of plastic warped to cinders and slag. Unmade, it aspires to be more than it is.
-    .suffix = Toy
+ent-ToyBladeAsh = копия пепельного клинка
+    .desc = Расплавленная и необработанная глыба пластика, превратившаяся в пепел и шлак. Ещё не созданная, она мечтает стать чем-то большим.
+    .suffix = Игрушка
 
-ent-ToyBladeBlade = replica sundered blade
-    .desc = A gallant blade, severed and torn. Furiously, the blade cuts. Plastic scars bind it forever to its dark purpose.
-    .suffix = Toy
+ent-ToyBladeBlade = копия рассечённого клинка
+    .desc = Доблестный клинок, рассечённый и изодранный. Он рубит яростно. Пластмассовые шрамы навеки приковали его к тёмному предназначению.
+    .suffix = Игрушка
 
-ent-ToyBladeFlesh = replica bloody blade
-    .desc = A crescent blade born from fleshwarped plastic. Keenly aware, it seeks to spread to others the excruciating comedy it has endured from its dreadful origins.
-    .suffix = Toy
+ent-ToyBladeFlesh = копия кровавого клинка
+    .desc = Клинок-полумесяц, рождённый из пластика, искривлённого плотью. Он остро чувствует всё и жаждет поделиться с другими мучительной комедией, которую пережил с самого своего жуткого создания.
+    .suffix = Игрушка
 
-ent-ToyBladeRust = replica rusted blade
-    .desc = This crescent blade is decrepit, wasting to rust. Yet still it bites, ripping flesh and bone with jagged, rotten plastic.
-    .suffix = Toy
+ent-ToyBladeRust = копия ржавого клинка
+    .desc = Этот клинок-полумесяц обветшал и рассыпается от ржавчины. И всё же он кусает, рвёт плоть и кости зазубренным гнилым пластиком.
+    .suffix = Игрушка
 
-ent-ToyBladeVoid = replica void blade
-    .desc = Devoid of any substance, this blade reflects comedy. It is a real depiction of hilarity, and chaos that ensues after its implementation.
-    .suffix = Toy
+ent-ToyBladeVoid = копия клинка пустоты
+    .desc = Лишённый всякой материи, этот клинок отражает комедию. Подлинное воплощение веселья и хаоса, которые наступают после его применения.
+    .suffix = Игрушка
 
-ent-ToyCodexCicatrix = codex cicatrix
-    .desc = This light tome is full of cryptic scribbles and confusing diagrams. According to legend, it can be deciphered to reveal the secrets of the veil between worlds.
-    .suffix = Toy
+ent-ToyCodexCicatrix = кодекс цикатрикс
+    .desc = Этот лёгкий том полон загадочных каракулей и запутанных схем. По легенде, их можно расшифровать и раскрыть тайны завесы между мирами.
+    .suffix = Игрушка
 
-ent-PlushiePasha = tired vox plushie
-    .desc = A not so cute stuffed toy that resembles an overworked Vox. Smells strongly of nicotine.
+ent-PlushiePasha = плюшевый уставший вокс
+    .desc = Не слишком милая мягкая игрушка в виде переработавшего Вокса. Сильно пахнет никотином.
 
-ent-PlushieLeguia = one singular eel
-    .desc = Dubious creature.
+ent-PlushieLeguia = один единственный угорь
+    .desc = Сомнительное существо.

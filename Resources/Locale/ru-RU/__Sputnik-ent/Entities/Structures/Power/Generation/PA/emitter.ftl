@@ -1,20 +1,20 @@
-ent-ParticleAcceleratorEmitterPort = PA port containment emitter
-    .desc = This launchs the Alpha particles, might not want to stand near this end.
+ent-ParticleAcceleratorEmitterPort = эмиттер сдерживания УЧ, левый борт
+    .desc = Запускает Альфа-частицы. Лучше не стоять перед ним.
 
-ent-ParticleAcceleratorEmitterFore = PA fore containment emitter
-    .desc = This launchs the Alpha particles, might not want to stand near this end.
+ent-ParticleAcceleratorEmitterFore = эмиттер сдерживания УЧ, нос
+    .desc = Запускает Альфа-частицы. Лучше не стоять перед ним.
 
-ent-ParticleAcceleratorEmitterStarboard = PA starboard containment emitter
-    .desc = This launchs the Alpha particles, might not want to stand near this end.
+ent-ParticleAcceleratorEmitterStarboard = эмиттер сдерживания УЧ, правый борт
+    .desc = Запускает Альфа-частицы. Лучше не стоять перед ним.
 
-ent-ParticleAcceleratorEmitterPortUnfinished = PA port containment emitter
-    .desc = This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
-    .suffix = Unfinished, Port
+ent-ParticleAcceleratorEmitterPortUnfinished = эмиттер сдерживания УЧ, левый борт
+    .desc = Запускает Альфа-частицы. Лучше не стоять перед ним. Похоже, ещё не собран.
+    .suffix = Не Готово, Левый Борт
 
-ent-ParticleAcceleratorEmitterForeUnfinished = PA fore containment emitter
-    .desc = This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
-    .suffix = Unfinished, Fore
+ent-ParticleAcceleratorEmitterForeUnfinished = эмиттер сдерживания УЧ, нос
+    .desc = Запускает Альфа-частицы. Лучше не стоять перед ним. Похоже, ещё не собран.
+    .suffix = Не Готово, Нос
 
-ent-ParticleAcceleratorEmitterStarboardUnfinished = PA starboard containment emitter
-    .desc = This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
-    .suffix = Unfinished, Starboard
+ent-ParticleAcceleratorEmitterStarboardUnfinished = эмиттер сдерживания УЧ, правый борт
+    .desc = Запускает Альфа-частицы. Лучше не стоять перед ним. Похоже, ещё не собран.
+    .suffix = Не Готово, Правый Борт

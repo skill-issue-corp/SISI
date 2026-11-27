@@ -1,2 +1,2 @@
-reagent-name-cryogenic-poison = Cryogenic Poison
-reagent-desc-cryogenic-poison = A freezing poison that does high damage over time. Cryogenic poison blobs inject this into their victims.
+reagent-name-cryogenic-poison = Криогенный Яд
+reagent-desc-cryogenic-poison = Замораживающий яд, который со временем наносит большой урон. Блобы с криогенным ядом впрыскивают его своим жертвам.

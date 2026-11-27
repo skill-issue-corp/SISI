@@ -1,14 +1,14 @@
-plant-component-plant-success-popup = You plant the {$seedName} {$seedNoun}.
-plant-component-already-seeded-popup = The {$name} already has seeds in it!
+plant-component-plant-success-popup = Вы сажаете {$seedNoun} растения «{$seedName}».
+plant-component-already-seeded-popup = В {$name} уже есть семена!
 
-plant-component-something-already-growing-message = [color=green]{$seedName}[/color] growing here.
-plant-component-something-already-growing-low-health-message = The plant looks [color=red]{$healthState}[/color].
-plant-component-plant-old-adjective = [color=red]old and wilting[/color]
-plant-component-plant-unhealthy-adjective = [color=red]unhealthy[/color]
-plant-component-dead-plant-matter-message = It's full of [color=red]dead plant matter[/color].
+plant-component-something-already-growing-message = Здесь растёт [color=green]{$seedName}[/color].
+plant-component-something-already-growing-low-health-message = Растение выглядит [color=red]{$healthState}[/color].
+plant-component-plant-old-adjective = [color=red]старым и увядающим[/color]
+plant-component-plant-unhealthy-adjective = [color=red]больным[/color]
+plant-component-dead-plant-matter-message = Лоток полон [color=red]мёртвых растительных остатков[/color].
 
-plant-component-light-improper-warning = The [color=yellow]improper light level alert[/color] is blinking.
-plant-component-heat-improper-warning = The [color=orange]improper temperature level alert[/color] is blinking.
-plant-component-pressure-improper-warning = The [color=lightblue]improper environment pressure alert[/color] is blinking.
-plant-component-gas-missing-warning = The [color=cyan]improper gas environment alert[/color] is blinking.
-plant-component-ligneous-cant-harvest-message = The plant is too tough to harvest with your bare hands.
+plant-component-light-improper-warning = Мигает [color=yellow]индикатор неподходящего освещения[/color].
+plant-component-heat-improper-warning = Мигает [color=orange]индикатор неподходящей температуры[/color].
+plant-component-pressure-improper-warning = Мигает [color=lightblue]индикатор неподходящего давления[/color].
+plant-component-gas-missing-warning = Мигает [color=cyan]индикатор неподходящего состава воздуха[/color].
+plant-component-ligneous-cant-harvest-message = Растение слишком жёсткое, чтобы собрать урожай голыми руками.

@@ -1,29 +1,29 @@
 ent-BaseWelder = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
 
-ent-Welder = welding tool
-    .desc = Melts anything as long as it's fueled, don't forget your eye protection!
+ent-Welder = сварочный аппарат
+    .desc = Плавит всё, пока есть топливо. Не забудьте защитить глаза!
 
 ent-SolutionToolWelder = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
 
-ent-WelderIndustrial = industrial welding tool
-    .desc = An industrial welder with over double the fuel capacity.
+ent-WelderIndustrial = промышленный сварочный аппарат
+    .desc = Промышленный сварочный аппарат с более чем вдвое увеличенным топливным баком.
 
 ent-SolutionToolWelderIndsutrial = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
 
-ent-WelderIndustrialAdvanced = advanced industrial welding tool
-    .desc = An advanced industrial welder with over double the fuel capacity and hotter flame.
+ent-WelderIndustrialAdvanced = продвинутый промышленный сварочный аппарат
+    .desc = Продвинутый промышленный сварочный аппарат с более чем вдвое увеличенным топливным баком и более горячим пламенем.
 
-ent-WelderExperimental = experimental welding tool
-    .desc = An experimental welder capable of self-fuel generation and less harmful to the eyes.
+ent-WelderExperimental = экспериментальный сварочный аппарат
+    .desc = Экспериментальный сварочный аппарат, вырабатывающий собственное топливо и меньше вредящий глазам.
 
 ent-SolutionToolWelderExperimental = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
 
-ent-WelderMini = emergency welding tool
-    .desc = A miniature welder used during emergencies.
+ent-WelderMini = аварийный сварочный аппарат
+    .desc = Миниатюрный сварочный аппарат для чрезвычайных ситуаций.
 
 ent-SolutionToolWelderMiniEmergency = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
@@ -31,5 +31,5 @@ ent-SolutionToolWelderMiniEmergency = { ent-SolutionWelder }
 ent-SolutionToolWelderMini = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
 
-ent-RefuelingWelder = refueling welding tool
-    .desc = A slow welder that can refuel itself over time.
+ent-RefuelingWelder = самозаправляющийся сварочный аппарат
+    .desc = Медленный сварочный аппарат, автоматически восполняющий топливо со временем.

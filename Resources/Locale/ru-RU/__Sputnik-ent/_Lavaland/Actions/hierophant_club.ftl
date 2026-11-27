@@ -1,5 +1,5 @@
-ent-ActionHierophantClubTileMovement = Curse of Tile Movement
-    .desc = Makes the target move only by tiles.
+ent-ActionHierophantClubTileMovement = Проклятие Движения по Тайлам
+    .desc = Заставляет цель перемещаться только по тайлам.
 
-ent-ActionHierophantClubBlink = Blink
-    .desc = Teleports you to any position you can physically reach.
+ent-ActionHierophantClubBlink = Скачок
+    .desc = Телепортирует вас в любую точку, до которой вы можете добраться своим ходом.

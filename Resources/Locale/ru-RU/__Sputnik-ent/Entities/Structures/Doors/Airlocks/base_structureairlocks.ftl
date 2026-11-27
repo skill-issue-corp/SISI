@@ -1,11 +1,11 @@
-ent-BaseAirlockIndestructible = airlock
-    .desc = It opens, it closes, and maybe crushes you.
+ent-BaseAirlockIndestructible = шлюз
+    .desc = Открывается, закрывается и, может быть, вас раздавит.
 
-ent-Airlock = airlock
-    .desc = It opens, it closes, and maybe crushes you.
+ent-Airlock = шлюз
+    .desc = Открывается, закрывается и, может быть, вас раздавит.
 
 ent-AirlockRCDResistant = { ent-Airlock }
     .desc = { ent-Airlock.desc }
 
-ent-AirlockGlass = glass airlock
+ent-AirlockGlass = стеклянный шлюз
     .desc = { ent-Airlock.desc }

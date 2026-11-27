@@ -1,5 +1,5 @@
-ent-portableChemicalMixer = portable chemical mixer
-    .desc = A "Tider" grade chemical manipulator
+ent-portableChemicalMixer = портативный химический смеситель
+    .desc = Химический манипулятор класса «Тайдер»
 
-ent-portableChemicalMixerIncomplete = Incomplete portable chemical mixer
-    .desc = A incompleted "Tider" grade chemical manipulator
+ent-portableChemicalMixerIncomplete = Недоделанный портативный химический смеситель
+    .desc = Недоделанный химический манипулятор класса «Тайдер»

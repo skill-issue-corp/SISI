@@ -1,18 +1,18 @@
-ent-BaseWeaponSniperNoAmmo = BaseWeaponSniper
-    .desc = A rooty tooty point and shooty.
+ent-BaseWeaponSniperNoAmmo = СнайперскаяВинтовкаБазовая
+    .desc = Наводи да пали!
 
 ent-WeaponSniperMosin = Kardashev-Mosin
-    .desc = A true relic, the Kardashev-Mosin has served in nearly every armed conflict since its creation 670 years ago. The bolt-action design of the rifle remains virtually identical to its original design, whether used for hunting, sniping, or endless trench warfare. Loads 10 rounds of .30 rifle.
+    .desc = Настоящая реликвия. Kardashev-Mosin успел побывать почти во всех вооружённых конфликтах за 670 лет с момента создания. Конструкция с продольно-скользящим затвором почти не изменилась и служит для охоты, снайперской стрельбы и бесконечной окопной войны. Вмещает 10 винтовочных патронов .30.
 
 ent-WeaponSniperHristov = Hristov
-    .desc = For when you absolutely, positively need to make someone regret their life choices from a safe distance. Uses .60 anti-materiel ammo.
+    .desc = На случай, если вам просто необходимо заставить кого-то пожалеть о своём жизненном выборе с безопасного расстояния. Использует антиматериальные патроны .60.
 
-ent-Musket = musket
-    .desc = This should've been in a museum long before you were born. Uses .60 anti-materiel ammo.
+ent-Musket = мушкет
+    .desc = Его следовало сдать в музей задолго до вашего рождения. Использует антиматериальные патроны .60.
 
-ent-WeaponPistolFlintlock = flintlock pistol
-    .desc = A pirate's companion. Yarrr! Uses .45 magnum ammo.
+ent-WeaponPistolFlintlock = кремнёвый пистолет
+    .desc = Верный друг пирата. Ар-р-р! Использует патроны .45 магнум.
 
 ent-WeaponPistolFlintlockEmpty = { ent-WeaponPistolFlintlock }
     .desc = { ent-WeaponPistolFlintlock.desc }
-    .suffix = Empty
+    .suffix = Пусто

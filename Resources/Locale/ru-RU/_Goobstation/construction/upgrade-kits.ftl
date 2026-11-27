@@ -1,1 +1,1 @@
-upgrade-kit-autodoc-bluespace = [color=cyan]Bluespace[/color]: provides effects of [color=green]bluespace surgical gloves[/color], allowing it to operate through clothing.
+upgrade-kit-autodoc-bluespace = [color=cyan]Блюспейс[/color]: даёт эффект [color=green]блюспейс-хирургических перчаток[/color], позволяя оперировать через одежду.

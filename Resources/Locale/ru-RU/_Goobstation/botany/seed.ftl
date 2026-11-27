@@ -1,1 +1,1 @@
-seeds-bluespace-tomato-name = bluespace tomato
+seeds-bluespace-tomato-name = блюспейс-помидор

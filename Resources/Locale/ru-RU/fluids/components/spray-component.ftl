@@ -1,3 +1,3 @@
-spray-component-is-empty-message = {CAPITALIZE(THE($entity))} is empty!
+spray-component-is-empty-message = {CAPITALIZE($entity)} пусто!
 
-pin-spray-popup-empty = {CAPITALIZE(THE($entity))} is wilting and needs to be watered!
+pin-spray-popup-empty = {CAPITALIZE($entity)} вянет и нуждается в поливе!

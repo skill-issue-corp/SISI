@@ -1,5 +1,5 @@
-ent-ClothingHeadHatHoodHeretic = ominous hood
-    .desc = A torn, dust-caked hood. Strange eyes line the inside.
+ent-ClothingHeadHatHoodHeretic = зловещий капюшон
+    .desc = Драный, пропитанный пылью капюшон. Изнутри он усеян странными глазами.
 
 ent-ClothingHeadHatHoodHereticRust = { ent-ArmorHereticRust }
     .desc = { ent-ArmorHereticRust.desc }
@@ -22,5 +22,5 @@ ent-ClothingHeadHatHoodHereticCosmos = { ent-ArmorHereticCosmos }
 ent-ClothingHeadHatHoodHereticLock = { ent-ArmorHereticLock }
     .desc = { ent-ArmorHereticLock.desc }
 
-ent-ClothingHeadHatHoodVoidCloakHeretic = void hood
-    .desc = Black like tar, reflecting no light. Runic symbols line the outside. With each flash you lose comprehension of what you are seeing.
+ent-ClothingHeadHatHoodVoidCloakHeretic = капюшон пустоты
+    .desc = Чёрный, как смола, он совсем не отражает свет. Снаружи выведены руны. С каждой вспышкой вам всё труднее понять, на что вы смотрите.

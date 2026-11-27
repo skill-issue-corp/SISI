@@ -1,2 +1,2 @@
-ent-CurtainSpawner = random curtain spawner
+ent-CurtainSpawner = спавнер случайной шторы
     .desc = { ent-MarkerBase.desc }

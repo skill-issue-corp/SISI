@@ -1,5 +1,5 @@
-ent-BottleOfTickles = vial of tickles
-    .desc = A magically infused bottle of clown love, distilled from countless hugging attacks. Used in funny rituals to attract adorable creatures.
+ent-BottleOfTickles = флакон щекотки
+    .desc = Волшебный флакон клоунской любви, перегнанной из бесчисленных набегов с обнимашками. Используется в смешных обрядах для привлечения очаровательных существ.
 
-ent-BottleOfBlood = vial of blood
-    .desc = A magically infused bottle of blood, distilled from countless murder victims. Used in unholy rituals to attract horrifying creatures.
+ent-BottleOfBlood = флакон крови
+    .desc = Волшебный флакон крови, перегнанной из бесчисленных жертв убийств. Используется в нечестивых обрядах для привлечения жутких существ.

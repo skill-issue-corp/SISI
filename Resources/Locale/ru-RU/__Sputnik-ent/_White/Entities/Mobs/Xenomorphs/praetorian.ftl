@@ -1,5 +1,5 @@
-ent-BaseMobXenomorphPraetorian = xenomorph praetorian
-    .desc = An elite specimen designed to protect the Hive and the Queen, his very presence instills fear and trepidation into the enemy ranks.
+ent-BaseMobXenomorphPraetorian = преторианец ксеноморфов
+    .desc = Элитная особь, защищающая Улей и Королеву. Одно её присутствие сеет страх и трепет в рядах врага.
 
 ent-MobXenomorphPraetorian = { ent-BaseMobXenomorphPraetorian }
     .desc = { ent-BaseMobXenomorphPraetorian.desc }

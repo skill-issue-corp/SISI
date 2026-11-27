@@ -1,7 +1,7 @@
-ent-TravelCamera = travel camera
-    .desc = A picture says more than a thousand words. Comes with an ultrabright flash and internal recharging photo roll.
+ent-TravelCamera = дорожный фотоаппарат
+    .desc = Один снимок стоит тысячи слов. В комплекте сверхъяркая вспышка и встроенная самопополняющаяся фотоплёнка.
 
-ent-BasePhotograph = photograph
+ent-BasePhotograph = фотография
     .desc = { ent-BasePaper.desc }
 
 ent-PhotographBlack = { ent-BasePhotograph }

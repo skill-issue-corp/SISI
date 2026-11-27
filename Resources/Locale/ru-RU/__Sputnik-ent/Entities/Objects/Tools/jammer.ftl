@@ -1,8 +1,8 @@
-ent-BaseJammer = radio jammer
-    .desc = This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated.
+ent-BaseJammer = радиоглушитель
+    .desc = При активации глушит исходящие радиосигналы поблизости, а также датчики костюмов.
 
-ent-RadioJammer = radio jammer
-    .desc = This device will disrupt any nearby outgoing and incoming radio communication as well as suit sensors when activated.
+ent-RadioJammer = радиоглушитель
+    .desc = При активации глушит исходящие и входящие радиосигналы поблизости, а также датчики костюмов.
 
-ent-XenoborgRadioJammer = xenoborg radio jammer
+ent-XenoborgRadioJammer = радиоглушитель ксеноборгов
     .desc = { ent-BaseJammer.desc }

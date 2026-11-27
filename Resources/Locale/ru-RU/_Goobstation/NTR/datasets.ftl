@@ -1,306 +1,306 @@
 # oh boy its going to be a lot of text today
 
 # bsd.ftl when
-bsd-names-dataset-1 = Billy
-bsd-names-dataset-2 = Buck
-bsd-names-dataset-3 = Clyde
-bsd-names-dataset-4 = Dallas
-bsd-names-dataset-5 = Duke
-bsd-names-dataset-6 = Montana
-bsd-names-dataset-7 = Jesse
-bsd-names-dataset-8 = Hank
-bsd-names-dataset-9 = Waylon
-bsd-names-dataset-10 = Quincy
-bsd-names-dataset-11 = Jasper
-bsd-names-dataset-12 = Larry
-bsd-names-dataset-13 = Wade
-bsd-names-dataset-14 = Joe
-bsd-names-dataset-15 = Sheldon
-bsd-names-dataset-16 = Yancy
-bsd-names-dataset-17 = Charlie
+bsd-names-dataset-1 = Билли
+bsd-names-dataset-2 = Бак
+bsd-names-dataset-3 = Клайд
+bsd-names-dataset-4 = Даллас
+bsd-names-dataset-5 = Дюк
+bsd-names-dataset-6 = Монтана
+bsd-names-dataset-7 = Джесси
+bsd-names-dataset-8 = Хэнк
+bsd-names-dataset-9 = Уэйлон
+bsd-names-dataset-10 = Куинси
+bsd-names-dataset-11 = Джаспер
+bsd-names-dataset-12 = Ларри
+bsd-names-dataset-13 = Уэйд
+bsd-names-dataset-14 = Джо
+bsd-names-dataset-15 = Шелдон
+bsd-names-dataset-16 = Янси
+bsd-names-dataset-17 = Чарли
 
-bsd-prefix-dataset-1 = Blackwood
-bsd-prefix-dataset-2 = Boone
-bsd-prefix-dataset-3 = Cassidy
-bsd-prefix-dataset-4 = Cooper
-bsd-prefix-dataset-5 = Cactus
-bsd-prefix-dataset-6 = Mama
-bsd-prefix-dataset-7 = Lasso
-bsd-prefix-dataset-8 = Outlaw
-bsd-prefix-dataset-9 = Rattlesnake
-bsd-prefix-dataset-10 = Shotgun
-bsd-prefix-dataset-11 = Yeehaw
-bsd-prefix-dataset-12 = Chewin' Tobacco
-bsd-prefix-dataset-13 = Sheriff
-bsd-prefix-dataset-14 = Two-Tooth
-bsd-prefix-dataset-15 = Whiskey
-bsd-prefix-dataset-16 = Tumbleweed
+bsd-prefix-dataset-1 = Блэквуд
+bsd-prefix-dataset-2 = Бун
+bsd-prefix-dataset-3 = Кэссиди
+bsd-prefix-dataset-4 = Купер
+bsd-prefix-dataset-5 = Кактус
+bsd-prefix-dataset-6 = Мама
+bsd-prefix-dataset-7 = Лассо
+bsd-prefix-dataset-8 = Вне Закона
+bsd-prefix-dataset-9 = Гремучая Змея
+bsd-prefix-dataset-10 = Дробовик
+bsd-prefix-dataset-11 = Йи-ха
+bsd-prefix-dataset-12 = Жевательный Табак
+bsd-prefix-dataset-13 = Шериф
+bsd-prefix-dataset-14 = Двузубый
+bsd-prefix-dataset-15 = Виски
+bsd-prefix-dataset-16 = Перекати-Поле
 
 # SERVICE
 # funny verbs SERVICE 1 (by reading this, you confirm that you are not)
-ntr-document-funny-service1-1 = a sentient mop
-ntr-document-funny-service1-2 = a fully automated cleaning robot in disguise
-ntr-document-funny-service1-3 = a space dust elemental
-ntr-document-funny-service1-4 = a disgruntled customer seeking revenge
-ntr-document-funny-service1-5 = a sock with legs and a questionable sense of hygiene
-ntr-document-funny-service1-6 = a rogue bartender with a double-barrel
-ntr-document-funny-service1-7 = a janitor looking for legal loopholes
-ntr-document-funny-service1-8 = a syndicate agent
-ntr-document-funny-service1-9 = a health inspector in disguise
-ntr-document-funny-service1-10 = an unpaid intern stuck in maintenance
-ntr-document-funny-service1-11 = a dead clown
-ntr-document-funny-service1-12 = a hawk with eyes
-ntr-document-funny-service1-13 = a ghost
-ntr-document-funny-service1-14 = an unpaid maintainer
-ntr-document-funny-service1-15 = a monkey
+ntr-document-funny-service1-1 = разумной шваброй
+ntr-document-funny-service1-2 = полностью автоматическим роботом-уборщиком под прикрытием
+ntr-document-funny-service1-3 = элементалем космической пыли
+ntr-document-funny-service1-4 = недовольным клиентом, жаждущим мести
+ntr-document-funny-service1-5 = носком на ножках с сомнительными представлениями о гигиене
+ntr-document-funny-service1-6 = барменом-отступником с двустволкой
+ntr-document-funny-service1-7 = уборщиком в поисках лазеек в законе
+ntr-document-funny-service1-8 = агентом синдиката
+ntr-document-funny-service1-9 = санитарным инспектором под прикрытием
+ntr-document-funny-service1-10 = неоплачиваемым стажёром, застрявшим в техтоннелях
+ntr-document-funny-service1-11 = мёртвым клоуном
+ntr-document-funny-service1-12 = ястребом с глазами
+ntr-document-funny-service1-13 = призраком
+ntr-document-funny-service1-14 = неоплачиваемым техником
+ntr-document-funny-service1-15 = обезьяной
 
 # funny verbs SERVICE 2
-ntr-document-funny-service2-1 = stealing janitorial supplies.
-ntr-document-funny-service2-2 = hiding important paperwork in the trash.
-ntr-document-funny-service2-3 = using cleaning chemicals as "special sauce".
-ntr-document-funny-service2-4 = bribing tiders with insults.
-ntr-document-funny-service2-5 = filing complaints.
-ntr-document-funny-service2-6 = turning the mop bucket into a go-kart.
-ntr-document-funny-service2-7 = trying to make cleanbots fight for their lives.
-ntr-document-funny-service2-8 = eating strange pills from maintenance lockers.
-ntr-document-funny-service2-9 = stealing supplies.
-ntr-document-funny-service2-10 = doing drugs.
-ntr-document-funny-service2-11 = replacing all station coffee with decaf as a prank.
-ntr-document-funny-service2-12 = attempting to start a revolution.
-ntr-document-funny-service2-13 = that is actually just a mentally unstable person thinking he is.
-ntr-document-funny-service2-14 = that loves to raid the brig.
-ntr-document-funny-service2-15 = with lobotomy.
+ntr-document-funny-service2-1 = крадущим принадлежности для уборки.
+ntr-document-funny-service2-2 = прячущим важные документы в мусорке.
+ntr-document-funny-service2-3 = использующим чистящие средства в качестве «фирменного соуса».
+ntr-document-funny-service2-4 = подкупающим тайдеров оскорблениями.
+ntr-document-funny-service2-5 = подающим жалобы.
+ntr-document-funny-service2-6 = превращающим ведро для швабры в карт.
+ntr-document-funny-service2-7 = пытающимся устроить бои уборочных ботов насмерть.
+ntr-document-funny-service2-8 = пожирающим странные таблетки из шкафчиков в техтоннелях.
+ntr-document-funny-service2-9 = крадущим припасы.
+ntr-document-funny-service2-10 = употребляющим наркотики.
+ntr-document-funny-service2-11 = заменяющим весь кофе на станции на кофе без кофеина ради розыгрыша.
+ntr-document-funny-service2-12 = пытающимся начать революцию.
+ntr-document-funny-service2-13 = который на деле просто психически неуравновешенный человек и считает себя таковым.
+ntr-document-funny-service2-14 = который обожает совершать налёты на бриг.
+ntr-document-funny-service2-15 = с лоботомией.
 
 # funny verbs SERVICE 3 (Corporate would be pleased if you)
-ntr-document-funny-service3-1 = stopped drinking while on the job.
-ntr-document-funny-service3-2 = laughed at clowns' jokes for once.
-ntr-document-funny-service3-3 = bought a pair of sunglasses from your executive briefcase.
-ntr-document-funny-service3-4 = stopped sitting in the bridge all shift like a coward.
-ntr-document-funny-service3-5 = helped the crew.
-ntr-document-funny-service3-6 = burned a felinid alive.
-ntr-document-funny-service3-7 = stopped smoking on the bridge.
-ntr-document-funny-service3-8 = got checked for lung cancer in medbay.
-ntr-document-funny-service3-9 = made the Head of Personnel actually read all of this.
-ntr-document-funny-service3-10 = paid for everyone's drinks at the bar.
-ntr-document-funny-service3-11 = stopped the clown from slipping people.
-ntr-document-funny-service3-12 = lubed the entire hallway and said that the clown did it.
-ntr-document-funny-service3-13 = promoted puns.
-ntr-document-funny-service3-14 = did something funny for the team.
-ntr-document-funny-service3-15 = smiled more.
+ntr-document-funny-service3-1 = перестали пить на работе.
+ntr-document-funny-service3-2 = хоть раз посмеялись над шутками клоуна.
+ntr-document-funny-service3-3 = купили солнцезащитные очки из своего портфеля руководителя.
+ntr-document-funny-service3-4 = перестали трусливо отсиживаться на мостике всю смену.
+ntr-document-funny-service3-5 = помогали экипажу.
+ntr-document-funny-service3-6 = сожгли фелинида заживо.
+ntr-document-funny-service3-7 = перестали курить на мостике.
+ntr-document-funny-service3-8 = проверились в медотсеке на рак лёгких.
+ntr-document-funny-service3-9 = заставили Главу Персонала прочитать всё это.
+ntr-document-funny-service3-10 = заплатили за напитки всех посетителей бара.
+ntr-document-funny-service3-11 = помешали клоуну заставлять людей поскальзываться.
+ntr-document-funny-service3-12 = смазали весь коридор и свалили всё на клоуна.
+ntr-document-funny-service3-13 = поощряли каламбуры.
+ntr-document-funny-service3-14 = сделали для команды что-нибудь смешное.
+ntr-document-funny-service3-15 = чаще улыбались.
 
 # funny verbs SERVICE 4 (Stamps below confirm that)
-ntr-document-funny-service4-1 = you understand that service jobs are essential to station operations.
-ntr-document-funny-service4-2 = you will not sabotage the janitor's mop bucket.
-ntr-document-funny-service4-3 = you acknowledge that bar fights are not an official form of dispute resolution.
-ntr-document-funny-service4-4 = you will not replace station's coffee with decaf.
-ntr-document-funny-service4-5 = you will not conduct taste tests on cleaning supplies.
-ntr-document-funny-service4-6 = you agree that bartenders deserve respect (or at least tips).
-ntr-document-funny-service4-7 = you will not attempt to put Hammy inside a microwave.
-ntr-document-funny-service4-8 = you recognize that janitors are the real heroes, even if nobody says it.
-ntr-document-funny-service4-9 = you will not attempt to automate your job out of existence using AI.
-ntr-document-funny-service4-10 = you recognize that drinking on duty is only okay if no one sees it.
-ntr-document-funny-service4-11 = you will not negotiate with tide people.
-ntr-document-funny-service4-12 = you accept that whatever happened in the janitor's closet on July 8th, 2998 STAYS. IN. THE. JANITOR'S. CLOSET.
-ntr-document-funny-service4-13 = you acknowledge that all past complaints have mysteriously vanished out of existence.
-ntr-document-funny-service4-14 = you will NOT build an old bar in the station's maintenance.
-ntr-document-funny-service4-15 = you read all of this and are acknowledging the fact that if you don't, you will get executed and your family vanished.
+ntr-document-funny-service4-1 = вы понимаете, что работа службы сервиса необходима для работы станции.
+ntr-document-funny-service4-2 = вы не станете портить ведро уборщика.
+ntr-document-funny-service4-3 = вы признаёте, что драки в баре не являются официальным способом разрешения споров.
+ntr-document-funny-service4-4 = вы не замените кофе на станции на кофе без кофеина.
+ntr-document-funny-service4-5 = вы не будете пробовать чистящие средства на вкус.
+ntr-document-funny-service4-6 = вы согласны, что бармены заслуживают уважения (или хотя бы чаевых).
+ntr-document-funny-service4-7 = вы не попытаетесь засунуть Хэмми в микроволновку.
+ntr-document-funny-service4-8 = вы признаёте, что уборщики – настоящие герои, даже если никто об этом не говорит.
+ntr-document-funny-service4-9 = вы не попытаетесь полностью заменить себя ИИ.
+ntr-document-funny-service4-10 = вы признаёте, что пить на смене можно лишь тогда, когда никто не видит.
+ntr-document-funny-service4-11 = вы не станете вести переговоры с тайдерами.
+ntr-document-funny-service4-12 = вы принимаете, что всё случившееся в каморке уборщика 8 июля 2998 года ОСТАЁТСЯ. В. КАМОРКЕ. УБОРЩИКА.
+ntr-document-funny-service4-13 = вы признаёте, что все прежние жалобы таинственным образом исчезли.
+ntr-document-funny-service4-14 = вы НЕ будете строить старый бар в техтоннелях станции.
+ntr-document-funny-service4-15 = вы прочитали всё это и осознаёте, что иначе вас казнят, а ваша семья исчезнет.
 
 # SECURITY
 
 # funny verbs SECURITY 1 (Corporate wants you to check some stuff before stamping this document, make sure that)
-ntr-document-funny-sec1-1 = the Head of Security actually reads all of this,
-ntr-document-funny-sec1-2 = at least one cadet got promoted to a security officer,
-ntr-document-funny-sec1-3 = security successfully harm-batonned someone to near-death condition,
-ntr-document-funny-sec1-4 = the warden is in the brig,
-ntr-document-funny-sec1-5 = bingles are bingling their bigling bongles,
-ntr-document-funny-sec1-6 = there are no active threats on the station,
-ntr-document-funny-sec1-7 = that one security cadet is sentient, by any means necessary,
-ntr-document-funny-sec1-8 = at least one person in security knows how to use judo,
-ntr-document-funny-sec1-9 = security does not drink in the bar while on duty,
-ntr-document-funny-sec1-10 = everyone in security has read George Orwell's 1984,
-ntr-document-funny-sec1-11 = the armory is properly sealed from tiders,
-ntr-document-funny-sec1-12 = the AI is working with security to catch wanted people,
-ntr-document-funny-sec1-13 = every officer has a non-lethal weapon,
-ntr-document-funny-sec1-14 = there is a brigmed present,
-ntr-document-funny-sec1-15 = everyone in security knows that security autoinjectors are not single-use.
+ntr-document-funny-sec1-1 = Глава Службы Безопасности действительно всё это прочитал,
+ntr-document-funny-sec1-2 = хотя бы одного кадета повысили до офицера службы безопасности,
+ntr-document-funny-sec1-3 = служба безопасности успешно забила кого-то боевыми дубинками почти до смерти,
+ntr-document-funny-sec1-4 = смотритель находится в бриге,
+ntr-document-funny-sec1-5 = бинглы бинглят свои бингль-бонгли,
+ntr-document-funny-sec1-6 = на станции нет текущих угроз,
+ntr-document-funny-sec1-7 = тот самый кадет службы безопасности разумен, любой ценой,
+ntr-document-funny-sec1-8 = в службе безопасности хотя бы один человек умеет применять дзюдо,
+ntr-document-funny-sec1-9 = служба безопасности не пьёт в баре на смене,
+ntr-document-funny-sec1-10 = все в службе безопасности прочитали «1984» Джорджа Оруэлла,
+ntr-document-funny-sec1-11 = оружейная надёжно закрыта от тайдеров,
+ntr-document-funny-sec1-12 = ИИ сотрудничает со службой безопасности в поимке разыскиваемых,
+ntr-document-funny-sec1-13 = у каждого офицера есть нелетальное оружие,
+ntr-document-funny-sec1-14 = в бригмеде кто-то есть,
+ntr-document-funny-sec1-15 = все в службе безопасности знают, что их автоинъекторы многоразовые.
 
 # funny verbs SECURITY 2
-ntr-document-funny-sec2-1 = and not get sued.
-ntr-document-funny-sec2-2 = do not get freaky though.
-ntr-document-funny-sec2-3 = successfully and properly.
-ntr-document-funny-sec2-4 = and if not, make sure he/they are by force.
+ntr-document-funny-sec2-1 = и вас не потащат в суд.
+ntr-document-funny-sec2-2 = только без чудес.
+ntr-document-funny-sec2-3 = успешно и как положено.
+ntr-document-funny-sec2-4 = а если нет, добейтесь этого силой.
 
 # funny verbs SECURITY 3
-ntr-document-funny-sec3-1 = Due to recent "interpretations" of the corporate policy, security has been reminded that their job is to protect the station, not turn it into their personal action movie. This includes: dramatic slow-motion arrests, calling for backup because someone slipped them, and using the brig as a personal man cave.
-ntr-document-funny-sec3-2 = By acknowledging this document, you accept that security is [italic]not[/italic] above the law, [italic]nor[/italic] a secret fight club with extra steps. Any further incidents will result in mandatory retraining, and, possibly, demoting on the spot, and the introduction of a station-wide rule requiring security to say "pretty please" before making arrests.
+ntr-document-funny-sec3-1 = В связи с недавними «трактовками» корпоративных правил службе безопасности напомнили, что её работа – охранять станцию, а не снимать здесь собственный боевик. Это касается эффектных арестов в замедленной съёмке, вызовов подкрепления после падения на мыле и использования брига как личной мужской берлоги.
+ntr-document-funny-sec3-2 = Подтверждая ознакомление с этим документом, вы признаёте, что служба безопасности [italic]не[/italic] выше закона и [italic]не[/italic] тайный бойцовский клуб с лишней волокитой. Новые инциденты повлекут обязательное переобучение, возможно понижение на месте, и правило для всей станции: перед арестом сотрудник СБ обязан сказать «ну пожа-а-алуйста».
 
 # funny verbs SECURITY 4
-ntr-document-funny-sec4-1 = If security keeps solving problems with batons instead of words, all stun batons will be replaced with [bold]polite suggestion sticks.[/bold]
-ntr-document-funny-sec4-2 = Any officer caught calling themselves [bold]"The Law"[/bold] must legally change their name to [bold]"The Law"[/bold] to avoid confusion from silicons.
-ntr-document-funny-sec4-3 = If the AI starts reporting [bold]"Suspicious activity"[/bold] every time security enters a bar, officers will be given [bold]mandatory sobriety tests[/bold].
-ntr-document-funny-sec4-4 = Officers who insist on arresting innocent people will be reassigned to [bold]clown duty for a week.[/bold]
-ntr-document-funny-sec4-5 = If security continues [bold]using flashbangs as conversation starters[/bold], all flashbangs will be replaced with [bold]party poppers[/bold] from cargo.
-ntr-document-funny-sec4-6 = Any officer caught [bold]bragging about their kill count[/bold] will be rewarded with a muffler for them to keep their mouth shut for god's sake.
-ntr-document-funny-sec4-7 = As a result of this, the warden is allowed to make public boxing matches [bold]inside the brig[/bold] with the captain's approval.
-ntr-document-funny-sec4-8 = If security keeps searching people in maintenance without a reasonable cause, the station will hold a [bold]reverse trial where crew judges security instead.[/bold]
+ntr-document-funny-sec4-1 = Если СБ продолжит решать проблемы дубинками вместо слов, все электродубинки заменят [bold]палками вежливых предложений.[/bold]
+ntr-document-funny-sec4-2 = Офицер, пойманный на том, что называет себя [bold]«Законом»[/bold], обязан официально сменить имя на [bold]«Закон»[/bold], чтобы не путать синтетиков.
+ntr-document-funny-sec4-3 = Если ИИ начнёт сообщать о [bold]«Подозрительной активности»[/bold] при каждом посещении бара сотрудниками СБ, офицерам назначат [bold]обязательную проверку на трезвость[/bold].
+ntr-document-funny-sec4-4 = Офицеров, настаивающих на аресте невиновных, переведут [bold]на должность клоунов на неделю.[/bold]
+ntr-document-funny-sec4-5 = Если СБ продолжит [bold]начинать разговор со светошумовой гранаты[/bold], все гранаты заменят [bold]праздничными хлопушками[/bold] из карго.
+ntr-document-funny-sec4-6 = Офицеру, пойманному на [bold]хвастовстве количеством убитых[/bold], выдадут намордник, чтобы он наконец заткнулся.
+ntr-document-funny-sec4-7 = В связи с этим смотритель может проводить публичные боксёрские матчи [bold]в бриге[/bold] с одобрения капитана.
+ntr-document-funny-sec4-8 = Если СБ продолжит без веских причин обыскивать людей в техтоннелях, на станции устроят [bold]обратный суд, где экипаж будет судить службу безопасности.[/bold]
 
 # CARGO
 
 # funny verbs CARGO 1
-ntr-document-funny-cargo1-1 = Cargo is meant to keep the station supplied with essential resources, [italic]not[/italic] to function as an underground casino, a personal shopping service, or a smuggling ring with a corporate logo.
-ntr-document-funny-cargo1-2 = It has come to corporate's attention that cargo techs are [bold]running an unlicensed betting ring[/bold] and salvagers are [bold]bringing home artifacts that may or may not be cursed[/bold]. This document serves as a friendly reminder that cargo's job is to supply the station, not prepare for intergalactic warfare or an underground rebellion.
-ntr-document-funny-cargo1-3 = Cargo is a department dedicated to [bold]station operations[/bold], not [bold]funding personal projects or fueling suspicious market trends[/bold].
-ntr-document-funny-cargo1-4 = Our [bold]private investigation team[/bold] has found that one of cargo's salvagers did a really good job with finding enemy outposts on lavaland. Our [bold]secret service team[/bold] has already taken care of that.
-ntr-document-funny-cargo1-5 = The Quartermaster has threatened to 'touch the interns' if RD doesn't get to the front fast enough. Corporate is horrified to know this and advises you to not share this information and just [bold]live with it.[/bold]
+ntr-document-funny-cargo1-1 = Карго обеспечивает станцию необходимыми ресурсами, [italic]а не[/italic] работает подпольным казино, службой личных покупок или бандой контрабандистов с корпоративным логотипом.
+ntr-document-funny-cargo1-2 = Стало известно, что грузчики [bold]принимают нелицензированные ставки[/bold], а утилизаторы [bold]тащат домой то ли проклятые, то ли нет артефакты[/bold]. Дружеское напоминание: работа карго – снабжать станцию, а не готовиться к межгалактической войне или подпольному восстанию.
+ntr-document-funny-cargo1-3 = Карго занимается [bold]работой станции[/bold], а не [bold]финансированием личных проектов и подогревом подозрительных рыночных трендов[/bold].
+ntr-document-funny-cargo1-4 = Наша [bold]частная следственная группа[/bold] выяснила, что один из утилизаторов отлично справился с поиском вражеских аванпостов на лаваленде. Наша [bold]секретная служба[/bold] уже этим занялась.
+ntr-document-funny-cargo1-5 = Квартирмейстер пригрозил «потрогать стажёров», если НР не поторопится к стойке. Корпорация в ужасе и советует никому не рассказывать, а просто [bold]жить с этим.[/bold]
 
 # funny verbs CARGO 2
-ntr-document-funny-cargo2-1 = If cargo continues prioritizing "Plushie lizard crate" shipments over materials for the research department, we'll have their quartermaster's office [bold]filled to the brim with unpaid invoices and possibly death threats.[/bold]
-ntr-document-funny-cargo2-2 = Because of this, any cargo tech caught approving "just one more lottery crate" without the quartermaster's approval will be required to visit a [bold]mandatory corporate gambling addiction seminar[/bold] in medbay.
-ntr-document-funny-cargo2-3 = If anyone orders another "riot supplies crate" without corporate knowing, it will be delivered directly to security, along with a written confession.
-ntr-document-funny-cargo2-4 = Because of that, any crew member attempting to [bold]bribe cargo with insults[/bold] for 500 mothroach crates will instead receive a shipment of deep personal regret.
-ntr-document-funny-cargo2-5 = If someone with their name starting with "S" or "C" orders tesla or singularity equipment again without proper paperwork, they will be responsible for personally explaining it to the Captain.
-ntr-document-funny-cargo2-6 = Because of everything above, cargo is now banned from ordering gorillas unless they sign an agreement promising not to weaponize them.
-ntr-document-funny-cargo2-7 = If cargo continues to eat our pizza party bundles instead of giving them to the bar, [bold]the next pizza party bundle will be poisoned.[/bold]
-ntr-document-funny-cargo2-8 = If salvagers keep walking around with a ton of contraband without a justified reason, they will be responsible for every security officer that they would kill.
+ntr-document-funny-cargo2-1 = Если карго продолжит заказывать «ящики с Плюшевыми ящерицами» раньше материалов для научного отдела, кабинет квартирмейстера [bold]завалят неоплаченными счетами и, возможно, угрозами убийством.[/bold]
+ntr-document-funny-cargo2-2 = Поэтому любой грузчик, одобривший «ещё один лотерейный ящик» без согласия квартирмейстера, обязан посетить в медотсеке [bold]обязательный корпоративный семинар по игромании[/bold].
+ntr-document-funny-cargo2-3 = Если кто-нибудь закажет ещё один «ящик с припасами для бунта» без ведома корпорации, его доставят прямиком в СБ вместе с письменным признанием.
+ntr-document-funny-cargo2-4 = Поэтому каждый член экипажа, пытающийся [bold]подкупить карго оскорблениями[/bold] ради 500 ящиков таракамолей, вместо них получит партию горького раскаяния.
+ntr-document-funny-cargo2-5 = Если кто-то с именем на «S» или «C» снова закажет оборудование теслы или сингулярности без необходимых документов, ему придётся лично объясняться перед Капитаном.
+ntr-document-funny-cargo2-6 = В связи со всем вышеизложенным карго запрещено заказывать горилл без подписанного обязательства не делать из них оружие.
+ntr-document-funny-cargo2-7 = Если карго продолжит съедать наши наборы для пицца-вечеринок, вместо того чтобы отдавать их в бар, [bold]следующий набор будет отравлен.[/bold]
+ntr-document-funny-cargo2-8 = Если утилизаторы продолжат без причины таскать с собой горы контрабанды, им придётся отвечать за каждого убитого ими офицера СБ.
 
 # funny verbs CARGO 3 (by stamping here, you)
-ntr-document-funny-cargo3-1 = confirm that cargo [bold]is not currently on fire.[/bold]
-ntr-document-funny-cargo3-2 = acknowledge that the budget was [bold]definitely spent responsibly.[/bold]
-ntr-document-funny-cargo3-3 = agree that the quartermaster [bold]is always right.[/bold](even when obviously wrong)
-ntr-document-funny-cargo3-4 = will not burn or eat any of these documents after receiving your points.
-ntr-document-funny-cargo3-5 = promise that the paperwork has been [bold]read, understood, and ignored as usual.[/bold]
-ntr-document-funny-cargo3-6 = officially declare that [bold]nothing illegal has been ordered.[/bold] (recently)
-ntr-document-funny-cargo3-7 = swear that no cargo tech [bold]is currently running a black-market side hustle.[/bold]
-ntr-document-funny-cargo3-8 = solemnly vow that this document is not just an [bold]elaborate excuse to order more plushie lizard toys.[/bold]
-ntr-document-funny-cargo3-9 = take full legal responsibility for whatever [bold]mysterious shipment just arrived.[/bold]
+ntr-document-funny-cargo3-1 = подтверждаете, что карго [bold]прямо сейчас не горит.[/bold]
+ntr-document-funny-cargo3-2 = признаёте, что бюджет [bold]наверняка потрачен ответственно.[/bold]
+ntr-document-funny-cargo3-3 = соглашаетесь, что квартирмейстер [bold]всегда прав.[/bold](даже когда явно неправ)
+ntr-document-funny-cargo3-4 = не станете жечь или есть эти документы после получения очков.
+ntr-document-funny-cargo3-5 = обещаете, что документы [bold]прочитаны, поняты и, как обычно, проигнорированы.[/bold]
+ntr-document-funny-cargo3-6 = официально заявляете, что [bold]ничего незаконного не заказывали.[/bold] (в последнее время)
+ntr-document-funny-cargo3-7 = клянётесь, что никто из грузчиков [bold]прямо сейчас не подрабатывает на чёрном рынке.[/bold]
+ntr-document-funny-cargo3-8 = торжественно клянётесь, что этот документ не [bold]хитрый предлог, чтобы заказать ещё плюшевых ящериц.[/bold]
+ntr-document-funny-cargo3-9 = несёте полную юридическую ответственность за [bold]только что прибывший загадочный груз.[/bold]
 
 # MEDICAL
 
 # funny verbs MEDICAL 1
-ntr-document-funny-med1-1 = Medbay is responsible for [bold]keeping the crew alive and functional[/bold], and not [bold]running an experimental limb replacement program[/bold] (at least without corporate's approval). However, recent reports found that
-ntr-document-funny-med1-2 = Medbay is supposed to [bold]heal injuries, not create new ones[/bold]. However, we found out that
+ntr-document-funny-med1-1 = Медотсек отвечает за то, чтобы [bold]экипаж был жив и работоспособен[/bold], а не за [bold]экспериментальную программу замены конечностей[/bold] (по крайней мере без одобрения корпорации). Однако по недавним отчётам выяснилось, что
+ntr-document-funny-med1-2 = Медотсек должен [bold]лечить травмы, а не наносить новые[/bold]. Однако мы выяснили, что
 
 # funny verbs MEDICAL 2
-ntr-document-funny-med2-1 = the morgue is now the most frequently visited part of the medbay.
-ntr-document-funny-med2-2 = patients leave with more problems than they arrived with.
-ntr-document-funny-med2-3 = surgeons have collectively forgotten what anesthesia is.
-ntr-document-funny-med2-4 = "whoops" is now the most commonly spoken phrase in this department.
-ntr-document-funny-med2-5 = the chemists are cooking enough methamphetamine to fund an interstellar cartel.
-ntr-document-funny-med2-6 = a doctor was taste-testing patients' organs during surgery.
-ntr-document-funny-med2-7 = someone with the CMO's ID card attempted to cure depression with a fire axe.
-ntr-document-funny-med2-8 = one of your chemists set a world record of producing 8 jugs of meth in under 3 minutes.
+ntr-document-funny-med2-1 = морг теперь самое посещаемое место в медотсеке.
+ntr-document-funny-med2-2 = у пациентов на выписке больше проблем, чем при поступлении.
+ntr-document-funny-med2-3 = хирурги все как один забыли, что такое анестезия.
+ntr-document-funny-med2-4 = «ой» теперь самое ходовое слово в этом отделе.
+ntr-document-funny-med2-5 = химики варят столько метамфетамина, что его хватит для финансирования межзвёздного картеля.
+ntr-document-funny-med2-6 = врач пробовал органы пациентов на вкус во время операции.
+ntr-document-funny-med2-7 = кто-то с ID-картой ГВ попытался вылечить депрессию пожарным топором.
+ntr-document-funny-med2-8 = один из ваших химиков установил мировой рекорд, наварив 8 кувшинов мета менее чем за 3 минуты.
 
 # funny verbs MEDICAL 3
-ntr-document-funny-med3-1 = If chemistry keeps producing [bold]industrial quantities of methamphetamine[/bold], all future chemical shipments will be replaced with [bold]holy water[/bold], because this is not how god intended the use of chems.
-ntr-document-funny-med3-2 = Because of everything above, surgeons are no longer allowed to [bold]lobotomize[/bold] patients without their consent. (unless it's a felinid)
-ntr-document-funny-med3-3 = Any doctor caught [bold]accidentally eating a patient's brain[/bold] will be forced to [bold]write a formal apology letter to the family of the person whose brain he ate.[/bold]
-ntr-document-funny-med3-4 = If anyone renames leporazine into "UwU coldies meowies", they will be [bold]force-fed 50u of razorium, no questions asked.[/bold]
-ntr-document-funny-med3-5 = Because of that, chemists who insist on making 8 gallons of space drugs will be required to [bold]personally consume every single jug of those narcotics[/bold] in public.
-ntr-document-funny-med3-6 = Looking at all of this, corporate has made a decision that if any medical personnel were found carrying a syringe gun with meth, they [bold]would be forced to inject themselves with it until they are done.[/bold]
+ntr-document-funny-med3-1 = Если химики продолжат производить [bold]метамфетамин в промышленных количествах[/bold], все будущие поставки химикатов заменят [bold]святой водой[/bold], ибо бог не для того дал нам химию.
+ntr-document-funny-med3-2 = В связи со всем вышеизложенным хирургам больше нельзя [bold]лоботомировать[/bold] пациентов без их согласия. (кроме фелинидов)
+ntr-document-funny-med3-3 = Врача, пойманного на [bold]случайном поедании мозга пациента[/bold], обяжут [bold]написать официальное письмо с извинениями семье того, чей мозг он съел.[/bold]
+ntr-document-funny-med3-4 = Тому, кто переименует лепоразин в «Уву холодненькое мяу», [bold]насильно скормят 50 ед. разориума без лишних вопросов.[/bold]
+ntr-document-funny-med3-5 = Поэтому химики, упорствующие в изготовлении 8 галлонов космических наркотиков, будут обязаны [bold]лично употребить каждый кувшин этих наркотиков[/bold] на публике.
+ntr-document-funny-med3-6 = Учитывая всё это, корпорация решила, что если медика поймают со шприцемётом с метом, то [bold]он обязан вкалывать его себе, пока всё не кончится.[/bold]
 
 # funny verbs MEDICAL 4 (By stamping here, you)
-ntr-document-funny-med4-1 = confirm that at least [bold]one[/bold] person in Medbay actually knows medicine.
-ntr-document-funny-med4-2 = acknowledge the fact that [bold]there is nothing going on in virology.[/bold]
-ntr-document-funny-med4-3 = swear that nobody [bold]is currently high on their own supply.[/bold]
-ntr-document-funny-med4-4 = agree that overdosing [bold]is only funny the first three times.[/bold]
-ntr-document-funny-med4-5 = promise that [bold]no brains will be "accidentally" consumed today.[/bold]
-ntr-document-funny-med4-6 = swear that you would go [bold]kill yourself.[/bold]
-ntr-document-funny-med4-7 = declare that patient survival [bold]is now at an all-time high of 50%[/bold].
-ntr-document-funny-med4-8 = solemnly swear that the [bold]cloning process will not be used for pranks.[/bold]
-ntr-document-funny-med4-9 = officially agree that [bold]cryo is working fine and there is absolutely nothing wrong with it.[/bold]
-ntr-document-funny-med4-10 = certify that at least [bold]half[/bold] of the chems produced [bold]won't explode.[/bold]
+ntr-document-funny-med4-1 = подтверждаете, что хотя бы [bold]один[/bold] человек в Медотсеке действительно разбирается в медицине.
+ntr-document-funny-med4-2 = признаёте, что [bold]в вирусологии ничего не происходит.[/bold]
+ntr-document-funny-med4-3 = клянётесь, что никто [bold]сейчас не кайфует от собственного товара.[/bold]
+ntr-document-funny-med4-4 = соглашаетесь, что передозировка [bold]смешна только первые три раза.[/bold]
+ntr-document-funny-med4-5 = обещаете, что сегодня [bold]ни один мозг не съедят «случайно».[/bold]
+ntr-document-funny-med4-6 = клянётесь, что пойдёте [bold]убьёте себя.[/bold]
+ntr-document-funny-med4-7 = заявляете, что выживаемость пациентов [bold]достигла рекордных 50%[/bold].
+ntr-document-funny-med4-8 = торжественно клянётесь, что [bold]клонирование не станут использовать для розыгрышей.[/bold]
+ntr-document-funny-med4-9 = официально соглашаетесь, что [bold]крио работает нормально и никаких проблем с ним нет.[/bold]
+ntr-document-funny-med4-10 = удостоверяете, что хотя бы [bold]половина[/bold] произведённых химикатов [bold]не взорвётся.[/bold]
 
 # ENGINEERING
 
 # funny verbs ENGINEERING 1
-ntr-document-funny-engi1-1 = The engineering department is responsible for [bold]keeping the station structurally intact, ensuring a stable power supply, and NOT engaging in highly experimental "science" that could destroy the station.[/bold] However, we found that
-ntr-document-funny-engi1-2 = Corporate has recently reviewed engineering performance, and the results are... concerning. Over the past month we've observed a [bold]dramatic increase in "structural anomalies"[/bold], however, we believe that
-ntr-document-funny-engi1-3 = Corporate has repeatedly stressed that engineering should prioritize station stability, and yet, in the last quarter alone, we found out that
-ntr-document-funny-engi1-4 = Engineering has been reminded, once again, that the station is NOT a personal playground. Despite this, we found out that
-ntr-document-funny-engi1-5 = Recent investigations suggest that engineering has developed its own unofficial policies, none of which are good. The cause may indicate that
+ntr-document-funny-engi1-1 = Инженерный отдел отвечает за [bold]целостность станции, стабильное энергоснабжение и за то, чтобы НЕ заниматься крайне экспериментальной «наукой», способной разрушить станцию.[/bold] Однако мы обнаружили, что
+ntr-document-funny-engi1-2 = Корпорация недавно изучила работу инженерного отдела, и результаты... тревожат. За последний месяц мы заметили [bold]резкий рост числа «структурных аномалий»[/bold], однако мы считаем, что
+ntr-document-funny-engi1-3 = Корпорация неоднократно подчёркивала, что стабильность станции для инженерного отдела должна быть на первом месте, и всё же только за последний квартал мы выяснили, что
+ntr-document-funny-engi1-4 = Инженерному отделу снова напомнили, что станция – НЕ его личная игровая площадка. Несмотря на это, мы выяснили, что
+ntr-document-funny-engi1-5 = Недавние проверки показывают, что инженерный отдел придумал собственные негласные правила. Ни одно из них не сулит ничего хорошего. Возможно, причина в том, что
 
 # funny verbs ENGINEERING 2
-ntr-document-funny-engi2-1 = the SM turned into a tesla due to a "slight miscalculation" on the previous shift.
-ntr-document-funny-engi2-2 = at least one atmos tech believes that phoron fires are "self-solving problems".
-ntr-document-funny-engi2-3 = someone, somehow, renamed your singularity into John StationEater.
-ntr-document-funny-engi2-4 = the AI has been programmed to consider hull breaches as "open-concept design".
-ntr-document-funny-engi2-5 = the SM delammed because of "lack of mouse traps" on the previous shift.
-ntr-document-funny-engi2-6 = a janitor was electrocuted after an engineer "rewired the doors to be more fun" repeatedly.
-ntr-document-funny-engi2-7 = at least 5 tiders were caught with insulated gloves that we believe came from the engineering department in the last week.
-ntr-document-funny-engi2-8 = a fully operational casino built in maintenance, featuring a slot machine powered by the SM is a thing, apparently.
-ntr-document-funny-engi2-9 = there is a new record for raids at the start of the shift from assistants.
-ntr-document-funny-engi2-10 = a living skeleton is roaming the station with the RCD that we believe came from your department.
+ntr-document-funny-engi2-1 = СМ на прошлой смене превратилась в теслу из-за «небольшой ошибки в расчётах».
+ntr-document-funny-engi2-2 = хотя бы один атмосферный техник считает пожары форона «самоустраняющейся проблемой».
+ntr-document-funny-engi2-3 = кто-то, каким-то образом, переименовал вашу сингулярность в Джона Станциееда.
+ntr-document-funny-engi2-4 = ИИ запрограммировали считать пробоины в обшивке «открытой планировкой».
+ntr-document-funny-engi2-5 = СМ на прошлой смене деламнулась из-за «нехватки мышеловок».
+ntr-document-funny-engi2-6 = уборщика ударило током после того, как инженер несколько раз «переделал провода дверей, чтобы было веселее».
+ntr-document-funny-engi2-7 = за последнюю неделю как минимум 5 тайдеров поймали с изолированными перчатками, предположительно из инженерного отдела.
+ntr-document-funny-engi2-8 = похоже, в техтоннелях действительно построили действующее казино с игровым автоматом на питании от СМ.
+ntr-document-funny-engi2-9 = ассистенты поставили новый рекорд по налётам в начале смены.
+ntr-document-funny-engi2-10 = по станции бродит живой скелет с РСУ, предположительно из вашего отдела.
 
 # funny verbs ENGINEERING 3
-ntr-document-funny-engi3-1 = Any engineer who says "we don't need atmos" will be forced to [bold]breathe pure CO2 for the rest of the shift.[/bold]
-ntr-document-funny-engi3-2 = If the supermatter turns into an eldritch horror again, corporate will [bold]stop sending new ones.[/bold]
-ntr-document-funny-engi3-3 = Any attempts to build a shuttle that runs on tesla will result in [bold]an immediate ERT squad that would take it down before it's too late.[/bold]
-ntr-document-funny-engi3-4 = Any attempts to write "CARGO WHERE IS MATS" with metal rods will result in [bold]pure nothing, because corporate thinks it's funny.[/bold]
-ntr-document-funny-engi3-5 = Any engineer caught speedrunning tesla loose will be reassigned to paperwork duty.
-ntr-document-funny-engi3-6 = Building "experimental" atmos setups that could explode stronger than the station's nuke will result in [bold]complete replacement of engineers with janitors.[/bold]
-ntr-document-funny-engi3-7 = Engineering is [bold]not[/bold] allowed to "accidentally" vent [bold]more than five rooms per shift.[/bold]
-ntr-document-funny-engi3-8 = If engineers would build a bar again instead of fixing the station's problems, corporate will assure that [bold]their sleeping cabins would have the same issues as the station.[/bold]
-ntr-document-funny-engi3-9 = If [bold]ONE MORE GODDAMN ENGINEER GIVES HIS INSULS TO A TIDER, WE WILL PERSONALLY EXECUTE HIM AND HIS WHOLE FAMILY.[/bold]
+ntr-document-funny-engi3-1 = Любой инженер, сказавший «нам не нужен атмос», будет обязан [bold]дышать чистым CO2 до конца смены.[/bold]
+ntr-document-funny-engi3-2 = Если суперматерия снова превратится в потусторонний ужас, корпорация [bold]перестанет присылать новые кристаллы.[/bold]
+ntr-document-funny-engi3-3 = При попытке построить шаттл на тесле [bold]ОБР немедленно вылетит и уничтожит его, пока не поздно.[/bold]
+ntr-document-funny-engi3-4 = За любые попытки выложить стержнями «КАРГО ГДЕ МАТЫ» [bold]не будет ровным счётом ничего, корпорации смешно.[/bold]
+ntr-document-funny-engi3-5 = Любого инженера, застигнутого за спидраном теслалуза, переведут на бумажную работу.
+ntr-document-funny-engi3-6 = Постройка «экспериментальных» атмосферных установок, способных рвануть сильнее станционной ядерки, повлечёт [bold]полную замену инженеров уборщиками.[/bold]
+ntr-document-funny-engi3-7 = Инженерам [bold]нельзя[/bold] «случайно» разгерметизировать [bold]больше пяти помещений за смену.[/bold]
+ntr-document-funny-engi3-8 = Если инженеры снова построят бар вместо того, чтобы чинить станцию, корпорация позаботится, чтобы [bold]в их спальных каютах были те же проблемы, что и у станции.[/bold]
+ntr-document-funny-engi3-9 = Если [bold]ЕЩЁ ХОТЬ ОДИН ЧЁРТОВ ИНЖЕНЕР ОТДАСТ СВОИ ИЗОЛЬКИ ТАЙДЕРУ, МЫ ЛИЧНО КАЗНИМ ЕГО И ВСЮ ЕГО СЕМЬЮ.[/bold]
 
 # funny verbs ENGINEERING 4 (by stamping here, you)
-ntr-document-funny-engi4-1 = confirm that [bold]at least one[/bold] engineer knows how wires work.
-ntr-document-funny-engi4-2 = confirm that [bold]at least one[/bold] atmos tech knows how to set up a working TEG.
-ntr-document-funny-engi4-3 = confirm that [bold]at least one[/bold] atmos tech doesn't forget his insuls.
-ntr-document-funny-engi4-4 = confirm that [bold]atmos techs[/bold] know that walking around the station with a fire axe is [bold]not a great idea.[/bold]
-ntr-document-funny-engi4-5 = swear that engineering is [bold]not currently on fire.[/bold]
-ntr-document-funny-engi4-6 = promise that [bold]any explosions were "minor" and "not a big deal".[/bold]
-ntr-document-funny-engi4-7 = certify that the station has [bold]more air inside than outside.[/bold]
-ntr-document-funny-engi4-8 = declare that [bold]no engineers are in deep space "by accident".[/bold]
-ntr-document-funny-engi4-9 = admit that [bold]cutting random wires is a terrible troubleshooting method.[/bold]
-ntr-document-funny-engi4-10 = solemnly swear that [bold]at least one containment field is active.[/bold]
+ntr-document-funny-engi4-1 = подтверждаете, что [bold]хотя бы один[/bold] инженер знает, как работают провода.
+ntr-document-funny-engi4-2 = подтверждаете, что [bold]хотя бы один[/bold] атмосферный техник умеет запускать ТЭГ.
+ntr-document-funny-engi4-3 = подтверждаете, что [bold]хотя бы один[/bold] атмосферный техник не забывает свои изолированные перчатки.
+ntr-document-funny-engi4-4 = подтверждаете, что [bold]атмосферные техники[/bold] знают, что ходить по станции с пожарным топором – [bold]так себе идея.[/bold]
+ntr-document-funny-engi4-5 = клянётесь, что инженерный отдел [bold]прямо сейчас не горит.[/bold]
+ntr-document-funny-engi4-6 = обещаете, что [bold]все взрывы были «незначительными» и «ничего страшного».[/bold]
+ntr-document-funny-engi4-7 = удостоверяете, что на станции [bold]воздуха внутри больше, чем снаружи.[/bold]
+ntr-document-funny-engi4-8 = заявляете, что [bold]ни один инженер «случайно» не оказался в дальнем космосе.[/bold]
+ntr-document-funny-engi4-9 = признаёте, что [bold]перекусывать случайные провода – ужасный способ найти неисправность.[/bold]
+ntr-document-funny-engi4-10 = торжественно клянётесь, что [bold]хотя бы одно поле сдерживания активно.[/bold]
 
 # SCIENCE
 # funny verbs SCIENCE 1 (We has been closely monitoring the Research Department. )
-ntr-document-funny-sci1-1 = It seems that every scientific breakthough is followed by at least [bold]one[/bold] catastrophic incident, including
-ntr-document-funny-sci1-2 = It seems that R&D is pushing the boundaries of what can legally be called "progress", recent events include
-ntr-document-funny-sci1-3 = Upon review, it has been discovered, that anomalies are being stored inside [bold]living people[/bold], and recent events include
-ntr-document-funny-sci1-4 = Despite having an enitre department dedicated to tech advancement, [bold]most of the breakthoughs appear to be either accidental or morally questionable.[/bold] examples include
-ntr-document-funny-sci1-5 = It appears that instead of solving existing problems, R&D has been creating entirely new and significanlty worse ones, examples include
-ntr-document-funny-sci1-6 = Scientific innovation is encouraged, but many recent developments pose a direct threat to the station, its crew, and some fundamental laws of physics, including
-ntr-document-funny-sci1-7 = But it appears that instead of improving the station, most research project have resulted in chaos, notable examples include
-ntr-document-funny-sci1-8 = Rather than producing meaningful discoveries, many project have resulted in disasters that range from "mildly inconvenient" to "catastrophic", some examples include
+ntr-document-funny-sci1-1 = Похоже, за каждым научным прорывом следует хотя бы [bold]одна[/bold] катастрофа, в том числе
+ntr-document-funny-sci1-2 = Похоже, НиО расширяет границы того, что по закону ещё можно называть «прогрессом». Среди недавних событий:
+ntr-document-funny-sci1-3 = Проверка показала, что аномалии хранятся внутри [bold]живых людей[/bold]. Среди недавних событий:
+ntr-document-funny-sci1-4 = У нас целый отдел, посвящённый развитию технологий, но [bold]большинство прорывов, похоже, либо случайны, либо сомнительны с точки зрения этики.[/bold] Например:
+ntr-document-funny-sci1-5 = Похоже, вместо решения существующих проблем НиО создаёт совершенно новые и гораздо более серьёзные. Например:
+ntr-document-funny-sci1-6 = Научные инновации приветствуются, однако многие недавние разработки напрямую угрожают станции, её экипажу и некоторым основным законам физики. Среди них:
+ntr-document-funny-sci1-7 = Однако вместо улучшения станции большинство исследований породило хаос. Примечательные случаи:
+ntr-document-funny-sci1-8 = Вместо значимых открытий многие проекты закончились бедствиями, от «слегка неудобных» до «катастрофических». Вот несколько примеров:
 
 # funny verbs SCIENCE 2
-ntr-document-funny-sci2-1 = a scientist [bold]accidentally teleporting themselves into the singularity.[/bold]
-ntr-document-funny-sci2-2 = an anomaly reaction that turned jani into a puddle.
-ntr-document-funny-sci2-3 = a robotics experiment that resulted in a [bold]cyborg, demanding working rights.[/bold]
-ntr-document-funny-sci2-4 = the AI having an existential crisis because [bold]someone uploaded 1984 into their database.[/bold]
-ntr-document-funny-sci2-5 = clown being teleported into the artifact chamber [bold]while it was on fire.[/bold]
-ntr-document-funny-sci2-6 = a harmless testing chamber that somehow [bold]breached three different space-time laws.[/bold]
-ntr-document-funny-sci2-7 = the accidental discovery of a chemical that melts clothing instead of skin.
-ntr-document-funny-sci2-8 = a prototype weapon that lobotomizes the person [bold]that is shooting the gun, somehow.[/bold]
-ntr-document-funny-sci2-9 = a research grant mysteriously labeled as "do not ask, just approve".
-ntr-document-funny-sci2-10 = some scientist helping bingles in their conquest of the station, instead of researching them.
+ntr-document-funny-sci2-1 = учёный, [bold]случайно телепортировавший себя в сингулярность.[/bold]
+ntr-document-funny-sci2-2 = реакция аномалии, превратившая уборщика в лужу.
+ntr-document-funny-sci2-3 = эксперимент по робототехнике, в результате которого [bold]киборг потребовал трудовых прав.[/bold]
+ntr-document-funny-sci2-4 = экзистенциальный кризис у ИИ из-за того, что [bold]кто-то загрузил «1984» в его базу данных.[/bold]
+ntr-document-funny-sci2-5 = телепортация клоуна в камеру артефактов, [bold]пока та горела.[/bold]
+ntr-document-funny-sci2-6 = безобидная испытательная камера, каким-то образом [bold]нарушившая три разных закона пространства-времени.[/bold]
+ntr-document-funny-sci2-7 = случайное открытие химиката, растворяющего одежду вместо кожи.
+ntr-document-funny-sci2-8 = прототип оружия, который каким-то образом лоботомирует [bold]того, кто из него стреляет.[/bold]
+ntr-document-funny-sci2-9 = исследовательский грант с загадочной пометкой «не спрашивайте, просто одобрите».
+ntr-document-funny-sci2-10 = какой-то учёный помогал бинглам захватывать станцию вместо того, чтобы их изучать.
 
 # funny verbs SCIENCE 3 (due to everything above, we want you to ensure)
-ntr-document-funny-sci3-1 = that all research is conducted in a way, that does [bold]not[/bold]endanger reality itself.
-ntr-document-funny-sci3-2 = that no new invention gains sentience without corporate approval.
-ntr-document-funny-sci3-3 = that there is no living abominations roaming the station that science cant explain.
-ntr-document-funny-sci3-4 = that any teleportation experiments do not result in "missing persons" reports.
-ntr-document-funny-sci3-5 = that no single scientist is responsible for more than three major explosions per shift.
-ntr-document-funny-sci3-6 = that there is no artifact that could destroy the station.
-ntr-document-funny-sci3-7 = that any phoron-based research does not lead to station-wide fires.
-ntr-document-funny-sci3-8 = that the [bold]Research Director[/bold] is atleast [italic]aware[/bold] of what is happening in their own department.
-ntr-document-funny-sci3-9 = that no experiment should have a "non-zero" chance of planetary destruction.
-ntr-document-funny-sci3-10 = that any discovery that warps time must be reported [italic]before[/italic] it is used to extend the duration of the shift.
-ntr-document-funny-sci3-11 = that no scientist should replace [italic]both[/italic]of their arms with cybernetic attachments [bold]at once.[/bold]
-ntr-document-funny-sci3-12 = that no project exists [italic]solely[/italic] because someone lost a bet.
-ntr-document-funny-sci3-13 = that no research team has a suspiciously high body count.
-ntr-document-funny-sci3-14 = that all robotics projects actually follow Asimov's Laws. (or at least pretend to.)
-ntr-document-funny-sci3-15 = that no machine actively fights against being turned off.
-ntr-document-funny-sci3-16 = that the lolipops being disposed from the mediborg are not poison.
+ntr-document-funny-sci3-1 = чтобы все исследования проводились так, чтобы [bold]не[/bold] подвергать опасности саму реальность.
+ntr-document-funny-sci3-2 = чтобы ни одно изобретение не обрело разум без одобрения корпорации.
+ntr-document-funny-sci3-3 = чтобы по станции не бродили живые мерзости, которые наука не в силах объяснить.
+ntr-document-funny-sci3-4 = чтобы эксперименты с телепортацией не приводили к заявлениям о «пропаже людей».
+ntr-document-funny-sci3-5 = чтобы ни один учёный не был виновен более чем в трёх крупных взрывах за смену.
+ntr-document-funny-sci3-6 = чтобы не было артефактов, способных уничтожить станцию.
+ntr-document-funny-sci3-7 = чтобы исследования с фороном не приводили к пожарам по всей станции.
+ntr-document-funny-sci3-8 = чтобы [bold]Научный Руководитель[/bold] хотя бы [italic]знал[/italic], что творится в собственном отделе.
+ntr-document-funny-sci3-9 = чтобы ни у одного эксперимента не было «ненулевой» вероятности уничтожить планету.
+ntr-document-funny-sci3-10 = чтобы о любом искажающем время открытии сообщали [italic]до того[/italic], как удлинят с его помощью смену.
+ntr-document-funny-sci3-11 = чтобы ни один учёный не заменял [italic]обе[/italic] руки киберимплантами [bold]за раз.[/bold]
+ntr-document-funny-sci3-12 = чтобы проекты не запускались [italic]только[/italic] из-за проигранного пари.
+ntr-document-funny-sci3-13 = чтобы ни у одной исследовательской группы не было подозрительно много жертв.
+ntr-document-funny-sci3-14 = чтобы все проекты по робототехнике действительно соблюдали Законы Азимова. (или хотя бы делали вид.)
+ntr-document-funny-sci3-15 = чтобы ни одна машина активно не сопротивлялась отключению.
+ntr-document-funny-sci3-16 = чтобы леденцы, выдаваемые медборгом, не были ядовитыми.
 
 # funny verbs SCIENCE 4 (stamps below confirm)
-ntr-document-funny-sci4-1 = that you will not sue us.
-ntr-document-funny-sci4-2 = that you will not resign.
-ntr-document-funny-sci4-3 = that there is nothing to worry about.
-ntr-document-funny-sci4-4 = that you are granting permission to examine your body when you are dead.
-ntr-document-funny-sci4-5 = that the AI has not malfunctioned.
-ntr-document-funny-sci4-6 = that bong bing bung being bing boongl
-ntr-document-funny-sci4-7 = that sci is not doing arms race with sec.
-ntr-document-funny-sci4-8 = that all discoveries are less likely to cause panic than excitement.
+ntr-document-funny-sci4-1 = что вы не подадите на нас в суд.
+ntr-document-funny-sci4-2 = что вы не уволитесь.
+ntr-document-funny-sci4-3 = что беспокоиться не о чем.
+ntr-document-funny-sci4-4 = что вы разрешаете осмотреть ваше тело после смерти.
+ntr-document-funny-sci4-5 = что ИИ не вышел из строя.
+ntr-document-funny-sci4-6 = что бонг бинг банг беинг бинг бунгл
+ntr-document-funny-sci4-7 = что научный отдел не ведёт гонку вооружений с СБ.
+ntr-document-funny-sci4-8 = что все открытия скорее вызовут восторг, чем панику.

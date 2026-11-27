@@ -1,5 +1,5 @@
-ent-EmptyDetonator = detonator cap
-    .desc = A detonator cap. Requires a trigger and wire.
+ent-EmptyDetonator = капсюль-детонатор
+    .desc = Капсюль-детонатор. Нужны спусковой механизм и провод.
 
-ent-WiredDetonator = detonator cap
-    .desc = A detonator cap.
+ent-WiredDetonator = капсюль-детонатор
+    .desc = Капсюль-детонатор.

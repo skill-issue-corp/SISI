@@ -1,5 +1,5 @@
-ent-CigPackBaseSoft = cigarette soft pack
+ent-CigPackBaseSoft = мягкая пачка сигарет
     .desc = { ent-CigPackBase.desc }
 
-ent-CigPackBotany = Hydroponic Herbals pack
-    .desc = Nanotrasen decided to let Botany make their own signature blend cigarettes for export, and this is the result.
+ent-CigPackBotany = пачка «Гидропонных Травяных»
+    .desc = NanoTrasen разрешила Ботаникам делать сигареты из собственной фирменной смеси на экспорт. Вот что из этого вышло.

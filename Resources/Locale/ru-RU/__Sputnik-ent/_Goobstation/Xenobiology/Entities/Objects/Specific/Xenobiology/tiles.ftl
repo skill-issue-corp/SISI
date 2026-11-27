@@ -1,5 +1,5 @@
-ent-FloorBluespaceEntity = bluespace carpet
-    .desc = State of the art carpets produced in the Nanotrasen Aperture Laboratory. These ones make you faster on them!
+ent-FloorBluespaceEntity = блюспейс-ковёр
+    .desc = Передовые ковры производства лаборатории «Апертура» NanoTrasen. По этим коврам вы бегаете быстрее!
 
-ent-FloorSepiaEntity = sepia carpet
-    .desc = The carpet feels somehow nostalgic. So nostalgic you don't want to take a step off of it.
+ent-FloorSepiaEntity = ковёр цвета сепии
+    .desc = Ковёр навевает ностальгию. Такую, что с него и шагнуть не хочется.

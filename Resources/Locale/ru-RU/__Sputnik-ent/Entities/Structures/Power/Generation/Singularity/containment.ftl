@@ -1,5 +1,5 @@
-ent-ContainmentFieldGenerator = containment field generator
-    .desc = A machine that generates a containment field when powered by an emitter. Keeps the Singularity docile.
+ent-ContainmentFieldGenerator = генератор поля сдерживания
+    .desc = Генерирует поле сдерживания, получая энергию от эмиттера. Удерживает Сингулярность на месте.
 
-ent-ContainmentField = containment field
-    .desc = A containment field that repels gravitational singularities.
+ent-ContainmentField = поле сдерживания
+    .desc = Поле сдерживания, отталкивающее гравитационные сингулярности.

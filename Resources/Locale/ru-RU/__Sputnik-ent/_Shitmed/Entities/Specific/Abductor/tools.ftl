@@ -1,17 +1,17 @@
-ent-CrowbarAbductor = high-tech crowbar
-    .desc = Made out of metal more durable than anything Nanotrasen could dream of.
+ent-CrowbarAbductor = высокотехнологичный лом
+    .desc = Изготовлен из металла прочнее всего, о чём могла мечтать NanoTrasen.
 
-ent-WirecutterAbductor = high-tech wirecutter
-    .desc = Cuts through wires like a hot knife through butter.
+ent-WirecutterAbductor = высокотехнологичные кусачки
+    .desc = Режут провода как горячий нож масло.
 
-ent-ScrewdriverAbductor = high-tech screwdriver
-    .desc = More efficient than anything Nanotrasen could dream of. Not to be confused with a sonic screwdriver.
+ent-ScrewdriverAbductor = высокотехнологичная отвёртка
+    .desc = Эффективнее всего, о чём могла мечтать NanoTrasen. Не путать со звуковой отвёрткой.
 
-ent-WrenchAbductor = high-tech wrench
-    .desc = Can take a bolt off in a single turn. Not intended for melee combat.
+ent-WrenchAbductor = высокотехнологичный гаечный ключ
+    .desc = Откручивает болт за один оборот. Для ближнего боя не предназначен.
 
-ent-WelderAbductor = high-tech welding tool
-    .desc = A highly advanced welder capable of producing infinite fuel.
+ent-WelderAbductor = высокотехнологичный сварочный аппарат
+    .desc = Продвинутый сварочный аппарат, способный вырабатывать бесконечно много топлива.
 
-ent-MultitoolAbductor = high-tech multitool
-    .desc = A highly advanced hacking tool capable of viewing wire functionality. Can be used as Cryptographic sequencer in its alternate mode.
+ent-MultitoolAbductor = высокотехнологичный мультитул
+    .desc = Продвинутый инструмент для взлома, который показывает назначение проводов. В альтернативном режиме работает как Криптографический секвенсор.

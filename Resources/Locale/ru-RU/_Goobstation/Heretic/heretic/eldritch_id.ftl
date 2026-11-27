@@ -1,36 +1,36 @@
-eldritch-id-card-component-examine-inverted = Current effect is [color=yellow]inverted[/color]
+eldritch-id-card-component-examine-inverted = Текущий эффект: [color=yellow]инвертирован[/color]
 
 eldritch-id-card-component-examine-message =
-    Enchanted by the Mansus!
-    Using an ID on this or using this ID on another ID will consume it and allow you to copy its accesses.
-    Using this in-hand allows you to change its appearance.
-    Using this on a pair of doors, allows you to link them together. Entering one door will transport you to the other, while heathens are instead teleported to a random airlock.
-    Alt-clicking the ID, makes the ID make inverted portals instead, which teleport you onto a random airlock onstation, while heathens are teleported to the destination.
+    Зачарована Мансусом!
+    Приложите к ней ID-карту или приложите её к другой ID-карте, чтобы поглотить ту карту и скопировать её доступы.
+    Активируйте её в руке, чтобы изменить внешний вид.
+    Приложите её к двум дверям, чтобы связать их. Вход в одну перенесёт вас к другой, а язычников отправит к случайному шлюзу.
+    Нажмите на карту с Alt, чтобы она создавала инвертированные порталы. Они отправят вас к случайному шлюзу на станции, а язычников перенесут к связанному шлюзу.
 
 eldritch-id-card-component-on-invert =
     { $inverted ->
-      [true] now
-      *[false] no longer
-    } creating inverted rifts
+      [true] теперь
+      *[false] больше не
+    } создаются инвертированные разломы
 
 eldritch-id-card-component-portal-inverted =
-    portal { $inverted ->
-             [true] inverted
-             *[false] no longer inverted
+    портал { $inverted ->
+             [true] инвертирован
+             *[false] больше не инвертирован
            }
 
-eldritch-id-card-component-invert = Invert
-eldritch-id-card-component-invert-message = Make the ID make inverted portals, which teleport you onto a random airlock onstation, while heathens are teleported to the destination or vise versa.
+eldritch-id-card-component-invert = Инвертировать
+eldritch-id-card-component-invert-message = Переключить режим порталов ID-карты. В инвертированном режиме портал отправит вас к случайному шлюзу станции, а язычников — к связанному шлюзу. В обычном режиме всё наоборот.
 
-eldritch-id-card-component-link-one = link 1/2
-eldritch-id-card-component-link-two = link 2/2
+eldritch-id-card-component-link-one = связь 1/2
+eldritch-id-card-component-link-two = связь 2/2
 
-lock-portal-component-clear-portals = Clear both links
+lock-portal-component-clear-portals = Удалить обе связи
 
-lock-portal-component-examine-inverted = [color=yellow]inverted[/color]
-lock-portal-component-examine-not-inverted = [color=yellow]not inverted[/color]
+lock-portal-component-examine-inverted = [color=yellow]инвертирован[/color]
+lock-portal-component-examine-not-inverted = [color=yellow]не инвертирован[/color]
 
 lock-portal-component-examine-message =
-    Portal is {$status}.
-    Click it using eldritch id to invert it.
-    Alt-click with eldrith id to remove both links.
+    Состояние портала: {$status}.
+    Нажмите на него потусторонней id-картой, чтобы инвертировать.
+    Нажмите с Alt, держа потустороннюю id-карту, чтобы удалить обе связи.

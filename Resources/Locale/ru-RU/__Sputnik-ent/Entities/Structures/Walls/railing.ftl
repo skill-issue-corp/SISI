@@ -1,5 +1,5 @@
-ent-BaseRailing = railing
-    .desc = Basic railing meant to protect idiots like you from falling.
+ent-BaseRailing = перила
+    .desc = Простые перила, чтобы такие идиоты, как вы, не падали.
 
 ent-Railing = { ent-BaseRailing }
     .desc = { ent-BaseRailing.desc }

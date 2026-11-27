@@ -1,2 +1,2 @@
-ent-CrateScienceModsuitCoresFilled = MOD cores crate
-    .desc = Contains three MOD cores inside.
+ent-CrateScienceModsuitCoresFilled = ящик с ядрами МОД
+    .desc = Внутри три ядра МОД.

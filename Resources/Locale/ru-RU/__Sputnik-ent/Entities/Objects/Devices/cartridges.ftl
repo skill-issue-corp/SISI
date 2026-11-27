@@ -1,29 +1,29 @@
 ent-BasePDACartridge = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-NotekeeperCartridge = notekeeper cartridge
-    .desc = A program for keeping notes.
+ent-NotekeeperCartridge = картридж блокнота
+    .desc = Программа для ведения заметок.
 
-ent-NanoTaskCartridge = NanoTask cartridge
-    .desc = A program that allows you to keep a list of tasks to do.
+ent-NanoTaskCartridge = картридж НаноТаска
+    .desc = Программа для ведения списка задач.
 
-ent-NewsReaderCartridge = news cartridge
-    .desc = A program for reading news.
+ent-NewsReaderCartridge = картридж новостей
+    .desc = Программа для чтения новостей.
 
-ent-CrewManifestCartridge = crew manifest cartridge
-    .desc = A program for listing your fellow crewmembers.
+ent-CrewManifestCartridge = картридж списка экипажа
+    .desc = Программа для просмотра списка членов экипажа.
 
-ent-NetProbeCartridge = NetProbe cartridge
-    .desc = A program for getting the address and frequency of network devices.
+ent-NetProbeCartridge = картридж СетевогоЗонда
+    .desc = Программа для определения адреса и частоты сетевых устройств.
 
-ent-LogProbeCartridge = LogProbe cartridge
-    .desc = A program for getting access logs from devices.
+ent-LogProbeCartridge = картридж ЖурналаДоступа
+    .desc = Программа для получения журналов доступа с устройств.
 
-ent-WantedListCartridge = Wanted list cartridge
-    .desc = A program to get a list of wanted persons.
+ent-WantedListCartridge = картридж списка Разыскиваемых
+    .desc = Программа для просмотра списка разыскиваемых лиц.
 
-ent-MedTekCartridge = MedTek cartridge
-    .desc = A program that provides medical diagnostic tools.
+ent-MedTekCartridge = картридж МедТека
+    .desc = Программа с инструментами для медицинской диагностики.
 
-ent-AstroNavCartridge = AstroNav cartridge
-    .desc = A program for navigation that provides GPS coordinates.
+ent-AstroNavCartridge = картридж АстроНава
+    .desc = Навигационная программа, показывающая координаты GPS.

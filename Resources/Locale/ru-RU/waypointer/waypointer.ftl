@@ -1,4 +1,4 @@
-waypointer-disable-all = Disable waypointer system
-waypointer-enable-all = Enable waypointer system
-waypointer-disable = Disable the {$waypointer}
-waypointer-enable = Enable the {$waypointer}
+waypointer-disable-all = Отключить систему путевых указателей
+waypointer-enable-all = Включить систему путевых указателей
+waypointer-disable = Отключить {$waypointer}
+waypointer-enable = Включить {$waypointer}

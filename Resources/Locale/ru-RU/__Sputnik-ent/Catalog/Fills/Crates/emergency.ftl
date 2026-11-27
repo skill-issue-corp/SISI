@@ -1,17 +1,17 @@
-ent-CrateEmergencyExplosive = bomb suit crate
-    .desc = Science gone bonkers? Beeping behind the airlock? Buy now and be the hero the station des... I mean needs! (time not included)
+ent-CrateEmergencyExplosive = ящик костюма сапёра
+    .desc = Учёные опять чудят? За шлюзом что-то пищит? Купите сейчас и станьте героем, которого станция заслу... то есть в котором нуждается! (время в комплект не входит)
 
-ent-CrateEmergencyFire = firefighting crate
-    .desc = Only you can prevent station fires. Partner up with two firefighter suits, gas masks, flashlights, large oxygen tanks, extinguishers, and hardhats!
+ent-CrateEmergencyFire = противопожарный ящик
+    .desc = Только вы можете предотвратить пожары на станции. Вам в помощь два костюма пожарного, противогазы, фонарики, большие кислородные баллоны, огнетушители и каски!
 
-ent-CrateEmergencyEVA = emergency pressure suit crate
-    .desc = For when the crew needs mass atmospheric protection on a budget. Contains six breath masks, six emergency pressure suits, six oxygen tanks, and six nitrogen tanks.
+ent-CrateEmergencyEVA = ящик аварийных гермокостюмов
+    .desc = Когда экипажу нужна защита от разгерметизации для всех, а бюджет ограничен. Содержит шесть дыхательных масок, шесть аварийных гермокостюмов, шесть кислородных и шесть азотных баллонов.
 
-ent-CrateEmergencyRadiation = radiation protection crate
-    .desc = Survive the nuclear apocalypse! Or, the nuclear part, anyway. Contains two radiation suits and two Geiger counters.
+ent-CrateEmergencyRadiation = ящик радиационной защиты
+    .desc = Переживите ядерный апокалипсис! Ну или хотя бы ядерную его часть. Содержит два противорадиационных костюма и два счётчика Гейгера.
 
-ent-CrateEmergencyInflatablewall = inflatable wall crate
-    .desc = Three stacks of inflatable walls for when the stations metal walls don't want to hold atmosphere anymore.
+ent-CrateEmergencyInflatablewall = ящик надувных стен
+    .desc = Три стопки надувных стен на случай, когда металлические стены станции больше не хотят удерживать атмосферу.
 
-ent-CrateGenericBiosuit = emergency bio suit crate
-    .desc = Contains 2 biohazard suits to ensure that no disease will distract you from what you're doing there.
+ent-CrateGenericBiosuit = аварийный ящик костюмов биозащиты
+    .desc = Содержит 2 костюма биозащиты, чтобы ни одна болезнь не отвлекала вас от дела.

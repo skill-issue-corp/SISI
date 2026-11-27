@@ -1,238 +1,238 @@
-ent-BaseVendingMachine = vending machine
-    .desc = Just add capitalism!
+ent-BaseVendingMachine = торговый автомат
+    .desc = Просто добавьте капитализма!
 
 ent-VendingMachine = { ent-BaseVendingMachine }
     .desc = { ent-BaseVendingMachine.desc }
 
-ent-VendingMachineWallmount = vending machine
+ent-VendingMachineWallmount = торговый автомат
     .desc = { ent-BaseWallmountMachine.desc }
 
-ent-VendingMachineCondiments = condiment station
-    .desc = Slather these thick gooey substances on your food for a full flavor effect.
+ent-VendingMachineCondiments = раздатчик приправ
+    .desc = Намажьте эти густые липкие вещества на еду, чтобы по-настоящему прочувствовать вкус.
 
-ent-VendingMachineAmmo = liberation station
-    .desc = An overwhelming amount of ancient patriotism washes over you just by looking at the machine.
+ent-VendingMachineAmmo = станция освобождения
+    .desc = От одного взгляда на этот автомат вас захлёстывает волна древнего патриотизма.
 
-ent-VendingMachineBooze = Booze-O-Mat
-    .desc = A technological marvel, supposedly able to mix just the mixture you'd like to drink the moment you ask for one.
+ent-VendingMachineBooze = Бух-О-Мат
+    .desc = Чудо техники, которое якобы способно смешать именно то, что вы хотите выпить, стоит только попросить.
 
-ent-VendingMachineBoozeSyndicate = Bruise-O-Mat
-    .desc = A refurbished Booze-O-Mat for boosting operative morale. An imprint of a blood-red hardsuit is visible on one side, and the paint seems ashed off on the other side.
+ent-VendingMachineBoozeSyndicate = Ушиб-О-Мат
+    .desc = Восстановленный Бух-О-Мат для поднятия боевого духа оперативников. На одном боку виден отпечаток кроваво-красного скафандра, а с другого краска словно выгорела.
 
-ent-VendingMachineCart = PTech
-    .desc = PTech vending! Providing a ROBUST selection of PDAs, cartridges, and anything else a dull paper pusher needs!
+ent-VendingMachineCart = ПиТех
+    .desc = Автомат ПиТех! РОБАСТНЫЙ выбор КПК, картриджей и всего остального, что нужно унылому бюрократу!
 
-ent-VendingMachineChefvend = ChefVend
-    .desc = An ingredient vendor for all your cheffin needs.
+ent-VendingMachineChefvend = ШефВенд
+    .desc = Автомат с ингредиентами на все случаи шефской жизни.
 
-ent-VendingMachineCigs = ShadyCigs Deluxe
-    .desc = If you want to get cancer, might as well do it in style.
+ent-VendingMachineCigs = МутныеСиги Делюкс
+    .desc = Если уж и зарабатывать рак, то со стилем.
 
-ent-VendingMachineClothing = ClothesMate
-    .desc = A vending machine for clothing.
+ent-VendingMachineClothing = ОдёжкаДруг
+    .desc = Торговый автомат с одеждой.
 
-ent-VendingMachineWinter = WinterDrobe
-    .desc = The best place to enjoy the cold!
+ent-VendingMachineWinter = ЗимоШкаф
+    .desc = Лучшее место, чтобы насладиться холодом!
 
-ent-VendingMachineCoffee = Solar's Best Hot Drinks
-    .desc = Served boiling so it stays hot all shift!
+ent-VendingMachineCoffee = Лучшие Горячие Напитки Солара
+    .desc = Подаются кипящими, чтобы не остывали всю смену!
 
-ent-VendingMachineCola = Robust Softdrinks
-    .desc = A softdrink vendor provided by Robust Industries, LLC.
+ent-VendingMachineCola = Робастные Безалкогольные Напитки
+    .desc = Автомат с безалкогольными напитками от ООО «Робаст Индастриз».
 
 ent-VendingMachineColaBlack = { ent-VendingMachineCola }
     .desc = { ent-VendingMachineCola.desc }
-    .suffix = Black
+    .suffix = Чёрный
 
-ent-VendingMachineColaRed = Space Cola Vendor
-    .desc = It vends cola, in space.
+ent-VendingMachineColaRed = Автомат «Космическая Кола»
+    .desc = Продаёт колу, в космосе.
 
-ent-VendingMachineSpaceUp = Space-Up! Vendor
-    .desc = Indulge in an explosion of flavor.
+ent-VendingMachineSpaceUp = Автомат «Спейс-Ап!»
+    .desc = Побалуйте себя взрывом вкуса.
 
 ent-VendingMachineSoda = { ent-VendingMachineCola }
     .desc = { ent-VendingMachineCola.desc }
-    .suffix = Soda
+    .suffix = Газировка
 
-ent-VendingMachineStarkist = Star-kist Vendor
-    .desc = The taste of a star in liquid form.
+ent-VendingMachineStarkist = Автомат «Старкист»
+    .desc = Вкус звезды в жидкой форме.
 
-ent-VendingMachineShamblersJuice = Shambler's Juice Vendor
-    .desc = ~Shake me up some of that Shambler's Juice!~
+ent-VendingMachineShamblersJuice = Автомат «Сок Шамблера»
+    .desc = ~Взболтайте мне «Сок Шамблера»!~
 
-ent-VendingMachinePwrGame = Pwr Game Vendor
-    .desc = You want it, we got it. Brought to you in partnership with Vlad's Salads.
+ent-VendingMachinePwrGame = Автомат «ПВР Гейм»
+    .desc = Вы хотите, у нас есть. При поддержке «Салатов Влада».
 
-ent-VendingMachineDrGibb = Dr. Gibb Vendor
-    .desc = Canned explosion of different flavors in this very vendor!
+ent-VendingMachineDrGibb = Автомат «Доктор Гибб»
+    .desc = Взрыв разных вкусов в банке, прямо в этом автомате!
 
-ent-VendingMachineSmite = Smite Vendor
-    .desc = Popular with the administration.
+ent-VendingMachineSmite = Автомат «Смайт»
+    .desc = Пользуется популярностью у администрации.
 
-ent-VendingMachineDinnerware = Plasteel Chef's Dinnerware Vendor
-    .desc = A kitchen and restaurant equipment vendor.
+ent-VendingMachineDinnerware = Автомат Посуды «Пласталевый Шеф»
+    .desc = Автомат с кухонным и ресторанным оборудованием.
 
-ent-VendingMachineMagivend = MagiVend
-    .desc = A magic vending machine.
+ent-VendingMachineMagivend = МагиВенд
+    .desc = Магический торговый автомат.
 
-ent-VendingMachineDiscount = Discount Dan's
-    .desc = A vending machine containing discount snacks from the infamous 'Discount Dan' franchise.
+ent-VendingMachineDiscount = Дисконт Дэна
+    .desc = Автомат с дешёвыми закусками от печально известной сети «Дисконт Дэна».
 
-ent-VendingMachineEngivend = Engi-Vend
-    .desc = Spare tool vending. What? Did you expect some witty description?
+ent-VendingMachineEngivend = Инж-Венд
+    .desc = Автомат с запасными инструментами. Что? Вы ждали остроумное описание?
 
-ent-VendingMachineMedicalBase = NanoMed Civilian
-    .desc = It's a medical drug dispenser. Natural chemicals only!
+ent-VendingMachineMedicalBase = НаноМед Гражданский
+    .desc = Автомат с лекарствами. Только натуральные вещества!
 
-ent-VendingMachineMedical = NanoMed Plus
+ent-VendingMachineMedical = НаноМед Плюс
     .desc = { ent-VendingMachineMedicalBase.desc }
 
-ent-VendingMachineNutri = NutriMax
-    .desc = A vending machine containing nutritional substances for plants and botanical tools.
+ent-VendingMachineNutri = НутриМакс
+    .desc = Автомат с питательными веществами для растений и инструментами для ботаников.
 
-ent-VendingMachineSec = SecTech
-    .desc = A vending machine containing Security equipment. A label reads SECURITY PERSONNEL ONLY.
+ent-VendingMachineSec = СБТех
+    .desc = Торговый автомат со снаряжением Службы Безопасности. На этикетке написано «ТОЛЬКО ДЛЯ СОТРУДНИКОВ СБ».
 
-ent-VendingMachineSeedsUnlocked = MegaSeed Servitor
-    .desc = For when you need seeds fast. Hands down the best seed selection on the station!
-    .suffix = Unlocked
+ent-VendingMachineSeedsUnlocked = МегаСеменной Слуга
+    .desc = Когда семена нужны срочно. Бесспорно лучший выбор семян на станции!
+    .suffix = Открыто
 
 ent-VendingMachineSeeds = { ent-VendingMachineSeedsUnlocked }
     .desc = { ent-VendingMachineSeedsUnlocked.desc }
-    .suffix = Hydroponics
+    .suffix = Гидропоника
 
-ent-VendingMachineSnack = Getmore Chocolate Corp
-    .desc = A snack machine courtesy of the Getmore Chocolate Corporation, based out of Mars.
+ent-VendingMachineSnack = Шоколадная Корпорация Гетмор
+    .desc = Автомат с закусками от Шоколадной Корпорации «Гетмор» с Марса.
 
-ent-VendingMachineSustenance = Sustenance Vendor
-    .desc = A vending machine which vends food, as required by section 47-C of the NT's Prisoner Ethical Treatment Agreement.
+ent-VendingMachineSustenance = Автомат Питания
+    .desc = Автомат выдаёт еду, как того требует раздел 47-C Соглашения NT об этичном обращении с Заключёнными.
 
 ent-VendingMachineSnackBlue = { ent-VendingMachineSnack }
     .desc = { ent-VendingMachineSnack.desc }
-    .suffix = Blue
+    .suffix = Синий
 
 ent-VendingMachineSnackOrange = { ent-VendingMachineSnack }
     .desc = { ent-VendingMachineSnack.desc }
-    .suffix = Orange
+    .suffix = Оранжевый
 
 ent-VendingMachineSnackGreen = { ent-VendingMachineSnack }
     .desc = { ent-VendingMachineSnack.desc }
-    .suffix = Green
+    .suffix = Зелёный
 
 ent-VendingMachineSnackTeal = { ent-VendingMachineSnack }
     .desc = { ent-VendingMachineSnack.desc }
-    .suffix = Teal
+    .suffix = Сине-зелёный
 
 ent-VendingMachineSovietSoda = ВОДА
-    .desc = An old vending machine containing sweet water.
-    .suffix = VODA
+    .desc = Старый торговый автомат со сладкой водой.
+    .suffix = ВОДА
 
-ent-VendingMachineTheater = AutoDrobe
-    .desc = A vending machine containing costumes.
+ent-VendingMachineTheater = АвтоШкаф
+    .desc = Автомат с костюмами.
 
-ent-VendingMachineVendomat = Vendomat
-    .desc = Only the finest robust equipment in space!
+ent-VendingMachineVendomat = Вендомат
+    .desc = Только лучшее робастное снаряжение в космосе!
 
-ent-VendingMachineRobotics = Robotech Deluxe
-    .desc = All the tools you need to create your own robot army.
+ent-VendingMachineRobotics = Роботех Делюкс
+    .desc = Все инструменты для создания собственной армии роботов.
 
-ent-VendingMachineYouTool = YouTool
-    .desc = A vending machine containing standard tools. A label reads: Tools for tools.
+ent-VendingMachineYouTool = ТвойИнструмент
+    .desc = Торговый автомат со стандартными инструментами. На этикетке написано: «Инструменты для инструментов».
 
-ent-VendingMachineGames = Good Clean Fun
-    .desc = Vends things that the Captain and Head of Personnel are probably not going to appreciate you fiddling with instead of your job...
+ent-VendingMachineGames = Добрые Чистые Забавы
+    .desc = Продаёт вещи, которыми, по мнению Капитана и Главы Персонала, вам вряд ли стоит заниматься вместо работы...
 
-ent-VendingMachineChang = Mr. Chang
-    .desc = A self-serving Chinese food machine, for all your Chinese food needs.
+ent-VendingMachineChang = М-р Чанг
+    .desc = Автомат самообслуживания с Китайской едой на любой вкус.
 
-ent-VendingMachineSalvage = Salvage Vendor
-    .desc = A dwarf's best friend!
+ent-VendingMachineSalvage = Автомат Утилизаторов
+    .desc = Лучший друг дворфа!
 
-ent-VendingMachineDonut = Monkin' Donuts
-    .desc = A donut vendor provided by Robust Industries, LLC.
+ent-VendingMachineDonut = Мартышкины Пончики
+    .desc = Автомат с пончиками от ООО «Робаст Индастриз».
 
-ent-VendingMachineHydrobe = HyDrobe
-    .desc = A machine with a catchy name. It dispenses botany related clothing and gear.
+ent-VendingMachineHydrobe = ГидроШкаф
+    .desc = Автомат с броским названием. Выдаёт одежду и снаряжение для ботаники.
 
-ent-VendingMachineLawDrobe = LawDrobe
-    .desc = Objection! This wardrobe dispenses the rule of law... and lawyer clothing..
+ent-VendingMachineLawDrobe = ЗаконоШкаф
+    .desc = Возражаю! Из этого шкафа выходит верховенство закона... и одежда адвоката..
 
-ent-VendingMachineSecDrobe = SecDrobe
-    .desc = A vending machine for security and security-related clothing!
+ent-VendingMachineSecDrobe = СБШкаф
+    .desc = Автомат с одеждой службы безопасности и всем с ней связанным!
 
-ent-VendingBarDrobe = BarDrobe
-    .desc = A stylish vendor to dispense the most stylish bar clothing!
+ent-VendingBarDrobe = БароШкаф
+    .desc = Стильный автомат, который выдаёт самую стильную одежду для бара!
 
-ent-VendingMachineChapel = PietyVend
+ent-VendingMachineChapel = СвятоВенд
     .desc = { ent-VendingMachine.desc }
 
-ent-VendingMachineCargoDrobe = CargoDrobe
-    .desc = A highly advanced vending machine for buying cargo related clothing for free.
+ent-VendingMachineCargoDrobe = КаргоШкаф
+    .desc = Продвинутейший автомат, где одежду для карго можно купить бесплатно.
 
-ent-VendingMachineMediDrobe = MediDrobe
-    .desc = A vending machine rumoured to be capable of dispensing clothing for medical personnel.
+ent-VendingMachineMediDrobe = МедШкаф
+    .desc = Ходят слухи, что этот торговый автомат умеет выдавать одежду медицинскому персоналу.
 
-ent-VendingMachineChemDrobe = ChemDrobe
-    .desc = A vending machine for dispensing chemistry related clothing.
+ent-VendingMachineChemDrobe = ХимоШкаф
+    .desc = Автомат, выдающий одежду для работы в химии.
 
-ent-VendingMachineCuraDrobe = CuraDrobe
-    .desc = A lowstock vendor only capable of vending clothing for curators and librarians.
+ent-VendingMachineCuraDrobe = КураШкаф
+    .desc = Автомат с небольшим запасом одежды, только для кураторов и библиотекарей.
 
-ent-VendingMachineAtmosDrobe = AtmosDrobe
-    .desc = This relatively unknown vending machine delivers clothing for Atmospherics Technicians, an equally unknown job.
+ent-VendingMachineAtmosDrobe = АтмосШкаф
+    .desc = Этот мало кому известный автомат выдаёт одежду Атмосферным Техникам, столь же малоизвестным специалистам.
 
-ent-VendingMachineEngiDrobe = EngiDrobe
-    .desc = A vending machine renowned for vending industrial grade clothing.
+ent-VendingMachineEngiDrobe = ИнжШкаф
+    .desc = Торговый автомат, известный своей спецодеждой промышленного класса.
 
-ent-VendingMachineChefDrobe = ChefDrobe
-    .desc = This vending machine might not dispense meat, but it certainly dispenses chef related clothing.
+ent-VendingMachineChefDrobe = ШефШкаф
+    .desc = Мяса этот автомат, может, и не выдаёт, а вот поварскую одежду точно.
 
-ent-VendingMachineDetDrobe = DetDrobe
-    .desc = A machine for all your detective needs, as long as you need clothes.
+ent-VendingMachineDetDrobe = ДетектоШкаф
+    .desc = Автомат на все случаи детективной жизни, пока вам нужна только одежда.
 
-ent-VendingMachineJaniDrobe = JaniDrobe
-    .desc = A self cleaning vending machine capable of dispensing clothing for janitors.
+ent-VendingMachineJaniDrobe = УбороШкаф
+    .desc = Самоочищающийся автомат, выдающий одежду уборщикам.
 
-ent-VendingMachineSciDrobe = SciDrobe
-    .desc = A simple vending machine suitable to dispense well tailored science clothing. Endorsed by Space Cubans.
+ent-VendingMachineSciDrobe = НаукоШкаф
+    .desc = Простой торговый автомат с одеждой для учёных, сшитой по фигуре. Одобрено Космическими Кубинцами.
 
-ent-VendingMachineSyndieDrobe = SyndieDrobe
-    .desc = Wardrobe machine encoded by the syndicate, contains elite outfits for various operations.
+ent-VendingMachineSyndieDrobe = СиндиШкаф
+    .desc = Автомат со шкафом, закодированный синдикатом. Внутри элитные наряды для разных операций.
 
-ent-VendingMachineRoboDrobe = RoboDrobe
-    .desc = A vending machine designed to dispense clothing known only to roboticists.
+ent-VendingMachineRoboDrobe = РобоШкаф
+    .desc = Автомат с одеждой, знакомой только робототехникам.
 
-ent-VendingMachineGeneDrobe = GeneDrobe
-    .desc = A machine for dispensing clothing related to genetics.
+ent-VendingMachineGeneDrobe = ГеноШкаф
+    .desc = Автомат с одеждой для генетиков.
 
-ent-VendingMachineViroDrobe = ViroDrobe
-    .desc = An unsterilized machine for dispending virology related clothing.
+ent-VendingMachineViroDrobe = ВироШкаф
+    .desc = Нестерильный автомат с одеждой для вирусологов.
 
-ent-VendingMachineCentDrobe = CentDrobe
-    .desc = A one-of-a-kind vending machine for all your centcomm aesthetic needs!
+ent-VendingMachineCentDrobe = ЦентоШкаф
+    .desc = Единственный в своём роде автомат на все случаи эстетики ЦК!
 
-ent-VendingMachineHappyHonk = Happy Honk Dispenser
-    .desc = A happy honk meal box dispenser made by honk! co.
+ent-VendingMachineHappyHonk = Раздатчик «Хэппи Хонк»
+    .desc = Автомат с наборами «хэппи хонк» от «хонк! ко.».
 
-ent-VendingMachinePride = Pride-O-Mat
-    .desc = A vending machine containing pride.
+ent-VendingMachinePride = Прайд-О-Мат
+    .desc = Автомат, полный гордости.
 
-ent-VendingMachineTankDispenserEVA = gas tank dispenser
-    .desc = A vendor for dispensing gas tanks.
+ent-VendingMachineTankDispenserEVA = раздатчик газовых баллонов
+    .desc = Автомат для выдачи газовых баллонов.
     .suffix = EVA [O2, N2]
 
-ent-VendingMachineTankDispenserEngineering = gas tank dispenser
-    .desc = A vendor for dispensing gas tanks. This one has an engineering livery.
-    .suffix = ENG [O2, Plasma]
+ent-VendingMachineTankDispenserEngineering = раздатчик газовых баллонов
+    .desc = Автомат для выдачи газовых баллонов. Этот в цветах инженерного отдела.
+    .suffix = ИНЖ [O2, Плазма]
 
-ent-VendingMachineChemicals = ChemVend
-    .desc = Probably not the coffee machine.
+ent-VendingMachineChemicals = ХимоВенд
+    .desc = Скорее всего, не кофемашина.
 
-ent-VendingMachineChemicalsSyndicate = SyndieJuice
-    .desc = Not made with freshly squeezed syndies I hope.
+ent-VendingMachineChemicalsSyndicate = СиндиСок
+    .desc = Надеюсь, сделан без свежевыжатых синдикатовцев.
 
-ent-VendingMachineWallMedicalCivilian = NanoMed band-aid
-    .desc = It's a wall-mounted medical equipment dispenser. Natural chemicals only!
+ent-VendingMachineWallMedicalCivilian = НаноМед пластырь
+    .desc = Настенный автомат для выдачи медицинского снаряжения. Только натуральные вещества!
 
-ent-VendingMachineWallMedical = NanoMed
+ent-VendingMachineWallMedical = НаноМед
     .desc = { ent-VendingMachineWallMedicalCivilian.desc }

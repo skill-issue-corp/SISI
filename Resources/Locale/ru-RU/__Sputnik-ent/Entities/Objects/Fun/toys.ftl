@@ -1,36 +1,36 @@
-ent-SnapPop = snap pop
-    .desc = Throw it at the floor and listen to it POP!
+ent-SnapPop = хлопушка-бомбочка
+    .desc = Бросьте её на пол и услышите ХЛОПОК!
 
-ent-SnapPopBox = snap pop box
-    .desc = Contains snap pops for a few minutes of popping fun!
+ent-SnapPopBox = коробка хлопушек-бомбочек
+    .desc = Полная коробка хлопушек-бомбочек на несколько минут шумного веселья!
 
-ent-PlasticBanana = banana
-    .desc = A plastic banana.
-    .suffix = Plastic
+ent-PlasticBanana = банан
+    .desc = Пластиковый банан.
+    .suffix = Пластик
 
-ent-CrazyGlue = crazy glue
-    .desc = A bottle of crazy glue manufactured by Honk! Co.
+ent-CrazyGlue = безумный клей
+    .desc = Флакон безумного клея производства «Хонк! Ко.».
 
-ent-CrazyLube = crazy lube
-    .desc = A bottle of super slipery crazy lube manufactured by Honk! Co.
+ent-CrazyLube = безумная смазка
+    .desc = Флакон сверхскользкой безумной смазки производства «Хонк! Ко.».
 
-ent-MrChips = mr chips
-    .desc = It's a dummy, dummy!
-    .suffix = Dummy
+ent-MrChips = мистер чипс
+    .desc = Это кукла, болван!
+    .suffix = Кукла
 
-ent-MrDips = mr dips
+ent-MrDips = мистер дипс
     .desc = { ent-MrChips.desc }
 
-ent-Error = error
-    .desc = Hmmmm. Something went wrong.
+ent-Error = ошибка
+    .desc = Хм-м-м. Что-то пошло не так.
 
-ent-SpectralLocatorUnpowered = spectral locator
-    .desc = Appears to be a modified anomaly locator. Seems very old.
-    .suffix = Always Powered
+ent-SpectralLocatorUnpowered = спектральный локатор
+    .desc = Похоже на переделанный локатор аномалий. На вид очень старый.
+    .suffix = Всегда Под Напряжением
 
 ent-SpectralLocator = { ent-SpectralLocatorUnpowered }
     .desc = { ent-SpectralLocatorUnpowered.desc }
 
 ent-SpectralLocatorEmpty = { ent-SpectralLocator }
     .desc = { ent-SpectralLocator.desc }
-    .suffix = Empty
+    .suffix = Пусто

@@ -1,35 +1,35 @@
 ent-BaseMobAsteroid = { ent-BaseMob }
     .desc = { ent-BaseMob.desc }
 
-ent-MobGoliath = goliath
-    .desc = A massive beast that uses long tentacles to ensnare its prey, threatening them is not advised under any conditions.
+ent-MobGoliath = голиаф
+    .desc = Громадный зверь, ловящий добычу длинными щупальцами. Угрожать ему не стоит ни при каких обстоятельствах.
 
-ent-ActionGoliathTentacle = [color=red]Tentacle Slam[/color]
-    .desc = Use your tentacles to grab and stun a target player!
+ent-ActionGoliathTentacle = [color=red]Удар Щупальцами[/color]
+    .desc = Схватите щупальцами другого игрока и оглушите его!
 
-ent-GoliathTentacle = tentacle
+ent-GoliathTentacle = щупальце
     .desc = { "" }
 
-ent-BaseEffectGoliathTentacleSpawn = tentacle
+ent-BaseEffectGoliathTentacleSpawn = щупальце
     .desc = { "" }
 
-ent-EffectGoliathTentacleSpawn = tentacle
+ent-EffectGoliathTentacleSpawn = щупальце
     .desc = { ent-BaseEffectGoliathTentacleSpawn.desc }
 
 ent-EffectGoliathTentacleRetract = { ent-BaseEffectGoliathTentacleSpawn }
     .desc = { ent-BaseEffectGoliathTentacleSpawn.desc }
 
-ent-MobHivelord = hivelord
-    .desc = A truly alien creature, it is a mass of unknown organic material, constantly fluctuating. When attacking, pieces of it split off and attack in tandem with the original.
+ent-MobHivelord = повелитель улья
+    .desc = Поистине инопланетное существо: непрерывно меняющая форму масса неизвестной органики. При нападении от неё отделяются куски и атакуют вместе с исходным существом.
 
-ent-MobHivelordBrood = hivelord brood
-    .desc = A fragment of the original hivelord, rallying behind its original. One isn't much of a threat, but...
+ent-MobHivelordBrood = выводок повелителя улья
+    .desc = Часть повелителя улья, спешащая ему на помощь. Одна особой опасности не представляет, но...
 
-ent-FoodHivelordRemains = hivelord remains
-    .desc = All that remains of a hivelord, it seems to be what allows it to break pieces of itself off without being hurt... its healing properties will soon become inert if not used quickly. Try not to think about what you're eating.
+ent-FoodHivelordRemains = останки повелителя улья
+    .desc = Всё, что осталось от повелителя улья. Похоже, именно они позволяют ему без вреда отделять от себя куски... Если не использовать их сейчас, они утратят целебные свойства. Старайтесь не думать о том, что едите.
 
-ent-FoodHivelordRemainsInert = inert hivelord remains
-    .desc = All that remains of a hivelord... Now all is truly lost.
+ent-FoodHivelordRemainsInert = инертные останки повелителя улья
+    .desc = Всё, что осталось от повелителя улья... Теперь и вправду всё потеряно.
 
-ent-MobBasilisk = basilisk
-    .desc = A territorial beast, covered in a thick shell that absorbs energy. Its stare causes victims to freeze from the inside.
+ent-MobBasilisk = василиск
+    .desc = Территориальный зверь в толстой броне, поглощающей энергию. От его взгляда жертва замерзает изнутри.

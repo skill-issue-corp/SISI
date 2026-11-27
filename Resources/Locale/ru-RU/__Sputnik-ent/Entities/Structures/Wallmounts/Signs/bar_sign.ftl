@@ -1,84 +1,84 @@
-ent-BaseBarSign = bar sign
+ent-BaseBarSign = вывеска бара
     .desc = { ent-BaseWallmountGlass.desc }
 
-ent-BarSign = bar sign
+ent-BarSign = вывеска бара
     .desc = { ent-BaseBarSign.desc }
-    .suffix = Random
+    .suffix = Случайная
 
-ent-BarSignComboCafe = Combo Cafe
-    .desc = Renowned system-wide for their utterly uncreative drink combinations.
+ent-BarSignComboCafe = Комбо-Кафе
+    .desc = Прославилось на всю систему совершенно безыскусными сочетаниями напитков.
 
-ent-BarSignEmergencyRumParty = Emergency Rum Party
-    .desc = Recently relicensed after a long closure.
+ent-BarSignEmergencyRumParty = Экстренная Ромовая Вечеринка
+    .desc = Недавно снова получил лицензию после долгого закрытия.
 
 ent-BarSignLV426 = LV426
-    .desc = Drinking with fancy facemasks is clearly more important than going to medbay.
+    .desc = Пить в шикарных масках явно важнее, чем сходить в медотсек.
 
-ent-BarSignMaidCafe = Maid Cafe
-    .desc = Welcome back, master!
+ent-BarSignMaidCafe = Кафе с Горничными
+    .desc = С возвращением, господин!
 
-ent-BarSignMalteseFalcon = Maltese Falcon
-    .desc = Play it again, sam.
+ent-BarSignMalteseFalcon = Мальтийский Сокол
+    .desc = Сыграй ещё раз, сэм.
 
-ent-BarSignOfficerBeersky = Officer Beersky
-    .desc = Man eat a dong, these drinks are great.
+ent-BarSignOfficerBeersky = У Офицера Пивски
+    .desc = Да чтоб меня, вот это напитки!
 
-ent-BarSignRobustaCafe = Robusta Cafe
-    .desc = Holder of the 'Most Lethal Barfights' record 5 years uncontested.
+ent-BarSignRobustaCafe = Кафе Робуста
+    .desc = Уже 5 лет неизменно удерживает рекорд «Самые Смертоносные Барные Драки».
 
-ent-BarSignTheAleNath = The Ale Nath
-    .desc = All right, buddy. I think you've had EI NATH. Time to get a cab.
+ent-BarSignTheAleNath = Эль' Нат
+    .desc = Ладно, дружище, ЭЛЬ НА ТОМ И ВСЁ. Пора вызывать такси.
 
-ent-BarSignTheBirdCage = The Bird Cage
-    .desc = Caw caw!
+ent-BarSignTheBirdCage = Птичья Клетка
+    .desc = Кар-кар!
 
-ent-BarSignTheCoderbus = The Coderbus
-    .desc = A very controversial bar known for its wide variety of constantly-changing drinks.
+ent-BarSignTheCoderbus = Кодербас
+    .desc = Весьма спорный бар, известный разнообразием напитков и их постоянной сменой.
 
-ent-BarSignTheDrunkCarp = The Drunk Carp
-    .desc = Don't drink and swim.
+ent-BarSignTheDrunkCarp = Пьяный Карп
+    .desc = Выпил – не плыви.
 
-ent-BarSignEngineChange = The Engine Change
-    .desc = Still waiting.
+ent-BarSignEngineChange = Замена Движка
+    .desc = Всё ещё ждём.
 
-ent-BarSignTheHarmbaton = The Harmbaton
-    .desc = A great dining experience for both security members and passengers.
+ent-BarSignTheHarmbaton = Боевая Дубинка
+    .desc = Отличное место, чтобы поесть, и для сотрудников СБ, и для пассажиров.
 
-ent-BarSignTheLightbulb = The Lightbulb
-    .desc = A cafe popular among moths and moffs. Once shut down for a week after the bartender used mothballs to protect her spare uniforms.
+ent-BarSignTheLightbulb = Лампочка
+    .desc = Кафе популярно у нианов и молей. Однажды оно закрылось на неделю после того, как барменша положила нафталин в шкаф с запасной формой.
 
-ent-BarSignTheLooseGoose = The Loose Goose
-    .desc = Drink till you puke and/or break the laws of reality!
+ent-BarSignTheLooseGoose = Отвязный Гусь
+    .desc = Пейте, пока вас не стошнит и/или пока не нарушите законы реальности!
 
-ent-BarSignTheNet = The Net
-    .desc = You just seem to get caught up in it for hours.
+ent-BarSignTheNet = Сеть
+    .desc = В ней как-то само собой застреваешь на несколько часов.
 
-ent-BarSignTheOuterSpess = The Outer Spess
-    .desc = This bar isn't actually located in outer space.
+ent-BarSignTheOuterSpess = Дальний Касмос
+    .desc = На самом деле этот бар расположен не в открытом космосе.
 
-ent-BarSignTheSingulo = The Singulo
-    .desc = Where people go that'd rather not be called by their name.
+ent-BarSignTheSingulo = Синга
+    .desc = Сюда приходят те, кто предпочитает оставаться безымянным.
 
-ent-BarSignTheSun = The Sun
-    .desc = Ironically bright for such a shady bar.
+ent-BarSignTheSun = Солнце
+    .desc = Подозрительно светло для такой тёмной забегаловки.
 
-ent-BarSignWiggleRoom = Wiggle Room
-    .desc = MoMMIs got moves.
+ent-BarSignWiggleRoom = Танцзал-л
+    .desc = МоММИ умеют зажигать.
 
-ent-BarSignZocalo = Zocalo
-    .desc = Anteriormente ubicado en Spessmerica.
+ent-BarSignZocalo = Сокало
+    .desc = Раньше находилось в Касмерике.
 
-ent-BarSignEmprah = 4 The Emprah
-    .desc = Enjoyed by fanatics, heretics, and brain-damaged patrons alike.
+ent-BarSignEmprah = 4 Ымпиратора
+    .desc = Нравится и фанатикам, и еретикам, и посетителям с повреждениями мозга.
 
-ent-BarSignSpacebucks = Spacebucks
-    .desc = You can't get away from them, even in space, and even after we started calling them 'spesos' instead.
+ent-BarSignSpacebucks = Спейсбакс
+    .desc = От них не скрыться даже в космосе, даже после того, как мы стали называть их «спесо».
 
-ent-BarSignMaltroach = The Maltroach
-    .desc = Squeak!
+ent-BarSignMaltroach = Солодомоль
+    .desc = Писк!
 
-ent-BarSignWhiskeyEchoes = Whiskey Echoes
-    .desc = An elite bar for elite oper-wait, this is a Nanotrasen station. Why's this sign in the database?
+ent-BarSignWhiskeyEchoes = Эхо Виски
+    .desc = Элитный бар для элитных опера... погодите, это же станция NanoTrasen. Что эта вывеска делает в базе данных?
 
-ent-BarSignEmped = glitchy bar sign
-    .desc = You imagine a good smack might fix it.
+ent-BarSignEmped = сбоящая вывеска бара
+    .desc = Вам кажется, что хороший удар может её починить.

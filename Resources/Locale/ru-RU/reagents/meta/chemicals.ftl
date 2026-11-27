@@ -10,41 +10,41 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-acetone = acetone
-reagent-desc-acetone = A slick, slightly carcinogenic liquid. Has a multitude of mundane uses in everyday life.
+reagent-name-acetone = ацетон
+reagent-desc-acetone = Скользкая, слабо канцерогенная жидкость. У неё множество бытовых применений.
 
-reagent-name-phenol = phenol
-reagent-desc-phenol = An aromatic ring of carbon with a hydroxyl group. A useful precursor to some medicines, but has no healing properties on its own.
+reagent-name-phenol = фенол
+reagent-desc-phenol = Ароматическое углеродное кольцо с гидроксильной группой. Используется для изготовления некоторых лекарств, но сам по себе не лечит.
 
-reagent-name-sodium-carbonate = sodium carbonate
-reagent-desc-sodium-carbonate = A white, odorless, water-soluble salt that yields an alkaline solution in water.  Also known as soda ash.
+reagent-name-sodium-carbonate = карбонат натрия
+reagent-desc-sodium-carbonate = Белая водорастворимая соль без запаха. В воде образует щелочной раствор. Также известна как кальцинированная сода.
 
-reagent-name-artifexium = artifexium
-reagent-desc-artifexium = A lavender mixture of microscopic artifact fragments and a strong acid. It has the ability to activate artifacts.
+reagent-name-artifexium = артифексиум
+reagent-desc-artifexium = Сиреневая смесь микроскопических осколков артефакта и сильной кислоты. Может активировать артефакты.
 
-reagent-name-artifact-glue = artifact glue
-reagent-desc-artifact-glue = Mixture of glue and artifexium. It can restore durability of nodes in artifact on touch.
+reagent-name-artifact-glue = артефактный клей
+reagent-desc-artifact-glue = Смесь клея и артифексиума. При контакте с артефактом восстанавливает прочность его узлов.
 
-reagent-name-benzene = benzene
-reagent-desc-benzene = An aromatic, slightly carcinogenic, ring of carbon, forming a base for many organic compounds.
+reagent-name-benzene = бензол
+reagent-desc-benzene = Ароматическое углеродное кольцо. Слабо канцерогенен. Служит основой для множества органических соединений.
 
-reagent-name-hydroxide = hydroxide
-reagent-desc-hydroxide = A strong alkaline chemical, forming a base for many organic compounds.
+reagent-name-hydroxide = гидроксид
+reagent-desc-hydroxide = Сильное щелочное вещество, служащее основой многих органических соединений.
 
-reagent-name-sodium-hydroxide = sodium hydroxide
-reagent-desc-sodium-hydroxide = A white, odorless, water-soluble salt that yields an strong alkaline solution in water. Causes burns and vomiting when ingested.
+reagent-name-sodium-hydroxide = гидроксид натрия
+reagent-desc-sodium-hydroxide = Белая водорастворимая соль без запаха. В воде образует сильнощелочной раствор. При проглатывании вызывает ожоги и рвоту.
 
-reagent-name-fersilicite = fersilicite
-reagent-desc-fersilicite = An intermetallic compound with unusual magnetic properties at low temperatures.
+reagent-name-fersilicite = ферсилицит
+reagent-desc-fersilicite = Интерметаллическое соединение с необычными магнитными свойствами при низких температурах.
 
-reagent-name-sodium-polyacrylate = sodium polyacrylate
-reagent-desc-sodium-polyacrylate = A super-absorbent polymer with assorted industrial uses.
+reagent-name-sodium-polyacrylate = полиакрилат натрия
+reagent-desc-sodium-polyacrylate = Сверхвпитывающий полимер, который широко применяется в промышленности.
 
-reagent-name-cellulose = cellulose fibers
-reagent-desc-cellulose = A crystaline polydextrose polymer, plants swear by this stuff.
+reagent-name-cellulose = волокна целлюлозы
+reagent-desc-cellulose = Кристаллический полидекстрозный полимер. Растениям без него никуда.
 
-reagent-name-rororium = rororium
-reagent-desc-rororium = A strange substance which fills the cores of the hivelords that roam the mining asteroid. Thought to be the source of their regenerative powers.
+reagent-name-rororium = ророриум
+reagent-desc-rororium = Странное вещество, заполняющее ядра повелителей улья, обитающих на шахтёрском астероиде. Считается источником их способности к регенерации.
 
-reagent-name-lye = lye
-reagent-desc-lye = A translucent, orange, alkaline solution used in traditional soap production.
+reagent-name-lye = щёлок
+reagent-desc-lye = Полупрозрачный оранжевый щелочной раствор, используемый в традиционном мыловарении.

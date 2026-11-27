@@ -1,2 +1,2 @@
-ent-RevToolkit = revolutionary toolkit
-    .desc = An aspiring revolutionary's toolkit contains almost any tool you will need for furthering the revolution.
+ent-RevToolkit = набор инструментов революционера
+    .desc = В наборе начинающего революционера найдётся почти любой инструмент, который понадобится, чтобы продвинуть революцию.

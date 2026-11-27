@@ -1,51 +1,51 @@
-ent-AppearanceDecapoid = Decapoid appearance
+ent-AppearanceDecapoid = внешность декапода
     .desc = { ent-BaseSpeciesAppearanceDecapoid.desc }
 
-ent-MobDecapoid = Urist McCrab
+ent-MobDecapoid = Урист МакКраб
     .desc = { ent-AppearanceDecapoid.desc }
 
 ent-OrganDecapoid = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = decapoid
+    .suffix = декапод
 
 ent-OrganDecapoidExternal = { ent-OrganDecapoid }
     .desc = { ent-OrganDecapoid.desc }
 
-ent-OrganDecapoidTorso = decapoid torso
+ent-OrganDecapoidTorso = торс декапода
     .desc = { ent-OrganBaseTorso.desc }
 
-ent-OrganDecapoidHead = decapoid head
+ent-OrganDecapoidHead = голова декапода
     .desc = { ent-OrganBaseHead.desc }
 
-ent-OrganDecapoidArmLeft = left decapoid arm
+ent-OrganDecapoidArmLeft = левая рука декапода
     .desc = { ent-OrganBaseArmLeft.desc }
 
-ent-OrganDecapoidArmRight = right decapoid arm
+ent-OrganDecapoidArmRight = правая рука декапода
     .desc = { ent-OrganBaseArmRight.desc }
 
-ent-OrganDecapoidHandLeft = decapoid major claw
+ent-OrganDecapoidHandLeft = большая клешня декапода
     .desc = { ent-OrganBaseHandLeft.desc }
 
-ent-OrganDecapoidHandRight = right minor claw
+ent-OrganDecapoidHandRight = правая малая клешня
     .desc = { ent-OrganBaseHandRight.desc }
 
-ent-OrganDecapoidLegLeft = front decapoid legs
+ent-OrganDecapoidLegLeft = передние ноги декапода
     .desc = { ent-OrganBaseLegLeft.desc }
 
-ent-OrganDecapoidLegRight = back decapoid legs
+ent-OrganDecapoidLegRight = задние ноги декапода
     .desc = { ent-OrganBaseLegRight.desc }
 
-ent-OrganDecapoidFootLeft = front decapoid feet
+ent-OrganDecapoidFootLeft = передние стопы декапода
     .desc = { ent-OrganBaseFootLeft.desc }
 
-ent-OrganDecapoidFootRight = back decapoid feet
+ent-OrganDecapoidFootRight = задние стопы декапода
     .desc = { ent-OrganBaseFootRight.desc }
 
 ent-OrganDecapoidEyes = { ent-OrganBaseEyes }
     .desc = { ent-OrganBaseEyes.desc }
 
-ent-OrganDecapoidLungs = decapoid respiratory system
-    .desc = Extracts dissolved oxygen from water, and utilizes it for cell maintenance.
+ent-OrganDecapoidLungs = дыхательная система декапода
+    .desc = Извлекает растворённый в воде кислород и поддерживает им жизнедеятельность клеток.
 
 ent-OrganDecapoidStomach = { ent-OrganBaseStomach }
     .desc = { ent-OrganBaseStomach.desc }

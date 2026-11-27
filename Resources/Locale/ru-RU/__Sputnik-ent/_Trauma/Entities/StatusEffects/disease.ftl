@@ -1,2 +1,2 @@
-ent-StatusEffectHeartAttack = heart attack
+ent-StatusEffectHeartAttack = сердечный приступ
     .desc = { ent-StatusEffectBase.desc }

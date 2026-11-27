@@ -1,2 +1,2 @@
-action-name-toggle-rootable = Rootable
-action-description-toggle-rootable = Begin or stop being rooted to the floor.
+action-name-toggle-rootable = Укоренение
+action-description-toggle-rootable = Укорениться в полу или вырвать корни.

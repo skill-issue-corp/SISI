@@ -1,2 +1,2 @@
-ent-SlimeGrinder = slime grinder
-    .desc = Produces extracts from a slimes corpse.
+ent-SlimeGrinder = измельчитель слаймов
+    .desc = Производит экстракты из трупа слайма.

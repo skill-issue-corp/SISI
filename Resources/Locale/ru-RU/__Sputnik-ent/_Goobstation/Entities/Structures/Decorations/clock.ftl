@@ -1,2 +1,2 @@
-ent-Clock = wall clock
-    .desc = Would you look at the time!
+ent-Clock = настенные часы
+    .desc = Вы только посмотрите, который час!

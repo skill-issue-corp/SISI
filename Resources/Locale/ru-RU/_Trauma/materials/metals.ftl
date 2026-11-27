@@ -1,3 +1,3 @@
-metal-name-modifier-brass = brass {$name}
-metal-name-modifier-steel = steel {$name}
-metal-name-modifier-plasteel = plasteel {$name}
+metal-name-modifier-brass = латунный {$name}
+metal-name-modifier-steel = стальной {$name}
+metal-name-modifier-plasteel = пласталевый {$name}

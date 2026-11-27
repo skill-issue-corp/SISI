@@ -1,8 +1,8 @@
-ent-FoodCondimentPacketProtein = protein powder packet
-    .desc = Contains 8.333333mL of powdered protein. Mix with 8.333333mL of water.
+ent-FoodCondimentPacketProtein = пакетик протеинового порошка
+    .desc = Содержит 8.333333мл протеинового порошка. Смешайте с 8.333333мл воды.
 
-ent-FoodFreedomCheeseBlock = block of freedom cheese
-    .desc = A solid block of artery-clogging cheese based on an questionable old world recipe. Slice it for your buddies.. or just eat the entire block for yourself, you weirdo.
+ent-FoodFreedomCheeseBlock = брусок сыра свободы
+    .desc = Целый брусок сыра по сомнительному рецепту старого мира. От такого артерии забьются наглухо. Нарежьте для друзей.. или умните весь брусок в одиночку, чудик.
 
-ent-FoodFreedomCheeseSlice = freedom cheese slice
-    .desc = Highly questionable amalgamation of cheddar, fillers and the spirit of freedom. NanoTrasen's healthcare does not cover incidents regarding the consumption of this item.
+ent-FoodFreedomCheeseSlice = ломтик сыра свободы
+    .desc = Крайне сомнительная смесь чеддера, наполнителей и духа свободы. Страховка NanoTrasen не покрывает происшествия, связанные с употреблением этого продукта.

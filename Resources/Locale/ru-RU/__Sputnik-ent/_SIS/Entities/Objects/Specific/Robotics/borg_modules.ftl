@@ -1,11 +1,11 @@
 ent-BaseBorgModuleSecurity = { ent-BaseBorgModule }
     .desc = { ent-BaseBorgModule.desc }
 
-ent-BorgModuleDrozd = Drozd ROW cyborg module
-    .desc = A weapons module that comes with a burst-fire gun.
+ent-BorgModuleDrozd = модуль киборга Drozd ROW
+    .desc = Оружейный модуль, оснащённый оружием для стрельбы очередями.
 
-ent-BorgModuleAdvancedSecurity = advanced security cyborg module
-    .desc = Advanced security module containing lethal weapons.
+ent-BorgModuleAdvancedSecurity = продвинутый модуль киборга СБ
+    .desc = Продвинутый модуль СБ с летальным оружием.
 
-ent-BorgModuleSecurity = security cyborg module
+ent-BorgModuleSecurity = модуль киборга СБ
     .desc = { ent-BaseBorgModuleSecurity.desc }

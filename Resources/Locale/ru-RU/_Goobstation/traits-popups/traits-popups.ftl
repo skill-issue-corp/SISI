@@ -1,2 +1,2 @@
-paralyzed-no-stand = You're paralyzed from the waist down, you can't stand!
-social-anxiety-hugged = Because of their social anxiety, { $user } starts to have a panic attack!
+paralyzed-no-stand = У вас парализованы ноги. Вы не можете встать!
+social-anxiety-hugged = Из-за социофобии у { $user } начинается паническая атака!

@@ -1,35 +1,35 @@
-ent-ToolboxEmergencyFilled = emergency toolbox
+ent-ToolboxEmergencyFilled = аварийный тулбокс
     .desc = { ent-ToolboxEmergency.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-ToolboxElectricalFilled = electrical toolbox
+ent-ToolboxElectricalFilled = электротехнический тулбокс
     .desc = { ent-ToolboxElectrical.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-ToolboxElectricalTurretFilled = electrical toolbox
+ent-ToolboxElectricalTurretFilled = электротехнический тулбокс
     .desc = { ent-ToolboxElectricalTurret.desc }
-    .suffix = Syndicate, Turret, Filled
+    .suffix = Синдикат, Турель, Заполнено
 
-ent-ToolboxArtisticFilled = artistic toolbox
+ent-ToolboxArtisticFilled = художественный тулбокс
     .desc = { ent-ToolboxArtistic.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-ToolboxMechanicalFilled = mechanical toolbox
+ent-ToolboxMechanicalFilled = механический тулбокс
     .desc = { ent-ToolboxMechanical.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-ToolboxMechanicalFilledAllTools = mechanical toolbox
+ent-ToolboxMechanicalFilledAllTools = механический тулбокс
     .desc = { ent-ToolboxMechanical.desc }
-    .suffix = Filled, all tools
+    .suffix = Заполнено, все инструменты
 
 ent-ToolboxSyndicateFilled = { ent-ToolboxSyndicate }
     .desc = { ent-ToolboxSyndicate.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-ToolboxGoldFilled = golden toolbox
+ent-ToolboxGoldFilled = золотой тулбокс
     .desc = { ent-ToolboxGolden.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-FoolboxFilled = { ent-Foolbox }
     .desc = { ent-Foolbox.desc }
-    .suffix = Filled
+    .suffix = Заполнено

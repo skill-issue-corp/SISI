@@ -1,5 +1,5 @@
-ent-XenobiologyBountyComputerCircuitboard = xenobiological bounty console board
-    .desc = A computer printed circuit board for a xenobiological bounty console.
+ent-XenobiologyBountyComputerCircuitboard = плата консоли заказов ксенобиологии
+    .desc = Компьютерная печатная плата консоли заказов ксенобиологии.
 
-ent-VirologyComputerCircuitboard = virology computer board
-    .desc = A computer printed circuit board for a virology console.
+ent-VirologyComputerCircuitboard = плата компьютера вирусологии
+    .desc = Компьютерная печатная плата консоли вирусологии.

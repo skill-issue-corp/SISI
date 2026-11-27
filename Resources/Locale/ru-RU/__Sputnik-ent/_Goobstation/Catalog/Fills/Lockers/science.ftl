@@ -1,3 +1,3 @@
 ent-LockerScienceFilledXenobiology = { ent-LockerScientist }
     .desc = { ent-LockerScientist.desc }
-    .suffix = Filled, Xenobiology
+    .suffix = Заполнено, Ксенобиология

@@ -1,32 +1,32 @@
-ent-MutationNervousness = Nervousness
-    .desc = Causes the holder to stutter.
+ent-MutationNervousness = Нервозность
+    .desc = Заставляет носителя заикаться.
 
-ent-MutationWacky = Wacky
-    .desc = You are not a clown. You are the entire circus.
+ent-MutationWacky = Чудачество
+    .desc = Вы не клоун. Вы весь цирк.
 
-ent-MutationHeckaciousLarincks = Heckacious Larincks
-    .desc = duge what is WISH your words man...........
+ent-MutationHeckaciousLarincks = Чудищная Гортань
+    .desc = чё за ЖЭЛАНИЕ у тя со словами чувак...........
 
-ent-MutationMute = Mute
-    .desc = Completely inhibits the vocal section of the brain.
+ent-MutationMute = Немота
+    .desc = Полностью подавляет работу речевого отдела мозга.
 
-ent-MutationUnintelligible = Unintelligible
-    .desc = Partially inhibits the vocal center of the brain, severely distorting speech.
+ent-MutationUnintelligible = Неразборчиво
+    .desc = Частично подавляет работу речевого центра мозга, сильно искажая речь.
 
-ent-MutationSwedish = Swedish
-    .desc = A horrible mutation originating from the distant past. Thought to be eradicated after the incident in 2037.
+ent-MutationSwedish = Шведский
+    .desc = Ужасная мутация из далёкого прошлого. Считалось, что она исчезла после инцидента в 2037 году.
 
-ent-MutationChav = Chav
-    .desc = Unknown
+ent-MutationChav = Гопник
+    .desc = Неизвестно
 
-ent-MutationElvis = Elvis
-    .desc = A terrifying mutation named after its 'patient-zero'.
+ent-MutationElvis = Элвис
+    .desc = Жуткая мутация, названная в честь своего «нулевого пациента».
 
-ent-MutationStoner = Stoner
-    .desc = A common mutation that severely decreases intelligence.
+ent-MutationStoner = Укурок
+    .desc = Распространённая мутация, которая заметно снижает интеллект.
 
-ent-MutationMedieval = Medieval
-    .desc = A horrible mutation originating from the distant past, thought to have once been a common gene in all of old world Europe.
+ent-MutationMedieval = Средневековый
+    .desc = Ужасная мутация из далёкого прошлого. Считается, что когда-то этот ген был распространён по всей Европе старого Света.
 
-ent-MutationPigLatin = Pig Latin
-    .desc = Historians say back in the 2020's humanity spoke entirely in this mystical language.
+ent-MutationPigLatin = Свиная Латынь
+    .desc = Историки утверждают, что в 2020-х годах человечество изъяснялось исключительно на этом загадочном языке.

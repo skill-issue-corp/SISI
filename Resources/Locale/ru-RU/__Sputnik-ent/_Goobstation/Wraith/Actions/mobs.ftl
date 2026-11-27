@@ -1,38 +1,38 @@
 ent-BaseWraithMobAction = { ent-BaseWraithAction }
     .desc = { ent-BaseWraithAction.desc }
 
-ent-ActionRally = Rally
-    .desc = Buff all surrounding critters to help you fight.
+ent-ActionRally = Воодушевить
+    .desc = Усильте всех существ поблизости, чтобы они помогли вам в бою.
 
-ent-ActionSummonLesserSkeleton = Summon lesser skeleton
-    .desc = Materialize a skeleton from the void to help you.
+ent-ActionSummonLesserSkeleton = Призвать малого скелета
+    .desc = Вызовите из пустоты скелета себе на подмогу.
 
-ent-ActionTentacleHook = Tentacle Hook
-    .desc = Launch a tentacle at your target and drag it to you
+ent-ActionTentacleHook = Щупальце-Крюк
+    .desc = Выбросьте щупальце в цель и подтяните её к себе
 
-ent-ActionShuffle = Shuffle
-    .desc = Squish yourself down to cancel stuns, squeeze through doors and escape assailants.
+ent-ActionShuffle = Перемешать
+    .desc = Сожмитесь, чтобы сбросить оглушение, протиснуться сквозь двери и ускользнуть от нападающих.
 
-ent-ActionLash = Lash
-    .desc = Go into a bloody frenzy on a target and rip them to shreds.
+ent-ActionLash = Хлестать
+    .desc = Набросьтесь на цель в кровавом исступлении и разорвите её на куски.
 
-ent-ActionRushdown = Rushdown
-    .desc = Leap forward and knock down those in your way.
+ent-ActionRushdown = Натиск
+    .desc = Прыгните вперёд, сбивая с ног всех на своём пути.
 
-ent-ActionCloak = Cloak
-    .desc = Slip into the void and make yourself hard to discern for a short time.
+ent-ActionCloak = Скрыться
+    .desc = Ускользните в пустоту и ненадолго станьте едва различимым.
 
-ent-ActionEatFilth = Eat filth
-    .desc = Eat some filth, healing you a little bit and slowly growing.
+ent-ActionEatFilth = Съесть грязь
+    .desc = Съешьте немного грязи, чтобы слегка подлечиться и постепенно вырасти.
 
-ent-ActionRatBite = Bite
-    .desc = Bite a living creature, doing a little damage and injecting them with some rat poison.
+ent-ActionRatBite = Укусить
+    .desc = Укусите живое существо, нанеся небольшой урон и введя немного крысиного яда.
 
-ent-ActionRatDen = Spawn rat den
-    .desc = Spawn your rat nest, healing you when in range and summoning some tiny diseased mice.
+ent-ActionRatDen = Создать крысиное логово
+    .desc = Создайте крысиное гнездо, которое лечит вас поблизости и призывает маленьких больных мышей.
 
-ent-ActionRatSlam = Slam
-    .desc = Slam into something. Emits a powerful shockwave on collision.
+ent-ActionRatSlam = Таран
+    .desc = Врежьтесь во что-нибудь. При столкновении возникает мощная ударная волна.
 
-ent-ActionChooseVoidCreature = Choose your fighter
-    .desc = Choose one of the three void creatures to spawn in.
+ent-ActionChooseVoidCreature = Выберите своего бойца
+    .desc = Выберите, в каком из трёх существ пустоты появиться.

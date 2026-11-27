@@ -17,22 +17,22 @@ ent-SlaughterDevourObjective = { ent-SlaughterBaseObjective }
     .desc = { ent-SlaughterBaseObjective.desc }
 
 ent-AnnihilateAllJanitorsObjectiveFluff = { ent-SlaughterFluffBaseObjective }
-    .desc = Wipe out all Janitors and their synthetic kin, no broom shall stand.
+    .desc = Истребите всех Уборщиков и их синтетических собратьев, пусть ни одна метла не уцелеет.
 
 ent-SpareCrewObjectiveFluff = { ent-SlaughterFluffBaseObjective }
-    .desc = Let some survive… only to suffer longer.
+    .desc = Пусть кое-кто выживет… чтобы подольше помучиться.
 
 ent-HuntTheBraveObjectiveFluff = { ent-SlaughterFluffBaseObjective }
-    .desc = Find and punish those foolish enough to face you.
+    .desc = Найдите и накажите тех, у кого хватило глупости бросить вам вызов.
 
 ent-HuntTheCowardsObjectiveFluff = { ent-SlaughterFluffBaseObjective }
-    .desc = Track down the ones who run, fear only prolongs their agony.
+    .desc = Выследите беглецов, страх лишь продлит их агонию.
 
 ent-ShowCrewPowerObjectiveFluff = { ent-SlaughterFluffBaseObjective }
-    .desc = Let them witness your awful might firsthand.
+    .desc = Пусть они своими глазами увидят ваше ужасающее могущество.
 
 ent-DriveInsaneObjectiveFluff = { ent-SlaughterFluffBaseObjective }
-    .desc = Whisper they break, madness is your gift.
+    .desc = Шепните, и они сломаются. Безумие — ваш дар.
 
 ent-SpreadBloodObjectiveFluff = { ent-SlaughterFluffBaseObjective }
-    .desc = Paint it in red, let no clean tile remain.
+    .desc = Раскрасьте всё в красный, пусть не останется ни одного чистого тайла.

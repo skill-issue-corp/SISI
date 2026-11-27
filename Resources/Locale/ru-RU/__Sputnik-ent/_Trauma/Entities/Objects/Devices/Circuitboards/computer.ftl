@@ -1,5 +1,5 @@
-ent-GeneticsConsoleCircuitboard = genetics computer board
-    .desc = A computer printed circuit board for a genetics console.
+ent-GeneticsConsoleCircuitboard = компьютерная плата консоли генетики
+    .desc = Компьютерная печатная плата для консоли генетики.
 
-ent-CircuitEditorConsoleCircuitboard = circuit editor console board
-    .desc = A computer printed circuit board for a circuit editor console.
+ent-CircuitEditorConsoleCircuitboard = компьютерная плата консоли редактора схем
+    .desc = Компьютерная печатная плата для консоли редактора схем.

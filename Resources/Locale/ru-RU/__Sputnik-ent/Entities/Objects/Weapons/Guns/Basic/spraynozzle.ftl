@@ -1,2 +1,2 @@
-ent-WeaponSprayNozzle = spray nozzle
-    .desc = A high-powered spray nozzle used in conjunction with a backpack-mounted water tank.
+ent-WeaponSprayNozzle = распылительная насадка
+    .desc = Мощная распылительная насадка, которая работает вместе с заплечным баком для воды.

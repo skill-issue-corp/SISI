@@ -7,11 +7,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-docking-component-dock = Dock
-docking-component-undock = Undock
+docking-component-dock = Пристыковаться
+docking-component-undock = Отстыковаться
 
-cmd-dock-desc = Attempts to dock 2 airlocks together. Doesn't check whether it is valid.
-cmd-dock-help = dock <airlock entityuid1> <airlock entityuid2>
+cmd-dock-desc = Пытается состыковать 2 шлюза. Возможность стыковки не проверяется.
+cmd-dock-help = dock <EntityUid шлюза 1> <EntityUid шлюза 2>
 
-cmd-dock-success = Successfully docked
-cmd-dock-fail = Unable to dock
+cmd-dock-success = Стыковка завершена
+cmd-dock-fail = Не удалось состыковать

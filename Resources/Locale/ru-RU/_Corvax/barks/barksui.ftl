@@ -1,2 +1,2 @@
-ui-options-barks-volume = Voice volume:
+ui-options-barks-volume = Громкость голоса:
 humanoid-profile-editor-voice-play = ▶

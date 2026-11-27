@@ -1,6 +1,6 @@
-guide-entry-cosmiccult = Cosmic Cult
-guide-entry-cosmiccult-monument = The Monument
-guide-entry-cosmiccult-influences = Influences
-guide-entry-cosmiccult-deconversion = Deconversion
+guide-entry-cosmiccult = Космический Культ
+guide-entry-cosmiccult-monument = Монумент
+guide-entry-cosmiccult-influences = Влияния
+guide-entry-cosmiccult-deconversion = Деконвертация
 
-guide-entry-cosmiccolossus = Entropic Colossus
+guide-entry-cosmiccolossus = Энтропийный Колосс

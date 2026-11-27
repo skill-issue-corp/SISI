@@ -1,5 +1,5 @@
-ent-ChopSticks = chopsticks
-    .desc = A very traditional utensil.
+ent-ChopSticks = палочки для еды
+    .desc = Очень традиционный столовый прибор.
 
-ent-PairedChopsticks = paired chopsticks
-    .desc = You should probably separate them.
+ent-PairedChopsticks = соединённые палочки для еды
+    .desc = Наверное, их стоит разделить.

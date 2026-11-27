@@ -4,183 +4,183 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-spellbook-mime-malaise-name = Mime Malaise
+spellbook-mime-malaise-name = Мимическая Апатия
 spellbook-mime-malaise-desc =
-    A spell popular with theater nerd wizards and contrarian pranksters, this spell will put on a mime costume on the target, stun them so that they may contemplate Art, and silence them.
-    Effects are permanent on non-wizards.
-    Learning this spell allows you to get a set of mime wizard robes and hat for free!
-    Requires wizard's robe and hat to cast.
+    Заклинание, любимое театралами-волшебниками и пранкерами, которым лишь бы сделать назло. Оно наряжает цель в костюм мима, оглушает её, чтобы она поразмыслила об Искусстве, и лишает голоса.
+    На тех, кто не волшебник, эффект действует вечно.
+    Изучив это заклинание, вы бесплатно получите мантию и шляпу мима-волшебника!
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-banana-touch-name = Banana Touch
+spellbook-banana-touch-name = Прикосновение Банана
 spellbook-banana-touch-desc =
-    A spell popular at wizard birthday parties, this spell will put on a clown costume on the target, stun them with a loud HONK, and mutate them to make them more entertaining!
-    Effects are permanent on non-wizards.
-    Learning this spell allows you to get a set of clown wizard robes and hat for free!
-    Requires wizard's robe and hat to cast.
+    Любимое заклинание на днях рождения волшебников. Оно наряжает цель в костюм клоуна, оглушает громким ХОНКОМ и мутирует её, чтобы с ней было веселее!
+    На тех, кто не волшебник, эффект действует вечно.
+    Изучив это заклинание, вы бесплатно получите мантию и шляпу клоуна-волшебника!
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-cluwne-curse-name = Curse of the Cluwne
+spellbook-cluwne-curse-name = Проклятие Клувеня
 spellbook-cluwne-curse-desc =
-    Turns the target into a fat and cursed monstrosity of a clown.
-    Learning this spell allows you to get a set of clown wizard robes and hat for free!
-    Requires wizard's robe and hat to cast.
+    Превращает цель в жирное проклятое подобие клоуна.
+    Изучив это заклинание, вы бесплатно получите мантию и шляпу клоуна-волшебника!
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-magic-missile-name = Magic Missile
+spellbook-magic-missile-name = Волшебная Стрела
 spellbook-magic-missile-desc =
-    This spell fires several stunning, slow moving, homing magic projectiles at nearby targets.
-    Requires wizard's robe and hat to cast.
+    Выпускает по ближайшим целям несколько медленных самонаводящихся магических снарядов, которые оглушают при попадании.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-disable-tech-name = Disable Technology
+spellbook-disable-tech-name = Отключение Техники
 spellbook-disable-tech-desc =
-    This spell disables all weapons, cameras and most other technology in range.
-    Requires wizard's robe and hat to cast.
+    Отключает всё оружие, камеры и большинство другой техники в радиусе действия.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-smoke-name = Smoke
+spellbook-smoke-name = Дым
 spellbook-smoke-desc =
-    This spell spawns a cloud of smoke at your location. People within will begin to choke and drop their items.
-    Doesn't require wizard's robe and hat to cast.
+    Создаёт облако дыма вокруг вас. Тот, кто попадёт в облако, начнёт задыхаться и ронять предметы.
+    Для применения мантия и шляпа волшебника не нужны.
 
-spellbook-repulse-name = Repulse
+spellbook-repulse-name = Отталкивание
 spellbook-repulse-desc =
-    This spell throws everything around the user away. Thrown mobs are stunned briefly.
-    Requires wizard's robe and hat to cast.
+    Отбрасывает всё вокруг заклинателя. Отброшенные существа ненадолго оглушаются.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-stop-time-name = Stop Time
+spellbook-stop-time-name = Остановка Времени
 spellbook-stop-time-desc =
-    This spell stops time for everyone except for you and whoever learned this spell, allowing you and your guardian to move freely while your enemies and even projectiles are frozen.
-    Requires wizard's robe and hat to cast.
+    Останавливает время для всех, кроме вас и тех, кто изучил это заклинание. Вы и ваш защитник можете свободно двигаться, пока враги и даже снаряды застыли на месте.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-corpse-explosion-name = Corpse Explosion
+spellbook-corpse-explosion-name = Взрыв Трупа
 spellbook-corpse-explosion-desc =
-    Fills a corpse with energy, causing it to explode violently. Knocks down people and stuns silicons. It applies up to 100 brute damage to others surrounding the corpse; the damage lowering further out someone is. Wizard is immune to the effects of the explosion.
-    Doesn't require wizard's robe and hat to cast.
+    Наполняет труп энергией, отчего он взрывается. Взрыв сбивает людей с ног, оглушает синтетиков и наносит окружающим до 100 механического урона. Чем дальше от тела, тем меньше урон. На волшебника взрыв не действует.
+    Для применения мантия и шляпа волшебника не нужны.
 
-spellbook-blind-name = Blind
+spellbook-blind-name = Ослепление
 spellbook-blind-desc =
-    This spell temporarily blinds a single target.
-    Doesn't require wizard's robe and hat to cast.
+    Временно ослепляет одну цель.
+    Для применения мантия и шляпа волшебника не нужны.
 
-spellbook-bind-soul-name = Bind Soul
+spellbook-bind-soul-name = Связывание Души
 spellbook-bind-soul-desc =
-    A spell that binds your soul to an item in your hands. Binding your soul to an item will turn you into an immortal Lich. So long as the item remains intact and is on the same plane as your dead body, you will revive from death, no matter the circumstances.
-    If the item is on another grid or in space when you die, it itself or it's containing container (if any) will reappear somewhere on your dead body's grid or on the station if your body is not on any grid.
-    You can't bind soul while in silicon form.
-    Cannot be refunded.
-    Doesn't require wizard's robe and hat to cast.
+    Заклинание привязывает вашу душу к предмету у вас в руках и превращает вас в бессмертного Лича. Пока предмет цел и находится на одной плоскости с вашим телом, вы воскреснете, как бы ни погибли.
+    Если при вашей смерти предмет окажется на другой сетке или в космосе, он или содержащий его контейнер (если есть) появится где-то на сетке с вашим телом. Если тело вне сетки, предмет появится на станции.
+    В облике синтетика связать душу нельзя.
+    Нельзя вернуть.
+    Для применения мантия и шляпа волшебника не нужны.
 
-spellbook-mutate-name = Mutate
+spellbook-mutate-name = Мутация
 spellbook-mutate-desc =
-    Temporarily transforms you into a stun-immune hulk, capable of destroying walls with their massive strength and of shooting lasers using their massive minds.
-    Doesn't work in silicon form.
-    Requires wizard's robe and hat to cast.
+    Временно превращает вас в халка, невосприимчивого к оглушению. Благодаря огромной силе он ломает стены, а благодаря огромной силе мысли стреляет лазерами.
+    Не действует в облике синтетика.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-tesla-blast-name = Tesla Blast
+spellbook-tesla-blast-name = Взрыв Теслы
 spellbook-tesla-blast-desc =
-    Charge up a tesla arc and release it at random nearby targets! You can move freely while it charges. The arc jumps between targets and stuns them. Ignores insulation. You are immune to your own lightning.
-    Activate the spell again while it is charging to release the tesla blast, its power scales with charge time.
-    If it fully charges up, you'll lose control of the bolt and the spell will do nothing.
-    Requires wizard's robe and hat to cast.
+    Зарядите дугу теслы и выпустите её в случайные цели поблизости! Во время зарядки можно двигаться. Дуга перескакивает между целями и оглушает их, игнорируя изоляцию. Ваша собственная молния на вас не действует.
+    Пока заклинание заряжается, примените его снова, чтобы выпустить разряд теслы. Чем дольше зарядка, тем мощнее разряд.
+    Если зарядка дойдёт до предела, вы потеряете контроль над разрядом и заклинание не сработает.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-lightning-bolt-name = Lightning Bolt
+spellbook-lightning-bolt-name = Молния
 spellbook-lightning-bolt-desc =
-    Fire a lightning bolt at your foes! Ignores insulation, but can't stun. You are immune to your own lightning.
-    Doesn't require wizard's robe and hat to cast.
+    Выстрелите молнией во врагов! Она игнорирует изоляцию, но не оглушает. Ваша собственная молния на вас не действует.
+    Для применения мантия и шляпа волшебника не нужны.
 
-spellbook-homing-toolbox-name = Homing Toolbox
+spellbook-homing-toolbox-name = Самонаводящийся Ящик
 spellbook-homing-toolbox-desc =
-    This spell summons and throws a magical homing toolbox at your opponent that knocks down on hit.
-    Learning this spell allows you to get a tider wizard bundle for free!
-    Doesn't require wizard's robe and hat to cast.
+    Призывает волшебный самонаводящийся ящик с инструментами и бросает его во врага, сбивая с ног при попадании.
+    Изучив это заклинание, вы бесплатно получите набор волшебника-тайдера!
+    Для применения мантия и шляпа волшебника не нужны.
 
-spellbook-spell-cards-name = Spell Cards
+spellbook-spell-cards-name = Карты Заклинаний
 spellbook-spell-cards-desc =
-    Blazing hot rapid-fire homing cards. Send your foes to the shadow realm with their mystical power!
-    Doesn't require wizard's robe and hat to cast.
+    Раскалённые самонаводящиеся карты, летящие одна за другой. Отправьте противников в мир теней их мистической силой!
+    Для применения мантия и шляпа волшебника не нужны.
 
-spellbook-arcane-barrage-name = Arcane Barrage
+spellbook-arcane-barrage-name = Мистический Шквал
 spellbook-arcane-barrage-desc =
-    Fire a torrent of arcane energy at your foes with this powerful spell. Shoots faster than Lesser Summon Guns, but won't stun targets. The spell is more effective when both of your hands are free.
-    Learning this spell makes you unable to learn Lesser Summon Guns.
-    Requires wizard's robe and hat to cast.
+    Обрушьте на врагов поток мистической энергии. Стреляет быстрее Малого Призыва Оружия, но не оглушает. Заклинание сильнее, когда обе руки свободны.
+    Изучив это заклинание, вы не сможете изучить Малый Призыв Оружия.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-lesser-summon-guns-name = Lesser Summon Guns
+spellbook-lesser-summon-guns-name = Малый Призыв Оружия
 spellbook-lesser-summon-guns-desc =
-    Why reload when you have infinite guns? Summons an unending stream of bolt action rifles that deal little damage, but will stun targets. The spell is more effective when both of your hands are free.
-    Learning this spell makes you unable to learn Arcane Barrage.
-    Requires wizard's robe and hat to cast.
+    Зачем перезаряжать, когда оружие бесконечно? Призывает нескончаемый поток винтовок со скользящим затвором. Они наносят мало урона, но оглушают. Заклинание сильнее, когда обе руки свободны.
+    Изучив это заклинание, вы не сможете изучить Мистический Шквал.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-barnyard-name = Curse of the Barnyard
+spellbook-barnyard-name = Проклятие Скотного Двора
 spellbook-barnyard-desc =
-    This spell dooms an unlucky soul to possess the speech and facial attributes of a barnyard animal.
-    Doesn't require wizard's robe and hat to cast.
+    Проклинает несчастную душу, наделяя её голосом и мордой дворового животного.
+    Для применения мантия и шляпа волшебника не нужны.
 
-spellbook-scream-for-me-name = Scream For Me
+spellbook-scream-for-me-name = Кричи Для Меня
 spellbook-scream-for-me-desc =
-    Sadistic sanguine spell that spills all victim's blood, causing them to die within seconds.
-    Requires wizard's robe and hat to cast.
+    Садистское заклинание крови. Жертва теряет всю кровь и умирает за считанные секунды.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-instant-summons-name = Instant Summons
+spellbook-instant-summons-name = Мгновенный Призыв
 spellbook-instant-summons-desc =
-    This spell can be used to recall a previously marked item to your hand from anywhere in the universe.
-    Activate the spell while holding an item in your hands to mark it. Activate it again to recall the item to an empty hand. You can mark another item, this will remove the old mark.
-    If the marked item is in container, the entire container will be summoned.
-    Doesn't require wizard's robe and hat to cast.
+    Позволяет вернуть заранее помеченный предмет себе в руку из любой точки вселенной.
+    Примените заклинание с предметом в руках, чтобы пометить его. Примените снова, чтобы вернуть предмет в пустую руку. Пометка другого предмета снимает прежнюю метку.
+    Если помеченный предмет внутри контейнера, вы призовёте весь контейнер.
+    Для применения мантия и шляпа волшебника не нужны.
 
-spellbook-teleport-name = Teleport
+spellbook-teleport-name = Телепортация
 spellbook-teleport-desc =
-    Teleports you to an area of your selection.
-    Requires wizard's robe and hat to cast.
+    Телепортирует вас в выбранную область.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-the-traps-name = The Traps!
+spellbook-the-traps-name = Ловушки!
 spellbook-the-traps-desc =
-    Summon a number of traps around you. They will damage and enrage any enemies that step on them. You are immune to your own traps.
-    Requires wizard's robe and hat to cast.
+    Призовите несколько ловушек вокруг себя. Они нанесут урон и разозлят любого врага, который на них наступит. Ваши ловушки на вас не действуют.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-bees-name = Lesser Summon Bees
+spellbook-bees-name = Малый Призыв Пчёл
 spellbook-bees-desc =
-    This spell magically kicks a transdimensional beehive, instantly summoning a swarm of bees to your location. These bees are not friendly to anyone except wizards. Summoned bees inject various toxins into their victims.
-    Requires wizard's robe and hat to cast.
+    Магическим пинком встряхивает межпространственный улей и мгновенно призывает рой пчёл к вам. Пчёлы дружелюбны только к волшебникам. Они впрыскивают жертвам разные токсины.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-simians-name = Summon Simians
+spellbook-simians-name = Призыв Приматов
 spellbook-simians-desc =
-    This spell reaches deep into the elemental plane of bananas (the monkey one, not the clown one), and summons lesser monkeys and gorillas in front of you that will promptly flip out and attack everything in sight. Fun! The monkeys are not friendly to anyone except wizards.
-    Upgrading this spell also increases summonned monkey amount, and their gear gets stronger as well!
-    Cannot be refunded once fully upgraded.
-    Requires wizard's robe and hat to cast.
+    Заклинание проникает вглубь стихийного измерения бананов (обезьяньего, а не клоунского) и призывает перед вами мелких обезьян и горилл. Те сразу взбесятся и нападут на всё, что увидят. Веселье! Обезьяны дружелюбны только к волшебникам.
+    Улучшение заклинания увеличивает число обезьян, и их снаряжение тоже становится лучше!
+    После полного улучшения нельзя вернуть.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-sanguine-strike-name = Exsanguinating Strike
+spellbook-sanguine-strike-name = Обескровливающий Удар
 spellbook-sanguine-strike-desc =
-    Sanguine spell that enchants your next weapon strike to deal more damage, heal you for damage dealt, and refill blood.
-    Damage dealt is either double damage, or +20 damage, whichever is less.
-    Requires wizard's robe and hat to cast.
+    Заклинание крови зачаровывает ваш следующий удар оружием. Он нанесёт больше урона, исцелит вас на величину нанесённого урона и восполнит запасы крови.
+    Урон удваивается или увеличивается на +20 — применяется меньший из этих вариантов.
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-chuuni-name = Chuuni Invocations
+spellbook-chuuni-name = Чуунибьё-Заклинания
 spellbook-chuuni-desc =
-    Replaces your wizard hat (if you have one) with an unremovable medical eyepatch, which still allows you to cast spells requiring a robe.
-    Makes all your spells shout invocations, and the invocations become... stupid. You heal slightly after casting a spell with a delay of 5 seconds.
-    Cannot be refunded.
-    Doesn't require wizard's robe and hat to cast.
+    Заменяет вашу шляпу волшебника (если она есть) несъёмной медицинской повязкой на глаз. Вы по-прежнему сможете применять заклинания, требующие мантии.
+    Заставляет вас выкрикивать формулы всех заклинаний, а формулы становятся... дурацкими. Через 5 секунд после применения заклинания вы немного исцеляетесь.
+    Нельзя вернуть.
+    Для применения мантия и шляпа волшебника не нужны.
 
-spellbook-swap-name = Swap
+spellbook-swap-name = Обмен
 spellbook-swap-desc =
-    Switch places with any living target.
-    Alt-click: Mark a secondary swap target, in which case you'll go to the position occupied by your primary target, they'll go to the one occupied by your secondary, and your secondary target will end up where you originally were. The secondary swap target will be discarded once you swap, cancel the action or alt-click yourself.
-    Doesn't require wizard's robe and hat to cast.
+    Поменяйтесь местами с любой живой целью.
+    Нажатие с Alt помечает вторую цель для обмена. Вы займёте место первой цели, она — место второй, а вторая окажется на вашем исходном месте. Метка второй цели исчезает после обмена, отмены действия или нажатия на себя с Alt.
+    Для применения мантия и шляпа волшебника не нужны.
 
-spellbook-soul-tap-name = Soul Tap
+spellbook-soul-tap-name = Черпание Души
 spellbook-soul-tap-desc =
-    Taps your soul. Trades 20 max health for a refresh of all of your spells. Does not work if you have no soul, from formerly using Bind Soul.
-    Requires wizard's robe and hat to cast.
+    Черпает силу вашей души. Жертвует 20 максимального здоровья, чтобы сразу перезарядить все заклинания. Не действует, если у вас больше нет души после применения «Связывания Души».
+    Для применения нужны мантия и шляпа волшебника.
 
-spellbook-thrown-lightning-name = Thrown Lightning
+spellbook-thrown-lightning-name = Брошенная Молния
 spellbook-thrown-lightning-desc =
-    Forged from eldritch energies, a packet of pure power, known as a spell packet will appear in your hand, that when thrown will paralyze your target.
-    Doesn't require wizard's robe and hat to cast.
+    Потусторонняя энергия создаёт у вас в руке сгусток чистой силы. Бросьте этот магический сгусток, чтобы парализовать цель.
+    Для применения мантия и шляпа волшебника не нужны.
 
-spellbook-knock-name = Knock
+spellbook-knock-name = Взлом
 spellbook-knock-desc =
-    This spell opens nearby doors and lockers.
-    Doesn't require wizard's robe and hat to cast.
+    Открывает ближайшие двери и шкафчики.
+    Для применения мантия и шляпа волшебника не нужны.
 
 spellbook-smite-desc =
-    This spell charges your hand with an unholy energy that can be used to cause a touched victim to violently explode.
-    Requires wizard's robe and hat to cast.
+    Наполняет вашу руку нечестивой энергией. Коснитесь жертвы, и она взорвётся.
+    Для применения нужны мантия и шляпа волшебника.

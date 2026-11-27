@@ -7,8 +7,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-all-at-once-title = All at once
-all-at-once-description = It's just not your day...
+all-at-once-title = Всё сразу
+all-at-once-description = Просто сегодня не ваш день...
 
-aller-at-once-title = Aller at once
-aller-at-once-description = You have fucked up now. You *have* fucked up now.
+aller-at-once-title = И ещё сверху
+aller-at-once-description = Вот теперь вы проебались. Вы *точно* проебались.

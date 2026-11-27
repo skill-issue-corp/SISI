@@ -1,4 +1,4 @@
 trait-language-foreigner-inky-desc =
-    You can't understand nor speak the common language, Tau-Ceti Basic. That's it.
-    You get a complementary mangoe translator
-trait-language-foreigner-inky-name = True Foreigner
+    Вы не понимаете общий язык, Базовый Тау-Цети, и не говорите на нём. Вот и всё.
+    Вам бесплатно выдадут переводчик-манго
+trait-language-foreigner-inky-name = Настоящий Иностранец

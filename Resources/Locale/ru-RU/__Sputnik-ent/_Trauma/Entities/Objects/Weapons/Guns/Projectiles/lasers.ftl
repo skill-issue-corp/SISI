@@ -1,16 +1,16 @@
-ent-SidearmBulletBase = phaser bolt
+ent-SidearmBulletBase = снаряд фазера
     .desc = { ent-BaseBullet.desc }
 
 ent-LaserSidearmBullet = { ent-SidearmBulletBase }
     .desc = { ent-SidearmBulletBase.desc }
 
-ent-LaserGunBulletPractice = laser
+ent-LaserGunBulletPractice = лазер
     .desc = { ent-SidearmBulletBase.desc }
 
-ent-LaserGunBullet = laser
+ent-LaserGunBullet = лазер
     .desc = { ent-SidearmBulletBase.desc }
 
-ent-LaserCarbineBullet = laser
+ent-LaserCarbineBullet = лазер
     .desc = { ent-SidearmBulletBase.desc }
 
 ent-PulseGunBullet = { ent-SidearmBulletBase }
@@ -28,7 +28,7 @@ ent-XrayCannonBullet = { ent-SidearmBulletBase }
 ent-LaserCannonBullet = { ent-SidearmBulletBase }
     .desc = { ent-SidearmBulletBase.desc }
 
-ent-MagFedLaserBase = laser
+ent-MagFedLaserBase = лазер
     .desc = { ent-BaseBullet.desc }
 
 ent-RevolverLaser = { ent-MagFedLaserBase }
@@ -40,7 +40,7 @@ ent-RevolverLaserIon = { ent-MagFedLaserBase }
 ent-RevolverLaserXray = { ent-MagFedLaserBase }
     .desc = { ent-MagFedLaserBase.desc }
 
-ent-RevolverLaserOverclocked = laser
+ent-RevolverLaserOverclocked = лазер
     .desc = { ent-MagFedLaserBase.desc }
 
 ent-SMGLaser = { ent-MagFedLaserBase }

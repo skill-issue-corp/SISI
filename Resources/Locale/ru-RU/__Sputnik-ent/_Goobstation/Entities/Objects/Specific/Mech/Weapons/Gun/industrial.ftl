@@ -1,3 +1,3 @@
-ent-WeaponMechIndustrialKineticAccelerator = proto-kinetic launcher
-    .desc = Fires huge damage kinetic bolts at a medium range.
-    .suffix = Mech Weapon, Gun, Industrial, Kinetic Accelerator
+ent-WeaponMechIndustrialKineticAccelerator = протокинетическое орудие
+    .desc = Стреляет мощными кинетическими зарядами на средней дистанции.
+    .suffix = Оружие Меха, Стрелковое, Промышленное, Кинетический Ускоритель

@@ -7,6 +7,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-chat-radio-future = Future
+chat-radio-future = Будущее
 
-chat-radio-radioshow = Station Radio
+chat-radio-radioshow = Радио Станции

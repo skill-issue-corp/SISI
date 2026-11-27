@@ -1,5 +1,5 @@
-ent-PsiMonkeyBlueBrain = blue brain
-    .desc = The strange-looking blue brain extracted from the psy-monkey's skull holds scientific value.
+ent-PsiMonkeyBlueBrain = синий мозг
+    .desc = Странного вида синий мозг, извлечённый из черепа пси-обезьяны, представляет научную ценность.
 
-ent-PsiMonkeyRedBrain = red brain
-    .desc = The strange-looking red brain extracted from the psy-monkey's skull holds great scientific value.
+ent-PsiMonkeyRedBrain = красный мозг
+    .desc = Странного вида красный мозг, извлечённый из черепа пси-обезьяны, представляет большую научную ценность.

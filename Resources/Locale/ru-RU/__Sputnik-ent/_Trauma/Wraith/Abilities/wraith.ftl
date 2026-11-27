@@ -1,2 +1,2 @@
-ent-MidroundWraithAbilities = Midround Wraith Abilities
+ent-MidroundWraithAbilities = Способности Фантома Мидраунда
     .desc = { "" }

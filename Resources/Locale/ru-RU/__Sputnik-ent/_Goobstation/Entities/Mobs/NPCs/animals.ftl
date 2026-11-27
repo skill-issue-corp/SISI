@@ -1,49 +1,49 @@
-ent-MobGondola = gondola
-    .desc = Having no hands he embodies the Taoist principle of wu-wei (non-action) while his smiling facial expression shows his utter and complete acceptance of the world as it is.
+ent-MobGondola = гондола
+    .desc = Отсутствие рук воплощает даосский принцип у-вэй (недеяния), а улыбка выражает полное и безоговорочное принятие мира таким, какой он есть.
 
-ent-MobMothSyndie = syndiroach
-    .desc = Explosive moth.
+ent-MobMothSyndie = синдимоль
+    .desc = Взрывная моль.
 
-ent-MobSyndieAngryBee = syndie bee
-    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.
-    .suffix = Angry, syndicate
+ent-MobSyndieAngryBee = пчела синдиката
+    .desc = Какая славная пчёлка. О нет, она злится и хочет мою пиццу.
+    .suffix = Злая, синдикат
 
 ent-MobAngryBeeWeak = { ent-MobAngryBee }
     .desc = { ent-MobAngryBee.desc }
-    .suffix = Angry, weak
+    .suffix = Злая, слабая
 
-ent-MobLootbug = lootbug
-    .desc = It eats metal, maybe it's eaten something of value?
+ent-MobLootbug = жук-барахольщик
+    .desc = Он ест металл, может, проглотил что-нибудь ценное?
 
-ent-MobCarpSentient = space carp
-    .desc = It's a space carp. Used to be a person.
+ent-MobCarpSentient = космический карп
+    .desc = Это космический карп. Когда-то был человеком.
 
-ent-MobMouseSentient = strange mouse
-    .desc = Squeak! Used to be a person!
+ent-MobMouseSentient = странная мышь
+    .desc = Пи-пи! Когда-то была человеком!
 
-ent-MobHomunculus = homunculus
-    .desc = What a wretched beast...
+ent-MobHomunculus = гомункул
+    .desc = Что за жалкая тварь...
 
-ent-MouseMenace = menace
+ent-MouseMenace = угроза
     .desc = { ent-MobMouse.desc }
 
-ent-MobCorgiIanClown = Clown Ian
-    .desc = Honkmother's favorite corgi.
+ent-MobCorgiIanClown = Клоун Иан
+    .desc = Любимый корги Хонкоматери.
 
-ent-MobBrullbar = brullbar
-    .desc = Oh god.
+ent-MobBrullbar = бруллбар
+    .desc = О боже.
 
-ent-MobBrullbarKing = brullbar king
-    .desc = Does it remember what it was? Oh god.
+ent-MobBrullbarKing = король бруллбаров
+    .desc = Он помнит, кем был? О боже.
 
-ent-MobBearGoon = bear
-    .desc = Why are you staring? Never seen a bear before?
+ent-MobBearGoon = медведь
+    .desc = Чего вы уставились? Медведя никогда не видели?
 
-ent-MobWhiteWolf = white wolf
-    .desc = Don't try to pet this one.
+ent-MobWhiteWolf = белый волк
+    .desc = Не пытайтесь его погладить.
 
-ent-MobHorse = horse
-    .desc = Very foul creature. For those that feel like punching.
+ent-MobHorse = лошадь
+    .desc = Омерзительная тварь. Для тех, у кого чешутся кулаки.
 
-ent-MobClownGoblin = clown goblin
-    .desc = Little walking clown mask and shoes. You want to honk their nose!
+ent-MobClownGoblin = гоблин-клоун
+    .desc = Маленькая ходячая клоунская маска с башмаками. Так и хочется хонкнуть её за нос!

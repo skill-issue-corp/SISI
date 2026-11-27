@@ -1,20 +1,20 @@
-ent-SurgeryOpenTailSlot = Create Tail Joint
+ent-SurgeryOpenTailSlot = Создание Хвостового Сустава
     .desc = { ent-SurgeryOpenCavityBase.desc }
 
-ent-SurgeryRemoveTongue = Remove Tongue
+ent-SurgeryRemoveTongue = Извлечение Языка
     .desc = { ent-SurgeryBase.desc }
 
-ent-SurgeryInsertTongue = Insert Tongue
+ent-SurgeryInsertTongue = Пересадка Языка
     .desc = { ent-SurgeryBase.desc }
 
-ent-SurgeryRemoveKidneys = Remove Kidneys
+ent-SurgeryRemoveKidneys = Извлечение Почек
     .desc = { ent-BaseSurgeryRemoveOrgan.desc }
 
-ent-SurgeryInsertKidneys = Insert Kidneys
+ent-SurgeryInsertKidneys = Пересадка Почек
     .desc = { ent-BaseSurgeryInsertOrgan.desc }
 
-ent-SurgeryOpenWingsSlot = Create Wing Joints
+ent-SurgeryOpenWingsSlot = Создание Суставов Крыльев
     .desc = { ent-SurgeryOpenCavityBase.desc }
 
-ent-SurgeryAttachWings = Attach Wings
+ent-SurgeryAttachWings = Присоединение Крыльев
     .desc = { ent-SurgeryAttachBase.desc }

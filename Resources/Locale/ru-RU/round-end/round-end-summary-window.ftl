@@ -7,11 +7,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-round-end-summary-window-title = Round End Summary
-round-end-summary-window-round-end-summary-tab-title = Round Information
-round-end-summary-window-player-manifest-tab-title = Player Manifest
-round-end-summary-window-round-id-label = Round [color=white]#{$roundId}[/color] has ended.
-round-end-summary-window-gamemode-name-label = The game mode was [color=white]{$gamemode}[/color].
-round-end-summary-window-duration-label = It lasted for [color=yellow]{$hours} hours, {$minutes} minutes, and {$seconds} seconds.
-round-end-summary-window-player-info-if-observer-text = [color=gray]{$playerOOCName}[/color] was [color=lightblue]{$playerICName}[/color], an observer.
-round-end-summary-window-player-info-if-not-observer-text = [color=gray]{$playerOOCName}[/color] was [color={$icNameColor}]{$playerICName}[/color] playing role of [color=orange]{$playerRole}[/color].
+round-end-summary-window-title = Итоги Раунда
+round-end-summary-window-round-end-summary-tab-title = Сведения о Раунде
+round-end-summary-window-player-manifest-tab-title = Список Игроков
+round-end-summary-window-round-id-label = Раунд [color=white]#{$roundId}[/color] завершился.
+round-end-summary-window-gamemode-name-label = Режим игры: [color=white]{$gamemode}[/color].
+round-end-summary-window-duration-label = Длительность: [color=yellow]{$hours} ч., {$minutes} мин. и {$seconds} сек.
+round-end-summary-window-player-info-if-observer-text = [color=gray]{$playerOOCName}[/color] наблюдал за раундом как [color=lightblue]{$playerICName}[/color].
+round-end-summary-window-player-info-if-not-observer-text = [color=gray]{$playerOOCName}[/color] играл за [color={$icNameColor}]{$playerICName}[/color], роль: [color=orange]{$playerRole}[/color].

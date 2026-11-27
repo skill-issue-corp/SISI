@@ -1,27 +1,27 @@
-ent-MobRatKing = rat king
-    .desc = He's da rat. He make da roolz.
+ent-MobRatKing = крысиный король
+    .desc = Он главная крыса. Он тут правила диктует.
 
 ent-MobRatKingBuff = { ent-MobRatKing }
     .desc = { ent-MobRatKing.desc }
-    .suffix = Buff
+    .suffix = Усиленный
 
-ent-MobRatServant = rat servant
-    .desc = He's da mini rat. He don't make da roolz.
+ent-MobRatServant = крысиный слуга
+    .desc = Он мелкая крыса. Не ему тут правила диктовать.
 
-ent-ActionRatKingRaiseArmy = Raise Army
-    .desc = Spend some hunger to summon an allied rat to help defend you.
+ent-ActionRatKingRaiseArmy = Собрать Армию
+    .desc = Пожертвуйте сытостью, чтобы призвать крысу, которая будет вас защищать.
 
-ent-ActionRatKingDomain = Rat King's Domain
-    .desc = Spend some hunger to release a cloud of ammonia into the air.
+ent-ActionRatKingDomain = Владения Крысиного Короля
+    .desc = Пожертвуйте сытостью, чтобы выпустить в воздух облако аммиака.
 
-ent-ActionRatKingOrderStay = Stay
-    .desc = Command your army to stand in place.
+ent-ActionRatKingOrderStay = Стоять
+    .desc = Прикажите своей армии оставаться на месте.
 
-ent-ActionRatKingOrderFollow = Follow
-    .desc = Command your army to follow you around.
+ent-ActionRatKingOrderFollow = За мной
+    .desc = Прикажите своей армии следовать за вами.
 
-ent-ActionRatKingOrderCheeseEm = Cheese 'Em
-    .desc = Command your army to attack whoever you point at.
+ent-ActionRatKingOrderCheeseEm = В Сыр Их
+    .desc = Прикажите своей армии напасть на того, на кого вы укажете.
 
-ent-ActionRatKingOrderLoose = Loose
-    .desc = Command your army to act at their own will.
+ent-ActionRatKingOrderLoose = Вольно
+    .desc = Прикажите своей армии действовать по своему усмотрению.

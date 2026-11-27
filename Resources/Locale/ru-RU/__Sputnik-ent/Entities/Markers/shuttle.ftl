@@ -1,5 +1,5 @@
-ent-FTLPoint = FTL point
+ent-FTLPoint = точка ФТЛ
     .desc = { ent-MarkerBase.desc }
 
-ent-FTLExclusion = FTL exclusion point
+ent-FTLExclusion = точка исключения ФТЛ
     .desc = { ent-MarkerBase.desc }

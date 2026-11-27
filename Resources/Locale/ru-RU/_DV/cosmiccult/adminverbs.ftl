@@ -1,8 +1,8 @@
-admin-verb-make-cosmiccultist = Make the target into a cosmic cultist.
+admin-verb-make-cosmiccultist = Превратить цель в космического культиста.
 
-admin-verb-text-make-cosmiccultist = Make Cosmic Cultist
+admin-verb-text-make-cosmiccultist = Сделать Космическим Культистом
 
-cmd-cultify-borg-hint = borg to imprison in chantry (NetEntity or username)
-cmd-cultify-failure-no-entity = No valid entity could be found.
-cmd-cultify-failure-no-mind = No valid mind could be found.
-cmd-cultify-failure-not-borg = Entity is not a borg!
+cmd-cultify-borg-hint = борг для заточения в святилище (NetEntity или имя пользователя)
+cmd-cultify-failure-no-entity = Не удалось найти подходящую сущность.
+cmd-cultify-failure-no-mind = Не удалось найти подходящий разум.
+cmd-cultify-failure-not-borg = Сущность не является боргом!

@@ -1,53 +1,53 @@
-ent-ActionActivateBluespaceLifeline = Activate Bluespace Lifeline
-    .desc = Activates your bluespace lifeline implant, teleporting you far-far away from this station. You won't be able to come back.
+ent-ActionActivateBluespaceLifeline = Активировать Блюспейс-Спасатель
+    .desc = Активирует ваш блюспейс-имплант спасения и телепортирует вас далеко-далеко от станции. Вернуться вы уже не сможете.
 
-ent-ActionHorn = Honk!
-    .desc = Beep the horn at whoever you will run over.
+ent-ActionHorn = Хонк!
+    .desc = Посигнальте тому, кого собираетесь переехать.
 
-ent-ActionSiren = Siren
-    .desc = Alert your victim to your presence.
+ent-ActionSiren = Сирена
+    .desc = Дайте жертве знать, что вы рядом.
 
-ent-ActivateSmokeImplant = Release a cloud of smoke
-    .desc = Releases a cloud of smoke around you.
+ent-ActivateSmokeImplant = Выпустить облако дыма
+    .desc = Выпускает облако дыма вокруг вас.
 
-ent-ActionDashMoth = Wing dash
-    .desc = Sharply flap your wings, dashing to the side!
+ent-ActionDashMoth = Рывок на крыльях
+    .desc = Резко взмахните крыльями, чтобы рвануть в сторону!
 
-ent-ActionDashGeneric = Dash
-    .desc = Dash forward.
+ent-ActionDashGeneric = Рывок
+    .desc = Рваните вперёд.
 
-ent-ActionToggleRightMantisBlade = Toggle Right Mantis Blade
-    .desc = Extend or retract the mantis blade in your right arm.
+ent-ActionToggleRightMantisBlade = Переключить Правый Клинок Богомола
+    .desc = Выпустите или втяните клинок богомола в правой руке.
 
-ent-ActionToggleLeftMantisBlade = Toggle Left Mantis Blade
-    .desc = Extend or retract the mantis blade in your left arm.
+ent-ActionToggleLeftMantisBlade = Переключить Левый Клинок Богомола
+    .desc = Выпустите или втяните клинок богомола в левой руке.
 
-ent-ActionToggleSandevistan = Toggle Sandevistan
-    .desc = Enable or disable your improved reflexes provided by the Sandevistan.
+ent-ActionToggleSandevistan = Переключить Сандевистан
+    .desc = Включите или отключите усиленные Сандевистаном рефлексы.
 
-ent-ActionShowStationMap = Station Map Interface
-    .desc = View a Station Map Interface.
+ent-ActionShowStationMap = Интерфейс Карты Станции
+    .desc = Откройте Интерфейс Карты Станции.
 
-ent-ActionToggleFloorBoardsMode = Enter or Exit Floor
-    .desc = Crawl under the floor boards.
+ent-ActionToggleFloorBoardsMode = Залезть под Пол или Вылезти
+    .desc = Проползите под полом.
 
-ent-ActionStealShoes = Steal Shoes
-    .desc = A tasty snack it will be!
+ent-ActionStealShoes = Украсть Обувь
+    .desc = Вот будет вкусное угощение!
 
-ent-ActionVehicleWallPush = Wall Launch
-    .desc = Launch yourself off the nearest surface, tiders count as surfaces.
+ent-ActionVehicleWallPush = Толчок от Стены
+    .desc = Оттолкнитесь от ближайшей поверхности. Тайдеры тоже считаются.
 
-ent-ActionRocketChairBoost = Boost
-    .desc = Spray water to launch forward.
+ent-ActionRocketChairBoost = Ускориться
+    .desc = Выпустите струю воды, чтобы рвануть вперёд.
 
-ent-ActionActivateBerserkerImplant = Activate Berserker Implant
-    .desc = Activate your berserker implant, greatly increasing your melee damage and speed for a short duration. While in berserk mode, you will be unable to use ranged weapons.
+ent-ActionActivateBerserkerImplant = Активировать Имплант Берсерка
+    .desc = Активируйте имплант берсерка, чтобы ненадолго значительно увеличить скорость и урон в ближнем бою. В состоянии ярости вы не сможете пользоваться оружием дальнего боя.
 
-ent-ActionActivateRedspaceLifeline = Activate Redspace Lifeline
-    .desc = Activates your redspace lifeline implant, teleporting you far-far away from this station. You won't be able to come back.
+ent-ActionActivateRedspaceLifeline = Активировать Редспейс-Спасатель
+    .desc = Активирует ваш редспейс-имплант спасения и телепортирует вас далеко-далеко от станции. Вернуться вы уже не сможете.
 
-ent-ActionForklift = Activate Lift
-    .desc = Lift up crates in front of you.
+ent-ActionForklift = Поднять Вилы
+    .desc = Поднимите ящики перед собой.
 
-ent-ActionUnforklift = Drop Lift
-    .desc = Put down crates in front of you.
+ent-ActionUnforklift = Опустить Вилы
+    .desc = Поставьте ящики перед собой.

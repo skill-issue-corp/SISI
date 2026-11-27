@@ -1,11 +1,11 @@
-ent-SpawnMobCarp = Space Carp Spawner
+ent-SpawnMobCarp = Спавнер Космического Карпа
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobCarpHolo = Holocarp Spawner
+ent-SpawnMobCarpHolo = Спавнер Голокарпа
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobCarpMagic = Magicarp Spawner
+ent-SpawnMobCarpMagic = Спавнер Магикарпа
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobShark = Space Sharkminnow Spawner
+ent-SpawnMobShark = Спавнер Космического Акуломалька
     .desc = { ent-MarkerBase.desc }

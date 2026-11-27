@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-construction-temperature-default = Next, heat to [color=red]{$temperature}[/color].
+construction-temperature-default = Затем нагрейте до [color=red]{$temperature}[/color].

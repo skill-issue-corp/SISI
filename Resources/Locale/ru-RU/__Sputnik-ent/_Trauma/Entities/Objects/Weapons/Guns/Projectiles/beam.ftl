@@ -1,5 +1,5 @@
-ent-BulletTemperatureCryo = cryo beam
+ent-BulletTemperatureCryo = криолуч
     .desc = { ent-BulletTemperatureCold.desc }
 
-ent-BulletTemperaturePyro = hot beam
+ent-BulletTemperaturePyro = горячий луч
     .desc = { ent-BulletTemperatureHot.desc }

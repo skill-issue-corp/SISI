@@ -1,39 +1,39 @@
-ent-DoorRemoteDefault = door remote
-    .desc = A gadget which can open and bolt doors remotely.
+ent-DoorRemoteDefault = дверной пульт
+    .desc = Устройство, которое дистанционно открывает двери и управляет их болтами.
 
 ent-DoorRemoteCanEletrifyDoors = { ent-DoorRemoteDefault }
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteCommand = command door remote
+ent-DoorRemoteCommand = дверной пульт командования
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteCustom = custom door remote
-    .desc = A gadget which can open and bolt doors remotely. This advanced variant does not have built-in access, instead inheriting the ID access of the user.
+ent-DoorRemoteCustom = настраиваемый дверной пульт
+    .desc = Устройство, которое дистанционно открывает двери и управляет их болтами. У продвинутой модели нет встроенного доступа: она использует допуски ID-карты владельца.
 
-ent-DoorRemoteSecurity = security door remote
+ent-DoorRemoteSecurity = дверной пульт службы безопасности
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteArmory = armory door remote
+ent-DoorRemoteArmory = дверной пульт оружейной
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteService = service door remote
+ent-DoorRemoteService = дверной пульт сервиса
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteResearch = research door remote
+ent-DoorRemoteResearch = дверной пульт научного отдела
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteCargo = cargo door remote
+ent-DoorRemoteCargo = дверной пульт карго
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteMedical = medical door remote
+ent-DoorRemoteMedical = дверной пульт медотсека
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteEngineering = engineering door remote
+ent-DoorRemoteEngineering = дверной пульт инженерного отдела
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteAll = super door remote
-    .desc = A gadget which can open and bolt doors remotely. This one works even on wooden doors!
-    .suffix = Admeme
+ent-DoorRemoteAll = супердверной пульт
+    .desc = Устройство, которое дистанционно открывает двери и управляет их болтами. Этот пульт работает даже с деревянными дверями!
+    .suffix = Адмеме
 
-ent-DoorRemoteXenoborg = xenoborg door remote
+ent-DoorRemoteXenoborg = дверной пульт ксеноборгов
     .desc = { ent-DoorRemoteCanEletrifyDoors.desc }

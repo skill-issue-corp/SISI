@@ -1,58 +1,58 @@
-ent-HighCaliberPelletShotgun = pellet (8 Gauge carpshot)
+ent-HighCaliberPelletShotgun = дробина (8 Калибр карпокартечь)
     .desc = { ent-BaseBullet.desc }
 
 ent-HighCaliberPelletShotgunSpread = { ent-HighCaliberPelletShotgun }
     .desc = { ent-HighCaliberPelletShotgun.desc }
 
-ent-HighCaliberPelletShotgunIncendiary = pellet (8 Gauge incendiary)
+ent-HighCaliberPelletShotgunIncendiary = дробина (8 Калибр зажигательная)
     .desc = { ent-BaseBulletIncendiary.desc }
 
 ent-HighCaliberPelletShotgunIncendiarySpread = { ent-HighCaliberPelletShotgunIncendiary }
     .desc = { ent-HighCaliberPelletShotgunIncendiary.desc }
 
-ent-HighCaliberPelletShotgunPractice = pellet (8 Gauge practice)
+ent-HighCaliberPelletShotgunPractice = дробина (8 Калибр учебная)
     .desc = { ent-BaseBulletPractice.desc }
 
 ent-HighCaliberPelletShotgunPracticeSpread = { ent-HighCaliberPelletShotgunPractice }
     .desc = { ent-HighCaliberPelletShotgunPractice.desc }
 
-ent-HighCaliberPelletShotgunUranium = pellet (8 Gauge uranium)
+ent-HighCaliberPelletShotgunUranium = дробина (8 Калибр урановая)
     .desc = { ent-BaseBullet.desc }
 
 ent-HighCaliberPelletShotgunUraniumSpread = { ent-HighCaliberPelletShotgunUranium }
     .desc = { ent-HighCaliberPelletShotgunUranium.desc }
 
-ent-PelletShotgunSlugHighCaliber = pellet (8 Gauge slug)
+ent-PelletShotgunSlugHighCaliber = дробина (8 Калибр пуля)
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletSlugEnsnaring = bullet (8 Gauge ensnaring slug)
+ent-BulletSlugEnsnaring = пуля (8 Калибр опутывающая)
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletSlugEMP = bullet (8 Gauge EMP slug)
+ent-BulletSlugEMP = пуля (8 Калибр ЭМИ)
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletSlugFlash = bullet (8 Gauge flash slug)
+ent-BulletSlugFlash = пуля (8 Калибр световая)
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletSlugBeanbagHighCaliber = beanbag (8 Gauge)
+ent-BulletSlugBeanbagHighCaliber = травматический снаряд (8 Калибр)
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletShotgunHeavySlugSarin = bullet (8 Gauge Sarin)
+ent-BulletShotgunHeavySlugSarin = пуля (8 Калибр Зарин)
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletPelletHeavyHighExplosive = pellet (2 gauge)
+ent-BulletPelletHeavyHighExplosive = дробина (2 калибр)
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-BulletShrapnelHeavyHighExplosive = explosive shrapnel
+ent-BulletShrapnelHeavyHighExplosive = осколок от взрыва
     .desc = { ent-BaseItem.desc }
 
 ent-HeavyPelletShotgunSpread = { ent-BulletPelletHeavyHighExplosive }
     .desc = { ent-BulletPelletHeavyHighExplosive.desc }
 
-ent-BulletSlugHeavyHighExplosive = slug (2 gauge)
+ent-BulletSlugHeavyHighExplosive = пуля (2 калибр)
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-HighCaliberPelletGrenade = pellet (MP-APERS)
+ent-HighCaliberPelletGrenade = дробина (MP-APERS)
     .desc = { ent-BaseBullet.desc }
 
 ent-HighCaliberPelletGrenadeSpread = { ent-HighCaliberPelletGrenade }

@@ -1,39 +1,39 @@
-ent-FloorCarpetItemRed = carpet
+ent-FloorCarpetItemRed = ковёр
     .desc = { ent-FloorTileItemBase.desc }
-    .suffix = Red
+    .suffix = Красный
 
 ent-FloorCarpetItemBlack = { ent-FloorCarpetItemRed }
     .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Black
+    .suffix = Чёрный
 
 ent-FloorCarpetItemBlue = { ent-FloorCarpetItemRed }
     .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Blue
+    .suffix = Синий
 
 ent-FloorCarpetItemGreen = { ent-FloorCarpetItemRed }
     .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Green
+    .suffix = Зелёный
 
 ent-FloorCarpetItemOrange = { ent-FloorCarpetItemRed }
     .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Orange
+    .suffix = Оранжевый
 
 ent-FloorCarpetItemSkyBlue = { ent-FloorCarpetItemRed }
     .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Sky Blue
+    .suffix = Небесно-Голубой
 
 ent-FloorCarpetItemPurple = { ent-FloorCarpetItemRed }
     .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Purple
+    .suffix = Фиолетовый
 
 ent-FloorCarpetItemPink = { ent-FloorCarpetItemRed }
     .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Pink
+    .suffix = Розовый
 
 ent-FloorCarpetItemCyan = { ent-FloorCarpetItemRed }
     .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = Cyan
+    .suffix = Голубой
 
 ent-FloorCarpetItemWhite = { ent-FloorCarpetItemRed }
     .desc = { ent-FloorCarpetItemRed.desc }
-    .suffix = White
+    .suffix = Белый

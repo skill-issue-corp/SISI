@@ -1,32 +1,32 @@
-ent-LeavesCannabis = cannabis leaves
-    .desc = Recently legalized in most galaxies.
+ent-LeavesCannabis = листья конопли
+    .desc = Недавно легализована в большинстве галактик.
 
-ent-LeavesCannabisDried = dried cannabis leaves
-    .desc = Dried cannabis leaves, ready to be ground.
+ent-LeavesCannabisDried = сушёные листья конопли
+    .desc = Сушёные листья конопли, готовые к измельчению.
 
-ent-GroundCannabis = ground cannabis
-    .desc = Ground cannabis, ready to take you on a trip.
+ent-GroundCannabis = измельчённая конопля
+    .desc = Измельчённая конопля, готовая отправить вас в путешествие.
 
-ent-LeavesCannabisRainbow = rainbow cannabis leaves
-    .desc = Is it supposed to be glowing like that...?
+ent-LeavesCannabisRainbow = листья радужной конопли
+    .desc = А она должна так светиться...?
 
-ent-LeavesCannabisRainbowDried = dried rainbow cannabis leaves
-    .desc = Dried rainbow cannabis leaves, ready to be ground.
+ent-LeavesCannabisRainbowDried = сушёные листья радужной конопли
+    .desc = Сушёные листья радужной конопли, готовые к измельчению.
 
-ent-GroundCannabisRainbow = ground rainbow cannabis
-    .desc = Ground rainbow cannabis, ready to take you on a trip.
+ent-GroundCannabisRainbow = измельчённая радужная конопля
+    .desc = Измельчённая радужная конопля, готовая отправить вас в путешествие.
 
-ent-LeavesTea = tea leaves
-    .desc = Can be dried out to make tea.
+ent-LeavesTea = чайные листья
+    .desc = Их можно высушить, чтобы заварить чай.
 
-ent-LeavesTeaDried = dried tea leaves
-    .desc = Dried tea leaves, ready to be ground.
+ent-LeavesTeaDried = сушёные чайные листья
+    .desc = Сушёные чайные листья, готовые к измельчению.
 
-ent-LeavesTobacco = tobacco leaves
-    .desc = Dry them out to make some smokes.
+ent-LeavesTobacco = табачные листья
+    .desc = Высушите их, чтобы сделать сигареты.
 
-ent-LeavesTobaccoDried = dried tobacco leaves
-    .desc = Dried tobacco leaves, ready to be ground.
+ent-LeavesTobaccoDried = сушёные табачные листья
+    .desc = Сушёные табачные листья, готовые к измельчению.
 
-ent-GroundTobacco = ground tobacco
-    .desc = Ground tobacco, perfect for hand-rolled cigarettes.
+ent-GroundTobacco = измельчённый табак
+    .desc = Измельчённый табак, идеально подходящий для самокруток.

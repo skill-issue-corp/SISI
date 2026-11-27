@@ -1,11 +1,11 @@
-ptl-examine-enabled = The laser is [color=red]{$enabled}[/color].
-ptl-interact-enabled = The laser is now {$enabled}.
+ptl-examine-enabled = Лазер [color=red]{$enabled}[/color].
+ptl-interact-enabled = Теперь лазер {$enabled}.
 
-ptl-examine-screwdriver = You can use a [color=green]screwdriver[/color] to change it's [color=green]firing frequency[/color].
-ptl-interact-screwdriver = Set firing frequency to {$delay} seconds.
+ptl-examine-screwdriver = Воспользуйтесь [color=green]отвёрткой[/color], чтобы изменить [color=green]частоту выстрелов[/color].
+ptl-interact-screwdriver = Интервал между выстрелами установлен на {$delay} сек.
 
-ptl-examine-spesos = It holds [color=yellow]{$spesos} spesos[/color]. Use [color=green]multitool[/color] to collect.
-ptl-interact-spesos = Printing accumulated credits.
+ptl-examine-spesos = Накоплено [color=yellow]{$spesos} спесо[/color]. Снимите их [color=green]мультитулом[/color].
+ptl-interact-spesos = Печать накопленных кредитов.
 
-ptl-enabled = enabled
-ptl-disabled = disabled
+ptl-enabled = включён
+ptl-disabled = отключён

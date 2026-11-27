@@ -1,15 +1,15 @@
-ent-MobWatcherBase = watcher
-    .desc = It's like it's staring right through you.
+ent-MobWatcherBase = наблюдатель
+    .desc = Будто смотрит насквозь.
 
 ent-MobWatcherLavaland = { ent-MobWatcherBase }
     .desc = { ent-MobWatcherBase.desc }
 
-ent-MobWatcherIcewing = icewing watcher
+ent-MobWatcherIcewing = ледокрылый наблюдатель
     .desc = { ent-MobWatcherBase.desc }
 
-ent-MobWatcherMagmawing = magmawing watcher
+ent-MobWatcherMagmawing = магмокрылый наблюдатель
     .desc = { ent-MobWatcherBase.desc }
 
-ent-MobWatcherPride = pride watcher
-    .desc = This rare subspecies only appears in June.
-    .suffix = Admeme
+ent-MobWatcherPride = радужный наблюдатель
+    .desc = Этот редкий подвид появляется только в июне.
+    .suffix = Адмеме

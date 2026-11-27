@@ -1,6 +1,12 @@
-parry-component-examine = You could [color=cyan]parry[/color] up to {$value} melee attacks in a row with this.
-parry-component-examine-unlimited = You could [color=cyan]parry[/color] unlimited attacks with this.
-parry-component-examine-reflect = You could [color=cyan]reflect[/color] up to {$value} {$type} in a row with this.
-parry-component-examine-reflect-unlimited = You could [color=cyan]reflect[/color] unlimited {$type} with this.
-parry-component-examine-lowskill = It could be used to [color=cyan]parry[/color] melee attacks, but you are not skilled enough.
-parry-component-examine-reflect-lowskill = It could be used to [color=cyan]reflect[/color] {$type}, but you are not skilled enough.
+parry-component-examine = Этим можно [color=cyan]парировать[/color] до {$value} { $value ->
+    [one] атаки
+   *[other] атак
+} ближнего боя подряд.
+parry-component-examine-unlimited = Этим можно [color=cyan]парировать[/color] сколько угодно атак.
+parry-component-examine-reflect = Этим можно [color=cyan]отразить[/color] до {$value} { $value ->
+    [one] атаки
+   *[other] атак
+} типа «{$type}» подряд.
+parry-component-examine-reflect-unlimited = Этим можно [color=cyan]отразить[/color] сколько угодно атак типа «{$type}».
+parry-component-examine-lowskill = Этим можно [color=cyan]парировать[/color] атаки ближнего боя, но вам не хватает навыка.
+parry-component-examine-reflect-lowskill = Этим можно [color=cyan]отражать[/color] атаки типа «{$type}», но вам не хватает навыка.

@@ -1,2 +1,2 @@
-ent-CrateEngineeringTEG = thermo-electric generator crate
-    .desc = Containing thermo-electric generator flatpack to make atmosian happy.
+ent-CrateEngineeringTEG = ящик с термоэлектрическим генератором
+    .desc = Внутри упаковка термоэлектрического генератора, чтобы порадовать атмоса.

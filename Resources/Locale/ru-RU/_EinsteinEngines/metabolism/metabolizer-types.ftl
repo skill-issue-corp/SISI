@@ -1,1 +1,1 @@
-metabolizer-type-plasmaman = Plasmaman
+metabolizer-type-plasmaman = Плазмамен

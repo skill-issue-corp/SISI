@@ -1,45 +1,45 @@
-ent-ClothingHandsGlovesColorPurple = purple gloves
-    .desc = Regular purple gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorPurple = фиолетовые перчатки
+    .desc = Обычные фиолетовые перчатки, которые не спасут вас от удара током.
 
-ent-ClothingHandsGlovesColorRed = red gloves
-    .desc = Regular red gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorRed = красные перчатки
+    .desc = Обычные красные перчатки, которые не спасут вас от удара током.
 
-ent-ClothingHandsGlovesColorBlue = blue gloves
-    .desc = Regular blue gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorBlue = синие перчатки
+    .desc = Обычные синие перчатки, которые не спасут вас от удара током.
 
-ent-ClothingHandsGlovesColorTeal = teal gloves
-    .desc = Regular teal gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorTeal = сине-зелёные перчатки
+    .desc = Обычные сине-зелёные перчатки, которые не спасут вас от удара током.
 
-ent-ClothingHandsGlovesColorBrown = brown gloves
-    .desc = Regular brown gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorBrown = коричневые перчатки
+    .desc = Обычные коричневые перчатки, которые не спасут вас от удара током.
 
-ent-ClothingHandsGlovesColorGray = grey gloves
-    .desc = Regular grey gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorGray = серые перчатки
+    .desc = Обычные серые перчатки, которые не спасут вас от удара током.
 
-ent-ClothingHandsGlovesColorGreen = green gloves
-    .desc = Regular green gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorGreen = зелёные перчатки
+    .desc = Обычные зелёные перчатки, которые не спасут вас от удара током.
 
-ent-ClothingHandsGlovesColorLightBrown = light brown gloves
-    .desc = Regular light brown gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorLightBrown = светло-коричневые перчатки
+    .desc = Обычные светло-коричневые перчатки, которые не спасут вас от удара током.
 
-ent-ClothingHandsGlovesColorOrange = orange gloves
-    .desc = Regular orange gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorOrange = оранжевые перчатки
+    .desc = Обычные оранжевые перчатки, которые не спасут вас от удара током.
 
-ent-ClothingHandsGlovesColorWhite = white gloves
-    .desc = Regular white gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorWhite = белые перчатки
+    .desc = Обычные белые перчатки, которые не спасут вас от удара током.
 
-ent-ClothingHandsGlovesColorBlack = black gloves
-    .desc = Regular black gloves that do not keep you from frying.
+ent-ClothingHandsGlovesColorBlack = чёрные перчатки
+    .desc = Обычные чёрные перчатки, которые не спасут вас от удара током.
 
 ent-ClothingHandsGlovesColorYellowBase = { ent-ClothingHandsBase }
     .desc = { ent-ClothingHandsBase.desc }
 
-ent-ClothingHandsGlovesColorYellow = insulated gloves
-    .desc = These gloves will protect the wearer from electric shocks.
+ent-ClothingHandsGlovesColorYellow = изолированные перчатки
+    .desc = Эти перчатки защищают от удара током.
 
-ent-ClothingHandsGlovesColorYellowBudget = budget insulated gloves
-    .desc = These gloves are cheap knockoffs of the coveted ones - no way this can end badly.
+ent-ClothingHandsGlovesColorYellowBudget = бюджетные изолированные перчатки
+    .desc = Эти перчатки - дешёвая подделка желанного оригинала. Что может пойти не так?
 
 ent-ClothingHandsGlovesConducting = { ent-ClothingHandsGlovesColorYellow }
     .desc = { ent-ClothingHandsGlovesColorYellow.desc }
-    .suffix = Conducting
+    .suffix = Токопроводящие

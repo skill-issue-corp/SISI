@@ -4,80 +4,80 @@ ent-BaseSurgeryXeno = { ent-SurgeryBase }
 ent-BaseSurgeryXenoCommon = { ent-BaseSurgeryXeno }
     .desc = { ent-BaseSurgeryXeno.desc }
 
-ent-SurgeryXenoInciseExoskeleton = Incise Exoskeleton
+ent-SurgeryXenoInciseExoskeleton = Надрез Экзоскелета
     .desc = { ent-BaseSurgeryXenoCommon.desc }
 
-ent-SurgeryXenoResealExoskeleton = Reseal Exoskeleton
+ent-SurgeryXenoResealExoskeleton = Герметизация Экзоскелета
     .desc = { ent-BaseSurgeryXenoCommon.desc }
 
-ent-SurgeryXenoExposeEndoskeleton = Expose Endoskeleton
+ent-SurgeryXenoExposeEndoskeleton = Обнажение Эндоскелета
     .desc = { ent-BaseSurgeryXenoCommon.desc }
 
-ent-SurgeryXenoResealEndoskeleton = Repair Endoskeleton
+ent-SurgeryXenoResealEndoskeleton = Восстановление Эндоскелета
     .desc = { ent-BaseSurgeryXenoCommon.desc }
 
-ent-SurgeryXenoRemovePart = Amputate Xeno Limb
+ent-SurgeryXenoRemovePart = Ампутация Конечности Ксено
     .desc = { ent-BaseSurgeryXeno.desc }
 
 ent-BaseSurgeryXenoInsertOrgan = { ent-BaseSurgeryXeno }
     .desc = { ent-BaseSurgeryXeno.desc }
 
-ent-SurgeryXenoInsertEyes = Insert Xeno Eyes
+ent-SurgeryXenoInsertEyes = Установка Глаз Ксено
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
 
-ent-SurgeryXenoInsertLiver = Insert Xeno Liver
+ent-SurgeryXenoInsertLiver = Установка Печени Ксено
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
 
-ent-SurgeryXenoInsertStomach = Insert Xeno Stomach
+ent-SurgeryXenoInsertStomach = Установка Желудка Ксено
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
 
-ent-SurgeryXenoInsertHiveNode = Insert Hive Node
+ent-SurgeryXenoInsertHiveNode = Установка Узла Улья
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
 
-ent-SurgeryXenoInsertResinSpinner = Insert Resin Spinner
+ent-SurgeryXenoInsertResinSpinner = Установка Железы Смолы
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
 
-ent-SurgeryXenoInsertNeurotoxinGland = Insert Neurotoxin Gland
+ent-SurgeryXenoInsertNeurotoxinGland = Установка Железы Нейротоксина
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
 
-ent-SurgeryXenoInsertAcidGland = Insert Acid Gland
+ent-SurgeryXenoInsertAcidGland = Установка Кислотной Железы
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
 
-ent-SurgeryXenoInsertPlasmaVessel = Insert Plasma Vessel
+ent-SurgeryXenoInsertPlasmaVessel = Установка Плазменного Сосуда
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
 
-ent-SurgeryXenoInsertEggSack = Insert Egg Sack
+ent-SurgeryXenoInsertEggSack = Установка Яйцевого Мешка
     .desc = { ent-BaseSurgeryXenoInsertOrgan.desc }
 
 ent-BaseSurgeryXenoRemoveOrgan = { ent-BaseSurgeryXeno }
     .desc = { ent-BaseSurgeryXeno.desc }
 
-ent-SurgeryXenoRemoveEyes = Remove Xeno Eyes
+ent-SurgeryXenoRemoveEyes = Извлечение Глаз Ксено
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
 
-ent-SurgeryXenoRemoveLiver = Remove Xeno Liver
+ent-SurgeryXenoRemoveLiver = Извлечение Печени Ксено
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
 
-ent-SurgeryXenoRemoveStomach = Remove Xeno Stomach
+ent-SurgeryXenoRemoveStomach = Извлечение Желудка Ксено
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
 
-ent-SurgeryXenoRemoveHiveNode = Remove Hive Node
+ent-SurgeryXenoRemoveHiveNode = Извлечение Узла Улья
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
 
-ent-SurgeryXenoRemoveResinSpinner = Remove Resin Spinner
+ent-SurgeryXenoRemoveResinSpinner = Извлечение Железы Смолы
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
 
-ent-SurgeryXenoRemoveNeurotoxinGland = Remove Neurotoxin Gland
+ent-SurgeryXenoRemoveNeurotoxinGland = Извлечение Железы Нейротоксина
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
 
-ent-SurgeryXenoRemoveAcidGland = Remove Acid Gland
+ent-SurgeryXenoRemoveAcidGland = Извлечение Кислотной Железы
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
 
-ent-SurgeryXenoRemovePlasmaVessel = Remove Plasma Vessel
+ent-SurgeryXenoRemovePlasmaVessel = Извлечение Плазменного Сосуда
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
 
-ent-SurgeryXenoRemoveEggSack = Remove Egg Sack
+ent-SurgeryXenoRemoveEggSack = Извлечение Яйцевого Мешка
     .desc = { ent-BaseSurgeryXenoRemoveOrgan.desc }
 
-ent-SurgeryXenoTakeSample = Take tissue sample
+ent-SurgeryXenoTakeSample = Взять образец ткани
     .desc = { ent-SurgeryBase.desc }

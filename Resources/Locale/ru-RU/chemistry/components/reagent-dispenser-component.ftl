@@ -1,18 +1,18 @@
 ## Entity
 
-reagent-dispenser-component-activate-no-hands = You have no hands.
-reagent-dispenser-component-cannot-put-entity-message = You can't put this in the dispenser!
+reagent-dispenser-component-activate-no-hands = У вас нет рук.
+reagent-dispenser-component-cannot-put-entity-message = Это нельзя поместить в диспенсер!
 
 ## Bound UI
 
-reagent-dispenser-bound-user-interface-title = Reagent dispenser
+reagent-dispenser-bound-user-interface-title = Диспенсер реагентов
 
 ## UI
 
-reagent-dispenser-window-amount-to-dispense-label = Amount
-reagent-dispenser-window-clear-button = Clear
-reagent-dispenser-window-eject-button = Eject
+reagent-dispenser-window-amount-to-dispense-label = Количество
+reagent-dispenser-window-clear-button = Очистить
+reagent-dispenser-window-eject-button = Извлечь
 reagent-dispenser-window-eject-container-button = ⏏
-reagent-dispenser-window-no-container-loaded-text = No container loaded.
-reagent-dispenser-window-unknown-reagent-text = Unknown reagent
-reagent-dispenser-window-quantity-label-text = {$quantity}u
+reagent-dispenser-window-no-container-loaded-text = Ёмкость не загружена.
+reagent-dispenser-window-unknown-reagent-text = Неизвестный реагент
+reagent-dispenser-window-quantity-label-text = {$quantity} ед.

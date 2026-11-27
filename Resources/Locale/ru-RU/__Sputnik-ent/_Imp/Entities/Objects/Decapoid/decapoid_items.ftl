@@ -1,17 +1,17 @@
-ent-DecapoidClawItem = decapoid claw
-    .desc = A large claw. Not very good for fine manipulation, but very strong and very sharp.
-    .suffix = Unremoveable
+ent-DecapoidClawItem = клешня декапода
+    .desc = Большая клешня. Для тонкой работы не годится, зато очень сильная и острая.
+    .suffix = Несъёмный
 
-ent-ClothingNeckDecapoidVaporizer = vaporizer
-    .desc = A neck-mounted breathing apparatus for Decapoids. Moistens your gills, if you have them. Also functions as a brain-to-voice translator.
+ent-ClothingNeckDecapoidVaporizer = вапорайзер
+    .desc = Нашейный дыхательный аппарат для Декаподов. Увлажняет жабры, если они у вас есть. Заодно превращает мысли в голос.
 
-ent-DecapoidVaporTank = vapor tank
-    .desc = An alien contraption consisting of two tanks. The smaller tank takes in water and converts it into vapor, which is stored in the larger tank. It can hold 5 L of gas, and 30u of fluid.
-    .suffix = Filled
+ent-DecapoidVaporTank = бак с паром
+    .desc = Инопланетное приспособление из двух баков. Меньший принимает воду и превращает её в пар, который хранится в большем. Вмещает 5 л газа и 30 ед. жидкости.
+    .suffix = Заполнено
 
-ent-EmergencyVaporTank = emergency water vapor tank
-    .desc = An easily portable tank for emergencies. Contains very little water vapor, rated for survival use only. It can hold 0.66 L of gas.
+ent-EmergencyVaporTank = аварийный баллон водяного пара
+    .desc = Лёгкий переносной баллон на экстренный случай. Водяного пара в нём очень мало, хватит только на то, чтобы выжить. Вмещает 0.66 л газа.
 
 ent-BoxSurvivalSlotsVapor = { ent-BoxSurvivalSlots }
     .desc = { ent-BoxSurvivalSlots.desc }
-    .suffix = Vapor
+    .suffix = Пар

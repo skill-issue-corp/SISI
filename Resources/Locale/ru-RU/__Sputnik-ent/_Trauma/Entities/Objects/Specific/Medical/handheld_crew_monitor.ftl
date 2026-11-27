@@ -1,19 +1,19 @@
-ent-SpyCrewMonitor = spy monitor
-    .desc = A spy device capable of connecting to crew monitoring servers.
+ent-SpyCrewMonitor = шпионский монитор
+    .desc = Шпионское устройство, способное подключаться к серверам мониторинга экипажа.
 
 ent-SpyCrewMonitorEmpty = { ent-SpyCrewMonitor }
     .desc = { ent-SpyCrewMonitor.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-SyndiCrewMonitor = syndicate crew monitor
-    .desc = The syndicated version of crew monitor, intercepts information from the server.
+ent-SyndiCrewMonitor = монитор экипажа синдиката
+    .desc = Синдикатская версия монитора экипажа. Перехватывает данные с сервера.
 
 ent-SyndiCrewMonitorEmpty = { ent-SyndiCrewMonitor }
     .desc = { ent-SyndiCrewMonitor.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-BorgCrewMonitor = integrated crew monitor
-    .desc = An integrated crew monitor for locating crew to rescue.
+ent-BorgCrewMonitor = встроенный монитор экипажа
+    .desc = Встроенный монитор, позволяющий находить членов экипажа, которым нужна помощь.
 
 ent-HandheldCrewMonitor = { ent-BaseHandheldCrewMonitor }
     .desc = { ent-BaseHandheldCrewMonitor.desc }

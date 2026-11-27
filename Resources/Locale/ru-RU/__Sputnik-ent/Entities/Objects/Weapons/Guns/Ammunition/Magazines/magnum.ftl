@@ -1,18 +1,18 @@
-ent-BaseMagazineMagnum = pistol magazine (.45 magnum)
+ent-BaseMagazineMagnum = пистолетный магазин (.45 магнум)
     .desc = { ent-BaseMagazinePistol.desc }
 
-ent-MagazineMagnumEmpty = pistol magazine (.45 magnum any)
-    .desc = 7-round single stack magazine for large-caliber pistols.
-    .suffix = empty
+ent-MagazineMagnumEmpty = пистолетный магазин (.45 магнум любые)
+    .desc = Однорядный магазин на 7 патронов для крупнокалиберных пистолетов.
+    .suffix = пусто
 
-ent-MagazineMagnum = pistol magazine (.45 magnum)
-    .desc = 7-round single stack magazine for large-caliber pistols. Intended to hold general-purpose kinetic ammunition.
+ent-MagazineMagnum = пистолетный магазин (.45 магнум)
+    .desc = Однорядный магазин на 7 патронов для крупнокалиберных пистолетов. Предназначен для обычных кинетических боеприпасов.
 
-ent-MagazineMagnumPractice = pistol magazine (.45 magnum practice)
-    .desc = 7-round single stack magazine for large-caliber pistols. Intended to hold harmless practice ammunition.
+ent-MagazineMagnumPractice = пистолетный магазин (.45 магнум учебные)
+    .desc = Однорядный магазин на 7 патронов для крупнокалиберных пистолетов. Предназначен для безвредных учебных боеприпасов.
 
-ent-MagazineMagnumUranium = pistol magazine (.45 magnum uranium)
-    .desc = 7-round single stack magazine for large-caliber pistols. Intended to hold exotic uranium-core ammunition.
+ent-MagazineMagnumUranium = пистолетный магазин (.45 магнум урановые)
+    .desc = Однорядный магазин на 7 патронов для крупнокалиберных пистолетов. Предназначен для экзотических боеприпасов с урановым сердечником.
 
-ent-MagazineMagnumAP = pistol magazine (.45 magnum armor-piercing)
-    .desc = 7-round single stack magazine for large-caliber pistols. Intended to hold specialized armor-piercing ammunition.
+ent-MagazineMagnumAP = пистолетный магазин (.45 магнум бронебойные)
+    .desc = Однорядный магазин на 7 патронов для крупнокалиберных пистолетов. Предназначен для специальных бронебойных боеприпасов.

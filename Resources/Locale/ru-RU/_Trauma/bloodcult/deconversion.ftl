@@ -1,11 +1,11 @@
-blood-cult-deconvert-speech-1 = Av'te Nar'Sie
-blood-cult-deconvert-speech-2 = Pa'lid Mors
-blood-cult-deconvert-speech-3 = INO INO ORA ANA
-blood-cult-deconvert-speech-4 = SAT ANA!
-blood-cult-deconvert-speech-5 = Daim'niodeis Arc'iai Le'eones
-blood-cult-deconvert-speech-6 = R'ge Na'sie
-blood-cult-deconvert-speech-7 = Diabo us Vo'iscum
-blood-cult-deconvert-speech-8 = Eld' Mon Nobis
+blood-cult-deconvert-speech-1 = Ав'те Нар'Си
+blood-cult-deconvert-speech-2 = Па'лид Морс
+blood-cult-deconvert-speech-3 = ИНО ИНО ОРА АНА
+blood-cult-deconvert-speech-4 = САТ АНА!
+blood-cult-deconvert-speech-5 = Дайм'ниодейс Арк'иай Ле'эонес
+blood-cult-deconvert-speech-6 = Р'ге На'Си
+blood-cult-deconvert-speech-7 = Диабо ус Во'искум
+blood-cult-deconvert-speech-8 = Эльд' Мон Нобис
 
-blood-cult-deconverted-message-others = {$target} looks like {SUBJECT($target)} {CONJUGATE-HAVE($target)} just reverted to {POSS-ADJ($target)} old faith!
-blood-cult-deconverted-message-self = An unfamiliar white light flashes through your mind, cleansing the taint of the Geometer and all your memories as her servant.
+blood-cult-deconverted-message-others = Похоже, {$target} вновь следует убеждениям, которые {SUBJECT($target)} {CONJUGATE-HAVE($target)} в {POSS-ADJ($target)} прежней вере!
+blood-cult-deconverted-message-self = Незнакомый белый свет вспыхивает в вашем сознании, смывая порчу Геометра и стирая все воспоминания о служении ей.

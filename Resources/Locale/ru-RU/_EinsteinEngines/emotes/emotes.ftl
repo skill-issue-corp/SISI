@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-silicon-emote-deathgasp = seizes up and falls limp, {POSS-ADJ($entity)} lights sputtering into darkness...
-chat-emote-msg-deathgasp-silicon =  suddenly goes silent, with a hiss of grinding servos and a screech of dying myomers.
+silicon-emote-deathgasp = вздрагивает и безвольно падает, {POSS-ADJ($entity)} индикаторы мигают и гаснут...
+chat-emote-msg-deathgasp-silicon =  внезапно замолкает под скрежет сервоприводов и визг угасающих миомеров.

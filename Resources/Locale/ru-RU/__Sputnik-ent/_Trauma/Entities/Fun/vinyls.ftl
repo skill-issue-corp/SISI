@@ -1,2 +1,2 @@
-ent-VinylDiskTrauma = vinyl disk: TRAUMA
+ent-VinylDiskTrauma = виниловая пластинка: TRAUMA
     .desc = { ent-BaseVinylDisk.desc }

@@ -1,20 +1,20 @@
-ent-MobHumanLoneNuclearOperativeSuitDebug = Lone Operative Suit Debug
+ent-MobHumanLoneNuclearOperativeSuitDebug = Одиночный Оперативник в Скафандре DEBUG
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperativeSuitEliteDebug = Lone Operative Suit Elite Debug
+ent-MobHumanLoneNuclearOperativeSuitEliteDebug = Одиночный Оперативник в Элитном Скафандре DEBUG
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperativeSuitJuggDebug = Lone Operative Suit Juggernaut Debug
+ent-MobHumanLoneNuclearOperativeSuitJuggDebug = Одиночный Оперативник в Скафандре Джаггернаута DEBUG
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperativeSuitCommanderDebug = Lone Operative Suit Commander Debug
+ent-MobHumanLoneNuclearOperativeSuitCommanderDebug = Одиночный Оперативник в Командирском Скафандре DEBUG
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperativeSuitStealthDebug = Lone Operative Suit Stealth Debug
+ent-MobHumanLoneNuclearOperativeSuitStealthDebug = Одиночный Оперативник в Скафандре Скрытности DEBUG
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperativeSuitMedicDebug = Lone Operative Suit Medic Debug
+ent-MobHumanLoneNuclearOperativeSuitMedicDebug = Одиночный Оперативник в Медицинском Скафандре DEBUG
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperativeSuitDreadDebug = Lone Operative Suit Dread Debug
+ent-MobHumanLoneNuclearOperativeSuitDreadDebug = Одиночный Оперативник в Скафандре «Ужас» DEBUG
     .desc = { ent-MobHuman.desc }

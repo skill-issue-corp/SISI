@@ -1,11 +1,11 @@
-ent-BaseBlueprint = blueprint
-    .desc = A blueprint for some machine. It can be inserted into an autolathe.
+ent-BaseBlueprint = чертёж
+    .desc = Чертёж какой-то машины. Можно загрузить в автолат.
 
-ent-BlueprintFulton = fulton blueprint
-    .desc = A blueprint with a schematic of a fulton. It can be inserted into an autolathe.
+ent-BlueprintFulton = чертёж фултона
+    .desc = Чертёж со схемой фултона. Можно загрузить в автолат.
 
-ent-BlueprintSeismicCharge = seismic charge blueprint
-    .desc = A blueprint with a schematic of a seismic charge. It can be inserted into an autolathe.
+ent-BlueprintSeismicCharge = чертёж сейсмического заряда
+    .desc = Чертёж со схемой сейсмического заряда. Можно загрузить в автолат.
 
-ent-BlueprintDoubleEmergencyTank = double emergency tank blueprint
-    .desc = A blueprint with a schematic of a double emergency tank. It can be inserted into an autolathe.
+ent-BlueprintDoubleEmergencyTank = чертёж двойного аварийного баллона
+    .desc = Чертёж со схемой двойного аварийного баллона. Можно загрузить в автолат.

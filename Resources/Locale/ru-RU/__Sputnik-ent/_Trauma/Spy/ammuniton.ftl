@@ -1,31 +1,31 @@
 ent-BoxMagazineLightRifleSpy = { ent-BoxMagazineLightRifle }
     .desc = { ent-BoxMagazineLightRifle.desc }
-    .suffix = SpyReward
+    .suffix = НаградаШпиона
 
 ent-BoxMagazineRifleSpy = { ent-BoxMagazineRifle }
     .desc = { ent-BoxMagazineRifle.desc }
-    .suffix = SpyReward
+    .suffix = НаградаШпиона
 
 ent-BoxGrenadeSpy = { ent-BoxMagazine }
     .desc = { ent-BoxMagazine.desc }
-    .suffix = SpyReward
+    .suffix = НаградаШпиона
 
 ent-BoxMagazineShotgunSpy = { ent-BoxMagazine }
     .desc = { ent-BoxMagazine.desc }
-    .suffix = SpyReward
+    .suffix = НаградаШпиона
 
 ent-BoxMagazineHighCaliberSpy = { ent-BoxMagazine }
     .desc = { ent-BoxMagazine.desc }
-    .suffix = SpyReward
+    .suffix = НаградаШпиона
 
 ent-MagazineBoxAntiMaterielSpy = { ent-BoxMagazine }
     .desc = { ent-BoxMagazine.desc }
-    .suffix = SpyReward
+    .suffix = НаградаШпиона
 
 ent-MagazineBoxSpeedloaderMagnumAP = { ent-BoxMagazine }
     .desc = { ent-BoxMagazine.desc }
-    .suffix = SpyReward
+    .suffix = НаградаШпиона
 
 ent-BoxMagazineSmartSpy = { ent-BoxMagazine }
     .desc = { ent-BoxMagazine.desc }
-    .suffix = SpyReward
+    .suffix = НаградаШпиона

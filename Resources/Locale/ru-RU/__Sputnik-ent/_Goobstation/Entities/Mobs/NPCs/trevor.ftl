@@ -1,2 +1,2 @@
-ent-MobTrevor = Trevor
-    .desc = A thousand years of space evolution and this is the best we could come up with.
+ent-MobTrevor = Тревор
+    .desc = Тысяча лет космической эволюции, и это лучшее, до чего мы додумались.

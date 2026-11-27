@@ -1,11 +1,11 @@
 ent-FoodBagelBase = { ent-SolutionVeryTiny }
-    .desc = A delicious bagel.
+    .desc = Вкусный бейгл.
 
-ent-FoodBagel = bagel
+ent-FoodBagel = бейгл
     .desc = { ent-FoodBagelBase.desc }
 
-ent-FoodBagelPoppy = poppy seed bagel
-    .desc = A delicious bagel topped with bicaridine-infused poppy seeds.
+ent-FoodBagelPoppy = бейгл с маком
+    .desc = Вкусный бейгл с маком, пропитанным бикаридином.
 
-ent-FoodBagelCotton = cotton bagel
-    .desc = A delicious bagel made with cotton dough.
+ent-FoodBagelCotton = хлопковый бейгл
+    .desc = Вкусный бейгл из хлопкового теста.

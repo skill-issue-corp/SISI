@@ -1,5 +1,5 @@
-ent-SkillChipThrowing = HPYS-Chip (Hand-Eye Coordination)
+ent-SkillChipThrowing = Чип HPYS (Зрительно-Моторная Координация)
     .desc = { ent-BaseSkillChipHPYS.desc }
 
-ent-SkillChipThrowingTampered = HPYS-Chip (Tampered Hand-Eye Coordination)
+ent-SkillChipThrowingTampered = Чип HPYS (Изменённая Зрительно-Моторная Координация)
     .desc = { ent-BaseSkillChipHPYS.desc }

@@ -1,2 +1,2 @@
-ent-SyndicateCustomLawboard = syndicate freeform lawboard
-    .desc = A strange looking experimental lawboard. Judging by the Syndicate display on it, it's probaly used for nefarious purposes.
+ent-SyndicateCustomLawboard = модуль произвольных законов синдиката
+    .desc = Странный на вид экспериментальный модуль законов. Судя по символике Синдиката на дисплее, его используют для грязных дел.

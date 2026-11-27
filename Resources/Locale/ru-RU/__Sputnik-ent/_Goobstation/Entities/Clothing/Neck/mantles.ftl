@@ -1,5 +1,5 @@
-ent-ClothingNeckMantleVeteranSecurity = veteran security's mantle
-    .desc = Personally awarded by CC for service to the station.
+ent-ClothingNeckMantleVeteranSecurity = мантия ветерана службы безопасности
+    .desc = Лично вручена ЦК за службу на станции.
 
-ent-ClothingNeckMantleEpaulettes = golden epaulettes
-    .desc = Exquisitely-crafted gold epaulettes symbolizing admiralty within Central Command.
+ent-ClothingNeckMantleEpaulettes = золотые эполеты
+    .desc = Искусно изготовленные золотые эполеты – знак адмиральского звания в Центральном Командовании.

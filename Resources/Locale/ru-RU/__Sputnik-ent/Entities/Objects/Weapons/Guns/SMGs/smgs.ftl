@@ -1,21 +1,21 @@
-ent-BaseWeaponSubMachineGun = BaseSMG
-    .desc = A rooty tooty point and shooty.
+ent-BaseWeaponSubMachineGun = ППБазовый
+    .desc = Наводи да пали!
 
 ent-WeaponSubMachineGunAtreides = Atreides
-    .desc = A rare machine pistol hailing from the Corporate Wars. Its extremely high fire rate and compact profile make it useful in close quarters combat. Despite its age, it is in remarkably good condition. Feeds from .35 SMG magazines.
+    .desc = Редкий автоматический пистолет времён Корпоративных Войн. Чрезвычайно высокая скорострельность и компактность делают его особенно удобным в ближнем бою. Несмотря на возраст, он в удивительно хорошем состоянии. Использует магазины ПП .35.
 
-ent-WeaponSubMachineGunC20r = C-20r submachine gun
-    .desc = A classic and widespread submachine gun, infamous for its use by the Gorlex Marauders. One of the first homegrown Waffle Corp. designs, it remains in service today. Feeds from .35 SMG magazines.
+ent-WeaponSubMachineGunC20r = пистолет-пулемёт C-20r
+    .desc = Классический и широко распространённый пистолет-пулемёт, который печально прославили Мародёры Горлекса. Одна из первых собственных разработок «Ваффл Корп», на вооружении и по сей день. Использует магазины ПП .35.
 
 ent-WeaponSubMachineGunC20rROW = C-20r ROW
-    .desc = A burst-fire C-20r submachine gun for use by cyborgs. Creates .35 caliber ammo on the fly from an internal ammo fabricator, which slowly self-charges.
+    .desc = Пистолет-пулемёт C-20r для киборгов, стреляет очередями. Производит патроны калибра .35 на ходу при помощи встроенного фабрикатора, который медленно восстанавливает заряд.
 
 ent-WeaponSubMachineGunDrozd = Drozd
-    .desc = A modern SMG manufactured by Nanotrasen’s Small Arms Division. It features an exceptional rate of fire in burst mode, useful for holding defensive angles or engaging hostiles at longer ranges. Feeds from .35 SMG magazines.
+    .desc = Современный ПП производства Отдела Стрелкового Оружия NanoTrasen. Отличается исключительной скорострельностью при стрельбе очередями, что помогает держать оборону или поражать противников на дальней дистанции. Использует магазины ПП .35.
 
 ent-WeaponSubMachineGunWt550 = WT550
-    .desc = A truly unique firearm, the WT550 was designed by Nanotrasen's Small Arms Division as a compact submachine gun fully controllable with one hand. It contains an exotic internal recoil buffer and feeds from special top-mounted .35 magazines.
+    .desc = По-настоящему уникальное оружие. Отдел Стрелкового Оружия NanoTrasen спроектировал WT550 как компактный пистолет-пулемёт, с которым можно управиться одной рукой. Оснащён необычным встроенным буфером отдачи. Использует специальные магазины .35 с верхним креплением.
 
-ent-WeaponSubMachineGunBriefcase = brown briefcase
-    .desc = Useful for carrying items in your hands.
-    .suffix = Gun
+ent-WeaponSubMachineGunBriefcase = коричневый портфель
+    .desc = Подходит для переноски вещей в руках.
+    .suffix = Оружие

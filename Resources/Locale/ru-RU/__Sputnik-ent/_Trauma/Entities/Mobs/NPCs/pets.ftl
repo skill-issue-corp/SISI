@@ -1,9 +1,9 @@
-ent-MobPigPinecone = pinecone
-    .desc = Pinecone pig. Oink!
+ent-MobPigPinecone = шишка
+    .desc = Свинка-шишка. Хрю!
 
 ent-MobMonkeyPunpunPrisoner = { ent-MobMonkeyPunpun }
     .desc = { ent-MobMonkeyPunpun.desc }
-    .suffix = Prisoner
+    .suffix = Заключённый
 
 ent-SolutionShivaSpider = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }

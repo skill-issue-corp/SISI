@@ -8,14 +8,14 @@
 
 ## SpillTargetVerb
 
-spill-target-verb-get-data-text = Spill liquid
-spill-target-verb-activate-cannot-drain-message = You can't pour anything from {$owner}!
-spill-target-verb-activate-is-empty-message = {$owner} is empty!
+spill-target-verb-get-data-text = Вылить жидкость
+spill-target-verb-activate-cannot-drain-message = Из {$owner} ничего нельзя вылить!
+spill-target-verb-activate-is-empty-message = {$owner} пусто!
 
-spill-melee-hit-attacker = You spill {$amount}u of {THE($spillable)} onto {THE($target)}!
-spill-melee-hit-others = {CAPITALIZE(THE($attacker))} spills some of {THE($spillable)} onto {THE($target)}!
+spill-melee-hit-attacker = Вы выливаете {$amount} ед. жидкости из {$spillable} на {$target}!
+spill-melee-hit-others = {CAPITALIZE($attacker)} выливает часть жидкости из {$spillable} на {$target}!
 
-spill-land-spilled-on-other = {CAPITALIZE(THE($spillable))} spills some of its solution onto {THE($target)}!
+spill-land-spilled-on-other = {CAPITALIZE($spillable)} проливает часть раствора на {$target}!
 
-spill-examine-is-spillable = This container looks spillable.
-spill-examine-spillable-weapon = You could splash this onto someone with an attack.
+spill-examine-is-spillable = Похоже, содержимое этой ёмкости можно пролить.
+spill-examine-spillable-weapon = Этим можно плеснуть в кого-нибудь при атаке.

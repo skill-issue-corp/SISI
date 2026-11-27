@@ -1,115 +1,115 @@
 # Chest
 
-marking-ArachnidOverlayFluffy = Fluffy
-marking-ArachnidOverlayFluffy-fluffy = Fluff
+marking-ArachnidOverlayFluffy = Пушистый Покров
+marking-ArachnidOverlayFluffy-fluffy = Пушок
 
-marking-ArachnidTorsoSegments = Segmented Chest
-marking-ArachnidTorsoSegments-segments1 = Chest
-marking-ArachnidTorsoSegments-segments2 = Stomach
+marking-ArachnidTorsoSegments = Сегментированная Грудь
+marking-ArachnidTorsoSegments-segments1 = Грудь
+marking-ArachnidTorsoSegments-segments2 = Живот
 
-marking-SpiderMirror = Mirror
-marking-SpiderMirror-mirror = Mirror
+marking-SpiderMirror = Зеркальце
+marking-SpiderMirror-mirror = Зеркальце
 
 # Head
 
-marking-ArachnidHeadSegments = Segmented Head
-marking-ArachnidHeadSegments-segments1 = Head
-marking-ArachnidHeadSegments-segments2 = Stripe
+marking-ArachnidHeadSegments = Сегментированная Голова
+marking-ArachnidHeadSegments-segments1 = Голова
+marking-ArachnidHeadSegments-segments2 = Полоса
 
 # Snout
 
-marking-WhipSpiderMouth = Chelicerae (Whip)
-marking-WhipSpiderMouth-whipspidermouth = Chelicerae
+marking-WhipSpiderMouth = Хелицеры (Хлыстовидные)
+marking-WhipSpiderMouth-whipspidermouth = Хелицеры
 
 # Eyes
 
-marking-ArachnidEyesDefault = Eyes
-marking-ArachnidEyesDefault-eyes = Eyes (Default)
+marking-ArachnidEyesDefault = Глаза
+marking-ArachnidEyesDefault-eyes = Глаза (Обычные)
 
-marking-ArachnidEyesJumper = Jumper Eyes
-marking-ArachnidEyesJumper-jumper1 = Outer Right
-marking-ArachnidEyesJumper-jumper2 = Inner Right
-marking-ArachnidEyesJumper-jumper3 = Inner Left
-marking-ArachnidEyesJumper-jumper4 = Outer Left
+marking-ArachnidEyesJumper = Глаза Паука-Скакуна
+marking-ArachnidEyesJumper-jumper1 = Правые Наружные
+marking-ArachnidEyesJumper-jumper2 = Правые Внутренние
+marking-ArachnidEyesJumper-jumper3 = Левые Внутренние
+marking-ArachnidEyesJumper-jumper4 = Левые Наружные
 
-marking-ArachnidEyesJumperGlowing = Jumper Glowing Eyes
-marking-ArachnidEyesJumperGlowing-jumper1 = Outer Right
-marking-ArachnidEyesJumperGlowing-jumper2 = Inner Right
-marking-ArachnidEyesJumperGlowing-jumper3 = Inner Left
-marking-ArachnidEyesJumperGlowing-jumper4 = Outer Left
+marking-ArachnidEyesJumperGlowing = Светящиеся Глаза Паука-Скакуна
+marking-ArachnidEyesJumperGlowing-jumper1 = Правые Наружные
+marking-ArachnidEyesJumperGlowing-jumper2 = Правые Внутренние
+marking-ArachnidEyesJumperGlowing-jumper3 = Левые Внутренние
+marking-ArachnidEyesJumperGlowing-jumper4 = Левые Наружные
 
-marking-ArachnidEyesRound = Round Eyes
-marking-ArachnidEyesRound-round1 = Inner
-marking-ArachnidEyesRound-round2 = Upper
-marking-ArachnidEyesRound-round3 = Outer
-marking-ArachnidEyesRound-round4 = Sides
+marking-ArachnidEyesRound = Круглые Глаза
+marking-ArachnidEyesRound-round1 = Внутренние
+marking-ArachnidEyesRound-round2 = Верхние
+marking-ArachnidEyesRound-round3 = Наружные
+marking-ArachnidEyesRound-round4 = Боковые
 
-marking-ArachnidEyesRoundGlowing = Round Glowing Eyes
-marking-ArachnidEyesRoundGlowing-round1 = Inner
-marking-ArachnidEyesRoundGlowing-round2 = Upper
-marking-ArachnidEyesRoundGlowing-round3 = Outer
-marking-ArachnidEyesRoundGlowing-round4 = Sides
+marking-ArachnidEyesRoundGlowing = Круглые Светящиеся Глаза
+marking-ArachnidEyesRoundGlowing-round1 = Внутренние
+marking-ArachnidEyesRoundGlowing-round2 = Верхние
+marking-ArachnidEyesRoundGlowing-round3 = Наружные
+marking-ArachnidEyesRoundGlowing-round4 = Боковые
 
-marking-SpiderEyesMulti = Multicolor Eyes
-marking-SpiderEyesMulti-multi1 = Top
-marking-SpiderEyesMulti-multi2 = Middle Top
-marking-SpiderEyesMulti-multi3 = Middle Bottom
-marking-SpiderEyesMulti-multi4 = Bottom
+marking-SpiderEyesMulti = Разноцветные Глаза
+marking-SpiderEyesMulti-multi1 = Верхние
+marking-SpiderEyesMulti-multi2 = Средние Верхние
+marking-SpiderEyesMulti-multi3 = Средние Нижние
+marking-SpiderEyesMulti-multi4 = Нижние
 
-marking-SpiderGlowEyes = Glowing Eyes
-marking-SpiderGlowEyes-glow = Glowing Eyes
+marking-SpiderGlowEyes = Светящиеся Глаза
+marking-SpiderGlowEyes-glow = Светящиеся Глаза
 
 # RArm
 
-marking-ArachnidRArmSegments = Segmented Arm (Right)
-marking-ArachnidRArmSegments-segments1 = Upper Arm
-marking-ArachnidRArmSegments-segments2 = Forearm
+marking-ArachnidRArmSegments = Сегментированная Рука (Правая)
+marking-ArachnidRArmSegments-segments1 = Плечо
+marking-ArachnidRArmSegments-segments2 = Предплечье
 
 # LArm
 
-marking-ArachnidLArmSegments = Segmented Arm (Left)
-marking-ArachnidLArmSegments-segments1 = Upper Arm
-marking-ArachnidLArmSegments-segments2 = Forearm
+marking-ArachnidLArmSegments = Сегментированная Рука (Левая)
+marking-ArachnidLArmSegments-segments1 = Плечо
+marking-ArachnidLArmSegments-segments2 = Предплечье
 
 # RLeg
 
-marking-ArachnidRLegSegments = Segmented Leg (Right)
-marking-ArachnidRLegSegments-segments1 = Thigh
-marking-ArachnidRLegSegments-segments2 = Shin
+marking-ArachnidRLegSegments = Сегментированная Нога (Правая)
+marking-ArachnidRLegSegments-segments1 = Бедро
+marking-ArachnidRLegSegments-segments2 = Голень
 
 # LLeg
 
-marking-ArachnidLLegSegments = Segmented Leg (Left)
-marking-ArachnidLLegSegments-segments1 = Thigh
-marking-ArachnidLLegSegments-segments2 = Shin
+marking-ArachnidLLegSegments = Сегментированная Нога (Левая)
+marking-ArachnidLLegSegments-segments1 = Бедро
+marking-ArachnidLLegSegments-segments2 = Голень
 
 # UndergarmentBottom
 
 # UndergarmentTop
 
-marking-UndergarmentTopBinderA = Binder
-marking-UndergarmentTopBinderA-binder = Binder
+marking-UndergarmentTopBinderA = Утягивающий Топ
+marking-UndergarmentTopBinderA-binder = Утягивающий Топ
 
-marking-UndergarmentTopTanktopA = Tanktop
-marking-UndergarmentTopTanktopA-tanktop = Tanktop
+marking-UndergarmentTopTanktopA = Майка
+marking-UndergarmentTopTanktopA-tanktop = Майка
 
-marking-UndershirtBraSportsA = Bra (Sports)
-marking-UndershirtBraSportsA-sports = Bra
+marking-UndershirtBraSportsA = Бюстгальтер (Спортивный)
+marking-UndershirtBraSportsA-sports = Бюстгальтер
 
-marking-UndershirtBraStraplessA = Bra (Strapless)
-marking-UndershirtBraStraplessA-strapless = Bra
+marking-UndershirtBraStraplessA = Бюстгальтер (Без Бретелей)
+marking-UndershirtBraStraplessA-strapless = Бюстгальтер
 
-marking-UndershirtDefaultA = Undershirt
-marking-UndershirtDefaultA-undershirt = Undershirt
+marking-UndershirtDefaultA = Нательная Футболка
+marking-UndershirtDefaultA-undershirt = Нательная Футболка
 
-marking-UndershirtGrossSleevelessA = Tanktop (Gross)
-marking-UndershirtGrossSleevelessA-grosssleeveless = Tanktop
+marking-UndershirtGrossSleevelessA = Майка (Грязная)
+marking-UndershirtGrossSleevelessA-grosssleeveless = Майка
 
-marking-UndershirtNanotrasenA = Undershirt (Nanotrasen)
-marking-UndershirtNanotrasenA-nanotrasen = Undershirt
+marking-UndershirtNanotrasenA = Нательная Футболка (NanoTrasen)
+marking-UndershirtNanotrasenA-nanotrasen = Нательная Футболка
 
-marking-UndershirtRolledA = Undershirt (Cropped)
-marking-UndershirtRolledA-rolledundershirt = Undershirt
+marking-UndershirtRolledA = Нательная Футболка (Укороченная)
+marking-UndershirtRolledA-rolledundershirt = Нательная Футболка
 
 # LFoot
 
@@ -123,28 +123,28 @@ marking-UndershirtRolledA-rolledundershirt = Undershirt
 
 # Hair
 
-marking-SpiderHair1 = Fluffy
-marking-SpiderHair2 = Long Horned
-marking-SpiderHair3 = Wisps
+marking-SpiderHair1 = Пушистый Покров
+marking-SpiderHair2 = Длинные Рожки
+marking-SpiderHair3 = Прядки
 
 # HeadSide
 
-marking-ArachnidCheliceraeSmall = Chelicerae (Small)
-marking-ArachnidCheliceraeSmall-small = Chelicerae
+marking-ArachnidCheliceraeSmall = Хелицеры (Маленькие)
+marking-ArachnidCheliceraeSmall-small = Хелицеры
 
 # HeadTop
 
 # Tail
 
-marking-AbdomenBasic = Abdomen (Basic)
-marking-AbdomenBasic-abdomenbasic1 = Legs
-marking-AbdomenBasic-abdomenbasic2 = Abdomen
+marking-AbdomenBasic = Брюшко (Обычное)
+marking-AbdomenBasic-abdomenbasic1 = Ноги
+marking-AbdomenBasic-abdomenbasic2 = Брюшко
 
-marking-AbdomenWidow = Abdomen (Widow)
-marking-AbdomenWidow-widow1 = Abdomen and Arms
-marking-AbdomenWidow-widow2 = Marking
+marking-AbdomenWidow = Брюшко (Вдова)
+marking-AbdomenWidow-widow1 = Брюшко и Руки
+marking-AbdomenWidow-widow2 = Узор
 
-marking-CreepyArms = Creepy Arms
-marking-CreepyArms-creepy = Creepy Arms
+marking-CreepyArms = Жуткие Руки
+marking-CreepyArms-creepy = Жуткие Руки
 
 # RArmExtension

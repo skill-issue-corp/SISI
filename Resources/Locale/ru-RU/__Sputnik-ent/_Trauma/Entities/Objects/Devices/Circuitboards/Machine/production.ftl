@@ -1,8 +1,8 @@
-ent-DeepFryerCircuitboard = deep fryer machine board
-    .desc = A machine printed circuit board for a deep fryer.
+ent-DeepFryerCircuitboard = машинная плата фритюрницы
+    .desc = Печатная плата для фритюрницы.
 
-ent-ChemiCompilerMachineCircuitboard = ChemiCompiler M7 machine board
-    .desc = A machine printed circuit board for a ChemiCompiler M7.
+ent-ChemiCompilerMachineCircuitboard = машинная плата «ХимКомпилятора M7»
+    .desc = Печатная плата для «ХимКомпилятора M7».
 
-ent-AbductorBiofabMachineBoard = abductor biofab machine board
-    .desc = A machine printed circuit board for a abductor biofab.
+ent-AbductorBiofabMachineBoard = машинная плата биофабрикатора абдукторов
+    .desc = Печатная плата для биофабрикатора абдукторов.

@@ -1,23 +1,23 @@
-ent-ClothingShoesBootsMagBase = magboots
-    .desc = Magnetic boots, often used during extravehicular activity to ensure the user remains safely attached to the vehicle.
+ent-ClothingShoesBootsMagBase = магнитные ботинки
+    .desc = Магнитные ботинки, которые часто используют при выходе в открытый космос, чтобы не оторваться от корабля.
 
 ent-ClothingShoesBootsMag = { ent-ClothingShoesBootsMagBase }
     .desc = { ent-ClothingShoesBootsMagBase.desc }
 
-ent-ClothingShoesBootsMagAdv = advanced magboots
-    .desc = State-of-the-art magnetic boots that do not slow down their wearer.
+ent-ClothingShoesBootsMagAdv = продвинутые магнитные ботинки
+    .desc = Магнитные ботинки по последнему слову техники, не замедляющие владельца.
 
 ent-ClothingShoesBootsMagSci = { ent-ClothingShoesBootsMagBase }
     .desc = { ent-ClothingShoesBootsMagBase.desc }
 
-ent-ClothingShoesBootsMagBlinding = magboots of blinding speed
-    .desc = These would look fetching on a fetcher like you.
+ent-ClothingShoesBootsMagBlinding = магнитные ботинки ослепительной скорости
+    .desc = Такому проныре, как вы, они бы очень пошли.
 
-ent-ClothingShoesBootsMagSyndie = blood-red magboots
-    .desc = Reverse-engineered from ERT magboots, they have a heavy magnetic pull and integrated thrusters. It can hold 0.75 L of gas.
+ent-ClothingShoesBootsMagSyndie = кроваво-красные магнитные ботинки
+    .desc = Переработанная копия магнитных ботинок ОБР с мощными магнитами и встроенными двигателями. Вмещают 0.75 л газа.
 
-ent-ClothingShoesBootsMagERT = ERT magboots
-    .desc = Upgraded magnetic boots utilized by Nanotrasen's Emergency Response Teams, they have a heavy magnetic pull and integrated thrusters. It can hold 0.75 L of gas.
+ent-ClothingShoesBootsMagERT = магнитные ботинки ОБР
+    .desc = Улучшенные магнитные ботинки для Отрядов Быстрого Реагирования NanoTrasen. С мощными магнитами и встроенными двигателями. Вмещают 0.75 л газа.
 
-ent-ActionToggleMagboots = Toggle Magboots
-    .desc = Toggles the magboots on and off.
+ent-ActionToggleMagboots = Переключить Магнитные Ботинки
+    .desc = Включает и выключает магнитные ботинки.

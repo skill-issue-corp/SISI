@@ -1,3 +1,3 @@
-ent-CrateArmoryWeaponsRandom = security surplus crate
-    .desc = Contains various weaponry and equipment from Nanotrasen warehouses, hopefully enough to gear one officer. Requires Armory access to open.
-    .suffix = 1 per secoff, GOIDARMORY
+ent-CrateArmoryWeaponsRandom = ящик припасов СБ
+    .desc = Содержит разное оружие и снаряжение со складов NanoTrasen. Надеемся, хватит экипировать одного офицера. Для открытия требуется доступ в Оружейную.
+    .suffix = 1 на офицера сб, ГОЙДАРСЕНАЛ

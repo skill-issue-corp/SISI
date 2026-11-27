@@ -1,17 +1,17 @@
-ent-CrateFoodPizza = emergency pizza delivery
-    .desc = Help do your part to end station hunger by distributing pizza to underfunded departments! Includes 4 pizzas.
+ent-CrateFoodPizza = экстренная доставка пиццы
+    .desc = Помогите покончить с голодом на станции, раздавая пиццу отделам без денег! В комплекте 4 пиццы.
 
-ent-CrateFoodMRE = MRE crate
-    .desc = A military style meal fit to feed a whole department.
+ent-CrateFoodMRE = ящик ИРП
+    .desc = Армейский паёк, которого хватит накормить целый отдел.
 
-ent-CrateFoodSoftdrinks = softdrinks crate
-    .desc = A variety of sodas to complement a small party, without having to empty the soda machines. Includes 14 sodas.
+ent-CrateFoodSoftdrinks = ящик безалкогольных напитков
+    .desc = Набор газировок для небольшой вечеринки, чтобы не опустошать торговые автоматы. В комплекте 14 газировок.
 
-ent-CrateFoodIceCream = ice cream delivery
-    .desc = An assortment of ice cream delights for any occasion! Includes 16 frozen treats.
+ent-CrateFoodIceCream = доставка мороженого
+    .desc = Ассорти мороженого на любой случай! В комплекте 16 замороженных угощений.
 
-ent-CrateFoodSnowcone = snowcone delivery
-    .desc = A freezer packed with refreshing snowcones for a hard working crew, or even a lazy one! Includes 16 snowcones.
+ent-CrateFoodSnowcone = доставка ледяных рожков
+    .desc = Морозилка полна освежающего фруктового льда для трудолюбивого экипажа. Впрочем, ленивым тоже подойдёт! В комплекте 16 ледяных рожков.
 
-ent-CrateFoodHappyHonkBigBite = Happy Honk meal delivery
-    .desc = Two fully loaded Happy Honk Big Bite burger meals, complete with cheesy fries, a bottle of Space Cola, a slice of apple pie and a toy!
+ent-CrateFoodHappyHonkBigBite = доставка обедов «Хэппи Хонк»
+    .desc = Два полных набора с бургером «Хэппи Хонк Биг Байт», с картошкой фри под сыром, бутылкой Космо-Колы, кусочком яблочного пирога и игрушкой!

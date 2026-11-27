@@ -1,5 +1,5 @@
-ent-ConveyorBelt = conveyor belt
-    .desc = A conveyor belt, commonly used to transport large numbers of items elsewhere quite quickly.
+ent-ConveyorBelt = конвейерная лента
+    .desc = Конвейерная лента. Обычно её используют, чтобы быстро перевозить много предметов.
 
-ent-ConveyorBeltAssembly = conveyor belt assembly
-    .desc = A conveyor belt assembly. Used to construct a conveyor belt.
+ent-ConveyorBeltAssembly = каркас конвейерной ленты
+    .desc = Каркас для сборки конвейерной ленты.

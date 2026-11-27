@@ -1,2 +1,2 @@
-ent-CurseGravity = Curse of the Singularity
+ent-CurseGravity = Проклятие Сингулярности
     .desc = { ent-BaseEnchant.desc }

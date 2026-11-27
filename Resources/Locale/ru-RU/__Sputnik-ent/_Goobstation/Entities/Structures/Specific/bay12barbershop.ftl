@@ -1,8 +1,8 @@
-ent-ChairBarber = barbers chair
+ent-ChairBarber = парикмахерское кресло
     .desc = { ent-SeatBase.desc }
 
-ent-BarberSignPole = barber pole
-    .desc = Hypnotic.
+ent-BarberSignPole = вывеска парикмахерской
+    .desc = Завораживает.
 
-ent-BarberSignThesnip = the snip
-    .desc = Let's hope it's not a medical practice...
+ent-BarberSignThesnip = чик-чик
+    .desc = Будем надеяться, что это не медкабинет...

@@ -1,26 +1,26 @@
 ent-WeaponWandPolymorphBase = { ent-WeaponWandBase }
     .desc = { ent-WeaponWandBase.desc }
 
-ent-WeaponWandPolymorphCarp = wand of carp polymorph
-    .desc = For when you need a carp filet quick and the clown is looking juicy.
+ent-WeaponWandPolymorphCarp = жезл превращения в карпа
+    .desc = Когда срочно нужно филе карпа, а клоун выглядит аппетитно.
 
-ent-WeaponWandPolymorphMonkey = wand of monkey polymorph
-    .desc = For when you need a monkey friend.
+ent-WeaponWandPolymorphMonkey = жезл превращения в обезьяну
+    .desc = Когда вам нужен друг-обезьяна.
 
-ent-WeaponWandFireball = wand of fireball
-    .desc = Great big balls of fire!
+ent-WeaponWandFireball = жезл огненного шара
+    .desc = Ух, какие огненные шары!
 
-ent-WeaponWandLocker = staff of the locker
-    .desc = An artefact that expells encapsulating bolts, for incapacitating thy enemy.
+ent-WeaponWandLocker = посох шкафчиков
+    .desc = Артефакт, испускающий сгустки заключающей магии, дабы обездвижить супостата твоего.
 
-ent-WeaponWandDeath = magical wand of instant death
-    .desc = Only the best and brightest of the Space Wizards R&D team worked together to create this beauty.
+ent-WeaponWandDeath = волшебный жезл мгновенной смерти
+    .desc = Над этой красотой вместе трудились лучшие умы из отдела НиО Космических Волшебников.
 
-ent-WeaponWandPolymorphDoor = wand of entrance
-    .desc = For when you need a get-away route.
+ent-WeaponWandPolymorphDoor = жезл прохода
+    .desc = Когда нужен путь отхода.
 
-ent-WeaponWandCluwne = wand of cluwning
-    .desc = Make their situation worse by turning them into a cluwne.
+ent-WeaponWandCluwne = жезл клувенизации
+    .desc = Усугубите их положение, превратив их в клувеней.
 
-ent-WeaponWandPolymorphBread = magic bread wand
-    .desc = Turn all your friends into bread! Your boss! Your enemies! Your dog! Make everything bread!
+ent-WeaponWandPolymorphBread = волшебный хлебный жезл
+    .desc = Превратите всех своих друзей в хлеб! И начальника! И врагов! И собаку! Превратите в хлеб вообще всё!

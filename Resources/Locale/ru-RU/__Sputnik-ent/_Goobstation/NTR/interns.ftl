@@ -1,20 +1,20 @@
-ent-RadioLeadIntern = lead intern summoning radio
-    .desc = A NT-approved radio that can summon a lead intern with special coins.
+ent-RadioLeadIntern = рация вызова старшего стажёра
+    .desc = Одобренная NT рация, которая вызывает старшего стажёра с помощью особых монет.
 
-ent-LeadIntern = Lead Intern
+ent-LeadIntern = Старший Стажёр
     .desc = { ent-MobHuman.desc }
-    .suffix = Human
+    .suffix = Человек
 
-ent-InternCoin = intern summoning coin
-    .desc = Toss to summon an intern.
+ent-InternCoin = монета вызова стажёра
+    .desc = Подбросьте, чтобы вызвать стажёра.
 
-ent-NerdInternCoin = nerd intern summoning coin
-    .desc = Toss to summon a nerd intern.
+ent-NerdInternCoin = монета вызова стажёра-зубрилы
+    .desc = Подбросьте, чтобы вызвать стажёра-зубрилу.
 
-ent-NTIntern = NT Intern
+ent-NTIntern = Стажёр NT
     .desc = { ent-MobHuman.desc }
-    .suffix = Human
+    .suffix = Человек
 
-ent-NTNerdIntern = NT Nerd Intern
+ent-NTNerdIntern = Стажёр-Зубрила NT
     .desc = { ent-MobHuman.desc }
-    .suffix = Human
+    .suffix = Человек

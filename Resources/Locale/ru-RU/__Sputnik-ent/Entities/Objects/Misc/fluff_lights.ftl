@@ -1,20 +1,20 @@
-ent-BaseLamp = lantern
+ent-BaseLamp = фонарь
     .desc = { ent-BaseItem.desc }
 
-ent-Lamp = lamp
-    .desc = A light emitting device.
+ent-Lamp = лампа
+    .desc = Устройство, излучающее свет.
 
-ent-LampBanana = banana lamp
-    .desc = A light emitting device, shaped like a banana.
+ent-LampBanana = лампа-банан
+    .desc = Устройство, излучающее свет и похожее на банан.
 
-ent-LampGold = desk lamp
-    .desc = A light emitting device that would look great on a desk.
+ent-LampGold = настольная лампа
+    .desc = Устройство, излучающее свет. Отлично смотрелось бы на столе.
 
-ent-LampInterrogator = interrogator lamp
-    .desc = Ultra-bright lamp for the bad cop.
+ent-LampInterrogator = лампа для допросов
+    .desc = Сверхъяркая лампа для плохого полицейского.
 
-ent-Floodlight = floodlight
-    .desc = A pole with powerful mounted lights on it.
+ent-Floodlight = прожектор
+    .desc = Стойка с установленными на ней мощными фонарями.
 
-ent-FloodlightBroken = broken floodlight
-    .desc = A pole with powerful mounted lights on it. It's broken.
+ent-FloodlightBroken = сломанный прожектор
+    .desc = Стойка с установленными на ней мощными фонарями. Сломана.

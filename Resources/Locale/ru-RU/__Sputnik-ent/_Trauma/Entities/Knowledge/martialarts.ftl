@@ -1,44 +1,44 @@
-ent-MartialArtCQC = Close Quarters Combat
-    .desc = A practical martial art developed by a legendary soldier and his mentor long ago.
+ent-MartialArtCQC = Ближний Рукопашный Бой
+    .desc = Практичное боевое искусство, которое давным-давно разработали легендарный солдат и его наставник.
 
-ent-MartialArtCQCChef = Close Quarters Cooking
-    .desc = Just like CQC, but only usable in the kitchen, freezer and cafeteria.
+ent-MartialArtCQCChef = Ближний Кухонный Бой
+    .desc = Как Ближний Рукопашный Бой, только применять его можно лишь на кухне, в холодильной камере и в кафетерии.
 
-ent-MartialArtCorporateJudo = Corporate Judo
-    .desc = NanoTrasen's official martial art for security, effective at non-lethal takedowns of shitters and other bad people.
+ent-MartialArtCorporateJudo = Корпоративное Дзюдо
+    .desc = Официальное боевое искусство NanoTrasen для службы безопасности. Позволяет обезвреживать мудаков и прочих нехороших людей без смертельных исходов.
 
-ent-MartialArtKravMaga = Krav Maga
-    .desc = A defensive martial art created on Earth many centuries ago, still in use today.
+ent-MartialArtKravMaga = Крав-Мага
+    .desc = Защитное боевое искусство, созданное на Земле много веков назад. Его практикуют и по сей день.
 
-ent-MartialArtCapoeira = Capoeira
-    .desc = An especially violent brazilian dance form.
+ent-MartialArtCapoeira = Капоэйра
+    .desc = Особенно жестокая разновидность бразильского танца.
 
-ent-MartialArtHellRip = Hell Rip
-    .desc = Slaughter demons use this to rip their victims' limbs apart.
+ent-MartialArtHellRip = Адское Растерзание
+    .desc = Демоны резни этим приёмом отрывают жертвам конечности.
 
-ent-MartialArtNinjutsu = Ninjutsu
-    .desc = An ancient martial art focused on silent takedowns and sneak attacks.
+ent-MartialArtNinjutsu = Ниндзюцу
+    .desc = Древнее боевое искусство, основанное на бесшумном обезвреживании и внезапных атаках.
 
-ent-MartialArtSleepingCarp = Sleeping Carp
-    .desc = An oriental martial art used by those in tune with space carp.
+ent-MartialArtSleepingCarp = Спящий Карп
+    .desc = Восточное боевое искусство тех, кто в ладу с космическими карпами.
 
-ent-MartialArtPlasmaFist = Plasma Fist
+ent-MartialArtPlasmaFist = Плазменный Кулак
     .desc = { ent-BaseMartialArtsKnowledge.desc }
 
-ent-MartialArtSpaceBear = Space Bear
-    .desc = A powerful fighting style mimicing the equally powerful space bear.
+ent-MartialArtSpaceBear = Космический Медведь
+    .desc = Могучий боевой стиль, подражающий столь же могучему космическому медведю.
 
-ent-MartialArtBoxing = Boxing
-    .desc = The gentleman's fighting style.
+ent-MartialArtBoxing = Бокс
+    .desc = Боевой стиль джентльмена.
 
-ent-MartialArtDrunkfu = Drunk-Fu
-    .desc = How to fight in a pub.
+ent-MartialArtDrunkfu = Пьянь-Фу
+    .desc = Как драться в кабаке.
 
-ent-MartialArtMimejutsu = Mimejutsu
-    .desc = Silent but deadly.
+ent-MartialArtMimejutsu = Мимдзюцу
+    .desc = Тихо, но смертельно.
 
-ent-MartialArtAdminfu = Admin-Fu
-    .desc = AHELP: Clown Grief Me Pls Ban He
+ent-MartialArtAdminfu = Админ-Фу
+    .desc = AHELP: Клоун Мне Гриферит Пж Забань Он
 
-ent-MartialArtArmstrongKarate = Armstrong style Karate
-    .desc = A style of karate developed out of pain and self reflection.
+ent-MartialArtArmstrongKarate = Карате в стиле Армстронга
+    .desc = Стиль карате, рождённый из боли и самоанализа.

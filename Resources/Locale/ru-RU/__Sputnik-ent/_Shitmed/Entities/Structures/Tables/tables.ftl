@@ -1,2 +1,2 @@
-ent-TableAbductor = alien table
-    .desc = Literally the sturdiest thing you have ever seen.
+ent-TableAbductor = инопланетный стол
+    .desc = Буквально самая прочная вещь из всех, что вы когда-либо видели.

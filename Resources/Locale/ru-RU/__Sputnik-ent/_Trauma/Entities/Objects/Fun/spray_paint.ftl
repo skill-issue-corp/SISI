@@ -1,52 +1,52 @@
-ent-BaseSprayPaintUnlimited = spray paint
-    .desc = A can of spray paint. Solvent abuse can kill instantly!
+ent-BaseSprayPaintUnlimited = аэрозольная краска
+    .desc = Баллончик аэрозольной краски. Вдыхание паров растворителя может убить мгновенно!
 
 ent-BaseSprayPaint = { ent-BaseSprayPaintUnlimited }
     .desc = { ent-BaseSprayPaintUnlimited.desc }
 
-ent-SprayPaintFunny = funny paint
-    .desc = A tin of funny paint, manufactured by Honk! Co.
+ent-SprayPaintFunny = смешная краска
+    .desc = Банка смешной краски производства «Хонк! Ко.».
 
 ent-SprayPaintFunnyYellow = { ent-SprayPaintFunny }
     .desc = { ent-SprayPaintFunny.desc }
-    .suffix = Yellow
+    .suffix = Жёлтая
 
 ent-SprayPaintDeath = { ent-BaseSprayPaint }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Death
+    .suffix = Смерть
 
 ent-SprayPaintDeathTwo = { ent-BaseSprayPaint }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Death 2
+    .suffix = Смерть 2
 
 ent-SprayPaintRed = { ent-BaseSprayPaint }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Red
+    .suffix = Красный
 
 ent-SprayPaintGreen = { ent-BaseSprayPaint }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Green
+    .suffix = Зелёный
 
 ent-SprayPaintBlue = { ent-BaseSprayPaint }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Blue
+    .suffix = Синий
 
 ent-SprayPaintBlack = { ent-BaseSprayPaint }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Black
+    .suffix = Чёрный
 
 ent-SprayPaintOrange = { ent-BaseSprayPaint }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Orange
+    .suffix = Оранжевый
 
 ent-SprayPaintPurple = { ent-BaseSprayPaint }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Purple
+    .suffix = Фиолетовый
 
 ent-SprayPaintWhite = { ent-BaseSprayPaint }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = White
+    .suffix = Белый
 
 ent-SprayPaintInvisible = { ent-BaseSprayPaint }
     .desc = { ent-BaseSprayPaint.desc }
-    .suffix = Invisible, DO NOT MAP
+    .suffix = Невидимая, НЕ МАППИТЬ

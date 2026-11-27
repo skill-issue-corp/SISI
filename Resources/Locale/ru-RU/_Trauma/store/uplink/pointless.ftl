@@ -1,3 +1,3 @@
-uplink-scarf-syndie-red-name-trauma = Striped Syndicate Red Scarf
+uplink-scarf-syndie-red-name-trauma = Полосатый Красный Шарф Синдиката
 
-uplink-scarf-syndie-green-name-trauma = Striped Syndicate Green Scarf
+uplink-scarf-syndie-green-name-trauma = Полосатый Зелёный Шарф Синдиката

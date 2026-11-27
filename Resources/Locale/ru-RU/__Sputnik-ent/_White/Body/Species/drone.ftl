@@ -3,7 +3,7 @@ ent-AppearanceXenomorphDrone = { ent-AppearanceXenomorphBase }
 
 ent-OrganXenomorphHeadDrone = { ent-OrganXenomorphHead }
     .desc = { ent-OrganXenomorphHead.desc }
-    .suffix = xenomorph drone
+    .suffix = дрон ксеноморфов
 
-ent-OrganXenomorphPlasmaVesselLarge = large plasma vessel
+ent-OrganXenomorphPlasmaVesselLarge = большой плазменный сосуд
     .desc = { ent-OrganXenomorphPlasmaVessel.desc }

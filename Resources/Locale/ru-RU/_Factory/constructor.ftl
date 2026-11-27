@@ -1,2 +1,2 @@
-constructor-examine-unset = There is no construction configured.
-constructor-examine = It is configured to construct {INDEFINITE($name)} [bold]{$name}[/bold].
+constructor-examine-unset = Объект для постройки ещё не выбран.
+constructor-examine = Устройство настроено на постройку [bold]{$name}[/bold].

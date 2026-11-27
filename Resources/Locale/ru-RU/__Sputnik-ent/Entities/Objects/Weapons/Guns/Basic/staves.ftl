@@ -1,5 +1,5 @@
-ent-WeaponStaffHealing = staff of healing
-    .desc = An artefact that spits bolts of restoring magic which can remove ailments of all kinds and even raise the dead. Effects are reversed on the undead.
+ent-WeaponStaffHealing = посох исцеления
+    .desc = Артефакт, выпускающий сгустки исцеляющей магии. Излечивает любые недуги и даже воскрешает мёртвых. На нежить действует наоборот.
 
-ent-WeaponStaffPolymorphDoor = staff of door creation
-    .desc = An artefact that spits bolts of transformative magic that can create doors in walls.
+ent-WeaponStaffPolymorphDoor = посох создания дверей
+    .desc = Артефакт, выпускающий сгустки магии превращения, которые проделывают в стенах двери.

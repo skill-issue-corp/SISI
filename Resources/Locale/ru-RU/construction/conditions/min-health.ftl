@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-construction-examine-condition-low-health = First, repair it.
-construction-step-condition-low-health = It must be repaired.
+construction-examine-condition-low-health = Сначала отремонтируйте это.
+construction-step-condition-low-health = Это должно быть отремонтировано.

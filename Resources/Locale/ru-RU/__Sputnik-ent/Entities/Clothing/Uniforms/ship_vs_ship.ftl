@@ -1,17 +1,17 @@
-ent-ClothingUniformJumpsuitRecruitNT = recruit jumpsuit
-    .desc = A classy grey jumpsuit with blue trims. Perfect for the dignified helper.
+ent-ClothingUniformJumpsuitRecruitNT = комбинезон новобранца
+    .desc = Элегантный серый комбинезон с синей отделкой. Идеально подходит для помощника с достоинством.
 
-ent-ClothingUniformJumpsuitRecruitSyndie = syndicate recruit jumpsuit
-    .desc = A dubious, dark-grey jumpsuit. As if passengers weren't dubious enough already.
+ent-ClothingUniformJumpsuitRecruitSyndie = комбинезон новобранца синдиката
+    .desc = Подозрительный тёмно-серый комбинезон. Как будто пассажиры и так не слишком подозрительны.
 
-ent-ClothingUniformJumpsuitRepairmanNT = repairman jumpsuit
-    .desc = A jumpsuit that reminds you of a certain crew-sector work position. Hopefully, you won't have to do the same job as THOSE freaks.
+ent-ClothingUniformJumpsuitRepairmanNT = комбинезон ремонтника
+    .desc = Комбинезон напоминает о вполне конкретной должности в отсеках экипажа. Будем надеяться, что вам не придётся делать ту же работу, что и ЭТИ психи.
 
-ent-ClothingUniformJumpsuitRepairmanSyndie = syndicate repairman jumpsuit
-    .desc = Functional, fashionable, and badass. Nanotrasen's engineers wish they could look as good as this.
+ent-ClothingUniformJumpsuitRepairmanSyndie = комбинезон ремонтника синдиката
+    .desc = Практичный, модный и крутой. Инженеры NanoTrasen мечтают выглядеть так же хорошо.
 
-ent-ClothingUniformJumpsuitParamedicSyndie = syndicate paramedic jumpsuit
-    .desc = For some reason, wearing this makes you feel like you're awfully close to violating the Geneva Convention.
+ent-ClothingUniformJumpsuitParamedicSyndie = комбинезон парамедика синдиката
+    .desc = Почему-то в нём кажется, будто вы вот-вот нарушите Женевскую Конвенцию.
 
-ent-ClothingUniformJumpsuitChiefEngineerSyndie = syndicate chief engineer jumpsuit
-    .desc = An evil-looking jumpsuit with a reflective vest & red undershirt.
+ent-ClothingUniformJumpsuitChiefEngineerSyndie = комбинезон старшего инженера синдиката
+    .desc = Зловещий на вид комбинезон со светоотражающим жилетом и красной майкой.

@@ -1,5 +1,5 @@
-ent-BaseSpeedLoaderCap = cap gun loader
+ent-BaseSpeedLoaderCap = спидлоадер для пистонного пистолета
     .desc = { ent-BaseItem.desc }
 
-ent-SpeedLoaderCap = cap gun loader
-    .desc = Designed to quickly load up to six cartridges into an empty cap gun.
+ent-SpeedLoaderCap = спидлоадер для пистонного пистолета
+    .desc = Позволяет быстро зарядить в пустой пистонный пистолет до шести пистонов.

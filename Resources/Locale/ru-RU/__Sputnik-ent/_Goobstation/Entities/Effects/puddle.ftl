@@ -1,3 +1,3 @@
 ent-PuddleSpaceLube = { ent-PuddleTemporary }
     .desc = { ent-PuddleTemporary.desc }
-    .suffix = SpaceLube
+    .suffix = Космическая Смазка

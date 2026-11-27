@@ -6,14 +6,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-entity-category-name-actions = Actions
-entity-category-name-game-rules = Game Rules
-entity-category-name-objectives = Objectives
-entity-category-name-roles = Mind Roles
-entity-category-name-mapping = Mapping
-entity-category-name-donotmap = Do not map
-entity-category-name-status-effects = Status Effects
-entity-category-name-xeno-artifact-effects = Xeno Artifact Effects
-entity-category-name-xeno-artifact-triggers = Xeno Artifact triggers
+entity-category-name-actions = Действия
+entity-category-name-game-rules = Правила Игры
+entity-category-name-objectives = Цели
+entity-category-name-roles = Роли Разума
+entity-category-name-mapping = Маппинг
+entity-category-name-donotmap = Не маппить
+entity-category-name-status-effects = Эффекты Состояния
+entity-category-name-xeno-artifact-effects = Эффекты Ксеноартефактов
+entity-category-name-xeno-artifact-triggers = Триггеры ксеноартефактов
 
-entity-category-suffix-donotmap = DO NOT MAP
+entity-category-suffix-donotmap = НЕ МАППИТЬ

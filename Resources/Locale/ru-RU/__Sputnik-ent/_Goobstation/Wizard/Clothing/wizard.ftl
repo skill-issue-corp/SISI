@@ -1,122 +1,122 @@
-ent-ClothingEyesEyepatchMedical = medical eyepatch
-    .desc = Used by space weeaboos to pretend their eye isn't there, and crewmembers who actually lost their eye to pretend their eye is there.
-    .suffix = DO NOT MAP
+ent-ClothingEyesEyepatchMedical = медицинская повязка на глаз
+    .desc = Космические анимешники носят её, чтобы притвориться, будто у них нет глаза, а члены экипажа, правда лишившиеся глаза, - чтобы притвориться, будто он есть.
+    .suffix = НЕ МАППИТЬ
 
 ent-ClothingHeadHatWizardBaseArmor = { "" }
     .desc = { "" }
-    .suffix = Wizard Clothes
+    .suffix = Одежда Волшебника
 
 ent-ClothingOuterWizardBaseArmor = { "" }
     .desc = { "" }
-    .suffix = Wizard Clothes
+    .suffix = Одежда Волшебника
 
-ent-ClothingHeadHatBlackwizardReal = black wizard hat
-    .desc = Strange-looking black hat-wear that most certainly belongs to a real lich. Spooky.
+ent-ClothingHeadHatBlackwizardReal = чёрная шляпа волшебника
+    .desc = Странная чёрная шляпа, которая наверняка принадлежит настоящему личу. Жуть.
 
-ent-ClothingOuterWizardBlackReal = black wizard robes
-    .desc = An unnerving black gem-lined robe that reeks of death and decay.
+ent-ClothingOuterWizardBlackReal = чёрная роба волшебника
+    .desc = Жуткая чёрная роба, расшитая самоцветами. От неё разит смертью и тлением.
 
-ent-ClothingHeadHatYellowwizardReal = yellow wizard hat
-    .desc = Strange-looking yellow hat-wear that most certainly belongs to a powerful magic user.
+ent-ClothingHeadHatYellowwizardReal = жёлтая шляпа волшебника
+    .desc = Странная жёлтая шляпа, которая наверняка принадлежит могущественному волшебнику.
 
-ent-ClothingOuterWizardYellowReal = yellow wizard robes
-    .desc = A magnificent yellow gem-lined robe that seems to radiate power.
+ent-ClothingOuterWizardYellowReal = жёлтая роба волшебника
+    .desc = Великолепная жёлтая роба, расшитая самоцветами. Она словно излучает силу.
 
-ent-ClothingHeadHatTapewizardReal = tape hat
-    .desc = A magically attuned hat made exclusively from duct tape. You can barely see.
+ent-ClothingHeadHatTapewizardReal = шляпа из скотча
+    .desc = Зачарованная шляпа целиком из клейкой ленты. В ней почти ничего не видно.
 
-ent-ClothingOuterWizardTapeReal = tape robes
-    .desc = A fine robe made from magically attuned duct tape.
+ent-ClothingOuterWizardTapeReal = роба из скотча
+    .desc = Изящная роба из зачарованной клейкой ленты.
 
-ent-ClothingHeadHatChanterelleReal = chanterelle hat
-    .desc = An oversized chanterelle with hollow out space to fit a head in. Kinda looks like wizard's hat.
+ent-ClothingHeadHatChanterelleReal = шляпа-лисичка
+    .desc = Огромная лисичка, выдолбленная изнутри под голову. Смахивает на шляпу волшебника.
 
-ent-ClothingOuterWizardPaperReal = papier-mâché robes
-    .desc = A robe held together by various bits of clear-tape and paste.
+ent-ClothingOuterWizardPaperReal = мантия из папье-маше
+    .desc = Роба, которая держится на обрывках прозрачного скотча и клее.
 
-ent-ClothingHeadHatPaperWizard = paper magic hat
+ent-ClothingHeadHatPaperWizard = бумажная волшебная шляпа
     .desc = { ent-ClothingHeadHatWizardBaseArmor.desc }
 
-ent-ClothingHeadHatMimeReal = magical beret
-    .desc = A magical red beret.
+ent-ClothingHeadHatMimeReal = волшебный берет
+    .desc = Волшебный красный берет.
 
-ent-ClothingOuterWizardMimeReal = mime robes
-    .desc = Red, black, and white robes. There is not much else to say about them.
+ent-ClothingOuterWizardMimeReal = роба мима
+    .desc = Красно-чёрно-белая роба. Больше о ней особо нечего сказать.
 
-ent-ClothingHeadHatClownReal = purple wizard hat
-    .desc = Strange-looking purple hat-wear that most certainly belongs to a real magic user.
+ent-ClothingHeadHatClownReal = фиолетовая шляпа волшебника
+    .desc = Странная фиолетовая шляпа, которая наверняка принадлежит настоящему волшебнику.
 
-ent-ClothingOuterWizardClownReal = clown robes
-    .desc = A set of armoured robes that seem to radiate a dark power. That, and bad fashion decisions.
+ent-ClothingOuterWizardClownReal = роба клоуна
+    .desc = Бронированная роба, от которой словно исходит тёмная сила. И дурной вкус.
 
-ent-ClothingHeadHatPsyReal = psychic amplifier
-    .desc = A crown-of-thorns psychic amplifier.
+ent-ClothingHeadHatPsyReal = псионический усилитель
+    .desc = Псионический усилитель в виде тернового венца.
 
-ent-ClothingOuterWizardPsyReal = purple robes
-    .desc = Heavy, royal purple robes threaded with psychic amplifiers and weird, bulbous lenses. Do not machine wash.
+ent-ClothingOuterWizardPsyReal = пурпурная роба
+    .desc = Тяжёлая роба царственного пурпурного цвета, пронизанная псионическими усилителями и странными выпуклыми линзами. Машинная стирка запрещена.
 
-ent-ClothingHeadHatOblivionEnforcer = oblivion enforcer's hood
-    .desc = A hood worn by an Oblivion Enforcer.
+ent-ClothingHeadHatOblivionEnforcer = капюшон стража забвения
+    .desc = Капюшон, который носит Страж Забвения.
 
-ent-ClothingOuterOblivionEnforcer = oblivion enforcer's robes
-    .desc = A set of armored, radiation-proof robes worn by Oblivion Enforcers.
+ent-ClothingOuterOblivionEnforcer = мантия стража забвения
+    .desc = Бронированная мантия с защитой от радиации, которую носят Стражи Забвения.
 
-ent-ClothingMaskGasOblivionEnforcer = oblivion enforcer's mask
-    .desc = The mask of an Oblivion Enforcer. Don't forget to turn it on before giving your one-liners!
-    .suffix = Voice Mask, Wizard Clothes
+ent-ClothingMaskGasOblivionEnforcer = маска стража забвения
+    .desc = Маска Стража Забвения. Не забудьте её включить, прежде чем бросаться эффектными репликами!
+    .suffix = Маска с Изменителем Голоса, Одежда Волшебника
 
-ent-ClothingHeadHatWizardReal = wizard hat
+ent-ClothingHeadHatWizardReal = шляпа волшебника
     .desc = { ent-ClothingHeadHatWizardBaseArmor.desc }
 
-ent-ClothingOuterWizardReal = wizard robes
+ent-ClothingOuterWizardReal = мантия волшебника
     .desc = { ent-ClothingOuterWizardBaseArmor.desc }
 
-ent-ClothingHeadHatRedwizardReal = red wizard hat
+ent-ClothingHeadHatRedwizardReal = красная шляпа волшебника
     .desc = { ent-ClothingHeadHatWizardBaseArmor.desc }
 
-ent-ClothingOuterWizardRedReal = red wizard robes
+ent-ClothingOuterWizardRedReal = красная мантия волшебника
     .desc = { ent-ClothingOuterWizardBaseArmor.desc }
 
-ent-ClothingHeadHatVioletwizardReal = violet wizard hat
+ent-ClothingHeadHatVioletwizardReal = фиолетовая шляпа волшебника
     .desc = { ent-ClothingHeadHatWizardBaseArmor.desc }
 
-ent-ClothingOuterWizardVioletReal = violet wizard robes
+ent-ClothingOuterWizardVioletReal = фиолетовая мантия волшебника
     .desc = { ent-ClothingOuterWizardBaseArmor.desc }
 
-ent-ClothingHeadHatWitchReal = witch hat
+ent-ClothingHeadHatWitchReal = ведьминская шляпа
     .desc = { ent-ClothingHeadHatWizardBaseArmor.desc }
 
-ent-ClothingOuterSuitWitchRobesReal = witch robes
+ent-ClothingOuterSuitWitchRobesReal = ведьмино одеяние
     .desc = { ent-ClothingOuterWizardBaseArmor.desc }
 
-ent-ClothingHeadHatShrineMaidenWigReal = shrine maiden's wig
+ent-ClothingHeadHatShrineMaidenWigReal = парик храмовой жрицы
     .desc = { ent-ClothingHeadHatWizardBaseArmor.desc }
 
-ent-ClothingOuterSuitShrineMaidenReal = shrine maiden outfit
+ent-ClothingOuterSuitShrineMaidenReal = наряд храмовой жрицы
     .desc = { ent-ClothingOuterWizardBaseArmor.desc }
 
-ent-ClothingHeadHatCentCommwizardReal = CentComm wizard hat
-    .desc = A pristine green and gold wizard hat, regulation issue for Central Command's arcane operatives. Worn only by those authorized to wield classified thaumaturgic instruments.
-    .suffix = ADMIN
+ent-ClothingHeadHatCentCommwizardReal = шляпа волшебника ЦК
+    .desc = Безупречная зелёно-золотая шляпа волшебника, положенная по уставу магическим оперативникам Центрального Командования. Её носят только допущенные к секретным тауматургическим инструментам.
+    .suffix = АДМИН
 
-ent-ClothingOuterWizardCentCommReal = CentComm wizard robes
-    .desc = A pristine green and gold gem-lined robe, regulation issue for Central Command's arcane operatives. Worn only by those authorized to wield classified thaumaturgic instruments.
-    .suffix = ADMIN
+ent-ClothingOuterWizardCentCommReal = роба волшебника ЦК
+    .desc = Безупречная зелёно-золотая роба, расшитая самоцветами и положенная по уставу магическим оперативникам Центрального Командования. Её носят только допущенные к секретным тауматургическим инструментам.
+    .suffix = АДМИН
 
-ent-ClothingHandsGlovesWizard = wizard gloves
-    .desc = A magnificent pair of blue gem-lined gloves that seem to be insulated.
+ent-ClothingHandsGlovesWizard = перчатки волшебника
+    .desc = Великолепная пара синих перчаток, расшитых самоцветами. Похоже, они изолированы.
 
 ent-ClothingHandsGlovesWizardPaper = { ent-ClothingHandsGlovesWizard }
     .desc = { ent-ClothingHandsGlovesWizard.desc }
 
-ent-ClothingHeadHatCrimsonReal = crimson wizard hat
-    .desc = A wide-brimmed, pointy wizard hat adorned with a crimson band and a touch of theatrical flair. Feels... explosive.
+ent-ClothingHeadHatCrimsonReal = багровая шляпа волшебника
+    .desc = Остроконечная широкополая шляпа волшебника с багровой лентой и лёгким налётом театральности. От неё веет чем-то... взрывным.
 
-ent-ClothingOuterWizardCrimsonReal = crimson wizard robes
-    .desc = A flowing set of red and gold-trimmed robes, made for dramatic spellcasting. You can feel the power flowing through you...
+ent-ClothingOuterWizardCrimsonReal = багровая роба волшебника
+    .desc = Струящаяся красная роба с золотой отделкой, созданная для эффектного колдовства. Вы чувствуете, как сила течёт сквозь вас...
 
-ent-ClothingNeckCloakCrimson = Crimson Cape
-    .desc = A black cape with a high collar and gold trim. Billows dramatically even when there's no wind.
+ent-ClothingNeckCloakCrimson = Багровая Накидка
+    .desc = Чёрная накидка с высоким воротником и золотой отделкой. Эффектно развевается даже в безветрие.
 
-ent-ClothingUnderShoesCrimson = crimson boots
-    .desc = Comes with a pair of mismatched thigh-high socks to bring out their full power!
+ent-ClothingUnderShoesCrimson = багровые сапоги
+    .desc = В комплекте два разных чулка до бёдер, чтобы раскрыть всю их мощь!

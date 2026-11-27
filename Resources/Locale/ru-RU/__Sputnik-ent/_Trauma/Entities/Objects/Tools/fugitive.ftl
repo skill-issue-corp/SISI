@@ -1,2 +1,2 @@
-ent-SatchelFugitive = undetermined fugitive satchel
-    .desc = Most only plan to escape, you planned further.
+ent-SatchelFugitive = сумка нерешительного беглеца
+    .desc = Большинство планирует только побег. Вы продумали, что делать дальше.

@@ -1,5 +1,5 @@
-ent-BoltTempgunCold = freezing bolt
+ent-BoltTempgunCold = замораживающий заряд
     .desc = { ent-WatcherBolt.desc }
 
-ent-BoltTempgunHot = scorching bolt
+ent-BoltTempgunHot = обжигающий заряд
     .desc = { ent-WatcherBoltMagmawing.desc }

@@ -1,10 +1,10 @@
-revenant-crush-chaplain = Some mysterious force shields them from your influence.
-revenant-crush-start = The revenant reaches out towards you, making a crushing motion.
-revenant-crush-you = You are completely crushed.
+revenant-crush-chaplain = Некая таинственная сила защищает их от вашего влияния.
+revenant-crush-start = Ревенант тянется к вам и сжимает руку, словно хочет раздавить.
+revenant-crush-you = Вас раздавило.
 
-revenant-touch-of-evil-start = You feel like you could take anyone!!
-revenant-touch-of-evil-end = The effect of the touch wears off...
+revenant-touch-of-evil-start = Вам кажется, что вы справитесь с кем угодно!!
+revenant-touch-of-evil-end = Эффект прикосновения проходит...
 
-wraith-must-be-corporeal = You must be in corporeal form in order to use this action.
-collective-mind-wraith = Wraithmind
-wraith-wp-action-needs = [color=Red]{$wp}WP[/color]
+wraith-must-be-corporeal = Для этого действия нужна материальная форма.
+collective-mind-wraith = Коллективный Разум Фантомов
+wraith-wp-action-needs = [color=Red]{$wp}ФО[/color]

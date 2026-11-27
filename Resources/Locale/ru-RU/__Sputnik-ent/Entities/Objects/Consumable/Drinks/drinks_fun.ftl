@@ -1,18 +1,18 @@
 ent-BaseSqueezeBottle = { ent-DrinkBaseMaterialPlastic }
     .desc = { ent-DrinkBaseMaterialPlastic.desc }
 
-ent-DrinkSpaceGlue = space glue tube
-    .desc = High performance glue intended for maintenance of extremely complex mechanical equipment. DON'T DRINK!
+ent-DrinkSpaceGlue = тюбик космического клея
+    .desc = Высокоэффективный клей для обслуживания крайне сложного механического оборудования. НЕ ПИТЬ!
 
-ent-DrinkSpaceLube = space lube tube
-    .desc = High performance lubricant intended for maintenance of extremely complex mechanical equipment.
+ent-DrinkSpaceLube = тюбик космической смазки
+    .desc = Высокоэффективная смазка для обслуживания крайне сложного механического оборудования.
 
-ent-BottomlessLube = bottomless lube beaker
-    .desc = This anomalous beaker infinitely produces space lube and as such is to be closely guarded such that it doesn't fall in the wrong hands.
+ent-BottomlessLube = бездонная мензурка смазки
+    .desc = Эта аномальная мензурка бесконечно производит космическую смазку. Её тщательно охраняют, чтобы она не попала не в те руки.
     .suffix = DEBUG
 
-ent-DrinkJarWhat = jar of something
-    .desc = You can't really tell what this is.
+ent-DrinkJarWhat = банка чего-то
+    .desc = Не очень понятно, что это.
 
-ent-DrinkMopwataBottleRandom = delicious mopwata
-    .desc = A foggy brown bottle with a faded label depicting a mop. It comes full of murky... vintage.
+ent-DrinkMopwataBottleRandom = вкусная швабровка
+    .desc = Мутная коричневая бутылка с выцветшей этикеткой, на которой нарисована швабра. Доверху полна мутного... урожая.

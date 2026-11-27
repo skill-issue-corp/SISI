@@ -4,26 +4,26 @@ ent-BaseHardlightArrow = { "" }
 ent-BaseHardlightEmbeddableArrow = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-ArrowEnergy = energy arrow
-    .desc = An arrow made from hardlight.
+ent-ArrowEnergy = энергетическая стрела
+    .desc = Стрела из твёрдого света.
 
-ent-ArrowDisabler = disabler arrow
-    .desc = An arrow made from hardlight. This one stuns the victim in a non-lethal way.
+ent-ArrowDisabler = оглушающая стрела
+    .desc = Стрела из твёрдого света. Эта оглушает жертву, не убивая её.
 
-ent-ArrowFiery = fiery arrow
-    .desc = An arrow made from hardlight. This one burns the victim.
+ent-ArrowFiery = огненная стрела
+    .desc = Стрела из твёрдого света. Эта обжигает жертву.
 
-ent-ArrowFreeze = freezing arrow
-    .desc = An arrow made from hardlight. This one freezes the victim.
+ent-ArrowFreeze = замораживающая стрела
+    .desc = Стрела из твёрдого света. Эта замораживает жертву.
 
-ent-ArrowExplosive = explosive arrow
-    .desc = An arrow made from hardlight. This one explodes on hit, but the energy dissapates quickly, it wont fly very far.
+ent-ArrowExplosive = взрывная стрела
+    .desc = Стрела из твёрдого света. Эта взрывается при попадании, но энергия быстро рассеивается, так что далеко она не полетит.
 
-ent-ArrowXray = x-ray arrow
-    .desc = An arrow made from hardlight. This one pierces through everything.
+ent-ArrowXray = рентгеновская стрела
+    .desc = Стрела из твёрдого света. Эта пробивает всё насквозь.
 
-ent-ArrowBee = bee arrow
-    .desc = An arrow made from hardlight. This one summons angry bees.
+ent-ArrowBee = пчелиная стрела
+    .desc = Стрела из твёрдого света. Эта призывает злых пчёл.
 
-ent-ArrowIon = ion arrow
-    .desc = An arrow made from hardlight. causes EMP on hit.
+ent-ArrowIon = ионная стрела
+    .desc = Стрела из твёрдого света. при попадании вызывает ЭМИ.

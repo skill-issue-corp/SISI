@@ -1,38 +1,38 @@
-ent-TelecomServer = telecommunication server
-    .desc = When powered and filled with encryption keys it allows radio headset communication.
+ent-TelecomServer = сервер связи
+    .desc = При наличии питания и ключей шифрования обеспечивает радиосвязь через гарнитуры.
 
 ent-TelecomServerFilled = { ent-TelecomServer }
     .desc = { ent-TelecomServer.desc }
-    .suffix = Filled All
+    .suffix = Заполнены Все Слоты
 
 ent-TelecomServerFilledCommon = { ent-TelecomServer }
     .desc = { ent-TelecomServer.desc }
-    .suffix = Common
+    .suffix = Общий
 
 ent-TelecomServerFilledCargo = { ent-TelecomServer }
     .desc = { ent-TelecomServer.desc }
-    .suffix = Cargo
+    .suffix = Карго
 
 ent-TelecomServerFilledEngineering = { ent-TelecomServer }
     .desc = { ent-TelecomServer.desc }
-    .suffix = Engineering
+    .suffix = Инженерный Отдел
 
 ent-TelecomServerFilledMedical = { ent-TelecomServer }
     .desc = { ent-TelecomServer.desc }
-    .suffix = Medical
+    .suffix = Медотсек
 
 ent-TelecomServerFilledScience = { ent-TelecomServer }
     .desc = { ent-TelecomServer.desc }
-    .suffix = Science
+    .suffix = Наука
 
 ent-TelecomServerFilledSecurity = { ent-TelecomServer }
     .desc = { ent-TelecomServer.desc }
-    .suffix = Security
+    .suffix = Служба Безопасности
 
 ent-TelecomServerFilledService = { ent-TelecomServer }
     .desc = { ent-TelecomServer.desc }
-    .suffix = Service
+    .suffix = Обслуживание
 
 ent-TelecomServerFilledCommand = { ent-TelecomServer }
     .desc = { ent-TelecomServer.desc }
-    .suffix = Command
+    .suffix = Командование

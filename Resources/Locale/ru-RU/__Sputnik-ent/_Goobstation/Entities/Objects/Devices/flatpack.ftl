@@ -1,47 +1,47 @@
-ent-TimelineDisruptorFlatpack = timeline disruptor flatpack
-    .desc = A flatpack used for constructing a solar assembly.
+ent-TimelineDisruptorFlatpack = упаковка разрушителя временной линии
+    .desc = Упаковка для сборки солнечной панели.
 
-ent-ContrabandDetectorFlatpack = contraband detector flatpack
-    .desc = A flatpack used for constructing a contraband detector.
+ent-ContrabandDetectorFlatpack = упаковка детектора контрабанды
+    .desc = Упаковка для сборки детектора контрабанды.
 
-ent-MedicalScannerFlatpack = Medical Scanner Flatpack
-    .desc = A flatpack used for constructing a Medical Scanner
+ent-MedicalScannerFlatpack = Упаковка Медицинского Сканера
+    .desc = Упаковка для сборки Медицинского Сканера
 
-ent-CloningpodFlatpack = Cloning pod Flatpack
-    .desc = A flatpack used for constructing a Cloning pod
+ent-CloningpodFlatpack = Упаковка от Капсулы клонирования
+    .desc = Упаковка для сборки Капсулы клонирования
 
-ent-ComputerCloningConsoleFlatpack = Computer Cloning Console Flatpack
-    .desc = A flatpack used for constructing a Computer Cloning Console
+ent-ComputerCloningConsoleFlatpack = Упаковка Компьютера Управления Клонированием
+    .desc = Упаковка для сборки Компьютера Управления Клонированием
 
-ent-BiomassReclaimerFlatpack = Biomass Reclaimer Flatpack
-    .desc = A flatpack used for constructing a Biomass Reclaimer
+ent-BiomassReclaimerFlatpack = Упаковка Переработчика Биомассы
+    .desc = Упаковка для сборки Переработчика Биомассы
 
-ent-ComputerFundingAllocationFlatpack = funding allocation computer flatpack
-    .desc = A flatpack used for constructing a funding allocation computer
+ent-ComputerFundingAllocationFlatpack = упаковка компьютера распределения средств
+    .desc = Упаковка для сборки компьютера распределения средств
 
-ent-ComputerCargoRequestServiceFlatpack = service request computer flatpack
-    .desc = A flatpack used for constructing a service request computer
+ent-ComputerCargoRequestServiceFlatpack = упаковка компьютера заявок сервисного отдела
+    .desc = Упаковка для сборки компьютера заявок сервисного отдела
 
-ent-ComputerCargoRequestMedicalFlatpack = medical request computer flatpack
-    .desc = A flatpack used for constructing a medical request computer
+ent-ComputerCargoRequestMedicalFlatpack = упаковка компьютера заявок медотсека
+    .desc = Упаковка для сборки компьютера заявок медотсека
 
-ent-ComputerCargoRequestScienceFlatpack = science request computer flatpack
-    .desc = A flatpack used for constructing a science request computer
+ent-ComputerCargoRequestScienceFlatpack = упаковка компьютера заявок научного отдела
+    .desc = Упаковка для сборки компьютера заявок научного отдела
 
-ent-ComputerCargoRequestSecurityFlatpack = security request computer flatpack
-    .desc = A flatpack used for constructing a security request computer
+ent-ComputerCargoRequestSecurityFlatpack = упаковка компьютера заявок службы безопасности
+    .desc = Упаковка для сборки компьютера заявок службы безопасности
 
-ent-TegCirculatorFlatpack = circulator flatpack
-    .desc = A flatpack used for constructing a circulator for thermo-electric generator.
+ent-TegCirculatorFlatpack = упаковка циркулятора
+    .desc = Упаковка для сборки циркулятора термоэлектрического генератора.
 
-ent-TegMiddleFlatpack = thermo-electric generator flatpack
-    .desc = A flatpack used for constructing a thermo-electric generator.
+ent-TegMiddleFlatpack = упаковка термоэлектрического генератора
+    .desc = Упаковка для сборки термоэлектрического генератора.
 
-ent-ChemistryHotplateFlatPack = hotplate flat pack
-    .desc = A flatpack used for constructing a hotplate.
+ent-ChemistryHotplateFlatPack = упаковка плитки
+    .desc = Упаковка для сборки плитки.
 
-ent-DiseaseDiagnoserFlatPack = disease diagnoser flat pack
-    .desc = A flatpack used for constructing a disease diagnoser.
+ent-DiseaseDiagnoserFlatPack = упаковка диагноста болезней
+    .desc = Упаковка для сборки диагноста болезней.
 
-ent-VaccinatorFlatPack = vaccinator machine flat pack
-    .desc = A flatpack used for constructing a vaccinator.
+ent-VaccinatorFlatPack = упаковка вакцинатора
+    .desc = Упаковка для сборки вакцинатора.

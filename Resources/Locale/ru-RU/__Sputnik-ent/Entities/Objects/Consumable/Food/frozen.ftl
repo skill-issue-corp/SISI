@@ -1,53 +1,53 @@
 ent-FoodFrozenBase = { ent-SolutionVeryTiny }
     .desc = { ent-SolutionVeryTiny.desc }
 
-ent-FoodFrozenSandwich = ice-cream sandwich
-    .desc = Portable ice-cream in its own packaging.
+ent-FoodFrozenSandwich = сэндвич с мороженым
+    .desc = Мороженое, которое удобно носить с собой, в собственной упаковке.
 
-ent-FoodFrozenSandwichStrawberry = strawberry ice-cream sandwich
-    .desc = Portable ice-cream in its own packaging of the strawberry variety.
+ent-FoodFrozenSandwichStrawberry = сэндвич с клубничным мороженым
+    .desc = Клубничное мороженое, которое удобно носить с собой, в собственной упаковке.
 
-ent-FoodFrozenFreezy = space freezy
-    .desc = The best ice-cream in space.
+ent-FoodFrozenFreezy = космофризи
+    .desc = Лучшее мороженое в космосе.
 
-ent-FoodFrozenSundae = ice-cream sundae
-    .desc = A classic dessert.
+ent-FoodFrozenSundae = сандей
+    .desc = Классический десерт.
 
-ent-FoodFrozenCornuto = cornuto
-    .desc = A Neapolitan vanilla and chocolate ice-cream cone. It menaces with a sprinkling of caramelized nuts.
+ent-FoodFrozenCornuto = корнуто
+    .desc = Неаполитанский рожок с ванильным и шоколадным мороженым. Угрожающе посыпан орехами в карамели.
 
-ent-FoodFrozenPopsicleOrange = orange creamsicle
-    .desc = A classic orange creamsicle. A sunny frozen treat.
+ent-FoodFrozenPopsicleOrange = апельсиновое эскимо
+    .desc = Классическое апельсиновое эскимо. Солнечное замороженное лакомство.
 
-ent-FoodFrozenPopsicleBerry = berry creamsicle
-    .desc = A vibrant berry creamsicle. A berry good frozen treat.
+ent-FoodFrozenPopsicleBerry = ягодное эскимо
+    .desc = Яркое ягодное эскимо. Ягодно хорошее замороженное лакомство.
 
-ent-FoodFrozenPopsicleJumbo = jumbo ice-cream
-    .desc = A luxurious ice-cream covered in rich chocolate. It's smaller than you remember.
+ent-FoodFrozenPopsicleJumbo = джамбо-мороженое
+    .desc = Роскошное мороженое в густом шоколаде. Оно меньше, чем вы помните.
 
-ent-FoodFrozenSnowconeBase = sweet snowcone
-    .desc = It's just shaved ice and simple syrup, minimum effort.
+ent-FoodFrozenSnowconeBase = сладкий снежный рожок
+    .desc = Просто ледяная крошка с сахарным сиропом. Минимум усилий.
 
-ent-FoodFrozenSnowcone = flavorless snowcone
-    .desc = It's just shaved ice. Still fun to chew on.
+ent-FoodFrozenSnowcone = снежный рожок без вкуса
+    .desc = Просто ледяная крошка. Всё равно приятно похрустеть.
 
-ent-FoodFrozenSnowconeBerry = berry snowcone
-    .desc = Berry syrup drizzled over a snowball in a paper cup.
+ent-FoodFrozenSnowconeBerry = ягодный снежный рожок
+    .desc = Снежок в бумажном стаканчике, политый ягодным сиропом.
 
-ent-FoodFrozenSnowconeFruit = fruit salad snowcone
-    .desc = A delightful mix of citrus syrups drizzled over a snowball in a paper cup.
+ent-FoodFrozenSnowconeFruit = снежный рожок «фруктовый салат»
+    .desc = Снежок в бумажном стаканчике, политый чудесной смесью цитрусовых сиропов.
 
-ent-FoodFrozenSnowconeClown = clowncone
-    .desc = Laughter drizzled over a snowball in a paper cup.
+ent-FoodFrozenSnowconeClown = клоунский рожок
+    .desc = Снежок в бумажном стаканчике, политый смехом.
 
-ent-FoodFrozenSnowconeMime = mime snowcone
+ent-FoodFrozenSnowconeMime = снежный рожок мима
     .desc = ...
 
-ent-FoodFrozenSnowconeRainbow = rainbow snowcone
-    .desc = A very colorful snowball in a paper cup.
+ent-FoodFrozenSnowconeRainbow = радужный снежный рожок
+    .desc = Очень яркий снежок в бумажном стаканчике.
 
-ent-FoodFrozenSnowconeTrash = paper cone
-    .desc = A crumpled paper cone used for an icy treat. Worthless.
+ent-FoodFrozenSnowconeTrash = бумажный рожок
+    .desc = Смятый бумажный рожок из-под ледяного лакомства. Ничего не стоит.
 
-ent-FoodFrozenPopsicleTrash = popsicle stick
-    .desc = Once held a delicious treat. Now, 'tis barren.
+ent-FoodFrozenPopsicleTrash = палочка от мороженого
+    .desc = Когда-то держала вкусное лакомство. Ныне - пуста.

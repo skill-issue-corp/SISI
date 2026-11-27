@@ -1,2 +1,2 @@
-ent-SignalScreen = signal screen
-    .desc = Displays text from signals sent to its text port.
+ent-SignalScreen = сигнальный экран
+    .desc = Показывает текст из сигналов, поступающих на его текстовый порт.

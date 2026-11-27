@@ -1,5 +1,5 @@
-ent-CrateArmoryLaserCarbine = laser carbines crate
-    .desc = Contains three laser carbines. Requires Armory access to open.
+ent-CrateArmoryLaserCarbine = ящик лазерных карабинов
+    .desc = Содержит три лазерных карабина. Для открытия нужен доступ в Оружейную.
 
-ent-CrateArmoryLaserAssault = assault lasers crate
-    .desc = Contains two assault laser rifles. Requires Armory access to open.
+ent-CrateArmoryLaserAssault = ящик штурмовых лазерных винтовок
+    .desc = Содержит две штурмовые лазерные винтовки. Для открытия нужен доступ в Оружейную.

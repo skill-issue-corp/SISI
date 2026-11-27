@@ -1,17 +1,17 @@
-ent-ClothingOuterCoatBomber = bomber jacket
-    .desc = A thick, well-worn WW2 leather bomber jacket.
+ent-ClothingOuterCoatBomber = куртка-бомбер
+    .desc = Толстый и изрядно потёртый кожаный бомбер времён 2-й мировой войны.
 
-ent-ClothingOuterCoatDetective = detective's armored trenchcoat
-    .desc = An 20th-century trenchcoat with an armored underlay. Someone who wears this means serious business.
+ent-ClothingOuterCoatDetective = бронированный плащ детектива
+    .desc = Плащ 20-го века с бронированной подкладкой. Тот, кто его носит, настроен серьёзно.
 
-ent-ClothingOuterCoatDetectiveLoadoutGrey = noir armored trenchcoat
-    .desc = Ah, your trusty coat. There's a few tears here and there, giving it a more timely look. Or at least, that's what you told yourself when you found out gettin' it repaired would set you back 200 spesos.
+ent-ClothingOuterCoatDetectiveLoadoutGrey = бронированный плащ в стиле нуар
+    .desc = Ах, ваш верный плащ. Кое-где он порвался, и теперь его вид лучше соответствует духу времени. По крайней мере, так вы сказали себе, когда узнали, что починка обойдётся в 200 спесо.
 
 ent-ClothingOuterCoatDetectiveLoadout = { ent-ClothingOuterCoatDetective }
     .desc = { ent-ClothingOuterCoatDetective.desc }
 
-ent-ClothingOuterCoatGentle = gentle coat
-    .desc = A gentle coat for a gentle man, or woman.
+ent-ClothingOuterCoatGentle = плащ джентльмена
+    .desc = Изящный плащ для изящного джентльмена. Или дамы.
 
 ent-ClothingOuterArmorHoS = { ent-ClothingOuterArmorBase }
     .desc = { ent-ClothingOuterArmorBase.desc }
@@ -19,111 +19,111 @@ ent-ClothingOuterArmorHoS = { ent-ClothingOuterArmorBase }
 ent-ClothingOuterArmorWarden = { ent-ClothingOuterArmorBase }
     .desc = { ent-ClothingOuterArmorBase.desc }
 
-ent-ClothingOuterCoatHoSTrench = head of security's armored trenchcoat
-    .desc = A greatcoat enhanced with a special alloy for some extra protection and style for those with a commanding presence.
+ent-ClothingOuterCoatHoSTrench = бронированный плащ главы службы безопасности
+    .desc = Шинель, усиленная особым сплавом. Дополнительная защита и стиль для тех, кто привык командовать.
 
-ent-ClothingOuterCoatJensen = jensen coat
-    .desc = A jensen coat.
+ent-ClothingOuterCoatJensen = плащ дженсена
+    .desc = Плащ дженсена.
 
 ent-ClothingOuterCoatJensenSyndie = { ent-ClothingOuterCoatJensen }
     .desc = { ent-ClothingOuterCoatJensen.desc }
-    .suffix = Syndie
+    .suffix = Синдикат
 
-ent-ClothingOuterCoatTrench = trench coat
-    .desc = A comfy trench coat.
+ent-ClothingOuterCoatTrench = плащ
+    .desc = Удобный плащ.
 
-ent-ClothingOuterCoatLab = lab coat
-    .desc = A suit that protects against minor chemical spills.
+ent-ClothingOuterCoatLab = лабораторный халат
+    .desc = Халат, защищающий от небольших брызг химикатов.
 
-ent-ClothingOuterCoatLabOpened = lab coat
+ent-ClothingOuterCoatLabOpened = лабораторный халат
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
 
-ent-ClothingOuterCoatLabChem = chemist lab coat
-    .desc = A suit that protects against minor chemical spills. Has an orange stripe on the shoulder.
+ent-ClothingOuterCoatLabChem = лабораторный халат химика
+    .desc = Халат, защищающий от небольших брызг химикатов. На плече оранжевая полоса.
 
-ent-ClothingOuterCoatLabChemOpened = chemist lab coat
+ent-ClothingOuterCoatLabChemOpened = лабораторный халат химика
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
 
-ent-ClothingOuterCoatLabViro = virologist lab coat
-    .desc = A suit that protects against bacteria and viruses. Has an green stripe on the shoulder.
+ent-ClothingOuterCoatLabViro = лабораторный халат вирусолога
+    .desc = Халат, защищающий от бактерий и вирусов. На плече зелёная полоса.
 
-ent-ClothingOuterCoatLabViroOpened = virologist lab coat
+ent-ClothingOuterCoatLabViroOpened = лабораторный халат вирусолога
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
 
-ent-ClothingOuterCoatLabGene = geneticist lab coat
-    .desc = A suit that protects against minor chemical spills. Has an blue stripe on the shoulder.
+ent-ClothingOuterCoatLabGene = лабораторный халат генетика
+    .desc = Халат, защищающий от небольших брызг химикатов. На плече синяя полоса.
 
-ent-ClothingOuterCoatLabGeneOpened = geneticist lab coat
+ent-ClothingOuterCoatLabGeneOpened = лабораторный халат генетика
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
 
-ent-ClothingOuterCoatLabCmo = chief medical officer's lab coat
-    .desc = Custom made blue lab coat for the Chief Medical Officer, offers improved protection against chemical spills and minor cuts.
+ent-ClothingOuterCoatLabCmo = лабораторный халат главного врача
+    .desc = Синий лабораторный халат, сшитый на заказ для Главного Врача. Лучше защищает от брызг химикатов и мелких порезов.
 
-ent-ClothingOuterCoatLabCmoOpened = chief medical officer's lab coat
+ent-ClothingOuterCoatLabCmoOpened = лабораторный халат главного врача
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
 
-ent-ClothingOuterCoatRnd = scientist lab coat
-    .desc = A suit that protects against minor chemical spills. Has a purple stripe on the shoulder.
+ent-ClothingOuterCoatRnd = лабораторный халат учёного
+    .desc = Халат, защищающий от небольших брызг химикатов. На плече фиолетовая полоса.
 
-ent-ClothingOuterCoatRndOpened = scientist lab coat
+ent-ClothingOuterCoatRndOpened = лабораторный халат учёного
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
 
-ent-ClothingOuterCoatRobo = roboticist lab coat
-    .desc = More like an eccentric coat than a labcoat. Helps pass off bloodstains as part of the aesthetic. Comes with red shoulder pads.
+ent-ClothingOuterCoatRobo = лабораторный халат робототехника
+    .desc = Скорее эксцентричное пальто, чем лабораторный халат. Пятна крови легко выдать за часть дизайна. В комплекте красные наплечники.
 
-ent-ClothingOuterCoatRoboOpened = roboticist lab coat
+ent-ClothingOuterCoatRoboOpened = лабораторный халат робототехника
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
 
-ent-ClothingOuterCoatRD = research director lab coat
-    .desc = Woven with top of the line technology, this labcoat helps protect against radiation in similar way to the experimental hardsuit.
+ent-ClothingOuterCoatRD = лабораторный халат научного руководителя
+    .desc = Халат соткан по передовой технологии и защищает от радиации примерно как экспериментальный скафандр.
 
-ent-ClothingOuterCoatRDOpened = research director lab coat
+ent-ClothingOuterCoatRDOpened = лабораторный халат научного руководителя
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
 
-ent-ClothingOuterCoatPirate = pirate garb
-    .desc = Yarr.
+ent-ClothingOuterCoatPirate = пиратский наряд
+    .desc = Ар-р-р.
 
-ent-ClothingOuterCoatWarden = warden's armored jacket
-    .desc = A sturdy, utilitarian jacket designed to protect a warden from any brig-bound threats.
+ent-ClothingOuterCoatWarden = бронированная куртка смотрителя
+    .desc = Прочная, практичная куртка защищает смотрителя от любых угроз, которым самое место в бриге.
 
-ent-ClothingOuterDameDane = yakuza coat
-    .desc = Friday...
+ent-ClothingOuterDameDane = пальто якудзы
+    .desc = Пятница...
 
-ent-ClothingOuterClownPriest = honkmother coat
-    .desc = Meant for a clown of the cloth.
+ent-ClothingOuterClownPriest = пальто хонкматери
+    .desc = Для клоуна в духовном сане.
 
-ent-ClothingOuterDogi = samurai dogi
-    .desc = Dogi is a type of traditional Japanese clothing. The dogi is made of heavy, durable fabric, it is practical in combat and stylish in appearance. It is decorated with intricate patterns and embroidery on the back.
+ent-ClothingOuterDogi = самурайское доги
+    .desc = Доги - традиционная Японская одежда. Его шьют из тяжёлой прочной ткани. В бою удобно, на вид стильно. На спине - замысловатые узоры и вышивка.
 
-ent-ClothingOuterCoatParamedicWB = paramedic windbreaker
-    .desc = A paramedic's trusty windbreaker, for all the space wind.
+ent-ClothingOuterCoatParamedicWB = ветровка парамедика
+    .desc = Верная ветровка парамедика на случай любого космического ветра.
 
-ent-ClothingOuterCoatSyndieCap = syndicate's coat
-    .desc = The syndicate's coat is made of durable fabric, with gilded patterns.
+ent-ClothingOuterCoatSyndieCap = пальто синдиката
+    .desc = Пальто синдиката сшито из прочной ткани и украшено позолоченными узорами.
 
-ent-ClothingOuterCoatSyndieCapArmored = syndicate's armored coat
-    .desc = The syndicate's armored coat is made of durable fabric, with gilded patterns.
+ent-ClothingOuterCoatSyndieCapArmored = бронированное пальто синдиката
+    .desc = Бронированное пальто синдиката сшито из прочной ткани и украшено позолоченными узорами.
 
-ent-ClothingOuterCoatAMG = armored medical gown
-    .desc = The version of the medical gown, with elements of a bulletproof vest, looks strange, but your heart is protected.
+ent-ClothingOuterCoatAMG = бронированный медицинский халат
+    .desc = Медицинский халат с элементами бронежилета выглядит странно, зато сердце под защитой.
 
-ent-ClothingOuterCoatLabSeniorResearcher = senior researcher lab coat
-    .desc = A suit that protects against minor chemical spills. Has a purple collar and wrist trims.
+ent-ClothingOuterCoatLabSeniorResearcher = лабораторный халат старшего научного сотрудника
+    .desc = Халат, защищающий от небольших брызг химикатов. Воротник и манжеты фиолетовые.
 
-ent-ClothingOuterCoatLabSeniorResearcherOpened = senior researcher lab coat
+ent-ClothingOuterCoatLabSeniorResearcherOpened = лабораторный халат старшего научного сотрудника
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
 
-ent-ClothingOuterCoatLabSeniorPhysician = senior physician lab coat
-    .desc = A suit that protects against minor chemical spills. Has light blue sleeves and an orange waist trim.
+ent-ClothingOuterCoatLabSeniorPhysician = лабораторный халат старшего врача
+    .desc = Халат, защищающий от небольших брызг химикатов. Рукава голубые, отделка на поясе оранжевая.
 
-ent-ClothingOuterCoatLabSeniorPhysicianOpened = senior physician lab coat
+ent-ClothingOuterCoatLabSeniorPhysicianOpened = лабораторный халат старшего врача
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
 
-ent-ClothingOuterCoatSpaceAsshole = the coat of space asshole
-    .desc = And there he was...
+ent-ClothingOuterCoatSpaceAsshole = пальто космического мудака
+    .desc = И вот он стоял...
 
-ent-ClothingOuterCoatExpensive = expensive coat
-    .desc = Very fluffy pink coat, made out of very expensive fur (clearly).
+ent-ClothingOuterCoatExpensive = дорогое пальто
+    .desc = Очень пушистое розовое пальто из очень дорогого меха (что очевидно).
 
-ent-ClothingOuterCoatExpensiveOpened = expensive coat
+ent-ClothingOuterCoatExpensiveOpened = дорогое пальто
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }

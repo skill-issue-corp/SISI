@@ -1,11 +1,11 @@
-ent-SmartlinkLeftHand = SmartLink left hand
-    .desc = A cybernetic left hand that allows its wearer to shoot "smart" bullets from any weapon.
+ent-SmartlinkLeftHand = левая кисть СмартЛинк
+    .desc = Кибернетическая левая кисть, позволяющая владельцу стрелять «умными» пулями из любого оружия.
 
-ent-SmartlinkRightHand = SmartLink right hand
-    .desc = A cybernetic right hand that allows its wearer to shoot "smart" bullets from any weapon.
+ent-SmartlinkRightHand = правая кисть СмартЛинк
+    .desc = Кибернетическая правая кисть, позволяющая владельцу стрелять «умными» пулями из любого оружия.
 
-ent-RecoilAbsorberLeftHand = recoil absorbing left hand
-    .desc = A cybernetic left hand that absorbs most of ranged weapons recoil.
+ent-RecoilAbsorberLeftHand = левая кисть с гашением отдачи
+    .desc = Кибернетическая левая кисть, гасящая бо́льшую часть отдачи стрелкового оружия.
 
-ent-RecoilAbsorberRightHand = recoil absorbing right hand
-    .desc = A cybernetic right hand that absorbs most of ranged weapons recoil.
+ent-RecoilAbsorberRightHand = правая кисть с гашением отдачи
+    .desc = Кибернетическая правая кисть, гасящая бо́льшую часть отдачи стрелкового оружия.

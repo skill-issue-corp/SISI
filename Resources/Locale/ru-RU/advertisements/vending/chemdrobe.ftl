@@ -8,7 +8,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-chemdrobe-1 = Our clothes are 0.5% more resistant to acid spills! Get yours now!
-advertisement-chemdrobe-2 = Professional laboratory clothing, designed by NanoTrasen!
-advertisement-chemdrobe-3 = I'm pretty sure these will protect you against acid spills!
-advertisement-chemdrobe-4 = The best fashion formula!
+advertisement-chemdrobe-1 = Наша одежда на 0.5% устойчивее к брызгам кислоты! Возьмите свою прямо сейчас!
+advertisement-chemdrobe-2 = Профессиональная одежда для лабораторий, разработанная NanoTrasen!
+advertisement-chemdrobe-3 = Я почти уверен, что это защитит вас от брызг кислоты!
+advertisement-chemdrobe-4 = Лучшая формула моды!

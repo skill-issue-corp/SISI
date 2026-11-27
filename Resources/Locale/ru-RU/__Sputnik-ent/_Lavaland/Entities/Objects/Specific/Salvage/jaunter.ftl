@@ -1,5 +1,5 @@
-ent-LavalandJaunter = jaunter
-    .desc = A complex device running on bluespace technology, that can teleport you out of danger spaces. You should have this on you when walking near a chasm.
+ent-LavalandJaunter = устройство рывка
+    .desc = Сложное блюспейс-устройство, способное телепортировать вас из опасного места. Стоит держать его при себе, когда ходите рядом с пропастью.
 
-ent-LavalandJaunterRecharging = experimental jaunter
+ent-LavalandJaunterRecharging = экспериментальное устройство рывка
     .desc = { ent-LavalandJaunter.desc }

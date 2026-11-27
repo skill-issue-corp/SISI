@@ -1,9 +1,9 @@
-ent-ReinforcedWindow = reinforced window
+ent-ReinforcedWindow = бронеокно
     .desc = { ent-BaseDeltaPressureReinforcedGlass.desc }
 
-ent-WindowReinforcedDirectional = directional reinforced window
+ent-WindowReinforcedDirectional = направленное бронеокно
     .desc = { ent-BaseDeltaPressureReinforcedGlassQuarter.desc }
 
 ent-ReinforcedWindowDiagonal = { ent-ReinforcedWindow }
     .desc = { ent-ReinforcedWindow.desc }
-    .suffix = diagonal
+    .suffix = по диагонали

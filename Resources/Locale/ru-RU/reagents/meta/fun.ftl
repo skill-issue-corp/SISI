@@ -14,41 +14,41 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-carpetium = carpetium
-reagent-desc-carpetium = A mystical chemical, usually outsourced from the Clown Planet, that covers everything it touches in carpet. Somehow filters out carpotoxin from the blood stream.
+reagent-name-carpetium = ковролиум
+reagent-desc-carpetium = Мистическое вещество, которое обычно доставляют с Планеты Клоунов. Оно покрывает ковром всё, к чему прикасается, и каким-то образом выводит карпотоксин из крови.
 
-reagent-name-fiber = fiber
-reagent-desc-fiber = A raw material, usually extracted from wool or other fabric products.
+reagent-name-fiber = волокно
+reagent-desc-fiber = Сырьё, которое обычно получают из шерсти и других текстильных изделий.
 
-reagent-name-buzzochloric-bees = buzzochloric bees
-reagent-desc-buzzochloric-bees = Liquid bees. Oh god it's LIQUID BEES NO-
+reagent-name-buzzochloric-bees = жужжохлорные пчёлы
+reagent-desc-buzzochloric-bees = Жидкие пчёлы. Боже, это ЖИДКИЕ ПЧЁЛЫ, НЕТ-
 
-reagent-name-ground-bee = ground Bee
-reagent-desc-ground-bee = Bee grounds. Gross.
+reagent-name-ground-bee = молотая Пчела
+reagent-desc-ground-bee = Пчелиный помол. Мерзость.
 
-reagent-name-brass = brass
-reagent-desc-brass = Smells like clockwork.
+reagent-name-brass = латунь
+reagent-desc-brass = Пахнет часовым механизмом.
 
-reagent-name-licoxide = licoxide
-reagent-desc-licoxide = A synthetic battery acid. It looks... electrifying.
+reagent-name-licoxide = ликоксид
+reagent-desc-licoxide = Синтетическая аккумуляторная кислота. Выглядит... наэлектризованно.
 
-reagent-name-razorium = razorium
-reagent-desc-razorium = A strange, non-newtonian chemical. It is produced when two conflicting brute medications are combined. When force is applied to it, it temporarily hardens creating millions of tiny, sharp edges. Very painful.
+reagent-name-razorium = разориум
+reagent-desc-razorium = Странное неньютоновское вещество. Образуется при смешивании двух несовместимых лекарств от ушибов. От удара или давления на время твердеет, образуя миллионы крошечных острых граней. Очень больно.
 
-reagent-name-fresium = Fresium
-reagent-desc-fresium = A mysterious compound that slows the vibration of atoms and molecules... somehow. In layman's terms, it makes things cold... REALLY cold. Can cause long-lasting movement issues if ingested.
+reagent-name-fresium = Фрезиум
+reagent-desc-fresium = Загадочное соединение, которое каким-то образом замедляет колебания атомов и молекул... Проще говоря, охлаждает всё... ОЧЕНЬ сильно. При проглатывании может надолго затруднить движения.
 
-reagent-name-laughter = laughter
-reagent-desc-laughter = Some say that this is the best medicine, but recent studies have proven that to be untrue.
+reagent-name-laughter = смех
+reagent-desc-laughter = Говорят, это лучшее лекарство, но последние исследования доказали обратное.
 
-reagent-name-weh = juice that makes you Weh
-reagent-desc-weh = Pure essence of lizard plush. Makes you Weh!
+reagent-name-weh = сок, от которого вы Векаете
+reagent-desc-weh = Чистая эссенция плюшевой ящерицы. От неё вы Векаете!
 
-reagent-name-hew = juice that makes you Hew
-reagent-desc-hew = Pure essence of inversed lizard plush. Makes you Hew!
+reagent-name-hew = сок, от которого вы Хеукаете
+reagent-desc-hew = Чистая эссенция инвертированной плюшевой ящерицы. От неё вы Хеукаете!
 
-reagent-name-catessence = felinase
-reagent-desc-catessence = A type of carcinogenic enzyme known to break down proteins found within the vocal cords of most animals. Also grants cat-style night vision. Mixing is NOT recommended.
+reagent-name-catessence = фелиназа
+reagent-desc-catessence = Канцерогенный фермент, расщепляющий белки голосовых связок большинства животных. Также даёт кошачье ночное зрение. Смешивать НЕ рекомендуется.
 
-reagent-name-canidessence = caninase
-reagent-desc-canidessence = A type of carcinogenic enzyme known to break down proteins found within the vocal cords of most animals. Mixing is NOT recommended.
+reagent-name-canidessence = каниназа
+reagent-desc-canidessence = Канцерогенный фермент, расщепляющий белки голосовых связок большинства животных. Смешивать НЕ рекомендуется.

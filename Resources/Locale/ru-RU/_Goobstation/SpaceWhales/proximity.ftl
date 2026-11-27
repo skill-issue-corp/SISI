@@ -1,4 +1,4 @@
-station-proximity-far-from-station = You feel that something is coming, you should head back to the station.
+station-proximity-far-from-station = Вы чувствуете, что что-то приближается. Стоит вернуться на станцию.
 
-petting-success-leviathan = Against any common sense, you pet the space leviathan. Somehow.
-petting-failure-leviathan = What.
+petting-success-leviathan = Вопреки всякому здравому смыслу вы гладите космического левиафана. И как вам это вообще удалось?
+petting-failure-leviathan = Что.

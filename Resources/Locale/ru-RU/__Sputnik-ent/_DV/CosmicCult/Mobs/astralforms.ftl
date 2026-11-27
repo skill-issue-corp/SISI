@@ -1,8 +1,8 @@
-ent-MobCosmicAstralAscended = astral ascended
-    .desc = Transcendant, ascendant.
+ent-MobCosmicAstralAscended = вознесённый в астрал
+    .desc = Запредельный, восходящий.
 
-ent-MobCosmicAstralProjection = astral projection
-    .desc = Neither here nor there.
+ent-MobCosmicAstralProjection = астральная проекция
+    .desc = Ни здесь, ни там.
 
-ent-MobCosmicShatteredForm = shattered form
-    .desc = Separated from the body by a malign ritual, stuck between "here" and "there".
+ent-MobCosmicShatteredForm = расколотая форма
+    .desc = Отделена от тела зловещим ритуалом и застряла между «здесь» и «там».

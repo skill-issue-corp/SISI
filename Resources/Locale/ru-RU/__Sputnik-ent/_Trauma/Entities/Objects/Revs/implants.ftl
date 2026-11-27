@@ -1,6 +1,6 @@
-ent-TrackingImplanterRev = meditrack implanter
-    .desc = An implant that reports in the revolutionary radio the location of its host if injured or killed.
-    .suffix = Tracking
+ent-TrackingImplanterRev = имплантер медитрекера
+    .desc = Имплант передаёт по радио революционеров местоположение носителя, если того ранят или убьют.
+    .suffix = Слежение
 
-ent-DeathRattleImplantRev = meditrack implant
-    .desc = This implant will inform the Revolutionary radio channel should the user fall into critical condition or die.
+ent-DeathRattleImplantRev = имплант медитрекера
+    .desc = Имплант оповестит канал Революционеров, если носитель впадёт в крит или погибнет.

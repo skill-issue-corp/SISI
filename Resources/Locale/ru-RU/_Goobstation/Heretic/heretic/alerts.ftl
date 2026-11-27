@@ -1,26 +1,26 @@
-alerts-shadow-cloak-name = Cloak of Shadow
-alerts-shadow-cloak-desc = Your identity is concealed, you also move faster but interact slower.
+alerts-shadow-cloak-name = Плащ Тени
+alerts-shadow-cloak-desc = Ваша личность скрыта. Вы двигаетесь быстрее, но действуете медленнее.
 
-alerts-pale-cloak-name = Forest Admonitions
-alerts-pale-cloak-desc = You are invisible to people far away from you, you also move slightly faster but interact slower.
+alerts-pale-cloak-name = Лесные Предостережения
+alerts-pale-cloak-desc = Издалека вас не видно. Вы двигаетесь немного быстрее, но действуете медленнее.
 
-alerts-crucible-soul-name = Blessing of Crucible Soul
+alerts-crucible-soul-name = Благословение Души Горнила
 alerts-crucible-soul-desc =
-    You phased through reality. You are halfway to your final destination...
-    Click to end the blessing early.
+    Вы прошли сквозь реальность. Вы на полпути к конечной цели...
+    Нажмите, чтобы досрочно завершить благословение.
 
-alerts-crucible-soul-cooldown-desc = You have recently phased through reality. You must wait before you can do so once more.
+alerts-crucible-soul-cooldown-desc = Вы недавно прошли сквозь реальность. Чтобы повторить это, нужно подождать.
 
-alerts-clarity-name = Blessing of Dusk and Dawn
-alerts-clarity-desc = Many things hide beyond the horizon. With Owl's help I managed to slip past Sun's guard and Moon's watch.
+alerts-clarity-name = Благословение Заката и Рассвета
+alerts-clarity-desc = За горизонтом скрывается многое. С помощью Совы я сумел проскользнуть мимо стражи Солнца и дозора Луны.
 
-alerts-marshal-name = Blessing of Wounded Soldier
-alerts-marshal-desc = Some people seek power through redemption. One thing many people don't know is that battle is the ultimate redemption, and wounds let you bask in eternal glory.
+alerts-marshal-name = Благословение Раненого Солдата
+alerts-marshal-desc = Иные ищут силу в искуплении. Мало кто знает, что высшее искупление — битва, а раны позволяют купаться в вечной славе.
 
-alerts-marshal-cooldown-desc = You have recently entered wounded soldier state. You must wait before you can do so once more.
+alerts-marshal-cooldown-desc = Вы недавно приняли облик раненого солдата. Чтобы повторить это, нужно подождать.
 
-alerts-ether-name = Eldritch Slumber
-alerts-ether-desc = You feel an indescribable warmth keeping you safe...
+alerts-ether-name = Потусторонняя Дрёма
+alerts-ether-desc = Вы чувствуете, как невыразимое тепло оберегает вас...
 
-alerts-influence-xray-name = Eldritch Sight
-alerts-influence-xray-desc = You get a glimpse of something new...
+alerts-influence-xray-name = Потустороннее Зрение
+alerts-influence-xray-desc = Вы мельком видите нечто новое...

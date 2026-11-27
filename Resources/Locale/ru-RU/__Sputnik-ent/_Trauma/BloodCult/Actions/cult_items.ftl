@@ -1,2 +1,2 @@
-ent-ActionBloodSpearRecall = Bloody Bond
-    .desc = Recalls your blood spear back to your hand.
+ent-ActionBloodSpearRecall = Кровавая Связь
+    .desc = Возвращает кровавое копьё вам в руку.

@@ -1,9 +1,9 @@
-ent-AppearanceMonkey = monkey appearance
+ent-AppearanceMonkey = внешность обезьяны
     .desc = { ent-BaseSpeciesAppearance.desc }
 
 ent-OrganMonkey = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = monkey
+    .suffix = обезьяна
 
 ent-OrganMonkeyExternal = { ent-OrganMonkey }
     .desc = { ent-OrganMonkey.desc }

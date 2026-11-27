@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-entitymenug-desc = Sets the entity menu grouping type.
-cmd-entitymenug-help = Usage: {$command} <0:{$groupingTypesCount}>
-cmd-entitymenug-error = {$arg} is not a valid integer.
-cmd-entitymenug-notify = Context Menu Grouping set to type: {$cvar}
+cmd-entitymenug-desc = Задаёт способ группировки в меню объектов.
+cmd-entitymenug-help = Использование: {$command} <0:{$groupingTypesCount}>
+cmd-entitymenug-error = {$arg} не является допустимым целым числом.
+cmd-entitymenug-notify = Группировка Контекстного Меню установлена на тип: {$cvar}

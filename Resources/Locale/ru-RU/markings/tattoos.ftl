@@ -1,62 +1,62 @@
-marking-TattooHiveChest-tattoo_hive_chest = Back Tattoo (Hive)
-marking-TattooHiveChest = Back Tattoo (Hive)
+marking-TattooHiveChest-tattoo_hive_chest = Татуировка на Спине (Улей)
+marking-TattooHiveChest = Татуировка на Спине (Улей)
 
-marking-TattooNightlingChest-tattoo_nightling = Chest Tattoo (nightling)
-marking-TattooNightlingChest = Chest Tattoo (Nightling)
+marking-TattooNightlingChest-tattoo_nightling = Татуировка на Груди (ночник)
+marking-TattooNightlingChest = Татуировка на Груди (Ночник)
 
-marking-TattooSilverburghLeftLeg-tattoo_silverburgh_l_leg = Left Leg Tattoo (Silverburg)
-marking-TattooSilverburghLeftLeg = Left Leg Tattoo (Silverburg)
+marking-TattooSilverburghLeftLeg-tattoo_silverburgh_l_leg = Татуировка на Левой Ноге (Сильвербург)
+marking-TattooSilverburghLeftLeg = Татуировка на Левой Ноге (Сильвербург)
 
-marking-TattooSilverburghRightLeg-tattoo_silverburgh_r_leg = Right Leg Tattoo (Silverburg)
-marking-TattooSilverburghRightLeg = Right Leg Tattoo (Silverburg)
+marking-TattooSilverburghRightLeg-tattoo_silverburgh_r_leg = Татуировка на Правой Ноге (Сильвербург)
+marking-TattooSilverburghRightLeg = Татуировка на Правой Ноге (Сильвербург)
 
-marking-TattooCampbellLeftArm-tattoo_campbell_l_arm = Left Arm Tattoo (Campbelle)
-marking-TattooCampbellLeftArm = Left Arm Tattoo (Campbelle)
+marking-TattooCampbellLeftArm-tattoo_campbell_l_arm = Татуировка на Левой Руке (Кэмпбелл)
+marking-TattooCampbellLeftArm = Татуировка на Левой Руке (Кэмпбелл)
 
-marking-TattooCampbellRightArm-tattoo_campbell_r_arm = Right Arm Tattoo (Campbelle)
-marking-TattooCampbellRightArm = Right Arm Tattoo (Campbelle)
+marking-TattooCampbellRightArm-tattoo_campbell_r_arm = Татуировка на Правой Руке (Кэмпбелл)
+marking-TattooCampbellRightArm = Татуировка на Правой Руке (Кэмпбелл)
 
-marking-TattooCampbellLeftLeg-tattoo_campbell_l_leg = Left Leg Tattoo (Campbelle)
-marking-TattooCampbellLeftLeg = Left Leg Tattoo (Campbelle)
+marking-TattooCampbellLeftLeg-tattoo_campbell_l_leg = Татуировка на Левой Ноге (Кэмпбелл)
+marking-TattooCampbellLeftLeg = Татуировка на Левой Ноге (Кэмпбелл)
 
-marking-TattooCampbellRightLeg-tattoo_campbell_r_leg = Right Leg Tattoo (Campbelle)
-marking-TattooCampbellRightLeg = Right Leg Tattoo (Campbelle)
+marking-TattooCampbellRightLeg-tattoo_campbell_r_leg = Татуировка на Правой Ноге (Кэмпбелл)
+marking-TattooCampbellRightLeg = Татуировка на Правой Ноге (Кэмпбелл)
 
-marking-TattooEyeRight-tattoo_eye_r = Right Eye
-marking-TattooEyeRight = Right Eye
+marking-TattooEyeRight-tattoo_eye_r = Правый Глаз
+marking-TattooEyeRight = Правый Глаз
 
-marking-TattooEyeLeft-tattoo_eye_l = Left Eye
-marking-TattooEyeLeft = Left Eye
+marking-TattooEyeLeft-tattoo_eye_l = Левый Глаз
+marking-TattooEyeLeft = Левый Глаз
 
-marking-TattooEyeMothRight-tattoo_eye_moth_r = Right Eye
-marking-TattooEyeMothRight = Right Eye
+marking-TattooEyeMothRight-tattoo_eye_moth_r = Правый Глаз
+marking-TattooEyeMothRight = Правый Глаз
 
-marking-TattooEyeMothLeft-tattoo_eye_moth_l = Left Eye
-marking-TattooEyeMothLeft = Left Eye
+marking-TattooEyeMothLeft-tattoo_eye_moth_l = Левый Глаз
+marking-TattooEyeMothLeft = Левый Глаз
 
-marking-TattooEyeVoxRight-tattoo_eye_vox_r = Right Eye
-marking-TattooEyeVoxRight = Right Eye
+marking-TattooEyeVoxRight-tattoo_eye_vox_r = Правый Глаз
+marking-TattooEyeVoxRight = Правый Глаз
 
-marking-TattooEyeVoxLeft-tattoo_eye_vox_l = Left Eye
-marking-TattooEyeVoxLeft = Left Eye
+marking-TattooEyeVoxLeft-tattoo_eye_vox_l = Левый Глаз
+marking-TattooEyeVoxLeft = Левый Глаз
 
-marking-TattooEyeshadowUpper-tattoo_eyeshadow_upper = Eyeshadow (Upper)
-marking-TattooEyeshadowUpper = Eyeshadow (Upper)
+marking-TattooEyeshadowUpper-tattoo_eyeshadow_upper = Тени для Век (Верхние)
+marking-TattooEyeshadowUpper = Тени для Век (Верхние)
 
-marking-TattooEyeshadowLower-tattoo_eyeshadow_lower = Eyeshadow (Lower)
-marking-TattooEyeshadowLower = Eyeshadow (Lower)
+marking-TattooEyeshadowLower-tattoo_eyeshadow_lower = Тени для Век (Нижние)
+marking-TattooEyeshadowLower = Тени для Век (Нижние)
 
-marking-TattooEyeshadowLowerReptilian-tattoo_eyeshadow_lower_reptilian = Eyeshadow (Lower)
-marking-TattooEyeshadowLowerReptilian = Eyeshadow (Lower)
+marking-TattooEyeshadowLowerReptilian-tattoo_eyeshadow_lower_reptilian = Тени для Век (Нижние)
+marking-TattooEyeshadowLowerReptilian = Тени для Век (Нижние)
 
-marking-TattooEyeshadowVoxSmall-tattoo_eyeshadow_small = Eyeshadow (Small)
-marking-TattooEyeshadowVoxSmall = Eyeshadow (Small)
+marking-TattooEyeshadowVoxSmall-tattoo_eyeshadow_small = Тени для Век (Узкие)
+marking-TattooEyeshadowVoxSmall = Тени для Век (Узкие)
 
-marking-TattooEyeshadowVoxMedium-tattoo_eyeshadow_medium = Eyeshadow (Medium)
-marking-TattooEyeshadowVoxMedium = Eyeshadow (Medium)
+marking-TattooEyeshadowVoxMedium-tattoo_eyeshadow_medium = Тени для Век (Средние)
+marking-TattooEyeshadowVoxMedium = Тени для Век (Средние)
 
-marking-TattooEyeshadowVoxLarge-tattoo_eyeshadow_Large = Eyeshadow (Large)
-marking-TattooEyeshadowVoxLarge = Eyeshadow (Large)
+marking-TattooEyeshadowVoxLarge-tattoo_eyeshadow_Large = Тени для Век (Широкие)
+marking-TattooEyeshadowVoxLarge = Тени для Век (Широкие)
 
-marking-TattooVoxTailRing-tattoo_vox_tail_ring = Tail Ring
-marking-TattooVoxTailRing = Tail Ring
+marking-TattooVoxTailRing-tattoo_vox_tail_ring = Кольцо на Хвосте
+marking-TattooVoxTailRing = Кольцо на Хвосте

@@ -1,2 +1,2 @@
-ent-PortableRecharger = portable recharger
-    .desc = High-tech recharger adapted for portability.
+ent-PortableRecharger = портативный зарядник
+    .desc = Высокотехнологичный зарядник, который удобно носить с собой.

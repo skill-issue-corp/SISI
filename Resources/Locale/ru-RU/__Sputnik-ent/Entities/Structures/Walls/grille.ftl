@@ -1,17 +1,17 @@
-ent-Grille = grille
-    .desc = A flimsy framework of iron rods.
+ent-Grille = решётка
+    .desc = Хлипкий каркас из железных стержней.
 
-ent-ClockworkGrille = clockwork grille
-    .desc = A flimsy framework of iron rods assembled in traditional Ratvarian fashion.
+ent-ClockworkGrille = заводная решётка
+    .desc = Хлипкий каркас из железных стержней, собранный в традиционном Ратварианском стиле.
 
-ent-GrilleBroken = grille
-    .desc = A flimsy framework of iron rods. It has seen better days.
+ent-GrilleBroken = решётка
+    .desc = Хлипкий каркас из железных стержней. Видал и лучшие дни.
 
-ent-ClockworkGrilleBroken = clockwork grille
-    .desc = A flimsy framework of iron rods assembled in traditional Ratvarian fashion. It has seen better days.
+ent-ClockworkGrilleBroken = заводная решётка
+    .desc = Хлипкий каркас из железных стержней, собранный в традиционном Ратварианском стиле. Видал и лучшие дни.
 
-ent-GrilleDiagonal = diagonal grille
+ent-GrilleDiagonal = диагональная решётка
     .desc = { ent-Grille.desc }
 
-ent-ClockworkGrilleDiagonal = diagonal clockwork grille
+ent-ClockworkGrilleDiagonal = диагональная заводная решётка
     .desc = { ent-ClockworkGrille.desc }

@@ -1,17 +1,17 @@
-ent-BaseWeaponPistol = BasePistol
-    .desc = A rooty tooty point and shooty.
+ent-BaseWeaponPistol = ПистолетБазовый
+    .desc = Наводи да пали!
 
 ent-WeaponPistolViper = viper
-    .desc = A common handgun illegally modified by the Syndicate. The Viper sports a selector switch between semi-auto and ‘rock and roll’. The standard sidearm for any soldier who fights under the three serpents. Feeds from .35 pistol magazines.
+    .desc = Обычный пистолет, незаконно модифицированный Синдикатом. У Viper есть переключатель между полуавтоматическим режимом и «рок-н-роллом». Штатное личное оружие бойцов под знаменем трёх змей. Использует пистолетные магазины .35.
 
 ent-WeaponPistolEchis = echis
-    .desc = A cyborg-mounted weapon system based on the Viper pistol. Creates ammunition on the fly from an internal fabricator, which slowly self-charges.
+    .desc = Оружейная система киборга на базе пистолета Viper. Производит боеприпасы на ходу при помощи встроенного фабрикатора, который медленно восстанавливает заряд.
 
 ent-WeaponPistolCobra = cobra
-    .desc = Integrally suppressed semi-automatic pistol used by the Syndicate, firing caseless subsonic rounds. Favored by any agent who likes to keep things quiet and leave no evidence behind. Feeds from .25 pistol magazines.
+    .desc = Полуавтоматический пистолет Синдиката со встроенным глушителем стреляет дозвуковыми безгильзовыми патронами. Любимое оружие агентов, которые предпочитают действовать тихо и не оставлять улик. Использует пистолетные магазины .25.
 
 ent-WeaponPistolMk58 = mk 58
-    .desc = Designed by Nanotrasen’s Small Arms Division, the Mk58 is a conventional semi-automatic pistol with a simple recoil-operated action and excellent reliability. The standard sidearm of Nanotrasen’s station security and emergency response teams. Feeds from .35 pistol magazines.
+    .desc = Mk58 разработан Отделом Стрелкового Оружия NanoTrasen. Это обычный полуавтоматический пистолет с простой автоматикой на отдаче и отличной надёжностью. Штатное личное оружие службы безопасности станций и отрядов быстрого реагирования NanoTrasen. Использует пистолетные магазины .35.
 
 ent-WeaponPistolN1984 = N1984
-    .desc = An exceptionally powerful ‘hand cannon’ designed as part of Nanotrasen's BFG initiative. Chambered in .45, the lord’s caliber, it is generally considered too unwieldy for standard use but has become something of a status symbol among Nanotrasen officials. Feeds from .45 pistol magazines.
+    .desc = Исключительно мощная «ручная пушка», разработанная в рамках программы BFG NanoTrasen. Создана под .45, калибр от Бога. Обычно её считают слишком громоздкой для повседневного использования, но среди руководства NanoTrasen она стала своего рода символом статуса. Использует пистолетные магазины .45.

@@ -1,2 +1,2 @@
-ent-RogueTailWeapon = rogue king's tail
-    .desc = The severed tail of the ancient Rogue Xeno King, a brutal trophy prized by only the boldest hunters. Grants its wielder the power to dash forward in relentless bursts.
+ent-RogueTailWeapon = хвост короля-изгоя
+    .desc = Отсечённый хвост древнего Короля-Изгоя Ксеноморфов, жуткий трофей, который ценят лишь самые смелые охотники. Позволяет владельцу неудержимыми рывками бросаться вперёд.

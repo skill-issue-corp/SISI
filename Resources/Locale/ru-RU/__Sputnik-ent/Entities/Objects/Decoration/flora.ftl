@@ -1,8 +1,8 @@
-ent-BaseRock = boulder
-    .desc = Heavy as a really heavy thing.
+ent-BaseRock = валун
+    .desc = Тяжёлый как очень тяжёлая штука.
 
 ent-BaseTree = { "" }
-    .desc = Yep, it's a tree.
+    .desc = Ага, это дерево.
 
 ent-BaseTreeSnow = { ent-BaseTree }
     .desc = { ent-BaseTree.desc }
@@ -16,43 +16,43 @@ ent-BaseTreeConifer = { ent-BaseTree }
 ent-FloraRockSolid = { ent-BaseRock }
     .desc = { ent-BaseRock.desc }
 
-ent-FloraStalagmite = stalagmite
-    .desc = Natural stone spikes.
+ent-FloraStalagmite = сталагмит
+    .desc = Природные каменные шипы.
 
 ent-FloraGreyStalagmite = { ent-FloraStalagmite }
     .desc = { ent-FloraStalagmite.desc }
 
-ent-FloraTree = tree
+ent-FloraTree = дерево
     .desc = { ent-BaseTree.desc }
 
-ent-FloraTreeSnow = snowy tree
+ent-FloraTreeSnow = заснеженное дерево
     .desc = { ent-BaseTreeSnow.desc }
 
-ent-FloraTreeStump = tree stump
+ent-FloraTreeStump = пень
     .desc = { ent-BaseTreeSnow.desc }
 
-ent-FloraTreeLarge = large tree
+ent-FloraTreeLarge = большое дерево
     .desc = { ent-BaseTreeLarge.desc }
 
-ent-FloraTreeConifer = snowy conifer
+ent-FloraTreeConifer = заснеженная ель
     .desc = { ent-BaseTreeConifer.desc }
 
-ent-FloraTreeChristmas01 = christmas tree
+ent-FloraTreeChristmas01 = рождественская ёлка
     .desc = { ent-BaseTreeConifer.desc }
 
-ent-FloraTreeChristmas02 = christmas tree
+ent-FloraTreeChristmas02 = рождественская ёлка
     .desc = { ent-BaseTreeConifer.desc }
-    .suffix = Safe Presents
+    .suffix = Безопасные Подарки
 
-ent-FloraTreeChristmas03 = christmas tree
+ent-FloraTreeChristmas03 = рождественская ёлка
     .desc = { ent-FloraTreeChristmas02.desc }
-    .suffix = Insane Presents
+    .suffix = Безумные Подарки
 
-ent-FloraTreeStumpConifer = tree stump
+ent-FloraTreeStumpConifer = пень
     .desc = { ent-BaseTreeConifer.desc }
 
-ent-ShadowTree = dark wood
-    .desc = The leaves are whispering about you.
+ent-ShadowTree = тёмное дерево
+    .desc = Листья шепчутся о вас.
 
-ent-LightTree = glowing tree
-    .desc = A marvelous tree filled with strange energy.
+ent-LightTree = светящееся дерево
+    .desc = Чудесное дерево, полное странной энергии.

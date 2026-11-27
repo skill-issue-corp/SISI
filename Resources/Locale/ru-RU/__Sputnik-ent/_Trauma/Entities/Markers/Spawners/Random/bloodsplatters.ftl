@@ -3,16 +3,16 @@ ent-DecalSpawnerSplatterCleanableBase = { ent-DecalSpawnerBase }
 
 ent-DecalSpawnerBloodSplattersTrauma = { ent-DecalSpawnerSplatterCleanableBase }
     .desc = { ent-DecalSpawnerSplatterCleanableBase.desc }
-    .suffix = Blood Splatters
+    .suffix = Брызги Крови
 
 ent-DecalSpawnerMinorBloodSplattersTrauma = { ent-DecalSpawnerSplatterCleanableBase }
     .desc = { ent-DecalSpawnerSplatterCleanableBase.desc }
-    .suffix = Blood Splatters minor
+    .suffix = Брызги Крови слабые
 
 ent-DecalSpawnerGibBloodSplatters = { ent-DecalSpawnerSplatterCleanableBase }
     .desc = { ent-DecalSpawnerSplatterCleanableBase.desc }
-    .suffix = Blood Splatter gib
+    .suffix = Брызги Крови от фарша
 
 ent-DecalSpawnerGibBrainSplatters = { ent-DecalSpawnerSplatterCleanableBase }
     .desc = { ent-DecalSpawnerSplatterCleanableBase.desc }
-    .suffix = Blood Splatters brain
+    .suffix = Брызги Крови от мозга

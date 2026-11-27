@@ -1,27 +1,27 @@
 # Generic Nanotrasen
 
-job-description-ntr = Represent NT, Send reports back to them on the station's situation, Inform the heads of anything CentCom orders them to do.
+job-description-ntr = Представляйте интересы NT, Отправляйте отчёты об обстановке на станции, передавайте главам распоряжения ЦК.
 
 # Syndicate
 
-job-description-highcommander = You are an elite, high-ranking official within the Spinward Syndicate. It doesn't matter which faction, you're important to them all.
+job-description-highcommander = Вы высокопоставленный офицер из элиты Синдиката Вращательного Рукава. К какой бы фракции вы ни принадлежали, вы важны для всех.
 
 # Half Life
 
-job-description-governmentman = Well, well, isn't this just like old times.
-job-description-hecu = Fufill the orders of your supervisor, no matter the morality.
+job-description-governmentman = Ну надо же. Прямо как в старые времена.
+job-description-hecu = Выполняйте приказы начальника независимо от их этичности.
 
 # Misc
 
-job-description-conquest = Stand ready for my arrival, worm.
-job-description-mercenarycaptain = Order other mercs around. Act as muscle for the highest bidder. Just because it's NT now, doesn't mean it won't change later.
-job-description-roboticist = Build and maintain borgs and mechs. Keep the AI in check.
-job-description-radiohost = Host the stations local radio station, play vinyls, interview the crew, take faxes and run ads to make the best radio show on the station.
+job-description-conquest = Готовься к моему прибытию, червь.
+job-description-mercenarycaptain = Командуйте другими наёмниками. Воюйте за тех, кто больше платит. Сегодня это NT, а завтра всё может измениться.
+job-description-roboticist = Стройте и обслуживайте боргов и мехов. Держите ИИ под контролем.
+job-description-radiohost = Ведите местное радио станции, ставьте пластинки, берите интервью у экипажа, принимайте факсы и крутите рекламу. Сделайте лучшее радиошоу на станции.
 
 # Viro
-job-description-virologist = Study spreading viruses, produce cures for ailing crewmembers, experiment in creating beneficial viruses. Make sure pandemics don't spread.
+job-description-virologist = Изучайте распространяющиеся вирусы, создавайте лекарства для больных членов экипажа и экспериментируйте с полезными вирусами. Не допускайте распространения пандемий.
 
 # Event restricted
-job-description-command-maid = Clean the bridge, command rooms, and everything else that command tells you to.
-job-description-security-clown = Do security's job, but don't forget to do it with your clown spice.
-job-description-party-maker = Throw the biggest party ever at this station!
+job-description-command-maid = Убирайте мостик, помещения командования и всё, на что укажет командование.
+job-description-security-clown = Выполняйте работу службы безопасности, добавив щепотку клоунады.
+job-description-party-maker = Устройте самую грандиозную вечеринку в истории станции!

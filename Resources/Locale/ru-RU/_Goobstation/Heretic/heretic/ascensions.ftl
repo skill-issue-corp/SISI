@@ -8,39 +8,39 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 heretic-ascension-ash =
-    The Watch is dead. The Nightwatcher burned with it, yet his fire burns evermore.
-    I stand among the charred. The first of many, that which will shine brighter than all stars in the sky.
-    FOR DUST THOU ART, AND UNTO DUST SHALT THOU RETURN. WITNESS MY ASCENSION!
+    Дозор мёртв. Ночной Дозорный сгорел вместе с ним, но его огонь не погаснет вовек.
+    Я стою среди обугленных. Первый из многих, что засияет ярче всех звёзд на небе.
+    ИБО ПРАХ ТЫ И В ПРАХ ВОЗВРАТИШЬСЯ. УЗРИТЕ МОЁ ВОЗНЕСЕНИЕ!
 
 heretic-ascension-blade =
-    I rip through chains of dust and light. The moon waxes here, among the chosen.
-    The serpent decapitated. Its poison gone. Rent with crescent blades of silver.
-    A storm of steel, am I, CHAMPION OF THE TORN AND PURE. WITNESS MY ASCENSION!
+    Я разрываю цепи из праха и света. Луна растёт здесь, среди избранных.
+    Змей обезглавлен. Яд иссяк. Его рассекли серебряные клинки в форме полумесяца.
+    Я — буря из стали, ПОБОРНИК РАСТЕРЗАННЫХ И ЧИСТЫХ. УЗРИТЕ МОЁ ВОЗНЕСЕНИЕ!
 
 heretic-ascension-lock =
-    The Stewards guided me, and I guided them.
-    My foes were the Locks and my blades were the Key!
-    The Labyrinth will be Locked no more, and freedom will be ours! WITNESS US!
+    Хранители направляли меня, а я направлял их.
+    Мои враги были Засовами, а мои клинки — Ключом!
+    Лабиринт больше не будет Заперт, и свобода будет нашей! УЗРИТЕ НАС!
 
 heretic-ascension-flesh =
-    The heavens offered ideals and dreams. I desired more than that.
-    More than blind promises of a better future. More than escapism from a dying world.
-    The Marshal leads my army. THE SKY CAN BLEED, AND I WILL DRAIN IT OF ITS ESSENCE. WITNESS MY ASCENSION!
+    Небеса предлагали идеалы и мечты. Я желал большего.
+    Большего, чем слепые обещания лучшего будущего. Большего, чем бегство из умирающего мира.
+    Маршал ведёт моё войско. НЕБО МОЖЕТ ИСТЕКАТЬ КРОВЬЮ, И Я ВЫКАЧАЮ ИЗ НЕГО ВСЮ ЭССЕНЦИЮ. УЗРИТЕ МОЁ ВОЗНЕСЕНИЕ!
 
 heretic-ascension-void =
-    The world falls into darkness. I stand in an empty plane; small flakes of ice fall from the sky.
-    The Aristocrat stands before me, beckoning. We will play a waltz to the whispers of dying reality,
-    as the world is destroyed before our eyes. The void will return all to nothing. WITNESS MY ASCENSION!
+    Мир погружается во тьму. Я стою в пустом измерении, с неба падают мелкие льдинки.
+    Передо мной Аристократ, он манит к себе. Мы сыграем вальс под шёпот умирающей реальности,
+    пока мир гибнет у нас на глазах. Пустота обратит всё в ничто. УЗРИТЕ МОЁ ВОЗНЕСЕНИЕ!
 
 heretic-ascension-rust =
-    Let me tell you a story.
-    There are hills ahead, draped in rust. Rust that rots your heat. Mouth parched, soul weak, your tongue begins to bleed.
-    I am decay incarnate. INEVITABLE AS A DYING STAR; IMPASSIVE AS THE WATERS. WITNESS MY ASCENSION!
+    Позвольте рассказать вам историю.
+    Впереди холмы, укутанные ржавчиной. Ржавчиной, которая разъедает ваше тепло. Во рту пересохло, душа слабеет, язык начинает кровоточить.
+    Я — воплощение тлена. НЕИЗБЕЖНЫЙ, КАК УМИРАЮЩАЯ ЗВЕЗДА, БЕССТРАСТНЫЙ, КАК ВОДА. УЗРИТЕ МОЁ ВОЗНЕСЕНИЕ!
 
 heretic-ascension-cosmos =
-    The Beast held out its hand, I grabbed hold and they pulled me to them. Their body was towering, but it seemed so small and feeble after all their tales compiled in my head.
-    I clung on to them, they would protect me, and I would protect it.
-    I closed my eyes with my head laid against their form. I was safe.
-    WITNESS MY ASCENSION!
+    Зверь протянул мне руку. Я ухватился за неё, и он притянул меня к себе. Он был огромен, но после всех его историй, сложившихся в моей голове, казался таким маленьким и хрупким.
+    Я прижался к нему. Он защитит меня, а я защищу его.
+    Я закрыл глаза, положив голову ему на грудь. Я был в безопасности.
+    УЗРИТЕ МОЁ ВОЗНЕСЕНИЕ!
 
-heretic-ascension-bingle = bungle
+heretic-ascension-bingle = бангл

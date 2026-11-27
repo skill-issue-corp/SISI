@@ -1,159 +1,159 @@
 ent-DoorElectronicsCaptain = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Captain, Locked
+    .suffix = Капитан, Заперто
 
 ent-DoorElectronicsHeadOfPersonnel = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = HeadOfPersonnel, Locked
+    .suffix = ГлаваПерсонала, Заперто
 
 ent-DoorElectronicsCommand = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Command, Locked
+    .suffix = Командование, Заперто
 
 ent-DoorElectronicsBar = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Bar, Locked
+    .suffix = Бар, Заперто
 
 ent-DoorElectronicsBarKitchen = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Bar, Locked
+    .suffix = Бар, Заперто
 
 ent-DoorElectronicsHydroponics = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Hydroponics, Locked
+    .suffix = Гидропоника, Заперто
 
 ent-DoorElectronicsChapel = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Chapel, Locked
+    .suffix = Часовня, Заперто
 
 ent-DoorElectronicsTheatre = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Theatre, Locked
+    .suffix = Театр, Заперто
 
 ent-DoorElectronicsKitchen = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Kitchen, Locked
+    .suffix = Кухня, Заперто
 
 ent-DoorElectronicsKitchenHydroponics = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Kitchen/Hydroponics, Locked
+    .suffix = Кухня/Гидропоника, Заперто
 
 ent-DoorElectronicsJanitor = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Janitor, Locked
+    .suffix = Уборщик, Заперто
 
 ent-DoorElectronicsLawyer = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Lawyer, Locked
+    .suffix = Адвокат, Заперто
 
 ent-DoorElectronicsService = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Service, Locked
+    .suffix = Обслуживание, Заперто
 
 ent-DoorElectronicsServiceTheatre = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Service, Theatre, Locked
+    .suffix = Сервис, Театр, Заперто
 
 ent-DoorElectronicsQuartermaster = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Quartermaster, Locked
+    .suffix = Квартирмейстер, Заперто
 
 ent-DoorElectronicsSalvage = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Salvage, Locked
+    .suffix = Утилизация, Заперто
 
 ent-DoorElectronicsCargo = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Cargo, Locked
+    .suffix = Карго, Заперто
 
 ent-DoorElectronicsChiefEngineer = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = ChiefEngineer, Locked
+    .suffix = СтаршийИнженер, Заперто
 
 ent-DoorElectronicsAtmospherics = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Atmospherics, Locked
+    .suffix = Атмосферный Отсек, Заперто
 
 ent-DoorElectronicsEngineering = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Engineering, Locked
+    .suffix = Инженерия, Заперто
 
 ent-DoorElectronicsMorgue = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Morgue, Locked
+    .suffix = Морг, Заперто
 
 ent-DoorElectronicsResearchDirector = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = ResearchDirector, Locked
+    .suffix = НаучныйРуководитель, Заперто
 
 ent-DoorElectronicsMedicalResearch = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Medical/Science, Locked
+    .suffix = Медотсек/Наука, Заперто
 
 ent-DoorElectronicsResearch = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Research, Locked
+    .suffix = Исследования, Заперто
 
 ent-DoorElectronicsHeadOfSecurity = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = HeadOfSecurity, Locked
+    .suffix = ГлаваСлужбыБезопасности, Заперто
 
 ent-DoorElectronicsArmory = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Armory, Locked
+    .suffix = Оружейная, Заперто
 
 ent-DoorElectronicsDetective = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Detective, Locked
+    .suffix = Детектив, Заперто
 
 ent-DoorElectronicsSecurity = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Security, Locked
+    .suffix = Служба Безопасности, Заперто
 
 ent-DoorElectronicsSecurityLawyer = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Security/Lawyer, Locked
+    .suffix = Служба Безопасности/Адвокат, Заперто
 
 ent-DoorElectronicsBrig = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Brig, Locked
+    .suffix = Бриг, Заперто
 
 ent-DoorElectronicsChiefMedicalOfficer = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = ChiefMedicalOfficer, Locked
+    .suffix = ГлавныйВрач, Заперто
 
 ent-DoorElectronicsChemistry = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Chemistry, Locked
+    .suffix = Химия, Заперто
 
 ent-DoorElectronicsMedical = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Medical, Locked
+    .suffix = Медотсек, Заперто
 
 ent-DoorElectronicsNukeop = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Nukeop, Locked
+    .suffix = Ядерный Оперативник, Заперто
 
 ent-DoorElectronicsSyndicateAgent = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = SyndicateAgent, Locked
+    .suffix = АгентСиндиката, Заперто
 
 ent-DoorElectronicsCentralCommand = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = CentralCommand, Locked
+    .suffix = ЦентральноеКомандование, Заперто
 
 ent-DoorElectronicsExternal = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = External, Locked
+    .suffix = Внешний, Заперто
 
 ent-DoorElectronicsMaintenance = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Maintenance, Locked
+    .suffix = Техтоннели, Заперто
 
 ent-DoorElectronicsVault = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Vault, Locked
+    .suffix = Хранилище, Заперто
 
 ent-DoorElectronicsXenoborg = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Xenoborg, Locked
+    .suffix = Ксеноборг, Заперто

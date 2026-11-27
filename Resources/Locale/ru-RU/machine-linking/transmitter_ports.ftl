@@ -11,83 +11,83 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-signal-port-name-pressed = Pressed
-signal-port-description-pressed = This port is invoked whenever the transmitter is activated.
+signal-port-name-pressed = Нажатие
+signal-port-description-pressed = Порт срабатывает при активации передатчика.
 
-signal-port-name-on-transmitter = On
-signal-port-description-on-transmitter = This port is invoked whenever the transmitter is turned on.
+signal-port-name-on-transmitter = Вкл.
+signal-port-description-on-transmitter = Порт срабатывает при включении передатчика.
 
-signal-port-name-off-transmitter = Off
-signal-port-description-off-transmitter = This port is invoked whenever the transmitter is turned off.
+signal-port-name-off-transmitter = Выкл.
+signal-port-description-off-transmitter = Порт срабатывает при выключении передатчика.
 
-signal-port-name-status-transmitter = Status
-signal-port-description-status-transmitter = This port is invoked with HIGH or LOW depending on the transmitter status.
+signal-port-name-status-transmitter = Состояние
+signal-port-description-status-transmitter = Порт выдаёт сигнал ВЫСОКОГО или НИЗКОГО уровня в зависимости от состояния передатчика.
 
-signal-port-name-left = Left
-signal-port-description-left = This port is invoked whenever the lever is moved to the leftmost position.
+signal-port-name-left = Влево
+signal-port-description-left = Порт срабатывает при переводе рычага в крайнее левое положение.
 
-signal-port-name-right = Right
-signal-port-description-right = This port is invoked whenever the lever is moved to the rightmost position.
+signal-port-name-right = Вправо
+signal-port-description-right = Порт срабатывает при переводе рычага в крайнее правое положение.
 
-signal-port-name-doorstatus = Door status
-signal-port-description-doorstatus = This port is invoked with HIGH when the door opens and LOW when the door finishes closing.
+signal-port-name-doorstatus = Состояние двери
+signal-port-description-doorstatus = Порт выдаёт сигнал ВЫСОКОГО уровня при открытии двери и НИЗКОГО, когда дверь закрывается до конца.
 
-signal-port-name-doorboltstatus = Door bolt status
-signal-port-description-doorboltstatus = This port is invoked with HIGH when the door is bolted and LOW when it is unbolted.
+signal-port-name-doorboltstatus = Состояние дверных болтов
+signal-port-description-doorboltstatus = Порт выдаёт сигнал ВЫСОКОГО уровня, если дверь заблокирована болтами, и НИЗКОГО, если разблокирована.
 
-signal-port-name-dockstatus = Dock status
-signal-port-description-dockstatus = This port is invoked with HIGH when docked and LOW when undocked.
+signal-port-name-dockstatus = Состояние стыковки
+signal-port-description-dockstatus = Порт выдаёт сигнал ВЫСОКОГО уровня при стыковке и НИЗКОГО при расстыковке.
 
-signal-port-name-middle = Middle
-signal-port-description-middle = This port is invoked whenever the lever is moved to the neutral position.
+signal-port-name-middle = Посередине
+signal-port-description-middle = Порт срабатывает при переводе рычага в нейтральное положение.
 
-signal-port-name-trigger-sender = Trigger
-signal-port-description-trigger-sender = This port is invoked whenever the device triggers.
+signal-port-name-trigger-sender = Срабатывание
+signal-port-description-trigger-sender = Порт срабатывает при срабатывании устройства.
 
-signal-port-name-timer-trigger = Timer
-signal-port-description-timer-trigger = This port is invoked whenever the timer is up.
+signal-port-name-timer-trigger = Таймер
+signal-port-description-timer-trigger = Порт срабатывает по истечении времени таймера.
 
-signal-port-name-timer-start = Timer start
-signal-port-description-timer-start = This port is invoked whenever the timer starts.
+signal-port-name-timer-start = Запуск таймера
+signal-port-description-timer-start = Порт срабатывает при запуске таймера.
 
-signal-port-name-logic-output = Output
-signal-port-description-logic-output = This port is invoked with HIGH or LOW depending on the selected gate and inputs.
+signal-port-name-logic-output = Выход
+signal-port-description-logic-output = Порт выдаёт сигнал ВЫСОКОГО или НИЗКОГО уровня в зависимости от выбранного логического элемента и входных сигналов.
 
-signal-port-name-logic-output-high = High output
-signal-port-description-logic-output-high = This port is invoked whenever the input has a rising edge.
+signal-port-name-logic-output-high = Высокий уровень на выходе
+signal-port-description-logic-output-high = Порт срабатывает по нарастающему фронту входного сигнала.
 
-signal-port-name-logic-output-low = Low output
-signal-port-description-logic-output-low = This port is invoked whenever the input has a falling edge.
+signal-port-name-logic-output-low = Низкий уровень на выходе
+signal-port-description-logic-output-low = Порт срабатывает по спадающему фронту входного сигнала.
 
-signal-port-name-air-danger = Danger
-signal-port-description-air-danger = This port is invoked with HIGH when in danger mode and LOW when not.
+signal-port-name-air-danger = Опасность
+signal-port-description-air-danger = Порт выдаёт сигнал ВЫСОКОГО уровня в режиме опасности и НИЗКОГО в остальных режимах.
 
-signal-port-name-air-warning = Warning
-signal-port-description-air-warning = This port is invoked with HIGH when in warning mode and LOW when not.
+signal-port-name-air-warning = Предупреждение
+signal-port-description-air-warning = Порт выдаёт сигнал ВЫСОКОГО уровня в режиме предупреждения и НИЗКОГО в остальных режимах.
 
-signal-port-name-air-normal = Normal
-signal-port-description-air-normal = This port is invoked with HIGH when in normal mode and LOW when not.
+signal-port-name-air-normal = Норма
+signal-port-description-air-normal = Порт выдаёт сигнал ВЫСОКОГО уровня в нормальном режиме и НИЗКОГО в остальных режимах.
 
-signal-port-name-decaying = Decaying
-signal-port-description-decaying = This port is invoked when a bound anomaly starts to decay.
+signal-port-name-decaying = Угасание
+signal-port-description-decaying = Порт срабатывает, когда связанная аномалия начинает угасать.
 
-signal-port-name-stabilize = Stabilize
-signal-port-description-stabilize = This port is invoked when a bound anomaly is normalized.
+signal-port-name-stabilize = Стабилизация
+signal-port-description-stabilize = Порт срабатывает, когда связанная аномалия приходит в норму.
 
-signal-port-name-growing = Growing
-signal-port-description-growing = This port is invoked when a bound anomaly starts to grow.
+signal-port-name-growing = Рост
+signal-port-description-growing = Порт срабатывает, когда связанная аномалия начинает расти.
 
-signal-port-name-pulse = Pulse
-signal-port-description-pulse = This port is invoked when a bound anomaly is pulsing.
+signal-port-name-pulse = Импульс
+signal-port-description-pulse = Порт срабатывает при импульсе связанной аномалии.
 
-signal-port-name-supercrit = Supercritical
-signal-port-description-supercrit = This port is invoked when a bound anomaly explode after supercrit state.
+signal-port-name-supercrit = Сверхкритическое состояние
+signal-port-description-supercrit = Порт срабатывает, когда связанная аномалия взрывается после перехода в сверхкритическое состояние.
 
-signal-port-name-power-charging = Charging
-signal-port-description-power-charging = This port is invoked with HIGH when the battery is gaining charge and LOW when not.
+signal-port-name-power-charging = Зарядка
+signal-port-description-power-charging = Порт выдаёт сигнал ВЫСОКОГО уровня, пока батарея заряжается, и НИЗКОГО в остальное время.
 
-signal-port-name-power-discharging = Discharging
-signal-port-description-power-discharging = This port is invoked with HIGH when the battery is losing charge and LOW when not.
+signal-port-name-power-discharging = Разрядка
+signal-port-description-power-discharging = Порт выдаёт сигнал ВЫСОКОГО уровня, пока батарея разряжается, и НИЗКОГО в остальное время.
 
-signal-port-name-item-detected = Detected
-signal-port-description-item-detected = This port is invoked whenever the transmitter detects an item.
+signal-port-name-item-detected = Обнаружение
+signal-port-description-item-detected = Порт срабатывает при обнаружении предмета передатчиком.

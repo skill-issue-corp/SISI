@@ -1,44 +1,44 @@
-ent-Wirecutter = wirecutter
-    .desc = This kills the wire.
+ent-Wirecutter = кусачки
+    .desc = Это убивает провод.
 
-ent-BaseScrewdriver = screwdriver
-    .desc = Industrial grade torque in a small screwdriving package.
+ent-BaseScrewdriver = отвёртка
+    .desc = Крутящий момент промышленного класса в компактном корпусе отвёртки.
 
-ent-Wrench = wrench
-    .desc = A common tool for assembly and disassembly. Remember: lefty latchy, righty removey.
+ent-Wrench = гаечный ключ
+    .desc = Обычный инструмент для сборки и разборки. Запомните: влево крепится, вправо вертится.
 
-ent-Multitool = multitool
-    .desc = An advanced tool to copy, store, and send electrical pulses and signals through wires and machines.
+ent-Multitool = мультитул
+    .desc = Продвинутый инструмент для копирования, хранения и отправки электрических импульсов и сигналов через провода и машины.
 
-ent-NetworkConfigurator = network configurator
-    .desc = A tool for linking devices together. Has two modes, a list mode for mass linking devices and a linking mode for advanced device linking.
+ent-NetworkConfigurator = сетевой конфигуратор
+    .desc = Инструмент для соединения устройств. Два режима: список для массового подключения и режим связей для продвинутой настройки соединений.
 
-ent-PowerDrill = power drill
-    .desc = A simple powered hand drill.
+ent-PowerDrill = электродрель
+    .desc = Обычная ручная электрическая дрель.
 
-ent-RCD = RCD
-    .desc = The rapid construction device can be used to quickly place and remove various station structures and fixtures. Requires compressed matter to function.
+ent-RCD = РСУ
+    .desc = Ручное строительное устройство позволяет быстро размещать и убирать разные конструкции и оборудование станции. Для работы нужна сжатая материя.
 
 ent-RCDEmpty = { ent-RCD }
     .desc = { ent-RCD.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-RCDRecharging = experimental RCD
-    .desc = Cyborg-mounted Rapid Construction Device which creates compressed matter on the fly using an internal fabricator.
-    .suffix = AutoRecharge
+ent-RCDRecharging = экспериментальное РСУ
+    .desc = Ручное Строительное Устройство для киборга. Встроенный фабрикатор создаёт сжатую материю на ходу.
+    .suffix = АвтоПодзарядка
 
-ent-RCDExperimental = experimental RCD
-    .desc = A bluespace-enhanced rapid construction device that passively generates its own compressed matter.
-    .suffix = Admeme
+ent-RCDExperimental = экспериментальное РСУ
+    .desc = Ручное строительное устройство с блюспейс-усилением, которое само производит сжатую материю.
+    .suffix = Адмеме
 
-ent-RCDAmmo = compressed matter
-    .desc = A cartridge of raw matter compacted by bluespace technology. Used in rapid construction devices.
+ent-RCDAmmo = сжатая материя
+    .desc = Картридж с сырой материей, сжатой с помощью блюспейс-технологии. Используется в ручных строительных устройствах.
 
-ent-Omnitool = omnitool
-    .desc = A drone's best friend.
+ent-Omnitool = омнитул
+    .desc = Лучший друг дрона.
 
-ent-Shovel = shovel
-    .desc = A large tool for digging and moving dirt.
+ent-Shovel = лопата
+    .desc = Большой инструмент для копания и перемещения земли.
 
-ent-RollingPin = rolling pin
-    .desc = A tool used to shape and flatten dough.
+ent-RollingPin = скалка
+    .desc = Инструмент для раскатывания теста и придания ему формы.

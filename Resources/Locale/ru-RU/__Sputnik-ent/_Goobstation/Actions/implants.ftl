@@ -1,5 +1,5 @@
-ent-ActionSwapImplant = Swap
-    .desc = Allows you to swap locations with any living being.
+ent-ActionSwapImplant = Обмен
+    .desc = Позволяет поменяться местами с любым живым существом.
 
-ent-ActionNaniteMend = Nanite Mender
-    .desc = Let loose a swarm of nanites to rapidly repair a target entity.
+ent-ActionNaniteMend = Ремонтные Наниты
+    .desc = Выпустите рой нанитов, чтобы быстро починить цель.

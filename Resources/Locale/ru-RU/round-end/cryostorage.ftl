@@ -4,13 +4,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cryostorage-insert-message-permanent = [color=white]You are now inside of a [bold][color=cyan]cryogenic sleep unit[/color][/bold]. If you [bold]disconnect[/bold], [bold]ghost[/bold], or [bold]wait {$time} minutes[/bold], [color=red]your body will be removed[/color] and your job slot will be opened. You can exit at any time to prevent this.[/color]
-cryostorage-insert-message-temp = [color=white]You are now inside of a [bold][color=cyan]cryogenic sleep unit[/color][/bold]. If you [bold]ghost[/bold] or [bold]wait {$time} minutes[/bold], [color=red]your body will be removed[/color] and your job slot will be opened. If you [bold][color=cyan]disconnect[/color][/bold], your body will be safely held until you rejoin.[/color]
+cryostorage-insert-message-permanent = [color=white]Вы находитесь в [bold][color=cyan]установке криосна[/color][/bold]. Если вы [bold]отключитесь[/bold], [bold]станете призраком[/bold] или [bold]подождёте {$time} мин.[/bold], [color=red]ваше тело будет удалено[/color], а должность освободится. Чтобы этого избежать, можно выйти в любой момент.[/color]
+cryostorage-insert-message-temp = [color=white]Вы находитесь в [bold][color=cyan]установке криосна[/color][/bold]. Если вы [bold]станете призраком[/bold] или [bold]подождёте {$time} мин.[/bold], [color=red]ваше тело будет удалено[/color], а должность освободится. Если вы [bold][color=cyan]отключитесь[/color][/bold], тело останется в безопасности до вашего возвращения.[/color]
 
-cryostorage-ui-window-title = Cryogenic Sleep Unit
+cryostorage-ui-window-title = Установка Криосна
 cryostorage-ui-label-slot-name = [bold]{CAPITALIZE($slot)}:[/bold]
-cryostorage-ui-button-remove = Remove
-cryostorage-ui-filler-hand = inhand
-cryostorage-ui-label-no-bodies = No bodies in cryostorage
+cryostorage-ui-button-remove = Извлечь
+cryostorage-ui-filler-hand = в руке
+cryostorage-ui-label-no-bodies = В криохранилище нет тел
 
-cryostorage-popup-access-denied = Access denied!
+cryostorage-popup-access-denied = Доступ запрещён!

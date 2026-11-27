@@ -1,1 +1,1 @@
-flavor-complex-brain-freeze = like brain freeze
+flavor-complex-brain-freeze = как холодовая головная боль

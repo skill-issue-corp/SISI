@@ -1,2 +1,2 @@
-ent-MasterGloves = fingerless gloves
-    .desc = Plain black gloves without fingertips for the hard working.
+ent-MasterGloves = перчатки без пальцев
+    .desc = Простые чёрные перчатки без кончиков пальцев для трудяг.

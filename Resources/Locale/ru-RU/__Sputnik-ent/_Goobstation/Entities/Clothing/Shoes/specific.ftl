@@ -1,5 +1,5 @@
-ent-ClothingShoesWizardSkates = wizard skates
-    .desc = A pair of Wizard Federation Roller Skates, imbued with a protection spell against collision.
+ent-ClothingShoesWizardSkates = ролики волшебника
+    .desc = Роликовые Коньки Федерации Волшебников, зачарованные на защиту от столкновений.
 
 ent-ClothingShoesClownUnremoveable = { ent-ClothingShoesClown }
     .desc = { ent-ClothingShoesClown.desc }

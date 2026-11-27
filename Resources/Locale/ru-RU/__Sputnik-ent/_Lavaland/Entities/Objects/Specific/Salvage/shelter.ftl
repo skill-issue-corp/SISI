@@ -1,8 +1,8 @@
 ent-BaseShelterCapsule = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-ShelterCapsule = bluespace shelter capsule
-    .desc = An emergency shelter stored within a pocket of bluespace.
+ent-ShelterCapsule = блюспейс-капсула с убежищем
+    .desc = Аварийное убежище в кармане блюспейса.
 
-ent-ShelterCapsuleLuxury = luxury bluespace shelter capsule
-    .desc = An exorbitantly expensive luxury suite stored within a pocket of bluespace.
+ent-ShelterCapsuleLuxury = люксовая блюспейс-капсула с убежищем
+    .desc = Непомерно дорогие апартаменты класса люкс в кармане блюспейса.

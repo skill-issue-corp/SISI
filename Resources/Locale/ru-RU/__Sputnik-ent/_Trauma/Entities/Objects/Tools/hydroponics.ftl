@@ -1,11 +1,11 @@
-ent-HydroponicsWateringCan = watering can
-    .desc = A botanists best friend.
+ent-HydroponicsWateringCan = лейка
+    .desc = Лучший друг ботаника.
 
-ent-HydroponicsGoldenWateringCan = golden watering can
+ent-HydroponicsGoldenWateringCan = золотая лейка
     .desc = { ent-HydroponicsWateringCan.desc }
 
-ent-HydroponicsRainbowWateringCan = rainbow watering can
+ent-HydroponicsRainbowWateringCan = радужная лейка
     .desc = { ent-HydroponicsWateringCan.desc }
 
-ent-HydroponicsWeedWateringCan = weed watering can
+ent-HydroponicsWeedWateringCan = лейка для сорняков
     .desc = { ent-HydroponicsWateringCan.desc }

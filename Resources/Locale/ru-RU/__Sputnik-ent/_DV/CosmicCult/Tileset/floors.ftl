@@ -1,9 +1,9 @@
-ent-FloorTileItemCosmicCorruption = malign tile
+ent-FloorTileItemCosmicCorruption = зловещий тайл
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorCosmicDecay = entropic decay
-    .desc = Just one look at this sends a chill running down your spine.
+ent-FloorCosmicDecay = энтропийный распад
+    .desc = От одного взгляда по спине пробегает холодок.
 
 ent-FloorCosmicDecayAlt = ???
     .desc = { "" }
-    .suffix = DO NOT MAP
+    .suffix = НЕ МАППИТЬ

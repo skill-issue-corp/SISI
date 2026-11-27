@@ -1,17 +1,17 @@
-ent-SpawnMobAdultSlimesBlue = Slimes Spawner Blue
+ent-SpawnMobAdultSlimesBlue = Спавнер Синих Слаймов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobAdultSlimesBlueAngry = Slimes Spawner Blue Angry
+ent-SpawnMobAdultSlimesBlueAngry = Спавнер Злых Синих Слаймов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobAdultSlimesGreen = Slimes Spawner Green
+ent-SpawnMobAdultSlimesGreen = Спавнер Зелёных Слаймов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobAdultSlimesGreenAngry = Slimes Spawner Green Angry
+ent-SpawnMobAdultSlimesGreenAngry = Спавнер Злых Зелёных Слаймов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobAdultSlimesYellow = Slimes Spawner Yellow
+ent-SpawnMobAdultSlimesYellow = Спавнер Жёлтых Слаймов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobAdultSlimesYellowAngry = Slimes Spawner Yellow Angry
+ent-SpawnMobAdultSlimesYellowAngry = Спавнер Злых Жёлтых Слаймов
     .desc = { ent-MarkerBase.desc }

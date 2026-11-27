@@ -1,26 +1,26 @@
-ent-MonkeyCubeBox = monkey cube box
-    .desc = Drymate brand monkey cubes. Just add water!
+ent-MonkeyCubeBox = коробка кубиков обезьян
+    .desc = Кубики обезьян марки Драймейт. Просто добавьте воды!
 
 ent-BaseWrappedCube = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-    .suffix = Wrapped
+    .suffix = В Обёртке
 
-ent-MonkeyCubeWrapped = monkey cube
-    .desc = Unwrap this to get a monkey cube.
+ent-MonkeyCubeWrapped = кубик обезьяны
+    .desc = Разверните, чтобы достать кубик обезьяны.
 
-ent-KoboldCubeBox = kobold cube box
-    .desc = Condensed kobolds in a cube. Just add water!
+ent-KoboldCubeBox = коробка кубиков кобольдов
+    .desc = Сплющенные в куб кобольды. Просто добавьте воды!
 
-ent-VariantCubeBox = variant cube box
-    .desc = Both kobold cubes and monkey cubes. Just add water!
+ent-VariantCubeBox = коробка разных кубиков
+    .desc = Кубики и кобольдов, и обезьян. Просто добавьте воды!
 
-ent-KoboldCubeWrapped = kobold cube
-    .desc = Unwrap this to get a kobold cube.
+ent-KoboldCubeWrapped = кубик кобольда
+    .desc = Разверните, чтобы достать кубик кобольда.
 
-ent-SyndicateSpongeBox = monkey cube box
-    .desc = Drymate brand monkey cubes. Just add water!
-    .suffix = Syndicate
+ent-SyndicateSpongeBox = коробка кубиков обезьян
+    .desc = Кубики обезьян марки Драймейт. Просто добавьте воды!
+    .suffix = Синдикат
 
-ent-SyndicateSpongeWrapped = monkey cube
+ent-SyndicateSpongeWrapped = кубик обезьяны
     .desc = { ent-MonkeyCubeWrapped.desc }
-    .suffix = Wrapped, Syndicate
+    .suffix = В Обёртке, Синдикат

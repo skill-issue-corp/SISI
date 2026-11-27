@@ -1,32 +1,32 @@
-ent-BaseBattlemap = battlemap
-    .desc = A battlemap for your epic dungeon exploring to begin, pieces not included!
+ent-BaseBattlemap = тактическая карта
+    .desc = Тактическая карта, с которой начнутся ваши эпические приключения в подземельях. Фигурки в комплект не входят!
 
-ent-GrassBattlemap = grass battlemap
-    .desc = A battlemap for your epic dungeon exploring to begin, pieces not included!
+ent-GrassBattlemap = тактическая карта с травой
+    .desc = Тактическая карта, с которой начнутся ваши эпические приключения в подземельях. Фигурки в комплект не входят!
 
-ent-MoonBattlemap = moon battlemap
-    .desc = A battlemap for your epic moon exploring to begin, pieces not included!
+ent-MoonBattlemap = тактическая карта луны
+    .desc = Тактическая карта, с которой начнутся ваши эпические приключения на луне. Фигурки в комплект не входят!
 
-ent-SandBattlemap = sand battlemap
-    .desc = A battlemap for your epic beach episodes to begin, pieces not included!
+ent-SandBattlemap = тактическая карта с песком
+    .desc = Тактическая карта, с которой начнутся ваши эпические приключения на пляже. Фигурки в комплект не входят!
 
-ent-SnowBattlemap = snow battlemap
-    .desc = A battlemap for your frigid exploring to begin, pieces not included!
+ent-SnowBattlemap = тактическая карта со снегом
+    .desc = Тактическая карта, с которой начнутся ваши морозные приключения. Фигурки в комплект не входят!
 
-ent-ShipBattlemap = ship battlemap
-    .desc = A battlemap for your epic space exploring to begin, pieces not included!
+ent-ShipBattlemap = тактическая карта корабля
+    .desc = Тактическая карта, с которой начнутся ваши эпические приключения в космосе. Фигурки в комплект не входят!
 
-ent-GrassBoardTabletop = grass battlemap
+ent-GrassBoardTabletop = тактическая карта с травой
     .desc = { ent-BaseBoardTabletop.desc }
 
-ent-MoonBoardTabletop = grass battlemap
+ent-MoonBoardTabletop = тактическая карта с травой
     .desc = { ent-BaseBoardTabletop.desc }
 
-ent-SandBoardTabletop = sand battlemap
+ent-SandBoardTabletop = тактическая карта с песком
     .desc = { ent-BaseBoardTabletop.desc }
 
-ent-SnowBoardTabletop = snow battlemap
+ent-SnowBoardTabletop = тактическая карта со снегом
     .desc = { ent-BaseBoardTabletop.desc }
 
-ent-ShipBoardTabletop = ship battlemap
+ent-ShipBoardTabletop = тактическая карта корабля
     .desc = { ent-BaseBoardTabletop.desc }

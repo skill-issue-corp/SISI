@@ -8,18 +8,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-voice-mask-default-name-override = Unknown
+voice-mask-default-name-override = Неизвестно
 
-voice-mask-name-change-window = Voice Mask Name Change
-voice-mask-name-change-info = Type in the name you want to mimic.
-voice-mask-name-change-speech-style = Speech style
-voice-mask-name-change-set = Set name
-voice-mask-name-change-set-description = Change the name others hear to something else.
-voice-mask-name-change-toggle = Toggle voice mask
-voice-mask-name-change-accent-toggle = Block accent
+voice-mask-name-change-window = Смена Имени в Голосовой Маске
+voice-mask-name-change-info = Введите имя, которым хотите представляться.
+voice-mask-name-change-speech-style = Стиль речи
+voice-mask-name-change-set = Установить имя
+voice-mask-name-change-set-description = Изменить имя, которое слышат окружающие.
+voice-mask-name-change-toggle = Переключить голосовую маску
+voice-mask-name-change-accent-toggle = Подавить акцент
 
-voice-mask-popup-toggle = Toggled voice mask.
-voice-mask-popup-accent-toggle = Toggled accent.
+voice-mask-popup-toggle = Режим голосовой маски переключён.
+voice-mask-popup-accent-toggle = Режим подавления акцента переключён.
 
-voice-mask-popup-success = Name set successfully.
-voice-mask-popup-failure = Name could not be set.
+voice-mask-popup-success = Имя установлено.
+voice-mask-popup-failure = Не удалось установить имя.

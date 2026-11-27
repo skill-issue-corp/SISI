@@ -1,8 +1,8 @@
-ent-CrateCargoLuxuryHardsuit = luxury mining hardsuit crate
-    .desc = Finally, a hardsuit Quartermasters could call their own. Centcomm has heard you, now stop asking.
+ent-CrateCargoLuxuryHardsuit = ящик роскошного скафандра шахтёра
+    .desc = Наконец-то у Квартирмейстеров есть собственный скафандр. ЦК вас услышал, теперь перестаньте просить.
 
-ent-CrateCargoParcelWrap = parcel wrap crate
-    .desc = All your parcel wrapping needs in one crate, containing three rolls of parcel wrap.
+ent-CrateCargoParcelWrap = ящик обёрточной бумаги
+    .desc = Всё для упаковки посылок в одном ящике - три рулона обёрточной бумаги.
 
-ent-CrateCargoGambling = the grand lottery $$$
-    .desc = A box containing treasure beyond your greatest imaginations!
+ent-CrateCargoGambling = большая лотерея $$$
+    .desc = Ящик с сокровищем, о котором вы и мечтать не могли!

@@ -1,68 +1,68 @@
-ent-RubberStampBase = generic rubber stamp
-    .desc = A rubber stamp for stamping important documents.
+ent-RubberStampBase = обычная печать
+    .desc = Резиновая печать для важных документов.
 
-ent-RubberStampBaseAlt = alternate rubber stamp
+ent-RubberStampBaseAlt = альтернативная печать
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampCaptain = captain's rubber stamp
+ent-RubberStampCaptain = печать капитана
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampCentcom = CentComm rubber stamp
+ent-RubberStampCentcom = печать ЦК
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampChaplain = chaplain's rubber stamp
+ent-RubberStampChaplain = печать священника
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampLawyer = lawyer's rubber stamp
+ent-RubberStampLawyer = печать адвоката
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampClown = clown's rubber stamp
+ent-RubberStampClown = печать клоуна
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampCE = chief engineer's rubber stamp
+ent-RubberStampCE = печать старшего инженера
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampCMO = chief medical officer's rubber stamp
+ent-RubberStampCMO = печать главного врача
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampHop = head of personnel's rubber stamp
+ent-RubberStampHop = печать главы персонала
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampHos = head of security's rubber stamp
+ent-RubberStampHos = печать главы службы безопасности
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampMime = mime's rubber stamp
+ent-RubberStampMime = печать мима
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampQm = quartermaster's rubber stamp
+ent-RubberStampQm = печать квартирмейстера
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampRd = research director's rubber stamp
+ent-RubberStampRd = печать научного руководителя
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampTrader = trader's rubber stamp
+ent-RubberStampTrader = печать торговца
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampSyndicate = syndicate rubber stamp
+ent-RubberStampSyndicate = печать синдиката
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampWarden = warden's rubber stamp
+ent-RubberStampWarden = печать смотрителя
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampApproved = APPROVED rubber stamp
+ent-RubberStampApproved = печать «ОДОБРЕНО»
     .desc = { ent-RubberStampBaseAlt.desc }
 
-ent-RubberStampDenied = DENIED rubber stamp
+ent-RubberStampDenied = печать «ОТКАЗАНО»
     .desc = { ent-RubberStampBaseAlt.desc }
 
-ent-RubberStampDetective = detective's rubber stamp
+ent-RubberStampDetective = печать детектива
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampGreytide = greytide's rubber stamp
-    .desc = A rubber stamp for stamping important documents. The tide washes over you, just looking at it...
+ent-RubberStampGreytide = печать грейтайдера
+    .desc = Резиновая печать для важных документов. Один взгляд на неё, и вас накрывает волной грейтайда...
 
-ent-RubberStampPsychologist = psychologist's rubber stamp
-    .desc = A rubber stamp for stamping important documents. Prescribe those treatments!
+ent-RubberStampPsychologist = печать психолога
+    .desc = Резиновая печать для важных документов. Выписывайте назначения!
 
-ent-RubberStampWizard = wizard's rubber stamp
-    .desc = A chaotic wizard stamp for serving unchaotic paperwork, how ironic.
+ent-RubberStampWizard = печать волшебника
+    .desc = Хаотичная магическая печать для нехаотичных бумаг. Иронично.

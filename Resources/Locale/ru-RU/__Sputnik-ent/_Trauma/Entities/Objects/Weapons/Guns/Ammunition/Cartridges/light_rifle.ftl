@@ -1,2 +1,2 @@
-ent-CartridgeLightRifleCaseless = cartridge (.30 rifle caseless)
-    .desc = A classic intermediate cartridge used by many combat rifles and LMGs. Utilizes caseless technology
+ent-CartridgeLightRifleCaseless = патрон (.30 винтовочный безгильзовый)
+    .desc = Классический промежуточный патрон, подходящий ко многим боевым винтовкам и ручным пулемётам. Использует безгильзовую технологию

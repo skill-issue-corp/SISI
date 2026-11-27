@@ -1,8 +1,8 @@
-ent-WeaponShuttleEnergyRubicon = M220 RUBICON EMP launcher
-    .desc = Launches EMP projectiles at ships. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleEnergyRubicon = ЭМИ-установка M220 RUBICON
+    .desc = Стреляет ЭМИ-снарядами по кораблям. Можно активировать дистанционно или подключить к серверу управления огнём.
 
-ent-WeaponShuttleEnergyMarauder = MARAUDER plasma weapon
-    .desc = Launches magnetically contained balls of plasma at targets. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleEnergyMarauder = плазменное орудие MARAUDER
+    .desc = Стреляет по целям сгустками плазмы в магнитной оболочке. Можно активировать дистанционно или подключить к серверу управления огнём.
 
-ent-WeaponShuttleEnergyDymere = ADEX-9 DYMERE turbolaser
-    .desc = Aetherion Dynamics Weapons Development Branch's most iconic product. Ionized gas projectiles will melt through anything you put in front of them. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleEnergyDymere = турболазер ADEX-9 DYMERE
+    .desc = Самое знаменитое изделие Отдела Разработки Вооружений «Этерион Дайнэмикс». Снаряды из ионизированного газа проплавят всё, что встанет у них на пути. Можно активировать дистанционно или подключить к серверу управления огнём.

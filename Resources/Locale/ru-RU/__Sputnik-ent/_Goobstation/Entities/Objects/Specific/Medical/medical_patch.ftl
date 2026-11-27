@@ -1,23 +1,23 @@
-ent-BaseMedicalPatch = base patch
-    .desc = A patch for applying medicine over time to patients.
+ent-BaseMedicalPatch = базовый пластырь
+    .desc = Пластырь для постепенного введения лекарства пациенту.
 
-ent-MedicalPatchBasic = patch
-    .desc = A basic patch for applying medicine over time to patients.
+ent-MedicalPatchBasic = пластырь
+    .desc = Простой пластырь для постепенного введения лекарства пациенту.
 
-ent-UsedMedicalPatch = used patch
-    .desc = ...ew.
+ent-UsedMedicalPatch = использованный пластырь
+    .desc = ...фу.
 
-ent-UsedMedicalPatchMakeshift = used patch
+ent-UsedMedicalPatchMakeshift = использованный пластырь
     .desc = { ent-UsedMedicalPatch.desc }
 
-ent-MedicalPatchRapid = rapid patch
-    .desc = A patch used for more rapid application of medicine. It has race cars drawn on it.
+ent-MedicalPatchRapid = быстродействующий пластырь
+    .desc = Пластырь для ускоренного введения лекарства. На нём нарисованы гоночные машины.
 
-ent-MedicalPatchTherapeutic = therapeutic patch
-    .desc = A patch that applies a dose over a longer period of time than other patches.
+ent-MedicalPatchTherapeutic = терапевтический пластырь
+    .desc = Пластырь, который вводит дозу дольше других.
 
-ent-MedicalPatchLarge = large patch
-    .desc = A larger, higher-capacity patch, used for the really big boo-boos. Not recommended with easily-overdosed chemicals.
+ent-MedicalPatchLarge = большой пластырь
+    .desc = Пластырь увеличенной вместимости для о-очень больших болячек. Не рекомендуется для реагентов, которые легко передозировать.
 
-ent-MedicalPatchMakeshift = makeshift patch
-    .desc = This doesn't look hygienic. Hopefully it does the job.
+ent-MedicalPatchMakeshift = самодельный пластырь
+    .desc = Выглядит негигиенично. Будем надеяться, что сработает.

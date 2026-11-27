@@ -1,32 +1,32 @@
 ent-BaseBlobAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
 
-ent-ActionCreateBlobFactory = Place Factory Blob (80)
-    .desc = Turns selected normal blob into a factory blob, which will produce up to 3 spores and a blobbernaut if placed next to a core or a node.
+ent-ActionCreateBlobFactory = Разместить Фабрику Блоба (80)
+    .desc = Превращает выбранный обычный тайл блоба в фабрику. Рядом с ядром или узлом она будет производить до 3 спор и блоббернаута.
 
-ent-ActionCreateBlobResource = Place Resource Blob (60)
-    .desc = Turns selected normal blob into a resource blob which will generates resources if placed next to a core or a node.
+ent-ActionCreateBlobResource = Разместить Ресурсный Блоб (60)
+    .desc = Превращает выбранный обычный тайл блоба в ресурсный. Рядом с ядром или узлом он будет производить ресурсы.
 
-ent-ActionCreateBlobNode = Place Node Blob (50)
-    .desc = Turns selected normal blob into a node blob. A node blob will activate effects of factory and resource blobs, heal other blobs and slowly expand, destroying walls and creating normal blobs.
+ent-ActionCreateBlobNode = Разместить Узел Блоба (50)
+    .desc = Превращает выбранный обычный тайл блоба в узел. Узел активирует фабрики и ресурсные тайлы, лечит другие тайлы блоба и медленно разрастается, разрушая стены и создавая обычные тайлы.
 
-ent-ActionCreateBlobbernaut = Produce a Blobbernaut (60)
-    .desc = Creates a blobbernaut on the selected factory. Each factory can only do this once. The blobbernaut will take damage outside of blob tiles and heal when close to nodes.
+ent-ActionCreateBlobbernaut = Создать Блоббернаута (60)
+    .desc = Создаёт блоббернаута на выбранной фабрике. Каждая фабрика может сделать это лишь однажды. Блоббернаут получает урон вне тайлов блоба и лечится вблизи узлов.
 
-ent-ActionSplitBlobCore = Split Core (400)
-    .desc = You can only do this once. Turns selected node into an independent core that will act on its own.
+ent-ActionSplitBlobCore = Разделить Ядро (400)
+    .desc = Это можно сделать лишь однажды. Превращает выбранный узел в самостоятельное ядро, которое будет действовать независимо.
 
-ent-ActionSwapBlobCore = Relocate core (200)
-    .desc = Swaps the location of your core and the selected node.
+ent-ActionSwapBlobCore = Переместить ядро (200)
+    .desc = Меняет местами ваше ядро и выбранный узел.
 
-ent-ActionTeleportBlobToCore = Jump to Core
-    .desc = Teleports you to your Blob Core.
+ent-ActionTeleportBlobToCore = Прыжок к Ядру
+    .desc = Телепортирует вас к вашему Ядру Блоба.
 
-ent-ActionSwapBlobChem = Swap chemicals (70)
-    .desc = Lets you swap your current chemical.
+ent-ActionSwapBlobChem = Сменить химикат (70)
+    .desc = Позволяет сменить текущий химикат.
 
-ent-ActionTransformToBlob = Transform into a blob
-    .desc = Instantly destoys your body and creates a blob core. Make sure to stand on a floor tile, otherwise you will simply disappear.
+ent-ActionTransformToBlob = Превратиться в блоба
+    .desc = Мгновенно уничтожает ваше тело и создаёт ядро блоба. Встаньте на тайл пола, иначе вы просто исчезнете.
 
-ent-ActionDowngradeBlob = Downgrade blob
-    .desc = Turns the selected tile back into a normal blob to install other types of cages.
+ent-ActionDowngradeBlob = Понизить блоб
+    .desc = Возвращает выбранному тайлу блоба обычный вид, чтобы на его месте можно было создать другие типы тайлов.

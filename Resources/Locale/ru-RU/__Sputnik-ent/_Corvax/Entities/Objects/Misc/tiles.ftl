@@ -1,53 +1,53 @@
-ent-FloorTileItemWoodParquet = wooden parquet
+ent-FloorTileItemWoodParquet = деревянный паркет
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodBlack = black wooden floor
+ent-FloorTileItemWoodBlack = чёрный деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodDark = dark wooden floor
+ent-FloorTileItemWoodDark = тёмный деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodLight = white wooden floor
+ent-FloorTileItemWoodLight = белый деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodRed = red wooden floor
+ent-FloorTileItemWoodRed = красный деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodLargeBlack = large black wood floor
+ent-FloorTileItemWoodLargeBlack = чёрный деревянный пол из широких досок
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodLargeDark = large dark wood floor
+ent-FloorTileItemWoodLargeDark = тёмный деревянный пол из широких досок
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodLargeLight = large light wood floor
+ent-FloorTileItemWoodLargeLight = светлый деревянный пол из широких досок
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodLargeRed = large red wood floor
+ent-FloorTileItemWoodLargeRed = красный деревянный пол из широких досок
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodParquetBlack = parquet black wood floor
+ent-FloorTileItemWoodParquetBlack = чёрный деревянный паркет
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodParquetDark = parquet dark wood floor
+ent-FloorTileItemWoodParquetDark = тёмный деревянный паркет
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodParquetLight = parquet light wood floor
+ent-FloorTileItemWoodParquetLight = светлый деревянный паркет
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodParquetRed = parquet red wood floor
+ent-FloorTileItemWoodParquetRed = красный деревянный паркет
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodChess = chess wood floor
+ent-FloorTileItemWoodChess = клетчатый деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodChessBlack = chess black wood floor
+ent-FloorTileItemWoodChessBlack = чёрный клетчатый деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodChessDark = chess dark wood floor
+ent-FloorTileItemWoodChessDark = тёмный клетчатый деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodChessLight = chess light wood floor
+ent-FloorTileItemWoodChessLight = светлый клетчатый деревянный пол
     .desc = { ent-FloorTileItemBase.desc }
 
-ent-FloorTileItemWoodChessRed = chess red wood floor
+ent-FloorTileItemWoodChessRed = красный клетчатый деревянный пол
     .desc = { ent-FloorTileItemBase.desc }

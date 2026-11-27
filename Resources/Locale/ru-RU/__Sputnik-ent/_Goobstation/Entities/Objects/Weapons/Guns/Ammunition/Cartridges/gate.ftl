@@ -1,8 +1,8 @@
 ent-BaseCartridgeG8 = { ent-BaseCartridge }
     .desc = { ent-BaseCartridge.desc }
 
-ent-CartridgeG8Demolishing = cartridge (G8 demolishing)
-    .desc = Shots "The Spear of Ares" bullet, demolishing whole lines of walls, dealing massive stamina damage to people and overcharging energy vortexes.
+ent-CartridgeG8Demolishing = патрон (G8 пробивной)
+    .desc = Стреляет пулей «Копьё Ареса», сносящей целые ряды стен, сильно истощающей людей и перегружающей энергетические вихри.
 
-ent-CartridgeG8Hypercharged = cartridge (G8 hypercharged)
-    .desc = Shots "The Bolt of Zeus" bullet, shocking everyone on its way and creating an energy vortex at its destination point, that creates a massive explosion on overcharge.
+ent-CartridgeG8Hypercharged = патрон (G8 сверхзаряженный)
+    .desc = Стреляет пулей «Молния Зевса», которая поражает током всех на пути и создаёт в точке попадания энергетический вихрь. При перегрузке он вызывает мощный взрыв.

@@ -1,5 +1,5 @@
-ent-CratePlasmaInternals = internals crate (phoron)
-    .desc = Contains four breath masks and four phoron internals tanks. Intended for Plasmamen.
+ent-CratePlasmaInternals = ящик с дыхательным снаряжением (фороновый)
+    .desc = Содержит четыре дыхательные маски и четыре фороновых дыхательных баллона. Предназначен для Плазмаменов.
 
-ent-CratePlasmamanEnvirosuit = phoron envirosuit crate
-    .desc = Contains two full sets of envirosuits, two breath masks, and two phoron internals tanks. Intended for Plasmamen.
+ent-CratePlasmamanEnvirosuit = ящик с фороновыми экокостюмами
+    .desc = Содержит два полных комплекта экокостюмов, две дыхательные маски и два фороновых дыхательных баллона. Предназначен для Плазмаменов.

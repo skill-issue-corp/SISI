@@ -1,2 +1,2 @@
-ent-EnchantUnbreaking = Unbreaking
+ent-EnchantUnbreaking = Небьющийся
     .desc = { ent-BaseEnchant.desc }

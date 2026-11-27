@@ -1,8 +1,8 @@
-ent-WeaponLauncherNonLethal = GL-06 riot grenade launcher
-    .desc = Essentially a scaled up flare gun that takes 40mm shells; mechanical safety features prevent the loading and firing of lethal grenades.
+ent-WeaponLauncherNonLethal = гранатомёт GL-06 для разгона беспорядков
+    .desc = По сути, увеличенная ракетница под 40мм снаряды. Механические предохранители не дают заряжать боевые гранаты и стрелять ими.
 
 ent-WeaponLauncherRocketDisposable = M172 LAW
-    .desc = A single shot 84mm disposable Light Anti-structure Weapon for precisely taking out structures with little collateral damage. can be folded in order to be conveniantly stored. DO NOT ATTEMPT TO REMOVE ROCKET FROM TUBE.
+    .desc = Одноразовое однозарядное 84мм Лёгкое Противоструктурное Оружие для точечного поражения сооружений с малым сопутствующим ущербом. складывается для удобства хранения. НЕ ПЫТАЙТЕСЬ ВЫНИМАТЬ РАКЕТУ ИЗ ТРУБЫ.
 
-ent-WeaponLauncherRocketDisposableThermobaric = RPO-A 'Shmel'
-    .desc = A single shot 93mm disposable anti-personnel thermobaric rocket launcher, considered a flamethrower by the manufacturer. can be folded in order to be conveniantly stored.
+ent-WeaponLauncherRocketDisposableThermobaric = RPO-A «Shmel»
+    .desc = Одноразовый однозарядный 93мм противопехотный термобарический гранатомёт, который производитель считает огнемётом. складывается для удобства хранения.

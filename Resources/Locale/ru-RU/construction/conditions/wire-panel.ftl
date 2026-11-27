@@ -6,7 +6,7 @@
 # SPDX-License-Identifier: MIT
 
 # WirePanel
-construction-examine-condition-wire-panel-open = First, open the maintenance panel.
-construction-examine-condition-wire-panel-close = First, close the maintenance panel.
-construction-step-condition-wire-panel-open = The maintenance panel must be open.
-construction-step-condition-wire-panel-close = The maintenance panel must be closed.
+construction-examine-condition-wire-panel-open = Сначала откройте сервисную панель.
+construction-examine-condition-wire-panel-close = Сначала закройте сервисную панель.
+construction-step-condition-wire-panel-open = Сервисная панель должна быть открыта.
+construction-step-condition-wire-panel-close = Сервисная панель должна быть закрыта.

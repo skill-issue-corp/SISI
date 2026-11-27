@@ -1,5 +1,5 @@
-ent-XenobioExplodeStatusEffect = delayed explosion
+ent-XenobioExplodeStatusEffect = отложенный взрыв
     .desc = { ent-StatusEffectBase.desc }
 
-ent-XenobioMetalFoamStatusEffect = delayed metal foam
+ent-XenobioMetalFoamStatusEffect = отложенное образование металлической пены
     .desc = { ent-StatusEffectBase.desc }

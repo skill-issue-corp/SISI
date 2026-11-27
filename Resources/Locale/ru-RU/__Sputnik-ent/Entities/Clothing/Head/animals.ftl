@@ -1,14 +1,14 @@
-ent-ClothingHeadHatAnimalCat = grey cat hat
-    .desc = A cute and fluffy head of a grey cat.
+ent-ClothingHeadHatAnimalCat = шапка в виде серого кота
+    .desc = Милая пушистая голова серого кота.
 
-ent-ClothingHeadHatAnimalCatBrown = brown cat hat
-    .desc = A cute and fluffy head of a brown cat.
+ent-ClothingHeadHatAnimalCatBrown = шапка в виде коричневого кота
+    .desc = Милая пушистая голова коричневого кота.
 
-ent-ClothingHeadHatAnimalCatBlack = black cat hat
-    .desc = A cute and fluffy head of a black cat.
+ent-ClothingHeadHatAnimalCatBlack = шапка в виде чёрного кота
+    .desc = Милая пушистая голова чёрного кота.
 
-ent-ClothingHeadHatAnimalHeadslime = headslime hat
-    .desc = A green, sticky headslime, you put it on your head.
+ent-ClothingHeadHatAnimalHeadslime = шапка из головного слайма
+    .desc = Зелёный липкий головной слайм, которого вы надеваете на голову.
 
-ent-ClothingHeadHatAnimalMonkey = monkey hat
-    .desc = That's a monkey head. It has a hole on a mouth to eat bananas.
+ent-ClothingHeadHatAnimalMonkey = шапка в виде обезьяны
+    .desc = Это голова обезьяны. Во рту есть отверстие, чтобы есть бананы.

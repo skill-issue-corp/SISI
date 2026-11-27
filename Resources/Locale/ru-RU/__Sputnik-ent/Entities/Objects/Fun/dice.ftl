@@ -1,40 +1,40 @@
 ent-BaseDice = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-PercentileDie = percentile die
-    .desc = A die with ten sides. Works better for d100 rolls than a golf ball.
+ent-PercentileDie = процентная кость
+    .desc = Кость с десятью гранями. Для броска d100 подходит лучше мяча для гольфа.
 
 ent-d20Dice = d20
-    .desc = A die with twenty sides. The preferred die to throw at the GM.
+    .desc = Кость с двадцатью гранями. Любимый снаряд для бросков в ведущего.
 
 ent-d12Dice = d12
-    .desc = A die with twelve sides. There's an air of neglect about it.
+    .desc = Кость с двенадцатью гранями. Вид у неё какой-то заброшенный.
 
 ent-d10Dice = d10
-    .desc = A die with ten sides. Useful for percentages.
+    .desc = Кость с десятью гранями. Удобна для бросков на процент.
 
 ent-d8Dice = d8
-    .desc = A die with eight sides. It feels... lucky.
+    .desc = Кость с восемью гранями. Кажется... она приносит удачу.
 
 ent-d6Dice = d6
-    .desc = A die with six sides. Basic and serviceable.
+    .desc = Кость с шестью гранями. Простая и надёжная.
 
 ent-d6DiceTricked = { ent-d6Dice }
     .desc = { ent-d6Dice.desc }
-    .suffix = Tricked
+    .suffix = Утяжелённая
 
 ent-d4Dice = d4
-    .desc = A die with four sides. The nerd's caltrop.
+    .desc = Кость с четырьмя гранями. Противопехотная колючка для гиков.
 
-ent-d2Dice = Heads or Tails Coin
-    .desc = Some sort of two-sided die. Designed to represent the struggle between Nanotrasen and the Syndicate.
+ent-d2Dice = Монетка для Игр в Орла и Решку
+    .desc = Что-то вроде игральной кости с двумя гранями. Символизирует противостояние NanoTrasen и Синдиката.
 
 ent-d2DiceTricked = { ent-d2Dice }
     .desc = { ent-d2Dice.desc }
-    .suffix = Tricked
+    .suffix = Утяжелённая
 
-ent-DiceBag = bag of dice
-    .desc = Contains all the luck you'll ever need.
+ent-DiceBag = мешочек с игральными костями
+    .desc = Здесь столько удачи, что вам хватит на всю жизнь.
 
-ent-MagicDiceBag = bag of dice
+ent-MagicDiceBag = мешочек с игральными костями
     .desc = { ent-DiceBag.desc }

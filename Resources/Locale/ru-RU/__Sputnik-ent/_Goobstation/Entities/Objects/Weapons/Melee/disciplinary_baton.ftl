@@ -1,2 +1,2 @@
-ent-TelescopicBatonAdvanced = disciplinary baton
-    .desc = A compact and slightly harmful personal defense weapon, designed to discipline shoddy workers. Sturdy enough to knock the feet out from under attackers.
+ent-TelescopicBatonAdvanced = дисциплинарная дубинка
+    .desc = Компактное, умеренно травмоопасное оружие самообороны для воспитания нерадивых работников. Достаточно прочное, чтобы сбить нападающего с ног.

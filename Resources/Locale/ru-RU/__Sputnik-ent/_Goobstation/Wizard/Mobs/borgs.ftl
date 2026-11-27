@@ -1,31 +1,31 @@
 ent-PlayerBorgGeneric = { ent-BorgChassisGeneric }
     .desc = { ent-BorgChassisGeneric.desc }
-    .suffix = Battery, Module
+    .suffix = Батарея, Модуль
 
 ent-PlayerBorgMining = { ent-BorgChassisMining }
     .desc = { ent-BorgChassisMining.desc }
-    .suffix = Battery, Module
+    .suffix = Батарея, Модуль
 
 ent-PlayerBorgEngineer = { ent-BorgChassisEngineer }
     .desc = { ent-BorgChassisEngineer.desc }
-    .suffix = Battery, Module
+    .suffix = Батарея, Модуль
 
 ent-PlayerBorgJanitor = { ent-BorgChassisJanitor }
     .desc = { ent-BorgChassisJanitor.desc }
-    .suffix = Battery, Module
+    .suffix = Батарея, Модуль
 
 ent-PlayerBorgMedical = { ent-BorgChassisMedical }
     .desc = { ent-BorgChassisMedical.desc }
-    .suffix = Battery, Module
+    .suffix = Батарея, Модуль
 
 ent-PlayerBorgService = { ent-BorgChassisService }
     .desc = { ent-BorgChassisService.desc }
-    .suffix = Battery, Module
+    .suffix = Батарея, Модуль
 
 ent-PlayerBorgSyndicateMedicalBattery = { ent-BorgChassisSyndicateMedical }
     .desc = { ent-BorgChassisSyndicateMedical.desc }
-    .suffix = Battery, Module, Operative
+    .suffix = Батарея, Модуль, Оперативник
 
 ent-PlayerBorgSyndicateMedicalGhostRole = { ent-PlayerBorgSyndicateMedicalBattery }
     .desc = { ent-PlayerBorgSyndicateMedicalBattery.desc }
-    .suffix = Ghost role
+    .suffix = Роль призрака

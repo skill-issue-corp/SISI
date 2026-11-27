@@ -7,13 +7,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-suicide-command-description = Commits suicide
-suicide-command-help-text = The suicide command gives you a quick way out of a round while remaining in-character.
-                            The method varies, first it will attempt to use the held item in your active hand.
-                            If that fails, it will attempt to use an object in the environment.
-                            Finally, if neither of the above worked, you will die by biting your tongue.
-suicide-command-default-text-others = {CAPITALIZE(THE($name))} is attempting to bite {POSS-ADJ($name)} own tongue!
-suicide-command-default-text-self = You attempt to bite your own tongue!
-suicide-command-already-dead = You can't suicide. You're dead.
-suicide-command-no-mind = You have no mind!
-suicide-command-denied = You cannot suicide right now.
+suicide-command-description = Покончить с собой
+suicide-command-help-text = Команда suicide позволяет быстро выйти из раунда, оставаясь в роли.
+                            Способ зависит от обстановки. Сначала команда попробует использовать предмет в активной руке.
+                            Если это не удастся, она попробует использовать предмет поблизости.
+                            Если оба варианта недоступны, персонаж погибнет, откусив язык.
+suicide-command-default-text-others = {CAPITALIZE($name)} пытается откусить {POSS-ADJ($name)} язык!
+suicide-command-default-text-self = Вы пытаетесь откусить себе язык!
+suicide-command-already-dead = Вы уже мертвы.
+suicide-command-no-mind = У вас нет разума!
+suicide-command-denied = Сейчас вы не можете покончить с собой.

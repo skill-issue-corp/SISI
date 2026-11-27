@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-firebot-1 = No fires detected.
-advertisement-firebot-2 = Only you can prevent station fires.
-advertisement-firebot-3 = Temperature nominal.
-advertisement-firebot-4 = Keep it cool.
+advertisement-firebot-1 = Возгораний не обнаружено.
+advertisement-firebot-2 = Только вы можете предотвратить пожары на станции.
+advertisement-firebot-3 = Температура в норме.
+advertisement-firebot-4 = Не перегревайтесь.

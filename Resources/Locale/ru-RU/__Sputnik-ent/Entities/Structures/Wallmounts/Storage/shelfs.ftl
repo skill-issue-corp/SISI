@@ -1,36 +1,36 @@
-ent-ShelfBase = shelf
-    .desc = A strange place to place, well, anything really. You feel like you shouldn't be seeing this.
+ent-ShelfBase = полка
+    .desc = Странное место, чтобы поставить, ну, что угодно. Кажется, вы не должны этого видеть.
 
-ent-ShelfBaseReinforced = reinforced shelf
-    .desc = It looks as strong as reality itself.
+ent-ShelfBaseReinforced = укреплённая полка
+    .desc = Выглядит прочной, как сама реальность.
 
-ent-ShelfWood = wooden shelf
-    .desc = A convenient place to place, well, anything really.
+ent-ShelfWood = деревянная полка
+    .desc = Удобное место, чтобы поставить, ну, что угодно.
 
-ent-ShelfMetal = metal shelf
-    .desc = A sturdy place to place, well, anything really.
+ent-ShelfMetal = металлическая полка
+    .desc = Прочное место, чтобы поставить, ну, что угодно.
 
-ent-ShelfGlass = glass shelf
-    .desc = A fragile place to place, well, anything really.
+ent-ShelfGlass = стеклянная полка
+    .desc = Хрупкое место, чтобы поставить, ну, что угодно.
 
-ent-ShelfRWood = sturdy wood shelf
-    .desc = A safe place to put your favorite bottle of whiskey.
+ent-ShelfRWood = прочная деревянная полка
+    .desc = Безопасное место для вашей любимой бутылки виски.
 
-ent-ShelfRMetal = sturdy metal shelf
-    .desc = A strong & shiny place to keep all your vials safe.
+ent-ShelfRMetal = прочная металлическая полка
+    .desc = Прочное и блестящее место, где все ваши пробирки будут в безопасности.
 
-ent-ShelfRGlass = sturdy glass shelf
-    .desc = Crystal clear reinforced glass doors to show off all your fancy bottles you definitely didn't sell a co-worker's favorite mothroach for.
+ent-ShelfRGlass = прочная стеклянная полка
+    .desc = Кристально прозрачные дверцы из бронестекла, чтобы показать все ваши изысканные бутылки, за которые вы совершенно точно не продали любимую таракамоль коллеги.
 
-ent-ShelfBar = bar shelf
-    .desc = Made out of the finest synthetic wood for all alcohol holding needs.
+ent-ShelfBar = барная полка
+    .desc = Изготовлена из лучшего синтетического дерева для хранения любых алкогольных напитков.
 
-ent-ShelfKitchen = kitchen shelf
-    .desc = Holds knifes, spice, and everything nice!
+ent-ShelfKitchen = кухонная полка
+    .desc = Хранит ножи, приправы и всякие вкусняшки!
 
-ent-ShelfChemistry = chemical shelf
-    .desc = Keeps all your chemicals safe and out of the clow- er, public hands!
+ent-ShelfChemistry = полка для химикатов
+    .desc = Хранит все ваши реактивы в безопасности, подальше от рук клоу- э-э, посторонних!
 
 ent-ShelfChemistryChemistrySecure = { ent-ShelfChemistry }
     .desc = { ent-ShelfChemistry.desc }
-    .suffix = Chemistry, Secure
+    .suffix = Химия, Защищённая

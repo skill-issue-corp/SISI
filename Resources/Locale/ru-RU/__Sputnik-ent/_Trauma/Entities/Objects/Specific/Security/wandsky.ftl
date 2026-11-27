@@ -1,5 +1,5 @@
-ent-Wandsky = commander wandsky
-    .desc = A technological marvel used for directing securitrons.
+ent-Wandsky = командирский жезлски
+    .desc = Чудо техники для управления секьюритронами.
 
-ent-SecuritronWaypoint = securitron waypoint
+ent-SecuritronWaypoint = путевая точка секьюритрона
     .desc = { "" }

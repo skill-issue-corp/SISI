@@ -10,22 +10,22 @@
 
 ### ChangelogWindow.xaml.cs
 
-changelog-window-title = Changelog
-changelog-author-changed = [color=#EEE]{ $author }[/color] changed:
-changelog-today = Today
-changelog-yesterday = Yesterday
-changelog-new-changes = new changes
-changelog-version-unknown = Unknown Version
+changelog-window-title = Список изменений
+changelog-author-changed = [color=#EEE]{ $author }[/color] внёс изменения:
+changelog-today = Сегодня
+changelog-yesterday = Вчера
+changelog-new-changes = новые изменения
+changelog-version-unknown = Неизвестная Версия
 changelog-version-tag = { $fork }/{ $version }
 
-changelog-button = Changelog
-changelog-button-new-entries = Changelog (new!)
+changelog-button = Список изменений
+changelog-button-new-entries = Список изменений (новое!)
 
 # Goobstation
 changelog-tab-title-Changelog = Wizden
-changelog-tab-title-Admin = Admin
-changelog-tab-title-Maps = Maps
-changelog-tab-title-Rules = Rules
+changelog-tab-title-Admin = Администрация
+changelog-tab-title-Maps = Карты
+changelog-tab-title-Rules = Правила
 
-cmd-changelog-desc = Opens the changelog.
-cmd-changelog-help = Usage: changelog
+cmd-changelog-desc = Открывает список изменений.
+cmd-changelog-help = Использование: changelog

@@ -1,2 +1,2 @@
-ent-EnchantPoison = Poison
+ent-EnchantPoison = Яд
     .desc = { ent-BaseEnchant.desc }

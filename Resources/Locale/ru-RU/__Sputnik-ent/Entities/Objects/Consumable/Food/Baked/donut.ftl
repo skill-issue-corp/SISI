@@ -1,84 +1,84 @@
 ent-FoodDonutBase = { ent-SolutionVeryTiny }
-    .desc = Goes great with robust coffee.
+    .desc = Отлично сочетается с робастным кофе.
 
 ent-FoodDonutFruitBase = { ent-FoodDonutBase }
     .desc = { ent-FoodDonutBase.desc }
 
-ent-FoodDonutPlain = plain donut
+ent-FoodDonutPlain = обычный пончик
     .desc = { ent-FoodDonutBase.desc }
 
-ent-FoodDonutJellyPlain = plain jelly-donut
+ent-FoodDonutJellyPlain = обычный пончик с желе
     .desc = { ent-FoodDonutFruitBase.desc }
 
-ent-FoodDonutHomer = donut
+ent-FoodDonutHomer = пончик
     .desc = { ent-FoodDonutBase.desc }
 
-ent-FoodDonutChaos = chaos donut
-    .desc = Like life, it never quite tastes the same.
+ent-FoodDonutChaos = пончик хаоса
+    .desc = Как и жизнь, никогда не бывает одинаковым на вкус.
 
-ent-FoodDonutMeat = meat donut
-    .desc = Tastes as gross as it looks.
+ent-FoodDonutMeat = мясной пончик
+    .desc = На вкус такой же мерзкий, как на вид.
 
-ent-FoodDonutPink = pink donut
-    .desc = Goes great with a soy latte.
+ent-FoodDonutPink = розовый пончик
+    .desc = Отлично сочетается с соевым латте.
 
-ent-FoodDonutSpaceman = spaceman's donut
-    .desc = Goes great with a cold beaker of malk.
+ent-FoodDonutSpaceman = пончик космонавта
+    .desc = Отлично сочетается с холодной мензуркой малока.
 
-ent-FoodDonutApple = apple donut
-    .desc = Goes great with a shot of cinnamon schnapps.
+ent-FoodDonutApple = яблочный пончик
+    .desc = Отлично сочетается с рюмкой коричного шнапса.
 
-ent-FoodDonutCaramel = caramel donut
-    .desc = Goes great with a mug of hot coco.
+ent-FoodDonutCaramel = карамельный пончик
+    .desc = Отлично сочетается с кружкой горячего какао.
 
-ent-FoodDonutChocolate = chocolate donut
-    .desc = Goes great with a glass of warm milk.
+ent-FoodDonutChocolate = шоколадный пончик
+    .desc = Отлично сочетается со стаканом тёплого молока.
 
-ent-FoodDonutBluePumpkin = blue pumpkin donut
-    .desc = Goes great with a mug of soothing drunken blue pumpkin.
+ent-FoodDonutBluePumpkin = пончик с синей тыквой
+    .desc = Отлично сочетается с кружкой успокаивающей пьяной синей тыквы.
 
-ent-FoodDonutBungo = bungo donut
-    .desc = Goes great with a mason jar of hippie's delight.
+ent-FoodDonutBungo = пончик с бунго
+    .desc = Отлично сочетается с банкой услады хиппи.
 
-ent-FoodDonut = matcha donut
-    .desc = The L-theanine in this donut is relaxing, yet not euphoric. Goes great with a cup of tea.
+ent-FoodDonut = пончик с матчей
+    .desc = L-теанин в этом пончике расслабляет, но не вызывает эйфории. Отлично сочетается с чашкой чая.
 
-ent-FoodDonutSweetpea = sweet pea donut
-    .desc = Goes great with a bottle of Bastion Burbon!
+ent-FoodDonutSweetpea = пончик со сладким горохом
+    .desc = Отлично сочетается с бутылкой «Бастиона Бурбона»!
 
-ent-FoodDonutJellyHomer = jelly-donut
-    .desc = You jelly?
+ent-FoodDonutJellyHomer = пончик с желе
+    .desc = Зажелели?
 
-ent-FoodDonutJellyPink = pink jelly-donut
-    .desc = Goes great with a soy latte.
+ent-FoodDonutJellyPink = розовый пончик с желе
+    .desc = Отлично сочетается с соевым латте.
 
-ent-FoodDonutJellySpaceman = spaceman's jelly-donut
-    .desc = Goes great with a cold beaker of malk.
+ent-FoodDonutJellySpaceman = пончик космонавта с желе
+    .desc = Отлично сочетается с холодной мензуркой малока.
 
-ent-FoodDonutJellyApple = apple jelly-donut
-    .desc = Goes great with a shot of cinnamon schnapps.
+ent-FoodDonutJellyApple = яблочный пончик с желе
+    .desc = Отлично сочетается с рюмкой коричного шнапса.
 
-ent-FoodDonutJellyCaramel = caramel jelly-donut
-    .desc = Goes great with a mug of hot coco.
+ent-FoodDonutJellyCaramel = карамельный пончик с желе
+    .desc = Отлично сочетается с кружкой горячего какао.
 
-ent-FoodDonutJellyChocolate = chocolate jelly-donut
-    .desc = Goes great with a glass of warm milk.
+ent-FoodDonutJellyChocolate = шоколадный пончик с желе
+    .desc = Отлично сочетается со стаканом тёплого молока.
 
-ent-FoodDonutJellyBluePumpkin = blue pumpkin jelly-donut
-    .desc = Goes great with a mug of soothing drunken blue pumpkin.
+ent-FoodDonutJellyBluePumpkin = пончик с синей тыквой и желе
+    .desc = Отлично сочетается с кружкой успокаивающей пьяной синей тыквы.
 
-ent-FoodDonutJellyBungo = bungo jelly-donut
-    .desc = Goes great with a mason jar of hippie's delight.
+ent-FoodDonutJellyBungo = пончик с бунго и желе
+    .desc = Отлично сочетается с банкой услады хиппи.
 
-ent-FoodDonutJelly = matcha jelly-donut
-    .desc = The L-theanine in this jelly-donut is relaxing, yet not euphoric. Goes great with a cup of tea.
+ent-FoodDonutJelly = пончик с матчей и желе
+    .desc = L-теанин в этом пончике с желе расслабляет, но не вызывает эйфории. Отлично сочетается с чашкой чая.
 
-ent-FoodDonutJellySweetpea = sweet pea jelly-donut
-    .desc = Goes great with a bottle of Bastion Burbon!
+ent-FoodDonutJellySweetpea = пончик со сладким горохом и желе
+    .desc = Отлично сочетается с бутылкой «Бастиона Бурбона»!
 
-ent-FoodDonutJellyScurret = scurret jelly-donut
-    .desc = No holes in this donut in case a suspicious looking pole shows up.
+ent-FoodDonutJellyScurret = пончик-слизнекотик с желе
+    .desc = У этого пончика нет дырки, на случай если объявится подозрительный шест.
 
 ent-FoodDonutPoison = { ent-FoodDonutPink }
     .desc = { ent-FoodDonutPink.desc }
-    .suffix = Poison
+    .suffix = Яд

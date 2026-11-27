@@ -1,56 +1,56 @@
 ### Localization for role ban command
 
-cmd-roleban-desc = Bans a player from a role
+cmd-roleban-desc = Запрещает игроку играть на выбранной должности
 # Trauma - added severity and webhook reason
-cmd-roleban-help = Usage: roleban <name or user ID> <job> <reason> [duration in minutes, leave out or 0 for permanent ban] [severity] [webhook reason override]
+cmd-roleban-help = Использование: roleban <имя или ID пользователя> <должность> <причина> [длительность в минутах, оставьте пустым или укажите 0 для бессрочного запрета] [тяжесть] [причина для вебхука]
 
 ## Completion result hints
-cmd-roleban-hint-1 = <name or user ID>
-cmd-roleban-hint-2 = <job>
-cmd-roleban-hint-3 = <reason>
-cmd-roleban-hint-4 = [duration in minutes, leave out or 0 for permanent ban]
-cmd-roleban-hint-5 = [severity]
+cmd-roleban-hint-1 = <имя или ID пользователя>
+cmd-roleban-hint-2 = <должность>
+cmd-roleban-hint-3 = <причина>
+cmd-roleban-hint-4 = [длительность в минутах, оставьте пустым или укажите 0 для бессрочного запрета]
+cmd-roleban-hint-5 = [тяжесть]
 
-cmd-roleban-hint-duration-1 = Permanent
-cmd-roleban-hint-duration-2 = 1 day
-cmd-roleban-hint-duration-3 = 3 days
-cmd-roleban-hint-duration-4 = 1 week
-cmd-roleban-hint-duration-5 = 2 week
-cmd-roleban-hint-duration-6 = 1 month
+cmd-roleban-hint-duration-1 = Бессрочно
+cmd-roleban-hint-duration-2 = 1 день
+cmd-roleban-hint-duration-3 = 3 дня
+cmd-roleban-hint-duration-4 = 1 неделя
+cmd-roleban-hint-duration-5 = 2 недели
+cmd-roleban-hint-duration-6 = 1 месяц
 
 
 ### Localization for role unban command
 
-cmd-roleunban-desc = Pardons a player's role ban
-cmd-roleunban-help = Usage: roleunban <role ban id>
-cmd-roleunban-unable-to-parse-id = Unable to parse {$id} as a ban id integer.
+cmd-roleunban-desc = Снимает запрет на должность с игрока
+cmd-roleunban-help = Использование: roleunban <ID запрета должности>
+cmd-roleunban-unable-to-parse-id = Не удалось распознать {$id} как целочисленный id запрета.
                                    {$help}
 
 ## Completion result hints
-cmd-roleunban-hint-1 = <role ban id>
+cmd-roleunban-hint-1 = <ID запрета должности>
 
 
 ### Localization for roleban list command
 
-cmd-rolebanlist-desc = Lists the user's role bans
-cmd-rolebanlist-help = Usage: <name or user ID> [include unbanned]
+cmd-rolebanlist-desc = Показывает запреты пользователя на должности
+cmd-rolebanlist-help = Использование: <имя или ID пользователя> [включая снятые запреты]
 
 ## Completion result hints
-cmd-rolebanlist-hint-1 = <name or user ID>
-cmd-rolebanlist-hint-2 = [include unbanned]
+cmd-rolebanlist-hint-1 = <имя или ID пользователя>
+cmd-rolebanlist-hint-2 = [включая снятые запреты]
 
 
-cmd-roleban-minutes-parse = {$time} is not a valid amount of minutes.\n{$help}
-cmd-roleban-severity-parse = ${severity} is not a valid severity\n{$help}.
-cmd-roleban-arg-count = Invalid amount of arguments.
-cmd-roleban-job-parse = Job {$job} does not exist.
-cmd-roleban-name-parse = Unable to find a player with that name.
-cmd-roleban-success = Role banned {$target} from {$role} with reason {$reason} {$length}.
+cmd-roleban-minutes-parse = Недопустимая длительность в минутах: {$time}.\n{$help}
+cmd-roleban-severity-parse = Недопустимый уровень тяжести: {$severity}\n{$help}.
+cmd-roleban-arg-count = Недопустимое число аргументов.
+cmd-roleban-job-parse = Должности {$job} не существует.
+cmd-roleban-name-parse = Не удалось найти игрока с таким именем.
+cmd-roleban-success = Игроку {$target} запрещена должность {$role}. Причина: {$reason}. Срок: {$length}.
 
-cmd-roleban-inf = permanently
-cmd-roleban-until =  until {$expires}
+cmd-roleban-inf = бессрочно
+cmd-roleban-until =  до {$expires}
 
 # Department bans
-cmd-departmentban-desc = Bans a player from the roles comprising a department
+cmd-departmentban-desc = Запрещает игроку играть на всех должностях отдела
 # Trauma - added severity and webhook reason
-cmd-departmentban-help = Usage: departmentban <name or user ID> <department> <reason> [duration in minutes, leave out or 0 for permanent ban] [severity] [webhook reason override]
+cmd-departmentban-help = Использование: departmentban <имя или ID пользователя> <отдел> <причина> [длительность в минутах, оставьте пустым или укажите 0 для бессрочного запрета] [тяжесть] [причина для вебхука]

@@ -1,31 +1,31 @@
-ent-AnomalyScanner = anomaly scanner
-    .desc = A hand-held scanner built to collect information on various anomalous objects.
+ent-AnomalyScanner = сканер аномалий
+    .desc = Ручной сканер для сбора сведений о различных аномальных объектах.
 
-ent-AnomalyScannerAdmin = admin anomaly scanner
-    .desc = A hand-held scanner built to collect information on various anomalous objects. This one seems to have a few extra features.
-    .suffix = Admin
+ent-AnomalyScannerAdmin = администраторский сканер аномалий
+    .desc = Ручной сканер для сбора сведений о различных аномальных объектах. У этого, похоже, есть несколько дополнительных функций.
+    .suffix = Администрация
 
-ent-AnomalyLocatorUnpowered = anomaly locator
-    .desc = A device designed to aid in the locating of anomalies. Did you check the gas miners?
-    .suffix = Always Powered
+ent-AnomalyLocatorUnpowered = локатор аномалий
+    .desc = Прибор для поиска аномалий. Проверяли газодобытчики?
+    .suffix = Всегда Под Напряжением
 
 ent-AnomalyLocator = { ent-AnomalyLocatorUnpowered }
     .desc = { ent-AnomalyLocatorUnpowered.desc }
 
 ent-AnomalyLocatorEmpty = { ent-AnomalyLocator }
     .desc = { ent-AnomalyLocator.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-AnomalyLocatorWideUnpowered = wide-spectrum anomaly locator
-    .desc = A device that looks for anomalies from an extended distance, but has no way to determine the distance to them.
-    .suffix = Always Powered
+ent-AnomalyLocatorWideUnpowered = широкодиапазонный локатор аномалий
+    .desc = Прибор, способный обнаруживать аномалии на большом расстоянии, но не определять дальность до них.
+    .suffix = Всегда Под Напряжением
 
 ent-AnomalyLocatorWide = { ent-AnomalyLocatorWideUnpowered }
     .desc = { ent-AnomalyLocatorWideUnpowered.desc }
 
 ent-AnomalyLocatorWideEmpty = { ent-AnomalyLocatorWide }
     .desc = { ent-AnomalyLocatorWide.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-WeaponGauntletGorilla = G.O.R.I.L.L.A. gauntlet
-    .desc = A robust piece of research equipment. When powered with an anomaly core, a single blow can launch anomalous objects through the air.
+ent-WeaponGauntletGorilla = перчатка Г.О.Р.И.Л.Л.А.
+    .desc = Робастное научное оборудование. С ядром аномалии в качестве источника питания может одним ударом подбросить аномальный объект в воздух.

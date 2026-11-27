@@ -1,2 +1,2 @@
-ent-ClothingUniformJumpsuitAbductor = abductor uniform
+ent-ClothingUniformJumpsuitAbductor = униформа абдуктора
     .desc = { ent-UnsensoredClothingUniformBase.desc }

@@ -1,2 +1,2 @@
-ent-MindRoleGhostRoleAnimal = Ghost Role (Animal)
+ent-MindRoleGhostRoleAnimal = Роль Призрака (Животное)
     .desc = { ent-MindRoleGhostRoleNeutral.desc }

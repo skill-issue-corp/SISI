@@ -1,7 +1,7 @@
-ent-AirlockSealed = sealed airlock
-    .desc = It opens, it closes, and maybe crushes you. Now it stops little creatures too!
-    .suffix = DO NOT MAP
+ent-AirlockSealed = герметичный шлюз
+    .desc = Открывается, закрывается и, может быть, вас раздавит. Теперь ещё и не пропускает мелких существ!
+    .suffix = НЕ МАППИТЬ
 
-ent-AirlockSealedGlass = sealed glass airlock
-    .desc = It opens, it closes, and maybe crushes you. Now it stops little creatures too!
-    .suffix = DO NOT MAP
+ent-AirlockSealedGlass = герметичный стеклянный шлюз
+    .desc = Открывается, закрывается и, может быть, вас раздавит. Теперь ещё и не пропускает мелких существ!
+    .suffix = НЕ МАППИТЬ

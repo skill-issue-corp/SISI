@@ -1,5 +1,5 @@
-ent-BaseFoldable = foldable
+ent-BaseFoldable = складной предмет
     .desc = { "" }
 
-ent-BaseDeployFoldable = deploy foldable
+ent-BaseDeployFoldable = развёртываемый складной предмет
     .desc = { ent-BaseFoldable.desc }

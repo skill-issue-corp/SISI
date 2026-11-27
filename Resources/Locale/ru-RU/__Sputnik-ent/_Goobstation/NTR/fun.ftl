@@ -1,15 +1,15 @@
-ent-Marlen = marlen
-    .desc = A stylish intricate souvenir made from tough hyper-woven durathread by "NanoFashion". Looks expensive.
+ent-Marlen = марлен
+    .desc = Стильный сувенир сложной работы из прочной дюраткани сверхплотного плетения от «NanoFashion». Выглядит дорого.
 
-ent-VendingMachineCigsDeluxe = ShadyCigs Ultra Premium Pro DLC Deluxe
-    .desc = If you dont have one of these in your home, you cant call yourself a smoker.
+ent-VendingMachineCigsDeluxe = ShadyCigs Ультра Премиум Про DLC Делюкс
+    .desc = Если у вас дома такого нет, вы не вправе называть себя курильщиком.
 
-ent-SoapGold = golden soap
-    .desc = Finally, you slipped 1000 people and unlocked a new golden soap. Smells like whiskey.
+ent-SoapGold = золотое мыло
+    .desc = Наконец-то вы заставили 1000 человек поскользнуться и разблокировали новое золотое мыло. Пахнет виски.
 
-ent-SoapCentcomm = centcomm soap
-    .desc = They clearly should stop with the green theme on everything man. Smells like lube.
+ent-SoapCentcomm = мыло ЦК
+    .desc = Чувак, им давно пора перестать красить всё подряд в зелёный. Пахнет смазкой.
 
-ent-WaterCoolerGold = executive water cooler
-    .desc = Your taxes were spent on this...
-    .suffix = full
+ent-WaterCoolerGold = кулер руководителя
+    .desc = На это ушли ваши налоги...
+    .suffix = полностью заполнено

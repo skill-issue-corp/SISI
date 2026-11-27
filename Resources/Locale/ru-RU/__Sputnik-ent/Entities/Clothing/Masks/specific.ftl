@@ -1,10 +1,10 @@
-ent-ClothingMaskGasChameleon = gas mask
-    .desc = A face-covering mask that can be connected to an air supply.
-    .suffix = Chameleon
+ent-ClothingMaskGasChameleon = противогаз
+    .desc = Маска, закрывающая лицо и подключаемая к источнику воздуха.
+    .suffix = Хамелеон
 
 ent-ClothingMaskGasVoiceChameleon = { ent-ClothingMaskGasChameleon }
     .desc = { ent-ClothingMaskGasChameleon.desc }
-    .suffix = Voice Mask, Chameleon
+    .suffix = Голосовая Маска, Хамелеон
 
-ent-ClothingMaskGoldenCursed = golden mask
-    .desc = Previously used in strange pantomimes, after one of the actors went mad on stage these masks have avoided use. You swear its face contorts when you're not looking.
+ent-ClothingMaskGoldenCursed = золотая маска
+    .desc = Эти маски прежде носили в странных пантомимах, но после того, как один актёр сошёл с ума на сцене, ими больше не пользовались. Вы готовы поклясться, что её лицо кривится, пока вы не смотрите.

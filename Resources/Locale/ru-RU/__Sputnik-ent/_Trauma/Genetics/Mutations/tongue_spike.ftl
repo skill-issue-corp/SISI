@@ -1,14 +1,14 @@
-ent-MutationTongueSpike = Tongue Spike
-    .desc = Allows a creature to voluntarily shoot their tongue out as a deadly weapon.
+ent-MutationTongueSpike = Шипастый Язык
+    .desc = Позволяет существу по желанию выстреливать языком, используя его как смертоносное оружие.
 
-ent-ActionMutationTongueSpike = Launch spike
-    .desc = Shoot your tongue out in the direction you click, embedding it and dealing damage until they remove it.
+ent-ActionMutationTongueSpike = Выпустить шип
+    .desc = Выстрелите языком туда, куда нажмёте. Язык вонзится в цель и будет ранить её, пока его не вытащат.
 
-ent-MutationChemSpike = Chem Spike
-    .desc = Allows a creature to voluntarily shoot their tongue out as biomass, allowing a long range transfer of chemicals.
+ent-MutationChemSpike = Химический Шип
+    .desc = Позволяет существу по желанию выстреливать языком в виде биомассы, перенося химикаты на расстояние.
 
-ent-ActionMutationChemSpike = Launch chem spike
-    .desc = Shoot your tongue out in the direction you click, embedding it and dealing damage until they remove it. While the other person has the spike embedded, you can transfer your chemicals to them.
+ent-ActionMutationChemSpike = Выпустить химический шип
+    .desc = Выстрелите языком туда, куда нажмёте. Язык вонзится в цель и будет ранить её, пока его не вытащат. Пока шип сидит в цели, вы можете передать ей свои химикаты.
 
-ent-ActionMutationChemSpikeSend = Transfer Chemicals
-    .desc = Send all of your reagents into whomever the chem spike is embedded in. One use.
+ent-ActionMutationChemSpikeSend = Передать Химикаты
+    .desc = Передайте все свои реагенты тому, в ком застрял химический шип. Одно применение.

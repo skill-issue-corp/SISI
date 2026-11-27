@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-honkops-title = Honklear Operatives
-honkops-description = Honklear operatives have targeted the station. Try to keep them from arming and detonating the nuke by protecting the nuke disk!
+honkops-title = Оперативники Хонклеар
+honkops-description = Оперативники хонклеар нацелились на станцию. Защитите ядерный диск, чтобы они не смогли активировать и взорвать ядерную бомбу!
 
 # SIS-Start
 honkops-role-greeting =
@@ -20,32 +20,32 @@ honkops-role-greeting-desc =
     {"["}rainbow speed="0.1"]Смерть NanoTrasen! Да начнётся великий ХОНК![/rainbow]
 # SIS-End
 
-honkops-opsmajor = [color=crimson]Honkicate major victory![/color]
-honkops-opsminor = [color=crimson]Honkicate minor victory![/color]
-honkops-neutral = [color=yellow]Neutral outcome![/color]
-honkops-crewminor = [color=green]Crew minor victory![/color]
-honkops-crewmajor = [color=green]Crew major victory![/color]
+honkops-opsmajor = [color=crimson]Крупная победа Хонкиката![/color]
+honkops-opsminor = [color=crimson]Малая победа Хонкиката![/color]
+honkops-neutral = [color=yellow]Ничейный исход![/color]
+honkops-crewminor = [color=green]Малая победа экипажа![/color]
+honkops-crewmajor = [color=green]Крупная победа экипажа![/color]
 
-honkops-cond-nukeexplodedoncorrectstation = The honklear operatives managed to blow up the station.
-honkops-cond-nukeexplodedonnukieoutpost = The honklear operative outpost was destroyed by a honklear blast.
-honkops-cond-nukeexplodedonincorrectlocation = The honklear bomb was detonated off-station.
-honkops-cond-nukeactiveinstation = The honklear bomb was left armed on-station.
-honkops-cond-nukeactiveatcentcom = The honklear bomb was delivered to Central Command!
-honkops-cond-nukediskoncentcom = The crew escaped with the honklear authentication disk.
-honkops-cond-nukedisknotoncentcom = The crew left the honklear authentication disk behind.
-honkops-cond-nukiesabandoned = The honklear operatives were abandoned.
-honkops-cond-allnukiesdead = All honklear operatives have died.
-honkops-cond-somenukiesalive = Some honklear operatives died.
-honkops-cond-allnukiesalive = No honklear operatives died.
+honkops-cond-nukeexplodedoncorrectstation = Оперативникам хонклеар удалось взорвать станцию.
+honkops-cond-nukeexplodedonnukieoutpost = Хонклеарный взрыв уничтожил аванпост оперативников хонклеар.
+honkops-cond-nukeexplodedonincorrectlocation = Хонклеарная бомба взорвалась за пределами станции.
+honkops-cond-nukeactiveinstation = Хонклеарная бомба осталась на станции в активированном состоянии.
+honkops-cond-nukeactiveatcentcom = Хонклеарную бомбу доставили в Центральное Командование!
+honkops-cond-nukediskoncentcom = Экипаж эвакуировался с диском хонклеарной аутентификации.
+honkops-cond-nukedisknotoncentcom = Экипаж оставил диск хонклеарной аутентификации.
+honkops-cond-nukiesabandoned = Оперативников хонклеар бросили на произвол судьбы.
+honkops-cond-allnukiesdead = Все оперативники хонклеар погибли.
+honkops-cond-somenukiesalive = Некоторые оперативники хонклеар погибли.
+honkops-cond-allnukiesalive = Ни один оперативник хонклеар не погиб.
 
-honkops-list-start = The honklear operatives were:
+honkops-list-start = Оперативниками хонклеар были:
 honkops-list-name = - [color=White]{$name}[/color]
 honkops-list-name-user = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
-honkops-not-enough-ready-players = Not enough players readied up for the game! There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start Honkops.
-honkops-no-one-ready = No players readied up! Can't start Honkops.
+honkops-not-enough-ready-players = Недостаточно готовых игроков! Готовых игроков: {$readyPlayersCount}, требуется {$minimumPlayers}. Не удалось запустить Хонкопс.
+honkops-no-one-ready = Нет готовых игроков! Не удалось запустить Хонкопс.
 
-honkops-role-commander = Honk Commander
-honkops-role-agent = Honk Agent
-honkops-role-operator = Honk Operator
+honkops-role-commander = Хонк-Командир
+honkops-role-agent = Хонк-Агент
+honkops-role-operator = Хонк-Оператор
 
-loadout-group-honkops-mask = Honkops Mask
+loadout-group-honkops-mask = Маска Хонкопс

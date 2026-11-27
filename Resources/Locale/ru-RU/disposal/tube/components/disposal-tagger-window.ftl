@@ -6,5 +6,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-disposal-tagger-window-title = Disposal Tagger
-disposal-tagger-window-tag-input-label = Tag:
+disposal-tagger-window-title = Маркиратор Мусоросброса
+disposal-tagger-window-tag-input-label = Метка:

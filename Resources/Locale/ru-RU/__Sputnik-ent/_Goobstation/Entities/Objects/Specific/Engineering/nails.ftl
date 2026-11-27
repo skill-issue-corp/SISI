@@ -1,11 +1,11 @@
-ent-Nail = nail
-    .desc = A tiny metal stick. It is probably used to fix walls.
+ent-Nail = гвоздь
+    .desc = Крошечный металлический стержень. Наверное, им чинят стены.
 
-ent-NailArmorPiercing = nail (armor-piercing)
-    .desc = A heavy nail designed to pierce through hard surfaces. Looks just like a regular nail, until it suddenly kills you.
+ent-NailArmorPiercing = гвоздь (бронебойный)
+    .desc = Тяжёлый гвоздь, предназначенный для пробивания твёрдых поверхностей. Выглядит как обычный гвоздь, пока вдруг вас не убьёт.
 
-ent-MagazineBoxNail = nail box
+ent-MagazineBoxNail = коробка гвоздей
     .desc = { ent-BaseItem.desc }
 
-ent-MagazineBoxNailArmorPiercing = nail box (armor-piercing)
+ent-MagazineBoxNailArmorPiercing = коробка гвоздей (бронебойных)
     .desc = { ent-MagazineBoxNail.desc }

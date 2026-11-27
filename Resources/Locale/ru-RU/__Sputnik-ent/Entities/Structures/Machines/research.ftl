@@ -1,5 +1,5 @@
-ent-ResearchAndDevelopmentServer = R&D server
-    .desc = Contains the collective knowledge of the station's scientists. Destroying it would send them back to the stone age. You don't want that do you?
+ent-ResearchAndDevelopmentServer = сервер НиО
+    .desc = Содержит общие знания учёных станции. Уничтожение сервера отбросит их в каменный век. Вы же этого не хотите?
 
-ent-BaseResearchAndDevelopmentPointSource = base R&D point source
+ent-BaseResearchAndDevelopmentPointSource = базовый источник очков НиО
     .desc = { ent-BaseMachinePowered.desc }

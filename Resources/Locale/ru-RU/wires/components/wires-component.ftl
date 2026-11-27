@@ -10,21 +10,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-wires-component-ui-on-receive-message-no-hands = You have no hands.
-wires-component-ui-on-receive-message-cannot-reach = You can't reach there!
-wires-component-ui-on-receive-message-need-wirecutters = You need to hold a wirecutter in your hand!
-wires-component-ui-on-receive-message-need-multitool = You need to hold a multitool in your hand!
-wires-component-ui-on-receive-message-cannot-pulse-cut-wire = You can't pulse a wire that's been cut!
-wires-component-ui-on-receive-message-cannot-cut-cut-wire = You can't cut a wire that's been cut!
-wires-component-ui-on-receive-message-cannot-mend-uncut-wire = You can't mend a wire that's been mended!
+wires-component-ui-on-receive-message-no-hands = У вас нет рук.
+wires-component-ui-on-receive-message-cannot-reach = Вам туда не дотянуться!
+wires-component-ui-on-receive-message-need-wirecutters = Возьмите кусачки в руку!
+wires-component-ui-on-receive-message-need-multitool = Возьмите мультитул в руку!
+wires-component-ui-on-receive-message-cannot-pulse-cut-wire = Нельзя подать импульс на перерезанный провод!
+wires-component-ui-on-receive-message-cannot-cut-cut-wire = Этот провод уже перерезан!
+wires-component-ui-on-receive-message-cannot-mend-uncut-wire = Этот провод уже цел!
 
 ## UI
 
-wires-menu-name-label = Wires
+wires-menu-name-label = Проводка
 wires-menu-dead-beef-text = DEAD-BEEF
 wires-menu-help-popup =
-    Click on the gold contacts with a multitool in hand to pulse their wire.
-    Click on the wires with a pair of wirecutters in hand to cut/mend them.
+    Возьмите мультитул и нажмите на золотистый контакт, чтобы подать импульс на его провод.
+    Возьмите кусачки и нажмите на провод, чтобы перерезать или восстановить его.
 
-    The lights at the top show the state of the machine, messing with wires will probably do stuff to them.
-    Wire layouts are different each round, but consistent between machines of the same type.
+    Индикаторы наверху показывают состояние устройства. Манипуляции с проводкой, скорее всего, изменят их показания.
+    Схема проводки меняется каждый раунд и одинакова у всех устройств одного типа.

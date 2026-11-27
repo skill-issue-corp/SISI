@@ -1,5 +1,5 @@
-ent-BaseMobXenomorphSentinel = xenomorph sentinel
-    .desc = A specialized specimen designed to hit targets at a distance. Particularly dangerous in narrow corridors and confined spaces.
+ent-BaseMobXenomorphSentinel = страж ксеноморфов
+    .desc = Особь, приспособленная поражать цели на расстоянии. Особенно опасна в узких коридорах и замкнутых пространствах.
 
 ent-MobXenomorphSentinel = { ent-BaseMobXenomorphSentinel }
     .desc = { ent-BaseMobXenomorphSentinel.desc }

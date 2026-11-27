@@ -1,5 +1,5 @@
-ent-ClothingOuterArmorAbductor = agent vest
+ent-ClothingOuterArmorAbductor = жилет агента
     .desc = { ent-ClothingOuterBase.desc }
 
-ent-ClothingOuterCoatAbductor = alien lab coat
-    .desc = A suit of alien origin that protects from various injuries, as well as from chemical spills.
+ent-ClothingOuterCoatAbductor = инопланетный лабораторный халат
+    .desc = Костюм инопланетного происхождения, защищающий от различных травм и проливов химикатов.

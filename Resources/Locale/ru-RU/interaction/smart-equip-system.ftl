@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-smart-equip-missing-equipment-slot = You have no {$slotName} slot to interact with!
-smart-equip-empty-equipment-slot = There's nothing in your {$slotName} slot to take out!
-smart-equip-no-valid-item-slot-insert = There's no valid item slot for {THE($item)} to go into!
-smart-equip-cant-drop = You can't drop that!
+smart-equip-missing-equipment-slot = У вас нет ячейки «{$slotName}»!
+smart-equip-empty-equipment-slot = В ячейке «{$slotName}» нечего взять!
+smart-equip-no-valid-item-slot-insert = Нет подходящей ячейки для {$item}!
+smart-equip-cant-drop = Вы не можете это уронить!

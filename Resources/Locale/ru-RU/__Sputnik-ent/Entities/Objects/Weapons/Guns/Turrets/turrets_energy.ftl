@@ -1,14 +1,14 @@
-ent-WeaponEnergyTurretStationBase = sentry turret
-    .desc = A high-tech autonomous weapons system designed to keep unauthorized personnel out of sensitive areas.
+ent-WeaponEnergyTurretStationBase = сторожевая турель
+    .desc = Высокотехнологичная автономная оружейная система, которая не пропускает посторонних в режимные зоны.
 
 ent-WeaponEnergyTurretAI = { ent-WeaponEnergyTurretStationBase }
     .desc = { ent-WeaponEnergyTurretStationBase.desc }
-    .suffix = AI, Silicon
+    .suffix = ИИ, Синтетик
 
 ent-WeaponEnergyTurretSecurity = { ent-WeaponEnergyTurretStationBase }
     .desc = { ent-WeaponEnergyTurretStationBase.desc }
-    .suffix = Security
+    .suffix = Служба Безопасности
 
 ent-WeaponEnergyTurretCommand = { ent-WeaponEnergyTurretStationBase }
     .desc = { ent-WeaponEnergyTurretStationBase.desc }
-    .suffix = Command
+    .suffix = Командование

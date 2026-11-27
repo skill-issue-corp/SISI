@@ -1,17 +1,17 @@
-ent-ActionToggleNinjaGloves = Toggle ninja gloves
-    .desc = Toggles all glove actions on left click. Includes your doorjack, draining power, stunning enemies and hacking certain computers.
+ent-ActionToggleNinjaGloves = Переключить перчатки ниндзя
+    .desc = Включает или выключает все действия перчаток по щелчку левой кнопкой мыши, включая взлом дверей, высасывание энергии, оглушение врагов и взлом некоторых компьютеров.
 
-ent-ActionCreateThrowingStar = Create throwing star
-    .desc = Channels suit power into creating a throwing star that deals extra stamina damage.
+ent-ActionCreateThrowingStar = Создать сюрикен
+    .desc = Направляет энергию костюма на создание сюрикена, который наносит дополнительный урон выносливости.
 
-ent-ActionRecallKatana = Recall katana
-    .desc = Teleports the Energy Katana linked to this suit to its wearer, cost based on distance.
+ent-ActionRecallKatana = Отозвать катану
+    .desc = Телепортирует связанную с костюмом Энергетическую Катану к его владельцу. Расход энергии зависит от расстояния.
 
-ent-ActionNinjaEmp = EM Burst
-    .desc = Disable any nearby technology with an electro-magnetic pulse.
+ent-ActionNinjaEmp = ЭМ Импульс
+    .desc = Выведите из строя всю ближайшую технику электромагнитным импульсом.
 
-ent-ActionTogglePhaseCloak = Phase cloak
-    .desc = Toggles your suit's phase cloak. Beware that if you are hit, all abilities are disabled for 5 seconds, including your cloak!
+ent-ActionTogglePhaseCloak = Фазовая маскировка
+    .desc = Включает или выключает фазовую маскировку костюма. Осторожно, при попадании все способности отключатся на 5 секунд, включая маскировку!
 
-ent-ActionEnergyKatanaDash = Katana dash
-    .desc = Teleport to anywhere you can see, if your Energy Katana is in your hand.
+ent-ActionEnergyKatanaDash = Рывок с катаной
+    .desc = Телепортируйтесь в любое видимое место, если держите в руке Энергетическую Катану.

@@ -1,4 +1,4 @@
-reagent-name-adrenaline = Adrenaline
-reagent-desc-adrenaline = A potent hormone, naturally produced by the body in life-or-death situations.
+reagent-name-adrenaline = Адреналин
+reagent-desc-adrenaline = Сильнодействующий гормон, который организм вырабатывает в ситуациях, когда жизнь висит на волоске.
 
-stack-leviathan-hide = leviathan scale
+stack-leviathan-hide = чешуя левиафана

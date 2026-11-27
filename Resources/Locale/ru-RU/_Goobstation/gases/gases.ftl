@@ -1,4 +1,4 @@
-gas-bz = BZ
-gas-healium = Healium
-gas-nitrium = Nitrium
-gas-pluoxium = Pluoxium
+gas-bz = БЗ
+gas-healium = Хилиум
+gas-nitrium = Нитриум
+gas-pluoxium = Плюоксиум

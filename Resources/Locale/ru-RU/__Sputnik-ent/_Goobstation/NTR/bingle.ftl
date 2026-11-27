@@ -1,5 +1,5 @@
-ent-MobBingleCargo = cargo bingle
-    .desc = Once a proud Bingle, now captured and forced to work 9 to 5 to repay for its crimes, you can see their tears.
+ent-MobBingleCargo = бингл карго
+    .desc = Некогда гордого Бингла поймали и теперь заставляют работать с 9 до 5, чтобы он искупил свои преступления. Видно, как он плачет.
 
-ent-CargoBingleSpawnCoin = strange coin
-    .desc = It glows with a dim blue light, you can sense life in it.
+ent-CargoBingleSpawnCoin = странная монета
+    .desc = Тускло светится синим. Внутри чувствуется жизнь.

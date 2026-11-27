@@ -1,9 +1,9 @@
-ent-CratePermaEscapeSpawner = Perma Escape Crate Spawner
+ent-CratePermaEscapeSpawner = Спавнер Ящиков Побега из Пермабрига
     .desc = { ent-CrateEmptySpawner.desc }
 
 ent-CratePermaEscapeDigging = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
-    .suffix = Digging
+    .suffix = Копание
 
 ent-CratePermaEscapeEVA = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
@@ -11,32 +11,32 @@ ent-CratePermaEscapeEVA = { ent-CrateGenericSteel }
 
 ent-CratePermaEscapeGun = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
-    .suffix = Gun
+    .suffix = Оружие
 
 ent-CratePermaEscapeBureaucracy = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
-    .suffix = Bureaucracy
+    .suffix = Бюрократия
 
 ent-CratePermaEscapeLights = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
-    .suffix = Glowsticks
+    .suffix = Светящиеся палочки
 
 ent-CratePermaEscapeMats = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
-    .suffix = Materials
+    .suffix = Материалы
 
 ent-CratePermaEscapeGiftsFromSyndicate = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
-    .suffix = Syndicate gifts
+    .suffix = Подарки Синдиката
 
 ent-CratePermaEscapeMerc = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
-    .suffix = Mercenary
+    .suffix = Наёмник
 
 ent-CratePermaEscapeComs = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
-    .suffix = Comms
+    .suffix = Связь
 
 ent-CratePermaEscapeTowercap = { ent-CrateGenericSteel }
     .desc = { ent-CrateGenericSteel.desc }
-    .suffix = Towercap
+    .suffix = Башнегриб

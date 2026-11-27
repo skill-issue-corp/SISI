@@ -1,14 +1,14 @@
-ent-AppearanceBananaMen = bananamen appearance
+ent-AppearanceBananaMen = внешность бананолюда
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobBananaMen = Urist McBanana
+ent-MobBananaMen = Урист МакБанан
     .desc = { ent-AppearanceBananaMen.desc }
 
 ent-OrganBananaMen = { ent-OrganBase }
     .desc = { ent-OrganBase.desc }
-    .suffix = bananamen
+    .suffix = бананолюд
 
-ent-OrganBananaMenInternal = banana
+ent-OrganBananaMenInternal = банан
     .desc = { ent-OrganBananaMen.desc }
 
 ent-OrganBananaMenExternal = { ent-OrganBananaMen }
@@ -45,41 +45,41 @@ ent-OrganBananaMenFootRight = { ent-OrganBaseFootRight }
     .desc = { ent-OrganBaseFootRight.desc }
 
 ent-OrganBananaMenBrain = { ent-OrganBananaMenInternal }
-    .desc = A very odd-looking banana, HONK!
-    .suffix = brain
+    .desc = Очень странный на вид банан, ХОНК!
+    .suffix = мозг
 
 ent-OrganBananaMenEyes = { ent-OrganBananaMenInternal }
-    .desc = A very odd-looking banana, it seems to be looking back at you...
-    .suffix = eyes
+    .desc = Очень странный на вид банан, кажется, он тоже на вас смотрит...
+    .suffix = глаза
 
 ent-OrganBananaMenTongue = { ent-OrganBananaMenInternal }
-    .desc = A very odd-looking banana, it looks very tasty!
-    .suffix = tongue
+    .desc = Очень странный на вид банан, выглядит очень аппетитно!
+    .suffix = язык
 
 ent-OrganBananaMenAppendix = { ent-OrganBananaMenInternal }
-    .desc = A very odd-looking banana, it looks like it serves no purpose.
-    .suffix = appendix
+    .desc = Очень странный на вид банан, кажется, от него никакого толку.
+    .suffix = аппендикс
 
 ent-OrganBananaMenEars = { ent-OrganBananaMenInternal }
-    .desc = A very odd-looking banana, it's bent in a very concave way.
-    .suffix = ears
+    .desc = Очень странный на вид банан, он сильно загнут внутрь.
+    .suffix = уши
 
 ent-OrganBananaMenLungs = { ent-OrganBananaMenInternal }
-    .desc = A very odd-looking banana, it looks flabby enough to store air or something.
-    .suffix = lungs
+    .desc = Очень странный на вид банан, на вид такой дряблый, что в нём можно держать воздух или что-то такое.
+    .suffix = лёгкие
 
 ent-OrganBananaMenHeart = { ent-OrganBananaMenInternal }
-    .desc = A very odd-looking banana, it looks like its almost beating.
-    .suffix = heart
+    .desc = Очень странный на вид банан, кажется, он чуть слышно бьётся.
+    .suffix = сердце
 
 ent-OrganBananaMenStomach = { ent-OrganBananaMenInternal }
-    .desc = A very odd-looking banana, it looks like it's got room inside to store food.
-    .suffix = stomach
+    .desc = Очень странный на вид банан, похоже, внутри найдётся место для еды.
+    .suffix = желудок
 
 ent-OrganBananaMenLiver = { ent-OrganBananaMenInternal }
-    .desc = A very odd-looking banana, it looks like if it has room inside to break down chemicals
-    .suffix = liver
+    .desc = Очень странный на вид банан, похоже, внутри есть место для расщепления веществ
+    .suffix = печень
 
 ent-OrganBananaMenKidneys = { ent-OrganBananaMenInternal }
-    .desc = A very odd-looking banana, it looks like it could be used to filter contaminants.
-    .suffix = kidneys
+    .desc = Очень странный на вид банан, похоже, им можно отфильтровывать примеси.
+    .suffix = почки

@@ -1,3 +1,3 @@
-ent-SpawnMobGingerbreadAI = gingerbread man Spawner
+ent-SpawnMobGingerbreadAI = Спавнер пряничного человечка
     .desc = { ent-MarkerBase.desc }
-    .suffix = Ghostrole
+    .suffix = Роль Призрака

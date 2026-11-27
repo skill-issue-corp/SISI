@@ -1,41 +1,41 @@
-ent-PianoInstrument = piano
-    .desc = Play Needles Piano Now.
+ent-PianoInstrument = рояль
+    .desc = Сыграйте Needles На Пианино Сейчас.
 
-ent-UprightPianoInstrument = upright piano
-    .desc = I said Piannie!
+ent-UprightPianoInstrument = пианино
+    .desc = Я же сказал Пьяннино!
 
-ent-VibraphoneInstrument = vibraphone
-    .desc = Good vibes all around.
+ent-VibraphoneInstrument = вибрафон
+    .desc = От него веет хорошими вибрациями.
 
-ent-MarimbaInstrument = marimba
+ent-MarimbaInstrument = маримба
     .desc = { ent-BasePlaceableInstrumentRotatable.desc }
 
-ent-ChurchOrganInstrument = church organ
-    .desc = This thing really blows!
+ent-ChurchOrganInstrument = церковный орган
+    .desc = Вот это дудит так дудит!
 
-ent-TubaInstrument = tuba
-    .desc = The big daddy of the brass family. Standing next to its majesty makes you feel insecure.
+ent-TubaInstrument = туба
+    .desc = Большой папочка семейства медных духовых. Рядом с её величием начинаешь сомневаться в себе.
 
-ent-HarpInstrument = harp
-    .desc = Plucking at the strings cuts your fingers, but at least the music is pretty.
+ent-HarpInstrument = арфа
+    .desc = Струны режут пальцы, когда их щиплешь, но музыка хотя бы красивая.
 
-ent-TimpaniInstrument = timpani
-    .desc = It goes BOOM BOOM BOOM BOOM!
+ent-TimpaniInstrument = литавры
+    .desc = Делают БУМ БУМ БУМ БУМ!
 
-ent-TaikoInstrument = taiko
-    .desc = A large drum. Looking at it fills you with the urge to slap it.
+ent-TaikoInstrument = тайко
+    .desc = Большой барабан. Смотришь на него и так и хочется шлёпнуть.
 
-ent-ContrabassInstrument = contrabass
-    .desc = Perfect for laying down a nice jazzy beat.
+ent-ContrabassInstrument = контрабас
+    .desc = Идеально подходит, чтобы задать приятный джазовый ритм.
 
-ent-MinimoogInstrument = minimoog
-    .desc = This is a minimoog, like a space piano, but more spacey!
+ent-MinimoogInstrument = минимуг
+    .desc = Это минимуг. Как космическое пианино, только ещё космичнее!
 
-ent-TomDrumsInstrument = tom drums
-    .desc = Where'd the rest of the kit go?
+ent-TomDrumsInstrument = том-томы
+    .desc = И куда делась остальная установка?
 
-ent-DawInstrument = digital audio workstation
-    .desc = Cutting edge music technology, straight from the 90s.
+ent-DawInstrument = цифровая звуковая рабочая станция
+    .desc = Передовые музыкальные технологии прямиком из 90-х.
 
-ent-BigDrumsInstrument = drum kit
-    .desc = Ba dum tss!
+ent-BigDrumsInstrument = ударная установка
+    .desc = Ба-дум-тсс!

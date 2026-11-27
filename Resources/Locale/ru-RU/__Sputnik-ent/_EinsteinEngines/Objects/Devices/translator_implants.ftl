@@ -1,29 +1,29 @@
-ent-BasicTauCetiBasicTranslatorImplant = basic common translator implant
-    .desc = Provides your illiterate friends the ability to understand the common galactic tongue.
+ent-BasicTauCetiBasicTranslatorImplant = базовый имплант переводчика с галактического общего
+    .desc = Позволяет вашим неграмотным друзьям понимать галактический общий язык.
 
-ent-TauCetiBasicTranslatorImplant = advanced common translator implant
-    .desc = A more advanced version of the translator implant, teaches your illiterate friends the ability to both speak and understand the galactic tongue!
+ent-TauCetiBasicTranslatorImplant = продвинутый имплант переводчика с галактического общего
+    .desc = Более продвинутая версия импланта переводчика. Учит ваших неграмотных друзей не только понимать галактический язык, но и говорить на нём!
 
-ent-BubblishTranslatorImplant = bubblish translator implant
-    .desc = An implant that helps you speak and understand the language of slimes! Special vocal chords not included.
+ent-BubblishTranslatorImplant = имплант переводчика с уб'мола'р-иена
+    .desc = Имплант, который помогает понимать язык слаймов и говорить на нём! Особые голосовые связки в комплект не входят.
 
-ent-DraconicTranslatorImplant = draconic translator implant
-    .desc = A translator implant giving the ability to speak to dragons! Subsequently, also allows to communicate with the Unathi.
+ent-DraconicTranslatorImplant = имплант переводчика с имперского дракона
+    .desc = Имплант переводчика, который позволяет разговаривать с драконами! Впоследствии оказалось, что с Унатхами тоже.
 
-ent-SolCommonTranslatorImplant = sol-common translator implant
-    .desc = An implant giving the ability to understand and speak SolCommon. Raaagh!
+ent-SolCommonTranslatorImplant = имплант переводчика с землегена
+    .desc = Имплант, который позволяет понимать ЗемлеГен и говорить на нём. Р-ра-а-а!
 
-ent-NovuNedericTranslatorImplant = novu-nederic translator implant
-    .desc = An implant giving the ability to understand and speak Novu-Nederic. Hoezee!
+ent-NovuNedericTranslatorImplant = имплант переводчика с терралингвы
+    .desc = Имплант, который позволяет понимать Терралингву и говорить на ней. Ура!
 
-ent-RootSpeakTranslatorImplant = root-speak translator implant
-    .desc = An implant that lets you speak for the trees. Or to the trees.
+ent-RootSpeakTranslatorImplant = имплант переводчика с корнеречи
+    .desc = Имплант, с которым можно говорить от имени деревьев. Или с деревьями.
 
-ent-MofficTranslatorImplant = moffic translator implant
-    .desc = An implant designed to help domesticate mothroaches. Subsequently, allows you to communicate with the moth people.
+ent-MofficTranslatorImplant = имплант переводчика с объединённого гудфика
+    .desc = Имплант, созданный для одомашнивания таракамолей. Впоследствии оказалось, что он позволяет общаться с нианами.
 
-ent-AzazibaTranslatorImplant = azaziba translator implant
-    .desc = An implant giving the ability to understand and speak Azaziba.
+ent-AzazibaTranslatorImplant = имплант переводчика с синта'азазибы
+    .desc = Имплант, который позволяет понимать Синта'Азазибу и говорить на ней.
 
-ent-NewKinPidginTranslatorImplant = ka'rakk translator implant
-    .desc = An implant giving the ability to understand and speak Ka'rakk.
+ent-NewKinPidginTranslatorImplant = имплант переводчика с ка'ракка
+    .desc = Имплант, который позволяет понимать Ка'ракк и говорить на нём.

@@ -1,21 +1,21 @@
 ent-BaseModsuitPieceERTLeader = { "" }
     .desc = { "" }
 
-ent-ClothingModsuitResponsoryLeader = Leader Responsory modsuit control unit
-    .desc = The main controller for a Leader Responsory modsuit.
+ent-ClothingModsuitResponsoryLeader = блок управления модсьюта «Командир ОБР»
+    .desc = Основной блок управления модсьютом «Командир ОБР».
 
-ent-ClothingModsuitGauntletsResponsoryLeader = Leader Responsory modsuit gauntlets
-    .desc = A pair of gauntlets made for the Leader Responsory modsuit.
+ent-ClothingModsuitGauntletsResponsoryLeader = перчатки модсьюта «Командир ОБР»
+    .desc = Пара перчаток для модсьюта «Командир ОБР».
 
-ent-ClothingModsuitHelmetResponsoryLeader = Leader Responsory modsuit helmet
-    .desc = A state-of-the-art helmet designed by NanoTrasen for the Leader Responsory modsuit. It includes a built-in HUD.
+ent-ClothingModsuitHelmetResponsoryLeader = шлем модсьюта «Командир ОБР»
+    .desc = Передовой шлем, разработанный NanoTrasen для модсьюта «Командир ОБР». Оснащён встроенным визором.
 
-ent-ClothingModsuitChestplateResponsoryLeader = Leader Responsory modsuit chestplate
-    .desc = A state of the art chestplate designed by NanoTrasen for the Leader Responsory modsuit. It incorporates powered servos to reduce the equipment load.
+ent-ClothingModsuitChestplateResponsoryLeader = нагрудник модсьюта «Командир ОБР»
+    .desc = Передовой нагрудник, разработанный NanoTrasen для модсьюта «Командир ОБР». Встроенные сервоприводы снижают нагрузку от снаряжения.
 
-ent-ClothingModsuitBootsResponsoryLeader = Leader Responsory modsuit boots
-    .desc = A state-of-the-art pair of magboots for the Leader Responsory modsuit. So long as the suit is powered, these will not slow the wearer down.
+ent-ClothingModsuitBootsResponsoryLeader = ботинки модсьюта «Командир ОБР»
+    .desc = Передовые магнитные ботинки для модсьюта «Командир ОБР». Пока на костюм подаётся питание, ботинки не замедляют владельца.
 
 ent-SuitStorageResponsoryLeader = { ent-SuitStorageBase }
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Leader Responsory Modsuit
+    .suffix = Модсьют «Командир ОБР»

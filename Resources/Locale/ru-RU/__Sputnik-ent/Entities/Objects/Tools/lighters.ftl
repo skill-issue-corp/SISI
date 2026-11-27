@@ -1,51 +1,51 @@
-ent-BaseLighter = basic lighter
+ent-BaseLighter = простая зажигалка
     .desc = { ent-SolutionWelder.desc }
 
 ent-SolutionLighter = { ent-SolutionWelder }
     .desc = { ent-SolutionWelder.desc }
 
-ent-Lighter = basic lighter
-    .desc = A simple plastic cigarette lighter.
+ent-Lighter = простая зажигалка
+    .desc = Обычная пластиковая зажигалка для сигарет.
 
-ent-CheapLighter = cheap lighter
-    .desc = A dangerously inexpensive plastic lighter. Don't burn your thumb!
+ent-CheapLighter = дешёвая зажигалка
+    .desc = Опасно дешёвая пластиковая зажигалка. Не обожгите большой палец!
 
-ent-DiscountDanLighter = Discount Dan's lighter
-    .desc = The worst lighter ever produced. Lighter burn is inevitable, do not refuel while lit.
+ent-DiscountDanLighter = зажигалка «Дэн со Скидкой»
+    .desc = Худшая зажигалка из когда-либо выпущенных. Ожоги неизбежны, не заправляйте зажжённую.
 
 ent-BaseBrandedLighter = { ent-SolutionToolWelderMini }
     .desc = { ent-SolutionToolWelderMini.desc }
 
-ent-FlippoLighter = flippo lighter
-    .desc = A rugged metal lighter that lasts quite a while.
+ent-FlippoLighter = зажигалка флиппо
+    .desc = Прочная металлическая зажигалка, которой надолго хватит.
 
-ent-FlippoEngravedLighter = flippo engraved lighter
-    .desc = A rugged golden lighter that lasts quite a while. Engravings serve no tactical advantage whatsoever.
+ent-FlippoEngravedLighter = зажигалка флиппо с гравировкой
+    .desc = Прочная золотая зажигалка, которой надолго хватит. Гравировка не даёт никаких тактических преимуществ.
 
-ent-SyndicateFlippo = Blood-red flippo
-    .desc = A 'Valid' choice in lighters. Contains no copper.
+ent-SyndicateFlippo = Кроваво-красная флиппо
+    .desc = «Валидный» выбор зажигалки. Не содержит меди.
 
-ent-CybersunFlippo = CyberSun Flippo
-    .desc = A sleek black and magenta flippo lighter, bearing the logo and iconography of CyberSun Industries.
+ent-CybersunFlippo = Флиппо КиберСана
+    .desc = Изящная чёрно-пурпурная зажигалка флиппо с логотипом и символикой КиберСан Индастриз.
 
-ent-InterdyneFlippo = Interdyne Flippo
-    .desc = A deep blue flippo lighter, decorated with the logo of Interdyne Pharmaceuticals' 'Gene Clean' clinics. Become the master of your own cigarette.
+ent-InterdyneFlippo = Флиппо Интердайна
+    .desc = Тёмно-синяя зажигалка флиппо с логотипом клиник «Генная Чистка» компании «Интердайн Фармасьютикалс». Станьте хозяином собственной сигареты.
 
-ent-NanotrasenFlippo = Nanotrasen Flippo
-    .desc = A navy blue luxury flippo, generally handed out to loyal heads of staff instead of a pay raise. Fueled with liquid plasma.
+ent-NanotrasenFlippo = Флиппо NanoTrasen
+    .desc = Элитная тёмно-синяя флиппо. Обычно её выдают преданным главам вместо прибавки к жалованью. Работает на жидкой плазме.
 
-ent-CentCommFlippo = Gilded CentComm Flippo
-    .desc = An Ornate, jade embossed and gilded flippo frame containing a bluespace powered jet. The latch is secured by a miniature access reader that only responds to CentComm officials. The nicest lighter known to man.
-    .suffix = DO NOT MAP
+ent-CentCommFlippo = Позолоченная Флиппо ЦК
+    .desc = Витиеватый позолоченный корпус флиппо с нефритовым тиснением и горелкой на блюспейс-технологии. Защёлка защищена миниатюрным считывателем доступа, который признаёт только представителей ЦК. Лучшая зажигалка из известных человечеству.
+    .suffix = НЕ МАППИТЬ
 
-ent-SpiderclanFlippo = Spider-Clan lighter
-    .desc = A high tech jet lighter, engineered to function even in deep space. Runs on a tiny microfusion cell.
+ent-SpiderclanFlippo = зажигалка Клана-Паука
+    .desc = Высокотехнологичная турбозажигалка, работающая даже в открытом космосе. Работает на крошечном микротермоядерном элементе.
 
-ent-WaffleCoFlippo = Waffle Co. flippo
-    .desc = A robust mass produced lighter. The Waffle Co. logo turns the spark wheel when pushed up, minimising risk of lighter burns for even the most inept user.
+ent-WaffleCoFlippo = флиппо «Ваффл Ко.»
+    .desc = Робастная зажигалка массового производства. При нажатии вверх логотип «Ваффл Ко.» поворачивает кремнёвое колёсико. Даже самый неумелый пользователь вряд ли обожжётся.
 
-ent-HonkCoFlippo = Honk Co. flippo
-    .desc = A gag lighter hidden inside of a banana peel. Produced by Honk Co.
+ent-HonkCoFlippo = флиппо «Хонк Ко.»
+    .desc = Шуточная зажигалка в банановой кожуре. Произведена «Хонк Ко.».
 
-ent-DonkcoLighter = Donk Co. flippo
-    .desc = The flippo of choice for the seasoned traitor. An edible novelty lighter made by Donk Co.
+ent-DonkcoLighter = флиппо «Донк Ко.»
+    .desc = Любимая флиппо бывалого предателя. Съедобная зажигалка-новинка от «Донк Ко.».

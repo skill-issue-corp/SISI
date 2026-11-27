@@ -1,5 +1,5 @@
-ent-DartGun = dart gun
-    .desc = The label reads: "Interdyne Pharmaceutics is not responsible for any geneva convention violations caused by improper use."
+ent-DartGun = дротикомёт
+    .desc = На этикетке написано: «Интердайн Фармацевтика не несёт ответственности за нарушения женевской конвенции вследствие неправильного использования».
 
-ent-BulletDartGun = chemical dart
-    .desc = Is this one healing or harming?
+ent-BulletDartGun = химический дротик
+    .desc = Этот лечит или калечит?

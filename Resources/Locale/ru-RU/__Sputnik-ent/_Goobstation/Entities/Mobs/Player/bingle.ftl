@@ -1,17 +1,17 @@
-ent-MobBingle = bingle
-    .desc = bingle
+ent-MobBingle = бингл
+    .desc = бингл
 
 ent-MobBinglePrime = { ent-MobBingle }
     .desc = { ent-MobBingle.desc }
-    .suffix = Prime
+    .suffix = Первый
 
 ent-MobBingleUpgraded = { ent-MobBingle }
     .desc = { ent-MobBingle.desc }
-    .suffix = Upgraded
+    .suffix = Улучшено
 
-ent-MobTurkle = turkle
-    .desc = A bingle from foreign lands lost to time. Seems very proud of their homeland.
+ent-MobTurkle = тюркл
+    .desc = Бингл из далёких земель, затерянных во времени. Кажется, очень гордится родиной.
 
 ent-MobTurkleUpgraded = { ent-MobBingleUpgraded }
     .desc = { ent-MobBingleUpgraded.desc }
-    .suffix = Upgraded
+    .suffix = Улучшено

@@ -1,2 +1,2 @@
-ent-ClothingShoesClothwrap = cloth footwraps
-    .desc = A roll of treated canvas used for wrapping feet or paws.
+ent-ClothingShoesClothwrap = тканевые портянки
+    .desc = Рулон обработанной парусины, которой обматывают ступни или лапы.

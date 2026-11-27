@@ -1,101 +1,101 @@
-ent-ActionMimeMalaise = Mime Malaise
+ent-ActionMimeMalaise = Мимическая Апатия
     .desc = ...
 
-ent-ActionCluwneCurse = Curse of the Cluwne
-    .desc = It's time to start cluwning around.
+ent-ActionCluwneCurse = Проклятие Клувеня
+    .desc = Пора как следует поклувничать.
 
-ent-ActionBananaTouch = Banana Touch
-    .desc = It's time to start clowning around.
+ent-ActionBananaTouch = Прикосновение Банана
+    .desc = Пора как следует подурачиться.
 
-ent-ActionMagicMissile = Magic Missile
-    .desc = Fires several stunning, slow moving, homing magic projectiles at nearby targets.
+ent-ActionMagicMissile = Волшебная Стрела
+    .desc = Выпускает в ближайшие цели несколько медленных самонаводящихся волшебных снарядов, которые оглушают при попадании.
 
-ent-ActionDisableTech = Disable Technology
-    .desc = Disables all weapons, cameras and most other technology in range.
+ent-ActionDisableTech = Отключение Техники
+    .desc = Выводит из строя всё оружие, камеры и бо́льшую часть прочей техники в радиусе действия.
 
-ent-ActionRepulse = Repulse
-    .desc = Throws everything around the user away.
+ent-ActionRepulse = Отталкивание
+    .desc = Отбрасывает всё вокруг заклинателя.
 
 ent-ActionRepulseNoRobes = { ent-ActionRepulse }
     .desc = { ent-ActionRepulse.desc }
 
-ent-ActionStopTime = Stop Time
-    .desc = Stops time around you.
+ent-ActionStopTime = Остановка Времени
+    .desc = Останавливает время вокруг вас.
 
-ent-ActionCorpseExplosion = Corpse Explosion
-    .desc = Fills a corpse with energy, causing it to explode violently.
+ent-ActionCorpseExplosion = Взрыв Трупа
+    .desc = Наполняет труп энергией, отчего тот с силой взрывается.
 
-ent-ActionBlindSpell = Blind
-    .desc = Temporarily blinds a single target.
+ent-ActionBlindSpell = Ослепление
+    .desc = Временно ослепляет одну цель.
 
-ent-ActionBindSoul = Bind Soul
-    .desc = Bind your soul to an item to resurrect after death. If your soul is already bound to an item and you are dead, attempt resurrecion.
+ent-ActionBindSoul = Связывание Души
+    .desc = Привяжите душу к предмету, чтобы воскреснуть после смерти. Если вы мертвы и ваша душа уже привязана к предмету, попробуйте воскреснуть.
 
-ent-ActionMutateSpell = Mutate
-    .desc = Causes you to turn into a hulk and gain laser vision for a short while.
+ent-ActionMutateSpell = Мутировать
+    .desc = Ненадолго превращает вас в халка и даёт лазерное зрение.
 
-ent-ActionTeslaBlast = Tesla Blast
-    .desc = Charge up a tesla arc and release it at random nearby targets.
+ent-ActionTeslaBlast = Взрыв Теслы
+    .desc = Накопите разряд теслы и выпустите его в случайные цели поблизости.
 
-ent-ActionLightningBolt = Lightning Bolt
-    .desc = Fire a lightning bolt at your foes.
+ent-ActionLightningBolt = Молния
+    .desc = Поразите врагов молнией.
 
-ent-ActionHomingToolbox = Homing Toolbox
-    .desc = Fires a magical homing toolbox at your opponent.
+ent-ActionHomingToolbox = Самонаводящийся Ящик
+    .desc = Запускает в противника самонаводящийся волшебный ящик для инструментов.
 
-ent-ActionSpellCards = Spell Cards
-    .desc = Fire up to six bursts of homing spell cards.
+ent-ActionSpellCards = Карты Заклинаний
+    .desc = Выпустите до шести залпов самонаводящихся карт заклинаний.
 
-ent-ActionArcaneBarrage = Arcane Barrage
-    .desc = Fire a torrent of arcane energy at your foes.
+ent-ActionArcaneBarrage = Мистический Шквал
+    .desc = Обрушьте на врагов поток магической энергии.
 
-ent-ActionLesserSummonGuns = Lesser Summon Guns
-    .desc = Summon an unending stream of bolt action rifles.
+ent-ActionLesserSummonGuns = Малый Призыв Оружия
+    .desc = Призовите бесконечный поток винтовок с продольно-скользящим затвором.
 
-ent-ActionBarnyardCurse = Curse of the Barnyard
-    .desc = Dooms an unlucky soul to possess the speech and facial attributes of a barnyard animal.
+ent-ActionBarnyardCurse = Проклятие Скотного Двора
+    .desc = Обречёт несчастную душу говорить как скотина и обзавестись её мордой.
 
-ent-ActionScreamForMe = Scream For Me
-    .desc = This wicked spell inflicts many severe wounds on your target, causing them to likely bleed to death unless they receive immediate medical attention.
+ent-ActionScreamForMe = Кричи Для Меня
+    .desc = Это злобное заклинание наносит цели множество тяжёлых ран. Без срочной медицинской помощи цель, скорее всего, истечёт кровью.
 
-ent-ActionInstantSummons = Instant Summons
-    .desc = Recalls a previously marked item to your hand from anywhere in the universe.
+ent-ActionInstantSummons = Мгновенный Призыв
+    .desc = Возвращает ранее отмеченный предмет вам в руку из любой точки вселенной.
 
-ent-ActionTeleportWizard = Teleport
-    .desc = This spell teleports you to an area of your selection.
+ent-ActionTeleportWizard = Телепортироваться
+    .desc = Это заклинание телепортирует вас в выбранную область.
 
-ent-ActionTrapsSpell = The Traps!
-    .desc = Summon a number of traps around you.
+ent-ActionTrapsSpell = Ловушки!
+    .desc = Призовите вокруг себя несколько ловушек.
 
-ent-ActionLesserSummonBees = Lesser Summon Bees
-    .desc = This spell magically kicks a transdimensional beehive, instantly summoning a swarm of bees to your location.
+ent-ActionLesserSummonBees = Малый Призыв Пчёл
+    .desc = Это заклинание волшебным пинком тревожит межпространственный улей, мгновенно призывая к вам пчелиный рой.
 
-ent-ActionSummonSimians = Summon Simians
-    .desc = This spell reaches deep into the elemental plane of bananas (the monkey one, not the clown one), and summons lesser monkeys and gorillas in front of you that will promptly flip out and attack everything in sight. Fun!
+ent-ActionSummonSimians = Призыв Приматов
+    .desc = Это заклинание проникает в глубины стихийного плана бананов (обезьяньего, а не клоунского) и призывает перед вами мелких обезьян и горилл. Они тут же взбесятся и набросятся на всё, что увидят. Веселье!
 
-ent-ActionGorillaForm = Gorilla Form
-    .desc = Take on the shape of a powerful gorilla.
+ent-ActionGorillaForm = Форма Гориллы
+    .desc = Примите облик могучей гориллы.
 
-ent-ActionSanguineStrike = Sanguine Strike
-    .desc = Enchants your next weapon strike to deal more damage, heal you for damage dealt, and refill blood.
+ent-ActionSanguineStrike = Кровавый Удар
+    .desc = Зачаровывает ваш следующий удар оружием. Он нанесёт больше урона, исцелит вас на величину нанесённого урона и восполнит кровь.
 
-ent-ActionChuuniInvocations = Chuuni Invocations
-    .desc = Makes all your spells shout invocations, and the invocations become... stupid. You heal slightly after casting a spell.
+ent-ActionChuuniInvocations = Чуунибьё-Заклинания
+    .desc = Заставляет вас выкрикивать формулы всех заклинаний, и формулы становятся... дурацкими. После каждого заклинания вы немного исцеляетесь.
 
-ent-ActionSwapSpell = Swap
-    .desc = Allows you to swap locations with any living being.
+ent-ActionSwapSpell = Обмен
+    .desc = Позволяет поменяться местами с любым живым существом.
 
-ent-ActionSoulTap = Soul Tap
-    .desc = Fuel your spells using your own soul!
+ent-ActionSoulTap = Черпание Души
+    .desc = Питайте заклинания собственной душой!
 
-ent-ActionThrownLightning = Thrown Lightning
-    .desc = Forged from eldritch energies, a packet of pure power, known as a spell packet will appear in your hand, that when thrown will deal a lot of stamina damage to your target.
+ent-ActionThrownLightning = Брошенная Молния
+    .desc = В вашей руке появится сгусток чистой силы, сотканный из потусторонней энергии. Бросьте этот сгусток заклинания, чтобы сильно истощить выносливость цели.
 
-ent-ActionBlinkSpell = Blink
-    .desc = Randomly teleport a short distance.
+ent-ActionBlinkSpell = Скачок
+    .desc = Телепортируйтесь на небольшое расстояние в случайном направлении.
 
-ent-ActionSummonStickmen = Summon Stick Minions
-    .desc = Allows you to summon faithful stickmen allies to aide you in battle.
+ent-ActionSummonStickmen = Призвать Палочных Слуг
+    .desc = Позволяет призвать верных человечков из палочек на помощь в бою.
 
-ent-ActionTileToggle = Toggle tile movement
-    .desc = Toggle tile movement for the target.
+ent-ActionTileToggle = Переключить движение по тайлам
+    .desc = Переключите движение цели по тайлам.

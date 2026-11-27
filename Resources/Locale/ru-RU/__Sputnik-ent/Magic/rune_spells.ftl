@@ -1,14 +1,14 @@
 ent-BaseRuneAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
 
-ent-ActionFlashRune = Flash Rune
-    .desc = Summons a rune that flashes if used.
+ent-ActionFlashRune = Руна Вспышки
+    .desc = Призывает руну, которая при активации даёт вспышку.
 
-ent-ActionExplosionRune = Explosion Rune
-    .desc = Summons a rune that explodes if used.
+ent-ActionExplosionRune = Руна Взрыва
+    .desc = Призывает руну, которая взрывается при активации.
 
-ent-ActionIgniteRune = Ignite Rune
-    .desc = Summons a rune that ignites if used.
+ent-ActionIgniteRune = Руна Воспламенения
+    .desc = Призывает руну, которая поджигает при активации.
 
-ent-ActionStunRune = Stun Rune
-    .desc = Summons a rune that stuns if used.
+ent-ActionStunRune = Руна Оглушения
+    .desc = Призывает руну, которая оглушает при активации.

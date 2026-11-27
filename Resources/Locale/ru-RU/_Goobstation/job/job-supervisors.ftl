@@ -1,6 +1,6 @@
-job-supervisors-ntr-centcom = the Nanotrasen Representative and Central Command
-job-supervisors-command = the station's command staff
-job-supervisors-null = nobody but yourself.
+job-supervisors-ntr-centcom = Представителю NanoTrasen и Центральному Командованию
+job-supervisors-command = командованию станции
+job-supervisors-null = только себе.
 
-job-supervisor-syndicate = The Spinward Syndicate
-job-supervisors-credits = The Highest Bidders
+job-supervisor-syndicate = Синдикату Вращательного Рукава
+job-supervisors-credits = Тем, Кто Больше Заплатит

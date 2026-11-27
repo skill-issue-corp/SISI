@@ -1,5 +1,5 @@
-ent-LubeGrenade = Lube Grenade
-    .desc = A grenade that releases Space Lube foam.
+ent-LubeGrenade = Граната со Смазкой
+    .desc = Граната, выпускающая пену из Космической Смазки.
 
-ent-GlueGrenade = Glue Grenade
-    .desc = A grenade that releases Space Glue foam.
+ent-GlueGrenade = Граната с Клеем
+    .desc = Граната, выпускающая пену из Космического Клея.

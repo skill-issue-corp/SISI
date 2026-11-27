@@ -1,14 +1,14 @@
-ent-Megaphone = megaphone
-    .desc = Testing!
+ent-Megaphone = мегафон
+    .desc = Проверка!
 
-ent-CargoMegaphone = cargo megaphone
-    .desc = Make money in silence and let the hustle make noise. Or something like that.
+ent-CargoMegaphone = мегафон карго
+    .desc = Зарабатывайте тихо, пусть шумит ваша суета. Ну или как-то так.
 
-ent-CommandMegaphone = command megaphone
-    .desc = Turn shallow authority into loud shallow authority.
+ent-CommandMegaphone = мегафон командования
+    .desc = Превращает мнимую власть в громкую мнимую власть.
 
-ent-SecurityMegaphone = security megaphone
-    .desc = Use to make suspects aware you're after them. Or to yell at prisoners you don't like.
+ent-SecurityMegaphone = мегафон службы безопасности
+    .desc = С его помощью можно предупредить подозреваемых, что вы за ними идёте. Или наорать на заключённых, которые вам не нравятся.
 
-ent-ClownMegaphone = clown megaphone
-    .desc = A comedian has to make their voice known.
+ent-ClownMegaphone = мегафон клоуна
+    .desc = Комик должен сделать так, чтобы его услышали.

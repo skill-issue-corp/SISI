@@ -1,14 +1,14 @@
-ent-StatusEffectDamageModArmorReactiveRock = damage mod changed
+ent-StatusEffectDamageModArmorReactiveRock = модификатор урона изменён
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-ForcedTrueStealthStatusEffect = camouflage
+ent-ForcedTrueStealthStatusEffect = маскировка
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-PointLight10StatusEffect = point light
+ent-PointLight10StatusEffect = точечный свет
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-WhiteHoleStatusEffect = gravity well
+ent-WhiteHoleStatusEffect = гравитационный колодец
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-BlackHoleStatusEffect = gravity well
+ent-BlackHoleStatusEffect = гравитационный колодец
     .desc = { ent-MobStatusEffectBase.desc }

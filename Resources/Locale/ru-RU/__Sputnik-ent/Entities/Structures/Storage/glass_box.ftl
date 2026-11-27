@@ -1,29 +1,29 @@
 ent-BaseGlassBox = { ent-BaseStructureDynamic }
     .desc = { ent-BaseStructureDynamic.desc }
 
-ent-GlassBox = glass box
-    .desc = A sturdy showcase for an expensive exhibit.
+ent-GlassBox = стеклянная витрина
+    .desc = Прочная витрина для дорогого экспоната.
 
 ent-GlassBoxLaser = { ent-GlassBox }
     .desc = { ent-GlassBox.desc }
-    .suffix = AntiqueLaser
+    .suffix = АнтикварныйЛазер
 
 ent-GlassBoxLaserOpen = { ent-GlassBoxLaser }
     .desc = { ent-GlassBoxLaser.desc }
-    .suffix = AntiqueLaser, Open
+    .suffix = АнтикварныйЛазер, Открыто
 
 ent-GlassBoxLaserFilled = { ent-GlassBoxLaser }
     .desc = { ent-GlassBoxLaser.desc }
-    .suffix = AntiqueLaser, Filled, Alert Level Lock
+    .suffix = АнтикварныйЛазер, Заполнено, Блокировка По Уровню Тревоги
 
 ent-GlassBoxLaserFilledOpen = { ent-GlassBoxLaserFilled }
     .desc = { ent-GlassBoxLaserFilled.desc }
-    .suffix = AntiqueLaser, Filled, Open
+    .suffix = АнтикварныйЛазер, Заполнено, Открыто
 
-ent-GlassBoxFrame = glass box frame
-    .desc = A glassless sturdy showcase for an expensive exhibit.
-    .suffix = Frame
+ent-GlassBoxFrame = каркас стеклянной витрины
+    .desc = Прочная витрина для дорогого экспоната, пока без стекла.
+    .suffix = Каркас
 
-ent-GlassBoxBroken = broken glass box
-    .desc = A broken showcase for a stolen expensive exhibit.
-    .suffix = Broken
+ent-GlassBoxBroken = разбитая стеклянная витрина
+    .desc = Разбитая витрина для украденного дорогого экспоната.
+    .suffix = Сломано

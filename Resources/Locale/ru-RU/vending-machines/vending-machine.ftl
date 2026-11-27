@@ -7,6 +7,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-vending-machine-thanks-1 = Thanks for using { $name }!
-vending-machine-flavor-left = Request refills at cargo
+vending-machine-thanks-1 = Спасибо, что пользуетесь { $name }!
+vending-machine-flavor-left = Запрашивайте пополнение запасов в отделе снабжения
 vending-machine-flavor-right = v1.1

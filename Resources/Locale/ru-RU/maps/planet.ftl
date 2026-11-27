@@ -5,9 +5,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-planet-desc = Converts the supplied map into a planet with some specific biome.
+cmd-planet-desc = Превращает указанную карту в планету с заданным биомом.
 cmd-planet-help = {$command} <mapid> <biome>.
-cmd-planet-args = Requires 2 args only.
-cmd-planet-map = Unable to parse {$map} as an existing map.
-cmd-planet-map-prototype = Unable to index {$prototype} as an existing biome template prototype.
-cmd-planet-success = Set map {$mapId} to Planet. NOTE! You will need to load the map (either onto a new map or by restarting the game) for atmospherics to work.
+cmd-planet-args = Требуется ровно 2 аргумента.
+cmd-planet-map = Не удалось распознать {$map} как существующую карту.
+cmd-planet-map-prototype = Не удалось найти {$prototype} среди существующих прототипов шаблонов биомов.
+cmd-planet-success = Карта {$mapId} преобразована в Планету. ВНИМАНИЕ! Чтобы заработала атмосфера, загрузите карту заново (на новую карту или перезапустив игру).

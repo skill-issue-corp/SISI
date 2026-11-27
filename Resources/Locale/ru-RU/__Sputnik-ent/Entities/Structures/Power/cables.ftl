@@ -4,26 +4,26 @@ ent-CablePhysBase = { "" }
 ent-CableBase = { ent-CablePhysBase }
     .desc = { ent-CablePhysBase.desc }
 
-ent-CableHV = HV power cable
-    .desc = An orange high voltage power cable.
+ent-CableHV = ВВ-кабель
+    .desc = Оранжевый высоковольтный силовой кабель.
 
 ent-CableHVUncuttable = { ent-CableHV }
     .desc = { ent-CableHV.desc }
-    .suffix = uncuttable
+    .suffix = нельзя перерезать
 
-ent-CableMV = MV power cable
-    .desc = A medium voltage power cable.
+ent-CableMV = СВ-кабель
+    .desc = Силовой кабель среднего напряжения.
 
 ent-CableMVUncuttable = { ent-CableMV }
     .desc = { ent-CableMV.desc }
-    .suffix = uncuttable
+    .suffix = нельзя перерезать
 
-ent-CableApcExtension = LV power cable
-    .desc = A cable used to connect machines to an APC.
+ent-CableApcExtension = НВ-кабель
+    .desc = Кабель для подключения оборудования к ЛКП.
 
 ent-CableApcExtensionUncuttable = { ent-CableApcExtension }
     .desc = { ent-CableApcExtension.desc }
-    .suffix = uncuttable
+    .suffix = нельзя перерезать
 
-ent-CableDet = explosive cord
-    .desc = Spaghetti for people who hate walls.
+ent-CableDet = взрывной шнур
+    .desc = Спагетти для тех, кто ненавидит стены.

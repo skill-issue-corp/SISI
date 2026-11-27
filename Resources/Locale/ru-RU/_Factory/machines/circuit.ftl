@@ -1,18 +1,18 @@
 # Circuits
 
-signal-port-name-circuit-1 = Circuit IO 1
-signal-port-name-circuit-2 = Circuit IO 2
-signal-port-name-circuit-3 = Circuit IO 3
-signal-port-name-circuit-4 = Circuit IO 4
-signal-port-name-circuit-5 = Circuit IO 5
-signal-port-name-circuit-6 = Circuit IO 6
-signal-port-name-circuit-7 = Circuit IO 7
-signal-port-name-circuit-8 = Circuit IO 8
+signal-port-name-circuit-1 = ВВ Схемы 1
+signal-port-name-circuit-2 = ВВ Схемы 2
+signal-port-name-circuit-3 = ВВ Схемы 3
+signal-port-name-circuit-4 = ВВ Схемы 4
+signal-port-name-circuit-5 = ВВ Схемы 5
+signal-port-name-circuit-6 = ВВ Схемы 6
+signal-port-name-circuit-7 = ВВ Схемы 7
+signal-port-name-circuit-8 = ВВ Схемы 8
 
-signal-port-description-circuit-input = A general purpose input that gets sent to the installed circuit.
-signal-port-description-circuit-output = A general purpose output that gets invoked by the installed circuit.
+signal-port-description-circuit-input = Универсальный вход передаёт сигнал установленной схеме.
+signal-port-description-circuit-output = Универсальный выход срабатывает по сигналу установленной схемы.
 
 # Clock
 
-signal-port-name-clock = Clock
-signal-port-description-clock = Signal that constantly gets sent an alternating HIGH or LOW.
+signal-port-name-clock = Тактовый Генератор
+signal-port-description-clock = Сигнал постоянно чередует ВЫСОКИЙ и НИЗКИЙ уровни.

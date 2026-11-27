@@ -1,2 +1,2 @@
-ent-Catwalk = catwalk
-    .desc = A catwalk for easier EVA maneuvering and cable placement.
+ent-Catwalk = настил
+    .desc = Настил, упрощающий перемещение при EVA и укладку кабелей.

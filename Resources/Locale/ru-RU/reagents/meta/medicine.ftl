@@ -32,162 +32,162 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-cryptobiolin = cryptobiolin
-reagent-desc-cryptobiolin = Causes confusion and dizziness.
+reagent-name-cryptobiolin = криптобиолин
+reagent-desc-cryptobiolin = Вызывает спутанность сознания и головокружение.
 
-reagent-name-dylovene = dylovene
-reagent-desc-dylovene = A broad-spectrum anti-toxin, which treats toxin damage in organisms. Overdosing will cause vomiting, dizzyness and pain.
+reagent-name-dylovene = диловен
+reagent-desc-dylovene = Антитоксин широкого спектра, устраняющий урон от токсинов у живых организмов. Передозировка вызывает рвоту, головокружение и боль.
 
-reagent-name-diphenhydramine = diphenhydramine
-reagent-desc-diphenhydramine = Rapidly purges the body of histamine, reduces jitteriness, causes drowsiness, and treats poison damage. Often included in sleep medication.
+reagent-name-diphenhydramine = дифенгидрамин
+reagent-desc-diphenhydramine = Быстро выводит гистамин из организма, уменьшает дрожь, вызывает сонливость и лечит отравление. Часто входит в состав снотворных.
 
-reagent-name-arithrazine = arithrazine
-reagent-desc-arithrazine = A mildly unstable medication used for the most extreme case of radiation poisoning. Exerts minor stress on the body.
+reagent-name-arithrazine = аритразин
+reagent-desc-arithrazine = Слегка нестабильный препарат для лечения тяжелейших случаев лучевого поражения. Создаёт небольшую нагрузку на организм.
 
-reagent-name-bicaridine = bicaridine
-reagent-desc-bicaridine = An analgesic which is highly effective at treating brute damage. It's useful for stabilizing people who have been severely beaten, as well as treating less life-threatening injuries.
+reagent-name-bicaridine = бикаридин
+reagent-desc-bicaridine = Обезболивающее, эффективное при механических травмах. Помогает стабилизировать сильно избитых пациентов и лечить менее опасные повреждения.
 
-reagent-name-cryoxadone = cryoxadone
-reagent-desc-cryoxadone = Required for the proper function of cryogenics. Heals all standard types of damage, but only works in temperatures under 213K. It can treat and rejuvenate plants when applied in small doses.
+reagent-name-cryoxadone = криоксадон
+reagent-desc-cryoxadone = Необходим для работы криогенного оборудования. Лечит все обычные виды урона, но действует только при температуре ниже 213K. В малых дозах лечит и омолаживает растения.
 
-reagent-name-doxarubixadone = doxarubixadone
-reagent-desc-doxarubixadone = A cryogenics chemical. Heals cellular damage caused by dangerous gasses and chemicals.
+reagent-name-doxarubixadone = доксарубиксадон
+reagent-desc-doxarubixadone = Криогенный препарат. Устраняет клеточные повреждения, вызванные опасными газами и химикатами.
 
-reagent-name-dermaline = dermaline
-reagent-desc-dermaline = An advanced chemical that is more effective at treating burn damage than kelotane.
+reagent-name-dermaline = дермалин
+reagent-desc-dermaline = Усовершенствованный препарат, который лечит ожоги эффективнее келотана.
 
-reagent-name-dexalin = dexalin
-reagent-desc-dexalin = Used for treating minor oxygen deprivation and bloodloss. A required reagent for dexalin plus.
+reagent-name-dexalin = дексалин
+reagent-desc-dexalin = Устраняет лёгкую гипоксию и кровопотерю. Входит в состав дексалина плюс.
 
-reagent-name-dexalin-plus = dexalin plus
-reagent-name-dexalin-plus-saline = dexalin plus & saline
-reagent-desc-dexalin-plus = Used in treatment of extreme cases of oxygen deprivation and bloodloss. Flushes heartbreaker toxin out of the blood stream.
+reagent-name-dexalin-plus = дексалин плюс
+reagent-name-dexalin-plus-saline = дексалин плюс & физраствор
+reagent-desc-dexalin-plus = Применяется при тяжёлой гипоксии и кровопотере. Выводит токсин «сердцеед» из крови.
 
-reagent-name-epinephrine = epinephrine
-reagent-desc-epinephrine = An effective stabilizing chemical used to keep a critical person from dying to asphyxiation while patching up minor damage during crit. Flushes heartbreaker toxin out the blood stream at the cost of more epinephrine, but may add histamine. Helps reduce stun time. Commonly found in the form of emergency medipens.
+reagent-name-epinephrine = эпинефрин
+reagent-desc-epinephrine = Стабилизирует пациента в критическом состоянии. Предотвращает смерть от удушья и лечит мелкие повреждения. При выведении токсина «сердцеед» расходуется быстрее и может повысить уровень гистамина. Сокращает длительность оглушения. Обычно содержится в экстренных медипенах.
 
-reagent-name-hyronalin = hyronalin
-reagent-desc-hyronalin = A weak treatment for radiation damage. A precursor to arithrazine and phalanximine. Can cause vomiting.
+reagent-name-hyronalin = хироналин
+reagent-desc-hyronalin = Слабое средство от лучевых поражений. Служит основой для аритразина и фалангимина. Может вызвать рвоту.
 
-reagent-name-ipecac = ipecac
-reagent-desc-ipecac = A rapid-acting emetic. Useful for stopping unmetabolized poisons, or mass-vomiting sessions.
+reagent-name-ipecac = ипекак
+reagent-desc-ipecac = Быстродействующее рвотное. Помогает вывести ещё не усвоенные яды или устроить сеанс массовой рвоты.
 
-reagent-name-inaprovaline = inaprovaline
-reagent-desc-inaprovaline = Inaprovaline is a synaptic stimulant and cardiostimulant, commonly used to treat asphyxiation damage caused during critical states and reduce bleeding. Used in many advanced medicines.
+reagent-name-inaprovaline = инапровалин
+reagent-desc-inaprovaline = Инапровалин стимулирует синапсы и сердечную деятельность. Обычно им лечат удушье в критическом состоянии и ослабляют кровотечение. Входит в состав многих усовершенствованных препаратов.
 
-reagent-name-kelotane = kelotane
-reagent-desc-kelotane = Treats burn damage. Overdosing greatly reduces the body's ability to retain water.
+reagent-name-kelotane = келотан
+reagent-desc-kelotane = Лечит ожоги. При передозировке организм значительно хуже удерживает воду.
 
-reagent-name-leporazine = leporazine
-reagent-desc-leporazine = A chemical used to stabilize body temperature and rapidly cure cold damage. Great for unprotected EVA travel, but prevents the use of cryogenic tubes.
+reagent-name-leporazine = лепоразин
+reagent-desc-leporazine = Стабилизирует температуру тела и быстро лечит обморожения. Полезен при выходе в открытый космос без защиты, но мешает пользоваться криокапсулами.
 
-reagent-name-barozine = barozine
-reagent-desc-barozine = A potent chemical that prevents pressure damage. Causes extreme stress on the body.
+reagent-name-barozine = барозин
+reagent-desc-barozine = Сильнодействующее средство, предотвращающее повреждения от давления. Создаёт чрезвычайную нагрузку на организм.
 
-reagent-name-phalanximine = phalanximine
-reagent-desc-phalanximine = An advanced chemical used in the treatment of cancer. Causes moderate radiation poisoning, acid burns, and vomiting on organics. Can potentially remove the death gene on plants.
+reagent-name-phalanximine = фалангимин
+reagent-desc-phalanximine = Усовершенствованный препарат для лечения рака. Вызывает умеренное лучевое поражение, кислотные ожоги и рвоту у органических существ. Может устранить ген гибели у растений.
 
-reagent-name-polypyrylium-oligomers = Polypyrylium Oligomers
-reagent-desc-polypyrylium-oligomers = A purple mixture of short polyelectrolyte chains not easily synthesized in the laboratory. Heals asphyxiation and brute damage. Stops bleeding over time.
+reagent-name-polypyrylium-oligomers = Полипирилиевые Олигомеры
+reagent-desc-polypyrylium-oligomers = Фиолетовая смесь коротких полиэлектролитных цепочек, которую трудно синтезировать в лаборатории. Лечит удушье и механические травмы. Постепенно останавливает кровотечение.
 
-reagent-name-romerodone = romerodone
-reagent-desc-romerodone = A byproduct of centrifuging zombie blood, perhaps you could make a cure with this.
+reagent-name-romerodone = ромеродон
+reagent-desc-romerodone = Побочный продукт центрифугирования крови зомби. Возможно, из него получится лекарство.
 
 
-reagent-name-ambuzol = ambuzol
-reagent-desc-ambuzol = A highly engineered substance able to cure the zombie infection.
+reagent-name-ambuzol = амбузол
+reagent-desc-ambuzol = Тщательно разработанный препарат, способный вылечить зомби-инфекцию.
 
-reagent-name-ambuzol-plus = ambuzol plus
-reagent-desc-ambuzol-plus = Further engineered with omnizine, inoculates the living against the infection.
+reagent-name-ambuzol-plus = амбузол плюс
+reagent-desc-ambuzol-plus = Доработан с помощью омнизина. Даёт живым иммунитет к инфекции.
 
-reagent-name-pulped-banana-peel = pulped banana peel
-reagent-desc-pulped-banana-peel = Pulped banana peels have some effectiveness against bleeding.
+reagent-name-pulped-banana-peel = измельчённая банановая кожура
+reagent-desc-pulped-banana-peel = Измельчённая банановая кожура немного помогает при кровотечении.
 
-reagent-name-siderlac = siderlac
-reagent-desc-siderlac = A powerful anti-caustic medicine derived from plants.
+reagent-name-siderlac = сидерлак
+reagent-desc-siderlac = Сильнодействующее средство растительного происхождения от едких веществ.
 
-reagent-name-stellibinin = stellibinin
-reagent-desc-stellibinin = A natual anti-toxin with particular effectiveness against amatoxin.
+reagent-name-stellibinin = стеллибинин
+reagent-desc-stellibinin = Природный антитоксин, особенно эффективный против аматоксина.
 
-reagent-name-synaptizine = synaptizine
-reagent-desc-synaptizine = A toxic chemical that halves the duration of stuns and knockdowns.
+reagent-name-synaptizine = синаптизин
+reagent-desc-synaptizine = Токсичное вещество, вдвое сокращающее длительность оглушения и сбивания с ног.
 
-reagent-name-tranexamic-acid = tranexamic acid
-reagent-desc-tranexamic-acid = A blood-clotting medicine used to prevent profuse bleeding. Causes heavier bleeding on overdose. Commonly found in small doses within emergency medipens.
+reagent-name-tranexamic-acid = транексамовая кислота
+reagent-desc-tranexamic-acid = Средство для свёртывания крови, предотвращающее обильные кровотечения. Передозировка усиливает кровотечение. Часто присутствует в экстренных медипенах в малых дозах.
 
-reagent-name-tricordrazine = tricordrazine
-reagent-desc-tricordrazine = A wide-spectrum stimulant, originally derived from cordrazine. Treats minor damage of all basic health types as long as the user is not heavily wounded. Best used as an additive to other chemicals.
+reagent-name-tricordrazine = трикордразин
+reagent-desc-tricordrazine = Стимулятор широкого спектра, изначально полученный из кордразина. Лечит лёгкий урон всех основных видов, если пациент не слишком сильно ранен. Лучше всего действует как добавка к другим препаратам.
 
-reagent-name-lipozine = lipozine
-reagent-desc-lipozine = A chemical that accelerates metabolism, causing the user to hunger faster.
+reagent-name-lipozine = липозин
+reagent-desc-lipozine = Ускоряет обмен веществ, из-за чего пациент быстрее голодает.
 
-reagent-name-omnizine = omnizine
-reagent-desc-omnizine = A soothing milky liquid with an iridescent gleam. A well known conspiracy theory says that its origins remain a mystery because revealing the secrets of its production would render most commercial pharmaceuticals obsolete.
+reagent-name-omnizine = омнизин
+reagent-desc-omnizine = Успокаивающая молочная жидкость с радужным блеском. По известной теории заговора её происхождение держат в тайне, потому что раскрытие способа производства сделало бы большинство аптечных препаратов ненужными.
 
-reagent-name-ultravasculine = ultravasculine
-reagent-desc-ultravasculine = A complicated anti-toxin solution that quickly flushes out toxin while causing minor stress on the body. Reacts with histamine, duplicating itself while flushing it out. Overdose causes extreme pain.
+reagent-name-ultravasculine = ультраваскулин
+reagent-desc-ultravasculine = Сложный раствор антитоксина, быстро выводящий токсины и создающий небольшую нагрузку на организм. При реакции с гистамином размножается и выводит его. Передозировка вызывает сильную боль.
 
-reagent-name-oculine = oculine
-reagent-desc-oculine = A simple saline compound used to treat the eyes via ingestion.
+reagent-name-oculine = окулин
+reagent-desc-oculine = Простое солевое соединение для лечения глаз при приёме внутрь.
 
-reagent-name-ethylredoxrazine = ethylredoxrazine
-reagent-desc-ethylredoxrazine = Neutralises the effects of alcohol in the blood stream. Though it is commonly needed, it is rarely requested.
+reagent-name-ethylredoxrazine = этилредоксразин
+reagent-desc-ethylredoxrazine = Нейтрализует действие алкоголя в крови. Нужен часто, но просят о нём редко.
 
-reagent-name-cognizine = cognizine
-reagent-desc-cognizine = A mysterious chemical which is able to make any non-sentient creature sentient.
+reagent-name-cognizine = когнизин
+reagent-desc-cognizine = Загадочный препарат, дарующий разум любому неразумному существу.
 
-reagent-name-ethyloxyephedrine = ethyloxyephedrine
-reagent-desc-ethyloxyephedrine = A mildly unstable medicine derived from desoxyephedrine, primarily used to combat narcolepsy.
+reagent-name-ethyloxyephedrine = этилоксиэфедрин
+reagent-desc-ethyloxyephedrine = Слегка нестабильный препарат на основе дезоксиэфедрина. Применяется в основном против нарколепсии.
 
-reagent-name-diphenylmethylamine = diphenylmethylamine
-reagent-desc-diphenylmethylamine = A more stable medicine than ethyloxyephedrine. Useful for keeping someone awake.
+reagent-name-diphenylmethylamine = дифенилметиламин
+reagent-desc-diphenylmethylamine = Более стабильный препарат, чем этилоксиэфедрин. Помогает не дать пациенту уснуть.
 
-reagent-name-sigynate = sigynate
-reagent-desc-sigynate = A thick pink syrup useful for neutralizing acids and soothing trauma caused by acids. Tastes sweet!
+reagent-name-sigynate = сигинат
+reagent-desc-sigynate = Густой розовый сироп, который нейтрализует кислоты и облегчает вызванные ими повреждения. Сладкий на вкус!
 
-reagent-name-saline = saline
-reagent-desc-saline = A mixture of salt and water. Commonly used to treat dehydration or low fluid presence in blood.
+reagent-name-saline = физраствор
+reagent-desc-saline = Смесь соли и воды. Часто применяется при обезвоживании или недостатке жидкости в крови.
 
-reagent-name-lacerinol = lacerinol
-reagent-desc-lacerinol = A fairly unreactive chemical that boosts collagen synthesis to incredible levels, healing slash trauma.
+reagent-name-lacerinol = лацеринол
+reagent-desc-lacerinol = Довольно инертное вещество, которое многократно ускоряет выработку коллагена и лечит резаные раны.
 
-reagent-name-puncturase = puncturase
-reagent-name-puncturase-tranexamic = puncturase & tranexamic
-reagent-desc-puncturase = A fizzy chemical that helps rebuild trauma caused by piercing damage, leaving a slight amount of tissue damage behind.
+reagent-name-puncturase = пунктураза
+reagent-name-puncturase-tranexamic = пунктураза & транексамовая кислота
+reagent-desc-puncturase = Шипучий препарат, восстанавливающий ткани после колотых ран и оставляющий небольшие тканевые повреждения.
 
-reagent-name-bruizine = bruizine
-reagent-desc-bruizine = Originally developed as a cough medicine, it turns out this chemical is wildly effective at treating blunt force trauma.
+reagent-name-bruizine = бруизин
+reagent-desc-bruizine = Первоначально разрабатывался как лекарство от кашля, но оказался невероятно эффективным при тупых травмах.
 
-reagent-name-holywater = holy water
-reagent-desc-holywater = The cleanest and purest of waters straight from the hands of god, is known to magically heal wounds.
+reagent-name-holywater = святая вода
+reagent-desc-holywater = Чистейшая вода из рук самого бога, известная способностью исцелять раны волшебным образом.
 
-reagent-name-pyrazine = pyrazine
-reagent-name-pyrazine-dermaline = pyrazine & dermaline
-reagent-desc-pyrazine = Efficiently heals burns from the hottest of fires. Causes massive internal bleeding when overdosed.
+reagent-name-pyrazine = пиразин
+reagent-name-pyrazine-dermaline = пиразин & дермалин
+reagent-desc-pyrazine = Эффективно лечит ожоги даже от самого сильного пламени. Передозировка вызывает массивное внутреннее кровотечение.
 
-reagent-name-insuzine = insuzine
-reagent-desc-insuzine = Rapidly repairs dead tissue caused by electrocution, but cools you slightly. Completely freezes the patient when overdosed.
+reagent-name-insuzine = инсузин
+reagent-desc-insuzine = Быстро восстанавливает отмершие после удара током ткани, но слегка охлаждает пациента. При передозировке замораживает пациента целиком.
 
-reagent-name-opporozidone = opporozidone
-reagent-desc-opporozidone= A difficult to synthesize cryogenic drug used to regenerate rotting tissue and brain matter.
+reagent-name-opporozidone = оппорозидон
+reagent-desc-opporozidone= Трудный в синтезе криогенный препарат для восстановления разлагающихся тканей и вещества мозга.
 
-reagent-name-arcryox = arcryox
-reagent-desc-arcryox = A sickeningly blue cryogenics chemical that is able to heal extreme wounds even on the dead. It has trouble stabilizing patients however.
+reagent-name-arcryox = аркриокс
+reagent-desc-arcryox = Криогенный препарат болезненно-синего цвета, способный исцелять тяжелейшие раны даже у мёртвых. Стабилизирует пациентов с трудом.
 
-reagent-name-aloxadone = aloxadone
-reagent-desc-aloxadone = A cryogenics chemical. Used to treat severe burns and frostbite via regeneration of the affected tissue. Works regardless of the patient being alive or dead.
+reagent-name-aloxadone = алоксадон
+reagent-desc-aloxadone = Криогенный препарат. Исцеляет тяжёлые ожоги и обморожения, восстанавливая повреждённые ткани. Действует как на живых, так и на мёртвых.
 
-reagent-name-mannitol = mannitol
-reagent-desc-mannitol = Efficiently restores brain damage.
+reagent-name-mannitol = маннитол
+reagent-desc-mannitol = Эффективно устраняет повреждения мозга.
 
-reagent-name-psicodine = psicodine
-reagent-desc-psicodine = Suppresses anxiety and other various forms of mental distress. Overdose causes hallucinations and minor toxin damage.
+reagent-name-psicodine = псикодин
+reagent-desc-psicodine = Подавляет тревожность и другие проявления душевного дискомфорта. Передозировка вызывает галлюцинации и лёгкое отравление.
 
-reagent-name-potassium-iodide = potassium iodide
-reagent-desc-potassium-iodide = Will reduce the damaging effects of radiation by 90%. Prophylactic use only.
+reagent-name-potassium-iodide = йодид калия
+reagent-desc-potassium-iodide = Снижает повреждения от радиации на 90%. Только для профилактики.
 
-reagent-name-haloperidol = haloperidol
-reagent-desc-haloperidol = Removes most stimulating and hallucinogenic drugs. Reduces druggy effects and jitteriness. Causes drowsiness.
+reagent-name-haloperidol = галоперидол
+reagent-desc-haloperidol = Выводит большинство стимуляторов и галлюциногенов. Ослабляет наркотическое опьянение и дрожь. Вызывает сонливость.
 
-reagent-name-heparin = heparin
-reagent-desc-heparin = Commonly used as an anticoagulant medication. Causes blood to have difficulty forming clots. Can cause internal bleeding when overdosed.
+reagent-name-heparin = гепарин
+reagent-desc-heparin = Часто используется как антикоагулянт. Затрудняет образование кровяных сгустков. При передозировке может вызвать внутреннее кровотечение.

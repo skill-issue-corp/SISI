@@ -1,5 +1,5 @@
-marking-TattooEyeRightGlowy-tattoo_eye_r = Glowing Right Eye
-marking-TattooEyeRightGlowy = Glowing Right Eye
+marking-TattooEyeRightGlowy-tattoo_eye_r = Светящийся Правый Глаз
+marking-TattooEyeRightGlowy = Светящийся Правый Глаз
 
-marking-TattooEyeLeftGlowy-tattoo_eye_l = Glowing Left Eye
-marking-TattooEyeLeftGlowy = Glowing Left Eye
+marking-TattooEyeLeftGlowy-tattoo_eye_l = Светящийся Левый Глаз
+marking-TattooEyeLeftGlowy = Светящийся Левый Глаз

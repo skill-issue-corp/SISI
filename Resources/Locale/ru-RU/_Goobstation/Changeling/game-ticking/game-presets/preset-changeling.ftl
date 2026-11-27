@@ -1,18 +1,18 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-changeling-round-end-agent-name = changeling
+changeling-round-end-agent-name = генокрад
 
-objective-issuer-hivemind = [color=orange]The Hive[/color]
-objective-issuer-tiger = [color=crimson]Tiger Cooperative[/color]
+objective-issuer-hivemind = [color=orange]Улей[/color]
+objective-issuer-tiger = [color=crimson]Кооператив «Тигр»[/color]
 
-roundend-prepend-changeling-absorbed-named = [color=white]{$name}[/color] has absorbed a total of [color=red]{$number}[/color] organics.
-roundend-prepend-changeling-stolen-named = [color=white]{$name}[/color] has extracted a total of [color=orange]{$number}[/color] DNA samples.
-roundend-prepend-changeling-absorbed = Someone has absorbed a total of [color=red]{$number}[/color] organics.
-roundend-prepend-changeling-stolen = Someone had extracted a total of [color=orange]{$number}[/color] DNA samples.
+roundend-prepend-changeling-absorbed-named = [color=white]{$name}[/color] поглощает органические существа. Всего поглощено: [color=red]{$number}[/color].
+roundend-prepend-changeling-stolen-named = [color=white]{$name}[/color] извлекает образцы ДНК. Всего извлечено: [color=orange]{$number}[/color].
+roundend-prepend-changeling-absorbed = Кто-то поглощает органические существа. Всего поглощено: [color=red]{$number}[/color].
+roundend-prepend-changeling-stolen = Кто-то извлекает образцы ДНК. Всего извлечено: [color=orange]{$number}[/color].
 
-changeling-gamemode-title = Changelings
+changeling-gamemode-title = Генокрады
 changeling-gamemode-description =
-    The changeling hive has boarded the station, ready to take anything it desires - be it your equipment, your faces, or your lives!
+    Улей генокрадов проник на станцию и готов забрать всё, что пожелает – ваше снаряжение, ваши лица или ваши жизни!
 
 # SIS-Start
 changeling-role-greeting =
@@ -26,9 +26,9 @@ changeling-role-greeting-desc =
     • [color={$hl1}]Скрытность:[/color] вы можете в любой момент изменить свой облик и голос на любой из поглощенных образцов. Не дайте раскрыть себя!
 # SIS-End
 changeling-role-greeting-trauma =
-    You are a changeling who has absorbed and taken the form of {$name}!
-    Your objectives are listed in the character menu.
-    Absorb, shapeshift and evolve to complete them!
+    Вы генокрад, поглотивший {$name} и принявший этот облик!
+    Ваши цели перечислены в меню персонажа.
+    Поглощайте, меняйте облик и эволюционируйте, чтобы выполнить их!
 
 changeling-role-greeting-short =
-    You are a changeling who has absorbed and taken the initial form of {$name}.
+    Вы генокрад, поглотивший {$name} и принявший этот облик в самом начале.

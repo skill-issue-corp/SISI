@@ -4,27 +4,27 @@ ent-BaseWeaponCustomCell = { ent-BaseItem }
 ent-BaseWeaponCustomCellSmall = { ent-BaseWeaponCustomCell }
     .desc = { ent-BaseWeaponCustomCell.desc }
 
-ent-WeaponPlasmaRifle = plasma rifle
-    .desc = It may or may not explode in your face.
+ent-WeaponPlasmaRifle = плазменная винтовка
+    .desc = Может взорваться у вас перед носом. А может и нет.
 
 ent-WeaponPlasmaRifleEmpty = { ent-WeaponPlasmaRifle }
     .desc = { ent-WeaponPlasmaRifle.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
 ent-WeaponEnergyRevolver = EG-4 Equalizer
-    .desc = A highly advanced energy revolver capable of firing various bolts depending on the power cell.
+    .desc = Передовой энергетический револьвер, который может стрелять разными зарядами в зависимости от батареи.
 
-ent-WeaponDisablerAdvanced = centcomm disabler
-    .desc = A non-lethal self-defense weapon for agents not trustable with traditional lethals. Recharges over time.
+ent-WeaponDisablerAdvanced = дизейблер цк
+    .desc = Несмертельное оружие самообороны для агентов, которым нельзя доверить обычное летальное оружие. Со временем перезаряжается.
 
-ent-WeaponDisablerSyndicate = syndicate disabler
-    .desc = An advanced disabler built from a reverse-engineered Nanotrasen prototype. While it lacks a bit of stopping power, it makes up for it with a recharging cell.
+ent-WeaponDisablerSyndicate = дизейблер синдиката
+    .desc = Продвинутый дизейблер, собранный путём обратной разработки прототипа NanoTrasen. Уступает в останавливающей силе, но компенсирует это самозарядной батареей.
 
-ent-WeaponEnergyRifle = energy rifle
-    .desc = An energy rifle capable of firing various bolts depending on the powercell magazine.
+ent-WeaponEnergyRifle = энергетическая винтовка
+    .desc = Энергетическая винтовка, способная стрелять разными зарядами в зависимости от батареи-магазина.
 
 ent-WeaponEnergyGunLawbringer = Lawbringer
-    .desc = A versatile energy gun, with many different modes. The owner of this gun embodies the law itself.
+    .desc = Универсальное энергетическое оружие с множеством режимов. Владелец этого оружия – воплощение самого закона.
 
-ent-WeaponEnergyIonRifle = ion rifle
-    .desc = An energy rifle that shoots ionized energy bolts designed to destroy mechanical targets.
+ent-WeaponEnergyIonRifle = ионная винтовка
+    .desc = Энергетическая винтовка, стреляющая ионизированными зарядами для поражения механических целей.

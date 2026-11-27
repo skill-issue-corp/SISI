@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mousebites-effects-vexes = This vexes me...
-mousebites-effects-stupid = Did I try the stupid drug?
-mousebites-effects-metoo = I too am in this episode.
+mousebites-effects-vexes = Это меня бесит...
+mousebites-effects-stupid = Я попробовал лекарство от тупости?
+mousebites-effects-metoo = Я тоже в этой серии.

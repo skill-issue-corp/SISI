@@ -1,5 +1,5 @@
-ent-CloakingDevice = cloaking device
-    .desc = A device that allows Xenoborgs to go invisible.
+ent-CloakingDevice = маскировочное устройство
+    .desc = Устройство, позволяющее Ксеноборгам становиться невидимыми.
 
-ent-SuperCloakingDevice = super cloaking device
-    .desc = A device that allows Xenoborgs to go truly invisible.
+ent-SuperCloakingDevice = улучшенное маскировочное устройство
+    .desc = Устройство, позволяющее Ксеноборгам становиться совершенно невидимыми.

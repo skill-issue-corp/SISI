@@ -1,38 +1,38 @@
 ent-SheetMetalBase = { ent-BaseSheet }
-    .desc = A sheet of metal, used often on the station in various applications.
+    .desc = Лист металла. На станции его часто используют для самых разных целей.
 
-ent-SheetSteel = steel
+ent-SheetSteel = сталь
     .desc = { ent-SheetMetalBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
-ent-SheetSteel10 = steel
+ent-SheetSteel10 = сталь
     .desc = { ent-SheetSteel.desc }
     .suffix = 10
 
-ent-SheetSteel1 = steel
+ent-SheetSteel1 = сталь
     .desc = { ent-SheetSteel.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
-ent-SheetBrass = brass
-    .desc = A sheet of brass, primarily used by clockwork enthusiasts and the remnants of Ratvarian cults.
-    .suffix = Full
+ent-SheetBrass = латунь
+    .desc = Лист латуни. Им пользуются в основном любители заводных механизмов и остатки Ратварианских культов.
+    .suffix = Полностью заполнено
 
-ent-SheetBrass10 = brass
+ent-SheetBrass10 = латунь
     .desc = { ent-SheetBrass.desc }
     .suffix = 10
 
-ent-SheetBrass1 = brass
+ent-SheetBrass1 = латунь
     .desc = { ent-SheetBrass.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
-ent-SheetPlasteel = plasteel
+ent-SheetPlasteel = пласталь
     .desc = { ent-SheetMetalBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
-ent-SheetPlasteel10 = plasteel
+ent-SheetPlasteel10 = пласталь
     .desc = { ent-SheetPlasteel.desc }
     .suffix = 10
 
-ent-SheetPlasteel1 = plasteel
+ent-SheetPlasteel1 = пласталь
     .desc = { ent-SheetPlasteel.desc }
-    .suffix = Single
+    .suffix = Один предмет

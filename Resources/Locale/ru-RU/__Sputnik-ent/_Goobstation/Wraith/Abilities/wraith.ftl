@@ -1,8 +1,8 @@
-ent-WraithAbilities = Wraith Abilities
+ent-WraithAbilities = Способности Фантома
     .desc = { "" }
 
-ent-HarbingerAbilities = Harbinger Abilities
+ent-HarbingerAbilities = Способности Предвестника
     .desc = { ent-WraithAbilities.desc }
 
-ent-PlaguebringerAbilities = Plaguebringer Abilities
+ent-PlaguebringerAbilities = Способности Чумоносца
     .desc = { ent-WraithAbilities.desc }

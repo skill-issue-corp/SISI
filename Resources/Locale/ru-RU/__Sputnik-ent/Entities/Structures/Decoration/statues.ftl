@@ -1,10 +1,10 @@
-ent-StatueVenusRed = statue of a pure maiden
-    .desc = An ancient marble statue. The subject is depicted with a floor-length braid and is wielding a red toolbox.
-    .suffix = Red
+ent-StatueVenusRed = статуя непорочной девы
+    .desc = Древняя мраморная статуя. У девушки коса до пола, а в руке красный ящик для инструментов.
+    .suffix = Красный
 
-ent-StatueVenusBlue = statue of a pure maiden
-    .desc = An ancient marble statue. The subject is depicted with a floor-length braid and is wielding a blue toolbox.
-    .suffix = Blue
+ent-StatueVenusBlue = статуя непорочной девы
+    .desc = Древняя мраморная статуя. У девушки коса до пола, а в руке синий ящик для инструментов.
+    .suffix = Синий
 
-ent-StatueBananiumClown = bananium savior statue
-    .desc = A bananium statue. It portrays the return of the savior who will rise up and lead the clowns to the great honk.
+ent-StatueBananiumClown = бананиумовая статуя спасителя
+    .desc = Бананиумовая статуя. Она изображает возвращение спасителя, который восстанет и поведёт клоунов к великому хонку.

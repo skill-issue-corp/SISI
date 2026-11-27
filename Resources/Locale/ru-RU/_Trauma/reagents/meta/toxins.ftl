@@ -1,14 +1,14 @@
-reagent-name-johntonite = johntonite
-reagent-desc-johntonite = A highly toxic substance specific to individuals named John.
+reagent-name-johntonite = джонтонит
+reagent-desc-johntonite = Сильнодействующий яд, поражающий только тех, кого зовут Джон.
 
-reagent-name-glennium = glennium
-reagent-desc-glennium = A highly toxic substance specific to individuals named Glenn.
+reagent-name-glennium = гленниум
+reagent-desc-glennium = Сильнодействующий яд, поражающий только тех, кого зовут Гленн.
 
-reagent-name-nitric-acid = nitric acid
-reagent-desc-nitric-acid = A corrosive chemical used in the production of explosives.
+reagent-name-nitric-acid = азотная кислота
+reagent-desc-nitric-acid = Едкое вещество, используемое в производстве взрывчатки.
 
-reagent-name-tiring-solution = tiring solution
-reagent-desc-tiring-solution = An extremely weak stamina-toxin that tires out the target. Completely harmless.
+reagent-name-tiring-solution = утомляющий раствор
+reagent-desc-tiring-solution = Крайне слабый токсин, который истощает выносливость цели. Совершенно безвреден.
 
-reagent-name-batracho-toxin = batrachotoxin
-reagent-desc-batracho-toxin = A potent paralytic secreted by the skin of dart frogs. Causes progressive paralysis and organ failure in sufficient quantities.
+reagent-name-batracho-toxin = батрахотоксин
+reagent-desc-batracho-toxin = Мощное парализующее вещество, выделяемое кожей древолазов. В достаточном количестве вызывает прогрессирующий паралич и отказ органов.

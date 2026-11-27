@@ -1,11 +1,11 @@
-ent-MobDebugCounter = debug counter
-    .desc = He can count
-    .suffix = AI, DEBUG
+ent-MobDebugCounter = отладочный счётчик
+    .desc = Он умеет считать
+    .suffix = ИИ, DEBUG
 
-ent-MobDebugRandomCounter = debug random counter
-    .desc = He can randomize
-    .suffix = AI, DEBUG
+ent-MobDebugRandomCounter = отладочный случайный счётчик
+    .desc = Он умеет рандомить
+    .suffix = ИИ, DEBUG
 
-ent-MobDebugRandomLess = debug random less
-    .desc = He can lessing
-    .suffix = AI, DEBUG
+ent-MobDebugRandomLess = отладочный случайный уменьшитель
+    .desc = Он умеет меньшить
+    .suffix = ИИ, DEBUG

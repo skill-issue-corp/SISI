@@ -1,15 +1,15 @@
-ent-GeneticistIDCard = geneticist ID card
+ent-GeneticistIDCard = ID-карта генетика
     .desc = { ent-IDCardStandard.desc }
 
-ent-PhoneMerchantIDCard = phone merchant ID card
+ent-PhoneMerchantIDCard = ID-карта продавца телефонов
     .desc = { ent-IDCardStandard.desc }
 
-ent-DClassIDCard = d-class ID card
-    .desc = A Cheaply printed ID card for the lowest of low.
+ent-DClassIDCard = ID-карта класса d
+    .desc = Дёшево Отпечатанная ID-карта для тех, кто ниже некуда.
 
-ent-SpacePolIDCardChameleon = SpacePol ID card
+ent-SpacePolIDCardChameleon = ID-карта КосмоПола
     .desc = { ent-AgentIDCard.desc }
-    .suffix = Agent
+    .suffix = Агент
 
-ent-RancherIDCard = rancher ID card
+ent-RancherIDCard = ID-карта животновода
     .desc = { ent-IDCardStandard.desc }

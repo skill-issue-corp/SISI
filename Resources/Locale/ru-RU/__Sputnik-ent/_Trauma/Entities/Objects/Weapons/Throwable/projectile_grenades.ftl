@@ -1,6 +1,6 @@
-ent-GrenadeShrapnelRev = improvised shrapnel bomb
-    .desc = Releases a deadly spray of shrapnel that causes severe bleeding.
+ent-GrenadeShrapnelRev = самодельная осколочная бомба
+    .desc = Разбрасывает смертоносные осколки, вызывающие сильное кровотечение.
 
-ent-GrenadeShrapnelFoam = foam dart grenade
-    .desc = Releases a bothersome spray of foam darts that cause severe welching.
-    .suffix = Shrapnel
+ent-GrenadeShrapnelFoam = граната с поролоновыми дротиками
+    .desc = Выпускает целую россыпь назойливых поролоновых дротиков, оставляющих крупные волдыри.
+    .suffix = Осколки

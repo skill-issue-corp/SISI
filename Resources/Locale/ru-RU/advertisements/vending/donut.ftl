@@ -8,13 +8,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-donut-1 = Each of us is a little cop!
-advertisement-donut-2 = Hope you're hungry!
-advertisement-donut-3 = Over 1 million donuts sold!
-advertisement-donut-4 = We pride ourselves in the consistency of our products!
-advertisement-donut-5 = Sweet, sugary and delicious!
-advertisement-donut-6 = Donut worry, be happy!
-thankyou-donut-1 = Enjoy your donut!
-thankyou-donut-2 = Another donut sold!
-thankyou-donut-3 = Have a nice day, officer!
-thankyou-donut-4 = I hope you get addicted!
+advertisement-donut-1 = В каждом из нас живёт маленький коп!
+advertisement-donut-2 = Надеемся, вы проголодались!
+advertisement-donut-3 = Продано более 1 миллиона пончиков!
+advertisement-donut-4 = Мы гордимся неизменным качеством нашей продукции!
+advertisement-donut-5 = Сладкие, сахарные и вкусные!
+advertisement-donut-6 = Не парьтесь, уплетайте пончики!
+thankyou-donut-1 = Приятного аппетита!
+thankyou-donut-2 = Ещё один пончик продан!
+thankyou-donut-3 = Хорошего дня, офицер!
+thankyou-donut-4 = Надеюсь, вы подсядете!

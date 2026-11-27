@@ -1,5 +1,5 @@
-ent-BaseShield = base shield
-    .desc = A shield!
+ent-BaseShield = базовый щит
+    .desc = Щит!
 
 ent-BaseShieldDestructible = { "" }
     .desc = { "" }
@@ -13,41 +13,41 @@ ent-BaseLargeShield = { ent-BaseShield }
 ent-BaseRoundShield = { ent-BaseLargeShield }
     .desc = { ent-BaseLargeShield.desc }
 
-ent-BaseRepairableShield = base repairable shield
-    .desc = A repairable shield!
+ent-BaseRepairableShield = базовый ремонтопригодный щит
+    .desc = Щит, который можно починить!
 
-ent-RiotShield = riot shield
-    .desc = A large tower shield. Good for controlling crowds.
+ent-RiotShield = противоударный щит
+    .desc = Большой башенный щит. Удобен для сдерживания толпы.
 
-ent-RiotLaserShield = laser shield
-    .desc = A shield built for withstanding lasers, but not much else.
+ent-RiotLaserShield = противолазерный щит
+    .desc = Щит, рассчитанный на защиту от лазеров. От прочих угроз помогает слабо.
 
-ent-RiotBulletShield = ballistic shield
-    .desc = A shield built for protecting against ballistics, but not much else.
+ent-RiotBulletShield = баллистический щит
+    .desc = Щит, рассчитанный на защиту от пуль. От прочих угроз помогает слабо.
 
-ent-WoodenBuckler = wooden buckler
-    .desc = A small round wooden makeshift shield.
+ent-WoodenBuckler = деревянный баклер
+    .desc = Небольшой круглый самодельный щит из дерева.
 
-ent-CardShield = cardboard shield
-    .desc = A shield made of cardboard. Won't protect you from much.
+ent-CardShield = картонный щит
+    .desc = Щит из картона. Мало от чего защитит.
 
-ent-MakeshiftShield = makeshift shield
-    .desc = A rundown looking shield, not good for much.
+ent-MakeshiftShield = самодельный щит
+    .desc = Щит выглядит потрёпанным и мало на что годится.
 
-ent-WebShield = web shield
-    .desc = A stringy shield. It's weak, and doesn't seem to do well against heat.
+ent-WebShield = щит из паутины
+    .desc = Щит из нитей паутины. Непрочный, да и нагрев, похоже, переносит плохо.
 
-ent-ClockworkShield = clockwork shield
+ent-ClockworkShield = заводной щит
     .desc = Ratvar oyrffrf lbh jvgu uvf cebgrpgvba.
 
-ent-MirrorShield = mirror shield
-    .desc = Eerily glows red... you hear the geometer whispering
+ent-MirrorShield = зеркальный щит
+    .desc = Жутковато светится красным... вы слышите шёпот геометра
 
-ent-EnergyShield = energy shield
-    .desc = Exotic energy shield, when folded, can even fit in your pocket.
+ent-EnergyShield = энергетический щит
+    .desc = Необычный энергетический щит, который в сложенном виде поместится даже в кармане.
 
-ent-BrokenEnergyShield = broken energy shield
-    .desc = Something inside is burned out, it is no longer functional.
+ent-BrokenEnergyShield = сломанный энергетический щит
+    .desc = Внутри что-то перегорело, щит больше не работает.
 
-ent-TelescopicShield = telescopic shield
-    .desc = An advanced riot shield made of lightweight materials that collapses for easy storage.
+ent-TelescopicShield = телескопический щит
+    .desc = Усовершенствованный противоударный щит из лёгких материалов. Складывается для удобства хранения.

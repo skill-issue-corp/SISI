@@ -1,1 +1,1 @@
-jukebox-menu-volume = Volume
+jukebox-menu-volume = Громкость

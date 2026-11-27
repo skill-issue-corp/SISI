@@ -1,62 +1,62 @@
 ent-PaintingBase = { ent-BaseSign }
     .desc = { ent-BaseSign.desc }
 
-ent-PaintingEmpty = empty frame
-    .desc = An empty frame, waiting to be filled with art.
+ent-PaintingEmpty = пустая рама
+    .desc = Пустая рама ждёт произведения искусства.
 
-ent-PaintingMoony = Abstract No.1
-    .desc = An imposing abstract painting. It feels like it's pressuring you to do good.
+ent-PaintingMoony = Абстракция №1
+    .desc = Внушительная абстрактная картина. Кажется, она требует от вас творить добро.
 
-ent-PaintingPersistenceOfMemory = The Persistence of Memory
-    .desc = This painting depicts a barren landscape. It's filled with various surreal objects.
+ent-PaintingPersistenceOfMemory = Постоянство Памяти
+    .desc = На этой картине изображён бесплодный пейзаж. Он полон сюрреалистичных объектов.
 
-ent-PaintingTheSonOfMan = The Son of Man
-    .desc = This painting depicts a formal-looking man. His face is obscured by an apple.
+ent-PaintingTheSonOfMan = Сын Человеческий
+    .desc = На этой картине изображён представительный мужчина. Его лицо закрыто яблоком.
 
-ent-PaintingTheKiss = The Kiss
-    .desc = This painting depicts a couple in tender embrace. It's covered in glittery gold ornamentation.
+ent-PaintingTheKiss = Поцелуй
+    .desc = На этой картине изображена пара в нежных объятиях. Картина покрыта блестящим золотым орнаментом.
 
-ent-PaintingTheScream = The Scream
-    .desc = This painting depicts a distressed man standing on a bridge.
+ent-PaintingTheScream = Крик
+    .desc = На этой картине изображён встревоженный человек на мосту.
 
-ent-PaintingTheGreatWave = The Great Wave off Kanagawa
-    .desc = This painting depicts a majestic wave. It's throwing around several small fishing boats.
+ent-PaintingTheGreatWave = Большая Волна в Канагаве
+    .desc = На этой картине изображена величественная волна. Она швыряет несколько маленьких рыбацких лодок.
 
-ent-PaintingCafeTerraceAtNight = Cafe Terrace at Night
-    .desc = This painting depicts lively night scene at a cafe.
+ent-PaintingCafeTerraceAtNight = Ночная Терраса Кафе
+    .desc = На этой картине изображено оживлённое ночное кафе.
 
-ent-PaintingNightHawks = Nighthawks
-    .desc = This painting depicts a lonely-looking diner. The patrons are sitting glumly at the counter.
+ent-PaintingNightHawks = Полуночники
+    .desc = На этой картине изображена одинокая на вид закусочная. Посетители уныло сидят у стойки.
 
-ent-PaintingSkeletonCigarette = Skull of a Skeleton with Burning Cigarette
-    .desc = This painting depicts an impressionist portrait of a skeleton. A lit cigarette is wedged between its teeth.
+ent-PaintingSkeletonCigarette = Череп Скелета с Горящей Сигаретой
+    .desc = На этой картине изображён импрессионистский портрет скелета. В зубах зажата горящая сигарета.
 
-ent-PaintingSkeletonBoof = Skull of MLG Skeleton with Fat Boof
-    .desc = Painting goes hard. Feel free to screenshot.
+ent-PaintingSkeletonBoof = Череп МЛГ-Скелета с Толстым Косяком
+    .desc = Картина мощная. Смело скриньте.
 
-ent-PaintingPrayerHands = Study of the Hands of an Apostle
-    .desc = This painting depicts a pair of hands clasped in prayer.
+ent-PaintingPrayerHands = Этюд Рук Апостола
+    .desc = На этой картине изображена пара рук, сложенных в молитве.
 
-ent-PaintingOldGuitarist = The Old Guitarist
-    .desc = This painting depicts an old, thin man clutching a guitar. His face looks shallow and sickly.
+ent-PaintingOldGuitarist = Старый Гитарист
+    .desc = На этой картине изображён худой старик с гитарой в руках. Лицо осунувшееся и болезненное.
 
-ent-PaintingOlympia = Olympia
-    .desc = This painting depicts a nude woman lying on a bed. A servant is tending to her.
+ent-PaintingOlympia = Олимпия
+    .desc = На этой картине изображена обнажённая женщина на кровати. За ней ухаживает служанка.
 
-ent-PaintingSaturn = Saturn Devouring His Son
-    .desc = This painting depicts giant devouring a human corpse. He has a frightening look in his eyes.
+ent-PaintingSaturn = Сатурн, Пожирающий Своего Сына
+    .desc = На этой картине изображён великан, пожирающий человеческий труп. В его глазах ужасающий взгляд.
 
-ent-PaintingSleepingGypsy = The Sleeping Gypsy
-    .desc = This painting depicts a gypsy sleeping among their belongings in the desert. A lion stands behind them.
+ent-PaintingSleepingGypsy = Спящая Цыганка
+    .desc = На этой картине изображена цыганка, спящая среди своих вещей в пустыне. За ней стоит лев.
 
-ent-PaintingRedBlueYellow = Composition with Red Blue and Yellow
-    .desc = This painting is made up of several boxes. They are filled with flat shades of color.
+ent-PaintingRedBlueYellow = Композиция с Красным Синим и Жёлтым
+    .desc = Эта картина состоит из нескольких прямоугольников. Каждый залит ровным цветом.
 
-ent-PaintingAmogusTriptych = Amogus Triptych (Untitled.)
-    .desc = This painting is made up of 3 individual sections. Each depicts a religious figure.
+ent-PaintingAmogusTriptych = Триптих Амогус (Без Названия.)
+    .desc = Эта картина состоит из 3 отдельных частей. На каждой изображена религиозная фигура.
 
-ent-PaintingHelloWorld = Hello World
-    .desc = This painting is made up of lots of multicolored squares arranged in a peculiar pattern. Perhaps it means something?
+ent-PaintingHelloWorld = Привет Мир
+    .desc = Эта картина состоит из множества разноцветных квадратов, образующих необычный узор. Может быть, он что-то означает?
 
-ent-PaintingSadClown = Sad Clown
-    .desc = This painting is a sad clown! It sparks joy.
+ent-PaintingSadClown = Грустный Клоун
+    .desc = На этой картине грустный клоун! Она вызывает радость.

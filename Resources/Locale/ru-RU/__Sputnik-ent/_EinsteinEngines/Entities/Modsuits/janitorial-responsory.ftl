@@ -1,21 +1,21 @@
 ent-BaseModsuitPieceERTJanitor = { "" }
     .desc = { "" }
 
-ent-ClothingModsuitResponsoryJanitorial = Janitorial Responsory modsuit control unit
-    .desc = The main controller for a Janitorial Responsory modsuit.
+ent-ClothingModsuitResponsoryJanitorial = блок управления модсьюта «Уборщик ОБР»
+    .desc = Основной блок управления модсьютом «Уборщик ОБР».
 
-ent-ClothingModsuitGauntletsResponsoryJanitorial = Janitorial Responsory modsuit gauntlets
-    .desc = A pair of gauntlets made for the Janitorial Responsory modsuit.
+ent-ClothingModsuitGauntletsResponsoryJanitorial = перчатки модсьюта «Уборщик ОБР»
+    .desc = Пара перчаток для модсьюта «Уборщик ОБР».
 
-ent-ClothingModsuitHelmetResponsoryJanitorial = Janitorial Responsory modsuit helmet
-    .desc = A state-of-the-art helmet designed by NanoTrasen for the Janitorial Responsory modsuit. It includes a built-in HUD.
+ent-ClothingModsuitHelmetResponsoryJanitorial = шлем модсьюта «Уборщик ОБР»
+    .desc = Передовой шлем, разработанный NanoTrasen для модсьюта «Уборщик ОБР». Оснащён встроенным визором.
 
-ent-ClothingModsuitChestplateResponsoryJanitorial = Janitorial Responsory modsuit chestplate
-    .desc = A state of the art chestplate designed by NanoTrasen for the Janitorial Responsory modsuit. It incorporates powered servos to reduce the equipment load.
+ent-ClothingModsuitChestplateResponsoryJanitorial = нагрудник модсьюта «Уборщик ОБР»
+    .desc = Передовой нагрудник, разработанный NanoTrasen для модсьюта «Уборщик ОБР». Встроенные сервоприводы снижают нагрузку от снаряжения.
 
-ent-ClothingModsuitBootsResponsoryJanitorial = Janitorial Responsory modsuit boots
-    .desc = A state-of-the-art pair of magboots for the Janitorial Responsory modsuit. So long as the suit is powered, these will not slow the wearer down.
+ent-ClothingModsuitBootsResponsoryJanitorial = ботинки модсьюта «Уборщик ОБР»
+    .desc = Передовые магнитные ботинки для модсьюта «Уборщик ОБР». Пока на костюм подаётся питание, ботинки не замедляют владельца.
 
 ent-SuitStorageResponsoryJanitorial = { ent-SuitStorageBase }
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Janitorial Responsory Modsuit
+    .suffix = Модсьют «Уборщик ОБР»

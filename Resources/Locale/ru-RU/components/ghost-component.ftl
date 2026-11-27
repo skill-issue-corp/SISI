@@ -5,5 +5,5 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Examine text
-comp-ghost-examine-time-minutes = Died [color=yellow]{$minutes} minutes ago.[/color]
-comp-ghost-examine-time-seconds = Died [color=yellow]{$seconds} seconds ago.[/color]
+comp-ghost-examine-time-minutes = Смерть наступила [color=yellow]{$minutes} мин. назад.[/color]
+comp-ghost-examine-time-seconds = Смерть наступила [color=yellow]{$seconds} сек. назад.[/color]

@@ -1,18 +1,18 @@
-borg-module-fit = This module fits into {$types}.
+borg-module-fit = Поддерживаемые шасси: {$types}.
 
-borg-type-all = [color=white]any cyborg[/color]
-borg-type-salvage = [color= #d6b328]salvage cyborgs[/color]
-borg-type-engineer = [color= #ff9900]engineer cyborgs[/color]
-borg-type-generic = [color= #666680]generic cyborgs[/color]
-borg-type-janitor = [color= #a747c0]janitor cyborgs[/color]
-borg-type-medical = [color= #5995ba]medical cyborgs[/color]
-borg-type-service = [color= #508242]service cyborgs[/color]
+borg-type-all = [color=white]любой киборг[/color]
+borg-type-salvage = [color= #d6b328]киборги-утилизаторы[/color]
+borg-type-engineer = [color= #ff9900]инженерные киборги[/color]
+borg-type-generic = [color= #666680]универсальные киборги[/color]
+borg-type-janitor = [color= #a747c0]киборги-уборщики[/color]
+borg-type-medical = [color= #5995ba]медицинские киборги[/color]
+borg-type-service = [color= #508242]сервисные киборги[/color]
 
-borg-type-syndicate = [color= #962023]syndicate cyborgs[/color]
-borg-type-syndicate-assault = [color= #680a0d]syndicate assault cyborgs[/color]
+borg-type-syndicate = [color= #962023]киборги синдиката[/color]
+borg-type-syndicate-assault = [color= #680a0d]штурмовые киборги синдиката[/color]
 
-xenoborg-type-all = [color= #3d94ff]any xenoborg[/color]
-xenoborg-type-engi = [color= #edd45b]engi xenoborgs[/color]
-xenoborg-type-heavy = [color= #d62020]heavy xenoborgs[/color]
-xenoborg-type-scout = [color= #6a6b6f]scout xenoborgs[/color]
-xenoborg-type-stealth = [color= #ff00cc]stealth xenoborgs[/color]
+xenoborg-type-all = [color= #3d94ff]любой ксеноборг[/color]
+xenoborg-type-engi = [color= #edd45b]ксеноборги-инжи[/color]
+xenoborg-type-heavy = [color= #d62020]тяжёлые ксеноборги[/color]
+xenoborg-type-scout = [color= #6a6b6f]ксеноборги-разведчики[/color]
+xenoborg-type-stealth = [color= #ff00cc]скрытные ксеноборги[/color]

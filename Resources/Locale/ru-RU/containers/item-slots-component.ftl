@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-take-item-verb-text = Take {$subject}
-place-item-verb-text = Place {$subject}
+take-item-verb-text = Взять {$subject}
+place-item-verb-text = Положить {$subject}

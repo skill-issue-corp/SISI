@@ -1,2 +1,2 @@
-ent-EnchantingScrollEmpty = scroll
-    .desc = An empty scroll waiting to be filled with an enchantment.
+ent-EnchantingScrollEmpty = свиток
+    .desc = Пустой свиток, который ждёт, когда в него впишут чары.

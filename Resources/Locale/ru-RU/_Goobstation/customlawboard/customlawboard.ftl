@@ -1,6 +1,6 @@
-custom-lawboard-ui-title = freeform lawboard
+custom-lawboard-ui-title = настраиваемая плата законов
 
 custom-lawboard-up-arrow = ↑
 custom-lawboard-down-arrow = ↓
 
-custom-lawboard-updated = Lawboard updated
+custom-lawboard-updated = Законы на плате обновлены

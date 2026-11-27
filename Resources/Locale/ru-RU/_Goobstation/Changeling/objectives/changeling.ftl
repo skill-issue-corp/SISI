@@ -7,15 +7,29 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-absorb-title = Absorb {$count} humanoids.
-objective-condition-absorb-description = We must absorb {$count} humanoids. It is necessary for our survival and further evolution.
+objective-condition-absorb-title = Поглотить {$count} { $count ->
+    [one] гуманоида
+   *[other] гуманоидов
+}.
+objective-condition-absorb-description = Мы должны поглотить {$count} { $count ->
+    [one] гуманоида
+   *[other] гуманоидов
+}. Это необходимо для выживания и дальнейшей эволюции.
 
-objective-condition-absorb-other-title = Absorb {$count} other changeling(s).
-objective-condition-absorb-other-description = In order to attain true power, we must absorb changelings. {$count} will suffice.
+objective-condition-absorb-other-title = Поглотить других генокрадов в количестве {$count}.
+objective-condition-absorb-other-description = Чтобы обрести настоящую силу, мы должны поглотить других генокрадов. {$count} будет достаточно.
 
-objective-condition-stealdna-title = Extract {$count} compatible, unique genomes.
-objective-condition-stealdna-description = We must extract {$count} unique genomes.
+objective-condition-stealdna-title = Извлечь {$count} { $count ->
+    [one] совместимый уникальный геном
+    [few] совместимых уникальных генома
+   *[other] совместимых уникальных геномов
+}.
+objective-condition-stealdna-description = Мы должны извлечь {$count} { $count ->
+    [one] уникальный геном
+    [few] уникальных генома
+   *[other] уникальных геномов
+}.
 
-objective-condition-escape-identity-title = Escape on the evacuation shuttle alive and unrestrained while being {$targetName}, {CAPITALIZE($job)}.
+objective-condition-escape-identity-title = Улететь на эвакуационном шаттле живым и на свободе в облике {$targetName}, {CAPITALIZE($job)}.
 
-objective-condition-changelingsteal-description = Our worshippers want us to retrieve it. The reason doesn't concern us.
+objective-condition-changelingsteal-description = Наши почитатели хотят, чтобы мы добыли это. Причина нас не волнует.

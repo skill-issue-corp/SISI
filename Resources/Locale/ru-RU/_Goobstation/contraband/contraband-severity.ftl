@@ -1,1 +1,1 @@
-contraband-examine-text-Clown = [color=yellow]This item belongs to the clown, give it back before they get sad.[/color]
+contraband-examine-text-Clown = [color=yellow]Этот предмет принадлежит клоуну. Верните его, пока клоун не загрустил.[/color]

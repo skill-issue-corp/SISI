@@ -1,8 +1,8 @@
-ent-EnergyFoodSynthesizerMachineCircuitboard = energy food synthesizer machine board
-    .desc = A machine printed circuit board for a energy food synthesizer.
+ent-EnergyFoodSynthesizerMachineCircuitboard = машинная плата энергетического синтезатора пищи
+    .desc = Печатная плата для энергетического синтезатора пищи.
 
-ent-EnergyBoozeDispenserMachineCircuitboard = energy booze dispenser machine board
-    .desc = A machine printed circuit board for a energy food synthesizer.
+ent-EnergyBoozeDispenserMachineCircuitboard = машинная плата энергетического раздатчика выпивки
+    .desc = Печатная плата для энергетического синтезатора пищи.
 
-ent-EnergySodaDispenserMachineCircuitboard = energy soda dispenser machine board
-    .desc = A machine printed circuit board for a energy food synthesizer.
+ent-EnergySodaDispenserMachineCircuitboard = машинная плата энергетического раздатчика газировки
+    .desc = Печатная плата для энергетического синтезатора пищи.

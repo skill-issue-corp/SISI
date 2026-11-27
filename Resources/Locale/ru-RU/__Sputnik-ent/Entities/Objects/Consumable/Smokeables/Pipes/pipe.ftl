@@ -1,14 +1,14 @@
-ent-SmokingPipe = pipe
-    .desc = Just like grandpappy used to smoke.
+ent-SmokingPipe = труба
+    .desc = Точь-в-точь такие дедуля и курил.
 
-ent-SmokingPipeFilledTobacco = pipe
-    .desc = Just like grandpappy used to smoke.
-    .suffix = Tobacco
+ent-SmokingPipeFilledTobacco = труба
+    .desc = Точь-в-точь такие дедуля и курил.
+    .suffix = Табак
 
-ent-SmokingPipeFilledCannabis = pipe
-    .desc = Just like grandpappy used to smoke.
-    .suffix = Cannabis
+ent-SmokingPipeFilledCannabis = труба
+    .desc = Точь-в-точь такие дедуля и курил.
+    .suffix = Каннабис
 
-ent-SmokingPipeFilledCannabisRainbow = pipe
-    .desc = Just like grandpappy used to smoke.
-    .suffix = Rainbow Cannabis
+ent-SmokingPipeFilledCannabisRainbow = труба
+    .desc = Точь-в-точь такие дедуля и курил.
+    .suffix = Радужная Конопля

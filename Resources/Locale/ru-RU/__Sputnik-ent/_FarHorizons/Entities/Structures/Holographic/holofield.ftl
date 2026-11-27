@@ -1,30 +1,30 @@
 ent-GenericFieldGeneratorBase = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
 
-ent-HolographicFieldGenerator = holographic field generator
-    .desc = A machine that generates a holographic field when powered; Keeps the air where it belongs.
+ent-HolographicFieldGenerator = генератор голографического поля
+    .desc = Машина, которая создаёт голографическое поле при подаче питания. Не выпускает воздух наружу.
 
 ent-HolographicFieldGeneratorCharged = { ent-HolographicFieldGenerator }
     .desc = { ent-HolographicFieldGenerator.desc }
-    .suffix = Charged, Locked
+    .suffix = Заряжен, Заблокирован
 
 ent-HolographicFieldGeneratorEnabled = { ent-HolographicFieldGeneratorCharged }
     .desc = { ent-HolographicFieldGeneratorCharged.desc }
-    .suffix = Enabled, Locked
+    .suffix = Включён, Заблокирован
 
-ent-HolographicBarrierGenerator = holographic barrier generator
-    .desc = A machine that generates a holographic barrier when powered; Keeps the crew where they belong.
+ent-HolographicBarrierGenerator = генератор голографического барьера
+    .desc = Машина, которая создаёт голографический барьер при подаче питания. Не даёт экипажу покидать положенное место.
 
 ent-HolographicBarrierGeneratorCharged = { ent-HolographicBarrierGenerator }
     .desc = { ent-HolographicBarrierGenerator.desc }
-    .suffix = Charged, Locked
+    .suffix = Заряжен, Заблокирован
 
 ent-HolographicBarrierGeneratorEnabled = { ent-HolographicBarrierGeneratorCharged }
     .desc = { ent-HolographicBarrierGeneratorCharged.desc }
-    .suffix = Enabled, Locked
+    .suffix = Включён, Заблокирован
 
-ent-HolographicField = holographic field
-    .desc = A holographic field that blocks airflow.
+ent-HolographicField = голографическое поле
+    .desc = Голографическое поле, препятствующее движению воздуха.
 
-ent-HolographicFieldBarrier = holographic barrier
-    .desc = A holographic barrier that blocks projectiles and crew.
+ent-HolographicFieldBarrier = голографический барьер
+    .desc = Голографический барьер, преграждающий путь снарядам и экипажу.

@@ -1,41 +1,41 @@
-job-name-futureagent = Future Agent
-job-name-salvagediver = Salvage Diver
-job-name-ntr = Nanotrasen Representative
-job-name-tider = Tider
+job-name-futureagent = Агент Будущего
+job-name-salvagediver = Дайвер-Утилизатор
+job-name-ntr = Представитель NanoTrasen
+job-name-tider = Тайдер
 
-job-name-exec = Executive Access
+job-name-exec = Допуск Руководства
 
 # event-resctricted jobs
-job-name-security-clown = Security Clown
-job-name-command-maid = Command Maid
-job-name-party-maker = Party Maker
+job-name-security-clown = Клоун Службы Безопасности
+job-name-command-maid = Горничная Командования
+job-name-party-maker = Организатор Вечеринок
 
 # Syndicate
 
-job-name-highcommander = High Commander
+job-name-highcommander = Верховный Командующий
 
 # Half Life
 
-job-name-hecu = HECU Operative
-job-name-governmentman = The G-Man
+job-name-hecu = Оперативник HECU
+job-name-governmentman = Джи-Мэн
 
 # Misc
 
-job-name-conquest = Conquest
-job-name-mercenarycaptain = Mercenary Captain
-job-name-radiohost = Radio Host
-job-name-phonemerchant = Phone Merchant
+job-name-conquest = Конквест
+job-name-mercenarycaptain = Капитан Наёмников
+job-name-radiohost = Радиоведущий
+job-name-phonemerchant = Торговец Телефонами
 
 # Role timers - Make these alphabetical or I cut you (dont listen to upstream, i copied and pasted this, make it very un-alphabetical :godo:)
 
-JobCommandMaid = Command Maid
-JobNanotrasenRepresentative = Nanotrasen Representative
-JobHecuOperative = HECU Operative
-JobGovernmentMan = The G-Man
-JobConquest = Conquest
-JobMercenaryCaptain = Mercenary Captain
-JobPartyMaker = Party Maker
-JobRoboticist = Roboticist
-JobRadioHost = Radio Host
-JobSecurityClown = Security Clown
-JobVirologist = Virologist
+JobCommandMaid = Горничная Командования
+JobNanotrasenRepresentative = Представитель NanoTrasen
+JobHecuOperative = Оперативник HECU
+JobGovernmentMan = Джи-Мэн
+JobConquest = Конквест
+JobMercenaryCaptain = Капитан Наёмников
+JobPartyMaker = Организатор Вечеринок
+JobRoboticist = Робототехник
+JobRadioHost = Радиоведущий
+JobSecurityClown = Клоун Службы Безопасности
+JobVirologist = Вирусолог

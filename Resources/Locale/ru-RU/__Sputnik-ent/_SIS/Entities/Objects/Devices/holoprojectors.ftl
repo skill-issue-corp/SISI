@@ -1,2 +1,2 @@
-ent-HoloProjectorSecurityBorg = integrated holofan
-    .desc = Stops idiots from causing more crew harm during atmospheric emergencies. Installed directly into an engineering cyborg, it recharges over time.
+ent-HoloProjectorSecurityBorg = встроенный голобарьер
+    .desc = Не даёт идиотам ещё сильнее навредить экипажу при авариях с атмосферой. Встроен прямо в инженерного киборга и со временем заряжается.

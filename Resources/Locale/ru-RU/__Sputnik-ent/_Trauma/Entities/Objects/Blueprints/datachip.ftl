@@ -1,14 +1,14 @@
-ent-BaseBlueprintDatachip = data chip
-    .desc = A datachip, can be inserted into a microelectronics assembler to make new useful tech.
+ent-BaseBlueprintDatachip = чип данных
+    .desc = Чип данных можно вставить в сборщик микроэлектроники, чтобы изготовить новые полезные устройства.
 
-ent-DataChipAIBoard = data chip (AI Override Board)
+ent-DataChipAIBoard = чип данных (Плата Перехвата Управления ИИ)
     .desc = { ent-BaseBlueprintDatachip.desc }
 
-ent-DataChipReflectivePlate = data chip (Reflective Plate)
+ent-DataChipReflectivePlate = чип данных (Отражающая Пластина)
     .desc = { ent-BaseBlueprintDatachip.desc }
 
-ent-DataChipFakeMindshield = data chip (Fake Mindshield)
+ent-DataChipFakeMindshield = чип данных (Поддельный Щит Разума)
     .desc = { ent-BaseBlueprintDatachip.desc }
 
-ent-DataChipShieldRipper = data chip (Mindshield Ripper)
+ent-DataChipShieldRipper = чип данных (Разрушитель Щита Разума)
     .desc = { ent-BaseBlueprintDatachip.desc }

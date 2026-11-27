@@ -1,59 +1,59 @@
-ent-PosterLegitGoobWorkHard = Work Hard
-    .desc = If you work hard enough, YOU could earn your very own Nanotrasen Plunger Plus! Just be sure to survive long enough to redeem it!..
+ent-PosterLegitGoobWorkHard = Трудитесь Усердно
+    .desc = Если вы будете трудиться достаточно усердно, именно ВЫ сможете заработать собственный Вантуз Плюс от NanoTrasen! Только проживите достаточно долго, чтобы его получить!..
 
-ent-PosterLegitGoobMakeshift = Makeshift Clown Poster
-    .desc = A makeshift poster consisting of a crayon drawing upon a paper stuck to the wall with some horrible mix of glue and banana paste. Upon it is inscribed: 'Clowne was herE !!'.
+ent-PosterLegitGoobMakeshift = Самодельный Плакат с Клоуном
+    .desc = Самодельный плакат: рисунок мелком на бумаге, прилепленной к стене какой-то мерзкой смесью клея и банановой пасты. На нём написано: «Клоунн тут быЛ !!».
 
-ent-PosterLegitGoobCan = Fallen Can
-    .desc = A poster reminding you to clean up after yourself, nobody likes littering! Or, that's probably what it means. It's been here for so long, the original meaning may have faded…
+ent-PosterLegitGoobCan = Упавшая Банка
+    .desc = Плакат напоминает убирать за собой, ведь никто не любит мусор! Ну, скорее всего. Он висит здесь так давно, что изначальный смысл мог выцвести…
 
-ent-PosterLegitGoobFaded = Faded Poster
-    .desc = Was it wanted poster? A human bounty? It's not very clear. You can tell, however, that whoever the target was probably isn't loose anymore...
+ent-PosterLegitGoobFaded = Выцветший Плакат
+    .desc = Объявление о розыске? Награда за поимку человека? Не совсем понятно. Ясно одно: кого бы ни искали, он уже вряд ли на свободе...
 
-ent-PosterLegitGoobCandle = Magic Candle
-    .desc = The fire within you burns bright. Maintain it and thrive. Neglect it and wither.
+ent-PosterLegitGoobCandle = Волшебная Свеча
+    .desc = Огонь внутри вас горит ярко. Поддерживайте его и процветайте. Забросите его — угаснете.
 
-ent-PosterLegitGoobSuperMatter = Super-Matter
-    .desc = Nanotrasen's really getting creative with these motivational posters. Using the cause of death of thousands of people as a source of motivation? Brilliant. Now, if only it were actually effective...
+ent-PosterLegitGoobSuperMatter = Супер-Материя
+    .desc = NanoTrasen и правда творчески подходит к мотивационным плакатам. Вдохновлять людей тем, от чего погибли тысячи? Гениально. Вот если бы это ещё и работало...
 
-ent-PosterLegitGoobWatching = Always Watching
-    .desc = A good reminder that the Station AI is keeping everyone safe by eliminating all semblance of privacy! Aren't you glad it's probably staring at you right now?
+ent-PosterLegitGoobWatching = Всегда Наблюдает
+    .desc = Напоминание о том, что Станционный ИИ заботится о вашей безопасности, уничтожая всякое подобие личной жизни! Ну разве не здорово, что он наверняка пялится на вас прямо сейчас?
 
-ent-PosterLegitGoobSpaceAsshole = Space Asshole
-    .desc = A poster advertising the historical drama film about what is referred to these days as 'The Incident of 2125'. The poster's name reminds you of something.
+ent-PosterLegitGoobSpaceAsshole = Космический Мудак
+    .desc = Плакат исторической драмы о событии, которое сегодня называют «Инцидентом 2125 года». Название кажется вам знакомым.
 
-ent-PosterLegitGoobSmokeBreak = Smoke Break
-    .desc = A poster reminding you of the 'optimal' time for Nanotrasen-approved smoke breaks. They considered it long enough due to a security officer that alledgedly consumed about 500 cigarettes in 5 minutes. It has been shoddily edited to account for its recent increase by 10 minutes, as requested near-unanimously by the Station Captains who were polled. The color of the background is mildly irritating, but you're not too sure why.
+ent-PosterLegitGoobSmokeBreak = Перекур
+    .desc = Плакат напоминает об «оптимальной» продолжительности перекуров, одобренной NanoTrasen. Её сочли достаточной после того, как один офицер службы безопасности якобы выкурил около 500 сигарет за 5 минут. Плакат кое-как подправили после недавнего увеличения нормы на 10 минут по почти единодушному требованию опрошенных Капитанов Станций. Цвет фона немного раздражает, но вы не совсем понимаете почему.
 
-ent-PosterLegitGoobWallMeat = Wall Meat
-    .desc = The objectively best way to store food is to hide it in the walls where nobody can ever find it! So convenient! So useful! So discrete! So cool! Agreed-upon by vampires everywhere.
+ent-PosterLegitGoobWallMeat = Стенное Мясо
+    .desc = Объективно лучший способ хранить еду — спрятать её в стенах, где её никто никогда не найдёт! Так удобно! Так практично! Так незаметно! Так круто! Вампиры всего мира согласны.
 
-ent-PosterLegitGoobCoolS = Cool S
-    .desc = It seems some crewmember cut out part of a graffiti'd maintenance closet and stuck it onto this wall. And who can blame them? This thing is siiiick.
+ent-PosterLegitGoobCoolS = Крутая S
+    .desc = Похоже, кто-то из экипажа вырезал часть расписанного граффити шкафчика в техтоннелях и приделал её к этой стене. И кто его осудит? Выглядит охренееенно.
 
-ent-PosterLegitGoobBigBrotherAI = AI Sees All
-    .desc = A poster that reminds you that your secrets are not hidden from your Station AI
+ent-PosterLegitGoobBigBrotherAI = ИИ Видит Всё
+    .desc = Плакат напоминает, что у вас нет секретов от Станционного ИИ
 
-ent-PosterLegitGoobDurkPlush = Durk Plushie Advertisement
-    .desc = A poster depicting some sort of plush character being delivered soon to a station near you
+ent-PosterLegitGoobDurkPlush = Реклама Плюшевого Дурка
+    .desc = На плакате какой-то плюшевый персонаж, которого скоро завезут на станцию неподалёку
 
-ent-PosterLegitGoobWelderBomb = Dangers of Fuel Tanks
-    .desc = A poster depicting a leaking fuel tank... something inside you wonders what would happen if you put a welding torch near it
+ent-PosterLegitGoobWelderBomb = Опасности Топливных Баков
+    .desc = На плакате протекающий топливный бак... вам невольно становится интересно, что случится, если поднести к нему сварочный аппарат
 
-ent-PosterLegitGoobLokoAdvertisement = 14 Loko Advertisement
-    .desc = A poster advertising a 14 Loko beverage... you feel suddenly thirsty looking at it
+ent-PosterLegitGoobLokoAdvertisement = Реклама 14 Loko
+    .desc = Плакат рекламирует напиток 14 Loko... при одном взгляде на него внезапно хочется пить
 
-ent-PosterLegitGoobLouieVote = Political Advertisement
-    .desc = A poster for a political advertisement to promote a rat called Louie's campaign... You feel like you should vote for him
+ent-PosterLegitGoobLouieVote = Предвыборная Реклама
+    .desc = Предвыборный плакат в поддержку крысы по имени Луи... Вам кажется, что стоит проголосовать за него
 
-ent-PosterLegitGoobSlowDownClown = Slow Down, Clown!
-    .desc = A poster telling you to slown down around Clowns
+ent-PosterLegitGoobSlowDownClown = Притормози, Клоун!
+    .desc = Плакат призывает сбавлять скорость рядом с Клоунами
 
-ent-PosterLegitGoobNTRAdvert = NTRep Recruitment
-    .desc = A poster advertising for open Nanotrasen Representative positions, maybe you should apply
+ent-PosterLegitGoobNTRAdvert = Набор Представителей NT
+    .desc = Плакат объявляет о вакансиях Представителей NanoTrasen, может, вам стоит подать заявку
 
-ent-PosterContrabandGoobChuckler = The Chuckler
-    .desc = A poster depicting a clearly suffering clown. You can feel the sadness and anger behind the facade of a smile
+ent-PosterContrabandGoobChuckler = Хохотун
+    .desc = На плакате явно страдающий клоун. За маской улыбки чувствуются печаль и злость
 
-ent-PosterContrabandGoobYakub = Yakub Poster
-    .desc = Your yakubian powers of tricknology imbued into you by Yakub strengthen as you stare into the poster
+ent-PosterContrabandGoobYakub = Плакат Якуба
+    .desc = Дарованные вам Якубом якубианские силы трюкологии крепнут, пока вы вглядываетесь в плакат

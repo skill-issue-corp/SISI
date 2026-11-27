@@ -7,103 +7,103 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-stasizium = Stasizium
-reagent-desc-stasizium = An unstable fluid of future capable of restoring the patient's body to its original state. However, an overdose can tear the body apart.
+reagent-name-stasizium = Стазизиум
+reagent-desc-stasizium = Нестабильная жидкость из будущего, способная вернуть тело пациента в исходное состояние. При передозировке может разорвать тело на части.
 
-reagent-name-panacea = Changeling Panacea
-reagent-desc-panacea = Tons of singlecell organisms focused soley on purging the changeling of toxic chemicals.
-reagent-popup-panacea = Our cells reconstruct.
+reagent-name-panacea = Панацея Генокрада
+reagent-desc-panacea = Множество одноклеточных организмов, занятых исключительно выведением токсинов из организма генокрада.
+reagent-popup-panacea = Наши клетки перестраиваются.
 
-reagent-name-lingdrenaline = Changeling Adrenaline
-reagent-desc-lingdrenaline = A reserve of potent adrenaline stored in a gland capable of immediately recovering a changeling from any fatigue.
-reagent-popup-lingdrenaline = Our entire body violently jitters and shakes.
+reagent-name-lingdrenaline = Адреналин Генокрада
+reagent-desc-lingdrenaline = Запас сильнодействующего адреналина в железе, способный мгновенно избавить генокрада от любой усталости.
+reagent-popup-lingdrenaline = Наше тело бьётся в сильной дрожи и судорогах.
 
-reagent-name-probital = probital
-reagent-desc-probital = Forces patient's body to spend its energy creating more healing compounds. Overdose exhausts body, forcing what effectively amounts to power naps.
+reagent-name-probital = пробитал
+reagent-desc-probital = Заставляет тело пациента расходовать силы на выработку дополнительных лечащих веществ. При передозировке организм истощается, и пациент ненадолго отключается.
 
-reagent-name-mitogen = mitogen
-reagent-desc-mitogen = Converts nutrients into mitotrophin for highly efficient healing. Can be accidentally overdosed on, resulting in vomiting.
+reagent-name-mitogen = митоген
+reagent-desc-mitogen = Превращает питательные вещества в митотрофин для эффективного лечения. Случайная передозировка вызывает рвоту.
 
-reagent-name-mitotrophin = mitotrophin
-reagent-desc-mitotrophin = Healing compound that's created from chemicals commonly found in food.
+reagent-name-mitotrophin = митотрофин
+reagent-desc-mitotrophin = Лечебное соединение, производимое из веществ, часто встречающихся в пище.
 
-reagent-name-tirimol = tirimol
-reagent-desc-tirimol = Strong depressant used in healing asphyxiation damage. Vastly decreases oxygen consumption at the cost of weakened muscles.
+reagent-name-tirimol = тиримол
+reagent-desc-tirimol = Сильный депрессант для лечения урона от удушья. Сильно снижает потребление кислорода ценой мышечной слабости.
 
-reagent-name-musiver = musiver
-reagent-desc-musiver = Slower acting anti-poison medicine with uniquely tiny molecular footprint.
+reagent-name-musiver = мусивер
+reagent-desc-musiver = Медленно действующее противоядие с необычайно маленькими молекулами.
 
-reagent-name-multiver = multiver
-reagent-desc-multiver = Drug purpose-built to cleanse dangerous chemical mixes. Can be used against simple poisonings, but it's recommended to mix it with other chemicals for higher efficiency.
+reagent-name-multiver = мультивер
+reagent-desc-multiver = Препарат для выведения опасных смесей химикатов. Помогает при простых отравлениях, но для большей эффективности его рекомендуется смешивать с другими препаратами.
 
-reagent-name-monover = monover
-reagent-desc-monover = Relatively low complexity anti-poison drug that stops working in impure environments. Its side effects can be potentially used to quickly verify whether bloodstream is clean of chemicals.
+reagent-name-monover = моновер
+reagent-desc-monover = Сравнительно простое противоядие, которое перестаёт работать при наличии примесей. Его побочные эффекты могут помочь быстро проверить, есть ли химикаты в крови.
 
-reagent-name-synthcells = synthcells
-reagent-desc-synthcells = Artificially produced "cells" that quickly destroy and replace any dysfunctional cells. Works both through external and internal application. Works on dead.
+reagent-name-synthcells = синтклетки
+reagent-desc-synthcells = Искусственные «клетки», которые быстро уничтожают и заменяют повреждённые клетки. Действуют и при наружном, и при внутреннем применении. Действуют на мёртвых.
 
-reagent-name-salicylic-acid = salicylic acid
-reagent-desc-salicylic-acid = Powerful healing agent, excelling at restoring most mangled of corpses. Difficult to overdose.
+reagent-name-salicylic-acid = салициловая кислота
+reagent-desc-salicylic-acid = Сильное лечебное средство. Особенно эффективно восстанавливает самые искалеченные трупы. Трудно вызвать передозировку.
 
-reagent-name-oxandrolone = oxandrolone
-reagent-desc-oxandrolone = Gelatinous chemical that heals burn damage faster the more burnt patient's body is. Difficult to overdose.
+reagent-name-oxandrolone = оксандролон
+reagent-desc-oxandrolone = Желеобразное вещество, которое лечит ожоги тем быстрее, чем сильнее обожжён пациент. Трудно вызвать передозировку.
 
-reagent-name-pentenic-acid = pentenic acid
-reagent-desc-pentenic-acid = Multipurpose drug, works against poisons and prevents radiation damage from all but strongest sources.
+reagent-name-pentenic-acid = пентеновая кислота
+reagent-desc-pentenic-acid = Многоцелевой препарат против отравлений и урона от радиации из всех источников, кроме самых мощных.
 
-reagent-name-atropine = atropine
-reagent-desc-atropine = Shuts down many body functions to safely heal any damage to patients in critical condition. Best used outside of combat situations due to severe mental impairment it causes.
+reagent-name-atropine = атропин
+reagent-desc-atropine = Отключает многие функции организма, чтобы безопасно лечить любые повреждения у пациентов в критическом состоянии. Серьёзно нарушает мышление, поэтому его лучше применять вне боя.
 
-reagent-name-calomel = calomel
-reagent-desc-calomel = Quickly binds with chemicals and removes them from bloodstream. Keeps patients in near-death state, and as such should only be used as a supplement.
+reagent-name-calomel = каломель
+reagent-desc-calomel = Быстро связывает химикаты и выводит их из крови. Удерживает пациента на грани смерти, поэтому применяется только как вспомогательное средство.
 
-reagent-name-ammoniated-mercury = ammoniated mercury
-reagent-desc-ammoniated-mercury = Difficult to use but potentially powerful drug with a niche specifically in fighting toxins. Flushes poisons, and will quickly heal any poison damage if patient is not damaged externally. Using it on injured patients is ill-advised, though the drug will retain its toxin-flushing capabilities.
+reagent-name-ammoniated-mercury = амидохлорид ртути
+reagent-desc-ammoniated-mercury = Сложный в применении, но потенциально эффективный препарат против токсинов. Выводит яды и быстро лечит урон от отравления, если у пациента нет внешних повреждений. Не рекомендуется применять на раненых, хотя яды он по-прежнему выводит.
 
-reagent-name-antihol = antihol
-reagent-desc-antihol = Quickly neutralises any ethanol in the solution, while healing most prolific drunkards.
+reagent-name-antihol = антихол
+reagent-desc-antihol = Быстро нейтрализует этанол в растворе и лечит даже самых заядлых пьяниц.
 
-reagent-name-ibuprofen = ibuprofen
-reagent-desc-ibuprofen = Weak drug that helps with headaches and returning to medical bay after a bad day.
+reagent-name-ibuprofen = ибупрофен
+reagent-desc-ibuprofen = Слабое средство от головной боли, помогает вернуться в медотсек после неудачного дня.
 
-reagent-name-silver-sulfadiazine = silver sulfadiazine
-reagent-desc-silver-sulfadiazine = Soothing liquid that can be applied externally to quickly treat mild burns. Toxic when in bloodstream. Works on dead.
+reagent-name-silver-sulfadiazine = сульфадиазин серебра
+reagent-desc-silver-sulfadiazine = Успокаивающая жидкость для наружного применения, быстро лечит лёгкие ожоги. Токсична при попадании в кровь. Действует на мёртвых.
 
-reagent-name-styptic-powder = styptic powder
-reagent-desc-styptic-powder = Vibrant powder that can be applied externally to quickly treat mild bruises. Toxic when in bloodstream. Works on dead.
+reagent-name-styptic-powder = кровоостанавливающий порошок
+reagent-desc-styptic-powder = Яркий порошок для наружного применения, быстро лечит лёгкие ушибы. Токсичен при попадании в кровь. Действует на мёртвых.
 
-reagent-name-tehifin = tehifin
-reagent-desc-tehifin = Low potency burn medicine of questionable safety.
+reagent-name-tehifin = техифин
+reagent-desc-tehifin = Слабое средство от ожогов с сомнительной безопасностью.
 
-reagent-name-procenyl-lazide = procenyl lazide
-reagent-desc-procenyl-lazide = A miracle drug against severe wounds with low overdose threshold, needs to be crystalized at low temperatures and separated out from its precursor solution. Recommended to be used orally, to minimize chance of overdose.
+reagent-name-procenyl-lazide = процениллазид
+reagent-desc-procenyl-lazide = Чудесное лекарство от тяжёлых ран с низким порогом передозировки. Его нужно кристаллизовать при низкой температуре и отделить от исходного раствора. Рекомендуется принимать внутрь, чтобы снизить риск передозировки.
 
-reagent-name-bozaide = bozaide
-reagent-desc-bozaide = Slow acting brute medicine, deals low amounts of radiation damage.
+reagent-name-bozaide = бозаид
+reagent-desc-bozaide = Медленно действующее средство от травм. Наносит небольшой урон радиацией.
 
-reagent-name-genecide = genecide
-reagent-desc-genecide = Blows genetic damage away, literally. Make sure to monitor patients taking it.
+reagent-name-genecide = геноцид
+reagent-desc-genecide = Устраняет генетический урон взрывом, буквально. Наблюдайте за пациентами, принимающими его.
 
-reagent-name-procenyl-lazide-sludge = procenyl lazide sludge
-reagent-desc-procenyl-lazide-sludge = Relatively easy to create solution, needs heating to bind properly in a notoriously inefficient reaction.
+reagent-name-procenyl-lazide-sludge = осадок процениллазида
+reagent-desc-procenyl-lazide-sludge = Относительно простой в изготовлении раствор. Для правильного связывания требуется нагрев, а реакция известна низкой эффективностью.
 
-reagent-name-styptic-crystal-catalyst = styptic crystal catalyst
-reagent-desc-styptic-crystal-catalyst = Staple of any school chemistry lab, this usually non-reactive liquid can mix with blood and sodium to produce beautiful crystals with healing potential.
+reagent-name-styptic-crystal-catalyst = катализатор кровоостанавливающих кристаллов
+reagent-desc-styptic-crystal-catalyst = Завсегдатай любой школьной химической лаборатории. Обычно инертная жидкость, которая в смеси с кровью и натрием образует красивые кристаллы с лечебным потенциалом.
 
-reagent-name-synthflesh = synthflesh
-reagent-desc-synthflesh = Whilst it's just seemingly uninteresting ground up synthmeat, cells with great healing potential can be separated from it. Synthmeat can be created from a somewhat complex reaction with hydroxide byproduct.
+reagent-name-synthflesh = синтплоть
+reagent-desc-synthflesh = На вид это обычное перемолотое синтмясо, но из него можно выделить клетки с большим лечебным потенциалом. Синтмясо можно получить в довольно сложной реакции, побочный продукт которой – гидроксид.
 
-reagent-name-hercuri = hercuri
-reagent-desc-hercuri = Strong coolant, both serviceable for internal and external application, though care must be taken not to freeze the patients too much.
+reagent-name-hercuri = херкури
+reagent-desc-hercuri = Сильный хладагент для внутреннего и наружного применения. Важно не переохладить пациента.
 
-reagent-name-herignis = herignis
-reagent-desc-herignis = Can thaw out most chilled of lizardmen, recommended to only use in small doses, as it can quickly heat up its metaboliser to dangerous levels.
+reagent-name-herignis = херигнис
+reagent-desc-herignis = Может отогреть даже сильнее всего замёрзшего унатха. Рекомендуются малые дозы, потому что вещество быстро поднимает температуру тела до опасного уровня.
 
-reagent-name-immurin = immurin
-reagent-desc-immurin = A chemical that boosts your immune system, making it work faster and harder. The boost remains for some time even after the chemical has metabolised. Tastes terrible.
+reagent-name-immurin = иммурин
+reagent-desc-immurin = Вещество, которое ускоряет и усиливает работу иммунной системы. Эффект сохраняется некоторое время после усвоения вещества. На вкус ужасно.
 
-reagent-name-spaceacilin = spaceacilin
-reagent-desc-spaceacilin = Commonly used and effective anti-bacterial medicine. Slightly weakens your immunity.
+reagent-name-spaceacilin = космоциллин
+reagent-desc-spaceacilin = Распространённое и эффективное антибактериальное средство. Слегка ослабляет иммунитет.
 
-reagent-name-devirate = devirate
-reagent-desc-devirate = Anti-viral medicine. Slightly toxic.
+reagent-name-devirate = девират
+reagent-desc-devirate = Противовирусное средство. Слегка токсично.

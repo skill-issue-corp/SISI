@@ -11,8 +11,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-devour-action-popup-message-structure = Your jaws dig into thick material..
-devour-action-popup-message-fail-target-not-valid = That doesn't look particularly edible.
-devour-action-popup-message-fail-target-alive = You can't consume creatures that are alive!
+devour-action-popup-message-structure = Ваши челюсти вгрызаются в плотный материал..
+devour-action-popup-message-fail-target-not-valid = На вид не особо съедобно.
+devour-action-popup-message-fail-target-alive = Живых существ нельзя поглотить!
 
-dragon-spawn-action-popup-message-fail-no-eggs = You don't have the stamina to do that!
+dragon-spawn-action-popup-message-fail-no-eggs = У вас не хватает выносливости!

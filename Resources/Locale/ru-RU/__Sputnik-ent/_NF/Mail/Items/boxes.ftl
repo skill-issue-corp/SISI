@@ -1,21 +1,21 @@
-ent-BoxSoapsAssorted = scented soap sampler pack
-    .desc = A box of various scented soaps. Ooh, lavender.
+ent-BoxSoapsAssorted = пробный набор ароматизированного мыла
+    .desc = Коробка мыла с разными ароматами. О-о, лаванда.
 
 ent-BoxSoapsAssortedOmega = { ent-BoxSoapsAssorted }
-    .desc = A box of various scented soaps. Ooh, bluespace.
+    .desc = Коробка мыла с разными ароматами. О-о, блюспейс.
 
-ent-BoxBuildABuddyHuman = Build-a-Buddy kit
-    .desc = "Henry the Human" Build-a-Buddy kit. Some assembly required.
-    .suffix = Human
+ent-BoxBuildABuddyHuman = набор «Собери-Друга»
+    .desc = «Человек Генри», набор «Собери-Друга». Потребуется сборка.
+    .suffix = Человек
 
 ent-BoxBuildABuddyReptilian = { ent-BoxBuildABuddyHuman }
-    .desc = "Randy the Reptilian" Build-a-Buddy kit. Some assembly required.
-    .suffix = Reptilian
+    .desc = «Унатх Рэнди», набор «Собери-Друга». Потребуется сборка.
+    .suffix = Унатх
 
 ent-BoxBuildABuddySlime = { ent-BoxBuildABuddyHuman }
-    .desc = "Steven the Slime" Build-a-Buddy kit. Some assembly required.
-    .suffix = Slime
+    .desc = «Слайм Стивен», набор «Собери-Друга». Потребуется сборка.
+    .suffix = Слайм
 
 ent-BoxBuildABuddyVox = { ent-BoxBuildABuddyHuman }
-    .desc = "Vitikiki the Vox" Build-a-Buddy kit. Some assembly required.
-    .suffix = Vox
+    .desc = «Вокс Витикики», набор «Собери-Друга». Потребуется сборка.
+    .suffix = Вокс

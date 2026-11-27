@@ -1,18 +1,18 @@
 ent-PlasticFlapsBase = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
 
-ent-PlasticFlapsClear = plastic flaps
-    .desc = Heavy duty, plastic flaps. Definitely can't get past those. No way.
-    .suffix = Clear
+ent-PlasticFlapsClear = пластиковые створки
+    .desc = Прочные пластиковые створки. Через них точно не пройти. Ни за что.
+    .suffix = Прозрачные
 
-ent-PlasticFlapsOpaque = plastic flaps
-    .desc = Heavy duty, plastic flaps. Definitely can't get past those. No way.
-    .suffix = Opaque
+ent-PlasticFlapsOpaque = пластиковые створки
+    .desc = Прочные пластиковые створки. Через них точно не пройти. Ни за что.
+    .suffix = Непрозрачные
 
-ent-PlasticFlapsAirtightClear = airtight plastic flaps
-    .desc = Heavy duty, slightly stronger, airtight plastic flaps. Definitely can't get past those. No way.
-    .suffix = Airtight, Clear
+ent-PlasticFlapsAirtightClear = герметичные пластиковые створки
+    .desc = Прочные, чуть более крепкие, герметичные пластиковые створки. Через них точно не пройти. Ни за что.
+    .suffix = Герметичные, Прозрачные
 
-ent-PlasticFlapsAirtightOpaque = airtight plastic flaps
-    .desc = Heavy duty, slightly stronger, airtight plastic flaps. Definitely can't get past those. No way.
-    .suffix = Airtight, Opaque
+ent-PlasticFlapsAirtightOpaque = герметичные пластиковые створки
+    .desc = Прочные, чуть более крепкие, герметичные пластиковые створки. Через них точно не пройти. Ни за что.
+    .suffix = Герметичные, Непрозрачные

@@ -1,54 +1,54 @@
-ent-GasCanister = gas canister
-    .desc = A canister that can contain any type of gas. It can be attached to connector ports using a wrench.
+ent-GasCanister = газовая канистра
+    .desc = Канистра, которая может содержать любой газ. Её можно подключить к порту гаечным ключом.
 
-ent-StorageCanister = storage canister
+ent-StorageCanister = канистра для хранения
     .desc = { ent-GasCanister.desc }
 
-ent-AirCanister = air canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain air mixture. It can be attached to connector ports using a wrench.
+ent-AirCanister = канистра воздуха
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения воздушной смеси. Её можно подключить к порту гаечным ключом.
 
-ent-OxygenCanister = oxygen canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain oxygen. It can be attached to connector ports using a wrench.
+ent-OxygenCanister = канистра кислорода
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения кислорода. Её можно подключить к порту гаечным ключом.
 
-ent-LiquidOxygenCanister = liquid oxygen canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain liquid oxygen. It can be attached to connector ports using a wrench.
+ent-LiquidOxygenCanister = канистра жидкого кислорода
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения жидкого кислорода. Её можно подключить к порту гаечным ключом.
 
-ent-NitrogenCanister = nitrogen canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain nitrogen. It can be attached to connector ports using a wrench.
+ent-NitrogenCanister = канистра азота
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения азота. Её можно подключить к порту гаечным ключом.
 
-ent-LiquidNitrogenCanister = liquid nitrogen canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain liquid nitrogen. It can be attached to connector ports using a wrench.
+ent-LiquidNitrogenCanister = канистра жидкого азота
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения жидкого азота. Её можно подключить к порту гаечным ключом.
 
-ent-CarbonDioxideCanister = carbon dioxide canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain carbon dioxide. It can be attached to connector ports using a wrench.
+ent-CarbonDioxideCanister = канистра углекислого газа
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения углекислого газа. Её можно подключить к порту гаечным ключом.
 
-ent-LiquidCarbonDioxideCanister = liquid carbon dioxide canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain liquid carbon dioxide. It can be attached to connector ports using a wrench.
+ent-LiquidCarbonDioxideCanister = канистра жидкого углекислого газа
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения жидкого углекислого газа. Её можно подключить к порту гаечным ключом.
 
-ent-PlasmaCanister = plasma canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain plasma. It can be attached to connector ports using a wrench.
+ent-PlasmaCanister = канистра плазмы
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения плазмы. Её можно подключить к порту гаечным ключом.
 
-ent-TritiumCanister = tritium canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain tritium. It can be attached to connector ports using a wrench.
+ent-TritiumCanister = канистра трития
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения трития. Её можно подключить к порту гаечным ключом.
 
-ent-WaterVaporCanister = water vapor canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain water vapor. It can be attached to connector ports using a wrench.
+ent-WaterVaporCanister = канистра водяного пара
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения водяного пара. Её можно подключить к порту гаечным ключом.
 
-ent-AmmoniaCanister = ammonia canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain ammonia. It can be attached to connector ports using a wrench.
+ent-AmmoniaCanister = канистра аммиака
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения аммиака. Её можно подключить к порту гаечным ключом.
 
-ent-NitrousOxideCanister = nitrous oxide canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain nitrous oxide. It can be attached to connector ports using a wrench.
+ent-NitrousOxideCanister = канистра оксида азота
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения оксида азота. Её можно подключить к порту гаечным ключом.
 
-ent-FrezonCanister = frezon canister
-    .desc = A canister that can contain any type of gas. This one is supposed to contain frezon. It can be attached to connector ports using a wrench.
+ent-FrezonCanister = канистра фрезона
+    .desc = Канистра, которая может содержать любой газ. Эта предназначена для хранения фрезона. Её можно подключить к порту гаечным ключом.
 
-ent-MaxCapCanister = max cap in a can
+ent-MaxCapCanister = макскап в канистре
     .desc = { ent-GasCanister.desc }
-    .suffix = Max Cap
+    .suffix = Макс Кап
 
-ent-GasCanisterBrokenBase = broken gas canister
-    .desc = A broken gas canister. Not useless yet, as it can be salvaged for high quality materials.
+ent-GasCanisterBrokenBase = сломанная газовая канистра
+    .desc = Сломанная газовая канистра. Ещё пригодится: из неё можно извлечь качественные материалы.
 
 ent-StorageCanisterBroken = { ent-GasCanisterBrokenBase }
     .desc = { ent-GasCanisterBrokenBase.desc }
@@ -71,7 +71,7 @@ ent-PlasmaCanisterBroken = { ent-GasCanisterBrokenBase }
 ent-TritiumCanisterBroken = { ent-GasCanisterBrokenBase }
     .desc = { ent-GasCanisterBrokenBase.desc }
 
-ent-WaterVaporCanisterBroken = broken water vapor canister
+ent-WaterVaporCanisterBroken = сломанная канистра водяного пара
     .desc = { ent-GasCanisterBrokenBase.desc }
 
 ent-AmmoniaCanisterBroken = { ent-GasCanisterBrokenBase }

@@ -1,2 +1,2 @@
-ent-ClothingBackpackSatchelCentcomm = centcomm satchel
-    .desc = An expensive dark green satchel. Smells like fax machines.
+ent-ClothingBackpackSatchelCentcomm = сумка цк
+    .desc = Дорогая тёмно-зелёная сумка. Пахнет факсами.

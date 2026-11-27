@@ -1,10 +1,10 @@
-shuttle-console-maximum-iff-distance = Maximum IFF Distance
+shuttle-console-maximum-iff-distance = Максимальная Дальность Опознавания
 
-shuttle-console-iff-search = Search IFF
-shuttle-console-inertia-dampener-off = Cruise
-shuttle-console-inertia-dampener-dampen = Drive
-shuttle-console-inertia-dampener-anchor = Park
+shuttle-console-iff-search = Поиск по Системе Опознавания
+shuttle-console-inertia-dampener-off = Дрейф
+shuttle-console-inertia-dampener-dampen = Ход
+shuttle-console-inertia-dampener-anchor = Стоянка
 
-shuttle-console-iffshuttles-toggle = Show shuttles
+shuttle-console-iffshuttles-toggle = Показать шаттлы
 
-shuttle-console-network-ports = Network Ports
+shuttle-console-network-ports = Сетевые Порты

@@ -1,26 +1,26 @@
 ent-BaseFoodPlate = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-FoodPlate = large plate
-    .desc = A large plate, excellent for bread.
+ent-FoodPlate = большая тарелка
+    .desc = Большая тарелка, отлично подходит для хлеба.
 
-ent-FoodPlateTrash = broken plate
-    .desc = A broken plate. Useless.
+ent-FoodPlateTrash = разбитая тарелка
+    .desc = Разбитая тарелка. Бесполезна.
 
-ent-FoodPlateSmall = small plate
-    .desc = A small plate. Delicate.
+ent-FoodPlateSmall = маленькая тарелка
+    .desc = Маленькая тарелка. Хрупкая.
 
 ent-FoodPlateSmallTrash = { ent-FoodPlateTrash }
     .desc = { ent-FoodPlateTrash.desc }
 
-ent-FoodPlatePlastic = large plastic plate
-    .desc = A large blue plastic plate, excellent for a birthday cake.
+ent-FoodPlatePlastic = большая пластиковая тарелка
+    .desc = Большая синяя пластиковая тарелка, отлично подходит для праздничного торта.
 
-ent-FoodPlateSmallPlastic = small plastic plate
-    .desc = A blue plastic plate, excellent for slices of birthday cake.
+ent-FoodPlateSmallPlastic = маленькая пластиковая тарелка
+    .desc = Синяя пластиковая тарелка, отлично подходит для кусков праздничного торта.
 
-ent-FoodPlateTin = pie tin
-    .desc = A cheap foil tin for pies.
+ent-FoodPlateTin = форма для пирога
+    .desc = Дешёвая форма из фольги для пирогов.
 
-ent-FoodPlateMuffinTin = muffin tin
-    .desc = A cheap foil tin for muffins.
+ent-FoodPlateMuffinTin = форма для маффина
+    .desc = Дешёвая форма из фольги для маффинов.

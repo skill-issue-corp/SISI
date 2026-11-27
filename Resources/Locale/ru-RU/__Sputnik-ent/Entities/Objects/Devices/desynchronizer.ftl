@@ -1,2 +1,2 @@
-ent-DeviceDesynchronizer = desynchronizer
-    .desc = An experimental device that can temporarily desynchronize the user from spacetime, effectively making them disappear while it's active.
+ent-DeviceDesynchronizer = десинхронизатор
+    .desc = Экспериментальное устройство, временно выводящее пользователя из синхронизации с пространством-временем. Пока устройство активно, пользователь фактически исчезает.

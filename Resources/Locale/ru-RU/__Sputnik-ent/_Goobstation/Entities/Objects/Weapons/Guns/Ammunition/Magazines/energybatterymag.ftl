@@ -1,14 +1,14 @@
 ent-EnergyRifleMagBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-EnergyMagRifleLethal = energy rifle magazine (lethal)
-    .desc = Powercell with an attached power converter that create lethal bolt at the end of energy rifle.
+ent-EnergyMagRifleLethal = магазин энергетической винтовки (летальный)
+    .desc = Батарея с преобразователем энергии, создающим летальный заряд у дула энергетической винтовки.
 
-ent-EnergyMagRifleDisabler = energy rifle magazine (disabler)
-    .desc = Powercell with an attached power converter that create disabler bolt at the end of energy rifle.
+ent-EnergyMagRifleDisabler = магазин энергетической винтовки (оглушающий)
+    .desc = Батарея с преобразователем энергии, создающим оглушающий заряд у дула энергетической винтовки.
 
-ent-EnergyMagRifleIon = energy rifle magazine (Ion)
-    .desc = Powercell with an attached power converter that create Ionize bolt at the end of energy rifle, extremely energy intensive.
+ent-EnergyMagRifleIon = магазин энергетической винтовки (Ионный)
+    .desc = Батарея с преобразователем энергии, создающим Ионный заряд у дула энергетической винтовки. Требует чрезвычайно много энергии.
 
-ent-EnergyMagRifleOverchargeLethal = energy rifle magazine (overcharge)
-    .desc = The power converter on this magazine has been modified to shot even more powerfull bolt in exchanged of more power consumption.
+ent-EnergyMagRifleOverchargeLethal = магазин энергетической винтовки (перезаряд)
+    .desc = Преобразователь в этом магазине модифицировали, чтобы он выдавал ещё более мощный заряд ценой повышенного расхода энергии.

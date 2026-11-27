@@ -1,20 +1,20 @@
 ent-BaseBed = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
 
-ent-Bed = bed
-    .desc = This is used to lie in, sleep in or strap on. Resting here provides extremely slow healing.
+ent-Bed = кровать
+    .desc = В ней можно лежать, спать или пристегнуться. Отдых на ней крайне медленно восстанавливает здоровье.
 
-ent-MedicalBed = medical bed
-    .desc = A hospital bed for patients to recover in. Resting here provides fairly slow healing.
+ent-MedicalBed = медицинская кровать
+    .desc = Больничная кровать для выздоравливающих пациентов. Отдых на ней довольно медленно восстанавливает здоровье.
 
-ent-DogBed = dog bed
-    .desc = A comfy-looking dog bed. You can even strap your pet in, in case the gravity turns off.
+ent-DogBed = собачья лежанка
+    .desc = Уютная на вид собачья лежанка. Можно даже пристегнуть питомца на случай отключения гравитации.
 
-ent-Mattress = mattress
-    .desc = Better sleep in that then on the floor i guess.
+ent-Mattress = матрас
+    .desc = Наверное, спать на нём лучше, чем на полу.
 
-ent-WebBed = web bed
-    .desc = You got webbed.
+ent-WebBed = кровать из паутины
+    .desc = Вас запутали.
 
-ent-PsychBed = psychologist bed
-    .desc = An upholstered bed for the psychological care of patients.
+ent-PsychBed = кушетка психолога
+    .desc = Мягкая кушетка для оказания психологической помощи пациентам.

@@ -1,2 +1,2 @@
-ent-CargoTelepad = cargo telepad
-    .desc = Beam in the pizzas and dig in.
+ent-CargoTelepad = телепад карго
+    .desc = Телепортируйте пиццу и налетайте.

@@ -1,11 +1,11 @@
-ent-WeaponLaserCellSMG = energy SMG
-    .desc = A laser SMG, compatible with specialized SMG power cells.
+ent-WeaponLaserCellSMG = энергетический ПП
+    .desc = Лазерный ПП, совместимый со специальными батареями для ПП.
 
-ent-WeaponLaserCellSniper = energy sniper
-    .desc = A laser sniper rifle, very heavy and slow to fire but excellent for holding a position.
+ent-WeaponLaserCellSniper = энергетическая снайперская винтовка
+    .desc = Лазерная снайперская винтовка. Очень тяжёлая и медленно стреляет, зато отлично подходит для удержания позиции.
 
-ent-WeaponLaserCellRevolver = energy revolver
-    .desc = A laser revolver, compatible with specialized revolver power cells.
+ent-WeaponLaserCellRevolver = энергетический револьвер
+    .desc = Лазерный револьвер, совместимый со специальными револьверными батареями.
 
-ent-WeaponLaserLMG = energy LMG
-    .desc = A high-tech laser LMG, that draws power from specialized backpack.
+ent-WeaponLaserLMG = энергетический РУЧНОЙ ПУЛЕМЁТ
+    .desc = Высокотехнологичный лазерный РУЧНОЙ ПУЛЕМЁТ с питанием от специального рюкзака.

@@ -1,23 +1,23 @@
-entity-effect-popup-crucified = {CAPITALIZE($entity)} has been crucified!
-entity-effect-popup-mothmaggot-matured = {CAPITALIZE(THE($entity))} rapidly shifts and changes!
-entity-effect-popup-mothmaggot-maturing = You will mature into a mothroach in {$delay} seconds...
-entity-effect-popup-make-felinid = {CAPITALIZE($entity)} turned into a disgusting felinid!
-entity-effect-popup-revert-felinid = {CAPITALIZE($entity)} turned back to normal...
-entity-effect-popup-heart-stops = Your heart stops beating!
-entity-effect-popup-convoke-void = {$entity} is dragged into the void, leaving a hole in {POSS-ADJ($entity)} place!
+entity-effect-popup-crucified = {CAPITALIZE($entity)} распят!
+entity-effect-popup-mothmaggot-matured = {CAPITALIZE($entity)} быстро меняет облик!
+entity-effect-popup-mothmaggot-maturing = Через {$delay} сек. вы повзрослеете и станете таракамолью...
+entity-effect-popup-make-felinid = {CAPITALIZE($entity)} превращается в отвратительного фелинида!
+entity-effect-popup-revert-felinid = {CAPITALIZE($entity)} возвращается к нормальному облику...
+entity-effect-popup-heart-stops = Ваше сердце перестаёт биться!
+entity-effect-popup-convoke-void = {$entity} затягивает в пустоту. На {POSS-ADJ($entity)} месте остаётся дыра!
 
 entity-condition-popup-not-vox-raider = {$self ->
-    [true] You aren't
-    *[false] {$target} isn't
-} a vox!
+    [true] Вы не
+    *[false] {$target} не
+} вокс!
 
-entity-effect-popup-blood-swells = Your blood swells...
-entity-effect-popup-blood-stops-swelling = Your blood stops swelling.
+entity-effect-popup-blood-swells = Ваша кровь набухает...
+entity-effect-popup-blood-stops-swelling = Ваша кровь перестаёт набухать.
 
-entity-effect-popup-vampire-light-1 = The sunlight burns you!
-entity-effect-popup-vampire-light-2 = You should go away from space...
-entity-effect-popup-vampire-light-3 = You look pale!
+entity-effect-popup-vampire-light-1 = Солнечный свет обжигает вас!
+entity-effect-popup-vampire-light-2 = Вам стоит уйти из открытого космоса...
+entity-effect-popup-vampire-light-3 = Вы бледнеете!
 
-entity-effect-popup-pressurized-slime-death = The blob ruptures, spraying the area with liquid!
+entity-effect-popup-pressurized-slime-death = Блоб лопается, разбрызгивая вокруг жидкость!
 
-entity-effect-popup-blood-cult-summon-dagger = {CAPITALIZE($entity)}'s hand glows red for a moment.
+entity-effect-popup-blood-cult-summon-dagger = Рука {CAPITALIZE($entity)} на мгновение вспыхивает красным.

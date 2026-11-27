@@ -1,80 +1,80 @@
-ent-ClothingBackpackDuffelSurgeryFilled = surgical duffel bag
-    .desc = A large duffel bag for holding extra medical supplies - this one seems to be designed for holding surgical tools.
+ent-ClothingBackpackDuffelSurgeryFilled = хирургический вещмешок
+    .desc = Большой вещмешок для запасных медикаментов - этот, похоже, предназначен для хирургических инструментов.
 
-ent-ClothingBackpackDuffelSyndicateFilledMedical = syndicate surgical duffel bag
-    .desc = A large duffel bag containing a full suite of surgical tools.
+ent-ClothingBackpackDuffelSyndicateFilledMedical = хирургический вещмешок синдиката
+    .desc = Большой вещмешок с полным набором хирургических инструментов.
 
-ent-ClothingBackpackDuffelSyndicateFilledMedicine = syndicate medicine duffel bag
-    .desc = A large duffel bag containing essential medicinal reagents.
+ent-ClothingBackpackDuffelSyndicateFilledMedicine = медицинский вещмешок синдиката
+    .desc = Большой вещмешок с необходимыми лекарственными реагентами.
 
-ent-ClothingBackpackDuffelSyndicateFilledShotgun = Bulldog bundle
-    .desc = Lean and mean: Contains the popular Bulldog Shotgun, a 12g slug drum, and four 12g buckshot drums.
+ent-ClothingBackpackDuffelSyndicateFilledShotgun = комплект Bulldog
+    .desc = Ничего лишнего: содержит популярный Дробовик Bulldog, один барабан с пулями 12g и четыре барабана с картечью 12g.
 
-ent-ClothingBackpackDuffelSyndicateFilledSMG = C-20r bundle
-    .desc = Old faithful: The classic C-20r Submachine Gun, bundled with three magazines.
+ent-ClothingBackpackDuffelSyndicateFilledSMG = комплект C-20r
+    .desc = Старый надёжный друг: классический Пистолет-Пулемёт C-20r в комплекте с тремя магазинами.
 
-ent-ClothingBackpackDuffelSyndicateFilledRifle = Estoc bundle
-    .desc = For medium-range sharpshooting, the Estoc. Bundled with three magazines.
+ent-ClothingBackpackDuffelSyndicateFilledRifle = комплект Estoc
+    .desc = Estoc для меткой стрельбы на средней дистанции. В комплекте три магазина.
 
-ent-ClothingBackpackDuffelSyndicateFilledRevolver = Python bundle
-    .desc = Go loud and proud with a fully loaded Magnum Python, bundled with two speed loaders.
+ent-ClothingBackpackDuffelSyndicateFilledRevolver = комплект Python
+    .desc = Заявите о себе во весь голос с полностью заряженным Магнумом Python и двумя спидлоадерами в комплекте.
 
-ent-ClothingBackpackDuffelSyndicateFilledLMG = L6 Saw bundle
-    .desc = More dakka: The iconic L6 lightmachinegun, bundled with 2 box magazines.
+ent-ClothingBackpackDuffelSyndicateFilledLMG = комплект L6 Saw
+    .desc = Больше дакки: легендарный ручной пулемёт L6 в комплекте с 2 коробчатыми магазинами.
 
-ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = China Lake bundle
-    .desc = An old China Lake grenade launcher bundled with 11 rounds of various destruction capability.
+ent-ClothingBackpackDuffelSyndicateFilledGrenadeLauncher = комплект China Lake
+    .desc = Старый гранатомёт China Lake в комплекте с 13 выстрелами разной разрушительной силы.
 
-ent-ClothingBackpackDuffelSyndicateAmmoFilled = ammo bundle
-    .desc = Reloading! Contains 4 magazines for the C-20r, 5 drums for the Bulldog, 3 magazines for the Estoc DMR, 2 ammo boxes for the L6 SAW, and 3 mags for the Burner.
+ent-ClothingBackpackDuffelSyndicateAmmoFilled = комплект боеприпасов
+    .desc = Перезаряжаюсь! Содержит 4 магазина для C-20r, 5 барабанов для Bulldog, 3 магазина для винтовки Estoc, 2 патронных короба для L6 SAW и 3 магазина для Burner.
 
 ent-ClothingBackpackDuffelSyndicateCostumeClown = { ent-ClothingBackpackDuffelClown }
     .desc = { ent-ClothingBackpackDuffelClown.desc }
-    .suffix = syndicate
+    .suffix = синдикат
 
-ent-ClothingBackpackDuffelSyndicateCarpSuit = carp suit duffel bag
-    .desc = Contains a carp suit and some friends to play with.
+ent-ClothingBackpackDuffelSyndicateCarpSuit = вещмешок с костюмом карпа
+    .desc = Содержит костюм карпа и несколько друзей для игр.
 
-ent-ClothingBackpackDuffelSyndicatePyjamaBundle = syndicate pyjama duffel bag
-    .desc = Contains 3 pairs of syndicate pyjamas and 4 plushies for the ultimate sleepover.
+ent-ClothingBackpackDuffelSyndicatePyjamaBundle = вещмешок с пижамами синдиката
+    .desc = Содержит 3 пижамы синдиката и 4 плюшевые игрушки для лучшей ночёвки в вашей жизни.
 
-ent-ClothingBackpackDuffelSyndicateC4tBundle = syndicate C-4 bundle
-    .desc = Contains a lot of C-4 charges.
+ent-ClothingBackpackDuffelSyndicateC4tBundle = комплект C-4 синдиката
+    .desc = Содержит много зарядов C-4.
 
 ent-ClothingBackpackChameleonFill = { ent-ClothingBackpackChameleon }
     .desc = { ent-ClothingBackpackChameleon.desc }
-    .suffix = Fill, Chameleon
+    .suffix = Заполнен, Хамелеон
 
 ent-ClothingBackpackChameleonFillAgent = { ent-ClothingBackpackChameleon }
     .desc = { ent-ClothingBackpackChameleon.desc }
-    .suffix = Fill, Chameleon, Syndie
+    .suffix = Заполнен, Хамелеон, Синди
 
-ent-ClothingBackpackDuffelSyndicateEVABundle = syndicate EVA bundle
-    .desc = Contains the Syndicate approved EVA suit.
+ent-ClothingBackpackDuffelSyndicateEVABundle = комплект EVA синдиката
+    .desc = Содержит одобренный Синдикатом костюм EVA.
 
-ent-ClothingBackpackDuffelSyndicateHardsuitBundle = syndicate hardsuit bundle
-    .desc = Contains the Syndicate's signature blood red hardsuit.
+ent-ClothingBackpackDuffelSyndicateHardsuitBundle = комплект скафандра синдиката
+    .desc = Содержит фирменный кроваво-красный скафандр Синдиката.
 
-ent-ClothingBackpackDuffelSyndicateEliteHardsuitBundle = syndicate elite hardsuit bundle
-    .desc = Contains the Syndicate's elite hardsuit, which comes with some more stuff in it.
+ent-ClothingBackpackDuffelSyndicateEliteHardsuitBundle = комплект элитного скафандра синдиката
+    .desc = Содержит элитный скафандр Синдиката и ещё кое-что внутри.
 
-ent-ClothingBackpackDuffelSyndicateHardsuitExtrasBundle = syndicate voidsuit extras bundle
-    .desc = Contains stuff that you will absolutely want to have when purchasing a voidsuit.
+ent-ClothingBackpackDuffelSyndicateHardsuitExtrasBundle = комплект дополнений к пустотному костюму синдиката
+    .desc = Содержит всё, чем вам обязательно захочется обзавестись, покупая пустотный костюм.
 
-ent-ClothingBackpackDuffelZombieBundle = syndicate zombie bundle
-    .desc = An all-in-one kit for unleashing the undead upon a station.
+ent-ClothingBackpackDuffelZombieBundle = комплект зомби синдиката
+    .desc = Всё необходимое, чтобы выпустить нежить на станции.
 
-ent-ClothingBackpackDuffelSyndicateMedicalBundleFilled = medical bundle
-    .desc = All you need to get your comrades back in the fight.
+ent-ClothingBackpackDuffelSyndicateMedicalBundleFilled = медицинский комплект
+    .desc = Всё, что нужно, чтобы вернуть товарищей в строй.
 
-ent-ClothingBackpackDuffelSyndicateDecoyKitFilled = decoy bundle
-    .desc = Contains distractions, both auditory and visual. Smell coming soon.
+ent-ClothingBackpackDuffelSyndicateDecoyKitFilled = комплект приманок
+    .desc = Содержит средства отвлечения, и звуковые, и визуальные. Скоро добавим и запах.
 
-ent-ClothingBackpackDuffelAcolyteBundle = acolyte armor bundle
-    .desc = Contains the Acolyte Armor, the must have of any cult leader.
+ent-ClothingBackpackDuffelAcolyteBundle = комплект брони аколита
+    .desc = Содержит Броню Аколита - незаменимую вещь для любого главы культа.
 
-ent-ClothingBackpackDuffelSyndicateFilledStarterKit = basic operative bundle
-    .desc = Contains a weapon, medical supplies, breaching tools, spare ammo, and some simple utilities.
+ent-ClothingBackpackDuffelSyndicateFilledStarterKit = базовый комплект оперативника
+    .desc = Содержит оружие, медикаменты, инструменты для взлома, запасные боеприпасы и простое снаряжение.
 
-ent-ClothingBackpackDuffelSyndicateFilledHushpup = Hushpup bundle
-    .desc = Contains the Hushpup, bundled with a box of buckshot. Quarter included.
+ent-ClothingBackpackDuffelSyndicateFilledHushpup = комплект «Тихоня»
+    .desc = Содержит «Тихоню» и коробку картечи. Монета в двадцать пять центов прилагается.

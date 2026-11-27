@@ -1,38 +1,38 @@
-ent-ExGrenade = explosive grenade
-    .desc = Grenade that creates a small but devastating explosion.
+ent-ExGrenade = фугасная граната
+    .desc = Граната, создающая небольшой, но разрушительный взрыв.
 
-ent-GrenadeFlashBang = flashbang
-    .desc = Eeeeeeeeeeeeeeeeeeeeee.
+ent-GrenadeFlashBang = светошумовая граната
+    .desc = Иииииииииииииииииииии.
 
 ent-GrenadeFlashEffect = { "" }
     .desc = { "" }
 
-ent-SyndieMiniBomb = syndicate minibomb
-    .desc = A syndicate-manufactured explosive used to stow destruction and cause chaos.
+ent-SyndieMiniBomb = минибомба синдиката
+    .desc = Бомба производства синдиката, чтобы сеять разрушения и устраивать хаос.
 
-ent-SelfDestructSeq = self destruct
-    .desc = Go out on your own terms!
+ent-SelfDestructSeq = самоуничтожение
+    .desc = Уйдите на своих условиях!
 
-ent-SupermatterGrenade = supermatter grenade
-    .desc = Grenade that simulates delamination of the supermatter engine, pulling things in a heap and exploding after some time.
+ent-SupermatterGrenade = суперматериальная граната
+    .desc = Граната, имитирующая деламинацию двигателя на суперматерии. Стягивает всё в кучу, а спустя некоторое время взрывается.
 
-ent-WhiteholeGrenade = whitehole grenade
-    .desc = Grenade that repulses everything around for some time.
+ent-WhiteholeGrenade = граната белой дыры
+    .desc = Граната, которая некоторое время отталкивает всё вокруг.
 
-ent-NuclearGrenade = the nuclear option
-    .desc = Please don't throw it, think of the children.
+ent-NuclearGrenade = ядерный вариант
+    .desc = Пожалуйста, не бросайте её, подумайте о детях.
 
-ent-ModularGrenade = modular grenade
-    .desc = A grenade casing. Requires a trigger and a payload.
+ent-ModularGrenade = модульная граната
+    .desc = Корпус гранаты. Нужны спусковой механизм и заряд.
 
-ent-EmpGrenade = EMP grenade
-    .desc = A grenade designed to wreak havoc on electronic systems.
+ent-EmpGrenade = ЭМИ-граната
+    .desc = Граната, предназначенная для вывода электронных систем из строя.
 
-ent-HolyHandGrenade = holy hand grenade
-    .desc = O Lord, bless this thy hand grenade, that with it thou mayst blow thine enemies to tiny bits, in thy mercy.
+ent-HolyHandGrenade = святая ручная граната
+    .desc = О Господи, благослови сию ручную гранату твою, дабы ею ты мог в милости своей разнести врагов твоих на мелкие кусочки.
 
-ent-GrenadeDummy = trick grenade
-    .desc = All the grenade without any of the boom.
+ent-GrenadeDummy = граната-обманка
+    .desc = Всё как у настоящей гранаты, только без бабаха.
 
-ent-SyndieTrickyBomb = syndicate trickybomb
-    .desc = A syndicate-manufactured explosive used to make an excellent distraction.
+ent-SyndieTrickyBomb = бомба-обманка синдиката
+    .desc = Бомба производства синдиката. Отлично отвлекает внимание.

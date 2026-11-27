@@ -1,8 +1,8 @@
-ent-SwordCosmicCult = entropic blade
-    .desc = An eerie greatsword wrought of indescribable material, forcibly extruded down into reality. Your instincts tell you that it does not belong here.
+ent-SwordCosmicCult = энтропийный клинок
+    .desc = Жуткий двуручный меч из неописуемого материала, силой вытесненный в реальность. Чутьё подсказывает вам, что ему здесь не место.
 
-ent-SpearCosmicCult = vacuous lance
-    .desc = An unnerving spear, wrought of indescribable material. Being near it feels like a prickle of static spreading through your nerves.
+ent-SpearCosmicCult = пустотная пика
+    .desc = Пугающее копьё из неописуемого материала. Рядом с ним по нервам будто пробегает колючая статика.
 
-ent-ScytheCosmicCult = astral razor
-    .desc = An preternatural scythe, wrought of indescribable material. Even just looking at it makes you feel cold.
+ent-ScytheCosmicCult = астральная бритва
+    .desc = Противоестественная коса из неописуемого материала. От одного взгляда на неё становится холодно.

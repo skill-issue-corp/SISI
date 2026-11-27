@@ -1,73 +1,73 @@
-ent-SeatBase = chair
-    .desc = You sit in this. Either by will or force.
+ent-SeatBase = стул
+    .desc = На этом сидят. По своей воле или силой.
 
-ent-UnanchoredChairBase = chair
+ent-UnanchoredChairBase = стул
     .desc = { ent-SeatBase.desc }
 
-ent-ChairBase = chair
+ent-ChairBase = стул
     .desc = { ent-UnanchoredChairBase.desc }
 
-ent-OfficeChairBase = chair
+ent-OfficeChairBase = стул
     .desc = { ent-UnanchoredChairBase.desc }
 
-ent-StoolBase = stool
+ent-StoolBase = табурет
     .desc = { ent-OfficeChairBase.desc }
 
-ent-Chair = chair
+ent-Chair = стул
     .desc = { ent-ChairBase.desc }
 
-ent-ChairGreyscale = chair
+ent-ChairGreyscale = стул
     .desc = { ent-Chair.desc }
-    .suffix = White
+    .suffix = Белый
 
-ent-Stool = stool
-    .desc = Apply butt.
+ent-Stool = табурет
+    .desc = Приложите задницу.
 
-ent-StoolBar = bar stool
+ent-StoolBar = барный стул
     .desc = { ent-StoolBase.desc }
 
-ent-ChairBrass = brass chair
+ent-ChairBrass = латунный стул
     .desc = { ent-StoolBase.desc }
 
-ent-ChairOfficeLight = white office chair
+ent-ChairOfficeLight = белый офисный стул
     .desc = { ent-RollingOfficeChairBase.desc }
 
-ent-ChairOfficeDark = dark office chair
+ent-ChairOfficeDark = тёмный офисный стул
     .desc = { ent-ChairOfficeLight.desc }
 
-ent-ComfyChair = comfy chair
-    .desc = It looks comfy.
+ent-ComfyChair = удобное кресло
+    .desc = Выглядит уютно.
 
-ent-ChairPilotSeat = pilot seat
-    .desc = The pilot seat of a prestigious ship.
+ent-ChairPilotSeat = кресло пилота
+    .desc = Кресло пилота престижного корабля.
 
-ent-ChairWood = wooden chair
+ent-ChairWood = деревянный стул
     .desc = { ent-UnanchoredChairBase.desc }
 
-ent-ChairRitual = ritual chair
-    .desc = Looks uncomfortable.
+ent-ChairRitual = ритуальный стул
+    .desc = Выглядит неудобно.
 
-ent-ChairMeat = meat chair
-    .desc = Uncomfortably sweaty.
+ent-ChairMeat = мясной стул
+    .desc = Неприятно потный.
 
-ent-ChairCursed = cursed chair
-    .desc = It's staring back.
+ent-ChairCursed = проклятый стул
+    .desc = Он глядит в ответ.
 
-ent-ChairWeb = web chair
-    .desc = For true web developers.
+ent-ChairWeb = стул из паутины
+    .desc = Для настоящих веб-разработчиков.
 
-ent-ChairFolding = folding chair
-    .desc = If you carry six of these you become the coolest kid at church.
+ent-ChairFolding = складной стул
+    .desc = Если у вас на руках шесть таких, вы самый крутой в церкви.
 
 ent-ChairFoldingSpawnFolded = { ent-ChairFolding }
     .desc = { ent-ChairFolding.desc }
-    .suffix = folded
+    .suffix = сложено
 
-ent-SteelBench = steel bench
-    .desc = A long chair made for a metro. Really standard design.
+ent-SteelBench = стальная скамья
+    .desc = Длинное сиденье для метро. Самый обычный дизайн.
 
-ent-CardStool = cardboard stool
-    .desc = Make sure you sit *really* gently.
+ent-CardStool = картонный табурет
+    .desc = Садитесь *очень* осторожно.
 
-ent-WoodenBench = wooden bench
-    .desc = Did you get a splinter? Well, at least it’s eco friendly.
+ent-WoodenBench = деревянная скамья
+    .desc = Занозили палец? Зато экологично.

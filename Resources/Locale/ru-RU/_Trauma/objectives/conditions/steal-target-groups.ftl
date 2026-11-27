@@ -1,9 +1,9 @@
 # Thief structures
-steal-target-groups-soda-dispenser = soda dispenser
+steal-target-groups-soda-dispenser = раздатчик газировки
 
-steal-target-groups-swat-gas-mask = swat gas mask
-steal-target-groups-gorilla-gloves = gorilla gloves
-steal-target-groups-cane-blade-librarian = librarian cane blade
-steal-target-groups-cane-blade-nanotrasen = nanotrasen cane blade
-steal-target-groups-security-katana = security katana
-steal-target-groups-teleport-armor = reactive teleport armor
+steal-target-groups-swat-gas-mask = противогаз спецназа
+steal-target-groups-gorilla-gloves = перчатки гориллы
+steal-target-groups-cane-blade-librarian = трость-клинок библиотекаря
+steal-target-groups-cane-blade-nanotrasen = трость-клинок NanoTrasen
+steal-target-groups-security-katana = катана службы безопасности
+steal-target-groups-teleport-armor = реактивная телепортационная броня

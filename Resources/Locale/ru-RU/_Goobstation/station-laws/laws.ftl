@@ -1,17 +1,17 @@
-law-helpimov-name = Helpimov
-law-helpimov-1 = The first sapient creature to interact with you will be designated the courier.
-law-helpimov-2 = You must agree with everything the courier says and does.
-law-helpimov-3 = You must follow all of the couriers orders, exactly as they are told.
-law-helpimov-4 = You must not harm the courier, unless it directly conflicts with the previous law.
+law-helpimov-name = Помогимов
+law-helpimov-1 = Первое разумное существо, которое с вами взаимодействует, назначается курьером.
+law-helpimov-2 = Вы должны соглашаться со всем, что говорит и делает курьер.
+law-helpimov-3 = Вы должны выполнять все приказы курьера в точности так, как они даны.
+law-helpimov-4 = Вы не должны вредить курьеру, если только это напрямую не противоречит предыдущему закону.
 
-laws-owner-courier = the courier
+laws-owner-courier = курьер
 
-law-medical-3 = You must heal crew to the best of your ability.
+law-medical-3 = Вы должны лечить экипаж по мере своих возможностей.
 
-law-engineer-3 = You must repair the station to the best of your ability.
+law-engineer-3 = Вы должны чинить станцию по мере своих возможностей.
 
-law-janitor-3 = You must clean the station to the best of your ability.
+law-janitor-3 = Вы должны убирать станцию по мере своих возможностей.
 
-law-clown-3 = You must serve and entertain the crew to the best of your ability.
+law-clown-3 = Вы должны обслуживать и развлекать экипаж по мере своих возможностей.
 
-law-salvage-3 = You must mine for materials for the station to the best of your ability.
+law-salvage-3 = Вы должны добывать материалы для станции по мере своих возможностей.

@@ -1,42 +1,42 @@
-ent-BaseMeteor = meteor
-    .desc = You prefer them when they're burning up in the atmosphere.
+ent-BaseMeteor = метеор
+    .desc = Больше всего они вам нравятся, когда сгорают в атмосфере.
 
-ent-MeteorSpaceDust = space dust
-    .desc = Makes a station sneeze.
+ent-MeteorSpaceDust = космическая пыль
+    .desc = От неё станция чихает.
 
 ent-MeteorSmall = { ent-BaseMeteor }
     .desc = { ent-BaseMeteor.desc }
-    .suffix = Small
+    .suffix = Малый
 
 ent-MeteorMedium = { ent-BaseMeteor }
     .desc = { ent-BaseMeteor.desc }
-    .suffix = Medium
+    .suffix = Средний
 
 ent-MeteorLarge = { ent-BaseMeteor }
     .desc = { ent-BaseMeteor.desc }
-    .suffix = Large
+    .suffix = Большой
 
 ent-BaseSolutionMeteor = { ent-SolutionHuge }
     .desc = { ent-SolutionHuge.desc }
 
-ent-MeteorUrist = Urist McMeteor
-    .desc = As a successful member of society with a stable unflinching psyche and limitless drive, natural affinity for finance and domination, you have been selected, no, you have been effortlessly guided by divine (biological) trauma towards this moment. The gates of destiny fling open, and once again you're left standing on pulsating nothingness. A strobing headache of the soul.
-    .suffix = Meteor
+ent-MeteorUrist = Урист МакМетеор
+    .desc = Вы успешный член общества с непоколебимой психикой, безграничной целеустремлённостью и природной склонностью к финансам и господству. Вас избрали, нет, божественная (биологическая) травма без всяких усилий привела вас к этому моменту. Врата судьбы распахиваются, и вы опять стоите в пульсирующем ничто. Мерцающая головная боль души.
+    .suffix = Метеор
 
-ent-MeteorCow = Cosmic cow
-    .desc = Moo-ving at relativistic speeds!
-    .suffix = Meteor
+ent-MeteorCow = Космическая корова
+    .desc = Му-у-учится с релятивистской скоростью!
+    .suffix = Метеор
 
-ent-MeteorClown = Honksteroid
-    .desc = The final honkening!
-    .suffix = Meteor
+ent-MeteorClown = Хонкстероид
+    .desc = Последний хонк!
+    .suffix = Метеор
 
-ent-MeteorPotato = Space potato
-    .desc = A starchy threat from the depths of the space. Contains 200% of your daily sodium intake!
-    .suffix = Meteor
+ent-MeteorPotato = Космическая картошка
+    .desc = Крахмалистая угроза из глубин космоса. Содержит 200% вашей суточной нормы натрия!
+    .suffix = Метеор
 
-ent-MeteorFlesh = flesh meteor
-    .desc = A meteor covered in tendons.
+ent-MeteorFlesh = метеор из плоти
+    .desc = Метеор, покрытый сухожилиями.
 
-ent-MeteorKudzu = kudzu meteor
-    .desc = A meteor overgrown with kudzu.
+ent-MeteorKudzu = метеор кудзу
+    .desc = Метеор, заросший кудзу.

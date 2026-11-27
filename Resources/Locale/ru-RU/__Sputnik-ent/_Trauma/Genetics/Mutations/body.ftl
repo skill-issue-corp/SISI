@@ -1,83 +1,83 @@
-ent-MutationEpilepsy = Epilepsy
-    .desc = A genetic defect that sporadically causes seizures.
+ent-MutationEpilepsy = Эпилепсия
+    .desc = Генетический дефект, время от времени вызывающий судороги.
 
-ent-MutationCough = Cough
-    .desc = A chronic cough.
+ent-MutationCough = Кашлянуть
+    .desc = Хронический кашель.
 
-ent-MutationParanoia = Paranoia
-    .desc = Subject is easily terrified, and may suffer from hallucinations.
+ent-MutationParanoia = Паранойя
+    .desc = Испытуемого легко напугать. Возможны галлюцинации.
 
-ent-MutationDwarfism = Dwarfism
-    .desc = A mutation believed to be the cause of dwarfism.
+ent-MutationDwarfism = Карликовость
+    .desc = Считается, что эта мутация вызывает карликовость.
 
-ent-MutationAcromegaly = Acromegaly
-    .desc = A mutation believed to be the cause of acromegaly, or 'being unusually tall'.
+ent-MutationAcromegaly = Акромегалия
+    .desc = Считается, что эта мутация вызывает акромегалию, или «необычно высокий рост».
 
-ent-MutationGigantism = Gigantism
-    .desc = The cells within the subject spread out to cover more area, making the subject appear larger.
+ent-MutationGigantism = Гигантизм
+    .desc = Клетки испытуемого распределяются по большей площади, из-за чего он выглядит крупнее.
 
-ent-MutationClumsiness = Clumsiness
-    .desc = A genome that inhibits certain brain functions, causing the holder to appear clumsy. Honk!
+ent-MutationClumsiness = Неуклюжесть
+    .desc = Геном подавляет некоторые функции мозга, из-за чего носитель становится неуклюжим. Хонк!
 
-ent-MutationTourettes = Tourette's Syndrome
-    .desc = A chronic twitch that forces the user to scream bad words.
+ent-MutationTourettes = Синдром Туретта
+    .desc = Хронический тик, вынуждающий носителя выкрикивать ругательства.
 
-ent-MutationDeafness = Deafness
-    .desc = The holder of this genome is completely deaf.
+ent-MutationDeafness = Глухота
+    .desc = Носитель этого генома полностью глух.
 
-ent-MutationMonkified = Monkified
-    .desc = A strange genome, believed to be what differentiates monkeys from humans.
+ent-MutationMonkified = Обезьянья Форма
+    .desc = Странный геном, который, как считается, отличает обезьян от людей.
 
 ent-BaseLightMutation = { ent-BaseMutation }
     .desc = { ent-BaseMutation.desc }
 
-ent-MutationGlowy = Glowy
-    .desc = You permanently emit a light with a random color and intensity.
+ent-MutationGlowy = Свечение
+    .desc = Вы постоянно излучаете свет случайного цвета и яркости.
 
-ent-MutationAntiGlow = Anti-Glow
-    .desc = Your skin seems to attract and absorb nearby light creating 'darkness' around you.
+ent-MutationAntiGlow = Антисвечение
+    .desc = Похоже, ваша кожа притягивает и поглощает окружающий свет, создавая вокруг вас «темноту».
 
-ent-MutationStrength = Strength
-    .desc = The user's muscles slightly expand. Commonly seen in top-ranking boxers.
+ent-MutationStrength = Сила
+    .desc = Мышцы носителя немного увеличиваются. Часто встречается у лучших боксёров.
 
-ent-MutationStimmed = Stimmed
-    .desc = The user's chemical balance is more robust. This mutation is known to speed up metabolism of chemicals.
+ent-MutationStimmed = Стимуляция
+    .desc = Химический баланс носителя становится устойчивее. Известно, что эта мутация ускоряет метаболизм веществ.
 
-ent-MutationInsulated = Insulated
-    .desc = The affected person does not conduct electricity.
+ent-MutationInsulated = Изоляция
+    .desc = Тело носителя не проводит электричество.
 
-ent-MutationFierySweat = Fiery Sweat
-    .desc = The user's skin will randomly combust, but is generally a lot more resilient to burning.
+ent-MutationFierySweat = Огненный Пот
+    .desc = Кожа носителя самопроизвольно воспламеняется, но в целом гораздо лучше переносит ожоги.
 
-ent-MutationSpatialInstability = Spatial Instability
-    .desc = The victim of the mutation has a very weak link to spatial reality, and may be displaced. Often causes extreme nausea.
+ent-MutationSpatialInstability = Пространственная Нестабильность
+    .desc = Связь жертвы мутации с пространственной реальностью очень слаба, из-за чего она может перемещаться в пространстве. Часто вызывает сильную тошноту.
 
-ent-MutationAcidicFlesh = Acidic Flesh
-    .desc = Subject has acidic chemicals building up underneath the skin. This is often lethal.
+ent-MutationAcidicFlesh = Кислотная Плоть
+    .desc = Под кожей испытуемого скапливаются кислые вещества. Это часто приводит к смерти.
 
-ent-MutationSpastic = Spastic
-    .desc = Subject suffers from muscle spasms.
+ent-MutationSpastic = Спазмы
+    .desc = Испытуемый страдает от мышечных спазмов.
 
-ent-MutationTwoLeftFeet = Two Left Feet
-    .desc = A mutation that replaces the right foot with another left foot. Symptoms include kissing the floor when taking a step.
+ent-MutationTwoLeftFeet = Две Левые Ступни
+    .desc = Мутация заменяет правую ступню второй левой. Среди симптомов - поцелуи с полом при попытке сделать шаг.
 
-ent-MutationInternalMartyrdom = Internal Martyrdom
-    .desc = A mutation that makes the body destruct when near death. Not damaging, but very, VERY disorienting.
+ent-MutationInternalMartyrdom = Внутреннее Мученичество
+    .desc = Мутация приводит к саморазрушению тела на пороге смерти. Урона нет, зато дезориентирует очень, ОЧЕНЬ сильно.
 
-ent-MutationHeadless = H.A.R.S.
-    .desc = A mutation that makes the body reject the head, the brain receding into the chest. Stands for Head Allergic Rejection Syndrome. Warning: Removing this mutation is very dangerous, though it will regenerate non-vital head organs.
+ent-MutationHeadless = С.А.О.Г.
+    .desc = Мутация заставляет тело отторгать голову, а мозг перемещается в грудь. Расшифровывается как Синдром Аллергического Отторжения Головы. Предупреждение: Удалять эту мутацию очень опасно, хотя при этом восстановятся нежизненно важные органы головы.
 
-ent-MutationHypermetabolicBlood = Hypermetabolic Blood
-    .desc = The subject's blood is hypermetabolic, causing it to be produced at a much faster rate.
+ent-MutationHypermetabolicBlood = Гиперметаболическая Кровь
+    .desc = Кровь испытуемого гиперметаболична, поэтому организм вырабатывает её гораздо быстрее.
 
-ent-MutationRockEater = Rock Eater
-    .desc = The subject's body is able to digest rocks and minerals.
+ent-MutationRockEater = Камнеед
+    .desc = Организм испытуемого способен переваривать камни и минералы.
 
-ent-MutationRockAbsorber = Rock Absorber
-    .desc = The subject's body is able to digest rocks and minerals, taking on their properties.
+ent-MutationRockAbsorber = Поглотитель Камней
+    .desc = Организм испытуемого способен переваривать камни и минералы, перенимая их свойства.
 
-ent-MutationInexorable = Inexorable
-    .desc = Your body can push on beyond the limits of normal human endurance. However, pushing it too far can cause severe damage to your body.
+ent-MutationInexorable = Неутомимость
+    .desc = Ваше тело способно выдерживать нагрузки за пределами человеческой выносливости. Однако, если зайти слишком далеко, можно серьёзно навредить организму.
 
-ent-MutationFelinized = Felinized
-    .desc = Unknown
+ent-MutationFelinized = Окошачивание
+    .desc = Неизвестно

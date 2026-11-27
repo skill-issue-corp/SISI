@@ -1,5 +1,5 @@
-ent-CigarCase = cigar case
-    .desc = A case for holding your cigars when you are not smoking them.
+ent-CigarCase = портсигар для сигар
+    .desc = Футляр для хранения сигар, когда вы их не курите.
 
-ent-CigarGoldCase = premium cigar case
-    .desc = A case of premium Havanian cigars. You'll only see heads with these.
+ent-CigarGoldCase = портсигар для элитных сигар
+    .desc = Футляр с элитными Гаванскими сигарами. Такие можно увидеть только у глав.

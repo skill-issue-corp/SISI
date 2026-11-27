@@ -1,8 +1,8 @@
-ent-VehicleClowncarBase = clown car
+ent-VehicleClowncarBase = клоуномобиль
     .desc = { ent-BaseGroundVehicle.desc }
 
 ent-VehicleClowncarAntag = { ent-VehicleClowncarBase }
-    .desc = How someone could even fit in there is byond me.
+    .desc = Как туда вообще кто-то влезает, это уже за гранью byond.
 
-ent-VehicleClowncarTrainee = trainee clown car
-    .desc = Carry mostly willing passengers around! Be careful with collisions!.
+ent-VehicleClowncarTrainee = учебный клоуномобиль
+    .desc = Возите пассажиров, в основном добровольных! Осторожно при столкновениях!.

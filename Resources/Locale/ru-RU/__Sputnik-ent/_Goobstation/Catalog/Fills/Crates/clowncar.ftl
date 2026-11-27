@@ -1,15 +1,15 @@
-ent-CrateFunClownCarUplink = clown car crate
-    .desc = Contains one car, Clown not included
-    .suffix = Uplink item
+ent-CrateFunClownCarUplink = ящик с клоуномобилем
+    .desc = Внутри одна машина, Клоун в комплект не входит
+    .suffix = Товар аплинка
 
-ent-CrateFunClownCarNukieUplink = clown car crate
-    .desc = Contains one car, Clown not included
-    .suffix = Uplink item
+ent-CrateFunClownCarNukieUplink = ящик с клоуномобилем
+    .desc = Внутри одна машина, Клоун в комплект не входит
+    .suffix = Товар аплинка
 
-ent-CrateFunClownCarCargo = clown car crate
-    .desc = Contains one car, Clown not included
-    .suffix = Cargo Order
+ent-CrateFunClownCarCargo = ящик с клоуномобилем
+    .desc = Внутри одна машина, Клоун в комплект не входит
+    .suffix = Заказ Карго
 
-ent-CrateFunClownCarTesting = clown car crate
-    .desc = for the cursed clown
-    .suffix = for testing
+ent-CrateFunClownCarTesting = ящик с клоуномобилем
+    .desc = для проклятого клоуна
+    .suffix = для тестирования

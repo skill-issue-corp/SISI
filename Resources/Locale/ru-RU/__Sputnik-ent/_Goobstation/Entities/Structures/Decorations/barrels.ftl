@@ -1,8 +1,8 @@
-ent-BaseBarrel = black barrel
-    .desc = Do a barrel roll!
+ent-BaseBarrel = чёрная бочка
+    .desc = Сделай бочку!
 
 ent-BarrelPlanks = { ent-BaseBarrel }
     .desc = { ent-BaseBarrel.desc }
 
-ent-BarrelFire = barrel fire
-    .desc = Perfectly warm for the perfectly jobless!
+ent-BarrelFire = огонь в бочке
+    .desc = Идеальное тепло для идеально безработных!

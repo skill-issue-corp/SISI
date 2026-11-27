@@ -1,14 +1,14 @@
-ent-GunpowderBottle = gunpowder bottle
-    .desc = Holds gunpowder, a crucial component in making bullets.
-    .suffix = empty
+ent-GunpowderBottle = бутылка для пороха
+    .desc = В ней хранится порох, необходимый для изготовления патронов.
+    .suffix = пусто
 
 ent-GunpowderBottlePartFull = { ent-GunpowderBottle }
     .desc = { ent-GunpowderBottle.desc }
-    .suffix = quarter full
+    .suffix = заполнена на четверть
 
 ent-GunpowderBottleFull = { ent-GunpowderBottle }
     .desc = { ent-GunpowderBottle.desc }
-    .suffix = full
+    .suffix = полностью заполнено
 
-ent-GunpowderCase = gunpowder case
+ent-GunpowderCase = кейс для пороха
     .desc = { ent-BaseStorageItem.desc }

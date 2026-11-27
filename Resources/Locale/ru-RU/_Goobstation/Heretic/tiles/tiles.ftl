@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tiles-plating-rust = rusted plating
-tiles-plating-rose-stone = rose stone floor
+tiles-plating-rust = ржавая обшивка
+tiles-plating-rose-stone = пол из розового камня

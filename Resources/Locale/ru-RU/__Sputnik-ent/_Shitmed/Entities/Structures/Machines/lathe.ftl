@@ -1,2 +1,2 @@
-ent-MedicalBiofabricator = medical biofabricator
-    .desc = Produces organs and other organic matter that can be surgically grafted onto patients with biomass.
+ent-MedicalBiofabricator = медицинский биофабрикатор
+    .desc = Производит из биомассы органы и другие органические ткани, которые можно хирургически пересадить пациентам.

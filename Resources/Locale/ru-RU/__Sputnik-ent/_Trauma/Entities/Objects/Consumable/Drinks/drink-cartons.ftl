@@ -1,2 +1,2 @@
-ent-DrinkFullFatCarton = full fat carton
-    .desc = A label on the side says "101% fat!".
+ent-DrinkFullFatCarton = пакет цельного молока
+    .desc = На этикетке сбоку написано «101% жирности!».

@@ -1,15 +1,15 @@
-ent-Stunbaton = stun baton
-    .desc = A stun baton for incapacitating people with. Has advanced wrist strap technology to prevent cadets accidentally dropping it.
+ent-Stunbaton = шоковая дубинка
+    .desc = Шоковая дубинка для обездвиживания людей. Передовой ремешок на запястье не даст кадету случайно её выронить.
 
-ent-Truncheon = truncheon
-    .desc = A rigid, steel-studded baton, meant to harm.
+ent-Truncheon = боевая дубинка
+    .desc = Твёрдая дубинка со стальными шипами, предназначенная для нанесения травм.
 
-ent-Flash = flash
-    .desc = An ultrabright flashbulb with a trigger, which causes the victim to be dazed and lose their eyesight for a moment. Useless when burnt out.
+ent-Flash = вспышка
+    .desc = Сверхъяркая лампа со спуском. Ошеломляет жертву и на мгновение лишает её зрения. Бесполезна, когда перегорит.
 
-ent-SciFlash = flash
+ent-SciFlash = вспышка
     .desc = { ent-Flash.desc }
-    .suffix = 2 charges
+    .suffix = 2 заряда
 
-ent-PortableFlasher = portable flasher
-    .desc = An ultrabright flashbulb with a proximity trigger, useful for making an area security-only.
+ent-PortableFlasher = переносная вспышка
+    .desc = Сверхъяркая лампа с датчиком приближения. Пригодится, чтобы оставить доступ в зону только сотрудникам охраны.

@@ -3,24 +3,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later AND MIT
 
-plant-analyzer-interface-title = Agrinfo 3000 Plant Analyzer
-plant-analyzer-window-no-seed-information-text = No seed/plant scanned in memory.
-plant-analyzer-window-tab-scan = Scan
-plant-analyzer-window-tab-basics = Basic Info
-plant-analyzer-window-tab-tolerances = Tolerances
-plant-analyzer-window-tab-mutations = Mutations
-plant-analyzer-window-tab-extractor = Extractor
-plant-analyzer-window-tab-databank = Databank
-plant-analyzer-window-scanmode = Analyzer Mode:
-plant-analyzer-window-mode-mutation = Mutations
-plant-analyzer-window-mode-scan = Scan
-plant-analyzer-window-mode-implant = Implant
-plant-analyzer-window-mode-extract = Extract
+plant-analyzer-interface-title = Анализатор Растений «Агринфо 3000»
+plant-analyzer-window-no-seed-information-text = В памяти нет данных сканирования семян или растений.
+plant-analyzer-window-tab-scan = Сканирование
+plant-analyzer-window-tab-basics = Основные Сведения
+plant-analyzer-window-tab-tolerances = Устойчивость
+plant-analyzer-window-tab-mutations = Мутации
+plant-analyzer-window-tab-extractor = Экстрактор
+plant-analyzer-window-tab-databank = Банк Данных
+plant-analyzer-window-scanmode = Режим Анализатора:
+plant-analyzer-window-mode-mutation = Мутации
+plant-analyzer-window-mode-scan = Сканировать
+plant-analyzer-window-mode-implant = Внедрить
+plant-analyzer-window-mode-extract = Извлечь
 
-plant-analyzer-delete-mutations = Delete Mutations
-plant-analyzer-database-entries-header = Database:
+plant-analyzer-delete-mutations = Удалить Мутации
+plant-analyzer-database-entries-header = База Данных:
 
-plant-analyzer-harvest-Unknown = Unknown
-plant-analyzer-harvest-Repeat = Perennial
-plant-analyzer-harvest-NoRepeat = Ephemeral
-plant-analyzer-harvest-SelfHarvest = Self-harvesting
+plant-analyzer-harvest-Unknown = Неизвестно
+plant-analyzer-harvest-Repeat = Многолетнее
+plant-analyzer-harvest-NoRepeat = Одноразовый урожай
+plant-analyzer-harvest-SelfHarvest = Самосбор

@@ -1,7 +1,7 @@
 ent-BriefcaseSyndieDualettaBundleFilled = { ent-BriefcaseSyndie }
     .desc = { ent-BriefcaseSyndie.desc }
-    .suffix = Syndicate, Dualetta Bundle
+    .suffix = Синдикат, Комплект Dualetta
 
 ent-BriefcaseCentcomm = { ent-BriefcaseBrown }
     .desc = { ent-BriefcaseBrown.desc }
-    .suffix = Admeme, DO NOT MAP
+    .suffix = Адмеме, НЕ МАППИТЬ

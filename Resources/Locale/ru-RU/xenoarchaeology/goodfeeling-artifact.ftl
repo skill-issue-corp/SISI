@@ -6,24 +6,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-goodfeeling-artifact-1 = You feel good.
-goodfeeling-artifact-2 = Everything seems to be going alright
-goodfeeling-artifact-3 = You've got a good feeling about this
-goodfeeling-artifact-4 = Your instincts tell you everything is going to be getting better.
-goodfeeling-artifact-5 = There's a good feeling in the air.
-goodfeeling-artifact-6 = Something smells... good.
-goodfeeling-artifact-7 = The tips of your fingers feel tingly.
-goodfeeling-artifact-8 = You've got a good feeling about this.
-goodfeeling-artifact-9 = You feel happy.
-goodfeeling-artifact-10 = You fight the urge to smile.
-goodfeeling-artifact-11 = Your scalp prickles.
-goodfeeling-artifact-12 = All the colours seem a bit more vibrant.
-goodfeeling-artifact-13 = Everything seems a little lighter.
-goodfeeling-artifact-14 = The troubles of the world seem to fade away.
+goodfeeling-artifact-1 = Вам хорошо.
+goodfeeling-artifact-2 = Похоже, всё идёт как надо
+goodfeeling-artifact-3 = У вас хорошее предчувствие
+goodfeeling-artifact-4 = Чутьё подсказывает, что дальше будет только лучше.
+goodfeeling-artifact-5 = В воздухе витает что-то приятное.
+goodfeeling-artifact-6 = Пахнет чем-то... приятным.
+goodfeeling-artifact-7 = Кончики пальцев покалывает.
+goodfeeling-artifact-8 = У вас хорошее предчувствие.
+goodfeeling-artifact-9 = Вам радостно.
+goodfeeling-artifact-10 = Вы сдерживаете улыбку.
+goodfeeling-artifact-11 = По коже головы бегут мурашки.
+goodfeeling-artifact-12 = Все цвета кажутся немного ярче.
+goodfeeling-artifact-13 = Всё кажется немного светлее.
+goodfeeling-artifact-14 = Мирские заботы словно отступают.
 
-goodfeeling-artifact-drastic-1 = You want to hug everyone you meet!
-goodfeeling-artifact-drastic-2 = Everything is going so well!
-goodfeeling-artifact-drastic-3 = You feel euphoric.
-goodfeeling-artifact-drastic-4 = You feel giddy.
-goodfeeling-artifact-drastic-5 = You're so happy suddenly you almost want to dance and sing.
-goodfeeling-artifact-drastic-6 = You feel like the world is out to help you.
+goodfeeling-artifact-drastic-1 = Вам хочется обнять каждого встречного!
+goodfeeling-artifact-drastic-2 = Всё идёт так хорошо!
+goodfeeling-artifact-drastic-3 = Вы чувствуете эйфорию.
+goodfeeling-artifact-drastic-4 = У вас кружится голова от радости.
+goodfeeling-artifact-drastic-5 = Вам вдруг так радостно, что хочется петь и танцевать.
+goodfeeling-artifact-drastic-6 = Кажется, весь мир хочет вам помочь.

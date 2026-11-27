@@ -1,88 +1,88 @@
-ent-BenchBaseMiddle = bench
-    .desc = Multiple seats spanning a single object. Truly a marvel of science.
-    .suffix = Middle
+ent-BenchBaseMiddle = скамья
+    .desc = Несколько сидений в одном предмете. Поистине чудо науки.
+    .suffix = Середина
 
-ent-BenchParkMiddle = park bench
+ent-BenchParkMiddle = парковая скамья
     .desc = { ent-BenchBaseMiddle.desc }
 
 ent-BenchParkLeft = { ent-BenchParkMiddle }
     .desc = { ent-BenchParkMiddle.desc }
-    .suffix = Left
+    .suffix = Левый
 
 ent-BenchParkRight = { ent-BenchParkMiddle }
     .desc = { ent-BenchParkMiddle.desc }
-    .suffix = Right
+    .suffix = Правый
 
-ent-BenchParkBambooMiddle = park bench
+ent-BenchParkBambooMiddle = парковая скамья
     .desc = { ent-BenchBaseMiddle.desc }
 
 ent-BenchParkBambooLeft = { ent-BenchParkBambooMiddle }
     .desc = { ent-BenchParkBambooMiddle.desc }
-    .suffix = Left
+    .suffix = Левый
 
 ent-BenchParkBambooRight = { ent-BenchParkBambooMiddle }
     .desc = { ent-BenchParkBambooMiddle.desc }
-    .suffix = Right
+    .suffix = Правый
 
-ent-BenchPewMiddle = pew
+ent-BenchPewMiddle = церковная скамья
     .desc = { ent-BenchBaseMiddle.desc }
 
 ent-BenchPewLeft = { ent-BenchPewMiddle }
     .desc = { ent-BenchPewMiddle.desc }
-    .suffix = Left
+    .suffix = Левый
 
 ent-BenchPewRight = { ent-BenchPewMiddle }
     .desc = { ent-BenchPewMiddle.desc }
-    .suffix = Right
+    .suffix = Правый
 
-ent-BenchSteelMiddle = steel bench
+ent-BenchSteelMiddle = стальная скамья
     .desc = { ent-BenchBaseMiddle.desc }
 
 ent-BenchSteelLeft = { ent-BenchSteelMiddle }
     .desc = { ent-BenchSteelMiddle.desc }
-    .suffix = Left
+    .suffix = Левый
 
 ent-BenchSteelRight = { ent-BenchSteelMiddle }
     .desc = { ent-BenchSteelMiddle.desc }
-    .suffix = Right
+    .suffix = Правый
 
-ent-BenchSteelWhiteMiddle = white steel bench
+ent-BenchSteelWhiteMiddle = белая стальная скамья
     .desc = { ent-BenchBaseMiddle.desc }
 
 ent-BenchSteelWhiteLeft = { ent-BenchSteelWhiteMiddle }
     .desc = { ent-BenchSteelWhiteMiddle.desc }
-    .suffix = Left
+    .suffix = Левый
 
 ent-BenchSteelWhiteRight = { ent-BenchSteelWhiteMiddle }
     .desc = { ent-BenchSteelWhiteMiddle.desc }
-    .suffix = Right
+    .suffix = Правый
 
-ent-BenchSofaMiddle = sofa
+ent-BenchSofaMiddle = диван
     .desc = { ent-BenchBaseMiddle.desc }
 
 ent-BenchSofaLeft = { ent-BenchSofaMiddle }
     .desc = { ent-BenchSofaMiddle.desc }
-    .suffix = Left
+    .suffix = Левый
 
 ent-BenchSofaRight = { ent-BenchSofaMiddle }
     .desc = { ent-BenchSofaMiddle.desc }
-    .suffix = Right
+    .suffix = Правый
 
-ent-BenchSofaCorner = sofa
+ent-BenchSofaCorner = диван
     .desc = { "" }
-    .suffix = Corner
+    .suffix = Угол
 
-ent-BenchSofaCorpMiddle = grey sofa
+ent-BenchSofaCorpMiddle = серый диван
     .desc = { ent-BenchBaseMiddle.desc }
 
 ent-BenchSofaCorpLeft = { ent-BenchSofaCorpMiddle }
     .desc = { ent-BenchSofaCorpMiddle.desc }
-    .suffix = Left
+    .suffix = Левый
 
 ent-BenchSofaCorpRight = { ent-BenchSofaCorpMiddle }
     .desc = { ent-BenchSofaCorpMiddle.desc }
-    .suffix = Right
+    .suffix = Правый
 
-ent-BenchSofaCorpCorner = grey sofa
+ent-BenchSofaCorpCorner = серый диван
     .desc = { "" }
-    .suffix = Corner
+    .suffix = Угол

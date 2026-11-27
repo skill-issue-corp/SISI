@@ -1,2 +1,2 @@
-ent-ActionOpenCameraWarpMenu = Jump to camera
-    .desc = Quickly jump to a camera on the station for ease of navigation!
+ent-ActionOpenCameraWarpMenu = Прыжок к камере
+    .desc = Быстро переместитесь к одной из камер станции, чтобы легче ориентироваться!

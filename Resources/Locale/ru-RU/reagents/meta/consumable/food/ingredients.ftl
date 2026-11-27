@@ -10,44 +10,44 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-flour = flour
-reagent-desc-flour = Used for baking.
+reagent-name-flour = мука
+reagent-desc-flour = Используется для выпечки.
 
-reagent-name-cornmeal = cornmeal
-reagent-desc-cornmeal = Used for baking.
+reagent-name-cornmeal = кукурузная мука
+reagent-desc-cornmeal = Используется для выпечки.
 
-reagent-name-oats = oats
-reagent-desc-oats = Used for a variety of tasty purposes.
+reagent-name-oats = овёс
+reagent-desc-oats = Годится для самых разных вкусных блюд.
 
-reagent-name-enzyme = universal enzyme
-reagent-desc-enzyme = Used in cooking various dishes.
+reagent-name-enzyme = универсальный фермент
+reagent-desc-enzyme = Используется при приготовлении разных блюд.
 
-reagent-name-egg = cooked egg
-reagent-desc-egg = Cooked chicken embryo, delicious.
+reagent-name-egg = готовое яйцо
+reagent-desc-egg = Приготовленный куриный зародыш, объедение.
 
-reagent-name-raw-egg = raw egg
-reagent-desc-raw-egg = Used for baking.
+reagent-name-raw-egg = сырое яйцо
+reagent-desc-raw-egg = Используется для выпечки.
 
-reagent-name-sugar = sugar
-reagent-desc-sugar = Tasty spacey sugar!
+reagent-name-sugar = сахар
+reagent-desc-sugar = Вкусный космический сахар!
 
-reagent-name-blackpepper = black pepper
-reagent-desc-blackpepper = Often used to flavor food or make people sneeze.
+reagent-name-blackpepper = чёрный перец
+reagent-desc-blackpepper = Им часто приправляют еду или заставляют чихать.
 
-reagent-name-vinegar = vinegar
-reagent-desc-vinegar = Often used to flavor food.
+reagent-name-vinegar = уксус
+reagent-desc-vinegar = Часто используется для придания вкуса еде.
 
-reagent-name-rice = rice
-reagent-desc-rice = Hard, small white grains.
+reagent-name-rice = рис
+reagent-desc-rice = Мелкие твёрдые белые зёрна.
 
-reagent-name-oil-olive = olive oil
-reagent-desc-oil-olive = Viscous and fragrant.
+reagent-name-oil-olive = оливковое масло
+reagent-desc-oil-olive = Вязкое и ароматное.
 
-reagent-name-oil = oil
-reagent-desc-oil = Used by chefs to cook.
+reagent-name-oil = масло
+reagent-desc-oil = Повара используют его для готовки.
 
-reagent-name-capsaicin-oil = Capsaicin Oil
-reagent-desc-capsaicin-oil = Capsaicin Oil is the ingredient found in different types of hot peppers.
+reagent-name-capsaicin-oil = Капсаициновое Масло
+reagent-desc-capsaicin-oil = Капсаициновое Масло содержится в разных видах острого перца.
 
-reagent-name-frost-oil = Frost Oil
-reagent-desc-frost-oil = Frost Oil is the ingredient found in chilly peppers, a rare pepper mutation.
+reagent-name-frost-oil = Морозное Масло
+reagent-desc-frost-oil = Морозное Масло содержится в морозном перце, редкой мутации перца.

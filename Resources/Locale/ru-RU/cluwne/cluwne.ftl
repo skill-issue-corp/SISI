@@ -5,7 +5,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cluwne-transform = {CAPITALIZE(THE($target))} turned into a cluwne!
-cluwne-name-prefix = cluwnified {$baseName}
-cluwne-knock-emote = spasms
-cluwne-giggle-emote = honks
+cluwne-transform = {CAPITALIZE($target)} превращается в клувеня!
+cluwne-name-prefix = оклувненный {$baseName}
+cluwne-knock-emote = бьётся в судорогах
+cluwne-giggle-emote = хонкает

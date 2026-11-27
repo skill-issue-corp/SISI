@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-shakeable-verb = Shake
-shakeable-popup-message-others = { CAPITALIZE(THE($user)) } shakes { THE($shakeable) }
-shakeable-popup-message-self = You shake { THE($shakeable) }
+shakeable-verb = Взболтать
+shakeable-popup-message-others = { CAPITALIZE($user) } взбалтывает { $shakeable }
+shakeable-popup-message-self = Вы взбалтываете { $shakeable }

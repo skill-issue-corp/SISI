@@ -1,23 +1,23 @@
-ent-PinpointerBase = pinpointer
-    .desc = A handheld tracking device. While typically far more capable, this one has been configured to lock onto certain signals. Keep upright to retain accuracy.
+ent-PinpointerBase = пинпоинтер
+    .desc = Ручное устройство слежения. Обычно оно способно на гораздо большее, но эта модель настроена на поиск определённых сигналов. Для точности держите вертикально.
 
-ent-PinpointerNuclear = pinpointer
+ent-PinpointerNuclear = пинпоинтер
     .desc = { ent-PinpointerBase.desc }
 
-ent-PinpointerSyndicateNuclear = syndicate pinpointer
-    .desc = Produced specifically for nuclear operative missions, get that disk!
+ent-PinpointerSyndicateNuclear = пинпоинтер синдиката
+    .desc = Разработан специально для заданий ядерных оперативников. Добудьте диск!
 
-ent-PinpointerUniversal = universal pinpointer
-    .desc = A handheld tracking device that locks onto any physical entity while off. Keep upright to retain accuracy.
+ent-PinpointerUniversal = универсальный пинпоинтер
+    .desc = Ручное устройство слежения, которое в выключенном состоянии настраивается на любой физический объект. Для точности держите вертикально.
 
-ent-PinpointerStation = research server pinpointer
-    .desc = A handheld tracking device that leads to the direction of any nearby research server.
+ent-PinpointerStation = пинпоинтер сервера исследований
+    .desc = Ручное устройство слежения, указывающее направление к ближайшему серверу исследований.
 
-ent-PinpointerMothership = core pinpointer
-    .desc = A handheld tracking device that leads to the direction of the Mothership core.
+ent-PinpointerMothership = пинпоинтер ядра
+    .desc = Ручное устройство слежения, указывающее направление к ядру Материнского Корабля.
 
-ent-PinpointerMothershipPiece = piece of core pinpointer
-    .desc = A piece of a core pinpointer. You need four pieces to repair it.
+ent-PinpointerMothershipPiece = часть пинпоинтера ядра
+    .desc = Часть пинпоинтера ядра. Для ремонта нужны четыре части.
 
-ent-PinpointerMothershipRepaired = repaired core pinpointer
-    .desc = A handheld tracking device that leads to the direction of the Mothership core. This one has seen better days.
+ent-PinpointerMothershipRepaired = восстановленный пинпоинтер ядра
+    .desc = Ручное устройство слежения, указывающее направление к ядру Материнского Корабля. Этот повидал лучшие дни.

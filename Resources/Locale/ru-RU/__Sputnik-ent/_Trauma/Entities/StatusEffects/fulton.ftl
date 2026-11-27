@@ -1,2 +1,2 @@
-ent-BeingFultonedStatusEffect = fulton attached
+ent-BeingFultonedStatusEffect = фултон прикреплён
     .desc = { ent-StatusEffectSpeed.desc }

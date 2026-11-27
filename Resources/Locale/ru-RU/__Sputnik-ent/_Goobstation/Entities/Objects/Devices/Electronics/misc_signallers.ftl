@@ -1,5 +1,5 @@
-ent-MiscSignallerBase = misc signaller base
+ent-MiscSignallerBase = база вспомогательного сигнализатора
     .desc = { ent-BaseItem.desc }
 
-ent-ProximitySignaller = proximity signaller
-    .desc = A device that transmits a signal when something is nearby. You may be able not to trigger it if you move slowly enough. Needs to be anchored.
+ent-ProximitySignaller = датчик приближения
+    .desc = Устройство передаёт сигнал, когда рядом что-то оказывается. Если двигаться достаточно медленно, оно может не сработать. Требуется закрепить.

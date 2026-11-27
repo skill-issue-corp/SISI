@@ -1,17 +1,17 @@
-ent-Spear = spear
-    .desc = Definition of a Classic. Keeping murder affordable since 200,000 BCE.
+ent-Spear = копьё
+    .desc = Воплощение Классики. Делает убийство доступным с 200,000 года до н. э.
 
-ent-SpearReinforced = reinforced spear
-    .desc = A spear with a reinforced glass shard as a tip.
+ent-SpearReinforced = копьё с наконечником из бронестекла
+    .desc = Копьё с осколком бронестекла вместо наконечника.
 
-ent-SpearPlasma = plasma spear
-    .desc = A spear with a plasma shard as a tip.
+ent-SpearPlasma = фороновое копьё
+    .desc = Копьё с осколком форона вместо наконечника.
 
-ent-SpearUranium = uranium spear
-    .desc = A spear with a uranium shard as a tip.
+ent-SpearUranium = урановое копьё
+    .desc = Копьё с осколком урана вместо наконечника.
 
-ent-SpearBone = bone spear
-    .desc = A spear made of bones.
+ent-SpearBone = костяное копьё
+    .desc = Копьё из костей.
 
-ent-SpearSharkMinnow = sharkminnow tooth spear
-    .desc = A spear with a sharkminnow tooth as a tip.
+ent-SpearSharkMinnow = копьё с зубом космической акулы
+    .desc = Копьё с зубом космической акулы вместо наконечника.

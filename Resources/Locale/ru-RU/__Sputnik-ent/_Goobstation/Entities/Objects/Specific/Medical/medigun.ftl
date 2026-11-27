@@ -1,15 +1,15 @@
-ent-MedicalBeamGun = medical beam gun
-    .desc = Delivers volatile medical nanites in a focused beam. Don't cross the beams!
-    .suffix = Unlimited
+ent-MedicalBeamGun = медицинская лучевая пушка
+    .desc = Подаёт нестабильные медицинские наниты узким лучом. Не скрещивайте лучи!
+    .suffix = Бесконечный
 
 ent-MedicalBeamGunBattery = { ent-MedicalBeamGun }
     .desc = { ent-MedicalBeamGun.desc }
-    .suffix = Battery
+    .suffix = Батарея
 
-ent-MedicalBeamGunSyndicate = syndicate medical beam gun
-    .desc = Delivers volatile medical nanites in a focused beam. Don't cross the beams!
-    .suffix = Syndicate, Unlimited
+ent-MedicalBeamGunSyndicate = медицинская лучевая пушка синдиката
+    .desc = Подаёт нестабильные медицинские наниты узким лучом. Не скрещивайте лучи!
+    .suffix = Синдикат, Бесконечный
 
 ent-MedicalBeamGunSyndicateBattery = { ent-MedicalBeamGunSyndicate }
     .desc = { ent-MedicalBeamGunSyndicate.desc }
-    .suffix = Battery, Syndicate
+    .suffix = Батарея, Синдикат

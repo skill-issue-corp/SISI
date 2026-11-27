@@ -1,105 +1,105 @@
-ent-ClothingOuterHardsuitAtmos = atmospherics hardsuit
-    .desc = A special suit that protects against hazardous, low pressure environments. Has thermal shielding.
+ent-ClothingOuterHardsuitAtmos = атмосферный скафандр
+    .desc = Специальный костюм для работы в опасных условиях при низком давлении. Оснащён теплозащитой.
 
-ent-ClothingOuterHardsuitEngineering = engineering hardsuit
-    .desc = A special hardsuit that protects against hazardous, low pressure environments. Has radiation shielding.
+ent-ClothingOuterHardsuitEngineering = инженерный скафандр
+    .desc = Специальный скафандр для работы в опасных условиях при низком давлении. Оснащён защитой от радиации.
 
-ent-ClothingOuterHardsuitSpatio = spationaut hardsuit
-    .desc = A lightweight hardsuit designed for industrial EVA in zero gravity.
+ent-ClothingOuterHardsuitSpatio = скафандр спатионавта
+    .desc = Лёгкий скафандр для промышленных работ EVA в невесомости.
 
-ent-ClothingOuterHardsuitSalvage = mining hardsuit
-    .desc = A special suit that protects against hazardous, low pressure environments. Has reinforced plating for wildlife encounters.
+ent-ClothingOuterHardsuitSalvage = скафандр шахтёра
+    .desc = Специальный костюм для работы в опасных условиях при низком давлении. Укреплён пластинами на случай встречи с дикими тварями.
 
-ent-ClothingOuterHardsuitGoliath = goliath hardsuit
-    .desc = A lightweight hardsuit, adorned with a patchwork of thick, chitinous goliath hide.
+ent-ClothingOuterHardsuitGoliath = скафандр из голиафа
+    .desc = Лёгкий скафандр, украшенный лоскутами из толстых хитиновых пластин голиафа.
 
-ent-ClothingOuterHardsuitMaxim = salvager maxim hardsuit
-    .desc = Fire. Heat. These things forge great weapons, they also forge great salvagers.
+ent-ClothingOuterHardsuitMaxim = скафандр утилизатора «максим»
+    .desc = Огонь. Жар. В них куётся великое оружие. И великие утилизаторы.
 
-ent-ClothingOuterHardsuitSecurity = security hardsuit
-    .desc = A special suit that protects against hazardous, low pressure environments. Has an additional layer of armor.
+ent-ClothingOuterHardsuitSecurity = скафандр службы безопасности
+    .desc = Специальный костюм для работы в опасных условиях при низком давлении. Имеет дополнительный слой брони.
 
-ent-ClothingOuterHardsuitBrigmedic = brigmedic hardsuit
-    .desc = Special hardsuit of the guardian angel of the brig. It is the medical version of the security hardsuit.
+ent-ClothingOuterHardsuitBrigmedic = скафандр бригмедика
+    .desc = Специальный скафандр ангела-хранителя брига. Медицинский вариант скафандра службы безопасности.
 
-ent-ClothingOuterHardsuitWarden = warden's hardsuit
-    .desc = A specialized riot suit geared to combat low pressure environments.
+ent-ClothingOuterHardsuitWarden = скафандр смотрителя
+    .desc = Специальный противоударный костюм, приспособленный для работы при низком давлении.
 
-ent-ClothingOuterHardsuitCap = captain's parade hardsuit
-    .desc = A formal and slightly armored hardsuit, made for the station's captain.
+ent-ClothingOuterHardsuitCap = парадный скафандр капитана
+    .desc = Парадный скафандр с лёгким бронированием, изготовленный для капитана станции.
 
-ent-ClothingOuterHardsuitEngineeringWhite = chief engineer's hardsuit
-    .desc = A special hardsuit that protects against hazardous, low pressure environments, made for the chief engineer of the station.
+ent-ClothingOuterHardsuitEngineeringWhite = скафандр старшего инженера
+    .desc = Специальный скафандр старшего инженера станции для работы в опасных условиях при низком давлении.
 
-ent-ClothingOuterHardsuitMedical = chief medical officer's hardsuit
-    .desc = A special suit that protects against hazardous, low pressure environments. Built with lightweight materials for easier movement.
+ent-ClothingOuterHardsuitMedical = скафандр главного врача
+    .desc = Специальный костюм для работы в опасных условиях при низком давлении. Сделан из лёгких материалов, чтобы было проще двигаться.
 
-ent-ClothingOuterHardsuitRd = experimental research hardsuit
-    .desc = A special suit that protects against hazardous, low pressure environments. Has an additional layer of armor.
+ent-ClothingOuterHardsuitRd = экспериментальный научный скафандр
+    .desc = Специальный костюм для работы в опасных условиях при низком давлении. Имеет дополнительный слой брони.
 
-ent-ClothingOuterHardsuitSecurityRed = head of security's hardsuit
-    .desc = Lighter and more protective than the standard security hardsuit, but not by much.
+ent-ClothingOuterHardsuitSecurityRed = скафандр главы службы безопасности
+    .desc = Немного легче стандартного скафандра службы безопасности и немного лучше защищает.
 
-ent-ClothingOuterHardsuitLuxury = luxury mining hardsuit
-    .desc = A refurbished mining hardsuit, fashioned after the Quartermaster's colors. Graphene lining provides less protection, but is much easier to move.
+ent-ClothingOuterHardsuitLuxury = роскошный скафандр шахтёра
+    .desc = Отреставрированный шахтёрский скафандр в цветах Квартирмейстера. Графеновая подкладка защищает хуже, зато двигаться в ней намного легче.
 
-ent-ClothingOuterHardsuitSyndie = blood-red hardsuit
-    .desc = A heavily armored hardsuit designed for work in special operations. Property of Gorlex Marauders.
+ent-ClothingOuterHardsuitSyndie = кроваво-красный скафандр
+    .desc = Тяжелобронированный скафандр для спецопераций. Собственность Мародёров Горлекса.
 
-ent-ClothingOuterHardsuitSyndieMedic = blood-red medic hardsuit
-    .desc = A heavily armored and agile advanced hardsuit specifically designed for field medic operations.
+ent-ClothingOuterHardsuitSyndieMedic = кроваво-красный скафандр медика
+    .desc = Современный тяжелобронированный скафандр, который не стесняет движений. Разработан специально для работы полевых медиков.
 
-ent-ClothingOuterHardsuitSyndieElite = syndicate elite hardsuit
-    .desc = An elite version of the blood-red hardsuit, with improved mobility, fireproofing and heat-resistant armor. Property of Gorlex Marauders.
+ent-ClothingOuterHardsuitSyndieElite = элитный скафандр синдиката
+    .desc = Элитная версия кроваво-красного скафандра. Он меньше стесняет движения, защищён от огня и оснащён термостойкой бронёй. Собственность Мародёров Горлекса.
 
-ent-ClothingOuterHardsuitSyndieCommander = syndicate commander hardsuit
-    .desc = A bulked up version of the blood-red hardsuit, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
+ent-ClothingOuterHardsuitSyndieCommander = скафандр командира синдиката
+    .desc = Усиленная версия кроваво-красного скафандра, созданная специально для командира отряда оперативников синдиката. Значительно улучшенная броня защищает в смертельных перестрелках на передовой.
 
-ent-ClothingOuterHardsuitJuggernaut = cybersun juggernaut suit
-    .desc = A suit made by the cutting edge R&D department at Cybersun to be hyper resilient.
+ent-ClothingOuterHardsuitJuggernaut = костюм джаггернаута «киберсан»
+    .desc = Сверхпрочный костюм, разработанный передовым отделом НиО компании «Киберсан».
 
-ent-ClothingOuterHardsuitWizard = wizard hardsuit
-    .desc = A bizarre gem-encrusted suit that radiates magical energies.
+ent-ClothingOuterHardsuitWizard = скафандр волшебника
+    .desc = Причудливый костюм, инкрустированный самоцветами и излучающий магическую энергию.
 
-ent-ClothingOuterHardsuitLing = organic space suit
-    .desc = A spaceworthy biomass of pressure and temperature resistant tissue.
+ent-ClothingOuterHardsuitLing = органический космический костюм
+    .desc = Биомасса из тканей, устойчивых к перепадам давления и температуры. Пригодна для космоса.
 
-ent-ClothingOuterHardsuitPirateEVA = deep space EVA suit
-    .desc = A heavy space suit that provides some basic protection from the cold harsh realities of deep space.
-    .suffix = Pirate
+ent-ClothingOuterHardsuitPirateEVA = костюм EVA для дальнего космоса
+    .desc = Тяжёлый космический костюм, который даёт хоть какую-то защиту от холодных и суровых реалий дальнего космоса.
+    .suffix = Пират
 
-ent-ClothingOuterHardsuitPirateCap = pirate captain's hardsuit
-    .desc = An ancient armored hardsuit, perfect for defending against space scurvy and toolbox-wielding scallywags.
+ent-ClothingOuterHardsuitPirateCap = скафандр пиратского капитана
+    .desc = Древний бронированный скафандр, идеально защищающий от космической цинги и головорезов с ящиками для инструментов.
 
-ent-ClothingOuterHardsuitERTLeader = ERT leader's hardsuit
-    .desc = A protective hardsuit worn by the leader of an emergency response team.
+ent-ClothingOuterHardsuitERTLeader = скафандр командира ОБР
+    .desc = Защитный скафандр командира отряда быстрого реагирования.
 
-ent-ClothingOuterHardsuitERTChaplain = ERT chaplain's hardsuit
-    .desc = A protective hardsuit worn by the chaplains of an Emergency Response Team.
+ent-ClothingOuterHardsuitERTChaplain = скафандр священника ОБР
+    .desc = Защитный скафандр священников Отряда Быстрого Реагирования.
 
-ent-ClothingOuterHardsuitERTEngineer = ERT engineer's hardsuit
-    .desc = A protective hardsuit worn by the engineers of an emergency response team.
+ent-ClothingOuterHardsuitERTEngineer = скафандр инженера ОБР
+    .desc = Защитный скафандр инженеров отряда быстрого реагирования.
 
-ent-ClothingOuterHardsuitERTMedical = ERT medic's hardsuit
-    .desc = A protective hardsuit worn by the medics of an emergency response team.
+ent-ClothingOuterHardsuitERTMedical = скафандр медика ОБР
+    .desc = Защитный скафандр медиков отряда быстрого реагирования.
 
-ent-ClothingOuterHardsuitERTSecurity = ERT security's hardsuit
-    .desc = A protective hardsuit worn by the security officers of an emergency response team.
+ent-ClothingOuterHardsuitERTSecurity = скафандр бойца ОБР
+    .desc = Защитный скафандр бойцов отряда быстрого реагирования.
 
-ent-ClothingOuterHardsuitERTJanitor = ERT janitor's hardsuit
-    .desc = A protective hardsuit worn by the janitors of an emergency response team.
+ent-ClothingOuterHardsuitERTJanitor = скафандр уборщика ОБР
+    .desc = Защитный скафандр уборщиков отряда быстрого реагирования.
 
-ent-ClothingOuterHardsuitDeathsquad = PI-52 "Lucifer" hardsuit
-    .desc = A famous hardsuit used by Central Command's death-squadrons, often shown in movies by Nanotrasen intended to increase recruitment.
+ent-ClothingOuterHardsuitDeathsquad = скафандр PI-52 «Люцифер»
+    .desc = Знаменитый скафандр эскадронов смерти Центрального Командования. NanoTrasen часто показывает его в фильмах, чтобы привлечь больше новобранцев.
 
-ent-ClothingOuterHardsuitCBURN = CBURN exosuit
-    .desc = A lightweight yet strong exosuit used for special cleanup operations.
+ent-ClothingOuterHardsuitCBURN = экзокостюм РХБЗЗ
+    .desc = Лёгкий, но прочный экзокостюм для специальных операций по зачистке.
 
-ent-ClothingOuterHardsuitClown = clown hardsuit
-    .desc = A custom-made clown hardsuit.
+ent-ClothingOuterHardsuitClown = скафандр клоуна
+    .desc = Клоунский скафандр, сшитый на заказ.
 
-ent-ClothingOuterHardsuitMime = mime hardsuit
-    .desc = A custom-made mime hardsuit.
+ent-ClothingOuterHardsuitMime = скафандр мима
+    .desc = Скафандр мима, сшитый на заказ.
 
-ent-ClothingOuterHardsuitSanta = Santa's hardsuit
-    .desc = A festive, cheerful hardsuit that protects the jolly gift-giver while on sleighrides in space. Offers some resistance against asteroid strikes.
+ent-ClothingOuterHardsuitSanta = скафандр Санты
+    .desc = Весёлый праздничный скафандр защищает жизнерадостного дарителя во время полётов на санях в космосе. Даёт некоторую защиту от ударов астероидов.

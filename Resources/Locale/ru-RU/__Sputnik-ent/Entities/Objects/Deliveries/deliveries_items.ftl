@@ -1,2 +1,2 @@
-ent-MailSpamLetter = spam letter
-    .desc = Even space isn't safe from junk mail.
+ent-MailSpamLetter = письмо со спамом
+    .desc = Даже в космосе от спама не скрыться.

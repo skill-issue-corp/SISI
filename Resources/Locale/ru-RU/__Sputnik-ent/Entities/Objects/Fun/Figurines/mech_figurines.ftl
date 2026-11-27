@@ -1,38 +1,38 @@
 ent-BaseFigurineMech = { ent-BaseFigurine }
     .desc = { ent-BaseFigurine.desc }
 
-ent-ToyRipley = ripley toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 1/12' is written on the back.
+ent-ToyRipley = игрушечный рипли
+    .desc = Игровая фигурка Мини-Меха! На спине написано «Мех № 1/12».
 
-ent-ToyFireRipley = fire ripley
-    .desc = Mini-Mecha action figure! 'Mecha No. 2/12' is written on the back.
+ent-ToyFireRipley = пожарный рипли
+    .desc = Игровая фигурка Мини-Меха! На спине написано «Мех № 2/12».
 
-ent-ToyDeathRipley = deathripley toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 3/12' is written on the back.
+ent-ToyDeathRipley = игрушечный рипли смерти
+    .desc = Игровая фигурка Мини-Меха! На спине написано «Мех № 3/12».
 
-ent-ToyGygax = gygax toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 4/12' is written on the back.
+ent-ToyGygax = игрушечный гигакс
+    .desc = Игровая фигурка Мини-Меха! На спине написано «Мех № 4/12».
 
-ent-ToyDurand = durand toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 5/12' is written on the back.
+ent-ToyDurand = игрушечный дюранд
+    .desc = Игровая фигурка Мини-Меха! На спине написано «Мех № 5/12».
 
-ent-ToyHonk = H.O.N.K. toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 6/12' is written on the back.
+ent-ToyHonk = игрушечный Х.О.Н.К.
+    .desc = Игровая фигурка Мини-Меха! На спине написано «Мех № 6/12».
 
-ent-ToyMarauder = marauder toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 7/12' is written on the back.
+ent-ToyMarauder = игрушечный мародёр
+    .desc = Игровая фигурка Мини-Меха! На спине написано «Мех № 7/12».
 
-ent-ToySeraph = seraph toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 8/12' is written on the back.
+ent-ToySeraph = игрушечный серафим
+    .desc = Игровая фигурка Мини-Меха! На спине написано «Мех № 8/12».
 
-ent-ToyMauler = mauler toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 9/12' is written on the back.
+ent-ToyMauler = игрушечный маулер
+    .desc = Игровая фигурка Мини-Меха! На спине написано «Мех № 9/12».
 
-ent-ToyOdysseus = odysseus toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 10/12' is written on the back.
+ent-ToyOdysseus = игрушечный одиссей
+    .desc = Игровая фигурка Мини-Меха! На спине написано «Мех № 10/12».
 
-ent-ToyPhazon = phazon toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 11/12' is written on the back.
+ent-ToyPhazon = игрушечный фазон
+    .desc = Игровая фигурка Мини-Меха! На спине написано «Мех № 11/12».
 
-ent-ToyReticence = reticence toy
-    .desc = Mini-Mecha action figure! 'Mecha No. 12/12' is written on the back.
+ent-ToyReticence = игрушечный ретисенс
+    .desc = Игровая фигурка Мини-Меха! На спине написано «Мех № 12/12».

@@ -1,38 +1,40 @@
 ## CREW EXAMINES
-cosmic-examine-text-contraband = [color=#4cabb3]This is highly illegal contraband with unknown properties![/color]
-cosmic-examine-text-basic = [color=#4cabb3]This thing should not exist[/color]
-cosmic-examine-text-glyphs = [color=#4cabb3]The etched lines are deeply unnerving to gaze upon.[/color]
-cosmic-examine-text-abilityblank = [color=#4cabb3]Their catatonic eyes pulse with wicked light![/color]
-cosmic-examine-text-abilitylapse = [color=#4cabb3]They look like they're seeing something not meant to be seen. Not by anyone.[/color]
-cosmic-examine-text-malignecho = [color=#4cabb3]An echo in the membrane of realspace — it appears to be fading quickly. Something is amiss aboard the station![/color]
-cosmic-examine-text-imposition = [color=#4cabb3]A barrier of astral power wards them from injury![/color]
-cosmic-examine-text-chantry = [color=#4cabb3]You get the horrific feeling that there's somebody trapped inside![/color]
-cosmic-examine-text-effigy = [color=#4cabb3]It radiates unstable anomalous energy![/color]
-cosmic-examine-text-god = [color=#4cabb3]the end is the end is the end is the end is the end is the end is the end is the end is the end is the end is[/color]
-cosmic-examine-text-subtle-mark = [color=#4cabb3]Ripples of otherworldly energy flicker within their eyes.[/color]
-cosmic-examine-text-mote = [color=#4cabb3]Feels hard-yet-malleable, as though you could crush it with your bare hands.[/color]
-cosmic-examine-text-sign = [color=#4cabb3]The training didn't say anything about that kind of warning signs.[/color]
+cosmic-examine-text-contraband = [color=#4cabb3]Это строго запрещённая контрабанда с неизвестными свойствами![/color]
+cosmic-examine-text-basic = [color=#4cabb3]Эта вещь не должна существовать[/color]
+cosmic-examine-text-glyphs = [color=#4cabb3]Выгравированные линии невыносимо тревожат взгляд.[/color]
+cosmic-examine-text-abilityblank = [color=#4cabb3]В застывших глазах пульсирует зловещий свет![/color]
+cosmic-examine-text-abilitylapse = [color=#4cabb3]Так смотрят на то, чего никому не дано увидеть. Вообще никому.[/color]
+cosmic-examine-text-malignecho = [color=#4cabb3]Эхо на границе реального пространства — оно быстро угасает. На станции творится неладное![/color]
+cosmic-examine-text-imposition = [color=#4cabb3]Барьер астральной силы защищает от ранений![/color]
+cosmic-examine-text-chantry = [color=#4cabb3]Вас охватывает ужасное чувство: внутри кто-то заперт![/color]
+cosmic-examine-text-effigy = [color=#4cabb3]Излучает нестабильную аномальную энергию![/color]
+cosmic-examine-text-god = [color=#4cabb3]конец есть конец есть конец есть конец есть конец есть конец есть конец есть конец есть конец есть конец есть[/color]
+cosmic-examine-text-subtle-mark = [color=#4cabb3]В глазах мерцает рябь потусторонней энергии.[/color]
+cosmic-examine-text-mote = [color=#4cabb3]На ощупь твёрдая, но податливая. Кажется, её можно раздавить голыми руками.[/color]
+cosmic-examine-text-sign = [color=#4cabb3]На инструктаже о таких знаках опасности не говорили.[/color]
 
 ## CULTIST EXAMINES
-cosmic-examine-text-forthecult = [color=#4cabb3]This is our doing. As things should be.[/color]
-cosmic-examine-text-cultentity = [color=#4cabb3]A powerful ally.[/color]
-cosmic-examine-text-culteffigy = [color=#4cabb3]This may prove useful.[/color]
-cosmic-examine-text-sign-cult = [color=#4cabb3]It warns about us. We are the hazard.[/color]
+cosmic-examine-text-forthecult = [color=#4cabb3]Это наше дело. Как и должно быть.[/color]
+cosmic-examine-text-cultentity = [color=#4cabb3]Могущественный союзник.[/color]
+cosmic-examine-text-culteffigy = [color=#4cabb3]Это может пригодиться.[/color]
+cosmic-examine-text-sign-cult = [color=#4cabb3]Он предупреждает о нас. Опасность — это мы.[/color]
 
 ## GLYPH EXAMINES
 cosmic-examine-glyph-cultcount = {$COUNT ->
-    [1] [color=#4cabb3]Requires only a single cultist to activate.[/color]
-    *[other] [color=#4cabb3]Requires {$COUNT} cultists to activate.[/color]
+    [1] [color=#4cabb3]Для активации достаточно одного культиста.[/color]
+    [one] [color=#4cabb3]Для активации нужен {$COUNT} культист.[/color]
+    [few] [color=#4cabb3]Для активации нужны {$COUNT} культиста.[/color]
+    *[many] [color=#4cabb3]Для активации нужны {$COUNT} культистов.[/color]
 }
 
-cosmic-examine-glyph-truth = [color=#4cabb3]Instills the pure, indelible truth. Able to convert absolutely anyone to join our ranks.[/color]
-cosmic-examine-glyph-knowledge = [color=#4cabb3]Instills the spark of indelible knowledge. Able to convert most to join our ranks.[/color]
-cosmic-examine-glyph-cessation = [color=#4cabb3]Transmutes a portable gas scrubber into a Vacuous Spire for our use.[/color]
-cosmic-examine-glyph-projection = [color=#4cabb3]Allows us to ascend in a temporary astral form to spy on those around us.[/color]
-cosmic-examine-glyph-blades = [color=#4cabb3]Transmutes and extrudes sharp objects into more lethal weaponry.[/color]
-cosmic-examine-glyph-warding = [color=#4cabb3]Transmutes pressure-resistant clothing into entropic garb.[/color]
+cosmic-examine-glyph-truth = [color=#4cabb3]Внушает чистую, неизгладимую истину. Способен обратить в наши ряды кого угодно.[/color]
+cosmic-examine-glyph-knowledge = [color=#4cabb3]Зажигает искру неизгладимого знания. Способен обратить в наши ряды почти любого.[/color]
+cosmic-examine-glyph-cessation = [color=#4cabb3]Трансмутирует портативный скруббер в Пустотный Шпиль, которым мы можем воспользоваться.[/color]
+cosmic-examine-glyph-projection = [color=#4cabb3]Позволяет нам временно вознестись в астральной форме и понаблюдать за окружающими.[/color]
+cosmic-examine-glyph-blades = [color=#4cabb3]Трансмутирует острые предметы, вытягивая их в более смертоносное оружие.[/color]
+cosmic-examine-glyph-warding = [color=#4cabb3]Трансмутирует одежду, устойчивую к перепадам давления, в энтропийное облачение.[/color]
 
 ## TRANSMUTE EXAMINES
-cosmic-examine-transmutable = This can be transmuted into [color=#4cabb3]{$result}[/color].
-cosmic-examine-transmutable-empowerment = [color=#4cabb3]Only empowered cultists can transmute this.[/color]
-cosmic-examine-transmutable-verb-text = Transmutability.
+cosmic-examine-transmutable = Это можно трансмутировать в [color=#4cabb3]{$result}[/color].
+cosmic-examine-transmutable-empowerment = [color=#4cabb3]Трансмутировать это могут только усиленные культисты.[/color]
+cosmic-examine-transmutable-verb-text = Трансмутация.

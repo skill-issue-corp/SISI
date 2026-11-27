@@ -1,7 +1,7 @@
 ent-DimensionPot = { ent-PottedPlantBase }
     .desc = { ent-PottedPlantBase.desc }
-    .suffix = Dimension
+    .suffix = Измерение
 
 ent-DimensionPotExitPortal = { ent-PortalBlue }
     .desc = { ent-PortalBlue.desc }
-    .suffix = Dimension pot exit
+    .suffix = Выход из пространственного горшка

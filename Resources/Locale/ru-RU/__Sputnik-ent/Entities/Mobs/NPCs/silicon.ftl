@@ -4,26 +4,26 @@ ent-MobRobotic = { ent-BaseMob }
 ent-MobSiliconBase = { ent-MobRobotic }
     .desc = { ent-MobRobotic.desc }
 
-ent-MobFireBot = firebot
-    .desc = A little fire extinguishing bot. He looks rather anxious.
+ent-MobFireBot = пожаробот
+    .desc = Маленький бот-пожарный. С виду довольно встревожен.
 
-ent-MobHonkBot = honkbot
-    .desc = Horrifying.
+ent-MobHonkBot = хонкбот
+    .desc = Ужасает.
 
-ent-MobJonkBot = jonkbot
-    .desc = Horrifying.
+ent-MobJonkBot = кринжбот
+    .desc = Ужасает.
 
-ent-MobCleanBot = cleanbot
-    .desc = The creep of automation now threatening space janitors.
+ent-MobCleanBot = чистобот
+    .desc = Автоматизация добралась и до космических уборщиков.
 
-ent-MobMedibot = medibot
-    .desc = No substitute for a doctor, but better than nothing.
+ent-MobMedibot = медбот
+    .desc = Врача не заменит, но лучше, чем ничего.
 
-ent-MobMimeBot = mimebot
-    .desc = Why not give the mimebot a friendly wave?
+ent-MobMimeBot = мимобот
+    .desc = Почему бы не помахать мимоботу по-дружески?
 
-ent-MobSupplyBot = supplybot
-    .desc = Delivers cargo!
+ent-MobSupplyBot = грузобот
+    .desc = Доставляет грузы!
 
-ent-MobHugBot = hugbot
-    .desc = Awww, who needs a hug?
+ent-MobHugBot = обнимобот
+    .desc = Ути, кого тут обнять?

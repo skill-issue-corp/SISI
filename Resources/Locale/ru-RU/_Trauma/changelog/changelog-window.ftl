@@ -1,2 +1,2 @@
-changelog-tab-title-Traumalog = Trauma
-changelog-tab-title-TraumaAdmin = Trauma Admin
+changelog-tab-title-Traumalog = Травма
+changelog-tab-title-TraumaAdmin = Травма Админы

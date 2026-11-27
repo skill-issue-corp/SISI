@@ -1,11 +1,11 @@
-ent-BibleQuaran = Quaran
-    .desc = Inshallah.
+ent-BibleQuaran = Коран
+    .desc = Иншаллах.
 
-ent-BibleTanakh = Tanakh
-    .desc = Choose life, that you and your offspring may live.
+ent-BibleTanakh = Танах
+    .desc = Избери жизнь, дабы жил ты и потомство твоё.
 
-ent-BibleSlabClockwork = clockwork slab
-    .desc = A strange metal tablet. A clock in the center turns around and around.
+ent-BibleSlabClockwork = заводная скрижаль
+    .desc = Странная металлическая табличка. Часы посередине крутятся без остановки.
 
-ent-ChaplainUndeterminedBible = bluespace scripture beacon
-    .desc = Though I walk through the valley of the shadow of death I will fear no evil, for you are with me.
+ent-ChaplainUndeterminedBible = блюспейс-маяк священных писаний
+    .desc = Если я пойду и долиною смертной тени, не убоюсь зла, потому что ты со мной.

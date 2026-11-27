@@ -1,2 +1,2 @@
-ent-SaltLine = salt line
-    .desc = A line of salt. Keeps the spirits away, or so they say.
+ent-SaltLine = линия соли
+    .desc = Полоска соли. Отпугивает духов. По крайней мере, так говорят.

@@ -1,21 +1,21 @@
-ent-MobCivilian = civilian
-    .desc = A miserable pile of secrets.
+ent-MobCivilian = гражданский
+    .desc = Жалкая кучка секретов.
 
-ent-MobSalvager = salvager
+ent-MobSalvager = утилизатор
     .desc = { ent-MobHuman.desc }
 
-ent-MobSpirate = spirate
-    .desc = Yarr!
+ent-MobSpirate = космопират
+    .desc = Ар-р!
 
-ent-MobSyndicateFootsoldier = syndicate footsoldier
+ent-MobSyndicateFootsoldier = пехотинец синдиката
     .desc = { ent-MobHuman.desc }
 
-ent-MobSyndicateFootsoldierPilot = syndicate shuttle pilot
+ent-MobSyndicateFootsoldierPilot = пилот шаттла синдиката
     .desc = { ent-MobSyndicateFootsoldier.desc }
 
-ent-SalvageHumanCorpse = unidentified corpse
-    .desc = I think they're dead.
-    .suffix = Dead
+ent-SalvageHumanCorpse = неопознанный труп
+    .desc = Кажется, это труп.
+    .suffix = Мёртв
 
-ent-MobCluwne = person
-    .desc = A polymorphed unfortunate.
+ent-MobCluwne = человек
+    .desc = Несчастный, изменивший облик.

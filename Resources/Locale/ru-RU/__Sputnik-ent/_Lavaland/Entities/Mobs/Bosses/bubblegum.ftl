@@ -1,2 +1,2 @@
-ent-LavalandBossBubblegum = Bubblegum
-    .desc = In what passes for a hierarchy among slaughter demons, this one is king.
+ent-LavalandBossBubblegum = Бубльгум
+    .desc = В том, что у демонов резни сходит за иерархию, этот - король.

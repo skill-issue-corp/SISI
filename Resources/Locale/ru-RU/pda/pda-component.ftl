@@ -23,51 +23,51 @@ comp-pda-ui = ID: [color=white]{$owner}[/color], [color=yellow]{$jobTitle}[/colo
 
 comp-pda-ui-blank = ID:
 
-comp-pda-ui-owner = Owner: [color=white]{$actualOwnerName}[/color]
+comp-pda-ui-owner = Владелец: [color=white]{$actualOwnerName}[/color]
 
-comp-pda-io-program-list-button = Programs
+comp-pda-io-program-list-button = Программы
 
-comp-pda-io-settings-button = Settings
+comp-pda-io-settings-button = Настройки
 
-comp-pda-io-program-fallback-title = Program
+comp-pda-io-program-fallback-title = Программа
 
-comp-pda-io-no-programs-available = No Programs Available
+comp-pda-io-no-programs-available = Нет Доступных Программ
 
-pda-bound-user-interface-show-uplink-title = Open Uplink
-pda-bound-user-interface-show-uplink-description = Access your uplink
+pda-bound-user-interface-show-uplink-title = Открыть Аплинк
+pda-bound-user-interface-show-uplink-description = Открыть ваш аплинк
 
-pda-bound-user-interface-lock-uplink-title = Lock Uplink
-pda-bound-user-interface-lock-uplink-description = Prevent anyone from accessing your uplink without the code
+pda-bound-user-interface-lock-uplink-title = Заблокировать Аплинк
+pda-bound-user-interface-lock-uplink-description = Закрыть доступ к аплинку для всех, кто не знает кода
 
-comp-pda-ui-menu-title = PDA
+comp-pda-ui-menu-title = КПК
 
-comp-pda-ui-footer = Personal Digital Assistant
+comp-pda-ui-footer = Карманный Персональный Компьютер
 
-comp-pda-ui-station = Station: [color=white]{$station}[/color]
+comp-pda-ui-station = Станция: [color=white]{$station}[/color]
 
-comp-pda-ui-station-alert-level = Alert Level: [color={ $color }]{ $level }[/color]
+comp-pda-ui-station-alert-level = Уровень Тревоги: [color={ $color }]{ $level }[/color]
 
-comp-pda-ui-station-alert-level-instructions = Instructions: [color=white]{ $instructions }[/color]
+comp-pda-ui-station-alert-level-instructions = Инструкции: [color=white]{ $instructions }[/color]
 
-comp-pda-ui-station-time = Shift duration: [color=white]{ $time }[/color]
+comp-pda-ui-station-time = Длительность смены: [color=white]{ $time }[/color]
 
-comp-pda-ui-eject-id-button = Eject ID
+comp-pda-ui-eject-id-button = Извлечь ID-карту
 
-comp-pda-ui-eject-pen-button = Eject Pen
+comp-pda-ui-eject-pen-button = Извлечь Ручку
 
-comp-pda-ui-ringtone-button = Ringtone
+comp-pda-ui-ringtone-button = Мелодия звонка
 
-comp-pda-ui-ringtone-button-description = Change your PDA's ringtone
+comp-pda-ui-ringtone-button-description = Сменить мелодию звонка вашего КПК
 
-comp-pda-ui-toggle-flashlight-button = Toggle Flashlight
+comp-pda-ui-toggle-flashlight-button = Переключить Фонарик
 
-pda-bound-user-interface-music-button = Music Instrument
+pda-bound-user-interface-music-button = Музыкальный Инструмент
 
-pda-bound-user-interface-music-button-description = Play music on your PDA
+pda-bound-user-interface-music-button-description = Играть музыку на вашем КПК
 
-comp-pda-ui-unknown = Unknown
+comp-pda-ui-unknown = Неизвестно
 
-comp-pda-ui-unassigned = Unassigned
+comp-pda-ui-unassigned = Без должности
 
-pda-notification-message = [font size=12][bold]PDA[/bold] { $header }: [/font]
-    "{ $message }"
+pda-notification-message = [font size=12][bold]КПК[/bold] { $header }: [/font]
+    «{ $message }»

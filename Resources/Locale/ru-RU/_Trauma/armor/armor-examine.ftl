@@ -1,10 +1,10 @@
--protection = damage { $protect ->
-    [true] reduced
-    *[false] [color=red]increased[/color]
-} by [color=lightblue]{TOSTRING($value, "F1")}%[/color].
+-protection = урон { $protect ->
+    [true] снижен
+    *[false] [color=red]повышен[/color]
+} на [color=lightblue]{TOSTRING($value, "F1")}%[/color].
 
 armor-coefficient-value-trauma = - [color=yellow]{$type}[/color] { -protection(protect: $protect, value: $value) }
 
-stamina-resistance-coefficient-value-trauma = - [color=lightyellow]Stamina[/color] { -protection(protect: $protect, value: $value) }
+stamina-resistance-coefficient-value-trauma = - [color=lightyellow]Выносливость[/color] { -protection(protect: $protect, value: $value) }
 
-armor-damage-type-ballistic = Ballistic
+armor-damage-type-ballistic = Баллистика

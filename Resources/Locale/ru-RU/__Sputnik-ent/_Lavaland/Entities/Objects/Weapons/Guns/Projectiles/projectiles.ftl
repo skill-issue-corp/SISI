@@ -1,4 +1,4 @@
-ent-RapidBulletKinetic = rapid kinetic bolt
+ent-RapidBulletKinetic = скоростной кинетический заряд
     .desc = { ent-BulletKinetic.desc }
 
 ent-WeakBulletKinetic = { ent-RapidBulletKinetic }

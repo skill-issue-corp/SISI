@@ -4,29 +4,29 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-block-game-1 = Legally distinct!
-advertisement-block-game-2 = What the hell is a T-spin?
-advertisement-block-game-3 = These blocks aren't going to clear themselves!
-advertisement-block-game-4 = Beep boop! Bwoooop!
-advertisement-block-game-5 = Let's play a game!
-advertisement-block-game-6 = 6 whole colors of gameplay!
-advertisement-block-game-7 = Hot 8-bit action!
-advertisement-block-game-8 = Blocks, blocks, blocks!
-advertisement-block-game-9 = Think YOU can claim the high score?
-advertisement-block-game-10 = Nanotrasen Block Game IS what TetrISN'T!
-advertisement-block-game-11 = Now with blast processing!
-advertisement-block-game-12 = Our lawyers are standing by!
-advertisement-block-game-13 = Hallelujah, it's raining blocks!
+advertisement-block-game-1 = С юридической точки зрения совсем другая игра!
+advertisement-block-game-2 = Что за хрень этот T-спин?
+advertisement-block-game-3 = Сами себя эти блоки не уберут!
+advertisement-block-game-4 = Бип-буп! Вжууух!
+advertisement-block-game-5 = Давайте сыграем!
+advertisement-block-game-6 = Целых 6 цветов в игре!
+advertisement-block-game-7 = Горячий 8-битный экшен!
+advertisement-block-game-8 = Блоки, блоки, блоки!
+advertisement-block-game-9 = Думаете, это ВЫ побьёте рекорд?
+advertisement-block-game-10 = Блоки NanoTrasen - всё, чем Тетрис НЕ ЯВЛЯЕТСЯ!
+advertisement-block-game-11 = Теперь со взрывной обработкой!
+advertisement-block-game-12 = Наши юристы наготове!
+advertisement-block-game-13 = Аллилуйя, с неба сыплются блоки!
 
-thankyou-block-game-1 = Play again soon!
-thankyou-block-game-2 = Well played!
-thankyou-block-game-3 = Just one more game?
-thankyou-block-game-4 = Stopping so soon?
-thankyou-block-game-5 = The blocks will miss you.
-thankyou-block-game-6 = Thanks for playin'!
-thankyou-block-game-7 = Come back soon!
-thankyou-block-game-8 = Beep bwooop!
-thankyou-block-game-9 = There's always time for another game!
-thankyou-block-game-10 = Don't give up now!
-thankyou-block-game-11 = There are always more blocks!
-thankyou-block-game-12 = The blocks await your return!
+thankyou-block-game-1 = Сыграйте ещё как-нибудь!
+thankyou-block-game-2 = Хорошая игра!
+thankyou-block-game-3 = Может, ещё одну партию?
+thankyou-block-game-4 = Уже уходите?
+thankyou-block-game-5 = Блоки будут скучать по вам.
+thankyou-block-game-6 = Спасибки за игру!
+thankyou-block-game-7 = Возвращайтесь скорее!
+thankyou-block-game-8 = Бип-вжууух!
+thankyou-block-game-9 = Всегда найдётся время на ещё одну партию!
+thankyou-block-game-10 = Не сдавайтесь сейчас!
+thankyou-block-game-11 = Блоки никогда не кончатся!
+thankyou-block-game-12 = Блоки ждут вашего возвращения!

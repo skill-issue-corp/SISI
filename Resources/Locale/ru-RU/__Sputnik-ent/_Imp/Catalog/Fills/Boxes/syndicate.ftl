@@ -1,14 +1,14 @@
-ent-LeviathanExplosiveRocketBox = Leviathan rocket box (explosive)
-    .desc = 4 highly destructive rockets stored in a concerningly fragile container.
+ent-LeviathanExplosiveRocketBox = коробка ракет для Leviathan (фугасные)
+    .desc = 4 разрушительные ракеты в тревожно хрупкой упаковке.
 
-ent-LeviathanIncendiaryRocketBox = Leviathan rocket box (incendiary)
-    .desc = 4 rockets filled with highly flammable fuel stored in a concerningly fragile container.
+ent-LeviathanIncendiaryRocketBox = коробка ракет для Leviathan (зажигательные)
+    .desc = 4 ракеты с легковоспламеняющимся топливом в тревожно хрупкой упаковке.
 
-ent-LeviathanConcussionRocketBox = Leviathan rocket box (concussive)
-    .desc = 4 tungsten projectiles stored in a flimsy container. It feels as if they'll tear out through the bottom.
+ent-LeviathanConcussionRocketBox = коробка ракет для Leviathan (оглушающие)
+    .desc = 4 вольфрамовых снаряда в хлипкой упаковке. Кажется, они вот-вот провалятся через дно.
 
-ent-AdderBox = secure adder crate
+ent-AdderBox = защищённый ящик adder
     .desc = { ent-BriefcaseWeaponSmall.desc }
 
-ent-AkurraBox = secure akurra crate
+ent-AkurraBox = защищённый ящик akurra
     .desc = { ent-BriefcaseWeapon.desc }

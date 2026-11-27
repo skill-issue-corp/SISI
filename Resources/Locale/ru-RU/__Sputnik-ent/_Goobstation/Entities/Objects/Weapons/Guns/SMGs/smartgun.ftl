@@ -1,2 +1,2 @@
-ent-WeaponSubMachineSmart = Abielle Smart-SMG
-    .desc = An experiment in smart-weapon technology that guides bullets towards the target the gun was aimed at when fired. While the tracking functions work fine, the gun is prone to insanely wide spread thanks to its practically non-existant barrel.
+ent-WeaponSubMachineSmart = Умный ПП Abielle
+    .desc = Экспериментальное умное оружие, которое направляет пули в цель, выбранную в момент выстрела. Наведение работает как следует, но из-за практически отсутствующего ствола разброс просто безумный.

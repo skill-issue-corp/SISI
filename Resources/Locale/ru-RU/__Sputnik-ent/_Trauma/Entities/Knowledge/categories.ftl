@@ -16,8 +16,8 @@ ent-BaseScientificKnowledge = { ent-BaseKnowledge }
 ent-BaseRecipesKnowledge = { ent-BaseKnowledge }
     .desc = { ent-BaseKnowledge.desc }
 
-ent-BaseLanguageKnowledge = Language
-    .desc = The ability to speak and understand a language.
+ent-BaseLanguageKnowledge = Язык
+    .desc = Умение говорить на языке и понимать его.
 
 ent-BaseLanguageKnowledgeAntag = { ent-BaseLanguageKnowledge }
     .desc = { ent-BaseLanguageKnowledge.desc }

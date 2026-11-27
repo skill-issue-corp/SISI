@@ -1,23 +1,23 @@
-ent-EngineeringTechFabCircuitboard = engineering techfab machine board
-    .desc = A machine printed circuit board for a engineering techfab.
+ent-EngineeringTechFabCircuitboard = плата инженерного техфаба
+    .desc = Печатная плата инженерного техфаба.
 
-ent-CargoTechFabCircuitboard = cargo techfab machine board
-    .desc = A machine printed circuit board for a cargo techfab.
+ent-CargoTechFabCircuitboard = плата техфаба карго
+    .desc = Печатная плата техфаба карго.
 
-ent-ScienceTechFabCircuitboard = science techfab machine board
-    .desc = A machine printed circuit board for a science techfab.
+ent-ScienceTechFabCircuitboard = плата научного техфаба
+    .desc = Печатная плата научного техфаба.
 
-ent-ServiceTechFabCircuitboard = service techfab machine board
-    .desc = A machine printed circuit board for a service techfab.
+ent-ServiceTechFabCircuitboard = плата сервисного техфаба
+    .desc = Печатная плата сервисного техфаба.
 
-ent-TeslaCoilCircuitboard = tesla coil board
+ent-TeslaCoilCircuitboard = плата катушки теслы
     .desc = { ent-BaseMachineCircuitboard.desc }
 
-ent-RadiationCollectorCircuitboard = radiation collector board
+ent-RadiationCollectorCircuitboard = плата коллектора радиации
     .desc = { ent-BaseMachineCircuitboard.desc }
 
-ent-EnergyChemDispenserMachineCircuitboard = energy chem dispenser machine board
-    .desc = A machine printed circuit board for an energy chem dispenser.
+ent-EnergyChemDispenserMachineCircuitboard = плата энергетического раздатчика химикатов
+    .desc = Печатная плата энергетического раздатчика химикатов.
 
-ent-TelecomTransmitterCircuitboard = telecommunication transmitter machine board
-    .desc = A machine printed circuit board for an telecommunication transmitter.
+ent-TelecomTransmitterCircuitboard = плата телекоммуникационного передатчика
+    .desc = Печатная плата телекоммуникационного передатчика.

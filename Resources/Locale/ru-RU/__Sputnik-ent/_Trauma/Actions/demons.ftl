@@ -1,8 +1,8 @@
-ent-ActionDemonRift = Demon Blink
-    .desc = Click somewhere to teleport to it.
+ent-ActionDemonRift = Демонический Скачок
+    .desc = Нажмите в любом месте, чтобы туда телепортироваться.
 
-ent-ActionDemonRepulse = Demonic Pulse
-    .desc = Release a pulse of raw demonic energy, pushing everyone away from you.
+ent-ActionDemonRepulse = Демонический Импульс
+    .desc = Высвобождает импульс чистой демонической энергии, отбрасывающий всех от вас.
 
-ent-ActionDemonGaze = Demon Gaze
-    .desc = Generates a massive death beam that eradicates everything in it's path. Has it's own gravitational pull, sucking in new victims.
+ent-ActionDemonGaze = Демонический Взгляд
+    .desc = Создаёт огромный луч смерти, уничтожающий всё на своём пути. Его собственное притяжение затягивает новых жертв.

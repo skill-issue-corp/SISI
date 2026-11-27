@@ -1,44 +1,44 @@
-ent-PartModsuit = MOD part
-    .desc = A part used in MOD construction.
+ent-PartModsuit = деталь МОД
+    .desc = Деталь для сборки модсьюта.
 
-ent-ModsuitChestplate = MOD chestplate
+ent-ModsuitChestplate = нагрудник модсьюта
     .desc = { ent-PartModsuit.desc }
 
-ent-ModsuitBoots = MOD boots
+ent-ModsuitBoots = ботинки модсьюта
     .desc = { ent-PartModsuit.desc }
 
-ent-ModsuitHelmet = MOD helmet
+ent-ModsuitHelmet = шлем модсьюта
     .desc = { ent-PartModsuit.desc }
 
-ent-ModsuitGauntlets = MOD gauntlets
+ent-ModsuitGauntlets = перчатки модсьюта
     .desc = { ent-PartModsuit.desc }
 
-ent-ModsuitShell = MOD shell
+ent-ModsuitShell = корпус МОД
     .desc = { ent-PartModsuit.desc }
 
-ent-ModsuitPlatingExternal = MOD standard external plating
-    .desc = A part used in MOD construction.
+ent-ModsuitPlatingExternal = стандартная внешняя обшивка МОД
+    .desc = Деталь для сборки модсьюта.
 
-ent-ModsuitPlatingParamedic = MOD standard paramedic 'sanitater' plating
-    .desc = A part used in MOD construction.
+ent-ModsuitPlatingParamedic = стандартная обшивка МОД парамедика «санитар»
+    .desc = Деталь для сборки модсьюта.
 
-ent-ModsuitPlatingEngineer = MOD standard engineer 'sapper' plating
-    .desc = A part used in MOD construction.
+ent-ModsuitPlatingEngineer = стандартная обшивка МОД инженера «сапёр»
+    .desc = Деталь для сборки модсьюта.
 
-ent-ModsuitPlatingSecurity = MOD standard security 'soldat' plating
-    .desc = A part used in MOD construction.
+ent-ModsuitPlatingSecurity = стандартная обшивка МОД службы безопасности «солдат»
+    .desc = Деталь для сборки модсьюта.
 
-ent-ModsuitPlatingHeadOfSecurity = MOD standard head of security 'bulwark' plating
-    .desc = A part used in MOD construction.
+ent-ModsuitPlatingHeadOfSecurity = стандартная обшивка МОД главы службы безопасности «бастион»
+    .desc = Деталь для сборки модсьюта.
 
-ent-ModsuitPlatingCaptain = MOD standard captain's magnate plating
-    .desc = A part used in MOD construction.
+ent-ModsuitPlatingCaptain = стандартная обшивка МОД капитана «магнат»
+    .desc = Деталь для сборки модсьюта.
 
-ent-ModsuitPlatingRD = MOD standard RD's 'minerva' plating
-    .desc = A part used in MOD construction.
+ent-ModsuitPlatingRD = стандартная обшивка МОД НР «минерва»
+    .desc = Деталь для сборки модсьюта.
 
-ent-ModsuitPlatingAtmostech = MOD standard atmospheric technician's 'aeolus' plating
-    .desc = A part used in MOD construction.
+ent-ModsuitPlatingAtmostech = стандартная обшивка МОД атмосферного техника «эол»
+    .desc = Деталь для сборки модсьюта.
 
-ent-ModsuitCoreStandard = MOD standard core
-    .desc = Growing in the most lush, fertile areas of the planet Sprout, there is a crystal known as the Heartbloom. These rare, organic piezoelectric crystals are of incredible cultural significance to the artist castes of the Ethereals, owing to their appearance; which is exactly similar to that of an Ethereal's heart. Which one you have in your suit is unclear, but either way, it's been repurposed to be an internal power source for a Modular Outerwear Device.
+ent-ModsuitCoreStandard = стандартное ядро МОД
+    .desc = В самых пышных и плодородных краях планеты Росток растёт кристалл Сердцецвет. Эти редкие органические пьезоэлектрические кристаллы чрезвычайно важны для каст художников Эфириалов: с виду они точь-в-точь как сердце Эфириала. Неясно, что именно досталось вашему скафандру, но в любом случае его приспособили под внутренний источник питания для Модульного Одежного Устройства.

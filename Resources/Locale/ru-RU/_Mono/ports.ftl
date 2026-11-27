@@ -1,2 +1,2 @@
-signal-port-fire-armament-name = Fire Armament
-signal-port-fire-armament-description = Controls Space Artillery's firing mechanism.
+signal-port-fire-armament-name = Огонь из Вооружения
+signal-port-fire-armament-description = Управляет спусковым механизмом Космической Артиллерии.

@@ -1,78 +1,78 @@
-ent-OrganDubiousBase = mysterious gland
-    .desc = Suspicious alien gland, replaces the heart.
+ent-OrganDubiousBase = загадочная железа
+    .desc = Подозрительная инопланетная железа, заменяет сердце.
 
 ent-OrganDubiousHealth = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Healing
+    .suffix = Исцеление
 
 ent-OrganDubiousAA = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = All Access
+    .suffix = Полный Доступ
 
 ent-OrganDubiousShock = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Shocking
+    .suffix = Электрошок
 
 ent-OrganDubiousInvisible = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Invisible
+    .suffix = Невидимость
 
 ent-OrganDubiousGoliath = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Goliath
+    .suffix = Голиаф
 
 ent-OrganDubiousSpaceAdaptation = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Space
+    .suffix = Космос
 
 ent-OrganDubiousArtifact = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Artifact
+    .suffix = Артефакт
 
 ent-OrganDubiousScrambleDna = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = DNA Scrambler
+    .suffix = Мешалка ДНК
 
 ent-OrganDubiousScrambleLocation = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Teleport
+    .suffix = Телепортация
 
 ent-OrganDubiousSpiderEggs = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Spiders
+    .suffix = Пауки
 
 ent-OrganDubiousSlimeEggs = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Slimes
+    .suffix = Слаймы
 
 ent-OrganDubiousEMP = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = EMP
+    .suffix = ЭМИ
 
 ent-OrganDubiousGravityWell = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Gravity
+    .suffix = Гравитация
 
 ent-OrganDubiousFlash = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Flash
+    .suffix = Вспышка
 
 ent-OrganDubiousSmoke = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Smoke
+    .suffix = Дым
 
 ent-OrganDubiousGas = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Gases
+    .suffix = Газы
 
 ent-OrganDubiousSteptriggerImmune = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Noslip
+    .suffix = Нескользящий
 
 ent-OrganDubiousVentcrawler = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Ventcrawl
+    .suffix = Лазание по Вентиляции
 
 ent-OrganDubiousRepairable = { ent-OrganDubiousBase }
     .desc = { ent-OrganDubiousBase.desc }
-    .suffix = Repairable
+    .suffix = Ремонтопригодная

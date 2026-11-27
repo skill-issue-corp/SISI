@@ -1,11 +1,11 @@
 ent-HolopadScienceXenobiology = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Xenobio
+    .suffix = Ксенобио
 
 ent-HolopadScienceGenetics = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Genetics
+    .suffix = Генетика
 
 ent-HolopadEngineeringReactor = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Reactor
+    .suffix = Реактор

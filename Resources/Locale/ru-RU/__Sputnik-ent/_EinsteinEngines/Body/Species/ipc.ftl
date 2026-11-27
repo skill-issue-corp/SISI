@@ -1,12 +1,12 @@
-ent-AppearanceIPC = IPC appearance
+ent-AppearanceIPC = внешность КПБ
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobIPC = Urist McPositronic
+ent-MobIPC = Урист МакПозитроник
     .desc = { ent-AppearanceIPC.desc }
 
 ent-OrganIPC = { "" }
     .desc = { "" }
-    .suffix = IPC
+    .suffix = КПБ
 
 ent-OrganIPCInternal = { ent-OrganIPC }
     .desc = { ent-OrganIPC.desc }
@@ -44,14 +44,14 @@ ent-OrganIPCFootLeft = { ent-OrganIPCExternal }
 ent-OrganIPCFootRight = { ent-OrganIPCExternal }
     .desc = { ent-OrganIPCExternal.desc }
 
-ent-OrganIPCEyes = robotic eyes
+ent-OrganIPCEyes = роботизированные глаза
     .desc = 01001001 00100000 01110011 01100101 01100101 00100000 01111001 01101111 01110101 00100001
 
-ent-OrganIPCTongue = vocal modulator
-    .desc = A vocal modulator, used to produce speech.
+ent-OrganIPCTongue = голосовой модулятор
+    .desc = Голосовой модулятор, используемый для воспроизведения речи.
 
-ent-OrganIPCEars = sonic receptors
+ent-OrganIPCEars = звуковые рецепторы
     .desc = { ent-OrganIPCInternal.desc }
 
-ent-OrganIPCPump = micro pump
-    .desc = A micro pump, used to circulate coolant.
+ent-OrganIPCPump = микронасос
+    .desc = Микронасос, обеспечивающий циркуляцию охлаждающей жидкости.

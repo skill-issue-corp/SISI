@@ -1,17 +1,17 @@
-ent-VinylPlayerCircuitboard = vinyl player machine board
-    .desc = A machine printed circuit board for a vinyl player.
+ent-VinylPlayerCircuitboard = плата винилового проигрывателя
+    .desc = Печатная плата винилового проигрывателя.
 
-ent-TapeDeckCircuitboard = tape deck machine board
-    .desc = A machine printed circuit board for a tape deck.
+ent-TapeDeckCircuitboard = плата кассетной деки
+    .desc = Печатная плата кассетной деки.
 
-ent-StationRadioServerCircuitboard = station radio server machine board
-    .desc = A machine printed circuit board for a station radio server.
+ent-StationRadioServerCircuitboard = плата сервера станционного радио
+    .desc = Печатная плата сервера станционного радио.
 
-ent-StationRadioRigCircuitboard = station radio rig machine board
-    .desc = A machine printed circuit board for a station radio rig.
+ent-StationRadioRigCircuitboard = плата оборудования станционного радио
+    .desc = Печатная плата оборудования станционного радио.
 
-ent-StationRadioCircuitboard = station radio machine board
-    .desc = A machine printed circuit board for a station radio receiver.
+ent-StationRadioCircuitboard = плата станционного радио
+    .desc = Печатная плата приёмника станционного радио.
 
-ent-VirologyServerMachineCircuitboard = virology server machine board
-    .desc = A machine printed circuit board for a virology server.
+ent-VirologyServerMachineCircuitboard = плата сервера вирусологии
+    .desc = Печатная плата сервера вирусологии.

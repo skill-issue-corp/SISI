@@ -1,43 +1,43 @@
-ent-SpawnMechRipley2 = Ripley APLU MK-II Spawner
+ent-SpawnMechRipley2 = Точка Спавна Рипли АПЛУ МК-II
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMechHonkerFilled = H.O.N.K. Spawner
+ent-SpawnMechHonkerFilled = Точка Спавна Х.О.Н.К.
     .desc = { ent-MarkerBase.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-SpawnMechClarke = Clarke Spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMechGygax = Gygax Spawner
+ent-SpawnMechClarke = Точка Спавна Кларка
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMechDurand = Durand Spawner
+ent-SpawnMechGygax = Точка Спавна Гигакса
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMechMarauder = Marauder Spawner
+ent-SpawnMechDurand = Точка Спавна Дюранда
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMechMarauderFilled = Marauder Spawner
-    .desc = { ent-MarkerBase.desc }
-    .suffix = Filled
-
-ent-SpawnMechSeraph = Seraph Spawner
+ent-SpawnMechMarauder = Точка Спавна Мародёра
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMechSeraphFilled = Seraph Spawner
+ent-SpawnMechMarauderFilled = Точка Спавна Мародёра
     .desc = { ent-MarkerBase.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-SpawnMechGygaxSyndie = Dark Gygax Spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMechGygaxSyndieFilled = Dark Gygax Spawner
-    .desc = { ent-MarkerBase.desc }
-    .suffix = Filled
-
-ent-SpawnMechMaulerSyndie = Mauler Spawner
+ent-SpawnMechSeraph = Точка Спавна Серафа
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMechMaulerSyndieFilled = Mauler Spawner
+ent-SpawnMechSeraphFilled = Точка Спавна Серафа
     .desc = { ent-MarkerBase.desc }
-    .suffix = Filled
+    .suffix = Заполнено
+
+ent-SpawnMechGygaxSyndie = Точка Спавна Тёмного Гигакса
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMechGygaxSyndieFilled = Точка Спавна Тёмного Гигакса
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Заполнено
+
+ent-SpawnMechMaulerSyndie = Точка Спавна Маулера
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMechMaulerSyndieFilled = Точка Спавна Маулера
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Заполнено

@@ -1,107 +1,107 @@
 ent-BaseChangelingAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
 
-ent-ActionEvolutionMenu = Open evolution menu
-    .desc = Opens the evolution menu.
+ent-ActionEvolutionMenu = Открыть меню эволюции
+    .desc = Открывает меню эволюции.
 
-ent-ActionAbsorbDNA = Absorb DNA
-    .desc = Absorb the target's DNA, husking them in the process. Costs 25 chemicals.
+ent-ActionAbsorbDNA = Поглотить ДНК
+    .desc = Поглотите ДНК цели, оставив от неё иссохшую оболочку. Стоит 25 химикатов.
 
-ent-ActionStingExtractDNA = Extract DNA sting
-    .desc = Steal your target's genetic information. Costs 25 chemicals.
+ent-ActionStingExtractDNA = Жало извлечения ДНК
+    .desc = Украдите генетическую информацию цели. Стоит 25 химикатов.
 
-ent-ActionChangelingTransformCycle = Cycle DNA
-    .desc = Cycle your available DNA.
+ent-ActionChangelingTransformCycle = Сменить ДНК
+    .desc = Переключайтесь между доступными образцами ДНК.
 
-ent-ActionChangelingTransform = Transform
-    .desc = Transform into another humanoid. Doesn't come with clothes. Costs 5 chemicals.
+ent-ActionChangelingTransform = Превратиться
+    .desc = Превратитесь в другого гуманоида. Одежда в комплект не входит. Стоит 5 химикатов.
 
-ent-ActionEnterStasis = Enter regenerative stasis
-    .desc = Fake your death and start regenerating. Cost free.
+ent-ActionEnterStasis = Войти в регенеративный стазис
+    .desc = Притворитесь мёртвым и начните восстанавливаться. Бесплатно.
 
-ent-ActionExitStasis = Exit stasis
-    .desc = Rise from the dead with full health. Costs 30 chemicals.
+ent-ActionExitStasis = Выйти из стазиса
+    .desc = Восстаньте из мёртвых с полным запасом здоровья. Стоит 30 химикатов.
 
-ent-ActionToggleArmblade = Toggle Arm Blade
-    .desc = Reform one of your arms into a strong blade, composed of bone and flesh. Retract on secondary use. Costs 15 chemicals.
+ent-ActionToggleArmblade = Переключить Руку-Клинок
+    .desc = Превратите одну из рук в прочный клинок из кости и плоти. Повторное применение втягивает клинок. Стоит 15 химикатов.
 
-ent-ActionToggleHammer = Toggle Arm Hammer
-    .desc = Reform one of your arms into a strong hammer, composed of bone and flesh. Retract on secondary use. Costs 15 chemicals.
+ent-ActionToggleHammer = Переключить Руку-Молот
+    .desc = Превратите одну из рук в прочный молот из кости и плоти. Повторное применение втягивает молот. Стоит 15 химикатов.
 
-ent-ActionToggleClaw = Toggle Arm Claw
-    .desc = Reform one of your arms into a strong claw, composed of bone and flesh. Retract on secondary use. Costs 15 chemicals.
+ent-ActionToggleClaw = Переключить Руку-Коготь
+    .desc = Превратите одну из рук в прочный коготь из кости и плоти. Повторное применение втягивает коготь. Стоит 15 химикатов.
 
-ent-ActionToggleDartGun = Toggle Dart Gun
-    .desc = Reform one of your arms into a dart gun, composed of bone and flesh. Retract on secondary use. Costs 15 chemicals.
+ent-ActionToggleDartGun = Переключить Дротикомёт
+    .desc = Превратите одну из рук в дротикомёт из кости и плоти. Повторное применение втягивает дротикомёт. Стоит 15 химикатов.
 
-ent-ActionCreateBoneShard = Form Bone Shard
-    .desc = Break off shards of your bone and shape them into a throwing star. Costs 15 chemicals.
+ent-ActionCreateBoneShard = Создать Костяной Осколок
+    .desc = Отломите осколки собственной кости и придайте им форму метательной звезды. Стоит 15 химикатов.
 
-ent-ActionToggleChitinousArmor = Toggle Armor
-    .desc = Inflate your body into an all-consuming chitinous mass of armor. Costs 25 chemicals.
+ent-ActionToggleChitinousArmor = Переключить Броню
+    .desc = Раздуйте своё тело, пока его целиком не покроет хитиновая броня. Стоит 25 химикатов.
 
-ent-ActionToggleOrganicShield = Form Shield
-    .desc = Reform one of your arms into a large, fleshy shield. Costs 20 chemicals.
+ent-ActionToggleOrganicShield = Создать Щит
+    .desc = Превратите одну из рук в большой щит из плоти. Стоит 20 химикатов.
 
-ent-ActionShriekDissonant = Dissonant Shriek
-    .desc = Emit an EMP blast, with just your voice. Costs 30 chemicals.
+ent-ActionShriekDissonant = Диссонирующий Визг
+    .desc = Вызовите всплеск ЭМИ одним лишь голосом. Стоит 30 химикатов.
 
-ent-ActionShriekResonant = Resonant Shriek
-    .desc = Disorient people and break lights, with just your voice. Costs 30 chemicals.
+ent-ActionShriekResonant = Резонирующий Визг
+    .desc = Дезориентируйте людей и разбейте лампы одним лишь голосом. Стоит 30 химикатов.
 
-ent-ActionToggleStrainedMuscles = Strain Muscles
-    .desc = Move at extremely fast speeds. Deals stamina damage.
+ent-ActionToggleStrainedMuscles = Напрячь Мышцы
+    .desc = Двигайтесь с огромной скоростью. Истощает выносливость.
 
-ent-ActionStingBlind = Blind Sting
-    .desc = Silently sting your target, blinding them for a short time and rendering them near sighted. Costs 25 chemicals.
+ent-ActionStingBlind = Ослепляющее Жало
+    .desc = Бесшумно ужальте цель, чтобы на короткое время ослепить её и вызвать близорукость. Стоит 25 химикатов.
 
-ent-ActionStingCryo = Cryogenic Sting
-    .desc = Silently sting your target, constantly slowing and freezing them. Costs 25 chemicals.
+ent-ActionStingCryo = Криогенное Жало
+    .desc = Бесшумно ужальте цель, чтобы непрерывно замедлять и замораживать её. Стоит 25 химикатов.
 
-ent-ActionStingLethargic = Lethargic Sting
-    .desc = Silently inject a cocktail of anesthetics into the target. Costs 30 chemicals.
+ent-ActionStingLethargic = Летаргическое Жало
+    .desc = Бесшумно введите цели смесь анестетиков. Стоит 30 химикатов.
 
-ent-ActionStingMute = Mute Sting
-    .desc = Silently sting your target, completely silencing them for a short time. Costs 25 chemicals.
+ent-ActionStingMute = Немое Жало
+    .desc = Бесшумно ужальте цель, чтобы ненадолго полностью лишить её голоса. Стоит 25 химикатов.
 
-ent-ActionStingFakeArmblade = Fake Armblade Sting
-    .desc = Silently sting your target, making them grow a dull armblade for a short time. Costs 30 chemicals.
+ent-ActionStingFakeArmblade = Жало Ложной Руки-Клинка
+    .desc = Бесшумно ужальте цель, чтобы у неё ненадолго выросла тупая рука-клинок. Стоит 30 химикатов.
 
-ent-ActionStingTransform = Transformation Sting
-    .desc = Silently sting your target, transforming them into a person of your choosing. Costs 75 chemicals.
+ent-ActionStingTransform = Жало Превращения
+    .desc = Бесшумно ужальте цель, превращая её в выбранного вами персонажа. Стоит 75 химикатов.
 
-ent-ActionLayEgg = Lay Egg
-    .desc = Plant an egg in a dead corpse which will mature into a new form for us.
+ent-ActionLayEgg = Отложить Яйцо
+    .desc = Отложите в труп яйцо, из которого вырастет наша новая форма.
 
-ent-ActionAnatomicPanacea = Anatomic Panacea
-    .desc = Cure yourself of diseases, disabilities, radiation, toxins, drunkedness and brain damage. Costs 30 chemicals.
+ent-ActionAnatomicPanacea = Анатомическая Панацея
+    .desc = Избавьтесь от болезней, нарушений здоровья, радиации, токсинов, опьянения и повреждений мозга. Стоит 30 химикатов.
 
-ent-ActionAugmentedEyesight = Augmented Eyesight
-    .desc = Toggle thermal vision.
+ent-ActionAugmentedEyesight = Усиленное Зрение
+    .desc = Переключите тепловое зрение.
 
-ent-ActionBiodegrade = Biodegrade
-    .desc = Vomit a caustic substance onto any restraints, or someone's face. Costs 30 chemicals.
+ent-ActionBiodegrade = Биоразложение
+    .desc = Изрыгните едкое вещество на путы или кому-нибудь в лицо. Стоит 30 химикатов.
 
-ent-ActionChameleonSkin = Chameleon Skin
-    .desc = Slowly blend in with the environment. Costs 25 chemicals.
+ent-ActionChameleonSkin = Кожа Хамелеона
+    .desc = Постепенно слейтесь с окружением. Стоит 25 химикатов.
 
-ent-ActionVoidAdapt = Toggle Void Adaption
-    .desc = Adapt to the harsh environment of space, removing the need for oxygen or a suit. Cost free.
+ent-ActionVoidAdapt = Переключить Адаптацию к Пустоте
+    .desc = Приспособьтесь к суровым условиям космоса, чтобы обходиться без кислорода и скафандра. Бесплатно.
 
-ent-ActionAdrenalineReserves = Adrenaline Reserves
-    .desc = Release powerful adrenaline from your glands. Costs 30 chemicals.
+ent-ActionAdrenalineReserves = Запасы Адреналина
+    .desc = Заставьте свои железы выделить мощный адреналин. Стоит 30 химикатов.
 
-ent-ActionFleshmend = Fleshmend
-    .desc = Rapidly heal yourself. Costs 35 chemicals.
+ent-ActionFleshmend = Восстановление Плоти
+    .desc = Быстро излечите себя. Стоит 35 химикатов.
 
-ent-ActionLastResort = Last Resort
-    .desc = Abandon your current body and escape in the form of a headslug. Costs 20 chemicals.
+ent-ActionLastResort = Последнее Средство
+    .desc = Бросьте текущее тело и сбегите в форме головного слизняка. Стоит 20 химикатов.
 
-ent-ActionToggleLesserForm = Lesser Form
-    .desc = Abandon your current form and transform into a monkey. Costs 20 chemicals.
+ent-ActionToggleLesserForm = Форма Обезьяны
+    .desc = Оставьте текущую форму и превратитесь в обезьяну. Стоит 20 химикатов.
 
-ent-ActionHivemindAccess = Hivemind Access
-    .desc = Tune your chemical receptors for hivemind communication.
+ent-ActionHivemindAccess = Доступ К Разуму Улья
+    .desc = Настройте химические рецепторы для связи с разумом улья.
 
-ent-ActionAbsorbBiomatter = Absorb Biomatter
-    .desc = Absorb a food item to regain some chemicals.
+ent-ActionAbsorbBiomatter = Поглощение Биоматерии
+    .desc = Поглотите еду, чтобы восполнить часть химикатов.

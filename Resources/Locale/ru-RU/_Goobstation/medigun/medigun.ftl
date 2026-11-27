@@ -1,2 +1,2 @@
-alerts-medigun-uber-name = Uber Charge
-alerts-medigun-uber-desc = Charge your medigun via healing living entities, fill this battery to 100%, and then you can enable Uber Mode!
+alerts-medigun-uber-name = Убер-Заряд
+alerts-medigun-uber-desc = Заряжайте лечебную пушку, исцеляя живых существ. При заряде батареи 100% вы сможете включить Убер-Режим!

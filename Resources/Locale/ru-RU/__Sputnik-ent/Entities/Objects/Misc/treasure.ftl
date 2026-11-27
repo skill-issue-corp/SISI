@@ -1,23 +1,23 @@
-ent-TreasureDatadiskEncrypted = encrypted datadisk
-    .desc = An old data disk. Someone savvier than you could unencrypt it and learn something juicy. All you can do is sell it.
+ent-TreasureDatadiskEncrypted = зашифрованный диск данных
+    .desc = Старый диск с данными. Кто-нибудь поумнее вас мог бы расшифровать его и узнать что-нибудь пикантное. Вам остаётся только продать его.
 
-ent-TreasureHardDiskDrive = hard disk drive
-    .desc = A disk drive designed for old Earth technology, circa 1980. There's probably some kind of collector who might want to get their paws on this.
+ent-TreasureHardDiskDrive = жёсткий диск
+    .desc = Диск для старой земной техники, примерно 1980 года. Наверняка найдётся коллекционер, который захочет прибрать его к рукам.
 
-ent-TreasureFlopDiskDrive = floppy disk drive
-    .desc = A drive for reading off info off of floppy disks. Shame that the only things stored on them nowadays are nuclear bomb operations.
+ent-TreasureFlopDiskDrive = дисковод гибких дисков
+    .desc = Устройство для чтения данных с дискет. Жаль, что теперь на них хранят только планы операций с ядерными бомбами.
 
-ent-TreasureCDDrive = CD drive
-    .desc = A piece of tech for reading data off of CDs. Nowadays that's not the most useful thing, unless you plan on flying somewhere.
+ent-TreasureCDDrive = привод CD
+    .desc = Устройство для чтения данных с компакт-дисков. Сейчас вещь не самая полезная, разве что вы собираетесь куда-нибудь лететь.
 
-ent-TreasureCPUSupercharged = supercharged CPU
-    .desc = Some kind of super alien space tech. Shame all the computers already come with CPUs nowadays.
+ent-TreasureCPUSupercharged = форсированный процессор
+    .desc = Какая-то сверхпродвинутая инопланетная технология. Жаль, что в наше время у всех компьютеров уже есть процессоры.
 
-ent-TreasureSampleTube = sample tube
-    .desc = A glass tube with some sort of goop in it. Looks prone to breaking.
+ent-TreasureSampleTube = пробирка с образцом
+    .desc = Стеклянная пробирка с какой-то жижей. На вид хрупкая.
 
-ent-BaseCoin = coin
-    .desc = A flat bit of metal. If it was still in circulation, inflation would've made it worthless. Since it isn't, it's worth enough to keep in a book.
+ent-BaseCoin = монета
+    .desc = Плоский кусочек металла. Будь он ещё в обращении, инфляция давно бы его обесценила. Но он вышел из обращения, а потому стоит достаточно, чтобы хранить его в альбоме.
 
 ent-TreasureCoinIron = { ent-BaseCoin }
     .desc = { ent-BaseCoin.desc }

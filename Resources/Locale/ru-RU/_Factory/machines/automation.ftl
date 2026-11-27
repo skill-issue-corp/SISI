@@ -1,35 +1,35 @@
 # Plumbing
 
-signal-port-name-plumbing-input = Plumbing: Input
-signal-port-description-plumbing-input = A plumbing automation slot to pump liquids into.
+signal-port-name-plumbing-input = Трубопровод: Вход
+signal-port-description-plumbing-input = Слот автоматизации для закачки жидкостей.
 
-signal-port-name-plumbing-output = Plumbing: Output
-signal-port-description-plumbing-output = A plumbing automation slot to pump liquids out of.
+signal-port-name-plumbing-output = Трубопровод: Выход
+signal-port-description-plumbing-output = Слот автоматизации для откачки жидкостей.
 
-signal-port-name-plumbing-dispenser = Plumbing: Dispenser
-signal-port-description-plumbing-dispenser = A plumbing automation slot to pump liquids into or out of a dispenser's beaker.
+signal-port-name-plumbing-dispenser = Трубопровод: Раздатчик
+signal-port-description-plumbing-dispenser = Слот автоматизации для закачки жидкостей в мензурку раздатчика или откачки из неё.
 
 # Robotic Arm
 
-signal-port-name-input-machine = Item: Input Machine
-signal-port-description-input-machine = A machine automation slot to take items out of, instead of taking them from the floor.
+signal-port-name-input-machine = Предмет: Машина на Входе
+signal-port-description-input-machine = Слот автоматизации машины, из которого можно забирать предметы вместо того, чтобы поднимать их с пола.
 
-signal-port-name-output-machine = Item: Output Machine
-signal-port-description-output-machine = A machine automation slot to insert items into, instead of placing them on the floor.
+signal-port-name-output-machine = Предмет: Машина на Выходе
+signal-port-description-output-machine = Слот автоматизации машины, в который можно помещать предметы вместо того, чтобы класть их на пол.
 
-signal-port-name-item-moved = Item Moved
-signal-port-description-item-moved = Signal port that gets pulsed after an item is moved by this arm.
+signal-port-name-item-moved = Предмет Перемещён
+signal-port-description-item-moved = Порт выдаёт импульс после того, как рука перемещает предмет.
 
-signal-port-name-automation-slot-filter = Item: Filter Slot
-signal-port-description-automation-slot-filter = An automation slot for an automation machine's filter.
+signal-port-name-automation-slot-filter = Предмет: Слот Фильтра
+signal-port-description-automation-slot-filter = Слот автоматизации для фильтра машины.
 
 # Storage Bin
 
-signal-port-name-automation-slot-storage = Item: Storage
-signal-port-description-automation-slot-storage = An automation slot for a storage bin's inventory.
+signal-port-name-automation-slot-storage = Предмет: Хранилище
+signal-port-description-automation-slot-storage = Слот автоматизации для содержимого накопительного бункера.
 
-signal-port-name-storage-inserted = Inserted
-signal-port-description-storage-inserted = Signal port that gets pulsed after an item is inserted into a storage bin.
+signal-port-name-storage-inserted = Помещено
+signal-port-description-storage-inserted = Порт выдаёт импульс после помещения предмета в накопительный бункер.
 
-signal-port-name-storage-removed = Removed
-signal-port-description-storage-removed = Signal port that gets pulsed after an item is removed from a storage bin.
+signal-port-name-storage-removed = Извлечено
+signal-port-description-storage-removed = Порт выдаёт импульс после извлечения предмета из накопительного бункера.

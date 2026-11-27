@@ -2,4 +2,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-begin-combat-popup = {$name} looks ready to charge.
+begin-combat-popup = {$name}, похоже, готовится рвануть вперёд.

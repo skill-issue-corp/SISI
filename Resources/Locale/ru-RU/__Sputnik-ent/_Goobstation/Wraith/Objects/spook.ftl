@@ -1,6 +1,6 @@
 ent-SpookObject = ???
-    .desc = It can do various things by being interacted with.
-    .suffix = DO NOT MAP
+    .desc = При взаимодействии может делать разные вещи.
+    .suffix = НЕ МАППИТЬ
 
-ent-EctoplasmGoon = ectoplasm
-    .desc = A glob of who knows what. Just staring at it gives you the creeps.
+ent-EctoplasmGoon = эктоплазма
+    .desc = Сгусток невесть чего. От одного взгляда мурашки по коже.

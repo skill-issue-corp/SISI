@@ -14,27 +14,27 @@
 
 ## Entity
 
-microwave-component-interact-using-no-power = It has no power!
-microwave-component-interact-using-broken = It's broken!
-microwave-component-interact-using-container-full = Container is full
-microwave-component-interact-using-transfer-success = Transferred {$amount}u
-microwave-component-interact-using-transfer-fail = That won't work!
-microwave-component-suicide-others-message = {$victim} is trying to cook their head!
-microwave-component-suicide-message = You cook your head!
-microwave-component-interact-full = It's full.
-microwave-component-interact-item-too-big = { CAPITALIZE(THE($item)) } is too big to fit in the microwave!
+microwave-component-interact-using-no-power = Нет питания!
+microwave-component-interact-using-broken = Сломано!
+microwave-component-interact-using-container-full = Ёмкость заполнена
+microwave-component-interact-using-transfer-success = Перелито {$amount} ед.
+microwave-component-interact-using-transfer-fail = Это не сработает!
+microwave-component-suicide-others-message = {$victim} пытается приготовить собственную голову!
+microwave-component-suicide-message = Вы готовите собственную голову!
+microwave-component-interact-full = Заполнено.
+microwave-component-interact-item-too-big = { CAPITALIZE($item) } не помещается в микроволновку!
 
 ## Bound UI
 
-microwave-bound-user-interface-instant-button = INSTANT
-microwave-bound-user-interface-cook-time-label = COOK TIME: {$time}
+microwave-bound-user-interface-instant-button = МГНОВЕННО
+microwave-bound-user-interface-cook-time-label = ВРЕМЯ ПРИГОТОВЛЕНИЯ: {$time}
 
 ## UI
 
-microwave-menu-title = Microwave
-microwave-menu-start-button = Start
-microwave-menu-eject-all-text = Eject All Contents
-microwave-menu-eject-all-tooltip = This vaporizes all reagents, but ejects any solids.
-microwave-menu-instant-button = INSTANT
-microwave-menu-footer-flavor-left = Do not insert any electronic, metallic or living objects.
+microwave-menu-title = Микроволновка
+microwave-menu-start-button = Запустить
+microwave-menu-eject-all-text = Извлечь Всё Содержимое
+microwave-menu-eject-all-tooltip = Испаряет все реагенты и извлекает твёрдые предметы.
+microwave-menu-instant-button = МГНОВЕННО
+microwave-menu-footer-flavor-left = Не помещайте внутрь электронику, металлические предметы и живые существа.
 microwave-menu-footer-flavor-right = v1.5

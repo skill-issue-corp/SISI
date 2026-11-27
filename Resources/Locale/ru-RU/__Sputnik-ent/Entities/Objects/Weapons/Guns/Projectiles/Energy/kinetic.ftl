@@ -1,11 +1,11 @@
-ent-BulletKinetic = kinetic bolt
-    .desc = Not too bad, but you still don't want to get hit by it.
+ent-BulletKinetic = кинетический заряд
+    .desc = Не так уж страшно, но вы всё равно не захотите под него попасть.
 
 ent-BulletKineticShuttle = { ent-BaseBullet }
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletCharge = charge bolt
-    .desc = Marks a target for additional damage.
+ent-BulletCharge = маркирующий заряд
+    .desc = Помечает цель, чтобы она получала дополнительный урон.
 
-ent-BulletChargeGlaive = leech bolt
+ent-BulletChargeGlaive = поглощающий заряд
     .desc = { ent-BulletCharge.desc }

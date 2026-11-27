@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-loadout-window = Loadout
-loadout-none = None
-loadout-window-title-loadout = { $job } loadout
+loadout-window = Снаряжение
+loadout-none = Нет
+loadout-window-title-loadout = { $job }: снаряжение

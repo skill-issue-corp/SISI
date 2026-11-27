@@ -1,29 +1,29 @@
-ent-ClothingOuterCoatBomberPunkRed = red punk bomber
-    .desc = Ya gotta 'ave style on dem streets.
+ent-ClothingOuterCoatBomberPunkRed = красный панк-бомбер
+    .desc = На этих улицах без стиля никуда, понял?
 
-ent-ClothingOuterCoatJacketLeather = leather jacket
-    .desc = Rock'n'roll, babe!
+ent-ClothingOuterCoatJacketLeather = кожаная куртка
+    .desc = Рок-н-ролл, детка!
 
-ent-ClothingOuterCoatJacketBiker = biker jacket
-    .desc = Made out of toughest synthleather for toughest badasses.
+ent-ClothingOuterCoatJacketBiker = байкерская куртка
+    .desc = Из самой прочной синткожи для самых крутых ребят.
 
-ent-ClothingOuterCoatJacketJamrock = jamrock blazer
-    .desc = Welcome to jamrock.
+ent-ClothingOuterCoatJacketJamrock = пиджак из джемрока
+    .desc = Добро пожаловать в джемрок.
 
-ent-ClothingOuterCoatBomberAerostatic = aerostatic bomber
-    .desc = When you wear it, you can always hear the sickest guitar solo in your mind.
+ent-ClothingOuterCoatBomberAerostatic = аэростатический бомбер
+    .desc = Стоит его надеть, как в голове начинает играть крутейшее гитарное соло.
 
-ent-ClothingOuterCoatJacketLettermanBlue = blue letterman jacket
-    .desc = Where is your lacrosse stick?
+ent-ClothingOuterCoatJacketLettermanBlue = синяя университетская куртка
+    .desc = Где ваша клюшка для лакросса?
 
-ent-ClothingOuterCoatJacketLettermanBrown = brown letterman jacket
-    .desc = Where is your lacrosse stick?
+ent-ClothingOuterCoatJacketLettermanBrown = коричневая университетская куртка
+    .desc = Где ваша клюшка для лакросса?
 
-ent-ClothingOuterCoatJacketLettermanRed = red letterman jacket
-    .desc = Where is your lacrosse stick?
+ent-ClothingOuterCoatJacketLettermanRed = красная университетская куртка
+    .desc = Где ваша клюшка для лакросса?
 
-ent-ClothingOuterCoatJacketLettermanMagenta = magenta letterman jacket
-    .desc = Where is your holocrosse joystick?
+ent-ClothingOuterCoatJacketLettermanMagenta = пурпурная университетская куртка
+    .desc = Где ваш джойстик для голокросса?
 
-ent-ClothingOuterCoatBomberPinkSleeves = bomber jacket
-    .desc = Oi! Whatcha lookin' at?
+ent-ClothingOuterCoatBomberPinkSleeves = куртка-бомбер
+    .desc = Эй! Чё уставился?

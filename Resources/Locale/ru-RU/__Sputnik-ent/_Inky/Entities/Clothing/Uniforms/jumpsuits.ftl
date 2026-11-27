@@ -1,2 +1,2 @@
-ent-ClothingUniformJumpsuitElysium = satin shirt and bell-bottom pants
-    .desc = The white satin shirt used to be fancy and theres the golden-brown trousers are flare-cut.
+ent-ClothingUniformJumpsuitElysium = атласная рубашка и брюки клёш
+    .desc = Белая атласная рубашка когда-то выглядела шикарно, а золотисто-коричневые брюки расклешены книзу.

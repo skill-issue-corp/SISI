@@ -1,53 +1,50 @@
 ### Interaction Messages
 
 # Shown when player tries to replace light, but there are no lights left
-comp-light-replacer-missing-light = No {$light-name} left in {THE($light-replacer)}.
+comp-light-replacer-missing-light = Лампозаменитель {$light-replacer} больше не содержит ламп типа «{$light-name}».
 
 # Shown when player tries to insert a broken light bulb into the light replacer.
-comp-light-replacer-insert-broken-light = You can't insert broken lights!
+comp-light-replacer-insert-broken-light = Нельзя вставить разбитые лампы!
 
 # Shown when a player attempts to replace a light with the same color & type as the active light.
-comp-light-replacer-same-light = This fixture already holds {INDEFINITE($light)} {$light}!
+comp-light-replacer-same-light = В светильнике уже установлена лампа: {$light}!
 
 # Radial Menu messages
-comp-light-replacer-eject-specified-lights = Eject all {$light}.
-comp-light-replacer-select-lights = Select {$light}.
-comp-light-replacer-open-empty = {CAPITALIZE(THE($light-replacer))} is completely empty!
+comp-light-replacer-eject-specified-lights = Извлечь все лампы типа «{$light}».
+comp-light-replacer-select-lights = Выбрать тип: {$light}.
+comp-light-replacer-open-empty = {CAPITALIZE($light-replacer)} совсем пуст!
 
 # Label
-comp-light-replacer-label = Tube: {$tube}
-                            Bulb: {$bulb}
+comp-light-replacer-label = Трубка: {$tube}
+                            Лампочка: {$bulb}
 
 ### Examine
 
-comp-light-replacer-no-lights = It's empty.
-comp-light-replacer-has-lights = It contains the following:
-comp-light-replacer-light-listing = {$amount ->
-    [one] [color=yellow]{$amount}[/color] [color=gray]{$name}[/color]
-    *[other] [color=yellow]{$amount}[/color] [color=gray]{$name}[/color]
-}
+comp-light-replacer-no-lights = Пусто.
+comp-light-replacer-has-lights = Внутри следующее:
+comp-light-replacer-light-listing = [color=gray]{$name}[/color] × [color=yellow]{$amount}[/color]
 
 ### Status Control
 
 # Bulbs
-comp-light-bulb-incandescent = incandescent
-comp-light-bulb-dim = dim
-comp-light-bulb-warm = warm
-comp-light-bulb-service = service
+comp-light-bulb-incandescent = накаливания
+comp-light-bulb-dim = тусклая
+comp-light-bulb-warm = тёплая
+comp-light-bulb-service = дежурная
 
 # Tubes
-comp-light-bulb-fluorescent = fluorescent
-comp-light-bulb-exterior = exterior
-comp-light-bulb-sodium = sodium
+comp-light-bulb-fluorescent = люминесцентная
+comp-light-bulb-exterior = наружная
+comp-light-bulb-sodium = натриевая
 
 # Both
-comp-light-bulb-old = old
-comp-light-bulb-led = led
-comp-light-bulb-cyan = cyan
-comp-light-bulb-blue = blue
-comp-light-bulb-yellow = yellow
-comp-light-bulb-pink = pink
-comp-light-bulb-orange = orange
-comp-light-bulb-black = black
-comp-light-bulb-red = red
-comp-light-bulb-green = green
+comp-light-bulb-old = старая
+comp-light-bulb-led = светодиодная
+comp-light-bulb-cyan = голубая
+comp-light-bulb-blue = синяя
+comp-light-bulb-yellow = жёлтая
+comp-light-bulb-pink = розовая
+comp-light-bulb-orange = оранжевая
+comp-light-bulb-black = чёрная
+comp-light-bulb-red = красная
+comp-light-bulb-green = зелёная

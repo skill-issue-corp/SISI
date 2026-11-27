@@ -1,2 +1,2 @@
-ent-ClothingNeckTieElysium = horrowing necktie
-    .desc = Adorned with a garish pattern. Its disturbingly vivid. Somehow you feel as if it would be wrong to ever take it off. Its your friend now. You will betray it if you change it for some boring scarf.
+ent-ClothingNeckTieElysium = жуткий галстук
+    .desc = Украшен кричащим узором. Тревожно яркий. Вам почему-то кажется, что снимать его было бы неправильно. Теперь он ваш друг. Вы предадите его, если променяете на какой-нибудь скучный шарф.

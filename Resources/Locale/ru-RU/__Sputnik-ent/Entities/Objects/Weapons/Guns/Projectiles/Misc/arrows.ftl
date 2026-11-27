@@ -1,20 +1,20 @@
 ent-BaseArrow = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-ArrowRegular = arrow
-    .desc = You can feel the power of the steppe within you.
+ent-ArrowRegular = стрела
+    .desc = Вы чувствуете в себе силу степи.
 
-ent-ArrowImprovised = glass shard arrow
-    .desc = The greyshirt's preferred projectile.
+ent-ArrowImprovised = стрела со стеклянным наконечником
+    .desc = Излюбленный снаряд серорубашечников.
 
-ent-ArrowImprovisedPlasma = plasma glass shard arrow
-    .desc = The greyshirt's preferred projectile. Now with extra lethality!
+ent-ArrowImprovisedPlasma = стрела с наконечником из плазменного стекла
+    .desc = Излюбленный снаряд серорубашечников. Теперь ещё смертоноснее!
 
-ent-ArrowImprovisedUranium = uranium glass shard arrow
-    .desc = The greyshirt's preferred projectile. Now with added radiation!
+ent-ArrowImprovisedUranium = стрела с наконечником из уранового стекла
+    .desc = Излюбленный снаряд серорубашечников. Теперь ещё и с радиацией!
 
-ent-ArrowImprovisedCarp = carp tooth arrow
-    .desc = The salvager's preferred arrow. Kill your enemies with the teeth of their families.
+ent-ArrowImprovisedCarp = стрела из карпьего зуба
+    .desc = Излюбленная стрела утилизаторов. Убейте врагов зубами их родни.
 
-ent-ArrowCard = cardboard arrow
-    .desc = Careful, you'll poke an eye out!
+ent-ArrowCard = картонная стрела
+    .desc = Осторожно, глаз выколете!

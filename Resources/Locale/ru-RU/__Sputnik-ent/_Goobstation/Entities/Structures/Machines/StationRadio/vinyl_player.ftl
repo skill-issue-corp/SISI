@@ -1,2 +1,2 @@
-ent-VinylPlayer = vinyl player
-    .desc = An old school vinyl record player sat on a set of drawers.
+ent-VinylPlayer = виниловый проигрыватель
+    .desc = Старомодный проигрыватель виниловых пластинок, стоящий на комоде.

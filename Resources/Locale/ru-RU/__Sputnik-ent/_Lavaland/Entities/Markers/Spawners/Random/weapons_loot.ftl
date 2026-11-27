@@ -1,27 +1,27 @@
-ent-CrusherWeaponLootSpawner = crusher weapon spawner
+ent-CrusherWeaponLootSpawner = точка спавна оружия-крушителя
     .desc = { ent-MarkerBase.desc }
-    .suffix = Lavaland
+    .suffix = Лаваленд
 
-ent-CrusherUpgradeLootSpawner = crusher upgrade spawner
+ent-CrusherUpgradeLootSpawner = точка спавна улучшения крушителя
     .desc = { ent-MarkerBase.desc }
-    .suffix = Lavaland
+    .suffix = Лаваленд
 
-ent-ProtoKineticWeaponLootSpawner = proto-kinetic weapon spawner
+ent-ProtoKineticWeaponLootSpawner = точка спавна протокинетического оружия
     .desc = { ent-MarkerBase.desc }
-    .suffix = Lavaland
+    .suffix = Лаваленд
 
-ent-ProtoKineticWeaponSpaceLootSpawner = space proto-kinetic weapon spawner
+ent-ProtoKineticWeaponSpaceLootSpawner = точка спавна космического протокинетического оружия
     .desc = { ent-MarkerBase.desc }
-    .suffix = Lavaland, Space Upgrade
+    .suffix = Лаваленд, Космическое Улучшение
 
-ent-ProtoKineticUpgradeLootSpawner = proto-kinetic upgrade spawner
+ent-ProtoKineticUpgradeLootSpawner = точка спавна протокинетического улучшения
     .desc = { ent-MarkerBase.desc }
-    .suffix = Lavaland
+    .suffix = Лаваленд
 
-ent-SecondaryKineticWeaponLootSpawner = secondary kinetic weapon spawner
+ent-SecondaryKineticWeaponLootSpawner = точка спавна вспомогательного кинетического оружия
     .desc = { ent-MarkerBase.desc }
-    .suffix = Lavaland
+    .suffix = Лаваленд
 
-ent-LavalandWeaponLootSpawner = lavaland weapons loot spawner
+ent-LavalandWeaponLootSpawner = точка спавна оружейных трофеев лаваленда
     .desc = { ent-MarkerBase.desc }
-    .suffix = Lavaland
+    .suffix = Лаваленд

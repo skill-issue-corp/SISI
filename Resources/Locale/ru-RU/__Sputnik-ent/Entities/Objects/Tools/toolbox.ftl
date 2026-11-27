@@ -1,27 +1,27 @@
 ent-ToolboxBase = { ent-BaseStorageItem }
     .desc = { ent-BaseStorageItem.desc }
 
-ent-ToolboxEmergency = emergency toolbox
-    .desc = A bright red toolbox, stocked with emergency tools.
+ent-ToolboxEmergency = аварийный тулбокс
+    .desc = Ярко-красный тулбокс с инструментами на случай аварии.
 
-ent-ToolboxMechanical = mechanical toolbox
-    .desc = A blue box, stocked with mechanical tools.
+ent-ToolboxMechanical = механический тулбокс
+    .desc = Синий ящик с инструментами для механических работ.
 
-ent-ToolboxElectrical = electrical toolbox
-    .desc = A toolbox typically stocked with electrical gear.
+ent-ToolboxElectrical = электротехнический тулбокс
+    .desc = Тулбокс, в котором обычно лежат инструменты электрика.
 
-ent-ToolboxElectricalTurret = electrical toolbox
-    .desc = A toolbox typically stocked with electrical gear.
-    .suffix = Syndicate, Turret
+ent-ToolboxElectricalTurret = электротехнический тулбокс
+    .desc = Тулбокс, в котором обычно лежат инструменты электрика.
+    .suffix = Синдикат, Турель
 
-ent-ToolboxArtistic = artistic toolbox
-    .desc = A toolbox typically stocked with artistic supplies.
+ent-ToolboxArtistic = художественный тулбокс
+    .desc = Тулбокс, в котором обычно лежат принадлежности для творчества.
 
-ent-ToolboxSyndicate = suspicious toolbox
-    .desc = A sinister looking toolbox filled with elite syndicate tools.
+ent-ToolboxSyndicate = подозрительный тулбокс
+    .desc = Зловещий тулбокс с элитными инструментами синдиката.
 
-ent-ToolboxGolden = golden toolbox
-    .desc = A solid gold toolbox. A rapper would kill for this.
+ent-ToolboxGolden = золотой тулбокс
+    .desc = Тулбокс из чистого золота. Рэпер за такой убил бы.
 
-ent-Foolbox = foolbox
-    .desc = A toolbox for fools, stocked with clowning equipment.
+ent-Foolbox = дурбокс
+    .desc = Тулбокс для дураков, набитый клоунскими принадлежностями.

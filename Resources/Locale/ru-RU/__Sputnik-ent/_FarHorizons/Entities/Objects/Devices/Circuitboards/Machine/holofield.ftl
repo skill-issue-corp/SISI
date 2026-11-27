@@ -1,11 +1,11 @@
-ent-HolographicFieldGeneratorCircuitboard = holographic field generator board
-    .desc = A machine printed circuit board for a holographic field generator.
+ent-HolographicFieldGeneratorCircuitboard = плата генератора голографического поля
+    .desc = Печатная плата для сборки генератора голографического поля.
 
-ent-HolographicBarrierGeneratorCircuitboard = holographic barrier generator board
-    .desc = A machine printed circuit board for a holographic barrier generator.
+ent-HolographicBarrierGeneratorCircuitboard = плата генератора голографического барьера
+    .desc = Печатная плата для сборки генератора голографического барьера.
 
-ent-HolographicFieldGeneratorFlatpack = holographic field generator flatpack
-    .desc = A flatpack used for constructing a holographic field generator.
+ent-HolographicFieldGeneratorFlatpack = упаковка генератора голографического поля
+    .desc = Упаковка для сборки генератора голографического поля.
 
-ent-HolographicBarrierGeneratorFlatpack = holographic barrier generator flatpack
-    .desc = A flatpack used for constructing a holographic barrier generator.
+ent-HolographicBarrierGeneratorFlatpack = упаковка генератора голографического барьера
+    .desc = Упаковка для сборки генератора голографического барьера.

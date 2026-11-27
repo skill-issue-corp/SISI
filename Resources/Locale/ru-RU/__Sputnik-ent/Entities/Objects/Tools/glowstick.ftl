@@ -1,35 +1,35 @@
-ent-GlowstickBase = glowstick
-    .desc = Useful for raves and emergencies.
+ent-GlowstickBase = светящаяся палочка
+    .desc = Годится для рейвов и аварий.
 
-ent-GlowstickRed = red glowstick
+ent-GlowstickRed = красная светящаяся палочка
     .desc = { ent-GlowstickBase.desc }
 
-ent-GlowstickPurple = purple glowstick
+ent-GlowstickPurple = фиолетовая светящаяся палочка
     .desc = { ent-GlowstickBase.desc }
 
-ent-GlowstickYellow = yellow glowstick
+ent-GlowstickYellow = жёлтая светящаяся палочка
     .desc = { ent-GlowstickBase.desc }
 
-ent-GlowstickBlue = blue glowstick
+ent-GlowstickBlue = синяя светящаяся палочка
     .desc = { ent-GlowstickBase.desc }
 
-ent-GlowstickGreen = green glowstick
+ent-GlowstickGreen = зелёная светящаяся палочка
     .desc = { ent-GlowstickBase.desc }
 
-ent-LightBehaviourTest1 = light pulse test
+ent-LightBehaviourTest1 = тест пульсации света
     .desc = { ent-BaseItem.desc }
 
-ent-LightBehaviourTest2 = color cycle test
+ent-LightBehaviourTest2 = тест смены цвета
     .desc = { ent-BaseItem.desc }
 
-ent-LightBehaviourTest3 = multi-behaviour light test
+ent-LightBehaviourTest3 = тест нескольких эффектов света
     .desc = { ent-BaseItem.desc }
 
-ent-LightBehaviourTest4 = light fade in test
+ent-LightBehaviourTest4 = тест плавного включения света
     .desc = { ent-BaseItem.desc }
 
-ent-LightBehaviourTest5 = light pulse radius test
+ent-LightBehaviourTest5 = тест пульсации радиуса света
     .desc = { ent-BaseItem.desc }
 
-ent-LightBehaviourTest6 = light randomize radius test
+ent-LightBehaviourTest6 = тест случайного изменения радиуса света
     .desc = { ent-BaseItem.desc }

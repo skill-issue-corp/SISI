@@ -1,8 +1,8 @@
-ent-BaseMagazinePistolCaselessRifle = pistol magazine (9.5mm HP)
+ent-BaseMagazinePistolCaselessRifle = пистолетный магазин (9.5мм HP)
     .desc = { ent-BaseItem.desc }
 
-ent-MagazinePistolCaselessRifle = pistol magazine (9.5mm HP)
-    .desc = 10-round magazine for the Cobra pistol. Intended to hold general-purpose kinetic ammunition.
+ent-MagazinePistolCaselessRifle = пистолетный магазин (9.5мм HP)
+    .desc = Магазин на 10 патронов для пистолета Cobra. Предназначен для обычных кинетических боеприпасов.
 
-ent-MagazinePistolCaselessRiflePractice = pistol magazine (9.5mm practice)
-    .desc = 10-round magazine for the Cobra pistol. Intended to hold harmless practice ammunition.
+ent-MagazinePistolCaselessRiflePractice = пистолетный магазин (9.5мм учебные)
+    .desc = Магазин на 10 патронов для пистолета Cobra. Предназначен для безвредных учебных боеприпасов.

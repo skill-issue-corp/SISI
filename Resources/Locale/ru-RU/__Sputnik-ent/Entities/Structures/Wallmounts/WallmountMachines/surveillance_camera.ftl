@@ -1,41 +1,41 @@
-ent-SurveillanceCameraBase = camera
-    .desc = A surveillance camera. It's watching you. Kinda.
+ent-SurveillanceCameraBase = камера
+    .desc = Камера наблюдения. Она за вами наблюдает. Вроде бы.
 
-ent-SurveillanceCameraConstructed = camera
+ent-SurveillanceCameraConstructed = камера
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Constructed
+    .suffix = Собранная
 
-ent-SurveillanceCameraEngineering = camera
+ent-SurveillanceCameraEngineering = камера
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Engineering
+    .suffix = Инженерный Отдел
 
-ent-SurveillanceCameraSecurity = camera
+ent-SurveillanceCameraSecurity = камера
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Security
+    .suffix = Служба Безопасности
 
-ent-SurveillanceCameraScience = camera
+ent-SurveillanceCameraScience = камера
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Science
+    .suffix = Наука
 
-ent-SurveillanceCameraSupply = camera
+ent-SurveillanceCameraSupply = камера
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Supply
+    .suffix = Снабжение
 
-ent-SurveillanceCameraCommand = camera
+ent-SurveillanceCameraCommand = камера
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Command
+    .suffix = Командование
 
-ent-SurveillanceCameraService = camera
+ent-SurveillanceCameraService = камера
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Service
+    .suffix = Обслуживание
 
-ent-SurveillanceCameraMedical = camera
+ent-SurveillanceCameraMedical = камера
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = Medical
+    .suffix = Медотсек
 
-ent-SurveillanceCameraGeneral = camera
+ent-SurveillanceCameraGeneral = камера
     .desc = { ent-SurveillanceCameraBase.desc }
-    .suffix = General
+    .suffix = Общая
 
-ent-SurveillanceCameraAssembly = camera
-    .desc = A surveillance camera. Doesn't seem to be watching anybody any time soon. Probably.
+ent-SurveillanceCameraAssembly = камера
+    .desc = Камера наблюдения. В обозримом будущем она, похоже, ни за кем наблюдать не будет. Наверное.

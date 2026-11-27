@@ -1,8 +1,8 @@
-ent-MothershipCore = mothership core
-    .desc = A sentient machine that can produce Xenoborgs. Without this the Xenoborgs are doomed.
+ent-MothershipCore = ядро материнского корабля
+    .desc = Разумная машина, способная создавать Ксеноборгов. Без неё Ксеноборги обречены.
 
-ent-ActionXenoborgControlMonitor = Xenoborgs Control Console
-    .desc = View the Xenoborgs Control Console
+ent-ActionXenoborgControlMonitor = Консоль Управления Ксеноборгами
+    .desc = Открыть Консоль Управления Ксеноборгами
 
-ent-ActionXenoborgCameraMonitor = Xenoborgs Camera Monitor
-    .desc = View the Xenoborgs Camera Monitor
+ent-ActionXenoborgCameraMonitor = Монитор Камер Ксеноборгов
+    .desc = Открыть Монитор Камер Ксеноборгов

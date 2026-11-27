@@ -1,5 +1,5 @@
-ent-TouchSpellMansus = mansus grasp
-    .desc = The power of the Old Gods, channeled through your grip.
+ent-TouchSpellMansus = хватка мансуса
+    .desc = Сила Древних Богов, направленная через вашу хватку.
 
 ent-TouchSpellMansusAsh = { ent-TouchSpellMansus }
     .desc = { ent-TouchSpellMansus.desc }

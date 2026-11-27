@@ -1,26 +1,26 @@
-ent-ClothingNeckMantleCap = captain's mantle
-    .desc = A comfortable and chique mantle befitting of only the most experienced captain.
+ent-ClothingNeckMantleCap = мантия капитана
+    .desc = Удобная и шикарная мантия, достойная лишь самого опытного капитана.
 
-ent-ClothingNeckMantleWhiteCE = chief engineer's white mantle
-    .desc = High visibility, check. RIG system, check. High capacity cell, check. Everything a chief engineer could need in a stylish mantle.
+ent-ClothingNeckMantleWhiteCE = белая мантия старшего инженера
+    .desc = Хорошо заметна, есть. Система РИГ, есть. Батарея высокой ёмкости, есть. Всё, что может понадобиться старшему инженеру, в стильной мантии.
 
-ent-ClothingNeckMantleOrangeCE = chief engineer's orange mantle
-    .desc = High visibility, check. RIG system, check. High capacity cell, check. Everything a chief engineer could need in a stylish mantle.
+ent-ClothingNeckMantleOrangeCE = оранжевая мантия старшего инженера
+    .desc = Хорошо заметна, есть. Система РИГ, есть. Батарея высокой ёмкости, есть. Всё, что может понадобиться старшему инженеру, в стильной мантии.
 
-ent-ClothingNeckMantleCMO = chief medical officer's mantle
-    .desc = For a CMO that has been in enough medbays to know that more PPE means less central command dry cleaning visits when the shift is over.
+ent-ClothingNeckMantleCMO = мантия главного врача
+    .desc = Для ГВ, который повидал достаточно медотсеков, чтобы понять: чем больше СИЗ, тем реже после смены придётся ходить в химчистку центрального командования.
 
-ent-ClothingNeckMantleHOP = head of personnel's mantle
-    .desc = A good HOP knows that paper pushing is only half the job... petting your dog and looking fashionable is the other half.
+ent-ClothingNeckMantleHOP = мантия главы персонала
+    .desc = Хороший ГП знает, что перебирать бумажки - только половина работы... Вторая половина - гладить собаку и выглядеть стильно.
 
-ent-ClothingNeckMantleHOS = head of security's mantle
-    .desc = Shootouts with syndicate agents are just another Tuesday for this HoS. This mantle is a symbol of commitment to the station.
+ent-ClothingNeckMantleHOS = мантия главы службы безопасности
+    .desc = Перестрелки с агентами синдиката для этого ГСБ - обычный вторник. Эта мантия символизирует преданность станции.
 
-ent-ClothingNeckMantleRD = research director's mantle
-    .desc = For when long days in the office consist of explosives, poisonous gas, murder robots, and a fresh pizza from cargo; this mantle will keep you comfy.
+ent-ClothingNeckMantleRD = мантия научного руководителя
+    .desc = Когда долгий рабочий день состоит из взрывчатки, ядовитого газа, роботов-убийц и свежей пиццы из карго, эта мантия поможет сохранить уют.
 
-ent-ClothingNeckMantleQM = quartermaster's mantle
-    .desc = For the master of goods and materials to rule over the department, a befitting mantle to show off superiority!
+ent-ClothingNeckMantleQM = мантия квартирмейстера
+    .desc = Для властелина грузов и материалов, правящего отделом, мантия, достойная его превосходства!
 
-ent-ClothingNeckMantle = mantle
-    .desc = A soft mantle, made with the same 'synthetic' animal furs of the iconic winter coat.
+ent-ClothingNeckMantle = мантия
+    .desc = Мягкая мантия из того же «синтетического» звериного меха, что и знаменитая зимняя куртка.

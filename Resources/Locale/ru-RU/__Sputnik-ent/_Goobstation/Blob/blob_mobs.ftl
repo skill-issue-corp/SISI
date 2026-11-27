@@ -1,8 +1,8 @@
-ent-MobBlobPod = Blob Drop
-    .desc = An ordinary blob fighter.
+ent-MobBlobPod = Спора Блоба
+    .desc = Обычный боец блоба.
 
-ent-MobBlobBlobbernaut = Blobbernaut
-    .desc = An elite blob fighter.
+ent-MobBlobBlobbernaut = Блоббернаут
+    .desc = Элитный боец блоба.
 
-ent-MobObserverBlob = Blob observer
+ent-MobObserverBlob = Наблюдатель блоба
     .desc = { "" }

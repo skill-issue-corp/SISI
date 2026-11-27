@@ -1,1 +1,1 @@
-construction-guide-condition-stack-count = Collect {$count} pieces
+construction-guide-condition-stack-count = Соберите детали: {$count}

@@ -1,8 +1,8 @@
 ent-SharpMedalHereticBladeEffect = { "" }
     .desc = { "" }
 
-ent-HereticBladeBaseNoTeleport = eldritch blade
-    .desc = A sickly green crescent blade, decorated with an ornamental eye. You feel like you're being watched...
+ent-HereticBladeBaseNoTeleport = потусторонний клинок
+    .desc = Болезненно-зелёный клинок в форме полумесяца, украшенный узором в виде глаза. Вы чувствуете, будто за вами следят...
 
 ent-BaseRandomTeleportBlade = { "" }
     .desc = { "" }
@@ -10,40 +10,40 @@ ent-BaseRandomTeleportBlade = { "" }
 ent-HereticBladeBase = { ent-HereticBladeBaseNoTeleport }
     .desc = { ent-HereticBladeBaseNoTeleport.desc }
 
-ent-HereticBladeAsh = ashen blade
-    .desc = Molten and unwrought, a hunk of metal warped to cinders and slag. Unmade, it aspires to be more than it is, and shears soot-filled wounds with a blunt edge.
-    .suffix = Ash
+ent-HereticBladeAsh = пепельный клинок
+    .desc = Оплавленный, необработанный кусок металла, изуродованный в золу и шлак. Недоделанный, он жаждет стать чем-то большим и тупым лезвием рассекает раны, полные сажи.
+    .suffix = Пепел
 
-ent-HereticBladeBlade = sundered blade
-    .desc = A galliant blade, sundered and torn. Furiously, the blade cuts. Silver scars bind it forever to its dark purpose.
-    .suffix = Blade
+ent-HereticBladeBlade = расколотый клинок
+    .desc = Доблестный клинок, рассечённый и изорванный. Клинок яростно рубит. Серебряные шрамы навеки привязывают его к мрачному предназначению.
+    .suffix = Клинок
 
 ent-HereticBladeFleshBase = { ent-HereticBladeBaseNoTeleport }
-    .desc = A crescent blade born from a fleshwarped creature. Keenly aware, it seeks to spread to others the suffering it has endured from its dreadful origins.
+    .desc = Серповидное лезвие, рождённое существом с извращённой плотью. Оно ясно осознаёт себя и стремится передать другим страдания, которые испытало при своём жутком рождении.
 
-ent-HereticBladeFleshGhoul = ghoul blade
-    .desc = A crescent blade born from a fleshwarped creature. Keenly aware, it seeks to spread to others the suffering it has endured from its dreadful origins.
-    .suffix = Flesh ghoul
+ent-HereticBladeFleshGhoul = клинок гуля
+    .desc = Серповидное лезвие, рождённое существом с извращённой плотью. Оно ясно осознаёт себя и стремится передать другим страдания, которые испытало при своём жутком рождении.
+    .suffix = Гуль плоти
 
-ent-HereticBladeFlesh = bloody blade
+ent-HereticBladeFlesh = кровавый клинок
     .desc = { ent-HereticBladeFleshBase.desc }
-    .suffix = Flesh
+    .suffix = Плоть
 
-ent-HereticBladeLock = key blade
-    .desc = A blade and a key, a key to what? What grand gates does it open?
-    .suffix = Lock
+ent-HereticBladeLock = клинок-ключ
+    .desc = И клинок, и ключ. Ключ к чему? Какие великие врата он отпирает?
+    .suffix = Засов
 
-ent-HereticBladeRust = rusted blade
-    .desc = This crescent blade is decrepit, wasting to rust. Yet still it bites, ripping flesh and bone with jagged, rotten teeth.
-    .suffix = Rust
+ent-HereticBladeRust = ржавый клинок
+    .desc = Этот серповидный клинок ветшает и рассыпается ржавчиной. И всё же он кусает, раздирая плоть и кости зазубренными гнилыми зубьями.
+    .suffix = Ржавчина
 
-ent-HereticBladeVoid = void blade
-    .desc = Devoid of any substance, this blade reflects nothingness. It is a real depiction of purity, and chaos that ensues after its implementation.
-    .suffix = Void
+ent-HereticBladeVoid = клинок пустоты
+    .desc = Лишённый всякой материи, этот клинок отражает небытие. Он воплощает чистоту и хаос, который следует за её воплощением.
+    .suffix = Пустота
 
-ent-HereticBladeCosmos = cosmic blade
-    .desc = A mote of celestial resonance, shaped into a star-woven blade. An iridescent exile, carving radiant trails, desperately seeking unification.
-    .suffix = Cosmos
+ent-HereticBladeCosmos = космический клинок
+    .desc = Крупица небесного резонанса в форме звёздотканого клинка. Радужный изгнанник оставляет лучистые следы, отчаянно ища единения.
+    .suffix = Космос
 
-ent-HereticBladeArena = imperfect blade
-    .desc = A blade given to those who cannot accept the truth, out of pity. May it act as a blessing in the short time it remains alongside you.
+ent-HereticBladeArena = несовершенный клинок
+    .desc = Клинок, из жалости дарованный тем, кто не в силах принять истину. Пусть он станет благословением на то короткое время, что пробудет рядом с вами.

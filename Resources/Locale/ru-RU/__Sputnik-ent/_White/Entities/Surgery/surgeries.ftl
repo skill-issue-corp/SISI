@@ -1,5 +1,5 @@
-ent-SurgeryRemoveLarvaEmbryo = Remove Larva Embryo
+ent-SurgeryRemoveLarvaEmbryo = Извлечь Зародыш Личинки
     .desc = { ent-SurgeryBase.desc }
 
-ent-SurgeryRemoveLarva = Remove Larva
+ent-SurgeryRemoveLarva = Извлечь Личинку
     .desc = { ent-SurgeryBase.desc }

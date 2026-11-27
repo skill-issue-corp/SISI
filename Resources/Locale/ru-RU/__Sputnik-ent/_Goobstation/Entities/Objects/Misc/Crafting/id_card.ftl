@@ -1,5 +1,5 @@
-ent-IDCardTide = tide ID card
-    .desc = Makeshift ID card, made from god knows what.
+ent-IDCardTide = ID-карта тайдера
+    .desc = Самодельная ID-карта из бог знает чего.
 
-ent-IDCardTideUnfinished = unfinished makeshift ID card
-    .desc = God have mercy.
+ent-IDCardTideUnfinished = незаконченная самодельная ID-карта
+    .desc = Господи, помилуй.

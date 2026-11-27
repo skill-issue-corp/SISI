@@ -1,2 +1,2 @@
-ent-InfectionScannerCburn = blood tester
-    .desc = A small device, typically utilized by CBURN agents. It's capable of detecting the presence of an infection in a targets bloodstream.
+ent-InfectionScannerCburn = анализатор крови
+    .desc = Небольшой прибор, которым обычно пользуются агенты РХБЗЗ. Обнаруживает инфекцию в крови цели.

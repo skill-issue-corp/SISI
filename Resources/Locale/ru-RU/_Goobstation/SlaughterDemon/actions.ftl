@@ -1,5 +1,5 @@
-slaughter-devour-humanoid = You devoured someone... You feel amazing!
-slaughter-devour-robot = You devoured someone... You feel alright.
-slaughter-devour-other = You devoured something... It's disgusting!
+slaughter-devour-humanoid = Вы кого-то сожрали... Вы чувствуете себя потрясающе!
+slaughter-devour-robot = Вы кого-то сожрали... Неплохое самочувствие.
+slaughter-devour-other = Вы что-то сожрали... Мерзость!
 
-slaughter-blood-jaunt-fail = You must stand on blood
+slaughter-blood-jaunt-fail = Вы должны стоять в крови

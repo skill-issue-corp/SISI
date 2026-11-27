@@ -10,71 +10,71 @@ ent-OrganCyberneticInternal = { ent-OrganCybernetic }
 ent-OrganCyberneticMetabolizer = { "" }
     .desc = { "" }
 
-ent-OrganCyberneticArmLeft = cybernetic left arm
+ent-OrganCyberneticArmLeft = кибернетическая левая рука
     .desc = { ent-OrganBaseArmLeft.desc }
 
-ent-OrganCyberneticArmRight = cybernetic right arm
+ent-OrganCyberneticArmRight = кибернетическая правая рука
     .desc = { ent-OrganBaseArmRight.desc }
 
-ent-OrganCyberneticLegLeft = cybernetic left leg
+ent-OrganCyberneticLegLeft = кибернетическая левая нога
     .desc = { ent-OrganBaseLegLeft.desc }
 
-ent-OrganCyberneticLegRight = cybernetic right leg
+ent-OrganCyberneticLegRight = кибернетическая правая нога
     .desc = { ent-OrganBaseLegRight.desc }
 
-ent-OrganCyberneticHandLeft = cybernetic left hand
+ent-OrganCyberneticHandLeft = кибернетическая левая кисть
     .desc = { ent-OrganBaseHandLeft.desc }
 
-ent-OrganCyberneticHandRight = cybernetic right hand
+ent-OrganCyberneticHandRight = кибернетическая правая кисть
     .desc = { ent-OrganBaseHandRight.desc }
 
-ent-OrganCyberneticFootLeft = cybernetic left foot
+ent-OrganCyberneticFootLeft = кибернетическая левая стопа
     .desc = { ent-OrganBaseFootLeft.desc }
 
-ent-OrganCyberneticFootRight = cybernetic right foot
+ent-OrganCyberneticFootRight = кибернетическая правая стопа
     .desc = { ent-OrganBaseFootRight.desc }
 
 ent-OrganCyberneticJWL = { "" }
-    .desc = A cybernetic arm with the ability to pry doors open.
+    .desc = Кибернетическая рука, способная вскрывать двери.
 
-ent-OrganJWLArmLeft = J.W.L left arm
+ent-OrganJWLArmLeft = левая рука J.W.L
     .desc = { ent-OrganCyberneticArmLeft.desc }
 
-ent-OrganJWLArmRight = J.W.L right arm
+ent-OrganJWLArmRight = правая рука J.W.L
     .desc = { ent-OrganCyberneticArmRight.desc }
 
 ent-OrganCyberneticSpeed = { "" }
-    .desc = A cybernetic leg that allows its wearer to run faster.
+    .desc = Кибернетическая нога, позволяющая носителю быстрее бегать.
 
-ent-OrganSpeedLegLeft = S.P.E.E.D left leg
+ent-OrganSpeedLegLeft = левая нога S.P.E.E.D
     .desc = { ent-OrganCyberneticLegLeft.desc }
 
-ent-OrganSpeedLegRight = S.P.E.E.D right leg
+ent-OrganSpeedLegRight = правая нога S.P.E.E.D
     .desc = { ent-OrganCyberneticLegRight.desc }
 
 ent-OrganCyberneticDex = { "" }
-    .desc = A cybernetic hand that allows its wearer to interact faster.
+    .desc = Кибернетическая кисть, позволяющая носителю быстрее взаимодействовать с предметами.
 
-ent-OrganDexHandLeft = D.E.X left hand
+ent-OrganDexHandLeft = левая кисть D.E.X
     .desc = { ent-OrganCyberneticHandLeft.desc }
 
-ent-OrganDexHandRight = D.E.X right hand
+ent-OrganDexHandRight = правая кисть D.E.X
     .desc = { ent-OrganCyberneticHandRight.desc }
 
-ent-OrganCyberneticEyes = cybernetic eyes
-    .desc = A pair of cybernetic eyes that enhance your vision, and protect you from eye damage.
+ent-OrganCyberneticEyes = кибернетические глаза
+    .desc = Пара кибернетических глаз, которые улучшают зрение и защищают глаза от повреждений.
 
-ent-OrganCyberneticEyesSecurity = security cybernetic eyes
-    .desc = A pair of cybernetic eyes that enhance your vision, featuring an integrated SecHUD.
+ent-OrganCyberneticEyesSecurity = кибернетические глаза службы безопасности
+    .desc = Пара кибернетических глаз со встроенным визором СБ, улучшающих зрение.
 
-ent-OrganCyberneticEyesMedical = medical cybernetic eyes
-    .desc = A pair of cybernetic eyes that enhance your vision, featuring an integrated MedHUD.
+ent-OrganCyberneticEyesMedical = медицинские кибернетические глаза
+    .desc = Пара кибернетических глаз со встроенным медицинским визором, улучшающих зрение.
 
-ent-OrganCyberneticEyesDiagnostic = diagnostic cybernetic eyes
-    .desc = A pair of cybernetic eyes that enhance your vision, featuring an integrated diagnostic HUD.
+ent-OrganCyberneticEyesDiagnostic = диагностические кибернетические глаза
+    .desc = Пара кибернетических глаз со встроенным диагностическим визором, улучшающих зрение.
 
-ent-OrganCyberneticLungs = cybernetic lungs
-    .desc = Advanced synthetic lungs that breathe oxygen and nitrogen, ignore CO2, and resist most other atmospheric hazards.
+ent-OrganCyberneticLungs = кибернетические лёгкие
+    .desc = Продвинутые синтетические лёгкие, которые дышат кислородом и азотом, невосприимчивы к CO2 и выдерживают большинство других атмосферных угроз.
 
-ent-OrganCyberneticLungsUpgraded = upgraded cybernetic lungs
-    .desc = A self-contained respiratory system that eliminates the need to breathe entirely and grants increased stamina recovery.
+ent-OrganCyberneticLungsUpgraded = улучшенные кибернетические лёгкие
+    .desc = Автономная дыхательная система, полностью устраняющая потребность в дыхании и ускоряющая восстановление выносливости.

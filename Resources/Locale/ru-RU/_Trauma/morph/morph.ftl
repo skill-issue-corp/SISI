@@ -11,11 +11,11 @@ morph-role-greeting-desc =
     • [color={$hl1}]Внезапная атака:[/color] сбрасывайте маскировку и атакуйте в истинной форме, когда беспечный член экипажа решит подобрать вас с пола!
 # SIS-End
 
-morph-no-biomass-target = You couldn't get any biomass
+morph-no-biomass-target = Не удалось получить биомассу
 
-morph-examine = [color=#79b037]It looks strange...[/color]
+morph-examine = [color=#79b037]Выглядит странно...[/color]
 
-morph-name-user = [color=#79b037]{$name}[/color]([color=gray]{$username}[/color]) was a [color=#79b037]prime morph[/color] that had {$count} children.
-morph-name-user-lone = [color=#79b037]{$name}[/color]([color=gray]{$username}[/color]) was a [color=#79b037]prime morph[/color] that had {$count} child.
+morph-name-user = [color=#79b037]{$name}[/color]([color=gray]{$username}[/color]) — [color=#79b037]первичный морф[/color]. Потомков: {$count}.
+morph-name-user-lone = [color=#79b037]{$name}[/color]([color=gray]{$username}[/color]) — [color=#79b037]первичный морф[/color]. Потомков: {$count}.
 
-morph-round-end-name = [color=#79b037]prime morph[/color]
+morph-round-end-name = [color=#79b037]первичный морф[/color]

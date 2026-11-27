@@ -1,2 +1,2 @@
-ent-AbductorHandcuffs = wondercuffs
-    .desc = Made out of a metal more durable than anything Nanotrasen could dream of.
+ent-AbductorHandcuffs = чудо-наручники
+    .desc = Изготовлено из металла прочнее всего, о чём могла мечтать NanoTrasen.

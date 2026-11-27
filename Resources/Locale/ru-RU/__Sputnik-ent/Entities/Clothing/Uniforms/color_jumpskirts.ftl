@@ -1,50 +1,50 @@
-ent-ClothingUniformJumpskirtColorWhite = white jumpskirt
-    .desc = A generic white jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorWhite = белая юбка-комбинезон
+    .desc = Обычная белая юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorGrey = grey jumpskirt
-    .desc = A tasteful grey jumpskirt that reminds you of the good old days.
+ent-ClothingUniformJumpskirtColorGrey = серая юбка-комбинезон
+    .desc = Элегантная серая юбка-комбинезон напоминает о старых добрых временах.
 
-ent-ClothingUniformJumpskirtColorBlack = black jumpskirt
-    .desc = A generic black jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorBlack = чёрная юбка-комбинезон
+    .desc = Обычная чёрная юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorBlue = blue jumpskirt
-    .desc = A generic blue jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorBlue = синяя юбка-комбинезон
+    .desc = Обычная синяя юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorDarkBlue = dark blue jumpskirt
-    .desc = A generic dark blue jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorDarkBlue = тёмно-синяя юбка-комбинезон
+    .desc = Обычная тёмно-синяя юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorTeal = teal jumpskirt
-    .desc = A generic teal jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorTeal = бирюзовая юбка-комбинезон
+    .desc = Обычная бирюзовая юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorGreen = green jumpskirt
-    .desc = A generic green jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorGreen = зелёная юбка-комбинезон
+    .desc = Обычная зелёная юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorDarkGreen = dark green jumpskirt
-    .desc = A generic dark green jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorDarkGreen = тёмно-зелёная юбка-комбинезон
+    .desc = Обычная тёмно-зелёная юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorOrange = orange jumpskirt
-    .desc = Don't wear this near paranoid security officers.
+ent-ClothingUniformJumpskirtColorOrange = оранжевая юбка-комбинезон
+    .desc = Не носите рядом с параноидальными офицерами службы безопасности.
 
-ent-ClothingUniformJumpskirtColorPink = pink jumpskirt
-    .desc = Just looking at this makes you feel [italic]fabulous[/italic].
+ent-ClothingUniformJumpskirtColorPink = розовая юбка-комбинезон
+    .desc = Достаточно одного взгляда, чтобы почувствовать себя [italic]великолепно[/italic].
 
-ent-ClothingUniformJumpskirtColorRed = red jumpskirt
-    .desc = A generic red jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorRed = красная юбка-комбинезон
+    .desc = Обычная красная юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorYellow = yellow jumpskirt
-    .desc = A generic yellow jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorYellow = жёлтая юбка-комбинезон
+    .desc = Обычная жёлтая юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorPurple = purple jumpskirt
-    .desc = A generic light purple jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorPurple = фиолетовая юбка-комбинезон
+    .desc = Обычная светло-фиолетовая юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorLightBrown = light brown jumpskirt
-    .desc = A generic light brown jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorLightBrown = светло-коричневая юбка-комбинезон
+    .desc = Обычная светло-коричневая юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorBrown = brown jumpskirt
-    .desc = A generic brown jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorBrown = коричневая юбка-комбинезон
+    .desc = Обычная коричневая юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorMaroon = maroon jumpskirt
-    .desc = A generic maroon jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorMaroon = бордовая юбка-комбинезон
+    .desc = Обычная бордовая юбка-комбинезон без знаков различия.
 
-ent-ClothingUniformJumpskirtColorRainbow = rainbow jumpskirt
-    .desc = A multi-colored jumpskirt!
+ent-ClothingUniformJumpskirtColorRainbow = радужная юбка-комбинезон
+    .desc = Разноцветная юбка-комбинезон!

@@ -1,3 +1,3 @@
-materials-cerenkite = cerenkite
-materials-plutonium = plutonium
-materials-bohrum = bohrum
+materials-cerenkite = черенкит
+materials-plutonium = плутоний
+materials-bohrum = борум

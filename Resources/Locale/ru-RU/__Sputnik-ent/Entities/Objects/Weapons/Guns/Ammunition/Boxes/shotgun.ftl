@@ -4,26 +4,26 @@ ent-BaseAmmoProvider = { ent-BaseItem }
 ent-AmmoProviderShotgunShell = { ent-BaseAmmoProvider }
     .desc = { ent-BaseAmmoProvider.desc }
 
-ent-BoxBeanbag = ammunition box (12 Gauge beanbag)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold less-than-lethal beanbag ammunition.
+ent-BoxBeanbag = коробка патронов (12 Калибр травматические)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для травматических боеприпасов с мягкими снарядами.
 
-ent-BoxLethalshot = ammunition box (12 Gauge pellet)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold general-purpose kinetic ammunition.
+ent-BoxLethalshot = коробка патронов (12 Калибр картечь)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для обычных кинетических боеприпасов.
 
-ent-BoxShotgunSlug = ammunition box (12 Gauge slug)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold long-ranged slug ammunition.
+ent-BoxShotgunSlug = коробка патронов (12 Калибр пуля)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для дальнобойных пулевых боеприпасов.
 
-ent-BoxShotgunFlare = ammunition box (12 Gauge flare)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold illuminating flare ammunition.
+ent-BoxShotgunFlare = коробка патронов (12 Калибр сигнальные)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для осветительных боеприпасов.
 
-ent-BoxShotgunIncendiary = ammunition box (12 Gauge incendiary)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold self-igniting incendiary ammunition.
+ent-BoxShotgunIncendiary = коробка патронов (12 Калибр зажигательные)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для самовоспламеняющихся зажигательных боеприпасов.
 
-ent-BoxShotgunUranium = ammunition box (12 Gauge uranium)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold exotic uranium-core ammunition.
+ent-BoxShotgunUranium = коробка патронов (12 Калибр урановые)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для экзотических боеприпасов с урановым сердечником.
 
-ent-BoxShotgunPractice = ammunition box (12 Gauge practice)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold harmless practice ammunition.
+ent-BoxShotgunPractice = коробка патронов (12 Калибр учебные)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для безвредных учебных боеприпасов.
 
-ent-BoxShellTranquilizer = ammunition box (12 Gauge tranquilizer)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold nonlethal tranquilizer ammunition.
+ent-BoxShellTranquilizer = коробка патронов (12 Калибр транквилизатор)
+    .desc = Картонная коробка с ружейными патронами 12 Калибра. Предназначена для нелетальных боеприпасов с транквилизатором.

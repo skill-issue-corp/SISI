@@ -1,3 +1,3 @@
 # Ideally, subtype names should be short
-role-subtype-cosmic-cultist = C. Cultist
-role-subtype-rogue-ascended = Ascended
+role-subtype-cosmic-cultist = К. Культист
+role-subtype-rogue-ascended = Вознесённый

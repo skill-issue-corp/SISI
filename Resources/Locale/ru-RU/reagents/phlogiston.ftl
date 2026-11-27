@@ -1,2 +1,2 @@
 # Trauma - plasma -> phoron
-phlogiston-plasma-created = The mixture bubbles, and phoron rises from it!
+phlogiston-plasma-created = Смесь пузырится, и над ней поднимается форон!

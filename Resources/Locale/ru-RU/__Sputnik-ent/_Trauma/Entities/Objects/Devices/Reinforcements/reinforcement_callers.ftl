@@ -1,14 +1,14 @@
-ent-BaseReinforcementCaller = reinforcement caller
-    .desc = A device that calls in reinforcements for the station.
+ent-BaseReinforcementCaller = устройство вызова подкрепления
+    .desc = Устройство, вызывающее подкрепление на станцию.
 
 ent-ReinforcementCallerHos = { ent-BaseReinforcementCaller }
     .desc = { ent-BaseReinforcementCaller.desc }
-    .suffix = HoS
+    .suffix = ГСБ
 
 ent-ReinforcementCallerHoP = { ent-BaseReinforcementCaller }
     .desc = { ent-BaseReinforcementCaller.desc }
-    .suffix = HoP
+    .suffix = ГП
 
 ent-DebugReinforcementCaller = { ent-BaseReinforcementCaller }
     .desc = { ent-BaseReinforcementCaller.desc }
-    .suffix = Debug
+    .suffix = DEBUG

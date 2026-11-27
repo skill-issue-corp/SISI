@@ -1,8 +1,8 @@
-ent-PaperStationWarrant = station warrant
-    .desc = A paper warrant issued by the justice department.
+ent-PaperStationWarrant = ордер станции
+    .desc = Бумажный ордер, выданный отделом юстиции.
 
-ent-PaperFugitiveReport = fugitive report
-    .desc = An arrest warrant for a space fugitive sent from SpacePol.
+ent-PaperFugitiveReport = сводка о беглеце
+    .desc = Ордер на арест космического беглеца, высланный КосмоПолом.
 
-ent-TapeRecorderTranscript = record transcript
+ent-TapeRecorderTranscript = расшифровка записи
     .desc = { ent-Paper.desc }

@@ -1,9 +1,9 @@
-ent-AppearanceSlaughterDemon = slaughter demon appearance
+ent-AppearanceSlaughterDemon = внешность демона резни
     .desc = { ent-BaseMobBody.desc }
 
 ent-OrganSlaughterDemon = { ent-OrganBase }
     .desc = { ent-OrganBase.desc }
-    .suffix = slaughter demon
+    .suffix = демон резни
 
 ent-OrganSlaughterDemonInternal = { ent-OrganSlaughterDemon }
     .desc = { ent-OrganSlaughterDemon.desc }
@@ -26,5 +26,5 @@ ent-OrganSlaughterDemonHandLeft = { ent-OrganBaseHandLeft }
 ent-OrganSlaughterDemonHandRight = { ent-OrganBaseHandRight }
     .desc = { ent-OrganBaseHandRight.desc }
 
-ent-OrganSlaughterDemonHeart = demonic heart
+ent-OrganSlaughterDemonHeart = демоническое сердце
     .desc = { ent-OrganAnimalHeart.desc }

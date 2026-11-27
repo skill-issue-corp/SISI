@@ -6,28 +6,28 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-comp-gas-canister-ui-canister-status = Canister Status
-comp-gas-canister-ui-canister-relabel = Relabel
-comp-gas-canister-ui-canister-pressure = Canister Pressure:
+comp-gas-canister-ui-canister-status = Состояние Канистры
+comp-gas-canister-ui-canister-relabel = Изменить маркировку
+comp-gas-canister-ui-canister-pressure = Давление в Канистре:
 
-comp-gas-canister-ui-port-status = Port Status:
-comp-gas-canister-ui-port-connected = Connected
-comp-gas-canister-ui-port-disconnected = Disconnected
+comp-gas-canister-ui-port-status = Состояние Порта:
+comp-gas-canister-ui-port-connected = Подключён
+comp-gas-canister-ui-port-disconnected = Отключён
 
-comp-gas-canister-ui-holding-tank-status = Holding Tank Status
-comp-gas-canister-ui-holding-tank-label = Tank Label:
-comp-gas-canister-ui-holding-tank-label-empty = Empty
-comp-gas-canister-ui-holding-tank-pressure = Tank Pressure:
-comp-gas-canister-ui-holding-tank-eject = Eject
+comp-gas-canister-ui-holding-tank-status = Состояние Баллона
+comp-gas-canister-ui-holding-tank-label = Маркировка Баллона:
+comp-gas-canister-ui-holding-tank-label-empty = Пусто
+comp-gas-canister-ui-holding-tank-pressure = Давление в Баллоне:
+comp-gas-canister-ui-holding-tank-eject = Извлечь
 
-comp-gas-canister-ui-release-valve-status = Release Valve Status
-comp-gas-canister-ui-release-pressure = Release Pressure (kPa):
-comp-gas-canister-ui-release-valve = Release Valve:
-comp-gas-canister-ui-release-valve-open = Open
-comp-gas-canister-ui-release-valve-close = Close
+comp-gas-canister-ui-release-valve-status = Состояние Выпускного Клапана
+comp-gas-canister-ui-release-pressure = Давление Выпуска (кПа):
+comp-gas-canister-ui-release-valve = Выпускной Клапан:
+comp-gas-canister-ui-release-valve-open = Открыть
+comp-gas-canister-ui-release-valve-close = Закрыть
 
-comp-gas-canister-ui-pressure = {$pressure} kPa
+comp-gas-canister-ui-pressure = {$pressure} кПа
 
 # Canister gas tank slot
 
-comp-gas-canister-slot-name-gas-tank = Gas tank
+comp-gas-canister-slot-name-gas-tank = Газовый баллон

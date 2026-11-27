@@ -1,11 +1,11 @@
-ent-ClothingOuterWinterCoatMail = mail carrier's winter coat
-    .desc = It'll keep away the cold but not the dogs.
+ent-ClothingOuterWinterCoatMail = зимняя куртка почтальона
+    .desc = Спасёт от холода, а вот от собак – нет.
 
-ent-ClothingOuterWinterSecArmored = security armored winter coat
-    .desc = A sturdy, utilitarian winter coat designed to protect security members from any threats and hypothermic events.
+ent-ClothingOuterWinterSecArmored = бронированная зимняя куртка службы безопасности
+    .desc = Прочная практичная зимняя куртка защищает сотрудников службы безопасности от любых угроз и переохлаждения.
 
-ent-ClothingOuterWinterSeniorSecArmored = senior security armored winter coat
-    .desc = A sturdy, utilitarian winter coat designed to protect senior security members from any threats and hypothermic events.
+ent-ClothingOuterWinterSeniorSecArmored = бронированная зимняя куртка старшего офицера
+    .desc = Прочная практичная зимняя куртка защищает старших сотрудников службы безопасности от любых угроз и переохлаждения.
 
-ent-ClothingOuterWinterCosmic = cosmic winter coat
-    .desc = An expensive machine-made winter coat.
+ent-ClothingOuterWinterCosmic = космическая зимняя куртка
+    .desc = Дорогая зимняя куртка машинного пошива.

@@ -1,26 +1,26 @@
 ent-BaseClothingBeltEngineering = { ent-ClothingBeltStorageBase }
     .desc = { ent-ClothingBeltStorageBase.desc }
 
-ent-ClothingBeltUtility = utility belt
-    .desc = Can hold various things.
+ent-ClothingBeltUtility = пояс для инструментов
+    .desc = Вмещает разные вещи.
 
-ent-ClothingBeltChiefEngineer = chief engineer's toolbelt
-    .desc = Holds tools, looks snazzy.
+ent-ClothingBeltChiefEngineer = пояс для инструментов старшего инженера
+    .desc = Вмещает инструменты, выглядит шикарно.
 
-ent-ClothingBeltJanitor = janibelt
-    .desc = A belt used to hold most janitorial supplies.
+ent-ClothingBeltJanitor = пояс уборщика
+    .desc = Пояс, в который помещается большинство принадлежностей для уборки.
 
-ent-ClothingBeltMedical = medical belt
-    .desc = Can hold various medical equipment.
+ent-ClothingBeltMedical = медицинский пояс
+    .desc = Вмещает различное медицинское снаряжение.
 
-ent-ClothingBeltMedicalEMT = EMT belt
-    .desc = Perfect for holding various equipment for medical emergencies.
+ent-ClothingBeltMedicalEMT = пояс парамедика
+    .desc = Идеален для хранения разного снаряжения для экстренной медицинской помощи.
 
-ent-ClothingBeltPlant = botanical belt
-    .desc = A belt used to hold most hydroponics supplies. Suprisingly, not green.
+ent-ClothingBeltPlant = пояс ботаника
+    .desc = Пояс для большинства принадлежностей гидропоники. На удивление, не зелёный.
 
-ent-ClothingBeltChef = chef belt
-    .desc = A belt used to hold kitchen knives and condiments for quick access.
+ent-ClothingBeltChef = пояс повара
+    .desc = Пояс, в котором кухонные ножи и приправы всегда под рукой.
 
-ent-ClothingBeltSecurity = security belt
-    .desc = Can hold security gear like handcuffs and flashes.
+ent-ClothingBeltSecurity = пояс службы безопасности
+    .desc = Вмещает снаряжение службы безопасности, например наручники и вспышки.

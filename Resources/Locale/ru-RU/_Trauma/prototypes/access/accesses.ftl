@@ -1,3 +1,3 @@
-id-card-access-level-revolutionary = Revolutionary
-id-card-access-level-genetics = Genetics
-id-card-access-level-library = Library
+id-card-access-level-revolutionary = Революционер
+id-card-access-level-genetics = Генетика
+id-card-access-level-library = Библиотека

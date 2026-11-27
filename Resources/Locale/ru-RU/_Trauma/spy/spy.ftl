@@ -1,33 +1,33 @@
 spy-uplink-examine-message =
-    You recognize this as your [bolditalic]spy uplink[/bolditalic]
-    {"["}color=lime][bolditalic]Right click[/bolditalic][/color] it and select "View Bounties" to view your bounty list.
-    {"["}color=orange][bolditalic]Click[/bolditalic][/color] the bounty target with it on to claim it.
+    Это ваш [bolditalic]шпионский аплинк[/bolditalic]
+    {"["}color=lime][bolditalic]Щёлкните правой кнопкой мыши[/bolditalic][/color] и выберите «Просмотреть Задания», чтобы открыть список заданий.
+    {"["}color=orange][bolditalic]Щёлкните[/bolditalic][/color] по цели задания включённым аплинком, чтобы засчитать кражу.
 
-spy-uplink-open-verb = 🕵 View Bounties
-spy-uplink-steal-verb = 🕵 Scan Target
-spy-uplink-refresh-time = Time until refresh: {$time}
-spy-uplink-title = Spy Uplink
-spy-uplink-flavor = Rewards given on first-come first-serve basis.
-spy-uplink-claimed = 🕵 Claimed!
-spy-uplink-cant-claim = Your benefactors see you unfit to complete this.
-spy-uplink-reward = Reward: {$reward}
+spy-uplink-open-verb = 🕵 Просмотреть Задания
+spy-uplink-steal-verb = 🕵 Сканировать Цель
+spy-uplink-refresh-time = До обновления: {$time}
+spy-uplink-title = Шпионский Аплинк
+spy-uplink-flavor = Кто первым выполнит задание, тот и получит награду.
+spy-uplink-claimed = 🕵 Засчитано!
+spy-uplink-cant-claim = Ваши покровители считают, что вам это поручать нельзя.
+spy-uplink-reward = Награда: {$reward}
 spy-uplink-description-label = [font size=10][color=darkcyan]{$desc}[/color][/font]
-spy-uplink-collect-reward = Collect Reward
-spy-uplink-bounties = Bounties
-spy-uplink-rewards = Rewards
-spy-uplink-select-reward = Select Reward
-spy-uplink-no-rewards = No rewards available!
-spy-uplink-steal-fail = Your uplink blinks red: {$target} is invalid for active non-claimed bounties or cannot be extracted from here.
-spy-uplink-new = 🕵 Make new spy uplink
+spy-uplink-collect-reward = Получить Награду
+spy-uplink-bounties = Задания
+spy-uplink-rewards = Награды
+spy-uplink-select-reward = Выбрать Награду
+spy-uplink-no-rewards = Доступных наград нет!
+spy-uplink-steal-fail = Аплинк мигает красным: {$target} не подходит ни к одному открытому заданию или его нельзя извлечь отсюда.
+spy-uplink-new = 🕵 Сделать новый шпионский аплинк
 
-spy-uplink-ammo-name = Ammunition
-spy-uplink-ammo-desc = Some ammo of your choice
+spy-uplink-ammo-name = Боеприпасы
+spy-uplink-ammo-desc = Немного боеприпасов на ваш выбор
 
-spies-title = Spies
-spies-description = A red spy has entered the base.
+spies-title = Шпионы
+spies-description = Красный шпион проник на базу.
 
 spy-role-claimed-bounties =
-    {CAPITALIZE($name)} has claimed a total of [color=red]{$amount}[/color] bounties.
+    {CAPITALIZE($name)} выполняет задания. Всего: [color=red]{$amount}[/color].
     {" "}
 
 # SIS-Start
@@ -44,24 +44,24 @@ spy-role-greeting-desc =
     • [color={$hl1}]Договор:[/color] если вас раскроют, работодатель от всего откажется. [gradient color1="{$hl1}" color2="{$hl2}" speed="1"]Действуйте тихо и не оставляйте свидетелей[/gradient].
 # SIS-End
 
-spy-role-briefing-short = You are a Spy, tasked with stealing various station equipment.
+spy-role-briefing-short = Вы Шпион, которому поручено красть различное оборудование станции.
 
 spy-role-uplink-pda-short =
-    Your bounty uplink is located in your PDA.
-    Remember, you can turn any PDA into your spy uplink if you lose yours.
+    Ваш аплинк с заданиями находится в КПК.
+    Если потеряете свой, помните: любой КПК можно превратить в шпионский аплинк.
 
 spy-role-no-uplink-short =
-    You don not have an uplink.
-    Find any PDA and fashion it into spy uplink manually.
+    У вас нет аплинка.
+    Найдите любой КПК и вручную превратите его в шпионский аплинк.
 
-spy-bounty-default-name = {CAPITALIZE($item)} Theft
-spy-bounty-default-desc = Steal any {$item}.
+spy-bounty-default-name = Кража: {CAPITALIZE($item)}
+spy-bounty-default-desc = Украдите любой предмет типа «{$item}».
 
-spy-bounty-specific-desc = Steal {$item}.
+spy-bounty-specific-desc = Украдите {$item}.
 
 spy-bounty-area-desc =
-    Steal {$item}, found in {$areas}.
-    Similar targets outside of specified area won't complete the bounty.
+    Украдите {$item}, который находится в зоне «{$areas}».
+    Такие же цели за пределами указанной зоны не засчитываются.
 
-spy-bounty-organ-name = {CAPITALIZE($uid)}'s {CAPITALIZE($organ)} Theft
-spy-bounty-organ-desc = Scan {CAPITALIZE($uid)}, {$job} to steal their {$organ}.
+spy-bounty-organ-name = Кража Органа «{CAPITALIZE($organ)}» у {CAPITALIZE($uid)}
+spy-bounty-organ-desc = Отсканируйте цель {CAPITALIZE($uid)}, {$job}, чтобы украсть её орган «{$organ}».

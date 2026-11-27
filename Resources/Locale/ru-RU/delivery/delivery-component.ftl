@@ -1,34 +1,35 @@
-delivery-recipient-examine = This one is meant for {$recipient}, {$job}.
-delivery-already-opened-examine = It was already opened.
-delivery-earnings-examine = Delivering this will earn the station [color=yellow]{$spesos}[/color] spesos.
-delivery-recipient-no-name = Unnamed
-delivery-recipient-no-job = Unknown
+delivery-recipient-examine = Адресат - {$recipient}, {$job}.
+delivery-already-opened-examine = Уже вскрыто.
+delivery-earnings-examine = За доставку станция получит [color=yellow]{$spesos}[/color] спесо.
+delivery-recipient-no-name = Без имени
+delivery-recipient-no-job = Неизвестно
 
-delivery-unlocked-self = You unlock the {$delivery} with your fingerprint.
-delivery-opened-self = You open the {$delivery}.
-delivery-unlocked-others = {CAPITALIZE($recipient)} unlocked the {$delivery} with {POSS-ADJ($possadj)} fingerprint.
-delivery-opened-others = {CAPITALIZE($recipient)} opened the {$delivery}.
+delivery-unlocked-self = Вы разблокируете {$delivery} своим отпечатком пальца.
+delivery-opened-self = Вы вскрываете {$delivery}.
+delivery-unlocked-others = {CAPITALIZE($recipient)} разблокировал(а) {$delivery} с помощью {POSS-ADJ($possadj)} отпечатка пальца.
+delivery-opened-others = {CAPITALIZE($recipient)} вскрыл(а) {$delivery}.
 
-delivery-unlock-verb = Unlock
-delivery-open-verb = Open
-delivery-slice-verb = Slice open
+delivery-unlock-verb = Разблокировать
+delivery-open-verb = Вскрыть
+delivery-slice-verb = Разрезать
 
 delivery-teleporter-amount-examine =
     { $amount ->
-        [one] It contains [color=yellow]{$amount}[/color] delivery.
-        *[other] It contains [color=yellow]{$amount}[/color] deliveries.
+        [one] Внутри [color=yellow]{$amount}[/color] отправление.
+        [few] Внутри [color=yellow]{$amount}[/color] отправления.
+        *[many] Внутри [color=yellow]{$amount}[/color] отправлений.
     }
-delivery-teleporter-empty = The {$entity} is empty.
-delivery-teleporter-empty-verb = Take mail
+delivery-teleporter-empty = Пусто: {$entity}.
+delivery-teleporter-empty-verb = Забрать почту
 
 
 # modifiers
-delivery-priority-examine = This is a [color=orange]priority {$type}[/color]. You have [color=orange]{$time}[/color] left to deliver it to get a bonus.
-delivery-priority-delivered-examine = This is a [color=orange]priority {$type}[/color]. It got delivered on time.
-delivery-priority-expired-examine = This is a [color=orange]priority {$type}[/color]. It ran out of time.
+delivery-priority-examine = Отправление [color=orange]срочное ({$type})[/color]. Доставьте его за [color=orange]{$time}[/color] и получите премию.
+delivery-priority-delivered-examine = Отправление [color=orange]срочное ({$type})[/color]. Его доставили вовремя.
+delivery-priority-expired-examine = Отправление [color=orange]срочное ({$type})[/color]. Срок доставки истёк.
 
-delivery-fragile-examine = This is a [color=red]fragile {$type}[/color]. Deliver it intact for a bonus.
-delivery-fragile-broken-examine = This is a [color=red]fragile {$type}[/color]. It looks badly damaged.
+delivery-fragile-examine = Отправление [color=red]хрупкое ({$type})[/color]. Доставьте его целым и получите премию.
+delivery-fragile-broken-examine = Отправление [color=red]хрупкое ({$type})[/color]. Похоже, оно сильно повреждено.
 
-delivery-bomb-examine = This is a [color=purple]bomb {$type}[/color]. Oh no.
-delivery-bomb-primed-examine = This is a [color=purple]bomb {$type}[/color]. Reading this is a bad use of your time.
+delivery-bomb-examine = Внутри [color=purple]бомба ({$type})[/color]. О нет.
+delivery-bomb-primed-examine = Внутри [color=purple]бомба ({$type})[/color]. Зря вы тратите время на чтение.

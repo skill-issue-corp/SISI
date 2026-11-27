@@ -1,14 +1,14 @@
-ent-BaseDevilContract = contract from below
-    .desc = A devilish piece of black parchment detailing a contract. All ink that touches the page seems to turn to blood.
+ent-BaseDevilContract = контракт из преисподней
+    .desc = Дьявольский лист чёрного пергамента с условиями контракта. Любые чернила, коснувшись листа, словно превращаются в кровь.
 
 ent-PaperDevilContractBlank = { ent-BaseDevilContract }
     .desc = { ent-BaseDevilContract.desc }
-    .suffix = Blank
+    .suffix = Пустой
 
 ent-PaperDevilContract = { ent-PaperDevilContractBlank }
     .desc = { ent-PaperDevilContractBlank.desc }
-    .suffix = Devil Contract
+    .suffix = Контракт Дьявола
 
-ent-PaperDevilContractRevival = contract from the depths
-    .desc = A devilish piece of black parchment detailing a contract of revival. All ink that touches the page seems to turn to blood.
-    .suffix = Devil Contract, Revival
+ent-PaperDevilContractRevival = контракт из глубин
+    .desc = Дьявольский лист чёрного пергамента с условиями контракта о воскрешении. Любые чернила, коснувшись листа, словно превращаются в кровь.
+    .suffix = Контракт Дьявола, Воскрешение

@@ -1,12 +1,12 @@
-ent-AppearanceArachnid = arachnid appearance
+ent-AppearanceArachnid = облик арахнида
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobArachnid = Urist McWebs
+ent-MobArachnid = Урист МакПаутин
     .desc = { ent-AppearanceArachnid.desc }
 
 ent-OrganArachnid = { ent-OrganBaseOrganic }
     .desc = { ent-OrganBaseOrganic.desc }
-    .suffix = Arachnid
+    .suffix = Арахнид
 
 ent-OrganArachnidMetabolizer = { "" }
     .desc = { "" }

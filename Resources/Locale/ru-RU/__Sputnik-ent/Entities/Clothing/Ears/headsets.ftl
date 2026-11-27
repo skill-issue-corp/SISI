@@ -1,62 +1,62 @@
-ent-ClothingHeadset = headset
-    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.
+ent-ClothingHeadset = гарнитура
+    .desc = Обновлённый модульный интерком, который надевается на голову. Принимает ключи шифрования.
 
-ent-ClothingHeadsetGrey = passenger headset
+ent-ClothingHeadsetGrey = гарнитура пассажира
     .desc = { ent-ClothingHeadset.desc }
 
-ent-ClothingHeadsetCargo = cargo headset
-    .desc = A headset used by supply employees.
+ent-ClothingHeadsetCargo = гарнитура карго
+    .desc = Гарнитура для сотрудников снабжения.
 
-ent-ClothingHeadsetMining = mining headset
-    .desc = Headset used by shaft miners.
+ent-ClothingHeadsetMining = гарнитура шахтёра
+    .desc = Гарнитура, которую носят шахтёры.
 
-ent-ClothingHeadsetQM = qm headset
-    .desc = A headset used by the quartermaster.
+ent-ClothingHeadsetQM = гарнитура км
+    .desc = Гарнитура, которой пользуется квартирмейстер.
 
-ent-ClothingHeadsetCentCom = CentComm headset
-    .desc = A headset used by the upper echelons of Nanotrasen.
+ent-ClothingHeadsetCentCom = гарнитура ЦК
+    .desc = Гарнитура высших чинов NanoTrasen.
 
-ent-ClothingHeadsetCommand = command headset
-    .desc = A headset with a commanding channel.
+ent-ClothingHeadsetCommand = гарнитура командования
+    .desc = Гарнитура с командным каналом.
 
-ent-ClothingHeadsetEngineering = engineering headset
-    .desc = A headset for engineers to chat while the station burns around them.
+ent-ClothingHeadsetEngineering = инженерная гарнитура
+    .desc = Гарнитура, чтобы инженеры могли поболтать, пока станция горит вокруг них.
 
-ent-ClothingHeadsetCE = ce headset
-    .desc = A headset for the chief engineer to ignore all emergency calls on.
+ent-ClothingHeadsetCE = гарнитура си
+    .desc = Гарнитура, через которую старший инженер может игнорировать все экстренные вызовы.
 
-ent-ClothingHeadsetMedical = medical headset
-    .desc = A headset for the trained staff of the medbay.
+ent-ClothingHeadsetMedical = медицинская гарнитура
+    .desc = Гарнитура для квалифицированного персонала медотсека.
 
-ent-ClothingHeadsetCMO = cmo headset
-    .desc = A headset used by the CMO.
+ent-ClothingHeadsetCMO = гарнитура гв
+    .desc = Гарнитура, которой пользуется ГВ.
 
-ent-ClothingHeadsetScience = science headset
-    .desc = A sciency headset. Like usual.
+ent-ClothingHeadsetScience = научная гарнитура
+    .desc = Научненькая гарнитура. Как обычно.
 
-ent-ClothingHeadsetMedicalScience = medical research headset
-    .desc = A headset that is a result of the mating between medical and science.
+ent-ClothingHeadsetMedicalScience = гарнитура медицинских исследований
+    .desc = Гарнитура, которая получилась от скрещивания медицины с наукой.
 
-ent-ClothingHeadsetRobotics = robotics headset
-    .desc = Made specifically for the roboticists, who cannot decide between departments.
+ent-ClothingHeadsetRobotics = гарнитура робототехника
+    .desc = Специально для робототехников, которые не могут выбрать отдел.
 
-ent-ClothingHeadsetRD = rd headset
-    .desc = Lamarr used to love chewing on this...
+ent-ClothingHeadsetRD = гарнитура нр
+    .desc = Ламарр любила её грызть...
 
-ent-ClothingHeadsetSecurity = security headset
-    .desc = This is used by your elite security force.
+ent-ClothingHeadsetSecurity = гарнитура службы безопасности
+    .desc = Такой пользуются ваши элитные сотрудники службы безопасности.
 
-ent-ClothingHeadsetBrigmedic = brigmedic headset
-    .desc = A headset that helps to hear the death cries.
+ent-ClothingHeadsetBrigmedic = гарнитура бригмедика
+    .desc = Гарнитура, в которой хорошо слышны предсмертные крики.
 
-ent-ClothingHeadsetService = service headset
-    .desc = Headset used by the service staff, tasked with keeping the station full, happy and clean.
+ent-ClothingHeadsetService = гарнитура обслуживания
+    .desc = Гарнитура для обслуживающего персонала, чья задача - держать станцию сытой, довольной и чистой.
 
-ent-ClothingHeadsetFreelance = freelancer headset
-    .desc = This is used by a roaming group of freelancers.
+ent-ClothingHeadsetFreelance = гарнитура наёмника
+    .desc = Такой пользуется бродячая группа наёмников.
 
-ent-ClothingHeadsetWizard = wizard headset
-    .desc = A headset used by the dreaded space wizards.
+ent-ClothingHeadsetWizard = гарнитура волшебника
+    .desc = Гарнитура, которой пользуются грозные космические волшебники.
 
-ent-ClothingHeadsetNinja = green headset
-    .desc = Who could refuse to wear this stylish black and green headset?
+ent-ClothingHeadsetNinja = зелёная гарнитура
+    .desc = Кто откажется носить такую стильную чёрно-зелёную гарнитуру?

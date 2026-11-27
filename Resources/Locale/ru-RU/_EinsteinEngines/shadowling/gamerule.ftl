@@ -1,16 +1,16 @@
-shadowling-condition-win = The shadowlings have successfully ascended into their final form!
-shadowling-condition-draw = Both parties took major losses, but crew managed to survive.
-shadowling-condition-failure = The crew have managed to stop the shadowlings from ascending!
+shadowling-condition-win = Тенеморфы успешно вознеслись, достигнув своей окончательной формы!
+shadowling-condition-draw = Обе стороны понесли большие потери, но экипаж выжил.
+shadowling-condition-failure = Экипажу удалось помешать вознесению тенеморфов!
 
-shadowling-list-start = The Shadowlings were:
-thrall-list-start = The Thralls were:
+shadowling-list-start = Тенеморфы:
+thrall-list-start = Траллы:
 
 shadowling-list-name = [color=#880808]{ $name }[/color] ([color=gray]{ $user }[/color])
 
-shadowling-title = Shadowlings
-shadowling-description = The shadow is the greatest teacher for how to come to the light.
+shadowling-title = Тенеморфы
+shadowling-description = Никто не научит выходить к свету лучше, чем тень.
 
-shadowling-round-end-name = shadowling
+shadowling-round-end-name = тенеморф
 
 # SIS-Start
 shadowling-role-greeting =
@@ -24,7 +24,7 @@ shadowling-role-greeting-desc =
 # SIS-End
 
 shadowling-role-greeting-short =
-    You are a shadowling who has awakened in the body of {$name}.
+    Вы — тенеморф, пробудившийся в теле {$name}.
 
 # SIS-Start
 thrall-role-greeting =
@@ -39,10 +39,10 @@ thrall-role-greeting-desc =
 # SIS-End
 
 shadowling-briefing =
-    Shed from this lesser form and start your path to ascension.
+    Сбросьте низшую форму и начните путь к вознесению.
 
 thrall-briefing =
-    You are no longer bound to your old beliefs.
-    Help your shadowling ascend at all costs.
+    Прежние убеждения больше вас не связывают.
+    Любой ценой помогите своему тенеморфу вознестись.
 
-objective-issuer-shadowling = Shadowling
+objective-issuer-shadowling = Тенеморф

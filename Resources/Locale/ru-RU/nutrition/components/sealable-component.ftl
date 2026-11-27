@@ -1,4 +1,4 @@
-sealable-component-on-examine-is-sealed = The seal is intact.
-sealable-component-on-examine-is-unsealed = The seal is broken.
-sealable-component-on-examine-is-unsealed-no-cork = The seal is broken, and the cork is gone.
-sealable-component-on-examine-is-unsealed-crown-cap = The seal is broken, and the crown cap is bent.
+sealable-component-on-examine-is-sealed = Пломба цела.
+sealable-component-on-examine-is-unsealed = Пломба сорвана.
+sealable-component-on-examine-is-unsealed-no-cork = Пломба сорвана, пробки нет.
+sealable-component-on-examine-is-unsealed-crown-cap = Пломба сорвана, кроненпробка погнута.

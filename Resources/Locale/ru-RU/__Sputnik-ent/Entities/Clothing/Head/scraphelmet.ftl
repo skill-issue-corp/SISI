@@ -1,11 +1,11 @@
-ent-WiredBucketBase = wired bucket
-    .desc = A bucket with attached wiring to better serve as a chinstrap.
+ent-WiredBucketBase = ведро с проводом
+    .desc = К ведру приделали провод, чтобы он лучше держался под подбородком.
 
-ent-SlicedBucketBase = sliced bucket
-    .desc = A bucket with a vision slit cut into the side.
+ent-SlicedBucketBase = ведро с прорезью
+    .desc = Ведро с прорезью сбоку, чтобы смотреть наружу.
 
-ent-SteelBucketBase = steel bucket
-    .desc = A bucket that's had steel welded onto it's exterior. It requires better shaping before it can be worn comfortably.
+ent-SteelBucketBase = стальное ведро
+    .desc = Ведро, снаружи обваренное сталью. Чтобы его было удобно носить, надо поправить форму.
 
-ent-ClothingHeadHelmetScrap = scrap helmet
-    .desc = A cobbled-together helmet made from cabling, steel, and a bucket.
+ent-ClothingHeadHelmetScrap = самодельный шлем
+    .desc = Шлем на скорую руку из провода, стали и ведра.

@@ -5,11 +5,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ventriloquist-puppet-insert-hand = You insert your hand into the puppet.
-ventriloquist-puppet-remove-hand = You remove your hand from the puppet.
+ventriloquist-puppet-insert-hand = Вы просовываете руку в куклу.
+ventriloquist-puppet-remove-hand = Вы вытаскиваете руку из куклы.
 
-ventriloquist-puppet-cant-speak = You cannot speak without a helping hand.
-ventriloquist-puppet-inserted-hand = You have a helping hand.
-ventriloquist-puppet-removed-hand = you have lost your helping hand.
-ventriloquist-puppet-role-name = A Dummy
-ventriloquist-puppet-role-description = Become a dummy, dummy!
+ventriloquist-puppet-cant-speak = Без руки помощи вам не заговорить.
+ventriloquist-puppet-inserted-hand = Вам протянули руку помощи.
+ventriloquist-puppet-removed-hand = вы лишаетесь руки помощи.
+ventriloquist-puppet-role-name = Кукла
+ventriloquist-puppet-role-description = Стань куклой, болван!

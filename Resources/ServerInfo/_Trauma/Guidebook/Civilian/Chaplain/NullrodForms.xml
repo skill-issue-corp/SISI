@@ -30,7 +30,7 @@
     <GuideEntityEmbed Entity="MakeshiftShield"/>
   </Box>
 
-  ## Казул и Шакал
+  ## Casul и Jackal
   Пара святых пистолетов и стильный пояс для их хранения. Могут стрелять только вместе. Молитесь, чтобы перезарядить.
   <Box>
     <GuideEntityEmbed Entity="ClothingBeltHolsterFilledChaplain"/>
@@ -40,7 +40,7 @@
     <GuideEntityEmbed Entity="MicroManipulatorStockPart"/>
   </Box>
 
-  ## Вера
+  ## Faith
   Крошечный пистолет, который лечит людей пулями, не спрашивайте. Наносит святой урон нечестивым врагам теми же пулями. Молитесь, чтобы перезарядить.
   <Box>
     <GuideEntityEmbed Entity="WeaponPistolFaith"/>
@@ -88,7 +88,7 @@
     <GuideEntityEmbed Entity="ClothingHeadHelmetTemplar"/>
   </Box>
 
-  ## Ирадомини
+  ## Iradomini
   Мощный арбалет, для стрельбы его нужно держать в руках. Стреляет одной ОЧЕНЬ мощной святой стрелой, которая исчезает через минуту. Перезарядка молитвой занимает много времени, выбирайте позицию с умом.
   <Box>
     <GuideEntityEmbed Entity="WeaponPistolIradomini"/>

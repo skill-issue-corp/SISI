@@ -1,34 +1,34 @@
-ent-BaseThruster = thruster
-    .desc = A thruster that allows a shuttle to move.
+ent-BaseThruster = двигатель
+    .desc = Двигатель, который приводит шаттл в движение.
 
-ent-Thruster = thruster
+ent-Thruster = двигатель
     .desc = { ent-BaseThruster.desc }
 
 ent-ThrusterXenoborg = { ent-Thruster }
     .desc = { ent-Thruster.desc }
 
-ent-ThrusterLarge = large thruster
+ent-ThrusterLarge = большой двигатель
     .desc = { ent-BaseThruster.desc }
 
 ent-ThrusterUnanchored = { ent-Thruster }
     .desc = { ent-Thruster.desc }
-    .suffix = Unanchored
+    .suffix = Откреплено
 
 ent-DebugThruster = { ent-BaseThruster }
     .desc = { ent-BaseThruster.desc }
     .suffix = DEBUG
 
-ent-Gyroscope = gyroscope
-    .desc = Increases the shuttle's potential angular rotation.
+ent-Gyroscope = гироскоп
+    .desc = Увеличивает возможную скорость вращения шаттла.
 
 ent-GyroscopeUnanchored = { ent-Gyroscope }
     .desc = { ent-Gyroscope.desc }
-    .suffix = Unanchored
+    .suffix = Откреплено
 
-ent-DebugGyroscope = gyroscope
+ent-DebugGyroscope = гироскоп
     .desc = { ent-BaseThruster.desc }
     .suffix = DEBUG
 
-ent-ThrusterShuttleEvac = thruster
-    .desc = A thruster that allows a shuttle to move.
-    .suffix = Evac shuttle, unanchorable
+ent-ThrusterShuttleEvac = двигатель
+    .desc = Двигатель, который приводит шаттл в движение.
+    .suffix = Эвакуационный шаттл, нельзя закрепить

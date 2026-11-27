@@ -1,5 +1,5 @@
-ent-BaseMobXenomorphLarva = xenomorph larva
-    .desc = An early stage of development characterized by small size, a worm-like body shape, and the absence of distinct limbs.
+ent-BaseMobXenomorphLarva = личинка ксеноморфов
+    .desc = Ранняя стадия развития. У личинки небольшое червеобразное тело без отчётливо выраженных конечностей.
 
 ent-MobXenomorphLarva = { ent-BaseMobXenomorphLarva }
     .desc = { ent-BaseMobXenomorphLarva.desc }

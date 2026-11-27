@@ -10,12 +10,12 @@
 
 ### Messages that can be utilized by multiple reagents.
 
-generic-reagent-effect-burning-insides = You feel your insides burning up!
-generic-reagent-effect-burning-eyes = Your eyes begin to slightly burn.
-generic-reagent-effect-burning-eyes-a-bit = Your eyes burn a bit.
-generic-reagent-effect-tearing-up = Your eyes start to tear up.
-generic-reagent-effect-nauseous = You feel nauseous.
-generic-reagent-effect-parched = You feel parched.
-generic-reagent-effect-thirsty = You feel thirsty.
-generic-reagent-effect-sick = You feel sick after consuming that...
-generic-reagent-effect-slicing-insides = You feel an incredibly sharp pain in your gut!
+generic-reagent-effect-burning-insides = Вы чувствуете, как горят внутренности!
+generic-reagent-effect-burning-eyes = Глаза начинает слегка щипать.
+generic-reagent-effect-burning-eyes-a-bit = Глаза немного щиплет.
+generic-reagent-effect-tearing-up = У вас начинают слезиться глаза.
+generic-reagent-effect-nauseous = Вас тошнит.
+generic-reagent-effect-parched = У вас пересохло во рту.
+generic-reagent-effect-thirsty = Вам хочется пить.
+generic-reagent-effect-sick = Вам стало дурно после этого...
+generic-reagent-effect-slicing-insides = В животе возникает невероятно резкая боль!

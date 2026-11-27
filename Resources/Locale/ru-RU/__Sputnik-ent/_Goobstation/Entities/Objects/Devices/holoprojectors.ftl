@@ -1,2 +1,2 @@
-ent-HoloprojectorSecurityAdvanced = advanced holobarrier projector
-    .desc = An advanced barrier projector, capable of projecting more durable & secure barriers.
+ent-HoloprojectorSecurityAdvanced = усовершенствованный проектор голобарьеров
+    .desc = Усовершенствованный проектор, создающий более прочные и надёжные барьеры.

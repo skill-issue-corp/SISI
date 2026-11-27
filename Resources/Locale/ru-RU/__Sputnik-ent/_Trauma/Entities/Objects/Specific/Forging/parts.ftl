@@ -1,26 +1,26 @@
-ent-ReagentContainerCement = cement bag
-    .desc = A bag of cement, mix it with water to prepare it.
+ent-ReagentContainerCement = мешок цемента
+    .desc = Мешок цемента. Для приготовления смешайте цемент с водой.
 
-ent-WetCement = wet cement
-    .desc = Fresh cement, needs to be molded into bricks.
+ent-WetCement = влажный цемент
+    .desc = Свежий цемент. Из него ещё нужно сформовать кирпичи.
 
-ent-WetBrick = wet brick
-    .desc = A newly made wet brick, leave it out to dry for a while.
+ent-WetBrick = влажный кирпич
+    .desc = Только что сформованный влажный кирпич. Оставьте его ненадолго сохнуть.
 
 ent-BaseAnvilPiece = { ent-BaseForgeItem }
     .desc = { ent-BaseForgeItem.desc }
 
-ent-AnvilTopUnfinished = unfinished anvil top
-    .desc = Beat it into shape!
+ent-AnvilTopUnfinished = необработанный верх наковальни
+    .desc = Придайте ему форму ударами!
 
-ent-AnvilTop = anvil top
-    .desc = The top part of an anvil. Put it on the bottom half once it has cooled down.
+ent-AnvilTop = верх наковальни
+    .desc = Верхняя часть наковальни. Когда она остынет, поставьте её на нижнюю.
 
-ent-AnvilBottomUnfinished = unfinished anvil bottom
-    .desc = Beat it into shape!
+ent-AnvilBottomUnfinished = необработанное основание наковальни
+    .desc = Придайте ему форму ударами!
 
-ent-AnvilBottom = anvil bottom
-    .desc = The bottom part of an anvil.
+ent-AnvilBottom = основание наковальни
+    .desc = Нижняя часть наковальни.
 
-ent-AnvilUnwelded = unwelded anvil
-    .desc = Both parts of an anvil, needs to be welded to complete.
+ent-AnvilUnwelded = несваренная наковальня
+    .desc = Обе части наковальни. Чтобы закончить работу, сварите их вместе.

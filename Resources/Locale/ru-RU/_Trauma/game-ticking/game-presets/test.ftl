@@ -1,3 +1,3 @@
-test-preset-title = Test Preset
-test-preset-10-title = Test Preset 10 Players
-test-preset-desc = It's a mystery
+test-preset-title = Тестовый Режим
+test-preset-10-title = Тестовый Режим На 10 Игроков
+test-preset-desc = Это тайна

@@ -1,124 +1,124 @@
 # Chest
 
-marking-ChestChimeraFemaleMoth = Moth Chest (Chimera)
-marking-ChestChimeraFemaleMoth-chimeraf = Chimera
+marking-ChestChimeraFemaleMoth = Грудь Ниана (Химера)
+marking-ChestChimeraFemaleMoth-chimeraf = Химера
 
-marking-ChestChimeraMaleMoth = Moth Chest (Chimera)
-marking-ChestChimeraMaleMoth-chimeram = Chimera
+marking-ChestChimeraMaleMoth = Грудь Ниана (Химера)
+marking-ChestChimeraMaleMoth-chimeram = Химера
 
-marking-ChestTwistingLeftFemaleMoth = Scar (Twisted Scar Left)
-marking-ChestTwistingLeftFemaleMoth-twistingleftf = Twisted Scar (Left)
+marking-ChestTwistingLeftFemaleMoth = Шрам (Извилистый Слева)
+marking-ChestTwistingLeftFemaleMoth-twistingleftf = Извилистый Шрам (Слева)
 
-marking-ChestTwistingLeftMaleMoth = Scar (Twisted Scar Left)
-marking-ChestTwistingLeftMaleMoth-twistingleftm = Twisted Scar (Left)
+marking-ChestTwistingLeftMaleMoth = Шрам (Извилистый Слева)
+marking-ChestTwistingLeftMaleMoth-twistingleftm = Извилистый Шрам (Слева)
 
-marking-ChestTwistingRightFemaleMoth = Scar (Twisted Scar Right)
-marking-ChestTwistingRightFemaleMoth-twistingrightf = Twisted Scar (Right)
+marking-ChestTwistingRightFemaleMoth = Шрам (Извилистый Справа)
+marking-ChestTwistingRightFemaleMoth-twistingrightf = Извилистый Шрам (Справа)
 
-marking-ChestTwistingRightMaleMoth = Scar (Twisted Scar Right)
-marking-ChestTwistingRightMaleMoth-twistingrightm = Twisted Scar (Right)
+marking-ChestTwistingRightMaleMoth = Шрам (Извилистый Справа)
+marking-ChestTwistingRightMaleMoth-twistingrightm = Извилистый Шрам (Справа)
 
-marking-ChestStarMoth = Scar (Star)
-marking-ChestStarMoth-star = Star Scar
+marking-ChestStarMoth = Шрам (Звезда)
+marking-ChestStarMoth-star = Звёздчатый Шрам
 
-marking-MothBodyClaw = Scar (Claws)
-marking-MothBodyClaw-claw = Claw Scars
+marking-MothBodyClaw = Шрам (Когти)
+marking-MothBodyClaw-claw = Шрамы от Когтей
 
-marking-MothChestGlow = Moth Bioluminescence (Chest)
-marking-MothChestGlow-glow = Glow
+marking-MothChestGlow = Биолюминесценция Ниана (Грудь)
+marking-MothChestGlow-glow = Свечение
 
-marking-TorsoIncisionMoth = Scar (Incision)
-marking-TorsoIncisionMoth-incision = Torso Incision
+marking-TorsoIncisionMoth = Шрам (Разрез)
+marking-TorsoIncisionMoth-incision = Разрез на Торсе
 
 # Head
 
-marking-BadmoltMoth = Scar (Bad Molt)
-marking-BadmoltMoth-badmolt = Bad Molt
+marking-BadmoltMoth = Шрам (Неудачная Линька)
+marking-BadmoltMoth-badmolt = Неудачная Линька
 
-marking-EyebagsMoth = Eye (Eyebags)
-marking-EyebagsMoth-eyebags = Eyebags
+marking-EyebagsMoth = Глаза (Мешки под Глазами)
+marking-EyebagsMoth-eyebags = Мешки под Глазами
 
-marking-HeadChimeraMoth = Moth Head (Chimera)
-marking-HeadChimeraMoth-chimera = Chimera
+marking-HeadChimeraMoth = Голова Ниана (Химера)
+marking-HeadChimeraMoth-chimera = Химера
 
-marking-HeadTwistingMoth = Scar (Twisted)
-marking-HeadTwistingMoth-twisting = Twisted Scar
+marking-HeadTwistingMoth = Шрам (Извилистый)
+marking-HeadTwistingMoth-twisting = Извилистый Шрам
 
-marking-MothBurnLeft = Burn Scar (Left)
-marking-MothBurnLeft-burnleft = Burn Scar (Left)
+marking-MothBurnLeft = Шрам от Ожога (Слева)
+marking-MothBurnLeft-burnleft = Шрам от Ожога (Слева)
 
-marking-MothBurnRight = Burn Scar (Right)
-marking-MothBurnRight-burnright = Burn Scar (Right)
+marking-MothBurnRight = Шрам от Ожога (Справа)
+marking-MothBurnRight-burnright = Шрам от Ожога (Справа)
 
-marking-MothFaceClaw = Claw Scars (Face)
-marking-MothFaceClaw-claw = Claw Scars (Face)
+marking-MothFaceClaw = Шрамы от Когтей (Лицо)
+marking-MothFaceClaw-claw = Шрамы от Когтей (Лицо)
 
-marking-MothHeadGlow = Moth Bioluminescence (Head)
-marking-MothHeadGlow-glow = Glow
+marking-MothHeadGlow = Биолюминесценция Ниана (Голова)
+marking-MothHeadGlow-glow = Свечение
 
-marking-MothSlashLeft = Scar (Claw Left)
-marking-MothSlashLeft-slashleft = Claw Scars (Left)
+marking-MothSlashLeft = Шрам (Когти Слева)
+marking-MothSlashLeft-slashleft = Шрамы от Когтей (Слева)
 
-marking-MothSlashRight = Scar (Claw Right)
-marking-MothSlashRight-slashright = Claw Scars (Right)
+marking-MothSlashRight = Шрам (Когти Справа)
+marking-MothSlashRight-slashright = Шрамы от Когтей (Справа)
 
 # Snout
 
-marking-MouthpartsFulgoridae = Mouthparts (Fulgoridae)
-marking-MouthpartsFulgoridaeUpturned = Mouthparts (Fulgoridae Upturned)
-marking-MouthpartsHymenoptera = Mouthparts (Hymenoptera)
-marking-MouthpartsHymenopteraLarge = Mouthparts (Hymenoptera Large)
-marking-MouthpartsProboscisDownturned = Mouthparts (Proboscis Downturned)
-marking-MouthpartsProboscisDownturned-proboscisdownturned = Mouthparts (Proboscis Downturned)
-marking-MouthpartsProboscisUpturned = Mouthparts (Proboscis Upturned)
-marking-MouthpartsProboscisUpturned-proboscisupturned = Mouthparts (Proboscis Upturned)
-marking-MouthpartsSchistocerca = Mouthparts (Schistocerca)
+marking-MouthpartsFulgoridae = Ротовой Аппарат (Фонарницы)
+marking-MouthpartsFulgoridaeUpturned = Ротовой Аппарат (Фонарницы, Загнутый Вверх)
+marking-MouthpartsHymenoptera = Ротовой Аппарат (Перепончатокрылые)
+marking-MouthpartsHymenopteraLarge = Ротовой Аппарат (Крупные Перепончатокрылые)
+marking-MouthpartsProboscisDownturned = Ротовой Аппарат (Хоботок Вниз)
+marking-MouthpartsProboscisDownturned-proboscisdownturned = Ротовой Аппарат (Хоботок Вниз)
+marking-MouthpartsProboscisUpturned = Ротовой Аппарат (Хоботок Вверх)
+marking-MouthpartsProboscisUpturned-proboscisupturned = Ротовой Аппарат (Хоботок Вверх)
+marking-MouthpartsSchistocerca = Ротовой Аппарат (Саранча)
 
 # Eyes
 
-marking-HeterochromiaMoth = Eyes (Heterochromia)
-marking-HeterochromiaMoth-heterochromia = Heterochromia
+marking-HeterochromiaMoth = Глаза (Гетерохромия)
+marking-HeterochromiaMoth-heterochromia = Гетерохромия
 
-marking-MothBiggerEyes = Eyes (Large)
-marking-MothBiggerEyes-bigger = Bigger Eyes
+marking-MothBiggerEyes = Глаза (Крупные)
+marking-MothBiggerEyes-bigger = Очень Крупные Глаза
 
 # RArm
 
-marking-ProstheticArmRightMoth = Prosthetic (Right Arm)
-marking-ProstheticArmRightMoth-prosthetic = Prosthetic (Right Arm)
+marking-ProstheticArmRightMoth = Протез (Правая Рука)
+marking-ProstheticArmRightMoth-prosthetic = Протез (Правая Рука)
 
-marking-TwistingArmRightMoth = Scar (Twisted Right Arm)
-marking-TwistingArmRightMoth-twisting = Twisted Scar (Right)
+marking-TwistingArmRightMoth = Шрам (Извилистый на Правой Руке)
+marking-TwistingArmRightMoth-twisting = Извилистый Шрам (Справа)
 
 # LArm
 
-marking-ChimeraArmLeftMoth = Moth Left Arm (Chimera)
-marking-ChimeraArmLeftMoth-chimera = Chimera (Arm)
+marking-ChimeraArmLeftMoth = Левая Рука Ниана (Химера)
+marking-ChimeraArmLeftMoth-chimera = Химера (Рука)
 
-marking-ProstheticArmLeftMoth = Prosthetic (Left Arm)
-marking-ProstheticArmLeftMoth-prosthetic = Prosthetic (Left Arm)
+marking-ProstheticArmLeftMoth = Протез (Левая Рука)
+marking-ProstheticArmLeftMoth-prosthetic = Протез (Левая Рука)
 
-marking-TwistingArmLeftMoth = Scar (Twisted Left Arm)
-marking-TwistingArmLeftMoth-twisting = Twisted Scar (Left Arm)
+marking-TwistingArmLeftMoth = Шрам (Извилистый на Левой Руке)
+marking-TwistingArmLeftMoth-twisting = Извилистый Шрам (Левая Рука)
 
 # RLeg
 
-marking-LegProstheticRightMoth = Prosthetic (Right Leg)
-marking-LegProstheticRightMoth-prosthetic = Prosthetic (Right Leg)
+marking-LegProstheticRightMoth = Протез (Правая Нога)
+marking-LegProstheticRightMoth-prosthetic = Протез (Правая Нога)
 
-marking-LegTwistingRightMoth = Scar (Twisted Right Leg)
-marking-LegTwistingRightMoth-twisting = Twisted Scar (Right)
+marking-LegTwistingRightMoth = Шрам (Извилистый на Правой Ноге)
+marking-LegTwistingRightMoth-twisting = Извилистый Шрам (Справа)
 
 # LLeg
 
-marking-LegChimeraLeftMoth = Moth left Leg (Chimera)
-marking-LegChimeraLeftMoth-chimera = Chimera (Leg)
+marking-LegChimeraLeftMoth = левая Нога Ниана (Химера)
+marking-LegChimeraLeftMoth-chimera = Химера (Нога)
 
-marking-LegProstheticLeftMoth = Prosthetic (Left Leg)
-marking-LegProstheticLeftMoth-prosthetic = Prosthetic (Left Leg)
+marking-LegProstheticLeftMoth = Протез (Левая Нога)
+marking-LegProstheticLeftMoth-prosthetic = Протез (Левая Нога)
 
-marking-LegTwistingLeftMoth = Scar (Twisted Left Leg)
-marking-LegTwistingLeftMoth-twisting = Twisted Scar (Left)
+marking-LegTwistingLeftMoth = Шрам (Извилистый на Левой Ноге)
+marking-LegTwistingLeftMoth-twisting = Извилистый Шрам (Слева)
 
 # UndergarmentBottom
 
@@ -126,35 +126,35 @@ marking-LegTwistingLeftMoth-twisting = Twisted Scar (Left)
 
 # LFoot
 
-marking-FootChimeraLeftMoth = Moth Left Foot (Chimera)
-marking-FootChimeraLeftMoth-chimera = Chimera (Foot)
+marking-FootChimeraLeftMoth = Левая Стопа Ниана (Химера)
+marking-FootChimeraLeftMoth-chimera = Химера (Стопа)
 
-marking-FootProstheticLeftMoth = Prosthetic (Left Foot)
-marking-FootProstheticLeftMoth-prosthetic = Prosthetic (Left Foot)
+marking-FootProstheticLeftMoth = Протез (Левая Стопа)
+marking-FootProstheticLeftMoth-prosthetic = Протез (Левая Стопа)
 
 # RFoot
 
-marking-FootProstheticRightMoth = Prosthetic (Right Foot)
-marking-FootProstheticRightMoth-prosthetic = Prosthetic (Right Foot)
+marking-FootProstheticRightMoth = Протез (Правая Стопа)
+marking-FootProstheticRightMoth-prosthetic = Протез (Правая Стопа)
 
 # LHand
 
-marking-HandChimeraLeftMoth = Moth Left Hand (Chimera)
-marking-HandChimeraLeftMoth-chimera = Chimera (Hand)
+marking-HandChimeraLeftMoth = Левая Кисть Ниана (Химера)
+marking-HandChimeraLeftMoth-chimera = Химера (Кисть)
 
-marking-HandProstheticLeftMoth = Prosthetic (Left Hand)
-marking-HandProstheticLeftMoth-prosthetic = Prosthetic (Left Hand)
+marking-HandProstheticLeftMoth = Протез (Левая Кисть)
+marking-HandProstheticLeftMoth-prosthetic = Протез (Левая Кисть)
 
-marking-HandTwistingLeftMoth = Scar (Twisted Left Hand)
-marking-HandTwistingLeftMoth-twisting = Twisted Scar (Left Hand)
+marking-HandTwistingLeftMoth = Шрам (Извилистый на Левой Кисти)
+marking-HandTwistingLeftMoth-twisting = Извилистый Шрам (Левая Кисть)
 
 # RHand
 
-marking-HandProstheticRightMoth = Prosthetic (Right Hand)
-marking-HandProstheticRightMoth-prosthetic = Prosthetic Hand (Right)
+marking-HandProstheticRightMoth = Протез (Правая Кисть)
+marking-HandProstheticRightMoth-prosthetic = Протез Кисти (Правый)
 
-marking-HandTwistingRightMoth = Scar (Twisted Right Hand)
-marking-HandTwistingRightMoth-twisting = Twisted Scar (Right Hand)
+marking-HandTwistingRightMoth = Шрам (Извилистый на Правой Кисти)
+marking-HandTwistingRightMoth-twisting = Извилистый Шрам (Правая Кисть)
 
 # FacialHair
 
@@ -162,86 +162,86 @@ marking-HandTwistingRightMoth-twisting = Twisted Scar (Right Hand)
 
 # HeadSide
 
-marking-PlateBlunt = Head (Blunt)
-marking-PlateHeart = Head (Heart)
-marking-PlateDaisy = Head (Daisy)
-marking-PlateHorn = Head (Horned)
-marking-PlateSmallSpike = Head (Spike)
+marking-PlateBlunt = Голова (Тупая)
+marking-PlateHeart = Голова (Сердце)
+marking-PlateDaisy = Голова (Ромашка)
+marking-PlateHorn = Голова (Рогатая)
+marking-PlateSmallSpike = Голова (Шип)
 
 # HeadTop
 
-marking-MothBeetleHorn1 = Beetle Horn (Pronged)
-marking-MothBeetleHorn1-beetlehorn1 = Beetle Horn (Pronged)
+marking-MothBeetleHorn1 = Рог Жука (Раздвоенный)
+marking-MothBeetleHorn1-beetlehorn1 = Рог Жука (Раздвоенный)
 
-marking-MothBeetleHorn2 = Beetle Horn (Lance)
-marking-MothBeetleHorn2-beetlehorn2 = Beetle Horn (Lance)
+marking-MothBeetleHorn2 = Рог Жука (Копьё)
+marking-MothBeetleHorn2-beetlehorn2 = Рог Жука (Копьё)
 
-marking-MothGlowAntenna = Antennae (Firefly)
-marking-MothGlowAntenna-glowantenna = Antennae
+marking-MothGlowAntenna = Усики (Светлячок)
+marking-MothGlowAntenna-glowantenna = Усики
 
-marking-AntennaCockroach = Antennae (Cockroach)
-marking-AntennaCockroach-cockroach = Antennae
-marking-AntennaHeart = Antennae (Heartbrush)
-marking-AntennaHeart-heart1 = Antennae
-marking-AntennaHeart-heart2 = Heart
-marking-AntennaFly = Antennae (Fly)
-marking-AntennaFly-fly = Antennae
-marking-AntennaShort = Antennae (Locust)
-marking-AntennaShort-nub = Antennae
+marking-AntennaCockroach = Усики (Таракан)
+marking-AntennaCockroach-cockroach = Усики
+marking-AntennaHeart = Усики (Сердечки)
+marking-AntennaHeart-heart1 = Усики
+marking-AntennaHeart-heart2 = Сердце
+marking-AntennaFly = Усики (Муха)
+marking-AntennaFly-fly = Усики
+marking-AntennaShort = Усики (Саранча)
+marking-AntennaShort-nub = Усики
 
 # Tail
 
-marking-LunaWings = Wings (Luna Moth, No open wing visuals)
-marking-LunaWings-luna1 = Wings
-marking-LunaWings-luna2 = Spots
+marking-LunaWings = Крылья (Лунная Бабочка, вид раскрытых крыльев отсутствует)
+marking-LunaWings-luna1 = Крылья
+marking-LunaWings-luna2 = Пятна
 
-marking-MothBee = Wings (Bumblebee, No open wing visuals)
-marking-MothBee-bee1 = Outer stripes
-marking-MothBee-bee2 = Wings
-marking-MothBee-bee3 = Inner stripe
+marking-MothBee = Крылья (Шмель, вид раскрытых крыльев отсутствует)
+marking-MothBee-bee1 = Внешние полосы
+marking-MothBee-bee2 = Крылья
+marking-MothBee-bee3 = Внутренняя полоса
 
-marking-MothBeetleTail = Wings (Junebug, No open wing visuals)
-marking-MothBeetleTail-beetle1 = Outline
-marking-MothBeetleTail-beetle2 = Wings
-marking-MothBeetleTail-beetle3 = Shine
+marking-MothBeetleTail = Крылья (Майский Жук, вид раскрытых крыльев отсутствует)
+marking-MothBeetleTail-beetle1 = Контур
+marking-MothBeetleTail-beetle2 = Крылья
+marking-MothBeetleTail-beetle3 = Блеск
 
-marking-MothFirefly = Wings (Firefly Underlay, No open wing visuals)
-marking-MothFirefly-firefly2 = Firefly Wings
+marking-MothFirefly = Крылья (Светлячок, Нижний Слой, вид раскрытых крыльев отсутствует)
+marking-MothFirefly-firefly2 = Крылья Светлячка
 
-marking-MothFireflyOverlay = Firefly (Overlay, No open wing visuals)
-marking-MothFireflyOverlay-firefly1 = Firefly (Overlay)
+marking-MothFireflyOverlay = Светлячок (Верхний Слой, вид раскрытых крыльев отсутствует)
+marking-MothFireflyOverlay-firefly1 = Светлячок (Верхний Слой)
 
-marking-MothGlasswing = Wings (Glasswing, No open wing visuals)
-marking-MothGlasswing-glasswing1 = Outer
-marking-MothGlasswing-glasswing2 = Inner
-marking-MothGlasswing-glasswing3 = Stripe
+marking-MothGlasswing = Крылья (Стеклянница, вид раскрытых крыльев отсутствует)
+marking-MothGlasswing-glasswing1 = Внешняя Часть
+marking-MothGlasswing-glasswing2 = Внутренняя Часть
+marking-MothGlasswing-glasswing3 = Полоса
 
-marking-MothRhinoBeetle = Wings (Rhino Beetle, No open wing visuals)
-marking-MothRhinoBeetle-rhinobeetle1 = Outline
-marking-MothRhinoBeetle-rhinobeetle2 = Shine
-marking-MothRhinoBeetle-rhinobeetle3 = Wings
+marking-MothRhinoBeetle = Крылья (Жук-Носорог, вид раскрытых крыльев отсутствует)
+marking-MothRhinoBeetle-rhinobeetle1 = Контур
+marking-MothRhinoBeetle-rhinobeetle2 = Блеск
+marking-MothRhinoBeetle-rhinobeetle3 = Крылья
 
-marking-MothSnoth = Wings (Snoth, No open wing visuals)
-marking-MothSnoth-snoth1 = Wings
-marking-MothSnoth-snoth2 = Shell
+marking-MothSnoth = Крылья (Улиткобабочка, вид раскрытых крыльев отсутствует)
+marking-MothSnoth-snoth1 = Крылья
+marking-MothSnoth-snoth2 = Раковина
 
-marking-MothTrueButterfly = Wings (Rainbow, No open wing visuals)
-marking-MothTrueButterfly-truebutterfly1 = Stripes
-marking-MothTrueButterfly-truebutterfly2 = Dots
-marking-MothTrueButterfly-truebutterfly3 = Wings
+marking-MothTrueButterfly = Крылья (Радужные, вид раскрытых крыльев отсутствует)
+marking-MothTrueButterfly-truebutterfly1 = Полосы
+marking-MothTrueButterfly-truebutterfly2 = Точки
+marking-MothTrueButterfly-truebutterfly3 = Крылья
 
-marking-WingsBackstabbed = Wings (Backstabbed, No open wing visuals)
-marking-WingsBackstabbed-backstabbed = Wings
+marking-WingsBackstabbed = Крылья (След Удара в Спину, вид раскрытых крыльев отсутствует)
+marking-WingsBackstabbed-backstabbed = Крылья
 
-marking-WingsFly = Wings (Fly, No open wing visuals)
-marking-WingsFly-fly1 = Neck
-marking-WingsFly-fly2 = Wings
-marking-WingsFly-fly3 = Tail
+marking-WingsFly = Крылья (Муха, вид раскрытых крыльев отсутствует)
+marking-WingsFly-fly1 = Шея
+marking-WingsFly-fly2 = Крылья
+marking-WingsFly-fly3 = Хвост
 
-marking-WingsDragonfly = Wings (Dragonfly, No open wing visuals)
-marking-WingsDragonfly-dragonfly1 = Neck
-marking-WingsDragonfly-dragonfly2 = Wings
-marking-WingsDragonfly-dragonfly3 = Tail
+marking-WingsDragonfly = Крылья (Стрекоза, вид раскрытых крыльев отсутствует)
+marking-WingsDragonfly-dragonfly1 = Шея
+marking-WingsDragonfly-dragonfly2 = Крылья
+marking-WingsDragonfly-dragonfly3 = Хвост
 
-marking-WingsLanternfly = Wings (Lanternfly, No open wing visuals)
-marking-WingsLanternfly-lanternfly = Wings
+marking-WingsLanternfly = Крылья (Фонарница, вид раскрытых крыльев отсутствует)
+marking-WingsLanternfly-lanternfly = Крылья

@@ -11,18 +11,18 @@
 
 ## UI
 
-reagent-grinder-bound-user-interface-instant-button = INSTANT
-reagent-grinder-bound-user-interface-cook-time-label = COOK TIME
-reagent-grinder-component-cannot-put-entity-message = You can't put this in the reagent grinder!
+reagent-grinder-bound-user-interface-instant-button = МГНОВЕННО
+reagent-grinder-bound-user-interface-cook-time-label = ВРЕМЯ ПРИГОТОВЛЕНИЯ
+reagent-grinder-component-cannot-put-entity-message = Сюда нельзя положить это!
 
-grinder-menu-title = All-In-One Grinder 3000
-grinder-menu-grind-button = Grind
-grinder-menu-juice-button = Juice
-grinder-menu-auto-label = Auto mode
-grinder-menu-auto-button-off = Off
-grinder-menu-manual-label = Manual mode
-grinder-menu-chamber-content-box-label = Chamber
-grinder-menu-chamber-content-box-button = Eject Contents
-grinder-menu-beaker-content-box-label = Beaker
-grinder-menu-beaker-content-box-button = Eject Beaker
-grinder-menu-beaker-content-box-is-empty = Empty
+grinder-menu-title = Универсальный Измельчитель 3000
+grinder-menu-grind-button = Измельчить
+grinder-menu-juice-button = Выжать сок
+grinder-menu-auto-label = Авторежим
+grinder-menu-auto-button-off = Выкл.
+grinder-menu-manual-label = Ручной режим
+grinder-menu-chamber-content-box-label = Камера
+grinder-menu-chamber-content-box-button = Извлечь Содержимое
+grinder-menu-beaker-content-box-label = Мензурка
+grinder-menu-beaker-content-box-button = Извлечь Мензурку
+grinder-menu-beaker-content-box-is-empty = Пусто

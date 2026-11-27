@@ -1,11 +1,11 @@
 ent-FoodEggBase = { ent-SolutionVeryTiny }
-    .desc = An egg!
+    .desc = Яйцо!
 
-ent-Eggshells = eggshells
-    .desc = You're walkin' on 'em bud.
+ent-Eggshells = яичная скорлупа
+    .desc = Ты по ней ходишь, приятель.
 
-ent-FoodEgg = egg
+ent-FoodEgg = яйцо
     .desc = { ent-FoodEggBase.desc }
 
-ent-FoodEggBoiled = boiled egg
-    .desc = A delicious hardboiled egg.
+ent-FoodEggBoiled = варёное яйцо
+    .desc = Вкусное яйцо вкрутую.

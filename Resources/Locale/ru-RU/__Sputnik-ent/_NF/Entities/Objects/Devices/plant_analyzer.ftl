@@ -1,6 +1,6 @@
-ent-PlantAnalyzer = plant analyzer
-    .desc = A handheld device that allows you to scan and splice genes in plants.
+ent-PlantAnalyzer = анализатор растений
+    .desc = Ручной прибор для сканирования и редактирования генов растений.
 
 ent-PlantAnalyzerDebug = { ent-PlantAnalyzer }
     .desc = { ent-PlantAnalyzer.desc }
-    .suffix = Debug
+    .suffix = Отладка

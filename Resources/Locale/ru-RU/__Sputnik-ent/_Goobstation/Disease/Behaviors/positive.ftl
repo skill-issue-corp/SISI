@@ -1,5 +1,5 @@
-ent-DiseaseBehaviorHyperactive = Feeling hyper
-    .desc = Makes you feel hyper.
+ent-DiseaseBehaviorHyperactive = Гиперактивность
+    .desc = Вызывает у вас гиперактивность.
 
-ent-DiseaseBehaviorHealing = Healing factor
-    .desc = Accelerates natural regeneration.
+ent-DiseaseBehaviorHealing = Фактор исцеления
+    .desc = Ускоряет естественную регенерацию.

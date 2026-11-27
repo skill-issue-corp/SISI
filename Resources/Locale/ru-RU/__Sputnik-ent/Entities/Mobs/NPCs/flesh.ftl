@@ -1,5 +1,5 @@
-ent-BaseMobFlesh = aberrant flesh
-    .desc = A shambling mass of flesh, animated through anomalous energy.
+ent-BaseMobFlesh = искажённая плоть
+    .desc = Неуклюжая масса плоти, оживлённая аномальной энергией.
 
 ent-MobFleshJared = { ent-BaseMobFlesh }
     .desc = { ent-BaseMobFlesh.desc }
@@ -13,12 +13,12 @@ ent-MobFleshClamp = { ent-BaseMobFlesh }
 ent-MobFleshLover = { ent-BaseMobFlesh }
     .desc = { ent-BaseMobFlesh.desc }
 
-ent-MobAbomination = abomination
-    .desc = A rejected clone, in constant pain and seeking revenge.
+ent-MobAbomination = мерзость
+    .desc = Забракованный клон, который постоянно страдает от боли и жаждет мести.
 
-ent-BaseMobFleshSalvage = aberrant flesh
-    .desc = A shambling mass of flesh, animated through anomalous energy.
-    .suffix = Salvage Ruleset
+ent-BaseMobFleshSalvage = искажённая плоть
+    .desc = Неуклюжая масса плоти, оживлённая аномальной энергией.
+    .suffix = Правила Утилизации
 
 ent-MobFleshJaredSalvage = { ent-BaseMobFleshSalvage }
     .desc = { ent-BaseMobFleshSalvage.desc }

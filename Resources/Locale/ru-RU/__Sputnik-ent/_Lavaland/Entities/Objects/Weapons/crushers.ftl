@@ -1,21 +1,21 @@
-ent-BaseWeaponCrusher = crusher
-    .desc = An early design of the proto-kinetic accelerator.
+ent-BaseWeaponCrusher = крушитель
+    .desc = Ранняя модель протокинетического ускорителя.
 
-ent-WeaponCrusher = crusher axe
-    .desc = An early design of the proto-kinetic accelerator.
+ent-WeaponCrusher = топор-крушитель
+    .desc = Ранняя модель протокинетического ускорителя.
 
-ent-WeaponCrusherGlaive = crusher glaive
-    .desc = An early design of the proto-kinetic accelerator, in glaive form. Provides better healing in exchange for less charged damage.
+ent-WeaponCrusherGlaive = глефа-крушитель
+    .desc = Ранняя модель протокинетического ускорителя в форме глефы. Лучше лечит, но наносит меньше урона заряженным ударом.
 
-ent-WeaponCrusherHammer = crusher hammer
-    .desc = A beefy, two-handed weapon that inflicts knockback and heavier damage than a crusher.
+ent-WeaponCrusherHammer = молот-крушитель
+    .desc = Увесистое двуручное оружие, которое отбрасывает противников и наносит больше урона, чем крушитель.
 
-ent-WeaponCrusherHalberd = crusher halberd
-    .desc = A universal weapon that combines the power of a crusher and the range of a spear.
+ent-WeaponCrusherHalberd = алебарда-крушитель
+    .desc = Универсальное оружие, сочетающее мощь крушителя и дальность копья.
 
 ent-CrusherRandomUpgradesFill = { "" }
     .desc = { "" }
-    .suffix = Random Upgrades
+    .suffix = Случайные Улучшения
 
 ent-WeaponCrusherFilledRandom = { ent-WeaponCrusher }
     .desc = { ent-WeaponCrusher.desc }

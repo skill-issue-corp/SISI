@@ -1,5 +1,5 @@
-ent-ShadowBasaltOne = shadowstone
-    .desc = Glowing cracks in reality. It's probably fine.
+ent-ShadowBasaltOne = теневой камень
+    .desc = Светящиеся трещины в реальности. Наверное, всё нормально.
 
 ent-ShadowBasaltTwo = { ent-ShadowBasaltOne }
     .desc = { ent-ShadowBasaltOne.desc }
@@ -15,4 +15,4 @@ ent-ShadowBasaltFive = { ent-ShadowBasaltOne }
 
 ent-ShadowBasaltRandom = { ent-ShadowBasaltOne }
     .desc = { ent-ShadowBasaltOne.desc }
-    .suffix = Random
+    .suffix = Случайный

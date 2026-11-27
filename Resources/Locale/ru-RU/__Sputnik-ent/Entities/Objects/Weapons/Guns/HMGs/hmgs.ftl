@@ -1,5 +1,5 @@
-ent-BaseWeaponHeavyMachineGun = BaseWeaponHeavyMachineGun
-    .desc = Spray and pray.
+ent-BaseWeaponHeavyMachineGun = ТяжёлыйПулемётБазовый
+    .desc = Пали и молись.
 
-ent-WeaponMinigun = minigun
-    .desc = Vzzzzzt! Rahrahrahrah! Vrrrrr! Uses .10 rifle ammo.
+ent-WeaponMinigun = миниган
+    .desc = Вжжжжик! Та-та-та-та! Вр-р-р-р! Использует винтовочные патроны .10.

@@ -1,2 +1,2 @@
-ent-ResinMembrane = resin membrane
-    .desc = Resin just thin enough to let light pass through.
+ent-ResinMembrane = смоляная мембрана
+    .desc = Слой смолы достаточно тонкий, чтобы пропускать свет.

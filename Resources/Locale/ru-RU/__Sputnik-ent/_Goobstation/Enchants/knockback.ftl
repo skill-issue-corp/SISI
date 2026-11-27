@@ -1,2 +1,2 @@
-ent-EnchantKnockback = Knockback
+ent-EnchantKnockback = Отбрасывание
     .desc = { ent-BaseEnchant.desc }

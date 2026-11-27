@@ -1,17 +1,17 @@
-ent-ReinforcementRadioSyndicateNukieMouse = suspicious moldy cheese
-    .desc = Moldy cheese with a little worm sticking out of it and a... blinking antenna? Might attract an odd mouse.
+ent-ReinforcementRadioSyndicateNukieMouse = подозрительный заплесневелый сыр
+    .desc = Заплесневелый сыр, из которого торчит червячок и... мигающая антенна? Может приманить странную мышь.
 
-ent-ReinforcementRadioSyndicateNukieCarp = syndicate carp reinforcement radio
-    .desc = Calls in a syndicate carp ready to assist you.
+ent-ReinforcementRadioSyndicateNukieCarp = рация вызова карпа синдиката
+    .desc = Вызывает карпа синдиката, готового помочь вам.
 
-ent-ReinforcementRadioSyndicateNukieSpider = inexplicably menacing egg
-    .desc = You're not sure if that's a radio transceiver or an eye blinking at you. Might attract an odd spider.
+ent-ReinforcementRadioSyndicateNukieSpider = необъяснимо зловещее яйцо
+    .desc = Вы не уверены, радиопередатчик это или глаз, который вам подмигивает. Может приманить странного паука.
 
-ent-ReinforcementRadioSyndicateCyborgSaboteur = syndicate saboteur cyborg reinforcement radio
-    .desc = Calls in a saboteur borg with light weaponry and disruptive gear.
+ent-ReinforcementRadioSyndicateCyborgSaboteur = рация вызова борга-диверсанта синдиката
+    .desc = Вызывает борга-диверсанта с лёгким вооружением и снаряжением для саботажа.
 
-ent-ReinforcementRadioSyndicateCyborgMedical = syndicate medical cyborg reinforcement radio
-    .desc = Calls in a medical borg with good support capabilities and disruptive gear.
+ent-ReinforcementRadioSyndicateCyborgMedical = рация вызова медицинского борга синдиката
+    .desc = Вызывает медицинского борга с хорошим оснащением для поддержки и снаряжением для саботажа.
 
-ent-ReinforcementRadioSyndicateBehonker = behonker reinforcement radio
-    .desc = Calls in a behonker to assist you in your tomfoolery.
+ent-ReinforcementRadioSyndicateBehonker = рация вызова бехонкера
+    .desc = Вызывает бехонкера, чтобы помочь вам в ваших выходках.

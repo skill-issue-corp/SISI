@@ -1,161 +1,161 @@
-ent-ClothingHeadHatHoodBioGeneral = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
-    .suffix = Generic
+ent-ClothingHeadHatHoodBioGeneral = биозащитный капюшон
+    .desc = Капюшон защищает голову и лицо от биологических загрязнений.
+    .suffix = Обычный
 
-ent-ClothingHeadHatHoodBioCmo = bio hood
-    .desc = An advanced hood for chief medical officers that protects the head and face from biological contaminants.
-    .suffix = CMO
+ent-ClothingHeadHatHoodBioCmo = биозащитный капюшон
+    .desc = Усовершенствованный капюшон для главных врачей, защищающий голову и лицо от биологических загрязнений.
+    .suffix = ГВ
 
-ent-ClothingHeadHatHoodBioJanitor = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
-    .suffix = Janitor
+ent-ClothingHeadHatHoodBioJanitor = биозащитный капюшон
+    .desc = Капюшон защищает голову и лицо от биологических загрязнений.
+    .suffix = Уборщик
 
-ent-ClothingHeadHatHoodBioScientist = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
-    .suffix = Science
+ent-ClothingHeadHatHoodBioScientist = биозащитный капюшон
+    .desc = Капюшон защищает голову и лицо от биологических загрязнений.
+    .suffix = Наука
 
-ent-ClothingHeadHatHoodBioSecurity = bio hood
-    .desc = A hood that protects the head and face from biological contaminants.
-    .suffix = Security
+ent-ClothingHeadHatHoodBioSecurity = биозащитный капюшон
+    .desc = Капюшон защищает голову и лицо от биологических загрязнений.
+    .suffix = Служба Безопасности
 
-ent-ClothingHeadHatHoodBioVirology = bio hood
-    .desc = A hood that strongly protects the head and face from biological contaminants.
-    .suffix = Virology
+ent-ClothingHeadHatHoodBioVirology = биозащитный капюшон
+    .desc = Капюшон с усиленной защитой головы и лица от биологических загрязнений.
+    .suffix = Вирусология
 
-ent-ClothingHeadHatHoodChaplainHood = chaplain's hood
-    .desc = Maximum piety in this star system.
+ent-ClothingHeadHatHoodChaplainHood = капюшон священника
+    .desc = Благочестивее в этой звёздной системе не бывает.
 
-ent-ClothingHeadHatHoodCulthood = cult hood
-    .desc = There's no cult without cult hoods.
+ent-ClothingHeadHatHoodCulthood = капюшон культиста
+    .desc = Без капюшонов культистов и культ не культ.
 
-ent-ClothingHeadHatHoodNunHood = nun hood
-    .desc = Maximum piety in this star system.
+ent-ClothingHeadHatHoodNunHood = капюшон монахини
+    .desc = Благочестивее в этой звёздной системе не бывает.
 
-ent-ClothingHeadHatHoodRad = radiation hood
-    .desc = A hood of the hazmat suit, designed for protection from high radioactivity.
+ent-ClothingHeadHatHoodRad = противорадиационный капюшон
+    .desc = Капюшон защитного костюма, рассчитанного на работу при высоком уровне радиации.
 
-ent-ClothingHeadHatHoodGoliathCloak = goliath cloak hood
-    .desc = A hood of a goliath cloak, it is made from the hide of resilient fauna from a distant planet.
+ent-ClothingHeadHatHoodGoliathCloak = капюшон плаща из голиафа
+    .desc = Капюшон плаща из голиафа, сделанный из пластин живучей твари с далёкой планеты.
 
-ent-ClothingHeadHatHoodIan = ian hood
-    .desc = A hood to complete the 'Good boy' look.
+ent-ClothingHeadHatHoodIan = капюшон иана
+    .desc = Капюшон дополняет образ «Хорошего мальчика».
 
-ent-ClothingHeadHatHoodCarp = carp hood
-    .desc = A gnarly hood adorned with plastic space carp teeth.
+ent-ClothingHeadHatHoodCarp = капюшон карпа
+    .desc = Грозный капюшон, украшенный пластмассовыми зубами космического карпа.
 
 ent-ClothingHeadHelmetHardsuitCarp = { ent-ClothingHeadHatHoodCarp }
     .desc = { ent-ClothingHeadHatHoodCarp.desc }
 
-ent-ClothingHeadHatHoodMoth = moth mask
-    .desc = A mask in the form of a moths head is usually made of lightweight materials. It mimics the shape of a moths head with large eyes and long antennae. Such masks are often used in cosplay, or when shooting movies and videos.
+ent-ClothingHeadHatHoodMoth = маска ниана
+    .desc = Маску в виде головы ниана обычно делают из лёгких материалов. Она повторяет форму головы ниана с большими глазами и длинными усиками. Такие маски часто используют для косплея или на съёмках фильмов и роликов.
 
-ent-ClothingHeadHatHoodWinterDefault = default winter coat hood
+ent-ClothingHeadHatHoodWinterDefault = капюшон обычной зимней куртки
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterBartender = bartender winter coat hood
+ent-ClothingHeadHatHoodWinterBartender = капюшон зимней куртки бармена
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterCaptain = captain's winter coat hood
-    .desc = An expensive hood, to keep the captain's head warm.
+ent-ClothingHeadHatHoodWinterCaptain = капюшон зимней куртки капитана
+    .desc = Дорогой капюшон, чтобы голова капитана не мёрзла.
 
-ent-ClothingHeadHatHoodWinterCargo = cargo winter coat hood
+ent-ClothingHeadHatHoodWinterCargo = капюшон зимней куртки карго
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterCE = chief engineer's winter coat hood
+ent-ClothingHeadHatHoodWinterCE = капюшон зимней куртки старшего инженера
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterCentcom = CentComm winter coat hood
-    .desc = A hood for keeping the central comander's head warm.
+ent-ClothingHeadHatHoodWinterCentcom = капюшон зимней куртки ЦК
+    .desc = Капюшон, чтобы голова офицера центрального командования не мёрзла.
 
-ent-ClothingHeadHatHoodWinterChem = chemist winter coat hood
+ent-ClothingHeadHatHoodWinterChem = капюшон зимней куртки химика
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterCMO = chief medical officer's winter coat hood
+ent-ClothingHeadHatHoodWinterCMO = капюшон зимней куртки главного врача
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterEngineer = engineer winter coat hood
+ent-ClothingHeadHatHoodWinterEngineer = капюшон зимней куртки инженера
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterHOP = head of personnel's winter coat hood
+ent-ClothingHeadHatHoodWinterHOP = капюшон зимней куртки главы персонала
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterHOS = head of security's winter coat hood
+ent-ClothingHeadHatHoodWinterHOS = капюшон зимней куртки главы службы безопасности
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterHydro = hydroponics coat hood
+ent-ClothingHeadHatHoodWinterHydro = капюшон куртки гидропоники
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterJani = janitor coat hood
+ent-ClothingHeadHatHoodWinterJani = капюшон куртки уборщика
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterMed = medic coat hood
+ent-ClothingHeadHatHoodWinterMed = капюшон куртки медика
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterMime = mime coat hood
+ent-ClothingHeadHatHoodWinterMime = капюшон куртки мима
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterMiner = miner coat hood
+ent-ClothingHeadHatHoodWinterMiner = капюшон куртки шахтёра
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterPara = paramedic coat hood
+ent-ClothingHeadHatHoodWinterPara = капюшон куртки парамедика
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterQM = quartermaster's coat hood
+ent-ClothingHeadHatHoodWinterQM = капюшон куртки квартирмейстера
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterRD = research director's coat hood
+ent-ClothingHeadHatHoodWinterRD = капюшон куртки научного руководителя
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterRobo = robotics coat hood
+ent-ClothingHeadHatHoodWinterRobo = капюшон куртки робототехника
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterSci = scientist coat hood
+ent-ClothingHeadHatHoodWinterSci = капюшон куртки учёного
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterSec = security coat hood
+ent-ClothingHeadHatHoodWinterSec = капюшон куртки службы безопасности
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterSyndie = syndicate coat hood
+ent-ClothingHeadHatHoodWinterSyndie = капюшон куртки синдиката
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterWarden = warden's coat hood
+ent-ClothingHeadHatHoodWinterWarden = капюшон куртки смотрителя
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterWeb = web coat hood
+ent-ClothingHeadHatHoodWinterWeb = капюшон куртки из паутины
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterColorBlack = black winter coat hood
+ent-ClothingHeadHatHoodWinterColorBlack = капюшон чёрной зимней куртки
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterColorPurple = purple winter coat hood
+ent-ClothingHeadHatHoodWinterColorPurple = капюшон фиолетовой зимней куртки
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterColorRed = red winter coat hood
+ent-ClothingHeadHatHoodWinterColorRed = капюшон красной зимней куртки
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterColorBlue = blue winter coat hood
+ent-ClothingHeadHatHoodWinterColorBlue = капюшон синей зимней куртки
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterColorBrown = brown winter coat hood
+ent-ClothingHeadHatHoodWinterColorBrown = капюшон коричневой зимней куртки
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterColorGray = gray winter coat hood
+ent-ClothingHeadHatHoodWinterColorGray = капюшон серой зимней куртки
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterColorGreen = green winter coat hood
+ent-ClothingHeadHatHoodWinterColorGreen = капюшон зелёной зимней куртки
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterColorLightBrown = light brown winter coat hood
+ent-ClothingHeadHatHoodWinterColorLightBrown = капюшон светло-коричневой зимней куртки
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterColorOrange = orange winter coat hood
+ent-ClothingHeadHatHoodWinterColorOrange = капюшон оранжевой зимней куртки
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterColorWhite = white winter coat hood
+ent-ClothingHeadHatHoodWinterColorWhite = капюшон белой зимней куртки
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodWinterColorYellow = yellow winter coat hood
+ent-ClothingHeadHatHoodWinterColorYellow = капюшон жёлтой зимней куртки
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodVoidCloak = void cloak hood
-    .desc = The hood of a void cloak. For those who have gone to the dark side of the force.
+ent-ClothingHeadHatHoodVoidCloak = капюшон плаща пустоты
+    .desc = Капюшон плаща пустоты. Для тех, кто перешёл на тёмную сторону силы.

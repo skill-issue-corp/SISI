@@ -1,11 +1,11 @@
-knowledge-editor-tab = Skills
-knowledge-editor-points = Points Remaining: {$points}
-knowledge-editor-selected = Selected Skills
-knowledge-editor-no-skills = Add some skills on the right!
-knowledge-editor-available = Available Skills
-knowledge-editor-item = {$name} - {$cost} points
+knowledge-editor-tab = Навыки
+knowledge-editor-points = Очков Осталось: {$points}
+knowledge-editor-selected = Выбранные Навыки
+knowledge-editor-no-skills = Добавьте навыки из списка справа!
+knowledge-editor-available = Доступные Навыки
+knowledge-editor-item = {$name} - {$cost} очк.
 knowledge-editor-mastery = {$mastery} ({$cost})
 
-knowledge-editor-save = Save Skills
-knowledge-editor-reset = Reset Changes
-knowledge-editor-save-deficit = Not enough points!
+knowledge-editor-save = Сохранить Навыки
+knowledge-editor-reset = Сбросить Изменения
+knowledge-editor-save-deficit = Недостаточно очков!

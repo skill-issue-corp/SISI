@@ -12,40 +12,35 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lathe-menu-title = Lathe Menu
-lathe-menu-queue = Queue
-lathe-menu-server-list = Server list
-lathe-menu-sync = Sync
-lathe-menu-search-designs = Search designs
-lathe-menu-category-all = All
-lathe-menu-search-filter = Filter:
-lathe-menu-amount = Amount:
+lathe-menu-title = Меню Лата
+lathe-menu-queue = Очередь
+lathe-menu-server-list = Список серверов
+lathe-menu-sync = Синхронизировать
+lathe-menu-search-designs = Поиск чертежей
+lathe-menu-category-all = Все
+lathe-menu-search-filter = Фильтр:
+lathe-menu-amount = Количество:
 lathe-menu-recipe-count = { $count ->
-    [1] {$count} Recipe
-    *[other] {$count} Recipes
+    [one] {$count} Рецепт
+    [few] {$count} Рецепта
+    *[many] {$count} Рецептов
 }
-lathe-menu-reagent-slot-examine = It has a slot for a beaker on the side.
-lathe-reagent-dispense-no-container = Liquid pours out of {THE($name)} onto the floor!
-lathe-menu-result-reagent-display = {$reagent} ({$amount}u)
+lathe-menu-reagent-slot-examine = Сбоку есть слот для мензурки.
+lathe-reagent-dispense-no-container = Из {$name} на пол льётся жидкость!
+lathe-menu-result-reagent-display = {$reagent} ({$amount} ед.)
 lathe-menu-material-display = {$material} ({$amount})
-lathe-menu-tooltip-display = {$amount} of {$material}
+lathe-menu-tooltip-display = {$material}: {$amount}
 lathe-menu-description-display = [italic]{$description}[/italic]
-lathe-menu-material-amount = { $amount ->
-    [1] {NATURALFIXED($amount, 2)} {$unit}
-    *[other] {NATURALFIXED($amount, 2)} {$unit}
-}
-lathe-menu-material-amount-missing = { $amount ->
-    [1] {NATURALFIXED($amount, 2)} {$unit} of {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit} missing[/color])
-    *[other] {NATURALFIXED($amount, 2)} {$unit} of {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit} missing[/color])
-}
-lathe-menu-no-materials-message = No materials loaded.
-lathe-menu-silo-linked-message = Silo Linked
-lathe-menu-fabricating-message = Fabricating...
-lathe-menu-materials-title = Materials
-lathe-menu-queue-title = Build Queue
-lathe-menu-delete-fabricating-tooltip = Cancel printing the current item.
-lathe-menu-delete-item-tooltip = Cancel printing this batch.
-lathe-menu-move-up-tooltip = Move this batch ahead in the queue.
-lathe-menu-move-down-tooltip = Move this batch back in the queue.
+lathe-menu-material-amount = {$unit} × {NATURALFIXED($amount, 2)}
+lathe-menu-material-amount-missing = «{$material}»: {$unit} × {NATURALFIXED($amount, 2)} ([color=red]не хватает: {$unit} × {NATURALFIXED($missingAmount, 2)}[/color])
+lathe-menu-no-materials-message = Материалы не загружены.
+lathe-menu-silo-linked-message = Силос Подключён
+lathe-menu-fabricating-message = Изготовление...
+lathe-menu-materials-title = Материалы
+lathe-menu-queue-title = Очередь Производства
+lathe-menu-delete-fabricating-tooltip = Отменить печать текущего предмета.
+lathe-menu-delete-item-tooltip = Отменить печать этой партии.
+lathe-menu-move-up-tooltip = Продвинуть эту партию вперёд в очереди.
+lathe-menu-move-down-tooltip = Сдвинуть эту партию назад в очереди.
 lathe-menu-item-single = {$index}. {$name}
 lathe-menu-item-batch = {$index}. {$name} ({$printed}/{$total})

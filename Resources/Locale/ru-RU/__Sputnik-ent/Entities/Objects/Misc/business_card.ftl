@@ -1,2 +1,2 @@
-ent-SyndicateBusinessCard = syndicate business card
-    .desc = A black card with the syndicate's logo. There's something written on the back.
+ent-SyndicateBusinessCard = визитка синдиката
+    .desc = Чёрная карточка с логотипом синдиката. На обороте что-то написано.

@@ -1,53 +1,53 @@
-ent-ClosetWall = maintenance wall closet
-    .desc = It's a storage unit.
+ent-ClosetWall = настенный шкаф техтоннелей
+    .desc = Шкаф для хранения вещей.
 
-ent-ClosetWallEmergency = emergency wall closet
-    .desc = It's a storage unit for emergency breath masks and O2 tanks.
+ent-ClosetWallEmergency = настенный аварийный шкаф
+    .desc = Шкаф для аварийных дыхательных масок и баллонов O2.
 
-ent-ClosetWallEmergencyN2 = emergency nitrogen wall closet
-    .desc = It's full of life-saving equipment. Assuming, that is, that you breathe nitrogen.
+ent-ClosetWallEmergencyN2 = настенный аварийный шкаф с азотом
+    .desc = Полон спасательного снаряжения. При условии, конечно, что вы дышите азотом.
 
-ent-ClosetWallFire = fire-safety wall closet
-    .desc = It's a storage unit for fire-fighting supplies.
+ent-ClosetWallFire = настенный пожарный шкаф
+    .desc = Шкаф для противопожарного снаряжения.
 
-ent-ClosetWallBlue = blue wall closet
-    .desc = A wardrobe packed with stylish blue clothing.
+ent-ClosetWallBlue = синий настенный шкаф
+    .desc = Гардероб, набитый стильной синей одеждой.
 
-ent-ClosetWallPink = pink wall closet
-    .desc = A wardrobe packed with fabulous pink clothing.
+ent-ClosetWallPink = розовый настенный шкаф
+    .desc = Гардероб, набитый шикарной розовой одеждой.
 
-ent-ClosetWallBlack = black wall closet
-    .desc = A wardrobe packed with stylish black clothing.
+ent-ClosetWallBlack = чёрный настенный шкаф
+    .desc = Гардероб, набитый стильной чёрной одеждой.
 
-ent-ClosetWallGreen = green wall closet
-    .desc = A wardrobe packed with stylish green clothing.
+ent-ClosetWallGreen = зелёный настенный шкаф
+    .desc = Гардероб, набитый стильной зелёной одеждой.
 
-ent-ClosetWallOrange = prison wall closet
+ent-ClosetWallOrange = настенный тюремный шкаф
     .desc = { ent-BaseWallCloset.desc }
 
-ent-ClosetWallYellow = yellow wall closet
-    .desc = A wardrobe packed with stylish yellow clothing.
+ent-ClosetWallYellow = жёлтый настенный шкаф
+    .desc = Гардероб, набитый стильной жёлтой одеждой.
 
-ent-ClosetWallWhite = white wall closet
-    .desc = A wardrobe packed with stylish white clothing.
+ent-ClosetWallWhite = белый настенный шкаф
+    .desc = Гардероб, набитый стильной белой одеждой.
 
-ent-ClosetWallGrey = grey wall closet
-    .desc = A wardrobe packed with a tide of grey clothing.
+ent-ClosetWallGrey = серый настенный шкаф
+    .desc = Гардероб, доверху набитый серой одеждой.
 
-ent-ClosetWallMixed = mixed wall closet
-    .desc = A wardrobe packed with a mix of colorful clothing.
+ent-ClosetWallMixed = разноцветный настенный шкаф
+    .desc = Гардероб, набитый пёстрой одеждой разных цветов.
 
-ent-ClosetWallAtmospherics = atmospherics wall closet
+ent-ClosetWallAtmospherics = настенный шкаф атмосферного отсека
     .desc = { ent-BaseWallCloset.desc }
 
-ent-LockerWallMedical = medical wall locker
+ent-LockerWallMedical = настенный медицинский шкаф
     .desc = { ent-BaseWallLocker.desc }
 
-ent-LockerWallEvacRepair = emergency shuttle emergency wall locker
-    .desc = It's emergencies all the way down.
+ent-LockerWallEvacRepair = настенный аварийный шкаф эвакуационного шаттла
+    .desc = Авария на аварии и аварией погоняет.
 
-ent-LockerWallBasePrisoner = prisoner wall closet
-    .desc = It's a secure locker for an inmate's personal belongings during their time in prison.
+ent-LockerWallBasePrisoner = настенный шкаф заключённого
+    .desc = Защищённый шкаф для личных вещей заключённого на время отбывания срока.
     .suffix = 1
 
 ent-LockerWallPrisoner2 = { ent-LockerWallBasePrisoner }
@@ -78,6 +78,6 @@ ent-LockerWallPrisoner8 = { ent-LockerWallBasePrisoner }
     .desc = { ent-LockerWallBasePrisoner.desc }
     .suffix = 8
 
-ent-LockerWallSyndicate = blood-red wall locker
-    .desc = It's a wall storage unit with a blood-red design.
-    .suffix = Locked
+ent-LockerWallSyndicate = кроваво-красный настенный шкаф
+    .desc = Настенный шкаф с кроваво-красным оформлением.
+    .suffix = Заперто

@@ -1,9 +1,9 @@
-ent-MMI = man-machine interface
-    .desc = A machine able to facilitate communication between a biological brain and electronics, enabling crew to continue to provide value after work-related incidents.
+ent-MMI = машинно-мозговой интерфейс
+    .desc = Устройство, обеспечивающее связь между биологическим мозгом и электроникой. Позволяет членам экипажа и дальше приносить пользу после происшествий на работе.
 
 ent-MMIFilled = { ent-MMI }
     .desc = { ent-MMI.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-PositronicBrain = positronic brain
-    .desc = An artificial brain capable of spontaneous neural activity.
+ent-PositronicBrain = позитронный мозг
+    .desc = Искусственный мозг, способный к спонтанной нейронной активности.

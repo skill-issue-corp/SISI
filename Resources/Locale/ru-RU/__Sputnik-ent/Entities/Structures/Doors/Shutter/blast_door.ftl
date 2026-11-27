@@ -1,16 +1,16 @@
-ent-BlastDoor = blast door
-    .desc = This one says 'BLAST DONGER'.
+ent-BlastDoor = взрывозащитная дверь
+    .desc = На этой написано «ВЗРЫВОЗАЩИТНЫЙ ДУРЬ».
 
 ent-BlastDoorOpen = { ent-BlastDoor }
     .desc = { ent-BlastDoor.desc }
-    .suffix = Open
+    .suffix = Открыто
 
-ent-BlastDoorFrame = blast door frame
-    .desc = This one says 'BLAST DONGER'.
+ent-BlastDoorFrame = каркас взрывозащитной двери
+    .desc = На этой написано «ВЗРЫВОЗАЩИТНЫЙ ДУРЬ».
 
-ent-BlastDoorXenoborg = xenoborg blast door
-    .desc = Don't lose a head!
+ent-BlastDoorXenoborg = взрывозащитная дверь ксеноборгов
+    .desc = Не потеряйте голову!
 
 ent-BlastDoorXenoborgOpen = { ent-BlastDoorXenoborg }
     .desc = { ent-BlastDoorXenoborg.desc }
-    .suffix = Open
+    .suffix = Открыто

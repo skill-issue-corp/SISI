@@ -1,6 +1,6 @@
-ent-Dresser = dresser
-    .desc = Wooden dresser, can store things inside itself, ideal for underwear, and someone's kidneys?...
+ent-Dresser = комод
+    .desc = Деревянный комод, в нём можно хранить вещи, идеально подходит для нижнего белья и чьих-то почек?...
 
 ent-DresserFilled = { ent-Dresser }
     .desc = { ent-Dresser.desc }
-    .suffix = Filled
+    .suffix = Заполнено

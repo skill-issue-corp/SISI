@@ -1,14 +1,14 @@
-ent-BoxTracker = tracker box
-    .desc = A box containing a couple trackers.
+ent-BoxTracker = коробка трекеров
+    .desc = Коробка с парой трекеров.
 
-ent-BoxLethalInjection = lethal injections box
-    .desc = A box containing several lethal injection syringes.
+ent-BoxLethalInjection = коробка смертельных инъекций
+    .desc = Коробка с несколькими шприцами для смертельных инъекций.
 
-ent-BoxGrenadesBaton = 40mm baton grenade box
-    .desc = A box containing eight 40mm baton grenades for single target stunning.
+ent-BoxGrenadesBaton = коробка 40-мм ударных гранат
+    .desc = Коробка с восемью 40-мм ударными гранатами для оглушения отдельных целей.
 
-ent-BoxGrenadesFlash = 40mm flash grenade box
-    .desc = A box containing eight 40mm flashbang grenades for mass target stunning.
+ent-BoxGrenadesFlash = коробка 40-мм светошумовых гранат
+    .desc = Коробка с восемью 40-мм светошумовыми гранатами для оглушения группы целей.
 
-ent-BoxGrenadesTeargas = 40mm tear gas grenade box
-    .desc = A box containing eight 40mm tear gas grenades for efficient riot dispersion.
+ent-BoxGrenadesTeargas = коробка 40-мм гранат со слезоточивым газом
+    .desc = Коробка с восемью 40-мм гранатами со слезоточивым газом для эффективного разгона беспорядков.

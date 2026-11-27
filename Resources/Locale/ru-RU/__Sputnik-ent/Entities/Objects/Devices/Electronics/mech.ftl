@@ -1,20 +1,20 @@
-ent-RipleyCentralElectronics = ripley central control module
-    .desc = The electrical control center for the ripley mech.
+ent-RipleyCentralElectronics = модуль центрального управления рипли
+    .desc = Электронный центр управления мехом рипли.
 
-ent-RipleyPeripheralsElectronics = ripley peripherals control module
-    .desc = The electrical peripherals control for the ripley mech.
+ent-RipleyPeripheralsElectronics = модуль управления периферией рипли
+    .desc = Электронный блок управления периферией меха рипли.
 
-ent-HonkerCentralElectronics = H.O.N.K. central control module
-    .desc = The electrical control center for the H.O.N.K. mech.
+ent-HonkerCentralElectronics = модуль центрального управления Х.О.Н.К.
+    .desc = Электронный центр управления мехом Х.О.Н.К.
 
-ent-HonkerPeripheralsElectronics = H.O.N.K. peripherals control module
-    .desc = The electrical peripherals control for the H.O.N.K. mech.
+ent-HonkerPeripheralsElectronics = модуль управления периферией Х.О.Н.К.
+    .desc = Электронный блок управления периферией меха Х.О.Н.К.
 
-ent-HonkerTargetingElectronics = H.O.N.K. weapon control and targeting module
-    .desc = The electrical targeting control for the H.O.N.K. mech.
+ent-HonkerTargetingElectronics = модуль управления оружием и наведения Х.О.Н.К.
+    .desc = Электронный блок наведения меха Х.О.Н.К.
 
-ent-HamtrCentralElectronics = HAMTR central control module
-    .desc = The electrical control center for the HAMTR mech.
+ent-HamtrCentralElectronics = модуль центрального управления ХАМТР
+    .desc = Электронный центр управления мехом ХАМТР.
 
-ent-HamtrPeripheralsElectronics = HAMTR peripherals control module
-    .desc = The electrical peripherals control for the HAMTR mech.
+ent-HamtrPeripheralsElectronics = модуль управления периферией ХАМТР
+    .desc = Электронный блок управления периферией меха ХАМТР.

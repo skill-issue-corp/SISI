@@ -1,2 +1,2 @@
-ent-CheekStorage = cheek storage
-    .desc = The cheeks of an animal, capable of storing small objects.
+ent-CheekStorage = защёчные мешки
+    .desc = Щёки животного, за которыми можно хранить мелкие предметы.

@@ -1,17 +1,17 @@
 ent-BaseSpyObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-SpyRandomObjective = Do something
-    .desc = Don't fail.
+ent-SpyRandomObjective = Сделайте что-нибудь
+    .desc = Не провалитесь.
 
-ent-SpySurviveObjective = Survive
-    .desc = Stay alive. You don't have to go to CentCom.
+ent-SpySurviveObjective = Выжить
+    .desc = Останьтесь в живых. Лететь на ЦК необязательно.
 
 ent-SpyEscapeShuttleObjective = { ent-BaseSpyObjective }
     .desc = { ent-BaseSpyObjective.desc }
 
-ent-SpyDieObjective = Die a glorious death
-    .desc = Die.
+ent-SpyDieObjective = Умереть славной смертью
+    .desc = Умрите.
 
-ent-SpyHijackShuttleObjective = Hijack emergency shuttle
-    .desc = Leave on the shuttle free and clear of the loyal Nanotrasen crew on board. Use ANY methods available to you. Syndicate agents, Nanotrasen enemies, and handcuffed hostages may remain alive on the shuttle. Ignore assistance from anyone other than a support agent.
+ent-SpyHijackShuttleObjective = Захватить эвакуационный шаттл
+    .desc = Улетите на шаттле, избавившись от всех верных NanoTrasen членов экипажа на борту. Используйте ЛЮБЫЕ доступные вам методы. Агенты Синдиката, враги NanoTrasen и заложники в наручниках могут остаться в живых на шаттле. Принимайте помощь только от агента поддержки.

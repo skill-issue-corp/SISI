@@ -1,5 +1,5 @@
-ent-ActionStartFishing = Throw fishing lure
-    .desc = Throw lure from the fishing rod to catch something!
+ent-ActionStartFishing = Забросить приманку
+    .desc = Забросьте приманку удочкой, чтобы что-нибудь поймать!
 
-ent-ActionStopFishing = Reel fishing rod
-    .desc = Reel your fishing rod to pull an object that it attached to, or stop fishing.
+ent-ActionStopFishing = Подмотать леску
+    .desc = Подмотайте леску, чтобы подтянуть пойманный предмет или закончить рыбалку.

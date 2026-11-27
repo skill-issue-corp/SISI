@@ -1,4 +1,4 @@
-ent-SpawnSupplyEmpty = SpawnSupplyEmpty
+ent-SpawnSupplyEmpty = Спавн Пустой Капсулы Снабжения
     .desc = { "" }
 
 ent-SpawnSupplypodAnimation = { "" }

@@ -6,17 +6,17 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-goodcleanfun-1 = Escape to a fantasy world!
-advertisement-goodcleanfun-2 = Fuel your gambling addiction!
-advertisement-goodcleanfun-3 = Ruin your friendships!
-advertisement-goodcleanfun-4 = Roll for initiative!
-advertisement-goodcleanfun-5 = Elves and dwarves!
-advertisement-goodcleanfun-6 = Paranoid computers!
-advertisement-goodcleanfun-7 = Totally not satanic!
-advertisement-goodcleanfun-8 = Fun times forever!
-advertisement-goodcleanfun-9 = Crypts and Carps!
-advertisement-goodcleanfun-10 = Play with friends!
-thankyou-goodcleanfun-1 = Have fun!
-thankyou-goodcleanfun-2 = Now you're playing with power!
-thankyou-goodcleanfun-3 = Go get your game on!
-thankyou-goodcleanfun-4 = Start making your character sheets!
+advertisement-goodcleanfun-1 = Сбегите в мир фэнтези!
+advertisement-goodcleanfun-2 = Подпитайте свою игроманию!
+advertisement-goodcleanfun-3 = Разрушьте дружбу!
+advertisement-goodcleanfun-4 = Бросайте на инициативу!
+advertisement-goodcleanfun-5 = Эльфы и дварфы!
+advertisement-goodcleanfun-6 = Компьютеры-параноики!
+advertisement-goodcleanfun-7 = Совсем не сатанизм!
+advertisement-goodcleanfun-8 = Пусть веселье не кончается!
+advertisement-goodcleanfun-9 = Склепы и Карпы!
+advertisement-goodcleanfun-10 = Играйте с друзьями!
+thankyou-goodcleanfun-1 = Веселитесь!
+thankyou-goodcleanfun-2 = Вот теперь вы играете с полной мощью!
+thankyou-goodcleanfun-3 = Пора как следует поиграть!
+thankyou-goodcleanfun-4 = Начинайте заполнять листы персонажей!

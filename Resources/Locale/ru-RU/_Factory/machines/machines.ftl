@@ -1,55 +1,55 @@
-signal-port-name-powered = Powered
-signal-port-description-powered = This port is invoked with HIGH or LOW depending on the machine's power being switched on or off.
+signal-port-name-powered = Питание
+signal-port-description-powered = Порт выдаёт ВЫСОКИЙ или НИЗКИЙ уровень в зависимости от того, включилось или выключилось питание машины.
 
 # Reagent Grinder
 
-signal-port-name-automation-slot-beaker = Item: Beaker Slot
-signal-port-description-automation-slot-beaker = An automation slot for a liquid-handling machine's beaker.
+signal-port-name-automation-slot-beaker = Предмет: Слот Мензурки
+signal-port-description-automation-slot-beaker = Слот автоматизации для мензурки машины, работающей с жидкостями.
 
-signal-port-name-automation-slot-input = Item: Input items
-signal-port-description-automation-slot-input = An automation slot for a machine's input item storage.
+signal-port-name-automation-slot-input = Предмет: Входные предметы
+signal-port-description-automation-slot-input = Слот автоматизации для входного хранилища машины.
 
 # Flatpacker
 
-signal-port-name-automation-slot-board = Item: Board Slot
-signal-port-description-automation-slot-board = An automation slot for a flatpacker's circuitboard.
+signal-port-name-automation-slot-board = Предмет: Слот Платы
+signal-port-description-automation-slot-board = Слот автоматизации для платы упаковщика.
 
-signal-port-name-automation-slot-materials = Item: Material Storage
-signal-port-description-automation-slot-materials = An automation slot for inserting materials into a machine's storage.
+signal-port-name-automation-slot-materials = Предмет: Хранилище Материалов
+signal-port-description-automation-slot-materials = Слот автоматизации для загрузки материалов в хранилище машины.
 
 # Disposal Unit
 
-signal-port-name-flush = Flush
-signal-port-description-flush = Signal port to toggle a disposal unit's flush mechanism.
+signal-port-name-flush = Сбросить
+signal-port-description-flush = Сигнальный порт переключает механизм сброса мусоросброса.
 
-signal-port-name-eject = Eject
-signal-port-description-eject = Signal port to eject a disposal unit's contents.
+signal-port-name-eject = Извлечь
+signal-port-description-eject = Сигнальный порт для извлечения содержимого мусоросброса.
 
-signal-port-name-ready = Ready
-signal-port-description-ready = Signal port that gets pulsed after a disposal unit becomes fully pressurized.
+signal-port-name-ready = Готов
+signal-port-description-ready = Порт выдаёт импульс, когда давление в мусоросбросе достигает рабочего значения.
 
 # Autodoc
 
-signal-port-name-automation-slot-autodoc-hand = Item: Autodoc Hand
-signal-port-description-automation-slot-autodoc-hand = An automation slot for an autodoc's held organ/part/etc from STORE ITEM / GRAB ITEM instructions.
+signal-port-name-automation-slot-autodoc-hand = Предмет: Рука Автодока
+signal-port-description-automation-slot-autodoc-hand = Слот автоматизации для органа, части тела и т. п. в руке автодока, доступный через команды УБРАТЬ ПРЕДМЕТ / ВЗЯТЬ ПРЕДМЕТ.
 
 # Gas Canister
 
-signal-port-name-automation-slot-gas-tank = Item: Gas Tank
-signal-port-description-automation-slot-gas-tank = An automation slot for a gas tank.
+signal-port-name-automation-slot-gas-tank = Предмет: Газовый Баллон
+signal-port-description-automation-slot-gas-tank = Слот автоматизации для газового баллона.
 
 # ChemMaster
 
-signal-port-name-automation-slot-bottles = Item: Bottles Slot
-signal-port-description-automation-slot-bottles = An automation slot for a ChemMaster's pill or liquid bottle.
+signal-port-name-automation-slot-bottles = Предмет: Слот Бутылочек
+signal-port-description-automation-slot-bottles = Слот автоматизации химмастера для флакона с таблетками или жидкостью.
 
 # Radiation Collector
 
-signal-port-name-rad-empty = Empty
-signal-port-description-rad-empty = Signal port set to HIGH if the tank is missing or below 33% pressure, LOW otherwise.
+signal-port-name-rad-empty = Пуст
+signal-port-description-rad-empty = На порту устанавливается ВЫСОКИЙ уровень, если баллона нет или давление в нём ниже 33%. В остальных случаях устанавливается НИЗКИЙ.
 
-signal-port-name-rad-low = Low
-signal-port-description-rad-low = Signal port set to HIGH if the tank is below 66% pressure, LOW otherwise.
+signal-port-name-rad-low = Низкое
+signal-port-description-rad-low = На порту устанавливается ВЫСОКИЙ уровень, если давление в баллоне ниже 66%. В остальных случаях устанавливается НИЗКИЙ.
 
-signal-port-name-rad-full = Full
-signal-port-description-rad-full = Signal port set to HIGH if the tank is above 66% pressure, LOW otherwise.
+signal-port-name-rad-full = Полон
+signal-port-description-rad-full = На порту устанавливается ВЫСОКИЙ уровень, если давление в баллоне выше 66%. В остальных случаях устанавливается НИЗКИЙ.

@@ -1,5 +1,5 @@
-ent-HandheldGeneticsScanner = handheld genome scanner
-    .desc = A combined DNA sampler and readout device that can show all sequences in a subject outside of the lab.
+ent-HandheldGeneticsScanner = ручной геномный сканер
+    .desc = Устройство для отбора и чтения образцов ДНК, которое показывает все последовательности субъекта за пределами лаборатории.
 
-ent-PaperGeneticsScanner = genetics printout
-    .desc = Information printed from a handheld genome scanner.
+ent-PaperGeneticsScanner = генетическая распечатка
+    .desc = Данные, распечатанные с помощью ручного геномного сканера.

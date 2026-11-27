@@ -1,83 +1,83 @@
-ent-PatreonTia = lenore plushie
-    .desc = It is made out of human.
+ent-PatreonTia = плюшевая ленор
+    .desc = Сделана из человека.
 
-ent-PatreonTenshi = silver halo
-    .desc = Holy moly.
+ent-PatreonTenshi = серебряный нимб
+    .desc = Ну ничего себе.
 
-ent-PatreonTurboTracker = clown vomit cloak
-    .desc = The red spots are human blood.
+ent-PatreonTurboTracker = плащ из клоунской блевотины
+    .desc = Красные пятна — человеческая кровь.
 
-ent-PatreonWeax = armok's decapitated skull
-    .desc = It is of the lowest quality.
+ent-PatreonWeax = отсечённая голова армока
+    .desc = Самого низкого качества.
 
-ent-PatreonTheLongQuietDress = mushroom dress
-    .desc = It is a mushroom dress!
+ent-PatreonTheLongQuietDress = грибное платье
+    .desc = Это грибное платье!
 
-ent-PatreonTheLongQuietHat = mushroom hat
-    .desc = It is a mushroom hat!
+ent-PatreonTheLongQuietHat = грибная шляпа
+    .desc = Это грибная шляпа!
 
-ent-PatreonOwenCarpenter = trash bag cloak
-    .desc = DISGUSTING!!!
+ent-PatreonOwenCarpenter = плащ из мусорного пакета
+    .desc = МЕРЗОСТЬ!!!
 
-ent-PatreonGamingFungus420 = tom O shatter hat
-    .desc = Who is Tom? And how can I shatter him?
+ent-PatreonGamingFungus420 = шляпа тома О кроши
+    .desc = Кто такой Том? И как мне его раскрошить?
 
-ent-PatreonGribley = worm pack
-    .desc = I think it just moved...
+ent-PatreonGribley = рюкзак-червь
+    .desc = Кажется, он только что шевельнулся...
 
-ent-PatreonGungeonologist = bloodied bomber jacket
-    .desc = A worn bomber jacket with a number of aged blood stains. The inside of the collar has the word "Gunderaan" printed on it.
+ent-PatreonGungeonologist = окровавленный бомбер
+    .desc = Потёртый бомбер с застарелыми пятнами крови. С изнанки воротника напечатано «Гундераан».
 
-ent-PatreonGungeonologist2 = surgical goggles
-    .desc = Good for keeping sand out of your eyes.
+ent-PatreonGungeonologist2 = хирургические очки
+    .desc = Не дают песку попасть в глаза.
 
-ent-PatreonBias = hierophant trophy
-    .desc = The decapitated head of a hierophant.
+ent-PatreonBias = трофей с иерофанта
+    .desc = Отсечённая голова иерофанта.
 
-ent-PatreonEpsilon = void cape
-    .desc = It's cold to the touch.
+ent-PatreonEpsilon = плащ пустоты
+    .desc = Холодный на ощупь.
 
-ent-PatreonIdoppel = stained outfit
-    .desc = A stinky outfit stained by it's owner's impressive devotion to work.
+ent-PatreonIdoppel = заляпанный наряд
+    .desc = Вонючий наряд в пятнах от того, что его хозяин с поразительным рвением отдавался работе.
 
-ent-PatreonWraith = skull mask
-    .desc = A skull mask! You're not sure if this is real or not...
+ent-PatreonWraith = маска-череп
+    .desc = Маска в виде черепа! Вы не уверены, настоящий ли он...
 
-ent-PatreonToasterStrudels = real headslime
-    .desc = Squishy... ew.
+ent-PatreonToasterStrudels = настоящий слайм на голову
+    .desc = Мягкий и липкий... фу.
 
-ent-PatreonBumblebirb = Dwingle
-    .desc = It's dwingling itself.
+ent-PatreonBumblebirb = Двингл
+    .desc = Сам себя двинглит.
 
-ent-DwingleCube = dwingle cube
+ent-DwingleCube = кубик двингла
     .desc = { ent-RehydratableAnimalCube.desc }
 
-ent-DwingleCubeBox = dwingle cube box
-    .desc = Giving you 8 of these is going to send me to hell.
+ent-DwingleCubeBox = коробка кубиков двингла
+    .desc = За то, что я даю вам 8 таких, я попаду в ад.
 
-ent-PatreonltKRYSuit = track suit
-    .desc = Vaguely Russian.
+ent-PatreonltKRYSuit = спортивный костюм
+    .desc = Чем-то напоминает Русских.
 
-ent-PatreonltKRYHat = track helmet
-    .desc = Vaguely Russian.
+ent-PatreonltKRYHat = спортивный шлем
+    .desc = Чем-то напоминает Русских.
 
-ent-PatreonDrOktober = futuristic jacket
-    .desc = Looks like it came from a scifi novel!
+ent-PatreonDrOktober = футуристическая куртка
+    .desc = Словно из научно-фантастического романа!
 
-ent-PatreonDaniels = time cloak
-    .desc = The clock on the back is broken...
+ent-PatreonDaniels = плащ времени
+    .desc = Часы на спине сломаны...
 
-ent-PatreonCatdere = janitorial cloak
-    .desc = I killed three men in 1997.
+ent-PatreonCatdere = плащ уборщика
+    .desc = Я убил троих в 1997 году.
 
-ent-PatreonSuperMage = tweaking mouse
-    .desc = Tweaks!
+ent-PatreonSuperMage = дёрганая мышь
+    .desc = Дёргается!
 
-ent-PatreonDino = glassed flower
-    .desc = It radiates strangely.
+ent-PatreonDino = цветок в стекле
+    .desc = От него исходит странное излучение.
 
-ent-PatreonElk77420 = Koa's King Sized
-    .desc = A king sized carton of premium smokes.
+ent-PatreonElk77420 = Большой Блок Коа
+    .desc = Большой блок отборных сигарет.
 
-ent-KoaCigs = Koa's King Sized
-    .desc = Made with love for those hardworking Engineers and Atmos Techs.
+ent-KoaCigs = Большой Блок Коа
+    .desc = Сделано с любовью для трудолюбивых Инженеров и Атмосферных Техников.

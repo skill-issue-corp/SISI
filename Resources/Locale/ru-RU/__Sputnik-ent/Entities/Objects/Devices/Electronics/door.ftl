@@ -1,2 +1,2 @@
-ent-DoorElectronics = door electronics
-    .desc = An electronics board used in doors and airlocks.
+ent-DoorElectronics = электроника дверей
+    .desc = Электронная плата для дверей и шлюзов.

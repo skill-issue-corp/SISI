@@ -1,30 +1,30 @@
 ent-BaseGlovesTackle = { ent-ClothingHandsBase }
     .desc = { ent-ClothingHandsBase.desc }
 
-ent-ClothingHandsGlovesSecurity = enhanced retrieval gloves
-    .desc = Special gloves that manipulate the blood vessels in the wearer's hands, granting them the ability to launch headfirst into walls and tackle fleeing criminals in a single bound.
+ent-ClothingHandsGlovesSecurity = улучшенные перчатки-захваты
+    .desc = Особые перчатки воздействуют на кровеносные сосуды в руках. С ними можно с разбега врезаться головой в стену и одним прыжком сбить с ног бегущего преступника.
 
 ent-ClothingHandsGlovesSecurityBlue = { ent-ClothingHandsGlovesSecurity }
     .desc = { ent-ClothingHandsGlovesSecurity.desc }
-    .suffix = Blue
+    .suffix = Синий
 
-ent-ClothingHandsGlovesGorilla = gorilla gloves
-    .desc = Premium quality combative gloves, heavily reinforced to give the user an edge in close combat tackles, though they are more taxing to use than normal gripper gloves.
+ent-ClothingHandsGlovesGorilla = перчатки гориллы
+    .desc = Боевые перчатки высшего качества. Усиленная защита даёт преимущество при захватах в ближнем бою, но пользоваться ими утомительнее, чем обычными перчатками-захватами.
 
-ent-ClothingHandsGlovesGuerrilla = guerrilla gloves
-    .desc = Superior quality combative gloves, good for performing tackle takedowns as well as absorbing electrical shocks.
+ent-ClothingHandsGlovesGuerrilla = партизанские перчатки
+    .desc = Отличные боевые перчатки. В них удобно сбивать противника с ног и не страшно получить удар током.
 
-ent-ClothingHandsGlovesRocket = rocket gloves
-    .desc = The ultimate in high risk, high reward, perfect for when you need to stop a criminal from fifty feet away or die trying. Banned in most Spinward gridiron football and rugby leagues. (Alt + Q to tackle.)
+ent-ClothingHandsGlovesRocket = ракетные перчатки
+    .desc = Предел риска и награды. Идеальны, когда нужно остановить преступника в пятидесяти футах от вас или погибнуть при попытке. Запрещены в большинстве лиг американского футбола и регби в Спинварде. (Alt + Q для захвата.)
 
-ent-ClothingHandsGlovesDolphin = dolphin gloves
-    .desc = Sleek, aerodynamic gripper gloves that are less effective at actually performing takedowns, but more effective at letting the user sail through the hallways and cause accidents. (Alt + Q to tackle.)
+ent-ClothingHandsGlovesDolphin = дельфиньи перчатки
+    .desc = Обтекаемые перчатки-захваты. Сбивать с ног в них получается хуже, зато по коридорам можно носиться и врезаться во всё подряд. (Alt + Q для захвата.)
 
-ent-ClothingHandsGlovesGripper = improvised gripper gloves
-    .desc = Ratty looking gloves wrapped with sticky tape. Beware anyone wearing these, for they clearly have no shame and nothing to lose. (Alt + Q to tackle.)
+ent-ClothingHandsGlovesGripper = самодельные перчатки-захваты
+    .desc = Потрёпанные перчатки, обмотанные липкой лентой. Держитесь подальше от тех, кто их носит. Стыда у них явно нет, и терять им нечего. (Alt + Q для захвата.)
 
-ent-ClothingHandsGlovesForge = forge gloves
-    .desc = Good for handling metal without burning yourself.
+ent-ClothingHandsGlovesForge = перчатки кузнеца
+    .desc = Позволяют брать горячий металл и не обжигаться.
 
-ent-ClothingHandsGlovesSecurityDuty = security duty gloves
-    .desc = Standard duty gloves of Nanotrasen security forces.
+ent-ClothingHandsGlovesSecurityDuty = служебные перчатки охраны
+    .desc = Штатные перчатки службы безопасности NanoTrasen.

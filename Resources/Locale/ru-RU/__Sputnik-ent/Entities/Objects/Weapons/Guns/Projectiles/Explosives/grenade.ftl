@@ -1,11 +1,11 @@
-ent-PelletClusterRubber = pellet (ball, rubber)
+ent-PelletClusterRubber = дробина (шарик, резиновый)
     .desc = { ent-BaseBullet.desc }
 
-ent-PelletClusterLethal = pellet (ball, lethal)
+ent-PelletClusterLethal = дробина (шарик, летальный)
     .desc = { ent-BaseBullet.desc }
 
-ent-PelletClusterIncendiary = pellet (ball, incendiary)
+ent-PelletClusterIncendiary = дробина (шарик, зажигательный)
     .desc = { ent-BaseBulletIncendiary.desc }
 
-ent-PelletClusterLessLethal = pellet (ball, less lethal)
+ent-PelletClusterLessLethal = дробина (шарик, малолетальный)
     .desc = { ent-BaseBullet.desc }

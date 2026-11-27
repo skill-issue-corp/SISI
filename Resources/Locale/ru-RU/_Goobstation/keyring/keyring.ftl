@@ -1,4 +1,4 @@
-keyring-start-unlock-popup = You begin to fumble with the keys...
+keyring-start-unlock-popup = Вы начинаете перебирать ключи...
 
-keyring-unlock-fail-popup = You do not have a key for this door!
-keyring-finish-unlock-popup = You happen to have a key for this door!
+keyring-unlock-fail-popup = У вас нет ключа от этой двери!
+keyring-finish-unlock-popup = У вас нашёлся ключ от этой двери!

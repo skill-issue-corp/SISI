@@ -1,12 +1,12 @@
-role-subtype-insurgent = Insurgent
-role-subtype-shadow-demon = Shadow Demon
-role-subtype-morph = Morph
-role-subtype-fugitive = Fugitive
-role-subtype-hunter = Hunter
-role-subtype-spy = Spy
-role-subtype-blood-cultist = Blood Cultist
-role-subtype-construct = Construct
-role-subtype-purified-construct = P. Construct
+role-subtype-insurgent = Повстанец
+role-subtype-shadow-demon = Тенедемон
+role-subtype-morph = Морф
+role-subtype-fugitive = Беглец
+role-subtype-hunter = Охотник
+role-subtype-spy = Шпион
+role-subtype-blood-cultist = Культист Крови
+role-subtype-construct = Конструкт
+role-subtype-purified-construct = О. Конструкт
 
-role-type-animal-name = Animal
+role-type-animal-name = Животное
 role-type-animal-color = #51dd26

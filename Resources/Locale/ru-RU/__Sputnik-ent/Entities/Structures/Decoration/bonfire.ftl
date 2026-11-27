@@ -1,11 +1,11 @@
 ent-BaseBonfire = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
 
-ent-Bonfire = bonfire
-    .desc = What can be better than a late evening under the sky with guitar and friends?
+ent-Bonfire = костёр
+    .desc = Что может быть лучше позднего вечера под открытым небом с гитарой и друзьями?
 
-ent-BonfireStake = bonfire with stake
-    .desc = A sinister bonfire with a stake for... ceremonial purposes. Best not to ask.
+ent-BonfireStake = костёр со столбом
+    .desc = Зловещий костёр со столбом для... обрядовых целей. Лучше не спрашивать.
 
-ent-LegionnaireBonfire = legionnaire bonfire
-    .desc = There, in the land of lava and ash, place to to cook marshmallow and potato.
+ent-LegionnaireBonfire = костёр легионера
+    .desc = Там, в краю лавы и пепла, есть где поджарить зефир и картошку.

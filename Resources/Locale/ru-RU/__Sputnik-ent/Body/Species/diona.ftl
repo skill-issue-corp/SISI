@@ -1,12 +1,12 @@
-ent-AppearanceDiona = diona appearance
+ent-AppearanceDiona = облик дионы
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobDiona = Urist McPlants
+ent-MobDiona = Урист МакРосток
     .desc = { ent-AppearanceDiona.desc }
 
 ent-OrganDiona = { ent-OrganBaseOrganic }
     .desc = { ent-OrganBaseOrganic.desc }
-    .suffix = Diona
+    .suffix = Диона
 
 ent-OrganDionaMetabolizer = { "" }
     .desc = { "" }
@@ -67,27 +67,27 @@ ent-BaseNymphingOrgan = { "" }
 
 ent-OrganDionaBrainNymphing = { ent-OrganDionaBrain }
     .desc = { ent-OrganDionaBrain.desc }
-    .suffix = Diona, Nymphing
+    .suffix = Диона, Даёт Нимфу
 
 ent-OrganDionaLungsNymphing = { ent-OrganDionaLungs }
     .desc = { ent-OrganDionaLungs.desc }
-    .suffix = Diona, Nymphing
+    .suffix = Диона, Даёт Нимфу
 
 ent-OrganDionaStomachNymphing = { ent-OrganDionaStomach }
     .desc = { ent-OrganDionaStomach.desc }
-    .suffix = Diona, Nymphing
+    .suffix = Диона, Даёт Нимфу
 
 ent-OrganDionaNymphBrain = { ent-MobDionaNymph }
     .desc = { ent-MobDionaNymph.desc }
-    .suffix = brain
+    .suffix = мозг
 
 ent-OrganDionaNymphStomach = { ent-MobDionaNymph }
     .desc = { ent-MobDionaNymph.desc }
-    .suffix = stomach
+    .suffix = желудок
 
 ent-OrganDionaNymphLungs = { ent-MobDionaNymph }
     .desc = { ent-MobDionaNymph.desc }
-    .suffix = lungs
+    .suffix = лёгкие
 
 ent-MobDionaReformed = { ent-MobDiona }
     .desc = { ent-MobDiona.desc }

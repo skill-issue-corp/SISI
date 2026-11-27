@@ -3,9 +3,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-intercom-menu-title = Intercom
-intercom-channel-label = Channel:
-intercom-button-text-mic = Mic.
-intercom-button-text-speaker = Spkr.
-intercom-options-none = No channels
-intercom-flavor-text-left = Keep lines free of chatter
+intercom-menu-title = Интерком
+intercom-channel-label = Канал:
+intercom-button-text-mic = Микр.
+intercom-button-text-speaker = Дин.
+intercom-options-none = Нет каналов
+intercom-flavor-text-left = Не засоряйте эфир болтовнёй

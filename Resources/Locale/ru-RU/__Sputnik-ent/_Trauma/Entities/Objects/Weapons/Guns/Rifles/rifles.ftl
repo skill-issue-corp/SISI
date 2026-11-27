@@ -1,5 +1,5 @@
 ent-WeaponRifleFAL = Saive Automatique
-    .desc = A 20th century rifle from Old Terra, due to its adoption by a lot of capitalist countries it was nicknamed "the right arm of the free world"
+    .desc = Винтовка 20-го века со Старой Терры. Её приняли на вооружение многие капиталистические страны, за что она получила прозвище «правая рука свободного мира»
 
 ent-BaseStockHit = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }

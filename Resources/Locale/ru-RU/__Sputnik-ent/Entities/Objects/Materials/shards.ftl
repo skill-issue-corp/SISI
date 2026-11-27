@@ -1,17 +1,17 @@
 ent-ShardBase = { ent-MaterialBase }
-    .desc = It's a shard of some unknown material.
+    .desc = Осколок какого-то неизвестного материала.
 
-ent-ShardGlass = glass shard
-    .desc = A small piece of glass.
+ent-ShardGlass = осколок стекла
+    .desc = Небольшой осколок стекла.
 
-ent-ShardGlassReinforced = reinforced glass shard
-    .desc = A small piece of reinforced glass.
+ent-ShardGlassReinforced = осколок бронестекла
+    .desc = Небольшой осколок бронестекла.
 
-ent-ShardGlassPlasma = plasma glass shard
-    .desc = A small piece of plasma glass.
+ent-ShardGlassPlasma = осколок форонового стекла
+    .desc = Небольшой осколок форонового стекла.
 
-ent-ShardGlassUranium = uranium glass shard
-    .desc = A small piece of uranium glass.
+ent-ShardGlassUranium = осколок уранового стекла
+    .desc = Небольшой осколок уранового стекла.
 
-ent-ShardGlassClockwork = clockwork glass shard
-    .desc = A small piece of brass-infused glass.
+ent-ShardGlassClockwork = осколок заводного стекла
+    .desc = Небольшой осколок стекла с примесью латуни.

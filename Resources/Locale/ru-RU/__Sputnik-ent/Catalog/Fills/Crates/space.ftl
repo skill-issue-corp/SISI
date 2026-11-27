@@ -1,17 +1,17 @@
-ent-CrateEvaKit = EVA kit
-    .desc = A set consisting of two prestigious EVA suits and helmets. Requires Command access to open.
+ent-CrateEvaKit = комплект EVA
+    .desc = Комплект из двух престижных костюмов EVA и шлемов. Для открытия требуется доступ Командования.
 
-ent-CrateSpaceJetpack = jetpack crate
-    .desc = Two jetpacks for those who don't know how to use fire extinguishers.
+ent-CrateSpaceJetpack = ящик джетпаков
+    .desc = Два джетпака для тех, кто не умеет пользоваться огнетушителями.
 
-ent-CrateSpaceMiniJetpack = mini jetpack crate
-    .desc = Two mini jetpacks for those who want an extra challenge.
+ent-CrateSpaceMiniJetpack = ящик мини-джетпаков
+    .desc = Два мини-джетпака для тех, кто любит лишние сложности.
 
-ent-CrateSpaceGyroscope = gyroscope crate
-    .desc = Contains a gyroscope flatpack.
+ent-CrateSpaceGyroscope = ящик гироскопа
+    .desc = Содержит упаковку гироскопа.
 
-ent-CrateSpaceThruster = thruster crate
-    .desc = Contains a thruster flatpack.
+ent-CrateSpaceThruster = ящик двигателя
+    .desc = Содержит упаковку двигателя.
 
-ent-CrateSpaceShuttlePower = shuttle powering crate
-    .desc = A crate containing all needs for shuttle powering.
+ent-CrateSpaceShuttlePower = ящик питания шаттла
+    .desc = Ящик со всем необходимым для питания шаттла.

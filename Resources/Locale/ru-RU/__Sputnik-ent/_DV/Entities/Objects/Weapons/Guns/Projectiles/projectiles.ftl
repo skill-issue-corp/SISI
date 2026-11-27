@@ -1,8 +1,8 @@
-ent-BulletEnergyGunLaser = energy bolt
+ent-BulletEnergyGunLaser = энергетический снаряд
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletEnergyGunIon = ion bolt
+ent-BulletEnergyGunIon = ионный снаряд
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletEnergyGunMagnum = magnum bolt
+ent-BulletEnergyGunMagnum = снаряд магнума
     .desc = { ent-BaseBullet.desc }

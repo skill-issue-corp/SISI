@@ -1,2 +1,2 @@
-ent-HolyFireExtinguisher = holy fire extinguisher
-    .desc = Based on fire extinguisher technology, the holy fire extinguisher is meant for chaplains to combat the hordes of demons.
+ent-HolyFireExtinguisher = святой огнетушитель
+    .desc = Святой огнетушитель сделан на основе обычного огнетушителя. С ним священники могут дать отпор ордам демонов.

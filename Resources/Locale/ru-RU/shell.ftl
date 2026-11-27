@@ -20,58 +20,65 @@
 
 ## General
 
-shell-command-success = Command successful
-shell-invalid-command = Invalid command.
-shell-invalid-command-specific = Invalid {$commandName} command.
-shell-can-only-run-from-pre-round-lobby = You can only run this command while the game is in the pre-round lobby.
-shell-can-only-run-while-round-is-active = You can only run this command while the game is in a round.
-shell-cannot-run-command-from-server = You cannot run this command from the server.
-shell-only-players-can-run-this-command = Only players can run this command.
-shell-must-be-attached-to-entity = You must be attached to an entity to run this command.
-shell-must-have-body = You must have a body to run this command.
+shell-command-success = Команда выполнена
+shell-invalid-command = Недопустимая команда.
+shell-invalid-command-specific = Недопустимая команда {$commandName}.
+shell-can-only-run-from-pre-round-lobby = Эту команду можно выполнить только в лобби до начала раунда.
+shell-can-only-run-while-round-is-active = Эту команду можно выполнить только во время раунда.
+shell-cannot-run-command-from-server = Эту команду нельзя выполнить с сервера.
+shell-only-players-can-run-this-command = Эту команду могут выполнить только игроки.
+shell-must-be-attached-to-entity = Для выполнения этой команды вы должны управлять сущностью.
+shell-must-have-body = Для выполнения этой команды у вас должно быть тело.
 
-shell-unknown-error = An unknown error has occured.
+shell-unknown-error = Произошла неизвестная ошибка.
 
 ## Arguments
 
-shell-need-exactly-one-argument = Need exactly one argument.
-shell-wrong-arguments-number-need-specific = Need {$properAmount} arguments, there were {$currentAmount}.
-shell-argument-must-be-number = Argument must be a number.
-shell-argument-must-be-boolean = Argument must be a boolean.
-shell-wrong-arguments-number = Wrong number of arguments.
-shell-need-between-arguments = Need {$lower} to {$upper} arguments!
-shell-need-minimum-arguments = Need at least {$minimum} arguments!
-shell-need-minimum-one-argument = Need at least one argument!
-shell-need-exactly-zero-arguments = This command takes zero arguments.
+shell-need-exactly-one-argument = Требуется ровно один аргумент.
+shell-wrong-arguments-number-need-specific = Требуется аргументов: {$properAmount}. Указано: {$currentAmount}.
+shell-argument-must-be-number = Аргумент должен быть числом.
+shell-argument-must-be-boolean = Аргумент должен быть логическим значением.
+shell-wrong-arguments-number = Неверное число аргументов.
+shell-need-between-arguments = Требуется от {$lower} до {$upper} { $upper ->
+    [one] аргумента
+   *[other] аргументов
+}!
+shell-need-minimum-arguments = Требуется минимум {$minimum} { $minimum ->
+    [one] аргумент
+    [few] аргумента
+   *[other] аргументов
+}!
+shell-need-minimum-one-argument = Требуется хотя бы один аргумент!
+shell-need-exactly-zero-arguments = Эта команда не принимает аргументы.
 
 shell-argument-uid = EntityUid
 
 ## Guards
 
-shell-missing-required-permission = You need {$perm} for this command!
-shell-entity-is-not-mob = Target entity is not a mob!
-shell-invalid-entity-id = Invalid entity ID.
-shell-invalid-grid-id = Invalid grid ID.
-shell-invalid-map-id = Invalid map ID.
-shell-invalid-entity-uid = {$uid} is not a valid entity uid
-shell-invalid-bool = Invalid boolean.
-shell-invalid-bool-value = Invalid boolean: '{$value}'
-shell-entity-uid-must-be-number = EntityUid must be a number.
-shell-could-not-find-entity = Could not find entity {$entity}
-shell-could-not-find-entity-with-uid = Could not find entity with uid {$uid}
-shell-entity-with-uid-lacks-component = Entity with uid {$uid} doesn't have {INDEFINITE($componentName)} {$componentName} component
-shell-entity-target-lacks-component = Target entity doesn't have {INDEFINITE($componentName)} {$componentName} component
-shell-invalid-color-hex = Invalid color hex!
-shell-target-player-does-not-exist = Target player does not exist!
-shell-target-entity-does-not-have-message = Target entity does not have {INDEFINITE($missing)} {$missing}!
-shell-timespan-minutes-must-be-correct = {$span} is not a valid minutes timespan.
-shell-argument-must-be-prototype = Argument {$index} must be a {LOC($prototypeName)}!
-shell-argument-number-must-be-between = Argument {$index} must be a number between {$lower} and {$upper}!
-shell-argument-station-id-invalid = Argument {$index} must be a valid station id!
-shell-argument-map-id-invalid = Argument {$index} must be a valid map id!
-shell-argument-number-invalid = Argument {$index} must be a valid number!
-shell-argument-chat-invalid = Argument {$index} must be a valid chat!
+shell-missing-required-permission = Для этой команды требуется право {$perm}!
+shell-entity-is-not-mob = Целевая сущность не является мобом!
+shell-invalid-entity-id = Недопустимый ID сущности.
+shell-invalid-grid-id = Недопустимый ID сетки.
+shell-invalid-map-id = Недопустимый ID карты.
+shell-invalid-entity-uid = Недопустимый uid сущности: {$uid}
+shell-invalid-bool = Недопустимое логическое значение.
+shell-invalid-bool-value = Недопустимое логическое значение: «{$value}»
+shell-entity-uid-must-be-number = EntityUid должен быть числом.
+shell-could-not-find-entity = Не удалось найти сущность {$entity}
+shell-could-not-find-entity-with-uid = Не удалось найти сущность с uid {$uid}
+shell-entity-with-uid-lacks-component = У сущности с uid {$uid} отсутствует компонент {$componentName}.
+shell-entity-target-lacks-component = У целевой сущности отсутствует компонент {$componentName}.
+shell-invalid-color-hex = Недопустимый шестнадцатеричный код цвета!
+shell-target-player-does-not-exist = Указанного игрока не существует!
+shell-target-entity-does-not-have-message = У целевой сущности отсутствует {$missing}!
+shell-timespan-minutes-must-be-correct = Недопустимая длительность в минутах: {$span}.
+shell-argument-must-be-prototype = Аргумент {$index} должен быть допустимым прототипом типа {LOC($prototypeName)}!
+shell-argument-number-must-be-between = Аргумент {$index} должен быть числом от {$lower} до {$upper}!
+shell-argument-station-id-invalid = Аргумент {$index} должен быть допустимым id станции!
+shell-argument-map-id-invalid = Аргумент {$index} должен быть допустимым id карты!
+shell-argument-number-invalid = Аргумент {$index} должен быть допустимым числом!
+shell-argument-chat-invalid = Аргумент {$index} должен быть допустимым чатом!
 
 # Hints
-shell-argument-username-hint = <username>
-shell-argument-username-optional-hint = [username]
+shell-argument-username-hint = <имя_пользователя>
+shell-argument-username-optional-hint = [имя_пользователя]

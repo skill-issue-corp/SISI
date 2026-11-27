@@ -1,3 +1,3 @@
-ent-CorporateOverrideKey = Corporate Override Key
-    .desc = A black-market authentication dongle that bypasses NanoTrasen security protocols. When inserted into an executive briefcase, it unlocks restricted procurement channels.
-    .suffix = Debug
+ent-CorporateOverrideKey = Ключ Корпоративного Обхода
+    .desc = Ключ аутентификации с чёрного рынка, обходящий протоколы безопасности NanoTrasen. Если вставить его в портфель руководителя, он откроет доступ к закрытым каналам снабжения.
+    .suffix = DEBUG

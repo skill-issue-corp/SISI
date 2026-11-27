@@ -1,32 +1,32 @@
-ent-ClothingHeadsetAlt = headset
-    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.
+ent-ClothingHeadsetAlt = гарнитура
+    .desc = Обновлённый модульный интерком, который надевается на голову. Принимает ключи шифрования.
 
-ent-ClothingHeadsetAltCargo = quartermaster's over-ear headset
+ent-ClothingHeadsetAltCargo = полноразмерная гарнитура квартирмейстера
     .desc = { ent-ClothingHeadsetAltLoudspeaker.desc }
 
-ent-ClothingHeadsetAltCentCom = CentComm over-ear headset
+ent-ClothingHeadsetAltCentCom = полноразмерная гарнитура ЦК
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetAltCommand = command over-ear headset
+ent-ClothingHeadsetAltCommand = полноразмерная гарнитура командования
     .desc = { ent-ClothingHeadsetAltLoudspeaker.desc }
 
-ent-ClothingHeadsetAltEngineering = chief engineer's over-ear headset
+ent-ClothingHeadsetAltEngineering = полноразмерная гарнитура старшего инженера
     .desc = { ent-ClothingHeadsetAltLoudspeaker.desc }
 
-ent-ClothingHeadsetAltMedical = chief medical officer's over-ear headset
+ent-ClothingHeadsetAltMedical = полноразмерная гарнитура главного врача
     .desc = { ent-ClothingHeadsetAltLoudspeaker.desc }
 
-ent-ClothingHeadsetAltSecurity = head of security's over-ear headset
+ent-ClothingHeadsetAltSecurity = полноразмерная гарнитура главы службы безопасности
     .desc = { ent-ClothingHeadsetAltLoudspeaker.desc }
 
-ent-ClothingHeadsetAltScience = research director's over-ear headset
+ent-ClothingHeadsetAltScience = полноразмерная гарнитура научного руководителя
     .desc = { ent-ClothingHeadsetAltLoudspeaker.desc }
 
-ent-ClothingHeadsetAltSyndicate = blood-red over-ear headset
-    .desc = An updated, modular syndicate intercom that fits over the head and takes encryption keys (there are 5 key slots.).
+ent-ClothingHeadsetAltSyndicate = кроваво-красная полноразмерная гарнитура
+    .desc = Обновлённый модульный интерком синдиката, который надевается на голову и принимает ключи шифрования (есть 5 слотов для ключей.).
 
-ent-ClothingHeadsetAltFreelancer = freelancer's over-ear headset
+ent-ClothingHeadsetAltFreelancer = полноразмерная гарнитура наёмника
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetAltWizard = wizard's over-ear headset
+ent-ClothingHeadsetAltWizard = полноразмерная гарнитура волшебника
     .desc = { ent-ClothingHeadsetAlt.desc }

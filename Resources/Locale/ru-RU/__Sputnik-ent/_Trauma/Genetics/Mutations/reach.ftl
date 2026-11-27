@@ -1,8 +1,8 @@
-ent-MutationTelekinesis = Telekinesis
-    .desc = A strange mutation that allows the holder to interact with objects through thought.
+ent-MutationTelekinesis = Телекинез
+    .desc = Странная мутация, позволяющая носителю взаимодействовать с предметами силой мысли.
 
-ent-ActionMutationTelekinesis = Use Telekinesis
-    .desc = Move an object using the power of your mind!
+ent-ActionMutationTelekinesis = Применить Телекинез
+    .desc = Передвиньте предмет силой мысли!
 
-ent-MutationElasticArms = Elastic Arms
-    .desc = Subject's arms have become elastic, allowing them to stretch up to a meter away. However, this elasticity makes it difficult to wear gloves, handle complex tasks, or grab large objects.
+ent-MutationElasticArms = Эластичные Руки
+    .desc = Руки испытуемого стали эластичными и могут вытягиваться на расстояние до метра. Однако из-за этой эластичности трудно носить перчатки, выполнять сложные задачи и хватать крупные предметы.

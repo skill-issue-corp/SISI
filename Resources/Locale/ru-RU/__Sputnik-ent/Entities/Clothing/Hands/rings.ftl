@@ -1,17 +1,17 @@
-ent-GoldRing = gold ring
-    .desc = A precious ring.
+ent-GoldRing = золотое кольцо
+    .desc = Драгоценное кольцо.
 
-ent-SilverRing = silver ring
-    .desc = Looks slightly less valuable than a gold one.
+ent-SilverRing = серебряное кольцо
+    .desc = Выглядит чуть дешевле золотого.
 
-ent-GoldRingDiamond = gold diamond ring
-    .desc = Made from ethically mined space diamonds.
+ent-GoldRingDiamond = золотое кольцо с бриллиантом
+    .desc = Из космических алмазов, добытых с соблюдением этических норм.
 
-ent-SilverRingDiamond = silver diamond ring
-    .desc = Made from ethically mined space diamonds.
+ent-SilverRingDiamond = серебряное кольцо с бриллиантом
+    .desc = Из космических алмазов, добытых с соблюдением этических норм.
 
-ent-GoldRingGem = gold gem ring
-    .desc = Shiny and valuable!
+ent-GoldRingGem = золотое кольцо с камнем
+    .desc = Блестящее и дорогое!
 
-ent-SilverRingGem = silver gem ring
-    .desc = Shiny and not quite as valuable!
+ent-SilverRingGem = серебряное кольцо с камнем
+    .desc = Блестящее и не такое дорогое!

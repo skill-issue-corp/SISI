@@ -1,2 +1,2 @@
-objective-issuer-blood-cult = The Geometer of Blood
-objective-sacrifice-title = Sacrifice {$targetName}, {CAPITALIZE($job)}
+objective-issuer-blood-cult = Геометр Крови
+objective-sacrifice-title = Принесите в жертву {$targetName}, {CAPITALIZE($job)}

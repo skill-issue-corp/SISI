@@ -1,52 +1,52 @@
 ent-BaseBoxSurvival = { ent-BoxCardboardSmall }
     .desc = { ent-BoxCardboardSmall.desc }
 
-ent-BoxSurvival = O2 survival box
-    .desc = A small box containing a breath mask, an emergency oxygen tank, and an emergency medipen. Standard-issue for most oxygen-breathing crew.
+ent-BoxSurvival = аварийный набор O2
+    .desc = Небольшая коробка с дыхательной маской, аварийным кислородным баллоном и аварийным медипеном. Стандартный набор для большинства членов экипажа, дышащих кислородом.
 
-ent-BoxSurvivalNitrogen = N2 survival box
-    .desc = A small box containing a breath mask, an emergency nitrogen tank, and an emergency medipen. Standard-issue for most nitrogen-breathing crew.
+ent-BoxSurvivalNitrogen = аварийный набор N2
+    .desc = Небольшая коробка с дыхательной маской, аварийным азотным баллоном и аварийным медипеном. Стандартный набор для большинства членов экипажа, дышащих азотом.
 
-ent-BoxSurvivalEngineering = extended-capacity O2 survival box
-    .desc = A small box containing a breath mask, an extended-capacity emergency oxygen tank, and an emergency medipen. Issued to oxygen-breathing crew whose job responsibilities often take them to places with no atmosphere.
+ent-BoxSurvivalEngineering = аварийный набор с увеличенным запасом O2
+    .desc = Небольшая коробка с дыхательной маской, аварийным кислородным баллоном увеличенной ёмкости и аварийным медипеном. Выдаётся членам экипажа, которые дышат кислородом и по долгу службы часто бывают там, где нет атмосферы.
 
-ent-BoxSurvivalEngineeringNitrogen = extended-capacity N2 survival box
-    .desc = A small box containing a breath mask, an extended-capacity emergency nitrogen tank, and an emergency medipen. Issued to nitrogen-breathing crew whose job responsibilities often take them to places with no atmosphere.
+ent-BoxSurvivalEngineeringNitrogen = аварийный набор с увеличенным запасом N2
+    .desc = Небольшая коробка с дыхательной маской, аварийным азотным баллоном увеличенной ёмкости и аварийным медипеном. Выдаётся членам экипажа, которые дышат азотом и по долгу службы часто бывают там, где нет атмосферы.
 
-ent-BoxSurvivalSecurity = security O2 survival box
-    .desc = A small box containing a gas mask, an emergency oxygen tank, and an emergency medipen. Issued to oxygen-breathing members of the security staff.
+ent-BoxSurvivalSecurity = аварийный набор СБ O2
+    .desc = Небольшая коробка с противогазом, аварийным кислородным баллоном и аварийным медипеном. Выдаётся сотрудникам службы безопасности, дышащим кислородом.
 
-ent-BoxSurvivalSecurityNitrogen = security N2 survival box
-    .desc = A small box containing a gas mask, an emergency nitrogen tank, and an emergency medipen. Issued to nitrogen-breathing members of the security staff.
+ent-BoxSurvivalSecurityNitrogen = аварийный набор СБ N2
+    .desc = Небольшая коробка с противогазом, аварийным азотным баллоном и аварийным медипеном. Выдаётся сотрудникам службы безопасности, дышащим азотом.
 
-ent-BoxSurvivalMedical = medical O2 survival box
-    .desc = A small box containing a medical mask, an emergency oxygen tank, and an emergency medipen. Issued to oxygen-breathing members of the medical staff.
+ent-BoxSurvivalMedical = медицинский аварийный набор O2
+    .desc = Небольшая коробка с медицинской маской, аварийным кислородным баллоном и аварийным медипеном. Выдаётся сотрудникам медотсека, дышащим кислородом.
 
-ent-BoxSurvivalMedicalNitrogen = medical N2 survival box
-    .desc = A small box containing a medical mask, an emergency nitrogen tank, and an emergency medipen. Issued to nitrogen-breathing members of the medical staff.
+ent-BoxSurvivalMedicalNitrogen = медицинский аварийный набор N2
+    .desc = Небольшая коробка с медицинской маской, аварийным азотным баллоном и аварийным медипеном. Выдаётся сотрудникам медотсека, дышащим азотом.
 
 ent-BoxSurvivalHug = { ent-BoxHug }
     .desc = { ent-BoxHug.desc }
-    .suffix = Survival; O2
+    .suffix = Выживание; O2
 
 ent-BoxSurvivalHugNitrogen = { ent-BoxSurvivalHug }
     .desc = { ent-BoxSurvivalHug.desc }
-    .suffix = Survival; N2
+    .suffix = Выживание; N2
 
-ent-BoxSurvivalDeluxeExtended = deluxe extended-capacity O2 survival box
-    .desc = A deluxe survival box containing a breath mask, an extended-capacity emergency oxygen tank, an emergency medipen, an emergency flare, and a bit of food and water.
+ent-BoxSurvivalDeluxeExtended = люксовый аварийный набор с увеличенным запасом O2
+    .desc = Люксовый аварийный набор с дыхательной маской, аварийным кислородным баллоном увеличенной ёмкости, аварийным медипеном, сигнальным фальшфейером и небольшим запасом еды и воды.
 
-ent-BoxSurvivalDeluxeExtendedNitrogen = deluxe extended-capacity N2 survival box
-    .desc = A deluxe survival box containing a breath mask, an extended-capacity emergency oxygen tank, an emergency medipen, an emergency flare, and a bit of food and water.
+ent-BoxSurvivalDeluxeExtendedNitrogen = люксовый аварийный набор с увеличенным запасом N2
+    .desc = Люксовый аварийный набор с дыхательной маской, аварийным азотным баллоном увеличенной ёмкости, аварийным медипеном, сигнальным фальшфейером и небольшим запасом еды и воды.
 
-ent-BoxSurvivalSyndicate = syndicate O2 survival box
-    .desc = A Syndicate-designed survival box containing a syndicate gas mask, an extended-capacity emergency oxygen tank, an emergency medipen, an emergency flare, and a bit of food.
+ent-BoxSurvivalSyndicate = аварийный набор синдиката O2
+    .desc = Аварийный набор разработки Синдиката с противогазом синдиката, аварийным кислородным баллоном увеличенной ёмкости, аварийным медипеном, сигнальным фальшфейером и небольшим запасом еды.
 
-ent-BoxSurvivalSyndicateNitrogen = syndicate N2 survival box
-    .desc = A Syndicate-designed survival box containing a syndicate gas mask, an extended-capacity emergency nitrogen tank, an emergency medipen, an emergency flare, and a bit of food.
+ent-BoxSurvivalSyndicateNitrogen = аварийный набор синдиката N2
+    .desc = Аварийный набор разработки Синдиката с противогазом синдиката, аварийным азотным баллоном увеличенной ёмкости, аварийным медипеном, сигнальным фальшфейером и небольшим запасом еды.
 
-ent-BoxSurvivalMilitaryDouble = military O2 survival box
-    .desc = A military-grade survival box containing a double-capacity emergency oxygen tank, an emergency medipen, and an emergency flare.
+ent-BoxSurvivalMilitaryDouble = военный аварийный набор O2
+    .desc = Военный аварийный набор с аварийным кислородным баллоном двойной ёмкости, аварийным медипеном и сигнальным фальшфейером.
 
-ent-BoxSurvivalMilitaryDoubleNitrogen = military N2 survival box
-    .desc = A military-grade survival box containing a double-capacity emergency nitrogen tank, an emergency medipen, and an emergency flare.
+ent-BoxSurvivalMilitaryDoubleNitrogen = военный аварийный набор N2
+    .desc = Военный аварийный набор с аварийным азотным баллоном двойной ёмкости, аварийным медипеном и сигнальным фальшфейером.

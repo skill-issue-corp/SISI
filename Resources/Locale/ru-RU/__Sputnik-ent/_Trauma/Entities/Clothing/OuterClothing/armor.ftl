@@ -1,17 +1,17 @@
-ent-ClothingOuterArmorRev = chest plate
-    .desc = Hastily made armor for the people.
+ent-ClothingOuterArmorRev = нагрудник
+    .desc = Броня для народа, сделанная наспех.
 
-ent-ClothingOuterVestWebRev = web vest
-    .desc = A high-quality armored vest made from a hard synthetic material. It's surprisingly flexible and light, despite formidable armor plating.
+ent-ClothingOuterVestWebRev = бронежилет с разгрузкой
+    .desc = Высококачественный бронежилет из твёрдого синтетического материала. Удивительно гибкий и лёгкий, несмотря на внушительные бронепластины.
 
-ent-ClothingOuterVestReflectRev = reflective vest
-    .desc = An armored vest with advanced shielding to protect against energy weapons.
+ent-ClothingOuterVestReflectRev = отражающий бронежилет
+    .desc = Бронежилет с усовершенствованным экранированием для защиты от энергетического оружия.
 
-ent-ClothingOuterArmorRevFlame = flame trooper armor
-    .desc = Heavy armor that completely protects the user from fire.
+ent-ClothingOuterArmorRevFlame = броня огнемётчика
+    .desc = Тяжёлая броня, полностью защищающая от огня.
 
-ent-ClothingOuterArmorVenerator = venerator cloak
-    .desc = Theft is a sin, but Saint Benedict didn't even notice this was missing.
+ent-ClothingOuterArmorVenerator = плащ почитателя
+    .desc = Красть грешно, но Святой Бенедикт даже не заметил пропажи.
 
-ent-ClothingOuterArmorMamluk = Mamluk's heritage
-    .desc = Those who were once slaves, became rulers under the mighty Allah.
+ent-ClothingOuterArmorMamluk = наследие Мамлюков
+    .desc = Те, кто когда-то был рабами, стали правителями по воле всемогущего Аллаха.

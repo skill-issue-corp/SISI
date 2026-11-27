@@ -1,5 +1,5 @@
-ent-MobLegion = legion humanoid
-    .desc = You can still see what was once a human under the shifting mass of corruption.
+ent-MobLegion = гуманоид легиона
+    .desc = Под шевелящейся массой порчи ещё можно разглядеть того, кто когда-то был человеком.
 
-ent-MobLegionSkull = legion skull
-    .desc = A fragment of the original legion, rallying behind its original. One isn't much of a threat, but...
+ent-MobLegionSkull = череп легиона
+    .desc = Осколок исходного легиона, следующий за своим создателем. Один почти не опасен, но...

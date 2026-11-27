@@ -1,5 +1,5 @@
-ent-BaseWoodenHandle = wooden handle
-    .desc = A normal wooden handle that can be used in crafting.
+ent-BaseWoodenHandle = деревянная рукоять
+    .desc = Обычная деревянная рукоять, пригодная для изготовления предметов.
 
-ent-WoodenHandleHammer = hammer handle
+ent-WoodenHandleHammer = рукоять молотка
     .desc = { ent-BaseWoodenHandle.desc }

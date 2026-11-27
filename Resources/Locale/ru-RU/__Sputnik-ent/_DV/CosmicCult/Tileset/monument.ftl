@@ -1,14 +1,14 @@
-ent-MonumentCosmicCult = The Monument
-    .desc = A great slab of unknowledge, built of a thousand little nothings, its surface reflects a starless emptiness...
-    .suffix = DO NOT MAP
+ent-MonumentCosmicCult = Монумент
+    .desc = Громадная плита незнания, сложенная из тысячи маленьких ничто. Её поверхность отражает беззвёздную пустоту...
+    .suffix = НЕ МАППИТЬ
 
-ent-MonumentCosmicCultDestruction = The Monument
+ent-MonumentCosmicCultDestruction = Монумент
     .desc = { ent-BaseStructure.desc }
-    .suffix = Destruiction, DO NOT MAP
+    .suffix = Разрушение, НЕ МАППИТЬ
 
-ent-MonumentCosmicCultSpawn = The Monument
+ent-MonumentCosmicCultSpawn = Монумент
     .desc = { ent-BaseStructure.desc }
-    .suffix = Spawn, DO NOT MAP
+    .suffix = Спавн, НЕ МАППИТЬ
 
-ent-MonumentCosmicCultSpawnMark = The Monumen't
-    .desc = The yet-to-become Monument, it still needs more cultists to make it's way into reality. Only visible to those aware of it.
+ent-MonumentCosmicCultSpawnMark = Немонумент
+    .desc = Монумент, которому ещё только предстоит стать Монументом. Чтобы он вошёл в реальность, нужно больше культистов. Видим лишь тем, кто о нём знает.

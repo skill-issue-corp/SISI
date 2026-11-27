@@ -1,7 +1,7 @@
-ent-BriefcaseBrownFake = brown briefcase
+ent-BriefcaseBrownFake = коричневый портфель
     .desc = { ent-BriefcaseBase.desc }
-    .suffix = False Bottom
+    .suffix = Двойное Дно
 
 ent-BriefcaseWeaponLarge = { ent-BriefcaseWeapon }
     .desc = { ent-BriefcaseWeapon.desc }
-    .suffix = Gun, Large, Empty
+    .suffix = Оружие, Большой, Пустой

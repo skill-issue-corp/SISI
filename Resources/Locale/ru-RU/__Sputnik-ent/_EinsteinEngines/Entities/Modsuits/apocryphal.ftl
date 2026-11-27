@@ -1,21 +1,21 @@
-ent-ClothingModsuitApocryphal = Apocryphal modsuit control unit
-    .desc = The main controller for a Apocryphal modsuit.
+ent-ClothingModsuitApocryphal = блок управления модсьюта «Апокриф»
+    .desc = Основной блок управления модсьютом «Апокриф».
 
 ent-BaseModsuitPieceDeathsquad = { "" }
     .desc = { "" }
 
-ent-ClothingModsuitGauntletsApocryphal = Apocryphal modsuit gauntlets
-    .desc = A pair of gauntlets made for the Apocryphal modsuit.
+ent-ClothingModsuitGauntletsApocryphal = перчатки модсьюта «Апокриф»
+    .desc = Пара перчаток для модсьюта «Апокриф».
 
-ent-ClothingModsuitHelmetApocryphal = Apocryphal modsuit helmet
-    .desc = A state-of-the-art helmet designed by NanoTrasen for the Apocryphal modsuit. It includes a built-in HUD.
+ent-ClothingModsuitHelmetApocryphal = шлем модсьюта «Апокриф»
+    .desc = Передовой шлем, разработанный NanoTrasen для модсьюта «Апокриф». Оснащён встроенным визором.
 
-ent-ClothingModsuitChestplateApocryphal = Apocryphal modsuit chestplate
-    .desc = A state of the art chestplate designed by NanoTrasen for the Apocryphal Modsuit. It incorporates powered servos to reduce the equipment load.
+ent-ClothingModsuitChestplateApocryphal = нагрудник модсьюта «Апокриф»
+    .desc = Передовой нагрудник, разработанный NanoTrasen для Модсьюта «Апокриф». Встроенные сервоприводы снижают нагрузку от снаряжения.
 
-ent-ClothingModsuitBootsApocryphal = Apocryphal modsuit boots
-    .desc = A state-of-the-art pair of magboots for the Apocryphal modsuit. So long as the suit is powered, these will not slow the wearer down.
+ent-ClothingModsuitBootsApocryphal = ботинки модсьюта «Апокриф»
+    .desc = Передовые магнитные ботинки для модсьюта «Апокриф». Пока на костюм подаётся питание, ботинки не замедляют владельца.
 
 ent-SuitStorageApocryphal = { ent-SuitStorageBase }
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Apocryphal Modsuit
+    .suffix = Модсьют «Апокриф»

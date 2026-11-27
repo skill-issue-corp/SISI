@@ -1,2 +1,2 @@
-ent-ActionAnimateSpell = Animate
-    .desc = Bring an inanimate object to life!
+ent-ActionAnimateSpell = Оживление
+    .desc = Вдохните жизнь в неодушевлённый предмет!

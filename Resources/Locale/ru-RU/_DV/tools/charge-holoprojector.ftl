@@ -1,4 +1,4 @@
-charge-holoprojector-no-charges = {CAPITALIZE(THE($item))} is empty, reclaim an old holosign first!
-charge-holoprojector-charges-full = {CAPITALIZE(THE($item))} is full, it can't reclaim more charges!
-charge-holoprojector-reclaim = You stop projecting {THE($sign)}.
-charge-holoprojector-reclaim-others = {CAPITALIZE($user)} stops projecting {THE($sign)}.
+charge-holoprojector-no-charges = {CAPITALIZE($item)} разряжен. Сначала уберите старую голограмму, чтобы вернуть заряд!
+charge-holoprojector-charges-full = {CAPITALIZE($item)} полностью заряжен и не может вернуть больше зарядов!
+charge-holoprojector-reclaim = Вы перестаёте проецировать {$sign}.
+charge-holoprojector-reclaim-others = {CAPITALIZE($user)} перестаёт проецировать {$sign}.

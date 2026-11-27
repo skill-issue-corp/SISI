@@ -13,41 +13,41 @@ ent-ReagentPacketSmall = { ent-SolutionSmall }
 ent-ItemHeftyBase = { "" }
     .desc = { "" }
 
-ent-ReagentContainerFlour = flour bag
-    .desc = A big bag of flour. Good for baking!
+ent-ReagentContainerFlour = мешок муки
+    .desc = Большой мешок муки. Для выпечки самое то!
 
-ent-ReagentContainerFlourSmall = flour pack
-    .desc = A pack of flour. Good for baking!
+ent-ReagentContainerFlourSmall = пакет муки
+    .desc = Пакет муки. Для выпечки самое то!
 
-ent-ReagentContainerCornmeal = cornmeal bag
-    .desc = A big bag of cornmeal. Good for cooking!
+ent-ReagentContainerCornmeal = мешок кукурузной муки
+    .desc = Большой мешок кукурузной муки. Для готовки самое то!
 
-ent-ReagentContainerCornmealSmall = cornmeal pack
-    .desc = A pack of cornmeal. Good for cooking!
+ent-ReagentContainerCornmealSmall = пакет кукурузной муки
+    .desc = Пакет кукурузной муки. Для готовки самое то!
 
-ent-ReagentContainerRice = rice bag
-    .desc = A big bag of rice. Good for cooking!
+ent-ReagentContainerRice = мешок риса
+    .desc = Большой мешок риса. Для готовки самое то!
 
-ent-ReagentContainerRiceSmall = rice pack
-    .desc = A pack of rice. Good for cooking!
+ent-ReagentContainerRiceSmall = пакет риса
+    .desc = Пакет риса. Для готовки самое то!
 
-ent-ReagentContainerSugar = sugar bag
-    .desc = A big bag of tasty spacey sugar.
+ent-ReagentContainerSugar = мешок сахара
+    .desc = Большой мешок вкусного космического сахара.
 
-ent-ReagentContainerSugarSmall = sugar pack
-    .desc = A pack of tasty spacey sugar.
+ent-ReagentContainerSugarSmall = пакет сахара
+    .desc = Пакет вкусного космического сахара.
 
-ent-ReagentContainerOliveoil = olive oil
-    .desc = Olive oil. From space olives presumably.
+ent-ReagentContainerOliveoil = оливковое масло
+    .desc = Оливковое масло. Предположительно из космических оливок.
 
-ent-ReagentContainerMayo = mayonnaise
-    .desc = Bottle of mayonnaise.
+ent-ReagentContainerMayo = майонез
+    .desc = Бутылка майонеза.
 
 ent-FoodBakingBase = { ent-FoodBaseTrash }
-    .desc = Used in various recipes.
+    .desc = Используется в разных рецептах.
 
 ent-FoodBakingMixableBase = { ent-FoodBakingBase }
-    .desc = Mixed into various recipes.
+    .desc = Добавляется в разные блюда.
 
 ent-FoodDoughBase = { ent-SolutionNormal }
     .desc = { ent-SolutionNormal.desc }
@@ -58,95 +58,95 @@ ent-FoodDoughSliceBase = { ent-SolutionVeryTiny }
 ent-FoodDoughRopeBase = { ent-FoodDoughSliceBase }
     .desc = { ent-FoodDoughSliceBase.desc }
 
-ent-FoodDough = dough
-    .desc = A piece of dough.
+ent-FoodDough = тесто
+    .desc = Кусок теста.
 
-ent-FoodDoughSlice = dough slice
-    .desc = A slice of dough. Can be cooked into a bun.
+ent-FoodDoughSlice = ломтик теста
+    .desc = Ломтик теста. Из него можно испечь булочку.
 
-ent-FoodDoughRope = dough rope
-    .desc = A thin noodle of dough. Can be cooked into a bagel.
+ent-FoodDoughRope = жгут теста
+    .desc = Тонкий жгут из теста. Из него можно испечь бейгл.
 
-ent-FoodDoughCornmeal = cornmeal dough
-    .desc = A piece of cornmeal dough.
+ent-FoodDoughCornmeal = кукурузное тесто
+    .desc = Кусок теста из кукурузной муки.
 
-ent-FoodDoughCornmealSlice = cornmeal dough slice
-    .desc = A slice of cornmeal dough.
+ent-FoodDoughCornmealSlice = ломтик кукурузного теста
+    .desc = Ломтик теста из кукурузной муки.
 
-ent-FoodDoughTortilla = tortilla dough
-    .desc = A piece of tortilla dough.
+ent-FoodDoughTortilla = тесто для тортильи
+    .desc = Кусок теста для тортильи.
 
-ent-FoodDoughTortillaSlice = tortilla dough slice
-    .desc = A slice of tortilla dough.
+ent-FoodDoughTortillaSlice = ломтик теста для тортильи
+    .desc = Ломтик теста для тортильи.
 
-ent-FoodDoughTortillaFlat = flattened tortilla dough
-    .desc = A flattened slice of tortilla dough, cook this to get a taco shell.
+ent-FoodDoughTortillaFlat = раскатанное тесто для тортильи
+    .desc = Раскатанный ломтик теста для тортильи. Приготовьте его, чтобы получить лепёшку для тако.
 
-ent-FoodDoughCotton = cotton dough
-    .desc = A piece of fabric dough.
+ent-FoodDoughCotton = хлопковое тесто
+    .desc = Кусок теста из ткани.
 
-ent-FoodDoughCottonSlice = cotton dough slice
-    .desc = A slice of cotton dough.
+ent-FoodDoughCottonSlice = ломтик хлопкового теста
+    .desc = Ломтик хлопкового теста.
 
-ent-FoodDoughCottonRope = cotton dough rope
-    .desc = A thin noodle of cotton dough. Can be cooked into a cotton bagel.
+ent-FoodDoughCottonRope = жгут хлопкового теста
+    .desc = Тонкий жгут из хлопкового теста. Из него можно испечь хлопковый бейгл.
 
-ent-FoodDoughPastryBaseRaw = raw pastry base
-    .desc = Must be cooked before use.
+ent-FoodDoughPastryBaseRaw = сырая основа для выпечки
+    .desc = Нужно приготовить перед использованием.
 
-ent-FoodDoughPastryBase = pastry base
-    .desc = A base for any self-respecting pastry.
+ent-FoodDoughPastryBase = основа для выпечки
+    .desc = Основа любой уважающей себя выпечки.
 
-ent-FoodDoughPie = pie dough
-    .desc = Cook it to get a pie.
+ent-FoodDoughPie = тесто для пирога
+    .desc = Испеките его, чтобы получить пирог.
 
-ent-FoodDoughFlat = flat dough
-    .desc = A flattened dough.
+ent-FoodDoughFlat = плоское тесто
+    .desc = Раскатанное тесто.
 
-ent-FoodDoughCottonFlat = flat cotton dough
-    .desc = A flattened cotton dough.
+ent-FoodDoughCottonFlat = плоское хлопковое тесто
+    .desc = Раскатанное хлопковое тесто.
 
-ent-FoodDoughPizzaBaked = pizza bread
-    .desc = Add ingredients to make a pizza.
+ent-FoodDoughPizzaBaked = основа для пиццы
+    .desc = Добавьте ингредиенты, чтобы сделать пиццу.
 
-ent-FoodCakeBatter = cake batter
-    .desc = Cook it to get a cake.
+ent-FoodCakeBatter = жидкое тесто для торта
+    .desc = Испеките его, чтобы получить торт.
 
-ent-FoodButter = stick of butter
-    .desc = A stick of delicious, golden, fatty goodness.
+ent-FoodButter = брикет сливочного масла
+    .desc = Брусочек вкусного, золотистого, жирного удовольствия.
 
-ent-FoodButterSlice = butter slice
-    .desc = A pat of delicious, golden, fatty goodness.
+ent-FoodButterSlice = ломтик сливочного масла
+    .desc = Кусочек вкусного, золотистого, жирного удовольствия.
 
-ent-FoodCannabisButter = stick of cannabis butter
-    .desc = Add this to your favorite baked goods for an irie time.
+ent-FoodCannabisButter = брикет масла с коноплёй
+    .desc = Добавьте в любимую выпечку, чтобы славно провести время.
 
-ent-FoodCheese = cheese wheel
-    .desc = A big wheel of delicious Cheddar.
+ent-FoodCheese = головка сыра
+    .desc = Большая головка вкусного Чеддера.
 
-ent-FoodCheeseSlice = cheese wedge
-    .desc = A wedge of delicious Cheddar. The cheese wheel it was cut from can't have gone far.
+ent-FoodCheeseSlice = кусок сыра
+    .desc = Кусок вкусного Чеддера. Головка сыра, от которой его отрезали, вряд ли далеко.
 
-ent-FoodChevre = chèvre log
-    .desc = A soft log of creamy Chèvre.
+ent-FoodChevre = полено шевра
+    .desc = Мягкое полено сливочного Шевра.
 
-ent-FoodChevreSlice = chèvre disk
-    .desc = A small disk of creamy Chèvre. An ideal adornment for French side dishes.
+ent-FoodChevreSlice = кружок шевра
+    .desc = Маленький кружок сливочного Шевра. Идеальное украшение Французских гарниров.
 
-ent-FoodTofu = tofu
-    .desc = Solid white block with a subtle flavor.
+ent-FoodTofu = тофу
+    .desc = Плотный белый брусок с нежным вкусом.
 
-ent-FoodTofuSlice = tofu slice
-    .desc = A slice of tofu. Ingredient of various vegetarian dishes.
+ent-FoodTofuSlice = ломтик тофу
+    .desc = Ломтик тофу. Ингредиент разных вегетарианских блюд.
 
-ent-FoodBadRecipe = burned mess
-    .desc = Someone should be demoted from cook for this.
+ent-FoodBadRecipe = подгоревшее месиво
+    .desc = За такое кого-то надо разжаловать из поваров.
 
-ent-FoodCocoaBeans = cocoa beans
-    .desc = You can never have too much chocolate!
+ent-FoodCocoaBeans = какао-бобы
+    .desc = Шоколада много не бывает!
 
-ent-FoodCroissantRaw = raw croissant
-    .desc = Buttery, flaky goodness waiting to happen.
+ent-FoodCroissantRaw = сырой круассан
+    .desc = Будущее слоёное масляное великолепие.
 
-ent-FoodCroissantRawCotton = raw cotton croissant
-    .desc = Buttery, flaky, fibery goodness waiting to happen.
+ent-FoodCroissantRawCotton = сырой хлопковый круассан
+    .desc = Будущее слоёное, масляное, волокнистое великолепие.

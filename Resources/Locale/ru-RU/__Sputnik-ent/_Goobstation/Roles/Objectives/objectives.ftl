@@ -1,26 +1,26 @@
 ent-GrayTideKillEveryoneObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-TunnelClownProtectMaintenanceObjective = Protect maintenance.
-    .desc = This stations maintenance has been your home for as long as you can remember, hiding from the crew in lockers is all that you've known, until now. Thoses station goers have invaded your home for the last time, kill anyone who dares to distrupt your home.
+ent-TunnelClownProtectMaintenanceObjective = Защитите техтоннели.
+    .desc = Техтоннели сей станции были вашим домом, сколько вы себя помните. Всю жизнь вы прятались от экипажа в шкафчиках, но этому пора положить конец. Больше станционники в ваш дом не сунутся. Убейте всякого, кто посмеет нарушить ваш покой.
 
-ent-SingulothKnightPreachObjective = Preach the word of Lord Singuloth!
-    .desc = Thou art to locateth this stations engineering department and conv'rt those folk into fellow followeth'rs of singuloth, if 't those gents refuseth those gents art to beest execut'd mercilessly.
+ent-SingulothKnightPreachObjective = Проповедуйте слово Лорда Сингулота!
+    .desc = Надлежит тебе сыскать инженерный отдел сей станции и обратить тамошних людей в собратьев по вере в сингулота. Ежели откажутся, казни их без пощады.
 
-ent-SingulothKnightSingularityObjective = Expand the singularity
-    .desc = Thee wilt prithee lord singuloth, doth this by expanding (but nay loosing) the singularity, the bigger the better!
+ent-SingulothKnightSingularityObjective = Разрастите сингулярность
+    .desc = Ублажи же лорда сингулота: взрасти сингулярность (но не выпускай её на волю). Чем больше, тем лучше!
 
-ent-SingulothKnightTeslaObjective = Remove any tesla's from the station
-    .desc = If 't be true this station hast a tesla thou art to destroy it by any means and execute it's creator for yond affront to lord singuloth!
+ent-SingulothKnightTeslaObjective = Устраните все теслы на станции
+    .desc = Коли на сей станции обретается тесла, уничтожь её любым способом и казни её создателя за сие оскорбление лорда сингулота!
 
-ent-DarkLordDuelObjective = Have an epic duel!
-    .desc = Those's other syndicate agents don't take you seriously, prove them wrong by winning a duel against a worthy opponent!
+ent-DarkLordDuelObjective = Устройте эпическую дуэль!
+    .desc = Другие агенты синдиката вас всерьёз не воспринимают. Докажите, что они ошибаются, одолев достойного противника в дуэли!
 
-ent-ChosenOneKillDarkLordObjective = Kill the Dark Lord
-    .desc = You have been sent to this station by Nanotrasen to kill a Dark Lord, don't let them down!
+ent-ChosenOneKillDarkLordObjective = Убейте Тёмного Лорда
+    .desc = NanoTrasen отправила вас на эту станцию убить Тёмного Лорда. Не подведите корпорацию!
 
-ent-DarkPriestHireApprentice = Hire an apprentice
-    .desc = You are in need of an apprentice hire one! this doesn't have to be the person you are protecting!
+ent-DarkPriestHireApprentice = Наймите ученика
+    .desc = Вам нужен ученик. Наймите кого-нибудь! это может быть и другой человек, помимо того, кого вы защищаете!
 
-ent-DarkPriestProtectObjective = Protect Crewmember
-    .desc = Protect a crewmember who has sparked your interest.
+ent-DarkPriestProtectObjective = Защитите Члена Экипажа
+    .desc = Защитите члена экипажа, который вас заинтересовал.

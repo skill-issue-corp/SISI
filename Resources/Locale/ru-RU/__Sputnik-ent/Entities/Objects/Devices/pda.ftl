@@ -1,5 +1,5 @@
-ent-BasePDA = PDA
-    .desc = Personal Data Assistant.
+ent-BasePDA = КПК
+    .desc = Карманный Персональный Компьютер.
 
 ent-BaseWidePDA = { ent-BasePDA }
     .desc = { ent-BasePDA.desc }
@@ -10,237 +10,237 @@ ent-BaseSecurityPDA = { ent-BasePDA }
 ent-BaseMedicalPDA = { ent-BasePDA }
     .desc = { ent-BasePDA.desc }
 
-ent-PassengerPDA = passenger PDA
-    .desc = Why isn't it gray?
+ent-PassengerPDA = КПК пассажира
+    .desc = Почему он не серый?
 
-ent-TechnicalAssistantPDA = technical assistant PDA
-    .desc = Why isn't it yellow?
+ent-TechnicalAssistantPDA = КПК технического ассистента
+    .desc = Почему он не жёлтый?
 
-ent-MedicalInternPDA = medical intern PDA
-    .desc = Why isn't it white?
+ent-MedicalInternPDA = КПК медицинского интерна
+    .desc = Почему он не белый?
 
-ent-SecurityCadetPDA = security cadet PDA
-    .desc = Why isn't it red?
+ent-SecurityCadetPDA = КПК курсанта службы безопасности
+    .desc = Почему он не красный?
 
-ent-ResearchAssistantPDA = research assistant PDA
-    .desc = Why isn't it purple?
+ent-ResearchAssistantPDA = КПК научного ассистента
+    .desc = Почему он не фиолетовый?
 
-ent-ServiceWorkerPDA = service worker PDA
-    .desc = Why isn't it gray?
+ent-ServiceWorkerPDA = КПК работника сервиса
+    .desc = Почему он не серый?
 
-ent-ChefPDA = chef PDA
-    .desc = Covered in grease and flour.
+ent-ChefPDA = КПК повара
+    .desc = Весь в жире и муке.
 
-ent-BotanistPDA = botanist PDA
-    .desc = Has an earthy scent.
+ent-BotanistPDA = КПК ботаника
+    .desc = От него пахнет землёй.
 
-ent-ClownPDA = clown PDA
-    .desc = Looks can be deceiving.
+ent-ClownPDA = КПК клоуна
+    .desc = Внешность обманчива.
 
 ent-VisitorClownPDA = { ent-ClownPDA }
     .desc = { ent-ClownPDA.desc }
-    .suffix = Visitor
+    .suffix = Посетитель
 
-ent-MimePDA = mime PDA
-    .desc = Suprisingly not on mute.
+ent-MimePDA = КПК мима
+    .desc = На удивление не в беззвучном режиме.
 
-ent-ChaplainPDA = chaplain PDA
-    .desc = God's chosen PDA.
+ent-ChaplainPDA = КПК священника
+    .desc = Избранный Богом КПК.
 
 ent-VisitorChaplainPDA = { ent-ChaplainPDA }
     .desc = { ent-ChaplainPDA.desc }
-    .suffix = Visitor
+    .suffix = Посетитель
 
-ent-QuartermasterPDA = quartermaster PDA
-    .desc = PDA for the guy that orders the guns.
+ent-QuartermasterPDA = КПК квартирмейстера
+    .desc = КПК того, кто заказывает пушки.
 
-ent-CargoPDA = cargo PDA
-    .desc = PDA for the guys that order the pizzas.
+ent-CargoPDA = КПК карго
+    .desc = КПК тех, кто заказывает пиццу.
 
-ent-SalvagePDA = salvage PDA
-    .desc = Smells like ash.
+ent-SalvagePDA = КПК утилизатора
+    .desc = Пахнет пеплом.
 
-ent-BartenderPDA = bartender PDA
-    .desc = Smells like beer.
+ent-BartenderPDA = КПК бармена
+    .desc = Пахнет пивом.
 
-ent-LibrarianPDA = librarian PDA
-    .desc = Smells like books.
+ent-LibrarianPDA = КПК библиотекаря
+    .desc = Пахнет книгами.
 
 ent-VisitorLibrarianPDA = { ent-LibrarianPDA }
     .desc = { ent-LibrarianPDA.desc }
-    .suffix = Visitor
+    .suffix = Посетитель
 
-ent-LawyerPDA = lawyer PDA
-    .desc = For lawyers to poach dubious clients.
+ent-LawyerPDA = КПК адвоката
+    .desc = Чтобы адвокаты могли переманивать сомнительных клиентов.
 
 ent-VisitorLawyerPDA = { ent-LawyerPDA }
     .desc = { ent-LawyerPDA.desc }
-    .suffix = Visitor
+    .suffix = Посетитель
 
-ent-JanitorPDA = janitor PDA
-    .desc = Smells like bleach.
+ent-JanitorPDA = КПК уборщика
+    .desc = Пахнет отбеливателем.
 
-ent-CaptainPDA = captain PDA
-    .desc = Surprisingly no different from your PDA.
+ent-CaptainPDA = КПК капитана
+    .desc = На удивление ничем не отличается от вашего КПК.
 
-ent-HoPPDA = head of personnel PDA
-    .desc = Looks like it's been chewed on.
+ent-HoPPDA = КПК главы персонала
+    .desc = Выглядит обглоданным.
 
-ent-CEPDA = chief engineer PDA
-    .desc = Looks like it's barely been used.
+ent-CEPDA = КПК старшего инженера
+    .desc = Выглядит почти неиспользованным.
 
-ent-EngineerPDA = engineer PDA
-    .desc = Rugged and well-worn.
+ent-EngineerPDA = КПК инженера
+    .desc = Прочный и видавший виды.
 
-ent-CMOPDA = chief medical officer PDA
-    .desc = Extraordinarily shiny and sterile.
+ent-CMOPDA = КПК главного врача
+    .desc = Необычайно блестящий и стерильный.
 
-ent-MedicalPDA = medical PDA
-    .desc = Shiny and sterile.
+ent-MedicalPDA = КПК медика
+    .desc = Блестящий и стерильный.
 
 ent-VisitorMedicalPDA = { ent-MedicalPDA }
     .desc = { ent-MedicalPDA.desc }
-    .suffix = Visitor
+    .suffix = Посетитель
 
-ent-ParamedicPDA = paramedic PDA
-    .desc = Shiny and sterile.
+ent-ParamedicPDA = КПК парамедика
+    .desc = Блестящий и стерильный.
 
-ent-ChemistryPDA = chemistry PDA
-    .desc = It has a few discolored blotches here and there.
+ent-ChemistryPDA = КПК химика
+    .desc = Тут и там видны выцветшие пятна.
 
-ent-RnDPDA = research director PDA
-    .desc = It appears surprisingly ordinary.
+ent-RnDPDA = КПК научного руководителя
+    .desc = На вид удивительно обычный.
 
-ent-SciencePDA = science PDA
-    .desc = It's covered with an unknown gooey substance.
+ent-SciencePDA = КПК научного отдела
+    .desc = Покрыт неизвестной липкой субстанцией.
 
-ent-HoSPDA = head of security PDA
-    .desc = Whosoever bears this PDA is the law.
+ent-HoSPDA = КПК главы службы безопасности
+    .desc = Кто носит этот КПК, тот и есть закон.
 
-ent-WardenPDA = warden PDA
-    .desc = The OS appears to have been jailbroken.
+ent-WardenPDA = КПК смотрителя
+    .desc = Похоже, ограничения ОС сняты.
 
-ent-SecurityPDA = security PDA
-    .desc = Red to hide the stains of passenger blood.
+ent-SecurityPDA = КПК службы безопасности
+    .desc = Красный, чтобы скрывать пятна крови пассажиров.
 
-ent-CentcomPDA = CentComm PDA
-    .desc = Light green sign of walking bureaucracy.
+ent-CentcomPDA = КПК ЦК
+    .desc = Светло-зелёный символ бюрократии на ножках.
 
-ent-AdminPDA = Admin PDA
-    .desc = If you are not an admin please return this PDA to the nearest admin.
-    .suffix = Admin
+ent-AdminPDA = КПК Администратора
+    .desc = Если вы не администратор, пожалуйста, верните этот КПК ближайшему администратору.
+    .suffix = Администрация
 
-ent-MusicianPDA = musician PDA
-    .desc = It fills you with inspiration.
+ent-MusicianPDA = КПК музыканта
+    .desc = Наполняет вас вдохновением.
 
 ent-VisitorMusicianPDA = { ent-MusicianPDA }
     .desc = { ent-MusicianPDA.desc }
-    .suffix = Visitor
+    .suffix = Посетитель
 
-ent-AtmosPDA = atmos PDA
-    .desc = Still smells like plasma.
+ent-AtmosPDA = КПК атмосферного техника
+    .desc = Всё ещё пахнет плазмой.
 
-ent-ClearPDA = clear PDA
-    .desc = 99 and 44/100ths percent pure plastic.
+ent-ClearPDA = прозрачный КПК
+    .desc = 99 и 44/100 процента чистого пластика.
 
 ent-PrisonerPDA = { ent-ClearPDA }
     .desc = { ent-ClearPDA.desc }
-    .suffix = Prisoner
+    .suffix = Заключённый
 
 ent-VisitorPDA = { ent-ClearPDA }
     .desc = { ent-ClearPDA.desc }
-    .suffix = Visitor
+    .suffix = Посетитель
 
-ent-SyndiPDA = syndicate PDA
-    .desc = Ok, time to be a productive member of- oh cool I'm a bad guy time to kill people!
+ent-SyndiPDA = КПК синдиката
+    .desc = Так, пора стать полезным членом... О, круто, я злодей, пора убивать людей!
 
-ent-SyndiOperativePDA = syndicate operative PDA
-    .desc = Death to NT!
+ent-SyndiOperativePDA = КПК оперативника синдиката
+    .desc = Смерть NT!
 
-ent-SyndiCorpsmanPDA = syndicate corpsman PDA
-    .desc = Commander... I need to cook!
+ent-SyndiCorpsmanPDA = КПК санитара синдиката
+    .desc = Командир... Мне надо готовить!
 
-ent-SyndiCommanderPDA = syndicate commander PDA
-    .desc = So what are we, some kind of Nukie squad?
+ent-SyndiCommanderPDA = КПК командира синдиката
+    .desc = Так мы что, типа отряд ядерщиков?
 
-ent-ERTLeaderPDA = ERT Leader PDA
-    .desc = Red for firepower.
-    .suffix = Leader
+ent-ERTLeaderPDA = КПК Командира ОБР
+    .desc = Красный для огневой мощи.
+    .suffix = Командир
 
-ent-ERTChaplainPDA = ERT Chaplain PDA
-    .desc = Red for firepower, it's blessed.
-    .suffix = Chaplain
+ent-ERTChaplainPDA = КПК Священника ОБР
+    .desc = Красный для огневой мощи. Освящён.
+    .suffix = Священник
 
-ent-ERTEngineerPDA = ERT Engineer PDA
-    .desc = Red for firepower, it's well-worn.
-    .suffix = Engineer
+ent-ERTEngineerPDA = КПК Инженера ОБР
+    .desc = Красный для огневой мощи. Видавший виды.
+    .suffix = Инженер
 
-ent-ERTJanitorPDA = ERT Janitor PDA
-    .desc = Red for firepower, it's squeaky clean.
-    .suffix = Janitor
+ent-ERTJanitorPDA = КПК Уборщика ОБР
+    .desc = Красный для огневой мощи. Аж скрипит от чистоты.
+    .suffix = Уборщик
 
-ent-ERTMedicPDA = ERT Medic PDA
-    .desc = Red for firepower, it's shiny and sterile.
-    .suffix = Medic
+ent-ERTMedicPDA = КПК Медика ОБР
+    .desc = Красный для огневой мощи. Блестящий и стерильный.
+    .suffix = Медик
 
-ent-ERTSecurityPDA = ERT Security PDA
-    .desc = Red for firepower, it has tally marks etched on the side.
-    .suffix = Security
+ent-ERTSecurityPDA = КПК Бойца ОБР
+    .desc = Красный для огневой мощи. На боку вырезаны зарубки.
+    .suffix = Служба Безопасности
 
-ent-CBURNPDA = CBURN PDA
-    .desc = Smells like rotten flesh.
+ent-CBURNPDA = КПК РХБЗЗ
+    .desc = Пахнет гнилой плотью.
 
-ent-PsychologistPDA = psychologist PDA
-    .desc = Looks immaculately cleaned.
+ent-PsychologistPDA = КПК психолога
+    .desc = Выглядит безупречно чистым.
 
-ent-TramDriverPDA = tram driver PDA
-    .desc = A serious driver will always arrive on time.
+ent-TramDriverPDA = КПК водителя трамвая
+    .desc = Серьёзный водитель всегда прибывает вовремя.
 
-ent-ReporterPDA = reporter PDA
-    .desc = Smells like freshly printed press.
+ent-ReporterPDA = КПК репортёра
+    .desc = Пахнет свежей прессой.
 
-ent-DetectivePDA = detective PDA
-    .desc = Smells like rain... pouring down the rooftops...
+ent-DetectivePDA = КПК детектива
+    .desc = Пахнет дождём... стекающим по крышам...
 
-ent-BrigmedicPDA = brigmedic PDA
-    .desc = I wonder whose pulse is on the screen? I hope it doesn't stop...
+ent-BrigmedicPDA = КПК бригмедика
+    .desc = Интересно, чей пульс на экране? Лишь бы не остановился...
 
-ent-CluwnePDA = cluwne PDA
-    .desc = Cursed cluwne PDA.
-    .suffix = Unremoveable
+ent-CluwnePDA = КПК клувеня
+    .desc = Проклятый КПК клувеня.
+    .suffix = Несъёмный
 
-ent-SeniorEngineerPDA = senior engineer PDA
-    .desc = Seems to have been taken apart and put back together several times.
+ent-SeniorEngineerPDA = КПК ведущего инженера
+    .desc = Похоже, его не раз разбирали и собирали обратно.
 
-ent-SeniorResearcherPDA = senior researcher PDA
-    .desc = Looks like it's been through years of chemical burns and explosions.
+ent-SeniorResearcherPDA = КПК ведущего учёного
+    .desc = Похоже, пережил годы химических ожогов и взрывов.
 
-ent-SeniorPhysicianPDA = senior physician PDA
-    .desc = Smells faintly like iron and chemicals.
+ent-SeniorPhysicianPDA = КПК ведущего врача
+    .desc = Слегка пахнет железом и химикатами.
 
-ent-SeniorOfficerPDA = senior officer PDA
-    .desc = Beaten, battered and broken, but just barely useable.
+ent-SeniorOfficerPDA = КПК старшего офицера
+    .desc = Побитый, потрёпанный и разбитый, но кое-как ещё работает.
 
-ent-SeniorCourierPDA = senior courier PDA
-    .desc = Smells like postage stamps and shuttle fuel.
+ent-SeniorCourierPDA = КПК старшего курьера
+    .desc = Пахнет почтовыми марками и шаттловым топливом.
 
-ent-NinjaPDA = ninja PDA
-    .desc = You stealthy bastard, you!
+ent-NinjaPDA = КПК ниндзя
+    .desc = Вот же скрытный ублюдок!
 
-ent-PiratePDA = pirate PDA
-    .desc = Yargh!
+ent-PiratePDA = КПК пирата
+    .desc = Ар-р-р!
 
-ent-ChameleonPDA = passenger PDA
-    .desc = Why isn't it gray?
-    .suffix = Chameleon
+ent-ChameleonPDA = КПК пассажира
+    .desc = Почему он не серый?
+    .suffix = Хамелеон
 
 ent-ChameleonAgentPDA = { ent-ChameleonPDA }
     .desc = { ent-ChameleonPDA.desc }
-    .suffix = Chameleon, Agent ID
+    .suffix = Хамелеон, ID Агента
 
-ent-WizardPDA = wizard PDA
-    .desc = You hear faint whispers coming from it.
+ent-WizardPDA = КПК волшебника
+    .desc = Из него доносится тихий шёпот.
 
 ent-ScurretPDA = { ent-ClearPDA }
-    .desc = A temporary PDA granted to scurret temps. Doesn't do much. Wawa!
-    .suffix = Scurret
+    .desc = Временный КПК для слизнекотиков на подработке. Умеет немногое. Вава!
+    .suffix = Слизнекотик

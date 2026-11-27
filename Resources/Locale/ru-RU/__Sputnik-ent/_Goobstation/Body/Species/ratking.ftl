@@ -1,9 +1,9 @@
-ent-AppearanceRatKing = rat king appearance
+ent-AppearanceRatKing = внешность крысиного короля
     .desc = { ent-BaseMobBody.desc }
 
 ent-OrganRatKingStomach = { ent-OrganAnimalStomach }
-    .desc = How hungry?
-    .suffix = ratking
+    .desc = Сильно проголодались?
+    .suffix = крысиный король
 
 ent-SolutionStomachRatKing = { ent-SolutionStomach }
     .desc = { ent-SolutionStomach.desc }

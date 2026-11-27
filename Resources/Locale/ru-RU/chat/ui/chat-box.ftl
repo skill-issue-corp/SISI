@@ -16,49 +16,49 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-hud-chatbox-info = {$talk-key} to talk, {$cycle-key} to cycle channels.
-hud-chatbox-info-talk = {$talk-key} to talk.
-hud-chatbox-info-cycle = Click here to talk, {$cycle-key} to cycle channels.
-hud-chatbox-info-unbound = Click here to talk.
+hud-chatbox-info = {$talk-key} — открыть чат, {$cycle-key} — сменить канал.
+hud-chatbox-info-talk = {$talk-key} — открыть чат.
+hud-chatbox-info-cycle = Нажмите здесь, чтобы открыть чат. {$cycle-key} — сменить канал.
+hud-chatbox-info-unbound = Нажмите здесь, чтобы открыть чат.
 
 hud-chatbox-select-name-prefixed = {$prefix} {$name}
-hud-chatbox-select-channel-Admin = Admin
-hud-chatbox-select-channel-Console = Console
-hud-chatbox-select-channel-Dead = Dead
-hud-chatbox-select-channel-Emotes = Emotes
-hud-chatbox-select-channel-Local = Local
-hud-chatbox-select-channel-Whisper = Whisper
+hud-chatbox-select-channel-Admin = Администрация
+hud-chatbox-select-channel-Console = Консоль
+hud-chatbox-select-channel-Dead = Мёртвые
+hud-chatbox-select-channel-Emotes = Эмоции
+hud-chatbox-select-channel-Local = Речь
+hud-chatbox-select-channel-Whisper = Шёпот
 hud-chatbox-select-channel-LOOC = LOOC
 hud-chatbox-select-channel-OOC = OOC
-hud-chatbox-select-channel-Damage = Damage
+hud-chatbox-select-channel-Damage = Урон
 # Goobstation - Starlight collective mind port
-hud-chatbox-select-channel-CollectiveMind = Collective Mind
-hud-chatbox-select-channel-Visual = Actions
-hud-chatbox-select-channel-Radio = Radio
+hud-chatbox-select-channel-CollectiveMind = Коллективный Разум
+hud-chatbox-select-channel-Visual = Действия
+hud-chatbox-select-channel-Radio = Рация
 
-hud-chatbox-channel-Admin = Admin Misc
-hud-chatbox-channel-AdminAlert = Admin Alert
-hud-chatbox-channel-AdminChat = Admin Chat
-hud-chatbox-channel-Dead = Dead
-hud-chatbox-channel-Emotes = Emotes
-hud-chatbox-channel-Local = Local
-hud-chatbox-channel-Whisper = Whisper
+hud-chatbox-channel-Admin = Прочее для Администраторов
+hud-chatbox-channel-AdminAlert = Оповещения Администраторов
+hud-chatbox-channel-AdminChat = Чат Администраторов
+hud-chatbox-channel-Dead = Мёртвые
+hud-chatbox-channel-Emotes = Эмоции
+hud-chatbox-channel-Local = Речь
+hud-chatbox-channel-Whisper = Шёпот
 hud-chatbox-channel-LOOC = LOOC
 hud-chatbox-channel-OOC = OOC
-hud-chatbox-channel-Radio = Radio
-hud-chatbox-channel-Notifications = Notifications
-hud-chatbox-channel-Server = Server
+hud-chatbox-channel-Radio = Рация
+hud-chatbox-channel-Notifications = Уведомления
+hud-chatbox-channel-Server = Сервер
 # Goobstation - Starlight collective mind port
-hud-chatbox-channel-CollectiveMind = Collective Mind
-hud-chatbox-channel-Visual = Actions
-hud-chatbox-channel-Damage = Damage
-hud-chatbox-channel-Unspecified = Unspecified
+hud-chatbox-channel-CollectiveMind = Коллективный Разум
+hud-chatbox-channel-Visual = Действия
+hud-chatbox-channel-Damage = Урон
+hud-chatbox-channel-Unspecified = Прочее
 
-hud-chatbox-highlights = Highlights:
-hud-chatbox-highlights-button = Submit
-hud-chatbox-highlights-tooltip = The words need to be separated by a newline,
-                                 if wrapped around " they will be highlighted
-                                 only if separated by spaces or punctuation.
-hud-chatbox-highlights-placeholder = @McHands
-                                     "Judge"
-                                     Medical
+hud-chatbox-highlights = Подсветка:
+hud-chatbox-highlights-button = Применить
+hud-chatbox-highlights-tooltip = Каждое слово или фразу вводите на отдельной строке.
+                                 в двойных кавычках они подсвечиваются
+                                 только отдельно от других слов, через пробелы или знаки препинания.
+hud-chatbox-highlights-placeholder = @МакРуки
+                                     "Судья"
+                                     Медотсек

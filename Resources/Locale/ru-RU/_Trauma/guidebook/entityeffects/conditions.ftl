@@ -1,25 +1,25 @@
-entity-condition-guidebook-has-mob-name = the target's name contains { $name }
-entity-condition-guidebook-inventory-nested = the target is wearing anything where {$condition}
-entity-condition-guidebook-inside-area = the target is inside an area
-entity-condition-guidebook-has-marking = the target has a {$marking} marking
-entity-condition-guidebook-is-species = the target is a {$species}
+entity-condition-guidebook-has-mob-name = имя цели содержит «{ $name }»
+entity-condition-guidebook-inventory-nested = на цели надето что-либо, для чего выполняется условие: {$condition}
+entity-condition-guidebook-inside-area = цель находится внутри области
+entity-condition-guidebook-has-marking = у цели есть отметина «{$marking}»
+entity-condition-guidebook-is-species = цель относится к виду «{$species}»
 
-entity-condition-guidebook-pressure-protection = the target is protected from pressure
-entity-condition-guidebook-cosmic-cultist = the target is a cosmic cultist
-entity-condition-shadowling-or-thrall = target is a shadowling or thrall
-entity-condition-not-shadowling-or-thrall = target is not a shadowling or thrall
-entity-condition-guidebook-is-humanoid = target is humanoid
-entity-condition-guidebook-hypoport-target = target can receive a hypoport
+entity-condition-guidebook-pressure-protection = цель защищена от давления
+entity-condition-guidebook-cosmic-cultist = цель состоит в космическом культе
+entity-condition-shadowling-or-thrall = цель — тенеморф или тралл
+entity-condition-not-shadowling-or-thrall = цель не является тенеморфом или траллом
+entity-condition-guidebook-is-humanoid = цель — гуманоид
+entity-condition-guidebook-hypoport-target = цели можно установить гипопорт
 
-entity-condition-guidebook-cybernetics-blacklist = Is not a cybernetic limb
+entity-condition-guidebook-cybernetics-blacklist = Не является кибернетической конечностью
 
-entity-condition-guidebook-is-awake = the target is awake
+entity-condition-guidebook-is-awake = цель бодрствует
 
-entity-condition-guidebook-use-delay = the target has no active {$id} use delay
+entity-condition-guidebook-use-delay = на цели не действует задержка использования «{$id}»
 
-entity-condition-guidebook-organ-slot = the target's {$part} {$inverted ->
-    [true] has no
-    *[false] has a
-} {$slot} slot
+entity-condition-guidebook-organ-slot = у части тела «{$part}» цели {$inverted ->
+    [true] нет
+    *[false] есть
+} слот «{$slot}»
 
-entity-condition-guidebook-moving = the target is moving at least { $speed } m/s
+entity-condition-guidebook-moving = цель движется со скоростью не менее { $speed } м/с

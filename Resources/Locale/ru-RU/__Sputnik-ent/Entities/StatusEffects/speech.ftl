@@ -1,23 +1,23 @@
 ent-SpeechStatusEffectBase = { ent-MobStatusEffectDebuff }
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectStutter = stutter
+ent-StatusEffectStutter = заикание
     .desc = { ent-SpeechStatusEffectBase.desc }
 
-ent-StatusEffectSlurred = slurred
+ent-StatusEffectSlurred = невнятная речь
     .desc = { ent-SpeechStatusEffectBase.desc }
 
-ent-StatusEffectScrambled = scrambled
+ent-StatusEffectScrambled = перемешанная речь
     .desc = { ent-SpeechStatusEffectBase.desc }
 
-ent-StatusEffectOwO = owoaccent
+ent-StatusEffectOwO = овоакцент
     .desc = { ent-SpeechStatusEffectBase.desc }
 
-ent-StatusEffectAllCaps = allcapsaccent
+ent-StatusEffectAllCaps = капсакцент
     .desc = { ent-SpeechStatusEffectBase.desc }
 
-ent-StatusEffectRatvarianLanguage = ratvarian language patterns
+ent-StatusEffectRatvarianLanguage = ратварианские речевые обороты
     .desc = { ent-SpeechStatusEffectBase.desc }
 
-ent-StatusEffectBark = barkaccent
+ent-StatusEffectBark = лающий акцент
     .desc = { ent-SpeechStatusEffectBase.desc }

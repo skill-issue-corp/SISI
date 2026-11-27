@@ -1,38 +1,38 @@
-ent-BaseWeaponLauncher = BaseWeaponLauncher
-    .desc = A rooty tooty point and shooty.
+ent-BaseWeaponLauncher = ГранатомётБазовый
+    .desc = Наводи да пали!
 
 ent-WeaponLauncherChinaLake = China Lake
-    .desc = PLOOP.
+    .desc = ПЛЮХ.
 
 ent-WeaponLauncherHydra = hydra
-    .desc = PLOOP... FSSSSSS...
+    .desc = ПЛЮХ... ФШШШШШ...
 
 ent-WeaponLauncherHydraLethal = { ent-WeaponLauncherHydra }
     .desc = { ent-WeaponLauncherHydra.desc }
-    .suffix = frag
+    .suffix = осколочный
 
 ent-WeaponLauncherRocket = RPG-7
-    .desc = A modified ancient rocket-propelled grenade launcher.
+    .desc = Модифицированный старинный реактивный гранатомёт.
 
 ent-WeaponGuidedMissileLauncherXenoborg = XB GML-78
-    .desc = A guided missile launcher.
+    .desc = Пусковая установка управляемых ракет.
 
-ent-WeaponLauncherMultipleRocket = multiple rocket launcher
-    .desc = A modified ancient rocket-propelled grenade launcher.
+ent-WeaponLauncherMultipleRocket = многоствольный гранатомёт
+    .desc = Модифицированный старинный реактивный гранатомёт.
 
 ent-WeaponRocketLauncherXenoborg = XB MRL-97-D
-    .desc = A alien rocket launcher fitted with special demolition rockets.
+    .desc = Инопланетная пусковая установка со специальными ракетами для сноса укреплений.
 
-ent-WeaponLauncherPirateCannon = pirate cannon
-    .desc = Kaboom!
+ent-WeaponLauncherPirateCannon = пиратская пушка
+    .desc = Бабах!
 
-ent-WeaponGrapplingGun = grappling gun
+ent-WeaponGrapplingGun = пушка с крюком
     .desc = { ent-BaseItem.desc }
 
-ent-WeaponLauncherAdmemeMeteorLarge = meteor launcher
-    .desc = It fires large meteors.
-    .suffix = Admeme
+ent-WeaponLauncherAdmemeMeteorLarge = метеоромёт
+    .desc = Стреляет крупными метеорами.
+    .suffix = Адмеме
 
-ent-WeaponLauncherAdmemeImmovableRodSlow = immovable rod launcher
-    .desc = It fires slow immovable rods.
-    .suffix = Admeme
+ent-WeaponLauncherAdmemeImmovableRodSlow = пусковая установка неподвижных стержней
+    .desc = Стреляет медленными неподвижными стержнями.
+    .suffix = Адмеме

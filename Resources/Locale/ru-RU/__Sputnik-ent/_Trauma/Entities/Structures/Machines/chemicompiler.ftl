@@ -1,2 +1,2 @@
-ent-ChemiCompiler = ChemiCompiler M7
-    .desc = A programmable chemical workbench with ten reservoir slots. Does exactly what your program says, which is rarely what you meant.
+ent-ChemiCompiler = ХимКомпилятор M7
+    .desc = Программируемая химическая станция с десятью гнёздами для резервуаров. Выполняет программу в точности, что редко совпадает с вашим замыслом.

@@ -1,23 +1,23 @@
-ent-ReinforcementRadio = syndicate reinforcement radio
-    .desc = Call in a syndicate agent of questionable quality, instantly! Only basic equipment provided.
+ent-ReinforcementRadio = рация подкрепления синдиката
+    .desc = Мгновенно вызовите агента синдиката сомнительного качества! В комплекте только базовое снаряжение.
 
-ent-ReinforcementRadioSyndicate = syndicate reinforcement radio
-    .desc = Call in a syndicate agent of questionable quality, instantly!
+ent-ReinforcementRadioSyndicate = рация подкрепления синдиката
+    .desc = Мгновенно вызовите агента синдиката сомнительного качества!
 
-ent-ReinforcementRadioSyndicateNukeops = nuclear operative radio
-    .desc = Call in a nuclear operative of questionable quality, instantly! Basic nukeop equipment provided.
-    .suffix = NukeOps
+ent-ReinforcementRadioSyndicateNukeops = рация ядерного оперативника
+    .desc = Мгновенно вызовите ядерного оперативника сомнительного качества! В комплекте базовое снаряжение ядерного оперативника.
+    .suffix = Ядерные Оперативники
 
-ent-ReinforcementRadioSyndicateAncestor = syndicate genetic ancestor reinforcement radio
-    .desc = Calls in a specially trained ancestor of your choosing to assist you.
+ent-ReinforcementRadioSyndicateAncestor = рация подкрепления генетических предков синдиката
+    .desc = Вызывает вам на помощь специально обученного предка на ваш выбор.
 
 ent-ReinforcementRadioSyndicateAncestorNukeops = { ent-ReinforcementRadioSyndicateAncestor }
     .desc = { ent-ReinforcementRadioSyndicateAncestor.desc }
-    .suffix = NukeOps
+    .suffix = Ядерные Оперативники
 
-ent-ReinforcementRadioSyndicateSyndiCat = syndicat reinforcement radio
-    .desc = Calls in a faithfully trained cat with a microbomb to assist you.
+ent-ReinforcementRadioSyndicateSyndiCat = рация подкрепления синдикотов
+    .desc = Вызывает вам на помощь преданного обученного кота с микробомбой.
 
-ent-ReinforcementRadioSyndicateCyborgAssault = syndicate assault cyborg reinforcement radio
-    .desc = Call in a well armed assault cyborg, instantly!
-    .suffix = NukeOps
+ent-ReinforcementRadioSyndicateCyborgAssault = рация подкрепления штурмовых киборгов синдиката
+    .desc = Мгновенно вызовите хорошо вооружённого штурмового киборга!
+    .suffix = Ядерные Оперативники

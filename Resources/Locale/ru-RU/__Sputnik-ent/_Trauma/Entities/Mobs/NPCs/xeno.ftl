@@ -1,7 +1,7 @@
-ent-MobPurpleSnakeVent = space adder
-    .desc = A menacing purple snake from Kepler-283c.
-    .suffix = DO NOT MAP
+ent-MobPurpleSnakeVent = космическая гадюка
+    .desc = Грозная фиолетовая змея с Кеплера-283c.
+    .suffix = НЕ МАППИТЬ
 
-ent-MobSmallPurpleSnakeVent = space adder
-    .desc = A smaller version of the menacing purple snake from Kepler-283c.
-    .suffix = DO NOT MAP
+ent-MobSmallPurpleSnakeVent = космическая гадюка
+    .desc = Уменьшенная версия грозной фиолетовой змеи с Кеплера-283c.
+    .suffix = НЕ МАППИТЬ

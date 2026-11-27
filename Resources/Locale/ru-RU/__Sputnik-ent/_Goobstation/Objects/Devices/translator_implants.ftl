@@ -1,2 +1,2 @@
-ent-ChevalTranslatorImplant = cheval translator implant
-    .desc = An implant giving the ability to understand and speak Cheval.
+ent-ChevalTranslatorImplant = имплант переводчика с парнокопытного
+    .desc = Имплант, позволяющий понимать Парнокопытный язык и говорить на нём.

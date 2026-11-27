@@ -1,8 +1,8 @@
-ent-BarbedWireStructure = barbed wire
-    .desc = A large mass of steel wire with nasty barbs.
+ent-BarbedWireStructure = колючая проволока
+    .desc = Большой моток стальной проволоки с острыми шипами.
 
-ent-TrapTripWire = trip wire
-    .desc = A wire that sends a signal when walked over, can be disarmed with wirecutters.
+ent-TrapTripWire = растяжка
+    .desc = Проволока, которая посылает сигнал, если через неё пройти. Её можно обезвредить кусачками.
 
-ent-TrapPipeBomb = pipe bomb trap
-    .desc = A pipebomb linked to a remote signal. Can be disarmed with wirecutters.
+ent-TrapPipeBomb = ловушка с трубчатой бомбой
+    .desc = Трубчатая бомба, срабатывающая по удалённому сигналу. Можно обезвредить кусачками.

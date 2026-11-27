@@ -1,19 +1,19 @@
-ent-ClothingBackpackStasisBattery = stasis storage
-    .desc = Stores energy to freeze time flow, warping the space inside for more capacity.
+ent-ClothingBackpackStasisBattery = стазисное хранилище
+    .desc = Накапливает энергию, чтобы останавливать ход времени и искривлять пространство внутри для дополнительной вместимости.
 
 ent-ClothingBackpackStasisBatteryUnremoveable = { ent-ClothingBackpackStasisBattery }
     .desc = { ent-ClothingBackpackStasisBattery.desc }
-    .suffix = Unremoveable
+    .suffix = Несъёмный
 
 ent-ClothingBackpackStasisBatteryUnremoveableFilled = { ent-ClothingBackpackStasisBatteryUnremoveable }
     .desc = { ent-ClothingBackpackStasisBatteryUnremoveable.desc }
-    .suffix = Filled, Unremoveable
+    .suffix = Заполненное, Неснимаемое
 
-ent-ClothingBackpackDuffelGman = strange duffelbag
-    .desc = A strange, unremovable, bag capable of containing an absurd amount of items. Seemingly invisible to the naked eye.
+ent-ClothingBackpackDuffelGman = странный вещмешок
+    .desc = Странный неснимаемый вещмешок, способный вместить нелепо много вещей. Похоже, невооружённым глазом его не разглядеть.
 
-ent-ClothingBackpackLMGBattery = energy LMG powerbank
-    .desc = Accepts specialized car batteries to power the energy LMG.
+ent-ClothingBackpackLMGBattery = аккумулятор энергетического РУЧНОГО ПУЛЕМЁТА
+    .desc = Принимает специальные автомобильные аккумуляторы для питания энергетического РУЧНОГО ПУЛЕМЁТА.
 
-ent-ClothingBackpackFirefighterTank = firefighter water tank backpack
-    .desc = A refrigerated water tank backpack that can switch modes to launch ATMOS resin or work as a high pressure extinguisher.
+ent-ClothingBackpackFirefighterTank = заплечный бак пожарного
+    .desc = Заплечный бак с охлаждённой водой. Можно переключаться между распылением смолы АТМОСА и подачей воды под высоким давлением.

@@ -1,43 +1,43 @@
 ent-ClothingBeltMilitaryWebbingCMOFilled = { ent-ClothingBeltMilitaryWebbingCMO }
     .desc = { ent-ClothingBeltMilitaryWebbingCMO.desc }
-    .suffix = Filled, DO NOT MAP
+    .suffix = Заполнено, НЕ МАППИТЬ
 
-ent-ClothingBeltDeathsquadWebbingFilled = deathsquad operative chestrig
-    .desc = A robust and durable chestrig, containing everything you need to keep you in the fight. You probably won't need to use it.
-    .suffix = Filled, DO NOT MAP
+ent-ClothingBeltDeathsquadWebbingFilled = РПС оперативника эскадрона смерти
+    .desc = Робастная и прочная РПС со всем, что поможет вам оставаться в бою. Скорее всего, вам ничем из этого пользоваться не придётся.
+    .suffix = Заполнено, НЕ МАППИТЬ
 
 ent-ClothingBeltHolsterFilledCentComm = { ent-ClothingBeltHolster }
     .desc = { ent-ClothingBeltHolster.desc }
-    .suffix = Filled, N1984
+    .suffix = Заполнено, N1984
 
 ent-ClothingBeltSecurityWebbingFilledMedical = { ent-ClothingBeltSecurityWebbingMedical }
     .desc = { ent-ClothingBeltSecurityWebbingMedical.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-ClothingBeltSheathHeadOfSecurityFilled = { ent-ClothingBeltSheathHeadOfSecurity }
     .desc = { ent-ClothingBeltSheathHeadOfSecurity.desc }
-    .suffix = Filled, Head Of Security
+    .suffix = Заполнено, Глава Службы Безопасности
 
 ent-ClothingBeltCorporateJudoFilled = { ent-ClothingBeltCorporateJudo }
     .desc = { ent-ClothingBeltCorporateJudo.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-ClothingBeltHolsterFilledChaplain = Chaplains' Holster
-    .desc = A shoulder holster from the Gods. Contains a set of dual pistols.
-    .suffix = Filled, Chaplain
+ent-ClothingBeltHolsterFilledChaplain = Кобура Священника
+    .desc = Плечевая кобура от Богов. Внутри пара пистолетов.
+    .suffix = Заполнено, Священник
 
 ent-ClothingBeltAssaultFilled = { ent-ClothingBeltMilitaryWebbing }
     .desc = { ent-ClothingBeltMilitaryWebbing.desc }
-    .suffix = Filled, ERT
+    .suffix = Заполнено, ОБР
 
 ent-ChemBagFilled = { ent-ChemBag }
     .desc = { ent-ChemBag.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-ClothingBeltChemBagSyndiFilled = { ent-ClothingBeltChemBagSyndi }
     .desc = { ent-ClothingBeltChemBagSyndi.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-ClothingBeltMilitaryRigGrenadierFilled = { ent-ClothingBeltMilitaryRigGrenadier }
     .desc = { ent-ClothingBeltMilitaryRigGrenadier.desc }
-    .suffix = Grenadier bundle, filled
+    .suffix = Комплект гренадёра, заполнен

@@ -1,12 +1,12 @@
-ent-AppearanceVox = vox appearance
+ent-AppearanceVox = облик вокса
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobVox = Urist McVox
+ent-MobVox = Урист МакВокс
     .desc = { ent-AppearanceVox.desc }
 
 ent-OrganVox = { ent-OrganBaseOrganic }
     .desc = { ent-OrganBaseOrganic.desc }
-    .suffix = Vox
+    .suffix = Вокс
 
 ent-OrganVoxMetabolizer = { "" }
     .desc = { "" }
@@ -50,8 +50,8 @@ ent-OrganVoxFootLeft = { ent-OrganBaseFootLeft }
 ent-OrganVoxFootRight = { ent-OrganBaseFootRight }
     .desc = { ent-OrganBaseFootRight.desc }
 
-ent-OrganVoxBrain = cortical stack
-    .desc = A stack containing all the memories and experiences of a vox with some mushy brains still sticking to it.
+ent-OrganVoxBrain = кортикальный накопитель
+    .desc = Накопитель со всеми воспоминаниями и жизненным опытом вокса, к которому всё ещё прилипли ошмётки мозга.
 
 ent-OrganVoxEyes = { ent-OrganVoxVisual }
     .desc = { ent-OrganVoxVisual.desc }
@@ -65,17 +65,17 @@ ent-OrganVoxAppendix = { ent-OrganBaseAppendix }
 ent-OrganVoxEars = { ent-OrganBaseEars }
     .desc = { ent-OrganBaseEars.desc }
 
-ent-OrganVoxLungs = gas exchange sacks
-    .desc = The organ responsible for gas exchange within a Vox.
+ent-OrganVoxLungs = мешки газообмена
+    .desc = Орган, отвечающий за газообмен в организме Вокса.
 
-ent-OrganVoxHeart = circulatory pump
-    .desc = A strange purple organ that pumps circulatory fluid through the body of a Vox.
+ent-OrganVoxHeart = насос кровообращения
+    .desc = Странный фиолетовый орган, который прокачивает циркулирующую жидкость по телу Вокса.
 
-ent-OrganVoxStomach = material processor
-    .desc = The organ responsible for processing materials intaken by a Vox.
+ent-OrganVoxStomach = переработчик веществ
+    .desc = Орган, отвечающий за переработку веществ, поступающих в организм Вокса.
 
-ent-OrganVoxLiver = primary toxin filter
-    .desc = One of two organs responsible for filtering toxins from the bloodstream of a Vox.
+ent-OrganVoxLiver = основной фильтр токсинов
+    .desc = Один из двух органов, фильтрующих токсины в кровотоке Вокса.
 
-ent-OrganVoxKidneys = auxiliary toxin filter
-    .desc = One of two organs responsible for filtering toxins from the bloodstream of a Vox.
+ent-OrganVoxKidneys = вспомогательный фильтр токсинов
+    .desc = Один из двух органов, фильтрующих токсины в кровотоке Вокса.

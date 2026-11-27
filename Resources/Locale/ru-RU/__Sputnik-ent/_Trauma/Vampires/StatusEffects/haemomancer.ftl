@@ -1,8 +1,8 @@
-ent-BloodTendrilSlowdown = blood tendril slowdown
+ent-BloodTendrilSlowdown = замедление от кровавого щупальца
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-BloodPuddleStatusEffect = blood pool
+ent-BloodPuddleStatusEffect = лужа крови
     .desc = { ent-StatusEffectBase.desc }
 
-ent-BloodBringerRiteStatusEffect = blood bringer rite
+ent-BloodBringerRiteStatusEffect = обряд несущего кровь
     .desc = { ent-MobStatusEffectBase.desc }

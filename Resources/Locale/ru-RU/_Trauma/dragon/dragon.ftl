@@ -1,1 +1,1 @@
-dragon-rifts-announcement = Hello crew! due to the placement of 3 dragon rifts in your local area the escape shuttle will now be called, please note that all crew should remain working until it arrives.
+dragon-rifts-announcement = Привет, экипаж! Из-за появления 3 разломов дракона в вашем секторе будет вызван эвакуационный шаттл. Экипаж должен продолжать работу до его прибытия.

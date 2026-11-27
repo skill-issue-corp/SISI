@@ -6,37 +6,37 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-panicbunker-desc = Toggles the panic bunker, which enables stricter restrictions on who's allowed to join the server.
-cmd-panicbunker-help = Usage: panicbunker
-panicbunker-command-enabled = Panic bunker has been enabled.
-panicbunker-command-disabled = Panic bunker has been disabled.
+cmd-panicbunker-desc = Переключает режим «бункер», который ужесточает ограничения на подключение к серверу.
+cmd-panicbunker-help = Использование: panicbunker
+panicbunker-command-enabled = Режим «бункер» включён.
+panicbunker-command-disabled = Режим «бункер» выключен.
 
-cmd-panicbunker_disable_with_admins-desc = Toggles whether or not the panic bunker will disable when an admin connects.
-cmd-panicbunker_disable_with_admins-help = Usage: panicbunker_disable_with_admins
-panicbunker-command-disable-with-admins-enabled = The panic bunker will automatically disable with admins online.
-panicbunker-command-disable-with-admins-disabled = The panic bunker will not automatically disable with admins online.
+cmd-panicbunker_disable_with_admins-desc = Переключает автоматическое выключение режима «бункер» при подключении администратора.
+cmd-panicbunker_disable_with_admins-help = Использование: panicbunker_disable_with_admins
+panicbunker-command-disable-with-admins-enabled = Режим «бункер» будет автоматически выключаться, если на сервере есть администраторы.
+panicbunker-command-disable-with-admins-disabled = Режим «бункер» больше не будет автоматически выключаться, если на сервере есть администраторы.
 
-cmd-panicbunker_enable_without_admins-desc = Toggles whether or not the panic bunker will enable when the last admin disconnects.
-cmd-panicbunker_enable_without_admins-help = Usage: panicbunker_enable_without_admins
-panicbunker-command-enable-without-admins-enabled = The panic bunker will automatically enable without admins online.
-panicbunker-command-enable-without-admins-disabled = The panic bunker will not automatically enable without admins online.
+cmd-panicbunker_enable_without_admins-desc = Переключает автоматическое включение режима «бункер», когда отключается последний администратор.
+cmd-panicbunker_enable_without_admins-help = Использование: panicbunker_enable_without_admins
+panicbunker-command-enable-without-admins-enabled = Режим «бункер» будет автоматически включаться, если на сервере нет администраторов.
+panicbunker-command-enable-without-admins-disabled = Режим «бункер» больше не будет автоматически включаться, если на сервере нет администраторов.
 
-cmd-panicbunker_count_deadminned_admins-desc = Toggles whether or not to count deadminned admins when automatically enabling and disabling the panic bunker.
-cmd-panicbunker_count_deadminned_admins-help = Usage: panicbunker_count_deadminned_admins
-panicbunker-command-count-deadminned-admins-enabled = The panic bunker will count deadminned admins when made to automatically enable and disable.
-panicbunker-command-count-deadminned-admins-disabled = The panic bunker will not count deadminned admins when made to automatically enable and disable.
+cmd-panicbunker_count_deadminned_admins-desc = Переключает учёт администраторов, отключивших свои полномочия, при автоматическом включении и выключении режима «бункер».
+cmd-panicbunker_count_deadminned_admins-help = Использование: panicbunker_count_deadminned_admins
+panicbunker-command-count-deadminned-admins-enabled = При автоматическом включении и выключении режима «бункер» будут учитываться администраторы, отключившие свои полномочия.
+panicbunker-command-count-deadminned-admins-disabled = При автоматическом включении и выключении режима «бункер» администраторы, отключившие свои полномочия, учитываться не будут.
 
-cmd-panicbunker_show_reason-desc = Toggles whether or not to show connecting clients the reason why the panic bunker blocked them from joining.
-cmd-panicbunker_show_reason-help = Usage: panicbunker_show_reason
-panicbunker-command-show-reason-enabled = The panic bunker will now show a reason to users it blocks from connecting.
-panicbunker-command-show-reason-disabled = The panic bunker will no longer show a reason to users it blocks from connecting.
+cmd-panicbunker_show_reason-desc = Переключает показ причины, по которой режим «бункер» отклонил подключение.
+cmd-panicbunker_show_reason-help = Использование: panicbunker_show_reason
+panicbunker-command-show-reason-enabled = Режим «бункер» теперь будет сообщать пользователям причину отказа в подключении.
+panicbunker-command-show-reason-disabled = Режим «бункер» больше не будет сообщать пользователям причину отказа в подключении.
 
-cmd-panicbunker_min_account_age-desc = Gets or sets the minimum account age in minutes that an account must have to be allowed to connect with the panic bunker enabled.
-cmd-panicbunker_min_account_age-help = Usage: panicbunker_min_account_age <minutes>
-panicbunker-command-min-account-age-is = The minimum account age for the panic bunker is {$minutes} minutes.
-panicbunker-command-min-account-age-set = Set the minimum account age for the panic bunker to {$minutes} minutes.
+cmd-panicbunker_min_account_age-desc = Показывает или задаёт минимальный возраст учётной записи в минутах, необходимый для подключения в режиме «бункер».
+cmd-panicbunker_min_account_age-help = Использование: panicbunker_min_account_age <минуты>
+panicbunker-command-min-account-age-is = Минимальный возраст учётной записи для режима «бункер» в минутах: {$minutes}.
+panicbunker-command-min-account-age-set = Минимальный возраст учётной записи для режима «бункер» установлен в минутах: {$minutes}.
 
-cmd-panicbunker_min_overall_minutes-desc = Gets or sets the minimum overall playtime in minutes that an account must have to be allowed to connect with the panic bunker enabled.
-cmd-panicbunker_min_overall_minutes-help = Usage: panicbunker_min_overall_minutes <minutes>
-panicbunker-command-min-overall-minutes-is = The minimum overall playtime for the panic bunker is {$minutes} minutes.
-panicbunker-command-min-overall-minutes-set = Set the minimum overall playtime for the panic bunker to {$minutes} minutes.
+cmd-panicbunker_min_overall_minutes-desc = Показывает или задаёт минимальное общее игровое время в минутах, необходимое для подключения в режиме «бункер».
+cmd-panicbunker_min_overall_minutes-help = Использование: panicbunker_min_overall_minutes <минуты>
+panicbunker-command-min-overall-minutes-is = Минимальное общее игровое время для режима «бункер» в минутах: {$minutes}.
+panicbunker-command-min-overall-minutes-set = Минимальное общее игровое время для режима «бункер» установлено в минутах: {$minutes}.

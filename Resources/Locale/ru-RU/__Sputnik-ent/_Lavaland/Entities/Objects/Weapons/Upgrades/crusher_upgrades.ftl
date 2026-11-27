@@ -1,32 +1,32 @@
-ent-BaseCrusherUpgradeMain = crusher upgrade capsule
-    .desc = A modkit for crusher weapons.
+ent-BaseCrusherUpgradeMain = капсула улучшения крушителя
+    .desc = Модкит для оружия-крушителя.
 
-ent-CrusherUpgradeMainMarker = crusher upgrade capsule (kinetic marker)
-    .desc = Compact generator of a bluespace field that can be shot on a living target to make it more vulnerable to crusher attacks. Its projectile also can destroy some types of rocks.
+ent-CrusherUpgradeMainMarker = капсула улучшения крушителя (кинетическая метка)
+    .desc = Компактный генератор блюспейс-поля. Если выстрелить в живую цель, она станет уязвимее к атакам крушителя. Снаряд также разрушает некоторые виды камня.
 
-ent-CrusherUpgradeMainRudeBuster = crusher upgrade capsule (rude buster)
-    .desc = Focuses determination of the user in itself and emits it as a half-magical projectile. You can see something constantly bouncing off inside it.
+ent-CrusherUpgradeMainRudeBuster = капсула улучшения крушителя (грубый разгром)
+    .desc = Концентрирует в себе решимость пользователя и выпускает её в виде полумагического снаряда. Видно, как внутри постоянно что-то отскакивает.
 
-ent-BaseCrusherUpgradeBlade = crusher blade upgrade
-    .desc = A modkit for crusher weapons.
+ent-BaseCrusherUpgradeBlade = улучшение лезвия крушителя
+    .desc = Модкит для оружия-крушителя.
 
-ent-CrusherUpgradeBladeLavaAspect = crusher blade upgrade (lava aspect)
-    .desc = A crystal made out of uncooling lava, making it constantly hot and highly flammable.
+ent-CrusherUpgradeBladeLavaAspect = улучшение лезвия крушителя (аспект лавы)
+    .desc = Кристалл из неостывающей лавы, вечно горячий и легковоспламеняющийся.
 
-ent-CrusherUpgradeBladeIceFrost = crusher blade upgrade (ice frost)
-    .desc = A crystal that emits coldness, probably by violating laws of thermodynamics.
+ent-CrusherUpgradeBladeIceFrost = улучшение лезвия крушителя (ледяной мороз)
+    .desc = Кристалл, излучающий холод, вероятно, в нарушение законов термодинамики.
 
-ent-CrusherUpgradeBladeSharpness = crusher blade upgrade (sharpness)
-    .desc = A simple grindstone that improves the damage of a crusher.
+ent-CrusherUpgradeBladeSharpness = улучшение лезвия крушителя (острота)
+    .desc = Простое точило, увеличивающее урон крушителя.
 
-ent-BaseCrusherUpgradeHandle = crusher handle upgrade
-    .desc = A modkit for crusher weapons.
+ent-BaseCrusherUpgradeHandle = улучшение рукояти крушителя
+    .desc = Модкит для оружия-крушителя.
 
-ent-CrusherUpgradeHandleWeights = crusher handle upgrade (weights)
-    .desc = A set of weighed loads that can be attached to a handle to make a weapon deal knockback to enemies.
+ent-CrusherUpgradeHandleWeights = улучшение рукояти крушителя (утяжелители)
+    .desc = Набор грузов, которые крепятся к рукояти, чтобы оружие отбрасывало врагов.
 
-ent-CrusherUpgradeHandleLight = crusher handle upgrade (lightweight)
-    .desc = A lightweight handle replacement that allows you to make attacks more frequently.
+ent-CrusherUpgradeHandleLight = улучшение рукояти крушителя (облегчение)
+    .desc = Лёгкая сменная рукоять, позволяющая наносить удары чаще.
 
-ent-CrusherUpgradeHandleRange = crusher handle upgrade (range)
-    .desc = A long handle replacement that allows you to make attacks more frequently.
+ent-CrusherUpgradeHandleRange = улучшение рукояти крушителя (дальность)
+    .desc = Длинная сменная рукоять, позволяющая наносить удары чаще.

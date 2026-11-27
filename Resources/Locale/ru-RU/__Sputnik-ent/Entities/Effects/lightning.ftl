@@ -1,20 +1,20 @@
-ent-BaseLightning = lightning
+ent-BaseLightning = молния
     .desc = { "" }
 
-ent-Lightning = lightning
+ent-Lightning = молния
     .desc = { ent-BaseLightning.desc }
 
-ent-LightningRevenant = spooky lightning
+ent-LightningRevenant = жуткая молния
     .desc = { ent-BaseLightning.desc }
 
-ent-ChargedLightning = charged lightning
+ent-ChargedLightning = заряженная молния
     .desc = { ent-BaseLightning.desc }
 
-ent-Spark = lightning
+ent-Spark = молния
     .desc = { ent-BaseLightning.desc }
 
-ent-SuperchargedLightning = supercharged lightning
+ent-SuperchargedLightning = сверхзаряженная молния
     .desc = { ent-ChargedLightning.desc }
 
-ent-HyperchargedLightning = hypercharged lightning
+ent-HyperchargedLightning = гиперзаряженная молния
     .desc = { ent-ChargedLightning.desc }

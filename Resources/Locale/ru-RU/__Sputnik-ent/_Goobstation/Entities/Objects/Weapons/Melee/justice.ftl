@@ -1,2 +1,2 @@
-ent-Justice = Justice
-    .desc = An expensive & self-recharging energy sword, designed specifically for the Head of Security. If it were not for injustice, man would not know justice.
+ent-Justice = Правосудие
+    .desc = Дорогой самозарядный энергетический меч, созданный специально для Главы Службы Безопасности. Не будь несправедливости, люди не знали бы правосудия.

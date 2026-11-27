@@ -6,80 +6,80 @@ ent-BaseMobTrashPanda = { "" }
 
 ent-MobMonkeyGhostrole = { ent-MobMonkey }
     .desc = { ent-MobMonkey.desc }
-    .suffix = Ghostrole
+    .suffix = Роль Призрака
 
 ent-MobKoboldGhostrole = { ent-MobKobold }
     .desc = { ent-MobKobold.desc }
-    .suffix = Ghostrole
+    .suffix = Роль Призрака
 
-ent-MobBunnySea = sea bunny
-    .desc = A cute, fluffy, sea bunny.
+ent-MobBunnySea = морской заяц
+    .desc = Милый пушистый морской заяц.
 
-ent-MobBunny = bunny
-    .desc = A cute, fluffy, bunny.
+ent-MobBunny = кролик
+    .desc = Милый пушистый кролик.
 
-ent-MobBunnyEvil = bunny
-    .desc = A cute, fluffy, bunny. It wants to kill you.
+ent-MobBunnyEvil = кролик
+    .desc = Милый пушистый кролик. Он хочет вас убить.
 
-ent-MobEelSea = eel
-    .desc = A slippery, slithering fish that delivers a shocking bite.
+ent-MobEelSea = угорь
+    .desc = Скользкая, извивающаяся рыба, чей укус бьёт током.
 
-ent-MobSnakeGrass = grass snake
+ent-MobSnakeGrass = уж
     .desc = { ent-MobSnake.desc }
 
-ent-MobCobra = cobra
-    .desc = A patterned hood and a venomous bite. Best admired from a distance.
+ent-MobCobra = кобра
+    .desc = Узорчатый капюшон и ядовитый укус. Лучше любоваться издалека.
 
 ent-SolutionVenomCobra = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
-ent-MobYellowBellySnake = yellow belly snake
-    .desc = A menacing yellow-bellied snake.
+ent-MobYellowBellySnake = желтобрюхая змея
+    .desc = Грозная желтобрюхая змея.
 
-ent-MobMantis = Mantis
-    .desc = A stealthy predator.
+ent-MobMantis = Богомол
+    .desc = Скрытный хищник.
 
-ent-MobMantisShrimp = mantis shrimp
-    .desc = A deceptively small crustacean with a punch that can shatter bone. Do not let it near the glass.
+ent-MobMantisShrimp = рак-богомол
+    .desc = Обманчиво мелкое ракообразное, способное ударом раздробить кость. Не подпускайте его к стеклу.
 
-ent-MobShrimp = shrimp
-    .desc = A dangerous crustacean, try to dodge its bubbles.
+ent-MobShrimp = креветка
+    .desc = Опасное ракообразное, постарайтесь увернуться от его пузырей.
 
-ent-MobDartFrogBase = dart frog
-    .desc = A brilliantly colored amphibian. Its skin secretes a potent paralytic toxin.
+ent-MobDartFrogBase = древолаз
+    .desc = Ярко окрашенное земноводное. Его кожа выделяет сильный паралитический яд.
 
-ent-MobDartFrog1 = strawberry poison frog
-    .desc = Small, colorful, and deceptively dangerous. Its skin secretes toxins strong enough to discourage most predators.
+ent-MobDartFrog1 = клубничный древолаз
+    .desc = Маленький, яркий и обманчиво опасный. Его кожа выделяет токсины, способные отпугнуть большинство хищников.
 
 ent-SolutionVenomDartFrog1 = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
-ent-MobDartFrog2 = golden poison frog
-    .desc = A brilliantly marked poison frog carrying one of nature's deadliest toxins. Even predators know to keep their distance.
+ent-MobDartFrog2 = золотой древолаз
+    .desc = Ярко окрашенный древолаз с одним из самых смертоносных ядов в природе. Даже хищники держатся от него подальше.
 
 ent-SolutionVenomDartFrog2 = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
-ent-MobDartFrog3 = azure poison frog
-    .desc = A striking blue poison frog with mild but effective chemical defenses. Best appreciated without direct contact.
+ent-MobDartFrog3 = лазурный древолаз
+    .desc = Ярко-синий древолаз с умеренной, но действенной химической защитой. Лучше любоваться им, не прикасаясь.
 
 ent-SolutionVenomDartFrog3 = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
-ent-MobDartFrog4 = green-and-black poison frog
-    .desc = Bright warning colors advertise a respectable toxin load. Beautiful to look at, less pleasant to handle.
+ent-MobDartFrog4 = чёрно-зелёный древолаз
+    .desc = Яркая предупреждающая окраска выдаёт солидный запас яда. Любоваться им приятно, брать в руки - не очень.
 
 ent-SolutionVenomDartFrog4 = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
-ent-MobDartFrog5 = kokoe poison frog
-    .desc = A dark forest-dwelling poison frog whose potent skin toxins make it a dangerous catch for anything hungry enough to try.
+ent-MobDartFrog5 = древолаз кокоэ
+    .desc = Тёмный лесной древолаз. Из-за сильного кожного яда он опасен для любого, кто достаточно голоден, чтобы попытаться его поймать.
 
 ent-SolutionVenomDartFrog5 = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
-ent-MobDartFrog6 = rose poison frog
-    .desc = A rare pink poison frog whose toxins are comparatively weak, though still unpleasant for the unwary.
+ent-MobDartFrog6 = розовый древолаз
+    .desc = Редкий розовый древолаз. Его яд сравнительно слаб, но может доставить неприятности тем, кто потерял бдительность.
 
 ent-SolutionVenomDartFrog6 = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
@@ -90,5 +90,5 @@ ent-SolutionMouseBites = { ent-SolutionWeapon }
 ent-SolutionClownSpider = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
-ent-MobBabySpider = baby spider
-    .desc = A growing spider, better deal with it before it gets big.
+ent-MobBabySpider = паучонок
+    .desc = Подрастающий паук. Лучше разобраться с ним, пока он не вырос.

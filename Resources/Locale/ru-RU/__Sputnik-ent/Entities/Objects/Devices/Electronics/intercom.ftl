@@ -1,2 +1,2 @@
-ent-IntercomElectronics = intercom electronics
-    .desc = An electronics board used in intercoms.
+ent-IntercomElectronics = электроника интеркома
+    .desc = Электронная плата для интеркомов.

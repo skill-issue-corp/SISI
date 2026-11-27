@@ -4,15 +4,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-tippy-desc = Broadcast a message as Tippy the clown.
-cmd-tippy-help = tippy <user | all> <message> [entity prototype | null] [speak time] [slide time] [waddle interval]
-cmd-tippy-auto-1 = <user | all>
-cmd-tippy-auto-2 = message
-cmd-tippy-auto-3 = entity prototype
-cmd-tippy-auto-4 = speak time, in seconds
-cmd-tippy-auto-5 = slide time, in seconds
-cmd-tippy-auto-6 = waddle interval, in seconds
-cmd-tippy-error-no-user = User not found.
-cmd-tippy-error-no-prototype = Prototype not found: {$proto}
+cmd-tippy-desc = Рассылает сообщение от имени клоуна Типпи.
+cmd-tippy-help = tippy <пользователь | all> <сообщение> [прототип объекта | null] [длительность речи] [длительность выезда] [интервал покачивания]
+cmd-tippy-auto-1 = <пользователь | all>
+cmd-tippy-auto-2 = сообщение
+cmd-tippy-auto-3 = прототип объекта
+cmd-tippy-auto-4 = длительность речи в секундах
+cmd-tippy-auto-5 = длительность выезда в секундах
+cmd-tippy-auto-6 = интервал покачивания в секундах
+cmd-tippy-error-no-user = Пользователь не найден.
+cmd-tippy-error-no-prototype = Прототип не найден: {$proto}
 
-cmd-tip-desc = Spawn a random game tip.
+cmd-tip-desc = Показывает случайную игровую подсказку.

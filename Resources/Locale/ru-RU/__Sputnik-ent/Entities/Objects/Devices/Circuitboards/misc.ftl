@@ -1,2 +1,2 @@
-ent-StationMapCircuitboard = station map electronics
-    .desc = An electronics board used in station maps.
+ent-StationMapCircuitboard = электроника карты станции
+    .desc = Электронная плата для карт станции.

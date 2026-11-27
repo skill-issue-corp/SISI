@@ -1,52 +1,52 @@
-ent-SurveillanceCameraRouterBase = camera router
-    .desc = A surveillance camera router. It routes. Perhaps.
+ent-SurveillanceCameraRouterBase = маршрутизатор камер
+    .desc = Маршрутизатор камер наблюдения. Маршрутизирует. Возможно.
 
 ent-SurveillanceCameraRouterConstructed = { ent-SurveillanceCameraRouterBase }
     .desc = { ent-SurveillanceCameraRouterBase.desc }
-    .suffix = Constructed
+    .suffix = Собранный
 
-ent-SurveillanceCameraRouterEngineering = engineering camera router
+ent-SurveillanceCameraRouterEngineering = маршрутизатор камер инженерии
     .desc = { ent-SurveillanceCameraRouterBase.desc }
-    .suffix = Engineering
+    .suffix = Инженерный Отдел
 
-ent-SurveillanceCameraRouterSecurity = security camera router
+ent-SurveillanceCameraRouterSecurity = маршрутизатор камер службы безопасности
     .desc = { ent-SurveillanceCameraRouterBase.desc }
-    .suffix = Security
+    .suffix = Служба Безопасности
 
-ent-SurveillanceCameraRouterScience = science camera router
+ent-SurveillanceCameraRouterScience = маршрутизатор камер научного отдела
     .desc = { ent-SurveillanceCameraRouterBase.desc }
-    .suffix = Science
+    .suffix = Наука
 
-ent-SurveillanceCameraRouterSupply = supply camera router
+ent-SurveillanceCameraRouterSupply = маршрутизатор камер снабжения
     .desc = { ent-SurveillanceCameraRouterBase.desc }
-    .suffix = Supply
+    .suffix = Снабжение
 
-ent-SurveillanceCameraRouterCommand = command camera router
+ent-SurveillanceCameraRouterCommand = маршрутизатор камер командования
     .desc = { ent-SurveillanceCameraRouterBase.desc }
-    .suffix = Command
+    .suffix = Командование
 
-ent-SurveillanceCameraRouterService = service camera router
+ent-SurveillanceCameraRouterService = маршрутизатор камер обслуживания
     .desc = { ent-SurveillanceCameraRouterBase.desc }
-    .suffix = Service
+    .suffix = Обслуживание
 
-ent-SurveillanceCameraRouterMedical = medical camera router
+ent-SurveillanceCameraRouterMedical = маршрутизатор камер медотсека
     .desc = { ent-SurveillanceCameraRouterBase.desc }
-    .suffix = Medical
+    .suffix = Медотсек
 
-ent-SurveillanceCameraRouterGeneral = general camera router
+ent-SurveillanceCameraRouterGeneral = общий маршрутизатор камер
     .desc = { ent-SurveillanceCameraRouterBase.desc }
-    .suffix = General
+    .suffix = Общий
 
-ent-SurveillanceCameraWirelessRouterBase = wireless camera router
-    .desc = A wireless surveillance camera router. It routes. Perhaps.
+ent-SurveillanceCameraWirelessRouterBase = маршрутизатор беспроводных камер
+    .desc = Маршрутизатор беспроводных камер наблюдения. Маршрутизирует. Возможно.
 
 ent-SurveillanceCameraWirelessRouterConstructed = { ent-SurveillanceCameraWirelessRouterBase }
     .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }
-    .suffix = Constructed
+    .suffix = Собранный
 
-ent-SurveillanceCameraWirelessRouterEntertainment = entertainment camera router
+ent-SurveillanceCameraWirelessRouterEntertainment = маршрутизатор развлекательных камер
     .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }
-    .suffix = Entertainment
+    .suffix = Развлечения
 
-ent-SurveillanceCameraWirelessRouterXenoborg = xenoborg camera wireless router
+ent-SurveillanceCameraWirelessRouterXenoborg = маршрутизатор беспроводных камер ксеноборгов
     .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }

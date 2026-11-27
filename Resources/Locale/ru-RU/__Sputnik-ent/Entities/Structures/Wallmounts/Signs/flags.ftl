@@ -1,17 +1,17 @@
 ent-BaseFlag = { ent-BaseSign }
     .desc = { ent-BaseSign.desc }
 
-ent-BlankFlag = blank flag
-    .desc = Some piece of white cloth. Definitely not the flag of France.
+ent-BlankFlag = пустой флаг
+    .desc = Какой-то кусок белой ткани. Точно не флаг Франции.
 
-ent-NTFlag = Nanotrasen flag
-    .desc = Glory to NT! Wait, they really made a flag for a corporation?
+ent-NTFlag = флаг NanoTrasen
+    .desc = Слава NT! Погодите, они правда сделали флаг для корпорации?
 
-ent-SyndieFlag = syndicate flag
-    .desc = Smells bloody. Death to NT!
+ent-SyndieFlag = флаг синдиката
+    .desc = Пахнет кровью. Смерть NT!
 
-ent-LGBTQFlag = LGBTQ flag
-    .desc = "Be gay do crime" flag.
+ent-LGBTQFlag = флаг ЛГБТК
+    .desc = Флаг «будь геем, твори преступления».
 
-ent-PirateFlag = pirate flag
-    .desc = Raise the jolly roger, scallywags!
+ent-PirateFlag = пиратский флаг
+    .desc = Поднимайте весёлого роджера, головорезы!

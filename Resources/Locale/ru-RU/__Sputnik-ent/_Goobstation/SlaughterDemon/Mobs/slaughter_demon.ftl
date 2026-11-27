@@ -1,8 +1,8 @@
-ent-BaseMobSlaughterDemon = slaughter demon
-    .desc = A large, menacing creature covered in armored black scales. You should run.
+ent-BaseMobSlaughterDemon = демон резни
+    .desc = Большое, грозное существо, покрытое чёрными броневыми чешуйками. Вам лучше бежать.
 
-ent-MobLaughterDemon = laughter demon
-    .desc = A large, adorable creature covered in armor with pink bows.
+ent-MobLaughterDemon = демон смеха
+    .desc = Большое, очаровательное существо в броне с розовыми бантиками.
 
-ent-MobLesserSlaughterDemon = lesser slaughter demon
+ent-MobLesserSlaughterDemon = малый демон резни
     .desc = { ent-BaseMobSlaughterDemon.desc }

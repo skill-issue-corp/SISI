@@ -1,37 +1,37 @@
-ent-BaseMobCarp = space carp
-    .desc = It's a space carp.
+ent-BaseMobCarp = космический карп
+    .desc = Это космический карп.
 
 ent-MobCarp = { ent-BaseMobCarp }
     .desc = { ent-BaseMobCarp.desc }
 
-ent-MobCarpMagic = magicarp
-    .desc = Looks like some kind of fish. Might be magical.
+ent-MobCarpMagic = магикарп
+    .desc = Похоже на какую-то рыбу. Может, даже волшебную.
 
-ent-MobCarpHolo = holocarp
-    .desc = Carp made out of holographic energies. Sadly for you, it is very much real.
+ent-MobCarpHolo = голокарп
+    .desc = Карп из голографической энергии. К несчастью для вас, он вполне настоящий.
 
-ent-MobCarpRainbow = rainbow carp
-    .desc = Wow such a shiny fishie!
+ent-MobCarpRainbow = радужный карп
+    .desc = Ух ты, какая блестящая рыбка!
 
 ent-MobCarpSalvage = { ent-MobCarp }
     .desc = { ent-MobCarp.desc }
-    .suffix = Salvage Ruleset
+    .suffix = Правила Утилизации
 
-ent-MobCarpDragon = space carp
+ent-MobCarpDragon = космический карп
     .desc = { ent-MobDragonBrood.desc }
-    .suffix = DragonBrood
+    .suffix = ДраконийВыводок
 
 ent-MobCarpDungeon = { ent-MobCarp }
     .desc = { ent-MobCarp.desc }
-    .suffix = Dungeon
+    .suffix = Подземелье
 
-ent-MobShark = sharkminnow
-    .desc = A dangerous shark from the blackness of endless space, who loves to drink blood.
+ent-MobShark = акулёк
+    .desc = Опасная акула из тьмы бескрайнего космоса. Любит пить кровь.
 
 ent-MobSharkSalvage = { ent-MobShark }
     .desc = { ent-MobShark.desc }
-    .suffix = Salvage Ruleset
+    .suffix = Правила Утилизации
 
 ent-MobSharkDragon = { ent-MobDragonBrood }
     .desc = { ent-MobDragonBrood.desc }
-    .suffix = DragonBrood
+    .suffix = ДраконийВыводок

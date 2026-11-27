@@ -1,2 +1,2 @@
-heretics-title = Heretics
-heretics-description = Attention. Breaches in the mansus detected, heretics are onboard the station.
+heretics-title = Еретики
+heretics-description = Внимание. Обнаружены разломы в мансусе, на борту станции находятся еретики.

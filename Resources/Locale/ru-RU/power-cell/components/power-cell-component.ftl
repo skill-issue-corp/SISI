@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-power-cell-component-examine-details = The charge indicator reads [color=#5E7C16]{$currentCharge}[/color] %.
-power-cell-component-examine-details-no-battery = There is no power cell inserted.
-power-cell-no-battery = No power cell found
-power-cell-insufficient = Insufficient power
+power-cell-component-examine-details = Индикатор заряда показывает [color=#5E7C16]{$currentCharge}[/color] %.
+power-cell-component-examine-details-no-battery = Батарея не установлена.
+power-cell-no-battery = Батарея не найдена
+power-cell-insufficient = Недостаточно энергии

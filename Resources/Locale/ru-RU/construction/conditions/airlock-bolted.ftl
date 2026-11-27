@@ -7,7 +7,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # AirlockBolted
-construction-examine-condition-airlock-bolt = First, bolt the {$entityName}.
-construction-examine-condition-airlock-unbolt = First, unbolt the {$entityName}.
-construction-step-condition-airlock-bolt = It must be bolted.
-construction-step-condition-airlock-unbolt = It must be unbolted.
+construction-examine-condition-airlock-bolt = Сначала опустите болты шлюза {$entityName}.
+construction-examine-condition-airlock-unbolt = Сначала поднимите болты шлюза {$entityName}.
+construction-step-condition-airlock-bolt = Болты должны быть опущены.
+construction-step-condition-airlock-unbolt = Болты должны быть подняты.

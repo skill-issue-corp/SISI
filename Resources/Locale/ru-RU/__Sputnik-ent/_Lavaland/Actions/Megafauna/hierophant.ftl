@@ -1,14 +1,14 @@
-ent-ActionBaseHierophant = hierophant action
+ent-ActionBaseHierophant = действие иерофанта
     .desc = { ent-BaseAction.desc }
 
-ent-ActionHierophantBox = Expanding Box
-    .desc = Spawns an expanding box on the target position.
+ent-ActionHierophantBox = Растущий Квадрат
+    .desc = Создаёт расширяющийся квадрат в выбранной точке.
 
-ent-ActionHierophantCrosses = Sequence Crosses
-    .desc = Spawns a sequence of crosses on the target position.
+ent-ActionHierophantCrosses = Череда Крестов
+    .desc = Создаёт череду крестов в выбранной точке.
 
-ent-ActionHierophantChasers = Spawn Chasers
-    .desc = Spawns hierophant tile chasers that move towards the target.
+ent-ActionHierophantChasers = Создать Преследователей
+    .desc = Создаёт преследующие тайлы иерофанта, которые движутся к цели.
 
-ent-ActionHierophantBlink = Blink
-    .desc = Teleports you to the target position.
+ent-ActionHierophantBlink = Скачок
+    .desc = Телепортирует вас в выбранную точку.

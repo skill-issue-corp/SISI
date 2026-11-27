@@ -1,9 +1,9 @@
-ent-RevUnfinishedMachine = steel contraption
-    .desc = A large mass of steel worked into some kind of machine. Only a madman knows what this could be!
+ent-RevUnfinishedMachine = стальная штуковина
+    .desc = Груда стали в форме какого-то устройства. Только безумец знает, что это такое!
 
-ent-RevUnfinishedTurret = turret base
-    .desc = A lump of steel mounted to a tripod, not very imposing.
+ent-RevUnfinishedTurret = основание турели
+    .desc = Кусок стали на треноге. Выглядит не очень внушительно.
 
 ent-RevUnfinishedTurretBarrel = { ent-RevUnfinishedTurret }
-    .desc = A homemade anti-personnel turret. It still needs more work to be done, though keep your eyes clear of its barrel.
-    .suffix = Barrel
+    .desc = Самодельная противопехотная турель. Её ещё надо доделать, но в ствол лучше не заглядывать.
+    .suffix = Ствол

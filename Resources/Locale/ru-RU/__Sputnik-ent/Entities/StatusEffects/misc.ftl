@@ -10,16 +10,16 @@ ent-MobStatusEffectDebuff = { ent-MobStatusEffectBase }
 ent-MobStandStatusEffectBase = { ent-MobStatusEffectDebuff }
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectForcedSleeping = forced sleep
+ent-StatusEffectForcedSleeping = принудительный сон
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectSSDSleeping = forced sleep
+ent-StatusEffectSSDSleeping = принудительный сон
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectPressureImmunity = pressure immunity
+ent-StatusEffectPressureImmunity = невосприимчивость к давлению
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-MutedStatusEffectBase = muted
+ent-MutedStatusEffectBase = немота
     .desc = { ent-MobStatusEffectBase.desc }
 
 ent-StatusEffectMuted = { ent-MutedStatusEffectBase }
@@ -31,26 +31,26 @@ ent-StatusEffectMimeMuted = { ent-MutedStatusEffectBase }
 ent-StatusEffectVentriloquistPuppetMuted = { ent-MutedStatusEffectBase }
     .desc = { ent-MutedStatusEffectBase.desc }
 
-ent-StatusEffectDrowsiness = drowsiness
+ent-StatusEffectDrowsiness = сонливость
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectSeeingRainbow = hallucinations
+ent-StatusEffectSeeingRainbow = галлюцинации
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectWoozy = woozy
+ent-StatusEffectWoozy = дурнота
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectDrunk = drunk
+ent-StatusEffectDrunk = опьянение
     .desc = { ent-StatusEffectWoozy.desc }
 
-ent-StatusEffectBlindness = temporary blindness
+ent-StatusEffectBlindness = временная слепота
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectFlashed = flashed
+ent-StatusEffectFlashed = ослепление вспышкой
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectForcedItemCatEars = forced cat ears
+ent-StatusEffectForcedItemCatEars = принудительное ношение кошачьих ушей
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectForcedItemMaid = forced maid outfit
+ent-StatusEffectForcedItemMaid = принудительное ношение формы горничной
     .desc = { ent-MobStatusEffectDebuff.desc }

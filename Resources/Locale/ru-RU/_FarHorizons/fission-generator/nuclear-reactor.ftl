@@ -1,46 +1,46 @@
 ### Popups
-reactor-smoke-start = The {$owner} begins to smoke!
-reactor-smoke-stop = The {$owner} stops smoking.
-reactor-fire-start = The {$owner} begins to burn!
-reactor-fire-stop = The {$owner} stops burning.
+reactor-smoke-start = {$owner} начинает дымиться!
+reactor-smoke-stop = {$owner} перестаёт дымиться.
+reactor-fire-start = {$owner} загорается!
+reactor-fire-stop = {$owner} перестаёт гореть.
 
-reactor-unanchor-melted = You cannot unanchor the nuclear reactor, it's melted into the hull!
-reactor-unanchor-warning = You cannot unanchor the nuclear reactor while it's not empty or hotter than 80C!
+reactor-unanchor-melted = Ядерный реактор нельзя открепить, он вплавился в корпус!
+reactor-unanchor-warning = Ядерный реактор нельзя открепить, пока он не опустошён или горячее 80C!
 
 ### Messages
-reactor-smoke-start-message = ALERT: The {$owner} has reached a dangerous temperature: {$temperature}K. Intervene immediately to prevent meltdown.
-reactor-smoke-stop-message = The {$owner} has cooled below dangerous temperature. Have a nice day.
-reactor-fire-start-message = ALERT: The {$owner} has reached CRITICAL temperature: {$temperature}K. MELTDOWN IMMINENT.
-reactor-fire-stop-message = The {$owner} has cooled below critical temperature. Meltdown averted.
+reactor-smoke-start-message = ТРЕВОГА: {$owner} достиг опасной температуры: {$temperature}K. Немедленно примите меры, чтобы предотвратить расплавление.
+reactor-smoke-stop-message = {$owner} остыл ниже опасной температуры. Хорошего дня.
+reactor-fire-start-message = ТРЕВОГА: {$owner} достиг КРИТИЧЕСКОЙ температуры: {$temperature}K. СКОРО НАЧНЁТСЯ РАСПЛАВЛЕНИЕ.
+reactor-fire-stop-message = {$owner} остыл ниже критической температуры. Расплавление предотвращено.
 
-reactor-temperature-dangerous-message = The {$owner} is at dangerous temperature: {$temperature}K.
-reactor-temperature-critical-message = The {$owner} is at critical temperature: {$temperature}K.
-reactor-temperature-cooling-message = The {$owner} is cooling: {$temperature}K.
+reactor-temperature-dangerous-message = {$owner} нагрет до опасной температуры: {$temperature}K.
+reactor-temperature-critical-message = {$owner} нагрет до критической температуры: {$temperature}K.
+reactor-temperature-cooling-message = {$owner} остывает: {$temperature}K.
 
-reactor-melting-announcement = A nuclear reactor aboard the station is beginning to meltdown. Evacuation of the surrounding area is advised.
-reactor-melting-announcement-sender = Nuclear Emergency
+reactor-melting-announcement = На борту станции начинается расплавление ядерного реактора. Рекомендуется эвакуация прилегающей зоны.
+reactor-melting-announcement-sender = Ядерная Авария
 
-reactor-meltdown-announcement = A nuclear reactor aboard the station has catastrophically overloaded. Radioactive debris, nuclear fallout, and coolant fires are likely. Immediate evacuation of the surrounding area is strongly advised.
-reactor-meltdown-announcement-sender = Nuclear Meltdown
+reactor-meltdown-announcement = На борту станции произошла катастрофическая перегрузка ядерного реактора. Возможны радиоактивные обломки, радиоактивные осадки и возгорания теплоносителя. Настоятельно рекомендуется немедленная эвакуация прилегающей зоны.
+reactor-meltdown-announcement-sender = Расплавление Реактора
 
 ### UI
-comp-nuclear-reactor-ui-locked = Locked
-comp-nuclear-reactor-ui-insert-button = Insert
-comp-nuclear-reactor-ui-remove-button = Remove
-comp-nuclear-reactor-ui-eject-button = Eject
+comp-nuclear-reactor-ui-locked = Заблокировано
+comp-nuclear-reactor-ui-insert-button = Вставить
+comp-nuclear-reactor-ui-remove-button = Вынуть
+comp-nuclear-reactor-ui-eject-button = Извлечь
 
-comp-nuclear-reactor-ui-view-change = Change View
-comp-nuclear-reactor-ui-view-temp = Temperature View
-comp-nuclear-reactor-ui-view-neutron = Neutron View
-comp-nuclear-reactor-ui-view-target = Target View
-comp-nuclear-reactor-ui-view-fuel = Fuel View
+comp-nuclear-reactor-ui-view-change = Изменить Вид
+comp-nuclear-reactor-ui-view-temp = Вид Температуры
+comp-nuclear-reactor-ui-view-neutron = Вид Нейтронов
+comp-nuclear-reactor-ui-view-target = Вид Цели
+comp-nuclear-reactor-ui-view-fuel = Вид Топлива
 
-comp-nuclear-reactor-ui-status-panel = Reactor Status
-comp-nuclear-reactor-ui-reactor-temp = Temperature
-comp-nuclear-reactor-ui-reactor-rads = Radiation
-comp-nuclear-reactor-ui-reactor-therm = Thermal Power
-comp-nuclear-reactor-ui-reactor-control = Control Rods
-comp-nuclear-reactor-ui-therm-format = { POWERWATTS($power) }t
+comp-nuclear-reactor-ui-status-panel = Состояние Реактора
+comp-nuclear-reactor-ui-reactor-temp = Температура
+comp-nuclear-reactor-ui-reactor-rads = Радиация
+comp-nuclear-reactor-ui-reactor-therm = Тепловая Мощность
+comp-nuclear-reactor-ui-reactor-control = Регулирующие Стержни
+comp-nuclear-reactor-ui-therm-format = { POWERWATTS($power) }т
 
-comp-nuclear-reactor-ui-footer-left = Danger: high radiation.
-comp-nuclear-reactor-ui-footer-right = 0.8 REV 3
+comp-nuclear-reactor-ui-footer-left = Опасно: высокий уровень радиации.
+comp-nuclear-reactor-ui-footer-right = 0.8 РЕД. 3

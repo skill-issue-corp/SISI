@@ -24,6 +24,6 @@ thief-role-greeting-equipment =
     • [color={$hl1}]Контракты:[/color] ваши цели на кражу указаны в меню персонажа. [color={$hl1}]Не попадайтесь охране![/color]
 # SIS-End
 
-objective-issuer-thief = [color=#746694]Criminal[/color]
+objective-issuer-thief = [color=#746694]Преступник[/color]
 
-thief-round-end-agent-name = thief
+thief-round-end-agent-name = вор

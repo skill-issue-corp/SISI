@@ -1,2 +1,2 @@
-nullrod-iradomini-untrained-usage-popup = The bowstring strikes your hand!
-nullrod-faith-untrained-usage-popup = The slide catches on your hand!
+nullrod-iradomini-untrained-usage-popup = Тетива бьёт вас по руке!
+nullrod-faith-untrained-usage-popup = Затвор защемляет вам руку!

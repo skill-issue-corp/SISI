@@ -1,5 +1,5 @@
-ent-CrateFunBlackCaviar = Black caviar crate
-    .desc = Contains 5 tins of black caviar.
+ent-CrateFunBlackCaviar = Ящик с чёрной икрой
+    .desc = Содержит 5 банок чёрной икры.
 
-ent-CrateFunRedCaviar = Red caviar crate
-    .desc = Contains 5 tins of red caviar.
+ent-CrateFunRedCaviar = Ящик с красной икрой
+    .desc = Содержит 5 банок красной икры.

@@ -1,11 +1,11 @@
 ent-BaseShadowDemonAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
 
-ent-ShadowDemonicWhisperAction = Demonic Whisper
-    .desc = Drive mortals insane with demonic telepathy! Remind them you are the reason night lights exist!
+ent-ShadowDemonicWhisperAction = Демонический Шёпот
+    .desc = Сводите смертных с ума демонической телепатией! Напомните им, что ночники придумали из-за вас!
 
-ent-ShadowGrappleAction = Shadow Grapple
-    .desc = Fire one of your hands.
+ent-ShadowGrappleAction = Теневой Крюк
+    .desc = Выстрелите одной из своих рук.
 
-ent-ShadowCrawlAction = Shadow Crawl
-    .desc = Use darkness to phase out of existence.
+ent-ShadowCrawlAction = Теневой Переход
+    .desc = Воспользуйтесь тьмой, чтобы исчезнуть из реальности.

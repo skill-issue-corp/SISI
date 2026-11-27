@@ -1,5 +1,5 @@
-spellbook-tile-toggle-name = Tile Movement
-spellbook-tile-toggle-description = The assistants will not like this.
+spellbook-tile-toggle-name = Движение По Тайлам
+spellbook-tile-toggle-description = Ассистентам это не понравится.
 
-spellbook-curse-of-byond-name = Curse of Byond
-spellbook-curse-of-byond-description = Condemn your target to an eternity of suffering.
+spellbook-curse-of-byond-name = Проклятие Byond
+spellbook-curse-of-byond-description = Обреките цель на вечные страдания.

@@ -1,2 +1,2 @@
-ent-PartCapacitor = capacitor
-    .desc = A capacitor for electronic devices.
+ent-PartCapacitor = конденсатор
+    .desc = Конденсатор для электронных устройств.

@@ -1,60 +1,60 @@
-ent-ClothingBackpackSatchel = satchel
-    .desc = A trendy looking satchel.
+ent-ClothingBackpackSatchel = сумка
+    .desc = Сумка модного вида.
 
-ent-ClothingBackpackSatchelLeather = leather satchel
-    .desc = A trend-setting satchel from a bygone era.
+ent-ClothingBackpackSatchelLeather = кожаная сумка
+    .desc = Сумка из ушедшей эпохи, когда она задавала моду.
 
-ent-ClothingBackpackSatchelEngineering = engineering satchel
-    .desc = A tough satchel with extra pockets.
+ent-ClothingBackpackSatchelEngineering = инженерная сумка
+    .desc = Прочная сумка с дополнительными карманами.
 
-ent-ClothingBackpackSatchelAtmospherics = atmospherics satchel
-    .desc = A tough satchel made of fire resistant fibers. Smells like plasma.
+ent-ClothingBackpackSatchelAtmospherics = сумка атмосферного техника
+    .desc = Прочная сумка из огнестойкого волокна. Пахнет плазмой.
 
-ent-ClothingBackpackSatchelClown = clown satchel
-    .desc = For fast running from security.
+ent-ClothingBackpackSatchelClown = сумка клоуна
+    .desc = Чтобы быстро убегать от охраны.
 
-ent-ClothingBackpackSatchelMime = mime satchel
-    .desc = A satchel designed for the silent and expressive art of miming.
+ent-ClothingBackpackSatchelMime = сумка мима
+    .desc = Сумка для безмолвного и выразительного искусства пантомимы.
 
-ent-ClothingBackpackSatchelMedical = medical satchel
-    .desc = A sterile satchel used in medical departments.
+ent-ClothingBackpackSatchelMedical = медицинская сумка
+    .desc = Стерильная сумка, которую используют в медицинских отделах.
 
-ent-ClothingBackpackSatchelChemistry = chemistry satchel
-    .desc = A sterile satchel with chemist colours.
+ent-ClothingBackpackSatchelChemistry = сумка химика
+    .desc = Стерильная сумка в цветах химика.
 
-ent-ClothingBackpackSatchelVirology = virology satchel
-    .desc = A satchel made of hypo-allergenic fibers. It's designed to help prevent the spread of disease. Smells like monkey.
+ent-ClothingBackpackSatchelVirology = сумка вирусолога
+    .desc = Сумка из гипоаллергенных волокон. Помогает остановить распространение болезней. Пахнет обезьяной.
 
-ent-ClothingBackpackSatchelGenetics = genetics satchel
-    .desc = A sterile satchel with geneticist colours.
+ent-ClothingBackpackSatchelGenetics = сумка генетика
+    .desc = Стерильная сумка в цветах генетика.
 
-ent-ClothingBackpackSatchelScience = science satchel
-    .desc = Useful for holding research materials.
+ent-ClothingBackpackSatchelScience = научная сумка
+    .desc = Подходит для хранения исследовательских материалов.
 
-ent-ClothingBackpackSatchelSecurity = security satchel
-    .desc = A robust satchel for security related needs.
+ent-ClothingBackpackSatchelSecurity = сумка службы безопасности
+    .desc = Робастная сумка для нужд службы безопасности.
 
-ent-ClothingBackpackSatchelBrigmedic = brigmedic satchel
-    .desc = A sterile satchel for medical related needs.
+ent-ClothingBackpackSatchelBrigmedic = сумка бригмедика
+    .desc = Стерильная сумка для медицинских нужд.
 
-ent-ClothingBackpackSatchelCaptain = captain's satchel
-    .desc = An exclusive satchel for Nanotrasen officers.
+ent-ClothingBackpackSatchelCaptain = сумка капитана
+    .desc = Только для офицеров NanoTrasen.
 
-ent-ClothingBackpackSatchelHydroponics = hydroponics satchel
-    .desc = A satchel made of all natural fibers.
+ent-ClothingBackpackSatchelHydroponics = сумка ботаника
+    .desc = Сумка из полностью натуральных волокон.
 
-ent-ClothingBackpackSatchelCargo = cargo satchel
-    .desc = A robust satchel for stealing cargo's loot.
+ent-ClothingBackpackSatchelCargo = сумка карго
+    .desc = Робастная сумка для кражи добычи карго.
 
-ent-ClothingBackpackSatchelSalvage = salvage satchel
-    .desc = A robust satchel for stashing your loot.
+ent-ClothingBackpackSatchelSalvage = сумка утилизатора
+    .desc = Робастная сумка, чтобы прятать добычу.
 
-ent-ClothingBackpackSatchelNinja = spider clan satchel
-    .desc = A robust satchel for stashing your loot.
+ent-ClothingBackpackSatchelNinja = сумка клана паука
+    .desc = Робастная сумка, чтобы прятать добычу.
 
-ent-ClothingBackpackSatchelHolding = satchel of holding
-    .desc = A satchel that opens into a localized pocket of bluespace.
+ent-ClothingBackpackSatchelHolding = блюспейс-сумка
+    .desc = Сумка, открывающаяся в небольшой карман блюспейса.
 
-ent-ClothingBackpackSatchelAdmin = satchel of administration
-    .desc = If you are somehow seeing this, no you're not.
-    .suffix = Admin
+ent-ClothingBackpackSatchelAdmin = сумка администрации
+    .desc = Если вы каким-то образом это видите, то вам показалось.
+    .suffix = Администрация

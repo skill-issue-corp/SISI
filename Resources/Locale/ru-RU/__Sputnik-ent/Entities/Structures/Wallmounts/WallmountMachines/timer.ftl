@@ -1,11 +1,11 @@
-ent-SignalTimer = signal timer
-    .desc = It's a timer for sending timed signals to things.
+ent-SignalTimer = сигнальный таймер
+    .desc = Таймер для отправки сигналов устройствам через заданное время.
 
-ent-ScreenTimer = screen timer
-    .desc = It's a timer for sending timed signals to things, with a built-in screen.
+ent-ScreenTimer = таймер с экраном
+    .desc = Таймер для отправки сигналов устройствам через заданное время, со встроенным экраном.
 
-ent-BrigTimer = brig timer
-    .desc = It's a timer for brig cells.
+ent-BrigTimer = таймер брига
+    .desc = Таймер для камер брига.
 
-ent-TimerFrame = timer frame
-    .desc = A construction frame for a timer.
+ent-TimerFrame = каркас таймера
+    .desc = Каркас для сборки таймера.

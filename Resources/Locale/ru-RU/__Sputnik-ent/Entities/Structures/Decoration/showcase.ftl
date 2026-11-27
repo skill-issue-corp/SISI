@@ -1,14 +1,14 @@
-ent-BaseShowcaseRobot = security robot showcase
-    .desc = A non-functional replica of an old security robot.
+ent-BaseShowcaseRobot = экспонат робота охраны
+    .desc = Нерабочая копия старого робота охраны.
 
-ent-ShowcaseRobot = security robot showcase
-    .desc = A non-functional replica of an old security robot.
+ent-ShowcaseRobot = экспонат робота охраны
+    .desc = Нерабочая копия старого робота охраны.
 
-ent-ShowcaseRobotWhite = white robot showcase
-    .desc = A non-functional replica of an old robot.
+ent-ShowcaseRobotWhite = экспонат белого робота
+    .desc = Нерабочая копия старого робота.
 
-ent-ShowcaseRobotAntique = cargo robot showcase
-    .desc = A non-functional replica of an old cargo robot.
+ent-ShowcaseRobotAntique = экспонат робота карго
+    .desc = Нерабочая копия старого робота карго.
 
-ent-ShowcaseRobotMarauder = marauder showcase
-    .desc = A non-functional replica of a marauder, painted green.
+ent-ShowcaseRobotMarauder = экспонат мародёра
+    .desc = Нерабочая копия мародёра, выкрашенная в зелёный.

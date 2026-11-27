@@ -1,8 +1,8 @@
-ent-BaseStructureFlatpack = base structure flatpack
-    .desc = A flatpack used for constructing something.
+ent-BaseStructureFlatpack = базовая упаковка конструкции
+    .desc = Упаковка для сборки чего-нибудь.
 
-ent-NuclearReactorFlatpack = nuclear reactor flatpack
-    .desc = A flatpack used for constructing a nuclear reactor. Parts sold separately.
+ent-NuclearReactorFlatpack = упаковка ядерного реактора
+    .desc = Упаковка для сборки ядерного реактора. Детали продаются отдельно.
 
-ent-GasTurbineFlatpack = gas turbine flatpack
-    .desc = A flatpack used for constructing a gas turbine.
+ent-GasTurbineFlatpack = упаковка газовой турбины
+    .desc = Упаковка для сборки газовой турбины.

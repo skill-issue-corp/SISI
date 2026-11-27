@@ -1,5 +1,5 @@
-job-name-spacepol = SpacePol Officer
+job-name-spacepol = Офицер КосмоПола
 
-job-name-rancher = Rancher
+job-name-rancher = Животновод
 
-job-name-d-class = D-Class
+job-name-d-class = Класс D

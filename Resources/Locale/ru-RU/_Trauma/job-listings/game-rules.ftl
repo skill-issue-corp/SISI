@@ -1,1 +1,1 @@
-station-event-syndicate-battle-cruiser = An armed and dangerous syndicate vessel has been detected near the station. Evacuation is recommended.
+station-event-syndicate-battle-cruiser = Рядом со станцией обнаружено вооружённое и опасное судно синдиката. Рекомендуется эвакуация.

@@ -1,35 +1,35 @@
-ent-ConstructShell = construct shell
-    .desc = An empty construct shell awaiting a soulstone to whirr to life.
+ent-ConstructShell = оболочка конструкта
+    .desc = Пустая оболочка конструкта, которая оживёт, едва в неё вставят камень души.
 
 ent-ConstructBase = { ent-BaseMob }
     .desc = { ent-BaseMob.desc }
 
-ent-ConstructJuggernautBase = juggernaut
-    .desc = A massive, armored construct built to spearhead attacks and soak up enemy fire.
+ent-ConstructJuggernautBase = джаггернаут
+    .desc = Массивный бронированный конструкт, созданный для атаки в первых рядах под вражеским огнём.
 
 ent-ConstructWraithBase = { ent-ConstructBase }
-    .desc = A wicked, clawed shell constructed to assassinate enemies and sow chaos behind enemy lines.
+    .desc = Зловещая когтистая оболочка, созданная для тайных убийств и сеяния хаоса в тылу врага.
 
-ent-ConstructJuggernaut = juggernaut
+ent-ConstructJuggernaut = джаггернаут
     .desc = { ent-ConstructJuggernautBase.desc }
 
-ent-ConstructArtificer = artificer
-    .desc = A bulbous construct dedicated to building and maintaining the Cult of Nar'Sie's armies.
+ent-ConstructArtificer = ремесленник
+    .desc = Округлый конструкт, служащий для создания и поддержания армий Культа Нар'Си.
 
-ent-ConstructWraith = wraith
-    .desc = A wicked, clawed shell constructed to assassinate enemies and sow chaos behind enemy lines.
+ent-ConstructWraith = фантом
+    .desc = Зловещая когтистая оболочка, созданная для тайных убийств и сеяния хаоса в тылу врага.
 
-ent-ConstructHarvester = harvester
-    .desc = A long, thin construct built to herald Nar'Sie's rise. It'll be all over soon.
+ent-ConstructHarvester = жнец
+    .desc = Длинный тонкий конструкт, призванный возвестить о восхождении Нар'Си. Скоро всё закончится.
 
-ent-ConstructJuggernautHoly = purified juggernaut
+ent-ConstructJuggernautHoly = очищенный джаггернаут
     .desc = { ent-ConstructJuggernautBase.desc }
 
-ent-ConstructArtificerHoly = purified artificer
-    .desc = A bulbous construct dedicated to building and maintaining the holy armies.
+ent-ConstructArtificerHoly = очищенный ремесленник
+    .desc = Округлый конструкт, служащий для создания и поддержания священных армий.
 
-ent-ConstructWraithHoly = purified wraith
+ent-ConstructWraithHoly = очищенный фантом
     .desc = { ent-ConstructWraithBase.desc }
 
-ent-WraithJaunt = jaunt
+ent-WraithJaunt = рывок
     .desc = { ent-BaseMobJaunt.desc }

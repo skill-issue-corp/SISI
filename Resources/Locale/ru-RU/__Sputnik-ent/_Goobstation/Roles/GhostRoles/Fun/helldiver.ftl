@@ -1,3 +1,3 @@
 ent-ClothingBeltMercWebbingHelldiverFilled = { ent-ClothingBeltMercWebbing }
     .desc = { ent-ClothingBeltMercWebbing.desc }
-    .suffix = Helldiver, Filled
+    .suffix = Адский Десантник, Заполнен

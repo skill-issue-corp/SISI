@@ -7,5 +7,5 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 handheld-gps-coordinates-title =
-    Coords:
+    Координаты:
     {$coordinates}

@@ -1,92 +1,92 @@
-ent-BedsheetBase = BedsheetBase
-    .desc = A surprisingly soft linen bedsheet.
+ent-BedsheetBase = ПростыняБазовая
+    .desc = На удивление мягкая льняная простыня.
 
-ent-BedsheetBlack = black bedsheet
+ent-BedsheetBlack = чёрная простыня
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetBlue = blue bedsheet
+ent-BedsheetBlue = синяя простыня
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetBrown = brown bedsheet
+ent-BedsheetBrown = коричневая простыня
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetCaptain = captain's bedsheet
-    .desc = It has a Nanotrasen symbol on it, and was woven with a revolutionary new kind of thread guaranteed to have 0.01% permeability for most non-chemical substances, popular among most modern captains.
+ent-BedsheetCaptain = простыня капитана
+    .desc = На ней символ NanoTrasen, а покрытие соткано из революционной новой нити с гарантированной проницаемостью 0.01% для большинства нехимических веществ. Популярна среди современных капитанов.
 
-ent-BedsheetCE = CE's bedsheet
-    .desc = It's decorated with a wrench emblem. It's highly reflective and stain resistant, so you don't need to worry about ruining it with oil.
+ent-BedsheetCE = простыня СИ
+    .desc = Украшена эмблемой гаечного ключа. Отражает свет и не пропускает пятна. Можно не бояться запачкать её маслом.
 
-ent-BedsheetCentcom = CentComm bedsheet
-    .desc = Woven with advanced nanothread for warmth as well as being very decorated, essential for all officials.
+ent-BedsheetCentcom = простыня ЦК
+    .desc = Соткана из передовой нанонити, хорошо держит тепло и богато украшена. Необходима каждому чиновнику.
 
-ent-BedsheetClown = clown's bedsheet
-    .desc = A rainbow blanket with a clown mask woven in. It smells faintly of bananas.
+ent-BedsheetClown = простыня клоуна
+    .desc = Радужное покрывало с изображением клоунской маски. Слегка пахнет бананами.
 
-ent-BedsheetCMO = CMO's bedsheet
-    .desc = It's a sterilized blanket that has a cross emblem. There's some cat fur on it, likely from Runtime.
+ent-BedsheetCMO = простыня ГВ
+    .desc = Стерилизованное покрывало с крестом. На нём немного кошачьей шерсти, скорее всего, от Рантайм.
 
-ent-BedsheetCosmos = cosmos bedsheet
-    .desc = Made from the dreams of those who wonder at the stars.
+ent-BedsheetCosmos = космическая простыня
+    .desc = Сделана из снов тех, кто любуется звёздами.
 
-ent-BedsheetCult = cult bedsheet
-    .desc = You might dream of Nar'Sie if you sleep with this. It seems rather tattered and glows of an eldritch presence.
+ent-BedsheetCult = простыня культа
+    .desc = Под ней вам может присниться Нар'Си. Она изрядно потрёпана и светится потусторонним светом.
 
-ent-BedsheetGreen = green bedsheet
+ent-BedsheetGreen = зелёная простыня
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetGrey = grey bedsheet
+ent-BedsheetGrey = серая простыня
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetHOP = HOP's bedsheet
-    .desc = It's decorated with a key emblem. For those rare moments when you can rest and cuddle with Ian without someone screaming for you over the radio.
+ent-BedsheetHOP = простыня ГП
+    .desc = Украшена эмблемой ключа. Для тех редких минут, когда можно отдохнуть и обнять Иана, пока никто не орёт в рацию.
 
-ent-BedsheetHOS = HOS's bedsheet
-    .desc = It's decorated with a shield emblem. While crime doesn't sleep, you do, but you are still THE LAW!
+ent-BedsheetHOS = простыня ГСБ
+    .desc = Украшена эмблемой щита. Преступность не спит, а вы спите. И всё равно ВЫ ЗАКОН!
 
-ent-BedsheetIan = Ian's bedsheet
+ent-BedsheetIan = простыня Иана
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetMedical = medical bedsheet
-    .desc = It's a sterilized blanket commonly used in the Medbay. Sterilization is voided if a virologist is present onboard the station.
+ent-BedsheetMedical = медицинская простыня
+    .desc = Стерилизованное покрывало, обычное для Медотсека. Стерилизация аннулируется при наличии вирусолога на станции.
 
-ent-BedsheetMime = mime's bedsheet
-    .desc = A very soothing striped blanket.  All the noise just seems to fade out when you're under the covers in this.
+ent-BedsheetMime = простыня мима
+    .desc = Очень уютное полосатое покрывало. Когда укрываешься им, весь шум будто стихает.
 
-ent-BedsheetNT = NT bedsheet
-    .desc = It has the Nanotrasen logo on it and an aura of duty.
+ent-BedsheetNT = простыня NT
+    .desc = На ней логотип NanoTrasen, и от неё веет чувством долга.
 
-ent-BedsheetOrange = orange bedsheet
+ent-BedsheetOrange = оранжевая простыня
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetPurple = purple bedsheet
+ent-BedsheetPurple = фиолетовая простыня
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetQM = QM's bedsheet
+ent-BedsheetQM = простыня КМ
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetRainbow = rainbow bedsheet
+ent-BedsheetRainbow = радужная простыня
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetRD = RD's bedsheet
-    .desc = It appears to have a beaker emblem, and is made out of fire-resistant material, although it probably won't protect you in the event of fires you're familiar with every day.
+ent-BedsheetRD = простыня НР
+    .desc = Похоже, на ней эмблема мензурки, а сама она изготовлена из огнеупорной ткани. От привычных вам ежедневных пожаров она вряд ли защитит.
 
-ent-BedsheetBrigmedic = brigmedic's bedsheet
-    .desc = Not worse than cotton.
+ent-BedsheetBrigmedic = простыня бригмедика
+    .desc = Не хуже хлопковой.
 
-ent-BedsheetRed = red bedsheet
+ent-BedsheetRed = красная простыня
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetSyndie = syndicate bedsheet
-    .desc = It has a syndicate emblem and it has an aura of evil.
+ent-BedsheetSyndie = простыня синдиката
+    .desc = На ней эмблема синдиката, и от неё веет злом.
 
-ent-BedsheetUSA = USA bedsheet
+ent-BedsheetUSA = простыня США
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetWhite = white bedsheet
+ent-BedsheetWhite = белая простыня
     .desc = { ent-BedsheetBase.desc }
 
-ent-BedsheetWiz = wizard's bedsheet
-    .desc = A special fabric enchanted with magic so you can have an enchanted night. It even glows!
+ent-BedsheetWiz = простыня волшебника
+    .desc = Ткань зачарована магией, чтобы и ваша ночь стала волшебной. Она даже светится!
 
-ent-BedsheetYellow = yellow bedsheet
+ent-BedsheetYellow = жёлтая простыня
     .desc = { ent-BedsheetBase.desc }

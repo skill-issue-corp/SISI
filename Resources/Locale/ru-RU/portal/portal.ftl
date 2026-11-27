@@ -6,9 +6,9 @@
 
 ### Portal verb text
 
-portal-component-ghost-traverse = Traverse
+portal-component-ghost-traverse = Пройти
 
-portal-component-no-linked-entities = Can't ghost traverse a portal that doesn't have exactly 1 linked portal
-portal-component-can-ghost-traverse = Teleport to the linked portal
+portal-component-no-linked-entities = Призрак может пройти через портал, только если с ним связан ровно 1 портал
+portal-component-can-ghost-traverse = Телепортироваться к связанному порталу
 
-portal-component-invalid-configuration-fizzle = The portal fizzles out!
+portal-component-invalid-configuration-fizzle = Портал с шипением гаснет!

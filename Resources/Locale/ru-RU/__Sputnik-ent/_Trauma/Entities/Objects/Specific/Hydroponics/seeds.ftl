@@ -1,39 +1,39 @@
-ent-LemonadeSeeds = packet of lemonade seeds
-    .desc = Not to be confused with the drink.
+ent-LemonadeSeeds = пакет семян лимонадного дерева
+    .desc = С напитком не путать.
 
-ent-CocaSeeds = packet of coca seeds
+ent-CocaSeeds = пакет семян коки
     .desc = { ent-SeedBase.desc }
 
-ent-CoconutSeeds = packet of coconut seeds
+ent-CoconutSeeds = пакет семян кокосовой пальмы
     .desc = { ent-SeedBase.desc }
 
-ent-CherryBombSeeds = packet of cherry seeds
-    .desc = Except they're actually bombs because you're evil.
-    .suffix = bomb
+ent-CherryBombSeeds = пакет семян вишни
+    .desc = Только это на самом деле бомбы, потому что вы злодей.
+    .suffix = бомба
 
-ent-DeliciousAppleSeeds = packet of delicious apple seeds
+ent-DeliciousAppleSeeds = пакет семян аппетитных яблок
     .desc = { ent-AppleSeeds.desc }
 
-ent-MethAppleSeeds = packet of meth apple seeds
+ent-MethAppleSeeds = пакет семян метовых яблок
     .desc = { ent-AppleSeeds.desc }
 
-ent-ClearCornSeeds = packet of clear corn seeds
+ent-ClearCornSeeds = пакет семян прозрачной кукурузы
     .desc = { ent-SeedBase.desc }
 
-ent-PeanutSeeds = packet of peanut seeds
+ent-PeanutSeeds = пакет семян арахиса
     .desc = { ent-SeedBase.desc }
 
-ent-MagicMushroomSeeds = packet of magic mushroom spores
+ent-MagicMushroomSeeds = пакет спор волшебных грибов
     .desc = { ent-SeedBase.desc }
 
-ent-SynthMeatSeeds = packet of synth meat seeds
+ent-SynthMeatSeeds = пакет семян синтмяса
     .desc = { ent-SeedBase.desc }
 
-ent-BalloonMelonSeeds = packet of balloon melon seeds
+ent-BalloonMelonSeeds = пакет семян дынных шариков
     .desc = { ent-WatermelonSeeds.desc }
 
-ent-SteelWheatSeeds = packet of steel wheat seeds
+ent-SteelWheatSeeds = пакет семян стальной пшеницы
     .desc = { ent-SeedBase.desc }
 
-ent-PlasticcapSeeds = packet of plastic cap spores
+ent-PlasticcapSeeds = пакет спор пластиковой шляпки
     .desc = { ent-SeedBase.desc }

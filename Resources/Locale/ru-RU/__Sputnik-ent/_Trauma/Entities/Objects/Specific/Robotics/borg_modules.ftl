@@ -1,26 +1,26 @@
 ent-BorgModulePKAPlaceholder = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-BorgModuleStickyGrenadeLauncher = sticky grenade launcher cyborg module
+ent-BorgModuleStickyGrenadeLauncher = модуль гранатомёта с липкими гранатами для киборга
     .desc = { ent-BaseBorgModuleSyndicate.desc }
 
-ent-BorgModuleSyndicateDoorControl = door control cyborg module
+ent-BorgModuleSyndicateDoorControl = модуль управления дверями для киборга
     .desc = { ent-BaseBorgModuleSyndicate.desc }
 
-ent-BorgModuleSyndicateJammer = jammer cyborg module
+ent-BorgModuleSyndicateJammer = модуль глушилки для киборга
     .desc = { ent-BaseBorgModuleSyndicate.desc }
 
-ent-BorgModuleSyndicateDartgun = dart gun cyborg module
+ent-BorgModuleSyndicateDartgun = модуль дротикомёта для киборга
     .desc = { ent-BaseBorgModuleSyndicate.desc }
 
-ent-BorgModuleSyndicateTopical = topical cyborg module
+ent-BorgModuleSyndicateTopical = модуль наружного лечения для киборга
     .desc = { ent-BaseBorgModuleSyndicate.desc }
 
-ent-BorgModuleSyndicateSurgery = surgery cyborg module
+ent-BorgModuleSyndicateSurgery = хирургический модуль киборга
     .desc = { ent-BaseBorgModuleSyndicate.desc }
 
-ent-BorgModuleSyndicateRescue = rescue cyborg module
+ent-BorgModuleSyndicateRescue = спасательный модуль киборга
     .desc = { ent-BaseBorgModuleSyndicate.desc }
 
-ent-BorgModuleAdvancedOmniSurgery = advanced surgery omnitool module
+ent-BorgModuleAdvancedOmniSurgery = модуль продвинутого хирургического омниинструмента
     .desc = { ent-BaseBorgModuleMedical.desc }

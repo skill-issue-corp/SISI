@@ -10,13 +10,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-flavor-base-futuristic = futuristic
-flavor-base-offensive = offensive
-flavor-base-sigma = sigma
-flavor-complex-fentanyl = burning tar
-flavor-base-tears = salty tears
-flavor-base-alienblood = alien
-flavor-base-old = old
-flavor-base-robust = robust
-flavor-complex-unicorntears = like unicorn tears
-flavor-base-chuddy = chuddy
+flavor-base-futuristic = футуристично
+flavor-base-offensive = оскорбительно
+flavor-base-sigma = сигма
+flavor-complex-fentanyl = горелая смола
+flavor-base-tears = солёные слёзы
+flavor-base-alienblood = инопланетно
+flavor-base-old = старьё
+flavor-base-robust = робастно
+flavor-complex-unicorntears = как слёзы единорога
+flavor-base-chuddy = как у чадда

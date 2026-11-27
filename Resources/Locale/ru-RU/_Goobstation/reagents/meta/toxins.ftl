@@ -1,20 +1,20 @@
-reagent-name-cyanide = cyanide
-reagent-desc-cyanide = Easy to make toxin, and with deadly potential at average doses. However constant difficulties with breathing will quickly alert any potential victim.
+reagent-name-cyanide = цианид
+reagent-desc-cyanide = Простой в изготовлении токсин, смертельный в средних дозах. Постоянные затруднения дыхания, однако, быстро насторожат любую потенциальную жертву.
 
-reagent-name-anacea = anacea
-reagent-desc-anacea = Quickly flushes most medicines from bloodstream, making it an invaluable ingredient of any poison mix. Strong anti-poison medicines can vastly slow down that process.
+reagent-name-anacea = анацея
+reagent-desc-anacea = Быстро выводит из крови большинство лекарств. Это делает её ценным компонентом любой ядовитой смеси. Сильные противоядия способны заметно замедлить процесс.
 
-reagent-name-pendetide = pendetide
-reagent-desc-pendetide = While mostly neutral, it amplifies any existing radiation damage. Additionally flushes medicines from bloodstream, making healing difficult.
+reagent-name-pendetide = пендетид
+reagent-desc-pendetide = Сам по себе почти нейтрален, но усиливает уже полученный урон радиацией. Дополнительно выводит лекарства из крови, затрудняя лечение.
 
-reagent-name-aluite = aluite
-reagent-desc-aluite = Non-reactive molecule that binds with other chemicals at low temperatures to transport them and boost their efficiency. Bursts when in bloodstream, with overdoses causing organ ruptures.
+reagent-name-aluite = алуит
+reagent-desc-aluite = Инертная молекула, которая при низких температурах связывается с другими веществами, переносит их и повышает их эффективность. Разрушается при попадании в кровь. Передозировка приводит к разрывам органов.
 
-reagent-name-sarin = sarin
-reagent-desc-sarin = A brutal neurotoxin that creates nasty caustic burns on contact with the skin. Poisonous when breathed in, and causes paralysis.
+reagent-name-sarin = зарин
+reagent-desc-sarin = Мощный нейротоксин, оставляющий тяжёлые химические ожоги при контакте с кожей. Ядовит при вдыхании и вызывает паралич.
 
-reagent-name-nevcottapowder = nevcotta powder
-reagent-desc-nevcottapowder = A highly toxic powder created from grinding the bark of the nevcotta tree. Used in the creation of a classified chemical.
+reagent-name-nevcottapowder = порошок невкотты
+reagent-desc-nevcottapowder = Высокотоксичный порошок из перемолотой коры дерева невкотта. Используется для получения секретного вещества.
 
-reagent-name-microplastics = microplastics
-reagent-desc-microplastics = A mildly toxic pollutant found in a lot of everyday objects. Its toxic effects do not seem to affect Vox.
+reagent-name-microplastics = микропластик
+reagent-desc-microplastics = Слабоядовитый загрязнитель, встречающийся во многих повседневных предметах. Его токсичный эффект, похоже, не действует на Воксов.

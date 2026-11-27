@@ -1,2 +1,2 @@
-ent-JanitorKnowledge = Janitor
-    .desc = Helps you throw out trash. That's it.
+ent-JanitorKnowledge = Уборщик
+    .desc = Помогает выбрасывать мусор. Вот и всё.

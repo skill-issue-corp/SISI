@@ -1,2 +1,2 @@
-ent-WeaponPistolCHIMPUpgradeKit = C.H.I.M.P. handcannon upgrade chip
-    .desc = An experimental upgrade kit for the C.H.I.M.P.
+ent-WeaponPistolCHIMPUpgradeKit = чип улучшения ручной пушки C.H.I.M.P.
+    .desc = Экспериментальный набор для улучшения C.H.I.M.P.

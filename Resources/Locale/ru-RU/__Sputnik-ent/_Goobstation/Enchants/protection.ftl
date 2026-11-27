@@ -1,11 +1,11 @@
 ent-BaseProtEnchant = { ent-BaseEnchant }
     .desc = { ent-BaseEnchant.desc }
 
-ent-EnchantProtection = Protection
+ent-EnchantProtection = Защита
     .desc = { ent-BaseProtEnchant.desc }
 
-ent-EnchantProtBlast = Blast Protection
+ent-EnchantProtBlast = Защита от Взрывов
     .desc = { ent-BaseProtEnchant.desc }
 
-ent-EnchantProtFire = Fire Protection
+ent-EnchantProtFire = Огнестойкость
     .desc = { ent-BaseProtEnchant.desc }

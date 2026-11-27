@@ -1,30 +1,30 @@
-ent-CartridgeMagicBullet = magic bullet cartridge
+ent-CartridgeMagicBullet = патрон с волшебной пулей
     .desc = { ent-BaseCartridge.desc }
 
-ent-ScrollTeleport = scroll of teleportation
-    .desc = This scroll can teleport you anywhere on the station.
+ent-ScrollTeleport = свиток телепортации
+    .desc = Этот свиток перенесёт вас в любую точку станции.
 
 ent-ScrollTeleportApprentice = { ent-ScrollTeleport }
-    .desc = This scroll can teleport you anywhere on the station. Only has one use.
-    .suffix = Apprentice
+    .desc = Этот свиток перенесёт вас в любую точку станции. Сработает только один раз.
+    .suffix = Ученик
 
-ent-ThrownLightning = lightning bolt spell packet
-    .desc = Some birdseed wrapped in cloth that crackles with electricity.
+ent-ThrownLightning = свёрток заклинания молнии
+    .desc = Горстка птичьего корма, завёрнутая в ткань и потрескивающая от электричества.
 
-ent-ContractApprenticeship = contract of apprenticeship
-    .desc = A magic contract previously signed by an apprentice. In exchange for instruction in the magical arts, they are bound to answer your call for aid.
+ent-ContractApprenticeship = ученический договор
+    .desc = Магический договор, заранее подписанный учеником. В обмен на обучение магическим искусствам он обязан явиться по вашему зову и помочь вам.
 
 ent-DrinkMugwortTeaGlass = { ent-DrinkGlass }
     .desc = { ent-DrinkGlass.desc }
-    .suffix = mugwort tea
+    .suffix = чай из полыни
 
-ent-EverfullMug = everfull mug
-    .desc = An enchanted mug which refills omnizine automatically.
+ent-EverfullMug = неиссякаемая кружка
+    .desc = Зачарованная кружка, которая сама наполняется омнизином.
 
-ent-WizardIDCard = passenger ID card
+ent-WizardIDCard = ID-карта пассажира
     .desc = { ent-AgentIDCard.desc }
-    .suffix = Wizard
+    .suffix = Волшебник
 
 ent-CrowbarWizard = { ent-BaseCrowbar }
-    .desc = A compact multipurpose tool to pry open doors and destroy stations.
-    .suffix = Wizard
+    .desc = Компактный универсальный инструмент для вскрытия дверей и разрушения станций.
+    .suffix = Волшебник

@@ -1,2 +1,2 @@
-reagent-name-juice-mango = mango juice
-reagent-desc-juice-mango = Tasty tasty mango juice.
+reagent-name-juice-mango = манговый сок
+reagent-desc-juice-mango = Вкусный-превкусный манговый сок.

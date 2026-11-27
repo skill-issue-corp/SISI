@@ -1,9 +1,9 @@
-ent-Hypoport = hypoport
-    .desc = A hermetically sealing port to accept sterile injections without a needle. Compatible with all hyposprays.
+ent-Hypoport = гипопорт
+    .desc = Герметичный порт для стерильных инъекций без иглы. Совместим со всеми гипоспреями.
 
-ent-HypoportSecure = secure hypoport
-    .desc = A hermetically sealing port to accept sterile injections without a needle. An upgraded model that checks for access which can be set by multitools.
+ent-HypoportSecure = защищённый гипопорт
+    .desc = Герметичный порт для стерильных инъекций без иглы. Улучшенная модель проверяет права доступа, которые можно настроить мультитулом.
 
 ent-HypoportSecureNukie = { ent-HypoportSecure }
     .desc = { ent-HypoportSecure.desc }
-    .suffix = Nukie
+    .suffix = Ядерка

@@ -1,14 +1,14 @@
-ent-DiseaseBehaviorFightImmunity = Immune resistance
-    .desc = Makes the disease resist immunity once developed.
+ent-DiseaseBehaviorFightImmunity = Устойчивость к иммунитету
+    .desc = Позволяет болезни сопротивляться выработанному иммунитету.
 
-ent-DiseaseBehaviorSluggish = Feeling sluggish
-    .desc = Makes you feel sluggish.
+ent-DiseaseBehaviorSluggish = Вялость
+    .desc = Вызывает у вас вялость.
 
-ent-DiseaseBehaviorTemperature = Temperature
-    .desc = Raises your body temperature to harmful levels.
+ent-DiseaseBehaviorTemperature = Температура
+    .desc = Повышает температуру вашего тела до опасных значений.
 
-ent-DiseaseBehaviorCold = Thermophagy
-    .desc = Consumes body heat, lowering your body temperature to harmful levels.
+ent-DiseaseBehaviorCold = Термофагия
+    .desc = Поглощает тепло вашего тела, снижая его температуру до опасных значений.
 
-ent-DiseaseBehaviorRapidMutation = Rapid mutation
-    .desc = This disease rapidly mutates itself and other diseases even while in the host.
+ent-DiseaseBehaviorRapidMutation = Быстрая мутация
+    .desc = Быстро меняет собственные свойства и свойства других болезней даже внутри носителя.

@@ -6,22 +6,22 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 agent-id-new = { $number ->
-    [0] Didn't gain any new accesses from {THE($card)}.
-    [one] Gained one new access from {THE($card)}.
-   *[other] Gained {$number} new accesses from {THE($card)}.
+    [0] Не получено новых допусков с {$card}.
+    [1] Получен один новый допуск с {$card}.
+   *[other] Получено новых допусков: {$number}. Источник: {$card}.
 }
 
-agent-id-open-ui-verb = Change settings
+agent-id-open-ui-verb = Изменить настройки
 
-agent-id-ui-menu-title = Agent ID Card
-agent-id-ui-tab-settings = Settings
-agent-id-ui-tab-job-icons = Job Icons
+agent-id-ui-menu-title = ID-Карта Агента
+agent-id-ui-tab-settings = Настройки
+agent-id-ui-tab-job-icons = Значки Должностей
 
-agent-id-ui-input-name = Name:
-agent-id-ui-input-job = Job:
+agent-id-ui-input-name = Имя:
+agent-id-ui-input-job = Должность:
 
 agent-id-ui-os = Nuke#OS ™
-agent-id-ui-os-flavor = When in doubt, nobody questions a mime
+agent-id-ui-os-flavor = Если сомневаетесь, мима никто не заподозрит
 # Get your mind out of the gutter.
-agent-id-ui-footer-flavor-left = Just a regular ID nothing to see here
+agent-id-ui-footer-flavor-left = Обычная ID-карта, ничего интересного
 agent-id-ui-footer-flavor-right = v2.0

@@ -1,2 +1,2 @@
-ent-DonkpocketBoxSpawner = Donkpocket Box Spawner
+ent-DonkpocketBoxSpawner = Спавнер Коробки Донкпокетов
     .desc = { ent-MarkerBase.desc }

@@ -14,34 +14,34 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-forensic-fibers = {LOC($material)} fibers
-forensic-fibers-colored = {LOC($color)} {LOC($material)} fibers
+forensic-fibers = {LOC($material)} волокна
+forensic-fibers-colored = {LOC($color)} {LOC($material)} волокна
 
-fibers-insulative = insulative
-fibers-insulative-frayed = frayed insulative
-fibers-synthetic = synthetic
-fibers-leather = leather
-fibers-durathread = durathread
-fibers-latex = latex
-fibers-nitrile = nitrile
-fibers-nanomachines = insulative mysterious
-fibers-chameleon = mysterious
-fibers-rubber = rubber
-fibers-kinetic = kinetic
+fibers-insulative = изолирующие
+fibers-insulative-frayed = потрёпанные изолирующие
+fibers-synthetic = синтетические
+fibers-leather = кожаные
+fibers-durathread = дюратканевые
+fibers-latex = латексные
+fibers-nitrile = нитриловые
+fibers-nanomachines = загадочные изолирующие
+fibers-chameleon = загадочные
+fibers-rubber = резиновые
+fibers-kinetic = кинетические
 
-fibers-purple = purple
-fibers-red = red
-fibers-black = black
-fibers-blue = blue
-fibers-teal = teal
-fibers-brown = brown
-fibers-light-brown = light brown
-fibers-grey = grey
-fibers-green = green
-fibers-orange = orange
-fibers-white = white
-fibers-yellow = yellow
-fibers-regal-blue = regal blue
-fibers-olive = olive
-fibers-silver = silver
-fibers-gold = gold
+fibers-purple = фиолетовые
+fibers-red = красные
+fibers-black = чёрные
+fibers-blue = синие
+fibers-teal = бирюзовые
+fibers-brown = коричневые
+fibers-light-brown = светло-коричневые
+fibers-grey = серые
+fibers-green = зелёные
+fibers-orange = оранжевые
+fibers-white = белые
+fibers-yellow = жёлтые
+fibers-regal-blue = королевские синие
+fibers-olive = оливковые
+fibers-silver = серебристые
+fibers-gold = золотистые

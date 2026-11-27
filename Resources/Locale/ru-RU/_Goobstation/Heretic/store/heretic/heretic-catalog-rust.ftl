@@ -1,79 +1,79 @@
 knowledge-path-rust-passive-desc-1 =
-    You heal damage and stamina passively and purge most chemicals when standing on rust.
-    You also become immune to diseases.
+    Стоя на ржавчине, вы пассивно исцеляетесь, восстанавливаете выносливость и выводите из организма большинство химикатов.
+    Вы также получаете иммунитет к болезням.
 
-knowledge-path-rust-passive-desc-2 = Rust now heals your bones. Healing rate increased.
-knowledge-path-rust-passive-desc-3 = Rust now regenerates lost body parts. Healing rate increased.
+knowledge-path-rust-passive-desc-2 = Теперь ржавчина сращивает ваши кости. Скорость исцеления повышена.
+knowledge-path-rust-passive-desc-3 = Теперь ржавчина восстанавливает утраченные части тела. Скорость исцеления повышена.
 
-knowledge-path-rust-s1-name = Blacksmith's Tale
+knowledge-path-rust-s1-name = Рассказ Кузнеца
 knowledge-path-rust-s1-desc =
-    "Let me tell you a story", said the Blacksmith, as he gazed deep into his rusty blade.
+    «Позвольте рассказать вам историю», — произнёс Кузнец, вглядываясь в свой ржавый клинок.
 
-    Opens up the Path of Rust to you.
-    Allows you to transmute a knife with any trash item into a Rusty Blade.
-    You can only create two at a time.
+    Открывает вам Путь Ржавчины.
+    Позволяет превратить нож и любой мусор в Ржавый Клинок.
+    Одновременно можно иметь не больше двух клинков.
 
-knowledge-path-rust-s2-name = Grasp of Rust
+knowledge-path-rust-s2-name = Хватка Ржавчины
 knowledge-path-rust-s2-desc =
-    On the ceiling of the Mansus, rust grows as moss does on a stone.
+    На потолке Мансуса растёт ржавчина, как мох на камне.
 
-    Your Mansus Grasp will deal massive damage to non-living matter and rust any surface it touches.
-    Already rusted surfaces are destroyed.
-    Allows you to rust basic iron walls and floors.
+    Хватка Мансуса наносит огромный урон неживой материи и покрывает ржавчиной любую поверхность, которой касается.
+    Уже проржавевшие поверхности разрушаются.
+    Позволяет покрывать ржавчиной обычные железные стены и полы.
 
-knowledge-path-rust-s3-name = Mark of Rust
+knowledge-path-rust-s3-name = Метка Ржавчины
 knowledge-path-rust-s3-desc =
-    The Blacksmith looks away. To a place lost long ago. "Rusted Hills help those in dire need... at a cost."
+    Кузнец отводит взгляд. К месту, давно утраченному. «Ржавые Холмы помогают тем, кто в отчаянной нужде... за свою цену».
 
-    Your Mansus Grasp now applies the Mark of Rust. The mark is triggered from an attack with your Rusty Blade.
-    When triggered, your victim will suffer heavy disgust.
+    Хватка Мансуса накладывает Метку Ржавчины. Она срабатывает при ударе Ржавым Клинком.
+    При срабатывании метки жертву охватит сильная тошнота.
 
-knowledge-path-rust-s4-name = Aggressive Spread
+knowledge-path-rust-s4-name = Бурное Распространение
 knowledge-path-rust-s4-desc =
-    All wise men know well not to visit the Rusted Hills... Yet the Blacksmith's tale was inspiring.
+    Всякий мудрец знает, что на Ржавые Холмы ходить не следует... И всё же рассказ Кузнеца меня вдохновил.
 
-    Grants you Aggressive Spread, a spell that spreads rust to nearby surfaces.
+    Даёт Бурное Распространение, заклинание, покрывающее ржавчиной ближайшие поверхности.
 
-knowledge-path-rust-s5-name = Rust Construction
+knowledge-path-rust-s5-name = Строительство из Ржавчины
 knowledge-path-rust-s5-desc =
-    Images of foreign and ominous structures began to dance in my mind. Covered head to toe in thick rust, they no longer looked man made. Or perhaps they never were in the first place.
+    Образы чужих и зловещих сооружений заплясали у меня в голове. Под толстым слоем ржавчины они уже не походили на творения рук человеческих. А может, никогда ими и не были.
 
-    Grants you Rust Construction, a spell that allows you to raise a wall out of a rusted floor.
-    Anyone overtop the wall will be thrown aside and sustain damage.
+    Даёт Строительство из Ржавчины, заклинание, которое поднимает стену из ржавого пола.
+    Тех, кто стоит на месте стены, отбросит в сторону и ранит.
 
-knowledge-path-rust-armor-name = Salvaged Remains
+knowledge-path-rust-armor-name = Уцелевшие Остатки
 knowledge-path-rust-armor-desc =
-    From beneath warped scrap, the Blacksmith pulls forth an ancient fabric.
-    "Whatever this once stood for is lost. So now, we give it new purpose."
+    Кузнец вытаскивает древнюю ткань из-под покорёженного лома.
+    «Что бы она ни значила прежде, это забыто. Теперь мы дадим ей новое назначение».
 
-    Allows you to transmute a table (or a suit), a mask and any trash item to create a Salvaged Remains.
-    Has extra armor, tackle resistance and syringe immunity while standing on rust.
-    Acts as a focus while hooded.
-    Unlocks tier 2 passive ability upgrade when transmuted.
+    Позволяет превратить стол (или одежду), маску и любой мусор в Уцелевшие Остатки.
+    Пока вы стоите на ржавчине, одеяние даёт дополнительную броню, сопротивление захвату и иммунитет к шприцам.
+    С поднятым капюшоном служит фокусом.
+    Трансмутация открывает 2 уровень пассивной способности.
 
-knowledge-path-rust-s6-name = Entropic Plume
+knowledge-path-rust-s6-name = Энтропический Шлейф
 knowledge-path-rust-s6-desc =
-    The corrosion was unstoppable. The rust was unpleasable. The Blacksmith was gone, and you hold their blade. Champions of hope, the Rustbringer is nigh!
+    Коррозию не остановить. Ржавчину не насытить. Кузнец исчез, а его клинок у вас. Поборники надежды, Несущий Ржавчину близок!
 
-    Grants you Entropic Plume, a spell that releases a vexing wave of Rust. Blinds, poisons, and inflicts Amok on any heathen it hits, causing them to strike at friend or foe wildly. Also rusts and destroys and surfaces it hits.
+    Даёт Энтропический Шлейф, заклинание, выпускающее волну Ржавчины. Она ослепляет и отравляет язычников и ввергает их в Амок, заставляя без разбору бросаться на своих и чужих. Также покрывает ржавчиной и разрушает поверхности на своём пути.
 
-knowledge-path-rust-s7-name = Toxic Blade
+knowledge-path-rust-s7-name = Ядовитый Клинок
 knowledge-path-rust-s7-desc =
-    The Blacksmith hands you their blade. "The Blade will guide you through the flesh, should you let it." The heavy rust weights it down. You stare deeply into it. The Rusted Hills call for you, now.
+    Кузнец вручает вам свой клинок. «Клинок проведёт тебя сквозь плоть, если ты позволишь». Тяжёлая ржавчина тянет его вниз. Вы вглядываетесь в него. Теперь Ржавые Холмы зовут вас.
 
-    Your Rusty Blade now causes toxic damage to those you attack and also increases rot level of corpses.
-    Allows you to rust reinforced and mining walls.
+    Теперь ваш Ржавый Клинок наносит урон ядом и ускоряет разложение тел.
+    Позволяет покрывать ржавчиной укреплённые стены и горную породу.
 
-knowledge-path-rust-s8-rust-charge-name = Rust Charge
+knowledge-path-rust-s8-rust-charge-name = Ржавый Рывок
 knowledge-path-rust-s8-rust-charge-desc =
-    The hills sparkled now, as I neared them my mind began to wander. I quickly regained my resolve and pushed forward, this last leg would be the most treacherous.
+    Холмы теперь искрились. Чем ближе я подходил, тем сильнее блуждали мои мысли. Я быстро собрался и двинулся дальше. Последний отрезок пути был самым опасным.
 
-    Grants you Rust Charge, a targeted action that can only be cast on a rusted tile. It charges you forward, destroying any rusted objects you come into contact with, it will also deal high damage to others and rust around you during the charge.
+    Даёт Ржавый Рывок, направленную способность, которую можно применить только с ржавого тайла. Вы бросаетесь вперёд, разрушая всё проржавевшее на пути, нанося большой урон окружающим и покрывая всё вокруг ржавчиной.
 
-knowledge-path-rust-s9-name = Rustbringer's Oath
+knowledge-path-rust-s9-name = Клятва Несущего Ржавчину
 knowledge-path-rust-s9-desc =
-    The ascension ritual of the Path of Rust.
-    Bring 3 rotting or silicon corpses to a transmutation rune to complete the ritual.
-    When completed, the ritual site will endlessly spread rust onto any surface, stopping for nothing.
-    Additionally, you will become extremely resilient on rust, healing at much higher rate and becoming immune to many effects and dangers.
-    You will be able to rust almost anything upon ascending.
+    Ритуал вознесения Пути Ржавчины.
+    Чтобы завершить ритуал, принесите 3 разлагающихся тела или останки синтетиков к руне трансмутации.
+    По завершении место ритуала будет без остановки покрывать ржавчиной все поверхности.
+    Кроме того, стоя на ржавчине, вы станете гораздо живучее, будете намного быстрее исцеляться и получите иммунитет ко многим эффектам и опасностям.
+    После вознесения вы сможете покрывать ржавчиной почти что угодно.

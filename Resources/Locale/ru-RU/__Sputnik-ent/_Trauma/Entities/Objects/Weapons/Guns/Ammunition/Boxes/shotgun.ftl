@@ -1,8 +1,8 @@
-ent-BoxShotgunBreaching = ammunition box (12 Gauge breaching)
-    .desc = A cardboard box of 12 Gauge shotgun shells. Intended to hold breaching ammunition... they forgot to make the box look different.
+ent-BoxShotgunBreaching = коробка патронов (12 Калибр пробивные)
+    .desc = Картонная коробка ружейных патронов 12 Калибра. Предназначена для пробивных боеприпасов... изменить оформление коробки забыли.
 
-ent-BoxShotgunHypo = shell box (hypo)
+ent-BoxShotgunHypo = коробка ружейных патронов (гипо)
     .desc = { ent-AmmoProviderShotgunShell.desc }
 
-ent-BoxShotgunTearGas = shell box (12 Gauge tear gas)
+ent-BoxShotgunTearGas = коробка ружейных патронов (12 Калибр слезоточивый газ)
     .desc = { ent-AmmoProviderShotgunShell.desc }

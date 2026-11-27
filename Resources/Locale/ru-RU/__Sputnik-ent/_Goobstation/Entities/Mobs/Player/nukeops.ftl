@@ -1,20 +1,20 @@
-ent-MobHumanLoneNuclearOperativeSuit = Lone Operative Suit
+ent-MobHumanLoneNuclearOperativeSuit = Одиночный Оперативник в Скафандре
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperativeSuitElite = Lone Operative Suit Elite
+ent-MobHumanLoneNuclearOperativeSuitElite = Одиночный Оперативник в Элитном Скафандре
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperativeSuitJugg = Lone Operative Suit Juggernaut
+ent-MobHumanLoneNuclearOperativeSuitJugg = Одиночный Оперативник в Скафандре Джаггернаута
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperativeSuitCommander = Lone Operative Suit Commander
+ent-MobHumanLoneNuclearOperativeSuitCommander = Одиночный Оперативник в Командирском Скафандре
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperativeSuitStealth = Lone Operative Suit Stealth
+ent-MobHumanLoneNuclearOperativeSuitStealth = Одиночный Оперативник в Скафандре Скрытности
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperativeSuitMedic = Lone Operative Suit Medic
+ent-MobHumanLoneNuclearOperativeSuitMedic = Одиночный Оперативник в Медицинском Скафандре
     .desc = { ent-MobHuman.desc }
 
-ent-MobHumanLoneNuclearOperativeSuitDread = Lone Operative Suit Medic
+ent-MobHumanLoneNuclearOperativeSuitDread = Одиночный Оперативник в Медицинском Скафандре
     .desc = { ent-MobHuman.desc }

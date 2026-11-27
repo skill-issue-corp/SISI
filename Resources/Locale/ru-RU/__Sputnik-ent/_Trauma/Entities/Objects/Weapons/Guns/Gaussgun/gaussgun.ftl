@@ -1,17 +1,17 @@
 ent-BaseWeaponGaussgun = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-WeaponGaussgun = coil gun
-    .desc = Requires both a battery and ammunition to operate, a cheaper alternative to ballistic firearms.
+ent-WeaponGaussgun = пушка гаусса
+    .desc = Для работы нужны и батарея, и боеприпасы. Более дешёвая альтернатива огнестрельному оружию.
 
-ent-WeaponGaussgunImprov = gauss rifle
+ent-WeaponGaussgunImprov = винтовка гаусса
     .desc = { ent-BaseMajorContraband.desc }
 
-ent-WeaponGaussgunPistol = gauss pistol
-    .desc = A much ligher alternative to the gauss gun, but far more innacurate and only semiautomatic.
+ent-WeaponGaussgunPistol = пистолет гаусса
+    .desc = Гораздо легче пушки гаусса, но намного менее точен и стреляет только одиночными.
 
-ent-CraftingGaussRifle = incomplete gauss rifle
-    .desc = An unfinished gauss rifle.
+ent-CraftingGaussRifle = незаконченная винтовка гаусса
+    .desc = Незаконченная винтовка гаусса.
 
 ent-CraftingGaussRifle1 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
@@ -46,8 +46,8 @@ ent-CraftingGaussRifle10 = { ent-CraftingGaussRifle }
 ent-CraftingGaussRifle11 = { ent-CraftingGaussRifle }
     .desc = { ent-CraftingGaussRifle.desc }
 
-ent-CraftingGaussPistol = incomplete gauss pistol
-    .desc = An unfinished gauss pistol.
+ent-CraftingGaussPistol = незаконченный пистолет гаусса
+    .desc = Незаконченный пистолет гаусса.
 
 ent-CraftingGaussPistol1 = { ent-CraftingGaussPistol }
     .desc = { ent-CraftingGaussPistol.desc }

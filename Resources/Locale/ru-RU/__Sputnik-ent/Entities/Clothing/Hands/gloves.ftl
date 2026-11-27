@@ -1,95 +1,95 @@
 ent-ClothingHandsGlovesBoxingBase = { ent-ClothingHandsBase }
     .desc = { ent-ClothingHandsBase.desc }
 
-ent-ClothingHandsGlovesBoxingRed = red boxing gloves
-    .desc = Red gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingRed = красные боксёрские перчатки
+    .desc = Красные перчатки для соревнований по боксу.
 
-ent-ClothingHandsGlovesBoxingBlue = blue boxing gloves
-    .desc = Blue gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingBlue = синие боксёрские перчатки
+    .desc = Синие перчатки для соревнований по боксу.
 
-ent-ClothingHandsGlovesBoxingGreen = green boxing gloves
-    .desc = Green gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingGreen = зелёные боксёрские перчатки
+    .desc = Зелёные перчатки для соревнований по боксу.
 
-ent-ClothingHandsGlovesBoxingYellow = yellow boxing gloves
-    .desc = Yellow gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingYellow = жёлтые боксёрские перчатки
+    .desc = Жёлтые перчатки для соревнований по боксу.
 
 ent-ClothingHandsGlovesBoxingRiggedBase = { ent-ClothingHandsGlovesBoxingBase }
     .desc = { ent-ClothingHandsGlovesBoxingBase.desc }
-    .suffix = Rigged
+    .suffix = С Подвохом
 
-ent-ClothingHandsGlovesBoxingRiggedRed = red boxing gloves
-    .desc = Red gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingRiggedRed = красные боксёрские перчатки
+    .desc = Красные перчатки для соревнований по боксу.
 
-ent-ClothingHandsGlovesBoxingRiggedBlue = blue boxing gloves
-    .desc = Blue gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingRiggedBlue = синие боксёрские перчатки
+    .desc = Синие перчатки для соревнований по боксу.
 
-ent-ClothingHandsGlovesBoxingRiggedGreen = green boxing gloves
-    .desc = Green gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingRiggedGreen = зелёные боксёрские перчатки
+    .desc = Зелёные перчатки для соревнований по боксу.
 
-ent-ClothingHandsGlovesBoxingRiggedYellow = yellow boxing gloves
-    .desc = Yellow gloves for competitive boxing.
+ent-ClothingHandsGlovesBoxingRiggedYellow = жёлтые боксёрские перчатки
+    .desc = Жёлтые перчатки для соревнований по боксу.
 
-ent-GlovesBoxingRiggedRandomSpawner = random rigged boxing glove spawner
+ent-GlovesBoxingRiggedRandomSpawner = точка спавна случайных боксёрских перчаток с подвохом
     .desc = { "" }
 
-ent-ClothingHandsGlovesCaptain = captain gloves
-    .desc = Regal blue gloves, with a nice gold trim. Swanky.
+ent-ClothingHandsGlovesCaptain = перчатки капитана
+    .desc = Царственные синие перчатки с изящной золотой отделкой. Шикарно.
 
-ent-ClothingHandsGlovesHop = papercut-proof gloves
-    .desc = Perfect for dealing with paperwork and matters with bureaucracy.
+ent-ClothingHandsGlovesHop = перчатки с защитой от порезов бумагой
+    .desc = Идеальны для бумажной волокиты и бюрократических дел.
 
-ent-ClothingHandsGlovesLatex = latex gloves
-    .desc = Thin sterile latex gloves. Basic PPE for any doctor.
+ent-ClothingHandsGlovesLatex = латексные перчатки
+    .desc = Тонкие стерильные латексные перчатки. Базовые СИЗ любого врача.
 
-ent-ClothingHandsGlovesNitrile = nitrile gloves
-    .desc = High-quality nitrile gloves. Expensive medical PPE.
+ent-ClothingHandsGlovesNitrile = нитриловые перчатки
+    .desc = Качественные нитриловые перчатки. Дорогие медицинские СИЗ.
 
-ent-ClothingHandsGlovesLeather = botanist's leather gloves
-    .desc = These leather gloves protect against thorns, barbs, prickles, spikes and other harmful objects of floral origin. They're also quite warm.
+ent-ClothingHandsGlovesLeather = кожаные перчатки ботаника
+    .desc = Эти кожаные перчатки защищают от шипов, колючек, игл, остей и прочих опасных предметов растительного происхождения. А ещё они довольно тёплые.
 
-ent-ClothingHandsGlovesPowerglove = power gloves
-    .desc = Now I'm playin' with power! Wait... they're turned off.
+ent-ClothingHandsGlovesPowerglove = силовые перчатки
+    .desc = Вот теперь играю с мощью! Подождите... они выключены.
 
-ent-ClothingHandsGlovesRobohands = robohands gloves
-    .desc = Beep boop borp!
+ent-ClothingHandsGlovesRobohands = перчатки-роборуки
+    .desc = Бип-буп-борп!
 
-ent-ClothingHandsGlovesSpaceNinja = space ninja gloves
-    .desc = These black nano-enhanced gloves insulate from electricity and provide fire resistance.
+ent-ClothingHandsGlovesSpaceNinja = перчатки космического ниндзя
+    .desc = Эти чёрные перчатки с наноусилением изолируют от электричества и защищают от огня.
 
-ent-ClothingHandsGlovesCombat = combat gloves
-    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesCombat = боевые перчатки
+    .desc = Эти тактические перчатки огнеупорны и защищают от удара током.
 
-ent-ClothingHandsTacticalMaidGloves = tactical maid gloves
-    .desc = Tactical maid gloves, every self-respecting maid should be able to discreetly eliminate her goals.
+ent-ClothingHandsTacticalMaidGloves = перчатки тактической горничной
+    .desc = Перчатки тактической горничной. Любая уважающая себя горничная должна уметь незаметно устранять свои цели.
 
-ent-ClothingHandsMercGlovesCombat = mercenary combat gloves
-    .desc = High-quality combat gloves to protect hands from mechanical damage during combat.
+ent-ClothingHandsMercGlovesCombat = боевые перчатки наёмника
+    .desc = Качественные боевые перчатки для защиты рук от механических повреждений в бою.
 
-ent-ClothingHandsGlovesFingerless = fingerless gloves
-    .desc = Plain black gloves without fingertips for the hard working.
+ent-ClothingHandsGlovesFingerless = перчатки без пальцев
+    .desc = Простые чёрные перчатки без пальцев для трудяг.
 
-ent-ClothingHandsGlovesFingerlessInsulated = fingerless insulated gloves
-    .desc = Insulated gloves resistant to shocks, or at least they used to.
+ent-ClothingHandsGlovesFingerlessInsulated = изолированные перчатки без пальцев
+    .desc = Изолированные перчатки, защищающие от удара током. По крайней мере, раньше защищали.
 
-ent-ClothingHandsGlovesMercFingerless = mercenary fingerless gloves
-    .desc = Gloves that may not protect you from finger burns, but will make you cooler.
+ent-ClothingHandsGlovesMercFingerless = перчатки наёмника без пальцев
+    .desc = Перчатки, которые, может, и не спасут пальцы от ожогов, зато сделают вас круче.
 
 ent-ThievingGloves = { ent-ClothingHandsChameleon }
     .desc = { ent-ClothingHandsChameleon.desc }
-    .suffix = Chameleon, Thieving
+    .suffix = Хамелеон, Воровские
 
-ent-ClothingHandsGlovesCluwne = cluwne hands
-    .desc = A cursed pair of cluwne hands.
-    .suffix = Unremoveable
+ent-ClothingHandsGlovesCluwne = руки клувеня
+    .desc = Проклятая пара рук клувеня.
+    .suffix = Несъёмный
 
-ent-ClothingHandsGlovesNorthStar = gloves of the north star
-    .desc = These gloves allow you to punch incredibly fast.
+ent-ClothingHandsGlovesNorthStar = перчатки полярной звезды
+    .desc = В этих перчатках можно невероятно быстро бить кулаками.
 
-ent-ClothingHandsGlovesForensic = forensic gloves
-    .desc = Do not leave fibers or fingerprints. If you work without them, you're A TERRIBLE DETECTIVE.
+ent-ClothingHandsGlovesForensic = криминалистические перчатки
+    .desc = Не оставляют волокон и отпечатков пальцев. Если вы работаете без них, вы УЖАСНЫЙ ДЕТЕКТИВ.
 
-ent-ClothingHandsGlovesJanitor = rubber gloves
-    .desc = High-quality rubber gloves, squeaky to do some cleaning!
+ent-ClothingHandsGlovesJanitor = резиновые перчатки
+    .desc = Качественные резиновые перчатки. Скрипят от нетерпения взяться за уборку!
 
-ent-ClothingHandsKnuckleDustersStun = stun knuckle dusters
-    .desc = A pair of knuckle dusters combined with the tech of a stun baton. This makes beating tiders a whole lot easier.
+ent-ClothingHandsKnuckleDustersStun = оглушающие кастеты
+    .desc = Кастеты с технологией оглушающей дубинки. Теперь бить тайдеров гораздо проще.

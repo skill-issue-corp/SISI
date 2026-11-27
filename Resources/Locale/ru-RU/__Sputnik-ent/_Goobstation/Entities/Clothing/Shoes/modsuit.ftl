@@ -1,26 +1,26 @@
 ent-ClothingShoesModsuitBase = { ent-ClothingShoesBase }
     .desc = { ent-ClothingShoesBase.desc }
 
-ent-ClothingModsuitBootsStandard = standard modsuit boots
-    .desc = A special modular suit boots designed for compact folding inside modular suit control.
+ent-ClothingModsuitBootsStandard = ботинки стандартного модсьюта
+    .desc = Особые ботинки модульного костюма. Компактно складываются в блок управления.
 
-ent-ClothingModsuitBootsSecurity = soldat modsuit boots
-    .desc = THE IRON BOOTS OF THE LAW.
+ent-ClothingModsuitBootsSecurity = ботинки модсьюта «солдат»
+    .desc = ЖЕЛЕЗНЫЕ БОТИНКИ ЗАКОНА.
 
-ent-ClothingModsuitBootsHeadOfSecurity = bulwark modsuit boots
-    .desc = I call these my commie stompers.
+ent-ClothingModsuitBootsHeadOfSecurity = ботинки модсьюта «бастион»
+    .desc = Я зову их коммунякотопами.
 
-ent-ClothingModsuitBootsParamedic = sanitater modsuit boots
-    .desc = Made to get bloody.
+ent-ClothingModsuitBootsParamedic = ботинки модсьюта «санитар»
+    .desc = Созданы, чтобы заляпаться кровью.
 
-ent-ClothingModsuitBootsEngineer = sapper modsuit boots
-    .desc = Made to get oily.
+ent-ClothingModsuitBootsEngineer = ботинки модсьюта «сапёр»
+    .desc = Созданы, чтобы пропитаться маслом.
 
-ent-ClothingModsuitBootsAtmostech = aeolus modsuit boots
-    .desc = Made to get burnt.
+ent-ClothingModsuitBootsAtmostech = ботинки модсьюта «эол»
+    .desc = Созданы, чтобы обуглиться.
 
-ent-ClothingModsuitBootsResearchDirector = minerva modsuit boots
-    .desc = Won't stop you slipping on your own blood when the holocarp gets to you.
+ent-ClothingModsuitBootsResearchDirector = ботинки модсьюта «минерва»
+    .desc = Не спасут от скольжения на собственной крови, когда до вас доберётся голокарп.
 
-ent-ClothingModsuitBootsCaptain = magnate modsuit boots
-    .desc = These boots were designed by THE Michael Jordan and crafted with ancient alloys, man.
+ent-ClothingModsuitBootsCaptain = ботинки модсьюта «магнат»
+    .desc = Эти ботинки разработал САМ Майкл Джордан, и сделали их из древних сплавов, чувак.

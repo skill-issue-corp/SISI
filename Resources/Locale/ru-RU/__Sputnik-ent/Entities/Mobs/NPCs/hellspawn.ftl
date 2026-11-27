@@ -1,2 +1,2 @@
-ent-MobHellspawn = hellspawn
-    .desc = An unstoppable force of carnage.
+ent-MobHellspawn = исчадие ада
+    .desc = Неудержимая сила кровавой бойни.

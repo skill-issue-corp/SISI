@@ -1,6 +1,6 @@
-blood-cult-spells-too-many = Too many spells already selected.
-blood-cult-no-spells = You have no spells selected.
+blood-cult-spells-too-many = Уже выбрано слишком много заклинаний.
+blood-cult-no-spells = У вас нет выбранных заклинаний.
 
-verb-categories-blood-cult = Blood spells
-blood-cult-select-spells-verb = Select blood spells
-blood-cult-remove-spells-verb = Remove blood spells
+verb-categories-blood-cult = Кровавые заклинания
+blood-cult-select-spells-verb = Выбрать кровавые заклинания
+blood-cult-remove-spells-verb = Убрать кровавые заклинания

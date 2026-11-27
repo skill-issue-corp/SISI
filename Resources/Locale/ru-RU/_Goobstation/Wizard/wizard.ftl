@@ -4,18 +4,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-roles-antag-wizard-description-goob = Cause havoc and destruction to the station.
+roles-antag-wizard-description-goob = Сейте хаос и разрушение на станции.
 
-roles-antag-apprentice-name = Apprentice
-roles-antag-apprentice-description = Aid the wizard who has summoned you and keep them alive.
+roles-antag-apprentice-name = Ученик
+roles-antag-apprentice-description = Помогайте призвавшему вас волшебнику и оберегайте его жизнь.
 
-apprentice-roundend-name = apprentice
+apprentice-roundend-name = ученик
 
-roles-wizard-name = Wizard
-roles-wizard-objective = Cause havoc and destruction to the station.
+roles-wizard-name = Волшебник
+roles-wizard-objective = Сейте хаос и разрушение на станции.
 
-wizard-role-briefing = You are a space wizard. Survive and wreak havoc on the simpletons.
-apprentice-role-briefing = You are a space wizard apprentice. Keep whoever summoned you alive.
+wizard-role-briefing = Вы космический волшебник. Выживите и устройте этим простакам настоящий хаос.
+apprentice-role-briefing = Вы ученик космического волшебника. Сохраните жизнь тому, кто вас призвал.
 
 # SIS-Start
 apprentice-role-greeting =
@@ -29,7 +29,7 @@ apprentice-role-greeting-desc =
 # SIS-End
 
 lich-greeting =
-    With a hideous feeling of emptiness you watch in horrified fascination as skin sloughs off bone! Blood boils, nerves disintegrate, eyes boil in their sockets! As your organs crumble to dust in your fleshless chest you come to terms with your choice.
-    You're a lich.
+    С жутким чувством опустошения вы заворожённо и с ужасом смотрите, как кожа сползает с костей! Кровь кипит, нервы распадаются, глаза вскипают в глазницах! Пока органы рассыпаются в пыль в вашей лишённой плоти груди, вы примиряетесь со своим выбором.
+    Вы лич.
 
-objective-condition-wizard-alive-title = Ensure wizard {$targetName} stays alive.
+objective-condition-wizard-alive-title = Убедитесь, что волшебник {$targetName} останется в живых.

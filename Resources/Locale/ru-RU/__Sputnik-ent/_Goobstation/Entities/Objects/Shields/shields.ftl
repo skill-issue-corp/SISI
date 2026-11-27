@@ -1,6 +1,6 @@
-ent-BlueShieldShield = greatshield
-    .desc = The iconic namesake of these soldiers, the Blueshield. Known to take shots meant for high-ranking officials.
+ent-BlueShieldShield = большой щит
+    .desc = Знаменитый Синий Щит, давший имя этим бойцам. На него часто приходятся выстрелы, предназначенные высокопоставленным лицам.
 
 ent-BlueShieldShieldEvil = { ent-BlueShieldShield }
-    .desc = The identification number on this shield has been scratched off. Something feels wrong.
-    .suffix = Deathsquad
+    .desc = Идентификационный номер на щите соскоблили. Что-то здесь не так.
+    .suffix = Эскадрон Смерти

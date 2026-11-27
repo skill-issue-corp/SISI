@@ -1,2 +1,2 @@
-ent-CrateLifeSupport = life support crate
-    .desc = Contains one flatpack for the life support machine, as well as a high capacity power cell.
+ent-CrateLifeSupport = ящик системы жизнеобеспечения
+    .desc = Содержит одну упаковку аппарата жизнеобеспечения и батарею большой ёмкости.

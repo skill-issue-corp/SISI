@@ -4,5 +4,5 @@ ent-BaseDragonObjective = { ent-BaseObjective }
 ent-CarpRiftsObjective = { ent-BaseDragonObjective }
     .desc = { ent-BaseDragonObjective.desc }
 
-ent-DragonSurviveObjective = Survive
-    .desc = You have to stay alive to maintain control.
+ent-DragonSurviveObjective = Выжить
+    .desc = Чтобы сохранить контроль, вам нужно остаться в живых.

@@ -1,11 +1,11 @@
-signal-port-name-lathe-print = Print last recipe
-signal-port-description-lathe-print = Signal port that prints the last set recipe when pulsed.
+signal-port-name-lathe-print = Печать по последнему рецепту
+signal-port-description-lathe-print = При получении импульса запускает печать по последнему выбранному рецепту.
 
-signal-port-name-lathe-set-recipe = Set lathe recipe
-signal-port-description-lathe-set-recipe = Circuit port to set the current lathe recipe to a recipe prototype ID as a string.
+signal-port-name-lathe-set-recipe = Выбрать рецепт лата
+signal-port-description-lathe-set-recipe = Порт схемы задаёт текущий рецепт лата по строковому ID прототипа рецепта.
 
-signal-port-name-lathe-current-recipe = Lathe recipe
-signal-port-description-lathe-current-recipe = Circuit port invoked with the current recipe prototype ID string, which will be used by automation.
+signal-port-name-lathe-current-recipe = Рецепт лата
+signal-port-description-lathe-current-recipe = Порт схемы передаёт строковый ID прототипа текущего рецепта для автоматизации.
 
-signal-port-name-lathe-quantity = Item quantity
-signal-port-description-lathe-quantity = Circuit port to set the next production count as an integer. Starts out as 1, lower values are ignored.
+signal-port-name-lathe-quantity = Количество изделий
+signal-port-description-lathe-quantity = Порт схемы задаёт целое число изделий для следующего запуска. Начальное значение равно 1, меньшие значения игнорируются.

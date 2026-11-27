@@ -1,10 +1,10 @@
-ent-PipeBomb = pipe bomb
-    .desc = An improvised explosive made from pipes and wire.
+ent-PipeBomb = трубчатая бомба
+    .desc = Самодельная бомба из труб и провода.
 
-ent-PipeBombGunpowder = pipe bomb
-    .desc = An improvised explosive made from a pipe. This one has no gunpowder.
-    .suffix = Gunpowder
+ent-PipeBombGunpowder = трубчатая бомба
+    .desc = Самодельная бомба из трубы. В этой нет пороха.
+    .suffix = Порох
 
-ent-PipeBombCable = pipe bomb
-    .desc = An improvised explosive made from a pipe. This one has no cable.
-    .suffix = Cable
+ent-PipeBombCable = трубчатая бомба
+    .desc = Самодельная бомба из трубы. В этой нет кабеля.
+    .suffix = Кабель

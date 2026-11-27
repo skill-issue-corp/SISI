@@ -1,32 +1,32 @@
-ent-BaseAutomationFilter = filter
-    .desc = A filter that can be installed in factory machines.
+ent-BaseAutomationFilter = фильтр
+    .desc = Фильтр для фабричных машин.
 
 ent-BaseAutomationFilterToggled = { ent-BaseAutomationFilter }
     .desc = { ent-BaseAutomationFilter.desc }
 
-ent-AutomationFilterLabel = label filter
-    .desc = A filter that can be installed in factory machines. This one scans labels of attached items.
+ent-AutomationFilterLabel = фильтр по этикетке
+    .desc = Фильтр для фабричных машин. Эта модель считывает этикетки на предметах.
 
-ent-AutomationFilterName = name filter
-    .desc = A filter that can be installed in factory machines. This one uses complex AI vision technology to identify items.
+ent-AutomationFilterName = фильтр по названию
+    .desc = Фильтр для фабричных машин. Эта модель распознаёт предметы с помощью сложной системы машинного зрения.
 
-ent-AutomationFilterStack = stack filter
-    .desc = A filter that can be installed in factory machines. This one weighs items to compare it to a stack size.
+ent-AutomationFilterStack = стековый фильтр
+    .desc = Фильтр для фабричных машин. Эта модель взвешивает предметы, чтобы сверить размер стопки.
 
-ent-AutomationFilterPressure = pressure filter
-    .desc = A filter that can be installed in factory machines. This one has a barometer to check the pressure of gases.
+ent-AutomationFilterPressure = фильтр давления
+    .desc = Фильтр для фабричных машин. У этой модели есть барометр для проверки давления газа.
 
-ent-AutomationFilterCombined = combined filter
-    .desc = A filter that can be installed in factory machines. This one uses a logic gate to combine 2 installed item filters.
+ent-AutomationFilterCombined = комбинированный фильтр
+    .desc = Фильтр для фабричных машин. Эта модель объединяет 2 установленных фильтра с помощью логического элемента.
 
-ent-AutomationFilterAnchor = anchor filter
-    .desc = A filter that can be installed in factory machines. This one detects an anchorable object, and it being anchored or not.
+ent-AutomationFilterAnchor = фильтр закрепления
+    .desc = Фильтр для фабричных машин. Эта модель распознаёт объекты, которые можно закрепить, и проверяет, закреплены ли они.
 
-ent-AutomationFilterMob = mob filter
-    .desc = A filter that can be installed in factory machines. This one detects living creatures and filters based on alive, critical or dead states.
+ent-AutomationFilterMob = фильтр существ
+    .desc = Фильтр для фабричных машин. Эта модель распознаёт существ и отбирает их по состоянию: жив, в крите или мёртв.
 
-ent-AutomationFilterCuff = cuff filter
-    .desc = A filter that can be installed in factory machines. This one detects whether people are restrained... who made this!?
+ent-AutomationFilterCuff = фильтр наручников
+    .desc = Фильтр для фабричных машин. Эта модель определяет, связаны ли люди... кто это вообще придумал!?
 
-ent-AutomationFilterMaterial = material filter
-    .desc = A filter that can be installed in factory machines. This one detects raw materials and can sort between different types.
+ent-AutomationFilterMaterial = фильтр материалов
+    .desc = Фильтр для фабричных машин. Эта модель распознаёт сырьё и сортирует его по типам.

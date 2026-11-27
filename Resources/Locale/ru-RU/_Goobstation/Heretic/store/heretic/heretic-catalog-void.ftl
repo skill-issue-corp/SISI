@@ -1,89 +1,89 @@
-knowledge-path-void-passive-desc-1 = Grants you immunity to cold temperatures.
-knowledge-path-void-passive-desc-2 = You no longer need to breathe.
-knowledge-path-void-passive-desc-3 = Grants you partial resistance to all slowdowns.
+knowledge-path-void-passive-desc-1 = Даёт вам иммунитет к низким температурам.
+knowledge-path-void-passive-desc-2 = Вам больше не нужно дышать.
+knowledge-path-void-passive-desc-3 = Даёт частичное сопротивление любым эффектам замедления.
 
-knowledge-path-void-s1-name = Glimmer of Winter
+knowledge-path-void-s1-name = Проблеск Зимы
 knowledge-path-void-s1-desc =
-    I feel a shimmer in the air, the air around me gets colder.
-    I start to realize the emptiness of existence. Something's watching me.
+    Я замечаю мерцание в воздухе, и вокруг становится холоднее.
+    Я начинаю постигать пустоту бытия. Нечто следит за мной.
 
-    Opens up the Path of Void to you.
-    Allows you to transmute a knife in sub-zero temperatures into a Void Blade.
-    You can only create two at a time.
+    Открывает вам Путь Пустоты.
+    Позволяет превратить нож в Клинок Пустоты при отрицательной температуре.
+    Одновременно можно иметь не больше двух клинков.
 
-knowledge-path-void-s2-name = Grasp of Void
+knowledge-path-void-s2-name = Хватка Пустоты
 knowledge-path-void-s2-desc =
-    I saw the cold watcher who observes me. The chill mounts within me.
-    They are quiet. This isn't the end of the mystery.
+    Я увидел холодного наблюдателя, что следит за мной. Холод во мне крепнет.
+    Он безмолвен. Тайна на этом не кончается.
 
-    Your Mansus Grasp will temporarily mute and chill the victim.
+    Хватка Мансуса на время лишает жертву голоса и охлаждает её.
 
-knowledge-path-void-s3-name = Mark of Void
+knowledge-path-void-s3-name = Метка Пустоты
 knowledge-path-void-s3-desc =
-    A gust of wind? A shimmer in the air? The presence is overwhelming, my senses began to betray me. My mind is my own enemy.
+    Порыв ветра? Мерцание в воздухе? Это присутствие невыносимо. Чувства меня предают. Мой собственный разум — мой враг.
 
-    Your Mansus Grasp now applies the Mark of Void. The mark is triggered from an attack with your Void Blade.
-    When triggered, gives the victim the Curse of Void, which will mute and slowly freeze them to death.
+    Хватка Мансуса накладывает Метку Пустоты. Она срабатывает при ударе Клинком Пустоты.
+    При срабатывании жертва получает Проклятие Пустоты, которое лишает её голоса и медленно замораживает насмерть.
 
-knowledge-path-void-s4-name = Void Phase
+knowledge-path-void-s4-name = Фаза Пустоты
 knowledge-path-void-s4-desc =
-    The entity calls themself the Aristocrat. They effortlessly walk through air like nothing - leaving a harsh, cold breeze in their wake.
-    They disappear, and I am left in the blizzard.
+    Существо называет себя Аристократом. Оно без труда ступает по воздуху, оставляя за собой пронизывающий холодный ветер.
+    Оно исчезает, и я остаюсь один посреди метели.
 
-    Grants you Void Phase, a long range targeted teleport spell.
-    Additionally causes damage to heathens around your original and target destination.
+    Даёт Фазу Пустоты — заклинание телепортации в выбранную точку на большом расстоянии.
+    Дополнительно наносит урон язычникам у точки отправления и точки прибытия.
 
-knowledge-path-void-s5-name = Void Prison
+knowledge-path-void-s5-name = Темница Пустоты
 knowledge-path-void-s5-desc =
-    At first, I see myself, waltzing along a snow-laden street.
-    I try to yell, grab hold of this fool and tell them to run.
-    But the only welts made are on my own beating fist.
-    My smiling face turns to regard me, reflecting back in glassy eyes the empty path I have been lead down.
+    Сперва я вижу себя, вальсирующего по заснеженной улице.
+    Я пытаюсь крикнуть, схватить этого глупца и велеть ему бежать.
+    Но следы остаются лишь на моём собственном разбитом кулаке.
+    Моё улыбающееся лицо поворачивается ко мне, и в стеклянных глазах отражается пустой путь, по которому меня вели.
 
-    Grants you Void Prison, a spell that places your victim into a ball, making them unable to do anything or speak. Applies void chill afterwards.
+    Даёт Темницу Пустоты — заклинание, которое заключает жертву в шар, лишая возможности действовать и говорить. Затем накладывает холод пустоты.
 
-knowledge-path-void-armor-name = Hollow Weave
+knowledge-path-void-armor-name = Пустое Плетение
 knowledge-path-void-armor-desc =
-    Stepping through the cold air, I am shocked by a new sensation.
-    Thousands of almost imperceivable threads cling to my form.
-    I am left adrift with every step.
-    Even as I hear the crunch of snow as I plant my foot to the ground, I feel nothing.
+    Шагая сквозь холодный воздух, я вздрагиваю от нового ощущения.
+    Тысячи почти неощутимых нитей цепляются за моё тело.
+    С каждым шагом я всё больше теряю опору.
+    Даже когда я слышу, как под ногой хрустит снег, я ничего не чувствую.
 
-    Allows you to transmute a table (or a suit) and a mask in sub-zero temperatures to create a Hollow Weave,
-    this armor grants protection from the hazards of space and will periodically nullify attacks and grant you a short stealth camouflage to reposition yourself.
-    Acts as a focus while hooded.
-    Unlocks tier 2 passive ability upgrade when transmuted.
+    Позволяет превратить стол (или одежду) и маску при отрицательной температуре в Пустое Плетение,
+    эту броню, защищающую от космоса. Она периодически отражает атаки и ненадолго даёт маскировку, чтобы вы могли сменить позицию.
+    С поднятым капюшоном служит фокусом.
+    Трансмутация открывает 2 уровень пассивной способности.
 
-knowledge-path-void-s6-name = Void Pull
+knowledge-path-void-s6-name = Притяжение Пустоты
 knowledge-path-void-s6-desc =
-    All is fleeting, but what else stays? I'm close to ending what was started.
-    The Aristocrat reveals themselves to me again. They tell me I am late. Their pull is immense, I cannot turn back.
+    Всё мимолётно. Но что же остаётся? Я почти закончил начатое.
+    Аристократ вновь является мне. Он говорит, что я опаздываю. Его притяжение так сильно, что назад уже не повернуть.
 
-    Grants you Void Pull, a spell that pulls all nearby heathens towards you, stunning them briefly.
+    Даёт Притяжение Пустоты — заклинание, которое притягивает к вам ближайших язычников, ненадолго оглушая их.
 
-knowledge-path-void-s7-name = Seeking Blade
+knowledge-path-void-s7-name = Ищущий Клинок
 knowledge-path-void-s7-desc =
-    Fleeting memories, fleeting feet. I mark my way with frozen blood upon the snow. Covered and forgotten.
+    Мимолётные воспоминания, мимолётные шаги. Отмечаю свой путь замёрзшей кровью на снегу. Скрыто и забыто.
 
-    Your blade now freezes enemies. Additionally, you can now attack distant targets with your Void Blade, teleporting directly next to them.
+    Теперь ваш клинок замораживает врагов. Клинком Пустоты можно атаковать и отдалённые цели, телепортируясь прямо к ним.
 
-knowledge-path-void-s8-name = Void Conduit
+knowledge-path-void-s8-name = Проводник Пустоты
 knowledge-path-void-s8-desc =
-    The hum in the still, cold air turns to a cacophonous rattle.
-    Over the noise, there is no distinction to the clattering of window panes and the yawning knowledge that ricochets through my skull.
-    The doors won't close. I can't keep the cold out now.
+    Гул в неподвижном холодном воздухе перерастает в оглушительный грохот.
+    В этом шуме не различить, где звенят стёкла, а где в черепе эхом мечется пропасть знания.
+    Двери не закрываются. Теперь холод не остановить.
 
-    Grants you Void Conduit, a spell which summons a pulsing gate to the Void itself. Every pulse breaks windows and airlocks, while afflicting Heathens with an eldritch chill and shielding Heretics against low pressure.
-    Spell has a maximum of 1 charge, rechargeable by breaking (using) heretic blade in your hand.
+    Даёт Проводник Пустоты — заклинание, открывающее пульсирующие врата в саму Пустоту. Каждый импульс разбивает окна и шлюзы, пронзает Язычников потусторонним холодом и защищает Еретиков от низкого давления.
+    У заклинания максимум 1 заряд. Чтобы восстановить его, разбейте клинок еретика, активировав его в руке.
 
-knowledge-path-void-s9-name = Waltz at the End of Time
+knowledge-path-void-s9-name = Вальс в Конце Времён
 knowledge-path-void-s9-desc =
-    The ascension ritual of the Path of Void.
-    Bring 3 corpses to a transmutation rune in sub-zero temperatures to complete the ritual.
-    When completed, grants you Aristocrat's Blessing.
-    A snowstorm is summoned, everything around you will be turned into snow and the air will constantly be frozen.
-    Lights will shatter when nearby.
-    Water, ice and slippery surfaces no longer slip you.
-    You will also become immune to flames, space, and similar environmental hazards.
-    You now waltz in the air, ignoring gravitation and moving at increased speed.
-    Void Conduit charge condition is removed and your other void spells have their cooldowns halved.
+    Ритуал вознесения Пути Пустоты.
+    Чтобы завершить ритуал, принесите 3 тела к руне трансмутации при отрицательной температуре.
+    После завершения вы получите Благословение Аристократа.
+    Начнётся метель, всё вокруг покроется снегом, а воздух будет непрерывно замерзать.
+    Источники света поблизости будут разбиваться.
+    Теперь вы не поскользнётесь на воде, льду и скользких поверхностях.
+    Вы также получите иммунитет к огню, космосу и сходным угрозам среды.
+    Теперь вы вальсируете в воздухе, не подчиняясь гравитации и двигаясь быстрее.
+    Проводник Пустоты больше не требует зарядов, а остальные заклинания пустоты восстанавливаются вдвое быстрее.

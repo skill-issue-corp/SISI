@@ -1,2 +1,2 @@
-ent-Mannequin = mannequin
-    .desc = It can wear any clothing with style.
+ent-Mannequin = манекен
+    .desc = Стильно носит любую одежду.

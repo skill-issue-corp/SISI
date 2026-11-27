@@ -1,3 +1,3 @@
-ent-ArmClawChangeling = hand claw
-    .desc = A grotesque claw made out of bone and flesh that instantly grabs anyone it hits.
-    .suffix = Unremoveable
+ent-ArmClawChangeling = рука-коготь
+    .desc = Мерзкий коготь из кости и плоти, который мгновенно хватает любого, кого заденет.
+    .suffix = Несъёмный

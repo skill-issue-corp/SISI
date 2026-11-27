@@ -1,17 +1,17 @@
-ent-BaseExosuitParts = base components
+ent-BaseExosuitParts = базовые компоненты
     .desc = { ent-BaseItem.desc }
 
-ent-DurandArmorPlate = durand armor plates
-    .desc = Armor plates made of plasteel for Durand exosuit.
+ent-DurandArmorPlate = бронепластины дюранда
+    .desc = Пласталевые бронепластины для экзокостюма «Дюранд».
 
-ent-GygaxArmorPlate = gygax armor plates
-    .desc = Armor plates made of steel for Gygax exosuit.
+ent-GygaxArmorPlate = бронепластины гайгэкса
+    .desc = Стальные бронепластины для экзокостюма «Гайгэкс».
 
-ent-RipleyUpgradeKit = exosuit upgrade kit
-    .desc = This kit allows you to assemble an exosuit Ripley MK-II.
+ent-RipleyUpgradeKit = комплект улучшения экзокостюма
+    .desc = Этот комплект позволяет собрать экзокостюм Рипли MK-II.
 
-ent-MechAirTank = exosuit air tank
-    .desc = A special air canister capable of holding a large amount of air.
+ent-MechAirTank = воздушный баллон экзокостюма
+    .desc = Особый баллон, вмещающий большое количество воздуха.
 
-ent-MechThruster = exosuit thruster
-    .desc = A thruster with which the exosuit can safely move in the absence of gravity.
+ent-MechThruster = двигатель экзокостюма
+    .desc = Двигатель, позволяющий экзокостюму безопасно двигаться в невесомости.

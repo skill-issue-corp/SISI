@@ -1,9 +1,9 @@
-ent-ClothingBackpackXenoBioTank = xenovac containment tank
-    .desc = Holds xenofauna. Also contains a vacuum nozzle on it's side. It's just like slime rancher.
+ent-ClothingBackpackXenoBioTank = резервуар ксенопылесоса
+    .desc = Вмещает ксенофауну. Сбоку есть всасывающая насадка. Прямо как в slime rancher.
 
 ent-ClothingBackpackXenoBioTankFilled = { ent-ClothingBackpackXenoBioTank }
     .desc = { ent-ClothingBackpackXenoBioTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-WeaponXenoVacNozzle = xenovac nozzle
-    .desc = A high-powered vacuum nozzle used in conjunction with a backpack-mounted storage tank to store slimes.
+ent-WeaponXenoVacNozzle = насадка ксенопылесоса
+    .desc = Мощная всасывающая насадка, которая загоняет слаймов в резервуар за спиной.

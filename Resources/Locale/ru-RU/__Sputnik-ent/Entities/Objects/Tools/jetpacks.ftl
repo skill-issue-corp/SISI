@@ -1,60 +1,60 @@
 ent-JetpackEffect = { "" }
     .desc = { "" }
 
-ent-BaseJetpack = jetpack
-    .desc = It's a jetpack. It can hold 5 L of gas.
+ent-BaseJetpack = джетпак
+    .desc = Это джетпак. Вмещает 5 л газа.
 
-ent-ActionToggleJetpack = Toggle jetpack
-    .desc = Toggles the jetpack, giving you movement outside the station.
+ent-ActionToggleJetpack = Переключить джетпак
+    .desc = Включает или выключает джетпак, позволяя вам передвигаться за пределами станции.
 
-ent-JetpackBlue = jetpack
+ent-JetpackBlue = джетпак
     .desc = { ent-BaseJetpack.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-JetpackBlueFilled = jetpack
+ent-JetpackBlueFilled = джетпак
     .desc = { ent-JetpackBlue.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-JetpackBlack = jetpack
+ent-JetpackBlack = джетпак
     .desc = { ent-BaseJetpack.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-JetpackBlackFilled = jetpack
+ent-JetpackBlackFilled = джетпак
     .desc = { ent-JetpackBlack.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-JetpackCaptain = captain's jetpack
+ent-JetpackCaptain = джетпак капитана
     .desc = { ent-BaseJetpack.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-JetpackCaptainFilled = captain's jetpack
+ent-JetpackCaptainFilled = джетпак капитана
     .desc = { ent-JetpackCaptain.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-JetpackMini = mini jetpack
-    .desc = It's a jetpack. It can hold 1.5 L of gas.
-    .suffix = Empty
+ent-JetpackMini = мини-джетпак
+    .desc = Это джетпак. Вмещает 1.5 л газа.
+    .suffix = Пусто
 
-ent-JetpackMiniFilled = mini jetpack
+ent-JetpackMiniFilled = мини-джетпак
     .desc = { ent-JetpackMini.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-JetpackSecurity = security mini jetpack
-    .desc = A compact jetpack utilized by station security when patrolling the station's exterior. Not intended for long range travel, it holds only 1.5 L of gas.
-    .suffix = Empty
+ent-JetpackSecurity = мини-джетпак службы безопасности
+    .desc = Компактный джетпак для патрулирования станции снаружи сотрудниками службы безопасности. Не рассчитан на дальние перелёты: вмещает всего 1.5 л газа.
+    .suffix = Пусто
 
-ent-JetpackSecurityFilled = security jetpack
+ent-JetpackSecurityFilled = джетпак службы безопасности
     .desc = { ent-JetpackSecurity.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-JetpackVoid = void jetpack
+ent-JetpackVoid = пустотный джетпак
     .desc = { ent-BaseJetpack.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-JetpackVoidFilled = void jetpack
+ent-JetpackVoidFilled = пустотный джетпак
     .desc = { ent-JetpackVoid.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-JetpackXenoborg = xenoborg jetpack
+ent-JetpackXenoborg = джетпак ксеноборгов
     .desc = { ent-JetpackBlack.desc }
-    .suffix = Infinite
+    .suffix = Бесконечный

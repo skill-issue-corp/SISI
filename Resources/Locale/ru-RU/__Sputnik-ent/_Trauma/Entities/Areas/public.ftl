@@ -1,71 +1,71 @@
-ent-AreaAirlock = airlock
+ent-AreaAirlock = шлюз
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaArcade = arcade
+ent-AreaArcade = игровой автомат
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaArrivals = arrivals
+ent-AreaArrivals = прибытие
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaCryosleep = cryosleep
+ent-AreaCryosleep = криосон
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaDock = dock
+ent-AreaDock = стыковочный узел
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaDorms = dorms
+ent-AreaDorms = жилые помещения
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaDisposals = disposals
+ent-AreaDisposals = мусоросброс
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaEscapePods = escape pods
+ent-AreaEscapePods = спасательные капсулы
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaEvacHall = evac hall
+ent-AreaEvacHall = эвакуационный коридор
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaEvacLounge = evac lounge
+ent-AreaEvacLounge = зал ожидания эвакуации
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaFitness = fitness
+ent-AreaFitness = спортзал
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaGarden = garden
+ent-AreaGarden = сад
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaHallway = hallway
+ent-AreaHallway = коридор
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaHallwayCentral = central hallway
+ent-AreaHallwayCentral = центральный коридор
     .desc = { ent-AreaHallway.desc }
 
-ent-AreaLaserTag = laser tag
+ent-AreaLaserTag = лазертаг
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaLaundry = laundry room
+ent-AreaLaundry = прачечная
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaLounge = lounge
+ent-AreaLounge = зал отдыха
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaPool = pool
+ent-AreaPool = бассейн
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaRecRoom = rec room
+ent-AreaRecRoom = комната отдыха
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaRestroom = restroom
+ent-AreaRestroom = уборная
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaSauna = sauna
+ent-AreaSauna = сауна
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaShower = shower
+ent-AreaShower = душевая
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaToilet = toilet
+ent-AreaToilet = туалет
     .desc = { ent-BaseAreaStation.desc }
 
-ent-AreaVacantRoom = vacant room
+ent-AreaVacantRoom = свободная комната
     .desc = { ent-BaseAreaStation.desc }

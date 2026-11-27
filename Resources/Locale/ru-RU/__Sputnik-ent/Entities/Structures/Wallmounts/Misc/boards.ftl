@@ -1,8 +1,8 @@
 ent-BaseWallmountBoard = { ent-BaseWallmount }
     .desc = { ent-BaseWallmount.desc }
 
-ent-NoticeBoard = notice board
-    .desc = Is there a job for a witcher?
+ent-NoticeBoard = доска объявлений
+    .desc = Работа для ведьмака найдётся?
 
-ent-PostBoard = post board
-    .desc = Apply paper directly to the boardhead.
+ent-PostBoard = доска для объявлений
+    .desc = Прикладывайте бумагу прямо ко лбу доски.

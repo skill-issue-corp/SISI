@@ -1,2 +1,2 @@
-ent-CdRack = CD rack
-    .desc = Mostly filled with CDs.
+ent-CdRack = стойка для компакт-дисков
+    .desc = В основном заполнена компакт-дисками.

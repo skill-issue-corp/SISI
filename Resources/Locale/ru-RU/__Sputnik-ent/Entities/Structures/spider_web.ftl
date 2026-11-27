@@ -1,8 +1,8 @@
 ent-SpiderWebBase = { "" }
     .desc = { "" }
 
-ent-SpiderWeb = spider web
-    .desc = It's stringy and sticky.
+ent-SpiderWeb = паутина
+    .desc = Волокнистая и липкая.
 
-ent-SpiderWebClown = clown spider web
-    .desc = It's stringy and slippy.
+ent-SpiderWebClown = клоунская паутина
+    .desc = Волокнистая и скользкая.

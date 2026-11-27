@@ -1,2 +1,2 @@
-uplink-flip-name = How to flip off
-uplink-flip-desc = I'm not gonna sugarcoat it. A handy manual, made for flipping anything off, including bullets and lasers. Allows you to dodge any projectile by flipping. Be aware that it is really exhausting to do.
+uplink-flip-name = Как показать средний палец
+uplink-flip-desc = Говорю прямо: это карманное руководство научит посылать куда подальше всё, включая пули и лазеры. Показывайте средний палец, чтобы увернуться от любого снаряда. Учтите, это очень выматывает.

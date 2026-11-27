@@ -5,5 +5,5 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # General
-intellicard-core-occupied = The AI core is already occupied by another digital consciousness.
-intellicard-core-empty = The AI core has no digital consciousness to download.
+intellicard-core-occupied = Ядро ИИ уже занято другим цифровым сознанием.
+intellicard-core-empty = В ядре ИИ нет цифрового сознания, которое можно скачать.

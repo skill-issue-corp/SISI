@@ -1,53 +1,53 @@
-ent-VoidPortalBase = Harbinger portal
+ent-VoidPortalBase = Портал Предвестника
     .desc = { "" }
 
-ent-VoidPortalEmpty = Harbinger portal
+ent-VoidPortalEmpty = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalSkeletonGoonWraith = Harbinger portal
+ent-VoidPortalSkeletonGoonWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalCrunchedWraith = Harbinger portal
+ent-VoidPortalCrunchedWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalShadeWraith = Harbinger portal
+ent-VoidPortalShadeWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalMonstrosityHeadWraith = Harbinger portal
+ent-VoidPortalMonstrosityHeadWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalMonstrosityBodyWraith = Harbinger portal
+ent-VoidPortalMonstrosityBodyWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalLionWraith = Harbinger portal
+ent-VoidPortalLionWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalAncientRepairBotWraith = Harbinger portal
+ent-VoidPortalAncientRepairBotWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalAncientGuardBotWraith = Harbinger portal
+ent-VoidPortalAncientGuardBotWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalAncientRobot1Wraith = Harbinger portal
+ent-VoidPortalAncientRobot1Wraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalAncientRobot2Wraith = Harbinger portal
+ent-VoidPortalAncientRobot2Wraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalAncientRobot3Wraith = Harbinger portal
+ent-VoidPortalAncientRobot3Wraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalAncientLegsWraith = Harbinger portal
+ent-VoidPortalAncientLegsWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalBearGoonWraith = Harbinger portal
+ent-VoidPortalBearGoonWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalBrullbarWraith = Harbinger portal
+ent-VoidPortalBrullbarWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalBGunbotWraith = Harbinger portal
+ent-VoidPortalBGunbotWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }
 
-ent-VoidPortalNukebotWraith = Harbinger portal
+ent-VoidPortalNukebotWraith = Портал Предвестника
     .desc = { ent-VoidPortalBase.desc }

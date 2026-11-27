@@ -1,5 +1,5 @@
 ent-BaseBlobObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-BlobCaptureObjective = Take over the station
+ent-BlobCaptureObjective = Захватить станцию
     .desc = { ent-BaseBlobObjective.desc }

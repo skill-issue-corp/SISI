@@ -1,8 +1,8 @@
-ent-CrateNPCMothmaggot = crate of mothmaggots
-    .desc = A crate containing four disgusting mothmaggots. Gestation hosts sold separately.
+ent-CrateNPCMothmaggot = ящик личинок таракамоли
+    .desc = Ящик с четырьмя отвратительными личинками таракамоли. Носители для вынашивания продаются отдельно.
 
-ent-CrateNPCBunny = crate of bunnies
-    .desc = A crate containing four cute bunnies.
+ent-CrateNPCBunny = ящик кроликов
+    .desc = Ящик с четырьмя милыми кроликами.
 
-ent-CrateNPCSnakeGrass = grass snake crate
-    .desc = A crate containing three snakes.
+ent-CrateNPCSnakeGrass = ящик с ужом
+    .desc = Ящик с тремя змеями.

@@ -1,2 +1,2 @@
-ent-BaseBlob = base blob
+ent-BaseBlob = базовый блоб
     .desc = { "" }

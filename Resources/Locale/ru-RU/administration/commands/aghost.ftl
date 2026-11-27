@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-aghost-desc = Makes you or others an admin ghost.
-aghost-no-mind-self = You can't ghost here!
-aghost-no-mind-other = They can't ghost here!
+cmd-aghost-desc = Превращает вас или других игроков в административных призраков.
+aghost-no-mind-self = Здесь нельзя гостнуться!
+aghost-no-mind-other = Здесь этот игрок не может гостнуться!

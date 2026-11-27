@@ -1,2 +1,2 @@
-ent-HolyAsh = holy ash
-    .desc = The byproduct of a consecrated cremation. It can be made into a magical ink by mixing it into a bottle.
+ent-HolyAsh = священный пепел
+    .desc = Остаток после освящённой кремации. Из него можно сделать волшебные чернила, смешав его с другими компонентами во флаконе.

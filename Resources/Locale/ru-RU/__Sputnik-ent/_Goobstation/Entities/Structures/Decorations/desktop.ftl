@@ -1,2 +1,2 @@
-ent-Desktop = desktop computer
-    .desc = The screen says to hold for the OS to update. Though the progress bar never seems to move.
+ent-Desktop = настольный компьютер
+    .desc = На экране просят дождаться обновления ОС. Вот только полоса загрузки, похоже, не движется.

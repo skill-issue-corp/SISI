@@ -1,8 +1,8 @@
-ent-ForensicScanner = forensic scanner
-    .desc = A handheld device that can scan objects for fingerprints and fibers.
+ent-ForensicScanner = криминалистический сканер
+    .desc = Ручное устройство, обнаруживающее на предметах отпечатки пальцев и волокна.
 
-ent-ForensicReportPaper = forensic scanner report
-    .desc = Circumstantial evidence, at best.
+ent-ForensicReportPaper = отчёт криминалистического сканера
+    .desc = В лучшем случае косвенная улика.
 
-ent-PaperAccessLogs = access logs
-    .desc = A printout from the detective's trusty LogProbe.
+ent-PaperAccessLogs = журналы доступа
+    .desc = Распечатка из верного «ЖурналаДоступа» детектива.

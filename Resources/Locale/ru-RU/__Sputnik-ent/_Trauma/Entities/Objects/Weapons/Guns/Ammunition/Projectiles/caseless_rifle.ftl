@@ -1,5 +1,5 @@
-ent-BulletCaselessRifleTranquilizer = bullet (.25 caseless tranq)
+ent-BulletCaselessRifleTranquilizer = пуля (.25 безгильзовая с транквилизатором)
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletCaselessRiflePoison = bullet (.25 caseless toxin)
+ent-BulletCaselessRiflePoison = пуля (.25 безгильзовая с токсином)
     .desc = { ent-BaseBullet.desc }

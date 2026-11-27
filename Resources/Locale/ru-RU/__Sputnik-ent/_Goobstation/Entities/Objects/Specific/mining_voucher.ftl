@@ -1,2 +1,2 @@
-ent-MiningVoucher = mining voucher
-    .desc = A token to redeem a piece of equipment. Insert into your salvage vendor to redeem it.
+ent-MiningVoucher = шахтёрский ваучер
+    .desc = Жетон для получения снаряжения. Чтобы обменять его, вставьте в торговый автомат утилизаторов.

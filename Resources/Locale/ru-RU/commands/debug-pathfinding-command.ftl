@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-pathfinder-desc = Toggles visibility of pathfinding debuggers.
-cmd-pathfinder-help = Usage: {$command} [options]
-cmd-pathfinder-error = Unrecognised pathfinder args {$arg}
-cmd-pathfinder-notify = Toggled {$arg} to {$newMode}
+cmd-pathfinder-desc = Переключает отображение отладки поиска пути.
+cmd-pathfinder-help = Использование: {$command} [options]
+cmd-pathfinder-error = Неизвестный аргумент поиска пути {$arg}
+cmd-pathfinder-notify = Значение {$arg} переключено на {$newMode}

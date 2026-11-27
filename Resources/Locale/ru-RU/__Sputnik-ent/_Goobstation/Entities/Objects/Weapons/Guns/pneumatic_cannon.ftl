@@ -1,23 +1,23 @@
-ent-LauncherCreamPieRegenerating = regenerating pie cannon
-    .desc = A self-regenerating pie cannon.
-    .suffix = Regenerating
+ent-LauncherCreamPieRegenerating = самозарядная пироговая пушка
+    .desc = Самозарядная пушка для пирогов.
+    .suffix = Самозарядная
 
-ent-LauncherLollypopRegeneratingTricordazine = tricordrazine lollypop dispenser
-    .desc = Utilizes a in-built fabricator to generate tricordrazine lollypops from energy.
-    .suffix = Regenerating, DO NOT MAP
+ent-LauncherLollypopRegeneratingTricordazine = раздатчик леденцов с трикордразином
+    .desc = Встроенный фабрикатор превращает энергию в леденцы с трикордразином.
+    .suffix = Восстанавливается, НЕ МАППИТЬ
 
-ent-LauncherLollypopRegeneratingOmnizine = omnizine lollypop dispenser
-    .desc = Utilizes a in-built fabricator to generate omnizine lollypops from energy.
-    .suffix = Regenerating, DO NOT MAP
+ent-LauncherLollypopRegeneratingOmnizine = раздатчик леденцов с омнизином
+    .desc = Встроенный фабрикатор превращает энергию в леденцы с омнизином.
+    .suffix = Восстанавливается, НЕ МАППИТЬ
 
-ent-LauncherLollypopRegeneratingWeh = weh! lollypop dispenser
-    .desc = Utilizes a in-built fabricator to generate Weh! lollypops from energy. Weh!
-    .suffix = Regenerating, DO NOT MAP
+ent-LauncherLollypopRegeneratingWeh = раздатчик леденцов «вех!»
+    .desc = Встроенный фабрикатор превращает энергию в леденцы «Вех!». Вех!
+    .suffix = Восстанавливается, НЕ МАППИТЬ
 
-ent-LauncherLollypopRegeneratingMystery = mystery lollypop dispenser
-    .desc = Utilizes a in-built fabricator to generate randomized lollypops from energy.
-    .suffix = Regenerating, DO NOT MAP
+ent-LauncherLollypopRegeneratingMystery = раздатчик леденцов с сюрпризом
+    .desc = Встроенный фабрикатор превращает энергию в случайные леденцы.
+    .suffix = Восстанавливается, НЕ МАППИТЬ
 
-ent-LauncherLollypopRegenerating = lollypop dispenser
-    .desc = Utilizes a in-built fabricator to generate lollypops from energy.
-    .suffix = Regenerating, DO NOT MAP
+ent-LauncherLollypopRegenerating = раздатчик леденцов
+    .desc = Встроенный фабрикатор превращает энергию в леденцы.
+    .suffix = Восстанавливается, НЕ МАППИТЬ

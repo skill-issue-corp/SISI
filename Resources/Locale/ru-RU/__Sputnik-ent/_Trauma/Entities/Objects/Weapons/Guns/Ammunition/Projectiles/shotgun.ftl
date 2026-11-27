@@ -1,2 +1,2 @@
-ent-PelletShotgunTearGas = bullet (12 Gauge tear gas)
+ent-PelletShotgunTearGas = пуля (12 Калибр слезоточивый газ)
     .desc = { ent-BaseBulletTrigger.desc }

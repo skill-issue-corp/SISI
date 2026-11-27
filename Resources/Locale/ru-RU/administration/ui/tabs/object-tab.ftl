@@ -6,16 +6,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-object-tab-entity-id = Entity ID
-object-tab-object-name = Object name
+object-tab-entity-id = ID Объекта
+object-tab-object-name = Имя объекта
 
-object-tab-object-type = Object type:
-object-tab-object-search = Search...
+object-tab-object-type = Тип объекта:
+object-tab-object-search = Поиск...
 
-object-tab-object-type-grids = Grids
-object-tab-object-type-maps = Maps
-object-tab-object-type-stations = Stations
-object-tab-refresh-button = Refresh
+object-tab-object-type-grids = Сетки
+object-tab-object-type-maps = Карты
+object-tab-object-type-stations = Станции
+object-tab-refresh-button = Обновить
 
-object-tab-entity-teleport = Teleport
-object-tab-entity-delete = Delete
+object-tab-entity-teleport = Телепортироваться
+object-tab-entity-delete = Удалить

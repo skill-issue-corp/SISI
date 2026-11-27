@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 multi-handed-item-pick-up-fail = {$number ->
-    [one] You need one more free hand to pick up { THE($item) }.
-    *[other] You need { $number } more free hands to pick up { THE($item) }.
+    [1] Чтобы поднять { $item }, нужна ещё одна свободная рука.
+    *[other] Чтобы поднять { $item }, нужно ещё свободных рук: { $number }.
 }

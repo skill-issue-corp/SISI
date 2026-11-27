@@ -1,47 +1,47 @@
 ent-BaseNullrod = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-Nullrod = Null Rod
-    .desc = The old classic. Does nothing special, really.
+ent-Nullrod = Нулевой Жезл
+    .desc = Старая классика. Ничего особенного, если честно.
 
-ent-HolyClaymore = holy claymore
-    .desc = A weapon fit for a crusade! A sword capable of stealing life from evil-doers.
+ent-HolyClaymore = святой клеймор
+    .desc = Оружие, достойное крестового похода! Меч, способный высасывать жизнь из злодеев.
 
-ent-Rosary = rosary
-    .desc = Using these to pray near someone will heal them. They are surrounded by a holy aura.
+ent-Rosary = чётки
+    .desc = Если помолиться с ними рядом с кем-нибудь, он исцелится. Чётки окружены святой аурой.
 
-ent-GodHand = Hand of God
-    .desc = A holy, fiery gift from the gods. You won't drop this one.
-    .suffix = Unremoveable
+ent-GodHand = Длань Бога
+    .desc = Святой огненный дар богов. Этот вы из рук не выпустите.
+    .suffix = Несъёмный
 
-ent-ArrythmicKnife = arrythmic knife
-    .desc = They say fear is the true mind killer, but stabbing them in the head works too. Slows you down and speeds you up randomly.
+ent-ArrythmicKnife = аритмичный нож
+    .desc = Говорят, страх по-настоящему убивает разум, но удар ножом в голову тоже сойдёт. Случайным образом то замедляет, то ускоряет вас.
 
-ent-MonkStaff = monk's staff
-    .desc = A long, tall staff made of polished wood. Traditionally used in ancient old-Earth martial arts, now used to harass the clown.
+ent-MonkStaff = посох монаха
+    .desc = Длинный высокий посох из полированного дерева. На древней Земле его использовали в боевых искусствах, а теперь им донимают клоуна.
 
-ent-Bulwark = Bulwark
-    .desc = An absolutely enormous two handed shield, very difficult to use if not planted in place.
+ent-Bulwark = Бастион
+    .desc = Поистине огромный двуручный щит. Очень трудно пользоваться, если не установить на месте.
 
-ent-HonkmotherMaw = Honkmother's Maw
-    .desc = a-HEAD of you lies a path most hilarious.
+ent-HonkmotherMaw = Пасть Хонкоматери
+    .desc = Впереди ГОЛОВОкружительно смешной путь.
 
-ent-UristHand = Grey Emperor's Glove
-    .desc = The tide beckons.
-    .suffix = Unremoveable
+ent-UristHand = Перчатка Серого Императора
+    .desc = Грейтайд зовёт.
+    .suffix = Несъёмный
 
-ent-HolyChainsaw = his holy chainsaw
-    .desc = And because it's fuckin' FUN! AHAHA! AHAHAHA! AHAH-AAAAAAAA-MEN!
-    .suffix = Unremoveable
+ent-HolyChainsaw = его святая бензопила
+    .desc = Да потому что это охуенно ВЕСЕЛО! АХАХА! АХАХАХА! АХАХ-АААААААА-МИНЬ!
+    .suffix = Несъёмный
 
 ent-WeaponPistolCasul = casul
-    .desc = The first of two huge pistols, capable of firing regenerating silver bullets. Incapable of firing without its sister gun.
+    .desc = Первый из двух огромных пистолетов. Стреляет самовосстанавливающимися серебряными пулями. Не может стрелять без парного пистолета.
 
 ent-WeaponPistolJackal = jackal
-    .desc = The second of two huge pistols, capable of firing regenerating silver bullets. Incapable of firing without its sister gun.
+    .desc = Второй из двух огромных пистолетов. Стреляет самовосстанавливающимися серебряными пулями. Не может стрелять без парного пистолета.
 
-ent-BlessingOfTheReaper = blessing of the reaper
-    .desc = A special undroppable armblade nullrod, it's blessed by the dark gods.
+ent-BlessingOfTheReaper = благословение жнеца
+    .desc = Особый несбрасываемый нулевой жезл в форме руки-клинка, благословлённый тёмными богами.
 
-ent-RatvarianSpear = ancient spear
-    .desc = An ancient spear made of brass, I mean gold, I mean bronze. It looks highly mechanical.
+ent-RatvarianSpear = древнее копьё
+    .desc = Древнее копьё из латуни, то есть из золота, то есть из бронзы. Выглядит на редкость механическим.

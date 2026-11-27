@@ -1,26 +1,26 @@
-ent-ActionVampGargRejuv = Rejuvenate
-    .desc = Removes any and all stuns. Purges 10u of any harmful reagent. Rejuvenates more health the more damage you've taken, to a maximum of 50 health at 100 damage.
+ent-ActionVampGargRejuv = Омоложение
+    .desc = Снимает все виды оглушения. Выводит 10 ед. любого вредного реагента. Чем больше урона вы получили, тем больше здоровья восстановится. Максимум 50 ед. здоровья при 100 ед. урона.
 
-ent-ActionBloodSwell = Blood Swell
-    .desc = For 30 seconds, reduces incoming brute by 60%, stamina and burn damage by 50%. Guns are unusable for the duration.
+ent-ActionBloodSwell = Прилив Крови
+    .desc = На 30 секунд снижает получаемый физический урон на 60%, а урон выносливости и ожоги на 50%. В это время нельзя пользоваться огнестрельным оружием.
 
-ent-ActionBloodSwellII = Blood Swell II
-    .desc = For 30 seconds, identical resistance buffs to Blood Swell I, user's melee damage is increased by 10. Guns are unusable for the duration.
+ent-ActionBloodSwellII = Прилив Крови II
+    .desc = На 30 секунд даёт ту же защиту, что и Прилив Крови I, и увеличивает ваш урон в ближнем бою на 10. В это время нельзя пользоваться огнестрельным оружием.
 
-ent-ActionBloodRush = Blood Rush
-    .desc = For 10 seconds, doubles movement speed. Instantly stands you up, removes any cuffs and clears knockdowns.
+ent-ActionBloodRush = Бурление Крови
+    .desc = Удваивает скорость передвижения на 10 секунд. Мгновенно поднимает вас на ноги, снимает наручники и прекращает действие эффектов сбивания с ног.
 
-ent-ActionGargStomp = Stomp
-    .desc = You stomp the ground, sending out a shockwave that knocks people back.
+ent-ActionGargStomp = Топот
+    .desc = Вы топаете по земле, посылая ударную волну, которая отбрасывает людей.
 
-ent-ActionOverwhelmingForce = Overwhelming Force
-    .desc = When activated, automatically and instantly pry open doors you don't have access to. Also prevents you from being pushed or pulled.
+ent-ActionOverwhelmingForce = Сокрушительная Сила
+    .desc = Пока способность активна, вы автоматически и мгновенно вскрываете двери, к которым у вас нет доступа. Кроме того, вас нельзя толкать или тащить.
 
-ent-ActionDemonicHand = Demonic Grasp
-    .desc = Send out a Demonic Hand that grabs and pulls/pushes a target depending on your intent. Harm mode pulls, otherwise it pushes.
+ent-ActionDemonicHand = Демоническая Хватка
+    .desc = Выпустите Демоническую Руку, которая хватает цель и притягивает/отталкивает её в зависимости от вашего интента. В режиме нанесения урона рука притягивает цель, в остальных случаях отталкивает.
 
-ent-ActionGargCharge = Charge
-    .desc = Click to charge. Stuns, damages, and knocks back mobs on impact. Completely destroys walls. Also deals 200 damage to mechs and knocks them back.
+ent-ActionGargCharge = Рывок
+    .desc = Нажмите, чтобы рвануть вперёд. При столкновении оглушает, ранит и отбрасывает существ. Полностью разрушает стены. Также наносит мехам 200 ед. урона и отбрасывает их.
 
-ent-ActionDesecratedDuel = Desecrated Duel
-    .desc = Click to leap towards a target, and once landing, conjure an arena!
+ent-ActionDesecratedDuel = Осквернённая Дуэль
+    .desc = Нажмите, чтобы прыгнуть к цели и при приземлении призвать арену!

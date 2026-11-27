@@ -6,9 +6,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-dragon-round-end-agent-name = dragon
+dragon-round-end-agent-name = дракон
 
-objective-issuer-dragon = [color=#7567b6]Space Dragon[/color]
+objective-issuer-dragon = [color=#7567b6]Космический Дракон[/color]
 
 # SIS-Start
 dragon-role-greeting =

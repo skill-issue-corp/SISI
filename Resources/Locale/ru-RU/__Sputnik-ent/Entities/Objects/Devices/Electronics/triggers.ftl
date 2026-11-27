@@ -1,8 +1,8 @@
-ent-TimerTrigger = timer trigger
-    .desc = A configurable timer.
+ent-TimerTrigger = триггер-таймер
+    .desc = Настраиваемый таймер.
 
-ent-SignalTrigger = signal trigger
-    .desc = Adds a machine link that is triggered by signals.
+ent-SignalTrigger = сигнальный триггер
+    .desc = Добавляет связь между устройствами, активируемую сигналом.
 
-ent-VoiceTrigger = voice trigger
-    .desc = Adds a machine link that is triggered by vocal keywords.
+ent-VoiceTrigger = голосовой триггер
+    .desc = Добавляет связь между устройствами, активируемую произнесёнными ключевыми словами.

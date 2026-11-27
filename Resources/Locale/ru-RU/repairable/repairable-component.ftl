@@ -10,4 +10,4 @@
 ### Interaction Messages
 
 # Shown when repairing something
-comp-repairable-repair = You finish repairing {THE($target)} with {THE($tool)}
+comp-repairable-repair = Вы заканчиваете ремонт {$target} при помощи {$tool}

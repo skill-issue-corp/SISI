@@ -1,2 +1,2 @@
-ent-PaintingBlunt = Blunt Painting
-    .desc = A blunt smoking weird-cat thing with a smug look.
+ent-PaintingBlunt = Картина с Блантом
+    .desc = Странное котоподобное существо с самодовольным видом курит блант.

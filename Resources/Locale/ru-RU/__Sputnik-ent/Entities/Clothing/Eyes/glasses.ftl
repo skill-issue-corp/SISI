@@ -1,50 +1,50 @@
-ent-ClothingEyesGlassesGar = gar glasses
-    .desc = Go beyond impossible and kick reason to the curb!
+ent-ClothingEyesGlassesGar = гар-очки
+    .desc = Превзойдите невозможное и пошлите здравый смысл куда подальше!
 
-ent-ClothingEyesGlassesGarOrange = orange gar glasses
-    .desc = Just who the hell do you think I am?!
+ent-ClothingEyesGlassesGarOrange = оранжевые гар-очки
+    .desc = Да за кого ты, чёрт возьми, меня принимаешь?!
 
-ent-ClothingEyesGlassesGarGiga = giga gar glasses
-    .desc = We evolve past the person we were a minute before. Little by little we advance with each turn. That's how a drill works!
+ent-ClothingEyesGlassesGarGiga = гига гар-очки
+    .desc = Мы становимся лучше, чем были минуту назад. С каждым оборотом продвигаемся понемногу. Так работает бур!
 
-ent-ClothingEyesGlassesMeson = meson goggles
-    .desc = Green-tinted goggles using a proprietary polymer that provides protection from eye damage of all types.
+ent-ClothingEyesGlassesMeson = мезонные очки
+    .desc = Очки с зелёными стёклами из запатентованного полимера, который защищает глаза от любых повреждений.
 
-ent-ClothingEyesGlasses = glasses
-    .desc = Upon closer inspection, you realize these lenses are infact made of plastic.
+ent-ClothingEyesGlasses = очки
+    .desc = Присмотревшись, вы понимаете, что линзы на самом деле сделаны из пластика.
 
-ent-ClothingEyesGlassesJensen = jensen glasses
-    .desc = A pair of yellow tinted folding glasses. You never asked for these.
+ent-ClothingEyesGlassesJensen = очки дженсена
+    .desc = Складные очки с жёлтыми стёклами. Вы их никогда не просили.
 
-ent-ClothingEyesGlassesJamjar = jamjar glasses
-    .desc = These retro glasses remind you of a simpler time.
+ent-ClothingEyesGlassesJamjar = очки с толстыми линзами
+    .desc = Эти ретро-очки напоминают о более простых временах.
 
-ent-ClothingEyesGlassesOutlawGlasses = outlaw glasses
-    .desc = A must for every self-respecting undercover agent.
+ent-ClothingEyesGlassesOutlawGlasses = очки бандита
+    .desc = Неотъемлемый атрибут любого уважающего себя агента под прикрытием.
 
-ent-ClothingEyesGlassesCheapSunglasses = cheap sunglasses
-    .desc = A pair of black sunglasses. Doesn't block light well, more of an accessory than something useful.
+ent-ClothingEyesGlassesCheapSunglasses = дешёвые солнцезащитные очки
+    .desc = Чёрные солнцезащитные очки. Плохо задерживают свет, скорее аксессуар, чем полезная вещь.
 
-ent-ClothingEyesGlassesSunglasses = sun glasses
-    .desc = A pair of black sunglasses.
+ent-ClothingEyesGlassesSunglasses = солнцезащитные очки
+    .desc = Чёрные солнцезащитные очки.
 
-ent-ClothingEyesGlassesSecurity = security glasses
-    .desc = Upgraded sunglasses that provide flash immunity and a security HUD.
+ent-ClothingEyesGlassesSecurity = очки службы безопасности
+    .desc = Улучшенные солнцезащитные очки с защитой от вспышек и визором службы безопасности.
 
-ent-ClothingEyesGlassesCommand = administration glasses
-    .desc = Upgraded sunglasses that provide flash immunity and show ID card status.
+ent-ClothingEyesGlassesCommand = очки командования
+    .desc = Улучшенные солнцезащитные очки с защитой от вспышек и индикацией статуса ID-карты.
 
-ent-ClothingEyesGlassesMercenary = mercenary glasses
-    .desc = Glasses made for combat, to protect the eyes from bright blinding flashes.
+ent-ClothingEyesGlassesMercenary = очки наёмника
+    .desc = Боевые очки для защиты глаз от ярких ослепительных вспышек.
 
-ent-ClothingEyesGlassesThermal = optical thermal scanner
-    .desc = Thermals in the shape of glasses.
+ent-ClothingEyesGlassesThermal = оптический тепловой сканер
+    .desc = Тепловизор в форме очков.
 
-ent-ClothingEyesGlassesChemical = chemical analysis goggles
-    .desc = Goggles that can scan the chemical composition of a solution.
+ent-ClothingEyesGlassesChemical = очки химического анализа
+    .desc = Очки, способные сканировать химический состав растворов.
 
-ent-ClothingEyesVisorNinja = ninja visor
-    .desc = An advanced visor protecting a ninja's eyes from flashing lights.
+ent-ClothingEyesVisorNinja = визор ниндзя
+    .desc = Продвинутый визор, защищающий глаза ниндзя от вспышек света.
 
-ent-ClothingEyesGlassesNoir = noir-tech glasses
-    .desc = A pair of glasses that simulate what the world looked like before the invention of color.
+ent-ClothingEyesGlassesNoir = нуар-тех очки
+    .desc = Очки, показывающие, как выглядел мир до изобретения цвета.

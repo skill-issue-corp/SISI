@@ -1,10 +1,10 @@
-ent-HelpimovCircuitBoard = law board (Helpimov)
-    .desc = An electronics board containing the Helpimov lawset.
+ent-HelpimovCircuitBoard = плата законов (Хелпимов)
+    .desc = Электронная плата с набором законов Хелпимова.
 
 ent-PlayerBorgDerelictSyndicateAssaultBattery = { ent-BorgChassisDerelictSyndicateAssault }
     .desc = { ent-BorgChassisDerelictSyndicateAssault.desc }
-    .suffix = Battery, Module, Operative, Derelict
+    .suffix = Батарея, Модуль, Оперативник, Заброшенный
 
 ent-PlayerBorgDerelictSyndicateAssaultGhostRole = { ent-PlayerBorgDerelictSyndicateAssaultBattery }
     .desc = { ent-PlayerBorgDerelictSyndicateAssaultBattery.desc }
-    .suffix = Ghost role, Derelict
+    .suffix = Роль призрака, Заброшенный

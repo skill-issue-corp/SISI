@@ -1,2 +1,2 @@
-ent-ThunderCloud = thunder cloud
-    .desc = A cloud which has a localized thunder storm inside of it, probably due to chicken magic.
+ent-ThunderCloud = грозовая туча
+    .desc = Внутри этой тучи бушует небольшая гроза. Наверняка куриная магия.

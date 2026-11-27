@@ -1,5 +1,5 @@
-ent-AtmosDeviceFanTiny = tiny fan
-    .desc = A tiny fan, releasing a thin gust of air.
+ent-AtmosDeviceFanTiny = крошечный вентилятор
+    .desc = Крошечный вентилятор, выпускающий слабую струю воздуха.
 
-ent-AtmosDeviceFanDirectional = directional fan
-    .desc = A thin fan, stopping the movement of gases across it.
+ent-AtmosDeviceFanDirectional = направленный вентилятор
+    .desc = Тонкий вентилятор, перекрывающий движение газов через себя.

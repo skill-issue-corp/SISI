@@ -3,18 +3,18 @@
 #
 # SPDX-License-Identifier: MIT
 
-buzzochloricbees-effect-oh-god-bees = You are swarmed by many, many bees.
-buzzochloricbees-effect-its-the-bees = It's the bees, oh god the bees.
-buzzochloricbees-effect-why-am-i-covered-in-bees = You are covered in angry bees.
-buzzochloricbees-effect-one-with-the-bees = You are one with the bees.
-buzzochloricbees-effect-squeaky-clean = You feel squeaky clean as the bees try and get rid of you.
-buzzochloricbees-effect-histamine-bee-allergy = You are highly allergic to bees, apparently.
-buzzochloricbees-effect-histamine-swells = You swell like a balloon in the presence of the bees.
-buzzochloricbees-effect-histamine-numb-to-the-bees = You are numb to the bees.
-buzzochloricbees-effect-histamine-cannot-be-one-with-the-bees = You are not one with the bees.
-buzzochloricbees-effect-licoxide-electrifying = The bees are electrifying.
-buzzochloricbees-effect-licoxide-shocked-by-bee-facts = You are shocked by these five bee facts.
-buzzochloricbees-effect-licoxide-buzzed = You feel buzzed.
-buzzochloricbees-effect-licoxide-buzzes = You buzz with the bees.
-buzzochloricbees-effect-fiber-hairy = You feel fuzzy, like a bee.
-buzzochloricbees-effect-fiber-soft = You feel some exceptionally soft bees.
+buzzochloricbees-effect-oh-god-bees = Вас окружает рой пчёл. Очень много пчёл.
+buzzochloricbees-effect-its-the-bees = Это пчёлы, о боже, это пчёлы.
+buzzochloricbees-effect-why-am-i-covered-in-bees = Вы облеплены разъярёнными пчёлами.
+buzzochloricbees-effect-one-with-the-bees = Вы с пчёлами — одно целое.
+buzzochloricbees-effect-squeaky-clean = Пчёлы пытаются от вас избавиться, а вы ощущаете себя чистыми до скрипа.
+buzzochloricbees-effect-histamine-bee-allergy = Похоже, у вас сильная аллергия на пчёл.
+buzzochloricbees-effect-histamine-swells = Рядом с пчёлами вы раздуваетесь как воздушный шар.
+buzzochloricbees-effect-histamine-numb-to-the-bees = Рядом с пчёлами вы ничего не чувствуете.
+buzzochloricbees-effect-histamine-cannot-be-one-with-the-bees = Вам не дано стать единым целым с пчёлами.
+buzzochloricbees-effect-licoxide-electrifying = Пчёлы заряжают электричеством.
+buzzochloricbees-effect-licoxide-shocked-by-bee-facts = Эти пять фактов о пчёлах повергли вас в шок.
+buzzochloricbees-effect-licoxide-buzzed = У вас слегка жужжит в голове.
+buzzochloricbees-effect-licoxide-buzzes = Вы жужжите вместе с пчёлами.
+buzzochloricbees-effect-fiber-hairy = Кажется, вы покрылись пушком, как пчела.
+buzzochloricbees-effect-fiber-soft = Вы чувствуете прикосновение необычайно мягких пчёл.

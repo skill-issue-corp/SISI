@@ -1,14 +1,14 @@
-ent-LightPostSmall = post light
-    .desc = An always powered light.
-    .suffix = Always Powered
+ent-LightPostSmall = фонарный столб
+    .desc = Светильник с постоянным питанием.
+    .suffix = Всегда Под Напряжением
 
-ent-PoweredLightPostSmallEmpty = post light
-    .desc = A small light post. Draws power and produces light when equipped with a light tube.
-    .suffix = Empty
+ent-PoweredLightPostSmallEmpty = фонарный столб
+    .desc = Небольшой фонарный столб. Потребляет энергию и светит, если установлена световая трубка.
+    .suffix = Пусто
 
-ent-PoweredLightPostSmall = post light
+ent-PoweredLightPostSmall = фонарный столб
     .desc = { ent-PoweredLightPostSmallEmpty.desc }
 
-ent-PoweredLEDLightPostSmall = post light
+ent-PoweredLEDLightPostSmall = фонарный столб
     .desc = { ent-PoweredLightPostSmallEmpty.desc }
-    .suffix = LED
+    .suffix = Светодиодный

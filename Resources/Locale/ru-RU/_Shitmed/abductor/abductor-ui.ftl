@@ -7,49 +7,49 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-abductors-ui-beacons = Beacons
-abductors-ui-teleport = Teleport
-abductors-ui-attract = Attract
+abductors-ui-beacons = Маяки
+abductors-ui-teleport = Телепортировать
+abductors-ui-attract = Притянуть
 
-abductors-ui-experiment = Experiment
-abductors-ui-complete-experiment = Complete the experiment
+abductors-ui-experiment = Эксперимент
+abductors-ui-complete-experiment = Завершить эксперимент
 
-abductors-ui-gizmo-transferred = Target information transferred
+abductors-ui-gizmo-transferred = Данные о цели переданы
 
-abductors-ui-armor-control = Armor Control
-abductors-ui-combat-mode = Combat Mode
-abductors-ui-stealth-mode = Stealth Mode
-abductors-ui-lock-armor = Lock Armor
-abductors-ui-unlock-armor = Unlock Armor
-abductors-ui-vest-linked = Vest linked
+abductors-ui-armor-control = Управление Бронёй
+abductors-ui-combat-mode = Боевой Режим
+abductors-ui-stealth-mode = Режим Скрытности
+abductors-ui-lock-armor = Заблокировать Броню
+abductors-ui-unlock-armor = Разблокировать Броню
+abductors-ui-vest-linked = Жилет подключён
 
-abductors-title = Abductors
-abductors-description = Abductors have targeted the station. Avoid getting kidnapped by them!
+abductors-title = Абдукторы
+abductors-description = Абдукторы выбрали станцию своей целью. Не дайте им себя похитить!
 
-abductor-lone-ghost-role-name = Lone Abductor
-abductor-lone-ghost-role-desc = Kidnap people, and stuff them with experimental organs of dubious origin, then brainwash them, all by yourself.
+abductor-lone-ghost-role-name = Абдуктор-Одиночка
+abductor-lone-ghost-role-desc = Похищайте людей, набивайте их экспериментальными органами сомнительного происхождения, а затем промывайте им мозги. Всё самостоятельно.
 
-abductor-scientist-ghost-role-name = Abductor Scientist
-abductor-scientist-ghost-role-desc = Teleport people your partner kidnapped onto your ship and stuff them with experimental organs of dubious origin.
+abductor-scientist-ghost-role-name = Учёный Абдукторов
+abductor-scientist-ghost-role-desc = Телепортируйте на корабль людей, похищенных напарником, и набивайте их экспериментальными органами сомнительного происхождения.
 
-abductor-agent-ghost-role-name = Abductor Agent
-abductor-agent-ghost-role-desc = Kidnap and Brainwash people for your partner to stuff them with experimental organs of dubious origin.
+abductor-agent-ghost-role-name = Агент Абдукторов
+abductor-agent-ghost-role-desc = Похищайте людей и Промывайте им Мозги, пока ваш напарник набивает их экспериментальными органами сомнительного происхождения.
 
-abductors-ghost-role-rules = You are an [color=red][bold]Abductor[/bold][/color].
-                            Your intentions are to abduct people from the station and replace their organs with various experimental devices,
-                            after which you return them back. You are not allowed to destroy the station or intentionally kill people.
-                            It is in your interest to return the test subjects alive and healthy for the purity of the experiment.
+abductors-ghost-role-rules = Вы - [color=red][bold]Абдуктор[/bold][/color].
+                            Ваша задача - похищать людей со станции, заменять их органы различными экспериментальными устройствами,
+                            а затем возвращать их обратно. Запрещено разрушать станцию или намеренно убивать людей.
+                            В интересах чистоты эксперимента возвращайте испытуемых живыми и здоровыми.
 
-                            You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
-                            You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
-                            You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
+                            Вы ничего не помните о прошлой жизни и забыли всё, что узнали, будучи призраком.
+                            Вы можете помнить общие сведения об игре: как готовить, пользоваться предметами и т. д.
+                            Вам категорически [color=red]НЕЛЬЗЯ[/color] вспоминать, например, имя, внешность и другие детали о прежнем персонаже.
 
-abductor-round-end-agent-name = abductor
+abductor-round-end-agent-name = абдуктор
 
-objective-issuer-abductors = [color=#FD0098]Mothership[/color]
+objective-issuer-abductors = [color=#FD0098]Корабль-Матка[/color]
 
-objective-condition-abduct-title = Perform {$count} experiments
-objective-condition-abduct-description = You need to complete experiments on the earthlings using your experiment tablet. Each step you complete counts.
+objective-condition-abduct-title = Провести эксперименты ({$count})
+objective-condition-abduct-description = Проведите эксперименты над землянами с помощью планшета эксперимента. Засчитывается каждый завершённый этап.
 
 # SIS-Start
 abductor-role-greeting =
@@ -63,7 +63,7 @@ abductor-role-greeting-desc =
     • [color={$hl1}]Разум Пришельцев:[/color] используйте [color={$hl1}]+a[/color] или [color={$hl1}]+[/color] в чате для связи с напарником.
 # SIS-End
 
-roles-antag-abductor-objective = Kidnap and brainwash station crew and perform your experiments on them!
+roles-antag-abductor-objective = Похищайте членов экипажа станции, промывайте им мозги и ставьте на них эксперименты!
 
 # SIS-Start
 abductor-victim-role-greeting =
@@ -76,17 +76,17 @@ abductor-victim-role-greeting-desc =
     • [color={$hl1}]Инопланетные органы:[/color] пришельцы зашили внутрь вас экспериментальный орган — используйте его новые странные свойства!
 # SIS-End
 
-abductor-victim-role-name = Abductee
-abductor-victim-role-name-freeagent = Abductee (Free Agent)
-abductor-victim-role-desc = You have seen things you shouldn't have. The world must know the truth.
+abductor-victim-role-name = Похищенный Абдукторами
+abductor-victim-role-name-freeagent = Похищенный Абдукторами (Свободный Агент)
+abductor-victim-role-desc = Вы видели то, чего видеть не следовало. Мир должен узнать правду.
 
-objective-issuer-voices = [color=#FD0098]The Voices[/color]
-abductor-ui-pad-found = pad: [color=green]connected[/color]
-abductor-ui-pad-not-found = pad: [color=red]not found[/color]
-abductor-ui-target-none = target: [color=red]NONE[/color]
-abductor-ui-target-found = target: [color=green]{$target}[/color]
-abductor-ui-experimentator-connected = return pod: [color=green]connected[/color]
-abductor-ui-experimentator-not-found = return pod: [color=red]not found[/color]
-abductor-ui-victim-none = victim: [color=red]NONE[/color]
-abductor-ui-victim-found = victim: [color=green]{$victim}[/color]
-abductor-ui-armor-plug-in = [color=red][font size=16]You need to plug in abductor armor![/font][/color]
+objective-issuer-voices = [color=#FD0098]Голоса[/color]
+abductor-ui-pad-found = площадка: [color=green]подключена[/color]
+abductor-ui-pad-not-found = площадка: [color=red]не найдена[/color]
+abductor-ui-target-none = цель: [color=red]НЕТ[/color]
+abductor-ui-target-found = цель: [color=green]{$target}[/color]
+abductor-ui-experimentator-connected = возвратная капсула: [color=green]подключена[/color]
+abductor-ui-experimentator-not-found = возвратная капсула: [color=red]не найдена[/color]
+abductor-ui-victim-none = жертва: [color=red]НЕТ[/color]
+abductor-ui-victim-found = жертва: [color=green]{$victim}[/color]
+abductor-ui-armor-plug-in = [color=red][font size=16]Подключите броню абдуктора![/font][/color]

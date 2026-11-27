@@ -5,15 +5,15 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-cola-1 = Refreshing!
-advertisement-cola-2 = Hope you're thirsty!
-advertisement-cola-3 = Over 1 million drinks sold!
-advertisement-cola-4 = Thirsty? Why not cola?
-advertisement-cola-5 = Please, have a drink!
-advertisement-cola-6 = Drink up!
-advertisement-cola-7 = The best drinks in the galaxy!
-advertisement-cola-8 = Way better than Dr. Gibb!
-thankyou-cola-1 = Pop open that can and enjoy!
-thankyou-cola-2 = Pow! Take that, thirst!
-thankyou-cola-3 = I hope you like flavor!
-thankyou-cola-4 = Enjoy your sugar-filled drink!
+advertisement-cola-1 = Освежает!
+advertisement-cola-2 = Надеемся, вы хотите пить!
+advertisement-cola-3 = Продано более 1 миллиона напитков!
+advertisement-cola-4 = Жажда? Почему бы не выпить колы?
+advertisement-cola-5 = Угощайтесь напитком!
+advertisement-cola-6 = Пейте до дна!
+advertisement-cola-7 = Лучшие напитки в галактике!
+advertisement-cola-8 = Гораздо лучше, чем Доктор Гибб!
+thankyou-cola-1 = Откройте баночку и наслаждайтесь!
+thankyou-cola-2 = Бах! Вот тебе, жажда!
+thankyou-cola-3 = Надеюсь, вам нравится вкус!
+thankyou-cola-4 = Наслаждайтесь своим напитком с сахаром!

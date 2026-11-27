@@ -1,45 +1,45 @@
-ent-TranslatorUnpowered = translator
-    .desc = Translates speech.
+ent-TranslatorUnpowered = переводчик
+    .desc = Переводит речь.
 
 ent-TranslatorPoweredBase = { ent-TranslatorUnpowered }
     .desc = { ent-TranslatorUnpowered.desc }
 
 ent-Translator = { ent-PowerCellSlotMediumItem }
     .desc = { ent-PowerCellSlotMediumItem.desc }
-    .suffix = Powered
+    .suffix = С Питанием
 
-ent-TranslatorForeigner = foreigner's translator
-    .desc = A special-issue translator that helps foreigner's speak and understand this station's primary language.
+ent-TranslatorForeigner = переводчик для иностранцев
+    .desc = Переводчик специального выпуска, который помогает иностранцам понимать основной язык этой станции и говорить на нём.
 
-ent-BubblishTranslator = Bubblish translator
-    .desc = Translates speech between Bubblish and Galactic Common, helping communicate with slimes and slime people.
+ent-BubblishTranslator = переводчик с Уб'Мола'Р-иена
+    .desc = Переводит с Уб'Мола'Р-иена на Галактический Общий и обратно, помогая общаться со слаймами и слаймолюдами.
 
-ent-DraconicTranslator = Sinta'Unathi translator
-    .desc = Translates speech between Sinta'Unathi and Tau-Ceti Basic, making it easier to understand your local Unathi.
+ent-DraconicTranslator = переводчик с Синта'Унатхи
+    .desc = Переводит с Синта'Унатхи на Корпоративный Стандарт и обратно, чтобы вам было проще понимать местных Унатхов.
 
-ent-SolCommonTranslator = Sol Common translator
-    .desc = Translates speech between Sol Common and Galactic Common. Like a true Earthman!
+ent-SolCommonTranslator = переводчик с ЗемлеГена
+    .desc = Переводит с ЗемлеГена на Галактический Общий и обратно. Как настоящий Землянин!
 
-ent-NovuNedericTranslator = Novu-Nederic translator
-    .desc = Translates speech between Novu-Nederic and Galactic Common. Like a true Earthman!
+ent-NovuNedericTranslator = переводчик с Терралингвы
+    .desc = Переводит с Терралингвы на Галактический Общий и обратно. Как настоящий Землянин!
 
-ent-RootSpeakTranslator = RootSpeak translator
-    .desc = Translates speech between RootSpeak and Galactic Common. You may now speak for the trees.
+ent-RootSpeakTranslator = переводчик с Корнеречи
+    .desc = Переводит с Корнеречи на Галактический Общий и обратно. Теперь вы можете говорить от имени деревьев.
 
-ent-MofficTranslator = Moffic translator
-    .desc = Translates speech between Moffic and Galactic Common, helping you understand the buzzes of your pet mothroach!
+ent-MofficTranslator = переводчик с Объединённого Гудфика
+    .desc = Переводит с Объединённого Гудфика на Галактический Общий и обратно, помогая вам понимать жужжание своей домашней таракамоли!
 
-ent-XenoTranslator = Xeno translator
-    .desc = Translates speech between Xeno and Galactic Common. This will probably not help you survive an encounter, though.
+ent-XenoTranslator = переводчик с Ксено
+    .desc = Переводит с Ксено на Галактический Общий и обратно. Хотя вряд ли это поможет пережить встречу.
 
-ent-BioweaponTranslator = Bioweapon translator
-    .desc = Translates speech between Miltech and Galactic Common, losing this means anyone can command bioweapons!
+ent-BioweaponTranslator = переводчик для Биооружия
+    .desc = Переводит с Милтеха на Галактический Общий и обратно. Потеряете его, и командовать биооружием сможет кто угодно!
 
-ent-AnimalTranslator = Animal translator
-    .desc = Translates all the cutes noises that most animals make into a more understandable form!
+ent-AnimalTranslator = переводчик с Животных Языков
+    .desc = Переводит все милые звуки, которые издаёт большинство животных, в более понятную форму!
 
-ent-AzazibaTranslator = Azaziba translator
-    .desc = Translates speech between Unathi and Azaziba. For Unathi to speak the Archaic form of their native tongue!
+ent-AzazibaTranslator = переводчик с Синта'Азазибы
+    .desc = Переводит с Унатхи на Синта'Азазибу и обратно. Чтобы Унатхи могли говорить на Архаичной форме родного языка!
 
-ent-NewKinPidginTranslator = Ka'rakk translator
-    .desc = Interprets speech for, colloquially, Vox Pidgin. It almost sounds... Alive, inside. Atleast it takes batteries!
+ent-NewKinPidginTranslator = переводчик с Ка'ракка
+    .desc = Переводит речь с языка, известного в обиходе как Вокс-Пиджин. Судя по звуку, внутри будто что-то... Живое. Хорошо хоть работает от батареек!

@@ -10,14 +10,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ninja-no-power = Not enough charge in suit battery!
-ninja-revealed = You have been revealed!
-ninja-suit-cooldown = The suit needs time to recuperate from the last attack.
-ninja-cell-downgrade = The suit will only accept a new power cell that is better than the current one!
-ninja-cell-too-large = This power source does not fit in the ninja suit!
+ninja-no-power = В батарее костюма недостаточно заряда!
+ninja-revealed = Вас раскрыли!
+ninja-suit-cooldown = Костюму нужно время, чтобы восстановиться после последней атаки.
+ninja-cell-downgrade = Костюм принимает только батарею лучше нынешней!
+ninja-cell-too-large = Этот источник энергии не помещается в костюм ниндзя!
 
-ninja-download-fail = Server has no research data...
-ninja-research-steal-fail = No new research nodes were stolen...
-ninja-research-steal-success = Stole {$count} new nodes from {THE($server)}.
+ninja-download-fail = На сервере нет исследовательских данных...
+ninja-research-steal-fail = Не удалось украсть новые узлы исследований...
+ninja-research-steal-success = Украдено новых узлов: {$count}. Источник: {$server}.
 
-ninja-criminal-records-hack-announcement = ERROR: Criminal records has detected a [REDACTED] error #*;"
+ninja-criminal-records-hack-announcement = ОШИБКА: В криминальных записях обнаружена ошибка [УДАЛЕНО] #*;"

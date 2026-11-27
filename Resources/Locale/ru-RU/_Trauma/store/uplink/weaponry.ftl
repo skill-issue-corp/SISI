@@ -1,28 +1,28 @@
 uplink-rifle-FAL-name = Saive Automatique
-uplink-rifle-FAL-description = The Saive Automatique is an old semi-automatic battle rifle that originates from Terra, it was nicknamed "The right arm of the free world" due to its use in cold war conflicts, it feeds from straight .30 rifle magazines.
+uplink-rifle-FAL-description = Saive Automatique — старая полуавтоматическая боевая винтовка с Терры. За применение в конфликтах холодной войны её прозвали «Правая рука свободного мира». Питается из прямых винтовочных магазинов .30.
 
-uplink-snakesfang-name = Snakesfang
-uplink-snakesfang-desc = The Snakesfang is a fork-tipped scimitar with a sharp edge and sharper bite. Comes with a scabbard.
+uplink-snakesfang-name = Змеиный Клык
+uplink-snakesfang-desc = «Змеиный Клык» — ятаган с раздвоенным остриём, острым лезвием и ещё более острым укусом. Ножны в комплекте.
 
 uplink-rifle-M90-name = M-90
-uplink-rifle-M90-description = An older bullpup carbine model, a revision of the M-90 GL, this one doesn't have the inbuilt grenade launcher.
+uplink-rifle-M90-description = Эта старая модель карабина компоновки булл-пап — версия M-90 GL без встроенного гранатомёта.
 
-uplink-foam-cutlass-name = Sharp Foam Cutlass
-uplink-foam-cutlass-desc = A blade disguised as a toy foam cutlass. Perfect for assassins that pretend playing around.
+uplink-foam-cutlass-name = Острая Сабля из Пеноматериала
+uplink-foam-cutlass-desc = Клинок, замаскированный под игрушечную саблю из пеноматериала. Идеален для убийц, которые прикидываются, что играют.
 
-uplink-bulk-mosin-name-trauma = Syndicate Bulk Rifle Crate
+uplink-bulk-mosin-name-trauma = Ящик с Оптовой Партией Винтовок Синдиката
 
-uplink-fire-axe-flaming-name = Fire Axe
-uplink-fire-axe-flaming-desc = A classic-style weapon infused with advanced atmos technology to allow it to set targets on fire. Now with rugged rubberized handle!
+uplink-fire-axe-flaming-name = Огненный Топор
+uplink-fire-axe-flaming-desc = Оружие классической формы с передовыми атмосферными технологиями для поджигания целей. Теперь с прочной прорезиненной рукояткой!
 
 uplink-revolver-python-name = Python
-uplink-revolver-python-desc = A brutally simple, effective, and loud Syndicate revolver. Comes loaded with armor-piercing rounds. Uses .45 magnum.
+uplink-revolver-python-desc = Предельно простой, эффективный и громкий револьвер Синдиката. Заряжен бронебойными патронами. Использует .45 магнум.
 
-uplink-double-esword-name = Double-Bladed Energy Sword
-uplink-double-esword-desc = An extremely dangerous double energy sword. Forces you to flip when hitting your target via light attack, dealing extra damage, speeding you up and making you dodge projectiles briefly.
+uplink-double-esword-name = Двухклинковый Энергетический Меч
+uplink-double-esword-desc = Крайне опасный двойной энергетический меч. При лёгкой атаке заставляет вас сделать сальто, чтобы нанести дополнительный урон, ускориться и ненадолго начать уворачиваться от снарядов.
 
-uplink-weapon-smartgun-name = Abielle Smart-SMG
-uplink-weapon-smartgun-desc = An experimental weapon that homes shot projectiles towards the target that you aimed at when shooting if wielded.
+uplink-weapon-smartgun-name = Умный ПП Abielle
+uplink-weapon-smartgun-desc = Экспериментальное оружие. Если держать его двумя руками, снаряды наводятся на цель, в которую вы целились в момент выстрела.
 
-uplink-spy-fedora-name = Spy Fedora
-uplink-spy-fedora-desc = A stylish boomerang type weapon-clothing that can slash through your victims both in melee and at range.
+uplink-spy-fedora-name = Шпионская Федора
+uplink-spy-fedora-desc = Стильный предмет одежды и оружие-бумеранг, которое режет жертв как в ближнем бою, так и на расстоянии.

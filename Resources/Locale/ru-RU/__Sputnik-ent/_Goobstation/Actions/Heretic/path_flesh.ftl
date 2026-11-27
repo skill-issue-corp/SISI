@@ -1,8 +1,8 @@
-ent-ActionHereticFleshSurgery = Knit Flesh
-    .desc = A touch spell that allows you to either perform quick surgery or restore flesh of target.
+ent-ActionHereticFleshSurgery = Сплести Плоть
+    .desc = Заклинание касания, позволяющее быстро провести операцию или восстановить плоть цели.
 
-ent-ActionHereticFleshTransform = Shed Form
-    .desc = Shed your fragile form, become one with the arms, become one with the emperor. Instills intense fear in nearby mortals.
+ent-ActionHereticFleshTransform = Сбросить Оболочку
+    .desc = Сбросьте хрупкую оболочку, слейтесь с руками, станьте едины с императором. Вселяет в смертных поблизости неописуемый ужас.
 
-ent-ActionHereticFleshContract = Force Contract
-    .desc = Forces your body to contract onto a single tile.
+ent-ActionHereticFleshContract = Принудительное Сжатие
+    .desc = Принудительно сжимает ваше тело до одного тайла.

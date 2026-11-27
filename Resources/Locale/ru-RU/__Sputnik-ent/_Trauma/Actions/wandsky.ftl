@@ -1,8 +1,8 @@
-ent-ActionTogglePatrol = Toggle Patrol
-    .desc = Toggle patrol on and off.
+ent-ActionTogglePatrol = Переключить Патрулирование
+    .desc = Включает или выключает патрулирование.
 
-ent-ActionCRWaypoint = Create/Remove Waypoint
-    .desc = Creates a waypoint at the target location, clicking an existing waypoint will remove it instead.
+ent-ActionCRWaypoint = Создать/Удалить Точку Маршрута
+    .desc = Создаёт точку маршрута в выбранном месте. Нажатие на существующую точку удалит её.
 
-ent-ActionClearWaypoints = Clear Waypoints
-    .desc = Disables patrol and clears all existing waypoints.
+ent-ActionClearWaypoints = Очистить Точки Маршрута
+    .desc = Отключает патрулирование и удаляет все существующие точки маршрута.

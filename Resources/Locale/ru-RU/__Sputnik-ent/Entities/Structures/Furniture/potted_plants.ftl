@@ -1,5 +1,5 @@
-ent-PottedPlantBase = potted plant
-    .desc = A little bit of nature contained in a pot.
+ent-PottedPlantBase = растение в горшке
+    .desc = Частичка природы в горшке.
 
 ent-PottedPlant0 = { ent-PottedPlantBase }
     .desc = { ent-PottedPlantBase.desc }
@@ -28,11 +28,11 @@ ent-PottedPlant7 = { ent-PottedPlantBase }
 ent-PottedPlant8 = { ent-PottedPlantBase }
     .desc = { ent-PottedPlantBase.desc }
 
-ent-PottedPlantBioluminscent = bioluminescent potted plant
-    .desc = It produces light!
+ent-PottedPlantBioluminscent = биолюминесцентное растение в горшке
+    .desc = Оно светится!
 
 ent-PottedPlant10 = { ent-PottedPlantBase }
-    .desc = A pretty piece of nature contained in a pot.
+    .desc = Симпатичная частичка природы в горшке.
 
 ent-PottedPlant11 = { ent-PottedPlantBase }
     .desc = { ent-PottedPlantBase.desc }
@@ -76,16 +76,16 @@ ent-PottedPlant23 = { ent-PottedPlantBase }
 ent-PottedPlant24 = { ent-PottedPlantBase }
     .desc = { ent-PottedPlantBase.desc }
 
-ent-PottedPlantRD = RD's potted plant
+ent-PottedPlantRD = растение НР в горшке
     .desc = 
-        A gift from the botanical staff, presented after the RD's reassignment. There's a tag on it that says "Y'all come back now, y'hear?"
-        It doesn't look very healthy...
+        Подарок от сотрудников ботаники, вручённый НР после перевода на другое место. На бирке написано: «Вы уж возвращайтесь, слышите?»
+        На вид растение не очень здоровое...
 
 ent-PottedPlant26 = { ent-PottedPlantBase }
-    .desc = Is it just me, or is it blinking?
+    .desc = Мне кажется, или оно моргает?
 
-ent-PottedPlant27 = plastic potted plant
-    .desc = A fake, cheap looking, plastic tree. Perfect for people who kill every plant they touch.
+ent-PottedPlant27 = пластиковое растение в горшке
+    .desc = Дешёвое на вид искусственное деревце из пластика. Идеально для тех, у кого гибнет каждое растение.
 
 ent-PottedPlant28 = { ent-PottedPlant27 }
     .desc = { ent-PottedPlant27.desc }

@@ -1,26 +1,26 @@
-ent-PaperAcquisitionSlip = acquisition slip
-    .desc = A slip with order details on it. It can be given to Cargo to complete the order.
+ent-PaperAcquisitionSlip = бланк заказа
+    .desc = Бланк с деталями заказа. Передайте его в Карго, чтобы завершить заказ.
 
 ent-PaperAcquisitionSlipMedical = { ent-PaperAcquisitionSlip }
     .desc = { ent-PaperAcquisitionSlip.desc }
-    .suffix = Medical
+    .suffix = Медотсек
 
 ent-PaperAcquisitionSlipScience = { ent-PaperAcquisitionSlip }
     .desc = { ent-PaperAcquisitionSlip.desc }
-    .suffix = Science
+    .suffix = Наука
 
 ent-PaperAcquisitionSlipSecurity = { ent-PaperAcquisitionSlip }
     .desc = { ent-PaperAcquisitionSlip.desc }
-    .suffix = Security
+    .suffix = Служба Безопасности
 
 ent-PaperAcquisitionSlipService = { ent-PaperAcquisitionSlip }
     .desc = { ent-PaperAcquisitionSlip.desc }
-    .suffix = Service
+    .suffix = Обслуживание
 
 ent-PaperAcquisitionSlipCargo = { ent-PaperAcquisitionSlip }
     .desc = { ent-PaperAcquisitionSlip.desc }
-    .suffix = Cargo
+    .suffix = Карго
 
 ent-PaperAcquisitionSlipEngineering = { ent-PaperAcquisitionSlip }
     .desc = { ent-PaperAcquisitionSlip.desc }
-    .suffix = Engineering
+    .suffix = Инженерный Отдел

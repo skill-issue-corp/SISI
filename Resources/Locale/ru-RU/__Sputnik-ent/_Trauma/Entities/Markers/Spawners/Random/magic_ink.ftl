@@ -1,6 +1,6 @@
-ent-RandomInkSpawner = random magic ink
+ent-RandomInkSpawner = случайные магические чернила
     .desc = { ent-MarkerBase.desc }
 
-ent-RandomInkSpawnerCurse = random magic ink
+ent-RandomInkSpawnerCurse = случайные магические чернила
     .desc = { ent-MarkerBase.desc }
-    .suffix = Oops, all curses!
+    .suffix = Упс, сплошные проклятия!

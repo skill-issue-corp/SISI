@@ -1,27 +1,27 @@
-ent-Haycutters = haycutters
-    .desc = This kills the wire. Moo!
+ent-Haycutters = сенокусы
+    .desc = Это убивает провод. Му!
 
-ent-Moodriver = moodriver
-    .desc = Turn to use. Moo!
+ent-Moodriver = мувёртка
+    .desc = Поверните, чтобы использовать. Му!
 
-ent-Wronch = wronch
-    .desc = Wronch thing. Moo!
+ent-Wronch = ключмурч
+    .desc = Ключмурчит всякую штуку. Му!
 
-ent-Cowbar = cowbar
-    .desc = Cow your problems away. Moo!
+ent-Cowbar = коровом
+    .desc = Отмукайте свои проблемы. Му!
 
-ent-Mooltitool = mooltitool
-    .desc = An crude tool to copy, store, and send electrical pulses and signals through wires and machines. Moo!
+ent-Mooltitool = мультимутул
+    .desc = Примитивный инструмент для копирования, хранения и отправки электрических импульсов и сигналов через провода и машины. Му!
 
-ent-Cowelder = cowelding tool
-    .desc = Melts anything as long as it's fueled, don't forget your eye protection! Moo!
+ent-Cowelder = коровосварка
+    .desc = Плавит что угодно, пока есть топливо. Не забудьте защитить глаза! Му!
 
-ent-Milkalyzer = milkalyzer
-    .desc = A hand-held environmental scanner which reports current gas levels. Moo!
+ent-Milkalyzer = молокоанализатор
+    .desc = Ручной прибор, показывающий содержание газов в окружающем воздухе. Му!
 
-ent-CowToolbox = cow toolbox
-    .desc = A weirdly shaped box, stocked with... tools?
+ent-CowToolbox = коровий тулбокс
+    .desc = Ящик странной формы, набитый... инструментами?
 
-ent-CowToolboxFilled = cow toolbox
+ent-CowToolboxFilled = коровий тулбокс
     .desc = { ent-CowToolbox.desc }
-    .suffix = Filled
+    .suffix = Заполнено

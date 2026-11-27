@@ -1,14 +1,14 @@
-ntr-executive-water-cooler-gold-name = premium water (?) cooler
-ntr-executive-water-cooler-gold-desc = Made from the finest 24-karat hardened whiskey in the sector. Its shiny and golden, just like its insides. Comes with 500u of whiskey. Every fine executive has one of these in their room.
+ntr-executive-water-cooler-gold-name = кулер для воды (?) премиум-класса
+ntr-executive-water-cooler-gold-desc = Сделан из лучшего в секторе затвердевшего виски в 24 карата. Блестит золотом снаружи и внутри. В комплекте 500 ед. виски. Такой стоит в кабинете каждого уважающего себя руководителя.
 
-ntr-executive-intern-coin-name = Single Intern Coin
-ntr-executive-intern-coin-desc = Summons one basic intern. Interns are on your full command: order them to do inspections instead of you doing it by yourself, or play cards with them.
+ntr-executive-intern-coin-name = Монета на Одного Интерна
+ntr-executive-intern-coin-desc = Вызывает одного обычного интерна. Интерны полностью в вашем распоряжении: поручайте им проверки вместо себя или играйте с ними в карты.
 
-ntr-executive-cigs-vendor-name = Executive Cig Vendor
-ntr-executive-cigs-vendor-desc = For those who know that lung cancer is non-existent, Nanotrasen made this: a vendor full of cigarettes and expensive flippos for you to smoke.
+ntr-executive-cigs-vendor-name = Сигаретный Автомат для Руководителей
+ntr-executive-cigs-vendor-desc = Для всех, кто знает, что рака лёгких не существует, NanoTrasen выпустила этот автомат. Полон сигарет и дорогих зажигалок «Флиппо».
 
-ntr-executive-soap-name = CentComm Soap
-ntr-executive-soap-desc = An expensive soap made with our finest... who am i kidding its just a soap covered in lube with a print.
+ntr-executive-soap-name = Мыло ЦК
+ntr-executive-soap-desc = Дорогое мыло из отборных... кого я обманываю, просто мыло со смазкой и печатью.
 
-ntr-executive-marlen-name = Marlen
-ntr-executive-marlen-desc = A stylish Centcomm umbrella, made by "NanoFashion" for the rich people of central command. Surprisingly durable.
+ntr-executive-marlen-name = Марлен
+ntr-executive-marlen-desc = Стильный зонт ЦК, изготовленный «NanoFashion» для богачей из центрального командования. На удивление прочный.

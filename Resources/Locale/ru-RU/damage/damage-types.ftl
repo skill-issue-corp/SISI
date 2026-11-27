@@ -4,17 +4,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-damage-type-asphyxiation = Asphyxiation
-damage-type-bloodloss = Bloodloss
-damage-type-blunt = Blunt
-damage-type-cellular = Cellular
-damage-type-caustic = Caustic
-damage-type-cold = Cold
-damage-type-heat = Heat
-damage-type-piercing = Piercing
-damage-type-poison = Poison
-damage-type-radiation = Radiation
-damage-type-shock = Shock
-damage-type-slash = Slash
-damage-type-structural = Structural
-damage-type-holy = Holy
+damage-type-asphyxiation = Удушье
+damage-type-bloodloss = Кровопотеря
+damage-type-blunt = Ударный
+damage-type-cellular = Клеточный
+damage-type-caustic = Кислотный
+damage-type-cold = Холод
+damage-type-heat = Тепловой
+damage-type-piercing = Колющий
+damage-type-poison = Яд
+damage-type-radiation = Радиационный
+damage-type-shock = Электрический
+damage-type-slash = Режущий
+damage-type-structural = Структурный
+damage-type-holy = Святой

@@ -1,10 +1,10 @@
-ent-MedicalPatchPrefilledBase = prefilled medical patch
-    .desc = Medical patch filled with chemicals
+ent-MedicalPatchPrefilledBase = заправленный медицинский пластырь
+    .desc = Медицинский пластырь с реагентами
 
-ent-MedicalPatchPrefilledBicaridine = brute patch
+ent-MedicalPatchPrefilledBicaridine = пластырь от механических травм
     .desc = { ent-MedicalPatchPrefilledBase.desc }
-    .suffix = Bicaridine
+    .suffix = Бикаридин
 
-ent-MedicalPatchPrefilledDermaline = burn patch
+ent-MedicalPatchPrefilledDermaline = пластырь от ожогов
     .desc = { ent-MedicalPatchPrefilledBase.desc }
-    .suffix = Dermaline
+    .suffix = Дермалин

@@ -1,52 +1,52 @@
 ent-BasePaper = { ent-SolutionFood }
     .desc = { ent-SolutionFood.desc }
 
-ent-Paper = paper
-    .desc = A piece of white paper.
+ent-Paper = бумага
+    .desc = Лист белой бумаги.
 
-ent-PaperScrap = paper scrap
-    .desc = A crumpled up piece of white paper.
+ent-PaperScrap = обрывок бумаги
+    .desc = Скомканный клочок белой бумаги.
 
-ent-PaperOffice = office paper
-    .desc = A plain sheet of office paper.
+ent-PaperOffice = офисная бумага
+    .desc = Обычный лист офисной бумаги.
 
-ent-PaperArtifactAnalyzer = artifact analyzer printout
-    .desc = The readout of a device forgotten to time.
+ent-PaperArtifactAnalyzer = распечатка анализатора артефактов
+    .desc = Данные с устройства, давно забытого временем.
 
-ent-PaperCaptainsThoughts = captain's thoughts
-    .desc = A page of the captain's journal. In luxurious lavender.
+ent-PaperCaptainsThoughts = мысли капитана
+    .desc = Страница из дневника капитана. Роскошного лавандового цвета.
 
-ent-PaperCargoInvoice = cargo invoice
-    .desc = A single unit of bureaucracy.
+ent-PaperCargoInvoice = накладная карго
+    .desc = Одна единица бюрократии.
 
-ent-PaperNanoTaskItem = NanoTask item
-    .desc = A printed NanoTask item. Can be inserted into your PDA to add it to your tasks.
+ent-PaperNanoTaskItem = задание НаноТаска
+    .desc = Распечатанное задание НаноТаска. Вставьте его в КПК, чтобы добавить в свой список задач.
 
-ent-PaperCargoBountyManifest = bounty manifest
-    .desc = A paper label designating a crate as containing a bounty. Selling a crate with this label will fulfill the bounty.
+ent-PaperCargoBountyManifest = опись заказа
+    .desc = Бумажная этикетка, отмечающая ящик с заказом. Продайте ящик с этой этикеткой, чтобы выполнить заказ.
 
-ent-PaperSalvageJobLabel = salvage job shipment label
-    .desc = A paper label designating a crate as containing a shipment to fulfill a salvage job. Selling a crate with this will fulfill the job.
+ent-PaperSalvageJobLabel = этикетка поставки утилизаторов
+    .desc = Бумажная этикетка, которой отмечают ящик с грузом по заданию утилизаторов. Продайте ящик с такой этикеткой, чтобы выполнить задание.
 
-ent-PaperCNCSheet = character sheet
-    .desc = A sheet for your Carps and Crypts characters.
+ent-PaperCNCSheet = лист персонажа
+    .desc = Лист для ваших персонажей из «Карпов и Склепов».
 
 ent-PaperWritten = { ent-Paper }
     .desc = { ent-Paper.desc }
 
-ent-NukeCodePaper = nuclear authentication codes
+ent-NukeCodePaper = коды ядерной аутентификации
     .desc = { ent-Paper.desc }
 
 ent-NukeCodePaperStation = { ent-NukeCodePaper }
     .desc = { ent-NukeCodePaper.desc }
-    .suffix = Station Only
+    .suffix = Только Станция
 
-ent-TraitorCodePaper = syndicate codeword
-    .desc = A leaked codeword to possibly get in touch with the Syndicate.
+ent-TraitorCodePaper = кодовое слово синдиката
+    .desc = Утёкшее кодовое слово, с которым, возможно, удастся связаться с Синдикатом.
 
-ent-AllTraitorCodesPaper = syndicate codewords registry
-    .desc = A registry of all active Syndicate codewords.
-    .suffix = Admeme
+ent-AllTraitorCodesPaper = реестр кодовых слов синдиката
+    .desc = Реестр всех действующих кодовых слов Синдиката.
+    .suffix = Адмеме
 
-ent-Envelope = eenvelope
-    .desc = A small envelope for keeping prying eyes off of your sensitive documents.
+ent-Envelope = э-конверт
+    .desc = Небольшой конверт, чтобы уберечь конфиденциальные документы от любопытных глаз.

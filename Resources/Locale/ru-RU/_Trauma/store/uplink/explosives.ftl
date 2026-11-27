@@ -1,24 +1,24 @@
-uplink-explosive-foam-grenade-name = Shrapnel Foam Grenade
-uplink-explosive-foam-grenade-desc = A shrapnel grenade disguised as a regular foam toy grenade.
+uplink-explosive-foam-grenade-name = Осколочная Граната из Пеноматериала
+uplink-explosive-foam-grenade-desc = Осколочная граната под видом обычной игрушечной гранаты из пеноматериала.
 
-uplink-sticky-grenade-name = Sticky Explosive Grenade
-uplink-sticky-grenade-desc = A sticky version of the simplistic grenade with a 3 second long fuse. Causes minimal hull damage.
+uplink-sticky-grenade-name = Липкая Взрывная Граната
+uplink-sticky-grenade-desc = Липкий вариант обычной гранаты с задержкой 3 секунды. Почти не повреждает корпус станции.
 
-uplink-exploding-pen-name-trauma = Exploding Pen
+uplink-exploding-pen-name-trauma = Взрывная Ручка
 
-uplink-c4-bundle-name-trauma = C-4 Bundle
+uplink-c4-bundle-name-trauma = Комплект C-4
 
-uplink-cluster-grenade-name = Cluster Grenade
-uplink-cluster-grenade-desc = Three explosive grenades bundled together. The cluster splits after 3.5 seconds.
+uplink-cluster-grenade-name = Кластерная Граната
+uplink-cluster-grenade-desc = Три взрывные гранаты в одной связке. Кластер распадается через 3.5 секунды.
 
-uplink-flashbang-pen-name = Flashbang Pen
-uplink-flashbang-pen-desc = A flashbang device contained within a standard pen. Comes with a 4 second fuse.
+uplink-flashbang-pen-name = Светошумовая Ручка
+uplink-flashbang-pen-desc = Светошумовое устройство внутри обычной ручки. Задержка 4 секунды.
 
-uplink-viscerators-delivery-grenade-name = Viscerator Delivery Grenade
-uplink-viscerators-delivery-grenade-desc = Grenade that deploys a swarm of viscerators upon activation, which will chase down and shred any non-agents in the area.
+uplink-viscerators-delivery-grenade-name = Граната с Потрошителями
+uplink-viscerators-delivery-grenade-desc = При активации выпускает рой потрошителей, которые преследуют и кромсают всех, кто не является агентом.
 
-uplink-viscerators-delivery-grenade-box-name = Viscerator Delivery Grenade Box
-uplink-viscerators-delivery-grenade-box-desc = A box containing unique grenades that deploys a swarm of viscerators upon activation, which will chase down and shred any non-operatives in the area.
+uplink-viscerators-delivery-grenade-box-name = Коробка Гранат с Потрошителями
+uplink-viscerators-delivery-grenade-box-desc = Коробка особых гранат, при активации выпускающих рой потрошителей. Они преследуют и кромсают всех, кто не является оперативником.
 
-uplink-cigar-gold-syndicate-name = Explosive Cigar Case
-uplink-cigar-gold-syndicate-desc = Capitalize on the Nanotrasen elite’s love for cigars with this certified Waffle Co. classic!* Just light these bad boys up, wait until the first half of the nicotine is used up, then BOOM!                   *Warning! Assassination plots on political enemies may not succeed!
+uplink-cigar-gold-syndicate-name = Футляр Взрывных Сигар
+uplink-cigar-gold-syndicate-desc = Воспользуйтесь любовью элиты NanoTrasen к сигарам с этой проверенной классикой Waffle Co.!* Просто прикурите, дождитесь, пока выгорит половина никотина, и БАХ!                   *Осторожно! Покушения на политических противников могут провалиться!

@@ -1,5 +1,5 @@
-ent-StationRadioServer = station radio server
-    .desc = A rack of servers, controls whether your voice is being broadcasted or not
+ent-StationRadioServer = станционный радиосервер
+    .desc = Стойка с серверами, которая управляет трансляцией вашего голоса
 
-ent-StationRadioRig = station radio rig
-    .desc = A collection of everything you need to play music over the station.
+ent-StationRadioRig = станционная радиоустановка
+    .desc = Комплект всего необходимого для трансляции музыки по станции.

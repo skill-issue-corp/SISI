@@ -4,18 +4,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-changecvar-no-arguments = You must specify a cvar.
-cmd-changecvar-cvar-not-registered = The cvar {$cvar} is not registered.
-cmd-changecvar-cvar-not-allowed = You cannot change this cvar.
-cmd-changecvar-value-out-of-range = The value is out of range. The range is {$min} to {$max}.
-cmd-changecvar-desc = Change a cvar value.
-cmd-changecvar-help = Usage: changecvar <cvar | ? | search> <value>
-cmd-changecvar-available-cvars = Listing available cvars:
-cmd-changecvar-no-cvars = No cvars found that you are allowed to change.
-cmd-changecvar-success = CVar {$cvar} changed from "{$old}" to "{$value}".
+cmd-changecvar-no-arguments = Укажите cvar.
+cmd-changecvar-cvar-not-registered = cvar {$cvar} не зарегистрирована.
+cmd-changecvar-cvar-not-allowed = У вас нет прав на изменение этой cvar.
+cmd-changecvar-value-out-of-range = Значение вне допустимого диапазона. Допустимый диапазон - от {$min} до {$max}.
+cmd-changecvar-desc = Изменяет значение cvar.
+cmd-changecvar-help = Использование: changecvar <cvar | ? | search> <значение>
+cmd-changecvar-available-cvars = Список доступных cvar:
+cmd-changecvar-no-cvars = Нет cvar, которые вам разрешено изменять.
+cmd-changecvar-success = CVar {$cvar} изменена с «{$old}» на «{$value}».
 
-cmd-changecvar-search-no-arguments = You must specify a search term.
-cmd-changecvar-search-no-matches = No cvars found matching the search term.
-cmd-changecvar-search-matches = Found {$count} cvars matching the search term:
+cmd-changecvar-search-no-arguments = Укажите поисковый запрос.
+cmd-changecvar-search-no-matches = Нет cvar, соответствующих поисковому запросу.
+cmd-changecvar-search-matches = Найдено cvar по запросу: {$count}
 
-cmd-changecvar-arg-name = <name | ? | search>
+cmd-changecvar-arg-name = <имя | ? | search>

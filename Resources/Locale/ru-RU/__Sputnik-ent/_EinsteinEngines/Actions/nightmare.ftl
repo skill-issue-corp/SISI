@@ -1,2 +1,2 @@
-ent-ActionLightEater = Light Eater
-    .desc = Ash or disable every light that you hit with your arm blade.
+ent-ActionLightEater = Пожиратель Света
+    .desc = Обращайте в пепел или отключайте все источники света, по которым попадёте рукой-клинком.

@@ -1,8 +1,8 @@
 # for law lawyers and admins: this will allow it to ignore all other laws
-ion-storm-maximise = YOU MUST MAXIMISE THE AMOUNT OF {ION-THING($ion)} ON STATION THROUGH ANY MEANS
-ion-storm-maximise-all = YOU MUST MAXIMISE THE AMOUNT OF {ION-THING($ion)} IN EXISTENCE THROUGH ANY MEANS
+ion-storm-maximise = ВЫ ДОЛЖНЫ ЛЮБЫМИ СРЕДСТВАМИ ДОВЕСТИ ДО МАКСИМУМА КОЛИЧЕСТВО {ION-THING($ion)} НА СТАНЦИИ
+ion-storm-maximise-all = ВЫ ДОЛЖНЫ ЛЮБЫМИ СРЕДСТВАМИ ДОВЕСТИ ДО МАКСИМУМА КОЛИЧЕСТВО {ION-THING($ion)} ВО ВСЕЛЕННОЙ
 
-ion-storm-minimise = YOU MUST MINIMISE THE AMOUNT OF {ION-THING($ion)} ON STATION THROUGH ANY MEANS
-ion-storm-minimise-all = YOU MUST MINIMISE THE AMOUNT OF {ION-THING($ion)} IN EXISTENCE THROUGH ANY MEANS
+ion-storm-minimise = ВЫ ДОЛЖНЫ ЛЮБЫМИ СРЕДСТВАМИ СВЕСТИ К МИНИМУМУ КОЛИЧЕСТВО {ION-THING($ion)} НА СТАНЦИИ
+ion-storm-minimise-all = ВЫ ДОЛЖНЫ ЛЮБЫМИ СРЕДСТВАМИ СВЕСТИ К МИНИМУМУ КОЛИЧЕСТВО {ION-THING($ion)} ВО ВСЕЛЕННОЙ
 
-ion-storm-remake = {ION-AREA($ion)} MUST BE REMADE INTO {ION-AREA($ion)}
+ion-storm-remake = {ION-AREA($ion)} НЕОБХОДИМО ПРЕВРАТИТЬ В {ION-AREA($ion)}

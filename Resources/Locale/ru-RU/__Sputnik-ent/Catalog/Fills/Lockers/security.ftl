@@ -1,53 +1,53 @@
 ent-LockerWardenFilledHardsuit = { ent-LockerWarden }
     .desc = { ent-LockerWarden.desc }
-    .suffix = Filled, Hardsuit
+    .suffix = Заполнено, Скафандр
 
 ent-LockerWardenFilled = { ent-LockerWarden }
     .desc = { ent-LockerWarden.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-LockerSecurityFilled = { ent-LockerSecurity }
     .desc = { ent-LockerSecurity.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-LockerBrigmedicFilled = { ent-LockerBrigmedic }
     .desc = { ent-LockerBrigmedic.desc }
-    .suffix = Brigmedic, Filled
+    .suffix = Бригмедик, Заполнено
 
 ent-LockerDetectiveFilled = { ent-LockerDetective }
     .desc = { ent-LockerDetective.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-ClosetBombFilled = { ent-ClosetBomb }
     .desc = { ent-ClosetBomb.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-GunSafeDisabler = disabler safe
+ent-GunSafeDisabler = сейф для дизейблеров
     .desc = { ent-GunSafeBaseSecure.desc }
 
-ent-GunSafePistolMk58 = mk58 safe
+ent-GunSafePistolMk58 = сейф для mk58
     .desc = { ent-GunSafeBaseSecure.desc }
 
-ent-GunSafeRifleLecter = lecter safe
+ent-GunSafeRifleLecter = сейф для lecter
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Lecter, Alert Level Lock
+    .suffix = Lecter, Замок по Уровню Тревоги
 
-ent-GunSafeSubMachineGunDrozd = drozd safe
+ent-GunSafeSubMachineGunDrozd = сейф для drozd
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Drozd, Alert Level Lock
+    .suffix = Drozd, Замок по Уровню Тревоги
 
-ent-GunSafeShotgunEnforcer = enforcer safe
+ent-GunSafeShotgunEnforcer = сейф для enforcer
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Enforcer, Alert Level Lock
+    .suffix = Enforcer, Замок по Уровню Тревоги
 
-ent-GunSafeShotgunKammerer = kammerer safe
+ent-GunSafeShotgunKammerer = сейф для kammerer
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Kammerer, Alert Level Lock
+    .suffix = Kammerer, Замок по Уровню Тревоги
 
-ent-GunSafeSubMachineGunWt550 = wt550 safe
+ent-GunSafeSubMachineGunWt550 = сейф для wt550
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = wt550, Alert Level Lock
+    .suffix = wt550, Замок по Уровню Тревоги
 
-ent-GunSafeLaserCarbineOutdated = laser safe
+ent-GunSafeLaserCarbineOutdated = сейф для лазеров
     .desc = { ent-GunSafeBaseSecure.desc }
-    .suffix = Carbide, Alert Level Lock
+    .suffix = Карбид, Замок по Уровню Тревоги

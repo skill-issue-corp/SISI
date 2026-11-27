@@ -5,88 +5,88 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-spellbook-mime-bundle-name = Mime Wizard Bundle
+spellbook-mime-bundle-name = Набор Мима-Волшебника
 spellbook-mime-bundle-desc =
-    Contains a set of mime clothes, as well as mime PDA and special mime wizard hat and robes.
-    Cannot be refunded.
-    Warning: Purchasing this blocks the refund of Mime Malaise spell!
+    Содержит комплект одежды мима, КПК мима и особые шляпу и мантию мима-волшебника.
+    Нельзя вернуть.
+    Внимание: купив этот набор, вы не сможете вернуть заклинание «Мимическая Апатия»!
 
-spellbook-clown-bundle-name = Clown Wizard Bundle
+spellbook-clown-bundle-name = Набор Клоуна-Волшебника
 spellbook-clown-bundle-desc =
-    Contains a set of clown clothes, as well as clown PDA and special clown wizard hat and robes.
-    Cannot be refunded.
-    Warning: Purchasing this blocks the refund of Banana Touch and Curse of the Cluwne spells!
+    Содержит комплект одежды клоуна, КПК клоуна и особые шляпу и мантию клоуна-волшебника.
+    Нельзя вернуть.
+    Внимание: купив этот набор, вы не сможете вернуть заклинания «Прикосновение Банана» и «Проклятие Клувеня»!
 
-spellbook-oblivion-enforcer-name = Oblivion Enforcer Bundle
+spellbook-oblivion-enforcer-name = Набор Стража Забвения
 spellbook-oblivion-enforcer-desc =
-    Contains Oblivion Enforcer robes, a pair of insulated gloves and Oblivion Enforcer mask with integrated voice changer.
-    The Oblivion Order is an isolated clique of monks that revere supermatter. Oblivion Enforcers are how the Order imposes their will on the universe as a whole. By taking this bundle, you give up your identity and become a faceless hand of the Order.
-    Cannot be refunded.
-    You can get this bundle as many times as you have purchased Supermatter Halberd.
-    Warning: Purchasing this blocks the refund of Supermatter Halberd!
+    Содержит мантию Стража Забвения, пару изолированных перчаток и маску Стража Забвения со встроенным изменителем голоса.
+    Орден Забвения — замкнутый круг монахов, почитающих суперматерию. Через Стражей Забвения Орден навязывает свою волю всей вселенной. Приняв набор, вы отрекаетесь от своей личности и становитесь безликой рукой Ордена.
+    Нельзя вернуть.
+    Этот набор можно получить столько раз, сколько вы купили Алебард из Суперматерии.
+    Внимание: купив этот набор, вы не сможете вернуть Алебарду из Суперматерии!
 
-spellbook-tider-bundle-name = Tider Wizard Bundle
+spellbook-tider-bundle-name = Набор Тайдера-Волшебника
 spellbook-tider-bundle-desc =
-    Contains an ancient jumpsuit, a pair of insulated gloves, a gas mask, gray winter coat and mantle as well as assistant PDA.
-    Cannot be refunded.
-    Buying this gives you Assistant faction and unlocks purchasing a special Grey Tide spear.
-    Warning: Purchasing this blocks the refund of Homing Toolbox spell!
+    Содержит древний комбинезон, пару изолированных перчаток, противогаз, серое зимнее пальто и мантию, а также КПК ассистента.
+    Нельзя вернуть.
+    Покупка добавит вас во фракцию Ассистентов и позволит купить особое копьё Грейтайда.
+    Внимание: купив этот набор, вы не сможете вернуть заклинание «Самонаводящийся Ящик»!
 
-spellbook-full-random-name = Full Random
+spellbook-full-random-name = Полная Случайность
 spellbook-full-random-desc =
-    Get 15 WizCoins worth of completely random spells. There's no going back.
-    Not recommended for newer wizards.
+    Получите совершенно случайные заклинания на 15 маг₭øинов™. Пути назад нет.
+    Волшебникам-новичкам не рекомендуется.
 
-spellbook-semi-random-name = Semi-Random
+spellbook-semi-random-name = Частичная Случайность
 spellbook-semi-random-desc =
-    Get 12 WizCoins worth of random spells. You are guaranteed to get at least some mobility and lethal spells though. There's no going back.
-    Not recommended for newer wizards.
+    Получите случайные заклинания на 12 маг₭øинов™. Среди них гарантированно будут заклинания для перемещения и убийства. Пути назад нет.
+    Волшебникам-новичкам не рекомендуется.
 
-spellbook-event-dimension-shift-name = Dimension Shift
+spellbook-event-dimension-shift-name = Сдвиг Измерения
 spellbook-event-dimension-shift-desc =
-    Shift dimensions of the target station, making space atmosphere safe for humanoid beings but still non-breathable. Useful if you are afraid of space, but this also prevents crew from dying to it as well.
-    This spell goes into effect immediately the moment you buy it.
-    Cannot be refunded.
-spellbook-event-global-tile-toggle-name = Global Tile Movement
-spellbook-event-global-tile-toggle-description = The station will not like this.
-spellbook-apprentice-name = Contract of Apprenticeship
+    Переносит выбранную станцию в измерение, где космос безопасен для гуманоидов, но дышать в нём по-прежнему нельзя. Пригодится, если вы боитесь космоса, но и экипаж теперь в нём не погибнет.
+    Вступает в силу сразу после покупки.
+    Нельзя вернуть.
+spellbook-event-global-tile-toggle-name = Глобальное Плиточное Перемещение
+spellbook-event-global-tile-toggle-description = Станции это не понравится.
+spellbook-apprentice-name = Ученический Договор
 spellbook-apprentice-desc =
-    A magical contract binding an apprentice wizard to your service, using it will summon them to your side.
-    Can only be purchased once.
+    Магический договор, обязывающий ученика-волшебника служить вам. Используйте его, чтобы призвать ученика.
+    Можно купить только один раз.
 
-    You can choose between 8 set of spells for your apprentice to learn:
-    Destruction: Fireball and Mutate.
-    Ethereal: Ethereal Jaunt and Teleport.
-    Summoning: Lesser Summon Bees and Summon Simians.
-    Gunslinger: Lesser Summon Guns, Smoke and Blink.
-    Arcane: Arcane Barrage, Charge and Instant Summons.
-    Sanguine: Scream For Me, Exsanguinating Strike and Instant Summons.
-    Robeless: Mind Swap, Force Wall and Knock.
-    Chaos: 6 WizCoins worth of random spells, except for Bind Soul and Soul Tap.
+    Для ученика можно выбрать один из 8 наборов заклинаний:
+    Разрушение: Огненный Шар и Мутация.
+    Эфир: Эфирный Рывок и Телепортация.
+    Призыв: Малый Призыв Пчёл и Призыв Приматов.
+    Стрелок: Малый Призыв Оружия, Дым и Мерцание.
+    Мистика: Мистический Шквал, Зарядка и Мгновенный Призыв.
+    Кровь: Кричи Для Меня, Обескровливающий Удар и Мгновенный Призыв.
+    Без Мантии: Обмен Разумами, Силовая Стена и Взлом.
+    Хаос: случайные заклинания на 6 маг₭øинов™, кроме Связывания Души и Черпания Души.
 
-spellbook-magical-lamp-name = Magical Lamp
+spellbook-magical-lamp-name = Волшебная Лампа
 spellbook-magical-lamp-desc =
-    A magical golden lamp, capable of binding a personal guardian to your body. The guardian will transfer some amount of damage to you.
-    It would be wise to avoid buying these with anything capable of causing you to swap bodies with others.
-    After hosting guardian you won't be able to change your species in wizard magic mirror.
-    Can only be purchased once.
-    Cannot be refunded.
+    Волшебная золотая лампа, способная привязать личного защитника к вашему телу. Защитник будет передавать вам часть полученного урона.
+    Лучше не покупать её вместе с чем-либо, что позволяет вам меняться телами с другими.
+    После привязки защитника вы не сможете поменять вид в волшебном зеркале.
+    Можно купить только один раз.
+    Нельзя вернуть.
 
-spellbook-bottle-blood-name = Bottle of Blood
+spellbook-bottle-blood-name = Бутылка Крови
 spellbook-bottle-blood-desc =
-    A bottle of magically infused blood, the smell of which will attract extradimensional beings when broken.
+    Бутылка наполнена зачарованной кровью. Если её разбить, запах привлечёт существ из другого измерения.
 
-    Be careful though, these creatures, called Slaughter Demons, are indiscriminate in their killing,
-    and you yourself may become a victim.
+    Будьте осторожны: эти существа, известные как Демоны Резни, убивают без разбора,
+    и вы сами можете стать их жертвой.
 
-    You need to shatter the bottle to unleash the slaughter demon.
+    Чтобы выпустить демона резни, нужно разбить бутылку.
 
-spellbook-bottle-tickles-name = Bottle of Tickles
+spellbook-bottle-tickles-name = Бутылка Щекотки
 spellbook-bottle-tickles-desc =
-    A bottle of magically infused fun, the smell of which will attract adorable extradimensional beings when broken.
+    Бутылка наполнена волшебным весельем. Если её разбить, запах привлечёт прелестных существ из другого измерения.
 
-    These beings are similar to slaughter demons, but instead put their victims in an extradimensional hugspace,
-    reviving them after the demon dies. Chaotic, but not ultimately damaging.
-    The crew's reaction on the other hand could be very destructive.
+    Эти существа похожи на демонов резни, но помещают жертв в особое измерение обнимашек
+    и возвращают их к жизни после гибели демона. Хаотично, но без необратимых последствий.
+    А вот реакция экипажа может оказаться разрушительной.
 
-    You need to shatter the bottle to unleash the laughter demon.
+    Чтобы выпустить демона смеха, нужно разбить бутылку.

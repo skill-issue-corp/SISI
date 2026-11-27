@@ -1,2 +1,2 @@
-ent-CurseBabel = Curse of Babel
+ent-CurseBabel = Проклятие Вавилона
     .desc = { ent-BaseEnchant.desc }

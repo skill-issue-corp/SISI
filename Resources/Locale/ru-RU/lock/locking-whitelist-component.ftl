@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-locking-whitelist-component-lock-toggle-deny = You can't toggle the lock.
+locking-whitelist-component-lock-toggle-deny = Вы не можете переключить замок.

@@ -1,45 +1,45 @@
-ent-ClothingHeadHelmetHelldiver = salvage NT-01 tactical helmet
-    .desc = This armor is the NanoTrasen standard issue, made from the same titanium alloy as the Goliath hull.
+ent-ClothingHeadHelmetHelldiver = тактический шлем утилизатора NT-01
+    .desc = Эта броня входит в стандартное снаряжение NanoTrasen и сделана из того же титанового сплава, что и корпус Голиафа.
 
-ent-ClothingHeadHelmetHEV = H.E.V helmet
-    .desc = Not included in a set with crowbar, long jump module and gravity manipulation device.
+ent-ClothingHeadHelmetHEV = шлем H.E.V
+    .desc = Лом, модуль длинного прыжка и устройство управления гравитацией в комплект не входят.
 
 ent-ClothingHeadHelmetBasicAlt = { ent-ClothingHeadHelmetBasic }
     .desc = { ent-ClothingHeadHelmetBasic.desc }
-    .suffix = Alt
+    .suffix = Альтернативный
 
-ent-ReverseBearTrap = reverse bear trap
-    .desc = A horrifying set of shut metal jaws, rigged to a kitchen timer and secured by padlock to a head-mounted clamp. To apply, hit someone with it
+ent-ReverseBearTrap = обратный медвежий капкан
+    .desc = Жуткие сомкнутые металлические челюсти с кухонным таймером, закреплённые замком на зажиме для головы. Чтобы надеть, ударьте им кого-нибудь
 
-ent-ClothingHeadHatHoodCloakSith = dark lord hood
-    .desc = What began as a simple cosplay hood was illegally reinforced with armored plates, transforming it into a functional piece of armor. Looks like it's even capable of protecting the user from the lack of pressure in space.
+ent-ClothingHeadHatHoodCloakSith = капюшон тёмного владыки
+    .desc = Обычный капюшон для косплея незаконно усилили бронепластинами, превратив в настоящую броню. Похоже, он даже способен защитить владельца от вакуума.
 
 ent-ClothingHeadHelmetBaseFoldable = { ent-ClothingHeadHelmetBase }
     .desc = { ent-ClothingHeadHelmetBase.desc }
 
-ent-ClothingHeadHatCowboyBrownRobust = authentic brown cowboy hat
-    .desc = "This station ain't big enough for the two of us."
+ent-ClothingHeadHatCowboyBrownRobust = настоящая коричневая ковбойская шляпа
+    .desc = «Нам двоим на этой станции тесно».
 
-ent-ClothingHeadHatHelmetTemplar = crusader helmet
-    .desc = Deus Vult.
+ent-ClothingHeadHatHelmetTemplar = шлем крестоносца
+    .desc = Так Угодно Богу.
 
-ent-ClothingHeadHatHelmetCage = cage
-    .desc = A cage that restrains the will of the self, allowing one to see the profane world for what it is.
+ent-ClothingHeadHatHelmetCage = клетка
+    .desc = Клетка, сковывающая собственную волю и позволяющая увидеть суетный мир таким, какой он есть.
 
-ent-ClothingHeadHatHelmetAncient = ancient helmet
-    .desc = None may pass!
+ent-ClothingHeadHatHelmetAncient = древний шлем
+    .desc = Никто не пройдёт!
 
-ent-ClothingHeadHatHelmetWitchhunter = witchunter hat
-    .desc = This hat saw much use back in the day.
+ent-ClothingHeadHatHelmetWitchhunter = шляпа охотника на ведьм
+    .desc = В своё время эту шляпу носили без устали.
 
-ent-ClothingHeadHatHelmetAdept = adept hood
-    .desc = Its only heretical when others do it.
+ent-ClothingHeadHatHelmetAdept = капюшон адепта
+    .desc = Это ересь, только когда так делают другие.
 
-ent-ClothingHeadHatHelmetClock = forgotten helmet
-    .desc = It has the unyielding gaze of a god eternally forgotten.
+ent-ClothingHeadHatHelmetClock = забытый шлем
+    .desc = В нём застыл непреклонный взгляд навеки забытого бога.
 
-ent-ClothingHeadHatHelmetMonk = monk's hood
-    .desc = For when a man wants to cover up his tonsure.
+ent-ClothingHeadHatHelmetMonk = капюшон монаха
+    .desc = На случай, если захочется прикрыть тонзуру.
 
-ent-ClothingHeadHatHelmetBishop = bishop mitre
-    .desc = An opulent hat that functions as a radio to God. Or as a lightning rod, depending on who you ask.
+ent-ClothingHeadHatHelmetBishop = епископская митра
+    .desc = Роскошный головной убор, работает как рация для связи с Богом. Или громоотвод, смотря кого спросить.

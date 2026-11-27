@@ -6,9 +6,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-condiment-1 = Tired of dry meat? Squirt some flavor-packed condiments on it!
-advertisement-condiment-2 = Child-safe utensils. Forks, spoons, and knives that won't cut a thing.
-advertisement-condiment-3 = Corn oil!
-advertisement-condiment-4 = Sweeten up your day with Astrotame! Eight out of ten doctors agree, it probably won't cause cancer.
-advertisement-condiment-5 = Hot Sauce! Barbecue Sauce! Cold Sauce! Ketchup! Soy Sauce! Horseradish Sauce! We got all the sauce!
-advertisement-condiment-6 = Make sure to put ketchup and mustard on your burgers! The chefs often forget.
+advertisement-condiment-1 = Надоело сухое мясо? Щедро полейте его ароматным соусом!
+advertisement-condiment-2 = Приборы, безопасные для детей. Вилки, ложки и ножи, которые ничего не режут.
+advertisement-condiment-3 = Кукурузное масло!
+advertisement-condiment-4 = Подсластите свой день с Астротеймом! Восемь из десяти врачей согласны, что он, скорее всего, не вызывает рак.
+advertisement-condiment-5 = Острый Соус! Соус Барбекю! Холодный Соус! Кетчуп! Соевый Соус! Соус с Хреном! У нас есть все соусы!
+advertisement-condiment-6 = Не забудьте добавить в бургер кетчуп и горчицу! Повара часто забывают.

@@ -1,6 +1,6 @@
-reagent-name-cluoxadone = cluoxadone
-reagent-desc-cluoxadone = A cryogenics chemical that flushes extreme poisoning even from the dead.
-reagent-name-dewormer = Deworming Solution
-reagent-desc-dewormer = Chalky, thick slime. Toxic to parasites.
-reagent-name-suffocatium = suffocatium
-reagent-desc-suffocatium = An icy-blue flame suppressant that smothers fires from the inside out and cools the body. Without a fire to fight, it smothers the patient instead. High doses crystallize in the bloodstream, inhibiting bloodcells.
+reagent-name-cluoxadone = клуоксадон
+reagent-desc-cluoxadone = Криогенное средство, устраняющее тяжёлое отравление даже у мёртвых.
+reagent-name-dewormer = Противоглистный Раствор
+reagent-desc-dewormer = Густая слизь, похожая на мел. Токсична для паразитов.
+reagent-name-suffocatium = суффокатиум
+reagent-desc-suffocatium = Ледяной голубой огнегаситель, который тушит огонь изнутри и охлаждает тело. Если тушить нечего, вместо огня он душит пациента. В больших дозах кристаллизуется в крови и мешает работе кровяных клеток.

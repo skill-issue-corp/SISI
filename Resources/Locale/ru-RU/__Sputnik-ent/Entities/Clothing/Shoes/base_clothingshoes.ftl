@@ -9,7 +9,7 @@ ent-ClothingShoesMilitaryBase = { ent-ClothingShoesBase }
 
 ent-ClothingShoesBootsSecFilled = { "" }
     .desc = { "" }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-ClothingShoesBaseWinterBoots = { ent-ClothingShoesBaseButcherable }
-    .desc = Fluffy boots to help survive even the coldest of winters.
+    .desc = Пушистые ботинки, в которых можно пережить даже самую холодную зиму.

@@ -8,13 +8,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-guide-entry-space-law = Space Law
-guide-entry-medpatches = Medical Patches
-guide-entry-virology = Virology
-guide-entry-sm = Supermatter Engine
-guide-entry-automation = Automation
-guide-entry-plumbing = Plumbing
+guide-entry-space-law = Космический Закон
+guide-entry-medpatches = Медицинские Пластыри
+guide-entry-virology = Вирусология
+guide-entry-sm = Двигатель Суперматерии
+guide-entry-automation = Автоматизация
+guide-entry-plumbing = Трубопроводы
 
-guide-entry-alcoholic-drinks = Alcoholic Drinks
-guide-entry-non-alcoholic-drinks = Non-Alcoholic Drinks
-guide-entry-enchanting = Enchanting
+guide-entry-alcoholic-drinks = Алкогольные Напитки
+guide-entry-non-alcoholic-drinks = Безалкогольные Напитки
+guide-entry-enchanting = Зачарование

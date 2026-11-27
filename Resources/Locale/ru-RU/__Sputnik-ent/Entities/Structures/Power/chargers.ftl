@@ -4,23 +4,23 @@ ent-BaseRecharger = { ent-BaseMachinePowered }
 ent-BaseItemRecharger = { ent-BaseRecharger }
     .desc = { ent-BaseRecharger.desc }
 
-ent-PowerCellRecharger = cell recharger
-    .desc = An older model recharger that can recharge power cells.
+ent-PowerCellRecharger = зарядник батарей
+    .desc = Зарядное устройство старой модели, способное заряжать батареи.
 
-ent-PowerCageRecharger = cage recharger
-    .desc = A specialized machine made for recharging the heavy cage batteries used by ship-mounted weapons.
+ent-PowerCageRecharger = зарядник аккумуляторных блоков
+    .desc = Специализированное устройство для зарядки тяжёлых аккумуляторных блоков корабельного вооружения.
 
-ent-WeaponCapacitorRecharger = recharger
-    .desc = A modern recharging station that can fit both power cells and small electronic devices.
+ent-WeaponCapacitorRecharger = зарядник
+    .desc = Современная зарядная станция для батарей и небольших электронных устройств.
 
-ent-TurboItemRecharger = turbo recharger
-    .desc = An overclocked recharger. Not recommended for use around asthmatics.
+ent-TurboItemRecharger = турбозарядник
+    .desc = Разогнанное зарядное устройство. Не рекомендуется использовать рядом с астматиками.
 
-ent-WallWeaponCapacitorRecharger = wall recharger
-    .desc = A compact wall-mounted recharger. It can only recharge electronic devices and has no space for power cells.
+ent-WallWeaponCapacitorRecharger = настенный зарядник
+    .desc = Компактное настенное зарядное устройство. Заряжает только электронику, места для батарей нет.
 
-ent-BorgCharger = cyborg recharging station
-    .desc = A stationary charger for various robotic and cyborg entities. Surprisingly spacious.
+ent-BorgCharger = зарядная станция киборгов
+    .desc = Стационарное зарядное устройство для роботов и киборгов. На удивление просторное.
 
-ent-BorgChargerXenoborg = xenoborg recharging station
-    .desc = A stationary charger for xenoborgs. Feels claustrophobic.
+ent-BorgChargerXenoborg = зарядная станция ксеноборгов
+    .desc = Стационарное зарядное устройство для ксеноборгов. Очень тесно.

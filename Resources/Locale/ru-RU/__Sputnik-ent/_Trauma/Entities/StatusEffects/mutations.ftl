@@ -1,7 +1,7 @@
-ent-DnaMeltingStatusEffect = DNA melting
+ent-DnaMeltingStatusEffect = распад ДНК
     .desc = { ent-StatusEffectBase.desc }
 
-ent-DecloningStatusEffect = decloning
+ent-DecloningStatusEffect = деклонирование
     .desc = { ent-StatusEffectBase.desc }
 
 ent-LookingUpStatusEffect = { ent-StatusEffectBase }

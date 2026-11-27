@@ -1,2 +1,2 @@
-admin-verb-text-make-antag = Make {$antag}
-admin-verb-make-antag = Make the target into a {$antag}.
+admin-verb-text-make-antag = Сделать {$antag}
+admin-verb-make-antag = Назначить цели роль {$antag}.

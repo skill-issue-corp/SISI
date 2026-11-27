@@ -1,11 +1,11 @@
-ent-ClothingHeadHatHoodZeusHood = zeus hood
-    .desc = Guaranteed to not fly off when leaping from skyscraper to skyscraper.
+ent-ClothingHeadHatHoodZeusHood = капюшон «зевс»
+    .desc = Гарантированно не слетит, когда вы перепрыгиваете с небоскрёба на небоскрёб.
 
-ent-ClothingHeadHatHoodWinterCapFancy = captain's fancy winter coat hood
+ent-ClothingHeadHatHoodWinterCapFancy = капюшон нарядной зимней куртки капитана
     .desc = { ent-ClothingHeadHatHoodWinterBase.desc }
 
-ent-ClothingHeadHatHoodHereticCostume = occult hood
-    .desc = A torn, dust-caked hood. Smudgy eyes line the inside.
+ent-ClothingHeadHatHoodHereticCostume = оккультный капюшон
+    .desc = Рваный капюшон, покрытый слоем пыли. Изнутри он испещрён размазанными глазами.
 
 ent-ClothingHeadHatHoodHereticVoidCostume = { ent-ClothingHeadHatHoodHereticCostume }
     .desc = { ent-ClothingHeadHatHoodHereticCostume.desc }

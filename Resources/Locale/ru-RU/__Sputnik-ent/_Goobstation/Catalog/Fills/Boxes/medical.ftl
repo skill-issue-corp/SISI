@@ -1,5 +1,5 @@
-ent-BoxSyringePax = pax syringe box
-    .desc = A box full of tranquilizer syringes.
+ent-BoxSyringePax = коробка шприцев с паксом
+    .desc = Коробка, полная шприцев с транквилизатором.
 
-ent-BoxSyringePoison = poison syringe box
-    .desc = A box full of quick-acting poison syringes.
+ent-BoxSyringePoison = коробка шприцев с ядом
+    .desc = Коробка, полная шприцев с быстродействующим ядом.

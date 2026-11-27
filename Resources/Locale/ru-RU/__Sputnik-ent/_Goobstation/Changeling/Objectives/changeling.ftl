@@ -4,8 +4,8 @@ ent-BaseChangelingObjective = { ent-BaseObjective }
 ent-BaseChangelingSyndicateObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-ChangelingSurviveObjective = Survive
-    .desc = We must survive no matter what.
+ent-ChangelingSurviveObjective = Выжить
+    .desc = Мы должны выжить любой ценой.
 
 ent-ChangelingAbsorbObjective = { ent-BaseChangelingObjective }
     .desc = { ent-BaseChangelingObjective.desc }
@@ -17,13 +17,13 @@ ent-ChangelingStealDNAObjective = { ent-BaseChangelingObjective }
     .desc = { ent-BaseChangelingObjective.desc }
 
 ent-EscapeIdentityObjective = { ent-BaseChangelingObjective }
-    .desc = We need to escape on the evacuation shuttle. Undercover.
+    .desc = Мы должны сбежать на эвакуационном шаттле. Под прикрытием.
 
 ent-ChangelingStealObjective = { ent-BaseChangelingSyndicateObjective }
     .desc = { ent-BaseChangelingSyndicateObjective.desc }
 
 ent-LingKillRandomHeadObjective = { ent-BaseChangelingSyndicateObjective }
-    .desc = Our worshippers requested we eliminate this high value target.
+    .desc = Наши почитатели попросили устранить эту особо важную цель.
 
 ent-LingCMOStealObjective = { ent-ChangelingStealObjective }
     .desc = { ent-ChangelingStealObjective.desc }

@@ -1,12 +1,13 @@
-parcel-wrap-verb-wrap = Wrap
-parcel-wrap-verb-unwrap = Unwrap
+parcel-wrap-verb-wrap = Упаковать
+parcel-wrap-verb-unwrap = Распаковать
 
-parcel-wrap-popup-parcel-destroyed = The wrapping containing { THE($contents) } is destroyed!
-parcel-wrap-popup-being-wrapped = {CAPITALIZE(THE($user))} is trying to parcel wrap you!
-parcel-wrap-popup-being-wrapped-self = You start parcel wrapping yourself.
+parcel-wrap-popup-parcel-destroyed = Упаковка с содержимым ({ $contents }) уничтожена!
+parcel-wrap-popup-being-wrapped = {CAPITALIZE($user)} пытается упаковать вас в посылку!
+parcel-wrap-popup-being-wrapped-self = Вы начинаете упаковывать себя в посылку.
 
 # Shown when parcel wrap is examined in details range
 parcel-wrap-examine-detail-uses = { $uses ->
-    [one] There is [color={$markupUsesColor}]{$uses}[/color] use left
-    *[other] There are [color={$markupUsesColor}]{$uses}[/color] uses left
+    [one] Осталось [color={$markupUsesColor}]{$uses}[/color] использование
+    [few] Осталось [color={$markupUsesColor}]{$uses}[/color] использования
+    *[many] Осталось [color={$markupUsesColor}]{$uses}[/color] использований
 }.

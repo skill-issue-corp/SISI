@@ -6,16 +6,16 @@
 
 ## Damage command loc.
 
-damage-command-description = Add or remove damage to an entity.
-damage-command-help = Usage: {$command} <type/group> <amount> [ignoreResistances] [uid]
+damage-command-description = Добавляет или снимает урон с сущности.
+damage-command-help = Использование: {$command} <тип/группа> <количество> [ignoreResistances] [uid]
 
-damage-command-arg-type = <damage type or group>
-damage-command-arg-quantity = [quantity]
-damage-command-arg-target = [target euid]
+damage-command-arg-type = <тип или группа урона>
+damage-command-arg-quantity = [количество]
+damage-command-arg-target = [euid цели]
 
-damage-command-error-type = {$arg} is not a valid damage group or type.
-damage-command-error-euid = {$arg} is not a valid entity uid.
-damage-command-error-quantity = {$arg} is not a valid quantity.
-damage-command-error-bool = {$arg} is not a valid bool.
-damage-command-error-player = No entity attached to session. You must specify a target uid
-damage-command-error-args = Invalid number of arguments
+damage-command-error-type = Недопустимая группа или тип урона: {$arg}.
+damage-command-error-euid = Недопустимый uid сущности: {$arg}.
+damage-command-error-quantity = Недопустимое количество: {$arg}.
+damage-command-error-bool = Недопустимое логическое значение: {$arg}.
+damage-command-error-player = К сессии не привязана сущность. Укажите uid цели
+damage-command-error-args = Недопустимое число аргументов

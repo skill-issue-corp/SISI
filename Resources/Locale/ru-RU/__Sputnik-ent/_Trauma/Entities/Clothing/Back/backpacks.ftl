@@ -1,8 +1,8 @@
-ent-ClothingBackpackRev = MOLLE pack
-    .desc = A backpack designed for use in combat, it has seen many wars across many places.
+ent-ClothingBackpackRev = рюкзак MOLLE
+    .desc = Боевой рюкзак, который успел побывать на многих войнах в самых разных местах.
 
-ent-ClothingBackpackFlamethrower = flamethrower back tank
-    .desc = Accepts custom fuel tanks to fuel a flamethrower.
+ent-ClothingBackpackFlamethrower = наплечный бак огнемёта
+    .desc = Вмещает специальные топливные ёмкости для огнемёта.
 
-ent-ClothingBackpackHolyFirefighterTank = holy fire backpack tank
-    .desc = A backpack tank consecrated by the finest chaplains Nanotrasen could buy the loyalty of. This one begins full of CLF3 and will burn with divine righteousness.
+ent-ClothingBackpackHolyFirefighterTank = наплечный бак святого огня
+    .desc = Наплечный бак, освящённый лучшими священниками, чью верность NanoTrasen смогла купить. Уже заправлен CLF3 и будет гореть праведным огнём.

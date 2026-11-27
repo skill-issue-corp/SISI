@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-station-event-zombie-outbreak-announcement = Confirmed sightings of various undead aboard the station. All personnel should arm themselves, barricade doors, and secure their location in order to prevent further infection.
+station-event-zombie-outbreak-announcement = Подтверждено появление на станции различных видов нежити. Всему персоналу следует вооружиться, забаррикадировать двери и обезопасить своё укрытие, чтобы предотвратить дальнейшее заражение.

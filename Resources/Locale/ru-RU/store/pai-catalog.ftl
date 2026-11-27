@@ -1,8 +1,8 @@
-pai-mass-scanner-name = Mass Scanner
-pai-mass-scanner-desc = Enables you to scan nearby masses to assist in navigation.
+pai-mass-scanner-name = Сканер Масс
+pai-mass-scanner-desc = Позволяет вам сканировать ближайшие массы для навигации.
 
-pai-midi-player-name = MIDI Player
-pai-midi-player-desc = Enables you to play music to entertain your owner.
+pai-midi-player-name = MIDI-Проигрыватель
+pai-midi-player-desc = Позволяет вам играть музыку, чтобы развлекать хозяина.
 
-pai-station-map-name = Station Map
-pai-station-map-desc = Enables you to view the station map to assist in navigation.
+pai-station-map-name = Карта Станции
+pai-station-map-desc = Позволяет вам просматривать карту станции для навигации.

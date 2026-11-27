@@ -1,2 +1,2 @@
-ent-WeaponNaniteGun = nanite gun
-    .desc = A strange gun that shoots nanites encased in crystal shards that heals borgs but hurts fleshy inferior beings.
+ent-WeaponNaniteGun = нанитовая пушка
+    .desc = Странная пушка стреляет запечатанными в осколках кристаллов нанитами, которые ремонтируют боргов и вредят низшим тварям из плоти.

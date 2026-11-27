@@ -1,11 +1,11 @@
-carving-knife-comp-cant-draw = Can't draw carvings here!
-carving-knife-comp-too-many-runes = Too many carvings!
-carving-knife-comp-close-to-another-carving = Too close to another carving!
-carving-knife-comp-runes-count = [color=yellow][bold]{$count} / 3[/bold] total carvings have been drawn.[/color]
-carving-knife-comp-runes-deleted = Destroyed all carvings!
+carving-knife-comp-cant-draw = Здесь нельзя начертить знак!
+carving-knife-comp-too-many-runes = Слишком много знаков!
+carving-knife-comp-close-to-another-carving = Слишком близко к другому знаку!
+carving-knife-comp-runes-count = [color=yellow]Всего начертано знаков: [bold]{$count} / 3[/bold].[/color]
+carving-knife-comp-runes-deleted = Все знаки уничтожены!
 
 alert-carving-trigger-message =
-    "{$victim}" has stepped foot on the alert rune near "{$location}"!
+    «{$victim}» наступает на сигнальную руну возле «{$location}»!
     {" "}[button label="Teleport" timer={$timer} id="{$id}" uid={$uid} coords ="{$coords}"]
     {" "}
 alert-carving-trigger-message-coords = {$uid}, {$x}, {$y}

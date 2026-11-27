@@ -1,26 +1,26 @@
-entity-effect-popup-seizure = {CAPITALIZE($entity)} starts having a seizure!
-entity-effect-popup-acidic-flesh-bubbles = Your acid flesh bubbles...
-entity-effect-popup-acidic-flesh-pops = {$entity}'s skin bubbles and pops!
+entity-effect-popup-seizure = У {CAPITALIZE($entity)} начинается припадок!
+entity-effect-popup-acidic-flesh-bubbles = Ваша кислотная плоть пузырится...
+entity-effect-popup-acidic-flesh-pops = Кожа {$entity} пузырится и лопается!
 
-entity-effect-popup-spasm-leg = Your leg spasms!
-entity-effect-popup-spasm-fingers = Your fingers spasm!
-entity-effect-popup-spasm-arm = Your arm spasms!
+entity-effect-popup-spasm-leg = Вашу ногу сводит судорогой!
+entity-effect-popup-spasm-fingers = Ваши пальцы сводит судорогой!
+entity-effect-popup-spasm-arm = Вашу руку сводит судорогой!
 
-entity-effect-popup-feet-trip = You trip over your own feet.
+entity-effect-popup-feet-trip = Вы спотыкаетесь о собственные ноги.
 
-entity-effect-popup-head-removed = {$entity}'s head splatters with a sickening crunch!
-entity-effect-popup-head-regrown = {$entity}'s head returns with a sickening crunch!
+entity-effect-popup-head-removed = Голова {$entity} разлетается с тошнотворным хрустом!
+entity-effect-popup-head-regrown = Голова {$entity} восстанавливается с тошнотворным хрустом!
 
-entity-effect-popup-autotomy-failed = You can't shed any more limbs!
+entity-effect-popup-autotomy-failed = Вы больше не можете сбрасывать конечности!
 
-entity-effect-popup-tiredness = You should sit down and take a rest...
+entity-effect-popup-tiredness = Вам стоит сесть и отдохнуть...
 
-entity-effect-popup-crippled = My flesh turned into a wheelchair and I can't feel my legs.
-entity-effect-popup-alright = Oh, I actually feel quite alright!
-entity-effect-popup-ultimate-lifeform = Your DNA mutates into the ultimate biological form!
-entity-effect-popup-dusted = {CAPITALIZE($entity)} gets turned into dust!
-entity-effect-popup-skeletonized = {CAPITALIZE($entity)}'s skin melts off!
-entity-effect-popup-look-up = LOOK UP!
-entity-effect-popup-eyes-melt = {CAPITALIZE($entity)} looks up and {POSS-ADJ($entity)} eyes melt away!
-entity-effect-popup-martyrdom-blinded = You are blinded by a shower of blood!
-entity-effect-popup-martyrdom-borg-disabled = Your sensors are disabled by a shower of blood!
+entity-effect-popup-crippled = Моя плоть превратилась в инвалидное кресло, а ноги я больше не чувствую.
+entity-effect-popup-alright = О, вообще-то я чувствую себя вполне хорошо!
+entity-effect-popup-ultimate-lifeform = Ваша ДНК мутирует, достигая высшей биологической формы!
+entity-effect-popup-dusted = {CAPITALIZE($entity)} превращается в пыль!
+entity-effect-popup-skeletonized = У {CAPITALIZE($entity)} плавится кожа!
+entity-effect-popup-look-up = СМОТРИТЕ ВВЕРХ!
+entity-effect-popup-eyes-melt = {CAPITALIZE($entity)} смотрит вверх, и {POSS-ADJ($entity)} глаза расплавляются!
+entity-effect-popup-martyrdom-blinded = Вас ослепляет фонтан крови!
+entity-effect-popup-martyrdom-borg-disabled = Фонтан крови выводит ваши сенсоры из строя!

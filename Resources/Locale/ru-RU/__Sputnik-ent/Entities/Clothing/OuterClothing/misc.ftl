@@ -1,87 +1,87 @@
-ent-ClothingOuterApron = apron
-    .desc = A fancy apron for a stylish person.
+ent-ClothingOuterApron = фартук
+    .desc = Нарядный фартук для тех, кто одевается стильно.
 
-ent-ClothingOuterApronBar = apron
-    .desc = A darker apron designed for bartenders.
-    .suffix = Bartender
+ent-ClothingOuterApronBar = фартук
+    .desc = Более тёмный фартук для барменов.
+    .suffix = Бармен
 
-ent-ClothingOuterApronBotanist = apron
-    .desc = A thick blue-apron, perfect for insulating your soft flesh from spills, soil and thorns.
-    .suffix = Botanical
+ent-ClothingOuterApronBotanist = фартук
+    .desc = Плотный синий фартук, который отлично защищает вашу нежную плоть от брызг, земли и шипов.
+    .suffix = Ботаника
 
-ent-ClothingOuterApronChef = apron
-    .desc = An apron-jacket used by a high class chef.
-    .suffix = Chef
+ent-ClothingOuterApronChef = фартук
+    .desc = Куртка-фартук для шеф-повара высокого класса.
+    .suffix = Шеф-повар
 
-ent-ClothingOuterJacketChef = chef jacket
-    .desc = An apron-jacket used by a high class chef.
+ent-ClothingOuterJacketChef = поварская куртка
+    .desc = Куртка-фартук для шеф-повара высокого класса.
 
-ent-ClothingOuterHoodieBlack = black hoodie
-    .desc = Oh my God, it's a black hoodie!
+ent-ClothingOuterHoodieBlack = чёрная толстовка
+    .desc = Боже мой, это чёрная толстовка!
 
-ent-ClothingOuterHoodieGrey = grey hoodie
-    .desc = A grey hoodie.
+ent-ClothingOuterHoodieGrey = серая толстовка
+    .desc = Серая толстовка.
 
-ent-ClothingOuterCardborg = cardborg costume
-    .desc = An ordinary cardboard box with holes cut in the sides.
+ent-ClothingOuterCardborg = костюм картонного борга
+    .desc = Обычная картонная коробка с прорезанными по бокам отверстиями.
 
-ent-ClothingOuterHoodieChaplain = chaplain's hoodie
-    .desc = Black and strict chaplain hoodie.
+ent-ClothingOuterHoodieChaplain = толстовка священника
+    .desc = Чёрная строгая толстовка священника.
 
-ent-ClothingOuterPonchoClassic = classic poncho
-    .desc = A warm and comfy classic poncho.
+ent-ClothingOuterPonchoClassic = классическое пончо
+    .desc = Тёплое и удобное классическое пончо.
 
-ent-ClothingOuterRobesCult = cult robes
-    .desc = There's no cult without classic red/crimson cult robes.
+ent-ClothingOuterRobesCult = одеяние культиста
+    .desc = Какой же культ без классических красных/багровых одеяний?
 
-ent-ClothingOuterRobesJudge = judge robes
-    .desc = This robe commands authority.
+ent-ClothingOuterRobesJudge = судейская мантия
+    .desc = Эта мантия внушает почтение.
 
-ent-ClothingOuterPoncho = poncho
-    .desc = A warm and comfy poncho.
+ent-ClothingOuterPoncho = пончо
+    .desc = Тёплое и удобное пончо.
 
-ent-ClothingOuterSanta = santa suit
-    .desc = Ho ho ho!
+ent-ClothingOuterSanta = костюм санты
+    .desc = Хо-хо-хо!
 
 ent-ClothingOuterWizardBase = { ent-ClothingOuterBase }
     .desc = { ent-ClothingOuterBase.desc }
-    .suffix = Wizard Clothes
+    .suffix = Одежда Волшебника
 
-ent-ClothingOuterWizardViolet = violet wizard robes
-    .desc = A bizarre gem-encrusted violet robe that radiates magical energies.
+ent-ClothingOuterWizardViolet = фиолетовая мантия волшебника
+    .desc = Причудливая фиолетовая мантия, инкрустированная самоцветами и излучающая магическую энергию.
 
-ent-ClothingOuterWizard = wizard robes
-    .desc = A bizarre gem-encrusted blue robe that radiates magical energies.
+ent-ClothingOuterWizard = мантия волшебника
+    .desc = Причудливая синяя мантия, инкрустированная самоцветами и излучающая магическую энергию.
 
-ent-ClothingOuterWizardRed = red wizard robes
-    .desc = A bizarre gem-encrusted red robe that radiates magical energies.
+ent-ClothingOuterWizardRed = красная мантия волшебника
+    .desc = Причудливая красная мантия, инкрустированная самоцветами и излучающая магическую энергию.
 
-ent-ClothingOuterWizardFake = fake wizard robes
-    .desc = Covered in glittery stars and mystery stains. Instantly boosts your arcane fashion sense.
+ent-ClothingOuterWizardFake = поддельная мантия волшебника
+    .desc = В блестящих звёздах и пятнах непонятного происхождения. Мгновенно улучшает ваш вкус в магической моде.
 
-ent-ClothingOuterSkub = skub suit
-    .desc = Skub is crudely written on the outside of this cylindrical suit.
+ent-ClothingOuterSkub = костюм скаба
+    .desc = Снаружи на этом цилиндрическом костюме коряво написано «Скаб».
 
-ent-ClothingOuterPlagueSuit = plague doctor suit
-    .desc = A bad omen.
+ent-ClothingOuterPlagueSuit = костюм чумного доктора
+    .desc = Дурное предзнаменование.
 
-ent-ClothingOuterNunRobe = nun robe
-    .desc = Maximum piety in this star system.
+ent-ClothingOuterNunRobe = одеяние монахини
+    .desc = Благочестивее в этой звёздной системе не бывает.
 
-ent-ClothingOuterGhostSheet = ghost sheet
-    .desc = Spooky!!!
+ent-ClothingOuterGhostSheet = простыня призрака
+    .desc = Жу-у-уть!!!
 
-ent-ClothingOuterHospitalGown = hospital gown
-    .desc = Made from the wool of slaughtered baby lambs.  The cruelty makes it softer.
+ent-ClothingOuterHospitalGown = больничная сорочка
+    .desc = Сделана из шерсти забитых ягнят.  От жестокости она мягче.
 
-ent-ClothingOuterFlannelRed = red flannel jacket
-    .desc = An old fashioned red flannel jacket for space autumn.
+ent-ClothingOuterFlannelRed = красная фланелевая куртка
+    .desc = Старомодная красная фланелевая куртка для космической осени.
 
-ent-ClothingOuterFlannelBlue = blue flannel jacket
-    .desc = An old fashioned blue flannel jacket for space autumn.
+ent-ClothingOuterFlannelBlue = синяя фланелевая куртка
+    .desc = Старомодная синяя фланелевая куртка для космической осени.
 
-ent-ClothingOuterFlannelGreen = green flannel jacket
-    .desc = An old fashioned green flannel jacket for space autumn.
+ent-ClothingOuterFlannelGreen = зелёная фланелевая куртка
+    .desc = Старомодная зелёная фланелевая куртка для космической осени.
 
-ent-ClothingOuterRedRacoon = red racoon suit
-    .desc = Fluffy suit of red racoon!
+ent-ClothingOuterRedRacoon = костюм красной панды
+    .desc = Пушистый костюм красной панды!

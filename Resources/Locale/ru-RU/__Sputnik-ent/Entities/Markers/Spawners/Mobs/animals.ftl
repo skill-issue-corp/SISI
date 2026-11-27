@@ -1,71 +1,71 @@
-ent-SpawnMobBee = Bee Spawner
+ent-SpawnMobBee = Спавнер Пчелы
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobButterfly = Butterfly Spawner
+ent-SpawnMobButterfly = Спавнер Бабочки
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobCatGeneric = Generic Cat Spawner
+ent-SpawnMobCatGeneric = Спавнер Обычной Кошки
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobCatKitten = Kitten Spawner
+ent-SpawnMobCatKitten = Спавнер Котёнка
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobCatSpace = Space Cat Spawner
+ent-SpawnMobCatSpace = Спавнер Космической Кошки
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobCockroach = Cockroach Spawner
+ent-SpawnMobCockroach = Спавнер Таракана
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobMoproach = Moproach Spawner
+ent-SpawnMobMoproach = Спавнер Швабротаракана
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobCow = Cow Spawner
+ent-SpawnMobCow = Спавнер Коровы
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobCrab = Crab Spawner
+ent-SpawnMobCrab = Спавнер Краба
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobFrog = Frog Spawner
+ent-SpawnMobFrog = Спавнер Лягушки
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobGoat = Goat Spawner
+ent-SpawnMobGoat = Спавнер Козы
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobGorilla = Gorilla Spawner
+ent-SpawnMobGorilla = Спавнер Гориллы
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobLizard = Lizard Spawner
+ent-SpawnMobLizard = Спавнер Ящерицы
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobMonkey = Monkey Spawner
+ent-SpawnMobMonkey = Спавнер Обезьяны
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobMouse = Mouse Spawner
+ent-SpawnMobMouse = Спавнер Мыши
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobParrot = Parrot Spawner
+ent-SpawnMobParrot = Спавнер Попугая
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobPenguin = Penguin Spawner
+ent-SpawnMobPenguin = Спавнер Пингвина
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobReindeerBuck = Reindeer Buck Spawner
+ent-SpawnMobReindeerBuck = Спавнер Самца Северного Оленя
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobReindeerDoe = Reindeer Doe Spawner
+ent-SpawnMobReindeerDoe = Спавнер Самки Северного Оленя
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobSheep = Sheep Spawner
+ent-SpawnMobSheep = Спавнер Овцы
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobSheepRainbow = Rainbow Sheep Spawner
+ent-SpawnMobSheepRainbow = Спавнер Радужной Овцы
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobSheepSpace = Space Sheep Spawner
+ent-SpawnMobSheepSpace = Спавнер Космической Овцы
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnWoolyAnimalGeneric = Wooly Animal Spawner
+ent-SpawnWoolyAnimalGeneric = Спавнер Шерстистого Животного
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobSlug = Slug Spawner
+ent-SpawnMobSlug = Спавнер Слизня
     .desc = { ent-MarkerBase.desc }

@@ -1,5 +1,5 @@
-ent-ClothingOuterArmorMonarchCoat = monarch coat
-    .desc = Straight from the wardrobe of Gorlex Entertainment's star performer, this replica of their most iconic outfit utilizes reflective technology to shrug off energy blasts, while remaining flimsy against real damage.
+ent-ClothingOuterArmorMonarchCoat = монаршее пальто
+    .desc = Реплика самого знаменитого наряда звезды «Горлекс Энтертейнмент», словно прямиком из её гардероба. Отражает энергетические выстрелы, однако плохо защищает от обычного урона.
 
-ent-ClothingOuterSuitCsij = CSIJ biosuit
-    .desc = A suit of writhing flesh that- wait no that's foam.
+ent-ClothingOuterSuitCsij = биокостюм CSIJ
+    .desc = Костюм из извивающейся плоти, которая... погодите, это поролон.

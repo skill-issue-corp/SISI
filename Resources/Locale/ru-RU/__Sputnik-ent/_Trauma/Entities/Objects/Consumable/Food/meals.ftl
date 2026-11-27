@@ -1,44 +1,44 @@
-ent-FoodSoupBingle = bingle soup
-    .desc = Somehow smells even worse now.
+ent-FoodSoupBingle = суп из бингла
+    .desc = Каким-то образом теперь пахнет ещё хуже.
 
-ent-FoodSoupBlood = blood soup
-    .desc = Popular with Russians.
+ent-FoodSoupBlood = суп из крови
+    .desc = Популярен у Русских.
 
-ent-FoodBreadSandwich = bread sandwich
-    .desc = A piece of bread, sandwiched between two pieces of bread.
+ent-FoodBreadSandwich = хлебный бутерброд
+    .desc = Кусок хлеба между двумя кусками хлеба.
 
-ent-FoodChickenParm = chicken parmesan
-    .desc = April 4th, 7:30 PM.
+ent-FoodChickenParm = курица с пармезаном
+    .desc = 4 апреля, 7:30 вечера.
 
-ent-FoodCornDog = corn dog
-    .desc = battered glizzy
+ent-FoodCornDog = корн-дог
+    .desc = сосиска в кляре
 
-ent-FoodHotDog = hot dog
-    .desc = unbattered glizzy
+ent-FoodHotDog = хот-дог
+    .desc = сосиска без кляра
 
-ent-FoodEggToast = egg toast
-    .desc = It's an egg on a toast!
+ent-FoodEggToast = тост с яйцом
+    .desc = Это яйцо на тосте!
 
-ent-FoodEggRaw = raw egg
-    .desc = It's raw!
+ent-FoodEggRaw = сырое яйцо
+    .desc = Оно сырое!
 
-ent-FoodEggFried = fried egg
-    .desc = It is safe to eat and tasty!
+ent-FoodEggFried = яичница
+    .desc = Есть можно, да ещё и вкусно!
 
-ent-FoodFairyBread = fairy bread
-    .desc = From Australia.
+ent-FoodFairyBread = сказочный хлеб
+    .desc = Из Австралии.
 
-ent-FoodGoulash = goulash
-    .desc = Traditional in Poland.
+ent-FoodGoulash = гуляш
+    .desc = Традиционное блюдо в Польше.
 
-ent-FoodOffal = offal
-    .desc = A rich dish made of organs.
+ent-FoodOffal = потроха
+    .desc = Сытное блюдо из внутренних органов.
 
-ent-FoodRoastedMonkey = roasted monkey
-    .desc = A kingly feast! It originated in Brazil!
+ent-FoodRoastedMonkey = жареная обезьяна
+    .desc = Царское угощение! Родом из Бразилии!
 
-ent-FoodSausage = sausage
-    .desc = An ancient dish, made by cooking ground meat inside of intestine.
+ent-FoodSausage = колбаса
+    .desc = Древнее блюдо из фарша, приготовленного в кишке.
 
-ent-FoodSpire = THE SPIRE
-    .desc = The tower of babel rises...
+ent-FoodSpire = ШПИЛЬ
+    .desc = Вавилонская башня растёт...

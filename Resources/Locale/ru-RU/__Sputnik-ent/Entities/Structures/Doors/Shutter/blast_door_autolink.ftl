@@ -1,55 +1,55 @@
 ent-BlastDoorExterior1 = { ent-BlastDoor }
     .desc = { ent-BlastDoor.desc }
-    .suffix = Autolink, Ext1
+    .suffix = Автосвязь, Внеш1
 
 ent-BlastDoorExterior1Open = { ent-BlastDoorOpen }
     .desc = { ent-BlastDoorOpen.desc }
-    .suffix = Open, Autolink, Ext1
+    .suffix = Открыто, Автосвязь, Внеш1
 
 ent-BlastDoorExterior2 = { ent-BlastDoor }
     .desc = { ent-BlastDoor.desc }
-    .suffix = Autolink, Ext2
+    .suffix = Автосвязь, Внеш2
 
 ent-BlastDoorExterior2Open = { ent-BlastDoorOpen }
     .desc = { ent-BlastDoorOpen.desc }
-    .suffix = Open, Autolink, Ext2
+    .suffix = Открыто, Автосвязь, Внеш2
 
 ent-BlastDoorExterior3 = { ent-BlastDoor }
     .desc = { ent-BlastDoor.desc }
-    .suffix = Autolink, Ext3
+    .suffix = Автосвязь, Внеш3
 
 ent-BlastDoorExterior3Open = { ent-BlastDoorOpen }
     .desc = { ent-BlastDoorOpen.desc }
-    .suffix = Open, Autolink, Ext3
+    .suffix = Открыто, Автосвязь, Внеш3
 
 ent-BlastDoorBridge = { ent-BlastDoor }
     .desc = { ent-BlastDoor.desc }
-    .suffix = Autolink, Bridge
+    .suffix = Автосвязь, Мостик
 
 ent-BlastDoorBridgeOpen = { ent-BlastDoorOpen }
     .desc = { ent-BlastDoorOpen.desc }
-    .suffix = Open, Autolink, Bridge
+    .suffix = Открыто, Автосвязь, Мостик
 
 ent-BlastDoorEngineering = { ent-BlastDoor }
     .desc = { ent-BlastDoor.desc }
-    .suffix = Autolink, Engineering
+    .suffix = Автосвязь, Инженерия
 
 ent-BlastDoorEngineeringOpen = { ent-BlastDoorOpen }
     .desc = { ent-BlastDoorOpen.desc }
-    .suffix = Open, Autolink, Engineering
+    .suffix = Открыто, Автосвязь, Инженерия
 
 ent-BlastDoorScience = { ent-BlastDoor }
     .desc = { ent-BlastDoor.desc }
-    .suffix = Autolink, Science
+    .suffix = Автосвязь, Наука
 
 ent-BlastDoorScienceOpen = { ent-BlastDoorOpen }
     .desc = { ent-BlastDoorOpen.desc }
-    .suffix = Open, Autolink, Science
+    .suffix = Открыто, Автосвязь, Наука
 
 ent-BlastDoorWindows = { ent-BlastDoor }
     .desc = { ent-BlastDoor.desc }
-    .suffix = Autolink, Windows
+    .suffix = Автосвязь, Окна
 
 ent-BlastDoorWindowsOpen = { ent-BlastDoorOpen }
     .desc = { ent-BlastDoorOpen.desc }
-    .suffix = Open, Autolink, Windows
+    .suffix = Открыто, Автосвязь, Окна

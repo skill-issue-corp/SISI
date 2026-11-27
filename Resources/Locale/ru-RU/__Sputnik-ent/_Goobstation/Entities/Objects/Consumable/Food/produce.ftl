@@ -1,8 +1,8 @@
-ent-Nevcotta = nevcotta log
-    .desc = When planted out of it's native habitat, it grows into an entirely different plant.
+ent-Nevcotta = бревно невкотты
+    .desc = Если посадить вне родной среды, вырастет совсем другое растение.
 
-ent-NevcottaBark = nevcotta bark
-    .desc = The bark of a Nevcotta tree.
+ent-NevcottaBark = кора невкотты
+    .desc = Кора дерева Невкотты.
 
-ent-FoodBluespaceTomato = bluespace tomato
-    .desc = Be careful with it.
+ent-FoodBluespaceTomato = блюспейс-помидор
+    .desc = Будьте с ней осторожны.

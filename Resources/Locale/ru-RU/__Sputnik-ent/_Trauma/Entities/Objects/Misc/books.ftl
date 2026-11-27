@@ -1,11 +1,11 @@
 ent-BaseBookSounds = { "" }
     .desc = { "" }
 
-ent-CodespeakManual = codespeak manual
-    .desc = The book's cover reads: "Codespeak(tm) - Secure your communication with metaphors so elaborate, they seem randomly generated!"
+ent-CodespeakManual = учебник кодоречи
+    .desc = На обложке книги написано «Кодоречь(tm) - защитите своё общение настолько вычурными метафорами, что они покажутся случайно сгенерированными!»
 
-ent-MilTechManual = bioweapon manual
-    .desc = A book that teaches the coded phrases needed to command bioweapons, losing this means anyone can command bioweapons!
+ent-MilTechManual = руководство по биооружию
+    .desc = В книге приведены кодовые фразы для управления биооружием. Потеряете книгу — и биооружием сможет управлять кто угодно!
 
-ent-DeluxeCodespeakManual = deluxe codespeak manual
+ent-DeluxeCodespeakManual = подарочный учебник кодоречи
     .desc = { ent-CodespeakManual.desc }

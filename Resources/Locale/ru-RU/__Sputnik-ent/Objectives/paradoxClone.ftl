@@ -1,8 +1,8 @@
 ent-BaseParadoxCloneObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-ParadoxCloneLivingObjective = Escape to CentComm alive and unrestrained via the escape shuttle.
-    .desc = Return to your old life.
+ent-ParadoxCloneLivingObjective = Добраться до ЦК на эвакуационном шаттле живым и без пут.
+    .desc = Вернитесь к прежней жизни.
 
-ent-ParadoxCloneKillObjective = Fix the space-time paradox.
-    .desc = Replace your original to fix the paradox. Remember, your mission is to blend in, do not kill anyone else unless you have to!
+ent-ParadoxCloneKillObjective = Устранить пространственно-временной парадокс.
+    .desc = Займите место оригинала, чтобы устранить парадокс. Помните, ваша задача - не вызвать подозрений. Убивайте других только в случае необходимости!

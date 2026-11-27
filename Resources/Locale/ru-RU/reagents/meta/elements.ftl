@@ -12,68 +12,68 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-aluminium = aluminium
-reagent-desc-aluminium = A silver, soft, non-magnetic, and ductile metal.
+reagent-name-aluminium = алюминий
+reagent-desc-aluminium = Серебристый, мягкий, немагнитный и пластичный металл.
 
-reagent-name-ash = ash
-reagent-desc-ash = A light grey powdery residue
+reagent-name-ash = пепел
+reagent-desc-ash = Светло-серый порошкообразный остаток
 
-reagent-name-carbon = carbon
-reagent-desc-carbon = A black, crystalline solid.
+reagent-name-carbon = углерод
+reagent-desc-carbon = Чёрное кристаллическое твёрдое вещество.
 
-reagent-name-charcoal = charcoal
-reagent-desc-charcoal = A black, porous solid
+reagent-name-charcoal = древесный уголь
+reagent-desc-charcoal = Чёрное пористое твёрдое вещество
 
-reagent-name-chlorine = chlorine
-reagent-desc-chlorine = A yellow-green gas which is toxic to humans.
+reagent-name-chlorine = хлор
+reagent-desc-chlorine = Жёлто-зелёный газ, токсичный для человека.
 
-reagent-name-copper = copper
-reagent-desc-copper = A soft, malleable, and ductile metal with very high thermal and electrical conductivity.
+reagent-name-copper = медь
+reagent-desc-copper = Мягкий, ковкий и пластичный металл с очень высокой тепло- и электропроводностью.
 
-reagent-name-fluorine = fluorine
-reagent-desc-fluorine = A highly toxic pale yellow gas. Extremely reactive.
+reagent-name-fluorine = фтор
+reagent-desc-fluorine = Высокотоксичный бледно-жёлтый газ. Чрезвычайно реакционноспособен.
 
-reagent-name-gold = gold
-reagent-desc-gold = Gold is a dense, soft, shiny metal and the most malleable and ductile metal known.
+reagent-name-gold = золото
+reagent-desc-gold = Плотный, мягкий и блестящий металл. Самый ковкий и пластичный из известных металлов.
 
-reagent-name-hydrogen = hydrogen
-reagent-desc-hydrogen = A light, flammable gas.
+reagent-name-hydrogen = водород
+reagent-desc-hydrogen = Лёгкий горючий газ.
 
-reagent-name-iodine = iodine
-reagent-desc-iodine = Commonly added to table salt as a nutrient. On its own it tastes far less pleasing.
+reagent-name-iodine = йод
+reagent-desc-iodine = Часто добавляется в поваренную соль как питательный элемент. Сам по себе куда менее приятен на вкус.
 
-reagent-name-iron = iron
-reagent-desc-iron = A silvery-grey metal which forms iron oxides (rust) with contact with air. Commonly alloyed with other elements to create alloys such as steel.
+reagent-name-iron = железо
+reagent-desc-iron = Серебристо-серый металл, который при контакте с воздухом образует оксиды железа (ржавчину). Его часто соединяют с другими элементами, чтобы получить сплавы вроде стали.
 
-reagent-name-lithium = lithium
-reagent-desc-lithium = A soft, silvery-white alkali metal. It's highly reactive, and ignites if it makes contact with water.
+reagent-name-lithium = литий
+reagent-desc-lithium = Мягкий серебристо-белый щелочной металл. Очень реакционноспособен и воспламеняется при контакте с водой.
 
-reagent-name-mercury = mercury
-reagent-desc-mercury = A silver metal which is liquid at room temperature. It's highly toxic to humans.
+reagent-name-mercury = ртуть
+reagent-desc-mercury = Серебристый металл, жидкий при комнатной температуре. Крайне токсична для человека.
 
-reagent-name-potassium = potassium
-reagent-desc-potassium = A soft, shiny grey metal. Even more reactive than lithium.
+reagent-name-potassium = калий
+reagent-desc-potassium = Мягкий блестящий серый металл. Ещё более реакционноспособен, чем литий.
 
-reagent-name-phosphorus = phosphorus
-reagent-desc-phosphorus = A reactive metal used in pyrotechnics and weapons.
+reagent-name-phosphorus = фосфор
+reagent-desc-phosphorus = Реакционноспособное вещество, применяемое в пиротехнике и вооружении.
 
-reagent-name-radium = radium
-reagent-desc-radium = A radioactive metal, silvery-white in its pure form. It glows due to its radioactivity and is highly toxic.
+reagent-name-radium = радий
+reagent-desc-radium = Радиоактивный металл, в чистом виде серебристо-белый. Светится из-за радиоактивности и крайне токсичен.
 
-reagent-name-silicon = silicon
-reagent-desc-silicon = A hard and brittle crystalline solid with a blue-grey color.
+reagent-name-silicon = кремний
+reagent-desc-silicon = Твёрдое и хрупкое кристаллическое вещество синевато-серого цвета.
 
-reagent-name-silver = silver
-reagent-desc-silver = A soft, white, lustrous transition metal, it has the highest electrical conductivity of any element and the highest thermal conductivity of any metal.
+reagent-name-silver = серебро
+reagent-desc-silver = Мягкий, белый и блестящий переходный металл. Обладает наибольшей электропроводностью среди всех элементов и наибольшей теплопроводностью среди металлов.
 
-reagent-name-sulfur = sulfur
-reagent-desc-sulfur = A yellow, crystalline solid.
+reagent-name-sulfur = сера
+reagent-desc-sulfur = Жёлтое кристаллическое твёрдое вещество.
 
-reagent-name-sodium = sodium
-reagent-desc-sodium = A silvery-white alkali metal. Highly reactive in its pure form.
+reagent-name-sodium = натрий
+reagent-desc-sodium = Серебристо-белый щелочной металл. В чистом виде очень реакционноспособен.
 
-reagent-name-uranium = uranium
-reagent-desc-uranium = A grey metallic chemical element in the actinide series, weakly radioactive.
+reagent-name-uranium = уран
+reagent-desc-uranium = Серый металлический элемент из группы актиноидов. Слабо радиоактивен.
 
-reagent-name-zinc = zinc
-reagent-desc-zinc = A silvery, brittle metal, often used in batteries to carry charge.
+reagent-name-zinc = цинк
+reagent-desc-zinc = Серебристый хрупкий металл. Часто служит переносчиком заряда в батареях.

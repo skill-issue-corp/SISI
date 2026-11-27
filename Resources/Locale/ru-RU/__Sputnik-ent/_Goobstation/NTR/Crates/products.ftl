@@ -1,23 +1,23 @@
-ent-NTRCrateSpesosSmall = Spesos grant bonus
-    .desc = Tough times require capitalist solutions.
+ent-NTRCrateSpesosSmall = Грантовая выплата в спесо
+    .desc = Трудные времена требуют капиталистических решений.
 
-ent-NTRCratePointDisks = Point disks grant bonus
-    .desc = Progress, my friend, progress.
+ent-NTRCratePointDisks = Грантовая выплата дисками с очками исследований
+    .desc = Прогресс, друг мой, прогресс.
 
-ent-NTRCrateEmergencyMed = Emergency medical supplies
-    .desc = Think about how would you explain this to NT.
+ent-NTRCrateEmergencyMed = Экстренные медицинские припасы
+    .desc = Подумайте, как будете объясняться перед NT.
 
-ent-NTRCrateDisablers = Disablers crate
-    .desc = A crate with disablers, why would you need this?
+ent-NTRCrateDisablers = Ящик с дизейблерами
+    .desc = Ящик с дизейблерами. И зачем он вам?
 
-ent-NTRCrateToolsSmall = Tools crate
-    .desc = A crate with standard NanoTrasen tools.
+ent-NTRCrateToolsSmall = Ящик с инструментами
+    .desc = Ящик со стандартными инструментами NanoTrasen.
 
-ent-NTRBoardTelecom = Telecom server computer board crate
-    .desc = A crate, containing 2 telecom server machine boards.
+ent-NTRBoardTelecom = Ящик с платами телекоммуникационного сервера
+    .desc = В ящике 2 машинные платы телекоммуникационного сервера.
 
-ent-NTRBoardHolopad = Holopad crate
-    .desc = A crate, that contains 2 holopad machine boards.
+ent-NTRBoardHolopad = Ящик с голопадами
+    .desc = В ящике 2 машинные платы голопада.
 
-ent-NTRBoardShuttle = Shuttle-maker bundle crate
+ent-NTRBoardShuttle = Ящик с набором для шаттлостроения
     .desc = { ent-CrateEngineeringSecure.desc }

@@ -1,62 +1,62 @@
-ent-BaseFish = fish
-    .desc = Water-born creature from the infinite sea... Or toilet.
+ent-BaseFish = рыба
+    .desc = Водоплавающее создание из бескрайнего моря... Или унитаза.
 
-ent-BaseFishRare = rare fish
+ent-BaseFishRare = редкая рыба
     .desc = { ent-BaseFish.desc }
 
-ent-FishAlien = alien fish
-    .desc = Looks pretty... Abductory.
+ent-FishAlien = рыба-пришелец
+    .desc = Выглядит довольно... Абдукторно.
 
-ent-FishAngler = angler fish
-    .desc = Scariest thing in existence, after bingles.
+ent-FishAngler = рыба-удильщик
+    .desc = Самое страшное существо на свете после бинглов.
 
-ent-FishBass = bass fish
-    .desc = Probably the most normal fish in existence. Unless you use it as bass guitar.
+ent-FishBass = рыба-окунь
+    .desc = Наверное, самая обычная рыба на свете. А если взять её вместо бас-гитары, получится бас-окунь.
 
-ent-FishBingle = bingle fish
-    .desc = bingle
+ent-FishBingle = рыба-бингл
+    .desc = бингл
 
-ent-FishBlob = blob fish
-    .desc = Unfortuantly, this is not a 5th level bio-hazard threat.
+ent-FishBlob = рыба-блоб
+    .desc = К сожалению, это не биологическая угроза 5-го уровня.
 
-ent-FishBlueFintuna = blue fintuna
-    .desc = It's looking straight to you...
+ent-FishBlueFintuna = синепёрый тунец
+    .desc = Он смотрит прямо на вас...
 
-ent-FishBoyFisher = boy fisher
-    .desc = You like kissing kois, don't you?
+ent-FishBoyFisher = рыба-рыбак
+    .desc = Любишь целовать карпов кои, да?
 
-ent-FishCat = cat fish
-    .desc = Ironically this looks nothing like a cat. And it doesn't meow.
+ent-FishCat = рыба-кот
+    .desc = По иронии судьбы, совсем не похожа на кошку. И не мяукает.
 
-ent-FishTropicalClown = clown clown fish
-    .desc = That is almost certanly some kind of joke.
+ent-FishTropicalClown = клоунская рыба-клоун
+    .desc = Почти наверняка это какая-то шутка.
 
-ent-FishNukeDisk = nuke disk fish
-    .desc = Erm, Actually, it's a bad idea trying to fit a fish inside a nuclear explosion device.
+ent-FishNukeDisk = рыба-ядерный диск
+    .desc = Эм, Вообще-то, пытаться засунуть рыбу в ядерную бомбу - плохая идея.
 
-ent-FishGib = gib stick fish
-    .desc = My face when i open a present and get gibstick:
+ent-FishGib = рыба-палка гиба
+    .desc = Моё лицо, когда я вскрываю подарок, а там палка гиба:
 
-ent-FishMutant = mutant fish
-    .desc = Anomalous fish that looks like it ate some nuclear waste.
+ent-FishMutant = рыба-мутант
+    .desc = Аномальная рыба, словно наелась ядерных отходов.
 
-ent-FishNuker = nuclear operative fish
-    .desc = Predator of the nuke disk fish.
+ent-FishNuker = рыба - ядерный оперативник
+    .desc = Охотится на рыбу - ядерный диск.
 
-ent-FishPuffer = puffer fish
-    .desc = It is poisonous... in many ways.
+ent-FishPuffer = рыба-иглобрюх
+    .desc = Она ядовита... во многих отношениях.
 
-ent-FishSilver = silver fish
-    .desc = Actually contains silver.
+ent-FishSilver = серебряная рыба
+    .desc = Действительно содержит серебро.
 
-ent-FishTropicalSun = tropical sun fish
-    .desc = It probably looked at the sun for too long...?
+ent-FishTropicalSun = тропическая рыба-солнце
+    .desc = Наверное, она слишком долго смотрела на солнце...?
 
-ent-FishToxic = toxic waste fish
-    .desc = Looking at this fish, you understand how much it was a bad idea to allow nuclear waste to be dumped into rivers.
+ent-FishToxic = рыба из токсичных отходов
+    .desc = Глядя на эту рыбу, понимаешь, какой плохой идеей было разрешить сбрасывать ядерные отходы в реки.
 
-ent-FishTropical = clown fish
-    .desc = This fish is always searching for something... Or maybe someone?
+ent-FishTropical = рыба-клоун
+    .desc = Эта рыба вечно что-то ищет... Или кого-то?
 
-ent-FishIan = ian fish
-    .desc = Water-born ian from the sea.
+ent-FishIan = рыба-иан
+    .desc = Иан, рождённый в морских водах.

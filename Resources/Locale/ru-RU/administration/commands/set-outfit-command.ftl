@@ -8,7 +8,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-setoutfit-desc = Sets the outfit of the specified entity. The entity must have {INDEFINITE($requiredComponent)} {$requiredComponent}
-cmd-setoutfit-help = Usage: setoutfit <entityUid> | setoutfit <entityUid> <outfitId>
-cmd-setoutfit-is-not-player-error = This command requires both arguments to work from the server console.
-cmd-setoutfit-invalid-outfit-id-error = Invalid outfit id.
+cmd-setoutfit-desc = Меняет экипировку указанной сущности. У сущности должен быть компонент {$requiredComponent}
+cmd-setoutfit-help = Использование: setoutfit <entityUid> | setoutfit <entityUid> <outfitId>
+cmd-setoutfit-is-not-player-error = Для вызова этой команды из консоли сервера нужны оба аргумента.
+cmd-setoutfit-invalid-outfit-id-error = Недопустимый id комплекта экипировки.

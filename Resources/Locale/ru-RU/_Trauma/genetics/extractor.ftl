@@ -1,8 +1,8 @@
 genome-extractor-examine = {$empty ->
-    [true] It is empty and ready to use.
-    *[other] It has a genome stored inside.
+    [true] Пуст и готов к применению.
+    *[other] Внутри хранится геном.
 }
 
-genome-extractor-fail-full = {CAPITALIZE(THE($item))} {$item} is already filled with genetic material!
-genome-extractor-fail-dead = {CAPITALIZE($target)} is dead!
-genome-extractor-fail-genetic = {CAPITALIZE(POSS-ADJ($target))} genes are damaged!
+genome-extractor-fail-full = {CAPITALIZE($item)} {$item} уже заполнен генетическим материалом!
+genome-extractor-fail-dead = {CAPITALIZE($target)} мёртв!
+genome-extractor-fail-genetic = Гены {CAPITALIZE(POSS-ADJ($target))} повреждены!

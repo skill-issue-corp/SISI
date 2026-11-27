@@ -1,2 +1,2 @@
-ent-FoodKebabSkewer = skewer
-    .desc = A thin rod of metal used to skewer just about anything and cook it.
+ent-FoodKebabSkewer = шампур
+    .desc = Тонкий металлический прут, на который можно нанизать почти что угодно и приготовить.

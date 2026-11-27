@@ -1,149 +1,149 @@
-ent-BaseComputerCircuitboard = computer board
+ent-BaseComputerCircuitboard = консольная плата
     .desc = { ent-BaseItem.desc }
 
-ent-AlertsComputerCircuitboard = atmospheric alerts computer board
-    .desc = A computer printed circuit board for an atmospheric alerts computer.
+ent-AlertsComputerCircuitboard = плата консоли атмосферной сигнализации
+    .desc = Печатная плата для консоли атмосферной сигнализации.
 
-ent-AtmosMonitoringComputerCircuitboard = atmospheric network monitor board
-    .desc = A computer printed circuit board for an atmospheric network monitor.
+ent-AtmosMonitoringComputerCircuitboard = плата мониторинга атмосферной сети
+    .desc = Печатная плата для мониторинга атмосферной сети.
 
-ent-PowerComputerCircuitboard = power monitoring computer board
-    .desc = A computer printed circuit board for a power monitoring computer.
+ent-PowerComputerCircuitboard = плата консоли мониторинга питания
+    .desc = Печатная плата для консоли мониторинга питания.
 
-ent-MedicalRecordsComputerCircuitboard = medical records computer board
-    .desc = A computer printed circuit board for a medical records computer.
+ent-MedicalRecordsComputerCircuitboard = плата консоли медицинских записей
+    .desc = Печатная плата для консоли медицинских записей.
 
-ent-CriminalRecordsComputerCircuitboard = criminal records computer board
-    .desc = A computer printed circuit board for a criminal records computer.
+ent-CriminalRecordsComputerCircuitboard = плата консоли криминальных записей
+    .desc = Печатная плата для консоли криминальных записей.
 
-ent-StationRecordsComputerCircuitboard = station records computer board
-    .desc = A computer printed circuit board for a station records computer.
+ent-StationRecordsComputerCircuitboard = плата консоли станционных записей
+    .desc = Печатная плата для консоли станционных записей.
 
-ent-CargoRequestComputerCircuitboard = cargo request computer board
-    .desc = A computer printed circuit board for a cargo request computer.
+ent-CargoRequestComputerCircuitboard = плата консоли запросов карго
+    .desc = Печатная плата для консоли запросов карго.
 
-ent-CargoRequestEngineeringComputerCircuitboard = engineering request computer board
-    .desc = A computer printed circuit board for an engineering request computer.
+ent-CargoRequestEngineeringComputerCircuitboard = плата консоли запросов инженерного отдела
+    .desc = Печатная плата для консоли запросов инженерного отдела.
 
-ent-CargoRequestMedicalComputerCircuitboard = medical request computer board
-    .desc = A computer printed circuit board for a medical request computer.
+ent-CargoRequestMedicalComputerCircuitboard = плата консоли запросов медотсека
+    .desc = Печатная плата для консоли запросов медотсека.
 
-ent-CargoRequestScienceComputerCircuitboard = science request computer board
-    .desc = A computer printed circuit board for a science request computer.
+ent-CargoRequestScienceComputerCircuitboard = плата консоли запросов научного отдела
+    .desc = Печатная плата для консоли запросов научного отдела.
 
-ent-CargoRequestSecurityComputerCircuitboard = security request computer board
-    .desc = A computer printed circuit board for a security request computer.
+ent-CargoRequestSecurityComputerCircuitboard = плата консоли запросов службы безопасности
+    .desc = Печатная плата для консоли запросов службы безопасности.
 
-ent-CargoRequestServiceComputerCircuitboard = service request computer board
-    .desc = A computer printed circuit board for a service request computer.
+ent-CargoRequestServiceComputerCircuitboard = плата консоли запросов сервиса
+    .desc = Печатная плата для консоли запросов сервиса.
 
-ent-FundingAllocationComputerCircuitboard = funding allocation computer board
-    .desc = A computer printed circuit board for a funding allocation card console.
+ent-FundingAllocationComputerCircuitboard = плата консоли распределения финансирования
+    .desc = Печатная плата для консоли карт распределения финансирования.
 
-ent-CargoSaleComputerCircuitboard = cargo sale computer board
-    .desc = A computer printed circuit board for a cargo sale computer.
+ent-CargoSaleComputerCircuitboard = плата консоли продаж карго
+    .desc = Печатная плата для консоли продаж карго.
 
-ent-CargoBountyComputerCircuitboard = cargo bounty computer board
-    .desc = A computer printed circuit board for a cargo bounty computer.
+ent-CargoBountyComputerCircuitboard = плата консоли заказов карго
+    .desc = Печатная плата для консоли заказов карго.
 
-ent-SalvageJobBoardComputerCircuitboard = salvage job board computer board
-    .desc = A computer printed circuit board for a salvage job board computer.
+ent-SalvageJobBoardComputerCircuitboard = плата консоли доски заданий утилизаторов
+    .desc = Печатная плата для консоли доски заданий утилизаторов.
 
-ent-SalvageExpeditionsComputerCircuitboard = salvage expeditions computer board
-    .desc = A computer printed circuit board for a salvage expeditions computer.
+ent-SalvageExpeditionsComputerCircuitboard = плата консоли экспедиций утилизаторов
+    .desc = Печатная плата для консоли экспедиций утилизаторов.
 
-ent-CargoShuttleConsoleCircuitboard = cargo shuttle console board
-    .desc = A computer printed circuit board for a cargo shuttle console.
+ent-CargoShuttleConsoleCircuitboard = плата консоли грузового шаттла
+    .desc = Печатная плата для консоли грузового шаттла.
 
-ent-SurveillanceCameraMonitorCircuitboard = surveillance camera monitor board
-    .desc = A computer printed circuit board for a surveillance camera monitor.
+ent-SurveillanceCameraMonitorCircuitboard = плата монитора камер наблюдения
+    .desc = Печатная плата для монитора камер наблюдения.
 
-ent-SurveillanceWirelessCameraMonitorCircuitboard = surveillance wireless camera monitor board
-    .desc = A computer printed circuit board for a surveillance wireless camera monitor.
+ent-SurveillanceWirelessCameraMonitorCircuitboard = плата монитора беспроводных камер наблюдения
+    .desc = Печатная плата для монитора беспроводных камер наблюдения.
 
-ent-XenoborgCameraMonitorCircuitboard = xenoborg camera monitor board
-    .desc = A computer printed circuit board for a xenoborg camera monitor.
+ent-XenoborgCameraMonitorCircuitboard = плата монитора камер ксеноборгов
+    .desc = Печатная плата для монитора камер ксеноборгов.
 
-ent-ComputerTelevisionCircuitboard = television board
-    .desc = A computer printed circuit board for a television.
+ent-ComputerTelevisionCircuitboard = плата телевизора
+    .desc = Печатная плата для телевизора.
 
-ent-ResearchComputerCircuitboard = R&D computer board
-    .desc = A computer printed circuit board for a R&D console.
+ent-ResearchComputerCircuitboard = плата консоли НиО
+    .desc = Печатная плата для консоли НиО.
 
-ent-AnalysisComputerCircuitboard = analysis computer board
-    .desc = A computer printed circuit board for an analysis console.
+ent-AnalysisComputerCircuitboard = плата консоли анализа
+    .desc = Печатная плата для консоли анализа.
 
-ent-TechDiskComputerCircuitboard = tech disk terminal board
-    .desc = A computer printed circuit board for a technology disk terminal.
+ent-TechDiskComputerCircuitboard = плата терминала дисков технологий
+    .desc = Печатная плата для терминала дисков технологий.
 
-ent-CrewMonitoringComputerCircuitboard = crew monitoring computer board
-    .desc = A computer printed circuit board for a crew monitoring console.
+ent-CrewMonitoringComputerCircuitboard = плата консоли мониторинга экипажа
+    .desc = Печатная плата для консоли мониторинга экипажа.
 
-ent-IDComputerCircuitboard = ID card computer board
-    .desc = A computer printed circuit board for an ID card console.
+ent-IDComputerCircuitboard = плата консоли ID-карт
+    .desc = Печатная плата для консоли ID-карт.
 
-ent-BodyScannerComputerCircuitboard = body scanner computer board
-    .desc = A computer printed circuit board for a body scanner console.
+ent-BodyScannerComputerCircuitboard = плата консоли сканера тела
+    .desc = Печатная плата для консоли сканера тела.
 
-ent-CommsComputerCircuitboard = communications computer board
-    .desc = A computer printed circuit board for a communications console.
+ent-CommsComputerCircuitboard = плата консоли связи
+    .desc = Печатная плата для консоли связи.
 
-ent-SyndicateCommsComputerCircuitboard = syndicate communications computer board
-    .desc = A computer printed circuit board for a syndicate communications console.
+ent-SyndicateCommsComputerCircuitboard = плата консоли связи синдиката
+    .desc = Печатная плата для консоли связи синдиката.
 
-ent-CentcommCommsComputerCircuitboard = central command communications computer board
-    .desc = A computer printed circuit board for a central command communications console.
+ent-CentcommCommsComputerCircuitboard = плата консоли связи центрального командования
+    .desc = Печатная плата для консоли связи центрального командования.
 
-ent-RadarConsoleCircuitboard = mass scanner computer board
+ent-RadarConsoleCircuitboard = плата консоли сканера массы
     .desc = { ent-BaseComputerCircuitboard.desc }
 
-ent-SolarControlComputerCircuitboard = solar control computer board
-    .desc = A computer printed circuit board for a solar control console.
+ent-SolarControlComputerCircuitboard = плата консоли управления солнечными панелями
+    .desc = Печатная плата для консоли управления солнечными панелями.
 
-ent-SpaceVillainArcadeComputerCircuitboard = space villain arcade board
-    .desc = A computer printed circuit board for a space villain arcade cabinet.
+ent-SpaceVillainArcadeComputerCircuitboard = плата игрового автомата «космический злодей»
+    .desc = Печатная плата для игрового автомата «космический злодей».
 
-ent-BlockGameArcadeComputerCircuitboard = block game arcade board
-    .desc = A computer printed circuit board for a block game arcade cabinet.
+ent-BlockGameArcadeComputerCircuitboard = плата игрового автомата с блоками
+    .desc = Печатная плата для игрового автомата с блоками.
 
-ent-ParticleAcceleratorComputerCircuitboard = PA control box computer board
-    .desc = A computer printed circuit board for a particle accelerator control box.
+ent-ParticleAcceleratorComputerCircuitboard = плата блока управления УЧ
+    .desc = Печатная плата для блока управления ускорителем частиц.
 
-ent-ShuttleConsoleCircuitboard = shuttle console board
-    .desc = A computer printed circuit board for a shuttle console.
+ent-ShuttleConsoleCircuitboard = плата консоли шаттла
+    .desc = Печатная плата для консоли шаттла.
 
-ent-SyndicateShuttleConsoleCircuitboard = syndicate shuttle console board
-    .desc = A computer printed circuit board for a syndicate shuttle console.
+ent-SyndicateShuttleConsoleCircuitboard = плата консоли шаттла синдиката
+    .desc = Печатная плата для консоли шаттла синдиката.
 
-ent-CloningConsoleComputerCircuitboard = cloning console computer board
-    .desc = A computer printed circuit board for a cloning console.
+ent-CloningConsoleComputerCircuitboard = плата консоли клонирования
+    .desc = Печатная плата для консоли клонирования.
 
-ent-ComputerIFFCircuitboard = IFF console board
-    .desc = Allows you to control the IFF characteristics of this vessel.
+ent-ComputerIFFCircuitboard = плата консоли системы опознавания
+    .desc = Позволяет управлять параметрами системы опознавания этого судна.
 
-ent-ComputerIFFSyndicateCircuitboard = syndicate IFF console board
-    .desc = Allows you to control the IFF and stealth characteristics of this vessel.
+ent-ComputerIFFSyndicateCircuitboard = плата консоли системы опознавания синдиката
+    .desc = Позволяет управлять параметрами системы опознавания и маскировки этого судна.
 
-ent-ComputerMassMediaCircuitboard = news manager console board
-    .desc = Write your message to the world!
+ent-ComputerMassMediaCircuitboard = плата консоли новостей
+    .desc = Напишите послание миру!
 
-ent-SensorConsoleCircuitboard = sensor monitoring console board
-    .desc = A computer printed circuit board for a sensor monitoring console.
+ent-SensorConsoleCircuitboard = плата консоли мониторинга датчиков
+    .desc = Печатная плата для консоли мониторинга датчиков.
 
-ent-RoboticsConsoleCircuitboard = robotics control console board
-    .desc = A computer printed circuit board for a robotics control console.
+ent-RoboticsConsoleCircuitboard = плата консоли управления робототехникой
+    .desc = Печатная плата для консоли управления робототехникой.
 
-ent-ComputerXenoborgsControlCircuitboard = xenoborg control console board
-    .desc = A computer printed circuit board for a xenoborg control console.
+ent-ComputerXenoborgsControlCircuitboard = плата консоли управления ксеноборгами
+    .desc = Печатная плата для консоли управления ксеноборгами.
 
-ent-StationAiUploadCircuitboard = AI upload console board
-    .desc = A computer printed circuit board for an AI upload console.
+ent-StationAiUploadCircuitboard = плата консоли загрузки ИИ
+    .desc = Печатная плата для консоли загрузки ИИ.
 
-ent-StationTeleportersControlCircuitboard = teleporters control console board
-    .desc = A computer printed circuit board for a teleporter control console.
+ent-StationTeleportersControlCircuitboard = плата консоли управления телепортами
+    .desc = Печатная плата для консоли управления телепортами.
 
-ent-SyndicateTeleportersControlCircuitboard = syndicate teleporters control console board
-    .desc = A computer printed circuit board for a teleporter control console.
+ent-SyndicateTeleportersControlCircuitboard = плата консоли управления телепортами синдиката
+    .desc = Печатная плата для консоли управления телепортами.
 
-ent-StationAiFixerCircuitboard = AI restoration console board
-    .desc = A computer printed circuit board for an AI restoration console console.
+ent-StationAiFixerCircuitboard = плата консоли восстановления ИИ
+    .desc = Печатная плата для консоли восстановления ИИ.

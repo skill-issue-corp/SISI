@@ -1,14 +1,14 @@
-ent-MobGuardianBase = GuardianBase
-    .desc = guardian
+ent-MobGuardianBase = ЗащитникБазовый
+    .desc = защитник
 
-ent-MobHoloparasiteGuardian = Holoparasite
-    .desc = A mesmerising whirl of hard-light patterns weaves a marvelous, yet oddly familiar visage. It stands proud, tuning into its owner's life to sustain itself.
+ent-MobHoloparasiteGuardian = Голопаразит
+    .desc = Завораживающий вихрь узоров из твёрдого света сплетает чудесный и до странного знакомый облик. Голопаразит стоит гордо и подпитывается жизненной силой своего носителя.
 
-ent-MobIfritGuardian = Ifrit
-    .desc = A corrupted jinn, ripped from fitra to serve the wizard's petty needs. It stands wicked, tuning into its owner's life to sustain itself.
+ent-MobIfritGuardian = Ифрит
+    .desc = Искажённый джинн, оторванный от своей фитры, чтобы служить мелочным прихотям мага. Он излучает злобу и подпитывается жизненной силой своего носителя.
 
-ent-MobHoloClownGuardian = HoloClown
-    .desc = A mesmerising whirl of hard-light patterns weaves a blue colored clown of dubious origin.
+ent-MobHoloClownGuardian = ГолоКлоун
+    .desc = Завораживающий вихрь узоров из твёрдого света сплетает синего клоуна сомнительного происхождения.
 
-ent-ActionToggleGuardian = Toggle Guardian
-    .desc = Either manifests the guardian or recalls it back into your body
+ent-ActionToggleGuardian = Вызвать или Отозвать Защитника
+    .desc = Вызывает защитника наружу или отзывает его обратно в ваше тело

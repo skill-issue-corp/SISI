@@ -1,18 +1,18 @@
-ent-FishingRod = fishing rod
-    .desc = It's time to go fishing!
+ent-FishingRod = удочка
+    .desc = Пора на рыбалку!
 
-ent-FishingRodGoon = fishing rod
-    .desc = It's time to go fishing!
-    .suffix = Goon
+ent-FishingRodGoon = удочка
+    .desc = Пора на рыбалку!
+    .suffix = Гун
 
-ent-FishingRodMakeshift = makeshift fishing rod
-    .desc = Probably would be hard to catch a fish using that.
+ent-FishingRodMakeshift = самодельная удочка
+    .desc = Наверное, такой рыбу поймать будет сложно.
 
-ent-FishingRodGolden = golden fishing rod
-    .desc = Finally, you caught 250 fishes. Here's your trophey.
+ent-FishingRodGolden = золотая удочка
+    .desc = Наконец-то вы поймали 250 рыб. Вот ваш трофей.
 
-ent-FishingLure = fishing lure
-    .desc = fish come here
+ent-FishingLure = рыболовная приманка
+    .desc = рыбка иди сюда
 
-ent-FishingLureMakeshift = fishing lure
-    .desc = fish come here
+ent-FishingLureMakeshift = рыболовная приманка
+    .desc = рыбка иди сюда

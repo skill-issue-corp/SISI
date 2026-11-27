@@ -1,5 +1,5 @@
-ent-PolymerBaton = polymer baton
-    .desc = A lightweight, durable baton made from advanced polymers. Delivers less-than-lethal force for compliance and control.
+ent-PolymerBaton = полимерная дубинка
+    .desc = Лёгкая прочная дубинка из передовых полимеров. Позволяет применять несмертельную силу для усмирения и контроля.
 
-ent-SpearTelescopic = telescopic spear
-    .desc = A compact, throwable spear with a retractable shaft. Designed for both melee and ranged use.
+ent-SpearTelescopic = телескопическое копьё
+    .desc = Компактное метательное копьё с выдвижным древком. Подходит и для ближнего, и для дальнего боя.

@@ -1,5 +1,5 @@
-ent-BaseSpaceCash = spesos
-    .desc = You gotta have money.
+ent-BaseSpaceCash = спесо
+    .desc = Деньги нужны всем.
 
 ent-SpaceCash10 = { ent-SpaceCash }
     .desc = { ent-SpaceCash.desc }

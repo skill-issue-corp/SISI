@@ -7,17 +7,17 @@
 ### Localization used for the invoke verb command.
 # Mostly help + error messages.
 
-invoke-verb-command-description = Invokes a verb with the given name on an entity, with the player entity
+invoke-verb-command-description = Выполняет указанное действие на целевой сущности от лица сущности игрока
 invoke-verb-command-help = invokeverb <playerUid | "self"> <targetUid> <verbName | "interaction" | "activation" | "alternative">
 
-invoke-verb-command-invalid-args = invokeverb takes 2 arguments.
+invoke-verb-command-invalid-args = Команда invokeverb принимает 2 аргумента.
 
-invoke-verb-command-invalid-player-uid = Player uid could not be parsed, or "self" was not passed.
-invoke-verb-command-invalid-target-uid = Target uid could not be parsed.
+invoke-verb-command-invalid-player-uid = Не удалось распознать uid игрока или не указано "self".
+invoke-verb-command-invalid-target-uid = Не удалось распознать uid цели.
 
-invoke-verb-command-invalid-player-entity = Player uid given does not correspond to a valid entity.
-invoke-verb-command-invalid-target-entity = Target uid given does not correspond to a valid entity.
+invoke-verb-command-invalid-player-entity = Указанный uid игрока не соответствует действительной сущности.
+invoke-verb-command-invalid-target-entity = Указанный uid цели не соответствует действительной сущности.
 
-invoke-verb-command-success = Invoked verb '{ $verb }' on { $target } with { $player } as the user.
+invoke-verb-command-success = Выполнено действие «{ $verb }» над { $target } от лица { $player }.
 
-invoke-verb-command-verb-not-found = Could not find verb { $verb } on { $target }.
+invoke-verb-command-verb-not-found = У { $target } не найдено действие { $verb }.

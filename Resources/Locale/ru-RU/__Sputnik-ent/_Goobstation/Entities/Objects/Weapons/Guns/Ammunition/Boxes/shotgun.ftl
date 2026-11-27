@@ -1,32 +1,32 @@
 ent-BaseMagazineBoxShotgunHighCaliber = { ent-AmmoProviderShotgunShell }
     .desc = { ent-AmmoProviderShotgunShell.desc }
 
-ent-MagazineBoxShotgunHighCaliber = shell box (8 Gauge carpshot)
+ent-MagazineBoxShotgunHighCaliber = коробка патронов (8 Калибр карпокартечь)
     .desc = { ent-BaseMagazineBoxShotgunHighCaliber.desc }
 
-ent-MagazineBoxShotgunSlugHighCaliber = shell box (8 Gauge slug)
+ent-MagazineBoxShotgunSlugHighCaliber = коробка патронов (8 Калибр пуля)
     .desc = { ent-BaseMagazineBoxShotgunHighCaliber.desc }
 
-ent-MagazineBoxShotgunIncendiaryHighCaliber = shell box (8 Gauge incendiary)
+ent-MagazineBoxShotgunIncendiaryHighCaliber = коробка патронов (8 Калибр зажигательные)
     .desc = { ent-BaseMagazineBoxShotgunHighCaliber.desc }
 
-ent-MagazineBoxShotgunUraniumHighCaliber = shell box (8 Gauge uranium)
+ent-MagazineBoxShotgunUraniumHighCaliber = коробка патронов (8 Калибр урановые)
     .desc = { ent-BaseMagazineBoxShotgunHighCaliber.desc }
 
-ent-MagazineBoxShotgunBeanbagHighCaliber = shell box (8 Gauge beanbag)
+ent-MagazineBoxShotgunBeanbagHighCaliber = коробка патронов (8 Калибр травматические)
     .desc = { ent-BaseMagazineBoxShotgunHighCaliber.desc }
 
-ent-MagazineBoxShotgunPracticeHighCaliber = shell box (8 Gauge practice)
+ent-MagazineBoxShotgunPracticeHighCaliber = коробка патронов (8 Калибр учебные)
     .desc = { ent-BaseMagazineBoxShotgunHighCaliber.desc }
 
-ent-MagazineBoxShotgunHighCaliberEnsnaring = shell box (8 Gauge slug ensnaring)
+ent-MagazineBoxShotgunHighCaliberEnsnaring = коробка патронов (8 Калибр опутывающая пуля)
     .desc = { ent-BaseMagazineBoxShotgunHighCaliber.desc }
 
-ent-MagazineBoxShotgunHighCaliberEMP = shell box (8 Gauge slug EMP)
+ent-MagazineBoxShotgunHighCaliberEMP = коробка патронов (8 Калибр ЭМИ-пуля)
     .desc = { ent-BaseMagazineBoxShotgunHighCaliber.desc }
 
-ent-MagazineBoxShotgunHighCaliberFlash = shell box (8 Gauge slug flash)
+ent-MagazineBoxShotgunHighCaliberFlash = коробка патронов (8 Калибр световая пуля)
     .desc = { ent-BaseMagazineBoxShotgunHighCaliber.desc }
 
-ent-MagazineBoxShotgunHighCaliberSarin = shell box (8 Gauge sarin gas)
+ent-MagazineBoxShotgunHighCaliberSarin = коробка патронов (8 Калибр газ зарин)
     .desc = { ent-BaseMagazineBoxShotgunHighCaliber.desc }

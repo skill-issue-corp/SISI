@@ -1,25 +1,25 @@
-round-end-credits-trauma-episode = EPISODE: {$roundid} : "{$title}!"
-round-end-credits-trauma-cast = CAST:
-round-end-credits-trauma-director = EPISODE DIRECTED BY: {$shoutout}
-round-end-credits-trauma-thankyou = Thanks for playing!
-round-end-credits-trauma-player-name-role = {$name}, {$role}, played by {$player}.
-round-end-credits-trauma-close = Close Credits
-round-end-credits-trauma-lastwords-title = Famous Last Words:
+round-end-credits-trauma-episode = ЭПИЗОД: {$roundid} : «{$title}!»
+round-end-credits-trauma-cast = В РОЛЯХ:
+round-end-credits-trauma-director = РЕЖИССЁР ЭПИЗОДА: {$shoutout}
+round-end-credits-trauma-thankyou = Спасибо за игру!
+round-end-credits-trauma-player-name-role = {$name}, {$role}, в исполнении {$player}.
+round-end-credits-trauma-close = Закрыть Титры
+round-end-credits-trauma-lastwords-title = Знаменитые Последние Слова:
 round-end-credits-trauma-lastwords = {$words} - {$player}
 
-round-end-credits-trauma-show-credits = Show round end movie style credits
+round-end-credits-trauma-show-credits = Показывать титры в конце раунда в стиле кино
 
-round-end-credits-trauma-created = Created and Directed by
-round-end-credits-trauma-kojima = Hideo Kojima
+round-end-credits-trauma-created = Создатель и Режиссёр
+round-end-credits-trauma-kojima = Хидэо Кодзима
 
-round-end-credits-trauma-jargon = Filmed on location at {$station}
+round-end-credits-trauma-jargon = Съёмки проходили на {$station}
 
-    Filmed with Robust Technology ©
-    Outer space footage provided by NASA
+    Снято с использованием Robust Technology ©
+    Кадры из открытого космоса предоставило NASA
 
-    Unofficially Sponsored By The United States Air Force
+    Неофициальный Спонсор – Военно-Воздушные Силы Соединённых Штатов
 
-    Any Stunts Peformed In This Epsiode Should Not Be Attempted, Ever
-    Nanotrasen Takes No Responsibility For Any Injuries Sustained While On Set
+    Никогда Не Пытайтесь Повторить Трюки Из Этого Эпизода
+    NanoTrasen Не Несёт Ответственности За Травмы, Полученные На Съёмках
 
-    All Rights Not Reserved
+    Никакие Права Не Защищены

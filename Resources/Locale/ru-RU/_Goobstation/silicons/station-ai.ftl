@@ -1,1 +1,1 @@
-station-ai-hologram-scurret = Scurret appearance
+station-ai-hologram-scurret = Облик слизнекотика

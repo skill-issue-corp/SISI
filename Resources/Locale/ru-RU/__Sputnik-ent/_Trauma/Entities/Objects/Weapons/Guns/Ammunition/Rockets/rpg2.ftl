@@ -4,8 +4,8 @@ ent-BulletRPG2HE = { ent-BulletRocket }
 ent-BulletRPG2AP = { ent-BulletRocket }
     .desc = { ent-BulletRocket.desc }
 
-ent-CartridgeRocketRPG2HE = rocket-propelled high explosive grenade
-    .desc = A warhead for the RPG-2, this one is high explosive and launches shrapnel everywhere.
+ent-CartridgeRocketRPG2HE = реактивная осколочно-фугасная граната
+    .desc = Боеголовка для RPG-2. Это осколочно-фугасный вариант, разбрасывающий осколки во все стороны.
 
-ent-CartridgeRocketRPG2AP = rocket-propelled armor piercing grenade
-    .desc = A warhead for the RPG-2, this one is armor piercing, and good against mechs, borgs, and structures. Requires a direct hit to be effective.
+ent-CartridgeRocketRPG2AP = реактивная бронебойная граната
+    .desc = Боеголовка для RPG-2. Этот бронебойный вариант эффективен против мехов, боргов и конструкций. Требуется прямое попадание.

@@ -1,2 +1,2 @@
-ent-DeployableBarrier = deployable barrier
-    .desc = A deployable barrier. Swipe your ID card to lock/unlock it.
+ent-DeployableBarrier = складной барьер
+    .desc = Складной барьер. Приложите ID-карту, чтобы запереть или отпереть его.

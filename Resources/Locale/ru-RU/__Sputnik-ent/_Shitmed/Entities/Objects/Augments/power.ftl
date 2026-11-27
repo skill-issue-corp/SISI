@@ -1,23 +1,23 @@
-ent-AugmentPowerCellSlotCasing = augment power cell slot casing
-    .desc = Can be implanted into a body to provide power to other implants. This one is incomplete.
+ent-AugmentPowerCellSlotCasing = корпус импланта отсека для батареи
+    .desc = Можно имплантировать в тело для питания других имплантов. Сборка ещё не завершена.
 
-ent-AugmentPowerCellSlotCables = augment power cell slot casing with cables
-    .desc = Can be implanted into a body to provide power to other implants. This one is incomplete.
+ent-AugmentPowerCellSlotCables = корпус импланта отсека для батареи с проводами
+    .desc = Можно имплантировать в тело для питания других имплантов. Сборка ещё не завершена.
 
-ent-AugmentPowerCellSlot = augment power cell slot
-    .desc = Can be implanted into a body to provide power to other implants.
+ent-AugmentPowerCellSlot = имплант отсека для батареи
+    .desc = Можно имплантировать в тело для питания других имплантов.
 
 ent-BaseAugmentRecharger = { ent-BaseAugment }
     .desc = { ent-BaseAugment.desc }
 
-ent-AugmentRechargerCasing = augment recharger casing
-    .desc = Can be implanted into a body to recharge an internal power cell. This one is incomplete.
+ent-AugmentRechargerCasing = корпус зарядного импланта
+    .desc = Можно имплантировать в тело для зарядки внутренней батареи. Сборка ещё не завершена.
 
-ent-AugmentRechargerCables = augment recharger casing with cables
-    .desc = Can be implanted into a body to recharge an internal power cell. This one is incomplete.
+ent-AugmentRechargerCables = корпус зарядного импланта с проводами
+    .desc = Можно имплантировать в тело для зарядки внутренней батареи. Сборка ещё не завершена.
 
-ent-AugmentRechargerAPC = augment apc recharger
-    .desc = Allows the implantee to recharge their power cell via APCs.
+ent-AugmentRechargerAPC = имплант зарядки от ЛКП
+    .desc = Позволяет носителю заряжать батарею от ЛКП.
 
-ent-AugmentRechargerStation = augment station recharger
-    .desc = Allows the implantee to recharge their power cell via cyborg recharging stations.
+ent-AugmentRechargerStation = имплант зарядки от станции
+    .desc = Позволяет носителю заряжать батарею от зарядных станций киборгов.

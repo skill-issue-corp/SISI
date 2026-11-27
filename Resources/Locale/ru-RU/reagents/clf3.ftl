@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-clf3-it-burns = It burns like hell!!
-clf3-get-away = You need to get away now!
-clf3-explosion = The mixture fireballs outwards!
+clf3-it-burns = Жжётся как в аду!!
+clf3-get-away = Срочно убирайтесь отсюда!
+clf3-explosion = Смесь разлетается огненным шаром!

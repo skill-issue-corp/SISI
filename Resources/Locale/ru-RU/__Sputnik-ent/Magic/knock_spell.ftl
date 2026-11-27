@@ -1,2 +1,2 @@
-ent-ActionKnock = Knock
-    .desc = Opens nearby doors and lockers.
+ent-ActionKnock = Взлом
+    .desc = Открывает ближайшие двери и шкафчики.

@@ -3,78 +3,78 @@ ent-DrinkCanBase = { ent-DrinkBaseMaterialMetal }
 
 ent-DrinkCanBaseFull = { ent-DrinkCanBase }
     .desc = { ent-DrinkCanBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-SolutionCanComposite = { ent-SolutionComposite }
     .desc = { ent-SolutionComposite.desc }
 
-ent-DrinkColaCanBase = Space Cola can
-    .desc = A sweet, carbonated soft drink.
+ent-DrinkColaCanBase = банка «Космической Колы»
+    .desc = Сладкий газированный безалкогольный напиток.
 
 ent-DrinkColaCan = { ent-DrinkColaCanBase }
     .desc = { ent-DrinkColaCanBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-DrinkColaCanEmpty = { ent-DrinkBaseOpenableOpen }
     .desc = { ent-DrinkBaseOpenableOpen.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-DrinkIcedTeaCan = iced tea can
-    .desc = A refreshing can of iced tea.
+ent-DrinkIcedTeaCan = банка холодного чая
+    .desc = Освежающий холодный чай в банке.
 
-ent-DrinkLemonLimeCan = Smite can
-    .desc = You wanted ORANGE. It gave you Lemon-Lime.
+ent-DrinkLemonLimeCan = банка «Смайта»
+    .desc = Вы хотели АПЕЛЬСИН. Получите Лимон-Лайм.
 
-ent-DrinkLemonLimeCranberryCan = Smite Cranberry can
-    .desc = Y'all want a Smite Cranberry? Beloved by administrators everywhere. Drink in moderation. A limited run for the holidays!
+ent-DrinkLemonLimeCranberryCan = банка «Клюквенного Смайта»
+    .desc = Кому «Клюквенный Смайт»? Любимец администраторов повсюду. Пейте в меру. Ограниченный выпуск к праздникам!
 
-ent-DrinkGrapeCan = grape soda can
-    .desc = Sweetened drink with a grape flavor and a deep purple color.
+ent-DrinkGrapeCan = банка виноградной газировки
+    .desc = Подслащённый напиток с виноградным вкусом и насыщенным фиолетовым цветом.
 
-ent-DrinkRootBeerCan = root beer can
-    .desc = Some of that tasty root beer goodness, now in a portable can!
+ent-DrinkRootBeerCan = банка корневого пива
+    .desc = Вкусное корневое пиво, теперь в банке, которую удобно носить с собой!
 
-ent-DrinkSodaWaterCan = soda water can
-    .desc = Soda water. Why not make a scotch and soda?
+ent-DrinkSodaWaterCan = банка газированной воды
+    .desc = Газированная вода. Почему бы не сделать виски с содовой?
 
-ent-DrinkSpaceMountainWindCan = Space Solar Wind can
-    .desc = Blows right through you like a solar wind.
+ent-DrinkSpaceMountainWindCan = банка «Космического Солнечного Ветра»
+    .desc = Пронизывает вас насквозь, как солнечный ветер.
 
-ent-DrinkSpaceUpCan = Space-Up can
-    .desc = Tastes like a hull breach in your mouth.
+ent-DrinkSpaceUpCan = банка «Спейс-Ап»
+    .desc = На вкус как пробоина в обшивке прямо у вас во рту.
 
-ent-DrinkSolDryCan = Sol Dry can
-    .desc = Sweet ginger soda from outer space!
+ent-DrinkSolDryCan = банка «Сол Драй»
+    .desc = Сладкая имбирная газировка из открытого космоса!
 
-ent-DrinkStarkistCan = Starkist can
-    .desc = The taste of a star in liquid form. And, a bit of tuna...?
+ent-DrinkStarkistCan = банка «Старкиста»
+    .desc = Вкус звезды в жидкой форме. А ещё немного тунца...?
 
-ent-DrinkTonicWaterCan = tonic water can
-    .desc = Quinine tastes funny, but at least it'll keep that Space Malaria away.
+ent-DrinkTonicWaterCan = банка тоника
+    .desc = У хинина странный вкус, зато защитит от Космической Малярии.
 
-ent-DrinkFourteenLokoCan = Fourteen Loko can
-    .desc = The MBO has advised crew members that consumption of Fourteen Loko may result in seizures, blindness, drunkeness, or even death. Please Drink Responsibly.
+ent-DrinkFourteenLokoCan = банка «Локо Четырнадцать»
+    .desc = Главврач предупредил экипаж, что «Локо Четырнадцать» может вызвать судороги, слепоту, опьянение и даже смерть. Пожалуйста, Пейте Ответственно.
 
-ent-DrinkChangelingStingCan = Changeling Sting can
-    .desc = You take a tiny sip and feel a burning sensation...
+ent-DrinkChangelingStingCan = банка «Жала Генокрада»
+    .desc = Стоит сделать маленький глоток, и сразу начинает жечь...
 
-ent-DrinkDrGibbCan = Dr. Gibb can
-    .desc = A delicious blend of 42 different flavours.
+ent-DrinkDrGibbCan = банка «Доктора Гибба»
+    .desc = Вкусная смесь из 42 разных вкусов.
 
-ent-DrinkNukieCan = Blood-red Brew can
-    .desc = A home-brewed drink made from the crazed minds at the Syndicate. Not recommended by doctors.
+ent-DrinkNukieCan = банка «Кроваво-красного Варева»
+    .desc = Домашний напиток из безумных умов Синдиката. Врачи не рекомендуют.
 
-ent-DrinkEnergyDrinkCan = Red Bool can
-    .desc = A can of Red Bool, with enough caffeine to kill a horse.
+ent-DrinkEnergyDrinkCan = банка «Ред Бул»
+    .desc = В банке «Ред Бул» столько кофеина, что хватит убить лошадь.
 
-ent-DrinkShamblersJuiceCan = Shambler's Juice can
-    .desc = ~Shake me up some of that Shambler's Juice!~
+ent-DrinkShamblersJuiceCan = банка «Сока Шамблера»
+    .desc = ~Взболтайте мне «Сок Шамблера»!~
 
-ent-DrinkPwrGameCan = PWR Game can
-    .desc = The only drink with the PWR that true gamers crave. When a gamer talks about gamerfuel, this is what they're literally referring to.
+ent-DrinkPwrGameCan = банка «ПВР Гейм»
+    .desc = Единственный напиток с той самой ПВР, которой жаждут настоящие геймеры. Вот что они имеют в виду, когда говорят «геймерское топливо».
 
-ent-DrinkBeerCan = beer can
-    .desc = Small joy, big taste, no worries!
+ent-DrinkBeerCan = банка пива
+    .desc = Маленькая радость, большой вкус, никаких забот!
 
-ent-DrinkWineCan = wine can
-    .desc = Your way to forgetting all worries and having fun!
+ent-DrinkWineCan = банка вина
+    .desc = Ваш способ забыть о заботах и повеселиться!

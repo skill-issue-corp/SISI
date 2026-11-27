@@ -7,17 +7,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-heretic-roundend-name = heretic
+heretic-roundend-name = еретик
 
 # Trauma
-roundend-prepend-heretic-ascension-success = {$name} [color=green]has Ascended![/color]
-roundend-prepend-heretic-ascension-fail = {$name} [color=red]has failed to Ascend![/color]
-roundend-prepend-heretic-ascension-fail-owls = {$name} [color=yellow]has forsaken Ascension![/color]
-roundend-prepend-heretic-knowledge-named = [color=white]{$name}[/color] researched the most knowledges, having [color=purple]{$number}[/color] total.
+roundend-prepend-heretic-ascension-success = {$name} [color=green]достигает Вознесения![/color]
+roundend-prepend-heretic-ascension-fail = {$name} [color=red]терпит неудачу в попытке Вознестись![/color]
+roundend-prepend-heretic-ascension-fail-owls = {$name} [color=yellow]отрекается от Вознесения![/color]
+roundend-prepend-heretic-knowledge-named = Больше всех знаний освоил [color=white]{$name}[/color]. Всего: [color=purple]{$number}[/color].
 
-heretic-gamemode-title = Heretics
+heretic-gamemode-title = Еретики
 heretic-gamemode-description =
-    Dimensional anomaly detected within the station. There is no additional data.
+    На станции обнаружена пространственная аномалия. Дополнительных данных нет.
 
 # SIS-Start
 heretic-role-greeting =
@@ -38,37 +38,37 @@ heretic-role-greeting-fluff =
 
 ## ghoul
 heretic-ghoul-greeting =
-    You have been summoned into this world by {CAPITALIZE(THE($ent))}!
-    You must aid them in their journey to ascension and protect them at all costs.
-    You may follow other heretics if your master is beyond resurrection.
+    В этот мир вас призвал {CAPITALIZE($ent)}!
+    Помогите призывателю на пути к вознесению и защищайте его любой ценой.
+    Если вашего хозяина уже не воскресить, вы можете последовать за другими еретиками.
 heretic-ghoul-greeting-noname =
-    You have been summoned into this world by eldritch forces.
-    Obey the orders of your masters no matter what.
+    В этот мир вас призвали потусторонние силы.
+    Выполняйте приказы своих хозяев, несмотря ни на что.
 heretic-ghoul-briefing-start =
-    You have been summoned into this world by {CAPITALIZE(THE($ent))}!
+    В этот мир вас призвал {CAPITALIZE($ent)}!
 heretic-ghoul-briefing-start-noname =
-    You have been summoned into this world by eldritch forces.
+    В этот мир вас призвали потусторонние силы.
 heretic-ghoul-briefing-end =
-    Obey the orders of your masters no matter what.
+    Выполняйте приказы своих хозяев, несмотря ни на что.
 
-    use +m key in chat to access mansus link.
+    используйте +m в чате для доступа к связи мансуса.
 
-ghostrole-ghoul-name = Ghoul
-ghostrole-flesh-mimic-name = Flesh Mimic
-ghostrole-prophet-name = Raw Prophet
-ghostrole-stalker-name = Flesh Stalker
-ghostrole-maid-name = Maid in the Mirror
-ghostrole-fire-shark-name = Fire Shark
-ghostrole-ash-spirit-name = Ash Spirit
-ghostrole-rustwalker-name = Rust Walker
-ghostrole-stargazer-name = Star Gazer
-ghostrole-ghoul-desc = Aid your summoner in achieving ascension.
-ghostrole-flesh-mimic-desc = Aid your summoner in achieving ascension. Be aware that you die over time.
-ghostrole-prophet-desc = Aid your summoner in achieving ascension. Connect other believers to the Mansus Link. Passively heal heretics and eldritch creatures.
-ghostrole-stalker-desc = Aid your summoner in achieving ascension. Jaunt and sabotage crew's lighting.
-ghostrole-maid-desc = Aid your summoner in achieving ascension. Jaunt in and out on reflective surfaces to scout or ambush crew.
-ghostrole-fire-shark-desc = Aid your summoner in achieving ascension. Burn your victims.
-ghostrole-ash-spirit-desc = Aid your summoner in achieving ascension. Melt your victims.
-ghostrole-rustwalker-desc = Aid your summoner in achieving ascension. Spread rust everywhere.
-ghostrole-stargazer-desc = Aid your summoner in wreaking havoc everywhere.
-ghostrole-ghoul-rules = You are a [color=red][bold]Team Antagonist[/bold][/color] with the one who summoned you and other eldritch beings.
+ghostrole-ghoul-name = Гуль
+ghostrole-flesh-mimic-name = Мимик Плоти
+ghostrole-prophet-name = Сырой Пророк
+ghostrole-stalker-name = Гончий Плоти
+ghostrole-maid-name = Дева в Зеркале
+ghostrole-fire-shark-name = Огненная Акула
+ghostrole-ash-spirit-name = Пепельный Дух
+ghostrole-rustwalker-name = Ржавый Ходок
+ghostrole-stargazer-name = Звездочёт
+ghostrole-ghoul-desc = Помогите призывателю достичь вознесения.
+ghostrole-flesh-mimic-desc = Помогите призывателю достичь вознесения. Учтите, что со временем вы умираете.
+ghostrole-prophet-desc = Помогите призывателю достичь вознесения. Подключайте других верующих к Связи Мансуса. Пассивно исцеляйте еретиков и потусторонних существ.
+ghostrole-stalker-desc = Помогите призывателю достичь вознесения. Используйте рывок и выводите из строя освещение экипажа.
+ghostrole-maid-desc = Помогите призывателю достичь вознесения. Совершайте рывки через отражающие поверхности, чтобы разведывать обстановку или устраивать засады на экипаж.
+ghostrole-fire-shark-desc = Помогите призывателю достичь вознесения. Сжигайте своих жертв.
+ghostrole-ash-spirit-desc = Помогите призывателю достичь вознесения. Расплавляйте своих жертв.
+ghostrole-rustwalker-desc = Помогите призывателю достичь вознесения. Распространяйте ржавчину повсюду.
+ghostrole-stargazer-desc = Помогите призывателю сеять хаос повсюду.
+ghostrole-ghoul-rules = Вы — [color=red][bold]Командный Антагонист[/bold][/color] вместе с тем, кто вас призвал, и другими потусторонними существами.

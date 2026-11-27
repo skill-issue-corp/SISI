@@ -1,2 +1,2 @@
-ent-ActionDarkWhisper = Dark Whisper
-    .desc = Choose a target and you will be able to speak through them for some seconds.
+ent-ActionDarkWhisper = Тёмный Шёпот
+    .desc = Выберите цель, и вы сможете несколько секунд говорить через неё.

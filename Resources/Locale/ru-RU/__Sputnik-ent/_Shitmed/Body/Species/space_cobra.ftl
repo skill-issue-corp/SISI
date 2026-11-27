@@ -1,9 +1,9 @@
-ent-AppearanceSpaceCobra = space cobra appearance
+ent-AppearanceSpaceCobra = внешность космической кобры
     .desc = { ent-BaseMobBody.desc }
 
 ent-OrganCobra = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = cobra
+    .suffix = кобра
 
 ent-OrganCobraExternal = { ent-OrganCobra }
     .desc = { ent-OrganCobra.desc }
@@ -11,7 +11,7 @@ ent-OrganCobraExternal = { ent-OrganCobra }
 ent-OrganCobraInternal = { ent-OrganCobra }
     .desc = { ent-OrganCobra.desc }
 
-ent-OrganCobraTorso = snake body
+ent-OrganCobraTorso = тело змеи
     .desc = { ent-OrganAnimalTorso.desc }
 
 ent-OrganCobraHeart = { ent-OrganAnimalHeart }

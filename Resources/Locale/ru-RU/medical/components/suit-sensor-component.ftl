@@ -7,30 +7,30 @@
 
 ## Modes
 
-suit-sensor-mode-off = Off
-suit-sensor-mode-binary = Binary
-suit-sensor-mode-vitals = Vitals
-suit-sensor-mode-cords = Coordinates
+suit-sensor-mode-off = Выкл.
+suit-sensor-mode-binary = Двоичный
+suit-sensor-mode-vitals = Показатели здоровья
+suit-sensor-mode-cords = Координаты
 
 ## Descriptions
 
-suit-sensor-description-off = Nothing is reported to the station.
-suit-sensor-description-binary = Wearer death is reported to the station.
-suit-sensor-description-vitals = General wearer health status is reported to the station.
-suit-sensor-description-cords = Wearer health status and position are reported to the station.
+suit-sensor-description-off = Данные на станцию не передаются.
+suit-sensor-description-binary = На станцию передаются сведения о смерти носителя.
+suit-sensor-description-vitals = На станцию передаются общие сведения о здоровье носителя.
+suit-sensor-description-cords = На станцию передаются сведения о здоровье и координаты носителя.
 
 ## Popups
 
-suit-sensor-mode-state = Suit sensors: {$mode}
+suit-sensor-mode-state = Датчики костюма: {$mode}
 
 ## Components
 
-suit-sensor-component-unknown-name = Unknown
-suit-sensor-component-unknown-job = No job
+suit-sensor-component-unknown-name = Неизвестно
+suit-sensor-component-unknown-job = Нет должности
 
 ## Examine
 
-suit-sensor-examine-off = Its sensors appear to be [color=darkred]disabled[/color].
-suit-sensor-examine-binary = Its binary life sensors appear to be enabled.
-suit-sensor-examine-vitals = Its vital tracker appears to be enabled.
-suit-sensor-examine-cords = Its vital tracker and tracking beacon appear to be enabled.
+suit-sensor-examine-off = Похоже, датчики [color=darkred]отключены[/color].
+suit-sensor-examine-binary = Похоже, двоичные датчики жизни включены.
+suit-sensor-examine-vitals = Похоже, датчики здоровья включены.
+suit-sensor-examine-cords = Похоже, датчики здоровья и маяк слежения включены.

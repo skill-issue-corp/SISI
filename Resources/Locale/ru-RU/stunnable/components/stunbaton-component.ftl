@@ -10,17 +10,17 @@
 
 ### Stunbaton component
 
-comp-stunbaton-stun = Stunned
+comp-stunbaton-stun = Оглушение
 
 ## Used when examining the stunbaton
 
-comp-stunbaton-examined-on = The light is currently [color=darkgreen]on[/color].
-comp-stunbaton-examined-off = The light is currently [color=darkred]off[/color]
+comp-stunbaton-examined-on = Индикатор сейчас [color=darkgreen]горит[/color].
+comp-stunbaton-examined-off = Индикатор сейчас [color=darkred]не горит[/color]
 
 ## Used when activating the stunbaton, depending on the state of its cell.
 
-comp-stunbaton-activated-low-charge = Insufficient charge...
+comp-stunbaton-activated-low-charge = Недостаточно заряда...
 
-stunbaton-component-low-charge = Insufficient charge...
-stunbaton-component-on-examine = The light is currently [color=darkgreen]on[/color].
-stunbaton-component-on-examine-charge = The charge indicator reads [color=#5E7C16]{$charge}[/color] %
+stunbaton-component-low-charge = Недостаточно заряда...
+stunbaton-component-on-examine = Индикатор сейчас [color=darkgreen]горит[/color].
+stunbaton-component-on-examine-charge = Индикатор заряда показывает [color=#5E7C16]{$charge}[/color] %

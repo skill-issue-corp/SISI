@@ -1,25 +1,25 @@
-miner-weapon-selector-pka-name = Proto-kinetic Accelerator
+miner-weapon-selector-pka-name = Прото-кинетический Ускоритель
 miner-weapon-selector-pka-description =
-    Classic short-ranged bolt accelerator that deals
-    constant damage with high accuracy.
-miner-weapon-selector-repeater-name = Proto-kinetic Repeater
+    Классический ускоритель зарядов для ближней дистанции,
+    наносит стабильный урон с высокой точностью.
+miner-weapon-selector-repeater-name = Прото-кинетический Репитер
 miner-weapon-selector-repeater-description =
-    A middle-ranged burst weapon that shoots 3 bullets
-    in a row dealing high amounts of damage.
-miner-weapon-selector-pistols-name = Proto-kinetic Pistols
+    Оружие для средней дистанции, выпускает очереди из 3 пуль
+    и наносит большой урон.
+miner-weapon-selector-pistols-name = Прото-кинетические Пистолеты
 miner-weapon-selector-pistols-description =
-    2 pistols that you can dualwield to look like from middle-west.
-    Deals decent amount of damage in exchange for good range.
+    2 пистолета, чтобы стрелять с обеих рук, как на Диком Западе.
+    Урон умеренный, зато дальность хорошая.
 
-miner-weapon-selector-crusher-name = Crusher Axe
+miner-weapon-selector-crusher-name = Топор-Крушитель
 miner-weapon-selector-crusher-description =
-    Classic melee weapon for slicing lavaland enemies.
-miner-weapon-selector-glaive-name = Crusher Glaive
+    Классическое оружие ближнего боя, чтобы рубить врагов лаваленда.
+miner-weapon-selector-glaive-name = Глефа-Крушитель
 miner-weapon-selector-glaive-description =
-    A piercing weapon that has high range and attack speed
-    in exchange for lower damage. Great if you want to
-    attack enemies from safety.
-miner-weapon-selector-hammer-name = Crusher Hammer
+    Колющее оружие с большим радиусом и высокой скоростью
+    атаки в обмен на меньший урон. Хороший выбор, если хотите
+    атаковать врагов с безопасной дистанции.
+miner-weapon-selector-hammer-name = Молот-Крушитель
 miner-weapon-selector-hammer-description =
-    A heavy blunt weapon that deals a lot of damage
-    in slow powerful hits. Can mine through rock unefficiently.
+    Тяжёлое дробящее оружие. Бьёт медленно, но мощно,
+    наносит большой урон. Можно раскалывать породу, хоть и неэффективно.

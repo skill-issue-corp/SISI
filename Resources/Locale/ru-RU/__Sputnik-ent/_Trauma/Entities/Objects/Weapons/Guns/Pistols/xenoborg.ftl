@@ -1,6 +1,6 @@
-ent-DartGunXenoborg = dart gun
-    .desc = Fires darts that put organics to sleep.
-    .suffix = Unremoveable
+ent-DartGunXenoborg = дротикомёт
+    .desc = Стреляет дротиками, которые усыпляют органиков.
+    .suffix = Несъёмный
 
-ent-XenoborgDart = dart
-    .desc = A thin needle with chemicals inside.
+ent-XenoborgDart = дротик
+    .desc = Тонкая игла с химикатами внутри.

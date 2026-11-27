@@ -1,2 +1,2 @@
-ent-MobWeldbot = weldbot
-    .desc = No substitute for an engineer, but better than nothing.
+ent-MobWeldbot = сваробот
+    .desc = Инженера не заменит, но лучше, чем ничего.

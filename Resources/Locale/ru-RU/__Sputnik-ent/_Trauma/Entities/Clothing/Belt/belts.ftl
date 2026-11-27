@@ -1,11 +1,11 @@
 ent-BaseClothingBeltSheath = { ent-ClothingBeltBase }
     .desc = { ent-ClothingBeltBase.desc }
 
-ent-ClothingBeltRevWebbing = chest rig
-    .desc = Ideal for storing everything from ammo to weapons and combat essentials.
+ent-ClothingBeltRevWebbing = разгрузка
+    .desc = Идеально подходит для хранения чего угодно, от боеприпасов до оружия и прочего снаряжения для боя.
 
-ent-ClothingBeltKnifeRig = throwing knife rig
-    .desc = A specialised bandolier meant to hold throwing knives.
+ent-ClothingBeltKnifeRig = разгрузка для метательных ножей
+    .desc = Специальная перевязь для метательных ножей.
 
 ent-BaseSheathCounterAttackWeak = { "" }
     .desc = { "" }
@@ -16,29 +16,29 @@ ent-BaseSheathCounterAttackMedium = { ent-BaseSheathCounterAttackWeak }
 ent-BaseSheathCounterAttackStrong = { ent-BaseSheathCounterAttackWeak }
     .desc = { ent-BaseSheathCounterAttackWeak.desc }
 
-ent-ClothingBeltSheathKatana = katana sheath
-    .desc = A sheath designed to hold an officer's blade.
+ent-ClothingBeltSheathKatana = ножны для катаны
+    .desc = Ножны для офицерского клинка.
 
 ent-ClothingBeltSheathKatanaFilled = { ent-ClothingBeltSheathKatana }
     .desc = { ent-ClothingBeltSheathKatana.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-ClothingBeltSheathKatanaNinja = energy katana sheath
-    .desc = A high tech katana sheath that allows for quick blade movements.
+ent-ClothingBeltSheathKatanaNinja = ножны для энергетической катаны
+    .desc = Высокотехнологичные ножны, из которых катану можно выхватить мгновенно.
 
 ent-ClothingBeltSheathKatanaNinjaFilled = { ent-ClothingBeltSheathKatanaNinja }
     .desc = { ent-ClothingBeltSheathKatanaNinja.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-ClothingBeltSheathSnakesfang = snakesfang scabbard
-    .desc = Can hold scimitars.
+ent-ClothingBeltSheathSnakesfang = ножны змеиного клыка
+    .desc = Вмещают ятаганы.
 
 ent-ClothingBeltSheathSnakesfangFilled = { ent-ClothingBeltSheathSnakesfang }
     .desc = { ent-ClothingBeltSheathSnakesfang.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-ClothingBeltRancher = ranchers belt
-    .desc = Ideal for storing everything chicken related, and then some.
+ent-ClothingBeltRancher = пояс животновода
+    .desc = В него отлично помещается всё, что нужно для ухода за курами, и даже больше.
 
-ent-ClothingBeltShankerBelt = improvised knife rig
-    .desc = Sewn together cloth meant to hold all kind of knifes.
+ent-ClothingBeltShankerBelt = самодельная разгрузка для ножей
+    .desc = Сшита из лоскутов ткани и вмещает самые разные ножи.

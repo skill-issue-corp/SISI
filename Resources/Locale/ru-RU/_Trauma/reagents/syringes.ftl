@@ -1,1 +1,1 @@
-syringe-lethal-injection = Lethal Injection
+syringe-lethal-injection = Смертельная Инъекция

@@ -1,5 +1,5 @@
-ent-ConstructionBag = construction bag
-    .desc = A robust bag for construction specialists and engineers alike to carry large amounts of construction materials. Magnetises any nearby construction materials when attached to a belt.
+ent-ConstructionBag = строительная сумка
+    .desc = Надёжная сумка для строителей и инженеров, в которой можно переносить много стройматериалов. Притягивает ближайшие стройматериалы, если закрепить её на поясе.
 
-ent-ConstructionBagOfHolding = construction bag of holding
-    .desc = A robust bag of holding for rich construction specialists and engineers alike to carry large amounts of construction materials. Magnetises any nearby construction materials when attached to a belt.
+ent-ConstructionBagOfHolding = бездонная строительная сумка
+    .desc = Надёжная бездонная сумка для богатых строителей и инженеров, в которой можно переносить много стройматериалов. Притягивает ближайшие стройматериалы, если закрепить её на поясе.

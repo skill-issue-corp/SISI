@@ -1,9 +1,9 @@
 # Shown in round end player manifest
 
-damage-death-adjective-Brute = crushing
-damage-death-adjective-Burn = fiery
-damage-death-adjective-Toxin = poisonous
-damage-death-adjective-Airloss = suffocating
-damage-death-adjective-Genetic = twisted
-damage-death-adjective-Metaphysical = otherworldly
-damage-death-adjective-Electronic = shocking
+damage-death-adjective-Brute = сокрушительный
+damage-death-adjective-Burn = огненный
+damage-death-adjective-Toxin = ядовитый
+damage-death-adjective-Airloss = удушающий
+damage-death-adjective-Genetic = искривлённый
+damage-death-adjective-Metaphysical = потусторонний
+damage-death-adjective-Electronic = шокирующий

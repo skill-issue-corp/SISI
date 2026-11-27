@@ -1,125 +1,125 @@
-marking-LizardFrillsShort-frills_short = Lizard Frills (Short)
-marking-LizardFrillsShort = Lizard Frills (Short)
+marking-LizardFrillsShort-frills_short = Воротник Унатха (Короткие)
+marking-LizardFrillsShort = Воротник Унатха (Короткие)
 
-marking-LizardFrillsSimple-frills_simple = Lizard Frills (Simple)
-marking-LizardFrillsSimple = Lizard Frills (Simple)
+marking-LizardFrillsSimple-frills_simple = Воротник Унатха (Простые)
+marking-LizardFrillsSimple = Воротник Унатха (Простые)
 
-marking-LizardFrillsAquatic-frills_aquatic = Lizard Frills (Aquatic)
-marking-LizardFrillsAquatic = Lizard Frills (Aquatic)
+marking-LizardFrillsAquatic-frills_aquatic = Воротник Унатха (Водные)
+marking-LizardFrillsAquatic = Воротник Унатха (Водные)
 
-marking-LizardHornsAngler-horns_angler = Lizard Horns (Angler)
-marking-LizardHornsAngler = Lizard Horns (Angler)
+marking-LizardHornsAngler-horns_angler = Рога Унатха (Удильщик)
+marking-LizardHornsAngler = Рога Унатха (Удильщик)
 
-marking-LizardHornsCurled-horns_curled = Lizard Horns (Curled)
-marking-LizardHornsCurled = Lizard Horns (Curled)
+marking-LizardHornsCurled-horns_curled = Рога Унатха (Завитые)
+marking-LizardHornsCurled = Рога Унатха (Завитые)
 
-marking-LizardHornsRam-horns_ram = Lizard Horns (Ram)
-marking-LizardHornsRam = Lizard Horns (Ram)
+marking-LizardHornsRam-horns_ram = Рога Унатха (Бараньи)
+marking-LizardHornsRam = Рога Унатха (Бараньи)
 
-marking-LizardHornsShort-horns_short = Lizard Horns (Short)
-marking-LizardHornsShort = Lizard Horns (Short)
+marking-LizardHornsShort-horns_short = Рога Унатха (Короткие)
+marking-LizardHornsShort = Рога Унатха (Короткие)
 
-marking-LizardHornsSimple-horns_simple = Lizard Horns
-marking-LizardHornsSimple = Lizard Horns
+marking-LizardHornsSimple-horns_simple = Рога Унатха
+marking-LizardHornsSimple = Рога Унатха
 
-marking-LizardTailSmooth-tail_smooth_primary = Lizard Tail
-marking-LizardTailSmooth-tail_smooth_secondary = Under Tone
-marking-LizardTailSmooth = Lizard Tail (Smooth)
+marking-LizardTailSmooth-tail_smooth_primary = Хвост Унатха
+marking-LizardTailSmooth-tail_smooth_secondary = Подтон
+marking-LizardTailSmooth = Хвост Унатха (Гладкий)
 
-marking-LizardTailLarge-tail_large = Lizard Tail (Large)
-marking-LizardTailLarge = Lizard Tail (Large)
+marking-LizardTailLarge-tail_large = Хвост Унатха (Большой)
+marking-LizardTailLarge = Хвост Унатха (Большой)
 
-marking-LizardTailSpikes-tail_spikes = Lizard Tail (Spiky)
-marking-LizardTailSpikes = Lizard Tail (Spiky)
+marking-LizardTailSpikes-tail_spikes = Хвост Унатха (Шипастый)
+marking-LizardTailSpikes = Хвост Унатха (Шипастый)
 
-marking-LizardTailLTiger-tail_ltiger = Lizard Tail (Light Tiger Stripes)
-marking-LizardTailLTiger = Lizard Tail (Light Tiger Stripes)
+marking-LizardTailLTiger-tail_ltiger = Хвост Унатха (Светлые Тигровые Полосы)
+marking-LizardTailLTiger = Хвост Унатха (Светлые Тигровые Полосы)
 
-marking-LizardTailDTiger-tail_dtiger = Lizard Tail (Dark Tiger Stripes)
-marking-LizardTailDTiger = Lizard Tail (Dark Tiger Stripes)
+marking-LizardTailDTiger-tail_dtiger = Хвост Унатха (Тёмные Тигровые Полосы)
+marking-LizardTailDTiger = Хвост Унатха (Тёмные Тигровые Полосы)
 
-marking-LizardTailAquatic-tail_aquatic = Lizard Tail (Aquatic)
-marking-LizardTailAquatic = Lizard Tail (Aquatic)
+marking-LizardTailAquatic-tail_aquatic = Хвост Унатха (Водные)
+marking-LizardTailAquatic = Хвост Унатха (Водные)
 
-marking-LizardSnoutRound-snout_round = Lizard Snout (Round)
-marking-LizardSnoutRound = Lizard Snout (Round)
+marking-LizardSnoutRound-snout_round = Морда Унатха (Округлая)
+marking-LizardSnoutRound = Морда Унатха (Округлая)
 
-marking-LizardSnoutSharp-snout_sharp = Lizard Snout (Sharp)
-marking-LizardSnoutSharp = Lizard Snout (Sharp)
+marking-LizardSnoutSharp-snout_sharp = Морда Унатха (Острые)
+marking-LizardSnoutSharp = Морда Унатха (Острые)
 
-marking-LizardChestTiger-body_tiger = Lizard Chest (Tiger)
-marking-LizardChestTiger = Lizard Chest (Tiger)
+marking-LizardChestTiger-body_tiger = Грудь Унатха (Тигр)
+marking-LizardChestTiger = Грудь Унатха (Тигр)
 
-marking-LizardHeadTiger-head_tiger = Lizard Head (Tiger)
-marking-LizardHeadTiger = Lizard Head (Tiger)
+marking-LizardHeadTiger-head_tiger = Голова Унатха (Тигр)
+marking-LizardHeadTiger = Голова Унатха (Тигр)
 
-marking-LizardLArmTiger-l_arm_tiger = Lizard Left Arm (Tiger)
-marking-LizardLArmTiger = Lizard Left Arm (Tiger)
+marking-LizardLArmTiger-l_arm_tiger = Левая Рука Унатха (Тигр)
+marking-LizardLArmTiger = Левая Рука Унатха (Тигр)
 
-marking-LizardLLegTiger-l_leg_tiger = Lizard Left Leg (Tiger)
-marking-LizardLLegTiger = Lizard Left Leg (Tiger)
+marking-LizardLLegTiger-l_leg_tiger = Левая Нога Унатха (Тигр)
+marking-LizardLLegTiger = Левая Нога Унатха (Тигр)
 
-marking-LizardRArmTiger-r_arm_tiger = Lizard Right Arm (Tiger)
-marking-LizardRArmTiger = Lizard Right Arm (Tiger)
+marking-LizardRArmTiger-r_arm_tiger = Правая Рука Унатха (Тигр)
+marking-LizardRArmTiger = Правая Рука Унатха (Тигр)
 
-marking-LizardRLegTiger-r_leg_tiger = Lizard Right Leg (Tiger)
-marking-LizardRLegTiger = Lizard Right Leg (Tiger)
+marking-LizardRLegTiger-r_leg_tiger = Правая Нога Унатха (Тигр)
+marking-LizardRLegTiger = Правая Нога Унатха (Тигр)
 
-marking-LizardFrillsDivinity-frills_divinity = Lizard Frills (Divinity)
-marking-LizardFrillsDivinity = Lizard Frills (Divinity)
+marking-LizardFrillsDivinity-frills_divinity = Воротник Унатха (Божество)
+marking-LizardFrillsDivinity = Воротник Унатха (Божество)
 
-marking-LizardFrillsBig-frills_big = Lizard Frills (Big)
-marking-LizardFrillsBig = Lizard Frills (Big)
+marking-LizardFrillsBig-frills_big = Воротник Унатха (Большой)
+marking-LizardFrillsBig = Воротник Унатха (Большой)
 
-marking-LizardFrillsNeckfull-frills_neckfull = Lizard Frills (Neckfull)
-marking-LizardFrillsNeckfull = Lizard Frills (Neckfull)
+marking-LizardFrillsNeckfull-frills_neckfull = Воротник Унатха (На Всю Шею)
+marking-LizardFrillsNeckfull = Воротник Унатха (На Всю Шею)
 
-marking-LizardHornsDouble-horns_double = Lizard Horns (Double)
-marking-LizardHornsDouble = Lizard Horns (Double)
+marking-LizardHornsDouble-horns_double = Рога Унатха (Двойные)
+marking-LizardHornsDouble = Рога Унатха (Двойные)
 
-marking-LizardFrillsAxolotl-frills_axolotl = Lizard Frills (Axolotl)
-marking-LizardFrillsAxolotl = Lizard Frills (Axolotl)
+marking-LizardFrillsAxolotl-frills_axolotl = Воротник Унатха (Аксолотль)
+marking-LizardFrillsAxolotl = Воротник Унатха (Аксолотль)
 
-marking-LizardFrillsHood-frills_hood_primary = Outer Hood
-marking-LizardFrillsHood-frills_hood_secondary = Inner Hood
-marking-LizardFrillsHood = Lizard Frills (Hood)
+marking-LizardFrillsHood-frills_hood_primary = Внешняя Сторона Капюшона
+marking-LizardFrillsHood-frills_hood_secondary = Внутренняя Сторона Капюшона
+marking-LizardFrillsHood = Воротник Унатха (Капюшон)
 
-marking-LizardHornsArgali-horns_argali = Lizard Horns (Argali)
-marking-LizardHornsArgali = Lizard Horns (Argali)
+marking-LizardHornsArgali-horns_argali = Рога Унатха (Архар)
+marking-LizardHornsArgali = Рога Унатха (Архар)
 
-marking-LizardHornsAyrshire-horns_ayrshire = Lizard Horns (Ayrshire)
-marking-LizardHornsAyrshire = Lizard Horns (Ayrshire)
+marking-LizardHornsAyrshire-horns_ayrshire = Рога Унатха (Айрширские)
+marking-LizardHornsAyrshire = Рога Унатха (Айрширские)
 
-marking-LizardHornsMyrsore-horns_myrsore = Lizard Horns (Myrsore)
-marking-LizardHornsMyrsore = Lizard Horns (Myrsore)
+marking-LizardHornsMyrsore-horns_myrsore = Рога Унатха (Майсурские)
+marking-LizardHornsMyrsore = Рога Унатха (Майсурские)
 
-marking-LizardHornsBighorn-horns_bighorn = Lizard Horns (Bighorn)
-marking-LizardHornsBighorn = Lizard Horns (Bighorn)
+marking-LizardHornsBighorn-horns_bighorn = Рога Унатха (Толсторог)
+marking-LizardHornsBighorn = Рога Унатха (Толсторог)
 
-marking-LizardHornsDemonic-horns_demonic = Lizard Horns (Demonic)
-marking-LizardHornsDemonic = Lizard Horns (Demonic)
+marking-LizardHornsDemonic-horns_demonic = Рога Унатха (Демонические)
+marking-LizardHornsDemonic = Рога Унатха (Демонические)
 
-marking-LizardHornsKoboldEars-horns_kobold_ears = Lizard Ears (Kobold)
-marking-LizardHornsKoboldEars = Lizard Ears (Kobold)
+marking-LizardHornsKoboldEars-horns_kobold_ears = Уши Унатха (Кобольд)
+marking-LizardHornsKoboldEars = Уши Унатха (Кобольд)
 
-marking-LizardHornsFloppyKoboldEars-horns_floppy_kobold_ears = Lizard Ears (Floppy Kobold)
-marking-LizardHornsFloppyKoboldEars = Lizard Ears (Floppy Kobold)
+marking-LizardHornsFloppyKoboldEars-horns_floppy_kobold_ears = Уши Унатха (Вислоухий Кобольд)
+marking-LizardHornsFloppyKoboldEars = Уши Унатха (Вислоухий Кобольд)
 
-marking-LizardChestUnderbelly-body_underbelly = Lizard Chest (Underbelly)
-marking-LizardChestUnderbelly = Lizard Chest (Underbelly)
+marking-LizardChestUnderbelly-body_underbelly = Грудь Унатха (Подбрюшье)
+marking-LizardChestUnderbelly = Грудь Унатха (Подбрюшье)
 
-marking-LizardChestBackspikes-body_backspikes = Lizard Back spikes (Four)
-marking-LizardChestBackspikes = Lizard Back spikes (Four)
+marking-LizardChestBackspikes-body_backspikes = Спинные шипы Унатха (Четыре)
+marking-LizardChestBackspikes = Спинные шипы Унатха (Четыре)
 
-marking-LizardChestFin-body_fin = Lizard Fin
-marking-LizardChestFin = Lizard Fin
+marking-LizardChestFin-body_fin = Плавник Унатха
+marking-LizardChestFin = Плавник Унатха
 
-marking-LizardSnoutSplotch = Lizard Snout (Splotch)
-marking-LizardSnoutSplotch-snout_splotch_primary = Muzzle
-marking-LizardSnoutSplotch-snout_splotch_secondary = Snoot
+marking-LizardSnoutSplotch = Морда Унатха (Пятно)
+marking-LizardSnoutSplotch-snout_splotch_primary = Морда
+marking-LizardSnoutSplotch-snout_splotch_secondary = Мордочка
 
-marking-LizardSnoutVisageSharp = Lizard Visage (Sharp)
-marking-LizardSnoutVisageSharp-visage_sharp = Lizard Visage (Sharp)
+marking-LizardSnoutVisageSharp = Лицо Унатха (Острые)
+marking-LizardSnoutVisageSharp-visage_sharp = Лицо Унатха (Острые)
 
-marking-LizardSnoutVisageRound = Lizard Visage (Round)
-marking-LizardSnoutVisageRound-visage_round = Lizard Visage (Round)
+marking-LizardSnoutVisageRound = Лицо Унатха (Округлая)
+marking-LizardSnoutVisageRound-visage_round = Лицо Унатха (Округлая)

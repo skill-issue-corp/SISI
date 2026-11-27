@@ -1,10 +1,10 @@
-ent-LavalandHierophantSquare = hierophant square
+ent-LavalandHierophantSquare = квадрат иерофанта
     .desc = { "" }
 
-ent-LavalandHierophantChaser = hierophant chaser
+ent-LavalandHierophantChaser = преследователь иерофанта
     .desc = { "" }
-    .suffix = DO NOT MAP
+    .suffix = НЕ МАППИТЬ
 
 ent-LavalandHierophantSquareSafe = { ent-LavalandHierophantSquare }
     .desc = { ent-LavalandHierophantSquare.desc }
-    .suffix = Safe
+    .suffix = Безопасный

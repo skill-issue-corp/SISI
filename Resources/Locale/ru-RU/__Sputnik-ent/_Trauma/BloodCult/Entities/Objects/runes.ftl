@@ -2,37 +2,37 @@ ent-BaseCultBlood = { ent-BaseBloodContraband }
     .desc = { ent-BaseBloodContraband.desc }
 
 ent-BaseCultRune = { ent-BaseCultBlood }
-    .desc = An intricate, eldritch smearing and carving of blood. Who knows what it could be for?
+    .desc = Сложный потусторонний узор из кровавых мазков и насечек. Кто знает, для чего он нужен?
 
-ent-CultRuneUnfinishedRegular = blood ring
-    .desc = A sizeable smearing of blood, it definitely isn't red crayon.
+ent-CultRuneUnfinishedRegular = кровавый круг
+    .desc = Большое пятно размазанной крови. Это точно не красный мелок.
 
-ent-CultRuneUnfinishedLarge = large blood ring
-    .desc = A huge smearing of blood in a circle, it's distinctly evil and unnatural.
+ent-CultRuneUnfinishedLarge = большой кровавый круг
+    .desc = Огромный круг размазанной крови, явно зловещий и противоестественный.
 
-ent-CultRuneOffering = rune of offering
+ent-CultRuneOffering = руна подношения
     .desc = { ent-BaseCultRune.desc }
 
-ent-CultRuneEmpower = rune of empower
+ent-CultRuneEmpower = руна усиления
     .desc = { ent-BaseCultRune.desc }
 
-ent-CultRuneTeleport = rune of teleportation
+ent-CultRuneTeleport = руна телепортации
     .desc = { ent-BaseCultRune.desc }
 
-ent-CultRuneRevive = rune of rejuvenation
+ent-CultRuneRevive = руна воскрешения
     .desc = { ent-BaseCultRune.desc }
 
-ent-CultRuneBarrier = rune of barrier
+ent-CultRuneBarrier = руна барьера
     .desc = { ent-BaseCultRune.desc }
 
-ent-CultRuneSummoning = rune of summoning
+ent-CultRuneSummoning = руна призыва
     .desc = { ent-BaseCultRune.desc }
 
-ent-CultRuneBloodBoil = rune of boiling blood
+ent-CultRuneBloodBoil = руна кипящей крови
     .desc = { ent-BaseCultRune.desc }
 
-ent-CultRuneApocalypse = rune of apocalypse
+ent-CultRuneApocalypse = руна апокалипсиса
     .desc = { ent-BaseCultRune.desc }
 
-ent-CultRuneDimensionalRending = rune of dimensional rending
+ent-CultRuneDimensionalRending = руна разрыва измерений
     .desc = { ent-BaseCultRune.desc }

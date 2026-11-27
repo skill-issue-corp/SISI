@@ -1,14 +1,14 @@
-ent-ClothingNeckTieBase = tie
-    .desc = A neosilk clip-on tie.
+ent-ClothingNeckTieBase = галстук
+    .desc = Галстук из неошёлка на зажиме.
 
-ent-ClothingNeckTieRed = red tie
-    .desc = A neosilk clip-on red tie.
+ent-ClothingNeckTieRed = красный галстук
+    .desc = Красный галстук из неошёлка на зажиме.
 
-ent-ClothingNeckTieDet = detective's tie
-    .desc = A loosely tied necktie, a perfect accessory for the over-worked detective.
+ent-ClothingNeckTieDet = галстук детектива
+    .desc = Галстук с ослабленным узлом, идеальный аксессуар для замотанного детектива.
 
-ent-ClothingNeckTieSci = scientist's tie
-    .desc = Why do we all have to wear these ridiculous ties?
+ent-ClothingNeckTieSci = галстук учёного
+    .desc = Почему мы все должны носить эти нелепые галстуки?
 
-ent-ClothingNeckTieSerious = serious tie
-    .desc = A perfectly tied tie to get you through the working day.
+ent-ClothingNeckTieSerious = серьёзный галстук
+    .desc = Безупречно завязанный галстук, чтобы пережить рабочий день.

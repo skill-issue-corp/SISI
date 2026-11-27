@@ -7,16 +7,16 @@ ent-BasePartSurgery = { ent-SurgeryBase }
 ent-SurgeryAttachBase = { ent-SurgeryBase }
     .desc = { ent-SurgeryBase.desc }
 
-ent-SurgeryOpenIncision = Open Incision
+ent-SurgeryOpenIncision = Создание Разреза
     .desc = { ent-BasePartSurgery.desc }
 
-ent-SurgeryStopBloodOutput = Stop Constant Blood Output
+ent-SurgeryStopBloodOutput = Остановка Непрерывного Кровотечения
     .desc = { ent-BasePartSurgery.desc }
 
-ent-SurgeryFixDismemberment = Fix Dismemberment Leftovers
+ent-SurgeryFixDismemberment = Обработка Раны После Отрыва Конечности
     .desc = { ent-BasePartSurgery.desc }
 
-ent-SurgeryCloseIncision = Close Incision
+ent-SurgeryCloseIncision = Закрытие Разреза
     .desc = { ent-BasePartSurgery.desc }
 
 ent-SurgeryCloseIncisionHead = { ent-SurgeryCloseIncision }
@@ -25,59 +25,59 @@ ent-SurgeryCloseIncisionHead = { ent-SurgeryCloseIncision }
 ent-SurgeryCloseIncisionTorso = { ent-SurgeryCloseIncision }
     .desc = { ent-SurgeryCloseIncision.desc }
 
-ent-SurgeryOpenRibcage = Open Ribcage
+ent-SurgeryOpenRibcage = Вскрытие Грудной Клетки
     .desc = { ent-SurgeryBase.desc }
 
-ent-SurgeryRemovePart = Amputate
+ent-SurgeryRemovePart = Ампутация
     .desc = { ent-SurgeryBase.desc }
 
-ent-SurgeryMendBones = Mend Bones
+ent-SurgeryMendBones = Сращивание Костей
     .desc = { ent-BasePartSurgery.desc }
 
-ent-SurgeryHealOrgans = Heal Organs
+ent-SurgeryHealOrgans = Лечение Органов
     .desc = { ent-BasePartSurgery.desc }
 
-ent-SurgeryAttachHead = Attach Head
+ent-SurgeryAttachHead = Присоединение Головы
     .desc = { ent-SurgeryAttachBase.desc }
 
-ent-SurgeryAttachLeftArm = Attach Left Arm
+ent-SurgeryAttachLeftArm = Присоединение Левой Руки
     .desc = { ent-SurgeryAttachBase.desc }
 
-ent-SurgeryAttachRightArm = Attach Right Arm
+ent-SurgeryAttachRightArm = Присоединение Правой Руки
     .desc = { ent-SurgeryAttachBase.desc }
 
-ent-SurgeryAttachLeftLeg = Attach Left Leg
+ent-SurgeryAttachLeftLeg = Присоединение Левой Ноги
     .desc = { ent-SurgeryAttachBase.desc }
 
-ent-SurgeryAttachRightLeg = Attach Right Leg
+ent-SurgeryAttachRightLeg = Присоединение Правой Ноги
     .desc = { ent-SurgeryAttachBase.desc }
 
-ent-SurgeryAttachLeftHand = Attach Left Hand
+ent-SurgeryAttachLeftHand = Присоединение Левой Кисти
     .desc = { ent-SurgeryAttachBase.desc }
 
-ent-SurgeryAttachRightHand = Attach Right Hand
+ent-SurgeryAttachRightHand = Присоединение Правой Кисти
     .desc = { ent-SurgeryAttachBase.desc }
 
-ent-SurgeryAttachLeftFoot = Attach Left Foot
+ent-SurgeryAttachLeftFoot = Присоединение Левой Стопы
     .desc = { ent-SurgeryAttachBase.desc }
 
-ent-SurgeryAttachRightFoot = Attach Right Foot
+ent-SurgeryAttachRightFoot = Присоединение Правой Стопы
     .desc = { ent-SurgeryAttachBase.desc }
 
-ent-SurgeryAttachTail = Attach Tail
+ent-SurgeryAttachTail = Присоединение Хвоста
     .desc = { ent-SurgeryAttachBase.desc }
 
-ent-SurgeryTendWoundsBrute = Tend Bruise Wounds
+ent-SurgeryTendWoundsBrute = Лечение Ушибленных Ран
     .desc = { ent-SurgeryBase.desc }
 
-ent-SurgeryTendWoundsBurn = Tend Burn Wounds
+ent-SurgeryTendWoundsBurn = Лечение Ожоговых Ран
     .desc = { ent-SurgeryBase.desc }
 
-ent-SurgeryInsertItem = Cavity Implant
+ent-SurgeryInsertItem = Имплантация в Полость
     .desc = { ent-SurgeryBase.desc }
 
-ent-SurgeryLobotomize = Lobotomize
+ent-SurgeryLobotomize = Лоботомия
     .desc = { ent-SurgeryBase.desc }
 
-ent-SurgeryMendBrainTissue = Mend brain tissue
+ent-SurgeryMendBrainTissue = Восстановить мозговую ткань
     .desc = { ent-SurgeryBase.desc }

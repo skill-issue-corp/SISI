@@ -1,11 +1,11 @@
-ent-MachineGCSLowCircuitboard = low-power gunnery control server board
-    .desc = A machine board for a GCS.
+ent-MachineGCSLowCircuitboard = плата маломощного сервера управления огнём
+    .desc = Машинная плата для сервера управления огнём.
 
-ent-MachineGCSMediumCircuitboard = medium-power gunnery control server board
-    .desc = A machine board for a GCS.
+ent-MachineGCSMediumCircuitboard = плата сервера управления огнём средней мощности
+    .desc = Машинная плата для сервера управления огнём.
 
-ent-MachineGCSHighCircuitboard = high-power gunnery control server board
-    .desc = A machine board for a GCS.
+ent-MachineGCSHighCircuitboard = плата сервера управления огнём высокой мощности
+    .desc = Машинная плата для сервера управления огнём.
 
-ent-MachineGCSUltraCircuitboard = ultra-high-power gunnery control server board
-    .desc = A machine board for a GCS.
+ent-MachineGCSUltraCircuitboard = плата сверхмощного сервера управления огнём
+    .desc = Машинная плата для сервера управления огнём.

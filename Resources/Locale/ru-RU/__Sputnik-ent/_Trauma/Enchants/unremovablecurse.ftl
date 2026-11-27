@@ -1,2 +1,2 @@
-ent-CurseUnremovable = Binding Curse
+ent-CurseUnremovable = Проклятие Привязки
     .desc = { ent-BaseEnchant.desc }

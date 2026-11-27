@@ -32,176 +32,176 @@
 
 ## Spam letters
 
-delivery-spam-1 =   Robust Toolbox - Special Offer!
-    .desc =         An advertisement for robust toolboxes.
+delivery-spam-1 =   Робастный Ящик Для Инструментов - Специальное Предложение!
+    .desc =         Реклама робастных ящиков для инструментов.
     .content =      [color=blue][head=1]
                     ░░▄▀░░
-                    ░▄█▄▄▀ [head=3]ROBUST - TOOLBOXES AND TOOLS[/head]
+                    ░▄█▄▄▀ [head=3]РОБАСТ - ЯЩИКИ И ИНСТРУМЕНТЫ[/head]
                     ██▀░░░ [/head][/color]
 
-                    {"[bold]BUY ONE TOOLBOX, GET ONE SET OF TOOLS FOR FREE![/bold]"}
+                    {"[bold]КУПИТЕ ОДИН ЯЩИК И ПОЛУЧИТЕ ОДИН НАБОР ИНСТРУМЕНТОВ БЕСПЛАТНО![/bold]"}
 
-                    AS YOU ARE ONE OF OUR VALUED CUSTOMERS, YOU GET A CUSTOMER BONUS, YOUR TOOLS COME RUST AND LEAD-FREE!!! ISN'T THAT AMAZING? THE TOOLBOX ON THE OTHER HAND, COMES WITH EXTRA LEAD! AMAZING FOR SMASHING SKULLS AND STOPPING RADIATION ALIKE!
+                    ВЫ НАШ ЦЕННЫЙ КЛИЕНТ, И ВАМ ПОЛАГАЕТСЯ БОНУС: ИНСТРУМЕНТЫ БЕЗ РЖАВЧИНЫ И СВИНЦА!!! ПОТРЯСАЮЩЕ, ПРАВДА? ЗАТО В ЯЩИКЕ СВИНЦА ЕЩЁ БОЛЬШЕ! ОТЛИЧНО КАК ДЛЯ ДРОБЛЕНИЯ ЧЕРЕПОВ, ТАК И ДЛЯ ЗАЩИТЫ ОТ РАДИАЦИИ!
 
-                    {"[bold]ALL THIS AND POSSIBLY MORE FOR ONLY ONE ORGAN![/bold]"}
+                    {"[bold]ВСЁ ЭТО И, ВОЗМОЖНО, ДАЖЕ БОЛЬШЕ ВСЕГО ЗА ОДИН ОРГАН![/bold]"}
 
-                    ROBUST - TOOLBOXES AND TOOLS:%
-                    -LEAD AND ASBESTOS FREE!
-                    -OR WITH LEAD AND ASBESTOS, IF YOU PREFER!
-                    -CHEAP! ONLY ONE ORGAN! THAT'S LESS THAN TWO ORGANS!
-                    -DOESN'T HAVE TO BE YOUR ORGAN! WE DON'T JUDGE!
+                    РОБАСТ - ЯЩИКИ И ИНСТРУМЕНТЫ:%
+                    -БЕЗ СВИНЦА И АСБЕСТА!
+                    -ИЛИ СО СВИНЦОМ И АСБЕСТОМ, ЕСЛИ ВАМ ТАК БОЛЬШЕ НРАВИТСЯ!
+                    -ДЁШЕВО! ВСЕГО ОДИН ОРГАН! ЭТО МЕНЬШЕ ДВУХ ОРГАНОВ!
+                    -ОРГАН МОЖЕТ БЫТЬ ЧУЖИМ! МЫ НЕ ОСУЖДАЕМ!
 
-delivery-spam-2 =   Reasons to choose Nanotrasen!
-    .desc =         An advertisement for Nanotrasen.
+delivery-spam-2 =   Причины выбрать NanoTrasen!
+    .desc =         Реклама NanoTrasen.
     .content =      {-delivery-header-nanotrasen}
 
-                    {"[head=2]TOP THREE REASONS WHY THE SYNDICATE IS INCOMPETENT[/head]"}
+                    {"[head=2]ТРИ ГЛАВНЫЕ ПРИЧИНЫ, ПОЧЕМУ СИНДИКАТ НЕКОМПЕТЕНТЕН[/head]"}
 
-                    {"[bold]NUMBER ONE[/bold]"}
-                    THEIR SLEEPER AGENTS ARE INCOMPETENT! THEY CAN'T EVEN KILL A PASSENGER WITH A DEATHWISH!
+                    {"[bold]НОМЕР ОДИН[/bold]"}
+                    ИХ СПЯЩИЕ АГЕНТЫ НЕКОМПЕТЕНТНЫ! НЕ МОГУТ ПРИКОНЧИТЬ ДАЖЕ ПАССАЖИРА, КОТОРЫЙ САМ МЕЧТАЕТ УМЕРЕТЬ!
 
-                    {"[bold]NUMBER TWO[/bold]"}
-                    THEIR CIVILIANS ARE WEAK TO BULLETS! TRUST ME, WE TRIED! UNLIKE THE NANOTRASEN CIVILIANS, SYNDICATE CIVILIANS DIE FROM A BULLET TO THE SKULL! BULLETS WE HAVE!
+                    {"[bold]НОМЕР ДВА[/bold]"}
+                    У ИХ ГРАЖДАНСКИХ УЯЗВИМОСТЬ К ПУЛЯМ! УЖ ПОВЕРЬТЕ, МЫ ПРОВЕРЯЛИ! В ОТЛИЧИЕ ОТ ГРАЖДАНСКИХ NanoTrasen, ГРАЖДАНСКИЕ СИНДИКАТА УМИРАЮТ ОТ ПУЛИ В ЧЕРЕП! А ПУЛИ У НАС ЕСТЬ!
 
-                    {"[bold]NUMBER THREE[/bold]"}
-                    THEIR LOGO IS HORRIBLE! THEY THINK THEY'RE COOL WITH THEIR LOGO! OOH, LOOK AT ME, I'M SO COOL! OOH, SNAKE THAT'S ALSO AN S! HOW CREATIVE! MY THREE YEAR OLD SON COULD DRAW A BETTER LOGO!
+                    {"[bold]НОМЕР ТРИ[/bold]"}
+                    У НИХ УЖАСНЫЙ ЛОГОТИП! ОНИ ДУМАЮТ, ЧТО С ЭТИМ ЛОГОТИПОМ ОНИ КРУТЫЕ! У-У-У, ПОГЛЯДИТЕ НА МЕНЯ, КАКОЙ Я КРУТОЙ! У-У-У, ЗМЕЯ В ФОРМЕ S! КАКАЯ ВЫДУМКА! МОЙ ТРЁХЛЕТНИЙ СЫН НАРИСУЕТ ЛОГОТИП ПОЛУЧШЕ!
 
-delivery-spam-3 =   Reasons to choose The Syndicate!
-    .desc =         An advertisement for The Syndicate.
+delivery-spam-3 =   Причины выбрать Синдикат!
+    .desc =         Реклама Синдиката.
     .content =      {-delivery-header-syndicate}
 
-                    {"[head=2]TOP THREE REASONS WHY NANOTRASEN IS INCOMPETENT[/head]"}
+                    {"[head=2]ТРИ ГЛАВНЫЕ ПРИЧИНЫ, ПОЧЕМУ NanoTrasen НЕКОМПЕТЕНТНА[/head]"}
 
-                    {"[bold]NUMBER ONE[/bold]"}
-                    THEIR GUNS SUCK! THEY DON'T EVEN HAVE SNIPER RIFLES! THEIR SECURITY FORCES CAN'T EVEN CARRY BIG GUNS IN MOST SITUATIONS!
+                    {"[bold]НОМЕР ОДИН[/bold]"}
+                    ИХ ПУШКИ - ОТСТОЙ! У НИХ ДАЖЕ СНАЙПЕРСКИХ ВИНТОВОК НЕТ! ИХ СЛУЖБЕ БЕЗОПАСНОСТИ ЧАЩЕ ВСЕГО ДАЖЕ БОЛЬШИЕ ПУШКИ НОСИТЬ НЕЛЬЗЯ!
 
-                    {"[bold]NUMBER TWO[/bold]"}
-                    THEIR COMMANDERS? THEY DIE FROM A SINGLE SHOT! NO COOL ARMOR! JUST BANG, DEAD! LAME! OUR COMMANDERS GET COOL HARDSUITS!
+                    {"[bold]НОМЕР ДВА[/bold]"}
+                    ИХ КОМАНДИРЫ? УМИРАЮТ ОТ ОДНОГО ВЫСТРЕЛА! НИКАКОЙ КРУТОЙ БРОНИ! ПРОСТО БАХ - И ТРУП! ОТСТОЙ! А У НАШИХ КОМАНДИРОВ ЕСТЬ КРУТЫЕ СКАФАНДРЫ!
 
-                    {"[bold]NUMBER THREE[/bold]"}
-                    THEIR MURDER METHODS ARE UNINSPIRED! IT'S JUST GUN! THERE'S NO THROWING PEOPLE INTO DEEP SPACE, NO FEEDING PEOPLE INTO RECYCLERS WITH SAFETY MODE DISENGAGED, NO SLIPPING BOMBS INTO POCKETS! SO BORING!
+                    {"[bold]НОМЕР ТРИ[/bold]"}
+                    У НИХ СКУЧНЫЕ СПОСОБЫ УБИЙСТВА! ОДНИ ПУШКИ! НИ ТЕБЕ ВЫБРОСИТЬ КОГО-НИБУДЬ В ОТКРЫТЫЙ КОСМОС, НИ ЗАСУНУТЬ В ПЕРЕРАБОТЧИК С ОТКЛЮЧЁННОЙ ЗАЩИТОЙ, НИ ПОДЛОЖИТЬ БОМБУ В КАРМАН! КАКАЯ СКУКОТА!
 
-delivery-spam-4 =   Tired of science blowing up?
-    .desc =         Follow these simple steps to ensure it never happens again!
-    .content =      [head=3]Science will LOVE you for this!!
+delivery-spam-4 =   Надоело, что наука взрывается?
+    .desc =         Сделайте несколько простых шагов, чтобы это больше не повторилось!
+    .content =      [head=3]Наука вас за это ПОЛЮБИТ!!
 
-                    are [bold]YOU[/bold] Tired of your Station's Science Department blowing up withoutdoing any actual science?
-                    Well Your in luck![/head]
+                    неужели [bold]ВЫ[/bold] Устали от того, что Научный Отдел вашей Станции взрывается, так и непродвинув науку?
+                    Тогда Вам повизло![/head]
 
-                    Folow this simple guide, and we'll ensure your Science [italic]Never Works Again![/italic]
+                    Следуйте этой простой инструкцыи, и мы гарантируем, что ваша Наука [italic]Больше Никогда Не Заработает![/italic]
 
-                    Simply do the following:
-                    - Step One: Locate your Science Department's Research Server
-                    - Step Two: Un-anchor the Research Server from the ground
-                    - Step Three: Hurl the Research Server into space, preferably in the direction of the Spider Clan Super Secret Space Dojo
-                    - Step Four: Wait appproximately 3-5 Business Shifts
-                    - Step Five: Our Workers at Spid-ex Inc will provide your station with one (1) techdisk per week.
+                    Просто сделайте следующее:
+                    - Шаг Первый: Найдите Сервер НиО вашего Научного Отдела
+                    - Шаг Второй: Открепите Сервер НиО от пола
+                    - Шаг Третий: Швырните Сервер НиО в космос, желательно в сторону Сверхсекретного Космического Додзё Клана Паука
+                    - Шаг Четвёртый: Подождите прримерно 3-5 Рабочих Смен
+                    - Шаг Пятый: Наши Работники из «Пауч-Экспресс» будут доставлять на вашу станцию один (1) диск технологий в неделю.
 
-                    {"[color=lightgray]Note: Spider Clan is not responsible for any punishment issued by your supervisors.[/color]"}
+                    {"[color=lightgray]Примечание: Клан Паука не отвечает за наказания, наложенные вашим руководством.[/color]"}
 
-delivery-spam-5 =   FREE ALL AXCESS!!
-    .desc =         Did you ever want free all access?!
-    .content =      [head=3]Have You ever wanted to have [italic][color=green]Free [bold]All Axcess!?!?[/bold][/color][/italic][/head]
-                    {"[head=2]Well NOW YOU CAN!![/head]!"}
+delivery-spam-5 =   БИСПЛАТНЫЙ ПОЛНЫЙ ДОСТУП!!
+    .desc =         Хотели когда-нибудь получить полный доступ бесплатно?!
+    .content =      [head=3]Хотели Вы когда-нибудь получить [italic][color=green]Бисплатный [bold]Полный Доступ!?!?[/bold][/color][/italic][/head]
+                    {"[head=2]Так вот, ТЕПЕРЬ МОЖНО!![/head]!"}
 
-                    All you need to do is call [color=blue]555-GOUR-LECKSSS[/color] and state your Staton ID# !!!
-                    Once youve done that,  we can simply remotely query the wallet of Yourstation's Cargo department, extacting our required fees of three [italic] EASY[/italic] payments, allowing you to claim your
-                    {"[head=2][color=green] [bolditalic] FREE AA!!!!!!!!!![/bolditalic][/color][/head]"}
+                    Вам всего-то нужно позвонить по номеру [color=blue]555-GOUR-LECKSSS[/color] и назвать Станцыи ID# !!!
+                    Как зделаете это,  мы удалённо обратимся к кошельку отдела Карго Вашейстанции и спишым необходимую сумму тремя [italic] ЛЁГКИМИ[/italic] платежами, после чего вам достанется
+                    {"[head=2][color=green] [bolditalic] БИСПЛАТНЫЙ ПД!!!!!!!!!![/bolditalic][/color][/head]"}
 
 
                     {"[color=gray]"}
-                    {"[bullet/]Note: station ID must be stated in the format of \"NT/NX - ###\""}
-                    {"[bullet/]Note: Payments lodged to the client's station's cargo department amount to roughly $5000 spesos per transaction, not including individual processing fees"}
-                    {"[bullet/]Note: We at Gour-Lecksss LMT. are not responsible if your station's HoP forces you to fill out an ACTUAL Free AA form if they find out about this letter"}
+                    {"[bullet/]Примечание: ID станции необходимо назвать в формате \"NT/NX - ###\""}
+                    {"[bullet/]Примечание: Сумма, списываемая с отдела карго станции клиента, составляет около $5000 спесо за операцию без учёта комиссии за обработку"}
+                    {"[bullet/]Примечание: Мы, ЗАО «Гур-Леккк», не отвечаем за то, что ГП вашей станции заставит вас заполнять НАСТОЯЩИЙ бланк на Бисплатный ПД, если узнает об этом письме"}
                     {"[/color]"}
 
-delivery-spam-6 =   NOTICE FROM NANOTRASN!!
-    .desc =         An official notice from the CEO of Nanotrasn?!
-    .content =      [color=red] THIS IS AN OFICAL NOTICE FROM THE HEAD OF [color=blue]NANOTRASN[/color][/color]
+delivery-spam-6 =   УВЕДОМЛЕНИЕ ОТ NANOTRASN!!
+    .desc =         Официальное уведомление от гендиректора Nanotrasn?!
+    .content =      [color=red] ЭТО ОФИЦАЛЬНОЕ УВЕДОМЛЕНИЕ ОТ ГЛАВЫ [color=blue]NANOTRASN[/color][/color]
 
-                    Dear Sir, Madam, or Other Insignificat station personell
+                    Уважаемые Господин, Госпожа или Прочий Малозначимый пэрсонал станции
 
-                    If you do not wish for this station to be declared Unprofitable in the eyes of
-                    {"[head=2][italic] Our Great and Glorious [color=blue]Nanotransen[[/color][/head]"}
-                    Then you must organize for three [color=blue]Nt[/color] Standard Stacks of [color=blue]nt[/color] Standard Gold Ingots to be sent to your station's Away Trade Outpots within 5 [color=blue]nT[/color] Standard work shifts.
+                    Если вы не хотите, чтобы эту станцию признали Нерентабельной в глазах
+                    {"[head=2][italic] Нашей Великой и Славной [color=blue]Nanotransen[[/color][/head]"}
+                    То организуйте доставку трёх [color=blue]Nt[/color] Стандартных Стопок [color=blue]nt[/color] Стандартных Золотых Слитков на Удалённый Торговый Аванпост вашей станции за 5 [color=blue]nT[/color] Стандартных рабочих смен.
 
-                    {"[head=2][color=red]IGNORE THIS ORDER AT RISK OF RETRIBUTON FROM [color=green]CENTCO[/color]!!!!![/head][/color]"}
+                    {"[head=2][color=red]ПРОИГНОРИРУЕТЕ ПРИКАЗ - ПОСЛЕДУЕТ ВОЗМЕЗДЕ ОТ [color=green]ЦЕНТКО[/color]!!!!![/head][/color]"}
 
-delivery-spam-7 =   Send reinforcements!
-    .desc =         An official notice from... an alternate timeline?
+delivery-spam-7 =   Пришлите подкрепление!
+    .desc =         Официальное уведомление из... альтернативной временной линии?
     .content =      {-delivery-header-nanotrasen-alternate-timeline}
-                    {"[head=2]This is an official notice from the [color=red]Chief Security Officer[/color] at a Nanotrasen's Space Station 15.[/head]"}
+                    {"[head=2]Это официальное уведомление от [color=red]Главы Службы Безопасности[/color] Космической Станции 15 компании NanoTrasen.[/head]"}
 
-                    To whoever receives this letter. I am Sergeant Rigel. My occupation is the CSO. We need immediate assistance.
+                    Тому, кто получит это письмо. Я Сержант Ригель. Занимаю пост ГСБ. Нам срочно нужна помощь.
 
-                    Our station is currently under attack by Atomic Agents, this letter is being thrown into a destabilized bluespace anomaly created by our [color=purple]Head of Research[/color].
+                    В эту минуту на нашу станцию напали Атомные Агенты. Это письмо бросают в нестабильную блюспейс-аномалию, которую создал наш [color=purple]Научный Руководитель[/color].
 
-                    I am currently bolted in the Bridge, if you receive this message, please send aid immediately. I don't know how much longer we can last.
+                    Сейчас я заперт на Мостике. Если получите это сообщение, немедленно пришлите помощь. Не знаю, сколько мы ещё продержимся.
 
-                    Glory to Nanotrasen.
+                    Слава NanoTrasen.
 
-delivery-spam-8 =   The Children of Nar'Sie
-    .desc =         A local cult is looking for recruits.
-    .content =      [color=#134975][head=2]The Children of Nar'Sie[/head][/color]
-                                                    The Beginning of a New Era
+delivery-spam-8 =   Дети Нар'Си
+    .desc =         Местный культ ищет новобранцев.
+    .content =      [color=#134975][head=2]Дети Нар'Си[/head][/color]
+                                                    Начало Новой Эпохи
                     {"[bold]══──══──══──══──══──══──══──══──══──══──══[/bold]"}
 
-                    {"[head=3]Do you feel lost in the vastness of our cosmos?[/head]"}
-                    In the modern era, it's easy for wayward souls to feel like cogs in the machine of vast corporations.
+                    {"[head=3]Чувствуете себя потерянными в просторах нашего космоса?[/head]"}
+                    В наше время заблудшим душам легко почувствовать себя винтиками в машине огромных корпораций.
 
-                    {"[head=3]Do you feel as if you're made for a better purpose?[/head]"}
-                    Do you tire of the life of mundanity forced upon you? Mopping floors, delivering boxes, or filling out endless paperwork?
+                    {"[head=3]Вам кажется, что вы рождены для большего?[/head]"}
+                    Устали от навязанной вам рутины? От мытья полов, доставки коробок или бесконечных бланков?
 
-                    {"[head=3]Do you want to make the galaxy a better place?[/head]"}
+                    {"[head=3]Хотите сделать галактику лучше?[/head]"}
 
 
-                    If you answered "Yes" to any of these questions, then contact one of our representatives today! We have members across stations all over the galaxy eager to welcome new members into our flock. Be one of the blades that helps welcome the Geometer of Blood into our universe so that all may know his bliss!
+                    Если вы ответили «Да» хотя бы на один вопрос, свяжитесь с нашим представителем уже сегодня! На станциях по всей галактике наши единомышленники с радостью примут в нашу паству новых братьев и сестёр. Станьте клинком, который поможет встретить Геометра Крови в нашей вселенной, дабы все познали его блаженство!
 
-                    All you have to do is say [color=#FF0000][italic]"Sas'so c'arta forbici!"[/italic][/color]
+                    Вам нужно лишь произнести [color=#FF0000][italic]«Sas'so c'arta forbici!»[/italic][/color]
 
-delivery-spam-9 =   Do you want to fight?!
-    .desc =         Advertisement for a local fighting club.
+delivery-spam-9 =   Хотите драться?!
+    .desc =         Реклама местного бойцовского клуба.
     .content =      [color=#aaaaaa]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-                                                {"[bold][head=1]THE RAGE CAGE[/head][/bold]"}
+                                                {"[bold][head=1]КЛЕТКА ЯРОСТИ[/head][/bold]"}
                     {"[color=#aaaaaa]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]"}
-                    {"[bold][color=#FF0000][head=3]DO YOU WANT TO FIGHT?[/head][/color][/bold]"}
-                    {"[bold][color=#FF0000][head=3]DO YOU WANT TO WIN?[/head][/color][/bold]"}
-                    {"[bold][color=#FF0000][head=3]DO YOU WANT TO DOMINATE?![/head][/color][/bold]"}
+                    {"[bold][color=#FF0000][head=3]ХОТИТЕ ДРАТЬСЯ?[/head][/color][/bold]"}
+                    {"[bold][color=#FF0000][head=3]ХОТИТЕ ПОБЕЖДАТЬ?[/head][/color][/bold]"}
+                    {"[bold][color=#FF0000][head=3]ХОТИТЕ ДОМИНИРОВАТЬ?![/head][/color][/bold]"}
 
 
 
-                    Then come on down to... [color=#FF0000][bold][head=2]THE RAGE CAGE[/head][/bold][/color]
+                    Тогда добро пожаловать в... [color=#FF0000][bold][head=2]КЛЕТКУ ЯРОСТИ[/head][/bold][/color]
 
 
 
-                    Hidden in the depths of your local Nanotrasen station is the patented [color=#FF0000][bold]RAGE CAGE[/bold][/color]. An electrified fighting arena designed for only the strongest of fighters, the [color=#FF0000][bold]RAGE CAGE[/bold][/color] seperates the Wimps from the Warriors, the Scrubs from the Soldiers, and the Losers from the Winners.
+                    В глубинах вашей станции NanoTrasen спрятана запатентованная [color=#FF0000][bold]КЛЕТКА ЯРОСТИ[/bold][/color]. Боевая арена под напряжением открыта самым сильным бойцам: [color=#FF0000][bold]КЛЕТКА ЯРОСТИ[/bold][/color] отделяет Слабаков от Воинов, Салаг от Солдат и Неудачников от Победителей.
                     ──────────────────────────────────────────
-                    In the [color=#FF0000][bold]RAGE CAGE[/bold][/color] there is only one rule: [italic]Two fighters enter. One fighter leaves. [/italic]
+                    В [color=#FF0000][bold]КЛЕТКЕ ЯРОСТИ[/bold][/color] лишь одно правило: [italic]Двое бойцов входят. Один боец выходит. [/italic]
                     ──────────────────────────────────────────
-                    No weapons, no armor, just pure unadulterated [bold]COMBAT[/bold]. Don't lose out and be a [bold]WIMP[/bold]. Win the glory of being your station's most robust fighter in the [color=#FF0000][bold]RAGE CAGE[/bold][/color] today!
+                    Никакого оружия, никакой брони, только чистый, неподдельный [bold]БОЙ[/bold]. Не упустите шанс и не будьте [bold]СЛАБАКОМ[/bold]. Завоюйте славу самого робастного бойца станции в [color=#FF0000][bold]КЛЕТКЕ ЯРОСТИ[/bold][/color] уже сегодня!
 
-delivery-spam-10 =  DO NOT OPEN THIS MAIL
-    .desc =         You have been cursed!
-    .content =      [color=#FF0000][bold][head=2]STOP[/head][/bold][/color]
+delivery-spam-10 =  НЕ ВСКРЫВАЙТЕ ЭТО ПИСЬМО
+    .desc =         Вас прокляли!
+    .content =      [color=#FF0000][bold][head=2]СТОЙТЕ[/head][/bold][/color]
 
-                    If yore reading this letter...[color=#FF0000][head=3]YOUR ALRAEDY CURSED!!![/head][/color]
+                    Если вы читаете это писмо...[color=#FF0000][head=3]ВАС УЖЭ ПРОКЛЯЛИ!!![/head][/color]
 
-                    Im sorry to do this to you but I have to warn you about:
+                    Простите што так вышло но я должен вас предупредить:
 
-                            {"[color=#FF0000][head=1]The Ghost of The Bloody Lizardd[/head][/color]"}
+                            {"[color=#FF0000][head=1]Призрак Кровавой Ящирицы[/head][/color]"}
 
-                    It all started when i to got a letter in the mail: it was a scary image of a lizard plushie with BLOODY EYES staring RIGHT AT ME. the letter said I was cursed...and if I didn't send this letter to 30 people within 30 days then the Blood Lizard would come in the middle of the night...
+                    Всё началось когда я то же получил письмо: там была страшная картинка плюшевой ящерки с КРОВАВЫМИ ГЛАЗАМИ, которые смотрели ПРЯМО НА МЕНЯ. в письме сказали что меня прокляли...и если я не отошлю его 30 людям за 30 дней то Кровавая Ящерица придёт посреди ночи...
 
-                    {"[italic]and KILL ME.[/italic]"}
+                    {"[italic]и УБЬЁТ МЕНЯ.[/italic]"}
 
-                    im sorry......but your one of the 30 people i have to send this too..and now yoor cursed too...
+                    прастите......но вы один из 30 кому мне надо это отправить..и теперь вас то же прокляли...
 
-                    please send this letter to 30 other people to stop the curse! you can still save yorself! theres still time! don't let the bloody lizard get you too, and take this thingie! it will keep you safe from dark spiirts...[head=3]FOR NOW[/head]
-
-
+                    пжалуйста отправте это письмо ещё 30 людям чтоб снять проклятие! вы ещё можете спастись! время ещё есть! не дайте кровавой ящерке добраться и до вас, и возьмите эту штуковину! она защитит вас от тёмных духав...[head=3]ПОКА ЧТО[/head]
 
 
-                    {"[head=1]OH NO THERE IT IS!!!!!!!![/head]"}
+
+
+                    {"[head=1]О НЕТ ВОТ ОНА!!!!!!!![/head]"}
 
                     ░░░░░░░░░█░░[color=#67CC40]████████[/color]█[color=#67CC40]███[/color]░░░░░░░░░░
                     ░░░░░░[color=#FF0000]████[/color]█[color=#6EC543]█[/color][color=#67CC40]███████[/color]█[color=#FF0000]██████[/color]░░░░░░░░
@@ -221,25 +221,25 @@ delivery-spam-10 =  DO NOT OPEN THIS MAIL
                     ░░░░░░[color=#6EC543]████[/color]░░░░░░░░[color=#6EC543]████████[/color]░░░░░░░░
                     ░░░░░░░░░░░░░░░░░░░░[color=#6EC543]████[/color]░░░░░░░░░░
 
-delivery-spam-11 =  Help mom and dad!
-    .desc =         Parents in need of financial support.
-    .content =      [bold]Hello Child,[/bold]
-                    This is your Parents writing to you: we are in need of money! Our taxes have been audited and we owe $100,000 in spesos to governnment! please help! they only want gift cards so you will need to send us 100 $1000 spesos Bisa gift cards.
+delivery-spam-11 =  Помогите маме и папе!
+    .desc =         Родителям нужна финансовая помощь.
+    .content =      [bold]Здравствуй Дитя,[/bold]
+                    Тебе пишут Родители: нам нужны деньги! Наши налоги проверили и мы должны правительсву $100,000 спесо! пожалуйсто помоги! они берут только подарочные карты так что пришли нам 100 подарочных карт Bisa по $1000 спесо.
 
-                    please mail to:
-                    50192 Spess Lane
-                    Station City, Ignius 40195-243
-                    Gamma Quadrant
-                    Guilimin System
+                    пожалуйсто отправь по адресу:
+                    50192 Переулок Спесс
+                    Город Станции, Игниус 40195-243
+                    Квадрант Гамма
+                    Система Гилимин
 
-                    if we do not get this money in 10 days then the govertment will come to take away childhood home and we will be homeless.
+                    если мы не получим деньги через 10 дней правителство заберёт дом твоего детства и мы останемся на улице.
 
-                    {"[bold]thank you and we love you,[/bold]"}
-                    {"[italic]parents[/italic]"}
+                    {"[bold]спасибо и мы любим тебя,[/bold]"}
+                    {"[italic]родители[/italic]"}
 
-delivery-spam-12 =  Join us on the maiden voyage!
-    .desc =         Advertisement for a relaxing voyage.
-    .content =      [head=2]Join us on the maiden voyage of the...[/head]
+delivery-spam-12 =  Отправьтесь с нами в первый рейс!
+    .desc =         Реклама круиза для отдыха.
+    .content =      [head=2]Отправьтесь с нами в первый рейс на борту...[/head]
 
                         ░█▀▀░█▀▀░░░█▀▄░█▀▀░█░░░█▀█░█░█░█▀█░█▀▄
                         ░▀▀█░▀▀█░░░█▀▄░█▀▀░█░░░█▀█░▄▀▄░█░█░█▀▄
@@ -248,33 +248,33 @@ delivery-spam-12 =  Join us on the maiden voyage!
 
                     {"[bold]══════════════════════════════════════════[/bold]"}
 
-                    The latest in Comfortech™ and the most beautiful sights this side of the Iraxsi System! The [italic]SS Relaxor[/italic] is a state of the art luxury Cruiser taking you on the journey of a lifetime!
+                    Последние разработки КомфорТех™ и самые прекрасные виды по эту сторону Системы Иракси! Роскошный Крейсер [italic]SS Relaxor[/italic] построен по последнему слову техники и увезёт вас в путешествие всей жизни!
 
-                    {"[head=3]Experience the phosphorous lakes of Galimar* from the comfort of our LuxuCabins™ with the all the modern amenities you could ever wish for![/head]"}
+                    {"[head=3]Полюбуйтесь фосфорными озёрами Галимара* из наших уютных ЛюксКают™ со всеми современными удобствами, о которых только можно мечтать![/head]"}
 
-                    {"[head=3]Gaze in awe at the Eye of the Cosmos** while enjoying meals from our Five Star Galaxy class chefs![/head]"}
+                    {"[head=3]Замирайте от восторга при виде Ока Космоса**, наслаждаясь блюдами наших поваров класса Пять Звёзд Галактики![/head]"}
 
-                    {"[head=3]Explore the ruins of Agathar***, now open to the public with the assistance of Nanotrasen's top Scientists. All the mysteries of the old Agatharian civilization are excavated and displayed for your viewing pleasure![/head]"}
+                    {"[head=3]Исследуйте руины Агатара***, теперь открытые публике благодаря лучшим Учёным NanoTrasen. Все тайны древней агатарской цивилизации раскопаны и выставлены напоказ специально для вас![/head]"}
 
-                    For the low, low cost of $5,000 spesos a night, the six month luxury cruise could be yours for the vacation of your dreams! Call us today at [color=#00FF00]RELAX-NOW[/color] to book your cruise. Don't wait! Act now!
-
-
+                    Всего за $5,000 спесо за ночь вы получите отпуск мечты - полгода в роскошном круизе! Позвоните нам уже сегодня по номеру [color=#00FF00]RELAX-NOW[/color] и забронируйте круиз. Не ждите! Действуйте сейчас!
 
 
 
 
-                    {"[italic]*Phosphorus lakes are not for swimming, you waive all rights to legal representations with Relaxination Destinations upon landing on Galimar.[/italic]"}
-                    {"[italic]**Eye of the Cosmos must not be looked at for longer than five seconds at a time. You do not hear the call of the Eye.[/italic]"}
-                    {"[italic]***Must sign safety waiver before landing, Relaxination Destinations does not guarantee the safety of the Agatharian ruins. Disappearances of tour groups are down to an acceptable margin of 0.23% of all tour groups that visit the ruins.[/italic]"}
 
-delivery-spam-13 =  paper
-    .desc =         A letter to the editor.
-    .content =      To whom it may concern,
 
-                    The famous Adventures of Ian and Renault book series is one that is enjoyed by young children and at least one severely dyslexic lizard (don't worry, I got better). However, there was an error in the publication, as Ian and Renault would never make a mistake writing. It appears that in The Adventures of Ian and Renault: An Arctic Journey of Courage and Friendship, two lines from The Adventures of Ian and Renault: Exploring the City were used.
-                    This made no sense. How did Ian and Renault find a little kitten in the Arctic? What was the little kitten doing there? Why were Ian and Renault doing more than average today? And the worst offender is the second misplaced line, which is "As the day turned to night, they were exhausted abut happy from their adventure in the city" (Ian and Renault, 1). OH, SORRY!!! I'M NOT AWARE THAT THERE'S A CITY IN THE ARCTIC!!! THAT THEY JUST STOPPED AT. YOU KNOW. FOR A COFFEE. OH WAIT!! COFFEE KILLS DOGS AND FOXES!!!!!!!!! WHO WOULD PUBLISH THIS!!!!! YOU'VE JUST KILLED IAN AND RENAULT!!!!!!!!!!!!!!!!!!! HOW COULD YOU!!!!!!!!!!!!!!!!!!! YOU MONSTER!!!!!!!!!!!!!!!!!
-                    And what did you get for killing Ian and Renault. Hmm? A slightly longer book? You need that longer book, don't you? Longer books sell for more, do they? You wanted to make more money?
-                    LOOK AT WHERE THAT GOT YOU. YOU'VE KILLED THE TWO. CONGRATS.
-                    THERE WILL BE NO MORE SEQUELS NOW.
-                    HOW'S THAT FOR MAKING MONEY???? IT SUCKS????
-                    {"["}bold]WELL YOU SHOULDN'T HAVE KILLED THEM!!!!!!!!!!!!!!![/bold]
+                    {"[italic]*Купаться в фосфорных озёрах нельзя. Высадившись на Галимаре, вы отказываетесь от права на юридическое представительство в спорах с «Релаксационными Путешествиями».[/italic]"}
+                    {"[italic]**На Око Космоса нельзя смотреть дольше пяти секунд подряд. Вы не слышите зова Ока.[/italic]"}
+                    {"[italic]***Перед высадкой необходимо подписать отказ от претензий. «Релаксационные Путешествия» не гарантируют безопасность агатарских руин. Доля пропавших экскурсионных групп снизилась до допустимых 0.23% от всех групп, посещающих руины.[/italic]"}
+
+delivery-spam-13 =  бумага
+    .desc =         Письмо редактору.
+    .content =      К сведению всех, кого это касается,
+
+                    Знаменитую серию книг «Приключения Иана и Рено» любят маленькие дети и по меньшей мере одна ящерица с тяжёлой дислексией (не волнуйтесь, мне уже лучше). Но при издании допустили ошибку, потому что уж Иан и Рено ни за что не ошиблись бы, когда писали. Похоже, в «Приключения Иана и Рено: Арктическое Путешествие о Смелости и Дружбе» попали две строки из «Приключений Иана и Рено: Исследование Города».
+                    Тут ничего не сходится. Как Иан и Рено нашли маленького котёнка в Арктике? Что маленький котёнок там делал? Почему сегодня Иан и Рено сделали больше обычного? А хуже всего вторая чужая строка: «День сменился ночью, и они устали, ноп остались довольны своим приключением в городе» (Иан и Рено, 1). ОЙ, ПРОСТИТЕ!!! Я НЕ ЗНАЛ, ЧТО В АРКТИКЕ ЕСТЬ ГОРОД!!! КУДА ОНИ ПРОСТО ЗАЕХАЛИ. НУ ЗНАЕТЕ. ВЫПИТЬ КОФЕ. АХ ДА!! КОФЕ УБИВАЕТ СОБАК И ЛИСИЦ!!!!!!!!! КТО ВООБЩЕ ТАКОЕ ИЗДАЁТ!!!!! ВЫ ТОЛЬКО ЧТО УБИЛИ ИАНА И РЕНО!!!!!!!!!!!!!!!!!!! КАК ВЫ МОГЛИ!!!!!!!!!!!!!!!!!!! ВЫ ЧУДОВИЩЕ!!!!!!!!!!!!!!!!!
+                    И что вам дало убийство Иана и Рено. М-м? Книжка чуть подлиннее? Вам ведь позарез нужна книжка подлиннее, да? Длинные книжки продаются дороже, да? Хотели больше заработать?
+                    ВОТ К ЧЕМУ ЭТО ПРИВЕЛО. ВЫ ОБОИХ УБИЛИ. ПОЗДРАВЛЯЮ.
+                    ТЕПЕРЬ ПРОДОЛЖЕНИЙ БОЛЬШЕ НЕ БУДЕТ.
+                    НУ КАК ТАМ С ЗАРАБОТКОМ???? ПАРШИВО????
+                    {"["}bold]ТАК НЕ НАДО БЫЛО ИХ УБИВАТЬ!!!!!!!!!!!!!!![/bold]

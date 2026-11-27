@@ -1,20 +1,20 @@
-ent-BaseFenceMetal = chain link fence
-    .desc = A metal piece of fencing cordoning off something likely very important.
+ent-BaseFenceMetal = сетчатый забор
+    .desc = Металлическое ограждение. Скорее всего, за ним что-то очень важное.
 
-ent-FenceMetalBroken = broken chain link fence
-    .desc = Someone got real mad at an inanimate object.
+ent-FenceMetalBroken = сломанный сетчатый забор
+    .desc = Кто-то всерьёз разозлился на неодушевлённый предмет.
 
 ent-FenceMetalStraight = { ent-BaseFenceMetal }
     .desc = { ent-BaseFenceMetal.desc }
-    .suffix = Straight
+    .suffix = Прямой
 
 ent-FenceMetalCorner = { ent-BaseFenceMetal }
     .desc = { ent-BaseFenceMetal.desc }
-    .suffix = Corner
+    .suffix = Угол
 
 ent-FenceMetalEnd = { ent-BaseFenceMetal }
     .desc = { ent-BaseFenceMetal.desc }
-    .suffix = End
+    .suffix = Конец
 
-ent-FenceMetalGate = chain link fence gate
-    .desc = You could use the door instead of vaulting over--if you're a COWARD, that is.
+ent-FenceMetalGate = калитка сетчатого забора
+    .desc = Можно войти через калитку, вместо того чтобы перелезать. Если вы ТРУС, конечно.

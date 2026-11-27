@@ -1,2 +1,2 @@
-ent-BulletLowCaliber = bullet (5x23mm)
+ent-BulletLowCaliber = пуля (5x23мм)
     .desc = { ent-BaseBullet.desc }

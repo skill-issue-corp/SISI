@@ -4,113 +4,113 @@ ent-FoodBreadBase = { ent-SolutionNormal }
 ent-FoodBreadSliceBase = { ent-SolutionVeryTiny }
     .desc = { ent-SolutionVeryTiny.desc }
 
-ent-FoodBreadVolcanic = volcanic loaf
-    .desc = A dark loaf. Resembles pumice.
+ent-FoodBreadVolcanic = вулканический хлеб
+    .desc = Тёмная буханка. Напоминает пемзу.
 
-ent-FoodBreadVolcanicSlice = volcanic slice
-    .desc = A slice of dark loaf. Resembles pumice.
+ent-FoodBreadVolcanicSlice = ломтик вулканического хлеба
+    .desc = Ломтик тёмной буханки. Напоминает пемзу.
 
-ent-FoodBreadBanana = banana bread
-    .desc = A heavenly and filling treat.
+ent-FoodBreadBanana = банановый хлеб
+    .desc = Божественное и сытное лакомство.
 
-ent-FoodBreadBananaSlice = banana bread slice
-    .desc = A slice of delicious banana bread.
+ent-FoodBreadBananaSlice = ломтик бананового хлеба
+    .desc = Ломтик вкусного бананового хлеба.
 
-ent-FoodBreadCotton = cotton bread
-    .desc = Bread, but for moff.
+ent-FoodBreadCotton = хлопковый хлеб
+    .desc = Хлеб, только для мольки.
 
-ent-FoodBreadCottonSlice = cotton bread slice
-    .desc = A slice of (maybe) delicious cotton bread.
+ent-FoodBreadCottonSlice = ломтик хлопкового хлеба
+    .desc = Ломтик (возможно) вкусного хлопкового хлеба.
 
-ent-FoodBreadCorn = cornbread
-    .desc = Some good down-home country-style, rootin'-tootin', revolver-shootin', dad-gum yeehaw cornbread.
+ent-FoodBreadCorn = кукурузный хлеб
+    .desc = Добрый деревенский кукурузный хлеб для тех, кто лихо палит из револьвера и орёт «йи-ха!».
 
-ent-FoodBreadCornSlice = cornbread slice
-    .desc = A slice of cornbread.
+ent-FoodBreadCornSlice = ломтик кукурузного хлеба
+    .desc = Ломтик кукурузного хлеба.
 
-ent-FoodBreadCreamcheese = cream cheese bread
-    .desc = Yum yum yum!
+ent-FoodBreadCreamcheese = хлеб со сливочным сыром
+    .desc = Ням-ням-ням!
 
-ent-FoodBreadCreamcheeseSlice = cream cheese bread slice
-    .desc = A slice of yum!
+ent-FoodBreadCreamcheeseSlice = ломтик хлеба со сливочным сыром
+    .desc = Ломтик нямки!
 
-ent-FoodBreadMeat = meat bread
-    .desc = The culinary base of every self-respecting eloquen/tg/entleman.
+ent-FoodBreadMeat = мясной хлеб
+    .desc = Основа кухни каждого уважающего себя красноре/тг/ивого джентльмена.
 
-ent-FoodBreadMeatSlice = meat bread slice
-    .desc = A slice of delicious meatbread.
+ent-FoodBreadMeatSlice = ломтик мясного хлеба
+    .desc = Ломтик вкусного мясного хлеба.
 
-ent-FoodBreadMimana = mimana bread
-    .desc = Best eaten in silence.
+ent-FoodBreadMimana = хлеб из миманы
+    .desc = Лучше есть в тишине.
 
-ent-FoodBreadMimanaSlice = mimana bread slice
-    .desc = A slice of silence!
+ent-FoodBreadMimanaSlice = ломтик хлеба из миманы
+    .desc = Ломтик тишины!
 
-ent-FoodBreadPlain = bread
-    .desc = Some plain old earthen bread.
+ent-FoodBreadPlain = хлеб
+    .desc = Обычный старый добрый земной хлеб.
 
-ent-FoodBreadPlainSlice = bread slice
-    .desc = A slice of home.
+ent-FoodBreadPlainSlice = ломтик хлеба
+    .desc = Ломтик родного дома.
 
-ent-FoodBreadSausage = sausage bread
-    .desc = Dont think too much about it.
+ent-FoodBreadSausage = колбасный хлеб
+    .desc = Лучше об этом не задумываться.
 
-ent-FoodBreadSausageSlice = sausage bread slice
-    .desc = Dont think too much about it.
+ent-FoodBreadSausageSlice = ломтик колбасного хлеба
+    .desc = Лучше об этом не задумываться.
 
-ent-FoodBreadMeatSpider = spider meat bread
-    .desc = Reassuringly green meatloaf made from spider meat.
+ent-FoodBreadMeatSpider = хлеб из паучьего мяса
+    .desc = Мясной хлеб из паучьего мяса. Обнадёживающе зелёный.
 
-ent-FoodBreadMeatSpiderSlice = spider meat bread slice
-    .desc = A slice of meatloaf made from an animal that most likely still wants you dead.
+ent-FoodBreadMeatSpiderSlice = ломтик хлеба из паучьего мяса
+    .desc = Ломтик мясного хлеба из животного, которое, скорее всего, всё ещё желает вам смерти.
 
-ent-FoodBreadTofu = tofu bread
-    .desc = Like meatbread but for vegetarians. Brag to your crewmates about how much better it is.
+ent-FoodBreadTofu = хлеб с тофу
+    .desc = Как мясной хлеб, только для вегетарианцев. Похвастайтесь экипажу, насколько он лучше.
 
-ent-FoodBreadTofuSlice = tofu bread slice
-    .desc = A slice of delicious tofu bread.
+ent-FoodBreadTofuSlice = ломтик хлеба с тофу
+    .desc = Ломтик вкусного хлеба с тофу.
 
-ent-FoodBreadMeatXeno = xeno meat bread
-    .desc = A fitting, and filling, end to xeno scum.
+ent-FoodBreadMeatXeno = хлеб из мяса ксено
+    .desc = Подобающий и сытный конец для ксеномрази.
 
-ent-FoodBreadMeatXenoSlice = xeno meat bread slice
-    .desc = A slice of xeno scum.
+ent-FoodBreadMeatXenoSlice = ломтик хлеба из мяса ксено
+    .desc = Ломтик ксеномрази.
 
-ent-FoodBreadBaguette = baguette
-    .desc = Bon appétit!
+ent-FoodBreadBaguette = багет
+    .desc = Приятного аппетита!
 
-ent-FoodBreadBaguetteCotton = cotton baguette
-    .desc = Bon azzétit!
+ent-FoodBreadBaguetteCotton = хлопковый багет
+    .desc = Приятного аппезита!
 
-ent-FoodBreadBaguetteSlice = crostini
-    .desc = Bon ap-pétite!
+ent-FoodBreadBaguetteSlice = кростини
+    .desc = При-ятного ап-петита!
 
-ent-FoodBreadBaguetteCottonSlice = cotton crostini
-    .desc = Bon az-zétite!
+ent-FoodBreadBaguetteCottonSlice = хлопковый кростини
+    .desc = При-ятного ап-пезита!
 
-ent-FoodBreadButteredToast = buttered toast
-    .desc = Crunchy.
+ent-FoodBreadButteredToast = тост с маслом
+    .desc = Хрустящий.
 
-ent-FoodBreadFrenchToast = french toast
-    .desc = A slice of bread soaked in a beaten egg mixture.
+ent-FoodBreadFrenchToast = французский тост
+    .desc = Ломтик хлеба, пропитанный взбитым яйцом.
 
-ent-FoodBreadGarlicSlice = garlic bread
-    .desc = Alas, it is limited.
+ent-FoodBreadGarlicSlice = чесночный хлеб
+    .desc = Увы, его запасы ограничены.
 
-ent-FoodBreadJellySlice = jelly toast
-    .desc = As if science are gonna give up their slimes for toast!
+ent-FoodBreadJellySlice = тост с желе
+    .desc = Как будто учёные отдадут слаймов ради тостов!
 
-ent-FoodBreadMoldySlice = moldy bread slice
-    .desc = Entire stations have been ripped apart over arguing whether this is still good to eat.
+ent-FoodBreadMoldySlice = заплесневелый ломтик хлеба
+    .desc = Целые станции разрывало на части от споров, можно ли это ещё есть.
 
-ent-FoodBreadTwoSlice = two slice
-    .desc = Classy.
+ent-FoodBreadTwoSlice = два ломтика
+    .desc = Изящно.
 
-ent-MobBreadDog = bread dog
-    .desc = It's a bread. It's a dog. It's a... breaddog?
+ent-MobBreadDog = хлебодог
+    .desc = Это хлеб. Это хот-дог. Это... хлебодог?
 
-ent-FoodBreadNutriBatard = nutri-bâtard
-    .desc = bon 'pétite!
+ent-FoodBreadNutriBatard = нутри-батар
+    .desc = приятного петита!
 
-ent-FoodBreadCottonNutriBatard = cotton nutri-bâtard
-    .desc = bon 'pétite!
+ent-FoodBreadCottonNutriBatard = хлопковый нутри-батар
+    .desc = приятного петита!

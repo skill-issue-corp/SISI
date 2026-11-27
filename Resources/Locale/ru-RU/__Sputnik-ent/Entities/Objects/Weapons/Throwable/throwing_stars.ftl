@@ -1,5 +1,5 @@
-ent-ThrowingStar = throwing star
-    .desc = An ancient weapon still used to this day, due to its ease of lodging itself into its victim's body parts.
+ent-ThrowingStar = метательная звезда
+    .desc = Древнее оружие, которым пользуются и по сей день: оно легко застревает в теле жертвы.
 
-ent-ThrowingStarNinja = ninja throwing star
+ent-ThrowingStarNinja = сюрикен ниндзя
     .desc = { ent-ThrowingStar.desc }

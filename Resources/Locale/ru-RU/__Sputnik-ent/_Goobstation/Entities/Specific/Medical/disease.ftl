@@ -1,2 +1,2 @@
-ent-LiveInjector = live injector
-    .desc = Injects people with a disease.
+ent-LiveInjector = инъектор инфекции
+    .desc = Заражает людей болезнью.

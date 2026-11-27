@@ -14,12 +14,12 @@
 
 # MindContainerComponent localization
 
-comp-mind-ghosting-prevented = You are not able to ghost right now.
+comp-mind-ghosting-prevented = Сейчас вы не можете стать призраком.
 
 ## Messages displayed when a body is examined and in a certain state
 
-comp-mind-examined-catatonic = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) } totally catatonic. The stresses of life in deep-space must have been too much for { OBJECT($ent) }. Any recovery is impossible.
-comp-mind-examined-dead = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) } dead.
-comp-mind-examined-ssd = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-HAVE($ent) } a blank, absent-minded stare and appears completely unresponsive to anything. { CAPITALIZE(SUBJECT($ent)) } may snap out of it soon.
-comp-mind-examined-dead-and-ssd = { CAPITALIZE(POSS-ADJ($ent)) } soul lies dormant and may return soon.
-comp-mind-examined-dead-and-irrecoverable = { CAPITALIZE(POSS-ADJ($ent)) } soul has departed and moved on. Any recovery is impossible.
+comp-mind-examined-catatonic = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) }в состоянии глубокой кататонии. Похоже, стресс от жизни в глубоком космосе оказался для { OBJECT($ent) } непосильным. Восстановление невозможно.
+comp-mind-examined-dead = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) }без признаков жизни.
+comp-mind-examined-ssd = { CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-HAVE($ent) } пустой, рассеянный взгляд и, похоже, никак не реагирует на окружающее. Возможно, { CAPITALIZE(SUBJECT($ent)) } скоро придёт в себя.
+comp-mind-examined-dead-and-ssd = { CAPITALIZE(POSS-ADJ($ent)) } душа спит и может скоро вернуться.
+comp-mind-examined-dead-and-irrecoverable = { CAPITALIZE(POSS-ADJ($ent)) } душа ушла в мир иной. Восстановление невозможно.

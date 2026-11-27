@@ -1,29 +1,29 @@
-uplink-reinforcement-radio-nukie-mouse-name = Mouse Operative Teleporter
-uplink-reinforcement-radio-nukie-mouse-desc = Calls in a specially trained mouse operative to assist you.
+uplink-reinforcement-radio-nukie-mouse-name = Телепортатор Мыши-Оперативника
+uplink-reinforcement-radio-nukie-mouse-desc = Вызывает специально обученную мышь-оперативника вам на помощь.
 
-uplink-reinforcement-radio-nukie-carp-name = Carp Operative Teleporter
-uplink-reinforcement-radio-nukie-carp-desc = Calls in a specially trained carp operative to assist you.
+uplink-reinforcement-radio-nukie-carp-name = Телепортатор Карпа-Оперативника
+uplink-reinforcement-radio-nukie-carp-desc = Вызывает специально обученного карпа-оперативника вам на помощь.
 
-uplink-reinforcement-radio-nukie-spider-name = Spider Operative Teleporter
-uplink-reinforcement-radio-nukie-spider-desc = Calls in a specially trained arachnid operative to assist you.
+uplink-reinforcement-radio-nukie-spider-name = Телепортатор Паука-Оперативника
+uplink-reinforcement-radio-nukie-spider-desc = Вызывает специально обученного паука-оперативника вам на помощь.
 
-uplink-reinforcement-radio-cyborg-assault-name-trauma = Assault Cyborg Teleporter
+uplink-reinforcement-radio-cyborg-assault-name-trauma = Телепортатор Штурмового Киборга
 
-uplink-reinforcement-radio-cyborg-saboteur-name = Saboteur Cyborg Teleporter
-uplink-reinforcement-radio-cyborg-saboteur-desc = Calls in a lightly armored cyborg specializing in sabotage and assassinations.
+uplink-reinforcement-radio-cyborg-saboteur-name = Телепортатор Киборга-Диверсанта
+uplink-reinforcement-radio-cyborg-saboteur-desc = Вызывает легкобронированного киборга, специализирующегося на диверсиях и заказных убийствах.
 
-uplink-reinforcement-radio-cyborg-medical-name = Medical Cyborg Teleporter
-uplink-reinforcement-radio-cyborg-medical-desc = Calls in a lightly armored cyborg specializing in anything medical related.
+uplink-reinforcement-radio-cyborg-medical-name = Телепортатор Медицинского Киборга
+uplink-reinforcement-radio-cyborg-medical-desc = Вызывает легкобронированного киборга, специализирующегося на медицине.
 
-uplink-magic-carp-dehydrated-name = Dehydrated Magic Carp
-uplink-magic-carp-dehydrated-desc = Looks like a plush toy carp, but just add water and it becomes a real-life magic carp!
+uplink-magic-carp-dehydrated-name = Обезвоженный Магический Карп
+uplink-magic-carp-dehydrated-desc = Выглядит как плюшевый карп, но стоит добавить воды, и он превратится в настоящего магического карпа!
 
-uplink-holo-carp-dehydrated-name = Dehydrated Holo Carp
-uplink-holo-carp-dehydrated-desc = Looks like a plush toy carp, but just add water and it becomes a real-life holo carp!
+uplink-holo-carp-dehydrated-name = Обезвоженный Голокарп
+uplink-holo-carp-dehydrated-desc = Выглядит как плюшевый карп, но стоит добавить воды, и он превратится в настоящего голокарпа!
 
-uplink-reinforcement-radio-ancestor-name-trauma = Genetic Ancestor Teleporter
+uplink-reinforcement-radio-ancestor-name-trauma = Телепортатор Генетического Предка
 
-uplink-syndicate-pai-name-trauma = Syndicate Personal AI Device
+uplink-syndicate-pai-name-trauma = Устройство пИИ Синдиката
 
-uplink-necronomicon-name = Necronomicon
-uplink-necronomicon-desc = An unholy book capable of summoning a demonic familiar.
+uplink-necronomicon-name = Некрономикон
+uplink-necronomicon-desc = Нечестивая книга, способная призывать демонического фамильяра.

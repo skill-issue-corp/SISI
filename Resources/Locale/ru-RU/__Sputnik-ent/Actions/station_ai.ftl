@@ -1,5 +1,5 @@
-ent-ActionJumpToCore = Jump to core
-    .desc = Sends your eye back to the core.
+ent-ActionJumpToCore = Перейти к ядру
+    .desc = Переносит ваш глаз обратно к ядру.
 
-ent-ActionAIViewLaws = View Laws
-    .desc = View the laws that you must follow.
+ent-ActionAIViewLaws = Посмотреть Законы
+    .desc = Посмотрите законы, которым вы обязаны следовать.

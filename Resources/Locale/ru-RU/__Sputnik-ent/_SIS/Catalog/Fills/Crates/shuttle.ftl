@@ -1,2 +1,2 @@
-ent-CrateEngineeringFanTiny = tiny fan crate
-    .desc = Contains a tiny fan flatpack.
+ent-CrateEngineeringFanTiny = ящик крошечного вентилятора
+    .desc = Содержит упаковку крошечного вентилятора.

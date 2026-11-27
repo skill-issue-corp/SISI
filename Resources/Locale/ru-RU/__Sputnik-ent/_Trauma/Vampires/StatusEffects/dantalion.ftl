@@ -1,2 +1,2 @@
-ent-HysteriaStatusEffect = hysteria
+ent-HysteriaStatusEffect = истерия
     .desc = { ent-MobStatusEffectDebuff.desc }

@@ -1,20 +1,20 @@
-ent-WeaponImprovisedPneumaticCannon = improvised pneumatic cannon
-    .desc = Improvised using nothing but a pipe, some zipties, and a pneumatic cannon. Doesn't accept tanks without enough gas.
+ent-WeaponImprovisedPneumaticCannon = самодельная пневматическая пушка
+    .desc = Собрана на скорую руку из трубы, нескольких стяжек и пневматической пушки. Баллон с низким запасом газа не подходит.
 
-ent-LauncherCreamPie = pie cannon
-    .desc = Load cream pie for optimal results.
-    .suffix = Empty
+ent-LauncherCreamPie = пирогомёт
+    .desc = Для лучшего результата зарядите пирог со сливками.
+    .suffix = Пусто
 
-ent-BorgLauncherCreamPie = experimental pie cannon
-    .desc = Deliver a generous portion of cream directly to the crew! Automatically bakes pies over time.
+ent-BorgLauncherCreamPie = экспериментальный пирогомёт
+    .desc = Доставьте щедрую порцию сливок прямиком экипажу! Со временем сам печёт пироги.
 
-ent-LauncherSyringe = syringe gun
-    .desc = Load full of poisoned syringes for optimal fun.
+ent-LauncherSyringe = шприцемёт
+    .desc = Зарядите шприцами с ядом, чтобы повеселиться от души.
 
 ent-WeaponImprovisedPneumaticCannonGun = { ent-WeaponImprovisedPneumaticCannon }
     .desc = { ent-WeaponImprovisedPneumaticCannon.desc }
-    .suffix = Gun
+    .suffix = Оружие
 
 ent-WeaponImprovisedPneumaticCannonAdmeme = { ent-WeaponImprovisedPneumaticCannonGun }
     .desc = { ent-WeaponImprovisedPneumaticCannonGun.desc }
-    .suffix = Admeme
+    .suffix = Адмеме

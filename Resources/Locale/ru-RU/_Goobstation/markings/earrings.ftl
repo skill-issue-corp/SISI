@@ -1,133 +1,133 @@
-marking-EarringsStudLeft = Stud Earrings (Left)
-marking-EarringsStudLeft-stud_l = Stud Earrings (Left)
+marking-EarringsStudLeft = Серьги-Гвоздики (Слева)
+marking-EarringsStudLeft-stud_l = Серьги-Гвоздики (Слева)
 
-marking-EarringsStudRight = Stud Earrings (Right)
-marking-EarringsStudRight-stud_r = Stud Earrings (Right)
+marking-EarringsStudRight = Серьги-Гвоздики (Справа)
+marking-EarringsStudRight-stud_r = Серьги-Гвоздики (Справа)
 
-marking-EarringsHeavyLeft = Heavy Earrings (Left)
-marking-EarringsHeavyLeft-heavy_l = Heavy Earrings (Left)
+marking-EarringsHeavyLeft = Тяжёлые Серьги (Слева)
+marking-EarringsHeavyLeft-heavy_l = Тяжёлые Серьги (Слева)
 
-marking-EarringsHeavyRight = Heavy Earrings (Right)
-marking-EarringsHeavyRight-heavy_r = Heavy Earrings (Right)
+marking-EarringsHeavyRight = Тяжёлые Серьги (Справа)
+marking-EarringsHeavyRight-heavy_r = Тяжёлые Серьги (Справа)
 
-marking-EarringsDropBasicLeft = Drop Earrings (Left)
-marking-EarringsDropBasicLeft-drop_l = Drop Earrings (Left)
+marking-EarringsDropBasicLeft = Серьги-Капли (Слева)
+marking-EarringsDropBasicLeft-drop_l = Серьги-Капли (Слева)
 
-marking-EarringsDropBasicRight = Drop Earrings (Right)
-marking-EarringsDropBasicRight-drop_r = Drop Earrings (Right)
+marking-EarringsDropBasicRight = Серьги-Капли (Справа)
+marking-EarringsDropBasicRight-drop_r = Серьги-Капли (Справа)
 
-marking-EarringsDropColoredLeft = Colored Drop Earrings (Left)
-marking-EarringsDropColoredLeft-drop_colored_tone_1_l = Material
-marking-EarringsDropColoredLeft-drop_colored_tone_2_l = Ornament
+marking-EarringsDropColoredLeft = Цветные Серьги-Капли (Слева)
+marking-EarringsDropColoredLeft-drop_colored_tone_1_l = Материал
+marking-EarringsDropColoredLeft-drop_colored_tone_2_l = Украшение
 
-marking-EarringsDropColoredRight = Colored Drop Earrings (Right)
-marking-EarringsDropColoredRight-drop_colored_tone_1_r = Material
-marking-EarringsDropColoredRight-drop_colored_tone_2_r = Ornament
+marking-EarringsDropColoredRight = Цветные Серьги-Капли (Справа)
+marking-EarringsDropColoredRight-drop_colored_tone_1_r = Материал
+marking-EarringsDropColoredRight-drop_colored_tone_2_r = Украшение
 
-marking-EarringsDropLongLeft = Long Drop Earrings (Left)
-marking-EarringsDropLongLeft-drop_long_tone_1_l = Material
-marking-EarringsDropLongLeft-drop_long_tone_2_l = Ornament
+marking-EarringsDropLongLeft = Длинные Серьги-Капли (Слева)
+marking-EarringsDropLongLeft-drop_long_tone_1_l = Материал
+marking-EarringsDropLongLeft-drop_long_tone_2_l = Украшение
 
-marking-EarringsDropLongRight = Long Drop Earrings (Right)
-marking-EarringsDropLongRight-drop_long_tone_1_r = Material
-marking-EarringsDropLongRight-drop_long_tone_2_r = Ornament
+marking-EarringsDropLongRight = Длинные Серьги-Капли (Справа)
+marking-EarringsDropLongRight-drop_long_tone_1_r = Материал
+marking-EarringsDropLongRight-drop_long_tone_2_r = Украшение
 
-marking-EarringsCrescentLeft = Crescent Earrings (Left)
-marking-EarringsCrescentLeft-crescent_l = Crescent Earrings (Left)
+marking-EarringsCrescentLeft = Серьги-Полумесяцы (Слева)
+marking-EarringsCrescentLeft-crescent_l = Серьги-Полумесяцы (Слева)
 
-marking-EarringsCrescentRight = Crescent Earrings (Right)
-marking-EarringsCrescentRight-crescent_r = Crescent Earrings (Right)
+marking-EarringsCrescentRight = Серьги-Полумесяцы (Справа)
+marking-EarringsCrescentRight-crescent_r = Серьги-Полумесяцы (Справа)
 
-marking-EarringsBangleLeft = Bangle Earrings (Left)
-marking-EarringsBangleLeft-bangle_l = Bangle Earrings (Left)
+marking-EarringsBangleLeft = Серьги-Обручи (Слева)
+marking-EarringsBangleLeft-bangle_l = Серьги-Обручи (Слева)
 
-marking-EarringsBangleRight = Bangle Earrings (Right)
-marking-EarringsBangleRight-bangle_r = Bangle Earrings (Right)
+marking-EarringsBangleRight = Серьги-Обручи (Справа)
+marking-EarringsBangleRight-bangle_r = Серьги-Обручи (Справа)
 
-marking-EarringsHoopBasicLeft = Hoop Earrings (Left)
-marking-EarringsHoopBasicLeft-hoop_l = Hoop Earrings (Left)
+marking-EarringsHoopBasicLeft = Серьги-Кольца (Слева)
+marking-EarringsHoopBasicLeft-hoop_l = Серьги-Кольца (Слева)
 
-marking-EarringsHoopBasicRight = Hoop Earrings (Right)
-marking-EarringsHoopBasicRight-hoop_r = Hoop Earrings (Right)
+marking-EarringsHoopBasicRight = Серьги-Кольца (Справа)
+marking-EarringsHoopBasicRight-hoop_r = Серьги-Кольца (Справа)
 
-marking-EarringsHoopMiniLeft = Mini Hoop Earrings (Left)
-marking-EarringsHoopMiniLeft-hoop_mini_l = Mini Hoop Earrings (Left)
+marking-EarringsHoopMiniLeft = Маленькие Серьги-Кольца (Слева)
+marking-EarringsHoopMiniLeft-hoop_mini_l = Маленькие Серьги-Кольца (Слева)
 
-marking-EarringsHoopMiniRight = Mini Hoop Earrings (Right)
-marking-EarringsHoopMiniRight-hoop_mini_r = Mini Hoop Earrings (Right)
+marking-EarringsHoopMiniRight = Маленькие Серьги-Кольца (Справа)
+marking-EarringsHoopMiniRight-hoop_mini_r = Маленькие Серьги-Кольца (Справа)
 
-marking-EarringsCrossBasicLeft = Cross Earrings (Left)
-marking-EarringsCrossBasicLeft-cross_l = Cross Earrings (Left)
+marking-EarringsCrossBasicLeft = Серьги-Кресты (Слева)
+marking-EarringsCrossBasicLeft-cross_l = Серьги-Кресты (Слева)
 
-marking-EarringsCrossBasicRight = Cross Earrings (Right)
-marking-EarringsCrossBasicRight-cross_r = Cross Earrings (Right)
+marking-EarringsCrossBasicRight = Серьги-Кресты (Справа)
+marking-EarringsCrossBasicRight-cross_r = Серьги-Кресты (Справа)
 
-marking-EarringsCrossSaintPeterLeft = St. Peter Cross Earrings (Left)
-marking-EarringsCrossSaintPeterLeft-cross_saint_peter_l = St. Peter Cross Earrings (Left)
+marking-EarringsCrossSaintPeterLeft = Серьги С Крестом Св. Петра (Слева)
+marking-EarringsCrossSaintPeterLeft-cross_saint_peter_l = Серьги С Крестом Св. Петра (Слева)
 
-marking-EarringsCrossSaintPeterRight = St. Peter Cross Earrings (Right)
-marking-EarringsCrossSaintPeterRight-cross_saint_peter_r = St. Peter Cross Earrings (Right)
+marking-EarringsCrossSaintPeterRight = Серьги С Крестом Св. Петра (Справа)
+marking-EarringsCrossSaintPeterRight-cross_saint_peter_r = Серьги С Крестом Св. Петра (Справа)
 
-marking-EarringsGemstoneBasicLeft = Gemstone Earrings (Left)
-marking-EarringsGemstoneBasicLeft-gemstone_tone_1_l = Material
-marking-EarringsGemstoneBasicLeft-gemstone_tone_2_l = Ornament
+marking-EarringsGemstoneBasicLeft = Серьги С Самоцветом (Слева)
+marking-EarringsGemstoneBasicLeft-gemstone_tone_1_l = Материал
+marking-EarringsGemstoneBasicLeft-gemstone_tone_2_l = Украшение
 
-marking-EarringsGemstoneBasicRight = Gemstone Earrings (Right)
-marking-EarringsGemstoneBasicRight-gemstone_tone_1_r = Material
-marking-EarringsGemstoneBasicRight-gemstone_tone_2_r = Ornament
+marking-EarringsGemstoneBasicRight = Серьги С Самоцветом (Справа)
+marking-EarringsGemstoneBasicRight-gemstone_tone_1_r = Материал
+marking-EarringsGemstoneBasicRight-gemstone_tone_2_r = Украшение
 
-marking-EarringsGemstoneLongLeft = Long Gemstone Earrings (Left)
-marking-EarringsGemstoneLongLeft-gemstone_long_tone_1_l = Material
-marking-EarringsGemstoneLongLeft-gemstone_long_tone_2_l = Ornament
+marking-EarringsGemstoneLongLeft = Длинные Серьги С Самоцветом (Слева)
+marking-EarringsGemstoneLongLeft-gemstone_long_tone_1_l = Материал
+marking-EarringsGemstoneLongLeft-gemstone_long_tone_2_l = Украшение
 
-marking-EarringsGemstoneLongRight = Long Gemstone Earrings (Right)
-marking-EarringsGemstoneLongRight-gemstone_long_tone_1_r = Material
-marking-EarringsGemstoneLongRight-gemstone_long_tone_2_r = Ornament
+marking-EarringsGemstoneLongRight = Длинные Серьги С Самоцветом (Справа)
+marking-EarringsGemstoneLongRight-gemstone_long_tone_1_r = Материал
+marking-EarringsGemstoneLongRight-gemstone_long_tone_2_r = Украшение
 
-marking-EarringsGemstoneDoubleLeft = Double Gemstone Earrings (Left)
-marking-EarringsGemstoneDoubleLeft-gemstone_double_tone_1_l = Material
-marking-EarringsGemstoneDoubleLeft-gemstone_double_tone_2_l = Upper Ornament
-marking-EarringsGemstoneDoubleLeft-gemstone_double_tone_3_l = Lower Ornament
+marking-EarringsGemstoneDoubleLeft = Серьги С Двумя Самоцветами (Слева)
+marking-EarringsGemstoneDoubleLeft-gemstone_double_tone_1_l = Материал
+marking-EarringsGemstoneDoubleLeft-gemstone_double_tone_2_l = Верхнее Украшение
+marking-EarringsGemstoneDoubleLeft-gemstone_double_tone_3_l = Нижнее Украшение
 
-marking-EarringsGemstoneDoubleRight = Double Gemstone Earrings (Right)
-marking-EarringsGemstoneDoubleRight-gemstone_double_tone_1_r = Material
-marking-EarringsGemstoneDoubleRight-gemstone_double_tone_2_r = Upper Ornament
-marking-EarringsGemstoneDoubleRight-gemstone_double_tone_3_r = Lower Ornament
+marking-EarringsGemstoneDoubleRight = Серьги С Двумя Самоцветами (Справа)
+marking-EarringsGemstoneDoubleRight-gemstone_double_tone_1_r = Материал
+marking-EarringsGemstoneDoubleRight-gemstone_double_tone_2_r = Верхнее Украшение
+marking-EarringsGemstoneDoubleRight-gemstone_double_tone_3_r = Нижнее Украшение
 
-marking-EarringsDangleBasicLeft = Dangle Earrings (Left)
-marking-EarringsDangleBasicLeft-dangle_tone_1_l = Material
-marking-EarringsDangleBasicLeft-dangle_tone_2_l = Ornament
+marking-EarringsDangleBasicLeft = Серьги-Подвески (Слева)
+marking-EarringsDangleBasicLeft-dangle_tone_1_l = Материал
+marking-EarringsDangleBasicLeft-dangle_tone_2_l = Украшение
 
-marking-EarringsDangleBasicRight = Dangle Earrings (Right)
-marking-EarringsDangleBasicRight-dangle_tone_1_r = Material
-marking-EarringsDangleBasicRight-dangle_tone_2_r = Ornament
+marking-EarringsDangleBasicRight = Серьги-Подвески (Справа)
+marking-EarringsDangleBasicRight-dangle_tone_1_r = Материал
+marking-EarringsDangleBasicRight-dangle_tone_2_r = Украшение
 
-marking-EarringsDangleLongLeft = Long Dangle Earrings (Left)
-marking-EarringsDangleLongLeft-dangle_long_tone_1_l = Material
-marking-EarringsDangleLongLeft-dangle_long_tone_2_l = Ornament
+marking-EarringsDangleLongLeft = Длинные Серьги-Подвески (Слева)
+marking-EarringsDangleLongLeft-dangle_long_tone_1_l = Материал
+marking-EarringsDangleLongLeft-dangle_long_tone_2_l = Украшение
 
-marking-EarringsDangleLongRight = Long Dangle Earrings (Right)
-marking-EarringsDangleLongRight-dangle_long_tone_1_r = Material
-marking-EarringsDangleLongRight-dangle_long_tone_2_r = Ornament
+marking-EarringsDangleLongRight = Длинные Серьги-Подвески (Справа)
+marking-EarringsDangleLongRight-dangle_long_tone_1_r = Материал
+marking-EarringsDangleLongRight-dangle_long_tone_2_r = Украшение
 
-marking-EarringsEightLeft = Eight Earrings (Left)
-marking-EarringsEightLeft-eight_l = Eight Earrings (Left)
+marking-EarringsEightLeft = Серьги-Восьмёрки (Слева)
+marking-EarringsEightLeft-eight_l = Серьги-Восьмёрки (Слева)
 
-marking-EarringsEightRight = Eight Earrings (Right)
-marking-EarringsEightRight-eight_r = Eight Earrings (Right)
+marking-EarringsEightRight = Серьги-Восьмёрки (Справа)
+marking-EarringsEightRight-eight_r = Серьги-Восьмёрки (Справа)
 
-marking-EarringsCrystalBasicLeft = Crystal Earrings (Left)
-marking-EarringsCrystalBasicLeft-crystal_tone_1_l = Material
-marking-EarringsCrystalBasicLeft-crystal_tone_2_l = Ornament
+marking-EarringsCrystalBasicLeft = Серьги С Кристаллом (Слева)
+marking-EarringsCrystalBasicLeft-crystal_tone_1_l = Материал
+marking-EarringsCrystalBasicLeft-crystal_tone_2_l = Украшение
 
-marking-EarringsCrystalBasicRight = Crystal Earrings (Right)
-marking-EarringsCrystalBasicRight-crystal_tone_1_r = Material
-marking-EarringsCrystalBasicRight-crystal_tone_2_r = Ornament
+marking-EarringsCrystalBasicRight = Серьги С Кристаллом (Справа)
+marking-EarringsCrystalBasicRight-crystal_tone_1_r = Материал
+marking-EarringsCrystalBasicRight-crystal_tone_2_r = Украшение
 
-marking-EarringsCrystalLongLeft = Long Crystal Earrings (Left)
-marking-EarringsCrystalLongLeft-crystal_long_tone_1_l = Material
-marking-EarringsCrystalLongLeft-crystal_long_tone_2_l = Ornament
+marking-EarringsCrystalLongLeft = Длинные Серьги С Кристаллом (Слева)
+marking-EarringsCrystalLongLeft-crystal_long_tone_1_l = Материал
+marking-EarringsCrystalLongLeft-crystal_long_tone_2_l = Украшение
 
-marking-EarringsCrystalLongRight = Long Crystal Earrings (Right)
-marking-EarringsCrystalLongRight-crystal_long_tone_1_r = Material
-marking-EarringsCrystalLongRight-crystal_long_tone_2_r = Ornament
+marking-EarringsCrystalLongRight = Длинные Серьги С Кристаллом (Справа)
+marking-EarringsCrystalLongRight-crystal_long_tone_1_r = Материал
+marking-EarringsCrystalLongRight-crystal_long_tone_2_r = Украшение

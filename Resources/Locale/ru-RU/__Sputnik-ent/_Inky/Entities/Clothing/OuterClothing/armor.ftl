@@ -1,8 +1,8 @@
 ent-BaseRU6B2Vest = { ent-ClothingOuterArmorBase }
-    .desc = A very old vest used in wars on old earth. You can see that the pouches were removed at the bottom of it.
+    .desc = Очень старый жилет, который носили на войнах на старой земле. Заметно, что внизу сняли подсумки.
 
-ent-ClothingOuterArmorRU6B2Vest = 6B5-12 ballistic vest
+ent-ClothingOuterArmorRU6B2Vest = бронежилет 6B5-12
     .desc = { ent-BaseRU6B2Vest.desc }
 
-ent-ClothingOuterArmorCamoRU6B2Vest = 6B5-12 Camo ballistic vest
-    .desc = A very old vest used in wars on old earth. You can see that the pouches were removed at the bottom of it. This one has a camo patern.
+ent-ClothingOuterArmorCamoRU6B2Vest = Камуфляжный бронежилет 6B5-12
+    .desc = Очень старый жилет, который носили на войнах на старой земле. Заметно, что внизу сняли подсумки. Этот с камуфляжным узором.

@@ -1,11 +1,11 @@
-ent-ClothingHeadHelmetHardsuitCombatStandard = combat hardsuit helmet
-    .desc = An armoured helmet with a yellow visor and dual head-mounted lights.
+ent-ClothingHeadHelmetHardsuitCombatStandard = шлем боевого скафандра
+    .desc = Бронированный шлем с жёлтым забралом и двумя налобными фонарями.
 
-ent-ClothingHeadHelmetHardsuitCombatOfficer = security combat hardsuit helmet
+ent-ClothingHeadHelmetHardsuitCombatOfficer = шлем боевого скафандра службы безопасности
     .desc = { ent-ClothingHeadHelmetHardsuitCombatStandard.desc }
 
-ent-ClothingHeadHelmetHardsuitCombatMedical = medical combat hardsuit helmet
-    .desc = A lightweight armoured helmet with full-face blue visor and head-mounted light.
+ent-ClothingHeadHelmetHardsuitCombatMedical = шлем медицинского боевого скафандра
+    .desc = Лёгкий бронированный шлем с синим забралом на всё лицо и налобным фонарём.
 
-ent-ClothingHeadHelmetHardsuitCombatRiot = riot combat hardsuit helmet
-    .desc = A heavy armoured helmet with a sealed visor with yellow slits and dual head-mounted lights.
+ent-ClothingHeadHelmetHardsuitCombatRiot = шлем противобунтового боевого скафандра
+    .desc = Тяжёлый бронированный шлем с герметичным забралом с жёлтыми прорезями и двумя налобными фонарями.

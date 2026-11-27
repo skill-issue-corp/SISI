@@ -1,40 +1,40 @@
 ent-BaseMeleeWeaponEnergy = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-EnergySword = energy sword
-    .desc = A very loud & dangerous sword with a beam made of pure, concentrated plasma. Cuts through unarmored targets like butter.
+ent-EnergySword = энергетический меч
+    .desc = Очень громкий и опасный меч с лезвием из чистой концентрированной плазмы. Режет незащищённые цели как масло.
 
-ent-EnergyDaggerLoud = energy dagger
-    .desc = A not as loud and dangerous dagger with a beam made of pure, concentrated plasma. This one is completely undisguised.
+ent-EnergyDaggerLoud = энергетический кинжал
+    .desc = Менее громкий и опасный кинжал с лезвием из чистой концентрированной плазмы. Этот даже не замаскирован.
 
-ent-EnergyDagger = pen
-    .desc = A dark ink pen.
-    .suffix = E-Dagger
+ent-EnergyDagger = ручка
+    .desc = Ручка с тёмными чернилами.
+    .suffix = Э-Кинжал
 
-ent-EnergyDaggerBox = e-dagger box
-    .desc = A small box containing an e-dagger. Packaging disintegrates when opened, leaving no evidence behind.
-    .suffix = E-Dagger
+ent-EnergyDaggerBox = коробка с э-кинжалом
+    .desc = Небольшая коробка с э-кинжалом. При вскрытии упаковка распадается, не оставляя улик.
+    .suffix = Э-Кинжал
 
-ent-EnergyCutlass = energy cutlass
-    .desc = An exotic energy weapon.
+ent-EnergyCutlass = энергетическая сабля
+    .desc = Экзотическое энергетическое оружие.
 
-ent-EnergySwordDoubleBase = double-bladed energy sword
-    .desc = Syndicate Command Interns thought that having one blade on the energy sword was not enough. This can be stored in pockets.
+ent-EnergySwordDoubleBase = двухклинковый энергетический меч
+    .desc = Интерны Командования Синдиката решили, что одного клинка у энергетического меча мало. Помещается в кармане.
 
 ent-EnergySwordDouble = { ent-EnergySwordDoubleBase }
     .desc = { ent-EnergySwordDoubleBase.desc }
 
-ent-HyperEutacticBlade = hypereutactic-blade
-    .desc = A supermassive weapon envisioned to cleave the very fabric of space and time itself in twain, the hypereutactic blade dynamically flash-forges a hypereutactic crystaline nanostructure capable of passing through most known forms of matter like a hot knife through butter.
+ent-HyperEutacticBlade = гиперэвтактический клинок
+    .desc = Сверхмассивное оружие, задуманное, чтобы рассекать надвое саму ткань пространства и времени. Гиперэвтактический клинок на ходу выковывает гиперэвтактическую кристаллическую наноструктуру, которая проходит сквозь большинство известных форм материи как горячий нож сквозь масло.
 
 ent-CyborgEnergySword = { ent-EnergySword }
-    .desc = A very loud & dangerous sword with a beam made of pure, concentrated plasma. Specially designed for syndicate cyborgs.
-    .suffix = For Borgs
+    .desc = Очень громкий и опасный меч с лезвием из чистой концентрированной плазмы. Разработан специально для киборгов синдиката.
+    .suffix = Для Боргов
 
 ent-CyborgEnergySwordDouble = { ent-EnergySwordDoubleBase }
-    .desc = Syndicate Command Interns thought that having one blade on the energy sword was not enough. Specially designed for syndicate cyborgs.
-    .suffix = One-Handed, For Borgs
+    .desc = Интерны Командования Синдиката решили, что одного клинка у энергетического меча мало. Разработан специально для киборгов синдиката.
+    .suffix = Одноручный, Для Боргов
 
 ent-EnergyDaggerLoudBlue = { ent-EnergyDaggerLoud }
     .desc = { ent-EnergyDaggerLoud.desc }
-    .suffix = blue
+    .suffix = синий

@@ -1,2 +1,2 @@
-ent-MobXenomorphFaceHugger = xenomorph facehugger
-    .desc = A writhing nightmare. The facehugger clings to its victim's face, forcibly inserting a xenomorph fetus.
+ent-MobXenomorphFaceHugger = лицехват ксеноморфов
+    .desc = Извивающийся кошмар. Лицехват цепляется за лицо жертвы и насильно внедряет зародыш ксеноморфа.

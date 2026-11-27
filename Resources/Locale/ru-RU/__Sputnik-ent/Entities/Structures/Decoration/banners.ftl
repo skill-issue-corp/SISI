@@ -1,38 +1,38 @@
-ent-BannerBase = base banner
-    .desc = It's the concept of a banner, you shouldn't be seeing this.
+ent-BannerBase = базовое знамя
+    .desc = Это понятие знамени, вы не должны его видеть.
 
-ent-BannerNanotrasen = nanotrasen banner
-    .desc = A banner displaying the Nanotrasen logo. It looks rather cheap.
+ent-BannerNanotrasen = знамя NanoTrasen
+    .desc = Знамя с логотипом NanoTrasen. Выглядит довольно дёшево.
 
-ent-BannerCargo = cargo banner
-    .desc = A banner displaying the colors of the cargo department. Not. Cargonia.
+ent-BannerCargo = знамя карго
+    .desc = Знамя в цветах отдела карго. Нет. Каргония.
 
-ent-BannerEngineering = engineering banner
-    .desc = A banner displaying the colors of the engineering department. Scrungularty.
+ent-BannerEngineering = знамя инженерного отдела
+    .desc = Знамя в цветах инженерного отдела. Сингулепно.
 
-ent-BannerMedical = medical banner
-    .desc = A banner displaying the colors of the medical department. How sterile.
+ent-BannerMedical = знамя медотсека
+    .desc = Знамя в цветах медотсека. Как стерильно.
 
-ent-BannerRevolution = revolution banner
-    .desc = A banner displaying revolution. Viva!
+ent-BannerRevolution = знамя революции
+    .desc = Знамя революции. Вива!
 
-ent-BannerSyndicate = syndicate banner
-    .desc = A banner from which, according to the syndicate, you should feel hatred for NT.
+ent-BannerSyndicate = знамя синдиката
+    .desc = Знамя, которое, по замыслу синдиката, должно пробудить в вас ненависть к NT.
 
-ent-BannerScience = science banner
-    .desc = A banner displaying the colors of the science department. Where science has no bounds, and regulations are rarely followed.
+ent-BannerScience = знамя научного отдела
+    .desc = Знамя в цветах научного отдела. Здесь наука не знает границ, а правила редко соблюдают.
 
-ent-BannerSecurity = security banner
-    .desc = A banner displaying the colors of the security department. You're surprised it's not vandalised.
+ent-BannerSecurity = знамя службы безопасности
+    .desc = Знамя в цветах службы безопасности. На удивление, его ещё не испортили.
 
-ent-BannerBlue = blue banner
-    .desc = A banner displaying the color blue. Dabudidabudai.
+ent-BannerBlue = синее знамя
+    .desc = Знамя синего цвета. Дабудидабудай.
 
-ent-BannerRed = red banner
-    .desc = A banner displaying the color red. The edgy one.
+ent-BannerRed = красное знамя
+    .desc = Знамя красного цвета. Для самых дерзких.
 
-ent-BannerYellow = yellow banner
-    .desc = A banner displaying the color yellow. Reminds you of ducks and lemon stands.
+ent-BannerYellow = жёлтое знамя
+    .desc = Знамя жёлтого цвета. Напоминает об утках и ларьках с лимонадом.
 
-ent-BannerGreen = green banner
-    .desc = A banner displaying the color green. Grass, leaves, guacamole.
+ent-BannerGreen = зелёное знамя
+    .desc = Знамя зелёного цвета. Трава, листья, гуакамоле.

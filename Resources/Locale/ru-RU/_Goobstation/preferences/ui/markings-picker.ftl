@@ -1,1 +1,1 @@
-markings-layer-Face = Face
+markings-layer-Face = Лицо

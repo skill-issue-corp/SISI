@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-extended-title = Extended
-extended-description = A calm experience. Admin intervention required.
+extended-title = Продлённая смена
+extended-description = Спокойная смена. Нужно вмешательство администрации.

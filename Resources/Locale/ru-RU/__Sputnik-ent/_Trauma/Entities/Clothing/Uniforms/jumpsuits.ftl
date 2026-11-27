@@ -1,23 +1,23 @@
-ent-ClothingUniformJumpsuitMilitaryTurtleneckRev = military jumpsuit
-    .desc = A sturdy and protective jumpsuit.
+ent-ClothingUniformJumpsuitMilitaryTurtleneckRev = военный комбинезон
+    .desc = Прочный защитный комбинезон.
 
-ent-ClothingUniformJumpsuitOliveDrabs = olive drabs
-    .desc = Standard-issue military uniform in a plain olive pattern. Lacks a good camo index.
+ent-ClothingUniformJumpsuitOliveDrabs = оливковая форма
+    .desc = Штатная военная форма однотонного оливкового цвета. Маскирует плохо.
 
-ent-ClothingUniformJumpsuitTigerStripes = tiger stripes
-    .desc = A military uniform used in special covert operations. Boons a good camo index.
+ent-ClothingUniformJumpsuitTigerStripes = тигровый камуфляж
+    .desc = Военная форма для скрытных спецопераций. Хорошо маскирует.
 
-ent-ClothingUniformJumpsuitDisgusting = disgusting clothing
-    .desc = It smells almost as bad as the person wearing it.
+ent-ClothingUniformJumpsuitDisgusting = отвратительная одежда
+    .desc = Пахнет почти так же скверно, как тот, кто её носит.
 
-ent-ClothingUniformJumpsuitWaiter = waiter outfit
-    .desc = Commonplace in the food service industry.
+ent-ClothingUniformJumpsuitWaiter = костюм официанта
+    .desc = Обычная одежда работников общепита.
 
-ent-ClothingUniformSergeantUniform = sergeant's uniform
-    .desc = The uniform of a highly skilled member of security. They're the guiding light for this station's safety.
+ent-ClothingUniformSergeantUniform = форма сержанта
+    .desc = Форма высококвалифицированного сотрудника службы безопасности. Он служит путеводной звездой для тех, кто охраняет станцию.
 
-ent-ClothingUniformSergeantSkirt = sergeant's jumpskirt
-    .desc = The skirted uniform of a highly skilled member of security. They're the guiding light for this station's safety.
+ent-ClothingUniformSergeantSkirt = юбка-комбинезон сержанта
+    .desc = Форма с юбкой для высококвалифицированного сотрудника службы безопасности. Он служит путеводной звездой для тех, кто охраняет станцию.
 
-ent-ClothingUniformJumpsuitRancher = ranchers overalls
-    .desc = The standard uniform that any rancher worth their chickens wears.
+ent-ClothingUniformJumpsuitRancher = комбинезон животновода
+    .desc = Штатная форма любого животновода, который знает, как обращаться с курами.

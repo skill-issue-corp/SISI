@@ -1,15 +1,15 @@
-cult-rune-cant-draw = You need a floor to draw on!
-cult-rune-erased = Rune has been erased.
-cult-rune-not-enough-cultists = Not enough cultists to perform the ritual!
-cult-rune-no-targets = No targets have been found!
+cult-rune-cant-draw = Вам нужен пол, чтобы начертить руну!
+cult-rune-erased = Руна стёрта.
+cult-rune-not-enough-cultists = Для проведения ритуала не хватает культистов!
+cult-rune-no-targets = Цели не найдены!
 
-cult-teleport-not-found = No runes found.
+cult-teleport-not-found = Руны не найдены.
 
-cult-revive-rune-no-charges = Can not perform the revive ritual: no charges left.
-cult-revive-rune-already-alive = The target is already alive.
+cult-revive-rune-no-charges = Невозможно провести ритуал воскрешения: заряды кончились.
+cult-revive-rune-already-alive = Цель уже жива.
 
-cult-rending-drawing-finished = The Geometer Of Blood has finished drawing the rune of end near {$area}!
-cult-rending-target-alive = Can not start the ritual: the target is alive.
-cult-rending-already-summoning = Can not start the ritual: it's already in progress.
-cult-rending-started = The Geometer Of Blood has started the ritual of Dimensional Rending!
-cult-rending-prevented = Someone has stopped the ritual.
+cult-rending-drawing-finished = Последователи Геометра Крови начертили руну конца возле {$area}!
+cult-rending-target-alive = Невозможно начать ритуал: цель жива.
+cult-rending-already-summoning = Невозможно начать ритуал: он уже идёт.
+cult-rending-started = Последователи Геометра Крови начали ритуал Разрыва Измерений!
+cult-rending-prevented = Кто-то прервал ритуал.

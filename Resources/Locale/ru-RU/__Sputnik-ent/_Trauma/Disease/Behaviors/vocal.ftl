@@ -1,8 +1,8 @@
-ent-DiseaseBehaviorVocalCough = Intense Cough
+ent-DiseaseBehaviorVocalCough = Сильный Кашель
     .desc = { ent-DiseaseBehaviorCough.desc }
 
-ent-DiseaseBehaviorVocalCoughBlood = Bloody Cough
+ent-DiseaseBehaviorVocalCoughBlood = Кровавый Кашель
     .desc = { ent-DiseaseBehaviorVocalCough.desc }
 
-ent-DiseaseBehaviorVocalDestroyLungs = Lung Rupture
-    .desc = Parasites feed on alveoli, destroying the lungs.
+ent-DiseaseBehaviorVocalDestroyLungs = Разрыв Лёгких
+    .desc = Паразиты питаются альвеолами, разрушая лёгкие.

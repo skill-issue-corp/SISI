@@ -8,18 +8,18 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 
-verb-trigger-timer-set = {$time} Seconds
-verb-trigger-timer-set-current = {$time} Seconds (current)
-verb-trigger-timer-cycle = Cycle Time Delay
+verb-trigger-timer-set = {$time} Сек.
+verb-trigger-timer-set-current = {$time} Сек. (текущее)
+verb-trigger-timer-cycle = Сменить Время Задержки
 
-examine-trigger-timer = The timer is set to {$time} seconds.
+examine-trigger-timer = На таймере выставлено {$time} сек.
 
-popup-trigger-timer-set = Timer set to {$time} seconds.
+popup-trigger-timer-set = На таймере выставлено {$time} сек.
 
-verb-start-detonation = Start detonation
+verb-start-detonation = Начать детонацию
 
-verb-toggle-start-on-stick = Toggle auto-activation
-popup-start-on-stick-off = The device will no longer activate automatically when planted
-popup-start-on-stick-on = The device will now activate automatically when planted
+verb-toggle-start-on-stick = Переключить автоактивацию
+popup-start-on-stick-off = Устройство больше не активируется автоматически при установке
+popup-start-on-stick-on = Теперь устройство активируется автоматически при установке
 
-trigger-activated = You activate {THE($device)}.
+trigger-activated = Вы активируете {$device}.

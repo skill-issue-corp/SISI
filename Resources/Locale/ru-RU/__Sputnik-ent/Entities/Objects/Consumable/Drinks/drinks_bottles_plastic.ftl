@@ -2,95 +2,95 @@ ent-DrinkBottlePlasticBase = { ent-DrinkBaseMaterialPlastic }
     .desc = { ent-DrinkBaseMaterialPlastic.desc }
     .suffix = null
 
-ent-CustomDrinkJug = beverage jug
-    .desc = A jug for storing custom made drinks.
+ent-CustomDrinkJug = кувшин для напитков
+    .desc = Кувшин для хранения напитков собственного приготовления.
 
-ent-CustomDrinkJugFilled = beverage jug
+ent-CustomDrinkJugFilled = кувшин для напитков
     .desc = { ent-CustomDrinkJug.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-DrinkBottlePlasticSmallBaseFull = { ent-SolutionSmall }
     .desc = { ent-SolutionSmall.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
-ent-DrinkWaterBottleFull = water bottle
-    .desc = Simple clean water of unknown origin. You think that maybe you dont want to know it.
+ent-DrinkWaterBottleFull = бутылка воды
+    .desc = Обычная чистая вода неизвестного происхождения. Знать, откуда она взялась, вам, пожалуй, не хочется.
 
 ent-DrinkBottlePlasticBaseFull = { ent-DrinkBottlePlasticBase }
     .desc = { ent-DrinkBottlePlasticBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
-ent-DrinkColaBottleFull = Space Cola bottle
-    .desc = Cola. In spaaace!
+ent-DrinkColaBottleFull = бутылка «Космической Колы»
+    .desc = Кола. В ко-о-осмосе!
 
-ent-DrinkSpaceMountainWindBottleFull = Space Solar Wind bottle
-    .desc = Blows right through you like a solar wind.
+ent-DrinkSpaceMountainWindBottleFull = бутылка «Космического Солнечного Ветра»
+    .desc = Пронизывает вас насквозь, как солнечный ветер.
 
-ent-DrinkSpaceUpBottleFull = Space-Up bottle
-    .desc = Tastes like a hull breach in your mouth.
+ent-DrinkSpaceUpBottleFull = бутылка «Спейс-Ап»
+    .desc = На вкус как пробоина в обшивке прямо у вас во рту.
 
-ent-DrinkSodaWaterBottleFull = soda water bottle
-    .desc = Like water, but angry!
+ent-DrinkSodaWaterBottleFull = бутылка газированной воды
+    .desc = Как вода, только злая!
 
-ent-DrinkTonicWaterBottleFull = tonic water bottle
-    .desc = Like soda water, but angrier maybe? Often sweeter.
+ent-DrinkTonicWaterBottleFull = бутылка тоника
+    .desc = Как газированная вода, но, может быть, ещё злее? Обычно слаще.
 
-ent-DrinkSugarJug = sugar jug
-    .desc = Some people put this in their coffee...
-    .suffix = For Drinks, Full
+ent-DrinkSugarJug = кувшин сахара
+    .desc = Некоторые сыплют это в кофе...
+    .suffix = Для Напитков, Полностью Заполнено
 
-ent-DrinkJuiceLemonJug = lemon juice jug
-    .desc = The very definiton of sour.
-    .suffix = For Drinks, Full
+ent-DrinkJuiceLemonJug = кувшин лимонного сока
+    .desc = Само определение кислого.
+    .suffix = Для Напитков, Полностью Заполнено
 
-ent-DrinkLemonLimeJug = Smite jug
-    .desc = A dual citrus sensation.
+ent-DrinkLemonLimeJug = кувшин «Смайта»
+    .desc = Двойное цитрусовое ощущение.
 
-ent-DrinkMeadJug = mead jug
-    .desc = Storing mead in a plastic jug should be a crime.
+ent-DrinkMeadJug = кувшин медовухи
+    .desc = Хранить медовуху в пластиковом кувшине - преступление.
 
-ent-DrinkMilkJug = milk jug
-    .desc = Two cartons in one!
-    .suffix = For Drinks, Full
+ent-DrinkMilkJug = кувшин молока
+    .desc = Два пакета в одном!
+    .suffix = Для Напитков, Полностью Заполнено
 
-ent-DrinkIceJug = ice jug
-    .desc = Stubborn water. Pretty cool.
+ent-DrinkIceJug = кувшин льда
+    .desc = Упрямая вода. Довольно круто.
 
-ent-DrinkCoconutWaterJug = coconut water jug
-    .desc = It's on the inside of the coconut that counts.
+ent-DrinkCoconutWaterJug = кувшин кокосовой воды
+    .desc = В кокосе главное то, что внутри.
 
-ent-DrinkCoffeeJug = coffee jug
-    .desc = Wake up juice, of the heated kind.
+ent-DrinkCoffeeJug = кувшин кофе
+    .desc = Сок для пробуждения. Из горячих.
 
-ent-DrinkTeaJug = tea jug
-    .desc = The drink of choice for the Bri'ish and hipsters.
+ent-DrinkTeaJug = кувшин чая
+    .desc = Любимый напиток бриташек и хипстеров.
 
-ent-DrinkGreenTeaJug = green tea jug
-    .desc = It's like tea... but green! great for settling the stomach.
+ent-DrinkGreenTeaJug = кувшин зелёного чая
+    .desc = Как чай... только зелёный! отлично успокаивает желудок.
 
-ent-DrinkIcedTeaJug = iced tea jug
-    .desc = For when the regular tea is too hot for you. Boohoo.
+ent-DrinkIcedTeaJug = кувшин холодного чая
+    .desc = На случай, если обычный чай для вас слишком горяч. Бедненькие.
 
-ent-DrinkJuicePineappleJug = pineapple juice jug
-    .desc = The very essence of a vacation.
-    .suffix = For Drinks, Full
+ent-DrinkJuicePineappleJug = кувшин ананасового сока
+    .desc = Самая суть отпуска.
+    .suffix = Для Напитков, Полностью Заполнено
 
-ent-DrinkDrGibbJug = Dr. Gibb jug
-    .desc = 42 different flavours... in a jug!
+ent-DrinkDrGibbJug = кувшин «Доктора Гибба»
+    .desc = 42 разных вкуса... в кувшине!
 
-ent-DrinkRootBeerJug = root beer jug
-    .desc = This drink makes Australians giggle.
+ent-DrinkRootBeerJug = кувшин корневого пива
+    .desc = От этого напитка Австралийцы хихикают.
 
-ent-DrinkSolDryJug = sol dry jug
-    .desc = Great for treating a hangover, no wonder the bar has a jug of it.
-    .suffix = For Drinks, Full
+ent-DrinkSolDryJug = кувшин «сол драй»
+    .desc = Прекрасно помогает с похмелья. Неудивительно, что в баре его целый кувшин.
+    .suffix = Для Напитков, Полностью Заполнено
 
-ent-DrinkJuiceTomatoJug = tomato juice jug
-    .desc = Tastes like a debatably categorized plant.
-    .suffix = For Drinks, Full
+ent-DrinkJuiceTomatoJug = кувшин томатного сока
+    .desc = На вкус как растение, о классификации которого всё ещё спорят.
+    .suffix = Для Напитков, Полностью Заполнено
 
-ent-DrinkWaterMelonJuiceJug = watermelon juice jug
-    .desc = May include leftover seeds.
+ent-DrinkWaterMelonJuiceJug = кувшин арбузного сока
+    .desc = Могли остаться косточки.
 
-ent-DrinkEnergyDrinkJug = Red Bool jug
-    .desc = A jug of Red Bool, with enough caffeine to kill a whole station.
+ent-DrinkEnergyDrinkJug = кувшин «Ред Бул»
+    .desc = Кувшин «Ред Бул» с таким количеством кофеина, что хватит убить целую станцию.

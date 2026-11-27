@@ -1,5 +1,5 @@
-ent-MaterialCosmicCultEntropy = mote of entropy
-    .desc = A solidified mote of entropic essence. Numbing to the touch.
+ent-MaterialCosmicCultEntropy = крупица энтропии
+    .desc = Затвердевшая крупица энтропийной эссенции. От прикосновения всё немеет.
     .suffix = 20
 
 ent-MaterialCosmicCultEntropy1 = { ent-MaterialCosmicCultEntropy }

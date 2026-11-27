@@ -1,53 +1,53 @@
 # This file is only for the language traits. If we add species-specific languages to the list of traits,
 # we should add them here in the order they are in the list, for organization. Maybe add more languages later.
 
-trait-category-languages = Languages
+trait-category-languages = Языки
 
-trait-language-foreigner-light-name = Foreigner Light
+trait-language-foreigner-light-name = Иностранец (Лёгкая Версия)
 trait-language-foreigner-light-desc =
-    You understand the common language, Corporate Standard, but you can't quite speak it yet.
-    You have a translator to help you with your basic understanding of the language, better keep it charged.
+    Вы понимаете общий язык, Корпоративный Стандарт, но пока не можете толком на нём говорить.
+    У вас есть переводчик, который дополняет ваше базовое знание языка. Не забывайте заряжать его.
 
-trait-language-foreigner-name = Foreigner
+trait-language-foreigner-name = Иностранец
 trait-language-foreigner-desc =
-    You can't understand the common language, Corporate Standard, and you require a translator at all times to talk.
-    You have a translator to help you with your understanding and speaking, make sure to keep it charged.
+    Вы не понимаете общий язык, Корпоративный Стандарт, и без переводчика говорить не можете.
+    У вас есть переводчик, который помогает понимать речь и разговаривать. Следите за его зарядом.
 
-trait-language-signlanguage-name = Sign Language
+trait-language-signlanguage-name = Жестовый Язык
 trait-language-signlanguage-desc =
-    The use of body language, hand signs, and other forms of dexterous movements to get your point across.
-    You can understand and use Corporate Standard Sign Language.
-    If you are mute for any reason, you can still communicate with sign language.
+    Вы можете выражать свои мысли позой, жестами рук и другими ловкими движениями.
+    Вы понимаете и используете Стандартный Корпоративный Жестовый Язык.
+    Даже если вы по какой-то причине не можете говорить, вы всё ещё можете общаться жестами.
 
-trait-language-solcommon-name = EarthGen
+trait-language-solcommon-name = ЗемлеГен
 trait-language-solcommon-desc =
-    Founded by the World Prosperity Spheres in 2360, it was the original Human Unified Language before the adoption of Corporate Standard for trade.
-    All humans and those who live in human nations are at least familiar with this language, which has become synonymous with humanity. It has its
-    roots in English, Japanese, and Mandarin, giving it a distinct accent and structure.
+    Создан Сферами Мирового Процветания в 2360 году и был первым Единым Языком Человечества, пока для торговли не приняли Корпоративный Стандарт.
+    Все люди и жители человеческих государств хотя бы немного знакомы с этим языком, который стал неотделим от человечества. Его
+    корни - в Английском, Японском и Севернокитайском. Отсюда его особое звучание и строй.
 
-trait-language-tradeband-name = Tradeband
+trait-language-tradeband-name = Трейдбэнд
 trait-language-tradeband-desc =
-    Descended from latin and romance languages of old Earth - Tradeband remains the main tongue of the upper class of humanity.
-    The language sounds elegant and well structured to most ears. It remains in popular use with traders - diplomats - and those seeking to hold onto a piece of a romantic past.
+    Происходит от латыни и романских языков старой Земли - Трейдбэнд остаётся основным языком высшего общества человечества.
+    Большинству он кажется изящным и стройным. На нём по-прежнему часто говорят торговцы - дипломаты - и все, кто хочет сохранить частичку романтического прошлого.
 
-trait-language-freespeak-name = Fringe-Gutter
+trait-language-freespeak-name = Окраинный-Жаргон
 trait-language-freespeak-desc =
-   The drowl and jumble of various stitched-together languages. The barbarian language finds like-minded company: renegades, frontiersmen, and explorers.
-   It is considered the language of those who live on the fringe, and anyone who speaks it proudly identifies with that crowd.
+   Протяжная смесь кое-как сшитых языков. Этот варварский говор пришёлся по душе таким же неприкаянным: ренегатам, жителям пограничья и исследователям.
+   Его считают языком обитателей окраин, а те, кто на нём говорит, с гордостью причисляют себя к ним.
 
-trait-language-elyran-name = Sunna Arabic
+trait-language-elyran-name = Арабский Сунны
 trait-language-elyran-desc =
-    Influenced by Farsi, Turkish, and Arabic, it is the official language of the Sunna Core. It is a prime symbol of unity and independence from their former master.
-    Traders and merchants sometimes use it, and hearing it on your travels is considered a sign of good luck.
+    Испытавший влияние Персидского, Турецкого и Арабского, он стал официальным языком Ядра Сунны. Это главный символ единства и независимости от прежнего хозяина.
+    Торговцы и купцы иногда пользуются им, а услышать его в пути считается добрым знаком.
 
 
-trait-language-novunederic-name = Terralingua
+trait-language-novunederic-name = Терралингва
 trait-language-novunederic-desc =
-    Created by a select few Cetian philosophers, it was at first a lingua franca of Cetiburghow, allowing easy communication with other planetary communities.
-    After the establishment of the Terran Union, it has become the national language, and it is taught even in the furthest of her territories. It has a guttural
-    yet rich vowel structure and a melodic quality deliberately made distinct. Its speech has also been made as hard as possible for a non-human to replicate.
+    Создан небольшой группой философов Цети. Изначально был общим языком Цетибургоу и позволял легко общаться с другими планетарными сообществами.
+    После основания Союза Терры стал государственным языком. Его преподают даже на самых отдалённых территориях Союза. Язык отличают гортанные звуки,
+    богатая система гласных и намеренно своеобразная мелодика. Произношение специально устроено так, чтобы его было как можно труднее воспроизвести нелюдям.
 
-trait-language-azaziba-name = Sinta'Azaziba
+trait-language-azaziba-name = Синта'Азазиба
 trait-language-azaziba-desc =
-    A language of Moghes consisting of a combination of spoken word and gesticulation.
-    While waning since Moghes entered the galactic stage - it enjoys popular use by Unathi that never fell to the Hegemony's cultural dominance.
+    Язык Могеса, сочетающий устную речь и жесты.
+    После выхода Могеса на галактическую арену язык приходит в упадок - но на нём по-прежнему широко говорят Унатхи, сохранившие независимость от культуры Гегемонии.

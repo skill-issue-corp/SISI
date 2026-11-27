@@ -1,12 +1,12 @@
-ent-AppearanceShadowling = shadowling appearance
+ent-AppearanceShadowling = внешность тенеморфа
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobShadowling = Urist McSling
+ent-MobShadowling = Урист МакТенеморф
     .desc = { ent-AppearanceShadowling.desc }
 
 ent-OrganShadowling = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = shadowling
+    .suffix = тенеморф
 
 ent-OrganShadowlingExternal = { ent-OrganShadowling }
     .desc = { ent-OrganShadowling.desc }

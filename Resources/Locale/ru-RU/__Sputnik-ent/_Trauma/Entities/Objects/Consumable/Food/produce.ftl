@@ -1,47 +1,47 @@
-ent-FoodLemonade = lemonade
-    .desc = When life gives you lemons, commit arson. With the lemons.
-    .suffix = Food
+ent-FoodLemonade = лимонад
+    .desc = Если жизнь даёт вам лимоны, устройте поджог. Лимонами.
+    .suffix = Еда
 
-ent-FoodCoconut = coconut
-    .desc = Should probably split it before eating...
+ent-FoodCoconut = кокос
+    .desc = Пожалуй, сначала стоит расколоть его...
 
-ent-FoodCoconutHalf = coconut half
-    .desc = The perfect defense... if you're an octopus. A botanist would kill for one of these.
+ent-FoodCoconutHalf = половинка кокоса
+    .desc = Идеальная защита... если вы осьминог. Ботаник за такую убьёт.
 
-ent-TrashCoconutShell = coconut shell
-    .desc = The shell of a coconut, kinda useless.
+ent-TrashCoconutShell = кокосовая скорлупа
+    .desc = Скорлупа кокоса, толку от неё маловато.
 
-ent-FoodCherryBomb = cherry
-    .desc = Juicy red cherry with a bomb inside.
-    .suffix = bomb
+ent-FoodCherryBomb = вишня
+    .desc = Сочная красная вишня с бомбой внутри.
+    .suffix = бомба
 
-ent-MimanaPeelStealthy = mimana peel
+ent-MimanaPeelStealthy = кожура миманы
     .desc = { ent-TrashMimanaPeel.desc }
-    .suffix = Stealthy
+    .suffix = Скрытная
 
-ent-FoodDeliciousApple = delicious looking apple
-    .desc = It's a delicious piece of Eden.
+ent-FoodDeliciousApple = аппетитное яблоко
+    .desc = Вкусный кусочек Эдема.
 
-ent-FoodMethApple = meth apple
-    .desc = It's a meth up'ed piece of Eden.
+ent-FoodMethApple = метовое яблоко
+    .desc = Обдолбанный метом кусочек Эдема.
 
-ent-FoodClearCorn = clear corn
-    .desc = Corn, but clear!
+ent-FoodClearCorn = прозрачная кукуруза
+    .desc = Кукуруза, только прозрачная!
 
-ent-FoodPeanut = peanut
-    .desc = A pea, but with nut.
+ent-FoodPeanut = арахис
+    .desc = Горошина, только орех.
 
-ent-FoodMagicMushroom = magic mushrooms
-    .desc = Mushrooms with just a little bit of magic.
+ent-FoodMagicMushroom = волшебные грибы
+    .desc = Грибы с капелькой магии.
 
-ent-FoodSynthMeat = synthmeat
-    .desc = Synthetic meat grown in hydroponics.
+ent-FoodSynthMeat = синтмясо
+    .desc = Синтмясо, выращенное на гидропонике.
 
-ent-MelonBalloon = melon balloon
-    .desc = Who knew that melons could fly!
+ent-MelonBalloon = дынный шарик
+    .desc = Кто бы мог подумать, что дыни умеют летать!
 
-ent-SteelWheatBushel = steel wheat bushel
-    .desc = Sigh... steel wheat... a-grain?
+ent-SteelWheatBushel = сноп стальной пшеницы
+    .desc = Эх... опять стальная пшеница... сталь да сталь, ни зерна покоя.
 
-ent-PlasticLog = plastic-cap log
-    .desc = Plastic mushroom, not even micro this time. Ages 3 and up.
+ent-PlasticLog = ствол пластикошляпника
+    .desc = Пластиковый гриб, на этот раз даже не микро. Для детей от 3 лет.

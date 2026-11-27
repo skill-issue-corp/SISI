@@ -1,13 +1,13 @@
-ent-XenoWardingTower = xeno warding tower
+ent-XenoWardingTower = защитная башня ксеноморфов
     .desc = { "" }
 
-ent-CarpStatue = carp statue
-    .desc = A statue of one of the brave carp that got us where we are today. Made with real teeth!
+ent-CarpStatue = статуя карпа
+    .desc = Статуя одного из храбрых карпов, благодаря которым мы дошли до сегодняшнего дня. Сделана из настоящих зубов!
 
 ent-CarpStatueEmpty = { ent-CarpStatue }
-    .desc = A lump of precious metals, soon to be a brilliant carp statue.
-    .suffix = Empty
+    .desc = Комок драгоценных металлов, который скоро станет блестящей статуей карпа.
+    .suffix = Пусто
 
 ent-CarpStatueEyes = { ent-CarpStatue }
-    .desc = A statue of one of the brave carp that got us where we are today. This one needs a dentist...
-    .suffix = Eyes
+    .desc = Статуя одного из храбрых карпов, благодаря которым мы дошли до сегодняшнего дня. Этому нужен стоматолог...
+    .suffix = Глаза

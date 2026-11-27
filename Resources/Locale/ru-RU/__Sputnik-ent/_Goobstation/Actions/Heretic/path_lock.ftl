@@ -1,5 +1,5 @@
-ent-ActionHereticLastRefuge = Caretaker’s Last Refuge
-    .desc = Shifts you into the Caretaker's Refuge, rendering you translucent and intangible. While in the Refuge your movement is unrestricted, but you cannot use your hands or cast any spells. You cannot enter the Refuge while near other sentient beings, and you can be removed from it upon contact with antimagical artifacts.
+ent-ActionHereticLastRefuge = Последнее Убежище Консьержа
+    .desc = Переносит вас в Убежище Консьержа, где вы становитесь полупрозрачным и неосязаемым. В Убежище вы свободно перемещаетесь, но не можете пользоваться руками или колдовать. В Убежище нельзя войти рядом с другими разумными существами, а контакт с антимагическими артефактами может вытолкнуть вас оттуда.
 
-ent-ActionHereticShapeshiftLock = Shapechange
-    .desc = A spell that allows you to take on the form of another creature, gaining their abilities.
+ent-ActionHereticShapeshiftLock = Смена Облика
+    .desc = Заклинание, позволяющее принять облик другого существа и получить его способности.

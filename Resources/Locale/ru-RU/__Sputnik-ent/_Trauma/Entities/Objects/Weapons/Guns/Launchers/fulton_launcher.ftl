@@ -1,6 +1,6 @@
 ent-WeaponLauncherFulton = FB MR R-L FLTN
-    .desc = The Falkenberg Multi-Role Rocket Launcher, modified to fire high-speed fultons. For when your running speed is the bottleneck to growing your army.
-    .suffix = fulton launcher
+    .desc = Многоцелевая Ракетная Установка Фалькенберга, модифицированная для запуска высокоскоростных фултонов. На случай, если ваша армия растёт так медленно из-за вашей скорости бега.
+    .suffix = пусковая установка фултонов
 
-ent-ProjectileFulton = fulton
-    .desc = CP! A ballooon just pulled one of our men into the air!
+ent-ProjectileFulton = фултон
+    .desc = КП! Воздушный шар только что утащил одного из наших в небо!

@@ -6,11 +6,11 @@
 #
 # SPDX-License-Identifier: MIT
 
-server-shutdown = Shutdown
-server-ooc-toggle = Toggle OOC
-server-looc-toggle = Toggle LOOC
-server-afk-timers = AFK Timers
-server-afk-time = Player AFK Time
-server-admin-afk-time = Admin AFK Time
-server-afk-confirm-timeout = Confirm Timeout
-server-dead-chat-toggle = Toggle Dead Chat
+server-shutdown = Выключить
+server-ooc-toggle = Переключить OOC
+server-looc-toggle = Переключить LOOC
+server-afk-timers = Таймеры АФК
+server-afk-time = Время АФК Игрока
+server-admin-afk-time = Время АФК Администратора
+server-afk-confirm-timeout = Время на Подтверждение
+server-dead-chat-toggle = Переключить Чат Мёртвых

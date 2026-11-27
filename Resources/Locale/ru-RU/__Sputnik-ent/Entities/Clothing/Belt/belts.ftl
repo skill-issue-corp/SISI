@@ -1,35 +1,35 @@
-ent-ClothingBeltSheath = sabre sheath
-    .desc = An ornate sheath designed to hold an officer's blade.
+ent-ClothingBeltSheath = ножны для сабли
+    .desc = Богато украшенные ножны для офицерского клинка.
 
-ent-ClothingBeltQuiver = quiver
-    .desc = Can hold up to 16 arrows, and fits snug around your waist.
+ent-ClothingBeltQuiver = колчан
+    .desc = Вмещает до 16 стрел и плотно сидит на поясе.
 
-ent-ClothingBeltBandolier = bandolier
-    .desc = A bandolier for holding shotgun ammunition.
+ent-ClothingBeltBandolier = патронташ
+    .desc = Патронташ для хранения патронов к дробовику.
 
-ent-ClothingBeltWand = wand belt
-    .desc = A belt designed to hold various rods of power. A veritable fanny pack of exotic magic.
+ent-ClothingBeltWand = пояс для жезлов
+    .desc = Пояс для разных жезлов силы. Настоящая поясная сумка с экзотической магией.
 
-ent-ClothingBeltHolster = shoulder holster
-    .desc = A holster to carry a handgun and ammo. WARNING: Badasses only.
+ent-ClothingBeltHolster = наплечная кобура
+    .desc = Кобура для пистолета и боеприпасов. ВНИМАНИЕ: Только для крутых парней.
 
-ent-ClothingBeltSyndieHolster = syndicate shoulder holster
-    .desc = A deep shoulder holster capable of holding many types of ballistics.
+ent-ClothingBeltSyndieHolster = наплечная кобура синдиката
+    .desc = Глубокая наплечная кобура, способная вместить много видов огнестрельного оружия.
 
-ent-ClothingBeltSecurityWebbing = security carrier
-    .desc = Unique and versatile chest rig, can hold security gear.
+ent-ClothingBeltSecurityWebbing = разгрузка службы безопасности
+    .desc = Уникальная универсальная разгрузка, вмещающая снаряжение службы безопасности.
 
-ent-ClothingBeltMercWebbing = mercenary webbing
-    .desc = Ideal for storing everything from ammo to weapons and combat essentials.
+ent-ClothingBeltMercWebbing = разгрузка наёмника
+    .desc = Идеальна для хранения всего от боеприпасов до оружия и необходимых в бою вещей.
 
-ent-ClothingBeltSalvageWebbing = salvage rig
-    .desc = Universal unloading system for work in space.
+ent-ClothingBeltSalvageWebbing = разгрузка утилизатора
+    .desc = Универсальная разгрузочная система для работы в космосе.
 
-ent-ClothingBeltMilitaryWebbing = chest rig
-    .desc = A set of tactical webbing worn by Syndicate boarding parties.
+ent-ClothingBeltMilitaryWebbing = разгрузка
+    .desc = Тактическая разгрузка абордажных групп Синдиката.
 
-ent-ClothingBeltMilitaryWebbingMed = medical chest rig
-    .desc = A set of tactical webbing worn by Gorlex Marauder medic operatives.
+ent-ClothingBeltMilitaryWebbingMed = медицинская разгрузка
+    .desc = Тактическая разгрузка оперативников-медиков из Мародёров Горлекса.
 
-ent-ClothingBeltMilitaryWebbingERT = ERT chest rig
-    .desc = A set of tactical webbing worn by Emergency Response Team operatives.
+ent-ClothingBeltMilitaryWebbingERT = разгрузка ОБР
+    .desc = Тактическая разгрузка оперативников Отряда Быстрого Реагирования.

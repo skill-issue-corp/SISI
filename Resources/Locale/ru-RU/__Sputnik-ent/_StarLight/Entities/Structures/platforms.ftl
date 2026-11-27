@@ -1,5 +1,5 @@
-ent-CMPlatformBase = platform
-    .desc = A raised surface. Wait, thats illegal!
+ent-CMPlatformBase = платформа
+    .desc = Приподнятая поверхность. Погодите, это же незаконно!
 
 ent-CMPlatform = { ent-CMPlatformBase }
     .desc = { ent-CMPlatformBase.desc }

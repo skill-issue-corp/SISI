@@ -1,5 +1,5 @@
-ent-RevPropaganda = propaganda pamphlet
-    .desc = It is a revolutionary propaganda pamphlet. It loses its charm after reading it once, so you will need plenty.
+ent-RevPropaganda = агитационная листовка
+    .desc = Листовка с революционной пропагандой. После первого прочтения теряет силу, так что запаситесь ими.
 
-ent-RevPropagandaAdvanced = advanced propaganda pamphlet
-    .desc = This propaganda pamphlet is full of the most potent class consciousness you can come up with. It will convert instantly.
+ent-RevPropagandaAdvanced = продвинутая агитационная листовка
+    .desc = В этой агитационной листовке собрано самое мощное классовое сознание, какое придёт вам в голову. Обращает мгновенно.

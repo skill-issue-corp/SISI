@@ -1,148 +1,148 @@
-ent-ComputerAlert = atmospheric alerts computer
-    .desc = Used to access the station's atmospheric automated alert system.
+ent-ComputerAlert = компьютер атмосферных оповещений
+    .desc = Даёт доступ к автоматической системе атмосферных оповещений станции.
 
-ent-ComputerAtmosMonitoring = atmospheric network monitor
-    .desc = Used to monitor the station's atmospheric networks.
+ent-ComputerAtmosMonitoring = мониторинг атмосферной сети
+    .desc = Используется для наблюдения за атмосферными сетями станции.
 
-ent-ComputerEmergencyShuttle = emergency shuttle console
-    .desc = Handles authorization to early launch the shuttle.
+ent-ComputerEmergencyShuttle = консоль эвакуационного шаттла
+    .desc = Принимает разрешения на досрочный запуск шаттла.
 
-ent-BaseComputerShuttle = shuttle console
-    .desc = Used to pilot a shuttle.
+ent-BaseComputerShuttle = консоль шаттла
+    .desc = Используется для пилотирования шаттла.
 
-ent-ComputerShuttle = shuttle console
-    .desc = Used to pilot a shuttle.
+ent-ComputerShuttle = консоль шаттла
+    .desc = Используется для пилотирования шаттла.
 
-ent-ComputerShuttleSyndie = syndicate shuttle console
-    .desc = Used to pilot a syndicate shuttle.
+ent-ComputerShuttleSyndie = консоль шаттла синдиката
+    .desc = Используется для пилотирования шаттла синдиката.
 
-ent-ComputerShuttleCargo = cargo shuttle console
-    .desc = Used to pilot the cargo shuttle.
+ent-ComputerShuttleCargo = консоль шаттла карго
+    .desc = Используется для пилотирования шаттла карго.
 
-ent-ComputerIFF = IFF computer
-    .desc = Allows you to control the IFF characteristics of this vessel.
+ent-ComputerIFF = консоль системы опознавания
+    .desc = Позволяет управлять параметрами системы опознавания этого корабля.
 
-ent-ComputerIFFSyndicate = IFF computer
-    .desc = Allows you to control the IFF and stealth characteristics of this vessel.
-    .suffix = Syndicate
+ent-ComputerIFFSyndicate = консоль системы опознавания
+    .desc = Позволяет управлять параметрами системы опознавания и маскировки этого корабля.
+    .suffix = Синдикат
 
-ent-ComputerPowerMonitoring = power monitoring computer
-    .desc = It monitors power levels across the station.
+ent-ComputerPowerMonitoring = компьютер мониторинга питания
+    .desc = Следит за электроснабжением всей станции.
 
-ent-ComputerMedicalRecords = medical records computer
-    .desc = This can be used to check medical records.
+ent-ComputerMedicalRecords = компьютер медицинских записей
+    .desc = Позволяет просматривать медицинские записи.
 
-ent-ComputerCriminalRecords = criminal records computer
-    .desc = This can be used to check criminal records. Only security can modify them.
+ent-ComputerCriminalRecords = компьютер криминальных записей
+    .desc = Позволяет просматривать криминальные записи. Изменять их может только служба безопасности.
 
-ent-ComputerStationRecords = station records computer
-    .desc = This can be used to check station records.
+ent-ComputerStationRecords = компьютер станционных записей
+    .desc = Позволяет просматривать станционные записи.
 
-ent-ComputerCrewMonitoring = crew monitoring console
-    .desc = Used to monitor active health sensors built into most of the crew's uniforms.
+ent-ComputerCrewMonitoring = консоль мониторинга экипажа
+    .desc = Отслеживает активные датчики здоровья, встроенные в большинство форм экипажа.
 
-ent-ComputerStationTeleportersControl = station teleporters control console
-    .desc = Used to monitor station teleport system operations.
+ent-ComputerStationTeleportersControl = консоль управления станционными телепортами
+    .desc = Отслеживает работу станционной системы телепортации.
 
 ent-ComputerStationTeleportersControlFilled = { ent-ComputerStationTeleportersControl }
     .desc = { ent-ComputerStationTeleportersControl.desc }
-    .suffix = Autofilled, Nanotrasen Network
+    .suffix = Автозаполнено, Сеть NanoTrasen
 
-ent-ComputerSyndicateTeleportersControl = syndicate teleporters control console
+ent-ComputerSyndicateTeleportersControl = консоль управления телепортами синдиката
     .desc = { ent-ComputerStationTeleportersControl.desc }
 
-ent-ComputerResearchAndDevelopment = R&D computer
-    .desc = A computer used to interface with R&D tools.
+ent-ComputerResearchAndDevelopment = компьютер НиО
+    .desc = Компьютер для работы с оборудованием НиО.
 
-ent-ComputerAnalysisConsole = analysis console
-    .desc = A computer used to interface with the artifact analyzer.
+ent-ComputerAnalysisConsole = консоль анализа
+    .desc = Компьютер для работы с анализатором артефактов.
 
-ent-ComputerId = ID card computer
-    .desc = Terminal for programming Nanotrasen employee ID cards to access parts of the station.
+ent-ComputerId = компьютер ID-карт
+    .desc = Терминал для программирования доступа к отсекам станции на ID-картах сотрудников NanoTrasen.
 
-ent-computerBodyScanner = body scanner computer
-    .desc = A body scanner.
+ent-computerBodyScanner = компьютер сканера тела
+    .desc = Сканер тела.
 
-ent-ComputerComms = communications computer
-    .desc = A computer used to make station wide announcements via keyboard, set the appropriate alert level, and call the emergency shuttle.
+ent-ComputerComms = компьютер связи
+    .desc = Компьютер для рассылки объявлений по станции с клавиатуры, смены уровня тревоги и вызова эвакуационного шаттла.
 
-ent-SyndicateComputerComms = syndicate communications computer
-    .desc = A computer capable of remotely hacking into the station's communications systems. Using this to make an announcement will alert the station to your presence.
+ent-SyndicateComputerComms = компьютер связи синдиката
+    .desc = Компьютер, способный дистанционно взламывать системы связи станции. Если передать через него объявление, на станции узнают о вашем присутствии.
 
-ent-CentcommComputerComms = central command communications computer
-    .desc = A computer used to make world wide announcements via keyboard. The superior cousin of the regular communications computer.
+ent-CentcommComputerComms = компьютер связи центрального командования
+    .desc = Компьютер для передачи объявлений всему миру с клавиатуры. Продвинутый родственник обычного компьютера связи.
 
-ent-ComputerSolarControl = solar control computer
-    .desc = A controller for solar panel arrays.
+ent-ComputerSolarControl = компьютер управления солнечными панелями
+    .desc = Контроллер массивов солнечных панелей.
 
-ent-ComputerRadar = mass scanner computer
-    .desc = A computer for detecting nearby bodies, displaying them by position and mass.
+ent-ComputerRadar = компьютер сканера масс
+    .desc = Компьютер обнаруживает ближайшие объекты и отображает их положение и массу.
 
-ent-ComputerCargoOrders = cargo request computer
-    .desc = Used to order supplies and approve requests.
+ent-ComputerCargoOrders = компьютер заказов карго
+    .desc = Используется для заказа припасов и одобрения заявок.
 
-ent-ComputerCargoOrdersEngineering = engineering request computer
-    .desc = Used by the engineering department to order supplies.
+ent-ComputerCargoOrdersEngineering = компьютер заказов инженерии
+    .desc = Инженерный отдел использует его для заказа припасов.
 
-ent-ComputerCargoOrdersMedical = medical request computer
-    .desc = Used by the medical department to order supplies.
+ent-ComputerCargoOrdersMedical = компьютер заказов медотсека
+    .desc = Медицинский отдел использует его для заказа припасов.
 
-ent-ComputerCargoOrdersScience = science request computer
-    .desc = Used by the science department to order supplies.
+ent-ComputerCargoOrdersScience = компьютер заказов научного отдела
+    .desc = Научный отдел использует его для заказа припасов.
 
-ent-ComputerCargoOrdersSecurity = security request computer
-    .desc = Used by the security department to order supplies.
+ent-ComputerCargoOrdersSecurity = компьютер заказов службы безопасности
+    .desc = Служба безопасности использует его для заказа припасов.
 
-ent-ComputerCargoOrdersService = service request computer
-    .desc = Used by the service department to order supplies.
+ent-ComputerCargoOrdersService = компьютер заказов обслуживания
+    .desc = Отдел обслуживания использует его для заказа припасов.
 
-ent-ComputerCargoBounty = cargo bounty computer
-    .desc = Used to manage currently active bounties.
+ent-ComputerCargoBounty = компьютер заказов карго на поставку
+    .desc = Используется для управления действующими заказами на поставку.
 
-ent-ComputerFundingAllocation = funding allocation computer
-    .desc = Terminal for controlling the distribution of funds and pay to departments.
+ent-ComputerFundingAllocation = компьютер распределения средств
+    .desc = Терминал для управления распределением средств и выплатами отделам.
 
-ent-ComputerCloningConsole = cloning console computer
-    .desc = The centerpiece of the cloning system, medicine's greatest accomplishment. It has lots of ports and wires.
+ent-ComputerCloningConsole = компьютер управления клонированием
+    .desc = Сердце системы клонирования, величайшего достижения медицины. В нём полно разъёмов и проводов.
 
-ent-ComputerSalvageJobBoard = salvage job board
-    .desc = Console for accessing salvage jobs, if you're tough enough.
+ent-ComputerSalvageJobBoard = доска заданий утилизаторов
+    .desc = Консоль для доступа к заданиям утилизаторов, если у вас хватит духу.
 
-ent-ComputerSalvageExpedition = salvage expeditions computer
-    .desc = Used to accept salvage missions, if you're tough enough.
+ent-ComputerSalvageExpedition = консоль экспедиций утилизаторов
+    .desc = Через него можно брать задания утилизаторов, если у вас хватит духу.
 
-ent-ComputerSurveillanceCameraMonitor = camera monitor
-    .desc = A surveillance camera monitor. You're watching them. Maybe.
+ent-ComputerSurveillanceCameraMonitor = монитор видеокамер
+    .desc = Монитор камер наблюдения. Вы за ними следите. Может быть.
 
-ent-ComputerSurveillanceWirelessCameraMonitor = wireless camera monitor
-    .desc = A wireless surveillance camera monitor. You're watching them. Maybe.
+ent-ComputerSurveillanceWirelessCameraMonitor = монитор беспроводных видеокамер
+    .desc = Монитор беспроводных камер наблюдения. Вы за ними следите. Может быть.
 
-ent-ComputerSurveillanceWirelessXenoborgCameraMonitor = xenoborg camera monitor
-    .desc = A wireless xenoborg camera monitor. You're watching them. Maybe.
+ent-ComputerSurveillanceWirelessXenoborgCameraMonitor = монитор камер ксеноборгов
+    .desc = Беспроводной монитор камер ксеноборгов. Вы за ними следите. Может быть.
 
-ent-ComputerPalletConsole = cargo sale computer
-    .desc = Used to sell goods loaded onto cargo pallets.
+ent-ComputerPalletConsole = компьютер продажи товаров карго
+    .desc = Используется для продажи товаров на грузовых поддонах.
 
-ent-ComputerMassMedia = news manager console
-    .desc = Write your message to the world!
+ent-ComputerMassMedia = консоль управления новостями
+    .desc = Напишите своё послание всему миру!
 
-ent-ComputerSensorMonitoring = sensor monitoring computer
-    .desc = A flexible console for monitoring all kinds of sensors.
-    .suffix = TESTING, DO NOT MAP
+ent-ComputerSensorMonitoring = компьютер мониторинга датчиков
+    .desc = Универсальная консоль для наблюдения за самыми разными датчиками.
+    .suffix = ТЕСТИРОВАНИЕ, НЕ МАППИТЬ
 
-ent-ComputerRoboticsControl = robotics control console
-    .desc = Used to remotely monitor the station's cyborgs.
+ent-ComputerRoboticsControl = консоль управления робототехникой
+    .desc = Используется для дистанционного наблюдения за боргами станции.
 
-ent-ComputerXenoborgsControl = xenoborgs control console
-    .desc = Used to remotely monitor all xenoborgs.
+ent-ComputerXenoborgsControl = консоль управления ксеноборгами
+    .desc = Используется для дистанционного наблюдения за всеми ксеноборгами.
 
-ent-StationAiUploadComputer = AI upload console
-    .desc = Used to update the laws of the station AI.
+ent-StationAiUploadComputer = консоль загрузки законов ИИ
+    .desc = Используется для обновления законов станционного ИИ.
 
-ent-StationAiFixerComputer = AI restoration console
-    .desc = Used to repair damaged artifical intelligences.
+ent-StationAiFixerComputer = консоль восстановления ИИ
+    .desc = Используется для ремонта повреждённых искусственных интеллектов.
 
-ent-ComputerNukieDelivery = syndicate delivery computer
+ent-ComputerNukieDelivery = компьютер доставки синдиката
     .desc = 
-        A computer that can bluespace in certain equipment for Nuclear Operations. 
-        The circuitboard is integrated into the frame and can't be recovered if deconstructed.
+        Компьютер, который может доставлять через блюспейс часть снаряжения для Ядерных Операций.
+        Плата встроена в корпус, и при разборке её извлечь не получится.

@@ -1,68 +1,68 @@
 ent-FoodDonkpocketBase = { ent-SolutionTiny }
     .desc = { ent-SolutionTiny.desc }
 
-ent-FoodDonkpocket = donk-pocket
-    .desc = The food of choice for the seasoned traitor.
+ent-FoodDonkpocket = донк-покет
+    .desc = Любимая еда бывалого предателя.
 
 ent-SolutionFoodDonkpocketWarm = { ent-SolutionFood }
     .desc = { ent-SolutionFood.desc }
 
-ent-FoodDonkpocketWarm = warm donk-pocket
-    .desc = The heated food of choice for the seasoned traitor.
+ent-FoodDonkpocketWarm = тёплый донк-покет
+    .desc = Подогретая любимая еда бывалого предателя.
 
-ent-FoodDonkpocketDank = dank-pocket
-    .desc = The food of choice for the seasoned botanist.
+ent-FoodDonkpocketDank = данк-покет
+    .desc = Любимая еда бывалого ботаника.
 
-ent-FoodDonkpocketDankWarm = warm dank-pocket
-    .desc = The heated food of choice for the seasoned botanist.
+ent-FoodDonkpocketDankWarm = тёплый данк-покет
+    .desc = Подогретая любимая еда бывалого ботаника.
 
-ent-FoodDonkpocketSpicy = spicy-pocket
-    .desc = The classic snack food, now with a heat-activated spicy flair.
+ent-FoodDonkpocketSpicy = спайси-покет
+    .desc = Классическая закуска, которая становится острой при нагревании.
 
-ent-FoodDonkpocketSpicyWarm = warm spicy-pocket
-    .desc = The classic snack food, now maybe a bit too spicy.
+ent-FoodDonkpocketSpicyWarm = тёплый спайси-покет
+    .desc = Классическая закуска, теперь, пожалуй, даже слишком острая.
 
-ent-FoodDonkpocketTeriyaki = teriyaki-pocket
-    .desc = An East Asian take on the classic stationside snack.
+ent-FoodDonkpocketTeriyaki = терияки-покет
+    .desc = Восточноазиатский взгляд на классическую станционную закуску.
 
-ent-FoodDonkpocketTeriyakiWarm = warm teriyaki-pocket
-    .desc = An East Asian take on the classic stationside snack, now steamy and warm.
+ent-FoodDonkpocketTeriyakiWarm = тёплый терияки-покет
+    .desc = Восточноазиатский взгляд на классическую станционную закуску. Теперь тёплый и дымится.
 
-ent-FoodDonkpocketPizza = pizza-pocket
-    .desc = Delicious, cheesy and surprisingly filling.
+ent-FoodDonkpocketPizza = пицца-покет
+    .desc = Вкусный, сырный и на удивление сытный.
 
-ent-FoodDonkpocketPizzaWarm = warm pizza-pocket
-    .desc = Cheese filling really hits the spot when warm.
+ent-FoodDonkpocketPizzaWarm = тёплый пицца-покет
+    .desc = Тёплая сырная начинка - то, что надо.
 
-ent-FoodDonkpocketHonk = honk-pocket
-    .desc = The award-winning donk-pocket that won the hearts of clowns and humans alike.
+ent-FoodDonkpocketHonk = хонк-покет
+    .desc = Отмеченный наградами донк-покет, покоривший сердца и клоунов, и людей.
 
-ent-FoodDonkpocketHonkWarm = warm honk-pocket
-    .desc = The award-winning donk-pocket, now warm and toasty.
+ent-FoodDonkpocketHonkWarm = тёплый хонк-покет
+    .desc = Отмеченный наградами донк-покет, теперь тёплый и поджаристый.
 
-ent-FoodDonkpocketBerry = berry-pocket
-    .desc = A relentlessly sweet donk-pocket. Made with 100% artificial flavoring.
+ent-FoodDonkpocketBerry = ягодный покет
+    .desc = Беспощадно сладкий донк-покет. Начинка на 100% из искусственных ароматизаторов.
 
-ent-FoodDonkpocketBerryWarm = warm berry-pocket
-    .desc = A relentlessly sweet donk-pocket, now warm and delicious.
+ent-FoodDonkpocketBerryWarm = тёплый ягодный покет
+    .desc = Беспощадно сладкий донк-покет, теперь тёплый и вкусный.
 
-ent-FoodDonkpocketStonk = stonk-pocket
-    .desc = Tasty, but a sad reminder of the great crash of '24.
+ent-FoodDonkpocketStonk = стонк-покет
+    .desc = Вкусный, но печально напоминает о великом обвале '24 года.
 
-ent-FoodDonkpocketStonkWarm = warm stonk-pocket
+ent-FoodDonkpocketStonkWarm = тёплый стонк-покет
     .desc = { ent-SolutionFoodDonkpocketWarm.desc }
 
-ent-FoodDonkpocketCarp = carp-pocket
-    .desc = A long-lost edition of donk pocket, made specifically for hard-working salvagers.
+ent-FoodDonkpocketCarp = карп-покет
+    .desc = Давно позабытая разновидность донк-покета для трудолюбивых утилизаторов.
 
-ent-FoodDonkpocketCarpWarm = warm carp-pocket
+ent-FoodDonkpocketCarpWarm = тёплый карп-покет
     .desc = { ent-SolutionFoodDonkpocketWarm.desc }
 
-ent-FoodDonkpocketDink = dink-pocket
-    .desc = An off-brand lizard donk-pocket, filled with pickled carrot and wrapped with seaweed. Best eaten cold, or even better, not eaten at all.
+ent-FoodDonkpocketDink = динк-покет
+    .desc = Дешёвая унатхская подделка донк-покета: маринованная морковь, завёрнутая в водоросли. Лучше есть холодным, а ещё лучше вообще не есть.
 
-ent-FoodDonkpocketMoth = moth-pocket
-    .desc = Buzzy edition of donk-pocket that was created during mass protests ab-... Actually who cares? Just donk-pockets for moths.
+ent-FoodDonkpocketMoth = моль-покет
+    .desc = Жужжащая версия донк-покета, созданная во время массовых протестов про-... Да какая разница? Просто донк-покеты для нианов.
 
-ent-FoodDonkpocketMothWarm = warm moth-pocket
+ent-FoodDonkpocketMothWarm = тёплый моль-покет
     .desc = { ent-SolutionFoodDonkpocketWarm.desc }

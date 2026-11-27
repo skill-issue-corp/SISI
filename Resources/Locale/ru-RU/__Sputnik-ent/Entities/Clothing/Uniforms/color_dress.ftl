@@ -1,47 +1,47 @@
-ent-ClothingUniformJumpskirtBlackElegantDress = black elegant dress
-    .desc = Elegant dress with a beautiful bow.
+ent-ClothingUniformJumpskirtBlackElegantDress = чёрное элегантное платье
+    .desc = Элегантное платье с красивым бантом.
 
-ent-ClothingUniformJumpskirtRedElegantDress = red elegant dress
-    .desc = Elegant dress with a beautiful bow.
+ent-ClothingUniformJumpskirtRedElegantDress = красное элегантное платье
+    .desc = Элегантное платье с красивым бантом.
 
-ent-ClothingUniformJumpskirtGreenElegantDress = green elegant dress
-    .desc = Elegant dress with a beautiful bow.
+ent-ClothingUniformJumpskirtGreenElegantDress = зелёное элегантное платье
+    .desc = Элегантное платье с красивым бантом.
 
-ent-ClothingUniformJumpskirtBlueElegantDress = blue elegant dress
-    .desc = Elegant dress with a beautiful bow.
+ent-ClothingUniformJumpskirtBlueElegantDress = синее элегантное платье
+    .desc = Элегантное платье с красивым бантом.
 
-ent-ClothingUniformJumpskirtPurpleElegantDress = purple elegant dress
-    .desc = Elegant dress with a beautiful bow.
+ent-ClothingUniformJumpskirtPurpleElegantDress = фиолетовое элегантное платье
+    .desc = Элегантное платье с красивым бантом.
 
-ent-ClothingUniformJumpskirtCyanStripedDress = cyan striped dress
-    .desc = Cute striped dress.
+ent-ClothingUniformJumpskirtCyanStripedDress = голубое полосатое платье
+    .desc = Милое полосатое платье.
 
-ent-ClothingUniformJumpskirtRedStripedDress = red striped dress
-    .desc = Cute striped dress.
+ent-ClothingUniformJumpskirtRedStripedDress = красное полосатое платье
+    .desc = Милое полосатое платье.
 
-ent-ClothingUniformJumpskirtGreenStripedDress = green striped dress
-    .desc = Cute striped dress.
+ent-ClothingUniformJumpskirtGreenStripedDress = зелёное полосатое платье
+    .desc = Милое полосатое платье.
 
-ent-ClothingUniformJumpskirtPinkStripedDress = pink striped dress
-    .desc = Cute striped dress.
+ent-ClothingUniformJumpskirtPinkStripedDress = розовое полосатое платье
+    .desc = Милое полосатое платье.
 
-ent-ClothingUniformJumpskirtOrangeStripedDress = orange striped dress
-    .desc = Cute striped dress.
+ent-ClothingUniformJumpskirtOrangeStripedDress = оранжевое полосатое платье
+    .desc = Милое полосатое платье.
 
-ent-ClothingUniformJumpskirtPurpleTurtleneckDress = purple turtleneck dress
-    .desc = Turtleneck dress with a unique design.
+ent-ClothingUniformJumpskirtPurpleTurtleneckDress = фиолетовое платье-водолазка
+    .desc = Платье-водолазка необычного кроя.
 
-ent-ClothingUniformJumpskirtRedTurtleneckDress = red turtleneck dress
-    .desc = Turtleneck dress with a unique design.
+ent-ClothingUniformJumpskirtRedTurtleneckDress = красное платье-водолазка
+    .desc = Платье-водолазка необычного кроя.
 
-ent-ClothingUniformJumpskirtGreenTurtleneckDress = green turtleneck dress
-    .desc = Turtleneck dress with a unique design.
+ent-ClothingUniformJumpskirtGreenTurtleneckDress = зелёное платье-водолазка
+    .desc = Платье-водолазка необычного кроя.
 
-ent-ClothingUniformJumpskirtBlueTurtleneckDress = blue turtleneck dress
-    .desc = Turtleneck dress with a unique design.
+ent-ClothingUniformJumpskirtBlueTurtleneckDress = синее платье-водолазка
+    .desc = Платье-водолазка необычного кроя.
 
-ent-ClothingUniformJumpskirtYellowTurtleneckDress = yellow turtleneck dress
-    .desc = Turtleneck dress with a unique design.
+ent-ClothingUniformJumpskirtYellowTurtleneckDress = жёлтое платье-водолазка
+    .desc = Платье-водолазка необычного кроя.
 
-ent-ClothingUniformJumpskirtYellowOldDress = yellow old dress
-    .desc = Classic western dress.
+ent-ClothingUniformJumpskirtYellowOldDress = жёлтое старинное платье
+    .desc = Классическое платье в стиле дикого запада.

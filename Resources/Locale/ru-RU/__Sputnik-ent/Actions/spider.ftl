@@ -1,5 +1,5 @@
-ent-ActionSpiderWeb = Spider Web
-    .desc = Spawns a web that slows your prey down.
+ent-ActionSpiderWeb = Паучья Паутина
+    .desc = Создаёт паутину, которая замедляет вашу добычу.
 
-ent-ActionSericulture = Weave silk
-    .desc = Weave a bit of silk for use in arts and crafts.
+ent-ActionSericulture = Сплести шёлк
+    .desc = Сплетите немного шёлка для рукоделия.

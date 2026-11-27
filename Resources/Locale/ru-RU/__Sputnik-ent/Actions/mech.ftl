@@ -1,11 +1,11 @@
 ent-BaseMechAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
 
-ent-ActionMechCycleEquipment = Cycle
-    .desc = Cycles currently selected equipment
+ent-ActionMechCycleEquipment = Сменить
+    .desc = Переключает выбранное оборудование
 
-ent-ActionMechOpenUI = Control Panel
-    .desc = Opens the control panel for the mech
+ent-ActionMechOpenUI = Панель Управления
+    .desc = Открывает панель управления мехом
 
-ent-ActionMechEject = Eject
-    .desc = Ejects the pilot from the mech
+ent-ActionMechEject = Катапультировать
+    .desc = Катапультирует пилота из меха

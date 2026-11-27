@@ -1,44 +1,44 @@
-ent-StatusEffectShink = shrunk
+ent-StatusEffectShink = уменьшение
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-StatusEffectDamageMod = damage mod changed
+ent-StatusEffectDamageMod = модификатор урона изменён
     .desc = { ent-MobStatusEffectDebuff.desc }
 
 ent-StatusEffectDamageModKnightEgg = { ent-StatusEffectDamageMod }
     .desc = { ent-StatusEffectDamageMod.desc }
 
-ent-StatusEffectDreamEgg = dream egg effect
+ent-StatusEffectDreamEgg = эффект яйца сна
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectCockatricePower = cockatrice egg effect
+ent-StatusEffectCockatricePower = эффект яйца василиска
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectMedusa = Turned into stone
+ent-StatusEffectMedusa = Превращение в камень
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-SnowEggEffect = Snow trail!
+ent-SnowEggEffect = Снежный след!
     .desc = { ent-MobStatusEffectDebuff.desc }
 
-ent-DreamsicleEggEffect = Orange Dreamsicle High
+ent-DreamsicleEggEffect = Апельсиновый Кайф
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectZappyPower = zappy egg effect
+ent-StatusEffectZappyPower = эффект яйца громчика
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-SnowEggEffectNoDamage = Snow trail!
+ent-SnowEggEffectNoDamage = Снежный след!
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectPhoenixHeal = phoenix heal
+ent-StatusEffectPhoenixHeal = исцеление феникса
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectPhoenixPower = phoenix egg effect
+ent-StatusEffectPhoenixPower = эффект яйца феникса
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectWizardChickenPower = wizard egg effect
+ent-StatusEffectWizardChickenPower = эффект яйца волшебника
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectDragonPower = dragon's power
+ent-StatusEffectDragonPower = сила дракона
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-SugarRushEffect = sugar rush!
+ent-SugarRushEffect = сахарный прилив!
     .desc = { ent-MobStatusEffectBase.desc }

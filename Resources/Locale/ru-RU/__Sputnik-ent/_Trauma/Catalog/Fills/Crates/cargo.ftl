@@ -1,2 +1,2 @@
-ent-CrateSkillChipsCargo = cargo skillchips crate
-    .desc = A crate containing cargo skillchips. It seems someone already looted the salv skillchips.
+ent-CrateSkillChipsCargo = ящик чипов навыков карго
+    .desc = Ящик с чипами навыков карго. Похоже, чипы навыков утиля уже кто-то растащил.

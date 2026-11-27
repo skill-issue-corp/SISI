@@ -1,17 +1,17 @@
-ent-BoxSkillChipsBase = skillchips box
-    .desc = A large box for storing spare skillchips. Might be sterile? Who knows.
+ent-BoxSkillChipsBase = коробка чипов навыков
+    .desc = Большая коробка для хранения запасных чипов навыков. Может, она стерильная? Кто знает.
 
-ent-BoxSkillChipsService = service skillchips box
-    .desc = A large box containing service skillchips. Definitely isn't sterile. Oh well.
+ent-BoxSkillChipsService = коробка чипов навыков сервисного отдела
+    .desc = Большая коробка с чипами навыков сервисного отдела. Точно не стерильная. Ну и ладно.
 
-ent-BoxSkillChipsCargo = cargo skillchips box
+ent-BoxSkillChipsCargo = коробка чипов навыков карго
     .desc = { ent-BoxSkillChipsBase.desc }
 
-ent-BoxSkillChipsEngi = engi skillchips box
+ent-BoxSkillChipsEngi = коробка чипов навыков инжей
     .desc = { ent-BoxSkillChipsBase.desc }
 
-ent-BoxSkillChipsMed = med skillchips box
+ent-BoxSkillChipsMed = коробка чипов навыков медотсека
     .desc = { ent-BoxSkillChipsBase.desc }
 
-ent-BoxSkillChipsSci = sci skillchips box
+ent-BoxSkillChipsSci = коробка чипов навыков научного отдела
     .desc = { ent-BoxSkillChipsBase.desc }

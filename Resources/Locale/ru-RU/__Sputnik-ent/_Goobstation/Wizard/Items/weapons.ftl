@@ -1,24 +1,24 @@
-ent-ArcaneBarrage = arcane barrage
-    .desc = Pew Pew Pew.
+ent-ArcaneBarrage = мистический шквал
+    .desc = Пиу-Пиу-Пиу.
 
-ent-WeaponBoltActionEnchanted = enchanted bolt action rifle
-    .desc = Careful not to lose your head.
+ent-WeaponBoltActionEnchanted = зачарованная винтовка с продольно-скользящим затвором
+    .desc = Смотрите, не потеряйте голову.
 
-ent-SupermatterHalberd = supermatter halberd
-    .desc = The revered weapon of Oblivion Enforcers, used to enforce the Order's will.
+ent-SupermatterHalberd = алебарда из суперматерии
+    .desc = Почитаемое оружие Стражей Забвения, которым они навязывают волю Ордена.
 
-ent-GoheiWizard = gohei
+ent-GoheiWizard = гохэй
     .desc = { ent-Gohei.desc }
-    .suffix = Wizard
+    .suffix = Волшебник
 
-ent-StaffTape = tape staff
-    .desc = A roll of tape snugly attached to a stick.
+ent-StaffTape = посох из скотча
+    .desc = Рулон скотча, плотно насаженный на палку.
 
-ent-HighFrequencyBlade = high frequency blade
-    .desc = A sword reinforced by a powerful alternating current and resonating at extremely high vibration frequencies. This oscillation weakens the molecular bonds of anything it cuts, thereby increasing its cutting ability.
+ent-HighFrequencyBlade = высокочастотный клинок
+    .desc = Меч, усиленный мощным переменным током и вибрирующий на чрезвычайно высокой частоте. Колебания ослабляют молекулярные связи во всём, что он разрезает, благодаря чему клинок режет лучше.
 
-ent-Spellblade = spellblade
-    .desc = An enchanted blade with a series of runes along the side.
+ent-Spellblade = зачарованный клинок
+    .desc = Зачарованный клинок с рядом рун на боковой стороне.
 
-ent-EchoKatana = echo katana
-    .desc = Vibrations are constantly flowing through this sword, like they desperately try to find a way out.
+ent-EchoKatana = эхо-катана
+    .desc = По мечу непрерывно пробегают вибрации, будто отчаянно ищут выход.

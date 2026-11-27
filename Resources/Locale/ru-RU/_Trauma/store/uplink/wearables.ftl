@@ -1,31 +1,31 @@
-uplink-guerrilla-name = Guerrilla Gloves
-uplink-guerrilla-desc = A special shock resistant pair of gloves that give you the tackle ability, with a higher skill modifier. They also allow you to hard grab on a perfect tackle.
+uplink-guerrilla-name = Партизанские Перчатки
+uplink-guerrilla-desc = Особые изолированные перчатки, позволяющие сбивать цель с ног и дающие повышенный модификатор навыка. При идеальном захвате позволяют крепко схватить цель.
 
-uplink-monarch-name = Monarch Coat
-uplink-monarch-desc = Directly taken from the wardrobe of Gorlex Entertainment’s most iconic operative, the Monarch Coat is a lightweight armor that uses stolen reflective technology to passively deflect energy blasts… but don't expect too much real protection from a prop.
+uplink-monarch-name = Монаршее Пальто
+uplink-monarch-desc = Прямо из гардероба самого знаменитого оперативника Gorlex Entertainment. Пальто Монарха — лёгкая броня с украденной технологией, пассивно отражающей энергетические выстрелы... но от реквизита не стоит ждать надёжной защиты.
 
-uplink-chameleon-armor-name = Chameleon Armored Vest
-uplink-chameleon-armor-desc = A chameleon vest that offers moderate protection against most forms of security brutality. Be aware the protection is detectable by thorough examination.
+uplink-chameleon-armor-name = Бронежилет-Хамелеон
+uplink-chameleon-armor-desc = Жилет-хамелеон, который умеренно защищает от большинства проявлений жестокости службы безопасности. Учтите, что при тщательном осмотре броню можно обнаружить.
 
-uplink-hardsuit-traumasyndie-desc = Gorlex Entertainment's most well known hardsuit, capable of space walks and trauma-resistant.
+uplink-hardsuit-traumasyndie-desc = Самый известный скафандр Gorlex Entertainment. Подходит для выхода в открытый космос и защищает от травм.
 
-uplink-hardsuit-traumaelite-desc = An elite version of the blood-red hardsuit, with improved mobility, fireproofing and heat-resistant armor, for those operatives who want to stand tall for the camera. Property of Gorlex Entertainment.
+uplink-hardsuit-traumaelite-desc = Элитная версия кроваво-красного скафандра с улучшенной подвижностью, огнестойкостью и жаропрочной бронёй. Для оперативников, которые хотят хорошо выглядеть на камеру. Собственность Gorlex Entertainment.
 
-uplink-slayer-coat-name = S.L.A.Y.E.R Overcoat
-uplink-slayer-coat-desc = The S.L.A.Y.E.R. Overcoat has been specially engineered to be worn over the shoulders, and protects its wearer against explosions! Comes with a constant feed to Nanotrasen camera routers and an inbuilt link to the station radio, so stealth is never an option for the operative wearing it!
+uplink-slayer-coat-name = Пальто S.L.A.Y.E.R
+uplink-slayer-coat-desc = Пальто S.L.A.Y.E.R. специально разработано для ношения на плечах и защищает от взрывов! Оно непрерывно передаёт видео на маршрутизаторы камер NanoTrasen и подключено к рации станции. На скрытность его владельцу рассчитывать не приходится!
 
-uplink-bomb-collar-name = Bomb Collar Kit
-uplink-bomb-collar-desc = The perfect way to coerce someone into doing you a favour. You know... because of the implication. Pretty useless, unless worn by someone.
+uplink-bomb-collar-name = Комплект Ошейника-Бомбы
+uplink-bomb-collar-desc = Идеальный способ заставить кого-нибудь оказать вам услугу. Ну, знаете... из-за того, что может случиться. Почти бесполезен, если его ни на кого не надеть.
 
-uplink-clothing-no-slips-shoes-name-trauma = No-Slip Shoes
+uplink-clothing-no-slips-shoes-name-trauma = Нескользящая Обувь
 
-uplink-clothing-shoes-boots-mag-syndie-name-trauma = Blood-Red Magboots
+uplink-clothing-shoes-boots-mag-syndie-name-trauma = Кроваво-Красные Магнитные Ботинки
 
-uplink-clothing-chameleon-thieving-gloves-name = Chameleon Thieving Gloves
-uplink-clothing-chameleon-thieving-gloves-desc = Discreetly steal from pockets and improve your thieving technique with these fancy new gloves. They can change appearance to match any pair of gloves!
+uplink-clothing-chameleon-thieving-gloves-name = Воровские Перчатки-Хамелеоны
+uplink-clothing-chameleon-thieving-gloves-desc = Эти стильные новые перчатки помогут незаметно красть из карманов и улучшить воровские навыки. Они могут принять вид любых перчаток!
 
-uplink-holster-name = Shoulder Holster
-uplink-holster-desc = A deep shoulder holster capable of holding many types of ballistics.
+uplink-holster-name = Наплечная Кобура
+uplink-holster-desc = Глубокая наплечная кобура для самых разных видов баллистического оружия.
 
-uplink-chameleon-eva-suit-name = Chameleon EVA Bundle
-uplink-chameleon-eva-suit-desc = Be prepared for any sort of low pressure situation. Can take the appearance of any suit or coat!
+uplink-chameleon-eva-suit-name = Комплект EVA «Хамелеон»
+uplink-chameleon-eva-suit-desc = Будьте готовы к любому падению давления. Может принять вид любого костюма или пальто!

@@ -1,2 +1,2 @@
-ent-MagazinePistolCaselessRifleEmpty = pistol magazine (9.5mm any)
+ent-MagazinePistolCaselessRifleEmpty = пистолетный магазин (9.5мм любые)
     .desc = { ent-BaseMagazinePistolCaselessRifle.desc }

@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-shuttle-call-error = Cannot call the shuttle due to ERROR.
-shuttle-call-warops-nukies-present = Get rid of the remaining nuclear operatives.
+shuttle-call-error = Вызов шаттла невозможен из-за ОШИБКИ.
+shuttle-call-warops-nukies-present = Избавьтесь от оставшихся ядерных оперативников.

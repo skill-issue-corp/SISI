@@ -1,5 +1,5 @@
-ent-BarbHandcuffs = barbed wire handcuffs
-    .desc = Used to detain people you intend to kill.
+ent-BarbHandcuffs = наручники из колючей проволоки
+    .desc = Чтобы задержать тех, кого собираетесь убить.
 
-ent-WonderprodCuffs = printed wondercuffs
-    .desc = Made out of a metal more durable than anything Nanotrasen could dream of. Dissolves when removed.
+ent-WonderprodCuffs = напечатанные чудо-наручники
+    .desc = Сделаны из металла прочнее всего, о чём мечтала NanoTrasen. Растворяются, когда их снимают.

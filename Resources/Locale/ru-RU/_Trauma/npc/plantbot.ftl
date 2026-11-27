@@ -1,1 +1,1 @@
-plantbot-harvest = Harvesting.
+plantbot-harvest = Сбор урожая.

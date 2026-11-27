@@ -1,2 +1,2 @@
-ent-ArabianLamp = lamp
-    .desc = Why the heck won't this piece of junk open!?
+ent-ArabianLamp = лампа
+    .desc = Какого чёрта эта рухлядь не открывается!?

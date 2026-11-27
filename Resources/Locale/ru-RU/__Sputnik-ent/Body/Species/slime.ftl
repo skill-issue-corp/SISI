@@ -1,12 +1,12 @@
-ent-AppearanceSlimePerson = SlimePerson appearance
+ent-AppearanceSlimePerson = облик Слаймолюда
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobSlimePerson = Urist McWobble
+ent-MobSlimePerson = Урист МакКач
     .desc = { ent-AppearanceSlimePerson.desc }
 
 ent-OrganSlimePerson = { ent-OrganBaseOrganic }
     .desc = { ent-OrganBaseOrganic.desc }
-    .suffix = slime person
+    .suffix = слаймолюд
 
 ent-OrganSlimePersonMetabolizer = { "" }
     .desc = { "" }
@@ -47,11 +47,11 @@ ent-OrganSlimePersonFootLeft = { ent-OrganBaseFootLeft }
 ent-OrganSlimePersonFootRight = { ent-OrganBaseFootRight }
     .desc = { ent-OrganBaseFootRight.desc }
 
-ent-OrganSlimePersonCore = sentient slime core
+ent-OrganSlimePersonCore = ядро разумного слайма
     .desc = { ent-OrganBaseBrain.desc }
 
 ent-OrganSlimePersonEyes = { ent-OrganBaseEyes }
     .desc = { ent-OrganBaseEyes.desc }
 
-ent-OrganSlimePersonLungs = gas sacs
+ent-OrganSlimePersonLungs = газовые мешки
     .desc = { ent-OrganBaseLungs.desc }

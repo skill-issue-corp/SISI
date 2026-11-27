@@ -1,21 +1,21 @@
 ent-BaseModsuitPieceERTEngi = { "" }
     .desc = { "" }
 
-ent-ClothingModsuitResponsoryEngineering = Engineering Responsory modsuit control unit
-    .desc = The main controller for a Engineering Responsory modsuit.
+ent-ClothingModsuitResponsoryEngineering = блок управления модсьюта «Инженер ОБР»
+    .desc = Основной блок управления модсьютом «Инженер ОБР».
 
-ent-ClothingModsuitGauntletsResponsoryEngineering = Engineering Responsory modsuit gauntlets
-    .desc = A pair of gauntlets made for the Engineering Responsory modsuit.
+ent-ClothingModsuitGauntletsResponsoryEngineering = перчатки модсьюта «Инженер ОБР»
+    .desc = Пара перчаток для модсьюта «Инженер ОБР».
 
-ent-ClothingModsuitHelmetResponsoryEngineering = Engineering Responsory modsuit helmet
-    .desc = A state-of-the-art helmet designed by NanoTrasen for the Engineering Responsory modsuit. It includes a built-in HUD.
+ent-ClothingModsuitHelmetResponsoryEngineering = шлем модсьюта «Инженер ОБР»
+    .desc = Передовой шлем, разработанный NanoTrasen для модсьюта «Инженер ОБР». Оснащён встроенным визором.
 
-ent-ClothingModsuitChestplateResponsoryEngineering = Engineering Responsory modsuit chestplate
-    .desc = A state of the art chestplate designed by NanoTrasen for the Engineering Responsory modsuit. It incorporates powered servos to reduce the equipment load.
+ent-ClothingModsuitChestplateResponsoryEngineering = нагрудник модсьюта «Инженер ОБР»
+    .desc = Передовой нагрудник, разработанный NanoTrasen для модсьюта «Инженер ОБР». Встроенные сервоприводы снижают нагрузку от снаряжения.
 
-ent-ClothingModsuitBootsResponsoryEngineering = Engineering Responsory modsuit boots
-    .desc = A state-of-the-art pair of magboots for the Engineering Responsory modsuit. So long as the suit is powered, these will not slow the wearer down.
+ent-ClothingModsuitBootsResponsoryEngineering = ботинки модсьюта «Инженер ОБР»
+    .desc = Передовые магнитные ботинки для модсьюта «Инженер ОБР». Пока на костюм подаётся питание, ботинки не замедляют владельца.
 
 ent-SuitStorageResponsoryEngineering = { ent-SuitStorageBase }
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Engineering Responsory Modsuit
+    .suffix = Модсьют «Инженер ОБР»

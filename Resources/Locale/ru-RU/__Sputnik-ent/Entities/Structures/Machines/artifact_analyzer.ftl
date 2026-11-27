@@ -1,8 +1,8 @@
-ent-MachineArtifactAnalyzer = artifact analyzer
-    .desc = A platform capable of performing analysis on various types of artifacts.
+ent-MachineArtifactAnalyzer = анализатор артефактов
+    .desc = Платформа, способная анализировать артефакты разных типов.
 
-ent-MachineArtifactCrusher = artifact crusher
-    .desc = Best not to let your fingers get stuck...
+ent-MachineArtifactCrusher = дробитель артефактов
+    .desc = Лучше не совать туда пальцы...
 
-ent-MachineArtifactCrusherXenoborg = body crusher
-    .desc = Best not to let your head get stuck...
+ent-MachineArtifactCrusherXenoborg = дробитель тел
+    .desc = Смотрите, чтобы там не застряла голова...

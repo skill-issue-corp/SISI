@@ -1,2 +1,2 @@
-ent-CburnSpear = dispatch spear
-    .desc = A spear used by Nanotrasen's CBURN agents. Effective at incinerating organic targets.
+ent-CburnSpear = копьё для добивания
+    .desc = Копьё агентов РХБЗЗ NanoTrasen. Эффективно испепеляет органические цели.

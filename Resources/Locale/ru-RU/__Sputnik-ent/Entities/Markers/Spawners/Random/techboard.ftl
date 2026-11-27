@@ -1,2 +1,2 @@
-ent-RandomBoard = random board spawner
+ent-RandomBoard = спавнер случайной платы
     .desc = { ent-MarkerBase.desc }

@@ -1,37 +1,37 @@
-ent-DelayedSmoke = delayed smoke
+ent-DelayedSmoke = отложенный дым
     .desc = { ent-BaseItem.desc }
     .suffix = (10s)
 
 ent-AdminInstantEffectEMP7 = { ent-AdminInstantEffectBase }
     .desc = { ent-AdminInstantEffectBase.desc }
-    .suffix = EMP, 7 meters
+    .suffix = ЭМИ, 7 метров
 
-ent-DelayedEMP = delayed EMP (7 meters)
+ent-DelayedEMP = отложенный ЭМИ (7 метров)
     .desc = { ent-BaseItem.desc }
 
-ent-SyringeCognizine = cognizine syringe
+ent-SyringeCognizine = шприц с когнизином
     .desc = { ent-Syringe.desc }
 
-ent-SyringeOpporozidone = opporozidone syringe
+ent-SyringeOpporozidone = шприц с оппорозидоном
     .desc = { ent-Syringe.desc }
 
-ent-ArcryoxChemistryBottle = acryox bottle
+ent-ArcryoxChemistryBottle = бутылочка аркриокса
     .desc = { ent-BaseChemistryBottleFilled.desc }
 
-ent-DrinkPremiumVodkaBottleFull = Moment of Clarity vodka bottle
-    .desc = When things get a bit hectic, all you need is a Moment of Clarity.
+ent-DrinkPremiumVodkaBottleFull = бутылка водки «Миг Ясности»
+    .desc = Когда всё идёт кувырком, вам нужен лишь «Миг Ясности».
 
-ent-DrinkPremiumGinBottleFull = Harry's gin bottle
-    .desc = An interesting set of botanicals, for sure. Is that pumpkin?
+ent-DrinkPremiumGinBottleFull = бутылка джина «Гарри»
+    .desc = Любопытный набор трав и пряностей, ничего не скажешь. Это тыква?
 
-ent-DrinkPremiumTequilaBottleFull = Casa del Eorg tequila bottle
-    .desc = Save the best for last. Casa del Eorg, 100% agave.
+ent-DrinkPremiumTequilaBottleFull = бутылка текилы «Каса дель Эорг»
+    .desc = Оставьте лучшее напоследок. «Каса дель Эорг», 100% агавы.
 
-ent-DrinkPremiumWhiskeyBottleFull = Ol' Prowler 18 whiskey bottle
-    .desc = Surprisingly smooth, it has a nasty habit of sneaking up on you.
+ent-DrinkPremiumWhiskeyBottleFull = бутылка виски «Старый Бродяга 18»
+    .desc = Удивительно мягкий, но имеет дурную привычку подкрадываться незаметно.
 
-ent-DrinkPremiumRumBottleFull = Redeemer's Bounty rum bottle
-    .desc = Well, you asked for it. Navy strength.
+ent-DrinkPremiumRumBottleFull = бутылка рома «Дар Искупителя»
+    .desc = Ну, вы сами попросили. Флотская крепость.
 
-ent-DrinkPremiumAbsintheBottleFull = Bureaucracy's Kiss absinthe bottle
-    .desc = A refined taste that tends to linger.
+ent-DrinkPremiumAbsintheBottleFull = бутылка абсента «Поцелуй Бюрократии»
+    .desc = Изысканный вкус, который надолго остаётся во рту.

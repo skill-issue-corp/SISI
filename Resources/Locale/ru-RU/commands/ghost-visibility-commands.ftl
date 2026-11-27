@@ -1,6 +1,6 @@
-cmd-toggleghostvisibility-desc = Toggles ghost visibility on the client.
-cmd-toggleghostvisibility-help = Usage: toggleghostvisibility [bool]
+cmd-toggleghostvisibility-desc = Переключает видимость призраков на клиенте.
+cmd-toggleghostvisibility-help = Использование: toggleghostvisibility [bool]
 
-cmd-toggleselfghost-desc = Toggles seeing your own ghost.
-cmd-toggleselfghost-help = Usage: toggleselfghost
-cmd-toggleselfghost-must-be-ghost = Entity must be a ghost.
+cmd-toggleselfghost-desc = Переключает видимость собственного призрака.
+cmd-toggleselfghost-help = Использование: toggleselfghost
+cmd-toggleselfghost-must-be-ghost = Объект должен быть призраком.

@@ -1,2 +1,2 @@
-ent-AbductorExperimentator = return pod
-    .desc = A device that sends the subject back to where they were taken from.
+ent-AbductorExperimentator = возвращающая капсула
+    .desc = Устройство, которое отправляет подопытного обратно туда, откуда его забрали.

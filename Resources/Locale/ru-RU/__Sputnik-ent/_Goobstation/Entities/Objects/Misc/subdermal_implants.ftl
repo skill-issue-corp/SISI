@@ -1,47 +1,47 @@
-ent-BluespaceLifelineImplant = bluespace lifeline implant
-    .desc = Teleports the hosts body to Central Command on activation. They will not be able to return.
+ent-BluespaceLifelineImplant = имплант блюспейс-страховки
+    .desc = При активации переносит тело носителя в Центральное Командование. Вернуться носитель не сможет.
 
-ent-PacifismImplant = pacifism implant
-    .desc = Pacifism implant, given to life sentenced prisoners or such to prevent them from committing violence.
+ent-PacifismImplant = имплант пацифизма
+    .desc = Имплант пацифизма. Его ставят пожизненно осуждённым и им подобным, чтобы они не могли применять насилие.
 
-ent-SmokeImplant = smoke implant
-    .desc = This implant releases smoke cloud on activation.
+ent-SmokeImplant = дымовой имплант
+    .desc = При активации этот имплант выпускает облако дыма.
 
-ent-KravMagaImplant = krav maga implant
-    .desc = This implant allows the user to perform various Krav Maga moves.
+ent-KravMagaImplant = имплант крав-мага
+    .desc = Этот имплант позволяет владельцу выполнять различные приёмы Крав-Мага.
 
-ent-AutoinjectorImplant = autoinjector implant
-    .desc = This implant allows the user to inject themselves with a chemical on use. Ephedrine by default.
+ent-AutoinjectorImplant = имплант автоинъектора
+    .desc = Этот имплант позволяет владельцу сделать себе инъекцию реагента. По умолчанию – эфедрин.
 
-ent-NutrimentPumpImplant = nutriment pump implant
-    .desc = This implant allows prevents the user from getting hungry or thirsty.
+ent-NutrimentPumpImplant = имплант подачи питательных веществ
+    .desc = Этот имплант избавляет владельца от голода и жажды.
 
-ent-SpaceProofImplant = space proofing implant
-    .desc = This implant allows the user to survive without air or warmth.
+ent-SpaceProofImplant = имплант защиты от космоса
+    .desc = Этот имплант позволяет владельцу выживать без воздуха и тепла.
 
-ent-StypticStimulatorImplant = styptic stimulator implant
-    .desc = This implant sends the users regeneration into overdrive.
+ent-StypticStimulatorImplant = имплант стимулятора регенерации
+    .desc = Этот имплант многократно ускоряет регенерацию владельца.
 
-ent-BinaryImplant = binary decoder implant
-    .desc = This implant allows the user to access Binary and communicate with silicons (use +b).
+ent-BinaryImplant = имплант двоичного декодера
+    .desc = Этот имплант позволяет владельцу использовать Двоичный язык и общаться с синтетиками (используйте +b).
 
-ent-BlinkImplant = blink implant
-    .desc = This implant allows the user temporarily blink into a higher dimension.
+ent-BlinkImplant = имплант ухода в иное измерение
+    .desc = Этот имплант позволяет владельцу на время переместиться в высшее измерение.
 
-ent-VaporizeImplant = vaporize implant
-    .desc = This implant allows the user to vaporize targets with the power of their mind.
+ent-VaporizeImplant = имплант испарения
+    .desc = Этот имплант позволяет владельцу испарять цели силой мысли.
 
-ent-NaniteMenderImplant = nanite mender implant
-    .desc = This implant allows the user to heal entities with microscopic nanites.
+ent-NaniteMenderImplant = имплант нанитового целителя
+    .desc = Этот имплант позволяет владельцу лечить существ микроскопическими нанитами.
 
-ent-ShiftImplant = shift implant
-    .desc = This implant allows the user to teleport to a point in range.
+ent-ShiftImplant = имплант сдвига
+    .desc = Этот имплант позволяет владельцу телепортироваться в точку в пределах досягаемости.
 
-ent-StopTimeImplant = stop time implant
-    .desc = This implant allows the user to stop time in an area briefly.
+ent-StopTimeImplant = имплант остановки времени
+    .desc = Этот имплант позволяет владельцу ненадолго остановить время в области вокруг себя.
 
-ent-XenoCompatibilityImplant = xeno compatibility implant
-    .desc = Allows a subject to have xeno organs transplanted.
+ent-XenoCompatibilityImplant = имплант совместимости с ксеноморфами
+    .desc = Позволяет пересаживать носителю органы ксеноморфов.
 
-ent-RedspaceLifelineImplant = redspace lifeline implant
-    .desc = Teleports the hosts body to Syndicate High Command on activation. They will not be able to return.
+ent-RedspaceLifelineImplant = имплант редспейс-страховки
+    .desc = При активации переносит тело носителя в Верховное Командование Синдиката. Вернуться носитель не сможет.

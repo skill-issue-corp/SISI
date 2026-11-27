@@ -1,92 +1,92 @@
 # Wooden Weapons
-durability-wood-0 = Some wood splinters off the weapon.
-durability-wood-1 = The weapon makes an audible crack.
+durability-wood-0 = От оружия откалывается несколько щепок.
+durability-wood-1 = Оружие издаёт отчётливый треск.
 
-durability-wood-2 = some slinters of wood fall to the floor.
-durability-wood-3 = Small cracks appear on the weapon.
-durability-wood-4 = The weapon makes an audible crack.
+durability-wood-2 = несколько щепок падает на пол.
+durability-wood-3 = На оружии появляются мелкие трещины.
+durability-wood-4 = Оружие издаёт отчётливый треск.
 
-durability-wood-5 = A large chunk of wood breaks off the weapon.
-durability-wood-6 = The weapon has a large crack going through it.
-durability-wood-7 = The weapon feels like its about to break.
+durability-wood-5 = От оружия отламывается большой кусок дерева.
+durability-wood-6 = Вдоль оружия тянется большая трещина.
+durability-wood-7 = Кажется, оружие вот-вот сломается.
 
-durability-wood-8 = The weapon is completely destroyed!
-durability-wood-9 = The weapon snaps in two!
-durability-wood-10 = The weapon explodes into splinters!
+durability-wood-8 = Оружие полностью уничтожено!
+durability-wood-9 = Оружие ломается пополам!
+durability-wood-10 = Оружие разлетается на щепки!
 
 # Metal Weapons
-durability-metal-0 = The metal is dented.
-durability-metal-1 = The weapon bends slightly.
+durability-metal-0 = На металле остаётся вмятина.
+durability-metal-1 = Оружие слегка гнётся.
 
-durability-metal-2 = A small fault forms in the weapon.
-durability-metal-3 = The weapon is losing its form.
-durability-metal-4 = The weapon makes a nasty crunch.
+durability-metal-2 = На оружии появляется небольшой изъян.
+durability-metal-3 = Оружие теряет форму.
+durability-metal-4 = Оружие издаёт мерзкий хруст.
 
-durability-metal-5 = There is a large crack in the weapon.
-durability-metal-6 = The weapon feels like its about to break.
-durability-metal-7 = The metal is completely dented all over.
+durability-metal-5 = На оружии образовалась большая трещина.
+durability-metal-6 = Кажется, оружие вот-вот сломается.
+durability-metal-7 = Металл весь во вмятинах.
 
-durability-metal-8 = The weapon is far too unwieldy to use anymore!
-durability-metal-9 = The weapon is completely demolished!
-durability-metal-10 = The weapon has completely lost its form!
+durability-metal-8 = Оружие настолько деформировалось, что им больше нельзя пользоваться!
+durability-metal-9 = Оружие полностью разрушено!
+durability-metal-10 = Оружие полностью потеряло форму!
 
 # Bladed Weapons
-durability-blade-0 = The blade dulls slightly.
-durability-blade-1 = The tip dulls slightly.
+durability-blade-0 = Лезвие слегка тупится.
+durability-blade-1 = Остриё слегка тупится.
 
-durability-blade-2 = The tip bends.
-durability-blade-3 = The edge slightly rolls over.
-durability-blade-4 = The blade is becoming rather dull.
+durability-blade-2 = Остриё гнётся.
+durability-blade-3 = Режущая кромка чуть заминается.
+durability-blade-4 = Лезвие заметно затупилось.
 
-durability-blade-5 = There is a large crack in the blade.
-durability-blade-6 = The blade feels like its about to break.
-durability-blade-7 = The edge is completely dull.
+durability-blade-5 = На лезвии образовалась большая трещина.
+durability-blade-6 = Кажется, лезвие вот-вот сломается.
+durability-blade-7 = Режущая кромка полностью затупилась.
 
-durability-blade-8 = The blade snaps off the handle!
-durability-blade-9 = The blade is too dull to cut anything!
-durability-blade-10 = The blade has snapped in two!
+durability-blade-8 = Лезвие отламывается от рукояти!
+durability-blade-9 = Лезвие совсем затупилось и больше ничего не режет!
+durability-blade-10 = Лезвие сломалось пополам!
 
 # Handle Weapons
-durability-handle-2 = The handle becomes less sturdy.
-durability-handle-3 = The handle loosens.
-durability-handle-4 = The handle feels strange.
+durability-handle-2 = Рукоять начала расшатываться.
+durability-handle-3 = Рукоять болтается.
+durability-handle-4 = С рукоятью что-то не так.
 
-durability-handle-5 = The handle is about to fall off.
-durability-handle-6 = The handle feels extremely insecure.
+durability-handle-5 = Рукоять вот-вот отвалится.
+durability-handle-6 = Рукоять совсем разболталась.
 
-durability-handle-7 = The handle snaps off!
+durability-handle-7 = Рукоять отламывается!
 
 # Shaft Weapons
-durability-shaft-2 = The shaft begins to splinter.
-durability-shaft-3 = The staft makes an audible crack.
-durability-shaft-4 = The staft has a visable faultline.
+durability-shaft-2 = Древко начинает щепиться.
+durability-shaft-3 = Древко издаёт отчётливый треск.
+durability-shaft-4 = На древке заметна трещина.
 
-durability-shaft-5 = The staft is splintering to pieces.
-durability-shaft-6 = The staft has a massive crack.
+durability-shaft-5 = Древко крошится в щепки.
+durability-shaft-6 = На древке огромная трещина.
 
-durability-shaft-7 = The staft explodes into pieces!
-durability-shaft-8 = The staft has cracked in two!
+durability-shaft-7 = Древко разлетается на куски!
+durability-shaft-8 = Древко треснуло пополам!
 
 # Glass Weapons
-durability-glass-2 = The glass cracks!
-durability-glass-3 = The glass makes an audible crack.
-durability-glass-4 = The glass shatters!
+durability-glass-2 = Стекло трескается!
+durability-glass-3 = Стекло издаёт отчётливый треск.
+durability-glass-4 = Стекло разбивается вдребезги!
 
 # Unique
 
-durability-plush-9 = The plushie is destroyed by the force of the blow...
-durability-plush-10 = Your friend is reduced to a pile of gore...
-durability-plush-11 = No coming back from that one...
+durability-plush-9 = Плюшевая игрушка не выдерживает силы удара...
+durability-plush-10 = От вашего друга осталась куча ошмётков...
+durability-plush-11 = Тут уж ничего не исправить...
 
-durability-book-9 = The book explodes into a storm of paper!
-durability-book-10 = The book's stem is completely ripped off!
-durability-book-11 = The book's cover flies across the room!
+durability-book-9 = Книга разлетается вихрем бумажных страниц!
+durability-book-10 = Корешок книги полностью отрывается!
+durability-book-11 = Обложка книги летит через всю комнату!
 
-durability-drill-0 = The drill head is getting dull.
-durability-drill-1 = The drill head is completely dull.
-durability-drill-2 = The drill head is almost useless.
-durability-drill-3 = The drill head needs to be replaced.
+durability-drill-0 = Буровая головка тупится.
+durability-drill-1 = Буровая головка полностью затупилась.
+durability-drill-2 = Буровая головка почти бесполезна.
+durability-drill-3 = Буровую головку пора заменить.
 
-durability-nettle-0 = Some leaves fall off the death nettle.
-durability-nettle-1 = More leaves fall off the death nettle.
-durability-nettle-2 = The death nettle is now bare and useless.
+durability-nettle-0 = С крапивы смерти опадает несколько листьев.
+durability-nettle-1 = С крапивы смерти опадает ещё несколько листьев.
+durability-nettle-2 = Крапива смерти совсем облысела и ни на что не годится.

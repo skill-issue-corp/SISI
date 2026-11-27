@@ -1,29 +1,29 @@
-ent-ClothingOuterArmorHoSExperimental = head of security's experimental armored trenchcoat
-    .desc = A greatcoat enhanced with an experimental bluespace assisted alloy for some extra protection and style for those with a commanding presence.
+ent-ClothingOuterArmorHoSExperimental = экспериментальный бронированный плащ главы службы безопасности
+    .desc = Пальто, усиленное экспериментальным блюспейс-сплавом для дополнительной защиты и стиля тем, кто умеет держаться с достоинством.
 
-ent-ClothingOuterCoatZeusJacket = zeus jacket
-    .desc = Gives you an urge to hurl the nearest pedestrian at a flying helicopter.
+ent-ClothingOuterCoatZeusJacket = куртка «зевс»
+    .desc = Так и тянет швырнуть ближайшего прохожего в летящий вертолёт.
 
-ent-ClothingOuterDavidsJacket = EMT jacket
-    .desc = A bright yellow signal jacket, beloved by paramedics of the end of the 21st century.
+ent-ClothingOuterDavidsJacket = куртка СКОРОЙ ПОМОЩИ
+    .desc = Ярко-жёлтая сигнальная куртка, любимая парамедиками конца 21-го века.
 
-ent-ClothingOuterDavidsJacketValid = edgerunner jacket
-    .desc = You're right on the edge. Show 'em you got this.
+ent-ClothingOuterDavidsJacketValid = куртка киберпанка
+    .desc = Ты на самом краю. Покажи им, что справишься.
 
-ent-ClothingOuterCoatWardenBlue = warden's blue jacket
-    .desc = A sturdy, utilitarian jacket for those familiar with the brig.
+ent-ClothingOuterCoatWardenBlue = синяя куртка смотрителя
+    .desc = Прочная практичная куртка для тех, кому бриг хорошо знаком.
 
-ent-ClothingOuterCoatRDPurple = research director's experimental lab coat
-    .desc = Woven with experimental technology... this labcoat seems no more protective than your usual one. At least it looks nice.
+ent-ClothingOuterCoatRDPurple = экспериментальный лабораторный халат научного руководителя
+    .desc = Соткан по экспериментальной технологии... похоже, этот халат защищает ничуть не лучше обычного. Зато выглядит неплохо.
 
-ent-ClothingOuterCoatRDPurpleOpened = research director's experimental lab coat
+ent-ClothingOuterCoatRDPurpleOpened = экспериментальный лабораторный халат научного руководителя
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
 
-ent-ClothingOuterCoatHoPLong = hop's longcoat
-    .desc = A smart longcoat for the Head of Personnel.
+ent-ClothingOuterCoatHoPLong = пальто главы персонала
+    .desc = Элегантное длинное пальто для Главы Персонала.
 
-ent-ClothingOuterArmoredJacketCentralCommand = central command jacket
-    .desc = A formal green coat-like jacket accented with gilded shoulder armor and a high collar.
+ent-ClothingOuterArmoredJacketCentralCommand = куртка центрального командования
+    .desc = Парадная зелёная куртка, похожая на пальто, с позолоченными наплечниками и высоким воротником.
 
-ent-ClothingOuterJacketCentralCommandIke = central command ike jacket
-    .desc = A utilitarian green-and-black jacket featuring a sharp, military-inspired design, worn within Central Command.
+ent-ClothingOuterJacketCentralCommandIke = куртка айка центрального командования
+    .desc = Практичная зелёно-чёрная куртка строгого военного кроя, которую носят в Центральном Командовании.

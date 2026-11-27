@@ -1,23 +1,23 @@
-ent-ClarkeCentralElectronics = clarke central control module
-    .desc = The electrical control center for the clarke mech.
+ent-ClarkeCentralElectronics = модуль центрального управления кларка
+    .desc = Электронный центр управления мехом кларк.
 
-ent-ClarkePeripheralsElectronics = clarke peripherals control module
-    .desc = The electrical peripherals control for the clarke mech.
+ent-ClarkePeripheralsElectronics = модуль управления периферией кларка
+    .desc = Электронный блок управления периферией меха кларк.
 
-ent-GygaxCentralElectronics = gygax central control module
-    .desc = The electrical control center for the gygax mech.
+ent-GygaxCentralElectronics = модуль центрального управления гигакса
+    .desc = Электронный центр управления мехом гайгэкс.
 
-ent-GygaxPeripheralsElectronics = gygax peripherals control module
-    .desc = The electrical peripherals control for the gygax mech.
+ent-GygaxPeripheralsElectronics = модуль управления периферией гигакса
+    .desc = Электронный блок управления периферией меха гайгэкс.
 
-ent-GygaxTargetingElectronics = gygax weapon control and targeting module
-    .desc = The electrical targeting control for the gygax mech.
+ent-GygaxTargetingElectronics = модуль управления вооружением и наведения гайгэкса
+    .desc = Электронный блок управления наведением меха гайгэкс.
 
-ent-DurandCentralElectronics = durand central control module
-    .desc = The electrical control center for the durand mech.
+ent-DurandCentralElectronics = модуль центрального управления дюранда
+    .desc = Электронный центр управления мехом дюранд.
 
-ent-DurandPeripheralsElectronics = durand peripherals control module
-    .desc = The electrical peripherals control for the durand mech.
+ent-DurandPeripheralsElectronics = модуль управления периферией дюранда
+    .desc = Электронный блок управления периферией меха дюранд.
 
-ent-DurandTargetingElectronics = durand weapon control and targeting module
-    .desc = The electrical targeting control for the durand mech.
+ent-DurandTargetingElectronics = модуль управления вооружением и наведения дюранда
+    .desc = Электронный блок управления наведением меха дюранд.

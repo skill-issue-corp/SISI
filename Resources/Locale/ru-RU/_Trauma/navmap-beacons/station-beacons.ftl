@@ -1,3 +1,3 @@
-station-beacon-xenobio = Xenobiology
-station-beacon-genetics = Genetics
-station-beacon-reactor = Reactor
+station-beacon-xenobio = Ксенобиология
+station-beacon-genetics = Генетика
+station-beacon-reactor = Реактор

@@ -1,34 +1,34 @@
-ent-ClothingOuterSuitHEV = H.E.V suit
-    .desc = Full-body hazardous suit designed to protect wearer from radiation, energy discarges, blunt-force trauma during the handling of hazardous material.
+ent-ClothingOuterSuitHEV = костюм H.E.V
+    .desc = Защитный костюм на всё тело. Предохраняет владельца от радиации, разрядов энергии и травм от ударов при работе с опасными материалами.
 
-ent-SurveillanceWirelessCameraBodyEntertainment = nopro camera
-    .desc = A body mounted camera. It's watching you.
+ent-SurveillanceWirelessCameraBodyEntertainment = камера нопро
+    .desc = Камера на теле. Она следит за вами.
 
-ent-WhiteRobes = robes of the chosen one
-    .desc = theses white robes are worn by only the finest of Nanotrasen's special operations department.
-    .suffix = chosen one
+ent-WhiteRobes = одеяние избранного
+    .desc = эти белые одеяния носят лишь лучшие сотрудники отдела спецопераций NanoTrasen.
+    .suffix = избранный
 
-ent-ClothingOuterSuitHotDog = hotdog costume
-    .desc = Hot-diggity-dog!
+ent-ClothingOuterSuitHotDog = костюм хот-дога
+    .desc = Вот это хот-дог!
 
-ent-ClothingOuterSuitPickle = pickle suit
-    .desc = Smells horribly of vinegar.
+ent-ClothingOuterSuitPickle = костюм маринованного огурца
+    .desc = Ужасно пахнет уксусом.
 
-ent-ClothingOuterArmorHereticCostume = occult robes
-    .desc = A ragged, dusty set of robes. Strange smudgy eyes line the inside.
+ent-ClothingOuterArmorHereticCostume = оккультное одеяние
+    .desc = Потрёпанное пыльное одеяние. Изнанка испещрена странными размазанными глазами.
 
 ent-ClothingOuterArmorHereticVoidCostume = { ent-ClothingOuterArmorHereticCostume }
     .desc = { ent-ClothingOuterArmorHereticCostume.desc }
-    .suffix = Void
+    .suffix = Пустота
 
 ent-ClothingOuterArmorHereticAshCostume = { ent-ClothingOuterArmorHereticCostume }
     .desc = { ent-ClothingOuterArmorHereticCostume.desc }
-    .suffix = Ash
+    .suffix = Пепел
 
 ent-ClothingOuterArmorHereticFleshCostume = { ent-ClothingOuterArmorHereticCostume }
     .desc = { ent-ClothingOuterArmorHereticCostume.desc }
-    .suffix = Flesh
+    .suffix = Плоть
 
 ent-ClothingOuterArmorHereticBladeCostume = { ent-ClothingOuterArmorHereticCostume }
     .desc = { ent-ClothingOuterArmorHereticCostume.desc }
-    .suffix = Blade
+    .suffix = Клинок

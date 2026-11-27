@@ -1,17 +1,17 @@
-ent-UndeterminedVoidsuitParamedic = paramedic hardsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
+ent-UndeterminedVoidsuitParamedic = селектор скафандра парамедика
+    .desc = Небольшой пульт, который доставляет выбранный скафандр или модсьют с помощью блюспейс-технологии.
 
-ent-UndeterminedVoidsuitSecurity = security hardsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
+ent-UndeterminedVoidsuitSecurity = селектор скафандра службы безопасности
+    .desc = Небольшой пульт, который доставляет выбранный скафандр или модсьют с помощью блюспейс-технологии.
 
-ent-UndeterminedVoidsuitHeadOfSecurity = head of security hardsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
+ent-UndeterminedVoidsuitHeadOfSecurity = селектор скафандра главы службы безопасности
+    .desc = Небольшой пульт, который доставляет выбранный скафандр или модсьют с помощью блюспейс-технологии.
 
-ent-UndeterminedVoidsuitEngineer = engineer hardsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
+ent-UndeterminedVoidsuitEngineer = селектор скафандра инженера
+    .desc = Небольшой пульт, который доставляет выбранный скафандр или модсьют с помощью блюспейс-технологии.
 
-ent-UndeterminedVoidsuitCaptain = captain hardsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
+ent-UndeterminedVoidsuitCaptain = селектор скафандра капитана
+    .desc = Небольшой пульт, который доставляет выбранный скафандр или модсьют с помощью блюспейс-технологии.
 
-ent-UndeterminedVoidsuitRD = research director hardsuit selector
-    .desc = A small remote utilizing bluespace technology to drop in a hardsuit or modsuit of your choosing.
+ent-UndeterminedVoidsuitRD = селектор скафандра научного руководителя
+    .desc = Небольшой пульт, который доставляет выбранный скафандр или модсьют с помощью блюспейс-технологии.

@@ -1,2 +1,2 @@
-ent-ClothingHeadHelmetTactical = tactical helmet
-    .desc = Standard protective gear with a built-in flashlight.
+ent-ClothingHeadHelmetTactical = тактический шлем
+    .desc = Штатное защитное снаряжение со встроенным фонариком.

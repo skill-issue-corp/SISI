@@ -1,5 +1,5 @@
-ent-AccessScanner = RFID access scanner
-    .desc = A LV-powered radio beacon that scans for nearby ID card accesses. Use a screwdriver to modify its range.
+ent-AccessScanner = RFID-сканер доступа
+    .desc = Радиомаяк с питанием от НВ-сети, который считывает права доступа с ближайших ID-карт. Дальность можно настроить отвёрткой.
 
-ent-AccessScannerUnfinished = unfinished access scanner
-    .desc = A bunch of scrap electronics being fashioned into some kind of radio device.
+ent-AccessScannerUnfinished = незаконченный сканер доступа
+    .desc = Кучка электронного лома, из которой вырисовывается какое-то радиоустройство.

@@ -4,11 +4,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-lathe-recipe-Medkit-name = first aid kit (empty)
-lathe-recipe-MedkitBurn-name = burn treatment kit (empty)
-lathe-recipe-MedkitToxin-name = toxin treatment kit (empty)
-lathe-recipe-MedkitO2-name = oxygen deprivation treatment kit (empty)
-lathe-recipe-MedkitBrute-name = brute trauma treatment kit (empty)
-lathe-recipe-MedkitAdvanced-name = advanced first aid kit (empty)
-lathe-recipe-MedkitRadiation-name = radiation treatment kit (empty)
-lathe-recipe-MedkitCombat-name = combat medical kit (empty)
+lathe-recipe-Medkit-name = аптечка первой помощи (пустая)
+lathe-recipe-MedkitBurn-name = аптечка от ожогов (пустая)
+lathe-recipe-MedkitToxin-name = аптечка от отравления (пустая)
+lathe-recipe-MedkitO2-name = аптечка от кислородного голодания (пустая)
+lathe-recipe-MedkitBrute-name = аптечка от механических травм (пустая)
+lathe-recipe-MedkitAdvanced-name = продвинутая аптечка первой помощи (пустая)
+lathe-recipe-MedkitRadiation-name = аптечка от радиации (пустая)
+lathe-recipe-MedkitCombat-name = боевая аптечка (пустая)

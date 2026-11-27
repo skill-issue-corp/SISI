@@ -8,24 +8,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ame-controller-component-fuel-slot-fail-whitelist = You can't put that in the controller...
-ame-controller-component-fuel-slot-fail-locked = Power down the AME before manipulating its fuel.
-ame-controller-component-fuel-slot-success-insert = You insert the jar into the fuel slot.
+ame-controller-component-fuel-slot-fail-whitelist = Это нельзя вставить в контроллер...
+ame-controller-component-fuel-slot-fail-locked = Отключите ДАМ, прежде чем менять топливо.
+ame-controller-component-fuel-slot-success-insert = Вы вставляете ёмкость в топливный отсек.
 
 ## UI
 
-ame-window-title = Antimatter Control Unit
-ame-window-engine-status-label = Engine Status:
-ame-window-engine-injection-status-not-injecting-label = Not Injecting
-ame-window-engine-injection-status-injecting-label = Injecting...
-ame-window-toggle-injection-button = Toggle Injection
-ame-window-fuel-status-label = Fuel Status:
-ame-window-fuel-not-inserted-text = No fuel inserted
-ame-window-injection-amount-label = Injection amount:
-ame-window-refresh-parts-button = Refresh Parts
-ame-window-core-count-label = Core count:
-ame-window-power-currentsupply-label = Current power supply:
-ame-window-power-targetsupply-label = Targeted power supply:
-ame-window-eject-button = Eject
-ame-window-increase-fuel-button = Increase
-ame-window-decrease-fuel-button = Decrease
+ame-window-title = Блок Управления Антиматерией
+ame-window-engine-status-label = Состояние Двигателя:
+ame-window-engine-injection-status-not-injecting-label = Подача Отключена
+ame-window-engine-injection-status-injecting-label = Идёт подача...
+ame-window-toggle-injection-button = Переключить Подачу
+ame-window-fuel-status-label = Состояние Топлива:
+ame-window-fuel-not-inserted-text = Топливо не установлено
+ame-window-injection-amount-label = Объём впрыска:
+ame-window-refresh-parts-button = Обновить Детали
+ame-window-core-count-label = Число ядер:
+ame-window-power-currentsupply-label = Текущая мощность:
+ame-window-power-targetsupply-label = Целевая мощность:
+ame-window-eject-button = Извлечь
+ame-window-increase-fuel-button = Увеличить
+ame-window-decrease-fuel-button = Уменьшить

@@ -1,62 +1,62 @@
 ent-BaseShadowlingAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
 
-ent-ActionHatch = Hatch
-    .desc = Engages the hatching progress, there is no going back after this and you will be vulnrable for a while.
+ent-ActionHatch = Вылупиться
+    .desc = Начинает вылупление. Назад пути уже не будет, а вы какое-то время будете уязвимы.
 
-ent-ActionEnthrall = Enthrall
-    .desc = Shatters their will, forging a thrall, not strong enough to affect mindshielded individuals or enslaved AI.
+ent-ActionEnthrall = Поработить
+    .desc = Ломает волю жертвы, превращая её в тралла. Силы не хватит на тех, кого защищает щит разума, или на ИИ, связанный законами.
 
-ent-ActionGlare = Glare
-    .desc = A dark glare that stuns, silences, and slows a single target.
+ent-ActionGlare = Взгляд
+    .desc = Мрачный взгляд, который оглушает, лишает речи и замедляет одну цель.
 
-ent-ActionVeil = Veil
-    .desc = A pulse of darkness that destroys electrical lights in a large area.
+ent-ActionVeil = Пелена
+    .desc = Волна тьмы, уничтожающая электрическое освещение на большой площади.
 
-ent-ActionRapidRehatch = Rapid Re-Hatch
-    .desc = Shed your broken flesh, and rise whole once more.
+ent-ActionRapidRehatch = Быстрое Перевылупление
+    .desc = Сбросьте изувеченную плоть и восстаньте невредимым.
 
-ent-ActionIcyVeins = Icy Veins
-    .desc = Disarms and freezes nearby creatures in an area around you.
+ent-ActionIcyVeins = Ледяные Жилы
+    .desc = Разоружает и замораживает существ вокруг вас.
 
-ent-ActionDestroyEngines = Destroy Engines
-    .desc = Destroy the engines of the evacuation shuttle. Delays the shuttle by 10 minutes.
+ent-ActionDestroyEngines = Уничтожить Двигатели
+    .desc = Уничтожьте двигатели эвакуационного шаттла. Задерживает шаттл на 10 минут.
 
-ent-ActionCollectiveMind = Collective Mind
-    .desc = Harvest the minds of your Thralls, and gain various abilities.
+ent-ActionCollectiveMind = Коллективный Разум
+    .desc = Воспользуйтесь разумами Траллов, чтобы получить различные способности.
 
-ent-ActionBlindnessSmoke = Blindness Smoke
-    .desc = Heal your kind, and blind anyone who dares enter your mist.
+ent-ActionBlindnessSmoke = Ослепляющий Дым
+    .desc = Исцеляйте себе подобных и ослепляйте всех, кто осмелится войти в ваш туман.
 
-ent-ActionNullCharge = Null Charge
-    .desc = Stand near an APC and overload it with a surge of nullifying force.
+ent-ActionNullCharge = Нулевой Заряд
+    .desc = Встаньте рядом с ЛКП и перегрузите его импульсом гасящей силы.
 
-ent-ActionSonicScreech = Sonic Screech
-    .desc = Release a violent scream that disorients all who hear it.
+ent-ActionSonicScreech = Звуковой Визг
+    .desc = Издайте пронзительный визг, дезориентирующий всех, кто его слышит.
 
-ent-ActionBlackRecuperation = Black Recuperation
-    .desc = Bring back a dead Thrall to life, or empower a living one. You'll reduce your resistance to light by using it.
+ent-ActionBlackRecuperation = Чёрное Восстановление
+    .desc = Верните к жизни мёртвого Тралла или усильте живого. Применение снизит вашу устойчивость к свету.
 
-ent-ActionEmpoweredEnthrall = Empowered Enthrall
-    .desc = Shatters their will, forging a Thrall. Faster and stronger, enough to bypass mindshields.
+ent-ActionEmpoweredEnthrall = Усиленное Порабощение
+    .desc = Ломает волю жертвы, превращая её в Тралла. Действует быстрее и сильнее, пробивает щит разума.
 
-ent-ActionNoxImperii = Nox Imperii
-    .desc = Become immune to that which you fear the most. Light.
+ent-ActionNoxImperii = Нокс Империи
+    .desc = Станьте невосприимчивы к тому, чего вы боитесь больше всего. К Свету.
 
-ent-ActionAscendance = Ascendance
-    .desc = Forge your ascension egg and walk the path of a god, your thralls will need to defend the egg for a long time; be prepared.
+ent-ActionAscendance = Вознесение
+    .desc = Создайте яйцо вознесения и ступите на путь бога. Вашим траллам придётся долго защищать яйцо, так что подготовьтесь.
 
-ent-ActionAnnihilate = Annihilate
-    .desc = Blow them to bits of flesh.
+ent-ActionAnnihilate = Истреби
+    .desc = Разорвите их на куски плоти.
 
-ent-ActionHypnosis = Hypnosis
-    .desc = Make anyone a Thrall, at a moment's notice.
+ent-ActionHypnosis = Гипноз
+    .desc = Мгновенно превратите кого угодно в Тралла.
 
-ent-ActionPlaneShift = Plane Shift
-    .desc = Phase through anything, whenever you desire.
+ent-ActionPlaneShift = Сдвиг Измерения
+    .desc = Проходите сквозь что угодно и когда угодно.
 
-ent-ActionLightningStorm = Lightning Storm
-    .desc = Spawn a ball of wrath, electrocuting everyone near you.
+ent-ActionLightningStorm = Гроза
+    .desc = Создайте шар ярости, который ударит током всех рядом с вами.
 
-ent-ActionAscendantBroadcast = Ascendant Broadcast
-    .desc = Send a very hard to miss message to everyone.
+ent-ActionAscendantBroadcast = Объявление Вознесённого
+    .desc = Разошлите всем сообщение, которое очень трудно пропустить.

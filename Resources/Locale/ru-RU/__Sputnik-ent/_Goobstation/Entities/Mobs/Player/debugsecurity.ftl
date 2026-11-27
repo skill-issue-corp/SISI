@@ -1,42 +1,42 @@
-ent-MobHumanSecurityOfficerSuit = Security Officer Suit
+ent-MobHumanSecurityOfficerSuit = Офицер Службы Безопасности в Скафандре
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanSecurityOfficerModSuit = Security Officer ModSuit
+ent-MobHumanSecurityOfficerModSuit = Офицер Службы Безопасности в Модсьюте
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanHosModSuit = Head Of Security ModSuit
+ent-MobHumanHosModSuit = Глава Службы Безопасности в Модсьюте
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanHoSSuit = Head Of Security Suit
+ent-MobHumanHoSSuit = Глава Службы Безопасности в Скафандре
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanWardenSuit = Warden Suit
+ent-MobHumanWardenSuit = Смотритель в Скафандре
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanBrigmedicSuit = Brigmedic Suit
+ent-MobHumanBrigmedicSuit = Бригмедик в Скафандре
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanSecurityOfficerBulletproofArmorHelmet = Security Officer Bulletproof Armor
+ent-MobHumanSecurityOfficerBulletproofArmorHelmet = Офицер Службы Безопасности в Пуленепробиваемой Броне
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanSecurityOfficerRiotArmorHelmet = Security Officer Riot Armor
+ent-MobHumanSecurityOfficerRiotArmorHelmet = Офицер Службы Безопасности в Противоударной Броне
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanSecurityOfficerReflectiveArmorHelmet = Security Officer Reflective Armor
+ent-MobHumanSecurityOfficerReflectiveArmorHelmet = Офицер Службы Безопасности в Отражающей Броне
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanSecurityOfficerBasicArmorHelmet = Security Officer Basic Armor
+ent-MobHumanSecurityOfficerBasicArmorHelmet = Офицер Службы Безопасности в Базовой Броне
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanHos = Head Of Security
+ent-MobHumanHos = Глава Службы Безопасности
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanBrigmedic = Brigmedic
+ent-MobHumanBrigmedic = Бригмедик
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanWarden = Warden
+ent-MobHumanWarden = Смотритель
     .desc = { ent-MobHumanSecurityBase.desc }
 
-ent-MobHumanSecurityBase = Security Base
+ent-MobHumanSecurityBase = Базовый Сотрудник Службы Безопасности
     .desc = { ent-MobHuman.desc }
     .suffix = DEBUG

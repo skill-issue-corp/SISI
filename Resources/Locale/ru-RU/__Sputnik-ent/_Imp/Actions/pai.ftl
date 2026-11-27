@@ -1,2 +1,2 @@
-ent-ActionDronePlayMidi = Play MIDI
-    .desc = Contribute to the ambiance.
+ent-ActionDronePlayMidi = Играть MIDI
+    .desc = Добавьте немного атмосферы.

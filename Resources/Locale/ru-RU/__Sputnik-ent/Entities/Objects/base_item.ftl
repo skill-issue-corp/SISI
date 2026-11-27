@@ -1,10 +1,10 @@
-ent-BaseItem = item
+ent-BaseItem = предмет
     .desc = { "" }
 
 ent-BaseItemDestructible = { "" }
     .desc = { "" }
 
-ent-BaseStorageItem = storage item
+ent-BaseStorageItem = предмет-хранилище
     .desc = { ent-BaseItem.desc }
 
 ent-BaseBagOpenClose = { "" }

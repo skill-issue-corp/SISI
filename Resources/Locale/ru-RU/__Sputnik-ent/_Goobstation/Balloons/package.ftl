@@ -1,17 +1,17 @@
-ent-BalloonPackageBasic = balloon package
-    .desc = A package containing one random balloon.
+ent-BalloonPackageBasic = пакет с шариком
+    .desc = Пакет с одним случайным шариком.
 
-ent-BalloonPackagePremium = premium balloon package
-    .desc = A package containing one random balloon.
+ent-BalloonPackagePremium = премиальный пакет с шариком
+    .desc = Пакет с одним случайным шариком.
 
-ent-BoxBalloonPackage = balloon package box
-    .desc = A box full of soon to be balloons.
+ent-BoxBalloonPackage = коробка пакетов с шариками
+    .desc = Коробка, полная будущих шариков.
 
-ent-PremiumBoxBalloonPackage = premium balloon package box
-    .desc = A box full of soon to be balloons.
+ent-PremiumBoxBalloonPackage = коробка премиальных пакетов с шариками
+    .desc = Коробка, полная будущих шариков.
 
-ent-CrateBalloonPackage = balloon popper's package
-    .desc = A crate containing 2 full balloon boxes and some additional popping equipment.
+ent-CrateBalloonPackage = набор лопателя шариков
+    .desc = Ящик, в котором лежат 2 полные коробки с шариками и кое-какие приспособления, чтобы их лопать.
 
-ent-PremiumCrateBalloonPackage = premium balloon warrior's package
-    .desc = Contains the most elite balloons and some additional popping equipment. WARNING! SEVERAL MOAB CLASS BALLOONS INCOMING!
+ent-PremiumCrateBalloonPackage = премиальный набор бойца с шариками
+    .desc = Внутри самые элитные шарики и кое-какие приспособления, чтобы их лопать. ВНИМАНИЕ! ПРИБЛИЖАЮТСЯ НЕСКОЛЬКО ШАРИКОВ КЛАССА MOAB!

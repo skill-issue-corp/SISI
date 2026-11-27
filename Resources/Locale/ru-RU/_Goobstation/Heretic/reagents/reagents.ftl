@@ -1,71 +1,71 @@
-reagent-name-eldritch = eldritch essence
-reagent-desc-eldritch = A strange liquid that defies the laws of physics. It re-energizes and heals those who can see beyond this fragile reality, but is incredibly harmful to the closed-minded.
+reagent-name-eldritch = потусторонняя эссенция
+reagent-desc-eldritch = Странная жидкость, неподвластная законам физики. Восстанавливает силы и исцеляет тех, кто видит за пределами хрупкой реальности, но крайне вредна для людей с узким кругозором.
 
-reagent-name-crucible-soul = crucible soul
-reagent-desc-crucible-soul = A bright orange, translucent liquid. Allows you to walk through walls. After expiring, you are teleported to your original location.
+reagent-name-crucible-soul = душа горнила
+reagent-desc-crucible-soul = Ярко-оранжевая полупрозрачная жидкость. Позволяет проходить сквозь стены. По окончании действия возвращает вас в исходное место.
 
-reagent-name-clarity = dusk and dawn
-reagent-desc-clarity = A dull yellow liquid. It seems to fade in and out with regularity. Allows you to see through walls and objects.
+reagent-name-clarity = закат и рассвет
+reagent-desc-clarity = Тускло-жёлтая жидкость. Она будто то исчезает, то снова появляется. Позволяет видеть сквозь стены и предметы.
 
-reagent-name-marshal = wounded soldier
-reagent-desc-marshal = A colorless, dark liquid. Increases your physical strength, making your attacks more furious and making you take less damage, the more damaged you are. Your melee attacks heal your health and stamina but you take damage overtime, the healthier you are - the more overtime damage you take.
+reagent-name-marshal = раненый солдат
+reagent-desc-marshal = Бесцветная тёмная жидкость. Увеличивает физическую силу. Чем сильнее вы ранены, тем яростнее ваши удары и тем меньше урона вы получаете. Удары в ближнем бою восстанавливают здоровье и выносливость, но вы постепенно получаете урон, и чем вы здоровее, тем больше этот урон.
 
-reagent-name-ether = ether of the newborn
-reagent-desc-ether = Nausea-inducing, thick green liquid. Restores your body completely, then places you into an enhanced sleep for a full minute.
+reagent-name-ether = эфир новорождённого
+reagent-desc-ether = Густая зелёная жидкость, вызывающая тошноту. Полностью восстанавливает ваше тело, а затем погружает в глубокий сон на целую минуту.
 
-reagent-name-eldritch-rust = eldritch rust
-reagent-desc-eldritch-rust = A slurry of viscous, chunky brown liquid.
+reagent-name-eldritch-rust = потусторонняя ржавчина
+reagent-desc-eldritch-rust = Вязкая бурая жижа с комками.
 
-entity-condition-guidebook-heretic-or-ghoul = target is a heretic or ghoul
-entity-condition-guidebook-not-heretic-or-ghoul = target is not a heretic or ghoul
+entity-condition-guidebook-heretic-or-ghoul = цель — еретик или гуль
+entity-condition-guidebook-not-heretic-or-ghoul = цель не еретик и не гуль
 
-entity-condition-guidebook-environment-temperature = environment temperature is
+entity-condition-guidebook-environment-temperature = температура окружающей среды составляет
     { $invert ->
-        [true] at least
-        *[false] at most
-    } {$threshold} degrees
+        [true] не менее
+        *[false] не более
+    } {$threshold} градусов
 
-entity-condition-guidebook-has-body-part = target
+entity-condition-guidebook-has-body-part = у цели
     { $invert ->
-        [true] has no
-        *[false] has
+        [true] отсутствует
+        *[false] есть
     } {$part}
 
-entity-condition-guidebook-on-fire = target is
+entity-condition-guidebook-on-fire = цель
     { $invert ->
-        [true] not on fire
-        *[false] on fire
+        [true] не горит
+        *[false] горит
     }
 
 reagent-effect-guidebook-has-status-effect =
     { $invert ->
-        [true] has no
-        *[false] has
-    } {$effect} status effect
+        [true] не наложен
+        *[false] наложен
+    } эффект «{$effect}»
 
-entity-condition-guidebook-nullrod-protected = target is protected by nullrod
-entity-condition-guidebook-nullrod-not-protected = target is not protected by nullrod
+entity-condition-guidebook-nullrod-protected = цель защищена нуль-жезлом
+entity-condition-guidebook-nullrod-not-protected = цель не защищена нуль-жезлом
 
-reagent-effect-guidebook-deconvert-ghoul = deconverts ghoulified entity
+reagent-effect-guidebook-deconvert-ghoul = деконвертирует гуля
 
-reagent-physical-desc-eldritch = eldritch
-reagent-physical-desc-crucible-soul = otherworldly
-reagent-physical-desc-clarity = clear
-reagent-physical-desc-marshal = agonizing
-reagent-physical-desc-ether = numbing
-reagent-physical-desc-rusty = rusty
+reagent-physical-desc-eldritch = потусторонняя
+reagent-physical-desc-crucible-soul = нездешняя
+reagent-physical-desc-clarity = прозрачная
+reagent-physical-desc-marshal = мучительная
+reagent-physical-desc-ether = притупляющая чувства
+reagent-physical-desc-rusty = ржавая
 
 flavor-complex-eldritch = Ag'hsj'saje'sh
-flavor-complex-crucible-soul = like something between the plains
-flavor-complex-clarity = like eyes
-flavor-complex-marshal = painful
-flavor-complex-ether = refreshing
-flavor-complex-rust = like rotten copper
+flavor-complex-crucible-soul = как нечто меж измерениями
+flavor-complex-clarity = как глаза
+flavor-complex-marshal = больно
+flavor-complex-ether = освежающе
+flavor-complex-rust = как прогнившая медь
 
 crucible-soul-effect-examine-message =
     {"["}color=#fb793a]{ CAPITALIZE(SUBJECT($ent)) } { GENDER($ent) ->
-        [epicene] do
-       *[other] does
-    } not seem to be all there.[/color]
+        [epicene] словно
+       *[other] словно
+    } не здесь.[/color]
 
-wounded-solider-effect-examine-message = [color=#5e718e]{ CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) } in a state of undying frenzy.[/color]
+wounded-solider-effect-examine-message = [color=#5e718e]{ CAPITALIZE(SUBJECT($ent)) } { CONJUGATE-BE($ent) } в состоянии неугасающей ярости.[/color]

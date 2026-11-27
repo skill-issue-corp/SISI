@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-openahelp-desc = Opens AHelp channel for a given NetUserID, or your personal channel if none given.
-cmd-openahelp-help = Usage: {$command} [<netuserid>]
-cmd-openahelp-error = Bad GUID!
+cmd-openahelp-desc = Открывает канал ahelp для указанного NetUserID или ваш личный канал, если ID не указан.
+cmd-openahelp-help = Использование: {$command} [<netuserid>]
+cmd-openahelp-error = Неверный GUID!

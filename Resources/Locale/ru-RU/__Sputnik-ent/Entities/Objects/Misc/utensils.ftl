@@ -4,20 +4,20 @@ ent-UtensilBase = { ent-BaseItem }
 ent-UtensilBasePlastic = { ent-UtensilBase }
     .desc = { ent-UtensilBase.desc }
 
-ent-Fork = fork
-    .desc = An eating utensil, perfect for stabbing.
+ent-Fork = вилка
+    .desc = Столовый прибор, отлично подходит, чтобы колоть.
 
-ent-ForkPlastic = plastic fork
-    .desc = An eating utensil, perfect for stabbing.
+ent-ForkPlastic = пластиковая вилка
+    .desc = Столовый прибор, отлично подходит, чтобы колоть.
 
-ent-Spoon = spoon
-    .desc = There is no spoon.
+ent-Spoon = ложка
+    .desc = Ложки не существует.
 
-ent-SpoonPlastic = plastic spoon
-    .desc = There is no spoon.
+ent-SpoonPlastic = пластиковая ложка
+    .desc = Ложки не существует.
 
-ent-KnifePlastic = plastic knife
-    .desc = That's not a knife. This is a knife.
+ent-KnifePlastic = пластиковый нож
+    .desc = Это не нож. Вот это - нож.
 
-ent-BarSpoon = bar spoon
-    .desc = Your personal helper to mix drinks and changes lives.
+ent-BarSpoon = барная ложка
+    .desc = Ваш личный помощник в смешивании напитков и перемене судеб.

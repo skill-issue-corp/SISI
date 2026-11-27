@@ -1,2 +1,2 @@
-ent-WeaponBoltActionLionhunter = lionhunter's rifle
-    .desc = An antique looking rifle that looks immaculate despite being clearly very old.
+ent-WeaponBoltActionLionhunter = винтовка охотника на львов
+    .desc = Старомодная винтовка. Несмотря на почтенный возраст, выглядит безупречно.

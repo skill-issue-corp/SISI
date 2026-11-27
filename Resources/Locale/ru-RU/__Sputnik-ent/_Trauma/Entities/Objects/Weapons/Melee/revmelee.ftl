@@ -4,26 +4,26 @@ ent-BaseRevMeleeWeapon = { ent-BaseItem }
 ent-BaseRevForgedWeapon = { ent-BaseRevMeleeWeapon }
     .desc = { ent-BaseRevMeleeWeapon.desc }
 
-ent-RevMace = forged mace
-    .desc = A robust mace, stuns enemies. Knocks the air out of targets and makes them struggle to speak.
+ent-RevMace = кованая булава
+    .desc = Робастная булава, оглушающая врагов. Вышибает дух из цели, затрудняя речь.
 
-ent-RevSword = forged sword
-    .desc = A two handed sword, deals heavy damage.
+ent-RevSword = кованый меч
+    .desc = Двуручный меч, наносящий большой урон.
 
-ent-RevPitchfork = forged pitchfork
-    .desc = A large pitchfork, can be thrown and has extended melee range.
+ent-RevPitchfork = кованые вилы
+    .desc = Большие вилы. Их можно метать, а в ближнем бою у них увеличенная дальность.
 
-ent-RevKnife = forged knife
-    .desc = A small forged knife. It is concealable, can be tipped with poison and is usable with a shield.
+ent-RevKnife = кованый нож
+    .desc = Небольшой кованый нож. Его можно спрятать, смазать ядом и использовать вместе со щитом.
 
-ent-RevTorch = combat torch
-    .desc = A refined torch mounted with a steel head. Lights enemies on fire when hit.
+ent-RevTorch = боевой факел
+    .desc = Улучшенный факел со стальным навершием. При попадании поджигает врагов.
 
-ent-Caltrops = caltrops
-    .desc = A weapon designed to be laid on the floor as a trap, can be thrown for a quick trap anchored in place.
+ent-Caltrops = шипы
+    .desc = Оружие для устройства ловушек на полу. Их можно бросить, чтобы быстро установить неподвижную ловушку.
 
-ent-RevMaul = forged maul
-    .desc = A robust maul, designed to hit through armor. Definitely not a non-lethal option.
+ent-RevMaul = кованая кувалда
+    .desc = Робастная кувалда, рассчитанная на удары сквозь броню. Летальный вариант, без сомнений.
 
-ent-RevKunai = forged kunai
-    .desc = A shovel often thrown by weebs, capable of a lot if you know what you're doing. The red handle wards off demons.
+ent-RevKunai = кованый кунай
+    .desc = Лопатка, которую часто метают анимешники. В умелых руках годится для многого. Красная рукоять отгоняет демонов.

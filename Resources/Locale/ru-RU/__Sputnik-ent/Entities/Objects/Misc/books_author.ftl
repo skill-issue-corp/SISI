@@ -1,94 +1,94 @@
-ent-BookNarsieLegend = the legend of nar'sie
-    .desc = The book is an old, leather-bound tome with intricate engravings on the cover. The pages are yellowed and fragile with age, with the ink of the text faded in some places. It appears to have been well-read and well-loved, with dog-eared pages and marginalia scrawled in the margins. Despite its aged appearance, the book still exudes a sense of mystical power and wonder, hinting at the secrets and knowledge contained within its pages.
+ent-BookNarsieLegend = легенда о нар'си
+    .desc = Старинный том в кожаном переплёте с замысловатыми гравировками на обложке. От времени страницы пожелтели и стали хрупкими, а чернила местами выцвели. Загнутые уголки и записи на полях выдают книгу, которую любили и часто читали. Несмотря на возраст, от неё всё ещё веет таинственной силой и чудом, словно на её страницах скрыты секреты и запретные знания.
 
-ent-BookTruth = exploring different philosophical perspectives on truth and the complexity of lying
-    .desc = A book exploring the different philosophical perspectives on truth and lying has a worn cover, with creases and marks indicating frequent use and thoughtful contemplation. The spine shows signs of wear from being pulled off the shelf again and again. The pages themselves are filled with underlines, notes in the margins, and highlighted passages as readers grapple with the nuances and complexities of the topic.
+ent-BookTruth = о разных философских взглядах на истину и неоднозначности лжи
+    .desc = Потёртая обложка вся в складках и отметинах. Книгу о философских взглядах на правду и ложь часто читали и долго над ней размышляли. Корешок износился, потому что книгу снова и снова доставали с полки. Читатели пытались разобраться в тонкостях темы и оставили множество подчёркиваний, выделенных отрывков и пометок на полях.
 
-ent-BookWorld = shaping the state of the world - interplay of forces and choices
-    .desc = The book is a well-preserved hardcover with a simple, elegant design on the cover, depicting the image of a world in motion. The pages are crisp and clean, with no signs of wear or tear, suggesting that it has been well-cared for and valued by its previous owner. The text is printed in a clear, legible font, and the chapters are organized in a logical and easy-to-follow manner, making it accessible to readers of all levels of expertise.
+ent-BookWorld = как формируется мир - взаимодействие сил и решений
+    .desc = Хорошо сохранившаяся книга в твёрдом переплёте. На простой изящной обложке изображён мир в движении. Страницы чистые и гладкие, без следов износа. Прежний владелец явно ценил и берёг книгу. Текст набран чётким, разборчивым шрифтом, а главы выстроены логично и последовательно. Книга доступна читателям с любой подготовкой.
 
-ent-BookIanAntarctica = adventures of robert & ian - exploring antarctica
-    .desc = The book is a small paperback in good condition, with an illustration of Ian the corgi and the colony of penguins on the cover. The title, "Ian and Robert's Antarctic Adventure", is written in bold white letters against a blue background. The back cover features a brief summary of the story, highlighting the themes of humility, resilience, and the beauty of nature.
+ent-BookIanAntarctica = приключения роберта и иана - исследование антарктики
+    .desc = Небольшая книга в мягком переплёте, в хорошем состоянии. На обложке нарисованы корги Иан и колония пингвинов. Заголовок «Антарктическое Приключение Иана и Роберта» набран крупными белыми буквами на синем фоне. На обороте кратко пересказан сюжет и выделены его главные темы: скромность, стойкость и красота природы.
 
-ent-BookSlothClownSSS = the sloth and the clown - space station shenanigans
-    .desc = The book looks new, with a glossy cover featuring Chuckles the clown and Snuggles the sloth floating in space with a backdrop of stars and planets. Chuckles is dressed in his banana costume and Snuggles is sleeping on a hammock made of space ropes. The title "The Sloth and the Clown - Space Station Shenanigans" is written in bold and colorful letters.
+ent-BookSlothClownSSS = ленивец и клоун - проделки на космической станции
+    .desc = Книга выглядит новой. На глянцевой обложке клоун Хохотун и ленивец Обнимашка парят в космосе среди звёзд и планет. Хохотун в костюме банана, а Обнимашка спит в гамаке из космических верёвок. Заголовок «Ленивец и Клоун - Проделки на Космической Станции» набран крупными разноцветными буквами.
 
-ent-BookSlothClownPranks = the sloth and the clown - pranks on zorgs
-    .desc = The book is in excellent condition, with crisp pages and a bright cover. The cover of the book features Chuckles and Snuggles, surrounded by the different species they encountered during their adventures in space. In the background, the Zorgs can be seen peeking out from behind a spaceship.
+ent-BookSlothClownPranks = ленивец и клоун - розыгрыши для зоргов
+    .desc = Книга в отличном состоянии, со свежими страницами и яркой обложкой. На ней Хохотун и Обнимашка в окружении представителей разных видов, которых они встретили в космических странствиях. На заднем плане из-за космического корабля выглядывают Зорги.
 
-ent-BookSlothClownMMD = the sloth and the clown - maze maze danger
-    .desc = The book looks new and vibrant, with an image of Chuckles and Snuggles standing in front of the changing maze on the cover. The title "The Sloth and the Clown - Maze Maze Danger" is written in bold, colorful letters that pop against a background of space and stars.
+ent-BookSlothClownMMD = ленивец и клоун - лабиринт, лабиринт, опасность
+    .desc = Книга новая и яркая. На обложке Хохотун и Обнимашка стоят перед переменчивым лабиринтом. Крупные разноцветные буквы заголовка «Ленивец и Клоун - Лабиринт, Лабиринт, Опасность» выделяются на фоне космоса и звёзд.
 
-ent-BookStruck = the humbling and transformative experience of being struck by lightning
-    .desc = The cover of the book is an electrifying image of lightning striking the ground, with a silhouette of a person standing in the midst of it. The title is written in bold letters in white against a black background, conveying the power and intensity of the experience. The subtitle is written in smaller letters below the title, providing a hint of the philosophical and spiritual themes explored within.
+ent-BookStruck = как удар молнии смиряет и меняет человека
+    .desc = На обложке молния бьёт в землю, а посреди вспышки виден человеческий силуэт. Заголовок набран крупными белыми буквами на чёрном фоне, передавая мощь и остроту пережитого. Под ним мелким шрифтом набран подзаголовок, который намекает на философские и духовные темы книги.
 
-ent-BookSun = reaching for the sun - a plant's quest for life
-    .desc = The book is new, with a bright and vibrant cover featuring a plant stretching its leaves towards the sun. The title, "Reaching for the Sun - A Plant's Quest for Life," is written in bold, green letters, with an image of the sun rising behind the plant. The cover evokes a sense of growth, energy, and the beauty of nature.
+ent-BookSun = навстречу солнцу - борьба растения за жизнь
+    .desc = Новая книга с яркой обложкой, на которой растение тянет листья к солнцу. Заголовок «Навстречу Солнцу - Борьба Растения за Жизнь» написан крупными зелёными буквами. За растением восходит солнце. Обложка передаёт ощущение роста и энергии и напоминает о красоте природы.
 
-ent-BookPossum = fallen ambitions - the tragic tale of morty the possum
-    .desc = The book is in good condition, with a hardcover and a dark green forest background. In the center of the cover, there is a sad looking possum sitting on a branch, with a distant and lonely expression on its face. The title, "Fallen Ambitions - The Tragic Tale of Morty the Possum," is written in bold, gold letters above the possum.
+ent-BookPossum = рухнувшие амбиции - трагическая история опоссума морти
+    .desc = Книга в твёрдом переплёте, в хорошем состоянии. На обложке тёмно-зелёный лес. В центре на ветке сидит печальный опоссум с отрешённым, одиноким взглядом. Над ним золотыми буквами набран заголовок «Рухнувшие Амбиции - Трагическая История Опоссума Морти».
 
-ent-BookCafe = the cafe possum
-    .desc = The book is in new condition, with a vibrant and whimsical cover that features a charming illustration of a tiny possum peeking out from behind a coffee cup, with a colorful and bustling cafe scene in the background. The title "The Cafe Possum" is written in bold, playful lettering, and the author's name is printed in a smaller font below it.
+ent-BookCafe = опоссум из кафе
+    .desc = Новая книга с яркой причудливой обложкой. Крошечный опоссум очаровательно выглядывает из-за кофейной чашки на фоне красочного, оживлённого кафе. Заголовок «Опоссум из Кафе» набран крупными игривыми буквами, а под ним шрифтом помельче напечатано имя автора.
 
-ent-BookFeather = a feather of magic - the wandering bird's journey to belonging
-    .desc = The book would be in new condition, with a glossy cover depicting the wandering bird surrounded by a glowing forest, with the magical feather at the center. The title, "A Feather of Magic," would be written in bold, glittering letters, while the subtitle, "The Wandering Bird's Journey to Belonging," would be written in smaller print underneath. The back cover would feature a brief summary of the story, along with reviews from critics praising the book's themes of hope and renewal.
+ent-BookFeather = волшебное перо - странствия птицы в поисках родного дома
+    .desc = На глянцевой обложке этой новой книги странствующую птицу окружает сияющий лес, а в центре видно волшебное перо. Заголовок «Волшебное Перо» блестит крупными буквами. Под ним шрифтом помельче набран подзаголовок «Странствия Птицы в Поисках Родного Дома». На обороте краткое содержание и отзывы критиков, хвалящих раскрытие тем надежды и обновления.
 
-ent-BookIanLostWolfPup = the adventures of ian and renault - finding the lost wolf pup
-    .desc = The book is a new condition with a colorful cover, depicting Ian the corgi and Renault the fox on a journey through the forest, with the lost wolf pup to their feet. The title "The Adventures of Ian and Renault - Finding the Lost Wolf Pup" is prominently displayed at the top, with the author's name below. The cover has a whimsical and adventurous feel to it, attracting readers of all ages.
+ent-BookIanLostWolfPup = приключения иана и рено - поиски пропавшего волчонка
+    .desc = Книга новая, с красочной обложкой. Корги Иан и лиса Рено идут по лесу, а у их ног стоит пропавший волчонок. Сверху хорошо виден заголовок «Приключения Иана и Рено - Поиски Пропавшего Волчонка», под ним имя автора. Обложка обещает причудливые приключения и привлекает читателей любого возраста.
 
-ent-BookIanRanch = the adventures of ian and renault - ranch expedition
-    .desc = The book appears to be new, with crisp pages and an unblemished cover. The cover features a colorful illustration of Ian and Renault, surrounded by various animals they encountered on the ranch, including horses, cows, and chickens. The title, "The Adventures of Ian and Renault - Ranch Expedition," is written in bold letters above the image, with the subtitle, "Helping Animals in Need," written below.
+ent-BookIanRanch = приключения иана и рено - экспедиция на ранчо
+    .desc = Похоже, книга новая. Страницы свежие, обложка без единого пятнышка. На красочной иллюстрации Иана и Рено окружают животные, встреченные на ранчо: лошади, коровы и куры. Над рисунком крупными буквами набран заголовок «Приключения Иана и Рено - Экспедиция на Ранчо», а под ним подзаголовок «Помощь Животным в Беде».
 
-ent-BookIanOcean = the adventures of ian and renault - an ocean adventure
-    .desc = The book is new and in excellent condition. The cover shows Ian and Renault running and playing on the beach, with the blue ocean and golden sand in the background. The title is written in bold, playful letters, and the subtitle reads "An Ocean Adventure."
+ent-BookIanOcean = приключения иана и рено - приключение у океана
+    .desc = Книга новая и в отличном состоянии. На обложке Иан и Рено бегают и играют на пляже на фоне синего океана и золотого песка. Заголовок набран крупными игривыми буквами, а подзаголовок гласит «Приключение у Океана».
 
-ent-BookIanMountain = the adventures of ian and renault - a mountain expedition
-    .desc = The book is in new condition. The cover is a stunning mountain landscape with Ian and Renault in the foreground, looking out over the vista of the surrounding peaks and valleys. The title is written in bold, block letters at the top, with the subtitle, "A Mountain Expedition," written underneath.
+ent-BookIanMountain = приключения иана и рено - горная экспедиция
+    .desc = Книга новая. На обложке потрясающий горный пейзаж. Иан и Рено на переднем плане смотрят на окрестные вершины и долины. Сверху крупными печатными буквами набран заголовок, а под ним подзаголовок «Горная Экспедиция».
 
-ent-BookIanCity = the adventures of ian and renault - exploring the city
-    .desc = The book is in new condition, with crisp pages and a glossy cover. The cover features a colorful illustration of Ian and Renault exploring the city, with tall buildings and bustling streets in the background. Ian is leading the way, with his tail wagging excitedly, while Renault follows close behind, her ears perked up and her eyes wide with wonder. The title, "The Adventures of Ian and Renault," is written in bold, playful letters, with the subtitle, "Exploring the City," written below in smaller font.
+ent-BookIanCity = приключения иана и рено - исследование города
+    .desc = Книга новая, со свежими страницами и глянцевой обложкой. На яркой иллюстрации Иан и Рено исследуют город на фоне высотных зданий и шумных улиц. Иан идёт впереди, радостно виляя хвостом. Рено следует за ним, навострив уши и вытаращив глаза от удивления. Заголовок «Приключения Иана и Рено» набран крупными игривыми буквами, а ниже шрифтом помельче стоит подзаголовок «Исследование Города».
 
-ent-BookIanArctic = the adventures of ian and renault - an arctic journey of courage and friendship
-    .desc = 
-        The book looks new and adventurous, with a picture of Ian and Renault standing in front of an icy landscape with snowflakes falling all around them. The title, "The Adventures of Ian and Renault," is written in bold letters at the top, with a subtitle that reads, "An Arctic Journey of Courage and Friendship."
-        2nd Edition.
+ent-BookIanArctic = приключения иана и рено - арктическое путешествие о смелости и дружбе
+    .desc =
+        Книга выглядит новой и сулит приключения. На обложке Иан и Рено стоят посреди ледяного пейзажа, а вокруг падают снежинки. Сверху крупными буквами набран заголовок «Приключения Иана и Рено», под ним подзаголовок «Арктическое Путешествие о Смелости и Дружбе».
+        2-е Издание.
 
-ent-BookIanDesert = the adventures of ian and renault - exploring the mysterious desert
-    .desc = The book is in new condition and would have a colorful cover depicting Ian and Renault against a desert backdrop. The cover would feature images of various animals and plants that the two encountered on their adventure, such as a rattlesnake, coyotes, sand dunes, and an oasis. The title, "The Adventures of Ian and Renault" is prominently displayed on the cover in bold letters, while the subtitle "Exploring the Mysterious Desert" is written in smaller letters underneath.
+ent-BookIanDesert = приключения иана и рено - исследование загадочной пустыни
+    .desc = Книга новая, с яркой обложкой, на которой Иан и Рено стоят посреди пустыни. Вокруг всё, что они встретили в пути: гремучая змея, койоты, дюны и оазис. Заголовок «Приключения Иана и Рено» выделен крупными буквами, а под ним шрифтом помельче набрано «Исследование Загадочной Пустыни».
 
-ent-BookNames = the power of names - a philosophical exploration
-    .desc = The book is a gently used philosophy text, with a cover that features a close-up of a person's mouth, with the word "names" written on their lips. The title is "The Power of Names - A Philosophical Exploration," and the author's name is prominently displayed underneath. The overall design is simple and elegant, with the focus on the text rather than any flashy graphics or images.
+ent-BookNames = сила имён - философское исследование
+    .desc = Слегка потрёпанная книга по философии. На обложке крупным планом изображён человеческий рот, а на губах написано слово «имена». Под заголовком «Сила Имён - Философское Исследование» хорошо заметно имя автора. Оформление простое и изящное: внимание притягивает текст, а не броская графика.
 
-ent-BookEarth = earthly longing
-    .desc = The book is in good condition, with a slightly faded cover due to exposure to sunlight.  The cover of the book depicts a panoramic view of the Earth from space, with a bright blue ocean and green landmasses. In the foreground, a lone astronaut is seen sitting in front of a window, gazing wistfully at the Earth. The title of the book, "Earthly Longing," is written in bold white letters against a black background at the top of the cover.
+ent-BookEarth = тоска по земле
+    .desc = Книга в хорошем состоянии, хотя её обложка слегка выцвела на солнце. На обложке панорама Земли из космоса с ярко-синим океаном и зелёной сушей. На переднем плане одинокий космонавт сидит у иллюминатора и с тоской смотрит на Землю. Сверху на чёрном фоне крупными белыми буквами написано «Тоска по Земле».
 
-ent-BookAurora = journey beyond - the starship aurora mission
-    .desc = The book is in excellent condition, with a shiny cover depicting a spaceship hovering above a planet, perhaps with the Earth in the background. The title "Journey Beyond - The Starship Aurora Mission" is written in bold, silver letters. The cover also features a quote from a review, "A breathtaking tale of human achievement and exploration" to entice potential readers.
+ent-BookAurora = путешествие за грань - миссия звездолёта аврора
+    .desc = Книга в отличном состоянии. На блестящей обложке космический корабль висит над планетой, а на заднем плане, возможно, видна Земля. Заголовок «Путешествие за Грань - Миссия Звездолёта Аврора» набран крупными серебряными буквами. На обложке есть цитата из рецензии, призванная заманить читателей: «Захватывающая повесть о человеческих достижениях и открытиях».
 
-ent-BookTemple = the nature of the divine - embracing the many gods
-    .desc = The book appears new with crisp pages and an uncreased spine. The cover features an image of a temple with a glowing, multicolored aura around it, symbolizing the various gods discussed in the book. The title is displayed prominently in gold lettering, with the author's name and a brief summary of the book written in smaller text below.
+ent-BookTemple = природа божественного - признание многих богов
+    .desc = Книга выглядит новой: страницы свежие, корешок без заломов. На обложке храм в сияющем разноцветном ореоле, который символизирует описанных в книге богов. Заголовок выделен золотыми буквами. Под ним мелким шрифтом набраны имя автора и краткое содержание.
 
-ent-BookWatched = watched
-    .desc = The book is in good condition, with a slightly worn cover that features a dark and ominous space station looming in the background. The title "Watched" is written in bold letters that seem to be staring back at the reader, conveying the feeling of being constantly observed. The blurb on the back cover hints at a thrilling and suspenseful tale of paranoia and danger in a confined setting.
+ent-BookWatched = под наблюдением
+    .desc = Книга в хорошем состоянии, с немного потёртой обложкой, на которой вдалеке нависает тёмная зловещая станция. Крупные буквы заголовка «Под Наблюдением» словно сами всматриваются в читателя, вызывая ощущение постоянной слежки. Аннотация обещает напряжённую историю о паранойе и опасности в замкнутом пространстве.
 
-ent-BookMedicalOfficer = horizon's battle - a medical officer's tale of trust and survival
-    .desc = The cover features Smith, the medical officer, in his uniform, looking determined and ready to face any challenge. The backdrop shows the SS Horizon under attack, with explosions and smoke filling the space station. In the foreground, a wizard with a staff can be seen, adding an element of mystery and intrigue to the scene. The title is prominently displayed in bold letters, with the author's name and a tagline indicating the book's action-packed and suspenseful nature.
+ent-BookMedicalOfficer = битва за горизонт - повесть врача о доверии и выживании
+    .desc = На обложке врач Смит в форме, с решительным видом и готовый к любым испытаниям. На заднем плане станция «Горизонт» под обстрелом, её заполняют взрывы и дым. На переднем плане виден маг с посохом, добавляющий сцене загадочности. Под крупным заголовком напечатаны имя автора и слоган, обещающий остросюжетную и напряжённую книгу.
 
-ent-BookMorgue = the ghostly residents of the abandoned morgue
-    .desc = The book looks old and worn, with faded lettering on the cover. The cover depicts a dark and eerie morgue, with a full moon casting an ominous glow over the scene. In the foreground are Morty the possum and Morticia the raccoon, with mischievous expressions on their faces, peeking out from behind a metal shelf. The title is written in bold, spooky letters, with the subtitle "A Tale of Animal Spirits" written in smaller font below.
+ent-BookMorgue = призрачные обитатели заброшенного морга
+    .desc = Книга выглядит старой и потрёпанной, надписи на обложке выцвели. На обложке тёмный жуткий морг, залитый зловещим светом полной луны. На переднем плане опоссум Морти и енотиха Мортиша с озорным видом выглядывают из-за металлической полки. Заголовок набран крупными жутковатыми буквами, а под ним шрифтом помельче набрано «Сказка о Духах Животных».
 
-ent-BookRufus = rufus and the mischievous fairy
-    .desc = The book is in new condition, with vibrant colors and illustrations on the cover. The cover shows Rufus on his bicycle, with Blossom flying beside him in a playful manner. The title is written in bold, whimsical font, with the characters' names highlighted in a contrasting color. The overall aesthetic is charming and inviting, appealing to children and adults alike.
+ent-BookRufus = руфус и озорная фея
+    .desc = Книга новая, с яркими красками и иллюстрациями на обложке. Руфус едет на велосипеде, а Блоссом игриво летит рядом. Заголовок набран крупным причудливым шрифтом, имена героев выделены контрастным цветом. Оформление обаятельное и располагающее, понравится и детям, и взрослым.
 
-ent-BookMap = the map of adventure
-    .desc = The book is in a good condition, with a glossy cover depicting a jungle scene with vibrant colors and intricate details. The title "The Map of Adventure," is written in bold, gold lettering. The cover also features an image of a mysterious suitcase with the map spilling out of it.
+ent-BookMap = карта приключений
+    .desc = Книга в хорошем состоянии. На глянцевой обложке яркие джунгли, прорисованные до мелочей. Заголовок «Карта Приключений» набран крупными золотыми буквами. Рядом изображён таинственный чемодан, из которого вываливается карта.
 
-ent-BookJourney = a journey of music, mountains, and self-discovery
-    .desc = The book is in excellent condition, with crisp pages and a glossy cover. The cover features a striking image of a mountain range, with a silhouette of a climber with a guitar on their back in the foreground. The title is bold and eye-catching, with the subtitle "A Journey of Music, Mountains, and Self-Discovery."
+ent-BookJourney = путешествие через музыку, горы и познание себя
+    .desc = Книга в отличном состоянии, со свежими страницами и глянцевой обложкой. На обложке впечатляющая горная гряда, а на переднем плане силуэт альпиниста с гитарой за спиной. Заголовок броский и крупный, под ним подзаголовок «Путешествие через Музыку, Горы и Познание Себя».
 
-ent-BookInspiration = finding inspiration - a writer's journey through the woods
-    .desc = The book is in a new condition with a cover depicting a serene forest scene with a waterfall and colorful wildflowers. The title of the book "Finding Inspiration - A Writer's Journey Through the Woods" and the author's name are prominently displayed at the bottom.
+ent-BookInspiration = в поисках вдохновения - путешествие писателя по лесу
+    .desc = Новая книга с обложкой, на которой изображён тихий лес с водопадом и разноцветными полевыми цветами. Внизу отчётливо видны заголовок «В Поисках Вдохновения - Путешествие Писателя по Лесу» и имя автора.
 
-ent-BookJanitorTale = the tales of a tired janitor
-    .desc = A clean looking book, smelling vaguely of soap and bleach.
+ent-BookJanitorTale = сказания уставшего уборщика
+    .desc = Опрятная на вид книга, слегка пахнущая мылом и отбеливателем.

@@ -1,2 +1,2 @@
-cmd-eventlog-desc = Opens a window to log a event.
-cmd-eventlog-help = Usage: eventlog
+cmd-eventlog-desc = Открывает окно записи события в журнал.
+cmd-eventlog-help = Использование: eventlog

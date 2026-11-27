@@ -1,41 +1,41 @@
-uplink-foxdie-name = FOXDIE Retrovirus
-uplink-foxdie-desc = A dna sampler for the legendary FOXDIE retrovirus. Scan something with your target's DNA and it will kill only them, while spreading harmlessly through everyone else.
+uplink-foxdie-name = Ретровирус FOXDIE
+uplink-foxdie-desc = Пробоотборник ДНК для легендарного ретровируса FOXDIE. Отсканируйте предмет с ДНК цели. Вирус убьёт только её, безвредно распространяясь среди остальных.
 
-uplink-hyposhell-name = Box of Hyposhells
-uplink-hyposhell-desc = A box containing four hyposhells, shotgun shells that can hold 7u of any chemical.
+uplink-hyposhell-name = Коробка Гипопатронов
+uplink-hyposhell-desc = Четыре гипопатрона для дробовика. Каждый вмещает 7 ед. любого химиката.
 
-uplink-appraisal-tool-gun-name = Appraisal Tool Gun
-uplink-appraisal-tool-gun-desc = A modified Viper to appear as an appraisal tool.
+uplink-appraisal-tool-gun-name = Пистолет под Видом Оценочного Прибора
+uplink-appraisal-tool-gun-desc = Модифицированная Viper, замаскированная под оценочный прибор.
 
-uplink-medipen-mute-name = Mute Toxin Auto Injector
-uplink-medipen-mute-desc = An auto injector disguised as an emergency medipen filled with 15 units of mute toxin.
+uplink-medipen-mute-name = Автоинъектор с Токсином Немоты
+uplink-medipen-mute-desc = Автоинъектор под видом экстренного медипена с 15 единицами токсина немоты.
 
-uplink-silent-shoes-name = Silent Shoes
-uplink-silent-shoes-desc = A silent threat. No one will hear you coming in this special pair of shoes.
+uplink-silent-shoes-name = Бесшумная Обувь
+uplink-silent-shoes-desc = Тихая угроза. В этой особой обуви никто не услышит, как вы подойдёте.
 
-uplink-utility-knife-name = Chemical Utility Knife
-uplink-utility-knife-desc = A utility knife with special grooves that can hold up to 10u of any chemical.
+uplink-utility-knife-name = Канцелярский Нож для Химикатов
+uplink-utility-knife-desc = Канцелярский нож с особыми желобками, вмещающими до 10 ед. любого химиката.
 
-uplink-appraisal-tool-jammer-name = Appraisal Tool Radio Jammer
-uplink-appraisal-tool-jammer-desc = A radio jammer hidden inside an appraisal tool. You can both jam their comms and price check the corpse!
+uplink-appraisal-tool-jammer-name = Глушилка под Видом Оценочного Прибора
+uplink-appraisal-tool-jammer-desc = Глушилка спрятана в оценочном приборе. Можно и заглушить их связь, и прицениться к трупу!
 
-uplink-mimana-stealthy-name = Stealthy Mimana Peel
-uplink-mimana-stealthy-desc = A mutated mimana that seems to fade into the background. Don't lose it!
+uplink-mimana-stealthy-name = Незаметная Кожура Мимана
+uplink-mimana-stealthy-desc = Мутировавший миман, который словно сливается с фоном. Не потеряйте его!
 
-uplink-omnimed-tool-name = Gorlex Surgical Omnitool
-uplink-omnimed-tool-desc = A compact surgical omnitool conveniently packed like a swiss army knife. Can perform surgery through clothing.
+uplink-omnimed-tool-name = Хирургический Омниинструмент «Горлекс»
+uplink-omnimed-tool-desc = Компактный хирургический омниинструмент, который складывается как швейцарский нож. Позволяет оперировать через одежду.
 
-uplink-kudzu-grenade-name = Kudzu Grenade
-uplink-kudzu-grenade-desc = A grenade containing mutated kudzu that spreads faster and deals damage to anyone caught inside, excluding diona.
+uplink-kudzu-grenade-name = Граната с Кудзу
+uplink-kudzu-grenade-desc = Граната с мутировавшим кудзу, который распространяется быстрее и наносит урон всем, кто попадётся в заросли, кроме дион.
 
-uplink-banana-esword-name = Bananium Energy Sword
-uplink-banana-esword-desc = A bananium-modified energy sword that slips whoever it slices.
+uplink-banana-esword-name = Бананиумовый Энергетический Меч
+uplink-banana-esword-desc = Энергетический меч с бананиумом. Любой, кого он режет, поскальзывается.
 
-uplink-behonker-name = Behonker Operative Teleporter
-uplink-behonker-desc = Calls in a specially trained behonker operative to assist you.
+uplink-behonker-name = Телепортатор Бехонкера-Оперативника
+uplink-behonker-desc = Вызывает специально обученного бехонкера-оперативника вам на помощь.
 
-uplink-lube-grenade-name = Lube Grenade
-uplink-lube-grenade-desc = Make the floor slippery!
+uplink-lube-grenade-name = Граната со Смазкой
+uplink-lube-grenade-desc = Сделайте пол скользким!
 
-uplink-glue-grenade-name = Glue Grenade
-uplink-glue-grenade-desc = Make the floor hard to walk in!
+uplink-glue-grenade-name = Граната с Клеем
+uplink-glue-grenade-desc = Сделайте пол таким, чтобы по нему было трудно ходить!

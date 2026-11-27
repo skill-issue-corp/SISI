@@ -1,30 +1,30 @@
-ent-Bonesetter = bone setter
-    .desc = Used for setting bones back into place.
+ent-Bonesetter = костоправ
+    .desc = Используется для вправления костей.
 
-ent-BoneGel = bottle of bone gel
-    .desc = A container for bone gel that often needs to be refilled from a specialized machine.
+ent-BoneGel = бутылочка костного геля
+    .desc = Ёмкость для костного геля, которую часто приходится заправлять из специального аппарата.
 
-ent-MedicalStitches = medical stitches
-    .desc = A fine, curved needle with a length of absorbable polyglycolide suture thread.
+ent-MedicalStitches = хирургические швы
+    .desc = Тонкая изогнутая игла с отрезком рассасывающейся полигликолидной нити.
 
-ent-EnergyScalpel = tissue cutter
-    .desc = A scalpel which uses an energy blade, also serves as a drill in its powered state.
+ent-EnergyScalpel = резак тканей
+    .desc = Скальпель с энергетическим лезвием. Во включённом состоянии служит и дрелью.
 
-ent-AdvancedRetractor = power pinches
-    .desc = A retractor with mechanical pinches, also serves as a hemostat in its powered state.
+ent-AdvancedRetractor = механический зажим
+    .desc = Ретрактор с механическими щипцами. Во включённом состоянии служит и кровоостанавливающим зажимом.
 
-ent-EnergyCautery = energy stapler
-    .desc = A cautery with an energy tip, also serves as stitches in its powered state.
+ent-EnergyCautery = энергетический сшиватель
+    .desc = Каутер с энергетическим наконечником. Во включённом состоянии также накладывает швы.
 
-ent-AdvancedBoneGel = bone multitool
-    .desc = A mechanized bone healer, also serves as bone setter in its powered state.
+ent-AdvancedBoneGel = костный мультитул
+    .desc = Механический инструмент для сращивания костей. Во включённом состоянии также вправляет кости.
 
-ent-OmnimedTool = surgical omnitool
-    .desc = A compact surgical omnitool conveniently packed like a Swiss Army knife.
+ent-OmnimedTool = хирургический омниинструмент
+    .desc = Компактный хирургический омниинструмент, удобно сложенный на манер Швейцарского Армейского ножа.
 
-ent-OmnimedToolSyndie = gorlex surgical omnitool
-    .desc = A compact surgical omnitool conveniently packed like a Swiss Army knife, except that its user has probably violated a couple of Swiss conventions. Can perform surgery through clothing.
+ent-OmnimedToolSyndie = хирургический омниинструмент «горлекс»
+    .desc = Компактный хирургический омниинструмент, удобно сложенный на манер Швейцарского Армейского ножа. Правда, его владелец наверняка нарушил пару Швейцарских конвенций. Позволяет оперировать сквозь одежду.
 
-ent-OmnimedToolDebug = experimental surgical omnitool
+ent-OmnimedToolDebug = экспериментальный хирургический омниинструмент
     .desc = { ent-OmnimedToolSyndie.desc }
-    .suffix = Admeme
+    .suffix = Адмеме

@@ -1,6 +1,6 @@
-handheld-grinder-cannot-juice = You cannot juice {THE($item)}!
-handheld-grinder-cannot-grind = You cannot grind {THE($item)}!
+handheld-grinder-cannot-juice = Из {$item} нельзя выжать сок!
+handheld-grinder-cannot-grind = {$item} нельзя измельчить!
 
-handheld-grinder-default = You finished processing {THE($item)}.
-handheld-grinder-juiced = You finished juicing {THE($item)}.
-handheld-grinder-grinded = You finished grinding {THE($item)}.
+handheld-grinder-default = Вы заканчиваете обработку {$item}.
+handheld-grinder-juiced = Вы заканчиваете выжимать сок из {$item}.
+handheld-grinder-grinded = Вы заканчиваете измельчать {$item}.

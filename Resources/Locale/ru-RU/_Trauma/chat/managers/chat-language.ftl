@@ -1,5 +1,5 @@
-chat-language-Codespeak-name = Codespeak
+chat-language-Codespeak-name = Кодоречь
 
-chat-language-Miltech-name = Miltech
+chat-language-Miltech-name = Милтех
 
-chat-language-Zombish-name = Zombish
+chat-language-Zombish-name = Зомбояз

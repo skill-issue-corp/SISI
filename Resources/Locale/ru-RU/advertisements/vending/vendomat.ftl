@@ -5,10 +5,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-vendomat-1 = Only the finest!
-advertisement-vendomat-2 = Have some tools.
-advertisement-vendomat-3 = The most robust equipment.
-advertisement-vendomat-4 = The finest gear in space!
-advertisement-vendomat-5 = This is surely better than standard issued equipment!
-advertisement-vendomat-6 = Get your good ol' crowbar here!
-advertisement-vendomat-7 = Here for when you need a full set of tools!
+advertisement-vendomat-1 = Только лучшее!
+advertisement-vendomat-2 = Возьмите инструменты.
+advertisement-vendomat-3 = Самое робастное оборудование.
+advertisement-vendomat-4 = Лучшее снаряжение в космосе!
+advertisement-vendomat-5 = Уж это точно лучше того, что выдают всем!
+advertisement-vendomat-6 = Старый добрый лом - прямо здесь!
+advertisement-vendomat-7 = Мы здесь на случай, если вам нужен полный набор инструментов!

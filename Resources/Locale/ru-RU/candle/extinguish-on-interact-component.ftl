@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-candle-extinguish-failed = The flame flickers, but it doesn't go out
+candle-extinguish-failed = Пламя колышется, но не гаснет

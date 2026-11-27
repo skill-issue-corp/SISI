@@ -1,8 +1,8 @@
-ent-PolymorphShadowJauntAnimation = Unknown
-    .desc = You can't figure out what that is.
+ent-PolymorphShadowJauntAnimation = Неизвестно
+    .desc = Вы никак не можете понять, что это такое.
 
-ent-PolymorphShadowJauntEndAnimation = Unknown
-    .desc = You can't figure out what that is.
+ent-PolymorphShadowJauntEndAnimation = Неизвестно
+    .desc = Вы никак не можете понять, что это такое.
 
-ent-PolymorphShadowJaunt = Unknown
-    .desc = You can't figure out what that is.
+ent-PolymorphShadowJaunt = Неизвестно
+    .desc = Вы никак не можете понять, что это такое.

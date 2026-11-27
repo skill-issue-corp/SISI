@@ -7,8 +7,8 @@ ent-SolutionStomachHeretic = { ent-SolutionStomach }
 ent-MobHereticFleshAscendSegmentBase = { "" }
     .desc = { "" }
 
-ent-MobHereticFleshAscend = Lord of the Night
-    .desc = An abomination made from dozens and dozens of severed and malformed limbs grasping onto each other.
+ent-MobHereticFleshAscend = Владыка Ночи
+    .desc = Мерзость из десятков и десятков отрубленных и искорёженных конечностей, цепляющихся друг за друга.
 
-ent-MobHereticFleshAscendSegment = worm tail
-    .desc = Tail of something greater.
+ent-MobHereticFleshAscendSegment = хвост червя
+    .desc = Хвост чего-то более крупного.

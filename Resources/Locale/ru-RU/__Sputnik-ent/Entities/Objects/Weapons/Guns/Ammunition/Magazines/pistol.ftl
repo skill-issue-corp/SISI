@@ -1,57 +1,57 @@
-ent-BaseMagazinePistol = pistol magazine (.35 auto)
+ent-BaseMagazinePistol = пистолетный магазин (.35 авто)
     .desc = { ent-BaseItem.desc }
 
-ent-BaseMagazinePistolHighCapacity = machine pistol magazine (.35 auto)
+ent-BaseMagazinePistolHighCapacity = магазин для автоматического пистолета (.35 авто)
     .desc = { ent-BaseItem.desc }
 
-ent-BaseMagazinePistolSubMachineGun = SMG magazine (.35 auto)
+ent-BaseMagazinePistolSubMachineGun = магазин для ПП (.35 авто)
     .desc = { ent-BaseItem.desc }
 
-ent-MagazinePistolSubMachineGunTopMounted = WT550 magazine (.35 auto top-mounted)
-    .desc = Unconventional 30-round top feeding magazine for the WT550 SMG. Intended to hold general-purpose kinetic ammunition.
+ent-MagazinePistolSubMachineGunTopMounted = магазин для WT550 (.35 авто верхнее крепление)
+    .desc = Необычный магазин верхней подачи на 30 патронов для ПП WT550. Предназначен для обычных кинетических боеприпасов.
 
-ent-MagazinePistolSubMachineGunTopMountedEmpty = WT550 magazine (.35 auto top-mounted any)
-    .desc = Unconventional 30-round top feeding magazine for the WT550 SMG.
-    .suffix = empty
+ent-MagazinePistolSubMachineGunTopMountedEmpty = магазин для WT550 (.35 авто верхнее крепление, любые)
+    .desc = Необычный магазин верхней подачи на 30 патронов для ПП WT550.
+    .suffix = пусто
 
-ent-MagazinePistol = pistol magazine (.35 auto)
-    .desc = 12-round single-stack magazine for pistols. Intended to hold general-purpose kinetic ammunition.
+ent-MagazinePistol = пистолетный магазин (.35 авто)
+    .desc = Однорядный пистолетный магазин на 12 патронов. Предназначен для обычных кинетических боеприпасов.
 
-ent-MagazinePistolEmpty = pistol magazine (.35 auto any)
-    .desc = 12-round single-stack magazine for pistols.
-    .suffix = empty
+ent-MagazinePistolEmpty = пистолетный магазин (.35 авто любые)
+    .desc = Однорядный пистолетный магазин на 12 патронов.
+    .suffix = пусто
 
-ent-MagazinePistolIncendiary = pistol magazine (.35 auto incendiary)
-    .desc = 12-round single-stack magazine for pistols. Intended to hold self-igniting incendiary ammunition.
+ent-MagazinePistolIncendiary = пистолетный магазин (.35 авто зажигательные)
+    .desc = Однорядный пистолетный магазин на 12 патронов. Предназначен для самовоспламеняющихся зажигательных боеприпасов.
 
-ent-MagazinePistolPractice = pistol magazine (.35 auto practice)
-    .desc = 12-round single-stack magazine for pistols. Intended to hold non-harmful chalk ammunition.
+ent-MagazinePistolPractice = пистолетный магазин (.35 авто учебные)
+    .desc = Однорядный пистолетный магазин на 12 патронов. Предназначен для безвредных боеприпасов с меловыми пулями.
 
-ent-MagazinePistolUranium = pistol magazine (.35 auto uranium)
-    .desc = 12-round single-stack magazine for pistols. Intended to hold exotic uranium-core ammunition.
+ent-MagazinePistolUranium = пистолетный магазин (.35 авто урановые)
+    .desc = Однорядный пистолетный магазин на 12 патронов. Предназначен для экзотических боеприпасов с урановым сердечником.
 
-ent-MagazinePistolSubMachineGun = SMG magazine (.35 auto)
-    .desc = 30-round double-stack magazine for submachine guns. Intended to hold general-purpose kinetic ammunition.
+ent-MagazinePistolSubMachineGun = магазин для ПП (.35 авто)
+    .desc = Двухрядный магазин на 30 патронов для пистолетов-пулемётов. Предназначен для обычных кинетических боеприпасов.
 
-ent-MagazinePistolSubMachineGunEmpty = SMG magazine (.35 auto any)
-    .desc = 30-round double-stack magazine for submachine guns.
-    .suffix = empty
+ent-MagazinePistolSubMachineGunEmpty = магазин для ПП (.35 авто любые)
+    .desc = Двухрядный магазин на 30 патронов для пистолетов-пулемётов.
+    .suffix = пусто
 
-ent-MagazinePistolSubMachineGunPractice = SMG magazine (.35 auto practice)
-    .desc = 30-round double-stack magazine for submachine guns. Intended to hold harmless practice ammunition.
+ent-MagazinePistolSubMachineGunPractice = магазин для ПП (.35 авто учебные)
+    .desc = Двухрядный магазин на 30 патронов для пистолетов-пулемётов. Предназначен для безвредных учебных боеприпасов.
 
-ent-MagazinePistolSubMachineGunUranium = SMG magazine (.35 auto uranium)
-    .desc = 30-round double-stack magazine for submachine guns. Intended to hold exotic uranium-core ammunition.
+ent-MagazinePistolSubMachineGunUranium = магазин для ПП (.35 авто урановые)
+    .desc = Двухрядный магазин на 30 патронов для пистолетов-пулемётов. Предназначен для экзотических боеприпасов с урановым сердечником.
 
-ent-MagazinePistolSubMachineGunIncendiary = SMG magazine (.35 auto incendiary)
-    .desc = 30-round double-stack magazine for submachine guns. Intended to hold self-igniting incendiary ammunition.
+ent-MagazinePistolSubMachineGunIncendiary = магазин для ПП (.35 авто зажигательные)
+    .desc = Двухрядный магазин на 30 патронов для пистолетов-пулемётов. Предназначен для самовоспламеняющихся зажигательных боеприпасов.
 
-ent-MagazinePistolHighCapacityEmpty = machine pistol magazine (.35 auto any)
-    .desc = Custom 15-round double-stack magazine for the Viper pistol.
-    .suffix = empty
+ent-MagazinePistolHighCapacityEmpty = магазин для автоматического пистолета (.35 авто любые)
+    .desc = Нестандартный двухрядный магазин на 15 патронов для пистолета Viper.
+    .suffix = пусто
 
-ent-MagazinePistolHighCapacity = machine pistol magazine (.35 auto)
-    .desc = Custom 15-round double-stack magazine for the Viper pistol. Intended to hold general-purpose kinetic ammunition.
+ent-MagazinePistolHighCapacity = магазин для автоматического пистолета (.35 авто)
+    .desc = Нестандартный двухрядный магазин на 15 патронов для пистолета Viper. Предназначен для обычных кинетических боеприпасов.
 
-ent-MagazinePistolHighCapacityPractice = machine pistol magazine (.35 auto practice)
-    .desc = Custom 15-round double-stack magazine for the Viper pistol. Intended to hold harmless practice ammunition.
+ent-MagazinePistolHighCapacityPractice = магазин для автоматического пистолета (.35 авто учебные)
+    .desc = Нестандартный двухрядный магазин на 15 патронов для пистолета Viper. Предназначен для безвредных учебных боеприпасов.

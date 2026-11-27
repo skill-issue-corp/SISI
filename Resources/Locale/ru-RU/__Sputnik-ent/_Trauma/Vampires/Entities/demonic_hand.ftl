@@ -1,2 +1,2 @@
-ent-ProjectileDemonicHand = demonic hand
+ent-ProjectileDemonicHand = демоническая рука
     .desc = { ent-BaseBullet.desc }

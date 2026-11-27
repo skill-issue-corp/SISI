@@ -1,23 +1,23 @@
-ent-ProximitySensor = proximity sensor
-    .desc = Senses things in close proximity.
+ent-ProximitySensor = датчик приближения
+    .desc = Обнаруживает объекты поблизости.
 
 ent-PartSilicon = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-LeftArmBorg = cyborg left arm
+ent-LeftArmBorg = левая рука киборга
     .desc = { ent-PartSilicon.desc }
 
-ent-RightArmBorg = cyborg right arm
+ent-RightArmBorg = правая рука киборга
     .desc = { ent-PartSilicon.desc }
 
-ent-LeftLegBorg = cyborg left leg
+ent-LeftLegBorg = левая нога киборга
     .desc = { ent-PartSilicon.desc }
 
-ent-RightLegBorg = cyborg right leg
+ent-RightLegBorg = правая нога киборга
     .desc = { ent-PartSilicon.desc }
 
-ent-LightHeadBorg = cyborg head
+ent-LightHeadBorg = голова киборга
     .desc = { ent-PartSilicon.desc }
 
-ent-TorsoBorg = cyborg torso
+ent-TorsoBorg = торс киборга
     .desc = { ent-PartSilicon.desc }

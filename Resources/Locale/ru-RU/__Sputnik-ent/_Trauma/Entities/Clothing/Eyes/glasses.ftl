@@ -1,2 +1,2 @@
-ent-ClothingEyesRevolutionaryVisor = revolutionary visor
-    .desc = Protects you from flashes and shows who is set to wanted.
+ent-ClothingEyesRevolutionaryVisor = визор революционера
+    .desc = Защищает от вспышек и показывает, кто объявлен в розыск.

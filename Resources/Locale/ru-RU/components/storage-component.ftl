@@ -12,16 +12,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-comp-storage-no-item-size = N/A
-comp-storage-cant-insert = Can't insert.
-comp-storage-too-big = Too big!
-comp-storage-insufficient-capacity = No room!
-comp-storage-invalid-container = This doesn't go in there!
-comp-storage-anchored-failure = Can't insert an anchored item.
-comp-storage-cant-drop = You can't let go of { THE($entity) }!
-comp-storage-window-title = Storage Item
-comp-storage-window-weight = { $weight }/{ $maxWeight }, Max Size: {$size}
-comp-storage-window-slots = Slots: { $itemCount }/{ $maxCount }, Max Size: {$size}
-comp-storage-window-dummy = Dummy
-comp-storage-verb-open-storage = Open Storage
-comp-storage-verb-close-storage = Close Storage
+comp-storage-no-item-size = Н/Д
+comp-storage-cant-insert = Не удаётся вставить.
+comp-storage-too-big = Слишком велико!
+comp-storage-insufficient-capacity = Нет места!
+comp-storage-invalid-container = Это сюда не помещается!
+comp-storage-anchored-failure = Закреплённый предмет нельзя вставить.
+comp-storage-cant-drop = Вы не можете отпустить { $entity }!
+comp-storage-window-title = Предмет-Хранилище
+comp-storage-window-weight = { $weight }/{ $maxWeight }, Макс. Размер: {$size}
+comp-storage-window-slots = Слоты: { $itemCount }/{ $maxCount }, Макс. Размер: {$size}
+comp-storage-window-dummy = Заглушка
+comp-storage-verb-open-storage = Открыть Хранилище
+comp-storage-verb-close-storage = Закрыть Хранилище

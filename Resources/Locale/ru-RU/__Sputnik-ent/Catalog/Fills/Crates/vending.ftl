@@ -1,20 +1,20 @@
-ent-CrateVendingMachineRestockEngineeringFilled = EngiVend restock crate
-    .desc = Contains a restock box for the EngiVend. Also supports the YouTool.
+ent-CrateVendingMachineRestockEngineeringFilled = ящик пополнения «ИнжиВенд»
+    .desc = Содержит коробку пополнения для «ИнжиВенд». Подходит и для «ТвойИнструмент».
 
-ent-CrateVendingMachineRestockMedicalFilled = NanoMed restock crate
-    .desc = Contains a restock box, compatible with the NanoMed and NanoMedPlus.
+ent-CrateVendingMachineRestockMedicalFilled = ящик пополнения «НаноМед»
+    .desc = Содержит коробку пополнения, совместимую с «НаноМед» и «НаноМедПлюс».
 
-ent-CrateVendingMachineRestockChemVendFilled = ChemVend restock crate
-    .desc = Contains a restock box for the ChemVend.
+ent-CrateVendingMachineRestockChemVendFilled = ящик пополнения «ХимВенд»
+    .desc = Содержит коробку пополнения для «ХимВенд».
 
-ent-CrateVendingMachineRestockNutriMaxFilled = NutriMax restock crate
-    .desc = Contains a restock box for the NutriMax vending machine.
+ent-CrateVendingMachineRestockNutriMaxFilled = ящик пополнения «НутриМакс»
+    .desc = Содержит коробку пополнения для торгового автомата «НутриМакс».
 
-ent-CrateVendingMachineRestockSecTechFilled = SecTech restock crate
-    .desc = Contains a restock box for the SecTech vending machine.
+ent-CrateVendingMachineRestockSecTechFilled = ящик пополнения «СекТек»
+    .desc = Содержит коробку пополнения для торгового автомата «СекТек».
 
-ent-CrateVendingMachineRestockSeedsFilled = MegaSeed restock crate
-    .desc = Contains a restock box for the MegaSeed vending machine.
+ent-CrateVendingMachineRestockSeedsFilled = ящик пополнения «МегаСемена»
+    .desc = Содержит коробку пополнения для торгового автомата «МегаСемена».
 
-ent-CrateVendingMachineRestockRoboticsFilled = Robotech Deluxe restock crate
-    .desc = Contains a restock box for a Robotech Deluxe vending machine.
+ent-CrateVendingMachineRestockRoboticsFilled = ящик пополнения «РобоТех Делюкс»
+    .desc = Содержит коробку пополнения для торгового автомата «РобоТех Делюкс».

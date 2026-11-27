@@ -1,8 +1,8 @@
-ent-MutationShockTouch = Shock Touch
-    .desc = The affected can channel excess electricity through their hands without shocking themselves, allowing them to shock others. Mostly harmless! Mostly...
+ent-MutationShockTouch = Электрическое Касание
+    .desc = Носитель может пропускать излишек электричества через руки, ударяя током других без вреда для себя. Почти безвредно! Почти...
 
-ent-ActionMutationShockTouch = Shock Touch
-    .desc = Channel electricity to your hand to shock people with. Mostly harmless! Mostly...
+ent-ActionMutationShockTouch = Электрическое Касание
+    .desc = Направьте электричество в руку, чтобы бить людей током. Почти безвредно! Почти...
 
-ent-MutationMendingTouch = Mending Touch
-    .desc = The affected can lay their hands on other people to transfer a small amount of their injuries to themselves.
+ent-MutationMendingTouch = Целительное Касание
+    .desc = Носитель может возложить руки на других людей и принять часть их повреждений на себя.

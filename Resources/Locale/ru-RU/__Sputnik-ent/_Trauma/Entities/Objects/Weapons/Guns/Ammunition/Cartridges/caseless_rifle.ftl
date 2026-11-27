@@ -1,5 +1,5 @@
-ent-CartridgeCaselessRifleTranquilizer = cartridge (.25 caseless tranq)
-    .desc = A small caliber utilizing caseless technology, omitting conventional brass casing in favor of hardened propellant. A reservoir injects a mix of sedative and mute toxin into the target for true silent takedowns.
+ent-CartridgeCaselessRifleTranquilizer = патрон (.25 безгильзовый с транквилизатором)
+    .desc = Мелкокалиберный безгильзовый патрон с затвердевшим метательным составом вместо обычной латунной гильзы. Резервуар впрыскивает в цель смесь седативного вещества и токсина, лишающего голоса, чтобы обезвредить её совершенно бесшумно.
 
-ent-CartridgeCaselessRiflePoison = cartridge (.25 caseless toxin)
-    .desc = A small caliber utilizing caseless technology, omitting conventional brass casing in favor of hardened propellant. A toxic payload is installed to kill the target over time.
+ent-CartridgeCaselessRiflePoison = патрон (.25 безгильзовый с токсином)
+    .desc = Мелкокалиберный безгильзовый патрон с затвердевшим метательным составом вместо обычной латунной гильзы. Заряжен токсином, который убивает цель постепенно.

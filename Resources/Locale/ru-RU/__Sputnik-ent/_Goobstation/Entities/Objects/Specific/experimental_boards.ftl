@@ -1,6 +1,6 @@
-ent-ExperimentalCircuitBoard = experimental law board
-    .desc = An electronics board containing experimental lawset. When installed, will give some research points after time has passed.
+ent-ExperimentalCircuitBoard = экспериментальная плата законов
+    .desc = Электронная плата с экспериментальным сводом законов. После установки спустя некоторое время даёт очки исследований.
 
-ent-ExperimentalCircuitBoardDebug = experimental experimental law board
-    .desc = An electronics board containing experimental lawset. When installed, will give some research points after time has passed.
+ent-ExperimentalCircuitBoardDebug = экспериментальная экспериментальная плата законов
+    .desc = Электронная плата с экспериментальным сводом законов. После установки спустя некоторое время даёт очки исследований.
     .suffix = DEBUG

@@ -1,6 +1,6 @@
-ent-MaterialCardboard = cardboard
+ent-MaterialCardboard = картон
     .desc = { ent-MaterialBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-MaterialCardboard10 = { ent-MaterialCardboard }
     .desc = { ent-MaterialCardboard.desc }
@@ -8,11 +8,11 @@ ent-MaterialCardboard10 = { ent-MaterialCardboard }
 
 ent-MaterialCardboard1 = { ent-MaterialCardboard }
     .desc = { ent-MaterialCardboard.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
-ent-MaterialCloth = cloth
+ent-MaterialCloth = ткань
     .desc = { ent-MaterialBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-MaterialCloth10 = { ent-MaterialCloth }
     .desc = { ent-MaterialCloth.desc }
@@ -20,19 +20,19 @@ ent-MaterialCloth10 = { ent-MaterialCloth }
 
 ent-MaterialCloth1 = { ent-MaterialCloth }
     .desc = { ent-MaterialCloth.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
-ent-MaterialDurathread = durathread
+ent-MaterialDurathread = дюраткань
     .desc = { ent-MaterialBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-MaterialDurathread1 = { ent-MaterialDurathread }
     .desc = { ent-MaterialDurathread.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
-ent-MaterialWoodPlank = wood
+ent-MaterialWoodPlank = дерево
     .desc = { ent-MaterialBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-MaterialWoodPlank10 = { ent-MaterialWoodPlank }
     .desc = { ent-MaterialWoodPlank.desc }
@@ -40,57 +40,57 @@ ent-MaterialWoodPlank10 = { ent-MaterialWoodPlank }
 
 ent-MaterialWoodPlank1 = { ent-MaterialWoodPlank }
     .desc = { ent-MaterialWoodPlank.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
-ent-MaterialBiomass = biomass
+ent-MaterialBiomass = биомасса
     .desc = { ent-MaterialBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-MaterialBiomass1 = { ent-MaterialBiomass }
     .desc = { ent-MaterialBiomass.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
-ent-MaterialHideBear = bear hide
+ent-MaterialHideBear = медвежья шкура
     .desc = { ent-MaterialBase.desc }
 
-ent-MaterialHideCorgi = corgi hide
-    .desc = Luxury pelt used in only the most elite fashion. Rumors say this is found when a corgi is sent to the nice farm.
+ent-MaterialHideCorgi = шкура корги
+    .desc = Роскошный мех, который идёт только на самую модную одежду для элиты. По слухам, такой мех остаётся, когда корги отправляют на чудесную ферму.
 
-ent-MaterialDiamond = refined diamond
+ent-MaterialDiamond = огранённый алмаз
     .desc = { ent-MaterialBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-MaterialDiamond1 = { ent-MaterialDiamond }
     .desc = { ent-MaterialDiamond.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
-ent-MaterialCotton = cotton
+ent-MaterialCotton = хлопок
     .desc = { ent-SolutionCompositeSmallStackable.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-MaterialCotton1 = { ent-MaterialCotton }
     .desc = { ent-MaterialCotton.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
-ent-MaterialPyrotton = pyrotton
+ent-MaterialPyrotton = огнехлопчатник
     .desc = { ent-SolutionCompositeSmallStackable.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-MaterialPyrotton1 = { ent-MaterialPyrotton }
     .desc = { ent-MaterialPyrotton.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
-ent-MaterialBananium = bananium
+ent-MaterialBananium = бананиум
     .desc = { ent-MaterialBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-MaterialBananium1 = { ent-MaterialBananium }
     .desc = { ent-MaterialBananium.desc }
-    .suffix = Single
+    .suffix = Один предмет
 
-ent-MaterialWebSilk = silk
-    .desc = A webby material.
-    .suffix = Full
+ent-MaterialWebSilk = шёлк
+    .desc = Материал, похожий на паутину.
+    .suffix = Полностью заполнено
 
 ent-MaterialWebSilk25 = { ent-MaterialWebSilk }
     .desc = { ent-MaterialWebSilk.desc }
@@ -100,36 +100,36 @@ ent-MaterialWebSilk1 = { ent-MaterialWebSilk }
     .desc = { ent-MaterialWebSilk.desc }
     .suffix = 1
 
-ent-MaterialToothSpaceCarp = space carp tooth
-    .desc = Pretty small but plenty nasty. You like them best when they're not sinking into you.
-    .suffix = Full
+ent-MaterialToothSpaceCarp = зуб космического карпа
+    .desc = Маленький, зато очень неприятный. Лучше всего любоваться им, пока он не впился в вас.
+    .suffix = Полностью заполнено
 
 ent-MaterialToothSpaceCarp1 = { ent-MaterialToothSpaceCarp }
     .desc = { ent-MaterialToothSpaceCarp.desc }
     .suffix = 1
 
-ent-MaterialToothSharkminnow = sharkminnow tooth
-    .desc = Looks sharp. Sharp enough to poke someone's eye out. Holy fuck it's big.
-    .suffix = Full
+ent-MaterialToothSharkminnow = зуб космической акулы
+    .desc = Выглядит острым. Таким и глаз кому-нибудь выколоть можно. Ебать, какой здоровый.
+    .suffix = Полностью заполнено
 
 ent-MaterialToothSharkminnow1 = { ent-MaterialToothSharkminnow }
     .desc = { ent-MaterialToothSharkminnow.desc }
     .suffix = 1
 
-ent-MaterialBones = bones
+ent-MaterialBones = кости
     .desc = { ent-MaterialBase.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-MaterialBones1 = { ent-MaterialBones }
     .desc = { ent-MaterialBones.desc }
     .suffix = 1
 
-ent-MaterialGunpowder = gunpowder
-    .desc = An explosive compound.
+ent-MaterialGunpowder = порох
+    .desc = Взрывчатый состав.
 
-ent-MaterialGoliathHide = goliath hide plates
-    .desc = Pieces of a goliath's rocky hide, these might be able to make your suit a bit more durable to attack from the local fauna.
-    .suffix = Full
+ent-MaterialGoliathHide = пластины голиафа
+    .desc = Куски каменистой шкуры голиафа. С ними ваш скафандр может лучше выдерживать атаки местной фауны.
+    .suffix = Полностью заполнено
 
 ent-MaterialGoliathHide1 = { ent-MaterialGoliathHide }
     .desc = { ent-MaterialGoliathHide.desc }

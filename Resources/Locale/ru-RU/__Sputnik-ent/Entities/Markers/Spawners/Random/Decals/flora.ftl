@@ -3,28 +3,28 @@ ent-DecalSpawnerFloraBase = { ent-DecalSpawnerBase }
 
 ent-DecalSpawnerGrassyRock = { ent-DecalSpawnerFloraBase }
     .desc = { ent-DecalSpawnerFloraBase.desc }
-    .suffix = Grassy Rock
+    .suffix = Камень в Траве
 
 ent-DecalSpawnerBasaltRock = { ent-DecalSpawnerFloraBase }
     .desc = { ent-DecalSpawnerFloraBase.desc }
-    .suffix = Basalt Rock
+    .suffix = Базальтовый Камень
 
 ent-DecalSpawnerBushesAC = { ent-DecalSpawnerFloraBase }
     .desc = { ent-DecalSpawnerFloraBase.desc }
-    .suffix = Bushes (a-c)
+    .suffix = Кусты (a-c)
 
 ent-DecalSpawnerFlowers = { ent-DecalSpawnerFloraBase }
     .desc = { ent-DecalSpawnerFloraBase.desc }
-    .suffix = Flowers
+    .suffix = Цветы
 
 ent-DecalSpawnerGrassAB = { ent-DecalSpawnerFloraBase }
     .desc = { ent-DecalSpawnerFloraBase.desc }
-    .suffix = Grass (a-b)
+    .suffix = Трава (a-b)
 
 ent-DecalSpawnerGrassC = { ent-DecalSpawnerFloraBase }
     .desc = { ent-DecalSpawnerFloraBase.desc }
-    .suffix = Grass (c)
+    .suffix = Трава (c)
 
 ent-DecalSpawnerGrassDE = { ent-DecalSpawnerFloraBase }
     .desc = { ent-DecalSpawnerFloraBase.desc }
-    .suffix = Grass (d-e)
+    .suffix = Трава (d-e)

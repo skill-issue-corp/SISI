@@ -1,6 +1,6 @@
-ent-ClothingBackpackCentcomm = centcomm backpack
-    .desc = A luxurious backpack, smells like money.
+ent-ClothingBackpackCentcomm = рюкзак цк
+    .desc = Роскошный рюкзак, пахнет деньгами.
 
 ent-ClothingBackpackUnremoveable = { ent-ClothingBackpack }
     .desc = { ent-ClothingBackpack.desc }
-    .suffix = Unremoveable
+    .suffix = Несъёмный

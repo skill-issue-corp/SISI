@@ -5,128 +5,128 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-liar-word-1 = yes
-liar-word-replacement-1 = no
+liar-word-1 = да
+liar-word-replacement-1 = нет
 
-liar-word-2 = no
-liar-word-replacement-2 = yes
+liar-word-2 = нет
+liar-word-replacement-2 = да
 
-liar-word-3 = yeah
-liar-word-replacement-3 = nah
+liar-word-3 = ага
+liar-word-replacement-3 = неа
 
-liar-word-4 = nah
-liar-word-replacement-4 = yeah
+liar-word-4 = неа
+liar-word-replacement-4 = ага
 
-liar-word-5 = yep
-liar-word-5-2 = yeap
-liar-word-replacement-5 = nope
+liar-word-5 = угу
+liar-word-5-2 = угум
+liar-word-replacement-5 = не-а
 
-liar-word-6 = nope
-liar-word-replacement-6 = yep
+liar-word-6 = не-а
+liar-word-replacement-6 = угу
 
-liar-word-7 = ye
-liar-word-7-2 = ya
-liar-word-7-3 = yis
-liar-word-replacement-7 = na
+liar-word-7 = точно
+liar-word-7-2 = эт точно
+liar-word-7-3 = точняк
+liar-word-replacement-7 = вряд ли
 
-liar-word-8 = na
-liar-word-replacement-8 = ye
+liar-word-8 = вряд ли
+liar-word-replacement-8 = точно
 
-liar-word-9 = yuh
-liar-word-replacement-9 = nuh
+liar-word-9 = ещё бы
+liar-word-replacement-9 = не тут-то было
 
-liar-word-10 = nuh
-liar-word-replacement-10 = yuh
+liar-word-10 = не тут-то было
+liar-word-replacement-10 = ещё бы
 
-liar-word-11 = nay
-liar-word-replacement-11 = ya
+liar-word-11 = отнюдь
+liar-word-replacement-11 = эт точно
 
-liar-word-12 = sure
-liar-word-replacement-12 = nah
+liar-word-12 = разумеется
+liar-word-replacement-12 = неа
 
-liar-word-13 = was
-liar-word-replacement-13 = wasn't
+liar-word-13 = было
+liar-word-replacement-13 = не было
 
-liar-word-14 = wasnt
-liar-word-14-2 = wasn't
-liar-word-replacement-14 = was
+liar-word-14 = небыло
+liar-word-14-2 = не было
+liar-word-replacement-14 = было
 
-liar-word-15 = is
-liar-word-replacement-15 = isn't
+liar-word-15 = есть
+liar-word-replacement-15 = отсутствует
 
-liar-word-16 = isnt
-liar-word-16-2 = isn't
-liar-word-replacement-16 = is
+liar-word-16 = отсутсвует
+liar-word-16-2 = отсутствует
+liar-word-replacement-16 = есть
 
-liar-word-17 = will
-liar-word-replacement-17 = won't
+liar-word-17 = будет
+liar-word-replacement-17 = не будет
 
-liar-word-18 = wont
-liar-word-18-2 = won't
-liar-word-replacement-18 = will
+liar-word-18 = небудет
+liar-word-18-2 = не будет
+liar-word-replacement-18 = будет
 
-liar-word-19 = can
-liar-word-replacement-19 = can't
+liar-word-19 = могу
+liar-word-replacement-19 = не могу
 
-liar-word-20 = cant
-liar-word-20-2 = can't
-liar-word-replacement-20 = can
+liar-word-20 = немогу
+liar-word-20-2 = не могу
+liar-word-replacement-20 = могу
 
-liar-word-21 = should
-liar-word-replacement-21 = shouldn't
+liar-word-21 = стоит
+liar-word-replacement-21 = не стоит
 
-liar-word-22 = shouldnt
-liar-word-22-2 = shouldn't
-liar-word-replacement-22 = should
+liar-word-22 = нестоит
+liar-word-22-2 = не стоит
+liar-word-replacement-22 = стоит
 
-liar-word-23 = dead
-liar-word-replacement-23 = alive
+liar-word-23 = мёртв
+liar-word-replacement-23 = жив
 
-liar-word-24 = alive
-liar-word-replacement-24 = dead
+liar-word-24 = жив
+liar-word-replacement-24 = мёртв
 
-liar-word-25 = nothing
-liar-word-replacement-25 = something
+liar-word-25 = ничего
+liar-word-replacement-25 = что-то
 
-liar-word-26 = something
-liar-word-replacement-26 = nothing
+liar-word-26 = что-то
+liar-word-replacement-26 = ничего
 
-liar-word-27 = somebody
-liar-word-replacement-27 = nobody
+liar-word-27 = кто-то
+liar-word-replacement-27 = никто
 
-liar-word-28 = nobody
-liar-word-replacement-28 = somebody
+liar-word-28 = никто
+liar-word-replacement-28 = кто-то
 
-liar-word-29 = love
-liar-word-replacement-29 = hate
+liar-word-29 = люблю
+liar-word-replacement-29 = ненавижу
 
-liar-word-30 = hate
-liar-word-replacement-30 = love
+liar-word-30 = ненавижу
+liar-word-replacement-30 = люблю
 
-liar-word-31 = good
-liar-word-replacement-31 = bad
+liar-word-31 = хорошо
+liar-word-replacement-31 = плохо
 
-liar-word-32 = bad
-liar-word-replacement-32 = good
+liar-word-32 = плохо
+liar-word-replacement-32 = хорошо
 
-liar-word-33 = not
-liar-word-replacement-33 = uhh
+liar-word-33 = не
+liar-word-replacement-33 = э-э
 
-liar-word-34 = true
-liar-word-replacement-34 = false
+liar-word-34 = правда
+liar-word-replacement-34 = ложь
 
-liar-word-35 = false
-liar-word-replacement-35 = true
+liar-word-35 = ложь
+liar-word-replacement-35 = правда
 
-liar-word-36 = are
-liar-word-replacement-36 = aren't
+liar-word-36 = являются
+liar-word-replacement-36 = не являются
 
-liar-word-37 = arent
-liar-word-37-2 = aren't
-liar-word-replacement-37 = are
+liar-word-37 = неявляются
+liar-word-37-2 = не являются
+liar-word-replacement-37 = являются
 
-liar-word-38 = guilty
-liar-word-replacement-38 = innocent
+liar-word-38 = виновен
+liar-word-replacement-38 = невиновен
 
-liar-word-39 = innocent
-liar-word-replacement-39 = guilty
+liar-word-39 = невиновен
+liar-word-replacement-39 = виновен

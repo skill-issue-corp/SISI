@@ -1,38 +1,38 @@
-ent-MeteorRock = meteorite rock
-    .desc = What remains of a meteorite.
+ent-MeteorRock = метеоритная порода
+    .desc = То, что осталось от метеорита.
 
 ent-MeteorRockCoal = { ent-MeteorRock }
     .desc = { ent-MeteorRock.desc }
-    .suffix = Coal
+    .suffix = Уголь
 
 ent-MeteorRockGold = { ent-MeteorRock }
     .desc = { ent-MeteorRock.desc }
-    .suffix = Gold
+    .suffix = Золото
 
 ent-MeteorRockDiamond = { ent-MeteorRock }
     .desc = { ent-MeteorRock.desc }
-    .suffix = Diamond
+    .suffix = Алмаз
 
 ent-MeteorRockPlasma = { ent-MeteorRock }
     .desc = { ent-MeteorRock.desc }
-    .suffix = Plasma
+    .suffix = Плазма
 
 ent-MeteorRockQuartz = { ent-MeteorRock }
     .desc = { ent-MeteorRock.desc }
-    .suffix = Quartz
+    .suffix = Кварц
 
 ent-MeteorRockSilver = { ent-MeteorRock }
     .desc = { ent-MeteorRock.desc }
-    .suffix = Silver
+    .suffix = Серебро
 
 ent-MeteorRockTin = { ent-MeteorRock }
     .desc = { ent-MeteorRock.desc }
-    .suffix = Iron
+    .suffix = Железо
 
 ent-MeteorRockUranium = { ent-MeteorRock }
     .desc = { ent-MeteorRock.desc }
-    .suffix = Uranium
+    .suffix = Уран
 
 ent-MeteorRockBananium = { ent-MeteorRock }
     .desc = { ent-MeteorRock.desc }
-    .suffix = Bananium
+    .suffix = Бананиум

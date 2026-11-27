@@ -1,2 +1,2 @@
-ent-ActionPumpCursedHeart = Heartbeat
-    .desc = Pump your own blood to live!
+ent-ActionPumpCursedHeart = Сердцебиение
+    .desc = Качайте собственную кровь, чтобы выжить!

@@ -1,36 +1,36 @@
-ent-WeaponHitscanDebug = bang hitscan 1dmg
-    .desc = pew pew!
+ent-WeaponHitscanDebug = бах хитскан 1урона
+    .desc = пиу пиу!
     .suffix = DEBUG
 
-ent-WeaponHitscanDebugGib = bang hitscan gibber
+ent-WeaponHitscanDebugGib = бах хитскан гибалка
     .desc = { ent-WeaponHitscanDebug.desc }
 
-ent-WeaponPistolDebug = bang, ded
-    .desc = ded
+ent-WeaponPistolDebug = бах, труп
+    .desc = труп
     .suffix = DEBUG
 
-ent-MagazinePistolDebug = bang, ded mag
+ent-MagazinePistolDebug = бах, магазин труп
     .desc = { ent-BaseMagazinePistol.desc }
     .suffix = DEBUG
 
-ent-BulletDebug = bang, ded bullet
+ent-BulletDebug = бах, пуля труп
     .desc = { ent-BaseBullet.desc }
     .suffix = DEBUG
 
-ent-CartridgeDebug = bang, ded cartridge
+ent-CartridgeDebug = бах, патрон труп
     .desc = { ent-BaseCartridgePistol.desc }
     .suffix = DEBUG
 
-ent-MeleeDebugGib = gib stick
-    .desc = hit hard ye
+ent-MeleeDebugGib = палка гиба
+    .desc = долбит сильно ага
     .suffix = DEBUG
 
-ent-MeleeDebug100 = goob stick 100dmg
+ent-MeleeDebug100 = губ-палка 100урона
     .desc = { ent-MeleeDebugGib.desc }
 
-ent-MeleeDebug200 = goob stick 200dmg
+ent-MeleeDebug200 = губ-палка 200урона
     .desc = { ent-MeleeDebugGib.desc }
 
-ent-MeleeDebugUnbang = unbang stick
-    .desc = hit soft ye
+ent-MeleeDebugUnbang = палка антибаха
+    .desc = долбит слабо ага
     .suffix = DEBUG

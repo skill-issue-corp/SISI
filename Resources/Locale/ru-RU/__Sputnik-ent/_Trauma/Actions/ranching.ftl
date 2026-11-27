@@ -1,11 +1,11 @@
-ent-CockatricePowerAction = Cockatrice's power
-    .desc = The Cockatrice's egg has given you the power to turn people into stone statues!
+ent-CockatricePowerAction = Сила василиска
+    .desc = Яйцо Василиска наделило вас способностью превращать людей в каменные статуи!
 
-ent-ZappyPowerAction = Zappy's power
-    .desc = The Zappy's egg has given you the power to summon clouds of thunder!
+ent-ZappyPowerAction = Сила Громчика
+    .desc = Яйцо Громчика наделило вас способностью призывать грозовые тучи!
 
-ent-ActionFireballPhoenix = Phoenix Fireball
-    .desc = Fires an explosive fireball towards the clicked location.
+ent-ActionFireballPhoenix = Огненный Шар Феникса
+    .desc = Запускает взрывающийся огненный шар в точку клика.
 
-ent-ActionMagicMissileWizardChicken = Lesser Magic Missile
-    .desc = Fires a lesser magic missile towards the clicked location
+ent-ActionMagicMissileWizardChicken = Малый Магический Снаряд
+    .desc = Выпускает малый магический снаряд в выбранную точку

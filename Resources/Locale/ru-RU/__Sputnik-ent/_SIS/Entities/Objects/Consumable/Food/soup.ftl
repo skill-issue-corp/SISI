@@ -1,5 +1,5 @@
 ent-SIS_FoodBowlBase = { ent-FoodBowlBase }
     .desc = { ent-FoodBowlBase.desc }
 
-ent-FoodHummus = hummus
-    .desc = A unique dish created with bluespace technology on the distant Hummus planet by ancient beings. The recipe was uncovered by xenoarchaeologists 20 years ago.
+ent-FoodHummus = хумус
+    .desc = Уникальное блюдо, созданное древними существами с помощью блюспейс-технологии на далёкой планете Хумус. Ксеноархеологи нашли рецепт 20 лет назад.

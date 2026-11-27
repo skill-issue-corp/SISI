@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-guide-title = The Guide
-guide-description = A mostly calm experience with a mix of both combat and peaceful events
+guide-title = Проводник
+guide-description = В основном спокойная игра с боевыми и мирными событиями

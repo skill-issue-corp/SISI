@@ -7,8 +7,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ghost-component-on-examine-death-time-info-minutes = {$minutes} minutes ago
-ghost-component-on-examine-death-time-info-seconds = {$seconds} seconds ago
-ghost-component-on-examine-message = Died [color=yellow]{$timeOfDeath}[/color].
+ghost-component-on-examine-death-time-info-minutes = {$minutes} мин. назад
+ghost-component-on-examine-death-time-info-seconds = {$seconds} сек. назад
+ghost-component-on-examine-message = Смерть наступила [color=yellow]{$timeOfDeath}[/color].
 
-ghost-component-boo-action-failed = Despite your best efforts, nothing spooky happens.
+ghost-component-boo-action-failed = Как вы ни стараетесь, ничего жуткого не происходит.

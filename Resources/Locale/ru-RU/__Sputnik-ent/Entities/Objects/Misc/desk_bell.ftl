@@ -1,14 +1,14 @@
 ent-BaseDeskBell = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-EmptyDeskBell = unfinished desk bell
-    .desc = An empty bell missing its noise maker.
+ent-EmptyDeskBell = недоделанный настольный звонок
+    .desc = Пустой колокольчик без звонкового механизма.
 
-ent-DeskBell = desk bell
-    .desc = The cornerstone of any customer service job. You feel an unending urge to ring it.
+ent-DeskBell = настольный звонок
+    .desc = Основа любой работы с клиентами. Вам неудержимо хочется позвонить.
 
-ent-DeskBuzzer = desk buzzer
-    .desc = An advanced customer service tool. You feel an unending urge to buzz it.
+ent-DeskBuzzer = настольный зуммер
+    .desc = Передовое средство обслуживания клиентов. Вам неудержимо хочется нажать на кнопку.
 
-ent-DeskHorn = desk horn
-    .desc = The cornerstone of any clown business. You feel an unending urge to honk it.
+ent-DeskHorn = настольный клаксон
+    .desc = Основа любого клоунского дела. Вам неудержимо хочется хонкнуть.

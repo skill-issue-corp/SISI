@@ -1,23 +1,23 @@
-reagent-name-fentanyl = fentanyl
-reagent-desc-fentanyl = A horrifyingly toxic street drug with a laundry list of side-effects. If you do drugs, you go to hell before you die!
+reagent-name-fentanyl = фентанил
+reagent-desc-fentanyl = Крайне токсичный уличный наркотик с длинным списком побочных эффектов. Будете употреблять наркотики – попадёте в ад ещё при жизни!
 
-reagent-name-blind-toxin = blind toxin
-reagent-desc-blind-toxin = A thick chemical that makes the user unable to see during metabolization and damages their eyes.
+reagent-name-blind-toxin = ослепляющий токсин
+reagent-desc-blind-toxin = Вязкое вещество. При усвоении лишает зрения и повреждает глаза.
 
-reagent-name-tirizene = tirizene
-reagent-desc-tirizene = A nonlethal poison that causes extreme fatigue and weakness in its victim.
+reagent-name-tirizene = тиризен
+reagent-desc-tirizene = Нелетальный яд, который вызывает у жертвы сильную усталость и слабость.
 
-reagent-name-aranesp = aranesp
-reagent-desc-aranesp = A difficult to synthesize performance enhancer, most famous for strong energy restoration capabilities.
+reagent-name-aranesp = аранесп
+reagent-desc-aranesp = Сложное в синтезе средство для повышения работоспособности, известное прежде всего тем, что хорошо восстанавливает силы.
 
-reagent-name-mousebites = Mouse bites
-reagent-desc-mousebites = Did you try the medicine drug?
+reagent-name-mousebites = Мышиные укусы
+reagent-desc-mousebites = Ты пробовал лекарство-лекарство?
 
-reagent-name-oleoresin-capsaicin = Oleoresin Capsaicin
-reagent-desc-oleoresin-capsaicin = An oily resin derived from Capsaicin. Causes severe irritation when touching the eyes or mouth.
+reagent-name-oleoresin-capsaicin = Масляная Смола Капсаицина
+reagent-desc-oleoresin-capsaicin = Маслянистая смола, получаемая из Капсаицина. Вызывает сильное раздражение при попадании в глаза или рот.
 
-reagent-name-heroin = heroin
-reagent-desc-heroin = An illegal street drug that was once used in medicine, but replace by tramadol.
+reagent-name-heroin = героин
+reagent-desc-heroin = Незаконный уличный наркотик, который раньше применяли в медицине, пока его не заменили трамадолом.
 
-reagent-name-nitrosyl-plasmide = nitrosyl plasmide
-reagent-desc-nitrosyl-plasmide = A powerful stimulant that can prevent drowsiness, stuns and knock downs.
+reagent-name-nitrosyl-plasmide = нитрозилплазмид
+reagent-desc-nitrosyl-plasmide = Сильный стимулятор, предотвращающий сонливость, оглушение и падение.

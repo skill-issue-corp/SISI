@@ -1,29 +1,29 @@
-ent-FoodTacoShell = taco shell
-    .desc = A taco shell, easy to hold, but falls on its side when put down.
+ent-FoodTacoShell = лепёшка для тако
+    .desc = Лепёшка для тако. Удобно держать, но если положить, завалится на бок.
 
 ent-FoodTacoBase = { ent-SolutionSmall }
     .desc = { ent-SolutionSmall.desc }
 
-ent-FoodTacoBeef = beef taco
-    .desc = A very basic and run of the mill beef taco, now with cheese!
+ent-FoodTacoBeef = тако с говядиной
+    .desc = Самое обычное тако с говядиной, теперь с сыром!
 
-ent-FoodTacoChicken = chicken taco
-    .desc = A very basic and run of the mill chicken taco, now with cheese!
+ent-FoodTacoChicken = тако с курицей
+    .desc = Самое обычное тако с курицей, теперь с сыром!
 
-ent-FoodTacoFish = fish taco
-    .desc = Sounds kinda gross, but it's actually not that bad.
+ent-FoodTacoFish = тако с рыбой
+    .desc = Звучит мерзковато, но на деле вполне ничего.
 
-ent-FoodTacoRat = rat taco
-    .desc = Yeah, that looks about right...
+ent-FoodTacoRat = тако с крысой
+    .desc = Ага, выглядит как и ожидалось...
 
-ent-FoodTacoBeefSupreme = beef taco supreme
-    .desc = It's like a regular beef taco, but supreme!
+ent-FoodTacoBeefSupreme = тако с говядиной суприм
+    .desc = Как обычное тако с говядиной, только суприм!
 
-ent-FoodTacoChickenSupreme = chicken taco supreme
-    .desc = It's like a regular chicken taco, but supreme!
+ent-FoodTacoChickenSupreme = тако с курицей суприм
+    .desc = Как обычное тако с курицей, только суприм!
 
-ent-FoodTacoDragon = draco
-    .desc = A dragon taco, which is technically also a fish taco.
+ent-FoodTacoDragon = драко
+    .desc = Тако с драконом, которое, строго говоря, тоже тако с рыбой.
 
-ent-FoodMealSoftTaco = soft taco
-    .desc = Take a bite!
+ent-FoodMealSoftTaco = мягкое тако
+    .desc = Откусите кусочек!

@@ -1,19 +1,19 @@
-ent-MobCreature = creature
-    .desc = A sanity-destroying otherthing from the netherworld.
+ent-MobCreature = существо
+    .desc = Сводящая с ума тварь из потустороннего мира.
 
-ent-MobCreatureWizard = Simmons
-    .desc = He is hungry.
+ent-MobCreatureWizard = Симмонс
+    .desc = Он голоден.
 
-ent-SpawnMobCreature = Creature Spawner
+ent-SpawnMobCreature = Спавнер Существа
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobCreatureWizard = WIzard Creature Spawner
+ent-SpawnMobCreatureWizard = Спавнер Волшебного Существа
     .desc = { ent-SpawnMobCreature.desc }
 
-ent-MobStickman = angry stick man
-    .desc = A being from a realm with only 2 dimensions. At least it's trying to stay faced towards you.
-    .suffix = AI
+ent-MobStickman = злой человечек из палочек
+    .desc = Существо из мира, в котором всего 2 измерения. По крайней мере оно старается оставаться к вам лицом.
+    .suffix = ИИ
 
 ent-MobStickmanTemp = { ent-MobStickman }
     .desc = { ent-MobStickman.desc }
-    .suffix = Temporary
+    .suffix = Временный

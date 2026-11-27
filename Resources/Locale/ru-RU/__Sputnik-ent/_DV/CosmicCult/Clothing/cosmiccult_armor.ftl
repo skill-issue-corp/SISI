@@ -1,5 +1,5 @@
-ent-ClothingOuterHardsuitCosmicCult = entropic armor
-    .desc = An unsettling hardsuit, numbing to the touch. It pulses with a glow that makes you feel like you've forgotten something..
+ent-ClothingOuterHardsuitCosmicCult = энтропийная броня
+    .desc = Тревожный скафандр, от прикосновения к которому всё немеет. От его пульсирующего сияния кажется, что вы что-то забыли..
 
-ent-ClothingHeadHelmetCosmicCult = entropic headgear
-    .desc = This headpiece seems to extrude from the hardsuit it's attached to as if the material is one single, contiguous whole.
+ent-ClothingHeadHelmetCosmicCult = энтропийный шлем
+    .desc = Этот шлем словно вырастает из скафандра, будто они отлиты из единого, неразрывного куска материала.

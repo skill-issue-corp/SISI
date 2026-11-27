@@ -1,5 +1,5 @@
-ent-BaseTelescopicBaton = telescopic baton
-    .desc = A compact and harmless personal defense weapon. Sturdy enough to knock the feet out from under attackers. If you hit a person immediately after extending the baton, it will force them drop held items as well.
+ent-BaseTelescopicBaton = телескопическая дубинка
+    .desc = Компактное и безобидное оружие для самообороны. Достаточно прочное, чтобы сбивать нападающих с ног. Если ударить сразу после раскрытия дубинки, противник ещё и выронит предметы из рук.
 
-ent-TelescopicBaton = telescopic baton
-    .desc = A compact and harmless personal defense weapon. Sturdy enough to knock the feet out from under attackers. If you hit a person immediately after extending the baton, it will force them drop held items as well.
+ent-TelescopicBaton = телескопическая дубинка
+    .desc = Компактное и безобидное оружие для самообороны. Достаточно прочное, чтобы сбивать нападающих с ног. Если ударить сразу после раскрытия дубинки, противник ещё и выронит предметы из рук.

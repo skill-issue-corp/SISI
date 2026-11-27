@@ -1,13 +1,13 @@
-ent-BZCanister = bz canister
+ent-BZCanister = канистра бз
     .desc = { ent-GasCanister.desc }
 
-ent-HealiumCanister = healium canister
+ent-HealiumCanister = канистра хилиума
     .desc = { ent-GasCanister.desc }
 
-ent-NitriumCanister = nitrium canister
+ent-NitriumCanister = канистра нитриума
     .desc = { ent-GasCanister.desc }
 
-ent-PluoxiumCanister = pluoxium canister
+ent-PluoxiumCanister = канистра плюоксиума
     .desc = { ent-GasCanister.desc }
 
 ent-BZCanisterBroken = { ent-GasCanisterBrokenBase }

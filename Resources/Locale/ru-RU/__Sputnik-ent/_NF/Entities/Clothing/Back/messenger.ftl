@@ -1,62 +1,62 @@
 ent-ClothingBackpackMessengerBase = { ent-ClothingBackpack }
     .desc = { ent-ClothingBackpack.desc }
 
-ent-ClothingBackpackMessenger = messenger bag
-    .desc = A robust bag for keeping small stuff.
+ent-ClothingBackpackMessenger = сумка через плечо
+    .desc = Надёжная сумка для всякой мелочи.
 
-ent-ClothingBackpackMessengerCaptain = captain's messenger bag
-    .desc = A robust bag made exclusively for Nanotrasen officers.
+ent-ClothingBackpackMessengerCaptain = сумка капитана через плечо
+    .desc = Надёжная сумка, изготовленная исключительно для офицеров NanoTrasen.
 
-ent-ClothingBackpackMessengerCentcomm = centcomm messenger bag
-    .desc = A robust bag made for Nanotrasen high-ranking officials.
+ent-ClothingBackpackMessengerCentcomm = сумка ЦК через плечо
+    .desc = Надёжная сумка, изготовленная для высокопоставленных сотрудников NanoTrasen.
 
-ent-ClothingBackpackMessengerAtmospherics = atmospherics messenger bag
-    .desc = A robust bag made of fire resistant fibers. Smells like plasma.
+ent-ClothingBackpackMessengerAtmospherics = сумка атмосферного техника через плечо
+    .desc = Надёжная сумка из огнестойких волокон. Пахнет плазмой.
 
-ent-ClothingBackpackMessengerEngineering = engineering messenger bag
-    .desc = A robust bag for keeping extra tools.
+ent-ClothingBackpackMessengerEngineering = инженерная сумка через плечо
+    .desc = Надёжная сумка для запасных инструментов.
 
-ent-ClothingBackpackMessengerCargo = cargo messenger bag
-    .desc = A robust bag for keeping lots of spesos.
+ent-ClothingBackpackMessengerCargo = сумка карго через плечо
+    .desc = Надёжная сумка, в которую помещается много спесо.
 
-ent-ClothingBackpackMessengerSalvage = salvage messenger bag
-    .desc = A robust bag for stashing Lavaland loot.
+ent-ClothingBackpackMessengerSalvage = сумка утилизатора через плечо
+    .desc = Надёжная сумка для добычи с Лаваленда.
 
-ent-ClothingBackpackMessengerMailman = mailman messenger bag
-    .desc = A robust bag for transportation of letters and parcels.
+ent-ClothingBackpackMessengerMailman = сумка почтальона через плечо
+    .desc = Надёжная сумка для перевозки писем и посылок.
 
-ent-ClothingBackpackMessengerMedical = medical messenger bag
-    .desc = A robust bag for keeping extra medicine.
+ent-ClothingBackpackMessengerMedical = медицинская сумка через плечо
+    .desc = Надёжная сумка для запасных лекарств.
 
-ent-ClothingBackpackMessengerChemistry = chemistry messenger bag
-    .desc = A robust bag for keeping extra beakers and vials.
+ent-ClothingBackpackMessengerChemistry = сумка химика через плечо
+    .desc = Надёжная сумка для запасных мензурок и пробирок.
 
-ent-ClothingBackpackMessengerVirology = virology messenger bag
-    .desc = A robust bag made of hypo-allergenic fibers to prevent the spread of disease.
+ent-ClothingBackpackMessengerVirology = сумка вирусолога через плечо
+    .desc = Надёжная сумка из гипоаллергенных волокон, предотвращающих распространение болезней.
 
-ent-ClothingBackpackMessengerGenetics = genetics messenger bag
-    .desc = A robust sterile bag with geneticist colours.
+ent-ClothingBackpackMessengerGenetics = сумка генетика через плечо
+    .desc = Надёжная стерильная сумка в цветах генетиков.
 
-ent-ClothingBackpackMessengerScience = science messenger bag
-    .desc = A robust bag for holding research materials.
+ent-ClothingBackpackMessengerScience = научная сумка через плечо
+    .desc = Надёжная сумка для исследовательских материалов.
 
-ent-ClothingBackpackMessengerClown = clown messenger bag
-    .desc = A robust bag for keeping extra pies.
+ent-ClothingBackpackMessengerClown = сумка клоуна через плечо
+    .desc = Надёжная сумка для запасных пирогов.
 
-ent-ClothingBackpackMessengerMime = mime messenger bag
-    .desc = A robust bag for keeping the vow of silence.
+ent-ClothingBackpackMessengerMime = сумка мима через плечо
+    .desc = Надёжная сумка для хранения обета молчания.
 
-ent-ClothingBackpackMessengerHydroponics = hydroponics messenger bag
-    .desc = A robust bag made of all natural fibers. Smells like dirt.
+ent-ClothingBackpackMessengerHydroponics = сумка ботаника через плечо
+    .desc = Надёжная сумка из исключительно натуральных волокон. Пахнет землёй.
 
-ent-ClothingBackpackMessengerSecurity = security messenger bag
-    .desc = A robust bag for storing extra arrest equipment.
+ent-ClothingBackpackMessengerSecurity = сумка службы безопасности через плечо
+    .desc = Надёжная сумка для запасного снаряжения для задержаний.
 
-ent-ClothingBackpackMessengerBrigmedic = brigmedic messenger bag
-    .desc = A robust bag for storing extra surgery tools for inmate tort... treating.
+ent-ClothingBackpackMessengerBrigmedic = сумка бригмедика через плечо
+    .desc = Надёжная сумка для запасных хирургических инструментов для пыт... лечения заключённых.
 
-ent-ClothingBackpackMessengerHolding = messenger bag of holding
-    .desc = A messenger bag that opens into a localized pocket of bluespace.
+ent-ClothingBackpackMessengerHolding = бездонная сумка через плечо
+    .desc = Сумка через плечо, которая открывается в локальный карман блюспейса.
 
-ent-ClothingBackpackMessengerSyndicate = syndicate messenger bag
-    .desc = A robust bag for storing extra cartridges and explosives.
+ent-ClothingBackpackMessengerSyndicate = сумка синдиката через плечо
+    .desc = Надёжная сумка для запасных патронов и взрывчатки.

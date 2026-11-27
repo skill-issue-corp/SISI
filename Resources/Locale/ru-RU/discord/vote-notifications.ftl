@@ -5,16 +5,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-custom-vote-webhook-name = Custom Vote Held
-custom-vote-webhook-footer = server: { $serverName }, round: { $roundId } { $runLevel }
-custom-vote-webhook-cancelled = **Vote cancelled**
-custom-vote-webhook-option-pending = TBD
-custom-vote-webhook-option-cancelled = N/A
+custom-vote-webhook-name = Проведено Особое Голосование
+custom-vote-webhook-footer = сервер: { $serverName }, раунд: { $roundId } { $runLevel }
+custom-vote-webhook-cancelled = **Голосование отменено**
+custom-vote-webhook-option-pending = УТОЧНЯЕТСЯ
+custom-vote-webhook-option-cancelled = Н/Д
 
-votekick-webhook-name = Votekick Held
-votekick-webhook-description = Initiator: { $initiator }; Target: { $target }
-votekick-webhook-cancelled-admin-online = **Vote cancelled due to admins online**
-votekick-webhook-cancelled-admin-target = **Vote cancelled due to target being admin**
-votekick-webhook-cancelled-antag-target = **Vote cancelled due to target being antag**
+votekick-webhook-name = Проведено Голосование об Исключении
+votekick-webhook-description = Инициатор: { $initiator }; Цель: { $target }
+votekick-webhook-cancelled-admin-online = **Голосование отменено, так как в сети есть администраторы**
+votekick-webhook-cancelled-admin-target = **Голосование отменено, так как цель — администратор**
+votekick-webhook-cancelled-antag-target = **Голосование отменено, так как цель — антаг**
 
-votekick-ban-reason = "Votekick: {$reason}"
+votekick-ban-reason = Исключение по голосованию: {$reason}

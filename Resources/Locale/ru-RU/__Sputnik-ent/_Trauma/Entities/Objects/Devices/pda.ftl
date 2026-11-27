@@ -1,26 +1,26 @@
-ent-GeneticistPDA = geneticist PDA
-    .desc = Unfortunately, this PDA does not come with a free sample of Hulk DNA.
+ent-GeneticistPDA = КПК генетика
+    .desc = К сожалению, к этому КПК не прилагается бесплатный образец ДНК Халка.
 
-ent-PhoneMerchantPDA = phone merchant PDA
-    .desc = Ring a ding ding!
+ent-PhoneMerchantPDA = КПК торговца телефонами
+    .desc = Динь-ди-динь!
 
-ent-HunterPDA = SpacePol PDA
-    .desc = Surprisingly low quality, for a spacepol officer's pda.
+ent-HunterPDA = КПК КосмоПола
+    .desc = На удивление низкое качество для КПК офицера космопола.
 
-ent-AltNanotrasenRepresentativePDA = nanotrasen representative's PDA
-    .desc = Slick design for the one who pushes pencils.
+ent-AltNanotrasenRepresentativePDA = КПК представителя NanoTrasen
+    .desc = Стильный дизайн для того, кто перекладывает бумажки.
 
-ent-AltHoPPDA = head of personnel PDA
-    .desc = Themed after everyone's favourite pet.
+ent-AltHoPPDA = КПК главы персонала
+    .desc = Оформлен в честь всеобщего любимца.
 
-ent-AltCaptainPDA = captain PDA
-    .desc = A stylish, modern, golden and more expensive PDA than yours.
+ent-AltCaptainPDA = КПК капитана
+    .desc = Стильный, современный, золотой КПК, который стоит дороже вашего.
 
-ent-SyndiMedicPDA = syndicate medic PDA
-    .desc = Ok, time to be a productive member of- oh cool I'm a bad guy time to kill people!
+ent-SyndiMedicPDA = КПК медика синдиката
+    .desc = Так, пора стать полезным членом... О, круто, я злодей, пора убивать людей!
 
-ent-RancherPDA = rancher PDA
-    .desc = The second best friend of a rancher!
+ent-RancherPDA = КПК скотовода
+    .desc = Второй лучший друг скотовода!
 
-ent-DClassPDA = D-Class PDA
-    .desc = Holding this generally revokes what few rights you would otherwise have.
+ent-DClassPDA = КПК Д-Класса
+    .desc = Обладание им обычно лишает вас тех немногих прав, которые у вас ещё были.

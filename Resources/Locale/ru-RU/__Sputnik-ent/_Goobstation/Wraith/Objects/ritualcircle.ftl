@@ -1,5 +1,5 @@
-ent-RitualCircleInact = Summoning portal
-    .desc = It hums and thrums as you stare at it. Dark shadows weave in and out of sight within.
+ent-RitualCircleInact = Призывной портал
+    .desc = Он гудит и пульсирует, пока вы на него смотрите. Внутри мелькают и исчезают тёмные тени.
 
 ent-RitualCircle1 = { ent-RitualCircleInact }
     .desc = { ent-RitualCircleInact.desc }

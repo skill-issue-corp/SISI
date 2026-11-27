@@ -1,11 +1,11 @@
 ent-BaseMutationWeakness = { ent-BaseMutation }
     .desc = { ent-BaseMutation.desc }
 
-ent-MutationColdWeakness = Cold Weakness
-    .desc = A strange mutation that cripples the host's ability to raise its body temperature. Cold is far more dangerous.
+ent-MutationColdWeakness = Уязвимость к Холоду
+    .desc = Странная мутация, из-за которой носителю гораздо труднее повышать температуру своего тела. Холод становится намного опаснее.
 
-ent-MutationHeatWeakness = Heat Weakness
-    .desc = A strange mutation that cripples the host's ability to lower its body temperature. Heat is far more dangerous.
+ent-MutationHeatWeakness = Уязвимость к Жаре
+    .desc = Странная мутация, из-за которой носителю гораздо труднее понижать температуру своего тела. Жара становится намного опаснее.
 
-ent-MutationThermalWeakness = Homeostatic Shutdown
-    .desc = A life-threatening mutation that almost shuts down the host's ability to control its body temperature.
+ent-MutationThermalWeakness = Отказ Гомеостаза
+    .desc = Опасная для жизни мутация, почти полностью лишающая носителя способности регулировать температуру своего тела.

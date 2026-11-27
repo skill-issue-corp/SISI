@@ -1,8 +1,8 @@
-ent-CQCManual = old manual
-    .desc = A small, black manual. There are drawn instructions of tactical hand-to-hand combat.
+ent-CQCManual = старое руководство
+    .desc = Небольшое чёрное руководство. Внутри нарисованы приёмы тактического рукопашного боя.
 
-ent-SleepingCarpScroll = mysterious scroll
-    .desc = A scroll filled with strange markings. It seems to be drawings of some sort of martial art.
+ent-SleepingCarpScroll = таинственный свиток
+    .desc = Свиток, испещрённый странными знаками. Похоже, здесь зарисованы приёмы какого-то боевого искусства.
 
-ent-CapoeiraManual = choreography manual
-    .desc = Choreography manual — or so it claims. Every second page ends with someone on the floor, not dancing.
+ent-CapoeiraManual = руководство по хореографии
+    .desc = Руководство по хореографии — по крайней мере, так написано. На каждой второй странице кто-нибудь оказывается на полу и явно не танцует.

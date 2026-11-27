@@ -1,2 +1,2 @@
-ent-DehydratedHoloCarp = dehydrated holocarp
-    .desc = Looks like a plush toy holocarp, but just add water and it becomes a real-life holocarp!
+ent-DehydratedHoloCarp = обезвоженный голокарп
+    .desc = Похож на плюшевого голокарпа, но стоит добавить воды, и он превратится в настоящего живого голокарпа!

@@ -1,2 +1,2 @@
-ent-MindRoleXenomorph = xenomorph role
+ent-MindRoleXenomorph = роль ксеноморфа
     .desc = { ent-BaseMindRoleAntag.desc }

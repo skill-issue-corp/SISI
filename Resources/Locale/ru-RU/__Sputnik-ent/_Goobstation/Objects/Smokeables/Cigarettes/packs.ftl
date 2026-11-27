@@ -1,2 +1,2 @@
-ent-CigPackMedical = ChemLab menthols pack
-    .desc = Nanotrasen decided to let Chemistry make their own soaked cigarettes for export, and this is the result. The menthol is there to hide the noxious chemicals!
+ent-CigPackMedical = пачка ментоловых сигарет «ХимЛаб»
+    .desc = NanoTrasen разрешила Химикам выпускать на экспорт собственные пропитанные сигареты, и вот результат. Ментол перебивает запах едких реагентов!

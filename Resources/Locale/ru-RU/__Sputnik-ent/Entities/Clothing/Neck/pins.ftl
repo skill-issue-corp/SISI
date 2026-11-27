@@ -1,62 +1,62 @@
-ent-ClothingNeckPinBase = pin
-    .desc = Be nothing do crime.
+ent-ClothingNeckPinBase = значок
+    .desc = Будь никем, твори преступления.
 
 ent-ClothingGenderPinBase = { ent-ClothingNeckPinBase }
     .desc = { ent-ClothingNeckPinBase.desc }
 
-ent-ClothingNeckLGBTPin = LGBT pin
-    .desc = Be gay do crime.
+ent-ClothingNeckLGBTPin = значок ЛГБТ
+    .desc = Будь геем, твори преступления.
 
-ent-ClothingNeckAllyPin = straight ally pin
-    .desc = Be ally do crime.
+ent-ClothingNeckAllyPin = значок гетеросоюзника
+    .desc = Будь союзником, твори преступления.
 
-ent-ClothingNeckAromanticPin = aromantic pin
-    .desc = Be aro do crime.
+ent-ClothingNeckAromanticPin = значок аромантика
+    .desc = Будь аро, твори преступления.
 
-ent-ClothingNeckAroacePin = aroace pin
-    .desc = Be aroace do crime.
+ent-ClothingNeckAroacePin = значок ароэйса
+    .desc = Будь ароэйсом, твори преступления.
 
-ent-ClothingNeckAsexualPin = asexual pin
-    .desc = Be ace do crime.
+ent-ClothingNeckAsexualPin = значок асексуала
+    .desc = Будь эйсом, твори преступления.
 
-ent-ClothingNeckBisexualPin = bisexual pin
-    .desc = Be bi do crime.
+ent-ClothingNeckBisexualPin = значок бисексуала
+    .desc = Будь би, твори преступления.
 
-ent-ClothingNeckGayPin = gay pin
-    .desc = Be gay~ do crime.
+ent-ClothingNeckGayPin = значок гея
+    .desc = Будь геем~ твори преступления.
 
-ent-ClothingNeckIntersexPin = intersex pin
-    .desc = Be intersex do crime.
+ent-ClothingNeckIntersexPin = значок интерсекс
+    .desc = Будь интерсекс, твори преступления.
 
-ent-ClothingNeckLesbianPin = lesbian pin
-    .desc = Be lesbian do crime.
+ent-ClothingNeckLesbianPin = значок лесбиянки
+    .desc = Будь лесбиянкой, твори преступления.
 
-ent-ClothingNeckNonBinaryPin = non-binary pin
+ent-ClothingNeckNonBinaryPin = небинарный значок
     .desc = 01100010 01100101 00100000 01100101 01101110 01100010 01111001 00100000 01100100 01101111 00100000 01100011 01110010 01101001 01101101 01100101
 
-ent-ClothingNeckPansexualPin = pansexual pin
-    .desc = Be pan do crime.
+ent-ClothingNeckPansexualPin = значок пансексуала
+    .desc = Будь пан, твори преступления.
 
-ent-ClothingNeckPluralPin = plural pin
-    .desc = Be plural, do crimes.
+ent-ClothingNeckPluralPin = значок множественности
+    .desc = Будь множеством, твори преступления.
 
-ent-ClothingNeckOmnisexualPin = omnisexual pin
-    .desc = Be omni do crime.
+ent-ClothingNeckOmnisexualPin = значок омнисексуала
+    .desc = Будь омни, твори преступления.
 
-ent-ClothingNeckGenderqueerPin = genderqueer pin
-    .desc = be crime, do gender
+ent-ClothingNeckGenderqueerPin = значок гендерквира
+    .desc = будь преступлением, твори гендер
 
-ent-ClothingNeckGenderfluidPin = genderfluid pin
-    .desc = be gender, be fluid
+ent-ClothingNeckGenderfluidPin = значок гендерфлюида
+    .desc = будь гендером, будь текучим
 
-ent-ClothingNeckTransPin = transgender pin
-    .desc = Be trans do crime.
+ent-ClothingNeckTransPin = трансгендерный значок
+    .desc = Будь транс, твори преступления.
 
-ent-ClothingNeckAutismPin = neurodivergent pin
-    .desc = Be neurodivergent, do crime.
+ent-ClothingNeckAutismPin = значок нейроотличия
+    .desc = Будь нейроотличным, твори преступления.
 
-ent-ClothingNeckGoldAutismPin = autism pin
-    .desc = Be autistic, do crime.
+ent-ClothingNeckGoldAutismPin = значок аутизма
+    .desc = Будь аутичным, твори преступления.
 
-ent-SprayFlowerPin = flower pin
-    .desc = A cute flower pin. Something seems off with it...
+ent-SprayFlowerPin = значок-цветок
+    .desc = Милый значок-цветок. Что-то с ним не так...

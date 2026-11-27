@@ -1,5 +1,5 @@
-ghost-role-information-demon-name = Demon
-ghost-role-information-demon-desc = KILL THOSE WHO DARE SUMMON YOU!!!
+ghost-role-information-demon-name = Демон
+ghost-role-information-demon-desc = УБИВАЙТЕ ТЕХ, КТО ПОСМЕЛ ВАС ПРИЗВАТЬ!!!
 
-ghost-role-information-demon-tame-name = Demon
-ghost-role-information-demon-tame-desc = Your will is bound to those who summoned you...
+ghost-role-information-demon-tame-name = Демон
+ghost-role-information-demon-tame-desc = Ваша воля подчинена тем, кто вас призвал...

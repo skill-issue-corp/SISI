@@ -1,5 +1,5 @@
-ent-DartMonkeyCube = dart monkey cube
-    .desc = A compressed cube, that when used, produces a stationary monkey that shoots darts at balloons.
+ent-DartMonkeyCube = кубик обезьяны с дротиками
+    .desc = Прессованный кубик. При использовании из него получается неподвижная обезьяна, которая стреляет дротиками по шарикам.
 
-ent-CrateDartMonkey = dart monkey crate
-    .desc = A crate containing a highly compressed dart monkey. Perfect for popping balloons, just don't question the ethics of it...
+ent-CrateDartMonkey = ящик с обезьяной с дротиками
+    .desc = Ящик с сильно спрессованной обезьяной с дротиками. Самое то, чтобы лопать шарики, только не задумывайтесь об этике...

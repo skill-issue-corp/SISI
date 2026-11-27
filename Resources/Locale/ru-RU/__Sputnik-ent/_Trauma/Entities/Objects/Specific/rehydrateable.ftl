@@ -1,26 +1,26 @@
-ent-ShrimpCube = shrimp cube
-    .desc = Just add water! At your own risk.
+ent-ShrimpCube = кубик креветки
+    .desc = Просто добавьте воды! На свой страх и риск.
 
-ent-MantisShrimpCube = mantis shrimp cube
-    .desc = Just add water! At your own risk.
+ent-MantisShrimpCube = кубик рака-богомола
+    .desc = Просто добавьте воды! На свой страх и риск.
 
-ent-SpiderCrabCube = spider crab cube
-    .desc = Just add water! At your own risk.
+ent-SpiderCrabCube = кубик краба-паука
+    .desc = Просто добавьте воды! На свой страх и риск.
 
-ent-SnakeCube = snake cube
-    .desc = Just add water! At your own risk.
+ent-SnakeCube = кубик змеи
+    .desc = Просто добавьте воды! На свой страх и риск.
 
-ent-BearCube = bear cube
-    .desc = Just add water! At your own risk.
+ent-BearCube = кубик медведя
+    .desc = Просто добавьте воды! На свой страх и риск.
 
-ent-EelCube = eel cube
-    .desc = Just add water! At your own risk.
+ent-EelCube = кубик угря
+    .desc = Просто добавьте воды! На свой страх и риск.
 
-ent-HoloCarpCube = holocarp cube
-    .desc = Just add water! At your own risk.
+ent-HoloCarpCube = кубик голокарпа
+    .desc = Просто добавьте воды! На свой страх и риск.
 
-ent-BrullbarCube = brullbar cube
-    .desc = Just add water! At your own risk.
+ent-BrullbarCube = кубик бруллбара
+    .desc = Просто добавьте воды! На свой страх и риск.
 
-ent-MantisCube = mantis cube
-    .desc = Just add water! At your own risk.
+ent-MantisCube = кубик богомола
+    .desc = Просто добавьте воды! На свой страх и риск.

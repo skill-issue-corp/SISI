@@ -1,4 +1,4 @@
-ghost-role-information-slaughter-demon-name = Slaughter Demon
+ghost-role-information-slaughter-demon-name = Демон Резни
 
 # SIS-Start
 ghost-role-information-slaughter-demon-description =
@@ -34,4 +34,4 @@ ghost-role-information-laughter-demon-rules =
 ghost-role-information-laughter-demon-description = ХОНК-ХОНК, ублюдки! НАСТАЛ ТВОЙ ЧАС! ОБНИМАЙ ИХ, ПОКА НЕ ЛОПНУТ РЁБРА, И ПОКАЖИ ЭТИМ ГРУСТНЫМ ТРУПИКАМ ИСТИННОЕ ВЕСЕЛЬЕ!
 # SIS-End
 
-ghost-role-information-laughter-demon-name = Laughter Demon
+ghost-role-information-laughter-demon-name = Демон Смеха

@@ -1,12 +1,12 @@
-toggle-clothing-verb-text = Toggle {CAPITALIZE($entity)}
+toggle-clothing-verb-text = Переключить {CAPITALIZE($entity)}
 
-toggleable-clothing-remove-first = You have to unequip {$entity} first.
-toggleable-clothing-remove-all-attached-first = You have to unequip all toggled clothing first.
-toggleable-clothing-attach-tooltip = Equip
-toggleable-clothing-unattach-tooltip = Unequip
+toggleable-clothing-remove-first = Сначала снимите {$entity}.
+toggleable-clothing-remove-all-attached-first = Сначала снимите все надетые части костюма.
+toggleable-clothing-attach-tooltip = Надеть
+toggleable-clothing-unattach-tooltip = Снять
 
-toggle-clothing-verb-default = Toggle Suit Piece
+toggle-clothing-verb-default = Переключить Часть Костюма
 
-toggle-clothing-verb-hood = Toggle Hood
+toggle-clothing-verb-hood = Переключить Капюшон
 
-toggle-clothing-verb-helmet = Toggle Helmet
+toggle-clothing-verb-helmet = Переключить Шлем

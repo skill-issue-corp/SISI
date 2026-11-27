@@ -1,43 +1,43 @@
 ent-DefaultStationBeaconLavalandRuin = { ent-DefaultStationBeacon }
     .desc = { ent-DefaultStationBeacon.desc }
-    .suffix = Command
+    .suffix = Командование
 
 ent-DefaultStationBeaconRuinAbductor = { ent-DefaultStationBeaconLavalandRuin }
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
-    .suffix = Ruin Abductor
+    .suffix = Руины Абдукторов
 
 ent-DefaultStationBeaconRuinArrivals = { ent-DefaultStationBeaconLavalandRuin }
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
-    .suffix = Ruin Arrivals
+    .suffix = Руины Зоны Прибытия
 
 ent-DefaultStationBeaconRuinBeachBiodome = { ent-DefaultStationBeaconLavalandRuin }
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
-    .suffix = Ruin Beach Biodome
+    .suffix = Руины Пляжного Биокупола
 
 ent-DefaultStationBeaconRuinChemistryLab = { ent-DefaultStationBeaconLavalandRuin }
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
-    .suffix = Ruin Syndicate
+    .suffix = Руины Синдиката
 
 ent-DefaultStationBeaconRuinGolemShuttle = { ent-DefaultStationBeaconLavalandRuin }
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
-    .suffix = Ruin Golem Shuttle
+    .suffix = Руины Шаттла Големов
 
 ent-DefaultStationBeaconRuinHierophantArena = { ent-DefaultStationBeaconLavalandRuin }
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
-    .suffix = Ruin Hierophant Arena
+    .suffix = Руины Арены Иерофанта
 
 ent-DefaultStationBeaconRuinHunterShelter = { ent-DefaultStationBeaconLavalandRuin }
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
-    .suffix = Ruin Hunter's Shelter
+    .suffix = Руины Укрытия Охотника
 
 ent-DefaultStationBeaconRuinSmallOutpost = { ent-DefaultStationBeaconLavalandRuin }
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
-    .suffix = Ruin Small Outpost
+    .suffix = Руины Малого Аванпоста
 
 ent-DefaultStationBeaconRuinRougeAI = { ent-DefaultStationBeaconLavalandRuin }
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
-    .suffix = Ruin Rouge AI
+    .suffix = Руины Взбунтовавшегося ИИ
 
 ent-DefaultStationBeaconRuinSnowBiodome = { ent-DefaultStationBeaconLavalandRuin }
     .desc = { ent-DefaultStationBeaconLavalandRuin.desc }
-    .suffix = Ruin Snow Biodome
+    .suffix = Руины Снежного Биокупола

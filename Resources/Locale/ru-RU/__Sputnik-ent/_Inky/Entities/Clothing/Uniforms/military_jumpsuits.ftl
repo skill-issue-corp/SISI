@@ -1,39 +1,39 @@
 ent-ClothingUniformJumpsuitMilitaryJanitor = { ent-ClothingUniformJumpsuitJanitor }
-    .desc = Battle-worn. From battling potassium.
-    .suffix = Military
+    .desc = Потрёпан в бою. В бою с калием.
+    .suffix = Военный
 
 ent-ClothingUniformJumpsuitMilitaryBartender = { ent-ClothingUniformJumpsuitBartender }
     .desc = { ent-ClothingUniformJumpsuitBartender.desc }
-    .suffix = Military
+    .suffix = Военный
 
 ent-ClothingUniformJumpsuitMilitaryChef = { ent-ClothingUniformJumpsuitChef }
     .desc = { ent-ClothingUniformJumpsuitChef.desc }
-    .suffix = Military
+    .suffix = Военный
 
 ent-ClothingUniformJumpsuitMilitaryClown = { ent-ClothingUniformJumpsuitClown }
-    .desc = Even a soldier needs entertainment.
-    .suffix = Military
+    .desc = Даже солдату нужно развлекаться.
+    .suffix = Военный
 
 ent-ClothingUniformJumpsuitMilitaryMime = { ent-ClothingUniformJumpsuitMime }
     .desc = ...!
-    .suffix = Military
+    .suffix = Военный
 
 ent-ClothingUniformJumpsuitMilitaryChaplain = { ent-ClothingUniformJumpsuitChaplain }
-    .desc = Have you ever tried shooting a demon?
-    .suffix = Military
+    .desc = Вы когда-нибудь пробовали стрелять в демона?
+    .suffix = Военный
 
 ent-ClothingUniformJumpsuitMilitaryLibrarian = { ent-ClothingUniformJumpsuitLibrarian }
-    .desc = For the curator of crayons.
-    .suffix = Military
+    .desc = Для хранителя мелков.
+    .suffix = Военный
 
-ent-ClothingUniformJumpsuitMilitaryMusician = musician jumpsuit
-    .desc = Music helps morale. Every party needs a bard.
-    .suffix = Military
+ent-ClothingUniformJumpsuitMilitaryMusician = комбинезон музыканта
+    .desc = Музыка поднимает боевой дух. Любому отряду нужен бард.
+    .suffix = Военный
 
 ent-ClothingUniformJumpsuitMilitaryReporter = { ent-ClothingUniformJumpsuitReporter }
-    .desc = For getting some quality footage. A Nanotrasen logo is embroidered on the side.
-    .suffix = Military
+    .desc = Для качественной съёмки. Сбоку вышит логотип NanoTrasen.
+    .suffix = Военный
 
-ent-ClothingUniformJumpsuitMilitaryRadioHost = radio operator jumpsuit
-    .desc = Communication is key.
-    .suffix = Military
+ent-ClothingUniformJumpsuitMilitaryRadioHost = комбинезон радиста
+    .desc = Главное - связь.
+    .suffix = Военный

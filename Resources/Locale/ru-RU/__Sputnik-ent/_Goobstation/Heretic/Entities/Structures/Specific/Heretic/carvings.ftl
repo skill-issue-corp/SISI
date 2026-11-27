@@ -1,11 +1,11 @@
-ent-BaseCarving = elder carving
-    .desc = Collection of unknown symbols, they remind you of days long gone...
+ent-BaseCarving = древняя резьба
+    .desc = Набор неизвестных символов. Они напоминают вам о давно минувших днях...
 
-ent-GraspingCarving = grasping carving
-    .desc = When stepped on, causes heavy damage leg damage and stuns the victim for 5 seconds. Has 1 charge.
+ent-GraspingCarving = хваткая руна
+    .desc = Тот, кто наступит на неё, получит тяжёлый урон ногам и будет оглушён на 5 секунд. Имеет 1 заряд.
 
-ent-MadCarving = mad carving
-    .desc = When stepped on, causes heavy stamina damage, blindness, and muteness the victim. Has 2 charges.
+ent-MadCarving = руна безумия
+    .desc = Тот, кто наступит на неё, получит большой урон по выносливости, ослепнет и лишится речи. Имеет 2 заряда.
 
-ent-AlertCarving = alert carving
-    .desc = A nearly invisible rune that, when stepped on, alerts the carver who triggered it and where and allows them to teleport to carving location.
+ent-AlertCarving = сигнальная руна
+    .desc = Почти невидимая руна. Когда на неё наступают, она сообщает начертившему её, кто и где её активировал, и даёт ему возможность телепортироваться к ней.

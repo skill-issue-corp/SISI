@@ -1,2 +1,2 @@
-ent-SyringeCase = syringe case
-    .desc = A robust carrying case that helps keep travel supplies of medicine organized.
+ent-SyringeCase = футляр для шприцев
+    .desc = Надёжный переносной футляр для хранения походного запаса лекарств в порядке.

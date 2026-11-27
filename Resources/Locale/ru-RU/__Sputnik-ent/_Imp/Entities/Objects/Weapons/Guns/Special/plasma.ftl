@@ -1,5 +1,5 @@
 ent-WeaponPlasmaAdder = Adder
-    .desc = The future of stellar warfare in the palm of your hand. Uses echion, produced from advanced synthesizers.
+    .desc = Будущее звёздных войн у вас в ладони. Работает на эхионе, который вырабатывают передовые синтезаторы.
 
 ent-WeaponPlasmaAkurra = Akurra
-    .desc = A beautiful marriage of technology and malice in a single package. Uses echion, produced from advanced synthesizers.
+    .desc = Прекрасный союз технологий и злобы в одном корпусе. Работает на эхионе, который вырабатывают передовые синтезаторы.

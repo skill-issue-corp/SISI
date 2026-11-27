@@ -1,17 +1,17 @@
-ent-DragonClawSlowdownStatusEffect = dragon claw slowdown
+ent-DragonClawSlowdownStatusEffect = замедление от когтя дракона
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-NinjutsuTakedownStatusEffect = ninjutsu takedown slowdown
+ent-NinjutsuTakedownStatusEffect = замедление от захвата ниндзюцу
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-JudoDiscombobulateStatusEffect = judo discombobulate slowdown
+ent-JudoDiscombobulateStatusEffect = замедление от дезориентирующего приёма дзюдо
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-CircleKickSlowdownStatusEffect = circle kick slowdown
+ent-CircleKickSlowdownStatusEffect = замедление от кругового удара ногой
     .desc = { ent-StatusEffectSlowdown.desc }
 
-ent-PushKickVulnerabilityStatusEffect = winded
+ent-PushKickVulnerabilityStatusEffect = сбитое дыхание
     .desc = { ent-MobStatusEffectBase.desc }
 
-ent-StatusEffectAttackSpeed = attack speed
+ent-StatusEffectAttackSpeed = скорость атаки
     .desc = { ent-MobStatusEffectBase.desc }

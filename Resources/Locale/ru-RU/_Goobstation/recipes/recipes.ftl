@@ -1,4 +1,4 @@
-recipes-secret-door-reinforced-name = reinforced secret door
+recipes-secret-door-reinforced-name = укреплённая потайная дверь
 
-recipes-wooden-wand-name = wooden wand
-recipe-anomaly-core-name = anomaly core
+recipes-wooden-wand-name = деревянная палочка
+recipe-anomaly-core-name = ядро аномалии

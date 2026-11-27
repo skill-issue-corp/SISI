@@ -6,19 +6,19 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-ui-baby-jail-window-title = Baby Jail
+admin-ui-baby-jail-window-title = Только Новички
 
-admin-ui-baby-jail-enabled = Baby Jail Enabled
-admin-ui-baby-jail-disabled = Baby Jail Disabled
-admin-ui-baby-jail-tooltip = The baby jail restricts players from joining if their account is too old or they do have too much overall playtime on this server.
+admin-ui-baby-jail-enabled = Режим «Только Новички» Включён
+admin-ui-baby-jail-disabled = Режим «Только Новички» Отключён
+admin-ui-baby-jail-tooltip = Режим для новичков ограничивает вход игрокам, чей аккаунт слишком старый или чьё общее время игры на этом сервере превышает лимит.
 
-admin-ui-baby-jail-show-reason = Show Reason
-admin-ui-baby-jail-show-reason-tooltip = Show the user why they were blocked from connecting by the baby jail.
+admin-ui-baby-jail-show-reason = Показать Причину
+admin-ui-baby-jail-show-reason-tooltip = Показывает пользователю, почему режим для новичков не позволил ему подключиться.
 
-admin-ui-baby-jail-max-account-age = Max. Account Age
-admin-ui-baby-jail-max-overall-minutes = Max. Overall Playtime
+admin-ui-baby-jail-max-account-age = Макс. Возраст Аккаунта
+admin-ui-baby-jail-max-overall-minutes = Макс. Общее Время Игры
 
-admin-ui-baby-jail-is-enabled = [font size=20][bold]The baby jail is currently enabled.[/bold][/font]
+admin-ui-baby-jail-is-enabled = [font size=20][bold]Режим для новичков сейчас включён.[/bold][/font]
 
-admin-ui-baby-jail-enabled-admin-alert = The baby jail has been enabled.
-admin-ui-baby-jail-disabled-admin-alert = The baby jail has been disabled.
+admin-ui-baby-jail-enabled-admin-alert = Режим для новичков включён.
+admin-ui-baby-jail-disabled-admin-alert = Режим для новичков отключён.

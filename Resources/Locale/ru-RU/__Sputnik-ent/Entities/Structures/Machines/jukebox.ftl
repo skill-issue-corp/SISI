@@ -1,2 +1,2 @@
-ent-Jukebox = jukebox
-    .desc = A machine capable of playing a wide variety of tunes. Enjoyment not guaranteed.
+ent-Jukebox = музыкальный автомат
+    .desc = Машина, способная проигрывать самые разные мелодии. Удовольствие не гарантировано.

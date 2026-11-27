@@ -1,2 +1,2 @@
-ent-CartridgeStickyGrenade = sticky grenade round
-    .desc = Sticks to whatever it hits, then explodes after 3 seconds.
+ent-CartridgeStickyGrenade = патрон с липкой гранатой
+    .desc = Прилипает к тому, во что попадает, и взрывается через 3 секунды.

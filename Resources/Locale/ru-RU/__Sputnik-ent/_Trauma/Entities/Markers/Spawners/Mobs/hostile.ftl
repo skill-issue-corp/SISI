@@ -1,47 +1,47 @@
-ent-SpawnMobBearSea = Sea Bear Spawner
+ent-SpawnMobBearSea = Точка Спавна Морского Медведя
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobSquidSea = Sea Squid Spawner
+ent-SpawnMobSquidSea = Точка Спавна Морского Кальмара
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobSpiderCrabSea = Spider Crab Spawner
+ent-SpawnMobSpiderCrabSea = Точка Спавна Краба-Паука
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobKraitSea = Krait Cobra Spawner
+ent-SpawnMobKraitSea = Точка Спавна Крайта
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobArcherSea = Archer Fish Spawner
+ent-SpawnMobArcherSea = Точка Спавна Рыбы-Брызгуна
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobBunnyEvil = Evil Bunny Spawner
+ent-SpawnMobBunnyEvil = Точка Спавна Злого Кролика
     .desc = { ent-MarkerBase.desc }
-    .suffix = Hostile
+    .suffix = Враждебный
 
-ent-SpawnMobEelSea = Eel Spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobYellowBellySnake = Yellow Belly Snake Spawner
+ent-SpawnMobEelSea = Точка Спавна Угря
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobMantis = Mantis Spawner
-    .desc = { ent-MarkerBase.desc }
-    .suffix = Hostile
-
-ent-SpawnMobMantisShrimp = Mantis Shrimp Spawner
-    .desc = { ent-MarkerBase.desc }
-    .suffix = Hostile
-
-ent-SpawnMobShrimp = Shrimp Spawner
+ent-SpawnMobYellowBellySnake = Точка Спавна Желтобрюхой Змеи
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobDartFrog2 = Golden Poison Frog Spawner
+ent-SpawnMobMantis = Точка Спавна Богомола
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Враждебный
+
+ent-SpawnMobMantisShrimp = Точка Спавна Рака-Богомола
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Враждебный
+
+ent-SpawnMobShrimp = Точка Спавна Креветки
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobDartFrog4 = Green-and-Black Poison Frog Spawner
+ent-SpawnMobDartFrog2 = Точка Спавна Золотого Древолаза
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobDartFrog5 = Kokoe Poison Frog Spawner
+ent-SpawnMobDartFrog4 = Точка Спавна Чёрно-Зелёного Древолаза
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobCobra = Cobra Spawner
+ent-SpawnMobDartFrog5 = Точка Спавна Древолаза Кокоэ
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMobCobra = Точка Спавна Кобры
     .desc = { ent-MarkerBase.desc }

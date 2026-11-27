@@ -7,26 +7,26 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-logs-title = Admin Logs Panel
-admin-logs-count = Showing {$showing}/{$total} of {$round}
-admin-logs-export = Export
-admin-logs-pop-out = Pop Out
+admin-logs-title = Панель Административного Журнала
+admin-logs-count = Показано {$showing}/{$total} из раунда {$round}
+admin-logs-export = Экспорт
+admin-logs-pop-out = Отделить Окно
 
 # Round
-admin-logs-round = Round{" "}
-admin-logs-reset = Reset
-admin-logs-reset-with-id = Reset Round (#{$id})
+admin-logs-round = Раунд{" "}
+admin-logs-reset = Сбросить
+admin-logs-reset-with-id = Сбросить Раунд (#{$id})
 
 # Types
-admin-logs-search-types-placeholder = Search Types (OR)
-admin-logs-select-all = All
-admin-logs-select-none = None
+admin-logs-search-types-placeholder = Поиск Типов (ИЛИ)
+admin-logs-select-all = Все
+admin-logs-select-none = Ни одного
 
 # Players
-admin-logs-search-players-placeholder = Search Players (OR)
-admin-logs-include-non-player = Include Non-players
+admin-logs-search-players-placeholder = Поиск Игроков (ИЛИ)
+admin-logs-include-non-player = Включить Объекты без игроков
 
 # Logs
-admin-logs-search-logs-placeholder = Search Logs
-admin-logs-refresh = Refresh
-admin-logs-next = Next
+admin-logs-search-logs-placeholder = Поиск по Журналу
+admin-logs-refresh = Обновить
+admin-logs-next = Далее

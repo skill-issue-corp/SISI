@@ -1,5 +1,5 @@
-petting-success-weldbot = You pet {THE($target)} on {POSS-ADJ($target)} stained metal head.
-petting-success-minebot = You pet {THE($target)} on {POSS-ADJ($target)} hardened metal head.
+petting-success-weldbot = Вы гладите {$target} по {POSS-ADJ($target)} запачканной металлической голове.
+petting-success-minebot = Вы гладите {$target} по {POSS-ADJ($target)} закалённой металлической голове.
 
-petting-failure-weldbot = You reach out to pet {THE($target)}, but {POSS-ADJ($target)} welder nearly burns your hand!
-petting-failure-minebot = You reach out to pet {THE($target)}, but {SUBJECT($target)} nearly swings its pickaxe at you!
+petting-failure-weldbot = Вы тянетесь погладить {$target}, но {POSS-ADJ($target)} сварочный аппарат чуть не обжигает вам руку!
+petting-failure-minebot = Вы тянетесь погладить {$target}, но {SUBJECT($target)} чуть не замахивается на вас киркой!

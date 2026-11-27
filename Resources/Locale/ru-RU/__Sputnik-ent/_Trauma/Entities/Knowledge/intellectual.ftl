@@ -1,5 +1,5 @@
-ent-MagicalLiteracyKnowledge = Magical Literacy
-    .desc = How adept you are in the world of magic. Allows you to practice demonology if you are magically gifted, or do basic enchanting.
+ent-MagicalLiteracyKnowledge = Магическая Грамотность
+    .desc = Показывает, насколько хорошо вы разбираетесь в магии. Позволяет заниматься демонологией при наличии дара к магии или накладывать простые чары.
 
-ent-LiteracyKnowledge = Literacy
-    .desc = Does nothing currently. You shouldn't waste points on this...
+ent-LiteracyKnowledge = Грамотность
+    .desc = Сейчас ничего не даёт. Не стоит тратить на это очки...

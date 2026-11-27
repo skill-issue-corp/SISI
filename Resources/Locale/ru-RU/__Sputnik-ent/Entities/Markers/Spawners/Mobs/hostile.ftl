@@ -1,54 +1,54 @@
-ent-SpawnClownSpider = clown spider spawner
+ent-SpawnClownSpider = спавнер паука-клоуна
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobBear = Space Bear Spawner
+ent-SpawnMobBear = Спавнер Космического Медведя
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobBehonker = behonker Spawner
+ent-SpawnMobBehonker = Спавнер бехонкера
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobBoxingKangaroo = Boxing Kangaroo Spawner
+ent-SpawnMobBoxingKangaroo = Спавнер Кенгуру-Боксёра
     .desc = { ent-MarkerBase.desc }
-    .suffix = Hostile
+    .suffix = Враждебный
 
-ent-SpawnMobHellspawn = Hellspawn Spawner
-    .desc = { ent-MarkerBase.desc }
-
-ent-SpawnMobKangaroo = Space Kangaroo Spawner
+ent-SpawnMobHellspawn = Спавнер Адского Отродья
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobLuminousEntity = luminous entity spawner
+ent-SpawnMobKangaroo = Спавнер Космического Кенгуру
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobLuminousObject = luminous object spawner
+ent-SpawnMobLuminousEntity = спавнер светящейся сущности
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobLuminousPerson = luminous person spawner
+ent-SpawnMobLuminousObject = спавнер светящегося объекта
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobOreCrab = ore crab spawner
+ent-SpawnMobLuminousPerson = спавнер светящегося человека
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobPurpleSnake = Purple Snake Spawner
+ent-SpawnMobOreCrab = спавнер рудного краба
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobSmallPurpleSnake = Small Purple Snake Spawner
+ent-SpawnMobPurpleSnake = Спавнер Фиолетовой Змеи
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobSpaceCobra = Space Cobra Spawner
+ent-SpawnMobSmallPurpleSnake = Спавнер Маленькой Фиолетовой Змеи
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobSpaceSpider = Space Spider Spawner
+ent-SpawnMobSpaceCobra = Спавнер Космической Кобры
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobWatcherIcewing = Watcher Icewing Spawner
+ent-SpawnMobSpaceSpider = Спавнер Космического Паука
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobWatcherLavaland = Watcher Lavaland Spawner
+ent-SpawnMobWatcherIcewing = Спавнер Наблюдателя-Ледокрыла
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobWatcherMagmawing = Watcher Magmawing Spawner
+ent-SpawnMobWatcherLavaland = Спавнер Наблюдателя Лаваленда
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobWatcherPride = Watcher Pride Spawner
+ent-SpawnMobWatcherMagmawing = Спавнер Наблюдателя-Магмокрыла
+    .desc = { ent-MarkerBase.desc }
+
+ent-SpawnMobWatcherPride = Спавнер Наблюдателя Прайда
     .desc = { ent-MarkerBase.desc }

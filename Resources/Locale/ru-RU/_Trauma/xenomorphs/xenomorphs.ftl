@@ -1,11 +1,11 @@
-xenomorphs-acid-not-corrodible = { $target } cannot be corroded.
-xenomorphs-acid-already-corroding = { $target } is already being corroded!
-xenomorphs-acid-apply = applied corrosive acid to { $target }.
+xenomorphs-acid-not-corrodible = { $target } не поддаётся разъеданию.
+xenomorphs-acid-already-corroding = { $target } уже разъедается!
+xenomorphs-acid-apply = обрабатывает едкой кислотой { $target }.
 
-queen-roar-start = You begin to prepare a mighty roar!
-queen-roar-start-others = The queen begins to prepare a mighty roar!
-queen-roar-complete = A terrifying roar errupts from the queen!
-queen-roar-victim = A deafening roar fills your ears, stunning you in place!
+queen-roar-start = Вы готовитесь издать мощный рёв!
+queen-roar-start-others = Королева готовится издать мощный рёв!
+queen-roar-complete = Королева издаёт ужасающий рёв!
+queen-roar-victim = Оглушительный рёв заполняет ваши уши и заставляет замереть!
 
-neurotoxin-gland-activated = You strain your gland.
-neurotoxin-gland-deactivated = You relax your gland.
+neurotoxin-gland-activated = Вы напрягаете железу.
+neurotoxin-gland-deactivated = Вы расслабляете железу.

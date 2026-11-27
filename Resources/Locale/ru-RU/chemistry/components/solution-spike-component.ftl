@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-spike-solution-generic = You spike {THE($spiked-entity)} with {THE($spike-entity)}.
-spike-solution-empty-generic = {THE($spike-entity)} fails to dissolve in {THE($spiked-entity)}.
-spike-solution-egg = You crack {THE($spike-entity)} into {THE($spiked-entity)}.
-spike-solution-mix = You mix {THE($spike-entity)} into {THE($spiked-entity)}.
+spike-solution-generic = Вы подмешиваете {$spike-entity} в {$spiked-entity}.
+spike-solution-empty-generic = {$spike-entity} не растворяется в {$spiked-entity}.
+spike-solution-egg = Вы разбиваете {$spike-entity} в {$spiked-entity}.
+spike-solution-mix = Вы вмешиваете {$spike-entity} в {$spiked-entity}.

@@ -1,5 +1,5 @@
-ent-InflatableWall = inflatable barricade
-    .desc = An inflated membrane. Activate to deflate. Do not puncture.
+ent-InflatableWall = надувная баррикада
+    .desc = Надутая оболочка. Активируйте, чтобы сдуть. Не прокалывайте.
 
-ent-InflatableDoor = inflatable door
-    .desc = An inflated membrane. Activate to deflate. Now with a door. Do not puncture.
+ent-InflatableDoor = надувная дверь
+    .desc = Надутая оболочка. Активируйте, чтобы сдуть. Теперь с дверью. Не прокалывайте.

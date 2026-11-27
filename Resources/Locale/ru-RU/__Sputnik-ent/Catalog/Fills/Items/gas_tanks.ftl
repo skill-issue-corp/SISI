@@ -1,71 +1,71 @@
 ent-OxygenTankFilled = { ent-OxygenTank }
     .desc = { ent-OxygenTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-EmergencyOxygenTankFilled = { ent-EmergencyOxygenTank }
     .desc = { ent-EmergencyOxygenTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-EmergencyNitrogenTankFilled = { ent-EmergencyNitrogenTank }
     .desc = { ent-EmergencyNitrogenTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-ExtendedEmergencyOxygenTankFilled = { ent-ExtendedEmergencyOxygenTank }
     .desc = { ent-ExtendedEmergencyOxygenTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-ExtendedEmergencyNitrogenTankFilled = { ent-ExtendedEmergencyNitrogenTank }
     .desc = { ent-ExtendedEmergencyNitrogenTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-DoubleEmergencyOxygenTankFilled = { ent-DoubleEmergencyOxygenTank }
     .desc = { ent-DoubleEmergencyOxygenTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-DoubleEmergencyNitrogenTankFilled = { ent-DoubleEmergencyNitrogenTank }
     .desc = { ent-DoubleEmergencyNitrogenTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-EmergencyFunnyOxygenTankFilled = { ent-EmergencyFunnyOxygenTank }
     .desc = { ent-EmergencyFunnyOxygenTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-AirTankFilled = { ent-AirTank }
     .desc = { ent-AirTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-NitrogenTankFilled = nitrogen tank
+ent-NitrogenTankFilled = азотный баллон
     .desc = { ent-NitrogenTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-NitrousOxideTankFilled = nitrous oxide tank
+ent-NitrousOxideTankFilled = баллон оксида азота
     .desc = { ent-NitrousOxideTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-PlasmaTankFilled = { ent-PlasmaTank }
     .desc = { ent-PlasmaTank.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-MaxCap = { ent-AirTank }
     .desc = { ent-AirTank.desc }
-    .suffix = Max Cap
+    .suffix = Предельная Мощность
 
 ent-MaxCapSmall = { ent-EmergencyOxygenTank }
     .desc = { ent-EmergencyOxygenTank.desc }
-    .suffix = Max Cap
+    .suffix = Предельная Мощность
 
 ent-MaxCapSmallEx = { ent-ExtendedEmergencyOxygenTank }
     .desc = { ent-ExtendedEmergencyOxygenTank.desc }
-    .suffix = Max Cap
+    .suffix = Предельная Мощность
 
 ent-MaxCapSmallDouble = { ent-DoubleEmergencyOxygenTank }
     .desc = { ent-DoubleEmergencyOxygenTank.desc }
-    .suffix = Max Cap
+    .suffix = Предельная Мощность
 
-ent-MaxCapSilly = max cap
+ent-MaxCapSilly = предельная мощность
     .desc = { ent-AirTank.desc }
-    .suffix = Max Cap, Impossible
+    .suffix = Предельная Мощность, Невозможно
 
-ent-MaxCapBluespace = max cap
+ent-MaxCapBluespace = предельная мощность
     .desc = { ent-AirTank.desc }
-    .suffix = Max Cap, Canister
+    .suffix = Предельная Мощность, Канистра

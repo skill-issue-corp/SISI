@@ -1,6 +1,6 @@
-ghost-role-information-plutonium-rod-name = Plutonium Fuel Rod
-ghost-role-information-plutonium-rod-description = Does not want to become power.
-ghost-role-information-plutonium-rod-rules = You are a [color={role-type-free-agent-color}][bold]{ghost-role-information-plutonium-rod-name}[/bold][/color]. Your one goal is not to be put into the nuclear reactor or centrifuge, because if you are, you [color=red]die[/color].
-                                         You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
-                                         You [color=red]don't[/color] remember knowledge about the game in general, such as how to cook, how to use objects, etc.
-                                         You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
+ghost-role-information-plutonium-rod-name = Плутониевый Топливный Стержень
+ghost-role-information-plutonium-rod-description = Не хочет, чтобы из него вырабатывали энергию.
+ghost-role-information-plutonium-rod-rules = Вы - [color={role-type-free-agent-color}][bold]{ghost-role-information-plutonium-rod-name}[/bold][/color]. Ваша единственная цель - не попасть в ядерный реактор или центрифугу, иначе вы [color=red]погибнете[/color].
+                                         Вы ничего не помните о прошлой жизни и забыли всё, что узнали, будучи призраком.
+                                         Вы [color=red]не[/color] помните и общих сведений об игре: как готовить, пользоваться предметами и т. д.
+                                         Вам категорически [color=red]НЕЛЬЗЯ[/color] вспоминать, например, имя, внешность и другие детали о прежнем персонаже.

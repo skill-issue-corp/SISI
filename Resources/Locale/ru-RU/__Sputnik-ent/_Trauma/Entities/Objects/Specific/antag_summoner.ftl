@@ -1,2 +1,2 @@
-ent-SecAntagSummoner = security funding booster
-    .desc = Receive a large funding grant from our partners in the arms manufacturing sector! No strings attached... right?
+ent-SecAntagSummoner = усилитель финансирования службы безопасности
+    .desc = Получите крупный грант от наших партнёров из оружейной индустрии! Без каких-либо обязательств... верно?

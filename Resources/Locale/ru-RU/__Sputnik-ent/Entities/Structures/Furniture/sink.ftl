@@ -1,17 +1,17 @@
-ent-SinkEmpty = sink
-    .desc = The faucets have been tightened to the maximum possible torque but are still known to drip.
-    .suffix = Empty
+ent-SinkEmpty = раковина
+    .desc = Краны затянули до предела, но они всё равно порой капают.
+    .suffix = Пусто
 
 ent-Sink = { ent-SinkEmpty }
     .desc = { ent-SinkEmpty.desc }
-    .suffix = Water
+    .suffix = Вода
 
-ent-SinkWide = wide sink
+ent-SinkWide = широкая раковина
     .desc = { ent-Sink.desc }
 
-ent-SinkStemless = sink
+ent-SinkStemless = раковина
     .desc = { ent-SinkEmpty.desc }
 
-ent-SinkStemlessWater = sink
+ent-SinkStemlessWater = раковина
     .desc = { ent-SinkStemless.desc }
-    .suffix = Water
+    .suffix = Вода

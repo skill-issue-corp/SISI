@@ -1,11 +1,11 @@
-ent-ProjectileMagicMissile = magic missile
+ent-ProjectileMagicMissile = волшебная стрела
     .desc = { ent-BaseBullet.desc }
 
-ent-ProjectileToolboxHoming = homing toolbox
+ent-ProjectileToolboxHoming = самонаводящийся ящик
     .desc = { ent-BaseBullet.desc }
 
-ent-ProjectileSpellCardRedNoHoming = enchanted card
-    .desc = A piece of paper enchanted to give it extreme durability and stiffness, along with a very hot burn to anyone unfortunate enough to get hit by a charged one.
+ent-ProjectileSpellCardRedNoHoming = зачарованная карта
+    .desc = Листок бумаги, зачарованный для исключительной прочности и жёсткости. Заряженная карта сильно обожжёт того, кому не посчастливится под неё попасть.
 
 ent-ProjectileSpellCardRed = { ent-ProjectileSpellCardRedNoHoming }
     .desc = { ent-ProjectileSpellCardRedNoHoming.desc }
@@ -16,59 +16,59 @@ ent-ProjectileSpellCardPurple = { ent-ProjectileSpellCardRed }
 ent-ProjectileSpellCardPurpleNoHoming = { ent-ProjectileSpellCardRedNoHoming }
     .desc = { ent-ProjectileSpellCardRedNoHoming.desc }
 
-ent-ProjectileSpellCardRedSpread = red card spread
+ent-ProjectileSpellCardRedSpread = веер красных карт
     .desc = { ent-ProjectileSpellCardRedNoHoming.desc }
 
-ent-ProjectileSpellCardPurpleSpread = purple card spread
+ent-ProjectileSpellCardPurpleSpread = веер фиолетовых карт
     .desc = { ent-ProjectileSpellCardPurpleNoHoming.desc }
 
-ent-ProjectileArcaneBarrage = arcane bolt
+ent-ProjectileArcaneBarrage = мистический снаряд
     .desc = { ent-BaseBullet.desc }
 
-ent-BulletMagic = magic bullet
+ent-BulletMagic = волшебная пуля
     .desc = { ent-BaseBullet.desc }
 
 ent-BulletMagicNoMuzzleFlash = { ent-BulletMagic }
     .desc = { ent-BulletMagic.desc }
 
-ent-ProjectileWabbajack = bolt of change
-    .desc = Wabbajack, Wabbajack!
+ent-ProjectileWabbajack = заряд преображения
+    .desc = Ваббаджек, Ваббаджек!
 
-ent-ProjectileDeathBolt = bolt of death
-    .desc = You are already dead, you just don't know it yet.
+ent-ProjectileDeathBolt = заряд смерти
+    .desc = Вы уже мертвы, просто ещё не знаете об этом.
 
-ent-ProjectileTeleBolt = bolt of teleportation
-    .desc = Don't blink or you'll miss yourself teleporting away.
+ent-ProjectileTeleBolt = заряд телепортации
+    .desc = Не моргайте, а то пропустите собственную телепортацию.
 
-ent-ProjectileFieryBolt = fiery bolt
-    .desc = Stop drop and roll.
+ent-ProjectileFieryBolt = огненный заряд
+    .desc = Стойте, падайте и катайтесь.
 
-ent-ProjectileIceCubeBolt = ice bolt
-    .desc = It will let you slide.
+ent-ProjectileIceCubeBolt = ледяной заряд
+    .desc = По нему можно скользить.
 
-ent-ProjectileSwapBolt = swapping bolt
-    .desc = Let us dance.
+ent-ProjectileSwapBolt = заряд обмена
+    .desc = Позвольте пригласить вас на танец.
 
-ent-ProjectileBeeBolt = bee bolt
-    .desc = NOT THE BEES!
+ent-ProjectileBeeBolt = пчелиный заряд
+    .desc = ТОЛЬКО НЕ ПЧЁЛЫ!
 
-ent-ProjectileXRayBolt = x-ray bolt
-    .desc = Walls are not an obstacle.
+ent-ProjectileXRayBolt = рентгеновский заряд
+    .desc = Стены не помеха.
 
-ent-ProjectileEmpBolt = electromagnetic bolt
-    .desc = Energy low!!!
+ent-ProjectileEmpBolt = электромагнитный заряд
+    .desc = Мало энергии!!!
 
-ent-ProjectileSmokeBolt = smoke bolt
-    .desc = Don't inhale it.
+ent-ProjectileSmokeBolt = дымовой заряд
+    .desc = Не вдыхайте.
 
-ent-ProjectileBlindingBolt = blinding bolt
-    .desc = Just follow the smells.
+ent-ProjectileBlindingBolt = ослепляющий заряд
+    .desc = Просто идите на запах.
 
-ent-ProjectileVampiricBolt = bolt of vampirism
-    .desc = Looks like it's going to be a long night.
+ent-ProjectileVampiricBolt = заряд вампиризма
+    .desc = Похоже, ночь будет долгой.
 
-ent-ProjectileMagicMissileLesser = lesser magic missile
+ent-ProjectileMagicMissileLesser = малый магический снаряд
     .desc = { ent-BaseBullet.desc }
 
-ent-ProjectileBananaPeel = magical banana peel
-    .desc = Step on me.
+ent-ProjectileBananaPeel = волшебная банановая кожура
+    .desc = Наступите на меня.

@@ -3,14 +3,14 @@ ent-ClothingUniformBaseUnsensoredFlippable = { ent-UnsensoredClothingUniformBase
 
 ent-ClothingUniformBaseUnsensoredFlipped = { ent-ClothingHeadHeadHatBaseFlippable }
     .desc = { ent-ClothingHeadHeadHatBaseFlippable.desc }
-    .suffix = flipped
+    .suffix = перевёрнуто
 
 ent-ClothingUniformBaseFlippable = { ent-ClothingUniformBaseUnsensoredFlippable }
     .desc = { ent-ClothingUniformBaseUnsensoredFlippable.desc }
 
 ent-ClothingUniformBaseFlipped = { ent-ClothingUniformBaseFlippable }
     .desc = { ent-ClothingUniformBaseFlippable.desc }
-    .suffix = flipped
+    .suffix = перевёрнуто
 
 ent-UnsensoredClothingUniformEnvirosuitBase = { ent-UnsensoredClothingUniformBase }
     .desc = { ent-UnsensoredClothingUniformBase.desc }

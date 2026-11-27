@@ -1,2 +1,2 @@
-store-currency-display-knowledgepoint = Knowledge Points
-store-currency-display-sideknowledgepoint = Side Points
+store-currency-display-knowledgepoint = Очки Знания
+store-currency-display-sideknowledgepoint = Очки Побочного Знания

@@ -1,2 +1,2 @@
-ent-CartridgeMagnumNeurotoxin = shell (.45 subsonic neurotoxin)
+ent-CartridgeMagnumNeurotoxin = патрон (.45 дозвуковой с нейротоксином)
     .desc = { ent-BaseCartridgeMagnum.desc }

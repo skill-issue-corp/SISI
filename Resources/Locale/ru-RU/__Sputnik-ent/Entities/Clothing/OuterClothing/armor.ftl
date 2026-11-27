@@ -1,69 +1,69 @@
-ent-ClothingOuterArmorBase = armor vest
-    .desc = A standard Type I armored vest that provides decent protection against most types of damage.
+ent-ClothingOuterArmorBase = бронежилет
+    .desc = Стандартный бронежилет Класса I. Обеспечивает неплохую защиту от большинства видов урона.
 
 ent-ClothingOuterArmorBasic = { ent-BaseSecurityContraband }
     .desc = { ent-BaseSecurityContraband.desc }
 
-ent-ClothingOuterArmorBasicSlim = armor vest
-    .desc = A slim Type I armored vest that provides decent protection against most types of damage.
-    .suffix = slim
+ent-ClothingOuterArmorBasicSlim = бронежилет
+    .desc = Тонкий бронежилет Класса I. Обеспечивает неплохую защиту от большинства видов урона.
+    .suffix = тонкий
 
-ent-ClothingOuterArmorBulletproof = bulletproof vest
-    .desc = A Type III heavy bulletproof vest that excels in protecting the wearer against traditional projectile weaponry and explosives to a minor extent.
+ent-ClothingOuterArmorBulletproof = пуленепробиваемый жилет
+    .desc = Тяжёлый пуленепробиваемый жилет Класса III. Отлично защищает от обычного огнестрельного оружия и в некоторой степени от взрывов.
 
-ent-ClothingOuterArmorReflective = reflective vest
-    .desc = An armored vest with advanced shielding to protect against energy weapons.
+ent-ClothingOuterArmorReflective = отражающий бронежилет
+    .desc = Бронежилет с усовершенствованным экранированием для защиты от энергетического оружия.
 
-ent-ClothingOuterVestDetective = detective's vest
-    .desc = A hard-boiled private investigator's armored vest.
+ent-ClothingOuterVestDetective = жилет детектива
+    .desc = Бронежилет матёрого частного сыщика.
 
-ent-ClothingOuterArmorCaptainCarapace = captain's carapace
-    .desc = An armored chestpiece that provides protection whilst still offering maximum mobility and flexibility. Issued only to the station's finest.
+ent-ClothingOuterArmorCaptainCarapace = кираса капитана
+    .desc = Бронированный нагрудник, который защищает и при этом почти не стесняет движений. Выдаётся только лучшим из лучших на станции.
 
-ent-ClothingOuterArmorCentcommCarapace = centcomm carapace
-    .desc = An armored chestpiece that provides protection whilst still offering maximum mobility and flexibility. Issued only to centcomm officials and agents.
+ent-ClothingOuterArmorCentcommCarapace = кираса цк
+    .desc = Бронированный нагрудник, который защищает и при этом почти не стесняет движений. Выдаётся только сотрудникам и агентам цк.
 
-ent-ClothingOuterVestWeb = web vest
-    .desc = A synthetic armor vest. This one has added webbing and ballistic plates.
+ent-ClothingOuterVestWeb = бронежилет с разгрузкой
+    .desc = Бронежилет из синтетического материала. На этой модели есть разгрузка и бронепластины.
 
-ent-ClothingOuterVestWebElite = elite web vest
-    .desc = A synthetic armor vest. This one has added webbing and heat resistant fibers.
+ent-ClothingOuterVestWebElite = элитный бронежилет с разгрузкой
+    .desc = Бронежилет из синтетического материала. На этой модели есть разгрузка, а сам жилет усилен термостойкими волокнами.
 
-ent-ClothingOuterVestWebMerc = mercenary web vest
-    .desc = A high-quality armored vest made from a hard synthetic material. It's surprisingly flexible and light, despite formidable armor plating.
+ent-ClothingOuterVestWebMerc = бронежилет наёмника с разгрузкой
+    .desc = Высококачественный бронежилет из твёрдого синтетического материала. Удивительно гибкий и лёгкий, несмотря на внушительные бронепластины.
 
-ent-ClothingOuterArmorRaid = syndicate raid suit
-    .desc = A somewhat flexible and well-armored suit with a powerful shoulder mounted flashlight manufactured in the Gorlex Marauder's iconic blood-red color scheme, it does not protect its wearer from space.
+ent-ClothingOuterArmorRaid = рейдовый костюм синдиката
+    .desc = Достаточно гибкий и хорошо бронированный костюм с мощным наплечным фонарём. Выполнен в фирменной кроваво-красной расцветке Мародёров Горлекса. От вакуума не защищает.
 
-ent-ClothingOuterArmorRiot = riot suit
-    .desc = A suit of semi-flexible polycarbonate body armor with heavy padding to protect against melee attacks. Perfect for fighting delinquents around the station.
+ent-ClothingOuterArmorRiot = противоударный костюм
+    .desc = Костюм из полугибкой поликарбонатной брони с толстой подкладкой для защиты в ближнем бою. Отлично подходит для стычек со станционными хулиганами.
 
-ent-ClothingOuterArmorCult = acolyte armor
-    .desc = An evil-looking piece of cult armor, made of bones.
+ent-ClothingOuterArmorCult = броня послушника
+    .desc = Зловещая броня культиста, сделанная из костей.
 
-ent-ClothingOuterArmorHeavy = heavy armor suit
-    .desc = A heavily armored suit that protects against excessive damage.
+ent-ClothingOuterArmorHeavy = тяжёлый бронекостюм
+    .desc = Тяжелобронированный костюм, защищающий от серьёзных повреждений.
 
-ent-ClothingOuterArmorHeavyGreen = green heavy armor suit
-    .desc = A heavily armored suit with green accents that protects against excessive damage.
+ent-ClothingOuterArmorHeavyGreen = зелёный тяжёлый бронекостюм
+    .desc = Тяжелобронированный костюм с зелёными вставками, защищающий от серьёзных повреждений.
 
-ent-ClothingOuterArmorHeavyRed = red heavy armor suit
-    .desc = A heavily armored suit with red accents that protects against excessive damage.
+ent-ClothingOuterArmorHeavyRed = красный тяжёлый бронекостюм
+    .desc = Тяжелобронированный костюм с красными вставками, защищающий от серьёзных повреждений.
 
-ent-ClothingOuterArmorMagusblue = blue magus armor
-    .desc = An blue armored suit that provides good protection. Doesn't count as wizard robes.
+ent-ClothingOuterArmorMagusblue = синяя броня мага
+    .desc = Синий бронекостюм, обеспечивающий хорошую защиту. За мантию волшебника не считается.
 
-ent-ClothingOuterArmorMagusred = red magus armor
-    .desc = A red armored suit that provides good protection. Doesn't count as wizard robes.
+ent-ClothingOuterArmorMagusred = красная броня мага
+    .desc = Красный бронекостюм, обеспечивающий хорошую защиту. За мантию волшебника не считается.
 
-ent-ClothingOuterArmorChangeling = chitinous armor
-    .desc = Inflates the changeling's body into an all-consuming chitinous mass of armor.
+ent-ClothingOuterArmorChangeling = хитиновая броня
+    .desc = Раздувает тело генокрада, превращая его в сплошную массу хитиновой брони.
 
-ent-ClothingOuterArmorBone = bone armor
-    .desc = Sits on you like a second skin.
+ent-ClothingOuterArmorBone = костяная броня
+    .desc = Сидит на вас как вторая кожа.
 
-ent-ClothingOuterArmorPodWars = ironclad II armor
-    .desc = A repurposed suit of ironclad II armor, a relic of the pod wars.
+ent-ClothingOuterArmorPodWars = броня броненосца II
+    .desc = Переделанная броня броненосца II, пережиток войн на капсулах.
 
-ent-CardArmour = cardboard armour
-    .desc = A medieval chestpiece built from cardboard.
+ent-CardArmour = картонная броня
+    .desc = Средневековый нагрудник из картона.

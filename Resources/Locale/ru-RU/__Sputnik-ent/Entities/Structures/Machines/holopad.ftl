@@ -1,391 +1,391 @@
-ent-Holopad = holopad
-    .desc = A floor-mounted device for projecting holographic images.
+ent-Holopad = голопад
+    .desc = Напольное устройство для проецирования голографических изображений.
 
-ent-HolopadLongRange = long-range holopad
-    .desc = A floor-mounted device for projecting holographic images to similar devices that are far away.
+ent-HolopadLongRange = голопад дальней связи
+    .desc = Напольное устройство для проецирования голографических изображений на подобных устройствах на большом расстоянии.
 
-ent-HolopadUnlimitedRange = quantum entangling holopad
-    .desc = An floor-mounted device for projecting holographic images to similar devices at extreme distances.
+ent-HolopadUnlimitedRange = голопад квантовой связи
+    .desc = Напольное устройство для проецирования голографических изображений на подобных устройствах на огромном расстоянии.
 
-ent-HolopadBluespace = bluespace holopad
-    .desc = An experimental floor-mounted device for projecting holographic images via bluespace.
-    .suffix = Unrestricted range
+ent-HolopadBluespace = блюспейс-голопад
+    .desc = Экспериментальное напольное устройство для проецирования голографических изображений через блюспейс.
+    .suffix = Неограниченная дальность
 
-ent-HolopadHologram = hologram
+ent-HolopadHologram = голограмма
     .desc = { "" }
 
 ent-HolopadGeneralTools = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Tools
+    .suffix = Инструменты
 
 ent-HolopadGeneralCryosleep = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Cryosleep
+    .suffix = Криосон
 
 ent-HolopadGeneralTheater = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Theater
+    .suffix = Театр
 
 ent-HolopadGeneralDisposals = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Disposals
+    .suffix = Мусоросброс
 
 ent-HolopadGeneralEVAStorage = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = EVA Storage
+    .suffix = Хранилище EVA
 
 ent-HolopadGeneralLounge = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Lounge
+    .suffix = Зона Отдыха
 
 ent-HolopadGeneralArcade = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Arcade
+    .suffix = Игровые Автоматы
 
 ent-HolopadGeneralEvac = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Evac
+    .suffix = Эвакуация
 
 ent-HolopadGeneralArrivals = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Arrivals
+    .suffix = Прибытие
 
 ent-HolopadCommandBridge = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Bridge
+    .suffix = Мостик
 
 ent-HolopadCommandVault = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Vault
+    .suffix = Хранилище
 
 ent-HolopadCommandBridgeHallway = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Bridge Hallway
+    .suffix = Коридор Мостика
 
 ent-HolopadCommandMeetingRoom = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Command Meeting
+    .suffix = Переговорная Командования
 
 ent-HolopadCommandLounge = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Command Lounge
+    .suffix = Зона Отдыха Командования
 
 ent-HolopadCommandCaptain = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Captain
+    .suffix = Капитан
 
 ent-HolopadCommandHop = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = HoP
+    .suffix = ГП
 
 ent-HolopadCommandCmo = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = CMO
+    .suffix = ГВ
 
 ent-HolopadCommandQm = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = QM
+    .suffix = КМ
 
 ent-HolopadCommandCe = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = CE
+    .suffix = СИ
 
 ent-HolopadCommandRd = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = RD
+    .suffix = НР
 
 ent-HolopadCommandHos = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = HoS
+    .suffix = ГСБ
 
 ent-HolopadScienceAnomaly = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Anomaly
+    .suffix = Аномалии
 
 ent-HolopadScienceArtifact = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Artifact
+    .suffix = Артефакты
 
 ent-HolopadScienceArtifactNorth = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Artifact North
+    .suffix = Артефакты Север
 
 ent-HolopadScienceArtifactSouth = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Artifact South
+    .suffix = Артефакты Юг
 
 ent-HolopadScienceRobotics = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Robotics
+    .suffix = Робототехника
 
 ent-HolopadScienceRnd = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = R&D
+    .suffix = НиО
 
 ent-HolopadScienceFront = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Sci Front
+    .suffix = Приёмная Научного Отдела
 
 ent-HolopadScienceBreakroom = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Sci Breakroom
+    .suffix = Комната Отдыха Научного Отдела
 
 ent-HolopadMedicalMedbay = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Medbay
+    .suffix = Медотсек
 
 ent-HolopadMedicalChemistry = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Chemistry
+    .suffix = Химия
 
 ent-HolopadMedicalCryopods = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Cryopods
+    .suffix = Криокапсулы
 
 ent-HolopadMedicalMorgue = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Morgue
+    .suffix = Морг
 
 ent-HolopadMedicalSurgery = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Surgery
+    .suffix = Хирургия
 
 ent-HolopadMedicalParamed = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Paramedic
+    .suffix = Парамедик
 
 ent-HolopadMedicalVirology = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Virology
+    .suffix = Вирусология
 
 ent-HolopadMedicalFront = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Med Front
+    .suffix = Приёмная Медотсека
 
 ent-HolopadMedicalBreakroom = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Med Breakroom
+    .suffix = Комната Отдыха Медотсека
 
 ent-HolopadMedicalClinic = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Med Clinic
+    .suffix = Клиника Медотсека
 
 ent-HolopadCargoFront = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Cargo Front
+    .suffix = Приёмная Карго
 
 ent-HolopadCargoBay = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Cargo Bay
+    .suffix = Грузовой Отсек
 
 ent-HolopadCargoSalvageBay = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Salvage Bay
+    .suffix = Утилизаторская
 
 ent-HolopadCargoBreakroom = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Cargo Breakroom
+    .suffix = Комната Отдыха Карго
 
 ent-HolopadCargoMailroom = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Cargo Mailroom
+    .suffix = Почтовое Отделение Карго
 
 ent-HolopadEngineeringAtmosFront = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Atmos Front
+    .suffix = Приёмная Атмосферного Отсека
 
 ent-HolopadEngineeringAtmosMain = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Atmos Main
+    .suffix = Главная Атмосферного Отсека
 
 ent-HolopadEngineeringAtmosTeg = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = TEG
+    .suffix = ТЭГ
 
 ent-HolopadEngineeringStorage = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Engi Storage
+    .suffix = Склад Инжей
 
 ent-HolopadEngineeringBreakroom = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Engi Breakroom
+    .suffix = Комната Отдыха Инжей
 
 ent-HolopadEngineeringFront = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Engi Front
+    .suffix = Приёмная Инжей
 
 ent-HolopadEngineeringTelecoms = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Telecoms
+    .suffix = Телекоммуникации
 
 ent-HolopadEngineeringTechVault = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Tech Vault
+    .suffix = Техническое Хранилище
 
 ent-HolopadEngineeringAME = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = AME
+    .suffix = ДАМ
 
 ent-HolopadEngineeringPower = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Power
+    .suffix = Электроснабжение
 
 ent-HolopadEngineeringMain = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Engi Main
+    .suffix = Главная Инжей
 
 ent-HolopadSecurityFront = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Sec Front
+    .suffix = Приёмная СБ
 
 ent-HolopadSecurityBrig = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Brig
+    .suffix = Бриг
 
 ent-HolopadSecurityWarden = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Warden
+    .suffix = Смотритель
 
 ent-HolopadSecurityInterrogation = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Interrogation
+    .suffix = Допросная
 
 ent-HolopadSecurityBreakroom = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Sec Breakroom
+    .suffix = Комната Отдыха СБ
 
 ent-HolopadSecurityDetective = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Detective
+    .suffix = Детектив
 
 ent-HolopadSecurityPerma = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Perma
+    .suffix = Перма
 
 ent-HolopadSecurityCourtroom = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Courtroom
+    .suffix = Зал Суда
 
 ent-HolopadSecurityLawyer = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Lawyer
+    .suffix = Адвокат
 
 ent-HolopadSecurityArmory = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Armory
+    .suffix = Оружейная
 
 ent-HolopadSecurityLockerRoom = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Sec Locker Room
+    .suffix = Раздевалка СБ
 
 ent-HolopadSecurityBrigMed = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Brig Med
+    .suffix = Бригмед
 
 ent-HolopadSecurityEvacCheckpoint = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Sec Evac Checkpoint
+    .suffix = КПП СБ Эвакуации
 
 ent-HolopadSecurityArrivalsCheckpoint = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Sec Arrivals Checkpoint
+    .suffix = КПП СБ Прибытия
 
 ent-HolopadServiceJanitor = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Janitor
+    .suffix = Уборщик
 
 ent-HolopadServiceBar = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Bar
+    .suffix = Бар
 
 ent-HolopadServiceKitchen = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Kitchen
+    .suffix = Кухня
 
 ent-HolopadServiceBotany = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Botany
+    .suffix = Ботаника
 
 ent-HolopadServiceChapel = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Chapel
+    .suffix = Часовня
 
 ent-HolopadServiceLibrary = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Library
+    .suffix = Библиотека
 
 ent-HolopadServiceGameRoom = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Game Room
+    .suffix = Игровая Комната
 
 ent-HolopadServiceNewsroom = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Newsroom
+    .suffix = Редакция
 
 ent-HolopadServiceZookeeper = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Zookeeper
+    .suffix = Смотритель Зоопарка
 
 ent-HolopadServiceBoxer = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Boxer
+    .suffix = Боксёр
 
 ent-HolopadServiceClown = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Clown
+    .suffix = Клоун
 
 ent-HolopadServiceMusician = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Musician
+    .suffix = Музыкант
 
 ent-HolopadServiceMime = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Mime
+    .suffix = Мим
 
 ent-HolopadAiCore = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = AI Core
+    .suffix = Ядро ИИ
 
 ent-HolopadAiMain = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = AI Main
+    .suffix = Центральная Комната ИИ
 
 ent-HolopadAiUpload = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = AI Upload
+    .suffix = Загрузка Законов ИИ
 
 ent-HolopadAiBackupPower = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = AI Backup Power
+    .suffix = Резервное Питание ИИ
 
 ent-HolopadAiEntrance = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = AI Entrance
+    .suffix = Вход к ИИ
 
 ent-HolopadAiChute = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = AI Chute
+    .suffix = Мусоросброс ИИ
 
 ent-HolopadCargoAts = { ent-HolopadLongRange }
     .desc = { ent-HolopadLongRange.desc }
-    .suffix = ATS
+    .suffix = АТС
 
 ent-HolopadCommandBridgeLongRange = { ent-HolopadLongRange }
     .desc = { ent-HolopadLongRange.desc }
-    .suffix = Station Bridge
+    .suffix = Мостик Станции
 
 ent-HolopadCargoBayLongRange = { ent-HolopadLongRange }
     .desc = { ent-HolopadLongRange.desc }
-    .suffix = Station Cargo Bay
+    .suffix = Отсек Карго Станции
 
 ent-HolopadCargoShuttle = { ent-HolopadLongRange }
     .desc = { ent-HolopadLongRange.desc }
-    .suffix = Cargo Shuttle
+    .suffix = Шаттл Карго
 
 ent-HolopadCentCommEvacShuttle = { ent-HolopadLongRange }
     .desc = { ent-HolopadLongRange.desc }
-    .suffix = Evac Shuttle
+    .suffix = Эвакуационный Шаттл
 
 ent-HolopadServiceClownMime = { ent-Holopad }
     .desc = { ent-Holopad.desc }
-    .suffix = Clown/Mime
+    .suffix = Клоун/Мим

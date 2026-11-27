@@ -4,15 +4,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-sensor-monitoring-window-title = Sensor Monitoring Console
+sensor-monitoring-window-title = Консоль Мониторинга Датчиков
 
 sensor-monitoring-value-display = {$unit ->
     [PressureKpa] { PRESSURE($value) }
     [PowerW] { POWERWATTS($value) }
     [EnergyJ] { POWERJOULES($value) }
-    [TemperatureK] { TOSTRING($value, "N3") } K
+    [TemperatureK] { TOSTRING($value, "N3") } К
     [Ratio] { NATURALPERCENT($value) }
-    [Moles] { TOSTRING($value, "N3") } mol
+    [Moles] { TOSTRING($value, "N3") } моль
     *[Other] { $value }
 }
 

@@ -1,38 +1,38 @@
-ent-CookingKnowledge = Cooking
-    .desc = Currently does nothing. Don't waste your points on this.
+ent-CookingKnowledge = Кулинария
+    .desc = Сейчас ничего не даёт. Не тратьте на это очки.
 
-ent-DoorsKnowledge = Doors
-    .desc = Determines the quality of manual doors you build.
+ent-DoorsKnowledge = Двери
+    .desc = Определяет качество дверей с ручным управлением, которые вы строите.
 
-ent-AirlocksKnowledge = Airlocks
-    .desc = Determines the quality of powered airlocks you build.
+ent-AirlocksKnowledge = Шлюзы
+    .desc = Определяет качество шлюзов с электроприводом, которые вы строите.
 
-ent-BananiumKnowledge = Bananium
-    .desc = Determines the quality of bananium items you craft.
+ent-BananiumKnowledge = Бананиум
+    .desc = Определяет качество предметов из бананиума, которые вы изготавливаете.
 
-ent-BotsKnowledge = Bots
-    .desc = Determines the quality of bots you craft.
+ent-BotsKnowledge = Боты
+    .desc = Определяет качество ботов, которых вы изготавливаете.
 
-ent-FurnitureKnowledge = Furniture
-    .desc = Determines the quality of simple furniture you build.
+ent-FurnitureKnowledge = Мебель
+    .desc = Определяет качество простой мебели, которую вы строите.
 
-ent-InfrastructureKnowledge = Infrastructure
-    .desc = Determines the quality of station infrastructure you build, like vents and APCs.
+ent-InfrastructureKnowledge = Инфраструктура
+    .desc = Определяет качество элементов станционной инфраструктуры, которые вы строите, например вентиляции и ЛКП.
 
-ent-ElectronicsKnowledge = Electronics
-    .desc = Determines the quality of most electronic devices you craft.
+ent-ElectronicsKnowledge = Электроника
+    .desc = Определяет качество большинства электронных устройств, которые вы изготавливаете.
 
-ent-WallsKnowledge = Walls
-    .desc = Determines the quality of walls you build.
+ent-WallsKnowledge = Стены
+    .desc = Определяет качество стен, которые вы строите.
 
-ent-WindowsKnowledge = Windows
-    .desc = Determines the quality of windows you build.
+ent-WindowsKnowledge = Окна
+    .desc = Определяет качество окон, которые вы строите.
 
-ent-SpiderCraftKnowledge = Spider Webs
-    .desc = Determines the quality of your spider web crafts.
+ent-SpiderCraftKnowledge = Паучья Паутина
+    .desc = Определяет качество вещей, которые вы делаете из паутины.
 
-ent-SmokeablesKnowledge = Smokeables
-    .desc = Determines the quality of cigarettes, joints and blunts you roll.
+ent-SmokeablesKnowledge = Курительные Изделия
+    .desc = Определяет качество сигарет, косяков и блантов, которые вы сворачиваете.
 
-ent-RevolutionaryKnowledge = Revolutionary
-    .desc = Allows you to craft revolutionary items and structures.
+ent-RevolutionaryKnowledge = Революционное Дело
+    .desc = Позволяет изготавливать предметы и строить сооружения революционеров.

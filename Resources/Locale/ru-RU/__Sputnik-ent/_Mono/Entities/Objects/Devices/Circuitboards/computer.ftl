@@ -1,2 +1,2 @@
-ent-GunneryControlComputerCircuitboard = gunnery control computer board
-    .desc = A computer printed circuit board for a gunnery control computer.
+ent-GunneryControlComputerCircuitboard = плата компьютера управления огнём
+    .desc = Печатная плата для компьютера управления огнём.

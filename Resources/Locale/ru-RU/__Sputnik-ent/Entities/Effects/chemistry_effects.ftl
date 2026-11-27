@@ -1,38 +1,38 @@
 ent-BaseFoam = { "" }
     .desc = { "" }
 
-ent-Smoke = smoke
+ent-Smoke = дым
     .desc = { ent-BaseFoam.desc }
 
-ent-TearGasSmoke = tear gas
+ent-TearGasSmoke = слезоточивый газ
     .desc = { ent-BaseFoam.desc }
 
 ent-TearGasSmokeWhite = { ent-TearGasSmoke }
     .desc = { ent-TearGasSmoke.desc }
 
-ent-WizardSmoke = smoke
+ent-WizardSmoke = дым
     .desc = { ent-Smoke.desc }
 
-ent-Foam = foam
+ent-Foam = пена
     .desc = { ent-BaseFoam.desc }
 
-ent-MetalFoam = metal foam
+ent-MetalFoam = металлическая пена
     .desc = { ent-Foam.desc }
 
-ent-IronMetalFoam = iron metal foam
+ent-IronMetalFoam = пена из железа
     .desc = { ent-MetalFoam.desc }
 
-ent-AluminiumMetalFoam = aluminium metal foam
+ent-AluminiumMetalFoam = пена из алюминия
     .desc = { ent-MetalFoam.desc }
 
-ent-BaseFoamedMetal = base foamed metal
+ent-BaseFoamedMetal = базовый вспененный металл
     .desc = { "" }
 
-ent-FoamedIronMetal = foamed iron metal
-    .desc = For sealing hull breaches.
+ent-FoamedIronMetal = вспененное железо
+    .desc = Для заделывания пробоин в обшивке.
 
-ent-FoamedAluminiumMetal = foamed aluminium metal
-    .desc = Leftover sparse foam from an aluminum foam grenade. Easily destroyed.
+ent-FoamedAluminiumMetal = вспененный алюминий
+    .desc = Остатки рыхлой пены от гранаты с алюминиевой пеной. Легко разрушается.
 
 ent-ReactionFlash = { "" }
     .desc = { "" }

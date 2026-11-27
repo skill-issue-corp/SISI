@@ -1,54 +1,54 @@
 ent-BaseCartridgeAutoinjector = { ent-BaseHypospray }
     .desc = { ent-BaseHypospray.desc }
 
-ent-SecHypo = security cartridge autoinjector
-    .desc = Used for rapid administration of medicine. Uses cartridges printable at the security techfab.
+ent-SecHypo = картриджный автоинъектор службы безопасности
+    .desc = Для быстрого введения лекарств. Картриджи можно печатать в техфабе службы безопасности.
 
-ent-ParamedHypo = medical cartridge autoinjector
-    .desc = Used for rapid administration of medicine. Uses cartridges printable at the medical techfab.
+ent-ParamedHypo = медицинский картриджный автоинъектор
+    .desc = Для быстрого введения лекарств. Картриджи можно печатать в медицинском техфабе.
 
-ent-BaseAutoinjectorCartridge = autoinjector cartridge
-    .desc = Used in a cartridge autoinjector.
+ent-BaseAutoinjectorCartridge = картридж автоинъектора
+    .desc = Используется в картриджном автоинъекторе.
 
-ent-CartridgeEpinephrine = adrenaline autoinjector cartridge
-    .desc = Contains 7u of epinephrine and 3u of tranexamic acid, used in a cartridge autoinjector.
+ent-CartridgeEpinephrine = адреналиновый картридж автоинъектора
+    .desc = Содержит 7ед. эпинефрина и 3ед. транексамовой кислоты. Используется в картриджном автоинъекторе.
 
-ent-CartridgeSaline = airloss autoinjector cartridge
-    .desc = Contains 7u of saline and 3u of dexalin plus, used in a cartridge autoinjector.
+ent-CartridgeSaline = картридж автоинъектора от удушья
+    .desc = Содержит 7ед. физраствора и 3ед. дексалина плюс. Используется в картриджном автоинъекторе.
 
-ent-CartridgeBicaridine = brute autoinjector cartridge
-    .desc = Contains 4u of bicaridine, 4u of ibuprofen, 1 unit of salicylic acid and 1u of tranexamic acid, used in a cartridge autoinjector.
+ent-CartridgeBicaridine = картридж автоинъектора от механических травм
+    .desc = Содержит 4ед. бикаридина, 4ед. ибупрофена, 1 единицу салициловой кислоты и 1ед. транексамовой кислоты. Используется в картриджном автоинъекторе.
 
-ent-CartridgeDermaline = burn autoinjector cartridge
-    .desc = Contains 5u of kelotane, 4u of dermaline 1u of leporazine, used in a cartridge autoinjector.
+ent-CartridgeDermaline = картридж автоинъектора от ожогов
+    .desc = Содержит 5ед. келотана, 4ед. дермалина и 1ед. лепоразина. Используется в картриджном автоинъекторе.
 
-ent-CartridgeAtropine = emergency autoinjector cartridge
-    .desc = Contains 10u of atropine, used in a cartridge autoinjector.
+ent-CartridgeAtropine = экстренный картридж автоинъектора
+    .desc = Содержит 10ед. атропина. Используется в картриджном автоинъекторе.
 
-ent-CartridgePuncturase = piercing autoinjector cartridge
-    .desc = Contains 10u of puncturase, used in a cartridge autoinjector.
+ent-CartridgePuncturase = картридж автоинъектора от колотых ран
+    .desc = Содержит 10ед. пунктураза. Используется в картриджном автоинъекторе.
 
-ent-CartridgeEphedrine = stimulant autoinjector cartridge
-    .desc = Contains 10u of ephedrine, used in a cartridge autoinjector.
+ent-CartridgeEphedrine = стимулирующий картридж автоинъектора
+    .desc = Содержит 10ед. эфедрина. Используется в картриджном автоинъекторе.
 
-ent-CartridgeTirizene = sedative autoinjector cartridge
-    .desc = Contains 4u of tirizene, 3u of impedrezene and 3u of haloperidol, used in a cartridge autoinjector.
+ent-CartridgeTirizene = седативный картридж автоинъектора
+    .desc = Содержит 4ед. тиризена, 3ед. импедрезена и 3ед. галоперидола. Используется в картриджном автоинъекторе.
 
-ent-StasiziumAutoInjector = futuristic medipen
-    .desc = A dose of medicinal substances from the future that can raise even the dead to their feet.
-    .suffix = DO NOT MAP
+ent-StasiziumAutoInjector = футуристичный медипен
+    .desc = Доза лекарственных веществ из будущего, способная поставить на ноги даже мёртвых.
+    .suffix = НЕ МАППИТЬ
 
-ent-CentcommStimpack = centcomm advanced stimulant
-    .desc = According to a Nanotrasen funded study, it has zero addictive properties.
-    .suffix = DO NOT MAP
+ent-CentcommStimpack = усовершенствованный стимулятор цк
+    .desc = По данным исследования, оплаченного NanoTrasen, совсем не вызывает привыкания.
+    .suffix = НЕ МАППИТЬ
 
-ent-AmbuzolMedipen = biohazard medipen
-    .desc = A safe and effective way to treat infections. Does not prevent re-infection.
-    .suffix = DO NOT MAP
+ent-AmbuzolMedipen = медипен против биоугроз
+    .desc = Безопасное и эффективное средство лечения инфекций. От повторного заражения не защищает.
+    .suffix = НЕ МАППИТЬ
 
-ent-AmbuzolPlusMedipen = advanced biohazard medipen
-    .desc = A safer and extremely effective way to treat any infections. Prevents re-infection.
-    .suffix = DO NOT MAP
+ent-AmbuzolPlusMedipen = усовершенствованный медипен против биоугроз
+    .desc = Более безопасное и чрезвычайно эффективное средство лечения любых инфекций. Защищает от повторного заражения.
+    .suffix = НЕ МАППИТЬ
 
-ent-CentCommHypo = centcomm hypospray
-    .desc = Reserved for Nanotrasen's top doctors. It utilizes experimental bluespace technology.
+ent-CentCommHypo = гипоспрей цк
+    .desc = Предназначен для лучших врачей NanoTrasen. Использует экспериментальную блюспейс-технологию.

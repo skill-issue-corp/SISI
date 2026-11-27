@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-revert-polymorph-action-popup = This action is irreversible. Use it again to confirm.
+revert-polymorph-action-popup = Это действие необратимо. Повторите его для подтверждения.

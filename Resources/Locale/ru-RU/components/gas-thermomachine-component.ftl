@@ -5,11 +5,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-comp-gas-thermomachine-ui-title-freezer = Freezer
-comp-gas-thermomachine-ui-title-heater = Heater
+comp-gas-thermomachine-ui-title-freezer = Морозильник
+comp-gas-thermomachine-ui-title-heater = Нагреватель
 
-comp-gas-thermomachine-ui-temperature = Temperature (K):
+comp-gas-thermomachine-ui-temperature = Температура (К):
 
-gas-thermo-component-upgrade-heating = maximum temperature
-gas-thermo-component-upgrade-cooling = minimum temperature
-gas-thermo-component-upgrade-heat-capacity = heat capacity
+gas-thermo-component-upgrade-heating = максимальная температура
+gas-thermo-component-upgrade-cooling = минимальная температура
+gas-thermo-component-upgrade-heat-capacity = теплоёмкость

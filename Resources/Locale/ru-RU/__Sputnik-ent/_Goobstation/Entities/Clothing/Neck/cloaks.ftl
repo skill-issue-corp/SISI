@@ -1,29 +1,29 @@
-ent-ClothingNeckCloakHelldiver = salvage pure loyality cape
-    .desc = A representation of the thankfulness of those infinite crew whose wealthy existence we strive to ensure.
+ent-ClothingNeckCloakHelldiver = плащ беззаветной верности утилизатора
+    .desc = Символ благодарности той бесчисленной команды, чью обеспеченную жизнь мы стараемся устроить.
 
-ent-ClothingNeckCloakResonant = resonant cape
-    .desc = The stage calls for us. We should gladly play along.
+ent-ClothingNeckCloakResonant = резонансная накидка
+    .desc = Сцена зовёт нас. Мы должны с радостью подыграть.
 
-ent-ClothingNeckCloakCarp = carp cloak
-    .desc = Getting up to some fishy business are we?
+ent-ClothingNeckCloakCarp = карповый плащ
+    .desc = Закидываем удочку в мутные воды, да?
 
-ent-ClothingNeckCloakCarpAlt = carp cloak
-    .desc = Restricted to extraterrestrial entities. That means NOT you.
+ent-ClothingNeckCloakCarpAlt = карповый плащ
+    .desc = Только для внеземных существ. Это значит, что вам НЕЛЬЗЯ.
 
-ent-ClothingNeckCloakSanabi = brigadier general cloak
-    .desc = A tattered, yet imposing cloak, worn by elite warriors.
+ent-ClothingNeckCloakSanabi = плащ бригадного генерала
+    .desc = Потрёпанный, но внушительный плащ, который носят элитные воины.
 
-ent-ClothingNeckCloakVetCap = Veteran Captain's cloak
-    .desc = Captains Aura Cloak
+ent-ClothingNeckCloakVetCap = плащ Капитана-Ветерана
+    .desc = Плащ Капитанской Ауры
 
-ent-ClothingNeckCloakHighCommand = high central command cloak
-    .desc = A magnificent green cloak featuring luxurious gold-lined edges.
+ent-ClothingNeckCloakHighCommand = плащ высших чинов центрального командования
+    .desc = Великолепный зелёный плащ с роскошной золотой каймой.
 
-ent-ClothingNeckCloakHighCommandCape = high central command cape
-    .desc = A lavish green-and-red cape decorated with gold trim and ornate epaulettes.
+ent-ClothingNeckCloakHighCommandCape = накидка высших чинов центрального командования
+    .desc = Роскошная зелёно-красная накидка с золотой отделкой и изящными эполетами.
 
-ent-ClothingNeckCloakGoldenCentComm = gilded central command cloak
-    .desc = A luxurious gold-gilded cloak worn by the highest-ranking officials.
+ent-ClothingNeckCloakGoldenCentComm = позолоченный плащ центрального командования
+    .desc = Роскошный позолоченный плащ, который носят высшие должностные лица.
 
-ent-ClothingNeckCloakCentComPoncho = central command poncho
-    .desc = A regal green-and-black poncho embellished with rich golden accents.
+ent-ClothingNeckCloakCentComPoncho = пончо центрального командования
+    .desc = Величественное зелёно-чёрное пончо с богатой золотой отделкой.

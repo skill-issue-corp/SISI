@@ -1,28 +1,28 @@
-ent-SonicScrewdriver = sonic screwdriver
-    .desc = Wzzzzz....
-    .suffix = DO NOT MAP
+ent-SonicScrewdriver = звуковая отвёртка
+    .desc = Вззззз....
+    .suffix = НЕ МАППИТЬ
 
-ent-RCDChrono = futuristic RCD
-    .desc = A tool that can build a station from scratch in minutes.
+ent-RCDChrono = футуристичное РСУ
+    .desc = Инструмент, способный с нуля построить станцию за считаные минуты.
 
-ent-HandheldFax = handheld fax
-    .desc = A tool that can send ton of paper on Centcomm fax.
+ent-HandheldFax = портативный факс
+    .desc = Инструмент, способный отправить тонну бумаги на факс ЦК.
 
-ent-HandheldFaxNanorep = nanotrasen representative handheld fax
+ent-HandheldFaxNanorep = портативный факс представителя NanoTrasen
     .desc = { ent-HandheldFax.desc }
-    .suffix = Nanotrasen Representative
+    .suffix = Представитель NanoTrasen
 
-ent-HandheldFaxOfficial = CentComm official handheld fax
+ent-HandheldFaxOfficial = портативный факс должностного лица ЦК
     .desc = { ent-HandheldFax.desc }
-    .suffix = CentComm Official
+    .suffix = Представитель ЦК
 
-ent-MultitoolBorg = borg multitool
-    .desc = An advanced tool to copy, store, and send electrical pulses and signals through wires and machines.
+ent-MultitoolBorg = мультитул борга
+    .desc = Продвинутый инструмент для копирования, хранения и отправки электрических импульсов и сигналов через провода и машины.
 
-ent-RPDRecharging = experimental RPD
-    .desc = A bluespace-enhanced rapid piping device that passively generates its own compressed matter.
-    .suffix = AutoRecharge
+ent-RPDRecharging = экспериментальный РУП
+    .desc = Блюспейс-укладчик труб, который самостоятельно вырабатывает сжатую материю.
+    .suffix = АвтоПодзарядка
 
-ent-RCDRechargingCE = experimental RCD
-    .desc = Rapid Construction Device which creates compressed matter on the fly using an internal fabricator.
-    .suffix = AutoRecharge
+ent-RCDRechargingCE = экспериментальное РСУ
+    .desc = Ручное Строительное Устройство на ходу создаёт сжатое вещество с помощью встроенного фабрикатора.
+    .suffix = АвтоПодзарядка

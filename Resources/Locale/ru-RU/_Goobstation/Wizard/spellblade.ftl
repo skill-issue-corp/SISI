@@ -4,20 +4,20 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-spellblade-examine-enchantment = It is imbued with {$name} enchantment.
-spellblade-already-enchanted-message = Already enchanted!
+spellblade-examine-enchantment = На него наложены чары {$name}.
+spellblade-already-enchanted-message = Уже зачаровано!
 
-spellblade-enchantment-lightning-name = [color=lightblue]lightning[/color]
-spellblade-enchantment-lightning-desc = Lightning. This blade conducts arcane energy to arc between its victims. It also makes the user immune to shocks.
+spellblade-enchantment-lightning-name = [color=lightblue]молния[/color]
+spellblade-enchantment-lightning-desc = Молния. Клинок проводит магическую энергию, и между жертвами проскакивают разряды. Владелец неуязвим к поражению током.
 
-spellblade-enchantment-fire-name = [color=orange]fire[/color]
-spellblade-enchantment-fire-desc = Fire. This blade ignites on striking a foe, releasing a ball of fire. It also makes the wielder immune to fire.
+spellblade-enchantment-fire-name = [color=orange]огонь[/color]
+spellblade-enchantment-fire-desc = Огонь. Клинок вспыхивает при ударе по врагу, выпуская огненный шар. Владелец неуязвим к огню.
 
-spellblade-enchantment-bluespace-name = [color=blue]bluespace[/color]
-spellblade-enchantment-bluespace-desc = Bluespace. This blade will cut through the fabric of space, transporting its wielder over long distances to strike foes.
+spellblade-enchantment-bluespace-name = [color=blue]блюспейс[/color]
+spellblade-enchantment-bluespace-desc = Блюспейс. Клинок рассекает ткань пространства, перенося владельца на большое расстояние для удара по противникам.
 
-spellblade-enchantment-spacetime-name = [color=pink]spacetime[/color]
-spellblade-enchantment-spacetime-desc = Spacetime. This blade will slice faster but weaker, and will curse the target, slashing them a few seconds after they have not been swung at for each hit.
+spellblade-enchantment-spacetime-name = [color=pink]пространствовремя[/color]
+spellblade-enchantment-spacetime-desc = Пространствовремя. Клинок режет быстрее, но слабее, и проклинает цель. Когда по ней несколько секунд не махали клинком, за каждый удар она получает ещё один порез.
 
-spellblade-enchantment-forceshield-name = [color=cyan]forceshield[/color]
-spellblade-enchantment-forceshield-desc = Forceshield. This blade will partially shield you against attacks and stuns for a short duration after striking a foe.
+spellblade-enchantment-forceshield-name = [color=cyan]силовой щит[/color]
+spellblade-enchantment-forceshield-desc = Силовой щит. После удара по противнику клинок ненадолго частично защищает владельца от атак и оглушения.

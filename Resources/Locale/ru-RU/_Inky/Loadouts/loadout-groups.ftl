@@ -1,6 +1,6 @@
 ﻿# Detective
-loadout-group-detective-shoes = Detective shoes
+loadout-group-detective-shoes = Обувь детектива
 
 # Medical
-loadout-group-medical-glasses = Medical eyewear
+loadout-group-medical-glasses = Медицинские очки
 

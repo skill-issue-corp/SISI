@@ -1,8 +1,8 @@
-ent-BaseMagazineShotgunHeavy = ammo drum (2 gauge shells)
+ent-BaseMagazineShotgunHeavy = барабанный магазин (2 калибр ружейные)
     .desc = { ent-BaseItem.desc }
 
-ent-MagazineShotgunHeavy = ammo drum (2 gauge HE pellet)
+ent-MagazineShotgunHeavy = барабанный магазин (2 калибр ОФ картечь)
     .desc = { ent-BaseMagazineShotgunHeavy.desc }
 
-ent-MagazineShotgunHeavySlug = ammo drum (2 gauge HE slug)
+ent-MagazineShotgunHeavySlug = барабанный магазин (2 калибр ОФ пуля)
     .desc = { ent-BaseMagazineShotgunHeavy.desc }

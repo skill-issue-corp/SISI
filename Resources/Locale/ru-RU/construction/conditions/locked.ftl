@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Locked
-construction-examine-condition-unlock = First, [color=limegreen]unlock[/color] it.
-construction-examine-condition-lock = First, [color=red]lock[/color] it.
-construction-step-condition-unlock = It must be unlocked.
-construction-step-condition-lock = It must be locked.
+construction-examine-condition-unlock = Сначала [color=limegreen]разблокируйте[/color] это.
+construction-examine-condition-lock = Сначала [color=red]заблокируйте[/color] это.
+construction-step-condition-unlock = Это должно быть разблокировано.
+construction-step-condition-lock = Это должно быть заблокировано.

@@ -1,80 +1,80 @@
 ent-FoodMealBase = { ent-FoodInjectableBase }
-    .desc = A delicious meal, cooked with love.
+    .desc = Вкусное блюдо, приготовленное с любовью.
 
-ent-FoodMealPotatoLoaded = loaded baked potato
-    .desc = Totally baked.
+ent-FoodMealPotatoLoaded = печёный картофель с начинкой
+    .desc = Запечён по полной.
 
-ent-FoodMealFries = space fries
-    .desc = AKA, French Fries, Freedom Fries, etc.
+ent-FoodMealFries = космическая картошка фри
+    .desc = Также известна как Картофель Фри, Картофель Свободы и так далее.
 
-ent-FoodMealFriesCheesy = cheesy fries
-    .desc = Fries. Covered in cheese. Duh.
+ent-FoodMealFriesCheesy = картошка фри с сыром
+    .desc = Картошка фри. Под сыром. Ну да.
 
-ent-FoodMealFriesCarrot = carrot fries
-    .desc = Tasty fries from fresh carrots.
+ent-FoodMealFriesCarrot = морковь фри
+    .desc = Вкусная фри из свежей моркови.
 
-ent-FoodMealNachos = nachos
-    .desc = Chips from Space Mexico.
+ent-FoodMealNachos = начос
+    .desc = Чипсы из Космической Мексики.
 
-ent-FoodMealNachosCheesy = cheesy nachos
-    .desc = The delicious combination of nachos and melting cheese.
+ent-FoodMealNachosCheesy = начос с сыром
+    .desc = Восхитительное сочетание начос и плавленого сыра.
 
-ent-FoodMealNachosCuban = Cuban nachos
-    .desc = That's some dangerously spicy nachos.
+ent-FoodMealNachosCuban = Кубинские начос
+    .desc = До опасного острые начос.
 
-ent-FoodMealMint = mint
-    .desc = It's wafer thin.
+ent-FoodMealMint = мятная пластинка
+    .desc = Тоненькая как вафля.
 
-ent-FoodMealEggplantParm = eggplant parmigiana
-    .desc = The only good recipe for eggplant.
+ent-FoodMealEggplantParm = баклажаны пармиджана
+    .desc = Единственный хороший рецепт с баклажанами.
 
-ent-FoodMealPotatoYaki = yaki imo
-    .desc = Made with roasted sweet potatoes!
+ent-FoodMealPotatoYaki = яки-имо
+    .desc = Из запечённого батата!
 
-ent-FoodMealCubancarp = Cuban carp
-    .desc = A grifftastic sandwich that burns your tongue and then leaves it numb!
+ent-FoodMealCubancarp = Кубинский карп
+    .desc = Гриферский сэндвич, от которого язык сперва горит, а потом немеет!
 
-ent-FoodMealCornedbeef = corned beef and cabbage
-    .desc = Now you can feel like a real tourist vacationing in Ireland.
+ent-FoodMealCornedbeef = солонина с капустой
+    .desc = Теперь вы можете почувствовать себя настоящим туристом на отдыхе в Ирландии.
 
-ent-FoodMealBearsteak = filet migrawr
-    .desc = Because eating bear wasn't manly enough.
+ent-FoodMealBearsteak = филе мигрррон
+    .desc = Потому что есть медведя было недостаточно мужественно.
 
-ent-FoodMealPigblanket = pig in a blanket
-    .desc = A tiny sausage wrapped in a flakey, buttery roll. Free this pig from its blanket prison by eating it.
+ent-FoodMealPigblanket = поросёнок в одеяле
+    .desc = Маленькая сосиска в слоёной масляной булочке. Освободите поросёнка из плена одеяла, съев его.
 
-ent-FoodMealRibs = bbq ribs
-    .desc = BBQ ribs, slathered in a healthy coating of BBQ sauce. The least vegan thing to ever exist.
+ent-FoodMealRibs = рёбрышки барбекю
+    .desc = Рёбрышки Барбекю под щедрым слоем соуса Барбекю. Самое невеганское блюдо на свете.
 
-ent-FoodMealEggsbenedict = eggs benedict
-    .desc = There is only one egg on this, how rude.
+ent-FoodMealEggsbenedict = яйца бенедикт
+    .desc = Тут всего одно яйцо. Какая грубость.
 
-ent-FoodMealOmelette = cheese omelette
-    .desc = Cheesy.
+ent-FoodMealOmelette = омлет с сыром
+    .desc = Сырно.
 
-ent-FoodMealFriedegg = fried egg
-    .desc = A fried egg, with a touch of salt and pepper.
+ent-FoodMealFriedegg = яичница
+    .desc = Жареное яйцо с щепоткой соли и перца.
 
-ent-FoodMealMilkape = milk ape
-    .desc = The king of Jungle Thick.
+ent-FoodMealMilkape = молочная обезьяна
+    .desc = Король густых Джунглей.
 
-ent-FoodMealMemoryleek = memory leek
-    .desc = This should refresh your memory.
+ent-FoodMealMemoryleek = лук-порей памяти
+    .desc = Это должно освежить вашу память.
 
-ent-DisgustingSweptSoup = salty sweet miso cola soup
-    .desc = Jesus christ.
+ent-DisgustingSweptSoup = солёно-сладкий мисо-суп с колой
+    .desc = Боже правый.
 
-ent-FoodMealQueso = queso
-    .desc = A classic dipping sauce that you can't go wrong with.
+ent-FoodMealQueso = кесо
+    .desc = Классический соус, в который можно макать что угодно.
 
-ent-FoodMealSashimi = sashimi
-    .desc = Its taste can only be described as "Exotic". The poisoning though? That's pretty common.
+ent-FoodMealSashimi = сашими
+    .desc = Его вкус можно описать только как «Экзотический». А отравление? Вполне обычное.
 
-ent-FoodMealEnchiladas = enchiladas
-    .desc = Viva La Mexico!
+ent-FoodMealEnchiladas = энчилады
+    .desc = Да Здравствует Мексика!
 
-ent-FoodSaladWatermelonFruitBowl = melon fruit bowl
-    .desc = The only salad where you can eat the bowl.
+ent-FoodSaladWatermelonFruitBowl = фруктовый салат в арбузе
+    .desc = Единственный салат, у которого можно съесть миску.
 
-ent-FoodMealCornInButter = corn in butter
-    .desc = Buttery.
+ent-FoodMealCornInButter = кукуруза в масле
+    .desc = Масляная.

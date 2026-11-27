@@ -1,2 +1,2 @@
-ent-LidSalami = salami lid
-    .desc = Ain't gon' fit, won't fit.
+ent-LidSalami = крышка от салями
+    .desc = Не влезет, ну никак не влезет.

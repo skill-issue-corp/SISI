@@ -1,2 +1,2 @@
-ent-Stunprod = stun prod
-    .desc = A stun prod for illegal incapacitation.
+ent-Stunprod = шоковый тычок
+    .desc = Шоковый тычок для незаконного обездвиживания.

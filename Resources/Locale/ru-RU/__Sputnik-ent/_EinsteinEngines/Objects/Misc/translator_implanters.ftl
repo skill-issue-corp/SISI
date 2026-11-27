@@ -1,42 +1,42 @@
-ent-BaseTranslatorImplanter = translator implanter
+ent-BaseTranslatorImplanter = имплантер переводчика
     .desc = { ent-BaseImplantOnlyImplanter.desc }
 
 ent-BasicGalaticCommonTranslatorImplanter = { ent-BaseTranslatorImplanter }
     .desc = { ent-BaseTranslatorImplanter.desc }
-    .suffix = Basic Common
+    .suffix = Галактический Общий (Базовый)
 
 ent-AdvancedGalaticCommonTranslatorImplanter = { ent-BaseTranslatorImplanter }
     .desc = { ent-BaseTranslatorImplanter.desc }
-    .suffix = Advanced Common
+    .suffix = Галактический Общий (Продвинутый)
 
 ent-BubblishTranslatorImplanter = { ent-BaseTranslatorImplanter }
     .desc = { ent-BaseTranslatorImplanter.desc }
-    .suffix = Bubblish
+    .suffix = Уб'Мола'Р-иен
 
 ent-DraconicTranslatorImplanter = { ent-BaseTranslatorImplanter }
     .desc = { ent-BaseTranslatorImplanter.desc }
-    .suffix = Draconic
+    .suffix = Имперский Дракон
 
 ent-SolCommonTranslatorImplanter = { ent-BaseTranslatorImplanter }
     .desc = { ent-BaseTranslatorImplanter.desc }
-    .suffix = Sol-Common
+    .suffix = ЗемлеГен
 
 ent-NovuNedericTranslatorImplanter = { ent-BaseTranslatorImplanter }
     .desc = { ent-BaseTranslatorImplanter.desc }
-    .suffix = Novu-Nederic
+    .suffix = Терралингва
 
 ent-RootSpeakTranslatorImplanter = { ent-BaseTranslatorImplanter }
     .desc = { ent-BaseTranslatorImplanter.desc }
-    .suffix = Root-Speak
+    .suffix = Корнеречь
 
 ent-MofficTranslatorImplanter = { ent-BaseTranslatorImplanter }
     .desc = { ent-BaseTranslatorImplanter.desc }
-    .suffix = Moffic
+    .suffix = Объединённый Гудфик
 
 ent-AzazibaTranslatorImplanter = { ent-BaseTranslatorImplanter }
     .desc = { ent-BaseTranslatorImplanter.desc }
-    .suffix = Azaziba
+    .suffix = Синта'Азазиба
 
 ent-NewKinPidginTranslatorImplanter = { ent-BaseTranslatorImplanter }
     .desc = { ent-BaseTranslatorImplanter.desc }
-    .suffix = Ka'Rakk
+    .suffix = Ка'Ракк

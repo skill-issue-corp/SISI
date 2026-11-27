@@ -1,14 +1,14 @@
-ent-RandomHumanoidSpawnerChronolegioneer = chrono legionnaire
+ent-RandomHumanoidSpawnerChronolegioneer = хронолегионер
     .desc = { "" }
 
-ent-RandomHumanoidHECUSpawner = HECU Operative
+ent-RandomHumanoidHECUSpawner = Оперативник HECU
     .desc = { "" }
-    .suffix = ERTRole
+    .suffix = Роль ОБР
 
-ent-TheGmanSpawer = The G-Man
+ent-TheGmanSpawer = Джи-Мэн
     .desc = { "" }
-    .suffix = Admeme
+    .suffix = Адмеме
 
-ent-ConquestSpawner = Conquest
+ent-ConquestSpawner = Конквест
     .desc = { "" }
-    .suffix = Admeme
+    .suffix = Адмеме

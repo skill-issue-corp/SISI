@@ -1,50 +1,50 @@
 ent-ActionBaseWerewolf = { "" }
     .desc = { "" }
 
-ent-ActionWerewolfHowl = Howl
-    .desc = Scream as loud as you can, stunning everyone in radius.
+ent-ActionWerewolfHowl = Завыть
+    .desc = Кричите как можно громче, чтобы оглушить всех поблизости.
 
-ent-ActionWerewolfTransfurm = Transfurm
-    .desc = Transfurm into a werewolf. Be warned as you can transfurm back only after 2 minutes.
+ent-ActionWerewolfTransfurm = Обшерститься
+    .desc = Обшерститесь в оборотня. Учтите, что расшерститься можно только через 2 минуты.
 
-ent-ActionWerewolfOpenMutationStore = Open mutation store
-    .desc = Open the mutation menu.
+ent-ActionWerewolfOpenMutationStore = Открыть магазин мутаций
+    .desc = Откройте меню мутаций.
 
-ent-PulseThermalVisionWerewolf = Heightened Senses
-    .desc = Gives you 10 seconds of thermal vision
+ent-PulseThermalVisionWerewolf = Обострённые Чувства
+    .desc = Даёт 10 секунд теплового зрения
 
-ent-ActionWerewolfAbsorb = Bite
-    .desc = Bite and rip a limb from your fellow comrade for points.
+ent-ActionWerewolfAbsorb = Укусить
+    .desc = Укусите товарища и оторвите ему конечность, чтобы получить очки.
 
-ent-ActionWerewolfGut = Gut
-    .desc = Spills one of the chest organs of a deceased crew member onto the floor. Organs that are produced from this ability grant you Fury.
+ent-ActionWerewolfGut = Выпотрошить
+    .desc = Выбрасывает один орган из грудной клетки погибшего члена экипажа на пол. Полученные таким образом органы дают вам Ярость.
 
-ent-ActionWerewolfRegen = increased metabolism
-    .desc = Increase your metabolism, providing healing at the cost of a lot of hunger.
+ent-ActionWerewolfRegen = ускоренный метаболизм
+    .desc = Ускорьте метаболизм, чтобы восстановить здоровье ценой сильного голода.
 
-ent-ActionWerewolfJump = Jump
-    .desc = Stun your enemies with a quick jump. Costs 30 hunger.
+ent-ActionWerewolfJump = Прыгнуть
+    .desc = Оглушите врагов быстрым прыжком. Стоит 30 единиц сытости.
 
-ent-ActionWerewolfHowlDire = Roar
-    .desc = Scream as loud as you can, stunning everyone in radius.
+ent-ActionWerewolfHowlDire = Рыкнуть
+    .desc = Кричите как можно громче, чтобы оглушить всех поблизости.
 
-ent-ActionWerewolfBiteDire = Bleeding bite
-    .desc = Sink your canines into a victim, and steal 30% of their blood. This will heal you slightly.
+ent-ActionWerewolfBiteDire = Кровоточащий укус
+    .desc = Вонзите клыки в жертву и заберите 30% её крови. Это немного вас исцелит.
 
-ent-ActionWerewolfTransfurmWhite = Transfurm
-    .desc = Transfurm into a werewolf. Be warned as you can transfurm back only after 2 minutes.
+ent-ActionWerewolfTransfurmWhite = Обшерститься
+    .desc = Обшерститесь в оборотня. Учтите, что расшерститься можно только через 2 минуты.
 
-ent-ActionWerewolfBiteBlack = Bleeding bite
-    .desc = Bite a victim, causing massive blood loss. Has a 50% chance to infect the victim into a Werewolf under your rule.
+ent-ActionWerewolfBiteBlack = Кровоточащий укус
+    .desc = Укусите жертву, вызвав сильную кровопотерю. С вероятностью 50% жертва обратится в подчинённого вам Оборотня.
 
-ent-ActionWerewolfHowlBlack = Alpha order
-    .desc = Howl and command every werewolf in radius to transform into their superior form, and heal those who already are transformed.
+ent-ActionWerewolfHowlBlack = Приказ вожака
+    .desc = Завойте и прикажите всем оборотням поблизости принять высшую форму, а тех, кто уже превратился, исцелите.
 
-ent-ActionWerewolfBeckon = Beckon
-    .desc = Silently transmits your location to your allied Werewolves
+ent-ActionWerewolfBeckon = Созвать стаю
+    .desc = Бесшумно передаёт ваше местоположение союзным Оборотням
 
-ent-ActionWerewolfBequeath = Bequeath
-    .desc = Crown an Unmutated Werewolf in your pack to become the next Black Wolf in case of your death.
+ent-ActionWerewolfBequeath = Назначить преемника
+    .desc = Назначьте Немутировавшего Оборотня из вашей стаи следующим Чёрным Волком на случай вашей смерти.
 
-ent-ActionWerewolfBlackCall = Black Call
-    .desc = Force transform yourself, and everyone in your pack, permamently. Doubles you and your packs health. Requires a minimum of 4 pack members to use.
+ent-ActionWerewolfBlackCall = Чёрный Зов
+    .desc = Принудительно и навсегда превращает вас и всю вашу стаю. Удваивает здоровье вам и членам вашей стаи. Для применения нужно не менее 4 членов стаи.

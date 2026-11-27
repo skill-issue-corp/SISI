@@ -1,39 +1,39 @@
-influence-type-active = Active
-influence-type-passive = Passive
+influence-type-active = Активное
+influence-type-passive = Пассивное
 
 ## ACTIVE INFLUENCES
-influence-name-lapse = Aberrant Lapse
-influence-description-lapse = Lapse an individual's form, rendering them temporarily imperceptible, unable to move or act. Cultists can exit the lapse at will.
+influence-name-lapse = Аберрантный Разлом
+influence-description-lapse = Разорвите телесную форму цели, временно сделав её незаметной и неспособной двигаться или действовать. Культисты могут покинуть разлом по своей воле.
 
-influence-name-glare = Null Glare
-influence-description-glare = Emit a horrific pulse of cosmic light, slowing and disorienting everyone around you, regardless of protection. Ignores other cultists.
-influence-description-glare-upgrade = When empowered, the range is amplified, and the light becomes so strong it knocks people down briefly.
+influence-name-glare = Нулевое Сияние
+influence-description-glare = Испустите ужасающий импульс космического света, который замедляет и дезориентирует окружающих, невзирая на защиту. На других культистов не действует.
+influence-description-glare-upgrade = С обретением могущества дальность увеличивается, а свет становится таким сильным, что ненадолго сбивает с ног.
 
-influence-name-shunt = Shunt Subjectivity
-influence-description-shunt = Shunt your target's mind out of their body and unto the cosmic dark, temporarily rendering their body mindless.
+influence-name-shunt = Вытолкнуть Сознание
+influence-description-shunt = Вытолкните разум цели из тела в космическую тьму, на время оставив тело без сознания.
 
-influence-name-ingress = Force ingress
-influence-description-ingress = Use a concentrated effort of power to blast open any lock, be that a door, a closet, or anything else.
-influence-description-ingress-upgrade = When empowered, even bolted doors won't stand in your way.
+influence-name-ingress = Силовой взлом
+influence-description-ingress = Сконцентрируйте силу и вскройте любой замок, будь то дверь, шкаф или что угодно ещё.
+influence-description-ingress-upgrade = С обретением могущества даже заблокированные двери не преградят вам путь.
 
-influence-name-nova = Astral Nova
-influence-description-nova = Hurl a large and disruptive blast of astral energy that damages, paralyzes, and draws in everything in its path.
+influence-name-nova = Астральная Нова
+influence-description-nova = Обрушьте мощный разрушительный заряд астральной энергии, который ранит, парализует и притягивает всё на своём пути.
 
-influence-name-imposition = Vacuous Imposition
-influence-description-imposition = For a short time, your corporeal form becomes a conduit of cosmic power - negating any incoming damage.
-influence-description-imposition-upgrade = If empowered, cosmic power would stay in your body for a little while longer.
+influence-name-imposition = Пустотное Наложение
+influence-description-imposition = Ваша телесная форма ненадолго становится проводником космической силы и поглощает весь входящий урон.
+influence-description-imposition-upgrade = С обретением могущества космическая сила задержится в вашем теле чуть дольше.
 
-influence-name-conversion = Shatter Cognition
-influence-description-conversion = Instill true, indellible knowledge upon a wayward individual, leaving them no choice but to join your cause. Single use.
+influence-name-conversion = Раскол Сознания
+influence-description-conversion = Внушите заблудшему истинное, неизгладимое знание. У него не останется выбора, кроме как присоединиться к вам. Одно применение.
 
-influence-name-transmutation = Corrupt Matter
-influence-description-transmutation = Channel malign energy into an object in your palm, twisting it into something else.
-influence-description-transmutation-upgrade = If empowered, you may forge even more sophisticated items.
+influence-name-transmutation = Осквернить Материю
+influence-description-transmutation = Направьте зловещую энергию в предмет, который держите в руке, и преобразуйте его во что-то иное.
+influence-description-transmutation-upgrade = С обретением могущества вы сможете создавать ещё более сложные предметы.
 
-influence-name-stride = Astral Stride
-influence-description-stride = Astral energy invigorates your every move, allowing you to move at incredible speed for a brief duration.
-influence-description-stride-upgrade = If empowered, cosmic power would stay in your body for a little while longer.
+influence-name-stride = Астральный Шаг
+influence-description-stride = Астральная энергия придаёт вашим движениям стремительность, ненадолго позволяя двигаться с невероятной скоростью.
+influence-description-stride-upgrade = С обретением могущества космическая сила задержится в вашем теле чуть дольше.
 
 ## PASSIVE INFLUENCES
-influence-name-step = Unbound Step
-influence-description-step = You move relative only to the starless black - your movement is no longer affected by gravity.
+influence-name-step = Освобождённый Шаг
+influence-description-step = Вы движетесь относительно лишь беззвёздной тьмы — гравитация больше не влияет на ваши движения.

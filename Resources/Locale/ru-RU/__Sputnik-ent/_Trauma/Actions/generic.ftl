@@ -1,2 +1,2 @@
-ent-ActionFullBright = Fullbright
-    .desc = Activates X-Ray Vision.
+ent-ActionFullBright = Полное Освещение
+    .desc = Активирует Рентгеновское Зрение.

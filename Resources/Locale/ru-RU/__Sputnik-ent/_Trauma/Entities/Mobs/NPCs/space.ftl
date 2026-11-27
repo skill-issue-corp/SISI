@@ -1,21 +1,21 @@
-ent-MobCobraSpaceVent = space cobra
-    .desc = Long fangs and a glowing hood, and the alluring look begs to come closer.
-    .suffix = DO NOT MAP
+ent-MobCobraSpaceVent = космическая кобра
+    .desc = Длинные клыки и светящийся капюшон, а её притягательный взгляд так и зовёт подойти поближе.
+    .suffix = НЕ МАППИТЬ
 
-ent-MobBearSea = sea bear
+ent-MobBearSea = морской медведь
     .desc = { ent-MobBearSpace.desc }
 
-ent-MobSquidSea = sea squid
+ent-MobSquidSea = морской кальмар
     .desc = { ent-MobKangarooSpace.desc }
 
-ent-MobSpiderCrabSea = spider crab
-    .desc = It looks dangerous.
+ent-MobSpiderCrabSea = краб-паук
+    .desc = Выглядит опасно.
 
-ent-MobKraitSea = krait cobra
-    .desc = Beautiful colours and hypnotising moves, and the alluring eyes beg to come closer.
+ent-MobKraitSea = крайт
+    .desc = Красивый окрас и завораживающие движения, а её притягательные глаза так и зовут подойти поближе.
 
-ent-BaseMobArcher = archer fish
-    .desc = It's an archer fish.
+ent-BaseMobArcher = рыба-брызгун
+    .desc = Это рыба-брызгун.
 
-ent-MobArcherSea = archer fish
+ent-MobArcherSea = рыба-брызгун
     .desc = { ent-BaseMobArcher.desc }

@@ -1,7 +1,7 @@
-ent-CaneBladeLibrarian = cane blade
-    .desc = A sharp blade with a cane shaped hilt. Folded 5000 times, just to flex on ninjas.
-    .suffix = Libarian
+ent-CaneBladeLibrarian = трость-клинок
+    .desc = Острый клинок с рукоятью в форме трости. Сложен 5000 раз, чтобы выпендриться перед ниндзя.
+    .suffix = Библиотекарь
 
 ent-CaneSheathFilledLibrarian = { ent-CaneSheath }
     .desc = { ent-CaneSheath.desc }
-    .suffix = Filled, Libarian
+    .suffix = Наполненный, Библиотекарь

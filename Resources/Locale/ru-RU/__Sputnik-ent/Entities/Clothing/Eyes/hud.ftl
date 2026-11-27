@@ -7,72 +7,72 @@ ent-ShowSecurityIcons = { "" }
 ent-ShowMedicalIcons = { "" }
     .desc = { "" }
 
-ent-ClothingEyesHudDiagnostic = diagnostic hud
-    .desc = A heads-up display capable of analyzing the integrity and status of robotics and exosuits. Made out of see-borg-ium.
+ent-ClothingEyesHudDiagnostic = диагностический визор
+    .desc = Визор, способный анализировать целостность и состояние роботов и экзокостюмов. Сделан из вижу-борг-ия.
 
-ent-ClothingEyesHudMedical = medical hud
-    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their health status.
+ent-ClothingEyesHudMedical = медицинский визор
+    .desc = Визор сканирует гуманоидов в поле зрения и показывает точные данные об их здоровье.
 
-ent-ClothingEyesHudSecurity = security hud
-    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their ID status and security records.
+ent-ClothingEyesHudSecurity = визор службы безопасности
+    .desc = Визор сканирует гуманоидов в поле зрения и показывает точные данные о статусе их ID-карт и записях службы безопасности.
 
-ent-ClothingEyesHudCommand = administration hud
-    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their ID status.
+ent-ClothingEyesHudCommand = визор командования
+    .desc = Визор сканирует гуманоидов в поле зрения и показывает точные данные о статусе их ID-карт.
 
-ent-ClothingEyesHudBeer = beer goggles
-    .desc = A pair of sunHud outfitted with apparatus to scan reagents, as well as providing an innate understanding of liquid viscosity while in motion.
+ent-ClothingEyesHudBeer = пивные очки
+    .desc = Солнцезащитный визор с устройством для сканирования реагентов, а также врождённым пониманием вязкости жидкостей на ходу.
 
-ent-ClothingEyesHudFriedOnion = fried onion goggles
-    .desc = Filler
+ent-ClothingEyesHudFriedOnion = очки жареного лука
+    .desc = Заглушка
 
-ent-ClothingEyesHudOnionBeer = thungerst goggles
-    .desc = Filler
+ent-ClothingEyesHudOnionBeer = очки голожажды
+    .desc = Заглушка
 
-ent-ClothingEyesHudMedOnion = medonion hud
-    .desc = Filler
+ent-ClothingEyesHudMedOnion = медолуковый визор
+    .desc = Заглушка
 
-ent-ClothingEyesHudMedOnionBeer = medthungerst hud
-    .desc = Filler
+ent-ClothingEyesHudMedOnionBeer = медицинский визор голожажды
+    .desc = Заглушка
 
-ent-ClothingEyesHudMedSec = medsec hud
-    .desc = An eye display that looks like a mixture of medical and security huds.
+ent-ClothingEyesHudMedSec = медико-охранный визор
+    .desc = Визор, похожий на смесь медицинского визора и визора службы безопасности.
 
-ent-ClothingEyesHudMultiversal = multiversal hud
-    .desc = Filler
+ent-ClothingEyesHudMultiversal = мультивселенский визор
+    .desc = Заглушка
 
-ent-ClothingEyesHudOmni = omni hud
-    .desc = Filler
+ent-ClothingEyesHudOmni = омнивизор
+    .desc = Заглушка
 
-ent-ClothingEyesHudSyndicate = syndicate visor
-    .desc = The syndicate's professional head-up display, designed for better detection of humanoids and their subsequent elimination.
+ent-ClothingEyesHudSyndicate = визор синдиката
+    .desc = Профессиональный визор синдиката для более эффективного обнаружения гуманоидов и их последующего устранения.
 
-ent-ClothingEyesHudSyndicateAgent = syndicate medical visor
-    .desc = The Syndicate Corpsman's professional heads-up display, designed for quick diagnosis of their team's status.
+ent-ClothingEyesHudSyndicateAgent = медицинский визор синдиката
+    .desc = Профессиональный визор Санитара Синдиката для быстрой оценки состояния команды.
 
 ent-ClothingEyesGlassesHiddenSecurity = { ent-ClothingEyesGlassesSunglasses }
     .desc = { ent-ClothingEyesGlassesSunglasses.desc }
-    .suffix = Syndicate
+    .suffix = Синдикат
 
-ent-ClothingEyesEyepatchHudMedical = medical hud eyepatch
-    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their health status. For true patriots.
+ent-ClothingEyesEyepatchHudMedical = медицинская повязка-визор
+    .desc = Визор сканирует гуманоидов в поле зрения и показывает точные данные об их здоровье. Для настоящих патриотов.
 
-ent-ClothingEyesEyepatchHudMedicalFlipped = medical hud eyepatch
+ent-ClothingEyesEyepatchHudMedicalFlipped = медицинская повязка-визор
     .desc = { ent-ClothingEyesEyepatchHudMedical.desc }
 
-ent-ClothingEyesEyepatchHudSecurity = security hud eyepatch
-    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their ID status and security records. For true patriots.
+ent-ClothingEyesEyepatchHudSecurity = повязка-визор службы безопасности
+    .desc = Визор сканирует гуманоидов в поле зрения и показывает точные данные о статусе их ID-карт и записях службы безопасности. Для настоящих патриотов.
 
-ent-ClothingEyesEyepatchHudSecurityFlipped = security hud eyepatch
+ent-ClothingEyesEyepatchHudSecurityFlipped = повязка-визор службы безопасности
     .desc = { ent-ClothingEyesEyepatchHudSecurity.desc }
 
-ent-ClothingEyesEyepatchHudBeer = beer hud eyepatch
-    .desc = A pair of sunHud outfitted with apparatus to scan reagents, as well as providing an innate understanding of liquid viscosity while in motion. For true patriots.
+ent-ClothingEyesEyepatchHudBeer = пивная повязка-визор
+    .desc = Солнцезащитный визор с устройством для сканирования реагентов, а также врождённым пониманием вязкости жидкостей на ходу. Для настоящих патриотов.
 
-ent-ClothingEyesEyepatchHudBeerFlipped = beer hud eyepatch
+ent-ClothingEyesEyepatchHudBeerFlipped = пивная повязка-визор
     .desc = { ent-ClothingEyesEyepatchHudBeer.desc }
 
-ent-ClothingEyesEyepatchHudDiag = diagnostic hud eyepatch
-    .desc = A heads-up display capable of analyzing the integrity and status of robotics and exosuits. Made out of see-borg-ium.
+ent-ClothingEyesEyepatchHudDiag = диагностическая повязка-визор
+    .desc = Визор, способный анализировать целостность и состояние роботов и экзокостюмов. Сделан из вижу-борг-ия.
 
-ent-ClothingEyesEyepatchHudDiagFlipped = diagnostic hud eyepatch
+ent-ClothingEyesEyepatchHudDiagFlipped = диагностическая повязка-визор
     .desc = { ent-ClothingEyesEyepatchHudDiag.desc }

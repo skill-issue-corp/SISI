@@ -1,5 +1,5 @@
-ent-BaseMobShadowlingAscendant = shadowling ascendant
-    .desc = A shadowling ascendant. If you're seeing this, you're probably dead.
+ent-BaseMobShadowlingAscendant = вознесённый тенеморф
+    .desc = Вознесённый тенеморф. Если вы это видите, то, скорее всего, уже мертвы.
 
-ent-BaseMobShadowlingAscendantAdminSpawn = shadowling ascendant
-    .desc = A shadowling ascendant. If you're seeing this, you're probably dead.
+ent-BaseMobShadowlingAscendantAdminSpawn = вознесённый тенеморф
+    .desc = Вознесённый тенеморф. Если вы это видите, то, скорее всего, уже мертвы.

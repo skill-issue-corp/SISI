@@ -1,23 +1,23 @@
 command-description-body-insert =
-    Inserts the given organ into the body.
+    Вставляет указанный орган в тело.
 
 command-description-body-organs =
-    Returns all organs contained within the body.
+    Возвращает все органы, находящиеся в теле.
 
 command-description-organ-parent =
-    Returns the parent of the organ.
+    Возвращает родительский орган.
 
 command-description-organ-children =
-    Returns the children of the organ.
+    Возвращает дочерние органы.
 
 command-description-organ-detach =
-    (DEBUG ONLY) Detaches an organ from its current body into a detached body.
+    (ТОЛЬКО ДЛЯ DEBUG) Извлекает орган из текущего тела в отдельное тело.
 
 command-description-organ-attach =
-    Attaches an organ to another organ.
+    Присоединяет орган к другому органу.
 
 command-description-organ-is =
-    Returns if an organ is the given type.
+    Проверяет, относится ли орган к заданному типу.
 
 command-description-organ-of_type =
-    Filters to organs of the given type.
+    Отбирает органы указанного типа.

@@ -1,2 +1,2 @@
-ent-ContractorBaton = contractor baton
-    .desc = A compact, specialised baton assigned to Syndicate contractors. Applies light electrical shocks to targets.
+ent-ContractorBaton = дубинка наёмника синдиката
+    .desc = Компактная специальная дубинка для наёмников Синдиката. Поражает цели слабыми разрядами тока.

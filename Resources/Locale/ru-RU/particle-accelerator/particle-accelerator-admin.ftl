@@ -5,4 +5,4 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-particle-accelerator-admin-power-strength-warning = changed PA power of {$machine} to {$powerState} at coordinates: {$coordinates}
+particle-accelerator-admin-power-strength-warning = изменяет питание УЧ {$machine} на {$powerState} по координатам: {$coordinates}

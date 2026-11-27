@@ -1,74 +1,74 @@
 ent-BaseFoodCondiment = { ent-SolutionFood }
     .desc = { ent-SolutionFood.desc }
 
-ent-BaseFoodCondimentPacket = condiment packet
-    .desc = A small plastic pack with condiments to put on your food.
+ent-BaseFoodCondimentPacket = пакетик приправы
+    .desc = Маленький пластиковый пакетик с приправой к еде.
 
 ent-BaseFoodCondimentPacketDrink = { ent-BaseFoodCondimentPacket }
     .desc = { ent-BaseFoodCondimentPacket.desc }
 
-ent-FoodCondimentPacketAstrotame = Astrotame
-    .desc = The sweetness of a thousand sugars but none of the calories.
+ent-FoodCondimentPacketAstrotame = Астротам
+    .desc = Сладость тысячи порций сахара и ни одной калории.
 
-ent-FoodCondimentPacketBbq = BBQ sauce
-    .desc = Hand wipes not included.
+ent-FoodCondimentPacketBbq = соус барбекю
+    .desc = Салфетки для рук в комплект не входят.
 
-ent-FoodCondimentPacketCornoil = corn oil
-    .desc = Corn oil. A delicious oil used in cooking. Made from corn.
+ent-FoodCondimentPacketCornoil = кукурузное масло
+    .desc = Кукурузное масло. Вкусное кулинарное масло. Из кукурузы.
 
-ent-FoodCondimentPacketColdsauce = coldsauce
-    .desc = Coldsauce. Leaves the tongue numb in its passage.
+ent-FoodCondimentPacketColdsauce = холодный соус
+    .desc = Холодный соус. Оставляет язык онемевшим.
 
-ent-FoodCondimentPacketHorseradish = horseradish sauce
-    .desc = A packet of smelly horseradish sauce.
+ent-FoodCondimentPacketHorseradish = соус с хреном
+    .desc = Пакетик пахучего соуса из хрена.
 
-ent-FoodCondimentPacketHotsauce = hotsauce
-    .desc = You can almost TASTE the stomach ulcers now!
+ent-FoodCondimentPacketHotsauce = острый соус
+    .desc = Вы уже почти ЧУВСТВУЕТЕ ВКУС язвы желудка!
 
-ent-FoodCondimentPacketKetchup = ketchup
-    .desc = You feel more American already.
+ent-FoodCondimentPacketKetchup = кетчуп
+    .desc = Вы уже чувствуете себя чуть больше Американцем.
 
-ent-FoodCondimentPacketMustard = mustard
-    .desc = A condiment made from the ground-up seeds of the Mustard plant.
+ent-FoodCondimentPacketMustard = горчица
+    .desc = Приправа из молотых семян Горчицы.
 
-ent-FoodCondimentPacketPepper = black pepper
-    .desc = Often used to flavor food or make people sneeze.
+ent-FoodCondimentPacketPepper = чёрный перец
+    .desc = Часто используется, чтобы придать вкус еде или заставить кого-нибудь чихнуть.
 
-ent-FoodCondimentPacketSalt = salt
-    .desc = Salt. From space oceans, presumably.
+ent-FoodCondimentPacketSalt = соль
+    .desc = Соль. Предположительно из космических океанов.
 
-ent-FoodCondimentPacketSoy = soy sauce
-    .desc = A salty soy-based flavoring.
+ent-FoodCondimentPacketSoy = соевый соус
+    .desc = Солёная приправа на основе сои.
 
-ent-FoodCondimentPacketSugar = sugar
-    .desc = Tasty spacey sugar!
+ent-FoodCondimentPacketSugar = сахар
+    .desc = Вкусный космический сахар!
 
-ent-BaseFoodCondimentBottle = condiment bottle
-    .desc = A thin glass bottle used to store condiments.
+ent-BaseFoodCondimentBottle = бутылочка для приправ
+    .desc = Тонкая стеклянная бутылочка для хранения приправ.
 
-ent-FoodCondimentBottleColdsauce = coldsauce bottle
-    .desc = Leaves the tongue numb in its passage.
+ent-FoodCondimentBottleColdsauce = бутылочка холодного соуса
+    .desc = Оставляет язык онемевшим.
 
-ent-FoodCondimentBottleEnzyme = universal enzyme
-    .desc = Used in cooking various dishes.
+ent-FoodCondimentBottleEnzyme = универсальный фермент
+    .desc = Используется для приготовления разных блюд.
 
-ent-FoodCondimentBottleVinegar = vinegar bottle
-    .desc = Used in cooking to enhance flavor.
+ent-FoodCondimentBottleVinegar = бутылочка уксуса
+    .desc = Используется в кулинарии для усиления вкуса.
 
-ent-FoodCondimentBottleHotsauce = hotsauce bottle
-    .desc = You can almost TASTE the stomach ulcers now!
+ent-FoodCondimentBottleHotsauce = бутылочка острого соуса
+    .desc = Вы уже почти ЧУВСТВУЕТЕ ВКУС язвы желудка!
 
-ent-FoodCondimentBottleKetchup = ketchup bottle
-    .desc = You feel more American already.
+ent-FoodCondimentBottleKetchup = бутылочка кетчупа
+    .desc = Вы уже чувствуете себя чуть больше Американцем.
 
-ent-FoodCondimentBottleBBQ = BBQ sauce bottle
-    .desc = Hand wipes not included.
+ent-FoodCondimentBottleBBQ = бутылочка соуса барбекю
+    .desc = Салфетки для рук в комплект не входят.
 
-ent-BaseFoodShaker = empty shaker
-    .desc = A shaker used to store and dispense spices.
+ent-BaseFoodShaker = пустая баночка для специй
+    .desc = Баночка для хранения и подачи специй.
 
-ent-FoodShakerSalt = salt shaker
-    .desc = Salt. From space oceans, presumably.
+ent-FoodShakerSalt = солонка
+    .desc = Соль. Предположительно из космических океанов.
 
-ent-FoodShakerPepper = pepper shaker
-    .desc = Often used to flavor food or make people sneeze.
+ent-FoodShakerPepper = перечница
+    .desc = Часто используется, чтобы придать вкус еде или заставить кого-нибудь чихнуть.

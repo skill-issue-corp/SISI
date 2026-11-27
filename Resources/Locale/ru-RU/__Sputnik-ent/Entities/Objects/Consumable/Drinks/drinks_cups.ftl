@@ -1,71 +1,71 @@
 ent-DrinkBaseCup = { ent-SolutionTiny }
     .desc = { ent-SolutionTiny.desc }
 
-ent-DrinkBaseMug = mug
-    .desc = A mug.
+ent-DrinkBaseMug = кружка
+    .desc = Кружка.
 
-ent-DrinkGoldenCup = golden cup
-    .desc = A golden cup.
+ent-DrinkGoldenCup = золотой кубок
+    .desc = Золотой кубок.
 
-ent-DrinkTeacupEmpty = teacup
-    .desc = A plain white porcelain teacup.
+ent-DrinkTeacupEmpty = чайная чашка
+    .desc = Простая белая фарфоровая чашка для чая.
 
-ent-DrinkGlassCoupeShaped = coupe glass
-    .desc = A classic thin neck coupe glass, the icon of fragile labels on crates around the galaxy.
+ent-DrinkGlassCoupeShaped = бокал-купе
+    .desc = Классический бокал-купе на тонкой ножке. Такой рисуют на ярлыках «хрупкое» на ящиках по всей галактике.
 
-ent-DrinkWaterCup = water cup
-    .desc = A paper water cup.
+ent-DrinkWaterCup = стаканчик для воды
+    .desc = Бумажный стаканчик для воды.
 
-ent-DrinkMug = mug
-    .desc = A plain white mug.
+ent-DrinkMug = кружка
+    .desc = Простая белая кружка.
 
-ent-DrinkMugBlack = black mug
-    .desc = A sleek black mug.
+ent-DrinkMugBlack = чёрная кружка
+    .desc = Изящная чёрная кружка.
 
-ent-DrinkMugBlue = blue mug
-    .desc = A blue and black mug.
+ent-DrinkMugBlue = синяя кружка
+    .desc = Сине-чёрная кружка.
 
-ent-DrinkMugGreen = green mug
-    .desc = A pale green and pink mug.
+ent-DrinkMugGreen = зелёная кружка
+    .desc = Бледно-зелёная кружка с розовым.
 
-ent-DrinkMugDog = funny dog mug
-    .desc = It looks like a cartoon beagle.
+ent-DrinkMugDog = кружка с забавной собакой
+    .desc = Похоже на мультяшного бигля.
 
-ent-DrinkMugHeart = heart mug
-    .desc = A white mug, it prominently features a red heart.
+ent-DrinkMugHeart = кружка с сердцем
+    .desc = Белая кружка с заметным красным сердцем.
 
-ent-DrinkMugMetal = metal mug
-    .desc = A metal mug. You're not sure which metal.
+ent-DrinkMugMetal = металлическая кружка
+    .desc = Металлическая кружка. Неясно, из какого металла.
 
-ent-DrinkMugMoebius = moebius mug
-    .desc = A mug with a Moebius Laboratories logo on it. Not even your morning coffee is safe from corporate advertising.
+ent-DrinkMugMoebius = кружка мёбиуса
+    .desc = Кружка с логотипом Лабораторий Мёбиуса. Даже ваш утренний кофе не спасётся от корпоративной рекламы.
 
-ent-DrinkMugOne = #1 mug
-    .desc = A white mug, it prominently features a #1.
+ent-DrinkMugOne = кружка #1
+    .desc = Белая кружка с заметным #1.
 
-ent-DrinkMugRainbow = rainbow mug
-    .desc = A rainbow mug. The colors are almost as blinding as a welder.
+ent-DrinkMugRainbow = радужная кружка
+    .desc = Радужная кружка. Цвета слепят почти как сварка.
 
-ent-DrinkMugRed = red mug
-    .desc = A red and black mug.
+ent-DrinkMugRed = красная кружка
+    .desc = Красно-чёрная кружка.
 
-ent-DrinkHotCoco = hot chocolate
-    .desc = A heated drink consisting melted chocolate and heated milk.
-    .suffix = Full
+ent-DrinkHotCoco = горячий шоколад
+    .desc = Горячий напиток из растопленного шоколада и подогретого молока.
+    .suffix = Полностью заполнено
 
-ent-DrinkHotCoffee = coffee
-    .desc = Coffee is a brewed drink prepared from roasted seeds, commonly called coffee beans, of the coffee plant.
-    .suffix = Full
+ent-DrinkHotCoffee = кофе
+    .desc = Кофе - напиток, заваренный из обжаренных семян кофейного дерева, обычно называемых кофейными зёрнами.
+    .suffix = Полностью заполнено
 
-ent-DrinkCafeLatte = cafe latte
-    .desc = A nice, strong and tasty beverage while you are reading.
-    .suffix = Full
+ent-DrinkCafeLatte = кофе латте
+    .desc = Приятный, крепкий и вкусный напиток для чтения.
+    .suffix = Полностью заполнено
 
-ent-DrinkTeacup = tea
+ent-DrinkTeacup = чай
     .desc = { ent-DrinkTeacupEmpty.desc }
 
-ent-DrinkGreenTea = green tea
+ent-DrinkGreenTea = зелёный чай
     .desc = { ent-DrinkTeacupEmpty.desc }
 
-ent-DrinkLean = grape juice
-    .desc = Damn, no fun allowed.
+ent-DrinkLean = виноградный сок
+    .desc = Чёрт, никакого веселья.

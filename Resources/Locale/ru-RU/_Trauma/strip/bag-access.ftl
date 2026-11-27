@@ -1,14 +1,14 @@
-trauma-bag-access-verb = Open { trauma-bag-access-slot }
+trauma-bag-access-verb = Открыть { trauma-bag-access-slot }
 
 trauma-bag-access-slot = { $slot ->
-    [back] Backpack
-    [belt] Belt
-    [outerClothing] Outer Clothing
+    [back] Рюкзак
+    [belt] Пояс
+    [outerClothing] Верхняя Одежда
     *[other] { $slot }
 }
-trauma-bag-access-popup = { $user } is trying to open your { $slot }!
+trauma-bag-access-popup = { $user } пытается открыть ваш слот «{ $slot }»!
 
-trauma-strip-jumpsuit-blocked = Remove their outer clothing first!
+trauma-strip-jumpsuit-blocked = Сначала снимите верхнюю одежду!
 
-trauma-quickdraw-verb = Draw Weapon
-trauma-quickdraw-popup = { $user } is trying to draw your weapon!
+trauma-quickdraw-verb = Достать Оружие
+trauma-quickdraw-popup = { $user } пытается достать ваше оружие!

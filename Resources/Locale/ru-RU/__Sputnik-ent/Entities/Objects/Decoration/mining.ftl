@@ -1,5 +1,5 @@
-ent-WoodenSign = wooden sign
-    .desc = He's pointing somewhere.
+ent-WoodenSign = деревянный указатель
+    .desc = Он куда-то указывает.
 
 ent-WoodenSignRight = { ent-WoodenSign }
     .desc = { ent-WoodenSign.desc }
@@ -7,14 +7,14 @@ ent-WoodenSignRight = { ent-WoodenSign }
 ent-BaseWoodenSupport = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
 
-ent-WoodenSupport = wooden support
-    .desc = Increases your confidence that a rock won't fall on your head.
+ent-WoodenSupport = деревянная опора
+    .desc = Придаёт уверенности, что вам на голову не свалится камень.
 
-ent-WoodenSupportBeam = wooden support beam
-    .desc = A pair of wooden beams, supportive without blocking your way.
+ent-WoodenSupportBeam = деревянная крепёжная балка
+    .desc = Пара деревянных балок, которые держат свод и не преграждают вам путь.
 
-ent-WoodenSupportWall = wooden support wall
-    .desc = An old, rotten wall.
+ent-WoodenSupportWall = деревянная подпорная стена
+    .desc = Старая, прогнившая стена.
 
-ent-WoodenSupportWallBroken = broken wooden support wall
-    .desc = A broken, no good, lousy old rotten wall.
+ent-WoodenSupportWallBroken = сломанная деревянная подпорная стена
+    .desc = Старая, прогнившая, сломанная и ни на что не годная стена.

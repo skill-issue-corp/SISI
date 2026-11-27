@@ -1,12 +1,12 @@
 # Trauma - plasma -> phoron
-power-radiation-collector-gas-tank-missing = The phoron tank slot is [color=darkred]empty[/color].
-power-radiation-collector-gas-tank-present = The phoron tank slot is [color=darkgreen]filled[/color] and the tank indicator reads [color={$fullness ->
-    *[0]red]empty
-    [1]red]low
-    [2]yellow]half-full
-    [3]lime]full
+power-radiation-collector-gas-tank-missing = Отсек для баллона с фороном [color=darkred]пуст[/color].
+power-radiation-collector-gas-tank-present = Баллон с фороном [color=darkgreen]установлен[/color]. Показание индикатора: [color={$fullness ->
+    *[0]red]пусто
+    [1]red]мало
+    [2]yellow]наполовину
+    [3]lime]полный
 }[/color].
-power-radiation-collector-enabled = It's switched [color={$state ->
-    [true] darkgreen]on
-    *[false] darkred]off
+power-radiation-collector-enabled = Питание [color={$state ->
+    [true] darkgreen]включено
+    *[false] darkred]выключено
 }[/color].

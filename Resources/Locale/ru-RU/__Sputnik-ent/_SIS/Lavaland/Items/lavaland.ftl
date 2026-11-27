@@ -1,5 +1,5 @@
-ent-FoodLegionHeart = legion heart
-    .desc = The still-beating heart of the legion, eating it can invigorate you.
+ent-FoodLegionHeart = сердце легиона
+    .desc = Сердце легиона всё ещё бьётся. Съешьте его, чтобы взбодриться.
 
-ent-FoodLegionHeartInert = cold legion heart
-    .desc = Its gone cold... its just a trophy now.
+ent-FoodLegionHeartInert = остывшее сердце легиона
+    .desc = Оно остыло... теперь это просто трофей.

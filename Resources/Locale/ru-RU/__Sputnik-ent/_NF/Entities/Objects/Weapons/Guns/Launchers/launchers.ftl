@@ -1,2 +1,2 @@
-ent-WeaponMailLake = mail RPDS
-    .desc = Rap(b?)id Parcel Delivery System. Last-In-First-Out Logic.
+ent-WeaponMailLake = почтовая СБДП
+    .desc = Система Б(е?)ыстрой Доставки Посылок. Принцип «Последним Пришёл, Первым Ушёл».

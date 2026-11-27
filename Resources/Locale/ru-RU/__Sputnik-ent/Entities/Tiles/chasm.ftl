@@ -1,14 +1,14 @@
-ent-FloorChasmEntity = chasm
-    .desc = You can't even see the bottom.
+ent-FloorChasmEntity = пропасть
+    .desc = Даже дна не видно.
 
 ent-FloorChromiteChasm = { ent-FloorChasmEntity }
     .desc = { ent-FloorChasmEntity.desc }
-    .suffix = Chromite
+    .suffix = Хромит
 
 ent-FloorDesertChasm = { ent-FloorChasmEntity }
     .desc = { ent-FloorChasmEntity.desc }
-    .suffix = Desert
+    .suffix = Пустыня
 
 ent-FloorSnowChasm = { ent-FloorChasmEntity }
     .desc = { ent-FloorChasmEntity.desc }
-    .suffix = Snow
+    .suffix = Снег

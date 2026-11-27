@@ -4,4 +4,4 @@ ent-GlassBoxLawbringer = { ent-GlassBox }
 
 ent-GlassBoxLawbringerFilled = { ent-GlassBoxLawbringer }
     .desc = { ent-GlassBoxLawbringer.desc }
-    .suffix = Lawbringer, Filled
+    .suffix = Lawbringer, Заполненный

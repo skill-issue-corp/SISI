@@ -1,22 +1,22 @@
 ent-BaseWeaponTurretRevolutionary = { ent-BaseWeaponTurretIndestructible }
     .desc = { ent-BaseWeaponTurretIndestructible.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
 ent-BaseWeaponTurretRevolutionaryMagazine = { ent-BaseStructure }
     .desc = { ent-BaseStructure.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
-ent-WeaponTurretRevolutionaryPistolFull = improvised pistol turret
-    .desc = Fires at anything without the proper IFF signal, can only hold ten rounds which must be hand loaded. Careful with this thing.
+ent-WeaponTurretRevolutionaryPistolFull = самодельная пистолетная турель
+    .desc = Стреляет по всему, что не подаёт нужный сигнал опознавания. Вмещает всего десять патронов, которые заряжаются вручную. Поосторожнее с этой штукой.
 
 ent-WeaponTurretRevolutionaryPistol = { ent-WeaponTurretRevolutionaryPistolFull }
     .desc = { ent-WeaponTurretRevolutionaryPistolFull.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-WeaponTurretRevolutionarySMG = improvised smg turret
-    .desc = Fires at anything without the proper IFF signal. This one is magazine loaded, but extremely innaccurate.
-    .suffix = Empty
+ent-WeaponTurretRevolutionarySMG = самодельная турель из пистолета-пулемёта
+    .desc = Стреляет по всему, что не подаёт нужный сигнал опознавания. Эта заряжается магазинами, но стреляет из рук вон неточно.
+    .suffix = Пусто
 
 ent-WeaponTurretRevolutionarySMGFull = { ent-WeaponTurretRevolutionarySMG }
     .desc = { ent-WeaponTurretRevolutionarySMG.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено

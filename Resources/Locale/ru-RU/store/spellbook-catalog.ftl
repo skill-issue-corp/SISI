@@ -8,96 +8,96 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Spells
-spellbook-fireball-name = Fireball
+spellbook-fireball-name = Огненный Шар
 spellbook-fireball-desc =
-    Fires an explosive fireball at a target. Considered a classic among all wizards.
-    Doesn't require wizard's robe and hat to cast.
+    Выпускает в цель взрывающийся огненный шар. Считается классикой среди волшебников.
+    Для сотворения заклинания мантия и шляпа волшебника не требуются.
 
-spellbook-blink-name = Blink
+spellbook-blink-name = Скачок
 spellbook-blink-desc =
-    This spell randomly teleports you a short distance.
-    Requires wizard's robe and hat to cast.
+    Это заклинание телепортирует вас на небольшое расстояние в случайном направлении.
+    Для сотворения заклинания нужны мантия и шляпа волшебника.
 
-spellbook-force-wall-name = Force Wall
+spellbook-force-wall-name = Силовая Стена
 spellbook-force-wall-desc =
-    Make three walls of pure force that you can pass through, but others can't.
-    Doesn't require wizard's robe and hat to cast.
+    Создаёт три стены из чистой силы, сквозь которые можете пройти только вы.
+    Для сотворения заклинания мантия и шляпа волшебника не требуются.
 
-spellbook-polymoprh-spider-name = Spider Polymoprh
-spellbook-polymorph-spider-desc = Transforms you into a spider, man!
+spellbook-polymoprh-spider-name = Полиморф в Паука
+spellbook-polymorph-spider-desc = Превращает вас в паука, мужик!
 
-spellbook-polymorph-rod-name = Rod Form
+spellbook-polymorph-rod-name = Форма Стержня
 spellbook-polymorph-rod-desc =
-    Take on the form of an immovable rod, destroying everything in your path. Upgrading this spell will also increase the rod's damage and travel range.
-    Requires wizard's robe and hat to cast.
+    Примите форму неподвижного стержня и сметите всё на своём пути. Улучшение заклинания увеличивает урон и дальность полёта стержня.
+    Для сотворения заклинания нужны мантия и шляпа волшебника.
 
-spellbook-charge-name = Charge
+spellbook-charge-name = Зарядка
 spellbook-charge-desc =
-    This spell can be used to recharge a variety of things in your hands, from magical artifacts to electrical components. A creative wizard can even use it to grant magical power to a fellow magic user.
-    Doesn't require wizard's robe and hat to cast.
+    Это заклинание заряжает разные предметы у вас в руках, от магических артефактов до электрических компонентов. Изобретательный волшебник может даже наделить магической силой своего собрата.
+    Для сотворения заклинания мантия и шляпа волшебника не требуются.
 
-spellbook-ethereal-jaunt-name = Ethereal Jaunt
+spellbook-ethereal-jaunt-name = Эфирный Рывок
 spellbook-ethereal-jaunt-description =
-    This spell turns your form ethereal, temporarily making you invisible and able to pass through walls.
-    Requires wizard's robe and hat to cast.
+    Это заклинание на время обращает вас в эфир, позволяя стать невидимым и проходить сквозь стены.
+    Для сотворения заклинания нужны мантия и шляпа волшебника.
 
-spellbook-mind-swap-name = Mind Swap
+spellbook-mind-swap-name = Обмен Разумами
 spellbook-mind-swap-description =
-    Allows you to switch bodies with a target next to you. You will both be knocked down when this happens, and it will be quite obvious that you are the target's body if someone watches you do it.
-    Doesn't work on changelings, heretics, ghouls, ghosts and temporary creatures.
-    Doesn't require discord's robe and hat to cast.
+    Позволяет поменяться телами с целью рядом с вами. Вы оба упадёте, и любой, кто это увидит, легко догадается, что вы теперь в теле цели.
+    Не действует на генокрадов, еретиков, гулей, призраков и временных существ.
+    Для сотворения заклинания мантия и шляпа дискорда не требуются.
 
-spellbook-animate-name = Animate
-spellbook-animate-description = Bring an inanimate object to life!
+spellbook-animate-name = Оживление
+spellbook-animate-description = Оживите неодушевлённый предмет!
 
-spellbook-smite-name = Smite
+spellbook-smite-name = Кара
 # Goob - rewritten
 #spellbook-smite-desc = Don't like them? EXPLODE them into giblets! Requires Wizard Robe & Hat.
 
-spellbook-cluwne-name = Cluwne's Curse
-spellbook-cluwne-desc = For when you really hate someone and Smite isn't enough. Requires Wizard Robe & Hat.
+spellbook-cluwne-name = Проклятие Клувеня
+spellbook-cluwne-desc = Для тех, кого вы ненавидите настолько, что одной Кары мало. Требуются Мантия и Шляпа Волшебника.
 
-spellbook-slip-name = Slippery Slope
-spellbook-slip-desc = Learn the ancient ways of the Janitor and curse your target to be slippery.
+spellbook-slip-name = Скользкий Склон
+spellbook-slip-desc = Постигните древнее искусство Уборщика и прокляните цель, чтобы она стала скользкой.
 
-spellbook-item-recall-name = Item Recall
-spellbook-item-recall-description = Mark a held item and summon it back at any time with just a snap of your fingers!
+spellbook-item-recall-name = Возврат Предмета
+spellbook-item-recall-description = Пометьте предмет в руке и в любой момент призовите его обратно одним щелчком пальцев!
 
-spellbook-guardian-deck-name = Tarot Deck
-spellbook-guardian-deck-description = A bizarre deck of card that grants you a spectral guardian when used.
+spellbook-guardian-deck-name = Колода Таро
+spellbook-guardian-deck-description = Диковинная колода карт, которая при использовании дарует вам призрачного стража.
 
 # Equipment
 
-spellbook-wand-polymorph-door-name = Staff of Door Creation
+spellbook-wand-polymorph-door-name = Посох Создания Дверей
 spellbook-wand-polymorph-door-description =
-    A particular staff that can mold solid walls into ornate doors. Useful for getting around in the absence of other transportation. Does not work on glass.
-    Automatically recharges once every 2 seconds.
+    Особый посох, способный превращать сплошные стены в вычурные двери. Пригодится, когда других путей нет. На стекло не действует.
+    Автоматически восстанавливает заряд раз в 2 секунды.
 
-spellbook-wand-polymorph-carp-name = Wand of Carp Polymorph
-spellbook-wand-polymorph-carp-description = For when you need a carp filet quick and the clown is looking juicy.
+spellbook-wand-polymorph-carp-name = Жезл Превращения в Карпа
+spellbook-wand-polymorph-carp-description = Для случаев, когда срочно нужно филе карпа, а клоун выглядит аппетитно.
 
-spellbook-wand-locker-name = Staff of the Locker
+spellbook-wand-locker-name = Посох Шкафчиков
 spellbook-wand-locker-description =
-    Shoot cursed lockers at your enemies and lock em away!
-    Automatically recharges once every 10 seconds.
+    Стреляйте во врагов проклятыми шкафами и запирайте их внутри!
+    Автоматически восстанавливает заряд раз в 10 секунд.
 
 # Events
 
-spellbook-event-summon-ghosts-name = Summon Ghosts
+spellbook-event-summon-ghosts-name = Призыв Призраков
 spellbook-event-summon-ghosts-description =
-    Spook the crew out by making them see dead people. Be warned, ghosts are capricious and occasionally vindicative, and some will use their incredibly minor abilities to frustrate you.
-    This spell goes into effect immediately the moment you buy it.
-    Cannot be refunded.
+    Напугайте экипаж, заставив его видеть мертвецов. Учтите, что призраки капризны и порой мстительны, а некоторые пустят в ход свои ничтожные способности, чтобы вам досадить.
+    Заклинание вступает в силу сразу после покупки.
+    Возврат невозможен.
 
-spellbook-event-summon-guns-name = Summon Guns
-spellbook-event-summon-guns-description = AK47s for everyone! Places a random gun in front of everybody. Disables refunds when bought!
+spellbook-event-summon-guns-name = Призыв Оружия
+spellbook-event-summon-guns-description = По AK47 каждому! Перед всеми появляется случайное оружие. После покупки возвраты отключаются!
 
-spellbook-event-summon-magic-name = Summon Magic
-spellbook-event-summon-magic-description = Places a random magical item in front of everybody. Nothing could go wrong! Disables refunds when bought!
+spellbook-event-summon-magic-name = Призыв Магии
+spellbook-event-summon-magic-description = Перед всеми появляется случайный магический предмет. Что может пойти не так! После покупки возвраты отключаются!
 
 # Upgrades
-spellbook-upgrade-fireball-name = Fireball Upgrade
-spellbook-upgrade-fireball-description = Upgrades Fireball to a maximum of level 3!
+spellbook-upgrade-fireball-name = Улучшение Огненного Шара
+spellbook-upgrade-fireball-description = Улучшает Огненный Шар вплоть до уровня 3!
 
-spellbook-upgrade-jaunt-name = Ethereal Jaunt Upgrade
-spellbook-upgrade-jaunt-description = Upgrades Jaunt to a maximum of level 3!
+spellbook-upgrade-jaunt-name = Улучшение Эфирного Рывка
+spellbook-upgrade-jaunt-description = Улучшает Рывок вплоть до уровня 3!

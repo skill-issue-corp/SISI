@@ -3,11 +3,11 @@
 #
 # SPDX-License-Identifier: MIT
 
-accent-parrot-squawk-1 = SQUAWK!
-accent-parrot-squawk-2 = SQUAAAWK!
-accent-parrot-squawk-3 = AWWK!
-accent-parrot-squawk-4 = AAWK!
-accent-parrot-squawk-5 = RAWWK!
-accent-parrot-squawk-6 = RAAAWK!
-accent-parrot-squawk-7 = BRAAWK!
-accent-parrot-squawk-8 = BRAWWK!
+accent-parrot-squawk-1 = КАРР!
+accent-parrot-squawk-2 = КА-А-АРР!
+accent-parrot-squawk-3 = АВК!
+accent-parrot-squawk-4 = А-А-АК!
+accent-parrot-squawk-5 = РРАВК!
+accent-parrot-squawk-6 = РРА-А-АК!
+accent-parrot-squawk-7 = БРА-А-АК!
+accent-parrot-squawk-8 = БРАВВК!

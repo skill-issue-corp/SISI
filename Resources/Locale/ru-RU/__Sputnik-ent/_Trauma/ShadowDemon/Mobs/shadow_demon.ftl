@@ -1,2 +1,2 @@
-ent-BaseMobShadowDemon = shadow demon
-    .desc = A creature that's barely tangible, you can feel its gaze piercing you.
+ent-BaseMobShadowDemon = тенедемон
+    .desc = Едва осязаемое существо. Вы чувствуете, как его взгляд пронзает вас.

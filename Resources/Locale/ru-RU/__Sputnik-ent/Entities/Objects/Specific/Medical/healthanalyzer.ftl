@@ -1,2 +1,2 @@
-ent-HandheldHealthAnalyzer = health analyzer
-    .desc = A hand-held body scanner capable of distinguishing vital signs of the subject.
+ent-HandheldHealthAnalyzer = анализатор здоровья
+    .desc = Ручной сканер тела, считывающий жизненные показатели пациента.

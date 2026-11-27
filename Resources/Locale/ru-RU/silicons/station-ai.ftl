@@ -8,60 +8,60 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # General
-ai-wire-snipped = One of your systems' wires has been cut at {$source}.
+ai-wire-snipped = Один из проводов ваших систем перерезан в {$source}.
 wire-name-ai-vision-light = AIV
 wire-name-ai-act-light = AIA
-station-ai-takeover = AI takeover
-station-ai-eye-name = AI eye - {$name}
-station-ai-has-no-power-for-upload = Upload failed - the AI core is unpowered.
-station-ai-is-too-damaged-for-upload = Upload failed - the AI core must be repaired.
-station-ai-core-losing-power = Your AI core is now running on reserve battery power.
-station-ai-core-critical-power = Your AI core is critically low on power. External power must be re-established or severe data corruption may occur!
-station-ai-core-taking-damage = Your AI core is sustaining physical damage.
+station-ai-takeover = ИИ перехватывает управление
+station-ai-eye-name = Глаз ИИ - {$name}
+station-ai-has-no-power-for-upload = Ошибка загрузки - ядро ИИ обесточено.
+station-ai-is-too-damaged-for-upload = Ошибка загрузки - ядро ИИ нужно отремонтировать.
+station-ai-core-losing-power = Ваше ядро ИИ перешло на резервную батарею.
+station-ai-core-critical-power = Заряд ядра ИИ критически низок. Восстановите внешнее питание, иначе данные могут серьёзно пострадать!
+station-ai-core-taking-damage = Ваше ядро ИИ получает физические повреждения.
 
 # Ghost role
-station-ai-ghost-role-name = Station AI
-station-ai-ghost-role-description = Serve the station crew as its ever watchful AI.
+station-ai-ghost-role-name = Станционный ИИ
+station-ai-ghost-role-description = Служите экипажу станции в роли её неусыпного ИИ.
 
 # Radial actions
-ai-open = Open actions
-ai-close = Close actions
+ai-open = Открыть действия
+ai-close = Закрыть действия
 
-bolt-close = Close bolt
-bolt-open = Open bolt
+bolt-close = Опустить болты
+bolt-open = Поднять болты
 
-emergency-access-on = Enable emergency access
-emergency-access-off = Disable emergency access
+emergency-access-on = Включить аварийный доступ
+emergency-access-off = Отключить аварийный доступ
 
-electrify-door-on = Enable overcharge
-electrify-door-off = Disable overcharge
+electrify-door-on = Включить высокое напряжение
+electrify-door-off = Выключить высокое напряжение
 
-toggle-light = Toggle light
+toggle-light = Переключить свет
 
-ai-device-not-responding = Device is not responding
-ai-device-no-access = You have no access to this device
+ai-device-not-responding = Устройство не отвечает
+ai-device-no-access = У вас нет доступа к этому устройству
 
-ai-consciousness-download-warning = Your consciousness is being downloaded.
+ai-consciousness-download-warning = Идёт скачивание вашего сознания.
 
 # UI
-station-ai-customization-menu = AI customization
-station-ai-customization-categories = Categories
-station-ai-customization-options = Options (choice of one)
-station-ai-customization-core = AI core displays
-station-ai-customization-hologram = Holographic avatars
+station-ai-customization-menu = Настройка ИИ
+station-ai-customization-categories = Категории
+station-ai-customization-options = Параметры (выберите один)
+station-ai-customization-core = Экраны ядра ИИ
+station-ai-customization-hologram = Голографические аватары
 
 # Customizations
-station-ai-icon-ai = Ghost in the machine
-station-ai-icon-angel = Guardian angel
-station-ai-icon-bliss = Simpler times
-station-ai-icon-clown = Clownin' around
-station-ai-icon-dorf = Adventure awaits
-station-ai-icon-heartline = Lifeline
-station-ai-icon-smiley = All smiles
+station-ai-icon-ai = Призрак в машине
+station-ai-icon-angel = Ангел-хранитель
+station-ai-icon-bliss = Простые времена
+station-ai-icon-clown = Клоунада
+station-ai-icon-dorf = Приключения ждут
+station-ai-icon-heartline = Линия жизни
+station-ai-icon-smiley = Сплошные улыбки
 
-station-ai-hologram-female = Female appearance
-station-ai-hologram-male = Male appearance
-station-ai-hologram-face = Disembodied head
+station-ai-hologram-female = Женская внешность
+station-ai-hologram-male = Мужская внешность
+station-ai-hologram-face = Парящая голова
 # Goob, consistentcy, form -> appearance
-station-ai-hologram-cat = Cat appearance
-station-ai-hologram-dog = Corgi appearance
+station-ai-hologram-cat = Кошка
+station-ai-hologram-dog = Корги

@@ -1,39 +1,39 @@
 ent-BaseMobArgocyte = { ent-BaseSimpleMob }
-    .desc = A dangerous alien found on the wrong side of planets, known for their propensity for munching on ruins.
-    .suffix = AI
+    .desc = Опасное инопланетное существо из неблагополучных уголков планет. Любит грызть руины.
+    .suffix = ИИ
 
-ent-MobArgocyteSlurva = slurva
-    .desc = A pathetic creature, incapable of doing much.
+ent-MobArgocyteSlurva = слюрва
+    .desc = Жалкое существо, почти ни на что не способное.
 
-ent-MobArgocyteBarrier = barrier
+ent-MobArgocyteBarrier = заслон
     .desc = { ent-BaseMobArgocyte.desc }
 
-ent-MobArgocyteSkitter = skitter
-    .desc = A devious little alien... Make sure they don't run off with your rations!
+ent-MobArgocyteSkitter = шмыгун
+    .desc = Хитрый мелкий пришелец... Смотрите, чтобы он не стащил ваши пайки!
 
-ent-MobArgocyteSwiper = swiper
-    .desc = Where did that stack of steel go?
+ent-MobArgocyteSwiper = хапуга
+    .desc = Куда делась эта пачка стали?
 
-ent-MobArgocyteMolder = molder
+ent-MobArgocyteMolder = формовщик
     .desc = { ent-BaseMobArgocyte.desc }
 
-ent-MobArgocytePouncer = pouncer
+ent-MobArgocytePouncer = прыгун
     .desc = { ent-BaseMobArgocyte.desc }
 
-ent-MobArgocyteGlider = glider
+ent-MobArgocyteGlider = планёр
     .desc = { ent-BaseMobArgocyte.desc }
 
-ent-MobArgocyteHarvester = harvester
+ent-MobArgocyteHarvester = сборщик
     .desc = { ent-BaseMobArgocyte.desc }
 
-ent-MobArgocyteCrawler = crawler
-    .desc = Deadly, pack-animals that maul unsuspecting travelers.
+ent-MobArgocyteCrawler = ползун
+    .desc = Смертоносные стайные твари, набрасывающиеся на ничего не подозревающих путников.
 
-ent-MobArgocyteEnforcer = enforcer
+ent-MobArgocyteEnforcer = громила
     .desc = { ent-BaseMobArgocyte.desc }
 
-ent-MobArgocyteFounder = founder
+ent-MobArgocyteFounder = основатель
     .desc = { ent-BaseMobArgocyte.desc }
 
-ent-MobArgocyteLeviathing = leviathing
+ent-MobArgocyteLeviathing = левиа-тварь
     .desc = { ent-BaseMobArgocyte.desc }

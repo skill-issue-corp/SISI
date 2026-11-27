@@ -1,2 +1,2 @@
-ent-SoulShard = soul shard
-    .desc = A mysterious glowing shard.
+ent-SoulShard = осколок души
+    .desc = Таинственный светящийся осколок.

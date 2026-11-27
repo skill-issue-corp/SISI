@@ -1,12 +1,12 @@
-ent-ContrabandDetector = contraband detector
-    .desc = Walk in with confidence, walk out with security chasing you.
+ent-ContrabandDetector = детектор контрабанды
+    .desc = Войдите с гордо поднятой головой, выйдите со службой безопасности на хвосте.
 
 ent-ContrabandDetectorSecure = { ent-ContrabandDetector }
     .desc = { ent-ContrabandDetector.desc }
-    .suffix = Secure
+    .suffix = Защищённый
 
-ent-ContrabandDetectorFrame = contraband detector frame
+ent-ContrabandDetectorFrame = каркас детектора контрабанды
     .desc = { "" }
 
-ent-ContrabandDetectorCircuitboard = contraband detector electronics
-    .desc = An electronics board used in contraband detector.
+ent-ContrabandDetectorCircuitboard = плата детектора контрабанды
+    .desc = Электронная плата для детектора контрабанды.

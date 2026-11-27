@@ -1,1 +1,1 @@
-uplink-bribe-plasmaman-desc = A heartfelt gift that can help you sway someone's opinion. Real or counterfeit? Yes. Includes a tacticool envirosuit for a tacticool plasmaman like you.
+uplink-bribe-plasmaman-desc = Подарок от всей души, который поможет склонить кого-то на вашу сторону. Настоящий или поддельный? Да. В комплекте тактикульный экокостюм для такого же тактикульного плазмамена, как вы.

@@ -9,8 +9,8 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Examine text after when they're holding something (in-hand)
-comp-hands-examine = { CAPITALIZE(SUBJECT($user)) } { CONJUGATE-BE($user) } holding { $items }.
-comp-hands-examine-empty = { CAPITALIZE(SUBJECT($user)) } { CONJUGATE-BE($user) } not holding anything.
-comp-hands-examine-wrapper = { INDEFINITE($item) } [color=paleturquoise]{$item}[/color]
+comp-hands-examine = { CAPITALIZE(SUBJECT($user)) } { CONJUGATE-BE($user) }держит в руках { $items }.
+comp-hands-examine-empty = { CAPITALIZE(SUBJECT($user)) } { CONJUGATE-BE($user) }ничего не держит в руках.
+comp-hands-examine-wrapper = [color=paleturquoise]{$item}[/color]
 
-hands-system-blocked-by = Blocked by
+hands-system-blocked-by = Мешает

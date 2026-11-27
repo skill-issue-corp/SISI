@@ -8,6 +8,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cloning-pod-biomass = It currently has [color=red]{$number}[/color] units of biomass.
+cloning-pod-biomass = Текущий запас биомассы: [color=red]{$number}[/color] ед.
 
-cloning-pod-component-upgrade-emag-requirement = The card zaps something inside the cloning pod.
+cloning-pod-component-upgrade-emag-requirement = Карта замыкает какие-то контакты внутри капсулы клонирования.

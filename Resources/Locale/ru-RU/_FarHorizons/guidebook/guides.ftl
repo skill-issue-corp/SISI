@@ -1,4 +1,4 @@
-guide-entry-holographic-generator = Holographic Generators
+guide-entry-holographic-generator = Голографические Генераторы
 
-guide-entry-nuclear-reactor = Nuclear Reactor
-guide-entry-nuclear-materials = Material Effects
+guide-entry-nuclear-reactor = Ядерный Реактор
+guide-entry-nuclear-materials = Влияние Материалов

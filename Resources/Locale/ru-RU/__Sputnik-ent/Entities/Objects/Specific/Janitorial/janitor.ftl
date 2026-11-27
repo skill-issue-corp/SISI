@@ -1,5 +1,5 @@
-ent-MopItem = mop
-    .desc = A mop that can't be stopped, viscera cleanup detail awaits.
+ent-MopItem = швабра
+    .desc = Неудержимая швабра. Генеральная уборка внутренностей ждёт.
 
 ent-SolutionMopSmall = { ent-SolutionMop }
     .desc = { ent-SolutionMop.desc }
@@ -10,27 +10,27 @@ ent-SolutionMopNormal = { ent-SolutionMop }
 ent-SolutionMopLarge = { ent-SolutionMop }
     .desc = { ent-SolutionMop.desc }
 
-ent-AdvMopItem = advanced mop
-    .desc = Motorized mop that has a bigger reservoir and quickly replaces reagents inside with water. Automatic Clown Countermeasure not included.
+ent-AdvMopItem = улучшенная швабра
+    .desc = Швабра с мотором и большим резервуаром. Быстро заменяет реагенты внутри на воду. Автоматическая Защита от Клоуна в комплект не входит.
 
-ent-WetFloorSign = wet floor sign
-    .desc = Caution! Wet Floor!
+ent-WetFloorSign = табличка «мокрый пол»
+    .desc = Осторожно! Мокрый Пол!
 
 ent-WetFloorSignMineExplosive = { ent-WetFloorSign }
     .desc = { ent-WetFloorSign.desc }
-    .suffix = Explosive
+    .suffix = Взрывная
 
-ent-Plunger = plunger
-    .desc = A plunger with a red plastic suction-cup and a wooden handle. Used to unclog drains.
+ent-Plunger = вантуз
+    .desc = Вантуз с красной пластиковой присоской и деревянной рукояткой. Используется для прочистки сливов.
 
-ent-GoldenPlunger = golden plunger
-    .desc = A plunger with a plastic suction cup coated in a thin layer of gold given as a token of appreciation for years of service. Still used to unclog drains.
+ent-GoldenPlunger = золотой вантуз
+    .desc = Вантуз с пластиковой присоской под тонким слоем золота. Подарок за долгие годы службы. Им всё так же прочищают сливы.
 
-ent-RagItem = damp rag
-    .desc = For cleaning up messes, you suppose.
+ent-RagItem = влажная тряпка
+    .desc = Похоже, для уборки.
 
-ent-WireBrush = wire brush
-    .desc = A bristly steel wire brush, perfect for scraping away even the toughest patches of rust.
+ent-WireBrush = проволочная щётка
+    .desc = Жёсткая стальная щётка, которой можно соскрести даже самую стойкую ржавчину.
 
-ent-WireBrushElectrical = electrical wire brush
-    .desc = A bristly steel wire brush with a moving head, allowing for a way easier time cleaning.
+ent-WireBrushElectrical = электрическая проволочная щётка
+    .desc = Жёсткая стальная щётка с подвижной головкой. С ней чистить гораздо легче.

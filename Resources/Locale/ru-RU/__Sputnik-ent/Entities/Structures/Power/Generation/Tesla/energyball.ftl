@@ -1,8 +1,8 @@
 ent-BaseEnergyBall = { "" }
     .desc = { "" }
 
-ent-TeslaEnergyBall = tesla orb
-    .desc = A giant ball of pure energy. The space around it is humming and melting.
+ent-TeslaEnergyBall = шар теслы
+    .desc = Огромный шар чистой энергии. Пространство вокруг него гудит и плавится.
 
-ent-TeslaMiniEnergyBall = mini tesla orb
-    .desc = The cub of a destructive energy cage. Not as dangerous, but still not worth touching with bare hands.
+ent-TeslaMiniEnergyBall = миниатюрный шар теслы
+    .desc = Детёныш разрушительной энергетической сферы. Не так опасен, но голыми руками лучше не трогать.

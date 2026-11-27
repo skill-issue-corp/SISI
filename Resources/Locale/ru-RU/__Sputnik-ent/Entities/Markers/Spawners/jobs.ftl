@@ -1,147 +1,147 @@
 ent-SpawnPointJobBase = { ent-MarkerBase }
     .desc = { ent-MarkerBase.desc }
-    .suffix = Job Spawn
+    .suffix = Точка Спавна Должности
 
-ent-SpawnPointObserver = observer spawn point
+ent-SpawnPointObserver = точка спавна наблюдателя
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnPointLatejoin = latejoin spawn point
+ent-SpawnPointLatejoin = точка спавна позднего прибытия
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointAnyJob = any job spawn point
+ent-SpawnPointAnyJob = точка спавна любой должности
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointQuartermaster = quartermaster
+ent-SpawnPointQuartermaster = квартирмейстер
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointCargoTechnician = cargotechnician
+ent-SpawnPointCargoTechnician = грузчик
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointSalvageSpecialist = salvagespecialist
+ent-SpawnPointSalvageSpecialist = специалист по утилизации
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointPassenger = passenger
+ent-SpawnPointPassenger = пассажир
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointTechnicalAssistant = technical assistant
+ent-SpawnPointTechnicalAssistant = технический ассистент
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointMedicalIntern = medical intern
+ent-SpawnPointMedicalIntern = медицинский интерн
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointSecurityCadet = security cadet
+ent-SpawnPointSecurityCadet = кадет СБ
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointResearchAssistant = research assistant
+ent-SpawnPointResearchAssistant = научный ассистент
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointServiceWorker = service worker
+ent-SpawnPointServiceWorker = работник сервиса
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointBartender = bartender
+ent-SpawnPointBartender = бармен
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointChef = chef
+ent-SpawnPointChef = шеф-повар
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointBotanist = botanist
+ent-SpawnPointBotanist = ботаник
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointClown = clown
+ent-SpawnPointClown = клоун
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointMime = mime
+ent-SpawnPointMime = мим
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointChaplain = chaplain
+ent-SpawnPointChaplain = священник
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointLibrarian = librarian
+ent-SpawnPointLibrarian = библиотекарь
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointLawyer = lawyer
+ent-SpawnPointLawyer = адвокат
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointJanitor = janitor
+ent-SpawnPointJanitor = уборщик
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointMusician = musician
+ent-SpawnPointMusician = музыкант
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointBorg = cyborg
+ent-SpawnPointBorg = киборг
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointCaptain = captain
+ent-SpawnPointCaptain = капитан
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointHeadOfPersonnel = headofpersonnel
+ent-SpawnPointHeadOfPersonnel = глава персонала
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointChiefEngineer = chiefengineer
+ent-SpawnPointChiefEngineer = старший инженер
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointStationEngineer = stationengineer
+ent-SpawnPointStationEngineer = станционный инженер
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointAtmos = atmospherics
+ent-SpawnPointAtmos = атмосферный техник
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointChiefMedicalOfficer = chiefmedicalofficer
+ent-SpawnPointChiefMedicalOfficer = главный врач
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointMedicalDoctor = medicaldoctor
+ent-SpawnPointMedicalDoctor = врач
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointParamedic = paramedic
+ent-SpawnPointParamedic = парамедик
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointChemist = chemist
+ent-SpawnPointChemist = химик
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointResearchDirector = researchdirector
+ent-SpawnPointResearchDirector = директор по исследованиям
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointScientist = scientist
+ent-SpawnPointScientist = учёный
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointHeadOfSecurity = headofsecurity
+ent-SpawnPointHeadOfSecurity = глава службы безопасности
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointWarden = warden
+ent-SpawnPointWarden = смотритель
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointSecurityOfficer = securityofficer
+ent-SpawnPointSecurityOfficer = офицер СБ
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointDetective = detective
+ent-SpawnPointDetective = детектив
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointBrigmedic = brigmedic
+ent-SpawnPointBrigmedic = бригмедик
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointERTLeader = ERTleader
+ent-SpawnPointERTLeader = командир ОБР
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointERTChaplain = ERTchaplain
+ent-SpawnPointERTChaplain = священник ОБР
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointERTEngineer = ERTengineer
+ent-SpawnPointERTEngineer = инженер ОБР
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointERTMedical = ERTmedical
+ent-SpawnPointERTMedical = медик ОБР
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointERTSecurity = ERTsecurity
+ent-SpawnPointERTSecurity = офицер СБ ОБР
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointERTJanitor = ERTjanitor
+ent-SpawnPointERTJanitor = уборщик ОБР
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointReporter = reporter
+ent-SpawnPointReporter = репортёр
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointPsychologist = psychologist
+ent-SpawnPointPsychologist = психолог
     .desc = { ent-SpawnPointJobBase.desc }
 
-ent-SpawnPointTramDriver = tramdriver
+ent-SpawnPointTramDriver = водитель трамвая
     .desc = { ent-SpawnPointJobBase.desc }

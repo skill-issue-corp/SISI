@@ -1,3 +1,3 @@
-ent-PhoronSabre = phoron sabre
-    .desc = The signature weapon of the dreaded deathsquads. It's mostly for show.
-    .suffix = DO NOT MAP
+ent-PhoronSabre = фороновая сабля
+    .desc = Фирменное оружие грозных эскадронов смерти. В основном для вида.
+    .suffix = НЕ МАППИТЬ

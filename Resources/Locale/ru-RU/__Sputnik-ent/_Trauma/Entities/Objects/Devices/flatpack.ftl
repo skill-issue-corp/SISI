@@ -1,8 +1,8 @@
-ent-RotaryPhoneFlatPack = phone flatpack
-    .desc = A flatpack used for constructing a Rotary Phone.
+ent-RotaryPhoneFlatPack = упаковка телефона
+    .desc = Упаковка для сборки Дискового Телефона.
 
-ent-PrintingPressFlatpack = printing press flatpack
-    .desc = A flatpack used for constructing a printing press.
+ent-PrintingPressFlatpack = упаковка печатного станка
+    .desc = Упаковка для сборки печатного станка.
 
-ent-IncubatorFlatpack = incubator flatpack
-    .desc = A flatpack used for constructing a Incubator
+ent-IncubatorFlatpack = упаковка инкубатора
+    .desc = Упаковка для сборки Инкубатора

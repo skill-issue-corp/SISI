@@ -1,26 +1,26 @@
-ent-BoxCaptainCircuitboards = bridge circuit tote
+ent-BoxCaptainCircuitboards = контейнер плат мостика
     .desc = { ent-ToteBase.desc }
 
-ent-BoxCECircuitboards = engineering circuit tote
+ent-BoxCECircuitboards = контейнер плат инженерного отдела
     .desc = { ent-ToteBase.desc }
 
-ent-BoxCMOCircuitboards = medical circuit tote
+ent-BoxCMOCircuitboards = контейнер плат медотсека
     .desc = { ent-ToteBase.desc }
 
-ent-BoxHoPCircuitboards = head of personnel circuit tote
+ent-BoxHoPCircuitboards = контейнер плат главы персонала
     .desc = { ent-ToteBase.desc }
 
-ent-BoxHoPStamps = head of personnel's stamp box
+ent-BoxHoPStamps = коробка печатей главы персонала
     .desc = { ent-BoxStamps.desc }
 
-ent-BoxHoSCircuitboards = security circuit tote
+ent-BoxHoSCircuitboards = контейнер плат СБ
     .desc = { ent-ToteBase.desc }
 
-ent-BoxQMCircuitboards = cargo circuit tote
+ent-BoxQMCircuitboards = контейнер плат карго
     .desc = { ent-ToteBase.desc }
 
-ent-BoxQMStamps = quartermaster's stamp box
+ent-BoxQMStamps = коробка печатей квартирмейстера
     .desc = { ent-BoxStamps.desc }
 
-ent-BoxRDCircuitboards = science circuit tote
+ent-BoxRDCircuitboards = контейнер плат научного отдела
     .desc = { ent-ToteBase.desc }

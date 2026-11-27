@@ -1,24 +1,24 @@
-trait-scottish-name = Scottish accent
-trait-scottish-desc = Your scottish pride is as strong as your accent!
+trait-scottish-name = Шотландский акцент
+trait-scottish-desc = Ваша шотландская гордость так же сильна, как ваш акцент!
 
-trait-wheelchair-bound-name = Wheelchair Bound
-trait-wheelchair-bound-desc = You cannot move without your wheelchair. Wheelchair included.
+trait-wheelchair-bound-name = В Инвалидной Коляске
+trait-wheelchair-bound-desc = Вы не можете передвигаться без инвалидной коляски. Коляска прилагается.
 
-trait-bogan-name = Bogan accent
-trait-bogan-desc = You learned this from a mythical creature.
+trait-bogan-name = Баганский акцент
+trait-bogan-desc = Вы переняли его у мифического существа.
 
-poor-vision-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} eyes are unfocused. It doesn't seem like {SUBJECT($target)} can see you very well without glasses..[/color]
+poor-vision-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} взгляд расфокусирован. Вряд ли {SUBJECT($target)} хорошо видит вас без очков..[/color]
 
-trait-medieval-accent-name = Medieval accent
-trait-medieval-accent-desc = Hark! Thy manner o' speech, 'tis most unusual!
+trait-medieval-accent-name = Средневековый акцент
+trait-medieval-accent-desc = Внемлите! Речь ваша зело необычайна!
 
-trait-movement-impaired-name = Movement Impaired
-trait-movement-impaired-desc = You can't quite seem to walk very well without some assistance. Cane included.
+trait-movement-impaired-name = Нарушение Подвижности
+trait-movement-impaired-desc = Вам трудно ходить без опоры. Трость прилагается.
 
-movement-impaired-trait-examined = [color=yellow]{CAPITALIZE(SUBJECT($target))} seems to walk with a slight limp. It doesn't seem like {SUBJECT($target)} can walk very well without assistance[/color]
+movement-impaired-trait-examined = [color=yellow]{CAPITALIZE(SUBJECT($target))}, кажется, слегка прихрамывает. Вряд ли {SUBJECT($target)} может нормально ходить без опоры[/color]
 
-trait-social-anxiety-name = Social Anxiety
-trait-social-anxiety-disc = You have crippling social anxiety, you're freaked out by affectionate things, such as hugs.
+trait-social-anxiety-name = Социофобия
+trait-social-anxiety-disc = У вас тяжёлая социофобия. Проявления нежности, вроде объятий, доводят вас до паники.
 
-trait-deaf-name = Deaf
-trait-deaf-disc =  You're completly deaf, you can't hear anything, including yourself!
+trait-deaf-name = Глухота
+trait-deaf-disc =  Вы совершенно глухи и ничего не слышите, даже себя!

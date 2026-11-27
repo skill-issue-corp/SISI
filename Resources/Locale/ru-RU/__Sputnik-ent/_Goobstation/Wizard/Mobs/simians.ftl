@@ -1,23 +1,23 @@
 ent-MobGorillaAngry = { ent-MobGorilla }
     .desc = { ent-MobGorilla.desc }
-    .suffix = Angry
+    .suffix = Злой
 
 ent-MobGorillaAngryTemp = { ent-MobGorillaAngry }
     .desc = { ent-MobGorillaAngry.desc }
-    .suffix = Angry, Lesser, Temporary
+    .suffix = Злой, Малый, Временный
 
 ent-MobGorillaWizard = { ent-MobGorillaAngry }
     .desc = { ent-MobGorillaAngry.desc }
-    .suffix = Wizard
+    .suffix = Волшебник
 
-ent-MobMonkeyAngry = monkey
-    .desc = New church of neo-darwinists actually believe that EVERY animal evolved from a monkey. Tastes like pork, and killing them is both fun and relaxing.
-    .suffix = Angry
+ent-MobMonkeyAngry = обезьяна
+    .desc = В новой церкви неодарвинистов всерьёз считают, что ВСЕ животные произошли от обезьяны. На вкус как свинина, а убивать их весело и даже успокаивает.
+    .suffix = Злой
 
-ent-MobKoboldAngry = kobold
-    .desc = Cousins to the sentient race of lizard people, kobolds blend in with their natural habitat and are as nasty as monkeys; ready to pull out your hair and stab you to death.
-    .suffix = Angry
+ent-MobKoboldAngry = кобольд
+    .desc = Родичи разумных унатхов, кобольды отлично сливаются с родной средой и пакостят не хуже обезьян. Могут выдрать вам волосы и заколоть насмерть.
+    .suffix = Злой
 
 ent-MobMonkeyAngryTemp = { ent-MobMonkeyAngry }
     .desc = { ent-MobMonkeyAngry.desc }
-    .suffix = Angry, Lesser, Temporary
+    .suffix = Злой, Малый, Временный

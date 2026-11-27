@@ -1,15 +1,15 @@
-ent-PlaqueAtmos = atmos plaque spawner
+ent-PlaqueAtmos = точка спавна таблички атмосферного отсека
     .desc = { ent-MarkerBase.desc }
-    .suffix = Spawner
+    .suffix = Точка спавна
 
-ent-PlaqueAtmosFEA = FEA Atmospherics Division plaque
-    .desc = This plaque commemorates the fall of the Atmos FEA division. For all the charred, dizzy, and brittle men who have died in its hands.
+ent-PlaqueAtmosFEA = табличка Атмосферного Отдела FEA
+    .desc = Эта табличка увековечивает падение Атмосферного отдела FEA. Памяти всех обугленных, одурманенных и ломких людей, погибших от его рук.
 
-ent-PlaqueAtmosLINDA = LINDA Atmospherics Division plaque
-    .desc = This plaque commemorates the fall of the Atmos LINDA division. For all the charred, dizzy, and brittle men who have died in its hands.
+ent-PlaqueAtmosLINDA = табличка Атмосферного Отдела LINDA
+    .desc = Эта табличка увековечивает падение Атмосферного отдела LINDA. Памяти всех обугленных, одурманенных и ломких людей, погибших от его рук.
 
-ent-PlaqueAtmosZAS = ZAS Atmospherics Division plaque
-    .desc = This plaque commemorates the fall of the Atmos ZAS division. For all the charred, dizzy, and brittle men who have died in its hands.
+ent-PlaqueAtmosZAS = табличка Атмосферного Отдела ZAS
+    .desc = Эта табличка увековечивает падение Атмосферного отдела ZAS. Памяти всех обугленных, одурманенных и ломких людей, погибших от его рук.
 
-ent-PlaqueAtmosZUM = ZUM Atmospherics Division plaque
-    .desc = This plaque commemorates the rise of the Atmos ZUM division. May they carry the torch that the Atmos ZAS, LINDA and FEA divisions left behind.
+ent-PlaqueAtmosZUM = табличка Атмосферного Отдела ZUM
+    .desc = Эта табличка увековечивает создание Атмосферного отдела ZUM. Пусть он подхватит факел, оставленный Атмосферными отделами ZAS, LINDA и FEA.

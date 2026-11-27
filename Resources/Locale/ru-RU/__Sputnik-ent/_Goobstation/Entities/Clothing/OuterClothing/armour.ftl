@@ -1,62 +1,62 @@
-ent-ClothingOuterVestWebDurathread = durathread web vest
-    .desc = An improvised armored web vest made from durathread with plasteel plates. It's surprisingly light, despite formidable armor plating.
+ent-ClothingOuterVestWebDurathread = дюратканевый бронежилет-разгрузка
+    .desc = Самодельный бронежилет-разгрузка из дюраткани с пласталевыми пластинами. Несмотря на серьёзное бронирование, он на удивление лёгкий.
 
-ent-ClothingOuterArmourDurathread = durathread armor
-    .desc = An armored vest created from plasteel plates woven with durathread. It's surprisingly flexible and light, despite formidable armor plating.
+ent-ClothingOuterArmourDurathread = дюратканевая броня
+    .desc = Бронежилет из пласталевых пластин, оплетённых дюратканью. Несмотря на серьёзное бронирование, он на удивление гибкий и лёгкий.
 
-ent-ClothingOuterArmorHelldiver = salvage NT-01 tactical hardsuit
-    .desc = This armor is the NanoTrasen standard issue, made from the same titanium alloy as the Goliath hull.
+ent-ClothingOuterArmorHelldiver = тактический скафандр утилизатора NT-01
+    .desc = Эта броня входит в стандартное снаряжение NanoTrasen и сделана из того же титанового сплава, что и корпус Голиафа.
 
-ent-ClothingOuterArmorHoSVestWeb = head of security's web vest
-    .desc = A high-quality armored vest made from a hard synthetic material. It is surprisingly flexible and light, despite formidable armor plating.
+ent-ClothingOuterArmorHoSVestWeb = бронежилет-разгрузка главы службы безопасности
+    .desc = Качественный бронежилет из прочного синтетического материала. Несмотря на серьёзное бронирование, он на удивление гибкий и лёгкий.
 
-ent-ClothingOuterCapJacket = captain's armored jacket
-    .desc = An extremely expensive jacket with extra durathread protection at the chest.
+ent-ClothingOuterCapJacket = бронированная куртка капитана
+    .desc = Чрезвычайно дорогая куртка с дополнительной защитой из дюраткани на груди.
 
-ent-ClothingOuterWinterCapArmored = captain's fancy winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterCapArmored = нарядная зимняя куртка капитана
+    .desc = Тяжёлая куртка из «синтетического» звериного меха.
 
-ent-ClothingOuterArmourInvisible = bluespace assisted armor
-    .desc = An armored vest that utilizes bluespace technology, bending light and becoming invisible to the naked eye when worn.
+ent-ClothingOuterArmourInvisible = броня с блюспейс-модулем
+    .desc = Бронежилет с блюспейс-технологией. Он искривляет свет и становится невидимым для невооружённого глаза, когда его надевают.
 
-ent-ClothingOuterArmourInvisibleChameleon = covert armor
-    .desc = An armored vest that utilizes bluespace technology. Capable of being completely invisible, or appearing as any other outer clothing.
+ent-ClothingOuterArmourInvisibleChameleon = скрытная броня
+    .desc = Бронежилет с блюспейс-технологией. Может стать совершенно невидимым или принять облик любой другой верхней одежды.
 
-ent-ClothingOuterArmorCloakSith = dark lord cloak
-    .desc = What began as a simple cosplay cloak was illegally reinforced with armored plates, transforming it into a functional piece of armor. Looks like it's even capable of protecting the user from the lack of pressure in space.
+ent-ClothingOuterArmorCloakSith = плащ тёмного владыки
+    .desc = Обычный плащ для косплея незаконно усилили бронепластинами, превратив в настоящую броню. Похоже, он даже способен защитить владельца от вакуума.
 
-ent-ClothingOuterArmourInvisibleSyndie = redspace assisted armor
-    .desc = An armored vest that utilizes redspace technology to appear invisible and not mess with your business style.
+ent-ClothingOuterArmourInvisibleSyndie = броня с редспейс-модулем
+    .desc = Бронежилет с редспейс-технологией: он становится невидимым и не портит ваш деловой стиль.
 
-ent-ClothingOuterArmorQueenCarapace = queen's carapace
-    .desc = The skull of the ancient Xeno Queen, reforged into an imposing chestpiece that turns her former menace into unyielding protection.
+ent-ClothingOuterArmorQueenCarapace = панцирь королевы
+    .desc = Череп древней Королевы Ксеноморфов перековали во внушительный нагрудник, превратив былую угрозу в несокрушимую защиту.
 
-ent-ClothingOuterPonchoClassicRobust = authentic cowboys poncho
-    .desc = A poncho made for real cowboys.
+ent-ClothingOuterPonchoClassicRobust = настоящее ковбойское пончо
+    .desc = Пончо для настоящих ковбоев.
 
-ent-ClothingOuterArmorTemplar = crusader armour
-    .desc = God wills it!
+ent-ClothingOuterArmorTemplar = доспех крестоносца
+    .desc = Так угодно Богу!
 
-ent-ClothingOuterArmorStudent = student robe
-    .desc = The uniform of a bygone institute of learning.
+ent-ClothingOuterArmorStudent = мантия ученика
+    .desc = Форма давно исчезнувшего учебного заведения.
 
-ent-ClothingOuterArmorWitchhunter = witch hunter garb
-    .desc = This worn outfit saw much use back in the day.
+ent-ClothingOuterArmorWitchhunter = одеяние охотника на ведьм
+    .desc = В своё время этот потрёпанный наряд носили без устали.
 
-ent-ClothingOuterArmorAncient = ancient armour
-    .desc = Defend the treasure...
+ent-ClothingOuterArmorAncient = древний доспех
+    .desc = Защищайте сокровище...
 
-ent-ClothingOuterArmorAdept = adept robes
-    .desc = The ideal outfit for burning the unfaithful.
+ent-ClothingOuterArmorAdept = одеяние адепта
+    .desc = Идеальный наряд для сожжения неверных.
 
-ent-ClothingOuterArmorClock = forgotten armour
-    .desc = It sounds like hissing steam, ticking cogs, gone silent, It looks like a dead machine, trying to tick with life.
+ent-ClothingOuterArmorClock = забытый доспех
+    .desc = Будто шипение пара и стук шестерён вдруг смолкли, Будто мёртвая машина пытается снова ожить.
 
-ent-ClothingOuterArmorMonk = monk's habit
-    .desc = A few steps above rended sackcloth.
+ent-ClothingOuterArmorMonk = монашеское одеяние
+    .desc = На несколько ступеней выше рваной мешковины.
 
-ent-ClothingOuterArmorBishop = bishop's robes
-    .desc = Glad to see the tithes you collected were well spent.
+ent-ClothingOuterArmorBishop = епископское облачение
+    .desc = Приятно видеть, что собранная вами десятина пошла на дело.
 
-ent-ClothingOuterArmorVeteranSecurity = Veteran security's old armor
-    .desc = An old version of the standard NanoTrasen bulletproof vest, its design provides better protection against surprise attacks by clowns, it still meets NT's protection standards
+ent-ClothingOuterArmorVeteranSecurity = старая броня Ветерана службы безопасности
+    .desc = Старая версия штатного бронежилета NanoTrasen, его конструкция лучше защищает от внезапных нападений клоунов, а сам он по-прежнему соответствует стандартам защиты NT

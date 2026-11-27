@@ -1,2 +1,2 @@
-ent-WeaponSubMachineGunM7S = M7S "Ventilator" submachine gun
-    .desc = You may or may not be green, but you are still very very mean. Takes proprietary side-loading 5x23mm rifle magazines.
+ent-WeaponSubMachineGunM7S = пистолет-пулемёт M7S «Ventilator»
+    .desc = Может, вы и не зелёный, но точно очень, очень злой. Принимает фирменные винтовочные магазины 5x23мм с боковой установкой.

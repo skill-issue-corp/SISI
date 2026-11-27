@@ -1,5 +1,5 @@
-ent-BaseCrowbar = crowbar
-    .desc = A multipurpose tool used for many tasks, such as prying doors or bludgeoning interdimensional invaders.
+ent-BaseCrowbar = лом
+    .desc = Многоцелевой инструмент: им можно вскрыть двери или огреть межпространственного захватчика.
 
 ent-Crowbar = { ent-BaseCrowbar }
     .desc = { ent-BaseCrowbar.desc }

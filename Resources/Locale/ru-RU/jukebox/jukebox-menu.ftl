@@ -3,8 +3,8 @@
 #
 # SPDX-License-Identifier: MIT
 
-jukebox-menu-title = Jukebox
-jukebox-menu-selectedsong = Selected Song:
-jukebox-menu-buttonplay = Play
-jukebox-menu-buttonpause = Pause
-jukebox-menu-buttonstop = Stop
+jukebox-menu-title = Музыкальный Автомат
+jukebox-menu-selectedsong = Выбранная Песня:
+jukebox-menu-buttonplay = Воспроизвести
+jukebox-menu-buttonpause = Приостановить
+jukebox-menu-buttonstop = Остановить

@@ -1,28 +1,30 @@
-feedbackpopup-window-name = Request for feedback
+feedbackpopup-window-name = Запрос обратной связи
 
-feedbackpopup-control-button-text = Open Link
+feedbackpopup-control-button-text = Открыть Ссылку
 
 feedbackpopup-control-total-surveys = {$num ->
-    [one] {$num} entry
-   *[other] {$num} entries
+    [one] {$num} запись
+   [few] {$num} записи
+   *[many] {$num} записей
+    [other] {$num} записи
 }
-feedbackpopup-control-no-entries= No entries
-feedbackpopup-control-ui-footer = Let us know what you think!
+feedbackpopup-control-no-entries= Нет записей
+feedbackpopup-control-ui-footer = Расскажите нам, что вы думаете!
 
 # Command strings
-command-description-openfeedbackpopup = Opens the feedback popup window.
-command-description-feedback-show = Opens the feedback popup window for the given sessions.
-command-description-feedback-add = Adds a feedback popup prototype to the given clients and opens the popup window if the client didn't already have the prototype listed.
-command-description-feedback-remove = Removes a feedback popup prototype from the given clients.
+command-description-openfeedbackpopup = Открывает окно обратной связи.
+command-description-feedback-show = Открывает окно обратной связи для указанных сессий.
+command-description-feedback-add = Добавляет прототип запроса обратной связи указанным клиентам и открывает окно, если у клиента ещё не было такого прототипа в списке.
+command-description-feedback-remove = Удаляет прототип запроса обратной связи у указанных клиентов.
 
 feedbackpopup-give-command-name = givefeedbackpopup
 feedbackpopup-show-command-name = showfeedbackpopup
-cmd-givefeedbackpopup-desc = Gives the targeted player a feedback popup.
-cmd-givefeedbackpopup-help = Usage: givefeedbackpopup <playerUid> <prototypeId>
-cmd-showfeedbackpopup-desc = Open the feedback popup window.
-cmd-showfeedbackpopup-help = Usage: showfeedbackpopup
-feedbackpopup-command-error-invalid-proto = Invalid feedback popup prototype.
-feedbackpopup-command-error-popup-send-fail = Failed to send popup! There probably isn't a mind attached to the given entity.
-feedbackpopup-command-success = Sent popup!
+cmd-givefeedbackpopup-desc = Показывает указанному игроку окно обратной связи.
+cmd-givefeedbackpopup-help = Использование: givefeedbackpopup <playerUid> <prototypeId>
+cmd-showfeedbackpopup-desc = Открыть окно обратной связи.
+cmd-showfeedbackpopup-help = Использование: showfeedbackpopup
+feedbackpopup-command-error-invalid-proto = Недопустимый прототип запроса обратной связи.
+feedbackpopup-command-error-popup-send-fail = Не удалось показать окно! Вероятно, у указанной сущности нет разума.
+feedbackpopup-command-success = Окно отправлено!
 feedbackpopup-command-hint-playerUid = <playerUid>
 feedbackpopup-command-hint-protoId = <prototypeId>

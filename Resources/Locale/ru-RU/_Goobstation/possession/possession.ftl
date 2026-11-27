@@ -1,18 +1,18 @@
-possession-fail-changeling = There's no soul to tamper with!
-possession-fail-heretic = The power of the mansus prevents you from possessing them!
-possession-fail-ghoul = There's no mind for you to possess!
-possession-fail-devil = You cannot possess another devil!
-possession-fail-ghost = There's no mind for you to possess!
-possession-fail-temporary = There's no mind for you to possess!
-possession-fail-target-dead = There's no mind for you to possess!
-possession-fail-target-shielded = A pesky shield prevents you from prying at their mind!
-possession-fail-target-already-possessed = Someone else has already taken over this mind...
-possession-fail-target-chaplain = A holy force prevents you from possessing this target!
-possession-fail-target-immune = An unusual barrier blocks your possession attempt!
-possession-fail-target-polymorphed = This form is too unstable to possess!
+possession-fail-changeling = Здесь нет души, на которую можно повлиять!
+possession-fail-heretic = Сила мансуса не даёт вам вселиться!
+possession-fail-ghoul = Здесь нет разума, которым можно завладеть!
+possession-fail-devil = Вы не можете вселиться в другого дьявола!
+possession-fail-ghost = Здесь нет разума, которым можно завладеть!
+possession-fail-temporary = Здесь нет разума, которым можно завладеть!
+possession-fail-target-dead = Здесь нет разума, которым можно завладеть!
+possession-fail-target-shielded = Проклятый щит мешает проникнуть в разум!
+possession-fail-target-already-possessed = Кто-то уже захватил этот разум...
+possession-fail-target-chaplain = Святая сила не даёт вам вселиться в эту цель!
+possession-fail-target-immune = Необычный барьер мешает вселиться!
+possession-fail-target-polymorphed = Эта форма слишком нестабильна для вселения!
 
-possession-popup-others = {$target}'s limbs contort in a strange way, {POSS-ADJ($target)} eyes rolling back in {POSS-ADJ($target)} head.
-possession-popup-self = Your soul is forced out of your body!
-possession-end-popup = {$target} seizes up and falls limp to the ground.
+possession-popup-others = Конечности {$target} странно изгибаются, {POSS-ADJ($target)} глаза закатываются в {POSS-ADJ($target)} голове.
+possession-popup-self = Вашу душу выталкивает из тела!
+possession-end-popup = {$target} цепенеет и безвольно падает на землю.
 
-possessed-component-examined = You have {$timeremaining} seconds left in this body.
+possessed-component-examined = Вам осталось {$timeremaining} сек. в этом теле.

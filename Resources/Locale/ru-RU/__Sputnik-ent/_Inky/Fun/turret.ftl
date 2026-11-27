@@ -1,3 +1,3 @@
-ent-WeaponTurretFunEngi = engineering sentry
-    .desc = A turret, made by best of the best from the nanotrasen worst engineering institution.
-    .suffix = engi, targets tiders
+ent-WeaponTurretFunEngi = инженерная турель
+    .desc = Турель, сделанная лучшими из лучших в худшем инженерном заведении NanoTrasen.
+    .suffix = инж, целится в тайдеров

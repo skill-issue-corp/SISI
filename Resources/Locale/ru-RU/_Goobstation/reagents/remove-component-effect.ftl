@@ -1,2 +1,2 @@
-entity-effect-guidebook-remove-delayed-knockdown = Cancels stun baton delayed knockdown.
-entity-effect-guidebook-removes-disabilities = Removes most disabilities
+entity-effect-guidebook-remove-delayed-knockdown = Отменяет отсроченное сбивание с ног электродубинкой.
+entity-effect-guidebook-removes-disabilities = Устраняет большинство нарушений функций

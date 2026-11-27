@@ -1,17 +1,17 @@
 ent-BaseFishTrauma = { ent-BaseFish }
     .desc = { ent-BaseFish.desc }
 
-ent-FishAbductor = abductor fish
-    .desc = It's creepy..
+ent-FishAbductor = рыба-абдуктор
+    .desc = Жутковатая..
 
-ent-FishDumb = dumb fish
-    .desc = He doesn't even have three dimensions! What a dummy.
+ent-FishDumb = тупая рыба
+    .desc = Она даже не трёхмерная! Вот дурёха.
 
-ent-FishFatFuckingCunt = fat fucking cunt fish
-    .desc = Kill him out of mercy.
+ent-FishFatFuckingCunt = жирная ебаная рыба-пизда
+    .desc = Прикончите её из милосердия.
 
-ent-FishNeedle = needle fish
-    .desc = His flesh was human once.
+ent-FishNeedle = рыба-игла
+    .desc = Когда-то её плоть была человеческой.
 
-ent-FishSquid = squid
-    .desc = Full of ink!
+ent-FishSquid = кальмар
+    .desc = Полон чернил!

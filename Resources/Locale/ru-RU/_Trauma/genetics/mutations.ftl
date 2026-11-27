@@ -1,226 +1,226 @@
-MutationAdrenalineRush-mutated = You feel pumped up!
-MutationAdrenalineRush-inject-popup = You feel pumped up! It's time to GO!
-MutationAdrenalineRush-comedown-popup = Your adrenaline rush makes way for a bout of nausea and a deep feeling of exhaustion in your muscles.
+MutationAdrenalineRush-mutated = Вы чувствуете прилив сил!
+MutationAdrenalineRush-inject-popup = Вы чувствуете прилив сил! Пора ДЕЙСТВОВАТЬ!
+MutationAdrenalineRush-comedown-popup = Прилив адреналина сменяется тошнотой и глубокой усталостью в мышцах.
 
-MutationColdAdaptation-mutated = Your body feels refreshingly cold.
+MutationColdAdaptation-mutated = По телу разливается освежающая прохлада.
 
-MutationHeatAdaptation-mutated = Your body feels invirogatingly warm.
+MutationHeatAdaptation-mutated = По телу разливается бодрящее тепло.
 
-MutationThermalAdaptation-mutated = Your body feels pleasantly room temperature.
+MutationThermalAdaptation-mutated = Вашему телу приятно... как при комнатной температуре.
 
-MutationPressureAdaptation-mutated = Your body feels numb.
+MutationPressureAdaptation-mutated = Ваше тело немеет.
 
-MutationColdWeakness-mutated = Your skin tingles.
+MutationColdWeakness-mutated = Кожу покалывает.
 
-MutationHeatWeakness-mutated = Your sweat glands close up.
+MutationHeatWeakness-mutated = Ваши потовые железы закрываются.
 
-MutationThermalWeakness-mutated = Your body feels especially sickly.
+MutationThermalWeakness-mutated = Всё тело ощущается особенно болезненно.
 
-MutationAntenna-mutated = You feel an antenna sprout from your forehead.
-MutationAntenna-removed = Your antenna shrinks back down.
+MutationAntenna-mutated = Вы чувствуете, как изо лба растёт антенна.
+MutationAntenna-removed = Ваша антенна втягивается обратно.
 
-MutationMindReader-mutated = You hear distant voices at the corners of your mind.
-MutationMindReader-removed = The distant voices fade.
-MutationMindReader-popup-target-mindless = {CAPITALIZE($target)} has no mind to read!
-MutationMindReader-popup-target-dead = {CAPITALIZE($target)} is dead!
+MutationMindReader-mutated = На краю сознания слышны далёкие голоса.
+MutationMindReader-removed = Далёкие голоса стихают.
+MutationMindReader-popup-target-mindless = У {CAPITALIZE($target)} нет разума, который можно прочесть!
+MutationMindReader-popup-target-dead = {CAPITALIZE($target)} мёртв!
 MutationMindReader-popup-mind-protected =
-    As you reach into {$target}'s mind, you are stopped by a mental blockage.
-    It seems you've been foiled.
-MutationMindReader-popup-self = You plunge into your mind... Yep, it's your mind.
-MutationMindReader-popup-target-evil = As you reach into {$target}'s mind, you feel the overwhelming emptiness within. A truly evil being.
-MutationMindReader-popup-also-evil = It's nice to find someone who is like-minded.
-MutationMindReader-popup-not-evil = What is wrong with this person?
-MutationMindReader-popup-plunge = You plunge into {$target}'s mind...
-MutationMindReader-popup-alert = You feel something foreign enter your mind.
-MutationMindReader-popup-messages = You catch some drifting memories of {POSS-ADJ($target)} past conversations...
-MutationMindReader-popup-message-format = "{$message}"
-MutationMindReader-popup-combat-mode = You find that {POSS-ADJ($target)} intent is to {$combat ->
-    [true] harm
-    *[false] help
+    Стоит вам проникнуть в разум {$target}, как вас останавливает ментальный барьер.
+    Похоже, вам помешали.
+MutationMindReader-popup-self = Вы погружаетесь в собственный разум... Ага, это ваш разум.
+MutationMindReader-popup-target-evil = Проникнув в разум {$target}, вы чувствуете внутри всепоглощающую пустоту. Вот уж по-настоящему злобное существо.
+MutationMindReader-popup-also-evil = Приятно встретить единомышленника.
+MutationMindReader-popup-not-evil = Что с этим человеком не так?
+MutationMindReader-popup-plunge = Вы погружаетесь в разум {$target}...
+MutationMindReader-popup-alert = Вы чувствуете, как в ваш разум проникает что-то чужое.
+MutationMindReader-popup-messages = Вы улавливаете обрывки воспоминаний. Это {POSS-ADJ($target)} прошлые разговоры...
+MutationMindReader-popup-message-format = «{$message}»
+MutationMindReader-popup-combat-mode = Вы выясняете, что {POSS-ADJ($target)} интент — {$combat ->
+    [true] навредить
+    *[false] помочь
 }...
-MutationMindReader-popup-true-identity = You uncover that {POSS-ADJ($target)} true identity is {$name}!
+MutationMindReader-popup-true-identity = Вы раскрываете {POSS-ADJ($target)} истинную личность: {$name}!
 
-MutationAutotomy-mutated = Your joints feel loose.
-MutationEpilepsy-mutated = You get a headache.
+MutationAutotomy-mutated = Кажется, суставы расшатались.
+MutationEpilepsy-mutated = У вас заболела голова.
 
-MutationCough-mutated = You start coughing.
+MutationCough-mutated = Вы начинаете кашлять.
 
-MutationParanoia-mutated = You feel screams echo through your mind...
-MutationParanoia-removed = The screaming in your mind fades.
+MutationParanoia-mutated = В вашем сознании эхом отдаются крики...
+MutationParanoia-removed = Крики в вашей голове стихают.
 
-MutationDwarfism-mutated = Everything around you seems to grow...
+MutationDwarfism-mutated = Всё вокруг будто растёт...
 
-MutationAcromegaly-mutated = You feel a small strange urge to fight small men with slingshots. Or maybe play some basketball.
+MutationAcromegaly-mutated = У вас появляется лёгкое странное желание подраться с коротышками, вооружёнными пращами. Или сыграть в баскетбол.
 
-MutationGigantism-mutated = Everything around you seems to shrink.
+MutationGigantism-mutated = Всё вокруг будто уменьшается.
 
-MutationClumsiness-mutated = You feel lightheaded.
+MutationClumsiness-mutated = У вас кружится голова.
 
-MutationTourettes-mutated = You twitch.
+MutationTourettes-mutated = Вас передёргивает.
 
-MutationDeafness-mutated = You can't seem to hear anything...
+MutationDeafness-mutated = Похоже, вы ничего не слышите...
 
-MutationMonkified-mutated = You feel unusually monkey-like.
-MutationMonkified-removed = You feel like your old self.
+MutationMonkified-mutated = Вы чувствуете себя на редкость обезьяноподобно.
+MutationMonkified-removed = Вы снова чувствуете себя собой.
 
-MutationGlowy-mutated = Your skin begins to glow softly.
+MutationGlowy-mutated = Ваша кожа начинает мягко светиться.
 
-MutationAntiGlow-mutated = The light around you seems to disappear.
+MutationAntiGlow-mutated = Свет вокруг вас словно исчезает.
 
-MutationStrength-mutated = You feel stronger.
+MutationStrength-mutated = Вы чувствуете себя сильнее.
 
-MutationStimmed-mutated = You feel stimmed.
+MutationStimmed-mutated = Вы чувствуете действие стимулятора.
 
-MutationInsulated-mutated = Your fingertips go numb.
-MutationInsulated-removed = Your fingertips regain feeling.
+MutationInsulated-mutated = Кончики ваших пальцев немеют.
+MutationInsulated-removed = К кончикам пальцев возвращается чувствительность.
 
-MutationFierySweat-mutated = You feel hot.
-MutationFierySweat-removed = You feel a lot cooler.
+MutationFierySweat-mutated = Вам становится жарко.
+MutationFierySweat-removed = Вам становится гораздо прохладнее.
 
-MutationSpatialInstability-mutated = The space around you twists sickeningly.
-MutationSpatialInstability-removed = The space around you settles back to normal.
+MutationSpatialInstability-mutated = Пространство вокруг вас искривляется до тошноты.
+MutationSpatialInstability-removed = Пространство вокруг вас возвращается в норму.
 
-MutationAcidicFlesh-mutated = A horrible burning sensation envelops you as your flesh turns to acid!
-MutationAcidicFlesh-removed = A feeling of relief fills you as your flesh goes back to normal.
+MutationAcidicFlesh-mutated = Вас охватывает жуткое жжение: ваша плоть превращается в кислоту!
+MutationAcidicFlesh-removed = Вас охватывает облегчение, когда плоть возвращается в норму.
 
-MutationSpastic-mutated = You flinch.
-MutationSpastic-removed = Your flinching subsides.
+MutationSpastic-mutated = Вы вздрагиваете.
+MutationSpastic-removed = Подёргивания проходят.
 
-MutationTwoLeftFeet-mutated = Your right foot feels... left.
-MutationTwoLeftFeet-removed = Your right foot feels alright.
+MutationTwoLeftFeet-mutated = Ваша правая нога на ощупь... левая.
+MutationTwoLeftFeet-removed = С правой ногой снова всё в порядке.
 
-MutationInternalMartyrdom-mutated = You get an intense feeling of heartburn.
-MutationInternalMartyrdom-removed = Your internal organs feel at ease.
+MutationInternalMartyrdom-mutated = Вас мучает сильная изжога.
+MutationInternalMartyrdom-removed = Ваши внутренние органы больше не беспокоят.
 
-MutationHeadless-mutated = Something feels off.
+MutationHeadless-mutated = Что-то здесь не так.
 
-MutationHypermetabolicBlood-mutated = You can feel your heartbeat pick up.
-MutationHypermetabolicBlood-removed = You heartbeat slows back down.
+MutationHypermetabolicBlood-mutated = Вы чувствуете, как сердце бьётся быстрее.
+MutationHypermetabolicBlood-removed = Сердцебиение вновь замедляется.
 
-MutationRockEater-mutated = You feel a craving for rocks.
-MutationRockEater-removed = You could go for a normal meal.
+MutationRockEater-mutated = Вам хочется камней.
+MutationRockEater-removed = Теперь вы бы не отказались от нормальной еды.
 
-MutationRockAbsorber-mutated = You feel a supreme craving for rocks.
-MutationRockAbsorber-removed = You could go for a normal meal.
+MutationRockAbsorber-mutated = Вам безумно хочется камней.
+MutationRockAbsorber-removed = Теперь вы бы не отказались от нормальной еды.
 
-MutationInexorable-mutated = You feel inexorable.
-MutationInexorable-removed = You suddenly feel more human.
+MutationInexorable-mutated = Вы чувствуете себя неумолимым.
+MutationInexorable-removed = Вы вдруг чувствуете себя человечнее.
 
-MutationChameleon-mutated = You feel one with your surroundings.
-MutationChameleon-removed = You feel oddly exposed.
+MutationChameleon-mutated = Вы чувствуете себя частью окружения.
+MutationChameleon-removed = Вам кажется, что вы у всех на виду.
 
-MutationGeladikinesis-mutated = Your hand feels cold.
+MutationGeladikinesis-mutated = Ваша рука холодеет.
 
-MutationCryokinesis-mutated = Your hand feels cold.
+MutationCryokinesis-mutated = Ваша рука холодеет.
 
-MutationFarsight-mutated = You feel your eyes tingle.
-MutationFarsight-removed = Your eyes feel normal.
+MutationFarsight-mutated = Вы чувствуете покалывание в глазах.
+MutationFarsight-removed = С глазами снова всё в порядке.
 
-MutationFireBreath-mutated = Your throat is burning!
-MutationFireBreath-removed = Your throat is cooling down.
+MutationFireBreath-mutated = У вас горит горло!
+MutationFireBreath-removed = Горло остывает.
 
-MutationCindikinesis-mutated = Your hand feels warm.
+MutationCindikinesis-mutated = Ваша рука теплеет.
 
-MutationPyrokinesis-mutated = Your hand feels hot!
+MutationPyrokinesis-mutated = Ваша рука раскаляется!
 
-MutationHulk-mutated = Your muscles hurt.
+MutationHulk-mutated = Ваши мышцы болят.
 
-MutationOrk-mutated = You feel significantly dumber!
+MutationOrk-mutated = Вы чувствуете себя куда тупее!
 
-MutationDogNose-mutated = Smells begin to make more sense...
-MutationDogNose-removed = Your sense of smell goes back to normal.
+MutationDogNose-mutated = Вы начинаете лучше различать запахи...
+MutationDogNose-removed = Обоняние возвращается в норму.
 
-MutationClever-mutated = You feel a little bit smarter.
+MutationClever-mutated = Вы чувствуете себя чуточку умнее.
 
-MutationRadioactivity-mutated = You can feel it in your bones!
+MutationRadioactivity-mutated = Вы чувствуете это костями!
 
-MutationTelekinesis-mutated = You feel smarter.
-MutationTelekinesis-removed = Your mind feels a little bit foggy.
+MutationTelekinesis-mutated = Вы чувствуете себя умнее.
+MutationTelekinesis-removed = Мысли слегка туманятся.
 
-MutationElasticArms-mutated = You feel armstrong!
-MutationElasticArms-removed = Your arms stop feeling so saggy all the time.
+MutationElasticArms-mutated = Вы ощущаете себя армстронгом!
+MutationElasticArms-removed = Руки больше не висят как плети.
 
-MutationNearSightedness-mutated = You can't see very well.
+MutationNearSightedness-mutated = Вы плохо видите.
 
-MutationBlindness-mutated = You can't seem to see anything.
+MutationBlindness-mutated = Похоже, вы ничего не видите.
 
 ## cope if you get this as a lizard??
-MutationThermalVision-mutated = You can see the heat rising off of your skin...
-MutationThermalVision-removed = You can no longer see the heat rising off of your skin...
+MutationThermalVision-mutated = Вы видите, как от вашей кожи поднимается тепло...
+MutationThermalVision-removed = Вы больше не видите, как от вашей кожи поднимается тепло...
 
-MutationIlliterate-mutated = You feel unable to read or write.
-MutationIlliterate-removed = You feel able to read and write again.
+MutationIlliterate-mutated = Кажется, вы больше не можете читать или писать.
+MutationIlliterate-removed = Вы снова можете читать и писать.
 
-MutationNervousness-mutated = You feel nervous.
+MutationNervousness-mutated = Вы нервничаете.
 
-MutationWacky-mutated = You feel an off sensation in your voicebox.
-MutationWacky-removed = The off sensation passes.
+MutationWacky-mutated = Вы ощущаете что-то странное в гортани.
+MutationWacky-removed = Странное ощущение проходит.
 
-MutationHeckaciousLarincks-mutated = duge what is WISH your words man...........
-MutationHeckaciousLarincks-removed = The demonic entity possessing your larynx has finally released its grasp.
+MutationHeckaciousLarincks-mutated = чё за ЖЭЛАНИЕ у тя со словами чувак...........
+MutationHeckaciousLarincks-removed = Демоническая сущность наконец отпустила вашу гортань.
 
-MutationMute-mutated = You feel unable to express yourself at all.
-MutationMute-removed = You feel able to speak freely again.
+MutationMute-mutated = Кажется, вы совсем не можете выразить свои мысли.
+MutationMute-removed = Вы снова можете свободно говорить.
 
-MutationUnintelligible-mutated = You can't seem to form any coherent thoughts!
-MutationUnintelligible-removed = Your mind feels more clear.
+MutationUnintelligible-mutated = У вас не получается связать ни одной мысли!
+MutationUnintelligible-removed = Мысли проясняются.
 
-MutationSwedish-mutated = You feel Swedish, however that works.
-MutationSwedish-removed = The feeling of Swedishness passes.
+MutationSwedish-mutated = Вы чувствуете себя шведом. Как бы это ни работало.
+MutationSwedish-removed = Ощущение Шведскости проходит.
 
-MutationChav-mutated = Ye feel like a reet prat like, innit?
-MutationChav-removed = You no longer feel like being rude and sassy.
+MutationChav-mutated = Чуешь ся прям козлом, ась?
+MutationChav-removed = Вам больше не хочется хамить и дерзить.
 
-MutationElvis-mutated = You feel pretty good, honeydoll.
-MutationElvis-removed = You feel a little less conversation would be great.
+MutationElvis-mutated = Вам чертовски хорошо, куколка.
+MutationElvis-removed = Вам кажется, что неплохо бы поменьше болтать.
 
-MutationStoner-mutated = You feel... totally chill, man!
-MutationStoner-removed = You feel like you have a better sense of time.
+MutationStoner-mutated = Вам... вообще кайфово, чувак!
+MutationStoner-removed = Вы чувствуете, что лучше ориентируетесь во времени.
 
-MutationMedieval-mutated = You feel like seeking the holy grail!
-MutationMedieval-removed = You no longer feel like seeking anything.
+MutationMedieval-mutated = Вам хочется отправиться на поиски святого грааля!
+MutationMedieval-removed = Вам больше не хочется ничего искать.
 
-MutationPigLatin-mutated = Omethingsay eelsfay offyay.
-MutationPigLatin-removed = The off sensation passes.
+MutationPigLatin-mutated = То-чтоай идётйай е-такнай.
+MutationPigLatin-removed = Странное ощущение проходит.
 
-MutationTelepathy-mutated = You hear your thoughts echo in your mind.
-MutationTelepathy-removed = You don't hear your mind echo anymore.
-MutationTelepathy-popup-mindless = You can't find a mind to influence...
-MutationTelepathy-popup-blocked = Something has blocked your transmission!
-MutationTelepathy-message-wrap = [bold]You hear a voice in your head...[/bold] {$message}
-MutationTelepathy-window-title = Telepathic Message
-MutationTelepathy-window-message = Message
-MutationTelepathy-window-placeholder = I am in your walls
+MutationTelepathy-mutated = Вы слышите в голове эхо собственных мыслей.
+MutationTelepathy-removed = Эхо в вашей голове исчезает.
+MutationTelepathy-popup-mindless = Вы не можете найти разум, на который можно повлиять...
+MutationTelepathy-popup-blocked = Что-то блокирует ваше сообщение!
+MutationTelepathy-message-wrap = [bold]Вы слышите голос у себя в голове...[/bold] {$message}
+MutationTelepathy-window-title = Телепатическое Сообщение
+MutationTelepathy-window-message = Сообщение
+MutationTelepathy-window-placeholder = Я у вас в стенах
 
-MutationTongueSpike-mutated = You feel like you can throw your voice.
-MutationTongueSpike-popup-no-organ = You don't have a {$organ} to shoot!
-MutationTongueSpike-popup-revert = {CAPITALIZE(THE($child))} cracks and twists, changing shape!
+MutationTongueSpike-mutated = Кажется, вы можете говорить чужим голосом.
+MutationTongueSpike-popup-no-organ = У вас нет органа «{$organ}», которым можно выстрелить!
+MutationTongueSpike-popup-revert = {CAPITALIZE($child)} трещит и изгибается, меняя форму!
 
-MutationChemSpike-mutated = You feel like you can really connect with people by throwing your voice.
-MutationChemSpike-target-set = Link established, use the Transfer Chemicals action!
-MutationChemSpike-target-reset = Link lost!
+MutationChemSpike-mutated = Кажется, вы можете по-настоящему сблизиться с людьми, говоря чужим голосом.
+MutationChemSpike-target-set = Связь установлена. Используйте действие «Передать Химикаты»!
+MutationChemSpike-target-reset = Связь потеряна!
 
-MutationShockTouch-mutated = You feel power flow through your hands.
-MutationShockTouch-removed = The energy in your hands subsides.
+MutationShockTouch-mutated = Вы чувствуете, как по рукам течёт энергия.
+MutationShockTouch-removed = Энергия в ваших руках иссякает.
 
-MutationMendingTouch-mutated = Your hand feels blessed!
-MutationMendingTouch-removed = Your hand feels secular once more.
+MutationMendingTouch-mutated = Ваша рука будто благословлена!
+MutationMendingTouch-removed = Ваша рука вновь стала мирской.
 
-MutationVoidMagnet-mutated = You feel a heavy, dull force just beyond the walls watching you.
+MutationVoidMagnet-mutated = Вы чувствуете, что из-за стен за вами наблюдает тяжёлая, глухая сила.
 
-MutationWebbingProduction-mutated = Your skin feels webby.
+MutationWebbingProduction-mutated = Ваша кожа словно покрыта паутиной.
 
-MutationLaserEyes-mutated = You feel pressure building up behind your eyes.
+MutationLaserEyes-mutated = За глазами нарастает давление.
 
-MutationUnstableDna-mutated = You feel strange.
+MutationUnstableDna-mutated = Вы чувствуете себя странно.
 
-MutationMouse-mutated = You hunger for cheese...
+MutationMouse-mutated = Вам очень хочется сыра...
 
-MutationEnhancedPerception-mutated = You see more out of the corner of your eyes...
-MutationEnhancedPerception-removed = Your vision returns to normal.
+MutationEnhancedPerception-mutated = Краем глаза вы видите больше обычного...
+MutationEnhancedPerception-removed = Зрение возвращается в норму.
 
-MutationWeakPerception-mutated = The shadows close in around you...
-MutationWeakPerception-removed = The shadows retreat...
+MutationWeakPerception-mutated = Тени смыкаются вокруг вас...
+MutationWeakPerception-removed = Тени отступают...
 
-MutationFelinized-mutated = You feel so kawaii...
-MutationFelinized-removed = Ugh... disgusting!
+MutationFelinized-mutated = Вы чувствуете себя такими кавайными...
+MutationFelinized-removed = Фу... мерзость!

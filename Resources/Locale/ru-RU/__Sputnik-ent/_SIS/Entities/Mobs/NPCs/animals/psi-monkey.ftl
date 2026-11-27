@@ -1,20 +1,20 @@
 ent-MobBasePsiMonkey = { ent-MobMonkey }
     .desc = { ent-MobMonkey.desc }
 
-ent-MobFirePsiMonkey = psi-monkey
-    .desc = A strange-looking monkey with a red, exposed brain.
+ent-MobFirePsiMonkey = пси-обезьяна
+    .desc = Странная обезьяна с красным, открытым мозгом.
 
-ent-PyrokinesBall = Pyrokinetic projectile
-    .desc = A powerful surge of psi energy.
+ent-PyrokinesBall = Пирокинетический снаряд
+    .desc = Мощный всплеск пси-энергии.
 
-ent-ActionPyrokinesBall = [color=red]Pyrokines[/color]
-    .desc = A powerful surge of psi energy that sets everyone in its path on fire.
+ent-ActionPyrokinesBall = [color=red]Пирокинез[/color]
+    .desc = Мощный всплеск пси-энергии, поджигающий всех на своём пути.
 
-ent-MobIcePsiMonkey = psi-monkey
-    .desc = A strange-looking monkey with a blue exposed brain.
+ent-MobIcePsiMonkey = пси-обезьяна
+    .desc = Странная обезьяна с синим открытым мозгом.
 
-ent-CryokinesRay = Cryokinetic projectile
-    .desc = A powerful surge of psi energy.
+ent-CryokinesRay = Криокинетический снаряд
+    .desc = Мощный всплеск пси-энергии.
 
-ent-ActionCryokinesRay = [color=blue]Cryokines[/color]
-    .desc = A powerful burst of psi energy that freezes the target.
+ent-ActionCryokinesRay = [color=blue]Криокинез[/color]
+    .desc = Мощный выброс пси-энергии, замораживающий цель.

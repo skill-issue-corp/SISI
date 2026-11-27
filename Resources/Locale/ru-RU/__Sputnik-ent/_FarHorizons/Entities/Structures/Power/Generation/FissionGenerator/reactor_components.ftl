@@ -1,95 +1,95 @@
 ent-BaseReactorPart = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-BaseReactorFuelRod = fuel rod
-    .desc = A fuel rod for a nuclear reactor.
+ent-BaseReactorFuelRod = топливный стержень
+    .desc = Топливный стержень для ядерного реактора.
 
-ent-CerenkiteReactorFuelRod = cerenkite fuel rod
+ent-CerenkiteReactorFuelRod = черенкитовый топливный стержень
     .desc = { ent-BaseReactorFuelRod.desc }
 
-ent-UraniumReactorFuelRod = uranium fuel rod
+ent-UraniumReactorFuelRod = урановый топливный стержень
     .desc = { ent-BaseReactorFuelRod.desc }
 
-ent-PlutoniumReactorFuelRod = plutonium fuel rod
+ent-PlutoniumReactorFuelRod = плутониевый топливный стержень
     .desc = { ent-BaseReactorFuelRod.desc }
 
-ent-BananiumReactorFuelRod = bananium fuel rod
-    .desc = A honk rod for a nuclear reactor.
+ent-BananiumReactorFuelRod = бананиумовый топливный стержень
+    .desc = Хонк-стержень для ядерного реактора.
 
-ent-PlasmaReactorFuelRod = phoron fuel rod
+ent-PlasmaReactorFuelRod = фороновый топливный стержень
     .desc = { ent-BaseReactorFuelRod.desc }
 
-ent-UraniumGlassReactorFuelRod = uranium glass fuel rod
+ent-UraniumGlassReactorFuelRod = топливный стержень из уранового стекла
     .desc = { ent-BaseReactorFuelRod.desc }
 
-ent-BaseReactorReflector = neutron reflector
-    .desc = A neutron reflector assembly for a nuclear reactor.
+ent-BaseReactorReflector = нейтронный отражатель
+    .desc = Сборка нейтронного отражателя для ядерного реактора.
 
-ent-BohrumReactorReflector = bohrum neutron reflector
+ent-BohrumReactorReflector = борумовый нейтронный отражатель
     .desc = { ent-BaseReactorReflector.desc }
 
-ent-SteelReactorReflector = steel neutron reflector
+ent-SteelReactorReflector = стальной нейтронный отражатель
     .desc = { ent-BaseReactorReflector.desc }
 
-ent-GoldReactorReflector = gold neutron reflector
+ent-GoldReactorReflector = золотой нейтронный отражатель
     .desc = { ent-BaseReactorReflector.desc }
 
-ent-SilverReactorReflector = silver neutron reflector
+ent-SilverReactorReflector = серебряный нейтронный отражатель
     .desc = { ent-BaseReactorReflector.desc }
 
-ent-GraphiteReactorReflector = graphite neutron reflector
+ent-GraphiteReactorReflector = графитовый нейтронный отражатель
     .desc = { ent-BaseReactorReflector.desc }
 
-ent-BaseReactorGasChannel = gas channel rod
-    .desc = A gas channel for a nuclear reactor.
+ent-BaseReactorGasChannel = газовый канал
+    .desc = Газовый канал для ядерного реактора.
 
-ent-SteelReactorGasChannel = steel gas channel rod
+ent-SteelReactorGasChannel = стальной газовый канал
     .desc = { ent-BaseReactorGasChannel.desc }
 
-ent-GoldReactorGasChannel = gold gas channel rod
+ent-GoldReactorGasChannel = золотой газовый канал
     .desc = { ent-BaseReactorGasChannel.desc }
 
-ent-SilverReactorGasChannel = silver gas channel rod
+ent-SilverReactorGasChannel = серебряный газовый канал
     .desc = { ent-BaseReactorGasChannel.desc }
 
-ent-BrassReactorGasChannel = brass gas channel rod
+ent-BrassReactorGasChannel = латунный газовый канал
     .desc = { ent-BaseReactorGasChannel.desc }
 
-ent-PlasteelReactorGasChannel = plasteel gas channel rod
+ent-PlasteelReactorGasChannel = пласталевый газовый канал
     .desc = { ent-BaseReactorGasChannel.desc }
 
-ent-GlassReactorGasChannel = glass gas channel rod
+ent-GlassReactorGasChannel = стеклянный газовый канал
     .desc = { ent-BaseReactorGasChannel.desc }
 
-ent-PlasmaGlassReactorGasChannel = phoron glass gas channel rod
+ent-PlasmaGlassReactorGasChannel = газовый канал из форонового стекла
     .desc = { ent-BaseReactorGasChannel.desc }
 
-ent-DiamondReactorGasChannel = diamond gas channel rod
+ent-DiamondReactorGasChannel = алмазный газовый канал
     .desc = { ent-BaseReactorGasChannel.desc }
 
-ent-BaseReactorHeatExchanger = heat exchanger rod
-    .desc = A heat exchanger for a nuclear reactor.
+ent-BaseReactorHeatExchanger = теплообменник
+    .desc = Теплообменник для ядерного реактора.
 
-ent-SteelReactorHeatExchanger = steel heat exchanger rod
+ent-SteelReactorHeatExchanger = стальной теплообменник
     .desc = { ent-BaseReactorHeatExchanger.desc }
 
-ent-GoldReactorHeatExchanger = gold heat exchanger rod
+ent-GoldReactorHeatExchanger = золотой теплообменник
     .desc = { ent-BaseReactorHeatExchanger.desc }
 
-ent-SilverReactorHeatExchanger = silver heat exchanger rod
+ent-SilverReactorHeatExchanger = серебряный теплообменник
     .desc = { ent-BaseReactorHeatExchanger.desc }
 
-ent-BrassReactorHeatExchanger = brass heat exchanger rod
+ent-BrassReactorHeatExchanger = латунный теплообменник
     .desc = { ent-BaseReactorHeatExchanger.desc }
 
-ent-PlasteelReactorHeatExchanger = plasteel heat exchanger rod
+ent-PlasteelReactorHeatExchanger = пласталевый теплообменник
     .desc = { ent-BaseReactorHeatExchanger.desc }
 
-ent-GlassReactorHeatExchanger = glass heat exchanger rod
+ent-GlassReactorHeatExchanger = стеклянный теплообменник
     .desc = { ent-BaseReactorHeatExchanger.desc }
 
-ent-PlasmaGlassReactorHeatExchanger = phoron glass heat exchanger rod
+ent-PlasmaGlassReactorHeatExchanger = теплообменник из форонового стекла
     .desc = { ent-BaseReactorHeatExchanger.desc }
 
-ent-DiamondReactorHeatExchanger = diamond heat exchanger rod
+ent-DiamondReactorHeatExchanger = алмазный теплообменник
     .desc = { ent-BaseReactorHeatExchanger.desc }

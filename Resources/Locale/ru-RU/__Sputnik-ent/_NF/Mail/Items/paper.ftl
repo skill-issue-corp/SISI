@@ -1,115 +1,115 @@
-ent-PaperMailNFPowerTool = Hazard Fraught advertisement
+ent-PaperMailNFPowerTool = реклама «Таит Опасность»
     .desc = { ent-Paper.desc }
-    .suffix = power tool ad, formatted
+    .suffix = реклама электроинструмента, форматированная
 
 ent-PaperMailNFVagueThreat1 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = vague mail threat 1, formatted
+    .suffix = завуалированная угроза по почте 1, форматированная
 
 ent-PaperMailNFVagueThreat2 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = vague mail threat 2, formatted
+    .suffix = завуалированная угроза по почте 2, форматированная
 
 ent-PaperMailNFVagueThreat3 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = vague mail threat 3, formatted
+    .suffix = завуалированная угроза по почте 3, форматированная
 
 ent-PaperMailNFVagueThreat4 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = vague mail threat 4, formatted
+    .suffix = завуалированная угроза по почте 4, форматированная
 
 ent-PaperMailNFVagueThreat5 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = vague mail threat 5, formatted
+    .suffix = завуалированная угроза по почте 5, форматированная
 
 ent-PaperMailNFVagueThreat6 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = vague mail threat 6, formatted
+    .suffix = завуалированная угроза по почте 6, форматированная
 
 ent-PaperMailNFVagueThreat7 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = vague mail threat 7, formatted
+    .suffix = завуалированная угроза по почте 7, форматированная
 
 ent-PaperMailNFVagueThreat8 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = vague mail threat 8, formatted
+    .suffix = завуалированная угроза по почте 8, форматированная
 
 ent-PaperMailNFVagueThreat9 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = vague mail threat 9, formatted
+    .suffix = завуалированная угроза по почте 9, форматированная
 
 ent-PaperMailNFVagueThreat10 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = vague mail threat 10, formatted
+    .suffix = завуалированная угроза по почте 10, форматированная
 
 ent-PaperMailNFVagueThreat11 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = vague mail threat 11, formatted
+    .suffix = завуалированная угроза по почте 11, форматированная
 
 ent-PaperMailNFVagueThreat12 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = vague mail threat 12, formatted
+    .suffix = завуалированная угроза по почте 12, форматированная
 
-ent-PaperMailNFPwrGameAd = pwr game advertisement
+ent-PaperMailNFPwrGameAd = реклама «пвр гейм»
     .desc = { ent-Paper.desc }
-    .suffix = pwr game ad
+    .suffix = объявление «пвр гейм»
 
-ent-PaperMailNFRedBoolAd = red bool advertisement
+ent-PaperMailNFRedBoolAd = реклама «ред бул»
     .desc = { ent-Paper.desc }
-    .suffix = red bool ad
+    .suffix = объявление «ред бул»
 
-ent-PaperMailNFSpaceColaAd = space cola advertisement
+ent-PaperMailNFSpaceColaAd = реклама космической колы
     .desc = { ent-Paper.desc }
-    .suffix = space cola ad
+    .suffix = объявление о космической коле
 
-ent-PaperMailNFSpaceMountainWindAd = space mountain wind advertisement
+ent-PaperMailNFSpaceMountainWindAd = реклама космического солнечного ветра
     .desc = { ent-Paper.desc }
-    .suffix = space mountain wind ad
+    .suffix = объявление о космическом солнечном ветре
 
-ent-PaperMailNFSpaceUpAd = space up advertisement
+ent-PaperMailNFSpaceUpAd = реклама «спейс-ап»
     .desc = { ent-Paper.desc }
-    .suffix = space up ad
+    .suffix = объявление «спейс-ап»
 
 ent-PaperMailNTSoapAd1 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = soap ad 1
+    .suffix = реклама мыла 1
 
 ent-PaperMailNTSoapAd2 = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = soap ad 2
+    .suffix = реклама мыла 2
 
 ent-PaperMailNTConscript = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = conscript
+    .suffix = призывник
 
 ent-PaperMailNTMusket = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = musket
+    .suffix = мушкет
 
 ent-PaperMailNFPaperPusherAd = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = paper pusher
+    .suffix = бумагомаратель
 
-ent-PaperMailNFPetBedAssemblyManual = pet bed assembly manual
+ent-PaperMailNFPetBedAssemblyManual = инструкция по сборке лежанки для питомца
     .desc = { ent-Paper.desc }
-    .suffix = pet bed assembly manual
+    .suffix = инструкция по сборке лежанки для питомца
 
 ent-PaperMailNFPipebombIntern = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = pipe bomb intern
+    .suffix = стажёр с трубчатой бомбой
 
-ent-PaperMailNFAntivirus = Snortin Antivirus invoice
+ent-PaperMailNFAntivirus = счёт за «Снортин Антивирус»
     .desc = { ent-Paper.desc }
-    .suffix = antivirus ad
+    .suffix = реклама антивируса
 
-ent-PaperMailNFEMPPreparedness = EMP preparedness response form
+ent-PaperMailNFEMPPreparedness = бланк ответа о готовности к ЭМИ
     .desc = { ent-Paper.desc }
-    .suffix = emp preparedness
+    .suffix = готовность к эми
 
-ent-PaperMailNFBuildABuddy = Build-a-Buddy adoption letter
+ent-PaperMailNFBuildABuddy = письмо об усыновлении «Собери-Друга»
     .desc = { ent-Paper.desc }
-    .suffix = build-a-buddy
+    .suffix = собери-друга
 
 ent-PaperMailNFSpaceLaw = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = space-law
+    .suffix = космический закон

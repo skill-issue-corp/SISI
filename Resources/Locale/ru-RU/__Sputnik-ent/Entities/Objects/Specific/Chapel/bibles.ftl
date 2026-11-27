@@ -1,29 +1,29 @@
-ent-Bible = space bible
-    .desc = New Interstellar Version 2340.
+ent-Bible = космическая библия
+    .desc = Новое Межзвёздное Издание 2340.
 
-ent-BibleNecronomicon = necronomicon
-    .desc = There's a note: Klatuu, Verata, Nikto -- Don't forget it again!
+ent-BibleNecronomicon = некрономикон
+    .desc = Внутри записка: Клату, Верата, Никто -- Только не забудь снова!
 
-ent-ActionBibleSummon = Summon familiar
-    .desc = Summon a familiar that will aid you and gain humanlike intelligence once inhabited by a soul.
+ent-ActionBibleSummon = Призвать фамильяра
+    .desc = Призовите фамильяра, который будет помогать вам и обретёт человеческий разум, когда в него вселится душа.
 
-ent-BibleDruid = druidic tablet
-    .desc = It's the mystery of the druids!
+ent-BibleDruid = скрижаль друидов
+    .desc = Это тайна друидов!
 
-ent-BibleCommunistManifesto = communist manifesto
-    .desc = Remove the mask of humanity from Capital.
+ent-BibleCommunistManifesto = коммунистический манифест
+    .desc = Сорвите маску человечности с Капитала.
 
-ent-BibleNarsie = tome of nar'sie
-    .desc = What could possibly go wrong with a book covered in blood?
+ent-BibleNarsie = фолиант нар'си
+    .desc = Что может пойти не так с книгой, залитой кровью?
 
-ent-BibleNanoTrasen = codex nanotrasimus
-    .desc = A familiar book containing the Sacred Operating Procedures.
+ent-BibleNanoTrasen = кодекс нанотразимуса
+    .desc = Знакомая книга, содержащая Священные Рабочие Процедуры.
 
-ent-BibleHonk = mirth of the honkmother
-    .desc = Oh great and glorious Mother, Mistress of Mirth, Matron of Mask and Merriments, Blessed is she amongst us jesters.
+ent-BibleHonk = веселье хонкоматери
+    .desc = О великая и славная Мать, Владычица Веселья, Покровительница Масок и Забав, Благословенна Ты среди нас, шутов.
 
-ent-BibleRatvar = tablet of ratvar
-    .desc = A holy relic of the Clockwork Cult, blessed by the Clockwork Justice, Ratvar.
+ent-BibleRatvar = скрижаль ратвара
+    .desc = Святая реликвия Часового Культа, благословлённая Часовым Правосудием, Ратваром.
 
 ent-HolyLightEffect = { "" }
     .desc = { "" }

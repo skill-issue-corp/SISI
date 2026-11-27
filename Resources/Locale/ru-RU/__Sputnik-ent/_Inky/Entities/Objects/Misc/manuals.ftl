@@ -1,5 +1,5 @@
 ent-MartialArtFlipOff = { ent-BaseKnowledge }
     .desc = { ent-BaseKnowledge.desc }
 
-ent-FlipOffManual = how to flip off
-    .desc = A small and handy manual, containing the evil scriptures of how to flip off anything, even as fast as a bullet.
+ent-FlipOffManual = как показать средний палец
+    .desc = Небольшое удобное пособие с нечестивыми писаниями о том, как показать средний палец чему угодно, даже на скорости пули.

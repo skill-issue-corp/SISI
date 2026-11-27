@@ -1,2 +1,2 @@
-ent-SalvageShuttleMarker = salvage shuttle marker
+ent-SalvageShuttleMarker = маркер шаттла утилизаторов
     .desc = { ent-FTLPoint.desc }

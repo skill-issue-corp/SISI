@@ -1,7 +1,7 @@
-blood-cult-action-stun = Fuu ma'jin!
-blood-cult-action-teleport = Sas'so c'arta forbici!
-blood-cult-action-emp = Ta'gh fara'qha fel d'amar det!
-blood-cult-action-shadow-shackles = In'totum Lig'abis!
-blood-cult-action-twisted-construction = Ethra p'ni dedol!
-blood-cult-action-summon-equipment = Wur d'dai leev'mai k'sagan!
-blood-cult-action-blood-rites = Fel'th Dol Ab'orod!
+blood-cult-action-stun = Фуу ма'джин!
+blood-cult-action-teleport = Сас'со к'арта форбичи!
+blood-cult-action-emp = Та'г фара'кха фел д'амар дет!
+blood-cult-action-shadow-shackles = Ин'тотум Лиг'абис!
+blood-cult-action-twisted-construction = Этра п'ни дедол!
+blood-cult-action-summon-equipment = Вур д'дай лив'май к'саган!
+blood-cult-action-blood-rites = Фел'т Дол Аб'ород!

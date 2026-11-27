@@ -8,19 +8,23 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Name
-loadout-name-edit-label = Sets a custom name to be used if you play this role. If empty, your character's name will be used instead.
-loadout-name-edit-label-dataset = Sets a custom name to be used if you play this role. If empty, a random name will be selected instead.
-loadout-name-edit-tooltip = {$max} characters max. If no name is specified a random one may be chosen for you.
+loadout-name-edit-label = Задаёт имя для этой роли. Если поле пустое, используется имя вашего персонажа.
+loadout-name-edit-label-dataset = Задаёт имя для этой роли. Если поле пустое, имя выбирается случайно.
+loadout-name-edit-tooltip = Не более {$max} { $max ->
+    [one] символа
+   *[other] символов
+}. Если оставить поле пустым, имя может быть выбрано случайно.
 
 # Restrictions
-loadout-restrictions = Restrictions
-loadouts-min-limit = Min count: {$count}
-loadouts-max-limit = Max count: {$count}
-loadouts-points-limit = Points: {$count} / {$max}
+loadout-restrictions = Ограничения
+loadouts-min-limit = Мин. количество: {$count}
+loadouts-max-limit = Макс. количество: {$count}
+loadouts-points-limit = Очки: {$count} / {$max}
 
-loadouts-count-items-in-group = {$item} and {$count} other {$count ->
-[1] item
-*[other] items
+loadouts-count-items-in-group = {$item} и ещё {$count} {$count ->
+[one] предмет
+[few] предмета
+*[many] предметов
 }
 
-loadouts-points-restriction = Insufficient points
+loadouts-points-restriction = Недостаточно очков

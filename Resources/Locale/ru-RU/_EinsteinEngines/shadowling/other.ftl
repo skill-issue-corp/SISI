@@ -1,45 +1,45 @@
-shadowling-on-try-equip-clothes = This is fruitless to you...
+shadowling-on-try-equip-clothes = Для вас это бесполезно...
 
-reagent-name-shadowling-toxin = shadowling toxin
-reagent-desc-shadowling-toxin = A mysterious chemical that makes heals any shadowling and their thralls, but blinds anyone else
+reagent-name-shadowling-toxin = токсин тенеморфа
+reagent-desc-shadowling-toxin = Загадочное вещество, исцеляющее любого тенеморфа и его траллов, но ослепляющее всех остальных
 
-alerts-shadowling-light-name = Light Identifier
-alerts-shadowling-light-desc = This is your light identifier. If it reaches 0, you start taking damage. Prioritize standing in the shadows.
+alerts-shadowling-light-name = Индикатор Освещения
+alerts-shadowling-light-desc = Это ваш индикатор освещения. При значении 0 вы начинаете получать урон. Старайтесь держаться в тени.
 
-chat-manager-shadowling-channel-name = Shadowmind
+chat-manager-shadowling-channel-name = Разум Тьмы
 
-shadowling-dead = You strangely regain your mind.
+shadowling-dead = Странно, но ваш разум снова принадлежит вам.
 
-shadowling-thrall-examined = This is your Thrall.
-shadowling-thrall-other-examined = {CAPITALIZE(POSS-ADJ($target))} eyes seem to gaze into another reality...
+shadowling-thrall-examined = Это ваш Тралл.
+shadowling-thrall-other-examined = {CAPITALIZE(POSS-ADJ($target))} взгляд словно устремлён в другую реальность...
 
-guide-entry-shadowlings = Shadowlings
+guide-entry-shadowlings = Тенеморфы
 
 reagent-effect-guidebook-blind-non-sling =
     { $chance ->
-        [1] Blinds any
-        *[other] blind any
-    } non-shadowling
+        [1] Ослепляет
+        *[other] ослепить
+    } любого, кто не является тенеморфом
 
 reagent-effect-guidebook-heal-sling =
     { $chance ->
-        [1] Heals any
-        *[other] heal any
-    } shadowling and thrall
+        [1] Исцеляет
+        *[other] исцелить
+    } любого тенеморфа и тралла
 
-marking-LesserShadowlingEyes = Lesser Shadowling Eyes
-marking-AbominationHorns = Abomination Horns
-marking-AbominationTorso = Abomination Torso
+marking-LesserShadowlingEyes = Глаза Младшего Тенеморфа
+marking-AbominationHorns = Рога Мерзости
+marking-AbominationTorso = Туловище Мерзости
 
-admin-verb-make-shadowling = Make the target into a shadowling.
-admin-verb-text-make-shadowling = Make Shadowling
+admin-verb-make-shadowling = Превратить цель в тенеморфа.
+admin-verb-text-make-shadowling = Сделать Тенеморфом
 
-species-name-shadowling = Shadowling
-species-name-shadow = Shadow
+species-name-shadowling = Тенеморф
+species-name-shadow = Тень
 
 # Examine Texts
-shadowling-examine-self = [color=#D22B2B]You take {$damage} burn damage from light[/color]
+shadowling-examine-self = [color=#D22B2B]Свет наносит вам {$damage} ед. урона ожогами[/color]
 
 # UI
-asc-broadcast-title = Ascendant Broadcast
-asc-broadcast-prompt = Message
+asc-broadcast-title = Объявление Вознесённого
+asc-broadcast-prompt = Сообщение

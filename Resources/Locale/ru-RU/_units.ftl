@@ -25,23 +25,23 @@ units-si-z = Z
 units-si-y = Y
 
 ### Long form
-units-si--y-long = yocto
-units-si--z-long = zepto
-units-si--a-long = atto
-units-si--f-long = femto
-units-si--p-long = pico
-units-si--n-long = nnano
-units-si--u-long = micro
-units-si--m-long = milli
+units-si--y-long = йокто
+units-si--z-long = зепто
+units-si--a-long = атто
+units-si--f-long = фемто
+units-si--p-long = пико
+units-si--n-long = нано
+units-si--u-long = микро
+units-si--m-long = милли
 units-si-long = {""}
-units-si-k-long = kilo
-units-si-m-long = mega
-units-si-g-long = giga
-units-si-t-long = tera
-units-si-p-long = peta
-units-si-e-long = exa
-units-si-z-long = zetta
-units-si-y-long = yotta
+units-si-k-long = кило
+units-si-m-long = мега
+units-si-g-long = гига
+units-si-t-long = тера
+units-si-p-long = пета
+units-si-e-long = экса
+units-si-z-long = зетта
+units-si-y-long = йотта
 
 ## Pascals (Pressure)
 units-u--pascal = µPa
@@ -51,12 +51,12 @@ units-k-pascal = kPa
 units-m-pascal = MPa
 units-g-pascal = GPa
 
-units-u--pascal-long = Micropascal
-units-m--pascal-long = Millipascal
-units-pascal-long = Pascal
-units-k-pascal-long = Kilopascal
-units-m-pascal-long = Megapascal
-units-g-pascal-long = Gigapascal
+units-u--pascal-long = Микропаскаль
+units-m--pascal-long = Миллипаскаль
+units-pascal-long = Паскаль
+units-k-pascal-long = Килопаскаль
+units-m-pascal-long = Мегапаскаль
+units-g-pascal-long = Гигапаскаль
 
 ## Watts (Power)
 units-u--watt = µW
@@ -66,12 +66,12 @@ units-k-watt = kW
 units-m-watt = MW
 units-g-watt = GW
 
-units-u--watt-long = Microwatt
-units-m--watt-long = Milliwatt
-units-watt-long = Watt
-units-k-watt-long = Kilowatt
-units-m-watt-long = Megawatt
-units-g-watt-long = Gigawatt
+units-u--watt-long = Микроватт
+units-m--watt-long = Милливатт
+units-watt-long = Ватт
+units-k-watt-long = Киловатт
+units-m-watt-long = Мегаватт
+units-g-watt-long = Гигаватт
 
 ## Joule (Energy)
 units-u--joule = µJ
@@ -80,11 +80,11 @@ units-joule = J
 units-k-joule = kJ
 units-m-joule = MJ
 
-units-u--joule-long = Microjoule
-units-m--joule-long = Millijoule
-units-joule-long = Joule
-units-k-joule-long = Kilojoule
-units-m-joule-long = Megajoule
+units-u--joule-long = Микроджоуль
+units-m--joule-long = Миллиджоуль
+units-joule-long = Джоуль
+units-k-joule-long = Килоджоуль
+units-m-joule-long = Мегаджоуль
 
 ## Kelvin (Temperature)
 units-u--kelvin = µK
@@ -94,9 +94,9 @@ units-k-kelvin = kK
 units-m-kelvin = MK
 units-g-kelvin = GK
 
-units-u--kelvin-long = Microkelvin
-units-m--kelvin-long = Millikelvin
-units-kelvin-long = Kelvin
-units-k-kelvin-long = Kilokelvin
-units-m-kelvin-long = Megakelvin
-units-g-kelvin-long = Gigakelvin
+units-u--kelvin-long = Микрокельвин
+units-m--kelvin-long = Милликельвин
+units-kelvin-long = Кельвин
+units-k-kelvin-long = Килокельвин
+units-m-kelvin-long = Мегакельвин
+units-g-kelvin-long = Гигакельвин

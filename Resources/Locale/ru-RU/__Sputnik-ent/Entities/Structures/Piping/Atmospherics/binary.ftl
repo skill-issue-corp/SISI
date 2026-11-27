@@ -1,36 +1,90 @@
 ent-GasBinaryBase = { ent-GasPipeBase }
     .desc = { ent-GasPipeBase.desc }
 
-ent-GasPressurePump = gas pump
-    .desc = A pump that moves gas by pressure.
+ent-GasPressurePump = газовый насос
+    .desc = Насос, перекачивающий газ по давлению.
 
-ent-GasVolumePump = volumetric gas pump
-    .desc = A pump that moves gas by volume.
+ent-GasVolumePump = объёмный газовый насос
+    .desc = Насос, перекачивающий газ по объёму.
 
-ent-GasPressureRegulator = inlet pressure regulator
-    .desc = A valve that releases gas when the inlet pressure exceeds a certain threshold.
+ent-GasPressureRegulator = регулятор входного давления
+    .desc = Клапан, выпускающий газ, когда давление на входе превышает заданный порог.
 
-ent-GasPassiveGate = passive gate
-    .desc = A one-way air valve that does not require power.
+ent-GasPassiveGate = пассивный клапан
+    .desc = Односторонний воздушный клапан, которому не требуется питание.
 
-ent-GasValve = manual valve
-    .desc = A pipe with a valve that can be used to disable the flow of gas through it.
+ent-GasValve = ручной клапан
+    .desc = Труба с клапаном, которым можно перекрыть подачу газа.
 
-ent-SignalControlledValve = signal valve
-    .desc = A pipe with a valve that can be controlled with signals.
+ent-SignalControlledValve = сигнальный клапан
+    .desc = Труба с клапаном, управляемым сигналами.
 
-ent-GasPort = connector port
-    .desc = For connecting portable devices related to atmospherics control.
+ent-GasPort = соединительный порт
+    .desc = Для подключения переносного оборудования атмосферного отсека.
 
-ent-GasDualPortVentPump = dual-port air vent
-    .desc = Has a valve and a pump attached to it. There are two ports, one is an input for releasing air, the other is an output when siphoning.
+ent-GasDualPortVentPump = двухпортовый воздушный вентиль
+    .desc = К нему подключены клапан и насос. Входной порт подаёт воздух при нагнетании, выходной отводит его при откачке.
 
-ent-GasRecycler = gas recycler
-    .desc = Recycles carbon dioxide and nitrous oxide. Heater and compressor not included.
+ent-GasRecycler = переработчик газа
+    .desc = Перерабатывает углекислый газ и оксид азота. Обогреватель и компрессор в комплект не входят.
 
-ent-HeatExchanger = radiator
-    .desc = Transfers heat between the pipe and its surroundings.
+ent-HeatExchanger = радиатор
+    .desc = Передаёт тепло между трубой и окружающей средой.
 
 ent-HeatExchangerBend = { ent-HeatExchanger }
     .desc = { ent-HeatExchanger.desc }
-    .suffix = Bend
+    .suffix = Изгиб
+
+ent-GasPressurePumpAlt1 = { ent-GasPressurePump }
+    .desc = { ent-GasPressurePump.desc }
+
+ent-GasPressurePumpAlt2 = { ent-GasPressurePump }
+    .desc = { ent-GasPressurePump.desc }
+
+ent-GasVolumePumpAlt1 = { ent-GasVolumePump }
+    .desc = { ent-GasVolumePump.desc }
+
+ent-GasVolumePumpAlt2 = { ent-GasVolumePump }
+    .desc = { ent-GasVolumePump.desc }
+
+ent-GasPressureRegulatorAlt1 = { ent-GasPressureRegulator }
+    .desc = { ent-GasPressureRegulator.desc }
+
+ent-GasPressureRegulatorAlt2 = { ent-GasPressureRegulator }
+    .desc = { ent-GasPressureRegulator.desc }
+
+ent-GasPassiveGateAlt1 = { ent-GasPassiveGate }
+    .desc = { ent-GasPassiveGate.desc }
+
+ent-GasPassiveGateAlt2 = { ent-GasPassiveGate }
+    .desc = { ent-GasPassiveGate.desc }
+
+ent-GasValveAlt1 = { ent-GasValve }
+    .desc = { ent-GasValve.desc }
+
+ent-GasValveAlt2 = { ent-GasValve }
+    .desc = { ent-GasValve.desc }
+
+ent-SignalControlledValveAlt1 = { ent-SignalControlledValve }
+    .desc = { ent-SignalControlledValve.desc }
+
+ent-SignalControlledValveAlt2 = { ent-SignalControlledValve }
+    .desc = { ent-SignalControlledValve.desc }
+
+ent-GasPortAlt1 = { ent-GasPort }
+    .desc = { ent-GasPort.desc }
+
+ent-GasPortAlt2 = { ent-GasPort }
+    .desc = { ent-GasPort.desc }
+
+ent-GasDualPortVentPumpAlt1 = { ent-GasDualPortVentPump }
+    .desc = { ent-GasDualPortVentPump.desc }
+
+ent-GasDualPortVentPumpAlt2 = { ent-GasDualPortVentPump }
+    .desc = { ent-GasDualPortVentPump.desc }
+
+ent-GasRecyclerAlt1 = { ent-GasRecycler }
+    .desc = { ent-GasRecycler.desc }
+
+ent-GasRecyclerAlt2 = { ent-GasRecycler }
+    .desc = { ent-GasRecycler.desc }

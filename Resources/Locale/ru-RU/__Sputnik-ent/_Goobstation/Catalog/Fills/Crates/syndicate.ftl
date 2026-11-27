@@ -1,25 +1,25 @@
-ent-CrateCybersunDarkGygaxBundle = Cybersun gygax bundle
-    .desc = Contains a set of Cybersan light armored mechs.
-    .suffix = Filled
+ent-CrateCybersunDarkGygaxBundle = Комплект «гигакс» от Киберсан
+    .desc = Содержит комплект лёгких бронированных мехов Киберсан.
+    .suffix = Заполнено
 
-ent-CrateCybersunMaulerBundle = Cybersun mauler bundle
-    .desc = Contains a set of Cybersan heavy armored mechs.
-    .suffix = Filled
+ent-CrateCybersunMaulerBundle = Комплект «маулер» от Киберсан
+    .desc = Содержит комплект тяжёлых бронированных мехов Киберсан.
+    .suffix = Заполнено
 
-ent-CrateSyndicateBulkMosin = Syndicate bulk rifle crate
-    .desc = Just use more rifles, comrade.
-    .suffix = Filled
+ent-CrateSyndicateBulkMosin = ящик с оптовой партией винтовок Синдиката
+    .desc = Просто возьми побольше винтовок, товарищ.
+    .suffix = Заполнено
 
-ent-CrateSyndicateDreadnought = cybersun dreadnought bundle
-    .desc = An advanced cybersun dreadnought bundle.
+ent-CrateSyndicateDreadnought = комплект «дредноут» от киберсан
+    .desc = Комплект с усовершенствованным «дредноутом» от киберсан.
 
-ent-CratePizzaParty = disaster pizza delivery
-    .desc = In the ultimate event that all else has failed, Find comfort in that more pizza solves everything. Includes 16 pizzas.
-    .suffix = bombs
+ent-CratePizzaParty = доставка пиццы на случай катастрофы
+    .desc = Когда все прочие средства исчерпаны, Утешьтесь тем, что добавка пиццы решает любую проблему. В комплекте 16 пицц.
+    .suffix = бомбы
 
-ent-CrateSyndicateUndetermined = undetermined Syndicate bundle crate
-    .desc = Contains a Syndicate bundle. Which one is yet to be determined.
+ent-CrateSyndicateUndetermined = ящик с неизвестным комплектом Синдиката
+    .desc = Внутри комплект Синдиката. Какой именно, ещё неизвестно.
 
-ent-CrateSyndicateStarterKit = basic operative bundle
-    .desc = Contains everything an operative needs to wreak havoc.
-    .suffix = Filled
+ent-CrateSyndicateStarterKit = базовый комплект оперативника
+    .desc = Содержит всё, что нужно оперативнику, чтобы посеять хаос.
+    .suffix = Заполнено

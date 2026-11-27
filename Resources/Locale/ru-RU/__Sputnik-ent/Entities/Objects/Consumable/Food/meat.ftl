@@ -4,215 +4,215 @@ ent-FoodMeatBase = { ent-FoodInjectableBase }
 ent-FoodMeatRawBase = { ent-FoodMeatBase }
     .desc = { ent-FoodMeatBase.desc }
 
-ent-FoodMeat = raw meat
-    .desc = A slab of raw meat.
+ent-FoodMeat = сырое мясо
+    .desc = Кусок сырого мяса.
 
-ent-FoodMeatHuman = raw human meat
-    .desc = Gross.
+ent-FoodMeatHuman = сырая человечина
+    .desc = Мерзость.
 
-ent-FoodMeatFish = raw carp fillet
-    .desc = Your last words being "Wow, exotic!" are not worth it. The taste itself though? Maybe.
+ent-FoodMeatFish = сырое филе карпа
+    .desc = Не стоит того, чтобы вашими последними словами стали «Ух ты, экзотика!». А вкус? Может, и стоит.
 
-ent-FoodMeatBacon = raw bacon
-    .desc = A raw piece of bacon.
+ent-FoodMeatBacon = сырой бекон
+    .desc = Сырой кусок бекона.
 
-ent-FoodMeatBear = raw bear meat
-    .desc = A very manly slab of raw bear meat.
+ent-FoodMeatBear = сырая медвежатина
+    .desc = Очень мужественный кусок сырой медвежатины.
 
-ent-FoodMeatPenguin = raw penguin meat
-    .desc = A slab of raw penguin meat. Can be used as a substitute for fish in recipes.
+ent-FoodMeatPenguin = сырое мясо пингвина
+    .desc = Кусок сырого мяса пингвина. В рецептах может заменить рыбу.
 
-ent-FoodMeatChicken = raw chicken meat
-    .desc = A slab of raw chicken. Remember to wash your hands!
+ent-FoodMeatChicken = сырая курятина
+    .desc = Кусок сырой курятины. Не забудьте вымыть руки!
 
-ent-FoodMeatDuck = raw duck meat
-    .desc = A slab of raw duck. Remember to wash your hands!
+ent-FoodMeatDuck = сырая утятина
+    .desc = Кусок сырой утятины. Не забудьте вымыть руки!
 
-ent-FoodMeatCorgi = prime-cut corgi meat
-    .desc = The tainted gift of an evil crime. The meat may be delicious, but at what cost?
+ent-FoodMeatCorgi = отборное мясо корги
+    .desc = Осквернённый дар злодейского преступления. Мясо, может, и вкусное, но какой ценой?
 
-ent-FoodMeatCrab = raw crab meat
-    .desc = A pile of raw crab meat.
+ent-FoodMeatCrab = сырое крабовое мясо
+    .desc = Кучка сырого крабового мяса.
 
-ent-FoodMeatGoliath = raw goliath meat
-    .desc = A slab of goliath meat. It's not very edible now, but it cooks great in lava.
+ent-FoodMeatGoliath = сырое мясо голиафа
+    .desc = Кусок мяса голиафа. Сейчас не особо съедобен, но в лаве отлично готовится.
 
-ent-FoodMeatDragon = dragon flesh
-    .desc = The dense meat of the space-era apex predator is oozing with its mythical ichor. Ironically, best eaten raw.
+ent-FoodMeatDragon = плоть дракона
+    .desc = Плотное мясо главного хищника космической эры сочится мифическим ихором. По иронии, лучше есть сырым.
 
-ent-FoodMeatRat = raw rat meat
-    .desc = Prime meat from maintenance!
+ent-FoodMeatRat = сырая крысятина
+    .desc = Первосортное мясо из техтоннелей!
 
-ent-FoodMeatLizard = raw lizard meat
-    .desc = Delicious dino damage.
+ent-FoodMeatLizard = сырое мясо ящерицы
+    .desc = Вкусные динозавровые потери.
 
-ent-FoodMeatPlant = raw plant meat
-    .desc = All the joys of healthy eating with all the fun of cannibalism.
+ent-FoodMeatPlant = сырое растительное мясо
+    .desc = Все радости здорового питания и всё удовольствие от каннибализма.
 
-ent-FoodMeatRotten = rotten meat
-    .desc = Halfway to becoming fertilizer for your garden.
+ent-FoodMeatRotten = тухлое мясо
+    .desc = На полпути к тому, чтобы стать удобрением для вашего сада.
 
-ent-FoodMeatSpider = raw spider meat
-    .desc = A slab of spider meat. That's so Kafkaesque.
+ent-FoodMeatSpider = сырое паучье мясо
+    .desc = Кусок мяса паука. Что-то совсем по-Кафкиански.
 
-ent-FoodMeatSpiderLeg = raw spider leg
-    .desc = A still twitching leg of a giant spider... you don't really want to eat this, do you?
+ent-FoodMeatSpiderLeg = сырая лапа паука
+    .desc = Всё ещё дёргающаяся лапа гигантского паука... Вы ведь и правда не хотите это есть?
 
-ent-FoodMeatWheat = meatwheat clump
-    .desc = This doesn't look like meat, but your standards aren't that high to begin with.
+ent-FoodMeatWheat = комок мясной пшеницы
+    .desc = На мясо не похоже, но и стандарты у вас изначально невысокие.
 
-ent-FoodMeatSnake = raw snake meat
-    .desc = A long piece of snake meat, hopefully not poisonous.
+ent-FoodMeatSnake = сырая змеятина
+    .desc = Длинный кусок змеиного мяса. Надеемся, не ядовитый.
 
-ent-FoodMeatXeno = raw xeno meat
-    .desc = A slab of xeno meat, dripping with acid.
+ent-FoodMeatXeno = сырое мясо ксено
+    .desc = Кусок мяса ксено, с которого капает кислота.
 
-ent-FoodMeatRouny = raw rouny meat
-    .desc = A slab of meat from an innocent red friend.
+ent-FoodMeatRouny = сырое мясо руни
+    .desc = Кусок мяса невинного красного друга.
 
-ent-FoodMeatTomato = killer tomato meat
-    .desc = A slice from a huge tomato.
+ent-FoodMeatTomato = мясо томата-убийцы
+    .desc = Ломтик огромного томата.
 
-ent-FoodMeatSalami = salami
-    .desc = A large tube of salami. Best not to ask what went into it.
+ent-FoodMeatSalami = салями
+    .desc = Толстая палка салями. Лучше не спрашивать, из чего она сделана.
 
-ent-FoodMeatClown = meat clown
-    .desc = A delicious, round piece of meat clown. How horrifying.
+ent-FoodMeatClown = мясо клоуна
+    .desc = Вкусный круглый кусок клоунского мяса. Как ужасно.
 
-ent-FoodMeatMeatball = meatball
-    .desc = A raw ball of meat. Meat ball.
+ent-FoodMeatMeatball = фрикаделька
+    .desc = Сырой шарик из мяса. Мясной шарик.
 
-ent-FoodMeatPatty = meat patty
-    .desc = A flat slab of ground meat. Ready for grillin'.
+ent-FoodMeatPatty = мясная котлета
+    .desc = Плоская лепёшка из фарша. Можно жарить.
 
-ent-FoodMeatSlime = slimeball
-    .desc = A gelatinous shaping of slime jelly.
+ent-FoodMeatSlime = слаймошарик
+    .desc = Шарик из слаймового желе.
 
-ent-FoodMeatAnomaly = anomalous meat mass
-    .desc = An impossibly dense slab of meat. Just looking at it makes you uncomfortable.
+ent-FoodMeatAnomaly = аномальная мясная масса
+    .desc = Невероятно плотный кусок мяса. Не по себе уже от одного взгляда на него.
 
-ent-MaterialSmileExtract = smile extract
-    .desc = It's a real panacea. But at what cost?
+ent-MaterialSmileExtract = экстракт улыбки
+    .desc = Настоящая панацея. Но какой ценой?
 
 ent-FoodMeatCookedBase = { ent-FoodMeatBase }
     .desc = { ent-FoodMeatBase.desc }
 
-ent-FoodMeatCooked = steak
-    .desc = A cooked slab of meat. Smells primal.
+ent-FoodMeatCooked = стейк
+    .desc = Приготовленный кусок мяса. Пахнет первобытностью.
 
-ent-FoodMeatBaconCooked = bacon
-    .desc = A delicious piece of cooked bacon.
+ent-FoodMeatBaconCooked = бекон
+    .desc = Вкусный кусочек жареного бекона.
 
-ent-FoodMeatBearCooked = cooked bear
-    .desc = A well-cooked slab of bear meat. Tough, but tasty with the right sides.
+ent-FoodMeatBearCooked = приготовленная медвежатина
+    .desc = Хорошо приготовленный кусок медвежатины. Жёсткая, но с правильным гарниром вкусная.
 
-ent-FoodMeatPenguinCooked = penguin filet
-    .desc = A cooked filet of penguin. Can be used as a substitute for fish in recipes.
+ent-FoodMeatPenguinCooked = филе пингвина
+    .desc = Приготовленное филе пингвина. В рецептах может заменить рыбу.
 
-ent-FoodMeatChickenCooked = cooked chicken
-    .desc = A cooked piece of chicken. Best used in other recipes.
+ent-FoodMeatChickenCooked = приготовленная курятина
+    .desc = Приготовленный кусок курятины. Лучше использовать в других блюдах.
 
-ent-FoodMeatChickenFried = fried chicken
-    .desc = A juicy hunk of chicken meat, fried to perfection.
+ent-FoodMeatChickenFried = жареная курица
+    .desc = Сочный кусок курицы, зажаренный до совершенства.
 
-ent-FoodMeatChickenFriedVox = mystery fried chicken
-    .desc = “Eleven secret herbs and… oh no. That’s not chicken."
+ent-FoodMeatChickenFriedVox = загадочная жареная курица
+    .desc = «Одиннадцать секретных трав и… о нет. Это не курица.»
 
-ent-FoodMeatDuckCooked = cooked duck
-    .desc = A cooked piece of duck. Best used in other recipes.
+ent-FoodMeatDuckCooked = приготовленная утятина
+    .desc = Приготовленный кусок утятины. Лучше использовать в других блюдах.
 
-ent-FoodMeatCrabCooked = cooked crab
-    .desc = Some deliciously cooked crab meat.
+ent-FoodMeatCrabCooked = приготовленный краб
+    .desc = Вкусное приготовленное крабовое мясо.
 
-ent-FoodMeatGoliathCooked = goliath steak
-    .desc = A delicious, lava cooked steak.
+ent-FoodMeatGoliathCooked = стейк голиафа
+    .desc = Вкусный стейк, приготовленный в лаве.
 
-ent-FoodMeatRounyCooked = rouny steak
-    .desc = Some kill to survive. You on the other hand, kill for fun.
+ent-FoodMeatRounyCooked = стейк из руни
+    .desc = Некоторые убивают, чтобы выжить. Вы же убиваете ради забавы.
 
-ent-FoodMeatLizardCooked = lizard steak
-    .desc = Cooked, tough lizard meat.
+ent-FoodMeatLizardCooked = стейк из ящерицы
+    .desc = Приготовленное жёсткое мясо ящерицы.
 
-ent-FoodMeatSpiderlegCooked = boiled spider leg
-    .desc = A giant spider's leg that's still twitching after being cooked. Gross!
+ent-FoodMeatSpiderlegCooked = варёная лапа паука
+    .desc = Лапа гигантского паука, которая дёргается даже после варки. Мерзость!
 
-ent-FoodMeatMeatballCooked = meatball
-    .desc = A cooked meatball. Perfect to add to other dishes... except fruity ones.
+ent-FoodMeatMeatballCooked = фрикаделька
+    .desc = Приготовленная фрикаделька. Отличная добавка к другим блюдам... кроме фруктовых.
 
-ent-FoodMeatPattyCooked = cooked meat patty
-    .desc = A cooked meat patty.
+ent-FoodMeatPattyCooked = приготовленная мясная котлета
+    .desc = Приготовленная мясная котлета.
 
-ent-FoodMeatSnailCooked = boiled snail
-    .desc = Improved with salt.
+ent-FoodMeatSnailCooked = варёная улитка
+    .desc = С солью лучше.
 
-ent-FoodMeatAnomalyCooked = anomalous steak
-    .desc = A gigantic mass of cooked meat. A meal for a dinner party, or someone REALLY hungry.
+ent-FoodMeatAnomalyCooked = аномальный стейк
+    .desc = Громадная масса приготовленного мяса. Блюдо для званого ужина или кого-то ОЧЕНЬ голодного.
 
-ent-FoodMeatDragonCooked = dragon steak
-    .desc = Pouring ketchup on this is considered a capital crime on most stations.
+ent-FoodMeatDragonCooked = стейк дракона
+    .desc = На большинстве станций залить это кетчупом - преступление, за которое полагается смертная казнь.
 
 ent-FoodMeatCutletBase = { ent-SolutionVeryTiny }
     .desc = { ent-SolutionVeryTiny.desc }
 
-ent-FoodMeatCutlet = raw cutlet
-    .desc = A raw meat cutlet.
+ent-FoodMeatCutlet = сырая котлета
+    .desc = Сырая мясная котлета.
 
-ent-FoodMeatBearCutlet = raw bear cutlet
-    .desc = A very manly cutlet of raw bear meat.
+ent-FoodMeatBearCutlet = сырая котлета из медвежатины
+    .desc = Очень мужественная котлета из сырой медвежатины.
 
-ent-FoodMeatPenguinCutlet = raw penguin cutlet
-    .desc = A cutlet of raw penguin meat. Can be used as a substitute for fish in recipes.
+ent-FoodMeatPenguinCutlet = сырая котлета из пингвина
+    .desc = Котлета из сырого мяса пингвина. В рецептах может заменить рыбу.
 
-ent-FoodMeatChickenCutlet = raw chicken cutlet
-    .desc = A cutlet of raw chicken. Remember to wash your hands!
+ent-FoodMeatChickenCutlet = сырая куриная котлета
+    .desc = Котлета из сырой курятины. Не забудьте вымыть руки!
 
-ent-FoodMeatDuckCutlet = raw duck cutlet
-    .desc = A cutlet of raw duck. Remember to wash your hands!
+ent-FoodMeatDuckCutlet = сырая утиная котлета
+    .desc = Котлета из сырой утятины. Не забудьте вымыть руки!
 
-ent-FoodMeatLizardCutlet = raw lizard cutlet
-    .desc = Delicious dino cutlet.
+ent-FoodMeatLizardCutlet = сырая котлета из ящерицы
+    .desc = Вкусная динозавровая котлета.
 
-ent-FoodMeatSpiderCutlet = raw spider cutlet
-    .desc = A cutlet of raw spider meat. So Kafkaesque.
+ent-FoodMeatSpiderCutlet = сырая паучья котлета
+    .desc = Котлета из сырого паучьего мяса. Как по-кафкиански.
 
-ent-FoodMeatXenoCutlet = raw xeno cutlet
-    .desc = A slab of raw xeno meat, dripping with acid.
+ent-FoodMeatXenoCutlet = сырая котлета из ксено
+    .desc = Кусок сырого мяса ксено, с которого капает кислота.
 
-ent-FoodMeatTomatoCutlet = raw killer tomato cutlet
-    .desc = A cutlet from a slab of tomato.
+ent-FoodMeatTomatoCutlet = сырая котлета из томата-убийцы
+    .desc = Котлета из куска томата.
 
-ent-FoodMeatSalamiSlice = salami slice
-    .desc = A slice of cured salami.
+ent-FoodMeatSalamiSlice = ломтик салями
+    .desc = Ломтик сыровяленой салями.
 
-ent-FoodMeatDragonCutlet = raw dragon cutlet
-    .desc = A raw dragon meat cutlet.
+ent-FoodMeatDragonCutlet = сырая котлета из дракона
+    .desc = Сырая котлета из драконьего мяса.
 
 ent-FoodMeatCutletCookedBase = { ent-FoodMeatCutletBase }
     .desc = { ent-FoodMeatCutletBase.desc }
 
-ent-FoodMeatCutletCooked = cutlet
-    .desc = A cooked meat cutlet. Needs some seasoning.
+ent-FoodMeatCutletCooked = котлета
+    .desc = Приготовленная мясная котлета. Нужно немного приправить.
 
-ent-FoodMeatBearCutletCooked = bear cutlet
-    .desc = A very manly cutlet of cooked bear meat.
+ent-FoodMeatBearCutletCooked = котлета из медвежатины
+    .desc = Очень мужественная котлета из приготовленной медвежатины.
 
-ent-FoodMeatPenguinCutletCooked = penguin cutlet
-    .desc = A cutlet of cooked penguin meat.
+ent-FoodMeatPenguinCutletCooked = котлета из пингвина
+    .desc = Котлета из приготовленного мяса пингвина.
 
-ent-FoodMeatChickenCutletCooked = chicken cutlet
-    .desc = A cutlet of cooked chicken. Remember to wash your hands!
+ent-FoodMeatChickenCutletCooked = куриная котлета
+    .desc = Котлета из приготовленной курятины. Не забудьте вымыть руки!
 
-ent-FoodMeatDuckCutletCooked = duck cutlet
-    .desc = A cutlet of cooked duck. Remember to wash your hands!
+ent-FoodMeatDuckCutletCooked = утиная котлета
+    .desc = Котлета из приготовленной утятины. Не забудьте вымыть руки!
 
-ent-FoodMeatLizardCutletCooked = lizard cutlet
-    .desc = Delicious cooked dino cutlet.
+ent-FoodMeatLizardCutletCooked = котлета из ящерицы
+    .desc = Вкусная приготовленная динозавровая котлета.
 
-ent-FoodMeatSpiderCutletCooked = spider cutlet
-    .desc = A cutlet of cooked spider meat. Finally edible.
+ent-FoodMeatSpiderCutletCooked = паучья котлета
+    .desc = Котлета из приготовленного паучьего мяса. Наконец-то съедобна.
 
-ent-FoodMeatXenoCutletCooked = xeno cutlet
-    .desc = A cutlet of cooked xeno, dripping with... tastiness?
+ent-FoodMeatXenoCutletCooked = котлета из ксено
+    .desc = Котлета из приготовленного ксено, с которой капает... вкуснятина?
 
-ent-FoodMeatDragonCutletCooked = dragon cutlet
-    .desc = It's a meal for kings!
+ent-FoodMeatDragonCutletCooked = котлета из дракона
+    .desc = Блюдо, достойное королей!

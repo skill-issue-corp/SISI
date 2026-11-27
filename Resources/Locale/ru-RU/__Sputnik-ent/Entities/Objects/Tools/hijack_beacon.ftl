@@ -1,2 +1,2 @@
-ent-HijackBeacon = hijack beacon
-    .desc = A device that bypasses the firewall on Nanotrasen-brand Automated Trade Stations.
+ent-HijackBeacon = маяк перехвата
+    .desc = Устройство, обходящее межсетевые экраны Автоматических Торговых Станций NanoTrasen.

@@ -1,8 +1,8 @@
-ent-MutationAntenna = Antenna
-    .desc = The affected person sprouts an antenna. This is known to allow them to access common radio channel passively.
+ent-MutationAntenna = Антенна
+    .desc = У носителя вырастает антенна. Известно, что она позволяет пользоваться общим радиоканалом без гарнитуры.
 
-ent-MutationMindReader = Mind Reader
-    .desc = The affected person can look into the recent memories of others.
+ent-MutationMindReader = Чтение Мыслей
+    .desc = Носитель может заглядывать в недавние воспоминания других людей.
 
-ent-ActionMutationMindRead = Mindread
-    .desc = Read the target's mind.
+ent-ActionMutationMindRead = Прочитать мысли
+    .desc = Прочитайте мысли цели.

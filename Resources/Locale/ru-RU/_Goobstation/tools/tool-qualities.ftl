@@ -4,14 +4,14 @@
 
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tool-quality-axing-name = Axing
-tool-quality-axing-tool-name = Fireaxe
+tool-quality-axing-name = Рубка
+tool-quality-axing-tool-name = Пожарный топор
 
-tool-quality-hammering-name = Hammering
-tool-quality-hammering-tool-name = Hammer
+tool-quality-hammering-name = Забивание
+tool-quality-hammering-tool-name = Молоток
 
-tool-quality-painting-name = Painting
-tool-quality-painting-tool-name = Spray Painter
+tool-quality-painting-name = Покраска
+tool-quality-painting-tool-name = Краскопульт
 
-tool-quality-sharpening-name = Sharpening
-tool-quality-sharpening-tool-name = Sharpening Tool
+tool-quality-sharpening-name = Заточка
+tool-quality-sharpening-tool-name = Инструмент Для Заточки

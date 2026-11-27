@@ -1,8 +1,8 @@
-ghost-role-information-wraith-name = Wraith
-ghost-role-information-wraith-description = You are a wraith! Taken from your home in a better sector of space, your astral powers enable you to survive one banishment. Beware of salt. Absorb corpses to evolve into a much more powerful being.
-ghost-role-information-wraith-rules =  You are a [color=red]Solo Antagonist[/color] capable of summoning minions to your aid. You should generally aim to cause as much death as possible, through any means necessary. You are capable of speaking with ghosts, and may use any information they have to your advantage.
+ghost-role-information-wraith-name = Фантом
+ghost-role-information-wraith-description = Вы фантом! Вас забрали из дома в более благополучном секторе космоса. Ваши астральные силы позволят вам пережить одно изгнание. Берегитесь соли. Поглощайте трупы, чтобы эволюционировать в гораздо более могущественное существо.
+ghost-role-information-wraith-rules =  Вы [color=red]Соло-Антагонист[/color] и можете призывать прислужников на помощь. Ваша главная задача – нести как можно больше смертей любыми средствами. Вы можете говорить с призраками и использовать их сведения в своих целях.
 
-wraith-round-end-agent-name = Wraith
+wraith-round-end-agent-name = Фантом
 
 # SIS-Start
 wraith-role-greeting =

@@ -1,2 +1,2 @@
-marking-BodyScarr-scar_chest = Rightsides scar
-marking-BodyScarr = Rightsides scar
+marking-BodyScarr-scar_chest = Шрам на правом боку
+marking-BodyScarr = Шрам на правом боку

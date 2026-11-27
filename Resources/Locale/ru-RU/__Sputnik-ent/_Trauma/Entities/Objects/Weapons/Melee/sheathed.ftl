@@ -1,5 +1,5 @@
-ent-SecurityKatana = officer's katana
-    .desc = An elegant weapon, its monomolecular edge is capable of cutting through flesh and bone with ease.
+ent-SecurityKatana = катана офицера
+    .desc = Изящное оружие с мономолекулярной кромкой, которая с лёгкостью режет плоть и кости.
 
-ent-Snakesfang = snakesfang
-    .desc = A uniquely curved, black and red sword. Extra-edgy and cutting-edge.
+ent-Snakesfang = змеиный клык
+    .desc = Чёрно-красный меч с необычным изгибом. Острое лезвие, ещё острее пафос.

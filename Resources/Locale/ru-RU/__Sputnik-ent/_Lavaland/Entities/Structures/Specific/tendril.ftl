@@ -1,26 +1,26 @@
-ent-LavalandTendrilBase = tendril
-    .desc = A huge structure.
+ent-LavalandTendrilBase = щупальце
+    .desc = Огромная конструкция.
 
-ent-LavalandTendrilGoliath = tendril
-    .desc = A huge structure.
-    .suffix = Goliath
+ent-LavalandTendrilGoliath = щупальце
+    .desc = Огромная конструкция.
+    .suffix = Голиаф
 
-ent-LavalandTendrilLegion = tendril
-    .desc = A huge structure.
-    .suffix = Legion
+ent-LavalandTendrilLegion = щупальце
+    .desc = Огромная конструкция.
+    .suffix = Легион
 
-ent-LavalandTendrilLavaWatcher = tendril
-    .desc = A huge structure.
-    .suffix = Watcher
+ent-LavalandTendrilLavaWatcher = щупальце
+    .desc = Огромная конструкция.
+    .suffix = Наблюдатель
 
-ent-LavalandTendrilIcewingWatcher = tendril
-    .desc = A huge structure.
-    .suffix = Ice Watcher
+ent-LavalandTendrilIcewingWatcher = щупальце
+    .desc = Огромная конструкция.
+    .suffix = Ледяной Наблюдатель
 
-ent-LavalandTendrilMagmawingWatcher = tendril
-    .desc = A huge structure.
-    .suffix = Magma Watcher
+ent-LavalandTendrilMagmawingWatcher = щупальце
+    .desc = Огромная конструкция.
+    .suffix = Магмовый Наблюдатель
 
-ent-LavalandTendrilSpaceCarp = tendril
-    .desc = A huge structure.
-    .suffix = Carp
+ent-LavalandTendrilSpaceCarp = щупальце
+    .desc = Огромная конструкция.
+    .suffix = Карп

@@ -1,35 +1,35 @@
-ent-ShellShotgunHighCaliber = shell (8 Gauge carpshot)
+ent-ShellShotgunHighCaliber = ружейный патрон (8 Калибр карпокартечь)
     .desc = { ent-BaseShellShotgun.desc }
 
-ent-ShellShotgunHighCaliberIncendiary = shell (8 Gauge dragons breath)
+ent-ShellShotgunHighCaliberIncendiary = ружейный патрон (8 Калибр дыхание дракона)
     .desc = { ent-ShellShotgunHighCaliber.desc }
 
-ent-ShellShotgunHighCaliberPractice = shell (8 Gauge practice)
+ent-ShellShotgunHighCaliberPractice = ружейный патрон (8 Калибр учебный)
     .desc = { ent-ShellShotgunHighCaliber.desc }
 
-ent-ShellShotgunHighCaliberUranium = shell (8 Gauge depleted uranium)
+ent-ShellShotgunHighCaliberUranium = ружейный патрон (8 Калибр обеднённый уран)
     .desc = { ent-ShellShotgunHighCaliber.desc }
 
-ent-ShellShotgunSlugHighCaliber = shell (8 Gauge slug)
+ent-ShellShotgunSlugHighCaliber = ружейный патрон (8 Калибр пуля)
     .desc = { ent-BaseShellShotgun.desc }
 
-ent-ShellShotgunSlugEnsnaring = cartridge (8 Gauge caliber ensnaring slug)
+ent-ShellShotgunSlugEnsnaring = патрон (8 Калибр опутывающая пуля)
     .desc = { ent-ShellShotgunSlugHighCaliber.desc }
 
-ent-ShellShotgunSlugEMP = cartridge (8 Gauge caliber EMP slug)
+ent-ShellShotgunSlugEMP = патрон (8 Калибр ЭМИ-пуля)
     .desc = { ent-ShellShotgunSlugHighCaliber.desc }
 
-ent-ShellShotgunSlugFlash = cartridge (8 Gauge caliber flash slug)
+ent-ShellShotgunSlugFlash = патрон (8 Калибр световая пуля)
     .desc = { ent-ShellShotgunSlugHighCaliber.desc }
 
-ent-ShellShotgunBeanbagHighCaliber = shell (8 Gauge beanbag)
+ent-ShellShotgunBeanbagHighCaliber = ружейный патрон (8 Калибр травматический)
     .desc = { ent-ShellShotgunSlugHighCaliber.desc }
 
-ent-ShellShotgunHighCaliberSarin = shell (8 Gauge sarin gas)
+ent-ShellShotgunHighCaliberSarin = ружейный патрон (8 Калибр газ зарин)
     .desc = { ent-ShellShotgunSlugHighCaliber.desc }
 
-ent-ShellShotgunHeavyHighExplosive = shell (2 Gauge pellet)
+ent-ShellShotgunHeavyHighExplosive = ружейный патрон (2 Калибр картечь)
     .desc = { ent-BaseShellShotgun.desc }
 
-ent-ShellShotgunSlugHeavyHighExplosive = shell (2 Gauge slug)
+ent-ShellShotgunSlugHeavyHighExplosive = ружейный патрон (2 Калибр пуля)
     .desc = { ent-BaseShellShotgun.desc }

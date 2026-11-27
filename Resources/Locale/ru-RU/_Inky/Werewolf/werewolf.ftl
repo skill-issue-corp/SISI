@@ -1,12 +1,12 @@
 # im too fucking lazy to make 65 new files for each thing so the most that you will get is path-specific ftl files and one ginormous shared one
-collective-mind-lunarmind = LunarMind
-werewolf-beckon-message = {$name} beckons the pack to {$location}.
+collective-mind-lunarmind = ЛунныйРазум
+werewolf-beckon-message = {$name} зовёт стаю в «{$location}».
 
-role-subtype-werewolf = Werewolf
-objective-issuer-werewolf = Werewolf
-guide-entry-werewolf = Werewolf Combat Techniques
-roles-antag-werewolf-name = Werewolf
-roles-antag-werewolf-desc = Whether by infection or hereditary genes, you’ve been given the curse and/or gift of Lycanthropy! Aren’t you special?
+role-subtype-werewolf = Оборотень
+objective-issuer-werewolf = Оборотень
+guide-entry-werewolf = Боевые Приёмы Оборотня
+roles-antag-werewolf-name = Оборотень
+roles-antag-werewolf-desc = Заражение или наследственные гены даровали вам проклятие и/или дар Ликантропии! Ну разве вы не особенный?
 
 # SIS-Start
 werewolf-role-greeting =
@@ -23,118 +23,118 @@ werewolf-role-greeting-desc =
     • [color={$hl1}]Скрытность:[/color] в человеческом облике действуйте скрытно — серебро и оружие службы безопасности смертельны!
 # SIS-End
 
-werewolf-round-end-summary = {$name} was a werewolf, who has bit {$points} amount of people.
+werewolf-round-end-summary = {$name} играет за оборотня. Укушено людей: {$points}.
 
-werewolf-action-fail-hunger = You are too hungry to do that right now.
-werewolf-action-fail-transfurmed = You cant use it while being in inferior form.
+werewolf-action-fail-hunger = Вы слишком голодны для этого.
+werewolf-action-fail-transfurmed = В низшей форме это недоступно.
 
-werewolf-transfurm-block = Something is blocking you transforming...
-werewolf-transfurm-cooldown = We are not yet ready. { $remainingTime } seconds left to transform.
-werewolf-mutation-changed = You feel yourself shift.
-werewolf-devour-fail-werewolf = It smells a wolf... You cant devour it.
-werewolf-devour-start = {$user} bites into the {$target} arm!
-werewolf-gut-start = {$user} guts into {$target} torso!
-werewolf-gut-no-organs-left = There is nothing to eat.
-werewolf-gut-success = {$user} eats an organ of {$target}!
-werewolf-transfurm-warn = Your body hurts, you are about to transform.
-werewolf-transfurm-ready = You feel ready to transform.
-werewolf-bite-fail-state = This isnt something we can devour.
-werewolf-bite-fail-bit = It smells of wolf... It has been bit before.
-werewolf-bite-fail-immune = Something is blocking you from doing that.
-werewolf-bite-start = {$user} starts to bite into {$target}!
-werewolf-bequeath-fail-not-pack = This is not someone of our pack.
-werewolf-bequeath-success = Bequeath successful.
-werewolf-bequeath-triggered = You feel that the leader has died. You take over his place.
-werewolf-ability-upgraded = You feel stronger.
-werewolf-action-regen-success = You feel your body recovering.
-werewolf-gut-fail-mind = You are above to eat this.
-werewolf-black-lunar-popup = You start hearing the moon's glow.
-werewolf-white-lunar-popup = You start hearing the evil furries.
-werewolf-black-call-success = Reliquish your Humanity, and give in to your instincts, it is time to show the station your true identity.
-werewolf-black-call-fail-amount = You need more people in your pack to do that!
+werewolf-transfurm-block = Что-то мешает вам превратиться...
+werewolf-transfurm-cooldown = Мы ещё не готовы. До превращения { $remainingTime } сек.
+werewolf-mutation-changed = Вы чувствуете, как меняетесь.
+werewolf-devour-fail-werewolf = Пахнет волком... Его нельзя сожрать.
+werewolf-devour-start = {$user} вгрызается в руку {$target}!
+werewolf-gut-start = {$user} вспарывает туловище {$target}!
+werewolf-gut-no-organs-left = Есть нечего.
+werewolf-gut-success = {$user} съедает орган {$target}!
+werewolf-transfurm-warn = Всё тело болит. Вы вот-вот превратитесь.
+werewolf-transfurm-ready = Вы чувствуете, что готовы превратиться.
+werewolf-bite-fail-state = Мы не можем это сожрать.
+werewolf-bite-fail-bit = Пахнет волком... Тут уже укусили до нас.
+werewolf-bite-fail-immune = Что-то мешает вам это сделать.
+werewolf-bite-start = {$user} пытается укусить {$target}!
+werewolf-bequeath-fail-not-pack = Это не член нашей стаи.
+werewolf-bequeath-success = Преемник назначен.
+werewolf-bequeath-triggered = Вы чувствуете, что вожак погиб. Вы занимаете его место.
+werewolf-ability-upgraded = Вы чувствуете, что стали сильнее.
+werewolf-action-regen-success = Вы чувствуете, как ваше тело восстанавливается.
+werewolf-gut-fail-mind = Вы выше того, чтобы это есть.
+werewolf-black-lunar-popup = Вы начинаете слышать сияние луны.
+werewolf-white-lunar-popup = Вы начинаете слышать злых фурри.
+werewolf-black-call-success = Отбросьте свою Человечность и поддайтесь инстинктам. Пора показать станции, кто вы на самом деле.
+werewolf-black-call-fail-amount = Для этого нужно больше членов стаи!
 
 
 # i do not fucking care
 
-store-currency-display-fury = Fury
-werewolf-store-choose = Choose
-werewolf-store-dire = Direwolf
-werewolf-store-white = White wolf
-werewolf-store-black = Black wolf
-werewolf-store-black-apprentice = Pack
-werewolf-store-side = Side abilities
+store-currency-display-fury = Ярость
+werewolf-store-choose = Выбрать
+werewolf-store-dire = Лютоволк
+werewolf-store-white = Белый волк
+werewolf-store-black = Чёрный волк
+werewolf-store-black-apprentice = Стая
+werewolf-store-side = Дополнительные способности
 
 # side
 
-werewolf-store-regen-name = Increased metabolism
-werewolf-store-regen-desc = Increase your metabolism, allowing you to regenerate rapidly. Be aware that it makes you really hungry. Can be used in the human form.
+werewolf-store-regen-name = Ускоренный метаболизм
+werewolf-store-regen-desc = Ускоряет метаболизм, позволяя быстро восстановиться. Учтите, что это вызывает сильный голод. Можно использовать в человеческом облике.
 
-werewolf-store-jump-name = Ambush
-werewolf-store-jump-desc = Leap at your victim, knocking them down and stunning them.
+werewolf-store-jump-name = Засада
+werewolf-store-jump-desc = Прыгните на жертву, сбейте её с ног и оглушите.
 
-werewolf-store-gut-name = Gut
-werewolf-store-gut-desc = Tear into your victims organs, eating them, and converting them to fury. Can be used multiple times as long as the target has organs.]
+werewolf-store-gut-name = Потрошение
+werewolf-store-gut-desc = Вырвите органы жертвы и съешьте их, чтобы накопить ярость. Приём можно повторять, пока у жертвы остались органы.]
 
 # white
 
-werewolf-store-choose-white-name = White wolf
-werewolf-store-choose-white-desc = To some, a curse. To others, a gift. For me, opportunity. I will strike them down for their impurity.
+werewolf-store-choose-white-name = Белый волк
+werewolf-store-choose-white-desc = Для одних — проклятие. Для других — дар. Для меня — возможность. Я покараю их за скверну.
 
-    Your hate for werewolves is unrelenting. Allows you to access abilities to hunt those considered hunters.
-    Your holy claws will show the way to your true identity, and show the end to those who seek to harm you.
+    Ваша ненависть к оборотням не знает конца. Открывает способности для охоты на тех, кого считают охотниками.
+    Святые когти откроют вам путь к вашей истинной сущности и покончат с теми, кто хочет вам навредить.
 
-werewolf-store-white-dmg-name = Silver claws
-werewolf-store-white-dmg-desc = Your attacks deal added holy damage. Allowing you to seriously harm other werewolves.
+werewolf-store-white-dmg-name = Серебряные когти
+werewolf-store-white-dmg-desc = Ваши атаки наносят дополнительный святой урон. Это позволяет серьёзно ранить других оборотней.
 
-werewolf-store-white-track-name = Bloodhound
-werewolf-store-white-track-desc = Track other Werewolves and mark them for Death, regardless of whether theyre transformed or not.
-    You deal slightly more damage to Marked werewolves.
+werewolf-store-white-track-name = Ищейка
+werewolf-store-white-track-desc = Выследите других Оборотней и пометьте их на Смерть, в какой бы форме они ни были.
+    Вы наносите немного больше урона Отмеченным оборотням.
 
-werewolf-store-white-lunar-name = Supperiour hearing
-werewolf-store-white-lunar-desc = You now gain access to the lunarmind, allowing to hear werewolves speaking in it.
+werewolf-store-white-lunar-name = Обострённый слух
+werewolf-store-white-lunar-desc = Теперь вам доступен лунный разум, в котором можно слышать переговоры оборотней.
 
-werewolf-store-white-revelation-name = Revelation
-werewolf-store-white-revelation-desc = Learn the identity of every single Werewolf alive and mark them for death. Werewolves are alerted to your presence.
-    Become permanently transformed after buying. Be aware that it is irreversible and you cant access the store once you have bought it.
+werewolf-store-white-revelation-name = Откровение
+werewolf-store-white-revelation-desc = Узнайте личность каждого живого Оборотня и пометьте их на смерть. Оборотни узнают о вашем присутствии.
+    После покупки вы превращаетесь навсегда. Обратного пути нет, и магазин станет недоступен.
 
 # dire
 
-werewolf-store-choose-direwolf-name = Direwolf
-werewolf-store-choose-direwolf-desc = My will becomes sharpened. My body - enhanced. I will now show the world what true fear really is.
+werewolf-store-choose-direwolf-name = Лютоволк
+werewolf-store-choose-direwolf-desc = Моя воля становится острее. Моё тело — сильнее. Теперь я покажу миру, что такое настоящий страх.
 
-    Increases your movement speed, damage, howl and healing. Steal your victims blood and seed fear in their veins.
+    Повышает скорость передвижения, урон, силу воя и скорость исцеления. Крадите кровь жертв и сейте страх в их жилах.
 
-werewolf-store-howl-direwolf-name = Vicious roar
-werewolf-store-howl-direwolf-desc = Your howl becomes more powerful, stunning those in a bigger range for a longer time.
+werewolf-store-howl-direwolf-name = Яростный рёв
+werewolf-store-howl-direwolf-desc = Ваш вой становится сильнее, дольше оглушая всех в большем радиусе.
 
-werewolf-store-bite-direwolf-name = Bleeding bite
-werewolf-store-bite-direwolf-desc = Sink your canines into your victim, and steal 30% of their blood. This will heal you greatly.
+werewolf-store-bite-direwolf-name = Кровоточащий укус
+werewolf-store-bite-direwolf-desc = Вонзите клыки в жертву и отнимите 30% её крови. Это значительно исцелит вас.
 
 # black
 
-werewolf-store-choose-black-name = Black wolf
-werewolf-store-choose-black-desc = A gift, I have been given. Let prey become predators, and let us rise to a new era. Black as night, we hunt till the end.
+werewolf-store-choose-black-name = Чёрный волк
+werewolf-store-choose-black-desc = Мне дан дар. Пусть добыча станет хищником и вместе мы поднимемся к новой эре. Чёрные как ночь, мы охотимся до конца.
 
-    You will become slower, but will also become stronger.
-    Allows you to access the black path store, focusing on making crew members into other werewolf under your rule.
-    Expand, control, and dominate the station.
+    Вы станете медленнее, но сильнее.
+    Открывает магазин чёрного пути, заточенный под превращение членов экипажа в подвластных вам оборотней.
+    Расширяйте стаю, подчиняйте экипаж и захватите власть над станцией.
 
-werewolf-store-bite-black-name = Cursed bite
-werewolf-store-bite-black-desc = Bite a victim, causing massive blood loss. Has a 50% chance of turning the victim into a werewolf under your rule after ten minutes.
+werewolf-store-bite-black-name = Проклятый укус
+werewolf-store-bite-black-desc = Укусите жертву, вызвав сильную кровопотерю. Через десять минут жертва с вероятностью 50% превратится в подвластного вам оборотня.
 
-werewolf-store-black-lunar-name = Pack mentality
-werewolf-store-black-lunar-desc = Gain access to the lunarmind, allowing you to communicate with your pack members. Be aware, that you might be heard by others.
+werewolf-store-black-lunar-name = Разум стаи
+werewolf-store-black-lunar-desc = Открывает доступ к лунному разуму для общения со своей стаей. Учтите, вас могут услышать другие.
 
-werewolf-store-black-order-name = Alpha order
-werewolf-store-black-order-desc = Replaces the howl. Your howl now forcefully transforms werewolves of your pack, and heals those already transformed if they are near you.
+werewolf-store-black-order-name = Приказ вожака
+werewolf-store-black-order-desc = Заменяет вой. Ваш вой теперь принудительно обращает оборотней вашей стаи и исцеляет уже обратившихся, если они поблизости.
 
-werewolf-store-black-bequeath-name = Bequeath
-werewolf-store-black-bequeath-desc = Crown a werewolf from your pack to be the next leader in case of your death. Single use.
+werewolf-store-black-bequeath-name = Назначить преемника
+werewolf-store-black-bequeath-desc = Назначьте оборотня из своей стаи следующим вожаком на случай вашей смерти. Одноразовая способность.
 
-werewolf-store-black-beckon-name = Beckon
-werewolf-store-black-beckon-desc = Transmits your current location into the lunarmind.
+werewolf-store-black-beckon-name = Созвать стаю
+werewolf-store-black-beckon-desc = Передаёт ваше текущее местоположение в лунный разум.
 
-werewolf-black-call-name = The Call
-werewolf-black-call-desc = The final stage of accepting your true form. Requires you to have minimum of 4 pack members to activate.
-    After use, you and everyone in your pack will become PERMANENTLY transformed, having their health doubled.
-    Sets the station alert to violet, single use.
+werewolf-black-call-name = Зов
+werewolf-black-call-desc = Последняя ступень принятия истинной формы. Для активации нужны как минимум 4 члена стаи.
+    После применения вы и вся ваша стая превратитесь НАВСЕГДА, а ваше здоровье удвоится.
+    Устанавливает фиолетовый код на станции. Одноразовая способность.

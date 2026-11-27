@@ -1,8 +1,8 @@
 ent-BaseWizardObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-WizardSurviveObjective = Survive, causing as much chaos as possible
-    .desc = Space Wizard Federation has sent you to wreck havoc on the station. Don't dissapoint them.
+ent-WizardSurviveObjective = Выживите и устройте как можно больше хаоса
+    .desc = Федерация Космических Волшебников послала вас посеять хаос на станции. Не разочаруйте их.
 
-ent-KeepWizardAliveObjective = Make sure the wizard survives
-    .desc = Protect the person who has summoned you at all costs.
+ent-KeepWizardAliveObjective = Позаботьтесь, чтобы волшебник выжил
+    .desc = Защитите призвавшего вас человека любой ценой.

@@ -1,4 +1,4 @@
-gas-phoron = Phoron
+gas-phoron = Форон
 
 # SIS-Empty_Entity_File Start
 # ent-WallPlasma = phoron wall

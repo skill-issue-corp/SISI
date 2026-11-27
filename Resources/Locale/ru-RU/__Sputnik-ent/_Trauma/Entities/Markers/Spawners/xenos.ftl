@@ -1,20 +1,20 @@
-ent-SpawnMobXenomorphFaceHugger = xeno facehugger spawner
+ent-SpawnMobXenomorphFaceHugger = точка спавна лицехвата ксеноморфа
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobXenomorphLarva = xeno larva spawner
+ent-SpawnMobXenomorphLarva = точка спавна личинки ксеноморфа
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobXenomorphDrone = xeno drone spawner
+ent-SpawnMobXenomorphDrone = точка спавна дрона ксеноморфов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobXenomorphHunter = xeno hunter spawner
+ent-SpawnMobXenomorphHunter = точка спавна охотника ксеноморфов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobXenomorphPraetorian = xeno praetorian spawner
+ent-SpawnMobXenomorphPraetorian = точка спавна преторианца ксеноморфов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobXenomorphSentinel = xeno sentinel spawner
+ent-SpawnMobXenomorphSentinel = точка спавна часового ксеноморфов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobXenomorphQueen = xeno queen spawner
+ent-SpawnMobXenomorphQueen = точка спавна королевы ксеноморфов
     .desc = { ent-MarkerBase.desc }

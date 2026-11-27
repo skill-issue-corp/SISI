@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-resist-locker-component-start-resisting = You begin to kick at the door!
-resist-locker-component-resist-interrupted = Your attempts to kick at the door were interrupted!
+resist-locker-component-start-resisting = Вы начинаете бить ногами по двери!
+resist-locker-component-resist-interrupted = Вам помешали бить ногами по двери!

@@ -1,2 +1,2 @@
-ent-AbductorOperatingTable = abductor operating table
+ent-AbductorOperatingTable = операционный стол абдуктора
     .desc = { ent-OperatingTable.desc }

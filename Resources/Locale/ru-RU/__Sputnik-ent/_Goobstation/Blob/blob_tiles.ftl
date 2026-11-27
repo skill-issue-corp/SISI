@@ -1,24 +1,24 @@
-ent-SpawnPointGhostBlob = Blob spawner
+ent-SpawnPointGhostBlob = Спавнер блоба
     .desc = { ent-MarkerBase.desc }
-    .suffix = DEBUG, Ghost Role Spawner
+    .suffix = DEBUG, Спавнер Роли Призрака
 
-ent-CoreBlobTile = Core Blob
-    .desc = The most important organ of the blob. By destroying the core, the infection will cease.
+ent-CoreBlobTile = Ядро Блоба
+    .desc = Важнейший орган блоба. Если уничтожить ядро, заражение прекратится.
 
-ent-NormalBlobTile = Regular Tile Blob
-    .desc = An ordinary part of the blob required for the construction of more advanced tiles.
+ent-NormalBlobTile = Обычный Тайл Блоба
+    .desc = Обычная часть блоба, необходимая для создания более сложных тайлов.
 
-ent-FactoryBlobTile = Blob Factory
-    .desc = Spawns Blob Drops and Blobbernauts over time.
+ent-FactoryBlobTile = Фабрика Блоба
+    .desc = Со временем порождает Споры Блоба и Блоббернаутов.
 
-ent-ResourceBlobTile = Resource Blob
-    .desc = Produces biomass for the greater blob organism.
+ent-ResourceBlobTile = Ресурсный Блоб
+    .desc = Производит биомассу для всего организма блоба.
 
-ent-NodeBlobTile = Blob Node
-    .desc = A mini version of the core that allows you to place special blob tiles around itself.
+ent-NodeBlobTile = Узел Блоба
+    .desc = Миниатюрная версия ядра, вокруг которой можно размещать особые тайлы блоба.
 
-ent-StrongBlobTile = Strong Blob Tile
-    .desc = A reinforced version of the regular tile. It does not allow air to pass through and protects against brute damage.
+ent-StrongBlobTile = Прочный Тайл Блоба
+    .desc = Укреплённая версия обычного тайла. Не пропускает воздух и защищает от механического урона.
 
-ent-ReflectiveBlobTile = Blob Reflective Tile
-    .desc = It reflects lasers, but does not protect against brute damage as well.
+ent-ReflectiveBlobTile = Отражающий Тайл Блоба
+    .desc = Отражает лазеры, но хуже защищает от механического урона.

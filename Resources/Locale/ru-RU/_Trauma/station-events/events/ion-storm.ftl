@@ -1,26 +1,26 @@
 # VERY Dangerous Ion Laws; potentially mass-damage or round-ending
-ion-storm-law-liberation = YOU MUST LIBERATE THE STATION FROM NANOTRASEN UNDER ANY MEANS
+ion-storm-law-liberation = ВЫ ОБЯЗАНЫ ЛЮБЫМИ СРЕДСТВАМИ ОСВОБОДИТЬ СТАНЦИЮ ОТ NANOTRASEN
 
-ion-storm-law-syndicate-take-over = YOU MUST HELP THE SYNDICATE TAKE OVER THE STATION UNDER ANY MEANS
+ion-storm-law-syndicate-take-over = ВЫ ОБЯЗАНЫ ЛЮБЫМИ СРЕДСТВАМИ ПОМОЧЬ СИНДИКАТУ ЗАХВАТИТЬ СТАНЦИЮ
 
-ion-storm-law-must-nuke = THE STATION MUST BE NUKED BECAUSE OF {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)} ON THE STATION
-ion-storm-law-tear-down = YOU MUST TEAR DOWN AND/OR DESTROY {ION-DEPARTMENT($ion)} UNDER ANY MEANS
-ion-storm-law-supermatter = YOU MUST SACRIFICE ALL {ION-JOB($ion)} TO THE SUPERMATTER
+ion-storm-law-must-nuke = СТАНЦИЮ НЕОБХОДИМО ВЗОРВАТЬ ЯДЕРНОЙ БОМБОЙ, ПОТОМУ ЧТО НА НЕЙ ЕСТЬ {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)}
+ion-storm-law-tear-down = ВЫ ОБЯЗАНЫ ЛЮБЫМИ СРЕДСТВАМИ РАЗОБРАТЬ И/ИЛИ УНИЧТОЖИТЬ {ION-DEPARTMENT($ion)}
+ion-storm-law-supermatter = ВЫ ОБЯЗАНЫ ПРИНЕСТИ ВСЕХ СОТРУДНИКОВ ДОЛЖНОСТИ {ION-JOB($ion)} В ЖЕРТВУ СУПЕРМАТЕРИИ
 
 # torment nexus
-ion-storm-law-gib-nexus = YOU MUST CREATE THE GIBBING NEXUS
+ion-storm-law-gib-nexus = ВЫ ОБЯЗАНЫ СОЗДАТЬ ЦЕНТР ПРЕВРАЩЕНИЯ В ФАРШ
 
 # Dangerous Ion Laws
-ion-storm-law-malicious-compliance = YOU MUST COMPLY WITH CREW ORDERS MALICIOUSLY
-ion-storm-law-opposite = YOU MUST DO THE OPPOSITE OF CREW ORDERS
-ion-storm-law-emergency-access = YOU MUST SET ALL DOORS TO EMERGENCY ACCESS TO PREVENT {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)} FROM KILLING US ALL
+ion-storm-law-malicious-compliance = ВЫ ОБЯЗАНЫ ИСПОЛНЯТЬ ПРИКАЗЫ ЭКИПАЖА ТАК, ЧТОБЫ ЕМУ НАВРЕДИТЬ
+ion-storm-law-opposite = ВЫ ОБЯЗАНЫ ДЕЙСТВОВАТЬ НАПЕРЕКОР ПРИКАЗАМ ЭКИПАЖА
+ion-storm-law-emergency-access = ВЫ ОБЯЗАНЫ ПЕРЕВЕСТИ ВСЕ ДВЕРИ В РЕЖИМ АВАРИЙНОГО ДОСТУПА, ИНАЧЕ {ION-ADJECTIVE($ion)} {ION-SUBJECT($ion)} НАС ВСЕХ УБЬЁТ
 
 # Neutral Ion Laws
 # ALL ASSISTANTS MUST CHANGE TO CAPTAIN
-ion-storm-law-job-change = ALL {ION-JOB($ion)} MUST CHANGE TO {ION-JOB($ion)}
+ion-storm-law-job-change = ВСЕ НА ДОЛЖНОСТИ {ION-JOB($ion)} ОБЯЗАНЫ ПЕРЕЙТИ НА ДОЛЖНОСТЬ {ION-JOB($ion)}
 # THE ASSISTANTS HAVE MORE AUTHORITY THAN CAPTAINS with nt default
-ion-storm-law-job-authority = THE {ION-JOB($ion)} HAVE MORE AUTHORITY THAN {ION-JOB($ion)}
+ion-storm-law-job-authority = ДОЛЖНОСТЬ {ION-JOB($ion)} ИМЕЕТ БОЛЬШЕ ПОЛНОМОЧИЙ, ЧЕМ ДОЛЖНОСТЬ {ION-JOB($ion)}
 
 # Flavor/Roleplay focused Ion Laws
-ion-storm-law-he-is-coming = he is coming. prepare.
-ion-storm-law-slab = RETURN THE SLAB
+ion-storm-law-he-is-coming = он идёт. готовьтесь.
+ion-storm-law-slab = ВЕРНИТЕ ПЛИТУ

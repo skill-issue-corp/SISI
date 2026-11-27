@@ -1,11 +1,11 @@
-xenomorphs-face-hugger-equip = { $equipment } leaps at your face!
-xenomorphs-face-hugger-equip-other = { $equipment } leaps at { $target }'s face!
+xenomorphs-face-hugger-equip = { $equipment } прыгает вам на лицо!
+xenomorphs-face-hugger-equip-other = { $equipment } прыгает на лицо жертвы: { $target }!
 
-xenomorphs-face-hugger-unequip = { $equipment } is latched on too tight!
+xenomorphs-face-hugger-unequip = { $equipment } вцепился слишком крепко!
 
-xenomorphs-face-hugger-try-equip = { $equipment } smashes against your { $equipmentBlocker }
-xenomorphs-face-hugger-try-equip-other = { $equipment } smashes against { $target }'s { $equipmentBlocker }
+xenomorphs-face-hugger-try-equip = { $equipment } ударяется о вашу экипировку: { $equipmentBlocker }
+xenomorphs-face-hugger-try-equip-other = { $equipment } ударяется об экипировку цели { $target }: { $equipmentBlocker }
 
 ### Goob station
-xenomorphs-face-hugger-mask-blocked = Your { $mask } blocks the { $facehugger }!
-xenomorphs-face-hugger-mask-blocked-other = { $facehugger } is blocked by { $target }'s { $mask }!
+xenomorphs-face-hugger-mask-blocked = Ваша маска ({ $mask }) не даёт лицехвату подобраться: { $facehugger }!
+xenomorphs-face-hugger-mask-blocked-other = { $facehugger } не может добраться до цели { $target } из-за маски: { $mask }!

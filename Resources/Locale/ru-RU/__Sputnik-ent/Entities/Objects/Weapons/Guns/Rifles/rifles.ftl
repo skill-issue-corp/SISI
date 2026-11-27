@@ -1,19 +1,19 @@
-ent-BaseWeaponRifle = BaseWeaponRifle
-    .desc = A rooty tooty point and shooty.
+ent-BaseWeaponRifle = ВинтовкаБазовая
+    .desc = Наводи да пали!
 
 ent-WeaponRifleAk = AKM
-    .desc = A somewhat battered combat rifle of a design originating from old Earth. Favored by criminals, militias, and terrorists due to its famed reliability and easy-to-manufacture design. Feeds from .30 rifle magazines.
+    .desc = Потрёпанная боевая винтовка, спроектированная на старой Земле. Преступники, ополченцы и террористы ценят её за легендарную надёжность и простоту производства. Использует винтовочные магазины .30.
 
 ent-WeaponRifleLecter = Lecter
-    .desc = 
-        Popular gas-operated combat rifle used heavily by Nanotrasen and SolGov. Operating in semi or fully automatic, its accuracy, stopping power, and reliability make it excel in all manner of environments.
-        Feeds from .20 rifle magazines.
+    .desc =
+        Популярная боевая винтовка с газоотводной автоматикой. Её широко используют NanoTrasen и СолГов. Высокая точность, останавливающее действие и надёжность делают её эффективной в любых условиях, как в полуавтоматическом, так и в автоматическом режиме.
+        Использует винтовочные магазины .20.
 
 ent-WeaponRifleLecterXL8 = XL8
-    .desc = 
-        The Experimental Lecter 8
-        An unreasonably expensive military grade assault rifle with integrated optic.
-        Uses .20 rifle ammo.
+    .desc =
+        Экспериментальный Lecter 8
+        Неоправданно дорогая армейская штурмовая винтовка со встроенным оптическим прицелом.
+        Использует винтовочные патроны .20.
 
 ent-WeaponRifleEstoc = Estoc
-    .desc = A designated assault rifle with a scope, favored for medium-to-long range engagements. Uses .20 rifle ammo.
+    .desc = Марксманская винтовка с оптическим прицелом для боёв на средней и дальней дистанции. Использует винтовочные патроны .20.

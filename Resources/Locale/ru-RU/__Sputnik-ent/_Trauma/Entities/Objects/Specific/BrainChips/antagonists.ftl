@@ -1,23 +1,23 @@
-ent-SkillChipNukie = MRAM-Chip (gorlex)
+ent-SkillChipNukie = Чип MRAM (горлекс)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipSyndieSoldierTeamLeader = MRAM-Chip (syndicate leader)
+ent-SkillChipSyndieSoldierTeamLeader = Чип MRAM (лидер синдиката)
     .desc = { ent-SkillChipNukie.desc }
 
-ent-SkillChipSyndieSoldier = MRAM-Chip (syndicate soldier)
+ent-SkillChipSyndieSoldier = Чип MRAM (солдат синдиката)
     .desc = { ent-SkillChipNukie.desc }
 
-ent-SkillChipSyndieVisitor = MRAM-Chip (syndicate visitor)
+ent-SkillChipSyndieVisitor = Чип MRAM (гость синдиката)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipPirateCaptainScooner = MRAM-Chip (pirate captain)
+ent-SkillChipPirateCaptainScooner = Чип MRAM (капитан пиратов)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipPirateScooner = MRAM-Chip (pirate)
+ent-SkillChipPirateScooner = Чип MRAM (пират)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipBlackmarketeer = MRAM-Chip (blackmarketeer)
+ent-SkillChipBlackmarketeer = Чип MRAM (торговец с чёрного рынка)
     .desc = { ent-BaseSkillChipAPTR.desc }
 
-ent-SkillChipCossack = MRAM-Chip (cossack)
+ent-SkillChipCossack = Чип MRAM (казак)
     .desc = { ent-BaseSkillChipAPTR.desc }

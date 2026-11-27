@@ -1,6 +1,6 @@
 ent-OrganCat = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = cat
+    .suffix = кот
 
 ent-OrganSpriteCatExternal = { "" }
     .desc = { "" }

@@ -1,26 +1,26 @@
-ent-WeaponShuttleKineticL85 = L85 20mm autocannon
-    .desc = A cheap and light 20mm autocannon. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleKineticL85 = автопушка L85 20 мм
+    .desc = Дешёвая и лёгкая автопушка калибра 20 мм. Можно активировать дистанционно или подключить к серверу управления огнём.
 
-ent-WeaponShuttleKineticDravon = ADBP-7 DRAVON 57mm Autocannon
-    .desc = A single-barrel autocannon made by Aetherion Dynamics. High fire rate, but relatively low impact. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleKineticDravon = Автопушка ADBP-7 DRAVON 57 мм
+    .desc = Одноствольная автопушка производства «Этерион Дайнэмикс». Высокая скорострельность при сравнительно слабом попадании. Можно активировать дистанционно или подключить к серверу управления огнём.
 
-ent-WeaponShuttleKineticAK570 = AK570 90mm heavy autocannon
-    .desc = A dual barrel, heavy autocannon. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleKineticAK570 = тяжёлая автопушка AK570 90 мм
+    .desc = Двуствольная тяжёлая автопушка. Можно активировать дистанционно или подключить к серверу управления огнём.
 
-ent-WeaponShuttleKineticTarnyx = ADBX-31 TARNYX 150mm EMP Cannon
-    .desc = A heavy EMP Cannon made by Aetherion Dynamics. It can disable massive parts of an enemy ship, making it effective in asymmetric combat. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleKineticTarnyx = ЭМИ-Орудие ADBX-31 TARNYX 150 мм
+    .desc = Тяжёлое ЭМИ-Орудие производства «Этерион Дайнэмикс». Выводит из строя целые секции вражеского корабля и потому эффективно в асимметричном бою. Можно активировать дистанционно или подключить к серверу управления огнём.
 
-ent-WeaponShuttleKineticCyrexa = CYREXA 220mm cannon
-    .desc = A dual barrel, main-battery cannon firing 220mm auto shells with slight reduction in brute strength. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleKineticCyrexa = орудие CYREXA 220 мм
+    .desc = Двуствольное орудие главного калибра с автоматической стрельбой снарядами 220 мм чуть меньшей мощности. Можно активировать дистанционно или подключить к серверу управления огнём.
 
-ent-WeaponShuttleKineticHades = HADES 305mm cannon
-    .desc = One of the largest chemical-based kinetic weapons in the sector. Its power is only rivaled by mass drivers such as the M381.
+ent-WeaponShuttleKineticHades = орудие HADES 305 мм
+    .desc = Одно из крупнейших кинетических орудий сектора с химическим метательным зарядом. По мощи с ним могут сравниться лишь ускорители масс наподобие M381.
 
-ent-WeaponShuttleKineticCharon = M381 CHARON mass driver
-    .desc = A heavy linear accelerator, capable of devastating targets with kinetic energy. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleKineticCharon = ускоритель масс M381 CHARON
+    .desc = Тяжёлый линейный ускоритель, способный уничтожать цели кинетической энергией. Можно активировать дистанционно или подключить к серверу управления огнём.
 
-ent-WeaponShuttleKineticBofors = Bofors 255mm cannon
-    .desc = A single barrelled, heavy artillery cannon. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleKineticBofors = орудие Bofors 255 мм
+    .desc = Тяжёлое одноствольное артиллерийское орудие. Можно активировать дистанционно или подключить к серверу управления огнём.
 
-ent-WeaponShuttleKineticKargil = Kargil 203mm cannon
-    .desc = A single barrelled, medium-heavy artillery cannon. Can be remotely activated, or linked up to a GCS.
+ent-WeaponShuttleKineticKargil = орудие Kargil 203 мм
+    .desc = Среднетяжёлое одноствольное артиллерийское орудие. Можно активировать дистанционно или подключить к серверу управления огнём.

@@ -1,6 +1,6 @@
-ent-StructureLifeSupport = life support
-    .desc = A tv mounted on wheels, capable of oxygenizing and improving heart state of those who are connected. Has a short wire.
+ent-StructureLifeSupport = аппарат жизнеобеспечения
+    .desc = Телевизор на колёсах. Снабжает кислородом и улучшает работу сердца у тех, кого к нему подключили. Провод короткий.
 
 ent-StructureLifeSupportFilled = { ent-StructureLifeSupport }
     .desc = { ent-StructureLifeSupport.desc }
-    .suffix = Battery
+    .suffix = Батарея

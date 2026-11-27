@@ -1,116 +1,116 @@
-ent-BaseXenoArtifactTrigger = Unknown
+ent-BaseXenoArtifactTrigger = Неизвестно
     .desc = { "" }
 
-ent-TriggerMusic = Harmonical sound vibrations
+ent-TriggerMusic = Гармонические звуковые колебания
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerHeat = High temperature gas
+ent-TriggerHeat = Высокая температура газа
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerCold = Low temperature gas
+ent-TriggerCold = Низкая температура газа
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerNoOxygen = Oxygen-free environment
+ent-TriggerNoOxygen = Бескислородная среда
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerWater = Water
+ent-TriggerWater = Вода
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerCO2 = Carbon dioxide
+ent-TriggerCO2 = Углекислый газ
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerPlasma = Non-solid plasma
+ent-TriggerPlasma = Нетвёрдый форон
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerTritium = Tritium
+ent-TriggerTritium = Тритий
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerAmmonia = Ammonia
+ent-TriggerAmmonia = Аммиак
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerN2O = Nitrous oxide
+ent-TriggerN2O = Оксид азота
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerFrezon = Frezon
+ent-TriggerFrezon = Фрезон
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerRadiation = Heavy-ion radiation
+ent-TriggerRadiation = Излучение тяжёлых ионов
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerPressureHigh = High pressure
+ent-TriggerPressureHigh = Высокое давление
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerPressureLow = Low pressure
+ent-TriggerPressureLow = Низкое давление
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerExamine = Close inspection
+ent-TriggerExamine = Внимательный осмотр
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerBruteDamage = Physical damage
+ent-TriggerBruteDamage = Физическое повреждение
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerInteraction = Physical interaction
+ent-TriggerInteraction = Физическое взаимодействие
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerWrenching = Tightening
+ent-TriggerWrenching = Затягивание
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerPrying = Prying
+ent-TriggerPrying = Поддевание
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerScrewing = Screwing
+ent-TriggerScrewing = Вращение винта
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerPulsing = Pulsing
+ent-TriggerPulsing = Подача импульса
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerTimer = Regular self-activation
+ent-TriggerTimer = Периодическая самоактивация
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerBlood = Blood
+ent-TriggerBlood = Кровь
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerDeath = Death
+ent-TriggerDeath = Смерть
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerMagnet = Magnetic waves
+ent-TriggerMagnet = Магнитные волны
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerConsumeMoney = Bribery
+ent-TriggerConsumeMoney = Подкуп
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerConsumeKnowledge = Knowledge intake
+ent-TriggerConsumeKnowledge = Поглощение знаний
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerConsumeCarbs = Carbohydrate intake
+ent-TriggerConsumeCarbs = Поглощение углеводов
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerConsumeMeat = Protein intake
+ent-TriggerConsumeMeat = Поглощение белка
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerConsumeProduce = Healthy produce intake
+ent-TriggerConsumeProduce = Поглощение полезной растительной пищи
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerInteractStamp = Bureaucratic approval
+ent-TriggerInteractStamp = Бюрократическое одобрение
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerInteractShock = Electrical shock
+ent-TriggerInteractShock = Удар током
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerAttackParticleEngine = Singularity-Effecting particles
+ent-TriggerAttackParticleEngine = Воздействующие на Сингулярность частицы
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerAttackParticleAnomaly = Anomaly-Affecting particles
+ent-TriggerAttackParticleAnomaly = Воздействующие на Аномалии частицы
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerAttackStaminaDamage = Organic exhaustion
+ent-TriggerAttackStaminaDamage = Истощение организма
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerAttackLaser = High-Intensity photon impacts
+ent-TriggerAttackLaser = Попадание Высокоинтенсивных фотонов
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerMicrowave = Microwave radiation
+ent-TriggerMicrowave = Микроволновое излучение
     .desc = { ent-BaseXenoArtifactTrigger.desc }
 
-ent-TriggerThrow = Being thrown
+ent-TriggerThrow = Бросок
     .desc = { ent-BaseXenoArtifactTrigger.desc }

@@ -7,7 +7,7 @@
 
 ### SetOutfitMEnu.xaml.cs
 
-set-outfit-menu-title = Set Outfit
-set-outfit-menu-confirm-button = Confirm
+set-outfit-menu-title = Задать Наряд
+set-outfit-menu-confirm-button = Подтвердить
 # Goob Station
-set-outfit-menu-toggle-special = Do Special Effects
+set-outfit-menu-toggle-special = Применить Особые Эффекты

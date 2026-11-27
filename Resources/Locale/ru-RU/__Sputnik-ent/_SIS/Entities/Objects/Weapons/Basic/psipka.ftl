@@ -1,23 +1,23 @@
-ent-PsiPka = White-Base Psi Accelerator
-    .desc = A tool that allows any sentient being to control the psi field. Requires a psi monkey brain to function.
+ent-PsiPka = Пси-Ускоритель «Уайт-Бэйс»
+    .desc = Устройство, позволяющее любому разумному существу управлять пси-полем. Для работы нужен мозг пси-обезьяны.
 
-ent-WeaponPsiPyroPka = White-Pyro Psi Accelerator
-    .desc = A psi-accelerator configuration that allows you to create fire matter using a psi field.
+ent-WeaponPsiPyroPka = Пси-Ускоритель White-Pyro
+    .desc = Конфигурация пси-ускорителя, позволяющая создавать огненную материю с помощью пси-поля.
 
-ent-BoltPyrokinesis = pyrokinesis bolt
+ent-BoltPyrokinesis = сгусток пирокинеза
     .desc = { ent-WatcherBoltMagmawing.desc }
 
-ent-WeaponPsiCryoPka = White-Cryo Psi Accelerator
-    .desc = A psi-accelerator configuration that allows you to create ice matter using a psi field
+ent-WeaponPsiCryoPka = Пси-Ускоритель White-Cryo
+    .desc = Конфигурация пси-ускорителя, позволяющая создавать ледяную материю с помощью пси-поля
 
-ent-CryokinesPsiPkaRay = cryokinetic projectile
-    .desc = A powerful surge of psi energy.
+ent-CryokinesPsiPkaRay = криокинетический снаряд
+    .desc = Мощный всплеск пси-энергии.
 
-ent-WeaponPsiPsioPka = White-Psio Psi Accelerator
-    .desc = A psi-accelerator configuration that allows for deeper interaction with the psi field itself
+ent-WeaponPsiPsioPka = Пси-Ускоритель White-Psio
+    .desc = Конфигурация пси-ускорителя, позволяющая глубже взаимодействовать с самим пси-полем
 
-ent-PsionikalBullet = psionic surge
+ent-PsionikalBullet = псионический всплеск
     .desc = { ent-BulletDisablerPractice.desc }
 
-ent-ActionPsionikStrike = psionic surge
-    .desc = Accelerate the psi-field around you to the limit, concentrating it in 1 point. When it comes into contact with a living being, it severely affects it.
+ent-ActionPsionikStrike = псионический всплеск
+    .desc = Разгоните пси-поле вокруг себя до предела, сосредоточив его в 1 точке. Оно сильно воздействует на живых существ при контакте.

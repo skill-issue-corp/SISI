@@ -1,5 +1,5 @@
 ent-BaseInsurgentObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-InsurgentEscapeObjective = Escape to centcomm alive and unrestrained.
-    .desc = For the insurgence to succeed, you must keep your cover and reach Central Command in one piece.
+ent-InsurgentEscapeObjective = Добраться до цк живым и без наручников.
+    .desc = Чтобы восстание удалось, вы должны сохранить прикрытие и добраться до Центрального Командования целым и невредимым.

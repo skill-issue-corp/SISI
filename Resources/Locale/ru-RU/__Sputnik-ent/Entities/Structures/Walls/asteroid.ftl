@@ -1,426 +1,426 @@
 ent-BaseAsteroidRock = { ent-BaseWall }
     .desc = { ent-BaseWall.desc }
 
-ent-AsteroidRock = asteroid rock
-    .desc = A rocky asteroid.
+ent-AsteroidRock = астероидная порода
+    .desc = Каменистый астероид.
 
 ent-BaseRockGibtonite = { ent-BaseWall }
     .desc = { ent-BaseWall.desc }
-    .suffix = Gibtonite
+    .suffix = Гибтонит
 
 ent-AsteroidRockCoal = { ent-AsteroidRock }
     .desc = { ent-AsteroidRock.desc }
-    .suffix = Coal
+    .suffix = Уголь
 
 ent-AsteroidRockCoalCrab = { ent-AsteroidRockCoal }
     .desc = { ent-AsteroidRockCoal.desc }
-    .suffix = Coal Crab
+    .suffix = Угольный Краб
 
 ent-AsteroidRockGold = { ent-AsteroidRock }
     .desc = { ent-AsteroidRock.desc }
-    .suffix = Gold
+    .suffix = Золото
 
 ent-AsteroidRockGoldCrab = { ent-AsteroidRockGold }
     .desc = { ent-AsteroidRockGold.desc }
-    .suffix = Gold Crab
+    .suffix = Золотой Краб
 
 ent-AsteroidRockDiamond = { ent-AsteroidRock }
     .desc = { ent-AsteroidRock.desc }
-    .suffix = Diamond
+    .suffix = Алмаз
 
 ent-AsteroidRockPlasma = { ent-AsteroidRock }
     .desc = { ent-AsteroidRock.desc }
-    .suffix = Plasma
+    .suffix = Плазма
 
 ent-AsteroidRockQuartz = { ent-AsteroidRock }
     .desc = { ent-AsteroidRock.desc }
-    .suffix = Quartz
+    .suffix = Кварц
 
 ent-AsteroidRockQuartzCrab = { ent-AsteroidRockQuartz }
     .desc = { ent-AsteroidRockQuartz.desc }
-    .suffix = Quartz Crab
+    .suffix = Кварцевый Краб
 
 ent-AsteroidRockSilver = { ent-AsteroidRock }
     .desc = { ent-AsteroidRock.desc }
-    .suffix = Silver
+    .suffix = Серебро
 
 ent-AsteroidRockSilverCrab = { ent-AsteroidRockSilver }
     .desc = { ent-AsteroidRockSilver.desc }
-    .suffix = Silver Crab
+    .suffix = Серебряный Краб
 
 ent-AsteroidRockTin = { ent-AsteroidRock }
     .desc = { ent-AsteroidRock.desc }
-    .suffix = Iron
+    .suffix = Железо
 
 ent-AsteroidRockTinCrab = { ent-AsteroidRockTin }
     .desc = { ent-AsteroidRockTin.desc }
-    .suffix = Iron Crab
+    .suffix = Железный Краб
 
 ent-AsteroidRockUranium = { ent-AsteroidRock }
     .desc = { ent-AsteroidRock.desc }
-    .suffix = Uranium
+    .suffix = Уран
 
 ent-AsteroidRockUraniumCrab = { ent-AsteroidRockUranium }
     .desc = { ent-AsteroidRockUranium.desc }
-    .suffix = Uranium Crab
+    .suffix = Урановый Краб
 
 ent-AsteroidRockBananium = { ent-AsteroidRock }
     .desc = { ent-AsteroidRock.desc }
-    .suffix = Bananium
+    .suffix = Бананиум
 
 ent-AsteroidRockBananiumCrab = { ent-AsteroidRockBananium }
     .desc = { ent-AsteroidRockBananium.desc }
-    .suffix = Bananium Crab
+    .suffix = Бананиумовый Краб
 
 ent-AsteroidRockSalt = { ent-AsteroidRock }
     .desc = { ent-AsteroidRock.desc }
-    .suffix = Salt
+    .suffix = Соль
 
 ent-AsteroidRockArtifactFragment = { ent-AsteroidRock }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
+    .desc = Каменная стена. Что это из неё торчит?
+    .suffix = Фрагмент Артефакта
 
-ent-AsteroidRockGibtonite = asteroid rock
+ent-AsteroidRockGibtonite = астероидная порода
     .desc = { ent-BaseRockGibtonite.desc }
 
-ent-AsteroidRockMining = asteroid rock
-    .desc = An asteroid.
-    .suffix = higher ore yield .33
+ent-AsteroidRockMining = астероидная порода
+    .desc = Астероид.
+    .suffix = повышенный выход руды .33
 
-ent-IronRock = ironrock
-    .desc = A rocky asteroid.
-    .suffix = Low Ore Yield
+ent-IronRock = железистая порода
+    .desc = Каменистый астероид.
+    .suffix = Низкий Выход Руды
 
-ent-IronRockMining = ironrock
-    .desc = An asteroid.
-    .suffix = higher ore yield
+ent-IronRockMining = железистая порода
+    .desc = Астероид.
+    .suffix = повышенный выход руды
 
 ent-IronRockCoal = { ent-IronRock }
     .desc = { ent-IronRock.desc }
-    .suffix = Coal
+    .suffix = Уголь
 
 ent-IronRockGold = { ent-IronRock }
     .desc = { ent-IronRock.desc }
-    .suffix = Gold
+    .suffix = Золото
 
 ent-IronRockPlasma = { ent-IronRock }
     .desc = { ent-IronRock.desc }
-    .suffix = Plasma
+    .suffix = Плазма
 
 ent-IronRockQuartz = { ent-IronRock }
     .desc = { ent-IronRock.desc }
-    .suffix = Quartz
+    .suffix = Кварц
 
 ent-IronRockSilver = { ent-IronRock }
     .desc = { ent-IronRock.desc }
-    .suffix = Silver
+    .suffix = Серебро
 
 ent-IronRockIron = { ent-IronRock }
     .desc = { ent-IronRock.desc }
-    .suffix = Iron
+    .suffix = Железо
 
 ent-IronRockUranium = { ent-IronRock }
     .desc = { ent-IronRock.desc }
-    .suffix = Uranium
+    .suffix = Уран
 
 ent-IronRockBananium = { ent-IronRock }
     .desc = { ent-IronRock.desc }
-    .suffix = Bananium
+    .suffix = Бананиум
 
 ent-IronRockSalt = { ent-IronRock }
     .desc = { ent-IronRock.desc }
-    .suffix = Salt
+    .suffix = Соль
 
 ent-IronRockArtifactFragment = { ent-IronRock }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
+    .desc = Каменная стена. Что это из неё торчит?
+    .suffix = Фрагмент Артефакта
 
-ent-IronRockGibtonite = ironrock
+ent-IronRockGibtonite = железистая порода
     .desc = { ent-BaseRockGibtonite.desc }
 
 ent-IronRockDiamond = { ent-IronRock }
     .desc = { ent-IronRock.desc }
-    .suffix = Diamond
+    .suffix = Алмаз
 
-ent-WallRock = rock
+ent-WallRock = скала
     .desc = { ent-BaseWall.desc }
-    .suffix = planetmap
+    .suffix = карта планеты
 
 ent-WallRockCoal = { ent-WallRock }
     .desc = { ent-WallRock.desc }
-    .suffix = Coal
+    .suffix = Уголь
 
 ent-WallRockGold = { ent-WallRock }
     .desc = { ent-WallRock.desc }
-    .suffix = Gold
+    .suffix = Золото
 
 ent-WallRockDiamond = { ent-WallRock }
     .desc = { ent-WallRock.desc }
-    .suffix = Diamond
+    .suffix = Алмаз
 
 ent-WallRockPlasma = { ent-WallRock }
     .desc = { ent-WallRock.desc }
-    .suffix = Plasma
+    .suffix = Плазма
 
 ent-WallRockQuartz = { ent-WallRock }
     .desc = { ent-WallRock.desc }
-    .suffix = Quartz
+    .suffix = Кварц
 
 ent-WallRockSilver = { ent-WallRock }
     .desc = { ent-WallRock.desc }
-    .suffix = Silver
+    .suffix = Серебро
 
 ent-WallRockTin = { ent-WallRock }
     .desc = { ent-WallRock.desc }
-    .suffix = Iron
+    .suffix = Железо
 
 ent-WallRockUranium = { ent-WallRock }
     .desc = { ent-WallRock.desc }
-    .suffix = Uranium
+    .suffix = Уран
 
 ent-WallRockBananium = { ent-WallRock }
     .desc = { ent-WallRock.desc }
-    .suffix = Bananium
+    .suffix = Бананиум
 
 ent-WallRockArtifactFragment = { ent-WallRock }
     .desc = { ent-WallRock.desc }
-    .suffix = Artifact Fragment
+    .suffix = Фрагмент Артефакта
 
 ent-WallRockSalt = { ent-WallRock }
     .desc = { ent-WallRock.desc }
-    .suffix = Salt
+    .suffix = Соль
 
-ent-WallRockBasalt = basalt
+ent-WallRockBasalt = базальт
     .desc = { ent-WallRock.desc }
 
 ent-WallRockBasaltCoal = { ent-WallRockBasalt }
     .desc = { ent-WallRockBasalt.desc }
-    .suffix = Coal
+    .suffix = Уголь
 
 ent-WallRockBasaltGold = { ent-WallRockBasalt }
     .desc = { ent-WallRockBasalt.desc }
-    .suffix = Gold
+    .suffix = Золото
 
 ent-WallRockBasaltDiamond = { ent-WallRockBasalt }
     .desc = { ent-WallRockBasalt.desc }
-    .suffix = Diamond
+    .suffix = Алмаз
 
 ent-WallRockBasaltPlasma = { ent-WallRockBasalt }
     .desc = { ent-WallRockBasalt.desc }
-    .suffix = Plasma
+    .suffix = Плазма
 
 ent-WallRockBasaltQuartz = { ent-WallRockBasalt }
     .desc = { ent-WallRockBasalt.desc }
-    .suffix = Quartz
+    .suffix = Кварц
 
 ent-WallRockBasaltSilver = { ent-WallRockBasalt }
     .desc = { ent-WallRockBasalt.desc }
-    .suffix = Silver
+    .suffix = Серебро
 
 ent-WallRockBasaltTin = { ent-WallRockBasalt }
     .desc = { ent-WallRockBasalt.desc }
-    .suffix = Iron
+    .suffix = Железо
 
 ent-WallRockBasaltUranium = { ent-WallRockBasalt }
     .desc = { ent-WallRockBasalt.desc }
-    .suffix = Uranium
+    .suffix = Уран
 
 ent-WallRockBasaltBananium = { ent-WallRockBasalt }
     .desc = { ent-WallRockBasalt.desc }
-    .suffix = Bananium
+    .suffix = Бананиум
 
 ent-WallRockBasaltArtifactFragment = { ent-WallRockBasalt }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
+    .desc = Каменная стена. Что это из неё торчит?
+    .suffix = Фрагмент Артефакта
 
 ent-WallRockBasaltSalt = { ent-WallRockBasalt }
     .desc = { ent-WallRockBasalt.desc }
-    .suffix = Salt
+    .suffix = Соль
 
-ent-WallRockSnow = snowdrift
+ent-WallRockSnow = сугроб
     .desc = { ent-WallRock.desc }
 
 ent-WallRockSnowCoal = { ent-WallRockSnow }
     .desc = { ent-WallRockSnow.desc }
-    .suffix = Coal
+    .suffix = Уголь
 
 ent-WallRockSnowGold = { ent-WallRockSnow }
     .desc = { ent-WallRockSnow.desc }
-    .suffix = Gold
+    .suffix = Золото
 
 ent-WallRockSnowDiamond = { ent-WallRockSnow }
     .desc = { ent-WallRockSnow.desc }
-    .suffix = Diamond
+    .suffix = Алмаз
 
 ent-WallRockSnowPlasma = { ent-WallRockSnow }
     .desc = { ent-WallRockSnow.desc }
-    .suffix = Plasma
+    .suffix = Плазма
 
 ent-WallRockSnowQuartz = { ent-WallRockSnow }
     .desc = { ent-WallRockSnow.desc }
-    .suffix = Quartz
+    .suffix = Кварц
 
 ent-WallRockSnowSilver = { ent-WallRockSnow }
     .desc = { ent-WallRockSnow.desc }
-    .suffix = Silver
+    .suffix = Серебро
 
 ent-WallRockSnowTin = { ent-WallRockSnow }
     .desc = { ent-WallRockSnow.desc }
-    .suffix = Iron
+    .suffix = Железо
 
 ent-WallRockSnowUranium = { ent-WallRockSnow }
     .desc = { ent-WallRockSnow.desc }
-    .suffix = Uranium
+    .suffix = Уран
 
 ent-WallRockSnowBananium = { ent-WallRockSnow }
     .desc = { ent-WallRockSnow.desc }
-    .suffix = Bananium
+    .suffix = Бананиум
 
 ent-WallRockSnowArtifactFragment = { ent-WallRockSnow }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
+    .desc = Каменная стена. Что это из неё торчит?
+    .suffix = Фрагмент Артефакта
 
 ent-WallRockSnowSalt = { ent-WallRockSnow }
     .desc = { ent-WallRockSnow.desc }
-    .suffix = Salt
+    .suffix = Соль
 
-ent-WallRockSand = sandstone
+ent-WallRockSand = песчаник
     .desc = { ent-WallRock.desc }
 
 ent-WallRockSandCoal = { ent-WallRockSand }
     .desc = { ent-WallRockSand.desc }
-    .suffix = Coal
+    .suffix = Уголь
 
 ent-WallRockSandGold = { ent-WallRockSand }
     .desc = { ent-WallRockSand.desc }
-    .suffix = Gold
+    .suffix = Золото
 
 ent-WallRockSandDiamond = { ent-WallRockSand }
     .desc = { ent-WallRockSand.desc }
-    .suffix = Diamond
+    .suffix = Алмаз
 
 ent-WallRockSandPlasma = { ent-WallRockSand }
     .desc = { ent-WallRockSand.desc }
-    .suffix = Plasma
+    .suffix = Плазма
 
 ent-WallRockSandQuartz = { ent-WallRockSand }
     .desc = { ent-WallRockSand.desc }
-    .suffix = Quartz
+    .suffix = Кварц
 
 ent-WallRockSandSilver = { ent-WallRockSand }
     .desc = { ent-WallRockSand.desc }
-    .suffix = Silver
+    .suffix = Серебро
 
 ent-WallRockSandTin = { ent-WallRockSand }
     .desc = { ent-WallRockSand.desc }
-    .suffix = Iron
+    .suffix = Железо
 
 ent-WallRockSandUranium = { ent-WallRockSand }
     .desc = { ent-WallRockSand.desc }
-    .suffix = Uranium
+    .suffix = Уран
 
 ent-WallRockSandBananium = { ent-WallRockSand }
     .desc = { ent-WallRockSand.desc }
-    .suffix = Bananium
+    .suffix = Бананиум
 
 ent-WallRockSandArtifactFragment = { ent-WallRockSand }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
+    .desc = Каменная стена. Что это из неё торчит?
+    .suffix = Фрагмент Артефакта
 
 ent-WallRockSandSalt = { ent-WallRockSand }
     .desc = { ent-WallRockSand.desc }
-    .suffix = Salt
+    .suffix = Соль
 
-ent-WallRockChromite = chromite
+ent-WallRockChromite = хромит
     .desc = { ent-WallRock.desc }
 
 ent-WallRockChromiteCoal = { ent-WallRockChromite }
     .desc = { ent-WallRockChromite.desc }
-    .suffix = Coal
+    .suffix = Уголь
 
 ent-WallRockChromiteGold = { ent-WallRockChromite }
     .desc = { ent-WallRockChromite.desc }
-    .suffix = Gold
+    .suffix = Золото
 
 ent-WallRockChromiteDiamond = { ent-WallRockChromite }
     .desc = { ent-WallRockChromite.desc }
-    .suffix = Diamond
+    .suffix = Алмаз
 
 ent-WallRockChromitePlasma = { ent-WallRockChromite }
     .desc = { ent-WallRockChromite.desc }
-    .suffix = Plasma
+    .suffix = Плазма
 
 ent-WallRockChromiteQuartz = { ent-WallRockChromite }
     .desc = { ent-WallRockChromite.desc }
-    .suffix = Quartz
+    .suffix = Кварц
 
 ent-WallRockChromiteSilver = { ent-WallRockChromite }
     .desc = { ent-WallRockChromite.desc }
-    .suffix = Silver
+    .suffix = Серебро
 
 ent-WallRockChromiteTin = { ent-WallRockChromite }
     .desc = { ent-WallRockChromite.desc }
-    .suffix = Iron
+    .suffix = Железо
 
 ent-WallRockChromiteUranium = { ent-WallRockChromite }
     .desc = { ent-WallRockChromite.desc }
-    .suffix = Uranium
+    .suffix = Уран
 
 ent-WallRockChromiteBananium = { ent-WallRockChromite }
     .desc = { ent-WallRockChromite.desc }
-    .suffix = Bananium
+    .suffix = Бананиум
 
 ent-WallRockChromiteArtifactFragment = { ent-WallRockChromite }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
+    .desc = Каменная стена. Что это из неё торчит?
+    .suffix = Фрагмент Артефакта
 
 ent-WallRockChromiteSalt = { ent-WallRockChromite }
     .desc = { ent-WallRockChromite.desc }
-    .suffix = Salt
+    .suffix = Соль
 
-ent-WallRockAndesite = andesite
+ent-WallRockAndesite = андезит
     .desc = { ent-WallRock.desc }
 
 ent-WallRockAndesiteCoal = { ent-WallRockAndesite }
     .desc = { ent-WallRockAndesite.desc }
-    .suffix = Coal
+    .suffix = Уголь
 
 ent-WallRockAndesiteGold = { ent-WallRockAndesite }
     .desc = { ent-WallRockAndesite.desc }
-    .suffix = Gold
+    .suffix = Золото
 
 ent-WallRockAndesiteDiamond = { ent-WallRockAndesite }
     .desc = { ent-WallRockAndesite.desc }
-    .suffix = Diamond
+    .suffix = Алмаз
 
 ent-WallRockAndesitePlasma = { ent-WallRockAndesite }
     .desc = { ent-WallRockAndesite.desc }
-    .suffix = Plasma
+    .suffix = Плазма
 
 ent-WallRockAndesiteQuartz = { ent-WallRockAndesite }
     .desc = { ent-WallRockAndesite.desc }
-    .suffix = Quartz
+    .suffix = Кварц
 
 ent-WallRockAndesiteSilver = { ent-WallRockAndesite }
     .desc = { ent-WallRockAndesite.desc }
-    .suffix = Silver
+    .suffix = Серебро
 
 ent-WallRockAndesiteTin = { ent-WallRockAndesite }
     .desc = { ent-WallRockAndesite.desc }
-    .suffix = Iron
+    .suffix = Железо
 
 ent-WallRockAndesiteUranium = { ent-WallRockAndesite }
     .desc = { ent-WallRockAndesite.desc }
-    .suffix = Uranium
+    .suffix = Уран
 
 ent-WallRockAndesiteBananium = { ent-WallRockAndesite }
     .desc = { ent-WallRockAndesite.desc }
-    .suffix = Bananium
+    .suffix = Бананиум
 
 ent-WallRockAndesiteArtifactFragment = { ent-WallRockAndesite }
-    .desc = A rock wall. What's that sticking out of it?
-    .suffix = Artifact Fragment
+    .desc = Каменная стена. Что это из неё торчит?
+    .suffix = Фрагмент Артефакта
 
 ent-WallRockAndesiteSalt = { ent-WallRockAndesite }
     .desc = { ent-WallRockAndesite.desc }
-    .suffix = Salt
+    .suffix = Соль

@@ -1,11 +1,11 @@
-ent-JawsOfLifeBase = jaws of life
-    .desc = A set of jaws of life, compressed through the magic of science.
+ent-JawsOfLifeBase = гидравлические ножницы
+    .desc = Гидравлические ножницы, уменьшенные благодаря магии науки.
 
 ent-JawsOfLife = { ent-JawsOfLifeBase }
     .desc = { ent-JawsOfLifeBase.desc }
 
-ent-SyndicateJawsOfLife = syndicate jaws of death
-    .desc = Useful for breaking into secure areas and other nefarious activities.
+ent-SyndicateJawsOfLife = смертоносные гидравлические ножницы синдиката
+    .desc = Удобны для взлома охраняемых зон и прочих злодеяний.
 
-ent-XenoborgJawsOfLife = xenoborg jaws of death
-    .desc = Useful for prying open bolted doors where organics are hiding.
+ent-XenoborgJawsOfLife = смертоносные гидравлические ножницы ксеноборгов
+    .desc = Удобны для вскрытия заблокированных дверей, за которыми прячутся органики.

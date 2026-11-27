@@ -1,2 +1,2 @@
 ent-VampiricRune = { "" }
-    .desc = The marking of a vampire's blood... Usually, a sign that a lair has been manifested.
+    .desc = Метка из крови вампира... Обычно она означает, что здесь появилось логово.

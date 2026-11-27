@@ -8,26 +8,26 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-thermite = thermite
-reagent-desc-thermite = A mixture that becomes extremely hot when ignited.
+reagent-name-thermite = термит
+reagent-desc-thermite = Смесь, которая сильно нагревается при воспламенении.
 
-reagent-name-napalm = napalm
-reagent-desc-napalm = It's just a little flammable.
+reagent-name-napalm = напалм
+reagent-desc-napalm = Он всего лишь чуточку горючий.
 
-reagent-name-phlogiston = phlogiston
-reagent-desc-phlogiston = Catches you on fire and makes you ignite.
+reagent-name-phlogiston = флогистон
+reagent-desc-phlogiston = Поджигает вас и заставляет вспыхнуть.
 
-reagent-name-chlorine-trifluoride = chlorine trifluoride
-reagent-desc-chlorine-trifluoride = You really, REALLY don't want to get this shit anywhere near you.
+reagent-name-chlorine-trifluoride = трифторид хлора
+reagent-desc-chlorine-trifluoride = Вы точно, ТОЧНО не хотите, чтобы эта хрень оказалась рядом с вами.
 
-reagent-name-foaming-agent = foaming agent
-reagent-desc-foaming-agent = Makes foam such as that's required in metal foam grenades.
+reagent-name-foaming-agent = пенообразователь
+reagent-desc-foaming-agent = Образует пену, необходимую, например, в гранатах с металлической пеной.
 
-reagent-name-welding-fuel = welding fuel
-reagent-desc-welding-fuel = Used by welders to weld.
+reagent-name-welding-fuel = сварочное топливо
+reagent-desc-welding-fuel = Сварщики используют его для сварки.
 
-reagent-name-xenoborg-oil = xenoborg oil
-reagent-desc-xenoborg-oil = A light oil used to slip and burn organics.
+reagent-name-xenoborg-oil = масло ксеноборгов
+reagent-desc-xenoborg-oil = Лёгкое масло, на котором органики поскальзываются и получают ожоги.
 
-reagent-name-fluorosurfactant = fluorosurfactant
-reagent-desc-fluorosurfactant = A perfluoronated sulfonic acid that forms a foam when mixed with water.
+reagent-name-fluorosurfactant = фторсурфактант
+reagent-desc-fluorosurfactant = Перфторированная сульфоновая кислота, образующая пену при смешивании с водой.

@@ -1,6 +1,6 @@
-xenomorph-round-end-agent-name = [color=#8c3986]Xenomorph[/color]
+xenomorph-round-end-agent-name = [color=#8c3986]Ксеноморф[/color]
 
-objective-issuer-xenomorph-hive = [color=#8c3986]The Xenomorph Hive[/color]
+objective-issuer-xenomorph-hive = [color=#8c3986]Улей Ксеноморфов[/color]
 
 # SIS-Start
 xenomorph-role-greeting =

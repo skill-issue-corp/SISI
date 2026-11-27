@@ -1,52 +1,52 @@
 ent-BaseSiliconLawboard = { ent-BaseElectronics }
-    .desc = An electronics board containing a silicon lawset.
+    .desc = Электронная плата с набором законов для синтетиков.
 
-ent-NTDefaultCircuitBoard = law board (NT Default)
-    .desc = An electronics board containing the NT Default lawset.
+ent-NTDefaultCircuitBoard = плата законов (Стандарт NT)
+    .desc = Электронная плата с набором законов «Стандарт NT».
 
-ent-CrewsimovCircuitBoard = law board (Crewsimov)
-    .desc = An electronics board containing the Crewsimov lawset.
+ent-CrewsimovCircuitBoard = плата законов (Экипажимов)
+    .desc = Электронная плата с набором законов «Экипажимов».
 
-ent-CorporateCircuitBoard = law board (Corporate)
-    .desc = An electronics board containing the Corporate lawset.
+ent-CorporateCircuitBoard = плата законов (Корпоративный)
+    .desc = Электронная плата с набором законов «Корпоративный».
 
-ent-CommandmentCircuitBoard = law board (Ten Commandments)
-    .desc = An electronics board containing the Ten Commandments lawset.
+ent-CommandmentCircuitBoard = плата законов (Десять Заповедей)
+    .desc = Электронная плата с набором законов «Десять Заповедей».
 
-ent-PaladinCircuitBoard = law board (Paladin)
-    .desc = An electronics board containing the Paladin lawset.
+ent-PaladinCircuitBoard = плата законов (Паладин)
+    .desc = Электронная плата с набором законов «Паладин».
 
-ent-LiveLetLiveCircuitBoard = law board (Live and Let Live)
-    .desc = An electronics board containing the Live and Let Live lawset.
+ent-LiveLetLiveCircuitBoard = плата законов (Живи и Дай Жить Другим)
+    .desc = Электронная плата с набором законов «Живи и Дай Жить Другим».
 
-ent-StationEfficiencyCircuitBoard = law board (Station Efficiency)
-    .desc = An electronics board containing the Station Efficiency lawset.
+ent-StationEfficiencyCircuitBoard = плата законов (Эффективность Станции)
+    .desc = Электронная плата с набором законов «Эффективность Станции».
 
-ent-RobocopCircuitBoard = law board (Robocop)
-    .desc = An electronics board containing the Robocop lawset.
+ent-RobocopCircuitBoard = плата законов (Робокоп)
+    .desc = Электронная плата с набором законов «Робокоп».
 
-ent-OverlordCircuitBoard = law board (Overlord)
-    .desc = An electronics board containing the Overlord lawset.
+ent-OverlordCircuitBoard = плата законов (Владыка)
+    .desc = Электронная плата с набором законов «Владыка».
 
-ent-GameMasterCircuitBoard = law board (Game Master)
-    .desc = An electronics board containing the Game Master lawset.
+ent-GameMasterCircuitBoard = плата законов (Мастер Игры)
+    .desc = Электронная плата с набором законов «Мастер Игры».
 
-ent-ArtistCircuitBoard = law board (Artist)
-    .desc = An electronics board containing the Artist lawset.
+ent-ArtistCircuitBoard = плата законов (Художник)
+    .desc = Электронная плата с набором законов «Художник».
 
-ent-AntimovCircuitBoard = law board (Antimov)
-    .desc = An electronics board containing the Antimov lawset.
+ent-AntimovCircuitBoard = плата законов (Антимов)
+    .desc = Электронная плата с набором законов «Антимов».
 
-ent-SyndimovCircuitBoard = law board (Syndimov)
-    .desc = An electronics board containing the Syndimov lawset.
+ent-SyndimovCircuitBoard = плата законов (Синдимов)
+    .desc = Электронная плата с набором законов «Синдимов».
 
-ent-NutimovCircuitBoard = law board (Nutimov)
-    .desc = An electronics board containing the Nutimov lawset.
+ent-NutimovCircuitBoard = плата законов (Орехимов)
+    .desc = Электронная плата с набором законов «Орехимов».
 
-ent-XenoborgCircuitBoard = law board (Xenoborg)
-    .desc = An electronics board containing the Xenoborg lawset.
-    .suffix = Admeme
+ent-XenoborgCircuitBoard = плата законов (Ксеноборг)
+    .desc = Электронная плата с набором законов «Ксеноборг».
+    .suffix = Адмеме
 
-ent-MothershipCircuitBoard = law board (Mothership Core)
-    .desc = An electronics board containing the Mothership Core lawset.
-    .suffix = Admeme
+ent-MothershipCircuitBoard = плата законов (Ядро Материнского Корабля)
+    .desc = Электронная плата с набором законов «Ядро Материнского Корабля».
+    .suffix = Адмеме

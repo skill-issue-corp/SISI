@@ -1,5 +1,5 @@
-ent-LavalandEquipmentAncientArmor = predecessor armor
-    .desc = Ancient armor that is fully made out of strong goliath plates.
+ent-LavalandEquipmentAncientArmor = броня предтеч
+    .desc = Древняя броня, целиком изготовленная из прочных пластин голиафа.
 
-ent-LavalandEquipmentAncientArmorHood = predecessor helmet
-    .desc = Armored helmet that resembles some pagan deity. Eye holes are covered with durable resin. Looks like it's hard to breath inside.
+ent-LavalandEquipmentAncientArmorHood = шлем предтеч
+    .desc = Бронированный шлем, напоминающий какое-то языческое божество. Прорези для глаз закрыты прочной смолой. Похоже, в нём тяжело дышать.

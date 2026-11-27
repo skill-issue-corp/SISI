@@ -1,29 +1,29 @@
 ent-BaseMobMimic = { ent-MobSpaceBasic }
-    .desc = The last thing you'll ever see.
+    .desc = Последнее, что вы увидите.
 
-ent-MobMimicToolBox = toolbox mimic
+ent-MobMimicToolBox = мимик ящика для инструментов
     .desc = { ent-BaseMobMimic.desc }
 
-ent-ToolboxEmergencyMimic = emergency toolbox
-    .desc = A bright red toolbox, stocked with emergency tools. Why is it breathing?
-    .suffix = Mimic
+ent-ToolboxEmergencyMimic = аварийный тулбокс
+    .desc = Ярко-красный ящик с аварийными инструментами. Почему он дышит?
+    .suffix = Мимик
 
-ent-MobMimicLocker = locker mimic
+ent-MobMimicLocker = мимик шкафа
     .desc = { ent-BaseMobMimic.desc }
 
-ent-LockerMimic = maintenance closet
-    .desc = It's a storage unit. Why is it breathing?
-    .suffix = Mimic
+ent-LockerMimic = шкаф техтоннелей
+    .desc = Это шкаф для хранения вещей. Почему он дышит?
+    .suffix = Мимик
 
-ent-MobMimicVendor = vending machine mimic
+ent-MobMimicVendor = мимик торгового автомата
     .desc = { ent-BaseMobMimic.desc }
 
-ent-BulletMimic = can of whoopass
-    .desc = A sodacan with teeth sticking out of the top.
+ent-BulletMimic = банка по щам
+    .desc = Банка газировки с зубами, торчащими из крышки.
 
 ent-BaseVendorMimic = { "" }
-    .desc = Why is it breathing?
-    .suffix = Mimic
+    .desc = Почему он дышит?
+    .suffix = Мимик
 
 ent-VendorMimicCoffee = { ent-BaseVendorMimic }
     .desc = { ent-BaseVendorMimic.desc }
@@ -78,7 +78,7 @@ ent-VendorMimicWeeb = { ent-BaseVendorMimic }
 
 ent-VendorMimicDiscount = { ent-BaseVendorMimic }
     .desc = { ent-BaseVendorMimic.desc }
-    .suffix = Mimic
+    .suffix = Мимик
 
 ent-VendorMimicSnack = { ent-BaseVendorMimic }
     .desc = { ent-BaseVendorMimic.desc }

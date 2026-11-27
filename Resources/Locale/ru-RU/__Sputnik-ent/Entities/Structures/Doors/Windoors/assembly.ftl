@@ -1,23 +1,23 @@
-ent-BaseWindoorAssembly = windoor assembly
-    .desc = It opens, it closes, and you can see through it!
+ent-BaseWindoorAssembly = каркас стеклянной двери
+    .desc = Открывается, закрывается, и сквозь него всё видно!
 
 ent-WindoorAssembly = { ent-BaseWindoorAssembly }
     .desc = { ent-BaseWindoorAssembly.desc }
 
-ent-WindoorAssemblySecure = secure windoor assembly
-    .desc = It opens, it closes, and you can see through it! This one looks tough.
+ent-WindoorAssemblySecure = каркас защищённой стеклянной двери
+    .desc = Открывается, закрывается, и сквозь него всё видно! Этот выглядит прочным.
 
-ent-WindoorAssemblyClockwork = clockwork windoor assembly
-    .desc = It opens, it closes, and you can see through it! This one looks tough.
+ent-WindoorAssemblyClockwork = каркас часовой стеклянной двери
+    .desc = Открывается, закрывается, и сквозь него всё видно! Этот выглядит прочным.
 
-ent-WindoorAssemblyPlasma = plasma windoor assembly
-    .desc = It opens, it closes, and you can see through it! This one looks purp-, no, pink. Wait...
+ent-WindoorAssemblyPlasma = каркас плазменной стеклянной двери
+    .desc = Открывается, закрывается, и сквозь него всё видно! Этот вроде фиоле-, нет, розовый. Стоп...
 
-ent-WindoorAssemblySecurePlasma = secure plasma windoor assembly
-    .desc = It opens, it closes, and you can see through it! This one looks strong and pin-, no, purple. Hold on...
+ent-WindoorAssemblySecurePlasma = каркас защищённой плазменной стеклянной двери
+    .desc = Открывается, закрывается, и сквозь него всё видно! Этот вроде прочный и розо-, нет, фиолетовый. Секунду...
 
-ent-WindoorAssemblyUranium = uranium windoor assembly
-    .desc = It opens, it closes, and you can see through it! This one looks sickly green...
+ent-WindoorAssemblyUranium = каркас урановой стеклянной двери
+    .desc = Открывается, закрывается, и сквозь него всё видно! Этот какой-то болезненно-зелёный...
 
-ent-WindoorAssemblySecureUranium = secure uranium windoor assembly
-    .desc = It opens, it closes, and you can see through it! This one looks strong and radioactive-lime-green!
+ent-WindoorAssemblySecureUranium = каркас защищённой урановой стеклянной двери
+    .desc = Открывается, закрывается, и сквозь него всё видно! Этот прочный на вид и радиоактивно-лаймово-зелёный!

@@ -1,11 +1,11 @@
 ent-BaseRipleyMKIIPart = { ent-BaseMechPart }
     .desc = { ent-BaseMechPart.desc }
 
-ent-RipleyMKIIHarness = ripley MK-II harness
-    .desc = The core of the Ripley MK-II.
+ent-RipleyMKIIHarness = каркас рипли MK-II
+    .desc = Основа Рипли MK-II.
 
-ent-RipleyMKIIChassis = ripley MK-II chassis
-    .desc = An in-progress construction of the Ripley MK-II mech.
+ent-RipleyMKIIChassis = шасси рипли MK-II
+    .desc = Недостроенный мех Рипли MK-II.
 
 ent-BaseClarkePart = { ent-BaseMechPart }
     .desc = { ent-BaseMechPart.desc }
@@ -13,23 +13,23 @@ ent-BaseClarkePart = { ent-BaseMechPart }
 ent-BaseClarkePartItem = { ent-BaseClarkePart }
     .desc = { ent-BaseClarkePart.desc }
 
-ent-ClarkeHarness = clarke harness
-    .desc = The core of the Clarke.
+ent-ClarkeHarness = каркас кларка
+    .desc = Основа Кларка.
 
-ent-ClarkeHead = clarke head
-    .desc = The head of the Clarke. It belongs on the chassis of the mech.
+ent-ClarkeHead = голова кларка
+    .desc = Голова Кларка. Крепится к шасси меха.
 
-ent-ClarkeRArm = clarke right arm
-    .desc = The right arm of the Clarke. It belongs on the chassis of the mech.
+ent-ClarkeRArm = правая рука кларка
+    .desc = Правая рука Кларка. Крепится к шасси меха.
 
-ent-ClarkeLArm = clarke left arm
-    .desc = The left arm of the Clarke. It belongs on the chassis of the mech.
+ent-ClarkeLArm = левая рука кларка
+    .desc = Левая рука Кларка. Крепится к шасси меха.
 
-ent-ClarkeTreads = clarke treads
-    .desc = The treads of the Clarke. It belongs on the chassis of the mech.
+ent-ClarkeTreads = гусеницы кларка
+    .desc = Гусеницы Кларка. Крепятся к шасси меха.
 
-ent-ClarkeChassis = clarke chassis
-    .desc = An in-progress construction of the Clarke mech.
+ent-ClarkeChassis = шасси кларка
+    .desc = Недостроенный мех Кларк.
 
 ent-BaseDurandPart = { ent-BaseMechPart }
     .desc = { ent-BaseMechPart.desc }
@@ -37,26 +37,26 @@ ent-BaseDurandPart = { ent-BaseMechPart }
 ent-BaseDurandPartItem = { ent-BaseDurandPart }
     .desc = { ent-BaseDurandPart.desc }
 
-ent-DurandHarness = durand harness
-    .desc = The core of the Durand.
+ent-DurandHarness = каркас дюранда
+    .desc = Основа Дюранда.
 
-ent-DurandHead = durand head
-    .desc = The head of the Durand. It belongs on the chassis of the mech.
+ent-DurandHead = голова дюранда
+    .desc = Голова Дюранда. Крепится к шасси меха.
 
-ent-DurandLArm = durand left arm
-    .desc = The left arm of the Durand. It belongs on the chassis of the mech.
+ent-DurandLArm = левая рука дюранда
+    .desc = Левая рука Дюранда. Крепится к шасси меха.
 
-ent-DurandLLeg = durand left leg
-    .desc = The left leg of the Durand. It belongs on the chassis of the mech.
+ent-DurandLLeg = левая нога дюранда
+    .desc = Левая нога Дюранда. Крепится к шасси меха.
 
-ent-DurandRLeg = durand right leg
-    .desc = The right leg of the Durand. It belongs on the chassis of the mech.
+ent-DurandRLeg = правая нога дюранда
+    .desc = Правая нога Дюранда. Крепится к шасси меха.
 
-ent-DurandRArm = durand right arm
-    .desc = The right arm of the Durand. It belongs on the chassis of the mech.
+ent-DurandRArm = правая рука дюранда
+    .desc = Правая рука Дюранда. Крепится к шасси меха.
 
-ent-DurandChassis = durand chassis
-    .desc = An in-progress construction of the Durand mech.
+ent-DurandChassis = шасси дюранда
+    .desc = Недостроенный мех Дюранд.
 
 ent-BaseGygaxPart = { ent-BaseMechPart }
     .desc = { ent-BaseMechPart.desc }
@@ -64,23 +64,23 @@ ent-BaseGygaxPart = { ent-BaseMechPart }
 ent-BaseGygaxPartItem = { ent-BaseGygaxPart }
     .desc = { ent-BaseGygaxPart.desc }
 
-ent-GygaxHarness = gygax harness
-    .desc = The core of the Gygax.
+ent-GygaxHarness = каркас гайгэкса
+    .desc = Основа Гайгэкса.
 
-ent-GygaxHead = gygax head
-    .desc = The head of the Gygax. It belongs on the chassis of the mech.
+ent-GygaxHead = голова гайгэкса
+    .desc = Голова Гайгэкса. Крепится к шасси меха.
 
-ent-GygaxLArm = gygax left arm
-    .desc = The left arm of the Gygax. It belongs on the chassis of the mech.
+ent-GygaxLArm = левая рука гайгэкса
+    .desc = Левая рука Гайгэкса. Крепится к шасси меха.
 
-ent-GygaxLLeg = gygax left leg
-    .desc = The left leg of the Gygax. It belongs on the chassis of the mech.
+ent-GygaxLLeg = левая нога гайгэкса
+    .desc = Левая нога Гайгэкса. Крепится к шасси меха.
 
-ent-GygaxRLeg = gygax right leg
-    .desc = The right leg of the Gygax. It belongs on the chassis of the mech.
+ent-GygaxRLeg = правая нога гайгэкса
+    .desc = Правая нога Гайгэкса. Крепится к шасси меха.
 
-ent-GygaxRArm = gygax right arm
-    .desc = The right arm of the Gygax. It belongs on the chassis of the mech.
+ent-GygaxRArm = правая рука гайгэкса
+    .desc = Правая рука Гайгэкса. Крепится к шасси меха.
 
-ent-GygaxChassis = gygax chassis
-    .desc = An in-progress construction of the Gygax mech.
+ent-GygaxChassis = шасси гайгэкса
+    .desc = Недостроенный мех Гайгэкс.

@@ -5,4 +5,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-research-disk-inserted = You insert the disk, adding {$points} points to the server.
+research-disk-inserted = Вы вставляете диск и добавляете серверу {$points} { $points ->
+    [one] очко
+    [few] очка
+   *[other] очков
+}.

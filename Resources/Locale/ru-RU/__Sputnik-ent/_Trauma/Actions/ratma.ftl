@@ -1,2 +1,2 @@
-ent-ActionRatmaJump = Jump
-    .desc = Jump after the food.
+ent-ActionRatmaJump = Прыгнуть
+    .desc = Прыгните за едой.

@@ -1,63 +1,63 @@
-ent-ClothingHeadHatBunny = bunny ears
-    .desc = Cute bunny ears.
+ent-ClothingHeadHatBunny = заячьи ушки
+    .desc = Милые заячьи ушки.
 
-ent-ClothingHeadHatCake = cake hat
-    .desc = You put the cake on your head. Brilliant.
+ent-ClothingHeadHatCake = шляпа-торт
+    .desc = Вы надели торт на голову. Гениально.
 
-ent-ClothingHeadHatChickenhead = chicken head
-    .desc = It's a chicken head. Bok bok bok!
+ent-ClothingHeadHatChickenhead = куриная голова
+    .desc = Это куриная голова. Ко-ко-ко!
 
-ent-ClothingHeadHatFlowerWreath = flower wreath
-    .desc = A wreath of colourful flowers. Can be worn both on head and neck.
+ent-ClothingHeadHatFlowerWreath = цветочный венок
+    .desc = Венок из разноцветных цветов. Можно носить и на голове, и на шее.
 
-ent-ClothingHeadHatPumpkin = pumpkin hat
-    .desc = A jack o' lantern! Believed to ward off evil spirits.
+ent-ClothingHeadHatPumpkin = шляпа-тыква
+    .desc = Светильник джека! Считается, что он отпугивает злых духов.
 
-ent-ClothingHeadHatPwig = pwig
-    .desc = To be honest, those look ridiculous.
+ent-ClothingHeadHatPwig = пудреный парик
+    .desc = Если честно, они выглядят нелепо.
 
-ent-ClothingHeadMirror = head mirror
-    .desc = I doubt even the CMO knows how to use this thing.
+ent-ClothingHeadMirror = налобный рефлектор
+    .desc = Сомневаюсь, что даже ГВ знает, как этим пользоваться.
 
-ent-ClothingHeadHatRichard = richard
-    .desc = Do you like hurting people?
+ent-ClothingHeadHatRichard = ричард
+    .desc = Тебе нравится причинять людям боль?
 
-ent-ClothingHeadHatSkub = skub hat
-    .desc = Best paired with the Skub Suit.
+ent-ClothingHeadHatSkub = шапка скаба
+    .desc = Лучше всего носить с Костюмом Скаба.
 
-ent-ClothingHeadHatShrineMaidenWig = shrine maiden's wig
-    .desc = The tag reads "All proceeds go to the Hakurei Shrine."
+ent-ClothingHeadHatShrineMaidenWig = парик храмовой жрицы
+    .desc = На бирке написано «Вся выручка идёт храму Хакурэй».
 
-ent-ClothingHeadHatCone = warning cone
-    .desc = This cone is trying to warn you of something!
+ent-ClothingHeadHatCone = сигнальный конус
+    .desc = Этот конус пытается вас о чём-то предупредить!
 
-ent-ClothingHeadHatFancyCrown = fancy crown
-    .desc = It smells like dead rat. Lets you speak like one!
+ent-ClothingHeadHatFancyCrown = шикарная корона
+    .desc = Пахнет дохлой крысой. Позволяет говорить, как она!
 
-ent-ClothingHeadHatCatEars = cat ears
-    .desc = NYAH!
+ent-ClothingHeadHatCatEars = кошачьи ушки
+    .desc = НЯ!
 
 ent-ClothingHeadHatCatEarsValid = { ent-ClothingHeadHatCatEars }
     .desc = { ent-ClothingHeadHatCatEars.desc }
-    .suffix = Valid, DO NOT MAP
+    .suffix = Валид, НЕ МАППИТЬ
 
-ent-ActionBecomeValid = Become Valid
-    .desc = *notices your killsign* owo whats this
+ent-ActionBecomeValid = Стать Валидом
+    .desc = *замечает твой знак на убийство* ово а это что
 
-ent-ClothingHeadHatDogEars = doggy ears
-    .desc = Only for good boys.
+ent-ClothingHeadHatDogEars = собачьи ушки
+    .desc = Только для хороших мальчиков.
 
-ent-ClothingHeadHatSquid = squiddy
-    .desc = Scare your friends with this eldritch mask.
+ent-ClothingHeadHatSquid = кальмарчик
+    .desc = Напугайте друзей этой потусторонней маской.
 
-ent-ClothingHeadHatRedRacoon = red racoon hat
-    .desc = Fluffy hat of red racoon!
+ent-ClothingHeadHatRedRacoon = шапка красной панды
+    .desc = Пушистая шапка в виде красной панды!
 
-ent-WaterDropletHat = water droplet
-    .desc = Makes 8-eyed friends 8 times more adorable!
+ent-WaterDropletHat = капля воды
+    .desc = Делает 8-глазых друзей в 8 раз милее!
 
-ent-ClothingHeadHatHairflower = hairflower
-    .desc = A beautiful hairflower that can be inserted between locks of hair.
+ent-ClothingHeadHatHairflower = цветок для волос
+    .desc = Красивый цветок, который можно вставить между прядями волос.
 
-ent-ClothingHeadPerformerWig = performer's wig
-    .desc = On a closer inspection, it appears that it is made from optic fiber.
+ent-ClothingHeadPerformerWig = парик артиста
+    .desc = При ближайшем рассмотрении оказывается, что он сделан из оптоволокна.

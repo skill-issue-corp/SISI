@@ -9,23 +9,23 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-nutriment = nutriment
-reagent-desc-nutriment = All the vitamins, minerals, and carbohydrates the body needs in pure form.
+reagent-name-nutriment = питательное вещество
+reagent-desc-nutriment = Все витамины, минералы и углеводы, необходимые организму, в чистом виде.
 
-reagent-name-glucose = glucose
-reagent-desc-glucose = A simple sugar found in many foods.
+reagent-name-glucose = глюкоза
+reagent-desc-glucose = Простой сахар, содержащийся во многих продуктах.
 
-reagent-name-vitamin = vitamin
-reagent-desc-vitamin = Found in healthy, complete meals.
+reagent-name-vitamin = витамины
+reagent-desc-vitamin = Содержатся в полезных, полноценных блюдах.
 
-reagent-name-protein = protein
-reagent-desc-protein = Found in certain meals, good for bodily health.
+reagent-name-protein = белок
+reagent-desc-protein = Содержится в некоторых блюдах и полезен для здоровья.
 
-reagent-name-cocoapowder = cocoa powder
-reagent-desc-cocoapowder = From the best varieties of cocoa beans
+reagent-name-cocoapowder = какао-порошок
+reagent-desc-cocoapowder = Из лучших сортов какао-бобов
 
-reagent-name-butter = butter
-reagent-desc-butter = You can believe it!
+reagent-name-butter = сливочное масло
+reagent-desc-butter = Да, это и правда масло!
 
-reagent-name-pumpkin-flesh = pumpkin flesh
-reagent-desc-pumpkin-flesh = The mushy, sweet remains of a pumpkin.
+reagent-name-pumpkin-flesh = мякоть тыквы
+reagent-desc-pumpkin-flesh = Мягкие сладкие остатки тыквы.

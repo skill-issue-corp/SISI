@@ -1,20 +1,20 @@
-ent-Handcuffs = handcuffs
-    .desc = Used to detain criminals and other assholes.
+ent-Handcuffs = наручники
+    .desc = Ими задерживают преступников и прочих мудаков.
 
-ent-Cablecuffs = makeshift handcuffs
-    .desc = Homemade handcuffs crafted from spare cables.
+ent-Cablecuffs = самодельные наручники
+    .desc = Самодельные наручники из запасных кабелей.
 
-ent-Zipties = zipties
-    .desc = Tough single-use plastic zipties, ideal for restraining rowdy prisoners.
+ent-Zipties = стяжки
+    .desc = Прочные одноразовые пластиковые стяжки. Идеальны для буйных заключённых.
 
 ent-BaseHandcuffsBroken = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-ZiptiesBroken = broken zipties
-    .desc = These zipties look like they tried to manage the wrong cables.
+ent-ZiptiesBroken = сломанные стяжки
+    .desc = Похоже, этими стяжками попытались связать не те кабели.
 
-ent-CablecuffsBroken = broken cables
-    .desc = These cables are broken in several places and don't seem very useful.
+ent-CablecuffsBroken = порванные кабели
+    .desc = Они порваны в нескольких местах. Вряд ли от них теперь много толку.
 
-ent-ClothingOuterStraightjacket = straitjacket
-    .desc = Used to restrain those who may cause harm to themselves or others.
+ent-ClothingOuterStraightjacket = смирительная рубашка
+    .desc = Ограничивает движения тех, кто может причинить вред себе или другим.

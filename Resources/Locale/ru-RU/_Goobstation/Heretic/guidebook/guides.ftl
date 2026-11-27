@@ -6,5 +6,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-guide-entry-heretics = Heretics
-guide-entry-heretic-curses = Curses
+guide-entry-heretics = Еретики
+guide-entry-heretic-curses = Проклятия

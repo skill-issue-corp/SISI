@@ -1,5 +1,5 @@
-ent-MagazinePistolCaselessRiflePoison = pistol magazine (.25 caseless toxin)
-    .desc = 10-round magazine for the Cobra pistol. Intended to hold poisonous ammunition.
+ent-MagazinePistolCaselessRiflePoison = пистолетный магазин (.25 безгильзовые с токсином)
+    .desc = 10-зарядный магазин для пистолета Cobra. Предназначен для отравленных боеприпасов.
 
-ent-MagazinePistolCaselessRifleTranquilizer = pistol magazine (.25 caseless tranq)
-    .desc = 10-round magazine for the Cobra pistol. Intended to hold tranquilizer ammunition.
+ent-MagazinePistolCaselessRifleTranquilizer = пистолетный магазин (.25 безгильзовые с транквилизатором)
+    .desc = 10-зарядный магазин для пистолета Cobra. Предназначен для боеприпасов с транквилизатором.

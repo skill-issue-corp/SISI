@@ -1,9 +1,9 @@
-ent-AppearanceXenomorphBase = xenomorph appearance
+ent-AppearanceXenomorphBase = внешность ксеноморфа
     .desc = { ent-BaseMobBody.desc }
 
 ent-OrganXenomorph = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = xenomorph
+    .suffix = ксеноморф
 
 ent-OrganXenomorphInternal = { ent-OrganXenomorph }
     .desc = { ent-OrganXenomorph.desc }
@@ -45,37 +45,37 @@ ent-OrganXenomorphFootRight = { ent-OrganBaseFootRight }
     .desc = { ent-OrganBaseFootRight.desc }
 
 ent-OrganXenomorphBrain = { ent-OrganBaseBrain }
-    .desc = We barely understand the brains of terrestial animals. Who knows what we may find in the brain of such an advanced species?
+    .desc = Мы едва понимаем, как устроен мозг наземных животных. Кто знает, что мы найдём в мозге столь развитого вида?
 
 ent-OrganXenomorphEyes = { ent-OrganBaseEyes }
-    .desc = It turned out they had them after all!
+    .desc = Как оказалось, они всё-таки у них есть!
 
 ent-OrganXenomorphTongue = { ent-OrganBaseTongue }
-    .desc = According to leading xenobiologists the evolutionary benefit of having a second mouth in your mouth is "that it looks badass".
+    .desc = По словам ведущих ксенобиологов, эволюционное преимущество второго рта внутри первого в том, что «это офигенно выглядит».
 
 ent-OrganXenomorphStomach = { ent-OrganBaseStomach }
-    .desc = Its walls are capable of both significantly expanding and contracting with enormous force.
+    .desc = Его стенки могут как сильно растягиваться, так и сжиматься с огромной силой.
 
 ent-OrganXenomorphLiver = { ent-OrganBaseLiver }
-    .desc = A liver that used to belong to a killer alien, who knows what it used to eat.
+    .desc = Печень некогда принадлежала пришельцу-убийце. Кто знает, чем он питался.
 
 ent-OrganXenomorphKidneys = { ent-OrganBaseKidneys }
-    .desc = These could fetch a pretty penny...
+    .desc = За них можно неплохо выручить...
 
-ent-OrganXenomorphAcidGland = acid gland
-    .desc = A specialized tank with acid. The resulting corrosive mixture can melt most known materials.
+ent-OrganXenomorphAcidGland = кислотная железа
+    .desc = Специализированный резервуар с кислотой. Полученная едкая смесь может растворить большинство известных материалов.
 
-ent-OrganXenomorphNeurotoxinGland = neurotoxin gland
-    .desc = A specialized tank with neurotoxin. Consists of many microscopic tubes filled with clear liquid.
+ent-OrganXenomorphNeurotoxinGland = железа нейротоксина
+    .desc = Специализированный резервуар с нейротоксином. Состоит из множества микроскопических трубок, заполненных прозрачной жидкостью.
 
-ent-OrganXenomorphEggSack = egg sack
-    .desc = Designed to produce and store eggs containing facehuggers, the organ's enormous size allows the xenomorph queen to lay thousands of eggs in a short period of time.
+ent-OrganXenomorphEggSack = яйцевой мешок
+    .desc = Предназначен для производства и хранения яиц с лицехватами. Огромные размеры органа позволяют королеве ксеноморфов за короткое время отложить тысячи яиц.
 
-ent-OrganXenomorphResinSpinner = resin spinner
-    .desc = Designed for the production and isolation of resin-like biopolymer.
+ent-OrganXenomorphResinSpinner = железа смолы
+    .desc = Предназначена для выработки и выделения смолоподобного биополимера.
 
-ent-OrganXenomorphHiveNode = hive node
-    .desc = The central organ of the xenomorphs, providing communication with the common mind.
+ent-OrganXenomorphHiveNode = узел улья
+    .desc = Центральный орган ксеноморфов, обеспечивающий связь с разумом улья.
 
-ent-OrganXenomorphPlasmaVessel = plasma vessel
-    .desc = A reservoir containing concentrated and highly active plasma - the main source of energy and raw material for the xenomorph's biological weapons.
+ent-OrganXenomorphPlasmaVessel = плазменный сосуд
+    .desc = Резервуар с концентрированной высокоактивной плазмой - основным источником энергии и сырьём для биооружия ксеноморфа.

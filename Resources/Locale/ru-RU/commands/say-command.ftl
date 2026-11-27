@@ -1,2 +1,2 @@
-cmd-say-desc = Send chat messages to the local channel or a specified radio channel.
-cmd-say-help = Usage: say <text>
+cmd-say-desc = Отправляет сообщения в местный чат или на указанный канал рации.
+cmd-say-help = Использование: say <text>

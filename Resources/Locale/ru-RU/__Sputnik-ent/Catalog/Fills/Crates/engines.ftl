@@ -1,35 +1,35 @@
-ent-CrateEngineeringAMEShielding = packaged antimatter reactor crate
-    .desc = 9 parts for the main body of an antimatter reactor, or for expanding an existing one.
+ent-CrateEngineeringAMEShielding = ящик упаковок реактора антиматерии
+    .desc = 9 деталей для корпуса реактора антиматерии или расширения существующего.
 
-ent-CrateEngineeringAMEJar = antimatter containment jar crate
-    .desc = 3 antimatter jars, for fuelling an antimatter reactor.
+ent-CrateEngineeringAMEJar = ящик банок с антиматерией
+    .desc = 3 банки с антиматерией для заправки реактора антиматерии.
 
-ent-CrateEngineeringAMEControl = antimatter control unit crate
-    .desc = The control unit of an antimatter reactor.
+ent-CrateEngineeringAMEControl = ящик блока управления антиматерией
+    .desc = Блок управления реактором антиматерии.
 
-ent-CrateEngineeringSingularityEmitter = emitter crate
-    .desc = An emitter, best used for singularity engines.
+ent-CrateEngineeringSingularityEmitter = ящик эмиттера
+    .desc = Эмиттер, особенно полезен для двигателей на сингулярности.
 
-ent-CrateEngineeringSingularityCollector = radiation collector crate
-    .desc = A radiation collector, best used for singularity engines. Plasma is included.
+ent-CrateEngineeringSingularityCollector = ящик коллектора радиации
+    .desc = Коллектор радиации, особенно полезен для двигателей на сингулярности. Плазма в комплекте.
 
-ent-CrateEngineeringSingularityContainment = containment field generator crate
-    .desc = A containment field generator, keeps the singulo in submission.
+ent-CrateEngineeringSingularityContainment = ящик генератора поля сдерживания
+    .desc = Генератор поля сдерживания, держит сингу в узде.
 
-ent-CrateEngineeringSingularityGenerator = singularity generator crate
-    .desc = A singularity generator, the mother of the beast.
+ent-CrateEngineeringSingularityGenerator = ящик генератора сингулярности
+    .desc = Генератор сингулярности, прародитель чудовища.
 
-ent-CrateEngineeringParticleAccelerator = PA board crate
-    .desc = Complex to setup, but rewarding as fuck. Contains boards for all particle accelerator components.
+ent-CrateEngineeringParticleAccelerator = ящик плат УЧ
+    .desc = Настраивать сложно, зато, блядь, какой результат. Содержит платы для всех компонентов ускорителя частиц.
 
-ent-CrateEngineeringSolar = solar assembly crate
-    .desc = A kit with solar flatpacks and glass to construct ten solar panels.
+ent-CrateEngineeringSolar = ящик солнечной сборки
+    .desc = Набор с упаковками солнечных панелей и стеклом для сборки десяти солнечных панелей.
 
-ent-CrateEngineeringTeslaGenerator = tesla generator crate
-    .desc = A tesla generator. God save you.
+ent-CrateEngineeringTeslaGenerator = ящик генератора теслы
+    .desc = Генератор теслы. Господь да хранит вас.
 
-ent-CrateEngineeringTeslaCoil = tesla coil crate
-    .desc = Tesla coil. Attracts lightning and generates energy from it.
+ent-CrateEngineeringTeslaCoil = ящик катушки теслы
+    .desc = Катушка теслы. Притягивает молнии и вырабатывает из них энергию.
 
-ent-CrateEngineeringTeslaGroundingRod = tesla grounding rod crate
-    .desc = Grounding rod, best for lightning protection.
+ent-CrateEngineeringTeslaGroundingRod = ящик заземляющего стержня теслы
+    .desc = Заземляющий стержень, лучшее средство защиты от молний.

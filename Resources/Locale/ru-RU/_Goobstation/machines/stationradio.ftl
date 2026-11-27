@@ -1,14 +1,14 @@
-signal-port-name-vinyl-player = Vinyl player output
-signal-port-description-vinyl-player = The vinyl players music output, connect to the rig.
+signal-port-name-vinyl-player = Выход проигрывателя пластинок
+signal-port-description-vinyl-player = Выход звука с проигрывателя пластинок. Подключите к радиоустановке.
 
-signal-port-name-radio-rig = Radio rig input
-signal-port-description-radio-rig = The input of a radio rig, connect a vinyl player to this and then connect the rig to the radio server.
+signal-port-name-radio-rig = Вход радиоустановки
+signal-port-description-radio-rig = Вход радиоустановки. Подключите сюда проигрыватель пластинок, а радиоустановку подсоедините к радиосерверу.
 
-signal-port-name-radio-server = Server input
-signal-port-description-radio-server = The input of the radio server, connect a radio rig to this to play music around the station!
+signal-port-name-radio-server = Вход сервера
+signal-port-description-radio-server = Вход радиосервера. Подключите сюда радиоустановку, чтобы проигрывать музыку по всей станции!
 
-vinyl-popout-no-station = The vinyl ejects itself, you're not on a station!
-vinyl-popout-no-power = The vinyl ejects itself, the player isn't powered!
-vinyl-popout-no-radio-connection = The vinyl ejects itself, the player isn't connected to the radio system!
+vinyl-popout-no-station = Пластинка выскакивает сама собой, вы за пределами станции!
+vinyl-popout-no-power = Пластинка выскакивает сама собой, проигрыватель обесточен!
+vinyl-popout-no-radio-connection = Пластинка выскакивает сама собой, проигрыватель не подключён к радиосистеме!
 
-item-slot-name-vinyl = vinyl
+item-slot-name-vinyl = пластинка

@@ -7,97 +7,97 @@ ent-BaseLightbulb = { ent-BaseReplacementLight }
 ent-BaseLightTube = { ent-BaseReplacementLight }
     .desc = { ent-BaseReplacementLight.desc }
 
-ent-LightBulb = incandescent light bulb
-    .desc = A light bulb.
+ent-LightBulb = лампа накаливания
+    .desc = Лампочка.
 
-ent-LedLightBulb = led light bulb
-    .desc = A power efficient light bulb.
+ent-LedLightBulb = светодиодная лампочка
+    .desc = Энергоэффективная лампочка.
 
-ent-DimLightBulb = dim light bulb
-    .desc = A dim light bulb for populating the darkness of maintenance.
+ent-DimLightBulb = тусклая лампочка
+    .desc = Тусклая лампочка, чтобы оживить мрак техтоннелей.
 
-ent-WarmLightBulb = warm light bulb
-    .desc = A warm light bulb for a more cozy atmosphere.
+ent-WarmLightBulb = лампочка тёплого света
+    .desc = Лампочка тёплого света для более уютной атмосферы.
 
-ent-LightBulbOld = old incandescent light bulb
-    .desc = An aging light bulb.
+ent-LightBulbOld = старая лампа накаливания
+    .desc = Лампочка, которая уже отслужила своё.
 
-ent-LightBulbBroken = incandescent light bulb
-    .desc = A broken light bulb.
-    .suffix = Broken
+ent-LightBulbBroken = лампа накаливания
+    .desc = Разбитая лампочка.
+    .suffix = Сломано
 
-ent-ServiceLightBulb = service light bulb
-    .desc = A low-brightness green lightbulb used in janitorial service lights.
+ent-ServiceLightBulb = уборочная лампочка
+    .desc = Тусклая зелёная лампочка для светильников уборщиков.
 
-ent-LightTube = fluorescent light tube
-    .desc = A light fixture.
+ent-LightTube = люминесцентная лампа
+    .desc = Осветительная лампа.
 
-ent-LightTubeOld = old fluorescent light tube
-    .desc = An aging light fixture.
+ent-LightTubeOld = старая люминесцентная лампа
+    .desc = Лампа, которая уже отслужила своё.
 
-ent-LightTubeBroken = fluorescent light tube
-    .desc = A broken light fixture.
-    .suffix = Broken
+ent-LightTubeBroken = люминесцентная лампа
+    .desc = Разбитая осветительная лампа.
+    .suffix = Сломано
 
-ent-LedLightTube = led light tube
-    .desc = A high power high energy bulb.
+ent-LedLightTube = светодиодная трубчатая лампа
+    .desc = Мощная лампа с высоким энергопотреблением.
 
-ent-ExteriorLightTube = exterior light tube
-    .desc = A high power high energy bulb for the depths of space. May contain mercury.
+ent-ExteriorLightTube = лампа внешнего освещения
+    .desc = Мощная лампа с высоким энергопотреблением для глубин космоса. Может содержать ртуть.
 
-ent-SodiumLightTube = sodium light tube
-    .desc = A high power high energy bulb for the depths of space. Salty.
+ent-SodiumLightTube = натриевая лампа
+    .desc = Мощная лампа с высоким энергопотреблением для глубин космоса. Солёная.
 
-ent-BaseLightTubeCrystal = crystal light tube
-    .desc = A high power high energy bulb which has a small colored crystal inside.
+ent-BaseLightTubeCrystal = кристаллическая трубчатая лампа
+    .desc = Мощная лампа с высоким энергопотреблением и небольшим цветным кристаллом внутри.
 
-ent-LightTubeCrystalCyan = cyan crystal light tube
+ent-LightTubeCrystalCyan = бирюзовая кристаллическая трубчатая лампа
     .desc = { ent-BaseLightTubeCrystal.desc }
 
-ent-LightTubeCrystalBlue = blue crystal light tube
+ent-LightTubeCrystalBlue = синяя кристаллическая трубчатая лампа
     .desc = { ent-BaseLightTubeCrystal.desc }
 
-ent-LightTubeCrystalYellow = yellow crystal light tube
+ent-LightTubeCrystalYellow = жёлтая кристаллическая трубчатая лампа
     .desc = { ent-BaseLightTubeCrystal.desc }
 
-ent-LightTubeCrystalPink = pink crystal light tube
+ent-LightTubeCrystalPink = розовая кристаллическая трубчатая лампа
     .desc = { ent-BaseLightTubeCrystal.desc }
 
-ent-LightTubeCrystalOrange = orange crystal light tube
+ent-LightTubeCrystalOrange = оранжевая кристаллическая трубчатая лампа
     .desc = { ent-BaseLightTubeCrystal.desc }
 
-ent-LightTubeCrystalBlack = black crystal light tube
-    .desc = A high power high energy bulb which has a small colored crystal inside. It isn't very bright.
+ent-LightTubeCrystalBlack = чёрная кристаллическая трубчатая лампа
+    .desc = Мощная лампа с высоким энергопотреблением и небольшим цветным кристаллом внутри. Светит не очень ярко.
 
-ent-LightTubeCrystalRed = red crystal light tube
+ent-LightTubeCrystalRed = красная кристаллическая трубчатая лампа
     .desc = { ent-BaseLightTubeCrystal.desc }
 
-ent-LightTubeCrystalGreen = green crystal light tube
+ent-LightTubeCrystalGreen = зелёная кристаллическая трубчатая лампа
     .desc = { ent-LightTubeCrystalCyan.desc }
 
-ent-BaseLightbulbCrystal = crystal light bulb
-    .desc = A high power high energy bulb which has a small colored crystal inside.
+ent-BaseLightbulbCrystal = кристаллическая лампочка
+    .desc = Мощная лампа с высоким энергопотреблением и небольшим цветным кристаллом внутри.
 
-ent-LightBulbCrystalCyan = cyan crystal light bulb
+ent-LightBulbCrystalCyan = бирюзовая кристаллическая лампочка
     .desc = { ent-BaseLightbulbCrystal.desc }
 
-ent-LightBulbCrystalBlue = blue crystal light bulb
+ent-LightBulbCrystalBlue = синяя кристаллическая лампочка
     .desc = { ent-BaseLightbulbCrystal.desc }
 
-ent-LightBulbCrystalYellow = yellow crystal light bulb
+ent-LightBulbCrystalYellow = жёлтая кристаллическая лампочка
     .desc = { ent-BaseLightbulbCrystal.desc }
 
-ent-LightBulbCrystalPink = pink crystal light bulb
+ent-LightBulbCrystalPink = розовая кристаллическая лампочка
     .desc = { ent-BaseLightbulbCrystal.desc }
 
-ent-LightBulbCrystalOrange = orange crystal light bulb
+ent-LightBulbCrystalOrange = оранжевая кристаллическая лампочка
     .desc = { ent-BaseLightbulbCrystal.desc }
 
-ent-LightBulbCrystalBlack = black crystal light bulb
-    .desc = A high power high energy bulb which has a small colored crystal inside. It isn't very bright.
+ent-LightBulbCrystalBlack = чёрная кристаллическая лампочка
+    .desc = Мощная лампа с высоким энергопотреблением и небольшим цветным кристаллом внутри. Светит не очень ярко.
 
-ent-LightBulbCrystalRed = red crystal light bulb
+ent-LightBulbCrystalRed = красная кристаллическая лампочка
     .desc = { ent-BaseLightbulbCrystal.desc }
 
-ent-LightBulbCrystalGreen = green crystal light bulb
+ent-LightBulbCrystalGreen = зелёная кристаллическая лампочка
     .desc = { ent-BaseLightbulbCrystal.desc }

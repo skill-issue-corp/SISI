@@ -1,9 +1,9 @@
-ent-UraniumWindow = uranium window
+ent-UraniumWindow = урановое окно
     .desc = { ent-BaseDeltaPressurePlasma.desc }
 
-ent-UraniumWindowDirectional = directional uranium window
+ent-UraniumWindowDirectional = направленное урановое окно
     .desc = { ent-BaseDeltaPressurePlasmaQuarter.desc }
 
 ent-UraniumWindowDiagonal = { ent-UraniumWindow }
     .desc = { ent-UraniumWindow.desc }
-    .suffix = diagonal
+    .suffix = по диагонали

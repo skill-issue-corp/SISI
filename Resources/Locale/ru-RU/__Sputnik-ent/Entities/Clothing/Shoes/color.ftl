@@ -1,26 +1,26 @@
-ent-ClothingShoesColorBlack = black shoes
-    .desc = Stylish black shoes.
+ent-ClothingShoesColorBlack = чёрные туфли
+    .desc = Стильные чёрные туфли.
 
-ent-ClothingShoesColorWhite = white shoes
-    .desc = Don't take them off at your office Christmas party.
+ent-ClothingShoesColorWhite = белые туфли
+    .desc = Не снимайте их на Рождественском корпоративе.
 
-ent-ClothingShoesColorBlue = blue shoes
-    .desc = Stylish blue shoes.
+ent-ClothingShoesColorBlue = синие туфли
+    .desc = Стильные синие туфли.
 
-ent-ClothingShoesColorBrown = brown shoes
-    .desc = A pair of brown shoes.
+ent-ClothingShoesColorBrown = коричневые туфли
+    .desc = Пара коричневых туфель.
 
-ent-ClothingShoesColorGreen = green shoes
-    .desc = Stylish green shoes.
+ent-ClothingShoesColorGreen = зелёные туфли
+    .desc = Стильные зелёные туфли.
 
-ent-ClothingShoesColorOrange = orange shoes
-    .desc = Stylish orange shoes.
+ent-ClothingShoesColorOrange = оранжевые туфли
+    .desc = Стильные оранжевые туфли.
 
-ent-ClothingShoesColorRed = red shoes
-    .desc = Stylish red shoes.
+ent-ClothingShoesColorRed = красные туфли
+    .desc = Стильные красные туфли.
 
-ent-ClothingShoesColorYellow = yellow shoes
-    .desc = Stylish yellow shoes.
+ent-ClothingShoesColorYellow = жёлтые туфли
+    .desc = Стильные жёлтые туфли.
 
-ent-ClothingShoesColorPurple = purple shoes
-    .desc = Stylish purple shoes.
+ent-ClothingShoesColorPurple = фиолетовые туфли
+    .desc = Стильные фиолетовые туфли.

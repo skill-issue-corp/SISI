@@ -1,2 +1,2 @@
-ent-MagicalLamp = magical lamp
-    .desc = The wizard federation had to cut costs after the jinn merchandise scandal somehow.
+ent-MagicalLamp = волшебная лампа
+    .desc = После скандала с товарами для поклонников джиннов федерации волшебников пришлось на чём-то сэкономить.

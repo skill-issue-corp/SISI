@@ -1,14 +1,14 @@
-ent-ActionHereticVoidPhase = Void Phase
-    .desc = Lets you blink to your pointed destination, causes 3x3 aoe damage bubble around your pointed destination and your current location.
+ent-ActionHereticVoidPhase = Фаза Пустоты
+    .desc = Позволяет мгновенно переместиться в указанную точку, нанося урон в областях 3x3 вокруг выбранного места и вашего исходного положения.
 
-ent-ActionHereticVoidPrison = Void Prison
-    .desc = Sends a heathen into the void for 10 seconds. They will be unable to perform any actions for the duration. Afterwards, they will be chilled and returned to the mortal plane.
+ent-ActionHereticVoidPrison = Темница Пустоты
+    .desc = Отправляет неверного в пустоту на 10 секунд. Всё это время он не сможет действовать. Затем он замёрзнет и вернётся в мир смертных.
 
-ent-ActionHereticVoidPull = Void Pull
-    .desc = Calls the void, damaging, knocking down, pulling people closer, and stunning people nearby.
+ent-ActionHereticVoidPull = Притяжение Пустоты
+    .desc = Призывает пустоту, которая наносит урон, сбивает с ног, притягивает и оглушает людей поблизости.
 
-ent-ActionHereticVoidConduitAscension = Void Conduit
-    .desc = Opens a gate to the Void; it releases an intermittent pulse that damages windows and airlocks, while afflicting Heathens with void chill. Affected Heretics instead receive low pressure resistance.
+ent-ActionHereticVoidConduitAscension = Проводник Пустоты
+    .desc = Открывает врата в Пустоту. Врата периодически испускают импульсы, которые повреждают окна и шлюзы и поражают Неверных холодом пустоты. Еретикам импульсы дают устойчивость к низкому давлению.
 
 ent-ActionHereticVoidConduit = { ent-ActionHereticVoidConduitAscension }
-    .desc = Opens a gate to the Void; it releases an intermittent pulse that damages windows and airlocks, while afflicting Heathens with void chill. Affected Heretics instead receive low pressure resistance. Has 1 charge that can be replenished by breaking (using) your blade in hand.
+    .desc = Открывает врата в Пустоту. Врата периодически испускают импульсы, которые повреждают окна и шлюзы и поражают Неверных холодом пустоты. Еретикам импульсы дают устойчивость к низкому давлению. Имеет 1 заряд, который можно восстановить, сломав клинок (активировав его в руке).

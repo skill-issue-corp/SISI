@@ -1,47 +1,47 @@
-ent-ResearchDisk = research point disk (1000)
-    .desc = A disk for the R&D server containing 1000 points.
+ent-ResearchDisk = диск очков исследований (1000)
+    .desc = Диск для сервера НиО с 1000 очков.
 
-ent-ResearchDisk5000 = research point disk (5000)
-    .desc = A disk for the R&D server containing 5000 points.
+ent-ResearchDisk5000 = диск очков исследований (5000)
+    .desc = Диск для сервера НиО с 5000 очков.
 
-ent-ResearchDisk10000 = research point disk (10000)
-    .desc = A disk for the R&D server containing 10000 points.
+ent-ResearchDisk10000 = диск очков исследований (10000)
+    .desc = Диск для сервера НиО с 10000 очков.
 
-ent-ResearchDiskDebug = research point disk
-    .desc = A disk for the R&D server containing all the points you could ever need.
-    .suffix = DEBUG, DO NOT MAP
+ent-ResearchDiskDebug = диск очков исследований
+    .desc = Диск для сервера НиО, на котором очков хватит на всё.
+    .suffix = DEBUG, НЕ МАППИТЬ
 
-ent-TechnologyDisk = technology disk
+ent-TechnologyDisk = диск технологии
     .desc = { ent-BaseItem.desc }
 
 ent-TechnologyDiskT1 = { ent-TechnologyDisk }
     .desc = { ent-TechnologyDisk.desc }
-    .suffix = Tier 1
+    .suffix = Уровень 1
 
 ent-TechnologyDiskT2 = { ent-TechnologyDisk }
     .desc = { ent-TechnologyDisk.desc }
-    .suffix = Tier 2
+    .suffix = Уровень 2
 
 ent-TechnologyDiskT3 = { ent-TechnologyDisk }
     .desc = { ent-TechnologyDisk.desc }
-    .suffix = Tier 3
+    .suffix = Уровень 3
 
 ent-TechnologyDiskIndustrial = { ent-TechnologyDisk }
     .desc = { ent-TechnologyDisk.desc }
-    .suffix = Industrial
+    .suffix = Промышленность
 
 ent-TechnologyDiskArsenal = { ent-TechnologyDisk }
     .desc = { ent-TechnologyDisk.desc }
-    .suffix = Arsenal
+    .suffix = Арсенал
 
 ent-TechnologyDiskExperimental = { ent-TechnologyDisk }
     .desc = { ent-TechnologyDisk.desc }
-    .suffix = Experimental
+    .suffix = Экспериментальные
 
 ent-TechnologyDiskCivilianServices = { ent-TechnologyDisk }
     .desc = { ent-TechnologyDisk.desc }
-    .suffix = Civilian Services
+    .suffix = Гражданские Услуги
 
 ent-TechnologyDiskRare = { ent-TechnologyDisk }
     .desc = { ent-TechnologyDisk.desc }
-    .suffix = rare.
+    .suffix = редкость.

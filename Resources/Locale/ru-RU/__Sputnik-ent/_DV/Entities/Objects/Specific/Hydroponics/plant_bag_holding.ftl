@@ -1,2 +1,2 @@
-ent-PlantBagOfHolding = plant bag of holding
-    .desc = A robust bag of holding for fruitful botanists with more plants than pockets.
+ent-PlantBagOfHolding = бездонная сумка для растений
+    .desc = Надёжная бездонная сумка для плодовитых ботаников, у которых растений больше, чем карманов.

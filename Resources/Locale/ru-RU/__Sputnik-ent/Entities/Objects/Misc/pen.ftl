@@ -1,26 +1,26 @@
-ent-Pen = pen
-    .desc = A dark ink pen.
+ent-Pen = ручка
+    .desc = Ручка с тёмными чернилами.
 
 ent-PenEmbeddable = { ent-Pen }
     .desc = { ent-Pen.desc }
 
-ent-LuxuryPen = luxury pen
-    .desc = A fancy and expensive pen that you only deserve to own if you're qualified to handle vast amounts of paperwork.
+ent-LuxuryPen = роскошная ручка
+    .desc = Изысканная дорогая ручка, достойная лишь тех, кому доверяют горы бумаг.
 
 ent-BaseAdvancedPen = { ent-PenEmbeddable }
     .desc = { ent-PenEmbeddable.desc }
 
-ent-CyberPen = Cybersun pen
-    .desc = A high-tech pen straight from Cybersun's legal department, capable of refracting hard-light at impossible angles through its diamond tip in order to write. So powerful, it's even able to rewrite officially stamped documents should the need arise.
+ent-CyberPen = ручка Киберсана
+    .desc = Высокотехнологичная ручка из юридического отдела Киберсана. Пишет твёрдым светом, преломляя его под невозможными углами через алмазный наконечник. При необходимости способна переписать даже официально заверенные документы.
 
-ent-PenCentcom = CentComm pen
-    .desc = In an attempt to keep up with the "power" of the cybersun bureaucracy, NT made a replica of cyber pen, in their corporate style.
+ent-PenCentcom = ручка ЦК
+    .desc = Пытаясь угнаться за «могуществом» бюрократии киберсана, NT изготовила копию киберручки в собственном фирменном стиле.
 
-ent-PenCap = captain's fountain pen
-    .desc = A luxurious fountain pen for the captain of the station.
+ent-PenCap = перьевая ручка капитана
+    .desc = Роскошная перьевая ручка для капитана станции.
 
-ent-PenHop = HoP's fountain pen
-    .desc = A luxurious fountain pen for the HoP of the station.
+ent-PenHop = перьевая ручка ГП
+    .desc = Роскошная перьевая ручка для ГП станции.
 
-ent-PenWiz = wizard's magical pen
-    .desc = A luxurious fountain pen. Seems to have a magical crystal eraser.
+ent-PenWiz = ручка волшебника
+    .desc = Роскошная перьевая ручка. Похоже, у неё есть волшебный кристаллический ластик.

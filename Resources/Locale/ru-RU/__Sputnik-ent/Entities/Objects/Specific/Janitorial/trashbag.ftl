@@ -1,8 +1,8 @@
-ent-TrashBag = trash bag
+ent-TrashBag = мусорный мешок
     .desc = { ent-BaseStorageItem.desc }
 
-ent-TrashBagHolding = trash bag of holding
-    .desc = A trash bag that opens into a localized pocket of bluespace.
+ent-TrashBagHolding = бездонный мусорный мешок
+    .desc = Мусорный мешок, открывающийся в небольшой карман блюспейса.
 
-ent-BorgTrashBag = internal trash bag
-    .desc = An upgraded trash bag with a larger internal volume, installed directly into a custodial cyborg.
+ent-BorgTrashBag = встроенный мусорный мешок
+    .desc = Улучшенный мусорный мешок увеличенного объёма, встроенный прямо в киборга-уборщика.

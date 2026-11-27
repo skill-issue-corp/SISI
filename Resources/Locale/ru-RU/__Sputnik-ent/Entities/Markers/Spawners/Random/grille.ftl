@@ -1,2 +1,2 @@
-ent-GrilleSpawner = Random Grille Spawner
+ent-GrilleSpawner = Спавнер Случайной Решётки
     .desc = { ent-MarkerBase.desc }

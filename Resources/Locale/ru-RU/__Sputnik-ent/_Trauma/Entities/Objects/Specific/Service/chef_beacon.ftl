@@ -1,2 +1,2 @@
-ent-IngredientsBeacon = ingredients beacon
-    .desc = Summon ingredients to help you get started cooking
+ent-IngredientsBeacon = маяк ингредиентов
+    .desc = Вызовите ингредиенты, чтобы взяться за готовку

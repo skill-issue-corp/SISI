@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-callshuttle-desc = Calls the emergency shuttle with an optionally provided arrival time.
-cmd-callshuttle-help = Usage: callshuttle [m:ss]
-cmd-recallshuttle-desc = Recalls the emergency shuttle.
-cmd-recallshuttle-help = Usage: recallshuttle
+cmd-callshuttle-desc = Вызывает эвакуационный шаттл. Можно указать время прибытия.
+cmd-callshuttle-help = Использование: callshuttle [m:ss]
+cmd-recallshuttle-desc = Отзывает эвакуационный шаттл.
+cmd-recallshuttle-help = Использование: recallshuttle

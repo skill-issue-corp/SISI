@@ -4,10 +4,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-fulton-folded = Beacon needs unfolding
-fulton-examine = {$time} seconds until extraction
-fulton-linked = Linked beacon
-fulton-not-found = No beacon found
-fulton-invalid = Can't fulton
-fulton-fultoned = Already fultoned
-fulton-remove = Remove fulton
+fulton-folded = Разложите маяк
+fulton-examine = До извлечения: {$time} сек.
+fulton-linked = Маяк привязан
+fulton-not-found = Маяк не найден
+fulton-invalid = Нельзя прикрепить фултон
+fulton-fultoned = Фултон уже прикреплён
+fulton-remove = Снять фултон

@@ -1,5 +1,5 @@
-chat-emote-name-blush = Blush
-chat-emote-name-tongue = Stick Tongue Out
+chat-emote-name-blush = Краснеть
+chat-emote-name-tongue = Показать Язык
 
-chat-emote-msg-blush = blushes.
-chat-emote-msg-tongue = sticks {POSS-ADJ($entity)} tongue out.
+chat-emote-msg-blush = краснеет.
+chat-emote-msg-tongue = показывает {POSS-ADJ($entity)} язык.

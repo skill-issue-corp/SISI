@@ -1,9 +1,9 @@
-roles-antag-heretic-name = Heretic
-roles-antag-heretic-description = Find influences, realize they've all been taken. Sacrifice people and become all powerful or die trying.
-roles-antag-hereticmidround-name = Heretic Midround
+roles-antag-heretic-name = Еретик
+roles-antag-heretic-description = Найдите влияния и поймите, что их уже все собрали. Приносите людей в жертву, чтобы обрести безграничную силу, или погибните в попытке.
+roles-antag-hereticmidround-name = Еретик Мидраунда
 
-roles-antag-ghoul-name = Ghoul
-roles-antag-ghoul-description = Aid your master in achieving ascension.
+roles-antag-ghoul-name = Гуль
+roles-antag-ghoul-description = Помогите своему хозяину достичь вознесения.
 
-roles-antag-arena-participant-name = Arena Participant
-roles-antag-arena-participant-description = You have been trapped in an arena. The only way out is to slaughter someone else. Kill your captor, or betray your friends - the choice is yours.
+roles-antag-arena-participant-name = Участник Арены
+roles-antag-arena-participant-description = Вас заперли на арене. Единственный выход — убить кого-то другого. Расправиться с тем, кто вас пленил, или предать друзей — выбор за вами.

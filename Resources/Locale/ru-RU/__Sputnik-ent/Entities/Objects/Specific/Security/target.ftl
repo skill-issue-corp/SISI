@@ -4,14 +4,14 @@ ent-BaseTargetIndestructible = { ent-BaseStructureDynamic }
 ent-BaseTarget = { ent-BaseTargetIndestructible }
     .desc = { ent-BaseTargetIndestructible.desc }
 
-ent-TargetHuman = human target
-    .desc = A shooting target. This one is a human.
+ent-TargetHuman = мишень-человек
+    .desc = Мишень для стрельбы. Изображает человека.
 
-ent-TargetSyndicate = syndicate target
-    .desc = A shooting target. This one is a syndicate agent.
+ent-TargetSyndicate = мишень-синдикатовец
+    .desc = Мишень для стрельбы. Изображает агента синдиката.
 
-ent-TargetClown = clown target
-    .desc = A shooting target. This one is a clown.
+ent-TargetClown = мишень-клоун
+    .desc = Мишень для стрельбы. Изображает клоуна.
 
-ent-TargetStrange = strange target
-    .desc = A shooting target. You aren't quite sure what this one is, but it seems to be extra robust.
+ent-TargetStrange = странная мишень
+    .desc = Мишень для стрельбы. Неясно, кого она изображает, но выглядит особенно робастной.

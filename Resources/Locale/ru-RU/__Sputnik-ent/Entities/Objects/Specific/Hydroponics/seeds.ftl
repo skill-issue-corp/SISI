@@ -1,216 +1,216 @@
 ent-SeedBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-WheatSeeds = packet of wheat seeds
+ent-WheatSeeds = пакет семян пшеницы
     .desc = { ent-SeedBase.desc }
 
-ent-MeatwheatSeeds = packet of meatwheat seeds
-    .desc = If you ever wanted to drive a vegetarian to insanity, here's how.
+ent-MeatwheatSeeds = пакет семян мясной пшеницы
+    .desc = Если вы когда-нибудь хотели довести вегетарианца до безумия, вот вам способ.
 
-ent-OatSeeds = packet of oat seeds
+ent-OatSeeds = пакет семян овса
     .desc = { ent-SeedBase.desc }
 
-ent-BananaSeeds = packet of banana seeds
+ent-BananaSeeds = пакет семян банана
     .desc = { ent-SeedBase.desc }
 
-ent-MimanaSeeds = packet of mimana seeds
+ent-MimanaSeeds = пакет семян миманы
     .desc = { ent-SeedBase.desc }
 
-ent-CarrotSeeds = packet of carrot seeds
+ent-CarrotSeeds = пакет семян моркови
     .desc = { ent-SeedBase.desc }
 
-ent-CabbageSeeds = packet of cabbage seeds
+ent-CabbageSeeds = пакет семян капусты
     .desc = { ent-SeedBase.desc }
 
-ent-GarlicSeeds = packet of garlic seeds
+ent-GarlicSeeds = пакет семян чеснока
     .desc = { ent-SeedBase.desc }
 
-ent-LaughinPeaSeeds = packet of laughin' pea pods
-    .desc = These seeds give off a very soft purple glow.. they should grow into Laughin' Peas.
+ent-LaughinPeaSeeds = пакет стручков смешливого гороха
+    .desc = Эти семена едва заметно светятся фиолетовым.. Из них должен вырасти Смешливый Горох.
 
-ent-LemonSeeds = packet of lemon seeds
+ent-LemonSeeds = пакет семян лимона
     .desc = { ent-SeedBase.desc }
 
-ent-LemoonSeeds = packet of lemoon seeds
+ent-LemoonSeeds = пакет семян лунолимона
     .desc = { ent-SeedBase.desc }
 
-ent-LimeSeeds = packet of lime seeds
+ent-LimeSeeds = пакет семян лайма
     .desc = { ent-SeedBase.desc }
 
-ent-OrangeSeeds = packet of orange seeds
+ent-OrangeSeeds = пакет семян апельсина
     .desc = { ent-SeedBase.desc }
 
-ent-ExtradimensionalOrangeSeeds = packet of extradimensional orange seeds
-    .desc = Polygonal seeds.
+ent-ExtradimensionalOrangeSeeds = пакет семян внепространственного апельсина
+    .desc = Многогранные семена.
 
-ent-PineappleSeeds = packet of pineapple seeds
+ent-PineappleSeeds = пакет семян ананаса
     .desc = { ent-SeedBase.desc }
 
-ent-PotatoSeeds = packet of potato seeds
+ent-PotatoSeeds = пакет семян картофеля
     .desc = { ent-SeedBase.desc }
 
-ent-SugarcaneSeeds = packet of sugarcane seeds
+ent-SugarcaneSeeds = пакет семян сахарного тростника
     .desc = { ent-SeedBase.desc }
 
-ent-TeaPlantSeeds = packet of tea plant seeds
+ent-TeaPlantSeeds = пакет семян чайного куста
     .desc = { ent-SeedBase.desc }
 
-ent-PapercaneSeeds = packet of papercane seeds
+ent-PapercaneSeeds = пакет семян бумажного тростника
     .desc = { ent-SeedBase.desc }
 
-ent-TowercapSeeds = packet of tower cap spores
+ent-TowercapSeeds = пакет спор башнегриба
     .desc = { ent-SeedBase.desc }
 
-ent-SteelcapSeeds = packet of steel cap spores
+ent-SteelcapSeeds = пакет спор сталегриба
     .desc = { ent-SeedBase.desc }
 
-ent-TomatoSeeds = packet of tomato seeds
+ent-TomatoSeeds = пакет семян томатов
     .desc = { ent-SeedBase.desc }
 
-ent-BlueTomatoSeeds = packet of blue tomato seeds
+ent-BlueTomatoSeeds = пакет семян синих томатов
     .desc = { ent-SeedBase.desc }
 
-ent-BloodTomatoSeeds = packet of blood tomato seeds
+ent-BloodTomatoSeeds = пакет семян кровавых томатов
     .desc = { ent-SeedBase.desc }
 
-ent-KillerTomatoSeeds = packet of killer tomato seeds
+ent-KillerTomatoSeeds = пакет семян томатов-убийц
     .desc = { ent-SeedBase.desc }
 
-ent-EggplantSeeds = packet of eggplant seeds
+ent-EggplantSeeds = пакет семян баклажана
     .desc = { ent-SeedBase.desc }
 
-ent-AppleSeeds = packet of apple seeds
+ent-AppleSeeds = пакет семян яблони
     .desc = { ent-SeedBase.desc }
 
-ent-GoldenAppleSeeds = packet of golden apple seeds
+ent-GoldenAppleSeeds = пакет семян золотой яблони
     .desc = { ent-SeedBase.desc }
 
-ent-CornSeeds = packet of corn seeds
+ent-CornSeeds = пакет семян кукурузы
     .desc = { ent-SeedBase.desc }
 
-ent-ChanterelleSeeds = packet of chanterelle spores
+ent-ChanterelleSeeds = пакет спор лисичек
     .desc = { ent-SeedBase.desc }
 
-ent-EggySeeds = packet of egg-plant seeds
+ent-EggySeeds = пакет семян яйцекуста
     .desc = { ent-SeedBase.desc }
 
-ent-TobaccoSeeds = packet of tobacco seeds
-    .desc = These seeds grow into tobacco plants.
+ent-TobaccoSeeds = пакет семян табака
+    .desc = Из этих семян вырастет табак.
 
-ent-CannabisSeeds = packet of cannabis seeds
-    .desc = Taxable.
+ent-CannabisSeeds = пакет семян конопли
+    .desc = Облагается налогом.
 
-ent-RainbowCannabisSeeds = packet of rainbow cannabis seeds
-    .desc = These seeds grow into rainbow weed. Groovy... and also highly addictive.
+ent-RainbowCannabisSeeds = пакет семян радужной конопли
+    .desc = Из этих семян вырастет радужная травка. Кайф... а ещё вызывает сильное привыкание.
 
-ent-NettleSeeds = packet of nettle seeds
-    .desc = Handle with gloves.
+ent-NettleSeeds = пакет семян крапивы
+    .desc = Берите только в перчатках.
 
-ent-DeathNettleSeeds = packet of death nettle seeds
-    .desc = Handle with very thick gloves.
+ent-DeathNettleSeeds = пакет семян смертоносной крапивы
+    .desc = Берите только в очень толстых перчатках.
 
-ent-ChiliSeeds = packet of chili seeds
-    .desc = Spicy.
+ent-ChiliSeeds = пакет семян перца чили
+    .desc = Острый.
 
-ent-ChillySeeds = packet of chilly seeds
-    .desc = Frostburn.
+ent-ChillySeeds = пакет семян морозного перца
+    .desc = Морозный ожог.
 
-ent-AloeSeeds = packet of aloe seeds
-    .desc = Soothing.
+ent-AloeSeeds = пакет семян алоэ
+    .desc = Успокаивает.
 
-ent-PoppySeeds = packet of poppy seeds
-    .desc = Do not eat within 72 hours of a drug test.
+ent-PoppySeeds = пакет семян мака
+    .desc = Не употребляйте в пищу за 72 часа до теста на наркотики.
 
-ent-LilySeeds = packet of lily seeds
-    .desc = These seeds grow into lilies.
+ent-LilySeeds = пакет семян лилии
+    .desc = Из этих семян вырастут лилии.
 
-ent-LingzhiSeeds = packet of lingzhi spores
-    .desc = Also known as reishi.
+ent-LingzhiSeeds = пакет спор линчжи
+    .desc = Также известен как рейши.
 
-ent-AmbrosiaVulgarisSeeds = packet of ambrosia vulgaris seeds
-    .desc = A medicinal plant for the common folk.
+ent-AmbrosiaVulgarisSeeds = пакет семян амброзии вульгарис
+    .desc = Лекарственное растение для простого люда.
 
-ent-AmbrosiaDeusSeeds = packet of ambrosia deus seeds
-    .desc = A medicinal plant for the gods themselves.
+ent-AmbrosiaDeusSeeds = пакет семян амброзии деус
+    .desc = Лекарственное растение для самих богов.
 
-ent-GalaxythistleSeeds = packet of galaxythistle seeds
-    .desc = Brushes of starry nights.
+ent-GalaxythistleSeeds = пакет семян галактического чертополоха
+    .desc = Кисточки звёздных ночей.
 
-ent-GlasstleSeeds = packet of glasstle seeds
-    .desc = Scars of gloomy nights.
+ent-GlasstleSeeds = пакет семян стеклянного чертополоха
+    .desc = Шрамы хмурых ночей.
 
-ent-FlyAmanitaSeeds = packet of fly amanita spores
-    .desc = The iconic, extremely deadly mushroom to be used for purely ornamental purposes.
+ent-FlyAmanitaSeeds = пакет спор мухомора
+    .desc = Всем знакомый, крайне ядовитый гриб. Только для украшения.
 
-ent-GatfruitSeeds = packet of gatfruit seeds
-    .desc = These are no peashooters.
+ent-GatfruitSeeds = пакет семян пушкоплода
+    .desc = Это вам не горохострелы.
 
-ent-OnionSeeds = packet of onion seeds
-    .desc = Not a shallot.
+ent-OnionSeeds = пакет семян лука
+    .desc = Не шалот.
 
-ent-RiceSeeds = packet of rice seeds
+ent-RiceSeeds = пакет семян риса
     .desc = { ent-SeedBase.desc }
 
-ent-SoybeanSeeds = packet of soybean seeds
+ent-SoybeanSeeds = пакет семян сои
     .desc = { ent-SeedBase.desc }
 
-ent-SpacemansTrumpetSeeds = packet of spaceman's trumpet seeds
+ent-SpacemansTrumpetSeeds = пакет семян трубы космонавта
     .desc = { ent-SeedBase.desc }
 
-ent-KoibeanSeeds = packet of koibean seeds
+ent-KoibeanSeeds = пакет семян кои-бобов
     .desc = { ent-SeedBase.desc }
 
-ent-OnionRedSeeds = packet of red onion seeds
-    .desc = Purple despite the name.
+ent-OnionRedSeeds = пакет семян красного лука
+    .desc = Фиолетовый, несмотря на название.
 
-ent-WatermelonSeeds = packet of watermelon seeds
+ent-WatermelonSeeds = пакет семян арбуза
     .desc = { ent-SeedBase.desc }
 
-ent-HolymelonSeeds = packet of holymelon seeds
+ent-HolymelonSeeds = пакет семян священного арбуза
     .desc = { ent-SeedBase.desc }
 
-ent-GrapeSeeds = packet of grape seeds
+ent-GrapeSeeds = пакет семян винограда
     .desc = { ent-SeedBase.desc }
 
-ent-CocoaSeeds = packet of cocoa seeds
+ent-CocoaSeeds = пакет семян какао
     .desc = { ent-SeedBase.desc }
 
-ent-BerrySeeds = packet of berry seeds
+ent-BerrySeeds = пакет семян ягод
     .desc = { ent-SeedBase.desc }
 
-ent-BungoSeeds = packet of bungo seeds
-    .desc = Don't eat the pits.
+ent-BungoSeeds = пакет семян бунго
+    .desc = Косточки не ешьте.
 
-ent-PeaSeeds = packet of pea pods
-    .desc = These humble plants were once a vital part in the study of genetics.
+ent-PeaSeeds = пакет стручков гороха
+    .desc = Когда-то эти скромные растения сыграли важную роль в изучении генетики.
 
-ent-WorldPeaSeeds = packet of world pea seeds
-    .desc = These rather large seeds give off a soothing blue glow.
+ent-WorldPeaSeeds = пакет семян всемирного гороха
+    .desc = Эти довольно крупные семена светятся успокаивающим синим светом.
 
-ent-PumpkinSeeds = packet of pumpkin seeds
+ent-PumpkinSeeds = пакет семян тыквы
     .desc = { ent-SeedBase.desc }
 
-ent-BluePumpkinSeeds = packet of blue pumpkin seeds
+ent-BluePumpkinSeeds = пакет семян синей тыквы
     .desc = { ent-SeedBase.desc }
 
-ent-CottonSeeds = packet of cotton seeds
+ent-CottonSeeds = пакет семян хлопчатника
     .desc = { ent-SeedBase.desc }
 
-ent-PyrottonSeeds = packet of pyrotton seeds
+ent-PyrottonSeeds = пакет семян огнехлопчатника
     .desc = { ent-SeedBase.desc }
 
-ent-RealCapfruitSeeds = packet of capfruit seeds
-    .desc = Is it real, or is it fake?
+ent-RealCapfruitSeeds = пакет семян пистоноплода
+    .desc = Настоящий или поддельный?
 
 ent-FakeCapfruitSeeds = { ent-RealCapfruitSeeds }
     .desc = { ent-RealCapfruitSeeds.desc }
-    .suffix = Fake
+    .suffix = Подделка
 
-ent-CherrySeeds = packet of cherry seeds
+ent-CherrySeeds = пакет семян вишни
     .desc = { ent-SeedBase.desc }
 
-ent-AnomalyBerrySeeds = packet of anomaly berry seeds
+ent-AnomalyBerrySeeds = пакет семян аномальной ягоды
     .desc = { ent-SeedBase.desc }
 
-ent-BloonionSeeds = packet of bloonion seeds
+ent-BloonionSeeds = пакет семян шаролука
     .desc = { ent-SeedBase.desc }

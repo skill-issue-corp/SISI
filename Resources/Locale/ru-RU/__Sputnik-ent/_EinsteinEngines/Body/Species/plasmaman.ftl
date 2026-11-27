@@ -1,12 +1,12 @@
-ent-AppearancePlasmaman = plasmaman appearance
+ent-AppearancePlasmaman = внешность плазмамена
     .desc = { ent-BaseSpeciesAppearance.desc }
 
-ent-MobPlasmaman = Urist McPlasma
+ent-MobPlasmaman = Урист МакПлазма
     .desc = { ent-AppearancePlasmaman.desc }
 
 ent-OrganPlasmaman = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = plasmaman
+    .suffix = плазмамен
 
 ent-OrganPlasmamanInternal = { ent-OrganPlasmaman }
     .desc = { ent-OrganPlasmaman.desc }

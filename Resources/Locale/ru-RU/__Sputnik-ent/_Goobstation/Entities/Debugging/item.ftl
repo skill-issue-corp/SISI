@@ -1,15 +1,15 @@
-ent-PonderingOrbRadioactive = pönderıng örb (700 rads)
-    .desc = If you can read this you are dead.. also someone is türking it
+ent-PonderingOrbRadioactive = сфёра рәздүмий (700 рад)
+    .desc = Если вы это читаете, вы мертвы.. а ещё её кто-то тюркает
     .suffix = DEBUG
 
-ent-PonderingOrbRadioactiveM = pönderıng örb (100 rads)
-    .desc = In glory of Richard Turk
+ent-PonderingOrbRadioactiveM = сфёра рәздүмий (100 рад)
+    .desc = Во славу Ричарда Тюрка
     .suffix = DEBUG
 
-ent-PonderingOrbRadioactiveS = pönderıng örb (7 rads)
-    .desc = Local artifact gone emmisive
+ent-PonderingOrbRadioactiveS = сфёра рәздүмий (7 рад)
+    .desc = Местный артефакт начал фонить
     .suffix = DEBUG
 
-ent-GasMinerNitrogenSM = N2 gas miner
+ent-GasMinerNitrogenSM = газодобытчик N2
     .desc = { ent-GasMinerNitrogen.desc }
-    .suffix = SM DEBUG, 4500kPa
+    .suffix = СМ DEBUG, 4500кПа

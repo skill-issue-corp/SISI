@@ -8,8 +8,8 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # General
-rule-restarting-in-seconds = Restarting in {$seconds} seconds.
-rule-time-has-run-out = Time has run out!
+rule-restarting-in-seconds = Перезапуск через {$seconds} сек.
+rule-time-has-run-out = Время вышло!
 
 # Respawning
-rule-respawn-in-seconds = Respawning in {$second} seconds...
+rule-respawn-in-seconds = Возрождение через {$second} сек...

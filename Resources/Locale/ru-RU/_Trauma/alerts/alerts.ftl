@@ -1,14 +1,14 @@
-alerts-on-holy-fire-name = [color=cyan]On Holy Fire[/color]
-alerts-on-holy-fire-desc = You're [color=cyan]on holy fire[/color]. Click the alert to stop, drop and roll to put the fire out or die in agony.
+alerts-on-holy-fire-name = [color=cyan]В Святом Пламени[/color]
+alerts-on-holy-fire-desc = Вы охвачены [color=cyan]святым пламенем[/color]. Нажмите на уведомление, чтобы остановиться, упасть и покататься, или погибните в муках.
 
-alerts-morph-biomass-name = Biomass
-alerts-morph-biomass-desc = The collection of meat and fat taken from consuming living things.
+alerts-morph-biomass-name = Биомасса
+alerts-morph-biomass-desc = Мясо и жир, полученные при поглощении живых существ.
 
-alerts-fultoned-name = [color=yellow]Fultoned[/color]
-alerts-fultoned-desc = You're being [color=yellow]fultoned[/color] to a remote location! Click to quickly remove it.
+alerts-fultoned-name = [color=yellow]На Фултоне[/color]
+alerts-fultoned-desc = Вас [color=yellow]уносит фултоном[/color] в отдалённое место! Нажмите, чтобы быстро снять его.
 
-alerts-blood-spells-name = Blood spells
-alerts-blood-spells-desc = Click to create or remove blood spells.
+alerts-blood-spells-name = Кровавые заклинания
+alerts-blood-spells-desc = Нажмите, чтобы создать или убрать кровавые заклинания.
 
-alerts-blood-cult-empowered-name = Empowered
-alerts-blood-cult-empowered-desc = Blood magic requires much less time to cast and you lose less blood from it.
+alerts-blood-cult-empowered-name = Усиление
+alerts-blood-cult-empowered-desc = Кровавая магия требует намного меньше времени и крови.

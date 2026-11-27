@@ -4,24 +4,29 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-language-Bingle-name = Bingle
+language-Bingle-name = Бингл
 language-Bingle-description =
-    Bingle bongle dingle dangle yickity do yickity da ping pong lippy tappy too ta
+    Бингл бонгл дингл дангл йикити ду йикити да пинг понг липпи таппи ту та
 
-chat-language-Bingle-name = Bingle
+chat-language-Bingle-name = Бингл
 
-chat-speech-verb-name-bingle = Bingle
-bingle-verb-1 = Croaks
-bingle-verb-2 = Mumbles
-bingle-verb-3 = Harks
-bingle-verb-4 = Grumbles
+chat-speech-verb-name-bingle = Бингл
+bingle-verb-1 = Квакает
+bingle-verb-2 = Бормочет
+bingle-verb-3 = Вещает
+bingle-verb-4 = Ворчит
 
-bingle-station-announcement = Bingle Bingle Bingle
+bingle-station-announcement = Бингл Бингл Бингл
 
-ghost-role-information-bingle-name = Bingle
-ghost-role-information-bingle-description = The Pit is love. The Pit is life. The Pit must grow. Use +w to bing with other Bingles.
-ghost-role-information-bingle-rules = You are a [color=red][bold]Team Antagonist[/bold][/color] with other Bingles
+ghost-role-information-bingle-name = Бингл
+ghost-role-information-bingle-description = Яма – это любовь. Яма – это жизнь. Яма должна расти. Используйте +w, чтобы бинглить с другими Бинглами.
+ghost-role-information-bingle-rules = Вы [color=red][bold]Командный Антагонист[/bold][/color] вместе с другими Бинглами
 
-bingle-upgrade-success = You feel stronger
-bingle-pit-grow =  The pit grows larger
-bingle-pit-end-of-round = The Binglepit near {$location} grew to level [color=teal]{$level}[/color] and collected [color=teal]{$points}[/color] Bingle points
+bingle-upgrade-success = Вы чувствуете прилив сил
+bingle-pit-grow =  Яма становится больше
+bingle-pit-end-of-round = Яма Бинглов возле {$location} выросла до уровня [color=teal]{$level}[/color] и набрала [color=teal]{$points}[/color] { $points ->
+    [one] очко
+    [few] очка
+    [many] очков
+   *[other] очка
+} Бинглов

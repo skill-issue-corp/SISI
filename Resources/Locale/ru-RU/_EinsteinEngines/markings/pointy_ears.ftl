@@ -4,29 +4,29 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-PointyEarsStandard-pointy_ears_standard = Standard Ears
-marking-PointyEarsStandard = Standard Ears
+marking-PointyEarsStandard-pointy_ears_standard = Обычные Уши
+marking-PointyEarsStandard = Обычные Уши
 
-marking-PointyEarsWide-pointy_ears_wide = Wide Ears
-marking-PointyEarsWide = Wide Ears
+marking-PointyEarsWide-pointy_ears_wide = Широкие Уши
+marking-PointyEarsWide = Широкие Уши
 
-marking-PointyEarsSmall-pointy_ears_small = Small Ears
-marking-PointyEarsSmall = Small Ears
+marking-PointyEarsSmall-pointy_ears_small = Маленькие Уши
+marking-PointyEarsSmall = Маленькие Уши
 
-marking-PointyEarsUpwards-pointy_ears_upwards = Upward Ears
-marking-PointyEarsUpwards = Upward Ears
+marking-PointyEarsUpwards-pointy_ears_upwards = Уши Вверх
+marking-PointyEarsUpwards = Уши Вверх
 
-marking-PointyEarsTall-pointy_ears_tall = Tall Ears
-marking-PointyEarsTall = Tall Ears
+marking-PointyEarsTall-pointy_ears_tall = Высокие Уши
+marking-PointyEarsTall = Высокие Уши
 
-marking-PointyEarsSlanted-pointy_ears_slanted = Slanted Ears
-marking-PointyEarsSlanted = Slanted Ears
+marking-PointyEarsSlanted-pointy_ears_slanted = Наклонённые Уши
+marking-PointyEarsSlanted = Наклонённые Уши
 
-marking-PointyEarsThin-pointy_ears_thin = Thin Ears
-marking-PointyEarsThin = Thin Ears
+marking-PointyEarsThin-pointy_ears_thin = Тонкие Уши
+marking-PointyEarsThin = Тонкие Уши
 
-marking-PointyEarsLarge-pointy_ears_large = Large Ears
-marking-PointyEarsLarge = Large Ears
+marking-PointyEarsLarge-pointy_ears_large = Большие Уши
+marking-PointyEarsLarge = Большие Уши
 
-marking-PointyEarsNone-pointy_ears_none = No Ears
-marking-PointyEarsNone = No Ears
+marking-PointyEarsNone-pointy_ears_none = Без Ушей
+marking-PointyEarsNone = Без Ушей

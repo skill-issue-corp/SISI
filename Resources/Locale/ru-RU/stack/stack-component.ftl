@@ -14,31 +14,32 @@
 
 # Shown when a stack is examined in details range
 comp-stack-examine-detail-count = {$count ->
-    [one] There is [color={$markupCountColor}]{$count}[/color] thing
-    *[other] There are [color={$markupCountColor}]{$count}[/color] things
-} in the stack.
+    [one] В стопке [color={$markupCountColor}]{$count}[/color] предмет
+    [few] В стопке [color={$markupCountColor}]{$count}[/color] предмета
+    *[many] В стопке [color={$markupCountColor}]{$count}[/color] предметов
+}.
 
 # Stack status control
-comp-stack-status = Count: [color=white]{$count}[/color]
+comp-stack-status = Количество: [color=white]{$count}[/color]
 
 ### Interaction Messages
 
 # Shown when attempting to add to a stack that is full
-comp-stack-already-full = Stack is already full.
+comp-stack-already-full = Стопка уже полна.
 
 # Shown when a stack becomes full
-comp-stack-becomes-full = Stack is now full.
+comp-stack-becomes-full = Стопка заполнена.
 
 # Text related to splitting a stack
-comp-stack-split = You split the stack.
+comp-stack-split = Вы разделяете стопку.
 # Goobstation - Custom stack splitting dialog
-comp-stack-split-custom = Split amount...
-comp-stack-split-halve = Halve
-comp-stack-split-too-small = Stack is too small to split.
+comp-stack-split-custom = Отделить часть...
+comp-stack-split-halve = Разделить пополам
+comp-stack-split-too-small = Стопка слишком мала, чтобы её разделить.
 
 # Goobstation - Custom stack splitting dialog
-comp-stack-split-size = Max: {$size}
+comp-stack-split-size = Макс.: {$size}
 
-ui-custom-stack-split-title = Split Amount
-ui-custom-stack-split-line-edit-placeholder = Amount
-ui-custom-stack-split-apply = Split
+ui-custom-stack-split-title = Отделить Часть
+ui-custom-stack-split-line-edit-placeholder = Количество
+ui-custom-stack-split-apply = Разделить

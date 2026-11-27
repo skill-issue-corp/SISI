@@ -1,11 +1,11 @@
 ent-BasePayload = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-ShrapnelPayload = shrapnel payload
+ent-ShrapnelPayload = осколочный заряд
     .desc = { ent-BasePayload.desc }
 
-ent-ChemicalPayload = chemical payload
-    .desc = A chemical payload. Has space to store two beakers. In combination with a trigger and a case, this can be used to initiate chemical reactions.
+ent-ChemicalPayload = химический заряд
+    .desc = Химический заряд. Вмещает две мензурки. Вместе с триггером и корпусом позволяет запускать химические реакции.
 
-ent-FlashPayload = flash payload
-    .desc = A single-use flash payload.
+ent-FlashPayload = световой заряд
+    .desc = Одноразовый заряд со вспышкой.

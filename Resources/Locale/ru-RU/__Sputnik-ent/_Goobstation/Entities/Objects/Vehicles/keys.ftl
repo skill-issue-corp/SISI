@@ -1,17 +1,17 @@
 ent-BaseKey = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-VehicleKeySecway = secway keys
-    .desc = The keys to the future.
+ent-VehicleKeySecway = ключи от сегвея сб
+    .desc = Ключи от будущего.
 
-ent-VehicleKeySyndicateSegway = syndicate segway keys
-    .desc = Patterned after the iconic EMAG design.
+ent-VehicleKeySyndicateSegway = ключи от сегвея синдиката
+    .desc = Сделаны по образцу знаменитого ЕМАГА.
 
-ent-VehicleKeyATV = ATV keys
-    .desc = Think this looks like just one key? ATV keys means "actually two vehicle keys."
+ent-VehicleKeyATV = ключи от ВТТ
+    .desc = Думаете, ключ всего один? ВТТ значит «Ведь Тут Точно два ключа».
 
-ent-VehicleKeyJanicart = janicart keys
-    .desc = Interesting design.
+ent-VehicleKeyJanicart = ключи от уборочной тележки
+    .desc = Интересный дизайн.
 
-ent-VehicleKeyForklift = forklift keys
-    .desc = Keys to the lift!
+ent-VehicleKeyForklift = ключи от погрузчика
+    .desc = Ключи от погрузчика!

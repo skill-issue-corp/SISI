@@ -1,5 +1,5 @@
-ent-Exclamation = exclamation
+ent-Exclamation = восклицание
     .desc = { "" }
 
-ent-WhistleExclamation = exclamation
+ent-WhistleExclamation = восклицание
     .desc = { "" }

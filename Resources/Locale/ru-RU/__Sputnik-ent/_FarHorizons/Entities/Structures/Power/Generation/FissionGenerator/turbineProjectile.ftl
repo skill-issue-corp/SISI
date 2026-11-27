@@ -1,2 +1,2 @@
-ent-TurbineBladeShrapnel = turbine blade
+ent-TurbineBladeShrapnel = лопасть турбины
     .desc = { "" }

@@ -1,14 +1,14 @@
-ent-ShuttleCurse = cursed orb
-    .desc = You peer within this smokey orb and glimpse terrible fates befalling the emergency escape shuttle.
+ent-ShuttleCurse = проклятая сфера
+    .desc = Вы всматриваетесь в дымчатую сферу и видите проблески ужасной участи эвакуационного шаттла.
 
-ent-WhetstoneCult = eldritch whetstone
-    .desc = A block, empowered by dark magic. Sharp weapons will be enhanced when used on the stone.
+ent-WhetstoneCult = потусторонний точильный камень
+    .desc = Брусок, наделённый тёмной магией. Он усиливает острое оружие, если провести им по камню.
 
-ent-VeilShifter = veil shifter
-    .desc = This relic instantly teleports you, and anything you're pulling, forward by a moderate distance.
+ent-VeilShifter = смещатель завесы
+    .desc = Эта реликвия мгновенно телепортирует вас и всё, что вы тащите, на небольшое расстояние вперёд.
 
-ent-ShadowShackles = shadow shackles
-    .desc = Shackles that bind the wrists with sinister magic.
+ent-ShadowShackles = теневые оковы
+    .desc = Оковы, связывающие запястья зловещей магией.
 
-ent-MirrorShieldCult = mirror shield
-    .desc = An infamous shield used by Nar'Sien sects to confuse and disorient their enemies.
+ent-MirrorShieldCult = зеркальный щит
+    .desc = Щит с дурной славой, которым секты Нар'Си сбивают врагов с толку и дезориентируют их.

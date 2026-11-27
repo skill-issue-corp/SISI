@@ -1,3 +1,3 @@
-ent-SpawnerRandomTendrilLavaland = tendril spawner
+ent-SpawnerRandomTendrilLavaland = точка спавна отростка
     .desc = { ent-MarkerBase.desc }
-    .suffix = Lavaland
+    .suffix = Лаваленд

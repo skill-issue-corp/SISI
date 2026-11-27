@@ -3,8 +3,8 @@
 #
 # SPDX-License-Identifier: MIT
 
-anchorable-anchored = Anchored
-anchorable-unanchored = Unanchored
-anchorable-occupied = Tile occupied
+anchorable-anchored = Закреплено
+anchorable-unanchored = Откреплено
+anchorable-occupied = Тайл занят
 
-anchorable-fail-not-on-station = This can only be anchored on a station!
+anchorable-fail-not-on-station = Это можно закрепить только на станции!

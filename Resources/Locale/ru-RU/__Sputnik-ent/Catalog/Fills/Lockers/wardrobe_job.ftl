@@ -1,63 +1,63 @@
 ent-WardrobePrisonFilled = { ent-WardrobePrison }
-    .desc = Contains a selection of nice orange clothes for people enjoying their stay in the brig.
-    .suffix = Filled
+    .desc = Содержит набор славных оранжевых одёжек для тех, кто наслаждается пребыванием в бриге.
+    .suffix = Заполнено
 
 ent-ClosetWallWardrobePrisonFilled = { ent-ClosetWallOrange }
     .desc = { ent-ClosetWallOrange.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-WardrobeRoboticsFilled = { ent-WardrobeRobotics }
-    .desc = You can build a robot out of this locker.
-    .suffix = Filled
+    .desc = Из этого шкафчика можно собрать робота.
+    .suffix = Заполнено
 
 ent-WardrobeChemistryFilled = { ent-WardrobeChemistry }
-    .desc = The sleek orange threads contained within make you much less likely to be thrown out of the chemistry lab.
-    .suffix = Filled
+    .desc = С этими стильными оранжевыми шмотками у вас гораздо меньше шансов вылететь из химической лаборатории.
+    .suffix = Заполнено
 
 ent-WardrobeGeneticsFilled = { ent-WardrobeGenetics }
-    .desc = The sleek blue threads contained within make you much less likely to be thrown out of the genetics lab.
-    .suffix = Filled
+    .desc = С этими стильными синими шмотками у вас гораздо меньше шансов вылететь из генетической лаборатории.
+    .suffix = Заполнено
 
 ent-WardrobeVirologyFilled = { ent-WardrobeVirology }
-    .desc = The sleek green threads contained within make you much less likely to be thrown out of the virology lab.
-    .suffix = Filled
+    .desc = С этими стильными зелёными шмотками у вас гораздо меньше шансов вылететь из вирусологической лаборатории.
+    .suffix = Заполнено
 
 ent-WardrobeScienceFilled = { ent-WardrobeScience }
-    .desc = You've read a couple pop science articles, now it's time for the real deal.
-    .suffix = Filled
+    .desc = Пару научпоп-статей вы уже прочли, теперь пора заняться настоящим делом.
+    .suffix = Заполнено
 
 ent-WardrobeBotanistFilled = { ent-WardrobeBotanist }
-    .desc = Plant yourself among the plant men with these 100% natural plant-derived clothes.
-    .suffix = Filled
+    .desc = Пустите корни среди людей-растений в этой одежде из 100% натурального растительного сырья.
+    .suffix = Заполнено
 
 ent-WardrobeMedicalDoctorFilled = { ent-WardrobeMedicalDoctor }
-    .desc = We've all played doctor before, now practice medicine.
-    .suffix = Filled
+    .desc = Мы все играли в доктора, теперь пора заняться медициной.
+    .suffix = Заполнено
 
 ent-WardrobeChapelFilled = { ent-WardrobeChapel }
-    .desc = You have to look presentable for your flock.
-    .suffix = Filled
+    .desc = Одежда? Зачем часовне шкафчик с одеждой? Ведь для похорон нужно столько всего.
+    .suffix = Заполнено
 
 ent-WardrobeSecurityFilled = { ent-WardrobeSecurity }
-    .desc = Cross the thin red line.
-    .suffix = Filled
+    .desc = Переступите тонкую красную черту.
+    .suffix = Заполнено
 
 ent-WardrobeCargoFilled = { ent-WardrobeCargo }
-    .desc = This locker? Maybe 500 spesos. Brotherhood? Priceless.
-    .suffix = Filled
+    .desc = Этот шкафчик? Может, 500 спесо. Братство? Бесценно.
+    .suffix = Заполнено
 
 ent-WardrobeSalvageFilled = { ent-WardrobeSalvage }
     .desc = { ent-WardrobeSalvage.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
 ent-WardrobeAtmosphericsFilled = { ent-WardrobeAtmospherics }
-    .desc = This locker contains a uniform for atmospheric technicians.
-    .suffix = Filled
+    .desc = В этом шкафчике форма атмосферных техников.
+    .suffix = Заполнено
 
 ent-ClosetWallWardrobeAtmosphericsFilled = { ent-ClosetWallAtmospherics }
-    .desc = This locker contains a uniform for atmospheric technicians.
-    .suffix = Filled
+    .desc = В этом шкафчике форма атмосферных техников.
+    .suffix = Заполнено
 
 ent-WardrobeEngineeringFilled = { ent-WardrobeEngineering }
-    .desc = This locker contains a uniform for engineering or social engineering.
-    .suffix = Filled
+    .desc = В этом шкафчике лежит форма для инженерии или социальной инженерии.
+    .suffix = Заполнено

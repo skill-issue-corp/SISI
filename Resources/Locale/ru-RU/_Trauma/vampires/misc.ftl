@@ -1,4 +1,4 @@
-metabolizer-type-vampire = Vampire
+metabolizer-type-vampire = Вампир
 
-blood-display-name = Blood Display
-blood-display-description = Click on this display to learn about your usable blood.
+blood-display-name = Индикатор Крови
+blood-display-description = Нажмите на индикатор, чтобы узнать, сколько крови можно использовать.

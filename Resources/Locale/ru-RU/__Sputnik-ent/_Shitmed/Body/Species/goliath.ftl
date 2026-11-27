@@ -1,9 +1,9 @@
-ent-AppearanceGoliath = goliath appearance
+ent-AppearanceGoliath = внешность голиафа
     .desc = { ent-BaseMobBody.desc }
 
 ent-OrganGoliath = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = goliath
+    .suffix = голиаф
 
 ent-OrganGoliathExternal = { ent-OrganGoliath }
     .desc = { ent-OrganGoliath.desc }
@@ -14,5 +14,5 @@ ent-OrganGoliathInternal = { ent-OrganGoliath }
 ent-OrganGoliathTorso = { ent-OrganBaseTorso }
     .desc = { ent-OrganBaseTorso.desc }
 
-ent-OrganGoliathHeart = goliath heart
+ent-OrganGoliathHeart = сердце голиафа
     .desc = { ent-OrganAnimalHeart.desc }

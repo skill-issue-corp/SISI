@@ -1,2 +1,2 @@
-ent-LockerNanorep = nanotrasen representative locker
+ent-LockerNanorep = шкафчик представителя NanoTrasen
     .desc = { ent-LockerBase.desc }

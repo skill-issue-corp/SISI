@@ -1,2 +1,2 @@
-ent-ActionMimeInvisibleWall = Create Invisible Wall
-    .desc = Create an invisible wall in front of you, if placeable there.
+ent-ActionMimeInvisibleWall = Создать Невидимую Стену
+    .desc = Создайте перед собой невидимую стену, если там есть место.

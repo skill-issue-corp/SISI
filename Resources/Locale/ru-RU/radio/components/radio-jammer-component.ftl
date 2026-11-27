@@ -5,19 +5,19 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-radio-jammer-component-on-use = The jammer is now {$state}.
-radio-jammer-component-on-state = on
-radio-jammer-component-off-state = off
+radio-jammer-component-on-use = Глушилка теперь {$state}.
+radio-jammer-component-on-state = включена
+radio-jammer-component-off-state = выключена
 
-radio-jammer-component-examine-on-state = The light is currently [color=darkgreen]on[/color].
-radio-jammer-component-examine-off-state = The light is currently [color=darkred]off[/color].
+radio-jammer-component-examine-on-state = Индикатор сейчас [color=darkgreen]горит[/color].
+radio-jammer-component-examine-off-state = Индикатор сейчас [color=darkred]не горит[/color].
 
-radio-jammer-component-setting-high = High
-radio-jammer-component-setting-medium = Medium
-radio-jammer-component-setting-low = Low
+radio-jammer-component-setting-high = Высокая
+radio-jammer-component-setting-medium = Средняя
+radio-jammer-component-setting-low = Низкая
 
-radio-jammer-component-set-message-high = The jammer is now operating at high power.
-radio-jammer-component-set-message-medium = The jammer is now operating at medium power.
-radio-jammer-component-set-message-low = The jammer is now operating at low power.
+radio-jammer-component-set-message-high = Глушилка работает на высокой мощности.
+radio-jammer-component-set-message-medium = Глушилка работает на средней мощности.
+radio-jammer-component-set-message-low = Глушилка работает на низкой мощности.
 
-radio-jammer-component-switch-setting = The power level switch is set to "[color=yellow]{$powerLevel}[/color]".
+radio-jammer-component-switch-setting = Положение переключателя мощности: «[color=yellow]{$powerLevel}[/color]».

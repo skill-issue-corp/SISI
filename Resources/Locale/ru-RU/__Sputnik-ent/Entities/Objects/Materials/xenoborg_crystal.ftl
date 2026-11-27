@@ -1,5 +1,5 @@
-ent-MaterialXenoborgCrystal = xenoborg crystal
-    .desc = A special crystal created from nuclear fusion. It's used to make xenoborgs.
+ent-MaterialXenoborgCrystal = кристалл ксеноборгов
+    .desc = Особый кристалл, полученный в ходе термоядерного синтеза. Используется для создания ксеноборгов.
     .suffix = 10
 
 ent-MaterialXenoborgCrystal5 = { ent-MaterialXenoborgCrystal }

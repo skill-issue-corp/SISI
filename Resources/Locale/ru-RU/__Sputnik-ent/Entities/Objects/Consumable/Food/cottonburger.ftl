@@ -1,8 +1,8 @@
-ent-FoodCottonBun = cotton bun
-    .desc = A cotton hamburger bun. Soft, round and convenient to hold.
+ent-FoodCottonBun = хлопковая булочка
+    .desc = Хлопковая булочка для гамбургера. Мягкая, круглая, удобно держать в руке.
 
-ent-FoodCottonBunBottom = cotton bottom bun
-    .desc = It's time for moths to experience the burger tower.
+ent-FoodCottonBunBottom = нижняя половинка хлопковой булочки
+    .desc = Пора нианам познакомиться с бургерной башней.
 
-ent-FoodCottonBunTop = cotton top bun
-    .desc = The perfect finish for your fibrous burger tower.
+ent-FoodCottonBunTop = верхняя половинка хлопковой булочки
+    .desc = Идеальная верхушка вашей волокнистой бургерной башни.

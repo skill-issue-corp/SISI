@@ -1,87 +1,87 @@
-ent-SpawnMobAlexander = Alexander Spawner
+ent-SpawnMobAlexander = Спавнер Александра
     .desc = { ent-MarkerBase.desc }
-    .suffix = Chef Pet
+    .suffix = Питомец Шеф-Повара
 
-ent-SpawnMobBandito = Bandito Spawner
+ent-SpawnMobBandito = Спавнер Бандито
     .desc = { ent-MarkerBase.desc }
-    .suffix = RD Pet
+    .suffix = Питомец НР
 
-ent-SpawnMobCat = Random Cat Spawner
+ent-SpawnMobCat = Спавнер Случайной Кошки
     .desc = { ent-MarkerBase.desc }
-    .suffix = CMO Pet
+    .suffix = Питомец ГВ
 
-ent-SpawnMobCatBingus = Bingus Spawner
+ent-SpawnMobCatBingus = Спавнер Бингуса
     .desc = { ent-MarkerBase.desc }
-    .suffix = CMO Pet
+    .suffix = Питомец ГВ
 
-ent-SpawnMobCatException = Exception Spawner
+ent-SpawnMobCatException = Спавнер Исключения
     .desc = { ent-MarkerBase.desc }
-    .suffix = CMO Pet
+    .suffix = Питомец ГВ
 
-ent-SpawnMobCatFloppa = Floppa Spawner
+ent-SpawnMobCatFloppa = Спавнер Флоппы
     .desc = { ent-MarkerBase.desc }
-    .suffix = CMO Pet
+    .suffix = Питомец ГВ
 
-ent-SpawnMobCatRuntime = Runtime Spawner
+ent-SpawnMobCatRuntime = Спавнер Рантайма
     .desc = { ent-MarkerBase.desc }
-    .suffix = CMO Pet
+    .suffix = Питомец ГВ
 
-ent-SpawnMobCorgi = Corgi Spawner
+ent-SpawnMobCorgi = Спавнер Корги
     .desc = { ent-MarkerBase.desc }
-    .suffix = HoP Pet
+    .suffix = Питомец ГП
 
-ent-SpawnMobCorgiMouse = Dev Mouse Spawner
+ent-SpawnMobCorgiMouse = Спавнер Мыши Разработчиков
     .desc = { ent-MarkerBase.desc }
-    .suffix = Dev Map Pet, Admeme
+    .suffix = Питомец Карты Разработчиков, Адмеме
 
-ent-SpawnMobCrabAtmos = Tropico Spawner
+ent-SpawnMobCrabAtmos = Спавнер Тропико
     .desc = { ent-MarkerBase.desc }
-    .suffix = Atmos Pet
+    .suffix = Питомец Атмоса
 
-ent-SpawnMobFoxRenault = Fox Renault Spawner
+ent-SpawnMobFoxRenault = Спавнер Лиса Рено
     .desc = { ent-MarkerBase.desc }
-    .suffix = Captain Pet
+    .suffix = Питомец Капитана
 
-ent-SpawnMobMcGriff = McGriff Spawner
+ent-SpawnMobMcGriff = Спавнер МакГриффа
     .desc = { ent-MarkerBase.desc }
-    .suffix = Warden Pet
+    .suffix = Питомец Смотрителя
 
-ent-SpawnMobHamsterHamlet = Hamster Hamlet Spawner
+ent-SpawnMobHamsterHamlet = Спавнер Хомяка Гамлета
     .desc = { ent-MarkerBase.desc }
-    .suffix = Bridge Pet (crate)
+    .suffix = Питомец Мостика (ящик)
 
-ent-SpawnMobKangarooWillow = Willow Spawner
+ent-SpawnMobKangarooWillow = Спавнер Уиллоу
     .desc = { ent-MarkerBase.desc }
-    .suffix = Boxer Pet
+    .suffix = Питомец Боксёра
 
-ent-SpawnMobMonkeyPunpun = Pun Pun Spawner
+ent-SpawnMobMonkeyPunpun = Спавнер Пун Пуна
     .desc = { ent-MarkerBase.desc }
-    .suffix = Bartender Pet
+    .suffix = Питомец Бармена
 
-ent-SpawnMobPollyParrot = Polly the parrot Spawner
+ent-SpawnMobPollyParrot = Спавнер попугая Полли
     .desc = { ent-MarkerBase.desc }
-    .suffix = CE Pet
+    .suffix = Питомец СИ
 
-ent-SpawnMobPossumMorty = Possum Morty Spawner
+ent-SpawnMobPossumMorty = Спавнер Опоссума Морти
     .desc = { ent-MarkerBase.desc }
-    .suffix = Morgue Pet
+    .suffix = Питомец Морга
 
-ent-SpawnMobRaccoonMorticia = Raccoon Morticia Spawner
+ent-SpawnMobRaccoonMorticia = Спавнер Енота Мортиши
     .desc = { ent-MarkerBase.desc }
-    .suffix = QM Pet
+    .suffix = Питомец КМ
 
-ent-SpawnMobShiva = Shiva Spawner
+ent-SpawnMobShiva = Спавнер Шивы
     .desc = { ent-MarkerBase.desc }
-    .suffix = Security Pet
+    .suffix = Питомец СБ
 
-ent-SpawnMobSlothPaperwork = Sloth Paperwork Spawner
+ent-SpawnMobSlothPaperwork = Спавнер Ленивца Бумагомараки
     .desc = { ent-MarkerBase.desc }
-    .suffix = Librarian Pet
+    .suffix = Питомец Библиотекаря
 
-ent-SpawnMobSmile = Smile Spawner
+ent-SpawnMobSmile = Спавнер Смайла
     .desc = { ent-MarkerBase.desc }
-    .suffix = Science Pet
+    .suffix = Питомец Науки
 
-ent-SpawnMobWalter = Walter Spawner
+ent-SpawnMobWalter = Спавнер Уолтера
     .desc = { ent-MarkerBase.desc }
-    .suffix = Chemistry Pet
+    .suffix = Питомец Химии

@@ -4,38 +4,38 @@ ent-GasTankBase = { ent-BaseItem }
 ent-GasTankRoundBase = { ent-GasTankBase }
     .desc = { ent-GasTankBase.desc }
 
-ent-OxygenTank = oxygen tank
-    .desc = A standard cylindrical gas tank for oxygen. It can hold 5 L of gas.
+ent-OxygenTank = кислородный баллон
+    .desc = Стандартный цилиндрический баллон для кислорода. Вмещает 5 л газа.
 
-ent-NitrogenTank = nitrogen tank
-    .desc = A standard cylindrical gas tank for nitrogen. It can hold 5 L of gas.
+ent-NitrogenTank = азотный баллон
+    .desc = Стандартный цилиндрический баллон для азота. Вмещает 5 л газа.
 
-ent-EmergencyOxygenTank = emergency oxygen tank
-    .desc = An easily portable tank for emergencies. Contains very little oxygen, rated for survival use only. It can hold 0.66 L of gas.
+ent-EmergencyOxygenTank = аварийный кислородный баллон
+    .desc = Лёгкий переносной баллон на случай аварии. Содержит совсем немного кислорода, только для выживания. Вмещает 0.66 л газа.
 
-ent-EmergencyNitrogenTank = emergency nitrogen tank
-    .desc = An easily portable tank for emergencies. Contains very little nitrogen, rated for survival use only. It can hold 0.66 L of gas.
+ent-EmergencyNitrogenTank = аварийный азотный баллон
+    .desc = Лёгкий переносной баллон на случай аварии. Содержит совсем немного азота, только для выживания. Вмещает 0.66 л газа.
 
-ent-ExtendedEmergencyOxygenTank = extended-capacity emergency oxygen tank
-    .desc = An emergency tank with extended capacity. Technically rated for prolonged use. It can hold 1.5 L of gas.
+ent-ExtendedEmergencyOxygenTank = аварийный кислородный баллон повышенной ёмкости
+    .desc = Аварийный баллон повышенной ёмкости. Формально рассчитан на длительное использование. Вмещает 1.5 л газа.
 
-ent-ExtendedEmergencyNitrogenTank = extended-capacity emergency nitrogen tank
-    .desc = An emergency tank with extended capacity. Technically rated for prolonged use. It can hold 1.5 L of gas.
+ent-ExtendedEmergencyNitrogenTank = аварийный азотный баллон повышенной ёмкости
+    .desc = Аварийный баллон повышенной ёмкости. Формально рассчитан на длительное использование. Вмещает 1.5 л газа.
 
-ent-DoubleEmergencyOxygenTank = double emergency oxygen tank
-    .desc = A high-grade dual-tank emergency life support container. It holds a decent amount of oxygen for its small size. It can hold 2.5 L of gas.
+ent-DoubleEmergencyOxygenTank = двойной аварийный кислородный баллон
+    .desc = Высококачественный сдвоенный баллон для аварийного жизнеобеспечения. Для своего размера вмещает приличный запас кислорода. Вмещает 2.5 л газа.
 
-ent-DoubleEmergencyNitrogenTank = double emergency nitrogen tank
-    .desc = A high-grade dual-tank emergency life support container. It holds a decent amount of nitrogen for its small size. It can hold 2.5 L of gas.
+ent-DoubleEmergencyNitrogenTank = двойной аварийный азотный баллон
+    .desc = Высококачественный сдвоенный баллон для аварийного жизнеобеспечения. Для своего размера вмещает приличный запас азота. Вмещает 2.5 л газа.
 
-ent-EmergencyFunnyOxygenTank = funny emergency oxygen tank
-    .desc = An easily portable tank for emergencies. Contains very little oxygen with an extra of funny gas, rated for survival use only. It can hold 0.66 L of gas.
+ent-EmergencyFunnyOxygenTank = забавный аварийный кислородный баллон
+    .desc = Лёгкий переносной баллон на случай аварии. Содержит совсем немного кислорода с добавкой веселящего газа, только для выживания. Вмещает 0.66 л газа.
 
-ent-AirTank = air tank
-    .desc = Mixed anyone? It can hold 5 L of gas.
+ent-AirTank = воздушный баллон
+    .desc = Кому смеси? Вмещает 5 л газа.
 
-ent-NitrousOxideTank = nitrous oxide tank
-    .desc = Contains a mixture of air and nitrous oxide. Make sure you don't refill it with pure N2O. It can hold 5 L of gas.
+ent-NitrousOxideTank = баллон оксида азота
+    .desc = Содержит смесь воздуха и оксида азота. Не заправляйте его чистым N2O. Вмещает 5 л газа.
 
-ent-PlasmaTank = plasma tank
-    .desc = Contains dangerous plasma. Do not inhale, unless you're a plasmaman. Extremely flammable. It can hold 5 L of gas.
+ent-PlasmaTank = баллон плазмы
+    .desc = Содержит опасную плазму. Не вдыхайте, если вы не плазмамен. Крайне огнеопасна. Вмещает 5 л газа.

@@ -1,8 +1,8 @@
-ent-MolotovHellFire = hellfire
+ent-MolotovHellFire = адский огонь
     .desc = { ent-MolotovFire.desc }
 
-ent-MolotovGlitchFire = glitchfire
+ent-MolotovGlitchFire = глючный огонь
     .desc = { ent-MolotovFire.desc }
 
-ent-MolotovHolyFire = holyfire
+ent-MolotovHolyFire = святой огонь
     .desc = { ent-MolotovFire.desc }

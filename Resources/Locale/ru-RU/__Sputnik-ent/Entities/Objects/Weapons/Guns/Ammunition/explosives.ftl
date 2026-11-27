@@ -1,41 +1,41 @@
-ent-CartridgeRocket = PG-7VL grenade
-    .desc = A 1.5 warhead designed for the RPG-7 launcher. Has tubular shape.
+ent-CartridgeRocket = граната PG-7VL
+    .desc = Боевая часть 1.5 для гранатомёта RPG-7. Имеет цилиндрическую форму.
 
-ent-CartridgeRocketSlow = PG-7VL grenade "Snail-Rocket"
-    .desc = A 1.5 warhead designed for the RPG-7 launcher. It's unusually slow.
+ent-CartridgeRocketSlow = граната PG-7VL «Ракета-Улитка»
+    .desc = Боевая часть 1.5 для гранатомёта RPG-7. На редкость медленная.
 
-ent-BaseGrenade = base grenade
+ent-BaseGrenade = базовая граната
     .desc = { ent-BaseItem.desc }
 
-ent-GrenadeBaton = baton grenade
-    .desc = A grenade round containing a single non-lethal projectile. Like being punched in the solar plexus.
+ent-GrenadeBaton = травматическая граната
+    .desc = Гранатомётный выстрел с одним нелетальным снарядом. Будто удар кулаком в солнечное сплетение.
 
-ent-GrenadeBlast = blast grenade round
-    .desc = A grenade round containing an explosive compound made specifically for breaching the reinforced hulls of space stations.
+ent-GrenadeBlast = фугасный гранатомётный выстрел
+    .desc = Гранатомётный выстрел с зарядом для пробивания усиленной обшивки космических станций.
 
-ent-GrenadeFlash = flash grenade round
-    .desc = A grenade round containing a chemical compound causing a blinding flash of light on impact.
+ent-GrenadeFlash = световой гранатомётный выстрел
+    .desc = Гранатомётный выстрел с составом, который при ударе даёт ослепительную вспышку.
 
-ent-GrenadeFrag = frag grenade round
-    .desc = A grenade round containing a concentrated anti-personnel explosive alongside shrapnel, shredding anyone close to the impact zone.
+ent-GrenadeFrag = осколочный гранатомётный выстрел
+    .desc = Гранатомётный выстрел с концентрированным противопехотным зарядом и осколками, которые рвут в клочья всех возле места попадания.
 
-ent-GrenadeCleanade = cleanade grenade round
-    .desc = A grenade round containing space cleaner foam. For when you need to declare war on the concept of messiness.
+ent-GrenadeCleanade = чистящий гранатомётный выстрел
+    .desc = Гранатомётный выстрел с пеной космического очистителя. На случай, если вам нужно объявить войну самой идее беспорядка.
 
-ent-GrenadeEMP = EMP grenade round
-    .desc = A grenade round containing an chemical compound calibrated to cause an electromagnetic pulse on impact.
+ent-GrenadeEMP = гранатомётный выстрел ЭМИ
+    .desc = Гранатомётный выстрел с составом, который при ударе создаёт электромагнитный импульс.
 
-ent-BaseCannonBall = base cannon ball
+ent-BaseCannonBall = базовое пушечное ядро
     .desc = { ent-BaseItem.desc }
 
-ent-CannonBall = cannonball
-    .desc = Extreme dodgeball.
-    .suffix = Pirate
+ent-CannonBall = пушечное ядро
+    .desc = Экстремальные вышибалы.
+    .suffix = Пират
 
-ent-CannonBallGrapeshot = grapeshot
-    .desc = A spread of small iron balls that scatter upon being fired. For when you need to send a strongly worded message but don't know exactly where your enemy is.
-    .suffix = Pirate
+ent-CannonBallGrapeshot = картечь
+    .desc = Горсть мелких железных шариков, разлетающихся при выстреле. На случай, если хочется высказать всё, что думаете, а где именно противник, неизвестно.
+    .suffix = Пират
 
-ent-CannonBallGlassshot = glassshot
-    .desc = Turns out you can just put a bunch of glass into a cannon and fire it. Causes nasty cuts.
-    .suffix = Pirate
+ent-CannonBallGlassshot = стеклянная картечь
+    .desc = Оказывается, можно просто насыпать стекла в пушку и выстрелить. Оставляет мерзкие порезы.
+    .suffix = Пират

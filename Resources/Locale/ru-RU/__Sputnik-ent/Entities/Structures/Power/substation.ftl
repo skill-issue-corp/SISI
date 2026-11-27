@@ -1,23 +1,23 @@
 ent-CoreSubstation = { "" }
     .desc = { "" }
 
-ent-BaseSubstation = substation
-    .desc = Reduces the voltage of electricity put into it.
+ent-BaseSubstation = подстанция
+    .desc = Снижает входное напряжение.
 
-ent-BaseSubstationWall = wallmount substation
-    .desc = A substation designed for compact shuttles and spaces.
+ent-BaseSubstationWall = настенная подстанция
+    .desc = Подстанция для небольших шаттлов и тесных помещений.
 
 ent-SubstationBasic = { ent-BaseSubstation }
     .desc = { ent-BaseSubstation.desc }
-    .suffix = Basic, 2.5MJ
+    .suffix = Базовая, 2.5МДж
 
 ent-SubstationBasicEmpty = { ent-SubstationBasic }
     .desc = { ent-SubstationBasic.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
 ent-SubstationWallBasic = { ent-BaseSubstationWall }
     .desc = { ent-BaseSubstationWall.desc }
-    .suffix = Basic, 2MJ
+    .suffix = Базовая, 2МДж
 
-ent-BaseSubstationWallFrame = wallmount substation frame
-    .desc = A substation frame for construction.
+ent-BaseSubstationWallFrame = каркас настенной подстанции
+    .desc = Каркас для сборки подстанции.

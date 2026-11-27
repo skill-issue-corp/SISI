@@ -1,2 +1,2 @@
-ent-KitchenElectricGrill = electric grill
-    .desc = A microwave? No, a real man cooks steaks on a grill!
+ent-KitchenElectricGrill = электрогриль
+    .desc = Микроволновка? Нет, настоящий мужик жарит стейки на гриле!

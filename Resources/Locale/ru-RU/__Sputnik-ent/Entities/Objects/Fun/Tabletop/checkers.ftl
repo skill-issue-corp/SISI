@@ -1,17 +1,17 @@
-ent-CheckerBoard = checkerboard
-    .desc = A checkerboard. Pieces included!
+ent-CheckerBoard = шашечная доска
+    .desc = Шашечная доска. Фишки в комплекте!
 
-ent-CheckerBoardTabletop = checkerboard
+ent-CheckerBoardTabletop = шашечная доска
     .desc = { ent-BaseBoardTabletop.desc }
 
-ent-CheckerPieceWhite = white checker piece
+ent-CheckerPieceWhite = белая шашка
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-CheckerCrownWhite = white checker crown
+ent-CheckerCrownWhite = белая дамка
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-CheckerPieceBlack = black checker piece
+ent-CheckerPieceBlack = чёрная шашка
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-CheckerCrownBlack = black checker crown
+ent-CheckerCrownBlack = чёрная дамка
     .desc = { ent-BaseTabletopPiece.desc }

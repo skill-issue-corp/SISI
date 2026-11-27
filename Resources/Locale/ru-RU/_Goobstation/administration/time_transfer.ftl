@@ -4,26 +4,26 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-time-transfer-panel-title = Time Transfer
-time-transfer-panel-player-label = Player
-time-transfer-panel-time = Time
-time-transfer-panel-add-time = Add time
-time-transfer-panel-set-time = Set time
-time-transfer-panel-set-time-confirm = Confirm
-time-transfer-panel-warning-no-player = Player not selected
-time-transfer-panel-warning-no-job = Role not selected
-time-transfer-panel-warning-group-no-time = Group time is empty
-time-transfer-panel-warning-add-success = Time successfully added
-time-transfer-panel-warning-set-success = Time successfully overwritten
-time-transfer-panel-warning-transfer-process = Time transfer in progress...
-time-transfer-panel-checkbox-group = Group
-time-transfer-overall-checkbox = Overall
-time-transfer-panel-search-placeholder = Search jobs
+time-transfer-panel-title = Перенос Времени
+time-transfer-panel-player-label = Игрок
+time-transfer-panel-time = Время
+time-transfer-panel-add-time = Добавить время
+time-transfer-panel-set-time = Задать время
+time-transfer-panel-set-time-confirm = Подтвердить
+time-transfer-panel-warning-no-player = Игрок не выбран
+time-transfer-panel-warning-no-job = Роль не выбрана
+time-transfer-panel-warning-group-no-time = Время группы не указано
+time-transfer-panel-warning-add-success = Время успешно добавлено
+time-transfer-panel-warning-set-success = Время успешно перезаписано
+time-transfer-panel-warning-transfer-process = Перенос времени...
+time-transfer-panel-checkbox-group = Группа
+time-transfer-overall-checkbox = Общее
+time-transfer-panel-search-placeholder = Поиск ролей
 
 
-cmd-timetransferpanel-desc = Opens time transfer menu
-admin-player-actions-window-time-transfer = Time Transfer
-time-transfer-panel-no-player-database-message = Player not found in database
+cmd-timetransferpanel-desc = Открывает меню переноса времени
+admin-player-actions-window-time-transfer = Перенос Времени
+time-transfer-panel-no-player-database-message = Игрок не найден в базе данных
 
 # Please change it if you really-really need to do it
-time-transfer-panel-author = Made by BombasterDS for Goobstation
+time-transfer-panel-author = Создано BombasterDS для Goobstation

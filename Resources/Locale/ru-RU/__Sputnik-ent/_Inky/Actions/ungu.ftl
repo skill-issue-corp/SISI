@@ -1,2 +1,2 @@
-ent-ActionDash = Dash
-    .desc = Charge forward into a target or just for fun!
+ent-ActionDash = Рывок
+    .desc = Рваните вперёд к цели или просто ради забавы!

@@ -1,6 +1,6 @@
-ent-RevShieldRipper = shield ripper
-    .desc = A device that quickly and painfully rips the mindshield out of someone. It can only be used once.
+ent-RevShieldRipper = разрушитель щита
+    .desc = Быстро и болезненно вырывает щит разума. Одноразовое устройство.
 
-ent-FakeMindShieldImplanterRev = fake mindshield implanter
+ent-FakeMindShieldImplanterRev = имплантер поддельного щита разума
     .desc = { ent-BaseImplantOnlyImplanter.desc }
-    .suffix = Fake Mindshield
+    .suffix = Поддельный Щит Разума

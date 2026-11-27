@@ -1,9 +1,9 @@
-ent-GoobClothingOuterHardsuitSpirate = modified EVA suit
-    .desc = A modified suit to allow space pirates to board shuttles and stations while avoiding the maw of the void. Comes with additional protection and is lighter to move in.
+ent-GoobClothingOuterHardsuitSpirate = модифицированный костюм EVA
+    .desc = Костюм, переделанный для космических пиратов, чтобы они могли брать на абордаж шаттлы и станции и не сгинуть в космической бездне. В нём удобнее двигаться, и он лучше защищает.
 
-ent-GoobClothingHeadHelmetHardsuitSpirate = modified EVA helmet
-    .desc = A modified helmet to allow space pirates to intimidate their customers whilst staying safe from the void. Comes with some additional protection.
+ent-GoobClothingHeadHelmetHardsuitSpirate = модифицированный шлем EVA
+    .desc = Шлем, переделанный для космических пиратов, чтобы они могли пугать своих клиентов и не бояться вакуума. Обеспечивает дополнительную защиту.
 
 ent-GoobSuitStorageSpirate = { ent-SuitStorageBase }
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Spirate
+    .suffix = Космопират

@@ -7,8 +7,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-hydrobe-1 = Do you love soil? Then buy our clothes!
-advertisement-hydrobe-2 = Get outfits to match your green thumb here!
-advertisement-hydrobe-3 = Here to give you an outfit perfect for handling plants!
-advertisement-hydrobe-4 = Perfect outfits for tree huggers... or just literal trees!
-advertisement-hydrobe-5 = Wear green and grow!
+advertisement-hydrobe-1 = Любите землю? Тогда покупайте нашу одежду!
+advertisement-hydrobe-2 = Здесь наряды под стать вашему садоводческому таланту!
+advertisement-hydrobe-3 = У нас есть одежда, идеально подходящая для работы с растениями!
+advertisement-hydrobe-4 = Идеальные наряды для любителей обниматься с деревьями... и для самих деревьев!
+advertisement-hydrobe-5 = Носите зелёное и растите!

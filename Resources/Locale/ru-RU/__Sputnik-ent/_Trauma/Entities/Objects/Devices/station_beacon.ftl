@@ -1,11 +1,11 @@
 ent-DefaultStationBeaconXenobio = { ent-DefaultStationBeaconScience }
     .desc = { ent-DefaultStationBeaconScience.desc }
-    .suffix = Xenobio
+    .suffix = Ксенобио
 
 ent-DefaultStationBeaconGenetics = { ent-DefaultStationBeaconScience }
     .desc = { ent-DefaultStationBeaconScience.desc }
-    .suffix = Genetics
+    .suffix = Генетика
 
 ent-DefaultStationBeaconReactor = { ent-DefaultStationBeaconEngineering }
     .desc = { ent-DefaultStationBeaconEngineering.desc }
-    .suffix = Reactor
+    .suffix = Реактор

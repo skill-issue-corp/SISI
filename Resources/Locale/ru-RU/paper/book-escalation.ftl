@@ -4,30 +4,30 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-book-text-escalation = When it comes to getting robusted, it's all about strategy. Do it right and you'll be the envy of the station. Do it wrong and the gods themselves may turn against you. Personally, I always aim for the former...
+book-text-escalation = Когда вас пытаются заробастить, главное - стратегия. Сделаете всё правильно, и вам позавидует вся станция. Ошибётесь, и против вас могут ополчиться сами боги. Лично я всегда целюсь в первое...
 
-        First things first: let the insults fly! This is your chance to really let your opponent know what you think of their ridiculously large shoes and that annoying bike horn.
+        Перво-наперво: дайте волю оскорблениям! Это ваш шанс высказать противнику всё, что вы думаете о его нелепо огромных ботинках и раздражающем велосипедном гудке.
 
-        No conflict is complete without a little bit of physicality. Give your opponent a good shove or two, and if you're lucky, they'll stumble and fall, providing even more opportunities for insults.
+        Ни один конфликт не обходится без небольшой потасовки. Хорошенько толкните противника разок-другой. Если повезёт, он споткнётся и упадёт, а у вас будет ещё больше поводов его оскорбить.
 
-        But beware, because by now your opponent is probably trying to kill you. So, try to calm things down a bit. It'll make you look good during the inevitable homicide investigation.
+        Но будьте осторожны: к этому времени противник наверняка уже пытается вас убить. Попробуйте немного унять пыл. Это выставит вас в выгодном свете на неизбежном расследовании убийства.
 
-        If deescalation doesn't work, it's time to grab a weapon. But be smart about it - choose something that looks like it couldn't possibly be deadly, like this book.
+        Если унять пыл не удалось, хватайтесь за оружие. Но сделайте это с умом - выберите то, что выглядит совершенно безобидно, вроде этой книги.
 
-        And if you're both still standing, it's time to pull out the big guns. Find the sharpest thing you can and end things, because everyone's getting kind of tired of this by now.
+        Если вы оба всё ещё на ногах, пора пустить в ход тяжёлую артиллерию. Найдите что-нибудь поострее и покончите с этим, а то всем уже порядком надоело смотреть.
 
-        Now parade your vanquished opponent through the halls to the medbay so that everyone knows just how robust you really are.
+        Теперь протащите поверженного противника по коридорам в медотсек, чтобы все увидели, насколько вы робастны.
 
-        Remember, it's all about conserving energy. Let your opponent do some of the escalation for you - it's a win-win!
+        Помните, главное - экономить силы. Пусть противник выполнит часть эскалации за вас - все в выигрыше!
 
-book-text-escalation-security = Get it right and you'll have the whole station calling you shitsec. Get it wrong and you'll face harmbatoning from the gods. Personally, I always aim for the former...
+book-text-escalation-security = Сделаете всё правильно, и вся станция будет звать вас щиткьюрити. Ошибётесь, и боги пустят в ход боевые дубинки. Лично я всегда целюсь в первое...
 
-        They say the pen is mightier than the sword, but you don't have a sword, you have a stun baton, and as soon as you start writing, any suspect is going to leave.
+        Говорят, перо сильнее меча, но у вас нет меча. У вас электрошоковая дубинка, а как только вы начнёте писать, подозреваемый удерёт.
 
-        So, try starting your confrontations with words. It probably won't get you called shitsec, but it's also not likely to be very effective against someone with lethal intent.
+        Так что попробуйте начинать стычки со слов. Щиткьюрити вас, скорее всего, не назовут, но против того, кто вознамерился вас убить, это вряд ли сработает.
 
-        Your next move should be to use non-lethal or less lethal devices, like stun batons, disablers, flashes, and flashbangs. Just make sure you get some training on these before trying to use them - offering them to a suspect in exchange for their cooperation is not an effective use of these tools.
+        Следом пустите в ход нелетальные или менее летальные средства, вроде электрошоковых дубинок, дизейблеров, вспышек и светошумовых гранат. Только сначала научитесь ими пользоваться - предлагать их подозреваемому в обмен на сотрудничество неэффективно.
 
-        If you're lucky enough to run into a suspect who is a lethal threat, it's time to bust out all the goodies you've been hoarding from the armory.
+        Если вам посчастливилось столкнуться с подозреваемым, представляющим смертельную угрозу, пора достать все сокровища, которые вы запасли из оружейной.
 
-        For an extra intimidation factor, take your robusted suspects to the medbay to be healed instead of the brig. That way, the whole crew can see just how robust you are.
+        Чтобы внушить ещё больший страх, волоките заробастенных подозреваемых на лечение в медотсек вместо брига. Пусть весь экипаж увидит, насколько вы робастны.

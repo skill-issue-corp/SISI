@@ -1,30 +1,30 @@
-ent-WeldingFuelTank = fuel tank
-    .desc = A fuel tank. It's used to store high amounts of fuel.
-    .suffix = Empty
+ent-WeldingFuelTank = топливный резервуар
+    .desc = Топливный резервуар. Служит для хранения большого количества топлива.
+    .suffix = Пусто
 
 ent-WeldingFuelTankFull = { ent-WeldingFuelTank }
     .desc = { ent-WeldingFuelTank.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
-ent-WeldingFuelTankHighCapacity = high-capacity fuel tank
-    .desc = A highly pressurized fuel tank made to hold gargantuan amounts of welding fuel.
-    .suffix = Full
+ent-WeldingFuelTankHighCapacity = топливный резервуар высокой ёмкости
+    .desc = Топливный резервуар высокого давления, рассчитанный на хранение огромного количества сварочного топлива.
+    .suffix = Полностью заполнено
 
-ent-WaterTank = water tank
-    .desc = A water tank. It's used to store high amounts of water.
-    .suffix = Empty
+ent-WaterTank = резервуар для воды
+    .desc = Резервуар для воды. Служит для хранения большого количества воды.
+    .suffix = Пусто
 
 ent-WaterTankFull = { ent-WaterTank }
     .desc = { ent-WaterTank.desc }
-    .suffix = Full
+    .suffix = Полностью заполнено
 
-ent-WaterCooler = water cooler
-    .desc = Seems like a good place to stand and waste time. It has a stock of paper cups on the side.
+ent-WaterCooler = кулер для воды
+    .desc = Похоже, отличное место, чтобы постоять и убить время. Сбоку есть запас бумажных стаканчиков.
 
-ent-WaterTankHighCapacity = high-capacity water tank
-    .desc = A highly pressurized water tank made to hold gargantuan amounts of water.
-    .suffix = Full
+ent-WaterTankHighCapacity = резервуар для воды высокой ёмкости
+    .desc = Резервуар высокого давления, рассчитанный на хранение огромного количества воды.
+    .suffix = Полностью заполнено
 
 ent-GenericTank = { ent-StorageTank }
     .desc = { ent-StorageTank.desc }
-    .suffix = Empty
+    .suffix = Пусто

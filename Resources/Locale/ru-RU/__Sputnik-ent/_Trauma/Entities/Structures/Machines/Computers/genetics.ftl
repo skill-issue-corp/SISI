@@ -1,7 +1,7 @@
-ent-ComputerGeneticsConsoleEmpty = genetics console
-    .desc = From here you can research mysteries of DNA!
-    .suffix = Empty
+ent-ComputerGeneticsConsoleEmpty = консоль генетики
+    .desc = Здесь можно изучать тайны ДНК!
+    .suffix = Пусто
 
 ent-ComputerGeneticsConsole = { ent-ComputerGeneticsConsoleEmpty }
     .desc = { ent-ComputerGeneticsConsoleEmpty.desc }
-    .suffix = Filled
+    .suffix = Заполнено

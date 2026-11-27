@@ -1,14 +1,14 @@
-ent-MobFermidBase = fermid
-    .desc = Extremely hostile asteroid-dwelling bugs. Best to avoid them wherever possible.
+ent-MobFermidBase = фермид
+    .desc = Крайне агрессивные жуки, обитающие на астероидах. По возможности лучше держаться от них подальше.
 
-ent-MobFermidSmall = fermid
+ent-MobFermidSmall = фермид
     .desc = { ent-MobFermidBase.desc }
 
-ent-MobFermidLarge = fermid
+ent-MobFermidLarge = фермид
     .desc = { ent-MobFermidBase.desc }
 
-ent-MobFermidWarrior = warrior fermid
+ent-MobFermidWarrior = фермид-воин
     .desc = { ent-MobFermidBase.desc }
 
-ent-MobFermidQueen = fermid queen
-    .desc = Did anyone bring insect repellent?
+ent-MobFermidQueen = королева фермидов
+    .desc = Кто-нибудь взял средство от насекомых?

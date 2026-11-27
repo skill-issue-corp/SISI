@@ -1,5 +1,5 @@
-ent-TongueSpike = biomass spike
-    .desc = Hardened biomass, shaped into a spike. Very pointy!
+ent-TongueSpike = шип из биомассы
+    .desc = Затвердевшая биомасса в форме шипа. Очень острый!
 
-ent-TongueSpikeChem = chem spike
-    .desc = Hardened biomass, shaped into... something.
+ent-TongueSpikeChem = химический шип
+    .desc = Затвердевшая биомасса в форме... чего-то.

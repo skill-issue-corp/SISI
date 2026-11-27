@@ -7,10 +7,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Examination for different levels of wiring protection
-wires-panel-component-on-examine-security-level1 = There is a steel plate preventing access to the internal wiring. Use a [color=cyan]Crowbar[/color] to remove it.
-wires-panel-component-on-examine-security-level2 = A steel plate has been welded to the inside of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Welder[/color] to free it.
-wires-panel-component-on-examine-security-level3 = There is a plasteel plate preventing access to the internal wiring. Use a [color=cyan]Crowbar[/color] to remove it.
-wires-panel-component-on-examine-security-level4 = A plasteel plate has been welded to the inside of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Welder[/color] to free it.
-wires-panel-component-on-examine-security-level5 = The inside of the [color=lightgray]maintenance panel[/color] is protected by a security grille. Use [color=cyan]Wirecutters[/color] to remove  it.
-wires-panel-component-on-examine-security-level6 = A plasteel plate sits within the interior of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Crowbar[/color] to remove it.
-wires-panel-component-on-examine-security-level7 = A welded plasteel plate protects the interior of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Welder[/color] to free it.
+wires-panel-component-on-examine-security-level1 = Доступ к проводке перекрывает стальная пластина. Чтобы снять её, воспользуйтесь [color=cyan]Ломом[/color].
+wires-panel-component-on-examine-security-level2 = К внутренней стороне [color=lightgray]сервисной панели[/color] приварена стальная пластина. Чтобы отсоединить её, воспользуйтесь [color=cyan]Сварочным Аппаратом[/color].
+wires-panel-component-on-examine-security-level3 = Доступ к проводке перекрывает пласталевая пластина. Чтобы снять её, воспользуйтесь [color=cyan]Ломом[/color].
+wires-panel-component-on-examine-security-level4 = К внутренней стороне [color=lightgray]сервисной панели[/color] приварена пласталевая пластина. Чтобы отсоединить её, воспользуйтесь [color=cyan]Сварочным Аппаратом[/color].
+wires-panel-component-on-examine-security-level5 = Внутри [color=lightgray]сервисной панели[/color] стоит защитная решётка. Чтобы снять её, воспользуйтесь  [color=cyan]Кусачками[/color].
+wires-panel-component-on-examine-security-level6 = Внутри [color=lightgray]сервисной панели[/color] установлена пласталевая пластина. Чтобы снять её, воспользуйтесь [color=cyan]Ломом[/color].
+wires-panel-component-on-examine-security-level7 = Внутреннюю часть [color=lightgray]сервисной панели[/color] защищает приваренная пласталевая пластина. Чтобы отсоединить её, воспользуйтесь [color=cyan]Сварочным Аппаратом[/color].

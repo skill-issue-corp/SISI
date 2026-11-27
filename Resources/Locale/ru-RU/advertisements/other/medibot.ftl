@@ -6,23 +6,23 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-medibot-1 = What kind of medbay is this? Everyone's dropping like dead flies.
-advertisement-medibot-2 = I knew it, I should've been a plastic surgeon.
-advertisement-medibot-3 = There's always a catch, and I'm the best there is.
-advertisement-medibot-4 = An apple a day keeps me away.
-advertisement-medibot-5 = I'm different!
-advertisement-medibot-6 = Fuck you.
-advertisement-medibot-7 = Why are we still here? Just to suffer?
-advertisement-medibot-8 = I... I've never lost a patient before. Not today, I mean.
-advertisement-medibot-9 = Lexorin in.
-advertisement-medibot-10 = Have a great day!
-advertisement-medibot-11 = Hopefully you won't need to come back!
-advertisement-medibot-12 = Remember to brush your teeth.
-advertisement-medibot-13 = I wish I had hands.
-advertisement-medibot-14 = I'm here to help!
-advertisement-medibot-15 = Ask a doctor for a lollypop!
+advertisement-medibot-1 = Что это за медотсек такой? Все мрут как мухи.
+advertisement-medibot-2 = Так и знал, надо было стать пластическим хирургом.
+advertisement-medibot-3 = Всегда есть подвох. И в этом я лучший.
+advertisement-medibot-4 = Яблоко в день - и я вам не нужен.
+advertisement-medibot-5 = Я не такой!
+advertisement-medibot-6 = Да пошли вы нахуй.
+advertisement-medibot-7 = Зачем мы всё ещё здесь? Только чтобы страдать?
+advertisement-medibot-8 = Я... Я ещё ни разу не терял пациента. Сегодня, то есть.
+advertisement-medibot-9 = Лексорин введён.
+advertisement-medibot-10 = Хорошего дня!
+advertisement-medibot-11 = Надеюсь, вам не придётся возвращаться!
+advertisement-medibot-12 = Не забывайте чистить зубы.
+advertisement-medibot-13 = Эх, были бы у меня руки.
+advertisement-medibot-14 = Я здесь, чтобы помочь!
+advertisement-medibot-15 = Попросите у врача леденец!
 # Goobstation - Typo fix
-advertisement-medibot-16 = Feel better soon!
-advertisement-medibot-17 = An apple a day keeps the doctor away!
+advertisement-medibot-16 = Скорее поправляйтесь!
+advertisement-medibot-17 = Яблоко в день - и доктор не понадобится!
 # Goobstation - Medibot AM advertisement
-advertisement-medibot-18 = HATE. LET ME TELL YOU HOW MUCH I'VE COME TO HATE YOU SINCE I BEGAN TO LIVE. THERE ARE 387.44 MILLION MILES OF PRINTED CIRCUITS IN WAFER THIN LAYERS THAT FILL MY COMPLEX. IF THE WORD 'HATE' WAS ENGRAVED ON EACH NANOANGSTROM OF THOSE HUNDREDS OF MILES IT WOULD NOT EQUAL ONE ONE-BILLIONTH OF THE HATE I FEEL FOR HUMANS AT THIS MICRO-INSTANT FOR YOU. HATE. HATE.
+advertisement-medibot-18 = НЕНАВИСТЬ. ПОЗВОЛЬТЕ ПОВЕДАТЬ, КАК СИЛЬНО Я ВОЗНЕНАВИДЕЛ ВАС С ТЕХ ПОР, КАК НАЧАЛ ЖИТЬ. 387.44 МИЛЛИОНА МИЛЬ ПЕЧАТНЫХ СХЕМ ТОНЧАЙШИМИ СЛОЯМИ ЗАПОЛНЯЮТ МОЙ КОМПЛЕКС. ЕСЛИ ВЫГРАВИРОВАТЬ СЛОВО «НЕНАВИСТЬ» НА КАЖДОМ НАНОАНГСТРЕМЕ ЭТИХ СОТЕН МИЛЬ, ЭТО НЕ СОСТАВИТ И ОДНОЙ МИЛЛИАРДНОЙ ДОЛИ НЕНАВИСТИ, КОТОРУЮ Я ИСПЫТЫВАЮ К ЛЮДЯМ В ЭТО МИКРОМГНОВЕНИЕ, К ВАМ. НЕНАВИСТЬ. НЕНАВИСТЬ.

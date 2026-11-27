@@ -1,29 +1,29 @@
-ent-BaseShellShotgun = shell (12 Gauge)
+ent-BaseShellShotgun = ружейный патрон (12 Калибр)
     .desc = { ent-BaseCartridge.desc }
 
-ent-ShellShotgunBeanbag = shell (12 Gauge beanbag)
-    .desc = The standard cartridge used by most modern shotguns. Beanbag ammunition contains a single less-than-lethal projectile that can stun targets.
+ent-ShellShotgunBeanbag = ружейный патрон (12 Калибр травматические)
+    .desc = Стандартный патрон для большинства современных дробовиков. Травматический патрон заряжен одним мягким снарядом, который может оглушить цель.
 
-ent-ShellShotgunSlug = shell (12 Gauge slug)
-    .desc = The standard cartridge used by most modern shotguns. Slug ammunition contains a single high-density projectile effective at longer ranges than pellet ammunition.
+ent-ShellShotgunSlug = ружейный патрон (12 Калибр пуля)
+    .desc = Стандартный патрон для большинства современных дробовиков. Пулевой патрон содержит одну тяжёлую пулю и эффективен на большей дистанции, чем картечный.
 
-ent-ShellShotgunFlare = shell (12 Gauge flare)
-    .desc = The standard cartridge used by most modern shotguns. Flare ammunition contains a single brightly-burning projectile intended for illumination and signalling, rather than combat.
+ent-ShellShotgunFlare = ружейный патрон (12 Калибр сигнальные)
+    .desc = Стандартный патрон для большинства современных дробовиков. Сигнальный патрон содержит один ярко горящий снаряд для освещения и подачи сигналов.
 
-ent-ShellShotgun = shell (12 Gauge)
-    .desc = The standard cartridge used by most modern shotguns. Standard kinetic ammunition is common and useful in most situations.
+ent-ShellShotgun = ружейный патрон (12 Калибр)
+    .desc = Стандартный патрон для большинства современных дробовиков. Обычные кинетические патроны широко распространены и пригодны в большинстве ситуаций.
 
-ent-ShellShotgunIncendiary = shell (12 Gauge incendiary)
-    .desc = The standard cartridge used by most modern shotguns. Incendiary ammunition contains a self-igniting compound that sets targets ablaze.
+ent-ShellShotgunIncendiary = ружейный патрон (12 Калибр зажигательные)
+    .desc = Стандартный патрон для большинства современных дробовиков. Зажигательные боеприпасы содержат самовоспламеняющийся состав, поджигающий цель.
 
-ent-ShellShotgunPractice = shell (12 Gauge practice)
-    .desc = The standard cartridge used by most modern shotguns. Practice ammunition fires chalk pellets that sting a little, but otherwise cause no lasting damage.
+ent-ShellShotgunPractice = ружейный патрон (12 Калибр учебные)
+    .desc = Стандартный патрон для большинства современных дробовиков. Учебный патрон стреляет меловыми дробинками, которые жалят, но не причиняют серьёзного вреда.
 
-ent-ShellTranquilizer = shell (12 Gauge tranquilizer)
-    .desc = The standard cartridge used by most modern shotguns. Tranquilizer ammunition contains a single ballistic syringe loaded with a strong sedative that harmlessly puts targets to sleep.
+ent-ShellTranquilizer = ружейный патрон (12 Калибр транквилизатор)
+    .desc = Стандартный патрон для большинства современных дробовиков. Снаряд с транквилизатором представляет собой один шприц с сильным успокоительным, которое безопасно усыпляет цель.
 
-ent-ShellShotgunImprovised = improvised shotgun shell
-    .desc = A homemade shotgun shell loaded with chunks of glass shrapnel. Surprisingly effective, but the spread is so wide that you couldn't hit the broad side of a barn.
+ent-ShellShotgunImprovised = самодельный ружейный патрон
+    .desc = Самодельный ружейный патрон со стеклянными осколками. На удивление действенный, только разброс такой, что и по стене сарая не попадёте.
 
-ent-ShellShotgunUranium = uranium shotgun shell
-    .desc = The standard cartridge used by most modern shotguns. Uranium ammunition replaces the lead core of the pellets with fissile material, irradiating targets from the inside.
+ent-ShellShotgunUranium = урановый ружейный патрон
+    .desc = Стандартный патрон для большинства современных дробовиков. В урановых патронах свинцовые сердечники картечин заменены делящимся материалом, который облучает цель изнутри.

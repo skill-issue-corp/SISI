@@ -1,215 +1,215 @@
-ent-BaseXenoArtifactEffect = effect
-    .desc = Unknown
+ent-BaseXenoArtifactEffect = эффект
+    .desc = Неизвестно
 
-ent-BaseOneTimeXenoArtifactEffect = one-time-effect
-    .desc = Unknown
+ent-BaseOneTimeXenoArtifactEffect = одноразовый эффект
+    .desc = Неизвестно
 
 ent-XenoArtifactBecomeLamp = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Emits strange light
+    .desc = Излучает странный свет
 
 ent-XenoArtifactBecomeRainbowLamp = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Emits shifting light
+    .desc = Излучает меняющийся свет
 
 ent-XenoArtifactEffectUniversalIntercom = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Obtains ability of long-distance communication device
+    .desc = Приобретает свойства устройства дальней связи
 
 ent-XenoArtifactBecomeRandomInstrument = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Obtains ability of musical instrument
+    .desc = Приобретает свойства музыкального инструмента
 
 ent-XenoArtifactStorage = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Obtains ability of hidden storage
+    .desc = Приобретает свойства тайника
 
 ent-XenoArtifactPhasing = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Becomes phased
+    .desc = Становится нематериальным
 
 ent-XenoArtifactWandering = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Starts to move sporadically
+    .desc = Начинает двигаться рывками
 
 ent-XenoArtifactSolutionStorage = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Obtains ability of container for chemical solutions
+    .desc = Приобретает свойства ёмкости для химических растворов
 
 ent-XenoArtifactSpeedUp = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Improves holder movement speed
+    .desc = Ускоряет передвижение носителя
 
 ent-XenoArtifactDrill = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Obtains ability of drill
+    .desc = Приобретает свойства дрели
 
 ent-XenoArtifactGenerateEnergy = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Produces power
+    .desc = Вырабатывает энергию
 
 ent-XenoArtifactGun = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Obtains ability of firearm
+    .desc = Приобретает свойства огнестрельного оружия
 
 ent-XenoArtifactGhost = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Becomes sentient
+    .desc = Обретает разум
 
 ent-XenoArtifactOmnitool = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Obtains ability of omnitool
+    .desc = Приобретает свойства универсального инструмента
 
 ent-XenoArtifactEffectBadFeeling = { ent-BaseXenoArtifactEffect }
-    .desc = Broadcasts sublime message
+    .desc = Передаёт телепатическое послание
 
 ent-XenoArtifactEffectGoodFeeling = { ent-BaseXenoArtifactEffect }
-    .desc = Broadcasts sublime message
+    .desc = Передаёт телепатическое послание
 
 ent-XenoArtifactEffectJunkSpawn = { ent-BaseXenoArtifactEffect }
-    .desc = Create recyclable junk
+    .desc = Создаёт хлам, пригодный для переработки
 
 ent-XenoArtifactEffectLightFlicker = { ent-BaseXenoArtifactEffect }
-    .desc = Minor electromagnetic interference
+    .desc = Слабые электромагнитные помехи
 
 ent-XenoArtifactPotassiumWave = { ent-BaseXenoArtifactEffect }
-    .desc = Produces potassium
+    .desc = Вырабатывает калий
 
 ent-XenoArtifactFloraSpawn = { ent-BaseXenoArtifactEffect }
-    .desc = Produces flora
+    .desc = Создаёт растения
 
 ent-XenoArtifactChemicalPuddle = { ent-BaseXenoArtifactEffect }
-    .desc = Produces puddle of chemical mixture
+    .desc = Создаёт лужу химической смеси
 
 ent-XenoArtifactThrowThingsAround = { ent-BaseXenoArtifactEffect }
-    .desc = Minor implosion
+    .desc = Небольшая имплозия
 
 ent-XenoArtifactColdWave = { ent-BaseXenoArtifactEffect }
-    .desc = Cools down surrounding gas
+    .desc = Охлаждает окружающий газ
 
 ent-XenoArtifactHeatWave = { ent-BaseXenoArtifactEffect }
-    .desc = Heats up surrounding gas greatly
+    .desc = Сильно нагревает окружающий газ
 
 ent-XenoArtifactFoamMild = { ent-BaseXenoArtifactEffect }
-    .desc = Produces chemical foam
+    .desc = Создаёт химическую пену
 
 ent-XenoArtifactRandomInstrumentSpawn = { ent-BaseXenoArtifactEffect }
-    .desc = Creates musical instrument
+    .desc = Создаёт музыкальный инструмент
 
 ent-XenoArtifactMonkeySpawn = { ent-BaseXenoArtifactEffect }
-    .desc = Creates primate
+    .desc = Создаёт примата
 
 ent-XenoArtifactRadioactive = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Becomes mildly radioactive
+    .desc = Становится слабо радиоактивным
 
 ent-XenoArtifactChargeBattery = { ent-BaseXenoArtifactEffect }
-    .desc = Charges up batteries
+    .desc = Заряжает батареи
 
 ent-XenoArtifactKnock = { ent-BaseXenoArtifactEffect }
-    .desc = Mild electromagnetic interference
+    .desc = Умеренные электромагнитные помехи
 
 ent-XenoArtifactMagnet = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Create small gravity well
+    .desc = Создаёт небольшую гравитационную яму
 
 ent-XenoArtifactMagnetNegative = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Create small gravity well
+    .desc = Создаёт небольшую гравитационную яму
 
 ent-XenoArtifactStealth = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Create light interference
+    .desc = Создаёт оптические помехи
 
 ent-XenoArtifactRareMaterialSpawnSilver = { ent-BaseXenoArtifactEffect }
-    .desc = Create silver
+    .desc = Создаёт серебро
 
 ent-XenoArtifactRareMaterialSpawnPlasma = { ent-BaseXenoArtifactEffect }
-    .desc = Create plasma
+    .desc = Создаёт плазму
 
 ent-XenoArtifactRareMaterialSpawnGold = { ent-BaseXenoArtifactEffect }
-    .desc = Create gold
+    .desc = Создаёт золото
 
 ent-XenoArtifactRareMaterialSpawnUranium = { ent-BaseXenoArtifactEffect }
-    .desc = Create uranium
+    .desc = Создаёт уран
 
 ent-XenoArtifactAngryCarpSpawn = { ent-BaseXenoArtifactEffect }
-    .desc = Create hostile fish
+    .desc = Создаёт враждебную рыбу
 
 ent-XenoArtifactFaunaSpawn = { ent-BaseXenoArtifactEffect }
-    .desc = Create friendly fauna
+    .desc = Создаёт дружелюбную фауну
 
 ent-XenoArtifactHostileFaunaSpawn = { ent-BaseXenoArtifactEffect }
-    .desc = Create hostile fauna
+    .desc = Создаёт враждебную фауну
 
 ent-XenoArtifactCashSpawn = { ent-BaseXenoArtifactEffect }
-    .desc = Create money
+    .desc = Создаёт деньги
 
 ent-XenoArtifactShatterWindows = { ent-BaseXenoArtifactEffect }
-    .desc = Break windows
+    .desc = Разбивает окна
 
 ent-XenoArtifactFoamGood = { ent-BaseXenoArtifactEffect }
-    .desc = Creates wave of helpful foam
+    .desc = Создаёт волну полезной пены
 
 ent-XenoArtifactFoamDangerous = { ent-BaseXenoArtifactEffect }
-    .desc = Creates wave of harmful foam
+    .desc = Создаёт волну вредной пены
 
 ent-XenoArtifactPuddleRare = { ent-BaseXenoArtifactEffect }
-    .desc = Creates puddle of chemicals
+    .desc = Создаёт лужу химикатов
 
 ent-XenoArtifactAnomalySpawn = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Creates anomaly
+    .desc = Создаёт аномалию
 
 ent-XenoArtifactIgnite = { ent-BaseXenoArtifactEffect }
-    .desc = Pyrokinesis
+    .desc = Пирокинез
 
 ent-XenoArtifactTeleport = { ent-BaseXenoArtifactEffect }
-    .desc = Teleportation
+    .desc = Телепортация
 
 ent-XenoArtifactEmp = { ent-BaseXenoArtifactEffect }
-    .desc = Dangerous electromagnetic interference
+    .desc = Опасные электромагнитные помехи
 
 ent-XenoArtifactPolyMonkey = { ent-BaseXenoArtifactEffect }
-    .desc = Temporarily reshape flesh to fur
+    .desc = Временно превращает плоть в шерсть
 
 ent-XenoArtifactPolyLizard = { ent-BaseXenoArtifactEffect }
-    .desc = Temporarily reshape flesh to scale
+    .desc = Временно превращает плоть в чешую
 
 ent-XenoArtifactPolyLuminous = { ent-BaseXenoArtifactEffect }
-    .desc = Temporarily reshape flesh to light
+    .desc = Временно превращает плоть в свет
 
 ent-XenoArtifactRadioactiveStrong = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Becomes highly radioactive
+    .desc = Становится сильно радиоактивным
 
 ent-XenoArtifactMaterialSpawnGlass = { ent-BaseXenoArtifactEffect }
-    .desc = Create glass
+    .desc = Создаёт стекло
 
 ent-XenoArtifactMaterialSpawnSteel = { ent-BaseXenoArtifactEffect }
-    .desc = Create steel
+    .desc = Создаёт сталь
 
 ent-XenoArtifactMaterialSpawnPlastic = { ent-BaseXenoArtifactEffect }
-    .desc = Create plastic
+    .desc = Создаёт пластик
 
 ent-XenoArtifactPortal = { ent-BaseXenoArtifactEffect }
-    .desc = Create short-living bluespace portal
+    .desc = Создаёт недолговечный блюспейс-портал
 
 ent-XenoArtifactArtifactSpawn = { ent-BaseXenoArtifactEffect }
-    .desc = Create artifact
+    .desc = Создаёт артефакт
 
 ent-XenoArtifactShuffle = { ent-BaseXenoArtifactEffect }
-    .desc = Switch places of sentient beings
+    .desc = Меняет разумных существ местами
 
 ent-XenoArtifactHealAll = { ent-BaseXenoArtifactEffect }
-    .desc = Miraculous healing
+    .desc = Чудесное исцеление
 
 ent-XenoArtifactTesla = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Mass destruction
+    .desc = Массовое разрушение
 
 ent-XenoArtifactSingularity = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Imminent doom
+    .desc = Неминуемая погибель
 
 ent-XenoArtifactExplosionScary = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Small scale high-speed nuclear reaction
+    .desc = Маломасштабная быстропротекающая ядерная реакция
 
 ent-XenoArtifactBoom = { ent-BaseOneTimeXenoArtifactEffect }
-    .desc = Explosion
+    .desc = Взрыв
 
 ent-XenoArtifactEffectCreationGasPlasma = { ent-BaseXenoArtifactEffect }
-    .desc = Expels plasma
+    .desc = Выпускает плазму
 
 ent-XenoArtifactEffectCreationGasTritium = { ent-BaseXenoArtifactEffect }
-    .desc = Expels tritium
+    .desc = Выпускает тритий
 
 ent-XenoArtifactEffectCreationGasAmmonia = { ent-BaseXenoArtifactEffect }
-    .desc = Expels ammonia
+    .desc = Выпускает аммиак
 
 ent-XenoArtifactEffectCreationGasFrezon = { ent-BaseXenoArtifactEffect }
-    .desc = Expels frezon
+    .desc = Выпускает фрезон
 
 ent-XenoArtifactEffectCreationGasNitrousOxide = { ent-BaseXenoArtifactEffect }
-    .desc = Expels nitrous oxide
+    .desc = Выпускает оксид азота
 
 ent-XenoArtifactEffectCreationGasCarbonDioxide = { ent-BaseXenoArtifactEffect }
-    .desc = Expels carbon dioxide
+    .desc = Выпускает углекислый газ

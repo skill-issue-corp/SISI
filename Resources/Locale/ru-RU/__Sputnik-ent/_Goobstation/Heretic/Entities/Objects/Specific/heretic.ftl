@@ -1,43 +1,43 @@
-ent-CodexCicatrix = codex cicatrix
-    .desc = This heavy tome is full of cryptic scribbles and impossible diagrams. According to legend, it can be deciphered to reveal the secrets of the veil between worlds.
-    .suffix = MagicItem
+ent-CodexCicatrix = кодекс цикатрикс
+    .desc = Тяжёлый том, полный загадочных каракулей и невозможных схем. По легенде, тот, кто его расшифрует, узнает тайны завесы между мирами.
+    .suffix = МагическийПредмет
 
-ent-CodexMorbus = codex morbus
-    .desc = A hideous, ragged book covered in separately-blinking eyes, all of them staring at you. You have no idea how to hold this thing, and to be honest you're not sure if you want to.
+ent-CodexMorbus = кодекс морбус
+    .desc = Омерзительная потрёпанная книга, покрытая глазами, которые моргают каждый сам по себе. Все смотрят на вас. Вы понятия не имеете, как её держать, да и, честно говоря, сомневаетесь, что хотите.
 
-ent-EldritchPaper = eldritch card
-    .desc = Burn it to reveal the contents hidden behind the Veil of Mansus.
+ent-EldritchPaper = потусторонняя карта
+    .desc = Сожгите её, чтобы открыть содержимое, скрытое за Завесой Мансуса.
 
-ent-HereticPhylactery = phylactery of damnation
-    .desc = Used to steal blood from soon-to-be victims.
+ent-HereticPhylactery = филактерия проклятия
+    .desc = Используется, чтобы красть кровь у будущих жертв.
 
-ent-HereticEldritchFlask = eldritch flask
-    .desc = A flask filled with an unknown substance. Who knows what will happen when you take a sip from it.
+ent-HereticEldritchFlask = потусторонняя фляга
+    .desc = Фляга, полная неизвестного вещества. Кто знает, что случится, если из неё отпить.
 
-ent-HereticProtectiveBlade = eldritch blade
-    .desc = Maelstrom of razors flashing right before your eyes. Why are you stopping to look at it!?
+ent-HereticProtectiveBlade = потусторонний клинок
+    .desc = Вихрь лезвий сверкает прямо у вас перед глазами. Зачем вы остановились посмотреть!?
 
-ent-HereticProtectiveBladeProjectile = eldritch blade
-    .desc = Maelstrom of razors flashing right before your eyes. Why are you stopping to look at it!?
+ent-HereticProtectiveBladeProjectile = потусторонний клинок
+    .desc = Вихрь лезвий сверкает прямо у вас перед глазами. Зачем вы остановились посмотреть!?
 
-ent-InkOfImaginination = Ink of imaginination
-    .desc = Call to the great minimal to bring forth true existence... A closing truth
+ent-InkOfImaginination = Чернила воображажения
+    .desc = Воззови к великому малому, дабы явить подлинное бытие... Последняя истина
 
-ent-LabyrinthHandbook = labyrinth handbook
-    .desc = A book containing the laws and regulations of the Locked Labyrinth, penned on an unknown substance. Its pages squirm and strain, looking to lash out and escape.
+ent-LabyrinthHandbook = справочник по лабиринту
+    .desc = Книга законов и правил Запертого Лабиринта, написанная на неведомом материале. Её страницы извиваются и напрягаются, готовые ударить и вырваться.
 
-ent-LanternHeretic = cracked lantern
-    .desc = It is said that the noon stones are not the same as before. That is not true. I will collect my tears in a bowl. I will use them to ignite an ancient flame. Light, wait for me.
+ent-LanternHeretic = треснувший фонарь
+    .desc = Говорят, полуденные камни уже не те, что прежде. Это неправда. Я соберу свои слёзы в чашу. Ими я зажгу древнее пламя. Свет, дождись меня.
 
-ent-LanternHereticSummon = hint
-    .desc = Strange creature that seems to feel more comfortable behind you.
+ent-LanternHereticSummon = подсказка
+    .desc = Странное существо, которому, похоже, уютнее у вас за спиной.
 
-ent-EldritchCoin = eldritch coin
-    .desc = A surprisingly heavy, ornate coin. Its sides seem to depict a different image each time you look.
+ent-EldritchCoin = потусторонняя монета
+    .desc = Удивительно тяжёлая монета с затейливым узором. Кажется, на её сторонах всякий раз видны новые изображения.
 
-ent-Serpentclave = serpentclave
-    .desc = A strange key made of bones. You can tell by glance that no door will accept it.
+ent-Serpentclave = серпентклав
+    .desc = Странный ключ из костей. С первого взгляда ясно, что он не подойдёт ни к одной двери.
 
 ent-EldritchIdCard = { ent-PassengerIDCard }
     .desc = { ent-PassengerIDCard.desc }
-    .suffix = Heretic
+    .suffix = Еретик

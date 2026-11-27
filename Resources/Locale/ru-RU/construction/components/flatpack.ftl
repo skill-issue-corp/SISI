@@ -4,17 +4,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-flatpack-unpack-no-room = No room to unpack!
-flatpack-examine = Use a [color=yellow]multitool[/color] to unpack this.
-flatpack-entity-name = {$name} flatpack
-flatpack-entity-description = A flatpack used for constructing {INDEFINITE($name)} {$name}.
+flatpack-unpack-no-room = Нет места для распаковки!
+flatpack-examine = Чтобы распаковать, используйте [color=yellow]мультитул[/color].
+flatpack-entity-name = упаковка «{$name}»
+flatpack-entity-description = Упаковка для сборки {$name}.
 
-flatpacker-item-slot-name = Machine board slot
-flatpacker-ui-title = Flatpacker 1001
-flatpacker-ui-materials-label = Materials
-flatpacker-ui-cost-label = Packing Cost
-flatpacker-ui-no-board-label = No board present!
-flatpacker-ui-board-invalid-label = [color=red]Invalid board!
-    Unable to print![/color]
-flatpacker-ui-insert-board = Insert a board to begin.
-flatpacker-ui-pack-button = Pack
+flatpacker-item-slot-name = Слот платы машины
+flatpacker-ui-title = Упаковщик 1001
+flatpacker-ui-materials-label = Материалы
+flatpacker-ui-cost-label = Стоимость Упаковки
+flatpacker-ui-no-board-label = Плата отсутствует!
+flatpacker-ui-board-invalid-label = [color=red]Неподходящая плата!
+    Печать невозможна![/color]
+flatpacker-ui-insert-board = Вставьте плату, чтобы начать.
+flatpacker-ui-pack-button = Упаковать

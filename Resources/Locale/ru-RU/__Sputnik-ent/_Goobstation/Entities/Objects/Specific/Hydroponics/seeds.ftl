@@ -1,2 +1,2 @@
-ent-BluespaceTomatoSeeds = packet of blue tomato seeds
+ent-BluespaceTomatoSeeds = пакет семян синих томатов
     .desc = { ent-SeedBase.desc }

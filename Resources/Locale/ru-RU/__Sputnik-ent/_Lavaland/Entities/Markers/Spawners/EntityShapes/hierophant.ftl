@@ -1,25 +1,25 @@
-ent-BaseHierophantShape = hierophant attack spawner
+ent-BaseHierophantShape = точка спавна атаки иерофанта
     .desc = { ent-MarkerBase.desc }
 
-ent-HierophantShapeCrossBishop = hierophant attack cross bishop spawner
+ent-HierophantShapeCrossBishop = точка спавна диагонального креста иерофанта
     .desc = { ent-BaseHierophantShape.desc }
 
-ent-HierophantShapeCrossRook = hierophant attack cross rook spawner
+ent-HierophantShapeCrossRook = точка спавна прямого креста иерофанта
     .desc = { ent-BaseHierophantShape.desc }
 
-ent-HierophantShapeCrossQueen = hierophant attack cross queen spawner
+ent-HierophantShapeCrossQueen = точка спавна восьмилучевого креста иерофанта
     .desc = { ent-BaseHierophantShape.desc }
 
-ent-HierophantShapeBlink = hierophant attack blink spawner
+ent-HierophantShapeBlink = точка спавна атаки скачком иерофанта
     .desc = { ent-BaseHierophantShape.desc }
 
-ent-HierophantShapeBlinkSafe = hierophant attack safe blink spawner
+ent-HierophantShapeBlinkSafe = точка спавна безопасного скачка иерофанта
     .desc = { ent-HierophantShapeBlink.desc }
 
-ent-HierophantShapeBoxExpanding = hierophant attack box expanding spawner
+ent-HierophantShapeBoxExpanding = точка спавна растущего квадрата иерофанта
     .desc = { ent-MarkerBase.desc }
-    .suffix = Anger
+    .suffix = Ярость
 
-ent-HierophantShapeCrossSequence = hierophant attack cross sequence spawner
+ent-HierophantShapeCrossSequence = точка спавна череды крестов иерофанта
     .desc = { ent-MarkerBase.desc }
-    .suffix = Anger
+    .suffix = Ярость

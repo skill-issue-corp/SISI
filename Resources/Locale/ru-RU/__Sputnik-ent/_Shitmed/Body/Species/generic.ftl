@@ -1,12 +1,12 @@
 ent-OrganBioSynth = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = bio-synthetic
+    .suffix = био-синтетический
 
 ent-OrganBioSynthExternal = { ent-OrganBioSynth }
-    .desc = This synthetic part can be transplanted onto any living organism and it will adapt to its recipient.
+    .desc = Эту синтетическую часть тела можно пересадить любому живому организму, и она приспособится к реципиенту.
 
 ent-OrganBioSynthInternal = { ent-OrganBioSynth }
-    .desc = This synthetic organ can be transplanted into any living organism and it will adapt to its recipient.
+    .desc = Этот синтетический орган можно пересадить любому живому организму, и он приспособится к реципиенту.
 
 ent-OrganBioSynthHead = { ent-OrganBaseHeadSexed }
     .desc = { ent-OrganBaseHeadSexed.desc }

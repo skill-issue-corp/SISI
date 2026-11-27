@@ -1,203 +1,203 @@
-ent-CommandVisitorSpawner = command visitor spawner
+ent-CommandVisitorSpawner = точка спавна посетителя из командования
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorCaptainSpawner = visiting captain spawner
+ent-VisitorCaptainSpawner = точка спавна прибывшего капитана
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorCESpawner = visiting chief engineer spawner
+ent-VisitorCESpawner = точка спавна прибывшего старшего инженера
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorCMOSpawner = visiting chief medical officer spawner
+ent-VisitorCMOSpawner = точка спавна прибывшего главного врача
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorHOPSpawner = visiting head of personnel spawner
+ent-VisitorHOPSpawner = точка спавна прибывшего главы персонала
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorHOSSpawner = visiting head of security spawner
+ent-VisitorHOSSpawner = точка спавна прибывшего главы службы безопасности
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorRDSpawner = visiting research director spawner
+ent-VisitorRDSpawner = точка спавна прибывшего научного руководителя
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorQMSpawner = visiting quartermaster spawner
+ent-VisitorQMSpawner = точка спавна прибывшего квартирмейстера
     .desc = { ent-MarkerBase.desc }
 
-ent-SecurityVisitorSpawner = security visitor spawner
+ent-SecurityVisitorSpawner = точка спавна посетителя из службы безопасности
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorSecurityCadetSpawner = visiting security cadet spawner
+ent-VisitorSecurityCadetSpawner = точка спавна прибывшего курсанта службы безопасности
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorSecurityOfficerSpawner = visiting security officer spawner
+ent-VisitorSecurityOfficerSpawner = точка спавна прибывшего офицера службы безопасности
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorDetective = visiting detective spawner
+ent-VisitorDetective = точка спавна прибывшего детектива
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorWarden = visiting warden spawner
+ent-VisitorWarden = точка спавна прибывшего смотрителя
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitingCargonianSpawner = cargonian visitor spawner
+ent-VisitingCargonianSpawner = точка спавна посетителя из каргонии
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorCargoTechnicianSpawner = visiting cargo technician spawner
+ent-VisitorCargoTechnicianSpawner = точка спавна прибывшего грузчика
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorSalvageSpecialistSpawner = visiting salvage specialist spawner
+ent-VisitorSalvageSpecialistSpawner = точка спавна прибывшего утилизатора
     .desc = { ent-MarkerBase.desc }
 
-ent-EngineeringVisitorSpawner = engineering visitor spawner
+ent-EngineeringVisitorSpawner = точка спавна посетителя из инженерного отдела
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorAtmosTechSpawner = visiting atmospheric technician spawner
+ent-VisitorAtmosTechSpawner = точка спавна прибывшего атмосферного техника
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorTechnicalAssistantSpawner = visiting technical assistant spawner
+ent-VisitorTechnicalAssistantSpawner = точка спавна прибывшего технического ассистента
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorEngineerSpawner = visiting engineer spawner
+ent-VisitorEngineerSpawner = точка спавна прибывшего инженера
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitingMedicalSpawner = medical visitor spawner
+ent-VisitingMedicalSpawner = точка спавна посетителя из медицинского отдела
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorChemistSpawner = visiting chemist spawner
+ent-VisitorChemistSpawner = точка спавна прибывшего химика
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorMedicalInternSpawner = visiting medical intern spawner
+ent-VisitorMedicalInternSpawner = точка спавна прибывшего медицинского интерна
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorMedicalDoctorSpawner = visiting medical doctor spawner
+ent-VisitorMedicalDoctorSpawner = точка спавна прибывшего врача
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorParamedicSpawner = visiting paramedic spawner
+ent-VisitorParamedicSpawner = точка спавна прибывшего парамедика
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorVirologistSpawner = visiting virologist spawner
+ent-VisitorVirologistSpawner = точка спавна прибывшего вирусолога
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorGeneticistSpawner = visiting geneticist spawner
+ent-VisitorGeneticistSpawner = точка спавна прибывшего генетика
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorPsychologistSpawner = visiting psychologist spawner
+ent-VisitorPsychologistSpawner = точка спавна прибывшего психолога
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorDentistSpawner = visiting dentist spawner
+ent-VisitorDentistSpawner = точка спавна прибывшего стоматолога
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitingScientistSpawner = scientific visitor spawner
+ent-VisitingScientistSpawner = точка спавна посетителя из научного отдела
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorScientistSpawner = visiting scientist spawner
+ent-VisitorScientistSpawner = точка спавна прибывшего учёного
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorResearchAssistantSpawner = visiting research assistant spawner
+ent-VisitorResearchAssistantSpawner = точка спавна прибывшего научного ассистента
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitingCivilianSpawner = civilian visitor spawner
+ent-VisitingCivilianSpawner = точка спавна гражданского посетителя
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorBartenderSpawner = visiting bartender spawner
+ent-VisitorBartenderSpawner = точка спавна прибывшего бармена
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorBotanistSpawner = visiting botanist spawner
+ent-VisitorBotanistSpawner = точка спавна прибывшего ботаника
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorBoxerSpawner = visiting boxer spawner
+ent-VisitorBoxerSpawner = точка спавна прибывшего боксёра
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorChaplainSpawner = visiting chaplain spawner
+ent-VisitorChaplainSpawner = точка спавна прибывшего священника
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorChefSpawner = visiting chef spawner
+ent-VisitorChefSpawner = точка спавна прибывшего повара
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorClownSpawner = visiting clown spawner
+ent-VisitorClownSpawner = точка спавна прибывшего клоуна
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorJanitorSpawner = visiting janitor spawner
+ent-VisitorJanitorSpawner = точка спавна прибывшего уборщика
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorLawyerSpawner = visiting lawyer spawner
+ent-VisitorLawyerSpawner = точка спавна прибывшего адвоката
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorLawyerCentcomSpawner = visiting centcom lawyer spawner
+ent-VisitorLawyerCentcomSpawner = точка спавна прибывшего адвоката ЦК
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorLibrarianSpawner = visiting librarian spawner
+ent-VisitorLibrarianSpawner = точка спавна прибывшего библиотекаря
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorMusicianSpawner = visiting musician spawner
+ent-VisitorMusicianSpawner = точка спавна прибывшего музыканта
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorMusicianFancySpawner = visiting fancy musician spawner
+ent-VisitorMusicianFancySpawner = точка спавна прибывшего элегантного музыканта
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorMusicianRelaxedSpawner = visiting relaxed musician spawner
+ent-VisitorMusicianRelaxedSpawner = точка спавна прибывшего непринуждённого музыканта
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorMimeSpawner = visiting mime spawner
+ent-VisitorMimeSpawner = точка спавна прибывшего мима
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorReporterSpawner = visiting reporter spawner
+ent-VisitorReporterSpawner = точка спавна прибывшего репортёра
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorServiceWorkerSpawner = visiting service worker spawner
+ent-VisitorServiceWorkerSpawner = точка спавна прибывшего работника сервиса
     .desc = { ent-MarkerBase.desc }
 
-ent-VisitorZookeeperSpawner = visiting zookeeper spawner
+ent-VisitorZookeeperSpawner = точка спавна прибывшего смотрителя зоопарка
     .desc = { ent-MarkerBase.desc }
 
-ent-ChallengeVictimSpawner = disaster victim spawner
+ent-ChallengeVictimSpawner = точка спавна жертвы катастрофы
     .desc = { ent-MarkerBase.desc }
-    .suffix = CHALLENGE
+    .suffix = ИСПЫТАНИЕ
 
-ent-ChallengeCargoTechnicianSpawner = challenge cargo technician spawner
+ent-ChallengeCargoTechnicianSpawner = точка спавна грузчика для испытания
     .desc = { ent-MarkerBase.desc }
-    .suffix = CHALLENGE
+    .suffix = ИСПЫТАНИЕ
 
-ent-NTVisitorSpawner = NanoTrasen visitor spawner
+ent-NTVisitorSpawner = точка спавна посетителей NanoTrasen
     .desc = { ent-MarkerBase.desc }
 
-ent-NTVisitorSpawner50 = NanoTrasen visitor spawner
+ent-NTVisitorSpawner50 = точка спавна посетителей NanoTrasen
     .desc = { ent-MarkerBase.desc }
     .suffix = 50
 
-ent-NTVisitorSpawner33 = NanoTrasen visitor spawner
+ent-NTVisitorSpawner33 = точка спавна посетителей NanoTrasen
     .desc = { ent-NTVisitorSpawner50.desc }
     .suffix = 33
 
-ent-NTVisitorSpawner25 = NanoTrasen visitor spawner
+ent-NTVisitorSpawner25 = точка спавна посетителей NanoTrasen
     .desc = { ent-NTVisitorSpawner50.desc }
     .suffix = 25
 
-ent-NTVisitorSpawner20 = NanoTrasen visitor spawner
+ent-NTVisitorSpawner20 = точка спавна посетителей NanoTrasen
     .desc = { ent-NTVisitorSpawner50.desc }
     .suffix = 20
 
-ent-NTVisitorSpawner10 = NanoTrasen visitor spawner
+ent-NTVisitorSpawner10 = точка спавна посетителей NanoTrasen
     .desc = { ent-NTVisitorSpawner50.desc }
     .suffix = 10
 
-ent-SyndieSoldierTeamLeaderSpawner = syndicate team leader spawner
+ent-SyndieSoldierTeamLeaderSpawner = точка спавна командира группы синдиката
     .desc = { ent-MarkerBase.desc }
 
-ent-SyndieSoldierSpawner = syndicate soldier spawner
+ent-SyndieSoldierSpawner = точка спавна солдата синдиката
     .desc = { ent-MarkerBase.desc }
 
-ent-SyndieVisitorSpawner = syndie disaster victim spawner
+ent-SyndieVisitorSpawner = точка спавна синдикатовца, жертвы катастрофы
     .desc = { ent-MarkerBase.desc }
 
-ent-PirateScoonerSpawner = pirate crewman spawner
+ent-PirateScoonerSpawner = точка спавна члена пиратской команды
     .desc = { ent-MarkerBase.desc }
-    .suffix = scooner
+    .suffix = шхуна
 
-ent-PirateCaptainScoonerSpawner = pirate captain spawner
+ent-PirateCaptainScoonerSpawner = точка спавна пиратского капитана
     .desc = { ent-MarkerBase.desc }
-    .suffix = scooner
+    .suffix = шхуна
 
-ent-VisitorBlackmarketeerSpawner = Blackmarketeer spawner
+ent-VisitorBlackmarketeerSpawner = точка спавна Торговца чёрного рынка
     .desc = { ent-MarkerBase.desc }
 
-ent-CossackSpawner = cossack spawner
+ent-CossackSpawner = точка спавна казака
     .desc = { ent-MarkerBase.desc }

@@ -1,2 +1,2 @@
-ent-MobArchLegion = arch-legion
-    .desc = It's completely covered with skulls. It's incredibly huge.
+ent-MobArchLegion = архилегион
+    .desc = Он весь покрыт черепами. Невероятно огромен.

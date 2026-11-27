@@ -1,85 +1,85 @@
 ent-BaseUniquePet = { "" }
     .desc = { "" }
 
-ent-MobCorgiIan = Ian
-    .desc = Favorite pet corgi.
+ent-MobCorgiIan = Иан
+    .desc = Любимый корги.
 
-ent-MobCorgiIanOld = Old Ian
-    .desc = Still the favorite pet corgi. Love his wheels.
+ent-MobCorgiIanOld = Старый Иан
+    .desc = Всё ещё любимый корги. И колёса у него что надо.
 
-ent-MobCorgiLisa = Lisa
-    .desc = Ian's favorite corgi.
+ent-MobCorgiLisa = Лиза
+    .desc = Любимая корги Иана.
 
-ent-MobCorgiMouse = real mouse
-    .desc = It's 100% a real hungry mouse.
+ent-MobCorgiMouse = настоящая мышь
+    .desc = Это на 100% настоящая голодная мышь.
 
-ent-MobCorgiIanPup = Puppy Ian
-    .desc = Favourite puppy corgi. Awww.
+ent-MobCorgiIanPup = Щенок Иан
+    .desc = Любимый щенок корги. Ути-и.
 
-ent-MobCatRuntime = Aves
-    .desc = The cat who walks by himself.
+ent-MobCatRuntime = Авес
+    .desc = Кот, который гуляет сам по себе.
 
-ent-MobCatException = Exception
-    .desc = Ask nicely, and maybe they'll give you one of their spare lives.
+ent-MobCatException = Исключение
+    .desc = Хорошенько попросите, и, может, он поделится одной из запасных жизней.
 
-ent-MobCatFloppa = Floppa
-    .desc = He out here.
+ent-MobCatFloppa = Флоппа
+    .desc = Вот он тут.
 
-ent-MobBandito = Bandito
-    .desc = Just a silly little guy!
+ent-MobBandito = Бандито
+    .desc = Просто маленький дурачок!
 
-ent-MobBingus = Bingus
-    .desc = Bingus my beloved...
+ent-MobBingus = Бингус
+    .desc = Бингус, любовь моя...
 
-ent-MobMcGriff = McGriff
-    .desc = This dog can tell something smells around here, and that something is CRIME!
+ent-MobMcGriff = Макгрифф
+    .desc = Этот пёс чует, что здесь чем-то пахнет, и пахнет здесь ПРЕСТУПЛЕНИЕМ!
 
-ent-MobPaperwork = Paperwork
-    .desc = Took up a new job sorting books in the library after he got transferred from Space Station 13. He seems to be just as slow at this.
+ent-MobPaperwork = Бумажная Работа
+    .desc = После перевода с Космической Станции 13 взялся за сортировку книг в библиотеке. Похоже, и с этим он справляется так же медленно.
 
-ent-MobWalter = Walter
-    .desc = He likes chems and treats. Walter.
+ent-MobWalter = Уолтер
+    .desc = Любит химикаты и лакомства. Уолтер.
 
-ent-MobPossumMorty = Morty
-    .desc = The station's resident Didelphis virginiana. A sensitive but resilient kind of guy.
+ent-MobPossumMorty = Морти
+    .desc = Станционный обитатель вида Didelphis virginiana. Чувствительный, но стойкий парень.
 
-ent-MobPossumMortyOld = Morty
+ent-MobPossumMortyOld = Морти
     .desc = { ent-MobPossumMorty.desc }
-    .suffix = Old sprite
+    .suffix = Старый спрайт
 
-ent-MobPossumPoppy = Poppy
-    .desc = It's an opossum, a small scavenging marsupial. It's wearing appropriate personal protective equipment.
+ent-MobPossumPoppy = Поппи
+    .desc = Это опоссум, мелкое сумчатое-падальщик. На нём подходящие средства индивидуальной защиты.
 
-ent-MobRaccoonMorticia = Morticia
-    .desc = A powerful creature of the night. Her eyeshadow is always on point.
+ent-MobRaccoonMorticia = Мортиша
+    .desc = Могущественное создание ночи. Тени у неё всегда безупречны.
 
-ent-MobAlexander = Alexander
-    .desc = Chef's finest colleague.
+ent-MobAlexander = Александр
+    .desc = Лучший коллега повара.
 
-ent-MobFoxRenault = Renault
-    .desc = The captain's trustworthy fox.
+ent-MobFoxRenault = Рено
+    .desc = Верная лиса капитана.
 
-ent-MobHamsterHamlet = Hamlet
-    .desc = A grumpy, cute and fluffy hamster.
+ent-MobHamsterHamlet = Гамлет
+    .desc = Сварливый, милый и пушистый хомяк.
 
 ent-MobHamsterHamletSlippery = { ent-MobHamsterHamlet }
     .desc = { ent-MobHamsterHamlet.desc }
-    .suffix = Slippery
+    .suffix = Скользкий
 
-ent-MobSpiderShiva = Shiva
-    .desc = The first defender of the station.
+ent-MobSpiderShiva = Шива
+    .desc = Первый защитник станции.
 
-ent-MobKangarooWillow = Willow
-    .desc = Willow the boxing kangaroo.
+ent-MobKangarooWillow = Уиллоу
+    .desc = Уиллоу, кенгуру-боксёр.
 
-ent-MobSlimesPet = Smile
-    .desc = This masterpiece has gone through thousands of experiments. But it is the sweetest creature in the world. Smile Slime!
+ent-MobSlimesPet = Улыбка
+    .desc = Этот шедевр прошёл через тысячи экспериментов. Но милее существа на свете нет. Слайм Улыбка!
 
-ent-MobMonkeyPunpun = Pun Pun
-    .desc = A prominent representative of monkeys with unlimited access to alcohol.
+ent-MobMonkeyPunpun = Пун Пун
+    .desc = Видный представитель обезьян с неограниченным доступом к алкоголю.
 
-ent-MobCrabAtmos = Tropico
-    .desc = The noble and stalwart defender of Atmosia. Viva!
+ent-MobCrabAtmos = Тропико
+    .desc = Благородный и стойкий защитник Атмосии. Да здравствует!
 
-ent-MobPollyParrot = Polly the parrot
-    .desc = An expert in quantum cracker theory.
+ent-MobPollyParrot = Полли, попугай
+    .desc = Знаток квантовой теории крекеров.

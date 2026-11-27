@@ -1,155 +1,155 @@
-ent-BaseFigurine = figurine
-    .desc = A small miniature.
+ent-BaseFigurine = фигурка
+    .desc = Небольшая миниатюра.
 
-ent-ToyFigurineHeadOfPersonnel = head of personnel figure
-    .desc = A figurine depicting the glorious head of all personnel, away from their office as usual.
+ent-ToyFigurineHeadOfPersonnel = фигурка главы персонала
+    .desc = Фигурка славного главы всего персонала. Как обычно, его нет в кабинете.
 
-ent-ToyFigurinePassenger = passenger figure
-    .desc = A figurine depicting an every day, run-of-the-mill passenger. No funny business here.
+ent-ToyFigurinePassenger = фигурка ассистента
+    .desc = Фигурка самого обычного, ничем не примечательного ассистента. Ничего подозрительного.
 
-ent-ToyFigurineGreytider = greytider figure
-    .desc = A figurine depicting a dubious-looking passenger. Greytide worldwide!
+ent-ToyFigurineGreytider = фигурка грейтайдера
+    .desc = Фигурка подозрительного на вид ассистента. Грейтайд по всему миру!
 
-ent-ToyFigurineClown = clown figure
-    .desc = A figurine depicting a clown. You shudder to think of what people have probably done to this figurine before.
+ent-ToyFigurineClown = фигурка клоуна
+    .desc = Фигурка клоуна. Страшно представить, что с ней уже успели сделать.
 
-ent-ToyFigurineHoloClown = holoclown figure
-    .desc = A figurine depicting a holoclown. Even more annoying than a clown and no less real.
+ent-ToyFigurineHoloClown = фигурка голоклоуна
+    .desc = Фигурка голоклоуна. Раздражает ещё сильнее обычного клоуна, а выглядит таким же настоящим.
 
-ent-ToyFigurineMime = mime figure
-    .desc = A figurine depicting that silent bastard you are all too familiar with.
+ent-ToyFigurineMime = фигурка мима
+    .desc = Фигурка того молчаливого ублюдка, которого вы слишком хорошо знаете.
 
-ent-ToyFigurineMusician = musician figure
-    .desc = A figurine depicting a Musician, his music was electrifying.
+ent-ToyFigurineMusician = фигурка музыканта
+    .desc = Фигурка Музыканта. Его музыка била током.
 
-ent-ToyFigurineBoxer = boxer figure
-    .desc = A figurine depicting a Boxer holding their red gloves.
+ent-ToyFigurineBoxer = фигурка боксёра
+    .desc = Фигурка Боксёра с красными перчатками в руках.
 
-ent-ToyFigurineCaptain = captain figure
-    .desc = A figurine depicting the standard outfit of a captain belonging to a civilian-sector Nanotrasen vessel.
+ent-ToyFigurineCaptain = фигурка капитана
+    .desc = Фигурка в стандартной форме капитана гражданского судна NanoTrasen.
 
-ent-ToyFigurineHeadOfSecurity = head of security figure
-    .desc = A figurine depicting the glorious head of the Security department.
+ent-ToyFigurineHeadOfSecurity = фигурка главы службы безопасности
+    .desc = Фигурка славного главы Службы Безопасности.
 
-ent-ToyFigurineWarden = warden figure
-    .desc = A figurine depicting a Warden, ready to jail someone at any moment.
+ent-ToyFigurineWarden = фигурка смотрителя
+    .desc = Фигурка Смотрителя, готового в любой момент отправить кого-нибудь за решётку.
 
-ent-ToyFigurineDetective = detective figure
-    .desc = A figurine depicting a Detective wearing their iconic trench coat.
+ent-ToyFigurineDetective = фигурка детектива
+    .desc = Фигурка Детектива в его знаменитом плаще.
 
-ent-ToyFigurineSecurity = security officer figure
-    .desc = A figurine depicting a Security Officer holding a stunbaton, ready to defend the station.
+ent-ToyFigurineSecurity = фигурка офицера службы безопасности
+    .desc = Фигурка Офицера Службы Безопасности с электрошоковой дубинкой в руке. Готов защищать станцию.
 
-ent-ToyFigurineLawyer = lawyer figure
-    .desc = A figurine depicting a Lawyer sporting a freshly tailored suit.
+ent-ToyFigurineLawyer = фигурка адвоката
+    .desc = Фигурка Адвоката, щеголяющего в свежесшитом костюме.
 
-ent-ToyFigurineCargoTech = cargo technican figure
-    .desc = A figurine depicting a reptillian Cargo Technican.
+ent-ToyFigurineCargoTech = фигурка грузчика
+    .desc = Фигурка Грузчика-унатха.
 
-ent-ToyFigurineSalvage = salvage specialist figure
-    .desc = A figurine depicting a Salvage Specialist holding a survival knife.
+ent-ToyFigurineSalvage = фигурка утилизатора
+    .desc = Фигурка Утилизатора с ножом для выживания.
 
-ent-ToyFigurineQuartermaster = quartermaster figure
-    .desc = A figurine depicting the glorious head of the Cargo department.
+ent-ToyFigurineQuartermaster = фигурка квартирмейстера
+    .desc = Фигурка славного главы отдела Карго.
 
-ent-ToyFigurineChiefEngineer = chief engineer figure
-    .desc = A figurine depicting the glorious head of the Engineering department.
+ent-ToyFigurineChiefEngineer = фигурка старшего инженера
+    .desc = Фигурка славного главы Инженерного отдела.
 
-ent-ToyFigurineEngineer = station engineer figure
-    .desc = A figurine depicting a Station Engineer holding a crowbar at-ready.
+ent-ToyFigurineEngineer = фигурка станционного инженера
+    .desc = Фигурка Станционного Инженера с монтировкой наготове.
 
-ent-ToyFigurineAtmosTech = atmospheric technician figure
-    .desc = A figurine depicting an Atmos Tech holding an unlit welder.
+ent-ToyFigurineAtmosTech = фигурка атмосферного техника
+    .desc = Фигурка Атмосферного Техника с выключенным сварочным аппаратом в руках.
 
-ent-ToyFigurineResearchDirector = research director figure
-    .desc = A figurine depicting the glorious head of the Science department.
+ent-ToyFigurineResearchDirector = фигурка научного руководителя
+    .desc = Фигурка славного главы Научного отдела.
 
-ent-ToyFigurineScientist = scientist figurine
-    .desc = A figurine depicting a Scientist donning a labcoat.
+ent-ToyFigurineScientist = фигурка учёного
+    .desc = Фигурка Учёного в лабораторном халате.
 
-ent-ToyFigurineChiefMedicalOfficer = chief medical officer figure
-    .desc = A figurine depicting the glorious head of the Medical department.
+ent-ToyFigurineChiefMedicalOfficer = фигурка главного врача
+    .desc = Фигурка славного главы Медицинского отдела.
 
-ent-ToyFigurineChemist = chemist figure
-    .desc = A figurine depicting a Chemist probably planning to make meth.
+ent-ToyFigurineChemist = фигурка химика
+    .desc = Фигурка Химика. Наверняка собирается варить мет.
 
-ent-ToyFigurineParamedic = paramedic figure
-    .desc = A figurine depicting a Paramedic wearing their void suit.
+ent-ToyFigurineParamedic = фигурка парамедика
+    .desc = Фигурка Парамедика в космическом скафандре.
 
-ent-ToyFigurineMedicalDoctor = medical doctor figure
-    .desc = A figurine depicting a Medical Doctor, donning a labcoat & syringe.
+ent-ToyFigurineMedicalDoctor = фигурка врача
+    .desc = Фигурка Врача в лабораторном халате и со шприцем.
 
-ent-ToyFigurineLibrarian = librarian figure
-    .desc = A figurine depicting the one-and-only librarian.
+ent-ToyFigurineLibrarian = фигурка библиотекаря
+    .desc = Фигурка единственного и неповторимого библиотекаря.
 
-ent-ToyFigurineChaplain = chaplain figure
-    .desc = A figurine depicting a Chaplain hopefully praying for good things.
+ent-ToyFigurineChaplain = фигурка священника
+    .desc = Фигурка Священника, который, будем надеяться, молится о чём-то хорошем.
 
-ent-ToyFigurineChef = chef figure
-    .desc = A figurine depicting a chef, master of the culinary arts!.. most of the time.
+ent-ToyFigurineChef = фигурка повара
+    .desc = Фигурка повара, мастера кулинарного искусства!.. по большей части.
 
-ent-ToyFigurineBartender = bartender figure
-    .desc = A figurine depicting a Bartender looking stylish with their rockin shades and tophat.
+ent-ToyFigurineBartender = фигурка бармена
+    .desc = Фигурка Бармена, стильно выглядящего в отпадных очках и цилиндре.
 
-ent-ToyFigurineBotanist = botanist figure
-    .desc = A figurine depicting a Botanist that surely won't let kudzu get out of control.
+ent-ToyFigurineBotanist = фигурка ботаника
+    .desc = Фигурка Ботаника, который уж точно не даст кудзу разрастись.
 
-ent-ToyFigurineJanitor = janitor figure
-    .desc = A figurine depicting a Janitor with their galoshes.
+ent-ToyFigurineJanitor = фигурка уборщика
+    .desc = Фигурка Уборщика в галошах.
 
-ent-ToyFigurineNukie = syndicate operative figure
-    .desc = A figurine depicting someone in a blood-red hardsuit, similar to what someone on a nuclear operative team might wear.
+ent-ToyFigurineNukie = фигурка оперативника синдиката
+    .desc = Фигурка кого-то в кроваво-красном скафандре. Такой мог бы носить ядерный оперативник.
 
-ent-ToyFigurineNukieElite = elite syndicate operative figure
-    .desc = A figurine depicting someone in an elite blood-red hardsuit, similar to what someone on a nuclear operative team might wear.
+ent-ToyFigurineNukieElite = фигурка элитного оперативника синдиката
+    .desc = Фигурка кого-то в элитном кроваво-красном скафандре. Такой мог бы носить ядерный оперативник.
 
-ent-ToyFigurineNukieCommander = syndicate operative commander figure
-    .desc = A figurine depicting someone in a beefed-up blood-red hardsuit, similar to what the commander of a nuclear operative team might wear.
+ent-ToyFigurineNukieCommander = фигурка командира оперативников синдиката
+    .desc = Фигурка кого-то в усиленном кроваво-красном скафандре. Такой мог бы носить командир отряда ядерных оперативников.
 
-ent-ToyFigurineFootsoldier = syndicate footsoldier figure
-    .desc = A figurine depicting the outfit of a syndicate footsoldier.
+ent-ToyFigurineFootsoldier = фигурка бойца синдиката
+    .desc = Фигурка в снаряжении рядового бойца синдиката.
 
-ent-ToyFigurineWizard = wizard figure
-    .desc = A figurine depicting someone with a long, silky beard wearing a wizard outfit. Warlocks wish they had anything on this.
+ent-ToyFigurineWizard = фигурка волшебника
+    .desc = Фигурка обладателя длинной шелковистой бороды в наряде волшебника. Колдунам остаётся только завидовать.
 
-ent-ToyFigurineWizardFake = fake wizard figure
-    .desc = A figurine depicting someone in a fake-ass wizard costume. What a ripoff!
+ent-ToyFigurineWizardFake = фигурка ненастоящего волшебника
+    .desc = Фигурка кого-то в чертовски фальшивом костюме волшебника. Вот же надувательство!
 
-ent-ToyFigurineGriffin = griffin figure
-    .desc = A figurine depicting 'The Griffin', criminal mastermind.
+ent-ToyFigurineGriffin = фигурка грифона
+    .desc = Фигурка «Грифона», преступного гения.
 
-ent-ToyFigurineOwlman = owlman figure
-    .desc = A figurine depicting 'Owlman', the defender of justice.
+ent-ToyFigurineOwlman = фигурка человека-совы
+    .desc = Фигурка «Человека-Совы», защитника справедливости.
 
-ent-ToyFigurineSkeleton = skeleton figure
-    .desc = A figurine depicting a spooky scary skeleton.
+ent-ToyFigurineSkeleton = фигурка скелета
+    .desc = Фигурка жуткого, страшного скелета.
 
-ent-ToyFigurineThief = thief figure
-    .desc = A figurine depicting a kleptomaniac that hides in the shadows.
+ent-ToyFigurineThief = фигурка вора
+    .desc = Фигурка клептомана, который прячется в тени.
 
-ent-ToyNuke = nuke toy
-    .desc = A plastic model of a Nuclear Fission Explosive. No uranium included... probably.
+ent-ToyNuke = игрушечная ядерка
+    .desc = Пластиковая модель Ядерной Бомбы на Делении Ядер. Уран в комплект не входит... наверное.
 
-ent-ToyFigurineSpaceDragon = space dragon figure
-    .desc = A large figurine depicting a space dragon, its red eyes on gazing on its prey.
+ent-ToyFigurineSpaceDragon = фигурка космического дракона
+    .desc = Большая фигурка космического дракона. Его красные глаза устремлены на добычу.
 
-ent-ToyFigurineQueen = xeno queen figure
-    .desc = A large figurine depicting a xeno queen, ready to attack.
+ent-ToyFigurineQueen = фигурка королевы ксеноморфов
+    .desc = Большая фигурка королевы ксеноморфов, готовой напасть.
 
-ent-ToyFigurineRatKing = rat king figure
-    .desc = A large figurine depicting a rat king, prepared to make its nest.
+ent-ToyFigurineRatKing = фигурка крысиного короля
+    .desc = Большая фигурка крысиного короля, готового вить гнездо.
 
-ent-ToyFigurineRatServant = rat servant figure
-    .desc = A figurine depicting a rat serving the king of rats!
+ent-ToyFigurineRatServant = фигурка крысы-слуги
+    .desc = Фигурка крысы, служащей крысиному королю!
 
-ent-ToyFigurineMouse = mouse figure
-    .desc = A figurine depicting a mouse scuttling away to the nearest piece of food.
+ent-ToyFigurineMouse = фигурка мыши
+    .desc = Фигурка мыши, семенящей к ближайшему кусочку еды.
 
-ent-ToyFigurineSlime = slime figure
-    .desc = A figurine depicting a translucent blue slime.
+ent-ToyFigurineSlime = фигурка слайма
+    .desc = Фигурка полупрозрачного синего слайма.
 
-ent-ToyFigurineHamlet = hamlet figure
-    .desc = A figurine depicting Hamlet, microwave not included.
+ent-ToyFigurineHamlet = фигурка гамлета
+    .desc = Фигурка Гамлета. Микроволновка в комплект не входит.
 
-ent-ToyAi = AI toy
-    .desc = A scaled-down toy AI core.
+ent-ToyAi = игрушечный ИИ
+    .desc = Уменьшенная игрушечная копия ядра ИИ.

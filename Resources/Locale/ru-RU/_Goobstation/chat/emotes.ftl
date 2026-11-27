@@ -1,17 +1,17 @@
 # Message
-chat-emote-msg-bagawk = bagawks!
+chat-emote-msg-bagawk = кудахчет!
 
 
 # Misc
-emote-fart-not-loaded = You don't have a super fart loaded!
-emote-fart-already-loaded = You already have a fart loaded!
-emote-fart-ass-off = You don't have a butt to fart with!
-emote-fart-out-of-farts = You're all out of farts!
-emote-fart-super-fart = You (literally) fart your ass off!
-emote-fart-inhale-notice = You breathe in, arming a super fart.
-emote-fart-inhale-disarm-notice = You disarm your super fart.
+emote-fart-not-loaded = У вас не заряжен суперпук!
+emote-fart-already-loaded = У вас уже заряжен пук!
+emote-fart-ass-off = У вас нет задницы, чтобы пукать!
+emote-fart-out-of-farts = У вас закончились пуки!
+emote-fart-super-fart = Вы так пукнули, что задница отлетела! Буквально!
+emote-fart-inhale-notice = Вы вдыхаете, заряжая суперпук.
+emote-fart-inhale-disarm-notice = Вы разряжаете суперпук.
 
-chat-emote-name-boop = Boop
-chat-emote-msg-boop = boops.
-chat-emote-name-whirr = Whirr
-chat-emote-msg-whirr = whirrs.
+chat-emote-name-boop = Бип
+chat-emote-msg-boop = бипает.
+chat-emote-name-whirr = Жужжание
+chat-emote-msg-whirr = жужжит.

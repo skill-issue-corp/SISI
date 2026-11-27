@@ -1,8 +1,8 @@
 ent-BaseViewconeEffect = { "" }
     .desc = { "" }
 
-ent-ViewconeMemory = memory
-    .desc = You remember this being here very recently.
+ent-ViewconeMemory = воспоминание
+    .desc = Вы помните, что это было здесь совсем недавно.
 
 ent-ViewconeEffectFootstep = { ent-BaseViewconeEffect }
     .desc = { ent-BaseViewconeEffect.desc }

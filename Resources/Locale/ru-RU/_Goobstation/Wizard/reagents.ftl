@@ -6,17 +6,17 @@
 
 reagent-effect-guidebook-drop-items =
     { $chance ->
-        [1] Forces
-        *[other] force
-    } to drop held items
+        [1] Заставляет
+        *[other] заставляет
+    } выронить предметы из рук
 
-reagent-name-thick-smoke = thick smoke
-reagent-desc-thick-smoke = Extremely thick smoke with magical properties. You don't want to inhale it.
+reagent-name-thick-smoke = густой дым
+reagent-desc-thick-smoke = Чрезвычайно густой дым с магическими свойствами. Вдыхать его не стоит.
 
-reagent-name-mugwort = mugwort tea
-reagent-desc-mugwort = A rather bitter herb once thought to hold magical protective properties.
+reagent-name-mugwort = чай из полыни
+reagent-desc-mugwort = Довольно горькая трава, которой когда-то приписывали магические защитные свойства.
 
-entity-condition-wizard-or-apprentice = the target is a wizard or apprentice
-entity-condition-not-wizard-or-apprentice = the target is not a wizard or apprentice
+entity-condition-wizard-or-apprentice = цель – волшебник или ученик
+entity-condition-not-wizard-or-apprentice = цель не волшебник и не ученик
 
-reagent-physical-desc-magical = magical
+reagent-physical-desc-magical = магическое

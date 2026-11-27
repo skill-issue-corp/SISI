@@ -1,46 +1,46 @@
-ent-ImmovableRod = immovable rod
-    .desc = You can sense that it's hungry. That's usually a bad sign.
+ent-ImmovableRod = неподвижный стержень
+    .desc = Вы чувствуете, что он голоден. Обычно это плохой знак.
 
 ent-ImmovableRodDespawn = { ent-ImmovableRod }
     .desc = { ent-ImmovableRod.desc }
-    .suffix = Despawn
+    .suffix = Исчезает
 
 ent-ImmovableRodSlow = { ent-ImmovableRodDespawn }
     .desc = { ent-ImmovableRodDespawn.desc }
-    .suffix = Slow
+    .suffix = Медленный
 
 ent-ImmovableRodKeepTiles = { ent-ImmovableRodDespawn }
     .desc = { ent-ImmovableRodDespawn.desc }
-    .suffix = Keep Tiles
+    .suffix = Сохраняет Тайлы
 
 ent-ImmovableRodWizard = { ent-ImmovableRod }
     .desc = { ent-ImmovableRod.desc }
-    .suffix = Wizard
+    .suffix = Волшебник
 
 ent-ImmovableRodKeepTilesStill = { ent-ImmovableRodKeepTiles }
     .desc = { ent-ImmovableRodKeepTiles.desc }
-    .suffix = Keep Tiles, Still
+    .suffix = Сохраняет Тайлы, Неподвижный
 
-ent-ImmovableRodMop = immovable mop
-    .desc = Hurled like a javelin, with the power of a thousand furious janitors.
+ent-ImmovableRodMop = неподвижная швабра
+    .desc = Брошена как дротик, с силой тысячи разъярённых уборщиков.
 
-ent-ImmovableRodShark = immovable shark
-    .desc = SHARK TORNADO!
+ent-ImmovableRodShark = неподвижная акула
+    .desc = АКУЛЬЕ ТОРНАДО!
 
-ent-ImmovableRodClown = immovable clown
-    .desc = Ejected from the neighbouring station one solar system over. HONK!
+ent-ImmovableRodClown = неподвижный клоун
+    .desc = Выброшен с соседней станции в другой звёздной системе. ХОНК!
 
-ent-ImmovableRodBanana = immovable banana
-    .desc = At least you won't slip on it.
+ent-ImmovableRodBanana = неподвижный банан
+    .desc = По крайней мере, вы на нём не поскользнётесь.
 
-ent-ImmovableRodHammer = immovable hammer
-    .desc = Bwoink.
+ent-ImmovableRodHammer = неподвижный молот
+    .desc = Бвоиньк.
 
-ent-ImmovableRodThrongler = immovable throngler
-    .desc = If you catch it, you can keep it.
+ent-ImmovableRodThrongler = неподвижный тронглер
+    .desc = Если поймаете, можете оставить себе.
 
-ent-ImmovableRodGibstick = immovable gibstick
-    .desc = What did you expect?
+ent-ImmovableRodGibstick = неподвижная палочка для фарша
+    .desc = А чего вы ожидали?
 
-ent-ImmovableRodWeh = immovable weh
-    .desc = WEH!
+ent-ImmovableRodWeh = неподвижный уэх
+    .desc = УЭХ!

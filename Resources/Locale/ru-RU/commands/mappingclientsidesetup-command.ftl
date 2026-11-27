@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cmd-mappingclientsidesetup-desc = Sets up the lighting control and such settings client-side. Sent by 'mapping' to client.
-cmd-mappingclientsidesetup-help = Usage: mappingclientsidesetup
+cmd-mappingclientsidesetup-desc = Задаёт управление освещением и другие параметры на стороне клиента. Команда «mapping» отправляет её клиенту.
+cmd-mappingclientsidesetup-help = Использование: mappingclientsidesetup

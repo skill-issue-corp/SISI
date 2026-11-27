@@ -1,14 +1,14 @@
-ent-BaseBrainChip = brain chip
-    .desc = A sterilized microchip assembly that can directly interface with the brain.
+ent-BaseBrainChip = мозговой чип
+    .desc = Стерильный микрочип, способный подключаться напрямую к мозгу.
 
-ent-BaseSkillChipMRAM = MRAM-chip
-    .desc = A sterilized microchip assembly that can directly interface with the brain. This one can rewire the brain to give you memories of skills you never learned.
+ent-BaseSkillChipMRAM = чип MRAM
+    .desc = Стерильный микрочип, способный подключаться напрямую к мозгу. Эта модель перенастраивает мозг и создаёт воспоминания о навыках, которыми вы никогда не овладевали.
 
-ent-BaseSkillChipAPTR = APTR-Chip
-    .desc = A sterilized microchip assembly that can directly interface with the brain. This one can rewire the brain to give you reflexes and intrinsic knowledge on weaponry.
+ent-BaseSkillChipAPTR = Чип APTR
+    .desc = Стерильный микрочип, способный подключаться напрямую к мозгу. Эта модель перенастраивает мозг, давая вам новые рефлексы и интуитивное знание оружия.
 
-ent-BaseSkillChipPSON = PSON-Chip
-    .desc = A sterilized microchip assembly that can directly interface with the brain. This one rewires the brain to weaken innate skills and overwrite personalities.
+ent-BaseSkillChipPSON = Чип PSON
+    .desc = Стерильный микрочип, способный подключаться напрямую к мозгу. Эта модель перенастраивает мозг, ослабляя врождённые навыки и перезаписывая личность.
 
-ent-BaseSkillChipHPYS = HPYS-Chip
-    .desc = A sterilized microchip assembly that can directly interface with the brain. This one changes hormone balances to enhance physical traits.
+ent-BaseSkillChipHPYS = Чип HPYS
+    .desc = Стерильный микрочип, способный подключаться напрямую к мозгу. Эта модель меняет баланс гормонов, улучшая физические характеристики.

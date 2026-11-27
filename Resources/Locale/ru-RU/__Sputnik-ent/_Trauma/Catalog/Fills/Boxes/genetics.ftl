@@ -1,2 +1,2 @@
-ent-BoxGeneticsDisk = genetics disk box
-    .desc = A box of blank genetics disks.
+ent-BoxGeneticsDisk = коробка генетических дисков
+    .desc = Коробка с пустыми генетическими дисками.

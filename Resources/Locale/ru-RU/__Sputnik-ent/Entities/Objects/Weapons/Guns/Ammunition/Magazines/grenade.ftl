@@ -1,20 +1,20 @@
-ent-BaseMagazineGrenade = grenade cartridge
+ent-BaseMagazineGrenade = выстрел для гранатомёта
     .desc = { ent-BaseItem.desc }
 
-ent-MagazineGrenadeEmpty = grenade cartridge
+ent-MagazineGrenadeEmpty = выстрел для гранатомёта
     .desc = { ent-BaseMagazineGrenade.desc }
 
-ent-MagazineGrenadeFrag = frag grenade cartridge
+ent-MagazineGrenadeFrag = осколочный выстрел для гранатомёта
     .desc = { ent-BaseMagazineGrenade.desc }
 
-ent-MagazineGrenadeEMP = EMP grenade cartridge
+ent-MagazineGrenadeEMP = ЭМИ-выстрел для гранатомёта
     .desc = { ent-BaseMagazineGrenade.desc }
 
-ent-MagazineGrenadeFlash = flash grenade cartridge
+ent-MagazineGrenadeFlash = световой выстрел для гранатомёта
     .desc = { ent-BaseMagazineGrenade.desc }
 
-ent-MagazineGrenadeBlast = blast grenade cartridge
+ent-MagazineGrenadeBlast = фугасный выстрел для гранатомёта
     .desc = { ent-BaseMagazineGrenade.desc }
 
-ent-MagazineGrenadeBaton = baton grenade cartridge
+ent-MagazineGrenadeBaton = травматический выстрел для гранатомёта
     .desc = { ent-BaseMagazineGrenade.desc }

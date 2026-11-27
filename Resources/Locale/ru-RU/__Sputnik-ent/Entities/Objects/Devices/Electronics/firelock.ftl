@@ -1,2 +1,2 @@
-ent-FirelockElectronics = firelock electronics
-    .desc = An electronics board used to detect differences in pressure, temperature and gas concentrations between the two sides of the door.
+ent-FirelockElectronics = электроника пожарного шлюза
+    .desc = Электронная плата для обнаружения различий в давлении, температуре и концентрации газов по обе стороны двери.

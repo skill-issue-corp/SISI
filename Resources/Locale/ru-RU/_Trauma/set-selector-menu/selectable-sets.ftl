@@ -1,66 +1,66 @@
 # Syndicate
 
-selectable-set-syndicate-lawyer-name = Syndicate Lawyer Bundle
+selectable-set-syndicate-lawyer-name = Комплект Адвоката Синдиката
 selectable-set-syndicate-lawyer-description =
-    The law is on your side, this time.
-    Contains: red lawyer suit, syndicate sun glasses,
-    lawyer badge, lawyer PDA, chameleon headset, chameleon
-    backpack, syndicate encryption key, lawyer's stamp,
-    cybersun pen, space law book, syndicate cane, syndicate stamp,
-    dna scrambler implant, briefcase smg and three magazines.
+    На этот раз закон на вашей стороне.
+    В комплекте: красный адвокатский костюм, солнцезащитные очки синдиката,
+    адвокатский значок, адвокатский КПК, гарнитура-хамелеон,
+    рюкзак-хамелеон, ключ шифрования синдиката, печать адвоката,
+    ручка «киберсан», книга космического закона, трость синдиката, печать синдиката,
+    имплант перемешивания ДНК, ПП в портфеле и три магазина.
 
-selectable-set-syndicate-no-russian-name = Syndicate Terrorist Bundle
+selectable-set-syndicate-no-russian-name = Комплект Террориста Синдиката
 selectable-set-no-russian-description =
-    Remember, No Russian.
-    Contains: black lawyer suit, chest rig, syndicate sun glasses,
-    syndicate encryption key, L6 SAW and 4 L6 SAW magazine box.
+    Помни: Ни Слова по-Русски.
+    В комплекте: чёрный адвокатский костюм, разгрузка, солнцезащитные очки синдиката,
+    ключ шифрования синдиката, L6 SAW и коробка с 4 магазинами L6 SAW.
 
-selectable-set-syndicate-pirate-captain-name = Syndicate Pirate Captain Bundle
+selectable-set-syndicate-pirate-captain-name = Комплект Пиратского Капитана Синдиката
 selectable-set-syndicate-pirate-captain-description =
-    Yo ho, yo ho, A pirate's life for me!
-    Contains: pirate slops, pirate hat, pirate captain cloak,
-    syndicate magboots, explorer gas mask, pirate captain's hardsuit,
-    eyepatch, freelancer's over-ear headset, pirate PDA,
-    syndicate encryption key, pirate revolver, two speedloaders,
-    pirate cannon, two cannonballs, two grapeshot,
-    two glassshot, energy cutlass, and a microbomb implant.
+    Йо-хо, йо-хо, Жизнь пирата мне мила!
+    В комплекте: пиратские штаны, пиратская шляпа, плащ пиратского капитана,
+    магнитные ботинки синдиката, противогаз исследователя, скафандр пиратского капитана,
+    повязка на глаз, накладная гарнитура наёмника, пиратский КПК,
+    ключ шифрования синдиката, пиратский револьвер, два спидлоадера,
+    пиратская пушка, два пушечных ядра, два заряда картечи,
+    два заряда стеклянной дроби, энергетическая сабля и имплант микробомбы.
 
-selectable-set-syndicate-engineer-name = Syndicate Engineer Bundle
+selectable-set-syndicate-engineer-name = Комплект Инженера Синдиката
 selectable-set-syndicate-engineer-description =
-    This bundle has been engineered to cause maximum damage.
-    Contains: syndicate repairman jumpsuit, workboots, hi-viz vest,
-    armored hardhat, syndicate encryption key, acoustic guitar,
-    suspicious toolbox, power sink, two impact emp grenades,
-    two explosive grenades, and four turrets.
+    Набор спроектирован для нанесения максимального ущерба.
+    В комплекте: комбинезон ремонтника синдиката, рабочие ботинки, сигнальный жилет,
+    бронированная каска, ключ шифрования синдиката, акустическая гитара,
+    подозрительный ящик для инструментов, поглотитель энергии, две ударные эми-гранаты,
+    две взрывные гранаты и четыре турели.
 
-selectable-set-syndicate-door-kicker-name = Syndicate Door Kicker Bundle
+selectable-set-syndicate-door-kicker-name = Комплект Взломщика Синдиката
 selectable-set-syndicate-door-kicker-description =
-    Kick, blast or shoot your way in with this bundle.
-    Contains: operative jumpsuit, combat gloves, thermal vision goggles,
-    syndicate operative pda, web vest, chest rig, syndicate gas mask,
-    syndicate jaws of death, 'bojevic' combat shotgun, shell box,
-    syndicate encryption key, and two C-4.
+    С этим комплектом вы пробьётесь внутрь пинком, взрывом или выстрелом.
+    В комплекте: комбинезон оперативника, боевые перчатки, очки тепловидения,
+    КПК оперативника синдиката, разгрузочный жилет, нагрудная разгрузка, противогаз синдиката,
+    гидравлические ножницы синдиката, боевой дробовик bojevic', коробка патронов,
+    ключ шифрования синдиката и два заряда C-4.
 
 # Thief
 
-selectable-set-thief-chemist-name = Chemist Kit
+selectable-set-thief-chemist-name = Комплект Химика
 selectable-set-thief-chemist-description =
-    You've acquired plenty of nefarious equipment,
-    Now you just need to put it to use.
-    Includes: Three vials of vestine, an interdyne dart gun,
-    one bluespace beaker, and finally 2 bluespace vials.
+    Вы раздобыли немало подозрительного снаряжения,
+    Теперь осталось пустить его в ход.
+    В комплекте: Три флакона вестина, дротикомёт «интердайн»,
+    одна блюспейс-мензурка и наконец 2 блюспейс-флакона.
 
-selectable-set-thief-escapist-name = Escapist Kit
+selectable-set-thief-escapist-name = Комплект Беглеца
 selectable-set-thief-escapist-description =
-    The perfect set of tools to escape any situation
-    with a bit of risk attached of course...
-    Includes: An experimental syndicate teleporter, smoke implanter,
-    freedom implanter, no slip shoes, and thermal vision goggles.
+    Идеальный набор для бегства в любой ситуации,
+    хотя риск, конечно, есть...
+    В комплекте: Экспериментальный телепортатор синдиката, имплантер для создания дыма,
+    имплантер свободы, нескользящая обувь и очки тепловидения.
 
-selectable-set-thief-tinkerer-name = Tinkerer Kit
+selectable-set-thief-tinkerer-name = Комплект Умельца
 selectable-set-thief-tinkerer-description =
-    You've learned to adapt and mold the environment to your liking
-    with the various tools provided.
-    Includes: A cybersun access configurator, a syndicate door remote, an agent id,
-    an RCD, insulated gloves, a camera bug,
-    and finally a crafting database skill chip.
+    Вы научились переделывать всё вокруг под себя
+    с помощью выданных инструментов.
+    В комплекте: Конфигуратор доступа «киберсан», дверной пульт синдиката, id-карта агента,
+    РСУ, изолированные перчатки, жучок для камер
+    и наконец чип навыка с базой рецептов изготовления.

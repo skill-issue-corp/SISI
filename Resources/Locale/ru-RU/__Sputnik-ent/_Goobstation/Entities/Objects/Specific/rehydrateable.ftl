@@ -1,23 +1,23 @@
-ent-HumanCube = human cube
+ent-HumanCube = кубик человека
     .desc = { ent-MonkeyCube.desc }
 
-ent-DionaCube = diona cube
+ent-DionaCube = кубик дионы
     .desc = { ent-MonkeyCube.desc }
 
-ent-GingerbreadCube = gingerbread cube
+ent-GingerbreadCube = кубик пряничного человечка
     .desc = { ent-MonkeyCube.desc }
 
-ent-MothCube = moth person cube
+ent-MothCube = кубик ниана
     .desc = { ent-MonkeyCube.desc }
 
-ent-DwarfCube = dwarf cube
+ent-DwarfCube = кубик дворфа
     .desc = { ent-MonkeyCube.desc }
 
-ent-ReptilianCube = reptilian person cube
+ent-ReptilianCube = кубик унатха
     .desc = { ent-MonkeyCube.desc }
 
-ent-SlimePersonCube = slime person cube
+ent-SlimePersonCube = кубик слаймолюда
     .desc = { ent-MonkeyCube.desc }
 
-ent-VoxCube = vox cube
+ent-VoxCube = кубик вокса
     .desc = { ent-MonkeyCube.desc }

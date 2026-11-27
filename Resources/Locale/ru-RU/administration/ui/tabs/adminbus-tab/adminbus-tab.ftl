@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-delete-singularities = Delete Singularities
-open-station-events = Station Events
-load-game-prototype = Load Prototype
-load-blueprints = Load Blueprints
+delete-singularities = Удалить Сингулярности
+open-station-events = События Станции
+load-game-prototype = Загрузить Прототип
+load-blueprints = Загрузить Чертежи

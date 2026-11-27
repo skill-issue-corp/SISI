@@ -1,62 +1,62 @@
 ent-BaseKnowledgeWeaponsMelee = { ent-BaseWarKnowledge }
     .desc = { ent-BaseWarKnowledge.desc }
 
-ent-MeleeKnowledge = Unarmed Training
-    .desc = How good you are at punching others, usually with your bare hands or claws.
+ent-MeleeKnowledge = Подготовка к Бою Без Оружия
+    .desc = Показывает, насколько хорошо вы бьёте противников, обычно голыми руками или когтями.
 
-ent-KnowledgeWeaponsBludgeon = Bludgeons Training
-    .desc = Swinging heavy clubs, bats and what not really fast hurts your foes.
+ent-KnowledgeWeaponsBludgeon = Подготовка к Бою с Дробящим Оружием
+    .desc = Если размахивать тяжёлой дубиной, битой или ещё чем-нибудь очень быстро, противнику будет больно.
 
-ent-KnowledgeWeaponsShortBlade = Short Blade Training
-    .desc = Using knives and other small blades effectively needs quick and powerful stabs and cuts.
+ent-KnowledgeWeaponsShortBlade = Подготовка к Бою с Короткими Клинками
+    .desc = Для эффективного боя ножами и другими короткими клинками нужны быстрые и сильные колющие и режущие удары.
 
-ent-KnowledgeWeaponsLongBlade = Long Blade Training
-    .desc = Large blades are best used by stabbing and slashing your enemies, with enough heft to even parry attacks.
+ent-KnowledgeWeaponsLongBlade = Подготовка к Бою с Длинными Клинками
+    .desc = Длинные клинки хороши для колющих и рубящих ударов, а их вес позволяет даже парировать атаки.
 
-ent-KnowledgeWeaponsPolearm = Polearm Training
-    .desc = Humanity started putting pokey bits on sticks tens of thousands of years ago. Puncture your foes with strong thrusts.
+ent-KnowledgeWeaponsPolearm = Подготовка к Бою с Древковым Оружием
+    .desc = Люди начали насаживать острые штуки на палки десятки тысяч лет назад. Пронзайте врагов мощными выпадами.
 
-ent-KnowledgeWeaponsNonLethal = Non-lethals Training
-    .desc = It takes skill to attack someone. It takes more to attack without killing, like with stun batons or disablers.
+ent-KnowledgeWeaponsNonLethal = Подготовка к Бою с Нелетальным Оружием
+    .desc = Напасть на кого-то тоже надо уметь. Ещё сложнее обезвредить противника нелетальным оружием, например оглушающей дубинкой или дизейблером.
 
-ent-KnowledgeWeaponsTool = Tool Combat Training
-    .desc = Most laymen think it's easy to fight with hedge trimmers and nailguns, a real tradie knows the secret to it.
+ent-KnowledgeWeaponsTool = Подготовка к Бою с Инструментами
+    .desc = Дилетантам кажется, что драться кусторезом и гвоздезабивным пистолетом легко, но секрет знает только настоящий работяга.
 
-ent-KnowledgeWeaponsShield = Shield Training
-    .desc = Allows you to parry and block damage better with shields.
+ent-KnowledgeWeaponsShield = Подготовка к Бою со Щитом
+    .desc = Позволяет лучше парировать и блокировать удары щитом.
 
-ent-KnowledgeWeaponsEnergy = Energy Weapon Training
-    .desc = Modern energy weapons are highly dangerous and unintuitive, it takes lots of training to use them correctly.
+ent-KnowledgeWeaponsEnergy = Подготовка к Бою с Энергетическим Оружием
+    .desc = Современное энергетическое оружие крайне опасно и сложно в обращении. Чтобы освоить его, нужно много тренироваться.
 
 ent-BaseKnowledgeWeaponsRanged = { ent-BaseWarKnowledge }
     .desc = { ent-BaseWarKnowledge.desc }
 
-ent-ShootingKnowledge = Marksmanship
-    .desc = How good your aim is with most guns. Training with the relevant weapon is much better, but a good eye puts you ahead of the rest.
+ent-ShootingKnowledge = Меткая Стрельба
+    .desc = Показывает, насколько метко вы стреляете из большинства видов оружия. Лучше тренироваться с конкретным оружием, но хороший глазомер даёт преимущество.
 
-ent-KnowledgeWeaponsPistol = Pistol Training
-    .desc = How good you are with one-handed ballistics. Mostly magazines and revolver cylinders.
+ent-KnowledgeWeaponsPistol = Стрельба из Пистолета
+    .desc = Показывает, насколько хорошо вы обращаетесь с одноручным огнестрельным оружием, в основном с магазинами и барабанами револьверов.
 
-ent-KnowledgeWeaponsRifle = Longarm Training
-    .desc = How good you are with ballistic long arms like assault rifles and mosins.
+ent-KnowledgeWeaponsRifle = Стрельба из Длинноствольного Оружия
+    .desc = Показывает, насколько хорошо вы обращаетесь с длинноствольным огнестрельным оружием, например с автоматами и винтовками mosin.
 
-ent-KnowledgeWeaponsSMG = SMG Training
-    .desc = How good you are with ballistic sub machine guns.
+ent-KnowledgeWeaponsSMG = Стрельба из ПП
+    .desc = Показывает, насколько хорошо вы обращаетесь с огнестрельными пистолетами-пулемётами.
 
-ent-KnowledgeWeaponsShotgun = Shotgun Training
-    .desc = You know why I use the shotgun? The shotgun doesn't miss.
+ent-KnowledgeWeaponsShotgun = Стрельба из Дробовика
+    .desc = Знаете, почему я пользуюсь дробовиком? Дробовик не промахивается.
 
-ent-KnowledgeWeaponsSniper = Sniper Training
-    .desc = How well you can snipe using a scoped rifle at long range.
+ent-KnowledgeWeaponsSniper = Снайперская Подготовка
+    .desc = Показывает, насколько хорошо вы стреляете на дальние дистанции из винтовки с оптическим прицелом.
 
-ent-KnowledgeWeaponsHeavy = Heavy Weapons Training
-    .desc = I am heavy weapons guy... and this, is my heavy weapon.
+ent-KnowledgeWeaponsHeavy = Подготовка к Бою с Тяжёлым Оружием
+    .desc = Я пулемётчик... а это мой пулемёт.
 
-ent-KnowledgeWeaponsLaser = Lasers Training
-    .desc = Laser weapons have little recoil, what matters more is heat management. NanoTrasen's choice purely for its low cost.
+ent-KnowledgeWeaponsLaser = Стрельба из Лазерного Оружия
+    .desc = У лазерного оружия слабая отдача, важнее следить за нагревом. NanoTrasen выбирает его исключительно из-за дешевизны.
 
-ent-KnowledgeWeaponsMining = Mining Tool Training
-    .desc = How good you are with mining weapons, from modded out PKAs to the humble pickaxe.
+ent-KnowledgeWeaponsMining = Подготовка к Бою с Шахтёрскими Инструментами
+    .desc = Показывает, насколько хорошо вы обращаетесь с шахтёрским оружием, от навороченных ПКА до скромной кирки.
 
-ent-ThrowingKnowledge = Throwing
-    .desc = Makes you throw items faster and with more precision.
+ent-ThrowingKnowledge = Метание
+    .desc = Позволяет бросать предметы быстрее и точнее.

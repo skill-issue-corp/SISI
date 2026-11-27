@@ -1,13 +1,13 @@
-ent-Joint = joint
-    .desc = A roll of dried plant matter wrapped in thin paper.
+ent-Joint = косяк
+    .desc = Сушёная трава, завёрнутая в тонкую бумагу.
 
-ent-JointRainbow = joint
-    .desc = A roll of dried plant matter wrapped in thin paper. Seems to be colorful inside.
-    .suffix = Rainbow
+ent-JointRainbow = косяк
+    .desc = Сушёная трава, завёрнутая в тонкую бумагу. Внутри, кажется, что-то разноцветное.
+    .suffix = Радужный
 
-ent-BluntCigar = blunt
-    .desc = A roll of dried plant matter wrapped in a dried tobacco leaf.
+ent-BluntCigar = блант
+    .desc = Сушёная трава, завёрнутая в сухой табачный лист.
 
-ent-BluntRainbow = blunt
-    .desc = A roll of dried plant matter wrapped in a dried tobacco leaf. Seems to be colorful inside.
-    .suffix = Rainbow
+ent-BluntRainbow = блант
+    .desc = Сушёная трава, завёрнутая в сухой табачный лист. Внутри, кажется, что-то разноцветное.
+    .suffix = Радужный

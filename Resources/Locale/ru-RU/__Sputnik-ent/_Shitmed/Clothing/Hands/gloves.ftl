@@ -1,2 +1,2 @@
-ent-ClothingHandsGlovesSurgical = bluespace surgical gloves
-    .desc = These experimental gloves utilize bluespace technology to allow their user to perform surgery through clothing.
+ent-ClothingHandsGlovesSurgical = блюспейс-хирургические перчатки
+    .desc = В этих экспериментальных перчатках используется блюспейс-технология, позволяющая оперировать сквозь одежду.

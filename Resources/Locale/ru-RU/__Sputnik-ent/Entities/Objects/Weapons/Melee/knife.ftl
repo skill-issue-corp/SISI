@@ -1,45 +1,45 @@
 ent-BaseKnife = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 
-ent-KitchenKnife = kitchen knife
-    .desc = A general purpose Chef's Knife made by Asters Merchant Guild. Guaranteed to stay sharp for years to come..
+ent-KitchenKnife = кухонный нож
+    .desc = Универсальный Поварской Нож от Торговой Гильдии Астерс. Гарантированно останется острым на долгие годы..
 
-ent-ButchCleaver = butcher's cleaver
-    .desc = A huge blade used for chopping and chopping up meat. This includes clowns and clown-by-products.
+ent-ButchCleaver = тесак мясника
+    .desc = Огромное лезвие, чтобы рубить и крошить мясо. Клоуны и продукты их переработки тоже считаются.
 
-ent-CombatKnife = combat knife
-    .desc = A deadly knife intended for melee confrontations.
+ent-CombatKnife = боевой нож
+    .desc = Смертоносный нож для ближнего боя.
 
-ent-SurvivalKnife = survival knife
-    .desc = Weapon of first and last resort for combatting space carp.
+ent-SurvivalKnife = нож для выживания
+    .desc = Первое и последнее средство в борьбе с космическими карпами.
 
-ent-KukriKnife = kukri knife
-    .desc = Professionals have standards. Be polite. Be efficient. Have a plan to kill everyone you meet.
+ent-KukriKnife = нож кукри
+    .desc = У профессионалов есть стандарты. Будьте вежливы. Будьте эффективны. Имейте план, как убить каждого встречного.
 
-ent-XenoborgBioKnife = bio knife
-    .desc = Melds itself to specific metabolizers and will deal extra damage to those targets!
+ent-XenoborgBioKnife = биологический нож
+    .desc = Срастается с организмами с определённым метаболизмом и наносит таким целям дополнительный урон!
 
-ent-BladedFlatcapGrey = grey flatcap
-    .desc = Fashionable for both the working class and old man Jenkins. It has glass shards hidden in the brim.
-    .suffix = Bladed
+ent-BladedFlatcapGrey = серая кепка
+    .desc = Модная вещь и для рабочих, и для старика Дженкинса. В козырьке спрятаны осколки стекла.
+    .suffix = С Лезвием
 
-ent-BladedFlatcapBrown = brown flatcap
-    .desc = "Stupid clown! You made me look bad!" It has glass shards hidden in the brim.
+ent-BladedFlatcapBrown = коричневая кепка
+    .desc = «Тупой клоун! Ты меня опозорил!» В козырьке спрятаны осколки стекла.
 
-ent-Shiv = shiv
-    .desc = A crude weapon fashioned from a piece of cloth and a glass shard.
+ent-Shiv = заточка
+    .desc = Грубое оружие из лоскута ткани и осколка стекла.
 
-ent-ReinforcedShiv = reinforced shiv
-    .desc = A crude weapon fashioned from a piece of cloth and a reinforced glass shard.
+ent-ReinforcedShiv = заточка из бронестекла
+    .desc = Грубое оружие из лоскута ткани и осколка бронестекла.
 
-ent-PlasmaShiv = plasma shiv
-    .desc = A crude weapon fashioned from a piece of cloth and a plasma glass shard.
+ent-PlasmaShiv = фороновая заточка
+    .desc = Грубое оружие из лоскута ткани и осколка форонового стекла.
 
-ent-UraniumShiv = uranium shiv
-    .desc = A crude weapon fashioned from a piece of cloth and a uranium glass shard. Violates the Geneva convention!
+ent-UraniumShiv = урановая заточка
+    .desc = Грубое оружие из лоскута ткани и осколка уранового стекла. Нарушает Женевскую конвенцию!
 
-ent-ThrowingKnife = throwing knife
-    .desc = This blood-red knife is very aerodynamic and easy to throw, but good luck trying to fight someone hand-to-hand.
+ent-ThrowingKnife = метательный нож
+    .desc = Этот кроваво-красный нож обтекаемый и легко летит, но попробуйте-ка отбиться им от кого-нибудь в рукопашной.
 
-ent-UtilityKnife = utility knife
-    .desc = A knife with a retractable, tiny blade. Useful as a box cutter and letter opener, among other things.
+ent-UtilityKnife = канцелярский нож
+    .desc = Нож с крошечным выдвижным лезвием. Среди прочего им удобно вскрывать коробки и письма.

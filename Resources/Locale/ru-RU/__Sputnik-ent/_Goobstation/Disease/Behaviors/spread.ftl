@@ -1,2 +1,2 @@
-ent-DiseaseBehaviorCough = Cough
-    .desc = Makes you cough. Infective.
+ent-DiseaseBehaviorCough = Кашлянуть
+    .desc = Вызывает кашель. Заразен.

@@ -5,14 +5,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-goobstation-clarke-bounty-desc = The local mining colony at the Sol Sector requires some more mechs. Send us a Clarke.
-goobstation-clarke-bounty-name = Clarke
+goobstation-clarke-bounty-desc = Шахтёрской колонии в Секторе Сол нужно больше мехов. Пришлите нам Кларка.
+goobstation-clarke-bounty-name = Кларк
 
-goobstation-durand-bounty-desc = The Tranquility Assurance Force requires some more defensive power on the frontlines. We request a Durand.
-goobstation-durand-bounty-name = Durand
+goobstation-durand-bounty-desc = Силам обеспечения спокойствия нужно укрепить оборону на передовой. Просим прислать Дюранд.
+goobstation-durand-bounty-name = Дюранд
 
-goobstation-ripley-bounty-desc = Hephaestus Industries is looking for some spare mechs to use in their dig sites. Send us a Ripley MkII.
-goobstation-ripley-bounty-name = Ripley MkII
+goobstation-ripley-bounty-desc = «Гефест Индастриз» ищет запасных мехов для работы на раскопках. Пришлите Рипли МкII.
+goobstation-ripley-bounty-name = Рипли МкII
 
-goobstation-gygax-bounty-desc = The Tranquility Assurance Force needs to enhance their Peacekeeping squadrons, we request a Gygax.
-goobstation-gygax-bounty-name = Gygax
+goobstation-gygax-bounty-desc = Силам обеспечения спокойствия нужно усилить миротворческие эскадрильи. Просим прислать Гигакс.
+goobstation-gygax-bounty-name = Гигакс

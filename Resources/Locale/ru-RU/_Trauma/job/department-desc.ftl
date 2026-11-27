@@ -1,2 +1,2 @@
-department-Civilian-description-trauma = Low-responsibility jobs on the station.
-department-Service-description-trauma = Cater to the crew's food and drink needs.
+department-Civilian-description-trauma = Должности на станции с небольшой ответственностью.
+department-Service-description-trauma = Обеспечивайте экипаж едой и напитками.

@@ -4,5 +4,5 @@ ent-OrganBaseTorsoTailed = { ent-OrganBaseTorso }
 ent-OrganBaseTorsoWinged = { ent-OrganBaseTorso }
     .desc = { ent-OrganBaseTorso.desc }
 
-ent-OrganBaseWings = wings
+ent-OrganBaseWings = крылья
     .desc = { ent-OrganBaseExternal.desc }

@@ -1,11 +1,11 @@
-encryption-key-successfully-installed = You put the encryption key inside.
-encryption-key-slots-already-full = There is no place for another encryption key.
-encryption-keys-all-extracted = You pop out the encryption keys!
-encryption-keys-no-keys = This device has no encryption keys!
-encryption-keys-are-locked = Encryption key slots are locked!
-encryption-keys-panel-locked = Open maintenance panel first!
+encryption-key-successfully-installed = Вы вставляете ключ шифрования.
+encryption-key-slots-already-full = Для ещё одного ключа шифрования нет места.
+encryption-keys-all-extracted = Вы извлекаете ключи шифрования!
+encryption-keys-no-keys = В устройстве нет ключей шифрования!
+encryption-keys-are-locked = Слоты ключей шифрования заблокированы!
+encryption-keys-panel-locked = Сначала откройте сервисную панель!
 
-examine-encryption-channels-prefix = Available frequencies:
+examine-encryption-channels-prefix = Доступные частоты:
 # Trauma - add deviceType
-examine-encryption-channel = [color={$color}]{$key} for {$id} ({$freq}) {$deviceType}[/color]
-examine-encryption-default-channel = The default channel is [color={$color}]{$channel}[/color].
+examine-encryption-channel = [color={$color}]{$key} для {$id} ({$freq}) {$deviceType}[/color]
+examine-encryption-default-channel = Канал по умолчанию: [color={$color}]{$channel}[/color].

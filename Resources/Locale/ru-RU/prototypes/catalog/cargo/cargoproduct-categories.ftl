@@ -4,21 +4,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cargoproduct-category-name-armory = Armory
-cargoproduct-category-name-atmospherics = Atmospherics
-cargoproduct-category-name-cargo = Cargo
-cargoproduct-category-name-circuitboards = Circuitboards
-cargoproduct-category-name-emergency = Emergency
-cargoproduct-category-name-engineering = Engineering
-cargoproduct-category-name-food = Food
-cargoproduct-category-name-fun = Fun
-cargoproduct-category-name-hydroponics = Hydroponics
-cargoproduct-category-name-instruments = Instruments
-cargoproduct-category-name-janitorial = Janitorial
-cargoproduct-category-name-livestock = Livestock
-cargoproduct-category-name-materials = Materials
-cargoproduct-category-name-medical = Medical
-cargoproduct-category-name-science = Science
-cargoproduct-category-name-security = Security
-cargoproduct-category-name-service = Service
-cargoproduct-category-name-space = Space
+cargoproduct-category-name-armory = Оружейная
+cargoproduct-category-name-atmospherics = Атмосферный Отсек
+cargoproduct-category-name-cargo = Карго
+cargoproduct-category-name-circuitboards = Платы
+cargoproduct-category-name-emergency = Аварийные Припасы
+cargoproduct-category-name-engineering = Инженерный Отдел
+cargoproduct-category-name-food = Еда
+cargoproduct-category-name-fun = Развлечения
+cargoproduct-category-name-hydroponics = Гидропоника
+cargoproduct-category-name-instruments = Инструменты
+cargoproduct-category-name-janitorial = Уборка
+cargoproduct-category-name-livestock = Животные
+cargoproduct-category-name-materials = Материалы
+cargoproduct-category-name-medical = Медотсек
+cargoproduct-category-name-science = Наука
+cargoproduct-category-name-security = Служба Безопасности
+cargoproduct-category-name-service = Обслуживание
+cargoproduct-category-name-space = Космос

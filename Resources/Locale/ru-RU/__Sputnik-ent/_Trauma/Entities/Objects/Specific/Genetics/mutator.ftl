@@ -1,9 +1,9 @@
-ent-GeneticsMutator = mutator
-    .desc = A single-use injector of a mutagen designed to replicate a specific gene throughout the body.
-    .suffix = Empty
+ent-GeneticsMutator = мутатор
+    .desc = Одноразовый инъектор мутагена, который распространяет определённый ген по всему организму.
+    .suffix = Пусто
 
-ent-GeneticsActivator = activator
-    .desc = A single-use injector of a mutagen which can activate a dormant mutation without increasing instability.
+ent-GeneticsActivator = активатор
+    .desc = Одноразовый инъектор мутагена, который активирует спящую мутацию без повышения нестабильности.
 
-ent-GeneticsCleanser = cleanser
-    .desc = A single-use injector of a mutagen designed to remove and de-express a specific gene from the body.
+ent-GeneticsCleanser = очиститель
+    .desc = Одноразовый инъектор мутагена, который подавляет экспрессию определённого гена и удаляет его из организма.

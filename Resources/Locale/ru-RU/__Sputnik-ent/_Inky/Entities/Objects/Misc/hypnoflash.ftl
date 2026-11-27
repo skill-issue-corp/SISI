@@ -1,25 +1,25 @@
-ent-HypnoflashSyndicate = hypnoflash
-    .desc = A special flash, manufactured by Interdyne, capable of erasing temporal memory of anyone it flashes, rendering the first words heard echo through the mind of the flashed.
-    .suffix = syndicate, 1 charge
+ent-HypnoflashSyndicate = гипновспышка
+    .desc = Особая вспышка производства «Интердайн». Стирает недавние воспоминания у всякого, кого ослепит, а первые услышанные после этого слова эхом звучат у него в голове.
+    .suffix = синдикат, 1 заряд
 
 ent-HypnoflashDebug = { ent-HypnoflashSyndicate }
     .desc = { ent-HypnoflashSyndicate.desc }
-    .suffix = Debug
+    .suffix = Отладка
 
-ent-BriefcaseSyndieSuperValidEmpty = briefcase
-    .desc = One bald dude used to carry one of those for sure.
-    .suffix = empty
+ent-BriefcaseSyndieSuperValidEmpty = портфель
+    .desc = Один лысый тип точно носил такой.
+    .suffix = пустой
 
 ent-PaperWrittenHypnoflashAd = { ent-Paper }
     .desc = { ent-Paper.desc }
-    .suffix = hypnoflash ad
+    .suffix = реклама гипновспышки
 
 ent-BriefcaseSyndieSuperValidHypnoflash = { ent-BriefcaseSyndieSuperValidEmpty }
     .desc = { ent-BriefcaseSyndieSuperValidEmpty.desc }
-    .suffix = filled, hypnoflash
+    .suffix = заполнен, гипновспышка
 
-ent-HypnotizedObjective = Hypnotized
-    .desc = Your mind goes silent.
+ent-HypnotizedObjective = Загипнотизированы
+    .desc = В вашем разуме воцаряется тишина.
 
-ent-MindRoleHypnotized = Hypnotized
+ent-MindRoleHypnotized = Загипнотизированы
     .desc = { ent-BaseMindRoleAntag.desc }

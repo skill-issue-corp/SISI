@@ -1,2 +1,2 @@
-ent-ActionDevourLootbug = [color=red]Devour[/color]
-    .desc = Consume various materials to insides of your body.
+ent-ActionDevourLootbug = [color=red]Пожрать[/color]
+    .desc = Поглощайте различные материалы, накапливая их внутри своего тела.

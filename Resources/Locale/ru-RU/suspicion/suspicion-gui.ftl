@@ -9,7 +9,7 @@
 
 # Shown when clicking your Role Button in Suspicion
 suspicion-ally-count-display = {$allyCount ->
-    *[zero] You have no allies
-    [one] Your ally is {$allyNames}
-    [other] Your allies are {$allyNames}
+    [0] У вас нет союзников
+    [1] Ваш союзник: {$allyNames}
+   *[other] Ваши союзники: {$allyNames}
 }

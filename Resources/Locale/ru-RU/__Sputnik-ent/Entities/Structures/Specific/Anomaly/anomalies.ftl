@@ -1,85 +1,85 @@
-ent-BaseAnomaly = anomaly
-    .desc = An impossible object. Should you be standing this close to it?
+ent-BaseAnomaly = аномалия
+    .desc = Невозможный объект. Стоит ли вам стоять так близко к нему?
 
 ent-AnomalyPyroclastic = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
-    .suffix = Pyroclastic
+    .suffix = Пирокластическая
 
 ent-AnomalyGravity = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
-    .suffix = Gravity
+    .suffix = Гравитационная
 
 ent-AnomalyElectricity = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
-    .suffix = Electricity
+    .suffix = Электрическая
 
 ent-AnomalyFlesh = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
-    .suffix = Flesh
+    .suffix = Плоть
 
 ent-AnomalyBluespace = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
-    .suffix = Bluespace
+    .suffix = Блюспейс
 
 ent-AnomalyIce = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
-    .suffix = Ice
+    .suffix = Лёд
 
 ent-AnomalyRockBase = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
-    .suffix = Rock
+    .suffix = Каменная
 
 ent-AnomalyRockUranium = { ent-AnomalyRockBase }
     .desc = { ent-AnomalyRockBase.desc }
-    .suffix = Rock, Uranium
+    .suffix = Каменная, Уран
 
 ent-AnomalyRockBananium = { ent-AnomalyRockBase }
     .desc = { ent-AnomalyRockBase.desc }
-    .suffix = Rock, Bananium
+    .suffix = Каменная, Бананиум
 
 ent-AnomalyRockQuartz = { ent-AnomalyRockBase }
     .desc = { ent-AnomalyRockBase.desc }
-    .suffix = Rock, Quartz
+    .suffix = Каменная, Кварц
 
 ent-AnomalyRockSilver = { ent-AnomalyRockBase }
     .desc = { ent-AnomalyRockBase.desc }
-    .suffix = Rock, Silver
+    .suffix = Каменная, Серебро
 
 ent-AnomalyRockGold = { ent-AnomalyRockBase }
     .desc = { ent-AnomalyRockBase.desc }
-    .suffix = Rock, Gold
+    .suffix = Каменная, Золото
 
 ent-AnomalyRockIron = { ent-AnomalyRockBase }
     .desc = { ent-AnomalyRockBase.desc }
-    .suffix = Rock, Iron
+    .suffix = Каменная, Железо
 
 ent-AnomalyRockCoal = { ent-AnomalyRockBase }
     .desc = { ent-AnomalyRockBase.desc }
-    .suffix = Rock, Coal
+    .suffix = Каменная, Уголь
 
 ent-AnomalyFlora = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
-    .suffix = Flora
+    .suffix = Растительная
 
-ent-AnomalyFloraBulb = strange glowing berry
-    .desc = It's a beautiful strange glowing berry. It seems to have something growing inside it...
-    .suffix = Flora Anomaly
+ent-AnomalyFloraBulb = странная светящаяся ягода
+    .desc = Красивая странная светящаяся ягода. Кажется, внутри что-то растёт...
+    .suffix = Растительная Аномалия
 
 ent-AnomalyLiquid = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
-    .suffix = Liquid
+    .suffix = Жидкостная
 
 ent-AnomalyShadow = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
-    .suffix = Shadow
+    .suffix = Теневая
 
 ent-AnomalyTech = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
-    .suffix = Tech
+    .suffix = Технологическая
 
 ent-AnomalyTechBeam = { "" }
     .desc = { "" }
 
 ent-AnomalySanta = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
-    .suffix = Santa
+    .suffix = Санта

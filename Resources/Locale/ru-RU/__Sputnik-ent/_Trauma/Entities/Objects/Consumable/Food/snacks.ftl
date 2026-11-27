@@ -1,11 +1,11 @@
 ent-FoodSnackBase = { ent-FoodSnackHealthyBase }
     .desc = { ent-FoodSnackHealthyBase.desc }
 
-ent-FoodSnackChocolateOrganic = organic chocolate bar
-    .desc = Tastes better in Europe, but it's good enough for you.
+ent-FoodSnackChocolateOrganic = плитка органического шоколада
+    .desc = В Европе вкуснее, но вам и так сойдёт.
 
-ent-FoodSnackChocolateBarOrganic = organic chocolate bar
-    .desc = Tastes better in Europe, but it's good enough for you.
+ent-FoodSnackChocolateBarOrganic = плитка органического шоколада
+    .desc = В Европе вкуснее, но вам и так сойдёт.
 
-ent-FoodSnackPopcornOrganic = organic popcorn
-    .desc = Grown by some jerk on a space station, popped by some jerk on a space station.
+ent-FoodSnackPopcornOrganic = органический попкорн
+    .desc = Выращен каким-то придурком на космической станции и взорван каким-то придурком на космической станции.

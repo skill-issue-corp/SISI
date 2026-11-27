@@ -1,44 +1,44 @@
-ent-CrateMaterialGlass = glass sheet crate
-    .desc = 90 sheets of glass, packed with care.
+ent-CrateMaterialGlass = ящик листового стекла
+    .desc = 90 листов стекла, упакованных с заботой.
 
-ent-CrateMaterialSteel = steel sheet crate
-    .desc = 90 sheets of steel.
+ent-CrateMaterialSteel = ящик листовой стали
+    .desc = 90 листов стали.
 
-ent-CrateMaterialCloth = cloth crate
-    .desc = 90 pieces of cloth.
+ent-CrateMaterialCloth = ящик ткани
+    .desc = 90 кусков ткани.
 
-ent-CrateMaterialPlastic = plastic sheet crate
-    .desc = 90 sheets of plastic.
+ent-CrateMaterialPlastic = ящик листового пластика
+    .desc = 90 листов пластика.
 
-ent-CrateMaterialWood = wood crate
-    .desc = Bunch of wood planks.
+ent-CrateMaterialWood = ящик древесины
+    .desc = Куча деревянных досок.
 
-ent-CrateMaterialBrass = brass crate
-    .desc = 90 sheets of brass.
+ent-CrateMaterialBrass = ящик латуни
+    .desc = 90 листов латуни.
 
-ent-CrateMaterialPlasteel = plasteel crate
-    .desc = 30 sheets of plasteel.
+ent-CrateMaterialPlasteel = ящик пластали
+    .desc = 30 листов пластали.
 
-ent-CrateMaterialPlasma = solid plasma crate
-    .desc = 30 sheets of plasma.
+ent-CrateMaterialPlasma = ящик твёрдой плазмы
+    .desc = 30 листов плазмы.
 
-ent-CrateMaterialGold = gold crate
-    .desc = 30 bars of gold.
+ent-CrateMaterialGold = ящик золота
+    .desc = 30 слитков золота.
 
-ent-CrateMaterialSilver = silver crate
-    .desc = 30 bars of silver.
+ent-CrateMaterialSilver = ящик серебра
+    .desc = 30 слитков серебра.
 
-ent-CrateMaterialCardboard = cardboard crate
-    .desc = 90 pieces of cardboard.
+ent-CrateMaterialCardboard = ящик картона
+    .desc = 90 кусков картона.
 
-ent-CrateMaterialPaper = paper crate
-    .desc = 90 sheets of paper.
+ent-CrateMaterialPaper = ящик бумаги
+    .desc = 90 листов бумаги.
 
-ent-CrateMaterialRandom = surplus materials
-    .desc = Surplus materials from somewhere.
+ent-CrateMaterialRandom = излишки материалов
+    .desc = Лишние материалы откуда-то.
 
-ent-CrateMaterialSilo = material silo crate
-    .desc = A package including all the materials to create a material silo.
+ent-CrateMaterialSilo = ящик для сборки хранилища материалов
+    .desc = Комплект со всеми материалами для сборки хранилища материалов.
 
-ent-CrateMaterialBasicResource = basic sheet crate
-    .desc = 30 sheets of steel, glass, and plastic.
+ent-CrateMaterialBasicResource = ящик основных листовых материалов
+    .desc = 30 листов стали, стекла и пластика.

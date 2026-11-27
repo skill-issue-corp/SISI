@@ -1,5 +1,5 @@
-ent-NuclearReactorMonitorComputerCircuitboard = nuclear reactor monitor computer board
-    .desc = A computer printed circuit board for a nuclear reactor monitor.
+ent-NuclearReactorMonitorComputerCircuitboard = консольная плата монитора ядерного реактора
+    .desc = Печатная плата для сборки монитора ядерного реактора.
 
-ent-GasTurbineMonitorComputerCircuitboard = gas turbine monitor computer board
-    .desc = A computer printed circuit board for a gas turbine monitor.
+ent-GasTurbineMonitorComputerCircuitboard = консольная плата монитора газовой турбины
+    .desc = Печатная плата для сборки монитора газовой турбины.

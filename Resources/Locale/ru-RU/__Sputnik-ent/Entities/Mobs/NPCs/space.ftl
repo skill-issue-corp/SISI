@@ -1,56 +1,56 @@
-ent-MobSpaceBasic = basic
-    .desc = It looks friendly. Why don't you give it a hug?
+ent-MobSpaceBasic = базовый
+    .desc = Выглядит дружелюбно. Почему бы вам его не обнять?
 
-ent-MobBearSpace = space bear
-    .desc = It looks friendly. Why don't you give it a hug?
+ent-MobBearSpace = космический медведь
+    .desc = Выглядит дружелюбно. Почему бы вам его не обнять?
 
 ent-MobBearSpaceSalvage = { ent-MobBearSpace }
     .desc = { ent-MobBearSpace.desc }
-    .suffix = Salvage Ruleset
+    .suffix = Правила Утилизации
 
-ent-MobKangarooSpace = space kangaroo
-    .desc = It looks friendly. Why don't you give it a hug?
+ent-MobKangarooSpace = космический кенгуру
+    .desc = Выглядит дружелюбно. Почему бы вам его не обнять?
 
 ent-MobKangarooSpaceSalvage = { ent-MobKangarooSpace }
     .desc = { ent-MobKangarooSpace.desc }
-    .suffix = Salvage Ruleset
+    .suffix = Правила Утилизации
 
-ent-MobSpiderSpace = space spider
-    .desc = It's so glowing, it looks dangerous.
+ent-MobSpiderSpace = космический паук
+    .desc = Так ярко светится, что выглядит опасным.
 
 ent-SolutionVenomSpiderSpace = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
 ent-MobSpiderSpaceSalvage = { ent-MobSpiderSpace }
     .desc = { ent-MobSpiderSpace.desc }
-    .suffix = Salvage Ruleset
+    .suffix = Правила Утилизации
 
-ent-MobCobraSpace = space cobra
-    .desc = Long fangs and a glowing hood, and the alluring look begs to come closer.
+ent-MobCobraSpace = космическая кобра
+    .desc = Длинные клыки, светящийся капюшон и манящий взгляд так и зовут подойти поближе.
 
 ent-SolutionVenomCobraSpace = { ent-SolutionWeapon }
     .desc = { ent-SolutionWeapon.desc }
 
 ent-MobCobraSpaceSalvage = { ent-MobCobraSpace }
     .desc = { ent-MobCobraSpace.desc }
-    .suffix = Salvage Ruleset
+    .suffix = Правила Утилизации
 
-ent-MobSheepSpace = space sheep
-    .desc = A sheep... in space!
+ent-MobSheepSpace = космическая овца
+    .desc = Овца... в космосе!
 
 ent-SolutionWoolSpaceSheep = { ent-SolutionWool }
     .desc = { ent-SolutionWool.desc }
 
-ent-MobSnail = snail
-    .desc = Revolting unless you're french.
+ent-MobSnail = улитка
+    .desc = Отвратительна, если вы не француз.
 
 ent-MobSnailInstantDeath = { ent-MobSnail }
     .desc = { ent-MobSnail.desc }
-    .suffix = Smite
+    .suffix = Кара
 
 ent-MobSnailSpeed = { ent-MobSnail }
     .desc = { ent-MobSnail.desc }
-    .suffix = Speed
+    .suffix = Скорость
 
-ent-MobSnailMoth = snoth
+ent-MobSnailMoth = улиткомоль
     .desc = { ent-BaseMobMothroach.desc }

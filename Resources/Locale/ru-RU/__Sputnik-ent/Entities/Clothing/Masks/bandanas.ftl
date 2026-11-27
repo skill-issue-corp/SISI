@@ -1,32 +1,32 @@
 ent-ClothingMaskBandanaBase = { ent-ClothingMaskBaseButcherable }
     .desc = { ent-ClothingMaskBaseButcherable.desc }
 
-ent-ClothingMaskBandBlack = black bandana
-    .desc = A black bandana to make you look cool.
+ent-ClothingMaskBandBlack = чёрная бандана
+    .desc = Чёрная бандана, чтобы выглядеть круто.
 
-ent-ClothingMaskBandBlue = blue bandana
-    .desc = A blue bandana to make you look cool.
+ent-ClothingMaskBandBlue = синяя бандана
+    .desc = Синяя бандана, чтобы выглядеть круто.
 
-ent-ClothingMaskBandBotany = botany bandana
-    .desc = A botany bandana to make you look cool, made from natural fibers.
+ent-ClothingMaskBandBotany = бандана ботаника
+    .desc = Бандана ботаника из натуральных волокон, чтобы выглядеть круто.
 
-ent-ClothingMaskBandGold = gold bandana
-    .desc = A gold bandana to make you look cool.
+ent-ClothingMaskBandGold = золотая бандана
+    .desc = Золотистая бандана, чтобы выглядеть круто.
 
-ent-ClothingMaskBandGreen = green bandana
-    .desc = A green bandana to make you look cool.
+ent-ClothingMaskBandGreen = зелёная бандана
+    .desc = Зелёная бандана, чтобы выглядеть круто.
 
-ent-ClothingMaskBandGrey = grey bandana
-    .desc = A grey bandana to make you look cool.
+ent-ClothingMaskBandGrey = серая бандана
+    .desc = Серая бандана, чтобы выглядеть круто.
 
-ent-ClothingMaskBandRed = red bandana
-    .desc = A red bandana to make you look cool.
+ent-ClothingMaskBandRed = красная бандана
+    .desc = Красная бандана, чтобы выглядеть круто.
 
-ent-ClothingMaskBandSkull = skull bandana
-    .desc = A bandana with a skull to make you look even cooler.
+ent-ClothingMaskBandSkull = бандана с черепом
+    .desc = Бандана с черепом, чтобы выглядеть ещё круче.
 
-ent-ClothingMaskBandMerc = mercenary bandana
-    .desc = To protect the head from the sun, insects and other dangers of the higher path.
+ent-ClothingMaskBandMerc = бандана наёмника
+    .desc = Защищает голову от солнца, насекомых и других опасностей высокого пути.
 
-ent-ClothingMaskBandBrown = brown bandana
-    .desc = A brown bandana to make you look cool.
+ent-ClothingMaskBandBrown = коричневая бандана
+    .desc = Коричневая бандана, чтобы выглядеть круто.

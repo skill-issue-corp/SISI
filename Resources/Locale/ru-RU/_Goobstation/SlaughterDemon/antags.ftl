@@ -1,2 +1,2 @@
-roles-antag-slaughter-demon-name = Slaughter Demon
-roles-antag-slaughter-demon-objective = First, kill the one who summoned you. Second, kill everyone else.
+roles-antag-slaughter-demon-name = Демон Резни
+roles-antag-slaughter-demon-objective = Сначала убейте того, кто вас призвал. Затем убейте всех остальных.

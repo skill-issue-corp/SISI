@@ -8,17 +8,17 @@
 
 ## Action menu stuff (left panel, with hotbars etc)
 
-ui-actionmenu-title = Actions
-ui-actionmenu-filter-label = Filters: {$selectedLabels}
-ui-actionmenu-filter-button = Filter
-ui-actionmenu-search-bar-placeholder-text = Search
-ui-actionmenu-clear-button = Clear
+ui-actionmenu-title = Действия
+ui-actionmenu-filter-label = Фильтры: {$selectedLabels}
+ui-actionmenu-filter-button = Фильтр
+ui-actionmenu-search-bar-placeholder-text = Поиск
+ui-actionmenu-clear-button = Очистить
 
-ui-actionsui-function-lock-action-slots = (Un)lock dragging and clearing action slots
-ui-actionsui-function-open-abilities-menu = Open action menu
+ui-actionsui-function-lock-action-slots = Заблокировать или разблокировать перемещение и очистку ячеек действий
+ui-actionsui-function-open-abilities-menu = Открыть меню действий
 
-ui-actionmenu-enabled = Enabled
-ui-actionmenu-item = Item
-ui-actionmenu-innate = Innate
-ui-actionmenu-instant = Instant
-ui-actionmenu-targeted = Targeted
+ui-actionmenu-enabled = Включено
+ui-actionmenu-item = Предмет
+ui-actionmenu-innate = Врождённое
+ui-actionmenu-instant = Мгновенное
+ui-actionmenu-targeted = С выбором цели

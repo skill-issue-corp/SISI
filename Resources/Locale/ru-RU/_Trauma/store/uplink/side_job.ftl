@@ -1,2 +1,2 @@
-uplink-job-runner-kit-name = Job Runner Kit
-uplink-job-runner-kit-desc = Pay half your telecrystal budget in exchange for access to a lucrative job board. It can provide you with telecrystal rewards in exchange for completing bonus objectives.
+uplink-job-runner-kit-name = Комплект для Подработки
+uplink-job-runner-kit-desc = Отдайте половину своих телекристаллов за доступ к доске выгодных заданий. За выполнение дополнительных целей можно получить телекристаллы.

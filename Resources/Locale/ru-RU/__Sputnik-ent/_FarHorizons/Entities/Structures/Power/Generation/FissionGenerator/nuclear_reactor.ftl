@@ -1,73 +1,73 @@
-ent-BaseNuclearReactor = nuclear reactor
-    .desc = A nuclear reactor vessel, with slots for fuel rods and other components. Hey wait, didn't one of these explode once?
+ent-BaseNuclearReactor = ядерный реактор
+    .desc = Корпус ядерного реактора с гнёздами для топливных стержней и других компонентов. Погодите, разве такой однажды не взорвался?
 
 ent-NuclearReactorCrew = { ent-BaseNuclearReactor }
     .desc = { ent-BaseNuclearReactor.desc }
 
 ent-NuclearReactorCrewRunning = { ent-NuclearReactorCrew }
     .desc = { ent-NuclearReactorCrew.desc }
-    .suffix = Running
+    .suffix = Работает
 
 ent-NuclearReactorEmpty = { ent-NuclearReactorCrew }
     .desc = { ent-NuclearReactorCrew.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
 ent-NuclearReactorRandom = { ent-NuclearReactorCrew }
     .desc = { ent-NuclearReactorCrew.desc }
-    .suffix = Random
+    .suffix = Случайное Наполнение
 
 ent-NuclearReactorMeltdown = { ent-NuclearReactorCrew }
     .desc = { ent-NuclearReactorCrew.desc }
-    .suffix = Meltdown
+    .suffix = Расплавляется
 
-ent-NuclearReactorMelted = nuclear reactor
-    .desc = A broken nuclear reactor vessel. It glows with heat and radiation.
-    .suffix = Melted
+ent-NuclearReactorMelted = ядерный реактор
+    .desc = Разрушенный корпус ядерного реактора. Светится от жара и радиации.
+    .suffix = Расплавлен
 
-ent-NuclearReactorSmall = small nuclear reactor
+ent-NuclearReactorSmall = малый ядерный реактор
     .desc = { ent-NuclearReactorCrew.desc }
 
 ent-NuclearReactorSmallRandom = { ent-NuclearReactorSmall }
     .desc = { ent-NuclearReactorSmall.desc }
-    .suffix = Random
+    .suffix = Случайное Наполнение
 
-ent-NuclearReactorSmallMelted = small nuclear reactor
-    .desc = A broken nuclear reactor vessel. It glows with heat and radiation.
-    .suffix = Melted
+ent-NuclearReactorSmallMelted = малый ядерный реактор
+    .desc = Разрушенный корпус ядерного реактора. Светится от жара и радиации.
+    .suffix = Расплавлен
 
 ent-NuclearReactorSalvage = { ent-BaseNuclearReactor }
     .desc = { ent-BaseNuclearReactor.desc }
 
 ent-NuclearReactorNormalSalvage = { ent-NuclearReactorSalvage }
     .desc = { ent-NuclearReactorSalvage.desc }
-    .suffix = Salvage
+    .suffix = Утилизация
 
 ent-NuclearReactorEmptySalvage = { ent-NuclearReactorSalvage }
     .desc = { ent-NuclearReactorSalvage.desc }
-    .suffix = Empty, Salvage
+    .suffix = Пусто, Утилизация
 
 ent-NuclearReactorRandomSalvage = { ent-NuclearReactorSalvage }
     .desc = { ent-NuclearReactorSalvage.desc }
-    .suffix = Random, Salvage
+    .suffix = Случайное Наполнение, Утилизация
 
 ent-NuclearReactorMeltedSalvage = { ent-NuclearReactorMelted }
-    .desc = A nuclear reactor vessel, long since melted down. It still glows with residual heat and radiation.
-    .suffix = Melted, Salvage
+    .desc = Давно расплавившийся корпус ядерного реактора. Всё ещё светится от остаточного тепла и радиации.
+    .suffix = Расплавлен, Утилизация
 
-ent-NuclearReactorSmallSalvage = small nuclear reactor
+ent-NuclearReactorSmallSalvage = малый ядерный реактор
     .desc = { ent-NuclearReactorSalvage.desc }
-    .suffix = Salvage
+    .suffix = Утилизация
 
 ent-NuclearReactorSmallRandomSalvage = { ent-NuclearReactorSmall }
     .desc = { ent-NuclearReactorSmall.desc }
-    .suffix = Random, Salvage
+    .suffix = Случайное Наполнение, Утилизация
 
 ent-NuclearReactorSmallMeltedSalvage = { ent-NuclearReactorSmallMelted }
-    .desc = A nuclear reactor vessel, long since melted down. It still glows with residual heat and radiation.
-    .suffix = Melted, Salvage
+    .desc = Давно расплавившийся корпус ядерного реактора. Всё ещё светится от остаточного тепла и радиации.
+    .suffix = Расплавлен, Утилизация
 
-ent-NuclearDebrisChunk = nuclear debris
-    .desc = You do not see the graphite on the floor. You're in shock. Report to medical.
+ent-NuclearDebrisChunk = обломки реактора
+    .desc = Вы не видите графита на полу. У вас шок. Обратитесь в медотсек.
 
 ent-ReactorFlowArrow = { "" }
     .desc = { "" }

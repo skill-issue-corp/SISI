@@ -1,23 +1,23 @@
-ent-PersonalAI = personal ai device
-    .desc = Your electronic pal who's fun to be with!
+ent-PersonalAI = устройство пии
+    .desc = Ваш электронный приятель, с которым не соскучишься!
 
-ent-SyndicatePersonalAI = syndicate personal ai device
-    .desc = Your Syndicate pal who's fun to be with!
+ent-SyndicatePersonalAI = устройство пии синдиката
+    .desc = Ваш приятель из Синдиката, с которым не соскучишься!
 
-ent-GoldenPersonalAI = golden personal ai device
-    .desc = Your electronic pal who's fun to be with! Special golden edition!
+ent-GoldenPersonalAI = золотое устройство пии
+    .desc = Ваш электронный приятель, с которым не соскучишься! Особое золотое издание!
 
-ent-PotatoAI = potato artificial intelligence
-    .desc = It's a potato. You forced it to be sentient, you monster.
+ent-PotatoAI = картофельный искусственный интеллект
+    .desc = Это картофелина. Вы насильно наделили её разумом, чудовище.
 
-ent-ActionPAIOpenShop = Software Catalog
-    .desc = Install new software to assist your owner.
+ent-ActionPAIOpenShop = Каталог Программ
+    .desc = Установите новые программы, чтобы помогать своему владельцу.
 
-ent-ActionPAIMassScanner = Mass Scanner
-    .desc = View a mass scanner interface.
+ent-ActionPAIMassScanner = Сканер Массы
+    .desc = Откройте интерфейс сканера массы.
 
-ent-ActionPAIPlayMidi = Play MIDI
-    .desc = Open your portable MIDI interface to soothe your owner.
+ent-ActionPAIPlayMidi = Воспроизвести MIDI
+    .desc = Откройте портативный интерфейс MIDI, чтобы успокоить своего владельца.
 
-ent-ActionPAIOpenMap = Open Map
-    .desc = Open your map interface and guide your owner.
+ent-ActionPAIOpenMap = Открыть Карту
+    .desc = Откройте карту, чтобы указать своему владельцу дорогу.

@@ -1,2 +1,2 @@
-ent-ColdplateMachineCircuitboard = electric cooler machine board
-    .desc = A machine printed circuit board for an electric cooler.
+ent-ColdplateMachineCircuitboard = машинная плата электрического охладителя
+    .desc = Печатная машинная плата для электрического охладителя.

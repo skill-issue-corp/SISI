@@ -3,7 +3,7 @@ ent-BaseMobMouse = { ent-BaseMobBody }
 
 ent-OrganMouse = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = mouse
+    .suffix = мышь
 
 ent-OrganMouseTorso = { ent-OrganAnimalTorso }
     .desc = { ent-OrganAnimalTorso.desc }

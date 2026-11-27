@@ -1,71 +1,71 @@
 ent-BaseChemistryVialFilled = { ent-ChemistryEmptyVial }
     .desc = { ent-ChemistryEmptyVial.desc }
 
-ent-VialBlack = black vial
+ent-VialBlack = чёрный флакон
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = Oil
+    .suffix = Масло
 
-ent-VialBlood = blood vial
+ent-VialBlood = флакон крови
     .desc = { ent-BaseChemistryVialFilled.desc }
 
-ent-VialBlue = blue vial
+ent-VialBlue = синий флакон
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = Dexalin
+    .suffix = Дексалин
 
-ent-VialBrown = brown vial
+ent-VialBrown = коричневый флакон
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = Coffee
+    .suffix = Кофе
 
-ent-VialElixirBody = elixir of body
+ent-VialElixirBody = эликсир тела
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = Omnizine
+    .suffix = Омнизин
 
-ent-VialElixirMind = elixir of mind
+ent-VialElixirMind = эликсир разума
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = Haloperidol
+    .suffix = Галоперидол
 
-ent-VialExplosive = explosive vial
+ent-VialExplosive = взрывной флакон
     .desc = { ent-BaseChemistryVialFilled.desc }
     .suffix = CLF3
 
-ent-VialGreen = green vial
+ent-VialGreen = зелёный флакон
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = Meth
+    .suffix = Мет
 
-ent-VialLightBlue = light blue vial
+ent-VialLightBlue = голубой флакон
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = Tricordrazine
+    .suffix = Трикордразин
 
-ent-VialMurky = murky vial
+ent-VialMurky = мутный флакон
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = Phlogiston
+    .suffix = Флогистон
 
-ent-VialOrange = orange vial
+ent-VialOrange = оранжевый флакон
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = OJ
+    .suffix = АС
 
-ent-VialPurple = purple vial
+ent-VialPurple = фиолетовый флакон
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = Lead
+    .suffix = Свинец
 
-ent-VialRed = red vial
+ent-VialRed = красный флакон
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = Thermite
+    .suffix = Термит
 
-ent-VialWater = water vial
-    .desc = { ent-BaseChemistryVialFilled.desc }
-
-ent-VialWhite = white vial
-    .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = Omnizine
-
-ent-VialWormJuice = worm juice
+ent-VialWater = флакон воды
     .desc = { ent-BaseChemistryVialFilled.desc }
 
-ent-VialYellow = yellow vial
+ent-VialWhite = белый флакон
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = Gnome milk
+    .suffix = Омнизин
 
-ent-VialCocaine = cocaine vial
+ent-VialWormJuice = червячный сок
     .desc = { ent-BaseChemistryVialFilled.desc }
-    .suffix = cocaine
+
+ent-VialYellow = жёлтый флакон
+    .desc = { ent-BaseChemistryVialFilled.desc }
+    .suffix = Молоко гнома
+
+ent-VialCocaine = флакон кокаина
+    .desc = { ent-BaseChemistryVialFilled.desc }
+    .suffix = кокаин

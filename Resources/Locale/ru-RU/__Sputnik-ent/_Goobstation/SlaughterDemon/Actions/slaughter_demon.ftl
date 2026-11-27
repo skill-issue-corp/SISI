@@ -1,5 +1,5 @@
-ent-BloodCrawlAction = Blood Crawl
-    .desc = JAUNT ANYWHERE WHENEVER YOU ARE ON BLOOD
+ent-BloodCrawlAction = Кровавое Ползание
+    .desc = РЫВОК КУДА УГОДНО, ПОКА ВЫ СТОИТЕ НА КРОВИ
 
-ent-DemonicWhisperAction = Demonic Whisper
-    .desc = SEND A MESSAGE TO THEIR SOUL, FROM HELL
+ent-DemonicWhisperAction = Демонический Шёпот
+    .desc = ПОШЛИТЕ СООБЩЕНИЕ ПРЯМО В ДУШУ, ИЗ АДА

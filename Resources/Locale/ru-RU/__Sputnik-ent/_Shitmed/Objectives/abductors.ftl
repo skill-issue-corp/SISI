@@ -7,119 +7,119 @@ ent-AbductObjective = { ent-BaseAbductorObjective }
 ent-BaseAbductorVictimObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
-ent-AbductorVictimPaintObjective = Paint the station.
-    .desc = The station is hideous. You must color it all!
+ent-AbductorVictimPaintObjective = Покрасьте станцию.
+    .desc = Станция выглядит отвратительно. Вы должны раскрасить её целиком!
 
-ent-AbductorVictimPristine = Ensure the station is pristine.
-    .desc = The CEO of Nanotrasen is coming! Ensure the station is in absolutely pristine condition.
+ent-AbductorVictimPristine = Наведите на станции идеальный порядок.
+    .desc = Едет Генеральный Директор NanoTrasen! Проследите, чтобы станция была в безупречном состоянии.
 
-ent-AbductorVictimBlingFloor = Replace the floor.
-    .desc = Replace all the floor tiles with wood, carpeting, grass or bling.
+ent-AbductorVictimBlingFloor = Замените пол.
+    .desc = Замените все тайлы пола деревом, коврами, травой или чем-нибудь блестящим.
 
-ent-AbductorVictimCorpseCollector = Collect dead corpses.
-    .desc = Start a collection of corpses. Don't kill people to get these corpses.
+ent-AbductorVictimCorpseCollector = Собирайте мёртвые трупы.
+    .desc = Заведите коллекцию трупов. Ради этого никого не убивайте.
 
-ent-AbductorVictimParaplegic = Paraplegic.
-    .desc = Convince the crew that you are paraplegic.
+ent-AbductorVictimParaplegic = Паралич ног.
+    .desc = Убедите экипаж, что у вас парализованы ноги.
 
-ent-AbductorVictimHungry = Sate your hunger.
-    .desc = You are hungry. Eat as much food as you can find.
+ent-AbductorVictimHungry = Утолите голод.
+    .desc = Вы голодны. Съешьте как можно больше еды из того, что найдёте.
 
-ent-AbductorVictimBlazeIt = Chemically improve your body.
-    .desc = Your body must be improved. Ingest as many drugs as you can.
+ent-AbductorVictimBlazeIt = Усовершенствуйте тело химикатами.
+    .desc = Ваше тело нужно усовершенствовать. Примите как можно больше наркотиков.
 
-ent-AbductorVictimSocialExperiment = It's all a lie.
-    .desc = This is a secret social experiment conducted by Nanotrasen. Convince the crew that this is the truth.
+ent-AbductorVictimSocialExperiment = Всё это ложь.
+    .desc = Это тайный социальный эксперимент NanoTrasen. Убедите экипаж, что это правда.
 
-ent-AbductorVictimVirtualInsanity = NOTHING IS REAL.
-    .desc = It's all an entirely virtual simulation within an underground vault. Convince the crew to escape the shackles of VR.
+ent-AbductorVictimVirtualInsanity = НИЧТО НЕ РЕАЛЬНО.
+    .desc = Всё это целиком виртуальная симуляция в подземном бункере. Убедите экипаж вырваться из оков ВР.
 
-ent-AbductorVictimGame = Chat is this real?
-    .desc = Convince the crew that we are in a game, without explicitly telling them we are in a game.
+ent-AbductorVictimGame = Чат, это реально?
+    .desc = Убедите экипаж, что мы в игре, ни разу не сказав им об этом прямо.
 
-ent-AbductorVictimSaveAnimals = Save the animals.
-    .desc = Nanotrasen is abusing the animals! Save as many as you can!
+ent-AbductorVictimSaveAnimals = Спасите животных.
+    .desc = В NanoTrasen издеваются над животными! Спасите как можно больше!
 
-ent-AbductorVictimMusic = Share your music.
-    .desc = You burn with passion for music. Share your vision. If anyone hates it, beat them on the head with your instrument!
+ent-AbductorVictimMusic = Поделитесь своей музыкой.
+    .desc = Вы горите страстью к музыке. Поделитесь своим видением. Кому не понравится, огрейте по голове своим инструментом!
 
-ent-AbductorVictimStalker = Stalk the crew.
-    .desc = Someone hired you to compile dossiers on all important members of the crew. Be sure they don't know you're doing it.
+ent-AbductorVictimStalker = Следите за экипажем.
+    .desc = Вас наняли собрать досье на всех важных членов экипажа. Проследите, чтобы они об этом не узнали.
 
-ent-AbductorVictimConspiracy = The conspiracy.
-    .desc = The leaders of this station are hiding a grand, evil conspiracy. Only you can learn what it is, and expose it to the people!
+ent-AbductorVictimConspiracy = Заговор.
+    .desc = Руководство станции скрывает грандиозный, зловещий заговор. Только вы можете раскрыть его и рассказать о нём людям!
 
-ent-AbductorVictimNarrator = Narrate the story.
-    .desc = You're the narrator of this tale. Follow around the protagonists to tell their story.
+ent-AbductorVictimNarrator = Расскажите историю.
+    .desc = Вы рассказчик в этой истории. Следуйте за главными героями и рассказывайте об их приключениях.
 
-ent-AbductorVictimSixthsense = Are you really alive?
-    .desc = You died back there and went to heaven... or is it hell? No one here seems to know they're dead. Convince them, and maybe you can escape this limbo.
+ent-AbductorVictimSixthsense = Вы правда живы?
+    .desc = Там вы умерли и попали в рай... или это ад? Похоже, здесь никто не знает, что уже умер. Убедите их, и, может быть, вы выберетесь из этого лимба.
 
-ent-AbductorVictimParty = PARTY!
-    .desc = You NEED to throw a huge rager. Make it as awesome as possible so the whole crew comes... OR ELSE!
+ent-AbductorVictimParty = ВЕЧЕРИНКА!
+    .desc = Вам НУЖНО устроить грандиозную тусовку. Сделайте её такой классной, чтобы пришёл весь экипаж... А НЕ ТО!
 
-ent-AbductorVictimDeadStationTheory = Only one other person exists.
-    .desc = There is only one other person in existence, they are just really good at pretending to be multiple people.
+ent-AbductorVictimDeadStationTheory = Кроме вас существует только один человек.
+    .desc = Кроме вас существует лишь один человек. Просто он отлично умеет притворяться несколькими людьми сразу.
 
-ent-AbductorVictimWeaknessOfMyFlesh = The flesh is rotting.
-    .desc = Your flesh is rotting from your body. Fight the inevitable, and replace your tainted limbs with entirely new ones.
+ent-AbductorVictimWeaknessOfMyFlesh = Плоть гниёт.
+    .desc = Плоть гниёт и отваливается от вашего тела. Боритесь с неизбежным и замените поражённые конечности совершенно новыми.
 
-ent-AbductorVictimInstructor = Military instructor.
-    .desc = You are a military instructor. You must make sure the crew is in top shape for the war against the syndicate!
+ent-AbductorVictimInstructor = Военный инструктор.
+    .desc = Вы военный инструктор. Приведите экипаж в отличную форму для войны с синдикатом!
 
-ent-AbductorVictimActor = Action movie.
-    .desc = You are in an action movie. You must say as many cheesy one-liners as possible.
+ent-AbductorVictimActor = Боевик.
+    .desc = Вы в боевике. Выдайте как можно больше дурацких пафосных реплик.
 
-ent-AbductorVictimNations = Make your department prosper.
-    .desc = Ensure your department prospers over all else.
+ent-AbductorVictimNations = Добейтесь процветания своего отдела.
+    .desc = Сделайте так, чтобы ваш отдел процветал лучше всех остальных.
 
-ent-AbductorVictimPowerUnlimited = Unlimited power.
-    .desc = Flood the station's powernet with as much electricity as you can.
+ent-AbductorVictimPowerUnlimited = Безграничная мощь.
+    .desc = Подайте в электросеть станции как можно больше энергии.
 
-ent-AbductorVictimBuild = Expand the station.
-    .desc = The station is too tiny, and you're going to fix that.
+ent-AbductorVictimBuild = Расширьте станцию.
+    .desc = Станция слишком крохотная, и вы это исправите.
 
-ent-AbductorVictimDefect = Defect from the station.
-    .desc = Fuck the system! Defect from the station and start an independent colony in space, Mining Outpost or the derelict. Recruit crewmates if you can.
+ent-AbductorVictimDefect = Дезертируйте со станции.
+    .desc = К хуям систему! Дезертируйте со станции и основайте независимую колонию в космосе, на Шахтёрском Аванпосте или на заброшенном судне. Позовите с собой членов экипажа, если получится.
 
-ent-AbductorVictimMonkeyTakeover = Raise an army of monkeys.
-    .desc = OOK OOK AAH!!!
+ent-AbductorVictimMonkeyTakeover = Соберите армию обезьян.
+    .desc = УК УК АА!!!
 
-ent-AbductorVictimAverageFrontierPirate = Steal shoes.
-    .desc = Steal as many shoes as you can.
+ent-AbductorVictimAverageFrontierPirate = Крадите обувь.
+    .desc = Украдите как можно больше обуви.
 
-ent-AbductorVictimNoClown = The clown is not funny.
-    .desc = The clown is not funny. You can do better! Take over their role and make the crew laugh!
+ent-AbductorVictimNoClown = Клоун несмешной.
+    .desc = Клоун несмешной. Вы можете лучше! Займите его место и рассмешите экипаж!
 
-ent-AbductorVictimReplacePets = Replace the pets.
-    .desc = All the pets around here suck. You need to make them cooler. Replace them with exotic beasts!
+ent-AbductorVictimReplacePets = Замените питомцев.
+    .desc = Все местные питомцы отстой. Вам нужны покруче. Замените их экзотическими зверями!
 
-ent-AbductorVictimBald = Save people from the hair invasion.
-    .desc = There are alien parasites masquerading as people's hair. Save people from this invasion.
+ent-AbductorVictimBald = Спасите людей от нашествия волос.
+    .desc = Инопланетные паразиты маскируются под человеческие волосы. Спасите людей от нашествия.
 
-ent-AbductorVictimNoWalls = Break down the walls.
-    .desc = The crew must get to know one another better. Break down the walls inside the station!
+ent-AbductorVictimNoWalls = Снесите стены.
+    .desc = Членам экипажа нужно узнать друг друга получше. Разрушьте стены внутри станции!
 
-ent-AbductorVictimAbductception = Take revenge.
-    .desc = You have been changed forever. Find the aliens that did this to you and give them a taste of their own medicine.
+ent-AbductorVictimAbductception = Отомстите.
+    .desc = Вас изменили навсегда. Найдите пришельцев, которые это сделали, и отплатите им той же монетой.
 
-ent-AbductorVictimNoOxygen = OXYGEN IS KILLING EVERYONE.
-    .desc = The oxygen is killing them all and they don't even know it. Make sure no oxygen is on the station.
+ent-AbductorVictimNoOxygen = КИСЛОРОД УБИВАЕТ ВСЕХ.
+    .desc = Кислород убивает их всех, а они даже не догадываются. Сделайте так, чтобы на станции не осталось кислорода.
 
-ent-AbductorVictimEscapeStation = Escape the station.
-    .desc = You must escape the station!
+ent-AbductorVictimEscapeStation = Сбегите со станции.
+    .desc = Вы должны сбежать со станции!
 
-ent-AbductorVictimNoCloning = No cloning.
-    .desc = Don't allow anyone to be cloned.
+ent-AbductorVictimNoCloning = Никакого клонирования.
+    .desc = Не позволяйте никого клонировать.
 
-ent-AbductorVictimStealWeapons = Steal weapons.
-    .desc = Steal as many weapons as you can fit on your person.
+ent-AbductorVictimStealWeapons = Крадите оружие.
+    .desc = Украдите столько оружия, сколько сможете унести на себе.
 
-ent-AbductorVictimDismantleComputers = Steal computers.
-    .desc = The 7G waves coming off from the computers are killing the crew and they dont know it! Dismantle them!
+ent-AbductorVictimDismantleComputers = Крадите компьютеры.
+    .desc = Волны 7G от компьютеров убивают экипаж, а он и не догадывается! Разберите компьютеры!
 
-ent-AbductorVictimFinality = No revival.
-    .desc = Death should be final and modern medicine disrupts the natural order. Don't allow anyone to be revived.
+ent-AbductorVictimFinality = Никаких воскрешений.
+    .desc = Смерть должна быть окончательной, а современная медицина нарушает естественный порядок. Не позволяйте никого оживить.
 
-ent-AbductorVictimHeretic = THE GATES HAVE OPENED MY MIND IS OPEN MY MIND IS OPEN MY MIND IS OPEN
-    .desc = You see you see what they cannot you see the open door you seeE you SEeEe you SEe yOU seEee SHOW THEM ALL.
+ent-AbductorVictimHeretic = ВРАТА ОТКРЫЛИСЬ МОЙ РАЗУМ ОТКРЫТ МОЙ РАЗУМ ОТКРЫТ МОЙ РАЗУМ ОТКРЫТ
+    .desc = Вы видите вы видите то чего они не видят вы видите открытую дверь вы видитЕ вы ВИдИте вы ВИдите вЫ виДите ПОКАЖИТЕ ИМ ВСЕМ.

@@ -1,46 +1,46 @@
-ent-BaseFenceWood = wooden fence
-    .desc = Wooden piece of fencing. I hope there is babushka's garden behind it.
+ent-BaseFenceWood = деревянный забор
+    .desc = Деревянное ограждение. Надеюсь, за ним бабушкин огород.
 
 ent-BaseFenceWoodHigh = { ent-BaseFenceWood }
     .desc = { ent-BaseFenceWood.desc }
 
-ent-BaseFenceWoodSmall = small wooden fence
-    .desc = Wooden piece of small fence. The best protection for the fencing of a private territory!
+ent-BaseFenceWoodSmall = маленький деревянный забор
+    .desc = Секция маленького деревянного забора. Лучшая защита для частной территории!
 
 ent-FenceWoodHighStraight = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
-    .suffix = Straight
+    .suffix = Прямой
 
 ent-FenceWoodHighEnd = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
-    .suffix = End
+    .suffix = Конец
 
 ent-FenceWoodHighCorner = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
-    .suffix = Corner
+    .suffix = Угол
 
 ent-FenceWoodHighTJunction = { ent-BaseFenceWoodHigh }
     .desc = { ent-BaseFenceWoodHigh.desc }
-    .suffix = T-Junction
+    .suffix = Т-Образный Стык
 
-ent-FenceWoodHighGate = wooden fence gate
-    .desc = Do you have any idea what awaits you behind these gates? It can be either a toilet or a luxurious mansion. But you continue to love your emo boys.
+ent-FenceWoodHighGate = деревянная калитка
+    .desc = Вы хоть представляете, что ждёт вас за этой калиткой? Там может быть как туалет, так и роскошный особняк. Но вы всё равно продолжаете любить своих эмо-мальчиков.
 
 ent-FenceWoodSmallStraight = { ent-BaseFenceWoodSmall }
     .desc = { ent-BaseFenceWoodSmall.desc }
-    .suffix = Straight
+    .suffix = Прямой
 
 ent-FenceWoodSmallEnd = { ent-BaseFenceWoodSmall }
     .desc = { ent-BaseFenceWoodSmall.desc }
-    .suffix = End
+    .suffix = Конец
 
 ent-FenceWoodSmallCorner = { ent-BaseFenceWoodSmall }
     .desc = { ent-BaseFenceWoodSmall.desc }
-    .suffix = Corner
+    .suffix = Угол
 
 ent-FenceWoodSmallTJunction = { ent-BaseFenceWoodSmall }
     .desc = { ent-BaseFenceWoodSmall.desc }
-    .suffix = T-Junction
+    .suffix = Т-Образный Стык
 
-ent-FenceWoodSmallGate = wooden fence gate
-    .desc = Looking at this gate, a familiar image pops up in your head. Where's my piggy?
+ent-FenceWoodSmallGate = деревянная калитка
+    .desc = При виде этой калитки перед глазами всплывает знакомая картина. Где мой поросёнок?

@@ -1,103 +1,103 @@
-signal-port-name-autoclose = Autoclose
-signal-port-description-autoclose = Toggles whether the device should automatically close.
+signal-port-name-autoclose = Автозакрытие
+signal-port-description-autoclose = Переключает автоматическое закрытие устройства.
 
-signal-port-name-toggle = Toggle
-signal-port-description-toggle = Toggles the state of a device.
+signal-port-name-toggle = Переключение
+signal-port-description-toggle = Переключает состояние устройства.
 
-signal-port-name-dock-toggle = Toggle docking
-signal-port-description-dock-toggle = Enables the docking clamp of a device when HIGH.
+signal-port-name-dock-toggle = Переключить стыковку
+signal-port-description-dock-toggle = Включает стыковочный захват устройства при сигнале ВЫСОКОГО уровня.
 
-signal-port-name-on-receiver = On
-signal-port-description-on-receiver = Turns a device on.
+signal-port-name-on-receiver = Вкл.
+signal-port-description-on-receiver = Включает устройство.
 
-signal-port-name-off-receiver = Off
-signal-port-description-off-receiver = Turns a device off.
+signal-port-name-off-receiver = Выкл.
+signal-port-description-off-receiver = Выключает устройство.
 
-signal-port-name-forward = Forward
-signal-port-description-forward = Makes a device (e.g. conveyor) operate in the normal direction.
+signal-port-name-forward = Вперёд
+signal-port-description-forward = Заставляет устройство (например, конвейер) работать в прямом направлении.
 
-signal-port-name-reverse = Reverse
-signal-port-description-reverse = Makes a device (e.g. conveyor) operate in the reverse direction.
+signal-port-name-reverse = Назад
+signal-port-description-reverse = Заставляет устройство (например, конвейер) работать в обратном направлении.
 
-signal-port-name-open = Open
-signal-port-description-open = Opens a device.
+signal-port-name-open = Открыть
+signal-port-description-open = Открывает устройство.
 
-signal-port-name-close = Close
-signal-port-description-close = Closes a device.
+signal-port-name-close = Закрыть
+signal-port-description-close = Закрывает устройство.
 
-signal-port-name-doorbolt = Door bolt
-signal-port-description-doorbolt = Bolts door when HIGH.
+signal-port-name-doorbolt = Дверные болты
+signal-port-description-doorbolt = Блокирует дверь болтами при сигнале ВЫСОКОГО уровня.
 
-signal-port-name-trigger-receiver = Trigger
-signal-port-description-trigger-receiver = Triggers some mechanism on the device.
+signal-port-name-trigger-receiver = Срабатывание
+signal-port-description-trigger-receiver = Приводит в действие механизм устройства.
 
-signal-port-name-timer = Timer
-signal-port-description-timer = Starts the timer countdown of the device.
+signal-port-name-timer = Таймер
+signal-port-description-timer = Запускает обратный отсчёт таймера устройства.
 
-signal-port-name-order-sender = Order sender
-signal-port-description-order-sender = Cargo console order sender
+signal-port-name-order-sender = Передатчик заказов
+signal-port-description-order-sender = Передатчик заказов консоли карго
 
-signal-port-name-order-receiver = Order receiver
-signal-port-description-order-receiver = Cargo console order receiver
+signal-port-name-order-receiver = Приёмник заказов
+signal-port-description-order-receiver = Приёмник заказов консоли карго
 
-signal-port-name-pressurize = Pressurize
-signal-port-description-pressurize = Causes the device to starts releasing air until some target pressure is reached.
+signal-port-name-pressurize = Повысить давление
+signal-port-description-pressurize = Устройство начинает подавать воздух до достижения заданного давления.
 
-signal-port-name-depressurize = Depressurize
-signal-port-description-depressurize = Causes the device to starts siphoning air until some target pressure is reached.
+signal-port-name-depressurize = Понизить давление
+signal-port-description-depressurize = Устройство начинает откачивать воздух до достижения заданного давления.
 
-signal-port-name-pod-sender = Cloning pod
-signal-port-description-pod-sender = Cloning pod signal sender
+signal-port-name-pod-sender = Капсула клонирования
+signal-port-description-pod-sender = Передатчик сигнала капсулы клонирования
 
-signal-port-name-pod-receiver = Cloning pod
-signal-port-description-pod-receiver = Cloning pod signal receiver
+signal-port-name-pod-receiver = Капсула клонирования
+signal-port-description-pod-receiver = Приёмник сигнала капсулы клонирования
 
-signal-port-name-med-scanner-sender = Medical scanner
-signal-port-description-med-scanner-sender = Medical scanner signal sender
+signal-port-name-med-scanner-sender = Медицинский сканер
+signal-port-description-med-scanner-sender = Передатчик сигнала медицинского сканера
 
-signal-port-name-med-scanner-receiver = Medical scanner
-signal-port-description-med-scanner-receiver = Medical scanner signal receiver
+signal-port-name-med-scanner-receiver = Медицинский сканер
+signal-port-description-med-scanner-receiver = Приёмник сигнала медицинского сканера
 
-signal-port-name-hold-open = Hold
-signal-port-description-hold-open = Turns off automatic closing.
+signal-port-name-hold-open = Удерживать
+signal-port-description-hold-open = Отключает автоматическое закрытие.
 
-signal-port-name-artifact-analyzer-sender = Console
-signal-port-description-artifact-analyzer-sender = Analysis console signal sender
+signal-port-name-artifact-analyzer-sender = Консоль
+signal-port-description-artifact-analyzer-sender = Передатчик сигнала консоли анализа
 
-signal-port-name-artifact-analyzer-receiver = Pad
-signal-port-description-artifact-analyzer-receiver = Artifact analyzer signal receiver
+signal-port-name-artifact-analyzer-receiver = Платформа
+signal-port-description-artifact-analyzer-receiver = Приёмник сигнала анализатора артефактов
 
-signal-port-name-set-particle-delta = Set particle type: delta
-signal-port-description-set-particle-delta = Sets the type of particle this device emits to delta.
+signal-port-name-set-particle-delta = Задать тип частиц: дельта
+signal-port-description-set-particle-delta = Задаёт дельта-частицы для испускания устройством.
 
-signal-port-name-set-particle-epsilon = Set particle type: epsilon
-signal-port-description-set-particle-epsilon = Sets the type of particle this device emits to epsilon.
+signal-port-name-set-particle-epsilon = Задать тип частиц: эпсилон
+signal-port-description-set-particle-epsilon = Задаёт эпсилон-частицы для испускания устройством.
 
-signal-port-name-set-particle-zeta = Set particle type: zeta
-signal-port-description-set-particle-zeta = Sets the type of particle this device emits to zeta.
+signal-port-name-set-particle-zeta = Задать тип частиц: дзета
+signal-port-description-set-particle-zeta = Задаёт дзета-частицы для испускания устройством.
 
-signal-port-name-set-particle-sigma = Set particle type: sigma
-signal-port-description-set-particle-sigma = Sets the type of particle this device emits to sigma.
+signal-port-name-set-particle-sigma = Задать тип частиц: сигма
+signal-port-description-set-particle-sigma = Задаёт сигма-частицы для испускания устройством.
 
-signal-port-name-logic-input-a = Input A
-signal-port-description-logic-input-a = First input of a logic gate.
+signal-port-name-logic-input-a = Вход A
+signal-port-description-logic-input-a = Первый вход логического элемента.
 
-signal-port-name-logic-input-b = Input B
-signal-port-description-logic-input-b = Second input of a logic gate.
+signal-port-name-logic-input-b = Вход B
+signal-port-description-logic-input-b = Второй вход логического элемента.
 
-signal-port-name-logic-input = Input
-signal-port-description-logic-input = Input to the edge detector, cannot be a pulse signal.
+signal-port-name-logic-input = Вход
+signal-port-description-logic-input = Вход детектора фронта сигнала. Импульсные сигналы не поддерживаются.
 
-signal-port-description-logic-memory-input = Signal to load into the memory cell, when enabled.
+signal-port-description-logic-memory-input = Сигнал для записи в ячейку памяти при разрешении записи.
 
-signal-port-name-logic-enable = Enable
-signal-port-description-logic-enable = Only loads the input signal into the memory cell when HIGH.
+signal-port-name-logic-enable = Разрешить запись
+signal-port-description-logic-enable = Записывает входной сигнал в ячейку памяти только при сигнале ВЫСОКОГО уровня.
 
-signal-port-name-logic-random-input = Input signal
-signal-port-description-logic-random-input = Receives any signal to trigger a random output.
+signal-port-name-logic-random-input = Входной сигнал
+signal-port-description-logic-random-input = Принимает любой сигнал и подаёт случайный сигнал на выход.
 
-signal-port-name-target-receiver = Target receiver
-signal-port-description-target-receiver = Receives target information from a target finder.
+signal-port-name-target-receiver = Приёмник цели
+signal-port-description-target-receiver = Получает сведения о цели от искателя цели.
 
-signal-port-name-target-source = Target finder
-signal-port-description-target-source = Sends target information to a target receiver.
+signal-port-name-target-source = Искатель цели
+signal-port-description-target-source = Отправляет сведения о цели приёмнику цели.

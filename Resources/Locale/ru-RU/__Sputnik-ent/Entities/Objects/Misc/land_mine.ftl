@@ -1,23 +1,23 @@
 ent-BaseLandMine = { "" }
     .desc = { "" }
 
-ent-LandMineKickUnarmed = kick mine
+ent-LandMineKickUnarmed = кик-мина
     .desc = { ent-BaseLandMine.desc }
 
 ent-LandMineKick = { ent-LandMineKickUnarmed }
     .desc = { ent-LandMineKickUnarmed.desc }
-    .suffix = armed
+    .suffix = взведена
 
-ent-LandMineModularUnarmed = modular mine
-    .desc = This bad boy could be packing any number of dangers. Or a bike horn.
+ent-LandMineModularUnarmed = модульная мина
+    .desc = Внутри этой штуковины может скрываться сколько угодно опасностей. Или велосипедный клаксон.
 
 ent-LandMineModular = { ent-LandMineModularUnarmed }
     .desc = { ent-LandMineModularUnarmed.desc }
-    .suffix = armed
+    .suffix = взведена
 
-ent-LandMineExplosiveUnarmed = explosive mine
+ent-LandMineExplosiveUnarmed = взрывная мина
     .desc = { ent-BaseLandMine.desc }
 
 ent-LandMineExplosive = { ent-LandMineExplosiveUnarmed }
     .desc = { ent-LandMineExplosiveUnarmed.desc }
-    .suffix = armed
+    .suffix = взведена

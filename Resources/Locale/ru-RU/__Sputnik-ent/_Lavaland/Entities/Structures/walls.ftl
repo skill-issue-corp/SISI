@@ -1,9 +1,9 @@
-ent-WallHierophantArena = hierophant wall
+ent-WallHierophantArena = стена иерофанта
     .desc = { ent-BaseWall.desc }
 
-ent-WallHierophantArenaTemporary = hierophant field
-    .desc = Keeps the salvager in and... Why are you looking at this in a middle of a fight? You have nothing to do?!
+ent-WallHierophantArenaTemporary = поле иерофанта
+    .desc = Не даёт утилизатору уйти и... Зачем вы читаете это посреди боя? Вам больше нечем заняться?!
 
-ent-WallNecropolisIndestructible = stone wall
+ent-WallNecropolisIndestructible = каменная стена
     .desc = { ent-BaseWall.desc }
-    .suffix = Indestructible
+    .suffix = Неразрушимая

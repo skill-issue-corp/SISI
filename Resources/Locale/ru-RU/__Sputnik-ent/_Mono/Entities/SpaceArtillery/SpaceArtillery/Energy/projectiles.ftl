@@ -1,8 +1,8 @@
-ent-ShipMediumPlasmaProjectile = plasma projectile
+ent-ShipMediumPlasmaProjectile = плазменный снаряд
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-ShipRubiconProjectile = EMP projectile
+ent-ShipRubiconProjectile = ЭМИ-снаряд
     .desc = { ent-BaseBulletTrigger.desc }
 
-ent-ShipDymereProjectile = Ionized Gas Projectile
+ent-ShipDymereProjectile = Снаряд из Ионизированного Газа
     .desc = { ent-BaseBulletTrigger.desc }

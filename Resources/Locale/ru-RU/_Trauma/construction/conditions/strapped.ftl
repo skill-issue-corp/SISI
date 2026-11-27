@@ -1,1 +1,1 @@
-construction-examine-condition-strap-entity = First, raise someone onto the {$strap}.
+construction-examine-condition-strap-entity = Сначала поднимите кого-нибудь на {$strap}.

@@ -1,2 +1,2 @@
-ent-BaseGateway = gateway
-    .desc = A mysterious gateway built by unknown hands, it allows for faster than light travel to far-flung locations.
+ent-BaseGateway = врата
+    .desc = Таинственные врата, созданные неизвестно кем, позволяют добираться в далёкие места быстрее света.

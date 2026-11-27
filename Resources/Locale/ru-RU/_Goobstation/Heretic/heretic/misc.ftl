@@ -1,79 +1,80 @@
 heretic-passive-unlock =
-    {"["}bold]Tier {$tier} passive ability unlocked![/bold]
+    {"["}bold]Пассивная способность уровня {$tier} открыта![/bold]
     {$desc}
 
-heretic-influence-start = Draining influence...
-heretic-influence-require-drainer = You need a codex to drain influences.
+heretic-influence-start = Собираем влияние...
+heretic-influence-require-drainer = Чтобы собирать влияния, вам нужен кодекс.
 
-heretic-ritualrune-examine = Current selected ritual: [color=yellow]{$rit}[/color]
+heretic-ritualrune-examine = Выбранный ритуал: [color=yellow]{$rit}[/color]
 
-heretic-knowledge-gain = You've learned something
-heretic-knowledge-loss = You're forgotten something
+heretic-knowledge-gain = Вы узнали нечто новое
+heretic-knowledge-loss = Вы кое-что забыли
 
-heretic-clothing-component-fail = Cannot wear this!
-heretic-clothing-component-equip = You can feel yourself unravelling while you equip the {$item}!
-heretic-clothing-component-wear = You can feel yourself unravelling while wearing the {$item}!
+heretic-clothing-component-fail = Это нельзя надеть!
+heretic-clothing-component-equip = Вы чувствуете, как теряете себя, пока надеваете {$item}!
+heretic-clothing-component-wear = Вы чувствуете, как теряете себя, пока на вас {$item}!
 
-heretic-protective-blade-component-no-targets = No targets!
+heretic-protective-blade-component-no-targets = Нет целей!
 
-heretic-sacraments-can-attack = You can now safely attack {$heretic}!
+heretic-sacraments-can-attack = Теперь вы можете без опаски напасть на {$heretic}!
 
-rust-corruption-silicon-damage = You are being corrupted by the rust!
+rust-corruption-silicon-damage = Ржавчина разъедает вас!
 
-disgust-effect-warning = You feel kind of iffy...
+disgust-effect-warning = Вам как-то не по себе...
 
-cosmic-field-component-bomb-defused-message = {$bomb} suddenly shuts off!
+cosmic-field-component-bomb-defused-message = {$bomb} внезапно отключается!
 
-chat-speech-verb-name-hiss = Hiss
+chat-speech-verb-name-hiss = Шипение
 
-void-ascend-begin = A snowstorm suddenly appears from outside the windows. An overwhelming sense of dread looms...
-void-ascend-end = The snowstorm begins to fade away...
-void-ascend-restart = The snowstorm suddenly appears again...
+void-ascend-begin = За окнами внезапно начинается метель. Накатывает всепоглощающий ужас...
+void-ascend-end = Метель начинает стихать...
+void-ascend-restart = Метель внезапно возвращается...
 
-ghoul-unghoulify-message = {CAPITALIZE($ent)} has been freed from the chains of Mansus!
-ghoul-weapon-comp-examine = [color=red]This weapon seems extremely fragile. On further inspection it appears to be made of flesh and blood. It belongs to one of the creatures of the mansus and will disappear when the creature dies.[/color]
+ghoul-unghoulify-message = {CAPITALIZE($ent)} сбрасывает оковы Мансуса!
+ghoul-weapon-comp-examine = [color=red]Это оружие кажется невероятно хрупким. Если присмотреться, видно, что оно сделано из плоти и крови. Оно принадлежит одному из созданий мансуса и исчезнет со смертью этого создания.[/color]
 
-injector-component-drain-mode-name = Drain
+injector-component-drain-mode-name = Извлечь
 
-species-name-shattered = shattered risen
+species-name-shattered = восставший осколок
 
-mawed-crucible-examine-anchored = You can [bold]unanchor and move[/bold] the crucible with a [bold]Codex Cicatrix[/bold] or [bold]Mansus Grasp[/bold].
+mawed-crucible-examine-anchored = Вы можете [bold]открепить и переместить[/bold] горнило при помощи [bold]Кодекса Цикатрикс[/bold] или [bold]Хватки Мансуса[/bold].
 mawed-crucible-examine-unanchored =
-    You can [bold]anchor in place[/bold] the crucible with a [bold]Codex Cicatrix[/bold] or [bold]Mansus Grasp[/bold].
-    Otherwise it wouldn't function.
-mawed-crucible-examine-can-refill-flask = You can refill an eldritch flask with this.
-mawed-crucible-examine-full = Crucible is bubbling to the brim with viscous liquid, and is ready to use.
+    Вы можете [bold]закрепить[/bold] горнило при помощи [bold]Кодекса Цикатрикс[/bold] или [bold]Хватки Мансуса[/bold].
+    Без этого оно не будет работать.
+mawed-crucible-examine-can-refill-flask = Здесь можно наполнить потустороннюю флягу.
+mawed-crucible-examine-full = Горнило до краёв наполнено бурлящей вязкой жидкостью и готово к использованию.
 mawed-crucible-examine-not-full =
-    Crucible requires [bold]{$to-fill}[/bold] more { $to-fill ->
-        [1] organ or bodypart
-        *[other] organs or bodyparts
+    Горнилу нужно ещё [bold]{$to-fill}[/bold] { $to-fill ->
+        [one] орган или часть тела
+        [few] органа или части тела
+        *[many] органов или частей тела
     }
 
 
-mawed-crucible-full-message = crucible full!
-mawed-crucible-not-enough-fuel-message = not enough fuel!
-mawed-crucible-flask-full-message = flask is full!
+mawed-crucible-full-message = горнило полное!
+mawed-crucible-not-enough-fuel-message = не хватает топлива!
+mawed-crucible-flask-full-message = фляга полная!
 
-mirror-maid-examine-message-user = {$ent} seems to fade in and out slightly.
-mirror-maid-examine-message-maid = {$user}'s gaze pierces your every being!
+mirror-maid-examine-message-user = {$ent} слегка мерцает.
+mirror-maid-examine-message-maid = {$user} пронзает вас взглядом насквозь!
 
-ui-options-special-volume = Special volume:
+ui-options-special-volume = Громкость особых звуков:
 
-block-context-menu-message = You cannot interact with {$entity} via context menu using {$item}!
+block-context-menu-message = Нельзя взаимодействовать с {$entity} через контекстное меню, используя {$item}!
 
-coin-flip-examine-message = Current side: [bold]{$side}[/bold]
-coin-flip-popup-message = {CAPITALIZE(THE($coin))} lands on {$side}
+coin-flip-examine-message = Текущая сторона: [bold]{$side}[/bold]
+coin-flip-popup-message = {CAPITALIZE($coin)} падает на сторону «{$side}»
 
-eldritch-coin-side-heretic = heretic
-eldritch-coin-side-blade = blade
+eldritch-coin-side-heretic = еретик
+eldritch-coin-side-blade = клинок
 
 lionhunter-rifle-examine-message =
-    Right click on a distant target in [color=red]Combat Mode[/color] to aim at them.
-    This fires an empowered homing projectile that can go through walls.
-    Only special hunter's ammunition has this effect.
+    Нажмите правой кнопкой мыши на дальнюю цель в [color=red]Боевом Режиме[/color], чтобы прицелиться.
+    При выстреле вылетит усиленный самонаводящийся снаряд, который проходит сквозь стены.
+    Этот эффект есть только у особых охотничьих боеприпасов.
 
-lionhunter-rifle-aim-message = taking aim...
+lionhunter-rifle-aim-message = прицеливаемся...
 
-eldritch-paper-examine-message = You can see a drawing of [color=cyan]{THE($item)}[/color] on the card.
-eldritch-paper-name-empty = eldritch card
-eldritch-paper-name-full = eldritch card ({$item})
+eldritch-paper-examine-message = На карте нарисовано следующее: [color=cyan]{$item}[/color].
+eldritch-paper-name-empty = потусторонняя карта
+eldritch-paper-name-full = потусторонняя карта ({$item})

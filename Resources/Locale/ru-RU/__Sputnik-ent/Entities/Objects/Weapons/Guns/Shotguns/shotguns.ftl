@@ -1,46 +1,46 @@
-ent-BaseWeaponShotgun = BaseWeaponShotgun
-    .desc = A rooty tooty point and shooty.
+ent-BaseWeaponShotgun = ДробовикБазовый
+    .desc = Наводи да пали!
 
 ent-WeaponShotgunBulldog = Bulldog
-    .desc = An automatic magazine-fed shotgun for close-quarters combat. Kicks like a mule on steroids. Uses 12 Gauge shotgun shells.
+    .desc = Автоматический дробовик с магазинным питанием для ближнего боя. Лягается как мул на стероидах. Использует ружейные патроны 12 Калибра.
 
-ent-WeaponShotgunDoubleBarreled = double-barreled shotgun
-    .desc = An immortal classic. Uses 12 Gauge shotgun shells.
+ent-WeaponShotgunDoubleBarreled = двуствольный дробовик
+    .desc = Бессмертная классика. Использует ружейные патроны 12 Калибра.
 
-ent-WeaponShotgunDoubleBarreledRubber = double-barreled shotgun
+ent-WeaponShotgunDoubleBarreledRubber = двуствольный дробовик
     .desc = { ent-WeaponShotgunDoubleBarreled.desc }
-    .suffix = Non-Lethal
+    .suffix = Нелетальный
 
 ent-WeaponShotgunEnforcer = Enforcer
-    .desc = A premium semi-automatic shotgun, and the pride of all security forces. Uses 12 Gauge shotgun shells.
+    .desc = Первоклассный полуавтоматический дробовик и гордость всех сил безопасности. Использует ружейные патроны 12 Калибра.
 
 ent-WeaponShotgunEnforcerRubber = { ent-WeaponShotgunEnforcer }
     .desc = { ent-WeaponShotgunEnforcer.desc }
-    .suffix = Non-Lethal
+    .suffix = Нелетальный
 
 ent-WeaponShotgunKammerer = Kammerer
-    .desc = An old yet faithful design, and a favorite among irregular forces of many worlds. Uses 12 Gauge shotgun shells.
+    .desc = Старая, но проверенная конструкция. Любимое оружие нерегулярных войск многих миров. Использует ружейные патроны 12 Калибра.
 
-ent-WeaponShotgunSawn = sawn-off shotgun
-    .desc = Groovy! Uses 12 Gauge shotgun shells.
+ent-WeaponShotgunSawn = обрез дробовика
+    .desc = Класс! Использует ружейные патроны 12 Калибра.
 
-ent-WeaponShotgunSawnEmpty = sawn-off shotgun
+ent-WeaponShotgunSawnEmpty = обрез дробовика
     .desc = { ent-WeaponShotgunSawn.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-WeaponShotgunHandmade = handmade pistol
-    .desc = Looks unreliable. Uses 12 Gauge shotgun shells.
+ent-WeaponShotgunHandmade = самодельный пистолет
+    .desc = Выглядит ненадёжно. Использует ружейные патроны 12 Калибра.
 
-ent-WeaponShotgunBlunderbuss = blunderbuss
-    .desc = Deadly at close range.
-    .suffix = Pirate
+ent-WeaponShotgunBlunderbuss = мушкетон
+    .desc = Смертоносен вблизи.
+    .suffix = Пират
 
-ent-WeaponShotgunImprovised = improvised shotgun
-    .desc = A shitty, hand-made shotgun that uses 12 Gauge shotgun shells. It can only hold one round in the chamber.
+ent-WeaponShotgunImprovised = самодельный дробовик
+    .desc = Дерьмовый дробовик кустарной сборки под ружейные патроны 12 Калибра. В патронник помещается только один патрон.
 
-ent-WeaponShotgunImprovisedLoaded = improvised shotgun
+ent-WeaponShotgunImprovisedLoaded = самодельный дробовик
     .desc = { ent-WeaponShotgunImprovised.desc }
-    .suffix = Loaded
+    .suffix = Заряжен
 
 ent-WeaponShotgunHushpup = Hushpup
-    .desc = An obscure modification of the Enforcer, fitted with an experimental muffler. Great for those with a strict moral code. Uses 12 gauge shells.
+    .desc = Малоизвестная модификация Enforcer с экспериментальным глушителем. Отлично подходит тем, у кого строгий моральный кодекс. Использует патроны 12 калибра.

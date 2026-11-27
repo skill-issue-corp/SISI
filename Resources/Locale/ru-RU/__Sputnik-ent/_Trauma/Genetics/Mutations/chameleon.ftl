@@ -1,2 +1,2 @@
-ent-MutationChameleon = Chameleon
-    .desc = A genome that causes the holder's skin to become transparent over time.
+ent-MutationChameleon = Хамелеон
+    .desc = Геном, из-за которого кожа носителя со временем становится прозрачной.

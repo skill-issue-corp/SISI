@@ -1,154 +1,154 @@
-ent-Jug = jug
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-Jug = канистра
+    .desc = Вмещает очень много химикатов или растворов. Пить залпом крайне не рекомендуется.
 
 ent-JugPunctTranex = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = punct & tranex
+    .suffix = пункт и транекс
 
 ent-JugPyraDerma = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = pyra & derma
+    .suffix = пира и дерма
 
 ent-JugDexPlusSaline = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = dex+ & saline
+    .suffix = декс+ и физраствор
 
 ent-JugTrico = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = tricordrazine
+    .suffix = трикордразин
 
 ent-JugBlood = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = blood
+    .suffix = кровь
 
 ent-JugWater = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = water
+    .suffix = вода
 
 ent-JugCarbon = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = carbon
+    .suffix = углерод
 
 ent-JugIodine = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = iodine
+    .suffix = йод
 
 ent-JugFluorine = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = fluorine
+    .suffix = фтор
 
 ent-JugChlorine = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = chlorine
+    .suffix = хлор
 
 ent-JugAluminium = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = aluminium
+    .suffix = алюминий
 
 ent-JugPhosphorus = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = phosphorus
+    .suffix = фосфор
 
 ent-JugSulfur = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = sulfur
+    .suffix = сера
 
 ent-JugSilicon = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = silicon
+    .suffix = кремний
 
 ent-JugHydrogen = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = hydrogen
+    .suffix = водород
 
 ent-JugLithium = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = lithium
+    .suffix = литий
 
 ent-JugSodium = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = sodium
+    .suffix = натрий
 
 ent-JugPotassium = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = potassium
+    .suffix = калий
 
 ent-JugRadium = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = radium
+    .suffix = радий
 
 ent-JugIron = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = iron
+    .suffix = железо
 
 ent-JugCopper = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = copper
+    .suffix = медь
 
 ent-JugGold = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = gold
+    .suffix = золото
 
 ent-JugMercury = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = mercury
+    .suffix = ртуть
 
 ent-JugSilver = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = silver
+    .suffix = серебро
 
 ent-JugEthanol = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = ethanol
+    .suffix = этанол
 
 ent-JugSugar = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = sugar
+    .suffix = сахар
 
 ent-JugNitrogen = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = nitrogen
+    .suffix = азот
 
 ent-JugOxygen = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = oxygen
+    .suffix = кислород
 
 ent-JugPlantBGone = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = Plant-B-Gone
+    .suffix = Растение-B-Прочь
 
 ent-JugWeldingFuel = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = welding fuel
+    .suffix = сварочное топливо
 
 ent-JugBicaridine = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = bicaridine
+    .suffix = бикаридин
 
 ent-JugPuncturase = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = puncturase
+    .suffix = пунктураза
 
 ent-JugDermaline = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = dermaline
+    .suffix = дермалин
 
 ent-JugDylovene = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = dylovene
+    .suffix = диловен
 
 ent-JugTranexamicAcid = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = tranexamic acid
+    .suffix = транексамовая кислота
 
 ent-JugHyronalin = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = hyronalin
+    .suffix = хироналин
 
 ent-JugSaline = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = saline
+    .suffix = физраствор
 
 ent-JugDexalinPlus = { ent-Jug }
     .desc = { ent-Jug.desc }
-    .suffix = dexalin plus
+    .suffix = дексалин плюс

@@ -1,5 +1,5 @@
-ent-MutationFireBreath = Fire Breath
-    .desc = An ancient mutation that gives lizards breath of fire.
+ent-MutationFireBreath = Огненное Дыхание
+    .desc = Древняя мутация, наделяющая ящериц огненным дыханием.
 
-ent-ActionFireBreath = [color=orange]Breathe Fire[/color]
-    .desc = Spew out flames from your lungs!
+ent-ActionFireBreath = [color=orange]Выдохнуть Огонь[/color]
+    .desc = Изрыгните пламя из своих лёгких!

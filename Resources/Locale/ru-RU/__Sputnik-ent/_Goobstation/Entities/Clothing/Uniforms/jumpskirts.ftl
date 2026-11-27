@@ -1,26 +1,26 @@
-ent-CentcomAgentSkirt = centcom agent skirt
-    .desc = A skirt worn by CentComs legal team. Smells of burnt coffee.
+ent-CentcomAgentSkirt = юбка агента цк
+    .desc = Юбка для юристов ЦК. Пахнет горелым кофе.
 
-ent-ClothingUniformJumpskirtNanotrasenRepresentative = nanotrasen representative skirt
-    .desc = A black skirt worn by officials.
+ent-ClothingUniformJumpskirtNanotrasenRepresentative = юбка представителя NanoTrasen
+    .desc = Чёрная юбка для должностных лиц.
 
-ent-ClothingUniformSkirtMailCarrier = mail carrier's jumpskirt
-    .desc = Enemy of dogs everywhere.
+ent-ClothingUniformSkirtMailCarrier = юбка-комбинезон почтальона
+    .desc = Враг собак по всему миру.
 
-ent-ClothingUniformJumpskirtCommandMaid = command maid uniform
-    .desc = A stylish maid uniform specially designed for elite Command Maids. Combines professionalism with a touch of elegance.
+ent-ClothingUniformJumpskirtCommandMaid = форма командной горничной
+    .desc = Стильная форма, разработанная специально для элитных Командных Горничных. Сочетает профессионализм с ноткой изящества.
 
-ent-ClothingUniformJumpskirtSalvageSpecialist = salvage specialist's jumpskirt
-    .desc = It's a snappy jumpskirt with a sturdy set of overalls. It's very dirty.
+ent-ClothingUniformJumpskirtSalvageSpecialist = юбка-комбинезон утилизатора
+    .desc = Щегольская юбка-комбинезон с прочной рабочей одеждой. Очень грязная.
 
-ent-ClothingUniformJumpskirtShaftMiner = shaft miner's jumpskirt
-    .desc = It's a snappy jumpskirt with a sturdy set of overalls. It looks burnt.
+ent-ClothingUniformJumpskirtShaftMiner = юбка-комбинезон шахтёра
+    .desc = Щегольская юбка-комбинезон с прочной рабочей одеждой. Выглядит обгоревшей.
 
-ent-ClothingUniformJumpskirtResearchDirectorAlt = research director's turtleneck
-    .desc = It's a turtleneck worn by those with the know-how to achieve the position of Research Director. Its fabric provides minor protection from biological contaminants.
+ent-ClothingUniformJumpskirtResearchDirectorAlt = водолазка научного руководителя
+    .desc = Водолазка для тех, чьих знаний хватило на должность Научного Руководителя. Ткань даёт небольшую защиту от биологических загрязнений.
 
-ent-ClothingUniformJumpskirtReporter = reporter's dress
-    .desc = An extravagant black dress designed to catch the attention of as many people as possible.
+ent-ClothingUniformJumpskirtReporter = платье репортёра
+    .desc = Экстравагантное чёрное платье, призванное привлечь как можно больше внимания.
 
-ent-ClothingUniformJumpskirtCentcomPencilSkirt = centcom pencil skirt
-    .desc = An elegant green formal blouse paired with a sleek black pencil skirt, decorated with exquisite golden detailing.
+ent-ClothingUniformJumpskirtCentcomPencilSkirt = юбка-карандаш цк
+    .desc = Элегантная зелёная парадная блуза и строгая чёрная юбка-карандаш с изысканной золотой отделкой.

@@ -1,5 +1,5 @@
-ent-BoxReverseBearTrap = reverse bear trap pack
-    .desc = A box full of completely legal stuff.
+ent-BoxReverseBearTrap = упаковка обратных медвежьих капканов
+    .desc = Коробка, набитая совершенно легальными вещами.
 
-ent-BoxAutoinjectorCartidges = autoinjector cartridge box
-    .desc = A box with autoinjector cartridges.
+ent-BoxAutoinjectorCartidges = коробка картриджей для автоинъектора
+    .desc = Коробка с картриджами для автоинъектора.

@@ -6,13 +6,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-alerts-changeling-chemicals-name = Chemicals
-alerts-changeling-chemicals-desc = Spend chemicals to use your abilities. Slowly regenerates.
+alerts-changeling-chemicals-name = Химикаты
+alerts-changeling-chemicals-desc = Тратьте химикаты на свои способности. Запас медленно восстанавливается.
 
-alerts-changeling-biomass-name = Biomass
+alerts-changeling-biomass-name = Биомасса
 alerts-changeling-biomass-desc =
-    This is your health. If it reaches 0 - it's [color=red]game over[/color]. Absorb humanoids to recover some of it.
+    Это ваше здоровье. Если оно упадёт до 0 – [color=red]игра окончена[/color]. Поглощайте гуманоидов, чтобы частично восполнить его.
 
-alerts-changeling-fleshmend-name = Fleshmend
+alerts-changeling-fleshmend-name = Восстановление Плоти
 alerts-changeling-fleshmend-desc =
-    Brute damage is being rapidly healed! Burn and asphyxiation damage is healed at a lower amount. [color=red]Healing will cease while on fire.[/color]
+    Травмы быстро заживают! Ожоги и урон от удушья проходят медленнее. [color=red]Пока вы горите, исцеление прекращается.[/color]

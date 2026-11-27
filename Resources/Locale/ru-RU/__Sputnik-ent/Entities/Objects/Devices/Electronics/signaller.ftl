@@ -1,5 +1,5 @@
-ent-RemoteSignaller = remote signaller
-    .desc = A handheld device used for remotely sending signals to objects within a radius of about 40 meters.
+ent-RemoteSignaller = дистанционный передатчик
+    .desc = Портативное устройство для передачи сигналов объектам в радиусе около 40 метров.
 
-ent-RemoteSignallerAdvanced = advanced remote signaller
-    .desc = A handheld device used for remotely sending signals to objects with no range limit.
+ent-RemoteSignallerAdvanced = продвинутый дистанционный передатчик
+    .desc = Портативное устройство для передачи сигналов объектам без ограничения дальности.

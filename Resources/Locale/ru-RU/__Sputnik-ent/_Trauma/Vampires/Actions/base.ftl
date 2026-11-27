@@ -4,20 +4,20 @@ ent-BaseVampireAction = { ent-BaseAction }
 ent-BaseRejuvAction = { ent-BaseVampireAction }
     .desc = { ent-BaseVampireAction.desc }
 
-ent-ActionVampRejuvenateI = Rejuvenate I
-    .desc = Removes any and all stuns. Removes 100 stamina damage.
+ent-ActionVampRejuvenateI = Омоложение I
+    .desc = Снимает все виды оглушения. Восстанавливает 100 ед. выносливости.
 
-ent-ActionVampRejuvenateII = Rejuvenate II
-    .desc = Removes any and all stuns. Purges 10u of any harmful reagent. Heals 10 points each of brute, burn, toxin, and heals 50 points of oxyloss.
+ent-ActionVampRejuvenateII = Омоложение II
+    .desc = Снимает все виды оглушения. Выводит 10 ед. любого вредного реагента. Снимает по 10 ед. физического урона, ожогов и отравления, а также 50 ед. урона от удушья.
 
-ent-ActionVampireGlare = Glare
-    .desc = Works in melee-range, and has different effects on each side of you. Requires 2 charges to fully stun.
+ent-ActionVampireGlare = Взгляд
+    .desc = Действует в ближнем бою, эффект зависит от того, с какой стороны от вас находится цель. Для полного оглушения нужно 2 заряда.
 
-ent-ActionChooseSpecialization = Choose Specialization
-    .desc = Choose your vampire class!
+ent-ActionChooseSpecialization = Выбрать Специализацию
+    .desc = Выберите свой класс вампира!
 
-ent-ActionCreateLair = Create Lair
-    .desc = Use the action on a coffin to make it your lair. You will heal inside the lair, and be able to teleport to it on death. You can only make one lair, so be careful.
+ent-ActionCreateLair = Создать Логово
+    .desc = Примените способность к гробу, чтобы сделать его своим логовом. Внутри логова вы будете исцеляться, а после смерти сможете в него телепортироваться. Логово можно создать только одно, так что выбирайте внимательно.
 
-ent-ActionTeleportLair = Teleport To Lair
-    .desc = Use this action when you are dead or crit, in order to teleport to your lair.
+ent-ActionTeleportLair = Телепортация В Логово
+    .desc = Примените эту способность после смерти или в крите, чтобы телепортироваться в своё логово.

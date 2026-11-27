@@ -4,23 +4,23 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-robotics-console-window-title = Robotics Console
-robotics-console-no-cyborgs = No Cyborgs!
+robotics-console-window-title = Консоль Робототехники
+robotics-console-no-cyborgs = Киборги Отсутствуют!
 
-robotics-console-select-cyborg = Select a cyborg above.
-robotics-console-model = [color=gray]Model:[/color] {$name}
+robotics-console-select-cyborg = Выберите киборга выше.
+robotics-console-model = [color=gray]Модель:[/color] {$name}
 # name is not formatted to prevent players trolling
-robotics-console-designation = [color=gray]Designation:[/color]
-robotics-console-battery = [color=gray]Battery charge:[/color] [color={$color}]{$charge}[/color]%
-robotics-console-hp = [color=gray]Integrity:[/color] [color={$color}]{$hp}[/color]%
-robotics-console-modules = [color=gray]Modules installed:[/color] {$count}
-robotics-console-brain = [color=gray]Brain installed:[/color] [color={$brain ->
-    [true] green]Yes
-    *[false] red]No
+robotics-console-designation = [color=gray]Обозначение:[/color]
+robotics-console-battery = [color=gray]Заряд батареи:[/color] [color={$color}]{$charge}[/color]%
+robotics-console-hp = [color=gray]Целостность:[/color] [color={$color}]{$hp}[/color]%
+robotics-console-modules = [color=gray]Установлено модулей:[/color] {$count}
+robotics-console-brain = [color=gray]Мозг установлен:[/color] [color={$brain ->
+    [true] green]Да
+    *[false] red]Нет
 }[/color]
 
-robotics-console-locked-message = Controls locked, swipe ID.
-robotics-console-disable = Disable
-robotics-console-destroy = Destroy
+robotics-console-locked-message = Управление заблокировано. Приложите ID-карту.
+robotics-console-disable = Отключить
+robotics-console-destroy = Уничтожить
 
-robotics-console-cyborg-destroying = {$name} is being remotely detonated!
+robotics-console-cyborg-destroying = Запущен дистанционный подрыв {$name}!

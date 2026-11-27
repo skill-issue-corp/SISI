@@ -1,11 +1,11 @@
-ent-RoboticArmCircuitboard = robotic arm machine board
-    .desc = A machine printed circuit board for a robotic arm.
+ent-RoboticArmCircuitboard = машинная плата роботизированной руки
+    .desc = Печатная плата для сборки роботизированной руки.
 
-ent-ConstructorCircuitboard = constructor machine board
-    .desc = A machine printed circuit board for a constructor.
+ent-ConstructorCircuitboard = машинная плата конструктора
+    .desc = Печатная плата для сборки конструктора.
 
-ent-StorageBinCircuitboard = storage bin machine board
-    .desc = A machine printed circuit board for a storage bin.
+ent-StorageBinCircuitboard = машинная плата накопительного бункера
+    .desc = Печатная плата для сборки накопительного бункера.
 
-ent-InteractorCircuitboard = interactor machine board
-    .desc = A machine printed circuit board for an interactor.
+ent-InteractorCircuitboard = машинная плата взаимодействователя
+    .desc = Печатная плата для сборки взаимодействователя.

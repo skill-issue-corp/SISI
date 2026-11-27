@@ -1,140 +1,140 @@
-ent-ClothingOuterWinterCoat = winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterCoat = зимняя куртка
+    .desc = Тяжёлая куртка из «синтетического» звериного меха.
 
-ent-ClothingOuterWinterCoatToggleable = winter coat with hood
+ent-ClothingOuterWinterCoatToggleable = зимняя куртка с капюшоном
     .desc = { ent-ClothingOuterWinterCoat.desc }
 
-ent-ClothingOuterWinterAtmos = atmospherics winter coat
+ent-ClothingOuterWinterAtmos = зимняя куртка атмосферного отсека
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterBar = bartender winter coat
+ent-ClothingOuterWinterBar = зимняя куртка бармена
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterCap = captain's winter coat
+ent-ClothingOuterWinterCap = зимняя куртка капитана
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterCargo = cargo winter coat
+ent-ClothingOuterWinterCargo = зимняя куртка карго
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterCE = chief engineer's winter coat
+ent-ClothingOuterWinterCE = зимняя куртка старшего инженера
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterCentcom = CentComm winter coat
+ent-ClothingOuterWinterCentcom = зимняя куртка ЦК
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterChef = chef's freezer coat
-    .desc = A coat specifically designed for work inside cold storage, sorely needed by cold-blooded lizard chefs.
+ent-ClothingOuterWinterChef = куртка повара для морозилки
+    .desc = Куртка специально для работы в морозильной камере, совершенно необходимая холоднокровным поварам-ящерам.
 
-ent-ClothingOuterWinterChem = chemistry winter coat
+ent-ClothingOuterWinterChem = зимняя куртка химика
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterCMO = chief medical officer's winter coat
+ent-ClothingOuterWinterCMO = зимняя куртка главного врача
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterClown = clown winter coat
+ent-ClothingOuterWinterClown = зимняя куртка клоуна
     .desc = { ent-ClothingOuterWinterCoat.desc }
 
-ent-ClothingOuterWinterEngi = engineering winter coat
+ent-ClothingOuterWinterEngi = зимняя куртка инженера
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterGen = genetics winter coat
+ent-ClothingOuterWinterGen = зимняя куртка генетика
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterHoP = head of personnel's winter coat
+ent-ClothingOuterWinterHoP = зимняя куртка главы персонала
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterHoS = head of security's armored winter coat
-    .desc = A sturdy, utilitarian winter coat designed to protect a head of security from any brig-bound threats and hypothermic events.
+ent-ClothingOuterWinterHoS = бронированная зимняя куртка главы службы безопасности
+    .desc = Прочная, практичная зимняя куртка защищает главу службы безопасности от любых угроз, которым самое место в бриге, и от переохлаждения.
 
-ent-ClothingOuterWinterHoSUnarmored = head of security's winter coat
-    .desc = A sturdy coat, a warm coat, but not an armored coat.
+ent-ClothingOuterWinterHoSUnarmored = зимняя куртка главы службы безопасности
+    .desc = Куртка прочная, куртка тёплая, но куртка не бронированная.
 
-ent-ClothingOuterWinterHydro = hydroponics winter coat
+ent-ClothingOuterWinterHydro = зимняя куртка гидропоники
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterJani = janitorial winter coat
+ent-ClothingOuterWinterJani = зимняя куртка уборщика
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterMed = medical winter coat
+ent-ClothingOuterWinterMed = зимняя куртка медика
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterMime = mime winter coat
+ent-ClothingOuterWinterMime = зимняя куртка мима
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterMiner = mining winter coat
+ent-ClothingOuterWinterMiner = зимняя куртка шахтёра
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterPara = paramedic winter coat
+ent-ClothingOuterWinterPara = зимняя куртка парамедика
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterQM = quartermaster's winter coat
+ent-ClothingOuterWinterQM = зимняя куртка квартирмейстера
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterRD = research director's winter coat
+ent-ClothingOuterWinterRD = зимняя куртка научного руководителя
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterRobo = robotics winter coat
+ent-ClothingOuterWinterRobo = зимняя куртка робототехника
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterSci = science winter coat
+ent-ClothingOuterWinterSci = зимняя куртка учёного
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterSec = security winter coat
+ent-ClothingOuterWinterSec = зимняя куртка службы безопасности
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterViro = virology winter coat
+ent-ClothingOuterWinterViro = зимняя куртка вирусолога
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterWarden = warden's armored winter coat
-    .desc = A sturdy, utilitarian winter coat designed to protect a warden from any brig-bound threats and hypothermic events.
+ent-ClothingOuterWinterWarden = бронированная зимняя куртка смотрителя
+    .desc = Прочная, практичная зимняя куртка защищает смотрителя от любых угроз, которым самое место в бриге, и от переохлаждения.
 
-ent-ClothingOuterWinterWardenUnarmored = warden's winter coat
-    .desc = A sturdy coat, a warm coat, but not an armored coat.
+ent-ClothingOuterWinterWardenUnarmored = зимняя куртка смотрителя
+    .desc = Куртка прочная, куртка тёплая, но куртка не бронированная.
 
-ent-ClothingOuterWinterSyndieCap = syndicate's winter coat
-    .desc = The syndicate's winter coat is made of durable fabric, with gilded patterns, and coarse wool.
+ent-ClothingOuterWinterSyndieCap = зимняя куртка синдиката
+    .desc = Зимняя куртка синдиката сшита из прочной ткани и грубой шерсти и украшена позолоченными узорами.
 
-ent-ClothingOuterWinterSyndieCapArmored = syndicate's armored winter coat
-    .desc = The syndicate's armored winter coat is made of durable fabric, with gilded patterns, and coarse wool.
+ent-ClothingOuterWinterSyndieCapArmored = бронированная зимняя куртка синдиката
+    .desc = Бронированная зимняя куртка синдиката сшита из прочной ткани и грубой шерсти и украшена позолоченными узорами.
 
-ent-ClothingOuterWinterSyndie = syndicate's winter coat
-    .desc = Insulated winter coat, looks like a merch from "Syndieland".
+ent-ClothingOuterWinterSyndie = зимняя куртка синдиката
+    .desc = Утеплённая зимняя куртка, похожая на сувенир из «Синдиленда».
 
-ent-ClothingOuterWinterMusician = musician's winter coat
-    .desc = An oversized, plasticine space tuxedo that'll have people asking "do you know me?"
+ent-ClothingOuterWinterMusician = зимняя куртка музыканта
+    .desc = Огромный пластилиновый космический смокинг, из-за которого все будут спрашивать: «Мы знакомы?»
 
-ent-ClothingOuterWinterWeb = web winter coat
-    .desc = Feels like the inside of a cocoon, not that this would make you less afraid of being in one.
+ent-ClothingOuterWinterWeb = зимняя куртка из паутины
+    .desc = Как будто вы внутри кокона. Вряд ли от этого вам будет менее страшно оказаться в настоящем коконе.
 
-ent-ClothingOuterWinterColorBlack = black winter coat
+ent-ClothingOuterWinterColorBlack = чёрная зимняя куртка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorPurple = purple winter coat
+ent-ClothingOuterWinterColorPurple = фиолетовая зимняя куртка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorRed = red winter coat
+ent-ClothingOuterWinterColorRed = красная зимняя куртка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorBlue = blue winter coat
+ent-ClothingOuterWinterColorBlue = синяя зимняя куртка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorBrown = brown winter coat
+ent-ClothingOuterWinterColorBrown = коричневая зимняя куртка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorGray = gray winter coat
+ent-ClothingOuterWinterColorGray = серая зимняя куртка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorGreen = green winter coat
+ent-ClothingOuterWinterColorGreen = зелёная зимняя куртка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorLightBrown = light brown winter coat
+ent-ClothingOuterWinterColorLightBrown = светло-коричневая зимняя куртка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorOrange = orange winter coat
+ent-ClothingOuterWinterColorOrange = оранжевая зимняя куртка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorWhite = white winter coat
+ent-ClothingOuterWinterColorWhite = белая зимняя куртка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorYellow = yellow winter coat
+ent-ClothingOuterWinterColorYellow = жёлтая зимняя куртка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }

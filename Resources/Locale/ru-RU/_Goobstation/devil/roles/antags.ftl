@@ -1,3 +1,3 @@
-roles-antag-devil-name = Devil
-roles-antag-devil-description = Use your wit and silver tongue to trick crew members into devilish deals.
-roles-antag-devilmidround-name = Devil Midround
+roles-antag-devil-name = Дьявол
+roles-antag-devil-description = Пустите в ход смекалку и красноречие, чтобы заманить членов экипажа в дьявольские сделки.
+roles-antag-devilmidround-name = Дьявол Мидраунда

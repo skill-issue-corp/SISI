@@ -1,33 +1,33 @@
-roles-antag-changeling-name = Changeling
-roles-antag-changeling-objective = A intelligent predator that assumes the identities of its victims.
+roles-antag-changeling-name = Генокрад
+roles-antag-changeling-objective = Разумный хищник, принимающий облик своих жертв.
 
-changeling-briefing = You are a changeling, your goal is to survive. Consume humanoids to gain biomass and utilize it to evade termination. You are able to utilize and assume the identities of those you consume to evade a grim fate.
+changeling-briefing = Вы генокрад. Ваша цель — выжить. Пожирайте гуманоидов, чтобы набирать биомассу, и тратьте её, чтобы избежать гибели. Вы можете принимать облик поглощённых жертв, чтобы спастись от незавидной участи.
 
-changeling-devour-attempt-failed-rotting = This corpse has only rotted biomass.
-changeling-devour-attempt-failed-protected = This victim's biomass is protected.
+changeling-devour-attempt-failed-rotting = В этом трупе только гнилая биомасса.
+changeling-devour-attempt-failed-protected = Биомасса жертвы защищена.
 
-changeling-devour-begin-windup-self = Our uncanny mouth reveals itself with otherworldly hunger.
-changeling-devour-begin-windup-others = { CAPITALIZE(POSS-ADJ($user)) } uncanny mouth reveals itself with otherworldly hunger.
-changeling-devour-begin-consume-self = The uncanny mouth digs deep into its victim.
-changeling-devour-begin-consume-others = { CAPITALIZE(POSS-ADJ($user)) } uncanny mouth digs deep into { POSS-ADJ($user) } victim.
+changeling-devour-begin-windup-self = Из нас показывается жуткая пасть, снедаемая нечеловеческим голодом.
+changeling-devour-begin-windup-others = { CAPITALIZE(POSS-ADJ($user)) } жуткая пасть раскрывается в нечеловеческом голоде.
+changeling-devour-begin-consume-self = Жуткая пасть глубоко вгрызается в жертву.
+changeling-devour-begin-consume-others = { CAPITALIZE(POSS-ADJ($user)) } жуткая пасть глубоко вгрызается в { POSS-ADJ($user) } жертву.
 
-changeling-devour-consume-failed-not-dead = This body yet lives! We cannot consume it alive!
-changeling-devour-consume-complete-self = Our uncanny mouth retreats, biomass consumed.
-changeling-devour-consume-complete-others = { CAPITALIZE(POSS-ADJ($user)) } uncanny mouth retreats.
+changeling-devour-consume-failed-not-dead = Это тело ещё живо! Мы не можем поглотить его живьём!
+changeling-devour-consume-complete-self = Наша жуткая пасть прячется. Биомасса поглощена.
+changeling-devour-consume-complete-others = { CAPITALIZE(POSS-ADJ($user)) } жуткая пасть прячется.
 
-changeling-transform-attempt-self = Our bones snap, muscles tear, one flesh becomes another.
-changeling-transform-attempt-others = { CAPITALIZE(POSS-ADJ($user)) } bones snap, muscles tear, body shifts into another.
-changeling-flesh-clothing-removed-popop = {CAPITALIZE(THE($item))} falls apart into fleshy remains!
-changeling-flesh-clothing-examine-wearer = [color=crimson]This item is a camouflaged part of your body. It will disappear if you unequip it![/color]
-changeling-flesh-clothing-alert-name = Flesh Clothing Ability
-changeling-flesh-clothing-alert-desc = Whether clothing transformation is enabled. Click to toggle.
+changeling-transform-attempt-self = Наши кости трещат, мышцы рвутся, одна плоть становится другой.
+changeling-transform-attempt-others = { CAPITALIZE(POSS-ADJ($user)) } кости трещат, мышцы рвутся, тело принимает иную форму.
+changeling-flesh-clothing-removed-popop = {CAPITALIZE($item)} распадается на ошмётки плоти!
+changeling-flesh-clothing-examine-wearer = [color=crimson]Этот предмет — замаскированная часть вашего тела. Стоит вам его снять, и он исчезнет![/color]
+changeling-flesh-clothing-alert-name = Способность Создавать Одежду из Плоти
+changeling-flesh-clothing-alert-desc = Показывает, включено ли превращение одежды. Нажмите, чтобы переключить.
 
 # transformation BUI
 changeling-transform-bui-select-entity = {$entity}
-changeling-transform-bui-drop-identity-menu = Drop a devoured identity from your memory.
-changeling-transform-bui-drop-identity-entity = Drop {$entity}
-changeling-transform-bui-drop-identity-entity-popup = You dropped {$entity} from your memory.
-changeling-transform-bui-drop-identity-cannot-drop = You cannot drop your current identity.
+changeling-transform-bui-drop-identity-menu = Забыть облик одной из поглощённых жертв.
+changeling-transform-bui-drop-identity-entity = Забыть {$entity}
+changeling-transform-bui-drop-identity-entity-popup = Вы стираете из памяти облик {$entity}.
+changeling-transform-bui-drop-identity-cannot-drop = Текущий облик забыть нельзя.
 
 # other
-changeling-paused-map-name = Changeling identity storage map
+changeling-paused-map-name = Карта хранения обликов Генокрада

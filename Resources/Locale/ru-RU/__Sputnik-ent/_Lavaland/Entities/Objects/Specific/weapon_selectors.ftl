@@ -1,5 +1,5 @@
-ent-UndeterminedWeaponShaftMiner = shaft miner weapon selector
-    .desc = A small remote utilizing bluespace technology to drop in a weapon of your choosing.
+ent-UndeterminedWeaponShaftMiner = селектор оружия шахтёра
+    .desc = Небольшой пульт, который доставляет по блюспейсу оружие на ваш выбор.
 
-ent-UndeterminedWeaponSalvageSpecialist = salvage specialist weapon selector
-    .desc = A small remote utilizing bluespace technology to drop in a weapon of your choosing.
+ent-UndeterminedWeaponSalvageSpecialist = селектор оружия утилизатора
+    .desc = Небольшой пульт, который доставляет по блюспейсу оружие на ваш выбор.

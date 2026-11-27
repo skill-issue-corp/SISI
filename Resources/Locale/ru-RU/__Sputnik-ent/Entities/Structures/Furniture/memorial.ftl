@@ -1,13 +1,13 @@
-ent-Memorial = memorial
-    .desc = Commemorating something.
+ent-Memorial = мемориал
+    .desc = Воздвигнут в память о чём-то.
 
-ent-SS13Memorial = tomb of the unknown employee
+ent-SS13Memorial = могила неизвестного сотрудника
     .desc = 
-        Here rests an unknown employee
-        Unknown by name or rank
-        Whose acts will not be forgotten
+        Здесь покоится неизвестный сотрудник
+        Нам неизвестны его имя и звание
+        Но его деяния не забудутся
 
-ent-Monolith = monolith
+ent-Monolith = монолит
     .desc = 
-        Holy shit modern art.
-        I bet it's worth a fortune.
+        Ни хрена себе, современное искусство.
+        Спорим, оно стоит целое состояние?

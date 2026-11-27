@@ -1,2 +1,2 @@
-ent-VisitorAlienSpawner = visiting alien spawner
+ent-VisitorAlienSpawner = точка спавна инопланетного гостя
     .desc = { ent-MarkerBase.desc }

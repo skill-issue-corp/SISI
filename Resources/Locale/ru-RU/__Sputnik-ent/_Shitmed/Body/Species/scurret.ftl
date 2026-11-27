@@ -1,9 +1,9 @@
-ent-AppearanceScurret = scurret appearance
+ent-AppearanceScurret = внешность слизнекотика
     .desc = { ent-BaseSpeciesAppearance.desc }
 
 ent-OrganScurret = { ent-OrganBaseFleshy }
     .desc = { ent-OrganBaseFleshy.desc }
-    .suffix = scurret
+    .suffix = слизнекотик
 
 ent-OrganScurretExternal = { ent-OrganScurret }
     .desc = { ent-OrganScurret.desc }

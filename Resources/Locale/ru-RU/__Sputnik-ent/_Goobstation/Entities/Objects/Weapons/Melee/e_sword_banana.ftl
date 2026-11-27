@@ -1,10 +1,10 @@
-ent-BananiumSword = bananium energy sword
-    .desc = A very loud & slippery sword with a beam made of pure, concentrated bananium. Slips un-galoshed targets like butter.
+ent-BananiumSword = бананиумовый энергетический меч
+    .desc = Очень громкий и скользкий меч с лезвием из чистого концентрированного бананиума. Цели без галош подскальзываются как на масле.
 
 ent-EnergySwordDoubleRed = { ent-EnergySwordDouble }
     .desc = { ent-EnergySwordDouble.desc }
-    .suffix = Red
+    .suffix = Красный
 
 ent-EnergySwordBlue = { ent-EnergySword }
     .desc = { ent-EnergySword.desc }
-    .suffix = Blue
+    .suffix = Синий

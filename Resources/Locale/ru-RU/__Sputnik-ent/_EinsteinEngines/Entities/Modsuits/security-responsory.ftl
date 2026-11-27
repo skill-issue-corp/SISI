@@ -1,21 +1,21 @@
 ent-BaseModsuitPieceERTSecurity = { "" }
     .desc = { "" }
 
-ent-ClothingModsuitResponsorySecurity = Security Responsory modsuit control unit
-    .desc = The main controller for a Security Responsory modsuit.
+ent-ClothingModsuitResponsorySecurity = блок управления модсьюта «Боец ОБР»
+    .desc = Основной блок управления модсьютом «Боец ОБР».
 
-ent-ClothingModsuitGauntletsResponsorySecurity = Security Responsory modsuit gauntlets
-    .desc = A pair of gauntlets made for the Security Responsory modsuit.
+ent-ClothingModsuitGauntletsResponsorySecurity = перчатки модсьюта «Боец ОБР»
+    .desc = Пара перчаток для модсьюта «Боец ОБР».
 
-ent-ClothingModsuitHelmetResponsorySecurity = Security Responsory modsuit helmet
-    .desc = A state-of-the-art helmet designed by NanoTrasen for the Security Responsory modsuit. It includes a built-in HUD.
+ent-ClothingModsuitHelmetResponsorySecurity = шлем модсьюта «Боец ОБР»
+    .desc = Передовой шлем, разработанный NanoTrasen для модсьюта «Боец ОБР». Оснащён встроенным визором.
 
-ent-ClothingModsuitChestplateResponsorySecurity = Security Responsory modsuit chestplate
-    .desc = A state of the art chestplate designed by NanoTrasen for the Security Responsory modsuit. It incorporates powered servos to reduce the equipment load.
+ent-ClothingModsuitChestplateResponsorySecurity = нагрудник модсьюта «Боец ОБР»
+    .desc = Передовой нагрудник, разработанный NanoTrasen для модсьюта «Боец ОБР». Встроенные сервоприводы снижают нагрузку от снаряжения.
 
-ent-ClothingModsuitBootsResponsorySecurity = Security Responsory modsuit boots
-    .desc = A state-of-the-art pair of magboots for the Security Responsory modsuit.
+ent-ClothingModsuitBootsResponsorySecurity = ботинки модсьюта «Боец ОБР»
+    .desc = Передовые магнитные ботинки для модсьюта «Боец ОБР».
 
 ent-SuitStorageResponsorySecurity = { ent-SuitStorageBase }
     .desc = { ent-SuitStorageBase.desc }
-    .suffix = Security Responsory Modsuit
+    .suffix = Модсьют «Боец ОБР»

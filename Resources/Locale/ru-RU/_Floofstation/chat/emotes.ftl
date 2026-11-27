@@ -1,3 +1,3 @@
-chat-emote-name-yip = Yip
+chat-emote-name-yip = Тявкнуть
 
-chat-emote-msg-yip = yips!
+chat-emote-msg-yip = тявкает!

@@ -1,20 +1,20 @@
-ent-ActionVampiricClaws = Vampiric Claws
-    .desc = Create undroppable claws of blood. Claws remove bonus blood from the target on hit, a fraction of this is added to your blood total. Use in hand to dispel.
+ent-ActionVampiricClaws = Вампирские Когти
+    .desc = Создайте кровавые когти, которые нельзя выронить. При ударе когти отнимают у цели дополнительную кровь, часть которой пополняет ваш запас. Используйте когти в руке, чтобы рассеять их.
 
-ent-ActionBloodTendrils = Blood Tendrils
-    .desc = Manifest tentacles of blood in a 3x3 grid around a tile you click. After a short delay, these will latch onto anyone on their tile, slowing them massively for 4-6 seconds.
+ent-ActionBloodTendrils = Кровавые Щупальца
+    .desc = Призовите кровавые щупальца в области 3x3 вокруг выбранного тайла. Спустя небольшую задержку они вцепятся в каждого на своём тайле и сильно замедлят его на 4-6 секунд.
 
-ent-ActionBloodBarrier = Blood Barrier
-    .desc = Manifest a barrier of crystalline blood. select two tiles with a maximum length of 3 will be produced.
+ent-ActionBloodBarrier = Кровавый Барьер
+    .desc = Призовите барьер из кристаллизованной крови. выберите два тайла, и между ними появится барьер длиной не более 3.
 
-ent-ActionBloodPool = Blood Pool
-    .desc = Briefly transform into a sentient blood puddle, increasing movement speed and allowing you to move through anything except walls.
+ent-ActionBloodPool = Лужа Крови
+    .desc = Ненадолго превратитесь в разумную лужу крови, увеличив скорость передвижения и получив возможность проходить сквозь всё, кроме стен.
 
-ent-ActionPredatorSenses = Predator Senses
-    .desc = Find out the location of someone on the same sector as you.
+ent-ActionPredatorSenses = Чутьё Хищника
+    .desc = Узнайте местоположение кого-либо в том же секторе, что и вы.
 
-ent-ActionBloodEruption = Blood Eruption
-    .desc = Cause any blood within 8 tiles of you to erupt, dealing 50 brute damage to anyone standing on it.
+ent-ActionBloodEruption = Извержение Крови
+    .desc = Заставьте всю кровь в пределах 8 тайлов взметнуться вверх и нанести 50 ед. физического урона каждому, кто стоит на ней.
 
-ent-ActionBloodBringersRite = The Blood Bringer's Rite
-    .desc = The Blood Bringer's Rite
+ent-ActionBloodBringersRite = Обряд Несущего Кровь
+    .desc = Обряд Несущего Кровь

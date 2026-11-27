@@ -1,5 +1,5 @@
-secret-title = Secret
-secret-description = It's a secret to everyone. The threats you encounter are randomized.
+secret-title = Секрет
+secret-description = Для всех это секрет. Угрозы выбираются случайно.
 
-dynamic-title = Dynamic
-dynamic-description = No one knows what's coming. You can encounter any number of threats.
+dynamic-title = Динамика
+dynamic-description = Никто не знает, что будет. Угроз может оказаться сколько угодно.

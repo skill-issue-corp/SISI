@@ -4,54 +4,54 @@ ent-BasePowerCell = { ent-BaseItem }
 ent-SolutionRiggable = { ent-Solution }
     .desc = { ent-Solution.desc }
 
-ent-PowerCellPotato = potato battery
-    .desc = Someone's stuck two nails and some wire in a large potato. Somehow it provides a little charge.
+ent-PowerCellPotato = картофельная батарея
+    .desc = Кто-то воткнул два гвоздя и немного проволоки в большую картофелину. Каким-то образом она даёт немного заряда.
 
-ent-PowerCellSmall = small-capacity power cell
-    .desc = A rechargeable power cell. This is the cheapest kind you can find.
-    .suffix = Full
+ent-PowerCellSmall = батарея малой ёмкости
+    .desc = Перезаряжаемая батарея. Самая дешёвая из тех, что можно найти.
+    .suffix = Полностью заполнено
 
 ent-PowerCellSmallPrinted = { ent-PowerCellSmall }
     .desc = { ent-PowerCellSmall.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-PowerCellSmallNuclear = small-capacity nuclear power cell
-    .desc = A self rechargeable power cell, designed for fast recharge rate at the expense of capacity.
+ent-PowerCellSmallNuclear = ядерная батарея малой ёмкости
+    .desc = Самозаряжающаяся батарея с высокой скоростью зарядки в ущерб ёмкости.
 
-ent-PowerCellMedium = medium-capacity power cell
-    .desc = A rechargeable power cell. This is the popular and reliable version.
-    .suffix = Full
+ent-PowerCellMedium = батарея средней ёмкости
+    .desc = Перезаряжаемая батарея. Популярная и надёжная модель.
+    .suffix = Полностью заполнено
 
 ent-PowerCellMediumPrinted = { ent-PowerCellMedium }
     .desc = { ent-PowerCellMedium.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-PowerCellHigh = high-capacity power cell
-    .desc = A rechargeable standardized power cell. This premium brand stores up to 50% more energy than the competition.
-    .suffix = Full
+ent-PowerCellHigh = батарея высокой ёмкости
+    .desc = Стандартная перезаряжаемая батарея. Премиальная марка, которая вмещает до 50% больше энергии, чем конкуренты.
+    .suffix = Полностью заполнено
 
 ent-PowerCellHighPrinted = { ent-PowerCellHigh }
     .desc = { ent-PowerCellHigh.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-PowerCellHyper = hyper-capacity power cell
-    .desc = A rechargeable standardized power cell. This iteration pushes the upper limits of portable power storage, boasting 66% more capacity than its predecessor.
-    .suffix = Full
+ent-PowerCellHyper = батарея сверхвысокой ёмкости
+    .desc = Стандартная перезаряжаемая батарея. Новая модель расширяет пределы переносных источников питания. Её ёмкость на 66% выше, чем у предшественницы.
+    .suffix = Полностью заполнено
 
 ent-PowerCellHyperPrinted = { ent-PowerCellHyper }
     .desc = { ent-PowerCellHyper.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-PowerCellMicroreactor = microreactor power cell
-    .desc = A rechargeable standardized microreactor cell. Has lower capacity but slowly recharges by itself.
-    .suffix = Full
+ent-PowerCellMicroreactor = микрореакторная батарея
+    .desc = Стандартная перезаряжаемая микрореакторная батарея. Ёмкость ниже, зато она медленно заряжается сама.
+    .suffix = Полностью заполнено
 
 ent-PowerCellMicroreactorPrinted = { ent-PowerCellMicroreactor }
     .desc = { ent-PowerCellMicroreactor.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
-ent-PowerCellAntiqueProto = antique power cell prototype
-    .desc = A small cell that self recharges. Used in old laser arms research.
+ent-PowerCellAntiqueProto = прототип старинной батареи
+    .desc = Небольшая самозаряжающаяся батарея. Когда-то её использовали при разработке лазерного оружия.
 
 ent-BasePowerCage = { ent-BasePowerCell }
     .desc = { ent-BasePowerCell.desc }
@@ -59,23 +59,23 @@ ent-BasePowerCage = { ent-BasePowerCell }
 ent-SolutionRiggableLarge = { ent-SolutionRiggable }
     .desc = { ent-SolutionRiggable.desc }
 
-ent-PowerCageSmall = small-capacity power cage
-    .desc = A rechargeable power cage for big devices. This is the cheapest kind you can find.
+ent-PowerCageSmall = аккумуляторный блок малой ёмкости
+    .desc = Перезаряжаемый аккумуляторный блок для крупных устройств. Самый дешёвый из тех, что можно найти.
 
-ent-PowerCageMedium = medium-capacity power cage
-    .desc = A rechargeable power cage for big devices. The gold standard of capacity and cost.
+ent-PowerCageMedium = аккумуляторный блок средней ёмкости
+    .desc = Перезаряжаемый аккумуляторный блок для крупных устройств. Золотой стандарт по соотношению ёмкости и цены.
 
-ent-PowerCageHigh = high-capacity power cage
-    .desc = A rechargeable power cage for big devices. Increased capacity for increased power levels.
+ent-PowerCageHigh = аккумуляторный блок высокой ёмкости
+    .desc = Перезаряжаемый аккумуляторный блок для крупных устройств. Повышенная ёмкость для работы на повышенной мощности.
 
 ent-PowerCageSmallEmpty = { ent-PowerCageSmall }
     .desc = { ent-PowerCageSmall.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
 ent-PowerCageMediumEmpty = { ent-PowerCageMedium }
     .desc = { ent-PowerCageMedium.desc }
-    .suffix = Empty
+    .suffix = Пусто
 
 ent-PowerCageHighEmpty = { ent-PowerCageHigh }
     .desc = { ent-PowerCageHigh.desc }
-    .suffix = Empty
+    .suffix = Пусто

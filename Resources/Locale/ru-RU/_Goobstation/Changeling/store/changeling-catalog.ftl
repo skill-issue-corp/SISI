@@ -9,183 +9,183 @@
 
 # combat
 
-evolutionmenu-combat-armblade-name = Arm Blade
+evolutionmenu-combat-armblade-name = Рука-Клинок
 evolutionmenu-combat-armblade-desc =
-    Reform one of your arms into a grotesque blade, composed of bone and flesh, able to pry open airlocks and cut through your foes like butter. Easily delimbs.
-    Costs 15 chemicals.
+    Превращает одну вашу руку в жуткий клинок из костей и плоти. Им можно вскрывать шлюзы и резать противников как масло. Легко отсекает конечности.
+    Стоит 15 ед. химикатов.
 
-evolutionmenu-combat-armhammer-name = Arm Hammer
+evolutionmenu-combat-armhammer-name = Рука-Молот
 evolutionmenu-combat-armhammer-desc =
-    Reform one of your arms into a grotesque hammer, composed of bone and flesh, able to smash your opponents, knocking them down and sending them flying. Will only knock down on light attack.
-    Costs 15 chemicals.
+    Превращает одну вашу руку в жуткий молот из костей и плоти. Он сокрушает противников, сбивает их с ног и отбрасывает. При лёгкой атаке только сбивает с ног.
+    Стоит 15 ед. химикатов.
 
-evolutionmenu-combat-armclaw-name = Arm Claw
+evolutionmenu-combat-armclaw-name = Рука-Коготь
 evolutionmenu-combat-armclaw-desc =
-    Reform one of your arms into a grotesque claw, composed of bone and flesh, able to inject long lasting poison on hit, muting and damaging them.
-    Costs 15 chemicals.
+    Превращает одну вашу руку в жуткий коготь из костей и плоти. При ударе вводит яд длительного действия, который лишает противника голоса и наносит ему урон.
+    Стоит 15 ед. химикатов.
 
-evolutionmenu-combat-dartgun-name = Dart Gun
+evolutionmenu-combat-dartgun-name = Дротикомёт
 evolutionmenu-combat-dartgun-desc =
-    Reform one of your arms into a stinger, able to shoot darts, applying half of the effect of one of your evolved reagent stings.
-    Available modes: blind sting, mute sting, cryogenic sting, lethargic sting
-    Costs 15 chemicals.
-    Each shot costs about 1/3 the chemical cost of the selected sting.
+    Превращает одну вашу руку в жало, стреляющее дротиками. Дротик даёт половину эффекта одного из развитых вами жал с реагентом.
+    Доступные режимы: ослепляющее жало, немое жало, криогенное жало, летаргическое жало
+    Стоит 15 ед. химикатов.
+    Каждый выстрел тратит около 1/3 запаса химикатов, необходимого выбранному жалу.
 
-evolutionmenu-combat-boneshard-name = Bone Shard
+evolutionmenu-combat-boneshard-name = Костяной Осколок
 evolutionmenu-combat-boneshard-desc =
-    Break off shards of your bone and shape them into a throwing star which embeds into your foes. But a one timer opportinuty.
-    Costs 15 chemicals.
+    Отломите осколки кости и сделайте из них метательную звезду, которая вонзается в противника. Шанс будет только один.
+    Стоит 15 ед. химикатов.
 
-evolutionmenu-combat-armor-name = Chitinous Armor
+evolutionmenu-combat-armor-name = Хитиновая Броня
 evolutionmenu-combat-armor-desc =
-    Inflate your body into an all-consuming chitinous mass of armor.
-    Provides solid protection against physical damage.
-    Maintaining its shape slows chemical generation.
-    WARNING: Requires you to absorb at least 2 organics to use the ability.
-    Costs 25 chemicals.
+    Раздувает ваше тело в сплошную массу хитиновой брони.
+    Даёт надёжную защиту от физического урона.
+    Поддержание этой формы замедляет выработку химикатов.
+    ВНИМАНИЕ: Чтобы использовать способность, поглотите хотя бы 2 органических существа.
+    Стоит 25 ед. химикатов.
 
-evolutionmenu-combat-shield-name = Organic Shield
+evolutionmenu-combat-shield-name = Органический Щит
 evolutionmenu-combat-shield-desc =
-    Reforms one of your arms into a large, fleshy shield.
-    Reduces incoming damage, albeit is less durable than conventional shields.
-    WARNING: Requires you to absorb at least 1 organic to use the ability.
-    Costs 20 chemicals.
+    Превращает одну вашу руку в большой щит из плоти.
+    Снижает получаемый урон, хотя уступает в прочности обычным щитам.
+    ВНИМАНИЕ: Чтобы использовать способность, поглотите хотя бы 1 органическое существо.
+    Стоит 20 ед. химикатов.
 
-evolutionmenu-combat-shriek-dissonant-name = Dissonant Shriek
+evolutionmenu-combat-shriek-dissonant-name = Диссонирующий Визг
 evolutionmenu-combat-shriek-dissonant-desc =
-    You scream out an EMP blast, which disables technology in the surrounding area, including radio headsets.
-    Good for escaping cyborgs and security.
-    WARNING: Requires you to absorb at least 1 organic to use the ability.
-    Costs 30 chemicals.
+    Ваш крик вызывает импульс ЭМИ, который отключает технику поблизости, включая гарнитуры.
+    Помогает убежать от киборгов и службы безопасности.
+    ВНИМАНИЕ: Чтобы использовать способность, поглотите хотя бы 1 органическое существо.
+    Стоит 30 ед. химикатов.
 
-evolutionmenu-combat-shriek-resonant-name = Resonant Shriek
+evolutionmenu-combat-shriek-resonant-name = Резонирующий Визг
 evolutionmenu-combat-shriek-resonant-desc =
-    You scream out a disorienting high frequency sound,
-    bursting lights as well as causing sensory overloads in organisms and silicons.
-    Good for escaping groups, or hindering people from fleeing.
-    Changelings are not affected by this sound, and ear protection will reduce disorientation.
-    WARNING: Requires you to absorb at least 1 organic to use the ability.
-    Costs 30 chemicals.
+    Ваш крик издаёт дезориентирующий высокочастотный звук,
+    от которого лопаются светильники и перегружаются органы чувств живых существ и синтетиков.
+    Помогает сбежать от толпы или помешать людям скрыться.
+    На генокрадов этот звук не действует. Защита слуха уменьшает дезориентацию.
+    ВНИМАНИЕ: Чтобы использовать способность, поглотите хотя бы 1 органическое существо.
+    Стоит 30 ед. химикатов.
 
-evolutionmenu-combat-strainedmuscles-name = Strained Muscles
+evolutionmenu-combat-strainedmuscles-name = Напряжённые Мышцы
 evolutionmenu-combat-strainedmuscles-desc =
-    You reduce lactic acid buildup in your leg muscles, allowing you to move at extremely fast speeds.
-    While active, you will take steadily increments of stamina damage and eventually pass out.
-    Cost-free.
+    Уменьшает накопление молочной кислоты в мышцах ног, позволяя двигаться с невероятной скоростью.
+    Пока способность активна, урон выносливости накапливается, пока вы не потеряете сознание.
+    Бесплатно.
 
 # sting
 
-evolutionmenu-sting-blind-name = Blind Sting
+evolutionmenu-sting-blind-name = Ослепляющее Жало
 evolutionmenu-sting-blind-desc =
-    Silently sting an organic target, completely blinding them for a short time.
-    May be used while under the effects of Lesser Form.
-    Costs 20 chemicals.
+    Незаметно жалит органическую цель, ненадолго лишая её зрения.
+    Можно применять в Форме Обезьяны.
+    Стоит 20 ед. химикатов.
 
-evolutionmenu-sting-cryo-name = Cryogenic Sting
+evolutionmenu-sting-cryo-name = Криогенное Жало
 evolutionmenu-sting-cryo-desc =
-    Inject an organic target with a cocktail of chemicals that chills the blood.
-    May be used while under the effects of Lesser Form.
-    Costs 20 chemicals.
+    Вводит органической цели химический коктейль, охлаждающий кровь.
+    Можно применять в Форме Обезьяны.
+    Стоит 20 ед. химикатов.
 
-evolutionmenu-sting-lethargic-name = Lethargic Sting
+evolutionmenu-sting-lethargic-name = Летаргическое Жало
 evolutionmenu-sting-lethargic-desc =
-    Inject an organic target with a cocktail of anesthetics, slowing the victim down and dealing stamina damage for a decent amount of time.
-    May be used while under the effects of Lesser Form.
-    Costs 30 chemicals.
+    Вводит органической цели смесь анестетиков, которая надолго замедляет жертву и истощает её выносливость.
+    Можно применять в Форме Обезьяны.
+    Стоит 30 ед. химикатов.
 
-evolutionmenu-sting-mute-name = Mute Sting
+evolutionmenu-sting-mute-name = Немое Жало
 evolutionmenu-sting-mute-desc =
-    Inject mute toxin into an organic target, completely silencing them for a while.
-    May be used while under the effects of Lesser Form.
-    Costs 20 chemicals.
+    Вводит органической цели токсин, который на время полностью лишает её голоса.
+    Можно применять в Форме Обезьяны.
+    Стоит 20 ед. химикатов.
 
-evolutionmenu-sting-transform-name = Transformation Sting
+evolutionmenu-sting-transform-name = Жало Превращения
 evolutionmenu-sting-transform-desc =
-    Inject some of your genome into an organic target, forcing their body to shapeshift into whoever you've chosen using the Cycle DNA ability.
-    May be used while under the effects of Lesser Form.
-    Costs 75 chemicals.
+    Вводит органической цели часть вашего генома и заставляет её принять облик, выбранный способностью «Смена ДНК».
+    Можно применять в Форме Обезьяны.
+    Стоит 75 ед. химикатов.
 
-evolutionmenu-sting-armblade-name = Fake Arm Blade Sting
+evolutionmenu-sting-armblade-name = Жало Ложной Руки-Клинка
 evolutionmenu-sting-armblade-desc =
-    Inject some of your genome into an organic target, forcing their arm to shapeshift into a dull armblade.
-    Target can only have one fake armblade at a time.
-    May be used while under the effects of Lesser Form.
-    Costs 30 chemicals.
+    Вводит органической цели часть вашего генома и превращает её руку в тупую руку-клинок.
+    У цели может быть только одна ложная рука-клинок одновременно.
+    Можно применять в Форме Обезьяны.
+    Стоит 30 ед. химикатов.
 
 # utility
 
-evolutionmenu-utility-instinct-name = Awakened Instinct
+evolutionmenu-utility-instinct-name = Пробуждённый Инстинкт
 evolutionmenu-utility-instinct-desc =
-    Awaken a ravenous, insatiable hunger towards biomass - even your own.
-    Results in chemical regeneration being increased by a flat 25%.
-    Running out of biomass will result in self-consumption - your permanent demise.
-    Biomass is restored when absorbing compatible organisms.
-    Passive ability.
+    Пробуждает ненасытный голод по биомассе – даже по собственной.
+    Восстановление химикатов ускоряется на 25%.
+    Если биомасса закончится, вы пожрёте себя и погибнете навсегда.
+    Биомасса восполняется при поглощении совместимых организмов.
+    Пассивная способность.
 
-evolutionmenu-utility-panacea-name = Anatomic Panacea
+evolutionmenu-utility-panacea-name = Анатомическая Панацея
 evolutionmenu-utility-panacea-desc =
-    Cure yourself of diseases, disabilities, radiation, toxins, drunkenness, and brain damage. Generally covers the things that fleshmend doesn't.
-    Costs 30 chemicals.
+    Избавляет от болезней, нарушений функций, радиации, токсинов, опьянения и повреждений мозга. В основном устраняет то, с чем не справляется восстановление плоти.
+    Стоит 30 ед. химикатов.
 
-evolutionmenu-utility-eyesight-name = Augmented Eyesight
+evolutionmenu-utility-eyesight-name = Усиленное Зрение
 evolutionmenu-utility-eyesight-desc =
-    Evolve additional features in your eyes, such toggleable thermal vision and flash protection. You become more vulnerable to flash-based devices while in thermal vision mode.
-    Cost-free.
+    Развивает новые возможности глаз, например переключаемое тепловое зрение и защиту от вспышек. При тепловом зрении вы уязвимее для устройств со вспышкой.
+    Бесплатно.
 
-evolutionmenu-utility-biodegrade-name = Biodegrade
+evolutionmenu-utility-biodegrade-name = Биоразложение
 evolutionmenu-utility-biodegrade-desc =
-    Vomit a caustic substance onto any restraints you may be wearing, allowing yourself to break free.
-    Using this ability while being grabbed will spit acid in your attackers face, blinding them and knocking them down.
-    Costs 30 chemicals.
+    Извергает едкое вещество на ваши оковы, позволяя вырваться.
+    Если вас держат в захвате, способность выплёвывает кислоту в лицо нападающего, ослепляя его и сбивая с ног.
+    Стоит 30 ед. химикатов.
 
-evolutionmenu-utility-chameleon-name = Chameleon Skin
+evolutionmenu-utility-chameleon-name = Кожа Хамелеона
 evolutionmenu-utility-chameleon-desc =
-    Alter the pigment in your skin to match your surroundings, rendering you invisible.
-    Maintaining this chameleon state slows chemical generation.
-    Costs 20 chemicals.
+    Меняет пигментацию вашей кожи под окружение, делая вас невидимым.
+    Поддержание этой маскировки замедляет выработку химикатов.
+    Стоит 20 ед. химикатов.
 
-evolutionmenu-utility-voidadapt-name = Void Adaption
+evolutionmenu-utility-voidadapt-name = Адаптация К Пустоте
 evolutionmenu-utility-voidadapt-desc =
-    Alter your cells and organs to resist cold, low pressure and the need for oxygen.
-    Maintaining this state slows chemical regeneration.
-    WARNING: Requires you to absorb at least 2 organics to use the ability.
-    Cost-free.
+    Меняет клетки и органы, чтобы вы могли переносить холод, низкое давление и отсутствие кислорода.
+    Поддержание этого состояния замедляет восстановление химикатов.
+    ВНИМАНИЕ: Чтобы использовать способность, поглотите хотя бы 2 органических существа.
+    Бесплатно.
 
-evolutionmenu-utility-stims-name = Adrenaline reserves
+evolutionmenu-utility-stims-name = Запасы адреналина
 evolutionmenu-utility-stims-desc =
-    Releases additional adrenaline into your bloodstream, making you nigh-impervious to fatigue, knockdown and stuns.
-    Continuous injection is poisonous.
-    Costs 30 chemicals.
+    Выпускает дополнительный адреналин в кровь, делая вас почти невосприимчивым к усталости, сбиванию с ног и оглушению.
+    Постоянное введение вызывает отравление.
+    Стоит 30 ед. химикатов.
 
-evolutionmenu-utility-fleshmend-name = Fleshmend
+evolutionmenu-utility-fleshmend-name = Восстановление Плоти
 evolutionmenu-utility-fleshmend-desc =
-    Applies "fleshmend" status effect, rapidly healing brute damage, as well as burn/asphyxiation at a lower amount.
-    Additionally, bleeding will gradually heal and blood volume will slowly be restored.
-    Lasts 10 seconds.
-    Healing will cease while on fire.
-    Costs 35 chemicals.
+    Накладывает эффект «восстановление плоти»: быстро лечит травмы, а также слабее исцеляет ожоги и удушье.
+    Кровотечение постепенно прекращается, а объём крови медленно восстанавливается.
+    Длится 10 секунд.
+    Пока вы горите, исцеление прекращается.
+    Стоит 35 ед. химикатов.
 
-evolutionmenu-utility-lastresort-name = Last Resort
+evolutionmenu-utility-lastresort-name = Последнее Средство
 evolutionmenu-utility-lastresort-desc =
-    Abandon your current body and escape in the form of a headslug.
-    Costs 20 chemicals.
+    Покиньте нынешнее тело и сбегите в облике головослизня.
+    Стоит 20 ед. химикатов.
 
-evolutionmenu-utility-lesserform-name = Lesser Form
+evolutionmenu-utility-lesserform-name = Форма Обезьяны
 evolutionmenu-utility-lesserform-desc =
-    Abandon your current form and turn into a sentient monkey.
-    Costs 20 chemicals.
+    Покиньте свой нынешний облик и станьте разумной обезьяной.
+    Стоит 20 ед. химикатов.
 
-evolutionmenu-utility-spacesuit-name = Space Adaptation
+evolutionmenu-utility-spacesuit-name = Космическая Адаптация
 evolutionmenu-utility-spacesuit-desc =
-    Get rid of useless tissue in order to facilitate space travel. A source of oxygen is still required for space walking.
-    Costs 20 chemicals.
+    Избавьтесь от ненужных тканей, чтобы легче перемещаться в космосе. Для выхода в космос всё ещё нужен источник кислорода.
+    Стоит 20 ед. химикатов.
 
-evolutionmenu-utility-hivemindaccess-name = Hivemind Access
+evolutionmenu-utility-hivemindaccess-name = Доступ К Разуму Улья
 evolutionmenu-utility-hivemindaccess-desc =
-    Tunes our chemical receptors for hivemind communication, allowing us to recognize and communicate with other changelings who have also evolved this ability.
-    Default key is +h
+    Настраивает наши химические рецепторы на разум улья. Мы можем распознавать других генокрадов, развивших эту способность, и общаться с ними.
+    Клавиша по умолчанию – +h
 
-evolutionmenu-utility-absorbbiomatter-name = Absorb Biomatter
+evolutionmenu-utility-absorbbiomatter-name = Поглощение Биоматерии
 evolutionmenu-utility-absorbbiomatter-desc =
-    Absorbs an organic food item, letting you regain chemicals depending on its contents.
-    Can absorb nutriment, cooked and uncooked proteins, and fat.
+    Поглощает органическую пищу и восстанавливает запас химикатов в зависимости от её состава.
+    Позволяет поглощать нутриенты, приготовленные и сырые белки и жиры.

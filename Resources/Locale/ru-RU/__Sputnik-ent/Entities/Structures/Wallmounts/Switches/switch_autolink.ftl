@@ -1,19 +1,19 @@
-ent-SignalButtonExt1 = exterior button 1
+ent-SignalButtonExt1 = внешняя кнопка 1
     .desc = { ent-SignalButton.desc }
-    .suffix = Autolink, Ext1
+    .suffix = Автосвязь, Внеш1
 
-ent-SignalButtonExt2 = exterior button 2
+ent-SignalButtonExt2 = внешняя кнопка 2
     .desc = { ent-SignalButton.desc }
-    .suffix = Autolink, Ext2
+    .suffix = Автосвязь, Внеш2
 
-ent-SignalButtonExt3 = exterior button 3
+ent-SignalButtonExt3 = внешняя кнопка 3
     .desc = { ent-SignalButton.desc }
-    .suffix = Autolink, Ext3
+    .suffix = Автосвязь, Внеш3
 
-ent-SignalButtonBridge = bridge windows button
+ent-SignalButtonBridge = кнопка окон мостика
     .desc = { ent-SignalButton.desc }
-    .suffix = Autolink, Bridge
+    .suffix = Автосвязь, Мостик
 
-ent-SignalButtonWindows = exterior windows button
+ent-SignalButtonWindows = кнопка внешних окон
     .desc = { ent-SignalButton.desc }
-    .suffix = Autolink, Windows
+    .suffix = Автосвязь, Окна

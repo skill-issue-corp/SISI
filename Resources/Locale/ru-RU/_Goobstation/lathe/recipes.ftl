@@ -1,11 +1,11 @@
-lathe-recipe-BaseTranslatorImplanter-name = translator implanter
+lathe-recipe-BaseTranslatorImplanter-name = имплантер переводчика
 
-lathe-recipe-BasicGalaticCommonTranslatorImplanter-subname = basic common translator implant
-lathe-recipe-AdvancedGalaticCommonTranslatorImplanter-subname = advanced common translator implant
-lathe-recipe-BubblishTranslatorImplanter-subname = bubblish translator implant
-lathe-recipe-DraconicTranslatorImplanter-subname = draconic translator implant
-lathe-recipe-SolCommonTranslatorImplanter-subname = sol-common translator implant
-lathe-recipe-RootSpeakTranslatorImplanter-subname = root-speak translator implant
-lathe-recipe-MofficTranslatorImplanter-subname = moffic translator implant
-lathe-recipe-NewKinPidginTranslatorImplanter-subname = ka'rakk translator implant
-lathe-recipe-ChevalTranslatorImplanter-subname = cheval translator implant
+lathe-recipe-BasicGalaticCommonTranslatorImplanter-subname = базовый имплант переводчика с галактического общего
+lathe-recipe-AdvancedGalaticCommonTranslatorImplanter-subname = продвинутый имплант переводчика с галактического общего
+lathe-recipe-BubblishTranslatorImplanter-subname = имплант переводчика с уб'мола'р-иена
+lathe-recipe-DraconicTranslatorImplanter-subname = имплант переводчика с имперского дракона
+lathe-recipe-SolCommonTranslatorImplanter-subname = имплант переводчика с землегена
+lathe-recipe-RootSpeakTranslatorImplanter-subname = имплант переводчика с корнеречи
+lathe-recipe-MofficTranslatorImplanter-subname = имплант переводчика с объединённого гудфика
+lathe-recipe-NewKinPidginTranslatorImplanter-subname = имплант переводчика с ка'ракка
+lathe-recipe-ChevalTranslatorImplanter-subname = имплант переводчика с парнокопытного

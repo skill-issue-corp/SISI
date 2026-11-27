@@ -1,21 +1,21 @@
 ent-ScatteringGrenadeBase = { ent-GrenadeBase }
     .desc = { ent-GrenadeBase.desc }
 
-ent-ClusterBang = clusterbang
-    .desc = Can be used only with flashbangs. Explodes several times.
+ent-ClusterBang = кластерная светошумовая граната
+    .desc = Работает только со светошумовыми гранатами. Взрывается несколько раз.
 
-ent-ClusterBangFull = clusterbang
-    .desc = Launches three flashbangs after the timer runs out.
-    .suffix = Full
+ent-ClusterBangFull = кластерная светошумовая граната
+    .desc = По истечении таймера выбрасывает три светошумовые гранаты.
+    .suffix = Полностью заполнено
 
-ent-ClusterGrenade = ClusterGrenade
-    .desc = Why use one grenade when you can use three at once!
+ent-ClusterGrenade = Кластерная граната
+    .desc = Зачем использовать одну гранату, если можно сразу три!
 
-ent-ClusterBananaPeel = cluster banana peel
-    .desc = Splits into 6 explosive banana peels after throwing, guaranteed fun!
+ent-ClusterBananaPeel = кластерная банановая кожура
+    .desc = После броска распадается на 6 взрывоопасных банановых кожурок. Веселье гарантировано!
 
-ent-SlipocalypseClusterSoap = slipocalypse clustersoap
-    .desc = Spreads small pieces of syndicate soap over an area upon landing on the floor.
+ent-SlipocalypseClusterSoap = кластерное мыло «скользкопокалипсис»
+    .desc = При падении на пол разбрасывает вокруг мелкие кусочки синдикатного мыла.
 
-ent-GrenadeFoamDart = foam dart grenade
-    .desc = Releases a bothersome spray of foam darts that cause severe welching.
+ent-GrenadeFoamDart = граната с поролоновыми дротиками
+    .desc = Разбрасывает назойливую россыпь поролоновых дротиков, от которых остаются здоровенные волдыри.

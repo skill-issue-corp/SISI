@@ -1,18 +1,18 @@
-ent-MarkerBeacon = marker beacon
-    .desc = Shines you the way through the darkness. Useful to not get lost on vast landscapes.
-    .suffix = Unanchored
+ent-MarkerBeacon = маркерный маячок
+    .desc = Освещает дорогу во тьме. Помогает не заблудиться на просторах.
+    .suffix = Откреплено
 
 ent-MarkerBeaconActive = { ent-MarkerBeacon }
     .desc = { ent-MarkerBeacon.desc }
-    .suffix = Unanchored, Active
+    .suffix = Не Закреплён, Активен
 
 ent-MarkerBeaconAnchored = { ent-MarkerBeacon }
     .desc = { ent-MarkerBeacon.desc }
-    .suffix = Anchored
+    .suffix = Закреплён
 
 ent-MarkerBeaconActiveAnchored = { ent-MarkerBeaconActive }
     .desc = { ent-MarkerBeaconActive.desc }
-    .suffix = Anchored, Active
+    .suffix = Закреплён, Активен
 
-ent-BoxMarkerBeacons = marker beacon dispenser
-    .desc = Dispenses 30 marker beacons, extremely useful for space and planet exploration.
+ent-BoxMarkerBeacons = раздатчик маркерных маячков
+    .desc = Выдаёт 30 маркерных маячков, незаменимых при исследовании космоса и планет.

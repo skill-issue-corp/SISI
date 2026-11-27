@@ -1,14 +1,14 @@
-ent-HoloparasiteInjector = holoparasite injector
-    .desc = A complex artwork of handheld machinery allowing the user to host a holoparasite guardian.
+ent-HoloparasiteInjector = инъектор голопаразита
+    .desc = Замысловатый шедевр портативного машиностроения, позволяющий стать носителем голопаразита-защитника.
 
-ent-HoloClownInjector = holoclown injector
-    .desc = A complex artwork of handheld machinery allowing the user to host a holoclown guardian.
+ent-HoloClownInjector = инъектор голоклоуна
+    .desc = Замысловатый шедевр портативного машиностроения, позволяющий стать носителем голоклоуна-защитника.
 
-ent-GuardianDeck = guardian deck
-    .desc = A deck of guardian tarot cards, capable of binding a personal guardian to your body.
+ent-GuardianDeck = колода защитника
+    .desc = Колода карт таро, способная привязать к вашему телу личного защитника.
 
-ent-BoxHoloparasite = holoparasite box
-    .desc = A box containing a holoparasite injector.
+ent-BoxHoloparasite = коробка голопаразита
+    .desc = Коробка с инъектором голопаразита.
 
-ent-BoxHoloclown = holoclown box
-    .desc = A box containing a holoclown injector.
+ent-BoxHoloclown = коробка голоклоуна
+    .desc = Коробка с инъектором голоклоуна.

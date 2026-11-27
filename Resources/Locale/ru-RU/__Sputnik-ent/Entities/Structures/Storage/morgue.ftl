@@ -1,5 +1,5 @@
-ent-Morgue = morgue
-    .desc = Used to store bodies until someone fetches them. Includes a high-tech alert system for false-positives!
+ent-Morgue = морг
+    .desc = Хранит тела, пока их кто-нибудь не заберёт. Оснащён высокотехнологичной сигнализацией на случай, если кто-то вдруг окажется жив!
 
-ent-Crematorium = crematorium
-    .desc = A human incinerator. Works well on barbecue nights.
+ent-Crematorium = крематорий
+    .desc = Печь для сжигания людей. Отлично подходит для вечеров барбекю.

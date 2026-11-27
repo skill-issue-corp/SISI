@@ -1,2 +1,2 @@
-ent-SyndicateSpawner = random syndicate item spawner
+ent-SyndicateSpawner = точка спавна случайного предмета синдиката
     .desc = { ent-MarkerBase.desc }

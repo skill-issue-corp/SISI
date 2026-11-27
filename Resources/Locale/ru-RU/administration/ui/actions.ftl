@@ -9,21 +9,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-admin-player-actions-reason = Reason
-admin-player-actions-logs = Player logs
-admin-player-actions-notes = Notes
-admin-player-actions-kick = Kick
-admin-player-actions-ban = Ban
-admin-player-actions-ahelp = AHelp
-admin-player-actions-respawn = Respawn To Lobby
-admin-player-actions-respawn-message = Return the player to the lobby, allowing them to respawn as a new character at will.
-admin-player-actions-spawn = Spawn here
-admin-player-actions-spawn-message = Spawns a new copy of this character and immediately transfers their mind to it.
-admin-player-spawn-failed = Failed to find valid coordinates
-admin-player-actions-player-panel = Open Player Panel
+admin-player-actions-reason = Причина
+admin-player-actions-logs = Журнал игрока
+admin-player-actions-notes = Примечания
+admin-player-actions-kick = Кикнуть
+admin-player-actions-ban = Забанить
+admin-player-actions-ahelp = ahelp
+admin-player-actions-respawn = Возродить Через Лобби
+admin-player-actions-respawn-message = Возвращает игрока в лобби, позволяя ему по желанию возродиться новым персонажем.
+admin-player-actions-spawn = Создать здесь
+admin-player-actions-spawn-message = Создаёт копию этого персонажа и сразу переносит в неё его разум.
+admin-player-spawn-failed = Не удалось найти подходящие координаты
+admin-player-actions-player-panel = Открыть Панель Игрока
 
-admin-player-actions-clone = Clone
-admin-player-actions-clone-message = Spawn a copy of this character, without transferring their mind.
-admin-player-actions-follow = Follow
-admin-player-actions-check-afk = Check AFK
-admin-player-actions-confirm = Are you sure?
+admin-player-actions-clone = Клонировать
+admin-player-actions-clone-message = Создаёт копию этого персонажа без переноса разума.
+admin-player-actions-follow = Следить
+admin-player-actions-check-afk = Проверить АФК
+admin-player-actions-confirm = Вы уверены?

@@ -7,26 +7,26 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-particle-accelerator-control-menu-on-button = On
-particle-accelerator-control-menu-off-button = Off
-particle-accelerator-control-menu-service-manual-reference = Refer to p.132 of service manual
-particle-accelerator-control-menu-device-version-label = Mark 2 Particle Accelerator
-particle-accelerator-control-menu-power-label = [bold]Power:[/bold]
-particle-accelerator-control-menu-strength-label = [bold]Strength:[/bold]
-particle-accelerator-control-menu-alarm-control-1 = [bold][color=red]PARTICLE STRENGTH[/bold][/color]
-particle-accelerator-control-menu-alarm-control-2 = [bold][color=red]LIMITER FAILURE[/bold][/color]
-particle-accelerator-control-menu-scan-parts-button = Scan Parts
-particle-accelerator-control-menu-check-containment-field-warning = Ensure containment field is active before operation
-particle-accelerator-control-menu-status-label = [bold]Status:[/bold]
-particle-accelerator-control-menu-status-unknown = [font="Monospace"][color=red]Unknown[/color][/bold]
-particle-accelerator-control-menu-status-operational = [font="Monospace"][color=green]Operational[/color][/bold]
-particle-accelerator-control-menu-status-incomplete = [font="Monospace"][color=red]Incomplete[/color][/bold]
-particle-accelerator-control-menu-draw = [bold]Draw:[/bold]
+particle-accelerator-control-menu-on-button = Включить
+particle-accelerator-control-menu-off-button = Выключить
+particle-accelerator-control-menu-service-manual-reference = См. стр.132 руководства по обслуживанию
+particle-accelerator-control-menu-device-version-label = Ускоритель Частиц Модели 2
+particle-accelerator-control-menu-power-label = [bold]Питание:[/bold]
+particle-accelerator-control-menu-strength-label = [bold]Мощность:[/bold]
+particle-accelerator-control-menu-alarm-control-1 = [bold][color=red]ИНТЕНСИВНОСТЬ ЧАСТИЦ[/bold][/color]
+particle-accelerator-control-menu-alarm-control-2 = [bold][color=red]ОТКАЗ ОГРАНИЧИТЕЛЯ[/bold][/color]
+particle-accelerator-control-menu-scan-parts-button = Проверить Детали
+particle-accelerator-control-menu-check-containment-field-warning = Перед запуском убедитесь, что поле сдерживания активно
+particle-accelerator-control-menu-status-label = [bold]Состояние:[/bold]
+particle-accelerator-control-menu-status-unknown = [font="Monospace"][color=red]Неизвестно[/color][/bold]
+particle-accelerator-control-menu-status-operational = [font="Monospace"][color=green]Работает[/color][/bold]
+particle-accelerator-control-menu-status-incomplete = [font="Monospace"][color=red]Не собрано[/color][/bold]
+particle-accelerator-control-menu-draw = [bold]Потребление:[/bold]
 particle-accelerator-control-menu-draw-value = [font="Monospace"]{$watts}/{$lastReceive}[/font]
-particle-accelerator-control-menu-draw-not-available = [font="Monospace"][color=gray]N/A[/color][/font]
-particle-accelerator-control-menu-flavor-left = Please keep the clown away from this console!
+particle-accelerator-control-menu-draw-not-available = [font="Monospace"][color=gray]Н/Д[/color][/font]
+particle-accelerator-control-menu-flavor-left = Пожалуйста, не подпускайте клоуна к этой консоли!
 particle-accelerator-control-menu-flavor-right = v 1.6
 
-particle-accelerator-radio-message-on = PA power has been switched on.
-particle-accelerator-radio-message-off = PA power has been switched off.
-particle-accelerator-radio-message-num = PA strength has been set to level {$level}.
+particle-accelerator-radio-message-on = Питание УЧ включено.
+particle-accelerator-radio-message-off = Питание УЧ выключено.
+particle-accelerator-radio-message-num = Мощность УЧ установлена на уровень {$level}.

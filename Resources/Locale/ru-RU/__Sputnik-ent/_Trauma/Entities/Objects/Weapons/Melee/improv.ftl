@@ -1,50 +1,50 @@
-ent-BaseBallBatBarb = barbwire baseball bat
-    .desc = A robust baseball bat with barbed wire.
+ent-BaseBallBatBarb = бейсбольная бита с колючей проволокой
+    .desc = Робастная бейсбольная бита с колючей проволокой.
 
-ent-BaseBallBatNail = nailed baseball bat
-    .desc = A robust baseball bat with nails.
+ent-BaseBallBatNail = бейсбольная бита с гвоздями
+    .desc = Робастная бейсбольная бита с гвоздями.
 
-ent-NailBoardUnfinished = unfinished nail board
-    .desc = Needs some nails.
+ent-NailBoardUnfinished = незаконченная доска с гвоздями
+    .desc = Не хватает гвоздей.
 
-ent-NailBoardWeapon = nail board
-    .desc = A nasty weapon that also works as a trap.
+ent-NailBoardWeapon = доска с гвоздями
+    .desc = Гадкое оружие, которое заодно служит ловушкой.
 
-ent-NailBoardTrap = nail board
-    .desc = A nasty trap, probably gonna give your foot an infection.
+ent-NailBoardTrap = доска с гвоздями
+    .desc = Гадкая ловушка. Скорее всего, занесёт вам инфекцию в стопу.
 
-ent-SpearPipebomb = pipe bomb spear
-    .desc = Risky, but deadly.
+ent-SpearPipebomb = копьё с трубной бомбой
+    .desc = Рискованно, зато смертоносно.
 
-ent-SpearIED = fire bomb spear
-    .desc = Risky, but deadly.
+ent-SpearIED = копьё с зажигательной бомбой
+    .desc = Рискованно, зато смертоносно.
 
-ent-PipeSpear = pipe shank
-    .desc = A pipe sharpened to a nasty point, could be a great throwing weapon.
+ent-PipeSpear = заточка из трубы
+    .desc = Труба с жутко острым концом. Из неё может выйти отличное метательное оружие.
 
-ent-PipeSpearUnfinished = unfinished pipe shank
-    .desc = Needs to be sharpened.
+ent-PipeSpearUnfinished = незаконченная заточка из трубы
+    .desc = Её ещё нужно заострить.
 
-ent-IncompleteWoodenSword = incomplete wooden sword
-    .desc = An uncarved wooden sword.
+ent-IncompleteWoodenSword = незаконченный деревянный меч
+    .desc = Деревянная заготовка под меч.
 
-ent-SwordWood = wooden sword
-    .desc = A wooden sword.
+ent-SwordWood = деревянный меч
+    .desc = Деревянный меч.
 
-ent-SwordNailUnfinished = unfinished nail sword
-    .desc = Still needs some nails.
+ent-SwordNailUnfinished = незаконченный меч с гвоздями
+    .desc = Ещё не хватает гвоздей.
 
-ent-SwordScrapUnfinished = unfinished scrap sword
-    .desc = Still needs some blades.
+ent-SwordScrapUnfinished = незаконченный меч из лома
+    .desc = Ещё не хватает лезвий.
 
-ent-SwordNail = nail sword
-    .desc = A wooden sword with nails sticking out of it.
+ent-SwordNail = меч с гвоздями
+    .desc = Деревянный меч, из которого торчат гвозди.
 
-ent-SwordScrap = scrap sword
-    .desc = A wooden sword with jagged metal sticking out of it.
+ent-SwordScrap = меч из лома
+    .desc = Деревянный меч, из которого торчат зазубренные куски металла.
 
-ent-SwordWeldedUnfinished = unfinished welded sword
-    .desc = An unfinished welded sword.
+ent-SwordWeldedUnfinished = незаконченный сварной меч
+    .desc = Незаконченный сварной меч.
 
-ent-SwordWelded = welded sword
-    .desc = A sword made by welding two pieces of metal to a tang, a bit unwieldy.
+ent-SwordWelded = сварной меч
+    .desc = Меч из двух кусков металла, приваренных к хвостовику. Немного неудобный.

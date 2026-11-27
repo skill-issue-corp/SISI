@@ -3,100 +3,100 @@ ent-ClothingHeadHeadHatBaseFlippable = { ent-ClothingHeadBaseButcherable }
 
 ent-ClothingHeadHeadHatBaseFlipped = { ent-ClothingHeadHeadHatBaseFlippable }
     .desc = { ent-ClothingHeadHeadHatBaseFlippable.desc }
-    .suffix = flipped
+    .suffix = перевёрнуто
 
-ent-ClothingHeadHatBluesoft = blue cap
-    .desc = A blue baseball cap.
+ent-ClothingHeadHatBluesoft = синяя кепка
+    .desc = Синяя бейсболка.
 
-ent-ClothingHeadHatBluesoftFlipped = blue cap
+ent-ClothingHeadHatBluesoftFlipped = синяя кепка
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatCargosoft = cargo cap
-    .desc = A baseball cap colored to match cargo's uniforms.
+ent-ClothingHeadHatCargosoft = кепка карго
+    .desc = Бейсболка в цветах униформы карго.
 
-ent-ClothingHeadHatCargosoftFlipped = cargo cap
+ent-ClothingHeadHatCargosoftFlipped = кепка карго
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatQMsoft = quartermaster's cap
-    .desc = A baseball cap colored to match the Quartermaster's uniform.
+ent-ClothingHeadHatQMsoft = кепка квартирмейстера
+    .desc = Бейсболка в цветах униформы Квартирмейстера.
 
-ent-ClothingHeadHatQMsoftFlipped = quartermaster's cap
+ent-ClothingHeadHatQMsoftFlipped = кепка квартирмейстера
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatCommandSoft = command cap
-    .desc = A baseball cap in command's distinctive shade of blue.
+ent-ClothingHeadHatCommandSoft = кепка командования
+    .desc = Бейсболка характерного для командования оттенка синего.
 
-ent-ClothingHeadHatCommandSoftFlipped = command cap
+ent-ClothingHeadHatCommandSoftFlipped = кепка командования
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatCorpsoft = corporate cap
-    .desc = A baseball cap in corporation colors.
+ent-ClothingHeadHatCorpsoft = корпоративная кепка
+    .desc = Бейсболка в цветах корпорации.
 
-ent-ClothingHeadHatCorpsoftFlipped = corporate cap
+ent-ClothingHeadHatCorpsoftFlipped = корпоративная кепка
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatGreensoft = green cap
-    .desc = A green baseball cap.
+ent-ClothingHeadHatGreensoft = зелёная кепка
+    .desc = Зелёная бейсболка.
 
-ent-ClothingHeadHatGreensoftFlipped = green cap
+ent-ClothingHeadHatGreensoftFlipped = зелёная кепка
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatBlacksoft = black cap
-    .desc = A black baseball cap.
+ent-ClothingHeadHatBlacksoft = чёрная кепка
+    .desc = Чёрная бейсболка.
 
-ent-ClothingHeadHatBlacksoftFlipped = black cap
+ent-ClothingHeadHatBlacksoftFlipped = чёрная кепка
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatGreysoft = grey cap
-    .desc = A grey baseball cap.
+ent-ClothingHeadHatGreysoft = серая кепка
+    .desc = Серая бейсболка.
 
-ent-ClothingHeadHatGreysoftFlipped = grey cap
+ent-ClothingHeadHatGreysoftFlipped = серая кепка
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatMimesoft = white cap
-    .desc = A white baseball cap.
+ent-ClothingHeadHatMimesoft = белая кепка
+    .desc = Белая бейсболка.
 
-ent-ClothingHeadHatMimesoftFlipped = white cap
+ent-ClothingHeadHatMimesoftFlipped = белая кепка
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatOrangesoft = orange cap
-    .desc = An orange baseball cap.
+ent-ClothingHeadHatOrangesoft = оранжевая кепка
+    .desc = Оранжевая бейсболка.
 
-ent-ClothingHeadHatOrangesoftFlipped = orange cap
+ent-ClothingHeadHatOrangesoftFlipped = оранжевая кепка
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatPurplesoft = purple cap
-    .desc = A purple baseball cap.
+ent-ClothingHeadHatPurplesoft = фиолетовая кепка
+    .desc = Фиолетовая бейсболка.
 
-ent-ClothingHeadHatPurplesoftFlipped = purple cap
+ent-ClothingHeadHatPurplesoftFlipped = фиолетовая кепка
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatRedsoft = red cap
-    .desc = A red baseball cap.
+ent-ClothingHeadHatRedsoft = красная кепка
+    .desc = Красная бейсболка.
 
-ent-ClothingHeadHatRedsoftFlipped = red cap
+ent-ClothingHeadHatRedsoftFlipped = красная кепка
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatSecsoft = security cap
-    .desc = A baseball cap colored to match security's uniforms.
+ent-ClothingHeadHatSecsoft = кепка службы безопасности
+    .desc = Бейсболка в цветах униформы службы безопасности.
 
-ent-ClothingHeadHatSecsoftFlipped = security cap
+ent-ClothingHeadHatSecsoftFlipped = кепка службы безопасности
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatYellowsoft = yellow cap
-    .desc = A yellow baseball cap.
+ent-ClothingHeadHatYellowsoft = жёлтая кепка
+    .desc = Жёлтая бейсболка.
 
-ent-ClothingHeadHatYellowsoftFlipped = yellow cap
+ent-ClothingHeadHatYellowsoftFlipped = жёлтая кепка
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatBizarreSoft = troublemaker's cap
-    .desc = A truly.. bizarre accessory.
+ent-ClothingHeadHatBizarreSoft = кепка хулигана
+    .desc = Поистине.. причудливый аксессуар.
 
-ent-ClothingHeadHatBizarreSoftFlipped = troublemaker's cap
+ent-ClothingHeadHatBizarreSoftFlipped = кепка хулигана
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
 
-ent-ClothingHeadHatParamedicsoft = paramedic cap
-    .desc = A blue baseball cap with a cross on the front.
+ent-ClothingHeadHatParamedicsoft = кепка парамедика
+    .desc = Синяя бейсболка с крестом спереди.
 
-ent-ClothingHeadHatParamedicsoftFlipped = paramedic cap
+ent-ClothingHeadHatParamedicsoftFlipped = кепка парамедика
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }

@@ -1,4 +1,4 @@
-gas-miasma = Miasma
+gas-miasma = Миазма
 
 # SIS-Empty_Entity_File Start
 # ent-AmmoniaCanister = miasma canister

@@ -5,22 +5,22 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # UI
-ban-list-bans = Bans
-ban-list-role-bans = Role Bans
+ban-list-bans = Баны
+ban-list-role-bans = Баны на Роли
 
-ban-list-header-ids = Ids
-ban-list-header-reason = Reason
-ban-list-header-role = Role
-ban-list-header-time = Ban time
-ban-list-header-expires = Expires
-ban-list-header-banning-admin = Banning admin
+ban-list-header-ids = ID
+ban-list-header-reason = Причина
+ban-list-header-role = Роль
+ban-list-header-time = Время бана
+ban-list-header-expires = Истекает
+ban-list-header-banning-admin = Кто забанил
 
-ban-list-title = Bans for {$player}
-ban-list-view = View
+ban-list-title = Баны игрока {$player}
+ban-list-view = Просмотр
 ban-list-id = ID: {$id}
 ban-list-ip = IP: {$ip}
 ban-list-hwid = HWID: {$hwid}
 ban-list-guid = GUID: {$guid}
-ban-list-permanent = PERMANENT
-ban-list-unbanned = Unbanned: {$date}
-ban-list-unbanned-by = By {$unbanner}
+ban-list-permanent = БЕССРОЧНО
+ban-list-unbanned = Бан снят: {$date}
+ban-list-unbanned-by = Кем: {$unbanner}

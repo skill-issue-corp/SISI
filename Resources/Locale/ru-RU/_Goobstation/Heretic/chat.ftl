@@ -1,89 +1,89 @@
-blade-arena-crit-message = The mansus is pleased with your performance, you may leave now.
-blade-arena-crit-message-heretic = You have done well, you may leave now.
+blade-arena-crit-message = Мансус доволен тем, как вы выступили. Теперь вы можете уйти.
+blade-arena-crit-message-heretic = Вы отлично справились. Теперь вы можете уйти.
 
 # influence gain and fracture examine messages must have newlines because otherwise they wouldn't fit in chat window
 
 influence-base-message = [textshader="{$text}" font="DefaultBold" size={$size} shader="Eldritch"]
 
 influence-gain-message-1 =
-    A SHIMMER...
-    POTENTIAL...
-    POWER.
+    МЕРЦАНИЕ...
+    ПОТЕНЦИАЛ...
+    СИЛА.
 influence-gain-message-2 =
-    A WHISPER.
+    ШЁПОТ.
 influence-gain-message-3 =
-    COVERED AND FORGOTTEN.
+    СКРЫТО И ЗАБЫТО.
 influence-gain-message-4 =
-    CURSED LAND,
-    CURSED MAN,
-    CURSED MIND.
+    ПРОКЛЯТАЯ ЗЕМЛЯ,
+    ПРОКЛЯТЫЙ ЧЕЛОВЕК,
+    ПРОКЛЯТЫЙ РАЗУМ.
 influence-gain-message-5 =
-    GREATER HEIGHTS.
+    К НОВЫМ ВЫСОТАМ.
 influence-gain-message-6 =
-    I AM BEING WATCHED...
-    FROM WHERE? FROM WHAT?
+    ЗА МНОЙ НАБЛЮДАЮТ...
+    ОТКУДА? И КТО?
 influence-gain-message-7 =
-    I AM LATE FOR MY DESTINY.
+    Я ОПАЗДЫВАЮ НА ВСТРЕЧУ С СУДЬБОЙ.
 influence-gain-message-8 =
-    LIFE IS FLEETING,
-    BUT WHAT YET STAYS?
+    ЖИЗНЬ МИМОЛЁТНА,
+    НО ЧТО ЖЕ ОСТАЁТСЯ?
 influence-gain-message-9 =
-    RAIN OF BLOOD.
-    REIGN OF BLOOD.
+    КРОВАВЫЙ ЛИВЕНЬ.
+    КРОВАВОЕ ЦАРСТВО.
 influence-gain-message-10 =
-    STRENGTH...
-    UNPARALLELED. UNNATURAL.
+    МОЩЬ...
+    НЕСРАВНЕННАЯ. ПРОТИВОЕСТЕСТВЕННАЯ.
 influence-gain-message-11 =
-    THE GATES OF THE MANSUS
-    IS HERE, IS OPEN.
+    ВРАТА МАНСУСА
+    ЗДЕСЬ. ОНИ ОТКРЫТЫ.
 influence-gain-message-12 =
-    THE HIGHER I RISE,
-    THE MORE I SEE.
+    ЧЕМ ВЫШЕ Я ПОДНИМАЮСЬ,
+    ТЕМ БОЛЬШЕ ВИЖУ.
 influence-gain-message-13 =
-    THE VEIL IS SHATTERED.
+    ЗАВЕСА РАЗБИТА.
 influence-gain-message-14 =
-    THEIR HAND IS AT MY SIDE.
+    ИХ РУКА РЯДОМ СО МНОЙ.
 influence-gain-message-15 =
-    THEY WALK THE WORLD.
-    UNNOTICED.
+    ОНИ ХОДЯТ ПО МИРУ.
+    НЕЗАМЕЧЕННЫЕ.
 influence-gain-message-16 =
-    TO WALK BETWEEN PLANES
+    ХОДИТЬ МЕЖДУ ИЗМЕРЕНИЯМИ
 
 fracture-examine-message-1 =
-    Is our reality so fragile?
+    Неужели наша реальность так хрупка?
 fracture-examine-message-2 =
-    What did I see
-    on the other side?
+    Что я увидел
+    на другой стороне?
 fracture-examine-message-3 =
-    Is this right?
+    Так и должно быть?
 fracture-examine-message-4 =
-    This is wrong.
+    Так быть не должно.
 fracture-examine-message-5 =
-    I feel a hand at my throat.
+    Я чувствую чью-то руку на горле.
 fracture-examine-message-6 =
-    I weep, yet no tears fall.
+    Я плачу, но слёзы не текут.
 fracture-examine-message-7 =
-    We are not alone.
+    Мы не одни.
 fracture-examine-message-8 =
-    Am I alone?
+    Я один?
 fracture-examine-message-9 =
-    Is this the end?
-    Or the beginning?
+    Это конец?
+    Или начало?
 fracture-examine-message-10 =
-    What's out there?
-    What's through there?
+    Что там?
+    Что по ту сторону?
 fracture-examine-message-11 =
-    What power is this?
+    Что это за сила?
 fracture-examine-message-12 =
-    Is this what we are?
-    Is this what we can be?
+    Вот кто мы?
+    Вот кем мы можем стать?
 fracture-examine-message-13 =
-    Is this what we wanted?
+    Этого ли мы хотели?
 fracture-examine-message-14 =
-    We don't deserve this...
-    do we?
+    Мы этого не заслужили...
+    или всё-таки заслужили?
 fracture-examine-message-15 =
-    Are we prepared for this?
+    Мы к этому готовы?
 fracture-examine-message-16 =
-    We thought we were predators,
-    but we are prey
+    Мы думали, что мы хищники,
+    но мы добыча

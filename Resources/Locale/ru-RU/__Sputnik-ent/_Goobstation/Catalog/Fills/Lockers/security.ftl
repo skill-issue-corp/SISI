@@ -1,6 +1,6 @@
-ent-GunSafeLauncherNonLethal = riot launcher safe
+ent-GunSafeLauncherNonLethal = сейф с гранатомётами для разгона беспорядков
     .desc = { ent-GunSafeBaseSecure.desc }
 
 ent-LockerDetectiveFilledHardsuit = { ent-LockerDetective }
     .desc = { ent-LockerDetective.desc }
-    .suffix = Filled, Hardsuit
+    .suffix = Заполнено, Скафандр

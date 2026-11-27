@@ -1,29 +1,29 @@
-marking-UndershirtDefault-undershirt = Undershirt
-marking-UndershirtDefault = Undershirt (Default)
+marking-UndershirtDefault-undershirt = Нательная Рубашка
+marking-UndershirtDefault = Нательная Рубашка (Стандартная)
 
-marking-UndershirtRolled-rolled_undershirt = Undershirt
-marking-UndershirtRolled = Undershirt (Rolled)
+marking-UndershirtRolled-rolled_undershirt = Нательная Рубашка
+marking-UndershirtRolled = Нательная Рубашка (Подвёрнутая)
 
-marking-UndershirtSleeveless-sleeveless = Tanktop
-marking-UndershirtSleeveless = Tanktop
+marking-UndershirtSleeveless-sleeveless = Майка
+marking-UndershirtSleeveless = Майка
 
-marking-UndershirtGrossSleeveless-gross_sleeveless = Tanktop
-marking-UndershirtGrossSleeveless = Tanktop (Gross)
+marking-UndershirtGrossSleeveless-gross_sleeveless = Майка
+marking-UndershirtGrossSleeveless = Майка (Грязная)
 
-marking-UndershirtRolledSleeveless-rolled_undershirt_sleeveless = Tanktop
-marking-UndershirtRolledSleeveless = Tanktop (Rolled)
+marking-UndershirtRolledSleeveless-rolled_undershirt_sleeveless = Майка
+marking-UndershirtRolledSleeveless = Майка (Подвёрнутая)
 
-marking-UndershirtNanotrasen-nanotrasen = Undershirt
-marking-UndershirtNanotrasen = Undershirt (Nanotrasen)
+marking-UndershirtNanotrasen-nanotrasen = Нательная Рубашка
+marking-UndershirtNanotrasen = Нательная Рубашка (NanoTrasen)
 
-marking-UndershirtBinder-binder = Binder
-marking-UndershirtBinder = Binder
+marking-UndershirtBinder-binder = Утягивающий Топ
+marking-UndershirtBinder = Утягивающий Топ
 
-marking-UndershirtBraClassic-classic = Bra
-marking-UndershirtBraClassic = Bra (Classic)
+marking-UndershirtBraClassic-classic = Бюстгальтер
+marking-UndershirtBraClassic = Бюстгальтер (Классический)
 
-marking-UndershirtBraSports-sports = Bra
-marking-UndershirtBraSports = Bra (Sports)
+marking-UndershirtBraSports-sports = Бюстгальтер
+marking-UndershirtBraSports = Бюстгальтер (Спортивный)
 
-marking-UndershirtBraStrapless-strapless = Bra
-marking-UndershirtBraStrapless = Bra (Strapless)
+marking-UndershirtBraStrapless-strapless = Бюстгальтер
+marking-UndershirtBraStrapless = Бюстгальтер (Без Бретелей)

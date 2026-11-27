@@ -1,2 +1,2 @@
-uplink-undetermined-bundle-name = Undetermined Bundle Crate
-uplink-undetermined-bundle-desc = This crate comes with three random bundles and allows to choose one of them. Guaranteed to include Syndicate encryption key.
+uplink-undetermined-bundle-name = Ящик со Случайным Комплектом
+uplink-undetermined-bundle-desc = Ящик предлагает три случайных комплекта на выбор. Ключ шифрования Синдиката гарантирован.

@@ -1,14 +1,14 @@
-ent-APCElectronics = APC electronics
-    .desc = Circuit used in APC construction.
+ent-APCElectronics = электроника ЛКП
+    .desc = Плата для сборки ЛКП.
 
-ent-WallmountSubstationElectronics = wallmount substation electronics
-    .desc = Circuit used to construct a wallmount substation.
+ent-WallmountSubstationElectronics = электроника настенной подстанции
+    .desc = Плата для сборки настенной подстанции.
 
-ent-WallmountGeneratorElectronics = wallmount generator electronics
-    .desc = Circuit used to construct a wallmount generator.
+ent-WallmountGeneratorElectronics = электроника настенного генератора
+    .desc = Плата для сборки настенного генератора.
 
-ent-WallmountGeneratorAPUElectronics = wallmount APU electronics
-    .desc = Circuit used to construct a wallmount APU.
+ent-WallmountGeneratorAPUElectronics = электроника настенной ВСУ
+    .desc = Плата для сборки настенной ВСУ.
 
-ent-SolarTrackerElectronics = solar tracker electronics
-    .desc = Advanced circuit board used to track the nearest star.
+ent-SolarTrackerElectronics = электроника солнечного трекера
+    .desc = Продвинутая печатная плата для отслеживания ближайшей звезды.

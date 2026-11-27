@@ -1,26 +1,26 @@
 ent-SpawnPointGhostDerelictCyborgSyndicate = { ent-BaseAntagSpawner }
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostTunnelClown = tunnel clown antag spawn
+ent-SpawnPointGhostTunnelClown = точка спавна антага тех-клоуна
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostSingulothKnight = Singuloth Knights antag spawn
+ent-SpawnPointGhostSingulothKnight = точка спавна антагов Рыцарей Сингулота
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostDarkLord = Dark Lord antag spawn
+ent-SpawnPointGhostDarkLord = точка спавна антага Тёмного Лорда
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostMimeAssassin = mime assassin antag spawn
+ent-SpawnPointGhostMimeAssassin = точка спавна антага ассамима
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostChosenOne = Chosen One spawn
+ent-SpawnPointGhostChosenOne = точка спавна Избранного
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostDarkPriest = Dark Priest Spawner
+ent-SpawnPointGhostDarkPriest = Точка Спавна Тёмного Жреца
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-SpawnPointGhostVoxRaider = Vox Raider Spawner
+ent-SpawnPointGhostVoxRaider = Точка Спавна Вокса-Налётчика
     .desc = { ent-BaseAntagSpawner.desc }
 
-ent-MaintsSpawnMarker = Maints Spawn Marker
+ent-MaintsSpawnMarker = Маркер Точки Спавна в Техах
     .desc = { ent-MarkerBase.desc }

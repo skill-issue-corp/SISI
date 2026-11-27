@@ -1,11 +1,11 @@
-ent-MechanicalPinchesAbductor = high-tech retractor
-    .desc = A highly advanced retractor, it also seems to work like a hemostat.
+ent-MechanicalPinchesAbductor = высокотехнологичный ретрактор
+    .desc = Продвинутый ретрактор. Похоже, он также работает как кровоостанавливающий зажим.
 
-ent-SearingToolAbductor = high-tech searing tool
-    .desc = A highly advanced cautery with an energy tip, it seems to also work as as stitches.
+ent-SearingToolAbductor = высокотехнологичный каутер
+    .desc = Продвинутый каутер с энергетическим наконечником. Похоже, он также накладывает швы.
 
-ent-EnergyScalpelAbductor = high-tech energy scalpel
-    .desc = A scalpel which uses an energy blade, it seems to also work as a saw and a drill.
+ent-EnergyScalpelAbductor = высокотехнологичный энергетический скальпель
+    .desc = Скальпель с энергетическим лезвием. Похоже, он также работает как пила и дрель.
 
-ent-BoneManipulatorAbductor = high-tech bone manipulator
-    .desc = A highly advanced tool, capable of mending bones.
+ent-BoneManipulatorAbductor = высокотехнологичный костный манипулятор
+    .desc = Продвинутый инструмент, способный сращивать кости.

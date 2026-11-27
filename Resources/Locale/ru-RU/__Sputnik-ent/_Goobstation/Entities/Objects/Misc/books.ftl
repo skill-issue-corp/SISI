@@ -1,12 +1,12 @@
-ent-GuidebookCodexUmbra = Codex Umbra
-    .desc = An old book tightly wound in dark leather. It details various contracts and their effects.
-    .suffix = guidebook
+ent-GuidebookCodexUmbra = Кодекс Умбра
+    .desc = Старая книга, плотно обтянутая тёмной кожей. В ней описаны различные контракты и их последствия.
+    .suffix = справочник
 
-ent-AdvMimeryVol1 = Guide to Advanced Mimery Vol 1
-    .desc = The pages don't make any sound when turned.
+ent-AdvMimeryVol1 = Пособие по Продвинутой Пантомиме, Том 1
+    .desc = Страницы при перелистывании не издают ни звука.
 
-ent-AdvMimeryVol2 = Guide to Advanced Mimery Vol 2
-    .desc = There aren't any words written...
+ent-AdvMimeryVol2 = Пособие по Продвинутой Пантомиме, Том 2
+    .desc = Там не написано ни слова...
 
-ent-BoxAdvMimery = Guide to Advanced Mimery series box
+ent-BoxAdvMimery = коробка серии «Пособие по Продвинутой Пантомиме»
     .desc = { ent-BaseSyndicateContraband.desc }

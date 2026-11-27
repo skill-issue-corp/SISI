@@ -1,5 +1,5 @@
-ent-CosmicPolymorphEnt = Unknown
-    .desc = Trapped in a lapse between here and there.
+ent-CosmicPolymorphEnt = Неизвестно
+    .desc = Застрял в разломе между здесь и там.
 
 ent-CosmicPolymorphEntHuman = { ent-CosmicPolymorphEnt }
     .desc = { ent-CosmicPolymorphEnt.desc }

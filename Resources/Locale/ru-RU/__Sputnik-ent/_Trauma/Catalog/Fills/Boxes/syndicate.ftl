@@ -1,10 +1,10 @@
-ent-ObservationKitSyndie = observation kit
+ent-ObservationKitSyndie = набор для наблюдения
     .desc = { ent-BoxCardboard.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-BombCollarKit = bomb collar kit
+ent-BombCollarKit = комплект ошейника-бомбы
     .desc = { ent-BoxCardboard.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-BoxGrenadeViscerators = viscerator delivery grenade box
-    .desc = A box containing unique grenades that deploys a swarm of viscerators upon activation, which will chase down and shred any non-operatives in the area.
+ent-BoxGrenadeViscerators = коробка гранат с потрошителями
+    .desc = Коробка особых гранат, при активации выпускающих рой потрошителей. Они преследуют и кромсают всех, кто не является оперативником.

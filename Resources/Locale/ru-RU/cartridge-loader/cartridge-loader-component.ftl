@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-cartridge-bound-user-interface-install-button = Install
-cartridge-bound-user-interface-uninstall-button = Remove
+cartridge-bound-user-interface-install-button = Установить
+cartridge-bound-user-interface-uninstall-button = Удалить

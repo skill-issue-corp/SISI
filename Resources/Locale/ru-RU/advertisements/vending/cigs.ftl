@@ -6,18 +6,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-cigs-1 = Space cigs taste good like a cigarette should.
-advertisement-cigs-2 = I'd rather toolbox than switch.
-advertisement-cigs-3 = Smoke!
-advertisement-cigs-4 = Don't believe the reports - smoke today!
-advertisement-cigs-5 = Probably not bad for you!
-advertisement-cigs-6 = Don't believe the scientists!
-advertisement-cigs-7 = It's good for you!
-advertisement-cigs-8 = Don't quit, buy more!
-advertisement-cigs-9 = Nicotine heaven.
-advertisement-cigs-10 = Best cigarettes since 2150.
-advertisement-cigs-11 = Award-winning cigs.
-advertisement-cigs-12 = Here to take an edge off work!
-thankyou-cigs-1 = You've got 'em, now smoke 'em!
-thankyou-cigs-2 = You probably won't regret it!
-thankyou-cigs-3 = You'll become an addict in no time!
+advertisement-cigs-1 = Космические сиги на вкус как настоящие сигареты.
+advertisement-cigs-2 = Лучше получить ящиком, чем сменить марку.
+advertisement-cigs-3 = Курите!
+advertisement-cigs-4 = Не верьте отчётам - закурите уже сегодня!
+advertisement-cigs-5 = Возможно, не вредно для вас!
+advertisement-cigs-6 = Не верьте учёным!
+advertisement-cigs-7 = Это вам на пользу!
+advertisement-cigs-8 = Не бросайте, купите ещё!
+advertisement-cigs-9 = Никотиновый рай.
+advertisement-cigs-10 = Лучшие сигареты с 2150 года.
+advertisement-cigs-11 = Сиги, отмеченные наградами.
+advertisement-cigs-12 = Снимают рабочий стресс!
+thankyou-cigs-1 = Купили? Теперь курите!
+thankyou-cigs-2 = Наверное, не пожалеете!
+thankyou-cigs-3 = Подсядете в два счёта!

@@ -1,29 +1,29 @@
-ent-BaseClothingModsuitHelmet = base modsuit helmet
+ent-BaseClothingModsuitHelmet = базовый шлем модсьюта
     .desc = { ent-BaseItem.desc }
 
-ent-BaseClothingModsuitHelmetHideIdentity = base modsuit helmet
+ent-BaseClothingModsuitHelmetHideIdentity = базовый шлем модсьюта
     .desc = { ent-BaseClothingModsuitHelmet.desc }
 
-ent-ClothingModsuitHelmetStandard = standard modsuit helmet
-    .desc = A special modular suit spaceproof helmet designed for compact folding inside modular suit control.
+ent-ClothingModsuitHelmetStandard = шлем стандартного модсьюта
+    .desc = Особый герметичный шлем модульного костюма. Компактно складывается в блок управления.
 
-ent-ClothingModsuitHelmetSecurity = soldat modsuit helmet
-    .desc = A robust brain bucket for holding your brain in place just enough for it to be salvageable.
+ent-ClothingModsuitHelmetSecurity = шлем модсьюта «солдат»
+    .desc = Робастная кастрюля для мозгов, чтобы от них хоть что-то осталось.
 
-ent-ClothingModsuitHelmetHeadOfSecurity = bulwark modsuit helmet
-    .desc = Put on the HEAD of security.. How do you see out of this thing?
+ent-ClothingModsuitHelmetHeadOfSecurity = шлем модсьюта «бастион»
+    .desc = На ГЛАВУ службы безопасности.. Как в этой штуке хоть что-то разглядеть?
 
-ent-ClothingModsuitHelmetParamedic = sanitater modsuit helmet
-    .desc = A robust brain bucket for working on barely salvageable brains.
+ent-ClothingModsuitHelmetParamedic = шлем модсьюта «санитар»
+    .desc = Робастная кастрюля для работы с мозгами, которые уже почти не спасти.
 
-ent-ClothingModsuitHelmetEngineer = sapper modsuit helmet
-    .desc = A flat plate with cameras allowing your vision. turns you into an aero-cuck, but not like that matters in space.
+ent-ClothingModsuitHelmetEngineer = шлем модсьюта «сапёр»
+    .desc = Плоская пластина с камерами, через которые вы видите. делает вас аэро-куколдом, хотя в космосе всем плевать.
 
-ent-ClothingModsuitHelmetAtmostech = aeolus modsuit helmet
-    .desc = A specialised gas helmet to provide oxygen more efficiently.
+ent-ClothingModsuitHelmetAtmostech = шлем модсьюта «эол»
+    .desc = Особый дыхательный шлем, который эффективнее подаёт кислород.
 
-ent-ClothingModsuitHelmetResearchDirector = minerva modsuit helmet
-    .desc = A dark dark dark visor protecting your precious face from blasts of shrapnel.
+ent-ClothingModsuitHelmetResearchDirector = шлем модсьюта «минерва»
+    .desc = Тёмный-тёмный-тёмный визор, защищающий ваше драгоценное лицо от шквала осколков.
 
-ent-ClothingModsuitHelmetCaptain = magnate modsuit helmet
-    .desc = The visor is made from 10,000 year old amethyst.
+ent-ClothingModsuitHelmetCaptain = шлем модсьюта «магнат»
+    .desc = Визор сделан из аметиста возрастом 10,000 лет.

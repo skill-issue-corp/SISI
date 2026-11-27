@@ -1,1 +1,1 @@
-condemned-start = The ground splinters and cracks around {$target} as an unholy force approaches!
+condemned-start = Земля вокруг {$target} трескается и крошится при приближении нечистой силы!

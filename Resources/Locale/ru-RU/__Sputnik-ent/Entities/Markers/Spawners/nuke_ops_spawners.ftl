@@ -1,17 +1,17 @@
-ent-NukeOpsLootSpawner = nuke ops loot spawner
+ent-NukeOpsLootSpawner = спавнер припасов ядерных оперативников
     .desc = { ent-MarkerBase.desc }
 
-ent-NukeOpsWeaponSpawner = nuke ops weapon spawner
+ent-NukeOpsWeaponSpawner = спавнер оружия ядерных оперативников
     .desc = { ent-MarkerBase.desc }
 
-ent-NukeOpsMedkitBruteSpawner = nuke ops brute medkit spawner
+ent-NukeOpsMedkitBruteSpawner = спавнер аптечки от травм ядерных оперативников
     .desc = { ent-MarkerBase.desc }
 
-ent-NukeOpsMedkitSpawner = nuke ops general medkit spawner
+ent-NukeOpsMedkitSpawner = спавнер обычной аптечки ядерных оперативников
     .desc = { ent-MarkerBase.desc }
 
-ent-NukeOpsGrenadeSpawner = nuke ops grenade spawner
+ent-NukeOpsGrenadeSpawner = спавнер гранат ядерных оперативников
     .desc = { ent-MarkerBase.desc }
 
-ent-NukeOpsAmmoSpawner = nuke ops ammo spawner
+ent-NukeOpsAmmoSpawner = спавнер боеприпасов ядерных оперативников
     .desc = { ent-MarkerBase.desc }

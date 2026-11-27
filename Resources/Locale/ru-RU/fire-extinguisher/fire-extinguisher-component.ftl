@@ -9,7 +9,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-fire-extinguisher-component-after-interact-refilled-message = {$owner} is now refilled
-fire-extinguisher-component-safety-on-message = Its safety is on!
-fire-extinguisher-component-verb-remove = Remove safety
-fire-extinguisher-component-verb-engage = Engage safety
+fire-extinguisher-component-after-interact-refilled-message = {$owner} снова заправлен
+fire-extinguisher-component-safety-on-message = Предохранитель включён!
+fire-extinguisher-component-verb-remove = Снять с предохранителя
+fire-extinguisher-component-verb-engage = Поставить на предохранитель

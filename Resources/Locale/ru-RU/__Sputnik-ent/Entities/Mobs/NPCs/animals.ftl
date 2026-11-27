@@ -1,15 +1,15 @@
-ent-MobBat = bat
-    .desc = Some cultures find them terrifying, others crunchy on the teeth.
+ent-MobBat = летучая мышь
+    .desc = В одних культурах их считают жуткими, в других - хрустящими на зубах.
 
-ent-MobBee = bee
-    .desc = Nice to have, but you can't build a civilization on a foundation of honey alone.
+ent-MobBee = пчела
+    .desc = Полезно иметь под рукой, но цивилизацию на одном мёде не построишь.
 
-ent-MobAngryBee = bee
-    .desc = How nice a bee. Oh no, it looks angry and wants my pizza.
-    .suffix = Angry
+ent-MobAngryBee = пчела
+    .desc = Какая славная пчёлка. О нет, она злится и хочет мою пиццу.
+    .suffix = Злой
 
-ent-MobChicken = chicken
-    .desc = Comes before an egg, and IS a dinosaur!
+ent-MobChicken = курица
+    .desc = Появилась раньше яйца и ЯВЛЯЕТСЯ динозавром!
 
 ent-MobChicken1 = { ent-MobChicken }
     .desc = { ent-MobChicken.desc }
@@ -19,48 +19,48 @@ ent-MobChicken2 = { ent-MobChicken }
 
 ent-FoodEggChickenFertilized = { ent-FoodEgg }
     .desc = { ent-FoodEgg.desc }
-    .suffix = Fertilized, Chicken
+    .suffix = Оплодотворено, Курица
 
 ent-BaseCockroach = { ent-SolutionFood }
     .desc = { ent-SolutionFood.desc }
 
-ent-MobCockroach = cockroach
-    .desc = This station is just crawling with bugs.
+ent-MobCockroach = таракан
+    .desc = На этой станции кишмя кишат жуки.
 
-ent-MobGlockroach = glockroach
-    .desc = This station is just crawling with bu- OH GOD THAT COCKROACH HAS A GUN!!!
-    .suffix = Admeme
+ent-MobGlockroach = глокотаракан
+    .desc = На этой станции кишмя кишат жу- БОЖЕ, У ЭТОГО ТАРАКАНА ПУШКА!!!
+    .suffix = Адмеме
 
-ent-MobMothroach = mothroach
-    .desc = This is the adorable by-product of multiple attempts at genetically mixing mothpeople with cockroaches.
+ent-MobMothroach = таракамоль
+    .desc = Очаровательный побочный продукт многочисленных попыток генетически скрестить нианов и тараканов.
 
-ent-MobDuckMallard = mallard duck
-    .desc = An adorable mallard duck, it's fluffy and soft!
+ent-MobDuckMallard = кряква
+    .desc = Очаровательная кряква, пушистая и мягкая!
 
-ent-MobDuckWhite = white duck
-    .desc = An adorable white duck, it's fluffy and soft!
+ent-MobDuckWhite = белая утка
+    .desc = Очаровательная белая уточка, пушистая и мягкая!
 
-ent-MobDuckBrown = brown duck
-    .desc = An adorable brown duck, it's fluffy and soft!
+ent-MobDuckBrown = коричневая утка
+    .desc = Очаровательная коричневая уточка, пушистая и мягкая!
 
 ent-FoodEggDuckFertilized = { ent-FoodEgg }
     .desc = { ent-FoodEgg.desc }
-    .suffix = Fertilized, Duck
+    .suffix = Оплодотворено, Утка
 
-ent-MobButterfly = butterfly
-    .desc = Despite popular misconceptions, it's not actually made of butter.
+ent-MobButterfly = бабочка
+    .desc = Вопреки расхожему заблуждению, бабочка и правда не из масла.
 
-ent-MobCow = cow
-    .desc = Moo.
+ent-MobCow = корова
+    .desc = Му.
 
 ent-SolutionUdder = { ent-SolutionLarge }
     .desc = { ent-SolutionLarge.desc }
 
-ent-MobCrab = crab
-    .desc = A folk legend goes around that his claw snaps spacemen out of existence over distasteful remarks. Be polite and tolerant for your own safety.
+ent-MobCrab = краб
+    .desc = Ходит легенда, что за бестактное замечание он может щелчком клешни стереть космонавта из бытия. Будьте вежливы и терпимы ради собственной безопасности.
 
-ent-MobGoat = goat
-    .desc = Her spine consists of long sharp segments, no wonder she is so grumpy.
+ent-MobGoat = коза
+    .desc = Её позвоночник состоит из длинных острых сегментов. Неудивительно, что она такая сварливая.
 
 ent-SolutionUdderGoat = { ent-SolutionUdder }
     .desc = { ent-SolutionUdder.desc }
@@ -68,8 +68,8 @@ ent-SolutionUdderGoat = { ent-SolutionUdder }
 ent-SolutionWool = { ent-SolutionLarge }
     .desc = { ent-SolutionLarge.desc }
 
-ent-MobSheepBase = sheepBase
-    .desc = A sheep.
+ent-MobSheepBase = овцаБазовая
+    .desc = Овца.
 
 ent-SolutionUdderSheep = { ent-SolutionUdder }
     .desc = { ent-SolutionUdder.desc }
@@ -80,72 +80,72 @@ ent-SolutionWoolSheep = { ent-SolutionWool }
 ent-SolutionWoolSheepRainbow = { ent-SolutionWool }
     .desc = { ent-SolutionWool.desc }
 
-ent-MobSheep = sheep
-    .desc = An adorable genetically engineered chemical factory producing milk and cotton.
+ent-MobSheep = овца
+    .desc = Очаровательный генетически модифицированный химзавод по производству молока и хлопка.
 
-ent-MobSheepRainbow = rainbow sheep
-    .desc = A sheep; this one seems... glowy.
+ent-MobSheepRainbow = радужная овца
+    .desc = Овца. Эта как будто... светится.
 
-ent-MobGoose = goose
-    .desc = Its stomach and mind are an enigma beyond human comprehension.
+ent-MobGoose = гусь
+    .desc = Его желудок и разум - загадки, недоступные человеческому пониманию.
 
-ent-MobGorilla = gorilla
-    .desc = Smashes, roars, looks cool. Don't stand near one.
+ent-MobGorilla = горилла
+    .desc = Крушит, рычит, круто выглядит. Не стойте рядом.
 
-ent-MobKangaroo = kangaroo
-    .desc = A large marsupial herbivore. It has powerful hind legs, with nails that resemble long claws.
+ent-MobKangaroo = кенгуру
+    .desc = Крупное травоядное сумчатое. У него мощные задние лапы с ногтями, похожими на длинные когти.
 
-ent-MobBoxingKangaroo = boxing kangaroo
+ent-MobBoxingKangaroo = кенгуру-боксёр
     .desc = { ent-MobKangaroo.desc }
 
-ent-MobBaseAncestor = genetic ancestor
-    .desc = The genetic bipedal ancestor of... Uh... Something. Yeah, there's definitely something on the station that descended from whatever this is.
+ent-MobBaseAncestor = генетический предок
+    .desc = Общий двуногий предок... Э-э... Кого-то. Да, на станции точно есть кто-то, кто произошёл от этой штуки.
 
-ent-MobMonkey = monkey
-    .desc = New church of neo-darwinists actually believe that EVERY animal evolved from a monkey. Tastes like pork, and killing them is both fun and relaxing.
+ent-MobMonkey = обезьяна
+    .desc = В новой церкви неодарвинистов всерьёз считают, что ВСЕ животные произошли от обезьяны. На вкус как свинина, а убивать их весело и даже успокаивает.
 
-ent-MobBaseSyndicateMonkey = monkey
-    .desc = New church of neo-darwinists actually believe that EVERY animal evolved from a monkey. Tastes like pork, and killing them is both fun and relaxing.
-    .suffix = syndicate base
+ent-MobBaseSyndicateMonkey = обезьяна
+    .desc = В новой церкви неодарвинистов всерьёз считают, что ВСЕ животные произошли от обезьяны. На вкус как свинина, а убивать их весело и даже успокаивает.
+    .suffix = база синдиката
 
 ent-MobMonkeySyndicateAgent = { ent-MobBaseSyndicateMonkey }
     .desc = { ent-MobBaseSyndicateMonkey.desc }
-    .suffix = syndicate agent
+    .suffix = агент синдиката
 
 ent-MobMonkeySyndicateAgentNukeops = { ent-MobBaseSyndicateMonkey }
     .desc = { ent-MobBaseSyndicateMonkey.desc }
-    .suffix = NukeOps
+    .suffix = Ядерные Оперативники
 
-ent-MobBaseKobold = kobold
-    .desc = Cousins to the sentient race of lizard people, kobolds blend in with their natural habitat and are as nasty as monkeys; ready to pull out your hair and stab you to death.
+ent-MobBaseKobold = кобольд
+    .desc = Родичи разумных унатхов, кобольды отлично сливаются с родной средой и пакостят не хуже обезьян. Могут выдрать вам волосы и заколоть насмерть.
 
-ent-MobKobold = kobold
-    .desc = Cousins to the sentient race of lizard people, kobolds blend in with their natural habitat and are as nasty as monkeys; ready to pull out your hair and stab you to death.
+ent-MobKobold = кобольд
+    .desc = Родичи разумных унатхов, кобольды отлично сливаются с родной средой и пакостят не хуже обезьян. Могут выдрать вам волосы и заколоть насмерть.
 
 ent-MobBaseSyndicateKobold = { ent-MobBaseKobold }
     .desc = { ent-MobBaseKobold.desc }
-    .suffix = syndicate base
+    .suffix = база синдиката
 
 ent-MobKoboldSyndicateAgent = { ent-MobBaseSyndicateKobold }
     .desc = { ent-MobBaseSyndicateKobold.desc }
-    .suffix = syndicate agent
+    .suffix = агент синдиката
 
 ent-MobKoboldSyndicateAgentNukeops = { ent-MobBaseSyndicateKobold }
     .desc = { ent-MobBaseSyndicateKobold.desc }
-    .suffix = NukeOps
+    .suffix = Ядерные Оперативники
 
-ent-MobGuidebookMonkey = guidebook monkey
-    .desc = A hopefully helpful monkey whose only purpose in life is for you to click on. Does this count as having a monkey give you a tutorial?
+ent-MobGuidebookMonkey = обезьяна из справочника
+    .desc = Обезьяна, которая, будем надеяться, чем-то вам поможет. Её единственное предназначение - чтобы вы на неё нажали. Можно ли считать, что теперь вас обучает обезьяна?
 
-ent-MobMouse = mouse
-    .desc = Squeak!
+ent-MobMouse = мышь
+    .desc = Пи!
 
 ent-SolutionVermin = { ent-SolutionFood }
     .desc = { ent-SolutionFood.desc }
 
-ent-MobMouseDead = mouse
-    .desc = Squeak!
-    .suffix = Dead
+ent-MobMouseDead = мышь
+    .desc = Пи!
+    .suffix = Мертва
 
 ent-MobMouse1 = { ent-MobMouse }
     .desc = { ent-MobMouse.desc }
@@ -153,32 +153,32 @@ ent-MobMouse1 = { ent-MobMouse }
 ent-MobMouse2 = { ent-MobMouse }
     .desc = { ent-MobMouse.desc }
 
-ent-MobMouseCancer = cancer mouse
-    .desc = Toxic. Squeak!
+ent-MobMouseCancer = раковая мышь
+    .desc = Токсичная. Пи!
 
-ent-MobLizard = lizard
-    .desc = A harmless dragon.
+ent-MobLizard = ящерица
+    .desc = Безобидный дракон.
 
-ent-MobSlug = slug
-    .desc = And they called this a lizard?
+ent-MobSlug = слизень
+    .desc = И это они называли ящерицей?
 
-ent-MobFrog = frog
-    .desc = Hop hop hop. Lookin' moist.
+ent-MobFrog = лягушка
+    .desc = Прыг, прыг, прыг. С виду влажная.
 
-ent-MobParrotBase = parrot
-    .desc = Infiltrates your domain, spies on you, and somehow still a cool pet.
+ent-MobParrotBase = попугай
+    .desc = Проникает к вам, шпионит за вами и всё равно остаётся классным питомцем.
 
 ent-MobParrot = { ent-MobParrotBase }
     .desc = { ent-MobParrotBase.desc }
 
-ent-MobPenguin = penguin
-    .desc = Their lives are constant pain due to their inner-body knees.
+ent-MobPenguin = пингвин
+    .desc = Вся их жизнь - сплошная боль из-за коленей, спрятанных внутри тела.
 
-ent-MobGrenadePenguin = grenade penguin
-    .desc = A small penguin with a grenade strapped around its neck. Harvested by the Syndicate from icy shit-hole planets.
+ent-MobGrenadePenguin = пингвин-граната
+    .desc = Небольшой пингвин с гранатой на шее. Синдикат привозит таких с ледяных планет-дыр.
 
-ent-MobSnake = snake
-    .desc = Hissss! Bites aren't poisonous.
+ent-MobSnake = змея
+    .desc = Ш-ш-ш-ш! Укусы не ядовиты.
 
 ent-MobSpiderBase = { ent-BaseMobGiantSpider }
     .desc = { ent-BaseMobGiantSpider.desc }
@@ -189,83 +189,83 @@ ent-SolutionVenomSpider = { ent-SolutionWeapon }
 ent-MobSpiderAngryBase = { ent-MobSpiderBase }
     .desc = { ent-MobSpiderBase.desc }
 
-ent-MobGiantSpider = giant spider
-    .desc = Widely recognized to be the literal worst thing in existence.
+ent-MobGiantSpider = гигантский паук
+    .desc = Общепризнанно худшее существо во вселенной.
 
 ent-MobGiantSpiderAngry = { ent-MobSpiderAngryBase }
     .desc = { ent-MobSpiderAngryBase.desc }
 
-ent-MobClownSpider = clown spider
-    .desc = Combines the two most terrifying things in existence, spiders and clowns.
+ent-MobClownSpider = паук-клоун
+    .desc = Сочетает в себе две самые жуткие вещи на свете: пауков и клоунов.
 
-ent-MobGiantSpiderWizard = wizard spider
-    .desc = This spider looks a little magical
-    .suffix = Wizard
+ent-MobGiantSpiderWizard = паук-волшебник
+    .desc = С виду этот паук немного волшебный
+    .suffix = Волшебник
 
-ent-MobPossum = possum
-    .desc = "O Possum! My Possum!" -- Walt Whitman, 1865
+ent-MobPossum = опоссум
+    .desc = «О Опоссум! Мой Опоссум!» -- Уолт Уитмен, 1865
 
-ent-MobPossumOld = possum
+ent-MobPossumOld = опоссум
     .desc = { ent-MobPossum.desc }
-    .suffix = Old sprite
+    .suffix = Старый спрайт
 
-ent-MobRaccoon = raccoon
-    .desc = Trash panda!
+ent-MobRaccoon = енот
+    .desc = Мусорная панда!
 
-ent-MobFox = fox
-    .desc = They're a fox.
+ent-MobFox = лиса
+    .desc = Это лиса.
 
-ent-MobCorgiBase = corgi
-    .desc = Finally, a space corgi!
+ent-MobCorgiBase = корги
+    .desc = Наконец-то космический корги!
 
 ent-MobCorgi = { ent-MobCorgiBase }
     .desc = { ent-MobCorgiBase.desc }
 
-ent-MobCorgiNarsi = corrupted corgi
-    .desc = Ian! No!
+ent-MobCorgiNarsi = искажённый корги
+    .desc = Иан! Нет!
 
-ent-MobCorgiPuppy = corgi puppy
-    .desc = A little corgi! Aww...
+ent-MobCorgiPuppy = щенок корги
+    .desc = Маленький корги! Ути...
 
-ent-MobCat = cat
-    .desc = Feline pet, very funny.
+ent-MobCat = кот
+    .desc = Домашний котик, очень забавный.
 
-ent-MobCatCalico = calico cat
-    .desc = Feline pet, very funny.
+ent-MobCatCalico = трёхцветная кошка
+    .desc = Домашняя кошечка, очень забавная.
 
-ent-MobCatSyndy = syndicat
-    .desc = Explosive kitten.
+ent-MobCatSyndy = синдикот
+    .desc = Взрывной котёнок.
 
-ent-MobCatSpace = space cat
-    .desc = Feline pet, prepared for the worst.
+ent-MobCatSpace = космический кот
+    .desc = Домашний котик, готовый к худшему.
 
-ent-MobCatCaracal = caracal cat
-    .desc = Hilarious.
+ent-MobCatCaracal = каракал
+    .desc = Уморительно.
 
-ent-MobCatKitten = kitten
-    .desc = Small and fluffy.
+ent-MobCatKitten = котёнок
+    .desc = Маленький и пушистый.
 
-ent-MobSloth = sloth
-    .desc = Very slow animal. For people with low energy.
+ent-MobSloth = ленивец
+    .desc = Очень медленное животное. Для тех, у кого мало сил.
 
-ent-MobFerret = ferret
-    .desc = Just a silly little guy!
+ent-MobFerret = хорёк
+    .desc = Просто маленький дурачок!
 
-ent-MobHamster = hamster
-    .desc = A cute, fluffy, robust hamster.
+ent-MobHamster = хомяк
+    .desc = Милый, пушистый и робастный хомяк.
 
-ent-MobPig = pig
-    .desc = Oink.
+ent-MobPig = свинья
+    .desc = Хрю.
 
-ent-MobDionaNymph = diona nymph
-    .desc = It's like a cat, only.... branch-ier.
+ent-MobDionaNymph = нимфа дионы
+    .desc = Как кошка, только.... поветвистее.
 
 ent-MobDionaNymphAccent = { ent-MobDionaNymph }
     .desc = { ent-MobDionaNymph.desc }
-    .suffix = Accent
+    .suffix = Акцент
 
-ent-MobReindeerBuck = reindeer buck
-    .desc = You think it can pull a sleigh?
+ent-MobReindeerBuck = самец северного оленя
+    .desc = Как думаете, он потянет сани?
 
-ent-MobReindeerDoe = reindeer doe
+ent-MobReindeerDoe = самка северного оленя
     .desc = { ent-MobReindeerBuck.desc }

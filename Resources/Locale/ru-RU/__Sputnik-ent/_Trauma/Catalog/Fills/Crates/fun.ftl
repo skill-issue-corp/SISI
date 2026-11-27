@@ -1,5 +1,5 @@
-ent-CrateFunSprayPaints = spray paint crate
-    .desc = A crate filled with cans of spray paint.
+ent-CrateFunSprayPaints = ящик аэрозольной краски
+    .desc = Ящик, полный баллончиков с краской.
 
-ent-CrateWizardDemonology = Demonology Crate
-    .desc = A crate containing the demonic essentials!
+ent-CrateWizardDemonology = Ящик Демонологии
+    .desc = Ящик со всем необходимым для демона!

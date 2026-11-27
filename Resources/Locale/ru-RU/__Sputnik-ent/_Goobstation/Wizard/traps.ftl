@@ -1,17 +1,17 @@
-ent-BaseTrap = IT'S A TRAP
-    .desc = Stepping on me is a guaranteed bad day.
+ent-BaseTrap = ЭТО ЛОВУШКА
+    .desc = Наступите на меня, и день точно будет испорчен.
 
-ent-TrapShock = shock trap
-    .desc = A trap that will shock and render you immobile. You'd better avoid it.
+ent-TrapShock = электрическая ловушка
+    .desc = Ловушка ударит током и обездвижит вас. Лучше обойти её стороной.
 
-ent-TrapFlame = flame trap
-    .desc = A trap that will set you ablaze. You'd better avoid it.
+ent-TrapFlame = огненная ловушка
+    .desc = Ловушка подожжёт вас. Лучше обойти её стороной.
 
-ent-TrapDamage = earth trap
-    .desc = A trap that will summon a small earthquake, just for you. You'd better avoid it.
+ent-TrapDamage = земляная ловушка
+    .desc = Ловушка вызовет небольшое землетрясение специально для вас. Лучше обойти её стороной.
 
-ent-TrapChill = frost trap
-    .desc = A trap that will chill you to the bone. You'd better avoid it.
+ent-TrapChill = ледяная ловушка
+    .desc = Ловушка проморозит вас до костей. Лучше обойти её стороной.
 
-ent-TrapBlind = blinding trap
-    .desc = A trap that will blind you temporarily. You'd better avoid it.
+ent-TrapBlind = ослепляющая ловушка
+    .desc = Ловушка ненадолго ослепит вас. Лучше обойти её стороной.

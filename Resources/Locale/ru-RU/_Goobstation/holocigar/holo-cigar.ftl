@@ -1,4 +1,4 @@
-uplink-holo-cigar-name = Holo-Cigar
-uplink-holo-cigar-desc = A holo-cigar imported from the Sol system. Smoking it won't speed up time, but it will make you a badass.
-holo-cigar-verb-desc = Become the big boss.
-holo-cigar-verb-text = Activate
+uplink-holo-cigar-name = Голо-Сигара
+uplink-holo-cigar-desc = Голо-сигара из Солярной системы. Время с ней быстрее не пойдёт, зато выглядеть вы будете круто.
+holo-cigar-verb-desc = Станьте большим боссом.
+holo-cigar-verb-text = Активировать

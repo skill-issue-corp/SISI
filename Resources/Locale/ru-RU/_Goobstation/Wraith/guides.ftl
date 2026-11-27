@@ -1,8 +1,8 @@
-guide-entry-wraith = Wraith
+guide-entry-wraith = Фантом
 
-guide-entry-plaguebringer = Plaguebringer path
-guide-entry-harbinger = Harbinger path
-guide-entry-trickster = Trickster path
+guide-entry-plaguebringer = Путь Разносчика Чумы
+guide-entry-harbinger = Путь Вестника Пустоты
+guide-entry-trickster = Путь Трикстера
 
-guide-entry-void-summons = Void summons
-guide-entry-revenant = Revenant
+guide-entry-void-summons = Твари Пустоты
+guide-entry-revenant = Ревенант

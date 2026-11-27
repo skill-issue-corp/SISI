@@ -1,2 +1,2 @@
-ent-VampiricClaws = Claws of Blood
-    .desc = Remove bonus blood from the target on hit.
+ent-VampiricClaws = Кровавые Когти
+    .desc = При ударе отнимают у цели дополнительную кровь.

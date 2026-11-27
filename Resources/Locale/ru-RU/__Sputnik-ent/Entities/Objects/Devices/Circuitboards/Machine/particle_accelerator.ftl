@@ -1,17 +1,17 @@
-ent-MachineParticleAcceleratorEndCapCircuitboard = PA end cap board
-    .desc = A machine board for a particle accelerator end cap.
+ent-MachineParticleAcceleratorEndCapCircuitboard = плата торцевой крышки УЧ
+    .desc = Печатная плата для торцевой крышки ускорителя частиц.
 
-ent-MachineParticleAcceleratorFuelChamberCircuitboard = PA fuel chamber board
-    .desc = A machine board for a particle accelerator fuel chamber.
+ent-MachineParticleAcceleratorFuelChamberCircuitboard = плата топливной камеры УЧ
+    .desc = Печатная плата для топливной камеры ускорителя частиц.
 
-ent-MachineParticleAcceleratorPowerBoxCircuitboard = PA power box board
-    .desc = A machine board for a particle accelerator power box.
+ent-MachineParticleAcceleratorPowerBoxCircuitboard = плата блока питания УЧ
+    .desc = Печатная плата для блока питания ускорителя частиц.
 
-ent-MachineParticleAcceleratorEmitterStarboardCircuitboard = PA starboard emitter board
-    .desc = A machine board for a particle accelerator left emitter.
+ent-MachineParticleAcceleratorEmitterStarboardCircuitboard = плата эмиттера правого борта УЧ
+    .desc = Печатная плата для левого эмиттера ускорителя частиц.
 
-ent-MachineParticleAcceleratorEmitterForeCircuitboard = PA fore emitter board
-    .desc = A machine board for a particle accelerator center emitter.
+ent-MachineParticleAcceleratorEmitterForeCircuitboard = плата носового эмиттера УЧ
+    .desc = Печатная плата для центрального эмиттера ускорителя частиц.
 
-ent-MachineParticleAcceleratorEmitterPortCircuitboard = PA port emitter board
-    .desc = A machine board for a particle accelerator right emitter.
+ent-MachineParticleAcceleratorEmitterPortCircuitboard = плата эмиттера левого борта УЧ
+    .desc = Печатная плата для правого эмиттера ускорителя частиц.

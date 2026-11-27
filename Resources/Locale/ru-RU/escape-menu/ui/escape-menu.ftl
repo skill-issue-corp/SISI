@@ -1,15 +1,15 @@
 
 ### EscapeMenu.xaml
 
-ui-escape-title = Game Menu
-ui-escape-options = Options
-ui-escape-rules = Rules
-ui-escape-guidebook = Guidebook
-ui-escape-wiki = Wiki
-ui-escape-disconnect = Disconnect
-ui-escape-quit = Quit
-ui-escape-feedback = Feedback
-ui-escape-bug-report = Report Bugs
-ui-escape-remarks = Admin Remarks
+ui-escape-title = Меню Игры
+ui-escape-options = Настройки
+ui-escape-rules = Правила
+ui-escape-guidebook = Справочник
+ui-escape-wiki = Вики
+ui-escape-disconnect = Отключиться
+ui-escape-quit = Выйти
+ui-escape-feedback = Обратная связь
+ui-escape-bug-report = Сообщить об Ошибке
+ui-escape-remarks = Замечания Администрации
 
-ui-escape-remarks-button-disabled = This functionality has been disabled by the server.
+ui-escape-remarks-button-disabled = Сервер отключил эту функцию.

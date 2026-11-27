@@ -6,17 +6,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-happyhonk-1 = Honk! Honk! Why not order a Happy Honk Meal today?
-advertisement-happyhonk-2 = Clowns deserve a hug, if you see one be sure to show your appreciation.
-advertisement-happyhonk-3 = If you find the Golden Honker then pray to the gods, you are one lucky person.
-advertisement-happyhonk-4 = Happy Honk: it's a meal, it's a deal, it's got a plastic toy that will make you squeal.
-advertisement-happyhonk-5 = What's black and white and red all over? The mime and she died from blunt head trauma.
-advertisement-happyhonk-6 = How many security officers does it take to arrest you? Three, one to beat you to death, one to cuff you and one to dump your body in maintenance.
-advertisement-happyhonk-7 = Happy Honk is not responsible for the quality of the food placed within our Happy Honk meal boxes.
-advertisement-happyhonk-8 = Why not ask for our limited edition Mime Happy Honk Meal?
-advertisement-happyhonk-9 = Happy Honk is a trademark of Honk! co. and is far superior to Robust Nukie Food corp.
-advertisement-happyhonk-10 = Our Happy Honk meals are sure to offer a great surprise!
-thankyou-happyhonk-1 = Honk!
-thankyou-happyhonk-2 = Honk honk!
-thankyou-happyhonk-3 = Go share the fun! Honk!
-thankyou-happyhonk-4 = Go slip people! Honk!
+advertisement-happyhonk-1 = Хонк! Хонк! Почему бы сегодня не заказать обед Хэппи Хонк?
+advertisement-happyhonk-2 = Клоуны заслуживают объятий. Увидите клоуна - не забудьте показать, что цените его.
+advertisement-happyhonk-3 = Найдёте Золотую Гуделку - молитесь богам, вам несказанно повезло.
+advertisement-happyhonk-4 = Хэппи Хонк: обед на славу, цена на радость, игрушка из пластика - взвизгнете от счастья.
+advertisement-happyhonk-5 = Что чёрно-белое и всё в красном? Мим. Она умерла от тупой травмы головы.
+advertisement-happyhonk-6 = Сколько офицеров службы безопасности надо, чтобы арестовать вас? Трое: один забьёт до смерти, второй наденет наручники, третий сбросит тело в техтоннели.
+advertisement-happyhonk-7 = Хэппи Хонк не отвечает за качество еды в наших коробках с обедами Хэппи Хонк.
+advertisement-happyhonk-8 = Почему бы вам не попросить лимитированный Мимский Обед Хэппи Хонк?
+advertisement-happyhonk-9 = Хэппи Хонк - торговая марка компании Хонк! и намного лучше продукции корпорации Робастная Еда для Ядерщиков.
+advertisement-happyhonk-10 = В наших обедах Хэппи Хонк вас обязательно ждёт отличный сюрприз!
+thankyou-happyhonk-1 = Хонк!
+thankyou-happyhonk-2 = Хонк-хонк!
+thankyou-happyhonk-3 = Поделитесь весельем! Хонк!
+thankyou-happyhonk-4 = Пусть все поскользнутся! Хонк!

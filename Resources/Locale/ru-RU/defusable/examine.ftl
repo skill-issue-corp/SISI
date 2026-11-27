@@ -5,11 +5,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-defusable-examine-defused = {CAPITALIZE(THE($name))} is [color=lime]defused[/color].
-defusable-examine-live = {CAPITALIZE(THE($name))} is [color=red]ticking[/color] and has [color=red]{$time}[/color] seconds remaining.
-defusable-examine-live-display-off = {CAPITALIZE(THE($name))} is [color=red]ticking[/color], and the timer appears to be off.
-defusable-examine-inactive = {CAPITALIZE(THE($name))} is [color=lime]inactive[/color], but can still be armed.
-defusable-examine-bolts = The bolts are {$down ->
-[true] [color=red]down[/color]
-*[false] [color=green]up[/color]
+defusable-examine-defused = {CAPITALIZE($name)} [color=lime]обезврежено[/color].
+defusable-examine-live = {CAPITALIZE($name)} [color=red]тикает[/color], осталось [color=red]{$time}[/color] сек.
+defusable-examine-live-display-off = {CAPITALIZE($name)} [color=red]тикает[/color], а таймер, похоже, выключен.
+defusable-examine-inactive = {CAPITALIZE($name)} [color=lime]неактивно[/color], но его можно взвести.
+defusable-examine-bolts = Положение болтов: {$down ->
+[true] [color=red]опущены[/color]
+*[false] [color=green]подняты[/color]
 }.

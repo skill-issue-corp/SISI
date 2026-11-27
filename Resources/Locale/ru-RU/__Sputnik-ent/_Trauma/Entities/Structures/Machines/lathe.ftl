@@ -7,45 +7,45 @@ ent-BaseRevIndustryNoSilo = { ent-BaseMachine }
 ent-BaseRevIndustry = { ent-BaseRevIndustryNoSilo }
     .desc = { ent-BaseRevIndustryNoSilo.desc }
 
-ent-RevForge = industrial forge
-    .desc = This jury rigged machine can produce all sorts of useful (and dangerous) components.
+ent-RevForge = промышленный горн
+    .desc = Из этой машины, собранной на коленке, выходят самые разные полезные (и опасные) детали.
 
-ent-RevPrintingPress = printing press
-    .desc = A printing press for mass producing media, or in your case anti-NT propaganda.
+ent-RevPrintingPress = печатный станок
+    .desc = Печатный станок для массового выпуска прессы, а в вашем случае - пропаганды против NT.
 
-ent-CrewPrintingPress = printing press
-    .desc = A printing press for mass producing media, or instructional material.
-    .suffix = crew
+ent-CrewPrintingPress = печатный станок
+    .desc = Печатный станок для массового выпуска прессы или учебных материалов.
+    .suffix = экипаж
 
-ent-RevRadioBench = telecommunications workshop
-    .desc = A device for hacking into nearby signals, allows the production of radiochips, turrets, as well as some upgrades for other machines.
+ent-RevRadioBench = телекоммуникационная мастерская
+    .desc = Устройство для перехвата ближайших сигналов. Позволяет производить радиочипы, турели и некоторые улучшения для других машин.
 
-ent-RevTelesphere = telesphere
-    .desc = An experimental device, it can be used to remotely steal materials from passing trade ships using phoron. Additionally; it can be used as a material silo for the revolution.
+ent-RevTelesphere = телесфера
+    .desc = Экспериментальное устройство, которое при помощи форона может удалённо красть материалы с пролетающих торговых судов. Также служит хранилищем материалов для революции.
 
-ent-RevPrinter = 3D printer
-    .desc = Makes either cute little guys or gun parts, zero inbetween. This one can print both metal and plastic.
+ent-RevPrinter = 3D-принтер
+    .desc = Печатает либо милых человечков, либо детали оружия. Третьего не дано. Эта модель печатает и металлом, и пластиком.
 
-ent-RevBulletPress = bullet press
-    .desc = Creates ammo by pressing the bullet into the casing, this one is automated.
+ent-RevBulletPress = патронный пресс
+    .desc = Изготавливает боеприпасы, впрессовывая пулю в гильзу. Эта модель автоматическая.
 
-ent-RevMicroelectronicsAssembler = microelectronics assembler
-    .desc = Allows the creation of illegal technology useful to the revolution.
+ent-RevMicroelectronicsAssembler = сборщик микроэлектроники
+    .desc = Позволяет выпускать нелегальную технику, полезную революции.
 
-ent-RevUniformPrinter = military uniform printer
-    .desc = Creates armored clothing for the troops.
+ent-RevUniformPrinter = принтер военной формы
+    .desc = Изготавливает бронированную одежду для бойцов.
 
-ent-RevTechAnalyzer = tech analyzer
-    .desc = Scans NT tech and produces tech disks for the microelectronics assembler to create.
+ent-RevTechAnalyzer = анализатор техники
+    .desc = Сканирует технику NT и создаёт диски с чертежами для сборщика микроэлектроники.
 
-ent-RevPlasmaFoundry = phoron foundry
-    .desc = An advanced foundry powered by phoron sheets, it melts metals incredibly fast and produces advanced components.
+ent-RevPlasmaFoundry = фороновая литейная
+    .desc = Современная литейная, работающая на листах форона. Невероятно быстро плавит металл и выпускает передовые компоненты.
 
-ent-RevPowerArmorStand = P.O.W.A.R armor stand
-    .desc = A P.O.W.A.R armor stand, used for showing off P.O.W.A.R armor.
+ent-RevPowerArmorStand = стойка для брони P.O.W.A.R
+    .desc = Стойка для брони P.O.W.A.R, предназначенная для её демонстрации.
 
-ent-RevMedFab = hidden medifab
-    .desc = A hidden subfloor fabricator that can make medical equipment.
+ent-RevMedFab = скрытый медфаб
+    .desc = Спрятанный под полом фабрикатор, который изготавливает медицинское оборудование.
 
-ent-AbductorBiofabricator = abductor biofabricator
-    .desc = Produces organs and limbs that can be surgically implanted or attached to unwilling experiments.
+ent-AbductorBiofabricator = биофабрикатор абдукторов
+    .desc = Создаёт органы и конечности, которые можно хирургически пересадить или пришить подопытным без их согласия.

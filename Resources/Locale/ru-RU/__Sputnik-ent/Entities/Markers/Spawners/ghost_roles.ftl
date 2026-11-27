@@ -1,21 +1,21 @@
-ent-BaseAntagSpawner = ghost role spawn point
+ent-BaseAntagSpawner = точка спавна роли призрака
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnPointGhostRatKing = ghost role spawn point
+ent-SpawnPointGhostRatKing = точка спавна роли призрака
     .desc = { ent-MarkerBase.desc }
-    .suffix = rat king
+    .suffix = крысиный король
 
-ent-SpawnPointGhostRemilia = ghost role spawn point
+ent-SpawnPointGhostRemilia = точка спавна роли призрака
     .desc = { ent-MarkerBase.desc }
-    .suffix = Remilia
+    .suffix = Ремилия
 
-ent-SpawnPointGhostCerberus = ghost role spawn point
+ent-SpawnPointGhostCerberus = точка спавна роли призрака
     .desc = { ent-MarkerBase.desc }
-    .suffix = cerberus
+    .suffix = цербер
 
-ent-SpawnPointGhostNukeOperative = ghost role spawn point
+ent-SpawnPointGhostNukeOperative = точка спавна роли призрака
     .desc = { ent-MarkerBase.desc }
-    .suffix = nukeops
+    .suffix = ядерные оперативники
 
 ent-SpawnPointLoneNukeOperative = { ent-BaseAntagSpawner }
     .desc = { ent-BaseAntagSpawner.desc }
@@ -62,6 +62,6 @@ ent-SpawnPointGhostDerelictMiningCyborg = { ent-SpawnPointGhostDerelictCyborg }
 ent-SpawnPointGhostDerelictSyndicateAssaultCyborg = { ent-SpawnPointGhostDerelictCyborg }
     .desc = { ent-SpawnPointGhostDerelictCyborg.desc }
 
-ent-SpawnPointGhostWizard = ghost role spawn point
+ent-SpawnPointGhostWizard = точка спавна роли призрака
     .desc = { ent-BaseAntagSpawner.desc }
-    .suffix = wizard
+    .suffix = волшебник

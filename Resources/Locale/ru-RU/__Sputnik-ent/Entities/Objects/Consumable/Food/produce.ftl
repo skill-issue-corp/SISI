@@ -7,237 +7,237 @@ ent-ProduceBaseRuminant = { ent-ProduceBase }
 ent-FoodProduceBase = { ent-SolutionTiny }
     .desc = { ent-SolutionTiny.desc }
 
-ent-WheatBushel = wheat bushel
-    .desc = Sigh... wheat... a-grain?
+ent-WheatBushel = сноп пшеницы
+    .desc = Вздох... пшеница... опять по зёрнышку?
 
-ent-MeatwheatBushel = meatwheat bushel
-    .desc = Some blood-drenched wheat stalks. You can crush them into what passes for meat if you squint hard enough.
+ent-MeatwheatBushel = сноп мясной пшеницы
+    .desc = Несколько залитых кровью стеблей пшеницы. Их можно перемолоть в нечто похожее на мясо, если очень сильно прищуриться.
 
-ent-OatBushel = oat bushel
-    .desc = Eat oats, do squats.
+ent-OatBushel = сноп овса
+    .desc = Ешьте овёс, приседайте на износ.
 
-ent-Sugarcane = sugarcane
-    .desc = Sickly sweet.
+ent-Sugarcane = сахарный тростник
+    .desc = Приторно сладкий.
 
-ent-Papercane = papercane roll
-    .desc = Why do we even need to grow paper?
+ent-Papercane = рулон бумажного тростника
+    .desc = Зачем вообще выращивать бумагу?
 
-ent-FoodLaughinPeaPod = laughin' pea pod
-    .desc = The clown's favorite plant.
+ent-FoodLaughinPeaPod = стручок смешливого гороха
+    .desc = Любимое растение клоуна.
 
-ent-Log = tower-cap log
-    .desc = It's better than bad, it's good!
+ent-Log = бревно башнегриба
+    .desc = Оно лучше, чем плохое. Оно хорошее!
 
-ent-SteelLog = steel-cap log
-    .desc = Steel doesn't grow on trees! It grows on mushrooms, of course.
+ent-SteelLog = бревно сталегриба
+    .desc = Сталь на деревьях не растёт! Она растёт на грибах, конечно же.
 
-ent-Nettle = nettle
-    .desc = Stingy little prick.
+ent-Nettle = крапива
+    .desc = Мелкая колючая дрянь.
 
-ent-DeathNettle = death nettle
-    .desc = This nettle's out for blood.
+ent-DeathNettle = смертоносная крапива
+    .desc = Эта крапива жаждет крови.
 
-ent-FoodBanana = banana
-    .desc = Rich in potassium.
+ent-FoodBanana = банан
+    .desc = Богат калием.
 
-ent-FoodMimana = mimana
-    .desc = Mime's favorite.
+ent-FoodMimana = мимана
+    .desc = Любимое лакомство мима.
 
-ent-TrashBananaPeel = banana peel
+ent-TrashBananaPeel = банановая кожура
     .desc = { ent-SolutionFood.desc }
 
-ent-TrashBakedBananaPeel = baked banana peel
+ent-TrashBakedBananaPeel = печёная банановая кожура
     .desc = { ent-TrashBananaPeel.desc }
 
-ent-TrashMimanaPeel = mimana peel
+ent-TrashMimanaPeel = кожура миманы
     .desc = { ent-TrashBananaPeel.desc }
 
-ent-TrashBananiumPeel = bananium peel
+ent-TrashBananiumPeel = бананиумовая кожура
     .desc = { ent-TrashBananaPeel.desc }
 
-ent-FoodCarrot = carrot
-    .desc = It's good for the eyes!
+ent-FoodCarrot = морковь
+    .desc = Полезна для глаз!
 
-ent-FoodCabbage = cabbage
-    .desc = Ewwwwwwwwww. Cabbage.
+ent-FoodCabbage = капуста
+    .desc = Фу-у-у-у-у. Капуста.
 
-ent-FoodGarlic = garlic
-    .desc = Delicious, but with a potentially overwhelming odor.
+ent-FoodGarlic = чеснок
+    .desc = Вкусный, но запах может сбить с ног.
 
-ent-FoodLemon = lemon
-    .desc = When life gives you lemons, be grateful they aren't limes.
+ent-FoodLemon = лимон
+    .desc = Когда жизнь даёт вам лимоны, радуйтесь, что это не лаймы.
 
-ent-FoodLemoon = lemoon
-    .desc = People says Moon is made out of cheese, but Moon is actually made out of milk and laurel!
+ent-FoodLemoon = лунолимон
+    .desc = Говорят, Луна из сыра, а на самом деле Луна из молока и лавра!
 
-ent-FoodLime = lime
-    .desc = Cures Space Scurvy, allows you to act like a Space Pirate.
+ent-FoodLime = лайм
+    .desc = Лечит Космическую Цингу и позволяет вести себя как Космический Пират.
 
-ent-FoodOrange = orange
-    .desc = Healthy, very orange.
+ent-FoodOrange = апельсин
+    .desc = Полезный, очень оранжевый.
 
-ent-FoodExtradimensionalOrange = extradimensional orange
-    .desc = You can hardly wrap your head around this thing.
+ent-FoodExtradimensionalOrange = внепространственный апельсин
+    .desc = Эту штуку трудно уложить в голове.
 
-ent-FoodPineapple = pineapple
-    .desc = Mmm, tropical.
+ent-FoodPineapple = ананас
+    .desc = М-м-м, тропики.
 
-ent-FoodPotato = potato
-    .desc = The space Irish starved to death after their potato crops died. Sadly they were unable to fish for space carp due to it being the queen's space. Bringing this up to any space IRA member will drive them insane with anger.
+ent-FoodPotato = картофель
+    .desc = Космические Ирландцы умерли с голоду, когда погиб их урожай картофеля. Увы, они не могли ловить космических карпов: тот космос принадлежал королеве. Одно упоминание об этом взбесит любого члена космической ИРА.
 
-ent-FoodTomato = tomato
-    .desc = I say to-mah-to, you say tom-mae-to.
+ent-FoodTomato = томат
+    .desc = Я говорю «помидо-ор», вы говорите «пами-идор».
 
-ent-FoodBlueTomato = blue tomato
-    .desc = This one is blue.
+ent-FoodBlueTomato = синий томат
+    .desc = Этот синий.
 
-ent-FoodBloodTomato = blood tomato
-    .desc = Wait, that's not ketchup...
+ent-FoodBloodTomato = кровавый томат
+    .desc = Погодите, это не кетчуп...
 
-ent-FoodEggplant = eggplant
-    .desc = Maybe there's a chicken inside?
+ent-FoodEggplant = баклажан
+    .desc = Может, внутри цыплёнок?
 
-ent-FoodApple = apple
-    .desc = It's a little piece of Eden.
+ent-FoodApple = яблоко
+    .desc = Маленький кусочек Эдема.
 
-ent-FoodGoldenApple = golden apple
-    .desc = It should be shaped like a cube, shouldn't it?
+ent-FoodGoldenApple = золотое яблоко
+    .desc = Разве оно не должно быть кубическим?
 
-ent-FoodCocoaPod = cocoa pod
-    .desc = You can never have too much chocolate!
+ent-FoodCocoaPod = плод какао
+    .desc = Шоколада много не бывает!
 
-ent-FoodCorn = ear of corn
-    .desc = Needs some butter! And some cooking...
+ent-FoodCorn = кукурузный початок
+    .desc = Нужно немного масла! И приготовить...
 
-ent-FoodCornTrash = corn cob
-    .desc = Not a dang kernel left.
+ent-FoodCornTrash = кукурузная кочерыжка
+    .desc = Ни одного чёртова зёрнышка не осталось.
 
-ent-FoodOnion = onion
-    .desc = Nothing to cry over.
+ent-FoodOnion = лук
+    .desc = Тут не о чем плакать.
 
-ent-FoodOnionRed = red onion
-    .desc = Purple despite the name.
+ent-FoodOnionRed = красный лук
+    .desc = Фиолетовый, несмотря на название.
 
-ent-FoodMushroom = chanterelle cluster
-    .desc = Cantharellus Cibarius: These jolly yellow little shrooms sure look tasty!
+ent-FoodMushroom = кластер лисичек
+    .desc = Cantharellus Cibarius: Эти весёлые жёлтые грибочки выглядят аппетитно!
 
 ent-ProduceSliceBase = { ent-FoodInjectableBase }
     .desc = { ent-FoodInjectableBase.desc }
 
-ent-FoodPineappleSlice = pineapple slice
-    .desc = Mmm, tropical.
+ent-FoodPineappleSlice = ломтик ананаса
+    .desc = М-м-м, тропики.
 
-ent-FoodOnionSlice = onion slice
-    .desc = Nothing to cry over.
+ent-FoodOnionSlice = ломтик лука
+    .desc = Тут не о чем плакать.
 
-ent-FoodOnionRedSlice = red onion slice
-    .desc = Purple despite the name.
+ent-FoodOnionRedSlice = ломтик красного лука
+    .desc = Фиолетовый, несмотря на название.
 
-ent-FoodChiliPepper = chili pepper
-    .desc = Spicy, best not touch your eyes.
+ent-FoodChiliPepper = перец чили
+    .desc = Острый. Лучше не трогайте глаза.
 
-ent-FoodChillyPepper = chilly pepper
-    .desc = Icy hot.
+ent-FoodChillyPepper = морозный перец
+    .desc = Ледяная жгучесть.
 
-ent-FoodAloe = aloe
-    .desc = A fragrant plant with soothing properties.
+ent-FoodAloe = алоэ
+    .desc = Душистое растение с успокаивающими свойствами.
 
-ent-FoodPoppy = poppy
-    .desc = A flower with extracts often used in the production of medicine.
+ent-FoodPoppy = мак
+    .desc = Цветок, экстракты которого часто используют для производства лекарств.
 
-ent-FoodLily = lily
-    .desc = A beautiful orange flower.
+ent-FoodLily = лилия
+    .desc = Красивый оранжевый цветок.
 
-ent-FoodLingzhi = lingzhi
-    .desc = A potent medicinal mushroom. Don't go overboard.
+ent-FoodLingzhi = линчжи
+    .desc = Сильнодействующий лекарственный гриб. Не переборщите.
 
-ent-FoodAmbrosiaVulgaris = ambrosia vulgaris
-    .desc = A medicinal plant. May make you feel a little funny.
+ent-FoodAmbrosiaVulgaris = амброзия вульгарис
+    .desc = Лекарственное растение. От него может стать немного странно.
 
-ent-FoodAmbrosiaDeus = ambrosia deus
-    .desc = An extremely sought-after medicinal plant. May have some funky side effects.
+ent-FoodAmbrosiaDeus = амброзия деус
+    .desc = Крайне востребованное лекарственное растение. Возможны необычные побочные эффекты.
 
-ent-FoodGalaxythistle = galaxythistle
-    .desc = A medicinal plant used for its antitoxin.
+ent-FoodGalaxythistle = галактический чертополох
+    .desc = Лекарственное растение, из которого получают противоядие.
 
-ent-FoodGlasstle = glasstle
-    .desc = A fragile crystal plant with lot of spiky thorns.
+ent-FoodGlasstle = стеклянный чертополох
+    .desc = Хрупкое кристаллическое растение с множеством острых шипов.
 
-ent-FoodFlyAmanita = fly amanita
-    .desc = A delicious-looking mushroom like you see in those cartoons.
+ent-FoodFlyAmanita = мухомор
+    .desc = Аппетитный на вид гриб, прямо как в мультиках.
 
-ent-FoodGatfruit = gatfruit
-    .desc = A delicious, gun-shaped fruit with a thick wooden stem.
+ent-FoodGatfruit = пушкоплод
+    .desc = Вкусный плод в форме пистолета с толстым древесным стеблем.
 
-ent-FoodRealCapfruit = capfruit
-    .desc = A soft but smooth gun-shaped fruit.
+ent-FoodRealCapfruit = пистоноплод
+    .desc = Мягкий, но гладкий плод в форме пистолета.
 
-ent-FoodFakeCapfruit = capfruit
+ent-FoodFakeCapfruit = пистоноплод
     .desc = { ent-FoodRealCapfruit.desc }
-    .suffix = Fake
+    .suffix = Подделка
 
-ent-RiceBushel = rice bushel
-    .desc = Can be ground into rice, perfect for pudding or sake.
+ent-RiceBushel = сноп риса
+    .desc = Можно перемолоть в рис. Идеально для пудинга или саке.
 
-ent-FoodSoybeans = soybeans
-    .desc = For those who can't stand seeing good old meat.
+ent-FoodSoybeans = соевые бобы
+    .desc = Для тех, кто не выносит вида старого доброго мяса.
 
-ent-FoodSpacemansTrumpet = spaceman's trumpet
-    .desc = A vivid flower that smells faintly of freshly cut grass. Touching the flower seems to stain the skin some time after contact, yet most other surfaces seem to be unaffected by this phenomenon.
+ent-FoodSpacemansTrumpet = труба космонавта
+    .desc = Яркий цветок с лёгким запахом свежескошенной травы. Похоже, он оставляет пятна на коже спустя некоторое время после прикосновения, но на большинстве других поверхностей ничего не происходит.
 
-ent-FoodKoibean = koibean
-    .desc = These beans seem a little bit fishy.
+ent-FoodKoibean = кои-боб
+    .desc = В этих бобах есть что-то рыбное.
 
-ent-FoodWatermelon = watermelon
-    .desc = Round green object that you can slice and eat.
+ent-FoodWatermelon = арбуз
+    .desc = Круглый зелёный предмет. Можно нарезать и съесть.
 
-ent-FoodWatermelonSlice = watermelon slice
-    .desc = Juicy green and red slice.
+ent-FoodWatermelonSlice = ломтик арбуза
+    .desc = Сочный зелёно-красный ломтик.
 
-ent-FoodHolymelon = holymelon
-    .desc = The water within this melon has been blessed by some deity that's particularly fond of watermelon.
+ent-FoodHolymelon = священный арбуз
+    .desc = Воду в этом арбузе благословило некое божество, особенно любящее арбузы.
 
-ent-FoodHolymelonSlice = holymelon slice
-    .desc = Juicy golden and red slice.
+ent-FoodHolymelonSlice = ломтик священного арбуза
+    .desc = Сочный золото-красный ломтик.
 
-ent-FoodGrape = grapes
-    .desc = The food of emperors, Space France inhabitants (usually as wine) and soccer moms. One day it could be used in wine production for the bartender if he ever runs out.
+ent-FoodGrape = виноград
+    .desc = Еда императоров, жителей Космической Франции (обычно в виде вина) и мам юных футболистов. Когда-нибудь из него можно будет сделать вино для бармена, если у того закончатся запасы.
 
-ent-FoodBerries = berries
-    .desc = A handful of various types of berries.
+ent-FoodBerries = ягоды
+    .desc = Горсть разных ягод.
 
-ent-FoodBungo = bungo fruit
-    .desc = The humble bungo fruit.
+ent-FoodBungo = плод бунго
+    .desc = Скромный плод бунго.
 
-ent-FoodBungoPit = bungo pit
+ent-FoodBungoPit = косточка бунго
     .desc = { ent-FoodUnperishableInjectableBase.desc }
 
-ent-FoodPeaPod = pea pod
-    .desc = A duck's favorite treat!
+ent-FoodPeaPod = стручок гороха
+    .desc = Любимое лакомство уток!
 
-ent-FoodWorldPeas = cluster of world peas
-    .desc = It's rumored to bring peace to any who consume it.
+ent-FoodWorldPeas = кластер всемирного гороха
+    .desc = Говорят, он приносит покой каждому, кто его съест.
 
-ent-FoodPumpkin = pumpkin
-    .desc = A large, orange... berry. Seriously.
+ent-FoodPumpkin = тыква
+    .desc = Большая оранжевая... ягода. Серьёзно.
 
-ent-FoodBluePumpkin = blue pumpkin
-    .desc = A large, blue... berry. Seriously.
+ent-FoodBluePumpkin = синяя тыква
+    .desc = Большая синяя... ягода. Серьёзно.
 
-ent-CottonBol = cotton boll
-    .desc = Moth people's favorite snack, and just as fluffy as them.
+ent-CottonBol = коробочка хлопчатника
+    .desc = Любимое лакомство нианов. Такое же пушистое, как они сами.
 
-ent-PyrottonBol = pyrotton boll
-    .desc = This will probably set you on fire.
+ent-PyrottonBol = коробочка огнехлопчатника
+    .desc = Это, скорее всего, вас подожжёт.
 
-ent-FoodCherry = cherry
-    .desc = Juicy red cherry with a pit inside.
+ent-FoodCherry = вишня
+    .desc = Сочная красная вишня с косточкой внутри.
 
-ent-TrashCherryPit = cherry pit
+ent-TrashCherryPit = вишнёвая косточка
     .desc = { ent-FoodUnperishableInjectableBase.desc }
 
-ent-FoodAnomalyBerry = anomaly berry
-    .desc = A strange blue fruit. Something about it doesn't seem right.
+ent-FoodAnomalyBerry = аномальная ягода
+    .desc = Странный синий плод. Что-то с ним явно не так.
 
-ent-FoodBloonion = bloonion bulb
-    .desc = A strange floating bulb.. Nothing worth crying over.
+ent-FoodBloonion = луковица шаролука
+    .desc = Странная парящая луковица.. Плакать не о чем.

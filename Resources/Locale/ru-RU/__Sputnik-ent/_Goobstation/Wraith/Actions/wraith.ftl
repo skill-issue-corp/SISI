@@ -7,71 +7,71 @@ ent-BaseCorporealWraithAction = { ent-BaseWraithAction }
 ent-ActionToggleGhostHearingWraith = { ent-ActionToggleGhostHearing }
     .desc = { ent-ActionToggleGhostHearing.desc }
 
-ent-ActionHaunt = Haunt
-    .desc = Become corporeal for 30 seconds. During this time, you gain additional wraith points, depending on the amount of humans in your vicinity. Use this ability again while corporeal to fade back into the aether.
+ent-ActionHaunt = Явление
+    .desc = Станьте материальным на 30 секунд. За это время вы получаете дополнительные очки фантома в зависимости от числа людей поблизости. Используйте способность повторно, чтобы раствориться в эфире.
 
-ent-ActionWhisper = Whisper
-    .desc = Send an ethereal message to a living being.
+ent-ActionWhisper = Шёпот
+    .desc = Пошлите эфирное послание живому существу.
 
-ent-ActionBloodWriting = Blood Writing
-    .desc = Write a spooky character on the ground.
+ent-ActionBloodWriting = Письмена Кровью
+    .desc = Начертите на полу жуткий знак.
 
-ent-ActionAbsorbCorpse = Absorb corpse
-    .desc = Steal life essence from a corpse. You cannot use this on a skeleton!
+ent-ActionAbsorbCorpse = Поглотить труп
+    .desc = Украдите жизненную эссенцию из трупа. На скелетах это не работает!
 
-ent-ActionSpook = Spook
-    .desc = Cause freaky, weird, creepy or spooky stuff to happen in an area around you. Use this ability to spawn an entity as the origin of these events, then interact with it to select which action to use.
+ent-ActionSpook = Испуг
+    .desc = Вызовите странные, жуткие и пугающие явления вокруг себя. Способность создаёт источник этих событий. Взаимодействуйте с ним, чтобы выбрать действие.
 
-ent-ActionDecay = Decay
-    .desc = Cause a human to lose stamina, or an object to malfunction.
+ent-ActionDecay = Разложение
+    .desc = Истощите выносливость человека или выведите из строя предмет.
 
-ent-ActionCommand = Command
-    .desc = Command a few objects to hurl themselves at the target location.
+ent-ActionCommand = Командование
+    .desc = Прикажите нескольким предметам броситься в указанное место.
 
-ent-ActionAnimateObject = Animate object
-    .desc = Animate an inanimate object to attack nearby humans.
+ent-ActionAnimateObject = Оживить предмет
+    .desc = Оживите неодушевлённый предмет, чтобы он напал на людей поблизости.
 
-ent-ActionPossessObject = Possess object
-    .desc = Possess and control an everyday object. Freakout level high.
+ent-ActionPossessObject = Вселиться в предмет
+    .desc = Вселитесь в обычный предмет и управляйте им. Уровень жути высокий.
 
-ent-ActionWraithEvolve = Evolve
-    .desc = Choose a form to evolve into.
+ent-ActionWraithEvolve = Эволюционировать
+    .desc = Выберите форму для эволюции.
 
-ent-ActionRaiseSkeleton = Raise skeleton
-    .desc = Raise a skeletonized dead body or fill a locker with an indurable skeletal servant.
+ent-ActionRaiseSkeleton = Поднять скелет
+    .desc = Оживите скелетированный труп или поместите в шкаф хрупкого скелета-слугу.
 
-ent-ActionSummonVoidPortal = Summon void portal
-    .desc = Summon a void portal from which otherworldly creatures pour out.
+ent-ActionSummonVoidPortal = Призвать портал пустоты
+    .desc = Призовите портал пустоты, из которого хлынут потусторонние твари.
 
-ent-ActionSummonVoidCreature = Summon void creatures
-    .desc = Attempt to breach the veil between worlds to allow a lesser void creature to enter this realm.
+ent-ActionSummonVoidCreature = Призвать тварей пустоты
+    .desc = Попробуйте пробить завесу между мирами и впустить в этот мир малую тварь пустоты.
 
-ent-ActionMakeRevenant = Make revenant
-    .desc = Take control of an intact corpse as a powerful Revenant! You will not be able to absorb this corpse later. As a revenant, you gain increased point generation, but your revenant abilities cost much more points than normal.
+ent-ActionMakeRevenant = Стать ревенантом
+    .desc = Захватите целый труп и станьте могущественным Ревенантом! Поглотить этот труп позднее не получится. В облике ревенанта вы быстрее получаете очки, но его способности обходятся намного дороже обычных.
 
 ent-BaseCurseAction = { ent-BaseWraithAction }
     .desc = { ent-BaseWraithAction.desc }
 
-ent-ActionCurseBlindness = Curse of blindness
-    .desc = Curse the living with blindness.
+ent-ActionCurseBlindness = Проклятие слепоты
+    .desc = Поразите живых слепотой.
 
-ent-ActionCurseWeakness = Curse of weakness
-    .desc = Curse the living with weakness. Applies slowdown and makes the target feel dizzy.
+ent-ActionCurseWeakness = Проклятие слабости
+    .desc = Поразите живых слабостью. Замедляет цель и вызывает головокружение.
 
-ent-ActionCurseBlood = Curse of blood
-    .desc = Curse the living with a plague of blood.
+ent-ActionCurseBlood = Проклятие крови
+    .desc = Поразите живых кровавой чумой.
 
-ent-ActionCurseRot = Curse of rot
-    .desc = Curse the living with a netherworldly plague.
+ent-ActionCurseRot = Проклятие гнили
+    .desc = Поразите живых потусторонней чумой.
 
-ent-ActionCurseDeath = Curse of death
-    .desc = Reap a fully cursed being's soul!
+ent-ActionCurseDeath = Проклятие смерти
+    .desc = Пожните душу существа, на которое наложены все проклятия!
 
-ent-ActionDefile = Defile
-    .desc = Manifest some horrible poison inside a food item or a container. Use on self first to choose chemical.
+ent-ActionDefile = Осквернить
+    .desc = Создайте жуткий яд в пище или ёмкости. Сначала примените способность на себе, чтобы выбрать реагент.
 
-ent-ActionSummonPlagueRat = Summon Plague rat
-    .desc = Attempt to breach the veil between worlds to allow a plague rat to enter this realm.
+ent-ActionSummonPlagueRat = Призвать Чумную крысу
+    .desc = Попробуйте пробить завесу между мирами и впустить в этот мир чумную крысу.
 
-ent-ActionSummonRotHulk = Summon Rot Hulk
-    .desc = Assimilate the filth in an area and create an unstable servant.
+ent-ActionSummonRotHulk = Призвать Гнилого Гиганта
+    .desc = Соберите грязь поблизости и создайте нестабильного слугу.

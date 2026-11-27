@@ -1,4 +1,4 @@
 command-description-acmd-perms =
-    Returns the admin permissions of the given command, if any.
+    Возвращает административные разрешения, необходимые для указанной команды, если они есть.
 command-description-acmd-caninvoke =
-    Check if the given player can invoke the given command.
+    Проверяет, может ли указанный игрок выполнить заданную команду.

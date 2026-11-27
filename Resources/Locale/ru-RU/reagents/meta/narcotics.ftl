@@ -1,52 +1,52 @@
-reagent-name-desoxyephedrine = desoxyephedrine
-reagent-desc-desoxyephedrine = A more effective ephedrine, with more active downsides. Requires less doses to cure narcolepsy. Explodes if you heat it to 420K!
+reagent-name-desoxyephedrine = дезоксиэфедрин
+reagent-desc-desoxyephedrine = Более эффективная версия эфедрина с более сильными побочными эффектами. Для лечения нарколепсии нужно меньше препарата. Взрывается при нагревании до 420К!
 
-reagent-name-ephedrine = ephedrine
-reagent-desc-ephedrine = A caffeinated adrenaline stimulator chemical that makes you faster and harder to knock down. Also helps combat narcolepsy at dosages over thirty, at the cost of severe nerval stress.
+reagent-name-ephedrine = эфедрин
+reagent-desc-ephedrine = Кофеиновый стимулятор выработки адреналина. Ускоряет движения и помогает держаться на ногах. В дозах свыше тридцати помогает бороться с нарколепсией ценой сильной нагрузки на нервную систему.
 
-reagent-name-stimulants = hyperzine
-reagent-desc-stimulants = A chemical cocktail developed by Donk Co. that allows agents to recover from stuns faster, move more quickly, and grants a small heal when you're more dead than alive.
+reagent-name-stimulants = гиперзин
+reagent-desc-stimulants = Коктейль веществ от Donk Co. Он позволяет агентам быстрее приходить в себя после оглушения, быстрее двигаться и немного подлечивает тех, кто скорее мёртв, чем жив.
 
-reagent-name-experimental-stimulants = experimental stimulants
-reagent-desc-experimental-stimulants = A prototype version of hyperzine. Usage grants virtual immunity to stun weaponry, rapid tissue regeneration, extreme running speed by reducing lactic acid buildup, and a general feeling of euphoria. Side effects may include extreme levels of anticoagulation, tunnel vision, extreme toxin buildup in the bloodstream, and rapid liver death. Do not give to animals.
+reagent-name-experimental-stimulants = экспериментальные стимуляторы
+reagent-desc-experimental-stimulants = Прототип гиперзина. Даёт почти полный иммунитет к оглушающему оружию, быстро восстанавливает ткани, резко повышает скорость бега за счёт замедления накопления молочной кислоты и вызывает эйфорию. Побочные эффекты могут включать резкое снижение свёртываемости крови, туннельное зрение, скопление токсинов в крови и быстрое отмирание печени. Не давать животным.
 
-reagent-name-thc = THC
-reagent-desc-thc = The main psychoactive compound in cannabis.
+reagent-name-thc = ТГК
+reagent-desc-thc = Основное психоактивное соединение каннабиса.
 
-reagent-name-bananadine = bananadine
-reagent-desc-bananadine = A mild psychedelic that is found in small traces in banana peels.
+reagent-name-bananadine = бананадин
+reagent-desc-bananadine = Слабый психоделик, который в следовых количествах содержится в банановой кожуре.
 
-reagent-name-nicotine = nicotine
-reagent-desc-nicotine = Dangerous and highly addictive, but that's what the propaganda says.
+reagent-name-nicotine = никотин
+reagent-desc-nicotine = Опасен и вызывает сильное привыкание, но так говорит пропаганда.
 
-reagent-name-impedrezene = impedrezene
-reagent-desc-impedrezene = A narcotic that impedes one's ability by slowing down the higher brain cell functions.
+reagent-name-impedrezene = импедрезен
+reagent-desc-impedrezene = Наркотик, который подавляет способности, замедляя высшие функции клеток мозга.
 
-reagent-name-space-drugs = space mirage
-reagent-desc-space-drugs = An illegal compound which induces a number of effects such as loss of balance and visual artefacts.
+reagent-name-space-drugs = космический мираж
+reagent-desc-space-drugs = Запрещённое соединение, которое среди прочего вызывает потерю равновесия и зрительные искажения.
 
-reagent-name-nocturine = nocturine
-reagent-desc-nocturine = A highly effective sedative and hypnotic, developed by the Syndicate for stealth operations. One-way ticket to honk-shoo town.
+reagent-name-nocturine = ноктюрин
+reagent-desc-nocturine = Эффективное седативное и снотворное от Синдиката для скрытных операций. Билет в один конец в страну «хонк-хр-р».
 
-reagent-name-mute-toxin = mute toxin
-reagent-desc-mute-toxin = A thick chemical that coats the vocal cords, making the user unable to speak during metabolization.
+reagent-name-mute-toxin = токсин немоты
+reagent-desc-mute-toxin = Густое вещество, которое обволакивает голосовые связки, лишая человека речи, пока организм его усваивает.
 
-reagent-name-norepinephric-acid = norepinephric acid
-reagent-desc-norepinephric-acid = A smooth chemical that blocks the optical receptors, rendering the user blind during metabolization.
+reagent-name-norepinephric-acid = норэпинефрическая кислота
+reagent-desc-norepinephric-acid = Однородное вещество, блокирующее зрительные рецепторы и лишающее зрения, пока организм его усваивает.
 
-reagent-name-tear-gas = tear gas
-reagent-desc-tear-gas = A chemical that causes severe irritation and crying, commonly used in riot control.
+reagent-name-tear-gas = слезоточивый газ
+reagent-desc-tear-gas = Вещество, вызывающее сильное раздражение и слезотечение. Часто используется для подавления беспорядков.
 
-reagent-name-happiness = happiness
-reagent-desc-happiness = Fills you with ecstatic numbness and causes minor brain damage. Highly addictive. If overdosed causes sudden mood swings.
+reagent-name-happiness = счастье
+reagent-desc-happiness = Наполняет блаженным онемением и слегка повреждает мозг. Вызывает сильную зависимость. Передозировка вызывает резкие перепады настроения.
 
-reagent-name-Hydroxysomnolene = Hydroxysomnolene
+reagent-name-Hydroxysomnolene = Гидроксисомнолен
 # Trauma - added mention of poison and heart attack
-reagent-desc-Hydroxysomnolene = Byproduct of Methylenedioxystraquinone (aka Strawberry Ice) when metabolized. It binds to the newly vacant neuroreceptors in the brain after Methylenedioxystraquinone is flushed out of the system, causing slowness and drowsiness at low amounts, poison at higher amounts, and heart attacks if you go too far. The only ways to reduce its effects is to either wait it out, or take another hit of that strawberry goodness...
+reagent-desc-Hydroxysomnolene = Побочный продукт метаболизма Метилендиоксистрахинона (он же Клубничный Лёд). Когда Метилендиоксистрахинон выводится из организма, вещество связывается с освободившимися рецепторами мозга. Малые дозы вызывают вялость и сонливость, большие — отравление, а чрезмерные — сердечные приступы. Можно лишь переждать действие или принять ещё порцию этой клубничной прелести...
 
-reagent-name-StrawberryIce = Methylenedioxystraquinone
+reagent-name-StrawberryIce = Метилендиоксистрахинон
 # Trauma - added mention of heart attack
-reagent-desc-StrawberryIce = A special drug designed to be even stronger than Desoxyephedrine. Known as "Strawberry Ice" or "Girl Ice" given its color and flavor, it is incredibly addictive and comes with strong withdrawal symptoms. While the highs are higher and users report flying in rainbows through space while under its influence, near-eternal horrors and a heart attack await those who cease consuming it.
+reagent-desc-StrawberryIce = Особый наркотик, разработанный как более сильная версия Дезоксиэфедрина. Из-за цвета и вкуса его называют «Клубничный Лёд» или «Девичий Лёд». Вызывает сильнейшую зависимость и тяжёлую ломку. Приход сильнее, и под действием наркотика люди рассказывают, как летают на радугах по космосу. А тех, кто бросит, ждут почти вечные ужасы и сердечный приступ.
 
-reagent-name-nyctalon = nyctalon
-reagent-desc-nyctalon = An irradiated medicine derived from oculine, this drug stimulates the rod and cone cells of the user's retina, enabling excellent night vision. This comes at a consequence of mild radiation sickness.
+reagent-name-nyctalon = никталон
+reagent-desc-nyctalon = Облучённое лекарство на основе окулина. Стимулирует палочки и колбочки сетчатки, обеспечивая отличное ночное зрение ценой лёгкой лучевой болезни.

@@ -1,131 +1,131 @@
 # Poggers examine system
 
-examine-name = It's [bold]{$name}[/bold]!
-examine-name-selfaware = It's you!
-examine-can-see = Looking at {OBJECT($ent)}, you can see:
-examine-can-see-nothing = {CAPITALIZE(SUBJECT($ent))}'s completely naked!
+examine-name = Это [bold]{$name}[/bold]!
+examine-name-selfaware = Это вы!
+examine-can-see = Осматривая {OBJECT($ent)}, вы видите:
+examine-can-see-nothing = {CAPITALIZE(SUBJECT($ent))} совсем без одежды!
 examine-border-line = ═════════════════════
-examine-present-tex = This is a [enttex id={$id} size={ $size }/] [bold]{$name}[/bold]!
-examine-present = This is a [bold]{$name}[/bold]!
+examine-present-tex = Это [enttex id={$id} size={ $size }/] [bold]{$name}[/bold]!
+examine-present = Это [bold]{$name}[/bold]!
 examine-present-line = ═══
 
 # TODO: change this dogshit to just map from item slot to string and do the formatting separately
-id-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+id-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} belt.
-head-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+} на {POSS-ADJ($ent)} поясе.
+head-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} head.
-eyes-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+} на {POSS-ADJ($ent)} голове.
+eyes-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} eyes.
-mask-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+} на {POSS-ADJ($ent)} глазах.
+mask-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} face.
-neck-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+} на {POSS-ADJ($ent)} лице.
+neck-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} neck.
-ears-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+} на {POSS-ADJ($ent)} шее.
+ears-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} ears.
-jumpsuit-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+} на {POSS-ADJ($ent)} ушах.
+jumpsuit-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} {SUBJECT($ent)} is wearing.
-outer-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+} {SUBJECT($ent)} носит в качестве формы.
+outer-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} body.
-suitstorage-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+} на {POSS-ADJ($ent)} теле.
+suitstorage-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} shoulder.
-back-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+} на {POSS-ADJ($ent)} плече.
+back-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} back.
-gloves-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+} на {POSS-ADJ($ent)} спине.
+gloves-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} hands.
-belt-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+} на {POSS-ADJ($ent)} руках.
+belt-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} belt.
-shoes-examine = • {CAPITALIZE(POSS-ADJ($ent))} { $id ->
+} на {POSS-ADJ($ent)} поясе.
+shoes-examine = • {CAPITALIZE(POSS-ADJ($ent))} снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on {POSS-ADJ($ent)} feet.
+} на {POSS-ADJ($ent)} ногах.
 
-id-card-examine-full = • {CAPITALIZE(POSS-ADJ($wearer))} ID: [bold]{$nameAndJob}[/bold].
+id-card-examine-full = • {CAPITALIZE(POSS-ADJ($wearer))} УДОСТОВЕРЕНИЕ: [bold]{$nameAndJob}[/bold].
 
 # Selfaware version
 
-examine-can-see-selfaware = Looking at yourself, you can see:
-examine-can-see-nothing-selfaware = You are completely naked!
+examine-can-see-selfaware = Осмотрев себя, вы видите:
+examine-can-see-nothing-selfaware = На вас совсем нет одежды!
 
-id-examine-selfaware = • Your { $id ->
+id-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on your belt.
-head-examine-selfaware = • Your { $id ->
+} на вашем поясе.
+head-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on your head.
-eyes-examine-selfaware = • Your { $id ->
+} на вашей голове.
+eyes-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on your eyes.
-mask-examine-selfaware = • Your { $id ->
+} на ваших глазах.
+mask-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on your face.
-neck-examine-selfaware = • Your { $id ->
+} на вашем лице.
+neck-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on your neck.
-ears-examine-selfaware = • Your { $id ->
+} на вашей шее.
+ears-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on your ears.
-jumpsuit-examine-selfaware = • Your { $id ->
+} на ваших ушах.
+jumpsuit-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} you are wearing.
-outer-examine-selfaware = • Your { $id ->
+} на вас в качестве формы.
+outer-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on your body.
-suitstorage-examine-selfaware = • Your { $id ->
+} на вашем теле.
+suitstorage-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on your shoulder.
-back-examine-selfaware = • Your { $id ->
+} на вашем плече.
+back-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on your back.
-gloves-examine-selfaware = • Your { $id ->
+} на вашей спине.
+gloves-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on your hands.
-belt-examine-selfaware = • Your { $id ->
+} на ваших руках.
+belt-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on your belt.
-shoes-examine-selfaware = • Your { $id ->
+} на вашем поясе.
+shoes-examine-selfaware = • Ваше снаряжение: { $id ->
      [empty] [bold]{$item}[/bold]
     *[other] [enttex id={$id} size={ $size }/][bold]{$item}[/bold]
-} on your feet.
+} на ваших ногах.
 
 # Selfaware examine
 
-comp-hands-examine-empty-selfaware = You are not holding anything.
-comp-hands-examine-selfaware = You are holding { $items }.
+comp-hands-examine-empty-selfaware = В руках у вас ничего нет.
+comp-hands-examine-selfaware = Вы держите { $items }.
 
-humanoid-appearance-component-examine-selfaware = You are { INDEFINITE($age) } { $age } { $species }.
+humanoid-appearance-component-examine-selfaware = Вы - { $age } { $species }.

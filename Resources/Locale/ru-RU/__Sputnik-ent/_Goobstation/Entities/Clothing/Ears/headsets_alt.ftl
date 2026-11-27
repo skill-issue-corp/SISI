@@ -1,27 +1,27 @@
 ent-ClothingHeadsetAltLoudspeaker = { ent-ClothingHeadsetAlt }
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetAltSyndicateCommander = blood-red commander over-ear headset
+ent-ClothingHeadsetAltSyndicateCommander = кроваво-красная полноразмерная гарнитура командира
     .desc = { ent-ClothingHeadsetAltSyndicate.desc }
 
-ent-ClothingHeadsetChronolegioneer = futuristic over-ear headset
-    .desc = A headset from the future that can pick up most station frequencies.
+ent-ClothingHeadsetChronolegioneer = футуристичная полноразмерная гарнитура
+    .desc = Гарнитура из будущего, способная принимать большинство станционных частот.
 
 ent-ClothingHeadsetChronolegioneerUnremoveable = { ent-ClothingHeadsetChronolegioneer }
     .desc = { ent-ClothingHeadsetChronolegioneer.desc }
-    .suffix = Unremoveable
+    .suffix = Несъёмный
 
-ent-ClothingHeadsetAltWarden = warden's over-ear headset
-    .desc = An updated, modular intercom, allowing for rapid communication with command personnel.
+ent-ClothingHeadsetAltWarden = полноразмерная гарнитура смотрителя
+    .desc = Усовершенствованная модульная гарнитура для быстрой связи с командованием.
 
-ent-ClothingHeadsetDeathsquad = deathsquad over-ear headset
+ent-ClothingHeadsetDeathsquad = полноразмерная гарнитура эскадрона смерти
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetAltSecurityRegular = security over-ear headset
+ent-ClothingHeadsetAltSecurityRegular = полноразмерная гарнитура службы безопасности
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetCommandService = command-service headset
-    .desc = A headset with a command and service channels.
+ent-ClothingHeadsetCommandService = командно-сервисная гарнитура
+    .desc = Гарнитура с каналами командования и сервиса.
 
-ent-ClothingHeadsetAltRadioHost = radio host's over-ear headset
-    .desc = An over-ear headset with extra foam padding around the ears.
+ent-ClothingHeadsetAltRadioHost = полноразмерная гарнитура радиоведущего
+    .desc = Полноразмерная гарнитура с дополнительными поролоновыми накладками вокруг ушей.

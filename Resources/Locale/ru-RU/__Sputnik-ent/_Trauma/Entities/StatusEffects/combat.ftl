@@ -1,14 +1,14 @@
-ent-StatusEffectFlip = flip
+ent-StatusEffectFlip = сальто
     .desc = { ent-StatusEffectBase.desc }
 
-ent-StatusEffectProjectileImmunity = dodge bullets
+ent-StatusEffectProjectileImmunity = уклонение от пуль
     .desc = { ent-StatusEffectBase.desc }
 
-ent-StatusEffectFlipDesword = flip and dodge
+ent-StatusEffectFlipDesword = сальто и уклонение
     .desc = { ent-StatusEffectSpeed.desc }
 
-ent-CounterAttackingStatusEffect = counter attacking
+ent-CounterAttackingStatusEffect = контратака
     .desc = { ent-StatusEffectBase.desc }
 
-ent-BlockCounterAttackStatusEffect = counter attacking blocked
+ent-BlockCounterAttackStatusEffect = контратака недоступна
     .desc = { ent-StatusEffectBase.desc }

@@ -1,256 +1,256 @@
-knowledge-passive-upgrade-name-2 = Upgrade passive ability (Tier 2)
-knowledge-passive-upgrade-name-3 = Upgrade passive ability (Tier 3)
+knowledge-passive-upgrade-name-2 = Улучшить пассивную способность (Уровень 2)
+knowledge-passive-upgrade-name-3 = Улучшить пассивную способность (Уровень 3)
 
-knowledge-path-side-knowledge-name = Ritual of Knowledge
+knowledge-path-side-knowledge-name = Ритуал Знания
 knowledge-path-side-knowledge-desc =
-    Everything can be a key to unlocking the secrets behind the Gates. I must be wary and wise.
+    Всё может стать ключом к тайнам за Вратами. Мне нужно быть осторожным и мудрым.
 
-    You learn a special, one-time-only ritual that requires 3 different items.
-    Performing this ritual instantly grants you 2 knowledge points and 2 side points.
-    Unlocks tier 3 passive ability upgrade when performed.
+    Вы изучаете особый одноразовый ритуал, для которого нужны 3 разных предмета.
+    Он мгновенно даёт вам 2 очка знания и 2 очка побочного знания.
+    Проведение ритуала открывает 3 уровень пассивной способности.
 
 ## T1
-knowledge-path-side-t1-flask-name = Priest's Ritual
+knowledge-path-side-t1-flask-name = Ритуал Жреца
 knowledge-path-side-t1-flask-desc =
-    This is an old recipe. The Owl whispered it to me. Created by the Priest - the Liquid that both was and is not.
+    Это старый рецепт. Его шепнула мне Сова. Созданная Жрецом Жидкость, что одновременно была и не существует.
 
-    Allows you to transmute a tank of water or welding fuel and a glass shard into a Flask of Eldritch Essence.
-    Eldritch water can be consumed for potent healing.
+    Позволяет превратить бак воды или сварочного топлива и осколок стекла во Флягу Потусторонней Эссенции.
+    Если выпить потустороннюю воду, она мощно исцеляет.
 
-knowledge-path-side-t1-ashen-eyes-name = Ashen Eyes
+knowledge-path-side-t1-ashen-eyes-name = Пепельные Глаза
 knowledge-path-side-t1-ashen-eyes-desc =
-    Piercing eyes guided them through the mundane. Neither darkness nor terror could stop them.
+    Пронзительные глаза вели их сквозь обыденный мир. Ни тьма, ни ужас не могли их остановить.
 
-    Allows you to transmute a pair of eyes, a flare, and a glass shard into an Eldritch Medallion.
-    The Eldritch Medallion grants you thermal vision while worn, and also functions as a focus.
+    Позволяет превратить пару глаз, сигнальный огонь и осколок стекла в Потусторонний Медальон.
+    Потусторонний Медальон даёт тепловое зрение, пока вы его носите, а также служит фокусом.
 
-knowledge-path-side-t1-void-cloak-name = Void Cloak
+knowledge-path-side-t1-void-cloak-name = Плащ Пустоты
 knowledge-path-side-t1-void-cloak-desc =
-    The Owl is the keeper of things that are not quite in practice, but in theory are. Many things are.
+    Сова хранит то, чего на деле будто бы нет, но что существует в теории. Таких вещей немало.
 
-    Allows you to transmute a glass shard, a bedsheet, and any winter coat to create a Void Cloak.
-    While the hood is down, the cloak functions as a focus and provides low pressure and low temperature protection, and while the hood is up, the cloak is completely invisible.
-    It also provides decent armor and has pockets which can hold one of your blades, various ritual components (such as organs), and small heretical trinkets.
+    Позволяет превратить осколок стекла, простыню и любое зимнее пальто в Плащ Пустоты.
+    С опущенным капюшоном плащ служит фокусом и защищает от низкого давления и низкой температуры. С поднятым капюшоном плащ становится полностью невидимым.
+    Он также даёт неплохую защиту, а в карманы помещаются один из ваших клинков, разные компоненты ритуалов (например, органы) и мелкие еретические безделушки.
 
-knowledge-path-side-t1-shark-name = Scorching Shark
+knowledge-path-side-t1-shark-name = Испепеляющая Акула
 knowledge-path-side-t1-shark-desc =
-    The cradle of the nebula was cold, but not dead. Light and heat flits even through the deepest darkness, and is hunted by its own predators.
+    Колыбель туманности была холодна, но не мертва. Свет и тепло мелькают даже в непроглядной тьме, и у них тоже есть хищники.
 
-    Allows you to transmute three piles of ash, a liver, and three sheets of phoron into three Fire Sharks.
-    Fire Sharks are fast and strong in groups, but die quickly. They are also highly resistant against fire attacks.
-    Fire Sharks ignite their victims and drop phoron sheet once they die.
-    You can only create six at a time.
+    Позволяет превратить три кучки пепла, печень и три листа форона в трёх Огненных Акул.
+    Огненные Акулы быстры и сильны в группе, но быстро гибнут. Они очень устойчивы к огненным атакам.
+    Огненные Акулы поджигают жертв, а после смерти оставляют лист форона.
+    Одновременно можно иметь не больше шести.
 
-knowledge-path-side-t1-ether-name = Ether Of The Newborn
+knowledge-path-side-t1-ether-name = Эфир Новорождённого
 knowledge-path-side-t1-ether-desc =
-    Vision and thought grow hazy as the fumes of this ichor swirl up to meet me.
-    Through the haze, I find myself staring back in relief, or something grossly resembling my visage.
-    It is this wretched thing that I consign to my fate, and whose own that I snatch through the haze of dreams. Fools that we are.
+    Видения и мысли туманятся, когда пары этой сукровицы поднимаются мне навстречу.
+    Сквозь туман я вижу, как с облегчением смотрю сам на себя, или же на меня смотрит нечто, мерзко похожее на меня.
+    Этой жалкой твари я отдаю свою судьбу, а её судьбу вырываю из тумана снов. Какие же мы глупцы.
 
-    Transmutes a pool of vomit and a shard into a single use potion,
-    drinking it will remove any sort of abnormality from your body including diseases and traumas.
-    on top of restoring it to full health, at the cost of losing consciousness for an entire minute.
+    Превращает лужу рвоты и осколок в одноразовое зелье.
+    если его выпить, оно устраняет все нарушения в организме, включая болезни и травмы,
+    и полностью восстанавливает здоровье, но вы теряете сознание на целую минуту.
 
-knowledge-path-side-t1-realignment-name = Realignment
+knowledge-path-side-t1-realignment-name = Восстановление
 knowledge-path-side-t1-realignment-desc =
-    Seven times seven techniques were made in Eternal War. These parts of the doctrine contain enough to crush anyone.
+    Семью семь приёмов было создано в Вечной Войне. Этих частей учения хватит, чтобы сокрушить любого.
 
-    Grants you Realignment a spell that will remove stuns, knockdowns and restraints from you and realign your body rapidly for a short period.
-    During this process, you will rapidly regenerate stamina and quickly recover from stuns, however, you will be unable to attack.
-    Doesn't require focus to cast.
+    Даёт Восстановление, заклинание, которое снимает оглушение, поднимает вас на ноги, освобождает от оков и ненадолго ускоряет восстановление тела.
+    В это время вы быстро восстанавливаете выносливость и приходите в себя после оглушения, но не можете атаковать.
+    Для применения не нужен фокус.
 
-knowledge-path-side-t1-mask-name = Mask of Madness
+knowledge-path-side-t1-mask-name = Маска Безумия
 knowledge-path-side-t1-mask-desc =
-    Fear pierces you to your core, every instinct screams to tear your gaze away, but it is too late...
-    A single thought drowns out all reason, bursting forth from the depth of your mind:
-    "Why? Why was I cursed with sight to witness this?"
+    Страх пронзает вас до глубины души. Всё естество велит отвести взгляд, но уже поздно...
+    Одна мысль заглушает голос разума и вырывается из глубин сознания:
+    «За что? За что мне проклятие зрения, чтобы это увидеть?»
 
-    Allows you to transmute any mask, a stun baton, and a liver to create a Mask of Madness.
-    The mask protects you from bright flashes and instills extreme fear into heathens who witness it,
-    making them perceive everyone as a person who wears the mask.
-    It can be toggled to give you night vision instead, disabling fear and eye protection.
-    It can also be forced onto a heathen, to make them unable to take it off...
+    Позволяет превратить любую маску, оглушающую дубинку и печень в Маску Безумия.
+    Маска защищает вас от ярких вспышек и повергает увидевших её язычников в ужас,
+    заставляя их видеть маску на каждом встречном.
+    Можно переключить её на ночное зрение, отключив страх и защиту глаз.
+    Маску также можно силой надеть на язычника, и он не сможет её снять...
 
-knowledge-path-side-t1-coin-name = Eldritch Coin
+knowledge-path-side-t1-coin-name = Потусторонняя Монета
 knowledge-path-side-t1-coin-desc =
-    The Mansus is a place of all sorts of sins. But greed held a special role.
+    Мансус — обитель всевозможных грехов. Но алчности там отведена особая роль.
 
-    Allows you to transmute a bar of silver or gold to create an Eldritch Coin.
-    The coin will open or close nearby doors when landing on heads and toggle their bolts when landing on tails.
+    Позволяет превратить слиток серебра или золота в Потустороннюю Монету.
+    Если выпадет орёл, монета откроет или закроет ближайшие двери. Если выпадет решка, она переключит их болты.
 
-knowledge-path-side-t1-ice-spear-name = Mysteries of Creation
+knowledge-path-side-t1-ice-spear-name = Тайны Творения
 knowledge-path-side-t1-ice-spear-desc =
-    Artifacts linked to the Winter Dawn exude unnatural stillness. Time slows around them. Fires choke. Thoughts become brittle. Proximity breeds hallucinations of endless white fields, a sky with no sun, and a voice that speaks only in cracking ice.
+    Артефакты, связанные с Зимним Рассветом, источают неестественный покой. Время вокруг них замедляется. Огонь гаснет. Мысли становятся хрупкими. Рядом с ними мерещатся бескрайние белые поля, небо без солнца и голос, говорящий одним треском льда.
 
-    Allows you to transmute a spear in a cold environment to create Glacier Spear. This magical spear chills victims
-    upon hit, but more importantly, it shatters upon throwing, dealing a significant amount of damage and temporarily freezing the target into an ice cube.
-    Spear can be freely recalled in your hand unless it is destroyed.
+    Позволяет превратить копьё на холоде в Ледниковое Копьё. Это волшебное копьё охлаждает жертв
+    при попадании, а при броске разлетается вдребезги, нанося большой урон и ненадолго превращая цель в глыбу льда.
+    Пока копьё цело, его можно в любой момент вернуть себе в руку.
 
-knowledge-path-side-t1-curio-name = Unfatomable Curio
+knowledge-path-side-t1-curio-name = Непостижимая Диковина
 knowledge-path-side-t1-curio-desc =
-    Along the way, on this long journey, I encounter all sorts of wonders.
-    My passion for collecting is insatiable, and I would not let a single thing slip by.
-    After all, my own ascension may depend on it.
+    В этом долгом пути мне встречаются всевозможные чудеса.
+    Моя страсть к собирательству ненасытна, и я не упущу ни одной вещи.
+    Ведь от этого может зависеть моё вознесение.
 
-    Allows you to transmute 3 rods, lungs, and utility belt into an Unfathomable Curio -
-    a belt that has a lot of storage space, and also functions as a focus. Whilst worn it will veil you,
-    blocking one blow of incoming damage, at the cost of the veil. The veil will recharge itself out of combat.
+    Позволяет превратить 3 стержня, лёгкие и пояс для инструментов в Непостижимую Диковину —
+    вместительный пояс, который также служит фокусом. Пока вы его носите, вас укрывает завеса,
+    которая поглощает один входящий удар и исчезает. Вне боя завеса восстанавливается.
 
 ## T2
-knowledge-path-side-t2-rustwalker-name = Rusted Ritual
+knowledge-path-side-t2-rustwalker-name = Ритуал Ржавчины
 knowledge-path-side-t2-rustwalker-desc =
-    I combined my knowledge of creation with my desire for corruption. The Marshal knew my name, and the Rusted Hills echoed out.
+    Я соединил знания о созидании с жаждой разложения. Маршал узнал моё имя, и Ржавые Холмы откликнулись.
 
-    Allows you to transmute a pool of vomit, 15 cable coil, and 10 sheets of iron into a Rust Walker.
-    Rust Walkers excel at spreading rust and are moderately strong in combat.
-    You can only create four at a time.
+    Позволяет превратить лужу рвоты, 15 мотков кабеля и 10 листов железа в Ржавого Ходока.
+    Ржавые Ходоки умело распространяют ржавчину и неплохо сражаются.
+    Одновременно можно иметь не больше четырёх.
 
-knowledge-path-side-t2-knife-name = Carving Knife
+knowledge-path-side-t2-knife-name = Нож для Начертания
 knowledge-path-side-t2-knife-desc =
-    Etched, carved... eternal. There is power hidden in everything. I can unveil it! I can carve the monolith to reveal the chains!
+    Высечено, вырезано... навеки. Во всём скрыта сила. Я могу её обнажить! Я могу вырезать знаки на монолите и явить цепи!
 
-    Allows you to transmute a knife, a shard of glass, and a piece of paper to create a Carving Knife.
-    The Carving Knife allows you to etch difficult to see traps that trigger on heathens who walk overhead.
-    Also makes for a handy throwing weapon.
+    Позволяет превратить нож, осколок стекла и бумагу в Нож для Начертания.
+    Нож для Начертания позволяет вырезать малозаметные ловушки, которые срабатывают, когда по ним проходит язычник.
+    Также годится для метания.
 
-knowledge-path-side-t2-morbus-name = Codex Morbus
+knowledge-path-side-t2-morbus-name = Кодекс Морбус
 knowledge-path-side-t2-morbus-desc =
-    The spine of this leather-bound tome creaks with an eerily pained sigh.
-    To ply page from place takes considerable effort, and I dare not linger on the suggestions the book makes for longer than necessary.
-    It speaks of coming plagues, of waiting supplicants of dead and forgotten gods, and the undoing of mortal kind.
-    It speaks of needles to peel the skin of the world back and leaving it to fester. And it speaks to me by name.
+    Корешок этого кожаного фолианта скрипит, словно издаёт жуткий стон.
+    Чтобы перевернуть страницу, нужно немало усилий. Я не смею задерживаться на том, что предлагает книга, дольше необходимого.
+    Она повествует о грядущих бедствиях, о ждущих просителях мёртвых и забытых богов и о гибели смертных.
+    Она повествует об иглах, которыми можно содрать кожу с мира и оставить его гноиться. И она зовёт меня по имени.
 
-    Allows you to to combine a codex cicatrix, and a body into a Codex Morbus.
-    It draws runes, converts items into papers and siphons essences faster. It also can store more papers inside.
-    Alt-Click on a rune with open codex to curse crewmembers, the puddle of target's blood or DNA (blood has greater effect) is required to be on the rune for a curse to take effect (Best combined with Phylactery Of Damnation).
+    Позволяет соединить кодекс цикатрикс и тело в Кодекс Морбус.
+    Он быстрее чертит руны, превращает предметы в карты и извлекает эссенцию. В нём также помещается больше карт.
+    Нажмите открытым кодексом на руну с Alt, чтобы проклясть членов экипажа. Для проклятия на руне нужна лужа крови цели или её ДНК (кровь усиливает эффект). Лучше всего использовать вместе с Филактерией Проклятия.
 
-knowledge-path-side-t2-greaves-name = Greaves Of The Prophet
+knowledge-path-side-t2-greaves-name = Поножи Пророка
 knowledge-path-side-t2-greaves-desc =
-    Gristle churns into joint, a pop, and the fool twists a blackened foot from the jaws of another.
-    At their game for centuries, this mangled tree of limbs twists,
-    thrashing snares buried into snarling gums, seeking to shred the weight of grafted neighbors.
-    Weighed down by lacerated feet, this canopy of rancid idiots ever seeks the undoing of its own bonds.
-    I dread the thought of walking in their wake, but I must press on all the same.
-    Their rhythms keep the feud fresh with indifference to barrier or border.
-    Pulling more into their turmoil as they waltz.
+    Хрящ вминается в сустав, раздаётся хруст, и глупец выдёргивает почерневшую стопу из чужих челюстей.
+    Век за веком это искалеченное дерево из конечностей извивается в своей игре,
+    дёргая петли в оскаленных дёснах, пытаясь сбросить тяжесть приросших соседей.
+    Под грузом рассечённых ступней эта крона из гниющих тупиц вечно пытается разорвать путы.
+    Мне страшно идти за ними, но всё же я должен идти дальше.
+    Их ритм не даёт вражде утихнуть, не считаясь ни с преградой, ни с границей.
+    В своём вальсе они втягивают всё новых жертв в свою смуту.
 
-    Allows you to combine a pair of magboots or combat boots of any kind and 2 bars of silver into a pair of Armored Greaves,
-    they confer to the user full immunity to slips and act as magboots and jackboots.
+    Позволяет превратить магнитные или любые боевые ботинки и 2 слитка серебра в Бронированные Поножи,
+    которые полностью защищают от скольжения и служат и магнитными, и боевыми ботинками.
 
-knowledge-path-side-t2-shattered-ritual-name = Shattered Ritual
+knowledge-path-side-t2-shattered-ritual-name = Ритуал Осколков
 knowledge-path-side-t2-shattered-ritual-desc =
-    I witnessed a cold, rending force drag this corpse back to near-life.
-    When it moves, it crunches like broken glass.
-    Its hands are no longer recognizable as human - each clenched fist contains a brutal nest of sharp bone-shards instead.
+    Я видел, как холодная, раздирающая сила вытащила этот труп обратно к подобию жизни.
+    При движении он хрустит, как битое стекло.
+    Его руки уже не узнать как человеческие: в каждом сжатом кулаке торчит пучок острых костяных осколков.
 
-    Allows you to transmute a corpse, a pair of latex or nitrile gloves, and outer armor clothing to create a Shattered Risen.
-    Shattered Risen are strong ghouls that have 250 health and slight regeneration, but cannot hold items and wear clothes,
-    instead having two brutal weapons for hands.
-    You can only create one at a time.
+    Позволяет превратить труп, пару латексных или нитриловых перчаток и внешнюю броню в Восставшего Осколка.
+    Восставшие Осколки — сильные гули с 250 здоровья и слабой регенерацией, но они не могут держать предметы и носить одежду,
+    а вместо рук у них два смертоносных орудия.
+    Одновременно можно иметь не больше одного.
 
-knowledge-path-side-t2-crucible-name = Mawed Crucible
+knowledge-path-side-t2-crucible-name = Зубастое Горнило
 knowledge-path-side-t2-crucible-desc =
-    This is pure agony. I wasn't able to summon the figure of the Aristocrat,
-    but with the Priest's attention I stumbled upon a different recipe...
+    Это сплошная мука. Мне не удалось призвать Аристократа,
+    но, привлёкши внимание Жреца, я наткнулся на другой рецепт...
 
-    Allows you to transmute a portable water or fuel tank and a table to create a Mawed Crucible.
-    The Mawed Crucible can brew powerful potions for combat and utility, but must be fed bodyparts and organs between uses.
+    Позволяет превратить переносной бак воды или топлива и стол в Зубастое Горнило.
+    Зубастое Горнило варит сильные зелья для боя и других нужд, но между применениями его придётся кормить частями тела и органами.
 
-knowledge-path-side-t2-sword-name = Through the Boundary
+knowledge-path-side-t2-sword-name = За Гранью
 knowledge-path-side-t2-sword-desc =
-    “There are no locked doors, no sealed gates; no cages, no captives,”
-    whispered the Steward, standing at the edge of the Well of Secrets.
-    “Only those who stare too long into the abyss.”
-    A moment's glance reveals the truth; a fixed stare unravels the mind.
-    The dark power from below pierces like a sharpened sword.
-    The veil is torn. The seal is broken.
+    «Нет запертых дверей и запечатанных врат. Нет клеток и пленников»,
+    — прошептал Хранитель, стоя на краю Колодца Тайн.
+    «Есть лишь те, кто слишком долго смотрит в бездну».
+    Мимолётный взгляд открывает истину. Пристальный — разрушает разум.
+    Тёмная сила снизу пронзает, словно отточенный меч.
+    Завеса разорвана. Печать сломана.
 
-    Transmute 2 heretic blades, 2 bars of gold and 2 ID cards to create Ragged Sword.
-    Ragged Sword deals moderate damage with increased melee attack range.
-    More importantly, attacking with the sword will mark the target with combat mark of any Path of Decay.
-    The sword cannot trigger the mark by itself - best used in combination with heretic blade.
+    Превратите 2 клинка еретика, 2 слитка золота и 2 ID-карты в Рваный Меч.
+    Рваный Меч наносит умеренный урон и бьёт дальше другого оружия ближнего боя.
+    Кроме того, удар мечом оставляет на цели боевую метку любого Пути Тлена.
+    Меч сам не активирует метку. Лучше сочетать его с клинком еретика.
 
-knowledge-path-side-t2-rifle-name = Lionhunter's Rifle
+knowledge-path-side-t2-rifle-name = Винтовка Львиного Охотника
 knowledge-path-side-t2-rifle-desc =
-    I met an old man in an antique shop who wielded a very unusual weapon.
-    I could not purchase it at the time, but they showed me how they made it ages ago.
+    В антикварной лавке мне встретился старик с весьма необычным оружием.
+    Тогда у меня не получилось его купить, но старик показал, как изготовил его давным-давно.
 
-    Allows you to transmute a piece of wood, with any flesh organ, and a PDA to create the Lionhunter's rifle.
-    The Lionhunter's Rifle is a long ranged ballistic weapon with three shots.
-    These shots function as normal, albeit weak high-caliber munitions when fired.
-    You can aim the rifle at distant foes by right-clicking them in Combat Mode,
-    causing the shot to mark your victim with your grasp, teleport you directly to them and deal double damage.
-    Allows you to see people through walls when wielded.
+    Позволяет превратить кусок дерева, любой орган из плоти и КПК в винтовку Львиного Охотника.
+    Винтовка Львиного Охотника — дальнобойное баллистическое оружие на три выстрела.
+    Это обычные выстрелы крупного калибра, хотя и не слишком мощные.
+    Чтобы прицелиться в далёкого врага, нажмите на него правой кнопкой мыши в Боевом Режиме.
+    тогда выстрел наложит на жертву метку хватки, перенесёт вас прямо к ней и нанесёт двойной урон.
+    Пока винтовка у вас в руках, вы видите людей сквозь стены.
 
-    You can transmute 3 ballistic ammo casings (used or unused) of any caliber, including shotgun shells to create extra ammunition for the Lionhunter Rifle.
+    Чтобы получить дополнительные боеприпасы к Винтовке Львиного Охотника, можно превратить 3 гильзы любого калибра (стреляные или целые), в том числе дробовые.
 
-knowledge-path-side-t2-rustgrenade-name = Rust Sower Grenade
+knowledge-path-side-t2-rustgrenade-name = Граната-Сеятель Ржавчины
 knowledge-path-side-t2-rustgrenade-desc =
-    The choked vines of the Rusted Hills are burdened with such overripe fruits. It undoes the markers of progress, leaving a clean slate to work into new shapes.
+    Удушенные лозы Ржавых Холмов отягчены перезрелыми плодами. Их плод стирает следы прогресса, оставляя чистый лист, которому можно придать новую форму.
 
-    Transmute a modular grenade casing, a rag and two pieces of trash to create the cursed grenade filled with Eldritch Rust.
-    Upon detonation, it releases a huge cloud that blinds organics, rusts affected turfs and obliterates silicons and mechs.
+    Превратите корпус модульной гранаты, тряпку и два куска мусора в проклятую гранату с Потусторонней Ржавчиной.
+    При взрыве она выпускает огромное облако, ослепляющее органиков, покрывающее ржавчиной тайлы и уничтожающее синтетиков и мехов.
 
-knowledge-path-side-t2-medal-name = Sharp Medal
+knowledge-path-side-t2-medal-name = Острая Медаль
 knowledge-path-side-t2-medal-desc =
-    They say that the craftsman who forged this charm did not use ordinary fuel,
-    but his own fingers, which he threw into the forge one by one.
-    The Sharp Medal remembers this and demands more.
+    Говорят, мастер, выковавший этот амулет, топил горн не обычным топливом,
+    а собственными пальцами, бросая их в горн один за другим.
+    Острая Медаль помнит об этом и требует ещё.
 
-    Transmute a hand, eyes and a knife to create the Sharp Medal.
-    The Sharp Medal allows you to throw your blades akin to boomerangs, and also functions as a focus.
+    Превратите кисть руки, глаза и нож в Острую Медаль.
+    Острая Медаль позволяет метать клинки подобно бумерангам, а также служит фокусом.
 
 ## T3
-knowledge-path-side-t3-grasp-name = Mind Grasp
+knowledge-path-side-t3-grasp-name = Хватка Разума
 knowledge-path-side-t3-grasp-desc =
-    You believe that your mind is a fortress.
-    You picture walls of reason, towers of will, and a sanctum to which you hold the key.
-    A comforting lie. The walls are only shadows cast by the light of their own fragile understanding.
-    The gates of mind do not open inward or outward - they do not exist at all.
-    I do not knock. I do not need to. I am the silent key that turns in a lock that was never there.
+    Ты веришь, что твой разум — крепость.
+    Ты воображаешь стены рассудка, башни воли и святилище, ключ от которого лишь у тебя.
+    Утешительная ложь. Стены — лишь тени, которые отбрасывает свет твоего собственного хрупкого понимания.
+    Врата разума не открываются ни внутрь, ни наружу — их попросту нет.
+    Я не стучу. Мне незачем. Я — безмолвный ключ, что поворачивается в замке, которого никогда не было.
 
-    Your mansus grasp can now be channeled in hand to affect multiple victims in visible area around you.
-    The longer you channel it - the higher the range will be. Channeling can be stopped early by activating grasp again.
-    Area of effect grasp suffers increased cooldown, scaled by range and the number of victims.
+    Теперь хватку мансуса можно накапливать в руке, чтобы поразить несколько видимых жертв вокруг вас.
+    Чем дольше вы накапливаете силу, тем больше радиус. Чтобы прекратить накопление раньше, активируйте хватку снова.
+    Хватка по области дольше перезаряжается. Время зависит от радиуса и числа жертв.
 
-knowledge-path-side-t3-cleave-name = Crimson Cleave
+knowledge-path-side-t3-cleave-name = Багровый Раскол
 knowledge-path-side-t3-cleave-desc =
-    At first I didn't understand these instruments of war, but the Priest told me to use them regardless. Soon, he said, I would know them well.
+    Сперва я не понимал этих орудий войны, но Жрец велел ими пользоваться. Скоро, сказал он, я узнаю их как следует.
 
-    Grants you Crimson Cleave, a targeted spell which siphons health in a small AOE. Cleanses all wounds upon casting
+    Даёт Багровый Раскол, направленное заклинание, которое вытягивает здоровье в небольшой области. При применении исцеляет все раны
 
-knowledge-path-side-t3-space-phase-name = Space Phase
+knowledge-path-side-t3-space-phase-name = Космофаза
 knowledge-path-side-t3-space-phase-desc =
-    You feel like your body can move through space as if you where dust.
+    Вам кажется, что тело может плыть в космосе, словно пыль.
 
-    Grants you Space Phase, a spell that allows you to move freely through space.
-    You can only phase in and out when you are in space or outdoor low pressure area like lavaland.
+    Даёт Космофазу, заклинание, позволяющее свободно двигаться в космосе.
+    Входить в фазу и выходить из неё можно только в космосе или на открытом воздухе при низком давлении, например на лаваленде.
 
-knowledge-path-side-t3-maid-name = Maid in the Mirror
+knowledge-path-side-t3-maid-name = Дева в Зеркале
 knowledge-path-side-t3-maid-desc =
-    Within each reflection, lies a gateway into an unimaginable world of colors never seen and people never met.
-    The ascent is glass, and the walls are knives. Each step is blood, if you do not have a guide.
+    В каждом отражении скрыт вход в невообразимый мир невиданных цветов и незнакомых людей.
+    Ступени — стекло, а стены — ножи. Каждый шаг обойдётся кровью, если у вас нет проводника.
 
-    Allows you to transmute five sheets of glass, any suit with sensors, and a pair of lungs to create a Maid in the Mirror.
-    Maid in the Mirrors are decent combatants that can become incorporeal by phasing in and out of the mirror realm, serving as powerful scouts and ambushers.
-    Their attacks also apply a stack of void chill.
-    You can only create four at a time.
+    Позволяет превратить пять листов стекла, любую одежду с датчиками и пару лёгких в Служанку в Зеркале.
+    Девы в Зеркале неплохо дерутся и могут становиться бесплотными, переходя в зазеркалье и обратно. Из них выходят отличные разведчицы и мастера засад.
+    Их атаки также накладывают один заряд холода пустоты.
+    Одновременно можно иметь не больше четырёх.
 
-knowledge-path-side-t3-admonitions-name = Forest Admonitions
+knowledge-path-side-t3-admonitions-name = Лесные Предостережения
 knowledge-path-side-t3-admonitions-desc =
-    Where the pale fog covers the woods, we go unnoticed, until we are ready.
+    Там, где лес укрыт бледным туманом, нас не заметят, пока мы не будем готовы.
 
-    Replaces your Cloak of Shadow ability with Forest Admonitions.
-    SImilarly to shadow cloak, it conceals your identity but it lasts longer and gives lower movespeed bonus.
-    You are invisible in this form, but you are temporarily revealed by shooting, throwing or casting spells.
-    You are also visible to people close to you.
-    Forest Admonitions is harder to reveal by damage compared to Cloak Of Shadow, but it has longer cooldown as well.
-    While active, you also spread pale fog around your position, which muffles sounds, debuffs heathens and disables shadow cloak for other heretics.
+    Заменяет способность «Плащ Тени» на Лесные Предостережения.
+    Как и плащ тени, эта способность скрывает вашу личность, но действует дольше и меньше увеличивает скорость движения.
+    В этом облике вы невидимы, но ненадолго проявляетесь, если стреляете, бросаете предметы или применяете заклинания.
+    Те, кто находится рядом, тоже вас видят.
+    Урон реже раскрывает вас под Лесными Предостережениями, чем под Плащом Тени, однако способность дольше восстанавливается.
+    Пока она действует, вокруг вас стелется бледный туман. Он приглушает звуки, ослабляет язычников и отключает плащ тени у других еретиков.
 
-knowledge-path-side-t3-ash-spirit-name = Ashen Ritual
+knowledge-path-side-t3-ash-spirit-name = Пепельный Ритуал
 knowledge-path-side-t3-ash-spirit-desc =
-    I combined my principle of hunger with my desire for destruction. The Marshal knew my name, and the Nightwatcher gazed on.
+    Я соединил принцип голода с жаждой разрушения. Маршал знал моё имя, а Ночной Дозорный наблюдал.
 
-    Allows you to transmute a Bonfire and a book to create an Ash Spirit.
-    Ash Spirits have a long range jaunt and the ability to melt the foes at range.
-    You can only create three at a time.
+    Позволяет превратить Костёр и книгу в Пепельного Духа.
+    Пепельные Духи могут совершать дальние рывки и расплавлять врагов на расстоянии.
+    Одновременно можно иметь не больше трёх.

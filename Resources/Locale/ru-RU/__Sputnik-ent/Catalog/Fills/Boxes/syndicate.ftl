@@ -1,18 +1,18 @@
-ent-ElectricalDisruptionKit = electrical disruption kit
+ent-ElectricalDisruptionKit = набор для вывода электроники из строя
     .desc = { ent-BoxCardboard.desc }
-    .suffix = Filled
+    .suffix = Заполнено
 
-ent-ChemicalSynthesisKit = chemical synthesis kit
-    .desc = A starter kit for the aspiring chemist, includes two vials of vestine for all your criminal needs!
+ent-ChemicalSynthesisKit = набор для химического синтеза
+    .desc = Стартовый набор для начинающего химика. В комплекте два флакона вестина для всех ваших преступных затей!
 
-ent-ThrowingKnivesKit = throwing knives kit
-    .desc = A set of 8 syndicate branded throwing knives, perfect for embedding into the body of your victims.
+ent-ThrowingKnivesKit = набор метательных ножей
+    .desc = Набор из 8 фирменных метательных ножей синдиката. Идеально вонзаются в ваших жертв.
 
-ent-BoxDeathRattleImplants = deathrattle implant box
-    .desc = Six deathrattle implants for the whole squad.
+ent-BoxDeathRattleImplants = коробка имплантов «предсмертный хрип»
+    .desc = Шесть имплантов «предсмертный хрип» на весь отряд.
 
-ent-CombatBakeryKit = combat bakery kit
-    .desc = A kit of clandestine baked weapons.
+ent-CombatBakeryKit = набор боевого пекаря
+    .desc = Набор замаскированного под выпечку оружия.
 
-ent-SyndimovCircuitKit = syndimov circuit kit
-    .desc = A kit containing an electronics board with the Syndimov lawset and a Syndicate ID.
+ent-SyndimovCircuitKit = набор плат синдимуфа
+    .desc = Набор с электронной платой, содержащей свод законов Синдимуфа, и ID-картой Синдиката.

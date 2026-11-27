@@ -1,18 +1,18 @@
-ent-BaseMagazineShotgun = ammo drum (12 Gauge shells)
+ent-BaseMagazineShotgun = барабанный магазин (12 Калибр патроны)
     .desc = { ent-BaseItem.desc }
 
-ent-MagazineShotgunEmpty = ammo drum (12 Gauge shells any)
-    .desc = A large drum magazine used by some military-grade automatic shotguns.
-    .suffix = empty
+ent-MagazineShotgunEmpty = барабанный магазин (12 Калибр любые патроны)
+    .desc = Вместительный барабанный магазин для некоторых армейских автоматических дробовиков.
+    .suffix = пусто
 
-ent-MagazineShotgun = ammo drum (12 Gauge pellet)
-    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold general-purpose kinetic ammunition.
+ent-MagazineShotgun = барабанный магазин (12 Калибр картечь)
+    .desc = Вместительный барабанный магазин для некоторых армейских автоматических дробовиков. Предназначен для обычных кинетических боеприпасов.
 
-ent-MagazineShotgunBeanbag = ammo drum (12 Gauge beanbags)
-    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold less-than-lethal beanbag ammunition.
+ent-MagazineShotgunBeanbag = барабанный магазин (12 Калибр травматические)
+    .desc = Вместительный барабанный магазин для некоторых армейских автоматических дробовиков. Предназначен для травматических боеприпасов с мягкими снарядами.
 
-ent-MagazineShotgunSlug = ammo drum (12 Gauge slug)
-    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold long-ranged slug ammunition.
+ent-MagazineShotgunSlug = барабанный магазин (12 Калибр пуля)
+    .desc = Вместительный барабанный магазин для некоторых армейских автоматических дробовиков. Предназначен для дальнобойных пулевых боеприпасов.
 
-ent-MagazineShotgunIncendiary = ammo drum (12 Gauge incendiary)
-    .desc = A large drum magazine used by some military-grade automatic shotguns. Intended to hold self-igniting incendiary ammunition.
+ent-MagazineShotgunIncendiary = барабанный магазин (12 Калибр зажигательные)
+    .desc = Вместительный барабанный магазин для некоторых армейских автоматических дробовиков. Предназначен для самовоспламеняющихся зажигательных боеприпасов.

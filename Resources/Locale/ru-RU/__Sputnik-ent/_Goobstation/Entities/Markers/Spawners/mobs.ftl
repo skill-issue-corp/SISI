@@ -1,69 +1,69 @@
-ent-SpawnMobBrullbar = Brullbar Spawner
+ent-SpawnMobBrullbar = Точка Спавна Бруллбара
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobBrullbarKing = Brullbar King Spawner
+ent-SpawnMobBrullbarKing = Точка Спавна Короля Бруллбаров
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobBearGoon = Bear Spawner
+ent-SpawnMobBearGoon = Точка Спавна Медведя
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobWhiteWolf = White Wolf Spawner
+ent-SpawnMobWhiteWolf = Точка Спавна Белого Волка
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobLivingCurse = Living Curse Spawner
+ent-SpawnMobLivingCurse = Точка Спавна Живого Проклятия
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobFermidLarge = Fermid Large Spawner
+ent-SpawnMobFermidLarge = Точка Спавна Большого Фермида
     .desc = { "" }
 
-ent-SpawnMobFermidSmall = Fermid Small Spawner
+ent-SpawnMobFermidSmall = Точка Спавна Малого Фермида
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobFermidWarrior = Fermid Warrior Spawner
+ent-SpawnMobFermidWarrior = Точка Спавна Фермида-Воина
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobFermidQueen = Fermid Queen Spawner
+ent-SpawnMobFermidQueen = Точка Спавна Королевы Фермидов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobSpookyGhost1 = Spooky Ghost Spawner
+ent-SpawnMobSpookyGhost1 = Точка Спавна Жуткого Призрака
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnBaseMobGlutton = Glutton Spawner
+ent-SpawnBaseMobGlutton = Точка Спавна Обжоры
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobNanites = Nanite Swarm Spawner
+ent-SpawnMobNanites = Точка Спавна Роя Нанитов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnGunBot = Gunbot Spawner
+ent-SpawnGunBot = Точка Спавна Ганбота
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnNukeBot = NukeBot Spawner
+ent-SpawnNukeBot = Точка Спавна ЯдерБота
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnMobAbyssCrawler = Abyss crawler Spawner
+ent-SpawnMobAbyssCrawler = Точка Спавна Ползуна из бездны
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnCMMobXenoDrone = salvage Ancient Drone Spawner
+ent-SpawnCMMobXenoDrone = Точка Спавна Древнего Дрона для утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnCMMobXenoBurrower = salvage Ancient Burrower Spawner
+ent-SpawnCMMobXenoBurrower = Точка Спавна Древнего Землероя для утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnCMMobXenoWarrior = salvage Ancient Warrior Spawner
+ent-SpawnCMMobXenoWarrior = Точка Спавна Древнего Воина для утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnCMMobXenoCrusher = salvage Ancient Crusher Spawner
+ent-SpawnCMMobXenoCrusher = Точка Спавна Древнего Крушителя для утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnCMMobXenoRavager = salvage Ancient Ravager Spawner
+ent-SpawnCMMobXenoRavager = Точка Спавна Древнего Опустошителя для утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnCMMobXenoKing = salvage Ancient King Spawner
+ent-SpawnCMMobXenoKing = Точка Спавна Древнего Короля для утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnCMMobXenoQueen = salvage Ancient Queen Spawner
+ent-SpawnCMMobXenoQueen = Точка Спавна Древней Королевы для утилизаторов
     .desc = { ent-MarkerBase.desc }
 
-ent-SpawnCMMobXenoRogueKing = salvage Ancient Rogue King Spawner
+ent-SpawnCMMobXenoRogueKing = Точка Спавна Древнего Короля-Изгоя для утилизаторов
     .desc = { ent-MarkerBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = НЕ МАППИТЬ

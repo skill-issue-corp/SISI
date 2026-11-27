@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-character-info-title = Character
-character-info-roles-antagonist-text = You have no special Roles
-character-info-objectives-label = Objectives
-character-info-no-profession = No Profession
+character-info-title = Персонаж
+character-info-roles-antagonist-text = У вас нет особых Ролей
+character-info-objectives-label = Цели
+character-info-no-profession = Без Профессии

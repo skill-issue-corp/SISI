@@ -1,1 +1,1 @@
-xenomorph-pickup-item-fail = Our hand is not designed to hold this object.
+xenomorph-pickup-item-fail = Наши руки не приспособлены держать этот предмет.

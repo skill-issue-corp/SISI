@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Examine Text
-gas-volume-pump-system-examined = The pump is set to [color={$statusColor}]{$rate} liters/sec[/color].
+gas-volume-pump-system-examined = Расход насоса установлен на [color={$statusColor}]{$rate} л/с[/color].

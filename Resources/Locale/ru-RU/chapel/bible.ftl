@@ -1,18 +1,18 @@
-bible-heal-success-self = You hit {THE($target)} with {THE($bible)}, and their wounds close in a flash of holy light!
-bible-heal-success-others = {CAPITALIZE(THE($user))} hits {THE($target)} with {THE($bible)}, and their wounds close in a flash of holy light!
-bible-heal-success-none-self = You hit {THE($target)} with {THE($bible)}, but they have no wounds you can heal!
-bible-heal-success-none-others = {CAPITALIZE(THE($user))} hits {THE($target)} with {THE($bible)}!
+bible-heal-success-self = Вы бьёте {$target}, используя {$bible}, и раны затягиваются во вспышке святого света!
+bible-heal-success-others = {CAPITALIZE($user)} бьёт {$target}, используя {$bible}, и раны затягиваются во вспышке святого света!
+bible-heal-success-none-self = Вы бьёте {$target}, используя {$bible}, но исцелять нечего!
+bible-heal-success-none-others = {CAPITALIZE($user)} бьёт {$target}, используя {$bible}!
 
-bible-heal-fail-self = You hit {THE($target)} with {THE($bible)}, and it lands with a sad thwack, dazing {OBJECT($target)}!
-bible-heal-fail-others = {CAPITALIZE(THE($user))} hits {THE($target)} with {THE($bible)}, and it lands with a sad thack, dazing {OBJECT($target)}!
-bible-sizzle = The {THE($bible)} sizzles in your hands!
+bible-heal-fail-self = Вы бьёте {$target}, используя {$bible}, и жалкий шлепок оглушает {OBJECT($target)}!
+bible-heal-fail-others = {CAPITALIZE($user)} бьёт {$target}, используя {$bible}, и жалкий шлепок оглушает {OBJECT($target)}!
+bible-sizzle = {$bible} шипит в ваших руках!
 
-bible-summon-verb = Summon familiar
-bible-summon-verb-desc = Summon a familiar that will aid you and gain humanlike intelligence once inhabited by a soul.
-bible-summon-requested = Your familiar will arrive once a willing soul comes forth.
-bible-summon-respawn-ready = {CAPITALIZE(THE($book))} surges with ethereal power. {CAPITALIZE(POSS-ADJ($book))} resident is home again.
+bible-summon-verb = Призвать фамильяра
+bible-summon-verb-desc = Призвать фамильяра, который станет вам помогать и обретёт человеческий разум, когда в него вселится душа.
+bible-summon-requested = Ваш фамильяр прибудет, как только найдётся желающая душа.
+bible-summon-respawn-ready = {CAPITALIZE($book)} наполняется потусторонней силой. {CAPITALIZE(POSS-ADJ($book))} обитатель снова дома.
 
-necro-heal-success-self = You hit {THE($target)} with {THE($bible)}, and {POSS-ADJ($target)} flesh warps as it melts!
-necro-heal-success-others = {CAPITALIZE(THE($user))} hits {THE($target)} with {THE($bible)}, and {POSS-ADJ($target)} flesh warps as it melts!
-necro-heal-fail-self = You hit {THE($target)} with {THE($bible)}, and it lands with a sad thwack, failing to smite {OBJECT($target)}.
-necro-heal-fail-others = {CAPITALIZE(THE($user))} hits {THE($target)} with {THE($bible)}, and it lands with a sad thack, failing to smite {OBJECT($target)}.
+necro-heal-success-self = Вы бьёте {$target}, используя {$bible}, и {POSS-ADJ($target)} плоть плавится и коробится!
+necro-heal-success-others = {CAPITALIZE($user)} бьёт {$target}, используя {$bible}, и {POSS-ADJ($target)} плоть плавится и коробится!
+necro-heal-fail-self = Вы бьёте {$target}, используя {$bible}, но жалким шлепком вам не покарать {OBJECT($target)}.
+necro-heal-fail-others = {CAPITALIZE($user)} бьёт {$target}, используя {$bible}, но жалким шлепком не покарать {OBJECT($target)}.
