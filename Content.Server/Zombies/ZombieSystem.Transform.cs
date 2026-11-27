@@ -3,7 +3,6 @@ using Content.Shared.Mech.Components;
 using Content.Shared.Mech.EntitySystems;
 using Content.Shared.Rejuvenate;
 // </Trauma>
-using Content.Medical.Common.Body;
 using System.Linq;
 using Content.Server.Administration.Managers;
 using Content.Server.Atmos.Components;
@@ -50,7 +49,7 @@ using Robust.Shared.Audio.Systems;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Utility;
-using Content.SIS.Common.ChatBriefing;
+using Content.Medical.Common.Body; // inky
 
 namespace Content.Server.Zombies;
 
@@ -82,10 +81,6 @@ public sealed partial class ZombieSystem
     [Dependency] private NPCSystem _npc = default!;
     [Dependency] private TagSystem _tag = default!;
     [Dependency] private ISharedPlayerManager _player = default!;
-    // SIS-ChatGreeting Start
-    [Dependency] private IPrototypeManager _prototype = default!;
-    [Dependency] private GreetingSystem _greeting = default!;
-    // SIS-ChatGreeting End
     [Dependency] private BodySystem _body = default!;
 
     private static readonly ProtoId<TagPrototype> InvalidForGlobalSpawnSpellTag = "InvalidForGlobalSpawnSpell";
@@ -152,8 +147,8 @@ public sealed partial class ZombieSystem
 
         //we need to basically remove all of these because zombies shouldn't
         //get diseases, breath, be thirst, be hungry, die in space, get double sentience, have offspring or be paraplegic.
+        EnsureComp<BreathingImmunityComponent>(target); // inky
         RemComp<RespiratorComponent>(target);
-        EnsureComp<BreathingImmunityComponent>(target); // SIS
         RemComp<BarotraumaComponent>(target);
         RemComp<SatiationComponent>(target);
         RemComp<ReproductiveComponent>(target);
@@ -330,14 +325,11 @@ public sealed partial class ZombieSystem
             //Zombie role for player manifest
             _role.MindAddRole(mindId, MindRoleZombie, mind: null, silent: true);
 
-            // SIS-ChatGreeting Start
-            var proto = _prototype.Index(InitialInfectedAntag);
-            var entry = _greeting.CreateGreetingEntry("zombie-", proto.Briefing);
-            _antag.SendBriefing(session, entry);
-            // SIS-ChatGreeting End
+            //Greeting message for new bebe zombers
+            _chatMan.DispatchServerMessage(session, Loc.GetString("zombie-infection-greeting"));
 
             // Notificate player about new role assignment
-            // _audio.PlayGlobal(zombiecomp.GreetSoundNotification, session); // SIS-ChatGreeting
+            _audio.PlayGlobal(zombiecomp.GreetSoundNotification, session);
         }
         else
         {

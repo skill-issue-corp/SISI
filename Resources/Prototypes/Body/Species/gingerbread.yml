@@ -43,7 +43,7 @@
   id: MobGingerbread
   name: Urist McCookie
   components:
-  - type: BreathingImmunity # SIS
+  - type: BreathingImmunity # inky
   - type: Butcherable
     spawned:
     - id: FoodBakedCookie

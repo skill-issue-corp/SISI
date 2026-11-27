@@ -5,6 +5,7 @@ using Content.Shared.Database;
 using Content.Shared.Mind.Components;
 using Content.Shared.Verbs;
 using Robust.Shared.Player;
+using Robust.Shared.Prototypes;
 using Robust.Shared.Utility;
 
 namespace Content.Inky.Server.Administration.Systems;
@@ -13,9 +14,10 @@ public sealed partial class InkyAdminVerbSystem
 {
     [Dependency] private AntagSelectionSystem _antag = default!;
 
+    private static readonly EntProtoId DefaultWerewolfRule = "WerewolfMidround";
+
     private void AddAdminVerbs(GetVerbsEvent<Verb> args)
     {
-        // SIS-Adminverb_fix Start // SIS-TODO: Порт на Инки
         if (!TryComp<ActorComponent>(args.User, out var actor))
             return;
 
@@ -23,7 +25,6 @@ public sealed partial class InkyAdminVerbSystem
 
         if (!_adminManager.HasAdminFlag(player, AdminFlags.Fun))
             return;
-        // SIS-Adminverb_fix End
 
         if (!HasComp<MindContainerComponent>(args.Target) || !TryComp<ActorComponent>(args.Target, out var targetActor))
             return;
@@ -37,7 +38,7 @@ public sealed partial class InkyAdminVerbSystem
             Icon = new SpriteSpecifier.Rsi(new ResPath("/Textures/_Inky/Actions/Werewolf/werewolf.rsi"), "howl"),
             Act = () =>
             {
-                _antag.ForceMakeAntag<WerewolfRuleComponent>(targetPlayer, "WerewolfMidround"); // SIS | Werewolf
+                _antag.ForceMakeAntag<WerewolfRuleComponent>(targetPlayer, DefaultWerewolfRule);
             },
             Impact = LogImpact.High,
             Message = Loc.GetString("admin-verb-make-werewolf"),
