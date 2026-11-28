@@ -78,6 +78,7 @@
     allowSelfRepair: false
   - type: Organ
     category: Brain
+  - type: KnowledgeContainer
   - type: ChildOrgan
     parents: [ Head ]
   - type: GibbableOrgan

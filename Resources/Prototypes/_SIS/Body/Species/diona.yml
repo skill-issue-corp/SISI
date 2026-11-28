@@ -1,0 +1,6 @@
+- type: entity
+  id: OrganDionaBleedingVisuals
+  abstract: true
+  components:
+  - type: WoundableVisuals
+    bleedingOverlay: _SIS/Mobs/Species/Diona/bleeding_damage.rsi
