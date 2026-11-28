@@ -117,7 +117,7 @@ public sealed partial class PylonSystem : EntitySystem
             _lookup.GetEntitiesInRange(coords, PylonLookupRange, _pylons);
             if (_pylons.Count > 0)
             {
-                _popup.PopupEntity($"There can't be other pylons within {PylonLookupRange} meters!", pylon, user, PopupType.MediumCaution);
+                _popup.PopupEntity($"Другие пилоны должны быть за пределами радиуса в {PylonLookupRange} м!", pylon, user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
                 return false;
             }
         }

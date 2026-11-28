@@ -132,7 +132,7 @@ public sealed partial class ReverseBearTrapSystem : EntitySystem
                 {
                     Act = () => AttemptEscape(uid, trap, args.User),
                     DoContactInteraction = true,
-                    Text = "Attempt escape"
+                    Text = "Попытаться выбраться" // SIS-TODO: Анхаркод локали
                 });
             }
             else
@@ -140,7 +140,7 @@ public sealed partial class ReverseBearTrapSystem : EntitySystem
                 args.Verbs.Add(new Verb()
                 {
                     DoContactInteraction = true,
-                    Text = "Remove trap",
+                    Text = "Снять ловушку", // SIS-TODO: Анхаркод локали
                     Disabled = activeItem is not {} tool || !_tool.HasQuality(tool, Welding),
                     Act = () =>
                     {
@@ -165,7 +165,7 @@ public sealed partial class ReverseBearTrapSystem : EntitySystem
                 args.Verbs.Add(new Verb()
                 {
                     DoContactInteraction = true,
-                    Text = "Unlock trap",
+                    Text = "Отпереть ловушку", // SIS-TODO: Анхаркод локали
                     Act = () =>
                     {
                         var user = args.User;

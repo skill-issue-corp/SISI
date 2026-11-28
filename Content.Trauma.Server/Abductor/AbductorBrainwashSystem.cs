@@ -37,7 +37,7 @@ public sealed partial class AbductorBrainwashSystem : EntitySystem
 
         if (_mindShield.IsShielded(target))
         {
-            _popup.PopupEntity("The mindshield blocks your 7G waves!", target, args.User);
+            _popup.PopupEntity("Щит разума блокирует ваши волны 7G!", target, args.User); // SIS-TODO: Анхаркод локали
             return;
         }
 

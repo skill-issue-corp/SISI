@@ -192,7 +192,7 @@ public sealed partial class VirologyMachinesSystem : EntitySystem
                     _popup.PopupEntity(Loc.GetString("vaccinator-toggle-vaccine"), ent);
                 }
             },
-            Text = "Switch Mode",
+            Text = "Переключить Режим", // SIS-TODO: Анхаркод локали
             Priority = 25,
             Icon = new SpriteSpecifier.Texture(new ResPath("/Textures/Interface/VerbIcons/dot.svg.192dpi.png"))
         };

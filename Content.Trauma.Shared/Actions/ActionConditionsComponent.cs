@@ -27,5 +27,5 @@ public sealed partial class ActionConditionsComponent : Component
     /// Popup that appears once the conditions fail.
     /// </summary>
     [DataField]
-    public string FailPopup = "You do not meet the requirements to cast this action!";
+    public string FailPopup = "Вы не можете применить эту способность: не выполнены её условия!"; // SIS-TODO: Анхаркод локали
 }

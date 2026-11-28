@@ -121,7 +121,7 @@ public sealed partial class SecretStashSystem : EntitySystem
             // <Trauma> - log and user feedback
             {
                 Log.Error($"Secret stash {ToPrettyString(entity)} has no maxItemSize and is Tiny itself!");
-                _popupSystem.PopupEntity("That stash can't fit anything!?", entity, userUid);
+                _popupSystem.PopupEntity("В этот тайник ничего не помещается!?", entity, userUid); // SIS-TODO: Анхаркод локали
                 return false;
             }
             // </Trauma>
@@ -132,7 +132,7 @@ public sealed partial class SecretStashSystem : EntitySystem
         {
             // <Trauma>
             Log.Error($"Secret stash {ToPrettyString(entity)} has no maxItemSize and was not an item itself!");
-            _popupSystem.PopupEntity("That stash can't fit anything!?", entity, userUid);
+            _popupSystem.PopupEntity("В этот тайник ничего не помещается!?", entity, userUid); // SIS-TODO: Анхаркод локали
             // </Trauma>
             return false;
         }

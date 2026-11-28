@@ -130,7 +130,7 @@ public sealed partial class BloodCultDeconvertSystem : EntitySystem
         }
 
         var name = Identity.Name(ent, EntityManager);
-        _popup.PopupEntity("You are no longer being deconverted.", $"{name} is not longer being deconverted.", ent, null, PopupType.Medium);
+        _popup.PopupEntity("Ваше раскульчивание прервано.", $"Раскульчивание прервано. Цель: {name}.", ent, null, PopupType.Medium); // SIS-TODO: Анхаркод локали
         RemCompDeferred(ent, ent.Comp);
     }
 }

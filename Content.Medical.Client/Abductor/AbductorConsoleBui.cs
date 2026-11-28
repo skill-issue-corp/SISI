@@ -55,7 +55,7 @@ public sealed class AbductorConsoleBui : BoundUserInterface
     {
         if (_window != null) return;
         _window = this.CreateWindow<AbductorConsoleWindow>();
-        _window.Title = "console";
+        _window.Title = "консоль"; // SIS-TODO: Анхаркод локали
 
         _window.TeleportTabButton.OnPressed += _ => View(ViewType.Teleport);
 

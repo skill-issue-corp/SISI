@@ -408,7 +408,7 @@ public sealed partial class MultiToggleableClothingSystem : EntitySystem
             return;
 
         if (time > TimeSpan.Zero)
-            _popup.PopupEntity("You begin toggling the suit.", wearer, user);
+            _popup.PopupEntity("Вы начинаете переключать режим костюма.", wearer, user); // SIS-TODO: Анхаркод локали
 
         if (!stealth)
         {

@@ -51,7 +51,7 @@ public sealed partial class PredatorSensesSystem : EntitySystem
             return;
         }
 
-        _ui.SetUiState(ent.Owner, ListEntitySelectorUiKey.Key, new ListEntitySelectorState(_drainable, "Person to Locate"));
+        _ui.SetUiState(ent.Owner, ListEntitySelectorUiKey.Key, new ListEntitySelectorState(_drainable, "Кого Найти")); // SIS-TODO: Анхаркод локали
         _ui.TryToggleUi(ent.Owner, ListEntitySelectorUiKey.Key, performer);
     }
 

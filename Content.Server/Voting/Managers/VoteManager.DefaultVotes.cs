@@ -286,7 +286,7 @@ namespace Content.Server.Voting.Managers
                 if (initiator is { } session)
                 {
                     _voteTimeout[initiator.UserId] = _timing.RealTime + options.Duration; // no spamming it
-                    var msg = "i died pls map vote";
+                    var msg = "я умер пж голосование за карту"; // SIS-TODO: Анхаркод локали
                     _chatManager.ChatMessageToOne(ChatChannel.Server, msg, msg, default, false, session.Channel);
                 }
                 return;

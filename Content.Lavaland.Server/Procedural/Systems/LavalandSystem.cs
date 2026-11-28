@@ -90,7 +90,7 @@ public sealed partial class LavalandSystem : EntitySystem
 
         var mapUid = _map.CreateMap(out var mapId, false);
         EnsureComp<LavalandPreloaderComponent>(mapUid);
-        _metaData.SetEntityName(mapUid, "Lavaland Preloader Map");
+        _metaData.SetEntityName(mapUid, "Карта Предзагрузки Лаваленда"); // SIS-TODO: Анхаркод локали
         _map.SetPaused(mapId, true);
     }
 

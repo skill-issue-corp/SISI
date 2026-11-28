@@ -15,8 +15,8 @@ public sealed partial class BloodOrbSystem : EntitySystem
         if (!_cult.IsCultist(args.Examiner))
             return;
 
-        args.PushMarkup($"It has [color=darkred]{ent.Comp.StoredBlood}u of blood[/color] stored.");
-        args.PushMarkup($"Can be used to recharge [color=red]Blood Rites[/color].");
+        args.PushMarkup($"Содержит [color=darkred]{ent.Comp.StoredBlood} ед. крови[/color]."); // SIS-TODO: Анхаркод локали
+        args.PushMarkup("Можно использовать для пополнения запаса [color=red]Кровавых Обрядов[/color]."); // SIS-TODO: Анхаркод локали
     }
 
     [SubscribeLocalEvent]

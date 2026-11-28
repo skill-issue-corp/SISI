@@ -33,7 +33,7 @@ public sealed partial class QuickDialogSystem
                     okAction.Invoke(v1);
                 else
                 {
-                    session.Channel.Disconnect("Replied with invalid quick dialog data.");
+                    session.Channel.Disconnect("Получены недопустимые данные в ответе на диалог."); // SIS-TODO: Анхаркод локали
                     cancelAction?.Invoke();
                 }
             }),
@@ -74,7 +74,7 @@ public sealed partial class QuickDialogSystem
                     okAction.Invoke(v1, v2);
                 else
                 {
-                    session.Channel.Disconnect("Replied with invalid quick dialog data.");
+                    session.Channel.Disconnect("Получены недопустимые данные в ответе на диалог."); // SIS-TODO: Анхаркод локали
                     cancelAction?.Invoke();
                 }
             }),
@@ -118,7 +118,7 @@ public sealed partial class QuickDialogSystem
                     okAction.Invoke(v1, v2, v3);
                 else
                 {
-                    session.Channel.Disconnect("Replied with invalid quick dialog data.");
+                    session.Channel.Disconnect("Получены недопустимые данные в ответе на диалог."); // SIS-TODO: Анхаркод локали
                     cancelAction?.Invoke();
                 }
             }),
@@ -166,7 +166,7 @@ public sealed partial class QuickDialogSystem
                     okAction.Invoke(v1, v2, v3, v4);
                 else
                 {
-                    session.Channel.Disconnect("Replied with invalid quick dialog data.");
+                    session.Channel.Disconnect("Получены недопустимые данные в ответе на диалог."); // SIS-TODO: Анхаркод локали
                     cancelAction?.Invoke();
                 }
             }),

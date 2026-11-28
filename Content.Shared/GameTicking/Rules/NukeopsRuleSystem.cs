@@ -59,7 +59,7 @@ public abstract partial class NukeopsRuleSystem : GameRuleSystem<NukeopsRuleComp
     [SubscribeLocalEvent]
     private void OnAfterAntagEntSelected(Entity<NukeopsRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
     {
-        var target = (ent.Comp.TargetStation is not null) ? Name(ent.Comp.TargetStation.Value) : "the target";
+        var target = (ent.Comp.TargetStation is not null) ? Name(ent.Comp.TargetStation.Value) : "цель"; // SIS-TODO: Анхаркод локали
 
         // SIS-ChatGreeting Start
         var entry = _greeting.CreateGreetingEntry(ent.Comp.LocalePrefix, args.Def.Briefing,

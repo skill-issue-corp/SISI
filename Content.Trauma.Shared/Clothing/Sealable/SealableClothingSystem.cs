@@ -141,7 +141,7 @@ public sealed partial class SealableClothingSystem : EntitySystem
             return false;
 
         if (wearer != user)
-            _popup.PopupEntity("You start the suit's sealing process", wearer, user);
+            _popup.PopupEntity("Вы начинаете герметизацию костюма", wearer, user); // SIS-TODO: Анхаркод локали
 
         var popup = Loc.GetString("strippable-component-alert-owner-interact", ("user", Identity.Entity(user, EntityManager)), ("item", ent));
         _popup.PopupEntity(popup, wearer, wearer, PopupType.Large);

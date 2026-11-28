@@ -622,7 +622,7 @@ public sealed partial class FaxSystem : EntitySystem
         if (user == null || user == EntityUid.Invalid)
             return; // don't spam notify if its automated
         // replaced shitty loc string with real info
-        _chat.SendAdminAnnouncement($"Received new fax message from {ToPrettyString(user)} using fax '{faxName}' {ToPrettyString(sender)}");
+        _chat.SendAdminAnnouncement($"Получено новое сообщение от {ToPrettyString(user)} через факс «{faxName}» {ToPrettyString(sender)}"); // SIS-TODO: Анхаркод локали
 
         // _audioSystem.PlayGlobal("/Audio/Machines/high_tech_confirm.ogg", Filter.Empty().AddPlayers(_adminManager.ActiveAdmins), false, AudioParams.Default.AddVolume(-8f));
         foreach (var admin in _adminManager.ActiveAdmins)

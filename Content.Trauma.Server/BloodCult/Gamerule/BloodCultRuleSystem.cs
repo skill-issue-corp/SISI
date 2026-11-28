@@ -147,7 +147,7 @@ public sealed partial class BloodCultRuleSystem : GameRuleSystem<BloodCultRuleCo
         DirtyFields(rule.AsNullable(), null,
             nameof(BloodCultRuleComponent.TargetSacrificed),
             nameof(BloodCultRuleComponent.OfferingTarget));
-        AnnounceToCult(rule, "Nar'Sie's target has been sacrificed! Summon her to your realm and elevate your cult to godhood!");
+        AnnounceToCult(rule, "Цель Нар’Си принесена в жертву! Призовите её в ваш мир и вознесите культ до божественности!"); // SIS-TODO: Анхаркод локали
     }
 
     [SubscribeLocalEvent]
@@ -308,7 +308,7 @@ public sealed partial class BloodCultRuleSystem : GameRuleSystem<BloodCultRuleCo
 
         if (comp.OfferingTarget is { } target)
         {
-            AnnounceToCult(rule, $"Nar'Sie demands the sacrifice of {Name(target)}!");
+            AnnounceToCult(rule, $"Нар’Си требует принести в жертву {Name(target)}!"); // SIS-TODO: Анхаркод локали
             var ev = new CultTargetAssignedEvent(rule, target);
             RaiseLocalEvent(ref ev);
         }

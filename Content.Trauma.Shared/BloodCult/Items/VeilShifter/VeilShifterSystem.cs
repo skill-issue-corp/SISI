@@ -37,7 +37,7 @@ public sealed partial class VeilShifterSystem : EntitySystem
         if (!_cult.IsCultist(user))
         {
             args.Handled = true;
-            _popup.PopupEntity($"The {Name(veil)} flickers out of your hands, your connection to this dimension is too strong!", veil, user);
+            _popup.PopupEntity($"Предмет исчезает из ваших рук ({Name(veil)}). Ваша связь с этим измерением слишком сильна!", veil, user); // SIS-TODO: Анхаркод локали
             _hands.TryDrop(user, veil.Owner);
             return;
         }

@@ -31,8 +31,8 @@ public sealed partial class GuideKnowledgeMasteryEmbed : BoxContainer, IDocument
             VerticalExpand = true
         };
 
-        table.AddChild(new Label { Text = "Level", FontColorOverride = Color.Gray });
-        table.AddChild(new Label { Text = "Mastery", FontColorOverride = Color.Gray });
+        table.AddChild(new Label { Text = "Уровень", FontColorOverride = Color.Gray }); // SIS-TODO: Анхаркод локали
+        table.AddChild(new Label { Text = "Владение", FontColorOverride = Color.Gray }); // SIS-TODO: Анхаркод локали
 
         for (int i = 0; i < 6; i++)
         {

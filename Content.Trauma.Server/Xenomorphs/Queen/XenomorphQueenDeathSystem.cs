@@ -40,9 +40,9 @@ public sealed partial class XenomorphQueenDeathSystem : EntitySystem
         // Only send if we have players to send to
             _chat.DispatchFilteredAnnouncement(
                 filter,
-                "A terrible wail echoes through the tunnels as the Xenomorph Queen falls!",
+                "Королева ксеноморфов погибла, и по туннелям разносится жуткий вой!", // SIS-TODO: Анхаркод локали
                 uid,
-                "Xenomorph Hivemind",
+                "Коллективный Разум Ксеноморфов", // SIS-TODO: Анхаркод локали
                 true,
                 new SoundPathSpecifier("/Audio/_RMC14/Xeno/alien_queen_died.ogg"),
                 Color.Red);

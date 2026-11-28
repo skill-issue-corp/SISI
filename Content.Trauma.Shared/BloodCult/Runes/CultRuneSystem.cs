@@ -71,7 +71,7 @@ public sealed partial class CultRuneSystem : EntitySystem
 
         _cult.CopyMember(user, uid); // set member immediately so it counts against rune limits
 
-        _popup.PopupEntity("Click the rune with your blade to begin carving it.", ent, user);
+        _popup.PopupEntity("Нажмите на руну, держа клинок, чтобы начать её вырезать.", ent, user); // SIS-TODO: Анхаркод локали
     }
 
     [SubscribeLocalEvent]
@@ -122,7 +122,7 @@ public sealed partial class CultRuneSystem : EntitySystem
                 BreakOnDamage = true,
                 NeedHand = true
             };
-            msg = "You start carving a rune into the blood...";
+            msg = "Вы начинаете вырезать руну на крови..."; // SIS-TODO: Анхаркод локали
             ent.Comp.StartedDrawing = _timing.CurTime;
             Dirty(ent);
         }
@@ -135,7 +135,7 @@ public sealed partial class CultRuneSystem : EntitySystem
                 BreakOnDamage = true,
                 NeedHand = true
             };
-            msg = "You start erasing the rune...";
+            msg = "Вы начинаете стирать руну..."; // SIS-TODO: Анхаркод локали
         }
 
         if (!_doAfter.TryStartDoAfter(doAfter))
@@ -196,7 +196,7 @@ public sealed partial class CultRuneSystem : EntitySystem
 
         var rune = ProtoMan.Index(id).Prototype;
         var name = ProtoMan.Index(rune).Name;
-        _cultExamine.PushExamine($"This will be carved into a {name}", ref args);
+        _cultExamine.PushExamine($"Здесь будет вырезана руна: {name}", ref args); // SIS-TODO: Анхаркод локали
     }
 
     [SubscribeLocalEvent]
@@ -245,23 +245,22 @@ public sealed partial class CultRuneSystem : EntitySystem
     public string? InvokeRune(Entity<CultRuneComponent> ent, EntityUid user)
     {
         if (!_cult.IsCultist(user))
-            return "You stare blankly at the blood scribing";
+            return "Вы непонимающе смотрите на кровавые письмена"; // SIS-TODO: Анхаркод локали
 
         var userPos = Transform(user).Coordinates;
         var runePos = Transform(ent).Coordinates;
         if (!userPos.TryDistance(EntityManager, runePos, out var distance) ||
             distance > ent.Comp.RuneActivationRange)
-            return "Come closer...";
+            return "Подойдите ближе..."; // SIS-TODO: Анхаркод локали
 
         if (!_useDelay.TryResetDelay(ent.Owner))
-            return "The rune's magic is on cooldown!";
+            return "Магия руны ещё не восстановилась!"; // SIS-TODO: Анхаркод локали
 
         var cultists = _cult.GetRuneInvokers(ent, ent.Comp.RuneActivationRange);
         if (cultists.Count < ent.Comp.RequiredInvokers)
         {
             var diff = ent.Comp.RequiredInvokers - cultists.Count;
-            var plural = diff == 1 ? "" : "s";
-            return $"You need {diff} more cultist{plural} to perform the ritual!";
+            return $"Для ритуала нужно больше культистов. Не хватает: {diff}."; // SIS-TODO: Анхаркод локали
         }
 
         var ev = new RuneInvokeEvent(user, cultists);
@@ -270,7 +269,7 @@ public sealed partial class CultRuneSystem : EntitySystem
             return msg;
 
         if (!ev.Handled)
-            return "Nar'Sie frowns upon you..?";
+            return "Нар’Си недовольна вами..?"; // SIS-TODO: Анхаркод локали
 
         foreach (var cultist in cultists)
         {
@@ -296,7 +295,7 @@ public sealed partial class CultRuneSystem : EntitySystem
 
         if (_cult.GetRule(uid) is not { } rule)
         {
-            _popup.PopupEntity("You aren't a cultist..?", uid, uid);
+            _popup.PopupEntity("Вы что, не культист..?", uid, uid); // SIS-TODO: Анхаркод локали
             return false;
         }
 
@@ -314,7 +313,7 @@ public sealed partial class CultRuneSystem : EntitySystem
         var box = Box2.CenteredAround(coords.Position, new(rune.Size));
         if (_lookup.AnyComponentsIntersecting(typeof(CultRuneDrawingComponent), map, box))
         {
-            _popup.PopupEntity("The area needs to be free of other runes.", uid, uid);
+            _popup.PopupEntity("Рядом не должно быть других рун.", uid, uid); // SIS-TODO: Анхаркод локали
             return false;
         }
 
@@ -329,7 +328,7 @@ public sealed partial class CultRuneSystem : EntitySystem
                 var pos = tile.GridIndices + offset;
                 if (!_anchorable.TileFree(gridEnt, pos, (int) CollisionGroup.WallLayer))
                 {
-                    _popup.PopupEntity("The area needs to be free of obstacles.", uid, uid);
+                    _popup.PopupEntity("Рядом не должно быть препятствий.", uid, uid); // SIS-TODO: Анхаркод локали
                     return false;
                 }
             }
@@ -340,13 +339,13 @@ public sealed partial class CultRuneSystem : EntitySystem
             !_stationQuery.TryComp(station, out var stationData) ||
             !stationData.OwnedGrids.Contains(gridUid))
         {
-            _popup.PopupEntity("You must draw runes on station!", uid, uid);
+            _popup.PopupEntity("Руны можно рисовать только на станции!", uid, uid); // SIS-TODO: Анхаркод локали
             return false;
         }
 
         if (rune.RequireTarget && !rule.Comp.TargetSacrificed)
         {
-            _popup.PopupEntity("Nar'Sie still demands that her target be sacrificed!", uid, uid);
+            _popup.PopupEntity("Нар’Си всё ещё требует принести выбранную цель в жертву!", uid, uid); // SIS-TODO: Анхаркод локали
             return false;
         }
 
@@ -354,7 +353,7 @@ public sealed partial class CultRuneSystem : EntitySystem
         {
             if (GetRuneCount(rule, rune) >= rune.Limit)
             {
-                _popup.PopupEntity("You can't make any more of that rune!", uid, uid);
+                _popup.PopupEntity("Вы больше не можете создавать такие руны!", uid, uid); // SIS-TODO: Анхаркод локали
                 return false;
             }
         }
@@ -364,7 +363,7 @@ public sealed partial class CultRuneSystem : EntitySystem
             _area.GetAreaPrototype(area) is not { } areaId ||
             !rule.Comp.RitualAreas.Contains(areaId)))
         {
-            _popup.PopupEntity("You need to place this rune in one of the cult's ritual areas!", uid, uid);
+            _popup.PopupEntity("Эту руну нужно разместить в одной из ритуальных зон культа!", uid, uid); // SIS-TODO: Анхаркод локали
             return false;
         }
 

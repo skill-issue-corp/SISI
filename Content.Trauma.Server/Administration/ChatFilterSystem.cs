@@ -147,7 +147,7 @@ public sealed partial class ChatFilterSystem : EntitySystem
         {
             if (proto.ApplyToName && IsMatch(regex, name))
             {
-                _chat.SendAdminAlert($"Player {username} ({name}) has hit the name filter {proto.ID}");
+                _chat.SendAdminAlert($"Игрок {username} ({name}) попал под фильтр имён {proto.ID}"); // SIS-TODO: Анхаркод локали
                 return false;
             }
         }
@@ -159,7 +159,7 @@ public sealed partial class ChatFilterSystem : EntitySystem
     public void Punish(ICommonSession player, string message, ChatFilterPrototype proto)
     {
         // 1. tell admins
-        _chat.SendAdminAlert($"Player {player.Name} has hit the chat filter {proto.ID}");
+        _chat.SendAdminAlert($"Игрок {player.Name} попал под фильтр чата {proto.ID}"); // SIS-TODO: Анхаркод локали
         // 2. smite by god so the people know
         if (player.AttachedEntity is {} mob && proto.Effects is { } effects)
             _effects.ApplyEffects(mob, effects, user: mob, predicted: false);

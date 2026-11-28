@@ -49,7 +49,7 @@ public sealed partial class CultRuneOfferingSystem : EntitySystem
 
         if (targets.Count == 0)
         {
-            args.Popup = "There are no victims nearby";
+            args.Popup = "Поблизости нет жертв"; // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -70,7 +70,7 @@ public sealed partial class CultRuneOfferingSystem : EntitySystem
         {
             if (invokers < ent.Comp.AliveSacrificeInvokersAmount)
             {
-                args.Popup = $"You need {ent.Comp.AliveSacrificeInvokersAmount} invokers to sacrifice a body";
+                args.Popup = $"Для жертвоприношения тела нужно следующее число призывающих: {ent.Comp.AliveSacrificeInvokersAmount}"; // SIS-TODO: Анхаркод локали
                 return;
             }
 
@@ -80,13 +80,13 @@ public sealed partial class CultRuneOfferingSystem : EntitySystem
         {
             if (invokers < ent.Comp.ConvertInvokersAmount)
             {
-                args.Popup = $"You need {ent.Comp.ConvertInvokersAmount} invokers to convert a being";
+                args.Popup = $"Для обращения существа нужно следующее число призывающих: {ent.Comp.ConvertInvokersAmount}"; // SIS-TODO: Анхаркод локали
                 return;
             }
 
             if (!Convert(ent, rule, target, user))
             {
-                args.Popup = "It no work!";
+                args.Popup = "Не сработало!"; // SIS-TODO: Анхаркод локали
                 return;
             }
         }

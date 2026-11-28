@@ -58,7 +58,7 @@ public sealed partial class HandheldGrinderSystem : EntitySystem
         // <Trauma> - user feedback..?
         {
             var verb = ent.Comp.Program == GrinderProgram.Grind ? "grind" : "juice";
-            _popup.PopupClient("You can't grind that!", ent, args.User);
+            _popup.PopupClient("Вы не можете это измельчить!", ent, args.User); // SIS-TODO: Анхаркод локали
             return;
         }
         // </Trauma>

@@ -113,14 +113,14 @@ public sealed partial class PlantAnalyzerSystem : EntitySystem
         if (!HasComp<SeedComponent>(target) ||
             ent.Comp.GeneIndex < 0)
         {
-            _popup.PopupEntity($"Collect seeds from it first!", ent, user);
+            _popup.PopupEntity("Сначала соберите с растения семена!", ent, user); // SIS-TODO: Анхаркод локали
             return;
         }
 
         GetGeneFromInteger(ent, target);
         QueueDel(target);
 
-        _popup.PopupEntity($"Extracted and isolated gene from {Name(target)}", ent, user);
+        _popup.PopupEntity($"Ген извлечён и выделен. Растение: {Name(target)}", ent, user); // SIS-TODO: Анхаркод локали
         _audio.PlayPredicted(ent.Comp.ExtractEndSound, ent, user);
     }
 
@@ -131,13 +131,13 @@ public sealed partial class PlantAnalyzerSystem : EntitySystem
             // jesus christ
             ent.Comp.DatabankIndex >= ent.Comp.GeneBank.Count + ent.Comp.ConsumeGasesBank.Count + ent.Comp.ExudeGasesBank.Count + ent.Comp.ChemicalBank.Count)
         {
-            _popup.PopupEntity($"Can't inject genes into germinated plants!", ent, user);
+            _popup.PopupEntity("Нельзя внедрять гены в проросшие растения!", ent, user); // SIS-TODO: Анхаркод локали
             return;
         }
 
         SetGeneFromInteger(ent, (target, seed));
 
-        _popup.PopupEntity($"Injected gene into {Name(target)}", ent, user);
+        _popup.PopupEntity($"Ген внедрён. Растение: {Name(target)}", ent, user); // SIS-TODO: Анхаркод локали
         _audio.PlayPredicted(ent.Comp.InjectEndSound, ent, user);
     }
 
@@ -145,7 +145,7 @@ public sealed partial class PlantAnalyzerSystem : EntitySystem
     {
         if (!TryComp<SeedComponent>(target, out var seed))
         {
-            _popup.PopupEntity($"Can't clear mutations from germinated plants!", ent, user);
+            _popup.PopupEntity("Нельзя удалять мутации у проросших растений!", ent, user); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -154,14 +154,14 @@ public sealed partial class PlantAnalyzerSystem : EntitySystem
         var name = Name(target);
         if (comp.Mutations.Count == 0)
         {
-            _popup.PopupEntity($"There are no mutations to clear from {name}.", ent, user);
+            _popup.PopupEntity($"У растения нет мутаций ({name}).", ent, user); // SIS-TODO: Анхаркод локали
             return;
         }
 
         comp.Mutations.Clear();
         // it's not networked on the plant
 
-        _popup.PopupEntity($"Cleared mutations of {name}!", ent, user);
+        _popup.PopupEntity($"Мутации удалены. Растение: {name}!", ent, user); // SIS-TODO: Анхаркод локали
         _audio.PlayPredicted(ent.Comp.DeleteMutationEndSound, ent, user);
     }
 
@@ -186,7 +186,7 @@ public sealed partial class PlantAnalyzerSystem : EntitySystem
             nameof(PlantAnalyzerComponent.Seed),
             nameof(PlantAnalyzerComponent.ScannedMutations));
 
-        _popup.PopupEntity($"Scanned data of {Name(target)}.", ent, user);
+        _popup.PopupEntity($"Сканирование завершено. Растение: {Name(target)}.", ent, user); // SIS-TODO: Анхаркод локали
         _audio.PlayPredicted(ent.Comp.ScanningEndSound, ent, user);
     }
 

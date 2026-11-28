@@ -20,7 +20,7 @@ public sealed partial class PossessObjectSystem : EntitySystem
     {
         if (Transform(args.Target).Anchored)
         {
-            _popup.PopupEntity("You cannot possess an anchored object!", args.Performer, args.Performer);
+            _popup.PopupEntity("Вы не можете вселиться в закреплённый предмет!", args.Performer, args.Performer); // SIS-TODO: Анхаркод локали
             return;
         }
 

@@ -40,7 +40,7 @@ public sealed partial class QuickDialogSystem : EntitySystem
     {
         if (!_openDialogs.ContainsKey(msg.DialogId) || !_openDialogsByUser[args.SenderSession.UserId].Contains(msg.DialogId))
         {
-            args.SenderSession.Channel.Disconnect($"Replied with invalid quick dialog data with id {msg.DialogId}.");
+            args.SenderSession.Channel.Disconnect($"Получены недопустимые данные в ответе на диалог с ID {msg.DialogId}."); // SIS-TODO: Анхаркод локали
             return;
         }
 

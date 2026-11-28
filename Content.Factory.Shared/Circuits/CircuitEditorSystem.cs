@@ -72,7 +72,7 @@ public sealed partial class CircuitEditorSystem : EntitySystem
         var data = args.Data;
         if (data.Gates.Count > CircuitComponent.MaxGates)
         {
-            _popup.PopupCursor("Circuit has too many gates to import!", args.Actor, PopupType.MediumCaution);
+            _popup.PopupCursor("В схеме слишком много логических элементов для импорта!", args.Actor, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -102,7 +102,7 @@ public sealed partial class CircuitEditorSystem : EntitySystem
         var i = data.Gates.Count;
         if (i >= CircuitComponent.MaxGates)
         {
-            _popup.PopupCursor("Circuit is full!", args.Actor, PopupType.MediumCaution);
+            _popup.PopupCursor("Схема заполнена!", args.Actor, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 

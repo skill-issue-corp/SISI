@@ -187,7 +187,7 @@ public sealed partial class ForgingSystem : EntitySystem
         var metalName = metalProto.Name;
         var itemProto = ProtoMan.Index(item);
         var itemName = itemProto.DisplayName(ProtoMan);
-        _meta.SetEntityName(uid, $"unfinished {metalName} {itemName}");
+        _meta.SetEntityName(uid, $"незавершённая заготовка ({metalName}, {itemName})"); // SIS-TODO: Анхаркод локали
 
         // actually let the result be made by working it
         var workable = Comp<WorkableComponent>(uid);

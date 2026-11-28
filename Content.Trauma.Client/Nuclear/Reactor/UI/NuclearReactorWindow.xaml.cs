@@ -109,7 +109,7 @@ public sealed partial class NuclearReactorWindow : FancyWindow
         ReactorTempBar.Value = comp.Temperature;
         _temperatureBar.BackgroundColor = GetColor(Atmospherics.T20C, ReactorTempBar.MaxValue * 0.75, comp.Temperature);
 
-        ReactorRadsValue.Text = comp.RadiationLevel <= comp.MaximumRadiation ? Math.Round(comp.RadiationLevel, 1).ToString() : "OVERLOAD";
+        ReactorRadsValue.Text = comp.RadiationLevel <= comp.MaximumRadiation ? Math.Round(comp.RadiationLevel, 1).ToString() : "ПЕРЕГРУЗКА"; // SIS-TODO: Анхаркод локали
         ReactorRadsBar.Value = comp.RadiationLevel;
         _radiationBar.BackgroundColor = GetColor(0, ReactorRadsBar.MaxValue * 0.5, comp.RadiationLevel);
 
@@ -133,7 +133,7 @@ public sealed partial class NuclearReactorWindow : FancyWindow
         Shelf.Visible = _monitor == null;
 
         _hasItem = comp.PartSlot.Item != null;
-        ItemName.Text = comp.PartSlot.Item is { } item ? Name(item) : "empty";
+        ItemName.Text = comp.PartSlot.Item is { } item ? Name(item) : "пусто"; // SIS-TODO: Анхаркод локали
         EjectItem.Disabled = !_hasItem;
     }
 
@@ -244,7 +244,7 @@ public sealed partial class NuclearReactorWindow : FancyWindow
                 _reactorRect[pos].TexturePath = $"/Textures/_FarHorizons/Structures/Power/Generation/FissionGenerator/reactor_part_inserted/{icon}.png";
 
                 _reactorButton[pos].ToolTip = data != null
-                    ? $"Fuel Level: {(int)Math.Round(GetFuelLevel(data) * 100)}%"
+                    ? $"Уровень Топлива: {(int)Math.Round(GetFuelLevel(data) * 100)}%" // SIS-TODO: Анхаркод локали
                     : "";
             }
         }
@@ -330,7 +330,7 @@ public sealed partial class NuclearReactorWindow : FancyWindow
         _hasTarget = part != null;
         TargetName.Text = part != null
             ? Name(part.Value)
-            : "empty";
+            : "пусто"; // SIS-TODO: Анхаркод локали
         var data = _data[index];
         if (data == null)
         {

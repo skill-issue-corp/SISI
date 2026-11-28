@@ -75,7 +75,7 @@ public sealed partial class ClientBloodCultSystem : BloodCultSystem
         var areas = ContentLocalizationManager.FormatList(areasList);
         var label = new Label()
         {
-            Text = $"The veil is thin in these special ritual sites:\n{areas}"
+            Text = $"Завеса тонка в этих ритуальных зонах:\n{areas}" // SIS-TODO: Анхаркод локали
         };
         args.Controls.Add(label);
     }

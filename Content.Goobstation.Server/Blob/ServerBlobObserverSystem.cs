@@ -95,7 +95,7 @@ public sealed partial class ServerBlobObserverSystem : BlobObserverSystem
                 session.AttachedEntity is not { } uid ||
                 !_mind.TryGetMind(uid, out mindId, out mind))
             {
-                (mindId, mind) = _mind.CreateMind(userId, "Blob Player");
+                (mindId, mind) = _mind.CreateMind(userId, "Игрок Блоба"); // SIS-TODO: Анхаркод локали
                 isNewMind = true;
             }
         }
@@ -106,7 +106,7 @@ public sealed partial class ServerBlobObserverSystem : BlobObserverSystem
             if (_player.TryGetSessionById(mind.UserId, out var session1))
                 name = session1.Name;
             _mind.WipeMind(mindId, mind);
-            (mindId, mind) = _mind.CreateMind(userId, $"Blob Player ({name})");
+            (mindId, mind) = _mind.CreateMind(userId, $"Игрок Блоба ({name})"); // SIS-TODO: Анхаркод локали
         }
 
         _role.MindAddRole(mindId, core.Comp.MindRoleBlobPrototypeId.Id);

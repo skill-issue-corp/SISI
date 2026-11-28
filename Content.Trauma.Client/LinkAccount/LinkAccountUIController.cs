@@ -79,7 +79,7 @@ public sealed partial class LinkAccountUIController : UIController, IOnSystemCha
 
         var user = FormattedMessage.EscapeText(message.User);
         var msg = FormattedMessage.EscapeText(message.Message);
-        gui.LobbyMessageLabel.SetMarkupPermissive($"[font size=20]Lobby message by: {user}\n{msg}[/font]");
+        gui.LobbyMessageLabel.SetMarkupPermissive($"[font size=20]Автор сообщения в лобби: {user}\n{msg}[/font]"); // SIS-TODO: Анхаркод локали
     }
 
     public void ToggleWindow()

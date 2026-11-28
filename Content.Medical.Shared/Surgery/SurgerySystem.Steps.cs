@@ -172,7 +172,7 @@ public sealed partial class SurgerySystem
             args.Invalid = StepInvalidReason.MissingTool;
 
             if (reg.Component is BaseSurgeryToolComponent required)
-                args.Popup = $"You need {required.ToolName} to perform this step!";
+                args.Popup = $"Для этого этапа нужен инструмент: {required.ToolName}!"; // SIS-TODO: Анхаркод локали
             else
                 Log.Error($"Surgery step {ToPrettyString(ent)} wants bad component {reg.Component} which isn't a ISurgeryTool");
 

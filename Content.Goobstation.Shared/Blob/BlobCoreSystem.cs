@@ -79,7 +79,7 @@ public abstract partial class BlobCoreSystem : EntitySystem
         ent.Comp.NextDamagePopup = now + ent.Comp.DamagePopupDelay;
         DirtyField(ent, ent.Comp, nameof(BlobCoreComponent.NextDamagePopup));
         var type = delta.GetTotal() > ent.Comp.LargeDamageThreshold ? PopupType.LargeCaution : PopupType.MediumCaution;
-        _popup.PopupEntity("Your core is under attack!", user, user, type);
+        _popup.PopupEntity("Ваше ядро атакуют!", user, user, type); // SIS-TODO: Анхаркод локали
     }
 
     [SubscribeLocalEvent]
@@ -295,7 +295,7 @@ public abstract partial class BlobCoreSystem : EntitySystem
         {
             if (AnyTileInRange(core, newTile, coords, range))
             {
-                _popup.PopupCoordinates("Too close to another tile of the same type!", coords, user, PopupType.Large);
+                _popup.PopupCoordinates("Слишком близко к другому тайлу того же типа!", coords, user, PopupType.Large); // SIS-TODO: Анхаркод локали
                 return false;
             }
         }

@@ -57,7 +57,7 @@ public sealed class InjectorStatusControl : Control
             _prevBehavior = activeMode.Behavior;
 
             if (changed)
-                _label.SetMarkup($"Empty\nMode: [color=white]{Loc.GetString(activeMode.Name)}[/color]");
+                _label.SetMarkup($"Пусто\nРежим: [color=white]{Loc.GetString(activeMode.Name)}[/color]"); // SIS-TODO: Анхаркод локали
 
             return;
         }

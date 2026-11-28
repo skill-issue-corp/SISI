@@ -304,7 +304,7 @@ public sealed partial class GunSystem
                             }),
                             (_noMagazineLabel = new Label
                             {
-                                Text = "No Magazine!",
+                                Text = "Нет Магазина!", // SIS-TODO: Анхаркод локали
                                 StyleClasses = {StyleClass.ItemStatus}
                             })
                         }

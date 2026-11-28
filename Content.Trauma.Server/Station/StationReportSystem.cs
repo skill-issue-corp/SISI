@@ -55,8 +55,8 @@ public sealed partial class StationReportSystem : EntitySystem
 
             // TODO: custom greenshift/threat level announcement
             _chat.DispatchStationAnnouncement(station,
-                "Сводка о состоянии станции была скопирована и распечатана на всех консолях связи.",
-                "Станционный Отчёт");
+                "Сводка о состоянии станции была скопирована и распечатана на всех консолях связи.", // SIS-TODO: Анхаркод локали
+                "Станционный Отчёт"); // SIS-TODO: Анхаркод локали
         }
     }
 
@@ -72,19 +72,19 @@ public sealed partial class StationReportSystem : EntitySystem
     {
         _sb.Clear();
         var date = DateTime.UtcNow.AddYears(_years).ToString("ddd, MMM dd, yyyy");
-        _sb.AppendLine($"[bolditalic]Уведомление об угрозе Департамента разведки NanoTrasen, сектор Sol, TCD {date}:[/bolditalic]\n");
+        _sb.AppendLine($"[bolditalic]Уведомление об угрозе Департамента разведки NanoTrasen, сектор Sol, TCD {date}:[/bolditalic]\n"); // SIS-TODO: Анхаркод локали
 
         // TODO: actual dynamic gamemode reports lol
-        _sb.AppendLine("Уровень угрозы: [bold]Жёлтая Звезда[/bold]");
-        _sb.AppendLine("   Уровень угрозы вашего сектора — жёлтая звезда.");
-        _sb.AppendLine("   Данные наблюдения показывают достоверный риск вражеской атаки на наши активы в секторе Sol.");
-        _sb.AppendLine("   Мы рекомендуем повысить уровень безопасности и сохранять бдительность в отношении потенциальных угроз.\n");
+        _sb.AppendLine("Уровень угрозы: [bold]Жёлтая Звезда[/bold]"); // SIS-TODO: Анхаркод локали
+        _sb.AppendLine("   Уровень угрозы вашего сектора — жёлтая звезда."); // SIS-TODO: Анхаркод локали
+        _sb.AppendLine("   Данные наблюдения показывают достоверный риск вражеской атаки на наши активы в секторе Sol."); // SIS-TODO: Анхаркод локали
+        _sb.AppendLine("   Мы рекомендуем повысить уровень безопасности и сохранять бдительность в отношении потенциальных угроз.\n"); // SIS-TODO: Анхаркод локали
 
         // TODO: station goals
 
         _traits.AppendReport(_sb, station);
 
-        _sb.AppendLine($"\n\n[italic]Данное уведомление предназначено для персонала {Name(station)}. Если это не ваша станция, вы обязаны немедленно уничтожить этот документ.[/italic]");
+        _sb.AppendLine($"\n\n[italic]Данное уведомление предназначено для персонала {Name(station)}. Если это не ваша станция, вы обязаны немедленно уничтожить этот документ.[/italic]"); // SIS-TODO: Анхаркод локали
 
         return _sb.ToString();
     }

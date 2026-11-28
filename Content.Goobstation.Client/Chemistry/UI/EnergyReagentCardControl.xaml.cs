@@ -47,6 +47,6 @@ public sealed partial class EnergyReagentCardControl : Control
     public void SetAmount(int amount)
     {
         var total = EnergyCost * amount;
-        FillLabel.Text = $"{total} J ({EnergyCost} J/u)";
+        FillLabel.Text = $"{total} Дж ({EnergyCost} Дж/ед.)"; // SIS-TODO: Анхаркод локали
     }
 }

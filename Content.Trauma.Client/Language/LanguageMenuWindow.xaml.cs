@@ -89,7 +89,7 @@ public sealed partial class LanguageMenuWindow : DefaultWindow
             HorizontalExpand = true
         };
 
-        var button = new Button { Text = "Choose" };
+        var button = new Button { Text = "Выбрать" }; // SIS-TODO: Анхаркод локали
         button.OnPressed += _ => OnLanguageChosen(language);
         state.Button = button;
 

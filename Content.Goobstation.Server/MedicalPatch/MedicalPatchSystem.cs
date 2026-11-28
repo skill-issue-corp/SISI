@@ -84,7 +84,7 @@ public sealed partial class MedicalPatchSystem : EntitySystem
         var realTransferAmount = FixedPoint2.Min(transferAmount, targetSolution.AvailableVolume);
         if (realTransferAmount <= 0)
         {
-            _popup.PopupEntity(Loc.GetString("No room to inject"), target);
+            _popup.PopupEntity("Нет места для введения вещества", target); // SIS-TODO: Анхаркод локали
             return true;
         }
         var removedSolution = _solution.SplitSolution(medicalPatchSoln.Value, realTransferAmount);

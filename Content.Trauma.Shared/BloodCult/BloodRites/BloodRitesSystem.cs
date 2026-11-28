@@ -75,7 +75,7 @@ public sealed partial class BloodRitesSystem : EntitySystem
             return;
 
         args.Handled = true;
-        _popup.PopupEntity($"You absorbed {amount}u of blood from the puddles.", user, user);
+        _popup.PopupEntity($"Вы поглотили {amount} ед. крови из луж.", user, user); // SIS-TODO: Анхаркод локали
         PlayExtractSound(rites, user);
         rites.Comp.StoredBlood += amount;
         Dirty(rites);
@@ -117,7 +117,7 @@ public sealed partial class BloodRitesSystem : EntitySystem
         var user = args.User;
 
         var amount = FixedPoint2.Min(ent.Comp.StoredBlood, rites.Comp.BloodExtractionAmount);
-        _popup.PopupEntity($"You absorbed {amount}u of blood from the orb.", user, user);
+        _popup.PopupEntity($"Вы поглотили {amount} ед. крови из сферы.", user, user); // SIS-TODO: Анхаркод локали
         PlayExtractSound(rites, user);
         ent.Comp.StoredBlood -= amount;
         rites.Comp.StoredBlood += amount;
@@ -133,7 +133,7 @@ public sealed partial class BloodRitesSystem : EntitySystem
     [SubscribeLocalEvent]
     private void OnExamined(Entity<BloodRitesAuraComponent> rites, ref ExaminedEvent args)
     {
-        args.PushMarkup($"It has [color=darkred]{rites.Comp.StoredBlood}u of blood[/color] stored.");
+        args.PushMarkup($"Содержит [color=darkred]{rites.Comp.StoredBlood} ед. крови[/color]."); // SIS-TODO: Анхаркод локали
     }
 
     [SubscribeLocalEvent]
@@ -169,12 +169,12 @@ public sealed partial class BloodRitesSystem : EntitySystem
         var blood = DrainBlood(target);
         if (blood <= FixedPoint2.Zero)
         {
-            _popup.PopupEntity($"You couldn't absorb any blood from {name}!", user, user);
+            _popup.PopupEntity($"Не удалось поглотить кровь. Источник: {name}!", user, user); // SIS-TODO: Анхаркод локали
             return;
         }
 
         rites.Comp.StoredBlood += blood;
-        _popup.PopupEntity($"You absorbed {blood}u of blood from {name}.", user, user);
+        _popup.PopupEntity($"Вы поглотили {blood} ед. крови. Источник: {name}.", user, user); // SIS-TODO: Анхаркод локали
         PlayExtractSound(rites, user);
 
         args.Handled = true;
@@ -232,7 +232,7 @@ public sealed partial class BloodRitesSystem : EntitySystem
     {
         if (rites.Comp.StoredBlood <= FixedPoint2.Zero)
         {
-            _popup.PopupEntity("Your rites are completely out of blood...", rites, user, PopupType.SmallCaution);
+            _popup.PopupEntity("В ваших обрядах совсем не осталось крови...", rites, user, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return false;
         }
 
@@ -304,7 +304,7 @@ public sealed partial class BloodRitesSystem : EntitySystem
 
         if (rites.Comp.StoredBlood <= FixedPoint2.Zero)
         {
-            _popup.PopupEntity("Your rites are completely out of blood...", rites, user, PopupType.SmallCaution);
+            _popup.PopupEntity("В ваших обрядах совсем не осталось крови...", rites, user, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return false;
         }
 

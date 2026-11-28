@@ -94,7 +94,7 @@ public sealed partial class UserDbDataManager : IPostInjectInit
             _sawmill.Error($"Load of user data failed: {e}");
 
             // Kick them from server, since something is hosed. Let them try again I guess.
-            session.Channel.Disconnect("Loading of server user data failed, this is a bug.");
+            session.Channel.Disconnect("Не удалось загрузить данные пользователя на сервере. Сообщите об ошибке."); // SIS-TODO: Анхаркод локали
 
             // We throw a OperationCanceledException so users of WaitLoadComplete() always see cancellation here.
             throw new OperationCanceledException("Load of user data cancelled due to unknown error");

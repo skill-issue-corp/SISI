@@ -62,7 +62,7 @@ public sealed partial class PollVotingWindow : FancyWindow
         var closedCount = polls.Count - activeCount;
 
         if (closedCount > 0)
-            StatusLabel.Text = $"{activeCount} active, {closedCount} closed";
+            StatusLabel.Text = $"Активных: {activeCount}, закрытых: {closedCount}"; // SIS-TODO: Анхаркод локали
         else
             StatusLabel.Text = Loc.GetString("poll-voting-window-polls-count", ("count", polls.Count));
 
@@ -204,7 +204,7 @@ public sealed class PollControl : BoxContainer
 
         var statusLabel = new Label
         {
-            Text = isClosed ? "[CLOSED]" : "[ACTIVE]",
+            Text = isClosed ? "[ЗАКРЫТ]" : "[АКТИВЕН]", // SIS-TODO: Анхаркод локали
             StyleClasses = { "LabelSubText" },
             FontColorOverride = isClosed ? new Color(1.0f, 0.4f, 0.4f) : new Color(0.5f, 1.0f, 0.5f),
             Margin = new Thickness(8, 0, 0, 0)
@@ -232,7 +232,7 @@ public sealed class PollControl : BoxContainer
         {
             var creatorLabel = new Label
             {
-                Text = "By: " + _poll.CreatedByName,
+                Text = $"Автор: {_poll.CreatedByName}", // SIS-TODO: Анхаркод локали
                 FontColorOverride = new Color(0.6f, 0.7f, 0.9f),
                 StyleClasses = { "LabelSubText" }
             };
@@ -268,7 +268,7 @@ public sealed class PollControl : BoxContainer
         {
             var multiLabel = new Label
             {
-                Text = "Multiple Choice",
+                Text = "Несколько Вариантов", // SIS-TODO: Анхаркод локали
                 FontColorOverride = new Color(0.5f, 0.8f, 1.0f),
                 StyleClasses = { "LabelSubText" }
             };
@@ -388,7 +388,7 @@ public sealed class PollControl : BoxContainer
             {
                 var button = new Button
                 {
-                    Text = "Vote",
+                    Text = "Голосовать", // SIS-TODO: Анхаркод локали
                     ToggleMode = true,
                     Pressed = hasVoted,
                     Group = buttonGroup,
@@ -457,7 +457,7 @@ public sealed class PollControl : BoxContainer
 
         var voteLabel = new Label
         {
-            Text = $"{option.VoteCount} votes ({percentage:F1}%)",
+            Text = $"Голосов: {option.VoteCount} ({percentage:F1}%)", // SIS-TODO: Анхаркод локали
             FontColorOverride = hasVoted ? new Color(0.5f, 0.9f, 0.6f) : new Color(0.6f, 0.6f, 0.7f),
             StyleClasses = { "LabelSubText" }
         };

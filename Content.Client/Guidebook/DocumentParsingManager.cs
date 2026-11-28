@@ -104,7 +104,7 @@ public sealed partial class DocumentParsingManager
                         if (!tag.TryParseTag(args, out var control))
                         {
                             _sawmill.Error($"Failed to parse {tagId} args");
-                            return new GuidebookError(args.ToString() ?? tagId, $"Failed to parse {tagId} args");
+                            return new GuidebookError(args.ToString() ?? tagId, $"Не удалось разобрать аргументы элемента {tagId}"); // SIS-TODO: Анхаркод локали
                         }
 
                         foreach (var child in controls)

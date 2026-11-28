@@ -58,7 +58,7 @@ public sealed partial class NetBandwidthPanel : PanelContainer
             .OrderByDescending(p => p.Value)
             .Select(p => $"{TypeAbbreviation.Abbreviate(p.Key)}: {p.Value / kibibyte} KiB total");
         TotalLabel.Text = total.Count() == 0
-            ? "RobustToolbox removes bandwidth information on release, you must compile the game yourself to see it!"
+            ? "В релизной сборке RobustToolbox сведения о пропускной способности недоступны. Чтобы их увидеть, соберите игру самостоятельно!" // SIS-TODO: Анхаркод локали
             : string.Join('\n', total);
     }
 

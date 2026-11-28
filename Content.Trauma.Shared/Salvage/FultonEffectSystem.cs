@@ -62,11 +62,11 @@ public sealed partial class FultonEffectSystem : EntitySystem
 
         if (!ent.Comp.Removeable)
         {
-            _popup.PopupEntity("You aren't able to remove the fulton!", ent, ent, PopupType.SmallCaution);
+            _popup.PopupEntity("Вы не можете снять фултон!", ent, ent, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
-        _popup.PopupEntity("You detach the fulton from yourself.", ent, ent);
+        _popup.PopupEntity("Вы снимаете с себя фултон.", ent, ent); // SIS-TODO: Анхаркод локали
         RemCompDeferred(ent, ent.Comp);
     }
 }

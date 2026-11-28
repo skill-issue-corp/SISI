@@ -23,9 +23,9 @@ public sealed partial class EmergencyShuttleSystem
             _consoleSpams += 1;
             if (_consoleSpams == 5)
             {
-                _chatSystem.TrySendInGameICMessage(uid, "Error 452: RepealButtonOveruseException", InGameICChatType.Speak, hideChat: true);
-                _chatSystem.TrySendInGameICMessage(uid, "The maximum threshold for pressing the repeal button has been exceeded.", InGameICChatType.Speak, hideChat: true);
-                _chatSystem.TrySendInGameICMessage(uid, "Please refrain from further attempts at repeal at this time.", InGameICChatType.Speak, hideChat: true);
+                _chatSystem.TrySendInGameICMessage(uid, "Ошибка 452: RepealButtonOveruseException", InGameICChatType.Speak, hideChat: true); // SIS-TODO: Анхаркод локали
+                _chatSystem.TrySendInGameICMessage(uid, "Превышено допустимое число нажатий кнопки отмены.", InGameICChatType.Speak, hideChat: true); // SIS-TODO: Анхаркод локали
+                _chatSystem.TrySendInGameICMessage(uid, "Пожалуйста, воздержитесь от дальнейших попыток отмены.", InGameICChatType.Speak, hideChat: true); // SIS-TODO: Анхаркод локали
             }
             else if (_consoleSpams >= 7)
             {

@@ -86,7 +86,7 @@ public sealed partial class EnchanterSystem : EntitySystem
         var user = args.User;
         if (_whitelist.IsWhitelistFail(ent.Comp.UserWhitelist, user))
         {
-            _popup.PopupEntity("You are not worthy of using this tome...", user, user, PopupType.MediumCaution);
+            _popup.PopupEntity("Вы недостойны пользоваться этим фолиантом...", user, user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -94,7 +94,7 @@ public sealed partial class EnchanterSystem : EntitySystem
         if (TryComp<EnchantingTableComponent>(table, out var tableComp) &&
             _whitelist.IsWhitelistFail(tableComp.UserWhitelist, user))
         {
-            _popup.PopupEntity("You are not worthy of using this altar...", user, user, PopupType.MediumCaution);
+            _popup.PopupEntity("Вы недостойны пользоваться этим алтарём...", user, user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 

@@ -64,11 +64,11 @@ public abstract partial class TurbineSystem : EntitySystem
             {
                 args.PushMarkup(comp.RPM switch
                 {
-                    <= 1f => "Лопасти не вращаются.",
-                    <= 60f => "Лопасти вращаются медленно.",
-                    _ when comp.RPM <= comp.BestRPM * 0.5 => "Лопасти вращаются.",
-                    _ when comp.RPM <= comp.BestRPM * 1.2 => "Лопасти вращаются быстро.",
-                    _ => "[color=red]Лопасти вращаются с бешеной скоростью![/color]"
+                    <= 1f => "Лопасти не вращаются.", // SIS-TODO: Анхаркод локали
+                    <= 60f => "Лопасти вращаются медленно.", // SIS-TODO: Анхаркод локали
+                    _ when comp.RPM <= comp.BestRPM * 0.5 => "Лопасти вращаются.", // SIS-TODO: Анхаркод локали
+                    _ when comp.RPM <= comp.BestRPM * 1.2 => "Лопасти вращаются быстро.", // SIS-TODO: Анхаркод локали
+                    _ => "[color=red]Лопасти вращаются с бешеной скоростью![/color]" // SIS-TODO: Анхаркод локали
                 }); // SIS-TODO: Анхаркод локали
             }
 
@@ -81,10 +81,10 @@ public abstract partial class TurbineSystem : EntitySystem
                 var health = (float) comp.BladeHealth / comp.BladeHealthMax;
                 args.PushMarkup(health switch
                 {
-                    < 0.25f => "[color=orange]Она критически повреждена![/color]",
-                    < 0.5f => "[color=yellow]Турбина выглядит сильно повреждённой.[/color]",
-                    < 0.75f => "Турбина выглядит немного потрёпанной.",
-                    _ => "Похоже, она в хорошем состоянии."
+                    < 0.25f => "[color=orange]Она критически повреждена![/color]", // SIS-TODO: Анхаркод локали
+                    < 0.5f => "[color=yellow]Турбина выглядит сильно повреждённой.[/color]", // SIS-TODO: Анхаркод локали
+                    < 0.75f => "Турбина выглядит немного потрёпанной.", // SIS-TODO: Анхаркод локали
+                    _ => "Похоже, она в хорошем состоянии." // SIS-TODO: Анхаркод локали
                 }); // SIS-TODO: Анхаркод локали
             }
         }

@@ -24,7 +24,7 @@ public sealed partial class NinjaRuleSystem : GameRuleSystem<NinjaRuleComponent>
 
     private void OnSelectAntag(Entity<NinjaRuleComponent> ent, ref AfterAntagEntitySelectedEvent args)
     {
-        var station = ent.Comp.TargetStation != null ? Name(ent.Comp.TargetStation.Value) : "the station";
+        var station = ent.Comp.TargetStation != null ? Name(ent.Comp.TargetStation.Value) : "станция"; // SIS-TODO: Анхаркод локали
         var entry = _greeting.CreateGreetingEntry("ninja-", args.Def.Briefing, ("station", station));
         _antag.SendBriefing(args.EntityUid, entry);
     }

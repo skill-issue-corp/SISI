@@ -45,7 +45,7 @@ public sealed partial class ShadowlingAscensionEggComponent : Component
     /// The verb text.
     /// </summary>
     [DataField]
-    public string VerbName = "Start Ascension";
+    public string VerbName = "Начать Вознесение"; // SIS-TODO: Анхаркод локали
 
     /// <summary>
     /// This is an object that exists for visual reasons only.

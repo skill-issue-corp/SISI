@@ -30,8 +30,8 @@ public sealed partial class StackCountCondition : IGraphCondition
         var diff = Math.Abs(count - Count);
         var word = diff == 1 ? "piece" : "pieces";
         args.PushMarkup(count < Count
-            ? $"You need {diff} more {word}\n"
-            : $"You need to remove {diff} {word} from it\n");
+            ? $"Нужно добавить {diff} ед. ({word})\n" // SIS-TODO: Анхаркод локали
+            : $"Нужно убрать {diff} ед. ({word})\n"); // SIS-TODO: Анхаркод локали
         return true;
     }
 

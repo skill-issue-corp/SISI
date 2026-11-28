@@ -103,7 +103,7 @@ public abstract partial class ActionLairSystem : EntitySystem
         if (!_lairQuery.TryComp(target, out var lair))
             return;
 
-        _meta.SetEntityDescription(target, "Владелец этого гроба, возможно, никому не был дорог, а может, ещё и не совсем отбыл в мир иной.");
+        _meta.SetEntityDescription(target, "Владелец этого гроба, возможно, никому не был дорог, а может, ещё и не совсем отбыл в мир иной."); // SIS-TODO: Анхаркод локали
 
         lair.Vampire = args.User;
         Dirty(target, lair);

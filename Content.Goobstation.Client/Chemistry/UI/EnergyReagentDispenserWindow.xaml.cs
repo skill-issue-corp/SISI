@@ -231,7 +231,7 @@ public sealed partial class EnergyReagentDispenserWindow : FancyWindow
 
             var totalCost = card.EnergyCost * _selectedAmount;
             card.SetAmount(_selectedAmount);
-            card.SetDisabled(totalCost > _batteryCharge, "Insufficient energy");
+            card.SetDisabled(totalCost > _batteryCharge, "Недостаточно энергии"); // SIS-TODO: Анхаркод локали
         }
     }
 }

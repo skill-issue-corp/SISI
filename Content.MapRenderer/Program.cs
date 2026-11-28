@@ -17,9 +17,9 @@ namespace Content.MapRenderer
 {
     internal sealed class Program
     {
-        private const string NoMapsChosenMessage = "No maps were chosen";
-        private static readonly Func<string, string> ChosenMapIdNotIntMessage = id => $"The chosen id is not a valid integer: {id}";
-        private static readonly Func<int, string> NoMapFoundWithIdMessage = id => $"No map found with chosen id: {id}";
+        private const string NoMapsChosenMessage = "Карты не выбраны"; // SIS-TODO: Анхаркод локали
+        private static readonly Func<string, string> ChosenMapIdNotIntMessage = id => $"ID карты должен быть целым числом: {id}"; // SIS-TODO: Анхаркод локали
+        private static readonly Func<int, string> NoMapFoundWithIdMessage = id => $"Карта с указанным ID не найдена: {id}"; // SIS-TODO: Анхаркод локали
 
         internal static async Task Main(string[] args)
         {

@@ -273,7 +273,7 @@ public sealed partial class CircuitConstantGate : CircuitGate
 
     public override string Name => "CONST";
     public override string Category => string.Empty; // UI has a dedicated thing to add constants, hide it
-    public override string Desc => $"Always has a constant output value: {Output}";
+    public override string Desc => $"Всегда выдаёт постоянное значение: {Output}"; // SIS-TODO: Анхаркод локали
     public override GateValue OutputType => GateValue.Any;
     public override int InputCount => 0;
 
@@ -288,9 +288,9 @@ public sealed partial class CircuitConstantGate : CircuitGate
 public sealed partial class CircuitMemoryCell : CircuitGate
 {
     public override string Name => "MEM";
-    public override string Category => "Misc";
+    public override string Category => "Разное"; // SIS-TODO: Анхаркод локали
     public override GateValue OutputType => GateValue.Any;
-    public override string Desc => "Always outputs the value stored in memory.\nIf the second input is set to true, stores the first input to memory.";
+    public override string Desc => "Выдаёт сохранённое в памяти значение.\nЕсли на втором входе true, записывает значение с первого входа в память."; // SIS-TODO: Анхаркод локали
     public override int InputCount => 2;
 
     public override void Update(CircuitComponent comp)
@@ -308,9 +308,9 @@ public sealed partial class CircuitMemoryCell : CircuitGate
 public sealed partial class CircuitIfElse : CircuitGate
 {
     public override string Name => "IF";
-    public override string Category => "Misc";
+    public override string Category => "Разное"; // SIS-TODO: Анхаркод локали
     public override GateValue OutputType => GateValue.Any;
-    public override string Desc => "Outputs the second input if the first is true, the third if false.";
+    public override string Desc => "Выдаёт значение со второго входа, если на первом true, или с третьего, если false."; // SIS-TODO: Анхаркод локали
     public override int InputCount => 3;
 
     public override void Update(CircuitComponent comp)
@@ -338,15 +338,15 @@ public sealed partial class CircuitLogicGate : CircuitGate
     public LogicGate Gate = LogicGate.Or;
 
     public override string Name => Gate.ToString().ToUpper();
-    public override string Category => "Boolean Logic";
+    public override string Category => "Булева Логика"; // SIS-TODO: Анхаркод локали
     public override string Desc => Gate switch
     {
-        LogicGate.Or => "True if at least 1 input is true",
-        LogicGate.And => "True if both inputs are true",
-        LogicGate.Xor => "True if the inputs are different",
-        LogicGate.Nor => "True if both inputs are false",
-        LogicGate.Nand => "True if at most 1 input is true",
-        LogicGate.Xnor => "True if the inputs are the same",
+        LogicGate.Or => "Истина, если хотя бы на одном входе истина", // SIS-TODO: Анхаркод локали
+        LogicGate.And => "Истина, если на обоих входах истина", // SIS-TODO: Анхаркод локали
+        LogicGate.Xor => "Истина, если значения на входах различаются", // SIS-TODO: Анхаркод локали
+        LogicGate.Nor => "Истина, если на обоих входах ложь", // SIS-TODO: Анхаркод локали
+        LogicGate.Nand => "Истина, если истина не более чем на одном входе", // SIS-TODO: Анхаркод локали
+        LogicGate.Xnor => "Истина, если значения на входах совпадают", // SIS-TODO: Анхаркод локали
         _ => string.Empty
     };
     public override GateValue OutputType => GateValue.Bool;
@@ -392,8 +392,8 @@ public sealed partial class CircuitLogicGate : CircuitGate
 public sealed partial class CircuitStrLenGate : CircuitGate
 {
     public override string Name => "LEN";
-    public override string Category => "Strings";
-    public override string Desc => "Outputs the input string's length as an integer";
+    public override string Category => "Строки"; // SIS-TODO: Анхаркод локали
+    public override string Desc => "Выдаёт длину входной строки целым числом"; // SIS-TODO: Анхаркод локали
     public override GateValue OutputType => GateValue.Int;
     public override int InputCount => 1;
 
@@ -411,8 +411,8 @@ public sealed partial class CircuitStrLenGate : CircuitGate
 public sealed partial class CircuitStrCharGate : CircuitGate
 {
     public override string Name => "CHAR";
-    public override string Category => "Strings";
-    public override string Desc => "First input: string, second input: int, output: int value of the string at that position";
+    public override string Category => "Строки"; // SIS-TODO: Анхаркод локали
+    public override string Desc => "Первый вход — строка, второй — позиция. На выходе числовой код символа на этой позиции."; // SIS-TODO: Анхаркод локали
     public override GateValue OutputType => GateValue.Int;
     public override int InputCount => 2;
 
@@ -434,13 +434,13 @@ public sealed partial class CircuitStrCompareGate : CircuitGate
     public NameFilterMode Mode = NameFilterMode.Contain;
 
     public override string Name => Mode.ToString().ToUpper();
-    public override string Category => "Strings";
+    public override string Category => "Строки"; // SIS-TODO: Анхаркод локали
     public override string Desc => Mode switch
     {
-        NameFilterMode.Contain => "True if the first input string contains the second input string",
-        NameFilterMode.Start => "True if the first input string starts with the second input string",
-        NameFilterMode.End => "True if the first input string ends with the second input string",
-        NameFilterMode.Match => "True if the first input string is the same as the second input string",
+        NameFilterMode.Contain => "Истина, если первая строка содержит вторую", // SIS-TODO: Анхаркод локали
+        NameFilterMode.Start => "Истина, если первая строка начинается со второй", // SIS-TODO: Анхаркод локали
+        NameFilterMode.End => "Истина, если первая строка заканчивается второй", // SIS-TODO: Анхаркод локали
+        NameFilterMode.Match => "Истина, если строки на входах совпадают", // SIS-TODO: Анхаркод локали
         _ => string.Empty
     };
     public override GateValue OutputType => GateValue.Bool;
@@ -480,8 +480,8 @@ public sealed partial class CircuitStrCompareGate : CircuitGate
 public sealed partial class CircuitStrLowerGate : CircuitGate
 {
     public override string Name => "LOWER";
-    public override string Category => "Strings";
-    public override string Desc => "Makes a string lowercase";
+    public override string Category => "Строки"; // SIS-TODO: Анхаркод локали
+    public override string Desc => "Переводит строку в нижний регистр"; // SIS-TODO: Анхаркод локали
     public override GateValue OutputType => GateValue.String;
     public override int InputCount => 1;
 
@@ -499,8 +499,8 @@ public sealed partial class CircuitStrLowerGate : CircuitGate
 public sealed partial class CircuitStrUpperGate : CircuitGate
 {
     public override string Name => "UPPER";
-    public override string Category => "Strings";
-    public override string Desc => "Makes a string uppercase";
+    public override string Category => "Строки"; // SIS-TODO: Анхаркод локали
+    public override string Desc => "Переводит строку в верхний регистр"; // SIS-TODO: Анхаркод локали
     public override GateValue OutputType => GateValue.String;
     public override int InputCount => 1;
 
@@ -525,21 +525,21 @@ public sealed partial class CircuitMathGate : CircuitGate
     public MathOp Op = MathOp.Add;
 
     public override string Name => Op.ToString().ToUpper();
-    public override string Category => "Maths";
+    public override string Category => "Математика"; // SIS-TODO: Анхаркод локали
     public override string Desc => Op switch
     {
         // if you need this you need to go to school...
-        MathOp.Add => "Sum of the inputs",
-        MathOp.Sub => "First input minus the second input",
-        MathOp.Mul => "Prodcut of the inputs",
-        MathOp.Div => "First input divided by the second input",
-        MathOp.Rem => "Remainder of dividing the first input by the second input",
-        MathOp.Pow => "First input raised to the second input's power",
-        MathOp.Bor => "Bitwise OR of the inputs",
-        MathOp.Band => "Bitwise AND of the inputs",
-        MathOp.Bxor => "Bitwise XOR of the inputs",
-        MathOp.Bls => "Shift the first input left by the second input bits",
-        MathOp.Brs => "Shift the first input right by the second input bits",
+        MathOp.Add => "Сумма значений на входах", // SIS-TODO: Анхаркод локали
+        MathOp.Sub => "Из значения первого входа вычитается значение второго", // SIS-TODO: Анхаркод локали
+        MathOp.Mul => "Произведение значений на входах", // SIS-TODO: Анхаркод локали
+        MathOp.Div => "Значение первого входа делится на значение второго", // SIS-TODO: Анхаркод локали
+        MathOp.Rem => "Остаток от деления значения первого входа на значение второго", // SIS-TODO: Анхаркод локали
+        MathOp.Pow => "Значение первого входа возводится в степень, заданную на втором входе", // SIS-TODO: Анхаркод локали
+        MathOp.Bor => "Побитовое ИЛИ значений на входах", // SIS-TODO: Анхаркод локали
+        MathOp.Band => "Побитовое И значений на входах", // SIS-TODO: Анхаркод локали
+        MathOp.Bxor => "Побитовое исключающее ИЛИ значений на входах", // SIS-TODO: Анхаркод локали
+        MathOp.Bls => "Сдвигает биты значения первого входа влево на число позиций, заданное на втором", // SIS-TODO: Анхаркод локали
+        MathOp.Brs => "Сдвигает биты значения первого входа вправо на число позиций, заданное на втором", // SIS-TODO: Анхаркод локали
         _ => string.Empty
     };
     public override GateValue OutputType => GateValue.Number;
@@ -618,15 +618,15 @@ public sealed partial class CircuitCompareGate : CircuitGate
         CompareOp.LessEqual => "<=",
         _ => "?"
     };
-    public override string Category => "Logic";
+    public override string Category => "Логика"; // SIS-TODO: Анхаркод локали
     public override string Desc => Op switch
     {
-        CompareOp.Equal => "True if the input numbers are equal",
-        CompareOp.NotEqual => "True if the input numbers are not equal",
-        CompareOp.Greater => "True if the first input is greater than the second input",
-        CompareOp.GreaterEqual => "True if the first input is greather than or equal to the second input",
-        CompareOp.Less => "True if the first input is less than the second input",
-        CompareOp.LessEqual => "Ttrue if the first input is less than or equal to the second input",
+        CompareOp.Equal => "Истина, если числа на входах равны", // SIS-TODO: Анхаркод локали
+        CompareOp.NotEqual => "Истина, если числа на входах различаются", // SIS-TODO: Анхаркод локали
+        CompareOp.Greater => "Истина, если число на первом входе больше числа на втором", // SIS-TODO: Анхаркод локали
+        CompareOp.GreaterEqual => "Истина, если число на первом входе больше либо равно числу на втором", // SIS-TODO: Анхаркод локали
+        CompareOp.Less => "Истина, если число на первом входе меньше числа на втором", // SIS-TODO: Анхаркод локали
+        CompareOp.LessEqual => "Истина, если число на первом входе меньше либо равно числу на втором", // SIS-TODO: Анхаркод локали
         _ => string.Empty
     };
     public override GateValue OutputType => GateValue.Bool;
@@ -691,15 +691,15 @@ public sealed partial class CircuitTrigGate : CircuitGate
         TrigOp.ATan => "ATAN",
         _ => "?"
     };
-    public override string Category => "Trig";
+    public override string Category => "Тригонометрия"; // SIS-TODO: Анхаркод локали
     public override string Desc => Op switch
     {
-        TrigOp.Sin => "sin(angle) = opposite / hypotenuse",
-        TrigOp.Cos => "cos(angle) = opposite / hypotenuse",
-        TrigOp.Tan => "tan(angle) = opposite / adjacent",
-        TrigOp.ASin => "asin(opposite / hypotenuse) = angle",
-        TrigOp.ACos => "acos(opposite / hypotenuse) = angle",
-        TrigOp.ATan => "atan(opposite / adjacent) = angle", // atan2 can be done with a divide gate before it
+        TrigOp.Sin => "sin(угол) = противолежащий катет / гипотенуза", // SIS-TODO: Анхаркод локали
+        TrigOp.Cos => "cos(угол) = прилежащий катет / гипотенуза", // SIS-TODO: Анхаркод локали
+        TrigOp.Tan => "tan(угол) = противолежащий катет / прилежащий катет", // SIS-TODO: Анхаркод локали
+        TrigOp.ASin => "asin(противолежащий катет / гипотенуза) = угол", // SIS-TODO: Анхаркод локали
+        TrigOp.ACos => "acos(прилежащий катет / гипотенуза) = угол", // SIS-TODO: Анхаркод локали
+        TrigOp.ATan => "atan(противолежащий катет / прилежащий катет) = угол", // atan2 can be done with a divide gate before it // SIS-TODO: Анхаркод локали
         _ => string.Empty
     };
     public override GateValue OutputType => GateValue.Number;

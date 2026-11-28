@@ -341,7 +341,7 @@ public sealed partial class ShuttleNavControl : BaseShuttleControl
                 var gridCenterMapPos = _transform.ToWorldPosition(new EntityCoordinates(gUid, gridBody.LocalCenter));
 
                 var gridDistance = (gridCenterMapPos - mapPos.Position).Length();
-                var labelText = Loc.GetString("shuttle-console-iff-label", ("name", labelName ?? "Unknown"),
+                var labelText = Loc.GetString("shuttle-console-iff-label", ("name", labelName ?? "Неизвестно"), // SIS-TODO: Анхаркод локали
                     ("distance", $"{gridDistance:0.0}"));
                 var coordsText = $"({gridCenterMapPos.X:0.0}, {gridCenterMapPos.Y:0.0})";
 

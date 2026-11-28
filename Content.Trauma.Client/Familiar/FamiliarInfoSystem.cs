@@ -21,7 +21,7 @@ public sealed partial class FamiliarInfoSystem : EntitySystem
         master = FormattedMessage.EscapeText(master);
         var label = new RichTextLabel()
         {
-            Text = $"[bold]{master}[/bold] is your master, serve them faithfully!",
+            Text = $"Ваш хозяин — [bold]{master}[/bold]. Служите верно!", // SIS-TODO: Анхаркод локали
             Margin = new Thickness(8, 4)
         };
         args.Controls.Add(label);

@@ -268,7 +268,7 @@ namespace Content.Server.Administration.UI
 
             var playerRecord = await _db.GetPlayerRecordByUserId(ua.UserId);
             var name = playerRecord?.LastSeenUserName ?? ua.UserId.ToString();
-            var title = ua.Title ?? "<no title>";
+            var title = ua.Title ?? "<без названия>"; // SIS-TODO: Анхаркод локали
             var flags = AdminFlagsHelper.PosNegFlagsText(ua.PosFlags, ua.NegFlags);
 
             _sawmill.Info($"{Player} updated admin {name} to {title}/{rankName}/{flags}");
@@ -330,7 +330,7 @@ namespace Content.Server.Administration.UI
                 return;
             }
 
-            rankName ??= "<no rank>";
+            rankName ??= "<без ранга>"; // SIS-TODO: Анхаркод локали
 
             var admin = new Admin
             {
@@ -343,7 +343,7 @@ namespace Content.Server.Administration.UI
 
             await _db.AddAdminAsync(admin);
 
-            var title = ca.Title ?? "<no title>";
+            var title = ca.Title ?? "<без названия>"; // SIS-TODO: Анхаркод локали
             var flags = AdminFlagsHelper.PosNegFlagsText(ca.PosFlags, ca.NegFlags);
 
             _sawmill.Info($"{Player} added admin {name} as {title}/{rankName}/{flags}");

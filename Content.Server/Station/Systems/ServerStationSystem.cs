@@ -298,7 +298,7 @@ public sealed partial class ServerStationSystem : Shared.Station.Systems.Station
 
         if (loud)
         {
-            _chatSystem.DispatchStationAnnouncement(station, $"The station {oldName} has been renamed to {name}.");
+            _chatSystem.DispatchStationAnnouncement(station, $"Станция «{oldName}» переименована в «{name}»."); // SIS-TODO: Анхаркод локали
         }
 
         RaiseLocalEvent(station, new StationRenamedEvent(oldName, name), true);

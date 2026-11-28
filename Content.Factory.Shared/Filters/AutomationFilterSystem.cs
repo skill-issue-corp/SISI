@@ -91,11 +91,10 @@ public sealed partial class AutomationFilterSystem : EntitySystem
 
         var allowed = IsAllowed(ent, item);
         var msg = new FormattedMessage();
-        msg.AddMarkupOrThrow("Your [bold]");
+        msg.AddMarkupOrThrow("Предмет [bold]"); // SIS-TODO: Анхаркод локали
         msg.AddText(Name(item));
         msg.AddMarkupOrThrow("[/bold] ");
-        msg.AddMarkupOrThrow(allowed ? "[color=green]matches[/color]" : "[color=red]does not match[/color]");
-        msg.AddText(" this filter.");
+        msg.AddMarkupOrThrow(allowed ? "[color=green]соответствует[/color] фильтру." : "[color=red]не соответствует[/color] фильтру."); // SIS-TODO: Анхаркод локали
         args.PushMessage(msg, priority: 1);
     }
 
@@ -442,16 +441,16 @@ public sealed partial class AutomationFilterSystem : EntitySystem
         if (!args.IsInDetailsRange)
             return;
 
-        var mode = ent.Comp.Inverted ? "[color=red]deny[/color]" : "[color=green]allow[/color]";
+        var mode = ent.Comp.Inverted ? "[color=red]запрет[/color]" : "[color=green]разрешение[/color]"; // SIS-TODO: Анхаркод локали
         var msg = new FormattedMessage();
-        msg.AddMarkupOrThrow($"It's set to {mode} ");
+        msg.AddMarkupOrThrow($"Режим: {mode}. Материалы: "); // SIS-TODO: Анхаркод локали
         if (ent.Comp.Whitelist.Count == 0)
         {
-            msg.AddText("all materials.");
+            msg.AddText("все."); // SIS-TODO: Анхаркод локали
         }
         else if (ent.Comp.Whitelist.Count > 5)
         {
-            msg.AddText($"{ent.Comp.Whitelist.Count} materials.");
+            msg.AddText($"{ent.Comp.Whitelist.Count}."); // SIS-TODO: Анхаркод локали
         }
         else
         {

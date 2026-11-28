@@ -41,7 +41,7 @@ public sealed partial class CultRuneRendingSystem : EntitySystem
         var user = args.User;
         if (!_cult.TargetKilled(rune))
         {
-            args.Popup = "You need to sacrifice the cult's target first!";
+            args.Popup = "Сначала нужно принести в жертву цель культа!"; // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -60,7 +60,7 @@ public sealed partial class CultRuneRendingSystem : EntitySystem
         if (!_doAfter.TryStartDoAfter(argsDoAfterEvent))
         {
             Log.Error($"Failed to start doafter for {ToPrettyString(rune)}!");
-            args.Popup = "Cancelled the invocation!";
+            args.Popup = "Призыв отменён!"; // SIS-TODO: Анхаркод локали
             return;
         }
 

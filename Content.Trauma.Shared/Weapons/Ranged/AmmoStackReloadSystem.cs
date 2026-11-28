@@ -30,7 +30,7 @@ public sealed partial class AmmoStackReloadSystem : EntitySystem
         }
 
         var formatted = ContentLocalizationManager.FormatListToOr(_names);
-        args.PushMarkup($"It can be reloaded using a {formatted}.");
+        args.PushMarkup($"Можно перезарядить с помощью боеприпасов ({formatted})."); // SIS-TODO: Анхаркод локали
     }
 
     [SubscribeLocalEvent]
@@ -53,14 +53,13 @@ public sealed partial class AmmoStackReloadSystem : EntitySystem
         var name = Loc.GetString(ProtoMan.Index(stack.StackTypeId).Name);
         if (count <= 0)
         {
-            _popup.PopupEntity($"It can't hold another {name}!", ent, user);
+            _popup.PopupEntity($"Больше боеприпасов не помещается ({name})!", ent, user); // SIS-TODO: Анхаркод локали
             return;
         }
 
         _stack.ReduceCount((item, stack), count);
 
-        var plural = count == 1 ? "" : "s";
-        _popup.PopupEntity($"You reload {count} {name}{plural}.", ent, user);
+        _popup.PopupEntity($"Заряжено: {count} ед. ({name}).", ent, user); // SIS-TODO: Анхаркод локали
         _gun.UpdateBasicEntityAmmoCount((ent, ammo), current + count);
         Dirty(ent, ammo);
     }

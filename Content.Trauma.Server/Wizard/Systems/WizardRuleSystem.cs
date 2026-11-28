@@ -269,7 +269,7 @@ public sealed partial class WizardRuleSystem : GameRuleSystem<WizardRuleComponen
 
     public bool MakeWizard(EntityUid target, WizardRuleComponent rule, AntagSpecifierPrototype proto) // SIS-ChatGreeting
     {
-        var station = (rule.TargetStation is not null) ? Name(rule.TargetStation.Value) : "the station";
+        var station = (rule.TargetStation is not null) ? Name(rule.TargetStation.Value) : "станция"; // SIS-TODO: Анхаркод локали
         // SIS-ChatGreeting Start
         var entry = _greeting.CreateGreetingEntry("wizard-", proto.Briefing, ("station", station));
         _antag.SendBriefing(target, entry);

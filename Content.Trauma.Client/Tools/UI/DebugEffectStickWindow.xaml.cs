@@ -33,7 +33,7 @@ public sealed partial class DebugEffectStickWindow : FancyWindow
             return;
 
         var selected = comp.Effect;
-        Effects.AddItem("None");
+        Effects.AddItem("Нет"); // SIS-TODO: Анхаркод локали
         var effects = new List<string>();
         foreach (var proto in _proto.EnumeratePrototypes<EntityEffectPrototype>())
         {

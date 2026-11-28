@@ -63,7 +63,7 @@ public sealed partial class GridPreloaderSystem : SharedGridPreloaderSystem
 
         var mapUid = _map.CreateMap(out var mapId, false);
         var preloader = EnsureComp<GridPreloaderComponent>(mapUid);
-        _meta.SetEntityName(mapUid, "GridPreloader Map");
+        _meta.SetEntityName(mapUid, "Карта Предзагрузки Сеток"); // SIS-TODO: Анхаркод локали
         _map.SetPaused(mapId, true);
 
         var globalXOffset = 0f;

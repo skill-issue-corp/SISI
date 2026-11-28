@@ -69,7 +69,7 @@ public sealed partial class EnergyReagentDispenserSystem : EntitySystem
         var amount = FixedPoint2.Min(FixedPoint2.New(ent.Comp.DispenseAmount), sol.AvailableVolume);
         if (amount <= FixedPoint2.Zero)
         {
-            _popup.PopupCursor("No room left for liquids!", user);
+            _popup.PopupCursor("В ёмкости больше нет места для жидкости!", user); // SIS-TODO: Анхаркод локали
             return;
         }
 
