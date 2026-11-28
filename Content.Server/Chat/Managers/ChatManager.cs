@@ -213,7 +213,7 @@ internal sealed partial class ChatManager : IChatManager
         // We shouldn't be repeating this but I don't want to touch any more chat code than necessary
         var playerName = mind.UserId is { } userId && _player.TryGetSessionById(userId, out var session)
             ? session.Name
-            : "Unknown";
+            : "Неизвестно"; // SIS-TODO: Анхаркод локали
 
         SendAdminAlert($"{playerName}{(antag ? " (ANTAG)" : "")} {message}");
     }

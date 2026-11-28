@@ -306,7 +306,7 @@ namespace Content.Server.Communications
             var reason = SharedChatSystem.SanitizeAnnouncement(message.Reason, maxLength);
             if (string.IsNullOrEmpty(reason))
             {
-                _popupSystem.PopupEntity("Missing shuttle call reason", uid, message.Actor);
+                _popupSystem.PopupEntity("Укажите причину вызова шаттла", uid, message.Actor); // SIS-TODO: Анхаркод локали
                 return;
             }
 
@@ -346,7 +346,7 @@ namespace Content.Server.Communications
             var reason = SharedChatSystem.SanitizeAnnouncement(message.Reason, maxLength);
             if (string.IsNullOrEmpty(reason))
             {
-                _popupSystem.PopupEntity("Missing shuttle recall reason", uid, message.Actor);
+                _popupSystem.PopupEntity("Укажите причину отзыва шаттла", uid, message.Actor); // SIS-TODO: Анхаркод локали
                 return; // dont be a chud
             }
 

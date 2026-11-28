@@ -91,7 +91,7 @@ public sealed partial class HealthAnalyzerControl : BoxContainer
         // Basic Diagnostic
 
         TemperatureLabel.Text = !float.IsNaN(state.Temperature)
-            ? $"{state.Temperature - Atmospherics.T0C:F1} °C ({state.Temperature:F1} K)"
+            ? $"{state.Temperature - Atmospherics.T0C:F1} °C ({state.Temperature:F1} К)" // SIS-TODO: Анхаркод локали
             : Loc.GetString("health-analyzer-window-entity-unknown-value-text");
 
         BloodLabel.Text = !float.IsNaN(state.BloodLevel)

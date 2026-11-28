@@ -124,7 +124,7 @@ public sealed partial class CriminalRecordsConsoleSystem : SharedCriminalRecords
 
         // will probably never fail given the checks above
         var name = _records.RecordName(key.Value);
-        var jobName = "Unknown";
+        var jobName = "Неизвестно"; // SIS-TODO: Анхаркод локали
 
         _records.TryGetRecord<GeneralStationRecord>(key.Value, out var entry);
         if (entry != null)

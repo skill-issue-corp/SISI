@@ -99,7 +99,7 @@ public sealed partial class CircuitEditorWindow : FancyWindow
         if (_data is { } data)
         {
             if (_timing.IsFirstTimePredicted) // don't spam update it when adding gates
-                GateCountLabel.Text = $"{data.Gates.Count} gates total";
+                GateCountLabel.Text = $"Всего логических элементов: {data.Gates.Count}"; // SIS-TODO: Анхаркод локали
             for (var i = 0; i < data.Gates.Count; i++)
             {
                 var index = i; // dogshit language :)
@@ -123,7 +123,7 @@ public sealed partial class CircuitEditorWindow : FancyWindow
         }
         else
         {
-            GateCountLabel.Text = "No circuit inserted!";
+            GateCountLabel.Text = "Схема не вставлена!"; // SIS-TODO: Анхаркод локали
             _linking = null;
         }
 

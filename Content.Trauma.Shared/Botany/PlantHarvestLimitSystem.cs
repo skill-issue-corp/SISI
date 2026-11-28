@@ -17,7 +17,7 @@ public sealed partial class PlantHarvestLimitSystem : EntitySystem
             return; // halal
 
         // haram
-        _popup.PopupEntity("There are too many plants!", ent, args.User);
+        _popup.PopupEntity("Слишком много растений!", ent, args.User); // SIS-TODO: Анхаркод локали
         args.Cancelled = true;
     }
 }

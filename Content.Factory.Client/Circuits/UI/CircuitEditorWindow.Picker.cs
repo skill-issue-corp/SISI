@@ -32,7 +32,7 @@ public sealed partial class CircuitEditorWindow
 
         NewGatesContainer.AddChild(new Label()
         {
-            Text = "Constants"
+            Text = "Константы" // SIS-TODO: Анхаркод локали
         });
         AddConstButton<BoolPickerWindow>("Bool");
         AddConstButton<NumberPickerWindow>("Number");

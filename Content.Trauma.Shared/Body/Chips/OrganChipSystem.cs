@@ -275,8 +275,8 @@ public sealed partial class OrganChipSystem : EntitySystem
         {
             var bodyName = Identity.Name(body.Value, EntityManager);
             var userName = Identity.Name(user, EntityManager);
-            _popup.PopupEntity($"You start inserting a chip into {bodyName}'s {name}!", user, user, PopupType.Large);
-            _popup.PopupEntity($"{userName} starts inserting a chip into {name}!", user, body.Value, PopupType.LargeCaution);
+            _popup.PopupEntity($"Вы начинаете вставлять чип (пациент: {bodyName}, орган: {name})!", user, user, PopupType.Large); // SIS-TODO: Анхаркод локали
+            _popup.PopupEntity($"{userName} начинает вставлять вам чип. Орган: {name}!", user, body.Value, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
         }
         else
         {
@@ -310,8 +310,8 @@ public sealed partial class OrganChipSystem : EntitySystem
         {
             var bodyName = Identity.Name(body.Value, EntityManager);
             var userName = Identity.Name(user, EntityManager);
-            _popup.PopupEntity($"You start pulling a chip out of {bodyName}'s {name}!", user, user, PopupType.Large);
-            _popup.PopupEntity($"{userName} starts pulling a chip out of your {name}!", user, body.Value, PopupType.LargeCaution);
+            _popup.PopupEntity($"Вы начинаете извлекать чип (пациент: {bodyName}, орган: {name})!", user, user, PopupType.Large); // SIS-TODO: Анхаркод локали
+            _popup.PopupEntity($"{userName} начинает извлекать ваш чип. Орган: {name}!", user, body.Value, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
         }
         else
         {
@@ -380,21 +380,21 @@ public sealed partial class OrganChipSystem : EntitySystem
             if (!_containerQuery.TryComp(organ, out var container))
             {
                 Log.Error($"Tried to add chip {id} to {ToPrettyString(mob)}'s {category} organ {ToPrettyString(organ)} which was missing OrganChipContainer!");
-                PredictedDel(chip);
+                Del(chip);
                 return;
             }
 
             if (!_container.Insert(chip, container.Container))
             {
                 Log.Error($"Failed to insert chip {id} to {ToPrettyString(mob)}'s {ToPrettyString(organ)} chip container!");
-                PredictedDel(chip);
+                Del(chip);
             }
             return; // inserted
         }
 
         var organs = string.Join(", ", comp.Parents);
         Log.Error($"Tried to add chip {id} to {ToPrettyString(mob)} but it had no organs from {organs}!");
-        PredictedDel(chip);
+        Del(chip);
     }
 }
 

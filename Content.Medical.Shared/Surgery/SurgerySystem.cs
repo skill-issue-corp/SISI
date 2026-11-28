@@ -3,6 +3,7 @@
 using System.Linq;
 using Content.Medical.Common.Body;
 using Content.Medical.Common.Surgery;
+using Content.Medical.Common.Traumas;
 using Content.Medical.Shared.Body;
 using Content.Medical.Shared.Surgery.Conditions;
 using Content.Medical.Shared.Surgery.Steps;
@@ -168,7 +169,7 @@ public sealed partial class SurgerySystem : EntitySystem
             if (_stackQuery.TryComp(tool, out var stack))
                 _stack.TryUse((tool, stack), 1);
             else
-                PredictedQueueDel(tool);
+                QueueDel(tool);
         }
     }
 
@@ -194,7 +195,7 @@ public sealed partial class SurgerySystem : EntitySystem
                 healable: true) <= 0)
         {
             args.Cancelled = true;
-            args.Reason = args.User == args.Body ? "You aren't wounded" : "The patient isn't wounded";
+            args.Reason = args.User == args.Body ? "Вы не ранены" : "Пациент не ранен"; // SIS-TODO: Анхаркод локали
         }
     }
 
@@ -257,7 +258,7 @@ public sealed partial class SurgerySystem : EntitySystem
         if (_body.GetBody(args.Part) == null)
         {
             args.Cancelled = true;
-            args.Reason = "The part must be attached to a body!";
+            args.Reason = "Часть тела должна быть присоединена к телу!"; // SIS-TODO: Анхаркод локали
         }
     }
 
@@ -318,7 +319,7 @@ public sealed partial class SurgerySystem : EntitySystem
             || !HasComp<BodyPartComponent>(args.Part))
         {
             args.Cancelled = true;
-            args.Reason = "You aren't operating on a part!";
+            args.Reason = "Вы не оперируете часть тела!"; // SIS-TODO: Анхаркод локали
         }
     }
 
@@ -332,10 +333,20 @@ public sealed partial class SurgerySystem : EntitySystem
         // inverted = cancel if trauma present
         if (_trauma.HasWoundableTrauma(args.Part, ent.Comp.TraumaType) == ent.Comp.Inverted)
         {
-            var verb = args.User == args.Body ? "You have" : "The patient has";
-            var name = ent.Comp.TraumaType.ToString().ToLower();
+            var subject = args.User == args.Body ? "У вас" : "У пациента"; // SIS-TODO: Анхаркод локали
+            var injury = ent.Comp.TraumaType switch
+            {
+                TraumaType.BoneDamage => "повреждение костей", // SIS-TODO: Анхаркод локали
+                TraumaType.OrganDamage => "повреждение органов", // SIS-TODO: Анхаркод локали
+                TraumaType.VeinsDamage => "повреждение сосудов", // SIS-TODO: Анхаркод локали
+                TraumaType.NerveDamage => "повреждение нервов", // SIS-TODO: Анхаркод локали
+                TraumaType.Dismemberment => "ампутация", // SIS-TODO: Анхаркод локали
+                _ => ent.Comp.TraumaType.ToString(),
+            };
             args.Cancelled = true;
-            args.Reason = ent.Comp.Inverted ? $"{verb} a {name} trauma!" : $"{verb} no {name} traumas";
+            args.Reason = ent.Comp.Inverted
+                ? $"{subject} обнаружена травма: {injury}!" // SIS-TODO: Анхаркод локали
+                : $"{subject} не обнаружена травма: {injury}"; // SIS-TODO: Анхаркод локали
         }
     }
 
@@ -354,10 +365,10 @@ public sealed partial class SurgerySystem : EntitySystem
             args.Cancelled = true;
             args.Reason = (ent.Comp.Inverted, args.User == args.Body) switch
             {
-                (false, false) => "The subject isn't bleeding",
-                (false, true) => "You aren't bleeding",
-                (true, false) => "The subject is bleeding too heavily!",
-                (true, true) => "You're bleeding too heavily!"
+                (false, false) => "У пациента нет кровотечения", // SIS-TODO: Анхаркод локали
+                (false, true) => "У вас нет кровотечения", // SIS-TODO: Анхаркод локали
+                (true, false) => "У пациента слишком сильное кровотечение!", // SIS-TODO: Анхаркод локали
+                (true, true) => "У вас слишком сильное кровотечение!" // SIS-TODO: Анхаркод локали
             };
         }
     }

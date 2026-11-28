@@ -56,9 +56,9 @@ public sealed partial class EnchantAdderSystem : EntitySystem
         var user = args.User;
         var name = Name(target);
 
-        var msg = $"You inscribe the {name} with magical ink...";
+        var msg = $"Вы наносите узоры магическими чернилами. Предмет: {name}..."; // SIS-TODO: Анхаркод локали
         _popup.PopupEntity(msg, target, user);
-        PredictedQueueDel(ent);
+        QueueDel(ent);
 
         _meta.SetEntityName(target, ent.Comp.Name);
         _meta.SetEntityDescription(target, ent.Comp.Desc);

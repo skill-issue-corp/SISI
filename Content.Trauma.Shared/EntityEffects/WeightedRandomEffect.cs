@@ -24,7 +24,7 @@ public sealed partial class WeightedRandomEffect : EntityEffectBase<WeightedRand
     {
         // none of this is loc but this is only used by mutations rn
         // if you add some chud ymlmaxxer reagent using this make this use loc!!!
-        var builder = new StringBuilder("Randomly chooses 1 of the following effects:");
+        var builder = new StringBuilder("Случайным образом выбирает 1 из следующих эффектов:"); // SIS-TODO: Анхаркод локали
         var totalPercent = 100f / GetTotalWeights();
         foreach (var child in Children)
         {

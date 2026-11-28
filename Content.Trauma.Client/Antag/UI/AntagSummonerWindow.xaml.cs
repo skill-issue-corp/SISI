@@ -19,6 +19,6 @@ public sealed partial class AntagSummonerWindow : FancyWindow
 
     public void SetComp(AntagSummonerComponent comp)
     {
-        RewardLabel.Text = $"The current reward is: ${comp.Reward}";
+        RewardLabel.Text = $"Текущая награда: ${comp.Reward}"; // SIS-TODO: Анхаркод локали
     }
 }

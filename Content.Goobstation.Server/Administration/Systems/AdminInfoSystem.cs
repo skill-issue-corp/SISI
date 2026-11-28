@@ -35,6 +35,6 @@ public sealed partial class AdminInfoSystem : EntitySystem
             return;
 
         _adminLog.Add(LogType.AdminMessage, LogImpact.High, $"{name} is attempting to connect with a userid from {main.Username}");
-        _chat.SendAdminAlert($"{name} is attempting to connect with a userid from {main.Username}");
+        _chat.SendAdminAlert($"Игрок {name} пытается подключиться с ID пользователя от {main.Username}."); // SIS-TODO: Анхаркод локали
     }
 }

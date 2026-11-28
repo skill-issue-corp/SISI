@@ -25,5 +25,5 @@ public sealed partial class ShadowCocoonMakerComponent : Component
     /// Text of the verb to make a shadow cocoon.
     /// </summary>
     [DataField]
-    public string VerbText = "Make Shadow Cocoon";
+    public string VerbText = "Создать Теневой Кокон"; // SIS-TODO: Анхаркод локали
 }

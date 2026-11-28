@@ -30,7 +30,7 @@ public abstract partial class ZombieBlobSystem : EntitySystem
         if (ent.Comp.CanShoot)
             return;
 
-        _popup.PopupEntity("You can't use guns!", ent, ent);
+        _popup.PopupEntity("Вы не можете пользоваться огнестрельным оружием!", ent, ent); // SIS-TODO: Анхаркод локали
         args.Cancel();
     }
 }

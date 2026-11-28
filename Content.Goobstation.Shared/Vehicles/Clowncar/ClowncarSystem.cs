@@ -124,7 +124,7 @@ public sealed partial class ClowncarSystem : EntitySystem
 
         args.Verbs.Add(new()
         {
-            Text = "Open Trunk",
+            Text = "Открыть Багажник", // SIS-TODO: Анхаркод локали
             Act = () => OpenTrunkVerb(ent, user)
         });
     }

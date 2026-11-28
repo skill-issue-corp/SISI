@@ -153,7 +153,7 @@ public sealed partial class BanPanel : DefaultWindow
         TypeOption.AddItem(Loc.GetString("ban-panel-role"), (int) Types.Role);
 
         ReasonTextEdit.Placeholder = new Rope.Leaf(Loc.GetString("ban-panel-reason"));
-        WebhookReason.Placeholder = new Rope.Leaf("Public reason to show in webhooks, defaults to the true reason above"); // Trauma
+        WebhookReason.Placeholder = new Rope.Leaf("Публичная причина для вебхуков. По умолчанию берётся фактическая причина, указанная выше."); // Trauma // SIS-TODO: Анхаркод локали
 
         var departmentJobs = _protoMan.EnumeratePrototypes<DepartmentPrototype>()
                                       .OrderBy(x => x.Weight);

@@ -48,35 +48,35 @@ public sealed partial class FuneralAddSystem : EntitySystem
         // check tool whitelist
         if (_whitelist.IsWhitelistFail(ent.Comp.UserWhitelist, user))
         {
-            _popup.PopupEntity("You aren't qualified to consecrate.", user, user, PopupType.SmallCaution);
+            _popup.PopupEntity("Вы не умеете освящать усопших.", user, user, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
         // check target is not already marked
         if (HasComp<FuneralHolyComponent>(target))
         {
-            _popup.PopupEntity("Individual has already been consecrated.", user, user, PopupType.Small);
+            _popup.PopupEntity("Тело уже освящено.", user, user, PopupType.Small); // SIS-TODO: Анхаркод локали
             return;
         }
 
         // ensure head exists
         if (_body.GetOrgan(target, Head) is null)
         {
-            _popup.PopupEntity("Can't consecrate an individual with no head.", user, user, PopupType.SmallCaution);
+            _popup.PopupEntity("Нельзя освятить тело без головы.", user, user, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
         // check target was not made via cube or is an NPC / unidentified corpse
         if (HasComp<CubeBornComponent>(target) || !TryComp<MindContainerComponent>(target, out var mind) || !mind.HadMind)
         {
-            _popup.PopupEntity("Can't consecrate an individual with no history.", user, user, PopupType.SmallCaution);
+            _popup.PopupEntity("Нельзя освятить тело без истории.", user, user, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
         // check target's soul moved on
         if (mind.Mind is { } mindId && Comp<MindComponent>(mindId).UserId != null)
         {
-            _popup.PopupEntity("Can't consecrate because the soul is still present.", user, user, PopupType.SmallCaution);
+            _popup.PopupEntity("Нельзя освятить тело, пока в нём остаётся душа.", user, user, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -85,7 +85,7 @@ public sealed partial class FuneralAddSystem : EntitySystem
             !_solution.ResolveSolution(target, blood.BloodSolutionName, ref blood.BloodSolution, out var solution) ||
             !solution.TryGetReagentQuantity(new ReagentId(Formaldehyde, null), out var qty) || qty <= 10)
         {
-            _popup.PopupEntity("Next, embalm the corpse with 15u formaldehyde.", user, user, PopupType.Small);
+            _popup.PopupEntity("Теперь забальзамируйте тело с помощью 15 ед. формальдегида.", user, user, PopupType.Small); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -97,13 +97,13 @@ public sealed partial class FuneralAddSystem : EntitySystem
 
         // add holy component
         EnsureComp<FuneralHolyComponent>(target);
-        _popup.PopupEntity("The consecration has been completed.", user, user, PopupType.Medium);
+        _popup.PopupEntity("Освящение завершено.", user, user, PopupType.Medium); // SIS-TODO: Анхаркод локали
     }
 
     // inspect details for holy comp
     [SubscribeLocalEvent]
     private void OnExamined(EntityUid uid, FuneralHolyComponent comp, ExaminedEvent args)
     {
-        args.PushMarkup("[color=yellow]This individual has been consecrated and can be cremated for holy ash.[/color]");
+        args.PushMarkup("[color=yellow]Тело освящено. При кремации из него можно получить святой пепел.[/color]"); // SIS-TODO: Анхаркод локали
     }
 }

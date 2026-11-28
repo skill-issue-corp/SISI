@@ -173,7 +173,7 @@ public sealed partial class ShadowlingAscensionEggSystem : EntitySystem
             "shadowling-ascension-message",
             ("location", FormattedMessage.RemoveMarkupPermissive(_navMap.GetNearestBeaconString(position))));
 
-        _chatSystem.DispatchStationAnnouncement(eggUid, message, "Central Command", false, null, Color.Red);
+        _chatSystem.DispatchStationAnnouncement(eggUid, message, "Центральное Командование", false, null, Color.Red); // SIS-TODO: Анхаркод локали
 
         if (_station.GetStationInMap(Transform(uid).MapID) is { } station)
             _alertLevel.SetLevel(station, DeltaSling, force: true);

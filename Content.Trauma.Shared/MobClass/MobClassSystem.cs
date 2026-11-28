@@ -98,7 +98,7 @@ public sealed partial class MobClassSystem : EntitySystem
     public string GetClassName(Entity<MobClassComponent?> ent)
     {
         if (!_mobClassQuery.Resolve(ent.Owner, ref ent.Comp) || !ProtoMan.Resolve(ent.Comp.CurrentClass, out var proto))
-            return "None";
+            return "Нет"; // SIS-TODO: Анхаркод локали
 
         return proto.Name;
     }

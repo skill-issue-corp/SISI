@@ -396,9 +396,9 @@ public sealed partial class SurgeryWindow : FancyWindow
 
         if (_ent.TryGetComponent(_part, out MetaDataComponent? partMeta) &&
             _ent.TryGetComponent(_surgery?.Ent, out MetaDataComponent? surgeryMeta))
-            Title = $"Хирургия - {partMeta.EntityName}, {surgeryMeta.EntityName}";
+            Title = $"Хирургия - {partMeta.EntityName}, {surgeryMeta.EntityName}"; // SIS-TODO: Анхаркод локали
         else if (partMeta != null)
-            Title = $"Хирургия - {partMeta.EntityName}";
+            Title = $"Хирургия - {partMeta.EntityName}"; // SIS-TODO: Анхаркод локали
         else
             Title = Loc.GetString("surgery-ui-window-title");
     }

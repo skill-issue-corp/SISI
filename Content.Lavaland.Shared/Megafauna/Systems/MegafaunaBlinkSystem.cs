@@ -57,7 +57,7 @@ public sealed partial class MegafaunaBlinkSystem : EntitySystem
         var xform = Transform(ent);
         if (!_lavalandMapQuery.HasComp(xform.MapUid))
         {
-            _popup.PopupEntity("The staff's power is weakened here!", ent, args.Performer);
+            _popup.PopupEntity("Сила посоха здесь ослаблена!", ent, args.Performer); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -116,7 +116,7 @@ public sealed partial class MegafaunaBlinkSystem : EntitySystem
             return;
 
         Blink(ent.Owner, ent.Comp.Marker.Value, blinkComp.Delay, blinkComp.Sound);
-        PredictedQueueDel(ent.Comp.Marker);
+        QueueDel(ent.Comp.Marker);
         ent.Comp.Marker = null;
     }
 
@@ -126,7 +126,7 @@ public sealed partial class MegafaunaBlinkSystem : EntitySystem
         if (TerminatingOrDeleted(ent.Comp.Marker))
             return;
 
-        PredictedQueueDel(ent.Comp.Marker);
+        QueueDel(ent.Comp.Marker);
         ent.Comp.Marker = null;
     }
 }

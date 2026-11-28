@@ -33,7 +33,7 @@ public sealed partial class PlayerGUIDLoadoutEffect : LoadoutEffect
         }
         catch
         {
-            reason = FormattedMessage.FromUnformatted($"Loadout effect {Guid} is malformed, please report this bug!");
+            reason = FormattedMessage.FromUnformatted($"Эффект снаряжения {Guid} задан некорректно. Сообщите об ошибке!"); // SIS-TODO: Анхаркод локали
             return false;
         }
 

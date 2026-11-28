@@ -54,7 +54,7 @@ public sealed partial class BureaucraticErrorRule : StationEventSystem<Bureaucra
             // Pick a job to make unlimited
             var chosenJob = RobustRandom.PickAndTake(jobList);
             _stationJobs.MakeJobUnlimited(chosenStation.Value, chosenJob);
-            _chat.SendAdminAlert($"Bureaucratic Error: Made {chosenJob} unlimited");
+            _chat.SendAdminAlert($"Бюрократическая ошибка: снято ограничение на число мест ({chosenJob})"); // SIS-TODO: Анхаркод локали
             _adminLog.Add(LogType.AdminMessage, LogImpact.Low, $"Bureaucratic Error: Made {chosenJob} unlimited");
 
             // Only modify up to 40% of jobs, ensuring 60% remain unchanged
@@ -73,7 +73,7 @@ public sealed partial class BureaucraticErrorRule : StationEventSystem<Bureaucra
                 var adjustment = RobustRandom.Next(-1, 2); // -1, 0, or +1
                 var newSlots = Math.Max(1, currentSlots.Value + adjustment);
                 _stationJobs.TrySetJobSlot(chosenStation.Value, job, newSlots);
-                _chat.SendAdminAlert($"Bureaucratic Error: Changed {job} slots from {currentSlots} to {newSlots}");
+                _chat.SendAdminAlert($"Бюрократическая ошибка: число мест для должности {job} изменилось с {currentSlots} на {newSlots}"); // SIS-TODO: Анхаркод локали
                 _adminLog.Add(LogType.AdminMessage, LogImpact.Low, $"Bureaucratic Error: Changed {job} slots from {currentSlots} to {newSlots}");
             }
         }
@@ -93,7 +93,7 @@ public sealed partial class BureaucraticErrorRule : StationEventSystem<Bureaucra
                     var adjustment = RobustRandom.Next(-1, 2); // -1, 0, or +1
                     var newSlots = Math.Max(1, currentSlots.Value + adjustment);
                     _stationJobs.TrySetJobSlot(chosenStation.Value, chosenJob, newSlots);
-                    _chat.SendAdminAlert($"Bureaucratic Error: Changed {chosenJob} slots from {currentSlots} to {newSlots}");
+                    _chat.SendAdminAlert($"Бюрократическая ошибка: число мест для должности {chosenJob} изменилось с {currentSlots} на {newSlots}"); // SIS-TODO: Анхаркод локали
                     _adminLog.Add(LogType.AdminMessage, LogImpact.Low, $"Bureaucratic Error: Changed {chosenJob} slots from {currentSlots} to {newSlots}");
                 }
             }

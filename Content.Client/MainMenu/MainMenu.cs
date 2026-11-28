@@ -120,7 +120,7 @@ namespace Content.Client.MainMenu
             }
             catch (ArgumentException e)
             {
-                _userInterfaceManager.Popup($"Unable to connect: {e.Message}", "Connection error.");
+                _userInterfaceManager.Popup($"Не удалось подключиться: {e.Message}", "Ошибка подключения"); // SIS-TODO: Анхаркод локали
                 _sawmill.Warning(e.ToString());
                 _netManager.ConnectFailed -= _onConnectFailed;
                 _setConnectingState(false);

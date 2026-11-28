@@ -46,7 +46,7 @@ public sealed class AbductorCameraConsoleBui : BoundUserInterface
         if (_window != null) return;
 
         _window = this.CreateWindow<AbductorCameraConsoleWindow>();
-        _window.Title = "Intercepted cameras.";
+        _window.Title = "Перехваченные камеры."; // SIS-TODO: Анхаркод локали
 
         _window.StationsButton.OnPressed += _ =>
         {
@@ -116,8 +116,8 @@ public sealed class AbductorCameraConsoleBui : BoundUserInterface
         _window.Title = State is not AbductorCameraConsoleBuiState state
             || _station == null
             || !state.Stations.TryGetValue(_station.Value, out var station)
-            ? "Stations"
-            : $"Station - {station.Name}";
+            ? "Станции" // SIS-TODO: Анхаркод локали
+            : $"Станция - {station.Name}"; // SIS-TODO: Анхаркод локали
     }
 
     private enum ViewType

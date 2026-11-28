@@ -28,8 +28,8 @@ public sealed partial class EatingNeedsOrganSystem : EntitySystem
 
         var user = args.User;
         var msg = user == ent.Owner
-            ? "You have no mouth!"
-            : $"{Identity.Name(ent, EntityManager)} has no mouth!";
+            ? "У вас нет рта!" // SIS-TODO: Анхаркод локали
+            : $"У {Identity.Name(ent, EntityManager)} нет рта!"; // SIS-TODO: Анхаркод локали
         _popup.PopupEntity(msg, ent, user);
         args.Cancelled = true;
     }

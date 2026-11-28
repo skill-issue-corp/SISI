@@ -38,7 +38,7 @@ public abstract partial class SharedVisualBodySystem
         var user = args.User;
         args.Verbs.Add(new Verb
         {
-            Text = "Modify markings",
+            Text = "Изменить отметины", // SIS-TODO: Анхаркод локали
             Category = VerbCategory.Tricks,
             Icon = new SpriteSpecifier.Rsi(new("/Textures/Mobs/Customization/reptilian_parts.rsi"), "tail_smooth"),
             Act = () =>

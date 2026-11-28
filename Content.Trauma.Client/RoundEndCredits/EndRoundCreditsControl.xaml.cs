@@ -45,7 +45,7 @@ public sealed partial class EndRoundCreditsControl : ScrollContainer
 
     public void Populate(RoundEndMessageEvent message, IResourceCache cache, IPrototypeManager proto, string shoutout, bool debug = false)
     {
-        var stationName = "Unknown";
+        var stationName = "Неизвестная станция"; // SIS-TODO: Анхаркод локали
 
         foreach (var (_, name) in _ticker.StationNames)
         {
@@ -165,7 +165,7 @@ public sealed partial class EndRoundCreditsControl : ScrollContainer
         var text = new Label
         {
             Name = playerInfo.PlayerICName,
-            Text = fullInfo ? Loc.GetString("round-end-credits-trauma-player-name-role", ("name", playerInfo.PlayerICName ?? "Unknown"), ("role", role), ("player", playerInfo.PlayerOOCName)) : playerInfo.PlayerICName,
+            Text = fullInfo ? Loc.GetString("round-end-credits-trauma-player-name-role", ("name", playerInfo.PlayerICName ?? "Неизвестно"), ("role", role), ("player", playerInfo.PlayerOOCName)) : playerInfo.PlayerICName, // SIS-TODO: Анхаркод локали
             Align = Label.AlignMode.Center,
             FontOverride = font,
             FontColorOverride = color,
@@ -339,7 +339,7 @@ public sealed partial class EndRoundCreditsControl : ScrollContainer
                 box.AddChild(new Label
                 {
                     FontOverride = font,
-                    Text = Loc.GetString("round-end-credits-trauma-lastwords", ("words", player.LastWords), ("player", player.PlayerICName ?? "Unknown")),
+                    Text = Loc.GetString("round-end-credits-trauma-lastwords", ("words", player.LastWords), ("player", player.PlayerICName ?? "Неизвестно")), // SIS-TODO: Анхаркод локали
                     Align = Label.AlignMode.Center,
                 });
             }

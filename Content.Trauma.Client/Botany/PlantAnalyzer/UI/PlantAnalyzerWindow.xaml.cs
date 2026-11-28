@@ -162,8 +162,8 @@ public sealed partial class PlantAnalyzerWindow : FancyWindow
         foreach (var gene in _comp.ChemicalBank)
         {
             var data = gene.ChemValue;
-            var foreign = data.Inherent ? "" : " [Foreign]";
-            ChemicalDatabaseList.AddItem($"{gene.ChemID}{foreign}: Min - {data.Min}, Max - {data.Max}, Potency Divisor - {data.PotencyDivisor}");
+            var foreign = data.Inherent ? "" : " [Чужеродный]"; // SIS-TODO: Анхаркод локали
+            ChemicalDatabaseList.AddItem($"{gene.ChemID}{foreign}: Минимум - {data.Min}, Максимум - {data.Max}, Делитель Потенции - {data.PotencyDivisor}"); // SIS-TODO: Анхаркод локали
         }
 
         var index = _comp.DatabankIndex - (_geneCount + _consumeCount + _exudeCount);
@@ -216,37 +216,37 @@ public sealed partial class PlantAnalyzerWindow : FancyWindow
         _botany.TryGetPlantComponent<PlantWeedPestComponent>(uid, seed, out var weeds);
 
         PlantName.Text = seed is { } id
-            ? $"Scanned seed: {_proto.Index(id).Name}"
-            : $"Scanned plant: {Name(uid)}";
+            ? $"Отсканировано семя: {_proto.Index(id).Name}" // SIS-TODO: Анхаркод локали
+            : $"Отсканировано растение: {Name(uid)}"; // SIS-TODO: Анхаркод локали
 
         // Basics
-        PlantYield.Text = $"Yield: {plant.Yield}";
-        Potency.Text = $"Potency: {plant.Potency:F0}%";
+        PlantYield.Text = $"Урожайность: {plant.Yield}"; // SIS-TODO: Анхаркод локали
+        Potency.Text = $"Потенция: {plant.Potency:F0}%"; // SIS-TODO: Анхаркод локали
         var harvestType = harvest?.HarvestRepeat is { } repeat
             ? Loc.GetString($"plant-analyzer-harvest-{repeat}")
-            : "N/A";
-        Repeat.Text = $"Harvest type: {harvestType}";
-        Endurance.Text = $"Endurance: {plant.Endurance:F0}";
-        Chemicals.Text = $"Contained substances: {chemString}";
-        var exudeText = exudeGases.Length == 0 ? "None" : exudeGases.ToString();
-        ExudeGases.Text = $"Emitted gases: {exudeText}";
-        var consumeText = consumeGases.Length == 0 ? "None" : consumeGases.ToString();
-        ConsumeGases.Text = $"Consumed gases: {consumeText}";
-        Lifespan.Text = $"Lifespan: {plant.Lifespan:F1}";
-        Maturation.Text = $"Maturation: {plant.Maturation:F1}";
-        Production.Text = $"Production: {plant.Production:F1}";
-        GrowthStages.Text = $"Growth stages: {plant.GrowthStages}";
+            : "Н/Д"; // SIS-TODO: Анхаркод локали
+        Repeat.Text = $"Тип сбора урожая: {harvestType}"; // SIS-TODO: Анхаркод локали
+        Endurance.Text = $"Выносливость: {plant.Endurance:F0}"; // SIS-TODO: Анхаркод локали
+        Chemicals.Text = $"Содержащиеся вещества: {chemString}"; // SIS-TODO: Анхаркод локали
+        var exudeText = exudeGases.Length == 0 ? "Нет" : exudeGases.ToString(); // SIS-TODO: Анхаркод локали
+        ExudeGases.Text = $"Выделяемые газы: {exudeText}"; // SIS-TODO: Анхаркод локали
+        var consumeText = consumeGases.Length == 0 ? "Нет" : consumeGases.ToString(); // SIS-TODO: Анхаркод локали
+        ConsumeGases.Text = $"Поглощаемые газы: {consumeText}"; // SIS-TODO: Анхаркод локали
+        Lifespan.Text = $"Продолжительность жизни: {plant.Lifespan:F1}"; // SIS-TODO: Анхаркод локали
+        Maturation.Text = $"Созревание: {plant.Maturation:F1}"; // SIS-TODO: Анхаркод локали
+        Production.Text = $"Производство: {plant.Production:F1}"; // SIS-TODO: Анхаркод локали
+        GrowthStages.Text = $"Стадии роста: {plant.GrowthStages}"; // SIS-TODO: Анхаркод локали
         // Tolerances
-        NutrientUsage.Text = $"Nutrient usage: {growth?.NutrientConsumption ?? 0f:F2}";
-        WaterUsage.Text = $"Water usage: {growth?.WaterConsumption ?? 0f:F2}";
-        ToxinsTolerance.Text = $"Toxins tolerance: {toxins?.ToxinsTolerance:F1}";
-        ToxinUptakeDivisor.Text = $"Toxins resistance: {toxins?.ToxinUptakeDivisor:F1}";
-        LowHeatTolerance.Text = $"Cold tolerance: {atmos?.LowHeatTolerance:F1} K";
-        HighHeatTolerance.Text = $"Heat tolerance: {atmos?.HighHeatTolerance:F1} K";
-        LowPressureTolerance.Text = $"Low pressure tolerance: {atmos?.LowPressureTolerance} kPa";
-        HighPressureTolerance.Text = $"High pressure tolerance: {atmos?.HighPressureTolerance} kPa";
-        PestTolerance.Text = $"Pest tolerance: {weeds?.PestTolerance:F1}";
-        WeedTolerance.Text = $"Weed tolerance: {weeds?.WeedTolerance:F1}";
+        NutrientUsage.Text = $"Расход питательных веществ: {growth?.NutrientConsumption ?? 0f:F2}"; // SIS-TODO: Анхаркод локали
+        WaterUsage.Text = $"Расход воды: {growth?.WaterConsumption ?? 0f:F2}"; // SIS-TODO: Анхаркод локали
+        ToxinsTolerance.Text = $"Устойчивость к токсинам: {toxins?.ToxinsTolerance:F1}"; // SIS-TODO: Анхаркод локали
+        ToxinUptakeDivisor.Text = $"Сопротивляемость токсинам: {toxins?.ToxinUptakeDivisor:F1}"; // SIS-TODO: Анхаркод локали
+        LowHeatTolerance.Text = $"Устойчивость к холоду: {atmos?.LowHeatTolerance:F1} К"; // SIS-TODO: Анхаркод локали
+        HighHeatTolerance.Text = $"Устойчивость к жаре: {atmos?.HighHeatTolerance:F1} К"; // SIS-TODO: Анхаркод локали
+        LowPressureTolerance.Text = $"Устойчивость к низкому давлению: {atmos?.LowPressureTolerance} кПа"; // SIS-TODO: Анхаркод локали
+        HighPressureTolerance.Text = $"Устойчивость к высокому давлению: {atmos?.HighPressureTolerance} кПа"; // SIS-TODO: Анхаркод локали
+        PestTolerance.Text = $"Устойчивость к вредителям: {weeds?.PestTolerance:F1}"; // SIS-TODO: Анхаркод локали
+        WeedTolerance.Text = $"Устойчивость к сорнякам: {weeds?.WeedTolerance:F1}"; // SIS-TODO: Анхаркод локали
 
         // Misc
         StringBuilder mutations = new();
@@ -263,7 +263,7 @@ public sealed partial class PlantAnalyzerWindow : FancyWindow
             }
         }
 
-        Traits.Text = $"Mutations: {mutations}";
+        Traits.Text = $"Мутации: {mutations}"; // SIS-TODO: Анхаркод локали
 
         StringBuilder speciation = new();
         if (data.MutationPrototypes.Count == 0)
@@ -279,7 +279,7 @@ public sealed partial class PlantAnalyzerWindow : FancyWindow
             }
         }
 
-        PlantMutations.Text = $"Possible subtypes: {speciation}";
+        PlantMutations.Text = $"Возможные подвиды: {speciation}"; // SIS-TODO: Анхаркод локали
     }
 
     private new string Name(EntityUid? uid)

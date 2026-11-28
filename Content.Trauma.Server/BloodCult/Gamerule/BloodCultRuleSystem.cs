@@ -143,8 +143,11 @@ public sealed partial class BloodCultRuleSystem : GameRuleSystem<BloodCultRuleCo
             return;
 
         rule.Comp.TargetSacrificed = true;
-        DirtyField(rule, rule.Comp, nameof(BloodCultRuleComponent.TargetSacrificed));
-        AnnounceToCult(rule, "Nar'Sie's target has been sacrificed! Summon her to your realm and elevate your cult to godhood!");
+        rule.Comp.OfferingTarget = null;
+        DirtyFields(rule.AsNullable(), null,
+            nameof(BloodCultRuleComponent.TargetSacrificed),
+            nameof(BloodCultRuleComponent.OfferingTarget));
+        AnnounceToCult(rule, "Цель Нар’Си принесена в жертву! Призовите её в ваш мир и вознесите культ до божественности!"); // SIS-TODO: Анхаркод локали
     }
 
     [SubscribeLocalEvent]
@@ -162,7 +165,9 @@ public sealed partial class BloodCultRuleSystem : GameRuleSystem<BloodCultRuleCo
         rule.Comp.WinCondition = CultWinCondition.Win;
         _roundEnd.EndRound();
 
-        foreach (var ent in rule.Comp.Cultists)
+        var cultists = rule.Comp.Cultists;
+        rule.Comp.Cultists = new();
+        foreach (var ent in cultists)
         {
             if (Deleted(ent))
                 continue;
@@ -303,7 +308,7 @@ public sealed partial class BloodCultRuleSystem : GameRuleSystem<BloodCultRuleCo
 
         if (comp.OfferingTarget is { } target)
         {
-            AnnounceToCult(rule, $"Nar'Sie demands the sacrifice of {Name(target)}!");
+            AnnounceToCult(rule, $"Нар’Си требует принести в жертву {Name(target)}!"); // SIS-TODO: Анхаркод локали
             var ev = new CultTargetAssignedEvent(rule, target);
             RaiseLocalEvent(ref ev);
         }

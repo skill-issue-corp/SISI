@@ -72,7 +72,7 @@ public sealed partial class CosmicCultSystem : SharedCosmicCultSystem
             return;
 
         _cultRule.UpdateCultData((args.Actor, cultComp));
-        _antag.SendBriefing(ent, "You attune your influence and the cult grows more powerful!", Color.FromHex("#4cabb3"), _levelupSound);
+        _antag.SendBriefing(ent, "Вы настраиваете своё влияние, и культ становится сильнее!", Color.FromHex("#4cabb3"), _levelupSound); // SIS-TODO: Анхаркод локали
     }
 
     #region Init Cult

@@ -21,7 +21,7 @@ public sealed partial class DragonAreaRiftsSystem : EntitySystem
             _whitelist.IsWhitelistFail(ent.Comp.AreaWhitelist, area))
         {
             args.Cancelled = true;
-            args.Popup = "You need to be in a station area!";
+            args.Popup = "Вам нужно находиться в зоне станции!"; // SIS-TODO: Анхаркод локали
         }
     }
 }

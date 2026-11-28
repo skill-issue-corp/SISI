@@ -88,7 +88,7 @@ namespace Content.Server.Medical
                 !CanScannerInsert(uid, args.Using.Value, component))
                 return;
 
-            var name = "Unknown";
+            var name = "Неизвестно"; // SIS-TODO: Анхаркод локали
             if (TryComp(args.Using.Value, out MetaDataComponent? metadata))
                 name = metadata.EntityName;
 

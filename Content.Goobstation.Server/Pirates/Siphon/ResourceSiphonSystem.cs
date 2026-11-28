@@ -170,7 +170,7 @@ public sealed partial class ResourceSiphonSystem : EntitySystem
         _chat.TrySendInGameICMessage(ent, Loc.GetString("data-siphon-activated"), InGameICChatType.Speak, false);
 
         var anloc = Loc.GetString("data-siphon-activated-announcement", ("pos", $"X: {coords.X}; Y: {coords.Y}"));
-        _chat.DispatchGlobalAnnouncement(anloc, "Priority", colorOverride: Color.Red);
+        _chat.DispatchGlobalAnnouncement(anloc, "Приоритет", colorOverride: Color.Red); // SIS-TODO: Анхаркод локали
     }
     public void DeactivateSiphon(Entity<ResourceSiphonComponent> ent, string reason = "none")
     {
@@ -182,7 +182,7 @@ public sealed partial class ResourceSiphonSystem : EntitySystem
 
         _chat.TrySendInGameICMessage(ent, Loc.GetString($"data-siphon-deactivated-{reason}"), InGameICChatType.Speak, false);
 
-        _chat.DispatchGlobalAnnouncement(Loc.GetString("pirate-siphon-deactivated-announcement"), "Priority", colorOverride: Color.Green);
+        _chat.DispatchGlobalAnnouncement(Loc.GetString("pirate-siphon-deactivated-announcement"), "Приоритет", colorOverride: Color.Green); // SIS-TODO: Анхаркод локали
     }
 
     public bool TryBindRule(Entity<ResourceSiphonComponent> ent)

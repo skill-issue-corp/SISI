@@ -53,7 +53,7 @@ public sealed partial class ListViewSelectorBUI(EntityUid owner, Enum uiKey) : B
             VerticalExpand = true,
             MinWidth = 350,
             MinHeight = 400,
-            Title = "List selector"
+            Title = "Выбор из списка" // SIS-TODO: Анхаркод локали
         };
 
         var scrollContainer = new ScrollContainer

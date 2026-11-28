@@ -43,7 +43,7 @@ public sealed partial class ChafaSystem : EntitySystem
         foreach (var request in _requests)
         {
             if (request.TimeoutTime < _timing.CurTime)
-                _chat.SendAdminAnnouncementMessage(request.RequestBy, "chafa timeout");
+                _chat.SendAdminAnnouncementMessage(request.RequestBy, "Истекло время ожидания ответа Chafa."); // SIS-TODO: Анхаркод локали
         }
 
         _requests.RemoveAll(req => req.TimeoutTime < _timing.CurTime);
@@ -53,7 +53,7 @@ public sealed partial class ChafaSystem : EntitySystem
     {
         if (_requests.Any(req => req.RequestBy == requestBy))
         {
-            _chat.SendAdminAnnouncementMessage(requestBy, "chafa request already sent, wait");
+            _chat.SendAdminAnnouncementMessage(requestBy, "Запрос Chafa уже отправлен. Дождитесь ответа."); // SIS-TODO: Анхаркод локали
             return;
         }
 

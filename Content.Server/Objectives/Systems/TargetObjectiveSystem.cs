@@ -66,7 +66,7 @@ public sealed partial class TargetObjectiveSystem : EntitySystem
 
     public string GetTitle(EntityUid target, string? title, bool dynamicName = false, bool showJobTitle = true) // Trauma - title made nullable
     {
-        var targetName = "Unknown";
+        var targetName = "Неизвестно"; // SIS-TODO: Анхаркод локали
         // Goob edit start
         if (TryComp<MindComponent>(target, out var mind))
         {

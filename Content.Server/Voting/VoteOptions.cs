@@ -11,7 +11,7 @@ namespace Content.Server.Voting
         /// <summary>
         ///     The text that is shown for "who called the vote".
         /// </summary>
-        public string InitiatorText { get; set; } = "<placeholder>";
+        public string InitiatorText { get; set; } = "<не указан>"; // SIS-TODO: Анхаркод локали
 
         /// <summary>
         ///     The player that started the vote. Used to keep track of player cooldowns to avoid vote spam.
@@ -21,7 +21,7 @@ namespace Content.Server.Voting
         /// <summary>
         ///     The shown title of the vote.
         /// </summary>
-        public string Title { get; set; } = "<somebody forgot to fill this in lol>";
+        public string Title { get; set; } = "<кто-то забыл указать заголовок>"; // SIS-TODO: Анхаркод локали
 
         /// <summary>
         ///     How long the vote lasts.

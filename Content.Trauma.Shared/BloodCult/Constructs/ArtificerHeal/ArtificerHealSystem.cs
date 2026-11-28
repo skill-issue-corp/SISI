@@ -25,7 +25,7 @@ public sealed partial class ArtificerHealSystem : EntitySystem
         if (TryComp<ArtificerHealComponent>(args.User, out var artificer))
         {
             if (_damageable.TryChangeDamage(ent.Owner, artificer.Damage, true, false))
-                _popup.PopupEntity("You partially restore this construct to its intended form.", ent.Owner, args.User);
+                _popup.PopupEntity("Вы частично восстанавливаете исходную форму конструкта.", ent.Owner, args.User); // SIS-TODO: Анхаркод локали
 
             args.Cancelled = true;
         }

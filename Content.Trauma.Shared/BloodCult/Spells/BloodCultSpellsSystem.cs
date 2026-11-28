@@ -59,7 +59,7 @@ public sealed partial class BloodCultSpellsSystem : EntitySystem
         if (args.Cancelled || _blocker.CanSpeak(user))
             return;
 
-        _popup.PopupEntity("You can't speak the incantation!", user, user, PopupType.MediumCaution);
+        _popup.PopupEntity("Вы не можете произнести заклинание!", user, user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
         args.Cancelled = true;
     }
 
@@ -72,7 +72,7 @@ public sealed partial class BloodCultSpellsSystem : EntitySystem
         if (HasComp<BloodCultDeconvertComponent>(args.User))
         {
             args.Invalid = true;
-            _popup.PopupEntity("Your blood magic falters as holy water scours your body!", args.User, args.User, PopupType.MediumCaution);
+            _popup.PopupEntity("Святая вода обжигает ваше тело, и магия крови слабеет!", args.User, args.User, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -119,7 +119,7 @@ public sealed partial class BloodCultSpellsSystem : EntitySystem
         // can't do blood magic in a robot or pai
         if (!_bloodQuery.HasComp(user))
         {
-            _popup.PopupEntity("You have no blood to channel the spell through!", user, user, PopupType.LargeCaution);
+            _popup.PopupEntity("У вас нет крови, через которую можно сотворить заклинание!", user, user, PopupType.LargeCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -137,15 +137,15 @@ public sealed partial class BloodCultSpellsSystem : EntitySystem
         {
             if (GetActiveSpell(ent, id) is { } action)
             {
-                _popup.PopupEntity("You forget your current spell", user, user);
+                _popup.PopupEntity("Вы забываете текущее заклинание", user, user); // SIS-TODO: Анхаркод локали
                 _actions.RemoveAction(user, action);
                 return;
             }
 
-            _popup.PopupEntity("You need to remove another spell first!", user, user, PopupType.MediumCaution);
+            _popup.PopupEntity("Сначала вам нужно убрать другое заклинание!", user, user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
         }
 
-        _popup.PopupEntity("You begin to carve unnatural symbols into your flesh!", user, user, PopupType.MediumCaution);
+        _popup.PopupEntity("Вы начинаете вырезать неестественные символы на своей плоти!", user, user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
 
         var createSpellEvent = new CreateSpellDoAfterEvent(id);
         var doAfter = new DoAfterArgs(EntityManager,
@@ -186,7 +186,7 @@ public sealed partial class BloodCultSpellsSystem : EntitySystem
         var targetArm = ChooseTargetArm(user);
         _damage.ChangeDamage(user, damageSpec, targetPart: targetArm, canMiss: false);
 
-        _popup.PopupEntity($"Your wounds glow with power, you have prepared a {Name(action)} invocation!", user, user, PopupType.Medium);
+        _popup.PopupEntity($"Ваши раны светятся от силы. Вы подготовили заклинание «{Name(action)}»!", user, user, PopupType.Medium); // SIS-TODO: Анхаркод локали
         _actions.SetTemporary(action, true); // can't be temp in the prototype or AddAction will queue del it :D
         ent.Comp.ActiveSpells.Add(action);
         Dirty(ent);
@@ -205,7 +205,7 @@ public sealed partial class BloodCultSpellsSystem : EntitySystem
         var cuffs = PredictedSpawnAtPosition(ev.ShacklesProto, Transform(ev.Target).Coordinates);
         if (!_cuffable.TryAddNewCuffs(ev.Target, ev.Performer, cuffs))
         {
-            PredictedDel(cuffs);
+            Del(cuffs);
             return;
         }
 

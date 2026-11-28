@@ -646,7 +646,7 @@ public sealed partial class SupermatterSystem : SharedSupermatterSystem
 
         if (sm.SliverRemoved)
         {
-            _popup.PopupEntity("It already had a sliver removed...", uid, args.User);
+            _popup.PopupEntity("Осколок уже был извлечён...", uid, args.User); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -679,7 +679,7 @@ public sealed partial class SupermatterSystem : SharedSupermatterSystem
         ent.Comp.DamageArchived += ent.Comp.DelaminationPoint / 10;
 
         var integrity = GetIntegrity(ent.Comp).ToString("0.00");
-        SupermatterAnnouncement(ent, Loc.GetString("supermatter-announcement-cc-tamper", ("integrity", integrity)), true, "Central Command");
+        SupermatterAnnouncement(ent, Loc.GetString("supermatter-announcement-cc-tamper", ("integrity", integrity)), true, "Центральное Командование"); // SIS-TODO: Анхаркод локали
 
         Spawn(ent.Comp.SliverPrototypeId, _xform.GetMapCoordinates(args.User));
 

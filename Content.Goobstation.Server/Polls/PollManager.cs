@@ -88,21 +88,21 @@ public sealed partial class PollManager : IPostInjectInit
         var poll = await _db.GetPollAsync(pollId);
 
         if (poll == null)
-            return (false, "Poll not found", null);
+            return (false, "Опрос не найден", null); // SIS-TODO: Анхаркод локали
 
         if (!poll.Active)
-            return (false, "Poll is not active", null);
+            return (false, "Опрос неактивен", null); // SIS-TODO: Анхаркод локали
 
         if (poll.EndTime < DateTime.UtcNow)
-            return (false, "Poll has ended", null);
+            return (false, "Опрос завершён", null); // SIS-TODO: Анхаркод локали
 
         if (!poll.Options.Any(o => o.Id == optionId))
-            return (false, "Invalid option", null);
+            return (false, "Недопустимый вариант ответа", null); // SIS-TODO: Анхаркод локали
 
         var success = await _db.AddPollVoteAsync(pollId, optionId, userId);
 
         if (!success)
-            return (false, "Failed to cast vote", null);
+            return (false, "Не удалось проголосовать", null); // SIS-TODO: Анхаркод локали
 
         var updatedPoll = await GetPoll(pollId);
         return (true, null, updatedPoll);
@@ -203,7 +203,7 @@ public sealed partial class PollManager : IPostInjectInit
     {
         if (!_playerManager.TryGetSessionByChannel(msg.MsgChannel, out var session) || session.UserId == default)
         {
-            SendVoteResponse(false, "Not logged in", null, msg.MsgChannel);
+            SendVoteResponse(false, "Вы не вошли в систему", null, msg.MsgChannel); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -218,14 +218,14 @@ public sealed partial class PollManager : IPostInjectInit
     {
         if (!_playerManager.TryGetSessionByChannel(msg.MsgChannel, out var session) || session.UserId == default)
         {
-            SendVoteResponse(false, "Not logged in", null, msg.MsgChannel); // is this even possbile really? dunno but might as well check
+            SendVoteResponse(false, "Вы не вошли в систему", null, msg.MsgChannel); // is this even possbile really? dunno but might as well check // SIS-TODO: Анхаркод локали
             return;
         }
 
         var success = await RemoveVote(msg.PollId, msg.OptionId, session.UserId);
         var updatedPoll = success ? await GetPoll(msg.PollId) : null;
 
-        SendVoteResponse(success, success ? null : "Failed to remove vote", updatedPoll, msg.MsgChannel);
+        SendVoteResponse(success, success ? null : "Не удалось отозвать голос", updatedPoll, msg.MsgChannel); // SIS-TODO: Анхаркод локали
 
         if (success && updatedPoll != null)
             BroadcastPollUpdate(updatedPoll);

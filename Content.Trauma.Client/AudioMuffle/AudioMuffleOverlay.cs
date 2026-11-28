@@ -109,18 +109,18 @@ public sealed partial class AudioMuffleOverlay : Overlay
 
         handle.DrawString(_font, pos, $"Indices: {index}");
         pos += offset;
-        handle.DrawString(_font, pos, $"Blockers amount: {blockersCount}");
+        handle.DrawString(_font, pos, $"Число препятствий: {blockersCount}"); // SIS-TODO: Анхаркод локали
 
         if (!hasTileData)
             return;
 
         pos += offset;
-        handle.DrawString(_font, pos, "Tile data:");
+        handle.DrawString(_font, pos, "Данные тайла:"); // SIS-TODO: Анхаркод локали
         pos += offset2;
         pos += offset;
         handle.DrawString(_font, pos, $"Indices: {data!.Indices}");
         pos += offset;
-        handle.DrawString(_font, pos, $"Total cost: {data.TotalCost}");
+        handle.DrawString(_font, pos, $"Общая стоимость: {data.TotalCost}"); // SIS-TODO: Анхаркод локали
         if (data.Previous != null)
         {
             pos += offset;

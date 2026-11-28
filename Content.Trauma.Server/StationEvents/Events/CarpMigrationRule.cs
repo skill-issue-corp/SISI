@@ -52,8 +52,8 @@ public sealed partial class CarpMigrationRule : StationEventSystem<CarpMigration
         // announce it
         var filter = Filter.Empty().AddWhere(GameTicker.UserHasJoinedGame);
         ChatSystem.DispatchFilteredAnnouncement(filter,
-            "Unknown biological entities have been detected near the station, please stand by.",
-            sender: "Lifesign Alert",
+            "Вблизи станции обнаружены неизвестные биологические объекты. Ожидайте дальнейших указаний.", // SIS-TODO: Анхаркод локали
+            sender: "Обнаружены Признаки Жизни", // SIS-TODO: Анхаркод локали
             colorOverride: Color.Gold);
     }
 }

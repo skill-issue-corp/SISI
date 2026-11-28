@@ -359,7 +359,7 @@ public sealed partial class ServerApi : IPostInjectInit
                 return;
             }
 
-            var reason = body.Reason ?? "No reason supplied";
+            var reason = body.Reason ?? "Причина не указана"; // SIS-TODO: Анхаркод локали
             var info = new CreateServerBanInfo(reason);
             info.WithWebhookReason(body.WebhookReason); // Trauma
 
@@ -412,8 +412,8 @@ public sealed partial class ServerApi : IPostInjectInit
                 return;
             }
 
-            var reason = body.Reason ?? "No reason supplied";
-            reason += " (kicked by admin)";
+            var reason = body.Reason ?? "Причина не указана"; // SIS-TODO: Анхаркод локали
+            reason += " (отключён администратором)"; // SIS-TODO: Анхаркод локали
 
             _netManager.DisconnectChannel(player.Channel, reason);
             await RespondOk(context);

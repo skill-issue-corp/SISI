@@ -66,7 +66,7 @@ public sealed partial class BlobTileSystem : EntitySystem
             return;
 
         var next = ProtoMan.Index(nextId);
-        var verbName = $"Upgrade to {next.Name}";
+        var verbName = $"Улучшить: {next.Name}"; // SIS-TODO: Анхаркод локали
         args.Verbs.Add(new()
         {
             Act = () => TryUpgrade(ent, core, user),
@@ -242,7 +242,7 @@ public sealed partial class BlobTileSystem : EntitySystem
 
         if (_core.GetNearNode(coords, core, coreComp.TilesRadiusLimit) is not { } node)
         {
-            _popup.PopupEntity("There's no node nearby!", target, observer, PopupType.SmallCaution);
+            _popup.PopupEntity("Рядом нет узла!", target, observer, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 

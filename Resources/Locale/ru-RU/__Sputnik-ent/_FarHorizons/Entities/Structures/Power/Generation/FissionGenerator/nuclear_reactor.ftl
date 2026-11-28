@@ -31,6 +31,10 @@ ent-NuclearReactorSmallRandom = { ent-NuclearReactorSmall }
     .desc = { ent-NuclearReactorSmall.desc }
     .suffix = Случайное Наполнение
 
+ent-NuclearReactorEmptySmall = { ent-NuclearReactorSmall }
+    .desc = { ent-NuclearReactorSmall.desc }
+    .suffix = Пустой
+
 ent-NuclearReactorSmallMelted = малый ядерный реактор
     .desc = Разрушенный корпус ядерного реактора. Светится от жара и радиации.
     .suffix = Расплавлен

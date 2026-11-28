@@ -138,8 +138,8 @@ public record struct SeedData(SeedDataType Type, string Name)
         new(SeedDataType.Bool, "Ligneous"), // 19
         new(SeedDataType.Bool, "CanScream"), // 20
         new(SeedDataType.Bool, "TurnIntoKudzu"), // 21
-        new(SeedDataType.GasConsume, "Consume Gases"), // 22
-        new(SeedDataType.GasExude, "Exude Gases"), // 23
+        new(SeedDataType.GasConsume, "Поглощение Газов"), // 22 // SIS-TODO: Анхаркод локали
+        new(SeedDataType.GasExude, "Выделение Газов"), // 23 // SIS-TODO: Анхаркод локали
         new(SeedDataType.Chemical, "Chemicals") // 24
     ];
 }

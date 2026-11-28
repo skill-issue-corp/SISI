@@ -74,7 +74,7 @@ public sealed partial class MaterialFilterWindow : FancyWindow
 
     private void Update()
     {
-        InvertButton.Text = _comp.Inverted ? "Denying" : "Allowing";
+        InvertButton.Text = _comp.Inverted ? "Запрет" : "Разрешение"; // SIS-TODO: Анхаркод локали
         var whitelist = _comp.Whitelist;
         foreach (var (id, _, button) in _materials)
         {

@@ -47,7 +47,7 @@ public sealed partial class ConstructShellSystem : EntitySystem
         args.Verbs.Add(new ExamineVerb
         {
             DoContactInteraction = true,
-            Text = "Select form",
+            Text = "Выбрать форму", // SIS-TODO: Анхаркод локали
             Icon = new SpriteSpecifier.Rsi(
                 new("/Textures/_Trauma/BloodCult/Entities/Items/construct_shell.rsi"), "icon"),
             Act = () =>
@@ -78,7 +78,7 @@ public sealed partial class ConstructShellSystem : EntitySystem
 
         if (!TryComp<MindContainerComponent>(item, out var mindContainer) || !mindContainer.HasMind)
         {
-            _popup.PopupEntity("The shard has no soul.", uid, args.User);
+            _popup.PopupEntity("В осколке нет души.", uid, args.User); // SIS-TODO: Анхаркод локали
             args.Cancelled = true;
             return;
         }
@@ -129,7 +129,7 @@ public sealed partial class ConstructShellSystem : EntitySystem
             _cult.CopyMember(args.Actor, construct);
         _mind.TransferTo(mindId, construct, mind: mind);
         // TODO: unvisit or something??? set this as original entity??
-        PredictedDel(ent.Owner);
+        Del(ent.Owner);
     }
 
     [SubscribeLocalEvent]

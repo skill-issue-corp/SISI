@@ -18,5 +18,5 @@ public sealed partial class VampireCostActionComponent : Component
     public int BloodCost;
 
     [DataField]
-    public string Popup = "You do not have enough usable blood to run this action";
+    public string Popup = "У вас недостаточно крови, чтобы применить эту способность"; // SIS-TODO: Анхаркод локали
 }

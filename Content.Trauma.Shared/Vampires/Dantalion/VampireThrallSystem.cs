@@ -41,7 +41,7 @@ public sealed partial class VampireThrallSystem : EntitySystem
 
         if (_mindShield.IsShielded(target))
         {
-            _popup.PopupEntity("The target has a mindshield!", user, user, PopupType.MediumCaution);
+            _popup.PopupEntity("Цель защищена щитом разума!", user, user, PopupType.MediumCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 

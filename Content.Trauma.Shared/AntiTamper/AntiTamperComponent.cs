@@ -74,7 +74,7 @@ public sealed partial class AntiTamperComponent : Component
     /// Message yelled, see <see cref="YellAlertType"/>.
     /// </summary>
     [DataField]
-    public string TamperMessage = "WARNING: ANTI-TAMPER LOCK DAMAGED";
+    public string TamperMessage = "ВНИМАНИЕ: ЗАЩИТНЫЙ ЗАМОК ПОВРЕЖДЁН"; // SIS-TODO: Анхаркод локали
 
     /// <summary>
     /// If provided, tamper message is also announced on the provided radio channel.

@@ -45,3 +45,9 @@ uplink-skill-chip-weapons-heavy-desc = Чип навыка, который об�
 
 uplink-skill-chip-weapons-smg-name = Чип APTR (Подготовка к Стрельбе из ПП)
 uplink-skill-chip-weapons-smg-desc = Чип навыка, который обучает пользоваться пистолетами-пулемётами.
+
+uplink-skill-chip-magic-knowledge-name = IVYL-Чип (Магические Знания)
+uplink-skill-chip-magic-knowledge-desc = Чип навыка раскрывает все тайны демонологии и учит в совершенстве призывать демонов.
+
+uplink-skill-chip-gorlex-name = IVYL-Чип (Горлекс)
+uplink-skill-chip-gorlex-desc = Продвинутый чип навыка учит обращаться со всем оружием дальнего и ближнего боя.

@@ -64,7 +64,7 @@ public sealed partial class CultifyBorgCommand : LocalizedEntityCommands
 
         var mins = chantryComponent.EventTime.Minutes;
         var secs = chantryComponent.EventTime.Seconds;
-        _antag.SendBriefing(victim.Value, Loc.GetString("cosmiccult-silicon-chantry-briefing", ("minutesandseconds", $"{mins} minutes and {secs} seconds")), Color.FromHex("#4cabb3"), null);
+        _antag.SendBriefing(victim.Value, Loc.GetString("cosmiccult-silicon-chantry-briefing", ("minutesandseconds", $"{mins} мин {secs} с")), Color.FromHex("#4cabb3"), null); // SIS-TODO: Анхаркод локали
     }
 
     private bool TryGetVictimFromUidOrUsername(

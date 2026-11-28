@@ -13,7 +13,7 @@ public sealed partial class CultRuneEmpowerSystem : EntitySystem
         var user = args.User;
         if (HasComp<BloodCultEmpoweredComponent>(user))
         {
-            args.Popup = "You are already empowered.";
+            args.Popup = "Вы уже наделены силой."; // SIS-TODO: Анхаркод локали
             return;
         }
 

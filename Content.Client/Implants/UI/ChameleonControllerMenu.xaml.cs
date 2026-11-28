@@ -64,7 +64,7 @@ public sealed partial class ChameleonControllerMenu : FancyWindow
         {
             _prototypeManager.Resolve(outfit.Job, out var jobProto);
 
-            var name = outfit.LoadoutName ?? outfit.Name ?? jobProto?.Name ?? "Prototype has no name or job.";
+            var name = outfit.LoadoutName ?? outfit.Name ?? jobProto?.Name ?? "У прототипа нет названия или должности."; // SIS-TODO: Анхаркод локали
 
             var jobIconId = outfit.Icon ?? jobProto?.Icon ?? UnknownIcon;
             var jobIconProto = _prototypeManager.Index(jobIconId);

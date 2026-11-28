@@ -52,7 +52,7 @@ public sealed partial class GasLeakRule : StationEventSystem<GasLeakRuleComponen
             {
                 stationEvent.EndTime = _timing.CurTime + TimeSpan.FromSeconds(totalGas / gasLeak.MolesPerSecond + startAfter.Next(RobustRandom));
                 _adminLogger.Add(LogType.EventRan, LogImpact.High, $"Gasleak placing {totalGas} moles of {gasLeak.LeakGas} at {gasLeak.TargetTile} in grid {gasLeak.TargetGrid}.");
-                _chat.SendAdminAnnouncement($"Gasleak placing {totalGas} moles of {gasLeak.LeakGas} at {gasLeak.TargetTile} in grid {gasLeak.TargetGrid}.");
+                _chat.SendAdminAnnouncement($"Утечка газа: {totalGas} моль ({gasLeak.LeakGas}), координаты {gasLeak.TargetTile}, сетка {gasLeak.TargetGrid}."); // SIS-TODO: Анхаркод локали
             }
             // </Trauma>
         }

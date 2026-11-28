@@ -521,7 +521,7 @@ public sealed partial class ServerGameTicker
 
             var antag = Role.MindIsAntagonist(mindId);
 
-            var playerIcName = "Unknown";
+            var playerIcName = "Неизвестно"; // SIS-TODO: Анхаркод локали
 
             if (mind.CharacterName != null)
                 playerIcName = mind.CharacterName;
@@ -550,7 +550,7 @@ public sealed partial class ServerGameTicker
                 // </Trauma>
                 // Note that contentPlayerData?.Name sticks around after the player is disconnected.
                 // This is as opposed to ply?.Name which doesn't.
-                PlayerOOCName = contentPlayerData?.Name ?? "(IMPOSSIBLE: REGISTERED MIND WITH NO OWNER)",
+                PlayerOOCName = contentPlayerData?.Name ?? "(ОШИБКА: ЗАРЕГИСТРИРОВАН РАЗУМ БЕЗ ВЛАДЕЛЬЦА)", // SIS-TODO: Анхаркод локали
                 // Character name takes precedence over current entity name
                 PlayerICName = playerIcName,
                 PlayerGuid = userId,

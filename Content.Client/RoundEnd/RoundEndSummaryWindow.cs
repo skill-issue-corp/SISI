@@ -199,7 +199,7 @@ namespace Content.Client.RoundEnd
                             ("player", playerInfo.PlayerOOCName))
                     };
 
-                    if (role != "Unknown")
+                    if (role != "Неизвестно") // SIS-TODO: Анхаркод локали
                         playerRoleText.Text = Loc.GetString("round-end-summary-window-player-name-role",
                                 ("role", role),
                                 ("player", playerInfo.PlayerOOCName));

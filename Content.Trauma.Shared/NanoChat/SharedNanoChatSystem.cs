@@ -273,7 +273,7 @@ public abstract partial class SharedNanoChatSystem : CommonNanoChatSystem
 
             // Try to get job title from ID card if possible
             string? jobTitle = null;
-            var name = "Unknown";
+            var name = "Неизвестно"; // SIS-TODO: Анхаркод локали
             if (TryComp<IdCardComponent>(uid, out var idCard))
             {
                 jobTitle = idCard.LocalizedJobTitle;

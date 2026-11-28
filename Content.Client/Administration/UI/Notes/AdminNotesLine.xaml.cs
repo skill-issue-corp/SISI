@@ -69,8 +69,8 @@ public sealed partial class AdminNotesLine : BoxContainer
         }
 
         TimeLabel.Text = Note.CreatedAt.ToLocalTime().ToString("yyyy-MM-dd HH:mm:ss");
-        ServerLabel.Text = Note.ServerName ?? "Unknown";
-        RoundLabel.Text = Note.Rounds.Length == 0 ? "Unknown round" : "Round " + string.Join(',', Note.Rounds);
+        ServerLabel.Text = Note.ServerName ?? "Неизвестен"; // SIS-TODO: Анхаркод локали
+        RoundLabel.Text = Note.Rounds.Length == 0 ? "Неизвестный раунд" : $"Раунд {string.Join(", ", Note.Rounds)}"; // SIS-TODO: Анхаркод локали
         AdminLabel.Text = Note.CreatedByName;
         PlaytimeLabel.Text = $"{Note.PlaytimeAtNote.TotalHours: 0.0}h";
 
@@ -146,7 +146,7 @@ public sealed partial class AdminNotesLine : BoxContainer
         var rolesText = string.Join(
             ", ",
             // Explicit cast here to avoid sandbox violation.
-            (IEnumerable<BanRoleDef>?)Note.BannedRoles ?? [new BanRoleDef("what", "You should not be seeing this")]);
+            (IEnumerable<BanRoleDef>?)Note.BannedRoles ?? [new BanRoleDef("what", "Это сообщение не должно отображаться")]); // SIS-TODO: Анхаркод локали
 
         var banMessage = new StringBuilder($"{Loc.GetString("admin-notes-banned-from")} {rolesText} ");
         return FormatBanMessageCommon(banMessage);

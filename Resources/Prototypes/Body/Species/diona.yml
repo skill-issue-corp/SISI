@@ -218,21 +218,26 @@
   components:
   - type: Sprite
     sprite: Mobs/Species/Diona/parts.rsi
+  # SIS-Start
+  - type: WoundableVisuals
+    damageGroupColors:
+      Brute: "#cd7314"
+  # SIS-End
 
 - type: entity
-  parent: [ OrganBaseTorso, OrganDionaExternal ]
+  parent: [ OrganDionaBleedingVisuals, OrganBaseTorso, OrganDionaExternal ] # SIS
   id: OrganDionaTorso
 
 - type: entity
-  parent: [ OrganBaseHeadBald, OrganDionaExternal ] # Trauma - bald trees
+  parent: [ OrganDionaBleedingVisuals, OrganBaseHeadBald, OrganDionaExternal ] # Trauma - bald trees, SIS - sap overlay
   id: OrganDionaHead
 
 - type: entity
-  parent: [ OrganBaseArmLeft, OrganDionaExternal ]
+  parent: [ OrganDionaBleedingVisuals, OrganBaseArmLeft, OrganDionaExternal ] # SIS
   id: OrganDionaArmLeft
 
 - type: entity
-  parent: [ OrganBaseArmRight, OrganDionaExternal ]
+  parent: [ OrganDionaBleedingVisuals, OrganBaseArmRight, OrganDionaExternal ] # SIS
   id: OrganDionaArmRight
 
 - type: entity
@@ -244,11 +249,11 @@
   id: OrganDionaHandRight
 
 - type: entity
-  parent: [ OrganBaseLegLeft, OrganDionaExternal ]
+  parent: [ OrganDionaBleedingVisuals, OrganBaseLegLeft, OrganDionaExternal ] # SIS
   id: OrganDionaLegLeft
 
 - type: entity
-  parent: [ OrganBaseLegRight, OrganDionaExternal ]
+  parent: [ OrganDionaBleedingVisuals, OrganBaseLegRight, OrganDionaExternal ] # SIS
   id: OrganDionaLegRight
 
 - type: entity

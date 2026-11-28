@@ -72,7 +72,7 @@ public sealed partial class GpsSystem : SharedGpsSystem
             if (!otherGps.Enabled)
                 continue;
 
-            var displayName = string.IsNullOrEmpty(otherGps.GpsName) ? "Unknown GPS" : otherGps.GpsName;
+            var displayName = string.IsNullOrEmpty(otherGps.GpsName) ? "Неизвестный GPS" : otherGps.GpsName; // SIS-TODO: Анхаркод локали
             entries.Add(new GpsEntry(
                 GetNetEntity(otherUid),
                 displayName,

@@ -124,7 +124,7 @@ public sealed partial class GatewaySystem : EntitySystem
         var user = args.Actor;
         if (_timing.CurTime < ent.Comp.NextReady)
         {
-            _popup.PopupCursor("This gateway isn't ready yet", user);
+            _popup.PopupCursor("Эти врата ещё не готовы", user); // SIS-TODO: Анхаркод локали
             return;
         }
 
@@ -135,7 +135,7 @@ public sealed partial class GatewaySystem : EntitySystem
             IsActive(dest) ||
             !destComp.Enabled)
         {
-            _popup.PopupCursor("The destination gateway is busy!", user, PopupType.SmallCaution);
+            _popup.PopupCursor("Врата назначения заняты!", user, PopupType.SmallCaution); // SIS-TODO: Анхаркод локали
             return;
         }
 

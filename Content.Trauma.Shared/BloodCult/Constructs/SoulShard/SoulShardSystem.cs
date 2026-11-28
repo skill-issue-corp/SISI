@@ -39,7 +39,7 @@ public abstract partial class SoulShardSystem : EntitySystem
 
         args.Handled = true;
 
-        _popup.PopupEntity("Soul shard is purified in a beam of holy light.", shard, PopupType.Medium);
+        _popup.PopupEntity("Осколок души очистился в луче святого света.", shard, PopupType.Medium); // SIS-TODO: Анхаркод локали
         _audio.PlayPredicted(bible.HealSoundPath, user, user);
         _appearance.SetData(shard.Owner, SoulShardVisualState.Blessed, true);
         _light.SetColor(shard.Owner, shard.Comp.BlessedLightColor);
