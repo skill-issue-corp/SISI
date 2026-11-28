@@ -16,7 +16,7 @@ VERSION = os.environ['GITHUB_SHA']
 #
 
 # SIS-CDN Start
-ROBUST_CDN_URL = "https://skill-issue-station.space/cdn/"
+ROBUST_CDN_URL = "https://skill-issue-station.online/cdn/"
 FORK_ID = "sisi"
 # SIS-CDN End
 
